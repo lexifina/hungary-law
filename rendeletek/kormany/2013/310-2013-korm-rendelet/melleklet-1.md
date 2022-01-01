@@ -8,7 +8,7 @@ A hulladékgazdálkodási terv és a megelőzési program előkészítése sorá
 
 1. a területileg illetékes vízügyi hatóságot és a működési területével érintett vízügyi igazgatóságot a vízügyre vonatkozó szakkérdések vonatkozásában,
 
-2. a bányafelügyeleti hatáskörében eljáró kormányhivatalt a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányászati szakkérdések vonatkozásában,
+2. a bányafelügyeletet a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányászati szakkérdések vonatkozásában,
 
 3. a Magyar Energetikai és Közmű-szabályozási Hivatalt az árképzéssel és az energetikával kapcsolatos szakkérdések vonatkozásában,
 
@@ -45,4 +45,4 @@ g) fogyasztóvédelmi hatáskörében eljárva a fogyasztóvédelmi szakkérdés
 h) népegészségügyi hatáskörében eljárva a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában.
 
 [^10]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja, a 259/2016. (VIII. 31.) Korm. rendelet 30. §-a, a 379/2016. (XII. 2.) Korm. rendelet 239. § (1) bekezdés e)–h) pontja, a 132/2018. (VII. 23.) Korm. rendelet 9. § (3) bekezdése szerint módosított szöveg.
+[^11]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja, a 259/2016. (VIII. 31.) Korm. rendelet 30. §-a, a 379/2016. (XII. 2.) Korm. rendelet 239. § (1) bekezdés e)–h) pontja, a 132/2018. (VII. 23.) Korm. rendelet 9. § (3) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.

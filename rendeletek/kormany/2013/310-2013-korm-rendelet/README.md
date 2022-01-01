@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-310-20-
 | 2017-01-01 | 2013-310-20-22.8 | 70/2016. (III. 31.) Korm. rendelet |
 | 2018-07-26 | 2013-310-20-22.9 | 70/2016. (III. 31.) Korm. rendelet |
 | 2021-04-01 | 2013-310-20-22.10 | 70/2016. (III. 31.) Korm. rendelet |
+| 2022-01-01 | 2013-310-20-22.11 | 70/2015. (III. 30.) Korm. rendelet |
