@@ -1,6 +1,6 @@
 ## Közvetlen bírósági felhívás
 
-28. § (1) A bíróság az olyan határozatában, amellyel a munkabérben részesülő személyt tartásdíj fizetésére kötelezte, a munkáltatót egyúttal közvetlenül felhívja arra, hogy a határozatban megállapított összeget vonja le, és fizesse ki a jogosultnak.
+28. § (1) A bíróság az olyan határozatában – ideértve az ideiglenes intézkedés tárgyában hozott végzést is –, amellyel a munkabérben részesülő személyt tartásdíj fizetésére kötelezte, a munkáltatót egyúttal közvetlenül felhívja arra, hogy a határozatban megállapított összeget vonja le, és fizesse ki a jogosultnak.
 
 (2) A bíróság a tartásdíj fizetésére kötelező határozat rendelkező részét a határozat meghozatalától számított 3 napon belül megküldi a munkáltatónak.
 

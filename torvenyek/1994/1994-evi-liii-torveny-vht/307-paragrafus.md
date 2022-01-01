@@ -75,7 +75,3 @@ n) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási k
 o)
 
 p) a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolás, ügyvitel és ügykezelés részletes szabályait,
-
-q)
-
-r)

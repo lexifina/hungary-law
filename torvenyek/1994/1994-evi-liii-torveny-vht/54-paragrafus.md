@@ -1,18 +1,18 @@
-54. § (1) A végrehajtást akkor lehet folytatni, ha az 52. §
+54. § (1) A végrehajtást akkor lehet folytatni, ha
 
-a) pontja esetén a személyazonosság megállapításához szükséges adatok pótlására került sor,
+a) az 52. § a) pontja esetén a személyazonosság megállapításához szükséges adatok pótlására sor került,
 
-b) pontja esetén a végrehajtást kérő a jogutódlás megállapítása iránti kérelmet terjesztett elő,
+b) az 52. § b) pontja esetén a jogutód vagy az ellenérdekű fél a jogutódlás megállapítása iránti kérelmet terjesztett elő,
 
-c) pontja esetén a végrehajtást kérő a közreműködési kötelezettségének eleget tesz,
+c) az 52. § c) pontja esetén a végrehajtást kérő a közreműködési kötelezettségének eleget tesz,
 
-d) pontja esetén valószínűsítették, hogy az adósnak van olyan vagyontárgya, amely lefoglalható, illetőleg értékesíthető,
+d) az 52. § d) pontja esetén valószínűsítették, hogy az adósnak van olyan vagyontárgya, amely lefoglalható, illetve értékesíthető, vagy gyermektartásdíj-követelés esetén – ide nem értve a 165. § (2) bekezdés szerinti, közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – a végrehajtást kérő a végrehajtás folytatását kéri,
 
-e) pontja esetén a végrehajtást kérő a költséget előlegezte,
+e) az 52. § e) pontja esetén a végrehajtást kérő a költséget előlegezte,
 
-f) pontja esetén a halasztás időtartama eltelt, illetőleg az adós a részlet teljesítését elmulasztotta,
+f) az 52. § f) pontja esetén a halasztás időtartama eltelt, illetve az adós a részlet teljesítését elmulasztotta,
 
-g) pontja esetén a szünetelés törvényben megállapított oka megszűnt.
+g) az 52. § g) pontja esetén a szünetelés törvényben megállapított oka megszűnt.
 
 (2) A végrehajtó által adott részletfizetés esetében a végrehajtást folytatni kell, ha
 
