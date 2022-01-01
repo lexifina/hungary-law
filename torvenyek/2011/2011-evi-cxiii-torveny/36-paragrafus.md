@@ -38,4 +38,6 @@ f) az élet, az anyagi javak és objektumok oltalmazása érdekében az elektrom
 
 g) a Magyarország biztonságát, honvédelmi érdekeit sértő, veszélyeztető, katonai jellegű kibertér műveletek, kibertérre ható cselekmények vagy kibertámadások elleni fellépés, illetve az ezekkel összefüggő szövetségesi, illetve nemzetközi együttműködési keretben megvalósuló feladatok.
 
+h) az (1) bekezdésben és a g) pontban meghatározott feladatokkal összefüggő műveletek előkészítéséhez és végrehajtásához szükséges információs műveletek teljesítése.
+
 (3) A (2) bekezdés b) pontjában meghatározott feladatot a Honvédség térítés ellenében láthatja el.

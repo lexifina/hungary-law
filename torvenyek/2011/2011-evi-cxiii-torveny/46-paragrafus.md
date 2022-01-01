@@ -4,7 +4,7 @@
 
 (2)
 
-(3) A honvédelmi államtitkár és a közigazgatási államtitkár kormányrendeletben meghatározottak szerint irányítják a honvédelemért felelős miniszter hatáskörébe tartozó döntések előkészítését, végrehajtásuk tervezését, szervezését. A honvédelmi államtitkár és a közigazgatási államtitkár feladataik ellátása során együttműködnek.
+(3) A honvédelmi államtitkár és a közigazgatási államtitkár – a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint irányítják a honvédelemért felelős miniszter hatáskörébe tartozó döntések előkészítését, végrehajtásuk tervezését, szervezését. A honvédelmi államtitkár és a közigazgatási államtitkár feladataik ellátása során együttműködnek.
 
 (4) A Magyar Honvédség Parancsnoksága a Honvédség felső szintű tervező-szervező és katonai tevékenységének vezető szerve.
 

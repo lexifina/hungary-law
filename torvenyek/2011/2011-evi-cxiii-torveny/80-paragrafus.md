@@ -68,6 +68,8 @@ j) az a)–i) pontban szereplő megjelölés kombinációja,
 
 18. igénybevevő: a 18. § (1) és (2) bekezdésében meghatározott honvédelemben közreműködő szervek és a honvédségi szervezet,
 
+18a. információs művelet: a műveleti területen lévő személyek és azok csoportjai információs ellátottságának módosítására, valamint a Honvédség erőinek és műveleteinek kedvező információs környezet kialakítására irányuló szervezett és rendszerszerűen felépített tevékenységek összessége.
+
 19. külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében,
 
 20. katonai igazgatás: a közigazgatási szervek jogilag szabályozott és a honvédelmi igazgatás részét képező olyan tevékenysége, amely a haza fegyveres védelme feltételeinek megteremtése és megvalósítása érdekében a jogalanyok honvédelmi kötelezettségeinek és önként vállalt honvédelmi feladatainak tervezésére, valamint a kötelezettségek és a vállalt feladatok végrehajtására irányul,

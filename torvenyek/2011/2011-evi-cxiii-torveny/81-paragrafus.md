@@ -56,6 +56,8 @@ z) a közérdekű használati jog gyakorlására jogosultak körét, továbbá a
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Honvédség veszélyhelyzettel és egészségügyi válsághelyzettel összefüggő feladatokban történő közreműködésének tartalmát.
 
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az e törvényben meghatározott kibertér műveleti feladatokban közreműködő szervezeteket, valamint e feladatok végrehajtásának rendjét.
+
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
 
 a) a hadkötelesek katonai szolgálatra behívásának, katonai szolgálatának és leszerelésének rendjét,
@@ -105,6 +107,8 @@ v) a Honvédséghez köthető megjelöléseket és azok használata engedélyez�
 a) a Honvédség által a Köztársasági Elnöki Hivatalnál foglalkoztatottak részére nyújtható, üdültetési és pihentetési szolgáltatások fajtáit, azok feltételeit és rendjét, továbbá a Honvédség személyi állományába nem tartozó személyeknek szolgálati érdekkel összefüggésben nyújtható költségtérítések fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés rendjét,
 
 b) a nyugállományú katonák és a honvédelmi szervezettől nyugdíjba vonult honvédelmi alkalmazottak, közalkalmazottak, segítését célul kitűző civil szervezetek természetbeni támogatásával összefüggő szabályokat.
+
+(2b) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben jelölje ki azokat a honvédelmi érdekhez közvetlenül kapcsolódó tevékenységet folytató gazdasági társaságokat, amelyek tekintetében a 22/A. §-ban meghatározott jogköröket gyakorolja.
 
 (3) Felhatalmazást kapnak a miniszterek, hogy a honvédelemért felelős miniszterrel egyetértésben rendeletben
 

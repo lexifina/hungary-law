@@ -1,6 +1,6 @@
 ## 29. A honvédelmi szervezet irányítása és felső szintű vezetése
 
-45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a honvédelmi szervezetet. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
+45. § (1) A honvédelemért felelős miniszternek a honvédelem és az egyes honvédelmi szervezetek irányításával összefüggő feladatait törvény, az e törvény végrehajtására kiadott kormányrendelet, valamint a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet határozza meg. A honvédelemért felelős miniszter nevében e hatáskörök gyakorlása során e törvény, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerint más személy eljárhat.
 
 (1a) A honvédelemért felelős miniszter egyes katonai szervezetek vagy azok speciális feladatokat ellátó szervezeti egységei esetében, a katonai szervezetek alapító okiratában meghatározottak szerint
 
