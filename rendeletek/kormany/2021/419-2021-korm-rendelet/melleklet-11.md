@@ -178,13 +178,13 @@
 
 | 88. | Gyümölcs termőhelyi kataszter | Agrárminisztérium | Lechner Tudásközpont |
 
-| 89. | Ásványi nyersanyag tekintetében megkutatott terület | Magyar Bányászati és Földtani Szolgálat | Lechner Tudásközpont |
+| 89. | Ásványi nyersanyag tekintetében megkutatott terület | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
 
-| 90. | Bányatelek | Magyar Bányászati és Földtani Szolgálat | Lechner Tudásközpont |
+| 90. | Bányatelek | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
 
 | 91. | Olyan terület, ahol a természeti csapások elleni védelemről gondoskodni kell | Országos Katasztrófavédelmi Főigazgatóság | Lechner Tudásközpont |
 
-| 92. | Földtani veszélyforrás terület övezete | Magyar Bányászati és Földtani Szolgálat | Lechner Tudásközpont |
+| 92. | Földtani veszélyforrás terület övezete | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
 
 | 93. | Honvédelmi és katonai célú terület övezete | honvédelemért felelős miniszter | Lechner Tudásközpont |
 
