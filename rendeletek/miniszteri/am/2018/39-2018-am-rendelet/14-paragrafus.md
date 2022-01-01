@@ -30,7 +30,7 @@ c) a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtás
 
 (7)[^5] E rendelet alapján mezőgazdasági csekély összegű támogatás az adott támogatási évre vonatkozóan, valamint a 2020. támogatási év I–IV. negyedévére megállapított átmeneti támogatás összege tekintetében legfeljebb 2 milliárd forint összegig állapítható meg.
 
-(7a)[^6] E rendelet alapján a 2021. támogatási évben az átmeneti, valamint a mezőgazdasági csekély összegű támogatásokra megállapítható támogatás összege legfeljebb 3,2 milliárd forint.
+(7a)[^6] E rendelet alapján a 2021. támogatási évben és a 2022. támogatási évben is az átmeneti, valamint a mezőgazdasági csekély összegű támogatásokra megállapítható támogatás összege legfeljebb 3,2 milliárd forint.
 
 (8)[^7] Ha a benyújtott mezőgazdasági csekély összegű támogatás vagy a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatás (a továbbiakban: átmeneti támogatás) iránti kérelmekben foglalt összes jogos igény meghaladja a (7) bekezdés szerinti keretösszeget, akkor az igénylő részére megállapítható legmagasabb támogatási összeg a túllépés mértékével arányosan csökken.
 
@@ -39,5 +39,5 @@ c) a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtás
 [^3]: A 14. § (1a) bekezdését a 11/2019. (IV. 1.) AM rendelet 16. § (1) bekezdése iktatta be.
 [^4]: A 14. § (5a) bekezdését a 11/2019. (IV. 1.) AM rendelet 16. § (2) bekezdése iktatta be.
 [^5]: A 14. § (7) bekezdése a 41/2020. (VIII. 19.) AM rendelet 17. §-ával megállapított, a 65/2020. (XII. 17.) AM rendelet 9. § a) pontja szerint módosított szöveg.
-[^6]: A 14. § (7a) bekezdését a 18/2021. (IV. 14.) AM rendelet 17. §-a iktatta be, szövege a 29/2021. (VIII. 31.) AM rendelet 5. § b) pontja szerint módosított szöveg.
+[^6]: A 14. § (7a) bekezdését a 18/2021. (IV. 14.) AM rendelet 17. §-a iktatta be, szövege a 29/2021. (VIII. 31.) AM rendelet 5. § b) pontja, az 50/2021. (XII. 29.) AM rendelet 25. § a) pontja szerint módosított szöveg.
 [^7]: A 14. § (8) bekezdése a 41/2020. (VIII. 19.) AM rendelet 17. §-ával megállapított szöveg.

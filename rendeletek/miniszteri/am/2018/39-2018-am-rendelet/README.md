@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-39-20-7
 | 2021-08-21 | 2018-39-20-7R.8 | 28/2021. (VIII. 18.) AM rendelet |
 | 2021-09-03 | 2018-39-20-7R.9 | 29/2021. (VIII. 31.) AM rendelet |
 | 2021-12-31 | 2018-39-20-7R.10 | 49/2021. (XII. 28.) AM rendelet |
+| 2022-01-01 | 2018-39-20-7R.11 | 18/2021. (IV. 14.) AM rendelet |
