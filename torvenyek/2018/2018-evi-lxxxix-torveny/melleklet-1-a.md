@@ -58,6 +58,8 @@ s) kollégiumi vagy diákotthoni elhelyezés esetén a kollégium, illetve a di�
 
 t) a kiadott oklevél, oklevélmelléklet, szakmai bizonyítvány, szakmai bizonyítványmelléklet, képesítő bizonyítvány és képesítő bizonyítványmelléklet adatait.
 
+u) legmagasabb iskolai végzettségével és szakképesítésével, illetve szakképzettségével kapcsolatos adatokat.
+
 III. Alkalmazotti nyilvántartás
 
 1. Az alkalmazotti nyilvántartás az alkalmazott alábbi személyes adatait tartalmazza:
