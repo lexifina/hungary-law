@@ -2,7 +2,7 @@
 
 1. § (1) E törvény hatálybalépésekor e törvény erejénél fogva a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.) vagyonkezelésébe kerülnek a birtokában vagy üzemeltetésében lévő, állami tulajdonban álló ingóságok, az ingóságokon e törvény hatálybalépésekor fennálló vagyonkezelői jog egyidejű megszűnésével.
 
-(2)
+(2) A NISZ Zrt. feladata a vagyonkezelésében lévő központosított informatikai, telekommunikációs és elektronikus hírközlési szolgáltatásnyújtáshoz, adattrezor-archiválási rendszer üzemeltetéséhez, informatikai infrastruktúra-szolgáltatásokhoz, kormányzati nyomatmenedzsment rendszerhez kapcsolódó elavult technológiájú vagy feleslegessé vált vagyonelemek – selejtezési szabályzata figyelembevételével – hulladéknak, illetve hulladéknak nem minősülő vissznyereményi anyagnak történő minősítése, megsemmisítése vagy hulladékgyűjtő helyen történő elhelyezése. A NISZ Zrt. jogosult a hulladéknak nem minősülő vissznyereményi anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval.
 
 (3) A NISZ Zrt. kezdeményezheti a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságnak (továbbiakban: MNV Zrt.) az állami vagyonról szóló 2007. CVI. törvény 36. § (6) és (8) bekezdése szerinti döntését a vagyonkezelésében álló ingóságok tulajdonjogának ingyenes átruházására. Ha az MNV Zrt. Igazgatósága döntött ezen vagyonelemek ingyenes tulajdonba adásáról, az Igazgatóság ingyenes tulajdonba adásra vonatkozó döntésének végrehajtása során a NISZ Zrt. – az MNV Zrt. képviseletében – jogosult a tulajdonjog-átruházás lefolytatására, a tulajdonátruházási szerződés állam nevében történő megkötésére.
 
@@ -12,4 +12,4 @@
 
 (6) A kormányzati nyomatmenedzsment rendszer részét képező, az (1) bekezdés alapján a NISZ Zrt. vagyonkezelésbe kerülő nyomat-előállításra használt eszközökről, berendezésekről e törvény hatálybalépését követő 30 napon belül a NISZ Zrt. és az érintett, korábbi vagyonkezelő központi költségvetési szerv közös leltárt vesz fel. A NISZ Zrt. az (5) bekezdés szerinti adatszolgáltatást a közösen felvett leltárnak megfelelően, azzal megegyezően készíti el.
 
-(7)
+(7) Az államháztartásról szóló 2011. CXCV. törvény 31/A. § (5a) bekezdése szerinti forrásból a NISZ Zrt. által beszerzésre kerülő vagyonelemek tulajdonjogának az állam javára történő megszerzésére irányuló jogügylet megkötéséhez az MNV Zrt. előzetes hozzájárulását nem kell beszerezni.

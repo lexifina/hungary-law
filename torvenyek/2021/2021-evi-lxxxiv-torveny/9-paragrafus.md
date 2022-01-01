@@ -1,1 +1,3 @@
-9. §
+9. § A Cstv. 66. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az állami felszámoló az e törvényben meghatározott tevékenységen kívül más gazdasági tevékenységet nem végezhet, kivéve a kizárólagos vagy többségi állami részesedéssel működő gazdálkodó szervezeteknél végzett üzletviteli és egyéb tanácsadást, szerkezetátalakítási és adósságrendezési tervek készítését, jogszabályban meghatározott tanácsadói, szakértői tevékenységet, az említett és a Ctv. 87. §-a szerinti, állami örökléssel érintett gazdálkodó szervezetek tekintetében a Ctv. szerinti felügyelőbiztosi, – a Ctv. 99. §-ában foglalt feltételek érvényesülése mellett – végelszámolói, továbbá vagyonrendezői tevékenységet, valamint a helyi önkormányzatok tekintetében a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény szerinti pénzügyi gondnoki tevékenységet.”

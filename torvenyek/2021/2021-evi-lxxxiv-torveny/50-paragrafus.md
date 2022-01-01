@@ -1,1 +1,5 @@
-50. §
+50. § Az Nvtv. 5. alcíme a következő 11/A. §-sal egészül ki:
+
+„11/A. § (1) A kivezetésre szánt állami vagyon vagyonkezelésbe nem adható, azon haszonélvezeti jog nem alapítható, továbbá e vagyon ingyenesen nem hasznosítható.
+
+(2) A 11. § (10) bekezdésétől eltérően a kivezetésre szánt állami vagyon tekintetében hasznosításra irányuló szerződés határozatlan vagy legfeljebb 1 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 1 évvel meghosszabbító abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette és a hasznosítással érintett vagyonelem elidegenítése 1 éven belül nem lehetséges. A határozatlan időre kötött hasznosítási szerződésben legfeljebb 6 hónapos felmondási idő köthető ki.”
