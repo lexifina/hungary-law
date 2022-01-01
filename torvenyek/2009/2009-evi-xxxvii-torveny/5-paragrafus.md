@@ -74,7 +74,7 @@ c) faapríték;
 
 32. faanyag kereskedelmi lánc: azon folyamatok és az abban szereplők összessége, amelyek közvetlen vagy közvetett hatással vannak az e törvény hatálya alá tartozó faanyagok, termékek előállítására, felhasználására, feldolgozására, tárolásárára, szállítására, kereskedelmére, vagy forgalomba hozatalára;
 
-33. faanyag kereskedelmi lánc szereplője: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk c) és d) pontjában foglalt személy vagy szervezet;
+33. faanyag kereskedelmi lánc szereplője: azon személy vagy szervezet, aki a faanyag kereskedelmi lánchoz tartozó tevékenységet végez;
 
 34. forgalomba hozatal: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk b) pontjában foglalt tevékenység;
 
