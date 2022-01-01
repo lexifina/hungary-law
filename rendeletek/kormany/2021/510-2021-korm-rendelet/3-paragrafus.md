@@ -1,5 +1,5 @@
-## 3. Az adatbiztonsággal és az adatátadással kapcsolatos rendelkezések
+## 3.[^4]
 
-3. §[^3]
+3. §
 
-[^3]: A 3. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^4]: A 3. alcím (3. §) a 717/2021. (XII. 20.) Korm. rendelet 34. § (2) bekezdés a) pontja alapján nem lép hatályba.

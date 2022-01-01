@@ -1,5 +1,5 @@
-## 7. Ellenőrzés
+## 7.[^8]
 
-7. §[^7]
+7. §
 
-[^7]: A 7. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^8]: A 7. alcím (7–8. §) a 717/2021. (XII. 20.) Korm. rendelet 34. § (2) bekezdés a) pontja alapján nem lép hatályba.

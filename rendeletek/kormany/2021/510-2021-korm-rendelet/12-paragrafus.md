@@ -1,3 +1,3 @@
-12. §[^11]
+12. §[^12]
 
-[^11]: A 12. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^12]: A 12. § a 717/2021. (XII. 20.) Korm. rendelet 34. § (2) bekezdés b) pontja alapján nem lép hatályba.

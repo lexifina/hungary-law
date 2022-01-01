@@ -1,3 +1,3 @@
-14. §[^13]
+14. §[^14]
 
-[^13]: A 14. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^14]: A 14. § a 717/2021. (XII. 20.) Korm. rendelet 34. § (2) bekezdés c) pontja alapján nem lép hatályba.

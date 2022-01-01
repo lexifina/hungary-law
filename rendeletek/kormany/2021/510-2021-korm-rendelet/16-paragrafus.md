@@ -1,3 +1,3 @@
-16. §[^15]
+16. §[^16]
 
-[^15]: A 16. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 16. § a 717/2021. (XII. 20.) Korm. rendelet 34. § (2) bekezdés d) pontja alapján nem lép hatályba.

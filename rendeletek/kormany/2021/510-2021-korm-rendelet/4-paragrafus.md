@@ -1,5 +1,5 @@
-## 4. Üvegkapu-regisztráció
+## 4.[^5]
 
-4. §[^4]
+4. §
 
-[^4]: A 4. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^5]: A 4. alcím (4. §) a 717/2021. (XII. 20.) Korm. rendelet 34. § (2) bekezdés a) pontja alapján nem lép hatályba.
