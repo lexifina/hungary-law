@@ -4,11 +4,11 @@
 
 2.
 
-3.
+3. 2. §-ában az „e)–j) pontban” szövegrész helyébe az „e)–j) és l) pontban” szöveg,
 
 4.
 
-5.
+5. 4. § (6) bekezdés b) pontjában a „kérelemről” szövegrész helyébe a „kérelemről és bejegyzi a névváltoztatást” szöveg,
 
 6.
 
@@ -52,7 +52,7 @@
 
 26.
 
-27.
+27. 73/B. § (1) bekezdésében az „a kiállított” szövegrész helyébe az „a 2014. július 1-jét követően kiállított” szöveg,
 
 28.
 

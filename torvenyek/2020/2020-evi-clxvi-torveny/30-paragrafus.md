@@ -1,6 +1,6 @@
 30. § Hatályát veszti az At.
 
-a)
+a) 15. § (3) bekezdésében az „és névváltoztatási okiratmásolatát” szövegrész,
 
 b)
 
@@ -10,7 +10,7 @@ d)
 
 e)
 
-f)
+f) 52. §-a,
 
 g)
 
