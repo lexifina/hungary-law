@@ -1,4 +1,4 @@
-## 15/A. [^1] A műszaki engedélyes ellenőrzése és az alkalmazott jogkövetkezmények
+## 15/A. [^9] A műszaki engedélyes ellenőrzése és az alkalmazott jogkövetkezmények
 
 32/A. § (1) Ha a vasúti jármű karbantartására, javítására vagy időszakos és rendkívüli vizsgálatára műszaki hatósági engedéllyel (a továbbiakban: műszaki engedély) rendelkező engedélyes
 
@@ -26,4 +26,4 @@ c) ha a (2) bekezdés szerinti tiltás elrendelésének alapjául szolgáló kö
 
 (6) Ha az (5) bekezdés b) pontja esetén az engedélyes a határozattal szembeni jogorvoslatra nyitva álló határidőben az újraindítás iránti szándékát bejelenti, a közlekedési hatóság a műszaki engedély visszavonásáról szóló határozatát visszavonja.
 
-[^1]: A 15/A. alcímet (32/A. §) a 713/2020. (XII. 30.) Korm. rendelet 64. §-a iktatta be.
+[^9]: A 15/A. alcímet (32/A. §) a 713/2020. (XII. 30.) Korm. rendelet 64. §-a iktatta be.

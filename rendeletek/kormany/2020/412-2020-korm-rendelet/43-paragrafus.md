@@ -14,10 +14,15 @@ c) a nemzeti járműnyilvántartás közös előírásainak elfogadásáról sz�
 
 d) az engedélyezett vasútijármű-típusok európai nyilvántartásáról szóló, 2011. október 4-i 2011/665/EU bizottsági határozat,
 
-e) az Európai Unió vasúti rendszerének forgalmi szolgálat és forgalomirányítás alrendszerére vonatkozó átjárhatósági műszaki előírásokról és a 2007/756/EK határozat módosításáról szóló, 2012. november 14-i 2012/757/EU bizottsági határozat,
+e)[^10]
 
 f) az áruk szabad mozgása, a személyek szabad mozgása, a letelepedés joga és a szolgáltatásnyújtás szabadsága, a társasági jog, a versenypolitika, a mezőgazdaság, az élelmiszer-biztonság, az állat- és növény-egészségügyi politika, a halászat, a közlekedéspolitika, az energiaügy, az adózás, a statisztika, a szociálpolitika és foglalkoztatás, a környezetvédelem, a vámunió, a külkapcsolatok, valamint a kül-, biztonsági és védelmi politika területén elfogadott egyes rendeleteknek és határozatoknak Horvátország csatlakozására tekintettel történő kiigazításáról szóló, 2013. február 21-i 519/2013/EU bizottsági rendelet,
 
 g) az Európai Unió vasúti rendszere „járművek–teherkocsik” alrendszerére vonatkozó átjárhatósági műszaki előírásról és a 2006/861/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2013. március 13-i 321/2013/EU bizottsági rendelet,
 
 h) az (EU) 2016/797 európai parlamenti és tanácsi irányelvvel összhangban a kölcsönös átjárhatóságot lehetővé tevő vasúti rendszerelemekre és alrendszerekre vonatkozó EK-nyilatkozatok és -tanúsítványok sablonjairól, az engedélyezett vasúti járműtípusnak való megfelelőségről szóló nyilatkozat mintájáról és az alrendszerek EK-hitelesítésére szolgáló eljárásokról, valamint a 201/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. február 12-i (EU) 2019/250 bizottsági végrehajtási rendelet
+
+i)[^11] az Európai Unió vasúti rendszerének forgalomüzemeltetés és -irányítás alrendszerére vonatkozó átjárhatósági műszaki előírásokról és a 2012/757/EU határozat hatályon kívül helyezéséről szóló, 2019. május 16-i (EU) 2019/773 bizottsági végrehajtási rendelet
+
+[^10]: A 43. § (2) bekezdés e) pontját a 789/2021. (XII. 27.) Korm. rendelet 86. §-a hatályon kívül helyezte.
+[^11]: A 43. § (2) bekezdés i) pontját a 789/2021. (XII. 27.) Korm. rendelet 84. §-a iktatta be.

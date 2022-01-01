@@ -1,5 +1,3 @@
-## vasúti jármű belföldi vasúti hálózaton való közlekedtetéséhez.
-
 4. § (1) A kölcsönös átjárhatóság követelményeire vonatkozó irányelv hatálya alá nem tartozó, kizárólag a helyi, városi vagy elővárosi, továbbá a saját célú vasúti pályahálózatokon közlekedő vasúti járművek, a metró jármű, a földalatti vasút járműve, a villamos, a helyi érdekű vasúti jármű (a továbbiakban: HÉV), a vasút-villamos, a fogaskerekű jármű, a kétéltű jármű, a keskeny nyomtávolságú vasúti jármű, a történelmi, valamint a turisztikai célra használt járművek (a továbbiakban együtt: nem interoperábilis vasúti jármű) belföldi vasúti pályahálózaton való közlekedtetéséhez a vasúti közlekedési hatóság (a továbbiakban: hatóság) által kiadott
 
 a) típusengedély és

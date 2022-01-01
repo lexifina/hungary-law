@@ -8,7 +8,7 @@ c) a típusengedély jogosultjának, a vasúti jármű gyártójának vagy tulaj
 
 (2) A típusengedély módosítási eljárás lefolytatása során a hatóság megvizsgálja
 
-a) a 13. § (2) bekezdésében foglaltaknak való megfelelőséget és
+a)[^6] a 21. § (2) bekezdésében foglaltaknak való megfelelőséget és
 
 b) azt, hogy szükséges-e új sorozatjel és pályaszámcsoport meghatározása.
 
@@ -19,3 +19,5 @@ a) az adott járműtípus sorozatjárműveinek a módosított típusengedélynek
 b) az üzembehelyezés feltételeit és az üzembehelyezési eljárás rendjét és
 
 c) a jármű üzemeltetésének általános szabályait, feltételeit, szükség esetén a közlekedtetéssel kapcsolatos korlátozásokat rendel el.
+
+[^6]: A 23. § (2) bekezdés a) pontja a 789/2021. (XII. 27.) Korm. rendelet 85. § b) pontja szerint módosított szöveg.
