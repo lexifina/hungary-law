@@ -68,6 +68,8 @@ o) a 47/B. § (12) bekezdés szerinti rendszert;
 
 p) FELIR felhasználók természetes személyazonosító adatait.
 
+q) a megújuló energiaforrásokból előállított energia használatát szolgáló biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fogyasztási, felhasználási adatait is.
+
 (3) A FELIR kialakításához és működtetéséhez az élelmiszerlánc-felügyeleti szerv kezeli
 
 a) a természetes személy természetes személyazonosító adatait, lakcímét, elérhetőségét, adóazonosító jelét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számát, bankszámlaszámát, egyéni vállalkozó természetes személy esetén a székhelyét, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: KKVtv.) hatálya alá tartozó vállalkozás KKVtv. 3. §-a szerinti besorolását és adószámát, őstermelő természetes személy esetén az adószámát is;
