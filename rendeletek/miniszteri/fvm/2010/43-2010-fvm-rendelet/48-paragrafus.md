@@ -8,21 +8,20 @@
 
 (3)[^160] A növényvédelmi gépek műszaki felülvizsgálatát a 35. § (3) bekezdés szerinti alapképzés, és vizsga hiányában az első alapképzés elindulásáig, de legkésőbb 2019. december 31-éig az a felülvizsgálatra jogosult végezheti, aki a NÉBIH-nél kérelmezi a nyilvántartásba vételét, és annak a NÉBIH honlapján szereplő listában való közzétételét.
 
-(4)[^161] A Magyar Államkincstár a 22. § (5b) bekezdés szerinti adatokat a 2021. évben a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet módosításáról szóló 45/2021. (XII. 1.) AM rendelet hatálybalépését[^162] követő 15 napon belül adja át a NÉBIH részére.
+(4)[^161]
 
-(5)[^163]
+(5)[^162]
 
-(6)[^164]
+(6)[^163]
 
-(7)[^165]
+(7)[^164]
 
-(8)[^166]
+(8)[^165]
 
 [^159]: A 47. § a 70/2013. (VII. 31.) VM rendelet 125. § h) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja szerint módosított szöveg.
 [^160]: A 48. § (3) bekezdését a (8) bekezdés hatályon kívül helyezte, újonnan a 35/2019. (VII. 15.) AM rendelet 19. § iktatta be.
-[^161]: A 48. § (4) bekezdését a (8) bekezdés hatályon kívül helyezte, újonnan a 45/2021. (XII. 1.) AM rendelet 15. §-a iktatta be.
-[^162]: A hatálybalépés időpontja 2021. december 16.
-[^163]: A 48. § (5) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^164]: A 48. § (6) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^165]: A 48. § (7) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^166]: A 48. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^161]: A 48. § (4) bekezdését a 45/2021. (XII. 1.) AM rendelet 18. § f) pontja újból hatályon kívül helyezte.
+[^162]: A 48. § (5) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^163]: A 48. § (6) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^164]: A 48. § (7) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^165]: A 48. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

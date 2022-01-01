@@ -1,3 +1,3 @@
-4. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^173]
+4. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^172]
 
-[^173]: A 4. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^172]: A 4. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.

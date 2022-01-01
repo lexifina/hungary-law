@@ -1,3 +1,3 @@
-6. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^175]
+6. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^174]
 
-[^175]: A 6. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^174]: A 6. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
