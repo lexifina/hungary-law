@@ -1,0 +1,3 @@
+163. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény 157. §-a a következő (14) bekezdéssel egészül ki:
+
+„(14) E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel módosított rendelkezéseit a 2022. március 1-jén vagy azt követően előterjesztett fellebbezés vagy felülvizsgálati kérelem, illetve az eljáró közigazgatási szerv kijelölésére irányuló kérelem alapján indult eljárásokban, valamint a 2022. március 1-jén vagy azt követően előterjesztett kizárási indítványra, az eljáró bíróság kijelölése iránt kérelemre, továbbá az eljárás szabálytalansága ellen vagy az eljárás elhúzódása miatt benyújtott kifogásra kell alkalmazni.”

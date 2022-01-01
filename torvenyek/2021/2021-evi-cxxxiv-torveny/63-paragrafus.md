@@ -1,0 +1,3 @@
+63. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 83. §-a a következő (1b) bekezdéssel egészül ki:
+
+„(1b) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a 2019/816 európai parlamenti és tanácsi rendelet 5. cikkében meghatározott, az ECRIS-TCN számára történő adattovábbítás, illetve az ECRIS-TCN-ben ujjnyomattal történő adatigénylés céljából a bűnügyi nyilvántartó szerv részére a daktiloszkópiai nyilvántartásban kezelt ujjnyomat azonos másolatát továbbítja.”

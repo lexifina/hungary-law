@@ -1,0 +1,1 @@
+215. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. § (6) bekezdésében a „vagyontárgy vagy” szövegrész helyébe a „vagyontárgy hiánya vagy” szöveg lép.

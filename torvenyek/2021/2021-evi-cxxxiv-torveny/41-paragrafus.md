@@ -1,0 +1,3 @@
+41. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény a következő 131/S. §-sal egészül ki:
+
+„131/S. § E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított 119. § (1b) bekezdését, 121. § (2a)–(2d) és (4) bekezdését, valamint 124. §-át a folyamatban lévő ügyekben is alkalmazni kell.”

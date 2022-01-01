@@ -1,0 +1,1 @@
+216. § Hatályát veszti az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. § (4) bekezdésében a „ , továbbá ha a pénzösszegben elrendelt vagyonelkobzás végrehajtása során megállapították, hogy a vagyonhoz ingatlan is tartozik” szövegrész.

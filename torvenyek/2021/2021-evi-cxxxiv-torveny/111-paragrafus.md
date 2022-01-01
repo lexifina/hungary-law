@@ -1,0 +1,1 @@
+111. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény 5. §-ában a „büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.)” szövegrész helyébe a „Be.” szöveg lép.

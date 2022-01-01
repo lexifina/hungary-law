@@ -1,0 +1,1 @@
+77. § Hatályát veszti a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 10. § (2) bekezdésében a „ , továbbá azt, hogy az egyes bírák melyik szakágú jogegységi tanácsban járhatnak el” szövegrész.
