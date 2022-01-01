@@ -1,9 +1,3 @@
-## 7. A büntető és szabálysértési ügyekben alkalmazható közvetítői tevékenységre, valamint a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény alkalmazására vonatkozó átmeneti szabályok
+## 7.
 
-7. § (1) Ha a büntetőeljárás közvetítői eljárás céljából történő felfüggesztésére a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése előtt került sor, a büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bktv.) 15. § (1) bekezdés h) pontjában meghatározott időtartamba nem számít bele az az időtartam, amely alatt a járványügyi intézkedésre vagy az egészségügyi válsághelyzettel összefüggő egyéb okra figyelemmel a sértett vagy a gyanúsított közvetítői megbeszélésen való jelenlétének biztosítása telekommunikációs eszköz használatával sem volt lehetséges.
-
-(2) Ha a büntetőeljárás vagy a szabálysértési eljárás közvetítői eljárás céljából történő felfüggesztésére a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése előtt került sor, a Vmt. 226. § (1) bekezdésével megállapított határidő-számítás továbbra is alkalmazható, valamint a Vmt. rendelkezései szerint lefolytatott eljárási cselekményeket és megtett nyilatkozatokat akkor is érvényesnek kell tekinteni, ha arra ilyen formában a Bktv. nem ad lehetőséget.
-
-(3) Ha a büntetés-végrehajtási bíró eljárásának – ideértve a másodfokú bírósági eljárást is – megindulására a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése előtt került sor, a Vmt. 236. § (5) bekezdésével megállapított határidő-számítás továbbra is alkalmazható.
-
-(4) A közérdekű munka végrehajtása veszélyhelyzetre tekintettel történő elhalasztásának vagy félbeszakításának tartama, valamint a járványügyi intézkedés vagy az egészségügyi válsághelyzettel összefüggésben elrendelt egyéb intézkedés tartama, ha ez a veszélyhelyzet ideje alatt a végrehajtást akadályozta, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 280. § (5) bekezdésében meghatározott határidőbe nem számít be.
+### 7. §

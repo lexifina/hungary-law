@@ -1,1 +1,1 @@
-16. § Felhatalmazást kap a Kormány, hogy az (EU) 2021/953 európai parlamenti és tanácsi rendelet szerinti uniós digitális Covid-igazolvány kiállításáért felelős szervet, valamint a kiállítás részletszabályait rendeletben határozza meg.
+### 16. §

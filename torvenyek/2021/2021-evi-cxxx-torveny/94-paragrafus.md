@@ -1,3 +1,1 @@
-## „(4a) Azon gazdasági társaság esetében, amelyben az állam közvetlen vagy közvetett befolyása az 1%-os mértéket nem haladja meg, az állami vagyon felügyeletéért felelős miniszter kérelmet nyújthat be a bírósághoz, a Cstv. IV. Fejezetének mellőzése iránt. A kérelmet a bíróság 8 napon belül bírálja el. A bíróság a végzésében felmenti a Cstv. 66. § (2) bekezdése alapján kirendelt állami felszámolót, és egyidejűleg a felszámolók névjegyzékéből kirendeli az ideiglenes vagyonfelügyelőt, vagyonfelügyelőt, illetve a felszámolót. A felmentett állami felszámoló költségtérítésére a Cstv. 27/A. § (9) bekezdését kell alkalmazni. A felmentett állami felszámoló az új kirendelt felszámoló részére a kirendelésétől számított 8 napon belül teljesíti a Cstv. 27/A. § (11) bekezdésében meghatározott kötelezettségeket.”
-
-94. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 82. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+### 94. §

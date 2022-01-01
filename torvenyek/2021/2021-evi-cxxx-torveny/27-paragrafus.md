@@ -1,21 +1,3 @@
-## 22. A választási eljárással kapcsolatos átmeneti szabályok
+## 22.
 
-27. § (1) A helyi önkormányzat vagy a nemzetiségi önkormányzat képviselő-testülete feloszlásának
-
-a) a veszélyhelyzet idejére eső időközi választásokra vonatkozó átmeneti rendelkezésekről szóló 483/2020. (XI. 5.) Korm. rendelet,
-
-b) a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény,
-
-c) a veszélyhelyzet idejére eső időközi választásokra, valamint az országos és helyi népszavazásokra vonatkozó átmeneti rendelkezésekről szóló 30/2021. (I. 29.) Korm. rendelet vagy
-
-d) a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
-
-hatálya alatt történő kimondása esetén e döntés hatálya a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő napon áll be.
-
-(2) Időközi választás a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő naptól tűzhető ki. A ki nem tűzött és az elmaradt választást a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő tizenöt napon belül ki kell tűzni.
-
-(3) Ha a kitűzött választás elmaradását a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény 4. § (4) bekezdése alapján szünetelésnek kellett tekinteni, a nyilvántartásba vétel hatálya a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően kitűzött választásra is kiterjed, további jelölt- és listaállítás nem lehetséges. Ebben az esetben az elmaradt választást legkésőbb a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő negyvenötödik napra lehet kitűzni.
-
-(4) Helyi népszavazás a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő naptól kezdeményezhető. A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény III. Fejezetében meghatározott, a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény 4. § (6) bekezdése alapján megszakadt határidők a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő napon újrakezdődnek. A ki nem tűzött és az elmaradt helyi népszavazást a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő tizenöt napon belül ki kell tűzni.
-
-(5) Ha a helyi népszavazás kezdeményezése érdekében folytatott aláírásgyűjtésre vonatkozó határidő a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény 4. § (6) bekezdése alapján szünetelt, a helyi választási iroda vezetője a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő napon új hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát, és azt átadja a szervezőnek. A szünetelés időtartama a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény 47. § (1) bekezdésében meghatározott időtartamba nem számít be.
+### 27. §
