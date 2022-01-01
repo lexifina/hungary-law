@@ -108,23 +108,27 @@
 
 2.1.5. Univers' Art Művészeti Egyesület (Törökbálint)
 
+2.1.6.[^12] „Kortárs Balettért” Alapítvány (Szeged)
+
+2.1.7.[^13] Kortárs Táncért és Jelelő Színházért Alapítvány (Kápolnásnyék)
+
 3. Kiemelt minősítésű zeneművészeti szervezet:
 
-3.1.[^12] Önkormányzati fenntartású kiemelt zeneművészeti szervezet:
+3.1.[^14] Önkormányzati fenntartású kiemelt zeneművészeti szervezet:
 
 3.1.1. Budafoki Dohnányi Ernő Szimfonikus Zenekar Közhasznú Nonprofit Kft. (Budapest)
 
-3.1.2. Óbudai Danubia Zenekar Nonprofit Kft. (Budapest)
+3.1.2.[^15]
 
 3.1.3. Szolnoki Szimfonikus Zenekar Nonprofit Kft. (Szolnok)
 
 3.1.4. Szolnoki Bartók Béla Kamarakórus (Szolnok)
 
-3.1.5. Zuglói Filharmónia Nonprofit Kft. (Budapest)
+3.1.5.[^16]
 
-3.1.6.[^13] Alba Regia Szimfonikus Zenekar (Székesfehérvár)
+3.1.6.[^17] Alba Regia Szimfonikus Zenekar (Székesfehérvár)
 
-3.2.[^14] Önkormányzattal közszolgáltatási szerződést kötött kiemelt zeneművészeti szervezet:
+3.2.[^18] Önkormányzattal közszolgáltatási szerződést kötött kiemelt zeneművészeti szervezet:
 
 3.2.1. Budapesti Vonósok Alapítványa (Budapest)
 
@@ -132,9 +136,13 @@
 
 3.2.3. Mendelssohn Kamarazenekar Közhasznú Egyesület (Veszprém)
 
-3.2.4.[^15] Anima Musicae Kamarazenekar Egyesület (Sülysáp)
+3.2.4.[^19] Anima Musicae Kamarazenekar Egyesület (Sülysáp)
 
-3.2.5.[^16] Szent Efrém Közhasznú Alapítvány (Budapest)
+3.2.5.[^20] Szent Efrém Közhasznú Alapítvány (Debrecen)
+
+3.2.6.[^21] Óbudai Danubia Nonprofit Kft. (Pilisszentiván)
+
+3.2.7.[^22] Szent István Filharmonikusok Nonprofit Kft. (Szarvas)
 
 [^6]: A 2. melléklet a 37/2017. (XII. 29.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^7]: A 2. melléklet 1. pont 1.1. alpontja a 43/2018. (XII. 18.) EMMI rendelet 2. §-ával megállapított szöveg.
@@ -142,8 +150,14 @@
 [^9]: A 2. melléklet 1. pont 1.1. alpont 1.1.30. pontját a 3/2021. (I. 28.) EMMI rendelet 3. §-a hatályon kívül helyezte.
 [^10]: A 2. melléklet 1. pont 1.2. alpontja a 43/2018. (XII. 18.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^11]: A 2. melléklet 2. pont 2.1. alpontja a 43/2018. (XII. 18.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^12]: A 2. melléklet 3. pont 3.1. alpont nyitó szövegrésze a 43/2018. (XII. 18.) EMMI rendelet 2. §-a szerint módosított szöveg.
-[^13]: A 2. melléklet 3.1.6. pontját a 31/2019. (XII. 14.) EMMI rendelet 2. §-a iktatta be.
-[^14]: A 2. melléklet 3. pont 3.2. alpont nyitó szövegrésze a 43/2018. (XII. 18.) EMMI rendelet 2. §-a szerint módosított szöveg.
-[^15]: A 2. melléklet 3. pont 3.2. alpont 3.2.4. pontját a 3/2021. (I. 28.) EMMI rendelet 2. §-a iktatta be.
-[^16]: A 2. melléklet 3. pont 3.2. alpont 3.2.5. pontját a 3/2021. (I. 28.) EMMI rendelet 2. §-a iktatta be.
+[^12]: A 2. melléklet 2. pont 2.1. alpont 2.1.6. pontját a 61/2021. (XII. 28.) EMMI rendelet 1. §-a iktatta be.
+[^13]: A 2. melléklet 2. pont 2.1. alpont 2.1.7. pontját a 61/2021. (XII. 28.) EMMI rendelet 1. §-a iktatta be.
+[^14]: A 2. melléklet 3. pont 3.1. alpont nyitó szövegrésze a 43/2018. (XII. 18.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet 3. pont 3.1. alpont 3.1.2. pontját a 61/2021. (XII. 28.) EMMI rendelet 2. §-a hatályon kívül helyezte.
+[^16]: A 2. melléklet 3. pont 3.1. alpont 3.1.5. pontját a 61/2021. (XII. 28.) EMMI rendelet 2. §-a hatályon kívül helyezte.
+[^17]: A 2. melléklet 3.1.6. pontját a 31/2019. (XII. 14.) EMMI rendelet 2. §-a iktatta be.
+[^18]: A 2. melléklet 3. pont 3.2. alpont nyitó szövegrésze a 43/2018. (XII. 18.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet 3. pont 3.2. alpont 3.2.4. pontját a 3/2021. (I. 28.) EMMI rendelet 2. §-a iktatta be.
+[^20]: A 2. melléklet 3. pont 3.2. alpont 3.2.5. pontját a 3/2021. (I. 28.) EMMI rendelet 2. §-a iktatta be, szövege a 61/2021. (XII. 28.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^21]: A 2. melléklet 3. pont 3.2. alpont 3.2.6. pontját a 61/2021. (XII. 28.) EMMI rendelet 1. §-a iktatta be.
+[^22]: A 2. melléklet 3. pont 3.2. alpont 3.2.7. pontját a 61/2021. (XII. 28.) EMMI rendelet 1. §-a iktatta be.
