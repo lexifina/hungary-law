@@ -32,7 +32,7 @@ o) a békéltető testületi tevékenység.
 
 (2) A kamarai jogtanácsosi és a jogi előadói tevékenység gyakorlásával a 23. § (1) bekezdés c) pontja alá eső tevékenységek közül nem összeférhetetlen továbbá a jogi személy vezető tisztségviselője feladatának ellátása.
 
-(3) Az ügyvédi tevékenység gyakorlója az oktatói és tudományos tevékenységet munkaviszonyban, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati viszonyban is elláthatja.
+(3) Az ügyvédi tevékenység gyakorlója az oktatói, tudományos és művészeti tevékenységet – ideértve az ilyen tevékenységet alaptevékenységként folytató szervezetben betöltött tisztségviselői és vezetői megbízatást is – munkaviszonyban, közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati viszonyban is elláthatja.
 
 (4) Az e § szerinti tevékenység az ügyvédi tevékenység gyakorlásától minden szempontból elkülönítve, úgy folytatható, hogy az ne veszélyeztesse az ügyvédi tevékenység gyakorlásának a függetlenségét. Az e § szerinti tevékenységeket az ügyvédi tevékenység gyakorlója nem ügyvédként, hanem az adott tevékenységre irányadó jogszabályban meghatározott formában folytathatja.
 
