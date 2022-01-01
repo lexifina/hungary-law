@@ -1,3 +1,0 @@
-7. § (1) A felszámoló a vagyonfelosztási javaslatot és a Cstv. 52. §-ában meghatározott más iratokat csak azt követő két hónap elteltével küldi meg a bíróságnak, hogy a vagyonfelosztási javaslatot a büntetőeljárást lefolytató szervnek megküldte.
-
-(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igénybejelentésre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a zár alá vételt végrehajtó szerv rendelkezésére kell bocsátani, és a 4. § megfelelő alkalmazásával intézkedni kell a zár alá vétel közhiteles nyilvántartásba való bejegyzése iránt.
