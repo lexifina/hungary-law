@@ -2,12 +2,12 @@
 
 (2) Az eredménykimutatás elkészítéséhez, a mérleg szerinti eredmény megállapításához szükséges adatokat az 5. és a 8. és a 9. számlaosztály könyvviteli számlái tartalmazzák.
 
-(3)[^242] A 6–7. számlaosztály vezetői információs igények kielégítésére, ezen belül elsősorban a szervezeti egységek elszámoltatására, a költséggazdálkodás, az önköltségszámítás sajátos rendszerének kialakítására használható.
+(3)[^243] A 6–7. számlaosztály vezetői információs igények kielégítésére, ezen belül elsősorban a szervezeti egységek elszámoltatására, a költséggazdálkodás, az önköltségszámítás sajátos rendszerének kialakítására használható.
 
-(4)–(6)[^243]
+(4)–(6)[^244]
 
-(7)[^244]
+(7)[^245]
 
-[^242]: A 46. § (3) bekezdése a 351/2016. (XI. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^243]: A 46. § (4)–(6) bekezdését a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 4. pontja hatályon kívül helyezte.
-[^244]: A 46. § (7) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 103. §-a iktatta be, hatályon kívül helyezte a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 4. pontja.
+[^243]: A 46. § (3) bekezdése a 351/2016. (XI. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^244]: A 46. § (4)–(6) bekezdését a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^245]: A 46. § (7) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 103. §-a iktatta be, hatályon kívül helyezte a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 4. pontja.

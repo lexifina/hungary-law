@@ -20,7 +20,7 @@
 
 | 8. | A hitelekkel, kölcsönökkel, értékpapírokkal, más finanszírozási célú műveletekkel (pl. betételhelyezéssel, visszavonással, fedezeti ügyletekkel) kapcsolatos követelések és kötelezettségek, egyéb eszközök (különösen értékpapírok, betétek, devizaszámlák) adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 9. | XLII. fejezet 1. cím 7. alcím | Magyar Bányászati és Földtani Szolgálat | Bányajáradék beszedésével kapcsolatos követelések és kötelezettségek. | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 9. | XLII. fejezet 1. cím 7. alcím | Szabályozott Tevékenységek Felügyeleti Hatósága | Bányajáradék beszedésével kapcsolatos követelések és kötelezettségek. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 10. | XLII. fejezet 4. cím 2. alcím 1. és 3. jogcímcsoport | a bírságot, egyéb központosított bevételt beszedő szervezet | A bevételekkel kapcsolatos követelések és kötelezettségek adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
@@ -44,7 +44,7 @@
 
 | 19. | nincs címrendhez kötve | Európai Uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai. A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések adatai. | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^330]
+3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^331]
 
 ## Maradványkimutatás
 
@@ -74,4 +74,4 @@ III. Vállalkozási tevékenység költségvetési egyenlege (05–06)
 
 IV. Vállalkozási tevékenység finanszírozási egyenlege (07–08)
 
-[^330]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
+[^331]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
