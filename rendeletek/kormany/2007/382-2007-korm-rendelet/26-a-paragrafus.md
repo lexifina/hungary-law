@@ -1,10 +1,10 @@
-## 26. §[^78]
+## 26. §[^79]
 
-26/A. §[^79] (1)[^80] Az üzembe helyezési eljárás lefolytatásáról szóló bejelentésben foglaltakat a Hatóság tizenöt nap elteltével hallgatással tudomásul veszi, a tudomásulvételt a hiányzó feltételek teljesítéséhez kötheti, vagy a tudomásulvétellel egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi a bejelentőt.
+26/A. §[^80] (1)[^81] Az üzembe helyezési eljárás lefolytatásáról szóló bejelentésben foglaltakat a Hatóság tizenöt nap elteltével hallgatással tudomásul veszi, a tudomásulvételt a hiányzó feltételek teljesítéséhez kötheti, vagy a tudomásulvétellel egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi a bejelentőt.
 
 (2) Az üzembe helyezési eljárás lefolytatásáról szóló bejelentés kapcsán a Hatóság vizsgálja, hogy
 
-a)[^81] a tényleges megvalósulás a végleges engedély szerint történt-e meg,
+a)[^82] a tényleges megvalósulás a végleges engedély szerint történt-e meg,
 
 b) az üzembe helyezés során betartották-e a jogszabályokban foglalt követelményeket,
 
@@ -16,7 +16,7 @@ d) közcélú, magán-, termelői és közvetlen vezeték esetében a kérelmez�
 
 (4) Ha az építmény további feltételek előírásával sem feleltethető meg a jogszabályban meghatározott követelményeknek, a Hatóság annak bontását rendeli el.
 
-[^78]: A 26. §-t a 80/2018. (IV. 20.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^79]: A 26/A. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (8) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^80]: A 26/A. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^81]: A 26/A. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 212. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^79]: A 26. §-t a 80/2018. (IV. 20.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^80]: A 26/A. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (8) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^81]: A 26/A. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^82]: A 26/A. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 212. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

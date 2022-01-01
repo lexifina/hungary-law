@@ -1,4 +1,4 @@
-13/B. §[^35] (1) A Hatóság a nyomvonal-kijelölési dokumentációt megküldi a vezetékjogi engedélyezési eljárásban érintett szakhatóságoknak, a közműveknek, a kezelőknek és az üzemeltetőknek, amelyek arra 15 napon belül kötelesek észrevételt tenni, különösen a gátló körülményekre és a megvalósításhoz szükséges alapvető feltételekre kiterjedően.
+13/B. §[^36] (1) A Hatóság a nyomvonal-kijelölési dokumentációt megküldi a vezetékjogi engedélyezési eljárásban érintett szakhatóságoknak, a közműveknek, a kezelőknek és az üzemeltetőknek, amelyek arra 15 napon belül kötelesek észrevételt tenni, különösen a gátló körülményekre és a megvalósításhoz szükséges alapvető feltételekre kiterjedően.
 
 (2) A Hatóság a nyomvonal-kijelölési dokumentáció megküldésével egyidejűleg az észrevételek benyújtására nyitva álló határidőt követő 15 napon belül egyeztetést hív össze az érintett szakhatóságok, közművek, kezelők, üzemeltetők és a hálózati engedélyes részvételével. Az egyeztetés keretében a résztvevők:
 
@@ -24,4 +24,4 @@ c) valamennyi egyéb érintett szakhatóság, közművek, kezelők és üzemelte
 
 (5) A Hatóság és az (1) bekezdés szerinti érintettek a közmeghallgatást követő 15 napon belül végleges véleményt adnak a kiválasztott nyomvonal-kijelölési dokumentáció tekintetében, amiről a Hatóság a hálózati engedélyest legkésőbb a szóbeli konzultációt követő 30. napon értesíti. A vélemények a kiadást követő 2 éven belül megindított engedélyezési eljárásban előzetes szakhatósági állásfoglalásként felhasználhatóak.
 
-[^35]: A 13/B. §-t a 208/2021. (IV. 29.) Korm. rendelet 5. §-a iktatta be.
+[^36]: A 13/B. §-t a 208/2021. (IV. 29.) Korm. rendelet 5. §-a iktatta be.
