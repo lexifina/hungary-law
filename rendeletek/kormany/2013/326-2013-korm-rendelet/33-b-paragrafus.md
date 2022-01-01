@@ -17,3 +17,7 @@
 (8) Az iskolai nevelés-oktatás ötödik–nyolcadik évfolyamán az etika tantárgy tanítására az alkalmazható, aki a tantárgynak megfelelő szakos tanári végzettséggel és szakképzettséggel rendelkezik, vagy az iskolai nevelés oktatás ötödik–nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvanórás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az etika oktatásához szükséges elméleti és módszertani ismereteket.
 
 (9) Iskolai, kollégiumi könyvtárostanárnak vagy könyvtárostanítónak alkalmazható az is, aki a 6. mellékletben foglaltak szerint az iskolában, kollégiumban pedagógus-munkakör betöltésére jogosító tanítói vagy tanári végzettséggel és szakképzettséggel, továbbá iskolarendszeren kívüli oktatásban szerzett emelt szintű könyvtárosi szakképesítéssel rendelkezik.
+
+(10)[^234] A honvédelmi alapismeretek tantárgyat az is taníthatja, aki az iskolai nevelés-oktatás kilencedik–tizenkettedik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább százhúsz órás pedagógus-továbbképzés vagy szakirányú továbbképzés keretében elsajátította a honvédelmi alapismeretek tantárgy vagy a katonai alapismeretek tantárgy oktatásához szükséges elméleti és módszertani ismereteket.
+
+[^234]: A 33/B. § (10) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 28. §-a iktatta be.

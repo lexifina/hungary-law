@@ -6,8 +6,9 @@
 
 a) a munkaviszony jellegű jogviszony szünetelésének harminc napot meghaladó időtartama, továbbá
 
-b)[^39] a pedagógus-munkakörben eltöltött idő, ha a pedagógus munkaideje nem érte el a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerinti általános teljes napi munkaidő alapulvételével számított heti munkaidő huszonöt százalékát.
+b)[^44] a pedagógus-munkakörben eltöltött idő, ha a pedagógus munkaideje nem érte el a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerinti általános teljes napi munkaidő alapulvételével számított heti munkaidő huszonöt százalékát.
 
-(4) A (2) bekezdésben, valamint a (3) bekezdés b) pontjában meghatározottaktól eltérően, ha a pedagógus egyidejűleg több részmunkaidős foglalkoztatási jogviszonyban állt, és ezekben a szerződésben vagy kinevezésben foglalt heti munkaidő az Mt. szerinti általános teljes napi munkaidő alapulvételével számított heti munkaidő huszonöt százalékát elérte, ezt az időszakot el kell ismerni szakmai gyakorlatként.
+(4)[^45] A (2) bekezdésben, valamint a (3) bekezdés b) pontjában meghatározottaktól eltérően, ha a pedagógus egyidejűleg több részmunkaidős foglalkoztatási jogviszonyban állt, és ezekben a szerződésben vagy kinevezésben foglalt heti munkaidő az Mt. szerinti általános teljes napi munkaidő alapulvételével számított heti munkaidő huszonöt százalékát elérte, ezt az időszakot el kell ismerni szakmai gyakorlatként. Ez a szabály megfelelően alkalmazandó abban az esetben is, ha a pedagógus egyidejűleg több óraadói megbízási szerződés alapján végzett munkát úgy, hogy ezek alapján összesen legalább heti tíz órát, foglalkozást tartott. A részmunkaidős és az óraadói foglalkoztatási jogviszonyban eltöltött heti munkaidő időtartama összeszámítható, és ha így eléri a legalább heti 10 órát, ezt az időszakot el kell ismerni szakmai gyakorlatként.
 
-[^39]: A 6/A. § (3) bekezdés b) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 2. pontja szerint módosított szöveg.
+[^44]: A 6/A. § (3) bekezdés b) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 2. pontja szerint módosított szöveg.
+[^45]: A 6/A. § (4) bekezdése a 790/2021. (XII. 27.) Korm. rendelet 26. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-5/B. §[^25] (1) Az 5/A. § szerinti minősítés keretében
+5/B. §[^29] (1) Az 5/A. § szerinti minősítés keretében
 
 a) az 1. § (2a) bekezdésében meghatározott személyek a címzetes fokozat megszerzésére irányuló minősítő vizsgán, minősítési eljárásban, pályázati eljárásban a 10/A. § (2) bekezdésében meghatározott határidőig történő jelentkezésük alapján vehetnek részt,
 
@@ -20,4 +20,4 @@ jogszabályban meghatározott feltételeknek és a miniszter által meghatározo
 
 (3) A (2) bekezdésben meghatározottak kivételével a minősítési tervbe történő felvétel során a 10/C. § (3) bekezdése alapján kell eljárni, azzal, hogy a Pedagógus II. fokozatra jelentkezők közül előnyben kell részesíteni azt, aki esetében a minősítés eredménye az illetményére kiható hatással bír.
 
-[^25]: Az 5/B. §-t a 455/2020. (X. 20.) Korm. rendelet 3. §-a iktatta be.
+[^29]: Az 5/B. §-t a 455/2020. (X. 20.) Korm. rendelet 3. §-a iktatta be.

@@ -1,6 +1,6 @@
-## A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat[^288]
+## A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat[^305]
 
-## 1.[^289] Jelen szabályzat a ... (köznevelési intézmény) és a vele munkaviszonyban/közalkalmazotti jogviszonyban álló, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra terjed ki.
+## 1.[^306] Jelen szabályzat a ... (köznevelési intézmény) és a vele munkaviszonyban/közalkalmazotti jogviszonyban álló, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra terjed ki.
 
 ## 2. Jelen szabályzat alkalmazásában
 
@@ -14,7 +14,7 @@
 
 ## 3. A gyakornokokra vonatkozó, a minősítés alapjául szolgáló, a munkáltató szervezetéhez és a betöltött munkakör követelményeihez kapcsolódó szakmai követelményrendszer
 
-## 3.1.[^290] A pedagógus szakképzettséghez vagy szakképesítéshez kapcsolódó követelmény a hospitálás: a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott nevelési, vagy tanítási félévenként legalább öt, pedagógus szakképzettségének vagy szakképesítésének megfelelő tanórát vagy foglalkozást köteles látogatni.
+## 3.1.[^307] A pedagógus szakképzettséghez vagy szakképesítéshez kapcsolódó követelmény a hospitálás: a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott nevelési, vagy tanítási félévenként legalább öt, pedagógus szakképzettségének vagy szakképesítésének megfelelő tanórát vagy foglalkozást köteles látogatni.
 
 ## 3.2. A betöltött nevelő és oktató munkát közvetlenül segítő munkakörhöz kapcsolódó követelmények:
 
@@ -96,7 +96,7 @@
 
 ## 6. Jelen szabályzat ...-án lép hatályba.
 
-6. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^291]
+6. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^308]
 
 A nevelési-oktatási intézményekben pedagógus-munkakörben alkalmazottak végzettségi
 
@@ -120,9 +120,9 @@ A nevelési-oktatási intézményekben pedagógus-munkakörben alkalmazottak vé
 
 | 8 | Szakgimnázium (művészeti) | művészeti szakmai tantárgyat oktató tanár | a művészeti tárgynak megfelelő szakos felsőfokú szakképzettség |
 
-| 9 | Alapfokú művészeti iskola zeneművészeti ág | szakmai tantárgyat tanító tanár | a művészeti tárgynak megfelelő szakirányú tanár, művészeti tárgynak megfelelő művész, előadóművész |
+| 9 | Alapfokú művészeti iskola zeneművészeti ág | szakmai tantárgyat tanító tanár | a művészeti tárgynak megfelelő szakirányú tanár vagy művész vagy előadóművész |
 
-| 10 | Alapfokú művészeti iskola (szín- és bábművészeti, képző- és iparművészeti, táncművészeti ág) | szakmai tantárgyat tanító tanár | a tanszaknak megfelelő szakirányú felsőfokú végzettség, a tanszaknak megfelelő tanár vagy művész vagy előadóművész szakképzettség |
+| 10 | Alapfokú művészeti iskola (szín- és bábművészeti, képző- és iparművészeti, táncművészeti ág) | szakmai tantárgyat tanító tanár | a tanszaknak megfelelő szakirányú felsőfokú végzettség és szakképzettség |
 
 | 11 | Kollégium | kollégiumi nevelőtanár | kollégiumi nevelőtanár, gyógypedagógus, konduktor, szociálpedagógus, játék- és szabadidő-szervező tanár, tanulási és pályatanácsadó tanár, tehetségfejlesztő tanár, hittanár-nevelő tanár, pedagógia szakos tanár és pedagógia szakos nevelő, a nevelő-oktató munka pedagógiai szakaszának megfelelően tanító, tanár |
 
@@ -138,9 +138,9 @@ A nevelési-oktatási intézményekben pedagógus-munkakörben alkalmazottak vé
 
 | 17 | konduktor | konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító), konduktor(óvodapedagógus), speciális pedagógia szakos tanár és szakpedagógus vagy konduktortanár és konduktor vagy konduktor-tanító vagy konduktor-óvodapedagógus vagy konduktor(tanító), vagy konduktor(óvodapedagógus) |
 
-| 18 | logopédus | logopédia szakos gyógypedagógiai tanár vagy terapeuta, gyógypedagógus logopédia szakirányon, speciális pedagógia szakos tanár és szakpedagógus vagy okleveles gyógypedagógus vagy gyógypedagógia-tanár és gyógypedagógus, logopédia szakos gyógypedagógiai tanár vagy terapeuta vagy gyógypedagógus logopédia szakirányon |
+| 18 |  |  |
 
-| 19 | gyógypedagógus | a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta, speciális pedagógia szakos tanár és szakpedagógus vagy okleveles gyógypedagógus vagy gyógypedagógia-tanár és a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta |
+| 19 | gyógypedagógus (beleértve a logopédia szakon, szakirányon végzett gyógypedagógust is) | a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta, speciális pedagógia szakos tanár és szakpedagógus vagy okleveles gyógypedagógus vagy gyógypedagógia-tanár vagy okleveles logopédus és a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta |
 
 | 20 | Nemzetiségi óvodai nevelés | nemzetiségi óvodapedagógus | nemzetiségi óvodapedagógus |
 
@@ -172,7 +172,7 @@ A nevelési-oktatási intézményekben pedagógus-munkakörben alkalmazottak vé
 
 | 34 | Szakgimnázium | közismereti tantárgyat oktató szakgimnáziumi tanár | egyetemi szintű vagy mesterfokozatú, a tantárgynak megfelelő szakos tanár |
 
-[^288]: Az 5. melléklet címe a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^289]: Az 5. melléklet 1. pontja a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^290]: Az 5. melléklet 3. pont 3.1. alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
-[^291]: A 6. mellékletet a 417/2020. (VIII. 30.) Korm. rendelet 20. §-a iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^305]: Az 5. melléklet címe a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^306]: Az 5. melléklet 1. pontja a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^307]: Az 5. melléklet 3. pont 3.1. alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^308]: A 6. mellékletet a 417/2020. (VIII. 30.) Korm. rendelet 20. §-a iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 32. §-a, a 790/2021. (XII. 27.) Korm. rendelet 32. §-a és 34. §-a szerint módosított szöveg.

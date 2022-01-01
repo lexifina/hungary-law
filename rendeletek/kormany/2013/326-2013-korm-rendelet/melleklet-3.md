@@ -4,7 +4,7 @@
 
 | 2 | Nevelő és oktató munkát közvetlenül segítő munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-| 3 | óvodatitkár, iskolatitkár, kollégiumi titkár |  |  | * | * | * | * |  |  |  |  |
+| 3 | óvodatitkár, iskolatitkár, kollégiumi titkár, szakszolgálati titkár |  |  | * | * | * | * |  |  |  |  |
 
 | 4 | dajka | * | * | * | * |  |  |  |  |  |  |
 
@@ -40,6 +40,12 @@
 
 | 20 | rendszergazda |  |  |  |  | * | * | * | * |  |  |
 
+| 20a | gyógytornász |  |  |  |  |  | * | * | * | * | * |
+
+| 20b | gyermek- és ifjúságvédelmi felelős |  |  |  |  |  | * | * | * | * | * |
+
+| 20c | iskolai szociális munkás |  |  |  |  |  | * | * | * | * | * |
+
 | 21 | Egyéb munkakörök |  |  |  |  |  |  |  |  |  |  |
 
 | 22 | munkaügyi, személyzeti előadó |  |  |  | * | * | * |  |  |  |  |
@@ -64,6 +70,6 @@
 
 | 32 | kisegítő dolgozó | * | * | * |  |  |  |  |  |  |  |
 
-3. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^285]
+3. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^302]
 
-[^285]: A 3. melléklet a 13/2020. (II. 7.) Korm. rendelet 86. § (3) bekezdésével megállapított szöveg.
+[^302]: A 3. melléklet a 13/2020. (II. 7.) Korm. rendelet 86. § (3) bekezdésével megállapított szöveg.
