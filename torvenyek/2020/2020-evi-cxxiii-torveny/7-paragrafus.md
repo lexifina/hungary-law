@@ -4,7 +4,7 @@
 
 a) a használatukban lévő mező-, erdőgazdasági hasznosítású földnek, a használatukban lévő mezőgazdasági termelőeszközöknek, az azokhoz kapcsolódó vagyoni értékű jogoknak az őstermelők családi gazdasága tagjai által végzett közös gazdálkodás érdekében való rendelkezésre bocsátást,
 
-b) a folytatandó mezőgazdasági és kiegészítő tevékenységeket,
+b) a folytatandó őstermelői tevékenységeket,
 
 c) a személyes közreműködés formáját,
 
@@ -18,14 +18,18 @@ e) az őstermelők családi gazdaságának központját.
 
 (4) Az őstermelők családi gazdaságának képviselője a képviseletre a nyilvántartásba vétellel válik jogosulttá.
 
-(5) Az (1) bekezdésben meghatározott szerződés módosításáról, valamint a tagok hozzátartozói minőségében, a hozzátartozói láncolatban elfoglalt helyében bekövetkezett változásról az őstermelők családi gazdaságának képviselője 15 napon belül értesíti az Agrárkamarát.
+(5) Az (1) bekezdésben meghatározott szerződés módosításáról vagy az (1) bekezdésben meghatározott szerződés bármely tag által történő felmondásáról, valamint a tagok hozzátartozói minőségében a hozzátartozói láncolatban elfoglalt helyében bekövetkezett változásról az őstermelők családi gazdaságának képviselője 15 napon belül értesíti az Agrárkamarát.
 
-(6) Az Agrárkamara törli a nyilvántartásból az őstermelők családi gazdaságára vonatkozó adatokat a mezőgazdasági őstermelő vonatkozásában a 10. § (2) bekezdés d) pontjában meghatározott esetben.
+(6) Az Agrárkamara törli a nyilvántartásból az őstermelők családi gazdaságára vonatkozó adatokat a mezőgazdasági őstermelő vonatkozásában
+
+a) a 10. § (2) bekezdés d) pontjában meghatározott esetben, vagy
+
+b) ha az (1) bekezdésben meghatározott szerződést a tag felmondja.
 
 (7) Az Agrárkamara az őstermelők családi gazdaságát törli a nyilvántartásból, ha
 
 a) tagjai együttesen kérelmezik a nyilvántartásból való törlést,
 
-b) az őstermelők családi gazdasága már nem felel meg a nyilvántartásba vétel feltételeinek és a tagok felszólítás ellenére sem pótolják 60 napon belül a hiányzó feltételeket, vagy
+b) az őstermelők családi gazdasága már nem felel meg a nyilvántartásba vétel feltételeinek és a tagok felszólítás ellenére sem pótolják 15 napon belül a hiányzó feltételeket, vagy
 
 c) az őstermelők családi gazdaságát alapító szerződés a 10. § (1) bekezdése alapján hatályát veszti.

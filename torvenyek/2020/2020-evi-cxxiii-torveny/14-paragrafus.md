@@ -6,7 +6,7 @@
 
 14. § (1) Családi mezőgazdasági társaságként gazdasági társaság, szövetkezet vagy erdőbirtokossági társulat a nyilvántartásba vételt követően működhet.
 
-(2) A családi mezőgazdasági társaság olyan, a családi mezőgazdasági társaságok nyilvántartásában szereplő, kizárólag mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytató gazdasági társaság, szövetkezet vagy erdőbirtokossági társulat, amelynek legalább két tagja van, és tagjai egymással hozzátartozói láncolatban állnak.
+(2) A családi mezőgazdasági társaság olyan, a családi mezőgazdasági társaságok nyilvántartásában szereplő, kizárólag mező-, erdőgazdasági tevékenységet, illetve a Földforgalmi törvényben meghatározott kiegészítő tevékenységet folytató gazdasági társaság, szövetkezet vagy erdőbirtokossági társulat, amelynek legalább két tagja van, és tagjai egymással hozzátartozói láncolatban állnak.
 
 (3) Egy személy egyidejűleg csak egy családi mezőgazdasági társaságban lehet tag.
 

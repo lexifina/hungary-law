@@ -8,6 +8,6 @@
 
 (2) A mezőgazdasági őstermelőknek őstermelők családi gazdaságában való részvételének tényét az őstermelői nyilvántartásban fel kell tüntetni.
 
-(3) Az őstermelői nyilvántartást az őstermelő nyilvántartási számmal történő azonosítása, illetve más őstermelőtől való megkülönböztetése, továbbá a jogszabályoknak megfelelő működése ellenőrzése céljából, az 5. és a 11. §-ban foglalt ellenőrzési feladatok ellátása érdekében az Agrárkamara vezeti és a mezőgazdasági igazgatási szerv üzemelteti. A mezőgazdasági igazgatási szerv a mezőgazdasági őstermelő számára a nyilvántartásba vétel során az élelmiszerláncról és hatósági felügyeletéről szóló törvényben meghatározott FELIR azonosítót állapít meg.
+(3) Az őstermelői nyilvántartást az őstermelő FELIR azonosítóval történő azonosítása, illetve más őstermelőtől való megkülönböztetése, továbbá a jogszabályoknak megfelelő működése ellenőrzése céljából, az 5. és a 11. §-ban foglalt ellenőrzési feladatok ellátása érdekében az Agrárkamara vezeti és a mezőgazdasági igazgatási szerv üzemelteti. A mezőgazdasági igazgatási szerv a mezőgazdasági őstermelő számára a nyilvántartásba vétel során az élelmiszerláncról és hatósági felügyeletéről szóló törvényben meghatározott FELIR azonosítót állapít meg.
 
 (4) A mezőgazdasági igazgatási szerv az Agrárkamara számára az őstermelők nyilvántartásával kapcsolatos feladatainak ellátása érdekében elektronikus hozzáférést biztosít az őstermelői nyilvántartáshoz.
