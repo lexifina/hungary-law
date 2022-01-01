@@ -1,4 +1,4 @@
-## V/A. Fejezet[^245]
+## V/A. Fejezet[^248]
 
 ## A TANKÖTELEZETTSÉG MEGKEZDÉSE ALÓLI FELMENTÉSSEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK
 
@@ -8,4 +8,4 @@
 
 (3) A hatósági eljárásban szakértőként az az EMMI rendelet szerinti mozgásszervi, érzékszervi (látási, hallási), illetve beszédfogyatékosság megállapítására jogosult szakértői bizottság jár el, amely a sajátos nevelési igény tényét a kérelem benyújtását megelőzően megállapította.
 
-[^245]: Az V/A. fejezetet (44/A–44/B. §) újonnan a 275/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
+[^248]: Az V/A. fejezetet (44/A–44/B. §) újonnan a 275/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.

@@ -16,7 +16,7 @@ b)[^40] az illetékes kormányhivatal az (1) bekezdés b) vagy c) pontjában meg
 
 c)[^41] a miniszter az (1) bekezdés b) vagy c) pontjában meghatározott okirat
 
-megküldésével – a döntés jogerőre emelkedését követő öt napon belül – kezdeményezi.
+## megküldésével – a döntés jogerőre emelkedését követő öt napon belül – kezdeményezi.
 
 (3) A köznevelési intézmény megszűnésekor, átalakításakor, megszűnés nélküli, több köznevelési intézményt érintő átszervezésekor a Hivatal az átalakítással, megszüntetéssel, átszervezéssel érintett, egymással összefüggő ügyeket együtt kezeli.
 

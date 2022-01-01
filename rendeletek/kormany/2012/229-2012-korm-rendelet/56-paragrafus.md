@@ -1,6 +1,6 @@
-## 20.[^278]
+## 55. §[^280]
 
-56. §[^279]
+## 20.[^281]
 
-[^278]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^279]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^280]: Az 55. §-t újonnan a 307/2017. (X. 27.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 15. pontja.
+[^281]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
