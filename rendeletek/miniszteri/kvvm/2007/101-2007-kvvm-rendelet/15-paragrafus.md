@@ -1,9 +1,9 @@
-## 15. §[^30] E rendeletnek az egyes vízgazdálkodási tárgyú miniszteri rendeletek módosításáról szóló 67/2014. (XII. 17.) BM rendelettel (a továbbiakban: Módr.) megállapított
+## 15. §[^33] E rendeletnek az egyes vízgazdálkodási tárgyú miniszteri rendeletek módosításáról szóló 67/2014. (XII. 17.) BM rendelettel (a továbbiakban: Módr.) megállapított
 
-a) 4. § (2) és (3) bekezdését, 5. § (1), (4) és (6) bekezdését, 7. § (2) és (2a) bekezdését, 8. § (1) bekezdését, 9. § (1) és (4) bekezdését, valamint 1. mellékletét a Módr. hatálybalépését[^31] követően indult ügyekben
+a) 4. § (2) és (3) bekezdését, 5. § (1), (4) és (6) bekezdését, 7. § (2) és (2a) bekezdését, 8. § (1) bekezdését, 9. § (1) és (4) bekezdését, valamint 1. mellékletét a Módr. hatálybalépését[^34] követően indult ügyekben
 
-b) 8. § (3)–(9) bekezdését, valamint 10. § (9) bekezdését a Módr. hatálybalépésekor[^32] folyamatban lévő ügyekben is
+b) 8. § (3)–(9) bekezdését, valamint 10. § (9) bekezdését a Módr. hatálybalépésekor[^35] folyamatban lévő ügyekben is
 
-[^30]: A 15. § hatályát vesztette ugyanezen § alapján, újonnan a 67/2014. (XII. 17.) BM rendelet 22. §-a iktatta be.
-[^31]: A hatálybalépés időpontja 2014. december 25.
-[^32]: A hatálybalépés időpontja 2014. december 25.
+[^33]: A 15. § hatályát vesztette ugyanezen § alapján, újonnan a 67/2014. (XII. 17.) BM rendelet 22. §-a iktatta be.
+[^34]: A hatálybalépés időpontja 2014. december 25.
+[^35]: A hatálybalépés időpontja 2014. december 25.

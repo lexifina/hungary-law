@@ -14,16 +14,25 @@ d) egyéb, különösen jelentős létesítmény esetén, amennyiben a vízügyi
 
 (2) A vízföldtani napló tartalmi követelményeit a 2. melléklet tartalmazza. A naplóhoz minden esetben a kutat és a kút környezetének területhasználatát mutató fényképet kell mellékelni. A csatolt helyszínrajzokon az EOV koordinátahálót fel kell tüntetni.
 
-(3)–(6)[^15]
+(3)[^15]
 
-(7)[^16]
+(4)[^16]
 
-(8)[^17]
+(5)[^17]
 
-(9)[^18] A vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendeletben meghatározott Vízgazdálkodási Információs Rendszer és a Központi Vízföldtani Adattár részeként, a vízföldtani naplók adatai alapján az Magyar Bányászati és Földtani Szolgálat országos kútkatasztert és hévízkút katasztert vezet. Az Magyar Bányászati és Földtani Szolgálat és az Országos Vízügyi Főigazgatóság az országos kútkatasztert és hévízkút katasztert évente, a tárgyévet követő március 31-ig honlapján közzéteszi.
+(6)[^18]
+
+(7)[^19]
+
+(8)[^20]
+
+(9)[^21] A vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendeletben meghatározott Vízgazdálkodási Információs Rendszer és a Központi Vízföldtani Adattár részeként, a vízföldtani naplók adatai alapján az állami földtani feladatokat ellátó Szabályozott Tevékenységek Felügyeleti Hatósága országos kútkatasztert és hévízkút katasztert vezet. Az állami földtani feladatokat ellátó Szabályozott Tevékenységek Felügyeleti Hatósága és az Országos Vízügyi Főigazgatóság az országos kútkatasztert és hévízkút katasztert évente, a tárgyévet követő március 31-ig honlapján közzéteszi.
 
 [^14]: A 8. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^15]: A 8. § (3)–(6) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja hatályon kívül helyezte.
-[^16]: A 8. § (7) bekezdését a 21/2013. (III. 26.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja.
-[^17]: A 8. § (8) bekezdését a 21/2013. (III. 26.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja.
-[^18]: A 8. § (9) bekezdését a 67/2014. (XII. 17.) BM rendelet 20. § (3) bekezdése iktatta be, szövege a 42/2017. (XII. 29.) BM rendelet 4. §-a szerint módosított szöveg.
+[^15]: A 8. § (3) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja hatályon kívül helyezte.
+[^16]: A 8. § (4) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja hatályon kívül helyezte.
+[^17]: A 8. § (5) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja hatályon kívül helyezte.
+[^18]: A 8. § (6) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja hatályon kívül helyezte.
+[^19]: A 8. § (7) bekezdését a 21/2013. (III. 26.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja.
+[^20]: A 8. § (8) bekezdését a 21/2013. (III. 26.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § d) pontja.
+[^21]: A 8. § (9) bekezdését a 67/2014. (XII. 17.) BM rendelet 20. § (3) bekezdése iktatta be, szövege a 42/2017. (XII. 29.) BM rendelet 4. §-a, az 50/2021. (XII. 22.) BM rendelet 2. § b) pontja szerint módosított szöveg.

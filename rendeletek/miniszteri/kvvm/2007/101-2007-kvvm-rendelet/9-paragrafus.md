@@ -1,12 +1,12 @@
 ## Az üzemeltetésre vonatkozó egyes szabályok
 
-9. § (1)[^19]
+9. § (1)[^22]
 
 (2) Szezonális üzem esetén félévenként – a vízjogi üzemeltetési engedélyben meghatározott szezon kezdetekor és végén, időszakos üzem esetén az üzemeltetés kezdetekor és annak végén – mérni kell a nyugalmi kútfejnyomást a kútnak az üzemeltetési szabályzatban előírt, de legalább egy óra időtartamú lezárásával.
 
 (3) Egy hónapot meghaladó üzemszünet esetén a nyugalmi kútfejnyomást a kútfej gáztalanítása után, illetve a nyugalmi vízszintet havonta kell mérni.
 
-(4)[^20] A vízkémiára és a gáztartalomra vonatkozó vizsgálatok gyakoriságát és a vizsgálandó komponensek körét – a vízilétesítmény céljától függően – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről, a víziközművek üzemeltetéséről, a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről, valamint a termelt és szolgáltatott vizek gázmentesítéséről szóló miniszteri rendeletekkel összhangban az üzemeltetési szabályzatban, amennyiben az (1) bekezdés alapján ez nem szükséges, a vízjogi üzemeltetési engedélyben kell meghatározni, ideértve a mérések módját, eszközigényét és a minőség biztosítását is.
+(4)[^23] A vízkémiára és a gáztartalomra vonatkozó vizsgálatok gyakoriságát és a vizsgálandó komponensek körét – a vízilétesítmény céljától függően – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről, a víziközművek üzemeltetéséről, a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről, valamint a termelt és szolgáltatott vizek gázmentesítéséről szóló miniszteri rendeletekkel összhangban az üzemeltetési szabályzatban, amennyiben az (1) bekezdés alapján ez nem szükséges, a vízjogi üzemeltetési engedélyben kell meghatározni, ideértve a mérések módját, eszközigényét és a minőség biztosítását is.
 
 (5) Az ásvány-, gyógyvíz minősítésű kutaknál a vizsgálatoknak a minősítés megalapozásához meghatározott komponensekre és azok ellenőrzésének gyakoriságára kell kiterjedni.
 
@@ -38,8 +38,8 @@ l) felszíni és mélységi vízmintavételt, valamint elemzést,
 
 m) gázkapacitás mérést és gázmintavétel elemzést a gázos kutaknál.
 
-(7)–(8)[^21]
+(7)–(8)[^24]
 
-[^19]: A 9. § (1) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § e) pontja hatályon kívül helyezte.
-[^20]: A 9. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^21]: A 9. § (7)–(8) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § e) pontja hatályon kívül helyezte.
+[^22]: A 9. § (1) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § e) pontja hatályon kívül helyezte.
+[^23]: A 9. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^24]: A 9. § (7)–(8) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § e) pontja hatályon kívül helyezte.

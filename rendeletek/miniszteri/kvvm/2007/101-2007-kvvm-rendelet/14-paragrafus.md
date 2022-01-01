@@ -1,4 +1,4 @@
-## 13/A. §[^28]
+## 13/A. §[^31]
 
 ## Átmeneti és záró rendelkezések
 
@@ -8,7 +8,7 @@
 
 (3) A rendelet hatálybalépésétől számított 1 év elteltével csak az e rendeletnek megfelelő képesítési, illetőleg tárgyi és személyi feltételek fennállása esetén végezhető a rendelet hatálya alá tartozó tevékenység.
 
-(4)–(6)[^29]
+(4)–(6)[^32]
 
-[^28]: A 13/A. §-t a 10/2010. (VIII. 18.) VM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § f) pontja.
-[^29]: A 14. § (4)–(6) bekezdése e rendelet 15. §-a alapján hatályát vesztette.
+[^31]: A 13/A. §-t a 10/2010. (VIII. 18.) VM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § f) pontja.
+[^32]: A 14. § (4)–(6) bekezdése e rendelet 15. §-a alapján hatályát vesztette.
