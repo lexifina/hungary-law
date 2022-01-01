@@ -1,5 +1,5 @@
-6/C. § (1) Az atomenergia-felügyeleti szerv főigazgatója államtitkári, főigazgató-helyettese helyettes államtitkári illetményre jogosult azzal, hogy a főigazgató vezetői illetménypótléka az alapilletményének 110%-a, a főigazgató-helyettes vezetői illetménypótléka az alapilletményének 100%-a.
+6/C. § (1) Az elnök havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-a, az elnökhelyettes havi illetménye az elnök havi illetményének 90%-a.
 
-(2) A főigazgatót és a főigazgató-helyettest naptári évenként tizenöt munkanap pótszabadság illeti meg.
+(2) Az elnököt a miniszterrel, az elnökhelyettest a közigazgatási államtitkárral azonos juttatások illetik meg.
 
-(3) A Kttv. 84–87. §-ában és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 23–24. §-ában meghatározott összeférhetetlenségi és együttalkalmazási tilalmak, valamint kizárási szabályok érvényesítését szolgáló további részletes eljárási szabályokat az atomenergia-felügyeleti szerv vezetője dolgozza ki, figyelemmel az atomenergia-ipar sajátosságaira is.
+(3) Az elnök és elnökhelyettes minden naptári évben az atomenergia-felügyeleti szerv szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.

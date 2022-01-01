@@ -12,6 +12,8 @@ d) a Központi Nukleáris Pénzügyi Alap létrejöttét megelőzően létesíte
 
 járó költségeket.
 
+(2a) Az atomerőmű befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, a 64. § (2) bekezdése szerinti központi költségvetési értékállósági hozzájárulásból, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2) bekezdés szerinti költségek jelenértékével.
+
 (3) Az atomerőmű befizetésének éves mértékét a központi költségvetésről szóló törvény határozza meg a (2) bekezdésben foglalt kötelezettség figyelembevételével.
 
 (4) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetében a kiégett üzemanyag átmeneti elhelyezését szolgáló tároló létesítésével, üzemeltetésével, a nukleárisüzemanyag-ciklus lezárásával, valamint a nukleáris létesítmény leszerelésével és lebontásával és az annak következtében keletkező radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket azok felmerülésekor kell befizetni a Központi Nukleáris Pénzügyi Alapba. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.

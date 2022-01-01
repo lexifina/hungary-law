@@ -2,10 +2,16 @@
 
 ## Az atomenergia alkalmazásának általános szabályai
 
-## Szabályozás és irányítás
+## Az atomenergia-felügyeleti szerv
 
-6. § (1) Az atomenergia biztonságos alkalmazásának irányítása és felügyelete a Kormány feladata.
+6. § (1) Az e törvényben foglalt feladatok végrehajtásáról az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), valamint a 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek gondoskodnak.
 
-(2) Az e törvényben foglalt kormányzati feladatok végrehajtásáról a Kormány az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), valamint a 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek útján gondoskodik.
+(2) Az atomenergia-felügyeleti szerv önálló szabályozó szerv, amely ellátja az e törvényben és más jogszabályban meghatározott feladatokat.
 
-(3) Az atomenergia-felügyeleti szervnél foglalkoztatott kormánytisztviselőre és kormányzati ügykezelőre a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) Az atomenergia-felügyeleti szerv feladatai ellátása során csak jogszabálynak van alárendelve. A feladatkörében nem utasítható, feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el.
+
+(4) Az atomenergia-felügyeleti szerv illetékessége kiterjed az ország területére.
+
+(5) Az atomenergia-felügyeleti szerv székhelye Budapest.
+
+(6) Az atomenergia-felügyeleti szerv fejezetet irányító szervi jogállással bíró központi költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez. A költségvetésének kiadási és bevételi főösszegei kizárólag az Országgyűlés által csökkenthetők.

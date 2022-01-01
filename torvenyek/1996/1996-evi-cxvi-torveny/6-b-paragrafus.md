@@ -1,53 +1,23 @@
-6/B. § (1) Az atomenergia-felügyeleti szervnél foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő alapilletménye
+6/B. § (1) Az elnök és elnökhelyettes tisztségére nem kell pályázatot kiírni. Elnöknek és elnökhelyettesnek olyan személy nevezhető ki, aki a Küt.-ben és az e törvényben foglalt követelményeken túl felsőfokú iskolai végzettséggel és
 
-a) gyakornok esetében az illetményalap 4-szerese,
+a) legalább hároméves gyakorlattal rendelkezik az atomenergia alkalmazásával összefüggő tevékenységi területen, vagy
 
-b) fogalmazó esetében az illetményalap 4,5-szerese,
+b) vezetői gyakorlattal rendelkezik a közigazgatásban.
 
-c) tanácsos
+(2) Elnöknek és elnökhelyettesnek olyan személy nevezhető ki, aki a kinevezését megelőző egy évben nem töltött be munkavégzésre irányuló olyan jogviszonyt, amely jogviszony során a gazdasági társaság jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése érintette.
 
-ca) I. fizetési fokozat esetében az illetményalap 5,5-szerese,
+(3) A Küt. 24. §-ában meghatározott feltételeken és a 11. § (3) bekezdésében foglaltakon túl nem lehet elnök vagy elnökhelyettes olyan személy, aki büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította
 
-cb) II. fizetési fokozat esetében az illetményalap 6-szorosa,
+a) a 2013. június 30-ig hatályban volt, 1978. évi IV. törvényben meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal, bűnpártolás, bűnszervezetben részvétel, az 1978. évi IV. törvény XVII. Fejezetében meghatározott gazdasági bűncselekmény, XVIII. Fejezetében meghatározott vagyon elleni bűncselekmény miatt,
 
-d) vezető tanácsos
+b) a Btk. szerinti minősített adattal visszaélés, bűnszervezetben részvétel, a Btk. XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt vagy
 
-da) I. fizetési fokozat esetében az illetményalap 6,5-szerese,
+c) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén az elítéléshez fűződő hátrányos jogkövetkezmények alóli mentesítés (a továbbiakban: büntetőjogi mentesítés) beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított három évig.
 
-db) II. fizetési fokozat esetében az illetményalap 7-szerese,
+(4) Az elnöknek javasolt személy a miniszterelnök részére – a javaslat előterjesztését megelőzően – hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a (3) bekezdés és a Küt. 24. §-a alapján kizáró ok.
 
-e) főtanácsos
+(5) A miniszterelnök az elnököt kinevezésének időtartama alatt, az elnök az elnökhelyettest kinevezésének időtartama alatt írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy vele szemben nem áll fenn a (3) bekezdés, a 6/G. § és a Küt. 24. §-a szerinti kizáró ok.
 
-ea) I. fizetési fokozat esetében az illetményalap 7,6-szerese,
+(6) Az (5) bekezdés szerinti felhívásra a felhívástól számított húsz napon belül – ha e határidőn belül a felhívott személyen kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – az elnök, elnökhelyettes igazolja, hogy vele szemben nem áll fenn a (3) bekezdés, a 6/G. § és a Küt. 24. §-a szerinti kizáró ok. Az atomenergia-felügyeleti szerv az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az igazolást benyújtó köztisztviselőnek megtéríti.
 
-eb) II. fizetési fokozat esetében az illetményalap 7,9-szerese,
-
-f) vezető főtanácsos
-
-fa) I. fizetési fokozat esetében az illetményalap 8,4-szerese,
-
-fb) II. fizetési fokozat esetében az illetményalap 8,6-szerese.
-
-(2) A vezető alapilletménye
-
-a) osztályvezető esetében az illetményalap 8,6-szerese,
-
-b) főosztályvezető-helyettes esetében az illetményalap 8,7-szerese,
-
-c) főosztályvezető esetében az illetményalap 9-szerese.
-
-(3) A vezetői illetménypótlék mértéke
-
-a) osztályvezető esetében az alapilletmény 20%-a,
-
-b) főosztályvezető-helyettes esetében az alapilletmény 40%-a,
-
-c) főosztályvezető esetében az alapilletmény 90%-a.
-
-(4) A gyakornokot három, a fogalmazót négy, a tanácsost hat, a vezető tanácsost nyolc, a főtanácsost tíz, a vezető főtanácsost tizenegy munkanap pótszabadság illeti meg. A vezetői pótszabadság mértéke osztályvezetőnél tizenkettő, főosztályvezető-helyettesnél és főosztályvezetőnél tizenhárom munkanap.
-
-(5) Az atomenergia-felügyeleti szerv alaptevékenységét elősegítő munkakörben foglalkoztatott, nem felsőfokú végzettségű kormánytisztviselő illetménykiegészítésének mértéke az alapilletmény 80%-a.
-
-(6) Az atomenergia-felügyeleti szerv vezetője a minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kimagasló teljesítményt nyújtó kormánytisztviselőnek a személyi juttatás előirányzata terhére az e törvényben, illetve a Kttv.-ben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény az atomenergia-felügyeleti szerv létszámának legfeljebb húsz százalékáig adható úgy, hogy adott év március 1-jétől a következő év február utolsó napjáig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, az adott évet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset hatszorosát. A személyi illetmény megállapítása egy évig – az adott évet követő év február utolsó napjáig – érvényes.
-
-(7) Az elfogadott költségvetési keretszámokon belül az atomenergia-felügyeleti szerv vezetője – a cafeteria-juttatás kivételével – saját hatáskörben maga határozza meg a szerv kormánytisztviselőinek béren kívüli juttatásait. Az atomenergia-felügyeleti szerv vezetője által adható jutalom mértékét és a béren kívüli juttatásokat szabályzatban kell meghatározni, amelyet az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter hagy jóvá.
+(7) A miniszterelnök az elnöknek javasolt személy (4) bekezdés alapján megismert személyes adatait az elnök kinevezéséig kezeli.

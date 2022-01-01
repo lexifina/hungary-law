@@ -6,7 +6,7 @@
 
 (3) Az Országgyűlés a nemzeti politikáról normatív országgyűlési határozatban rendelkezik.
 
-(4) A nemzeti politika és annak felülvizsgálata előkészítéséről az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter (a továbbiakban: miniszter) gondoskodik.
+(4) A nemzeti politika és annak felülvizsgálata előkészítéséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
 
 (5) A nemzeti politika kidolgozása során az alábbi elveket kell érvényesíteni:
 

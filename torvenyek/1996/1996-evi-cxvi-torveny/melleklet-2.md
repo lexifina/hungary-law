@@ -206,7 +206,7 @@ c) létesítési engedély
 
 |
 
-bányafelügyeleti hatáskörében eljáró területileg illetékes megyei kormányhivatal
+bányafelügyelet
 
 |
 
@@ -366,7 +366,7 @@ nukleáris létesítmény biztonsági övezetének kijelölése, felülvizsgála
 
 |
 
-bányafelügyeleti hatáskörében eljáró megyei kormányhivatal
+bányafelügyelet
 
 |
 
@@ -486,7 +486,7 @@ f) lezárási engedély
 
 |
 
-bányafelügyeleti hatáskörében eljáró megyei kormányhivatal
+bányafelügyelet
 
 |
 
@@ -520,7 +520,7 @@ b) használatbavételi engedély
 
 |
 
-bányafelügyeleti hatáskörében eljáró megyei kormányhivatal
+bányafelügyelet
 
 |
 
@@ -550,7 +550,7 @@ hulladéktároló létesítmény átalakításának engedélyezése
 
 |
 
-bányafelügyeleti hatáskörében eljáró megyei kormányhivatal
+bányafelügyelet
 
 |
 
@@ -574,7 +574,7 @@ Időszakos Biztonsági Jelentés hatósági felülvizsgálata
 
 |
 
-bányafelügyeleti hatáskörében eljáró megyei kormányhivatal
+bányafelügyelet
 
 |
 
@@ -698,7 +698,7 @@ radioaktívhulladék-tároló biztonsági övezetének kijelölése, felülvizsg
 
 |
 
-bányafelügyeleti hatáskörében eljáró megyei kormányhivatal
+bányafelügyelet
 
 |
 
@@ -1136,7 +1136,7 @@ b) használatbavételi engedély
 
 |
 
-bányafelügyeleti hatáskörében eljáró megyei kormányhivatal
+bányafelügyelet
 
 |
 

@@ -20,9 +20,9 @@ e) a radioaktív anyag feltalálási helyét,
 
 f) zárt sugárforrások esetében – ideértve a radioaktív hulladékká minősített zárt sugárforrásokat is – tulajdonosonként és birtokosonként és radionuklidonként a radioaktív anyagok engedélyezett maximális készletét, aktuális készletét, fajtáját, aktivitását és rendeltetését (a felhasználás és az alkalmazás engedélyezett formáját),
 
-g) nyitott sugárforrások esetében – ide nem értve a radioaktív hulladékokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva tulajdonosonként és birtokosonként, valamint radionuklidonként a radioaktív anyagok mennyiségét, készletváltozását, felhasználását, fajtáját, eredeti aktivitását és rendeltetését,
+g) nyitott sugárforrások esetében – ide nem értve a radioaktív hulladékokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló, elnök által kiadott rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva tulajdonosonként és birtokosonként, valamint radionuklidonként a radioaktív anyagok mennyiségét, készletváltozását, felhasználását, fajtáját, eredeti aktivitását és rendeltetését,
 
-h) radioaktív hulladékok esetében – ide nem értve a radioaktív hulladékká minősített zárt sugárforrásokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva a radioaktív hulladékok mennyiségét, készletváltozását és fajtáját tulajdonosonként és birtokosonként, radioaktív hulladék osztályonként, valamint amennyiben ismert, radionuklidonként.
+h) radioaktív hulladékok esetében – ide nem értve a radioaktív hulladékká minősített zárt sugárforrásokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló, elnök által kiadott rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva a radioaktív hulladékok mennyiségét, készletváltozását és fajtáját tulajdonosonként és birtokosonként, radioaktív hulladék osztályonként, valamint amennyiben ismert, radionuklidonként.
 
 (3b) A központi nyilvántartás nukleáris anyagok esetében tartalmazza továbbá:
 

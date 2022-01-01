@@ -1,0 +1,5 @@
+6/N. § (1) Az atomenergia-felügyeleti szervnél közszolgálati jogviszonyban állók képzéséről és továbbképzéséről – a vezetőképzést is ideértve – az atomenergia-felügyeleti szerv maga gondoskodik. A képzésre és továbbképzésre vonatkozó részletszabályokat az atomenergia-felügyeleti szerv közszolgálati szabályzata határozza meg.
+
+(2) Az atomenergia-felügyeleti szervnél foglalkoztatott felsőfokú iskolai végzettségű köztisztviselő – felügyelői munkakörében – az atomenergia-felügyeleti szerv képzési rendje és az elnök által kijelölt vizsgabizottság előtt tett sikeres vizsga letétele után bízható meg a 15. § (1) bekezdése szerinti önálló ellenőrzési és intézkedési tevékenység ellátásával.
+
+(3) Az atomenergia-felügyeleti szervnél közszolgálati jogviszonyban állók teljesítményértékelésének és minősítésének rendjére, eljárására és szintjeire, a kiválasztási eljárásra, a kiválasztás rendjére és feltételeire, a pályáztatás rendjére, annak szervezésére és lebonyolítására vonatkozó részletes szabályokat az atomenergia-felügyeleti szerv közszolgálati szabályzata határozza meg.

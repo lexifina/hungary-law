@@ -1,8 +1,8 @@
 64. § (1) A Központi Nukleáris Pénzügyi Alap gazdálkodására az államháztartásról szóló törvény elkülönített állami pénzalapokra vonatkozó rendelkezéseit kell alkalmazni az e törvényben foglalt eltérésekkel.
 
-(2) A Központi Nukleáris Pénzügyi Alap az értékállóságának biztosítása érdekében az előző évi átlagos pénzállományra vetített, a jegybanki alapkamat előző évi átlagával számított összegű központi költségvetési támogatásban részesül.
+(2) A Központi Nukleáris Pénzügyi Alap az értékállóságának biztosítása érdekében az előző évi átlagos pénzállományra vetített, a Központi Statisztikai Hivatal által közölt, előző évi fogyasztói árindex három százalékponttal megnövelt mértékével számított összegű központi költségvetési értékállósági hozzájárulásban részesül.
 
-(3) A (2) bekezdésben foglalt összeget 2003-tól kezdve évente, január 31-ig kell a Központi Nukleáris Pénzügyi Alap rendelkezésére bocsátani.
+(3) A (2) bekezdésben foglalt összeget évente, havi egyenlő részletekben, az első részletet az adott év január 31-ig kell a Központi Nukleáris Pénzügyi Alap rendelkezésére bocsátani.
 
 (4) A Központi Nukleáris Pénzügyi Alap pénzeszközeit a kincstári egységes számlán elkülönítetten kell nyilvántartani.
 
