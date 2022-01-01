@@ -106,7 +106,7 @@ o) az igénylő a 12. § (2) bekezdése szerinti esetben vállalja, hogy tartóz
 
 (8)[^69] A közös háztartásban élést, valamint élettársak esetén ennek időtartamát büntetőjogi felelősség vállalásával tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozattal kell igazolni.
 
-(9)[^70] Arról, hogy a több önálló lakásból álló, osztatlan közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan a támogatott személynek az ingatlan-nyilvántartásban nyilvántartott kizárólagos használati joga áll fenn, a támogatott személy büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik.
+(9)[^70] Arról, hogy a több önálló lakásból álló, osztatlan közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan a támogatott személynek kizárólagos használati joga áll fenn, a támogatott személy büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik.
 
 (9a)[^71] A családi otthonteremtési kedvezmény iránti kérelemben az igénylő teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozik arról, ha az állam javára bejegyzett elidegenítési és terhelési tilalom fennállása alatt a kedvezménnyel érintett használt lakást
 
@@ -130,7 +130,7 @@ ab) a családi otthonteremtési kedvezmény összege nem haladhatja meg a lakó�
 
 b) a (2a) és (2b) bekezdést, a (3) bekezdés a) pontját, a (9b) bekezdést, a 3. § (2c) bekezdését, valamint a 30. § (1) bekezdés 23. pontját is alkalmazni kell.
 
-(10)[^75] Az (1) bekezdés c) pont ca) alpontjában foglaltakat nem kell alkalmazni, ha a 12. § (1) bekezdés a) pontja szerinti igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a kérelem benyújtásának időpontjában kereső tevékenysége alapján valamely másik állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alatt áll és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, valamint teljes bizonyító erejű magánokiratba foglaltan vállalja, hogy a támogatási szerződés megkötését követő 180 napon belül a Tbj. 6. §-a szerinti biztosítottá, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személlyé válik.
+(10)[^75] Az (1) bekezdés c) pontjában foglaltakat – a cc) alpontja kivételével – nem kell alkalmazni, ha a 12. § (1) bekezdés a) pontja szerinti igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a kérelem benyújtásának időpontjában kereső tevékenysége alapján valamely másik állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alatt áll és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, valamint teljes bizonyító erejű magánokiratba foglaltan vállalja, hogy a támogatási szerződés megkötését követő 180 napon belül a Tbj. 6. §-a szerinti biztosítottá, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személlyé válik.
 
 (11)[^76] Ha az egyik szülő halála esetén a túlélő másik szülőnél az (1) bekezdés c) pontja vagy a (2) bekezdés szerinti feltételek nem állnak fenn, a túlélő szülő a családi otthonteremtési kedvezményt – a megelőlegezett családi otthonteremtési kedvezmény kivételével – egyedülállóként igénybe veheti akkor is, ha az elhunyt szülő halála a családi otthonteremtési kedvezmény iránti kérelem benyújtását megelőző egy éven belül következett be, és az (1) bekezdés c) pontja vagy a (2) bekezdés szerinti feltétel az elhunyt szülő tekintetében a halála napján vagy az azt megelőző három hónapos időszakon belül bármely időpontban teljesült, és a halál napján az együttes igénylés feltétele fennállt, amelyre nézve a túlélő szülő a 30. § (1) bekezdés 2. pontja és a 30. § (5) bekezdés a) pontja szerinti okiratokat nyújthat be, vagy a (6) és (8) bekezdés szerinti teljes bizonyító erejű magánokiratba foglalt nyilatkozatokat tehet.
 
@@ -160,10 +160,10 @@ b) a (2a) és (2b) bekezdést, a (3) bekezdés a) pontját, a (9b) bekezdést, a
 [^67]: A 14. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
 [^68]: A 14. § (7) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
 [^69]: A 14. § (8) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
-[^70]: A 14. § (9) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^70]: A 14. § (9) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be, szövege a 786/2021. (XII. 27.) Korm. rendelet 11. § b) pont ba) alpontja szerint módosított szöveg.
 [^71]: A 14. § (9a) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 12. § (2) bekezdése iktatta be.
 [^72]: A 14. § (9b) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 12. § (2) bekezdése iktatta be.
 [^73]: A 14. § (9c) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be.
 [^74]: A 14. § (9d) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^75]: A 14. § (10) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be, szövege a 46/2019. (III. 12.) Korm. rendelet 12. § b) pontja, a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdés b) pontja, az 530/2021. (IX. 14.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^75]: A 14. § (10) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be, szövege a 46/2019. (III. 12.) Korm. rendelet 12. § b) pontja, a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdés b) pontja, az 530/2021. (IX. 14.) Korm. rendelet 16. § c) pontja, a 786/2021. (XII. 27.) Korm. rendelet 11. § b) pont bb) alpontja szerint módosított szöveg.
 [^76]: A 14. § (11) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 12. § (3) bekezdése iktatta be.
