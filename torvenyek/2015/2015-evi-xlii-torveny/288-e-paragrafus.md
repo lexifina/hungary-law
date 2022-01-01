@@ -51,3 +51,5 @@ d) állami vezetővé nevezték ki,
 e)
 
 (7) Az igazgatási jogviszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
+
+(8) Az igazgatási jogviszony létesítésével és megszüntetésével összefüggésben a rendvédelmi szerv jogszabályban meghatározott feltételekkel igénybe veheti, és a rendvédelmi alkalmazott számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.

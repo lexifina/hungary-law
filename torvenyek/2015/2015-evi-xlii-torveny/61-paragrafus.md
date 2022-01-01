@@ -2,6 +2,6 @@
 
 (2) Az ideiglenes átrendelést a munkáltatói jogkör gyakorlója írásban rendeli el.
 
-(3) Az ideiglenes átrendelésre egy naptári éven belül összesen harminc munkanap időtartamban, a rész-szolgálatteljesítési időben foglalkoztatott esetében a harminc munkanap időarányos részére kerülhet sor.
+(3) Az ideiglenes átrendelésre egy naptári éven belül összesen harminc nap időtartamban kerülhet sor, amely időtartam egy alkalommal harminc nappal meghosszabbítható.
 
 (4) Az ideiglenes átrendelés időtartamára a hivatásos állomány tagját nem illeti meg az illetményen felüli további díjazás.

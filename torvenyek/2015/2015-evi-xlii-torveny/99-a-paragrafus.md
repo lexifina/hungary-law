@@ -1,0 +1,1 @@
+99/A. § A szolgálati viszony létesítésével és megszüntetésével összefüggésben a rendvédelmi szerv jogszabályban meghatározott feltételekkel igénybe veheti, és a hivatásos állomány tagja számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
