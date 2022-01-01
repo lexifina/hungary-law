@@ -11,5 +11,3 @@
 (6) Az (5) bekezdés alapján átszálló ingó vagyontárgyakról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, az átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
-
-5/B. A Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat részére történő vagyonjuttatás
