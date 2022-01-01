@@ -14,7 +14,7 @@
 
 1.1.4. anyja születési családi és utóneve
 
-1.1.5. lakcíme, egyéni ügyvéd esetén székhelye, kamarai jogtanácsos esetén munkáltatója székhelye
+1.1.5.[^7] lakcíme, egyéni ügyvéd esetén székhelye, kamarai jogtanácsos és alkalmazottként eljáró természetes személy esetén munkáltatója székhelye, egyéb kötelező jogi képviselet ellátására jogosult természetes személyként és önkormányzati tisztségviselőként eljáró személy esetén irodahelyisége címe
 
 1.1.6. – ha a felvilágosítást kérő elektronikus ügyintézésre köteles vagy azt önként vállalta – rendelkezési nyilvántartásban, illetve közhiteles nyilvántartásban rögzített hivatalos elérhetősége hiányában további hivatalos elektronikus elérhetősége
 
@@ -75,3 +75,5 @@
 8. A kérelemhez csatolt mellékletek megnevezése
 
 9. A kérelem keltének helye és ideje
+
+[^7]: A 3. melléklet 1. pont 1.1. alpont 1.1.5. alpontja a 18/2021. (XII. 23.) IM rendelet 23. § (2) bekezdésével megállapított szöveg.

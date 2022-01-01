@@ -1,4 +1,4 @@
-## 15. § Ez a rendelet 2018. január 1. napján lép hatályba.
+## 16. §[^2] E rendeletnek az egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 18/2021. (XII. 23.) IM rendelettel módosított 6. § (3) bekezdését a 2022. január 1-jét követően indult nyilvántartási eljárásokban kell alkalmazni.
 
 1. melléklet a 17/2017. (XII. 15.) IM rendelethez
 
@@ -26,9 +26,9 @@
 
 1.3.7. egyéni ügyvéd, valamint európai közösségi jogász meghatalmazott esetén – lakcím helyett – székhelye
 
-1.3.8. kamarai jogtanácsos meghatalmazott esetén – lakcím helyett – munkáltatója székhelye, valamint – ha a kamarai jogtanácsos szokásos munkavégzési helye a munkáltatója székhelyétől eltér – a szokásos munkavégzési hely címe
+1.3.8.[^3] kamarai jogtanácsos, valamint alkalmazottként eljáró természetes személy meghatalmazott esetén – lakcím helyett – munkáltatója székhelye, valamint – ha a kamarai jogtanácsos szokásos munkavégzési helye a munkáltatója székhelyétől eltér – a szokásos munkavégzési hely címe
 
-1.3.9. egyéb kötelező jogi képviselet ellátására jogosult természetes személy meghatalmazott esetén – lakcím helyett – irodahelyisége címe
+1.3.9.[^4] egyéb kötelező jogi képviselet ellátására jogosult természetes személy, valamint önkormányzati tisztségviselő meghatalmazott esetén – lakcím helyett – irodahelyisége címe
 
 1.3.10. – ha elektronikus ügyintézésre köteles vagy azt önként vállalta – rendelkezési nyilvántartásban, illetve közhiteles nyilvántartásban rögzített hivatalos elérhetősége hiányában további hivatalos elektronikus elérhetősége
 
@@ -86,9 +86,9 @@
 
 2.2.7. egyéni ügyvéd esetén – lakcím helyett – székhelye
 
-2.2.8. kamarai jogtanácsos esetén – lakcím helyett – munkáltatója székhelye, valamint – ha a kamarai jogtanácsos szokásos munkavégzési helye a munkáltatója székhelyétől eltér – a szokásos munkavégzési hely címe
+2.2.8.[^5] kamarai jogtanácsos, valamint alkalmazottként eljáró természetes személy esetén – lakcím helyett – munkáltatója székhelye, valamint – ha a kamarai jogtanácsos szokásos munkavégzési helye a munkáltatója székhelyétől eltér – a szokásos munkavégzési hely címe
 
-2.2.9. egyéb kötelező jogi képviselet ellátására jogosult természetes személy meghatalmazott esetén – lakcím helyett – irodahelyisége címe
+2.2.9.[^6] egyéb kötelező jogi képviselet ellátására jogosult természetes személy, valamint önkormányzati tisztségviselő meghatalmazott esetén – lakcím helyett – irodahelyisége címe
 
 2.2.10. – ha elektronikus ügyintézésre köteles vagy azt önként vállalta – rendelkezési nyilvántartásban, illetve közhiteles nyilvántartásban rögzített hivatalos elérhetősége hiányában további hivatalos elektronikus elérhetősége
 
@@ -139,3 +139,9 @@
 3.1. ha a polgári peres, bírósági polgári nemperes, közigazgatási peres, illetve egyéb közigazgatási bírósági eljárásban a jogi képviselet kötelező, a nem jogi képviselő részére adott általános meghatalmazás a jogi képviselő részére adott meghatalmazást nem pótolja
 
 3.2. ha az eljárásban a jogi képviselet kötelező, melyek a jogi képviselő hiányának jogkövetkezményei
+
+[^2]: A 16. §-t a 18/2021. (XII. 23.) IM rendelet 22. §-a iktatta be.
+[^3]: Az 1. melléklet 1.3.8. pontja a 18/2021. (XII. 23.) IM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. melléklet 1.3.9. pontja a 18/2021. (XII. 23.) IM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. melléklet 2.2.8. pontja a 18/2021. (XII. 23.) IM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. melléklet 2.2.9. pontja a 18/2021. (XII. 23.) IM rendelet 23. § (1) bekezdésével megállapított szöveg.

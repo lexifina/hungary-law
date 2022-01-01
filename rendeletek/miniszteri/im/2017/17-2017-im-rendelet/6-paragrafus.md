@@ -2,4 +2,6 @@
 
 (2) Egyéni ügyvéd meghatalmazott esetében a nyilvántartásban a kamarai névjegyzék szerinti családi és utónevet kell feltüntetni.
 
-(3) Egyéni ügyvéd, európai közösségi jogász, kamarai jogtanácsos, valamint egyéb kötelező jogi képviselet ellátására jogosult természetes személy meghatalmazott esetében a nyilvántartásban lakóhelyadat helyett székhelyadatot kell feltüntetni. Kamarai jogtanácsos esetében a nyilvántartásban székhelyadatként a kamarai jogtanácsos munkáltatójának székhelyét, egyéb kötelező jogi képviselet ellátására jogosult természetes személy meghatalmazott esetében irodahelyisége címét kell feltüntetni.
+(3)[^1] Egyéni ügyvéd, európai közösségi jogász, kamarai jogtanácsos, egyéb kötelező jogi képviselet ellátására jogosult természetes személy, alkalmazottként eljáró természetes személy, valamint önkormányzati tisztségviselő meghatalmazott esetében a nyilvántartásban lakóhelyadat helyett székhelyadatot kell feltüntetni. Kamarai jogtanácsos, valamint alkalmazottként eljáró természetes személy esetében a nyilvántartásban székhelyadatként a munkáltató székhelyét, egyéb kötelező jogi képviselet ellátására jogosult természetes személy, valamint önkormányzati tisztségviselő meghatalmazott esetében irodahelyisége címét kell feltüntetni.
+
+[^1]: A 6. § (3) bekezdése a 18/2021. (XII. 23.) IM rendelet 21. §-ával megállapított szöveg.
