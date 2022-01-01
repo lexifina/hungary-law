@@ -1,0 +1,5 @@
+11. § (1) Ha a munkáltató szerv álláshirdetést kíván megjelentetni vagy e rendelet szerint arra kötelezett, vagy kiválasztási eljárást kíván lefolytatni, a személyügyi központ honlapján közzétett intézményi regisztrációs lap kitöltésével intézményi regisztrációt kezdeményez, majd ezt követően felhasználónév és jelszó kiadását igényli a személyügyi központnál.
+
+(2) A munkáltató szerv vezetőjének elektronikus aláírásával ellátott intézményi regisztrációs lapot a személyügyi központ részére elektronikus úton, hivatali tárhelyen keresztül kell elküldeni. Az elküldött dokumentumon elhelyezett elektronikus aláírásnak tartalmaznia kell a munkáltató vezetőjének mint nyilatkozattevőnek a nevét, vezetői beosztását és szervezetét.
+
+(3) A személyügyi központ hozzáférést biztosít a munkáltató szervnek a KÖZSZOLGÁLLÁS adminisztrációs rendszeréhez, és a munkáltató szerv rendszerhasználathoz szükséges egyedi adatait a regisztrációs bejelentőlap személyügyi központhoz történő beérkezését követő öt munkanapon belül elektronikus úton megküldi.

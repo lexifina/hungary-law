@@ -1,0 +1,3 @@
+## 45. § A tartalékállományra vonatkozó egyes szabályokról szóló 71/2019. (IV. 4.) Korm. rendelet 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az MH központi személyügyi szervének vezetője a személyügyi központ honlapján elérhető regisztrációs bejelentőlap megküldésével igényel TARTINFOR-azonosítókat, amelyeket a 4. § (5) bekezdésében meghatározott módon meg kell küldenie a személyügyi központnak. Az MH központi személyügyi szervének vezetője csak az így igényelt TARTINFOR-azonosítókkal léphet be a TARTINFOR-rendszerbe. Az MH központi személyügyi szervének vezetője a rendelkezési állományú katona adatait a rendelkezési állományba helyezésétől számított öt munkanapon belül rögzíti a TARTINFOR-rendszerben.”

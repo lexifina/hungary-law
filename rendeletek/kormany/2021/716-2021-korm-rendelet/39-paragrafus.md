@@ -1,0 +1,1 @@
+## 38. § A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet 2. mellékletében foglalt táblázat E:43 mezőjében a „Közszolgálati HR Rendszer” szövegrész helyébe a „Közszolgálati Személyügyi Szolgáltatási Keretrendszer” szöveg lép.
