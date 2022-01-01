@@ -19,3 +19,5 @@ c) hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozás induló tőkéj�
 (6) A jelölő bizottság tagjaira vonatkozó, a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdasági stabilitást érintő egyes jogszabályok módosításáról szóló 2019. évi CXVIII. törvénnyel megállapított rendelkezéseket a hitelintézetnek legkésőbb 2020. május 31-től kell alkalmazni.
 
 (7) A 275. § (6) bekezdése szerinti kivonaton az OBA tagintézet felhívja a betétes figyelmét a 6. § (2) bekezdés 6. pontjának 2021. január 1-jén hatályba lépő módosítására.
+
+(8) Az a közvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 74. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat közvetítővel, közvetítői alvállalkozóval.

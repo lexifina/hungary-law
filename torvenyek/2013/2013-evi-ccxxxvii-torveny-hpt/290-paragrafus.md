@@ -36,7 +36,7 @@ c) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződé
 
 d) a belső ellenőrzési rendszerekre, eljárásokra,
 
-e) a közvetítői hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, pénzügyi szolgáltatás közvetítői tevékenység folytatására feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
+e) a közvetítői hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, pénzügyi szolgáltatás közvetítői tevékenység folytatására feljogosító hatósági bizonyítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
 
 f) a deviza nyitott pozícióra,
 

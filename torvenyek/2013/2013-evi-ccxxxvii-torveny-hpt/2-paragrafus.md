@@ -16,7 +16,7 @@ f) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból
 
 a) az elkülönített állami pénzalapokra,
 
-b) a Magyar Nemzeti Vagyonkezelő Zrt.-re, valamint
+b) a kincstári vagyonnal való gazdálkodása tekintetében a Magyar Nemzeti Vagyonkezelő Zrt.-re, valamint
 
 c) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezetre.
 

@@ -4,29 +4,19 @@ a) szakirányú felsőfokú iskolai végzettséggel, vagy
 
 b) középiskolai végzettséggel és
 
-ba) szakképesített bankreferensi szakképesítéssel,
+ba) banki, befektetési termékértékesítői szakképesítéssel,
 
-bb) banki, befektetési termékértékesítői szakképesítéssel,
+bb) pénzügyi szervezeti mérlegképes könyvelői szakképesítéssel,
 
-bc) befektetési tanácsadói szakképesítéssel,
+bc) tőzsdei szakvizsgával,
 
-bd) banki szakügyintézői szakképesítéssel,
+bd) becsüsi bizonyítvánnyal (kizárólag kézizálog fedezete mellett nyújtott pénzkölcsön közvetítése esetén),
 
-be) pénzügyi szakügyintézői szakképesítéssel,
+be) pénztárkezelő és valutapénztáros-szakképesítéssel (kizárólag pénzváltás közvetítése esetén),
 
-bf) értékpapír-piaci szakügyintézői szakképesítéssel,
+bf) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
 
-bg) pénzügyi szervezeti mérlegképes könyvelői szakképesítéssel,
-
-bh) tőzsdei szakvizsgával,
-
-bi) becsüsi bizonyítvánnyal (kizárólag kézizálog fedezete mellett nyújtott pénzkölcsön közvetítése esetén),
-
-bj) valutapénztárosi bizonyítvánnyal (kizárólag pénzváltás közvetítése esetén),
-
-bk) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
-
-bl) a ba)–bk) alpontban foglaltakkal egyenértékű szakképesítéssel, vagy
+bg) a ba)–bf) alpontban foglaltakkal egyenértékű szakképesítéssel, vagy
 
 c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott pénzügyi szolgáltatás közvetítői hatósági vizsgával
 
@@ -40,7 +30,7 @@ b) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerezhető gaz
 
 c) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerzett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
 
-(2a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
+(2a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló bizonyítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
 
 (3) Közvetítői tevékenységet végző hitelintézettel, biztosítóval, Posta Elszámoló Központot működtető intézménnyel munkaviszonyban álló természetes személy kizárólag abban az esetben végezhet közvetítői tevékenységet, ha az általa közvetített pénzügyi szolgáltatással kapcsolatban megfelelő képzést kapott. A szakmai követelmények ellenőrzéséért a munkáltató felelős.
 
