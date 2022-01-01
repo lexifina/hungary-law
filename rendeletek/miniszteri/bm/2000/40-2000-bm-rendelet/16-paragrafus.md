@@ -1,6 +1,6 @@
-## 15. §[^26] A 14. § szerinti előzetes engedély beszerzéséhez a dolgozó írásbeli kérelmét a munka- vagy szolgálati helye szerinti közvetlen vezetőjének részletes indokolásával ellátva, a szolgálati út betartásával kell a helyi lakásügyi szervhez benyújtani.
+## 15. §[^30] A 14. § szerinti előzetes engedély beszerzéséhez a dolgozó írásbeli kérelmét a munka- vagy szolgálati helye szerinti közvetlen vezetőjének részletes indokolásával ellátva, a szolgálati út betartásával kell a helyi lakásügyi szervhez benyújtani.
 
-16. §[^27] (1) A kérelem felterjesztésének együttes feltételei:
+16. §[^31] (1) A kérelem felterjesztésének együttes feltételei:
 
 a) a kérelmet a dolgozó munka-, illetőleg szolgálati helye szerinti döntésre jogosult vezető záradékolja, amellyel igazolja a kivételes szolgálati érdek, illetőleg rendkívüli, méltányolható egyéni körülmények fennállását;
 
@@ -10,8 +10,8 @@ c) a bérelt lakrész, illetőleg lakás a dolgozó méltányolható lakásigén
 
 d) a dolgozó munka-, illetőleg szolgálati helye szerint illetékes gazdasági vezető írásbeli nyilatkozata, hogy a hozzájárulás kiegészítés összege a szervezet költségvetésében rendelkezésre áll.
 
-(2)[^28] A helyi lakásügyi szerv az (1) bekezdésben felsorolt bármelyik feltétel hiányában a kérelmet vizsgálat nélkül elutasítja.
+(2)[^32] A helyi lakásügyi szerv az (1) bekezdésben felsorolt bármelyik feltétel hiányában a kérelmet vizsgálat nélkül elutasítja.
 
-[^26]: A 15. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta be, szövege a 31/2018. (XII. 19.) BM rendelet 2. §-ával megállapított szöveg.
-[^27]: A 16. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^28]: A 16. § (2) bekezdése a 31/2018. (XII. 19.) BM rendelet 3. §-ával megállapított szöveg.
+[^30]: A 15. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta be, szövege a 31/2018. (XII. 19.) BM rendelet 2. §-ával megállapított szöveg.
+[^31]: A 16. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^32]: A 16. § (2) bekezdése a 31/2018. (XII. 19.) BM rendelet 3. §-ával megállapított szöveg.

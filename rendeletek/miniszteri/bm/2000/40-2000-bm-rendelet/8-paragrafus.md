@@ -10,7 +10,7 @@ c) az arra jogosult felmondásával,
 
 d) a szállóférőhely használójának, illetőleg házastársának, élettársának, kiskorú gyermekének lakásbérleti jogviszonya létesítésével vagy lakástulajdon szerzésével,
 
-e)[^15] a szállóférőhely használója belügyi szolgálati jogviszonyának megszűnésével, kivéve, ha a használó az Országgyűlési Őrség állományába kerül áthelyezésre,
+e)[^16] a szállóférőhely használója belügyi szolgálati jogviszonyának megszűnésével, kivéve, ha a használó az Országgyűlési Őrség állományába kerül áthelyezésre,
 
 f) a szállóférőhely használójának halálával,
 
@@ -20,7 +20,7 @@ g) a szállóférőhely elemi csapás vagy más ok következtében történő me
 
 a) a szállóférőhely használója a használati díját az írásbeli felszólításban megjelölt időpontig sem fizeti meg,
 
-b)[^16]
+b)[^17]
 
 c) a szállóférőhely használója a megállapodásban vállalt vagy jogszabályban foglalt egyéb kötelezettségeit nem teljesíti,
 
@@ -28,5 +28,5 @@ d) a szállóférőhely használója vagy a vele együtt lakó személy a házir
 
 e) házaspári lakóegység esetében, ha a házastársak, élettársak életközösségüket felbontják, illetőleg megszüntetik.
 
-[^15]: A 8. § (1) bekezdés e) pontja a 75/2013. (XII. 18.) BM rendelet 29. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
-[^16]: A 8. § (2) bekezdésének b) pontját a 31/2003. (VII. 18.) BM rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.
+[^16]: A 8. § (1) bekezdés e) pontja a 75/2013. (XII. 18.) BM rendelet 29. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^17]: A 8. § (2) bekezdésének b) pontját a 31/2003. (VII. 18.) BM rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.
