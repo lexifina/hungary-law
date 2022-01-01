@@ -1,0 +1,3 @@
+## 11. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet (a továbbiakban: R5.) 2/C. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A védőnő havi alapbére (garantált illetménye) magában foglalja az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendeletben (a továbbiakban: Kr.) meghatározott védőnői kiegészítő pótlékot, továbbá a Kr. 76/A. § (4) bekezdése, 76/D. § (4) bekezdése és 76/L. § (1) bekezdése szerinti emelések összegét.”
