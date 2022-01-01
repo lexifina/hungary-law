@@ -1,7 +1,6 @@
-## 23. §[^40] E rendeletnek az egyes nemzeti forrásból finanszírozott mezőgazdasági támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 4/2019. (III. 6.) AM rendelettel [a továbbiakban: 4/2019. (III. 6.) AM rendelet] megállapított 8. § (2) bekezdését a 4/2019. (III. 6.) AM rendelet hatálybalépésekor[^41] folyamatban lévő eljárásokban is alkalmazni kell.
+## 24. §[^42] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 50/2021. (XII. 29.) AM rendelettel módosított 8. § (2) bekezdését a 2022. támogatási évre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban kell alkalmazni.
 
-1. számú melléklet az 56 /2008. (IV. 25.) FVM rendelethez[^42]
+1. számú melléklet az 56 /2008. (IV. 25.) FVM rendelethez[^43]
 
-[^40]: A 23. §-t a 4/2019. (III. 6.) AM rendelet 3. § (1) bekezdése iktatta be.
-[^41]: A hatálybalépés időpontja 2019. március 9.
-[^42]: Az 1. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^42]: A 24. §-t az 50/2021. (XII. 29.) AM rendelet 8. §-a iktatta be.
+[^43]: Az 1. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 5. § (8) bekezdésével megállapított szöveg.
