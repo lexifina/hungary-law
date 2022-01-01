@@ -44,7 +44,7 @@ b) az egészségügyi intézmény működőképességét és szükség szerinti 
 
 (2a)
 
-(3) A 151/B. § (1) bekezdése szerinti egészségügyi intézmények esetében – a 156/A. §-ban foglalt kivétellel –
+(3) A 151/B. § (1) bekezdése szerinti egészségügyi intézmények esetében
 
 a) a miniszter jogkörébe tartozik az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása,
 
@@ -78,7 +78,7 @@ b) az egyéb munkáltatói jogokat a megyei intézmény vezetője
 
 gyakorolja.
 
-(10) Az állami fenntartású, megyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a megyei intézményhez (ide nem értve a megyei jogú városban székhellyel rendelkező megyei intézményt) tartozik, amelyik megyei intézmény székhelye szerinti megyében a városi intézmény székhelye található azzal, hogy azokban a megyékben, ahol irányítási joggal rendelkező megyei intézmény nem működik, a megyében működő egészségügyi felsőoktatási intézmény klinikai központját kell megyei intézmény alatt érteni (a továbbiakban: irányító megyei intézmény).
+(10) Az állami fenntartású, megyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a megyei intézményhez (ide nem értve a megyeszékhelynek nem minősülő megyei jogú városban székhellyel rendelkező megyei intézményt) tartozik, amelyik megyei intézmény székhelye szerinti megyében a városi intézmény székhelye található azzal, hogy azokban a megyékben, ahol irányítási joggal rendelkező megyei intézmény nem működik, a megyében működő egészségügyi felsőoktatási intézmény klinikai központját, ennek hiányában a megyeszékhelyen legalább egy telephellyel rendelkező állami fenntartású fekvőbeteg-szakellátást nyújtó intézményt kell megyei intézmény alatt érteni (a továbbiakban: irányító megyei intézmény).
 
 (11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító megyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító megyei kórház vezetője által tett kezdeményezésekre is.
 

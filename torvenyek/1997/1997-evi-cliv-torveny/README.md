@@ -69,3 +69,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2021-07-01 | 2021. évi XXXIX. törvény | 1997-154-00-00.102 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 1997-154-00-00.103 |
 | 2021-12-22 | 2021. évi CXLVIII. törvény | 1997-154-00-00.104 |
+| 2022-01-01 | 2021. évi CXXX. törvény | 1997-154-00-00.105 |

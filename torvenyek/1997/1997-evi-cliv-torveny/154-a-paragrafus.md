@@ -8,4 +8,4 @@
 
 (4) Az egészségügyi szolgáltatás irányításáért felelős szervet irányító minisztert a Kormány rendeletben jelöli ki.
 
-(5) Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei részére a miniszter, az igazgatók részére az egészségügyi szolgáltatás irányításáért felelős szerv vezetője személyi illetményt állapíthat meg. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője, annak helyettesei, valamint az igazgatók személyi illetménye legkisebb és legnagyobb összegét a Kormány rendeletben állapítja meg.
+(5) Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei részére a miniszter, az igazgatók részére az egészségügyi szolgáltatás irányításáért felelős szerv vezetője személyi illetményt állapíthat meg. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője, annak helyettesei, valamint az igazgatók személyi illetménye legkisebb összegét a Kormány rendeletben állapítja meg.

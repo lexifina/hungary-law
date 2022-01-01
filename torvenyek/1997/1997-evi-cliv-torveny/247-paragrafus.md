@@ -90,7 +90,7 @@ e) meghatározza a kórházlelkészi, illetve kórházi lelki gondozói tevéken
 
 f) kijelölje az egészségügyi szolgáltatás irányításáért felelős szervet és az azt irányító minisztert,
 
-g) határozza meg az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei, valamint az igazgatók részére megállapítható személyi illetmény legkisebb és legnagyobb összegét,
+g) határozza meg az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei, valamint az igazgatók részére megállapítható személyi illetmény legkisebb összegét,
 
 h) kijelölje a 151/B. § (1) bekezdése szerinti egészségügyi intézményeket irányító minisztert,
 
@@ -162,7 +162,7 @@ gf) gyógyintézet vezetőjének és vezetőhelyetteseinek képesítési követe
 
 gg) az egészségügyi szakértői szakterületeket, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének megtételével összefüggő eljárás részletes szabályait, a bejelentési eljárás részletes szabályait, a bejelentés és nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 
-gh) az egyes egészségügyi szakképesítésekhez tartozó tevékenységi kompetenciákat,
+gh) az egyes egészségügyi szakképesítésekhez tartozó, valamint az egészségügyi felsőfokú szakirányú szakképzés során megszerezhető tevékenységi kompetenciákat,
 
 gi) az egészségügyi rendszer teljesítményértékelésére vonatkozó részletes szabályokat, a teljesítményértékelés intézményrendszerét, az egyes indikátorok meghatározásának és gyűjtésének, valamint az egészségpolitikai döntéshozatal során az értékelések felhasználásának szabályait,
 
@@ -232,7 +232,7 @@ r) a véradások szervezésével kapcsolatos részletes szabályokat, a térít�
 
 s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait, és az ipari célú vérmintavételére és felhasználására vonatkozó részletes szabályokat,
 
-sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat, az étkeztetés, étrendtervezés és a diétás ételkészítés személyi feltételeit, valamint a hatósági ellenőrzés szabályait,
+sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat, az étkeztetés, étrendtervezés és a diétás ételkészítés személyi feltételeit, a fekvőbeteg-ellátást nyújtó intézmények, személyes gondoskodást nyújtó gyermekjóléti alapellátást, gyermekvédelmi szakellátást, illetve szociális szakosított ellátást nyújtó intézmények, valamint a nevelési-oktatási intézmények diétás étkeztetéssel kapcsolatos kötelezettségeit, valamint a hatósági ellenőrzés és a közétkeztetést végző gazdasági szereplők táplálkozás-egészségügyi minősítésének szabályait,
 
 t) a vérkészítmények terápiás felhasználásának részletes szabályait,
 
@@ -315,5 +315,3 @@ a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért 
 b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
 
 c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-
-ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
