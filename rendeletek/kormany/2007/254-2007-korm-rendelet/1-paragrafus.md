@@ -6,7 +6,7 @@
 
 (1a)[^2] E rendelet hatálya a 23/A. § tekintetében az állami beruházások központi nyilvántartásáról és ellenőrzéséről, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 469/2016. (XII. 23.) Korm. rendelet (a továbbiakban: Ábk.) hatálya alá tartozó építési beruházásokra is kiterjed.
 
-(2)[^3] A rendelet hatálya alá tartozó polgári jogi jogviszonyokra az e rendeletben nem szabályozott kérdésekben a Polgári Törvénykönyv előírásai irányadók.
+(2)[^3] A rendelet hatálya alá tartozó polgári jogi jogviszonyokra az e rendeletben nem szabályozott kérdésekben a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) előírásai irányadók.
 
 (3)[^4] E rendeletnek a tulajdonjogra és annak tárgyaira vonatkozó rendelkezéseit megfelelően alkalmazni kell a Vtv. hatálya alá tartozó további állami vagyonra, így az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpapírokra, valamint az államot megillető egyéb társasági részesedésekre, és az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultságokra is, amelyet jogszabály vagyoni értékű jogként nevesít.
 
@@ -22,7 +22,7 @@ a)[^6] állami vagyon használója: az a természetes vagy jogi személy, jogi s
 
 b)[^7] vagyonkezelő: a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben (a továbbiakban: Nvtv.) vagyonkezelőként meghatározott azon személy, amellyel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.), valamint annak jogelődje, vagy az állami vagyon tulajdonosi joggyakorlója vagyonkezelési szerződést kötött, továbbá akit törvény vagyonkezelőnek kijelöl;
 
-c)[^8] csomagban történő értékesítés: egymástól elkülönülő, egynemű vagyontárgyak együttes értékesítése;
+c)[^8] csomagban történő értékesítés: egymástól elkülönülő egynemű vagy egymással alkotórészi kapcsolatban nem álló, de gazdasági, jogi vagy funkcionális egységet képező vagyontárgyak együttes értékesítése;
 
 d) értékesítés: állami vagyon tulajdonjogának bármely jogcímen történő, visszterhes átruházása;
 
@@ -30,15 +30,15 @@ e)[^9] hasznosítás: az állami vagyon bármely – a tulajdonjog átruházás�
 
 f)[^10] ellenérték: az állami vagyon értékesítésére, hasznosítására, haszonélvezeti jog létesítésére, vagyonkezelésére irányuló szerződésben megállapított, az állami vagyon tulajdonjoga, birtoklása, használata, hasznainak szedése, hasznosítása, haszonélvezete, vagyonkezelése fejében fizetendő pénzösszeg vagy pénzben kifejezett értékű tevékenység, vagy más ellenszolgáltatás;
 
-g) piaci érték: az ügylet tárgyát képező állami vagyon feletti valamely jog – az adott feltételek és körülmények figyelembevételével történő – átengedéséért a szabad piacon, független felek között elérhető reális ellenérték;
+g)[^11] forgalmi érték: az ügylet tárgyát képező állami vagyon feletti valamely jog – az adott feltételek és körülmények figyelembevételével történő – átengedéséért a szabad piacon, független felek között elérhető reális ellenérték;
 
-h)[^11] irányító (felügyeleti) szerv vezetője: a költségvetési szerv alapító okiratában meghatározott irányító, illetve felügyeleti szerv vezetője;
+h)[^12] irányító (felügyeleti) szerv vezetője: a költségvetési szerv alapító okiratában meghatározott irányító, illetve felügyeleti szerv vezetője;
 
-i)[^12] személy: a természetes személy, a jogi személy és a jogi személyiség nélküli gazdálkodó szervezet;
+i)[^13] személy: a természetes személy, a jogi személy és a jogi személyiség nélküli gazdálkodó szervezet;
 
 j) ajánlattevő (pályázó): a pályázati felhívás alapján ajánlatot tevő személy, illetve az együttes pályázati ajánlattétel céljából alapított – a pályázati eljárás és a szerződéskötés során egyetemleges felelősségű – ajánlattevői közösség vagy más alkalmi egyesülés (konzorcium);
 
-k)[^13] elszámolási kötelezettséggel kapott külső forrás:
+k)[^14] elszámolási kötelezettséggel kapott külső forrás:
 
 ka) a közvetlenül vagy közvetve költségvetésből származó forrás, ideértve különösen a tulajdonosi joggyakorló által juttatott – tőkeemelésnek vagy támogatásnak nem minősülő – forrásokat is, amelyek kifejezetten valamely állami vagyonelem (eszköz) létrehozása, felújítása vagy azzal kapcsolatos értéknövelő beruházás érdekében, előfinanszírozási céllal vagy pályázati önrész biztosítása céljából kerültek folyósításra,
 
@@ -46,31 +46,75 @@ kb) a jogszabályban biztosított kizárólagos jog gyakorlásából közvetlen 
 
 kc) azon támogatás, amely után a támogató a társasági adóról és az osztalékadóról szóló törvény szerinti látvány-csapatsportok támogatásának adókedvezményét vette igénybe;
 
-l)[^14] költségvetés: az államháztartás központi alrendszerének költségvetése, a külföldi állam vagy nemzetközi szervezet által vagy nevében kezelt költségvetés, valamint az Európai Unió által vagy nevében kezelt költségvetés, pénzalap;
+l)[^15] költségvetés: az államháztartás központi alrendszerének költségvetése, a külföldi állam vagy nemzetközi szervezet által vagy nevében kezelt költségvetés, valamint az Európai Unió által vagy nevében kezelt költségvetés, pénzalap;
 
-m)[^15] kiíró: állami vagyon pályáztatás vagy árverés útján történő értékesítése esetén az MNV Zrt., a tulajdonosi joggyakorló vagy az általuk az értékesítés lefolytatásával megbízott személy, állami vagyon versenyeztetés útján történő hasznosítása esetén a tulajdonosi joggyakorló vagy a vagyonkezelő;
+m)[^16] kiíró: állami vagyon pályáztatás vagy árverés útján történő értékesítése esetén az MNV Zrt., a tulajdonosi joggyakorló vagy az általuk az értékesítés lefolytatásával megbízott személy, állami vagyon versenyeztetés útján történő hasznosítása esetén a tulajdonosi joggyakorló vagy a vagyonkezelő;
 
-n)[^16] kikiáltási ár: legalább az árverés útján értékesítésre kerülő vagyontárgy vagyonértékelésen alapuló, hirdetményben közzétett becsült forgalmi értéke (a továbbiakban: becsérték) vagy – ha e rendelet ezt lehetővé teszi – annak árengedménnyel csökkentett összege;
+n)[^17] kikiáltási ár:
 
-o)[^17] árverési biztosíték: a kiíró által megállapított pénzösszeg, melyet az árverésen való részvétel feltételeként az árverezőnek a kiíró által megjelölt letéti számlára, az árverési hirdetményben meghatározott időpontig kell átutalnia, vagy a kiírási feltételek szerinti más módon a kiíró részére megfizetnie;
+na) a kivezetésre szánt állami vagyon körébe nem tartozó vagyonelemek esetén: legalább az árverés vagy elektronikus árverés útján értékesítésre kerülő vagyontárgy vagyonértékelésen alapuló, hirdetményben közzétett becsült forgalmi értéke (a továbbiakban: becsérték) vagy – ha e rendelet ezt lehetővé teszi – annak árengedménnyel csökkentett összege,
 
-p)[^18] számviteli rendezés: a vagyonkezelő vagy a használó által állami vagyonon megvalósított értéknövelő beruházás, felújítás, létrehozott új eszköz tulajdonosi joggyakorló és a vagyonkezelő vagy használó nyilvántartásaiban a számviteli jogszabályok szerinti – bizonylatokkal alátámasztott, alapdokumentumok alapján történő – rögzítése.
+nb) a kivezetésre szánt állami vagyon körébe tartozó vagyonelemek esetén: legalább az árverésen vagy az elektronikus árverésen értékesítésre kerülő vagyontárgy korrigált forgalmi értéke;
+
+o)[^18] árverési biztosíték: a kiíró által megállapított pénzösszeg, melyet az árverésen való részvétel feltételeként az árverezőnek a kiíró által megjelölt letéti számlára, az árverési hirdetményben meghatározott időpontig kell átutalnia, vagy a kiírási feltételek szerinti más módon a kiíró részére megfizetnie;
+
+p)[^19] számviteli rendezés: a vagyonkezelő vagy a használó által állami vagyonon megvalósított értéknövelő beruházás, felújítás, létrehozott új eszköz tulajdonosi joggyakorló és a vagyonkezelő vagy használó nyilvántartásaiban a számviteli jogszabályok szerinti – bizonylatokkal alátámasztott, alapdokumentumok alapján történő – rögzítése.
+
+q)[^20] kivezetésre szánt állami vagyon: a Vtv. 42/A. § (1) bekezdése szerinti vagyonelemek és követelések;
+
+r)[^21] korrigált forgalmi érték: a kivezetésre szánt állami vagyon körébe tartozó vagyonelem Vtv. 42/H. § (3) bekezdésében foglaltak szerint megállapított értéke;
+
+s)[^22] villámár: a kivezetésre szánt állami vagyon körébe tartozó vagyonelem licitálást lehetővé tevő értékesítése esetén az a vagyontárgy korrigált forgalmi értékét meghaladó ár, amelynek vevő általi megfizetése esetén sor kerülhet a vagyonelem azonnali értékesítésére.
+
+(8)[^23] Nem minősül a Vtv. 42/A. § (1) bekezdés c) pontja szerinti kivezetésre szánt állami vagyoni körbe tartozó kis értékű ingóságnak
+
+a) a drágakő, a nemesfém és az azokból készült tárgy,
+
+b) a lőfegyver, a lőszer és egyéb fegyver, a haditechnikai eszköz,
+
+c) a kulturális javak körébe tartozó ingóság,
+
+d) a régészeti lelet, valamint
+
+e) a természet védelméről szóló 1996. évi LIII. törvény 4. § e) pontja szerinti védett természeti érték.
+
+(9)[^24] Az MNV Zrt. a tulajdonosi joggyakorlása alatt álló, általa közvetlenül hasznosított, kis értékű vagyonelemek köréből nem minősítheti kivezetésre szánt állami vagyonba tartozó vagyonnak
+
+a) a jogszabály alapján állami tulajdonban tartandó vagyonelemet,
+
+b) az állami feladatok ellátásához, központi költségvetési szervek elhelyezési vagy egyéb igényeihez, állami beruházásokhoz közvetlenül vagy közvetve felhasznált, ilyen feladatok ellátását segítő vagy arra alkalmas állami tulajdonú vagyonelemet,
+
+c) az MNV Zrt. állami vagyongazdálkodási feladatai, célkitűzései, állami vagyonnal kapcsolatos kötelezettségvállalásai teljesítéséhez szükséges vagyonelemet,
+
+d) a Kormány vagyonpolitikai, vagyongazdálkodási döntéseinek megvalósításához közvetlenül vagy közvetve kapcsolódó vagyonelemet,
+
+e) annak a gazdasági társaságnak a társasági részesedését, amelynek tulajdonába, rendelkezési jogkörébe olyan vagyonelem tartozik, amely az állam számára stratégiai jelentőséggel bírhat,
+
+f) azt a társasági részesedést vagy pénzügyi eszközt, amely olyan többletjogot testesít meg, amely az állam számára stratégiai jelentőséggel bírhat, vagy
+
+g) az Európai Unió költségvetéséből finanszírozott támogatási program keretében beszerzett, fenntartási kötelezettséggel terhelt vagyonelemet a fenntartási időszak időtartamának lejártáig.
 
 [^1]: Az 1. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1a) bekezdését a 469/2016. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
-[^3]: Az 1. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 827/2021. (XII. 28.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (7) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (7) bekezdés a) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 148/2019. (VI. 25.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (7) bekezdés b) pontja a 77/2014. (III. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (7) bekezdés c) pontját a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte, újonnan a 192/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (7) bekezdés c) pontját újonnan a 192/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 827/2021. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: Az 1. § (7) bekezdés e) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^10]: Az 1. § (7) bekezdés f) pontja a 356/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^11]: Az 1. § (7) bekezdés h) pontját a 77/2014. (III. 14.) Korm .rendelet 27. §-a hatályon kívül helyezte, újonnan a 148/2019. (VI. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^12]: Az 1. § (7) bekezdés i) pontja a 77/2014. (III. 14.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^13]: Az 1. § (7) bekezdés k) pontja a 244/2015. (IX. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 148/2019. (VI. 25.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
-[^14]: Az 1. § (7) bekezdés l) pontját a 244/2015. (IX. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^15]: Az 1. § (7) bekezdés m) pontját a 244/2015. (IX. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^16]: Az 1. § (7) bekezdés n) pontját a 244/2015. (IX. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^17]: Az 1. § (7) bekezdés o) pontját a 244/2015. (IX. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^18]: Az 1. § (7) bekezdés p) pontját a 148/2019. (VI. 25.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^11]: Az 1. § (7) bekezdés g) pontja a 827/2021. (XII. 28.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^12]: Az 1. § (7) bekezdés h) pontját a 77/2014. (III. 14.) Korm .rendelet 27. §-a hatályon kívül helyezte, újonnan a 148/2019. (VI. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^13]: Az 1. § (7) bekezdés i) pontja a 77/2014. (III. 14.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 1. § (7) bekezdés k) pontja a 244/2015. (IX. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 148/2019. (VI. 25.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. § (7) bekezdés l) pontját a 244/2015. (IX. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: Az 1. § (7) bekezdés m) pontját a 244/2015. (IX. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: Az 1. § (7) bekezdés n) pontját a 244/2015. (IX. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 827/2021. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 1. § (7) bekezdés o) pontját a 244/2015. (IX. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^19]: Az 1. § (7) bekezdés p) pontját a 148/2019. (VI. 25.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^20]: Az 1. § (7) bekezdés q) pontját a 827/2021. (XII. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^21]: Az 1. § (7) bekezdés r) pontját a 827/2021. (XII. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^22]: Az 1. § (7) bekezdés s) pontját a 827/2021. (XII. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^23]: Az 1. § (8) bekezdését a 827/2021. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^24]: Az 1. § (9) bekezdését a 827/2021. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.

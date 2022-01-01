@@ -1,4 +1,4 @@
-## Az állami vagyon ingyenes hasznosítása és ingyenes vagyonkezelésbe adása[^106]
+## Az állami vagyon ingyenes hasznosítása és ingyenes vagyonkezelésbe adása[^107]
 
 12/A. § (1) Ha a (2) bekezdés szerinti nyilatkozattal a központi költségvetési szervnek nem minősülő szerv vagy személy (a továbbiakban e § alkalmazásában együtt: szerv) a tulajdonosi joggyakorló felé igazolja az állami vagyon hasznosítására vagy vagyonkezelésére vonatkozó szerződés megkötése az Nvtv. 11. § (13) bekezdése és a Vtv. 24. § (2) bekezdése szerinti feltételeinek fennállását, úgy a tulajdonosi joggyakorló a szervvel versenyeztetés mellőzésével és ingyenesen hasznosítási vagy ingyenes vagyonkezelési szerződést köthet.
 
@@ -28,4 +28,4 @@ e) feladatátadásra vonatkozó megállapodással.
 
 (7) Az (1)–(6) bekezdésben foglaltakat az állami vagyon vagyonkezelő által történő hasznosítása esetén is alkalmazni kell azzal, hogy ebben az esetben a tulajdonosi joggyakorló jogait és kötelezettségeit a vagyonkezelő gyakorolja, illetve teljesíti.
 
-[^106]: Az „Az állami vagyon ingyenes hasznosítása és ingyenes vagyonkezelésbe adása” alcímet (12/A. §) a 148/2019. (VI. 25.) Korm. rendelet 9. §-a iktatta be.
+[^107]: Az „Az állami vagyon ingyenes hasznosítása és ingyenes vagyonkezelésbe adása” alcímet (12/A. §) a 148/2019. (VI. 25.) Korm. rendelet 9. §-a iktatta be.

@@ -1,4 +1,4 @@
-## Elektronikus árverés[^226]
+## Elektronikus árverés[^228]
 
 ## Az elektronikus aukciós rendszer működésének általános szabályai
 
@@ -10,9 +10,9 @@
 
 (4) A Vtv. hatálya alá tartozó állami vagyon elektronikus árverésére kizárólag az EAR igénybevételével – az MNV Zrt.-vel kötött megállapodás alapján – kerülhet sor.
 
-(5)[^227]
+(5)[^229]
 
 (6) Az EAR működtetésének felügyeletét a miniszter látja el.
 
-[^226]: Az „Elektronikus árverés” alcímet (47/A–47/O. §) a 244/2015. (IX. 8.) Korm. rendelet 10. §-a iktatta be.
-[^227]: A 47/A. § (5) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 23. § i) pontja hatályon kívül helyezte.
+[^228]: Az „Elektronikus árverés” alcímet (47/A–47/O. §) a 244/2015. (IX. 8.) Korm. rendelet 10. §-a iktatta be.
+[^229]: A 47/A. § (5) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 23. § i) pontja hatályon kívül helyezte.
