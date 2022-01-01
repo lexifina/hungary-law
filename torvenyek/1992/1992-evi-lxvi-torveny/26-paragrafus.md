@@ -1,6 +1,6 @@
 ## A lakcím bejelentése és nyilvántartása
 
-26. § (1) A Magyarország területén élő, e törvény hatálya alá tartozó polgár [4. § (1) bekezdés] köteles beköltözés vagy kiköltözés után három munkanapon belül lakóhelyének, illetve tartózkodási helyének címét nyilvántartásba vétel céljából bejelenteni (a továbbiakban együtt: lakcímbejelentés).
+26. § (1) A Magyarország területén élő, e törvény hatálya alá tartozó polgár köteles lakóhelyének címét nyilvántartásba vétel céljából bejelenteni. A tartózkodási hely címe bejelenthető (a lakó-, illetve a tartózkodási hely bejelentése a továbbiakban együtt: lakcímbejelentés), vagy a 26/A. §-ban meghatározottak szerint valamely jogosultság feltételeként bejelentendő. Ha a lakcímbejelentésre költözéssel összefüggésben kerül sor, a bejelentést a beköltözéstől vagy a kiköltözéstől számított három munkanapon belül kell megtenni.
 
 (1a) A lakcímbejelentési eljárás során a polgár a tároló elemmel ellátott személyazonosító igazolványát a lakcímadatok tároló elemen történő rögzítése céljából köteles a lakcímbejelentési eljárást lefolytató hatóságnak átadni, kivéve, ha a lakcímbejelentési eljárást elektronikus kapcsolattartás útján kezdeményezte. A tároló elemmel ellátott személyazonosító igazolvány hiánya a lakcímbejelentési eljárás lefolytatásának nem akadálya. A lakcímbejelentési eljárást lefolytató hatóság – az elektronikus kapcsolattartás útján kezdeményezett lakcímbejelentési eljárás kivételével – a lakcímadatot a polgár tároló elemmel rendelkező személyazonosító igazolványán a lakcímadat nyilvántartásba vételével egyidejűleg rögzíti, ezt követően a tároló elemmel ellátott személyazonosító igazolványt a polgár részére haladéktalanul visszaadja.
 
@@ -43,6 +43,10 @@ kell bejelentenie (a továbbiakban: külföldi letelepedési nyilatkozat).
 (5a) Érvénytelen a bejelentett lakcímadat, ha a járási hivatal megállapította, hogy a polgár bejelentett lakcímadata nem valós.
 
 (5b) Ellenkező bizonyításig a szállásadó írásbeli nyilatkozata igazolja, hogy a szállásadónak nem minősülő polgár bejelentett lakcímadata nem valós.
+
+(5c) Nem vezethet a lakcímadat érvénytelenségének megállapítására az a körülmény, hogy a polgár nem él életvitelszerűen a lakóhelyként bejelentett lakásban.
+
+(5d) Ha a polgár a tartózkodási helyét bejelentette, a tartózkodási hely megszüntetését köteles bejelenteni.
 
 (6) Ha a 4. § (2a) bekezdés a) pontja szerinti külföldön élő magyar állampolgár a nyilvántartásba vételét kéri, akkor a külföldi lakóhelyét a nyilvántartásba vételt kérő nyilatkozatban be kell jelentenie.
 

@@ -50,7 +50,7 @@ r)
 
 s)
 
-(3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
+(3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve elektronikusan tárolva – kezeli:
 
 a) az állandó személyazonosító igazolvány adatlapokat, kérelmeket és fényképeket, a lakcímbejelentő lapokat, valamint a 2021. július 1. napját megelőzően keletkezett értesítésicím-bejelentőlapot;
 

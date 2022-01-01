@@ -4,9 +4,9 @@
 
 (1) Szolgáltatásazonosító: az állandó személyazonosító igazolvány tároló elemén rögzített, véletlenszerűen képzett egyedi azonosító karaktersorozat.
 
-(2) A polgár lakóhelye: annak a lakásnak a címe, amelyben a polgár él. A lakcímbejelentés szempontjából lakásnak tekintendő az az egy vagy több lakóhelyiségből álló épület vagy épületrész, amelyet a polgár életvitelszerűen otthonául használ, továbbá – a külföldön élő magyar és nem magyar állampolgárok kivételével – az a helyiség, ahol valaki szükségből lakik, vagy – amennyiben más lakása nincs – megszáll.
+(2) A polgár lakóhelye: annak a lakásnak vagy szállásnak (a továbbiakban együtt: lakás) a címe, amely a polgár állammal, továbbá a természetes és jogi személyekkel, jogi személyiséggel nem rendelkező szervezetekkel való hivatalos kapcsolattartása, valamint lakóhelyhez kötött jogai és kötelezettségei megalapozásául szolgál.
 
-(3) A polgár tartózkodási helye: annak a lakásnak a címe, ahol — lakóhelye végleges elhagyásának szándéka nélkül — három hónapnál hosszabb ideig tartózkodik.
+(3) A polgár tartózkodási helye: annak a lakásnak a címe, ahol a polgár – a lakóhely-változtatás szándéka nélkül – három hónapnál hosszabb ideig tartózkodik.
 
 (4) A polgár lakcím adata: bejelentett lakóhelyének, illetve tartózkodási helyének címe (a továbbiakban együtt: lakcím).
 

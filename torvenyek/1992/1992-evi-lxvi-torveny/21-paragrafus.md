@@ -64,4 +64,4 @@ y) a családi állapotra, valamint a házasságkötés helyére vonatkozó adato
 
 z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
 
-zs) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye és a nyilvántartásból kikerülés helye adatok kivételével az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban szereplő polgárok azonosítása és ellenőrzése céljából.
+zs)

@@ -16,8 +16,10 @@
 
 (7) A kérelem benyújtásakor a polgár személyazonosság igazolására alkalmas hatósági igazolványával azonosítja magát.
 
-(8) A nyilvántartást kezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás, valamint a kérelem kitöltése céljából a polgár természetes személyazonosító adatait és lakcímét szolgáltatja.
+(8) A nyilvántartást kezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás, valamint a kérelem kitöltése céljából a polgár természetes személyazonosító adatait és lakcímét, valamint – ha az ügyben eljáró szerv annak kezelésére jogosult – személyi azonosítóját szolgáltatja.
 
 (9) Az elektronikus azonosítási szolgáltatást végző szerv – a (6) bekezdés szerinti esetben – a polgár személyazonosságának ellenőrzése céljából az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-ában meghatározott szolgáltatást igénybe veheti.
+
+(9a) Az elektronikus ügyintézési ponton állandó személyazonosító igazolvány kiadása céljából előterjesztett kérelem esetén a (9) bekezdésben meghatározott szolgáltatás igénybevétele során felvételezett arcképmás az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/D. §-a szerinti automatizált arcképmás összehasonlítási, valamint az egységes arcképmás- és aláírás-felvételezési eljárás során is felhasználásra kerül.
 
 (10) A nyilvántartást kezelő szerv a (6) bekezdésben foglaltak tekintetében elektronikus azonosítási szolgáltatást végző szervnek minősül.

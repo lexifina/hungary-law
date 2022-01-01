@@ -1,6 +1,6 @@
 47. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben állapítsa meg
 
-a) a személyiadat- és lakcímnyilvántartási, lakcím-megállapítási és lakcímbejelentési eljárásnak, a nyilvántartás vezetésének és az adatszolgáltatásnak részletes szabályait, a személyazonosító igazolvány adattartalma megjelenítésének, kiadásának, bevonásának, elvételének, birtokban tartásának, nyilvántartásának és a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásának és nyilvántartásának szabályait, továbbá az egységes arcképmás- és aláírás-felvételezés szabályait;
+a) a személyiadat- és lakcímnyilvántartási, lakcím-megállapítási és lakcímbejelentési eljárásnak, a nyilvántartás vezetésének és az adatszolgáltatásnak részletes szabályait, a személyazonosító igazolvány adattartalma megjelenítésének, kiadásának, bevonásának, elvételének, birtokban tartásának, nyilvántartásának és a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásának és nyilvántartásának szabályait, az elektronikus ügyintézési ponton történő ügyintézés eltérő szabályait, továbbá az egységes arcképmás- és aláírás-felvételezés szabályait;
 
 b) a 8/A. § szerinti kijelölt kormányhivatalt.
 
