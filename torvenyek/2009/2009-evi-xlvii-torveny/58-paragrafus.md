@@ -6,7 +6,7 @@ b) el nem évülő bűncselekmények esetén az 57. § (1) bekezdésében meghat
 
 c) az 57. § (3) bekezdésében meghatározott közlés időpontjáig vagy
 
-d) az 57. § (4) bekezdésében meghatározott közlés időpontjáig
+d) az 57. § (4) bekezdésében, illetve a 66/D. § (4) bekezdésében meghatározott közlés időpontjáig
 
 kell nyilvántartani.
 

@@ -6,7 +6,7 @@ b) el nem évülő bűncselekmények esetén a 42. § (1) bekezdésében meghat�
 
 c) a 42. § (2) bekezdésében meghatározott közlés időpontjáig vagy
 
-d) a 42. § (3) bekezdésében meghatározott közlés időpontjáig
+d) a 42. § (3) bekezdésében, illetve a 66/C. § (4) bekezdésében meghatározott közlés időpontjáig
 
 kell nyilvántartani.
 
