@@ -1,8 +1,8 @@
-## 6/A. §[^73]
+## 6/A. §[^77]
 
 ## A kötelező átvételi jogosultság gyakorlásának szabályai
 
-7. §[^74] (1) A KÁT termelő az e rendelet feltételeinek megfelelő villamos energiát a kötelező átvétel keretében, a Hivatal határozatában megállapított kötelező átvételi időtartam alatt, a Hivatal által meghatározott éves mennyiségek, vagy az előbbiek szorzataként meghatározott összes átveendő energia erejéig értékesítheti az e rendelet szerinti átvételi áron.
+7. §[^78] (1) A KÁT termelő az e rendelet feltételeinek megfelelő villamos energiát a kötelező átvétel keretében, a Hivatal határozatában megállapított kötelező átvételi időtartam alatt, a Hivatal által meghatározott éves mennyiségek, vagy az előbbiek szorzataként meghatározott összes átveendő energia erejéig értékesítheti az e rendelet szerinti átvételi áron.
 
 (2) Ha a villamos energia termelés biomassza felhasználásával történik a KÁT termelőnek az erdőről szóló törvény rendelkezéseinek megfelelően igazolnia kell – az Európai Közösség területén keletkezett, erdőgazdálkodásból származó biomassza esetén az erdészeti hatóság, harmadik országban keletkezett erdőgazdálkodásból származó biomassza esetén a Forest Stewardship Council (FSC) tanúsítványával (Forest Management Certificate) – hogy a biomassza fenntartható erdőgazdálkodásból származik, és nem tartozik a VET 10. § (2) bekezdése alá.
 
@@ -18,5 +18,5 @@
 
 (8) A Befogadó a (6) bekezdés szerinti szabályozási pótdíj havi összegét a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során csökkentő tényezőként köteles figyelembe venni.
 
-[^73]: A 6/A. §-t újonnan a 4/2018. (II. 2.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
-[^74]: A 7. § a 364/2019. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^77]: A 6/A. §-t újonnan a 4/2018. (II. 2.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
+[^78]: A 7. § a 364/2019. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.

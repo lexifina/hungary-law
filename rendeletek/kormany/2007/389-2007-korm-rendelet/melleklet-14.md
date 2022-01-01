@@ -16,7 +16,7 @@
 
 ## ”
 
-14. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^147]
+14. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^150]
 
 ## A szabályozási pótdíj megállapítására vonatkozó szabályok
 
@@ -134,4 +134,4 @@ azzal, hogy ha K > 1/2 * (∑hó(SZPi FEL DA + SZPi LE DA) + ∑hó(SZPi FEL ID 
 
 7. A 4. számú melléklet II. Különös szabályok 6. pontja szerinti számviteli bizonylaton szereplő, 1–6. pont szerinti szabályozási pótdíj összegét a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 4. számú melléklet II. Különös szabályok 8. pontja alapján korrigálásra kerül.
 
-[^147]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 619/2020. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^150]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 619/2020. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
