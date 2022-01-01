@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-
 | 2020-12-17 | 2007-148-20-82.46 | 64/2020. (XII. 16.) AM rendelet |
 | 2021-08-21 | 2007-148-20-82.47 | 28/2021. (VIII. 18.) AM rendelet |
 | 2021-11-30 | 2007-148-20-82.48 | 64/2020. (XII. 16.) AM rendelet |
+| 2022-01-01 | 2007-148-20-82.49 | 64/2020. (XII. 16.) AM rendelet |
