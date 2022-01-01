@@ -1,3 +1,5 @@
-## 1. § Hatályát veszti a Modern Városok Program keretében egyes turisztikai és városfejlesztési célra irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 202/2017. (VII. 10.) Korm. rendelet 4/A. §-a.
+## 1. §[^2]
 
 ## 2. A Magyar Nemzeti Levéltár Országos Levéltára fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, a beruházás kiemelten közérdekűvé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 655/2020. (XII. 23.) Korm. rendelet módosítása
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

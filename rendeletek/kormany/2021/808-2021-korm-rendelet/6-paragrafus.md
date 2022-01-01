@@ -1,3 +1,5 @@
-## 5. § Az R. az 1. melléklet szerinti 3. melléklettel egészül ki.
+## 2–5. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 2–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
