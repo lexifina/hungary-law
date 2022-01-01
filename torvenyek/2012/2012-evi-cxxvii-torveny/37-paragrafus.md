@@ -4,4 +4,6 @@
 
 (3) A kamarai tagdíj és a szakmai felelősségbiztosítás díjának megfizetését az állatorvostól az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet átvállalhatja.
 
-(4)–(5)
+(4)
+
+(5)
