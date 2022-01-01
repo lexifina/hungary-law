@@ -42,6 +42,8 @@ I. Szociális és gyermekjóléti szolgáltatások területén
 
 | 18. | Gyógypedagógus |
 
+| 19 | Óvodai és iskolai szociális segítő |
+
 II. Gyermekvédelmi szakellátási intézményekben és a javítóintézetben
 
-[^93]: Az 1/A. számú mellékletet a 7/2018. (II. 5.) EMMI rendelet 38. § (1) bekezdése iktatta be, szövege az 1/2021. (I. 7.) EMMI rendelet 14. §-a szerint módosított szöveg.
+[^93]: Az 1/A. számú mellékletet a 7/2018. (II. 5.) EMMI rendelet 38. § (1) bekezdése iktatta be, szövege az 1/2021. (I. 7.) EMMI rendelet 14. §-a, a 62/2021. (XII. 29.) EMMI rendelet 15. §-a szerint módosított szöveg.
