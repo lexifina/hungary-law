@@ -4,6 +4,6 @@
 
 (2) A támogatás mértéke állategységenként, tárgynegyedévente kétezer-kétszáz forint.
 
-(3)[^35] A kifizetési kérelemhez csatolni kell a kártevők okozta szennyeződések megakadályozására tett intézkedés gyakoriságáról tárgynegyedévente készült, a sertéságazati területi felelős által aláírt jegyzőkönyv másolatát. Az adott támogatási év első tárgynegyedévére vonatkozó jegyzőkönyv kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
+(3)[^36] A kifizetési kérelemhez csatolni kell a kártevők okozta szennyeződések megakadályozására tett intézkedés gyakoriságáról tárgynegyedévente készült, a sertéságazati területi felelős által aláírt jegyzőkönyv másolatát. Az adott támogatási év első tárgynegyedévére vonatkozó jegyzőkönyv kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
 
-[^35]: A 8. § (3) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § i) pontja szerint módosított szöveg.
+[^36]: A 8. § (3) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § i) pontja szerint módosított szöveg.
