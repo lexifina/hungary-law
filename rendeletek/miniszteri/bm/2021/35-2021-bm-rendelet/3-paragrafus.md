@@ -1,4 +1,4 @@
-## 2. §[^18]
+## 2. §[^17]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § (6) bekezdése 2022. január 1-jén lép hatályba.
 
-[^18]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
