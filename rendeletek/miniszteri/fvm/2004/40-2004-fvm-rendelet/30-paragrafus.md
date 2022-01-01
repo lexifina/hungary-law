@@ -68,6 +68,8 @@
 
 34.[^110] a Bizottság 2019/1985/EU végrehajtási irányelve (2019. november 28.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
 
+35.[^111] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások, valamint a 2003/90/EK irányelvnek egyes növények botanikai nevei tekintetében történő módosításáról szóló, 2021. május 6-i (EU) 2021/746 bizottsági végrehajtási irányelv
+
 [^102]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
 [^103]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
 [^104]: A 30. § 28. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
@@ -77,3 +79,4 @@
 [^108]: A 30. § 32. pontját a 24/2018. (VIII. 31.) AM rendelet 1. §-a iktatta be.
 [^109]: A 30. § 33. pontját a 44/2019. (IX. 20.) AM rendelet 1. §-a iktatta be.
 [^110]: A 30. § 34. pontját a 36/2020. (VI. 29.) AM rendelet 1. §-a iktatta be.
+[^111]: A 30. § 35. pontját a 48/2021. (XII. 21.) AM rendelet 1. §-a iktatta be

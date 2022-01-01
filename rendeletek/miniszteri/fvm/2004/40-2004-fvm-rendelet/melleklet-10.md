@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^120]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^121]
 
 I. RÉSZ
 
@@ -16,7 +16,7 @@ I. RÉSZ
 
 | 3. | Festuca rubra L. | Vörös csenkesz | TP 67/1 2011. 6. 23. |
 
-| 4. | Festuca trachyphylla (Hack.) Krajina | Keménylevelű csenkesz (Krajina-csenkesz) | TP 67/1 2011. 6. 23. |
+| 4. | Festuca trachyphylla (Hack.) Hack | Keménylevelű csenkesz (Krajina-csenkesz) | TP 67/1 2011. 6. 23. |
 
 | 4/a. | Festuca arundinacea Schreb. | Nádképű csenkesz | TP 39/1, 2015.10.1. |
 
@@ -28,27 +28,27 @@ I. RÉSZ
 
 | 7. | Lolium x hybridum Hausskn | Hibrid perje | TP 4/2, 2019.3.19. |
 
-| 8. | Pisum sativum L. | Takarmányborsó | TP 7/2 rev. 2., 2017. 3. 15. |
+| 8. | Pisum sativum L. (partim) | Takarmányborsó | TP 7/2 Rev. 3., 2020.3.6. |
 
-| 8/a. | Vicia sativa L. | Tavaszi bükköny | TP 32/1, 2016.4.19. |
+| 8/a. | Vicia sativa L. | Takarmánybükköny | TP 32/1, 2016.4.19. |
 
 | 8/b. | Vicia faba L. | Lóbab | TP 8/1, 2019.3.19. |
 
-| 9. | Brassica napus L. | Káposztarepce | TP 36/2 2011. 11. 16. |
+| 9. | Brassica napus L. (partim) | Káposztarepce | TP 36/3, 2020.4.21. |
 
 | 9/a. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TP 89/1, 2015.3.11. |
 
 | 10. | Cannabis sativa L. | Kender | TP 276/1 Partial rev., 2018.3.21. |
 
-| 10/a. | Gossypium spp. | Gyapot | TP 88/1, 2016.4.19. |
+| 10/a. | Gossypium spp. | Gyapot | TP 88/2, 2020.12.11. |
 
 | 11. | Helianthus annuus L. | Napraforgó | TP 81/1 2002. 10. 31. |
 
 | 12. | Linum usitatissimum L. | Len/olajlen | TP 57/2, 2014.3.19. |
 
-| 13. | Avena nuda L. | Csupasz zab | TP 20/2, 2015.10.1. |
+| 13. | Avena nuda L. | Csupasz zab | TP 20/3, 2020.3.6. |
 
-| 14. | Avena sativa L. (továbbá A. byzantina K. Koch) | Zab és bizánci zab | TP 20/2, 2015.10.1. |
+| 14. | Avena sativa L. (továbbá A. byzantina K. Koch) | Zab és bizánci zab | TP 20/3, 2020.3.6. |
 
 | 15. | Hordeum vulgare L. | Árpa | TP 19/5, 2019.3.19. |
 
@@ -56,19 +56,19 @@ I. RÉSZ
 
 | 17. | Secale cereale L. | Rozs | TP 58/1 2002. 10. 31. |
 
-| 17/a. | Sorghum bicolor (L.) Moench | Cirok | TP 122/1, 2019.3.19. |
+| 17/a. | Sorghum bicolor (L.) Moench subsp. bicolor | Cirok | TP 122/1, 2019.3.19. |
 
-| 17/b. | Sorghum sudanense (Piper) Stapf. | Szudánifű | TP 122/1, 2019.3.19. |
+| 17/b. | Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse | Szudánifű | TP 122/1, 2019.3.19. |
 
-| 17/c. | Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper) Stapf | A Sorghum bicolor és a Sorghum sudanense keresztezéséből származó hibridek | TP 122/1, 2019.3.19. |
+| 17/c. | Sorghum bicolor (L.) Moench subsp. bicolor × Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse | A Sorghum bicolor subsp. bicolor és a Sorghum bicolor subsp. drummondii keresztezéséből származó hibridek | TP 122/1, 2019.3.19. |
 
 | 18. | xTriticosecale Wittm. ex A. Camus | A Triticum nemzetség valamely fajának és a Secale nemzetség valamely fajának keresztezéséből származó hibridek | TP 121/2rev.1. 2011. 2. 16. |
 
-| 19. | Triticum aestivum L. | Búza | TP 3/5, 2019.3.19. |
+| 19. | Triticum aestivum L. subsp. aestivum | Búza | TP 3/5, 2019.3.19. |
 
-| 20. | Triticum durum Desf. | Durumbúza | TP 120/3, 2014.3.19. |
+| 20. | Triticum turgidum L. subsp. durum (Desf.) van Slageren | Durumbúza | TP 120/3, 2014.3.19. |
 
-| 21. | Zea mays L. | Kukorica | TP 2/3 2010. 3. 11. |
+| 21. | Zea mays L. (partim) | Kukorica | TP 2/3 2010. 3. 11. |
 
 | 22. | Solanum tuberosum L. | Burgonya | TP 23/3, 2017. 3. 15. |
 
@@ -76,7 +76,7 @@ I. RÉSZ
 
 | 24. | Raphanus sativus L. var. oleiformis Pers. | Takarmányretek (Olajretek) | TP/178/1, 2017. 3. 15. |
 
-| 25. | Glycine max (L.) Merrill | Szójabab | TP/80/1 2017. 3. 15. |
+| 25. | Glycine max (L.) Merr. | Szója | TP/80/1 2017. 3. 15. |
 
 | 26. | Sinapis alba L. | Fehér mustár | TP/179/1, 2017. 3. 15. |
 
@@ -110,9 +110,9 @@ II. RÉSZ
 
 | 11. | xFestulolium Asch. et Graebn. | A Festuca nemzetség valamely fajának és a Lolium nemzetség valamely fajának keresztezéséből származó hibridek. | TG/243/1 2008. 4. 9. |
 
-| 12. | Phleum nodosum L. | Kis komócsin | TG/34/6 1984. 11. 7. |
+| 12. | Phleum nodosum L. | Kis komócsin | TG/34/7, 2020.12.17. |
 
-| 13. | Phleum pratense L. | Gumós komócsin | TG/34/6 1984. 11. 7. |
+| 13. | Phleum pratense L. | Gumós komócsin | TG/34/7, 2020.12.17. |
 
 | 14. |  |  |  |
 
@@ -128,11 +128,11 @@ II. RÉSZ
 
 | 20. | Medicago x varia T. Martyn | Tarkavirágú lucerna | TG/6/5 2005. 4. 6. |
 
-| 21. | Trifolium pratense L. | Vöröshere | TG/5/7 2001. 4. 4. |
+| 21. | Trifolium pratense L. | Vöröshere | TG/5/8, 2020.12.17. |
 
 | 22. | Trifolium repens L. | Fehérhere | TG/38/7 2003. 4. 9. |
 
-| 23. |  |  |  |
+| 23. | Trifolium subterraneum L. | Földbentermő here | TG 170/3, 2001.4.4. |
 
 | 24. |  |  |  |
 
@@ -140,13 +140,13 @@ II. RÉSZ
 
 | 26. |  |  |  |
 
-| 27. | Arachis hypogea L. | Földimogyoró | TG 93/4, 2014.4.9. |
+| 27. | Arachis hypogaea L. | Földimogyoró | TG 93/4, 2014.4.9. |
 
 | 28. | Brassica rapa L. var. silvestris (Lam.) Briggs | Réparepce | TG/185/3 2002. 4. 17. |
 
 | 29. | Carthamus tinctorius L. | Sáfrányos szeklice | TG/134/3 1990. 10. 12. |
 
-| 30. |  |  |  |
+| 30. | Brassica juncea (L.) Czern. | Szareptai mustár | TG 335/1, 2020.12.17. |
 
 | 31. | Papaver somniferum L. | Mák | TG 166/4, 2014.4.9. |
 
@@ -182,4 +182,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^120]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a szerint módosított szöveg.
+[^121]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése szerint módosított szöveg.

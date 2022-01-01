@@ -1,3 +1,3 @@
-9. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^119]
+9. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^120]
 
-[^119]: A 9. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 3/2018. (VI. 22.) AM rendelet 16. § j) pontja.
+[^120]: A 9. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 3/2018. (VI. 22.) AM rendelet 16. § j) pontja.

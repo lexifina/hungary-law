@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^121]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^122]
 
 I. RÉSZ
 
@@ -38,7 +38,7 @@ I. RÉSZ
 
 | 12. | Brassica oleracea L. | Karfiol | TP 45/2 Rev. 2., 2018.3.21. |
 
-| 13. | Brassica oleracea L. | Brokkoli vagy Calabrese brokkoli | TP 151/2 rev. 2017. 3. 15. |
+| 13. | Brassica oleracea L. | Brokkoli vagy Calabrese brokkoli | TP 151/2 Rev. 2., 2020.4.21. |
 
 | 14. | Brassica oleracea L. | Bimbóskel | TP 54/2 rev. 2017. 3. 15. |
 
@@ -48,7 +48,7 @@ I. RÉSZ
 
 | 17. | Brassica rapa L. | Kínai kel | TP 105/1 2008. 3. 13. |
 
-| 18. | Capsicum annuum L. | Csili vagy paprika | TP 76/2 rev. 2017. 3. 15. |
+| 18. | Capsicum annuum L. | Csili vagy paprika | TP 76/2 Rev. 2., 2020.4.21. |
 
 | 19. | Cichorium endivia L. | Borzaslevelű és széleslevelű endívia | TP 118/3, 2014.3.19. |
 
@@ -60,7 +60,7 @@ I. RÉSZ
 
 | 22. | Citrullus lanatus (Thumb.) Matsum. et Nakai | Görögdinnye | TP 142/2, 2014.3.19. |
 
-| 23. | Cucumis melo L. | Sárgadinnye | TP 104/2 2007. 3. 21. |
+| 23. | Cucumis melo L. | Sárgadinnye | TP 104/2 Rev., 2020.4.21. |
 
 | 24. | Cucumis sativus L. | Salátauborka és fürtös uborka | TP 61/2 Rev. 2., 2019.3.19. |
 
@@ -68,7 +68,7 @@ I. RÉSZ
 
 | 25. | Cucurbita pepo L. | Cukkini | TP 119/1 rev., 2014.3.19. |
 
-| 26. | Cynara cardunculus L. | Articsóka és kardi | TP 184/2, 2013.2.27. |
+| 26. | Cynara cardunculus L. | Articsóka és kardi | TP 184/2 Rev., 2020.3.6 |
 
 | 27. | Daucus carota L. | Sárgarépa és takarmány sárgarépa | TP 49/3 2008. 3. 13. |
 
@@ -76,17 +76,17 @@ I. RÉSZ
 
 | 29. | Lactuca sativa L. | Saláta | TP 13/6 Rev., 2019.2.15. |
 
-| 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 Rev. 3., 2018.3.21. |
+| 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 Rev. 4., 2020.4.21. |
 
 | 31. | Petroselinum crispum (Mill.) Nyman ex A.W. Hill | Petrezselyem | TP 136/1 2007. 3. 21. |
 
-| 32. | Phaseolus coccineus L. | Futóbab | TP 9/1 2007. 3. 21. |
+| 32. | Phaseolus coccineus L. | Tűzbab | TP 9/1 2007. 3. 21. |
 
 | 33. | Phaseolus vulgaris L. | Zöldbab (bokorbab és futóbab) | TP 12/4 2013. 2. 27. |
 
-| 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 rev. 2, 2017. 3. 15. |
+| 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 Rev. 3., 2020.3.6. |
 
-| 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2 rev., 2015.3.11. |
+| 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2 Rev. Corr., 2015.3.11. |
 
 | 35/a. | Scorzonera hispanica L. | Feketegyökér | TP 116/1, 2015.3.11. |
 
@@ -94,15 +94,15 @@ I. RÉSZ
 
 | 36. | Solanum melongena L. | Padlizsán vagy tojásgyümölcs | TP 117/1 2008. 3. 13. |
 
-| 37. | Spinacia oleracea L. | Spenót/paraj | TP 55/5 rev. 2, 2017. 3. 15. |
+| 37. | Spinacia oleracea L. | Spenót/paraj | TP 55/5 Rev. 3., 2020.3.6. |
 
 | 38. | Valerianella locusta (L.) Laterr. | Galambbegysaláta | TP 75/2 2007. 3. 21. |
 
-| 39. | Vicia faba L. (partim) | Lóbab | TP Broadbean/1 2004. 3. 25. |
+| 39. | Vicia faba L. (partim) | Lóbab | TP 206/1, 2004.3.25. |
 
 | 40. | Zea mays L. (partim) | Csemege kukorica és pattogatni való kukorica | TP 2/3 2010. 3. 11. |
 
-| 41. | Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. x Solanum habrochaites S. Knapp & D.M. Spooner | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TP 294/1 Rev. 3., 2018.3.21. |
+| 41. | Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. x Solanum habrochaites S. Knapp & D.M. Spooner | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TP 294/1 Rev. 4., 2020.4.21. |
 
 | 42. | Cucurbita maxima Duchesne x Cucurbita moschata Duchesne | A Cucurbita maxima Duch. x Cucurbita moschata Duch. tőként történő felhasználásra szánt interspecifikus hibridjei | TP/311/1, 2017. 3. 15. |
 
@@ -132,4 +132,4 @@ III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-[^121]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^122]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése, a 48/2021. (XII. 21.) AM rendelet 2. § (2) bekezdése szerint módosított szöveg.
