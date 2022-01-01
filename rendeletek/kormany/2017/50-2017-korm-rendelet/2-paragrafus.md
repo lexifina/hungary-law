@@ -1,4 +1,4 @@
-## 1. § Az 1309/2013/EU európai parlamenti és tanácsi rendelet 8. cikkének, 9. cikk (5) bekezdésének, 12. cikkének, 16. cikk (2) bekezdésének, 18. cikkének, valamint 21. cikkének magyarországi végrehajtásából adódó kormányzati feladatokat a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) látja el.
+## 1. §[^1] Az (EU) 2021/691 európai parlamenti és tanácsi rendelet 8. cikkének, 9. cikk (5) bekezdésének, 12. cikkének, 17. cikk (2) bekezdésének, 20. cikkének, valamint 23. cikkének magyarországi végrehajtásából adódó kormányzati feladatokat a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) látja el.
 
 ## 2. Értelmező rendelkezések
 
@@ -37,3 +37,5 @@
 16. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
 
 17. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom.
+
+[^1]: Az 1. § a 739/2021. (XII. 21.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

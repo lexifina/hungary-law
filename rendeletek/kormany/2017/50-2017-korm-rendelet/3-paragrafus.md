@@ -1,25 +1,27 @@
 ## 3. Az Európai Globalizációs Alkalmazkodási Alapból származó támogatások igénylése, felhasználása
 
-3. § (1) Az 1309/2013/EU rendelet alapján, az Európai Globalizációs Alkalmazkodási Alapból (a továbbiakban: Alap) nyújtott támogatások hazai felhasználása munkaerőpiaci program keretében valósul meg.
+3. § (1)[^2] Az (EU) 2021/691 rendelet alapján, az Európai Globalizációs Alkalmazkodási Alapból (a továbbiakban: Alap) nyújtott támogatások hazai felhasználása munkaerőpiaci program keretében valósul meg.
 
-(2) Az e rendelet alapján indított munkaerőpiaci programra a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 19/B. §-át, 20. §-át, 21. §-át és 40. § (4) bekezdését kell alkalmazni.
+(2)[^3] Az e rendelet alapján indított munkaerőpiaci programra a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvényt (a továbbiakban: Fftv.) és végrehajtási rendeleteit kell alkalmazni.
 
 (3) Ha a támogatás állami támogatásnak minősül, az e rendelet alapján megvalósuló munkaerőpiaci program keretében
 
-a) a vezetői engedély és gépjárművezetői képesítési igazolvány megszerzését biztosító képzésben részvételhez nyújtott képzési támogatás a 651/2014 EU bizottsági rendelet I–II. fejezete és 31. cikke szerint nyújtható,
+a)[^4]
 
 b) a foglalkoztatás bővítését szolgáló támogatások (bértámogatás) a 651/2014/EU bizottsági rendelet I–II. fejezete, 32. cikke szerint nyújtható, továbbá
 
-c) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű, valamint az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatásnak minősül
+c)[^5] az 1407/2013/EU bizottsági rendelet szerinti csekély összegű, valamint az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatásnak minősül
 
 ca) a csoportos létszámleépítés hátrányos jogkövetkezményeinek enyhítését célzó támogatás,
 
-cb) a bérköltség támogatás,
+cb) a helyközi utazás támogatása, valamint
 
-cc) a helyközi utazás támogatása,
+cc) a munkaerőpiaci program részben történő megvalósításához nyújtott támogatás.
 
-cd) a csoportos személyszállítás támogatása, valamint
+(4)[^6]
 
-ce) a munkaerőpiaci program részben történő megvalósításához nyújtott támogatás.
-
-(4) Az e rendelet alapján megvalósuló munkaerőpiaci program keretében a (3) bekezdés a) pontja szerinti támogatás a munkaadó tekintetében az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatásként nyújtható, amennyiben a 651/2014 EU bizottsági rendelet I–II. fejezetében és 31. cikkében foglaltak nem teljesülnek.
+[^2]: A 3. § (1) bekezdése a 739/2021. (XII. 21.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 739/2021. (XII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (3) bekezdés a) pontját a 739/2021. (XII. 21.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^5]: A 3. § (3) bekezdés c) pontja a 739/2021. (XII. 21.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (4) bekezdését a 739/2021. (XII. 21.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 12. § Ez a rendelet az Európai Globalizációs Alkalmazkodási Alapról (2014–2020) és az 1927/2006/EK rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1309/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 12. §[^21] Ez a rendelet az elbocsátott munkavállalók támogatását szolgáló Európai Globalizációs Alkalmazkodási Alapról (EGAA) és az 1309/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/691 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 13. § (1) Ez a rendelet
 
@@ -10,4 +10,7 @@ c) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kate
 
 hatálya alá tartozó támogatást tartalmaz.
 
-(2) E rendelet alapján 2021. június 30-ig lehet állami támogatást érintő döntést hozni.
+(2)[^22] E rendelet alapján 2027. december 31-ig lehet állami támogatást érintő döntést hozni.
+
+[^21]: A 12. § a 739/2021. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: A 13. § (2) bekezdése a 739/2021. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -26,4 +26,6 @@ b) az Európai Bizottság felkérése alapján ellenőrzést végez,
 
 c) nyomon követi az általa és külső szervek által lebonyolított ellenőrzések jelentéseiben foglalt megállapításokat, az abban foglalt javaslatok hasznosulásait, az intézkedési tervek végrehajtását,
 
-d) elkészíti az Európai Bizottság részére a kérelem mellékleteként benyújtandó ellenőrzési tervet, valamint a zárójelentéshez csatolandó ellenőrzési jelentést.
+d)[^16] elkészíti az Európai Bizottság részére a zárójelentéshez csatolandó ellenőrzési jelentést.
+
+[^16]: A 8. § (6) bekezdés d) pontja a 739/2021. (XII. 21.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
