@@ -28,7 +28,7 @@ k)[^98] ha a végrehajtói kézbesítést a végrehajtó megszüntette,
 
 l)[^99] a végrehajtó a felet regisztrálta a kézbesítési rendszerben, vagy azt megtagadta,
 
-m)[^100] a törvényszéki végrehajtási ügyben a végrehajtást kérő a végrehajtási jognak vagy a követelés végrehajthatóságának elévülését a törvényszéki végrehajtónál bejelentette,
+m)[^100]
 
 n)[^101] a megkeresett végrehajtó a helyszíni eljárást foganatosította,
 
@@ -42,6 +42,6 @@ o)[^102] a bekapcsolódással indult ügyben a zálogtárgy értékesítésre ke
 [^97]: A 33. § j) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (9) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^98]: A 33. § k) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (9) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^99]: A 33. § l) pontját a 40/2012. (VIII. 30.) KIM rendelet 45. § (7) bekezdése iktatta be.
-[^100]: A 33. § m) pontját a 18/2019. (VI. 28.) IM rendelet 19. §-a iktatta be.
+[^100]: A 33. § m) pontját a 18/2019. (VI. 28.) IM rendelet 19. §-a iktatta be, hatályon kívül helyezte a 18/2021. (XII. 23.) IM rendelet 6. § g) pontja.
 [^101]: A 33. § n) pontját a 18/2019. (VI. 28.) IM rendelet 19. §-a iktatta be.
 [^102]: A 33. § o) pontját a 18/2019. (VI. 28.) IM rendelet 19. §-a iktatta be.

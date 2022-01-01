@@ -6,12 +6,12 @@
 
 (2a)[^122] Az önálló bírósági végrehajtó elérhetőségeinek, ügyfélfogadási idejének változását köteles haladéktalanul bejelenteni a Kar Hivatali szervének. Az önálló bírósági végrehajtó megváltozott ügyfélfogadási rendje, illetve ideje szerint csak akkor folytathatja a félfogadást, ha az a Kar Hivatali szervének honlapján már átvezetésre került.
 
-(3)[^123] A törvényszéki végrehajtó félfogadására megfelelően alkalmazni kell a bírósági félfogadásra vonatkozó rendelkezéseket is.
+(3)[^123]
 
 (4)[^124] A félfogadásról szóló tájékoztatást a járásbíróságon, törvényszéken, közigazgatási és munkaügyi bíróságon ki kell függeszteni, önálló bírósági végrehajtó esetében a telefonon történő tájékoztatásnyújtás idejére vonatkozó információkkal együtt a Kar Hivatali szervének honlapján közzé kell tenni. A tájékoztatásnak tartalmaznia kell a végrehajtó nevét, elérhetőségeit (telefon, e-mail cím), az ügyfélfogadás helyét és idejét. A Kar Hivatali szerve az önálló bírósági végrehajtó (2a) bekezdés szerinti bejelentését követő 5 munkanapon belül köteles a tájékoztatást megfelelően módosítani.
 
 [^120]: A 43. § új (1) bekezdését a 6/2008. (III. 1.) IRM rendelet 1. § (6) bekezdése iktatta be, egyidejűleg az eredeti (1)–(3) bekezdésének számozását (2)–(4) bekezdésre változtatta. A 43. § (1) bekezdése a 18/2019. (VI. 28.) IM rendelet 20. §-ával megállapított szöveg.
 [^121]: A 43. § (1) bekezdése a 27/2004. (VIII. 26.) IM rendelet 1. § (12) bekezdése, a 6/2008. (III. 1) IRM rendelet 6. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 1. § (6) bekezdése az (1) bekezdés számozását (2) bekezdésre változtatta. A 43. § (2) bekezdése a 18/2019. (VI. 28.) IM rendelet 20. §-ával megállapított szöveg.
 [^122]: A 43. § (2a) bekezdését a 12/2014. (II. 28.) KIM rendelet 4. § (6) bekezdése iktatta be, szövege az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés d) és g) pontja szerint módosított szöveg.
-[^123]: A 43. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 6/2008. (III. 1.) IRM rendelet 1. § (6) bekezdése. A 43. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^123]: A 43. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 6/2008. (III. 1.) IRM rendelet 1. § (6) bekezdése, hatályon kívül helyezte a 18/2021. (XII. 23.) IM rendelet 6. § j) pontja.
 [^124]: A 43. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 6/2008. (III. 1.) IRM rendelet 1. § (6) bekezdése. A 43. § (4) bekezdése a 12/2014. (II. 28.) KIM rendelet 4. § (7) bekezdésével megállapított, az 5/2016. (III. 8.) IM rendelet 14. § (6) bekezdés c) és g) pontja szerint módosított szöveg.

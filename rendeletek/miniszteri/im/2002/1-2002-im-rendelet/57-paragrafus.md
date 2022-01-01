@@ -1,3 +1,3 @@
-## 56. §[^171] A törvényszéki végrehajtó működésével kapcsolatban a törvényszéki végrehajtóhoz, a bírósághoz vagy a BGH-hoz postán érkezett összeget átvétel nélkül, rendeltetésének megfelelően a törvényszéki végrehajtói letéti számlára, illetőleg a megfelelő számlára kell telepíteni.
+## 56. §[^162]
 
-[^171]: Az 56. § a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés s) pontja szerint módosított szöveg.
+[^162]: Az 56. §-t a 18/2021. (XII. 23.) IM rendelet 6. § o) pontja hatályon kívül helyezte.

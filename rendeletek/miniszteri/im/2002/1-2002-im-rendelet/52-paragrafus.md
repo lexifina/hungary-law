@@ -1,9 +1,12 @@
+## 51. §[^152]
+
 52. § (1) A végrehajtó – a számviteli és adótörvények rendelkezéseivel összhangban – a bevételeket és a kiadásokat feltüntető nyilvántartást köteles vezetni.
 
 (2) A végrehajtó pénzkezelésére, továbbá nyilvántartási, elszámolási és számlaadási kötelezettségére a számviteli törvényben, valamint az adó- és társadalombiztosítási jogszabályokban megállapított rendelkezéseket is alkalmazni kell.
 
-(3)[^159] A törvényszéki bírósági végrehajtói letéti számlára befolyt összegek kezelését és nyilvántartását a BGH végzi.
+(3)[^153]
 
 (4) A BGH az eljárása során e rendeletet, a bírósági ügyviteli rendelkezéseket, továbbá a gazdasági, pénzügyi és számviteli feladatok ellátására vonatkozó más szabályokat alkalmazza.
 
-[^159]: Az 52. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^152]: Az 51. §-t a 18/2021. (XII. 23.) IM rendelet 6. § m) pontja hatályon kívül helyezte.
+[^153]: Az 52. § (3) bekezdését a 18/2021. (XII. 23.) IM rendelet 6. § n) pontja hatályon kívül helyezte.

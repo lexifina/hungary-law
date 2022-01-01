@@ -1,4 +1,4 @@
-11. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^280]
+11. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^271]
 
 ## A végrehajtási záradék kiállítása helyetti átutalási végzés kibocsátása iránti kérelem nyomtatványának adattartalma
 
@@ -46,7 +46,7 @@
 
 1.6.3. a törvényes képviselet típusa.
 
-1.7.[^281] adós meghatalmazott képviselőjének adatai
+1.7.[^272] adós meghatalmazott képviselőjének adatai
 
 1.7.1. név
 
@@ -174,7 +174,7 @@
 
 3.3. a határozat jogerőre emelkedésének napja
 
-3.4.[^282] annak jelölése, ha a határozat a polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés, illetve a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
+3.4.[^273] annak jelölése, ha a határozat a polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés, illetve a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
 
 3.5. annak jelölése, ha a határozat előzetesen végrehajtható
 
@@ -232,25 +232,25 @@
 
 5.6.3. adóstárs címe.
 
-6.[^283] Az űrlap tartalmazza a pénzforgalmi szolgáltatóhoz intézett, a Vht. 81. § (2) bekezdése szerinti és a polgári és közigazgatási bírósági eljárás során meg nem fizetett illeték és állam által előlegezett költség megfizetéséről szóló 30/2017. (XII. 27.) IM rendelet 10. § (1) bekezdése szerinti bírósági felhívást, az államnak járó költség megfizetésére jogosult bírósági gazdasági hivatal megnevezését és a fizetési számla számát, valamint az átutalási végzés elleni jogorvoslati jogról szóló tájékoztatást és az átutalási végzés indokolását.
+6.[^274] Az űrlap tartalmazza a pénzforgalmi szolgáltatóhoz intézett, a Vht. 81. § (2) bekezdése szerinti és a polgári és közigazgatási bírósági eljárás során meg nem fizetett illeték és állam által előlegezett költség megfizetéséről szóló 30/2017. (XII. 27.) IM rendelet 10. § (1) bekezdése szerinti bírósági felhívást, az államnak járó költség megfizetésére jogosult bírósági gazdasági hivatal megnevezését és a fizetési számla számát, valamint az átutalási végzés elleni jogorvoslati jogról szóló tájékoztatást és az átutalási végzés indokolását.
 
 7. Tájékoztatások, figyelmeztetések:
 
-7.1.[^284] a kézbesítési kifogás előterjesztésének lehetősége és módja
+7.1.[^275] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
 7.2. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
-7.3.[^285] a pénzforgalmi szolgáltatónak az átutalási végzés teljesítésével összefüggő, a Vht. 81. § (2) bekezdésében és 79/A–79/F. §-aiban, valamint a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben foglalt kötelezettségei
+7.3.[^276] a pénzforgalmi szolgáltatónak az átutalási végzés teljesítésével összefüggő, a Vht. 81. § (2) bekezdésében és 79/A–79/F. §-aiban, valamint a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben foglalt kötelezettségei
 
 7.4. eljárás fedezet hiánya miatt eredménytelen átutalási végzés esetén
 
-7.5.[^286] a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
+7.5.[^277] a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 7.6. az adós kötelezően kitöltendő adatai.
 
-7.6.1.[^287] a nyomtatvány 1. pontjánál: A végrehajtás elrendeléséhez az adós következő adatait kötelező megadni: név vagy elnevezés, születési hely, idő vagy anyja neve, lakóhelye, jövedelem és a jövedelmet folyósító neve és címe
+7.6.1.[^278] a nyomtatvány 1. pontjánál: A végrehajtás elrendeléséhez az adós következő adatait kötelező megadni: név vagy elnevezés, születési hely, idő vagy anyja neve, lakóhelye, jövedelem és a jövedelmet folyósító neve és címe
 
-7.7.[^288] a nyomtatvány 1.6. pontjához: ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be.
+7.7.[^279] a nyomtatvány 1.6. pontjához: ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be.
 
 8. Két tanúval kapcsolatos adatok és aláírás:
 
@@ -280,12 +280,12 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a cím és a kamatkövetelés adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^280]: A 11. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
-[^281]: A 11. számú melléklet 1.7. pontját a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdése iktatta be.
-[^282]: A 11. számú melléklet 3.4. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdésével megállapított szöveg.
-[^283]: A 11. számú melléklet 6. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdésével megállapított szöveg.
-[^284]: A 11. számú melléklet 7. pont 7.1. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.
-[^285]: [A 11. számú melléklet 7.3. pontjának a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdésével elrendelt módosítása, amely szerint a „Vht. 81. § (1) bekezdésében” szövegrész helyébe a „Vht. 81. § (2) bekezdésében” szöveg lép, nem vezethető át.]
-[^286]: A 11. számú melléklet 7.5. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdése szerint módosított szöveg.
-[^287]: A 11. számú melléklet 7.6. pont 7.6.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdése iktatta be.
-[^288]: A 11. számú melléklet 7. pont 7.7. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdése iktatta be.
+[^271]: A 11. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^272]: A 11. számú melléklet 1.7. pontját a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdése iktatta be.
+[^273]: A 11. számú melléklet 3.4. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdésével megállapított szöveg.
+[^274]: A 11. számú melléklet 6. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdésével megállapított szöveg.
+[^275]: A 11. számú melléklet 7. pont 7.1. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.
+[^276]: [A 11. számú melléklet 7.3. pontjának a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdésével elrendelt módosítása, amely szerint a „Vht. 81. § (1) bekezdésében” szövegrész helyébe a „Vht. 81. § (2) bekezdésében” szöveg lép, nem vezethető át.]
+[^277]: A 11. számú melléklet 7.5. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdése szerint módosított szöveg.
+[^278]: A 11. számú melléklet 7.6. pont 7.6.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdése iktatta be.
+[^279]: A 11. számú melléklet 7. pont 7.7. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (9) bekezdése iktatta be.
