@@ -4,7 +4,7 @@ A Kormány
 
 2. egyetért a Széchenyi Mikrohitel Konstrukció keretében nyújtott hitelekhez kamattámogatás biztosításával, azzal, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve a 0,5%-os mértéket;
 
-3. egyetért azzal, hogy a Széchenyi Mikrohitel Konstrukció keretében nyújtott hitelek kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve a 9,5%-os mértéket;
+3.[^1] egyetért azzal, hogy a Széchenyi Mikrohitel Konstrukció keretében nyújtott hitelek kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve a 10,5%-os mértéket;
 
 4. felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a Széchenyi Mikrohitel Konstrukció mindenkor hatályos kamattámogatás mértékének a hatályos Üzletszabályzatában történő rögzítéséről;
 
@@ -37,3 +37,5 @@ Felelős: innovációért és technológiáért felelős miniszter
 Miniszterelnökséget vezető miniszter
 
 Határidő: e határozat közzétételét követően azonnal
+
+[^1]: A 3. pont az 1979/2021. (XII. 27.) Korm. határozat 8. pontja szerint módosított szöveg.
