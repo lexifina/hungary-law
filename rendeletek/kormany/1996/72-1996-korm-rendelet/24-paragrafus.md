@@ -4,21 +4,21 @@
 
 ## A vízgazdálkodással kapcsolatos helyi önkormányzati hatósági hatáskörök
 
-24. § (1)[^198] A települési önkormányzat jegyzőjének engedélye szükséges
+24. § (1)[^207] A települési önkormányzat jegyzőjének engedélye szükséges
 
 a) olyan kút létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez, amely a következő feltételeket együttesen teljesíti:
 
-aa)[^199] a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint kijelölt, kijelölés alatt álló, illetve előzetesen lehatárolt belső, külső és hidrogeológiai védőidom, védőterület, valamint karszt- vagy rétegvízkészlet igénybevétele, érintése nélkül, és legfeljebb 500 m3/év vízigénybevétellel kizárólag talajvízkészlet vagy parti szűrésű vízkészlet felhasználásával üzemel,
+aa)[^208] a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint kijelölt, kijelölés alatt álló, illetve előzetesen lehatárolt belső, külső és hidrogeológiai védőidom, védőterület, valamint karszt- vagy rétegvízkészlet igénybevétele, érintése nélkül, és legfeljebb 500 m3/év vízigénybevétellel kizárólag talajvízkészlet vagy parti szűrésű vízkészlet felhasználásával üzemel,
 
-ab)[^200] épülettel vagy annak építésére jogosító hatósági határozattal, egyszerű bejelentéssel rendelkező ingatlanon van, és magánszemélyek részéről a házi ivóvízigény vagy a háztartási igények kielégítését szolgálja, és
+ab)[^209] épülettel vagy annak építésére jogosító hatósági határozattal, egyszerű bejelentéssel rendelkező ingatlanon van, és magánszemélyek részéről a házi ivóvízigény vagy a háztartási igények kielégítését szolgálja, és
 
 ac) nem gazdasági célú vízigény;
 
 b) az ab) pontban szereplő házi ivóvízigény kielégítését szolgáló kúthoz tartozó, víztisztítási feladatokat ellátó vízilétesítmény létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez;
 
-c)[^201] az 500 m3/év mennyiséget meg nem haladó, kizárólag háztartási szennyvíz tisztítását (CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések kivételével) és a tisztított szennyvíz elszikkasztását szolgáló vízilétesítmény létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez.
+c)[^210] az 500 m3/év mennyiséget meg nem haladó, kizárólag háztartási szennyvíz tisztítását (CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések kivételével) és a tisztított szennyvíz elszikkasztását szolgáló vízilétesítmény létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez.
 
-(2)[^202] Az (1) bekezdés c) pontjában megjelölt szennyvíz elszikkasztását szolgáló létesítmény akkor engedélyezhető, ha
+(2)[^211] Az (1) bekezdés c) pontjában megjelölt szennyvíz elszikkasztását szolgáló létesítmény akkor engedélyezhető, ha
 
 a) az ingatlan mentén a szennyvízelvezető törzshálózat még nem épült ki, vagy az ingatlannak a megvalósított közműbe történő bekötése – a megvalósítás műszaki költségeihez képest – aránytalanul nagy költséggel jár, továbbá
 
@@ -26,37 +26,37 @@ b) a szikkasztásra a talaj alkalmas, a talajvízháztartást kedvezőtlenül ne
 
 c) a szennyvíz elhelyezése vízgazdálkodási, közegészségügyi, környezetvédelmi vagy egyéb érdeket nem sért, és megfelel az építmények kialakítására és elhelyezésére vonatkozó jogszabályoknak.
 
-(3)[^203] Az (1) bekezdés a) pontjában megjelölt kút engedélyezésének feltétele
+(3)[^212] Az (1) bekezdés a) pontjában megjelölt kút engedélyezésének feltétele
 
 a) a kitermelt víz használata során keletkező szennyvíznek a környezetet nem veszélyeztető módon való elhelyezése,
 
 b) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendelet szerinti követelmények maradéktalan teljesítése, valamint
 
-c)[^204] a fúrt kút fennmaradásának engedélyezése esetén annak megállapítása, hogy a kút az (1) bekezdés a) pontjának hatálya alá tartozik, és az nem veszélyezteti a vízkészletek védelméhez fűződő érdekeket.
+c)[^213] a fúrt kút fennmaradásának engedélyezése esetén annak megállapítása, hogy a kút az (1) bekezdés a) pontjának hatálya alá tartozik, és az nem veszélyezteti a vízkészletek védelméhez fűződő érdekeket.
 
-(4)[^205] A jegyző az (1) bekezdés b) pontjában meghatározott közműpótló létesítmény megvalósítását, átalakítását, megszüntetését, továbbá az (1) bekezdés a) pontjában megjelölt létesítmény átalakítását, megszüntetését vagy meghatározott módon történő használatát hivatalból is elrendelheti, ha a jogellenes vagy káros létesítéssel, üzemeltetéssel, illetőleg a megfelelő létesítmény hiányával összefüggő, a vízgazdálkodási, környezetvédelmi és közegészségügyi követelményeket rögzítő jogszabályi rendelkezések érvényesülése azt szükségessé teszi.
+(4)[^214] A jegyző az (1) bekezdés b) pontjában meghatározott közműpótló létesítmény megvalósítását, átalakítását, megszüntetését, továbbá az (1) bekezdés a) pontjában megjelölt létesítmény átalakítását, megszüntetését vagy meghatározott módon történő használatát hivatalból is elrendelheti, ha a jogellenes vagy káros létesítéssel, üzemeltetéssel, illetőleg a megfelelő létesítmény hiányával összefüggő, a vízgazdálkodási, környezetvédelmi és közegészségügyi követelményeket rögzítő jogszabályi rendelkezések érvényesülése azt szükségessé teszi.
 
 (5) Az (1) bekezdés alapján kiadott engedély kérelemre vagy hivatalból módosítható vagy visszavonható, ha megváltoztak azok a körülmények, amelyek az engedély alapjául szolgáltak.
 
-(6)[^206] Az (1) bekezdésben megjelölt feltételek hiányában az ott meghatározott létesítmények megépítéséhez és használatbavételéhez vízjogi engedély szükséges.
+(6)[^215] Az (1) bekezdésben megjelölt feltételek hiányában az ott meghatározott létesítmények megépítéséhez és használatbavételéhez vízjogi engedély szükséges.
 
-(7)[^207] Az (1) bekezdés alapján kiadott engedélyekről a helyi vízgazdálkodási hatóság nyilvántartást vezet, amely tartalmazza az engedélyezett vízilétesítmény megnevezését, műszaki alapadatait, helyét (utca, házszám, helyrajzi szám), rendeltetésének célját, létesítésének időpontját, az engedély kiadásának keltét és hatályát, az engedélyes személyét, kút esetén annak átmérőjét, talpmélységét is.
+(7)[^216] Az (1) bekezdés alapján kiadott engedélyekről a helyi vízgazdálkodási hatóság nyilvántartást vezet, amely tartalmazza az engedélyezett vízilétesítmény megnevezését, műszaki alapadatait, helyét (utca, házszám, helyrajzi szám), rendeltetésének célját, létesítésének időpontját, az engedély kiadásának keltét és hatályát, az engedélyes személyét, kút esetén annak átmérőjét, talpmélységét is.
 
 (8) Az (1) bekezdésben érintett létesítmények hatósági engedély alapján történő megépítésével, üzemeltetésével összefüggő esetleges kártalanításra a vízjogi engedélyezési kötelezettség alá tartozó létesítményekkel kapcsolatos kártalanítási rendelkezéseket kell megfelelően alkalmazni.
 
-(9)[^208] A helyi vízgazdálkodási hatóság a nyilvántartását minden év március 31. napjáig megküldi a vízügyi igazgatóságnak.
+(9)[^217] A helyi vízgazdálkodási hatóság a nyilvántartását minden év március 31. napjáig megküldi a vízügyi igazgatóságnak.
 
-(10)[^209] E § alkalmazásában házi ivóvízigény: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény és a törvény végrehajtására kiadott kormányrendelet szerinti polgár bejelentett lakóhelyeként nyilvántartott, épülettel vagy annak építésére jogosító hatósági határozattal, egyszerű bejelentéssel rendelkező ingatlanon a magánszemély részéről emberi fogyasztás céljából a személyes szükségletek kielégítéséhez szükséges, saját célú ivóvízműből biztosított, nem gazdasági célú vízigény.
+(10)[^218] E § alkalmazásában házi ivóvízigény: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény és a törvény végrehajtására kiadott kormányrendelet szerinti polgár bejelentett lakóhelyeként nyilvántartott, épülettel vagy annak építésére jogosító hatósági határozattal, egyszerű bejelentéssel rendelkező ingatlanon a magánszemély részéről emberi fogyasztás céljából a személyes szükségletek kielégítéséhez szükséges, saját célú ivóvízműből biztosított, nem gazdasági célú vízigény.
 
-[^198]: A 24. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^199]: A 24. § (1) bekezdés a) pont aa) alpontja az 518/2017. (XII. 29.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.
-[^200]: A 24. § (1) bekezdés a) pont ab) alpontja az 518/2017. (XII. 29.) Korm. rendelet 17. § l) pontja szerint módosított szöveg.
-[^201]: A 24. § (1) bekezdés c) pontja a 286/2019. (XII. 4.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^202]: A 24. § (2) bekezdés nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^203]: A 24. § (3) bekezdése a 100/2016. (V. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^204]: A 24. § (3) bekezdés c) pontja az 518/2017. (XII. 29.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
-[^205]: A 24. § (4) bekezdése a 100/2016. (V. 13.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^206]: A 24. § (6) bekezdése a 100/2016. (V. 13.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^207]: A 24. § (7) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^208]: A 24. § (9) bekezdését a 100/2016. (V. 13.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^209]: A 24. § (10) bekezdését a 100/2016. (V. 13.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^207]: A 24. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^208]: A 24. § (1) bekezdés a) pont aa) alpontja az 518/2017. (XII. 29.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.
+[^209]: A 24. § (1) bekezdés a) pont ab) alpontja az 518/2017. (XII. 29.) Korm. rendelet 17. § l) pontja szerint módosított szöveg.
+[^210]: A 24. § (1) bekezdés c) pontja a 286/2019. (XII. 4.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^211]: A 24. § (2) bekezdés nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^212]: A 24. § (3) bekezdése a 100/2016. (V. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^213]: A 24. § (3) bekezdés c) pontja az 518/2017. (XII. 29.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
+[^214]: A 24. § (4) bekezdése a 100/2016. (V. 13.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^215]: A 24. § (6) bekezdése a 100/2016. (V. 13.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^216]: A 24. § (7) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^217]: A 24. § (9) bekezdését a 100/2016. (V. 13.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^218]: A 24. § (10) bekezdését a 100/2016. (V. 13.) Korm. rendelet 4. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## IV. Fejezet[^213]
+## IV. Fejezet[^222]
 
 ## A BEJELENTÉS ALAPJÁN LÉTESÍTHETŐ MEZŐGAZDASÁGI ÖNTÖZÉSI CÉLÚ KUTAKRA VONATKOZÓ ELJÁRÁSI RENDELKEZÉSEK
 
@@ -16,4 +16,4 @@
 
 (7) A Vgtv. 45/N. § (1) bekezdése szerinti mezőgazdasági öntözési célú kutat az üzemeltető a (6) bekezdés szerinti hatósági nyilvántartásba vétel céljából a Vgtv. 45/N. § (2) bekezdésében meghatározott időpontig, a 3. melléklet szerinti adatlap kitöltésével elektronikus úton bejelenti az öntözési igazgatási szervhez. A bejelentésben foglaltak alapján az öntözési igazgatási szerv a kutat nyilvántartásba veszi, vagy a bejelentőt fennmaradási engedély megszerzésére, illetve szükség esetén a kút eltömedékelésére kötelezi.
 
-[^213]: A IV. fejezetet (26. §) a 716/2020. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^222]: A IV. fejezetet (26. §) a 716/2020. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

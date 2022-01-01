@@ -1,5 +1,5 @@
-21/A. §[^194] (1) Az engedélyes a 30 hektár vagy afeletti völgyzárógátas halastó vagy halastórendszer, valamint az 1 millió m3 vagy azt meghaladó tározott vízmennyiségű völgyzárógátas víztározó üzemeltetési szabályzatát a vízjogi üzemeltetési engedély hatályának lejártakor, de legkésőbb 2022. augusztus 31-ig, majd ezt követően legalább 5 évenként felülvizsgálja. A vízügyi hatóság ezen vízi létesítményeket az I. felügyeleti kategóriába sorolja.
+21/A. §[^203] (1) Az engedélyes a 30 hektár vagy afeletti völgyzárógátas halastó vagy halastórendszer, valamint az 1 millió m3 vagy azt meghaladó tározott vízmennyiségű völgyzárógátas víztározó üzemeltetési szabályzatát a vízjogi üzemeltetési engedély hatályának lejártakor, de legkésőbb 2022. augusztus 31-ig, majd ezt követően legalább 5 évenként felülvizsgálja. A vízügyi hatóság ezen vízi létesítményeket az I. felügyeleti kategóriába sorolja.
 
 (2) Az engedélyes a 30 hektár alatti völgyzárógátas halastó vagy halastórendszer, valamint az 1 millió m3 tározott vízmennyiség alatti völgyzárógátas víztározó üzemeltetési szabályzatát a vízjogi üzemeltetési engedély hatályának lejártakor, de legkésőbb 2022. augusztus 31-ig, majd ezt követően legalább 10 évenként felülvizsgálja. A vízügyi hatóság ezen vízi létesítményeket – az egyes felügyeleti kategóriákat érintő besorolás szempontjait figyelembe véve – a II. vagy a III. felügyeleti kategóriába sorolja.
 
-[^194]: A 21/A. §-t a 375/2021. (VI. 30.) Korm. rendelet 5. §-a iktatta be.
+[^203]: A 21/A. §-t a 375/2021. (VI. 30.) Korm. rendelet 5. §-a iktatta be.
