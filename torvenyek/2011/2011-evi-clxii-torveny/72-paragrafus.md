@@ -1,17 +1,31 @@
-72. § (1) Járásbírósági bíró értékelése esetén a járásbíróság elnökét a vizsgálatot végző meghallgathatja.
+72. § (1) Járásbírósági bíró értékelése esetén a járásbíróság elnökét a vizsgáló meghallgathatja.
 
-(2) A bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető vagy az általa kijelölt bíró a vizsgálathoz kiválasztja a szükséges ügyeket és az értékeléshez beszerzi a bíró
+(2) A vizsgáló a vizsgálathoz kiválasztja a szükséges ügyeket, a bíróság elnöke pedig a vizsgáló rendelkezésére bocsátja
 
-a) ügyeiről a vizsgált időszakban készült tanácselnöki feljegyzéseket,
+a) a bíró ügyeiről a vizsgált időszakban készült tanácselnöki feljegyzéseket,
 
-b) éves tevékenységi kimutatását,
+b) a bíró éves tevékenységi kimutatását,
 
-c) szakterülete szerint illetékes másodfokú (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének a véleményét, a kúriai bíró kivételével,
+c) a bíró ügyeit felülbíráló másodfokú tanácselnöki összefoglaló véleményeket, a kúriai bíró kivételével,
 
-d) kötelező képzéseken való részvételével kapcsolatos adatokat, továbbá
+d) a bíró elhúzódó pertartamú ügyei következtében meghozott igazgatási intézkedéseket tartalmazó iratokat,
 
-e) az OBH elnöke által szabályzatban meghatározott egyéb okiratokat, véleményeket, adatokat.
+e) a bíró kötelező képzéseken való részvételével kapcsolatos adatokat, továbbá
 
-(2a) Ha a vizsgálatot a kollégiumvezető végzi, és személye megegyezik a (2) bekezdés c) pontja szerinti kollégiumvezetővel, a (2) bekezdés c) pont szerinti véleményt a vizsgálat irataihoz csatolja.
+f) az OBH elnöke által szabályzatban meghatározott egyéb okiratokat, véleményeket, adatokat.
 
-(3) A bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető vagy az általa kijelölt bíró a vizsgálat kezdeményezőjének, továbbá a kúriai bíró kivételével a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének, a járásbírósági bíró esetén az ítélőtábla kollégiumvezetőjének előzetesen megküldi a vizsgálati jelentést és az értékelés tervezetét.
+(3) A vizsgáló
+
+a) a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezetőnek – kivéve, ha ő maga a vizsgáló –,
+
+b) a vizsgálat kezdeményezőjének,
+
+c) – a kúriai bíró kivételével – a bíró beosztási helye és szakterülete szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének,
+
+d) – a járásbírósági bíró esetén – az ítélőtábla bíró szakterülete szerinti kollégiumvezetőjének
+
+előzetesen megküldi a vizsgálati jelentést és az értékelési javaslatot.
+
+(4) Ha a vizsgált időszakban a bíró tényleges működése több szakterületre vagy több ítélkezési szintre is kiterjed, a vizsgáló a vizsgálati jelentést és értékelési javaslatot a vizsgált bíró valamennyi szakterülete és ítélkezési szintje szerint illetékes kollégiumvezető részére is megküldi.
+
+(5) A kollégiumvezetők a vizsgálatra vonatkozó írásbeli véleményüket 8 napon belül küldik meg a bíróság elnökének.

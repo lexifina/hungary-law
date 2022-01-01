@@ -1,6 +1,6 @@
 ## 16. A bíró kijelölése
 
-30. § (1) A közigazgatási ügyekben eljáró bírákat a törvényszék elnökének javaslatára az OBH elnöke jelöli ki.
+30. § (1) A közigazgatási ügyekben eljáró bírákat a törvényszék bíráinak tekintetében a törvényszék elnökének javaslatára, a Fővárosi Ítélőtábla bíráinak tekintetében a Fővárosi Ítélőtábla elnökének javaslatára az OBH elnöke jelöli ki.
 
 (1a) A munkaügyi ügyekben eljáró bírákat a törvényszék bírái tekintetében a törvényszék elnökének javaslatára, az ítélőtábla bírái tekintetében az ítélőtábla elnökének javaslatára az OBH elnöke jelöli ki.
 

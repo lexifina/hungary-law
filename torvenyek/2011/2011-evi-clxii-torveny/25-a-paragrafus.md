@@ -1,1 +1,1 @@
-25/A. § A 24. § (2) bekezdése és a 25. § (2) bekezdése alkalmazása szempontjából az OBH-ba beosztás időtartama nem minősül tényleges bírói működésnek.
+25/A. § A 24. § (2) bekezdése és a 25. § (2) bekezdése alkalmazása szempontjából tényleges működés a tényleges bírói álláshelyen végzett feladatellátás azzal, hogy az egybefüggően 30 napot meghaladó keresőképtelenség, fizetés nélküli szabadság vagy szülési szabadság időtartama nem minősül tényleges bírói működésnek.
