@@ -2,6 +2,7 @@
 
 26. § (1)[^4]
 
-(2) A 13. § (4) és (8) bekezdése 2021. december 31-én hatályát veszti.
+(2)[^5]
 
 [^4]: A 26. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 26. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
