@@ -2,12 +2,12 @@
 
 23/F. §[^127] (1)[^128] A Diákhitel szervezet a képzési hitel igény elbírálását vagy a képzési hitel folyósítását legfeljebb 30 napra felfüggeszti, ha a képzési hitel igénylésével vagy felvételével kapcsolatban felmerül a jóhiszeműség és tisztesség elve sérelmének gyanúja. A felfüggesztésről a Diákhitel szervezet a tanulót, illetve a képzésben részt vevő személyt tájékoztatja.
 
-(2)[^129] Az (1) bekezdés szerinti esetben a Diákhitel szervezet a képzési hitelre való jogosultság feltételeinek fennállását a jogosultsági feltételre vonatkozó adatot kezelő szerv közvetlen megkeresése útján ellenőrizheti.
+(2)[^129]
 
 (3)[^130] Az (1) bekezdés szerinti felfüggesztés időtartama alatt a Diákhitel szervezet tájékoztatást, adatot kérhet a tanulótól vagy a képzésben részt vevő személytől, a szakképző intézménytől és a felnőttképzőtől a jogosultsági feltételek fennállásával, a szakmai oktatással, illetve a szakmai képzéssel és a hitelfelvevő abban való részvételével összefüggésben, vagy megkeresheti a szakképző intézmény vagy a felnőttképző alapítóját, fenntartóját, tulajdonosát vagy nyilvántartásba vételére jogosult szervet. A felfüggesztés időtartama meghosszabbodik az eljárás időtartamával, ha a szakképzési államigazgatási szerv a szakképző intézménnyel, vagy a felnőttképzési államigazgatási szerv a felnőttképzővel szemben hatósági eljárást indít, továbbá ha a Diákhitel szervezet, a szakképzési államigazgatási szerv vagy a felnőttképzési államigazgatási szerv a szakképző intézménnyel vagy a felnőttképzővel szemben fogyasztóvédelmi eljárást, valamint ha a szakképző intézmény vagy felnőttképző által meghirdetett képzésre igényelt hitelszerződésekkel kapcsolatosan büntetőeljárást kezdeményez. A meghosszabbításról a Diákhitel szervezet a tanulót vagy a képzésben részt vevő személyt tájékoztatja.
 
 [^126]: A 23/E. § a 721/2021. (XII. 20.) Korm. rendelet 7. § f) és 8. § g) pontja szerint módosított szöveg.
 [^127]: A 23/F. §-t az 573/2021. (X. 8.) Korm. rendelet 4. §-a iktatta be.
 [^128]: A 23/F. § (1) bekezdése a 721/2021. (XII. 20.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
-[^129]: A 23/F. § (2) bekezdése a 721/2021. (XII. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^129]: A 23/F. § (2) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 8. § h) pontja hatályon kívül helyezte.
 [^130]: A 23/F. § (3) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
