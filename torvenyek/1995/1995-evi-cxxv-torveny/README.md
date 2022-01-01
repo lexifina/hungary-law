@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2021-05-14 | 2021. évi XXXI. törvény | 1995-125-00-00.68 |
 | 2021-10-01 | 2021. évi XXXII. törvény | 1995-125-00-00.69 |
 | 2021-12-30 | 2021. évi CXX. törvény | 1995-125-00-00.70 |
+| 2022-01-01 | 2021. évi CXIV. törvény | 1995-125-00-00.71 |
