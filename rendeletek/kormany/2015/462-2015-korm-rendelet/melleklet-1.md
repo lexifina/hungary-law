@@ -1,4 +1,4 @@
-## 10. § Ez a rendelet a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 11. §[^3] Az a hitelezővel, hitelközvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 4. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat hitelezővel, hitelközvetítővel és közvetítői alvállalkozóval.
 
 1. melléklet a 462/2015. (XII. 29.) Korm. rendelethez
 
@@ -145,3 +145,5 @@
 9.2. hitelezéssel kapcsolatos jogszabályok ismerete, alkalmazása;
 
 9.3. a piaci változások értelmezése, azok hatása az adott hitelező működésére.
+
+[^3]: A 11. §-t a 297/2021. (V. 31.) Korm. rendelet 7. §-a iktatta be.
