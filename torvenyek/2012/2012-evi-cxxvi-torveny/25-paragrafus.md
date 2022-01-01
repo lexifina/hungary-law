@@ -2,4 +2,4 @@
 
 (2) Ha az elnökség nem tesz eleget a felhívásnak, az ellenőrző bizottság kezdeményezi az országos küldöttgyűlés összehívását.
 
-(3) Az ellenőrző bizottság elnöke összehívja az országos küldöttgyűlést, ha az elnök nem tesz eleget erre vonatkozó kötelességének.
+(3) Az ellenőrző bizottság elnöke összehívja az országos küldöttgyűlést, ha az elnökség nem tesz eleget erre vonatkozó kötelességének.

@@ -2,15 +2,7 @@
 
 23. § (1) Az agrárkamarát az elnök önállóan képviseli. Az elnök a képviseleti jogát a 23. § (2) bekezdés szerinti alelnökre, az agrárkamara megyei szervezetének elnökére, az agrárkamara alkalmazásában álló személyre írásban átruházhatja. Az elnök a főigazgató akadályoztatása esetén, valamint ha a főigazgató tisztség nincs betöltve, a főigazgatói jogkörök gyakorlását magához vonhatja, illetve e jogkör gyakorlását az elnök általános helyettesítésével kapcsolatos feladatok ellátásáért felelős alelnökre, a főigazgató helyettesítésére az agrárkamara szervezeti és működési szabályzata alapján feljogosított személyre ruházhatja át.
 
-(2) Az agrárkamara küldöttgyűlése négy alelnököt választ, akik közül 1-1 fő felelős:
-
-a) a mezőgazdaságért,
-
-b) az élelmiszeriparért,
-
-c) a vidékfejlesztésért, valamint
-
-d) az általános agrárgazdasági ügyekért, aki egyben az elnök általános helyettese.
+(2) Az agrárkamara országos küldöttgyűlése alelnököket választ.
 
 (2a) Az alelnökök feladatkörükben felelnek a mikro-, kis- és középvállalkozásokkal kapcsolatos ügyek intézéséért is.
 

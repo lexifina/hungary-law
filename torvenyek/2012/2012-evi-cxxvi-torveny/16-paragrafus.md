@@ -32,7 +32,7 @@ f) jogsegélyszolgálatot működtet;
 
 g) általános gazdasági és szakmai tájékoztatókat tart.
 
-(3) Az agrárkamara alapszabálya meghatározza a tagok részére térítés ellenében nyújtandó szolgáltatások körét.
+(3) Az agrárkamara alapszabálya meghatározza a tagok részére térítés ellenében nyújtandó, valamint e törvényben meghatározott szolgáltatásokat meghaladóan további térítésmentesen nyújtott szolgáltatások körét.
 
 (4) Az agrárkamara feladatainak ellátása során – azok feladatkörét érintő ügyekben – köteles együttműködni a szakmaközi szervezetekkel, a Magyar Állatorvosi Kamarával, a Magyar Növényvédő Mérnöki és Növényorvosi Kamarával, a Magyar Vadászkamarával, valamint a Hegyközségek Nemzeti Tanácsával, továbbá azok feladatkörét érintő szolgáltatási közfeladatait a bevonásukkal látja el.
 

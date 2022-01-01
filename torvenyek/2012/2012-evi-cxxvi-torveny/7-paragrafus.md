@@ -18,7 +18,7 @@ ab) a lakcímét,
 
 ac) az értesítési címét,
 
-ad) az elektronikus levelezési címét,
+ad) az elektronikus levelezési címét, telefonszámát,
 
 ae) a születési helyét és idejét,
 
@@ -54,7 +54,7 @@ b) gazdálkodó szervezet esetében:
 
 ba) a cégnevét,
 
-bb) a székhelyét, telephelyét, fióktelephelyét, elektronikus levelezési címét,
+bb) a székhelyét, telephelyét, fióktelephelyét, elektronikus levelezési címét, telefonszámát, cégkapu azonosítóját,
 
 bc) a cégjegyzékszámát, a nem a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) hatálya alá tartozása esetében – a gazdálkodó szervezet azonosításához szükséges nyilvántartási számát, a nyilvántartás megnevezésével,
 
@@ -104,8 +104,8 @@ e) az a)–d) pontban foglaltakon kívüli, a vállalkozás gazdaságszerkezeté
 
 (4) Az agrárkamara a tagjegyzékben, valamint a gazdaságszerkezeti nyilvántartásban szereplő, tagra vonatkozó adatokat kezeli.
 
-(5) A tag a (2) bekezdés szerinti adatokról – a (2) bekezdés a) pont an) és aq) alpontja, valamint a b) pont bh) és bk) alpontja kivételével – a tagsági viszony létrejöttét – változás esetén a változást – követő harminc napon belül köteles nyilatkozni.
+(5) A tag a (2) bekezdés szerinti adatokról – a (2) bekezdés a) pont am) és ap) alpontja, valamint a b) pont bh) és bk) alpontja kivételével – a tagsági viszony létrejöttét – változás esetén a változást – követő harminc napon belül köteles nyilatkozni.
 
 (6) Az agrárkamara a (2) bekezdés aa)–ah) pontjaiban meghatározott adatokat az élelmiszerlánc felügyeleti szerv részére annak kérelmére egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen, évente legkésőbb április 15-ig átadja. Az agrárkamara a Központi Statisztikai Hivatal számára statisztikai célból a (2) bekezdésében foglalt tagjegy-zékéhez hozzáférést biztosít, vagy kérelmére egyedi azonosításra alkalmas módon adatot ad át.
 
-(7) A tag által a (3) bekezdésben foglaltak szerint szolgáltatandó adatok körét – a tevékenység jellegétől függően – a küldöttgyűlés által elfogadott adatszolgáltatási szabályzat határozza meg.
+(7) A tag által a (3) bekezdésben foglaltak szerint szolgáltatandó adatok körét – a tevékenység jellegétől függően – az országos küldöttgyűlés által elfogadott adatszolgáltatási szabályzat határozza meg.

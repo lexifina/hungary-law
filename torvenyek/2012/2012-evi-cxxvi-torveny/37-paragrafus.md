@@ -1,11 +1,13 @@
-37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve megyei küldöttnek az választható, aki
+37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve megyei küldöttnek
 
-a) nagykorú, és
+a) az a gazda választható, aki nagykorú, és az agrárkamara tagja,
 
-b) az agrárkamara tagja vagy gazdálkodó szervezet tag esetén annak törvényes képviselője.
+b) az a gazdálkodó szervezet választható, amely az agrárkamara tagja.
 
 (2) Nem választható országos, illetve megyei küldöttnek, aki
 
 a) cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll;
 
 b) büntetett előéletű.
+
+(3) Gazdálkodó szervezet törvényes képviselője a gazdálkodó szervezet országos, illetve megyei küldötti jogait abban az esetben gyakorolhatja, ha vele szemben a (2) bekezdésben foglalt kizárási ok nem áll fenn.

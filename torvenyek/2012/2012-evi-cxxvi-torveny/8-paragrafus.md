@@ -10,7 +10,15 @@ c) a bevallásában a 2. melléklet szerinti agrárgazdasági tevékenységet fo
 
 d) a mezőgazdasági termelőszervezetként nyilvántartásba vett jogalany tárgyévi nettó árbevételéről, ennek hiányában a tárgyévi bevétel rendelkezésre álló adatairól.
 
-(2a) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni az agrárkamara részére a tárgyévben elhunyt őstermelő, az agrárkamarai tag egyéni vállalkozó adóazonosító jeléről és adószámáról, valamint megszűnt agrárkamarai tag egyéni cég nevéről és adószámáról.
+e) amennyiben rendelkezésre áll az a)–d) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – az alábbi adatokról
+
+ea) a tárgyévben megfizetendő és vissza nem térített, illetve meg nem térülő, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék, az alkoholtermék és a dohánygyártmány után fizetendő jövedéki adó – lehetőség szerint összesített – összegéről,
+
+eb) a tárgyévben fizetendő népegészségügyi termékadó összegéről,
+
+f) amennyiben rendelkezésre áll az a)–b) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – a tárgyévben a támogatási szerv által folyósított támogatások összegéről.
+
+(2a) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni az agrárkamara részére a tárgyévben elhunyt őstermelő, az agrárkamarai tag egyéni vállalkozó adóazonosító jeléről és adószámáról, valamint megszűnt agrárkamarai tag egyéni cég nevéről és adószámáról. Az állami adóhatóságnak az e bekezdés szerint nyújtott adatokat úgy kell átadnia, hogy az agrárkamara számára megállapítható legyen az elhunyt őstermelő, egyéni vállalkozó, illetve egyéni cég tagja elhalálozásának időpontja.
 
 (2b) Az állami adóhatóság a Ctv. 24. § (4a) bekezdése szerinti értesülésével és a Ctv. 24. § (4b) bekezdése szerinti értesítésével egyidejűleg értesíti az agrárkamarát a cég agrárgazdasági tevékenységnek minősülő fő- és további tevékenységi köreiről és az azokat érintő változásokról. Az értesítésben az adóhatóság megjelöli a tevékenységi kör megváltozására vonatkozó bejelentés megtételének napját.
 
@@ -35,6 +43,8 @@ bb) – a Ctv. hatálya alá tartozása esetében – cégjegyzékszámáról, �
 bc) székhelyéről (telephelyéről, fióktelepéről).
 
 (2e) Az agrárkamara a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 103. §-ában meghatározott feladatának ellátása érdekében az ingatlan-nyilvántartásból adatszolgáltatást vagy lekérdezést igényelhet a tulajdonos valamennyi ingatlanáról, ideértve a tulajdonosok jegyzékéből (névmutatóból) történő igénylést is.
+
+(2f) Az agrárkamara jogosult – a megjelölt kötelező adatszolgáltatási időponton kívül is – újabb adatszolgáltatást kérni az állami adóhatóságtól a (2)–(2a) bekezdésekben foglalt adatokra.
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa kezelt adatok közül a tárgyévet követő év június 1. napjáig köteles adatot szolgáltatni a kamara részére a tárgyévben a központi költségvetésből, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA), az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA), továbbá az Európai Halászati Alapból (a továbbiakban: EHA) – ideértve ezen pénzügyi alapok helyébe lépő közösségi pénzügyi forrásokat is – finanszírozott támogatásban részesülő kamarai tagra vonatkozóan a következő adattartalommal:
 

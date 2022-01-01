@@ -1,6 +1,6 @@
 ## Az országos küldöttgyűlés
 
-19. § (1) Az agrárkamara legfőbb szerve a tagok által öt évre választott országos küldöttgyűlés. Az országos küldöttgyűlés választott tagjai az agrárkamarai országos küldöttek, valamint az agrárkamara megyei szervezetének elnökei.
+19. § (1) Az agrárkamara legfőbb szerve az öt évre választott országos küldöttgyűlés. Az országos küldöttgyűlés tagjai az országos küldöttek, valamint az agrárkamara megyei szervezeteinek elnökei.
 
 (2) Az országos küldöttgyűlés kizárólagos hatáskörébe tartozik
 
@@ -22,10 +22,10 @@ h) az agrárkamara éves költségvetésének meghatározásáról, az elfogadot
 
 i) a kamarai tagdíj mértékéről és megfizetésének módjáról való döntéshozatal;
 
-j) az agrárkamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása;
+j) az agrárkamara elnökének, alelnökeinek, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása.
 
-k) az országos, valamint a megyei küldöttgyűlési küldöttek választása rendjének a megállapítása.
+k)
 
 (3) Az alapszabály – a (2) bekezdésben meghatározottakon túl – más ügyet is az országos küldöttgyűlés hatáskörébe utalhat.
 
-(4)
+(4) Az országos küldöttgyűlés hatáskörébe tartozik az országos, valamint a megyei küldöttgyűlési küldöttek választása rendjének a megállapítása azzal, hogy az országos küldöttgyűlés egyes döntéseket más agrárkamarai testületi szerv hatáskörébe utalhat.

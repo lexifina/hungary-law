@@ -1,4 +1,4 @@
-35. § (1) Az országos, illetve a megyei alakuló küldöttgyűlés megtartására vonatkozó részletes szabályokat – a törvényben, valamint az agrárkamara alapszabályában foglaltakkal összhangban – az országos küldöttgyűlés által elfogadott eljárási szabályzat határozza meg.
+35. § (1) Az országos, illetve a megyei alakuló küldöttgyűlés megtartására, illetve az agrárkamarai választásra vonatkozó részletes szabályokat – a törvényben, valamint az agrárkamara alapszabályában foglaltakkal összhangban – az országos küldöttgyűlés által elfogadott eljárási szabályzat határozza meg a 19. § (4) bekezdésében foglaltaknak megfelelően.
 
 (1a) Az országos, illetve a megyei alakuló küldöttgyűlést
 
@@ -6,6 +6,6 @@ a) az alapszabályban foglaltak szerint megalakított Országos Kamarai Választ
 
 b) a nyertes megyei küldöttlistát, illetve országosan a legtöbb nyertes megyei küldöttlistát állító jelölő szervezet javaslata alapján az OKVB által felkért megyei, illetve országos küldött vezeti.
 
-(2) A küldöttválasztó közgyűlés eljárási szabályainak – az egyenlő szavazati jog kivételével – figyelemmel kell lenni a tagok és a küldöttek ágazati érdekeinek arányos és kiegyensúlyozott meghatározására.
+(2) Az agrárkamarai választás eljárási szabályainak – az egyenlő szavazati jog kivételével – figyelemmel kell lenni a tagok és a küldöttek ágazati érdekeinek arányos és kiegyensúlyozott meghatározására.
 
-(3) A kamarai osztály szükség szerint, de évente legalább egyszer tart ülést. A kamarai osztály ülését akkor is össze kell hívni, ha az osztály legalább egyötöde írásban kéri. A kamarai osztály tagjait egy-egy szavazat illeti meg.
+(3) A megyei küldöttválasztáson szavazásra jogosult kamarai tagok jegyzékét (a továbbiakban: választási tagjegyzék) a megyei küldöttgyűlési küldöttek választására vonatkozó szabályok szerint kell összeállítani. A választási tagjegyzék a kamara tagjegyzékén alapul. A választási tagjegyzék a megyei küldöttek mandátumának lejártát legfeljebb tizenkét hónappal megelőző időpontja szerinti tagjegyzék állapot alapján is meghatározható. A választási tagjegyzékre a 7/A. § rendelkezéseit kell alkalmazni.

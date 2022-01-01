@@ -1,4 +1,4 @@
-30. § (1) Agrárkamarai tisztségre választható a pártoló és a tiszteletbeli tag kivételével minden agrárkamarai tag, ha büntetlen előéletű és vele szemben összeférhetetlenségi ok nem áll fenn.
+30. § (1) Agrárkamarai tisztségre választható a pártoló és a tiszteletbeli tag kivételével minden agrárkamarai tag, – valamint a gazdálkodó szervezet esetében a gazdálkodó szervezet nevében eljáró törvényes képviselő, – ha büntetlen előéletű és vele szemben összeférhetetlenségi ok nem áll fenn.
 
 (2) Összeférhetetlen az agrárkamarai tisztség viselésével, ha a tag politikai pártban vezető tisztséget tölt be.
 

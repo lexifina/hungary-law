@@ -18,7 +18,7 @@ g) a kamarai tagdíj mértékét, valamint a tagdíj fizetésének módját, fel
 
 h)
 
-i) a küldöttgyűlésébe történő delegálás részletes szabályait;
+i)
 
 j) a kamarai osztályok számát, termékkörét, összehívásának módját és határozathozataluk rendjét;
 
@@ -34,7 +34,7 @@ o) az elnökség összehívására, működésére, határozatának meghozatalá
 
 p) az e törvényben meghatározottakon túl a kétharmados vagy ennél nagyobb arányú többséget igénylő ügyek körét;
 
-q) az elnök, alelnökök jogkörét, illetve az ügyek meghatározott csoportjaira nézve a képviseleti jogkör átruházásának szabályait;
+q) az elnök, jogkörét, illetve az ügyek meghatározott csoportjaira nézve a képviseleti jogkör átruházásának szabályait;
 
 r) a kamara éves költségvetése, a beszámoló és a mérleg elfogadásának rendjét;
 

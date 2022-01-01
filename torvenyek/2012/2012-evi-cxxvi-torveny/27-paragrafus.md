@@ -8,9 +8,9 @@
 
 (4) A főigazgatót az elnök irányítja.
 
-(5) A főigazgató az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat – a (6), a (7) és a (9) bekezdésben foglalt eset kivételével – önállóan gyakorolja.
+(5) A főigazgató az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat – a (6), a (7) bekezdésben foglalt eset kivételével – önállóan gyakorolja.
 
-(6) A főigazgató megyei (fővárosi) ügyintéző szervezeti egységének vezetője felett a munkáltatói jogokat a főigazgató gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az agrárkamara adott megyei szervezete elnökével történt előzetes egyeztetés alapján dönthet.
+(6) A főigazgató megyei (fővárosi) ügyintéző szervezet vezetője felett a munkáltatói jogokat a főigazgató gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az agrárkamara adott megyei szervezete elnökével történt előzetes egyeztetés alapján dönthet.
 
 (7) Az elnök közvetlen irányítása alá tartozó szervezeti egység vezetője felett a munkáltatói jogokat az elnök, az érintett szervezeti egység munkavállalói felett pedig az elnök által irányított szervezeti egység vezetője gyakorolja.
 

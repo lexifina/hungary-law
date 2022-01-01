@@ -2,10 +2,10 @@
 
 ## VÁLASZTÁSI SZABÁLYOK
 
-33. § (1) Az agrárkamara tagjai az országos küldöttgyűlés által meghatározott időpontban az agrárkamarai küldöttek választása céljából megyénként országos küldöttválasztó közgyűlést tartanak.
+33. § (1) Az országos küldöttgyűlés által meghatározott időpontban a megyei küldöttek választása céljából megyénként választást kell tartani.
 
-(2) Az országos küldöttgyűlés a megyei (fővárosi) küldöttgyűlési küldöttek választásának időpontját, és ennek alapján a megyei alakuló küldöttgyűlés, továbbá az országos alakuló küldöttgyűlés időpontját a megyei küldöttek mandátumának lejártát legfeljebb hat hónappal megelőző időpontban is meghatározhatja.
+(2) A megyei küldöttgyűlési küldöttek választásának időpontja, és ennek alapján a megyei alakuló küldöttgyűlés, továbbá az országos alakuló küldöttgyűlés időpontja, a megyei küldöttek mandátumának lejártát legfeljebb hat hónappal megelőző időpontban is meghatározható.
 
 (3) Azt a megyei küldöttlistát kell megválasztottnak tekinteni, amelyik küldöttlista a szavazás alkalmával a legtöbb szavazatot kapta.
 
-(4) A megyei, továbbá az országos alakuló küldöttgyűlésen a megyei, illetve az országos kamarai tisztségek, továbbá a választottbíróság tagjainak megválasztására a javaslatot a jelölő bizottság jogkörében eljárva a megyei küldöttválasztás során nyertes listát állító jelölő szervezet jogosult megtenni.
+(4) A megyei alakuló küldöttgyűlésen az adott megyei tisztségekre jelölt személyekre, valamint az adott megyei küldöttgyűlés által választható országos küldötteknek jelölt személyekre javaslatot az adott megyei küldöttválasztás során nyertes listát állító jelölő szervezet jogosult megtenni, az országos alakuló küldöttgyűlésen az országos tisztségekre jelölt személyekre, valamint a választottbíróság tagjainak jelölt személyekre javaslatot az országosan legtöbb nyertes megyei küldöttlistát állító jelölő szervezet jogosult megtenni.
