@@ -1,4 +1,4 @@
-## 10. § A PB-gáz forgalmazói tevékenységet a bányafelügyeleti feladatkörében eljáró megyei kormányhivatal felügyeli, és amennyiben az általa folytatott ellenőrzés eredménye alapján megállapítja, hogy a PB-gáz forgalmazó tevékenysége az engedélyben foglalt feltételeknek nem felel meg, erről tájékoztatja az MBFSz-t.
+## 10. §[^8] A PB-gáz forgalmazói tevékenységet a bányafelügyelet felügyeli.
 
 ## 6. Az átfejtés általános követelményei és engedélyezése
 
@@ -11,3 +11,5 @@ b) a munkavédelmi szakértő által készített, a berendezés és a technológ
 (2) Az átfejtés akkor végezhető el, ha előzetes vizsgálat alapján az átfejtést végző meggyőződött arról, hogy a turista használatú palack megfelelő állapotú, a palack és annak szelepe sérülésmentes, továbbá a palack időszakos vizsgálata érvényes.
 
 (3) El kell utasítani az átfejtés iránti kérelmet, ha a palacknak vagy a palack tartozékainak állapota a műszaki-biztonsági követelményeknek nem felel meg.
+
+[^8]: A 10. § a 825/2021. (XII. 28.) Korm. rendelet 45. §-ával megállapított szöveg.

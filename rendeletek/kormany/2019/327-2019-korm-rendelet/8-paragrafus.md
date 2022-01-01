@@ -1,6 +1,6 @@
 ## 5. A PB-gáz forgalmazás engedélyezése és nyilvántartása
 
-8. § (1) A PB-gáz forgalmazására vonatkozó engedély iránti kérelmet az MBFSz-hez kell benyújtani.
+8. § (1)[^3] A PB-gáz forgalmazására vonatkozó engedély iránti kérelmet a bányafelügyelethez kell benyújtani.
 
 (2) A PB-gáz forgalmazására vonatkozó engedély iránti kérelemben ismertetni kell
 
@@ -11,3 +11,5 @@ b) az első három évben tervezett PB-gáz forgalom terméktípusonkénti menny
 (3) Az engedély iránti kérelemhez mellékelni kell a PB-gáz forgalmazási tevékenység végzéséhez szükséges, a 6. §-ban előírt feltételek teljesítését igazoló dokumentációt.
 
 (4) A PB-gáz forgalmazására vonatkozó engedély határozatlan ideig hatályos.
+
+[^3]: A 8. § (1) bekezdése a 825/2021. (XII. 28.) Korm. rendelet 46. § c) pontja szerint módosított szöveg.
