@@ -1,9 +1,9 @@
-## 10. A jogegységi indítvány
+## 10. A jogegység érdekében előterjesztett előzetes döntéshozatali indítvány
 
-32. § (1) Jogegységi eljárásnak van helye, ha
+32. § (1) Az előzetes döntéshozatali indítványra jogegységi eljárásnak van helye, ha
 
-a) a joggyakorlat továbbfejlesztése vagy az egységes ítélkezési gyakorlat biztosítása érdekében elvi kérdésben jogegységi határozat meghozatala, korábban meghozott jogegységi határozat megváltoztatása vagy hatályon kívül helyezése szükséges,
+a) az egységes ítélkezési gyakorlat biztosítása érdekében jogegységi határozat meghozatala, korábban meghozott jogegységi határozat megváltoztatása vagy hatályon kívül helyezése szükséges, vagy
 
 b) a Kúria valamely ítélkező tanácsa jogkérdésben el kíván térni a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban: Kúria közzétett határozata).
 
-(2) Az (1) bekezdés b) pontja szerinti esetekben a Kúria tanácsa a jogegységi eljárás indítványozása mellett a jogegységi határozat meghozataláig az eljárását felfüggeszti.
+(2) Az (1) bekezdés b) pontja szerinti esetekben a Kúria tanácsa az előzetes döntéshozatali indítvány előterjesztése mellett a jogegységi határozat meghozataláig az eljárását felfüggeszti.

@@ -6,6 +6,6 @@
 
 (3) Az ítélőtábla jogi személy.
 
-(4) Az ítélőtáblán tanácsok, büntető, polgári, valamint munkaügyi kollégiumok működnek.
+(4) Az ítélőtáblán tanácsok, büntető, polgári, valamint munkaügyi kollégiumok működnek. A Fővárosi Ítélőtáblán közigazgatási kollégium is működik.
 
 (5) A katonai tanács által első fokon elbírált, katonai büntetőeljárásra tartozó ügyekben másodfokon a külön törvényben meghatározott ítélőtáblán működő katonai tanács jár el.

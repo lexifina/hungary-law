@@ -1,1 +1,1 @@
-43. § Törvény – az e fejezetben nem szabályozott kérdésekben – a jogegységi eljárásra vonatkozóan további szabályokat állapíthat meg.
+43. § Törvény – az e fejezetben nem szabályozott kérdésekben – az előzetes döntéshozatali indítvány elbírálására vonatkozóan további szabályokat állapíthat meg.

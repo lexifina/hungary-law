@@ -4,6 +4,6 @@
 
 (2) Ha a Kúria indokoltnak tartja, a jogegységi határozat egyéb módon történő közzétételéről is intézkedhet.
 
-(3) Ha a jogegységi tanács a jogegységi határozatot hatályon kívül helyezi, a hatályon kívül helyező határozatot a Magyar Közlönyben közzé kell tenni. A jogegységi határozat a hatályon kívül helyező határozat közzététele időpontjától nem alkalmazható.
+(3) Ha a jogegységi panasz tanács a jogegységi határozatot hatályon kívül helyezi, a hatályon kívül helyező határozatot a Magyar Közlönyben közzé kell tenni. A jogegységi határozat a hatályon kívül helyező határozat közzététele időpontjától nem alkalmazható.
 
-(4) Ha a jogegységi tanács a jogegységi határozatot hatályon kívül helyezi, a Bírósági Határozatok Gyűjteményében, a központi honlapon és a Kúria honlapján ezt jelezni kell.
+(4) Ha a jogegységi panasz tanács a jogegységi határozatot hatályon kívül helyezi, a Bírósági Határozatok Gyűjteményében, a központi honlapon és a Kúria honlapján ezt jelezni kell.
