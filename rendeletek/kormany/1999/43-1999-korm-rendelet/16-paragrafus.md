@@ -1,4 +1,4 @@
-16. §[^163] (1)[^164] A területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatnak az ezen jogviszonya tekintetében az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó – heti 40 órában foglalkoztatott – egészségügyi szakdolgozója után a szakdolgozói bértámogatás mértékét a 36. számú melléklet tartalmazza. A háziorvosi szolgáltató a bértámogatás összegét a szakdolgozó bérének a szakdolgozó 2020. decemberi munkabérét, vagy legalább a mindenkori garantált bérminimumot meghaladó részének a kifizetésére, valamint az ezzel összefüggésben keletkező közteherre köteles fordítani.
+16. §[^163] (1)[^164] A területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatnak az ezen jogviszonya tekintetében az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó – heti 40 órában foglalkoztatott – egészségügyi szakdolgozója után a szakdolgozói bértámogatás mértékét a 36. számú melléklet tartalmazza. A háziorvosi szolgáltató a bértámogatás összegét a szakdolgozónak az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 3. és 7. melléklete „E” fizetési kategória szerint megállapítható összeget elérő havi bruttó munkabérének, valamint az ezzel összefüggésben keletkező közteher kifizetéséhez köteles felhasználni.
 
 (2)[^165] A háziorvosi szolgáltató az (1) bekezdés szerinti szakdolgozói bértámogatásra háziorvosi szolgálatonként a bejelentkezett biztosítottak korcsoportos pontszáma alapján a következők szerint jogosult:
 
@@ -23,6 +23,6 @@ e) 4501 pont felett heti összesen 120 órában foglalkoztatott szakdolgozók ut
 (6) A szakdolgozói bértámogatás fedezetéül az 5. számú melléklet Háziorvosi, szakdolgozói bértámogatás előirányzat szolgál.
 
 [^163]: A 16. §-t újonnan az 53/2021. (II. 9.) Korm. rendelet 8. §-a iktatta be.
-[^164]: A 16. § (1) bekezdése a 277/2021. V. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^164]: A 16. § (1) bekezdése a 757/2021. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^165]: A 16. § (2) bekezdése a 277/2021. V. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^166]: A 16. § (3a) bekezdését a 277/2021. V. 26.) Korm. rendelet 7. §-a iktatta be.

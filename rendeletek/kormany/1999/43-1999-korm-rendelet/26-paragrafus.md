@@ -28,7 +28,7 @@ c) ha azt a biztosított fekvőbeteg-intézményben veszi igénybe, a felvételt
 
 (6)[^288] A 14. életévét be nem töltött gyermek részére nyújtott, az 5. számú melléklet Összevont szakellátás jogcím járóbeteg-szakellátás és aktív fekvőbeteg-szakellátás előirányzatból finanszírozott ellátások elszámolása 1,2-es szorzó alkalmazásával történik.
 
-(7)[^289]
+(7)[^289] Az R. 3/A. számú mellékletében szereplő, 1002 traumatológia szakma osztályain S vagy T betűvel kezdődő fődiagnózissal jelentett traumatológiai indikációjú ellátásokat 1,45 szorzó alkalmazásával kell finanszírozni.
 
 (8)[^290] Ha az egészségügyi szolgáltató bármilyen térítési kategóriában nyújtott ellátásának díját az e rendeletben meghatározott szorzó alkalmazásával kell megállapítani, több szorzó együttes alkalmazhatósága esetén csak egyszeresen és a magasabb szorzó vehető figyelembe.
 
@@ -40,5 +40,5 @@ c) ha azt a biztosított fekvőbeteg-intézményben veszi igénybe, a felvételt
 [^286]: A 26. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 16. §-a iktatta be.
 [^287]: A 26. § (5) bekezdését az 58/2009. (III. 18.) Korm. rendelet 5. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja, a 697/2020. (XII. 29.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
 [^288]: A 26. § (6) bekezdését újonnan a 464/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 184/2018. (X. 8.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^289]: A 26. § (7) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 277/2021. (V. 26.) Korm. rendelet 18. § a) pontja.
+[^289]: A 26. § (7) bekezdését a 277/2021. (V. 26.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte, újonnan a 757/2021. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
 [^290]: A 26. § (8) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.

@@ -12,6 +12,8 @@
 
 (8)[^594] A Módr.11.-gyel megállapított 36. § (7) bekezdését a 2021. november 1. napján kezdődő ellátásoktól kell alkalmazni.
 
+(9)[^595] A 2022. évre vonatkozóan a tervezett éves aktív és krónikus fekvőbeteg-szakellátási, a járóbeteg-szakellátási, labordiagnosztikai, az önálló egynapos, az általános anesztéziában végzett egynapos fogászati és a molekuláris diagnosztikai (PCR) keretet a 2019. évi teljesítmények alapján kell meghatározni. E bekezdésben foglaltakat a 2022. januári kifizetésektől kell alkalmazni.
+
 [^588]: A 76/Y. §-t a 7/2020. (I. 31.) Korm. rendelet 2. §-a iktatta be.
 [^589]: A 76/Z. §-t a 154/2020. (IV. 27.) Korm. rendelet 2. §-a iktatta be.
 [^590]: A 76/Z. § (2) bekezdése az 557/2020. (XII. 4.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
@@ -19,3 +21,4 @@
 [^592]: A 76/Z. § (6) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. V. 26.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^593]: A 76/Z. § (7) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. (V. 26.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
 [^594]: A 76/Z. § (8) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 277/2021. (V. 26.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.
+[^595]: A 76/Z. § (9) bekezdését a 757/2021. (XII. 22.) Korm. rendelet 4. §-a iktatta be.

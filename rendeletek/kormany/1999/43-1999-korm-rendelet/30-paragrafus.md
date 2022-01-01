@@ -8,7 +8,19 @@
 
 (4)[^343] Nem számolható el a finanszírozó felé járóbeteg-szakellátási teljesítményként
 
-a)[^344] a fekvőbeteg-szakellátást nyújtó osztályon kezelés alatt álló, valamint a fekvőbeteg-gyógyintézetből történt elbocsátást követően a fekvőbeteg-ellátást nyújtó intézményben a HBCs felső határnapjáig, de legalább 10 napig a beteg részére nyújtott, a fekvőbeteg-szakellátás HBCs besorolása szerinti fődiagnózisnak megfelelő főcsoportba tartozó betegségek miatti járóbeteg-szakellátás, kivéve a Nemzeti Szakértői és Kutató Központ által végzett, jogszabályban meghatározott orvosszakértői vizsgálatokat, a sürgősségi betegellátási egységben nyújtott és 6 órán belül befejezett ellátást, a jogszabályban meghatározott csecsemőkori szűréseket, a fekvőbeteg-ellátást indokoló betegséggel össze nem függő onkológiai és citológiai szűréseket, ha azok elvégzése a jogszabályban foglaltak szerint nem történt meg, továbbá a fekvőbeteg-szakellátást nyújtó osztályra gyermeke mellé felvett, az Eb. tv. 18. § (6) bekezdés m) pontja szerinti fogyatékos személy kísérője, a beteg vagy koraszülött gyermekét szoptató anya, továbbá az ellátásban részesülő, az ellátás igénybevételének megkezdésekor a 14. életévét be nem töltött biztosított szülője, törvényes képviselője és közeli hozzátartozója részére végzett járóbeteg-szakellátást;
+a)[^344] a fekvőbeteg-szakellátást nyújtó osztályon kezelés alatt álló, valamint a fekvőbeteg-gyógyintézetből történt elbocsátást követően a fekvőbeteg-ellátást nyújtó intézményben a HBCs felső határnapjáig, de legalább 10 napig a beteg részére nyújtott, a fekvőbeteg-szakellátás HBCs besorolása szerinti fődiagnózisnak megfelelő főcsoportba tartozó betegségek miatti járóbeteg-szakellátás, kivéve
+
+aa) a Nemzeti Szakértői és Kutató Központ által végzett, jogszabályban meghatározott orvosszakértői vizsgálatokat,
+
+ab) a sürgősségi betegellátási egységben nyújtott és 6 órán belül befejezett ellátást,
+
+ac) a jogszabályban meghatározott csecsemőkori szűréseket,
+
+ad) a fekvőbeteg-ellátást indokoló betegséggel össze nem függő onkológiai és citológiai szűréseket, ha azok elvégzése a jogszabályban foglaltak szerint nem történt meg,
+
+ae) a fekvőbeteg-szakellátást nyújtó osztályra gyermeke mellé felvett, az Eb. tv. 18. § (6) bekezdés m) pontja szerinti fogyatékos személy kísérője, a beteg vagy koraszülött gyermekét szoptató anya, továbbá az ellátásban részesülő, az ellátás igénybevételének megkezdésekor a 14. életévét be nem töltött biztosított szülője, törvényes képviselője és közeli hozzátartozója részére végzett járóbeteg-szakellátást,
+
+af) a 18 éven aluli gerincvelői izomsorvadásban szenvedő, génterápiás gyógyszeres kezelésben részesült gyermekek ellátását;
 
 b) az olyan személy részére nyújtott ellátás, akit az ellátás napján – a rendelő beutalása alapján – a rendelőt működtető egészségügyi intézmény valamely fekvőbetegosztályára felvettek;
 
@@ -39,7 +51,7 @@ d) az olyan személy részére nyújtott ellátás, amelynek költségeit az eg�
 [^341]: A 30. § (2a) bekezdését a 142/2019. (VI. 19.) Korm. rendelet 2. §-a iktatta be, szövege a 605/2021. (XI. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^342]: A 30. § új (3) bekezdését a 29/2001. (III. 2.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti (3)–(11) bekezdés számozását (4)–(12) bekezdésre változtatta. A (3) bekezdés a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 28. § (1) bekezdés g) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § a) pontja, a 192/2015. (VII. 21.) Korm. rendelet 26. § n) pontja szerint módosított szöveg.
 [^343]: A 30. § eredeti (3) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (4) bekezdésre változtatta.
-[^344]: A 30. § (4) bekezdés a) pontja a 192/2015. (VII. 21.) Korm. rendelet 21. §-ával megállapított, a 350/2016. (XI. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^344]: A 30. § (4) bekezdés a) pontja a 757/2021. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^345]: A 30. § (4) bekezdés c) pontját a 139/2011. (VII. 21.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
 [^346]: A 30. § eredeti (4) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (5) bekezdésre változtatta.
 [^347]: A 30. § eredeti (5) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (6) bekezdésre változtatta, szövege a 257/2001. (XII. 19.) Korm. rendelet 24. §-a (4) bekezdésének a) pontja szerint módosított szöveg.
