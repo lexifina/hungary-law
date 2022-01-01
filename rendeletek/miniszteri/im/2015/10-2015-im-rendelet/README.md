@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-10-20-0
 | 2019-12-31 | 2015-10-20-06.10 | 36/2019. (XII. 30.) IM rendelet |
 | 2020-03-07 | 2015-10-20-06.11 | 2/2020. (III. 6.) IM rendelet |
 | 2021-05-01 | 2015-10-20-06.12 | 3/2021. (IV. 30.) IM rendelet |
+| 2022-01-01 | 2015-10-20-06.13 | 19/2021. (XII. 27.) IM rendelet |

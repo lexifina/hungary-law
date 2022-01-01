@@ -1,8 +1,8 @@
-## 15. §[^24] E rendelet 1. mellékletében foglalt táblázat F:3 mező b) és c) pontjaiban foglaltak a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 13. cikkének való megfelelést szolgálják.
+## 15. §[^26] E rendelet 1. mellékletében foglalt táblázat F:3 mező b) és c) pontjaiban foglaltak a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 13. cikkének való megfelelést szolgálják.
 
-1. melléklet a 10/2015. (V. 29.) IM rendelethez[^25]
+1. melléklet a 10/2015. (V. 29.) IM rendelethez[^27]
 
-X. Igazságügyi Minisztérium 2021. évi fejezeti kezelésű előirányzatainak feladatterve
+X. Igazságügyi Minisztérium 2022. évi fejezeti kezelésű előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -32,5 +32,5 @@ X. Igazságügyi Minisztérium 2021. évi fejezeti kezelésű előirányzatainak
 
 | d) Az előirányzat felhasználható az igazságügyi miniszter feladatkörébe tartozó, az Emberi Jogok Európai Bírósága által hozott ítéletek, illetve határozatok alapján az államot terhelő fizetési kötelezettségek megtérítésével kapcsolatos kifizetések, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény szerinti alapvető jogokat sértő elhelyezési körülmények miatti kártalanítás, illetve a kártalanításból történő – törvény szerinti – kielégítések megfizetésére, valamint az ezekkel összefüggő banki, kincstári díjak, jutalékok, költségek és postaköltség fedezetére. | d) természetes személy, jogi személy |
 
-[^24]: A 15. §-t a 36/2015. (XI. 19.) IM rendelet 2. §-a iktatta be, szövege a 3/2021. (IV. 30.) IM rendelet 7. §-ával megállapított szöveg.
-[^25]: Az 1. melléklet a 3/2021. (IV. 30.) IM rendelet 8. §-ával megállapított szöveg.
+[^26]: A 15. §-t a 36/2015. (XI. 19.) IM rendelet 2. §-a iktatta be, szövege a 3/2021. (IV. 30.) IM rendelet 7. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet a 3/2021. (IV. 30.) IM rendelet 8. §-ával megállapított, a 19/2021. (XII. 27.) IM rendelet 2. §-a szerint módosított szöveg.
