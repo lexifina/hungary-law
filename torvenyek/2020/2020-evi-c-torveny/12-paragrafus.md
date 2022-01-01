@@ -19,3 +19,5 @@ c) az e törvény hatálya alá tartozó egészségügyi szolgáltató és a hon
 (6) Az egészségügyi szolgálati jogviszonyt felmondással meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmondási idő leteltekor teljesítő közalkalmazott kérelmezi.
 
 (7) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
+
+(8) Az egészségügyi szolgálati jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
