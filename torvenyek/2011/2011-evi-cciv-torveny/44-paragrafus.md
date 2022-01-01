@@ -29,3 +29,5 @@ b) a doktorandusz által végzett munka ideje – az a) pont szerinti munkavégz
 c) a doktorandusz munkaidő-beosztását oly módon kell meghatározni, hogy vizsgázási és a vizsgára történő felkészülési kötelezettségeinek eleget tudjon tenni,
 
 d) a munkadíj havi összege, a teljes munkaidő ötven százalékának megfelelő idejű foglalkoztatás esetén nem lehet kevesebb, mint a legkisebb kötelező munkabér (minimálbér), eltérő idejű foglalkoztatás esetén ennek időarányos része.
+
+(6) A hallgatóval e törvény alapján hallgatói munkaszerződést, gyakorlatigényes alapképzési szak esetében a felsőoktatási intézménnyel együttműködési megállapodást kötött kifizető a szociális hozzájárulási adóról szóló törvényben meghatározottak szerint jogosult a központi költségvetésről szóló törvényben meghatározott alapnormatíva képzési területenként alkalmazandó súlyszorzója alapján igénybe vehető adókedvezmény érvényesítésére.

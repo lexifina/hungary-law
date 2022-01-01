@@ -4,7 +4,7 @@
 
 (2)
 
-(3) Az állami fenntartású felsőoktatási intézmény által fenntartott köznevelési intézmény támogatását a felsőoktatási intézmény költségvetésében elkülönítve kell megtervezni. A köznevelési feladatok ellátására az egyedi feladatok támogatása körében további támogatás biztosítható.
+(3) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény az állami felsőoktatási intézménnyel azonos elv szerint jogosult támogatásra az általa fenntartott köznevelési intézményben ellátott köznevelési alapfeladatra és szakképző intézményben ellátott szakképzési alapfeladatra tekintettel. Az állami felsőoktatási intézmény ilyen támogatását a felsőoktatási intézmény költségvetésében elkülönítve kell megtervezni, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény esetében pedig közfeladat-finanszírozási szerződéssel kell azt biztosítani. A köznevelési, illetve a szakképzési tevékenységhez az egyedi feladatok támogatása körében további támogatás biztosítható.
 
 (3a) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény által a 14. § (3a) bekezdése szerint fenntartott szakképző intézményre az Szkt. 21/B. § (2) bekezdését kell alkalmazni azzal, hogy a szakképzési centrum alatt a közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményt kell érteni.
 

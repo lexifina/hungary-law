@@ -20,6 +20,10 @@ b) 5. § (1) bekezdésében meghatározott jogalanyiságát nem érinti.
 
 (4e) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a hallgatók számára kifizetett pénzbeli juttatásokat a számvitelről szóló törvény szerinti egyéb ráfordítások terhére köteles elszámolni.
 
+(4f) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltást követő első üzleti évi számviteli beszámolójának mérlegében, a (4a)–(4c) bekezdésekben foglaltak végrehajtását követően kimutatott negatív tőketartalékot köteles az eredménytartalék terhére megszüntetni, továbbá az ezt követően kimutatott eredménytartalék negatív összegét a fenntartó ez irányú döntése alapján a jegyzett tőke terhére részben vagy egészen megszüntetheti. A 2021. január 1-je előtti (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a saját tőke ezen bekezdésben meghatározott átrendezését a 2021. december 31-ei fordulónappal elkészített beszámolójának mérlegében hajtja végre a fenntartóváltást követő első üzleti évi beszámolója mérlegében kimutatott negatív tőketartalék, illetve negatív eredménytartalék figyelembevételével.
+
+(4g) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézményt fenntartó alapítvány a számviteli jogszabályok szerinti beszámolójának mérlegében tartós részesedésként mutatja ki a fenntartott felsőoktatási intézmény azonos mérlegfordulónapra készített számviteli beszámolója mérlegében kimutatott saját tőke könyv szerinti értékét a tőkeváltozással szemben.
+
 (5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának napján munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
 
 (6) Az (5) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első

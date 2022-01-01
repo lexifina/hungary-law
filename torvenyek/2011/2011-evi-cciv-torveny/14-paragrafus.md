@@ -16,14 +16,24 @@ e) szakirányú továbbképzés esetén székhelyén kívüli képzési hely tel
 
 folytathat tevékenységet.
 
-(3) A felsőoktatási intézmény nem oktatási szervezeti egységei intézményi központtá szervezhetők. Az állami felsőoktatási intézmény és a Magyarországon nyilvántartásba vett vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény által fenntartott köznevelési intézmény vagy szakképző intézmény a felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egysége. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény és szakképző intézmény a Kormány által a miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátásra kijelölt szervnél – a köznevelési intézmény alapító okiratának a fenntartó általi benyújtásával – az oktatási hivatal, a Kormány által a miniszter szakképzési feladatkörébe tartozó egyes feladatainak ellátásra kijelölt szervnél – a szakképző intézmény alapító okiratának a fenntartó általi benyújtásával – a szakképzési államigazgatási szerv nyilvántartásába való bejegyzéssel jön létre és a nyilvántartásból való törléssel szűnik meg. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény és szakképző intézmény vezetőjének a munkáltatója a rektor, további alkalmazottjai tekintetében – a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével – a köznevelési intézmény és szakképző intézmény vezetője gyakorolja a munkáltatói jogokat.
+(3) A felsőoktatási intézmény nem oktatási szervezeti egységei intézményi központtá szervezhetők.
 
-(3a) A 4. § (4) bekezdése szerinti jogosult az állami felsőoktatási intézmény által fenntartott
+(3a) A felsőoktatási intézmény által fenntartott köznevelési intézmény vagy szakképző intézmény – a felsőoktatási intézmény alapító okiratának ilyen rendelkezése esetén – a felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységeként működhet.
 
-a) köznevelési intézmény tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerint dönt a köznevelési intézmény,
+(3b) A (3) bekezdés szerinti intézményi központra és a (3a) bekezdés szerinti köznevelési intézményre és szakképző intézményre a következő szabályokat kell alkalmazni:
 
-b) szakképző intézmény tekintetében a szakképzésről szóló törvény szerint dönt a szakképző intézmény
+a) a fenntartói jogok gyakorlására a 4. § (2) és (4) bekezdése alapján jogosult személy a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerint dönt a köznevelési intézmény tekintetében, a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) szerint dönt a szakképző intézmény tekintetében annak létesítéséről, nevének megállapításáról, átszervezéséről, átalakításáról, fenntartói jogának átadásáról, megszüntetéséről,
 
-létesítéséről, nevének megállapításáról, átszervezéséről, átalakításáról, fenntartói jogának átadásáról, megszüntetéséről.
+b) a köznevelési intézmény az oktatási hivatal, a szakképző intézmény a szakképzési államigazgatási szerv általi nyilvántartásba vétellel jön létre és a nyilvántartásból való törléssel szűnik meg,
 
-(4) A felsőoktatási intézményben – szervezeti és működési szabályzatában meghatározottak szerint – gazdasági tanács működtethető.
+c) a köznevelési intézmény és a szakképző intézmény vezetőjének a munkáltatója a rektor, további alkalmazottjai tekintetében – a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével – a köznevelési intézmény és a szakképző intézmény vezetője gyakorolja a munkáltatói jogokat,
+
+d) a felsőoktatási intézmény és a köznevelési intézmény, illetve a szakképző intézmény között nem keletkezhet magánjogi kötelem, és egymással szemben bármilyen igény, szankció sem bírói, sem más úton nem érvényesíthető,
+
+e) a köznevelési intézmény és a szakképző intézmény a felsőoktatási intézményen kívüli harmadik személyek irányában jogszabályban meghatározott korlátozásokkal szerezhet jogokat és vállalhat kötelezettségeket,
+
+f) a köznevelési intézmény és a szakképző intézmény kötelezettségeiért a felsőoktatási intézmény áll helyt,
+
+g) a köznevelési intézmény és a szakképző intézmény az általa vállalt kötelezettségek tekintetében csak a felsőoktatási intézménnyel együtt perelhető, a köznevelési intézmény, illetve a szakképző intézmény által indított perbe a felsőoktatási intézmény beavatkozhat.
+
+(4)

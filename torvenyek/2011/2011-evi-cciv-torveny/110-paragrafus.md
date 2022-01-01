@@ -90,6 +90,8 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 28. az átalakulással érintett felsőoktatási intézmény által fenntartott jogi személyiségű szervezeti egységként működtetett köznevelési intézmény jogutódlásával kapcsolatos egyedi kérdéseket.
 
+29. az alapnormatíva képzési területenként alkalmazandó súlyszorzóját.
+
 (2) Felhatalmazást kap a Kormány, hogy
 
 a) a felsőoktatási intézmények nyilvántartását vezető szervet,
