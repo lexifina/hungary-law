@@ -48,7 +48,7 @@ c) gondoskodik a helyszín biztosításáról és a további megsemmisülés meg
 
 a) a benyújtott bizonyítékok alapján bírálja el, hogy milyen mennyiség minősül a 3. § (1) bekezdés 45. pont a) alpontja szerint teljesen megsemmisültnek vagy helyrehozhatatlanul károsodottnak,
 
-b) legfeljebb a végrehajtási rendeletben, csendes és habzóbor esetében az agrárpolitikáért felelős miniszter rendeletében meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
+b) legfeljebb a végrehajtási rendeletben, csendes és habzóbor esetében a Btv. végrehajtására kiadott jogszabályban meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
 
 (4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.
 

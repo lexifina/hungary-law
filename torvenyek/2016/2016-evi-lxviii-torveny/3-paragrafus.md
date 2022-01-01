@@ -340,7 +340,7 @@ c) a 2207 10 00-2208 90 99 KN-kód szerinti terméket oldott vagy oldatlan álla
 
 5. borászati melléktermék: a szőlőfeldolgozás és a borkészítés során keletkező melléktermék;
 
-6. borkísérő okmány: az agrárpolitikáért felelős miniszter rendeletében megállapított tartalmú, formanyomtatványként vagy számítógéppel előállított bizonylat;
+6. borkísérő okmány: a szőlészetről és borászatról szóló törvény (a továbbiakban: Btv.) végrehajtására kiadott jogszabályban megállapított tartalmú, formanyomtatványként vagy számítógéppel előállított bizonylat;
 
 7. borpiaci év: augusztus 1-jétől július 31-ig terjedő időszak;
 
