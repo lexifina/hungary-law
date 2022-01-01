@@ -32,4 +32,6 @@ c) az egyéb kötöttpályás közlekedési rendszer üzemeltetési szabályzat�
 
 d) a közlekedési hatóság és a vasúti igazgatási szerv eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, továbbá az azok megfizetésére, a közlekedési hatóság, valamint a vasúti igazgatási szerv és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
 
+e) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakör betöltéséhez szükséges vizsgán való részvételért fizetendő díjak körét és mértékét, valamint azok megfizetésére vonatkozó részletes szabályokat
+
 rendeletben állapítsa meg.
