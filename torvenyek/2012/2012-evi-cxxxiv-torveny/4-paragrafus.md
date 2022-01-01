@@ -32,7 +32,7 @@ i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a
 
 j) jogszabályban meghatározottak szerint fogadja a dohányboltban forgalmazható termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
 
-k) a Jöt. alapján a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és továbbítja, és
+k) a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
 
 l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyek kötelezettségeit ellenőrzi.
 

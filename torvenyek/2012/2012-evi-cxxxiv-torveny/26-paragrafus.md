@@ -10,4 +10,6 @@ d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorú
 
 e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
 
+f) a dohánytermék-kiskereskedelmi tevékenységet folytatók nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a dohánytermékek árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére
+
 vonatkozó részletes szabályokat rendeletben megállapítsa.
