@@ -56,9 +56,11 @@ c) a központosított közbeszerzési rendszerbe önként csatlakozó, az a) és
 
 (2m)[^19]
 
-(3)[^20] A központosított közbeszerzési rendszerhez önként csatlakozó, a közbeszerzési törvény hatálya alá tartozó szervezetek a csatlakozás által érintett közbeszerzéseik megvalósítása során e rendelet előírásai szerint kötelesek eljárni.
+(2n)[^20] Nem kell alkalmazni e rendelet előírásait a Földmegfigyelési Információs Rendszerről szóló törvény végrehajtásáról és a kereskedelmi űrfelvétel beszerzések központosított közbeszerzési rendszeréről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 769/2021. (XII. 23.) Korm. rendelet szerinti beszerzések tekintetében.
 
-(4)[^21] A központosított közbeszerzési rendszerbe regisztrált szervezetek jogaik gyakorlása, kötelezettségeik teljesítése során e rendelet előírásai szerint kötelesek eljárni.
+(3)[^21] A központosított közbeszerzési rendszerhez önként csatlakozó, a közbeszerzési törvény hatálya alá tartozó szervezetek a csatlakozás által érintett közbeszerzéseik megvalósítása során e rendelet előírásai szerint kötelesek eljárni.
+
+(4)[^22] A központosított közbeszerzési rendszerbe regisztrált szervezetek jogaik gyakorlása, kötelezettségeik teljesítése során e rendelet előírásai szerint kötelesek eljárni.
 
 [^1]: Az 1. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 266. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 204/2019. (VIII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
@@ -79,5 +81,6 @@ c) a központosított közbeszerzési rendszerbe önként csatlakozó, az a) és
 [^17]: Az 1. § (2k) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^18]: Az 1. § (2l) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^19]: Az 1. § (2m) bekezdését a 41/2021. (II. 2.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 771/2021. (XII. 23.) Korm. rendelet 11. § a) pontja.
-[^20]: Az 1. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 41/2021. (II. 2.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^21]: Az 1. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 1. § (2n) bekezdését a 769/2021. (XII. 23.) Korm. rendelet 27. §-a iktatta be.
+[^21]: Az 1. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 41/2021. (II. 2.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^22]: Az 1. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
