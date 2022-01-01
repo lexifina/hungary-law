@@ -8,9 +8,9 @@ b) szakhatósági eljárásokért a 2. mellékletben
 
 meghatározott igazgatási szolgáltatási díjat fizet.
 
-(2)[^1]
+(2)[^2]
 
-(3)[^2]
+(3)[^3]
 
-[^1]: Az 1. § (2) bekezdését a 22/2020. (VI. 29.) ITM rendelet 23. § a) pontja hatályon kívül helyezte.
-[^2]: Az 1. § (3) bekezdését a 22/2020. (VI. 29.) ITM rendelet 23. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (2) bekezdését a 22/2020. (VI. 29.) ITM rendelet 23. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdését a 22/2020. (VI. 29.) ITM rendelet 23. § a) pontja hatályon kívül helyezte.

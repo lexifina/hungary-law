@@ -302,6 +302,6 @@
 
 | 11. | a 2-11. pontban felsorolt engedélyek módosítása |  | az irányadó díjtétel 50 %-a | az irányadó díjtétel kódszáma |
 
-2. melléklet a 78/2015. (XII. 30.) NFM rendelethez[^16]
+2. melléklet a 78/2015. (XII. 30.) NFM rendelethez[^15]
 
-[^16]: A 2. melléklet az 1/2017. (I. 3.) NFM rendelet 68. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 2. melléklet az 1/2017. (I. 3.) NFM rendelet 68. § (2) bekezdése szerint módosított szöveg.

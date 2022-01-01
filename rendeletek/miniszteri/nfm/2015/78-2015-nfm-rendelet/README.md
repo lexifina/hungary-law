@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-78-20-2
 | 2017-07-01 | 2015-78-20-2W.8 | 24/2017. (VI. 30.) NFM rendelet |
 | 2018-01-01 | 2015-78-20-2W.9 | 52/2017. (XII. 22.) NFM rendelet |
 | 2020-06-30 | 2015-78-20-2W.10 | 22/2020. (VI. 29.) ITM rendelet |
+| 2022-01-01 | 2015-78-20-2W.11 | 71/2021. (XII. 30.) ITM rendelet |
