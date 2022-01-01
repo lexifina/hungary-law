@@ -1,0 +1,1 @@
+4/C. § Az 1/D. melléklet szerinti ingatlanok tekintetében a tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló miniszter készíti el és köti meg.

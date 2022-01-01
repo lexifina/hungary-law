@@ -359,3 +359,23 @@ ZAMÁRDI
 |
 
 kivett üdülőépület, udvar
+
+|
+
+18
+
+|
+
+BUDAPEST
+
+|
+
+36559/4
+
+|
+
+1/1
+
+|
+
+kivett lakóház, udvar

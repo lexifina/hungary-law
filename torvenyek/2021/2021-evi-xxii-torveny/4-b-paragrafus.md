@@ -1,0 +1,5 @@
+4/B. § (1) Az 1/D. mellékletben szereplő ingatlanokat a magyar állam tulajdonszerzését követően alapítói vagyoni juttatásként indulótőke növelése érdekében, ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatában meghatározott közfeladata ellátása érdekében az Alapítvány tulajdonába kell adni.
+
+(2) Az 1/D. mellékletben szereplő ingatlanok tulajdonjogát az Alapítvány terhekkel és kötelezettségekkel együtt szerzi meg.
+
+(3) Az Alapítvány a tulajdonába adott ingatlant – az (1) és (2) bekezdésben foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
