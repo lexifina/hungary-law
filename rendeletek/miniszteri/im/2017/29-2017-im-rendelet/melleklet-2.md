@@ -22,7 +22,9 @@
 
 1.9. elérhetőség
 
-1.10. nem magyar állampolgár esetén Magyarország területén tartózkodásának jogcíme
+1.10. elsődleges kapcsolattartási mód
+
+1.11. nem magyar állampolgár esetén a Magyarország területén tartózkodásának jogcíme
 
 2. A kérelem benyújtásának alapjául szolgáló bűncselekményre vonatkozó adatok
 
@@ -100,4 +102,4 @@
 
 6. Tájékoztató
 
-[^8]: A 2. melléklet a 18/2020. (XII. 29.) IM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. melléklet a 18/2020. (XII. 29.) IM rendelet 11. § (2) bekezdésével megállapított, a 18/2021. (XII. 23.) IM rendelet 25. § (2) bekezdése szerint módosított szöveg.

@@ -22,6 +22,8 @@
 
 1.9. elérhetőség
 
+1.10. elsődleges kapcsolattartási mód
+
 2. A kérelem benyújtásának alapjául szolgáló bűncselekményre, tulajdon elleni szabálysértésre vonatkozó adatok
 
 2.1. a bűncselekmény, tulajdon elleni szabálysértés
@@ -56,4 +58,4 @@
 
 5. Tájékoztató
 
-[^9]: A 3. mellékletet a 18/2020. (XII. 29.) IM rendelet 11. § (3) bekezdése iktatta be.
+[^9]: A 3. mellékletet a 18/2020. (XII. 29.) IM rendelet 11. § (3) bekezdése iktatta be, szövege a 18/2021. (XII. 23.) IM rendelet 25. § (3) bekezdése szerint módosított szöveg.
