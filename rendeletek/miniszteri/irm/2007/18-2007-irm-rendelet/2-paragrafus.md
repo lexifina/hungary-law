@@ -28,7 +28,7 @@ Országok és szakmai megnevezések
 
 | 6. | Dánia | Advokat |
 
-| 7. | Egyesült Királyság | Advocate/Barrister/Solicitor |
+| 7. |  |  |
 
 | 8. | Észtország | Vandeadvokaat |
 
@@ -81,4 +81,4 @@ Országok és szakmai megnevezések
 [^1]: Az 1. § a 20/2017. (XII. 21.) IM rendelet 24. §-ával megállapított szöveg.
 [^2]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 19. pontja hatályon kívül helyezte, újonnan a 27/2013. (XI. 6.) KIM rendelet 1. §-a iktatta be.
 [^3]: A 2. § (3) bekezdését a 27/2013. (XI. 6.) KIM rendelet 1. §-a iktatta be.
-[^4]: A melléklet a 27/2013. (XI. 6.) KIM rendelet 2. §-ával megállapított szöveg.
+[^4]: A melléklet a 27/2013. (XI. 6.) KIM rendelet 2. §-ával megállapított, a 18/2021. (XII. 23.) IM rendelet 13. §-a szerint módosított szöveg.
