@@ -1,3 +1,3 @@
-## 10. §[^10]
+## 10. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 130. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: A 10. § a 19. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „(2) Az (1) bekezdésben foglaltaktól való eltérést (e § alkalmazásában a továbbiakban: előrehozás) a Kincstár engedélyezhet.”
