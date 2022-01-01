@@ -1,3 +1,5 @@
-## 31. Az Szkt. 26. § (8) bekezdéséhez
+## 31.[^96]
 
-87. § A főigazgató, a kancellár, az igazgató és e személyek hozzátartozója nem lehet a részesedéssel érintett ágazati képzőközpont, illetve tudásközpont vezető tisztségviselője, könyvvizsgálója és felügyelő bizottsági tagja.
+87. §
+
+[^96]: A 31. alcímet (87. §-t) a 800/2021. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

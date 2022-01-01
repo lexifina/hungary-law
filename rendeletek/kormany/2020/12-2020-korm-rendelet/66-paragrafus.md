@@ -1,6 +1,6 @@
 ## XI. Fejezet
 
-## A SZAKKÉPZŐ INTÉZMÉNY FENNTARTÓI IRÁNYÍTÁSI HATÁSKÖRÉNEK ÁTADÁSA, MEGSZÜNTETÉSE ÉS ÁTSZERVEZÉSE[^71]
+## A SZAKKÉPZŐ INTÉZMÉNY FENNTARTÓI IRÁNYÍTÁSI HATÁSKÖRÉNEK ÁTADÁSA, MEGSZÜNTETÉSE ÉS ÁTSZERVEZÉSE[^78]
 
 ## 22. Az Szkt. 23. §-ához
 
@@ -12,11 +12,11 @@ a) szakképző intézmény nem indítható és nem szüntethető meg,
 
 b) – a szakképzési alapfeladat ellátását szolgáló ingatlan rendeltetésszerű használatra alkalmatlanná válása vagy birtokba vételére vonatkozó más körülmény felmerülése kivételével – szakképző intézmény nem szervezhető át,
 
-c)[^72] – jogszabály eltérő rendelkezése, a fenntartó személyében történő jogutódlás vagy a fenntartó más okból történő átalakítása vagy megszűnése kivételével – a szakképző intézmény tekintetében a fenntartói irányítási hatáskör másnak nem adható át.
+c)[^79] – jogszabály eltérő rendelkezése, a fenntartó személyében történő jogutódlás vagy a fenntartó más okból történő átalakítása vagy megszűnése kivételével – a szakképző intézmény tekintetében a fenntartói irányítási hatáskör másnak nem adható át.
 
 (3) A szakképzési államigazgatási szerv – a fenntartó kérésére – engedélyezheti a szakképző intézmény székhelyének, illetve telephelyének tanítási évben más, előre nem látható okból történő megváltoztatását.
 
 (4) Többcélú szakképző intézmény esetén az e §-ban foglaltakat csak az érintett intézményegység vonatkozásában kell alkalmazni.
 
-[^71]: A XI. fejezet címe a 380/2021. (VI. 30.) Korm. rendelet 58. § 30. pontja szerint módosított szöveg.
-[^72]: A 66. § (2) bekezdés c) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 31. pontja szerint módosított szöveg.
+[^78]: A XI. fejezet címe a 380/2021. (VI. 30.) Korm. rendelet 58. § 30. pontja szerint módosított szöveg.
+[^79]: A 66. § (2) bekezdés c) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 31. pontja szerint módosított szöveg.

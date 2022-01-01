@@ -68,9 +68,9 @@ c) az egészségügyi alkalmassági követelményt – a tevékenység végzése
 
 d) a gyakorlati idő és más feltétel előírását a megszerezhető kompetencia indokolja.
 
-(3)[^32] A programkövetelmény nem vehető nyilvántartásba, ha a programkövetelmény alapján megszerezhető szakképesítés szakmai kompetenciái a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott kompetenciáinak több mint negyven százalékával azonos vagy hasonló, kivéve, ha az a szakmához kapcsolódó szakmai kompetenciák magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek megszerzésére irányul.
+(3)[^33] A programkövetelmény nem vehető nyilvántartásba, ha a programkövetelmény alapján megszerezhető szakképesítés szakmai kompetenciái a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott kompetenciáinak több mint negyven százalékával azonos vagy hasonló, kivéve, ha az a szakmához kapcsolódó szakmai kompetenciák magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek megszerzésére irányul.
 
-(4)[^33] A (3) bekezdésben foglaltaktól eltérően – az ágazatért felelős miniszter kezdeményezésére – a szakképzésért felelős miniszter a programkövetelményt indokolt esetben akkor is nyilvántartásba veheti, ha a szakmajegyzékben szereplő szakma képzési és kimeneti követelményében meghatározott szakmai kompetenciák vonatkozásában negyven százaléknál nagyobb azonosságot vagy hasonlóságot mutatnak.
+(4)[^34] A (3) bekezdésben foglaltaktól eltérően – az ágazatért felelős miniszter kezdeményezésére – a szakképzésért felelős miniszter a programkövetelményt indokolt esetben akkor is nyilvántartásba veheti, ha a szakmajegyzékben szereplő szakma képzési és kimeneti követelményében meghatározott szakmai kompetenciák vonatkozásában negyven százaléknál nagyobb azonosságot vagy hasonlóságot mutatnak.
 
-[^32]: A 18. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 14. pontja szerint módosított szöveg.
-[^33]: A 18. § (4) bekezdését a 223/2020. (V. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 380/2021. (VI. 30.) Korm. rendelet 58. § 15. pontja szerint módosított szöveg.
+[^33]: A 18. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 14. pontja szerint módosított szöveg.
+[^34]: A 18. § (4) bekezdését a 223/2020. (V. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 380/2021. (VI. 30.) Korm. rendelet 58. § 15. pontja szerint módosított szöveg.

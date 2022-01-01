@@ -1,5 +1,5 @@
-## 30. Az Szkt. 26. § (7) bekezdéséhez
+## 30.[^95]
 
-86. § (1) A szakképzési centrum által az állami szakképző intézmény szakképzési alapfeladatainak ellátását szolgáló ingatlan bérbeadásához szükség van az érintett szakképző intézmény vezetőjének előzetes véleményére.
+86. §
 
-(2) A szakképzési centrum együttműködik a települési önkormányzattal a helyi közösségi és kulturális élet feltételeinek biztosítása érdekében oly módon, hogy a vagyonkezelésében lévő, a települési önkormányzati tulajdonában álló ingatlan használatát tanítási időn kívül és a szakképző intézmény szakmai programjában, továbbá jogszabályban meghatározott feladatok végrehajtásának biztosítása mellett külön megállapodás alapján ingyenesen biztosítja a tulajdonos települési önkormányzat számára. A megállapodás megkötéséhez szükség van az érintett szakképző intézmény vezetőjének előzetes véleményére.
+[^95]: A 30. alcímet (86. §-t) a 800/2021. (XII. 28.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.

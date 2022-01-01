@@ -1,3 +1,3 @@
-181/A. §[^140] A szakképző intézmény tizedik évfolyamán a tanuló szövegértési és matematikai eszköztudás fejlődését az Nkt. szerint kell mérni és értékelni.
+181/A. §[^179] A szakképző intézmény tizedik évfolyamán a tanuló szövegértési és matematikai eszköztudás fejlődését az Nkt. szerint kell mérni és értékelni.
 
-[^140]: A 181/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 32. §-a iktatta be.
+[^179]: A 181/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 32. §-a iktatta be.

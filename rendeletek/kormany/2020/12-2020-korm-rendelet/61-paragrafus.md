@@ -2,7 +2,7 @@
 
 a) a szakképző intézmény
 
-aa)[^62] hivatalos nevét magyar nyelven,
+aa)[^69] hivatalos nevét magyar nyelven,
 
 ab) székhelyét, telephelyét,
 
@@ -10,9 +10,9 @@ b) a szakképzésialapfeladat-ellátással összefüggésben
 
 ba) szakképzési alapfeladatának jogszabály szerinti megnevezését,
 
-bb)[^63] költségvetési szervként működő szakképző intézmény esetében alaptevékenységének és további tevékenységi köreinek kormányzati funkció szerinti megjelölését,
+bb)[^70] költségvetési szervként működő szakképző intézmény esetében alaptevékenységének és további tevékenységi köreinek kormányzati funkció szerinti megjelölését,
 
-bc)[^64]
+bc)[^71]
 
 bd) az önálló költségvetéssel rendelkező szakképző intézmény esetében a gazdálkodással összefüggő jogosítványokat, valamint
 
@@ -30,7 +30,7 @@ c) megszűnésének időpontját vagy pontos feltételét, ha a szakképző int�
 
 a) szakképző intézményenként tartalmazza a szakképző intézmény
 
-aa)[^65] hivatalos nevét,
+aa)[^72] hivatalos nevét,
 
 ab) címét,
 
@@ -38,15 +38,15 @@ ac) szakképzési alapfeladatának és annak fennállása esetén köznevelési 
 
 b) összevontan tartalmazza
 
-ba)[^66] a szakképző intézmény alaptevékenységének és további tevékenységi köreinek jogszabály szerinti megnevezését és kormányzati funkció szerinti megjelölését,
+ba)[^73] a szakképző intézmény alaptevékenységének és további tevékenységi köreinek jogszabály szerinti megnevezését és kormányzati funkció szerinti megjelölését,
 
 bb) a szakképző intézmény vezetőjének megbízási rendjét.
 
-(4)[^67] A többcélú szakképző intézmény alapító okiratában a szakképzési alapfeladat mellett fel kell tüntetni az általa ellátott köznevelési alapfeladat jogszabály szerinti megjelölését is.
+(4)[^74] A többcélú szakképző intézmény alapító okiratában a szakképzési alapfeladat mellett fel kell tüntetni az általa ellátott köznevelési alapfeladat jogszabály szerinti megjelölését is.
 
-[^62]: A 61. § (1) bekezdés a) pont aa) alpontja a 319/2020. (VII. 1.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
-[^63]: A 61. § (1) bekezdés b) pont bb) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 4. pontja szerint módosított szöveg.
-[^64]: A 61. § (1) bekezdés b) pont bc) alpontját a 319/2020. (VII. 1.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
-[^65]: A 61. § (3) bekezdés a) pont aa) alpontja a 319/2020. (VII. 1.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^66]: A 61. § (3) bekezdés b) pont ba) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 5. pontja szerint módosított szöveg.
-[^67]: A 61. § (4) bekezdését a 319/2020. (VII. 1.) Korm. rendelet 4. §-a iktatta be.
+[^69]: A 61. § (1) bekezdés a) pont aa) alpontja a 319/2020. (VII. 1.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^70]: A 61. § (1) bekezdés b) pont bb) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 4. pontja szerint módosított szöveg.
+[^71]: A 61. § (1) bekezdés b) pont bc) alpontját a 319/2020. (VII. 1.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
+[^72]: A 61. § (3) bekezdés a) pont aa) alpontja a 319/2020. (VII. 1.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^73]: A 61. § (3) bekezdés b) pont ba) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 5. pontja szerint módosított szöveg.
+[^74]: A 61. § (4) bekezdését a 319/2020. (VII. 1.) Korm. rendelet 4. §-a iktatta be.

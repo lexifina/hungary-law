@@ -1,4 +1,4 @@
-28. § (1)[^42] A törzslap
+28. § (1)[^45] A törzslap
 
 a) a tanulókról, illetve a képzésben részt vevő személyekről külön-külön kiállított egyéni törzslapokból és
 
@@ -30,7 +30,7 @@ i) a tanulmányok alatti vizsgára vonatkozó adatokat, és
 
 j) a tanulót, illetve a képzésben részt vevő személyt érintő gyermekvédelmi intézkedéssel, hátrányos helyzet, halmozottan hátrányos helyzet megállapításával kapcsolatos és tanulói jogviszonyából, illetve felnőttképzési jogviszonyából következő döntéseket, határozatokat, záradékokat.
 
-(4)[^43] A beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy tekintetében a törzslapon fel kell tüntetni a szakértői véleményt kiállító szakértői bizottság nevét, címét, a szakértői vélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
+(4)[^46] A beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy tekintetében a törzslapon fel kell tüntetni a szakértői véleményt kiállító szakértői bizottság nevét, címét, a szakértői vélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
 
 (5) Az egyéni törzslapokat a tanulói jogviszony, illetve a felnőttképzési jogviszony megszűnését követően a törzslap külívének teljes lezárása után szétválaszthatatlanul össze kell fűzni, és ilyen módon kell tárolni.
 
@@ -48,5 +48,5 @@ d) a törzslap külívének lezárásakor hatályos osztálynévsort (a tanuló,
 
 (8) A megsemmisült vagy elveszett törzslap helyett – a rendelkezésre álló iratok, adatok alapján – póttörzslapot kell kiállítani.
 
-[^42]: A 28. § (1) bekezdés záró szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 20. pontja szerint módosított szöveg.
-[^43]: A 28. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 21. pontja szerint módosított szöveg.
+[^45]: A 28. § (1) bekezdés záró szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 20. pontja szerint módosított szöveg.
+[^46]: A 28. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 21. pontja szerint módosított szöveg.

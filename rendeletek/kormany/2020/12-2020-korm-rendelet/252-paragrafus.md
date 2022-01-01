@@ -1,6 +1,6 @@
-## 84. [^167] Az Szkt. 84. §-ához
+## 84. [^206] Az Szkt. 84. §-ához
 
-252. §[^168] A napi szakirányú oktatási időt arányosan csökkenteni kell, ha a szakirányú oktatás rendszeresen olyan helyszínen történik, ahol a duális képzőhellyel munkaviszonyban álló munkavállalókat olyan munkarendben foglalkoztatják, amely nyolcórásnál rövidebb munkaidő-beosztást ír elő.
+252. §[^207] A napi szakirányú oktatási időt arányosan csökkenteni kell, ha a szakirányú oktatás rendszeresen olyan helyszínen történik, ahol a duális képzőhellyel munkaviszonyban álló munkavállalókat olyan munkarendben foglalkoztatják, amely nyolcórásnál rövidebb munkaidő-beosztást ír elő.
 
-[^167]: A 84. alcím címe a 380/2021. (VI. 30.) Korm. rendelet 58. § 62. pontja szerint módosított szöveg.
-[^168]: A 252. § a 380/2021. (VI. 30.) Korm. rendelet 58. § 63. pontja szerint módosított szöveg.
+[^206]: A 84. alcím címe a 380/2021. (VI. 30.) Korm. rendelet 58. § 62. pontja szerint módosított szöveg.
+[^207]: A 252. § a 380/2021. (VI. 30.) Korm. rendelet 58. § 63. pontja szerint módosított szöveg.
