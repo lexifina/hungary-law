@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-9-20-85
 | 2018-02-06 | 1999-9-20-85.30 | 7/2018. (II. 5.) EMMI rendelet |
 | 2019-02-28 | 1999-9-20-85.31 | 4/2019. (II. 27.) EMMI rendelet |
 | 2020-02-09 | 1999-9-20-85.32 | 27/2010. (XII. 30.) NEFMI rendelet |
+| 2022-01-01 | 1999-9-20-85.33 | 1/2017. (II. 14.) EMMI rendelet |
