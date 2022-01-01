@@ -1,4 +1,4 @@
-## 11. A tájékoztatás
+## 11. A tájékoztatás és a bejelentés
 
 14. § (1) A felek kölcsönösen kötelesek egymást minden olyan tényről, adatról, körülményről vagy ezek változásáról tájékoztatni, amely a szolgálati viszony létesítése, módosítása vagy megszüntetése, valamint az e törvényben meghatározott jogok gyakorlása és a kötelezettségek teljesítése szempontjából lényeges.
 

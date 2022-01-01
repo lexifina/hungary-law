@@ -10,7 +10,7 @@ c) az állomány azon tagja, aki nem katonai oktatási intézményben teljesít 
 
 d) a hivatásos állomány azon tagja, aki a KNBSZ-nél teljesít szolgálatot, a vezénylés időtartamára,
 
-e) az állomány azon tagja, aki külföldön teljesít szolgálatot, melynek időtartama egybefüggően meghaladja az 1 évet, a vezénylés időtartamára, vagy aki 1 évet meghaladó időtartamra hosszabbított külföldi szolgálatot, a meghosszabbítástól annak megszűnéséig,
+e) az állomány azon tagja, aki külföldön teljesít szolgálatot, melynek időtartama egybefüggően meghaladja az 1 évet, a vezénylés időtartamára, vagy aki 1 évet meghaladó időtartamra hosszabbított külföldi szolgálatot, a meghosszabbítástól annak megszűnéséig, ide nem értve azt, aki a külföldi szolgálat időtartama alatt honvédelmi szervezetnél szolgálati beosztást tölt be,
 
 f) az állomány azon tagja, akivel szemben az a)–e), j), m) pont vagy az 58/A. § (2) bekezdése szerinti ok megszűnt vagy megszüntetésre került, illetve akinek az 58/E. § szerinti kirendelése megszűnt, vagy megszüntetésre került, feltéve, hogy szolgálati viszonyban történő továbbfoglalkoztatásra tervezett, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig,
 

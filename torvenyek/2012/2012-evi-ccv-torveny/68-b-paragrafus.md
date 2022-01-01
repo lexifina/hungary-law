@@ -14,6 +14,8 @@ c) szolgálati viszonya a felajánlott másik, egészségi állapotának megfele
 
 és az ennek megfelelően megállapított új illetménye vagy munkabére alacsonyabb az e törvény szerint megállapított korábbi illetményénél.
 
+(4a) Katonai bírói tisztségre vagy ügyészségi alkalmazotti munkakörbe történt vezénylés esetén a (4) bekezdés szerinti határidőt az alkalmatlanság miniszteri rendeletben meghatározott módon történő ismételt megállapításától, vagy ha az ismételt alkalmassági vizsgálat nem kötelező, akkor a vezénylés megszűnésétől kell számítani.
+
 (5) A (4) bekezdés b) pontja alapján megállapított honvédelmi egészségkárosodási keresetkiegészítés esetén felmentés helyett a törvény erejénél fogva szűnik meg az állomány tagjának szolgálati viszonya.
 
 (6) Az állomány tagja a felajánlott szolgálati beosztás, munkakör elfogadásáról vagy elutasításáról a felajánlástól számított öt munkanapon belül írásban nyilatkozik. Ha az állomány tagja öt munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott beosztást, munkakört elutasította volna. Ha az állomány tagja az (1) bekezdés szerinti eljárásban felajánlott szolgálati beosztást, munkakört nem fogadja el, egészségkárosodási ellátásra nem jogosult, és a szolgálati viszonyát felmentéssel kell megszüntetni.

@@ -26,6 +26,8 @@ b) az (1) bekezdés b) pontja szerinti térítésmentes élelmezési és ruháza
 
 jogosult.
 
+(1d) Az (1) és (1c) bekezdéstől eltérően a 214. § (1a) bekezdése szerinti önkéntes tartalékos katona számára a tényleges szolgálatteljesítésének jellegére tekintettel laktanyai elhelyezés is biztosítható.
+
 (2) Ha a szolgálati járandóságban részesülő önkéntes tartalékos katona tényleges szolgálatteljesítése évente
 
 a) a 60 napot nem haladja meg, akkor távolléti díjba tartozó illetményelemekre nem jogosult,

@@ -38,13 +38,13 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 12a. honvédelmi illetményalap: az évente, a központi költségvetésről szóló törvényben megállapított honvédelmi illetményalap, amely nem lehet alacsonyabb összegű az előző évi honvédelmi illetményalapnál,
 
-12b. honvédségi ösztöndíjas hallgató: az állomány tagjának, honvéd tisztjelöltnek és honvéd altiszt-jelöltnek nem minősülő személy,
+12b. honvédségi ösztöndíjas hallgató: az állomány tagjának, honvéd tisztjelöltnek és honvéd altiszt-jelöltnek, valamint honvédelmi alkalmazottnak nem minősülő személy,
 
 a) aki:
 
-aa) felsőoktatási intézmény nappali munkarendű felsőfokú alapképzésében, mesterképzésében vagy osztatlan képzésében tanulmányokat folytat, vagy iskolai rendszerű, nappali munkarendű szakképzés keretében az Országos Képzési Jegyzékben szereplő államilag elismert szakképesítések közül honvédelmi szervezetnél rendszeresített katonai beosztások betöltéséhez szükséges szakképesítést szerez meg, vagy
+aa) felsőoktatási intézmény nappali munkarendű felsőfokú alapképzésében, mesterképzésében vagy osztatlan képzésében tanulmányokat folytat, vagy iskolai rendszerű, nappali munkarendű szakképzés keretében a szakmajegyzékben szereplő államilag elismert szakképesítések közül honvédelmi szervezetnél rendszeresített katonai beosztások betöltéséhez szükséges szakképesítést szerez meg, vagy
 
-ab) iskolarendszerű, esti, levelező munkarendű vagy távoktatásos formában szakképzés keretében az Országos Képzési Jegyzékben szereplő államilag elismert szakképesítések közül honvédelmi szervezetnél rendszeresített katonai beosztások betöltéséhez szükséges és az adott ösztöndíjprogram szerinti hiányszakmára képesítést szerez, és
+ab) iskolarendszerű, esti, levelező munkarendű vagy távoktatásos formában szakképzés keretében a szakmajegyzékben szereplő államilag elismert szakképesítések közül honvédelmi szervezetnél rendszeresített katonai beosztások betöltéséhez szükséges és az adott ösztöndíjprogram szerinti hiányszakmára képesítést szerez, és
 
 b) akinek tanulmányait a miniszter által alapított ösztöndíj elnyerését követően a honvédelmi szervezet ösztöndíjszerződés alapján támogatja, és ezért ösztöndíjszerződésben vállalja, hogy tanulmányait meghatározott időn belül befejezi, valamint ezt követően az ösztöndíjszerződésben meghatározottak szerint szolgálati viszonyt létesít, és azt meghatározott ideig fenntartja,
 
@@ -80,7 +80,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 25. Magyarországon települő katonai szervezet: nemzetközi szervezet döntése vagy nemzetközi megállapodás alapján létrehozott, Magyarországon települő olyan szervezet vagy alakulat, amely a létrehozó szervezet tagállamai vagy a részes államok érdekében katonai feladatot hajt végre,
 
-26. más szerv: a tudományos intézmények, a kutató intézetek, az egészségügyi intézmények, a bírósági szervezet, a bíróságok igazgatási feladatait ellátó szervezet, az ügyészi szervezet, a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, a minisztériumok, kivéve a honvédelemért felelős miniszter által vezetett minisztériumot, a kormányzati főhivatalok, a központi hivatalok, az autonóm államigazgatási szervek, az önálló szabályozó szervek, rendvédelmi szervek, a felsőoktatási intézmények, a honvédelmi vagy egyéb biztonsági érdeket szolgáló vállalkozások, a Honvédelmi Sportszövetségről szóló törvény alapján létesült köztestület, továbbá a honvédelmi szervezet tevékenységét elősegítő közhasznú szervezetek, egyesületek, kivéve a honvédelmi szervezetnek minősülő szervezeteket, a minisztériumok védelmi igazgatással foglalkozó szervezeti elemeit, valamint a Nemzeti Közszolgálati Egyetemet (a továbbiakban: NKE),
+26. más szerv: a tudományos intézmények, a kutató intézetek, az egészségügyi intézmények, a bírósági szervezet, a bíróságok igazgatási feladatait ellátó szervezet, az ügyészi szervezet, a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, a minisztériumok, kivéve a honvédelemért felelős miniszter által vezetett minisztériumot, a kormányzati főhivatalok, a központi hivatalok, az autonóm államigazgatási szervek, az önálló szabályozó szervek, rendvédelmi szervek, a felsőoktatási intézmények, a honvédelmi vagy egyéb biztonsági érdeket szolgáló vállalkozások, a Honvédelmi Sportszövetségről szóló törvény alapján létesült köztestület, továbbá a honvédelmi szervezet tevékenységét elősegítő közhasznú szervezetek, egyesületek, kivéve a honvédelmi szervezetnek minősülő szervezeteket, valamint a Nemzeti Közszolgálati Egyetemet (a továbbiakban: NKE),
 
 27. megfelelő szolgálati beosztásba helyezés: az az azonos beosztásba áthelyezés vagy magasabb beosztásba kinevezés, amelynek betöltésére az állomány tagja iskolai végzettsége, szakképzettsége, szakképesítése, egyéb felkészültsége, valamint egészségi, pszichikai és fizikai állapota szerint, továbbá nemzetbiztonsági szempontból alkalmas,
 

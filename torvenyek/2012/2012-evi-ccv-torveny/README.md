@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-205-00-00
 | 2020-09-01 | 2020. évi LXV. törvény | 2012-205-00-00.39 |
 | 2021-01-01 | 2020. évi CLII. törvény | 2012-205-00-00.40 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2012-205-00-00.41 |
+| 2022-01-01 | 2021. évi CXLI. törvény | 2012-205-00-00.42 |

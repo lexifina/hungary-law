@@ -1,6 +1,6 @@
 ## 70. Alapilletmény
 
-123. § (1) Az alapilletmény szempontjából az állomány tagja által betölthető szolgálati beosztásokat a beosztás szerinti felelősség, a szervezeti hovatartozás és a vezetői jelleg alapján hét besorolási osztályba kell besorolni. Minden besorolási osztály az egyes rendszeresített rendfokozatok által meghatározott 20-20 besorolási kategóriából áll. A besorolási osztályokat, a besorolási kategóriákat, a rendszeresített rendfokozatokat, valamint az ezekhez tartozó alapilletmény-szorzószámokat az 5. melléklet tartalmazza.
+123. § (1) Az alapilletmény szempontjából az állomány tagja által betölthető szolgálati beosztásokat a beosztás szerinti felelősség, a szervezeti hovatartozás és a vezetői jelleg alapján hat besorolási osztályba kell besorolni. Minden besorolási osztály az egyes rendszeresített rendfokozatok által meghatározott 20-20 besorolási kategóriából áll. A besorolási osztályokat, a besorolási kategóriákat, a rendszeresített rendfokozatokat, valamint az ezekhez tartozó alapilletmény-szorzószámokat az 5. melléklet tartalmazza.
 
 (2) Az egyes szolgálati beosztások besorolási osztályba és besorolási kategóriába történő részletes besorolását a miniszter rendeletben határozza meg.
 
@@ -34,6 +34,16 @@ b) ha az a) pont aa) alpontja alapján nem állapítható meg a besorolás, vagy
 
 kell megállapítani.
 
+(5a) Az állomány bírósági szervezethez, a bíróságok igazgatási feladatait ellátó szervezethez vagy az ügyészi szervezethez vezényelt, a 46. § (1) bekezdés b) pontja, valamint ezen vezénylés megszűnését követően a 46. § (1) bekezdés f)–o), q)–s) és v) pontja alapján rendelkezési állományba tartozó tagjának alapilletményét, ha az az (5) bekezdés alapján nem állapítható meg, vagy ha e szervezeteknél a kinevezése határozatlan idejű,
+
+a) a kijelölt regionális nyomozó ügyészségek, a kijelölt törvényszékek, a Központi Nyomozó Főügyészség, a főügyészségek, illetve a járási (kerületi) ügyészségek esetében az I. besorolási osztály és a viselt rendfokozatnak megfelelő besorolási kategória,
+
+b) a Fővárosi Fellebbviteli Főügyészség és a Fővárosi Ítélőtábla esetében a II. besorolási osztály és a viselt rendfokozatnak megfelelő besorolási kategória,
+
+c) a Legfőbb Ügyészség és az Országos Bírósági Hivatal esetében a III. besorolási osztály és a viselt rendfokozatnak megfelelő besorolási kategória
+
+alapján kell megállapítani, azzal, hogy az alapilletmény összege nem lehet kevesebb, mint a vezénylést megelőző napon érvényes alapilletmény összege.
+
 (6) Kettős rendfokozattal rendszeresített szolgálati beosztásba kinevezéssel, áthelyezéssel, vagy a szolgálati beosztás ellátására történő megbízással egyidejűleg, a munkáltatói jogkört gyakorló dönt a besorolási kategóriáról. A besorolási kategória a szolgálati beosztás betöltésére alkalmas rendfokozatok közül nem lehet alacsonyabb, mint az állomány tagja által viselt rendfokozat, és nem haladhatja meg a rendszeresített rendfokozatot. E szolgálati beosztás betöltése alatt a munkáltatói jogkört gyakorló a besorolási kategóriát – legfeljebb rendszeresített rendfokozathoz tartozó besorolási kategóriáig – kizárólag az érintett javára változtathatja meg.
 
 (6a) Ha az állomány tagjának szolgálati beosztása átszervezés miatt megszűnt, és a részére felajánlott szolgálati beosztás rendszeresített rendfokozata alacsonyabb, mint az állomány tagja által viselt rendfokozat, a 43. § (3a) bekezdése szerinti áthelyezéskor és e szolgálati beosztás betöltésének időtartama alatt az állomány tagjának alapilletményét a viselt rendfokozat szerinti besorolási kategória alapján kell megállapítani.
@@ -48,4 +58,4 @@ a) eltérő besorolási osztály szerint volt jogosult, mint a külföldi szolg�
 
 b) a (4) bekezdés d) vagy e) pontja alapján volt jogosult,
 
-akkor a külföldi szolgálat alatt részére járó alapilletményt a magasabb illetményt biztosító besorolási osztály vagy vezénylő zászlósi vagy felsővezetői beosztási szint szerint kell részére megállapítani.
+akkor a külföldi szolgálat alatt részére járó alapilletményt a magasabb illetményt biztosító besorolási osztály vagy vezénylő zászlósi vagy felsővezetői beosztási szint szerint kell részére megállapítani a külföldi szolgálatra történő vezénylést megelőző napon érvényes szorzószámok alkalmazásával.

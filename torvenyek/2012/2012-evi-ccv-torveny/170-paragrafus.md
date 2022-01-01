@@ -10,6 +10,8 @@ c) a kárt, ha a kártérítési eljárást a munkáltatói jogkört gyakorló a
 
 d) a kárt, ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 79/C. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető.
 
+e) a kárt, ha azt nem szándékosan okozták és annak összege az 5000 Ft-ot nem haladja meg.
+
 (2) A kiszabott és behajthatatlan kártérítési összeget törléssel kell rendezni.
 
 (3) A kár leírására és a törlésére vonatkozó munkáltatói jogköröket miniszteri rendelet a vezetési szintektől és a kár összegétől függően differenciáltan szabályozza.

@@ -22,4 +22,6 @@ g) annak a férfinak, aki a gyermeket egyedül vette örökbefogadási szándék
 
 (4) A szülési szabadság tartamát – a kifejezetten szolgálatteljesítéshez kapcsolódó jogosultságot kivéve – tényleges szolgálati viszonyban töltött időnek kell tekinteni.
 
+(4a) A szülési szabadság idejére járó illetmény személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti csecsemőgondozási díj személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított – naptári napi összegének a harmincszorosa.
+
 (5) Nem jár illetmény a szülési szabadság alatt az állomány tagjának, ha bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – díjazás ellenében munkát végez, vagy hatósági engedélyhez kötött keresőtevékenységét személyesen folytatja, ide nem értve a szellemi tevékenységet.

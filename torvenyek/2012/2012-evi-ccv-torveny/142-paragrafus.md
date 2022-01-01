@@ -6,7 +6,7 @@
 
 142. § (1) Az állomány tagja a kötelező egészségbiztosításról szóló törvény szerinti baleseti ellátásra szolgálati kötelmekkel összefüggő baleseti sérülése vagy szolgálati eredetű betegsége következtében jogosult.
 
-(2) Az állomány tagja balesetének, betegségének vagy az ezek miatt bekövetkezett halálának szolgálati kötelmekkel való összefüggését hivatalból kell vizsgálni. A balesetnek a szolgálati kötelmekkel való összefüggéséről a miniszter, a betegségnek a szolgálati kötelmekkel való összefüggéséről a Kormány által rendeletben kijelölt szerv a kijelölő rendelet szerinti eljárásban, minősítő határozatban dönt.
+(2) Az állomány tagja a munkavédelemről szóló törvény szerint bejelentett balesetének, betegségének vagy az ezek miatt bekövetkezett halálának szolgálati kötelmekkel való összefüggését hivatalból kell vizsgálni. A balesetnek a szolgálati kötelmekkel való összefüggéséről a miniszter, a betegségnek a szolgálati kötelmekkel való összefüggéséről a Kormány által rendeletben kijelölt szerv a kijelölő rendelet szerinti eljárásban, minősítő határozatban dönt.
 
 (3) Az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati kötelmekkel való összefüggésének
 

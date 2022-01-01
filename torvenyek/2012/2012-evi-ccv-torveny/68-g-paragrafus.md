@@ -8,7 +8,11 @@ b) tizenöt év vagy azt meghaladó, de húsz évet el nem érő szolgálati vis
 
 c) húsz év vagy azt meghaladó, de huszonöt évet el nem érő szolgálati viszonyban töltött idő esetén 75%-ának,
 
-d) huszonöt évet elérő vagy azt meghaladó szolgálati viszonyban töltött idő esetén 80%-ának
+d) huszonöt év vagy azt meghaladó, de harminc évet el nem érő szolgálati viszonyban töltött idő esetén 80%-ának,
+
+e) harminc év vagy azt meghaladó, de harmincöt évet el nem érő szolgálati viszonyban töltött idő esetén 85%-ának,
+
+f) harmincöt évet elérő vagy meghaladó szolgálati viszonyban töltött idő esetén 90%-ának
 
 a részére megállapított baleseti ellátás, rehabilitációs ellátás és rokkantsági ellátás együttes bruttó összegével csökkentett összege.
 
