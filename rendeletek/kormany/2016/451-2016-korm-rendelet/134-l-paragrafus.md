@@ -10,7 +10,7 @@ a) az ügyfél oldalán a szolgáltató,
 
 b) az elektronikus ügyintézést biztosító szerv oldalán a szolgáltató vagy az elektronikus ügyintézést biztosító szerv illetve annak nevében kiadmányozásra jogosultjának
 
-## minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával vagy bélyegzőjével és – ha jogszabály így rendelkezik – minősített időbélyegzővel látja el.
+minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával vagy bélyegzőjével és – ha jogszabály így rendelkezik – minősített időbélyegzővel látja el.
 
 (5) Az elektronikus ügyintézést biztosító szerv az indokolási kötelezettséggel nem járó döntést is köteles az ügyfél számára írásban is megküldeni, ha a döntést az (1) bekezdés szerinti kommunikáció során közölte. Törvény vagy kormányrendelet eltérő rendelkezése hiányában a döntés közlésének az írásban megküldött döntés kézbesítését kell tekinteni.
 

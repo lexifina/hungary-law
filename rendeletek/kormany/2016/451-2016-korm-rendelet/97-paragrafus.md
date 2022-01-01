@@ -12,7 +12,7 @@ b) az iratról hiteles másolatot készítő szervezet, valamint
 
 c) az irat hitelességéről igazolás kiállítására jogosult szerv vagy szervezet
 
-## tehet.
+tehet.
 
 (3) A szolgáltató a nyilvántartásra vonatkozó általános szerződési feltételekben rögzíti, hogy a nyilvántartás tartalmához történő hozzáférés milyen feltételekkel lehetséges.
 

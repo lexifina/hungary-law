@@ -20,7 +20,7 @@ a) az ügyfél kérésére vagy
 
 b) azonnali beavatkozást igénylő esetekben (súlyos kár vagy életveszély fennállása vagy bekövetkezésének lehetősége)
 
-## kerülhet sor.
+kerülhet sor.
 
 (3) Jogszabály eltérő rendelkezése hiányában az (1) bekezdés szerinti elérhetőségekre jogkövetkezménnyel járó iratot az elektronikus ügyintézést biztosító szerv nem küldhet.
 

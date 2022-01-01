@@ -1,5 +1,3 @@
-## Az elektronikus ügyintézést biztosító szervek által kötelezően elfogadott elektronikus dokumentumformátumok
-
 |  | A | B | C |
 
 | 1 | A dokumentum jellege | Fájlkiterjesztés | Alapul vett szabvány vagy technikai specifikáció |
@@ -40,12 +38,20 @@
 
 | 17 | ÁNYK KR konténer | .kr | A biztonságos kézbesítési szolgáltatás interfész specifikációja. |
 
-2. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^226]
+2. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^239]
 
-## A piaci szereplő részére biztosított SZEÜSZ/KEÜSZ szolgáltatásért fizetendő díj megállapításának szabályai
+A piaci szereplő és az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti szerv részére biztosított SZEÜSZ/KEÜSZ, valamint PKASZ szolgáltatásért fizetendő díj megállapításának és beszedésének szabályai
 
-1. A Szolgáltató – a 2. pontban megjelöltek kivételével – a szolgáltatásaiért havonta fizetendő díjat (a továbbiakban: havi díj) havi alapdíj (a továbbiakban: havi alapdíj) és a szolgáltatás darabja vagy a szolgáltató által meghatározott adatforgalmi mennyiségi egység igénybevételének havi tételszáma alapján határozza meg (a továbbiakban: egységdíj), a szolgáltatások egységdíja, valamint a szolgáltatások havi tételszáma szorzatának és a havi alapdíjnak az összegeként.
+1. A kijelölt szolgáltató jelen mellékletben meghatározott, jogszabályban biztosított észszerű nyereséget is tartalmazó díjakat számol fel szolgáltatásonként, a szolgáltatáshoz csatlakozási igényt benyújtott piaci szereplő és az E-ügyintézési tv. 1. § 17. pont j) és l) alpontja szerinti szerveknek.
 
-2. A Kormány által kijelölt szolgáltató tranzakciós díjat – melyben jogszabályban biztosított észszerű nyereséget is megállapít – számol fel az adott szolgáltatás igénybevételi tranzakció száma és a tranzakció egységdíjának szorzata alapján.
+a) Csatlakozási díj: a kijelölt szolgáltató csatlakozásonként csatlakozási díjat számol fel a szolgáltatáshoz való csatlakozást követően.
 
-[^226]: A 2. mellékletet a 361/2017. (XI. 30.) Korm. rendelet 5. § (15) bekezdése iktatta be.
+b) Havidíj: a kijelölt szolgáltató csatlakozásonként havonta fizetendő fix díjat állapít meg, mely a rendelkezésre állás és a szolgáltatás felhasznált volumenének hányadosából kalkulált összeg.
+
+c) Tranzakciós díj: a kijelölt szolgáltató tranzakciós díjat számol fel az adott szolgáltatás igénybevételi tranzakció száma és a tranzakció egységdíjának szorzata alapján azon szolgáltatás esetében, ahol az igénybevétel tranzakcióalapú és mérhető. A tranzakciós díj havi díjban megállapított tranzakciószám felett fizetendő.
+
+2. A SZEÜSZ/KEÜSZ, valamint PKASZ szolgáltatásért fizetendő díjakat tartalmazó számlát – a kormányzati hitelesítés szolgáltatás kivételével – az e-közigazgatásért felelős miniszter állítja ki a piaci szereplő, valamint az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti szerveknek.
+
+3. A díjak összegét és megfizetésének módját a kijelölt szolgáltató a honlapján közzéteszi.
+
+[^239]: A 2. mellékletet a 361/2017. (XI. 30.) Korm. rendelet 5. § (15) bekezdése iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 21. §-ával megállapított szöveg.

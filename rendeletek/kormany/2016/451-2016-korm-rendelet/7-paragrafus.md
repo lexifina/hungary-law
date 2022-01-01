@@ -6,7 +6,7 @@ b) az elektronikus benyújtásra jogszabály további formai követelményeket �
 
 c) az ügyre vonatkozóan az elektronikus ügyintézést biztosító szerv a 115. vagy a 116. § szerinti szolgáltatás szerinti elektronikus űrlapot rendszeresít,
 
-## – ha jogszabály eltérően nem rendelkezik – a beadványt be nem nyújtottnak kell tekinteni, és az elektronikus ügyintézést biztosító szerv erről, valamint az irat benyújtásának lehetséges módjairól az ügyfelet a kapcsolattartásra szolgáló elérhetőségén a beadvány előterjesztésétől számított nyolc napon belül tájékoztatja.
+– ha jogszabály eltérően nem rendelkezik – a beadványt be nem nyújtottnak kell tekinteni, és az elektronikus ügyintézést biztosító szerv erről, valamint az irat benyújtásának lehetséges módjairól az ügyfelet a kapcsolattartásra szolgáló elérhetőségén a beadvány előterjesztésétől számított nyolc napon belül tájékoztatja.
 
 (2) Ha az elektronikus ügyintézést biztosító szerv az általa elfogadott elektronikus űrlapokat szabályszerűen módosította, és az ügyfél korábbi, már nem alkalmazható elektronikus űrlapot használ, az így megküldött iratot be nem nyújtottnak kell tekinteni. Erről az ügyfelet automatikus hibaüzenettel értesíteni kell.
 

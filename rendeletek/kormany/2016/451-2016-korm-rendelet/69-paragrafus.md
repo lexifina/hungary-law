@@ -1,3 +1,5 @@
+## 68/H. § A piaci szereplőt az elektronikus kapcsolattartás szabályai tekintetében – ha jogszabály eltérően nem rendelkezik – a SZEÜSZ és KEÜSZ, valamint a PKASZ használata során elektronikus ügyintézést biztosító szervnek, a piaci szereplőnél ügyet intéző természetes személyt, jogi személyt, jogi személyiséggel nem rendelkező szervezetet pedig ügyfélnek kell tekinteni azzal, hogy – ha a természetes személy esetében törvény, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében jogszabály eltérően nem rendelkezik – az E-ügyintézési tv. kötelező elektronikus kapcsolattartásra vonatkozó rendelkezései nem alkalmazhatóak.
+
 ## 24. Az egyes szabályozott elektronikus ügyintézési szolgáltatásokra vonatkozó rendelkezések
 
 ## Elektronikus azonosítási szolgáltatás

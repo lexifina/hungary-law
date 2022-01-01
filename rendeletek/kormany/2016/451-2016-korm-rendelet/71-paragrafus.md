@@ -1,5 +1,3 @@
-## vehetnek igénybe elektronikus azonosítási SZEÜSZ-t.
-
 ## A Kormány által kötelezően nyújtandó azonosítási szolgáltatás
 
 71. § (1) A Kormány által kötelezően nyújtandó azonosítási szolgáltatás alkalmazása esetében az ügyfél
@@ -10,9 +8,9 @@ b) részleges kódú telefonos azonosítás esetében felhasználói azonosító
 
 c) ügyfélkapu esetében a felhasználói neve és jelszava vagy ezek mellett még a választott második hitelesítési tényező
 
-d)[^43] videotechnológián keresztül történő azonosítás (a továbbiakban: VKTA) esetében személyazonosság igazolására alkalmas hatósági igazolványa bemutatásával és videojellel készített arcképének a nyilvántartásban tárolt arcképével való összevetésének
+d)[^44] videotechnológián keresztül történő azonosítás (a továbbiakban: VKTA) esetében személyazonosság igazolására alkalmas hatósági igazolványa bemutatásával és videojellel készített arcképének a nyilvántartásban tárolt arcképével való összevetésének
 
-## alkalmazásával azonosítja magát.
+alkalmazásával azonosítja magát.
 
 (2) Tárolóelemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatást a tárolóelemmel rendelkező állandó személyazonosító igazolvány kiadása iránti kérelem benyújtásával lehet igényelni.
 
@@ -26,4 +24,4 @@ a) a KÜNY-ben való regisztráció megszűnésével,
 
 b) a felhasználó ez irányú kérelmére.
 
-[^43]: A 71. § (1) bekezdés d) pontját az 572/2020. (XII. 9.) Korm. rendelet 90. §-a iktatta be.
+[^44]: A 71. § (1) bekezdés d) pontját az 572/2020. (XII. 9.) Korm. rendelet 90. §-a iktatta be.

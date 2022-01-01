@@ -1,30 +1,30 @@
 ## 27. Elektronikus ügyintézés vállalásának bejelentése
 
-137. § (1)[^157] Az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti, az elektronikus ügyintézést vállaló szerv (a továbbiakban: vállaló szerv) nyilvántartásba vétel céljából a következő adatokat köteles bejelenteni a felügyeletnek a felügyelet által rendszeresített űrlapon:
+137. § (1)[^167] Az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti, az elektronikus ügyintézést vállaló szerv (a továbbiakban: vállaló szerv) nyilvántartásba vétel céljából a következő adatokat köteles bejelenteni a felügyeletnek a felügyelet által rendszeresített űrlapon:
 
 a) nevét, székhelyét, hivatalos elektronikus elérhetőségét;
 
 b) kapcsolattartójának nevét és elektronikus elérhetőségét, ha a kapcsolattartó az adatai kezeléséhez hozzájárult;
 
-c)[^158] azon ügyeket, amelyekben az elektronikus ügyintézés lehetőségét az E-ügyintézési tv. és végrehajtási rendeleteinek szabályai szerint biztosítja;
+c)[^168] azon ügyeket, amelyekben az elektronikus ügyintézés lehetőségét az E-ügyintézési tv. és végrehajtási rendeleteinek szabályai szerint biztosítja;
 
-d)[^159]
+d)[^169]
 
-e)[^160]
+e)[^170]
 
 f) az elektronikus ügyintézés biztosításának tervezett kezdő időpontját.
 
-(2)–(3)[^161]
+(2)–(3)[^171]
 
-(4)[^162] A vállaló szerv a vállalt ügy felügyelet által történő nyilvántartásba vételét követően
+(4)[^172] A vállaló szerv a vállalt ügy felügyelet által történő nyilvántartásba vételét követően
 
 a) 30 napon belül köteles a vállaláshoz szükséges SZEÜSZ és KEÜSZ szolgáltatás igénybevételére irányuló kérelmet a szolgáltatóhoz benyújtani, és
 
 b) köteles a vállaláshoz szükséges SZEÜSZ és KEÜSZ szolgáltatásokhoz az 59. § (1b) bekezdése szerint éles üzemben csatlakozni.
 
-(4a)[^163] A vállaló szerv a kérelem benyújtásának tényét és az igénybe vett szolgáltatásokhoz éles üzemben történő csatlakozás tényét haladéktalanul bejelenti a felügyelet részére.
+(4a)[^173] A vállaló szerv a kérelem benyújtásának tényét és az igénybe vett szolgáltatásokhoz éles üzemben történő csatlakozás tényét haladéktalanul bejelenti a felügyelet részére.
 
-(5)[^164] A vállalt ügy
+(5)[^174] A vállalt ügy
 
 a) a vállaló szerv alap- vagy főtevékenységébe tartozó,
 
@@ -32,16 +32,16 @@ b) az ügyfelek széles körét érintő, kiemelt jelentőségű és
 
 c) jó erkölcsbe nem ütköző
 
-## olyan ügy lehet, amely esetében a Kormány által biztosított elektronikus ügyintézési szolgáltatások felhasználása érdemileg növeli meg az ügyintézés hatékonyságát, csökkenti a polgárok bürokratikus terheit, és az állami szolgáltatások fenntartásának érdekét nem sérti vagy veszélyezteti.
+olyan ügy lehet, amely esetében a Kormány által biztosított elektronikus ügyintézési szolgáltatások felhasználása érdemileg növeli meg az ügyintézés hatékonyságát, csökkenti a polgárok bürokratikus terheit, és az állami szolgáltatások fenntartásának érdekét nem sérti vagy veszélyezteti.
 
-(6)[^165]
+(6)[^175]
 
-[^157]: A 137. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
-[^158]: A 137. § (1) bekezdés c) pontja a 179/2018. (X. 2.) Korm. rendelet 33. § f) pontja szerint módosított szöveg.
-[^159]: A 137. § (1) bekezdés d) pontját a 179/2018. (X. 2.) Korm. rendelet 34. § d) pontja hatályon kívül helyezte.
-[^160]: A 137. § (1) bekezdés e) pontját a 717/2021. (XII. 20.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
-[^161]: A 137. § (2)–(3) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^162]: A 137. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^163]: A 137. § (4a) bekezdését a 179/2018. (X. 2.) Korm. rendelet 28. §-a iktatta be.
-[^164]: A 137. § (5) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 20. § (14) bekezdésével megállapított szöveg.
-[^165]: A 137. § (6) bekezdését a 179/2018. (X. 2.) Korm. rendelet 34. § e) pontja hatályon kívül helyezte.
+[^167]: A 137. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^168]: A 137. § (1) bekezdés c) pontja a 179/2018. (X. 2.) Korm. rendelet 33. § f) pontja szerint módosított szöveg.
+[^169]: A 137. § (1) bekezdés d) pontját a 179/2018. (X. 2.) Korm. rendelet 34. § d) pontja hatályon kívül helyezte.
+[^170]: A 137. § (1) bekezdés e) pontját a 717/2021. (XII. 20.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
+[^171]: A 137. § (2)–(3) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^172]: A 137. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^173]: A 137. § (4a) bekezdését a 179/2018. (X. 2.) Korm. rendelet 28. §-a iktatta be.
+[^174]: A 137. § (5) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 20. § (14) bekezdésével megállapított szöveg.
+[^175]: A 137. § (6) bekezdését a 179/2018. (X. 2.) Korm. rendelet 34. § e) pontja hatályon kívül helyezte.

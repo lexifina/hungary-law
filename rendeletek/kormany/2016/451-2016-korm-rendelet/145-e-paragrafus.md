@@ -10,7 +10,7 @@ b) a felügyelet által delegált személyek, továbbá
 
 c) az illetékes hatóság feladat- és hatáskörébe tartozó közfeladat ellátásáért felelős miniszter által kijelölt személy
 
-## alkotja.
+alkotja.
 
 (3) A koordinációs munkacsoport a nemzeti koordinátor tevékenységét illetően közreműködik
 

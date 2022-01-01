@@ -12,7 +12,7 @@ a) az ügyfél oldalán a szolgáltató,
 
 b) az elektronikus ügyintézést biztosító szerv oldalán a szolgáltató vagy az elektronikus ügyintézést biztosító szerv, illetve annak nevében kiadmányozásra jogosultjának
 
-## minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával vagy bélyegzőjével és – ha jogszabály így rendelkezik – minősített időbélyegzővel látja el.
+minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával vagy bélyegzőjével és – ha jogszabály így rendelkezik – minősített időbélyegzővel látja el.
 
 (5) A szolgáltató biztosítja, hogy az ügyfél a leiratozott szöveget ellenőrizhesse, abban módosítást hajtson végre. A leiratozott szöveg ügyfél által jóváhagyott példányát az ügyfél ilyen irányú kérelme esetén a szolgáltató megküldi az ügyfél tárhelyére.
 

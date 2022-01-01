@@ -10,7 +10,7 @@ c) az ügyfél által előterjesztett kérelem alapján, az elektronikus formáb
 
 d) a (3) bekezdés szerinti esetben, illetve az ügyfél kérelmére az elektronikus ügyintézést biztosító szerv által biztosított helyszínen terminál alkalmazásával
 
-## biztosítja.
+biztosítja.
 
 (2) Az elektronikus ügyintézést biztosító szerv az ügyfél által megismerhető iratok listájának a megismerését az ügy lefolytatása során az (1) bekezdés a) pontja szerint folyamatosan biztosítja, vagy azt az ügyfél erre irányuló kérelmének az előterjesztésétől számított egy munkanapon belül az ügyfél részére kézbesíti.
 
@@ -22,6 +22,6 @@ a) az elektronikus formában rendelkezésre nem álló irat, valamint
 
 b) az ügyfél által meg nem ismerhető adatot is tartalmazó irat ügyfél által megismerhető tartalmának
 
-## elektronikus úton történő megismerését.
+elektronikus úton történő megismerését.
 
 (5) Az ügyfél által megismerhető iratok listájának és a hiteles elektronikus formában az elektronikus ügyintézést biztosító szerv rendelkezésére álló irat megismerésének biztosításáért, valamint az elektronikus formában már az elektronikus ügyintézést biztosító szerv rendelkezésére álló, az ügyfél által megismerhető irat megismerésének az (1) bekezdés a) és b) pontja szerinti biztosításáért – ha törvény eltérően nem rendelkezik – költségtérítés vagy díj nem kérhető.
