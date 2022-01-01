@@ -1,4 +1,4 @@
-8. §[^35] (1) A VBÜ az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzési igényét a Portálra történő feltöltéstől, vagy – ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igény minősített adatot tartalmaz, és a Portál minősített adat továbbítására nem alkalmas, – a kézhezvételtől számított 10 munkanapon belül megvizsgálja. A vizsgálat eredményéről a VBÜ az érintett szervezetet tájékoztatja.
+8. §[^36] (1) A VBÜ az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzési igényét a Portálra történő feltöltéstől, vagy – ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igény minősített adatot tartalmaz, és a Portál minősített adat továbbítására nem alkalmas, – a kézhezvételtől számított 10 munkanapon belül megvizsgálja. A vizsgálat eredményéről a VBÜ az érintett szervezetet tájékoztatja.
 
 (2) Az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzési igényét a Portálra történő feltöltéstől a beszerzési igény (4), illetve (5) bekezdés szerinti jelöléssel történő ellátásig indokolás nélkül visszavonhatja.
 
@@ -68,4 +68,4 @@ f) ha a beszerzési igény nem tartozik az e rendelet hatálya alá.
 
 (15) Ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igényt a Kormány elutasította, az átdolgozott beszerzési igény véleményezésre, továbbá jóváhagyásra ismételten előterjeszthető.
 
-[^35]: A 8. § a 649/2020. (XII. 23.) Korm. rendelet 4. § (17) bekezdésével megállapított szöveg.
+[^36]: A 8. § a 649/2020. (XII. 23.) Korm. rendelet 4. § (17) bekezdésével megállapított szöveg.
