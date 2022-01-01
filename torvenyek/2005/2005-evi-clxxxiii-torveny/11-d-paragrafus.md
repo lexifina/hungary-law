@@ -1,14 +1,14 @@
 11/D. § (1) Az országos vasúti pályahálózat-működtető, a vállalkozó vasúti társaságok és a kapacitásfoglalásra jogosultak legalább évente egyszeri gyakorisággal koordinációs tevékenységet folytatnak, amely koordinációs tevékenységben a vasúti igazgatási szerv megfigyelőként jogosult részt venni.
 
-(2) A koordinációnak ki kell kiterjednie:
+(2) A koordináció kiterjed:
 
-a) a pályahálózat-kapacitás karbantartására és fejlesztésére vonatkozó kérelmezői igényekre;
+a) a pályahálózat-kapacitás karbantartására és fejlesztésére vonatkozó kérelmezői igényekre,
 
-b) a vasúti pályahálózat működtetésére kötött szerződésekben foglalt felhasználó-központú teljesítménycélok, valamint az e szerződésben meghatározott teljesítményösztönzők tartalmára és végrehajtására;
+b) a vasúti pályahálózat működtetésére kötött szerződésekben foglalt felhasználó-központú teljesítménycélok, valamint az e szerződésben meghatározott teljesítményösztönzők tartalmára és végrehajtására,
 
-c) a hálózati üzletszabályzat tartalmára és alkalmazására;
+c) a hálózati üzletszabályzat tartalmára és alkalmazására,
 
-d) az intermodalitás és a kölcsönös átjárhatóság kérdéseire;
+d) az intermodalitás és a kölcsönös átjárhatóság kérdéseire, és
 
 e) minden olyan egyéb kérdésre, amely a vasúti pályahálózathoz való hozzáférésnek, a vasúti pályahálózat használatának feltételeire, illetve a pályahálózat-működtető szolgáltatásainak minőségére vonatkozik.
 

@@ -14,7 +14,7 @@ c) az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó
 
 d) a trolibusz felsővezetékének engedélyezésére,
 
-e) a vasúti telekalakítás tekintetében – a 4. mellékletben szereplő vasúti pályák kivételével – a Magyarország területén található országos jelentőségű vasútvonalak vasúti pályáit és azok tartozékait hordozó és azzal szomszédos ingatlanokra
+e) a vasúti telekalakítás tekintetében – a 4. mellékletben szereplő vasúti pályák kivételével – a Magyarország területén található országos jelentőségű vasútvonalak, valamint az elővárosi pályahálózatba tartozó és kiemelt budapesti fejlesztésként megvalósuló városi pályahálózatba tartozó vasútvonalak vasúti pályáit és azok tartozékait hordozó és azzal szomszédos ingatlanokra
 
 terjed ki.
 

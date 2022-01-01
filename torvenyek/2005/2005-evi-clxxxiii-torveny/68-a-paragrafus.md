@@ -2,6 +2,8 @@
 
 68/A. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók esetében.
 
+(1a) Kollektív szerződés vagy munkaszerződés a 68/A.–68/G. §-okban foglaltaktól a munkavállaló javára térhet el.
+
 (2) Az e fejezetben foglalt rendelkezéseket nem kell alkalmazni az országhatárokon átnyúló helyi és térségi vasúti személyszállítás és az országhatár 15 kilométeres körzetét át nem lépő, országhatárokon átnyúló vasúti árutovábbítás, valamint Magyarország és a szomszédos ország határállomásai közötti szolgáltatás tekintetében.
 
 (3) Az e fejezetben foglalt rendelkezéseket nem kell alkalmazni továbbá azon vonatok tekintetében sem, amelyek Magyarország területéről indulnak, a szomszédos ország területén keresztülhaladnak, majd Magyarország területére érkeznek vissza, amennyiben a másik ország infrastruktúráját megállás nélkül használják.

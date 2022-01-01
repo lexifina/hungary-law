@@ -1,6 +1,6 @@
 ## Jogvitás eljárás
 
-79/B. § (1) A kapacitásfoglalásra jogosult, a hozzáférésre jogosult vagy a nem független pályahálózat-működtető a vasúti igazgatási szervnél jogvitás eljárás megindítását kérelmezheti, ha álláspontja szerint:
+79/B. § (1) A kapacitásfoglalásra jogosult, a hozzáférésre jogosult, a pályahálózat-működtető vagy a VPSZ a vasúti igazgatási szervnél jogvitás eljárás megindítását kérelmezheti, ha álláspontja szerint:
 
 a) a Hálózati Üzletszabályzat valamely rendelkezése ellentétes a megkülönböztetéstől mentes eljárás követelményével,
 

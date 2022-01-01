@@ -41,3 +41,5 @@ c) az (1) bekezdés g) pontjában meghatározott esetben a vasúti jármű nyilv
 (9) A vasúti vizsgaközpont a 36. § (7) bekezdésben meghatározott feladatának ellátása érdekében jogosult az alapvizsgára és időszakos vizsgára jelentkező személyek természetes személyazonosító adatainak, valamint vizsgaeredményeinek kezelésére. Ezen adatkezelésre a (4)–(7) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
 (10) A közlekedési hatóság vezetője a minősített adat védelméről szóló törvény tekintetében minősítésre jogosultnak minősül.
+
+(11) A vasúti képzési módszertani központ a 36. § (7) bekezdésben meghatározott feladatának ellátása érdekében jogosult a vasútszakmai oktatók és a vasútüzemvezetők továbbképzésére, továbbá a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzésére és továbbképzésére jelentkező személyek természetes személyazonosító adatainak kezelésére. Ezen adatkezelésre a (4)–(7) bekezdésben foglaltakat kell megfelelően alkalmazni.

@@ -6,4 +6,8 @@
 
 (3) A vasúti igazgatási szerv részt vehet olyan tevékenységben, amelynek célja, hogy az igazgatási szervezetek felülvizsgálják az együttműködő pályahálózat-működtetők olyan határozatait és gyakorlatait, amelyek a 2012/34/EU európai parlamenti és tanácsi irányelv rendelkezéseinek felelnek meg, vagy más módon elősegítik a nemzetközi vasúti árufuvarozást.
 
-(4) Nemzetközi menetvonallal kapcsolatos hozzáférési vagy díjképzési ügyekre vonatkozó panasz vagy hivatalból indult eljárás esetén, valamint a nemzetközi vasúti szállítási szolgáltatásokkal kapcsolatos piaci verseny ellenőrzése keretében a vasúti igazgatási szerv konzultációt folytat valamennyi olyan EGT-tagállam igazgatási szervezetével, amelyen a szóban forgó nemzetközi menetvonal keresztülhalad, illetve – adott esetben – a Bizottsággal, és határozatának meghozatala előtt ezektől az igazgatási szervezetektől megkéri az összes szükséges információt.
+(4) Nemzetközi menetvonallal kapcsolatos hozzáférési vagy díjképzési ügyekre vonatkozó panasz vagy hivatalból indult eljárás esetén, valamint a nemzetközi vasúti szállítási szolgáltatásokkal kapcsolatos piaci verseny ellenőrzése keretében a vasúti igazgatási szerv konzultációt folytat és együttműködik valamennyi olyan EGT-tagállam igazgatási szervezetével, amelyen a szóban forgó nemzetközi menetvonal keresztülhalad, valamint – adott esetben – a Bizottsággal, és
+
+a) határozatának meghozatala előtt ezektől az igazgatási szervezetektől megkéri az összes szükséges információt, valamint
+
+b) a más EGT-tagállam igazgatási szervének illetékességébe tartozó eljárás esetén – a panaszkezelés vagy vizsgálat céljából – az illetékes EGT-tagállam igazgatási szervének átadja a szükséges információkat.

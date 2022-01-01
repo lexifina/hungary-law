@@ -1,4 +1,4 @@
-45. § (1) Az országos jelentőségű vasútvonalak építési beruházásánál a nyomvonalat keresztező, kiváltásra kerülő és a vasúti pályahálózatot ellátó közmű a hatósági eljárásban közcélúnak minősül.
+45. § (1) Az országos jelentőségű vasútvonalak, elővárosi pályahálózatba tartozó, illetve kiemelt budapesti fejlesztésként megvalósuló városi pályahálózatba tartozó vasútvonalak építési beruházásánál a nyomvonalat keresztező, kiváltásra kerülő és a vasúti pályahálózatot ellátó közmű a hatósági eljárásban közcélúnak minősül.
 
 (2) Az építtető a létesítéssel, felújítással és fejlesztéssel érintett vasúti pályaszakasz meghatározását követően haladéktalanul köteles írásban értesíteni a létesítéssel, felújítással, fejlesztéssel érintett közmű üzemeltetőjét és tulajdonosát (a továbbiakban együtt: üzemeltető) arról, hogy a fejlesztési tevékenység során mely közműszakasz átalakítása, áthelyezése (a továbbiakban együtt: kiváltása) vagy fejlesztése szükséges.
 

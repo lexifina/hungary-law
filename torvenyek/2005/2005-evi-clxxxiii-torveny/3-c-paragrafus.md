@@ -1,6 +1,6 @@
 ## A vasúti pályahálózat fejlesztési stratégia
 
-3/C. § (1) A vasúti pályahálózat fejlesztési stratégia (a továbbiakban: fejlesztési stratégia) kizárólag az országos jelentőségű vasútvonalakra terjed ki.
+3/C. § (1) A vasúti pályahálózat fejlesztési stratégia (a továbbiakban: fejlesztési stratégia) kizárólag az országos jelentőségű vasútvonalakra terjed ki, legalább ötéves időtartamra készül és meghosszabbítható.
 
 (2) A fejlesztési stratégia figyelembe veszi az Európai Unió (a továbbiakban: Unió) általános érdekeit, az uniós tagsággal nem rendelkező, Magyarországgal szomszédos országokkal való együttműködés szükségességét, a honvédelmi érdeket, a vasúti pályahálózat karbantartása, felújítása és fejlesztése tekintetében a jövőbeli mobilitási igényeket és azt, hogy a vasúti pályahálózat karbantartása, felújítása és fejlesztése a vasúti rendszer fenntartható finanszírozása elvének alapul-vételével történjen.
 

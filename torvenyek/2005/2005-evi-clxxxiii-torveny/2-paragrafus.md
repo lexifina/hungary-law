@@ -46,7 +46,7 @@
 
 2.2. elővárosi vasúti pályahálózat: elővárosi vasúti szolgáltatás végzéséhez szükséges vasúti pályahálózat;
 
-2.3. fejlesztési közreműködő: olyan gazdasági társaság, amely a vasúti pályahálózat létesítését, fejlesztését, felújítását végzi, és nem minősül pályahálózat-működtetőnek, valamint tevékenységének folytatásához nincs szüksége az e törvény szerinti vasútbiztonsági engedélyre;
+2.3. fejlesztési közreműködő: a Kormány rendeletében kijelölt olyan közvetett vagy közvetlen állami tulajdonú gazdasági társaság vagy szerv, amely a vasúti pályahálózat létesítését, fejlesztését, felújítását végzi, és nem minősül pályahálózat-működtetőnek, valamint tevékenységének folytatásához nincs szüksége az e törvény szerinti vasútbiztonsági engedélyre;
 
 2.4. gazdasági társaság: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti gazdasági társaság;
 
@@ -82,7 +82,7 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 2.17. saját célú vasúti pályahálózat: az a nem állami tulajdonban levő vasúti pályahálózat, amelyet kizárólag a pályahálózat tulajdonosa használ saját áruszállítási műveletekre, továbbá az a pályahálózat, amely egynél több végfelhasználót szolgál vagy szolgálhat ki és nem minősül iparvágánynak;
 
-2.18. stratégiai jelentőséggel nem bíró vasúti pályahálózat: olyan vasúti pálya vagy pályahálózat, amelynek hossza nem haladja meg a 30 kilométert, és kihasználtsági szintje, valamint a rajta folyó szállítási forgalom nem éri el az elméleti kapacitás 10%-át;
+2.18. stratégiai jelentőséggel nem bíró vasúti pályahálózat: olyan vasúti pálya vagy pályahálózat, amelyet a Bizottság az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv 2. cikkének (4) bekezdése szerinti vasúti infrastruktúrának minősített;
 
 2.19. tároló vágánycsoport: forgalombahozatali járműengedéllyel vagy üzembehelyezési engedéllyel rendelkező vasúti járművek két szerződés alapján történő járműmozgás közötti, legfeljebb egyéves időtartamra történő tárolására szolgáló vágányok;
 
@@ -102,19 +102,21 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 2.25. városi vasúti pályahálózat: városi vasúti szolgáltatás végzéséhez szükséges pályahálózat;
 
-2.26. vasúti tesztpálya: vasúti gördülőállomány, vasúti pálya és tartozékai, valamint a vasúti berendezések műszaki vizsgálatára, tesztelésére létesített különálló vasúti pályahálózat;
-
-2.26. vasút-villamos pályahálózat: az országos vasúti pályahálózat, a helyi, a városi és az elővárosi vasúti pályahálózat azon részeinek összessége, amelyen a vasút-villamos közlekedik, vagy vasút-villamossal szolgáltatást kívánnak végezni.
+2.26. vasút-villamos pályahálózat: az országos vasúti pályahálózat, a helyi, a városi és az elővárosi vasúti pályahálózat azon részeinek összessége, amelyen a vasút-villamos közlekedik, vagy vasút-villamossal szolgáltatást kívánnak végezni;
 
 2.27. a köz- és a magánszféra partnersége: közfeladatot ellátó szervek és a pályahálózat-működtetőjétől eltérő egy vagy több vállalkozás közötti, kötelező erejű megállapodás, amely alapján ezen vállalkozások részben vagy egészben kiépítik vagy finanszírozzák a vasúti infrastruktúrát, vagy megszerzik a pályahálózat-működtetői jogosultságokat egy előre meghatározott időtartamra;
 
 2.28. vasúti telekalakítás: az érintett ingatlannak, illetve amennyiben indokolt a szomszédos ingatlannak vasúti pályaüzemeltetési és pályahálózat működtetési feladatok ellátásához igazodó mértékű területkialakítása és az ingatlan-nyilvántartásban önálló ingatlanként való feltüntetése érdekében történő bármely telekalakításra (telekmegosztás, telekegyesítés, telekcsoport újrafelosztás, telekhatár rendezés stb.) irányuló, e törvény szerint lefolytatandó eljárás;
 
-2.28.1. érintett ingatlan: Magyarország területén található, országos jelentőségű vasútvonalak vasúti pályáit és azok tartozékait hordozó, az ingatlan-nyilvántartás szerint részben vagy egészben az állam tulajdonában álló ingatlan;
+2.28.1. érintett ingatlan: Magyarország területén található, országos jelentőségű vasútvonalak, valamint az elővárosi pályahálózatba tartozó és a kiemelt budapesti fejlesztésként megvalósuló városi pályahálózatba tartozó vasútvonalak vasúti pályáit és azok tartozékait hordozó, az ingatlan-nyilvántartás szerint részben vagy egészben az állam tulajdonában álló ingatlan;
 
 2.28.2. szomszédos ingatlan: közvetlenül az érintett ingatlan telekhatára mellett fekvő ingatlan;
 
-2.28.3. visszamaradó ingatlan: a vasúti telekalakítási eljárás következtében kialakuló – nem az országos jelentőségű vasútvonalak vasúti pályáit és azok tartozékait hordozó –, az ingatlan-nyilvántartásban feltüntetésre kerülő önálló ingatlan;
+2.28.3. visszamaradó ingatlan: a vasúti telekalakítási eljárás következtében kialakuló – vasúti pályát és azok tartozékait nem hordozó –, az ingatlan-nyilvántartásban feltüntetésre kerülő önálló ingatlan;
+
+2.29. vasúti tesztpálya: vasúti gördülőállomány, vasúti pálya és tartozékai, valamint a vasúti berendezések műszaki vizsgálatára, tesztelésére létesített különálló vasúti pályahálózat;
+
+2.30. kiemelt budapesti fejlesztés: a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 1. § 3. pontja szerinti kiemelt budapesti fejlesztés;
 
 3. A vasúti pályahálózati kapacitás elosztásával és a díjképzéssel kapcsolatos fogalmak:
 

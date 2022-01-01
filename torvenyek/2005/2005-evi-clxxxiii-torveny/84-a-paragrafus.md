@@ -4,7 +4,7 @@
 
 ## 1. A különleges kötöttpályás közlekedésre vonatkozó eltérő rendelkezések
 
-84/A. § (1) A törvény 3–84. §-át az e fejezetben foglalt eltérésekkel kell alkalmazni.
+84/A. § (1)
 
 (2) A különleges kötöttpályás közlekedési rendszerekre a működési engedélyre vonatkozó 6–9/D. §-t, a pályahálózat-működtető üzleti tervére vonatkozó 12–13. §-t, a számviteli elkülönítésre vonatkozó 21. §-t, a biztonságirányítási rendszerre és a biztonsági szervezetre vonatkozó 32–32/A. §-t, az egységes biztonsági tanúsítványra és vasútbiztonsági engedélyre vonatkozó 33–35. §-t, a nyílt hozzáférésre, a kapacitáselosztásra és a hálózat-hozzáférési díjakra vonatkozó 49–67/W. §-t, a felügyeleti díjakra vonatkozó 9/E. §-t, a 35. § (5)–(5a) bekezdését, valamint a jogvitás eljárásra vonatkozó 79/B–79/D. §-t nem kell alkalmazni.
 

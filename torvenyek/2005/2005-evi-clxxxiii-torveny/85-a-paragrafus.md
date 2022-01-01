@@ -6,4 +6,4 @@
 
 (4) Iparvágányon vontatási szolgáltatást vasúti vontatási szolgáltatási működési engedéllyel rendelkező vasúti társaság végezhet.
 
-(5) Iparvágányon vasúti személyszállítási szolgáltatás nem nyújtható, személyközlekedés csak a saját célú vasúti pályahálózat tulajdonosa, használója érdekében történhet a közlekedési hatóság előzetes jóváhagyásával.
+(5) Iparvágányon vasúti személyszállítási szolgáltatás nem nyújtható, személyközlekedés az iparvágány tulajdonosa, használója érdekében történhet a közlekedési hatóság előzetes jóváhagyásával.

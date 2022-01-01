@@ -6,7 +6,7 @@ a) a 79/B. § (1) bekezdés b)–d) pontja szerinti jogvitás ügy,
 
 b) a vasúti közlekedési piac felügyelete,
 
-c) vertikálisan integrált vállalkozás belső megállapodásának jóváhagyása,
+c)
 
 d) a vasúti pályahálózat-kapacitás elosztásának, valamint a Hálózati Üzletszabályzat szerinti kedvezmények biztosítására vonatkozó tárgyalások felügyelete
 

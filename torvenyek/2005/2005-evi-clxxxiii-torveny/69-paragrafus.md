@@ -10,7 +10,7 @@
 
 2. a működési engedélyhez nem kötött vasúti tevékenység és a pályahálózat-működtetés bejelentés tudomásulvételéről szóló értesítés,
 
-3. nyilvántartás vezetése a működési engedélyekről, valamint a tudomásul vett bejelentésekkel rendelkező vasúti társaságokról,
+3. nyilvántartás vezetése a működési engedélyekről, valamint a tudomásul vett bejelentésekkel rendelkező vasúti társaságokról és a bejelentett vasúti tevékenységekről,
 
 4. a Bizottság felkérésére együttműködés a 2012/34/EU irányelv III. melléklete módosítása előkészítésében,
 
@@ -50,7 +50,7 @@
 
 22. a vasúti pályahálózat-kapacitás elosztási folyamatának, és a vasúti pályahálózathoz való nyílt hozzáférésre jogosult, valamint a pályahálózat-működtető között a Hálózati Üzletszabályzatban foglaltak szerinti kedvezmények biztosítására vonatkozó tárgyalások felügyelete,
 
-23. vertikálisan integrált vállalkozás 67/T. § (1) bekezdése szerinti belső megállapodásának jóváhagyása, az abban foglaltak ellenőrzése, valamint annak megsértése esetén mérlegelési jogkörben bírság alkalmazása,
+23. vertikálisan integrált vállalkozás 67/T. § (1) bekezdése szerinti belső megállapodásában foglaltak ellenőrzése,
 
 24. a térségi és az elővárosi pályahálózat kijelölése, valamint – ha e törvény eltérően nem rendelkezik – a pályahálózat-működtető, a hozzáférésre jogosult vagy a VPSZ kérelme alapján döntés nyílt hozzáférés alól mentessé történő minősítéséről,
 

@@ -17,3 +17,5 @@
 (5) A közlekedési hatóság a vasútbiztonság körébe tartozó feladatait nem ruházhatja át, és annak elvégzésére más szervezetet – közigazgatási szerv kivételével – nem kérhet fel.
 
 (6) A 80. § (1) bekezdés b) pontjában meghatározott eljárásokban a kérelmet és mellékleteit magyar nyelven kell benyújtani.
+
+(7) A közlekedési hatóság eljárása felfüggeszthető, ha az előkérdés más szerv hatáskörébe tartozik, vagy a közlekedési hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.

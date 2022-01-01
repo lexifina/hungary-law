@@ -16,7 +16,7 @@ d) természetes személy
 
 e)
 
-(2) Azon kiszolgáló létesítményeken, amelyeken a pályahálózat-működtető alapszolgáltatást nyújt (minimális szolgáltatási csomag), a járulékos szolgáltatásokat, mint a kiszolgáló létesítményekhez való hozzáférés biztosítását és a kiszolgáló létesítményekkel nyújtott szolgáltatásokat a pályahálózat-működtető jogosult és köteles nyújtani, a kiegészítő szolgáltatásokat és a mellékszolgáltatásokat a pályahálózat-működtető nyújthatja.
+(2) Azon kiszolgáló létesítményeken, amelyeken a pályahálózat-működtető alapszolgáltatást nyújt (minimális szolgáltatási csomag), a 2. melléklet 2. pontjában szereplő szolgáltatásokhoz való hozzáférést a pályahálózat-működtető biztosítja.
 
 (3) A kiszolgáló létesítmények üzemeltetői a 2. melléklet 2–4. pontjában meghatározott szolgáltatásokat nyújtják.
 

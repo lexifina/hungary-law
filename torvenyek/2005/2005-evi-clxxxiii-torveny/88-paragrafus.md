@@ -56,6 +56,10 @@ vonatkozó részletes szabályokat,
 
 23. a kockázatértékelést végző szerv kijelölésére, kijelölést követő ellenőrzésére, tevékenységére vonatkozó szabályokat, továbbá a kockázatértékelő szervezetekkel szembeni – ideértve a felelősségbiztosítás mértékét, valamint a szakmai képzettségi és szakmai gyakorlati – követelményeket,
 
+24. a fejlesztési közreműködőként eljárni jogosult szervezetet, valamint a fejlesztési közreműködő feladatait és jogosultságait,
+
+25. a magyar állam és a GYSEV Zrt. tulajdonában álló vasúti pályahálózat részét képező GSM-R rendszerhálózat tekintetében GSM-R fejlesztőnek minősülő szervezetet
+
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy

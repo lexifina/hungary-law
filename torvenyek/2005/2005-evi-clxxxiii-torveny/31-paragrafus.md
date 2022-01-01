@@ -46,4 +46,10 @@ c) a vasút területét igénybe vevő, illetve a vasút területén tartózkod�
 
 (7) A bejelentett szervezet az Ügynökség részre megküldi az alrendszerek EK-hitelesítési tanúsítványait, valamint a kölcsönös átjárhatóságot lehetővé tevő rendszerelemek EK-megfelelőségi tanúsítványait és EK-alkalmazhatósági tanúsítványait.
 
-(8) A vasúti társaság, valamint a fejlesztési közreműködő NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) valamint a GSM-R fejlesztő az ÁME hatálybalépését követő 30 napon belül írásban tájékoztatja a közlekedési hatóságot az ÁME-vel érintetten megvalósuló és előrehaladott fejlesztési stádiumban lévő projektekről.
+(8) Az ÁME-vel érintetten megvalósuló és előrehaladott fejlesztési stádiumban lévő projektekről
+
+a) a vasúti társaság,
+
+b) a fejlesztési közreműködő, valamint
+
+c) a GSM-R fejlesztő az ÁME hatálybalépését követő 30 napon belül írásban tájékoztatja a közlekedési hatóságot.

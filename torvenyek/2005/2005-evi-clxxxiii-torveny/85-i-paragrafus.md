@@ -18,7 +18,7 @@ a) a vasúti pálya hatósági építési és műszaki engedély jogosultját,
 
 b) városi és helyi vasúti pályahálózatba tartozó vasúti pálya esetében annak tulajdonosát,
 
-c) az országos, a térségi és az elővárosi vasúti pályahálózatba tartozó vasúti pálya esetén a pályahálózat-működtetőt
+c) az országos, a térségi és az elővárosi vasúti pályahálózatba tartozó vasúti pálya esetén a pályahálózat-működtetőt vagy a fejlesztési közreműködőt
 
 kell érteni.
 
