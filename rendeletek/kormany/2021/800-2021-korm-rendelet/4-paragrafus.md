@@ -1,3 +1,1 @@
-## 3. §[^3]
-
-[^3]: A 3. § a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „(1a) Az (1) bekezdés a) pontja alkalmazásában meghatározó rész alatt a vizsgáztatásból származó nettó árbevétel ötvenegy százalékát kell érteni. Ilyennek kell tekinteni a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében meghatározott felsőoktatási intézményt is.”

@@ -1,23 +1,17 @@
-## 13. §[^13]
+## lép.
 
 ## 14. § Hatályát veszti a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet
 
-a)[^14]
+a) 32. § (2) bekezdésében az „által alkalmazható záradékokat a 2. melléklet tartalmazza. A szakképző intézmény” szövegrész,
 
-b)[^15]
+b) 30. alcíme,
 
-c)[^16]
+c) 31. alcíme,
 
-d)[^17]
+d) 253. § (4) bekezdése,
 
-e)[^18]
+e) 355/B. §-a,
 
-f)[^19]
+f)[^2]
 
-[^13]: A 13. § a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^14]: A 14. § a) pontja a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^15]: A 14. § b) pontja a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^16]: A 14. § c) pontja a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^17]: A 14. § d) pontja a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^18]: A 14. § e) pontja a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^19]: A 14. § f) pontja a 17. § (3) bekezdése alapján 2022. szeptember 15-én lép hatályba.
+[^2]: A 14. § f) pontja a 17. § (3) bekezdése alapján 2022. szeptember 15-én lép hatályba.

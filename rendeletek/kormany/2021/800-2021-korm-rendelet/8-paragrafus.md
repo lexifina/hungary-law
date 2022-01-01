@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. § A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 50. alcíme a következő 127/A. §-sal egészül ki:
 
-[^7]: A 7. § a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „127/A. § Igazgatóhelyettesi megbízást az kaphat, aki a szakképző intézmény tekintetében az oktatóra vonatkozóan a 134. §-ban előírt feltételeknek megfelel.”
