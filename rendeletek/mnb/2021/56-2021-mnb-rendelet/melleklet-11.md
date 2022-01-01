@@ -1,3 +1,7 @@
-11. melléklet az 56/2021. (XI. 24.) MNB rendelethez[^16]
+11. melléklet az 56/2021. (XI. 24.) MNB rendelethez
 
-[^16]: A 11. melléklet a 12. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+A Tpt. szerinti tőzsdei tevékenységet végző szervezet felügyeleti jelentésére vonatkozó kitöltési előírások
+
+I.
+
+A felügyeleti jelentésre vonatkozó általános szabályok

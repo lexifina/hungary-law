@@ -1,8 +1,6 @@
-## 15. §[^6]
-
 1. melléklet az 56/2021. (XI. 24.) MNB rendelethez
 
-## Általános kitöltési előírások
+Általános kitöltési előírások
 
 I.
 
@@ -275,5 +273,3 @@ Az (EU) 2018/708 bizottsági végrehajtási rendelet szerinti adatszolgáltatás
 5.5. A forgalmi típusú jelentéseknél a forintra átszámítás az ügylet napján érvényes árfolyammal történik, az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
 5.6. Az értékpapírok állományára vonatkozó jelentésekben az érvénytelen, valamint a lejárt értékpapírokat nem kell szerepeltetni.
-
-[^6]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
