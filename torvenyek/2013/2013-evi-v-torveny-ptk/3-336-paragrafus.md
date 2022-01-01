@@ -2,6 +2,8 @@
 
 (1) A közgyűlést évente legalább egyszer össze kell hívni. Az alapszabály ennél ritkább ülésezést előíró rendelkezése semmis.
 
+(1a) A közgyűlési meghívó elküldése és a közgyűlés napja között legalább tizenöt napnak kell eltelnie. Az alapszabály öt napnál rövidebb időtartamot előíró rendelkezése semmis.
+
 (2) A közgyűlési meghívó az általánosan kötelező tartalmi elemeken túl tartalmazza
 
 a) küldöttgyűlés vagy részközgyűlések tartása esetén az erre a körülményre történő utalást; és

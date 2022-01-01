@@ -9,3 +9,5 @@
 (4) Az egyesület vagyonát céljának megfelelően használhatja, vagyonát nem oszthatja fel tagjai között, és a tagok részére nyereséget nem juttathat.
 
 (5) Az egyesület alapszabálya az egyesület valamely szervezeti egységét jogi személlyé nyilváníthatja.
+
+(6) Az alapszabályban az egyesület célja mellett meg kell határozni a célok megvalósítása érdekében végezni kívánt, alapcél szerinti tevékenységeket.

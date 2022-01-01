@@ -14,7 +14,7 @@ e) a vezető tisztségviselő halálával vagy jogutód nélküli megszűnésév
 
 f) a vezető tisztségviselő cselekvőképességének a tevékenysége ellátásához szükséges körben történő korlátozásával;
 
-g) a vezető tisztségviselővel szembeni kizáró vagy összeférhetetlenségi ok bekövetkeztével.
+g) a vezető tisztségviselővel szembeni kizáró ok bekövetkeztével.
 
 (2) A jogi személy tagjai, tagság nélküli jogi személy esetén a jogi személy alapítói a vezető tisztségviselőt bármikor, indokolás nélkül visszahívhatják.
 

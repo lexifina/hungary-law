@@ -13,3 +13,5 @@ c) a törzstőke-leszállítás indokát.
 (3) A törzstőke-leszállítás összege az egyes tagok törzsbetéteit törzsbetéteik arányában csökkenti.
 
 (4) A társaság akkor határozhat a törzstőkének az e törvényben meghatározott minimális összege alá történő leszállításáról, ha a törzstőke leszállításával egyidejűleg elhatározott törzstőkeemelés megtörténik, és így a törzstőke legalább a törzstőkének az e törvényben meghatározott minimális összegét eléri.
+
+(5) A törzstőke tőkekivonással történő leszállításakor, a tagokat megillető összeg megállapítása során számításba kell venni a törzstőke csökkenése arányában a törzstőkén felüli saját tőke – lekötött tartalékkal, értékelési tartalékkal csökkentett – összegét is.

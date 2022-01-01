@@ -6,4 +6,4 @@
 
 (3) Semmis az alapszabály azon rendelkezése, amely az (1) és a (2) bekezdésben foglalt szabályoktól eltér.
 
-(4) Az auditbizottság három tagból áll. Semmis az alapszabály azon rendelkezése, amely háromnál kevesebb tagú auditbizottság felállítását írja elő.
+(4) Az auditbizottság legalább három tagból áll. Semmis az alapszabály azon rendelkezése, amely háromnál kevesebb tagú auditbizottság felállítását írja elő.

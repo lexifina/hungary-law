@@ -6,9 +6,9 @@
 
 a) osztalékelsőbbséget;
 
-b) a részvénytársaság jogutód nélkül történő megszűnése esetén a felosztásra kerülő vagyonból történő részesedés elsőbbségét;
+b) a részvénytársaság jogutód nélkül történő megszűnése esetén a felosztásra kerülő vagyonból történő részesedés elsőbbségét (likvidációs hányadhoz fűződő elsőbbség);
 
-c) a szavazati joggal összefüggő elsőbbséget;
+c) a szavazati joggal összefüggő elsőbbséget (szavazatelsőbbség);
 
 d) vezető tisztségviselő vagy felügyelőbizottsági tag kijelölésére vonatkozó elsőbbséget;
 

@@ -6,7 +6,7 @@
 
 ### 4:164. § [A szülői felügyelet közös gyakorlása]
 
-(1) A szülői felügyeletet a szülők - megállapodásuk vagy a gyámhatóság vagy a bíróság eltérő rendelkezése hiányában - közösen gyakorolják akkor is, ha már nem élnek együtt.
+(1) A szülői felügyeletet a szülők – megállapodásuk vagy a gyámhatóság vagy a bíróság eltérő rendelkezése hiányában – közösen gyakorolják akkor is, ha már nem élnek együtt. A közös szülői felügyelet úgy is gyakorolható, hogy a szülők felváltva, azonos időtartamban jogosultak és kötelesek a gyermek nevelésére és gondozására.
 
 (2) A különélő szülőknek a közös szülői felügyelet gyakorlása során biztosítaniuk kell gyermekük kiegyensúlyozott életvitelét.
 

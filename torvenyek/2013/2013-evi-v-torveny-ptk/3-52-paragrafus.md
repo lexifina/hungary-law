@@ -1,4 +1,4 @@
-### 3:52. § [Az ellenőrzött társaságok tagjainak és hitelezőinek jogosultságai]
+### 3:52. § [Az ellenőrzött jogi személyek tagjainak és hitelezőinek jogosultságai]
 
 (1) A vállalatcsoportba ellenőrzött tagként belépő jogi személyek tagjai a vállalatcsoport megalakulásáról szóló közlemény második közzétételét követő harmincnapos jogvesztő határidőn belül kérhetik, hogy az uralkodó tag részesedésüket a közlemény közzétételekor fennálló piaci értéken vásárolja meg.
 

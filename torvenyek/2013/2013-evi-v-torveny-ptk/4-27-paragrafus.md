@@ -8,9 +8,9 @@
 
 a) a születési nevét vagy a házasságkötés előtt közvetlenül viselt nevét;
 
-b) a férje teljes nevét a házasságra utaló toldással, amelyhez hozzákapcsolhatja a házasságkötés előtt közvetlenül viselt nevét;
+b) a férje teljes nevét a házasságra utaló toldással, amelyhez hozzákapcsolhatja a születési nevét vagy a házasságkötés előtt közvetlenül viselt nevét;
 
-c) a férje családi nevét a házasságra utaló toldással és ehhez a házasságkötés előtt közvetlenül viselt nevét hozzákapcsolja; vagy
+c) a férje családi nevét a házasságra utaló toldással és ehhez a születési nevét vagy a házasságkötés előtt közvetlenül viselt nevét hozzákapcsolja; vagy
 
 d) a férje családi nevét, hozzákapcsolva saját utónevét.
 

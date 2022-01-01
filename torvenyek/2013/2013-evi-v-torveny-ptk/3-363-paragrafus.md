@@ -6,4 +6,4 @@
 
 (3) A vizsgálattal a szövetkezet könyvvizsgálója nem bízható meg.
 
-(4) A vizsgálat költségeit a szövetkezet előlegezi és viseli. A szövetkezet a költségeket abban az esetben háríthatja át a tagra, ha az a vizsgálatot nyilvánvalóan alaptalanul kezdeményezte.
+(4) A vizsgálat költségeit az indítványozók kötelesek előlegezni. A vizsgálat költségeit a szövetkezet viseli, kivéve, ha az indítványozók a vizsgálatot nyilvánvalóan alaptalanul kezdeményezték.

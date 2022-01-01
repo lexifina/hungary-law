@@ -10,7 +10,7 @@ a) határozott időre jött létre és a meghatározott időtartam eltelt;
 
 b) megszűnése meghatározott feltétel bekövetkezéséhez kötött és e feltétel bekövetkezett;
 
-c) a tagok vagy alapítók kimondják megszűnését; vagy
+c) a tagok vagy alapítók legalább háromnegyedes szótöbbséggel kimondják megszűnését; vagy
 
 d) az arra jogosult szerv megszünteti
 

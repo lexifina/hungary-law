@@ -12,4 +12,6 @@ d) a részvénytársaság vagyona a tartozásait nem fedezi.
 
 (2) Az (1) bekezdésben meghatározott esetekben a részvényesek kötelesek a közgyűlésen vagy közgyűlés tartása nélkül olyan határozatot hozni, amely alkalmas az (1) bekezdésben megjelölt okok megszüntetésére; vagy dönteniük kell a társaság átalakulásáról, egyesüléséről vagy szétválásáról; ezek hiányában a társaság megszüntetéséről. A közgyűlés ezzel kapcsolatos határozatait három hónapon belül végre kell hajtani.
 
-(3) Ha a közgyűlés befejezését követő három hónapon belül az összehívására okot adó, az (1) bekezdés a) pontja szerinti körülmény változatlanul fennáll, az alaptőkét le kell szállítani.
+(3) Ha a közgyűlés befejezését követő három hónapon belül az összehívására okot adó, az (1) bekezdés a) pontja szerinti körülmény változatlanul fennáll, az alaptőkét le kell szállítani. Ha az alaptőke leszállítására nincs mód, a részvénytársaságnak az alaptőke-leszállítás meghiúsulására előírt rendelkezéseket kell alkalmaznia.
+
+(4) Semmis az alapszabály olyan rendelkezése, amely az (1)–(3) bekezdésben foglalt szabályoknál a részvénytársaságra nézve enyhébb követelményeket ír elő.

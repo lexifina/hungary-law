@@ -6,4 +6,4 @@
 
 (3) A vizsgálattal a társaság könyvvizsgálója nem bízható meg.
 
-(4) A vizsgálat költségeit a társaság előlegezi és viseli. A társaság a költségeket abban az esetben háríthatja át a tagra, ha az a vizsgálatot nyilvánvalóan alaptalanul kezdeményezte.
+(4) A vizsgálat költségeit az indítványozók kötelesek előlegezni. A vizsgálat költségeit a társaság viseli, kivéve, ha az indítványozók a vizsgálatot nyilvánvalóan alaptalanul kezdeményezték.

@@ -16,6 +16,6 @@ e) a határozati javaslatokat, minden határozat esetében azon részvények sz�
 
 (3) A részvénytársaság igazgatósága köteles a közgyűlési jegyzőkönyvet, valamint a jelenléti ívet saját dokumentumai között elhelyezni és megőrizni.
 
-(4) A nyilvánosan működő részvénytársaság igazgatósága a közgyűlési jegyzőkönyvet és a jelenléti ívet a közgyűlés befejezését követő harminc napon belül köteles a nyilvántartó bíróságnak benyújtani.
+(4) A nyilvánosan működő részvénytársaság igazgatósága a közgyűlési jegyzőkönyvet (kivonatát) és a jelenléti ívet a közgyűlés befejezését követő harminc napon belül köteles a nyilvántartó bíróságnak benyújtani.
 
 (5) Bármely részvényes a közgyűlési jegyzőkönyv másolatának vagy a jegyzőkönyv egy részét tartalmazó kivonatának a kiadását kérheti az igazgatóságtól.

@@ -6,9 +6,9 @@ a) az alapítók nyilatkozatát az összes részvény átvételére vonatkozó k
 
 b) az alaptőke összegét, az alapítás során kibocsátandó részvények számát, névértékét, illetve kibocsátási értékét, valamint a részvények előállításának módját;
 
-c) a közgyűlés összehívásának módját, a szavazati jog gyakorlásának feltételét és módját; és
+c) a közgyűlés összehívásának módját, a szavazati jog gyakorlásának feltételét és módját.
 
-d) az első könyvvizsgáló személyét.
+d)
 
 (2) Az alapítók érvényesen az alapszabályban rendelkezhetnek:
 

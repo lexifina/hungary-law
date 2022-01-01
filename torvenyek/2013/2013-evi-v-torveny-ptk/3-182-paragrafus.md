@@ -1,6 +1,6 @@
 ## XXV. Fejezet
 
-## Mellékszolgáltatás és pótbefizetés
+## Mellékszolgáltatás
 
 ### 3:182. § [A mellékszolgáltatás]
 

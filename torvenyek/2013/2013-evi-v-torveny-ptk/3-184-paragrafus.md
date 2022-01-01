@@ -10,4 +10,4 @@
 
 (3) Azokat a kifizetéseket, amelyeket az (1) bekezdés rendelkezései ellenére teljesítettek, a társaság részére vissza kell fizetni.
 
-(4) Az (1)–(3) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a tag nem a tagsági jogviszonyára tekintettel részesül kifizetésben.
+(4) E § rendelkezéseit megfelelően alkalmazni kell a tag javára nem tagsági viszonyon alapuló kifizetésekre is, ha azok összeegyeztethetetlenek a felelős társasági gazdálkodás követelményeivel.

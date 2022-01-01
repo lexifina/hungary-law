@@ -10,4 +10,4 @@ c) a társasági részesedés átruházásával;
 
 d) a tag halálával vagy megszűnésével; vagy
 
-e) a taggal szembeni kizáró vagy összeférhetetlenségi ok bekövetkeztével.
+e) a taggal szembeni kizáró ok bekövetkeztével.

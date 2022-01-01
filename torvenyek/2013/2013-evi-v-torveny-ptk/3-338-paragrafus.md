@@ -1,6 +1,6 @@
 ### 3:338. § [Határozatképesség, döntéshozatal]
 
-(1) Ha a közgyűlés határozatképtelen, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a megjelent tagok számára tekintet nélkül határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb tizenöt nappal követő időpontra hívják össze. Az alapszabály három napnál rövidebb összehívási határidőt előíró rendelkezése semmis.
+(1) Ha a közgyűlés határozatképtelen, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a megjelent tagok számára tekintet nélkül határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb tizenöt nappal követő időpontra hívják össze.
 
 (2) Az alapszabály módosításához a jelenlévők legalább kétharmadának és valamennyi tag felének a szavazata szükséges.
 

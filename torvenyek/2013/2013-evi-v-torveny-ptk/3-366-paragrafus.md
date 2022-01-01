@@ -7,7 +7,3 @@
 (3) A szövetkezet korlátolt felelősségű társasággá vagy részvénytársasággá alakulhat át.
 
 (4) A szövetkezet átalakulásával létrejövő részvénytársaság zártkörűen alapítható azzal, hogy a részvények felajánlása kizárólag az átalakuló szövetkezet tagjai, illetve üzletrész tulajdonosai részére lehetséges. A részvények átalakulás során történő, nyilvános ajánlattételnek minősülő felajánlása nem jelenti a zártkörűen működő részvénytársaság részvényeinek forgalomba hozatalára vonatkozó e törvény szerinti korlátozás sérelmét.
-
-## XXI. CÍM
-
-A SZÖVETKEZET MEGSZŰNÉSE

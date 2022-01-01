@@ -10,6 +10,6 @@
 
 a) az uralmi szerződést; és
 
-b) az ellenőrzött tagok hitelezőinek és részvényeseinek szóló felhívást.
+b) az ellenőrzött tagok hitelezőinek és tagjainak szóló felhívást.
 
 (5) Az uralkodó tag ügyvezetésének az utolsó jóváhagyásról való tudomásszerzésétől számított hatvan napon belül a nyilvántartó bíróságnak be kell nyújtani a vállalatcsoportként való működés tényének a bejegyzésére vonatkozó kérelmet.

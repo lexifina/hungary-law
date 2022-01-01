@@ -4,4 +4,4 @@
 
 (2) Ha az alapszabály a dolgozói részvényhez osztalékelsőbbségi jogot kapcsol, e jog az osztalékelsőbbséget biztosító részvényosztályba tartozó részvényekkel rendelkező részvényeseket követően gyakorolható.
 
-(3) A dolgozói részvényt a részvénytársaság alaptőkéjének felemelésével egyidejűleg, legfeljebb a felemelt alaptőke tizenöt százalékáig lehet forgalomba hozni.
+(3) A dolgozói részvényt a részvénytársaság alaptőkéjének felemelésével egyidejűleg lehet forgalomba hozni.
