@@ -1,5 +1,3 @@
-## 18. §[^9]
-
 ## 13. Záró rendelkezések
 
 19. § (1) Ez a rendelet – a (2)–(8) bekezdésekben foglalt kivétellel – 2021. július 3-án lép hatályba.
@@ -17,5 +15,3 @@
 (7) A 14. §, a 16. §, a 18. §, a 20. § és a 24. § 2022. január 1-jén lép hatályba.
 
 (8) A 25. § 2029. december 31-én lép hatályba.
-
-[^9]: A 18. § a 19. § (7) bekezdése alapján 2022. január 1-jén lép hatályba.

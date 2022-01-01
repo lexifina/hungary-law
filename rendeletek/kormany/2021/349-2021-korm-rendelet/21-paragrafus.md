@@ -1,3 +1,1 @@
-## 20. §[^10]
-
-[^10]: A 20. § a 19. § (7) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 20. § A 2022. január 1-jén az 1. mellékletben meghatározott termék forgalomba hozatalt megvalósító gyártójának minősülő személy 2022. január 15-éig kérelmezi a hulladékgazdálkodási hatóságnál történő nyilvántartásba vételét a 14. §-ban foglaltak szerint.

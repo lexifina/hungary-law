@@ -1,3 +1,1 @@
-## 24. §[^12]
-
-[^12]: A 24. § a 19. § (7) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „j) az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet 14. §-ában és 16. §-ában meghatározott hulladékgazdálkodási hatóságként.
