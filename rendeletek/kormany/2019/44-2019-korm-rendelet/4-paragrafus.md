@@ -62,7 +62,7 @@ cb) a kölcsönkérelem korábban együttes igénylőkként történő benyújt�
 
 a)[^15] az (1) bekezdés c) pontja szerinti egymást követő időszakokat össze kell számítani,
 
-b)[^16] folyamatosnak kell tekinteni az időszakot, ha abban egybefüggően legfeljebb 30 nap megszakítás van, illetve a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézménynél fennálló hallgatói jogviszony megszűnését követően a következő, babaváró támogatásra jogosító jogviszony megkezdéséig egybefüggően hat hónapnál hosszabb megszakítás nincs, amelynek időtartama az (1) bekezdés c) pontja szerint teljesítendő 3 éves jogosultsági időszakba nem számít bele
+b)[^16] folyamatosnak kell tekinteni az időszakot, ha abban egybefüggően legfeljebb 30 nap megszakítás van, illetve a felsőoktatási intézménynél fennálló hallgatói jogviszony megszűnését követően a következő, babaváró támogatásra jogosító jogviszony megkezdéséig egybefüggően hat hónapnál hosszabb megszakítás nincs, amelynek időtartama az (1) bekezdés c) pontja szerint teljesítendő 3 éves jogosultsági időszakba nem számít bele
 
 c)[^17] a kölcsönkérelem benyújtását megelőző 180 napos időtartamnak a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti jogviszonyban töltött időnek kell minősülnie az a) és b) pont alkalmazása mellett, és
 
@@ -88,7 +88,7 @@ d) a közfoglalkoztatási jogviszonyban töltött idő egy évet meghaladó rés
 [^13]: A 4. § (1) bekezdés j) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^14]: A 4. § (1a) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 25. § (2) bekezdése iktatta be.
 [^15]: A 4. § (2) bekezdés a) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^16]: A 4. § (2) bekezdés b) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított, az 530/2021. (IX. 14.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^16]: A 4. § (2) bekezdés b) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított, az 530/2021. (IX. 14.) Korm. rendelet 29. § b) pontja, a 786/2021. (XII. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.
 [^17]: A 4. § (2) bekezdés c) pontja a 252/2020. (V. 29.) Korm. rendelet 32. § (2) bekezdés b) pontja, az 530/2021. (IX. 14.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
 [^18]: A 4. § (2a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 18. § (3) bekezdése iktatta be.
 [^19]: A 4. § (2b) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 25. § (3) bekezdése iktatta be.
