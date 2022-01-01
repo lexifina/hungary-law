@@ -1,37 +1,17 @@
 ## Az értékesített villamos energia elsődleges energiaforrások szerinti eredetére vonatkozó adatok gyűjtése és szolgáltatása
 
-6. § (1)[^8] A villamos energia – az 1. § (2) bekezdés b) pontja szerinti – eladója köteles az általa értékesített összes villamos energia termeléséhez ténylegesen felhasznált minden egyes energiaforrás részarányát a tárgyévre, valamint az előző évre vonatkozóan megállapítani. A tárgyév megegyezik a naptári évvel.
+6. §[^8] (1) A villamos energia eladója, aki a villamos energiát a VET 3. § 17. pontja szerinti felhasználónak értékesíti, a számlán a felhasználót tájékoztatja a számára előző tárgyévben értékesített villamos energia termeléséhez ténylegesen felhasznált elsődleges energiaforrások részarányáról, valamint az értékesített villamos energia termelése során felhasznált elsődleges energiaforrások környezeti hatásairól.
 
-(2) A villamos energia eladója köteles a felhasználót az (1) bekezdés szerinti részarányról, ezen információ forrásáról, valamint az értékesített villamos energia termelése során felhasznált elsődleges energiaforrás környezeti hatásairól tájékoztatni.
+(2) A villamos energia eladója, aki a villamos energiát a VET 3. § 17. pontja szerinti felhasználónak értékesíti, minden évben a számlán és a számlainformációs levélben, azokhoz csatoltan vagy azokon belül jelezve tájékoztatja a felhasználót az eladó által az előző évben összesen értékesített villamos energia termeléséhez ténylegesen felhasznált elsődleges energiaforrások részarányáról, valamint az értékesített villamos energia termelése során felhasznált elsődleges energiaforrások környezeti hatásairól, de legalább a szén-dioxid-kibocsátásról és a keletkezett radioaktív hulladék mennyiségéről.
 
-(3) A tájékoztatást termelő esetén a tárgyévet követő év január 31-ig, egyéb eladó esetén a tárgyévet követő év április 30-ig kell teljesíteni.
+(3) A Hivatal a rendelkezésére álló adatok alapján minden évre vonatkozóan a következő év május 31-ig meghatározza és honlapján közzéteszi a hazai, származási garanciával nem igazolt villamosenergia-felhasználás energiaforrások szerinti megoszlását, valamint a felhasznált villamos energia termelése során felhasznált elsődleges energiaforrások környezeti hatásait.
 
-(4) A tájékoztatás történhet
+(4) Az (1) és (2) bekezdés szerinti tájékoztatáshoz a villamos energia eladója, aki a villamos energiát a VET 3. § 17. pontja szerinti felhasználónak értékesíti, az általa a villamos energia eredetének igazolására felhasznált származási garanciákat, valamint a (3) bekezdés szerinti adatokat használhatja fel.
 
-a) a kiállított számlán, előlegszámlán vagy az azok mellékletét képező számlainformációs levélben vagy
+(5) A villamos energia eladója, aki a villamos energiát a VET 3. § 17. pontja szerinti felhasználónak értékesíti – az értékesített villamos energia energiaforrások szerinti megoszlását tekintve felhasználói csoportonként –, az (1) bekezdés és a (2) bekezdés szerinti tájékoztatást is megküldi a Hivatalnak.
 
-b) a kiállított számlán, előlegszámlán meghatározott, a villamos energia vásárlója számára hozzáférhető más helyen.
+(6) Az (1), (2) és (5) bekezdés szerinti tájékoztatást egyaránt minden évre vonatkozóan a következő év július 1-jéig kell teljesíteni.
 
-(5) A (2) bekezdésben meghatározott adatokat a 2. számú mellékletnek megfelelően kell a vásárló és a Hivatal részére szolgáltatni.
+(7) A Hivatal a honlapján közzéteszi az (1) és (2) bekezdés szerinti tájékoztatás javasolt szerkezetét, formáját és a tájékoztatás adattartalmának mélységét. Az (1) és (2) bekezdés szerinti tájékoztatást a Hivatal honlapján közzétett formában és legalább a Hivatal honlapján közzétett adattartalommal kell végrehajtani.
 
-(6) Az engedélyesek a (2) bekezdésben meghatározott tájékoztatási kötelezettség teljesítése érdekében kötelesek egymással együttműködni.
-
-(7) Ha az erőmű a mindenkori tárgyévben többféle elsődleges energiaforrásból állított elő villamos energiát, de a felhasználónak értékesített villamos energiát bizonyíthatóan meghatározott energiaforrás felhasználásával termelte, adatszolgáltatásában az adott villamosenergia- mennyiség termeléséhez ténylegesen felhasznált energiaforrásra vonatkozó adatokat kell feltüntetnie.
-
-(8) A villamosenergia-kereskedelmi engedélyesek között, valamint a villamosenergia-kereskedő és az egyetemes szolgáltató között fennálló adatszolgáltatási kötelezettség teljesítése során úgy kell eljárni, hogy az a villamos energia vásárlójával szemben fennálló tájékoztatási kötelezettség teljesítését ne veszélyeztesse. Ha az egyetemes szolgáltató vagy a villamosenergia-kereskedő több eladótól vásárol villamos energiát, adatszolgáltatása teljesítésekor úgy köteles eljárni, hogy az általa kapott adatszolgáltatásokban szereplő elsődleges energiaforrásokra az azokból összesen vásárolt villamos energia mennyiségekkel súlyozott részarányokat képez.
-
-(9) A (2) bekezdésben meghatározott tájékoztatáshoz
-
-a) a szervezett villamosenergia-piacon vásárolt villamos energia értékesítése esetén
-
-aa) ha a szervezett villamosenergia-piac székhelye az Európai Gazdasági Térség valamely államában van, a szervezett villamosenergia-piac tárgyévi összesített adatait,
-
-ab) ha a szervezett villamosenergia-piac székhelye az Európai Gazdasági Térségen kívül van, a villamos energia eladója által megadott adatokat,
-
-b) ha az a) pont adatai nem állnak rendelkezésre, az érintett ország tárgyévi villamos energia termeléséhez szükséges elsődleges energiaforrások összesített átlagos összetételének megfelelő becsült értéket
-
-## kell alapul venni.
-
-(10) A (9) bekezdés a) pont ab) alpontjában, valamint b) pontjában meghatározott adatokat és a becsült értékeket – az adatszolgáltatás megkezdése előtt – tájékoztatásul be kell nyújtani a Hivatalnak.
-
-[^8]: A 6. § (1) bekezdése a 21/2021. (IV. 29.) ITM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 6. § a 49/2021. (X. 1.) ITM rendelet 2. §-ával megállapított szöveg.
