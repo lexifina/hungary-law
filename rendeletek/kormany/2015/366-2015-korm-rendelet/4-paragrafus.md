@@ -44,7 +44,7 @@ t)[^4] a Kvt. felelősségi szabályaira tekintettel közreműködik a felelőss
 
 u)[^5] folyamatosan működő ügyeleti szolgálat fenntartása mellett irányítja a vízügyi igazgatóságok vízminőség-védelmi kárelhárítási tevékenységét és szükség esetén intézkedik más vízügyi igazgatóság erőforrásainak igénybevételére,
 
-v)[^6] közreműködik a Magyar Bányászati és Földtani Szolgálat által az ásványi nyersanyag és a geotermikus energia természetes előfordulási területének komplex érzékenységi és terhelhetőségi vizsgálatáról szóló kormányrendelet szerinti vizsgálat lefolytatásában és a jelentés elkészítésében,
+v)[^6] közreműködik az állami földtani feladatokat ellátó Szabályozott Tevékenységek Felügyeleti Hatósága által az ásványi nyersanyag és a geotermikus energia természetes előfordulási területének komplex érzékenységi és terhelhetőségi vizsgálatáról szóló jogszabály szerinti vizsgálat lefolytatásában és a jelentés elkészítésében,
 
 w)[^7] tevékenységéről évente átfogó jelentést készít a vízvédelemért felelős miniszter számára.
 
@@ -53,5 +53,5 @@ w)[^7] tevékenységéről évente átfogó jelentést készít a vízvédelemé
 [^3]: A 4. § s) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.
 [^4]: A 4. § t) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.
 [^5]: A 4. § u) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^6]: A 4. § v) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 162/2017. (VI. 28.) Korm. rendelet 86. §-a szerint módosított szöveg.
+[^6]: A 4. § v) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 825/2021. (XII. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^7]: A 4. § w) pontját a 289/2016. (IX. 22.) Korm. rendelet 13. § (3) bekezdése iktatta be.

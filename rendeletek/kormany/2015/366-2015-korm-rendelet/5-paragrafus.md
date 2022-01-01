@@ -1,3 +1,5 @@
+## 4/A. §[^8] Az OVF a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti, azonnali beavatkozást igénylő vízminőségi károsodás elleni védekezési feladatait az Országos Műszaki Irányító Törzs útján látja el, a vizek kártételei elleni védekezés szabályairól szóló kormányrendelet szerint.
+
 ## 4. A vízügyi igazgatóság vízvédelmi igazgatási feladatai
 
 ## 5. § A vízügyi igazgatóság
@@ -6,11 +8,11 @@ a) a Vgtv.-ben előírtakkal összhangban, a Kvt. előírásai alapján elemzi �
 
 b) szolgáltatja a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett adatokat, információkat,
 
-c)[^8] ellátja a VKI végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi feladatokat,
+c)[^9] ellátja a VKI végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi feladatokat,
 
 d) közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásából származó feladatokban,
 
-e)[^9] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
+e)[^10] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
 
 f) közreműködik a vízvédelmi szakterületi feladatok ellátását támogató hatástanulmányok, elemzések, jelentések készítésében,
 
@@ -26,11 +28,12 @@ k) közreműködik a szennyezés csökkentési feladatok ellátásában, akcióp
 
 l) együttműködik a területi vízvédelmi hatósággal a vízvédelmi igazgatási feladatai ellátása során,
 
-m)[^10] a Kvt. felelősségi szabályaira tekintettel ellátja a felelősségi irányelv végrehajtását szolgáló, a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben meghatározott vízminőség-védelmi kárelhárítási feladatokat,
+m)[^11] a Kvt. felelősségi szabályaira tekintettel ellátja a felelősségi irányelv végrehajtását szolgáló, a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben meghatározott vízminőség-védelmi kárelhárítási feladatokat,
 
-n)[^11] a Kvt. felelősségi szabályaira tekintettel közreműködik a felelősségi irányelv végrehajtásához kapcsolódó, a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott vízvédelmi feladatokban.
+n)[^12] a Kvt. felelősségi szabályaira tekintettel közreműködik a felelősségi irányelv végrehajtásához kapcsolódó, a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott vízvédelmi feladatokban.
 
-[^8]: Az 5. § c) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^9]: Az 5. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^10]: Az 5. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
-[^11]: Az 5. § n) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^8]: A 4/A. §-t az 576/2021. (X. 12.) Korm. rendelet 3. §-a iktatta be.
+[^9]: Az 5. § c) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 5. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^12]: Az 5. § n) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
