@@ -1,13 +1,7 @@
-## 13. A felnőttképzés támogatási forrásainak felhasználása
+24. § A képzésben részt vevő személy az általa megkötött felnőttképzési szerződéshez kapcsolódóan a Kormány rendeletében meghatározottak szerint
 
-24. § (1) Az állam támogatást nyújthat
+a) képzési hitelt, illetve
 
-a) a felnőttképzési tevékenységhez szükséges engedély megszerzésére,
+b) ösztöndíjat
 
-b) felnőttképzési tevékenység keretében szervezett képzésre,
-
-c) a felnőttképzők technikai feltételei fejlesztésére és
-
-d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.
-
-(2)
+vehet igénybe.

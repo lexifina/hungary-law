@@ -26,7 +26,7 @@ c) a felnőttképzési minőségirányítási rendszert és annak külső érté
 
 d) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul,
 
-e) a képzési hitel és az ösztöndíj igénybevételének feltételeit,
+e) az ösztöndíj igénybevételének feltételeit, a képzési hitel igénybevételének részletes feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a képzési hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, az együttműködési megállapodás megkötésének és felmondásának részletes szabályait, valamint a képzési hitelrendszer működtetésének részletes szabályait,
 
 f) a képzés nemzetgazdasági szempontból kiemelt jelentőségűvé minősítésének feltételeit, eljárását és módját,
 
