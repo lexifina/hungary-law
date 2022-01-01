@@ -1,0 +1,1 @@
+79/C. § A 79/B. § (1) bekezdése szerinti, elektronikusan kezdeményezett ügyekben a magyarországi székhellyel vagy lakóhellyel rendelkező, a 79/B. § (2) bekezdésében meghatározott ügyfél és képviselője számára a hivatásos katasztrófavédelmi szerv az elektronikus ügyintézést az IHR alkalmazásával biztosítja.

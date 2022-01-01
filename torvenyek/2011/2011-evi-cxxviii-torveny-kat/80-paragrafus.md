@@ -57,3 +57,5 @@ p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és
 q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
 
 r) a személyes polgári védelmi kötelezettség és a gazdasági-anyagi szolgáltatási kötelezettség teljesítésével kapcsolatos jogorvoslati eljárás kiegészítő szabályait.
+
+s) az IHR működésének részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani.
