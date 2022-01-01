@@ -1,3 +1,1 @@
-10. § Az egészségügyről szóló 1997. évi CLIV. törvény 164. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az orvostechnikai eszközökkel végzett klinikai vizsgálatok, valamint az in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatok során a vizsgálati alany által elszenvedett kár vonatkozásában az (EU) 2017/745 rendelet 2. cikk 49. pontja, illetve az (EU) 2017/746 rendelet 2. cikk 57. pontja szerinti megbízónak (e § alkalmazásában a továbbiakban: megbízó) és a vizsgálatot végző egészségügyi szolgáltatónak a kártérítés és sérelemdíj fedezetére kötendő felelősségbiztosítására vonatkozó rendelkezéseket az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.”
+10. §
