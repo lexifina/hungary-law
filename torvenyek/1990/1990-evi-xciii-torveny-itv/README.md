@@ -100,3 +100,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2021-07-12 | 2021. évi LXX. törvény | 1990-93-00-00.181 |
 | 2021-07-13 | 2021. évi CI. törvény | 1990-93-00-00.182 |
 | 2021-12-22 | 2021. évi CXLVII. törvény | 1990-93-00-00.183 |
+| 2022-01-01 | 2021. évi XCIV. törvény | 1990-93-00-00.184 |

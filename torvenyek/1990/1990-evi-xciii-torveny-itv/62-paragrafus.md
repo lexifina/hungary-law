@@ -24,7 +24,7 @@ k) a lakásszövetkezetet a tagjával és a nem tag tulajdonosával, valamint a 
 
 l) a büntetőeljárással összefüggésben az alaptalanul alkalmazott szabadságkorlátozásért járó kártalanítás iránti perben;
 
-m) az olyan kártérítési perben, amelyet a fél a per tisztességes lefolytatásához, illetve ésszerű időn belül történő befejezéséhez fűződő alapvető jogai megsértése miatt indít;
+m) a polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel érvényesítése iránt indított bírósági nemperes eljárásban;
 
 n) magánszemély lakástulajdonát elidegenítő szerződés érvénytelenségének megállapítása iránt indított perben;
 
