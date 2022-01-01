@@ -1,5 +1,3 @@
-## esetében.
-
 ## VII. Fejezet
 
 ## A TELEPÜLÉSKÉPI KÖTELEZÉS SZABÁLYAI

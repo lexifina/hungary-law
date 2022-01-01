@@ -30,7 +30,7 @@
 
 | 14. | Zoltán utca 10. | 24700 | teljes épület |  | V |
 
-| 15. | Zoltán utca 12. | 24701 | teljes épület |  | UV |
+| 15. | Zoltán utca 12. | 24701 | teljes épület |  | V |
 
 | 16. | Nádor utca 32. / Zoltán utca 14. | 24702 | teljes épület |  |  |
 
@@ -76,7 +76,7 @@
 
 | 37. | Vécsey utca 5. / Vértanúk tere 3. / Báthory utca 1. | 24722 | teljes épület |  | UV |
 
-| 38. | Báthory utca 3. | 24723 | teljes épület |  |  |
+| 38. | Báthory utca 3. | 24723 | teljes épület |  | V |
 
 | 39. | Báthory utca 5. / Honvéd utca 4. | 24724 | teljes épület |  |  |
 
@@ -196,6 +196,6 @@
 
 | 97. | Szabadság tér 17. / Nádor utca 25–27. / Széchenyi utca 18. / Zoltán utca 17. | 24714 | teljes épület |  |  |
 
-2. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^79]
+2. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^101]
 
-[^79]: A 2. melléklet a 145/2018. (VIII. 13.) Korm. rendelet 3. §-a, a 85/2019. (IV. 23.) Korm. rendelet 10. § c) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése és 15. § d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.
+[^101]: A 2. melléklet a 145/2018. (VIII. 13.) Korm. rendelet 3. §-a, a 85/2019. (IV. 23.) Korm. rendelet 10. § c) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése és 15. § d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.

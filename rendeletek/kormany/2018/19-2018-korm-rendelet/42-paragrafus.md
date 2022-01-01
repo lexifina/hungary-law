@@ -18,12 +18,15 @@ d) rendelkezik a kötelezettségek teljesítését elősegítő anyagi biztosít
 
 e) kötelezettséget vállal arra, hogy
 
-ea) a beruházást a támogatási döntést követően legkésőbb 3 hónapon belül megkezdi,
+ea)[^65] a beruházás építési munkáit a támogatási döntést követően, vagy ha az előzetes hatósági döntéshez kötött, akkor annak véglegessé válásától, a kettő közül a későbbi időponttól számított legkésőbb három hónapon belül megkezdi,
 
-eb) a beruházást annak megkezdésétől, vagy ha az előzetes hatósági döntéshez kötött, akkor annak véglegessé válásától, a kettő közül a későbbi időponttól számított egy éven belül befejezi,
+eb)[^66] a beruházást annak megkezdésétől számított 18 hónapon belül befejezi,
 
 ec) eleget tesz a támogatás nyújtásával kapcsolatos átláthatósági követelményeknek, valamint
 
 f) vállalja, hogy a beruházással létrejövő eredmény jókarbantartását biztosítja.
 
 (3) Anyagi biztosítékként a hitelnyújtó hitelintézet általános szerződési feltételei szerinti bankári biztosítékok fogadhatók el.
+
+[^65]: A 42. § (2) bekezdés e) pont ea) alpontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 12. pontja szerint módosított szöveg.
+[^66]: A 42. § (2) bekezdés e) pont eb) alpontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.

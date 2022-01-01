@@ -32,7 +32,7 @@
 
 14. információs célú berendezés: a reklámnak, reklámhordozónak nem minősülő információt hordozó, hirdetést vagy hirdetményt tartalmazó berendezés, így különösen az önkormányzati hirdetőtábla, az önkormányzati faliújság, az információs vitrin, az útbaigazító hirdetmény, a közérdekű molinó;
 
-15. kedvezményezett: a kiemelt nemzeti emlékhely környezetében álló ingatlannak az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény szerint bejegyzett 1/1 arányú tulajdonosa, közös tulajdon esetében az 1/1 arányú tulajdoni illetőséget kiadó tulajdonosok külön-külön és együttesen, társasház esetében a társasház és az 1/1 arányú tulajdoni illetőséget kiadó tulajdonostársak külön-külön és együttesen;
+15.[^5] kedvezményezett: az önerő pótló támogatás tekintetében a kiemelt nemzeti emlékhely környezetében álló ingatlannak az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény szerint bejegyzett 1/1 arányú tulajdonosa, közös tulajdon esetében az 1/1 arányú tulajdoni illetőséget kiadó tulajdonosok együttesen, a beruházási kölcsön támogatás tekintetében kedvezményezettek azok a tulajdonosok, társasház esetén a társasház, akikkel a kijelölt hitelintézet vagy a programhoz csatlakozott hitelintézet szerződést köt, társasház esetében a társasház és az 1/1 arányú tulajdoni illetőséget kiadó tulajdonostársak együttesen;
 
 16. kereskedelmi rendeltetés: a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 9. pontjában meghatározott kereskedelmi tevékenységet szolgáló rendeltetés, ideértve az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) szerinti kereskedelmi rendeltetést;
 
@@ -66,14 +66,15 @@ e) a kollektív befektetési formákról és kezelőikről, valamint egyes pénz
 
 25. társasház: a kiemelt nemzeti emlékhely településkép-védelmi környezetében álló ingatlanon a társasházakról szóló 2003. évi CXXXIII. törvényben meghatározott társasház;
 
-25a.[^5] üzletjelzés: reklámnak, plakátnak nem minősülő, falsíkra merőleges cégér, üzlettábla, üzletfelirat;
+25a.[^6] üzletjelzés: reklámnak, plakátnak nem minősülő, falsíkra merőleges cégér, üzlettábla, üzletfelirat;
 
-26.[^6] üzletportál: minden olyan földszinti és esetlegesen hozzá kapcsolódó félemeleti nyílászáró, annak aránya, anyaga és környezetének építészeti kialakítása, részletképzése, amely az épület földszinti helyiségeibe való bejutást lehetővé teszi és nem az épület bejárati kapuja, garázsbehajtója vagy üzlet gazdasági bejárata, továbbá minden olyan ezektől független nyílás, amely így megközelíthető helyiségből az utcafrontról nyílik;
+26.[^7] üzletportál: minden olyan földszinti és esetlegesen hozzá kapcsolódó félemeleti nyílászáró, annak aránya, anyaga és környezetének építészeti kialakítása, részletképzése, amely az épület földszinti helyiségeibe való bejutást lehetővé teszi és nem az épület bejárati kapuja, garázsbehajtója vagy üzlet gazdasági bejárata, továbbá minden olyan ezektől független nyílás, amely így megközelíthető helyiségből az utcafrontról nyílik;
 
 27. vendéglátási rendeltetés: a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontjában meghatározott tevékenységet szolgáló rendeltetés, ideértve az OTÉK szerinti vendéglátó rendeltetést.
 
 [^2]: A 3. § 3. pontja a 85/2019. (IV. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § 10. pontja a 90/2018. (IV. 25.) Korm. rendelet 7. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
 [^4]: A 3. § 10a. pontját a 197/2020. (V. 12.) Korm. rendelet 1. §-a iktatta be.
-[^5]: A 3. § 25a. pontját a 85/2019. (IV. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^6]: A 3. § 26. pontja a 85/2019. (IV. 23.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^5]: A 3. § 15. pontja a 776/2021. (XII. 23.) Korm. rendelet 7. § 1. pontja és 8. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § 25a. pontját a 85/2019. (IV. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^7]: A 3. § 26. pontja a 85/2019. (IV. 23.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
