@@ -6,7 +6,7 @@
 
 (3) Csoportképző ismérvek szerinti adatszolgáltatás iránti kérelmet a Nyilvántartóhoz lehet benyújtani.
 
-(4)[^3]
+(4)[^16]
 
 (5) A kérelmező az adat igénylésekor azt a tényt vagy eseményt köteles megjelölni, amely az adatfelhasználási cél alapját képező – az érintett és közötte fennálló – kapcsolatot hitelt érdemlően igazolja.
 
@@ -16,4 +16,4 @@
 
 (8) A kérelemnek tartalmaznia kell az 1. melléklet szerinti adatokat.
 
-[^3]: A 6. § (4) bekezdését a 31/2020. (II. 29.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^16]: A 6. § (4) bekezdését a 31/2020. (II. 29.) Korm. rendelet 19. §-a hatályon kívül helyezte.
