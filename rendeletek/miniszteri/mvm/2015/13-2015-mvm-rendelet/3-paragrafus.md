@@ -1,33 +1,3 @@
-3. § (1) A régészeti lelőhelyek nyilvántartása tartalmazza:
+## 2. §[^4]
 
-a) a nyilvántartott régészeti lelőhely megnevezését, egyedi azonosító számát, a fekvése szerinti települést és a lelőhely településen belüli sorszámát,
-
-b) a nyilvántartott régészeti lelőhely természetbeni elhelyezkedésének a különböző feltárási módszerekkel meghatározott, EOV rendszerű vektoros kiterjedését,
-
-c) a nyilvántartott régészeti lelőhely védettségére vonatkozó adatokat:
-
-ca) az általános, kiemelt, fokozott vagy ideiglenes védettség megjelölését,
-
-cb) a védettség keletkezésének időpontját, ideiglenes védelem esetében a védelem időbeli hatályát,
-
-cc) a védettséget keletkeztető miniszteri döntés, határozat vagy jogszabály számát,
-
-cd)[^4] a védetté nyilvánított régészeti lelőhelyre vonatkozó elővásárlási jog fennállásának tényét,
-
-d) azon ingatlanok ingatlan-nyilvántartási adatait (helyrajzi szám, terület, művelési ág), amelyek területén a lelőhely fekszik,
-
-e) a védetté nyilvánított régészeti lelőhely védőövezetének b) és c) pont szerinti adatait,
-
-f) az ingatlan-nyilvántartási térképi adatbázisból legyűjthető, a lelőhely és a védőövezet kiterjedését lefedő vektoros állományt,
-
-g) a nyilvántartott régészeti lelőhely régészeti szempontú leírását, a régészeti emlékek vagy leletek adatait, így különösen kormeghatározását, klasszifikációját, jellegét, elhelyezkedését, előkerülési módját és időpontját, a feltárásra és a kutatásra vonatkozó adatokat, illetve forrásaikat, veszélyeztetettségét, állapotát,
-
-h) a lelőhelyre vonatkozó hatósági határozatok, szakhatósági állásfoglalások számát, keltét, jogerejét és az elrendelt intézkedések tartalmát,
-
-i) az örökségvédelmi bírságkategóriába történő besorolást, valamint
-
-j) a védettség megszűnése esetén annak időpontját és az arról rendelkező jogszabály számát.
-
-(2) A nyilvántartás az (1) bekezdés d), valamint f)–h) pontja szerinti tartalmi követelményeket jogszabály vagy szolgáltatási szerződés alapján más, jogszabály alapján vezetett nyilvántartás tartalmára hivatkozással, annak közvetlen informatikai elérését biztosítva is teljesítheti.
-
-[^4]: A 3. § (1) bekezdés c) pont cd) alpontját a 32/2016. (XII. 14.) MvM rendelet 1. §-a iktatta be.
+[^4]: A 2. §-t a 776/2021. (XII. 23.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
