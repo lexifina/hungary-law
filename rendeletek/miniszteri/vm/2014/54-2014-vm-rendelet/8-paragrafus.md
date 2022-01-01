@@ -1,3 +1,3 @@
-## 7/B. §[^29] E rendeletnek az egyes agrár-, valamint mezőgazdasági csekély összegű támogatást tartalmazó miniszteri rendeletek módosításáról szóló 41/2020. (VIII. 19.) AM rendelettel megállapított 6/A. §-át a 2020. július 1. és 31. között benyújtott támogatási kérelmeket elbíráló támogatási döntések esetében kell alkalmazni.
+## 7/C. §[^30] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 50/2021. (XII. 29.) AM rendelettel módosított 3. § (2) bekezdését a 2022. támogatási évre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban kell alkalmazni.
 
-[^29]: A 7/B. §-t a 41/2020. (VIII. 19.) AM rendelet 8. §-a iktatta be.
+[^30]: A 7/C. §-t az 50/2021. (XII. 29.) AM rendelet 13. §-a iktatta be.
