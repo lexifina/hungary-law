@@ -4,6 +4,8 @@
 
 (2) A Hatóság a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezésnek minősülő rendelkezésen alapuló hatósági eljárásaiban az Ákr. rendelkezéseit a fogyasztóvédelemről szóló törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
 
+(2a) A Hatóság a 3. § (6) bekezdése szerinti feladatkörében lefolytatott hatósági eljárásaiban az Ákr. rendelkezéseit a fogyasztóvédelemről szóló törvényben, a termékek piacfelügyeletéről szóló törvényben és az Ibtv.-ben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+
 (3) Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül a Hatóság intézkedik a hiánypótlási felhívás kibocsátásáról. Hiánypótlási felhívás kibocsátásának legfeljebb három alkalommal van helye.
 
 (4) A Hatóság felfüggeszti az eljárást, ha az előkérdés más szerv hatáskörébe tartozik, vagy az ügy a Hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.

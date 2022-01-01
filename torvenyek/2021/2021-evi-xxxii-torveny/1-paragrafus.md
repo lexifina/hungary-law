@@ -16,6 +16,8 @@ d) a felszámolói névjegyzék, valamint a felszámoló szervezetek más hatós
 
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 
+(1a) A Hatóság a bányafelügyeleti és állami földtani feladatokat ellátó szerv.
+
 (2) A Hatóság ellátja az állam nevében lefolytatandó, koncessziós szerződés megkötésére irányuló eljárásokkal (a továbbiakban: koncessziós eljárás) és a koncessziós szerződésekkel kapcsolatos egyes, e törvényben meghatározott feladatokat.
 
 (3) A Hatóság székhelye Budapest.

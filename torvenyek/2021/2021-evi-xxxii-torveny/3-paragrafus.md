@@ -6,11 +6,13 @@ a) a fiatalkorúak dohányzásának visszaszorításáról és a dohányterméke
 
 b) a bírósági végrehajtásról szóló törvény,
 
-c) a szerencsejáték szervezéséről szóló törvény, és
+c) a szerencsejáték szervezéséről szóló törvény,
 
-d) a csődeljárásról és a felszámolási eljárásról szóló törvény
+d) a csődeljárásról és a felszámolási eljárásról szóló törvény, és
 
-és az e törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó szervezetek, személyek ezen jogszabályok szerinti tevékenységének felügyeletét, valamint az e jogszabályokban meghatározott, a Hatóság feladat- és hatáskörébe tartozó feladatokat.
+e) a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.)
+
+és az e törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó szervezetek, személyek ezen jogszabályok szerinti tevékenységének felügyeletét, valamint az e jogszabályokban meghatározott, a Hatóság feladat és hatáskörébe tartozó feladatokat.
 
 (2) A Hatóság látja el szerencsejátékot népszerűsítő reklám tekintetében a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésében és 21. §-ában foglaltak megsértése esetén a fogyasztóvédelmi hatósági feladatokat.
 
@@ -22,7 +24,7 @@ a) a Hatóság elnökének rendeletében foglaltak szerint nyilvántartást veze
 
 b) gondoskodik az e törvény szerinti közzétételi kötelezettségek teljesítéséről, továbbá az e törvény által előírt egyéb adatok, információk honlapján történő közzétételéről,
 
-c) figyelemmel kíséri a koncessziós eljárásokat, valamint a koncessziós szerződések teljesítését, hatósági ellenőrzés keretében – a Hatóság elnökének rendeletében meghatározott részletes szabályok szerint –ellenőrzi az (1) bekezdés a) és c) pontja szerinti törvényekben szabályozott, azon kizárólagos állami gazdasági tevékenység folytatását, amely gyakorlásának jogát az állam koncesszió útján időlegesen átengedte (a továbbiakban: koncesszióköteles tevékenység), valamint jogsértés esetén megteszi a törvényben meghatározott intézkedéseket,
+c) figyelemmel kíséri a koncessziós eljárásokat, valamint a koncessziós szerződések teljesítését, hatósági ellenőrzés keretében – a Hatóság elnökének rendeletében meghatározott részletes szabályok szerint –ellenőrzi az (1) bekezdés a), c) és e) pontja szerinti törvényekben szabályozott, azon kizárólagos állami gazdasági tevékenység folytatását, amely gyakorlásának jogát az állam koncesszió útján időlegesen átengedte (a továbbiakban: koncesszióköteles tevékenység), valamint jogsértés esetén megteszi a törvényben meghatározott intézkedéseket,
 
 d) a koncessziós eljárások előkészítése és lebonyolítása során – elvi jelentőségű jogértelmezési kérdésekben állásfoglalásokat ad ki,
 
@@ -33,3 +35,5 @@ f) statisztikai adatokat gyűjt a koncessziós eljárásokról, a koncessziós s
 g) előzetes egyetértési jogot gyakorol az állam nevében történő koncessziós pályázat kiírása, elbírálása, ajánlattételi felhívás kiküldése, továbbá a koncessziós szerződés megkötése, a koncessziós szerződés módosítása, megszüntetése tekintetében.
 
 (5) Az (EU) 2018/574 bizottsági végrehajtási rendelet 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság.
+
+(6) A Hatóság látja el az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 22/B. § (1) bekezdés a) pontja szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait.
