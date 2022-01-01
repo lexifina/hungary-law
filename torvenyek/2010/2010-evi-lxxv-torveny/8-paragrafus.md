@@ -4,7 +4,7 @@
 
 (3) Az (1) és (2) bekezdésben szabályozott közteher megfizetésével nem terheli
 
-a) a munkáltatót szociális hozzájárulási adó, szakképzési hozzájárulás és rehabilitációs hozzájárulás, valamint az Szja.tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
+a) a munkáltatót szociális hozzájárulási adó és rehabilitációs hozzájárulás, valamint az Szja.tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
 
 b) a munkavállalót társadalombiztosítási járulékfizetési, és személyi jövedelemadóelőleg-fizetési kötelezettség.
 
