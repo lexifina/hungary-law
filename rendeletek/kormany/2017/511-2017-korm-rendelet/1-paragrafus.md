@@ -4,6 +4,10 @@
 
 (2) A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: ER.) Függelékeiben meghatározott EK típusjóváhagyás szerint kiadott típusbizonyítvány az azt kérelmező gyártó (a továbbiakban: a típusbizonyítvány jogosítottja) részére a típusbizonyítványban meghatározott járműtípus, típusváltozat, kivitel tekintetében – a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben (a továbbiakban: MR.) meghatározott követelmények teljesítéséig – általános forgalomba helyezési engedélynek minősül.
 
+(2a)[^1] Az Általános Forgalombahelyezési Engedély (a továbbiakban: ÁFE) iránti kérelmet a 16/L. § szerinti engedéllyel rendelkező járműforgalmazó nyújthatja be az általa forgalmazott járművek tekintetében.
+
 (3) A közlekedési hatóság vizsgálja az (1) bekezdésben foglalt feltétel meglétét. Ha a vizsgálat során hiányosságot állapít meg, a korábban kiadott általános forgalomba helyezési engedély időbeli hatályát a közlekedési hatóság a hiányosság megszüntetéséig felfüggeszti.
 
 (4) Járműsorozat forgalomba helyezésének engedélyezésére irányuló kérelemre a közlekedési hatóság – a járművek alvázszámait is tartalmazó – sorozat forgalomba helyezési engedélyt ad ki.
+
+[^1]: Az 1. § (2a) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 68. §-a iktatta be.

@@ -1,4 +1,4 @@
-7/A. §[^4] (1) Vizsgabiztosi tevékenységet a közlekedési hatóság kormánytisztviselője vagy a tanúsító vizsgáló állomással foglalkoztatási jogviszonyban álló személy (a tanúsító vizsgálóállomás vizsgabiztosa) végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek. Az engedély határozatlan időre szól.
+7/A. §[^5] (1) Vizsgabiztosi tevékenységet a közlekedési hatóság kormánytisztviselője vagy a tanúsító vizsgáló állomással foglalkoztatási jogviszonyban álló személy (a tanúsító vizsgálóállomás vizsgabiztosa) végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek. Az engedély határozatlan időre szól.
 
 (2) Vizsgabiztosi tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki
 
@@ -84,4 +84,4 @@ b) a (6) bekezdésben előírt bejelentési kötelezettség teljesítését elmu
 
 (9) Az eltiltás időtartama a (8) bekezdés b) pontjában meghatározott esetben az eltiltást megalapozó okok megszüntetéséig, de legfeljebb hat hónapig tarthat.
 
-[^4]: A 7/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (1) bekezdése iktatta be.
+[^5]: A 7/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (1) bekezdése iktatta be.
