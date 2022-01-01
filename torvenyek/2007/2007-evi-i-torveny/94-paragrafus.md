@@ -38,7 +38,7 @@ c) a bevándorlási vagy letelepedési engedély kiállítását jogszabály kiz
 
 a) a (2) bekezdés a), b) és e)–h) pontjában meghatározott esetben,
 
-b) ha a harmadik országbeli állampolgár tartózkodása sérti Magyarország közrendjét, köz- vagy nemzetbiztonsági érdekét.
+b) ha a harmadik országbeli állampolgár tartózkodása veszélyezteti Magyarország közrendjét, köz- vagy nemzetbiztonsági érdekét.
 
 (5) A (4) bekezdés b) pontjában meghatározott szakkérdésben a Harmtv. letelepedési engedély kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági vélemény kérése céljából.
 
