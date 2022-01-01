@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-267-20-
 | 2014-01-01 | 2000-267-20-22.17 | 63/2013. (III. 4.) Korm. rendelet |
 | 2015-04-01 | 2000-267-20-22.18 | 95/2012. (V. 15.) Korm. rendelet |
 | 2018-01-01 | 2000-267-20-22.19 | 102/2013. (III. 29.) Korm. rendelet |
+| 2022-01-01 | 2000-267-20-22.20 | 63/2013. (III. 4.) Korm. rendelet |
