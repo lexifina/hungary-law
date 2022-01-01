@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-218-20-
 | 2019-10-01 | 2003-218-20-22.24 | 219/2019. (IX. 10.) Korm. rendelet |
 | 2020-01-01 | 2003-218-20-22.25 | 219/2019. (IX. 10.) Korm. rendelet |
 | 2021-07-01 | 2003-218-20-22.26 | 219/2019. (IX. 10.) Korm. rendelet |
+| 2022-01-01 | 2003-218-20-22.27 | 789/2021. (XII. 27.) Korm. rendelet |

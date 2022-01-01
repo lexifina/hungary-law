@@ -4,6 +4,8 @@
 
 ## – Amerikai Egyesült Államok
 
+## – Argentína
+
 ## – Ausztrál Államszövetség
 
 ## – Azerbajdzsáni Köztársaság
@@ -20,9 +22,13 @@
 
 ## – Dán Királyság
 
+## – Egyesült Arab Emírségek
+
+## – Észak-macedón Köztársaság
+
 ## – Észt Köztársaság
 
-## – Fehér-Oroszország
+## – Fehéroroszország
 
 ## – Finn Köztársaság
 
@@ -40,13 +46,19 @@
 
 ## – Izlandi Köztársaság
 
+## – Izrael
+
 ## – Írország
 
 ## – Japán
 
 ## – Kanada
 
+## – Kazahsztán
+
 ## – Kínai Népköztársaság
+
+## – Kolumbia
 
 ## – Koreai Köztársaság
 
@@ -60,15 +72,17 @@
 
 ## – Luxembourgi Nagyhercegség
 
-## – Macedón Köztársaság
-
 ## – Magyarország
+
+## – Marokkó
 
 ## – Máltai Köztársaság
 
 ## – Mexikói Egyesült Államok
 
 ## – Moldovai Köztársaság
+
+## – Mongólia
 
 ## – Montenegrói Köztársaság
 
@@ -104,11 +118,15 @@
 
 ## – Török Köztársaság
 
+## – Tunézia
+
 ## – Ukrajna
 
 ## – Új-Zéland
 
-5. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^64]
+## – Üzbegisztán
+
+5. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^66]
 
 Kérelem a 2/A. §-ban meghatározott – mozgásában korlátozott személyeket ellátó – intézmény
 
@@ -176,4 +194,4 @@ a személyes megjelenésben akadályozott jogosult által
 
 meghatalmazott személy aláírása
 
-[^64]: Az 5. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^66]: Az 5. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
