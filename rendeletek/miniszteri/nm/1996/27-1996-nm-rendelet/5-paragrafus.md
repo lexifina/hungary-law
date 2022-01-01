@@ -50,7 +50,7 @@ h) a kivizsgálást követő hatósági intézkedés ismertetését;
 
 i) az esemény körülményeinek és a kivizsgálás tapasztalatainak részletes leírását.
 
-(8)[^32] A bejelentés teljeskörűségét, szakmai megalapozottságát a munkahigiénés és foglalkozás-egészségügyi szerv bírálja el, és ennek során jogosult:
+(8)[^32] A bejelentés teljeskörűségét, szakmai megalapozottságát a munkahigiénés és foglalkozás-egészségügyi szerv a bejelentőlap és a vizsgálati lap beérkezésétől számított legkésőbb 30 napon belül bírálja el, mely határidő adatkiegészítést vagy a bejelentett személy személyes szakorvosi vizsgálatát igénylő esetben egy alkalommal 30 nappal meghosszabbítható, és ennek során jogosult:
 
 a) saját hatáskörben – betegség esetén – további vizsgálatokat végezni, egyes vizsgálatokat megismételni;
 
@@ -97,7 +97,7 @@ c)[^39] TAJ számmal ellátva és a bejelentőlappal, valamint a munkahigiénés
 [^29]: Az 5. § (6) bekezdése a 10/2019. (IX. 4.) PM rendelet 13. § d) pontja szerint módosított szöveg.
 [^30]: Az 5. § (7) bekezdése a 10/2019. (IX. 4.) PM rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^31]: Az 5. § (7a) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (4) bekezdése iktatta be.
-[^32]: A 5. § (8) bekezdés nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés g) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^32]: A 5. § (8) bekezdés nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés g) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés c) pontja, a 32/2021. (VII. 26.) ITM rendelet 2. §-a szerint módosított szöveg.
 [^33]: Az 5. § (8) bekezdés c) pontja a 9/2015. (III. 31.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
 [^34]: Az 5. § (9) bekezdése a 32/2021. (VII. 26.) ITM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^35]: Az 5. § (9a) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (6) bekezdése iktatta be, nyitó szövegrésze a 22/2020. (VI. 29.) ITM rendelet 4. § c) pontja szerint módosított szöveg.
