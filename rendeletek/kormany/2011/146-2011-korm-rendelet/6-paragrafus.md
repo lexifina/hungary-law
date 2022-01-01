@@ -1,5 +1,7 @@
 ## 5. § A vízkárelhárítási célú tározók üzemeltetése a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendelet és a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendelet előírásai szerint készített üzemeltetési szabályzat alapján történik.
 
-6. § (1) A vízkárelhárítási célú tározó árvízi és belvízi szabályozási célú igénybevételét a vizek kártételei elleni védekezés szabályairól szóló kormányrendelet szerint az Országos Műszaki Irányító Törzs rendeli el, az előzetesen elfogadott üzemelési szabályzat alapján, az abban meghatározott feltételek figyelembevételével.
+6. § (1)[^5] A vízkárelhárítási célú tározó vízkárelhárítási célú igénybevételét – a vizek kártételei elleni védekezés szabályairól szóló kormányrendeletben meghatározott feltétellel – az Országos Műszaki Irányító Törzs vezetője rendeli el az üzemeltetési szabályzatban foglaltak figyelembevételével, ha a tározó megnyitása műszakilag nem automatikusan történik, és a tározótérben magántulajdonú ingatlan van.
 
 (2) Az igénybevétel várható idejéről, valamint az elöntés mértékéről az elrendelést követően a vízkárelhárítási célú tározó kezelője azonnal értesíti az érintett települések polgármestereit a megyei védelmi bizottságokon keresztül.
+
+[^5]: A 6. § (1) bekezdése az 576/2021. (X. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
