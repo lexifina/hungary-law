@@ -16,4 +16,4 @@ f) amelyet kizárólag az egészségügyi alapellátásról szóló 2015. évi C
 
 g) amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltet,
 
-h) amely törvényes öröklés eredményeként a magyar állam tulajdonában áll, azon hónap utolsó napjáig, melyben a személygépkocsi vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
+h) amely törvényes öröklés eredményeként vagy végintézkedés alapján a magyar állam tulajdonában áll, azon hónap utolsó napjáig, amelyben a személygépkocsi használati jogát a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság, vagy a vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
