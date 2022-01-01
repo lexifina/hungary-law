@@ -1,6 +1,5 @@
-## 9/B. §[^23] E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 25/2021. (VII. 14.) AM rendelettel [a továbbiakban: 25/2021. (VII. 14.) AM rendelet] megállapított 5. § (3a) és (3b) bekezdését a 25/2021. (VII. 14.) AM rendelet hatálybalépésekor[^24] folyamatban lévő eljárásokban is alkalmazni kell.
+## 9/C. §[^25] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 50/2021. (XII. 29.) AM rendelettel módosított 3. § (1) bekezdését és 2. mellékletét a 2021/2022. tárgyévre benyújtott kérelmekre indult eljárásokban kell alkalmazni.
 
 1. melléklet a 38/2016. (VI. 6.) FM rendelethez
 
-[^23]: A 9/B. §-t a 25/2021. (VII. 14.) AM rendelet 2. §-a iktatta be.
-[^24]: A hatálybalépés időpontja 2021. július 17.
+[^25]: A 9/C. §-t az 50/2021. (XII. 29.) AM rendelet 20. §-a iktatta be.

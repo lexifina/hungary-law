@@ -4,7 +4,7 @@
 
 | 1. | Baromfi megnevezés-csoport | Támogatási keret (millió Ft) |
 
-| 2. | étkezési tojást termelő tyúk, valamint tenyésztyúk | 1420 |
+| 2. | étkezési tojást termelő tyúk, valamint tenyésztyúk | 1320 |
 
 | 3. | tenyészliba | 90 |
 
