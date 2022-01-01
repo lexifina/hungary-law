@@ -1,4 +1,4 @@
-## VII/A. Fejezet[^286]
+## VII/A. Fejezet[^288]
 
 ## ÜGYFÉLSZOLGÁLAT
 
@@ -6,7 +6,7 @@
 
 (2) Az állandó ügyfélszolgálati iroda a hét minden munkanapján legalább napi 6 órás, és – 5 munkanapos hetet alapul véve – legalább heti 36 órás nyitva tartással működik, ahol a hét legalább egy munkanapján a meghosszabbított nyitva tartást 20 óráig biztosítani kell. Az állandó ügyfélszolgálati irodán a nyitva tartási időben biztosítani kell a bankkártyás és a készpénzes fizetési lehetőséget.
 
-(3)[^287] Az ügyfélszolgálati fiókiroda legalább heti két munkanapon, összesen legalább heti 8 órás nyitva tartással működik, ahol a hét legalább egy munkanapján az ügyintézés 18 óráig biztosított. Az ügyfélszolgálati fiókiroda köteles fizetési számlára történő készpénzbefizetési utalványt rendelkezésre tartani, és – ha azt a víziközmű-szolgáltató üzletszabályzata előírja – készpénzes fizetési lehetőséget biztosítani.
+(3)[^289] Az ügyfélszolgálati fiókiroda legalább heti két munkanapon, összesen legalább heti 8 órás nyitva tartással működik, ahol a hét legalább egy munkanapján az ügyintézés 18 óráig biztosított. Az ügyfélszolgálati fiókiroda köteles fizetési számlára történő készpénzbefizetési utalványt rendelkezésre tartani, és – ha azt a víziközmű-szolgáltató üzletszabályzata előírja – készpénzes fizetési lehetőséget biztosítani.
 
 (4) A víziközmű-szolgáltató legalább egy állandó ügyfélszolgálati irodát köteles működtetni a székhelyén, vagy az üzemeltetési területének azon településén, ahol a legtöbb felhasználót és elkülönített vízhasználót ellátja, továbbá az ellátási területen fekvő megyei jogú városban (fővárosban). Minden más ellátási területen, ahol a víziközmű-szolgáltató rendszeréhez tartozó felhasználók és elkülönített vízhasználók száma összességében meghaladja a 20 000-et, a víziközmű-szolgáltató fiókirodát működtet a tömegközlekedéssel legjobban elérhető, központi fekvésű településen.
 
@@ -14,5 +14,5 @@
 
 (6) Az ügyfélszolgálatok (2) és (3) bekezdés figyelembevételével megállapított nyitva tartási idejét a víziközmű-szolgáltató üzletszabályzata rögzíti.
 
-[^286]: A VII/A. fejezetet (89/A–89/C. §) a 292/2014. (XI. 26.) Korm. rendelet 30. §-a iktatta be.
-[^287]: A 89/A. § (3) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 33. pontja szerint módosított szöveg.
+[^288]: A VII/A. fejezetet (89/A–89/C. §) a 292/2014. (XI. 26.) Korm. rendelet 30. §-a iktatta be.
+[^289]: A 89/A. § (3) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 33. pontja szerint módosított szöveg.

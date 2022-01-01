@@ -34,9 +34,9 @@ g) a korábbi felhasználó vagy annak helyén a (6) bekezdés szerinti bejelent
 
 (4) Az (1) bekezdés szerinti bejelentés egyúttal az új felhasználó közszolgáltatási szerződés megkötésére vonatkozó igényének is minősül.
 
-(5) Az (1) bekezdés szerinti bejelentést a víziközmű-szolgáltató üzletszabályzatában meghatározott adattartalmú formanyomtatványon kell benyújtani. A víziközmű-szolgáltató a formanyomtatványt az ügyfélszolgálatán hozzáférhetővé teszi és honlapján elektronikusan letölthető formátumban közzéteszi, továbbá azt kérés esetén a korábbi felhasználó vagy az új felhasználó számára postai úton is megküldi.
+(5)[^162] Az (1) bekezdés szerinti bejelentést a víziközmű-szolgáltató üzletszabályzatában meghatározott adattartalmú formanyomtatványon vagy a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 1. § (1) bekezdés 2. pontjában meghatározott adatváltozás-kezelési szolgáltatás útján (a továbbiakban: adatváltozás-kezelési szolgáltatás) kell benyújtani. A víziközmű-szolgáltató a formanyomtatványt az ügyfélszolgálatán hozzáférhetővé teszi és honlapján elektronikusan letölthető formátumban közzéteszi, továbbá azt kérés esetén a korábbi felhasználó vagy az új felhasználó számára postai úton is megküldi.
 
-(6) A felhasználó elhalálozása esetén az örökös az elhalálozás tényét legkésőbb annak tudomására jutása napjától számított 60 napon belül a víziközmű-szolgáltató számára az (5) bekezdésben meghatározott formanyomtatványon bejelenti. A bejelentésnek legalább az (3) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat, valamint a halotti anyakönyvi kivonat másolatát kell tartalmaznia. A bejelentés az örökös közszolgáltatási szerződés megkötésére vonatkozó igényének minősül.
+(6)[^163] A felhasználó elhalálozása esetén az örökös az elhalálozás tényét legkésőbb annak tudomására jutása napjától számított 60 napon belül a víziközmű-szolgáltató számára az (5) bekezdésben meghatározott formanyomtatványon vagy adatváltozás-kezelési szolgáltatás útján bejelenti. A bejelentésnek legalább az (3) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat, valamint a halotti anyakönyvi kivonat másolatát kell tartalmaznia. A bejelentés az örökös közszolgáltatási szerződés megkötésére vonatkozó igényének minősül.
 
 (7) Ha a felhasználó a felhasználási helyen a víziközmű-szolgáltatás igénybevételével felhagy, a felhasználási hely tekintetében mindaddig felel a víziközmű-szolgáltatóval szemben a víziközmű-szolgáltatási szerződésben foglaltak teljesítéséért, amíg az (1) bekezdés szerinti bejelentést meg nem teszi vagy nem kéri a szüneteltetést.
 
@@ -49,3 +49,5 @@ g) a korábbi felhasználó vagy annak helyén a (6) bekezdés szerinti bejelent
 (11) Ha a víziközmű-szolgáltató a (9) bekezdésben foglalt ellenőrzési feladatának a felhasználóváltás bejelentésétől számított 30 napon belül nem tesz eleget, nem hivatkozhat felhasználói szerződésszegésre, és ezen a jogcímen nem érvényesíthet igényt a felhasználóval szemben.
 
 [^161]: A 60. § a 342/2016. (XI. 17.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^162]: A Vhr. 60. § (5) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^163]: A Vhr. 60. § (6) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

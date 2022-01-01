@@ -1,12 +1,12 @@
 ## 20. Vízmérés
 
-62. §[^170] (1)[^171] A víziközmű-szolgáltatás elszámolásának alapjául szolgáló vízmennyiséget hiteles és víziközmű-szolgáltató vagy megbízott vállalkozója által plombált vagy leszerelést megakadályozó zárral ellátott fogyasztásmérő berendezéssel kell mérni.
+62. §[^172] (1)[^173] A víziközmű-szolgáltatás elszámolásának alapjául szolgáló vízmennyiséget hiteles és víziközmű-szolgáltató vagy megbízott vállalkozója által plombált vagy leszerelést megakadályozó zárral ellátott fogyasztásmérő berendezéssel kell mérni.
 
-(2)[^172] Egy felhasználási helyen belül a nem lakossági felhasználók ivóvízhasználatát külön bekötési vízmérővel, vagy mellékvízmérővel kell mérni.
+(2)[^174] Egy felhasználási helyen belül a nem lakossági felhasználók ivóvízhasználatát külön bekötési vízmérővel, vagy mellékvízmérővel kell mérni.
 
 (3) Szennyvízelvezetési közszolgáltatási szerződéssel rendelkező, de szennyvízmennyiség-mérővel nem rendelkező felhasználó kérelmére a szennyvíz-kibocsátással nem járó vízhasználat (a továbbiakban: locsolási vízhasználat) elkülönített mérés alapján történő elszámolását biztosítani kell. A locsolási vízmérő telepítéséhez a legegyszerűbb műszaki megoldást kell választani azzal, hogy az nem veszélyeztetheti a víziközmű biztonságos működését. A locsolási vízmérő kialakításának egyéb feltételeit, az ellenőrzés, a mérőleolvasás és az elszámolás szabályait a víziközmű-szolgáltató üzletszabályzata, valamint a víziközmű-szolgáltató és a felhasználó írásbeli megállapodása tartalmazza.
 
-(4)[^173] A víziközmű-szolgáltató házikert öntözéséhez a locsolási vízhasználatot elkülönített mérés nélkül, a 63. § (6) bekezdés d) pontja szerint, mennyiségi korrekció útján is biztosítja a lakossági felhasználó számára, ha azt a lakossági felhasználó – az ellenőrzés lehetőségének előzetes értesítés mellőzésével történő felajánlásával – kéri.
+(4)[^175] A víziközmű-szolgáltató házikert öntözéséhez a locsolási vízhasználatot elkülönített mérés nélkül, a 63. § (6) bekezdés d) pontja szerint, mennyiségi korrekció útján is biztosítja a lakossági felhasználó számára, ha azt a lakossági felhasználó – az ellenőrzés lehetőségének előzetes értesítés mellőzésével történő felajánlásával – kéri.
 
 (5) A Vksztv. 52. § (2a) bekezdése szerinti elszámolási módra való áttérést az érintett mellékszolgáltatási szerződéssel rendelkező elkülönített vízhasználók kérhetik, amit a víziközmű-szolgáltató a jogszabályi feltételek fennállása esetén teljesít.
 
@@ -18,19 +18,19 @@ b) az a) pontban meghatározott képviselő a csatlakozó hálózati szakasz meg
 
 c) az a) pontban meghatározott képviselő közli a víziközmű-szolgáltatóval az arra vonatkozó megállapodásukat, hogy a mellékvízmérők és a bekötési vízmérő egyidejű leolvasására – a víziközmű-szolgáltató gyakorlatával összhangban – rendszeresen mely időpontban kerüljön sor.
 
-(7)[^174]
+(7)[^176]
 
-(8)[^175] Ha a Vksztv. 52. § (2a) bekezdése alkalmazásánál a bekötési vízmérő, illetve az elkülönített vízhasználatok összesített fogyasztásának különbözete meghaladja az 5 százalékot, a csatlakozó hálózati szakasz esetleges vízveszteségének és elszámolatlan vízvételeinek (a továbbiakban együtt: elszámolatlan vízvétel) felülvizsgálata érdekében a víziközmű-szolgáltató a saját költségén, soron kívüli ellenőrzést végez.
+(8)[^177] Ha a Vksztv. 52. § (2a) bekezdése alkalmazásánál a bekötési vízmérő, illetve az elkülönített vízhasználatok összesített fogyasztásának különbözete meghaladja az 5 százalékot, a csatlakozó hálózati szakasz esetleges vízveszteségének és elszámolatlan vízvételeinek (a továbbiakban együtt: elszámolatlan vízvétel) felülvizsgálata érdekében a víziközmű-szolgáltató a saját költségén, soron kívüli ellenőrzést végez.
 
 (9) A vizsgálatra az elszámolatlan vízvételre utaló leolvasási adat keletkezését követő 30 napon belül kell sort keríteni. Az ellenőrző vizsgálaton a (6) bekezdés a) pontja szerinti képviselő vagy a bekötési vízmérő szerinti felhasználó biztosítja a bekötési vízmérő és a mellékvízmérők, valamint a csatlakozó hálózat egyidejű, részletes műszaki felülvizsgálatának lehetőségét. Az ellenőrző vizsgálaton a 68. §-nak az együttműködésre és a jegyzőkönyv tartalmára vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
-(10)[^176] Ha a (9) bekezdés szerinti ellenőrzés során megállapításra kerül, hogy a csatlakozó, illetve házi ivóvízhálózati szakaszon a (8) bekezdésben meghatározott mérési különbözetet meghaladó vízfogyasztást elszámolatlan vízvétel okozta, az elszámolatlan vízvétel megszüntetéséig a bekötési vízmérő és a mellékvízmérők összesített fogyasztási különbözetének megfizetése, valamint a (8) bekezdés szerinti soron kívüli ellenőrzés költségei az érintett mellékszolgáltatási szerződéssel rendelkező vízhasználókat – eltérő megállapodás hiányában – egyetemlegesen terhelik.
+(10)[^178] Ha a (9) bekezdés szerinti ellenőrzés során megállapításra kerül, hogy a csatlakozó, illetve házi ivóvízhálózati szakaszon a (8) bekezdésben meghatározott mérési különbözetet meghaladó vízfogyasztást elszámolatlan vízvétel okozta, az elszámolatlan vízvétel megszüntetéséig a bekötési vízmérő és a mellékvízmérők összesített fogyasztási különbözetének megfizetése, valamint a (8) bekezdés szerinti soron kívüli ellenőrzés költségei az érintett mellékszolgáltatási szerződéssel rendelkező vízhasználókat – eltérő megállapodás hiányában – egyetemlegesen terhelik.
 
-(10a)[^177] Ha a (9) bekezdés szerinti ellenőrzés során megállapításra kerül, hogy a (8) bekezdésben meghatározott mérési különbözetet meghaladó vízfogyasztást nem a csatlakozó, illetve házi ivóvízhálózati szakaszon keletkezett elszámolatlan vízvétel okozta, az ellenőrzés költségeit, valamint a bekötési vízmérő és a mellékvízmérők összesített fogyasztási különbözete alapján számított díjat a víziközmű-szolgáltató nem háríthatja át a felhasználókra.
+(10a)[^179] Ha a (9) bekezdés szerinti ellenőrzés során megállapításra kerül, hogy a (8) bekezdésben meghatározott mérési különbözetet meghaladó vízfogyasztást nem a csatlakozó, illetve házi ivóvízhálózati szakaszon keletkezett elszámolatlan vízvétel okozta, az ellenőrzés költségeit, valamint a bekötési vízmérő és a mellékvízmérők összesített fogyasztási különbözete alapján számított díjat a víziközmű-szolgáltató nem háríthatja át a felhasználókra.
 
-(11)[^178] A víziközmű-szolgáltató a (8) bekezdésben meghatározott mérési különbözetet meghaladó vízfogyasztás (10) bekezdés alapján történő számlázását az elszámolatlan vízvétel megszüntetéséig alkalmazhatja. Az elszámolatlan vízvétel megszüntetését a (6) bekezdés a) pontja szerinti képviselő bejelenti a víziközmű-szolgáltatónak.
+(11)[^180] A víziközmű-szolgáltató a (8) bekezdésben meghatározott mérési különbözetet meghaladó vízfogyasztás (10) bekezdés alapján történő számlázását az elszámolatlan vízvétel megszüntetéséig alkalmazhatja. Az elszámolatlan vízvétel megszüntetését a (6) bekezdés a) pontja szerinti képviselő bejelenti a víziközmű-szolgáltatónak.
 
-(12)[^179] Ha valamely mellékszolgáltatási szerződéssel rendelkező, és a Vksztv. 52. § (2a) bekezdése szerinti elszámolási módot választó elkülönített vízhasználó
+(12)[^181] Ha valamely mellékszolgáltatási szerződéssel rendelkező, és a Vksztv. 52. § (2a) bekezdése szerinti elszámolási módot választó elkülönített vízhasználó
 
 a) a mérésügyről szóló törvény végrehajtására kiadott kormányrendeletben előírt határidőn belül a mellékvízmérő hitelesítéséről nem gondoskodott,
 
@@ -38,13 +38,13 @@ b) három egymást követő alkalommal nem teszi lehetővé a (6) bekezdés c) p
 
 c) 60 napot meghaladó fizetési késedelembe esett,
 
-[^170]: A 62. § a 292/2014. (XI. 26.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^171]: A 62. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 14. pontja szerint módosított szöveg.
-[^172]: A 62. § (2) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 15. pontja szerint módosított szöveg.
-[^173]: A 62. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 11. §-ával megállapított, a 342/2016. (XI. 17.) Korm. rendelet 40. § i) pontja szerint módosított szöveg.
-[^174]: A 62. § (7) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 5. pontja hatályon kívül helyezte.
-[^175]: A 62. § (8) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 16. pontja szerint módosított szöveg.
-[^176]: A 62. § (10) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 17. pontja szerint módosított szöveg.
-[^177]: A 62. § (10a) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 22. §-a iktatta be.
-[^178]: A 62. § (11) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 18. pontja szerint módosított szöveg.
-[^179]: A 62. § (12) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^172]: A 62. § a 292/2014. (XI. 26.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^173]: A 62. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 14. pontja szerint módosított szöveg.
+[^174]: A 62. § (2) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 15. pontja szerint módosított szöveg.
+[^175]: A 62. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 11. §-ával megállapított, a 342/2016. (XI. 17.) Korm. rendelet 40. § i) pontja szerint módosított szöveg.
+[^176]: A 62. § (7) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 5. pontja hatályon kívül helyezte.
+[^177]: A 62. § (8) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 16. pontja szerint módosított szöveg.
+[^178]: A 62. § (10) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 17. pontja szerint módosított szöveg.
+[^179]: A 62. § (10a) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 22. §-a iktatta be.
+[^180]: A 62. § (11) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 18. pontja szerint módosított szöveg.
+[^181]: A 62. § (12) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 23. §-ával megállapított szöveg.

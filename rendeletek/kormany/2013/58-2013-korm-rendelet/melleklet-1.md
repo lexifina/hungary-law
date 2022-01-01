@@ -1,4 +1,4 @@
-1. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^329]
+1. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^331]
 
 ## Üzemeltetési szerződés minimális tartalmi követelményei
 
@@ -80,4 +80,4 @@ a) a koncessziós tevékenység gyakorlására vonatkozó jogosultság igazolás
 
 b) a megépülő vagyontárgyak (vízilétesítmények) tulajdonjogára, az állami tulajdonba, illetve önkormányzati törzsvagyonba történő átadás-átvételre vonatkozó szándéknyilatkozatokat.
 
-[^329]: Az 1. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^331]: Az 1. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.

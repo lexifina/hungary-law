@@ -1,8 +1,8 @@
-72/A. §[^223] (1) Ha a közműves ivóvízellátás előre tervezetten 12 órán át, üzemzavar esetén 6 órát meghaladóan, de kevesebb, mint 12 órán át szünetel, a víziközmű-szolgáltató az ivóvízszükséglet kielégítéséről legalább 10 liter/fő/nap mennyiségben köteles gondoskodni. A 12 órát meghaladó, de 24 óránál rövidebb szünetelés esetén legalább 20 liter/fő/nap, 24 órát meghaladóan legalább 30 liter/fő/nap ivóvízmennyiséget biztosít a víziközmű-szolgáltató.
+72/A. §[^225] (1) Ha a közműves ivóvízellátás előre tervezetten 12 órán át, üzemzavar esetén 6 órát meghaladóan, de kevesebb, mint 12 órán át szünetel, a víziközmű-szolgáltató az ivóvízszükséglet kielégítéséről legalább 10 liter/fő/nap mennyiségben köteles gondoskodni. A 12 órát meghaladó, de 24 óránál rövidebb szünetelés esetén legalább 20 liter/fő/nap, 24 órát meghaladóan legalább 30 liter/fő/nap ivóvízmennyiséget biztosít a víziközmű-szolgáltató.
 
-(2)[^224] Az (1) bekezdésben és a Vksztv. 58. § (11) bekezdésében meghatározott esetben az országos tisztifőorvos által elrendelt hőségriasztás időtartama alatt, az ellátásért felelős igénybejelentése esetén 50 liter/fő/nap mennyiségben biztosítja az ivóvizet a víziközmű-szolgáltató.
+(2)[^226] Az (1) bekezdésben és a Vksztv. 58. § (11) bekezdésében meghatározott esetben az országos tisztifőorvos által elrendelt hőségriasztás időtartama alatt, az ellátásért felelős igénybejelentése esetén 50 liter/fő/nap mennyiségben biztosítja az ivóvizet a víziközmű-szolgáltató.
 
-(3)[^225] Ha a közműves ivóvízellátás megszüntetése a tűzivízhálózatot is érinti, a víziközmű-szolgáltatónak az illetékes katasztrófavédelmi kirendeltséget előzetesen értesítenie kell.
+(3)[^227] Ha a közműves ivóvízellátás megszüntetése a tűzivízhálózatot is érinti, a víziközmű-szolgáltatónak az illetékes katasztrófavédelmi kirendeltséget előzetesen értesítenie kell.
 
 (4) A felhasználó a közműves ivóvízellátás közérdekből történő korlátozását, illetve szüneteltetését kártalanítás nélkül tűrni köteles. Az előre tervezhető közérdekű tevékenység kapcsán felmerülő korlátozásról, illetve szünetelésről a felhasználókat legalább három nappal az intézkedést megelőzően, a helyben szokásos módon tájékoztatni kell.
 
@@ -10,6 +10,6 @@
 
 (6) A közműves ivóvíz-szolgáltatás korlátozása, illetve szünetelése akkor közérdekű, ha azt a víziközmű biztonságos működtetésével összefüggő közegészségügyi helyzet, hálózatfenntartás és -fejlesztés vagy üzemzavar-elhárítás teszi indokolttá.
 
-[^223]: A 72/A. §-t a 292/2014. (XI. 26.) Korm. rendelet 21. §-a iktatta be.
-[^224]: A 72/A. § (2) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 25. pontja szerint módosított szöveg.
-[^225]: A 72/A. § (3) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 26. pontja szerint módosított szöveg.
+[^225]: A 72/A. §-t a 292/2014. (XI. 26.) Korm. rendelet 21. §-a iktatta be.
+[^226]: A 72/A. § (2) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 25. pontja szerint módosított szöveg.
+[^227]: A 72/A. § (3) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 26. pontja szerint módosított szöveg.

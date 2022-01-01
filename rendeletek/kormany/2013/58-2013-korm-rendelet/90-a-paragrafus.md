@@ -1,13 +1,13 @@
-## VIII/A. Fejezet[^294]
+## VIII/A. Fejezet[^296]
 
 ## A GÖRDÜLŐ FEJLESZTÉSI TERV
 
 ## 35. A gördülő fejlesztési terv elkészítése
 
-90/A. § (1)[^295] A gördülő fejlesztési terv (a továbbiakban: Terv) víziközmű-rendszerenként és fejlesztési ütemenkénti bontásban tartalmazza az elvégzendő beruházási, felújítási és pótlási feladatokat.
+90/A. § (1)[^297] A gördülő fejlesztési terv (a továbbiakban: Terv) víziközmű-rendszerenként és fejlesztési ütemenkénti bontásban tartalmazza az elvégzendő beruházási, felújítási és pótlási feladatokat.
 
-(2)[^296] A Terv célja, hogy a víziközmű-szolgáltatási ágazat közművagyonának műszaki állapota olyan színvonalú legyen, hogy a víziközmű-szolgáltatás folyamatosan, költséghatékonyan és hosszútávon biztosítható legyen.
+(2)[^298] A Terv célja, hogy a víziközmű-szolgáltatási ágazat közművagyonának műszaki állapota olyan színvonalú legyen, hogy a víziközmű-szolgáltatás folyamatosan, költséghatékonyan és hosszútávon biztosítható legyen.
 
-[^294]: A VIII/A. fejezetet (90/A–90/G. §) a 292/2014. (XI. 26.) Korm. rendelet 31. §-a iktatta be.
-[^295]: A 90/A. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 29. pontja szerint módosított szöveg.
-[^296]: A 90/A. § (2) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^296]: A VIII/A. fejezetet (90/A–90/G. §) a 292/2014. (XI. 26.) Korm. rendelet 31. §-a iktatta be.
+[^297]: A 90/A. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 29. pontja szerint módosított szöveg.
+[^298]: A 90/A. § (2) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 33. §-ával megállapított szöveg.
