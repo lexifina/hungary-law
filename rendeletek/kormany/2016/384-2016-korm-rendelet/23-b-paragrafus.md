@@ -1,4 +1,4 @@
-23/B. §[^51] (1) A telekalakítási engedélyezési eljárásokban vizsgálni kell – a (2) bekezdésben meghatározott esetet kivéve –, hogy a telekalakítás
+23/B. §[^52] (1) A telekalakítási engedélyezési eljárásokban vizsgálni kell – a (2) bekezdésben meghatározott esetet kivéve –, hogy a telekalakítás
 
 a) az épített környezet alakításáról és védelméről szóló törvényben foglaltaknak,
 
@@ -12,4 +12,4 @@ c) a telekalakításról szóló miniszteri rendelet előírásainak
 
 (3) A telekalakítási engedély iránti kérelmet el kell utasítani, ha a tervezett telekalakítás az (1) és (2) bekezdésben foglaltaknak nem felel meg.
 
-[^51]: A 23/B. §-t a 735/2021. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^52]: A 23/B. §-t a 735/2021. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
