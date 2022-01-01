@@ -1,4 +1,4 @@
-## 3. A folyékony bio-energiahordozók, bioüzemanyagok és a köztes termékek fenntarthatósági követelményei
+## 3. A folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, valamint a köztes termékek és ezek alapanyagai fenntarthatósági követelményei
 
 3. § (1) A folyékony bio-energiahordozók, a bioüzemanyagok és a biomasszából előállított tüzelőanyagok akkor vehetők figyelembe a 2. §-ban, illetve a 9. § (1) bekezdésében meghatározott célra – az e törvény végrehajtására kiadott rendeletben foglalt kivétellel –, tekintet nélkül arra, hogy az előállításához felhasznált alapanyagot az Európai Unió területén vagy harmadik országban termesztették, ha azok az e törvényben, valamint az e törvény végrehajtására kiadott kormányrendeletben meghatározott valamennyi fenntarthatósági követelménynek megfelelnek. A folyékony bio-energiahordozót, a bioüzemanyagot vagy a biomasszából előállított tüzelőanyagot felhasználó hatósági felszólításra köteles igazolni, hogy a felhasznált alapanyagok megfelelnek a fenntarthatósági követelményeknek.
 

@@ -6,7 +6,7 @@
 
 (4) Az (1) bekezdésben előírt csökkentési kötelezettség teljesítését az üzemanyag-forgalmazó a 9. § (2) és (2a) bekezdés szerinti, 2020. tárgyévre vonatkozó jelentéstétel során tudja igazolni. Ha az üzemanyag-forgalmazók csoportja együttesen tesz eleget a kötelezettségnek, az igazoláshoz közös jelentés benyújtása szükséges.
 
-(5) A kötelezettség elmulasztása esetén az állami adó- és vámhatóság bírságot szab ki, amelynek mértékét az 1. melléklet rögzíti. A bírság összege az energiapolitikáért felelős miniszter által vezetett minisztérium bevételét képezi, amelyet az üvegházhatású gázok hazai kibocsátásának csökkentését célzó, közlekedési ágazatot érintő tevékenységek, intézkedések támogatására kell fordítani.
+(5) A kötelezettség elmulasztása esetén az állami adó- és vámhatóság bírságot szab ki, amelynek mértékét az 1. melléklet rögzíti.
 
 (6) Az (5) bekezdés szerinti bírságot az állami adó- és vámhatóság abban az esetben szabhatja ki, ha a 9. § (2) és (2a) bekezdése szerinti jelentést
 

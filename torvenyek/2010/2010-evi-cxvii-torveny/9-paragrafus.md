@@ -4,7 +4,7 @@
 
 (2) Az üzemanyag-forgalmazó minden naptári évre vonatkozóan, a tárgyévet követő év augusztus 31. napjáig jelentést nyújt be az állami adó- és vámhatóságnak:
 
-a) az általa forgalomba hozott üzemanyag és más közlekedésben felhasznált energiatermék tekintetében a forgalomba hozott teljes mennyiségről, a beszerzési helyről és a származás helyéről, valamint
+a) az általa forgalomba hozott üzemanyag és más, közlekedésben felhasznált energiatermék tekintetében a forgalomba hozott teljes mennyiségről, valamint
 
 b) az üzemanyagból vagy más közlekedésben felhasznált energiatermékből származó, a teljes életciklusra vonatkozó, energiaegységre számított üvegházhatású gázkibocsátásról.
 
@@ -14,4 +14,4 @@ b) az üzemanyagból vagy más közlekedésben felhasznált energiatermékből s
 
 (4) Ha az üzemanyag-forgalmazó a (2) bekezdés szerinti jelentést az előírt határidőre nem nyújtja be, vagy nem a meghatározott tartalommal nyújtja be, vagy valótlan adatot közöl, az állami adó- és vámhatóság bírságot szab ki.
 
-(5) A (4) bekezdés szerinti esetben az üzemanyag-forgalmazó egyszázezer forinttól egyszázmillió forintig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott üzemanyag vagy energiatermék azon mennyiségét, amelyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható. A bírság összege az azt kiszabó hatóság bevételét képezi.
+(5) A (4) bekezdés szerinti esetben az üzemanyag-forgalmazó egyszázezer forinttól egyszázmillió forintig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott üzemanyag vagy energiatermék azon mennyiségét, amelyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható.

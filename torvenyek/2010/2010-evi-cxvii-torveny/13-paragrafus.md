@@ -28,6 +28,8 @@ l) a fosszilis üzemanyagokból származó, energiaegységre számított üvegh�
 
 m) a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállítását, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
 
+n) a személyes adatok kivételével az erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó kötelezően nyilvántartandó adatokat.
+
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) az adópolitikáért felelős miniszter egyetértésével az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,

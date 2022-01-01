@@ -10,6 +10,8 @@
 
 3a. biomasszából előállított tüzelőanyagok: biomasszából előállított szilárd és gáz halmazállapotú tüzelőanyagok;
 
+3b. biomassza-energiatermelő: biomasszából hő- vagy hűtőenergiát vagy villamosenergiát előállító természetes személy vagy gazdálkodó szervezet;
+
 4. bioüzemanyagok: a biomasszából előállított folyékony vagy gáz halmazállapotú, a közlekedésben használt üzemanyagok;
 
 5. bioüzemanyag-részarány: a forgalomba hozott bioüzemanyag energiatartalomban kifejezett mennyiségének és a forgalomba hozott motorbenzin és dízelgázolaj energiatartalomban kifejezett mennyiségének hányadosa, százalékértékben, egy tizedesjegy pontossággal meghatározva;
@@ -21,6 +23,10 @@
 8. dízelgázolaj: minden olyan ásványolajtermék, amelynek rendeltetése kompressziós gyújtású belső égésű motorok működtetése (a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód, valamint a 3826 00 10 és 3826 00 90 KN-kód szerinti termék), beleértve a nem közúti gépekben, valamint a mezőgazdasági és erdészeti traktorokban történő felhasználásra szánt gázolajat is;
 
 9. energiaegységre számított üvegházhatású gázkibocsátás: a forgalmazott üzemanyaghoz vagy folyékony bio-energiahordozóhoz kapcsolódó, teljes életciklusra számított üvegházhatású gázkibocsátás CO2-egyenértékre átszámított teljes tömege és a forgalmazott üzemanyag vagy energiahordozó teljes energiatartalmának hányadosa;
+
+9a. erdei biomassza: az Országos Erdőállomány Adattárban erdőrészletként nyilvántartott erdőben folytatott erdőgazdálkodásból származó erdei faválaszték;
+
+9b. fásszárú biomassza: az erdei biomasszán kívüli erdei faválaszték;
 
 10. feldolgozási maradvány: olyan anyag, amely nem a feldolgozási eljárással közvetlenül előállítani szándékozott végtermék; nem a feldolgozási eljárás elsődleges célja, és az eljárást nem módosították szándékosan az ilyen anyag előállítása céljából;
 
@@ -51,6 +57,8 @@ b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa t
 20. megújuló üzemanyag: a fenntarthatósági követelményeket teljesítő bioüzemanyagok, a nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásból származó üzemanyagok;
 
 21. mezőgazdasági, akvakultúra-, halászati, és erdészeti maradványok: olyan maradványanyagok, amelyeket közvetlenül a mezőgazdaság, az akvakultúra, a halászat és az erdészet állít elő; a kapcsolódó iparágakból vagy feldolgozási folyamatokból származó maradványanyagokat nem foglalják magukban;
+
+21a. mezőgazdasági biomassza: közvetlenül a mezőgazdaságból (a növényi és állati eredetű anyagokat is beleértve) származó biomassza;
 
 22. motorbenzin: minden olyan illékony ásványolajtermék, amelynek rendeltetése külső gyújtású belső égésű motorok (Otto-motorok) működtetése (a 2710 12 31-2710 12 49 KN-kód szerinti termék);
 

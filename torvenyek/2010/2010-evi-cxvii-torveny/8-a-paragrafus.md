@@ -1,6 +1,6 @@
 8/A. § (1) A biomassza-kereskedő, a biomassza-feldolgozó, valamint az üzemanyag-forgalmazó a nyomon követhetőségre vonatkozó adatszolgáltatási kötelezettségét a mezőgazdasági igazgatási szerv által létrehozott és működtetett közhiteles elektronikus nyilvántartáson keresztül teljesítheti.
 
-(2) Aki a 8. § (1) bekezdése szerinti termékértékesítést kíván folytatni, köteles az erre irányuló szándékát a mezőgazdasági igazgatási szervnek bejelenteni. A bejelentendő adatok körét az e törvény végrehajtására kiadott rendelet határozza meg. A bejelentésben meg kell jelölni természetes személy bejelentő esetén a (3) bekezdés szerinti adatokat is.
+(2) A 8/B. § (1) bekezdésben meghatározott tevékenységet végző személy kivételével, aki a 8. § (1) bekezdése szerinti termékértékesítést, feldolgozást vagy felhasználást kíván folytatni, az erre irányuló szándékát a mezőgazdasági igazgatási szervnek bejelenti. A bejelentendő adatok körét az e törvény végrehajtására kiadott rendelet határozza meg. A bejelentésben meg kell jelölni természetes személy bejelentő esetén a (3) bekezdés szerinti adatokat is.
 
 (3) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti nyomon követhetőség biztosítására az elektronikus nyilvántartási rendszerben a természetes személy biomassza-kereskedőről, biomassza-feldolgozóról, valamint üzemanyag-forgalmazóról – az e törvény végrehajtására kiadott jogszabályban meghatározott személyes adatnak nem minősülő adatokon túl – az alábbi adatokat rögzíti:
 
@@ -8,7 +8,7 @@ a) név,
 
 b) lakcím,
 
-c) születési hely, idő,
+c) születési hely, idő és
 
 d) anyja születési neve.
 
