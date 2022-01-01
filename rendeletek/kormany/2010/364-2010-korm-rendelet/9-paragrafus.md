@@ -4,6 +4,6 @@
 
 (3) A 8. § szerinti díj első ízben a 2011. január–március havi forgalmi adatok alapján 2011. május 20-ig kerülhet kifizetésre.
 
-(4)[^15] Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel módosított 8. § (2) bekezdését 2012-ben azzal az eltéréssel kell alkalmazni, hogy a 8. § (1) bekezdése alapján adható juttatás összege a tárgyév első három negyedévére vonatkozóan a tárgyévben rendelkezésre álló előirányzat 33-33%-a.
+(4)[^17] Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel módosított 8. § (2) bekezdését 2012-ben azzal az eltéréssel kell alkalmazni, hogy a 8. § (1) bekezdése alapján adható juttatás összege a tárgyév első három negyedévére vonatkozóan a tárgyévben rendelkezésre álló előirányzat 33-33%-a.
 
-[^15]: A 9. § (4) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 92. §-a iktatta be.
+[^17]: A 9. § (4) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 92. §-a iktatta be.
