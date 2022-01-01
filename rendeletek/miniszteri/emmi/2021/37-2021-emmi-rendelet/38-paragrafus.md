@@ -1,5 +1,5 @@
-## 37. §[^15]
+## 37. §[^10]
 
 ## 5. A Pedagógus-továbbképzési Akkreditációs Testületről szóló 46/1999. (XII. 13.) OM rendelet hatályon kívül helyezése
 
-[^15]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

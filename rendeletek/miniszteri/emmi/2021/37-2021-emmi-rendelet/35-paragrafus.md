@@ -1,22 +1,19 @@
-## 34. §[^8]
+## 34. §[^7]
 
-35. § (1)[^9]
+35. § (1)[^8]
 
 (2) Az R3.
 
-a)[^10]
+a) 4. § (2a) bekezdésében a „tizennyolc hónapnál fiatalabb” szövegrész helyébe a „három évnél fiatalabb” szöveg,
 
 b) 12. § (2) bekezdés
 
-ba)[^11]
+ba) a) pontjában az „az e rendelet általános szabályai szerint indult vizsgálatok esetében a háromévesnél fiatalabb gyermekek” szövegrész helyébe a „sajátos nevelési igény megállapítására irányuló vizsgálatoknál a gyermek, tanuló” szöveg,
 
-bb)[^12]
+bb) c) pontjában az „a sajátos nevelési igény megállapítása vagy kizárása, a beilleszkedési, a tanulási, a magatartási nehézség megállapítása vagy kizárása” szövegrész helyébe az „a korai fejlesztésre és gondozásra való jogosultság, a sajátos nevelési igény, a beilleszkedési, a tanulási, a magatartási nehézség megállapítása vagy kizárása” szöveg,
 
-bc)[^13]
+bc)[^9]
 
-[^8]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 35. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 35. § (2) bekezdés a) pontja a 39. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^11]: A 35. § (2) bekezdés b) pont ba) alpontja a 39. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^12]: A 35. § (2) bekezdés b) pont bb) alpontja a 39. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^13]: A 35. § (2) bekezdés b) pont bc) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 35. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 35. § (2) bekezdés b) pont bc) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
