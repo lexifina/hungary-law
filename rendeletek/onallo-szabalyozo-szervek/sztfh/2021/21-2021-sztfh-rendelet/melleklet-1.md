@@ -1,3 +1,19 @@
-1. melléklet a 21/2021. (XII. 15.) SZTFH rendelethez[^5]
+1. melléklet a 21/2021. (XII. 15.) SZTFH rendelethez
 
-[^5]: Az 1. melléklet az 5. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+A Bvszr. 1. melléklet VIII. pontja helyébe a következő rendelkezés lép:
+
+„VIII.
+
+Győri Törvényszék
+
+| Csornai Járásbíróság | 1 |
+
+| Győri Járásbíróság | 4 |
+
+| Mosonmagyaróvári Járásbíróság | 2 |
+
+| Soproni Járásbíróság | 2 |
+
+| Összesen: | 9 |
+
+”
