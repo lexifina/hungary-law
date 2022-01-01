@@ -1,0 +1,1 @@
+## 9. § Az NSR részére az adatszolgáltatás és az NSR moduljainak használata elektronikus úton történik az NSR Portálon történő bejelentkezést követően, jogosultság alapján. Az adatokat az NSR adott modulja által elvárt szerkezetben és tartalommal kell rögzíteni.

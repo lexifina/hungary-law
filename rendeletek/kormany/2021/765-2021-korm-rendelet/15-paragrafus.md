@@ -1,0 +1,1 @@
+## 14. § Ha a sportszövetség rendelkezik saját elektronikus nyilvántartási rendszerrel és a 11. § (1) bekezdés c) pontja szerinti megállapodással, a sportszövetséggel tagsági viszonyban álló szervezet adatszolgáltatási kötelezettségét a sportszövetség szervezeti interfésze útján teljesíti.

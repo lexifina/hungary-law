@@ -1,0 +1,1 @@
+## 31. § A sportlétesítménnyel kapcsolatos adatokat a sportlétesítmény tulajdonosa vagy fenntartója szolgáltatja az NSR részére. A tulajdonos vagy fenntartó a 30. § (2) bekezdésében nem szereplő sportlétesítményről is szolgáltathat adatot az NSR részére.

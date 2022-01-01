@@ -1,0 +1,1 @@
+## 15. § A felhasználó szervezet nevében az NSR-ben történő adatszolgáltatást és más műveletet végző természetes személy felhasználó regisztrációját, jogosultságának és szerepkörének – jogszabályokkal, valamint a szervezet belső szabályzataival és működési rendjével összhangban történő – meghatározását a felhasználó szervezet végzi.
