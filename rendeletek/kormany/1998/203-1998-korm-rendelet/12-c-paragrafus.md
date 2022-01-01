@@ -1,4 +1,4 @@
-12/C. §[^171] (1) A pályázati kiírásnak a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben foglaltakra is figyelemmel tartalmaznia kell legalább
+12/C. §[^164] (1) A pályázati kiírásnak a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben foglaltakra is figyelemmel tartalmaznia kell legalább
 
 a) a pályázatban meghirdetett bányászati jog meghatározását annak feltüntetésével, hogy a területen vagy a térrészben harmadik személy rendelkezik-e jogosultsággal bányászati tevékenység végzésére, geotermikus energia kinyerésére, hasznosítására vagy a Bt. hatálya alá tartozó egyéb tevékenység gyakorlására,
 
@@ -24,4 +24,4 @@ j) az ajánlati kötöttség időtartamát.
 
 (3) A pályázati kiírásnak és a jogszabályoknak nem megfelelő pályázatot az értékelés során érvénytelennek kell nyilvánítani, és az érvénytelen pályázatot benyújtott ajánlattevőt a pályázati eljárásból ki kell zárni.
 
-[^171]: A Vhr. 12/C. §-át a 648/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^164]: A Vhr. 12/C. §-át a 648/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be.

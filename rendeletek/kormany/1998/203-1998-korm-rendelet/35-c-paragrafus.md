@@ -1,3 +1,10 @@
-35/C. §[^383]
+35/C. §[^377] (1) E rendeletnek az egyes bányászati tárgyú kormányrendeletek módosításáról szóló 825/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) módosított rendelkezéseit a Módr. hatálybalépésekor[^378] folyamatban lévő hatósági ügyekben is alkalmazni kell.
 
-[^383]: A Vhr. 35/C. §-át a 70/2015. (III. 30.) Korm. rendelet 35. § (13) bekezdése iktatta be, hatályon kívül helyezte a 162/2017. (VI. 28.) Korm. rendelet 3. § c) pontja.
+(2) A Módr. hatálybalépésekor[^379] folyamatban lévő ügyekben az e rendelet hatálybalépése előtt végzett eljárási cselekmények hatályát és a megkezdett határidőket nem érinti, hogy az eljárás lefolytatása a Szabályozott Tevékenységek Felügyeleti Hatósága feladat- és hatáskörébe kerül.
+
+(3) Ha a Módr. hatálybalépésekor[^380] folyamatban lévő eljárásokban a szakkérdés vizsgálat megtörtént, a szakkérdés vizsgálat tekintetében szakhatóságot nem kell bevonni az eljárásban.
+
+[^377]: A Vhr. 35/C. §-át újonnan a 825/2021. (XII. 28.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^378]: A hatálybalépés időpontja 2022. január 1.
+[^379]: A hatálybalépés időpontja 2022. január 1.
+[^380]: A hatálybalépés időpontja 2022. január 1.

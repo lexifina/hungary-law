@@ -1,6 +1,6 @@
 ## (A Bt. 39. §-ához)
 
-24. §[^283] (1)[^284] A bányászati tevékenység befejezése után a Bt. 39. § (1) bekezdésében foglalt rendelkezések alapján elrendelt építési tilalom vagy korlátozás abban az esetben szüntethető meg, ha a bányafelügyelet megkereste az ingatlanügyi hatóságot a bányatelek jogi jelleg ingatlan-nyilvántartásból történő törlése végett.
+24. §[^276] (1)[^277] A bányászati tevékenység befejezése után a Bt. 39. § (1) bekezdésében foglalt rendelkezések alapján elrendelt építési tilalom vagy korlátozás abban az esetben szüntethető meg, ha a bányafelügyelet megkereste az ingatlanügyi hatóságot a bányatelek jogi jelleg ingatlan-nyilvántartásból történő törlése végett.
 
 (2) A Bt. 39. § (4) bekezdése szerinti megkereséshez mellékelni kell:
 
@@ -10,5 +10,5 @@ b) az építési tilalom vagy korlátozás elrendelése kezdeményezésének ind
 
 c) a tilalomra vagy korlátozásra javasolt terület nagyságát.
 
-[^283]: A Vhr. 24. §-a a 311/2014. (XII. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^284]: A Vhr. 24. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^276]: A Vhr. 24. §-a a 311/2014. (XII. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^277]: A Vhr. 24. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.

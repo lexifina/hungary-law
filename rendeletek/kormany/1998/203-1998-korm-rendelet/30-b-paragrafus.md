@@ -1,19 +1,19 @@
-30/B. §[^326] (1)[^327] A bányafelügyelet piacfelügyeleti hatósági feladatainak ellátása érdekében tájékoztatást kérhet a gyártótól és a forgalmazótól.
+30/B. §[^319] (1)[^320] A bányafelügyelet piacfelügyeleti hatósági feladatainak ellátása érdekében tájékoztatást kérhet a gyártótól és a forgalmazótól.
 
-(2)[^328] Ha a bányafelügyelet piacfelügyeleti hatósági eljárása során megállapítja, hogy a termék a biztonságossági követelményeknek nem felel meg, a termékek piacfelügyeletéről szóló törvényben meghatározottakon kívül jogosult a termék műszaki-biztonsági szempontból történő használhatatlanná tételét vagy megsemmisítését elrendelni.
+(2)[^321] Ha a bányafelügyelet piacfelügyeleti hatósági eljárása során megállapítja, hogy a termék a biztonságossági követelményeknek nem felel meg, a termékek piacfelügyeletéről szóló törvényben meghatározottakon kívül jogosult a termék műszaki-biztonsági szempontból történő használhatatlanná tételét vagy megsemmisítését elrendelni.
 
-(3)[^329] Ha a bányafelügyelet megállapítja, hogy a terméken a CE megfelelőségi jelölést nem, vagy megalapozatlanul tüntették fel, a jogsértés megszüntetése érdekében döntésében felszólítja az üzemeltetőt, a gyártót, a forgalmazót, illetve a gyártó magyarországi székhelyű meghatalmazott képviselőjét (a továbbiakban együtt: gazdasági szereplő), hogy a hiányosságokat az előírásoknak megfelelően orvosolja. Ha a gyártó nem a hatóság határozatának megfelelően jár el, vagy a termék az előírásoknak nem felel meg, a bányafelügyelet korlátozhatja, vagy megtilthatja a termék forgalomba hozatalát, létesítését, üzembe helyezését és használatát. Súlyos veszély esetén elrendelheti a terméknek a forgalomból történő kivonását.
+(3)[^322] Ha a bányafelügyelet megállapítja, hogy a terméken a CE megfelelőségi jelölést nem, vagy megalapozatlanul tüntették fel, a jogsértés megszüntetése érdekében döntésében felszólítja az üzemeltetőt, a gyártót, a forgalmazót, illetve a gyártó magyarországi székhelyű meghatalmazott képviselőjét (a továbbiakban együtt: gazdasági szereplő), hogy a hiányosságokat az előírásoknak megfelelően orvosolja. Ha a gyártó nem a hatóság határozatának megfelelően jár el, vagy a termék az előírásoknak nem felel meg, a bányafelügyelet korlátozhatja, vagy megtilthatja a termék forgalomba hozatalát, létesítését, üzembe helyezését és használatát. Súlyos veszély esetén elrendelheti a terméknek a forgalomból történő kivonását.
 
-(4)[^330] Az e § és a 30/A. § szerinti fogalmakat a termékek piacfelügyeletéről szóló törvény szerint kell értelmezni.
+(4)[^323] Az e § és a 30/A. § szerinti fogalmakat a termékek piacfelügyeletéről szóló törvény szerint kell értelmezni.
 
-(5)[^331]
+(5)[^324]
 
-(6)[^332]
+(6)[^325]
 
-[^326]: A Vhr. 30/B. §-át a 282/2003. (XII. 29.) Korm. rendelet 22. §-a iktatta a szövegbe.
-[^327]: A Vhr. 30/B. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 13. pontja szerint módosított szöveg.
-[^328]: A Vhr. 30/B. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^329]: A Vhr. 30/B. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
-[^330]: A Vhr. 30/B. § (4) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
-[^331]: A Vhr. 30/B. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
-[^332]: A Vhr. 30/B. § (6) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^319]: A Vhr. 30/B. §-át a 282/2003. (XII. 29.) Korm. rendelet 22. §-a iktatta a szövegbe.
+[^320]: A Vhr. 30/B. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 13. pontja szerint módosított szöveg.
+[^321]: A Vhr. 30/B. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^322]: A Vhr. 30/B. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^323]: A Vhr. 30/B. § (4) bekezdése a 7/2013. (I. 18.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^324]: A Vhr. 30/B. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^325]: A Vhr. 30/B. § (6) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.

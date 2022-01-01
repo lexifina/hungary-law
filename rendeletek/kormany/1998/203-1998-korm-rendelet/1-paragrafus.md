@@ -24,11 +24,11 @@ b) a területre a Bt. 5. §-a szerinti engedélyt adott ki a bányafelügyelet u
 
 c) a tervezett kutatási módszerek nem minősülnek előkutatásnak.
 
-(6)[^7] Az előkutatás során nyert földtani adatokat a Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSZ) részére meg kell küldeni.
+(6)[^7] Az előkutatás során nyert földtani adatokat a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet) részére meg kell küldeni.
 
 [^2]: A Vhr. 1. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 15. § (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 706/2020. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^3]: A Vhr. 1. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 15. § (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 706/2020. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^4]: A Vhr. 1. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 15. § (4) bekezdés a) pontja hatályon kívül helyezte, újonnan a 706/2020. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^5]: A Vhr. 1. § (4) bekezdését újonnan a 457/2017. (XII. 28.) Korm. rendelet 62. § (1) bekezdése iktatta be, szövege a 80/2019. (IV. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A Vhr. 1. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^7]: A Vhr. 1. §-ának (6) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 1. §-ával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^7]: A Vhr. 1. § (6) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 1. §-ával megállapított, a 825/2021. (XII. 28.) Korm. rendelet 10. § a) pontja szerint módosíott szöveg.

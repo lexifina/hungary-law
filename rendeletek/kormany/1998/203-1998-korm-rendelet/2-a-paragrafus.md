@@ -1,3 +1,3 @@
-2/A. §[^24]
+2/A. §[^16]
 
-[^24]: A Vhr. 2/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 727/2020. (XII. 31.) Korm. rendelet 22. § (2) bekezdése.
+[^16]: A Vhr. 2/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 727/2020. (XII. 31.) Korm. rendelet 22. § (2) bekezdése.

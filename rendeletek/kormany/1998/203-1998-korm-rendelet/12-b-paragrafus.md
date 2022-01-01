@@ -1,4 +1,4 @@
-12/B. §[^170] (1) A Bt. 26/A. § (6) bekezdése szerinti pályázat kiírása esetén a törölt bányászati jog meghirdetésére vonatkozó pályázati hirdetménynek tartalmaznia kell:
+12/B. §[^163] (1) A Bt. 26/A. § (6) bekezdése szerinti pályázat kiírása esetén a törölt bányászati jog meghirdetésére vonatkozó pályázati hirdetménynek tartalmaznia kell:
 
 a) a bányatelek földrajzi elhelyezkedését, területének nagyságát;
 
@@ -58,4 +58,4 @@ c) a nyertes pályázó a bányászati jog ellenértékét a (7) bekezdésben me
 
 (12) Ha a (11) bekezdés szerinti biztosíték nem elegendő a fennmaradó kötelezettségek teljesítésére, a bányafelügyelet határidő tűzésével kötelezi a bányászati jog törlésével érintett bányavállalkozót – a Bt. 26/A. § (5) bekezdés c) pontjában foglalt eset kivételével – a kötelezettségek teljesítésére.
 
-[^170]: A Vhr. 12/B. §-át az 57/2008. (III. 26.) Korm. rendelet 10. §-a iktatta be, szövege a 275/2017. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^163]: A Vhr. 12/B. §-át az 57/2008. (III. 26.) Korm. rendelet 10. §-a iktatta be, szövege a 275/2017. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.

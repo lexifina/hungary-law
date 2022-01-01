@@ -68,7 +68,7 @@
 
 ## – nagyon zavart, különösen inhomogén: ≥160 db/km2.
 
-6. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^405]
+6. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^402]
 
 ## Használaton kívüli állományban lévő kutak kritikusságának meghatározása és kockázatelemzés alapján történő besorolása
 
@@ -194,7 +194,7 @@
 
 1. számú függelék
 
-a 203/1998. (XII. 19.) Korm. rendelethez[^406]
+a 203/1998. (XII. 19.) Korm. rendelethez[^403]
 
 ## BÁNYAFELÜGYELETI SZOLGÁLATI IGAZOLVÁNY
 
@@ -228,7 +228,7 @@ a 203/1998. (XII. 19.) Korm. rendelethez[^406]
 
 2. számú függelék
 
-a 203/1998. (XII. 19.) Korm. rendelethez[^407]
+a 203/1998. (XII. 19.) Korm. rendelethez[^404]
 
 Nyilvántartás a szolgálati igazolvánnyal és jelvénnyel ellátott
 
@@ -238,6 +238,6 @@ bányafelügyeleti hatósági feladatokat végző személyekről
 
 | neve | szül. helye, ideje | lakóhelye |
 
-[^405]: A Vhr. 6. számú mellékletét a 453/2021. (VII. 30.) Korm. rendelet 7. §-a iktatta be.
-[^406]: A Vhr. 1. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 63. § k) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^407]: A Vhr. 2. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta a szövegbe.
+[^402]: A Vhr. 6. számú mellékletét a 453/2021. (VII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^403]: A Vhr. 1. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 63. § k) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^404]: A Vhr. 2. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta a szövegbe.

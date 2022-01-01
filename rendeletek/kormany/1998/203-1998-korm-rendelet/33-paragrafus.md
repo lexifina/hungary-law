@@ -1,12 +1,12 @@
 ## (A Bt. 50. §-ához)
 
-33. §[^352] (1)[^353] A Bt. 50. §-ának (2) bekezdésében meghatározott földtani adatokat, ásványvagyon számításokat, nyilvántartásokat és földtani mintaanyagokat (a továbbiakban együtt: adat) térítésmentesen az MBFSZ rendelkezésére kell bocsátani. A rendelkezésre bocsátási kötelezettség nem terjed ki azokra az adatokra, amelyeket az MBFSZ vagy jogelődje igazoltan megkapott vagy levéltárban lettek elhelyezve.
+33. §[^345] (1)[^346] A Bt. 50. §-ának (2) bekezdésében meghatározott földtani adatokat, ásványvagyon számításokat, nyilvántartásokat és földtani mintaanyagokat (a továbbiakban együtt: adat) térítésmentesen a bányafelügyelet rendelkezésére kell bocsátani. A rendelkezésre bocsátási kötelezettség nem terjed ki azokra az adatokra, amelyeket a bányafelügyelet vagy jogelődje igazoltan megkapott vagy levéltárban lettek elhelyezve.
 
-(2)[^354] Az átadott adatok az MBFSZ állományába tartoznak, megőrzésükről, kezelésükről és a hozzáférés biztosításáról az MBFSZ elnöke gondoskodik.
+(2)[^347] Az átadott adatok a bányafelügyelet állományába tartoznak, megőrzésükről, kezelésükről és a hozzáférés biztosításáról a bányafelügyelet elnöke gondoskodik.
 
-(3)[^355]
+(3)[^348]
 
-[^352]: A Vhr. 33. §-a a 268/2006. (XII. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^353]: A Vhr. 33. § (1) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 2. § i) pontja szerint módosított szöveg.
-[^354]: A Vhr. 33. § (2) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 2. § j) pontja szerint módosított szöveg.
-[^355]: A Vhr. 33. § (3) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 7. pontja hatályon kívül helyezte.
+[^345]: A Vhr. 33. §-a a 268/2006. (XII. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^346]: A Vhr. 33. § (1) bekezdése a 825/2021. (XII. 28.) Korm. rendelet 10. § d) pontja szerint módosíott szöveg.
+[^347]: A Vhr. 33. § (2) bekezdése a 825/2021. (XII. 28.) Korm. rendelet 10. § d) pontja szerint módosíott szöveg.
+[^348]: A Vhr. 33. § (3) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 7. pontja hatályon kívül helyezte.
