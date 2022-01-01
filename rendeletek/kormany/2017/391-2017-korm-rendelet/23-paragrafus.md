@@ -2,6 +2,6 @@
 
 (2) Ha a közalkalmazott oktatói, tananyagfejlesztői feladatot lát el, e tevékenység az e rendelet szerinti továbbképzési kötelezettség teljesítésébe – a közalkalmazott kérelmére a munkáltató döntése alapján – beszámításra kerülhet, legfeljebb 8 tanulmányi pontértékig.
 
-(3)[^8] Ha a közalkalmazott az adott továbbképzési időszakban a számára előírtnál több tanulmányi pontot teljesít, az előírt pontmennyiséget meghaladó tanulmányi pontok – legfeljebb az adott továbbképzési időszakra előírt tanulmányi pontmennyiség 25%-ának megfelelő mértékben – a következő továbbképzési időszakra átvihetők, feltéve, hogy a többletpontok megszerzése a továbbképzési időszak utolsó tizenkét hónapjában történt.
+(3)[^9] Ha a közalkalmazott az adott továbbképzési időszakban a számára előírtnál több tanulmányi pontot teljesít, az előírt pontmennyiséget meghaladó tanulmányi pontok – legfeljebb az adott továbbképzési időszakra előírt tanulmányi pontmennyiség 25%-ának megfelelő mértékben – a következő továbbképzési időszakra átvihetők, feltéve, hogy a többletpontok megszerzése a továbbképzési időszak utolsó tizenkét hónapjában történt.
 
-[^8]: A 23. § (3) bekezdését a 288/2018. (XII. 21.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^9]: A 23. § (3) bekezdését a 288/2018. (XII. 21.) Korm. rendelet 7. § (1) bekezdése iktatta be.

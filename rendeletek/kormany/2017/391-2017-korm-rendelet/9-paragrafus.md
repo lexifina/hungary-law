@@ -1,3 +1,5 @@
+## 8/A. §[^5] A főigazgató a 8. §-ban meghatározott feltételek alól mentesítést engedélyezhet a 3. melléklet E) táblázata szerinti kiemelt munkaköri kategóriába sorolás esetében, ha a közalkalmazott mérnöki végzettséggel betölthető munkakörbe kerül besorolásra.
+
 ## IV. Fejezet
 
 ## A TOVÁBBKÉPZÉSI RENDSZER MŰKÖDTETÉSE, TERVEZÉSE, FINANSZÍROZÁSA,
@@ -11,3 +13,5 @@
 a) az NKE által biztosított minősített továbbképzési program igénybevételével (ideértve a vezetőképzést is),
 
 b) a vízügyi igazgatási szerv által szervezett belső továbbképzésekkel.
+
+[^5]: A 8/A. §-t a 683/2021. (XII. 6.) Korm. rendelet 1. §-a iktatta be.
