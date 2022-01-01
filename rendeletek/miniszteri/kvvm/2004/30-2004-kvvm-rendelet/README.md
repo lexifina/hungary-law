@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-30-20-0
 | 2015-04-01 | 2004-30-20-0N.9 | 11/2015. (III. 31.) BM rendelet |
 | 2017-01-01 | 2004-30-20-0N.10 | 147/2011. (XII. 23.) VM rendelet |
 | 2018-01-01 | 2004-30-20-0N.11 | 51/2006. (XII. 27.) KvVM rendelet |
+| 2022-01-01 | 2004-30-20-0N.12 | 51/2006. (XII. 27.) KvVM rendelet |

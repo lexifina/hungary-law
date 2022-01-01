@@ -16,7 +16,7 @@ ad) speciális, egy adott térség megfigyelésére kialakított monitoring rend
 
 b) más állami szervezet által folyamatosan üzemeltetett monitoring rendszereket, azaz
 
-ba)[^36] a Magyar Bányászati és Földtani Szolgálat által folytatott felszín alatti víz(nyomás)szint észleléseket,
+ba)[^36] az állami földtani feladatokat ellátó Szabályozott Tevékenységek Felügyeleti Hatósága által folytatott felszín alatti víz(nyomás)szint észleléseket,
 
 bb) a növény és talajvédelmi szolgálatok által működtetett Talajvédelmi Információs és Monitoring Rendszert;
 
@@ -38,7 +38,7 @@ b) a szennyezett, tartósan károsodott területeken külön jogszabály[^40] sz
 [^33]: A 13. § (3) bekezdés a) pontja a 147/2011. (XII. 23.) VM rendelet 10. § (1) bekezdésével megállapított, nyitó szövegrésze az 52/2014. (XI. 28.) BM rendelet 5. § c) pontja szerint módosított szöveg.
 [^34]: A 13. § (3) bekezdés a) pont ab) alpontja a 11/2015. (III. 31.) BM rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^35]: A 13. § (3) bekezdés a) pont ac) alpontját a 11/2015. (III. 31.) BM rendelet 3. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^36]: A 13. § (3) bekezdés b) pont ba) alpontja az 52/2014. (XI. 28.) BM rendelet 5. § a) pontja, a 42/2017. (XII. 29.) BM rendelet 3. § a) pontja szerint módosított szöveg.
+[^36]: A 13. § (3) bekezdés b) pont ba) alpontja az 52/2014. (XI. 28.) BM rendelet 5. § a) pontja, a 42/2017. (XII. 29.) BM rendelet 3. § a) pontja, az 50/2021. (XII. 22.) BM rendelet 1. §-a szerint módosított szöveg.
 [^37]: 1995. évi LIII. tv. 46. § (1) bek. b) és e) pontja; 219/2004. (VII. 21.) Korm. r. 5. § (8) bek.
 [^38]: A 13. § (3) bekezdés e) pontját a 11/2015. (III. 31.) BM rendelet 3. § (1) bekezdése iktatta be.
 [^39]: 219/2004. (VII. 21.) Korm. r. 8. § b) pont; 21/2002. (IV. 25.) KöViM r. 123/1997. (VII. 18.) Korm. r., 239/2000. (XII. 23.) Korm. r.
