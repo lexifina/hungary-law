@@ -1,0 +1,3 @@
+## 13. § Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet 15. §-a a következő (8) bekezdéssel egészül ki:
+
+## „(8) A foglalkoztatás-felügyeleti hatáskörében eljáró kormányhivatal ellátja az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény IV/B. Fejezetében, valamint a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerbe tartozó tevékenységekről, valamint az Építőipari Monitoring- és Adatszolgáltató Rendszerről szóló kormányrendeletben a foglalkoztatás-felügyeleti hatóság számára meghatározott feladatokat.”
