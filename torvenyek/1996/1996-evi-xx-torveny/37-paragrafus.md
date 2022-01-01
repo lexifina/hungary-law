@@ -22,11 +22,25 @@ h) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni váll
 
 i) a nyilvántartást vezető szervnek a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 
-j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról;
+j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, nyilvántartás jogcíme adatainak, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról;
 
 k) a kincstárnak és az egészségbiztosítási nyilvántartásokat vezető szervnek jogszabályban meghatározott feladatai ellátásához a polgár elhalálozásának tényéről, helyéről és idejéről.
 
 l) a Központi Statisztikai Hivatalnak a hivatalos statisztikáról szóló törvény alapján kezelt adatbázisában szereplő adatszolgáltató természetes személy családi és utónevének, születési nevének, anyja nevének, nemének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének, családi állapotának változásáról, azok időpontjáról, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyéről, az érintett elhalálozásáról, a külföldön történő letelepedésről, a nyilvántartásba bekerülés és a nyilvántartásból való kikerülés okáról, idejéről.
+
+m) az adatváltozás-kezelési szolgáltatónak a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) 20/T. §-a szerinti adatváltozás-bejelentési szolgáltatást igénybe vevő polgár
+
+ma) családi és utónevének,
+
+mb) születési nevének,
+
+mc) anyja nevének,
+
+md) születési helyének és időpontjának,
+
+me) lakóhelyének, tartózkodási helyének
+
+változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a hallgatói hitelrendszert működtető szervezet erre irányuló igénye esetén adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
@@ -87,5 +101,7 @@ h) a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás já
 i) az (1) bekezdés c) pontja szerinti nyugdíjbiztosítási nyilvántartást vezető társadalombiztosítási szerv,
 
 j) az (1) bekezdés k) pontja szerinti kincstár,
+
+k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató,
 
 kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.

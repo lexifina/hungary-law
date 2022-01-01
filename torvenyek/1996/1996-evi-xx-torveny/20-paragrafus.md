@@ -8,7 +8,7 @@ b) az adópolitikáért felelős miniszter, az adóztatás ellenőrzésével, fe
 
 a) az Egészségbiztosítási és Nyugdíjbiztosítási Alap, valamint az elkülönített állami pénzalap kezelője, az általa kezelt alap javára teljesítendő kötelező befizetéssel összefüggésben;
 
-b) A munkaügyi igazgatás szerve annak megállapítása érdekében, hogy a polgárnak a munkaügyi ellátás mellett van-e kereső tevékenységből származó jövedelme; illetőleg annak ellenőrzése céljából, hogy a polgár eleget tett-e munkavállalói járulék befizetési kötelezettségének, az adatszolgáltatás teljesítése érdekében;
+b) A munkaügyi igazgatás szerve annak megállapítása érdekében, hogy a polgárnak a munkaügyi ellátás mellett van-e kereső tevékenységből származó jövedelme; illetőleg annak ellenőrzése céljából, hogy a polgár eleget tett-e munkavállalói járulék befizetési kötelezettségének, az adatszolgáltatás teljesítése érdekében; továbbá a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerrel kapcsolatos hatáskörei gyakorlása érdekében;
 
 c) a bíróság, igazságszolgáltatási feladatának ellátásával összefüggésben;
 
