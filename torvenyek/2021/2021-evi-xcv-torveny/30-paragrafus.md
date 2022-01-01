@@ -1,1 +1,3 @@
-30. §
+30. § A Ptk. 3:222. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A részvénytársaság az alaptőke huszonöt százalékát meg nem haladó mértékben megszerezheti az általa kibocsátott részvényeket. A saját részvények mértékének megállapításánál a részvénytársaság tulajdonaként kell figyelembe venni a részvénytársaság többségi befolyása alatt álló jogi személy – ideértve a külföldi székhellyel rendelkező, a rá irányadó jog szerint korlátolt felelősségű társaságnak vagy részvénytársaságnak minősülő gazdasági társaság – tulajdonában álló részvényeket is. A részvénytársaság tulajdonában álló részvényként kell figyelembe venni azokat a részvényeket is, amelyeket tulajdonosuk a részvénytársaság javára szerzett meg vagy tart magánál, továbbá azokat a saját részvényeket, amelyeket a részvénytársaság követelés biztosítékául fogad el. E rendelkezéseket nem kell alkalmazni a bankok és más hitelintézetek üzletmenete során végrehajtott ügyleteire.”

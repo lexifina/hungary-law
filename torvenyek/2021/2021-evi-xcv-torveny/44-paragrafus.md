@@ -1,1 +1,7 @@
-44. §
+44. § A Ptk. 3:361. §-a helyébe a következő rendelkezés lép:
+
+„3:361. § [Elszámolás a tagsági jogviszony megszűnésekor]
+
+(1) A tagsági jogviszony megszűnése esetén a tagot vagy jogutódját a vagyoni hozzájárulásának értéke, valamint a tagsági jogviszony időtartama alatt keletkezett, a vagyoni hozzájárulásra jutó saját tőke – lekötött tartalékkal csökkentett – összege illeti meg, abban az esetben, ha az a veszteség fedezésére nem került felhasználásra. A vagyoni hozzájárulás összegét a tagsági jogviszony megszűnését követő három hónapon belül, a tőkerészesedést a tagsági jogviszony megszűnését követő nyolc éven belül kell kiadni. Az alapszabály ennél hosszabb időtartamot előíró rendelkezése semmis.
+
+(2) A tagsági jogviszony megszűnése esetén a volt tag által a szövetkezet használatába adott vagyontárgyat kérelemre a volt tag részére vagy tagsági viszonyt nem létesítő jogutódja részére ki kell adni, ha a használatba adott vagyontárgy még a szövetkezet rendelkezésére áll. A vagyontárgyat a tagsági jogviszony megszűnését követő három hónapon belül kell kiadni; az alapszabály nyolc évnél hosszabb időtartamot előíró rendelkezése semmis. Ha a használatba adott vagyontárgy elhasználódás folytán már nincs a szövetkezet birtokában, a szövetkezet ellenérték fizetésére nem köteles. A vagyontárgynak a tagsági jogviszony megszűnése utáni használata esetén a kiadásig terjedő időre a volt tag, illetve tagsági jogviszonyt nem létesítő jogutódja részére díjat kell fizetni.”
