@@ -210,7 +210,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Felnőttkori súlyos (18 éves kor felett, Mayo score ≥ 9) colitis ulcerosa kezelésére, a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján, amennyiben adekvát immunszupresszió mellett (legalább 2 mg/ttkg vagy a legnagyobb tolerálható dózisú azathioprin) igazolt szisztémás szteroidfüggőség (3 hónapon túl szisztémásan ≥ 10 mg/nap prednisolon ekvivalens dózis) esetén a szteroid adagjának csökkenésekor relapszus (endoszkópos Mayo subscore ≥ 2) igazolható, vagy 3 hónapon át tartó adekvát hagyományos (szteroid indukciós, majd 3 hónapos fenntartó immunszuppresszív) kezelésre nem reagáló súlyos betegségformában (Mayo score > 9 és endoszkópos Mayo subscore ≥ 2), három hónapig, ezt követően kizárólag megfelelő válaszkészség esetén (Mayo score minimum 3 pontos csökkenése) a kezelés kezdetétől számítva legfeljebb egy évig. Akut lefolyású, fulmináns forma, fenyegető colectomia esetén a finanszírozási eljárásrendekről szóló miniszteri rendelet alapján adható.
+## Felnőttkori súlyos (18 éves kor felett, Mayo score ≥ 9) colitis ulcerosa kezelésére, a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján, amennyiben adekvát immunszupresszió mellett (legalább 2 mg/ttkg vagy a legnagyobb tolerálható dózisú azathioprin) igazolt szisztémás szteroidfüggőség (3 hónapon túl szisztémásan ≥ 10 mg/nap prednisolon ekvivalens dózis) esetén a szteroid adagjának csökkenésekor relapszus (endoszkópos Mayo subscore ≥ 2) igazolható, vagy 3 hónapon át tartó adekvát hagyományos (szteroid indukciós, majd 3 hónapos fenntartó immunszuppresszív) kezelésre nem reagáló súlyos betegségformában (Mayo score > 9 és endoszkópos Mayo subscore ≥ 2), három hónapig, ezt követően kizárólag megfelelő válaszkészség esetén (Mayo score minimum 3 pontos csökkenése). Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó), stabil remisszió esetén a kezelés felfüggeszthető. Akut lefolyású, fulmináns forma, fenyegető colectomia esetén a finanszírozási eljárásrendekről szóló miniszteri rendelet alapján adható.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -219,6 +219,10 @@
 ## 06052 adalimumab
 
 ## 06005 vedolizumab
+
+## 06070 tofacitinib
+
+## 06056 ustekinumab
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
@@ -340,6 +344,8 @@
 
 ## 06068 ixekizumab
 
+## 06070 tofacitinib
+
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
@@ -406,6 +412,10 @@
 
 ## 06074 guszelkumab
 
+## 06050 certolizumab-pegol
+
+## 06083 rizankizumab
+
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
@@ -459,6 +469,8 @@
 ## 06070 tofacitinib
 
 ## 06075 sarilumab
+
+## 06084 upadacitinib
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
@@ -713,6 +725,8 @@
 ## 06004 karfilzomib
 
 ## 06076 ixazomib
+
+## 06082 pomalidomid
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
@@ -1098,7 +1112,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## 17p delécióval vagy TP53 mutációval rendelkező, allogén transzplantációra alkalmatlan krónikus lymphoid leukemiaban szenvedő betegek esetén, valamint azon betegek részére, akiknél legalább két immunokemoterápiás kezelést követően a relapszus vagy progresszió 12 hónapon belül következik be.
+## 17p delécióval vagy TP53 mutációval rendelkező, vagy IGVH mutációval nem rendelkező allogén transzplantációra alkalmatlan krónikus lymphoid leukemiaban szenvedő betegek esetén, valamint azon betegek részére, akiknél legalább két immunokemoterápiás kezelést követően a relapszus vagy progresszió 12 hónapon belül következik be.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -1262,6 +1276,8 @@
 
 ## A kezelés a betegség progressziójáig, vagy addig folytatható, ameddig a beteg a kezelést tolerálja.
 
+## - Obinutuzumabbal kombinálva, korábban nem kezelt krónikus lymphoid leukaemiában (CLL) szenvedő felnőtt betegek kezelésére.
+
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
 ## 06078 venetoklax
@@ -1309,6 +1325,66 @@
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## 7/b14. pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Akut lymphoblastos leukaemia (ALL) kezelésére antineoplasztikus kombinált terápia részeként gyermekgyógyászati betegek (születéstől 18 éves korig) és felnőtt betegek számára.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06081 pegaszpargáz
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
+
+## 2878 Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## 7/b15. pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Felnőttek részére kiújuló vagy nem reagáló klasszikus Hodgkin-lymphoma (cHL) kezelésére autológ őssejt-transzplantációt (ASCT) és brentuximab-vedotinnal végzett kezelést követően.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06024 nivolumab
+
+## 06025 pembrolizumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 2878 Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
@@ -1978,6 +2054,252 @@
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
+## 8/a9. pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lokálisan előrehaladott vagy metasztatikus, epidermális növekedési faktor receptor (EGFR) T790M mutáció-pozitív, nem-kissejtes tüdőkarcinómában (NSCLC) szenvedő felnőtt betegek kezelésére, akik korábban EGFR-TK kezelésben részesültek, másod-, illetve többedvonalas terápiaként a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06049 osimertinib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
+
+## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
+
+## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet
+
+## 1876 Szent Borbála Kórház, Tatabánya
+
+## 1928 Szent Lázár Megyei Kórház, Salgótarján
+
+## 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa
+
+## 2073 Tüdőgyógyintézet, Törökbálint
+
+## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
+
+## 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
+
+## 2425 Tolna Megyei Balassa János Kórház
+
+## 2601 Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű
+
+## 2734 Zala Megyei Kórház
+
+## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
+
+## 2878 Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet
+
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
+
+## 2889 Szent Imre Kórház
+
+## 2891 Uzsoki utcai Kórház
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2897 Országos Korányi Pulmonológiai Intézet
+
+## 2899 Mátrai Gyógyintézet
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## N511 Szent Margit Kórház, Budapest
+
+## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## 8/a10. pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lokálisan előrehaladott, nem reszekálható, nem-kissejtes tüdőkarcinómában (NSCLC) szenvedő felnőtt betegek kezelésére, akiknek a daganatában a tumorsejtek ≥ 1%-a PD-L1 (Programmed death-ligand 1)-expressziót mutatnak, és akiknek a betegsége a platina-alapú kemoirradiáció után nem progrediált.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06048 durvalumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
+
+## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
+
+## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet
+
+## 1876 Szent Borbála Kórház, Tatabánya
+
+## 1928 Szent Lázár Megyei Kórház, Salgótarján
+
+## 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa
+
+## 2073 Tüdőgyógyintézet, Törökbálint
+
+## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
+
+## 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
+
+## 2425 Tolna Megyei Balassa János Kórház
+
+## 2601 Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű
+
+## 2734 Zala Megyei Kórház
+
+## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
+
+## 2878 Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet
+
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
+
+## 2889 Szent Imre Kórház
+
+## 2891 Uzsoki utcai Kórház
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2897 Országos Korányi Pulmonológiai Intézet
+
+## 2899 Mátrai Gyógyintézet
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## N511 Szent Margit Kórház, Budapest
+
+## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## 8/a11. pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Lokálisan előrehaladott vagy metasztatikus, epidermális növekedési faktor receptor (EGFR) és Anaplasticus lymphoma-kináz (ALK) mutációt nem hordozó, nem-kissejtes tüdőkarcinómában (NSCLC) szenvedő felnőtt betegek első vonalbeli kezelésére, a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend szerint.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06025 pembrolizumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1301 Koch Róbert Kórház és Rendelőintézet, Edelény
+
+## 1484 Csongrád Megyei Mellkasi Betegségek Szakkórháza, Deszk
+
+## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet
+
+## 1876 Szent Borbála Kórház, Tatabánya
+
+## 1928 Szent Lázár Megyei Kórház, Salgótarján
+
+## 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa
+
+## 2073 Tüdőgyógyintézet, Törökbálint
+
+## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
+
+## 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
+
+## 2425 Tolna Megyei Balassa János Kórház
+
+## 2601 Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű
+
+## 2734 Zala Megyei Kórház
+
+## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
+
+## 2878 Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet
+
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
+
+## 2889 Szent Imre Kórház
+
+## 2891 Uzsoki utcai Kórház
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2897 Országos Korányi Pulmonológiai Intézet
+
+## 2899 Mátrai Gyógyintézet
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## N511 Szent Margit Kórház, Budapest
+
+## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
 ## 8/b.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -2571,6 +2893,78 @@
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 2095 Jávorszky Ödön Kórház, Vác
+
+## 8/d4. pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Definitív lokális terápiával nem kezelhető, lokálisan előrehaladott vagy metasztatikus fej-nyaki laphámsejtes karcinómában (SCCHN) szenvedő, stabil, jó általános állapotú (ECOG 0-1) felnőtt betegek kezelésére, akik az elsővonalas platina alapú terápia mellett 6 hónapon belül progrediáltak.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06024 nivolumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1487 Dr. Bugyi István Kórház, Szentes
+
+## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 1876 Szent Borbála Kórház, Tatabánya
+
+## 1928 Szent Lázár Megyei Kórház, Salgótarján
+
+## 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa
+
+## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
+
+## 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
+
+## 2425 Tolna Megyei Balassa János Kórház
+
+## 2734 Zala Megyei Kórház
+
+## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
+
+## 2878 Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet
+
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
+
+## 2889 Szent Imre Kórház
+
+## 2891 Uzsoki utcai Kórház
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## N511 Szent Margit Kórház, Budapest
+
+## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/e2.1.
 
@@ -3374,6 +3768,32 @@
 
 ## 2734 Zala Megyei Szent Rafael Kórház
 
+## 8/h pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Felnőttek irreszekábilis vagy metasztatikus, konvencionális SSA kezelés után radiológiai progressziót mutató, jól differenciált (G1 és G2), szomatosztatin-receptor-pozitív gasztroentero-pankreatikus neuroendokrin tumorainak (GEP-NET) kezelésére, onkoteam döntés alapján.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06045 lutécium (177Lu)-oxodotreotid
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
 ## 9/a.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -3596,6 +4016,36 @@
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
+## 14/a pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## A nyirokcsomókat érintő vagy metasztatikus melanomában szenvedő, teljes tumorreszekción átesett felnőttek adjuváns kezelésére.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06024 nivolumab
+
+## 06025 pembrolizumab
+
+## 06019 dabrafenib
+
+## 06007 trametinib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
 ## 15/a. pont
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -3786,8 +4236,8 @@
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
-2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^112]
+2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^117]
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^112]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 2. §-a, a 15/2018. (VI. 28.) EMMI rendelet 3. § (3) bekezdése, a 38/2018. (X. 31.) EMMI rendelet 1. §-a, a 44/2018. (XII. 19.) EMMI rendelet 1. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 2. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (3) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 2. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (3)–(4) bekezdése, a 37/2020. (X. 30) EMMI rendelet 1. § (1) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 2. §-a, a 40/2021. (IX. 6.) EMMI rendelet 1. § (1) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 2. § (3) bekezdése, a 48/2021. (XI. 2.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^117]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 2. §-a, a 15/2018. (VI. 28.) EMMI rendelet 3. § (3) bekezdése, a 38/2018. (X. 31.) EMMI rendelet 1. §-a, a 44/2018. (XII. 19.) EMMI rendelet 1. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 2. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (3) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 2. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (3)–(4) bekezdése, a 37/2020. (X. 30) EMMI rendelet 1. § (1) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 2. §-a, a 40/2021. (IX. 6.) EMMI rendelet 1. § (1) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 2. § (3) bekezdése, a 48/2021. (XI. 2.) EMMI rendelet 1. §-a, az 51/2021. (XII. 10.) EMMI rendelet 1. §-a, az 58/2021. (XII. 27.) EMMI rendelet 1. §-a szerint módosított szöveg.
