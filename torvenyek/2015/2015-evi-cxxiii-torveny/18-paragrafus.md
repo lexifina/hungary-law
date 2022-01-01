@@ -1,6 +1,6 @@
 ## 10. Záró rendelkezések
 
-18. § (1) Felhatalmazást kap a Kormány, hogy a praxisközösségek és csoportpraxisok kialakításának szempontjait rendeletben állapítsa meg.
+18. § (1) Felhatalmazást kap a Kormány, hogy a praxisközösségek kialakításának szempontjait, együttműködésükre és a tevékenységükre vonatkozó koordinációs szabályokat rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
