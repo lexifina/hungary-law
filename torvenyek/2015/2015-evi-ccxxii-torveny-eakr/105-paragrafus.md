@@ -8,7 +8,7 @@
 
 a) az elektronikus ügyintézés és az elektronikus kapcsolattartás részletes szabályait,
 
-b) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, a felhasználás során a Felügyelet feladatát és eljárását, valamint a szolgáltatás használatáért számítható díj megállapításának módját,
+b) a szabályozott elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak, valamint piaci szereplők részére nyújtható központi állami szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, az ilyen felhasználás során a Felügyelet feladatát és eljárását, az ebben az esetben a szolgáltatás használatáért számítható díj megállapításának módját, a piaci szereplők részére nyújtható központi állami szolgáltatások technikai tartalmú eltéréseit, továbbá a piaci szereplők részére nyújtható központi állami szolgáltatások nyújtása korlátozásának feltételeit.
 
 c) e törvényben nem meghatározott szabályozott és központi elektronikus ügyintézési szolgáltatásokat, ezek részletes követelményeit, a szolgáltatásnyújtás részletes eljárási rendjét, a szolgáltatás igénybevételének részletes szabályait, a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési és a szolgáltató által teljesítendő személyi és pénzügyi feltételeket, a szabályozott elektronikus ügyintézési szolgáltatás bejelentésével, valamint a Felügyelet általi bírság kiszabásával kapcsolatos rendelkezéseket és a bírság mértékét,
 
@@ -46,6 +46,8 @@ s) az Egységes Digitális Kapuhoz való csatlakozással és annak működtetés
 
 t) a bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszereket.
 
+u) a 108. § (8) bekezdése szerinti időpontot.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 a) a Felügyeletet,
@@ -63,6 +65,8 @@ f) a tárhelyszolgáltatót.
 g) a 35. § (15a) bekezdése szerinti szervet,
 
 h) az elektronikus ügyintézési pont működtetőjét.
+
+i) a 17/A. § (1) bekezdése szerinti rendszert biztosító szervet.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

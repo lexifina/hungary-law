@@ -134,6 +134,8 @@ b) valamennyi ügy tekintetében gazdálkodó szervezetnek minősül az adószá
 
 39. összerendelési nyilvántartás: a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvényben szabályozott összerendelési nyilvántartás;
 
+39a. piaci szereplők részére nyújtható központi állami szolgáltatás: olyan, az állam által nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet a Kormány rendeletében informatikai, hálózati és infrastrukturális közszolgáltatásra kijelölt szolgáltató nem közfeladat ellátása céljából, piaci alapon, az eredeti közszolgáltatással – a Kormány rendeletében meghatározott eltérésekkel technikai tartalomban – azonos módon nyújt;
+
 40. személyre szabott ügyintézési felület: a jogszabályban kijelölt szolgáltató által nyújtott olyan, az ügyfél által személyre szabható internetes alkalmazás, amely az azonosított ügyfél számára egységesen elérhető lehetőséget biztosít az elektronikus ügyintézéshez szükséges nyilatkozatok, eljárási cselekmények és egyéb kötelezettségek teljesítésére, az ügyfél által igénybe vehető elektronikus ügyintézési szolgáltatások igénybevételére;
 
 41. szolgáltatási szabályzat: a bizalmi szolgáltató nyilatkozata az egyes bizalmi szolgáltatások nyújtásával kapcsolatosan alkalmazott részletes eljárási vagy más működési követelményekről;

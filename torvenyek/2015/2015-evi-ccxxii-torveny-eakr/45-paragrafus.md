@@ -28,6 +28,8 @@ b) az azonosítást kérő számára igazolni tudja az adott személy személyaz
 
 c) az azonosítást kérő rendelkezésére tudja bocsátani az adott személy azonosításához feltétlenül szükséges adatokat.
 
+(3a) A külföldi személyek nyilvántartásából az összerendelési nyilvántartáson keresztül a Szaz. tv. 10/E. és 10/F. §-ában meghatározott célból adat szolgáltatható, ha az adatok kezelésére az adatkezelő törvény felhatalmazása alapján jogosult.
+
 (4) Az (1) bekezdés szerinti szerv az ügyfél hozzájárulása nélkül a következő szervek részére adhatja meg az ügyfél általa kezelt adatait:
 
 a) bíróságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
