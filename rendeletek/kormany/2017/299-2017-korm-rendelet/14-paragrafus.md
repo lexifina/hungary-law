@@ -8,8 +8,8 @@
 
 (5) A barna prémium esetén a támogatott ár és a (4) bekezdés szerinti prémium mértékét a Hivatal rendeletben határozza meg.
 
-(6)[^37] 5 MW-nál nagyobb névleges teljesítőképességű, biomassza vagy vegyes tüzelésű erőműegységek esetében a barna prémiumra való jogosultság feltétele, hogy az üzleti tervekben bemutatott működési költségek nyílt pályázat keretében beszerzett biomassza áraival kerüljenek kiszámításra. A biomassza beszerzése érdekében lefolytatásra kerülő pályázati eljárásban a pályázatok benyújtási határidejét követő munkanapon a termelő közjegyző jelenlétében bontja fel a pályázatokat, és a közjegyző által hitelesített jegyzőkönyvben rögzíti a pályázók és a pályázatok lényeges adatait (különösen: pályázó neve, megnevezése, ajánlott mennyiség, ajánlott értékesítési ár).
+(6)[^39] 5 MW-nál nagyobb névleges teljesítőképességű, biomassza vagy vegyes tüzelésű erőműegységek esetében a barna prémiumra való jogosultság feltétele, hogy az üzleti tervekben bemutatott működési költségek nyílt pályázat keretében beszerzett biomassza áraival kerüljenek kiszámításra. A biomassza beszerzése érdekében lefolytatásra kerülő pályázati eljárásban a pályázatok benyújtási határidejét követő munkanapon a termelő közjegyző jelenlétében bontja fel a pályázatokat, és a közjegyző által hitelesített jegyzőkönyvben rögzíti a pályázók és a pályázatok lényeges adatait (különösen: pályázó neve, megnevezése, ajánlott mennyiség, ajánlott értékesítési ár).
 
 (7) Zöld prémium esetén az adott premizált termelő támogatott ára a 2. melléklet szerint indexálódik.
 
-[^37]: A 14. § (6) bekezdése a 370/2019. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^39]: A 14. § (6) bekezdése a 370/2019. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

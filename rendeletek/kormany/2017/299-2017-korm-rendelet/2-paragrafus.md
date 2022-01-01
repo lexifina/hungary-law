@@ -38,7 +38,7 @@
 
 18.[^4] menetrend-csoport képviselő: a KÁT termelők által összevont menetrendadás céljából kijelölt – a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti – gazdálkodó szervezet;
 
-19.[^5] szabályozási bónusz: a napi menetrend vagy a napon belüli menetrend e rendeletben meghatározott pontossága esetén a befogadó által a KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő részére fizetendő díj.
+19.[^5]
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, a távhőszolgáltatásról szóló 2005. évi XVIII. törvény, valamint a felhatalmazásuk alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
 
@@ -46,4 +46,4 @@
 [^2]: A 2. § (1) bekezdés 12. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés 15. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés 18. pontját a 22. § (2) bekezdése iktatta be.
-[^5]: A 2. § (1) bekezdés 19. pontját a 22. § (2) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés 19. pontját a 22. § (2) bekezdése iktatta be, hatályon kívül helyezte a 787/2021. (XII. 27.) Korm. rendelet 73. § a) pontja.

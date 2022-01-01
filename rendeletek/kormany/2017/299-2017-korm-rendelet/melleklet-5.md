@@ -1,4 +1,4 @@
-5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^51]
+5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^65]
 
 ## A szabályozási pótdíj megállapítására vonatkozó szabályok
 
@@ -118,4 +118,4 @@ azzal, hogy ha K > 1/2 * (∑hó(SZPi FEL DA + SZPi LE DA) + ∑hó(SZPi FEL ID 
 
 7. A 9. § (6) bekezdése szerinti számviteli bizonylaton szereplő, 1–6. pont szerinti szabályozási pótdíj összegét a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 9. § (10) bekezdése alapján korrigálásra kerül.
 
-[^51]: Az 5. melléklet a 618/2020. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^65]: Az 5. melléklet a 618/2020. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.

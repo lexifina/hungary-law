@@ -1,3 +1,7 @@
 7. § (1) Ha a villamosenergia-termelés biomassza felhasználásával történik, a KÁT termelőnek vagy a premizált termelőnek igazolnia kell, hogy a felhasznált fatermék a fát és faterméket piaci forgalomba bocsátó piaci szereplők kötelezettségének meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény rendelkezéseinek megfelelő legális fakitermelésből származik, és nem tartozik a VET 10. § (2) bekezdésének hatálya alá.
 
 (2) Ha a villamosenergia-termelés biomassza felhasználásával történik, a KÁT termelőnek vagy a premizált termelőnek nyilatkoznia kell, hogy a tüzelőanyagként felhasznált biomassza emberi élelmezés céljára nem alkalmas.
+
+(3)[^16] A KÁT termelő vagy a premizált termelő biomasszából vagy biogázból nyert villamos energia kötelező átvételi jogosultság vagy prémium típusú támogatás keretében történő támogatásra akkor jogosult, ha a villamosenergia-termeléshez felhasznált energiaforrás energiatartalma a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikke alapján a 29. cikk (1) bekezdés a) és c) pontjában említett célokra figyelembe vehető.
+
+[^16]: A 7. § (3) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 55. §-a iktatta be.

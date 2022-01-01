@@ -1,4 +1,4 @@
-4. melléklet a 299/2017. (X. 17.) Korm. rendelethez
+4. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^64]
 
 ## A kötelező átvételen vagy prémium típusú támogatáson kívüli egyéb támogatások figyelembevételének módja
 
@@ -29,3 +29,5 @@ BK: A beruházás aktiválásakor elszámolt, indokolt beruházási költség.
 3. Ha egy beruházás az 1. és 2. pont szerinti támogatásban is részesül, úgy a támogatás intenzitását az ezen pontok szerint kiszámított támogatási intenzitások összegeként kell meghatározni.
 
 4. Ha a termelő az adott erőműegység vonatkozásában a kötelező átvételen vagy prémium típusú támogatáson kívül egyéb állami támogatást is igénybe vesz, úgy a megállapított támogatási időtartam az 1–3. pont szerint megállapított támogatási intenzitással arányosan csökken.
+
+[^64]: [A 4. melléklet 4. pontjában a 787/2021. (XII. 27.) Korm. rendelet 72. § f) pontjával elrendelt módosítás, amely szerint az „intenzítással” szövegrész helyébe az „intenzitással” szöveg lép, nem vezethető át].
