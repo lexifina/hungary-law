@@ -1,4 +1,4 @@
-## 9. § Ha az eljáró szerv megállapítja, hogy az ügyfél szerepel a FELIR nyilvántartásban, de e rendelet hatálybalépését megelőzően számára nem került FELIR azonosító megállapításra, haladéktalanul gondoskodik annak kiadásáról, a 4. § (1) bekezdésében foglaltak szerint.
+## 10. §[^1] Ez a rendelet a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 1. melléklet az 578/2020. (XII. 14.) Korm. rendelethez
 
@@ -96,4 +96,7 @@ A következő tevékenységek kizárólag FELIR azonosító megléte esetén vé
 
 45. faanyag-kereskedelmi lánchoz tartozó tevékenység;
 
-46. fenntartható bioüzemanyag-termeléshez kapcsolódó gazdasági tevékenység.
+46.[^2] a megújuló energiaforrásokból előállított energia használatát szolgáló biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok termeléséhez kapcsolódó gazdasági tevékenység.
+
+[^1]: A 10. §-t a 824/2021. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^2]: Az 1. melléklet 46. pontja a 824/2021. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.

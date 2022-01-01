@@ -18,7 +18,7 @@ b) természetes személyek személyesen vagy elektronikus úton
 
 a) a tevékenységre vonatkozó jogszabályban előírt, a tevékenység megkezdésével kapcsolatos bejelentési kötelezettség,
 
-b)[^1]
+b) az engedélyköteles tevékenységnek a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 400. § (1) bekezdése szerinti ellenőrzött bejelentése (a továbbiakban: ellenőrzött bejelentés).
 
 (6) Engedélyköteles tevékenység esetén az ügyfélnek a (3) bekezdésben meghatározott módon történő FELIR nyilvántartásba vételi eljárást követő 6 hónapon belül meg kell indítania a tevékenységengedélyezési eljárást, ha
 
@@ -27,5 +27,3 @@ a) az ügyfél az ellenőrzött bejelentés helyett a tevékenységét engedély
 b) az engedélyköteles tevékenység nem végezhető ellenőrzött bejelentés alapján.
 
 (7) Ha az ügyfél már rendelkezik FELIR azonosítóval, és új tevékenységet kíván folytatni, a bejelentés megtételére a (2)–(6) bekezdésben foglaltak irányadóak.
-
-[^1]: A 2. § (5) bekezdés b) pontja a 8. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.

@@ -1,0 +1,1 @@
+## 9. § Ha az eljáró szerv megállapítja, hogy az ügyfél szerepel a FELIR nyilvántartásban, de e rendelet hatálybalépését megelőzően számára nem került FELIR azonosító megállapításra, haladéktalanul gondoskodik annak kiadásáról, a 4. § (1) bekezdésében foglaltak szerint.
