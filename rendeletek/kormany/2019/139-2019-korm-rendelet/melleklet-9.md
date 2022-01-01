@@ -1,3 +1,3 @@
-9. melléklet a 139/2019. (VI. 14.) Korm. rendelethez[^27]
+9. melléklet a 139/2019. (VI. 14.) Korm. rendelethez[^26]
 
-[^27]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
