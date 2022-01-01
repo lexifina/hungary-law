@@ -25,3 +25,5 @@
 (13) A 18. § (4) bekezdése szerint közzétett területi kamarai tájékoztatás alapján benyújtott áthelyezési kérelem elbírálásának akkor van helye, ha a területi kamarai tájékoztatás közzétételére a 18. § (4) bekezdésének az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel történő hatályon kívül helyezését megelőzően került sor.
 
 (14) E törvénynek a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvénnyel megállapított 134. §-ában foglalt követelményeket 2021. január 31-ét követően azzal kell alkalmazni, hogy a 2021. február 1-től 2021. április 5-ig közokiratba foglalt egyoldalú kötelezettségvállaló nyilatkozatok esetén a miniszter rendeletében meghatározott okiratmintától való eltérés nem vonja maga után a közjegyzői okirat közokirati jellegének elvesztését.
+
+(15) A 2022. január 1. napját megelőzően készült közjegyzői okiratot a 131. §, illetve 147/A. § alkalmazása során akkor is közokiratnak kell tekinteni, ha az e törvény 2022. január 1. napján hatályos rendelkezéseinek megfelel.

@@ -8,7 +8,7 @@ b) az arra az esetre szóló szabályokat, amikor a tartós helyettesítésre ol
 
 (3) A 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti tartós helyettesítés tartama alatt a helyettesített közjegyző munkavállalói felett a munkáltatói jogkört a tartós helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a területi kamara elnökének előzetes írásbeli engedélye alapján intézkedhet. A 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti tartós helyettesítés időtartama alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes és közjegyzőjelölt szakmai képzéséről – a helyettesített közjegyző irodájának a helyettes általi átvétele hiányában a helyettesített közjegyző költségére – a tartós helyettes gondoskodik. Az e bekezdésben foglaltakkal ellentétes megállapodás semmis.
 
-(4) Ha a helyettesített közjegyző közjegyzői iroda keretében működik és annak ő az irodavezetője, a tartós helyettesítési megállapodásban a felek megállapodhatnak arról is, hogy a tartós helyettes a helyettesített közjegyző irodáját átveszi. Ebben az esetben a területi kamara elnökségének az eljárására a 37/D. § (4) bekezdését kell megfelelően alkalmazni.
+(4) Ha a helyettesített közjegyző a közjegyzői iroda irodavezetője, a tartós helyettesítési megállapodásban a felek megállapodhatnak arról is, hogy a tartós helyettes a helyettesített közjegyző irodáját átveszi. Ebben az esetben a területi kamara elnökségének az eljárására a 37/D. § (4) bekezdését kell alkalmazni.
 
 (5) A tartós helyettesítési megállapodás megszűnik
 

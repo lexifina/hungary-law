@@ -6,4 +6,6 @@
 
 (2) Helyettesként a távollevő közjegyzőével azonos területi kamaránál működő közjegyzőt, közjegyzőhelyettest, kivételesen nyugalmazott közjegyzőt vagy nyugalmazott bírót lehet kirendelni.
 
+(2a) Helyettesként az a közjegyző rendelhető ki, aki a 69. § (4) bekezdés szerinti első éves működési vizsgálaton, vagy annak utóvizsgálatán megfelelt, vagy aki a kinevezését megelőzően közjegyzőhelyettesként tartós helyettesi feladatot látott el és a tartós helyettesi működése során tartott működési vizsgálaton megfelelt.
+
 (3) A helyettes személyére a közjegyző, ennek hiányában, továbbá a felfüggesztés esetén a területi kamara elnöksége tesz javaslatot.

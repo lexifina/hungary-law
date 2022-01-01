@@ -24,7 +24,7 @@ j) a külföldi eljárás céljára tett peren kívüli eskü vagy fogadalom té
 
 (2) A tanúsítvány kiállítása esetén a törvénynek a közjegyzői okiratokra vonatkozó általános szabályait kell megfelelően alkalmazni azzal, hogy a közjegyző felelőssége a tanúsítvány mint közokirat alakiságának megtartásáért és a tanúsítvány tartalmi valódiságáért áll fenn. A közjegyző a tanúsítvány készítésénél nem köteles segédszemélyeket igénybe venni.
 
-(2a) A félnek a tanúsítványt – ha jogszabály eltérően nem rendelkezik – nem kell aláírnia.
+(2a) A félnek, képviselő útján történő eljárás esetén a képviselőnek a tanúsítványt – ha jogszabály eltérően nem rendelkezik – nem kell aláírnia.
 
 (3) A személyazonosítással érintett személy személyazonosságának elektronikus úton történő adatigényléssel való ellenőrzése mellőzhető az (1) bekezdés a) és b), d)–i) pontja szerinti ténytanúsítás esetén, kivéve, ha
 
