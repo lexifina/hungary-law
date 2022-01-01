@@ -1,6 +1,5 @@
 ## 8. §[^1]
 
-9. §[^2]
+9. § Hatályát veszti a minimális vagyonvédelmi szolgáltatási rezsióradíj 2021. évi mértékéről szóló 170/2021. (IV. 9.) Korm. rendelet.
 
 [^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 9. § a 7. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
