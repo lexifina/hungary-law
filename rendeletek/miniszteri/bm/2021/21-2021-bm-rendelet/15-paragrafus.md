@@ -1,0 +1,1 @@
+## 14. § Személyi DNS-profil-meghatározást az Intézet akkor végezhet, ha rendelkezik igazságügyi szakértői névjegyzékbe, igazságügyi genetikai szakterületre bejegyzett legalább két olyan, az Intézet nevében eljárni jogosult szakértővel, akinek az igazságügyi szakértői kamarai tagsága nem szünetel, vagy nincs felfüggesztve.
