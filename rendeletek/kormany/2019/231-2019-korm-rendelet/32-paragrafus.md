@@ -1,4 +1,4 @@
-## 31/A. §[^9] A bevett egyház és annak belső egyházi jogi személye számára a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 41. § (1) bekezdés c) pont cb) alpontja szerint nyújtott támogatás szempontjából az elismert számított pedagóguslétszámot a hittanoktatás hozzáférhetőségének javítása érdekében 2021. szeptember 1-jétől oly módon kell megállapítani, hogy hit- és erkölcstanoktatásban részt vevő tanulók legalább 6 fős csoportját kell figyelembe venni.
+## 31/A. §[^9]
 
 ## 19. A tábori lelkészi szolgálat végzése
 
@@ -12,4 +12,4 @@
 
 (5) A honvédelmi szervezet vezetője és a tábori lelkészi szolgálat tagjai kötelesek elősegíteni, hogy a vallási közösségek vallásgyakorlási és lelkigondozási jogosultsága a személyi állomány igényei szerint érvényesüljön.
 
-[^9]: A 31/A. §-t az 534/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 31/A. §-t az 534/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 3. §.
