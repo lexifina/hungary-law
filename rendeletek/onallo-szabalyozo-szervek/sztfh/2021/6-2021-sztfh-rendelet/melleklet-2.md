@@ -136,7 +136,9 @@
 
 ## Győri Törvényszék
 
-| Győri Járásbíróság | 5 |
+| Csornai Járásbíróság | 1 |
+
+| Győri Járásbíróság | 4 |
 
 | Mosonmagyaróvári Járásbíróság | 2 |
 
