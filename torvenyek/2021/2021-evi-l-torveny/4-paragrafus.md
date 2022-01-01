@@ -8,7 +8,7 @@
 
 4.
 
-5.
+5. 9. § (3) bekezdésében az „adatlapokon, illetve számítógépes adathordozón tárolva” szövegrész helyébe az „adatlapokon, illetve elektronikusan tárolva” szöveg,
 
 6.
 
