@@ -1,1 +1,3 @@
-79. §
+79. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény a következő 232/T. §-sal egészül ki:
+
+„232/T. § E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 24. § (1) és (2) bekezdését, valamint 25/A. §-át azon határozott időre kinevezett bíró esetében kell alkalmazni, akinek a határozott idejű kinevezése 2022. május 1. napját követően jár le. Azon bíró esetében, akinek a határozott idejű kinevezése 2022. május 1. napján vagy azt megelőzően jár le, a 24. § (1) bekezdése szerinti nyilatkozat beszerzésére, a tényleges működés megítélésére, a vizsgálatra és az értékelésre a 2021. december 31-én hatályos rendelkezéseket kell alkalmazni.”

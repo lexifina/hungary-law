@@ -1,1 +1,3 @@
-60. §
+60. § A kisajátításról szóló 2007. évi CXXIII. törvény 37. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A tulajdonváltozást az ingatlanügyi hatóság a véglegessé vált kisajátítási határozat vagy – a kisajátítási tervben szereplő ingatlan adásvétel vagy csere útján történő megszerzése esetén – kérelem és adásvételi vagy csereszerződés alapján vezeti át az ingatlan-nyilvántartáson. Ha a 33. § (3) bekezdésében foglaltak alapján a kisajátítási határozathoz a vagyonkezelői jog bejegyzése iránti kérelmet is mellékelték, az ingatlanügyi hatóság a vagyonkezelői jogot a tulajdonjoggal együtt jegyzi be az ingatlan-nyilvántartásba.”

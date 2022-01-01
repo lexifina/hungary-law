@@ -1,1 +1,3 @@
-77. §
+77. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 84. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében az eljárás alá vont bírót és az értékelő bírósági elnököt meghallgatja, beszerzi a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető, a bíró beosztási helye és szakterülete szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla bíró szakterülete szerinti kollégiumvezetője véleményét, tanúkat hallgathat ki, a bírói értékelés irataiba betekinthet. A bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.”

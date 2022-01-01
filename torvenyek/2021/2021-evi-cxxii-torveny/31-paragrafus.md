@@ -1,1 +1,3 @@
-31. §
+31. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Versenytanács döntéseit a Versenytanács elnöke által a Versenytanács szervezeti és működési szabályzatában meghatározottak szerint a Versenytanács tagjai közül kijelölt háromtagú vagy öttagú tanácsban eljárva hozza meg azzal, hogy az eljáró versenytanács előadó versenytanácstagként kijelölt tagja egyedül eljárva is meghozhat – az eljárást megszüntető, az eljárási bírságot kiszabó, a biztosítási intézkedést és az ideiglenes intézkedést elrendelő, valamint a 67. § (4) bekezdése alapján indított versenyfelügyeleti eljárásban az eljárás felfüggesztése tárgyában hozott végzés kivételével – minden elsőfokú végzést, és megteheti a szükséges egyéb intézkedéseket.”

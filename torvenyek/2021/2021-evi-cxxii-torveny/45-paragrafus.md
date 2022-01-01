@@ -1,1 +1,3 @@
-45. §
+45. § A tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény „Átmeneti rendelkezések” alcíme a következő 95/J. §-sal egészül ki:
+
+„95/J. § E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 43/N. § (1) bekezdés c) pontját és (4) bekezdését, 43/O. §-át, 60/A. § (1) bekezdését, 62/A. § (4a) bekezdését, 63. § (2) bekezdés d) pontját, 67. § (5a) bekezdését, 68. § (1) bekezdés c) pont ca) alpontját az e rendelkezések hatálybalépését megelőzően létrejött, de még végre nem hajtott összefonódásokra is alkalmazni kell.”
