@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-469-20-
 | --- | --- | --- |
 | 2017-01-01 | 2016-469-20-22.1 | 469/2016. (XII. 23.) Korm. rendelet |
 | 2017-01-02 | 2016-469-20-22.2 | 2010: CXXX. törvény |
+| 2022-01-01 | 2016-469-20-22.3 | 827/2021. (XII. 28.) Korm. rendelet |
