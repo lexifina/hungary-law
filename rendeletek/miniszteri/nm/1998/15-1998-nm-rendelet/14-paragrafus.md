@@ -12,13 +12,13 @@ e) a szolgáltatást igénybe vevő személy, család, illetve gyermek és szül
 
 f) közreműködik a válsághelyzetben lévő várandós anya problémáinak rendezésében.
 
-(2)[^81] Az 1. számú mellékletben meghatározott létszámelőírás esetében a 25 ellátott család számításakor csak azok a családok vehetők figyelembe,
+(2)[^82] Az 1. számú mellékletben meghatározott létszámelőírás esetében a 25 ellátott család számításakor csak azok a családok vehetők figyelembe,
 
 a) akik megállapodással rendelkeznek, és a szociális segítőmunka során éves átlagban legalább havi három személyes találkozás megszervezésére és dokumentálására sor kerül, valamint
 
 b) ahol hatósági intézkedéshez kapcsolódó szolgáltatásnyújtás történik.
 
-(3)[^82] Egy fő családsegítő a 25 család felett havi átlagban legfeljebb 10, a (2) bekezdés alá nem tartozó családot támogathat szociális segítő munkával.
+(3)[^83] Egy fő családsegítő a 25 család felett havi átlagban legfeljebb 10, a (2) bekezdés alá nem tartozó családot támogathat szociális segítő munkával.
 
-[^81]: A 14. § (2) bekezdése a 36/2021. (VIII. 26.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^82]: A 14. § (3) bekezdését 1/2017. (II. 14.) EMMI rendelet 6. § (2) bekezdése iktatta be.
+[^82]: A 14. § (2) bekezdése a 36/2021. (VIII. 26.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^83]: A 14. § (3) bekezdését 1/2017. (II. 14.) EMMI rendelet 6. § (2) bekezdése iktatta be.

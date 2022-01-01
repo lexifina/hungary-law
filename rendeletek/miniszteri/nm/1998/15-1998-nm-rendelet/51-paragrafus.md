@@ -4,12 +4,12 @@
 
 (3) A mini bölcsőde fenntartója biztosítja, hogy a kisgyermeknevelő vagy a bölcsődei dajka betegsége vagy egyéb váratlan esemény bekövetkezése esetén a helyettesítés megoldott legyen a 2. számú melléklet II. Rész „I. Alapellátások” cím 2.2. pontjában az adott munkakörhöz meghatározott képesítési előírásoknak megfelelő személlyel.
 
-(3a)[^132] Amennyiben a (3) bekezdésben foglalt kisgyermeknevelő helyettesítése nem oldható meg a jogszabályban előírt képesítéssel rendelkező személlyel, úgy a többcélú óvoda-bölcsődében alkalmazott óvónő is elláthatja a helyettesítést, ha legalább 60 órás felkészítő tanfolyam keretében elsajátította a három évnél fiatalabb gyermekek neveléséhez, gondozásához szükséges alapismereteket.
+(3a)[^135] Amennyiben a (3) bekezdésben foglalt kisgyermeknevelő helyettesítése nem oldható meg a jogszabályban előírt képesítéssel rendelkező személlyel, úgy a többcélú óvoda-bölcsődében alkalmazott óvónő is elláthatja a helyettesítést, ha legalább 60 órás felkészítő tanfolyam keretében elsajátította a három évnél fiatalabb gyermekek neveléséhez, gondozásához szükséges alapismereteket.
 
-(3b)[^133] Amennyiben a (3) bekezdésben foglalt bölcsődei dajka helyettesítése nem oldható meg a jogszabályban előírt képesítéssel rendelkező személlyel, úgy a többcélú óvoda-bölcsődében alkalmazott óvodai dajka is elláthatja a helyettesítést.
+(3b)[^136] Amennyiben a (3) bekezdésben foglalt bölcsődei dajka helyettesítése nem oldható meg a jogszabályban előírt képesítéssel rendelkező személlyel, úgy a többcélú óvoda-bölcsődében alkalmazott óvodai dajka is elláthatja a helyettesítést.
 
-(4)[^134] A (3)–(3b) bekezdés szerinti helyettesítő személynek rendelkeznie kell érvényes Egészségügyi Nyilatkozattal.
+(4)[^137] A (3)–(3b) bekezdés szerinti helyettesítő személynek rendelkeznie kell érvényes Egészségügyi Nyilatkozattal.
 
-[^132]: Az 51. § (3a) bekezdését a 19/2017. (IX. 18.) EMMI rendelet 2. §-a iktatta be.
-[^133]: Az 51. § (3b) bekezdését a 19/2017. (IX. 18.) EMMI rendelet 2. §-a iktatta be.
-[^134]: Az 51. § (4) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § f) pontja szerint módosított szöveg.
+[^135]: Az 51. § (3a) bekezdését a 19/2017. (IX. 18.) EMMI rendelet 2. §-a iktatta be.
+[^136]: Az 51. § (3b) bekezdését a 19/2017. (IX. 18.) EMMI rendelet 2. §-a iktatta be.
+[^137]: Az 51. § (4) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § f) pontja szerint módosított szöveg.

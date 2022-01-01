@@ -1,4 +1,4 @@
-4/A. §[^55] (1) A gyermekjóléti, gyermekvédelmi szolgáltató, intézmény szakmai programjának tartalmaznia kell
+4/A. §[^56] (1) A gyermekjóléti, gyermekvédelmi szolgáltató, intézmény szakmai programjának tartalmaznia kell
 
 a) a szolgáltató, intézmény nevét, székhelyét, telephelyét;
 
@@ -20,7 +20,7 @@ g) az igénybe vevők és a személyes gondoskodást végző személyek jogainak
 
 h) a szolgáltatást nyújtók folyamatos szakmai felkészültsége biztosításának módját, formáit,
 
-i)[^56] a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló kormányrendeletben foglaltak szerinti
+i)[^57] a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló kormányrendeletben foglaltak szerinti
 
 ia) alkalmassági felülvizsgálat módját és
 
@@ -30,18 +30,18 @@ ib) eljárásrendet a nevelőszülőt a gondozásában elhelyezett gyermek, fiat
 
 a) a Gyvt. 32. § (4) és (6) bekezdése szerinti megállapodások tervezetét,
 
-b)[^57] nevelőszülői hálózat működtetése esetén a Gyvt. 66/B. § (1) bekezdése szerinti, utógondozói ellátás nyújtása esetén a Gyvt. 53/A. § (3) bekezdése szerinti megállapodás tervezetét,
+b)[^58] nevelőszülői hálózat működtetése esetén a Gyvt. 66/B. § (1) bekezdése szerinti, utógondozói ellátás nyújtása esetén a Gyvt. 53/A. § (3) bekezdése szerinti megállapodás tervezetét,
 
 c) átmeneti elhelyezést biztosító gyermekjóléti intézmény, befogadó gyermekotthon, otthont nyújtó ellátást biztosító gyermekotthon, lakásotthon, utógondozói ellátást biztosító utógondozó otthon esetében a házirendet vagy annak tervezetét,
 
-d)[^58] a – (2a) bekezdésben foglalt kivétellel – a szervezeti és működési szabályzatot vagy annak tervezetét.
+d)[^59] a – (2a) bekezdésben foglalt kivétellel – a szervezeti és működési szabályzatot vagy annak tervezetét.
 
-(2a)[^59] A gyermekek esélynövelő szolgáltatásai, a mini bölcsőde, a munkahelyi bölcsőde, a nem hálózatban működtetett családi bölcsőde, a nem hálózatban működtetett napközbeni gyermekfelügyelet és az alternatív napközbeni ellátás esetén nem kötelező szervezeti és működési szabályzatot készíteni.
+(2a)[^60] A gyermekek esélynövelő szolgáltatásai, a mini bölcsőde, a munkahelyi bölcsőde, a nem hálózatban működtetett családi bölcsőde, a nem hálózatban működtetett napközbeni gyermekfelügyelet és az alternatív napközbeni ellátás esetén nem kötelező szervezeti és működési szabályzatot készíteni.
 
 (3) A szakmai programot az (1) bekezdés szerinti elemeinek változása esetén módosítani kell.
 
-[^55]: A 4/A. §-t az 58/2011. (X. 21.) NEFMI rendelet 2. §-a iktatta be.
-[^56]: A 4/A. § (1) bekezdés i) pontját a 83/2013. (XII. 29.) EMMI rendelet 2. § (1) bekezdése iktatta be, szövege a 6/2020. (III. 6.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^57]: A 4/A. § (2) bekezdés b) pontja a 83/2013. (XII. 29.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^58]: A 4/A. § (2) bekezdés d) pontja a 77/2011. (XII. 30.) NEFMI rendelet 13. § b) pontja szerint módosított szöveg.
-[^59]: A 4/A. § (2a) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 3. §-a iktatta be, szövege a 6/2016. (III. 24.) EMMI rendelet 1. §-ával megállapított, a 40/2018. (XII. 4.) EMMI rendelet 23. § e) pontja szerint módosított szöveg.
+[^56]: A 4/A. §-t az 58/2011. (X. 21.) NEFMI rendelet 2. §-a iktatta be.
+[^57]: A 4/A. § (1) bekezdés i) pontját a 83/2013. (XII. 29.) EMMI rendelet 2. § (1) bekezdése iktatta be, szövege a 6/2020. (III. 6.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^58]: A 4/A. § (2) bekezdés b) pontja a 83/2013. (XII. 29.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^59]: A 4/A. § (2) bekezdés d) pontja a 77/2011. (XII. 30.) NEFMI rendelet 13. § b) pontja szerint módosított szöveg.
+[^60]: A 4/A. § (2a) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 3. §-a iktatta be, szövege a 6/2016. (III. 24.) EMMI rendelet 1. §-ával megállapított, a 40/2018. (XII. 4.) EMMI rendelet 23. § e) pontja szerint módosított szöveg.

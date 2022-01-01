@@ -1,4 +1,4 @@
-3/A. §[^33] (1) A szolgáltató, intézmény a szolgáltatói nyilvántartásba legfeljebb három év időtartamra ideiglenes hatállyal jegyezhető be, ha
+3/A. §[^34] (1) A szolgáltató, intézmény a szolgáltatói nyilvántartásba legfeljebb három év időtartamra ideiglenes hatállyal jegyezhető be, ha
 
 a) a szakalkalmazottként foglalkoztatott és nem a gyermekek közvetlen gondozását végző személyek száma nem éri el a jogszabályban meghatározott létszámot, de eléri annak háromnegyedét, vagy
 
@@ -6,4 +6,4 @@ b) a szakképesítéssel nem rendelkező, szakalkalmazottként foglalkoztatott s
 
 (2) Az (1) bekezdés alapján történő ideiglenes bejegyzés hatálya egyszer, legfeljebb újabb három év időtartamra meghosszabbítható.
 
-[^33]: A 3/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 1. §-a iktatta be.
+[^34]: A 3/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 1. §-a iktatta be.

@@ -4,13 +4,13 @@
 
 (2) A családi bölcsődében, ha
 
-a)[^144] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb négy gyermek,
+a)[^147] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb négy gyermek,
 
-b)[^145] kizárólag sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb két gyermek
+b)[^148] kizárólag sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb két gyermek
 
 nevelhető, gondozható.
 
-(3)[^146] A családi bölcsődében, ha a bölcsődei szolgáltatást nyújtó személy mellett segítő személyt is alkalmaznak, és
+(3)[^149] A családi bölcsődében, ha a bölcsődei szolgáltatást nyújtó személy mellett segítő személyt is alkalmaznak, és
 
 a) sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket nem látnak el, legfeljebb nyolc gyermek,
 
@@ -26,6 +26,6 @@ nevelhető, gondozható.
 
 (4) A bölcsődei szolgáltatást nyújtó személy melletti segítő tevékenységet szociális gondozói díjban részesülő személy, illetve munkaviszonyban vagy más foglalkoztatásra irányuló jogviszonyban foglalkoztatott személy is elláthatja általános teljes napi munkaidőben vagy részmunkaidőben.
 
-[^144]: Az 51/F. § (2) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § f) pontja szerint módosított szöveg.
-[^145]: Az 51/F. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^146]: Az 51/F. § (3) bekezdése a 6/2021. (VII. 19.) CSTNM rendelet 2. §-ával megállapított szöveg.
+[^147]: Az 51/F. § (2) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § f) pontja szerint módosított szöveg.
+[^148]: Az 51/F. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^149]: Az 51/F. § (3) bekezdése a 6/2021. (VII. 19.) CSTNM rendelet 2. §-ával megállapított szöveg.

@@ -1,10 +1,10 @@
 ## Egyéni gondozási-nevelési terv
 
-32. § (1)[^102] A gyermekre vonatkozó egyéni gondozási-nevelési tervet a GYVR tervező és értékelő alrendszerében kell elkészíteni, és tartalmaznia kell
+32. § (1)[^105] A gyermekre vonatkozó egyéni gondozási-nevelési tervet a GYVR tervező és értékelő alrendszerében kell elkészíteni, és tartalmaznia kell
 
 a) a veszélyeztető körülmények megjelölését,
 
-b)[^103] a védelembe vétel megszüntetéséhez szükséges változásokat, valamint ennek elérése érdekében az esetmenedzser, a szülő és a gyermek feladatait, határidők megállapításával,
+b)[^106] a védelembe vétel megszüntetéséhez szükséges változásokat, valamint ennek elérése érdekében az esetmenedzser, a szülő és a gyermek feladatait, határidők megállapításával,
 
 c) a szükségesnek tartott hatósági, illetve bírósági eljárások kezdeményezésének megjelölését,
 
@@ -42,7 +42,7 @@ cb) azt, hogy a szülő és az ítélőképessége birtokában lévő gyermek ny
 
 cc) a gyermeket veszélyeztető körülmények elhárítását, a gyermek testi, értelmi, érzelmi és erkölcsi fejlődésének szülő általi biztosítását, így a védelembe vétel megszüntetését.
 
-(4)[^104] Az egyéni gondozási-nevelési terv megvalósítását az esetmenedzser a GYVR tervező és értékelő alrendszerében értékeli, és
+(4)[^107] Az egyéni gondozási-nevelési terv megvalósítását az esetmenedzser a GYVR tervező és értékelő alrendszerében értékeli, és
 
 a) szükség esetén módosítja vagy kezdeményezi a módosítását,
 
@@ -56,6 +56,6 @@ bc) a GYVR útján megismerhetővé teszi a gyámhivatal számára, ha a gyermek
 
 c) ha a megvalósítás az egyéni gondozási-nevelési tervben megjelölt intézmények, szolgáltatók, személyek és az egyéb közvetített ellátásban, szolgáltatásban dolgozók mulasztása miatt nem valósult meg, ezt a problémát a gyámhivatal számára a GYVR-ben megismerhetővé teszi.
 
-[^102]: A 32. § (1) bekezdés nyitó szövegrésze a 15/2021. (IV. 29.) EMMI rendelet 8. § g) pontja szerint módosított szöveg.
-[^103]: A 32. § (1) bekezdés b) pontja a 15/2021. (IV. 29.) EMMI rendelet 8. § h) pontja szerint módosított szöveg.
-[^104]: A 32. § (4) bekezdése a 15/2021. (IV. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^105]: A 32. § (1) bekezdés nyitó szövegrésze a 15/2021. (IV. 29.) EMMI rendelet 8. § g) pontja szerint módosított szöveg.
+[^106]: A 32. § (1) bekezdés b) pontja a 15/2021. (IV. 29.) EMMI rendelet 8. § h) pontja szerint módosított szöveg.
+[^107]: A 32. § (4) bekezdése a 15/2021. (IV. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
