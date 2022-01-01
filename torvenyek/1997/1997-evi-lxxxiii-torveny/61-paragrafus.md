@@ -26,7 +26,7 @@ b) aza) bekezdésben meghatározottak miatt a kérelem visszautasításra vagy a
 
 (5b) Az igénylő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet az egészségbiztosító által rendszeresített és az egészségbiztosító honlapján közzétett nyomtatványon nyújthatja be.
 
-(6)
+(6) Az Ákr. 40. §-ában meghatározott feltételek fennállása esetén az elektronikus úton benyújtott utazási költségtérítési támogatás iránti kérelmet az egészségbiztosító automatikus döntéshozatali eljárásban bírálja el.
 
 (7) Ha a kérelem elbírálása után megállapítást nyer, hogy a kérelmet jogszabálysértő módon elutasították, vagy alacsonyabb összegű ellátást állapítottak meg, illetőleg folyósítottak, a jogszabálysértés felfedésétől visszafelé számított öt éven belül járó összeget és az utána járó – az Art.-ban meghatározott – késedelmi pótlékot utólag ki kell fizetni.
 

@@ -20,7 +20,7 @@ d) gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a g
 
 e) gyógyászati segédeszköz: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (továbbiakban: Gyftv.) 3. §-ának 6. pontja szerinti eszköz,
 
-f) helyi utazás: a település közigazgatási határán belül történő utazás,
+f) helyi utazás: a település közigazgatási határán belül történő utazás, ha a biztosított lakóhelye vagy tartózkodási helye, illetve szállása és az ellátást nyújtó egészségügyi szolgáltató telephelye ugyanazon településen található,
 
 g) gyógyászati ellátás: az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló rendeletben meghatározott ellátás,
 

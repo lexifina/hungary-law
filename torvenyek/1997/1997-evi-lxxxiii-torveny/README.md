@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2021-06-29 | 2021. évi CI. törvény | 1997-83-00-00.96 |
 | 2021-07-01 | 2021. évi LIII. törvény | 1997-83-00-00.97 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 1997-83-00-00.98 |
+| 2022-01-01 | 2021. évi LXXXIX. törvény | 1997-83-00-00.99 |

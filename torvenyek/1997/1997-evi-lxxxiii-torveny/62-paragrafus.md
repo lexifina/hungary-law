@@ -14,9 +14,9 @@ c) egyéb esetben a munkáltató székhelye szerint illetékes egészségbiztos�
 
 bírálja el.
 
-(2a) Az utazási költségtérítés iránti kérelmet a biztosított lakóhelye vagy tartózkodási helye szerint illetékes egészségbiztosító bírálja el.
+(2a) Az utazási költségtérítési támogatás iránti kérelmet a biztosított lakóhelye vagy tartózkodási helye szerint illetékes, magyarországi lakcím hiányában a fővárosban eljárásra jogosult egészségbiztosító bírálja el.
 
-(2b) A (2a) bekezdés szerinti esetben az utazási költségtérítést az egészségbiztosító folyósítja.
+(2b) A (2a) bekezdés szerinti esetben az utazási költségtérítési támogatást az egészségbiztosító folyósítja.
 
 (2c) A csecsemőgondozási díjat, örökbefogadói díjat, a gyermekgondozási díjat és a táppénzt
 

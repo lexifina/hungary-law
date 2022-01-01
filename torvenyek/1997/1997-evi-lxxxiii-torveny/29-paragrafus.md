@@ -12,7 +12,7 @@ ba) a gyógyászati ellátások tekintetében a külön jogszabály szerinti orv
 
 bb) gyógyszer és gyógyászati segédeszköz tekintetében a külön jogszabály szerinti orvosi rendelvény bemutatásával,
 
-c) az utazási költségeihez nyújtott támogatásra való jogosultságát a beutaló orvos által, illetve amennyiben az ellátásra – azonnali ellátás szükségessége miatt – beutaló nélkül került sor, a szolgáltató orvosa által kiállított igazolással
+c)
 
 igazolja.
 
@@ -26,7 +26,7 @@ igazolja.
 
 (6)
 
-(7) A 22. § szerinti utazási költséghez nyújtott támogatás iránti, valamint a 27. § (1) és (2) bekezdéseiben említett ellátások költségeinek megtérítése iránti kérelem elbírálására a 61. § rendelkezéseit megfelelően alkalmazni kell. A 27. § (3) bekezdésben említett ellátások költségeinek utólagos megtérítésére vonatkozó igény az ellátás igénybevételétől számított hat hónapon belül érvényesíthető. A 27. § (6) bekezdésében említett ellátások költségeinek megtérítése iránti igény a külföldi gyógykezelés befejezésétől számított harminc napon túl nem érvényesíthető.
+(7) A 27. § (1) és (2) bekezdése szerinti ellátások költségeinek megtérítése iránti kérelem elbírálására a 61. § rendelkezéseit kell alkalmazni. A 27. § (3) bekezdése szerinti ellátások költségeinek utólagos megtérítésére vonatkozó igény az ellátás igénybevételétől számított hat hónapon belül érvényesíthető. A 27. § (6) bekezdése szerinti ellátások költségeinek megtérítése iránti igény a külföldi gyógykezelés befejezésétől számított harminc napon túl nem érvényesíthető.
 
 (8) A nemzetközi egyezmény vagy az uniós rendeletek hatálya alá tartozó személy az egyezményben vagy az uniós rendeletekben meghatározott egészségügyi szolgáltatásra vonatkozó jogosultságát az egyezményben vagy az uniós rendeletekben meghatározott módon igazolja.
 

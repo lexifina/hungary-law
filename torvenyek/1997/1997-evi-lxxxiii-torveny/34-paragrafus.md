@@ -14,9 +14,9 @@ e) a nyújtott szolgáltatások teljesítményarányain,
 
 f) egyes szolgáltatások tekintetében teljesítményegységének mennyiségén,
 
-g) az a)–f) pontban foglaltak kombinációján, és
+g) a minőségi mutatók figyelembevételén,
 
-h)
+h) az a)–g) pontban foglaltak kombinációján
 
 alapuló rendszerben történik.
 
