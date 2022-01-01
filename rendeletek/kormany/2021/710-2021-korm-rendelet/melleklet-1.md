@@ -1,4 +1,8 @@
-## 10. §[^2]
+## 10. § A 4. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+## (A Beruházásokkal összefüggésben)
+
+## „d) a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet 34. alcíme szerinti közterület-alakítási terv készítésének és alkalmazásának nincs helye.”
 
 1. melléklet a 710/2021. (XII. 15.) Korm. rendelethez
 
@@ -51,5 +55,3 @@
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^2]: A 10. § a 7. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
