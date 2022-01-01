@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-32-20-2
 | 2018-10-01 | 2014-32-20-2C.4 | 29/2018. (VIII. 21.) MNB rendelet |
 | 2019-07-01 | 2014-32-20-2C.5 | 29/2018. (VIII. 21.) MNB rendelet |
 | 2021-02-20 | 2014-32-20-2C.6 | 6/2021. (II. 19.) MNB rendelet |
+| 2022-01-01 | 2014-32-20-2C.7 | 51/2021. (XI. 16.) MNB rendelet |
