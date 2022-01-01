@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-63-20-2
 | 2018-09-01 | 2016-63-20-2W.5 | 43/2017. (XI. 8.) NFM rendelet |
 | 2020-01-16 | 2016-63-20-2W.6 | 2/2020. (I. 13.) ITM rendelet |
 | 2020-05-01 | 2016-63-20-2W.7 | 2/2020. (I. 13.) ITM rendelet |
+| 2022-01-01 | 2016-63-20-2W.8 | 49/2021. (X. 1.) ITM rendelet |
