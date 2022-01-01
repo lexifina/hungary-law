@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-170-20-
 | 2020-09-01 | 2011-170-20-22.10 | 37/2020. (III. 5.) Korm. rendelet |
 | 2020-12-12 | 2011-170-20-22.11 | 203/2019. (VIII. 23.) Korm. rendelet |
 | 2021-03-01 | 2011-170-20-22.12 | 46/2021. (II. 5.) Korm. rendelet |
+| 2022-01-01 | 2011-170-20-22.13 | 704/2021. (XII. 15.) Korm. rendelet |
