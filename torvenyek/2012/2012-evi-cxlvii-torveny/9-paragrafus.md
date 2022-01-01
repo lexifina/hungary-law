@@ -8,6 +8,6 @@ b) társasági adó megállapítása, bevallása és megfizetése;
 
 c) a személyi jövedelemadó és járulékok megállapítása, bevallása és megfizetése;
 
-d) szociális hozzájárulási adó és a szakképzési hozzájárulás megállapítása, bevallása és megfizetése.
+d) szociális hozzájárulási adó megállapítása, bevallása és megfizetése.
 
 (2) A kisadózó vállalkozások tételes adójának megfizetésével a kisadózó vállalkozás nem mentesül a kisadózónak nem minősülő személyek foglalkoztatására tekintettel, illetve a kisadózónak nem minősülő személyek részére juttatott jövedelmek után teljesítendő adókötelezettségek alól.
