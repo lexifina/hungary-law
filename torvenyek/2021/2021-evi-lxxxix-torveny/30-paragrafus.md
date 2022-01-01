@@ -1,1 +1,7 @@
-30. §
+30. § Az államháztartásról szóló 2011. évi CXCV. törvény 100. §-a helyébe a következő rendelkezés lép:
+
+„100. § (1) A fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvényt vagy üzletrészt, továbbá egyéb vagyont elfogadni csak abban az esetben és mértékben lehet, ha a pénzbeli teljesítés nem, vagy csak részben lehetséges és annak elfogadásával az MVH a vagyon értékesítési, bevételszerzési lehetőségeit mérlegelve egyetért.
+
+(2) Az (1) bekezdés szerinti vagyont az MVH részére készpénzes értékesítésre vagy az értékesítésig további hasznosításra, illetve a vagyonelemként átvett követelést kezelésre és érvényesítésre át kell adni. Az átadó és az MVH az átadáskor megállapodásban rendelkezik a vagyon értékesítése, hasznosítása, követelés kezelése és érvényesítése során felmerülő költségekről.
+
+(3) Az MVH az átadott vagyon értékesítéséből, hasznosításából, a követelés érvényesítéséből származó költségvetési bevételnek a (2) bekezdés szerinti megállapodásban rögzített költségekkel csökkentett részét – az elkülönített állami pénzalap esetén a központi támogatás arányában a központi költségvetést megillető hányad kivételével – a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja fizetési számlájára köteles átutalni.”
