@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-86-20-2
 | 2021-02-20 | 1996-86-20-22.54 | 145/2011. (VII. 27.) Korm. rendelet |
 | 2021-03-11 | 1996-86-20-22.55 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2021-08-01 | 1996-86-20-22.56 | 259/2021. (V. 20.) Korm. rendelet |
+| 2022-01-01 | 1996-86-20-22.57 | 745/2021. (XII. 21.) Korm. rendelet |
