@@ -1,3 +1,1 @@
-## 13. §[^20]
-
-[^20]: A 13. § a 15. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 13. § Az Anyr. 8. § (1) bekezdés c) pontjában az „a) pontban” szövegrész helyébe az „a) és b) pontban” szöveg lép.
