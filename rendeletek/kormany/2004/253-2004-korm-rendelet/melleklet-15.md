@@ -24,6 +24,6 @@
 
 ## Engedélyezés dátuma:
 
-15. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^276]
+15. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^293]
 
-[^276]: A 15. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 282. § b)–c) pontja szerint módosított szöveg.
+[^293]: A 15. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 282. § b)–c) pontja szerint módosított szöveg.

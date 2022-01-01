@@ -1,6 +1,6 @@
-## Az Európai Unió jogának való megfelelés[^253]
+## Az Európai Unió jogának való megfelelés[^270]
 
-## 56. §[^254] Ez a rendelet
+## 56. §[^271] Ez a rendelet
 
 a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelvnek,
 
@@ -14,5 +14,5 @@ e) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/4
 
 f) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv szerinti riasztó- és jelzőfegyverekre vonatkozó műszaki előírások meghatározásáról szóló, 2019. január 16-i (EU) 2019/69 bizottsági végrehajtási irányelvnek
 
-[^253]: Az 56. §-t megelőző alcím az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^254]: Az 56. § a 326/2020. (VII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^270]: Az 56. §-t megelőző alcím az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^271]: Az 56. § a 326/2020. (VII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.

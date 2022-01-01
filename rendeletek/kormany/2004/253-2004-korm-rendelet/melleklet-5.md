@@ -32,6 +32,6 @@
 
 | Engedélyezés dátuma: |
 
-5. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^264]
+5. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^281]
 
-[^264]: Az 5. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § a) pontjával megállapított szöveg.
+[^281]: Az 5. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § a) pontjával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Kárt okozó vad elejtése
 
-36. §[^134] (1)[^135] Lakott területen a kárt okozó vad elejtéséhez – közegészségügyi, illetve közbiztonsági okból, illetve a köz- és magántulajdon súlyos károsodástól való megóvása érdekében – az elejtés helye szerint illetékes rendőrkapitányság, Budapesten a Budapesti Rendőr-főkapitányság, a Budapest Liszt Ferenc Nemzetközi Repülőtér területén a Repülőtéri Rendőr Igazgatóság engedélye szükséges.
+36. §[^149] (1)[^150] Lakott területen a kárt okozó vad elejtéséhez – közegészségügyi, illetve közbiztonsági okból, illetve a köz- és magántulajdon súlyos károsodástól való megóvása érdekében – az elejtés helye szerint illetékes rendőrkapitányság, Budapesten a Budapesti Rendőr-főkapitányság, a Budapest Liszt Ferenc Nemzetközi Repülőtér területén a Repülőtéri Rendőr Igazgatóság engedélye szükséges.
 
 (2) Az (1) bekezdés szerinti engedély kiadása iránti kérelemnek tartalmaznia kell
 
@@ -12,5 +12,5 @@ c) a biztonsági intézkedéseket, a lakosság tájékoztatásának módját.
 
 (3) Az érintett helyi önkormányzatot, valamint a területileg illetékes vadászatra jogosult szervet az (1) bekezdés szerinti engedély kiadásáról haladéktalanul tájékoztatni kell.
 
-[^134]: A 36. § a 247/2009. (XI. 10.) Korm. rendelet 20. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^135]: A 36. § (1) bekezdése a 371/2016. (XI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^149]: A 36. § a 247/2009. (XI. 10.) Korm. rendelet 20. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^150]: A 36. § (1) bekezdése a 371/2016. (XI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
