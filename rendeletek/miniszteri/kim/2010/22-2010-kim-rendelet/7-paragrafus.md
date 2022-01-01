@@ -34,4 +34,8 @@
 
 16. a jogi segítségnyújtást végző szervezet és feladatai, a jogi segítségnyújtás rendszere és formái.
 
+17.[^14] az emberkereskedelem elleni küzdelemmel, az emberkereskedelem áldozatainak jellemzőivel és védelmével kapcsolatos ismeretek.
+
 (2) A kormányzati ügykezelők a kinevező által az (1) bekezdésben felsoroltak közül munkakörük és meglévő képzettségük jellegéhez igazodóan meghatározott egy vagy több témakörből kötelesek vizsgát tenni.
+
+[^14]: A 7. § (1) bekezdés 17. pontját a 18/2021. (XII. 23.) IM rendelet 16. §-a iktatta be.
