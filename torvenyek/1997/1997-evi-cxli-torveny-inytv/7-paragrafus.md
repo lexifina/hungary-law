@@ -6,7 +6,7 @@
 
 (2) A ranghely előzetes biztosításának, a ranghely fenntartásának ténye a jogosultak kérelme alapján az ingatlan-nyilvántartás tulajdoni lapján legfeljebb egyévi időtartamra, a törvényben meghatározott módon feljegyezhető.
 
-(3) Állami tulajdonban álló, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházással érintett ingatlan tekintetében a vagyonkezelői jog bejegyzése, módosítása vagy törlése tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
+(3) Állami tulajdonban álló, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházással érintett ingatlan tekintetében a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog bejegyzése, módosítása vagy törlése tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
 
 (4) A földmérési és térképészeti tevékenységről szóló törvény szerinti felmérési, térképezési és területszámítási hiba kijavítása tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
 

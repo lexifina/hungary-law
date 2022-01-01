@@ -8,7 +8,7 @@ b) a hatósági nyilvántartásból, különösen a személyiadat- és lakcímny
 
 azon változásokat, amelyeket eljárása során észlel.
 
-(3) Az ingatlan tulajdonosa, az állam tulajdonosi jogait gyakorló szerv vagy a vagyonkezelő, illetőleg a használó a változás bekövetkezésétől, illetőleg a tudomásszerzéstől számított harminc napon belül köteles bejelenteni az ingatlanügyi hatóságnak
+(3) Az ingatlan tulajdonosa, az állam tulajdonosi jogait gyakorló szerv vagy a vagyonkezelő, a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog jogosultja, illetőleg a használó a változás bekövetkezésétől, illetőleg a tudomásszerzéstől számított harminc napon belül köteles bejelenteni az ingatlanügyi hatóságnak
 
 a) az ingatlan határvonalában, területében, továbbá a földrészlet művelési ágában – ideértve a művelés alól kivett területet is – és a föld minőségében bekövetkezett változást,
 
@@ -18,7 +18,7 @@ b) a nyilvántartás tárgyát képező épület, építmény létesítését, i
 
 (4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bejelentő kéri – a (3) bekezdés szerinti határidőben értesíti az ingatlanügyi hatóságot. Az ingatlanügyi hatóság a közhiteles nyilvántartást vezető szerv értesítése alapján az adatváltozást hivatalból átvezeti.
 
-(5) Nincs szükség külön bejelentésre, ha a (3) és (4) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
+(5) Nincs szükség külön bejelentésre, ha a (3) és (4) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
 
 (6) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, illetve belterületi határának módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.
 

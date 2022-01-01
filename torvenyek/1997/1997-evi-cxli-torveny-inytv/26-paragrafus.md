@@ -18,6 +18,8 @@
 
 (7) A bejegyzést – ha jogszabály rendelkezéséből vagy a felek megállapodásából más nem következik – annak kell kérnie, aki ezáltal jogosulttá válik. Kérheti a bejegyzést az is, akinek ez bejegyzett jogát érinti.
 
+(7a) A nemzeti vagyonról szóló 2011. évi CXCVI. törvényben (a továbbiakban: Nvtv.) szabályozott kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog a jog jogosultjának és az ingatlan átadójának közös kérelme alapján jegyezhető be az ingatlan-nyilvántartásba. A kérelemhez mellékelni kell az ingatlanok rendelkezésére bocsátásáról szóló átadás-átvételi jegyzőkönyvet.
+
 (8) Az eljáró hatóság – ideértve a bíróságot, közjegyzőt, bírósági végrehajtót is – bejegyezhető jogra, feljegyezhető tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, végrehajtható határozata alapján megkeresi az ingatlanügyi hatóságot az átvezetés iránt. A vagyonszerzést létrehozó, megállapító hatósági határozatot két eredeti példányban kell az ingatlanügyi hatóság részére megküldeni.
 
 (9) A kérelem a szerződő feleknek – a bejegyzés alapjául szolgáló okirattal megegyező alakisággal rendelkező – közös nyilatkozatával, az ingatlanügyi hatóság határozatának véglegessé válásáig visszavonható vagy módosítható. Ha a bejegyzés folytán harmadik személy vált volna jogosulttá, a kérelem visszavonásához vagy módosításához az ő hozzájárulása is szükséges.
