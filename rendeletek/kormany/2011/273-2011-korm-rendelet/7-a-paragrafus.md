@@ -1,8 +1,8 @@
-## 4/A. [^2] A közcélú állami munkavédelmi információs rendszer célja, a működtetés feltételei
+## 4/A. [^3] A közcélú állami munkavédelmi információs rendszer célja, a működtetés feltételei
 
 7/A. § (1) A munkavédelmi információs rendszer (a továbbiakban: MIR) keretében történő információnyújtás és tanácsadás célja az egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos jogosultságoknak és kötelezettségeknek elsősorban a szervezett munkát végző munkavállalók és munkáltatók, valamint az érdekképviseletüket ellátó szervek információs igényét kielégítő megismertetése.
 
-(2)[^3] A MIR szolgáltatásait a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) és a Magyar Bányászati és Földtani Szolgálat (a továbbiakban: fenntartó szervezetek) szervezeti keretében önállóan létrehozott, de a hatósági tevékenységtől elkülönülő munkavédelmi információs és tanácsadó szolgálatok (a továbbiakban: szolgálat) végzik.
+(2)[^4] A MIR szolgáltatásait a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) és a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: fenntartó szervezetek) szervezeti keretében önállóan létrehozott, de a hatósági tevékenységtől elkülönülő munkavédelmi információs és tanácsadó szolgálatok (a továbbiakban: szolgálat) végzik.
 
 (3) A Munkavédelmi Bizottság saját adataival, megállapításaival segíti a szolgálat működését.
 
@@ -22,5 +22,5 @@ f) a szolgálat működésével kapcsolatos kommunikációs feladatokról.
 
 (5) A szolgálat működésének részletes szabályait tartalmazó ügyrendjét a miniszter a honlapján közzéteszi.
 
-[^2]: A 4/A. alcímet (7/A. §) a 318/2014. (XII. 13.) Korm. rendelet 17. §-a iktatta be.
-[^3]: A 7/A. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 182. § (1) bekezdésével megállapított, a 162/2017. (VI. 28.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^3]: A 4/A. alcímet (7/A. §) a 318/2014. (XII. 13.) Korm. rendelet 17. §-a iktatta be.
+[^4]: A 7/A. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 182. § (1) bekezdésével megállapított, a 825/2021. (XII. 28.) Korm. rendelet 27. §-a szerint módosított szöveg.

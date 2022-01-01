@@ -1,4 +1,4 @@
-## 4/B. [^4] A szolgálat feladatai
+## 4/B. [^5] A szolgálat feladatai
 
 7/B. § (1) A szolgálat feladata a 7/A. § (1) bekezdésében meghatározott célok megvalósítása, ennek érdekében a munkavédelemmel kapcsolatos tájékoztató, tanácsadó, felvilágosító tevékenység ellátása.
 
@@ -10,4 +10,4 @@
 
 (5) A szolgálat keretében nyújtott információ termék, szolgáltatás értékesítését vagy más módon történő igénybevételét, illetve egy adott vállalkozás nevének, tevékenységének népszerűsítését, továbbá áru vagy árujelző megismertetését előmozdító reklámot nem tartalmazhat.
 
-[^4]: A 4/B. alcímet (7/B–7/F. §) a 318/2014. (XII. 13.) Korm. rendelet 17. §-a iktatta be.
+[^5]: A 4/B. alcímet (7/B–7/F. §) a 318/2014. (XII. 13.) Korm. rendelet 17. §-a iktatta be.
