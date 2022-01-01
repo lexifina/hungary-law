@@ -10,10 +10,12 @@ b) a hitelkérelemhez kapcsolódóan benyújtott átmeneti támogatás iránti k
 
 ## záradékkal látja el a kamattámogatási kérelmet, és az 1. melléklet szerinti adatokat a kamattámogatás 2. melléklet szerint meghatározott támogatástartalmával együtt megküldi a Kincstár részére.
 
-(4) Ha a záradékolt átmeneti támogatás iránti kamattámogatási kérelem benyújtása előtt lefolytatott és az átmeneti támogatás iránti kamattámogatási kérelem alapján lefolytatott ellenőrzés pozitív eredménnyel zárul, a Kincstár kiállítja a támogatástartalom-igazolást, és azt 2021. december 31-éig megküldi a vállalkozás részére.
+(4)[^64] Ha a záradékolt átmeneti támogatás iránti kamattámogatási kérelem benyújtása előtt lefolytatott és az átmeneti támogatás iránti kamattámogatási kérelem alapján lefolytatott ellenőrzés pozitív eredménnyel zárul, a Kincstár kiállítja a támogatástartalom-igazolást, és azt 2022. június 30-áig megküldi a vállalkozás részére.
 
 (5) A kamattámogatás támogatástartalmáról történő döntésnél és a rendelkezésre álló szabad átmeneti támogatási keret meghatározásánál figyelembe kell venni a hitel kedvezményes kamatából, a kezességvállaló intézmény által kedvezményes kezességvállalási díj mellett nyújtott kezességből, valamint a költségvetési forrásból nyújtott kezességvállalási díjtámogatásból származó támogatástartalmat.
 
 (6) Az átmeneti támogatás a támogatástartalom-igazolás kiállítása után fizethető ki.
 
 (7) A 7/A. § (1) bekezdésében meghatározott hitelszerződésekhez kapcsolódóan – a kamattámogatás vonatkozásában – csekély összegű támogatás abban az esetben igényelhető, ha az átmeneti támogatás nyújtásának feltételei nem állnak fenn.
+
+[^64]: A 7/B. § (4) bekezdése az 50/2021. (XII. 29.) AM rendelet 17. § c) pontja szerint módosított szöveg.

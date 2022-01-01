@@ -1,4 +1,4 @@
-## 15. §[^66]
+## 15. §[^68]
 
 1. melléklet a 47/2015. (VIII. 12.) FM rendelethez
 
@@ -6,7 +6,7 @@
 
 1. Vállalkozás megnevezése;
 
-2.[^67] Vállalkozás Kincstár által kiadott ügyfél-azonosítója;
+2.[^69] Vállalkozás Kincstár által kiadott ügyfél-azonosítója;
 
 3. Hitelszerződés vagy hitelkérelem azonosító száma;
 
@@ -16,25 +16,25 @@
 
 4.2. milyen mértékű kamattámogatást, mely időponttól kezdődően kíván igénybe venni,
 
-4.3.[^68] a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatának megküldését vállalja a Kincstár részére,
+4.3.[^70] a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatának megküldését vállalja a Kincstár részére,
 
 4.4. tudomásul veszi, hogy ha a 4. pont 1. alpontja alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően, arról köteles haladéktalanul tájékoztatni a pénzügyi intézményt;
 
 5. A 37/2011. (III. 22.) Korm. rendelet 11/A. §-a szerinti nyilatkozat;
 
-6.[^69] Meghatalmazás a pénzügyi intézmény számára, hogy a kamattámogatás támogatástartalmának zárolása, lekötése – szükség esetén – felszabadítása érdekében, továbbá a megelőlegezett és a kamattámogatási kérelem benyújtását megelőző időszakra, valamint a nem teljes kamatidőszakra vonatkozóan meg nem előlegezett kamattámogatás lehívásával kapcsolatosan a Kincstár előtt eljárjon;
+6.[^71] Meghatalmazás a pénzügyi intézmény számára, hogy a kamattámogatás támogatástartalmának zárolása, lekötése – szükség esetén – felszabadítása érdekében, továbbá a megelőlegezett és a kamattámogatási kérelem benyújtását megelőző időszakra, valamint a nem teljes kamatidőszakra vonatkozóan meg nem előlegezett kamattámogatás lehívásával kapcsolatosan a Kincstár előtt eljárjon;
 
 7. Hozzájárulás ahhoz,
 
-7.1.[^70] hogy a pénzügyi intézmény a vállalkozás csekély összegű támogatási keretének ellenőrzése céljából a Kincstártól erre vonatkozóan adatokat kérjen a vállalkozás ügyfél-azonosítója alapján,
+7.1.[^72] hogy a pénzügyi intézmény a vállalkozás csekély összegű támogatási keretének ellenőrzése céljából a Kincstártól erre vonatkozóan adatokat kérjen a vállalkozás ügyfél-azonosítója alapján,
 
-7.2.[^71] hogy a rendelkezésre álló szabad csekély összegű támogatási keret alapján kerüljön megállapításra az igénybe vehető kamattámogatás mértéke és ezen összeg mértékéig a Kincstár zárolás, lekötés érdekében eljárjon;
+7.2.[^73] hogy a rendelkezésre álló szabad csekély összegű támogatási keret alapján kerüljön megállapításra az igénybe vehető kamattámogatás mértéke és ezen összeg mértékéig a Kincstár zárolás, lekötés érdekében eljárjon;
 
 8. Keltezés, aláírás.
 
-[^66]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^67]: Az 1. melléklet 2. pontja a 88/2016. (XII. 29.) FM rendelet 90. § h) pontja szerint módosított szöveg.
-[^68]: Az 1. melléklet 4.3. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.
-[^69]: Az 1. melléklet 6. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.
-[^70]: Az 1. melléklet 7.1. pontja a 88/2016. (XII. 29.) FM rendelet 90. § c) pontja szerint módosított szöveg.
-[^71]: Az 1. melléklet 7.2. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.
+[^68]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: Az 1. melléklet 2. pontja a 88/2016. (XII. 29.) FM rendelet 90. § h) pontja szerint módosított szöveg.
+[^70]: Az 1. melléklet 4.3. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.
+[^71]: Az 1. melléklet 6. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.
+[^72]: Az 1. melléklet 7.1. pontja a 88/2016. (XII. 29.) FM rendelet 90. § c) pontja szerint módosított szöveg.
+[^73]: Az 1. melléklet 7.2. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja szerint módosított szöveg.

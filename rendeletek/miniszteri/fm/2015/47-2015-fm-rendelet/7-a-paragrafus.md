@@ -1,6 +1,6 @@
 ## 7a.[^61] Átmeneti támogatás
 
-7/A. § (1)[^62] A vállalkozás az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének napja és 2021. december 31. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
+7/A. § (1)[^62] A vállalkozás az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének napja és 2022. június 30. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
 
 (2) Az átmeneti támogatásra a 2–7. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
 
@@ -28,9 +28,10 @@ gb) a pénzügyi intézmény a szabad átmeneti támogatási keretének ellenőr
 
 (5) Átmeneti támogatás igénylése esetén a vállalkozás hitelkérelemhez kapcsolódóan vagy önállóan benyújtott átmeneti támogatás iránti kamattámogatási kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
 
-(6) A hitelkérelemhez kapcsolódó vagy az önálló átmeneti támogatás iránti kamattámogatási kérelem 2021. november 30-áig nyújtható be a pénzügyi intézményhez.
+(6)[^63] A hitelkérelemhez kapcsolódó vagy az önálló átmeneti támogatás iránti kamattámogatási kérelem 2022. május 31-éig nyújtható be a pénzügyi intézményhez.
 
 (7) Az átmeneti támogatásként igénybe vett kamattámogatás mértéke nem haladhatja meg a vállalkozás és a kapcsolt vállalkozásnak minősülő vállalkozás rendelkezésére álló, a 20/2020. (VI. 19.) AM rendelet 3. § (1) bekezdés a)–c) pontjában meghatározott keretösszeget (a továbbiakban: átmeneti támogatási keret).
 
 [^61]: A 7a. alcímet (7/A. §) a 18/2021. (IV. 14.) AM rendelet 6. §-a iktatta be.
-[^62]: [A 49/2021. (XII. 28.) AM rendelet 12. §-ában foglalt módosítás, mely szerint „a 2. § (2) bekezdés b) pontja szerinti kamattámogatás” szövegrész helyébe az „a 2. § (2) bekezdés b) és g) pontjai szerinti kamattámogatás” szöveg lép, nem vezehthető át.]
+[^62]: A 7/A. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 17. § a) pontja szerint módosított szöveg. [A 49/2021. (XII. 28.) AM rendelet 12. §-ában foglalt módosítás, mely szerint „a 2. § (2) bekezdés b) pontja szerinti kamattámogatás” szövegrész helyébe az „a 2. § (2) bekezdés b) és g) pontjai szerinti kamattámogatás” szöveg lép, nem vezethető át.]
+[^63]: A 7/A. § (6) bekezdése az 50/2021. (XII. 29.) AM rendelet 17. § b) pontja szerint módosított szöveg.
