@@ -1,4 +1,4 @@
-60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százötven nap.
+60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százötven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
 
 (2) A Hatóság az adatvédelmi hatósági eljárást az általános adatvédelmi rendelet
 
@@ -7,6 +7,16 @@ a) 60. cikk (3)–(5) bekezdésben meghatározott együttműködési eljárás �
 b) 63–66. cikkében meghatározott egységességi mechanizmus
 
 alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüggesztés időtartama alatt is elvégzi az együttműködési eljárásban és az egységességi mechanizmusban szükséges eljárási cselekményeket.
+
+(2a) Az általános közigazgatási rendtartásról szóló törvényben meghatározott eseteken kívül a Hatóság felfüggesztheti az általa folytatott hatósági eljárást, ha
+
+a) annak során olyan kérdés merül fel, amelynek eldöntése más szerv vagy személy hatáskörébe tartozik, vagy
+
+b) a Hatóságnak az adott üggyel szorosan összefüggő más döntése, illetve eljárása nélkül az adott ügy megalapozottan nem dönthető el.
+
+(2b) A Hatóság az eljárás felfüggesztéséről szóló végzését a (2a) bekezdésében meghatározott más szervvel, illetve személlyel is közli azzal, hogy az eljárás befejezéséről tájékoztassa.
+
+(2c) Az eljárás felfüggesztésekor minden határidő megszakad és az eljárás felfüggesztésének megszüntetésekor – az ügyintézési határidő kivételével – újrakezdődik.
 
 (3) Ha a Hatóság a kérelemre indult eljárás bármely szakaszában megállapítja joghatóságának hiányát, a kérelmet visszautasítja vagy az eljárást megszünteti.
 

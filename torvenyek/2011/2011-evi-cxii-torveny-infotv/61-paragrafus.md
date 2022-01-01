@@ -1,6 +1,6 @@
 61. § (1) Az adatvédelmi hatósági eljárásban hozott határozatában a Hatóság
 
-a) a 2. § (2) és (4) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben az általános adatvédelmi rendeletben meghatározott jogkövetkezményeket alkalmazhatja,
+a) a 2. § (2) és (4) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben az általános adatvédelmi rendeletben meghatározott jogkövetkezményeket alkalmazhatja, így különösen kérelemre vagy hivatalból elrendelheti a jogellenesen kezelt személyes adatok általa meghatározott módon végrehajtandó törlését, illetve átmenetileg vagy véglegesen egyéb módon korlátozhatja az adatkezelést,
 
 b) a 2. § (3) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben
 
@@ -14,7 +14,7 @@ bd) megtilthatja a személyes adatok jogellenes kezelését,
 
 be) megtilthatja a személyes adatok külföldre történő továbbítását vagy átadását,
 
-bf) elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen tagadta meg, valamint
+bf) elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen mellőzte vagy tagadta meg, valamint
 
 bg) bírságot szabhat ki,
 
@@ -28,7 +28,7 @@ b) azt közfeladatot ellátó szerv tevékenységével összefüggésben hozta, 
 
 c) a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
 
-(3) A Hatóság eljárásában figyelmeztetés és óvadék alkalmazása kizárt, ha a Hatóság a mérlegelésére vonatkozó előírások alapján bírság kiszabásának szükségességét állapítja meg.
+(3) A Hatóság eljárásában figyelmeztetés alkalmazása kizárt, ha a Hatóság a mérlegelésére vonatkozó előírások alapján bírság kiszabásának szükségességét állapítja meg.
 
 (4) A bírság mértéke százezertől húszmillió forintig terjedhet
 

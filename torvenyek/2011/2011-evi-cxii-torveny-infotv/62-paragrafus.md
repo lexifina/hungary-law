@@ -16,4 +16,4 @@
 
 (5) A titokfelügyeleti hatósági eljárásban a tényállás tisztázása során a tanú, a szakértő és a szemletárgy birtokosa meghallgatható akkor is, ha nem kapott felmentést a vizsgált nemzeti minősített adatra vonatkozó titoktartási kötelezettség alól.
 
-(6) A titokfelügyeleti hatósági eljárásban az ügyintézési határidő kilencven nap.
+(6) A titokfelügyeleti hatósági eljárásban az ügyintézési határidő kilencven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
