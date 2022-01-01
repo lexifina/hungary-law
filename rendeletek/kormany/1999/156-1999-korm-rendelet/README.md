@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-156-20-
 | 2011-01-01 | 1999-156-20-22.6 | 341/2010. (XII. 28.) Korm. rendelet |
 | 2012-01-01 | 1999-156-20-22.10 | 307/2011. (XII. 23.) Korm. rendelet |
 | 2014-09-05 | 1999-156-20-22.7 | 341/2010. (XII. 28.) Korm. rendelet |
+| 2022-01-01 | 1999-156-20-22.8 | 764/2021. (XII. 23.) Korm. rendelet |
