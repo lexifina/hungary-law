@@ -22,9 +22,12 @@ g)[^5] a szociális diagnózist készítő esetmenedzser,
 
 h)[^6] szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása
 
+i)[^7] a fogyatékosságügyi tanácsadó
+
 [^1]: Az 1. § b) pontja a 4/2019. (II. 27.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § d) pontja a 4/2019. (II. 27.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § e) pontját az 55/2013. (VII. 29.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 41. §-a iktatta be.
 [^4]: Az 1. § f) pontját a 4/2019. (II. 27.) EMMI rendelet 22. § (3) bekezdése iktatta be.
 [^5]: Az 1. § g) pontját a 4/2019. (II. 27.) EMMI rendelet 22. § (3) bekezdése iktatta be.
 [^6]: Az 1. § h) pontját a 4/2020. (II. 6.) EMMI rendelet 18. §-a iktatta be.
+[^7]: Az 1. § i) pontját a 62/2021. (XII. 29.) EMMI rendelet 16. §-a iktatta be.

@@ -1,4 +1,4 @@
-2/A. §[^13] (1) Az 1. § c) pontja szerinti képzés oktatási programjának kidolgozása során a miniszter kikéri a Megyei Önkormányzatok Országos Szövetségének véleményét.
+2/A. §[^14] (1) Az 1. § c) pontja szerinti képzés oktatási programjának kidolgozása során a miniszter kikéri a Megyei Önkormányzatok Országos Szövetségének véleményét.
 
 (2) A megyei önkormányzat az 1. § c) pontjában meghatározott képzést maga végzi, vagy ezzel – képzési megállapodás keretében – olyan más intézményt is megbízhat, amely a 2. § (3) bekezdés a)–e) pontjában meghatározott feltételeknek megfelel. A döntés meghozatala előtt a megyei önkormányzat kikéri a Megyei Önkormányzatok Országos Szövetségének véleményét.
 
@@ -6,4 +6,4 @@
 
 (4) A megyei önkormányzat a képzés megvalósításának módjáról és tervezett időpontjáról legkésőbb a képzés napját megelőző 30 nappal korábban, elektronikus úton tájékoztatja az Intézetet.
 
-[^13]: A 2/A. §-t a 45/2020. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
+[^14]: A 2/A. §-t a 45/2020. (XII. 14.) EMMI rendelet 1. §-a iktatta be.

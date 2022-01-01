@@ -1,3 +1,3 @@
-## 13. §[^31]
+## 13. §[^34]
 
-[^31]: A 13. §-t a 4/2019. (II. 27.) EMMI rendelet 32. § a) pontja hatályon kívül helyezte.
+[^34]: A 13. §-t a 4/2019. (II. 27.) EMMI rendelet 32. § a) pontja hatályon kívül helyezte.
