@@ -12,7 +12,7 @@
 
 ## Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 25. § (6) és (6a) bekezdésében foglaltaknak megfelelően kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézettől indikáción túli gyógyszerrendelés engedélyezését az alábbiak szerint
 
-## ◻ sürgősséggel (amit külön mellékletben indokolok[^145])
+## ◻ sürgősséggel (amit külön mellékletben indokolok[^146])
 
 ## ◻ a szokásos eljárási rendben
 
@@ -66,7 +66,7 @@
 
 ## Az engedélyezni kért javallat:
 
-## Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^146]
+## Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^147]
 
 ## A gyógyszer tervezett adagolása:
 
@@ -88,8 +88,8 @@
 
 ## P. H.
 
-7. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^147]
+7. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^148]
 
-[^145]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
-[^146]: Részletes mellékletben.
-[^147]: A 7. számú mellékletet a 2/2012. (I. 3.) NEFMI rendelet 14. §-a iktatta be.
+[^146]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
+[^147]: Részletes mellékletben.
+[^148]: A 7. számú mellékletet a 2/2012. (I. 3.) NEFMI rendelet 14. §-a iktatta be.

@@ -22,9 +22,10 @@ ac) kiszerelését és
 
 ad) mennyiségét, valamint
 
-b) a kiváltó orvos, gyógyszerész alapnyilvántartási számát, állatorvos kamarai nyilvántartási számát, ezek hiányában diplomaszámát.
+b)[^92] a kiváltó orvos, gyógyszerész alapnyilvántartási számát, állatorvos kamarai nyilvántartási számát, ezek hiányában diplomaszámát. Külföldi orvos esetén a jogosultságot igazoló okirat számát.
 
 [^88]: A 16. § a 47/2005. (XI. 4.) EüM rendelet 12. §-ával megállapított szöveg.
 [^89]: A 16. § (3) bekezdés a) pontja az 52/2012. (XII. 27.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
 [^90]: A 16. § (3) bekezdésének c) pontját a 39/2006. (X. 13.) EüM rendelet 1. §-a iktatta be, szövege a 30/2009. (X. 14.) EüM rendelet 10. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 11. § (4) bekezdése alapján a háziorvosi szolgálat a betegforgalmi tevékenység külön jogszabály szerinti jelentése alapján, új influenzavírus elleni védőoltással történő immunizálásért oltásonként 200 forintra jogosult, melyet az Egészségügyi Minisztérium és az Országos Egészségbiztosítási Pénztár között létrejött megállapodásban foglaltaknak megfelelően az Országos Egészségbiztosítási Pénztár utal.
 [^91]: A 16. § (4) bekezdését a 29/2017. (X. 31.) EMMI rendelet 11. §-a iktatta be.
+[^92]: A 16. § (4) bekezdés b) pontja a 29/2021. (VII. 6.) EMMI rendelet 6. §-ával megállapított szöveg.

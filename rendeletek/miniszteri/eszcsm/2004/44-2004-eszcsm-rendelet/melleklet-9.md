@@ -1,4 +1,4 @@
-9. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^150]
+9. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^151]
 
 A KIADÁSI IGAZOLÁS TARTALMI ELEMEI
 
@@ -36,4 +36,4 @@ dátum, óra, perc
 
 7. Átvevő aláírásának helye
 
-[^150]: A 9. számú mellékletet a 29/2017. (X. 31.) EMMI rendelet 15. § (2) bekezdése iktatta be.
+[^151]: A 9. számú mellékletet a 29/2017. (X. 31.) EMMI rendelet 15. § (2) bekezdése iktatta be.

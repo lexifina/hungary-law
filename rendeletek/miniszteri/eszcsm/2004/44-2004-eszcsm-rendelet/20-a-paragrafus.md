@@ -1,4 +1,4 @@
-20/A. §[^101] (1)[^102] Elektronikus vény esetében a gyógyszer kiadását a gyógyszer kiadója
+20/A. §[^102] (1)[^103] Elektronikus vény esetében a gyógyszer kiadását a gyógyszer kiadója
 
 a) az elektronikus vény egyedi azonosítóját tartalmazó vonalkódot bemutató személy számára,
 
@@ -10,20 +10,20 @@ d) a személyazonosság igazolására alkalmas hatósági igazolványának bemut
 
 e) a 11/B. § (3) bekezdése szerinti egyedi azonosítót bemutató személy, vagy
 
-f)[^103] a beteg társadalombiztosítási azonosító jelét közlő és saját természetes személyazonosító adatait hitelt érdemlően igazoló személy
+f)[^104] a beteg társadalombiztosítási azonosító jelét közlő és saját természetes személyazonosító adatait hitelt érdemlően igazoló személy
 
 részére teljesíti.
 
 (2) A gyógyszer kiadója az elektronikus vény adatait az EESZT útján, az EESZT vénynyilvántartásából kérdezi le.
 
-(3)[^104] Ha az EESZT nem érhető el, a gyógyszer a felírási igazolás alapján, a személyazonosság igazolására alkalmas hatósági igazolvány bemutatását követően is kiadható.
+(3)[^105] Ha az EESZT nem érhető el, a gyógyszer a felírási igazolás alapján, a személyazonosság igazolására alkalmas hatósági igazolvány bemutatását követően is kiadható.
 
-(4)[^105] Ha a gyógyszerrendelés elektronikus vényen történt, a gyógyszer kiadója a 9. számú melléklet szerinti kiadási igazolást készít, és a gyógyszer átvételét a kiadási igazoláson a gyógyszert kiváltó személy aláírásával vagy az aláírást rögzítő eszközzel vagy a jogosult átvevő személyét igazoló azonosítóval elismerteti. A (3) bekezdés szerinti esetben a gyógyszer kiadója a 9. számú melléklet szerinti papíralapú kiadási igazolást készít, és a gyógyszer átvételét a kiadási igazoláson az arra jogosult átvevő aláírásával, és a személyazonosság igazolására alkalmas hatósági igazolvány számának feltüntetésével elismerteti.
+(4)[^106] Ha a gyógyszerrendelés elektronikus vényen történt, a gyógyszer kiadója a 9. számú melléklet szerinti kiadási igazolást készít, és a gyógyszer átvételét a kiadási igazoláson a gyógyszert kiváltó személy aláírásával vagy az aláírást rögzítő eszközzel vagy a jogosult átvevő személyét igazoló azonosítóval elismerteti. A (3) bekezdés szerinti esetben a gyógyszer kiadója a 9. számú melléklet szerinti papíralapú kiadási igazolást készít, és a gyógyszer átvételét a kiadási igazoláson az arra jogosult átvevő aláírásával, és a személyazonosság igazolására alkalmas hatósági igazolvány számának feltüntetésével elismerteti.
 
 (5) Több elektronikus vény egyidejű kiváltásakor elegendő egy kiadási igazolást készíteni.
 
-[^101]: A 20/A. §-t a 29/2017. (X. 31.) EMMI rendelet 13. §-a iktatta be.
-[^102]: A 20/A. § (1) bekezdése a 37/2020. (X. 30.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^103]: A 20/A. § (1) bekezdés f) pontja a 29/2021. (VII. 6.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^104]: A 20/A. § (3) bekezdését a 29/2017. (X. 31.) EMMI rendelet 17. § (2) bekezdése hatályon kívül helyezte, újonnan a 8/2020. (III. 12.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 37/2020. (X. 30.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^105]: A 20/A. § (4) bekezdése a 37/2020. (X. 30.) EMMI rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^102]: A 20/A. §-t a 29/2017. (X. 31.) EMMI rendelet 13. §-a iktatta be.
+[^103]: A 20/A. § (1) bekezdése a 37/2020. (X. 30.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^104]: A 20/A. § (1) bekezdés f) pontja a 29/2021. (VII. 6.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^105]: A 20/A. § (3) bekezdését a 29/2017. (X. 31.) EMMI rendelet 17. § (2) bekezdése hatályon kívül helyezte, újonnan a 8/2020. (III. 12.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 37/2020. (X. 30.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^106]: A 20/A. § (4) bekezdése a 37/2020. (X. 30.) EMMI rendelet 2. § (4) bekezdésével megállapított szöveg.
