@@ -1,3 +1,3 @@
-2. melléklet a 673/2020. (XII. 28.) Korm. rendelethez[^27]
+2. melléklet a 673/2020. (XII. 28.) Korm. rendelethez[^30]
 
-[^27]: A 2. melléklet a 27. §-a alapján hatályát vesztette.
+[^30]: A 2. melléklet a 27. §-a alapján hatályát vesztette.
