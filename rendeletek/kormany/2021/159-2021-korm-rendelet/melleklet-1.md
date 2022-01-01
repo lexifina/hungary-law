@@ -1,3 +1,7 @@
-1. melléklet a 159/2021. (III. 31.) Korm. rendelethez[^8]
+1. melléklet a 159/2021. (III. 31.) Korm. rendelethez
 
-[^8]: Az 1. melléklet a 8. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+A Korm. rendelet 1. melléklet II. pontja a következő 5. alponttal egészül ki:
+
+(Rendvédelem)
+
+„5. a hivatásos katasztrófavédelmi szervnél alkalmazott Szolgálat Összeállító Szoftver”
