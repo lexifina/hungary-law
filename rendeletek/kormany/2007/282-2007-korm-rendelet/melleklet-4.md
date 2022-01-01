@@ -50,7 +50,11 @@
 
 | 12. | Közlekedéspszichológiai kérdések, vizsgálatok | KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság |
 
-| 13. | Szálláshely-szolgáltatók hatósági ellenőrzése során felmerülő turisztikai és a Nemzeti Turisztikai Adatszolgáltató Központtal való csatlakozással kapcsolatban felmerült szakkérdés | Magyar Turisztikai Ügynökség Zrt. |
+| 13. | A Nemzeti Turisztikai Adatszolgáltató Központhoz való csatlakozással és adatszolgáltatással kapcsolatban felmerült szakkérdés | Magyar Turisztikai Ügynökség Zrt. |
+
+| 14. | Szálláshely-minősítéssel kapcsolatban felmerült szakkérdés | Magyar Turisztikai Minőségtanúsító Testület Nonprofit Kft. |
+
+| 15. | Szabadalom megsemmisítésével és korlátozásával összefüggő szakkérdés | Szellemi Tulajdon Nemzeti Hivatala |
 
 4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^9]
 
@@ -112,7 +116,7 @@ Szakvélemény adására feljogosított szervek
 
 |  | b) természettudományi emlékek vizsgálata | Magyar Természettudományi Múzeum |
 
-|  | c) műszaki és technikatörténeti tárgyak vizsgálata | Országos Műszaki Múzeum |
+|  | c) műszaki és technikatörténeti tárgyak vizsgálata | Magyar Műszaki és Közlekedési Múzeum |
 
 |  | d) képző- és iparművészeti emlékek vizsgálata | Magyar Nemzeti Galéria Szépművészeti Múzeum Iparművészeti Múzeum |
 
@@ -124,9 +128,9 @@ Szakvélemény adására feljogosított szervek
 
 |  | h) könyvtári dokumentumok vizsgálata | Országos Széchényi Könyvtár |
 
-|  | i) levéltári dokumentumok vizsgálata | Magyar Országos Levéltár |
+|  | i) levéltári dokumentumok vizsgálata | Magyar Nemzeti Levéltár |
 
-|  | 2. Az 1. pontban megjelölt kulturális javak állagvédelme, restaurálása, preparálása | Magyar Nemzeti Múzeum Magyar Természettudományi Múzeum Országos Műszaki Múzeum Magyar Nemzeti Galéria Szépművészeti Múzeum Képzőművészeti Egyetem Restaurátorképző Intézet Országos Széchényi Könyvtár Magyar Országos Levéltár |
+|  | 2. Az 1. pontban megjelölt kulturális javak állagvédelme, restaurálása, preparálása | Magyar Nemzeti Múzeum Magyar Természettudományi Múzeum Magyar Műszaki és Közlekedési Múzeum Magyar Nemzeti Galéria Szépművészeti Múzeum Képzőművészeti Egyetem Restaurátorképző Intézet Országos Széchényi Könyvtár Magyar Nemzeti Levéltár |
 
 |  | 3. Mozgóképekkel összefüggő szakkérdések |  |
 
@@ -142,4 +146,4 @@ Szakvélemény adására feljogosított szervek
 
 | 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggő, illetve vízügyi igazgatási szakkérdés | Országos Vízügyi Főigazgatóság |
 
-[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja szerint módosított szöveg.
