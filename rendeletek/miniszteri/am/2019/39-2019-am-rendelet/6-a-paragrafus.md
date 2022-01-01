@@ -1,4 +1,4 @@
-## 6a.[^9] Átmeneti támogatás
+## 6a.[^12] Átmeneti támogatás
 
 6/A. § (1) A kérelmező 2020. május 1. és május 15. között benyújtott támogatási kérelmét elbíráló döntésben megállapított támogatás a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásnak (a továbbiakban: átmeneti támogatás) minősül.
 
@@ -10,4 +10,4 @@
 
 (5) A kérelmező átmeneti támogatásként legfeljebb az (1) bekezdésben meghatározott időszakban – a mezőgazdasági csekély összegű támogatás iránt – benyújtott kérelmére meghozott elsőfokú támogatási döntésben megállapított támogatási összegre jogosult.
 
-[^9]: A 6a. alcímet (6/A–6/C. §) a 41/2020. (VIII. 19.) AM rendelet 28. §-a iktatta be.
+[^12]: A 6a. alcímet (6/A–6/C. §) a 41/2020. (VIII. 19.) AM rendelet 28. §-a iktatta be.

@@ -16,6 +16,9 @@ c) 5. § (1) bekezdés c) pontjában meghatározott időszakban történő beny�
 
 d)[^1] 5. § (1) bekezdés d) pontjában meghatározott időszakban történő benyújtása esetén a 2021. január 1. és 2021. március 31.
 
+e)[^2] 5. § (1) bekezdés e) pontjában meghatározott időszakban történő benyújtása esetén a 2022. január 15. és 2022. március 31.
+
 közötti időszak.
 
 [^1]: Az 1. § 3. pont d) alpontját a 65/2020. (XII. 17.) AM rendelet 16. §-a iktatta be.
+[^2]: Az 1. § 3. pont e) alpontját az 50/2021. (XII. 29.) AM rendelet 30. §-a iktatta be.
