@@ -1,0 +1,1 @@
+A Kormány a polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel érvényesítéséről szóló 2021. évi XCIV. törvény 19. §-ában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
