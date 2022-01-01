@@ -26,23 +26,25 @@
 
 13. polgármesterek közszolgálati járadékában,
 
-14. a honvédek jogállásáról szóló törvény szerinti, illetve a honvédelmi alkalmazottak jogállásáról szóló törvény szerinti árvák kiegészítő támogatásában,
+14.[^1] a honvédek jogállásáról szóló törvény szerinti, a honvédelmi alkalmazottak jogállásáról szóló törvény szerinti vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti árvák kiegészítő támogatásában,
 
 15. a honvédek jogállásáról szóló törvény szerinti kiegészítő rokkantsági támogatásban,
 
-16. a honvédek jogállásáról szóló törvény szerinti, illetve a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti kiegészítő hozzátartozói támogatásban,
+16.[^2] a honvédek jogállásáról szóló törvény szerinti, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti kiegészítő hozzátartozói támogatásban,
 
 17. a hadigondozásról szóló törvény alapján a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 62. §-ában foglaltak szerint megemelendő rendszeres pénzbeli ellátásban,
 
-18. az egyes személyes szabadságot korlátozó intézkedésekkel vagy semmissé nyilvánított elítéléssel összefüggésben járó – kormányrendelet alapján a Tny. 62. §-ában foglaltak szerint megemelendő – emelésben,
+18.[^3] az egyes személyes szabadságot korlátozó intézkedésekkel vagy semmissé nyilvánított elítéléssel összefüggésben járó – kormányrendelet alapján a Tny. 62. §-ában foglaltak szerint megemelendő – emelésben vagy juttatásban,
 
 19. a nemzeti helytállásért elnevezésű pótlékban,
+
+19a.[^4] nemzeti gondozási díjban,
 
 20. házastársi pótlékban vagy
 
 21. házastárs után járó jövedelempótlékban
 
-részesül.
+## részesül.
 
 (2) A tizenharmadik havi ellátás megilleti
 
@@ -53,3 +55,8 @@ b) a tárgyévben rokkantsági ellátásban, rehabilitációs ellátásban, bale
 (3) A (2) bekezdés szerinti ellátások után a tizenharmadik havi ellátásra való jogosultság akkor is fennáll, ha az ellátásokban több, a (2) bekezdés szerinti változás következett be.
 
 (4) Ha a jogosult több, az (1) bekezdés szerinti ellátásban részesül, a tizenharmadik havi ellátásra való jogosultságot ellátásonként kell vizsgálni.
+
+[^1]: Az 1. § (1) bekezdés 14. pontja a 692/2021. (XII. 9.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 16. pontja a 692/2021. (XII. 9.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 18. pontja a 692/2021. (XII. 9.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés 19a. pontját a 692/2021. (XII. 9.) Korm. rendelet 15. § (3) bekezdése iktatta be.
