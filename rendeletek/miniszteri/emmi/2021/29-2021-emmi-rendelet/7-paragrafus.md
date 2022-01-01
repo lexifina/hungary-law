@@ -1,3 +1,5 @@
-## 6. §[^6]
+## 6. § Az R1. 16. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^6]: A 6. § a 20. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## [A (3) bekezdés szerinti gyógyszerkiadás esetén az EESZT rendszerben rögzíteni kell]
+
+## „b) a kiváltó orvos, gyógyszerész alapnyilvántartási számát, állatorvos kamarai nyilvántartási számát, ezek hiányában diplomaszámát. Külföldi orvos esetén a jogosultságot igazoló okirat számát.”
