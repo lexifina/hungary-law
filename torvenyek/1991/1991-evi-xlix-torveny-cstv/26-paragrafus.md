@@ -1,6 +1,6 @@
 26. § (1) A bíróság megvizsgálja az adós fizetésképtelenségét.
 
-(2)
+(2) Az adós a felszámolási eljárás iránti kérelem kézhezvételétől számított 8 napon belül köteles bejelenteni, amennyiben az adós gazdálkodó szervezetben a magyar állam szükségképpeni törvényes öröklés útján részesedést örökölt.
 
 (3) A bíróság az adós kérelmére a tartozás kiegyenlítésére legfeljebb 45 napos határidőt engedélyezhet, kivéve, ha a felszámolási eljárás megindítását a 21/B. § szerint csődeljárás előzte meg. A tartozás kiegyenlítése – az adós ilyen tartalmú nyilatkozata hiányában – nem minősül tartozáselismerésnek, a teljesítés polgári peres eljárásban történő visszakövetelését nem zárja ki.
 

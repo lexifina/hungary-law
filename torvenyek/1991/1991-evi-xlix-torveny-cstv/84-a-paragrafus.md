@@ -16,7 +16,7 @@ e)
 
 (1b)
 
-(1c) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a gazdálkodó szervezetek reorganizációjára, működőképességének fenntartására, illetve helyreállítására, tartozásaik rendezésére vonatkozó sajátos szabályokat.
+(1c)
 
 (2) Felhatalmazást kap a Kormány arra, hogy
 

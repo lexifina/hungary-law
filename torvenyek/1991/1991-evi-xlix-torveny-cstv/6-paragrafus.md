@@ -42,7 +42,7 @@ bb) a vitatott igény elbírálására irányuló és a kifogás alapján indult
 
 bc) az eljárás szünetelésének csak kérelemre, a 26. § (4) bekezdésben foglaltak esetén van helye azzal, hogy három hónap szünetelés elteltével az eljárás megszűnik;
 
-bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (1) és (2) bekezdése, a 38/A. § szerinti és a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben van helye, azzal, hogy az eljárást felfüggesztő végzés elleni fellebbezésnek a 6/A. § (1) és (2) bekezdése, a 38/A. § szerinti és a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben nincs helye;
+bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben van helye, azzal, hogy az eljárást felfüggesztő végzés elleni fellebbezésnek a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben nincs helye;
 
 c) bíróság által tárgyalás tartásának csak az e törvényben meghatározott esetekben van helye;
 

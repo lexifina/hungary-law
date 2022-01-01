@@ -10,7 +10,7 @@ d) az adós a kérelmező és a 8. § (1) bekezdésében megjelölt szervek egye
 
 e)
 
-f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (2c) bekezdés szerinti tartalmi elemeket.
+f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (3) bekezdés szerinti tartalmi elemeket.
 
 g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el;
 

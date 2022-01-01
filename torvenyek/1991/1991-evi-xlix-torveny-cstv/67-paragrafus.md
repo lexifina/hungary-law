@@ -12,7 +12,7 @@
 
 (7) Az adós tevékenységének a felszámolás alatti továbbfolytatása tárgyában a 46. § (3)–(4) bekezdés szerinti hozzájárulást a hitelezői választmány egy év helyett másfél évi időtartamra is megadhatja.
 
-(8) A felszámolási zárómérleg elkészítésére nyitva álló határidő 270 nap, kivéve ha ezt a határidőt a bíróság indokolt esetben meghosszabbította vagy a hitelezői választmány az adós tevékenységének a felszámolási eljárás alatt történő továbbfolytatásához hozzájárult, továbbá az 52. § (2) bekezdése szerinti esetben, illetve a folyamatban lévő eljárásokra tekintettel. A bíróság a felszámolási zárómérleget és vagyonfelosztási javaslatot – az 56. § (1) bekezdésének alkalmazásával – a felszámolási zárómérleg kézhezvételétől számított 21 napon belül küldi meg a hitelezőknek.
+(8) A felszámolási zárómérleg elkészítésére nyitva álló határidőt a bíróság indokolt esetben meghosszabbíthatja.
 
 (9) Az 53. §-t azzal az eltéréssel kell alkalmazni, hogy a hatósági engedélyhez, koncesszióhoz kötött tevékenységet vagy törvényben meghatározott közszolgáltatási tevékenységet végző adósnak az e tevékenységével összefüggő iratait az adott tevékenységet folytató szervezet részére kell átadni.
 

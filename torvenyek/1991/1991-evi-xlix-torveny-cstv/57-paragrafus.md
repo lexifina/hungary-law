@@ -8,7 +8,7 @@ c) a gazdálkodó szervezetet terhelő tartásdíj, életjáradék, kártérít�
 
 d) a kötvényen alapuló követelések kivételével, magánszemély nem gazdasági tevékenységből eredő más követelése (így különösen a hibás teljesítésből, a kártérítésből, sérelemdíjból eredő követelések, a szakmában szokásos várható szavatossági vagy jótállási kötelezettségek felszámoló által számszerűsített összegét is ideértve), a kis- és mikrovállalkozás, a mezőgazdasági őstermelő követelése, valamint a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja azon követelései, amelyek azon alapulnak, hogy a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja a biztosított betéttel rendelkező betétesek jogutódjává, illetve követeléseik jogosultjává vált,
 
-e) a társadalombiztosítási alapok javára fennálló tartozások, az adók – kivéve a (2) bekezdés szerinti adó- és járuléktartozásokat – és adók módjára behajtható köztartozások, az általános közigazgatási rendtartásról szóló törvényen alapuló követelések, a büntetőeljárásban a 6/A. § (8) bekezdése alapján az állam javára fizetendő összeg, továbbá a visszafizetendő államháztartási, európai uniós vagy nemzetközi szerződésen alapuló más nemzetközi forrásból származó támogatások, valamint a közműdíjak és a társasházi közös költség és a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjának a d) pontban nem említett követelései,
+e) a társadalombiztosítási alapok javára fennálló tartozások, az adók – ide nem értve a (2) bekezdés szerint felszámolási költségként elszámolható adó- és járuléktartozásokat – és adók módjára behajtható köztartozások, az általános közigazgatási rendtartásról szóló törvényen alapuló követelések, a 79/A. § (2) bekezdés e) pontja szerinti bűnügyi hitelezői igénybejelentés, továbbá a visszafizetendő államháztartási, európai uniós vagy nemzetközi szerződésen alapuló más nemzetközi forrásból származó támogatások, valamint a közműdíjak, a társasházi közös költség és a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjának a d) pontban nem említett követelései,
 
 f) egyéb követelések;
 
@@ -68,6 +68,18 @@ l) az a költség, amelynek felszámolási költségként történő kifizetés�
 
 (5) Ha az (1) bekezdés e)—g) pontjában szereplő követelések kielégítésére nincs elegendő fedezet, az egyes csoportokba tartozó hitelezőket — először az e), az f), majd a g) pontban szereplőket — követeléseik arányában kell kielégíteni.
 
-(6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, a csoporton belül először a társadalombiztosítási alapok javára fennálló tartozásokat (ideértve a szociális hozzájárulási adót is) kell kielégíteni teljes egészében, majd pedig a többi hitelezőt követeléseik arányában.
+(6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, ezen a csoporton belül a következő kielégítési sorrendben előrébb álló hitelezői igény teljes egészében való kielégítését követően kell a hátrébb álló hitelezői igényeket kielégíteni:
+
+a) pénzösszegben kifejezett vagyonelkobzás alapján fennálló bűnügyi hitelezői igény,
+
+b) jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság alapján fennálló bűnügyi hitelezői igény,
+
+c) társadalombiztosítási alapok javára fennálló tartozások (ideértve a szociális hozzájárulási adót is) alapján fennálló hitelezői igény,
+
+d) bűnügyi költség alapján fennálló bűnügyi hitelezői igény,
+
+e) többi hitelezői igény.
+
+(6a) Ha a (6) bekezdésben meghatározott kielégítési sorrendben azonos helyen álló hitelezői igény teljes kielégítésére nincs lehetőség, akkor ezeket a hitelezői igényeket a követelések arányában kell kielégíteni.
 
 (7) A felszámoló által nyilvántartásba vett követelés engedményezése nem érinti a követelésnek a kielégítési sorrendben elfoglalt helyét.

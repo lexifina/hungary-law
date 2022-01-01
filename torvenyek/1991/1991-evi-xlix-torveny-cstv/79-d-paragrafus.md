@@ -1,0 +1,7 @@
+79/D. § (1) A felszámoló a bűnügyi hitelezői igénybejelentés alapján hitelezőként a büntetőjogi igényt érvényesítő magyar államot veszi nyilvántartásba. A magyar állam képviselőjeként az állami adó- és vámhatóság jár el, és e követelések tekintetében gyakorolja a hitelezői jogokat. Ha a bűnügyi hitelezői igénybejelentést nem az állami adó- és vámhatóság tette, a felszámoló haladéktalanul értesíti az állami adó- és vámhatóságot annak érdekében, hogy a magyar állam képviselőjeként eljárhasson.
+
+(2) A felszámoló a felszámolás kezdő időpontjától számított hatvan napon belül a nyilvántartásba vett hitelezői követelések listáját megküldi a büntetőeljárást lefolytató szervnek. Ha a felszámoló a határidő lejártát követően szerez tudomást az előzetes bűnügyi hitelezői igénybejelentésről, a nyilvántartásba vett hitelezői követelések listáját a tudomásszerzéstől számított 15 napon belül küldi meg büntetőeljárást lefolytató szervnek. A felszámoló a 48. § (2) bekezdésében meghatározott értesítések megküldésével egyidejűleg a nyilvántartásba vett hitelezői követelések listáját ismételten megküldi a büntetőeljárást lefolytató szervnek. A 48. § (2) bekezdésben meghatározott értesítési kötelezettség hiányában a felszámoló a nyilvántartásba vett hitelezői követelések listáját az értékesítés megkezdésével egyidejűleg küldi meg a büntetőeljárást lefolytató szervek.
+
+(3) A bűnügyi hitelezői igénybejelentés nem tekinthető vitatott hitelezői követelésnek.
+
+(4) A bűnügyi hitelezői igénybejelentés tekintetében beszámítási jog nem gyakorolható.

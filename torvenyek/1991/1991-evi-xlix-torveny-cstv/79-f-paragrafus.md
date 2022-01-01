@@ -1,0 +1,3 @@
+79/F. § (1) A felszámoló a vagyonfelosztási javaslatot és az 52. §-ban meghatározott más iratokat csak azt követő két hónap elteltével küldi meg a bíróságnak, hogy a vagyonfelosztási javaslatot a büntetőeljárást lefolytató szervnek megküldte.
+
+(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igénybejelentésre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a zár alá vételt végrehajtó szerv rendelkezésére kell bocsátani, és a 79/C. § megfelelő alkalmazásával intézkedni kell a zár alá vétel közhiteles nyilvántartásba való bejegyzése iránt.
