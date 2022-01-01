@@ -47,3 +47,5 @@ a) az általa minősített adat esetén a rendelkezési jogosultságok teljes k�
 b) a más minősítő által minősített adat esetén a (2) bekezdés a)–l) pontjában foglalt rendelkezési jogosultságok
 
 illethetik meg.
+
+(4) A minősített adatot kezelő honvédelmi szervezet vezetőjét és biztonsági vezetőjét – a 14/A. § szerinti esetben – a (2) bekezdés a)–l) és p) pontjában foglalt rendelkezési jogosultságok illetik meg.
