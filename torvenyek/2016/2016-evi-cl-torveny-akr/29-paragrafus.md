@@ -6,7 +6,7 @@
 
 a) tárgyaláson történő meghallgatására csak abban az esetben kerülhet sor, ha az eljárásban részt vevő más személyek jelenlétében történő meghallgatása az érdekeit nem sérti,
 
-b) lehetőség szerint lakóhelyén kell meghallgatni,
+b) lehetőség szerint lakcímén kell meghallgatni,
 
 c) akkor hívható fel személyes nyilatkozattételre és akkor hallgatható meg tanúként, ha ezt állapota megengedi és személyes nyilatkozata vagy tanúvallomása más módon nem pótolható, valamint
 
