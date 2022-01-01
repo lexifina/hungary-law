@@ -2,7 +2,7 @@
 
 (2) A hirdetményben a részletes értékesítési feltételek között tájékoztatást kell adni az esetleges részletfizetési feltételekről és a vételár megfizetésére nyitva álló határidőről is.
 
-(3)[^20] Az értékesítési hirdetményhez csatolva, az EÉR felületén – a betekintők és a licitálók számára – az értékesítő az értékesítésre kerülő vagyoni elemekről, azok jellemzőiről egy összefoglaló jellegű értékesítési tájékoztatót (tender füzetet) is közzétesz, és ehhez képeket társít a 10. § (6) bekezdése szerinti esetekben, továbbá tájékoztatást ad az értékesítendő vagyon megtekintésének módjáról. Az értékesítési tájékoztatót a felszámoló – a könnyebb áttekinthetőség érdekében – egységesített formában, formanyomtatvány alkalmazásával is elkészítheti.
+(3)[^21] Az értékesítési hirdetményhez csatolva, az EÉR felületén – a betekintők és a licitálók számára – az értékesítő az értékesítésre kerülő vagyoni elemekről, azok jellemzőiről egy összefoglaló jellegű értékesítési tájékoztatót (tender füzetet) is közzétesz, és ehhez képeket társít a 10. § (6) bekezdése szerinti esetekben, továbbá tájékoztatást ad az értékesítendő vagyon megtekintésének módjáról. Az értékesítési tájékoztatót a felszámoló – a könnyebb áttekinthetőség érdekében – egységesített formában, formanyomtatvány alkalmazásával is elkészítheti.
 
 (4) A nagy értékű, sok vagyonelemet tartalmazó cégvagyon értékesítése esetén az értékesítési hirdetményben közzétett ismertetés és a (3) bekezdésben említett értékesítési tájékoztatóban felsoroltakat tovább részletező, részletes értékesítési tájékoztató (részletes tenderfüzet) is feltöltésre kerülhet az EÉR-ben, amelynek megtekintését és letöltését költségtérítéshez kötheti a felszámoló. A licitálói részvételt azonban nem lehet a részletes tenderfüzet igényléséhez kötni, a pályázat vagy licit a részletes tenderfüzet megrendelése vagy igénylése nélkül is érvényesen benyújtható.
 
@@ -14,7 +14,7 @@ b) annak meghatározását, hogy a vételár összegét, megfizetésének üteme
 
 c) annak meghatározását, hogy az értékesítő az érvényes pályázatok közül milyen módszerrel választja ki az összességében legkedvezőbb ajánlatot tartalmazó nyertes pályázatot.
 
-(6)[^21] A licitálók a részletes tenderfüzet megtekintéséért és letöltéséért az értékesítő által meghatározott összegű költségtérítést a működtető részére fizetik meg. A működtető a megfizetett költségtérítésről a saját nevében állítja ki a számlát. Az általános forgalmi adó tekintetében az állami adóhatósághoz a bevallást és a befizetést a működtető teszi meg, illetve teljesíti. A működtető az értékesítési eljárás lezárultát követően a megfizetett költségtérítések nettó összegét az értékesítő részére átutalja, illetve a költségtérítések megfizetésével kapcsolatos adatokat az értékesítőnek megküldi.
+(6)[^22] A licitálók a részletes tenderfüzet megtekintéséért és letöltéséért az értékesítő által meghatározott összegű költségtérítést a működtető részére fizetik meg. A működtető a megfizetett költségtérítésről a saját nevében állítja ki a számlát. Az általános forgalmi adó tekintetében az állami adóhatósághoz a bevallást és a befizetést a működtető teszi meg, illetve teljesíti. A működtető az értékesítési eljárás lezárultát követően a megfizetett költségtérítések nettó összegét az értékesítő részére átutalja, illetve a költségtérítések megfizetésével kapcsolatos adatokat az értékesítőnek megküldi.
 
-[^20]: A 12. § (3) bekezdése az 520/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^21]: A 12. § (6) bekezdését a 343/2015. (XI. 13.) Korm. rendelet 17. §-a iktatta be.
+[^21]: A 12. § (3) bekezdése az 520/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 12. § (6) bekezdését a 343/2015. (XI. 13.) Korm. rendelet 17. §-a iktatta be.

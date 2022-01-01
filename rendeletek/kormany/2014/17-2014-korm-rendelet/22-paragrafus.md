@@ -1,6 +1,6 @@
 22. § (1) Az elektronikus értékesítést működtető programnak úgy kell működnie, hogy biztosítsa az árverezők esélyegyenlőségét és annak megakadályozását, hogy a benyújtott ajánlatok nem nyilvános tartalma megismerhetővé váljon.
 
-(2)[^34] A licitálási határidő lejártát követően érkezett vagy az értékesítő által megadott minimálárat el nem érő ajánlatokat nem kell regisztrálni, a regisztrálás visszautasításáról és ennek okáról licitálót a rendszer egy automatikus üzenettel értesíti, külön elektronikus levél küldésére ez okból nem kerül sor. Az üzenet tájékoztatást ad arról, hogy az árajánlat nem minősül érvényes ajánlatnak, és megjelöli ennek okát.
+(2)[^35] A licitálási határidő lejártát követően érkezett vagy az értékesítő által megadott minimálárat el nem érő ajánlatokat nem kell regisztrálni, a regisztrálás visszautasításáról és ennek okáról licitálót a rendszer egy automatikus üzenettel értesíti, külön elektronikus levél küldésére ez okból nem kerül sor. Az üzenet tájékoztatást ad arról, hogy az árajánlat nem minősül érvényes ajánlatnak, és megjelöli ennek okát.
 
 (3) A licitálásnál ötezer forintra kerekítve kell az ajánlatokat megtenni. Az aktuális legmagasabb ajánlatnál csak magasabb összegű ajánlatot lehet tenni, a (4) bekezdésben meghatározott licitlépcső szabályai szerint.
 
@@ -16,9 +16,9 @@ d) 20 000 000 forint és 200 millió forint között minimum 200 ezer, de maximu
 
 e) 200 000 000 forint és afelett minimum 500 ezer, de maximum 2 millió forint.
 
-(5)[^35] Az adott értékesítésre vonatkozó licitlépcsőt – a (4) bekezdésben meghatározott keretek között – az értékesítő állítja be a rendszer számára. Az ajánlat a hirdetményben meghatározott licitlépcső összegével emelhető.
+(5)[^36] Az adott értékesítésre vonatkozó licitlépcsőt – a (4) bekezdésben meghatározott keretek között – az értékesítő állítja be a rendszer számára. Az ajánlat a hirdetményben meghatározott licitlépcső összegével emelhető.
 
 (6) A licitáló a megtett ajánlatát nem vonhatja vissza. A rendszer nem teszi lehetővé, hogy a licitálók egymással kapcsolatba léphessenek vagy egymást azonosíthassák.
 
-[^34]: A 22. § (2) bekezdése a 300/2017. (X. 17.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^35]: A 22. § (5) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^35]: A 22. § (2) bekezdése a 300/2017. (X. 17.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^36]: A 22. § (5) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.

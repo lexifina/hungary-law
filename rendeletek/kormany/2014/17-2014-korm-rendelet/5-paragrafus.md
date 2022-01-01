@@ -8,11 +8,11 @@ b) a nyilvános értékesítési eljárásban (árverés vagy értékesítési p
 
 c) azok a személyek vagy szervezetek, amelyek az értékesítési rendszer működésének és az ajánlatoknak a megismerése érdekében az EÉR honlapjára belépnek, de nem regisztráltatták magukat licitálóként (a továbbiakban: betekintő),
 
-d)[^6]
+d)[^8]
 
 e) azok a szervezetek, amelyek az EÉR-ben rögzített adatok és dokumentumok hatósági és bírósági ellenőrzésére jogosultak (a továbbiakban: ellenőrzésre jogosult szervezetek).
 
-(2)[^7] Az értékesítőként történő belépés lehetőségét a működtetőnek biztosítania kell
+(2)[^9] Az értékesítőként történő belépés lehetőségét a működtetőnek biztosítania kell
 
 a) minden, a felszámolók névjegyzékébe bejegyzett,
 
@@ -24,10 +24,10 @@ d) a Cstv. 27/A. § (6a) bekezdése alapján a folyamatban lévő felszámolási
 
 ## felszámoló szervezet számára.
 
-(2a)[^8] Az értékesítők a felszámoló szervezetek hatósági nyilvántartásába bejegyzett adataikkal vesznek részt az EÉR-ben. A nyilvántartást vezető hatóság az adatokról és azok változásáról elektronikus úton adatszolgáltatást teljesít az EÉR működtetője részére.
+(2a)[^10] Az értékesítők a felszámoló szervezetek hatósági nyilvántartásába bejegyzett adataikkal vesznek részt az EÉR-ben. A nyilvántartást vezető hatóság az adatokról és azok változásáról elektronikus úton adatszolgáltatást teljesít az EÉR működtetője részére.
 
 (3) Amennyiben az értékesítő az EÉR értékesítők jegyzékéből törlésre kerül, a működtető erről haladéktalanul elektronikus értesítést küld a felszámoló szervezet hatósági nyilvántartását ellátó szervnek.
 
-[^6]: Az 5. § (1) bekezdés d) pontját a 299/2014. (XII. 5.) Korm. rendelet 18. §-a hatályon kívül helyezte.
-[^7]: Az 5. § (2) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (2a) bekezdését a 299/2014. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+[^8]: Az 5. § (1) bekezdés d) pontját a 299/2014. (XII. 5.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^9]: Az 5. § (2) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (2a) bekezdését a 299/2014. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
