@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-208-20-
 | 2019-01-01 | 2013-208-20-22.9 | 193/2018. (X. 15.) Korm. rendelet |
 | 2020-01-01 | 2013-208-20-22.10 | 218/2019. (IX. 5.) Korm. rendelet |
 | 2021-01-01 | 2013-208-20-22.11 | 679/2020. (XII. 28.) Korm. rendelet |
+| 2022-01-01 | 2013-208-20-22.12 | 578/2021. (X. 12.) Korm. rendelet |
