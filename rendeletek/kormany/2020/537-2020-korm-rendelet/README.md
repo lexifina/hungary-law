@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-537-20-
 | 2020-12-02 | 2020-537-20-22.1 | 537/2020. (XII. 1.) Korm. rendelet |
 | 2021-01-01 | 2020-537-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-01-02 | 2020-537-20-22.3 | 2010: CXXX. törvény |
+| 2022-01-01 | 2020-537-20-22.4 | 730/2021. (XII. 20.) Korm. rendelet |

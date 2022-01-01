@@ -1,8 +1,8 @@
 ## 6. § E rendelet végrehajtásához szükséges intézkedésekről a sportpolitikáért felelős miniszter gondoskodik.
 
-7. § (1)[^1]
+7. § (1)[^5]
 
-(2)[^2]
+(2)[^6]
 
-[^1]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
