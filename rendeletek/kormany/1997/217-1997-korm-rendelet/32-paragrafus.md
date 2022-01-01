@@ -2,9 +2,9 @@
 
 ## (Az Ebtv. 52–56. §-ához)
 
-32. § (1)[^532] A Tbj. 21. §-a szerinti baleseti egészségügyi szolgáltatásra való jogosultság szempontjából üzemi balesetnek számít:
+32. § (1)[^533] A Tbj. 21. §-a szerinti baleseti egészségügyi szolgáltatásra való jogosultság szempontjából üzemi balesetnek számít:
 
-a)[^533] köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény tanulójának, képzésben részt vevő személyének, illetve hallgatójának az a balesete, amelyet a nevelés-oktatás, a szakképzés vagy a felsőfokú képzés közben, vagy ezzel összefüggésben szenvedett el;
+a)[^534] köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény tanulójának, képzésben részt vevő személyének, illetve hallgatójának az a balesete, amelyet a nevelés-oktatás, a szakképzés vagy a felsőfokú képzés közben, vagy ezzel összefüggésben szenvedett el;
 
 b) szocioterápiás intézetben gyógykezelt elmebetegnél, illetőleg szenvedélybetegnél a szocioterápiás foglalkoztatás közben vagy azzal összefüggésben elszenvedett baleset;
 
@@ -12,14 +12,14 @@ c) őrizetbe vett, előzetesen letartóztatott elzárásra utalt illetőleg szab
 
 d) a közcélú, illetőleg közérdekű munkát végző személynek az a balesete, amelyet a közcélú, illetőleg közérdekű munka végzése során vagy azzal összefüggésben szenvedett el.
 
-(2)[^534] Az (1) bekezdés d) pontja alkalmazásában közcélú munka a Tbj. 21. § d) pontjában foglaltakon túl az állami szerv vagy önkormányzat, illetőleg a munkáltató által kezdeményezett, irányított vagy jóváhagyott társadalmi munka.
+(2)[^535] Az (1) bekezdés d) pontja alkalmazásában közcélú munka a Tbj. 21. § d) pontjában foglaltakon túl az állami szerv vagy önkormányzat, illetőleg a munkáltató által kezdeményezett, irányított vagy jóváhagyott társadalmi munka.
 
-(2a)[^535] Egészségügyi szolgáltatásra való jogosultság szempontjából üzemi balesetnek számít az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdésében említett foglalkoztatás keretében végzett munka közben elszenvedett baleset.
+(2a)[^536] Egészségügyi szolgáltatásra való jogosultság szempontjából üzemi balesetnek számít az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdésében említett foglalkoztatás keretében végzett munka közben elszenvedett baleset.
 
-(3)[^536] Az Ebtv. 53. § (1) bekezdés a) pontjának alkalmazásában az alkohol vagy kábítószer általi befolyásoltság akkor tekinthető igazoltnak, ha a baleset kivizsgálásában, illetve a sérült ellátásában résztvevő, az alkohol vagy kábítószer általi befolyásoltság vizsgálatára feljogosított szervnek a vizsgáló egyedi mérlegelése által nem befolyásolható módszerrel végrehajtott mérése ezt alátámasztotta.
+(3)[^537] Az Ebtv. 53. § (1) bekezdés a) pontjának alkalmazásában az alkohol vagy kábítószer általi befolyásoltság akkor tekinthető igazoltnak, ha a baleset kivizsgálásában, illetve a sérült ellátásában résztvevő, az alkohol vagy kábítószer általi befolyásoltság vizsgálatára feljogosított szervnek a vizsgáló egyedi mérlegelése által nem befolyásolható módszerrel végrehajtott mérése ezt alátámasztotta.
 
-[^532]: A Vhr. 32. § (1) bekezdés nyitó szövegrésze a 316/2020. (VII. 1.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
-[^533]: A Vhr. 32. § (1) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
-[^534]: A Vhr. 32. § (2) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
-[^535]: A Vhr. 32. § (2a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
-[^536]: A Vhr 32. § (3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan a 192/2015. (VII. 21.) Korm. rendelet 10. §-a iktatta be.
+[^533]: A Vhr. 32. § (1) bekezdés nyitó szövegrésze a 316/2020. (VII. 1.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^534]: A Vhr. 32. § (1) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
+[^535]: A Vhr. 32. § (2) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^536]: A Vhr. 32. § (2a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
+[^537]: A Vhr 32. § (3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan a 192/2015. (VII. 21.) Korm. rendelet 10. §-a iktatta be.

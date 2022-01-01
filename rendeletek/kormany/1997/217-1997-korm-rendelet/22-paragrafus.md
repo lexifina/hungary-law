@@ -1,62 +1,62 @@
-22. §[^410] (1)[^411] Az Ebtv. 32. §-ának (1) bekezdése alapján gyógyszer, gyógyászati segédeszköz, illetve (4) bekezdése alapján gyógyászati ellátás támogatással történő rendelésére jogosító szerződésben meg kell határozni, hogy az orvos milyen tevékenysége keretében válik jogosulttá a támogatással történő rendelésre.
+22. §[^411] (1)[^412] Az Ebtv. 32. §-ának (1) bekezdése alapján gyógyszer, gyógyászati segédeszköz, illetve (4) bekezdése alapján gyógyászati ellátás támogatással történő rendelésére jogosító szerződésben meg kell határozni, hogy az orvos milyen tevékenysége keretében válik jogosulttá a támogatással történő rendelésre.
 
-(1a)[^412] Az Ebtv. 32. § (1) bekezdése alapján nem köthető szerződés az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet szerinti mozgó egészségügyi szolgáltatás vagy változó helyszínen végzett egészségügyi szolgáltatás keretében támogatással történő gyógyászati segédeszköz rendelésre.
+(1a)[^413] Az Ebtv. 32. § (1) bekezdése alapján nem köthető szerződés az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet szerinti mozgó egészségügyi szolgáltatás vagy változó helyszínen végzett egészségügyi szolgáltatás keretében támogatással történő gyógyászati segédeszköz rendelésre.
 
-(2)[^413] A (3) bekezdésben foglalt kivétellel az Ebtv. 32. §-ának (1) bekezdése alapján a nem finanszírozott egészségügyi szolgáltató orvosával továbbá az Ebtv. 32. § (6) bekezdése alapján a pro família rendelésre jogosult orvossal gyógyszer és gyógyászati segédeszköz általános és különleges jogcímen történő rendelésre egyaránt jogosító szerződés köthető.
+(2)[^414] A (3) bekezdésben foglalt kivétellel az Ebtv. 32. §-ának (1) bekezdése alapján a nem finanszírozott egészségügyi szolgáltató orvosával továbbá az Ebtv. 32. § (6) bekezdése alapján a pro família rendelésre jogosult orvossal gyógyszer és gyógyászati segédeszköz általános és különleges jogcímen történő rendelésre egyaránt jogosító szerződés köthető.
 
-(3)[^414]
+(3)[^415]
 
-(4)[^415] A NEAK gyógyászati ellátások közül – külön jogszabály szerinti – fürdőgyógyászati ellátások támogatással történő rendelésére jogosító szerződést köt az Ebtv. 30. §-ának (2) bekezdése szerinti szerződés alapján fürdőgyógyászati ellátás támogatással történő nyújtására jogosult szolgáltató orvosával, amennyiben a szolgáltató – külön jogszabály szerinti – komplex fürdőgyógyászati ellátás nyújtására jogosult vagy rendelkezik az ahhoz szükséges – külön jogszabályban meghatározott – feltételekkel.
+(4)[^416] A NEAK gyógyászati ellátások közül – külön jogszabály szerinti – fürdőgyógyászati ellátások támogatással történő rendelésére jogosító szerződést köt az Ebtv. 30. §-ának (2) bekezdése szerinti szerződés alapján fürdőgyógyászati ellátás támogatással történő nyújtására jogosult szolgáltató orvosával, amennyiben a szolgáltató – külön jogszabály szerinti – komplex fürdőgyógyászati ellátás nyújtására jogosult vagy rendelkezik az ahhoz szükséges – külön jogszabályban meghatározott – feltételekkel.
 
 (5) A (4) bekezdés alapján fürdőgyógyászati ellátás rendelésére jogosult orvos, illetve az az egészségügyi szolgáltató, akivel az orvos munkavégzésre irányuló jogviszonyban áll, az ellátás rendeléséhez kapcsolódó vizsgálatért nem kérhet a betegtől térítést.
 
-(6)[^416] Ha az Ebtv. 37. § (11) bekezdése szerinti összeg a tárgyhónapban
+(6)[^417] Ha az Ebtv. 37. § (11) bekezdése szerinti összeg a tárgyhónapban
 
-a)[^417] a 300 ezer forintot meghaladja, a NEAK fél évre felfüggeszti a szerződést,
+a)[^418] a 300 ezer forintot meghaladja, a NEAK fél évre felfüggeszti a szerződést,
 
-b)[^418] a 600 ezer forintot meghaladja, a NEAK egy évre felfüggeszti a szerződést,
+b)[^419] a 600 ezer forintot meghaladja, a NEAK egy évre felfüggeszti a szerződést,
 
-c)[^419] a 900 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 1 évig nem köthető új szerződés,
+c)[^420] a 900 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 1 évig nem köthető új szerződés,
 
-d)[^420] az 1 millió 200 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 2 évig nem köthető új szerződés,
+d)[^421] az 1 millió 200 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 2 évig nem köthető új szerződés,
 
-e)[^421] az 1 millió 500 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 3 évig nem köthető új szerződés.
+e)[^422] az 1 millió 500 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 3 évig nem köthető új szerződés.
 
-(7)[^422] A (6) bekezdés szerinti összeghatárokat és a hozzájuk kapcsolódó jogkövetkezményt a gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás támogatással történő rendelésére való jogosultság tekintetében külön-külön kell alkalmazni.
+(7)[^423] A (6) bekezdés szerinti összeghatárokat és a hozzájuk kapcsolódó jogkövetkezményt a gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás támogatással történő rendelésére való jogosultság tekintetében külön-külön kell alkalmazni.
 
-(8)[^423]
+(8)[^424]
 
-(9)[^424]
+(9)[^425]
 
-(10)[^425]
+(10)[^426]
 
-(11)[^426] Az Ebtv. 32. §-ának (1) bekezdése szerinti szerződés mellékletét képezi
+(11)[^427] Az Ebtv. 32. §-ának (1) bekezdése szerinti szerződés mellékletét képezi
 
-a)[^427] az a külön jogszabály szerinti működési engedély másolata, ami alapján a nem finanszírozott egészségügyi szolgáltató orvosa a gyógyszer, gyógyászati segédeszköz rendelésére való jogosultságát gyakorolja, továbbá
+a)[^428] az a külön jogszabály szerinti működési engedély másolata, ami alapján a nem finanszírozott egészségügyi szolgáltató orvosa a gyógyszer, gyógyászati segédeszköz rendelésére való jogosultságát gyakorolja, továbbá
 
 b) a nem finanszírozott egészségügyi szolgáltató orvosának nyilatkozata arról, hogy az a) pont szerinti tevékenységet hol fejti ki.
 
-(12)[^428] A (11) bekezdésben foglaltak változásáról a változást követő 10 napon belül a nem finanszírozott egészségügyi szolgáltató orvosa tájékoztatja a NEAK-ot.
+(12)[^429] A (11) bekezdésben foglaltak változásáról a változást követő 10 napon belül a nem finanszírozott egészségügyi szolgáltató orvosa tájékoztatja a NEAK-ot.
 
-(13)[^429] A Tbj. szerinti külföldi biztosított részére támogatással történő gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás rendelése esetén az Ebtv. 32. § (1) és (5) bekezdése szerinti szerződéssel rendelkező orvos köteles öt évig megőrizni az érintett személynek az egészségügyi szolgáltatás igénybevételére vonatkozó jogosultságát igazoló dokumentum másolati példányát.
+(13)[^430] A Tbj. szerinti külföldi biztosított részére támogatással történő gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás rendelése esetén az Ebtv. 32. § (1) és (5) bekezdése szerinti szerződéssel rendelkező orvos köteles öt évig megőrizni az érintett személynek az egészségügyi szolgáltatás igénybevételére vonatkozó jogosultságát igazoló dokumentum másolati példányát.
 
-[^410]: A Vhr. 22. §-a a 113/2005. (VI. 25.) Korm. rendelet 15. §-ával megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján gyógyszer, gyógyászati segédeszköz támogatással történő rendelésére jogosító, a finanszírozott egészségügyi szolgáltató orvosával megkötött, 2005. július 1-jén érvényes szerződéseket a 2005. július 1-jét követő harmadik hónap utolsó napjával fel kell bontani és addig – az Ebtv. 31. §-a (1) bekezdése c) pontjának megfelelően – a finanszírozási szerződésekben meg kell határozni a gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosult orvosok körét. Ehhez a finanszírozott egészségügyi szolgáltatóknak 2005. augusztus 31-éig tájékoztatnia kell az illetékes MEP-et a szolgáltatónál dolgozó, gyógyszer, gyógyászati segédeszköz támogatással történő rendelésére jogosult orvosok köréről.
-[^411]: A Vhr. 22. § (1) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 17. § (9) bekezdése alapján 2006. január 1-jével a rendelkezés szerint módosulnak az ebben az időpontban érvényes, az Ebtv. 32. § (1) és (5) bekezdése szerinti szerződések.
-[^412]: A 22. § (1a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 8. §-a iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
-[^413]: A Vhr. 22. § (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
-[^414]: A Vhr. 22. § (3) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 15. § g) pontja hatályon kívül helyezte.
-[^415]: A Vhr. 22. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
-[^416]: A Vhr. 22. § (6) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 10. §-ával megállapított, nyitó szövegrésze a 366/2010. (XII. 30.) Korm. rendelet 14. § 41. pontja szerint módosított szöveg.
-[^417]: A Vhr. 22. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^418]: A Vhr. 22. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^419]: A Vhr. 22. § (6) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^420]: A Vhr. 22. § (6) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^421]: A Vhr. 22. § (6) bekezdés e) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^422]: A Vhr. 22. § (7) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^423]: A Vhr. 22. § (8) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 130. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^424]: A Vhr. 22. § (9) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 130. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^425]: A Vhr. 22. § (10) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (4) bekezdése iktatta be, hatályon kívül helyezte a 366/2010. (XII. 30.) Korm. rendelet 15. § g) pontja.
-[^426]: A Vhr. 22. § (11) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17. § (10) bekezdését.
-[^427]: A Vhr. 22. § (11) bekezdés a) pontja a 477/2016. (XII. 27.) Korm. rendelet 9. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^428]: A Vhr. 22. § (12) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés k) pontja szerint módosított szöveg.
-[^429]: A Vhr. 22. § (13) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
+[^411]: A Vhr. 22. §-a a 113/2005. (VI. 25.) Korm. rendelet 15. §-ával megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján gyógyszer, gyógyászati segédeszköz támogatással történő rendelésére jogosító, a finanszírozott egészségügyi szolgáltató orvosával megkötött, 2005. július 1-jén érvényes szerződéseket a 2005. július 1-jét követő harmadik hónap utolsó napjával fel kell bontani és addig – az Ebtv. 31. §-a (1) bekezdése c) pontjának megfelelően – a finanszírozási szerződésekben meg kell határozni a gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosult orvosok körét. Ehhez a finanszírozott egészségügyi szolgáltatóknak 2005. augusztus 31-éig tájékoztatnia kell az illetékes MEP-et a szolgáltatónál dolgozó, gyógyszer, gyógyászati segédeszköz támogatással történő rendelésére jogosult orvosok köréről.
+[^412]: A Vhr. 22. § (1) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 17. § (9) bekezdése alapján 2006. január 1-jével a rendelkezés szerint módosulnak az ebben az időpontban érvényes, az Ebtv. 32. § (1) és (5) bekezdése szerinti szerződések.
+[^413]: A 22. § (1a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 8. §-a iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
+[^414]: A Vhr. 22. § (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^415]: A Vhr. 22. § (3) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 15. § g) pontja hatályon kívül helyezte.
+[^416]: A Vhr. 22. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^417]: A Vhr. 22. § (6) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 10. §-ával megállapított, nyitó szövegrésze a 366/2010. (XII. 30.) Korm. rendelet 14. § 41. pontja szerint módosított szöveg.
+[^418]: A Vhr. 22. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^419]: A Vhr. 22. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^420]: A Vhr. 22. § (6) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^421]: A Vhr. 22. § (6) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^422]: A Vhr. 22. § (6) bekezdés e) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^423]: A Vhr. 22. § (7) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^424]: A Vhr. 22. § (8) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 130. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^425]: A Vhr. 22. § (9) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 130. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^426]: A Vhr. 22. § (10) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (4) bekezdése iktatta be, hatályon kívül helyezte a 366/2010. (XII. 30.) Korm. rendelet 15. § g) pontja.
+[^427]: A Vhr. 22. § (11) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17. § (10) bekezdését.
+[^428]: A Vhr. 22. § (11) bekezdés a) pontja a 477/2016. (XII. 27.) Korm. rendelet 9. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^429]: A Vhr. 22. § (12) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés k) pontja szerint módosított szöveg.
+[^430]: A Vhr. 22. § (13) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
