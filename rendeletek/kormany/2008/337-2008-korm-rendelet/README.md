@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-337-20-
 | 2019-07-01 | 2008-337-20-22.48 | 159/2019. (VI. 28.) Korm. rendelet |
 | 2020-07-31 | 2008-337-20-22.49 | 325/2011. (XII. 28.) Korm. rendelet |
 | 2021-01-01 | 2008-337-20-22.50 | 250/2017. (IX. 5.) Korm. rendelet |
+| 2022-01-01 | 2008-337-20-22.51 | 360/2009. (XII. 30.) Korm. rendelet |
