@@ -1,6 +1,6 @@
 ## 79. A megelőző pártfogás során a pártfogó felügyelő eljárására vonatkozó eltérő szabályok
 
-235. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény rendelkezéseit 2021. június 30. napjáig az e törvényben meghatározott eltérésekkel kell alkalmazni.
+235. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A pártfogó felügyelő a megelőző pártfogás elrendelése iránti eljárásban a környezettanulmány elkészítése és a megelőző pártfogás végrehajtása során feladatát az együttműködésre köteles személyekkel történő írásbeli, kép- és hangkapcsolatot vagy hangkapcsolatot biztosító elektronikus kapcsolattartás útján is elláthatja, ha a személyes kapcsolattartás
 
