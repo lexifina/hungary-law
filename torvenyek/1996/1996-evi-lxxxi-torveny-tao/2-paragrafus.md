@@ -1,6 +1,6 @@
 ## A társasági adó alanya
 
-2. § (1) A társasági adó alanya a (2)–(4) és (6) bekezdésben meghatározott személy.
+2. § (1) A társasági adó alanya a (2)–(4), (6) és (7) bekezdésben meghatározott személy, továbbá a 2/A. §-ban meghatározott csoportos társasági adóalany.
 
 (2) Belföldi illetőségű adózó a belföldi személyek közül
 
@@ -42,4 +42,14 @@ c) ingatlannal rendelkező társaságban meglévő részesedésének elidegenít
 
 (6) Belföldi illetőségű adózónak minősül a bizalmi vagyonkezelési szerződés alapján kezelt vagyon.
 
-(7)
+(7) A (8) bekezdésben foglalt kivétellel belföldi illetőségű adózónak minősül a Magyarországon bejegyzési hellyel vagy székhellyel rendelkező hibrid gazdálkodó szervezet, amely nem tartozik a (2)–(4) és (6) bekezdés hatálya alá, ha e törvény szerinti belföldi illetőséggel nem rendelkező szervezet (önmagában vagy e törvény szerinti belföldi illetőséggel nem rendelkező kapcsolt vállalkozásával együttesen)
+
+a) a szavazati jogai 50 százalékát meghaladó közvetlen vagy közvetett részesedéssel rendelkezik,
+
+b) a jegyzett tőkéjéből 50 százalékot meghaladó közvetlen vagy közvetett részesedéssel rendelkezik, vagy
+
+c) adózott nyereségéből 50 százalékot meghaladó részre jogosult,
+
+és az a)–c) pont szerinti személy olyan adójogrendszer hatálya alá tartozik, amely a Magyarországon bejegyzési hellyel vagy székhellyel rendelkező hibrid gazdálkodó szervezetet a társasági adó vagy annak megfelelő adó alanyának tekinti.
+
+(8) Nem minősül a (7) bekezdés szerinti belföldi illetőségű adózónak az a befektetési alap és az a más kollektív befektetési forma, amelynek tulajdonosi köre széles, diverzifikált értékpapír-portfólióval rendelkezik, és Magyarországon befektetővédelmi szabályozás alá tartozik.

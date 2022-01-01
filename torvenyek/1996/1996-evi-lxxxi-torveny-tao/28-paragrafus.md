@@ -20,6 +20,6 @@
 
 (6b) A (6a) bekezdés szerinti csökkentés nem haladhatja meg a külföldi telephely jövedelmének megállapításakor alkalmazott 18. § (1) bekezdés b) pontja szerinti növelő tétel 90 százaléka és a külföldi telephelyhez a (4) bekezdés szerint hozzárendelhető költségek, ráfordítások összegéből a külföldi telephely bevételét meghaladó összeg közül a kisebbet.
 
-(6c) A (6a) bekezdés szerinti csökkentés a 7., 8. és 16/B. §-ban foglalt rendelkezésekre figyelemmel alkalmazandó.
+(6c) A (6a) bekezdés szerinti csökkentés a 7. §-ban, 8. §-ban és 16/B. § (1)–(6) bekezdésében foglalt rendelkezésekre figyelemmel alkalmazandó.
 
 (7) A csoportos társasági adóalany által fizetendő adó megállapításakor a (2)–(6) bekezdésben foglaltak a csoporttag által az adóévben megszerzett külföldön adóztatható jövedelemre, illetve a csoporttag által külföldön fizetett (fizetendő) adóra irányadóak. A csoporttag az általa külföldön fizetett (fizetendő) adó összegét feltünteti az adóbevallással egyenértékű nyilatkozatában.

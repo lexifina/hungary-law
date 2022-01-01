@@ -80,7 +80,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő tanuló, képzésben részt vevő személy;
 
-9.
+9. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, a Tbj. 4. § 17. pontja szerinti saját jogú nyugdíjas, valamint az említett magánszemélyek közeli hozzátartozója részére bármely módon biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár vásárlása, átadása, használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
 
 11. a tulajdonostárs által a társasházi közös tulajdonnal, a lakásszövetkezeti tulajdonnal kapcsolatos karbantartási és egyéb közös kiadásra (üzemeltetésre) elszámolt, tulajdoni hányaddal arányos költség; továbbá a lakásszövetkezetnél a cégbejegyzés előtt vállalt kötelezettség miatt felmerült költség, ráfordítás, feltéve, hogy az alapul szolgáló szerződést a közgyűlés utólag jóváhagyta;
 

@@ -90,3 +90,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2021-07-01 | 2021. évi LXXXV. törvény | 1996-81-00-00.135 |
 | 2021-07-10 | 2021. évi LXIX. törvény | 1996-81-00-00.136 |
 | 2021-07-13 | 2021. évi CI. törvény | 1996-81-00-00.137 |
+| 2022-01-01 | 2021. évi LXIX. törvény | 1996-81-00-00.138 |

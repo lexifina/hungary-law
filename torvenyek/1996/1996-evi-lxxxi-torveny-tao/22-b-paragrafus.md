@@ -20,9 +20,9 @@ h) a jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (
 
 i) jelenértéken legalább
 
-ia) 200 millió forint értékű, kisvállalkozás által,
+ia) 50 millió forint értékű, kisvállalkozás által,
 
-ib) 300 millió forint értékű, középvállalkozás által
+ib) 100 millió forint értékű, középvállalkozás által
 
 megvalósított beruházás,
 

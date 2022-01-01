@@ -6,7 +6,7 @@
 
 1/a. adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve hogy az nem jelent az e törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
 
-2. adózó: a 2. § (2)–(4), valamint (6) bekezdésében megnevezett belföldi és külföldi személy, a 2. § (5) bekezdésében meghatározottak kivételével;
+2. adózó: a 2. § (2)–(4), (6) és (7) bekezdése szerinti belföldi és külföldi személy, a 2. § (5) és (8) bekezdésében meghatározottak kivételével, továbbá a 2/A. §-ban meghatározott csoportos társasági adóalany;
 
 3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR-08) szerint azonosnak minősülő munkakör;
 
@@ -190,7 +190,7 @@ g) az a)–c) alpontban foglaltaktól függetlenül akkor is létrejön a kapcso
 
 ga) a 11. pont, az 53. pont, a 8. § (1) bekezdés f) pontja és a 16/A. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 25 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 25 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 25 százalékos nyereségrészesedés áll fenn, azzal, hogy ezen rendelkezések alkalmazásában az f) alpontban foglaltak teljesülését nem kell vizsgálni,
 
-gb) a 16/B. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 50 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 50 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 50 százalékos nyereségrészesedés áll fenn, azzal, hogy a szavazatijog-részesedések és a tőkerészesedések tekintetében az összehangoltan eljáró személyek befolyását egybe kell számítani, továbbá az összevont (konszolidált) pénzügyi beszámolót készítő vállalatcsoporthoz tartozó adózók esetében az f) alpontban foglaltakat is vizsgálni kell;
+gb) a 2. § (7) bekezdés és a 16/B. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 50 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 50 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 50 százalékos nyereségrészesedés áll fenn, azzal, hogy a szavazatijog-részesedések és a tőkerészesedések tekintetében az összehangoltan eljáró személyek befolyását egybe kell számítani, továbbá az összevont (konszolidált) pénzügyi beszámolót készítő vállalatcsoporthoz tartozó adózók esetében az f) alpontban foglaltakat is vizsgálni kell;
 
 23a. kedvezményezett átalakulás: az olyan átalakulás (a továbbiakban ideértve az egyesülést, a szétválást is), amelyben jogelődként és jogutódként is csak a 32/a. pont szerinti társaság vesz részt, ha
 
