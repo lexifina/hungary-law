@@ -1,6 +1,6 @@
 ### 83. § [A jogsérelem orvoslása közigazgatási eljárásban]
 
-(1) Ha a keresetlevélben állított jogsérelem orvoslása érdekében az arra jogosult közigazgatási szerv eljárást indít, erről haladéktalanul értesíti a bíróságot. A bíróság eljárását a közigazgatási eljárás befejezéséig felfüggeszti.
+(1) Ha a keresetlevél alapján a közigazgatási szerv a cselekményt visszavonja és eljárását folytatja, a cselekményt módosítja, illetve az állított jogsérelem orvoslása érdekében az arra jogosult közigazgatási szerv eljárást indít, erről a keresetlevél továbbításával egy időben vagy az eljárás során haladéktalanul értesíti a bíróságot. A bíróság eljárását a közigazgatási eljárás befejezéséig felfüggeszti.
 
 (2) Az (1) bekezdés szerinti közigazgatási eljárás megindításának ténye legkésőbb az első tárgyaláson, hivatalbóli vizsgálat vagy bizonyítás elrendelése esetén az elrendelés közlésétől számított tizenöt napon belül jelenthető be.
 

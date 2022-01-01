@@ -2,7 +2,11 @@
 
 (1) A védiratot – a 40. § (2) bekezdésében meghatározott kivétellel – a keresetlevél benyújtásától, illetve az alperessel való közlésétől számított harminc napon belül kell előterjeszteni.
 
-(2) Szünetelésnek a polgári perrendtartás szabályai szerint van helye, ha a felek azt közösen kérik. Az eljárás a kérelem bírósághoz érkezésétől kezdve szünetel.
+(2) A polgári perrendtartás szabályai szerint szünetel az eljárás, ha
+
+a) a felek erre vonatkozó megegyezésüket bejelentik, a bejelentésnek a bírósághoz történő beérkezésétől,
+
+b) a tárgyalást valamennyi fél elmulasztja, vagy a tárgyaláson megjelent egyik fél sem kívánja az ügy tárgyalását, és a mulasztó fél egyik esetben sem kérte a tárgyalás távollétében történő megtartását, a tárgyalás időpontjától.
 
 (3) A pertárgy értékének meghatározására a polgári perrendtartás szabályait kell alkalmazni. Közszolgálati jogviszonnyal kapcsolatos perben a pertárgy értékének meghatározására a polgári perrendtartás munkaügyi perekre vonatkozó szabályait is alkalmazni kell.
 

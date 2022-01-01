@@ -17,3 +17,7 @@ b) nem csatolta a meghatalmazását, vagy
 c) az általa képviselt fél elmulasztotta az eljárási illeték megfizetésére vonatkozó kötelezettség teljesítését.
 
 (6) Ha a felperes a keresetlevél hiányát a kitűzött határidő alatt pótolja, a keresetlevelet úgy kell tekinteni, mintha eredetileg is hiánytalanul adta volna be.
+
+(7) Ha a jogi képviselő nélkül eljáró természetes személy által előterjesztett keresetlevél nem tartalmazza a kötelező tartalmi elemeket vagy alaki kellékeket, a bíróságnak a hiánypótlásra felhívó végzésben a keresetlevél valamennyi hiányosságát fel kell tüntetnie, és a fél jogban való járatlanságához igazodó teljes körű tájékoztatást kell adnia a hiányok pótlására vonatkozóan.
+
+(8) Hiánypótlásra történő felhívás helyett a bíróság elrendelheti a természetes személy felperes meghallgatását, ha a keresetlevél hiányainak pótlása érdekében azt célravezetőbbnek tartja.
