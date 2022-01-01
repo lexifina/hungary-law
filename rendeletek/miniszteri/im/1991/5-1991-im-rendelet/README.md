@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-5-20-06
 | 2020-12-22 | 1991-5-20-06.26 | 16/2020. (XII. 21.) IM rendelet |
 | 2020-12-29 | 1991-5-20-06.27 | 42/2012. (IX. 14.) KIM rendelet |
 | 2021-09-23 | 1991-5-20-06.28 | 9/2021. (IX. 22.) IM rendelet |
+| 2022-01-01 | 1991-5-20-06.29 | 18/2021. (XII. 23.) IM rendelet |
