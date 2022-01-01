@@ -1,0 +1,1 @@
+## 18. § A 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 2. mellékletében foglalt táblázat C:5 és C:11 mezőjében a „családokért felelős tárca nélküli miniszter” szövegrész helyébe a „Miniszterelnökséget vezető miniszter” szöveg lép.
