@@ -1,3 +1,7 @@
-4. melléklet a 17/2021. (XII. 16.) MEKH rendelethez[^7]
+## „5. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez
 
-[^7]: A 4. melléklet a 4. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 20215Z20000017_3
+
+## ”
+
+4. melléklet a 17/2021. (XII. 16.) MEKH rendelethez
