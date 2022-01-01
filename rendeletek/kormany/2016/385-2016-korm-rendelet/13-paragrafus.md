@@ -1,11 +1,14 @@
+## 12/A. §[^34] A Kormány egészségügyi államigazgatási szervként az Országos Kórházi Főigazgatóságot jelöli ki az Eütv. 123. § (1) bekezdés b) pontja, valamint (3) bekezdése szerinti feladatok ellátására.
+
 ## 6. Hatósági eljárás, illetékesség
 
-13. § (1)[^33] Ha jogszabály eltérően nem rendelkezik, a népegészségügyi feladatkörbe tartozó közigazgatási hatósági ügyekben az eljárás a járási hivatal hatáskörébe tartozik.
+13. § (1)[^35] Ha jogszabály eltérően nem rendelkezik, a népegészségügyi feladatkörbe tartozó közigazgatási hatósági ügyekben az eljárás a járási hivatal hatáskörébe tartozik.
 
-(2)[^34]
+(2)[^36]
 
-(3)[^35] Az országos tisztifőorvos a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
+(3)[^37] Az országos tisztifőorvos a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
 
-[^33]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 161. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^34]: A 13. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^35]: A 13. § (3) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 70. §-a iktatta be.
+[^34]: A 12/A. §-t a 706/2021. (XII. 15.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^35]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 161. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^36]: A 13. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^37]: A 13. § (3) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 70. §-a iktatta be.
