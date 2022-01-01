@@ -1,1 +1,3 @@
-12. §
+12. § A Hvt. 45. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A honvédelemért felelős miniszternek a honvédelem és az egyes honvédelmi szervezetek irányításával összefüggő feladatait törvény, az e törvény végrehajtására kiadott kormányrendelet, valamint a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet határozza meg. A honvédelemért felelős miniszter nevében e hatáskörök gyakorlása során e törvény, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerint más személy eljárhat.”

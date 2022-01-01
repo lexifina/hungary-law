@@ -14,7 +14,7 @@ f)
 
 g)
 
-h)
+h) 46. § (3) bekezdésében a „kormányrendeletben” szövegrész helyébe „a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában” szöveg,
 
 i)
 
