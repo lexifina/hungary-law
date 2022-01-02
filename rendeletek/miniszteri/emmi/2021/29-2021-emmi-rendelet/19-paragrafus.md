@@ -1,10 +1,11 @@
-## 18. §[^20]
+## 18. §[^21]
 
 ## 19. § Hatályát veszti az R3.
 
-a)[^21]
+a)[^22]
 
-b) 18. § (14) bekezdésében az „orvos esetén orvosi bélyegzőjének számát vagy lenyomatát,” szövegrész.
+b)[^23]
 
-[^20]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 19. § a) pontja a 20. § (3) bekezdése alapján 2023. február 9-én lép hatályba.
+[^21]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 19. § a) pontja a 20. § (3) bekezdése alapján 2023. február 9-én lép hatályba.
+[^23]: A 19. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
