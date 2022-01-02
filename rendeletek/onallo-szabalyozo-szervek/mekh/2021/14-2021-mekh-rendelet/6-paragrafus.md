@@ -1,5 +1,3 @@
-## 5. § Az R. 31. § (1) bekezdése a következő d) ponttal egészül ki:
+## 5. §[^6]
 
-## [Csatlakozási alapdíjat nem fizet:]
-
-## „d) a csatlakozást igénylő a betáplálási teljesítményigény után.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

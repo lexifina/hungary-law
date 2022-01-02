@@ -1,9 +1,3 @@
-## lép.
+## 7. §[^8]
 
-## 8. § Hatályát veszti az R.
-
-a) 4. § (1) bekezdés a) pont ab) alpontja,
-
-b) 4. § (2) bekezdés b) pontja,
-
-c) 5. § a) pont ab) alpontja és b) pontja.
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
