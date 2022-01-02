@@ -1,3 +1,3 @@
-## 18. § Az igazságügyi szakértők statisztikai adatszolgáltatásáról, a kamarai költségátalány bevallásának és megfizetésének szabályairól, valamint az igazságügyi szakértő által vezetett adattovábbítási nyilvántartásról szóló 13/2016. (VI. 29.) IM rendelet (a továbbiakban: 13/2016. IM rendelet) 4. §-a a következő (3) bekezdéssel egészül ki:
+## 18. §[^17]
 
-## „(3) A (2) bekezdés szerinti készpénzbeli megfizetés esetén személyesen, illetve átutalás esetén annak megbízási közlemény rovatában az 1. melléklet 1. pont 1.1. alpontja, 1.2. alpontja, 2. pont 2.1. alpontja, 2.2. alpontja, valamint a 3. pont szerinti adatok vagy a 2. melléklet 1. pont 1.1. alpontja, 2. pont 2.1. alpontja, 2.2. alpontja, valamint a 3. pont szerinti adatok megadása szükséges.”
+[^17]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 19. § A 13/2016. IM rendelet 4. § (2) bekezdésében az „az ügyfélszolgálati ponton” szövegrész helyébe az „a Kamara Hivatalában” szöveg lép.
+## 19. §[^18]
+
+[^18]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
