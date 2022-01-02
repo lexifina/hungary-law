@@ -1,3 +1,1 @@
-48. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 84/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény az állami felsőoktatási intézménnyel azonos elv szerint jogosult támogatásra az általa fenntartott köznevelési intézményben ellátott köznevelési alapfeladatra és szakképző intézményben ellátott szakképzési alapfeladatra tekintettel. Az állami felsőoktatási intézmény ilyen támogatását a felsőoktatási intézmény költségvetésében elkülönítve kell megtervezni, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény esetében pedig közfeladat-finanszírozási szerződéssel kell azt biztosítani. A köznevelési, illetve a szakképzési tevékenységhez az egyedi feladatok támogatása körében további támogatás biztosítható.”
+48. §

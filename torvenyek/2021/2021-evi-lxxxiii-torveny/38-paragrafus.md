@@ -1,4 +1,4 @@
-38. § A szakképzésről szóló 2019. évi LXXX. törvény
+38. §
 
 1.
 
@@ -134,7 +134,7 @@
 
 67.
 
-68. 109. § címében a „szakképzéshez biztosított támogatás” szövegrész helyébe a „szakképzésialapfeladat-ellátás fedezete” szöveg,
+68.
 
 69.
 
@@ -171,5 +171,3 @@
 85.
 
 86.
-
-lép.

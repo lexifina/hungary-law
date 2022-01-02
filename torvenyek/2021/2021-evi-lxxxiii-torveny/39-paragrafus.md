@@ -1,4 +1,4 @@
-39. § Hatályát veszti a szakképzésről szóló 2019. évi LXXX. törvény
+39. §
 
 1.
 
@@ -32,7 +32,7 @@
 
 16.
 
-17. 23. alcíme,
+17.
 
 18.
 
@@ -40,7 +40,7 @@
 
 20.
 
-21. 24. alcím címe,
+21.
 
 22.
 
@@ -48,7 +48,7 @@
 
 24.
 
-25. 123. § (2) bekezdés 45. pontjában az „ , illetve a 128. § (5) bekezdése tekintetében szakképesítésenként, részszakképesítésenként alkalmazandó és az alapnormatíva képzési területenként” szövegrész,
+25.
 
 26.
 
@@ -60,6 +60,6 @@
 
 30.
 
-31. 128. § (5)–(5b) bekezdése,
+31.
 
 32.
