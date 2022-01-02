@@ -1,8 +1,8 @@
-18. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény
+18. §
 
 a)
 
-b) 18. § (4) bekezdésében az „a szakképzésről szóló törvényben” szövegrész helyébe az „az Szkt.-ban” szöveg,
+b)
 
 c)
 
@@ -39,5 +39,3 @@ r)
 s)
 
 t)
-
-lép.

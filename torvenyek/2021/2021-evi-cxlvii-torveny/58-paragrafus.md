@@ -1,5 +1,3 @@
 ## 22. A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény módosítása
 
-58. § A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény a következő 3/A. §-sal egészül ki:
-
-„3/A. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. alapján az Alapítvány vagyonkezelési tevékenységének, továbbá közfeladata ellátásának érdekében az 1/A. mellékletben meghatározott állami tulajdonban álló részesedések (a továbbiakban: részvények), az 1/B. mellékletben meghatározott állami tulajdonban álló befektetési jegyek (a továbbiakban: befektetési jegyek) az Alapítvány tulajdonába kerülnek, továbbá az 1/C. mellékletben meghatározott programvégrehajtási és -finanszírozási, valamint támogatási szerződések alapján fennálló jogok és kötelezettségek (a továbbiakban: jogok és kötelezettségek) az Alapítványra szállnak át. Az 1/C. mellékletben szereplő szerződések szerinti jogviszonyba a gazdaságpolitikáért felelős miniszter által vezetett minisztérium helyébe az Alapítvány lép.”
+58. §

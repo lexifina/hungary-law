@@ -1,3 +1,1 @@
-59. § A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény a következő 3/B. §-sal egészül ki:
-
-„3/B. § A részvényeknek és befektetési jegyeknek az Alapítvány tulajdonába kerülése, továbbá a jogok és kötelezettségek átszállása tekintetében az Alapítvány alapító okiratának módosításáról az alapítói jogok gyakorlója rendelkezik. A tulajdonba kerülés és a jogok és kötelezettségek átszállása vonatkozásában az állam képviseletében a miniszter jár el, aki jogosult az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.”
+59. §
