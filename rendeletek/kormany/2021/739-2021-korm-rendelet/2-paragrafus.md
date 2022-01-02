@@ -1,7 +1,3 @@
-## „c) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű, valamint az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatásnak minősül
+## 1. §[^2]
 
-## ca) a csoportos létszámleépítés hátrányos jogkövetkezményeinek enyhítését célzó támogatás,
-
-## cb) a helyközi utazás támogatása, valamint
-
-## cc) a munkaerőpiaci program részben történő megvalósításához nyújtott támogatás.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
