@@ -1,9 +1,7 @@
-73. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
+73. §
 
-a) 154. § (2) bekezdésében az „időpótlékból és hivatásos pótlékból tevődik” szövegrész helyébe az „időpótlékból, hivatásos pótlékból és a 170. § (4) bekezdés szerint megállapított kiegészítő juttatásból tevődik” szöveg,
+a)
 
-b) 170. § (4) bekezdésében a „kedvezményeket és” szövegrész helyébe a „kedvezményeket, juttatásokat és” szöveg,
+b)
 
 c)
-
-lép.
