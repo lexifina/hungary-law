@@ -1,7 +1,3 @@
-1. melléklet a 159/2021. (III. 31.) Korm. rendelethez
+1. melléklet a 159/2021. (III. 31.) Korm. rendelethez[^9]
 
-A Korm. rendelet 1. melléklet II. pontja a következő 5. alponttal egészül ki:
-
-(Rendvédelem)
-
-„5. a hivatásos katasztrófavédelmi szervnél alkalmazott Szolgálat Összeállító Szoftver”
+[^9]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
