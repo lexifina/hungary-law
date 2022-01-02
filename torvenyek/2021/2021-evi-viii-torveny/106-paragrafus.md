@@ -1,13 +1,1 @@
-106. § Nem lép hatályba a 2020. évi CLVIII. törvény
-
-a)
-
-b)
-
-c)
-
-d) 5. § (3) bekezdése,
-
-e)
-
-f)
+106. §
