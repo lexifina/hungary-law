@@ -1,1 +1,3 @@
-## „c) a továbbképző szervezet továbbképzési tevékenységével összefüggésben a továbbképző szervezet szakmai, különös tekintettel a pénzügyi, számviteli vagy adózási oktatási területen folytatott tevékenységének rövid bemutatását legfeljebb 9000 karakter terjedelemben, a továbbképzés lebonyolításához szükséges tárgyi, technikai feltételek és az oktatással kapcsolatos nyilvántartási rendszer leírását, a továbbképző szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírását, valamint a továbbképző szervezet (1) bekezdés a) pontja szerinti oktatóinak név szerinti felsorolását és szakmai, oktatási tevékenységük bemutatását,”
+## 12. §[^21]
+
+[^21]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

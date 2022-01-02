@@ -1,22 +1,30 @@
-## 9. §[^6]
+## 9. §[^10]
 
-## 10. § Az Eszkr.
+## 10. §[^11]
 
-1. 8. § (1) és (2) bekezdésében és (3) bekezdés b) pontjában az „(ár)bevételének” szövegrész helyébe a „bevételének” szöveg,
+1.[^12]
 
-2. 8. § (4) bekezdésében és 16. § (2) bekezdésében az „(ár)bevételi” szövegrész helyébe a „bevételi” szöveg, valamint az „(ár)bevételt” szövegrészek helyébe a „bevételt” szöveg,
+2.[^13]
 
-3.[^7]
+3.[^14]
 
-4. 9. § (6) és (7) bekezdésében az „(ár)bevétele” szövegrész helyébe a „bevétele” szöveg,
+4.[^15]
 
-5. 9. § (8) bekezdésében az „(ár)bevételeket” szövegrész helyébe a „bevételeket” szöveg,
+5.[^16]
 
-6. 9. § (9) bekezdésében az „(ár)bevételei” szövegrész helyébe a „bevételei” szöveg,
+6.[^17]
 
-7. 12. § (6) bekezdésében az „(ár)bevételnél” szövegrész helyébe a „bevételnél” szöveg,
+7.[^18]
 
-8. 15. § (2) bekezdésében és 16. § (1) bekezdésében az „(ár)bevétel” szövegrész helyébe a „bevétel” szöveg
+8.[^19]
 
-[^6]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 10. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 10. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 10. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 10. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 10. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 10. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 10. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 10. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
