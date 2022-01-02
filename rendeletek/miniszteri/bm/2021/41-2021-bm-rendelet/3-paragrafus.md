@@ -1,3 +1,3 @@
-## „(5a) A közös háztartásban élők egy főre jutó jövedelmét a dolgozó esetében a munkáltató által kiállított nettó jövedelemről szóló igazolás, a dolgozóval közös háztartásban élő személy esetében az adott munkáltató vagy illetménykifizető hely jövedelemigazolása alapján kell megállapítani. Az egy főre jutó jövedelmet kizárólag a hozzájárulás megítélésének időpontjában aktuális jövedelmi adatok figyelembevételével kell vizsgálni.
+## 2. §[^3]
 
-## (5b) Két vagy több dolgozó közös bérlete esetén az (5) bekezdés szerint adható hozzájárulás összegét a lízingszerződésben, bérleti szerződésben rögzített, az általuk külön-külön fizetett, egy főre eső bérleti díj összegéből kiindulva kell személyenként megállapítani. A belügyi szerv állományába nem tartozó személlyel közösen fenntartott bérlet esetén csak a dolgozóra eső bérleti díj hányadot lehet a kérelmen feltüntetni, illetve elbíráláskor figyelembe venni, kivéve, ha a dolgozó házastársa vagy okirattal igazolt élettársa a bérlőtárs.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
