@@ -1,5 +1,3 @@
-## 9. § A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 332/A. § (2) bekezdése a következő 17a. ponttal egészül ki:
+## 9. §[^9]
 
-## (A szakmaszorzó)
-
-## „17a. az oktatás ágazatba tartozó szakmák esetében 2,20,”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
