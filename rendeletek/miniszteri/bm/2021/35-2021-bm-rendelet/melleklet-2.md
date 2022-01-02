@@ -1,3 +1,3 @@
-2. melléklet a 35/2021. (X. 14.) BM rendelethez[^19]
+2. melléklet a 35/2021. (X. 14.) BM rendelethez[^21]
 
-[^19]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
