@@ -1,3 +1,3 @@
-27. §[^35]
+27. §[^38]
 
-[^35]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
