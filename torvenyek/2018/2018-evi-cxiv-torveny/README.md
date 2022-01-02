@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-114-00-00
 | 2021-01-02 | 2010. évi CXXX. törvény | 2018-114-00-00.9 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2018-114-00-00.10 |
 | 2022-01-01 | 2021. évi CXLI. törvény | 2018-114-00-00.11 |
+| 2022-01-02 | 2010. évi CXXX. törvény | 2018-114-00-00.12 |
