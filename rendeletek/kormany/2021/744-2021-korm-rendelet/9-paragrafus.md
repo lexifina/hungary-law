@@ -1,5 +1,5 @@
-## 8. § Az Sznyr. a következő 50/E. §-sal egészül ki:
-
-## „50/E. § Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 744/2021. (XII. 21.) Korm. rendelettel megállapított 19/A. § (6) bekezdését a 2021. évben kiadott szakhatósági állásfoglalásokra is alkalmazni kell.”
+## 8. §[^9]
 
 ## 4. A nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet módosítása
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

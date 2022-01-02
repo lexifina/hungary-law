@@ -1,3 +1,3 @@
-## 7. § Az Sznyr. 29. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(1) Adatmódosítás – a (2)–(4) bekezdésben meghatározott kivételekkel – támogatott lakhatás és gyermekvédelmi szolgáltató tevékenység esetén naptári hónaponként és engedélyesenként egyszer, egyéb szociális szolgáltatás és gyermekjóléti szolgáltató tevékenység esetén naptári negyedévenként és engedélyesenként egyszer kérelmezhető.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

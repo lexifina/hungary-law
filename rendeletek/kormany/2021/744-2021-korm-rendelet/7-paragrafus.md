@@ -1,1 +1,3 @@
-## „(6) A befogadás során kiadott előzetes szakhatósági hozzájárulás a kiadásának időpontjától számított két évig csatolható be az engedélyes bejegyzése és az adatmódosítás iránti kérelemhez.”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

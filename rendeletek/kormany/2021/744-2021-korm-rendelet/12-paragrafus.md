@@ -1,1 +1,3 @@
-## „nd) a nevelőszülő hány férőhely erejéig fogadhatja be átmeneti gondozásra a gondozásában lévő kiskorú szülő, valamint utógondozói ellátásban részesülő fiatal felnőtt gyermekét,”
+## 11. §[^12]
+
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
