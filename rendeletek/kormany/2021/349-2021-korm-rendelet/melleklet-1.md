@@ -1,4 +1,4 @@
-## 25. §[^8]
+## 25. §[^9]
 
 1. melléklet a 349/2021. (VI. 22.) Korm. rendelethez
 
@@ -72,4 +72,4 @@ beleértve például a gyorsételekhez vagy egyéb készételekhez használt ét
 
 5.9. Egészségügyi betétek (párnák), tamponok és tamponapplikátorok.
 
-[^8]: A 25. § a 19. § (8) bekezdése alapján 2029. december 31-én lép hatályba.
+[^9]: A 25. § a 19. § (8) bekezdése alapján 2029. december 31-én lép hatályba.
