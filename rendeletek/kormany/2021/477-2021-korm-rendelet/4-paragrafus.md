@@ -1,1 +1,0 @@
-## „70/B. § Az érkeztetési nyilvántartás 2021. évi érkeztetési adatait az egységes kormányzati ügyiratkezelő rendszert működtető szerv – mint e tekintetben az érkeztető rendszer működtetésével kapcsolatos feladatok ellátásáért felelős szerv jogutódja – 2022. december 31-ig tárolja.”
