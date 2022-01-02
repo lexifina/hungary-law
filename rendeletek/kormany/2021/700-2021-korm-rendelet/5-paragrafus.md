@@ -1,7 +1,3 @@
-## lép.
+## 4. §[^5]
 
-## 5. § Hatályát veszti a Korm. rendelet
-
-a) 12. § (7) bekezdése,
-
-b) 4. melléklet címében a „veszélyes” szövegrész.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
