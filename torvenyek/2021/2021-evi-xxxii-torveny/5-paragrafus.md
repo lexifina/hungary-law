@@ -11,3 +11,5 @@
 (4) A Hatóság felfüggeszti az eljárást, ha az előkérdés más szerv hatáskörébe tartozik, vagy az ügy a Hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
 (5) A Hatóság hatáskörébe tartozó ügyre vonatkozó kérelem kormányablaknál nem terjeszthető elő.
+
+(6) A Hatóság elnökének rendelete közérdeken alapuló kényszerítő indok alapján, meghatározott ügyekben kötelezővé teheti valamely okirat vagy más irat bizonyítási eszközként történő alkalmazását.
