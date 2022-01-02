@@ -1,15 +1,24 @@
-## 49. § A belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet
+## 48. §[^2]
 
-a) 1. § 12. pontjában a „felnőttképzési” szövegrész helyébe a „felnőttképző” szöveg és a „vett képzőintézmények) által” szövegrész helyébe a „vett képzőintézmények) vagy az Országgyűlési Őrség által” szöveg,
+## 49. §[^3]
 
-b) 3. § (1) bekezdés d) pontjában az „által” szövegrész helyébe a „vagy az Országgyűlési Őrség által” szöveg,
+a)[^4]
 
-c) 3. § (2) bekezdésében a „képzőintézmények által” szövegrész helyébe a „képzőintézmények vagy az Országgyűlési Őrség által” szöveg,
+b)[^5]
 
-d) 3. § (5) bekezdésében a „tagja is” szövegrész helyébe a „tagja, valamint az Országgyűlési Őrség hivatásos állományának tagja is” szöveg,
+c)[^6]
 
-e)[^1]
+d)[^7]
 
-f) 13. § (1) bekezdésében az „által” szövegrész helyébe a „vagy az Országgyűlési Őrség által” szöveg
+e)[^8]
 
-[^1]: A 49. § e) pontja a 37/2021. (X. 21.) BM rendelet 16. §-a alapján nem lép hatályba.
+f)[^9]
+
+[^2]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 49. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 49. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 49. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 49. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 49. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 49. § e) pontja a 37/2021. (X. 21.) BM rendelet 16. §-a alapján nem lép hatályba.
+[^9]: A 49. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

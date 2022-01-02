@@ -1,5 +1,3 @@
-## lép.
-
 1. melléklet a 26/2021. (VIII. 9.) BM rendelethez
 
 ## A rendfokozati vizsga követelményrendszere
