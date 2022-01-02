@@ -1,15 +1,1 @@
-87. § (1) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 49. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A föld haszonbérbe adása esetén a földre vonatkozó, és a haszonbérbeadó által elfogadott haszonbérleti ajánlatot egységes okiratba foglalt szerződésbe (a továbbiakban: haszonbérleti szerződés) kell foglalni, és azt a haszonbérbeadónak – az (1c) bekezdésben foglalt kivétellel – a felek aláírásától számított 8 napon belül a mezőgazdasági igazgatási szerv részére meg kell küldeni jóváhagyás céljából.”
-
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 49. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
-
-„(1a) Ha az 51. § (1) bekezdése szerinti előzetes vizsgálat eredményeként a mezőgazdasági igazgatási szerv megállapítja a szerződés közzétételre való alkalmasságát, – a 48. § (1) bekezdésében foglalt esetek kivételével – hivatalból elrendeli a szerződés közzétételét. A közzétételre való alkalmasság megállapítása nem jelenti a haszonbérleti szerződés hatósági jóváhagyását.
-
-(1b) A mezőgazdasági igazgatási szerv az (1a) bekezdés szerinti döntését közli a haszonbérbeadóval, a haszonbérleti szerződés szerinti haszonbérlővel, valamint a haszonbérleti szerződést megküldi a föld fekvése szerint illetékes települési önkormányzat jegyzőjének. A jegyző – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – hirdetményi úton közli a haszonbérleti szerződést az e törvényen, valamint más törvényen alapuló előhaszonbérleti jog jogosultjaival.
-
-(1c) Ha a haszonbérleti szerződés nem tartozik a mezőgazdasági igazgatási szerv jóváhagyásához kötött szerződések közé, a haszonbérleti szerződést a haszonbérbeadónak a felek aláírásától számított 8 napon belül a föld fekvése szerint illetékes települési önkormányzat jegyzője részére kell megküldeni. A jegyző – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – hirdetményi úton közli a haszonbérleti szerződést az e törvényen, valamint más törvényen vagy a megállapodáson alapuló előhaszonbérleti jog jogosultjaival.”
-
-(3) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 49. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az elfogadó jognyilatkozatot legalább teljes bizonyító erejű magánokiratba kell foglalni. Az elfogadó jognyilatkozatban meg kell jelölni az előhaszonbérleti jogosultság jogalapját, továbbá, ha az előhaszonbérleti jog törvényen alapul, akkor az elfogadó jognyilatkozatban azt is meg kell jelölni, hogy az előhaszonbérletre jogosult mely törvényen és az ott meghatározott sorrend melyik ranghelyén gyakorolja az előhaszonbérleti jogát. Az elfogadó jognyilatkozatnak tartalmaznia kell a 42. §-ban foglalt jogosultsági feltételként előírt nyilatkozatokat. Az elfogadó jognyilatkozathoz csatolni kell az előhaszonbérleti jogosultságot bizonyító okiratokat is, kivéve, amelyet jogszabállyal rendszeresített közhiteles nyilvántartás tartalmaz. A 46. § (3) bekezdésében meghatározott előhaszonbérletre jogosultak esetében az elfogadó jognyilatkozatnak tartalmaznia kell azt is, hogy a 46. § (3) bekezdés melyik pontjában (alpontjában) meghatározott célból gyakorolják az előhaszonbérleti jogukat.”
+87. §

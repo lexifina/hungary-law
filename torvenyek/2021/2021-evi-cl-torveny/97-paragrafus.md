@@ -1,7 +1,3 @@
-97. § (1) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény a következő 78. §-sal egészül ki:
-
-„78. § (1) E törvénynek az egyes agrártárgyú törvények módosításáról szóló 2021. évi CL. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a 2022. január 1. napján, vagy azt követően indult hatósági jóváhagyási eljárásban vagy ennek hiányában ingatlanügyi hatósági eljárásban, illetve az V. Fejezet alá tartozó eljárások esetén 2022. január 1-jét követően indított eljárásokban kell alkalmazni.
-
-(2) A 21. § (5) bekezdésének, a 49. § (4) bekezdésének és az 58. § (3a) és (3b) bekezdésének a Módtv.2. által megállapított rendelkezéseit a 2022. január 1-jén folyamatban lévő és a megismételt eljárásokban is alkalmazni kell.”
+97. § (1)
 
 (2)

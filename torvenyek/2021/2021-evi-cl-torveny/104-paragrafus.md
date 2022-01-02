@@ -1,3 +1,1 @@
-104. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 28. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A mezőgazdasági igazgatási szerv az általa kezelt (1) bekezdés szerinti adatokat az ingatlanügyi hatóság részére, továbbá az adásvételi szerződésnek az elővásárlásra jogosultakkal történő közlése érdekében a jegyző részére, valamint a 35. §-ban meghatározott módon, az (1) bekezdés szerinti adatok közül az ügyfél nevét vagy megnevezését, lakcímét vagy székhelyét és az állampolgárságra vonatkozó adatát, valamint kamarai tagsági azonosító számát a helyi földbizottság részére adhatja át.”
+104. §

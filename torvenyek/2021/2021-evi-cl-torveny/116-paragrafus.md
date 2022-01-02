@@ -1,3 +1,1 @@
-116. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 68/C. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Erdőgazdálkodási haszonbérleti szerződést az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott rendeletben meghatározott feltételeknek megfelelő erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás köthet, kivéve ha a haszonbérlő a tulajdonos közeli hozzátartozója, vagy olyan családi mezőgazdasági társaság, amelyben a tulajdonos tag.”
+116. §

@@ -1,3 +1,1 @@
-150. § A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 16. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az ellenérték megfizetését – annak összegétől függetlenül – bírósági letétbe helyezéssel kell teljesíteni az 5. § (2) bekezdése szerinti bizonytalan személyű tulajdonostárs, a tulajdonostárs ismeretlen örököse, valamint az 5. § (4) bekezdése szerinti értesítettnek tekintendő tulajdonostárs, továbbá azon tulajdonostárs részére, aki a teljesítéshez szükséges adatokat nem bocsátja a bekebelező tulajdonostárs rendelkezésére.”
+150. §
