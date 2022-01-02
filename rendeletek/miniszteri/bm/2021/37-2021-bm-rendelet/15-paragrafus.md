@@ -1,5 +1,5 @@
-## 14. §[^14]
+## 14. §[^15]
 
 ## 4. A rendvédelmi igazgatási alkalmazottak rendvédelmi igazgatási szolgálati jogviszonyával összefüggő egyes szabályokról szóló 4/2019. (III. 11.) BM rendelet módosítása
 
-[^14]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
