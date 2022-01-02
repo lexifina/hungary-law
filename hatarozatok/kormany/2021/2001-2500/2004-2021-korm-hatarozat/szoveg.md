@@ -22,4 +22,6 @@ e) gondoskodik a közösségi médiában történő kormányzati kapcsolattartá
 
 7. Ez a határozat 2022. január 1-jén lép hatályba.
 
-8. Hatályát veszti a hazai kommunikációért felelős kormánybiztos kinevezéséről és feladatairól szóló 1753/2019. (XII. 19.) Korm. határozat.
+8.[^2]
+
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
