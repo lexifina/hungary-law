@@ -1,11 +1,3 @@
-## 12. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet „Átmeneti rendelkezések” alcíme a következő 55/J. §-sal egészül ki:
+## 12. §[^13]
 
-## „55/J. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosításáról szóló 678/2021. (XII. 3.) Korm. rendelettel (a továbbiakban: 4. Módosító Rendelet) megállapított 4. § (1a) bekezdése nem alkalmazható a 2022. január 1-jét megelőzően benyújtott kérelmek alapján megindult közigazgatási hatósági eljárások során.
-
-## (2) A 4. Módosító Rendelettel megállapított 10. § (1) bekezdés a) pont al)–an) alpontja nem alkalmazható a 4. Módosító Rendelet hatálybalépését megelőzően megindult közigazgatási hatósági eljárások során.
-
-## (3) A 4. Módosító Rendelettel megállapított 24. §-t a folyamatban lévő ügyekben is alkalmazni kell.”
-
-13. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 17. számú melléklete helyébe az 1. melléklet lép.
-
-(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a 2. melléklet szerinti 25. számú melléklettel egészül ki.
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

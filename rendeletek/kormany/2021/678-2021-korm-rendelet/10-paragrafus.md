@@ -1,1 +1,3 @@
-## „(1a) A 30. § (1a) bekezdésében meghatározott engedély meglétét igazoló hatósági igazolványt a 17. számú melléklet szerint kell kiállítani.”
+## 9. §[^10]
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

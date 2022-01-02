@@ -1,7 +1,3 @@
-## lép.
+## 14. §[^15]
 
-## 15. § Hatályát veszti a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet
-
-a) 10. § (1) bekezdés a) pont aj) alpontjában a „valamint” szövegrész,
-
-b) 10. § (1) bekezdés a) pont ak) alpontjában a „továbbá” szövegrész.
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

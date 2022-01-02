@@ -1,1 +1,3 @@
-## „(1a) Ha az engedélyezési hatáskör az (1) bekezdés alapján nem állapítható meg, az ott meghatározott engedélyt az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve adja ki.”
+## 11. §[^12]
+
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
