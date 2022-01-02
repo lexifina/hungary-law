@@ -1,3 +1,0 @@
-## 2. § Az R. 3. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Ha a bejelentés az FMR. 3. § (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az FMR. 3. § (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor a Kincstár állásfoglalás céljából megkeresi a Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 18. § (1) bekezdésében meghatározott végrehajtásban közreműködő szervet, amelynek az esemény bekövetkeztére vonatkozó állásfoglalását a vis maior elismerésére vonatkozó döntés meghozatala során köteles figyelembe venni.”
