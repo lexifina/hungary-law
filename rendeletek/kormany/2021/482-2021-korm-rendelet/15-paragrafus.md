@@ -1,37 +1,42 @@
-## 14. §[^25]
+## 14. §[^28]
 
-15. § (1) Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
+15. § (1)[^29]
 
-1.[^26]
+1.[^30]
 
-2. 1. melléklete helyébe a 4. melléklet,
+2.[^31]
 
-3.[^27]
+3.[^32]
 
-4.[^28]
+4.[^33]
 
-5. 4. melléklete helyébe a 7. melléklet,
+5.[^34]
 
-6. 5. melléklete helyébe a 8. melléklet és
+6.[^35]
 
-7. 10. melléklete helyébe a 9. melléklet
+7.[^36]
 
-## lép.
+(2)[^37]
 
-(2) Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
+1.[^38]
 
-1.[^29]
+2.[^39]
 
-2. 15. melléklete a 11. melléklet,
+3.[^40]
 
-3.[^30]
+4.[^41]
 
-4.[^31]
-
-[^25]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 15. § (1) bekezdése 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 15. § (1) bekezdése 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 15. § (1) bekezdése 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 15. § (2) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 15. § (2) bekezdés 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 15. § (2) bekezdés 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 15. § (1) bekezdés nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 15. § (1) bekezdése 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 15. § (1) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 15. § (1) bekezdése 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 15. § (1) bekezdése 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 15. § (1) bekezdés 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 15. § (1) bekezdés 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 15. § (1) bekezdés 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 15. § (2) bekezdés nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 15. § (2) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 15. § (2) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 15. § (2) bekezdés 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 15. § (2) bekezdés 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
