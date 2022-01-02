@@ -1,7 +1,7 @@
 152. § Hatályát veszti az Szt.
 
-1. 25. § (7) bekezdés a) pontjában a „know-how,” szövegrész,
+1.
 
-2. 47. § (3) bekezdésében az „ellenérték arányában” szövegrész,
+2.
 
 3.

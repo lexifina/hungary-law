@@ -1,3 +1,1 @@
-145. § Az Szt. 33. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Aktív időbeli elhatárolásként lehet kimutatni – a 77. § (2) bekezdés d) pontja és (3) bekezdés b) pontja, valamint a rendeltetésszerűen használatba vett immateriális javakhoz, tárgyi eszközökhöz kapcsolódó 77. § (4) bekezdés b) pontja szerinti – jogszabályi előíráson, szerződésen, megállapodáson alapuló támogatások várható, még el nem számolt összegét az egyéb bevételekkel szemben, amennyiben a vállalkozó bizonyítani tudja, hogy teljesíteni fogja a támogatáshoz kapcsolódó feltételeket és valószínű, hogy a támogatást meg fogja kapni. Az aktív időbeli elhatárolást a kapott támogatás 77. § (2) bekezdés d) pontja, (3) bekezdés b) pontja és (4) bekezdés b) pontja szerinti elszámolásakor, illetve a támogatás meghiúsulásakor kell megszüntetni.”
+145. §

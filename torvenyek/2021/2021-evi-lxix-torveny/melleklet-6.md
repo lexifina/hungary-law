@@ -1,5 +1,1 @@
 6. melléklet a 2021. évi LXIX. törvényhez
-
-Az Art. 3. melléklet I. 4. pontja helyébe a következő rendelkezés lép:
-
-„4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót járulékot, egészségügyi szolgáltatási járulékot, az illetéket, a cégautóadót, a belföldi gépjárművek adóját, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautóadót és a belföldi gépjárművek adóját kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.”
