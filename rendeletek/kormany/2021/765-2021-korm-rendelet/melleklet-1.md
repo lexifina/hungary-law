@@ -1,11 +1,6 @@
-## 43. § Hatályát veszti az állami sportinformációs rendszerről szóló 166/2004. (V. 21.) Korm. rendelet.
+## 43. §[^8]
 
-1. melléklet a 765/2021. (XII. 23.) Korm. rendelethez
+1. melléklet a 765/2021. (XII. 23.) Korm. rendelethez[^9]
 
-A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet 3. mellékletében foglalt táblázat a következő 67. sorral egészül ki:
-
-| (A | B | C |
-
-| Sorszám | A rendszer elnevezése | A rendszer jellege) |
-
-| 67. | Nemzeti Sportinformációs Rendszer | szakrendszer |
+[^8]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
