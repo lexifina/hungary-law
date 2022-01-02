@@ -1,3 +1,3 @@
-## 7. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 115. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^7]
 
-## „(7) Ha a Rendőrség a határátkelőhelyen történő személyellenőrzés során megállapítja, hogy a harmadik országbeli állampolgárral szemben kizárólag az idegenrendészeti eljárásban a Magyar Állam által megtérítési kötelezettséggel megelőlegezett költség, a pénzbírság, a helyszíni bírság, illetve a vámigazgatási bírság meg nem fizetése miatt rendeltek el önálló beutazási és tartózkodási tilalmat, köteles a harmadik országbeli állampolgárt tájékoztatni arról, hogy a tartozását utólag, készpénzben is megfizetheti.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

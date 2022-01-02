@@ -1,4 +1,4 @@
-## 21. § A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló 2020. évi CLXII. törvény végrehajtásáról szóló 673/2020. (XII. 28.) Korm. rendelet 5. alcím címében a „rendje” szövegrész helyébe az „és adattovábbítás rendje” szöveg lép.
+## 21. §[^21]
 
 ## 12. Záró rendelkezések
 
@@ -9,3 +9,5 @@
 (3) A 9. alcím és a 2. melléklet 2022. június 7-én lép hatályba.
 
 (4) A 6. alcím 2023. január 1-jén lép hatályba.
+
+[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

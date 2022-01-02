@@ -1,1 +1,3 @@
-## „(4b) Idegenrendészeti kiutasítás a Tv. 43. § (2) bekezdés d) pontja alapján a nyomozó hatóságként eljáró rendvédelmi szerv, az Alkotmányvédelmi Hivatal, a Terrorelhárítási Központ javaslatára vagy a regionális igazgatóság által saját hatáskörben is elrendelhető.”
+## 6. §[^6]
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
