@@ -1,7 +1,3 @@
-## „3. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+4. melléklet a 662/2021. (XI. 30.) Korm. rendelethez[^9]
 
-## 20212220000662_3
-
-## ”
-
-4. melléklet a 662/2021. (XI. 30.) Korm. rendelethez
+[^9]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
