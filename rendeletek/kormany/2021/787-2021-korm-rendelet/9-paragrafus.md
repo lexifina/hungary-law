@@ -1,3 +1,3 @@
-## 8. § A Vet. vhr. 21/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^9]
 
-## „(1) A villamosenergia-kereskedő és az elosztó az elektronikus számlázást a felhasználó részére térítésmentesen biztosítja.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

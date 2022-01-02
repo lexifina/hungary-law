@@ -1,5 +1,3 @@
-## 24. § A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet (a továbbiakban Rendelet1.) 9. §-a helyébe a következő rendelkezés lép:
+25. §[^31]
 
-## „9. § (1) A saját ingatlanon építendő villamosmű, termelői vezeték, magánvezeték és közvetlen vezeték, és azok tartószerkezeten elhelyezett, valamint külső- és belső kezelőterű átalakító vagy kapcsoló berendezéseinek engedélyezési feltételei tekintetében – amennyiben egyszerűsített eljárás lefolytatásának helye nincs – az adott építmény idegen ingatlanon történő építési engedélyezésére vonatkozó előírások az irányadók.
-
-## (2) Ha a hálózati engedélyes az engedélyezés iránti kérelem benyújtásával egyidejűleg igazolja a tervezett építménnyel érintett, más személy tulajdonában álló ingatlan tekintetében a kisajátítási eljárásra vonatkozó kérelem benyújtását, az építési engedélyezési eljárás lefolytatható azzal, hogy az építési engedélynek az érintett ingatlanra vonatkozó rendelkezései a hálózati engedélyes javára szóló, az érintett ingatlanra vonatkozó kisajátítási határozat véglegessé válását követő napon lépnek hatályba.”
+[^31]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

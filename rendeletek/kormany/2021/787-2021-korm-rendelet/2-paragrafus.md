@@ -1,5 +1,3 @@
-## „25. független gazdasági szakértő: felsőfokú közgazdasági végzettséggel rendelkező szakértő, akinek személyes vagy vagyoni érdeke nem fűződik a kérelmezőhöz vagy a beruházáshoz;
+2. §[^2]
 
-## 26. független műszaki szakértő: felsőfokú műszaki végzettséggel rendelkező szakértő, akinek személyes vagy vagyoni érdeke nem fűződik a kérelmezőhöz vagy a beruházáshoz;
-
-## 27. indirekt mérés: kiegészítő készülékként mérőváltót tartalmazó fogyasztásmérő berendezéssel megvalósított mérés.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

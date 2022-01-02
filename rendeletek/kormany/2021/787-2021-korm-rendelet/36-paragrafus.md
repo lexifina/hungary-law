@@ -1,9 +1,3 @@
-## 36. § Hatályát veszti a KÁT-rendelet
+36. §[^46]
 
-a) 2. § (1) bekezdés c), l) és m) pontja,
-
-b) 6. § (2c) bekezdése,
-
-c) 11. § (15) bekezdése és
-
-d) 8. számú melléklete.
+[^46]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

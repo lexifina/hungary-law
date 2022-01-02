@@ -1,3 +1,3 @@
-## 14. § A Vet. vhr. 54. §-a a következő (3) bekezdéssel egészül ki:
+15. §[^15]
 
-## „(3) A VET 74. § (1) bekezdés a) és b), h)–j) és l) pontjában meghatározott engedély iránti kérelemhez csatolni kell az arra vonatkozó tájékoztatást, hogy a beruházás nemzetgazdasági szempontból kiemelt jelentőségű beruházás. Ha az engedély kérelem benyújtását követően nyilvánítják a beruházást nemzetgazdasági szempontból kiemelt jelentőségű beruházássá, akkor a nemzetgazdasági szempontból kiemelt jelentőségű beruházássá nyilvánítás hatálybalépését követő 3 munkanapon belül ki kell egészíteni a kérelmet az erre vonatkozó tájékoztatással.”
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

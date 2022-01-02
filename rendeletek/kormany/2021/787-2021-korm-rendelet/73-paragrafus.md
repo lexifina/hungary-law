@@ -1,5 +1,3 @@
-## 73. § Hatályát veszti a Metár-rendelet
+73. §[^86]
 
-a) 2. § (1) bekezdés 19. pontja és
-
-b) 20. § (1) bekezdés i) pontjában a „vagy” szövegrész.
+[^86]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 43. § A Rendelet2. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+44. §[^54]
 
-## „(1) A számlatulajdonos a kezelőrendszeren keresztül az érvényes származási garanciát átruházhatja vagy biztosítékul adhatja a másik számlatulajdonos részére.”
+[^54]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

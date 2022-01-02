@@ -1,5 +1,3 @@
-## 78. § Hatályát veszti a Rendelet5. 33. § (2) bekezdése.
-
 ## 10. Záró rendelkezések
 
 79. § (1) Ez a rendelet – a (2)–(5) bekezdésben foglalt kivétellel – 2022. január 1-jén lép hatályba.

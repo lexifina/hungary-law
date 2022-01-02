@@ -1,3 +1,3 @@
-58. §[^19]
+58. §[^69]
 
-[^19]: Az 58. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^69]: Az 58. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.

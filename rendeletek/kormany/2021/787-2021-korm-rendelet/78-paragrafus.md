@@ -1,1 +1,3 @@
-## 77. § Nem lép hatályba az energetikai tárgyú egyes kormányrendeletek módosításáról szóló 401/2020. (VIII. 17.) Korm. rendelet (a továbbiakban: Rendelet5.) 15. § a) pontja.
+78. §[^91]
+
+[^91]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

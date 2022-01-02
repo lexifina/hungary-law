@@ -1,17 +1,23 @@
 ## 22. § A Vet. vhr.
 
-a)[^3]
+a)[^22]
 
-b) 4. számú melléklete a 2. melléklet szerint módosul,
+b)[^23]
 
-c) 5. számú melléklete a 3. melléklet szerint módosul,
+c)[^24]
 
-d) 6. számú melléklete a 4. melléklet szerint módosul,
+d)[^25]
 
-e) 7. számú melléklete helyébe az 5. melléklet lép,
+e)[^26]
 
-f) 15. számú melléklete helyébe a 6. melléklet lép, és
+f)[^27]
 
-g) 22. számú melléklete helyébe a 7. melléklet lép.
+g)[^28]
 
-[^3]: A 22. § a) pontja a 79. § (4) bekezdése alapján 2022. április 30-án lép hatályba.
+[^22]: A 22. § a) pontja a 79. § (4) bekezdése alapján 2022. április 30-án lép hatályba.
+[^23]: A 22. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 22. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 22. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 22. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 22. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 22. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

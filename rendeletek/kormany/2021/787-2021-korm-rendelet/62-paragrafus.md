@@ -1,3 +1,3 @@
-62. §[^22]
+62. §[^73]
 
-[^22]: A 62. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^73]: A 62. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.

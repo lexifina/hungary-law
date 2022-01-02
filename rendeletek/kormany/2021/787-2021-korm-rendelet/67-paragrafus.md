@@ -1,5 +1,3 @@
-## 66. § A Metár-rendelet 20. § (1) bekezdése a következő k) ponttal egészül ki:
+67. §[^78]
 
-## (A kötelező átvételi rendszerben nem értékesíthet, illetve prémium típusú támogatást nem vehet igénybe az a termelő,)
-
-## „k) aki a 16. § (1) bekezdése szerinti, zöld prémium típusú támogatásra vonatkozó szerződést felmondja.”
+[^78]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
