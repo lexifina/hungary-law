@@ -1,5 +1,3 @@
-## 1. § A lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályairól, valamint az elkobzás végrehajtásáról szóló 11/2003. (V. 8.) IM–BM–PM együttes rendelet [a továbbiakban: 11/2003. (V. 8.) IM–BM–PM együttes rendelet] „Állat” című alcíme a következő 66/A. §-sal egészül ki:
+## 1. §[^2]
 
-## „66/A. § (1) Az új Be. 319. § (9) bekezdésében meghatározott ingyenes tulajdon-átruházáshoz való hozzájáruláshoz a hatóság olyan nyilatkozatot szerez be, amely az eljárási cselekményről készült jegyzőkönyvben vagy teljes bizonyítóerejű magánokiratban tartalmazza a jogosult azon nyilatkozatát, hogy a bűnjel tulajdonjogáról ingyenesen lemond bármely olyan személy javára, akire a hatóság azt átruházza. Ha a bűnjel egyedi tartós megjelöléssel vagy más egyedi azonosítóval rendelkezik, azt a nyilatkozatban fel kell tüntetni.
-
-## (2) A nyilatkozat beszerzését követően a hatóság a bűnjel tulajdonjogát az élőlény tartós gondozására képes személy részére ruházhatja át, amelyhez az állatok védelmével foglalkozó vagy az élőlény szakszerű kezelésének feltételeivel rendelkező gazdálkodó szervezet közreműködését is igénybe veheti.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
