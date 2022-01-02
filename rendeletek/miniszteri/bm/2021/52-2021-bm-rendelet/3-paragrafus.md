@@ -1,11 +1,3 @@
-## lép.
+## 2. §[^3]
 
-## 3. § Hatályát veszti a Rendelet 1. mellékletében foglalt táblázat
-
-a) 25. sora;
-
-b) 28–35. sora;
-
-c) 39–43. sora;
-
-d) 45–57. sora.
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
