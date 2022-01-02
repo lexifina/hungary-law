@@ -1,3 +1,5 @@
-## 9. § Az 578/2020. (XII. 14.) Korm. rendelet 1. melléklete a 2. melléklet szerint módosul.
+## 8–9. §[^5]
 
 ## 5. Záró rendelkezések
+
+[^5]: A 8–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
