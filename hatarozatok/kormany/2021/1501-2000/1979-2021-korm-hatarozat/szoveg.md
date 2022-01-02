@@ -90,10 +90,12 @@ Határidő: 2022. május 31.
 
 6.[^3]
 
-7. Az 1368/2021. (VI. 10.) Korm. határozat 1. pont 1.4. alpontjában az „évi 6,7%-os mértéket” szövegrész helyébe az „évi 8,5%-os mértéket” szöveg lép.
+7.[^4]
 
-8. A Széchenyi Mikrohitel Konstrukcióról szóló 1483/2021. (VII. 16.) Korm. határozat 3. pontjában a „9,5%-os mértéket” szövegrész helyébe a „10,5%-os mértéket” szöveg lép.
+8.[^5]
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
