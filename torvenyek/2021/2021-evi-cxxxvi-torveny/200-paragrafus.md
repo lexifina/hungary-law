@@ -1,3 +1,1 @@
-200. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény IV. Fejezete a következő 23/B. §-sal egészül ki:
-
-„23/B. § A Hatóság a 17. § (1) bekezdése szerinti céljával összefüggésben a dohánytermék-kiskereskedelmi piac folyamatos és teljes körű hatósági felügyeletéhez a 10. § (1) bekezdés alapján kijelölt személyek listáját, illetve a Hatóság elnökének rendeletében meghatározott – személyes adatnak nem minősülő – további adatokat a Hatóság elnökének rendeletében meghatározott módon és rendszerességgel továbbítja az állami adó- és vámhatóság részére.”
+200. §
