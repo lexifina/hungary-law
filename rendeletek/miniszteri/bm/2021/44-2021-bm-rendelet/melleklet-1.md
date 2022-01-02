@@ -1,4 +1,4 @@
-## 3. § Hatályát veszti a települések katasztrófavédelmi besorolásáról, valamint a katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendelet módosításáról szóló 61/2012. (XII. 11.) BM rendelet.
+## 3. §[^1]
 
 1. melléklet a 44/2021. (XII. 16.) BM rendelethez
 
@@ -6095,3 +6095,5 @@
 | 49 | Vaszar | III. |
 
 | 50 | Vinár | III. |
+
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
