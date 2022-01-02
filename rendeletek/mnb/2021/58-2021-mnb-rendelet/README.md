@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-58-20-2
 | 2021-11-25 | 2021-58-20-2C.1 | 58/2021. (XI. 24.) MNB rendelet |
 | 2021-11-26 | 2021-58-20-2C.2 | 2010: CXXX. törvény |
 | 2022-01-01 | 2021-58-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-01-02 | 2021-58-20-2C.4 | 2010: CXXX. törvény |
