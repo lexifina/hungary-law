@@ -332,6 +332,6 @@
 
 | 7 | Z07 | Anonimizált konszolidált biztosított betéti adatok | Országos Betétbiztosítási Alap | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^3]
+2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^4]
 
-[^3]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a szerint módosított szöveg. A 2. melléklet E24, K04 és P76 MNB azonosító kódú adatszolgáltatáshoz kapcsolódó, a 2. melléklet II. pontjában foglalt táblák és kitöltési előírások a 2. § (2) bekezdése alapján 2022. április 1-jén lépnek hatályba.
+[^4]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a szerint módosított szöveg. A 2. melléklet E24, K04 és P76 MNB azonosító kódú adatszolgáltatáshoz kapcsolódó, a 2. melléklet II. pontjában foglalt táblák és kitöltési előírások a 2. § (2) bekezdése alapján 2022. április 1-jén lépnek hatályba.
