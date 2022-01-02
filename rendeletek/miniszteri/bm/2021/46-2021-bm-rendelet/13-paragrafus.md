@@ -1,15 +1,3 @@
-## 12. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet [a továbbiakban: 33/2015. (VI. 16.) BM rendelet] 4. alcíme a következő 9/D. §-sal egészül ki:
+## 12. §[^12]
 
-## „9/D. § (1) A hivatásos állomány tagja a 9/A. § (1) bekezdése szerinti teljesítményjuttatásra a Hszt. 158. § (3a) bekezdésében foglaltak alapján akkor is jogosult, ha szolgálati viszonya a kifizetési évben, de a tárgyévre vonatkozó teljesítményjuttatás megállapítását megelőzően szűnik meg.
-
-## (2) Ha a 9/A. § (2) bekezdése szerint a munkáltatói jogkör gyakorlójának döntése alapján, az előző évi egyéni teljesítményértékelés során a jó teljesítményfokozattal értékelt teljesítményjuttatásban részesíthető, akkor a teljesítményértékeléssel érintett a Hszt. 158. § (3a) bekezdésében foglaltak alapján a teljesítményjuttatásra akkor is jogosult, ha szolgálati viszonya a kifizetési évben, de a tárgyévre vonatkozó teljesítményjuttatás megállapítását megelőzően szűnik meg.
-
-## (3) Az (1) és (2) bekezdésben foglalt esetben a teljesítményértékelés eredményének megállapításakor a szervezeti teljesítményértékelést abban az esetben kell figyelembe venni, ha az rendelkezésre áll.
-
-## (4) Ha a teljesítményértékelés eredményének megállapításakor a szervezeti teljesítményértékelés nem áll rendelkezésre, akkor a belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai teljesítményértékelésének ajánlott elemeiről, az ajánlott elemek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.) BM rendelet szerinti szervezeti teljesítményértékelés eredményeként megállapított teljesítményszint helyett a végrehajtott teljesítményértékelés során a szervezeti teljesítmény értékét – súlyszám hiányában – egyenlő arányban el kell osztani a munkaköri egyéni teljesítménykövetelmények és a kompetencia alapú munkamagatartás értékelése között.
-
-## (5) A hivatásos állomány tagját e § szerint megillető teljesítményjuttatás összegét – a (3) és (4) bekezdésben foglaltak figyelembevételével – a rendvédelmi szerv szervezeti egységére vonatkozó előző évi átlagértékei alapján kell megállapítani.
-
-## (6) A Hszt. 158. § (3a) bekezdése szerinti tárgyévre szóló teljesítményjuttatás összegéről az állományilletékes parancsnok, illetve ha a hivatásos állomány tagja – a Nemzeti Közszolgálati Egyetem kivételével – valamely, a rendvédelmi szerven kívüli szervnél teljesíti szolgálatát, a vezénylés helye szerinti fogadó szerv munkáltatói jogkört gyakorló vezetője a szolgálatteljesítés utolsó napjáig kiadott munkáltatói intézkedésben rendelkezik.
-
-## (7) A hivatásos állomány tagjának teljesítményjuttatását megállapító állományparancsot a humánigazgatási szerv küldi meg a gazdasági szerv részére, amely gondoskodik a teljesítményjuttatás Hszt. 99. § (1) bekezdése szerinti időpontban történő folyósításáról.”
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
