@@ -1,3 +1,3 @@
-## 1. § A polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló 130/2011. (VII. 18.) Korm. rendelet 2. §-a a következő (1a) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(1a) A Szolgálatok a költségvetés végrehajtásával kapcsolatos feladataikat a Kincstár által működtetett Központi Költségvetés Végrehajtását Támogató Rendszer útján látják el.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

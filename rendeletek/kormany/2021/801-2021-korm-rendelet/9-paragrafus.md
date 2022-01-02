@@ -1,1 +1,3 @@
-## „(3) A Kincstár a működési előirányzatokra jutó központi támogatás január havi keretét – a honvédelemért felelős miniszter által vezetett minisztérium és az általa irányított költségvetési szervek, valamint a polgári nemzetbiztonsági szolgálatok és a Katonai Nemzetbiztonsági Szolgálat kivételével – a személyi juttatások 1/12-ének 35%-ával és a munkaadókat terhelő járulékok és szociális hozzájárulási adó 1/12-ével csökkenti. A Kincstár ettől a fejezetet irányító szerv kérelmére eltérést engedélyezhet.”
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

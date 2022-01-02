@@ -1,3 +1,3 @@
-## „(3) A Kincstár által végzett köztartozás-vizsgálatnál a költségvetési támogatások kifizetésére irányuló átutalási megbízásokhoz kapcsolódó kiegészítő szelvényeken a Kincstár által meghatározott jelölést kell alkalmazni. Az átutalási megbízás ilyen esetben csoportos megbízásként nem nyújtható be.
+## 5. §[^6]
 
-## (4) A költségvetési támogatás visszatartásáról a Kincstár tájékoztatja a támogatót. A kedvezményezett tájékoztatásáról a támogató gondoskodik. A visszatartás a kedvezményezett – a költségvetési támogatás megszerzése érdekében vállalt – kötelezettségeit nem érinti.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
