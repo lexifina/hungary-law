@@ -1,11 +1,11 @@
-## 30. §[^106]
+## 30. §[^97]
 
 ## 17. Az egyes kormányrendeleteknek a nyilvántartásokhoz kapcsolódó eljárások egyszerűsítése és elektronizálása érdekében szükséges módosításáról szóló 572/2020. (XII. 9.) Korm. rendelet módosítása
 
-31. § (1)[^107]
+31. § (1)[^98]
 
-(2)[^108]
+(2)[^99]
 
-[^106]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^107]: A 31. § (1) bekezdése a 33. § (6) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^108]: A 31. § (2) bekezdése a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 31. § (1) bekezdése a 33. § (6) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^99]: A 31. § (2) bekezdése a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

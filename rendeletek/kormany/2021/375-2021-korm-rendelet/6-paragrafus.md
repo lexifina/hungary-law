@@ -1,20 +1,20 @@
-## 5. §[^27]
+## 5. §[^11]
 
 ## 3. A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet módosítása
 
-6. § (1)[^28]
+6. § (1)[^12]
 
-(2)[^29]
+(2)[^13]
 
-(3)[^30]
+(3)[^14]
 
-(4)[^31]
+(4)[^15]
 
-(5)[^32]
+(5)[^16]
 
-[^27]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 6. § (1) bekezdése a 33. § (6) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^29]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 6. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 6. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 6. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 6. § (1) bekezdése a 33. § (6) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^13]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 6. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 6. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 6. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
