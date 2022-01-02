@@ -1,3 +1,1 @@
-7. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 29. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A 27. § (1) és (2) bekezdése szerinti ellátások költségeinek megtérítése iránti kérelem elbírálására a 61. § rendelkezéseit kell alkalmazni. A 27. § (3) bekezdése szerinti ellátások költségeinek utólagos megtérítésére vonatkozó igény az ellátás igénybevételétől számított hat hónapon belül érvényesíthető. A 27. § (6) bekezdése szerinti ellátások költségeinek megtérítése iránti igény a külföldi gyógykezelés befejezésétől számított harminc napon túl nem érvényesíthető.”
+7. §
