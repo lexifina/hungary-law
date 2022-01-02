@@ -12,7 +12,7 @@
 
 ## 7. Ez a határozat 2022. január 1-jén lép hatályba.
 
-## 8. Hatályát veszti a 2021. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1898/2020. (XII. 14.) Korm. határozat.
+## 8.[^1]
 
 1. melléklet az 1880/2021. (XII. 7.) Korm. határozathoz
 
@@ -345,3 +345,5 @@
 | 27. | EU 2022. évi Gyakorlat Programban szereplő rendezvényeken részt vevő erők áthaladása | I–IV. negyedév | egyidejűleg legfeljebb 500 fő |
 
 | 28. | Az Európában Települő Amerikai Erők Parancsnoksága által 2022 évben végrehajtásra tervezett gyakorlatokon részt vevő erők áthaladása | I–IV. negyedév | egyidejűleg legfeljebb 1000 fő |
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
