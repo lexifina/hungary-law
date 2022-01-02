@@ -1,5 +1,3 @@
-## álláspontjának figyelembevételével jár el.
-
 2. § (1) Ha az állam a Nemzeti Földalapba kerülő földrészletet örököl, akkor a hagyatéki tartozásokkal kapcsolatban az örököst terhelő kötelezettségek teljesítésének elősegítése érdekében a földrészlet feletti tulajdonosi jogokat gyakorló az MVH-val és az MNV Zrt.-vel megkötött külön megállapodásban foglaltak szerint félévente – minden év január 31. és július 31. napjáig – adatot szolgáltat az MVH-nak és MNV Zrt.-nek az öröklés jogcímén az állam tulajdonába került földrészlet hasznosításából származó bevételekről.
 
 (2) Ha az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 42/A. § (1) bekezdés a) pontja alapján a hagyatékba tartozó valamely vagyonelem felett – a 42/B. § (2) bekezdése szerinti átadást követően – az MNV Zrt. gyakorolja a tulajdonosi jogokat, az MNV Zrt. az MVH-val megkötött külön megállapodásban foglaltak szerint félévente – minden év január 31. és július 31. napjáig – adatot szolgáltat az MVH-nak az érintett vagyonelemek hasznosításából és átruházásából származó bevételekről.
