@@ -1,7 +1,3 @@
-## Az R1. 2. számú melléklet „A járóbeteg-szakellátás tevékenységi kódjai” megjelölésű része a „42120” megjelölésű sort követően a következő sorral egészül ki:
+2. melléklet az 51/2021. (XII. 10.) EMMI rendelethez[^6]
 
-| (Kód | Index | Tevékenység megnevezése | Pont) |
-
-| 42121 | 29/c | Cisztás fibrózis szűrés | 1500 |
-
-2. melléklet az 51/2021. (XII. 10.) EMMI rendelethez
+[^6]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
