@@ -1,7 +1,3 @@
-## 4. § Az R1. 63. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „(2) A hitelintézet az e § szerinti adatszolgáltatási kötelezettségét az eAdaton található útmutató szerinti formában teljesíti havonta egy alkalommal, az alábbiak szerint:
-
-## a) a tárgyhónapot követő hónap 10. napjáig a tárgyhónapot megelőző hónapban megkötött családi otthonteremtési kedvezmény és a 69. § (1) bekezdése szerinti adó-visszatérítési támogatás igénybevételére vonatkozó támogatási szerződések, valamint az e bekezdés szerint korábbiakban bejelentett támogatási szerződések módosításának adatait, és
-
-## b) a családi otthonteremtési kedvezmény igénybevételére vonatkozó támogatási szerződések a) pont szerinti kincstári befogadását követő hónap 10. napjáig az ahhoz kapcsolódó többgyermekes családok otthonteremtési kamattámogatása, valamint a 69. § (1a) bekezdése szerinti adó-visszatérítési támogatás igénybevételére vonatkozó támogatási szerződések adatait.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
