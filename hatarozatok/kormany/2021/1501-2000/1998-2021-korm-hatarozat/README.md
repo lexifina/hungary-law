@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1998-30
 | --- | --- | --- |
 | 2021-12-29 | 2021-1998-30-22.1 | 1998/2021. (XII. 28.) Korm. határozat |
 | 2022-01-01 | 2021-1998-30-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-01-02 | 2021-1998-30-22.3 | 2010: CXXX. törvény |

@@ -20,4 +20,6 @@ Határidő: az e kormányhatározat közzétételét követő 30 napon belül
 
 3. A 4. pont 2022. január 1-jén lép hatályba.
 
-4. A Kormány visszavonja a COVID–19 vakcina Szlovén Köztársaság részére adásvétellel történő értékesítéséről szóló 1660/2021. (IX. 28.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
