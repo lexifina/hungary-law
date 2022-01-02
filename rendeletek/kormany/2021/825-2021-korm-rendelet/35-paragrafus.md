@@ -1,3 +1,5 @@
-## 34. § Az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos nemzeti jelentés tartalmáról és elkészítésének módjáról, az adatszolgáltatás rendjéről, illetve az adatszolgáltatási kötelezettség megszegése esetén fizetendő bírságról szóló 278/2014. (XI. 14.) Korm. rendelet 1. mellékletében foglalt táblázat A:14, A:15, A:16, A:17, A:18 és A:19 mezőjében a „Magyar Bányászati és Földtani Szolgálat” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága” szöveg lép.
+## 34. §[^34]
 
 ## 23. A környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet módosítása
+
+[^34]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

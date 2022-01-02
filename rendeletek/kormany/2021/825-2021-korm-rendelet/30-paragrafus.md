@@ -1,3 +1,5 @@
-## 29. § Hatályát veszti az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 6. melléklet III. táblázat 12. sora.
+## 29. §[^29]
 
 ## 18. Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet módosítása
+
+[^29]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

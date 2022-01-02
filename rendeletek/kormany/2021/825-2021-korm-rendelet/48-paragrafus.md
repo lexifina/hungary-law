@@ -1,3 +1,5 @@
-## 47. § Hatályát veszti a hulladékgazdálkodási hatóság kijelöléséről szóló 124/2021. (III. 12.) Korm. rendelet 2. mellékletében foglalt táblázat 4. sora.
+## 47. §[^47]
 
 ## 32. A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet módosítása
+
+[^47]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

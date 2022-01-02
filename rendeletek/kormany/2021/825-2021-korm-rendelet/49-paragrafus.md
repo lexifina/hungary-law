@@ -1,23 +1,25 @@
-## 48. § A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet 10. mellékletében foglalt táblázat B:89, B:90 és B:92 mezőjében a „Magyar Bányászati és Földtani Szolgálat” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága” szöveg lép.
+## 48. §[^48]
 
 ## 33. Hatályon kívül helyező rendelkezések
 
 ## 49. § Hatályát veszti
 
-a)[^1]
+a)[^49]
 
-b)[^2]
+b)[^50]
 
-c)[^3]
+c)[^51]
 
-d)[^4]
+d)[^52]
 
-e)[^5]
+e)[^53]
 
-f) a Magyar Bányászati és Földtani Szolgálatról szóló 161/2017. (VI. 28.) Korm. rendelet.
+f)[^54]
 
-[^1]: A 49. § a) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
-[^2]: A 49. § b) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
-[^3]: A 49. § c) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
-[^4]: A 49. § d) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
-[^5]: A 49. § e) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^48]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 49. § a) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^50]: A 49. § b) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^51]: A 49. § c) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^52]: A 49. § d) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^53]: A 49. § e) pontja az 50. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^54]: A 49. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

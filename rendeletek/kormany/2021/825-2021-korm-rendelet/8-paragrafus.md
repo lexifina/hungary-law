@@ -1,3 +1,3 @@
-## 7. § A Bt. vhr 17. §-a a következő (5) bekezdéssel egészül ki:
+## 7. §[^7]
 
-## „(5) A Bt. 30. § (7) bekezdése szerinti elmaradt bányajáradék pótlására vonatkozó összeget a felmerülésének időpontját követő 15 napon belül kell megfizetni.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 5. § A Bt. vhr. 11/A. § (2) bekezdése a következő d) ponttal egészül ki:
+## 5. §[^5]
 
-## (A bányatelek megállapítására irányuló kérelem tartalmazza:)
-
-## „d) az ingatlan bányatelekkel érintett részét ábrázoló, közigazgatási határonként egy vagy több ingatlant is tartalmazó, az ingatlanügyi hatóság által záradékolt változási vázrajzot, ha a megállapítani kért bányatelek nem egész ingatlant érint;”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
