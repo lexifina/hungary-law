@@ -1,3 +1,3 @@
-## „(5) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgát a jelentkező által megjelölt megyei (fővárosi) rendőr-főkapitányságon vagy – a (2) bekezdés b) pontja szerinti megjelölés hiányában – a jelentkezés helye szerinti megyei (fővárosi) rendőr-főkapitányságon kell letenni.
+## 1. §[^1]
 
-## (6) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára az a jelentkező bocsátható, aki a vizsgadíj befizetésének a megtörténtét a vizsga helyszínén és időpontjában hitelt érdemlően igazolta.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
