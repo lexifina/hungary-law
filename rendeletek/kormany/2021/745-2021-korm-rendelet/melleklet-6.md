@@ -1,7 +1,3 @@
-## A 429/2017. Korm. rendelet 1. melléklet 1. pontja a következő d) ponttal egészül ki:
+6. melléklet a 745/2021. (XII. 21.) Korm. rendelethez[^28]
 
-## (Az elektronikus anyakönyvbe bejegyzésre jogosult anyakönyvvezető és anyakönyvi szerv kormánytisztviselőjének hivatali felszerelése)
-
-## „d) UV lámpa.”
-
-6. melléklet a 745/2021. (XII. 21.) Korm. rendelethez
+[^28]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

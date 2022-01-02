@@ -1,3 +1,3 @@
-## 6. §[^5]
+## 6. §[^13]
 
-[^5]: A 6. § a 14. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^13]: A 6. § a 14. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.

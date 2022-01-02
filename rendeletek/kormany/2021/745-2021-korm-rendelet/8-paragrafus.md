@@ -1,11 +1,14 @@
-## 7. § A 174/2017. (VI. 30.) Korm. rendelet 7. § (2) bekezdésében a „vagy anyakönyvi szervnél” szövegrész helyébe a „vagy a kijelölt anyakönyvi szervnél” szöveg lép.
+## 7. §[^14]
 
 ## 8. § Hatályát veszti a 174/2017. (VI. 30.) Korm. rendelet
 
-a) 1. § (3) és (4) bekezdése,
+a)[^15]
 
-b) 4. § (1) bekezdés d) pontja,
+b)[^16]
 
-c)[^6]
+c)[^17]
 
-[^6]: A 8. § c) pontja a 14. § (3) bekezdése alapján 2022. június 1-jén lép hatályba.
+[^14]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 8. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 8. § c) pontja a 14. § (3) bekezdése alapján 2022. június 1-jén lép hatályba.
