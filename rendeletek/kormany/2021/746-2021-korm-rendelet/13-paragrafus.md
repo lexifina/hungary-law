@@ -1,10 +1,12 @@
-## 13. § Hatályát veszti a 423/2012. (XII. 29.) Korm. rendelet
+## 13. §[^15]
 
-a) 2. melléklet 1. pont záró szövegrésze,
+a)[^16]
 
-b)[^13]
+b)[^17]
 
-c)[^14]
+c)[^18]
 
-[^13]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
