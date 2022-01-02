@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-730-20-
 | --- | --- | --- |
 | 2021-12-21 | 2021-730-20-22.1 | 730/2021. (XII. 20.) Korm. rendelet |
 | 2022-01-01 | 2021-730-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-01-02 | 2021-730-20-22.3 | 542/2022. (XII. 22.) Korm. rendelet |
