@@ -1,5 +1,3 @@
-## 1. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet [a továbbiakban: 256/2013. (VII. 5.) Korm. rendelet] 3. §-a a következő (1b) és (1c) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(1b) Az Eszjtv. hatálya alá tartozó fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál foglalkoztatott, Eszjtv. 8. § (3) bekezdése szerinti egészségügyi dolgozókra tekintettel az ügyelet, készenlét, önként vállalt túlmunka és műszakpótlék biztosításához járó támogatás összege nem haladhatja meg az országos kórház-főigazgató által megállapított összeget.
-
-## (1c) Az Eszjtv. hatálya alá tartozó fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szakdolgozókra tekintettel a sürgősségi betegellátási műszakpótlék biztosításához járó támogatás összege nem haladhatja meg az országos kórház-főigazgató által megállapított összeget.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
