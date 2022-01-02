@@ -1,3 +1,6 @@
-## lép.
+## 10. §[^1]
 
-11. § Hatályát veszti a nemzeti emlékhelyek használati rendjéről szóló 302/2011. (XII. 23.) Korm. rendelet.
+11. §[^2]
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
