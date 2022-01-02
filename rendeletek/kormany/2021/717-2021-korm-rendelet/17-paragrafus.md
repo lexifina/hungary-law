@@ -1,27 +1,14 @@
-## „70. § (1) Az elektronikus ügyintézési ponton 2022. december 31-ig benyújtott kérelem esetében az állandó személyazonosító igazolványon
+## 17. §
 
-## a) a név nemzetiségi nyelven,
+a)[^48]
 
-## b) származási hely vagy
+b)[^49]
 
-## c) vészhelyzet esetén értesítendő telefonszám
+c)[^50]
 
-## feltüntetésére nincs lehetőség.
+d)[^51]
 
-## (2) Az elektronikus ügyintézési ponton 2022. december 31-ig benyújtott kérelem esetében a kérelem – a 11. § (3) bekezdésében megjelölteken túl – az 1. melléklet 9a. és 24. pontja szerinti adatokat sem tartalmazza.
-
-## (3) 2022. december 31-ig az elektronikus ügyintézési ponton nem igényelhető az Nytv. 29/E. § (2) bekezdése szerinti állandó személyazonosító igazolvány.”
-
-## 17. § A 414/2015. (XII. 23.) Korm. rendelet
-
-a) 21. § (3) bekezdésében az „ezt igazolnia szükséges” szövegrész helyébe az „ezt – az elektronikus ügyintézési ponton állandó személyazonosító igazolvány kiadása céljából előterjesztett kérelem kivételével – igazolnia szükséges” szöveg,
-
-b)[^34]
-
-c)[^35]
-
-d)[^36]
-
-[^34]: A 17. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A 17. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: A 17. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 17. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 17. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 17. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 17. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

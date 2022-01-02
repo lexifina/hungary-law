@@ -1,1 +1,3 @@
-## 31. § Nem lép hatályba az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szükséges kormányrendeletek módosításáról szóló 375/2021. (VI. 30.) Korm. rendelet [a továbbiakban: 375/2021. (VI. 30.) Korm. rendelet] 11. § (1), (3), (4) és (6) bekezdése.
+## 31. §[^86]
+
+[^86]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

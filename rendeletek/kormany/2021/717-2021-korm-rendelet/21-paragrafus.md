@@ -1,1 +1,0 @@
-## „155/C. § Az E-ügyintézési tv. 42/B. §-ában foglaltakat 2023. január 31-ig a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés a) és b) pontja szerinti szolgáltatókra lehet csak alkalmazni.”

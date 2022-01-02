@@ -1,3 +1,3 @@
-## 18. §[^37]
+## 18. §[^52]
 
-[^37]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
