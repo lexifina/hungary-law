@@ -1,5 +1,3 @@
-## 39. § A tartalékállományra vonatkozó egyes szabályokról szóló 71/2019. (IV. 4.) Korm. rendelet 2. §-a a következő h) ponttal egészül ki:
+## 39. §[^2]
 
-## (E rendelet alkalmazásában)
-
-## „h) tartalékállományba helyezett saját felhasználói felülete: a tartalékállományba helyezett adatait, a közszolgálaton belüli továbbfoglalkoztatás érdekében feltöltött dokumentumait tartalmazó felület.”
+[^2]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

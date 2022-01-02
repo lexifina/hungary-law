@@ -1,5 +1,3 @@
-## „(7) A közigazgatási szerv által a tartalékállományba helyezettről rögzített adatokat a tartalékállományba helyezett saját felhasználói felületén megtekintheti, szerkesztheti, módosíthatja, elhelyezkedésének elősegítése érdekében dokumentumokat tölthet fel a TARTINFOR-rendszerbe.
+## 42. §[^5]
 
-## (8) A felmentési időszak lejártát követően a tartalékállományba helyezett hozzáférése a rendszerhez automatikusan megszűnik.
-
-## (9) A tartalékállományba helyezett a felmentés ideje alatt jogosult a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendelet szerinti Új Karrier Program szolgáltatásait igénybe venni, amelyet automatikusan felajánl a rendszer.”
+[^5]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

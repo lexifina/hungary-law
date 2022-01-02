@@ -1,7 +1,3 @@
-## 40. § A tartalékállományra vonatkozó egyes szabályokról szóló 71/2019. (IV. 4.) Korm. rendelet 4. §-a helyébe a következő rendelkezés lép:
+## 40. §[^3]
 
-## „4. § (1) A közigazgatási szerv a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendeletben foglaltak szerint regisztrál a TARTINFOR-rendszerbe.
-
-## (2) A szabályozott hozzáférés érdekében a felhasználót az (1) bekezdés szerinti regisztrációt követően tároló elemet tartalmazó állandó személyazonosító igazolvánnyal vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásra és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhelyen keresztül kell biztosítani.
-
-## (3) A közszolgálati tisztviselő adatainak a TARTINFOR-rendszerben történő rögzítéséről, módosításáról, törléséről, valamint a közigazgatási szerv adataiban történő változás átvezetéséről a közigazgatási szerv hivatali szervezetének vezetője által megbízott személy gondoskodik. A közigazgatási szerv hivatali szervezetének vezetője adja a közszolgálati tisztviselő számára a hozzáférést a TARTINFOR-rendszerhez.”
+[^3]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

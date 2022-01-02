@@ -1,3 +1,3 @@
-## 43. § A tartalékállományra vonatkozó egyes szabályokról szóló 71/2019. (IV. 4.) Korm. rendelet 8. §-a a következő (5) bekezdéssel egészül ki:
+## 43. §[^6]
 
-## „(5) A személyügyi központ a tartalékállomány rendszerhasználatáról a felhasználókat támogató kézikönyvet, útmutatót ad ki, ügyfélszolgálatot üzemeltet.”
+[^6]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

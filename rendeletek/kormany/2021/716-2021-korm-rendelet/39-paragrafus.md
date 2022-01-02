@@ -1,1 +1,3 @@
-## 38. § A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet 2. mellékletében foglalt táblázat E:43 mezőjében a „Közszolgálati HR Rendszer” szövegrész helyébe a „Közszolgálati Személyügyi Szolgáltatási Keretrendszer” szöveg lép.
+## 38. §[^1]
+
+[^1]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
