@@ -1,7 +1,3 @@
-## 3. § A Rendelet 9. §-a helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „9. § (1) A Lebonyolító és az MR Közösségi Lakásalap NKft. által a részletvételi jogviszony kapcsán ellátandó feladatok körét az 1. melléklet határozza meg. A Lebonyolító és az MR Közösségi Lakásalap NKft. a jogszabályban meghatározott feladataik hatékony ellátása érdekében egymással együttműködési megállapodást kötnek, amelyben szabályozzák a feladataik összehangolásának rendjét, a feladataik végrehajtásához szükséges adat- és iratátadás szabályait és az államot megillető vételárrészletek elszámolásának szabályait.
-
-## (2) Ha a részletvevő a részletfizetés során hathavi késedelembe esik, a vételár hátralévő részének megfizetése egyösszegben esedékessé válik, amelynek megfizetése érdekében az állam képviseletében az MR Közösségi Lakásalap NKft. intézkedik. Az MR Közösségi Lakásalap NKft. az állam képviseletében minden olyan jogi intézkedést megtesz, amely az egyösszegben esedékessé vált vételár hátralék és a kapcsolódó járulékok érvényesítéséhez szükséges, így különösen képviseli az államot a követelés érvényesítése iránt indított peres és nemperes eljárásokban, ideértve különösen a fizetési meghagyásos és végrehajtási eljárásokat. Az eljárások során felmerült minden eljárási és egyéb költséget az MR Közösségi Lakásalap NKft. visel.
-
-## (3) Az MR Közösségi Lakásalap NKft. képviseli az államot a részletvevő elhalálozása következtében indult hagyatéki eljárásban, az ahhoz kapcsolódó peres és nemperes eljárásokban, és viseli az eljárások során felmerült eljárási és egyéb költséget.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
