@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 14/2020. (XII. 15.) NMHH rendelethez[^6]
+1. melléklet a 14/2020. (XII. 15.) NMHH rendelethez[^8]
 
 ## A számfüggő elektronikus hírközlési szolgáltatások számozási terve és az azonosítóival való gazdálkodás rendjére vonatkozó különös szabályok
 
@@ -928,4 +928,4 @@ A hívó fél által fizetendő díj mértékét (áfát is tartalmazó híváso
 
 A 19c formátumú telefonos kezelői szolgáltatás szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-[^6]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a szerint módosított szöveg.
