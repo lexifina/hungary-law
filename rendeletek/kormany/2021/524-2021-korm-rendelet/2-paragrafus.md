@@ -1,3 +1,3 @@
-## 1. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet (a továbbiakban: R1.) 60. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „(4) Az OT betűjelű különleges rendszámtáblát az ügyfél kérelme alapján a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben kijelölt muzeális minősítő szervezet (a továbbiakban: muzeális minősítő szervezet) által kiadott muzeális jármű-igazolás, továbbá a közlekedési hatóság által a muzeális jellegű járműhöz kiadott „Műszaki Adatlap” alapján a közlekedési igazgatási hatóság adja ki.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
