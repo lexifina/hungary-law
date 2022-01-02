@@ -1,7 +1,3 @@
-## 1. § A piacfelügyeleti tevékenység részletes szabályairól szóló 6/2013. (I. 18.) Korm. rendelet (a továbbiakban: R.) 2. § (1) bekezdése a következő n) és o) ponttal egészül ki:
+## 1. §[^2]
 
-## (E rendelet értelmében piacfelügyeleti hatóság:)
-
-## „n) a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH),
-
-## o) a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

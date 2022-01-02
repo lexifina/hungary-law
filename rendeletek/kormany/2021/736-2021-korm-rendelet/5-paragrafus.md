@@ -1,1 +1,3 @@
-## 4. § Az R. 10. § (1) bekezdés e) pontjában az „MBFSZ-t” szövegrész helyébe az „SZTFH-t” szöveg lép.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
