@@ -1,3 +1,5 @@
-## 2. § Az IM rendelet 1. mellékletében foglalt táblázat címében a „2021.” szövegrész helyébe a „2022.” szöveg lép.
+## 1–2. §[^2]
 
 3. § Ez a rendelet 2022. január 1-jén lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
