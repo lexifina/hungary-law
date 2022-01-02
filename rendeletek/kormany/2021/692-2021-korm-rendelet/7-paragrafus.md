@@ -1,3 +1,3 @@
-## 6. § A rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+7. §[^3]
 
-## „(3) A rokkantsági járadék havi összege 2022. január 1-jétől 43 100 forint.”
+[^3]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
