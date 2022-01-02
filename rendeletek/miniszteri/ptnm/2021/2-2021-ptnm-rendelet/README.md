@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-2-20-2R
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-01-01 | 2021-2-20-2R.1 | 2/2021. (XII. 30.) PTNM rendelet |
+| 2022-01-02 | 2021-2-20-2R.2 | 2010: CXXX. törvény |
