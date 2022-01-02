@@ -1,4 +1,4 @@
-## 23. §[^31]
+## 23. §[^33]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 16. § (11) bekezdése és a 11. melléklet 2023. január 1-jén lép hatályba.
 
-[^31]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
