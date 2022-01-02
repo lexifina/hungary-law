@@ -1,3 +1,3 @@
-14. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^30]
+14. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^32]
 
-[^30]: A 14. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 14. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

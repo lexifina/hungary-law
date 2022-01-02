@@ -1,3 +1,3 @@
-7. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^23]
+7. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^25]
 
-[^23]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

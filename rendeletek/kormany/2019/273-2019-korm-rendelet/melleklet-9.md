@@ -1,3 +1,3 @@
-9. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^25]
+9. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^27]
 
-[^25]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
