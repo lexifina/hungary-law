@@ -1,4 +1,4 @@
-18. § A Hvt.
+18. §
 
 a)
 
@@ -14,12 +14,10 @@ f)
 
 g)
 
-h) 46. § (3) bekezdésében a „kormányrendeletben” szövegrész helyébe „a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában” szöveg,
+h)
 
 i)
 
 j)
 
 k)
-
-lép.
