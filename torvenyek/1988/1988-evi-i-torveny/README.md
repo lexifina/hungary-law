@@ -90,3 +90,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2021-06-29 | 2021. évi CI. törvény | 1988-1-00-00.121 |
 | 2021-07-01 | 2021. évi LIX. törvény | 1988-1-00-00.122 |
 | 2022-01-01 | 2021. évi CXXXVI. törvény | 1988-1-00-00.123 |
+| 2022-01-02 | 2021. évi CXXXVI. törvény | 1988-1-00-00.124 |
