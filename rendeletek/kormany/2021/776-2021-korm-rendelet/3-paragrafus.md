@@ -1,1 +1,3 @@
-## „(4a) A KNEB nyilatkozatát a bejelentő a (4) bekezdés a)–e) pontja szerinti bejelentés tervezetének és az (5) bekezdés szerinti dokumentációnak egyidejű megküldésével kérelmezi, a Kötv. 61/J. §-ában foglalt követelmények szerint.”
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 12. § Az Övr. 66. §-a a következő (10) bekezdéssel egészül ki:
+## 12. §[^34]
 
-## „(10) Az (1)–(8) bekezdésben meghatározott dokumentációkat a műemléknek a tervezett tevékenységgel érintett ingatlanrészére vagy épületrészére vonatkozóan kell elkészíteni.”
+[^34]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
