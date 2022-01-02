@@ -8,7 +8,7 @@ c) a Kopernikusz-program létrehozásáról és a 911/2010/EU rendelet hatályon
 
 d) a légiforgalmi szolgáltatást/légi navigációs szolgálatokat és más légiforgalmi szolgáltatási hálózati funkciókat és azok felügyeletét ellátó szolgáltatókra vonatkozó közös követelmények meghatározásáról, valamint a 482/2008/EK rendelet, az 1034/2011/EU, az 1035/2011/EU és az (EU) 2016/1377 végrehajtási rendelet hatályon kívül helyezéséről, továbbá a 677/2011/EU rendelet módosításáról szóló, 2017. március 1-jei (EU) 2017/373 bizottsági végrehajtási rendelet
 
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a rendelet
 
@@ -19,3 +19,5 @@ b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 c) az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról szóló, 2007. március 14-i 2007/2/EK európai parlamenti és tanácsi irányelvnek,
 
 d) a nyílt hozzáférésű adatokról és a közszféra információinak további felhasználásáról szóló, 2019. június 20-i (EU) 2019/1024 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.

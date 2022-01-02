@@ -24,7 +24,7 @@ fc) honvédelmi,
 
 fd) a mezőgazdaságot, a vízgazdálkodást, a vízkárelhárítást érintő
 
-## intézkedések meghozatalához a szélsőséges meteorológiai jelenség, folyamat okozta veszélyhelyzet, környezeti katasztrófa, valamint az ipari, nukleáris baleset megelőzése, elhárítása, bekövetkezésük esetén azok megszüntetése, felszámolása érdekében;
+intézkedések meghozatalához a szélsőséges meteorológiai jelenség, folyamat okozta veszélyhelyzet, környezeti katasztrófa, valamint az ipari, nukleáris baleset megelőzése, elhárítása, bekövetkezésük esetén azok megszüntetése, felszámolása érdekében;
 
 g) a közvélemény tájékoztatása érdekében internetes honlapot üzemeltet, amelyen meteorológiai adatokat és meteorológiai információkat tesz közzé;
 

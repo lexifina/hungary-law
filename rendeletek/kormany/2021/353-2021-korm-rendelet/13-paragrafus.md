@@ -8,7 +8,7 @@ b) a Középtávú Időjárás Előrejelzések Európai Központjának (ECMWF) �
 
 c) a Meteorológiai Műholdak Hasznosításának Európai Szervezetének (EUMETSAT)
 
-## munkájában, ellátja Magyarország képviseletét a nemzetközi megállapodások szerinti nemzetközi szervezetekben, továbbá gondoskodik a nemzetközi szervezetek Magyarországot érintő határozatainak végrehajtásáról.
+munkájában, ellátja Magyarország képviseletét a nemzetközi megállapodások szerinti nemzetközi szervezetekben, továbbá gondoskodik a nemzetközi szervezetek Magyarországot érintő határozatainak végrehajtásáról.
 
 (2) Az OMSZ vezetője az OMSZ-re vonatkozóan – nemzetközi szerződésnek nem minősülő – nemzetközi megállapodásokat köt.
 
