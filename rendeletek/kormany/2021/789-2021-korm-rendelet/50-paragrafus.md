@@ -1,1 +1,3 @@
-## „(2) Ha a jármű forgalomból történő végleges kivonására bontási átvételi igazolás alapján kerül sor, a jármű hatósági jelzését, forgalmi engedélyét és törzskönyvét – a birtokos által kezdeményezett eljárás kivételével – a közlekedési igazgatási hatóságnál le kell adni. Ha a jármű hatósági jelzése, forgalmi engedélye és törzskönyve a birtokos rendelkezésére áll, azokat a jármű forgalomból történő végleges kivonás során le kell adni.”
+## 49. §[^49]
+
+[^49]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

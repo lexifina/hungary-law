@@ -1,3 +1,3 @@
-## 2. § Az R1. (Az Lt. 19. §-ához) című alcíme a következő 8/A. §-sal egészül ki:
+## 2. §[^2]
 
-## „8/A. § A repülőtér üzembentartója az engedély adataiban bekövetkezett változásokat – ideértve az engedélyben szereplő helyrajzi szám változását is – azok tudomására jutásáról számított nyolc napon belül a légiközlekedési hatóságnak, az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a katonai légügyi hatóságnak bejelenti.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

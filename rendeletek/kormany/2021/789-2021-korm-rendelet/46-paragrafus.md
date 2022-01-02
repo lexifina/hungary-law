@@ -1,1 +1,3 @@
-## „(3) A menetrend szerinti – belföldi vagy nemzetközi – személyszállítást végző autóbusz homlokfalán a járati útvonal végpontját, oldalfalán a járati útvonal kezdő- és végpontját kell feltüntetni. A menetrend szerinti – belföldi vagy nemzetközi – személyszállítást végző autóbusz homlokfalán a járati útvonal kezdőpontját is fel lehet tüntetni. A különcélú menetrend szerinti személyszállításra használt autóbusz homlok- és oldalfalán a „különcélú járat” feliratot – szerződéses járat esetén „szerződéses járat” feliratot – feltüntető táblát is el kell helyezni.”
+## 45. §[^45]
+
+[^45]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

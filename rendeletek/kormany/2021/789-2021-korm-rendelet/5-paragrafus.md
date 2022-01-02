@@ -1,5 +1,3 @@
-## 4. § Az R1. 22. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+## 4. §[^4]
 
-## (A fel- és leszállás nem repülőtéren vagy leszállóhelyen is történhet a következő esetekben:)
-
-## „c) ha a légi jármű tulajdonoságai miatt a leszállás helye előzetesen nem határozható meg, a leszállás és az onnan történő további felszállás,”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

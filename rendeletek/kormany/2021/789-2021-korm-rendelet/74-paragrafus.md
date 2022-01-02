@@ -1,1 +1,3 @@
-## 73. § Az R16. 23. § (1) bekezdésében a „hatály lejárta előtt benyújtott” szövegrész helyébe a „hatály lejárta előtt legfeljebb 90 nappal benyújtott” szöveg lép.
+## 73. §[^75]
+
+[^75]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

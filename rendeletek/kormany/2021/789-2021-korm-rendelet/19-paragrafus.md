@@ -1,5 +1,3 @@
-## 18. § Az R5. 6. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 18. §[^18]
 
-## (Előzetes vizsgálatot kell végezni:)
-
-## „b) fennálló munkaviszony esetében, a vasúti közlekedés biztonságával összefüggő munkakörből eltérő kockázati tényezőket, megterhelést jelentő, vasúti közlekedés biztonságával összefüggő munkakörbe történő áthelyezés előtt,”
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

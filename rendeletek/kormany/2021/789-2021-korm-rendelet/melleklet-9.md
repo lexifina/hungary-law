@@ -1,3 +1,3 @@
-9. melléklet a 789/2021. (XII. 27.) Korm. rendelethez[^15]
+9. melléklet a 789/2021. (XII. 27.) Korm. rendelethez[^98]
 
-[^15]: A 9. melléklet a 88. § (4) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^98]: A 9. melléklet a 88. § (4) bekezdése alapján 2022. február 1-jén lép hatályba.

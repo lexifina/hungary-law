@@ -1,3 +1,5 @@
-## 74. § Hatályát veszti az R16. 21. § (1) bekezdésében az „Az engedély mintáját a földi kiszolgálás feltételeiről és engedélyezésének rendjéről szóló 7/2002. (I. 28.) KöViM rendelet (a továbbiakban: Földi Kiszolgálás Rendelet) 2. számú melléklete tartalmazza.” szövegrész.
+## 74. §[^76]
 
 ## 20. A Közlekedési Alkalmassági és Vizsgaközpont kijelöléséről és feladatainak meghatározásáról szóló 284/2018. (XII. 21.) Korm. rendelet módosítása
+
+[^76]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 36. § Az R7. 9. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+## 36. §[^36]
 
-## „(4) A légiközlekedés védelmi oktatónak és oktató szervezetnek, valamint az e-learning rendszer üzemeltetésére a légiközlekedési hatóság ad engedélyt a 2015/1998 bizottsági (EU) végrehajtási rendeletben előírt feltételek teljesítése esetén. A kiadott engedélyekről a légiközlekedési hatóság nyilvántartást vezet, valamint honlapján közzéteszi azon személyek, szervezetek elérhetőségét, akik harmadik fél részére is vállalnak oktatást és nyilatkozatukban engedélyt adnak adataik közzétételére. A kiadott engedély két évig hatályos.
-
-## (5) A légiközlekedés védelmében közreműködő szervezetek a légiközlekedés védelmi feladataik ellátására a Nemzeti Polgári Légiközlekedés Védelmi Képzési Program alapján a légiközlekedési hatóság által jóváhagyott védelmi programhoz kapcsolódó védelmi képzési programot dolgoznak ki és működtetnek. A védelmi képzési program jóváhagyására irányuló hatósági eljárás során a légiközlekedési hatóság azt vizsgálja, hogy a képzési program megfelel-e a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programban meghatározott követelményeknek.”
+[^36]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

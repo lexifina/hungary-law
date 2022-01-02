@@ -1,3 +1,3 @@
-## 82. § Az R19. 18. §-a a következő (5) bekezdéssel egészül ki:
+## 82. §[^84]
 
-## „(5) Az előzetes típusengedély módosítása iránti kérelmet az előzetes típusengedély hatályának fennállása alatt legfeljebb egy alkalommal lehet előterjeszteni.”
+[^84]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

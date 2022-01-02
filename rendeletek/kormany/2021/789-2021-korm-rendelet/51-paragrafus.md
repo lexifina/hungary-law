@@ -1,17 +1,9 @@
-## 50. § Az R9. 120. §-a a következő (14) bekezdéssel egészül ki:
+## 50. §[^50]
 
-## „(14) A 13. melléklet 3. pont 3.1. alpontja szerinti OT rendszámtáblát 2022. február 1-jétől kell kiadni.”
+51. § (1)[^51]
 
-51. § (1) Az R9.
+(2)[^52]
 
-a) 88. § (1) bekezdésében a „közúti forgalomban történő részvételének jogszerűségét” szövegrész helyébe a „nyilvántartásba vételét” szöveg,
-
-b) 89. § (4c) bekezdésében az „a Nyilvántartónak megsemmisítés céljából” szövegrész helyébe az „az arra feljogosított adatfeldolgozónak megsemmisítésre” szöveg,
-
-c) 112/A. § (3) bekezdésében az „a forgalmi engedély vagy állandó rendszámtábla” szövegrész helyébe az „az állandó vagy ideiglenes forgalmi engedély vagy rendszámtábla” szöveg
-
-## lép.
-
-(2)[^2]
-
-[^2]: Az 51. § (2) bekezdése a 88. § (6) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^50]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: Az 51. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: Az 51. § (2) bekezdése a 88. § (6) bekezdése alapján 2022. július 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 41. § Az R7. 37. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 41. §[^41]
 
-## „(2) A fedélzeti ellátmány ismert beszállítóját az a légitársaság vagy jogi személy jelöli ki és ellenőrzi a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2015/1998 bizottsági (EU) végrehajtási rendelet mellékletének 8.1.4.4. pontja szerint, amely részére az szállít. Az üzemben tartó – ha kérelmezi ismert beszállító kinevezésének engedélyezését –, a védelmi programban részletesen szabályozza a listás szállító kinevezésének eljárását, légiközlekedés védelmi minőségbiztosítási ellenőrzését és tevékenységének felügyeletét, valamint az áru- és postai küldemény légiközlekedés védelmi ellenőrzésére utaló jelzések leírását. A meghatalmazott ügynökök, ismert szállítók, meghatalmazott beszállítók listáját a légiközlekedési hatóság a honlapján közzéteszi.”
+[^41]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

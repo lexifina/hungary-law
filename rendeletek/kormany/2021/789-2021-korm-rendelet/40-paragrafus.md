@@ -1,1 +1,3 @@
-## „(3a) A gépjárművek a repülőtér légi oldalán vagy SRA területen az üzemben tartó által, vagy a nevében – a hatáskörrel rendelkező hatóságok hozzájárulásával, korlátozás nélkül vagy korlátozással – kiállított állandó vagy ideiglenes behajtási engedéllyel tartózkodhatnak. A behajtási engedélyt kiállító ellenőrzi az ott tartózkodás indokoltságát. A behajtási engedély legfeljebb öt éves időtartamra adható ki.”
+## 39. §[^39]
+
+[^39]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

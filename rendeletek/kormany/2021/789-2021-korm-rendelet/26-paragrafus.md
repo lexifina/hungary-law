@@ -1,5 +1,3 @@
-## 25. § Az R5. 23. § (1) bekezdése a következő f) ponttal egészül ki:
+## 25. §[^25]
 
-## (A közlekedési hatóság a nyilvántartásból honlapján a következő adatokat teszi közzé:)
-
-## „f) rendelési hely címe.”
+[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

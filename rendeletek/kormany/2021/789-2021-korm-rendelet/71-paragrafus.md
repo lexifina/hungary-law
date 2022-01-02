@@ -1,1 +1,3 @@
-## 70. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R15.) 1. melléklete a 10. melléklet szerint módosul.
+## 70. §[^72]
+
+[^72]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

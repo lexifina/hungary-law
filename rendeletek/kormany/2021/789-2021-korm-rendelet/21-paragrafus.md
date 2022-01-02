@@ -1,9 +1,3 @@
-## 20. § Az R5. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 20. §[^20]
 
-## „(1) Időszakos vizsgálatra köteles a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott, az 1. mellékletben felsorolt tevékenységet végző munkavállaló:
-
-## a) negyvenedik életév betöltését megelőzően ötévente,
-
-## b) negyvenedik életév betöltését követően, de a hatvankettedik életév betöltését megelőzően háromévente,
-
-## c) hatvankettedik életév betöltését követően évente.”
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
