@@ -1,3 +1,1 @@
-76. § A Haj.tv. 17. alcíme a következő 99/D. §-sal egészül ki:
-
-„99/D. § Az egyes törvények honvédelemmel és rendvédelemmel összefüggő módosításáról szóló 2021. évi CXLI. törvény hatálybalépésének napján hatályát veszti az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi honvédelmi alkalmazott, továbbá az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott egészségügyi honvédelmi alkalmazott által tett, többletkötelezettség vállalására vonatkozó nyilatkozat.”
+76. §

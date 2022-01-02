@@ -1,5 +1,3 @@
 ## 1. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-1. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: 1991. évi XI. törvény) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A honvédelmi szervezet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 9. pontja szerinti szervezett munkavégzést folytató szervezet, valamint a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaság közegészségügyi felügyeletét, – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a katonai egészségügyi államigazgatási szerv gyakorolja.”
+1. §

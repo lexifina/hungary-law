@@ -1,17 +1,3 @@
 ## 13. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
 
-64. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj.tv.) I. Fejezete a következő 3/A. alcímmel egészül ki:
-
-„3/A. A jognyilatkozatokra vonatkozó szabályok
-
-6/A. § (1) A nyilatkozattevő személyének az Mt. 22. § (2) bekezdése szerinti azonosításához nem szükséges a nyilatkozattevőnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus aláírása vagy minősített elektronikus aláírása.
-
-(2) A honvédelmi alkalmazotti jogviszony létesítésével, módosításával, továbbá a megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi vagy kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkört gyakorló részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
-
-(3) A (2) bekezdés szerint elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkört gyakorló miniszteri rendeletben kijelölt képviselője öt napon belül záradékolással ellátott, hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A honvédelmi alkalmazottal a papír alapú kiadmányt kell közölni.
-
-(4) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkört gyakorló az iratot a (2) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkört gyakorlónak legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (3) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
-
-(5) A jogorvoslat módjára és határidejére a munkáltatói döntésben utalni kell. Ha törvény alapján a munkáltatói döntés ellen bírósági eljárásnak van helye, a jogorvoslatról való tájékoztatásnak tartalmaznia kell az eljáró bíróság és az alperes megnevezését, a jogorvoslat előterjesztésére nyitva álló határidőt, a jogorvoslat előterjesztésének helyét, valamint azt a felhívást, hogy a keresetlevelet a határidő végéig postára kell adni, vagy elektronikusan be kell nyújtani. Ha a határidő jogvesztő, a felhívásnak arra is ki kell terjednie, hogy a keresetlevélnek a határidő végéig a bírósághoz vagy az intézkedésre jogosult első fokú hatósághoz meg kell érkeznie.
-
-(6) Ha a munkáltatói jogkört gyakorló a jognyilatkozatot elektronikus dokumentum hozzáférhetővé tétele útján közölte, és a címzett vagy az átvételre jogosult más személy az átvételt az elektronikus dokumentum átvételét követő öt napon belül nem igazolja vissza, a munkáltatói jogkört gyakorló postai úton közli vele a jognyilatkozatot. Ilyen esetben a jognyilatkozat közlésének napja a második közlés napja.”
+64. §

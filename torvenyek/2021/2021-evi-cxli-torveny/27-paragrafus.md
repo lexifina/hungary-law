@@ -1,3 +1,1 @@
-27. § A Hjt. 59. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A veszélyhelyzet időtartama alatt a szolgálati viszony a 38. § (8) bekezdésétől, a 68. § (1) bekezdés b) pontjától eltérően nem szűnik meg a törvény erejénél fogva az ott meghatározott kiképzési, képzési és vizsgakötelezettség teljesítésének elmulasztása esetén. Az állomány tagja a veszélyhelyzet megszűnését követő hat hónapon belül teljesítheti a kiképzési, a képzési és vizsgakötelezettségét, amelyhez szükséges feltételeket a munkáltató köteles biztosítani. A kiképzési, a képzési és vizsgakötelezettség teljesítésének elmulasztása esetén az állomány tagjának szolgálati viszonya a veszélyhelyzet megszűnését követő naptól számított hat hónap elteltével megszűnik.”
+27. §

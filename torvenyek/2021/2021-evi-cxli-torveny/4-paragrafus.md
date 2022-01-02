@@ -1,5 +1,3 @@
 ## 2. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-4. § A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: 1993. évi XCIII. törvény) 9. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A honvédelemért felelős miniszter a honvédelmi szervezeteknél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézménynél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, szervezett munkavégzést folytató szervezetnél, a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaságoknál szervezett munkavégzés keretében kifejtett munkatevékenységre, a rendkívüli munkavégzési körülmények esetére – e törvény figyelembevételével, kivételesen indokolt esetben – eltérő követelményeket, eljárási szabályokat állapíthat meg az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozóan.”
+4. §

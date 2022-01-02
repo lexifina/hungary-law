@@ -1,3 +1,1 @@
-57. § A Hszt. 142. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A (2) bekezdésben foglaltaktól eltérően a szülési szabadság idejére járó távolléti díj személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti csecsemőgondozási díj személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított – naptári napi összegének a harmincszorosa.”
+57. §
