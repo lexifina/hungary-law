@@ -1,5 +1,3 @@
-## 9. § Az Ar. 11/N. §-a helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## „11/N. § (1) A GYVR törzsadat alrendszere, valamint a tervező és értékelő alrendszere a gyermek gondozási helyének meghatározása, az arra történő javaslattétel és a fiatal felnőtt ellátási helyének meghatározása céljából elektronikus adatigénylés útján kéri meg a szolgáltatói nyilvántartásból az ellátást nyújtó engedélyesre és fenntartóra vonatkozó adatokat.
-
-## (2) A GYVR a Gyvt. 134. § (4a) bekezdése alapján adatokat ad át egyedi azonosításra alkalmas módon, statisztikai célra a Központi Statisztikai Hivatalnak.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
