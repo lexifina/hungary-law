@@ -1,3 +1,5 @@
-## 19. § Hatályát veszti a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 413/2021. (VII. 13.) Korm. rendelet 1. mellékletében foglalt táblázat C:2 mezőjében a „/ Családokért Felelős Tárca Nélküli Miniszter” szövegrész.
+## 19. §[^16]
 
 1. melléklet a 832/2021. (XII. 30.) Korm. rendelethez
+
+[^16]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

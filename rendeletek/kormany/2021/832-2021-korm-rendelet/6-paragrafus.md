@@ -1,7 +1,3 @@
-## lép.
+## 5. §[^2]
 
-## 6. § Hatályát veszti az Ávr.
-
-a) 1. melléklet I. pont 10. alpont b) pontja,
-
-b) 1. melléklet I. pont 41. alpont f) pontja.
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

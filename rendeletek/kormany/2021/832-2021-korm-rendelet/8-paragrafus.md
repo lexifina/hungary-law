@@ -1,1 +1,3 @@
-## 7. § A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet 6. § (1) és (2) bekezdésében a „családokért felelős tárca nélküli miniszter” szövegrész helyébe a „Miniszterelnökséget vezető miniszter” szöveg lép.
+## 7. §[^4]
+
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

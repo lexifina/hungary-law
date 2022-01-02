@@ -1,1 +1,3 @@
-## 17. § A Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet 6/A. §-ában az „a családokért felelős tárca nélküli miniszter” szövegrész helyébe az „a Miniszterelnökséget vezető miniszter” szöveg lép.
+## 17. §[^14]
+
+[^14]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

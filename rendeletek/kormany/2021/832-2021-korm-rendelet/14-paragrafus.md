@@ -1,9 +1,3 @@
-## lép.
+## 13. §[^10]
 
-## 14. § Hatályát veszti az R.
-
-a) 12/A. alcíme,
-
-b) 153. § l) pontja,
-
-c) 154. § l) pontja.
+[^10]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

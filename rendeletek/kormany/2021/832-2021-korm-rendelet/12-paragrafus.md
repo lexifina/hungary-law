@@ -1,13 +1,3 @@
-## 11. § Az R. 14. § (1) bekezdése a következő 24–27. ponttal egészül ki:
+## 11. §[^8]
 
-## [A Miniszterelnökséget vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
-
-## „24. családpolitikáért,
-
-## 25. gyermek- és ifjúságpolitikáért,
-
-## 26. – az ezen alcímben meghatározottak szerinti feladat- és hatáskörök tekintetében – szociál- és nyugdíjpolitikáért,
-
-## 27. – az ezen alcímben meghatározottak szerinti feladat- és hatáskörök tekintetében – gyermekek és az ifjúság védelméért”
-
-## [felelős tagja.]
+[^8]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
