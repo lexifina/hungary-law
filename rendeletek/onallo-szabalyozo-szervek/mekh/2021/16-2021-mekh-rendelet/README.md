@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-16-20-5
 | 2021-12-11 | 2021-16-20-5Z.1 | 16/2021. (XII. 8.) MEKH rendelet |
 | 2021-12-12 | 2021-16-20-5Z.2 | 2010: CXXX. törvény |
 | 2022-01-01 | 2021-16-20-5Z.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-01-02 | 2021-16-20-5Z.4 | 2010: CXXX. törvény |
