@@ -1,10 +1,10 @@
-40. § Hatályát veszti az MMA tv.
+40. §
 
 a)
 
 b)
 
-c) 7. § (1b) bekezdésében a „ , legkorábban a levelező taggá választása napját követő két év elteltével” szövegrész,
+c)
 
 d)
 
