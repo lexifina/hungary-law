@@ -1,3 +1,5 @@
+## 5/A. A Dunamelléki Református Egyházkerület részére történő vagyonjuttatás
+
 7/A. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban lévő, az ingatlan-nyilvántartás szerint Budapest XII. kerület belterület 6886/2 helyrajzi számú, természetben az 1122 Budapest, XII. kerület Bíró utca 3. szám alatt található ingatlan ingyenesen – köznevelési feladatok ellátása érdekében – a Dunamelléki Református Egyházkerület (a továbbiakban: Egyházkerület) tulajdonába kerül.
 
 (2) Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Egyházkerület mint jogi személy az (1) bekezdés szerinti ingatlant terhelő kötelezettségeket a (4) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
