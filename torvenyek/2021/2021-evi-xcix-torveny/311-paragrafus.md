@@ -1,4 +1,4 @@
-311. § Hatályát veszti a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény
+### 311. §
 
 a)
 
@@ -12,7 +12,7 @@ e)
 
 f)
 
-g) 146. §-a, 147. §-a és 150. §-a,
+g)
 
 h)
 
