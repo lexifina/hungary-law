@@ -1,3 +1,1 @@
-2. § A Ptk. 3:26. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A felügyelőbizottság tagja az a nagykorú személy lehet, akinek cselekvőképességét a tevékenysége ellátásához szükséges körben nem korlátozták. Ha a felügyelőbizottsági tag jogi személy, a jogi személy köteles kijelölni azt a természetes személyt, aki a felügyelőbizottsági tagi feladatokat a nevében ellátja. A felügyelőbizottsági tagokra vonatkozó szabályokat a kijelölt személyre is alkalmazni kell. Nem lehet a felügyelőbizottság tagja, akivel szemben a vezető tisztségviselőkre vonatkozó kizáró ok áll fenn, továbbá aki vagy akinek a hozzátartozója a jogi személy vezető tisztségviselője.”
+2. §
