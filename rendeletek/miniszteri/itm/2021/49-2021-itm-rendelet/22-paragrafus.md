@@ -1,1 +1,3 @@
-## „5a. napon belüli termelési menetrend: a napi termelési menetrend adott részeinek módosítása céljából a Menetrendadásra kötelezett által a Befogadó részére előzetesen megadott, a KÁT termelőnek vagy összevont menetrend esetén a Menetrend-csoportba tartozó KÁT termelőknek a nap minden elszámolási mérési időintervallumára vonatkozó tervezett termelési adatait tartalmazó menetrendje a vonatkozó kormányrendeletben meghatározott önálló kiegyenlítő menedzsment nélkül;”
+## 21. §[^22]
+
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

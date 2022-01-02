@@ -1,1 +1,3 @@
-## „l) a Menetrendadásra kötelezetteknek a vonatkozó kormányrendeletben meghatározott önálló kiegyenlítő menedzsmentje során elszámolt villamos energia ellenértékének tárgyhavi összegét.”
+## 23. §[^24]
+
+[^24]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

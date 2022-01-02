@@ -1,3 +1,3 @@
-## 25. § A 63/2016. NFM rendelet 8. §-a a következő (5) bekezdéssel egészül ki:
+## 25. §[^26]
 
-## „(5) A Befogadó honlapjának üzemzavara esetén az (1) bekezdés szerinti adatokat a KÁT és Prémium pénzeszköz fizetésre kötelezettek részére elektronikusan küldi meg a Hivatal egyidejű tájékoztatása mellett. A Befogadó az üzemzavar megszűntét követően az adatokat a honlapján közzéteszi.”
+[^26]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

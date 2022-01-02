@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-49-20-7
 | 2021-10-17 | 2021-49-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-10-18 | 2021-49-20-7Q.4 | 2010: CXXX. törvény |
 | 2022-01-01 | 2021-49-20-7Q.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-01-02 | 2021-49-20-7Q.6 | 2010: CXXX. törvény |
