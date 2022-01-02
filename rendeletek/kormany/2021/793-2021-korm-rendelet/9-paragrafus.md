@@ -1,8 +1,9 @@
-## 8. §[^7]
+## 8. §[^9]
 
-9. § (1) Az R. az 1. melléklet szerinti 7. melléklettel egészül ki.
+9. § (1)[^10]
 
-(2)[^8]
+(2)[^11]
 
-[^7]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
