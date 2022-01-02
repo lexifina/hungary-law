@@ -1,3 +1,5 @@
-## 8. § Hatályát veszti a bioüzemanyagok és folyékony bio-energiahordozók fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású gázkibocsátás elkerülés kiszámításának szabályairól szóló 39/2017. (X. 9.) NFM rendelet.
+## 8. §[^1]
 
 1. melléklet a 68/2021. (XII. 30.) ITM rendelethez
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
