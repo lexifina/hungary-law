@@ -1,9 +1,3 @@
 ## 35. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 
-211. § (1) Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/A. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Ha a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság vagy a megállapított bűnügyi költség ideiglenesen eredménytelen végrehajtása állapítható meg, az állami adó- és vámhatóság az állam nevében felszámolási eljárást kezdeményez. Az eljárást kezdeményező kérelemben, illetve a hitelezői igény bejelentésekor köteles nyilatkozni arról, hogy a jogi személlyel szemben pénzbírságot szabtak ki, vagy a bűnügyi költség viselésére kötelezték, és ezen követelésekre vonatkozóan a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 79/D. §-a alapján hitelezői joggyakorlásra jogosult.”
-
-(2) Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/A. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) Ha a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság vagy a megállapított bűnügyi költség végrehajtása során az adós gazdálkodó szervezettel szemben felszámolási, csőd-, végelszámolási, kényszertörlési eljárás indul, az állami adó- és vámhatóság a Cstv. 79/A. § (2) bekezdésében meghatározott bűnügyi hitelezői igénybejelentés érvényesítése érdekében, a határozat megküldésével írásban értesíti a felszámolót, végelszámolót és a felszámolást, csődeljárást, végelszámolást, kényszertörlést elrendelő bíróságot. Az adóhatóság a hitelezői igény bejelentésekor köteles nyilatkozni arról, hogy a jogi személlyel szemben pénzbírságot szabtak ki, pénzösszegben kifejezett vagyonelkobzást alkalmaztak vagy a bűnügyi költség viselésére kötelezték, és ezen követelésekre vonatkozóan a Cstv. 79/D. §-a alapján hitelezői joggyakorlásra jogosult.”
+### 211. §

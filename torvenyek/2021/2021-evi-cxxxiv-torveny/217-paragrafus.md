@@ -1,7 +1,3 @@
 ## 36. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-217. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény a következő 49/A. §-sal egészül ki:
-
-„49/A. § (1) A csecsemőgondozási díjra, gyermekgondozási díjra, örökbefogadói díjra jogosultsághoz szükséges, az Ebtv. által meghatározott előzetes 365 napi biztosítási idő szerzése céljából az Európai Közösségek tisztviselőinek személyzeti szabályzatáról és egyéb alkalmazottainak alkalmazási feltételeiről szóló, 1968. február 29-i 259/68/EGK, Euratom, ESZAK tanácsi rendelet (a továbbiakban: SR.) hatálya alá tartozó szolgálati jogviszonyban állt személy megállapodást (a továbbiakban: anyasági pénzbeli ellátás biztosítására irányuló megállapodás) köthet.
-
-(2) Az anyasági pénzbeli ellátás biztosítására irányuló megállapodás alapján fizetendő járulék összege a csecsemőgondozási díj, a gyermekgondozási díj, illetve az örökbefogadói díj számításának alapjául szolgáló naptári napi alap, illetve naptári napi jövedelem 5 százalékának és az Ebtv. által meghatározott előzetes 365 napi biztosítási időhöz hiányzó napok számának szorzata ezer forintra kerekítve. Az anyasági pénzbeli ellátás biztosítására irányuló megállapodás legfeljebb annyi napra köthető meg, ahány napig a biztosított az előzetes 365 napi biztosítási idő megszerzésére előírt két éves időtartamon belül az SR. szerinti közös betegségbiztosítási rendszer tagja volt.”
+### 217. §
