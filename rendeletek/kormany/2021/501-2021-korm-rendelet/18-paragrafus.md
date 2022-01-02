@@ -1,1 +1,3 @@
-## 17. § Az R3. 1. melléklete helyébe a 3. melléklet lép.
+## 17. §[^21]
+
+[^21]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

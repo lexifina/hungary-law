@@ -1,5 +1,5 @@
-## 4. §[^3]
+## 4. §[^5]
 
 ## 3. A szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló 239/2009. (X. 20.) Korm. rendelet módosítása
 
-[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

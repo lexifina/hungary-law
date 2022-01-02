@@ -1,4 +1,4 @@
-## 34. §[^27]
+## 34. §[^38]
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. §, a 7. §, a 8. §, a 9. § (1) és (2) bekezdése, a 10. §, a 12–14. §, a 17. §, valamint az 1. és a 3. melléklet 2022. január 1-jén lép hatályba.
 
-[^27]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

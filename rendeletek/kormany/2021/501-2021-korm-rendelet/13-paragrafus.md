@@ -1,5 +1,3 @@
-## „(6) A (3) bekezdés szerinti hatósági ellenőrzés során a jegyző a (4) bekezdésben foglaltakon kívül kiemelten vizsgálja azt, hogy
+## 12. §[^16]
 
-## a) a szálláshely-szolgáltató eleget tesz az 5. §-ban meghatározott rendelkezésnek, és
-
-## b) a szálláshely megfelel a bejelentésben foglalt szálláshely-üzemeltetési tevékenység e rendeletben foglalt és a szálláshely-minősítő szervezet elektronikus felületén közzétett feltételeinek.”
+[^16]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

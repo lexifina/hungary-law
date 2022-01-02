@@ -1,5 +1,3 @@
-## 10. § Az R3. 6. § (2) bekezdése a következő e) ponttal egészül ki:
+## 10. §[^14]
 
-## (A bejelentéshez mellékelni kell)
-
-## „e) a szálláshely-minősítő szervezet által kiadott minősítő dokumentumot.”
+[^14]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
