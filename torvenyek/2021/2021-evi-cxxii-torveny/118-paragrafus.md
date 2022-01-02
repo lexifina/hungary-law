@@ -1,1 +1,1 @@
-118. § A bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló 2017. évi XLIII. törvény 3. § (1) bekezdés c) pont ce) alpontjában a „vagy székhelyét” szövegrész helyébe a „vagy végrehajtási rendelet szerinti székhelyét” szöveg lép.
+118. §

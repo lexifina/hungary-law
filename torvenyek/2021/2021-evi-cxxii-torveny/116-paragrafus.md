@@ -1,3 +1,1 @@
-116. § A bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló 2017. évi XLIII. törvény 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 3. § (1) bekezdése szerinti adatokat – a 10. § (3) bekezdésben foglalt kivétellel – a természetes személy kérelmező belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye, ha a végrehajtási rendelet szerint a nyilvántartásban lakóhelyadat helyett székhelyadatot kell feltüntetni, a természetes személy székhelye, vagy ha a kérelmező nem természetes személy, belföldi székhelye szerint illetékes törvényszék jegyzi be a nyilvántartásba.”
+116. §

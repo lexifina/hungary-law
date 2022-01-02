@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-122-00-00
 | 2021-11-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-122-00-00.1 |
 | 2021-11-19 | 2010. évi CXXX. törvény | 2021-122-00-00.2 |
 | 2022-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-122-00-00.3 |
+| 2022-01-02 | 2010. évi CXXX. törvény | 2021-122-00-00.4 |
