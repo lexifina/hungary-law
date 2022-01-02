@@ -1,3 +1,3 @@
-## 31. § A 39/2019. (VIII. 23.) AM rendelet 3. §-a helyébe a következő rendelkezés lép:
+## 31. §[^26]
 
-## „3. § A támogatás 2022. évben rendelkezésre álló keretösszege legfeljebb 50 millió forint.”
+[^26]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

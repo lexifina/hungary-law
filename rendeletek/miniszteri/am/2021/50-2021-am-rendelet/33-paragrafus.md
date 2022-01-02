@@ -1,7 +1,3 @@
-## 32. § A 39/2019. (VIII. 23.) AM rendelet 5. § (1) bekezdése a következő e) ponttal egészül ki:
+## 32. §[^27]
 
-## (A támogatási kérelem)
-
-## „e) 2022. április 1-jétől április 8-áig”
-
-## [a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon postai úton nyújtható be a Kincstárhoz.]
+[^27]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
