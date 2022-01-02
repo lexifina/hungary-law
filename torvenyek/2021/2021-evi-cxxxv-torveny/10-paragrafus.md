@@ -1,3 +1,1 @@
-10. § Az államháztartásról szóló 2011. évi CXCV. törvény 108/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Kormány rendeletben előírhatja, hogy az államháztartás központi alrendszerébe tartozó költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve felhasználási terv keretében – személyes adatot nem tartalmazó – rendszeres adatszolgáltatást teljesítsen a költségvetési évben várhatóan felmerülő kiadásairól és bevételeiről, valamint a költségvetési év és a költségvetési évet követő kötelezettségvállalásairól, más fizetési kötelezettségeiről és követeléseiről a Kormány rendeletében meghatározott módon és gyakorisággal. A felhasználási terv tartalmazhat a kincstári nyilvántartás szerinti, valamint a várható adatokra vonatkozó információkat.”
+10. §
