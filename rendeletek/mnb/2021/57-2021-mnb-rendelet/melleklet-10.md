@@ -734,7 +734,7 @@
 
 10. melléklet az 57/2021. (XI. 24.) MNB rendelethez
 
-## A foglalkoztatói nyugdíjszolgáltató intézmény PEPP szöveges jelentése kitöltésére vonatkozó részletes előírások
+A foglalkoztatói nyugdíjszolgáltató intézmény PEPP szöveges jelentése kitöltésére vonatkozó részletes előírások
 
 I.
 

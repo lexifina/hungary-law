@@ -9,3 +9,5 @@
 a) évente, a tárgyévi mérleg fordulónapját követő 18 héten belül, valamint
 
 b) a páneurópai egyéni nyugdíjtermék üzletágban (a továbbiakban: PEPPüzletág) bekövetkezett jelentős változás esetén, a változást követő 6 héten belül
+
+teljesíti az MNB részére.

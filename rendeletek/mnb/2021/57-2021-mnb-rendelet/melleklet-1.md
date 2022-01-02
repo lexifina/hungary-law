@@ -1,8 +1,6 @@
-## 12. § Hatályát veszti a 45/2020. (XI. 20.) MNB rendelet.
-
 1. melléklet az 57/2021. (XI. 24.) MNB rendelethez
 
-## Általános kitöltési előírások
+Általános kitöltési előírások
 
 1. Kapcsolódó jogszabályok
 
