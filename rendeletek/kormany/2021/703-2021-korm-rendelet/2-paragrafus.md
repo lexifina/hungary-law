@@ -16,10 +16,12 @@ a) hosszabb [a munka törvénykönyvéről szóló 2012. évi I. törvény (a to
 
 b) rövidebb [Mt. 92. § (4) bekezdése], arányosan növelt mértékben
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (5) Részmunkaidő esetén
 
 a) az (1)–(3) bekezdésben meghatározott havi, heti és napi bértételt a munkaidő eltérő mértékével arányosan csökkentve,
 
 b) az (1) és a (2) bekezdésben meghatározott órabértételt az ott szereplő összeggel, illetve annak (4) bekezdés szerint arányosan változó összegével
+
+kell figyelembe venni.
