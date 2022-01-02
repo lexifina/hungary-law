@@ -1,7 +1,3 @@
-## lép.
+## 3. §[^3]
 
-## 4. § Hatályát veszti a 112/2011. (VII. 4.) Korm. rendelet
-
-a) 1–1/B. §-a és
-
-b) 2. § (4) bekezdése.
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „k) az Országos Atomenergia Hivatal (a továbbiakban: OAH) elnöke,”
+## 5. §[^5]
 
-## 6. § A 213/2013. (VI. 21.) Korm. rendelet
-
-a) 1. § (4) bekezdésében az „Az OAH felügyeletét ellátó” szövegrész helyébe az „A Központi Nukleáris Pénzügyi Alappal rendelkező” szöveg,
-
-b) 3. §-ában és 5. §-ában az „az OAH felügyeletét ellátó” szövegrészek helyébe az „a Központi Nukleáris Pénzügyi Alappal rendelkező” szöveg
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
