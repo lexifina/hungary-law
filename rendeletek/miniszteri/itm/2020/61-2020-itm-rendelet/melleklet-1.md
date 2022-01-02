@@ -2,16 +2,6 @@
 
 ## és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1999 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 61/2020. (XII. 30.) ITM rendelethez
+1. melléklet a 61/2020. (XII. 30.) ITM rendelethez[^15]
 
-1.[^13]
-
-2.[^14]
-
-3.[^15]
-
-4. Az R. 1. melléklet V. része a következő 9. ponttal egészül ki:
-
-[^13]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: Az 1. melléklet 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: Az 1. melléklet 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
