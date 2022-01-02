@@ -1,3 +1,0 @@
-## 10. § A felsőoktatási, valamint az államilag elismert nyelvvizsgarendszer működésével kapcsolatos közigazgatási hatósági eljárások igazgatási szolgáltatási díjáról, azok mértékéről szóló 12/2013. (II. 12.) EMMI rendelet [a továbbiakban: 12/2013. (II. 12.) EMMI rendelet] a következő 9. §-sal egészül ki:
-
-## „9. § E rendeletnek a felsőoktatási intézménynek a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló 8/2013. (I. 30.) EMMI rendelet, valamint egyes kapcsolódó miniszteri rendeletek módosításáról szóló 64/2021. (XII. 29.) ITM rendelettel (a továbbiakban: Mód. 2. rendelet) módosított 4. mellékletét a Mód. 2. rendelet hatálybalépése után indult eljárásokban kell alkalmazni.”
