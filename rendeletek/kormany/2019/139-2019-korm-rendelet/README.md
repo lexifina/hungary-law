@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-139-20-
 | 2020-11-01 | 2019-139-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-11-02 | 2019-139-20-22.8 | 2010: CXXX. törvény |
 | 2022-01-01 | 2019-139-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-01-02 | 2019-139-20-22.10 | 2010: CXXX. törvény |
