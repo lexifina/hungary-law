@@ -1,3 +1,3 @@
-## 5. §[^1]
+## 5. §[^5]
 
-[^1]: Az 5. § a 39. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^5]: Az 5. § a 39. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.

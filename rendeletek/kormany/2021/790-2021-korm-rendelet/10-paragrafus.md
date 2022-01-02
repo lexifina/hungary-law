@@ -1,3 +1,3 @@
-## 9. §[^5]
+## 9. §[^9]
 
-[^5]: A 9. § a 39. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^9]: A 9. § a 39. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.

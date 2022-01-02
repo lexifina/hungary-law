@@ -1,7 +1,3 @@
-## 30. § Az R3. 33/O. §-a a következő e) ponttal egészül ki
+## 30. §[^30]
 
-## (Az e rendeletben foglaltaktól eltérően pedagógus-munkakörben foglalkoztatható)
-
-## „e) általános iskolában technika, életvitel és gyakorlat tantárgy oktatására, aki háztartásökonómia–életvitel szakos tanári”
-
-## (végzettséggel és szakképzettséggel rendelkezik.)
+[^30]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

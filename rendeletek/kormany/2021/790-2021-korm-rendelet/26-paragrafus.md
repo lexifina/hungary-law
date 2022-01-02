@@ -1,1 +1,3 @@
-## „(3) Ha a pedagógus-munkakörre foglalkoztatási jogviszonyt létesítő személy nem rendelkezik az (1) és (2) bekezdés szerint számított egy vagy két év szakmai gyakorlattal, de bármely más munkakörben, vagy részben az (1) és (2) bekezdésben foglalt jogviszonyban, részben más munkakörben szerzett, legalább hat év munkaviszony jellegű jogviszonnyal rendelkezik, mentesül az előmeneteli rendszer gyakornoki szakasza követelményeinek teljesítése alól, és a Pedagógus I. fokozatba kerül besorolásra. Ennek során a pedagógust akkor is a Pedagógus I. fokozat 2. fizetési kategóriájába kell sorolni, ha nem rendelkezik két év, a fizetési kategória megállapításához beszámítandó idővel.”
+## 25. §[^25]
+
+[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
