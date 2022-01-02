@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-58-00-00
 | 2021-12-01 | 2021. évi XCIX. törvény | 2020-58-00-00.15 |
 | 2021-12-30 | 2021. évi CXX. törvény | 2020-58-00-00.16 |
 | 2022-01-01 | 2021. évi CXXX. törvény | 2020-58-00-00.17 |
+| 2022-01-02 | 2021. évi CIII. törvény | 2020-58-00-00.18 |
