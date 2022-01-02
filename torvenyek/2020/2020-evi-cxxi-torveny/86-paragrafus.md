@@ -2,8 +2,4 @@
 
 86. § (1)
 
-(2) Az E-ügyintézési tv. 1. §-a a következő 39a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„39a. piaci szereplők részére nyújtható központi állami szolgáltatás: olyan, az állam által nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet a Kormány rendeletében informatikai, hálózati és infrastrukturális közszolgáltatásra kijelölt szolgáltató nem közfeladat ellátása céljából, piaci alapon, az eredeti közszolgáltatással – a Kormány rendeletében meghatározott eltérésekkel technikai tartalomban – azonos módon nyújt;”
+(2)

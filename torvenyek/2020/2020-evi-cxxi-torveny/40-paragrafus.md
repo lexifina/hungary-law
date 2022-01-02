@@ -1,1 +1,1 @@
-40. § Az Utv. 28. § (1) bekezdés d) pontjában az „érintett arcképmásáról” szövegrész helyébe az „érintett állampolgárságáról, számára kiadott úti okmány típusáról, számáról, arcképmásáról” szöveg lép.
+40. §
