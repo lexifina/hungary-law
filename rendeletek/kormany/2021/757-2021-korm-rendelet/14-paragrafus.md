@@ -1,7 +1,3 @@
-## 13. § Az R5. 1. melléklete a 4. melléklet szerint módosul.
+## 13. §[^14]
 
-## 14. § Hatályát veszti az R5.
-
-a) 4/A–4/F. §-a és
-
-b) 16. melléklete.
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

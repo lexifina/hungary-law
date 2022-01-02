@@ -1,3 +1,5 @@
-## 9. § Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet (a továbbiakban: R3.) 3. számú melléklete a 3. melléklet szerint módosul.
+## 9. §[^10]
 
 ## 4. Az egészségügyi szolgáltatók gyógyszerrendelésének és kiszolgáltatásának értékeléséről, valamint a háziorvosi és a gyógyszertári érdekeltségi rendszer kialakításáról szóló 364/2010. (XII. 30.) Korm. rendelet módosítása
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

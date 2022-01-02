@@ -1,7 +1,5 @@
-## 10. § Az egészségügyi szolgáltatók gyógyszerrendelésének és kiszolgáltatásának értékeléséről, valamint a háziorvosi és a gyógyszertári érdekeltségi rendszer kialakításáról szóló 364/2010. (XII. 30.) Korm. rendelet 8/A. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-## „(2a) A gyógyszertárak szakmai felügyeletét ellátó Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet (a továbbiakban: R.) 6/C. § (4) bekezdése szerinti hatósági bizonyítványok kiállítását követő hónap 5. napjáig tájékoztatást küld a NEAK részére azokról a vállalkozásokról, amelyek részére a támogatásra való jogosultságot megítélte.
-
-## (2b) Az R. 6/C. §-a szerint működési célú támogatásban részesülő közforgalmú gyógyszertárat működtető vállalkozás a (2) bekezdésben foglaltaktól eltérően vényenként 80 forint vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági ellenőrzésen alapuló szolgáltatási díjra jogosult abban a negyedévben, amely negyedév első hónapjában szerepel az OGYÉI (2a) bekezdés szerinti, NEAK részére megküldött tájékoztatásában.”
+## 10. §[^11]
 
 ## 5. Egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosítása
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

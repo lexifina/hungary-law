@@ -1,1 +1,3 @@
-## 7. § A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet (a továbbiakban: R2.) 6/C. § (1) bekezdés b) pontjában a „8 millió forintot” szövegrész helyébe a „9 millió forintot” szöveg lép.
+## 7. §[^8]
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
