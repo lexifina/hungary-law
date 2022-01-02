@@ -1,5 +1,5 @@
-## 31. § Az állami beruházások központi nyilvántartásáról és ellenőrzéséről, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 469/2016. (XII. 23.) Korm. rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) E rendelet hatálya a részben vagy egészben központi költségvetési forrásból – ideértve az európai uniós forrásokat is –, a Kormány vagy a miniszter irányítása vagy felügyelete alá tartozó központi költségvetési szerv vagy – az állami vagyonról szóló 2007. évi CVI. törvény 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon körébe tartozó gazdasági társaság kivételével – az állam többségi befolyása alatt álló gazdasági társaság által megvalósított építésiengedély-köteles, valamint a bruttó 20 millió forintos bekerülési értéket meghaladó nem építésiengedély-köteles építési beruházásokra (a továbbiakban együtt: Beruházás) terjed ki.”
+## 31. §[^9]
 
 ## 9. A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet módosítása
+
+[^9]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

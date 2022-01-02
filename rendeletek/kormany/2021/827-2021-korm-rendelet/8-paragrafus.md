@@ -1,3 +1,0 @@
-## 7. § A Vhr. 47. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a nyertes árverező neki felróható okból a 47/E. § (3a) bekezdése szerint az árverési biztosíték összegét nem egészíti ki, vagy a hirdetményben előírt határidő alatt a szerződést nem köti meg, vagy a teljes vételárat nem fizeti meg, úgy kell tekinteni, hogy a jogügylettől visszalépett. Ilyen esetben a befizetett árverési biztosítékot vagy a 47/E. § (3a) bekezdése szerint az árverési biztosíték kiegészített összegét elveszti, és felelős a szerződéskötés meghiúsulásából az árvereztetőt ért károkért, továbbá viseli az árvereztető ebből fakadó költségeit.”
