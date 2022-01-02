@@ -1,9 +1,1 @@
-3. § (1) Az Szja tv. 48. §-a a következő (3d) és (3e) bekezdéssel egészül ki:
-
-„(3d) A 29/F. § (2) bekezdése szerinti jövedelmet juttató, adóelőleget megállapító munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető a fiatal adóelőleg-alapját – a fiatalnak a 25 év alatti fiatalok kedvezménye részben vagy egészben történő érvényesítésének mellőzését kérő nyilatkozata hiányában – jogosultsági hónaponként csökkenti a 29/F. § (2) bekezdése szerinti összeggel.
-
-(3e) A 25 év alatti fiatalok kedvezményét érvényesítő fiatal a családi kedvezményről abban az esetben is tehet adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére, ha a 25 év alatti fiatalok kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.”
-
-(2) Az Szja tv. 48. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A fiatal a (3d) bekezdés szerinti nyilatkozatot – megjelölve abban azt az összeget, amelyre nem kéri a 25 év alatti fiatalok kedvezménye érvényesítését – akkor tesz, ha a nyilatkozat hiányában az adóév egészére vonatkozóan keletkező befizetési különbözet a 10 ezer forintot meghaladná. Ha a fiatal a (3d) bekezdés szerint nem tesz nyilatkozatot, és a nyilatkozata hiányában keletkező befizetési különbözet az adóévben a 10 ezer forintot meghaladja, a befizetési különbözet után a fiatal az adóévre vonatkozó bevallásában külön feltüntetve 12 százalék különbözeti-bírságot állapít meg, amelyet a személyi jövedelemadó-fizetési kötelezettségre vonatkozó rendelkezések szerint fizet meg.”
+3. §
