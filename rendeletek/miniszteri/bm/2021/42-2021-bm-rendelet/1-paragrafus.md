@@ -7,3 +7,5 @@ b) a büntetés-végrehajtási szervezet hivatásos állománya,
 c) a hivatásos katasztrófavédelmi szerv hivatásos állománya, valamint
 
 d) a terrorizmust elhárító szervhez vezényelt hivatásos állomány
+
+részére.
