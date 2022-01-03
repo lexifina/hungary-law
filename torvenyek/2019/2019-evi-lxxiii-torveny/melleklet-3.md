@@ -1,1 +1,0 @@
-3. melléklet a 2019. évi LXXIII. törvényhez
