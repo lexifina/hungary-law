@@ -1,5 +1,0 @@
-## 1. §[^2]
-
-## 2. Az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontjainak, valamint az almérők alkalmazásával történő mérés minimális követelményeinek meghatározásáról szóló 1/2020. (I. 16.) MEKH rendelet módosítása
-
-[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
