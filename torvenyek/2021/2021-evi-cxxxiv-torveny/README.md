@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-134-00-00
 | 2022-01-01 | 2021. évi CXXXIV. törvény | 2021-134-00-00.0 (közlönyállapot) |
 | 2022-01-01 | 2021. évi CXXV. törvény | 2021-134-00-00.1 |
 | 2022-01-02 | 2010. évi CXXX. törvény | 2021-134-00-00.2 |
+| 2022-01-03 | 2010. évi CXXX. törvény | 2021-134-00-00.3 |
