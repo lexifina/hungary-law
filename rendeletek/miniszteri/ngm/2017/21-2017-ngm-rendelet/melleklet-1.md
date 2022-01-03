@@ -24,7 +24,7 @@
 
 2.5. olyan termékek, amelyek esetében a pénzmosással és a terrorizmus finanszírozásával kapcsolatos kockázatot egyéb intézkedések, például az elektronikus pénzeszközök korlátozása vagy a tulajdonlás átláthatósága révén kezelik (például az egyes elektronikuspénz-típusok).
 
-3.[^7] Földrajzi kockázati tényezők az ügyfél székhelye, fióktelepe vagy telephelye, továbbá lakóhelye vagy tartózkodási helye tekintetében:
+3.[^11] Földrajzi kockázati tényezők az ügyfél székhelye, fióktelepe vagy telephelye, továbbá lakóhelye vagy tartózkodási helye tekintetében:
 
 3.1. az Európai Unió tagállamai;
 
@@ -34,4 +34,4 @@
 
 3.4. olyan harmadik országok, amelyeknek a pénzmosás és a terrorizmus finanszírozása elleni küzdelemmel kapcsolatos előírásai összhangban vannak a felülvizsgált FATF-ajánlásokkal, és hatékonyan alkalmazzák ezeket az előírásokat.
 
-[^7]: Az 1. melléklet 3. pont nyitó szövegrésze a 3/2021. (II. 2.) PM rendelet 5. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet 3. pont nyitó szövegrésze a 3/2021. (II. 2.) PM rendelet 5. §-ával megállapított szöveg.

@@ -2,7 +2,19 @@
 
 a) a pénzmosásra vagy a terrorizmus finanszírozására utaló adatok, tények, körülmények megállapításakor figyelembe veendő szempontok,
 
-b)[^1] az ügyfél azonosításának, üzleti kapcsolat létesítése esetén az ügyfél kockázati szintbe történő besorolásának, a személyazonosság igazoló ellenőrzésének, a tényleges tulajdonos azonosításának, az üzleti kapcsolat célját és tervezett jellegét feltáró tevékenységnek, illetve az üzleti kapcsolat folyamatos figyelemmel kísérésének, ennek során az ügyfél kockázati szintje ellenőrzésének és a kockázati szint változása esetén megteendő intézkedéseknek, valamint az üzleti kapcsolatra vonatkozó adatok, okiratok naprakészen tartásának (a továbbiakban együtt: ügyfél-átvilágítás) belső eljárási rendje,
+b)[^1] az ügyfél-átvilágításhoz kapcsolódóan
+
+ba) az ügyfél azonosításának, üzleti kapcsolat létesítése esetén az ügyfél kockázati szintbe történő besorolásának, a személyazonosság igazoló ellenőrzésének,
+
+bb) a tényleges tulajdonos azonosításának,
+
+bc) az üzleti kapcsolat célját és tervezett jellegét feltáró tevékenységnek,
+
+bd) az üzleti kapcsolat és az üzleti kapcsolat fennállása során az ügyletek folyamatos figyelemmel kísérésének, ennek keretében az ügyfél kockázati szintje ellenőrzésének és a kockázati szint változása esetén megteendő intézkedéseknek, valamint ehhez kapcsolódóan az összetett és szokatlan ügyletek és pénzügyi műveletek különös figyelemmel kísérésének és elemzésének, valamint
+
+be) az üzleti kapcsolatra vonatkozó adatok, okiratok naprakészen tartásának
+
+## belső eljárási rendje,
 
 c) az ügyfélazonosító adatok valódiságával vagy megfelelőségével, illetve a tényleges tulajdonos kilétével kapcsolatban felmerült kétség alapjául szolgáló adatok, tények, körülmények,
 
@@ -18,7 +30,7 @@ h) az ügylet felfüggesztésének belső eljárási rendje,
 
 i) az ügyfél-átvilágítás, illetve a bejelentés kapcsán keletkezett adatok kezelésére, megőrzésére, védelmére, illetve az érintett alkalmazottak védelmére vonatkozó belső előírások,
 
-j) az ügyfelekkel kapcsolatba kerülő foglalkoztatottak képzésére, a pénzmosás és terrorizmus finanszírozása megelőzését és megakadályozását célzó képzési programokon történő részvételére vonatkozó előírások,
+j)[^2] a Pmt. hatálya alá tartozó tevékenység ellátásában részt vevő vezetők és foglalkoztatottak felvétele során a megfelelő szakmai képességek biztosítására, valamint az ügyfelekkel kapcsolatba kerülő foglalkoztatottak képzésére, a pénzmosás és terrorizmus finanszírozása megelőzését és megakadályozását célzó képzési programokon történő részvételére vonatkozó előírások,
 
 k) az ügyfelekkel kapcsolatba kerülő foglalkoztatottak részére az ügyfél-átvilágítás során alkalmazandó eljárási, magatartási normák,
 
@@ -28,10 +40,17 @@ m) a Pmt. 2. §-ában meghatározott szolgáltatók esetében a pénzátutaláso
 
 n) a Pmt. 3. § 35. pontjában meghatározott személy neve, beosztása, és a szolgáltató pénzmosás és terrorizmus-finanszírozás jelentette kockázati kitettségének a befolyásolására szolgáló döntésekkel kapcsolatos hatáskörének meghatározása.
 
-o)[^2] a speciális ügyfél-átvilágítás esetkörei és belső eljárási rendje;
+o)[^3] a speciális ügyfél-átvilágítás esetkörei és belső eljárási rendje, ideértve az Európai Unió tagállamában székhellyel rendelkező szolgáltatóval történő levelező kapcsolat létesítése előtt a Pmt. 24/A. § (5) bekezdésének megfelelően kockázatérzékenységi megközelítés alapján alkalmazandó ügyfél-átvilágítási intézkedések belső eljárási rendjét is;
 
-p)[^3] a pénzeszközök és a vagyon forrására vonatkozó információk beszerzésének és igazolásának belső eljárási rendje.
+p)[^4] a pénzeszközök és a vagyon forrására vonatkozó információk beszerzésének és igazolásának belső eljárási rendje.
 
-[^1]: Az 1. § b) pontja a 3/2021. (II. 2.) PM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § o) pontját a 3/2021. (II. 2.) PM rendelet 1. § (2) bekezdése iktatta be.
-[^3]: Az 1. § p) pontját a 3/2021. (II. 2.) PM rendelet 1. § (2) bekezdése iktatta be.
+q)[^5] a kockázatok csökkentése és kezelése érdekében meghatározott belső eljárásrend,
+
+r)[^6] a belső eljárásrend megfelelőségének és működésének ellenőrzése (tesztelése) céljából működtetett külső ellenőrzési funkció leírása.
+
+[^1]: Az 1. § b) pontja a 13/2021. (XI. 19.) PM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § j) pontja a 13/2021. (XI. 19.) PM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § o) pontját a 3/2021. (II. 2.) PM rendelet 1. § (2) bekezdése iktatta be, szövege a 13/2021. (XI. 19.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 1. § p) pontját a 3/2021. (II. 2.) PM rendelet 1. § (2) bekezdése iktatta be.
+[^5]: Az 1. § q) pontját a 13/2021. (XI. 19.) PM rendelet 1. § (4) bekezdése iktatta be.
+[^6]: Az 1. § r) pontját a 13/2021. (XI. 19.) PM rendelet 1. § (4) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-3. melléklet a 21/2017. (VIII. 3.) NGM rendelethez[^11]
+3. melléklet a 21/2017. (VIII. 3.) NGM rendelethez[^16]
 
 A Pmt. 9/A. § (2) bekezdése, 16. § (3) bekezdése és 16/A. § (1) bekezdés a) pont ac) alpontja szerinti vagyon forrását igazoló nyilatkozat kötelező tartalmi elemei
 
@@ -92,4 +92,4 @@ A nyilatkozattételt megelőző adóévben megszerzett, 3 millió Ft-ot meghalad
 
 2.4. Nyilatkozat a kötelezettségekről (a nyilatkozattételt megelőzően közzétett utolsó éves beszámoló adatai alapján, legalább 3 millió forint értékben, megjelölve a 2.3. pont alatt meghatározott nagyságrendi kategóriákat)
 
-[^11]: A 3. mellékletet a 3/2021. (II. 2.) PM rendelet 6. § (2) bekezdése iktatta be.
+[^16]: A 3. mellékletet a 3/2021. (II. 2.) PM rendelet 6. § (2) bekezdése iktatta be.
