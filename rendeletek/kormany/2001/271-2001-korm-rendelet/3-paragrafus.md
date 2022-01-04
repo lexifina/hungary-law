@@ -8,7 +8,7 @@ a) visszafordíthatatlan környezetkárosítás, vagy
 
 b) ugyanazon jogsértés ismétlődése, illetőleg egyéb súlyosbító körülmény felmerülése, vagy
 
-c) a hulladékkezelési tevékenységet ellenőrző környezetvédelmi hatóság szándékolt félrevezetése, ellenőrzésének akadályozása
+c)[^26] a hulladékkezelési tevékenységet ellenőrző hulladékgazdálkodási hatóság szándékolt félrevezetése, ellenőrzésének akadályozása
 
 ## valósult meg.
 
@@ -16,7 +16,7 @@ c) a hulladékkezelési tevékenységet ellenőrző környezetvédelmi hatóság
 
 (4) Hulladék országhatárt átlépő jogellenes szállítása (behozatala, kivitele vagy az ország területén való átszállítása) esetén a fizetendő bírság mértékét, az 1. § (3) bekezdése f)–g) pontjaiban meghatározott alapbírság és a hulladék tömegét mutató szám szorzata alapján kell megállapítani. Amennyiben a hulladék tömege pontosan nem határozható meg, a becsléssel meghatározott, tonnában kifejezett tömegtartomány középértékével kell számolni.
 
-(5)[^26] A bírság a (3) és (4) bekezdésben meghatározott módon kiszámított összegét, valamint a 2. § (4)–(6) bekezdésben meghatározott összegét
+(5)[^27] A bírság a (3) és (4) bekezdésben meghatározott módon kiszámított összegét, valamint a 2. § (4)–(6) bekezdésben meghatározott összegét
 
 a) ugyanazon jogsértés ismételt elkövetése esetén kétszeres,
 
@@ -29,4 +29,5 @@ c) amennyiben a környezetveszélyeztetéssel, illetőleg környezetkárosítás
 (6) Amennyiben a bírság kiszabására e rendeletben foglalt több tényállás alapján is sor kerülhet, a legsúlyosabban minősülő tényállás alapján kiszabható legmagasabb bírságösszeget legfeljebb a felével emelten kell kiszabni.
 
 [^25]: A 3. § (1) bekezdése a 313/2005. (XII. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^26]: A 3. § (5) bekezdésének bevezető szövegrésze a 313/2005. (XII. 25.) Korm. rendelet 14. §-ával megállapított, valamint a 181/2008. (VII. 8.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^26]: A 3. § (2) bekezdés c) pontja az 1/2022. (I. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^27]: A 3. § (5) bekezdésének bevezető szövegrésze a 313/2005. (XII. 25.) Korm. rendelet 14. §-ával megállapított, valamint a 181/2008. (VII. 8.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.

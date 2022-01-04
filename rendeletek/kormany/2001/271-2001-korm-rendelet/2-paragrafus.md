@@ -1,4 +1,4 @@
-2. § (1)[^12] A bírság kiszabására a (2) bekezdésben foglalt kivételekkel az illetékes környezetvédelmi hatóság, illetve az országos környezetvédelmi hatóság jogosult.
+2. § (1)[^12] A bírság kiszabására a (2) bekezdésben foglalt kivételekkel az illetékes hulladékgazdálkodási hatóság, illetve az országos hulladékgazdálkodási hatóság jogosult.
 
 (2) A bírság kiszabására a települési önkormányzat jegyzője (a továbbiakban: jegyző) jogosult, amennyiben
 
@@ -28,9 +28,9 @@ c) a jogsértés nem veszélyes hulladékkal kapcsolatos,
 
 d) a jogsértéssel érintett hulladék mennyisége nem haladja meg az adott településen a háztartásokban keletkező települési hulladék átlagos havi mennyiségét.
 
-(5)[^17] A hulladékokkal kapcsolatos tájékoztatási, adatszolgáltatási és nyilvántartási, illetve bejelentési kötelezettségek, továbbá az egyedi hulladékgazdálkodási terv készítése kötelezettségének elmulasztása esetén alapbírság, szorzószám megállapítása nélkül az illetékes környezetvédelmi hatóság a bírságot 200 000 Ft-ban állapítja meg. A hulladékokkal kapcsolatos tájékoztatási, adatszolgáltatási és nyilvántartási, illetve bejelentési kötelezettségeknek a jogszabályokban meghatározottaknak nem megfelelő teljesítése esetén a bírságot az illetékes környezetvédelmi hatóság legfeljebb 200 000 Ft-ban állapíthatja meg.
+(5)[^17] A hulladékokkal kapcsolatos tájékoztatási, adatszolgáltatási és nyilvántartási, illetve bejelentési kötelezettségek, továbbá az egyedi hulladékgazdálkodási terv készítése kötelezettségének elmulasztása esetén alapbírság, szorzószám megállapítása nélkül az illetékes hulladékgazdálkodási hatóság a bírságot 200 000 Ft-ban állapítja meg. A hulladékokkal kapcsolatos tájékoztatási, adatszolgáltatási és nyilvántartási, illetve bejelentési kötelezettségeknek a jogszabályokban meghatározottaknak nem megfelelő teljesítése esetén a bírságot az illetékes hulladékgazdálkodási hatóság legfeljebb 200 000 Ft-ban állapíthatja meg.
 
-(6)[^18] Az elektromos és elektronikus berendezések (a továbbiakban: elektromos berendezés) forgalmazásával kapcsolatos környezetvédelmi követelmények, illetve az ilyen berendezések hulladékainak visszavételére vonatkozó jogszabályi előírások nem, vagy nem megfelelő teljesítése esetén alapbírság, szorzószám megállapítása nélkül az illetékes környezetvédelmi hatóság a bírságot:
+(6)[^18] Az elektromos és elektronikus berendezések (a továbbiakban: elektromos berendezés) forgalmazásával kapcsolatos környezetvédelmi követelmények, illetve az ilyen berendezések hulladékainak visszavételére vonatkozó jogszabályi előírások nem, vagy nem megfelelő teljesítése esetén alapbírság, szorzószám megállapítása nélkül az illetékes hulladékgazdálkodási hatóság a bírságot:
 
 a) ha a gyártó a tárgyévi begyűjtendő hulladékmennyiséget nem teljesíti: 350 000 forintban,
 
@@ -38,7 +38,7 @@ b) ha a gyártó a visszavételi, vagy a kereskedő az átvételi kötelezettsé
 
 c) ha a gyártó a hasznosítási, valamint az ártalmatlanítási kötelezettségét nem teljesíti, vagy az elektromos berendezésben a veszélyes anyagok alkalmazásának külön jogszabályban[^19] meghatározott határértékét túllépi 300 000 forintban állapítja meg.
 
-(7)[^20] A környezetvédelmi hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül, az elemek és akkumulátorok visszavételéről, illetve kezeléséről szóló külön jogszabály előírásai nem vagy nem megfelelő teljesítése esetén:
+(7)[^20] A hulladékgazdálkodási hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül, az elemek és akkumulátorok visszavételéről, illetve kezeléséről szóló külön jogszabály előírásai nem vagy nem megfelelő teljesítése esetén:
 
 a) ha a gyártó, illetve a koordináló szervezet a tárgyévi begyűjtendő hulladékmennyiséget nem teljesíti: a kötelezettségszegés mértékével arányos összeg, azonban legfeljebb 500 000 forint,
 
@@ -54,7 +54,7 @@ f) ha a gyártó adatszolgáltatási kötelezettségét késedelmesen vagy nem t
 
 g) ha a gyártó az elem, illetve akkumulátor forgalmazási előírásait szegi meg: 2 000 000 forint.
 
-(8)[^22] Az M1 és N1 járműkategóriájú gépjárművek forgalmazásával kapcsolatos környezetvédelmi követelmények, illetve a hulladékká vált gépjárművek visszavételére és kezelésére vonatkozó jogszabályi előírások nem teljesítése esetén az illetékes környezetvédelmi hatóság a bírságot:
+(8)[^22] Az M1 és N1 járműkategóriájú gépjárművek forgalmazásával kapcsolatos környezetvédelmi követelmények, illetve a hulladékká vált gépjárművek visszavételére és kezelésére vonatkozó jogszabályi előírások nem teljesítése esetén az illetékes hulladékgazdálkodási hatóság a bírságot:
 
 a) ha a gyártó, illetve forgalmazó nem teljesíti a hulladékká vált gépjárművekről szóló 267/2004. (IX. 23.) Korm. rendelet (a továbbiakban: Hkr.) 5. § (6) bekezdése szerinti tájékoztatási kötelezettségét: forgalomba hozott járművenként: 1000 forintban;
 
@@ -62,20 +62,20 @@ b) ha a gyártó nem teljesíti a Hkr. 3. § (2) bekezdés a)–b) pontjában el
 
 ## állapítja meg. A jármű/év forgalomba hozatal számításakor az előző évi forgalom adatait kell figyelembe venni.
 
-(9)[^23] A környezetvédelmi hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló külön jogszabály előírásai nem vagy nem megfelelő teljesítése esetén, ha a forgalmazó az átvételi kötelezettségét nem teljesíti: 100 000 forint.
+(9)[^23] A hulladékgazdálkodási hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló külön jogszabály előírásai nem vagy nem megfelelő teljesítése esetén, ha a forgalmazó az átvételi kötelezettségét nem teljesíti: 100 000 forint.
 
-(10)[^24] A területi környezetvédelmi hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül az (EU) 2019/1021 európai parlamenti és tanácsi rendelet 7. cikkében meghatározott hulladékkezelési feladatok nem vagy nem megfelelő teljesítése esetén: 500 000 forint.
+(10)[^24] A területi hulladékgazdálkodási hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül az (EU) 2019/1021 európai parlamenti és tanácsi rendelet 7. cikkében meghatározott hulladékkezelési feladatok nem vagy nem megfelelő teljesítése esetén: 500 000 forint.
 
-[^12]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 244. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 47. §-a szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 244. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 47. §-a, az 1/2022. (I. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^13]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^14]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^15]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^16]: A 2. § (4) bekezdésének felvezető mondata a 313/2005. (XII. 25.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^17]: A 2. § (5) bekezdését a 313/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 245. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^18]: A 2. § (6) bekezdését a 313/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^17]: A 2. § (5) bekezdését a 313/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 245. §-a, az 1/2022. (I. 3.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^18]: A 2. § (6) bekezdését a 313/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be, nyitó szövegrésze az 1/2022. (I. 3.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^19]: Az elektromos és elektronikai berendezések hulladékainak visszavételéről szóló 264/2004. (IX. 23.) Korm. rendelet.
-[^20]: A 2. § (7) bekezdését a 313/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 181/2008. (VII. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^20]: A 2. § (7) bekezdését a 313/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 181/2008. (VII. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított, nyitó szövegrésze az 1/2022. (I. 3.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^21]: A 2. § (7) bekezdésének d) pontja a 182/2009. (IX. 10.) Korm. rendelet 245. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^22]: A 2. § (8) bekezdését a 286/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^23]: A 2. § (9) bekezdését a 72/2010. (III. 19.) Korm. rendelet 1. §-a iktatta be.
-[^24]: A 2. § (10) bekezdését a 376/2020. (VII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^22]: A 2. § (8) bekezdését a 286/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdése iktatta be, nyitó szövegrésze az 1/2022. (I. 3.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: A 2. § (9) bekezdését a 72/2010. (III. 19.) Korm. rendelet 1. §-a iktatta be, szövege az 1/2022. (I. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^24]: A 2. § (10) bekezdését a 376/2020. (VII. 30.) Korm. rendelet 13. §-a iktatta be, szövege az 1/2022. (I. 3.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
