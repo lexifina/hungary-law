@@ -1,1 +1,3 @@
-## 3. § A 21/2017. (VIII. 3.) NGM rendelet 2. melléklete az 1. melléklet szerint módosul.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „q) a kockázatok csökkentése és kezelése érdekében meghatározott belső eljárásrend,
+## 1. §[^2]
 
-## r) a belső eljárásrend megfelelőségének és működésének ellenőrzése (tesztelése) céljából működtetett külső ellenőrzési funkció leírása.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
