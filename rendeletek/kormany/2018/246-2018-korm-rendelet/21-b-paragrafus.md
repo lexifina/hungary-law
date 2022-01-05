@@ -1,0 +1,1 @@
+## 21/A. § A más tagállam által végzett átvilágítással, illetve a más tagállamban tervezett vagy megvalósult közvetlen külföldi befektetéssel összefüggésben a tagállamok számára biztosított jogosultságokat – az (EU) 2019/452 európai parlamenti és tanácsi rendeletben meghatározott követelményeknek megfelelően – a miniszter a nemzeti kapcsolattartó ponton keresztül gyakorolja.

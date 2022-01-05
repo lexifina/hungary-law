@@ -20,9 +20,9 @@
 
 ## 2. A Hpt. 3. § (2) bekezdés b) pontja szerinti fizetési rendszer működtetése, ide nem értve a kizárólag készpénz-helyettesítő fizetési eszközökkel végzett fizetési műveletek tekintetében történő működtetést.
 
-## 5. A villamos energiáról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
+## 5.[^11] A villamos energiáról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
 
-## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 1. § f) pontja szerint olyan tevékenységet érint, amely elengedhetetlen a létfontosságú társadalmi feladat ellátásához – így különösen az egészségügyhöz, a lakosság személy- és vagyonbiztonságához, a gazdasági és szociális közszolgáltatások biztosításához –, vagy amelynek kiesése e feladatok folyamatos ellátásának hiánya miatt jelentős következményekkel járna.
+## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 1. § f) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
 
 ## 1. A villamos energiának a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 3. § 1. pontja szerinti átvitele.
 
@@ -32,9 +32,9 @@
 
 ## 4. A villamos energiának a legalább 50 MW névleges teljesítőképességű erőműre vonatkozó működési engedéllyel rendelkező termelési engedélyes részéről történő, a VET 3. § 57. pontja szerinti termelése.
 
-## 6. A földgázellátásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
+## 6.[^12] A földgázellátásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
 
-## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha az Lrtv. 1. § f) pontja szerint olyan tevékenységet érint, amely elengedhetetlen a létfontosságú társadalmi feladat ellátásához – így különösen az egészségügyhöz, a lakosság személy- és vagyonbiztonságához, a gazdasági és szociális közszolgáltatások biztosításához –, vagy amelynek kiesése e feladatok folyamatos ellátásának hiánya miatt jelentős következményekkel járna.
+## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt az Lrtv. 1. § f) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
 
 ## 1. A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. § 24. pontja szerinti földgázelosztás.
 
@@ -44,9 +44,9 @@
 
 ## 4. A GET 3. § 52. pontja szerinti rendszerirányítás.
 
-## 7. A víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
+## 7.[^13] A víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
 
-## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha az Lrtv. 1. § f) pontja szerint olyan tevékenységet érint, amely elengedhetetlen a létfontosságú társadalmi feladat ellátásához – így különösen az egészségügyhöz, a lakosság személy- és vagyonbiztonságához, a gazdasági és szociális közszolgáltatások biztosításához –, vagy amelynek kiesése e feladatok folyamatos ellátásának hiánya miatt jelentős következményekkel járna.
+## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt az Lrtv. 1. § f) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
 
 ## 1. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vszktv.) 2. § 13. pontja szerinti kiszervezés.
 
@@ -64,7 +64,7 @@
 
 ## 3. Az Ibtv. 1. § (1) bekezdés 41. pontjában meghatározott sérülékenységvizsgálatnak az Ibtv. 18. § (3) bekezdése szerinti elvégzése.
 
-## 10.[^1] A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek
+## 10.[^14] A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek
 
 ## 1. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) szerinti biztosítási és viszontbiztosítási tevékenység.
 
@@ -98,4 +98,7 @@ A TÖRVÉNY 7. § (2) BEKEZDÉSÉVEL ÉRINTETT TEVÉKENYSÉGEK ENGEDÉLYEZÉSÉR
 
 3. A kiszervezés előzetes engedélyezése.
 
-[^1]: Az 1. melléklet 10. alcímét a 648/2021. (XI. 30.) Korm. rendelet 6. §-a iktatta be.
+[^11]: Az 1. melléklet 5. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet 6. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet 7. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 10. alcímét a 648/2021. (XI. 30.) Korm. rendelet 6. §-a iktatta be.

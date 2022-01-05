@@ -2,7 +2,7 @@
 
 13. § (1) A Törvény 6. § (4) bekezdés b) pontja szerinti tiltó döntéshez fűzött egyszerűsített indokolás
 
-a) a bejelentési kötelezettség alá tartozó tulajdonszerzésben, üzemeltetésijog-megszerzésben, illetve újonnan felvett tevékenység folytatásában (e § alkalmazásában a továbbiakban együtt: jogügylet) érintett felek megnevezését,
+a)[^7] a bejelentési kötelezettség alá tartozó tulajdonszerzésben, üzemeltetésijog-megszerzésben, illetve újonnan felvett tevékenység folytatásában (e § alkalmazásában a továbbiakban együtt: jogügylet) érintett külföldi befektető megnevezését,
 
 b) a jogügylettel érintett tevékenység 1. melléklet szerinti megjelölését,
 
@@ -25,3 +25,5 @@ b) az (1) bekezdés a)–f) pontjában meghatározott elemeket
 ## tartalmazza.
 
 (3) A tiltó döntéshez fűzött egyszerűsített indokolás minősített adatot nem tartalmazhat.
+
+[^7]: A 13. § (1) bekezdés a) pontja a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
