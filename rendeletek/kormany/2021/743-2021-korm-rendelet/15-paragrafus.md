@@ -1,3 +1,3 @@
-15. §[^1]
+15. § (1) A Kormány e rendelet hatályát 2022. február 1. napjáig meghosszabbítja.
 
-[^1]: A 15. § a 14. § (2) bekezdése alapján 2022. január 5-én lép hatályba.
+(2) Ez a rendelet 2022. február 1-jén hatályát veszti.
