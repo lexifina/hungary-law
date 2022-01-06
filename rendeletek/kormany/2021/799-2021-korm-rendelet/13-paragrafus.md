@@ -1,1 +1,3 @@
-13. § Hatályát veszti az ipari parkokról szóló 297/2011. (XII. 22.) Korm. rendelet.
+13. §[^1]
+
+[^1]: A 13. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

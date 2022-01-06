@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-799-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-01-05 | 2021-799-20-22.1 | 799/2021. (XII. 28.) Korm. rendelet |
+| 2022-01-06 | 2021-799-20-22.2 | 2010: CXXX. törvény |
