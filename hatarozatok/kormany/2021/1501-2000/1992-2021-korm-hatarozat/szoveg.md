@@ -64,4 +64,6 @@ c) ellátja a Tanács működésével kapcsolatos levelezési, dokumentumkezelé
 
 11. Ez a határozat a közzétételét követő 8. napon lép hatályba.
 
-12. Hatályát veszti az Ipari Park Tanácsról szóló 1464/2011. (XII. 22.) Korm. határozat.
+12.[^2]
+
+[^2]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
