@@ -1,3 +1,3 @@
-## 3. § A Vhr. a következő 7/A. §-sal egészül ki:
+## 3. §[^4]
 
-## „7/A. § A bejelentés megérkezését követően a miniszter haladéktalanul az (EU) 2019/452 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdése szerinti kapcsolattartó pont (a továbbiakban: nemzeti kapcsolattartó pont) rendelkezésére bocsátja az (EU) 2019/452 európai parlamenti és tanácsi rendeletben az átvilágítást végző tagállam számára meghatározott kötelezettségek teljesítése érdekében szükséges adatokat.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

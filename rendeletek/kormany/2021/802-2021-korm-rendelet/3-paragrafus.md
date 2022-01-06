@@ -1,5 +1,3 @@
-## 2. § A Vhr. 4. § (1) bekezdése a következő e) ponttal egészül ki:
+## 2. §[^3]
 
-## (A bejelentésnek tartalmaznia kell)
-
-## „e) az (EU) 2019/452 európai parlamenti és tanácsi rendelet 9. cikk (2) bekezdése szerinti adatokat.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
