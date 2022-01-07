@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 10. § (2) bekezdése alapján 2022. január 7-én lép hatályba.
+## „d) a kérelemmel érintett szerződés, kötelezettségvállalás tárgyában a kérelem benyújtását megelőző üzleti évben hatályos szerződést vagy kötelezettségvállalást tartalmazó jognyilatkozatot, továbbá a szerződésből vagy jognyilatkozatból eredő fizetési kötelezettség elszámolásához tartozó analitikát,”
