@@ -1,0 +1,447 @@
+# A Kormány 1002/2022. (I. 7.) Korm. határozata
+
+Magyar Közlöny 2022. évi 2. szám, 2022. január 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/HZ7M4RCTCIKz9clBGQWP61d2bded61828/dokumentumok/627d0e12bc62bd3b62858a0b30e28c0a9bd20666/letoltes)
+
+---
+
+A Kormány 1002/2022. (I. 7.) Korm. határozata
+a Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2021. évi pályázati kiírására
+történő benyújtásáról szóló 1990/2021. (XII. 28.) Korm. határozat módosításáról
+A Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2021. évi pályázati kiírására történő
+benyújtásáról szóló 1990/2021. (XII. 28.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1002/2022. (I. 7.) Korm. határozathoz
+„1. melléklet az 1990/2021. (XII. 28.) Korm. határozathoz
+A B C D E F G H I J
+1.
+Kapcsolódó program
+megnevezése
+Projektjavaslat
+megnevezése
+Támogatást igénylő
+neve
+Koordinátor
+Kedvezményezett/
+Kedvezményezett
+Társkedvezményezett
+Projektjavaslat
+tervezett költsége
+(nettó, forint)
+Projektjavaslat
+tervezett
+összköltsége
+(bruttó, forint)
+Európai Hálózat-
+finanszírozási Eszköz
+terhére biztosítandó
+támogatás tervezett
+összege
+(nettó forint)
+Hazai költségvetési
+támogatás tervezett
+összege (forint)
+Saját erő (forint) Projektjavaslat rövid bemutatása
+2.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Budapest-Kelenföld–
+Ferencváros
+vasútvonalszakasz
+kapacitás-
+bővítésének építési
+munkái
+Innovációs és
+Technológiai
+Minisztérium
+(a továbbiakban:
+ITM)
+NIF Nemzeti
+Infrastruktúra
+Fejlesztő
+zártkörűen működő
+Részvénytársaság
+és BFK Budapest
+Fejlesztési Központ
+Nonprofit Zrt.
+364 299 669 026 462 660 579 663 76 203 089 758 37 653 291 410 0
+A Ferencváros–Kelenföld vasútvonal kapacitásbővítés keretében,
+városi környezetben új 3. és egyes szakaszokon új 4. vágány megépítésére,
+valamint a meglévő vágányok és műtárgyak átépítésére is sor kerül
+a mintegy 5,5 km hosszúságú beavatkozással érintett vonalszakaszon,
+melyből a pesti oldal négyvágányú, a budai 1950 m hosszon
+háromvágányú, 1730 m hosszon négyvágányú (összesen cca.
+14 800 méter új vágány). Az új, villamosított pályán az engedélyezett
+sebesség 80/100 km/h, a tengelyterhelés 225 kN lesz. A vasút mentén
+több mint 5 km hosszú új vasbeton támfal épül, amelynek megtámasztása
+mellett megtörténik a vasúti töltés szélesítése, hogy helyet adjon
+a vágánybővítéseknek, amely csatlakozik a Déli összekötő vasúti Duna-híd
+korszerűsítése projekt keretében jelenleg épülő 3. vágányhoz. A vonalon
+sűrűn elhelyezkedő nagynyílású műtárgyak (Gubacsi út feletti, Soroksári
+út feletti, Rákóczi híd felhajtója feletti, Budafoki út feletti, Szerémi út feletti,
+Fehérvári út feletti és Bartók Béla út feletti vasúti hidak) szintén átépülnek.
+A vonalszakaszon két új akadálymentes megállóhely létesül: egy Nádorkert,
+egy pedig Közvágóhíd térségében. Hozzávetőlegesen 35 000 m2 zajvédőfal
+létesítése is szükséges.
+A CEF2 1 körös pályázatra benyújtani tervezett, 2026. 12. 31-ig
+megvalósítandó műszaki elemek az alábbiak:
+– Kiviteli tervek elkészítése (a kivitelezéshez kapcsolódó tervek),
+– Területszerzés,
+– Pesti szakaszon: A Ferencváros állomás – Déli Összekötő Vasúti Duna-híd
+közötti vonalszakaszon, a déli oldalon új vasúti pálya (egy vágány), valamint
+hozzá kapcsolódóan egy-egy új vasúti híd építése a keresztező közutak
+felett, valamint
+– Ferencváros állomás – Déli Összekötő Vasúti Duna-híd közötti
+vonalszakaszon megvalósuló vízrendezési, környezetvédelmi, közműépítési
+munkák,
+– Budai szakaszon: a Déli Összekötő Vasúti Duna-hídtól a beavatkozási
+terület Budapest-Kelenföld állomáson található végpontjáig tartó
+vonalszakaszon, az északi oldalon új vasúti pálya (egy vágány), valamint
+hozzá kapcsolódóan egy-egy új vasúti híd építése a keresztező közutak
+felett, továbbá
+– támfalépítés Kelenföld állomási területen.
+Ezen túlmenően a vasúti energiaellátás egyes létesítményeinek
+megvalósítása tartozik a CEF2 első körben benyújtandó műszaki
+tartalomba.
+
+3.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Nyugat-
+magyarországi TEN-T
+vasútállomások
+alkalmassá tétele
+polgári és katonai
+kettős felhasználásra
+ITM
+MÁV Magyar
+Államvasutak
+Zártkörűen
+Működő
+Részvénytársaság
+ 2 201 900 000
+2 201 900 000
+1 100 950 000
+1 100 950 000
+
+A vasúti infrastruktúra polgári-katonai kettős felhasználásra való alkalmassá
+tétele (a továbbiakban: kettős felhasználást célzó fejlesztések) az országos
+vasúthálózat azon dunántúli állomásain, amelyek a TEN-T törzshálózaton
+találhatók.
+Tervezett helyszínek: Almásfüzitő, Komárom, Nagyszentjános,
+Hegyeshalom, Várpalota, Hajmáskér, Veszprém, Boba, Murakeresztúr,
+Sárbogárd, Dombóvár, Kiskorpád.
+4.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Borostyán vasúti
+árufuvarozási
+folyosó egyes
+nyugat-dunántúli
+szakaszainak
+korszerűsítése –
+megvalósíthatósági
+tanulmány és tervek
+készítése
+ITM
+Győr–Sopron–
+Ebenfurti Vasút Zrt.
+(a továbbiakban:
+GYSEV Zrt.)
+3 500 000 000
+3 500 000 000
+2 975 000 000
+525 000 000
+
+A Hegyeshalom–Csorna–Porpác–Szombathely–Zalaszentiván korridor
+TEN-T előírások szerinti korszerűsítésének előkészítése.
+5.
+Európai
+Hálózatfinanszírozási
+Eszköz
+C-Roads 3 Hungary
+(nemzetközi ITS
+projekt)
+ITM
+Budapest Közút Zrt. /
+Magyar Közút
+Nonprofit Zrt.
+2 900 000 000
+3 683 000 000
+2 465 000 000
+1 218 000 000
+
+Az elődprojektekben elkészült rendszer funkcionális fejlesztése (publikált
+adatkörök bővítése), valamint területi lefedettségének kiterjesztése
+zavarérzékeny fővárosi helyszínekre, valamint üzemeltetési határon
+csatlakozás az országos közutak kezeléséért felelős szervezet rendszeréhez.
+Jelzőlámpás csomópontok korszerűsítése.
+A TEN-T hálózat szempontjából stratégiai városi csomópontokban korszerű
+forgalomirányítási eszközrendszer biztosítása az adaptív forgalomirányítás,
+illetve a C-ITS funkcionalitás megvalósítása érdekében (30 csomópont).
+6.
+Európai
+Hálózatfinanszírozási
+Eszköz
+X4ITS 4 Hungary –
+nemzetközi
+ITS javaslat, Central
+European crossborder
+cooperation for ITS
+(korábbi Crocodile
+elődprojektek
+folytatása)
+ITM
+Budapest Közút Zrt. /
+Magyar Közút
+Nonprofit Zrt.
+9 000 000 000
+11 430 000 000
+4 500 000 000
+6 930 000 000
+
+Szoftverfejlesztés, a közútkezelői tevékenységet támogató, statikus
+és dinamikus adatkezelést lehetővé tevő állami alaprendszerekhez
+kapcsolódósan, beleértve a TEN-T hálózat Budapestet érintő elemeit,
+illetve a kapcsolódó városi hálózati elemeket.
+7.
+Európai
+Hálózatfinanszírozási
+Eszköz
+A budapesti vasúti
+alagút I. ütemének
+tervezése: a Nyugati
+pályaudvar és
+környezetének
+megújítása,
+felszíni fejállomás
+és mélyállomás
+kialakítása
+ITM
+BFK Budapest
+Fejlesztési Központ
+Nonprofit Zrt.
+és NIF Nemzeti
+Infrastruktúra
+Fejlesztő Zrt.
+15 000 000 000
+19 050 000 000
+7 500 000 000
+7 500 000 000
+
+A budapesti vasúti alagút vonali szakasza I. ütemének, illetve
+a Nyugati pályaudvar mint legnagyobb vonali mélyállomás és kiemelt
+budapesti utasforgalmi csomópont további tervezési feladatainak
+elvégzése.
+8.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Biztonságos
+kamionparkoló
+kialakítása
+az M1 autópálya
+mellett Tatabánya
+Óváros kijáratnál
+az EU-Parkolási
+Szabvány előírásai
+szerint
+Parking
+Tatabánya Kft.
+–
+2 525 600 000
+3 207 512 000
+1 262 800 000
+–
+1 262 800 000
+Tatabánya Óváros kijáratnál 150 férőhelyes, biztonságos, őrzött és védett
+kamionparkoló kialakítása.
+
+9.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Biztonságos
+kamionparkoló
+létrehozása
+a debreceni Észak-
+nyugati Gazdasági
+Övezetben
+Debreceni
+Ingatlanfejlesztő
+Kft.
+– 5 703 746 514 7 243 758 073 2 851 873 257 – 2 851 873 257
+194 nyitott és 64 fedett férőhelyes biztonságos kamionparkoló létrehozása
+a debreceni Észak-nyugati Gazdasági Övezetben.
+10.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Biztonságos és védett
+kamionparkoló
+terminál kialakítása
+az EU szabványa
+szerint, M1 autópálya
+112 km kijáratnál (Győr)
+LOGISTIC
+Investment
+Beruházó és
+Szolgáltató Kft.
+– 3 272 500 000 4 156 075 000 1 636 250 000 – 1 636 250 000
+Biztonságos és védett„smart kamionparkoló terminál”kialakítása
+az EU szabványa szerint az M1 autópálya 112 km kijáratnál, Győrszentiván
+határában, az Audi Logisztika közvetlen közelében.
+11.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Ultra-gyors
+töltőhálózatának
+telepítése a CEE
+régióban
+Magyar Olaj-
+és Gázipari
+Nyilvánosan
+Működő Részvény-
+társaság
+(a továbbiakban:
+MOL Nyrt.)
+E.ON
+Energiamegoldások
+Kft.
+4 000 261 000 5 080 331 470 1 974 456 000 – 2 025 805 000
+Magyarország területén, 40 helyszínen (20 darab MOL és 20 darab E.ON),
+136 db (56 darab MOL és 80 db E.ON) 150 kW teljesítményű ultragyors,
+személyautó töltésére alkalmas töltőberendezés és 2 darab 350 kW
+(2 darab MOL) teljesítményű tehergépjármű töltésére alkalmas
+töltőberendezés telepítése.
+12.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Ultragyors
+töltőhálózat építése
+Magyarországon és
+a közép-kelet-európai
+régióban
+Shell Hungary Zrt. – 2 390 200 000 3 035 554 000 477 840 000 – 1 912 360 000
+22 töltőállomáson ultragyors elektromos töltő telepítése, helyszínenként
+minimum 2 db 150 kW teljesítményű töltőpont és 600 kVA teljesítményű
+hálózat kiépítése.
+13.
+Európai
+Hálózatfinanszírozási
+Eszköz
+MVM ULTRA –
+A TEN-T úthálózat
+magyarországi
+szakaszának
+elektrifikációja
+az AFF/AFID előírások
+szerint:
+4 × 150 kW
+teljesítményű
+ultratöltő állomások
+telepítése
+MVM Mobiliti Kft./
+e-Mobi Nkft.
+– 1 429 000 000 1 814 830 000 540 000 000 – 889 000 000
+A TEN-T törzshálózat magyarországi szakaszán az M0-s, az M1-es, az M3-as,
+az M5-ös és az M7-es autópálya szakaszokon ultragyors elektromos töltők
+telepítése 10 helyszínen.
+Az AFID előírásai 2025-ig történő teljesítéséhez úgy járul hozzá a projekt,
+hogy a hazai TEN-T úthálózaton 10 helyszínen 4 db 150 kW-os töltőállomást
+telepítenek.
+14.
+Európai
+Hálózatfinanszírozási
+Eszköz
+A Dunai rakott
+konténerforgalom
+kínálati oldalának
+bővítése – Trimodális
+kapacitás bővítés
+MAHART Container
+Center Kft.
+– 7 485 318 750 9 506 354 813 3 742 659 375 – 3 742 659 375
+Kapacitásbővítő eszközfejlesztés: három elektromos bakdaru beszerzése
+a hozzá kapcsolódó darupályával és vasúti vágánybővítéssel, valamint
+IT platform fejlesztéssel.
+
+15.
+Európai
+Hálózatfinanszírozási
+Eszköz
+A Csepeli Gerincút
+befejező ütemeinek
+teljes előkészítése
+a szükséges
+területszerzés
+megkezdése
+Budapest Főváros
+Önkormányzata
+és BKK Budapesti
+Közlekedés-
+fejlesztési
+Központ Zrt.
+– 900 000 000 1 143 000 000 450 000 000 – 693 000 000
+Csepeli Gerincút II–III. ütem teljes előkészítése kivitelezésre a megépült
+I. ütem és az M0 közötti szakaszon.
+16.
+Európai
+Hálózatfinanszírozási
+Eszköz
+SESAR Deployment
+Manager – SDM
+HungaroControl Zrt. – – – – – –
+A HungaroControl konzorciumi pályázóként részt vesz a SESAR Deployment
+Manager feladatait 2022. júniustól ellátó szervezet (SDM 2.0) részére kiírt
+pályázaton.
+17.
+Európai
+Hálózatfinanszírozási
+Eszköz
+Teherszállító vagonok
+zajcsökkentése
+VERS GmbH
+MOL Nyrt.,
+Pultrans Kft. és
+Petrolsped Kft.
+186 480 000 236 829 600 46 620 000 – 139 860 000
+A hatályos EU-jogszabályok értelmében 2024. decembertől az európai
+vasúti hálózaton csak zajcsökkentett vasúti tehervagonok közlekedhetnek
+korlátozás nélkül, ezért a jelenleg öntöttvas féktuskókkal felszerelt vagonok
+átszerelését 2024. decemberig az üzembentartóknak el kell végezni.
+A projekt célja az MVMSZ tagvállalatok által üzemben tartott 518 db
+öntöttvas féktuskóval felszerelt vasúti vagon zajcsökkentése műanyag
+féktuskók felszerelésével a 2021. és a 2024. években.
+18.
+Európai
+Hálózatfinanszírozási
+Eszköz
+A Budapest Airport Zrt.
+elektromos töltő
+infrastruktúrájának
+jelentős fejlesztése
+NetZeroTarget
+stratégiájának
+megvalósítása
+érdekében
+Budapest
+Airport Zrt.
+– 1 311 591 930 1 665 721 751 655 795 965 – 355 795 965
+Az EU CEF Alternative Fuel Infrastructure Facility keretében a Budapest
+Airport Zrt. 165 darab e-töltőállomást fog telepíteni a földi kiszolgáló
+járművek, a repülőtéri személyzet és vállalkozások számára. A munkálatok
+az elektromos háttér-infrastruktúra kiépítését is magukban foglalják.
+”
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
