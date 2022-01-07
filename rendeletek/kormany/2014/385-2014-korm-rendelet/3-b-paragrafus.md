@@ -6,7 +6,7 @@ b) a szerződés vagy kötelezettségvállalás biztosítja-e a Ht. 3. § (1) be
 
 c) a szerződés vagy a kötelezettségvállalás nem eredményezi-e a hulladékgazdálkodási közszolgáltatás jogszabályoknak és közszolgáltatási szerződéseknek megfelelő tartalmú ellátásához szükséges pénzügyi fedezet elvonását.
 
-(2) A közszolgáltató a jóváhagyásra irányuló kérelmét a szerződés – a Hivatal jóváhagyására tekintettel függő hatállyal történő – létrejöttétől, illetve a kötelezettségvállalásra irányuló jognyilatkozat – a Hivatal jóváhagyására tekintettel függő hatállyal történő – megtételétől számított 15 napon belül köteles előterjeszteni, a Hivatal által biztosított, jognyilatkozatok megtételére szolgáló interaktív alkalmazás vagy formanyomtatvány útján.
+(2)[^14] A közszolgáltató a jóváhagyásra irányuló kérelmét a szerződés – a Hivatal jóváhagyására tekintettel függő hatállyal történő – létrejöttétől vagy a kötelezettségvállalásra irányuló jognyilatkozat – a Hivatal jóváhagyására tekintettel függő hatállyal történő – megtételétől számított 15 napon belül nyújtja be a Hivatal által biztosított, jognyilatkozatok megtételére szolgáló interaktív alkalmazás vagy formanyomtatvány útján. A határidő elmulasztása esetén a közszolgáltató igazolási kérelmet nyújthat be, amelyet az általános közigazgatási rendtartásról szóló törvény megfelelő alkalmazásával kell elbírálni.
 
 (3) A (2) bekezdés szerinti kérelemhez hiteles elektronikus formában mellékelni kell
 
@@ -16,7 +16,7 @@ b) az igazgatási szolgáltatási díj átutalásáról szóló igazolást,
 
 c) a kérelemmel érintett szerződés létrejöttének, a jognyilatkozat megtételének időpontjában rendelkezésre álló és a kérelem benyújtását megelőző üzleti évre vonatkozó lezárt főkönyvi kivonatot, továbbá a szerződésből vagy jognyilatkozatból eredő fizetési kötelezettség elszámolásához tartozó analitikát,
 
-d) a kérelemmel érintett szerződés, kötelezettségvállalás tárgyában a kérelem benyújtását megelőző üzleti évben hatályos szerződést vagy kötelezettségvállalást tartalmazó jognyilatkozatot,
+d)[^15] a kérelemmel érintett szerződés, kötelezettségvállalás tárgyában a kérelem benyújtását megelőző üzleti évben hatályos szerződést vagy kötelezettségvállalást tartalmazó jognyilatkozatot, továbbá a szerződésből vagy jognyilatkozatból eredő fizetési kötelezettség elszámolásához tartozó analitikát,
 
 e) a kérelemmel érintett szerződésben vagy kötelezettségvállalásra irányuló jognyilatkozatban vállalt fizetési kötelezettség teljesítéséhez szükséges fedezet rendelkezésre állásának igazolását, továbbá
 
@@ -51,3 +51,5 @@ g) a közszolgáltató számára ötmillió forintot meg nem haladó mértékű 
 (9) A Hivatal a véglegessé vált záradékkal ellátott szerződésről vagy kötelezettségvállalásról hiteles elektronikus formában tájékoztatást ad a Koordináló szerv részére.
 
 [^13]: A 3/B. §-t a 312/2021. (VI. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^14]: A 3/B. § (2) bekezdése a 768/2021. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^15]: A 3/B. § (3) bekezdés d) pontja a 768/2021. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

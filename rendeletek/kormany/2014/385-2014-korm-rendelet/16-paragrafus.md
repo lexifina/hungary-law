@@ -1,3 +1,3 @@
-16. §[^32]
+16. §[^34]
 
-[^32]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
