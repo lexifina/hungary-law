@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-760-20-
 | 2021-12-24 | 2021-760-20-22.1 | 760/2021. (XII. 23.) Korm. rendelet |
 | 2022-01-01 | 2021-760-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-01-02 | 2021-760-20-22.3 | 2010: CXXX. törvény |
+| 2022-01-07 | 2021-760-20-22.4 | 2021. évi I. törvény |
