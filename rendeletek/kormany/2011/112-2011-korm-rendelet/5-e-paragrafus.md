@@ -1,4 +1,4 @@
-5/E. §[^26] (1) Az OAH nyilvántartásba vételi eljárása szükséges
+5/E. §[^28] (1) Az OAH nyilvántartásba vételi eljárása szükséges
 
 a) a nukleáris anyag birtoklása és azzal való bármely tevékenység megkezdéséhez (első biztosítéki nyilvántartásba vétel),
 
@@ -40,4 +40,4 @@ b) adatszolgáltatás előírásával és a beérkezett jelentések feldolgozás
 
 c) helyszíni ellenőrzéseken hitelesíti az adatszolgáltatás során szerzett információkat, és ellenőrzi a körülhatárolási és megfigyelési rendszer felszerelését és működtetését, az előírt biztosítéki intézkedések tényleges és hatékony végrehajtását.
 
-[^26]: Az 5/E. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^28]: Az 5/E. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

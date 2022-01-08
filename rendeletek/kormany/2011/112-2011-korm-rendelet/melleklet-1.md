@@ -1,6 +1,6 @@
-## 11. §[^39] Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/EURATOM tanácsi irányelv 94. cikk (2) bekezdésének való megfelelést szolgálja.
+## 11. §[^42] Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/EURATOM tanácsi irányelv 94. cikk (2) bekezdésének való megfelelést szolgálja.
 
-1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^40]
+1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^43]
 
 ## Adatszolgáltatás a radioaktív anyagok szállításának és fuvarozásának engedélykérelméhez
 
@@ -28,5 +28,5 @@
 
 12. Az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet (a továbbiakban: 190/2011. Korm. rendelet) 7. § (5) bekezdése szerinti szállítás esetén a 190/2011. Korm. rendelet 35. § (8) bekezdése szerinti nyilatkozat.
 
-[^39]: A 11. §-t a 356/2020. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
-[^40]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 330. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^42]: A 11. §-t a 356/2020. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^43]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 330. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
