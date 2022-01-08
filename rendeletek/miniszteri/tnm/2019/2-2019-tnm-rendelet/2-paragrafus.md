@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya a központi költségvetés XI. Miniszterelnökség fejezetébe, illetve a XLVII. Gazdaságvédelmi Alap fejezetébe sorolt azon fejezeti kezelésű előirányzatra (a továbbiakban: előirányzat) terjed ki, amely esetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet I. 10. pont a) alpontja és az I. 41. pont e) alpontja alapján a fejezetet irányító szerv vezetője a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 32. § (1) bekezdése szerinti tagja (a továbbiakban: miniszter).
+## 1. §[^1] E rendelet hatálya a központi költségvetés XI. Miniszterelnökség fejezetébe, illetve a XLVII. Gazdaság-újraindítási Alap fejezetébe sorolt azon fejezeti kezelésű előirányzatra (a továbbiakban: előirányzat) terjed ki, amely esetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet I. 10. pont a) alpontja és az I. 41. pont e) alpontja alapján a fejezetet irányító szerv vezetője a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 32. § (1) bekezdése szerinti tagja (a továbbiakban: miniszter).
 
 ## 2. § E rendelet alkalmazásában:
 
@@ -38,4 +38,4 @@ q) támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
 r) tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz.
 
-[^1]: Az 1. § az 5/2020. (XII. 30.) TNM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § az 5/2020. (XII. 30.) TNM rendelet 1. §-ával megállapított, az 1/2022. (I. 7.) TNM rendelet 2. §-a szerint módosított szöveg.
