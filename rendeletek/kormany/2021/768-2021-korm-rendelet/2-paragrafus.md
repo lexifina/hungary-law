@@ -1,1 +1,3 @@
-## „d) a kérelemmel érintett szerződés, kötelezettségvállalás tárgyában a kérelem benyújtását megelőző üzleti évben hatályos szerződést vagy kötelezettségvállalást tartalmazó jognyilatkozatot, továbbá a szerződésből vagy jognyilatkozatból eredő fizetési kötelezettség elszámolásához tartozó analitikát,”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
