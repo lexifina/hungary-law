@@ -1,8 +1,8 @@
 ## 33. Átmeneti rendelkezések
 
-45. § (1)[^185] A 2012. december 31-én hatályban lévő, valamint az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeinek és jelmagyarázatának figyelembevételével elkészített és elfogadott településrendezési eszköz 2021. december 31-ig alkalmazható.
+45. § (1)[^185] A 2012. december 31-én hatályban lévő, valamint az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeinek és jelmagyarázatának figyelembevételével elkészített és elfogadott településrendezési eszköz 2023. december 31-ig alkalmazható.
 
-(2)[^186] A 2012. december 31-én hatályban lévő, továbbá a 2012. december 31-ét megelőzően hatályban lévő jogszabályok alapján elfogadott településrendezési eszközök 2021. december 31-ig történő módosítása a VI. fejezet eljárási szabályai szerint,
+(2)[^186] A 2012. december 31-én hatályban lévő, továbbá a 2012. december 31-ét megelőzően hatályban lévő jogszabályok alapján elfogadott településrendezési eszközök 2023. december 31-ig történő módosítása,
 
 a) – a b) pont kivételével – az OTÉK 2012. augusztus 6-án hatályos településrendezési tartalmi követelményeinek és jelmagyarázatának,
 
@@ -14,11 +14,17 @@ bb) az e rendelet tartalmi előírásainak és a 6. melléklet szerinti jelmagya
 
 ## alkalmazásával történhet.
 
-(3)[^187] Ha a település vonatkozásában – az (1) és (2) bekezdésben meghatározottak szerint – az OTÉK 2012. augusztus 6-án hatályos szabályaira épülő településrendezési eszköz hatályos, a hatósági eljárások során az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeit (II. és III. fejezet) és jelmagyarázatát, valamint az ezekhez kapcsolódó értelmező rendelkezéseket kell figyelembe venni.
+(3)[^187]
 
-(4)[^188] Amennyiben a településrendezési eszköz (2) bekezdés szerinti módosítása a (2) bekezdésben meghatározott határidőig nem lép hatályba, úgy annak elkészítésére, egyeztetésére és elfogadására e rendelet előírásait kell alkalmazni.
+(4)[^188]
 
-[^185]: A 45. § (1) bekezdése a 385/2015. (XII. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 269/2019. (XI. 19.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^186]: A 45. § (2) bekezdés nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 35. §-a, a 269/2019. (XI. 19.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^187]: A 45. § (3) bekezdését a 385/2015. (XII. 8.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte, újonnan a 400/2016. (XII. 5.) Korm. rendelet 24. §-a iktatta be.
-[^188]: A 45. § (4) bekezdése a 385/2015. (XII. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+(5)[^189] Azon települések, amelyek 2012. december 31-ét megelőzően hatályban lévő jogszabályok alapján elfogadott helyi építési szabályzattal rendelkeznek – vagy helyi építési szabályzattal egyáltalán nem rendelkeznek –, és nincs elfogadott településfejlesztési koncepciójuk, e rendelet 2021. július 15-én hatályos tartalmi követelményei és eljárási szabályai alapján készíthetik és fogadhatják el településfejlesztési koncepciójukat, amely 2023. december 31-ig alkalmazható.
+
+(6)[^190] A 2021. július 16-át megelőzően hatályban lévő jogszabályok alapján elfogadott településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszköz – ide nem értve az (1) és (2) bekezdés szerinti településrendezési eszközöket – 2027. június 30-ig történő módosítása e rendelet településrendezési tartalmi követelményeinek és jelmagyarázatának alkalmazásával történik.
+
+[^185]: A 45. § (1) bekezdése a 385/2015. (XII. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 269/2019. (XI. 19.) Korm. rendelet 5. § b) pontja, a 2/2022. (I. 7.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^186]: A 45. § (2) bekezdés nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 35. §-a, a 269/2019. (XI. 19.) Korm. rendelet 5. § b) pontja, a 2/2022. (I. 7.) Korm. rendelet 3. § a) pontja és 4. § a) pontja szerint módosított szöveg.
+[^187]: A 45. § (3) bekezdését a 2/2022. (I. 7.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^188]: A 45. § (4) bekezdését a 2/2022. (I. 7.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^189]: A 45. § (5) bekezdését a 2/2022. (I. 7.) Korm. rendelet 1. §-a iktatta be.
+[^190]: A 45. § (6) bekezdését a 2/2022. (I. 7.) Korm. rendelet 1. §-a iktatta be.
