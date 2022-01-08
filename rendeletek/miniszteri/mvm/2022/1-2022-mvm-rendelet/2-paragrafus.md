@@ -1,0 +1,3 @@
+## 1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (24) bekezdéssel egészül ki:
+
+## „(24) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a Hungary Helps Ügynökség Nonprofit Zrt. szakmai feladatai ellátásának támogatásával kapcsolatos módosításáról szóló 1/2022. (I. 7.) MvM rendelettel (a továbbiakban: Módr22.) megállapított 1. mellékletét a Módr22. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
