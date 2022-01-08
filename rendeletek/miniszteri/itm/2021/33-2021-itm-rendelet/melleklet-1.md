@@ -50,7 +50,7 @@
 
 2. Kormányzati főhivatalok
 
-2.1. Az Országos Atomenergia Hivatalnál
+2.1.[^2]
 
 2.1.1. a gazdasági és a humánpolitikai területért felelős vezető álláshelye,
 
@@ -74,7 +74,7 @@
 
 3. Központi hivatalok
 
-3.1. A Magyar Bányászati és Földtani Szolgálatnál
+3.1.[^3]
 
 3.1.1. a gazdasági vezető álláshelye,
 
@@ -111,3 +111,5 @@
 4.1.2. a gazdasági vezető beosztása.
 
 [^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet 2. pont 2.1. alpontját a 2/2022. (I. 7.) ITM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. melléklet 3. pont 3.1. alpontját a 2/2022. (I. 7.) ITM rendelet 3. § b) pontja hatályon kívül helyezte.
