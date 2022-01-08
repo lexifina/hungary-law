@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2021-12-09 | 2012-423-20-22.36 | 285/2013. (VII. 26.) Korm. rendelet |
 | 2021-12-22 | 2012-423-20-22.37 | 746/2021. (XII. 21.) Korm. rendelet |
 | 2022-01-01 | 2012-423-20-22.38 | 746/2021. (XII. 21.) Korm. rendelet |
+| 2022-01-08 | 2012-423-20-22.39 | 2/2022. (I. 7.) Korm. rendelet |
