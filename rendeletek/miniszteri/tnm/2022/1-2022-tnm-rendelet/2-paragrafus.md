@@ -1,0 +1,3 @@
+## 1. § A nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.) TNM rendelet (a továbbiakban: R.) 17/A. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) E rendeletnek a nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.) TNM rendeletnek a 2022. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 1/2022. (I. 7.) TNM rendelettel (a továbbiakban: Módr4.) megállapított rendelkezéseit a Módr4. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
