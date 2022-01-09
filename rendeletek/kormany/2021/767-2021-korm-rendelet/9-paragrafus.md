@@ -1,4 +1,4 @@
-## 8. §[^7]
+## 8. §[^9]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. § az e rendelet kihirdetését követő 16. napon lép hatályba.
 
-[^7]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

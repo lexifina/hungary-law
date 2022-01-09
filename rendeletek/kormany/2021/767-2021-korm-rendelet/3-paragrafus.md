@@ -1,1 +1,3 @@
-## „(2) A Tudományos Tanács elnökét és tagjait az OAH elnöke nevezi ki és menti fel.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
