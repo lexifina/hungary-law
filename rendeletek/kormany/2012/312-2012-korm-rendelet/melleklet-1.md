@@ -1,10 +1,12 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^432]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^442]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
 1. Építmény átalakítása, felújítása, helyreállítása, korszerűsítése, homlokzatának megváltoztatása, kivéve zártsorú vagy ikres beépítésű építmény esetén, ha e tevékenységek a csatlakozó építmény alapozását vagy tartószerkezetét is érintik.
+
+1a. Meglévő építmény hasznos alapterületet nem növelő bővítése, kivéve a lapostetős épület magastetővel történő bővítését.
 
 2. Meglévő építmény utólagos hőszigetelése, homlokzati nyílászáró cseréje, a homlokzatfelület színezése, a homlokzat felületképzésének megváltoztatása.
 
@@ -18,7 +20,7 @@
 
 7. A 14. pont e) alpontjában és a 29. pontban foglaltak figyelembevételével a kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet.
 
-8. Nem emberi tartózkodásra szolgáló építmény építése, bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 100 m3 térfogatot és 4,5 m gerincmagasságot.
+8. Nem emberi tartózkodásra szolgáló építmény építése, bővítése, amelynek mérete az építési tevékenység után sem haladja meg a 100 m3 térfogatot és 4,5 m gerincmagasságot, lapostetős épület esetén a 3,5 m homlokzatmagasságot.
 
 9. Önálló reklámtartó építmény, valamint gépjármű-üzemanyag egységárának feltüntetésére szolgáló oszlop vagy tábla építése, elhelyezése.
 
@@ -86,4 +88,4 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 33. A lakó rendeltetést bemutató épület építése, amely a nemzetközi innovációs házépítő verseny keretében vagy kutatási, kiállítási célból valósul meg.
 
-[^432]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a, a 668/2020. (XII. 28.) Korm. rendelet 32. § (3) bekezdése szerint módosított szöveg.
+[^442]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a, a 668/2020. (XII. 28.) Korm. rendelet 32. § (3) bekezdése, a 788/2021. (XII. 27.) Korm. rendelet 19. §-a és 20. § k) pontja szerint módosított szöveg.

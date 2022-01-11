@@ -1,6 +1,6 @@
 ## 8. Az eljárás megindítása
 
-8. § (1)[^36] Kérelemre induló eljárás esetén a kérelem az ÉTDR rendszeren keresztül vagy személyesen, elektronikus adathordozón terjeszthető elő.
+8. § (1)[^36] Kérelemre induló eljárás esetén a kérelem az ÉTDR-en keresztül vagy személyesen, elektronikus adathordozón terjeszthető elő.
 
 (2)[^37]
 
@@ -10,7 +10,7 @@
 
 (5)[^39] Az engedély iránti kérelmet mellékleteivel egy időben kell benyújtani. Az építészeti-műszaki dokumentációt kizárólag elektronikus formában, adathordozón vagy az ÉTDR-be való feltöltéssel lehet benyújtani.
 
-[^36]: A 8. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 5. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^36]: A 8. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 5. pontja, a 788/2021. (XII. 27.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
 [^37]: A 8. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 7. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^38]: A 8. § (3) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 2. pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 6–7. pontja, a 413. § 8. pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^39]: A 8. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 3. pontja szerint módosított szöveg.

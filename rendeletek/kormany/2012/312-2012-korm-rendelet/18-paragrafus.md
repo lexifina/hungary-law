@@ -1,14 +1,14 @@
 ## 16. Az építési engedély iránti kérelem elbírálása, a döntés meghozatala
 
-18. § (1)[^95] Az építésügyi hatóság az építési engedély iránti kérelem elbírálása során vizsgálja, hogy
+18. § (1)[^99] Az építésügyi hatóság az építési engedély iránti kérelem elbírálása során vizsgálja, hogy
 
 a) a tervezett építmény elhelyezése megfelel-e az Étv. 18–22. §-ában és 31. § (1) bekezdésében előírtaknak,
 
-b)[^96] az építési tevékenységgel érintett telek kialakítása az új építmény építése vagy meglévő építmény bővítése esetén – kivéve az összevont telepítési eljárás integrált építési engedélyezési szakaszában – az Étv. 23–24. §-ában, a településrendezési tervekben és a jogszabályokban meghatározottak szerint megtörtént-e, a telek rendezett-e,
+b)[^100] az építési tevékenységgel érintett telek kialakítása az új építmény építése vagy meglévő építmény bővítése esetén – kivéve az összevont telepítési eljárás integrált építési engedélyezési szakaszában – az Étv. 23–24. §-ában, a településrendezési tervekben és a jogszabályokban meghatározottak szerint megtörtént-e, a telek rendezett-e,
 
 c) a tervezett építmény és az alkalmazott építészeti-műszaki megoldás megfelel-e
 
-ca)[^97]
+ca)[^101]
 
 cb) az általános érvényű szakmai és a jogszabályokban meghatározott követelményeknek,
 
@@ -22,7 +22,7 @@ da) a terület rendeltetésének megfelelő és jogszabályban meghatározott m�
 
 db) az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztetné,
 
-e)[^98] a használatbavételi engedély megkéréséig biztosítható-e az építmény rendeltetésszerű és biztonságos használhatóságához szükséges
+e)[^102] a használatbavételi engedély megkéréséig biztosítható-e az építmény rendeltetésszerű és biztonságos használhatóságához szükséges
 
 ea) járulékos építmények telken belüli elhelyezése,
 
@@ -30,7 +30,7 @@ eb) közlekedési hálózathoz való csatlakozás és
 
 ec) kormányrendelet szerint előírt közműellátás vagy ennek hiányában a közműellátásnak az országos településrendezési és építési követelményekről szóló kormányrendeletnek megfelelő, egyedi módon történő kiváltása,
 
-f)[^99] a tervezőként megjelölt személy (ideértve a társtervezőt, szakági tervezőt is), vállalkozás jogosult-e a kérelemben megjelölt építési tevékenységgel kapcsolatos építészeti-műszaki tervezésre,
+f)[^103] a tervezőként megjelölt személy (ideértve a társtervezőt, szakági tervezőt is), vállalkozás jogosult-e a kérelemben megjelölt építési tevékenységgel kapcsolatos építészeti-műszaki tervezésre,
 
 g) az építésügyi hatósági engedélykérelem jogszabályban előírt mellékletei rendelkezésre állnak-e és tartalmuk megfelel-e az a)–e) pont előírásainak,
 
@@ -38,34 +38,34 @@ h) a tervezett építészeti-műszaki megoldásnak az országos építési köve
 
 i) az építménnyel összefüggő tervezett tereprendezési munkálatok megvalósíthatóak-e.
 
-(2)[^100]
+(2)[^104]
 
 (3) Az építési tevékenységgel érintett telek az (1) bekezdés b) pontja szerint akkor minősül rendezettnek, ha a helyi építési szabályzat, ennek hiányában az illeszkedés szabályai szerint alakították ki és az ingatlan-nyilvántartásba bejegyezték.
 
-(4)[^101] Az építésügyi hatóság az építési engedély iránti kérelmet elutasítja, ha a tervezett építési tevékenység
+(4)[^105] Az építésügyi hatóság az építési engedély iránti kérelmet elutasítja, ha a tervezett építési tevékenység
 
 a) az (1) bekezdésben foglaltaknak nem felel meg, vagy
 
 b) engedélyezését a kiemelt településképi vélemény nem javasolta.
 
-(4a)[^102] A polgármesternek a tervezett építési tevékenység vonatkozásában kiadott településképi véleményét a hatóság bizonyítékként veszi figyelembe.
+(4a)[^106] A képviselő-testület által a tervezett építési tevékenységre vonatkozóan kiadott településképi véleményt a hatóság bizonyítékként veszi figyelembe.
 
 (5) Az építési engedély iránti kérelemmel egy időben előterjesztett, a 17. § (4) bekezdése szerinti kérelmek esetén, a rájuk vonatkozó eljárási szabályokat az e fejezetben szabályozott eltérésekkel kell alkalmazni.
 
-(6)[^103] Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül, vállalkozás nyilvántartási jelölés nélkül végzett építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, 100 000 forintig terjedő közigazgatási bírsággal sújtja.
+(6)[^107] Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül, vállalkozás nyilvántartási jelölés nélkül végez építési engedélyhez kötött építési tevékenységre vonatkozó építészeti-műszaki tervezési tevékenységet, 100 000 forintig terjedő közigazgatási bírsággal sújtja.
 
-(7)[^104]
+(7)[^108]
 
-(8)[^105]
+(8)[^109]
 
-[^95]: A 18. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 413. § 17. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^96]: A 18. § (1) bekezdés b) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^97]: A 18. § (1) bekezdés c) pont ca) alpontját a 156/2016. (VI. 13.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.
-[^98]: A 18. § (1) bekezdés e) pontja a 144/2017. (VI. 12.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^99]: A 18. § (1) bekezdés f) pontja a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^100]: A 18. § (2) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
-[^101]: A 18. § (4) bekezdése a 700/2020. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^102]: A 18. § (4a) bekezdését a 700/2020. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
-[^103]: A 18. § (6) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^104]: A 18. § (7) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 2. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^105]: A 18. § (8) bekezdését a 70/2015. (III. 30.) Korm. rendelet 206. § (8) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 181. § 2. pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^99]: A 18. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 413. § 17. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^100]: A 18. § (1) bekezdés b) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^101]: A 18. § (1) bekezdés c) pont ca) alpontját a 156/2016. (VI. 13.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.
+[^102]: A 18. § (1) bekezdés e) pontja a 144/2017. (VI. 12.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^103]: A 18. § (1) bekezdés f) pontja a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^104]: A 18. § (2) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
+[^105]: A 18. § (4) bekezdése a 700/2020. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^106]: A 18. § (4a) bekezdését a 700/2020. (XII. 29.) Korm. rendelet 8. §-a iktatta be, szövege a 788/2021. (XII. 27.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^107]: A 18. § (6) bekezdése a 788/2021. (XII. 27.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^108]: A 18. § (7) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 2. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^109]: A 18. § (8) bekezdését a 70/2015. (III. 30.) Korm. rendelet 206. § (8) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 181. § 2. pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -6,15 +6,7 @@
 
 2. § (1)[^2] Az építésügyi hatósági engedély vagy tudomásulvétel iránti kérelem elektronikus úton történő benyújtásához, a kérelem és jogszabályban előírt mellékleteinek feltöltéséhez az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer (a továbbiakban: ÉTDR) az építtető részére közvetlenül a kérelem benyújtása előtt elektronikus feltöltő tárhelyet biztosít.
 
-(2)[^3] Az építésügyi hatósági engedély vagy tudomásulvétel iránti kérelem elektronikus úton történő benyújtását megelőzően az (1) bekezdésben foglaltakon túlmenően az építtető az építésügyi hatósághoz benyújtott külön kérelmére, az abban kérelmezett időtartamra
-
-a) a kérelem és jogszabályban előírt mellékletei,
-
-b) előzetes szakhatósági állásfoglalások, valamint
-
-c) építésügyi hatósági szolgáltatás kérelmezéséhez szükséges dokumentumok
-
-## összegyűjtése és előzetes tárolása céljából a kérelmező részére az ÉTDR elektronikus gyűjtő tárhelyet biztosít.
+(2)[^3]
 
 (3)[^4] Az elektronikus tárhely igényléséhez az építtetőnek vagy meghatalmazottjának az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti elektronikus azonosítási szolgáltatással vagy elektronikus azonosító eszközzel történt azonosítása alapján regisztrálnia kell az ÉTDR-ben. Az építtető vagy meghatalmazottja regisztrációval – külön bírálat és döntés nélkül – automatikusan hozzáférést kap a saját tárhelyéhez.
 
@@ -27,7 +19,7 @@ c) építésügyi hatósági szolgáltatás kérelmezéséhez szükséges dokume
 (7)[^7] Az építészeti-műszaki dokumentáció, az előzetes szakhatósági állásfoglalás, az építészeti-műszaki tervtanács véleménye, a kiemelt településképi vélemény, valamint a képviselő-testület külön jogszabályban meghatározott településképi véleménye és az egyéb dokumentumok elektronikus tárhelyre történő feltöltése önmagában az engedélyezési eljárást nem indítja meg.
 
 [^2]: A 2. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 1. pontja, a 144/2017. (VI. 12.) Korm. rendelet 16. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 1. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^3]: A 2. § (2) bekezdés nyitó szövegrésze a 144/2017. (VI. 12.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdését a 788/2021. (XII. 27.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
 [^4]: A 2. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 64. § (3) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 2. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^5]: A 2. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 2. pontja szerint módosított szöveg.
 [^6]: A 2. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 59. §-ával megállapított szöveg.

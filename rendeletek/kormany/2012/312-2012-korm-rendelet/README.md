@@ -60,3 +60,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-312-20-
 | 2021-06-22 | 2012-312-20-22.52 | 312/2021. (VI. 7.) Korm. rendelet |
 | 2021-07-16 | 2012-312-20-22.53 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2022-01-01 | 2012-312-20-22.54 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2022-01-11 | 2012-312-20-22.55 | 788/2021. (XII. 27.) Korm. rendelet |

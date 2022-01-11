@@ -52,9 +52,11 @@ ac) az építési tevékenység tárgya,
 
 ad) a 8. mellékletben meghatározott tartalmú helyszínrajz, utcai homlokzati terv vagy látványterv,
 
+ae)[^51] az épület tervei a Nemzeti Mintaterv Katalógus alapján készültek-e,
+
 b) a döntés kiadmányozását követő munkanapon a döntés rövid tartalma és meghozatalának időpontja,
 
-c)[^51] a döntés véglegessé válását követően, az építtető értesítésével egyidejűleg a döntés véglegessé válásának napja.
+c)[^52] a döntés véglegessé válását követően, az építtető értesítésével egyidejűleg a döntés véglegessé válásának napja.
 
 [^44]: A 10. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 10. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^45]: A 10. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (5) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 413. § 11. pontja, a 315/2020. (VII. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
@@ -63,4 +65,5 @@ c)[^51] a döntés véglegessé válását követően, az építtető értesít�
 [^48]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^49]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^50]: A 10. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
-[^51]: A 10. § (6) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 9–10. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^51]: A 10. § (6) bekezdés a) pont ae) alpontját a 788/2021. (XII. 27.) Korm. rendelet 13. §-a iktatta be.
+[^52]: A 10. § (6) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 9–10. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

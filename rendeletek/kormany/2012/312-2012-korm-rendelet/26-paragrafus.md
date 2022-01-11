@@ -16,15 +16,15 @@ ba) azzal, akinek az építési tevékenységgel érintett telekre, építményr
 
 bb) az építési tevékenység helye szerinti települési önkormányzat polgármesterével.
 
-(3)[^151] A végleges döntést közölni kell az építtetővel vagy meghatalmazottjával.
+(3)[^155] A végleges döntést közölni kell az építtetővel vagy meghatalmazottjával.
 
-(4)[^152]
+(4)[^156]
 
-(5)[^153] Az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
+(5)[^157] Az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
 
-(6)[^154] Az elvi építési keretengedélyezési eljárás során hozott végleges döntés a hozzá tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
+(6)[^158] Az elvi építési keretengedélyezési eljárás során hozott végleges döntés a hozzá tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
 
-[^151]: A 26. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 31. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^152]: A 26. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 6. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^153]: A 26. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 32. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^154]: A 26. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 33. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^155]: A 26. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 31. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^156]: A 26. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 6. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^157]: A 26. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 32. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^158]: A 26. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 33. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

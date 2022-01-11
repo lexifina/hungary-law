@@ -160,7 +160,7 @@
 
 ## 7.3. A papír alapú dokumentum elektronikus irattá alakítása digitalizálás útján történik truecolor és 300 DPI minőségben PDF/A formában.
 
-## 8. E rendelet keretei között az építészeti-műszaki dokumentáció tartalmi követelménye tekintetében a dokumentáció egyes munkarészeinek kidolgozottságára, tartalmára és léptékére a Magyar Építész Kamara és a Magyar Mérnöki Kamara vonatkozó szakmai követelményeket megállapító – a kamarai honlapokon és az ÉTDR-ben is rendelkezésre álló – szabályzatait figyelembe kell venni.
+## 8. E rendelet keretei között az építészeti-műszaki dokumentáció tartalmi követelménye tekintetében a dokumentáció egyes munkarészeinek kidolgozottságára, tartalmára és léptékére a Magyar Építész Kamara és a Magyar Mérnöki Kamara vonatkozó szakmai követelményeket megállapító – a kamarai honlapokon rendelkezésre álló – szabályzatait figyelembe kell venni.
 
 ## III. Az egyes engedélyezési eljárásokhoz benyújtandó munkarészek
 
@@ -292,7 +292,7 @@
 
 ## 9.4.9. az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
-9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^439]
+9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^449]
 
 Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvételéhez
 
@@ -338,4 +338,4 @@ Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvé
 
 | 16. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^439]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
+[^449]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
