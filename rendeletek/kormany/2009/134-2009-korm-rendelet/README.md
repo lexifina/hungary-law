@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-134-20-
 | 2020-03-01 | 2009-134-20-22.20 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-06-18 | 2009-134-20-22.21 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2021-01-01 | 2009-134-20-22.22 | 686/2020. (XII. 29.) Korm. rendelet |
+| 2022-01-11 | 2009-134-20-22.23 | 788/2021. (XII. 27.) Korm. rendelet |

@@ -36,7 +36,7 @@ l)[^48] több lakásból álló, osztatlan közös tulajdon esetén, amennyiben 
 
 m)[^49] az egyszerű bejelentéshez kötött építési tevékenységet
 
-ma) a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (2) bekezdése szerinti, az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által előállított visszaigazolással, vagy 2019. október 24. előtt tett bejelentés esetén az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
+ma)[^50] a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (3) bekezdése szerinti, az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által előállított visszaigazolással, vagy 2019. október 24. előtt tett bejelentés esetén az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
 
 mb) az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe vagy az építész tervező által az egyszerű bejelentés mellékleteként az elektronikus építési naplóba feltöltött, legalább a 155/2016. (VI. 13.) Korm. rendelet 1. melléklete szerinti munkarészekből álló egyszerű bejelentési dokumentációval és
 
@@ -44,21 +44,21 @@ mc) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elt
 
 (6) Az 5. § (4) bekezdés szerinti gyermekszám-növekedésről
 
-a)[^50] a Kincstár a családtámogatási adatbázist is magában foglaló egységes szociális nyilvántartásban szereplő adatok alapján az adósnak – a családtámogatási ellátás igénylésének vagy az azzal összefüggő adatközlésnek részeként is előterjeszthető – kérelmére elektronikusan értesíti, vagy
+a)[^51] a Kincstár a családtámogatási adatbázist is magában foglaló egységes szociális nyilvántartásban szereplő adatok alapján az adósnak – a családtámogatási ellátás igénylésének vagy az azzal összefüggő adatközlésnek részeként is előterjeszthető – kérelmére elektronikusan értesíti, vagy
 
 b) az adós a személyazonosító igazolvány vagy a születési anyakönyvi kivonat bemutatásával, illetve az örökbefogadást, illetve a bírósági elhelyezést bizonyító okiratok bemutatásával írásban értesíti
 
 ## a folyósító hitelintézetet.
 
-(7)[^51] Ha
+(7)[^52] Ha
 
 a) a kamattámogatások igénybevételének alapját képező építési munkák a szerződésben meghatározott, legfeljebb három évben – vagy ezt indokolt esetben két évvel meghosszabbított időtartamban – megszabott meghatározott határidőig nem készülnek el,
 
 b) az építtető az építési szándékától elállt,
 
-c)[^52] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt a szerződés teljesítése más, az építtetőnek felróható okból hiúsul meg, vagy
+c)[^53] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt a szerződés teljesítése más, az építtetőnek felróható okból hiúsul meg, vagy
 
-d)[^53] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt az építtető e rendelet szerint támogatott és már igénybe vett kölcsönt visszafizeti,
+d)[^54] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt az építtető e rendelet szerint támogatott és már igénybe vett kölcsönt visszafizeti,
 
 [^44]: A 6. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 249. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^45]: A 6. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § c) pontja, a 128/2013. (IV. 30.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
@@ -66,7 +66,8 @@ d)[^53] a használatbavételi engedély megszerzése vagy a használatbavétel t
 [^47]: A 6. § (5) bekezdés k) pontját az 537/2013. (XII. 30.) Korm. rendelet 47. §-a iktatta be.
 [^48]: A 6. § (5) bekezdés l) pontját a 331/2014. (XII. 18.) Korm. rendelet 13. §-a iktatta be.
 [^49]: A 6. § (5) bekezdés m) pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^50]: A 6. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 136. § (7) bekezdés c) pontja, a 455/2015. (XII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^51]: A 6. § (7) bekezdés záró szövegrésze a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^52]: A 6. § (7) bekezdés c) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
-[^53]: A 6. § (7) bekezdés d) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^50]: A 6. § (5) bekezdés m) pont ma) alpontja a 788/2021. (XII. 27.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^51]: A 6. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 136. § (7) bekezdés c) pontja, a 455/2015. (XII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^52]: A 6. § (7) bekezdés záró szövegrésze a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^53]: A 6. § (7) bekezdés c) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^54]: A 6. § (7) bekezdés d) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
