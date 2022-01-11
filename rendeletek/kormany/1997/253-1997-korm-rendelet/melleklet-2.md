@@ -1,4 +1,4 @@
-2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^508]
+2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^512]
 
 1. A beépítésre szánt területek építési használatának megengedett felső határértékei
 
@@ -72,4 +72,4 @@
 
 | 17. | különleges beépítésre nem szánt terület | 10 |  |  |
 
-[^508]: A 2. számú melléklet a 420/2021. (VII. 15.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^512]: A 2. számú melléklet a 420/2021. (VII. 15.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.

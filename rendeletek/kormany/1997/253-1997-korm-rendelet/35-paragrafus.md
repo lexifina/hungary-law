@@ -64,7 +64,7 @@ c) az oldalkertbe – legfeljebb 1,0 m-es benyúlással – a legalább 4,0 m-es
 
 esetében létesíthető.
 
-(10)[^180] A (9) bekezdés szerinti túlnyúló épületrész hossza legfeljebb az adott teljes épület homlokzathosszának 4/5-e, legnagyobb szélessége (kiugrása) legfeljebb 1,0 m lehet. Az épületkiugrás – az erkélyt is beleértve – a szomszédos telek határától legalább a kiugrás másfélszeresének megfelelő, de legalább 1,0 m távolságra lehet.
+(10)[^180] A (9) bekezdés a) és c) pontja szerinti túlnyúló épületrész hossza legfeljebb az adott teljes épület homlokzathosszának 4/5-e, legnagyobb szélessége (kiugrása) legfeljebb 1,0 m lehet. Az épületkiugrás – az erkélyt is beleértve – a szomszédos telek határától legalább a kiugrás másfélszeresének megfelelő, de legalább 1,0 m távolságra lehet.
 
 [^172]: A 35. § (1) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^173]: A 35. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
@@ -74,4 +74,4 @@ esetében létesíthető.
 [^177]: A 35. § (7) bekezdése a Magyar Közlöny 1998. évi 25. számában közzétett helyesbítésnek megfelelően módosított szöveg. A 35. § (7) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^178]: A 35. § (8) bekezdését a 36/2002. (III. 7.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
 [^179]: A 35. § (9) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^180]: A 35. § (10) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 32. § 26. pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 43. pontja szerint módosított szöveg.
+[^180]: A 35. § (10) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 32. § 26. pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 43. pontja, a 788/2021. (XII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
