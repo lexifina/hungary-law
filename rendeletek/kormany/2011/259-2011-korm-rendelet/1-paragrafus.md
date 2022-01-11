@@ -88,6 +88,8 @@ n)[^27] eljár az R. 2. § (10) bekezdés a) pontjában, valamint az R. 3. § (7
 
 (2a)[^28] Amennyiben a Kormány rendeletében a (2) bekezdés m) pontjától eltérően rendelkezik, a kiemelt jelentőségű ügyben a helyszíni szemlék és hatósági ellenőrzések lefolytatására a területi szerv is jogosult.
 
+(2b)[^29] A Kormány a Budapest Liszt Ferenc Nemzetközi Repülőtér létesítményei tekintetében a (2) bekezdésben meghatározott ügyekben első fokú tűzvédelmi hatóságként a Fővárosi Katasztrófavédelmi Igazgatóságot jelöli ki.
+
 (3) A Kormány első fokú tűzvédelmi hatóságként a hivatásos katasztrófavédelmi szerv központi szervét (a továbbiakban: központi szerv) jelöli ki, amely
 
 a) engedélyezi azon tűzoltó-technikai termék forgalmazását, aminek tűzvédelmi biztonságossági követelményeire nincs irányadó jogszabály, honosított harmonizált szabvány,
@@ -98,27 +100,27 @@ c) a vonatkozó műszaki követelmény előírásától eltérő, de azzal legal
 
 d) a külön jogszabályban meghatározott esetekben dönt a védelem egyenértékűségéről,
 
-e)[^29] eljár a Ttv. 46/A. §-a szerinti tűzvédelmi szakértői tevékenységekkel összefüggő közigazgatási hatósági eljárásokban,
+e)[^30] eljár a Ttv. 46/A. §-a szerinti tűzvédelmi szakértői tevékenységekkel összefüggő közigazgatási hatósági eljárásokban,
 
-f)[^30]
+f)[^31]
 
 g) a polgári nemzetbiztonsági szolgálatok tűzvédelmi ügyeiben eljár,
 
-h)[^31]
+h)[^32]
 
-i)[^32] eljár a területi szerv, valamint a Katasztrófavédelmi Oktatási Központ tűzvédelmi szakvizsgával összefüggő oktatásszervezői tevékenységével és az általuk szervezett tűzvédelmi szakvizsgáztatással kapcsolatos közigazgatási hatósági eljárásokban, a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló miniszteri rendeletben meghatározott esetben megtiltja a tűzvédelmi szakvizsga megtartását, és dönt a tűzvédelmi szakvizsga-bizonyítványok érvénytelenítéséről,
+i)[^33] eljár a területi szerv, valamint a Katasztrófavédelmi Oktatási Központ tűzvédelmi szakvizsgával összefüggő oktatásszervezői tevékenységével és az általuk szervezett tűzvédelmi szakvizsgáztatással kapcsolatos közigazgatási hatósági eljárásokban, a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló miniszteri rendeletben meghatározott esetben megtiltja a tűzvédelmi szakvizsga megtartását, és dönt a tűzvédelmi szakvizsga-bizonyítványok érvénytelenítéséről,
 
-j)[^33] eljár a számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárásban.
+j)[^34] eljár a számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárásban.
 
-k)[^34]
+k)[^35]
 
-l)[^35] az építményszerkezetek tűzvédelmi követelményeknek való megfelelősége igazolására kiadott nyilatkozatokkal összefüggésben:
+l)[^36] az építményszerkezetek tűzvédelmi követelményeknek való megfelelősége igazolására kiadott nyilatkozatokkal összefüggésben:
 
 la) személyes adatokat nem tartalmazó nyilvántartást vezet a kiadott nyilatkozatokról,
 
 lb) ellenőrzi a kiadott nyilatkozatok megfelelőségét.
 
-(4)[^36]
+(4)[^37]
 
 [^1]: Az 1. § (1) bekezdés a) pontját a 443/2015. (XII. 28.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
 [^2]: Az 1. § (1) bekezdés b) pontja a 443/2015. (XII. 28.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
@@ -148,11 +150,12 @@ lb) ellenőrzi a kiadott nyilatkozatok megfelelőségét.
 [^26]: Az 1. § (2) bekezdés m) pontját a 271/2016. (IX. 1.) Korm. rendelet 21. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 357. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^27]: Az 1. § (2) bekezdés n) pontját a 730/2020. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
 [^28]: Az 1. § (2a) bekezdését a 229/2014. (IX. 5.) Korm. rendelet 68. § (1) bekezdése iktatta be, szövege a 271/2016. (IX. 1.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^29]: Az 1. § (3) bekezdés e) pontja a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^30]: Az 1. § (3) bekezdés f) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^31]: Az 1. § (3) bekezdés h) pontját a 271/2016. (IX. 1.) Korm. rendelet 21. § (6) bekezdése hatályon kívül helyezte.
-[^32]: Az 1. § (3) bekezdés i) pontja a 435/2013. (XI. 19.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^33]: Az 1. § (3) bekezdés j) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^34]: Az 1. § (3) bekezdés k) pontját a 74/2012. (IV. 13.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
-[^35]: Az 1. § (3) bekezdés l) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^36]: Az 1. § (4) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^29]: Az 1. § (2b) bekezdését a 788/2021. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^30]: Az 1. § (3) bekezdés e) pontja a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^31]: Az 1. § (3) bekezdés f) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^32]: Az 1. § (3) bekezdés h) pontját a 271/2016. (IX. 1.) Korm. rendelet 21. § (6) bekezdése hatályon kívül helyezte.
+[^33]: Az 1. § (3) bekezdés i) pontja a 435/2013. (XI. 19.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^34]: Az 1. § (3) bekezdés j) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^35]: Az 1. § (3) bekezdés k) pontját a 74/2012. (IV. 13.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^36]: Az 1. § (3) bekezdés l) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^37]: Az 1. § (4) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
