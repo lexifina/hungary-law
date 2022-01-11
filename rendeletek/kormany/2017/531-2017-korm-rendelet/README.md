@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2021-12-22 | 2017-531-20-22.42 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-12-29 | 2017-531-20-22.43 | 829/2021. (XII. 28.) Korm. rendelet |
 | 2022-01-01 | 2017-531-20-22.44 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2022-01-11 | 2017-531-20-22.45 | 788/2021. (XII. 27.) Korm. rendelet |
