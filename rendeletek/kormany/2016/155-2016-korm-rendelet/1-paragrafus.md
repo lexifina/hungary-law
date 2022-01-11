@@ -42,7 +42,7 @@ b) jogerős teljes hatályú hagyatékátadó végzéssel vagy
 
 c) jogerős bírósági határozattal.
 
-(3)[^10] Az építtető személyében bekövetkezett jogutódlás bejelentéséről az ÉTDR PDF formátumú, letölthető visszaigazolást állít elő.
+(3)[^10] A bejelentésről és az építtető személyében bekövetkezett jogutódlás bejelentéséről az ÉTDR PDF formátumú, letölthető visszaigazolást állít elő.
 
 [^1]: Az 1. § (1) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 54. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontja a 97/2017. (IV. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -53,4 +53,4 @@ c) jogerős bírósági határozattal.
 [^7]: Az 1. § (1c) bekezdését a 244/2019. (X. 22.) Korm. rendelet 18. §-a iktatta be.
 [^8]: Az 1. § (1c) bekezdés c) pontját a 700/2020. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
 [^9]: Az 1. § (2) bekezdése a 700/2020. (XII. 29.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (3) bekezdését a 700/2020. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^10]: Az 1. § (3) bekezdését a 700/2020. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be, szövege a 788/2021. (XII. 27.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
