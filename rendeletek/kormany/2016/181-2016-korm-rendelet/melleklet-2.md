@@ -1,4 +1,4 @@
-2. melléklet a 181/2016. (VII. 1.) Korm. rendelethez[^9]
+2. melléklet a 181/2016. (VII. 1.) Korm. rendelethez[^10]
 
 A Beruházás megvalósításával érintett ingatlanok
 
@@ -22,4 +22,4 @@ A Beruházás megvalósításával érintett ingatlanok
 
 | 9. | Fénytechnikai és navigációs támogató rendszerek kialakítása, átalakítása, bővítése | Budapest, XVII. kerület 0122339, 0138312 Budapest, XVIII. kerület 137678/1, 156716/1, 156716/2, 156722, 156725/2, 156728, 156729, 156731, 156732, 156733, 156734, 156735, 156736, 156737, 156738, 156739, 156740, 156741, 156742, 156753, 156755, 156756, 156757, 156758 Vecsés 055, 072/31, 072/50, 072/53 |
 
-[^9]: A 2. melléklet a 363/2020. (VII. 23.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 363/2020. (VII. 23.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.

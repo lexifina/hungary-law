@@ -1,4 +1,4 @@
-## 10. §[^6] E rendeletnek a Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 363/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. §-át, 4. §-át, 1. és 2. mellékletét a Módr2. hatálybalépésekor[^7] folyamatban lévő ügyekben is alkalmazni kell.
+## 10. §[^7] E rendeletnek a Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 363/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. §-át, 4. §-át, 1. és 2. mellékletét a Módr2. hatálybalépésekor[^8] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 181/2016. (VII. 1.) Korm. rendelethez
 
@@ -52,7 +52,7 @@
 
 24. közegészségügyi hatósági eljárások,
 
-24a.[^8] magánvezeték létesítésével, bővítésével és megszüntetésével, valamint a 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőmű létesítésével, villamosenergia-termelésével, valamint a villamos energia termelésének megszüntetésével kapcsolatos eljárások,
+24a.[^9] magánvezeték létesítésével, bővítésével és megszüntetésével, valamint a 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőmű létesítésével, villamosenergia-termelésével, valamint a villamos energia termelésének megszüntetésével kapcsolatos eljárások,
 
 25. légiközlekedés védelmével kapcsolatos hatósági eljárások,
 
@@ -60,6 +60,6 @@
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: A 10. §-t a 363/2020. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
-[^7]: A hatálybalépés időpontja 2020. július 24.
-[^8]: Az 1. melléklet 24a. pontját a 363/2020. (VII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^7]: A 10. §-t a 363/2020. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^8]: A hatálybalépés időpontja 2020. július 24.
+[^9]: Az 1. melléklet 24a. pontját a 363/2020. (VII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
