@@ -16,7 +16,7 @@ d)[^112] az építmény kivitelezése során alkalmazott műszaki megoldás az �
 
 e)[^113] a 22. § (2) bekezdése és az 1. melléklet szerinti kivitelezési dokumentációtól eltérés történt-e, és ha igen, azt ismerteti,
 
-f) a külön jogszabályban előírt egyeztetés eredményeképpen a közműellátás szakszerűen biztosított,
+f)[^114] a külön jogszabályban előírt egyeztetés eredményeképpen a közműellátás szakszerűen biztosított, illetve közműszolgáltatás hiányában egyedi, szakszerű közműpótló létesült,
 
 g) az építési munkaterületen keletkezett építési-bontási hulladék mennyisége elérte-e a külön jogszabályban előírt mértéket, az előírások szerint kezelték és az építőipari kivitelezési tevékenység befejezésekor a munkaterületről a külön jogszabályban foglaltak szerint elszállították,
 
@@ -27,3 +27,4 @@ h) az építmény rendeltetésszerű és biztonságos használatra alkalmas.
 [^111]: A 14. § b) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 8. pont 8.3. alpontja, a 482/2016. (XII. 28.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
 [^112]: A 14. § d) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § h) pontja szerint módosított szöveg.
 [^113]: A 14. § e) pontja a 482/2016. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^114]: A 14. § f) pontja a 788/2021. (XII. 27.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

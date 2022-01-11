@@ -498,7 +498,7 @@
 
 ## 6. Építési munkaterület átadás-átvételének dátuma (ai):
 
-## A fővállalkozó kivitelező(k) vagy annak felelős műszaki vezetője(ik) nyilatkozata az építési naplóban tett alábbi bejegyzésekről:
+## A fővállalkozó kivitelező(k) nyilatkozata az építési naplóban tett alábbi bejegyzésekről:
 
 ## a) az építőipari kivitelezési tevékenységet a végleges építési engedélynek és a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint az 1. melléklet szerinti kivitelezési dokumentációnak megfelelően,
 
@@ -508,7 +508,7 @@
 
 ## d) a végleges építési engedélytől és a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól, valamint az 1. melléklet szerinti kivitelezési dokumentációtól eltértek-e, az eltérés felsorolásával és szükségességének ismertetésével,
 
-## e) a külön jogszabályban előírt egyeztetés eredményeképpen a közműellátás szakszerűen biztosított-e,
+## e) a külön jogszabályban előírt egyeztetés eredményeképpen a közműellátás szakszerűen biztosított-e, illetve közműszolgáltatás hiányában egyedi, szakszerű közműpótló létesült-e,
 
 ## f) az építési munkaterületen keletkezett építési-bontási hulladék mennyisége elérte-e a külön jogszabályban előírt mértéket, az előírások szerint kezelték és az építőipari kivitelezési tevékenység befejezésekor a munkaterületről a külön jogszabályban foglaltak szerint elszállították-e,
 
