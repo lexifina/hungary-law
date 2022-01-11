@@ -36,11 +36,11 @@ p)[^165] több lakásból álló, osztatlan közös tulajdon esetén, amennyiben
 
 q)[^166] az egyszerű bejelentéshez kötött építési tevékenységet
 
-qa) a lakóépület építésének egyszerű bejelentéséről és egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 456/2015. (XII. 29.) Korm. rendelet 1. melléklete szerinti egyszerű bejelentés másolatával és az annak mellékletét képező egyszerű bejelentési dokumentációval,
+qa) a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (3) bekezdése szerinti, az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által előállított visszaigazolással, vagy 2019. október 24. előtt tett bejelentés esetén az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
 
-qb) az építésügyi hatóság által kiállított, a bejelentés megtörténtét igazoló dokumentummal, és
+qb) az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe vagy az építész tervező által az egyszerű bejelentés mellékleteként az elektronikus építési naplóba feltöltött, legalább a 155/2016. (VI. 13.) Korm. rendelet 1. melléklete szerinti munkarészekből álló egyszerű bejelentési dokumentációval, és
 
-qc) az igénylőnek a bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, mely szerint az építési tevékenységet megkezdheti és a hitelintézet részére benyújtott qa) alpont szerinti dokumentumok megegyeznek az építésügyi hatóság részére benyújtottakkal.
+qc) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, mely szerint az építési tevékenységet megkezdheti, és a hitelintézet részére benyújtott qb) alpont szerinti dokumentumok megegyeznek az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe, illetve az elektronikus építési naplóba feltöltött dokumentumokkal,
 
 (3)[^167] Házaspárok esetében, ha a házastársak egyike magyar állampolgár a (2) bekezdés f)–l) pontjában, valamint a 2. § (5) bekezdés a) pontjában foglaltak igazolására nincs szükség. A (2) bekezdés d) pontja szerinti nyilatkozatot mind az építtető (vásárló), mind az eltartott köteles aláírni.
 
@@ -94,7 +94,7 @@ qc) az igénylőnek a bejelentés megtörténtét követő 15 nap elteltével te
 [^163]: Az 18. § (2) bekezdés n) pontját a 128/2013. (IV. 30.) Korm. rendelet 2. §-a iktatta be.
 [^164]: A 18. § (2) bekezdés o) pontját az 537/2013. (XII. 30.) Korm. rendelet 12. § (1) bekezdése iktatta be.
 [^165]: A 18. § (2) bekezdés p) pontját a 331/2014. (XII. 18.) Korm. rendelet 4. §-a iktatta be.
-[^166]: A 18. § (2) bekezdés q) pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^166]: A 18. § (2) bekezdés q) pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 788/2021. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^167]: A 18. § (3) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
 [^168]: A 18. § (4) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, szövege a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^169]: A 18. § (5) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 13/2009. (I. 28.) Korm. rendelet 4. § (2) bekezdésének b) pontja, a 257/2011. (XII. 6.) Korm. rendelet 14. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 218. § c) pontja szerint módosított szöveg.
