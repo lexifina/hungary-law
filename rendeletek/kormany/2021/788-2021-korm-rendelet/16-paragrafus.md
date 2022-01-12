@@ -1,3 +1,3 @@
-## 15. § Az R4. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^15]
 
-## „(1) Az építésügyi és az építésfelügyeleti hatóság a kötelezési eljárást hivatalból vagy más hatóság megkeresésére folytatja le.”
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

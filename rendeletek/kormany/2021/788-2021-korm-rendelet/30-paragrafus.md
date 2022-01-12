@@ -1,3 +1,5 @@
-## 29. § Hatályát veszti a Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet 2. § (2) bekezdése.
+## 29. §[^28]
 
 ## 14. Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosítása
+
+[^28]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

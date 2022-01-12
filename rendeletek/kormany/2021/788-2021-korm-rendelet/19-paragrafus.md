@@ -1,3 +1,3 @@
-## „(6) Az építésügyi hatóság a hatósági bizonyítványt az ÉTDR felületen keresztül tájékoztatásul megküldi az ingatlanügyi hatóságnak.
+## 18. §[^18]
 
-## (7) A hatályos záradékkal ellátott változási vázrajz benyújtása esetén – a (6) bekezdésben foglaltaktól eltérően – az építésügyi hatóság a hatósági bizonyítvány ÉTDR-en keresztül történő megküldésével megkeresi az ingatlan fekvése szerint illetékes ingatlanügyi hatóságot a változás ingatlan-nyilvántartási átvezetése iránt.”
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

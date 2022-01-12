@@ -1,3 +1,3 @@
-## 14. § Az R4. 12. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 14. §[^14]
 
-## „(6) A szakhatóság állásfoglalását az ÉTDR-ben kiállított dokumentummal adja ki, amelyhez csatolja az általa vizsgált dokumentációt.”
+[^14]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

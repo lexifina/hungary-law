@@ -1,3 +1,3 @@
-## 30. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R7.) a következő 1/C. §-sal egészül ki:
+## 30. §[^29]
 
-## „1/C. § A Kormány a Budapest Liszt Ferenc Nemzetközi Repülőtér területét érintő, az 1. mellékletben meghatározott közigazgatási hatósági eljárásokban, az ott meghatározott szakkérdések tekintetében, – az 1. § (4) bekezdésében meghatározottak, valamint a polgári nemzetbiztonsági szolgálatok létesítményeinek kivételével – tűzvédelmi szakkérdésben eljáró szakhatóságként a Fővárosi Katasztrófavédelmi Igazgatóságot jelöli ki.”
+[^29]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

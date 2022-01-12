@@ -1,1 +1,3 @@
-## lép.
+## 27. §[^26]
+
+[^26]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

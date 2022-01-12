@@ -1,3 +1,3 @@
-## 16. § Az R4. 18. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 16. §[^16]
 
-## „(6) Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül, vállalkozás nyilvántartási jelölés nélkül végez építési engedélyhez kötött építési tevékenységre vonatkozó építészeti-műszaki tervezési tevékenységet, 100 000 forintig terjedő közigazgatási bírsággal sújtja.”
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
