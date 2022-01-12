@@ -1,0 +1,3 @@
+29. § (1) A Nemzeti Választási Bizottság legkésőbb 2022. január 18-án határozza meg, hogy a közszolgálati médiaszolgáltató lineáris médiaszolgáltatásaiban milyen időtartamban köteles közzétenni a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény (a továbbiakban: Nsztv.) 69. § (1) bekezdése szerinti jogosultak politikai reklámjait. [Nsztv. 69. § (2) bekezdés]
+
+(2) A Ve. 147/A–147/E. §-ának szabályozása alá nem tartozó, országosan elérhető lineáris médiaszolgáltatást nyújtó médiaszolgáltató legkésőbb 2022. február 12-én 16.00 óráig közli a Nemzeti Választási Bizottsággal, ha biztosítani kívánja politikai reklám közzétételének lehetőségét. [Ve. 147/F. § (1) bekezdés]
