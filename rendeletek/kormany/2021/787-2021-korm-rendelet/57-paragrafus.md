@@ -1,3 +1,3 @@
-57. §[^68]
+57. §[^67]
 
-[^68]: Az 57. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^67]: Az 57. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.

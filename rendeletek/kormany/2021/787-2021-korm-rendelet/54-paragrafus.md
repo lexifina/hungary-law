@@ -1,3 +1,3 @@
-54. §[^65]
+54. §[^64]
 
-[^65]: Az 54. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^64]: Az 54. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.

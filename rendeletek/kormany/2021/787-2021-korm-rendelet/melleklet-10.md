@@ -1,3 +1,3 @@
-10. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^101]
+10. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^100]
 
-[^101]: A 10. melléklet a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^100]: A 10. melléklet a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
