@@ -1,0 +1,9 @@
+1. § (1) Az állami adó- és vámhatóság a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény (a továbbiakban: Törvény) 26. alcíme szerinti, a gyermeket nevelő magánszemélyek adóvisszatérítésével kapcsolatos kedvezmény, ekho-kedvezmény, valamint visszatérítés előlegének kiutalásával kapcsolatban kormányzati tájékoztatást küld az érintett adózók részére. A tájékoztatás megvalósítása, valamint az ezzel összefüggő tájékoztató levelek kiküldése érdekében az állami adó- és vámhatóság az EPDB Nyomtatási Központ Zártkörűen Működő Részvénytársaságot (a továbbiakban: EPDB Zrt.) – a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) 28. cikkében meghatározott feltételek szerint megkötött szerződés útján – adatfeldolgozóként igénybe veszi.
+
+(2) Az adózás rendjéről szóló 2017. évi CL. törvény 128. §-ától eltérően az adótitok alapos okkal történő felhasználásának minősül
+
+a) a kedvezmény, ekho-kedvezmény, valamint a visszatérítés előlegére jogosult magánszemélyek és kisadózók nevére, valamint a Törvény 32. § (1) bekezdés b) pontja szerinti belföldi utalási címére, ennek hiányában levelezési címére, ennek hiányában tartózkodási helyére, ennek hiányában lakóhelyére vonatkozó adatoknak az (1) bekezdés szerinti kormányzati tájékoztatás céljából történő kezelése, valamint
+
+b) az (1) bekezdés szerint létrejövő adatfeldolgozói jogviszony alapján az EPDB Zrt. számára az a) pont szerinti adatok átadása.
+
+(3) Az EPDB Zrt. az (1) bekezdés szerinti kormányzati tájékoztatáshoz kapcsolódó, a tájékoztató levelek megszemélyesítésére és kiküldésére vonatkozó tevékenységet kizárólagos joggal látja el.
