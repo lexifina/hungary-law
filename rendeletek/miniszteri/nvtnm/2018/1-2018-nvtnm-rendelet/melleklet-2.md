@@ -244,6 +244,8 @@
 
 | 20. | Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság | 01-10-141325 | 2022. december 31. |
 
+| 21. | Védelmi Innovációs Kutatóintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141703 | 2022. december 31. |
+
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
 |  | A | B | C |
