@@ -1,3 +1,3 @@
-1. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^91]
+1. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^92]
 
-[^91]: Az 1. melléklet a 79. § (4) bekezdése alapján 2022. április 30-án lép hatályba.
+[^92]: Az 1. melléklet a 79. § (4) bekezdése alapján 2022. április 30-án lép hatályba.

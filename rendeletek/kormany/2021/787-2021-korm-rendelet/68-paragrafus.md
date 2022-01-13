@@ -1,3 +1,3 @@
-68. §[^78]
+68. §[^79]
 
-[^78]: A 68. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 68. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-61. §[^71]
+61. §[^72]
 
-[^71]: A 61. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^72]: A 61. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.

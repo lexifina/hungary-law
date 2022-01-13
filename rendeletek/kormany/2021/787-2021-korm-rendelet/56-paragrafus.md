@@ -1,3 +1,3 @@
-56. §[^66]
+56. §[^67]
 
-[^66]: Az 56. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^67]: Az 56. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.

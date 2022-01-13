@@ -1,3 +1,3 @@
-14. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^104]
+14. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^105]
 
-[^104]: A 14. melléklet a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^105]: A 14. melléklet a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
