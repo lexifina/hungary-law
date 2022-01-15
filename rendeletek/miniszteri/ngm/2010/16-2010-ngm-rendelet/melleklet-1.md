@@ -1,53 +1,81 @@
-1. melléklet a 16/2010. (XII. 28.) NGM rendelethez
+## 21. §[^23] E rendeletnek a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálybalépésével, valamint a Nemzeti Adó- és Vámhivatal tevékenységével összefüggő rendeletek módosításáról szóló 1/2022. (I. 12.) PM rendelettel (a továbbiakban: Módr1.) megállapított módosításait a Módr1. hatálybalépésekor[^24] folyamatban lévő eljárásokban is alkalmazni kell.
+
+1. melléklet a 16/2010. (XII. 28.) NGM rendelethez[^25]
 
 ## A NAV-nál rendszeresíthető kényszerítő eszközök típusai és fajtái:
 
-I. LŐFEGYVEREK
+1. LŐFEGYVEREK
 
-1. 7,65 mm-es Browning tölténnyel működő pisztolyok
+1.1. 7,65 mm Browning kaliberű lőszerrel működő pisztolyok
 
-2. 9 mm-es Makarov tölténnyel működő pisztolyok
+1.2. 9×18 mm lőszerrel működő pisztolyok
 
-3. 9 mm-es Parabellum tölténnyel működő pisztolyok
+1.3. 9 mm Luger kaliberű lőszerrel működő pisztolyok
 
-4. 9 mm-es Parabellum tölténnyel működő géppisztolyok
+1.4. 9 mm Luger kaliberű lőszerrel működő géppisztolyok
 
-5. 7,62 mm-es 43M tölténnyel működő gépkarabélyok
+1.5. 7,62×39 kaliberű lőszerrel működő gépkarabélyok
 
-6. 7,62 mm-es 39M tölténnyel működő mesterlövő puskák
+1.6. 7,62×53R kaliberű lőszerrel működő ismétlő vagy öntöltő puskák
 
-7. 308-as kaliberű tölténnyel működő mesterlövő puskák
+1.7. 308 Win kaliberű lőszerrel működő ismétlő vagy öntöltő puskák
 
-8. 12-es kaliberű előágytáras ismétlődő vagy öntöltő (félautomata) sörétes puskák
+1.8. 12-es kaliberű lőszerrel működő előágytáras ismétlő vagy öntöltő (félautomata) sörétes puskák
 
-II. LŐSZEREK
+1.9. 223 Rem kaliberű lőszerrel működő ismétlő vagy öntöltő puskák, gépkarabélyok
 
-1. 7,65 mm-es Browning pisztolytöltény különféle változatai
+2. LŐSZEREK
 
-2. 9 mm-es Makarov pisztolytöltény különféle változatai
+2.1. 7,65 mm Browning kaliberű lőszer különféle változatai
 
-3. 9 mm-es Parabellum pisztolytöltény különféle változatai
+2.2. 9×18 mm kaliberű lőszer különféle változatai
 
-4. 7,62 mm-es 43M karabélytöltény különféle változatai
+2.3. 9 mm Luger kaliberű lőszer különféle változatai
 
-5. 7,62 mm-es 39M puskatöltény különféle változatai
+2.4. 7,62×39 mm kaliberű lőszer különféle változatai
 
-6. 308-as kaliberű töltény különféle változatai
+2.5. 7,62×53 mm kaliberű lőszer különféle változatai
 
-7. 12-es kaliberű töltény különféle változatai
+2.6. 308 Win kaliberű lőszer különféle változatai
 
-III. EGYÉB ESZKÖZÖK
+2.7. 12-es kaliberű lőszer különféle változatai
 
-1. vegyi sokkoló eszközök (könnyfakasztó spray)
+2.8. 223 Rem kaliberű lőszer különféle változatai
 
-2. csuklóbilincsek
+2.9. 22 Long Rifle kaliberű lőszer különféle változatai
 
-3. vezetőszáras bilincsek
+3. MOZGÁSSZABADSÁGOT KORLÁTOZÓ ESZKÖZÖK
 
-4. műanyagból készült bilincsek (bilincsvágóval)
+3.1. kéz-, lábbilincsek
 
-5. fémből vagy műanyagból készült láb-bilincsek
+3.2. vezetőszáras bilincsek
 
-6. elektromos sokkolók
+3.3. személy- és gépjárműelfogó hálók
 
-7. rendőrbotok (gumibot, taktikai bot, tonfa)
+3.4. útzárak
+
+4. PIROTECHNIKAI ESZKÖZÖK
+
+4.1. hang-gránátok
+
+4.2. fénygránátok
+
+4.3. kombinált hang-fény gránátok
+
+4.4. villanó gránátok
+
+5. EGYÉB ESZKÖZÖK
+
+5.1 rendőrbotok (gumibot, taktikai bot, tonfa)
+
+5.2. vegyi sokkoló eszközök (könnyfakasztó spray)
+
+5.3. elektromos sokkolók
+
+5.4. elektromos sokkoló lövedék
+
+5.5. sűrített levegővel vagy szén-dioxiddal működő fegyver, illetve annak lövedékei
+
+[^23]: A 21. §-t az 1/2022. (I. 12.) PM rendelet 7. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2022. január 15.
+[^25]: Az 1. melléklet az 1/2022. (I. 12.) PM rendelet 8. §-ával megállapított szöveg.

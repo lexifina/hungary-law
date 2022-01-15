@@ -2,13 +2,14 @@
 
 ## 3. A rendszeresítési eljárás
 
-6. § (1)[^1] A rendszeresítési eljárást a NAV Központi Irányítás – Szervezeti és Működési Szabályzat szerinti – fegyverzeti szakmai szakterületet közvetlenül felügyelő szervezeti egység (a továbbiakban: rendszeresítést előkészítő szervezet) vezetője kezdeményezi.
+6. § (1)[^3] A rendszeresítési eljárást a NAV Központi Irányítás – Szervezeti és Működési Szabályzat szerinti – fegyverzeti szakmai szakterületet közvetlenül felügyelő szervezeti egység (a továbbiakban: rendszeresítést előkészítő szervezet) vezetője kezdeményezi.
 
-(2)[^2] A rendszeresítést kezdeményező vezető javaslatára az állami adó- és vámhatóság vezetője (a továbbiakban: elnök) egyetértése esetén a nem rendszeresített kényszerítő eszköz beszerzésének szükségességéről – a beszerzési eljárás megindítását megelőzően – írásban tájékoztatja a rendszeresítésre jogosult minisztert, valamint értesítést küldhet a társszervek részére.
+(2)[^4] A rendszeresítést kezdeményező vezető javaslatára az állami adó- és vámhatóság vezetője (a továbbiakban: elnök) egyetértése esetén a nem rendszeresített kényszerítő eszköz beszerzésének szükségességéről – a beszerzési eljárás megindítását megelőzően – írásban tájékoztatja a rendszeresítésre jogosult minisztert, valamint értesítést küldhet a társszervek részére.
 
-(3) Ha nem rendszeresített kényszerítő eszköz beszerzése válik szükségessé, a rendszeresítési eljárás megindítását követően, annak lefolytatásával párhuzamosan a beszerzési eljárás lefolytatását is meg kell kezdeni.
+(3)[^5] Ha nem rendszeresített kényszerítő eszköz beszerzése válik szükségessé, a rendszeresítési eljárás megindítását követően, annak lefolytatásával párhuzamosan a beszerzési eljárás lefolytatását is meg kell kezdeni, kivéve, ha a beszerzési eljáráson kívül lefolytatott próbahasználat során a próbahasználatot végrehajtó NAV szerv azt állapítja meg, hogy a rendszeresítésre tervezett kényszerítő eszköz a NAV általi alkalmazásra nem felel meg.
 
 (4) A beszerzési eljárás alapján megkötött szerződés hatályának beállta a szerződéssel érintett kényszerítő eszköz rendszeresítésétől vagy alkalmazásba vételétől függ. E feltételt a beszerzési eljárást megindító felhívásban közölni kell.
 
-[^1]: A 6. § (1) bekezdése a 47/2015. (XII. 30.) NGM rendelet 12. § a) pontja szerint módosított szöveg.
-[^2]: A 6. § (2) bekezdése a 47/2015. (XII. 30.) NGM rendelet 12. § b) pontja szerint módosított szöveg.
+[^3]: A 6. § (1) bekezdése a 47/2015. (XII. 30.) NGM rendelet 12. § a) pontja szerint módosított szöveg.
+[^4]: A 6. § (2) bekezdése a 47/2015. (XII. 30.) NGM rendelet 12. § b) pontja szerint módosított szöveg.
+[^5]: A 6. § (3) bekezdése az 1/2022. (I. 12.) PM rendelet 2. §-ával megállapított szöveg.

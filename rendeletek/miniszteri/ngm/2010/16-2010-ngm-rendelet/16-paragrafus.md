@@ -1,3 +1,5 @@
 16. § (1) A próbahasználat elrendelése esetén meg kell győződni a rendszeresítésre tervezett kényszerítő eszköz alkalmazhatósága mellett a korábban rendszeresített, illetve beszerzett felszerelésekkel való együtthasználhatóságáról, a gazdaságos üzemeltetésére, technikai kiszolgálására, javítására, tárolására, szállíthatóságára, kezelhetőségére vonatkozó feltételrendszer megteremtésének lehetőségeiről.
 
-(2) A próbahasználatot a beszerzési eljárásnak az ajánlatok értékelése szakaszában kell végrehajtani. A próbahasználat végrehajtható szervezett gyakorlatok és gyakorlások alkalmával is.
+(2)[^20] A próbahasználat a beszerzési eljárásnak az ajánlatok értékelése szakaszában is végrehajtható. A próbahasználat elvégzése elrendelhető beszerzési eljáráson kívül. Ha a rendszeresítési eljárás és a beszerzési eljárás lefolytatására párhuzamosan kerül sor, a próbahasználat – a közbeszerzésekről szóló törvény, illetve a védelmi és biztonsági beszerzésekről szóló törvény rendelkezéseinek figyelembevételével – kivételesen rendelhető el a beszerzési eljáráson kívül. A próbahasználat végrehajtható szervezett gyakorlatok és gyakorlások alkalmával is.
+
+[^20]: A 16. § (2) bekezdése az 1/2022. (I. 12.) PM rendelet 5. §-ával megállapított szöveg.

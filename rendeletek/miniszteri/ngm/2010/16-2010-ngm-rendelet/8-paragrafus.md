@@ -16,6 +16,9 @@ f) a kényszerítő eszköz alkalmazási szabályait, a kezelésre, a tárolásr
 
 (3) A rendszeresítési javaslatban szerepeltetni kell a beszerzéshez szükséges költségeket, annak tervezett forrásait, a beszerzési eljárásra vonatkozó információkat, továbbá indokolt esetben a pótlásra, illetve a mennyiségi bővítésére vonatkozó feladatokat, a rendszerben tartás tervezett idejét, a kényszerítő eszközt használó állomány kiképzésére vonatkozó javaslatokat.
 
-(4)[^5] A rendszeresítési eljárás lefolytatásának időtartama a rendszeresítést előkészítő szervezet javaslatának a rendszeresítési bizottsághoz való megküldésétől számított legfeljebb 6 hónap. Az állami adó- és vámhatóság vezetője engedélyével a rendszeresítési eljárás időtartama az adott eszközre vonatkozóan egy alkalommal, 6 hónappal meghosszabbítható.
+(4)[^8] A rendszeresítési eljárás lefolytatásának időtartama a rendszeresítést előkészítő szervezet javaslatának a rendszeresítési bizottsághoz való megküldésétől számított legfeljebb egy év. Az állami adó- és vámhatóság vezetőjének engedélyével a rendszeresítési eljárás időtartama az adott eszközre vonatkozóan egy alkalommal, hat hónappal meghosszabbítható.
 
-[^5]: A 8. § (4) bekezdése a 47/2015. (XII. 30.) NGM rendelet 12. § c) pontja szerint módosított szöveg.
+(5)[^9] A rendszeresítési eljárás időtartamába nem számít bele a beszerzési igénynek a NAV gazdasági szakterülete részére történő átadásától a beszerzési eljárást megindító felhívásban szereplő ajánlattételi határidő lejártáig terjedő időszak.
+
+[^8]: A 8. § (4) bekezdése az 1/2022. (I. 12.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 8. § (5) bekezdését az 1/2022. (I. 12.) PM rendelet 3. § (2) bekezdése iktatta be.
