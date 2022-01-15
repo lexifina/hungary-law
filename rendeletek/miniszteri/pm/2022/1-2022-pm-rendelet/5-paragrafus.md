@@ -1,0 +1,3 @@
+## 4. § A Nemzeti Adó- és Vámhivatalnál alkalmazásra kerülő kényszerítő eszközök rendszeresítésére vonatkozó eljárási szabályokról és a rendszeresíthető kényszerítő eszközök típusairól és fajtáiról szóló 16/2010. (XII. 28.) NGM rendelet 9. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) Ha az eljárás tárgyát képező eszközzel kapcsolatban a rendszeresítési bizottság az összes körülmény vizsgálata során rendszeresítésre való alkalmatlanságot állapít meg, vagy az eljárás a beszerzés indokolatlansága miatt megszűnik, az eljárás lezárásáról – a rendszeresítési bizottság javaslata alapján – az állami adó- és vámhatóság vezetője dönt.”

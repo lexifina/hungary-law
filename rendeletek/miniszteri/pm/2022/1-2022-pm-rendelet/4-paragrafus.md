@@ -1,0 +1,1 @@
+## „(5) A rendszeresítési eljárás időtartamába nem számít bele a beszerzési igénynek a NAV gazdasági szakterülete részére történő átadásától a beszerzési eljárást megindító felhívásban szereplő ajánlattételi határidő lejártáig terjedő időszak.”

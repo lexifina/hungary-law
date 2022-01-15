@@ -1,0 +1,1 @@
+## „r) helyettesítő termék: az a központi beszerzésből nem biztosított – az egyenruházat részét képező – ruházati elem, mely rendeltetését tekintve megegyezik a helyettesítendő ruházati elemmel, nem tartalmaz NAV-ra utaló jelzést, és az egyenruházat egységességét nem módosítja.”

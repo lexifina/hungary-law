@@ -1,0 +1,1 @@
+## „g) társszervek: a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, a hivatásos katasztrófavédelmi szerv, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendőrség, az Országgyűlési Őrség, valamint az Európai Unió tagállamának olyan hatósága, amely nemzeti joga alapján bűncselekmények felderítését és megelőzését végzi.”
