@@ -1,4 +1,4 @@
-## III/A. Fejezet[^67]
+## III/A. Fejezet[^69]
 
 ## MUNKAERŐ-PIACI ELŐREJELZŐ RENDSZER
 
@@ -8,9 +8,9 @@
 
 (2) A Kormány a munkaerőpiaci előrejelző rendszer működéséért felelős szervként a Nemzeti Szakképzési és Felnőttképzési Hivatalt jelöli ki.
 
-(3)[^68] A Nemzeti Szakképzési és Felnőttképzési Hivatal a munkaerő-piaci előrejelző rendszer működtetésével kapcsolatos feladatai keretében ellátja a munkaerő-piaci előrejelző rendszer számára szolgáltatott adatok folyamatos gyűjtésével, elemzésével, feldolgozásával és közzétételével összefüggő feladatokat.
+(3)[^70] A Nemzeti Szakképzési és Felnőttképzési Hivatal a munkaerő-piaci előrejelző rendszer működtetésével kapcsolatos feladatai keretében ellátja a munkaerő-piaci előrejelző rendszer számára szolgáltatott adatok folyamatos gyűjtésével, elemzésével, feldolgozásával és közzétételével összefüggő feladatokat.
 
-(4)[^69] A munkaerő-piaci előrejelző rendszer működtetése céljából
+(4)[^71] A munkaerő-piaci előrejelző rendszer működtetése céljából
 
 a) az oktatási nyilvántartás működtetéséért felelős szerv az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 1/A. melléklet II. rész 1. pont a) és b) alpontjában foglalt adatok közül a születési helyre, a születési időre, a nemre és a levelezési címre vonatkozó adatokat, e)–g) és l) alpontjában foglalt adatokat, valamint 3/A. melléklet II. rész 1. pont b) és c) alpontjában foglalt adatok közül a születési helyre, a születési időre, a nemre és az állampolgárságra vonatkozó adatokat, valamint 3/A. melléklet II. rész 1. pont d) és f) alpontjában és 2. pont a)–d) alpontjában meghatározott adatokat,
 
@@ -28,9 +28,9 @@ g) a Központi Statisztikai Hivatal a foglalkoztatottak tárgyévi létszámát 
 
 a munkaerő-piaci előrejelző rendszer számára a Nemzeti Szakképzési és Felnőttképzési Hivatal által működtetett felületen, személyazonosításra alkalmatlan módon, az a), a b) és a d)–f) pont szerinti esetben a tárgyi negyedévet követő hónap utolsó napjáig, a c) és a g) pont szerinti esetben a tárgyévet követő első negyedév utolsó napjáig átadja.
 
-(5)[^70] A (4) bekezdés f) pontja szerinti adatszolgáltatás során a tárgyi negyedévben közzétett hirdetések anonimizált, teljes szövegét át kell adni a (4) bekezdés szerinti felületre való feltöltéssel.
+(5)[^72] A (4) bekezdés f) pontja szerinti adatszolgáltatás során a tárgyi negyedévben közzétett hirdetések anonimizált, teljes szövegét át kell adni a (4) bekezdés szerinti felületre való feltöltéssel.
 
-[^67]: A III/A. fejezetet (26/A. §) a 318/2020. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
-[^68]: A 26/A. § (3) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
-[^69]: A 26/A. § (4) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
-[^70]: A 26/A. § (5) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
+[^69]: A III/A. fejezetet (26/A. §) a 318/2020. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
+[^70]: A 26/A. § (3) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
+[^71]: A 26/A. § (4) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
+[^72]: A 26/A. § (5) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.

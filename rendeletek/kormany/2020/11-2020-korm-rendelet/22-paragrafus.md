@@ -1,6 +1,6 @@
 ## 12. Az Fktv. 13/B. §-ához
 
-22. §[^59] (1) A tanúsítvány tartalmazza
+22. §[^61] (1) A tanúsítvány tartalmazza
 
 a) a tanúsítvány sorszámát,
 
@@ -24,4 +24,4 @@ g) a tanúsítvány kiállítójának nevét és beosztását.
 
 (3) A tanúsítványt évente újrakezdődő sorszámozással és a tárgyév megjelölésével kell ellátni.
 
-[^59]: A 22. § a 318/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^61]: A 22. § a 318/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
