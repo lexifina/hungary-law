@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-150-00-00
 | 2021-12-26 | 2010. évi CXXX. törvény | 2021-150-00-00.2 |
 | 2022-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-150-00-00.3 |
 | 2022-01-02 | 2010. évi CXXX. törvény | 2021-150-00-00.4 |
+| 2022-01-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-150-00-00.5 |
