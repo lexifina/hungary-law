@@ -1,3 +1,3 @@
-5. §[^2]
+5. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztéséig meghosszabbítja.
 
-[^2]: Az 5. § a 4. § (2) bekezdése alapján 2022. január 15-én lép hatályba.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát veszti.
