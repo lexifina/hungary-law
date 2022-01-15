@@ -352,64 +352,76 @@
 
 | Összesen: | 9 |
 
-2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez
+2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez[^22]
 
-## A bírósági végrehajtói állásra pályázók szakmai értékelésének szempontjai és a szakmai értékelésnél adható pontok
+## A bírósági végrehajtói állásra pályázók értékelésének szempontjai és az értékelés során adható pontok
 
 1. Iskolai végzettség – maximális pontszám: 20
 
-|  | Értékelési szempont | Adható pontszám |  |
+|  | A | B | C |
 
-| 1.1. | a végrehajtói tevékenység során használható ismereteket adó szakjogászi szakképzettség | 15 |  |
+| 1. | Értékelési szempont | Adható pontszám |  |
 
-| 1.2. | a végrehajtói tevékenység során használható ismereteket adó egyéb felsőfokú szakképzettség | 10 |  |
+| 2. | a végrehajtói tevékenység során használható ismereteket adó szakjogászi szakképzettség | 15 |  |
 
-| 1.3. | a végrehajtói tevékenység során használható ismereteket adó egyéb végzettség, szakképzettség | 5 |  |
+| 3. | a végrehajtói tevékenység során használható ismereteket adó egyéb felsőfokú szakképzettség | 10 |  |
 
-2. Szakmai vizsga – maximális pontszám: 60
+| 4. | a végrehajtói tevékenység során használható ismereteket adó egyéb végzettség, szakképzettség | 5 |  |
 
-|  | Értékelési szempont | Adható pontszám |  |
+2. Szakmai vizsga – maximális pontszám: 40
 
-| 2.1. | jogi szakvizsga | 30 |  |
+|  | A | B | C |
 
-| 2.2. | bírósági végrehajtói szakvizsga | 20 |  |
+| 1. | Értékelési szempont | Adható pontszám |  |
 
-| 2.3. | végrehajtójelölti kézbesítési vizsga | 5 |  |
+| 2. | jogi szakvizsga | 30 |  |
 
-| 2.4. | végrehajtási ügyintézői vizsga | 5 |  |
+| 3. | végrehajtójelölti kézbesítési vizsga | 5 |  |
 
-| 2.5. | a végrehajtói tevékenység során használható ismeretekről számot adó egyéb szakmai vizsga | 2 |  |
+| 4. | végrehajtási ügyintézői vizsga | 5 |  |
+
+| 5. | a végrehajtói tevékenység során használható ismeretekről számot adó egyéb szakmai vizsga | 2 |  |
 
 3. Szakmai gyakorlat – maximális pontszám: 30
 
-|  | Értékelési szempont | Adható pontszám |  |
+|  | A | B | C |
 
-| 3.1. | szakirányú gyakorlat | 4 |  |
+| 1. | Értékelési szempont | Adható pontszám |  |
 
-| 3.2. | egyéb szakirányú gyakorlat | 3 |  |
+| 2. | szakirányú gyakorlat | 4 |  |
+
+| 3. | egyéb szakirányú gyakorlat | 3 |  |
 
 4. Nyelvtudás – maximális pontszám: 10
 
-|  | Értékelési szempont | Adható pontszám |  |
+|  | A | B | C |
 
-| 4.1. | élő idegen nyelvből tett, államilag elismert, felsőfokú (C1) komplex típusú nyelvvizsga | 5 |  |
+| 1. | Értékelési szempont | Adható pontszám |  |
 
-| 4.2. | élő idegen nyelvből tett, államilag elismert, középfokú (B2) komplex típusú nyelvvizsga | 3 |  |
+| 2. | élő idegen nyelvből tett, államilag elismert, felsőfokú (C1) komplex típusú nyelvvizsga | 5 |  |
 
-| 4.3. | szaknyelvi vizsga | 4 |  |
+| 3. | élő idegen nyelvből tett, államilag elismert, középfokú (B2) komplex típusú nyelvvizsga | 3 |  |
 
-5. Személyes meghallgatás – maximális pontszám: 60
+| 4. | szaknyelvi vizsga | 4 |  |
 
-|  | Értékelési szempont | Adható maximális pontszám |  |
+5. Személyes meghallgatás – maximális pontszám: 80
 
-| 5.1. | végrehajtási joggal és kapcsolódó jogterületekkel összefüggő naprakész jogi ismeretek | 40 |  |
+|  | A | B | C |
 
-| 5.2. | a végrehajtási eljárással kapcsolatos gyakorlati ismeretek | 20 |  |
+| 1. | Értékelési szempont | Adható maximális pontszám |  |
+
+| 2. | végrehajtási joggal és kapcsolódó jogterületekkel összefüggő naprakész jogi ismeretek | 40 |  |
+
+| 3. | a végrehajtási eljárással kapcsolatos gyakorlati ismeretek | 40 |  |
 
 6. Tudományos eredmény, szakmai oktatás – maximális pontszám: 5
 
-|  | Értékelési szempont | Adható maximális pontszám |  |
+|  | A | B | C |
 
-| 6.1. | szakirányú tudományos fokozat | 5 |  |
+| 1. | Értékelési szempont | Adható maximális pontszám |  |
 
-| 6.2. | egyéb szakirányú tudományos eredmény, oktatás, vizsgáztatás | 5 |  |
+| 2. | szakirányú tudományos fokozat | 5 |  |
+
+| 3. | egyéb szakirányú tudományos eredmény, oktatás, vizsgáztatás | 5 |  |
+
+[^22]: A 2. melléklet az 1/2022. (I. 14.) SZTFH rendelet 6. § (1) bekezdésével megállapított szöveg.

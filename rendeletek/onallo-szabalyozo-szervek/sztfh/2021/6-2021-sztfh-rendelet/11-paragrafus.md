@@ -1,22 +1,18 @@
-11. § (1) A kinevezési javaslatnak tartalmaznia kell
+11. § (1)[^12] A kinevezési javaslatnak tartalmaznia kell
 
-a) a határidőben pályázók adatait,
+a) az adott álláshelyre pályázók adatait,
 
 b) azoknak a pályázóknak a felsorolását, akik a pályázati anyagok alapján megfelelnek a Vht. szerinti kinevezési feltételeknek,
 
-c) szakmai értékelés során legmagasabb pontszámot kapott öt pályázó személyes meghallgatásának eredményét bemutató részletes szöveges értékelést személyenként.
+c) a három legmagasabb pontszámot kapott pályázó személyes meghallgatásának eredményét bemutató részletes szöveges értékelést személyenként,
 
-(2) Az (1) bekezdés szerinti szöveges értékelésben ki kell térni a pályázó alkalmasságára, ennek keretében:
+d) pontazonosság fennállása esetén az adott álláshelyre pályázók közül a legmagasabb pontszámmal azonos pontszámot kapott valamennyi pályázó személyes meghallgatásának eredményét bemutató részletes szöveges értékelést,
 
-a) elméleti és gyakorlati ismereteire, különös tekintettel a végrehajtói tevékenység gyakorlásához szükséges ismeretekre és képességekre,
+e) pontazonosság esetén a sorrend megállapításáról készült közjegyzői okirat eredeti példányát.
 
-b) szakmai eredményeire és tapasztalataira, nyelvismeretére,
+(2)[^13]
 
-c) életviteléről, erkölcsi és anyagi megbízhatóságáról a rendelkezésekre álló adatok és a személyes meghallgatás alapján kialakított véleményre,
-
-d) kari tagsága esetén a kari nyilvántartások minden olyan adatára, amely a pályázó szakmai és önkormányzati tevékenységének végzésével kapcsolatos.
-
-(3) A Kar Hivatali szerve a kinevezési javaslathoz csatolja
+(3)[^14] A Kar Hivatali szerve az értékelő bizottság kinevezési javaslatához csatolja
 
 a) a pályázat szabályszerű meghirdetését igazoló iratokat,
 
@@ -24,10 +20,19 @@ b) a beérkezett pályázatokat mellékleteikkel, a bűnügyi nyilvántartó sze
 
 c) a 7. § (3) bekezdése szerinti adatokat igazoló kari iratokat (végrehajtó-helyettesi névjegyzékbe vételről szóló határozat, gyakorlati idő igazolása stb.),
 
-d) a pályázók szakmai értékelésének eredményét tartalmazó értékelési táblázatokat,
+d)[^15]
 
-és továbbítja a Hatóság részére.
+és továbbítja a Hatóság elnöke részére.
 
-(4) A Hatóság elnöke az önálló végrehajtói állást a szakmai értékelés során legmagasabb pontszámot kapott öt pályázó egyikének kinevezésével töltheti be; a kinevezésről – a pályázati anyagok visszaküldésével együtt – tájékoztatja a Kar Hivatali szervének vezetőjét, és értesíti arról a törvényszék elnökét is. Ha ezen öt pályázó közül valamelyik pályázó időközben már másik végrehajtói állásra kinevezést kapott, a szakmai értékelés során következő legmagasabb pontszámot kapott pályázó bekerül a kinevezhető pályázók közé.
+(4)[^16] A Hatóság elnöke az önálló bírósági végrehajtói állást a kinevezési javaslatban szereplő három legmagasabb pontszámot kapott pályázó egyikének kinevezésével töltheti be. A Hatóság elnöke a kinevezésről – a pályázati anyagok visszaküldésével együtt – tájékoztatja a Kar Hivatali szervének vezetőjét, és értesíti arról a törvényszék elnökét is.
+
+(4a)[^17] Az adott álláshely tekintetében a pályázati kiírást a Hatóság elnöke eredménytelennek nyilvánítja, ha a Hatóság elnöke a kinevezési javaslatban felterjesztett szöveges értékelés alapján arra a megállapításra jut, hogy egyik jelölt sem alkalmas az álláshely betöltésére. Az eredménytelenség tényéről a Hatóság értesíti a Kar Hivatali szervének vezetőjét, aki az (5) bekezdés alapján jár el.
 
 (5) Ha a pályázat eredményeképpen nem kerül sor kinevezésre, a Hatóság elnöke erről szóló tájékoztatásától számított 30 napon belül újabb pályázatot kell kiírni. Ha a második pályázat is eredménytelen, a végrehajtási ügyek ellátását újabb pályázat kiírásával kell biztosítani.
+
+[^12]: A 11. § (1) bekezdése az 1/2022. (I. 14.) SZTFH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^13]: A 11. § (2) bekezdését az 1/2022. (I. 14.) SZTFH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^14]: A 11. § (3) bekezdés nyitó és záró szövegrésze az 1/2022. (I. 14.) SZTFH rendelet 7. § b)–c) pontja szerint módosított szöveg.
+[^15]: A 11. § (3) bekezdés d) pontját az 1/2022. (I. 14.) SZTFH rendelet 8. § b) pontja hatályon kívül helyezte.
+[^16]: A 11. § (4) bekezdése az 1/2022. (I. 14.) SZTFH rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^17]: A 11. § (4a) bekezdését az 1/2022. (I. 14.) SZTFH rendelet 5. § (2) bekezdése iktatta be.
