@@ -2,6 +2,8 @@
 
 (2) A vegyesruhás állomány a szolgálat jellegének és az alkalomnak megfelelő, kifogástalan állapotú polgári ruhát viselhet, a szerv vezetőjének rendelkezése alapján.
 
-(3) A polgári ruhás állományba tartozó pénzügyőrök a szolgálati feladataikat polgári öltözetben látják el, eltérő rendelkezés hiányában nem viselhetnek – átalakított formában sem – olyan egyenruházati eredetű ruházati terméket és felszerelési tárgyat, amelyből szervezeti hovatartozásukra lehet következtetni.
+(3)[^9]
 
 (4) Nem pénzügyőri munkakört betöltő pénzügyőri státuszú foglalkoztatott kizárólag társasági egyenruha viselésére jogosult.
+
+[^9]: A 10. § (3) bekezdését az 1/2022. (I. 12.) PM rendelet 25. § b) pontja hatályon kívül helyezte.

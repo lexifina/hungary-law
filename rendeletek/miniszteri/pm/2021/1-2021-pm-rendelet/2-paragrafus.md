@@ -1,5 +1,3 @@
-## 1. § A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) központi szervének és területi szervének vezetője (a továbbiakban együtt: szerv vezetője) köteles gondoskodni az irányítása alá tartozó pénzügyőri státuszú foglalkoztatottak vonatkozásában az öltözködési szabályok, egyenruhára, az egyenruha viselésére, a szolgálati igazolványra és a szolgálati jelvényre vonatkozó rendelkezések megismeréséről és betartatásáról, a közvetlen irányításáért felelős vezető (a továbbiakban: közvetlen vezető) pedig az előírtak végrehajtásának ellenőrzéséről.
-
 ## 1. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában
@@ -10,13 +8,13 @@ b) egyenruházat: a pénzügyőri státuszú foglalkoztatott részére a NAV ir�
 
 c) egyenruházati utánpótlási ellátmány: járandóság, amelynek rendeltetése az alapfelszerelési egyenruházati ellátmányként kapott, de elhasználódott egyenruházati termékek, továbbá az újonnan rendszeresített egyenruházati termékek pótlása;
 
-d) felszerelési tárgy: az alapfelszerelési egyenruházati normán felül a közvetlen vezető által elrendelt, a szerv vezetője által jóváhagyott egységes megjelenést biztosító olyan eszköz (ruházati, kiegészítő, egyéb termék), amely elsődlegesen a pénzügyőr védelmét, és azonosíthatóságát teszi lehetővé;
+d)[^2] felszerelési tárgy: az alapfelszerelési egyenruházati normán felül a közvetlen vezető által elrendelt, a szerv vezetője által jóváhagyott egységes megjelenést biztosító olyan eszköz – így különösen ruházati, kiegészítő és egyéb termék –, amely elsődlegesen a pénzügyőri státuszú foglalkoztatott védelmét és azonosíthatóságát teszi lehetővé;
 
 e) gyakorló öltözet: a szerv vezetője által elrendelt, a pénzügyőrök speciális szolgálati feladataik ellátása során viselt öltözet;
 
-f) illetékes személyügyi szervezeti egység: a pénzügyőr munkavégzés helye szerint illetékes központi vagy területi NAV szerv személyügyi szervezeti egysége;
+f)[^3]
 
-g) polgári ruhás állomány: azok a NAV nyomozóhatósági feladatait ellátó központi és területi szerv állományába tartozó pénzügyőrök, akik a mindennapi szolgálatteljesítést polgári ruházatban látják el;
+g)[^4]
 
 h) próbaidős egyenruházati ellátmány: olyan egyszeri minimális természetbeni járandóság, amelynek rendeltetése, hogy a pénzügyőrök próbaidő alatt rendelkezzenek azon egyenruházati termékekkel, amelyek az egyenruhás szolgálati feladatok ellátásához feltétlenül szükségesek;
 
@@ -24,13 +22,9 @@ i) ruházati ellátó egység: az egyenruházati ellátást és elszámolást bi
 
 j) szolgálati egyenruha: a pénzügyőrök által általában a szolgálati feladataik ellátása során, az adott időszaknak megfelelően viselt öltözet;
 
-k) szolgálati igazolvány: a pénzügyőr részére kiállított igazolvány, szigorú számadású, sorszámmal ellátott biztonsági okmány, amely
+k)[^5] szolgálati igazolvány: a foglalkoztatott, valamint a tisztjelölt részére kiállított igazolvány, szigorú számadású, sorszámmal ellátott biztonsági okmány;
 
-ka) pénzügyőr szolgálati igazolvány (a továbbiakban: „P” igazolvány) vagy
-
-kb) ideiglenes pénzügyőr szolgálati igazolvány (a továbbiakban: „I” igazolvány);
-
-l) szolgálati jelvény: a „P” igazolványhoz tartozó, szigorú számadású, sorszámmal ellátott jelvény;
+l)[^6] szolgálati jelvény: a pénzügyőr, valamint a tisztjelölt szolgálati igazolványához tartozó, szigorú számadású, sorszámmal ellátott jelvény;
 
 m) szolgálati jogviszony: a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény (a továbbiakban: NAV Szj. tv.) szerinti adó- és vámhatósági szolgálati jogviszony;
 
@@ -38,6 +32,16 @@ n) társasági egyenruházat: a pénzügyőri státuszú foglalkoztatott viselet
 
 o) újonnan rendszeresített egyenruházat: funkcióját tekintve a meglévő, már rendszeresített egyenruházati termék kiváltására szolgál, de anyagában, színében, formájában vagy egyéb jellemzőjében szembetűnő változás következett be;
 
-p) vegyesruhás állomány: azok a pénzügyőrök, akik nem tartoznak az egyenruhás, valamint a polgári ruhás állományba, és szolgálati feladataik során egyenruhát és polgári ruházatot is viselhetnek;
+p)[^7] vegyesruhás állomány: azok a pénzügyőrök, akik nem tartoznak az egyenruhás állományba, és szolgálati feladataik során egyenruhát és polgári ruházatot is viselhetnek;
 
 q) zenekari díszöltözet: a zenekar tagjai által hangversenyeken, térzene adásakor és egyéb rendezvényeken, esetenként viselt díszöltözet.
+
+r)[^8] helyettesítő termék: az a központi beszerzésből nem biztosított – az egyenruházat részét képező – ruházati elem, mely rendeltetését tekintve megegyezik a helyettesítendő ruházati elemmel, nem tartalmaz NAV-ra utaló jelzést, és az egyenruházat egységességét nem módosítja.
+
+[^2]: A 2. § d) pontja az 1/2022. (I. 12.) PM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § f) pontját az 1/2022. (I. 12.) PM rendelet 25. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § g) pontját az 1/2022. (I. 12.) PM rendelet 25. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § k) pontja az 1/2022. (I. 12.) PM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § l) pontja az 1/2022. (I. 12.) PM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § p) pontja az 1/2022. (I. 12.) PM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^8]: A 2. § r) pontját az 1/2022. (I. 12.) PM rendelet 17. § (4) bekezdése iktatta be.

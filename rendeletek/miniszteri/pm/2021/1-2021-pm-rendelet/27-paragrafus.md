@@ -1,5 +1,7 @@
-## 26. § Más szervhez való áthelyezése esetén a pénzügyőr részére kifizetett, vagy őt egyébként megillető egyenruházati utánpótlási ellátmányból csak a NAV-nál pénzügyőrként töltött hónap utolsó napjáig esedékes összegre jogosult, kivéve, ha az állami adó- és vámhatóság vezetője az érintett szerv vezetőjével másban állapodott meg.
+## 26. §[^22]
 
 ## VII. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
+
+[^22]: A 26. §-t az 1/2022. (I. 12.) PM rendelet 25. § d) pontja hatályon kívül helyezte.

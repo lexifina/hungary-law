@@ -1,5 +1,15 @@
-25. § (1) Ha az egyenruházati utánpótlási ellátmányra való jogosultság – a (2) bekezdésben meghatározott esetet kivéve – a 24. § (1) bekezdése szerinti jogosultsági időszak alatt megszűnik, az egyenruházati utánpótlási ellátmánynak tényleges jogosultsági idő szerint számított időarányos része jár a jogosult részére, azzal, hogy minden megkezdett hónap egész hónapnak számít. Ha a pénzügyőri munkakört betöltő pénzügyőri státuszú foglalkoztatott tisztviselői munkakörbe kerül áthelyezésre, illetve a tisztviselői munkakört betöltő pénzügyőri státuszú foglalkoztatottat pénzügyőri munkakörbe helyezik át, a 24. § (1) bekezdése szerinti jogosultsági időszak az áthelyezés évének január 1-jétől számítódik, azzal, hogy a pénzügyőr egy időszakon belül csak egy alkalommal jogosult az ellátmányra.
+## 25. §[^21] Ha az egyenruházati utánpótlási ellátmányra való jogosultság megszűnik, az egyenruházati utánpótlási ellátmánnyal időarányosan kell elszámolni, az alábbiak figyelembevételével:
 
-(2) Ha az egyenruházati utánpótlási ellátmányra való jogosultság elhalálozás következtében szűnik meg, akkor az elhunyt örököseitől nem követelhető vissza a már korábban a jogosult részére kifizetett egyenruházati utánpótlási ellátmány, ez esetben a NAV viseli a számlával le nem fedett összeg adó- és járulékterheit.
+a) minden megkezdett hónap egész hónapnak számít,
 
-(3) A jogosultsági időszak alatt el nem számolt, illetve el nem számolható utánpótlási ellátmány értéke a pénzügyőr illetményéből, valamint a szolgálati jogviszonyra tekintettel őt megillető más pénzbeli juttatás összegéből levonandó és elszámolandó, ha a levonás nem lehetséges, az tartozásként kerül előírásra.
+b) ha az időarányosnál kisebb értékű egyenruházati terméket vett fel a jogosult, a különbözet értékének megfelelő egyenruházati terméket részére nem lehet kiadni,
+
+c) új, bontatlan csomagolású, még rendszerben lévő egyenruházati termék visszavehető, amelynek értékével a tartozás csökkenthető,
+
+d) ha a jogosultság elhalálozás miatt szűnik meg, az egyenruházati utánpótlási ellátmánnyal az örökösnek nem kell elszámolnia,
+
+e) elhalálozás esetén az időarányosnál nagyobb értékben felvett egyenruházati utánpótlási ellátmány miatt keletkező közterheket a NAV viseli,
+
+f) az elszámolás tekintetében a tisztviselői munkakört betöltő pénzügyőri státuszú foglalkoztatott esetén az egyenruházati utánpótlási ellátmányt csak a juttatás évére kell időarányosítani.
+
+[^21]: A 25. § az 1/2022. (I. 12.) PM rendelet 21. §-ával megállapított szöveg.
