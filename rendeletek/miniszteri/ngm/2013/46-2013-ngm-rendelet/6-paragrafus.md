@@ -1,9 +1,9 @@
-6. § (1) A lakásbérleti szerződés megkötésének előfeltétele a lakásügyi szerv vezetője által meghatározott összegű lakás-előtakarékossági szerződés meglétének igazolása, és annak a bérleti jogviszony időtartama alatt történő folyamatos fenntartása. Ezen kötelezettséget, valamint az előírt előtakarékosság összegét a lakásbérleti szerződésben rögzíteni kell.
+6. §[^17] (1) A lakásbérleti szerződés megkötésének előfeltétele a lakásügyi szerv vezetője által meghatározott összegű, havi rendszerességű, a jövőben kizárólag lakáscélra felhasználható megtakarítás vállalása és annak a bérleti jogviszony időtartama alatt történő folyamatos fenntartása. Ezen kötelezettséget, valamint az előírt havi megtakarítás összegét a lakásbérleti szerződésben rögzíteni kell.
 
-(2) A lakáscélú előtakarékossági szerződés megkötésétől a lakásügyi szerv vezetője eltekinthet, vagy a rendszeres betételhelyezés összegének csökkentését engedélyezheti amennyiben:
+(2) A lakáscélú megtakarításra vonatkozó kötelezettség előírásától a lakásügyi szerv vezetője eltekinthet, vagy a rendszeres megtakarítás összegének csökkentését engedélyezheti, ha
 
-a) a bérlő anyagi, szociális, egészségügyi helyzetére figyelemmel az előtakarékosság vállalása a bérlő részére aránytalanul súlyos megterhelést jelent, vagy
+a) a bérlő anyagi, szociális, egészségügyi helyzetére figyelemmel a megtakarítás vállalása aránytalanul súlyos megterhelést jelent, vagy
 
-b)[^8] a bérlő vagy a vele együtt költöző személy önálló lakástulajdonnal rendelkezik.
+b) a bérlő vagy a vele együtt költöző személy önálló lakástulajdonnal rendelkezik.
 
-[^8]: A 6. § (2) bekezdés b) pontja a 38/2016. (X. 12.) NGM rendelet 5. §-ával megállapított szöveg.
+[^17]: A 6. § az 1/2022. (I. 12.) PM rendelet 12. §-ával megállapított szöveg.

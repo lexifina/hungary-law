@@ -16,10 +16,11 @@ c) a NAV rendelkezése alatt álló lakáshoz tartozó, továbbá a Magyar Álla
 
 a) a NAV vezetőjére és szakmai helyetteseire;
 
-b) a NAV teljes személyi állományára (a továbbiakban: NAV foglalkoztatott);
+b)[^2] a NAV-nál adó- és vámhatósági szolgálati jogviszonyban, valamint munkaviszonyban állókra (a továbbiakban: igénylő);
 
 c) az 1. § (1) bekezdés a) pontja szerinti lakásra más költségvetési szerv által – külön megállapodás alapján – bérlőként kijelölt személyekre;
 
 d) az a)–c) pontokban meghatározott személyekkel a NAV rendelkezése alatt álló lakásba együtt költöző személyekre.
 
 [^1]: Az 1. § (2) bekezdése a 38/2016. (X. 12.) NGM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés b) pontja az 1/2022. (I. 12.) PM rendelet 9. §-ával megállapított szöveg.

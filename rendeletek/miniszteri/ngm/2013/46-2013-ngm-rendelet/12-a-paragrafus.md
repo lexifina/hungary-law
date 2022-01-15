@@ -1,6 +1,6 @@
-12/A. §[^10] (1) A bérbeadó és a bérlő megállapodhat beszámításban, amennyiben:
+12/A. §[^19] (1) A bérbeadó és a bérlő megállapodhat beszámításban, amennyiben:
 
-a) a lakást a bérlő teszi rendeltetésszerű használatra alkalmassá és látja el a komfortfokozatának megfelelő lakásberendezésekkel;
+a)[^20] lakást – a 8. § (1) bekezdésében meghatározottakkal ellentétben – a bérlő teszi rendeltetésszerű használatra alkalmassá és látja el a komfortfokozatának megfelelő lakásberendezésekkel;
 
 b) a lakással kapcsolatos, az Ltv. 13. § (1) bekezdése alapján a bérbeadót terhelő munkálatokkal kapcsolatos költségeket a bérlő vállalja át.
 
@@ -12,4 +12,5 @@ b) a lakással kapcsolatos, az Ltv. 13. § (1) bekezdése alapján a bérbeadót
 
 (5) A bérlő szavatosságot vállal a beépített anyagok minőségéért és az elvégzett munkálatokért. Szakszerűtlen kivitelezés esetén a bérlő köteles viselni a szakszerűtlen munkával kapcsolatban fölmerülő összes (szükséges visszabontások és helyreállítások, átalakítások stb.) költséget. A bérlő kizárólag szabványos és építőipari alkalmassági minősítéssel rendelkező anyagokat építhet, építtethet be.
 
-[^10]: A 12/A. §-t a 38/2016. (X. 12.) NGM rendelet 7. §-a iktatta be.
+[^19]: A 12/A. §-t a 38/2016. (X. 12.) NGM rendelet 7. §-a iktatta be.
+[^20]: A 12/A. § (1) bekezdés a) pontja az 1/2022. (I. 12.) PM rendelet 14. § f) pontja szerint módosított szöveg.

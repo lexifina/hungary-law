@@ -4,15 +4,15 @@
 
 1. bérbeadó: a NAV;
 
-1/a.[^2] bérlőkijelölő szerv: az 1. § (2) bekezdés c) pontja szerinti költségvetési szerv;
+1/a.[^3] bérlőkijelölő szerv: az 1. § (2) bekezdés c) pontja szerinti költségvetési szerv;
 
 2. együtt költöző személy: az igénylő által a NAV rendelkezése alatt álló lakás iránti kérelemben megjelölt közeli hozzátartozó, élettárs, aki a bérleti jogviszony kezdetétől az igénylővel együtt jogosult a lakás használatára;
 
 3. élettársi kapcsolat: két olyan, házasságkötés nélkül közös háztartásban, érzelmi és gazdasági közösségben együtt élő személy közötti kapcsolat, akik közül egyiknek sem áll fenn mással házassági életközössége, bejegyzett élettársi életközössége vagy élettársi kapcsolata, és akik nem állnak egymással egyenesági rokonságban vagy testvéri kapcsolatban. Az élettársi kapcsolat fennállásának tényéről a feleknek írásban nyilatkozniuk kell;
 
-4.[^3] lakásügyi szerv: a NAV Központi Irányítása (a továbbiakban: NAV KI);
+4.[^4] lakásügyi szerv: a NAV Központi Irányítása (a továbbiakban: NAV KI);
 
-4/a.[^4] lakásügyi szerv vezetője: a NAV KI főigazgatója;
+4/a.[^5] lakásügyi szerv vezetője: a NAV KI főigazgatója;
 
 5. tiszta, rendeltetésszerű használatra alkalmas állapotú lakás: olyan lakás, melyben:
 
@@ -20,11 +20,11 @@ a) a szobák falai frissen festettek vagy tapétázottak;
 
 b) a mellékhelyiségek falai frissen festettek vagy meszeltek;
 
-c) a nyílászárók és csővezetékek frissen mázoltak;
+c)[^6]
 
 d) a nyílászárók, burkolatok, beépített bútorok, berendezések, szerelvények üzemképesek, épek, tiszták;
 
-6. önálló lakás: a kérelmező, valamint a vele egy háztartásban élő közeli hozzátartozó vagy élettárs tulajdonában álló, és az általa használt vagy használatba vehető lakás, ha a tulajdoni részarányuk eléri az 50%-ot, továbbá az általuk bérlőként, bérlőtársként használt lakás. A lakást akkor is használatba vehetőnek kell tekinteni, ha annak használatát a fentiekben megjelölt személy(ek) bérleti szerződéssel vagy egyéb módon másnak átengedte. A fenti személyek haszonélvezettel terhelt lakását nem lehet önálló lakásnak tekinteni, ha a haszonélvező a lakásban életvitelszerűen lakik, mely tényt a haszonélvező által tett nyilatkozattal igazolni kell;
+6.[^7] önálló lakás: az igénylő, valamint a vele egy háztartásban élő közeli hozzátartozó vagy élettárs tulajdonában álló, és az általa használt vagy használatba vehető lakás, ha a tulajdoni részarányuk eléri az 50%-ot, továbbá az általuk bérlőként, bérlőtársként használt bérlakás, ha a lakással állami vagy önkormányzati szerv rendelkezik. A lakást akkor is használatba vehetőnek kell tekinteni, ha annak használatát a fentiekben megjelölt személy(ek) bérleti szerződéssel vagy egyéb módon másnak átengedte. A fenti személyek haszonélvezettel terhelt lakását nem lehet önálló lakásnak tekinteni, ha a haszonélvező a lakásban életvitelszerűen lakik, mely tényt a haszonélvező által tett nyilatkozattal igazolni kell;
 
 7. vonzáskörzet:
 
@@ -40,6 +40,8 @@ a) helyiség;
 
 b) elválasztó vonallal vagy azonosító jellel meghatározott leállósáv, útpadka.
 
-[^2]: A 2. § 1/a. pontját a 38/2016. (X. 12.) NGM rendelet 2. § (1) bekezdése iktatta be.
-[^3]: A 2. § 4. pontja a 38/2016. (X. 12.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § 4/a. pontját a 38/2016. (X. 12.) NGM rendelet 2. § (3) bekezdése iktatta be.
+[^3]: A 2. § 1/a. pontját a 38/2016. (X. 12.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 2. § 4. pontja a 38/2016. (X. 12.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § 4/a. pontját a 38/2016. (X. 12.) NGM rendelet 2. § (3) bekezdése iktatta be.
+[^6]: A 2. § (5) bekezdés c) pontját az 1/2022. (I. 12.) PM rendelet 15. §-a hatályon kívül helyezte.
+[^7]: A 2. § 6. pontja az 1/2022. (I. 12.) PM rendelet 14. § a) pontja szerint módosított szöveg.

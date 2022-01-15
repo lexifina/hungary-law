@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-46-20-2
 | 2015-09-05 | 2013-46-20-2X.3 | 23/2015. (IX. 4.) NGM rendelet |
 | 2016-01-01 | 2013-46-20-2X.4 | 47/2015. (XII. 30.) NGM rendelet |
 | 2016-10-13 | 2013-46-20-2X.5 | 38/2016. (X. 12.) NGM rendelet |
+| 2022-01-15 | 2013-46-20-2X.6 | 1/2022. (I. 12.) PM rendelet |
