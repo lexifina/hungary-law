@@ -1,3 +1,3 @@
-225. §[^187]
+225. §[^188]
 
-[^187]: A 225. §-t a 95/2021. (II. 27.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^188]: A 225. §-t a 95/2021. (II. 27.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

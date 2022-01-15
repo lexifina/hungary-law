@@ -1,5 +1,5 @@
 ## 91. Az Szkt. 93. § (2) bekezdés b) pontjához
 
-265. §[^225] Az akkreditált vizsgaközpont a vizsgacsoportokat szakmánként vagy képzési területenként alakítja ki. A vizsgacsoport létszáma nem haladhatja meg az Szkt.-ben előírt maximális osztálylétszámot.
+265. §[^226] Az akkreditált vizsgaközpont a vizsgacsoportokat szakmánként vagy képzési területenként alakítja ki. A vizsgacsoport létszáma nem haladhatja meg az Szkt.-ben előírt maximális osztálylétszámot.
 
-[^225]: A 265. § a 380/2021. (VI. 30.) Korm. rendelet 58. § 73. pontja szerint módosított szöveg.
+[^226]: A 265. § a 380/2021. (VI. 30.) Korm. rendelet 58. § 73. pontja szerint módosított szöveg.

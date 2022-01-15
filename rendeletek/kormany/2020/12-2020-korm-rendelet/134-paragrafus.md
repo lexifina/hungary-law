@@ -6,7 +6,7 @@
 
 134. § (1) A közismereti oktatásban oktatott tantárgy oktatójának
 
-a)[^121] technikumban egyetemi szintű vagy – az általános iskolai tanár kivételével – mesterfokozatú,
+a)[^122] technikumban egyetemi szintű vagy – az általános iskolai tanár kivételével – mesterfokozatú,
 
 b) szakképző iskolában legalább főiskolai szintű,
 
@@ -16,11 +16,11 @@ a közismereti tantárgynak megfelelő szakos tanári végzettséggel kell rende
 
 a) technikumban szakmai tanárképzésben szerzett mesterfokozattal vagy felsőfokú végzettséggel és az ágazatnak megfelelő szakképzettséggel,
 
-b)[^122] szakképző iskolában az ágazatnak megfelelő felsőfokú végzettséggel és szakképzettséggel vagy felsőfokú végzettséggel és az ágazatnak megfelelő szakképzettséggel vagy szakképesítéssel
+b)[^123] szakképző iskolában az ágazatnak megfelelő felsőfokú végzettséggel és szakképzettséggel vagy felsőfokú végzettséggel és az ágazatnak megfelelő szakképzettséggel vagy szakképesítéssel
 
 kell rendelkeznie.
 
-(3)[^123] A gyakorlati ismereteket oktató személynek legalább érettségi végzettséggel és az ágazatnak megfelelő szakképzettséggel vagy szakképesítéssel kell rendelkeznie.
+(3)[^124] A gyakorlati ismereteket oktató személynek legalább érettségi végzettséggel és az ágazatnak megfelelő szakképzettséggel vagy szakképesítéssel kell rendelkeznie.
 
 (4) Ha az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény szakmai programjában a hittan mint tantárgy szerepel, a hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben vagy vallási egyesület által fenntartott felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel vagy pedagógus szakképzettséggel és az egyházi jogi személy által kibocsátott hitoktatói képesítéssel, továbbá az egyházi jogi személy, illetve a vallási egyesület belső szabálya alapján illetékes egyházi jogi személy, illetve vallási egyesület általi megbízással kell rendelkeznie.
 
@@ -28,9 +28,9 @@ kell rendelkeznie.
 
 (6) Idegen nyelv, nemzetiségi nyelv oktatására alkalmazható az is, aki főiskolai szintű nyelvtanári vagy idegen nyelv- és irodalom szakos tanári felsőfokú végzettséggel és szakképzettséggel rendelkezik. Az anyanyelvi oktató a küldő állam vagy államközi megállapodásban meghatározott közvetítő szervezet olyan igazolása alapján vehet rész az idegen nyelv, nemzetiségi nyelv oktatásában, amely a középfokú iskolában való oktatásra jogosító felsőfokú oklevéllel való rendelkezésének tényét igazolja.
 
-(7)[^124] A szakképző intézményben az (1) bekezdésben meghatározott oktatón kívüli további, nevelő-oktató munkát végzők végzettségi és szakképzettségi követelményeire a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletét kell alkalmazni.
+(7)[^125] A szakképző intézményben az (1) bekezdésben meghatározott oktatón kívüli további, nevelő-oktató munkát végzők végzettségi és szakképzettségi követelményeire a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletét kell alkalmazni.
 
-[^121]: A 134. § (1) bekezdés a) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 38. pontja szerint módosított szöveg.
-[^122]: A 134. § (2) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 39. pontja szerint módosított szöveg.
-[^123]: A 134. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 40. pontja szerint módosított szöveg.
-[^124]: A 134. § (7) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^122]: A 134. § (1) bekezdés a) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 38. pontja szerint módosított szöveg.
+[^123]: A 134. § (2) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 39. pontja szerint módosított szöveg.
+[^124]: A 134. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 40. pontja szerint módosított szöveg.
+[^125]: A 134. § (7) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.

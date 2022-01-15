@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-12-20-2
 | 2021-09-01 | 2020-12-20-22.8 | 380/2021. (VI. 30.) Korm. rendelet |
 | 2021-12-29 | 2020-12-20-22.9 | 800/2021. (XII. 28.) Korm. rendelet |
 | 2022-01-01 | 2020-12-20-22.10 | 800/2021. (XII. 28.) Korm. rendelet |
+| 2022-01-15 | 2020-12-20-22.11 | 12/2022. (I. 14.) Korm. rendelet |
