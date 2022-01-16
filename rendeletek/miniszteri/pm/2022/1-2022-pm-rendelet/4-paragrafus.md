@@ -1,1 +1,3 @@
-## „(5) A rendszeresítési eljárás időtartamába nem számít bele a beszerzési igénynek a NAV gazdasági szakterülete részére történő átadásától a beszerzési eljárást megindító felhívásban szereplő ajánlattételi határidő lejártáig terjedő időszak.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

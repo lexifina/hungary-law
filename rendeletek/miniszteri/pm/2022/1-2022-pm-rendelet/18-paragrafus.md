@@ -1,1 +1,3 @@
-## „r) helyettesítő termék: az a központi beszerzésből nem biztosított – az egyenruházat részét képező – ruházati elem, mely rendeltetését tekintve megegyezik a helyettesítendő ruházati elemmel, nem tartalmaz NAV-ra utaló jelzést, és az egyenruházat egységességét nem módosítja.”
+## 17. §[^18]
+
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

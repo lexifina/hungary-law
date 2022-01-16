@@ -1,15 +1,3 @@
-## 21. § A Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak Öltözködési Szabályzatáról és a szolgálati igazolványokról, valamint a szolgálati jelvény rendszeresítéséről szóló 1/2021. (I. 5.) PM rendelet 25. §-a helyébe a következő rendelkezés lép:
+## 21. §[^22]
 
-## „25. § Ha az egyenruházati utánpótlási ellátmányra való jogosultság megszűnik, az egyenruházati utánpótlási ellátmánnyal időarányosan kell elszámolni, az alábbiak figyelembevételével:
-
-## a) minden megkezdett hónap egész hónapnak számít,
-
-## b) ha az időarányosnál kisebb értékű egyenruházati terméket vett fel a jogosult, a különbözet értékének megfelelő egyenruházati terméket részére nem lehet kiadni,
-
-## c) új, bontatlan csomagolású, még rendszerben lévő egyenruházati termék visszavehető, amelynek értékével a tartozás csökkenthető,
-
-## d) ha a jogosultság elhalálozás miatt szűnik meg, az egyenruházati utánpótlási ellátmánnyal az örökösnek nem kell elszámolnia,
-
-## e) elhalálozás esetén az időarányosnál nagyobb értékben felvett egyenruházati utánpótlási ellátmány miatt keletkező közterheket a NAV viseli,
-
-## f) az elszámolás tekintetében a tisztviselői munkakört betöltő pénzügyőri státuszú foglalkoztatott esetén az egyenruházati utánpótlási ellátmányt csak a juttatás évére kell időarányosítani.”
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

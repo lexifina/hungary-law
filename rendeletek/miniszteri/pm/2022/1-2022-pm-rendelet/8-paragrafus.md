@@ -1,3 +1,3 @@
-## 7. § A Nemzeti Adó- és Vámhivatalnál alkalmazásra kerülő kényszerítő eszközök rendszeresítésére vonatkozó eljárási szabályokról és a rendszeresíthető kényszerítő eszközök típusairól és fajtáiról szóló 16/2010. (XII. 28.) NGM rendelet a következő 21. §-sal egészül ki:
+## 7. §[^8]
 
-## „21. § E rendeletnek a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálybalépésével, valamint a Nemzeti Adó- és Vámhivatal tevékenységével összefüggő rendeletek módosításáról szóló 1/2022. (I. 12.) PM rendelettel (a továbbiakban: Módr1.) megállapított módosításait a Módr1. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
