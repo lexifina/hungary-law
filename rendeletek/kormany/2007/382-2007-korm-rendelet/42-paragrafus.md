@@ -1,20 +1,20 @@
-## 41/D. §[^128] E rendeletnek az ”EUROVEGAS” Entertainment & Casino Park Szolgáltató Korlátolt Felelősségű Társaság „felszámolás alatt”, valamint az ”Ipari Terület Bezenye” Ipari és Kereskedelmi Korlátolt Felelősségű Társaság „felszámolás alatt” stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítéséről, a Magyarország Európai Unió melletti Állandó Képviselete kötelezettségteljesítéséhez szükséges intézkedésekről, valamint egyes gazdasági tárgyú kormányrendeletek módosításáról szóló 295/2016. (IX. 29.) Korm. rendelettel (a továbbiakban: Mód. Kr4.) módosított 20. § (3) bekezdését, valamint 23. § (2a) és (2b) bekezdését a Mód. Kr4. hatálybalépésekor[^129] folyamatban lévő eljárásokban is alkalmazni kell.
+## 41/D. §[^132] E rendeletnek az ”EUROVEGAS” Entertainment & Casino Park Szolgáltató Korlátolt Felelősségű Társaság „felszámolás alatt”, valamint az ”Ipari Terület Bezenye” Ipari és Kereskedelmi Korlátolt Felelősségű Társaság „felszámolás alatt” stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítéséről, a Magyarország Európai Unió melletti Állandó Képviselete kötelezettségteljesítéséhez szükséges intézkedésekről, valamint egyes gazdasági tárgyú kormányrendeletek módosításáról szóló 295/2016. (IX. 29.) Korm. rendelettel (a továbbiakban: Mód. Kr4.) módosított 20. § (3) bekezdését, valamint 23. § (2a) és (2b) bekezdését a Mód. Kr4. hatálybalépésekor[^133] folyamatban lévő eljárásokban is alkalmazni kell.
 
-## 42. §[^130] Ez a rendelet
+## 42. §[^134] Ez a rendelet
 
-a)[^131] az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 2. és 4. cikkének,
+a)[^135] az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 2. és 4. cikkének,
 
-b)[^132]
+b)[^136]
 
 c) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének
 
-d)[^133] az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikkének [2. § (1) bekezdés 3a., 4a, 5a–5c. pontja, 23. § (1a) és (4)–(7) bekezdése]
+d)[^137] az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikkének [2. § (1) bekezdés 3a., 4a, 5a–5c. pontja, 23. § (1a) és (4)–(7) bekezdése]
 
 való megfelelést szolgálja.
 
-[^128]: A 41/D. §-t a 295/2016. (IX. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^129]: A hatálybalépés időpontja 2016. szeptember 30.
-[^130]: A 42. §-t a 82/2011. (V. 18.) Korm. rendelet 44. §-a iktatta be.
-[^131]: A 42. § a) pontja a 208/2021. (IV. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^132]: A 42. § b) pontját a 208/2021. (IV. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^133]: A 42. § d) pontját a 122/2015. (V. 26.) Korm. rendelet 35. §-a iktatta be.
+[^132]: A 41/D. §-t a 295/2016. (IX. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^133]: A hatálybalépés időpontja 2016. szeptember 30.
+[^134]: A 42. §-t a 82/2011. (V. 18.) Korm. rendelet 44. §-a iktatta be.
+[^135]: A 42. § a) pontja a 208/2021. (IV. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^136]: A 42. § b) pontját a 208/2021. (IV. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^137]: A 42. § d) pontját a 122/2015. (V. 26.) Korm. rendelet 35. §-a iktatta be.

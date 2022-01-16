@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2021-02-17 | 2007-382-20-22.45 | 37/2021. (II. 2.) Korm. rendelet |
 | 2021-05-29 | 2007-382-20-22.46 | 208/2021. (IV. 29.) Korm. rendelet |
 | 2022-01-01 | 2007-382-20-22.47 | 787/2021. (XII. 27.) Korm. rendelet |
+| 2022-01-16 | 2007-382-20-22.48 | 711/2021. (XII. 17.) Korm. rendelet |
