@@ -16,6 +16,8 @@
 
 | 5. | A Tvt. 38. § (1) bekezdés i) pontja szerinti, erdőben technikai jellegű sporttevékenység folytatásának engedélyezésére irányuló eljárás. | minden esetben | Az erdőre gyakorolt hatások vizsgálata kérdésében. |
 
-10. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^104]
+10. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^107]
 
-[^104]: A 10. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés j) pontja hatályon kívül helyezte, újonnan a 124/2021. (III. 12.) Korm. rendelet 10. § (5) bekezdése iktatta be.
+Felszámolási és végelszámolási eljárásban vizsgálandó szakkérdések
+
+[^107]: A 10. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés j) pontja hatályon kívül helyezte, újonnan a 124/2021. (III. 12.) Korm. rendelet 10. § (5) bekezdése iktatta be.

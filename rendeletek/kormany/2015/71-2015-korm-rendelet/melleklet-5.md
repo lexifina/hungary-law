@@ -1,5 +1,3 @@
-## Környezetvédelmi igazgatási szervek különös illetékességi területe
-
 ## 1.1. Terület alapján meghatározott különös illetékesség
 
 |  | A | B |
@@ -96,9 +94,11 @@
 
 | 20. | Zala Megyei Kormányhivatal | a) a „10. Az ország többi területe” légszennyezettségi zónából Zala megye közigazgatási területe, b) a „11. Kijelölt városok” légszennyezettségi zónából Zalaegerszeg közigazgatási területe |
 
-5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^99]
+5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^102]
 
 I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban vizsgálandó szakkérdések
+
+## 1X12579N_0
 
 |  | A | B |
 
@@ -140,4 +140,4 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 II.
 
-[^99]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k)–l) pontja, a 677/2020. (XII. 28.) Korm. rendelet 37. §-a, a 124/2021. (III. 12.) Korm. rendelet 10. § (2) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^102]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k)–l) pontja, a 677/2020. (XII. 28.) Korm. rendelet 37. §-a, a 124/2021. (III. 12.) Korm. rendelet 10. § (2) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 35. §-a szerint módosított szöveg.

@@ -18,6 +18,6 @@ h) 77. §-ában, valamint
 
 i) 78. § (1) bekezdésében
 
-## foglalt természetvédelmi hatóságként.
+foglalt természetvédelmi hatóságként.
 
 (2) Helyi jelentőségű védett fasor esetében a jegyző jár el a Tvt. 42. § (5) bekezdése szerinti természetvédelmi hatóságként.

@@ -1,4 +1,4 @@
-6. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^100]
+6. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^103]
 
 I. Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések
 
@@ -20,4 +20,4 @@ I. Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések
 
 II.
 
-[^100]: A 6. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés d) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k) és m) pontja, a 124/2021. (III. 12.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^103]: A 6. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés d) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k) és m) pontja, a 124/2021. (III. 12.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.

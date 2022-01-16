@@ -1,3 +1,3 @@
-## 11. §[^31]
+12. §[^35]
 
-[^31]: A 11. §-t a 124/2021. (III. 12.) Korm. rendelet 11. § g) pontja hatályon kívül helyezte.
+[^35]: A 12. §-t a 124/2021. (III. 12.) Korm. rendelet 11. § g) pontja hatályon kívül helyezte.

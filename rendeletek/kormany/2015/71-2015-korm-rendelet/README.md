@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-71-20-2
 | 2021-01-01 | 2015-71-20-22.19 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-03-16 | 2015-71-20-22.20 | 124/2021. (III. 12.) Korm. rendelet |
 | 2022-01-01 | 2015-71-20-22.21 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2022-01-16 | 2015-71-20-22.22 | 711/2021. (XII. 17.) Korm. rendelet |

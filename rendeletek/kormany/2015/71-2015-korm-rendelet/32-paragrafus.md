@@ -1,8 +1,6 @@
-## 31. §[^70]
+## 12. [^74] A természetvédelmi hatóság eljárásában vizsgálandó szakkérdések
 
-## 12. [^71] A természetvédelmi hatóság eljárásában vizsgálandó szakkérdések
-
-## 32. §[^72] Ha kormányrendelet eltérően nem rendelkezik, a területi természetvédelmi hatóság szakkérdés vizsgálatával kapcsolatos feladatkörében, vagy a szakhatóságként kijelölt hatóság a természet és a táj védelmére vonatkozó nemzeti és közösségi jogi követelményeknek való megfelelés elbírálására vonatkozó szakhatósági feladatkörében azt vizsgálja, hogy az engedélyeztetni kívánt tevékenység, építmény, létesítmény megfelel-e
+## 32. §[^75] Ha kormányrendelet eltérően nem rendelkezik, a területi természetvédelmi hatóság szakkérdés vizsgálatával kapcsolatos feladatkörében, vagy a szakhatóságként kijelölt hatóság a természet és a táj védelmére vonatkozó nemzeti és közösségi jogi követelményeknek való megfelelés elbírálására vonatkozó szakhatósági feladatkörében azt vizsgálja, hogy az engedélyeztetni kívánt tevékenység, építmény, létesítmény megfelel-e
 
 a) a védett természeti értékek és területek megőrzése, fenntartása, fejlesztése, helyreállítása, kiemelt oltalmuk biztosítása,
 
@@ -10,6 +8,7 @@ b) a közösségi és a kiemelt közösségi jelentőségű fajok, továbbá él
 
 c) a természeti értékek és területek, a tájak és az egyedi tájértékek, valamint azok természeti rendszereinek, jellegzetességének, biológiai sokféleségének, természetes vagy természetközeli állapotának megőrzése, fenntartható használatának és helyreállításának elősegítése
 
-[^70]: A 31. §-t a 124/2021. (III. 12.) Korm. rendelet 11. § j) pontja hatályon kívül helyezte.
-[^71]: A 12. alcím címe a 425/2020. (IX. 10.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^72]: A 32. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 15. pontja, a 425/2020. (IX. 10.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+jogszabályokban és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában rögzített követelményeinek.
+
+[^74]: A 12. alcím címe a 425/2020. (IX. 10.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^75]: A 32. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 15. pontja, a 425/2020. (IX. 10.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
