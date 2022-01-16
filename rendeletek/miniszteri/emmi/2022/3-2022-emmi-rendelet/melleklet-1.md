@@ -1,3 +1,3 @@
-1. melléklet a 3/2022. (I. 14.) EMMI rendelethez[^13]
+1. melléklet a 3/2022. (I. 14.) EMMI rendelethez[^14]
 
-[^13]: Az 1. melléklet a 12. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^14]: Az 1. melléklet a 12. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
