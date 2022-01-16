@@ -50,11 +50,11 @@
 
 ## 12. Az oxigén-háztartásra kedvezőtlenül ható anyagok (és amelyeket mérni lehet a BOI, KOI stb. jellemzőkkel).
 
-11. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^327]
+11. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^328]
 
 Az egységes környezethasználati engedély tartalmi követelményei
 
-1.[^328] Az engedély tartalmazza:
+1.[^329] Az engedély tartalmazza:
 
 a) a jogosult ügyfél azonosító adatait (KÜJ számmal),
 
@@ -68,7 +68,7 @@ e) a tevékenység 2. melléklet szerinti besorolását,
 
 f) a kiépített termelési kapacitást.
 
-2.[^329] A környezetvédelmi hatóság az engedélyben kibocsátási határértéket állapít meg a 20. § (4)–(10) bekezdésben foglaltak alapján.
+2.[^330] A környezetvédelmi hatóság az engedélyben kibocsátási határértéket állapít meg a 20. § (4)–(10) bekezdésben foglaltak alapján.
 
 3. Az engedélyben feltételeket kell előírni az egyes környezeti elemekre, valamint a hulladékokra vonatkozó külön jogszabályok szerint, különösen
 
@@ -116,6 +116,6 @@ k) a 20. § (13) bekezdés alkalmazása esetén olyan kiegészítő feltételt, 
 
 5. Az elérhető legjobb technika alkalmazására vonatkozó rendelkezések, a vonatkozó elérhető legjobb technika referenciadokumentum megnevezésével.
 
-[^327]: A 11. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^328]: A 11. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 157. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^329]: A 11. számú melléklet 2. pontja a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint megállapított szöveg.
+[^328]: A 11. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^329]: A 11. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 157. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^330]: A 11. számú melléklet 2. pontja a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint megállapított szöveg.

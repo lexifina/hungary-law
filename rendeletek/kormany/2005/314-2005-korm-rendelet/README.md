@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2021-05-29 | 2005-314-20-22.53 | 70/2015. (III. 30.) Korm. rendelet |
 | 2021-07-16 | 2005-314-20-22.54 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2022-01-01 | 2005-314-20-22.55 | 151/2009. (VII. 23.) Korm. rendelet |
+| 2022-01-16 | 2005-314-20-22.56 | 711/2021. (XII. 17.) Korm. rendelet |
