@@ -1,4 +1,4 @@
-## 13/I. [^88] Az egyes szórakoztatási célú berendezések és létesítmények biztonságos üzemeltetésével kapcsolatos, oktatásra történő feljogosításra vonatkozó szabályok
+## 13/I. [^89] Az egyes szórakoztatási célú berendezések és létesítmények biztonságos üzemeltetésével kapcsolatos, oktatásra történő feljogosításra vonatkozó szabályok
 
 24/P. § (1) A mutatványos berendezések biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó mutatványos berendezések biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosítás iránti kérelmet országos illetékességgel a műszaki biztonsági feladatkörben eljáró Budapest Főváros Kormányhivatala bírálja el.
 
@@ -22,4 +22,4 @@ b) az oktatáshoz szükséges korszerű szakmai ismereteket tükröző tananyago
 
 (5) A (2) bekezdésben hivatkozott engedély 3 évig hatályos.
 
-[^88]: A 13/I. alcímet (24/P. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^89]: A 13/I. alcímet (24/P. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
