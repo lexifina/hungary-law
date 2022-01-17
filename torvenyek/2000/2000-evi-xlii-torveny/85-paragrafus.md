@@ -4,4 +4,4 @@
 
 (2) A kikötők használatának részletes szabályait a kikötő üzemben tartója kikötőrendben állapítja meg. A kikötőrendet – határkikötő esetén a vámhatóság és a határőrizeti szerv egyetértésével – a hajózási hatóság hagyja jóvá.
 
-(3) A közforgalmú kikötő kikötőrendjét a kikötő üzemben tartójának a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben kell hirdetnie. A kikötőrend hajóforgalmat érintő részét hajósoknak szóló hirdetményben is közzé kell tenni.
+(3) A közforgalmú kikötő kikötőrendjét – annak jóváhagyását követően – a kikötő üzemben tartója a honlapján, míg a kikötőrend hajóforgalmat érintő részét a hajózási hatóság hajósoknak szóló hirdetményben teszi közzé.

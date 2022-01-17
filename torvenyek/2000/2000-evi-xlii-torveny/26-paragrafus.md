@@ -2,7 +2,7 @@
 
 ## AZ ÚSZÓLÉTESÍTMÉNY SZEMÉLYZETÉRE VONATKOZÓ ÁLTALÁNOS ELŐÍRÁSOK
 
-26. § (1) Úszólétesítményt csak hajózási képesítésekről szóló miniszteri rendeletben meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre is alkalmas állapotban lévő személyzet működtethet.
+26. § (1) Úszólétesítményt a hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre – kedvtelési célú hajó esetében vezetésre – alkalmas állapotban lévő személyzet működtethet.
 
 (1a) Az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetőjének képesítő okmányait a vizsgaközpont állítja ki.
 
@@ -63,3 +63,5 @@ ka) az eredeti képesítő okmányt kiadó ország megnevezése,
 kb) az eredeti képesítő okmány száma,
 
 kc) az elismerést igazoló érvényesítés száma.
+
+(8) A vizsgaközpont, valamint a hajózási hatóság a jogszabály által meghatározott feladat- és hatáskörét érintően biztosítja, hogy a hivatásos hajós képesítésekkel kapcsolatos kompetenciák megszerzésével és értékelésével kapcsolatos tevékenységet, valamint az uniós képesítő bizonyítvánnyal, a szolgálati könyvvel és a hajónaplóval kapcsolatos adminisztrációt 2037. január 17-ig, azt követően pedig legalább tízévente független szerv értékelje. A vizsgaközpont, valamint a hajózási hatóság az értékelések eredményeit dokumentálja és az érintett hatóságok tudomására hozza.

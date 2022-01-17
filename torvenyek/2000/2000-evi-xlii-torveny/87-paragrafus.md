@@ -12,7 +12,7 @@
 
 a) emberi erővel hajtott, felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket,
 
-b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 7,5 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
+b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 14,7 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
 
 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 

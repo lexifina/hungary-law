@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2021-06-13 | 2021. évi LIX. törvény | 2000-42-00-00.57 |
 | 2021-07-01 | 2021. évi LIX. törvény | 2000-42-00-00.58 |
 | 2021-12-30 | 2021. évi CXX. törvény | 2000-42-00-00.59 |
+| 2022-01-17 | 2021. évi CXXXVI. törvény | 2000-42-00-00.60 |
