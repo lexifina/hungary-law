@@ -1,1 +1,5 @@
-105. §
+105. § A közúti közlekedésről szóló 1988. évi I. törvény 23. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
+
+„(4a) A (4) bekezdés szerinti eljárásokban a járműforgalmazó a közlekedési hatóság által kiadott engedély alapján a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározottak szerint, tanúsítóként a tényállás tisztázásában közreműködik.
+
+(4b) A közlekedési hatóság a (4a) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt 100 000 forinttól 1 000 000 forintig terjedő bírság fizetésére kötelezheti. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a járműforgalmazó tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a járműforgalmazót a tevékenység végzésétől eltilthatja.”
