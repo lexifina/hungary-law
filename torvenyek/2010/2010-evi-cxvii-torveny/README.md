@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-117-00-00
 | 2021-07-01 | 2021. évi LV. törvény | 2010-117-00-00.21 |
 | 2022-01-01 | 2021. évi CXXXVI. törvény | 2010-117-00-00.22 |
 | 2022-01-02 | 2021. évi CXXXVI. törvény | 2010-117-00-00.23 |
+| 2022-01-17 | 2021. évi CXXXVI. törvény | 2010-117-00-00.24 |
