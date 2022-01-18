@@ -40,6 +40,6 @@
 
 | 19 | 17. | 1,390 | 1,390 | 1,538 | 1,564 | 1,589 | 1,719 | 1,763 | 1,809 | 1,849 | 1,890 |
 
-5. melléklet a 21/2018. (XII. 28.) HM rendelethez[^61]
+5. melléklet a 21/2018. (XII. 28.) HM rendelethez[^64]
 
-[^61]: Az 5. mellékletet a 13/2021. (VII. 15.) HM rendelet 42. § b) pontja hatályon kívül helyezte.
+[^64]: Az 5. mellékletet a 13/2021. (VII. 15.) HM rendelet 42. § b) pontja hatályon kívül helyezte.
