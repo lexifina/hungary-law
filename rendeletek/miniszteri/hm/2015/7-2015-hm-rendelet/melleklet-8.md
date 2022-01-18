@@ -254,7 +254,7 @@
 
 | 126 | 5.7. Munkavezető, foglalkozásvezető | kiemelt főtiszt, egészségügyi főtiszt, főtiszt, egészségügyi tiszt, tiszt |
 
-8. melléklet a 7/2015. (VI. 22.) HM rendelethez[^227]
+8. melléklet a 7/2015. (VI. 22.) HM rendelethez[^231]
 
 ## A honvéd tisztjelölt ösztöndíja
 
@@ -304,4 +304,4 @@ III. A honvéd tisztjelölt előző szemeszterben elért – nem a korrigált kr
 
 IV. Egyéb pótlék a honvédelmi illetményalap százalékában
 
-[^227]: A 8. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § a) pontja iktatta be, szövege a 7/2021. (I. 29.) HM rendelet 5. §-ával megállapított szöveg.
+[^231]: A 8. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § a) pontja iktatta be, szövege a 7/2021. (I. 29.) HM rendelet 5. §-ával megállapított szöveg.

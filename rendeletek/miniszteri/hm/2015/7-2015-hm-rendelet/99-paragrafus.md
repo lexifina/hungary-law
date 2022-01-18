@@ -1,3 +1,3 @@
-## 98. §[^209]
+## 98. §[^211]
 
-[^209]: A 98. §-t az 1/2018. (I. 26.) HM rendelet 41. §-a iktatta be, hatályon kívül helyezte a 20/2018. (XII. 28.) HM rendelet 105. § h) pontja.
+[^211]: A 98. §-t az 1/2018. (I. 26.) HM rendelet 41. §-a iktatta be, hatályon kívül helyezte a 20/2018. (XII. 28.) HM rendelet 105. § h) pontja.
