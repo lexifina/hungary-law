@@ -44,7 +44,7 @@
 
 ## Határidő: azonnal
 
-## 6. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 17 423 344 031 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## 6.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 17 423 344 031 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -62,7 +62,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31.
+## Határidő: 2022. december 31.
 
 ## 7. az Áht. 33. § (2) bekezdésében és a Kvtv. 4. § (6) bekezdésében biztosított jogkörében eljárva 2 739 467 367 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVI. Járvány Elleni Védekezési Alap fejezet, 1. Járvány Elleni Védekezés Központi Tartaléka cím terhére, a 4. melléklet szerint;
 
@@ -95,3 +95,5 @@
 ## 10. a térségi jelentőségű kerékpárutak előkészítéséről szóló 1726/2020. (X. 30.) Korm. határozat 2. pontjában meghatározottaktól eltérően úgy dönt, hogy a térségi jelentőségű kerékpárutak előkészítésének finanszírozása érdekében szükséges többletforrás a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 14. Aktív Magyarországért felelős kormánybiztos tevékenységével összefüggő feladatok jogcímcsoport javára kerüljön átcsoportosításra.
 
 1. melléklet az 1817/2020. (XI. 18.) Korm. határozathoz
+
+[^1]: A 6. pont az 1007/2022. (I. 20.) Korm. határozat 10. pontja szerint módosított szöveg.

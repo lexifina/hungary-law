@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1817-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-11-18 | 2020-1817-30-22.1 | 1817/2020. (XI. 18.) Korm. határozat |
+| 2022-01-20 | 2020-1817-30-22.2 | 1007/2022. (I. 20.) Korm. határozat |
