@@ -1,0 +1,1 @@
+A 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 34. §-ában meghatározott jogkörömben eljárva Dr. Adorján Richárdot, a Pénzügyminisztérium helyettes államtitkárát a Végrehajtás Operatív Program Plusz monitoring bizottsága elnökévé – 2022. január 15-i hatállyal – kinevezem.
