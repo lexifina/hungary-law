@@ -22,7 +22,7 @@
 
 ## Határidő: azonnal
 
-## e) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 984 773 967 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## e)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 984 773 967 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -38,7 +38,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31.
+## Határidő: 2022. december 31.
 
 ## f) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 886 904 818 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
 
@@ -70,13 +70,13 @@
 
 ## Határidő: 2022. március 2.
 
-## j)[^1]
+## j)[^2]
 
 ## k) az Ávr. 172/A. § (9) bekezdésében biztosított jogkörében eljárva az Ávr. 172/A. § (3) bekezdése alapján a 2018. decemberi, 2019. márciusi, júniusi, szeptemberi, októberi és novemberi hónapokra vonatkozóan a Kvtv. 1. melléklet XIX. Uniós Fejlesztések fejezet részére megállapított befizetési kötelezettséget elengedi.
 
-## 2.[^2]
+## 2.[^3]
 
-## 3.[^3]
+## 3.[^4]
 
 1. melléklet az 1486/2020. (VIII. 7.) Korm. határozathoz
 
@@ -98,6 +98,7 @@ XLV. Kiemelt Kormányzati Magasépítési Beruházások
 
 XLVII. Gazdaságvédelmi Alap
 
-[^1]: Az 1. pont j) alpontját az 1005/2021. (I. 14.) Korm. határozat 6. pontja visszavonta.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont e) alpontja az 1007/2022. (I. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: Az 1. pont j) alpontját az 1005/2021. (I. 14.) Korm. határozat 6. pontja visszavonta.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
