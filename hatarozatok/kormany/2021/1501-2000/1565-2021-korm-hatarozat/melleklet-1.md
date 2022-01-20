@@ -12,7 +12,7 @@
 
 ## c) a Kvtv. 17. §-a, valamint 4. melléklet 7. pontja alapján jóváhagyja a GÚP előirányzatnak a b) pont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 49 566 862 337 forinttal történő túlteljesülését;
 
-## d) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 7 819 681 815 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
+## d)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 7 819 681 815 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -32,7 +32,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31.
+## Határidő: 2022. december 31.
 
 ## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 775 308 888 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
 
@@ -55,3 +55,5 @@
 ## f) a Magyar Kézilabda Szövetség országos kültéri kézilabdapálya-építési programjával kapcsolatos kormányzati intézkedésekről szóló 1411/2021. (VI. 30.) Korm. határozat 3. pontjában foglalt rendelkezéstől eltérően, az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 800 000 000 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint.
 
 1. melléklet az 1565/2021. (VIII. 6.) Korm. határozathoz
+
+[^1]: A d) pont az 1007/2022. (I. 20.) Korm. határozat 13. pontja szerint módosított szöveg.
