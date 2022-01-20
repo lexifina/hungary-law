@@ -24,6 +24,6 @@
 
 | 12. | Tomajmonostora Község Önkormányzata fejlesztési feladatainak támogatása | 50 000 000 | fejlesztési feladatainak támogatása |
 
-5. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^18]
+5. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^19]
 
-[^18]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
