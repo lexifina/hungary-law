@@ -26,7 +26,7 @@
 
 ## Határidő: azonnal
 
-## e) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 702 686 510 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## e)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 702 686 510 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -54,7 +54,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2022. február 28.
+## Határidő: 2022. december 31.
 
 ## f) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 122 273 338 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
 
@@ -88,8 +88,9 @@
 
 ## m) az Isztambulban és Rómában levéltári szakdiplomata álláshelyek létesítéséről szóló 1577/2020. (IX. 10.) Korm. határozatban foglalt célok megvalósítása érdekében az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva engedélyezi a külgazdasági és külügyminiszter számára, hogy a 2022. évi központi költségvetés terhére legfeljebb 94 709 000 forint összegben éven túli kötelezettséget vállaljon.
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1830/2021. (XI. 30.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont e) alpontja az 1007/2022. (I. 20.) Korm. határozat 15. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
