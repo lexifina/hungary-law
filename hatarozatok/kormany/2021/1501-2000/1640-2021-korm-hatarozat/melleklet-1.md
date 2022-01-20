@@ -30,7 +30,7 @@
 
 ## Határidő: azonnal
 
-## e) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 10 613 872 111 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 4. melléklet szerint;
+## e)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 10 613 872 111 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 4. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -44,7 +44,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2022. február 28.
+## Határidő: 2022. december 31.
 
 ## f) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 376 656 319 forint egyszeri átcsoportosítását rendeli el, az 5. melléklet szerint;
 
@@ -86,9 +86,10 @@
 
 ## k) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaságvédelmi programok előirányzatból történő, valamint fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról szóló 1128/2021. (III. 17.) Korm. határozat 1. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 15. Magyarságkutató Intézet cím, K3. Dologi kiadások előirányzat javára átcsoportosított 1 000 000 000 forintból 174 000 000 forint a K1. Személyi juttatások előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 2.[^1]
+## 2.[^2]
 
-1. melléklet az 1640/2021. (IX. 21.) Korm. határozathoz[^2]
+1. melléklet az 1640/2021. (IX. 21.) Korm. határozathoz[^3]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1755/2021. (X. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont e) alpontja az 1007/2022. (I. 20.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1755/2021. (X. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
