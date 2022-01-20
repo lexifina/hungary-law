@@ -14,7 +14,7 @@
 
 ## Határidő: azonnal
 
-## d) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 7 107 700 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## d)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 7 107 700 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -26,7 +26,7 @@
 
 ## Felelős: a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31.
+## Határidő: 2022. december 31.
 
 ## e) az Áht. 33. § (2) bekezdésében és a Kvtv. 4. § (6) bekezdésében biztosított jogkörében eljárva 26 415 314 318 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVI. Járvány Elleni Védekezési Alap fejezet, 1. Járvány Elleni Védekezés Központi Tartaléka cím terhére, a 4. melléklet szerint;
 
@@ -48,8 +48,9 @@
 
 ## Határidő: azonnal
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1596/2020. (IX. 21.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja az 1007/2022. (I. 20.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.

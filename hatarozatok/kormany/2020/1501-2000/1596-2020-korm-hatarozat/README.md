@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1596-30
 | --- | --- | --- |
 | 2020-09-21 | 2020-1596-30-22.1 | 1596/2020. (IX. 21.) Korm. határozat |
 | 2020-09-22 | 2020-1596-30-22.2 | 2010: CXXX. törvény |
+| 2022-01-20 | 2020-1596-30-22.3 | 1007/2022. (I. 20.) Korm. határozat |
