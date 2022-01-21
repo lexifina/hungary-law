@@ -180,6 +180,10 @@
 
 | 83. | Kaposvár külterületén új északi ipari park I. ütemének kialakítása, továbbá az ahhoz kapcsolódó építmények, útépítés, közmű- és csatlakozási, valamint egyéb infrastruktúra fejlesztések megvalósítására irányuló beruházások | Kaposvár közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 015/22, 015/23, 015/24, 015/25, 015/26, 015/27, 015/28, 015/29, 016/21, 016/22, 016/23, 015/20, 015/3, 015/6 helyrajzi számú ingatlanok | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^233]
+| 84. | Új öntöde létrehozására irányuló beruházás Székesfehérvár területén | Székesfehérvár közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 14486 és 14489 helyrajzi számú ingatlanok | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^233]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+| 85. | Ipari park kialakítása, valamint az ipari park területén megvalósítandó beruházások Győr külterületén | Győr megyei jogú város külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti 01113/33, 01113/34, 01113/35, 01113/36, 01113/37, 01113/38, 01113/39, 01113/40, 01113/41, 01113/42, 01113/43, 01113/44, 01113/45, 01113/46, 01113/47, 01129, 01132/80, 01132/82, 01132/84, 01132/88, 01134/2, 01134/3, 01134/4, 01134/5, 01134/6, 01134/7, 01134/8, 01134/9, 01134/11, 01134/12, 01134/13, 01134/14, 01134/15, 01134/16, 01134/17, 01134/18, 01134/19, 01134/20, 01134/21, 01134/22, 01134/23, 01134/24, 01134/25, 01134/26, 01134/27, 01134/28, 01134/29, 01134/30, 01134/31, 01134/32, 01134/33, 01134/34, 01134/35, 01134/36, 01134/37, 01134/38, 01134/39, 01134/40, 01134/41, 01134/42, 01134/43, 01134/44, 01134/45, 01134/46, 01134/47, 01134/48, 01134/49, 01134/50, 01134/51, 01134/52, 01134/53, 01134/54, 01134/55, 01134/56, 01134/57, 01134/58, 01134/59, 01134/60, 01134/61, 01134/62, 01134/64, 01134/65, 01134/66, 01134/73, 01134/74, 01134/75, 01134/76, 01139/2 helyrajzi számú ingatlanok. | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^242]
+
+[^242]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

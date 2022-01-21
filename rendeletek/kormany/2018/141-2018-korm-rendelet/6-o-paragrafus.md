@@ -40,4 +40,13 @@ b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (4) A (2) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
+(5)[^67] A 2. mellékletben foglalt táblázat 63. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+
+(6)[^68] Az (5) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell a talajvédelmi tervet.
+
+(7)[^69] Az (5) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
+
 [^66]: A 6/O. §-t a 193/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^67]: A 6/O. § (5) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
+[^68]: A 6/O. § (6) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
+[^69]: A 6/O. § (7) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
