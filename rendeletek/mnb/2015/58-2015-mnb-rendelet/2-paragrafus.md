@@ -1,5 +1,3 @@
-## (a továbbiakban együtt: bejelentésre kötelezett) terjed ki.
-
 ## 2. § E rendelet alkalmazásában
 
 1. biztosító nagyegyesület: egyesületi formában működő, kisbiztosító-egyesületnek nem minősülő biztosító;

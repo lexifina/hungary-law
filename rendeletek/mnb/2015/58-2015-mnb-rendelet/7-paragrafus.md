@@ -14,7 +14,7 @@ c) a felhasználó akadályoztatása az általa használt elektronikus aláíró
 
 (5) A bejelentés mellékleteként elfogadott dokumentum formátumokat az MNB az ERA rendszerben, az elektronikus tájékoztatás szabályai szerint teszi közzé.
 
-(6) Ha a bejelentésre kötelezett az ERA rendszer üzemzavara miatt vagy a (2) bekezdés b) pontja esetében bejelentési kötelezettségének elektronikus úton nem tud eleget tenni, az üzemzavar elhárításáig vagy az akadályoztatás megszűnéséig a bejelentést az MNB 1013 Budapest, Krisztina krt. 39. szám alatt működő ügyfélszolgálatán (Telefonszám: 06-40-203-776) vagy postai úton, az MNB 1534 Budapest BKKP Pf. 777 levelezési címére nyújthatja be az MNB részére.
+(6)[^11] Ha a bejelentésre kötelezett az ERA rendszer üzemzavara miatt vagy a (2) bekezdés b) pontja esetében bejelentési kötelezettségének elektronikus úton nem tud eleget tenni, az üzemzavar elhárításáig vagy az akadályoztatás megszűnéséig a bejelentést az MNB 1122 Budapest, Krisztina körút 6. szám alatt működő ügyfélszolgálatán (telefonszám: 06-80-203-776) vagy postai úton, az MNB 1534 Budapest Pf. 777 levelezési címére nyújthatja be az MNB részére.
 
 (7) A jelen § alkalmazásában
 
@@ -22,4 +22,7 @@ c) a felhasználó akadályoztatása az általa használt elektronikus aláíró
 
 2. felhasználó: a bejelentésre kötelezett nevében eljáró természetes személy;
 
-3. üzemzavar: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 172. § n) pontjában meghatározott fogalom.
+3.[^12] üzemzavar: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 27. § (3) bekezdése szerinti esemény.
+
+[^11]: A 7. § (6) bekezdése az 1/2022. (I. 20.) MNB rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 7. § (7) bekezdés 3. pontja az 1/2022. (I. 20.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.

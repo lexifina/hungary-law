@@ -6,7 +6,7 @@ a) a PEKMI e rendelet hatálybalépésének napjától pénzforgalmi szolgáltat
 
 b) az utalványkibocsátó és a fióktelepként működő bejelentésre kötelezett a működése megkezdésének napjától a tevékenysége befejezésének napjáig
 
-## teljesíti.
+teljesíti.
 
 (3) A bejelentésre kötelezett bejelentési kötelezettségét – a (4) bekezdésben foglalt kivétellel – első alkalommal az MNB által kiadott tevékenységi engedélyről szóló határozat jogerőre emelkedését követő 5 munkanapon belül teljesíti.
 

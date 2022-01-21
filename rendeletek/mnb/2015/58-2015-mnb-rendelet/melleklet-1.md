@@ -1,8 +1,8 @@
-## 9. §[^10] A hitelintézet, a hitelintézeti fióktelep, a pénzügyi vállalkozás és a pénzügyi vállalkozás fióktelepe a 2. melléklet 1. pontjában foglalt „Összefoglaló tábla” megnevezésű táblázat 1. sora szerinti „Pénzpiaci közvetítők bejelentése” megnevezésű adatkörnek a pénzügyi közvetítőrendszer felügyelete alá tartozó személyek és szervezetek törzsadat-bejelentési kötelezettségéről szóló 58/2015. (XII. 22.) MNB rendelet módosításáról szóló 1/2017. (II. 10.) MNB rendelet 2. melléklet 3.1. pontjával megállapított „Közvetített szolgáltatások típusa [pénzpiaci függő ügynök, jelzáloghitel közvetítő függő ügynök, illetve pénzpiaci többes ügynök, pénzpiaci többes ügynök (áruhiteles) által közvetített szolgáltatások]” megnevezésű adatait (HTPK1xxxx263–HPTPK1xxxx26392 és HTPK1xxxx363–HPTPK1xxxx36392 kódú sorok) a 2017. február 15-ét megelőzően létesített pénzügyi közvetítői jogviszonyai tekintetében a 2017. február 15-ei állapotra vonatkozóan 2017. március 15-ig bejelenti az MNB-nek.
+## 9. §[^13] A hitelintézet, a hitelintézeti fióktelep, a pénzügyi vállalkozás és a pénzügyi vállalkozás fióktelepe a 2. melléklet 1. pontjában foglalt „Összefoglaló tábla” megnevezésű táblázat 1. sora szerinti „Pénzpiaci közvetítők bejelentése” megnevezésű adatkörnek a pénzügyi közvetítőrendszer felügyelete alá tartozó személyek és szervezetek törzsadat-bejelentési kötelezettségéről szóló 58/2015. (XII. 22.) MNB rendelet módosításáról szóló 1/2017. (II. 10.) MNB rendelet 2. melléklet 3.1. pontjával megállapított „Közvetített szolgáltatások típusa [pénzpiaci függő ügynök, jelzáloghitel közvetítő függő ügynök, illetve pénzpiaci többes ügynök, pénzpiaci többes ügynök (áruhiteles) által közvetített szolgáltatások]” megnevezésű adatait (HTPK1xxxx263–HPTPK1xxxx26392 és HTPK1xxxx363–HPTPK1xxxx36392 kódú sorok) a 2017. február 15-ét megelőzően létesített pénzügyi közvetítői jogviszonyai tekintetében a 2017. február 15-ei állapotra vonatkozóan 2017. március 15-ig bejelenti az MNB-nek.
 
-1. melléklet az 58/2015. (XII. 22.) MNB rendelethez[^11]
+1. melléklet az 58/2015. (XII. 22.) MNB rendelethez[^14]
 
-## Általános törzsadatok
+Általános törzsadatok
 
 1. Az általános törzsadatok adatköreinek összefoglaló táblája
 
@@ -706,6 +706,8 @@
 
 2.6.1. Gyakoriság
 
+## 7K00373_10
+
 | FÉ/V | Pénzpiac | E, EF, HIT, HITF, PI, PIF, PV, PVF, PEKMI |
 
 | ENV | Tőkepiac | BAK, BAKF, BV, BVF, KSZF |
@@ -808,5 +810,5 @@
 
 |  | Foglalkoztatói nyugdíjszolgáltató intézmény | FNYSZI |
 
-[^10]: A 9. § a 2010: CXXX. törvény 12. § (3) bekezdése alapján hatályát vesztette, újonnan az 1/2017. (II. 10.) MNB rendelet 3. §-a iktatta be.
-[^11]: Az 1. melléklet az 1/2017. (II. 10.) MNB rendelet 4. §-ával megállapított szöveg.
+[^13]: A 9. § a 2010: CXXX. törvény 12. § (3) bekezdése alapján hatályát vesztette, újonnan az 1/2017. (II. 10.) MNB rendelet 3. §-a iktatta be.
+[^14]: Az 1. melléklet az 1/2017. (II. 10.) MNB rendelet 4. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-2. melléklet az 58/2015. (XII. 22.) MNB rendelethez[^12]
+2. melléklet az 58/2015. (XII. 22.) MNB rendelethez[^15]
 
-## Speciális törzsadatok
+Speciális törzsadatok
 
 1. Összefoglaló tábla
 
@@ -728,4 +728,4 @@ KTPI216 Tevékenység kezdete (ééééhhnn)
 
 KTPI217 Tevékenység vége (ééééhhnn)
 
-[^12]: A 2. melléklet az 1/2017. (II. 10.) MNB rendelet 5. §-ával megállapított szöveg.
+[^15]: A 2. melléklet az 1/2017. (II. 10.) MNB rendelet 5. §-ával megállapított szöveg.
