@@ -1,4 +1,4 @@
-2. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^9]
+2. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^16]
 
 ## Az 1. § (1) bekezdése szerinti beruházással érintett földrészletek
 
@@ -8,4 +8,4 @@
 
 3. Sáránd község külterületén fekvő, az ingatlan-nyilvántartás szerinti 094/5, 099 helyrajzi számú földrészletek.
 
-[^9]: A 2. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

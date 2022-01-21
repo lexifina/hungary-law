@@ -1,6 +1,6 @@
-## 8. §[^6] E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 660/2021. (XI. 30.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 1. §-át, 3. §-át, 3/A. §-át, továbbá 1–3. mellékletét a Módr2. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^13] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 16/2022. (I. 20.) Korm. rendelettel (a továbbiakban: Módr3.) módosított 3. § (1) bekezdését, 3/A. § (1) bekezdését, megállapított 3. § (4) bekezdés c) pontját, 3. § (5) és (6) bekezdését, valamint 4. mellékletét a Módr3. hatálybalépésekor[^14] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^8]
+1. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^15]
 
 ## A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
@@ -58,6 +58,6 @@
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: A 8. §-t a 660/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
-[^7]: A hatálybalépés időpontja 2021. december 1.
-[^8]: Az 1. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^13]: A 9. §-t a 16/2022. (I. 20.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A hatálybalépés időpontja 2022. január 21.
+[^15]: Az 1. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
