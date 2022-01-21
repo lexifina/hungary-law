@@ -1,1 +1,0 @@
-## 1. § A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a Magyar Köztársaságban és Ukrajnában folytatott tanulmányokat és végzettséget tanúsító okiratok, valamint tudományos fokozatok egyenértékűségének kölcsönös elismeréséről szóló Egyezményt e kormányrendelettel kihirdeti.
