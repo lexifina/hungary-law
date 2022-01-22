@@ -1,3 +1,0 @@
-## 2. § Az R1. a következő 9. §-sal egészül ki:
-
-## „9. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 16/2022. (I. 20.) Korm. rendelettel (a továbbiakban: Módr3.) módosított 3. § (1) bekezdését, 3/A. § (1) bekezdését, megállapított 3. § (4) bekezdés c) pontját, 3. § (5) és (6) bekezdését, valamint 4. mellékletét a Módr3. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
