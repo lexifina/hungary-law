@@ -1,10 +1,10 @@
-2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^24]
+2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^25]
 
 ## Az egyes eljárások díja
 
 I. Vízumdíjak
 
-| 1. A három hónapot meg nem haladó tartózkodásra jogosító vízum elutasítása, megsemmisítése, visszavonása tárgyában hozott döntés elleni fellebbezés díja külképviseleten előterjesztett fellebbezés esetén | 30 EUR |
+| 1. A három hónapot meg nem haladó tartózkodásra jogosító vízum elutasítása, megsemmisítése, visszavonása tárgyában hozott döntés elleni fellebbezés díja külképviseleten előterjesztett fellebbezés esetén | 160 EUR |
 
 | 2. A három hónapot meg nem haladó tartózkodásra jogosító vízum elutasítása, megsemmisítése, visszavonása tárgyában hozott döntés elleni fellebbezés díja belföldön előterjesztett fellebbezés esetén | 8 300 Ft |
 
@@ -22,91 +22,103 @@ I. Vízumdíjak
 
 II. Tartózkodási engedéllyel összefüggő igazgatási szolgáltatási díjak
 
-| 1. Tartózkodási engedély kiadására és a tartózkodási engedély átvételére jogosító vízum kiadására irányuló eljárás díja | 60 EUR |
+| 1. Tartózkodási engedély kiadására és a tartózkodási engedély átvételére jogosító vízum kiadására irányuló eljárás díja | 110 EUR |
 
-| 2. Tartózkodási engedély kiadása és a tartózkodási engedély átvételére jogosító vízum kiadása tárgyában hozott döntés elleni fellebbezés díja, a fellebbezés külképviseleten történő előterjesztése esetén | 20 EUR |
+| 2. Tartózkodási engedély kiadása és a tartózkodási engedély átvételére jogosító vízum kiadása tárgyában hozott döntés elleni fellebbezés díja, a fellebbezés külképviseleten történő előterjesztése esetén | 160 EUR |
 
-| 3. Tartózkodási engedély kiadására irányuló eljárás díja belföldi kérelmezés esetén | 18 000 Ft |
+| 3. Tartózkodási engedély kiadására irányuló eljárás díja belföldi kérelmezés esetén | 39 000 Ft |
 
-| 4. Tartózkodási engedély meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 4. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt tartózkodási engedély kiadására irányuló eljárás díja belföldi kérelmezés esetén | 24 000 Ft |
 
-| 5. Tartózkodási engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
+| 5. Tartózkodási engedély meghosszabbítására irányuló eljárás díja | 35 000 Ft |
 
-| 6. Tartózkodási engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+| 6. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt tartózkodási engedély meghosszabbítására irányuló eljárás díja | 23 000 Ft |
 
-| 7. EU Kék Kártya kiadására irányuló eljárás díja belföldi kérelmezés esetén | 18 000 Ft |
+| 7. Tartózkodási engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 20 000 Ft |
 
-| 8. EU Kék Kártya meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 8. Tartózkodási engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 20 000 Ft |
 
-| 9. EU Kék Kártya kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
+| 9. EU Kék Kártya kiadására irányuló eljárás díja belföldi kérelmezés esetén | 38 000 Ft |
 
-| 10. EU Kék Kártya kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+| 10. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt EU Kék Kártya kiadására irányuló eljárás díja belföldi kérelmezés esetén | 26 000 Ft |
 
-| 11. Tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiállítására irányuló eljárás díja külképviseleti kérelmezés esetén | 60 EUR |
+| 11. EU Kék Kártya meghosszabbítására irányuló eljárás díja | 35 000 Ft |
 
-III. Bevándorolt, illetve letelepedett státuszt igazoló okmányokkal összefüggő
+| 12. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt EU Kék Kártya meghosszabbítására irányuló eljárás díja | 23 000 Ft |
 
-## igazgatási szolgáltatási díjak
+| 13. EU Kék Kártya kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 20 000 Ft |
 
-| 1. Bevándorolt státuszt igazoló okmány meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 14. EU Kék Kártya kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 20 000 Ft |
 
-| 2. Bevándorolt státuszt igazoló okmány kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
+| 15. Tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiállítására irányuló eljárás díja külképviseleti kérelmezés esetén | 90 EUR |
 
-| 3. Bevándorolt státuszt igazoló okmány kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+III. Bevándorolt, illetve letelepedett státuszt igazoló okmányokkal összefüggő igazgatási szolgáltatási díjak
 
-| 4. Letelepedési engedély meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 1. Bevándorolt státuszt igazoló okmány meghosszabbítására irányuló eljárás díja | 20 000 Ft |
 
-| 5. Letelepedési engedély kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
+| 2. Bevándorolt státuszt igazoló okmány kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 20 000 Ft |
 
-| 6. Letelepedési engedély kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+| 3. Bevándorolt státuszt igazoló okmány kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 20 000 Ft |
 
-| 7. Ideiglenes letelepedési engedély kiadására irányuló eljárás díja | 10 000 Ft |
+| 4. Letelepedési engedély meghosszabbítására irányuló eljárás díja | 20 000 Ft |
 
-| 8. Ideiglenes letelepedési engedély meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 5. Letelepedési engedély kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 20 000 Ft |
 
-| 9. Ideiglenes letelepedési engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
+| 6. Letelepedési engedély kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 20 000 Ft |
 
-| 10. Ideiglenes letelepedési engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+| 7. Ideiglenes letelepedési engedély kiadására irányuló eljárás díja | 39 000 Ft |
 
-| 11. Nemzeti letelepedési engedély kiadására irányuló eljárás díja | 10 000 Ft |
+| 8. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt ideiglenes letelepedési engedély kiadására irányuló eljárás díja | 25 000 Ft |
 
-| 12. Nemzeti letelepedési engedély meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 9. Ideiglenes letelepedési engedély meghosszabbítására irányuló eljárás díja | 20 000 Ft |
 
-| 13. Nemzeti letelepedési engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
+| 10. Ideiglenes letelepedési engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 20 000 Ft |
 
-| 14. Nemzeti letelepedési engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+| 11. Ideiglenes letelepedési engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 20 000 Ft |
 
-| 15. EK letelepedési engedély kiadására irányuló eljárás díja | 10 000 Ft |
+| 12. Nemzeti letelepedési engedély kiadására irányuló eljárás díja | 39 000 Ft |
 
-| 16. EK letelepedési engedély meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 13. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt nemzeti letelepedési engedély kiadására irányuló eljárás díja | 25 000 Ft |
 
-| 17. EK letelepedési engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
+| 14. Nemzeti letelepedési engedély meghosszabbítására irányuló eljárás díja | 20 000 Ft |
 
-| 18. EK letelepedési engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+| 15. Nemzeti letelepedési engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 20 000 Ft |
 
-| 19. Nemzeti letelepedési engedély kiadására irányuló eljárás díja külképviseleti kérelmezés esetén | 60 EUR |
+| 16. Nemzeti letelepedési engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 20 000 Ft |
 
-| 20. Tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiállítására irányuló eljárás díja külképviseleti kérelmezés esetén | 60 EUR |
+| 17. EK letelepedési engedély kiadására irányuló eljárás díja | 39 000 Ft |
 
-| 21. Nemzeti letelepedési engedély meghosszabbítására irányuló eljárás díja külképviseleten történő előterjesztés esetén | 30 EUR |
+| 18. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt EK letelepedési engedély kiadására irányuló eljárás díja | 25 000 Ft |
+
+| 19. EK letelepedési engedély meghosszabbítására irányuló eljárás díja | 20 000 Ft |
+
+| 20. EK letelepedési engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 20 000 Ft |
+
+| 21. EK letelepedési engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 20 000 Ft |
+
+| 22. Nemzeti letelepedési engedély kiadására irányuló eljárás díja külképviseleti kérelmezés esetén | 110 EUR |
+
+| 23. Tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiállítására irányuló eljárás díja külképviseleti kérelmezés esetén | 90 EUR |
+
+| 24. Nemzeti letelepedési engedély meghosszabbítására irányuló eljárás díja külképviseleten történő előterjesztés esetén | 60 EUR |
 
 IV. Úti okmányok kiállításával kapcsolatos igazgatási szolgáltatási díjak
 
-| 1. Hontalan útlevél kiadására irányuló eljárás díja | 5 000 Ft |
+| 1. Hontalan útlevél kiadására irányuló eljárás díja | 12 000 Ft |
 
-| 2. Hontalan útlevél meghosszabbítására irányuló eljárás díja | 3 000 Ft |
+| 2. Hontalan útlevél meghosszabbítására irányuló eljárás díja | 10 000 Ft |
 
-| 3. Hontalan útlevél kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 4 000 Ft |
+| 3. Hontalan útlevél kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 12 000 Ft |
 
-| 4. Hontalan útlevél kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 3 000 Ft |
+| 4. Hontalan útlevél kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
 
-| 5. A bevándorolt vagy letelepedett személy számára útlevél kiadására irányuló eljárás díja | 5 000 Ft |
+| 5. A bevándorolt vagy letelepedett személy számára útlevél kiadására irányuló eljárás díja | 12 000 Ft |
 
-| 6. A bevándorolt vagy letelepedett személy számára útlevél kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 5 000 Ft |
+| 6. A bevándorolt vagy letelepedett személy számára útlevél kiadására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 12 000 Ft |
 
-| 7. A bevándorolt vagy letelepedett személy számára útlevél kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 4 000 Ft |
+| 7. A bevándorolt vagy letelepedett személy számára útlevél kiadására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
 
-| 8. Egyszeri utazásra jogosító utazási igazolvány kiállítására irányuló eljárás díja belföldön | 4 000 Ft |
+| 8. Egyszeri utazásra jogosító utazási igazolvány kiállítására irányuló eljárás díja belföldön | 12 000 Ft |
 
 V. A szabad mozgás és tartózkodás jogával rendelkező személyek részére
 
@@ -144,8 +156,12 @@ V. A szabad mozgás és tartózkodás jogával rendelkező személyek részére
 
 VI. Egyéb igazgatási szolgáltatási díjak
 
-| 1. Meghívólevél hatósági záradékkal történő ellátására irányuló eljárás díja | 4 000 Ft |
+| 1. Meghívólevél hatósági záradékkal történő ellátására irányuló eljárás díja | 16 000 Ft |
 
-| 2. Fellebbezési kérelem díja | 5 500 Ft |
+| 2. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt meghívólevél hatósági záradékkal történő ellátására irányuló eljárás díja | 9 000 Ft |
 
-[^24]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a, a 23/2021. (VII. 29.) BM rendelet 13. §-a szerint módosított szöveg.
+| 3. Fellebbezési kérelem díja | 47 000 Ft |
+
+| 4. Hatósági bizonyítvány kiállításának díja | 3 000 Ft” |
+
+[^25]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a, a 23/2021. (VII. 29.) BM rendelet 13. §-a, a 49/2021. (XII. 22.) BM rendelet 3. §-a szerint módosított szöveg.
