@@ -1,3 +1,3 @@
-## 7.[^13]
+## 7.[^15]
 
-[^13]: A 7. alcímet (11. §) a 18/2020. (XII. 8.) MvM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^15]: A 7. alcímet (11. §) a 18/2020. (XII. 8.) MvM rendelet 6. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 34. § Az egymillió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 32. § (1) és (2) bekezdésében, valamint a 33. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+## 34. §[^16] A kétmillió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 32. § (1) és (2) bekezdésében, valamint a 33. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
 
 35. § (1) A 31. § (2) bekezdés f) pontja szerinti zenei és irodalmi alkotások kiadásához nyújtott támogatás esetén
 
@@ -19,3 +19,5 @@ d) az egyéb szerkesztési költség (például korrektúrázás, javítás, lek
 e) az elrendezés és nyomdai előkészítés költsége, és
 
 f) a nyomtatás vagy elektronikus közzététel költsége
+
+[^16]: A 34. § a 2/2022. (I. 21.) MvM rendelet 5. § b) pontja szerint módosított szöveg.

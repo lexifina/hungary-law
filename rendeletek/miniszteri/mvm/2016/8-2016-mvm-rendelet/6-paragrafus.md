@@ -40,10 +40,10 @@ m) kkv-knak nyújtott innovációs támogatás esetében meghaladja vállalkozá
 
 n) az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás, jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás, energiahatékonysági intézkedéshez nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja a 15 millió eurónak megfelelő forintösszeget.
 
-o)[^8] a kultúrát és a kulturális örökség megőrzését előmozdító
+o)[^10] a kultúrát és a kulturális örökség megőrzését előmozdító
 
 oa) beruházási támogatás esetében meghaladja a projektenként 150 millió eurónak megfelelő forintösszeget,
 
 ob) működési támogatás esetében meghaladja a vállalkozásonként évente 75 millió eurónak megfelelő forintösszeget.
 
-[^8]: A 6. § o) pontját a 18/2020. (XII. 8.) MvM rendelet 2. §-a iktatta be.
+[^10]: A 6. § o) pontját a 18/2020. (XII. 8.) MvM rendelet 2. §-a iktatta be.
