@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-50-20-0
 | 2018-01-01 | 2004-50-20-0A.9 | 44/2017. (XII. 29.) BM rendelet |
 | 2020-11-05 | 2004-50-20-0A.10 | 32/2016. (VII. 20.) BM rendelet |
 | 2021-01-01 | 2004-50-20-0A.11 | 25/2012. (V. 11.) BM rendelet |
+| 2022-01-22 | 2004-50-20-0A.12 | 42/2016. (X. 25.) BM rendelet |

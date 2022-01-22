@@ -48,7 +48,7 @@
 
 | 23. | Házilagos lőszerszerelés és -újratöltés engedélyezése (az engedély cseréje, pótlása is) | 10 000 |
 
-| 24. | Lövészetvezetői tevékenység engedélyezése | 6000 |
+| 24. | Lövészetvezetői tevékenység engedélyezése (az engedély cseréje, pótlása is) | 6000 |
 
 | 25. | Színházi tűzfegyver behozatalának, kivitelének, átszállításának engedélyezése – egy fegyver esetén – további fegyverenként | 8000 2000 |
 
