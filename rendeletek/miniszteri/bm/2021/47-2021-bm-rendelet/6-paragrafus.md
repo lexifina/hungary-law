@@ -1,4 +1,4 @@
-## 5. §
+## 5. § A fegyverismereti vizsga, a fegyverforgalmazási vizsga, a lőfegyver, lőszer hatósági tárolása és a fegyverekkel, lőszerekkel kapcsolatos tevékenységek engedélyezésének igazgatási szolgáltatási díjairól szóló 50/2004. (VIII. 31.) BM rendelet 2. § (3) bekezdés nyitó szövegrészében a „használatához szükséges” szövegrész helyébe a „használatához, illetve a muzeális fegyver sportlövészeti célú használatához szükséges” szöveg és a „jártasságát” szövegrész helyébe a „jártasságot” szöveg lép.
 
 ## 3. Záró rendelkezések
 

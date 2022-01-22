@@ -1,1 +1,1 @@
-## 4. §
+## 4. § A fegyverismereti vizsga, a fegyverforgalmazási vizsga, a lőfegyver, lőszer hatósági tárolása és a fegyverekkel, lőszerekkel kapcsolatos tevékenységek engedélyezésének igazgatási szolgáltatási díjairól szóló 50/2004. (VIII. 31.) BM rendelet 1. melléklete az 1. melléklet szerint módosul.
