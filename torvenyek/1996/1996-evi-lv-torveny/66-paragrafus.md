@@ -20,6 +20,6 @@ d) az elöltöltő fegyverrel vadászó elöltöltő-fegyveres.
 
 (4) A vizsgának megfelelő szakirányú képesítés és képzettség jegyzékét a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
-(5) A vizsga letételekor a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben megállapított összegű díjat kell fizetni.
+(5) A vizsga, valamint a (2a) bekezdés a)–c) pontja szerinti kiegészítő vizsga letételekor a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben megállapított összegű díjat kell fizetni.
 
 (6) Mentesül a vizsgára felkészítő és azt megelőző tanfolyam elvégzésének kötelezettsége alól, aki az e törvény végrehajtására kiadott rendeletben meghatározott középfokú vagy felsőfokú vadgazdálkodási-vadászati képzettséggel vagy képesítéssel rendelkezik.
