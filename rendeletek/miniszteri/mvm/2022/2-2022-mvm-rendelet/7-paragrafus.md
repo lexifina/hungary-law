@@ -1,1 +1,3 @@
-## 6. § Hatályát veszti a család- és ifjúságügyi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 1/2020. (XII. 22.) CSTNM rendelet.
+## 1–6. §[^2]
+
+[^2]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
