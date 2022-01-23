@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-49-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-01-22 | 2021-49-20-0A.1 | 49/2021. (XII. 22.) BM rendelet |
+| 2022-01-23 | 2021-49-20-0A.2 | 2010: CXXX. törvény |

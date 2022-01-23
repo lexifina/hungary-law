@@ -1,7 +1,3 @@
-## 2. § A szabad mozgás és tartózkodás jogával rendelkező személyek, valamint a harmadik országbeli állampolgárok beutazásával és tartózkodásával kapcsolatos eljárások díjáról szóló 28/2007. (V. 31.) IRM rendelet 7. § c) pontja helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## (Az e rendeletben meghatározott igazgatási szolgáltatási díjak tekintetében)
-
-## „c) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-ában foglaltakat,”
-
-## (kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében igazgatási szolgáltatási díjat kell érteni.)
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
