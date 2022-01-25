@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-9-20-15
 | 2021-09-22 | 2013-9-20-15.33 | 10/2017. (VIII. 31.) HM rendelet |
 | 2021-12-01 | 2013-9-20-15.34 | 23/2021. (XI. 29.) HM rendelet |
 | 2021-12-09 | 2013-9-20-15.35 | 25/2021. (XII. 8.) HM rendelet |
+| 2022-01-25 | 2013-9-20-15.36 | 4/2015. (VI. 22.) HM rendelet |
