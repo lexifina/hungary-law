@@ -1,57 +1,59 @@
-## 1. §[^1] A járványügyi készültségi időszak utazási korlátozásairól szóló 408/2020. (VIII. 30.) Korm. rendelet 1. § (3) bekezdés e) pontja szerinti, a védettségi igazolások kölcsönös elfogadásáról szóló kétoldalú megállapodást kötött ország:
+## 1. §[^2] A járványügyi készültségi időszak utazási korlátozásairól szóló 408/2020. (VIII. 30.) Korm. rendelet 1. § (3) bekezdés e) pontja szerinti, a védettségi igazolások kölcsönös elfogadásáról szóló kétoldalú megállapodást kötött ország:
 
 1. Albán Köztársaság,
 
-2. Bahreini Királyság,
+2. Andorrai Hercegség,
 
-3. Ciprusi Köztársaság,
+3. Bahreini Királyság,
 
-4. Cseh Köztársaság,
+4. Ciprusi Köztársaság,
 
-5. Egyiptomi Arab Köztársaság,
+5. Cseh Köztársaság,
 
-6. Észak-macedón Köztársaság,
+6. Egyiptomi Arab Köztársaság,
 
-7. Georgia,
+7. Észak-macedón Köztársaság,
 
-8. Horvát Köztársaság,
+8. Georgia,
 
-9. Indiai Köztársaság,
+9. Horvát Köztársaság,
 
-10. Iráni Iszlám Köztársaság,
+10. Indiai Köztársaság,
 
-11. Kazah Köztársaság,
+11. Iráni Iszlám Köztársaság,
 
-12. Kirgiz Köztársaság,
+12. Kazah Köztársaság,
 
-13. Maldív Köztársaság,
+13. Kirgiz Köztársaság,
 
-14. Marokkói Királyság,
+14. Maldív Köztársaság,
 
-15. Moldovai Köztársaság,
+15. Marokkói Királyság,
 
-16. Mongólia,
+16. Moldovai Köztársaság,
 
-17. Montenegrói Köztársaság,
+17. Mongólia,
 
-18. San Marino Köztársaság,
+18. Montenegrói Köztársaság,
 
-19. Seychelle Köztársaság,
+19. San Marino Köztársaság,
 
-20. Szerb Köztársaság,
+20. Seychelle Köztársaság,
 
-21. Szlovák Köztársaság,
+21. Szerb Köztársaság,
 
-22. Szlovén Köztársaság,
+22. Szlovák Köztársaság,
 
-23. Török Köztársaság,
+23. Szlovén Köztársaság,
 
-24. Tunéziai Köztársaság,
+24. Török Köztársaság,
 
-25. Ukrajna,
+25. Tunéziai Köztársaság,
 
-26. Üzbég Köztársaság,
+26. Ukrajna,
 
-27. Zöld-foki Köztársaság.
+27. Üzbég Köztársaság,
 
-[^1]: Az 1. § a 43/2021. (XII. 16.) KKM rendelet 1. §-ával megállapított szöveg.
+28. Zöld-foki Köztársaság.
+
+[^2]: Az 1. § az 1/2022. (I. 24.) KKM rendelet 1. §-ával megállapított szöveg.
