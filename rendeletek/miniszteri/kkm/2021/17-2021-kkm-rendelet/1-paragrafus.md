@@ -2,27 +2,27 @@
 
 a) Románia.
 
-b)[^1] Svájci Államszövetség.
+b)[^2] Svájci Államszövetség.
 
-c)[^2] Oroszországi Föderáció.
+c)[^3] Oroszországi Föderáció.
 
-d)[^3] Andorrai Hercegség,
+d)[^4]
 
-e)[^4] Feröer-szigetek,
+e)[^5] Feröer-szigetek,
 
-f)[^5] Izrael Állam,
+f)[^6] Izrael Állam,
 
-g)[^6] Monacói Hercegség,
+g)[^7] Monacói Hercegség,
 
-h)[^7] Panamai Köztársaság,
+h)[^8] Panamai Köztársaság,
 
-i)[^8] Vatikánvárosi Állam.
+i)[^9] Vatikánvárosi Állam.
 
-[^1]: Az 1. § b) pontját a 28/2021. (VII. 19.) KKM rendelet 1. §-a iktatta be.
-[^2]: Az 1. § c) pontját a 30/2021. (VII. 26.) KKM rendelet 1. §-a iktatta be.
-[^3]: Az 1. § d) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
-[^4]: Az 1. § e) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
-[^5]: Az 1. § f) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
-[^6]: Az 1. § g) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
-[^7]: Az 1. § h) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
-[^8]: Az 1. § i) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § b) pontját a 28/2021. (VII. 19.) KKM rendelet 1. §-a iktatta be.
+[^3]: Az 1. § c) pontját a 30/2021. (VII. 26.) KKM rendelet 1. §-a iktatta be.
+[^4]: Az 1. § d) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be, hatályon kívül helyezte az 1/2022. (I. 24.) Korm. rendelet 2. §-a.
+[^5]: Az 1. § e) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
+[^6]: Az 1. § f) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
+[^7]: Az 1. § g) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
+[^8]: Az 1. § h) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
+[^9]: Az 1. § i) pontját a 33/2021. (X. 7.) KKM rendelet 1. §-a iktatta be.
