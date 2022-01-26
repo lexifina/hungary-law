@@ -1,0 +1,3 @@
+## 4. § A 329/2019. (XII. 20.) Korm. rendelet 12/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az érintett szervezet a központi költségvetésről szóló törvényben meghatározott közbeszerzési értékhatárt el nem érő értékű, továbbá a Kbt. 111. § c), d), f)–h), j), n) és q) pontja szerinti beszerzési igényeit a 6. § (1) bekezdés c) pontjától eltérően havonta összesítetten – a VBÜ által meghatározott struktúra és adattartalom szerint részletezve – adatszolgáltatás keretében megküldi a VBÜ részére. Ha a megküldést követő 7 munkanapon belül a VBÜ nem nyilatkozik, az érintett szervezet az adatszolgáltatásban megjelölt igényeinek kielégítésére szolgáló beszerzési eljárást a 10. § (1) bekezdés b) pontja alapján saját hatáskörben jogosult lefolytatni.”
