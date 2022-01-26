@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-329-20-
 | 2021-01-01 | 2019-329-20-22.6 | 649/2020. (XII. 23.) Korm. rendelet |
 | 2021-02-03 | 2019-329-20-22.7 | 40/2021. (II. 2.) Korm. rendelet |
 | 2022-01-01 | 2019-329-20-22.8 | 827/2021. (XII. 28.) Korm. rendelet |
+| 2022-01-26 | 2019-329-20-22.9 | 21/2022. (I. 25.) Korm. rendelet |

@@ -12,13 +12,13 @@ ad) elektronikus árlejtést alkalmazhat, továbbá
 
 ae) elektronikus katalógusokat alkalmazhat,
 
-b)[^47] az érintett szervezettől eltérő más ajánlatkérővel közösen is megvalósíthat beszerzést,
+b)[^51] az érintett szervezettől eltérő más ajánlatkérővel közösen is megvalósíthat beszerzést,
 
 c) a beszerzés megvalósítása érdekében igénybe veheti más központi beszerző szerv szolgáltatásait, valamint
 
 d) más központi beszerző szervvel együttműködve közösen is megvalósíthat beszerzést vagy működtethet összevont központi beszerzési vagy dinamikus beszerzési rendszert.
 
-(2)[^48] A VBÜ kialakíthatja központosított, valamint az általa nyújtott járulékos beszerzési és közbeszerzési szolgáltatás általános szerződési feltételeit.
+(2)[^52] A VBÜ kialakíthatja központosított, valamint az általa nyújtott járulékos beszerzési és közbeszerzési szolgáltatás általános szerződési feltételeit.
 
 (3) Az (1) bekezdés b)–d) pontjának alkalmazása esetén az ajánlatkérők együttműködésének szabályait együttműködési megállapodásban kell rögzíteni, amely tartalmazza különösen
 
@@ -54,11 +54,17 @@ b) egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely 
 
 (14) A (9)–(11) bekezdés szerinti adatszolgáltatási kötelezettség minősített adatot tartalmazó részével kapcsolatban az érintett szervezet a (8) bekezdés szerint jár el.
 
-(15)[^49] Ha a VBÜ keretmegállapodás megkötését tervezi, a keretmegállapodás részleteiről szóló tájékoztatást, a keretmegállapodás megkötése előtt a Nemzetbiztonsági Kabinet részére megküldi. A Nemzetbiztonsági Kabinet a VBÜ a keretmegállapodás részleteiről szóló tájékoztatását véleményezi, és azt követően a Kormány következő ülésén előterjeszti. A VBÜ keretmegállapodást a Kormány jóváhagyását követően kötheti meg. A Kormány döntéséről a Nemzetbiztonsági Kabinet titkársága a Kormányülést követő munkanapon tájékoztatja a VBÜ-t.
+(15)[^53] Ha a VBÜ keretmegállapodás megkötését tervezi, a keretmegállapodás részleteiről szóló tájékoztatást, a keretmegállapodás megkötése előtt a Nemzetbiztonsági Kabinet részére megküldi. A Nemzetbiztonsági Kabinet a VBÜ a keretmegállapodás részleteiről szóló tájékoztatását véleményezi, és azt követően a Kormány következő ülésén előterjeszti. A VBÜ keretmegállapodást a Kormány jóváhagyását követően kötheti meg. A Kormány döntéséről a Nemzetbiztonsági Kabinet titkársága a Kormányülést követő munkanapon tájékoztatja a VBÜ-t.
 
-(16)[^50] Az érintett szervezet beszerzési igényének végrehajtása során nem kell alkalmazni a 8. § (7) és (12)–(15) bekezdését, valamint a 9. §-t, ha az érintett szervezet a beszerzési igénye keretmegállapodás alapján közvetlen megrendeléssel, írásbeli konzultációval, vagy verseny újranyitásával megvalósítható. Az e bekezdés szerinti beszerzési igény vizsgálata során a 7. § (1)–(3) bekezdését kell alkalmazni.
+(16)[^54] Az érintett szervezet beszerzési igényének végrehajtása során nem kell alkalmazni a 8. § (7) és (12)–(15) bekezdését, valamint a 9. §-t, ha az érintett szervezet a beszerzési igénye keretmegállapodás alapján közvetlen megrendeléssel, írásbeli konzultációval, vagy verseny újranyitásával megvalósítható. Az e bekezdés szerinti beszerzési igény vizsgálata során a 7. § (1)–(3) bekezdését kell alkalmazni.
 
-[^47]: A 11. § (1) bekezdés b) pontja a 649/2020. (XII. 23.) Korm. rendelet 4. § (19) bekezdésével megállapított szöveg.
-[^48]: A 11. § (2) bekezdése a 649/2020. (XII. 23.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.
-[^49]: A 11. § (15) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (21) bekezdése iktatta be.
-[^50]: A 11. § (16) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (21) bekezdése iktatta be.
+(17)[^55] Az érintett szervezet a nemzetközi együttműködési programhoz való csatlakozási szándékát a szándék felmerülését követő 15 napon belül jelzi a VBÜ részére. Az érintett szervezet tájékoztatásában bemutatja a nemzetközi együttműködési program szerint általa tervezett beszerzési igényeit, a nemzetközi együttműködési programban való részvételének feltételeit. A VBÜ az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási igényét a Nemzetbiztonsági Kabinet részére megküldi. A Nemzetbiztonsági Kabinet az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási igényét véleményezi, és azt követően a Kormány következő ülésén előterjeszti. Az érintett szervezet a nemzetközi együttműködési programhoz a Kormány jóváhagyását követően csatlakozhat. A Kormány döntéséről a Kormány ügyrendjében meghatározott határozat készül, amelyről a Miniszterelnöki Kormányiroda közigazgatási államtitkára tájékoztatja a VBÜ-t. A VBÜ a Kormány döntését e döntésről való tudomásszerzéstől számított 2 munkanapon belül közli az érintett szervezettel.
+
+(18)[^56] Az érintett szervezet beszerzési igényének végrehajtása során nem kell alkalmazni a 8. § (7) és (12)–(15) bekezdését, valamint a 9. §-t, ha az érintett szervezet a beszerzési igénye a (17) bekezdésben meghatározottak szerint jóváhagyott nemzetközi együttműködési program keretében megvalósítható. Az e bekezdés szerinti beszerzési igény vizsgálata során a 7. § (1)–(3) bekezdését kell alkalmazni.
+
+[^51]: A 11. § (1) bekezdés b) pontja a 649/2020. (XII. 23.) Korm. rendelet 4. § (19) bekezdésével megállapított szöveg.
+[^52]: A 11. § (2) bekezdése a 649/2020. (XII. 23.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.
+[^53]: A 11. § (15) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (21) bekezdése iktatta be.
+[^54]: A 11. § (16) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (21) bekezdése iktatta be.
+[^55]: A 11. § (17) bekezdését a 21/2022. (I. 25.) Korm. rendelet 3. §-a iktatta be.
+[^56]: A 11. § (18) bekezdését a 21/2022. (I. 25.) Korm. rendelet 3. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 (3) Az érintett szervezet a beszerzési igényét a kezdőnaptól számított 30. nap elteltét követően tölti fel a Portálra.
 
-(4)[^57] A VBÜ létrejöttével, valamint a tevékenységének megkezdésével összefüggésben álló beszerzési és közbeszerzési eljárások tekintetében a VBÜ – mint ajánlatkérő – e rendelet hatálybalépésétől számított 210. napig valamennyi beszerzés esetében jogosult a Vbt., illetve a Kbt. szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására és megindítására.
+(4)[^64] A VBÜ létrejöttével, valamint a tevékenységének megkezdésével összefüggésben álló beszerzési és közbeszerzési eljárások tekintetében a VBÜ – mint ajánlatkérő – e rendelet hatálybalépésétől számított 210. napig valamennyi beszerzés esetében jogosult a Vbt., illetve a Kbt. szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására és megindítására.
 
 (5) E rendelet hatályba lépésétől a kezdőnapig az érintett szervezet e rendelet szerint védelmi és biztonsági feladatokkal összefüggő beszerzés kielégítésére irányuló beszerzési eljárást saját hatáskörben kizárólag a Kormány egyedi döntése alapján indíthat.
 
@@ -14,12 +14,20 @@
 
 (8) Ha a beszerzési eljárást a (7) bekezdés szerint a VBÜ folytatja le, a beszerzéssel kapcsolatban a 4. alcím rendelkezéseit megfelelően alkalmazni kell.
 
-(9)[^58] Az egyes védelmi és biztonsági feladatokkal összefüggő beszerzésekkel kapcsolatos kormányrendeletek módosításáról szóló 649/2020. (XII. 23.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésének[^59] napján folyamatban lévő beszerzési eljárásokat az érintett szervezet folytatja le.
+(9)[^65] Az egyes védelmi és biztonsági feladatokkal összefüggő beszerzésekkel kapcsolatos kormányrendeletek módosításáról szóló 649/2020. (XII. 23.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésének[^66] napján folyamatban lévő beszerzési eljárásokat az érintett szervezet folytatja le.
 
-(10)[^60] A Módr. hatálybalépésének[^61] napjától az érintett szervezet e rendelet hatálya alá tartozó beszerzési igényének kielégítésére irányuló beszerzési eljárást nem indíthat.
+(10)[^67] A Módr. hatálybalépésének[^68] napjától az érintett szervezet e rendelet hatálya alá tartozó beszerzési igényének kielégítésére irányuló beszerzési eljárást nem indíthat.
 
-[^57]: A 15. § (4) bekezdése a 33/2020. (III. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^58]: A 15. § (9) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (24) bekezdése iktatta be.
-[^59]: A hatálybalépés időpontja 2021. január 1.
-[^60]: A 15. § (10) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (24) bekezdése iktatta be.
-[^61]: A hatálybalépés időpontja 2021. január 1.
+(11)[^69] Az érintett szervezet a nemzetközi együttműködési programban való részvételéről – ha a csatlakozásra a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet módosításáról szóló 21/2022. (I. 25.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 11. § (17) bekezdésének hatálybalépését megelőzően került sor – a Módr1. hatálybalépésétől[^70] számított 60 napon belül tájékoztatást ad a VBÜ részére. Az érintett szervezet tájékoztatásában bemutatja a nemzetközi együttműködési program keretében biztosított és biztosítani tervezett beszerzési igényeit, a nemzetközi együttműködési programban való részvételének feltételeit. A VBÜ az érintett szervezet nemzetközi együttműködési programban való részvételéről szóló tájékoztatást a Nemzetbiztonsági Kabinet részére megküldi. A Nemzetbiztonsági Kabinet az érintett szervezet nemzetközi együttműködési programban való további részvételét véleményezi, és azt követően a Kormány következő ülésén előterjeszti. Az érintett szervezet a nemzetközi együttműködési programban történő részvételét a Kormány jóváhagyását követően továbbra is fenntartja. A Kormány döntéséről a Kormány ügyrendjében meghatározott határozat készül, amelyről a Miniszterelnöki Kormányiroda közigazgatási államtitkára tájékoztatja a VBÜ-t. A VBÜ a Kormány döntését e döntésről való tudomásszerzéstől számított 2 munkanapon belül köteles közölni az érintett szervezettel.
+
+(12)[^71] A Módr1.-gyel módosított 1. §-t, 11. §-t, valamint 12/C. §-t a Módr1. hatálybalépését[^72] követően megkezdett beszerzésekre, közbeszerzési eljárásokra, koncessziós beszerzési eljárásokra, védelmi beszerzési eljárásokra, védelmi és biztonsági tárgyú koncessziókra kell alkalmazni.
+
+[^64]: A 15. § (4) bekezdése a 33/2020. (III. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^65]: A 15. § (9) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (24) bekezdése iktatta be.
+[^66]: A hatálybalépés időpontja 2021. január 1.
+[^67]: A 15. § (10) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (24) bekezdése iktatta be.
+[^68]: A hatálybalépés időpontja 2021. január 1.
+[^69]: A 15. § (11) bekezdését a 21/2022. (I. 25.) Korm. rendelet 5. §-a iktatta be.
+[^70]: A hatálybalépés időpontja 2022. január 26.
+[^71]: A 15. § (12) bekezdését a 21/2022. (I. 25.) Korm. rendelet 5. §-a iktatta be.
+[^72]: A hatálybalépés időpontja 2022. január 26.
