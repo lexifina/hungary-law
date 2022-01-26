@@ -2,7 +2,9 @@
 
 (2) Tilos a 4. melléklet szerinti adalékanyagokat tartalmazó dohánytermékek forgalomba hozatala.
 
-(3)[^15] Az új adalékanyagoknak a dohánytermék gyártásában való felhasználását a felhasználás tervezett kezdő időpontját 6 hónappal megelőzően, de legkésőbb a felhasználás tervezett időpontját 30 nappal megelőzően a felhasználónak, a bejegyzett kereskedőnek, az importálónak vagy az adóraktár engedélyesének (a továbbiakban együtt: bejelentő) be kell jelentenie az NNK részére. A bejelentést a 3. melléklet szerinti adattartalommal kell megtenni. A bejelentett adatokról az NNK hatósági nyilvántartást vezet, és azt a honlapján közzéteszi. Nem szükséges bejelenteni a nyersdohány természetes részeinek felhasználását.
+(2a)[^15] A 4. melléklet szerinti adalékanyagokon, idegen anyagokon kívül tilos mentol, valamint mentolszármazék adalékanyagokat tartalmazó cigaretta és cigarettadohány forgalomba hozatala.
+
+(3)[^16] Az új adalékanyagoknak a dohánytermék gyártásában való felhasználását a felhasználás tervezett kezdő időpontját 6 hónappal megelőzően, de legkésőbb a felhasználás tervezett időpontját 30 nappal megelőzően a felhasználónak, a bejegyzett kereskedőnek, az importálónak vagy az adóraktár engedélyesének (a továbbiakban együtt: bejelentő) be kell jelentenie az NNK részére. A bejelentést a 3. melléklet szerinti adattartalommal kell megtenni. A bejelentett adatokról az NNK hatósági nyilvántartást vezet, és azt a honlapján közzéteszi. Nem szükséges bejelenteni a nyersdohány természetes részeinek felhasználását.
 
 (4) A bejelentéshez mellékelni kell:
 
@@ -10,11 +12,11 @@ a) az Európai Gazdasági Térségről szóló megállapodásban részes állam 
 
 b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét rögzítő jegyzőkönyvet.
 
-(5)[^16] Az NNK a bejelentéstől számított 30 napon belül a bejelentés alapján megvizsgálja, hogy a felhasználni tervezett adalékanyag szerepel-e a 4. melléklet szerinti tiltott adalékanyagok listáján, azzal, hogy ha az nem szerepel a listán, és annak a listára való felvétele nem indokolt, a bejelentést tudomásul veszi, és erről tájékoztatja a bejelentőt. Az NNK a bejelentésről tájékoztatja a fogyasztóvédelemért felelős minisztert. Ha az NNK a 30 nap elteltével nem nyilatkozik, a bejelentett adalékanyag felhasználható.
+(5)[^17] Az NNK a bejelentéstől számított 30 napon belül a bejelentés alapján megvizsgálja, hogy a felhasználni tervezett adalékanyag szerepel-e a 4. melléklet szerinti tiltott adalékanyagok listáján, azzal, hogy ha az nem szerepel a listán, és annak a listára való felvétele nem indokolt, a bejelentést tudomásul veszi, és erről tájékoztatja a bejelentőt. Az NNK a bejelentésről tájékoztatja a fogyasztóvédelemért felelős minisztert. Ha az NNK a 30 nap elteltével nem nyilatkozik, a bejelentett adalékanyag felhasználható.
 
-(6)[^17] A (3) bekezdés szerint bejelentett adalékanyagokra vonatkozó tanulmányokat a felhasználás megkezdésétől számított 2 év elteltével a bejelentőnek meg kell küldenie az NNK részére. Az egészségügyért felelős miniszter által vezetett minisztérium a benyújtott dokumentáció alapján a benyújtástól számított 6 hónapon belül megvizsgálja, hogy a dokumentáció nem indokolja-e az adalékanyagnak a 4. melléklet szerinti tiltott adalékanyagok listáján történő szerepeltetését.
+(6)[^18] A (3) bekezdés szerint bejelentett adalékanyagokra vonatkozó tanulmányokat a felhasználás megkezdésétől számított 2 év elteltével a bejelentőnek meg kell küldenie az NNK részére. Az egészségügyért felelős miniszter által vezetett minisztérium a benyújtott dokumentáció alapján a benyújtástól számított 6 hónapon belül megvizsgálja, hogy a dokumentáció nem indokolja-e az adalékanyagnak a 4. melléklet szerinti tiltott adalékanyagok listáján történő szerepeltetését.
 
-(7)[^18] Ha az országos tisztifőorvos úgy ítéli meg, hogy az adalékanyagot fel kell venni a 4. melléklet szerinti listára, az adalékanyag további felhasználását megtiltja, és jogszabály-módosítást kezdeményez az egészségügyért felelős miniszternél a lista kibővítése érdekében.
+(7)[^19] Ha az országos tisztifőorvos úgy ítéli meg, hogy az adalékanyagot fel kell venni a 4. melléklet szerinti listára, az adalékanyag további felhasználását megtiltja, és jogszabály-módosítást kezdeményez az egészségügyért felelős miniszternél a lista kibővítése érdekében.
 
 (8) A bejelentett adalékanyagtól eltérő adalékanyag, továbbá a dohány-adalékanyagnak a bejelentésben meghatározott feltételektől eltérő alkalmazása tilos.
 
@@ -22,11 +24,12 @@ b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét r�
 
 (10) A határokon átnyúló távértékesítés esetében a terméket abban a tagállamban forgalomba hozott terméknek kell tekinteni ahol a fogyasztó tartózkodik.
 
-(11)[^19] E § alkalmazásában nem minősül új adalékanyagnak, és nem esik a (3) bekezdésben meghatározott bejelentési kötelezettség alá az az adalékanyag, amelyet a gyártó 2016. augusztus 20-át megelőzően jogszabályi felhatalmazás vagy külön engedély alapján használni volt jogosult a dohánytermék gyártásához, feltéve, hogy az nem szerepel a 4. melléklet szerinti tiltott adalékanyagok listáján.
+(11)[^20] E § alkalmazásában nem minősül új adalékanyagnak, és nem esik a (3) bekezdésben meghatározott bejelentési kötelezettség alá az az adalékanyag, amelyet a gyártó 2016. augusztus 20-át megelőzően jogszabályi felhatalmazás vagy külön engedély alapján használni volt jogosult a dohánytermék gyártásához, feltéve, hogy az nem szerepel a 4. melléklet szerinti tiltott adalékanyagok listáján.
 
 [^14]: A 4. § a 239/2016. (VIII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^15]: A 4. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 115. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^16]: A 4. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 115. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^17]: A 4. § (6) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontja szerint módosított szöveg. [A 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontjával elrendelt módosítás a második mondatban nem vezethető át.]
-[^18]: A 4. § (7) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^19]: A 4. § (11) bekezdését a 244/2018. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 4. § (2a) bekezdését a 794/2021. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 4. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 115. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^17]: A 4. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 115. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^18]: A 4. § (6) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontja szerint módosított szöveg. [A 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontjával elrendelt módosítás a második mondatban nem vezethető át.]
+[^19]: A 4. § (7) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^20]: A 4. § (11) bekezdését a 244/2018. (XII. 13.) Korm. rendelet 1. §-a iktatta be.

@@ -1,3 +1,3 @@
-10. §[^47]
+10. §[^48]
 
-[^47]: A 10. §-t a 239/2016. (VIII. 16.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
+[^48]: A 10. §-t a 239/2016. (VIII. 16.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
