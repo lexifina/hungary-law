@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-789-20-
 | 2022-01-01 | 2021-789-20-22.1 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2022-01-02 | 2021-789-20-22.2 | 2010: CXXX. törvény |
 | 2022-01-25 | 2021-789-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-01-26 | 2021-789-20-22.4 | 2010: CXXX. törvény |
