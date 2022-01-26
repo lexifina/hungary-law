@@ -462,6 +462,6 @@
 
 | 659364.22, 259869.12 | N47° 40′ 57,29″ E19° 10′ 19,80″ |
 
-8. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^247]
+8. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^250]
 
-[^247]: A 8. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^250]: A 8. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.

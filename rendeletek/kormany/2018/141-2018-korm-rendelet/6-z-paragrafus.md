@@ -1,4 +1,4 @@
-6/Z. §[^87] (1) A 2. mellékletben foglalt táblázat 78. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:78 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6/Z. §[^88] (1) A 2. mellékletben foglalt táblázat 78. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:78 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -44,4 +44,4 @@ i) a telek homlokvonalától mért 10 méteres sávban parkoló, a terepszint al
 
 (8) A (6) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
-[^87]: A 6/Z. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
+[^88]: A 6/Z. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
