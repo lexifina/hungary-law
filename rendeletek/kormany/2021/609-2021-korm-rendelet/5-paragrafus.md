@@ -6,9 +6,10 @@
 
 (2)[^6]
 
-(3)[^7]
+(3) Az R1. 9. § (4) bekezdése a következő 87. ponttal egészül ki:
+
+(A légiközlekedési hatóság hatósági feladatai a következők:)
 
 [^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^6]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 5. § (3) bekezdése a 8. § (2) bekezdése alapján 2022. január 27-én lép hatályba.
