@@ -40,17 +40,7 @@ Felelős: pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-4.
-
-a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva, a 2. pont a) és b) alpontja szerinti fejlesztések kiadási előirányzatai terhére vállalható kötelezettségek összegét az alábbiak szerint állapítja meg:
-
-aa) a 2022. évre 10 453 000 000 forint,
-
-ab) a 2023. évre 16 090 000 000 forint,
-
-ac) a 2024. évre 2 803 000 000 forint;
-
-b) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a 2. pont a) és b) alpontjában foglaltak végrehajtása érdekében, a 2021–2024. évek vonatkozásában összesen legfeljebb 35 868 000 000 forint összegben kötelezettséget vállaljon;
+4.[^1]
 
 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a Beruházás víziközmű infrastruktúra-fejlesztéseinek komplex előkészítéséről és megvalósításáról az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: NFP NKft.) útján, azzal, hogy a feladat teljes körű előkészítése keretében a tervezési, mérnöki, műszaki ellenőri feladatokat lássa el, az ehhez kapcsolódó beszerzési, illetve közbeszerzési eljárásokat folytassa le, valamint a megvalósítás keretében a Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság (a továbbiakban: Dunántúli Regionális Vízmű Zrt.) nevében és javára kivitelezési (tervezés és kivitelezés) szerződéshez kapcsolódó beszerzési, illetve közbeszerzési eljárásokat folytassa le, és az ezekhez kapcsolódó projektmenedzsment-feladatokat lássa el;
 
@@ -99,3 +89,5 @@ Felelős: pénzügyminiszter
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a 11. pont szerinti tájékoztatást követően azonnal
+
+[^1]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont c) alpontja visszavonta.
