@@ -1,4 +1,4 @@
-23/A. §[^40] (1) A légiközlekedési hatóság – egyes földi kiszolgálási tevékenységek vonatkozásában vagy teljes egészében – az ok elhárulásáig felfüggesztheti a külföldi földi kiszolgálók engedélyét, ha a jogosult állama
+23/A. §[^41] (1) A légiközlekedési hatóság – egyes földi kiszolgálási tevékenységek vonatkozásában vagy teljes egészében – az ok elhárulásáig felfüggesztheti a külföldi földi kiszolgálók engedélyét, ha a jogosult állama
 
 a) ténylegesen vagy jogszabályi úton nem biztosít nemzeti elbánást a magyar földi kiszolgálóknak,
 
@@ -10,4 +10,4 @@ c) ténylegesen vagy jogszabályi úton nem biztosít hasonló elbánást a magy
 
 (3) A külföldi földi kiszolgálók engedélyének az (1) bekezdésben foglaltak szerinti felfüggesztéséről a légiközlekedési hatóság tájékoztatja az Európai Bizottságot.
 
-[^40]: A 23/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 58. § (3) bekezdése iktatta be.
+[^41]: A 23/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 58. § (3) bekezdése iktatta be.

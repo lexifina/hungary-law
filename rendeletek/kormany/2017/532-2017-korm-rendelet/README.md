@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-532-20-
 | 2021-01-01 | 2017-532-20-22.7 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2021-02-10 | 2017-532-20-22.8 | 39/2021. (II. 2.) Korm. rendelet |
 | 2022-01-01 | 2017-532-20-22.9 | 789/2021. (XII. 27.) Korm. rendelet |
+| 2022-01-27 | 2017-532-20-22.10 | 713/2020. (XII. 30.) Korm. rendelet |

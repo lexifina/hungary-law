@@ -12,19 +12,19 @@ b) frekvencia-hozzájárulást ad ki,
 
 c) kapcsolatot tart a 68/2011. (XI. 30.) NFM rendeletben meghatározott S-módú kódkiosztás tekintetében, a lekérdezési kód-kiosztási rendszerben a léginavigáció biztonságát szolgáló európai szervezettel (a továbbiakban: EUROCONTROL),
 
-d)[^7] ATM/ANS-rendszer vagy rendszerelem, valamint egyéb földi berendezés felügyeletét,
+d)[^8] ATM/ANS-rendszer vagy rendszerelem, valamint egyéb földi berendezés felügyeletét,
 
-e)[^8] kiadja az ATM/ANS-rendszer vagy az egyéb földi berendezés telepítése iránti engedélyt,
+e)[^9] kiadja az ATM/ANS-rendszer vagy az egyéb földi berendezés telepítése iránti engedélyt,
 
-f)[^9] kiadja az ATM/ANS-rendszer vagy az egyéb földi berendezés üzemben tartása iránti engedélyt,
+f)[^10] kiadja az ATM/ANS-rendszer vagy az egyéb földi berendezés üzemben tartása iránti engedélyt,
 
 g) kiadja a rádióállomás kezelői engedélyt,
 
 h) kiadja a földi kiszolgálás végzéséhez szükséges hatósági engedélyt,
 
-i)[^10] tanúsítja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá tartozó azon repülőteret, amely az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében meghatározott mentességet nem kapott.
+i)[^11] tanúsítja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá tartozó azon repülőteret, amely az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében meghatározott mentességet nem kapott.
 
-[^7]: A 6. § d) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^8]: A 6. § e) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^9]: A 6. § f) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^10]: A 6. § i) pontját a 348/2019. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^8]: A 6. § d) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^9]: A 6. § e) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^10]: A 6. § f) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^11]: A 6. § i) pontját a 348/2019. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
