@@ -6,4 +6,4 @@
 
 8. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^83]
 
-[^83]: FA 8. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § i) pontjával megállapított, az 595/2020. (XII. 17.) Korm. rendelet 3. § (1) bekezdése, a 722/2020. (XII. 31.) Korm. rendelet 9. § (4) bekezdése szerint módosított szöveg.
+[^83]: A 8. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § i) pontjával megállapított, az 595/2020. (XII. 17.) Korm. rendelet 3. § (1) bekezdése, a 722/2020. (XII. 31.) Korm. rendelet 9. § (4) bekezdése, a 789/2021. (XII. 27.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

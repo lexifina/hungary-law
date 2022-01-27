@@ -4,4 +4,4 @@
 
 10. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^85]
 
-[^85]: A 10. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § k) pontjával megállapított szöveg.
+[^85]: A 10. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § k) pontjával megállapított, a 789/2021. (XII. 27.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.

@@ -98,7 +98,11 @@
 
 | 19. | A visszatartás szabályainak megszegése | RSJ | 500 000 | járművezető |
 
-| 20. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén | SJ | 100 000 | járművezető |
+| 20. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén | NSJ | 100 000 | járművezető |
+
+| 21. | A közúti ellenőrzésre (beleértve a tengelyterhelés mérésre utasító jelzést is) történő kiterelésre utasító jelzőtábla, közúti ellenőrzésre jogosult közúti ellenőrzésre utasító jelzésének figyelmen kívül hagyása. | RSJ | 800 000 | járművezető |
+
+| 22. | A közúti ellenőrzésben való közreműködés megtagadása, közúti ellenőrzés akadályozása | RSJ | 800 000 | járművezető |
 
 9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^84]
 
