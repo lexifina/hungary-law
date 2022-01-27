@@ -106,7 +106,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Bp2017 Világbajnokság Szervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság | 01-09-206809 | 2022. december 31. |
+| 1. |  |  |  |
 
 | 2. |  |  |  |
 
@@ -270,6 +270,8 @@
 
 | 9 | CEI Közép-európai Befektetési Zártkörűen Működő Részvénytársaság | 01-10-141090 | 2022. december 31. |
 
+| 10. | DEBRECEN INTERNATIONAL AIRPORT Korlátolt Felelősségű Társaság | 09-10-000327 | 2022. december 31. |
+
 ## IX. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 |  | A | B | C |
@@ -290,7 +292,7 @@
 
 | 2. | BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-048661 | 2022. december 31. |
 
-| 3. | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2022. december 31. |
+| 3. | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2022. december 31. |
 
 | 4. |  |  |  |
 
@@ -314,7 +316,7 @@
 
 | 14. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2022. december 31. |
 
-| 15. | Nemzeti Tehetség Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2022. december 31. |
+| 15. | Nemzeti Tehetség Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2022. december 31. |
 
 | 16. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
 
