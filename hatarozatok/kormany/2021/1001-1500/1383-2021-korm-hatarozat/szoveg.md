@@ -24,11 +24,7 @@ a b) alpont tekintetében a felmerülés ütemében
 
 a c) alpont tekintetében a 2023. évi központi költségvetés tervezése során
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva, a 2. pontban megjelölt előirányzat terhére, az átviteli hálózati fejlesztések megvalósítása érdekében vállalható éven túli kötelezettségek összegét az alábbiak szerint állapítja meg:
-
-a) a 2022. évben 3 492 500 000 forint,
-
-b) a 2023. évben 762 000 000 forint;
+3.[^1]
 
 4. felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében, a 2. pont szerinti forrás terhére gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság részére 4 445 000 000 forint összegben támogatói okirat kibocsátásáról;
 
@@ -63,3 +59,5 @@ Határidő: 2021. szeptember 30.
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
+
+[^1]: A 3. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont b) alpontja visszavonta.
