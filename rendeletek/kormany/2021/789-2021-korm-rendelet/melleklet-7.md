@@ -1,3 +1,3 @@
-7. melléklet a 789/2021. (XII. 27.) Korm. rendelethez[^96]
+7. melléklet a 789/2021. (XII. 27.) Korm. rendelethez[^92]
 
-[^96]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
