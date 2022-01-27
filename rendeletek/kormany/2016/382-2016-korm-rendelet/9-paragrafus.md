@@ -206,6 +206,8 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 86d.[^113] jóváhagyja a léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet 1. számú és 4. számú mellékletében jóváhagyáshoz kötött dokumentumokat.
 
+87.[^114] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat, versenylégtér koordinációs feladatait ellátó szervezet, állami repülések céljára kijelölt légterekben illetékes légiforgalmi szolgálat és légvédelmi irányító egység, valamint az MH Légi Műveleti Vezetési és Irányítási Központ közötti együttműködési megállapodást.
+
 (5) A (4) bekezdés 7. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
 (6) Ha
@@ -246,3 +248,4 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 [^111]: A 9. § (4) bekezdés 86b. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
 [^112]: A 9. § (4) bekezdés 86c. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
 [^113]: A 9. § (4) bekezdés 86d. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
+[^114]: A 9. § (4) bekezdés 87. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (3) bekezdése iktatta be.
