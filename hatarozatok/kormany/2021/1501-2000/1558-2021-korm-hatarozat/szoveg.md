@@ -32,19 +32,9 @@ a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása 
 
 a c) és d) alpont tekintetében az adott évi központi költségvetés tervezése során
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a Beruházás megvalósítása érdekében legfeljebb 44 293 344 844 forint kötelezettséget vállaljon;
+4.[^1]
 
-5. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Beruházás komplex előkészítése és megvalósítása érdekében a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím terhére vállalható kötelezettségvállalás felső korlátját
-
-a) a 2021. évben 15 325 325 344 forint,
-
-b) a 2022. évben 11 587 207 800 forint,
-
-c) a 2023. évben 11 587 207 800 forint,
-
-d) a 2024. évben 5 793 603 900 forint
-
-összegben állapítja meg;
+5.[^2]
 
 6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: NFP Nonprofit Kft.) mint kedvezményezett a feladat teljes körű előkészítése keretében tervezési, mérnöki, műszaki ellenőri feladatokat lássa el, az ehhez kapcsolódó beszerzési, illetve közbeszerzési eljárásokat folytassa le, valamint a megvalósítás keretében az Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság (a továbbiakban: Északdunántúli Vízmű Zrt.) nevében és javára kivitelezési (tervezés és kivitelezés) szerződéshez kapcsolódó beszerzési, illetve közbeszerzési eljárásokat folytassa le, és az ezekhez kapcsolódó projektmenedzsment-feladatokat lássa el;
 
@@ -93,3 +83,6 @@ Felelős: innovációért és technológiáért felelős miniszter
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2022. július 31.
+
+[^1]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta.
+[^2]: Az 5. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta.
