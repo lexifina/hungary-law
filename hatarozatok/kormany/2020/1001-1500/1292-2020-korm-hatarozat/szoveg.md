@@ -68,29 +68,7 @@ Határidő: a 2023. évi központi költségvetés tervezése során
 
 7. a 3. pont 3.1. és 3.5. alpontja szerinti kulturális fejlesztések előkészítési fázisainak kormányzati felelőseként – az emberi erőforrások minisztere bevonásával – az innovációért és technológiáért felelős minisztert, a 3. pont 3.2. alpontja szerinti kulturális fejlesztések megvalósítási fázisainak kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-8.[^5] felhívja az innovációért és technológiáért felelős minisztert, valamint az emberi erőforrások miniszterét, hogy a 3. pont szerinti forrásokat támogatási jogviszony keretében biztosítsa Debrecen Megyei Jogú Város Önkormányzata számára elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a források rendelkezésre állását követően 60 napon belül
-
-Az elszámolás és visszafizetés tekintetében
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a 3. pont 3.1. alpontja tekintetében 2021. december 31.
-
-a 3. pont 3.2. alpont a) pontja tekintetében 2023. február 28.
-
-a 3. pont 3.2. alpont b) pontja tekintetében 2023. december 31.
-
-a 3. pont 3.3. és 3.4. alpontja tekintetében 2022. december 31.
-
-a 3. pont 3.5. és 3.6. alpontja tekintetében 2023. december 31.
+8.[^5]
 
 9.[^6] egyetért azzal, hogy a közlekedésfejlesztésre a 2021–2023. évi fejlesztések előkészítése és megvalósítása céljára összesen 5 696 800 000 forint központi költségvetési támogatás kerüljön biztosításra, az alábbiak szerint:
 
@@ -210,13 +188,46 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. december 31.
 
+16.[^11] felhívja az innovációért és technológiáért felelős minisztert, valamint az emberi erőforrások miniszterét, hogy a 3. pont szerinti forrásokat támogatási jogviszony keretében biztosítsa Debrecen Megyei Jogú Város Önkormányzata számára elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel.
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+emberi erőforrások minisztere
+
+Határidő: a források rendelkezésre állását követően 60 napon belül
+
+Az elszámolási és visszafizetési kötelezettség tekintetében
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+emberi erőforrások minisztere
+
+Határidő: a 3. pont 3.1. alpont b) pontja tekintetében az elszámolási kötelezettség 2024. február 28.,
+
+a visszafizetési kötelezettség 2024. április 30.
+
+a 3. pont 3.2. alpont a) pontja tekintetében 2023. február 28.
+
+a 3. pont 3.2. alpont b) pontja tekintetében 2023. december 31.
+
+a 3. pont 3.3. és 3.4. alpontja tekintetében 2022. december 31.
+
+a 3. pont 3.5. és 3.6. alpontja tekintetében 2023. december 31.
+
+A támogatás felhasználásának végső határideje tekintetében
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: a 3. pont 3.1. alpont b) pontja tekintetében a támogatás felhasználásának végső határideje 2023. december 31.
+
 [^1]: A 3. pont az 1696/2021. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 4. pontot az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
 [^3]: Az 5. pontot az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
 [^4]: A 6. pont az 1696/2021. (X. 1.) Korm. határozat 4. pont a) pontja szerint módosított szöveg.
-[^5]: A 8. pont az 1696/2021. (X. 1.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 8. pontot az 1026/2022. (I. 27.) Korm. határozat 2. pontja visszavonta.
 [^6]: A 9. pont az 1696/2021. (X. 1.) Korm. határozat 2. pontjával megállapított szöveg.
 [^7]: A 10. pont 10.1. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
 [^8]: A 10. pont 10.2. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
 [^9]: A 10.3. pont az 1696/2021. (X. 1.) Korm. határozat 4. pont b) pontja szerint módosított szöveg.
 [^10]: A 11. pont az 1820/2021. (XI. 25.) Korm. határozat 9. pontjával megállapított szöveg.
+[^11]: A 16. pontot az 1026/2022. (I. 27.) Korm. határozat 1. pontja iktatta be.
