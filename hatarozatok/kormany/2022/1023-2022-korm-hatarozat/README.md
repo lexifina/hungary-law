@@ -1,0 +1,9 @@
+# 1023/2022. (I. 27.) Korm. határozat
+
+a Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1023-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-01-27 | 2022-1023-30-22.1 | 1023/2022. (I. 27.) Korm. határozat |
