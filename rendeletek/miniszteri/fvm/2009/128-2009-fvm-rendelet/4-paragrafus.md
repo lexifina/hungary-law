@@ -1,4 +1,4 @@
-## 3. §[^7] Mentesül az 5–8. §-ban foglalt előírások alól a díszmadarak, az akváriumi halak, a postagalambok, a terráriumban tartandó állatok és kisrágcsálók, valamint a kizárólag kedvtelésből tartott vadászgörények és kedvtelésből tartott házinyulak részére szolgáló állatgyógyászati készítmény, ha nem tartalmaz olyan anyagot, amelynek kiadása állatorvosi vényhez kötött, és azt más állatfajok engedély nélküli kezelésére nem használják fel. Az ilyen készítményt forgalomba hozatala előtt a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH) be kell jelenteni. A NÉBIH a készítményt nyilvántartásba veszi és a nyilvántartást honlapján közzéteszi.
+## 3. §[^9] Mentesül az 5–8. §-ban foglalt előírások alól a díszmadarak, az akváriumi halak, a postagalambok, a terráriumban tartandó állatok és kisrágcsálók, valamint a kizárólag kedvtelésből tartott vadászgörények és kedvtelésből tartott házinyulak részére szolgáló állatgyógyászati készítmény, ha nem tartalmaz olyan anyagot, amelynek kiadása állatorvosi vényhez kötött, és azt más állatfajok engedély nélküli kezelésére nem használják fel. Az ilyen készítményt forgalomba hozatala előtt a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH) be kell jelenteni. A NÉBIH a készítményt nyilvántartásba veszi és a nyilvántartást honlapján közzéteszi.
 
 ## Fogalommeghatározások
 
@@ -18,15 +18,15 @@ b) ha a tevékenységet a 69. §-ban foglaltakkal összhangban állatgyógyásza
 
 5. Állatgyógyászati termék: az Éltv. Mellékletének 4. pontjában meghatározott termék.
 
-6.[^8] Állatorvosi vény: az Éltv. Mellékletének 7/A. pontjában meghatározott okirat.
+6.[^10] Állatorvosi vény: az Éltv. Mellékletének 7/A. pontjában meghatározott okirat.
 
 7. Általánosan használt név: az Egészségügyi Világszervezet (World Health Organization; WHO) által javasolt nemzetközi szabadnév (International Non-proprietary Name; INN), vagy ennek hiányában az általánosan használt közhasználatú név.
 
-8.[^9] Eudravigilance rendszer: az Európai Unió területén forgalmazott állatgyógyászati készítményekre vonatkozó mellékhatás-figyelő rendszer információi cseréjének elősegítésére létrehozott adatfeldolgozó hálózat.
+8.[^11] Eudravigilance rendszer: az Európai Unió területén forgalmazott állatgyógyászati készítményekre vonatkozó mellékhatás-figyelő rendszer információi cseréjének elősegítésére létrehozott adatfeldolgozó hálózat.
 
 9. Címke: a közvetlen vagy a külső csomagoláson feltüntetett tájékoztató.
 
-10.[^10] Élelmezés-egészségügyi várakozási idő: azon időtartam, amelynek a közegészségügy védelme érdekében el kell telnie az állatgyógyászati készítmény állatokon való rendeltetésszerű és e rendelet előírásainak megfelelő utolsó alkalmazása és a kezelt állatból származó állati eredetű élelmiszer előállítása között annak biztosítása érdekében, hogy az élelmiszer ne tartalmazzon maradékanyagokat az állati eredetű élelmiszerekben található állatgyógyászati készítmények maximális maradékanyag-határértékeinek megállapítására szolgáló közösségi eljárás kialakításáról szóló, 2009. május 6-i 470/2009/EK tanácsi rendeletben (a továbbiakban: 470/2009/EK rendelet) és a farmakológiai hatóanyagokról és az állati eredetű élelmiszerekben előforduló maximális maradékanyag-határértékek szerinti osztályozásukról szóló, 2009. december 22-i 37/2010/EU rendeletben (a továbbiakban: 37/2010/EU rendelet) megállapított maximális határértéket meghaladó mennyiségben.
+10.[^12] Élelmezés-egészségügyi várakozási idő: azon időtartam, amelynek a közegészségügy védelme érdekében el kell telnie az állatgyógyászati készítmény állatokon való rendeltetésszerű és e rendelet előírásainak megfelelő utolsó alkalmazása és a kezelt állatból származó állati eredetű élelmiszer előállítása között annak biztosítása érdekében, hogy az élelmiszer ne tartalmazzon maradékanyagokat az állati eredetű élelmiszerekben található állatgyógyászati készítmények maximális maradékanyag-határértékeinek megállapítására szolgáló közösségi eljárás kialakításáról szóló, 2009. május 6-i 470/2009/EK tanácsi rendeletben (a továbbiakban: 470/2009/EK rendelet) és a farmakológiai hatóanyagokról és az állati eredetű élelmiszerekben előforduló maximális maradékanyag-határértékek szerinti osztályozásukról szóló, 2009. december 22-i 37/2010/EU rendeletben (a továbbiakban: 37/2010/EU rendelet) megállapított maximális határértéket meghaladó mennyiségben.
 
 11. Élelmiszer-termelő állat: olyan állat, amelynek húsa vagy egyéb terméke az európai étkezési szokásokat figyelembe véve emberi fogyasztásra kerülhet.
 
@@ -42,7 +42,7 @@ b) ha a tevékenységet a 69. §-ban foglaltakkal összhangban állatgyógyásza
 
 17. Forgalomba hozatal utáni gyógyszerbiztonsági vizsgálat: a forgalomba hozatali engedélyben foglalt feltételekkel összhangban végzett farmako-epidemiológiai tanulmány vagy klinikai kipróbálás, amelynek az a célja, hogy feltárja és kivizsgálja a forgalomba hozatali engedéllyel rendelkező állatgyógyászati készítménnyel kapcsolatos biztonsági kockázat mértékét.
 
-17a.[^11] Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+17a.[^13] Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 18. Gyógypremix: olyan állatgyógyászati készítmény, amelyet gyógyszeres takarmány előállításához használnak fel.
 
@@ -50,7 +50,7 @@ b) ha a tevékenységet a 69. §-ban foglaltakkal összhangban állatgyógyásza
 
 20. Gyógyszeres takarmány: az Éltv. Mellékletének 31. pontjában meghatározott takarmány.
 
-21.[^12] Gyógyszergyártás (előállítás): olyan engedélyhez kötött termelő tevékenység, ahol ellenőrzött ipari körülmények között állatgyógyászati készítményt állítanak elő.
+21.[^14] Gyógyszergyártás (előállítás): olyan engedélyhez kötött termelő tevékenység, ahol ellenőrzött ipari körülmények között állatgyógyászati készítményt állítanak elő.
 
 22. Gyógyszergyártási engedély: adott műszaki létesítményben és berendezéseken adott állatgyógyászati készítmények meghatározott gyógyszerformáinak előállítására jogosító engedély.
 
@@ -74,7 +74,7 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 
 28. Helyes gyógyszergyártási gyakorlat: a minőségbiztosítás azon része, amely azt biztosítja, hogy a készítmények gyártása és ellenőrzése a tervezett felhasználásuknak megfelelő minőségi követelmények alapján történjen.
 
-29.[^13] Homeopátiás állatgyógyászati készítmény: az Európai Gyógyszerkönyvben, illetve ennek hiányában az Európai Unió tagállamaiban (a továbbiakban: tagállam) hivatalosan használatban lévő gyógyszerkönyvekben leírt gyártási eljárásnak megfelelően készült, homeopátiás törzsoldatnak nevezett anyagokból előállított állatgyógyászati készítmény, amely több alkotóelemet is tartalmazhat.
+29.[^15] Homeopátiás állatgyógyászati készítmény: az Európai Gyógyszerkönyvben, illetve ennek hiányában az Európai Unió tagállamaiban (a továbbiakban: tagállam) hivatalosan használatban lévő gyógyszerkönyvekben leírt gyártási eljárásnak megfelelően készült, homeopátiás törzsoldatnak nevezett anyagokból előállított állatgyógyászati készítmény, amely több alkotóelemet is tartalmazhat.
 
 30. Immunológiai állatgyógyászati készítmény: állatok aktív vagy passzív immunizálására, illetve immunállapotának meghatározására szolgáló készítmény.
 
@@ -84,7 +84,7 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 
 33. Kedvtelésből tartott állat: rendszertani besorolástól függetlenül minden olyan állat, amelyet nem tudományos kutatás, állati eredetű termék előállítása, igavonás, teherhordás, természetvédelem, géntartalék-védelem és – kutya és macska kivételével – közcélú bemutatás céljából tartanak, tenyésztenek, forgalmaznak. Kedvtelésből tartott állatnak minősül az az állat is, amelyet más állat táplálása céljából tartanak és szaporítanak. Kedvtelésből tartott állatnak minősül továbbá a nem gazdasági céllal tartott haszonállat, továbbá a vadászatot segítő állat.
 
-34.[^14]
+34.[^16]
 
 35. Közvetlen csomagolás: a termékkel közvetlen érintkezésben lévő tartály vagy egyéb csomagolási forma.
 
@@ -116,53 +116,53 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 
 49. Vizsgálati készítmény: forgalomba hozatali engedéllyel még nem rendelkező, fejlesztés alatt álló állatgyógyászati készítmény, amelyet laboratóriumi, illetve laboratóriumon kívüli kipróbálás céljára állítanak elő.
 
-50.[^15] Állategészségügyi biocid termék: a 1/A. § (2) bekezdésének d) pontja szerinti termékcsoportok valamelyikébe besorolható biocid hatóanyag, vagy egy vagy több biocid hatóanyagot tartalmazó készítmény – a felhasználóknak szánt kiszerelési formákban –, melynek célja, hogy állategészségügyi alkalmazás során valamely kártékony biológiai szervezetet kémiai vagy biológiai eszközökkel elpusztítson, kártékony biológiai szervezetet, illetve külső élősködőt elriasszon, ártalmatlanítson, károkozásában akadályozzon, vagy más módon korlátozó hatást gyakoroljon rá.
+50.[^17] Állategészségügyi biocid termék: a 1/A. § (2) bekezdésének d) pontja szerinti termékcsoportok valamelyikébe besorolható biocid hatóanyag, vagy egy vagy több biocid hatóanyagot tartalmazó készítmény – a felhasználóknak szánt kiszerelési formákban –, melynek célja, hogy állategészségügyi alkalmazás során valamely kártékony biológiai szervezetet kémiai vagy biológiai eszközökkel elpusztítson, kártékony biológiai szervezetet, illetve külső élősködőt elriasszon, ártalmatlanítson, károkozásában akadályozzon, vagy más módon korlátozó hatást gyakoroljon rá.
 
-51.[^16] Állatgyógyászati ápolószer: olyan termék, amely az állati testtel (így különösen bőr, szőrzet, karom, pata, külső hallójárat, szemkörnyék, tőgy, külső nemi szervek, fogak, fogíny, szájnyálkahártya), vagy annak környezetével kerül érintkezésbe elsődlegesen olyan céllal, hogy azokat tisztítsa, illatosítsa, hidratálja, kondicionálja, védje, ápolja, azok megjelenését megváltoztassa, a kellemetlen szagot enyhítse, vagy az állatokat egymáshoz szoktassa, illetve egymástól távol tartsa.
+51.[^18] Állatgyógyászati ápolószer: olyan termék, amely az állati testtel (így különösen bőr, szőrzet, karom, pata, külső hallójárat, szemkörnyék, tőgy, külső nemi szervek, fogak, fogíny, szájnyálkahártya), vagy annak környezetével kerül érintkezésbe elsődlegesen olyan céllal, hogy azokat tisztítsa, illatosítsa, hidratálja, kondicionálja, védje, ápolja, azok megjelenését megváltoztassa, a kellemetlen szagot enyhítse, vagy az állatokat egymáshoz szoktassa, illetve egymástól távol tartsa.
 
-52.[^17] Állatgyógyászatban használatos gyógyhatású készítmény: olyan állatokon alkalmazható készítmény, amely nem minősül állatgyógyászati készítménynek, vagy állategészségügyi biocid terméknek, és amely állatok betegségeinek kiegészítő kezelésére alkalmazható, valamint kedvező biológiai hatással rendelkezik, továbbá előírásszerű használata esetén nincs káros hatása, illetve mellékhatása, továbbá élelmiszertermelő állatokon történő alkalmazás esetén nincs élelmezés-egészségügyi várakozási ideje, valamint a fogyasztók számára egészségi ártalmat nem okoz.
+52.[^19] Állatgyógyászatban használatos gyógyhatású készítmény: olyan állatokon alkalmazható készítmény, amely nem minősül állatgyógyászati készítménynek, vagy állategészségügyi biocid terméknek, és amely állatok betegségeinek kiegészítő kezelésére alkalmazható, valamint kedvező biológiai hatással rendelkezik, továbbá előírásszerű használata esetén nincs káros hatása, illetve mellékhatása, továbbá élelmiszertermelő állatokon történő alkalmazás esetén nincs élelmezés-egészségügyi várakozási ideje, valamint a fogyasztók számára egészségi ártalmat nem okoz.
 
-53.[^18] Állatgyógyászati segédanyag: a gerinces állatok testével érintkezésbe kerülő, állatorvosi beavatkozást segítő, jelző értékű vagy diagnosztikai vizsgálatot elősegítő anyag.
+53.[^20] Állatgyógyászati segédanyag: a gerinces állatok testével érintkezésbe kerülő, állatorvosi beavatkozást segítő, jelző értékű vagy diagnosztikai vizsgálatot elősegítő anyag.
 
-54.[^19] Állati vérkészítmény: emlősállatok véréből származó állatgyógyászati készítmény; az állati vérkészítmény az 1774/2002/EK rendelet I. melléklete 4. pontja szerinti vérterméknek, valamint az 1774/2002/EK rendelet I. melléklete 54. pontja szerinti műszaki terméknek minősül.
+54.[^21] Állati vérkészítmény: emlősállatok véréből származó állatgyógyászati készítmény; az állati vérkészítmény az 1774/2002/EK rendelet I. melléklete 4. pontja szerinti vérterméknek, valamint az 1774/2002/EK rendelet I. melléklete 54. pontja szerinti műszaki terméknek minősül.
 
-55.[^20] Állati vérkészítményt előállító hely: az állati vérkészítmény előállítására szolgáló az 1774/2002/EK rendelet I. melléklete 53. pontja szerinti műszaki üzem.
+55.[^22] Állati vérkészítményt előállító hely: az állati vérkészítmény előállítására szolgáló az 1774/2002/EK rendelet I. melléklete 53. pontja szerinti műszaki üzem.
 
-56.[^21] Biocid hatóanyag: anyag, mikroorganizmus, ideértve a vírusokat és gombákat is, amely a kártékony biológiai szervezetekre, vagy azokkal szemben általános vagy meghatározott hatást gyakorol.
+56.[^23] Biocid hatóanyag: anyag, mikroorganizmus, ideértve a vírusokat és gombákat is, amely a kártékony biológiai szervezetekre, vagy azokkal szemben általános vagy meghatározott hatást gyakorol.
 
-57.[^22] Donor: az az emlősállat, amelyből másik állatnak, illetve saját maga számára gyógyító vagy megelőző céllal vért vagy vérkomponenst vesznek le.
+57.[^24] Donor: az az emlősállat, amelyből másik állatnak, illetve saját maga számára gyógyító vagy megelőző céllal vért vagy vérkomponenst vesznek le.
 
-58.[^23] Fehérvérsejt- és thrombocytaszegény teljes vér: tartalmazza a donor vérének sejtes elemei közül a vörösvérsejteket (nyomokban thrombocytákat és fehérvérsejteket is) és a vér nem sejtes elemeit, valamint a vértartósító oldat anyagait.
+58.[^25] Fehérvérsejt- és thrombocytaszegény teljes vér: tartalmazza a donor vérének sejtes elemei közül a vörösvérsejteket (nyomokban thrombocytákat és fehérvérsejteket is) és a vér nem sejtes elemeit, valamint a vértartósító oldat anyagait.
 
-59.[^24] Friss fagyasztott vérplazma (FFP): a vérvételtől számított 8 órán belül szeparált vérplazma –18°C-ra történő fagyasztásával előállított készítmény, mely tartalmazza a vér nem sejtes elemeit, valamint a vértartósító oldat anyagait.
+59.[^26] Friss fagyasztott vérplazma (FFP): a vérvételtől számított 8 órán belül szeparált vérplazma –18°C-ra történő fagyasztásával előállított készítmény, mely tartalmazza a vér nem sejtes elemeit, valamint a vértartósító oldat anyagait.
 
-60.[^25] Friss teljes vér: a donor vérének összes sejtes – melyek közül a fehérvérsejtek és a thrombocyták funkcionálisan aktívak – és nem sejtes elemét, valamint a vértartósító oldat anyagait tartalmazza. A készítmény a vérvételtől számítva 24 óráig minősül friss teljes vérnek, ezután tartósított teljes vérnek kell minősíteni.
+60.[^27] Friss teljes vér: a donor vérének összes sejtes – melyek közül a fehérvérsejtek és a thrombocyták funkcionálisan aktívak – és nem sejtes elemét, valamint a vértartósító oldat anyagait tartalmazza. A készítmény a vérvételtől számítva 24 óráig minősül friss teljes vérnek, ezután tartósított teljes vérnek kell minősíteni.
 
-61.[^26] Krioprecipitátum: friss fagyasztott plazma 4°C-on való felolvasztásakor keletkező csapadék.
+61.[^28] Krioprecipitátum: friss fagyasztott plazma 4°C-on való felolvasztásakor keletkező csapadék.
 
-62.[^27] Recipiens: az állati vérkészítményt kapó emlősállat.
+62.[^29] Recipiens: az állati vérkészítményt kapó emlősállat.
 
-63.[^28] Szermaradékok: az állategészségügyi biocid termék felhasználása után visszamaradó anyag vagy anyagok maradékai, ideértve ezeknek az anyagoknak az anyagcsere-, bomlás- és reakciótermékeit is.
+63.[^30] Szermaradékok: az állategészségügyi biocid termék felhasználása után visszamaradó anyag vagy anyagok maradékai, ideértve ezeknek az anyagoknak az anyagcsere-, bomlás- és reakciótermékeit is.
 
-64.[^29] Tartósított teljes vér: a donor vérének összes sejtes – melyek közül a fehérvérsejtek és thrombocyták funkcionálisan inaktívak – és nem sejtes elemét, valamint a vértartósító oldat anyagait tartalmazza. Eltarthatósága a vértartósító anyagoktól függ.
+64.[^31] Tartósított teljes vér: a donor vérének összes sejtes – melyek közül a fehérvérsejtek és thrombocyták funkcionálisan inaktívak – és nem sejtes elemét, valamint a vértartósító oldat anyagait tartalmazza. Eltarthatósága a vértartósító anyagoktól függ.
 
-65.[^30] Termékismertető: az állatgyógyászatban használatos gyógyhatású készítményhez, ápolószerhez és segédanyaghoz mellékelt, a felhasználó tájékoztatására szolgáló nyomtatvány.
+65.[^32] Termékismertető: az állatgyógyászatban használatos gyógyhatású készítményhez, ápolószerhez és segédanyaghoz mellékelt, a felhasználó tájékoztatására szolgáló nyomtatvány.
 
-66.[^31] Thrombocytadús plazma: egy egység vérből (hozzávetőlegesen 450 ml) az ún. „buffy coat” technikával készített megközelítőleg 40 ml mennyiségű oldat, mely 5x1010 koncentrációban tartalmaz funkcionálisan aktív thrombocytákat.
+66.[^33] Thrombocytadús plazma: egy egység vérből (hozzávetőlegesen 450 ml) az ún. „buffy coat” technikával készített megközelítőleg 40 ml mennyiségű oldat, mely 5x1010 koncentrációban tartalmaz funkcionálisan aktív thrombocytákat.
 
-67.[^32] Transzfúzió: gyógyító vagy megelőző célzattal vér vagy vérkészítmény bejuttatása a recipiens emlősállat érrendszerébe.
+67.[^34] Transzfúzió: gyógyító vagy megelőző célzattal vér vagy vérkészítmény bejuttatása a recipiens emlősállat érrendszerébe.
 
-68.[^33] Véradás: olyan folyamat, mely során vért vesznek le valamely donortól azzal a céllal, hogy azt a későbbiekben állati vérkészítmény előállításához használják.
+68.[^35] Véradás: olyan folyamat, mely során vért vesznek le valamely donortól azzal a céllal, hogy azt a későbbiekben állati vérkészítmény előállításához használják.
 
-69.[^34] Vérdepó: ellenőrzött tárolórendszer, amely biztonságosan elzárható, fertőzésmentes környezetben, meghatározott hőmérsékleten, elkülönítetten biztosítja az azonosítható terápiás vérkészítmény tartós tárolását.
+69.[^36] Vérdepó: ellenőrzött tárolórendszer, amely biztonságosan elzárható, fertőzésmentes környezetben, meghatározott hőmérsékleten, elkülönítetten biztosítja az azonosítható terápiás vérkészítmény tartós tárolását.
 
-70.[^35] Vörösvérsejtkoncentrátum: egy egység vérből előállított saját plazmában szegény készítmény, mely minimálisan 0,7 l/l koncentrációban tartalmaz vörösvérsejteket és a vértartósító oldat anyagait.
+70.[^37] Vörösvérsejtkoncentrátum: egy egység vérből előállított saját plazmában szegény készítmény, mely minimálisan 0,7 l/l koncentrációban tartalmaz vörösvérsejteket és a vértartósító oldat anyagait.
 
-71.[^36] Vérszérum: Alvadási faktorokat nem tartalmazó vérplazma.
+71.[^38] Vérszérum: Alvadási faktorokat nem tartalmazó vérplazma.
 
-72.[^37] Kábítószerként kezelendő készítmény: a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 1. melléklet K1, K2 és P2 jegyzékén szereplő, kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó állatgyógyászati készítmény.
+72.[^39] Kábítószerként kezelendő készítmény: a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 1. melléklet K1, K2 és P2 jegyzékén szereplő, kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó állatgyógyászati készítmény.
 
-73.[^38] Transzponder: állatgyógyászati segédanyagnak minősülő, csak olvasható, passzív, rádiófrekvenciás, elektronikus azonosító eszköz, mikrochip, amely megfelel
+73.[^40] Transzponder: állatgyógyászati segédanyagnak minősülő, csak olvasható, passzív, rádiófrekvenciás, elektronikus azonosító eszköz, mikrochip, amely megfelel
 
 a) a kedvtelésből tartott állatok esetében a kedvtelésből tartott állatok nem kereskedelmi célú mozgásáról és a 998/2003/EK rendelet hatályon kívül helyezésérő szóló, 2013. június 12-i 576/2013/EU európai parlamenti és tanácsi rendelet II. mellékletében,
 
@@ -170,56 +170,56 @@ b) a lófélék esetében a 90/426/EGK és a 90/427/EGK tanácsi irányelvnek a 
 
 ## foglalt feltételeknek.
 
-74.[^39] Antimikrobiális rezisztencia: a mikroorganizmusok túlélési vagy szaporodási képessége egy antimikrobiális szer adott koncentrációjú, ugyanazon fajhoz tartozó mikroorganizmusok életfolyamatainak gátlásához vagy elpusztításához rendszerint elegendő jelenléte mellett;
+74.[^41] Antimikrobiális rezisztencia: a mikroorganizmusok túlélési vagy szaporodási képessége egy antimikrobiális szer adott koncentrációjú, ugyanazon fajhoz tartozó mikroorganizmusok életfolyamatainak gátlásához vagy elpusztításához rendszerint elegendő jelenléte mellett;
 
-75.[^40] Antimikrobiális szer: mikroorganizmusok okozta fertőzések gyógykezelésére vagy megelőzésére szolgáló anyag, beleértve az antibiotikumokat, valamint a vírus-, gomba- vagy protozoon-ellenes hatással rendelkező anyagokat;
+75.[^42] Antimikrobiális szer: mikroorganizmusok okozta fertőzések gyógykezelésére vagy megelőzésére szolgáló anyag, beleértve az antibiotikumokat, valamint a vírus-, gomba- vagy protozoon-ellenes hatással rendelkező anyagokat;
 
-76.[^41] Antibiotikum: baktériumok okozta fertőzések gyógykezelésére vagy megelőzésére szolgáló anyag;
+76.[^43] Antibiotikum: baktériumok okozta fertőzések gyógykezelésére vagy megelőzésére szolgáló anyag;
 
-77.[^42] Hatóanyag előállítás: a felhasznált hatóanyag teljes és részleges gyártása vagy harmadik országból történő behozatala, valamint a készletek elosztásának, csomagolásának és kiszerelésének különböző folyamatai az állatgyógyászati készítménybe való beépítést megelőzően, beleértve az újracsomagolást vagy az újracímkézést, amelyeket a kiindulási anyagok forgalmazója végez;
+77.[^44] Hatóanyag előállítás: a felhasznált hatóanyag teljes és részleges gyártása vagy harmadik országból történő behozatala, valamint a készletek elosztásának, csomagolásának és kiszerelésének különböző folyamatai az állatgyógyászati készítménybe való beépítést megelőzően, beleértve az újracsomagolást vagy az újracímkézést, amelyeket a kiindulási anyagok forgalmazója végez;
 
-78.[^43] Profilaxis: klinikai tüneteket nem mutató állat vagy állatcsoport állatgyógyászati készítménnyel történő kezelése, a klinikai megbetegedés vagy fertőződés megelőzése céljából;
+78.[^45] Profilaxis: klinikai tüneteket nem mutató állat vagy állatcsoport állatgyógyászati készítménnyel történő kezelése, a klinikai megbetegedés vagy fertőződés megelőzése céljából;
 
-79.[^44] Megrendelő: az állatorvos által közvetlenül az állatgyógyászati termék kiszolgáltatója részére kiállított, egy vagy több állatgyógyászati termék megrendelésére szolgáló, papíralapú vagy hitelesített elektronikus dokumentum;
+79.[^46] Megrendelő: az állatorvos által közvetlenül az állatgyógyászati termék kiszolgáltatója részére kiállított, egy vagy több állatgyógyászati termék megrendelésére szolgáló, papíralapú vagy hitelesített elektronikus dokumentum;
 
-80.[^45] Metafilaxis: állatok állatgyógyászati készítménnyel történő csoportos kezelése, amennyiben az adott állományban vagy járványügyi egységben az azonos fajú állatok egy része már klinikai megbetegedés tüneteit mutatja, a klinikai tüneteket mutató állatok gyógykezelése és a betegség továbbterjedésének megakadályozása céljából.
+80.[^47] Metafilaxis: állatok állatgyógyászati készítménnyel történő csoportos kezelése, amennyiben az adott állományban vagy járványügyi egységben az azonos fajú állatok egy része már klinikai megbetegedés tüneteit mutatja, a klinikai tüneteket mutató állatok gyógykezelése és a betegség továbbterjedésének megakadályozása céljából.
 
-[^7]: A 3. § a 70/2013. (VII. 31.) VM rendelet 111. § 1. és 2. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 2. pontja szerint módosított szöveg.
-[^8]: A 4. § 6. pontja a 27/2021. (VIII. 11.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^9]: A 4. § 8. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 3. pontja szerint módosított szöveg.
-[^10]: A 4. § 10. pontja a 27/2021. (VIII. 11.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^11]: A 4. § 17a. pontját a 22/2014. (III. 14.) VM rendelet 71. § (1) bekezdése iktatta be.
-[^12]: A 4. § 21. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 4. pontja szerint módosított szöveg.
-[^13]: A 4. § 29. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 3. pontja szerint módosított szöveg.
-[^14]: A 4. § 34. pontját a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^15]: A 4. § 50. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^16]: A 4. § 51. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^17]: A 4. § 52. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^18]: A 4. § 53. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^19]: A 4. § 54. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^20]: A 4. § 55. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^21]: A 4. § 56. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^22]: A 4. § 57. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^23]: A 4. § 58. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^24]: A 4. § 59. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^25]: A 4. § 60. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^26]: A 4. § 61. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^27]: A 4. § 62. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^28]: A 4. § 63. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^29]: A 4. § 64. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^30]: A 4. § 65. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^31]: A 4. § 66. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^32]: A 4. § 67. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^33]: A 4. § 68. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^34]: A 4. § 69. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^35]: A 4. § 70. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^36]: A 4. § 71. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^37]: A 4. § 72. pontját a 77/2013. (IX. 10) VM rendelet 1. §-a iktatta be.
-[^38]: A 4. § 73. pontját a 46/2015. (VIII. 7.) FM rendelet 48. §-a iktatta be.
-[^39]: A 4. § 74. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
-[^40]: A 4. § 75. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
-[^41]: A 4. § 76. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
-[^42]: A 4. § 77. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
-[^43]: A 4. § 78. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
-[^44]: A 4. § 79. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
-[^45]: A 4. § 80. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
+[^9]: A 3. § a 70/2013. (VII. 31.) VM rendelet 111. § 1. és 2. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 2. pontja szerint módosított szöveg.
+[^10]: A 4. § 6. pontja a 27/2021. (VIII. 11.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: A 4. § 8. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 3. pontja szerint módosított szöveg.
+[^12]: A 4. § 10. pontja a 27/2021. (VIII. 11.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^13]: A 4. § 17a. pontját a 22/2014. (III. 14.) VM rendelet 71. § (1) bekezdése iktatta be.
+[^14]: A 4. § 21. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 4. pontja szerint módosított szöveg.
+[^15]: A 4. § 29. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 3. pontja szerint módosított szöveg.
+[^16]: A 4. § 34. pontját a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^17]: A 4. § 50. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^18]: A 4. § 51. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^19]: A 4. § 52. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^20]: A 4. § 53. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^21]: A 4. § 54. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^22]: A 4. § 55. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^23]: A 4. § 56. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^24]: A 4. § 57. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^25]: A 4. § 58. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^26]: A 4. § 59. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^27]: A 4. § 60. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^28]: A 4. § 61. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^29]: A 4. § 62. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^30]: A 4. § 63. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^31]: A 4. § 64. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^32]: A 4. § 65. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^33]: A 4. § 66. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^34]: A 4. § 67. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^35]: A 4. § 68. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^36]: A 4. § 69. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^37]: A 4. § 70. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^38]: A 4. § 71. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^39]: A 4. § 72. pontját a 77/2013. (IX. 10) VM rendelet 1. §-a iktatta be.
+[^40]: A 4. § 73. pontját a 46/2015. (VIII. 7.) FM rendelet 48. §-a iktatta be.
+[^41]: A 4. § 74. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
+[^42]: A 4. § 75. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
+[^43]: A 4. § 76. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
+[^44]: A 4. § 77. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
+[^45]: A 4. § 78. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
+[^46]: A 4. § 79. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.
+[^47]: A 4. § 80. pontját a 27/2021. (VIII. 11.) AM rendelet 3. § (3) bekezdése iktatta be.

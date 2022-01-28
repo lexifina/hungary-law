@@ -1,3 +1,3 @@
-1. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^410]
+1. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^371]
 
-[^410]: Az 1. számú melléklet a 46/2015. (VIII. 7.) FM rendelet 52. § 17. pontja szerint módosított szöveg.
+[^371]: Az 1. számú melléklet a 46/2015. (VIII. 7.) FM rendelet 52. § 17. pontja szerint módosított szöveg.

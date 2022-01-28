@@ -1,6 +1,6 @@
 80. § (1) A forgalomba hozatali engedély jogosultjának a mellékhatás-figyelő rendszerrel kapcsolatos feladatokat végző szakirányú képzettségű, felelős személyt kell foglalkoztatnia vagy megbíznia. A megbízási szerződésben a felelős személyt meg kell nevezni.
 
-(2)[^270] Felelős személy csak az Európai Unióban letelepedett személy lehet. A felelős személy köteles
+(2)[^241] Felelős személy csak az Európai Unióban letelepedett személy lehet. A felelős személy köteles
 
 a) gondoskodni olyan rendszer kialakításáról és fenntartásáról, amely biztosítja a 79. § (3) bekezdésében felsorolt adatokról a cég személyzetének – beleértve a képviselőit is – tudomására jutó információk összegyűjtését és rendszerezését, hogy ezen információk az Európai Unió területének legalább egy pontján elérhetők legyenek,
 
@@ -12,4 +12,4 @@ d) biztosítani minden egyéb, a rendszeres előny-kockázat viszony értékelé
 
 e) megőrizni a bejelentések adatait legalább nyolc évig, nyolc évnél hosszabb időre szóló magyarországi forgalomba hozatali engedély esetén addig az időpontig, amíg a készítmény forgalomba hozatali engedéllyel rendelkezik.
 
-[^270]: A 80. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 29. §-ával megállapított szöveg.
+[^241]: A 80. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 29. §-ával megállapított szöveg.

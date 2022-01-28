@@ -1,12 +1,12 @@
-69. § (1)[^228] Állatgyógyászati készítményekkel kiskereskedelmi tevékenységet folytatni – az emberi felhasználásra kerülő gyógyszerek forgalmazására jogosult kivételével – működési engedéllyel lehet.
+69. § (1)[^192] Állatgyógyászati készítményekkel kiskereskedelmi tevékenységet folytatni – az emberi felhasználásra kerülő gyógyszerek forgalmazására jogosult kivételével – működési engedéllyel lehet.
 
 (2) Állatgyógyászati készítmény hatóanyagával kiskereskedelmi tevékenységet folytatni tilos.
 
 (3) Nem minősül kiskereskedelemnek, ha az állatorvos a hazai Helyes Állatorvosi Gyakorlatnak megfelelő, legfeljebb egy havi állatgyógyászati készítmény szükségletét kielégítő kézi gyógyszertári készletet tart az általa ellátott állatok kezeléséhez.
 
-(4)[^229] A személyi és tárgyi feltételek tekintetében a 8. számú melléklet II. fejezetének előírásait kell betartani. Az engedélyben foglaltaktól csak az engedély módosítását követően lehet eltérni.
+(4)[^193] A személyi és tárgyi feltételek tekintetében a 8. számú melléklet II. fejezetének előírásait kell betartani. Az engedélyben foglaltaktól csak az engedély módosítását követően lehet eltérni.
 
-(5)[^230] A kiskereskedő folyamatosan részletes elektronikus nyilvántartást vezet, és minden egyes bevételezési vagy kiadási ügyletnél – a (7) bekezdésben megfogalmazott kivétellel – köteles nyilvántartásba venni:
+(5)[^194] A kiskereskedő folyamatosan részletes elektronikus nyilvántartást vezet, és minden egyes bevételezési vagy kiadási ügyletnél – a (7) bekezdésben megfogalmazott kivétellel – köteles nyilvántartásba venni:
 
 a) a bevételezés, kiadás időpontját,
 
@@ -28,6 +28,6 @@ g) az állatorvosnak, orvosnak vagy gyógyszerésznek vény nélkül kiadott, eg
 
 (8) Amennyiben a bevételezés, illetve kiadás olyan számlára történt, amely tartalmazza az (5) bekezdés a)–e) pontjaiban előírt adatokat, úgy a nyilvántartásban elegendő csak a számla számát feltüntetni és az ellenőrzéskor a nyilvántartást a hozzá tartozó számla megőrzött példányával együtt bemutatni.
 
-[^228]: A 69. § (1) bekezdése a 27/2021. (VIII. 11.) AM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^229]: A 69. § (4) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 18. pontja szerint módosított szöveg.
-[^230]: A 69. § (5) bekezdés nyitó szövegrésze a 27/2021. (VIII. 11.) AM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^192]: A 69. § (1) bekezdése a 27/2021. (VIII. 11.) AM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^193]: A 69. § (4) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 18. pontja szerint módosított szöveg.
+[^194]: A 69. § (5) bekezdés nyitó szövegrésze a 27/2021. (VIII. 11.) AM rendelet 23. § (2) bekezdésével megállapított szöveg.

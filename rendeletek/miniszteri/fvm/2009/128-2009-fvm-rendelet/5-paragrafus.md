@@ -14,6 +14,6 @@
 
 (3) A forgalomba hozatali engedély jogosultja felelős azért, hogy az állatgyógyászati készítmény megfeleljen a forgalomba hozatali engedélyben foglaltaknak.
 
-(4)[^50] A forgalomba hozatali engedélyt a NÉBIH adja ki.
+(4)[^52] A forgalomba hozatali engedélyt a NÉBIH adja ki.
 
-[^50]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^52]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

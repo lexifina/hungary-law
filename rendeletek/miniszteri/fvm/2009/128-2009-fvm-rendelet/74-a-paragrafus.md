@@ -1,4 +1,4 @@
-74/A. §[^250] (1) Élelmiszer-termelő állat részére az állattartó általi alkalmazás esetén legfeljebb hét nap időtartamú kezelésre elegendő mennyiségű antibiotikum-hatóanyagú készítmény rendelhető.
+74/A. §[^214] (1) Élelmiszer-termelő állat részére az állattartó általi alkalmazás esetén legfeljebb hét nap időtartamú kezelésre elegendő mennyiségű antibiotikum-hatóanyagú készítmény rendelhető.
 
 (2) Antibiotikum-hatóanyagú készítmény megrendelőnek nem minősülő állatorvosi vényen rendelhető.
 
@@ -64,4 +64,4 @@ bc) felhasználási helye.
 
 (9) A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
 
-[^250]: A 74/A. §-t a 27/2021. (VIII. 11.) AM rendelet 26. § (4) bekezdése iktatta be.
+[^214]: A 74/A. §-t a 27/2021. (VIII. 11.) AM rendelet 26. § (4) bekezdése iktatta be.

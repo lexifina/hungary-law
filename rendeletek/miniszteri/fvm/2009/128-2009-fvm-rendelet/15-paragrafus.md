@@ -1,3 +1,5 @@
+## 14. §[^75]
+
 15. § (1)[^76] A kérelmezőnek nem kell benyújtania a 12. § (5) bekezdésének j) pontja szerinti ártalmatlansági és maradékanyag vizsgálatok, a preklinikai vizsgálatok és a klinikai kísérletek eredményeit, ha bizonyítani tudja – az üzleti titok védelmére, az iparjogvédelemre és a szerzői jogra vonatkozó külön jogszabályokban foglaltak betartásával –, hogy az állatgyógyászati készítmény hatóanyagainak használata az állategészségügy területén legalább 10 éve általánosan elfogadott az Európai Unióban („well established use”), továbbá e hatóanyagok elismert hatékonysággal és elfogadható ártalmatlansággal rendelkeznek a 2. számú mellékletben felsorolt feltételek értelmében. Ebben az esetben a kérelmezőnek a fentieket tudományosan alátámasztó, lektorált folyóiratban megjelent szakirodalmat kell benyújtania.
 
 (2) A maradékanyagok felső határértékeinek a 470/2009/EK rendelettel összhangban való megállapítása iránt benyújtott kérelem értékelését követően az Európai Gyógyszer Ügynökség által közzétett értékelő jelentést megfelelő módon fel lehet használni szakirodalomként, különösen az ártalmatlansági vizsgálatok vonatkozásában.
@@ -10,4 +12,5 @@
 
 (6) Az immunológiai állatgyógyászati készítmények engedélyezése során el lehet tekinteni a 12. § (5) bekezdésének j) pontja szerinti a célállatokon végzett gyakorlati kipróbálási eredmények benyújtásától, ha ezeket a kísérleteket megfelelően igazolt okok, különösen európai uniós jogi aktusban szereplő rendelkezés miatt nem lehet végrehajtani.
 
+[^75]: A 14. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 1. pontja hatályon kívül helyezte.
 [^76]: A 15. § (1) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 8. pontja szerint módosított szöveg.

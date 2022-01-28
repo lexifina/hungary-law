@@ -1,16 +1,16 @@
 ## A nyilvántartásba vétel iránti kérelem és annak elbírálása
 
-114/O. § (1)[^389] Az egyéb gyógyhatású készítmény nyilvántartásba vétele iránti kérelmet a forgalmazó vagy a gyártó vagy képviselőjük nyújthatja be a NÉBIH-hez. A kérelemhez egy példányban magyar vagy angol nyelven csatolni kell a 12. számú melléklet szerinti adatokat és dokumentumokat.
+114/O. § (1)[^350]
 
-(2)[^390] A NÉBIH a kérelmezőtől további a készítmény ártalmatlanságára és hatásosságára vonatkozó adatokat kérhet, ha a termék összetétele, feltételezett hatása, alkalmazási körülménye ezt indokolttá teszi.
+(2)[^351]
 
-(3)[^391] A kérelmet a csatolt dokumentumokkal a NÉBIH megvizsgálja és arról értékelő jelentést készít. Az értékelő jelentést és a készítmény nyilvántartásba vételéről szóló igazolást a NÉBIH megküldi a kérelmezőnek. Az igazolás mellékletét képezi a jóváhagyott termékismertető, címke és nyomdai végleg-minta.
+(3)[^352]
 
-(4)[^392] A NÉBIH a 12. számú mellékletben előírt dokumentációban szereplő adatok igazolására a kérelmezőtől termékmintát kérhet.
+(4)[^353] A NÉBIH a 12. számú mellékletben előírt dokumentációban szereplő adatok igazolására a kérelmezőtől termékmintát kérhet.
 
 (5) A benyújtott adatok helyességéért a kérelmezőt, a gyártás és az egyenletes minőség biztosításáért a gyártót terheli a felelősség.
 
-[^389]: A 114/O. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 34. pontja szerint módosított szöveg.
-[^390]: A 114/O. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 35. pontja szerint módosított szöveg.
-[^391]: A 114/O. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
-[^392]: A 114/O. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 35. pontja szerint módosított szöveg.
+[^350]: A 114/O. § (1) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 16. pontja hatályon kívül helyezte.
+[^351]: A 114/O. § (2) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 16. pontja hatályon kívül helyezte.
+[^352]: A 114/O. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 16. pontja hatályon kívül helyezte.
+[^353]: A 114/O. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 35. pontja szerint módosított szöveg.
