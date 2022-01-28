@@ -10,5 +10,8 @@
 
 4.[^6] mintavételi és megfelelőség-igazolási terv: egyéb, mérnöki, műszaki tanácsadási feladatok megvalósítása keretében készített és ellenőrzött terv, amely megfelel a mintavételi és megfelelőség-igazolási terv alkalmazása, tartalmi és formai követelményeiről szóló építésügyi műszaki irányelvben foglaltaknak.
 
+5.[^7] beruházás koordinációja: a lebonyolító megbízottjaként ellátott beruházás szervezési és tanácsadási feladatok ellátása a beruházás szakszerű, gazdaságos megvalósítása, valamint a beruházás egyes szereplői tevékenységének összehangolása érdekében.
+
 [^5]: A 2. § 3. pontját a 269/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^6]: A 2. § 4. pontját a 225/2021. (V. 4.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 2. § 5. pontját a 24/2022. (I. 27.) Korm. rendelet 1. §-a iktatta be.
