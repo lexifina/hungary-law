@@ -2,8 +2,6 @@
 
 12. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) A külképviselet-vezető
+(2)[^14]
 
-a) e rendelet hatálybalépését követő hat hónapon belül felülvizsgálja az e rendelet hatálybalépésekor helyi alkalmazottként foglalkoztatott alkalmazott munkavállalókkal kötött munkaszerződéseket, és a felülvizsgálat eredménye alapján a hatályos jogszabályi környezetnek való megfelelés érdekében megteszi a szükséges lépéseket, valamint
-
-b) három hónapon belül kezdeményezi a minisztériumnál azon munkavállalók biztonsági ellenőrzésének újbóli elvégzését, akik ellenőrzésére 2016. július 1-ét megelőzően került sor.
+[^14]: A 12. § (2) bekezdését a 2/2022. (I. 27.) KKM rendelet 21. § c) pontja hatályon kívül helyezte.

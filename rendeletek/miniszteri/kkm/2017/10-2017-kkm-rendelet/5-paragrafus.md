@@ -21,3 +21,7 @@ f) a büntetlen előéletet igazoló hatósági bizonyítványt, illetve – kü
 (4) A kiválasztott házastárs foglalkoztatása kapcsán az alkalmazás biztonsági feltételeinek megvizsgálását követően a minisztérium írásban nyilatkozik a külképviselet-vezető felé egyetértésről vagy elutasításáról.
 
 (5) A házastárs munkavállaló járandóságainak számfejtése, valamint a hozzá kapcsolódó adó- és járulékfizetés Magyarországon történik.
+
+(6)[^4] Biztonsági szempontú kockázat felmerülése esetén az érintett személlyel nem létesíthető jogviszony. A biztonsági szempontú kockázat megjelölése vonatkozásában a döntési folyamatban részt vevőket indokolási kötelezettség nem terheli.
+
+[^4]: Az 5. § (6) bekezdését a 2/2022. (I. 27.) KKM rendelet 14. §-a iktatta be.
