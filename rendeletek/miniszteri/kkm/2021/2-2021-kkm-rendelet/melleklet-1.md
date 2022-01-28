@@ -1,8 +1,6 @@
-## 18. §[^1]
+1. melléklet a 2/2021. (II. 2.) KKM rendelethez[^3]
 
-1. melléklet a 2/2021. (II. 2.) KKM rendelethez
-
-## A meghagyásba bevont külgazdasági és külügyi szervek
+A meghagyásba bevont külgazdasági és külügyi szervek
 
 1. Demokrácia Központ Közalapítvány
 
@@ -10,7 +8,7 @@
 
 3. CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság
 
-4. Comitatus-Energia Beruházási Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság
+4. CEI Közép-európai Befektetési Zártkörűen Működő Részvénytársaság
 
 5. HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság
 
@@ -20,12 +18,12 @@
 
 8. KKM Subsidium Korlátolt Felelősségű Társaság
 
-9. Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság
+9. Külügyi és Külgazdasági Intézet
 
-10. Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság
+10. Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság
 
-11. MANEVI Zártkörű Részvénytársaság
+11. Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság
 
-12. MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság
+12. Tom Lantos Intézet
 
-[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2/2022. (I. 27.) KKM rendelet 30. § (1) bekezdésével megállapított szöveg.
