@@ -16,8 +16,13 @@ e) a Külszoltv. 25. § (13) bekezdésében meghatározott, lakhatásra vonatkoz
 
 f) a pályázattal kapcsolatos egyéb követelményeket és információkat
 
+## tartalmazza.
+
+(4)[^14] Pályázatot a pályázat kiírása idején – hivatali érdekből, indokolt esetben – a pályázatban megjelölt tartós külszolgálati munkakörben tartós külszolgálatot teljesítő, az 1. § (1) és (1a) bekezdésében meghatározott személy is benyújthat. Az e bekezdés szerinti pályázat esetén a 3. § (1) bekezdés b) pontja szerinti várakozási idő meglétének hiányában a pályázó azon munkakörre, amiben jelenleg is tartós külszolgálatot teljesít érvényesen pályázatot nyújthat be.
+
 [^9]: A 4. § (1) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja szerint módosított szöveg.
 [^10]: A 4. § (2) bekezdése a 6/2019. (X. 28.) KKM rendelet 3. §-ával megállapított, a 12. § 6. pontja szerint módosított szöveg.
 [^11]: A 4. § (3) bekezdés a) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 7–8. pontja szerint módosított szöveg.
 [^12]: A 4. § (3) bekezdés b) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9–10. pontja szerint módosított szöveg.
 [^13]: A 4. § (3) bekezdés c) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 11. pontja szerint módosított szöveg.
+[^14]: A 4. § (4) bekezdését a 2/2022. (I. 27.) KKM rendelet 6. §-a iktatta be.

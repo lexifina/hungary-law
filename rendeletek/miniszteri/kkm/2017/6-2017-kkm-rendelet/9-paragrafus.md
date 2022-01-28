@@ -4,9 +4,9 @@ a) a pályázati kiírásban meghatározott benyújtási határidőn túl érkez
 
 b) nem felel meg az e rendeletben, valamint a pályázati kiírásban előírt feltételeknek,
 
-c)[^47] nem tartalmazza a 3. § (1) bekezdése szerinti pályázó esetében a pályázó – minisztériummal jogviszonyban álló – közvetlen felettes vezetője, illetve a 3. § (1a) és (1b) bekezdése szerinti pályázó esetében a szerv vezetője véleményét.
+c)[^49] nem tartalmazza a 3. § (1) bekezdése szerinti pályázó esetében a pályázó – minisztériummal jogviszonyban álló – közvetlen felettes vezetője, illetve a 3. § (1a) és (1b) bekezdése szerinti pályázó esetében a szerv vezetője véleményét.
 
-(2)[^48] A pályázó nem helyezhető ki arra a tartós külszolgálati munkakörre tartós külszolgálatra, amely tekintetében pályázata érvénytelen volt.
+(2)[^50] A pályázó nem helyezhető ki arra a tartós külszolgálati munkakörre tartós külszolgálatra, amely tekintetében pályázata érvénytelen volt.
 
-[^47]: A 9. § (1) bekezdés c) pontját a 6/2019. (X. 28.) KKM rendelet 9. §-a iktatta be.
-[^48]: A 9. § (2) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja szerint módosított szöveg.
+[^49]: A 9. § (1) bekezdés c) pontját a 6/2019. (X. 28.) KKM rendelet 9. §-a iktatta be.
+[^50]: A 9. § (2) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja szerint módosított szöveg.
