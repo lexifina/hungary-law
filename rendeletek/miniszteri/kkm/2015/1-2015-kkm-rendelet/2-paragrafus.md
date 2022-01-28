@@ -1,5 +1,7 @@
-## 2. § A foglalkoztató szervezettel a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) szerinti foglalkoztatási jogviszonyban (a továbbiakban: foglalkoztatási jogviszony) vagy a Polgári Törvénykönyv szerinti szerződéses jogviszonyban álló vagy ilyen jogviszonyt létesíteni szándékozó személyek esetében az 1. mellékletben meghatározott
+2. §[^2] (1) Az 1. § a) pontja szerinti foglalkoztató szervezettel a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) szerinti foglalkoztatási jogviszonyban (a továbbiakban: foglalkoztatási jogviszony) álló vagy ilyen jogviszonyt létesíteni szándékozó személy esetében valamennyi munkakör, illetve álláshely betöltésére irányuló foglalkoztatási jogviszony az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.
 
-a) munkakör betöltésére irányuló foglalkoztatási jogviszony, illetve
+(2) Az 1. § a) pontja szerinti foglalkoztató szervezettel a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti szerződéses jogviszonyban (a továbbiakban: szerződéses jogviszony) álló személy jogviszonya az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül, ha a szerződéses jogviszony a foglalkoztató szervezet közhatalmi tevékenységét érintő feladat ellátására irányul.
 
-b) feladat ellátására irányuló, a Polgári Törvénykönyv szerinti szerződéses jogviszony
+(3) Az 1. § a) pontja szerinti foglalkoztató szervezettel szerződéses jogviszonyban álló személy jogviszonya az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül, ha a jogviszony a foglalkoztató szervezet által meghatározott funkcionális jellegű, a foglalkoztató szervezet közhatalmi tevékenységét nem érintő feladat ellátására irányul, és a jogviszony betöltője a feladatellátásával összefüggésben jogellenes befolyással vagy leplezett támadással fenyegetett.
+
+[^2]: A 2. § a 2/2022. (I. 27.) KKM rendelet 3. §-ával megállapított szöveg.
