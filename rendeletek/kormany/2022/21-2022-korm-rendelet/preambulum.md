@@ -1,1 +1,0 @@
-A Kormány a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 172. § (1) bekezdés c) pontjában, valamint a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 5. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
