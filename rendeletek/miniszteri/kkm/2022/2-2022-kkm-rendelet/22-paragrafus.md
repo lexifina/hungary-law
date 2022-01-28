@@ -1,0 +1,1 @@
+## 6. A külképviseletre tartós külszolgálatra kihelyezett kormánytisztviselők részére nyújtható kamatmentes illetmény- és költségtérítés-előleg, valamint kizárólag gépkocsivásárlás céljára nyújtható kölcsön részletes szabályairól szóló 3/2020. (II. 17.) KKM rendelet módosítása

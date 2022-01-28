@@ -1,0 +1,19 @@
+A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 81. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. §-ában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 107. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben –,
+
+a 2. alcím tekintetében a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 78. § (1a) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 18. cikk (2) bekezdésében meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 19. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben –,
+
+a 3. alcím tekintetében külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés c) és j) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 4. alcím tekintetében a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés i) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+az 5. alcím és az 1. melléklet tekintetében a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés g) és o) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 6. alcím tekintetében a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés m) és n) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 7. alcím tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (6a) bekezdésében, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés q) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. § 2. pontjában meghatározott feladatkörömben eljárva,
+
+a 30. § (1) bekezdése és a 2. melléklet tekintetében a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 68. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. §-ában és az Alaptörvény 18. cikk (2) bekezdésében meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 107. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben –,
+
+a 30. § (2) bekezdése és a 3. melléklet tekintetében a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 81. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. §-ában és az Alaptörvény 18. cikk (2) bekezdésében meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 107. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben –
+
+a következőket rendelem el:
