@@ -40,4 +40,4 @@ g) nem engedélyezi az általa adott sorszám – ideértve a sztornózott sorsz
 
 (7) Az (5) és a (6) bekezdésben foglalt esetben az adatszolgáltató köteles az esetlegesen elveszett adatok pótlásáról haladéktalanul gondoskodni.
 
-[^1]: A 75. § a 93. § (2) bekezdése alapján 2022. január 29-én lép hatályba.
+[^1]: A 75. § a 93. § (2) bekezdése alapján 2022. június 1-jén lép hatályba.

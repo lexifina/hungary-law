@@ -1,4 +1,4 @@
-## 100. §[^4]
+## 100. §[^5]
 
 ## 45. Az Európai Unió jogának való megfelelés
 
@@ -18,4 +18,4 @@ f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az alkoholtartal
 
 g) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőből készült termékek fizikai, kémiai és érzékszervi jellemzőinek meghatározására szolgáló analitikai módszerek, valamint a természetes alkoholtartalom növelésére vonatkozó tagállami határozatokról szóló értesítések tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2019. április 16-i (EU) 2019/935 bizottsági végrehajtási rendelet
 
-[^4]: A 100. § a 93. § (2) bekezdése alapján 2022. január 29-én lép hatályba.
+[^5]: A 100. § a 93. § (2) bekezdése alapján 2022. június 1-jén lép hatályba.
