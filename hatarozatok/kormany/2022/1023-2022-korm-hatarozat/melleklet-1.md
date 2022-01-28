@@ -28,15 +28,7 @@
 
 ## 3. A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az 1. melléklet A oszlopa szerinti kormányhatározatokban foglalt, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb az adott sor H oszlopában szereplő összegében kötelezettséget vállaljon.
 
-## 4. A Kormány visszavonja
-
-## a) a Gazdaságvédelmi Akcióterv keretében a gödi ipari-innovációs fejlesztési terület infrastruktúra-fejlesztéseiről szóló 1173/2020. (IV. 22.) Korm. határozat 1.4. pont e) alpontját, 1.11. pontját és 1.11a. pontját,
-
-## b) az iváncsai ipari-innovációs fejlesztési terület kialakításával összefüggő villamosenergia infrastruktúra-fejlesztés megvalósításához szükséges intézkedésekről szóló 1383/2021. (VI. 15.) Korm. határozat 3. pontját,
-
-## c) az iváncsai ipari-innovációs fejlesztési terület kialakításával összefüggő vízgazdálkodási és víziközmű infrastruktúra-fejlesztések megvalósításához szükséges intézkedésekről szóló 1384/2021. (VI. 15.) Korm. határozat 4. pontját,
-
-## d) a Tatabánya–Oroszlány–Tata és térsége víziközmű-hálózatának komplex előkészítése, fejlesztése, hatékonyságának növelése és rekonstrukciója megvalósításához szükséges intézkedésekről szóló 1558/2021. (VIII. 5.) Korm. határozat 4. és 5. pontját.
+## 4.[^1]
 
 1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz
 
@@ -57,3 +49,5 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 | 6. | 1384/2021. (VI. 15.) Korm. határozat | 6 522 000 000 | 10 453 000 000 | 16 090 000 000 | 2 803 000 000 | 0 | 0 | 35 868 000 000 |
 
 | 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 11 581 417 091 | 11 581 417 091 | 5 790 708 546 | 0 | 0 | 44 271 209 239 |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
