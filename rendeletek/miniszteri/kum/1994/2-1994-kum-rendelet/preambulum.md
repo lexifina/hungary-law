@@ -1,1 +1,0 @@
-A honvédelemről szóló 1993. évi CX. törvény végrehajtása tárgyában kiadott 178/1993. (XII. 27.) Korm. rendelet 106. § (3) bekezdésében kapott felhatalmazás alapján a szakképzettségük, tapasztalatuk vagy egyéb ok miatt más személyekkel nem pótolható beosztást betöltő tartalékos hadkötelesek meghagyásával kapcsolatos követelményekre az alábbiakat rendelem el:
