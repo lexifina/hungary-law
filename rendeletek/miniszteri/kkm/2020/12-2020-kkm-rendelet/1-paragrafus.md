@@ -12,7 +12,7 @@ d) a tartós külszolgálati kihelyezés előtt álló és kihelyezésre kerül�
 
 e) a Külszoltv. 2. § 16. pont szerinti külképviselet által foglalkoztatott házastársra
 
-## terjed ki.
+terjed ki.
 
 (2) E rendeletnek az (1) bekezdés a) pontja szerinti tartós külszolgálatra kihelyezettekre vonatkozó rendelkezéseit az (1) bekezdés b) pontja szerinti hozzátartozóra és az (1) bekezdés e) pontja szerinti, a Külszoltv. 2. § 16. pont szerinti külképviselet által foglalkoztatott házastársra megfelelően kell alkalmazni azzal, hogy a „tartós külszolgálatra való alkalmasság”
 

@@ -28,7 +28,7 @@ a) az 1. § (1) bekezdés a), valamint c)–e) pontja szerinti személy esetébe
 
 b) az 1. § (1) bekezdés b) pontja szerinti személy esetében egészségügyi
 
-## alkalmassági vizsgálatra terjed ki.
+alkalmassági vizsgálatra terjed ki.
 
 (5) A (4) bekezdés szerinti vizsgálat csak akkor végezhető a területileg illetékes járóbeteg-szakellátó helyen, ha a kihelyező szerv által működtett foglalkozás-egészségügyi szolgálat nem rendelkezik a vizsgálatok elvégzéséhez szükséges személyi és tárgyi feltételekkel, továbbá a térítési díj megfizetése megtörtént.
 
