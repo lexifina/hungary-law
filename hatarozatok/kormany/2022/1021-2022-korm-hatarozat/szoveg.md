@@ -6,10 +6,6 @@ Felelős: a miniszterelnök általános helyettese
 
 Határidő: folyamatos
 
-2. visszavonja
+2.[^1]
 
-a) a Magyar Köztársaság Kormánya, valamint a Magyar Katolikus Egyház, a Magyarországi Református Egyház és a Magyarországi Evangélikus Egyház között az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek jövedelempótlékáról szóló megállapodások megkötéséről szóló 1138/2001. (XII. 26.) Korm. határozatot,
-
-b) a Magyar Köztársaság Kormánya, valamint a Magyarországi Baptista Egyház, a Magyarországi Unitárius Egyház, az Evangéliumi Pünkösdi Közösség, a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Orthodox Exarchátusa, a Budai Szerb Ortodox Egyházmegye és a Magyarországi Román Ortodox Egyház között az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek jövedelempótlékáról szóló megállapodások megkötéséről szóló 1039/2002. (IV. 19.) Korm. határozatot, valamint
-
-c) a Miniszterelnöki Hivatal, valamint tizenkét határon túli egyházi jogi személy között az 5000 lakosnál kisebb magyar szórványú települések gyülekezeteiben magyar nyelven szolgálatot teljesítő egyházi személyek kiegészítő támogatásáról szóló megállapodások megkötéséről szóló 2172/2004. (VII. 12.) Korm. határozatot.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
