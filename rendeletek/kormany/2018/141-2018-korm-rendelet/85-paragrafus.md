@@ -1,0 +1,4 @@
+## 84. §[^242] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 22/2022. (I. 25.) Korm. rendelettel (a továbbiakban: Módr76.) módosított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, megállapított 5/A. §-át és 2. mellékletében foglalt táblázat 86. sorát a Módr76. hatálybalépésekor[^243] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^242]: A 84. §-t a 22/2022. (I. 25.) Korm. rendelet 2. §-a iktatta be.
+[^243]: A hatálybalépés időpontja 2022. január 26.

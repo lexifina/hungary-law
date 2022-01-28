@@ -186,6 +186,8 @@
 
 | 86. | Acélszerkezet gyártó üzem létrehozása | Debrecen közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0362/110, 0362/119, 0362/120 és 0362/124 helyrajzi számú ingatlanok | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^245]
+| 87. | Gyáregység létrehozására irányuló beruházás Komárom területén | Komárom közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 7127/2 helyrajzi számú ingatlan | Komárom-Esztergom Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^245]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^247]
+
+[^247]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

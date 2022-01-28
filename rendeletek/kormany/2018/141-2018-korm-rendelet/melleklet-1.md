@@ -1,4 +1,4 @@
-## 84. §[^241] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 22/2022. (I. 25.) Korm. rendelettel (a továbbiakban: Módr76.) módosított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, megállapított 5/A. §-át és 2. mellékletében foglalt táblázat 86. sorát a Módr76. hatálybalépésekor[^242] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 85. §[^244] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 25/2022. (I. 27.) Korm. rendelettel (a továbbiakban: Módr77.) módosított 3. § (3) bekezdését, 5/B. §-át és 2. mellékletében foglalt táblázat 87. sorát a Módr77. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^243] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^245] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^241]: A 84. §-t a 22/2022. (I. 25.) Korm. rendelet 2. §-a iktatta be.
-[^242]: A hatálybalépés időpontja 2022. január 26.
-[^243]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^244]: A 85. §-t a 25/2022. (I. 27.) Korm. rendelet 2. §-a iktatta be.
+[^245]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
