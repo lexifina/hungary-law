@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-805-20-
 | --- | --- | --- |
 | 2022-01-01 | 2021-805-20-22.1 | 805/2021. (XII. 28.) Korm. rendelet |
 | 2022-01-02 | 2021-805-20-22.2 | 2010: CXXX. törvény |
+| 2022-01-28 | 2021-805-20-22.3 | 305/2023. (VII. 11.) Korm. rendelet |

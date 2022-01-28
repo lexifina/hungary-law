@@ -1,5 +1,3 @@
-## 2. §
-
 ## 2. Záró rendelkezések
 
 3. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2022. január 1-jén lép hatályba.
