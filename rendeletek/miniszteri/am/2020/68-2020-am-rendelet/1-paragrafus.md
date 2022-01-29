@@ -1,6 +1,6 @@
 ## 1. A krízisbiztosítási rendszerhez történő csatlakozás és a tagsági jogviszony
 
-1. § (1) A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. tv.) alapján az Mkk. tv. 2. § 23. pontja szerinti mezőgazdasági termelő önkéntesen, a mezőgazdasági krízisbiztosítási rendszerhez (a továbbiakban: krízisbiztosítási rendszer) történő csatlakozási kérelme (a továbbiakban: csatlakozási kérelem) benyújtásával a krízisbiztosítási rendszerben tagsági jogviszonyt szerez.
+1. § (1)[^1] A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. tv.) alapján az Mkk. tv. 2. § 23. pontja szerinti mezőgazdasági termelő, továbbá a családi gazdaságokról szóló 2020. évi CXXIII. törvény 6. § (1) bekezdése szerinti őstermelők családi gazdaságának képviselője (a továbbiakban: képviselő) (a továbbiakban együtt: mezőgazdasági termelő) önkéntesen, a mezőgazdasági krízisbiztosítási rendszerhez (a továbbiakban: krízisbiztosítási rendszer) történő csatlakozási kérelme (a továbbiakban: csatlakozási kérelem) benyújtásával a krízisbiztosítási rendszerben tagsági jogviszonyt szerez.
 
 (2) Csatlakozási kérelem benyújtására az a mezőgazdasági termelő jogosult, aki vagy amely
 
@@ -39,3 +39,12 @@ a) az Mkk. tv. 19/C. § (2) bekezdésében foglalt esetben, vagy
 b) ha a krízisbiztosítási rendszerben tag mezőgazdasági termelő a (7) bekezdés szerinti hároméves időszak leteltének évét követő év február 28-áig újabb csatlakozási kérelmet nem nyújt be az elektronikus űrlapkitöltő felületen keresztül a krízisbiztosítási szervhez.
 
 (9) A mezőgazdasági termelő a krízisbiztosítási rendszerben kizárólag a krízisbiztosítási szerv honlapján közzétett közleményben felsorolt, mezőgazdasági tevékenység eredményeként előállított valamennyi mezőgazdasági termékével részt vesz.
+
+(10)[^2] Őstermelők családi gazdasága esetében
+
+a) az őstermelők családi gazdaságának képviselője az őstermelők családi gazdaságának minden tagja vonatkozásában jogosult a csatlakozási kérelmet benyújtani, azzal, hogy a tagok minden mezőgazdasági tevékenységük eredményeként előállított mezőgazdasági termékkel részt vesznek a krízisbiztosítási rendszerben, vagy
+
+b) ha az a) pontban foglaltak szerint a családi gazdaság képviselője nem nyújt be kérelmet a családi gazdaság tagja nevében, az őstermelők családi gazdaságának tagja önállóan jogosult a csatlakozási kérelmet benyújtani, azzal, hogy minden mezőgazdasági tevékenysége eredményeként előállított mezőgazdasági termékével részt vesz a krízisbiztosítási rendszerben, és a mezőgazdasági jövedelmének kimutatása a 6. § (7) bekezdés c) pontja szerint történik.
+
+[^1]: Az 1. § (1) bekezdése a 3/2022. (I. 28.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (10) bekezdését a 3/2022. (I. 28.) AM rendelet 1. § (2) bekezdése iktatta be.

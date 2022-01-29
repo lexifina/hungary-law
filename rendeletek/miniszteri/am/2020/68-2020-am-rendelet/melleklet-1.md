@@ -1,4 +1,4 @@
-## 21. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet a jövedelemstabilizáló eszközről szóló 36. és 39. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
+## 22. §[^8] E rendeletnek a mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet módosításáról szóló 3/2022. (I. 28.) AM rendelettel megállapított 1. § (1) és (10) bekezdését, 2. § (1) bekezdés c) pontját, valamint 2. § (9) bekezdését 2022. február 1-jétől kell alkalmazni.
 
 1. melléklet a 68/2020. (XII. 23.) AM rendelethez
 
@@ -39,3 +39,5 @@ ahol:
 A1+A2+….+An= az év egyes takarmányozási napjainak állatlétszám adata darabban
 
 n= az év napjainak száma, szökőévben 366 nap
+
+[^8]: A 22. §-t a 3/2022. (I. 28.) AM rendelet 3. §-a iktatta be.
