@@ -1,1 +1,3 @@
-## 4. § Az R. 3. § (3) bekezdésében a „75., 79.” szövegrész helyébe a „75., 77., 79.” szöveg lép.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
