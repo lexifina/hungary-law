@@ -1,5 +1,3 @@
-## 2. § A 128/2009. (X. 6.) FVM rendelet 2. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## (E rendeletet nem kell alkalmazni)
-
-## „a) a gyógyszeres takarmányok felhasználásának nyomon követését célzó adatszolgáltatási kötelezettségre vonatkozó rendelkezések kivételével a gyógyszeres takarmányok előállítására, forgalomba hozatalára és felhasználására,”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
