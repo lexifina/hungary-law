@@ -1,4 +1,4 @@
-## 6. § A szőlő- és bortermelés részletes szabályairól szóló 26/2021. (VII. 29.) AM rendelet 61. § (2) bekezdésében a „január 29-én” szövegrész helyébe a „június 1-jén” szöveg lép.
+## 6. §[^6]
 
 ## 6. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) Az 1. §, a 4. §, az 5. § és a 8. § az e rendelet kihirdetését követő harmadik napon lép hatályba.
 
 (3) A 2. § és a 3. § 2022. február 1-jén lép hatályba.
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
