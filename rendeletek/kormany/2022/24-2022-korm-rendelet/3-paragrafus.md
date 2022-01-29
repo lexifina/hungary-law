@@ -1,9 +1,5 @@
-## 2. § Az R. 5. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-## (A Társaság az 1. mellékletben foglalt táblázatban meghatározott építési beruházások tekintetében a Kormány egyedi határozatában foglalt döntése szerint)
-
-## „c) a teljes beruházás folyamatának nyomon követését, illetve koordinációját,”
-
-## (végezheti.)
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
