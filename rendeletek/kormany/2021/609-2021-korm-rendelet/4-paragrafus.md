@@ -1,5 +1,0 @@
-## 3. §[^4]
-
-## 2. A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet módosítása
-
-[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
