@@ -1,5 +1,3 @@
-## 9. § Az R2. 7. § (8) bekezdés k) pontja helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## (A Külszoltv. 1. melléklete szerinti adminisztratív- és technikai munkakörök betöltéséhez szükséges szakmai követelmények)
-
-## „k) rejtjelzői kiegészítő feladatkör ellátása esetén érvényes rejtjelzői vizsga és TÜK vizsga.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

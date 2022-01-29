@@ -1,1 +1,3 @@
-## 23. § Az R4. 17. §-ában az „alatt” szövegrész helyébe az „alatt, a kihelyezett által bemutatott számla alapján,” szöveg lép.
+## 23. §[^24]
+
+[^24]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

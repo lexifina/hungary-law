@@ -1,1 +1,3 @@
-## 10. § Az R2. 7. § (5) bekezdés nyitó szövegrészében a „gazdasági régiók igazgatásáért felelős” szövegrész helyébe a „regionális gazdasági igazgató” szöveg lép.
+## 10. §[^11]
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

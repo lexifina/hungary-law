@@ -1,7 +1,3 @@
-## 26. § Az R5. 9. § a) pontja helyébe a következő rendelkezés lép:
+## 26. §[^27]
 
-## (A kihelyező szerv kezdeményezésére a 4. és 5. § szerinti záróvizsgálatot kell végezni)
-
-## „a) a tartós külszolgálat megszűnése, illetve megszüntetése esetén a végleges hazatérést”
-
-## (követően.)
+[^27]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

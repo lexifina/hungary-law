@@ -1,3 +1,3 @@
-## 6. § A tartós külszolgálati pályázati rendszerről, valamint a kihelyező szerv által támasztott szakmai követelmények és azok teljesítésének részletes szabályairól szóló 6/2017. (VII.10.) KKM rendelet (a továbbiakban: R2.) 4. §-a a következő (4) bekezdéssel egészül ki:
+## 6. §[^7]
 
-## „(4) Pályázatot a pályázat kiírása idején – hivatali érdekből, indokolt esetben – a pályázatban megjelölt tartós külszolgálati munkakörben tartós külszolgálatot teljesítő, az 1. § (1) és (1a) bekezdésében meghatározott személy is benyújthat. Az e bekezdés szerinti pályázat esetén a 3. § (1) bekezdés b) pontja szerinti várakozási idő meglétének hiányában a pályázó azon munkakörre, amiben jelenleg is tartós külszolgálatot teljesít érvényesen pályázatot nyújthat be.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

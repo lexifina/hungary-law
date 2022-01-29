@@ -1,3 +1,3 @@
-## 25. § A kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági és pszichológiai alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének részletes szabályairól szóló 12/2020. (VII. 30.) KKM rendelet (a továbbiakban: R5.) 6. § (1) bekezdése helyébe a következő rendelkelés lép:
+## 25. §[^26]
 
-## „(1) Tartós külszolgálatra való alkalmasságra vonatkozó 4. és 5. § szerinti előzetes vizsgálatot kell végezni a Külszoltv. szerinti kihelyezést megelőzően, valamint a külképviselet által foglalkoztatott házastársi alkalmazást megelőzően, azzal, hogy a külképviselet által foglalkoztatott házastárs esetén a vizsgálat – hivatali érdek fennállása esetén – az alkalmazás hatálya alatt, legkésőbb a jogviszony megszűnéséig lefolytatható.”
+[^26]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

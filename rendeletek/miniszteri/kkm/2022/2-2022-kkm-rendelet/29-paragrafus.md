@@ -1,3 +1,3 @@
-## 28. § Az R5. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 28. §[^29]
 
-## „(1) Ha az 1. § (1) bekezdése szerinti személy az egészségügyi alkalmasság elsőfokú véleményével nem ért egyet, az orvosi vélemény igazolt kézbesítésének, elektronikus kézbesítés esetén az igazolt hozzáférhetővé válásának a napjától számított 30 napon belül kérheti az egészségügyi alkalmasság másodfokon történő orvosi elbírálását az első fokon eljáró szervnél.”
+[^29]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

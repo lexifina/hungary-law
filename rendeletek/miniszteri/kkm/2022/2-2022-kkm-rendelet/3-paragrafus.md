@@ -1,5 +1,3 @@
-## 2. § A külgazdasági és külügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 1/2015. (IV. 10.) KKM rendelet (a továbbiakban: R1.) 1. § b) pontja helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## (E rendelet alkalmazásában foglalkoztató szervezet)
-
-## „b) – az Információs Hivatal kivételével – a külgazdasági és külügyminiszter által irányított, illetve felügyelt központi államigazgatási szerv és”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

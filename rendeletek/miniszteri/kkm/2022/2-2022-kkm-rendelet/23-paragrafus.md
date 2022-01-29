@@ -1,3 +1,3 @@
-## 22. § A külképviseletre tartós külszolgálatra kihelyezett kormánytisztviselők részére nyújtható kamatmentes illetmény- és költségtérítés-előleg, valamint kizárólag gépkocsivásárlás céljára nyújtható kölcsön részletes szabályairól szóló 3/2020. (II. 17.) KKM rendelet (a továbbiakban: R4.) 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 22. §[^23]
 
-## „(1) Az illetményelőleg és a költségtérítés-előleg folyósítása a minisztérium belföldi állományában felkészülését töltő, 45 napon belül kihelyezésre kerülő esetében forintban, az állomáshelyén tartós külszolgálatát töltő kihelyezett részére a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 26. § (1) bekezdésének megfelelően. A gépkocsivásárlási kölcsön igénylése, jóváhagyása és utalása forintban történik az alapértelmezett bankszámlára. Az igényelt forint euróra vagy USA-dollárra történő átváltása a terhelés napján érvényes MNB árfolyamon történik.”
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

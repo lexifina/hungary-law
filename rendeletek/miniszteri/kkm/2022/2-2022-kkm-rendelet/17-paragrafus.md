@@ -1,3 +1,3 @@
-## 16. § Az R3. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 16. §[^17]
 
-## „(3) Házastárs munkavállaló távollétét – a magyar jog szerint – a munkakör alapján a külképviselet-vezető vagy a regionális gazdasági igazgató engedélyezi. A házastárs munkavállaló rendes évi szabadságát a külképviselet-vezető hagyja jóvá.”
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

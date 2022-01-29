@@ -1,3 +1,3 @@
-## 27. § Az R5. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 27. §[^28]
 
-## „(1) Az 1. § (1) bekezdése szerinti kormánytisztviselő tartós külszolgálatra, illetve a külképviselet által foglalkoztatott házastárs az állomáshelyen életvitelszerű tartózkodásra alkalmas, ha az egészségügyi alkalmassági vizsgálaton és a pszichikai alkalmassági vizsgálaton külön-külön alkalmasnak minősült. Nem helyezhető ki tartós külszolgálat ellátására az az 1. § (1) bekezdése szerinti kormánytisztviselő, a külképviselet által foglalkoztatni kívánt házastárssal nem köthető munkaszerződés, illetve a külképviselet által foglalkoztatott házastársnak a munkaszerződését meg kell szüntetni, akinek az egészségügyi alkalmassági vizsgálat vagy a pszichológiai alkalmassági vizsgálat alapján a minősítése alkalmatlan vagy ideiglenesen alkalmatlan.”
+[^28]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
