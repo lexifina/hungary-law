@@ -1,6 +1,6 @@
 ## 6. A földmérési és térinformatikai államigazgatási szerv kijelölése
 
-27. § (1)[^96] A Kormány a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörének gyakorlására a földügyért felelős minisztert, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaságot, valamint a Nemzeti Földügyi Központot jelöli ki. A (2) bekezdésben és a 38. §-ban meghatározott hatósági hatásköröket a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság, a (3) bekezdésben meghatározott hatósági hatáskört a földügyért felelős miniszter által vezetett minisztérium, a (4) bekezdésben meghatározott hatásköröket a Nemzeti Földügyi Központ gyakorolja.
+27. § (1)[^98] A Kormány a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörének gyakorlására a földügyért felelős minisztert, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaságot, valamint a Nemzeti Földügyi Központot jelöli ki. A (2) bekezdésben és a 38. §-ban meghatározott hatósági hatásköröket a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság, a (3) bekezdésben meghatározott hatósági hatáskört a földügyért felelős miniszter által vezetett minisztérium, a (4) bekezdésben meghatározott hatásköröket a Nemzeti Földügyi Központ gyakorolja.
 
 (2) A földmérési és térinformatikai államigazgatási szerv országos illetékességgel
 
@@ -8,7 +8,7 @@ a) eljár a jogszabályokban meghatározott vagy delegált országos adatbáziso
 
 b) működteti a nemzeti téradat-infrastruktúra rendszert,
 
-c)[^97] üzemelteti a kozmikus geodéziai obszervatóriumot, továbbá ellátja a GNSSnet.hu hálózat létesítésével, fenntartásával kapcsolatos feladatokat, valamint arra épülő helymeghatározó szolgáltatásokat nyújt,
+c)[^99] üzemelteti a kozmikus geodéziai obszervatóriumot, továbbá ellátja a GNSSnet.hu hálózat létesítésével, fenntartásával kapcsolatos feladatokat, valamint arra épülő helymeghatározó szolgáltatásokat nyújt,
 
 d) eljár a földügyi igazgatás országos szintű adatainak feldolgozása, szakmai információs rendszerek, adattárak fejlesztése, üzemeltetése, más számítógépes rendszerekkel a kapcsolat és a folyamatos adatcsere biztosítása során,
 
@@ -16,7 +16,7 @@ e) eljár a földmérési, térképészeti és távérzékelési tudományos kut
 
 f) ellátja az ország teljes területére vonatkozó állami földmérési alaptérképek eladási példányainak őrzését, valamint az állami topográfiai térképek eredeti és eladási példányainak őrzését, kezelését, szolgáltatását, illetve értékesítését,
 
-g)[^98] fenntartja, fejleszti és szolgáltatja az ország területére a domborzatmodellt, a felületmodellt, valamint geoportált üzemeltet és azon keresztül adatot szolgáltat,
+g)[^100] fenntartja, fejleszti és szolgáltatja az ország területére a domborzatmodellt, a felületmodellt, valamint geoportált üzemeltet és azon keresztül adatot szolgáltat,
 
 h) vezeti a közigazgatási és fekvéshatárok adatbázisának központi nyilvántartását és abból adatot szolgáltat,
 
@@ -28,13 +28,13 @@ k) ellátja az ingatlan-nyilvántartás, az ingatlan-nyilvántartási térképke
 
 l) kutatási és műszaki fejlesztési feladatokat végez, ezen belül különösen a szakmai információs rendszerek fejlesztését, irányítását, rendszerfelügyeletét, valamint a földügyi igazgatást érintő földmérési, térképészeti, távérzékelési és térinformatikai tudományos kutatások végzését, országos összhangjának megvalósítását látja el,
 
-m)[^99] közreműködik a Nemzeti Földügyi Központ (4) bekezdés szerinti feladatainak ellátásában,
+m)[^101] közreműködik a Nemzeti Földügyi Központ (4) bekezdés szerinti feladatainak ellátásában,
 
-n)[^100]
+n)[^102]
 
-o)[^101]
+o)[^103]
 
-p)[^102] ellátja a nemzetközi és európai uniós kötelezettségből származó feladatokat,
+p)[^104] ellátja a nemzetközi és európai uniós kötelezettségből származó feladatokat,
 
 q) ellátja a nemzeti téradat-infrastruktúra alapjainak létrehozásával és fenntartásával kapcsolatos jogszabályban meghatározott feladatokat,
 
@@ -46,30 +46,30 @@ t) tevékenységi körébe tartozó szakértői véleményt készít,
 
 u) ellátja a szakirányú konferenciák, valamint a szakirányú továbbképzés akkreditálását,
 
-v)[^103] kiállítja a földmérő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást,
+v)[^105] kiállítja a földmérő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást,
 
 w) jogszabályban foglaltaknak megfelelően ellátja az ingatlanrendező földmérő minősítéssel kapcsolatos feladatokat,
 
 x) fenntartja és működteti az országos földügyi és távérzékelési levéltárat.
 
-(3)[^104] A földmérési és térinformatikai államigazgatási szerv országos illetékességgel kiállítja a földminősítő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást.
+(3)[^106] A földmérési és térinformatikai államigazgatási szerv országos illetékességgel kiállítja a földminősítő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást.
 
-(4)[^105] A Nemzeti Földügyi Központ – a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság közreműködésével – országos illetékességgel
+(4)[^107] A Nemzeti Földügyi Központ – a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság közreműködésével – országos illetékességgel
 
-a)[^106] a Magyar Államkincstárral kötött átruházási megállapodásban meghatározottak szerint ellátja a Nemzeti Földügyi Központ feladatairól szóló 158/2019. (VI. 28.) Korm. rendelet 4/A. § b) pontja szerinti feladatokat,
+a)[^108] a Magyar Államkincstárral kötött átruházási megállapodásban meghatározottak szerint ellátja a Nemzeti Földügyi Központ feladatairól szóló 158/2019. (VI. 28.) Korm. rendelet 4/A. § b) pontja szerinti feladatokat,
 
 b) eljár a parlagfűvel szennyezett területekkel kapcsolatos adatbázisok kezelésével, változásvezetésével és adatszolgáltatási feladatokkal kapcsolatban,
 
 c) ellátja a szőlőültetvények azonosítását, az ágazati támogatások kifizetése, valamint a bor eredetvédelme térképi ellenőrzésének alapját szolgáló rendszer adatbázisainak előállítását, változásvezetését és a közzétételével kapcsolatos, jogszabályban meghatározott feladatokat.
 
-[^96]: A 27. § (1) bekezdése a 220/2019. (IX. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
-[^97]: A 27. § (2) bekezdés c) pontja a 713/2020. (XII. 30.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
-[^98]: A 27. § (2) bekezdés g) pontja a 713/2020. (XII. 30.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
-[^99]: A 27. § (2) bekezdés m) pontja a 220/2019. (IX. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^100]: A 27. § (2) bekezdés n) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
-[^101]: A 27. § (2) bekezdés o) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
-[^102]: A 27. § (2) bekezdés p) pontja a 713/2020. (XII. 30.) Korm. rendelet 45. § c) pontja szerint módosított szöveg.
-[^103]: A 27. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 51. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^104]: A 27. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 50. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^105]: A 27. § (4) bekezdését a 220/2019. (IX. 12.) Korm. rendelet 2. § (3) bekezdése iktatta be, nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
-[^106]: A 27. § (4) bekezdés a) pontja a 665/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^98]: A 27. § (1) bekezdése a 220/2019. (IX. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
+[^99]: A 27. § (2) bekezdés c) pontja a 713/2020. (XII. 30.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^100]: A 27. § (2) bekezdés g) pontja a 713/2020. (XII. 30.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
+[^101]: A 27. § (2) bekezdés m) pontja a 220/2019. (IX. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^102]: A 27. § (2) bekezdés n) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
+[^103]: A 27. § (2) bekezdés o) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
+[^104]: A 27. § (2) bekezdés p) pontja a 713/2020. (XII. 30.) Korm. rendelet 45. § c) pontja szerint módosított szöveg.
+[^105]: A 27. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 51. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^106]: A 27. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 50. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^107]: A 27. § (4) bekezdését a 220/2019. (IX. 12.) Korm. rendelet 2. § (3) bekezdése iktatta be, nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
+[^108]: A 27. § (4) bekezdés a) pontja a 665/2020. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
