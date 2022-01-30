@@ -2,7 +2,7 @@
 
 3. § (1) A NAK agrárigazgatási hatósági feladatai körében a falugazdász-hálózat útján:
 
-a)[^5] nyilvántartásba veszi a mezőgazdasági őstermelőket, melynek keretében kiadja, érvényesíti és bevonja az őstermelői igazolványt,
+a)[^5] nyilvántartásba veszi a mezőgazdasági őstermelőket,
 
 b) a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvényben, és az annak végrehajtására kiadott jogszabályokban foglaltaknak megfelelően felméri a mezőgazdasági káreseményt, és jogszabályokban valamint megállapodásban meghatározott adattartalommal jegyzőkönyvet állít ki,
 
@@ -27,7 +27,7 @@ f)[^7] kérelemre igazolást ad ki a földművesekről és a mezőgazdasági ter
 (3)[^8] Az (1) bekezdésben foglalt feladatok ellátásának biztosítására – a jogszabályban nem rendezett kérdések tekintetében – az agrárpolitikáért felelős miniszter és a NAK megállapodást kötnek.
 
 [^4]: A 2. § a 374/2017. (XII. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdés a) pontja a 203/2016. (VII. 21.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés a) pontja a 23/2022. (I. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 3. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 127. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^7]: A 3. § (2) bekezdés f) pontját a 38/2014. (II. 24.) Korm. rendelet 25. §-a iktatta be.
 [^8]: A 3. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 15. §-a, a 221/2014. (IX. 4.) Korm. rendelet 794. §-a szerint módosított szöveg.

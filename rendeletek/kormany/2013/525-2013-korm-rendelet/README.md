@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-525-20-
 | 2016-07-22 | 2013-525-20-22.7 | 203/2016. (VII. 21.) Korm. rendelet |
 | 2017-12-09 | 2013-525-20-22.8 | 374/2017. (XII. 8.) Korm. rendelet |
 | 2020-01-01 | 2013-525-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2022-01-30 | 2013-525-20-22.10 | 23/2022. (I. 27.) Korm. rendelet |
