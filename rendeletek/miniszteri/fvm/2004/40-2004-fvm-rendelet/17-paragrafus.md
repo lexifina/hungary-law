@@ -38,7 +38,7 @@ g) a vizsgálatok alapján a fajta állami elismerhetőségére vonatkozó javas
 
 (3b)[^65] A fajta állami elismerése iránti eljárásban a miniszter megkeresésére a NÉBIH átadja a fajtavizsgálat összefoglalását, a fajta állami elismerhetőségére vonatkozó értékelést, valamint a vizsgálati jelentés bejelentő általi kézhezvételi időpontjára vonatkozó adatot.
 
-(4)[^66] Az Európai Unió valamely tagállamában vagy harmadik országban már regisztrált fajták esetén az eredeti fajtanevet kell alkalmazni, de indokolt esetben – a mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkalmasságára vonatkozó végrehajtási szabályok megállapításáról szóló, 2009. július 22-i, 637/2009/EK bizottsági rendeletben foglaltak szerint – szinonim név adható.
+(4)[^66] Az Európai Unió valamely tagállamában vagy harmadik országban már regisztrált fajták esetén az eredeti fajtanevet kell alkalmazni, de indokolt esetben – a mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkalmasságáról és a 637/2009/EK rendelet hatályon kívül helyezéséről szóló, 2021. március 3-i (EU) 2021/384 bizottsági végrehajtási rendeletben foglaltak szerint – szinonim név adható.
 
 (5) Az állami elismerés időpontját legalább 90 nappal megelőzően a javasolt fajtanevet az Európai Unió tagállamai hatóságainak tudomására kell hozni, biztosítva a felszólalás lehetőségét.
 
@@ -49,4 +49,4 @@ g) a vizsgálatok alapján a fajta állami elismerhetőségére vonatkozó javas
 [^63]: A 17. § (3) bekezdése a 3/2018. (VI. 22.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^64]: A 17. § (3a) bekezdését a 3/2018. (VI. 22.) AM rendelet 8. § (2) bekezdése iktatta be.
 [^65]: A 17. § (3b) bekezdését a 3/2018. (VI. 22.) AM rendelet 8. § (2) bekezdése iktatta be.
-[^66]: A 17. § (4) bekezdése a 3/2018. (VI. 22.) AM rendelet 15. § q) pontja szerint módosított szöveg.
+[^66]: A 17. § (4) bekezdése a 3/2018. (VI. 22.) AM rendelet 15. § q) pontja, a 2/2022. (I. 27.) AM rendelet 1. §-a szerint módosított szöveg.
