@@ -10,6 +10,8 @@ c) a kísérleti célú ültetvényt kivéve, ha a telepítést nem osztályba s
 
 d) ha a szőlőültetvény a hegyközségi vagy a borvidéki rendtartásnak nem felel meg, és átalakítással sem lenne annak megfeleltethető.
 
+(1a)[^5] Az (1) bekezdés a) pontjában foglaltaktól eltérően a hegybíró az ültetvény használóját nem kötelezi az ültetvény kivágására, ha az ültetvény használója igazolja, hogy az ültetvény telepítésekor rendelkezett a telepítéshez szükséges újratelepítési jogosultsággal, és a mulasztási bírság megfizetésével egyidejűleg az újratelepítési engedély iránti kérelmet benyújtja a hegybíróhoz.
+
 (2) A NÉBIH vagy a kormányhivatal
 
 a) a Btv. 22. § (2) bekezdés a) pontjában meghatározott felfüggesztés jogkövetkezményt
@@ -18,7 +20,7 @@ aa) borászati termék hamisítása, illetve az így előállított termék bor�
 
 ab) az adminisztrációs kötelezettségek nagyfokú megsértése,
 
-ac) a szakmai-jövedéki nyilvántartásban nyilvántartott és a készletek közötti nagyfokú eltérés,
+ac)[^6] a szakmai-jövedéki nyilvántartásban nyilvántartott és a tényleges készletek közötti nagyfokú eltérés,
 
 ad) a melléktermék kivonására vonatkozó előírások megsértése,
 
@@ -52,7 +54,7 @@ da) laboratóriumi eredmények alapján kifogásolt termék forgalmazása,
 
 db) az adminisztrációs kötelezettségek nagyfokú megsértése,
 
-dc) a szakmai-jövedéki nyilvántartásban nyilvántartott és a készletek közötti nagyfokú eltérés,
+dc)[^7] a szakmai-jövedéki nyilvántartásban nyilvántartott és a tényleges készletek közötti nagyfokú eltérés,
 
 dd) nem nyomon követhető tételek birtokban tartása,
 
@@ -66,7 +68,7 @@ eb) laboratóriumi eredmények alapján kifogásolt, nem javítható hibában sz
 
 ec) az adminisztrációs kötelezettségek nagyfokú megsértése,
 
-ed) a szakmai-jövedéki nyilvántartásban nyilvántartott és a készletek közötti nagyfokú eltérés,
+ed)[^8] a szakmai-jövedéki nyilvántartásban nyilvántartott és a tényleges készletek közötti nagyfokú eltérés,
 
 ee) nem nyomon követhető tételek tárolása,
 
@@ -78,8 +80,32 @@ g) a Btv. 22. § (2) bekezdés h) pontjában meghatározott jogkövetkezményeke
 
 ## esetén alkalmazza.
 
+(2a)[^9] A NÉBIH vagy a kormányhivatal abban az esetben állapíthatja meg a (2) bekezdés szerinti
+
+a) adminisztrációs kötelezettségek nagyfokú megsértését, ha az ellenőrzött borászati terméktétel
+
+aa) nem rendelkezik származási bizonyítvánnyal, vagy
+
+ab) eredete vagy előállításának lépései nem nyomon követhetőek a szakmai-jövedéki nyilvántartásban szereplő bejegyzésekből;
+
+b) nagyfokú eltérést a szakmai-jövedéki nyilvántartásban nyilvántartott és a tényleges készletek között, ha a borászati üzemben tárolt bortételek ellenőrzés során megállapított összesített mennyisége legalább
+
+ba) 100 hektoliterrel vagy
+
+bb) a megállapított mennyiség 10%-ával
+
+meghaladja a szakmai-jövedéki nyilvántartásba bejegyzett mennyiséget;
+
+c) nagyfokú élelmiszer-higiéniai hiányosságok fennállását, ha az élelmiszer-higiéniai hiányosságok veszélyeztethetik a borászati terméktételek közfogyasztásra, további feldolgozásra való alkalmasságát.
+
 (3) A NÉBIH vagy a kormányhivatal a (2) bekezdés szerinti jogkövetkezmények közül azt választja, amely a szabályszegés súlyával arányos, és a legalkalmasabb a jogszerű állapot helyreállításának kikényszerítésére.
 
 (4) A kormányhivatal a (2) bekezdésben meghatározott valamely jogkövetkezmény alapjául szolgáló jogsértés három éven belül történő ismételt megvalósítása esetén a borászati üzemengedélyt visszavonja.
 
 (5) Amennyiben törvény vagy e rendelet alapján bírság kiszabásának van helye, azt az eljáró hatóság a (2) bekezdés alapján megállapított jogkövetkezmény alkalmazásával egyidejűleg szabja ki.
+
+[^5]: A 82. § (1a) bekezdését a 23/2022. (I. 27.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^6]: A 82. § (2) bekezdés a) pont ac) alpontja a 23/2022. (I. 27.) Korm. rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 82. § (2) bekezdés d) pont ac) alpontja a 23/2022. (I. 27.) Korm. rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 82. § (2) bekezdés e) pont ed) alpontja a 23/2022. (I. 27.) Korm. rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 82. § (2a) bekezdését a 23/2022. (I. 27.) Korm. rendelet 16. § (2) bekezdése iktatta be.

@@ -1,5 +1,3 @@
-## 100. §[^5]
-
 ## 45. Az Európai Unió jogának való megfelelés
 
 ## 101. § Ez a rendelet
@@ -17,5 +15,3 @@ e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazati er
 f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az alkoholtartalom-növelés engedélyezésére vonatkozó lehetőség által érintett szőlőtermő területek, az engedélyezett borászati eljárások és a szőlőből készült termékek előállítására és tartósítására alkalmazandó korlátozások, a melléktermékek százalékos arányban megadott minimális alkoholtartalma és a melléktermékek kivonása, valamint az OIV adatlapjainak közzététele tekintetében történő kiegészítéséről szóló, 2019. március 12-i (EU) 2019/934 felhatalmazáson alapuló bizottsági rendelet,
 
 g) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőből készült termékek fizikai, kémiai és érzékszervi jellemzőinek meghatározására szolgáló analitikai módszerek, valamint a természetes alkoholtartalom növelésére vonatkozó tagállami határozatokról szóló értesítések tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2019. április 16-i (EU) 2019/935 bizottsági végrehajtási rendelet
-
-[^5]: A 100. § a 93. § (2) bekezdése alapján 2022. június 1-jén lép hatályba.

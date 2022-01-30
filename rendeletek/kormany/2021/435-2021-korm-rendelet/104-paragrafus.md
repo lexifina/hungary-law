@@ -1,3 +1,3 @@
-## 103. §[^7]
+104. §[^17]
 
-[^7]: A 103. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 104. § a 23/2022. (I. 27.) Korm. rendelet 20. §-a alapján nem lép hatályba.

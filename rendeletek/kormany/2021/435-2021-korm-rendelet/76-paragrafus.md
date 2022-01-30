@@ -1,5 +1,3 @@
-## 75. §[^1]
-
 ## 38. Az ePincekönyv rendszer használata nyilvántartásba vett számítógépprogram útján
 
 76. § (1) Az ePincekönyv rendszerrel napi szintű adatkapcsolatot fenntartó, a miniszter által nyilvántartásba vett számítógépprogram (a továbbiakban: EPK számítógépprogram) használatával is teljesíthető
@@ -14,7 +12,7 @@ a) nyilvántartja a felhasználókat és azok hozzáférési jogosultságát, ny
 
 b) biztosítja az elektronikusan teljesítendő ágazati adminisztrációs kötelezettség teljesítése során az adattartalom rögzítését;
 
-c) az (1) bekezdésben meghatározott kötelezettségek teljesítése keretében rögzített adatokat legkésőbb az eseményt követő munkanap 9:00 óráig továbbítja az ePincekönyv rendszerbe;
+c)[^3] az (1) bekezdésben meghatározott kötelezettségek teljesítése keretében rögzített adatokat legkésőbb az eseményt követő munkanap 13:00 óráig továbbítja az ePincekönyv rendszerbe;
 
 d) naplózza a felhasználó által végzett munkafolyamatokat és az elektronikusan teljesítendő ágazati adminisztrációs kötelezettség teljesítése keretében rögzített vagy továbbított adatok utólagos módosítását;
 
@@ -40,4 +38,4 @@ g) nem engedélyezi az általa adott sorszám – ideértve a sztornózott sorsz
 
 (7) Az (5) és a (6) bekezdésben foglalt esetben az adatszolgáltató köteles az esetlegesen elveszett adatok pótlásáról haladéktalanul gondoskodni.
 
-[^1]: A 75. § a 93. § (2) bekezdése alapján 2022. június 1-jén lép hatályba.
+[^3]: A 76. § (2) bekezdés c) pontja a 23/2022. (I. 27.) Korm. rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
