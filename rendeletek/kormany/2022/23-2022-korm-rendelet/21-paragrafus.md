@@ -1,4 +1,4 @@
-## 20. § Nem lép hatályba a 435/2021. (VII. 16.) Korm. rendelet 104. §-a.
+## 20. §[^15]
 
 ## 4. Záró rendelkezések
 
@@ -17,3 +17,5 @@
 (7) A 19. § (2) bekezdése 2022. június 2-án lép hatályba.
 
 (8) A 7. § 2022. augusztus 1-jén lép hatályba.
+
+[^15]: A 20. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
