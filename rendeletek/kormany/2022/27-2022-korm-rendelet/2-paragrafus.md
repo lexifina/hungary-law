@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján a Pan-Inform Kutatás-fejlesztési és Innovációs Korlátolt Felelősségű Társaság (székhely: 1097 Budapest, Könyves Kálmán körút 11. B. ép. 1. em., cégjegyzékszám: 01-09-358749, adószám: 14725579-2-43) feletti irányítás Magyar Állam általi megszerzését – tekintettel az egészségügyi adatok bizalmi jellegére, valamint a számítástechnika széles körű elterjedése miatt az egészségügyi adatok fokozott védelemben való részesítésének szükségességére – közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetése napján 9 órakor lép hatályba.
