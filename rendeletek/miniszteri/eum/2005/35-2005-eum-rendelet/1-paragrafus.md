@@ -1,11 +1,5 @@
-## 1. § E rendelet előírásait az emberi felhasználásra kerülő vizsgálati készítményekkel folytatott orvostudományi kutatás (Eütv. 157. §, a továbbiakban: klinikai vizsgálat) esetében kell alkalmazni. Nem minősül klinikai vizsgálatnak a beavatkozással nem járó vizsgálat (non-interventional trial), amelyben:
+1. §[^1] (1) E rendelet előírásait az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanács rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 2. pontja szerinti klinikai vizsgálatok esetében kell alkalmazni.
 
-a) a gyógyszer rendelése nem a vizsgálat céljából történik, és
+(2) E rendeletben nem szabályozott kérdésekre az 536/2014/EU európai parlamenti és tanácsi rendeletet, az 536/2014/EU parlamenti és tanácsi rendelet szerinti helyes klinikai gyakorlatnak megfelelő inspekciós eljárásokkal kapcsolatos részletes szabályokról szóló, 2017. március 24-i (EU) 2017/556 bizottsági végrehajtási rendeletet [a továbbiakban: (EU) 2017/556 bizottsági végrehajtási rendelet], az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvényt, az Eütv.-t és az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendeletet kell alkalmazni.
 
-b) gyógyszert a klinikai gyakorlatban szokásos módon, a forgalomba hozatali engedély feltételeinek megfelelően rendelik, és
-
-c) a betegnek egy adott kezelési stratégiába való bevonását nem határozzák meg előzetesen egy vizsgálati tervben, hanem a gyógyszert az aktuális klinikai gyakorlatnak megfelelő módon rendelik, és annak rendelése világosan elválik a betegnek a vizsgálatba való bevonására vonatkozó döntéstől, és
-
-d) a betegen a szokásos klinikai gyakorlaton túlmenően kiegészítő diagnosztikai vagy monitoring eljárást nem alkalmaznak, és
-
-e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszereket alkalmaznak.
+[^1]: Az 1. § a 2/2022. (I. 14.) EMMI rendelet 10. §-ával megállapított szöveg.

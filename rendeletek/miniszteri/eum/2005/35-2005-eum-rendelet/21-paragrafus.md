@@ -1,14 +1,11 @@
-## 20. §[^53]
+## 20. §[^65]
 
-## A nemkívánatos események jelentése
+## A súlyos nemkívánatos események jelentése[^66]
 
-21. § (1)[^54] A vizsgáló az adott vizsgálati helyszínen előforduló minden súlyos nemkívánatos eseményről haladéktalanul értesíti a megbízót és az IKEB-et, kivéve azokat, amelyek a vizsgálati terv vagy a vizsgálók részére összeállított ismertető szerint nem minősülnek azonnal jelentendőknek. A vizsgáló a haladéktalan értesítést követően az eseményről részletes írásos jelentést is küld a megbízónak és az IKEB-nek. Az értesítésben és az írásos jelentésben a vizsgálati alany kizárólag egyedi kódjával azonosítható.
+21. §[^67] (1) Az 536/2014/EU európai parlamenti és tanácsi rendelet 41. cikke szerinti megbízó részére küldött jelentéssel egyidejűleg a vizsgáló az IKEB-et is értesíti, majd a súlyos nemkívánatos eseményről részletes írásos jelentést is küld az IKEB-nek. Az értesítésben és a jelentésben a vizsgálati alany kizárólag egyedi kódjával azonosítható.
 
-(2) A vizsgálati tervben a vizsgálat biztonsági értékelése szempontjából kiemelten fontosnak minősített nemkívánatos eseményeket, illetve laboratóriumi eltéréseket a vizsgáló a vizsgálati tervben előírtak szerint, az abban megadott időn belül jelenti a megbízónak.
+(2) A vizsgálati alany bejelentett halála esetén a vizsgáló minden további igényelt tájékoztatást biztosít a megbízó és az IKEB számára.
 
-(3) A vizsgálati alany bejelentett halála esetén a vizsgáló minden további igényelt tájékoztatást biztosít a megbízó és az IKEB számára.
-
-(4) A megbízó részletes nyilvántartást vezet minden nemkívánatos eseményről, amelyet a vizsgáló jelent. Ezt a nyilvántartást, erre irányuló megkeresés esetén, azoknak az EGT-megállapodásban részes államok rendelkezésre kell bocsátania, amelyek területén a klinikai vizsgálatot végzik.
-
-[^53]: A 20. §-t és az azt megelőző alcímet a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^54]: A 21. § (1) bekezdése a 32/2009. (X. 20.) EüM rendelet 12. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^65]: A 20. §-t és az azt megelőző alcímet a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^66]: A 21. §-t megelőző alcím cím 2/2022. (I. 14.) EMMI rendelet 23. § 8. pontja szerint módosított szöveg.
+[^67]: A 21. § a 2/2022. (I. 14.) EMMI rendelet 20. §-ával megállapított szöveg.
