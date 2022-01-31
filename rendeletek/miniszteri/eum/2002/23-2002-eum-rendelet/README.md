@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-23-20-0
 | 2018-07-05 | 2002-23-20-0B.25 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2019-08-20 | 2002-23-20-0B.26 | 17/2019. (VIII. 5.) EMMI rendelet |
 | 2021-08-17 | 2002-23-20-0B.27 | 35/2021. (VIII. 16.) EMMI rendelet |
+| 2022-01-31 | 2002-23-20-0B.28 | 1/2007. (I. 24.) EüM rendelet |

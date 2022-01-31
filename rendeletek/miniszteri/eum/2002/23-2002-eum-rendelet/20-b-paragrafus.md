@@ -1,4 +1,4 @@
-## 20/A. §[^47] Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-ának 8. pontja szerinti beavatkozással nem járó vizsgálatok és az emberen végzett orvostudományi kutatások engedélyezésének, illetve bejelentésének szabályairól szóló jogszabályban meghatározott beavatkozással nem járó orvostudományi kutatás esetében (a továbbiakban együtt: beavatkozással nem járó vizsgálat) a 20/B–20/S. §-ban foglaltak szerint kell eljárni.
+## 20/A. §[^47] Az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatások és az emberen végzett orvostudományi kutatások engedélyezésének, illetve bejelentésének szabályairól szóló jogszabályban meghatározott beavatkozással nem járó orvostudományi kutatás esetében (a továbbiakban együtt: beavatkozással nem járó vizsgálat) a 20/B–20/S. §-ban foglaltak szerint kell eljárni.
 
 ## 20/B. §[^48] Ezen alcím alkalmazásában:
 
@@ -26,7 +26,7 @@ g)[^53] koordináló vizsgálatvezető: többközpontú vizsgálat esetén a viz
 
 h)[^54]
 
-[^47]: A 20/A. §-t és az előtte lévő alcímet az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés g) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § d) pontja szerint módosított szöveg.
+[^47]: A 20/A. §-t és az előtte lévő alcímet az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés g) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § d) pontja, a 2/2022. (I. 14.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
 [^48]: A 20/B. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
 [^49]: A 20/B. § a) pontja a 16/2014. (III. 12.) EMMI rendelet 5. § a) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § e) pontja szerint módosított szöveg.
 [^50]: A 20/B. § b) pontja a 35/2021. (VIII. 16.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.

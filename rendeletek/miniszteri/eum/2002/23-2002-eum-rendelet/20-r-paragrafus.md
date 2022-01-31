@@ -12,7 +12,7 @@ b) a (3) bekezdés b)–c) pontjában foglalt vizsgálat első fokú, jogorvosla
 
 (3) A díj összege:
 
-a)[^89] a Gytv. 1. § 8. pontja szerinti, beavatkozással nem járó vizsgálat esetében
+a)[^89] az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatás esetében
 
 aa)[^90] a 235/2009. (X. 20.) Korm. rendelet 17. § (1) bekezdés b) pont ba) alpontja szerinti vizsgálatnál engedélyezés esetén 370 000 forint, lényeges módosítás esetén 80 000 forint;
 
@@ -60,7 +60,7 @@ d) 86. §-ában foglaltakat az elévülés
 [^86]: A 20/R. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
 [^87]: A 20/R. § (1) bekezdése a 8/2018. (II. 13.) EMMI rendelet 8. §-ával megállapított szöveg.
 [^88]: A 20/R. § (2) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^89]: A 20/R. § (3) bekezdés a) pontja a 15/2012. (VIII. 22.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^89]: A 20/R. § (3) bekezdés a) pontja a 15/2012. (VIII. 22.) EMMI rendelet 22. § (2) bekezdésével megállapított, a 2/2022. (I. 14.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
 [^90]: A 20/R. § (3) bekezdés a) pont aa) alpontja a 3/2014. (I. 16.) EMMI rendelet 2. §-a szerint módosított szöveg.
 [^91]: A 20/R. § (3) bekezdés b) pontja a 35/2021. (VIII. 16.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^92]: A 20/R. § (3) bekezdés c) pontja a 34/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított szöveg.
