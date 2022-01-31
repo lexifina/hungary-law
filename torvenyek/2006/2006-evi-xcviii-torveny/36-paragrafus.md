@@ -34,7 +34,7 @@ c) 20%-áig terjedhet, ha a ráfordítások nem haladják meg a termelőiár-ar�
 
 (11) Az engedmény összegének meghatározásakor figyelembe vett kutatási és fejlesztési ráfordításokat csökkenteni kell
 
-a) a IV. fázisú klinikai vizsgálatok költségével, valamint az emberi felhasználásra kerülő gyógyszerekről és egyéb gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 8. pontja szerinti beavatkozással nem járó vizsgálat költségével,
+a) a IV. fázisú klinikai vizsgálatok költségével, valamint az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatás költségével,
 
 b) a kutatás és fejlesztés céljára a mérlegkészítés napjáig az adóhatóságtól, illetve az államháztartás alrendszereinek más szervétől, vagy az Európai Unió különböző pénzügyi alapjaiból igényelt, vagy az adóévben – visszafizetési kötelezettség nélkül – kapott támogatás, juttatás bevételként elszámolt összegével,
 

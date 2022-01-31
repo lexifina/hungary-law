@@ -46,7 +46,7 @@ a) a Magyarországon nem forgalmazható, illetve nem alkalmazható gyógyszerekr
 
 b) külön jogszabályban meghatározott kábítószert vagy pszichotrop anyagot tartalmazó gyógyszerre vonatkozó reklámot,
 
-c) vizsgálati készítményt bemutató reklámot,
+c) vizsgálati gyógyszert bemutató reklámot,
 
 d) gyermekkorúaknak szóló reklámot, ideértve a gyermekeknek szóló műsorban, kiadványban közzétett reklámot,
 
