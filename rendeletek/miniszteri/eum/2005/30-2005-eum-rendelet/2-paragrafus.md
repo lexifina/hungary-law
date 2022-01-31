@@ -1,4 +1,4 @@
-2. § (1)[^3] Figyelemmel a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendeletben foglaltakra, továbbá a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendeletben foglaltakra is, gyógyszer külső csomagolásán – a (8)–(9) bekezdésben meghatározott kivétellel – a (2) bekezdés szerinti adatokat kell feltüntetni.
+2. § (1)[^6] Figyelemmel a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendeletben foglaltakra, továbbá a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendeletben foglaltakra is, gyógyszer külső csomagolásán – a (8)–(9) bekezdésben meghatározott kivétellel – a (2) bekezdés szerinti adatokat kell feltüntetni.
 
 (2) A gyógyszer csomagolásán magyar nyelven fel kell tüntetni:
 
@@ -88,7 +88,7 @@ l) a „Homeopátiás gyógyszer jóváhagyott terápiás javallat nélkül” f
 
 m) a „Keresse fel orvosát, ha a tünetei továbbra is fennállnak” figyelmeztetést.
 
-(10) Radioaktív gyógyszer esetén
+(10)[^7] Radioaktív gyógyszer, vizsgálati gyógyszer, kiegészítő gyógyszer esetén
 
 a) a gyógyszer külső csomagolását és tárolóedényét a Nemzetközi Atomenergia Ügynökség által megállapított, a radioaktív anyagok biztonságos szállítására vonatkozó szabályoknak megfelelően kell címkézni;
 
@@ -106,4 +106,5 @@ cd) a gyártó nevét és címét;
 
 ce) a radioaktivitás mértékét a b) pontban meghatározottak szerint.
 
-[^3]: A 2. § (1) bekezdése az 53/2008. (XII. 31.) EüM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdése az 53/2008. (XII. 31.) EüM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (10) bekezdés nyitó szövegrésze a 2/2022. (I. 14.) EMMI rendelet 9. § b) pontjával megállapított szöveg.
