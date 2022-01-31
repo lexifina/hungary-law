@@ -1,6 +1,6 @@
-## A vizsgálati készítmény, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért való felelősség és személyiségi jogsértésért való helytállási kötelezettség
+## A vizsgálati gyógyszer, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért való felelősség és személyiségi jogsértésért való helytállási kötelezettség
 
-21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Polgári Törvénykönyv szerinti hozzátartozója részére
+21. § (1) Ha a vizsgálati gyógyszer klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Polgári Törvénykönyv szerinti hozzátartozója részére
 
 a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a megbízó,
 
@@ -8,7 +8,7 @@ b) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a vizsg�
 
 c) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a klinikai vizsgálatot engedélyező hatóság előírásának következménye, az engedélyező hatóság,
 
-d) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati tervtől való eltérés esetén – ha az egészségkárosodás ennek következményeként következik be – a klinikai vizsgálatot végző intézmény
+d) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati tervtől való eltérés esetén – ha az egészségkárosodás ennek következményeként következik be – a vizsgálóhely
 
 sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségkárosodással összefüggésben bekövetkezett vagyoni károk esetén – kártérítést fizet.
 

@@ -1,6 +1,6 @@
 ## A törvény hatálya
 
-2. § (1) E törvény hatálya az emberi felhasználásra kerülő gyógyszer gyártására, előállítására, forgalomba hozatalára, forgalmazására és alkalmazására, valamint a vizsgálati készítmények klinikai vizsgálatára és alkalmazására terjed ki.
+2. § (1) E törvény hatálya az emberi felhasználásra kerülő gyógyszer gyártására, előállítására, forgalomba hozatalára, forgalmazására és alkalmazására, valamint a vizsgálati gyógyszerek klinikai vizsgálatára és alkalmazására terjed ki.
 
 (2) Kétséges esetben, amikor valamely termék – (1) bekezdésben meghatározottak figyelembevételével – az e törvény 1. §-ának 1. pontjában meghatározott fogalommeghatározás és más jogszabály által szabályozott valamely termék fogalommeghatározása alá is tartozhat, e törvény rendelkezéseit kell alkalmazni.
 

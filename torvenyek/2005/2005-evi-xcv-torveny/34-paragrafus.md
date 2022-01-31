@@ -24,4 +24,6 @@ k) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasz
 
 l) az N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid (ciklopropil-fentanil) és a 2-me-toxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid (metoxiacetil-fentanil) új pszichoaktív anyagok ellenőrzési intézkedéseknek való alávetéséről szóló, 2018. szeptember 28-i (EU) 2018/1463 tanácsi végrehajtási határozat
 
+m) az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.

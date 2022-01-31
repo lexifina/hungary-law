@@ -1,6 +1,6 @@
 33. § Ez a törvény
 
-a) az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 2001. április 4-i 2001/20/EK európai parlamenti és tanácsi irányelvnek,
+a)
 
 b) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -10,7 +10,7 @@ d) a helyes laboratóriumi gyakorlat alapelveinek alkalmazására és annak a ve
 
 e) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről szóló, 2017. szeptember 15-i (EU) 2017/1572 bizottsági irányelvnek,
 
-f) a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében című, 2005. április 8-i 2005/28/EK bizottsági irányelvnek,
+f)
 
 g) a 2001/82/EK és a 2001/83/EK irányelvnek a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében történő módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelvnek,
 

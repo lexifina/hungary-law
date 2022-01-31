@@ -14,29 +14,17 @@
 
 5/a. pszichotróp anyagként minősített gyógyszer: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet II–IV. jegyzékén, valamint a 2. számú melléklet B) jegyzékén szereplő pszichotrópnak minősített hatóanyagot tartalmazó gyógyszer;
 
-6. vizsgálati készítmény: hatóanyag vagy placebo, gyógyszerformában elkészítve, amelyet klinikai vizsgálatban vizsgálnak vagy referencia-(összehasonlító) készítményként használnak, ideértve azokat a készítményeket is, amelyek már rendelkeznek forgalomba hozatali engedéllyel, de klinikai vizsgálat során az elfogadott alkalmazási előírástól eltérően, illetve más kiszerelésben vagy csomagolásban használnak, vagy az elfogadott alkalmazási előírásban foglalt indikációtól eltérő indikációban használják, vagy ha a már forgalomba hozatali engedéllyel rendelkező gyógyszerrel kapcsolatos további adatok gyűjtésére használják;
+6. vizsgálati gyógyszer: az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 5. pontjában meghatározott fogalom;
 
-7. klinikai vizsgálat: bármely, olyan emberen végzett orvostudományi kutatásnak minősülő egy vagy több vizsgálati helyen végzett vizsgálat, amelynek célja egy vagy több vizsgálati készítmény
+7. klinikai vizsgálat: az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 2. pontjában meghatározott fogalom;
 
-a) klinikai, gyógyszertani, illetve farmakodinámiás hatásainak feltárása, illetve
+8. nem kereskedelmi vizsgálat: olyan klinikai vizsgálat,
 
-b) által kiváltott nemkívánatos gyógyszerhatás azonosítása, illetve
+a) amelynek megbízója a gyógyszeripartól független jogi személy, így különösen felsőoktatási intézmény, fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, nonprofit gazdasági társaság, azzal, hogy a gyógyszeripartól való függetlenséget nem zárja ki a vizsgálati készítmény megbízó részére történő, térítésmentes rendelkezésre bocsátása, illetve a vizsgálat igazolt költségeinek a vizsgáló részére történő megtérítése,
 
-c) felszívódásának, eloszlásának, metabolizmusának és kiválasztódásának tanulmányozása, a készítmény ártalmatlanságának, hatékonyságának, előny/kockázat arányának igazolása céljából
+b) amelynek eredményéből keletkező adatok tulajdonosa a megbízó, és
 
-ide nem értve a beavatkozással nem járó vizsgálatokat;
-
-8. beavatkozással nem járó vizsgálat: amelyben
-
-a) a forgalomba hozatalra engedélyezett gyógyszer rendelése nem a vizsgálat céljából történik,
-
-b) a gyógyszert a klinikai gyakorlatban szokásos módon, a forgalomba hozatali engedély feltételeinek megfelelően rendelik,
-
-c) a betegnek egy adott kezelési stratégiába való bevonását nem határozzák meg előzetesen egy vizsgálati tervben, hanem a gyógyszert az aktuális klinikai gyakorlatnak megfelelő módon rendelik és annak rendelése világosan elválik a betegnek a vizsgálatba való bevonására vonatkozó döntéstől,
-
-d) a betegen a szokásos klinikai gyakorlaton túlmenően kiegészítő diagnosztikai vagy monitoring eljárást nem alkalmaznak, és
-
-e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszereket alkalmaznak;
+c) amelynek eredményeit illetően nem áll fenn a megbízó és harmadik személy között olyan jogviszony, amely az eredmények forgalombahozatali engedélyezés, illetve forgalomba hozatal érdekében történő felhasználásának lehetővé tételére irányul;
 
 9. forgalomba hozatali engedély jogosultja: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet, amely részére az arra jogosult hatóság a gyógyszer forgalomba hozatalát engedélyezte;
 

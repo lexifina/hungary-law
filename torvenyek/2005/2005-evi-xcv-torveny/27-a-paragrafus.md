@@ -1,0 +1,1 @@
+27/A. § Az 536/2014/EU európai parlamenti és tanácsi rendeletben meghatározott esetekben az elektronikus kapcsolattartás az 536/2014/EU európai parlamenti és tanácsi rendelet 80. cikke szerinti portál használatával valósul meg.

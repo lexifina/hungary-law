@@ -3,3 +3,5 @@
 (2) Gyógyszer beszerzéséhez nem szükséges engedély, ha arra kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt a beszerző az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette. Az e bekezdés alapján beszerzett gyógyszer a kutatási céltól eltérő célra nem használható fel. A kutatási célra fel nem használt gyógyszert meg kell semmisíteni. A kutatási tevékenység befejezéséről a gyógyszerészeti államigazgatási szervet haladéktalanul tájékoztatni kell.
 
 (3) Nem szükséges gyógyszergyártási engedély beszerzése, ha a gyógyszert külön engedély alapján gyógyszer-nagykereskedelmi engedéllyel rendelkező gyógyszer-nagykereskedő importálja.
+
+(4) Nem szükséges gyógyszergyártási vagy nagykereskedelmi engedély az 536/2014/EU parlamenti és tanácsi rendelet 59. cikk (2) bekezdése szerinti esetben a klinikai vizsgálat megbízója, illetve az általa erre írásban feljogosított személy által a vizsgálati tervben előírt kiegészítő gyógyszerek harmadik országból történő importjához.
