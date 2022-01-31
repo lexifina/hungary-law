@@ -1,5 +1,6 @@
-19. § (1) Hatályát veszti a 435/2021. (VII. 16.) Korm. rendelet 36. § c) pont cb) alpontja.
+19. § (1)[^20]
 
-(2)[^14]
+(2)[^21]
 
-[^14]: A 19. § (2) bekezdése a 21. § (7) bekezdése alapján 2022. június 2-án lép hatályba.
+[^20]: A 19. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 19. § (2) bekezdése a 21. § (7) bekezdése alapján 2022. június 2-án lép hatályba.
