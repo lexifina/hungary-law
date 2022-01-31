@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-450-20-
 | 2019-01-01 | 2017-450-20-22.3 | 287/2018. (XII. 21.) Korm. rendelet |
 | 2020-01-01 | 2017-450-20-22.4 | 347/2019. (XII. 23.) Korm. rendelet |
 | 2021-12-01 | 2017-450-20-22.5 | 648/2021. (XI. 30.) Korm. rendelet |
+| 2022-01-31 | 2017-450-20-22.6 | 724/2021. (XII. 20.) Korm. rendelet |
