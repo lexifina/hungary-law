@@ -1,3 +1,5 @@
-## 1. § A növényfajták állami elismeréséről szóló 40/2004. (IV. 7.) FVM rendelet 17. § (4) bekezdésében a „mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkalmasságára vonatkozó végrehajtási szabályok megállapításáról szóló, 2009. július 22-i, 637/2009/EK bizottsági” szövegrész helyébe a „mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkalmasságáról és a 637/2009/EK rendelet hatályon kívül helyezéséről szóló, 2021. március 3-i (EU) 2021/384 bizottsági végrehajtási” szöveg lép.
+## 1. §[^1]
 
 ## 2. A szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet módosítása
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
