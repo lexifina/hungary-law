@@ -1,4 +1,4 @@
-1. melléklet a 17/2018. (VII. 4.) EMMI rendelethez
+1. melléklet a 17/2018. (VII. 4.) EMMI rendelethez[^7]
 
 „1. melléklet a 44/2005. (X. 19.) EüM rendelethez
 
@@ -60,7 +60,7 @@ VIII. Dokumentáció
 
 1. A gyártó dokumentációt készít és vezet a különböző gyártási műveletekről és folyamatokról, tekintettel a minőségi előiratokra, a feldolgozási és csomagolási utasításokra. A dokumentációnak világosnak, egyértelműnek, hibátlannak és naprakésznek kell lennie. A dokumentációs rendszer biztosítja az adatok minőségét és sértetlenségét. Az általános gyártási műveletekre és feltételekre vonatkozóan szabványműveleti előírásoknak kell rendelkezésre állniuk, az egyes gyártási tételek gyártására vonatkozó külön dokumentációval együtt. E dokumentumok lehetővé teszik az egyes gyártási tételek gyártásának és a vizsgálati készítmények fejlesztése során bevezetett módosítások nyomon követését.
 
-Adott gyógyszer esetében az egyes gyártási tételekre vonatkozó dokumentációt a gyártási tételek lejárati idejét követően egy évig kell megőrizni, vagy – harmadik országból importált gyógyszer esetében – az illetékes meghatalmazott személy által kiadott igazolás után öt évig, amelyik e két időszak közül a hosszabb.
+Adott gyógyszer esetében az egyes gyártási tételekre vonatkozó dokumentációt a gyártási tételek lejárati idejét követően egy évig kell megőrizni, vagy az illetékes meghatalmazott személy által kiadott igazolás után öt évig, amelyik e két időszak közül a hosszabb.
 
 A megbízó, vagy ha az eltérő személy, a forgalomba hozatali engedély jogosultja felelős a forgalomba hozatali engedélyekre vonatkozó dokumentációt az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló rendeletben megszabottak szerinti megőrzéséért, ha az egy későbbi forgalomba hozatali engedély kiadása szempontjából szükséges.
 
@@ -109,3 +109,5 @@ XII. Panaszok, forgalomból való kivonás
 XIII. Önellenőrzés
 
 A gyártó a gyógyszerminőségi rendszer részeként rendszeresen önellenőrzést hajt végre a helyes gyártási gyakorlat végrehajtásának és betartásának ellenőrzése, valamint az esetlegesen szükségessé váló korrekciós vagy megelőző intézkedések javaslása érdekében. Az önellenőrzésről és az azt követően foganatosított esetleges korrekciós intézkedésekről nyilvántartást kell vezetni.”
+
+[^7]: Az 1. melléklet a 29/2019. (XII. 11.) EMMI rendelet 2. §-a szerint módosított szöveg.
