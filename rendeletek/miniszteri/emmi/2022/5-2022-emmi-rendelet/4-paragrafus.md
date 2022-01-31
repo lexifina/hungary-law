@@ -1,0 +1,1 @@
+## 2. Az egyes egészségügyi tárgyú miniszteri rendeleteknek a vizsgálati gyógyszerekkel végzett klinikai vizsgálatokra vonatkozó, jogharmonizációs célú módosításáról szóló 2/2022. (I. 14.) EMMI rendelet módosítása
