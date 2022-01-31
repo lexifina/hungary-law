@@ -12,7 +12,7 @@ e)
 
 f)
 
-g)
+g) 17. § (6) bekezdés c) pontjában a „készítményt” szövegrész helyébe a „gyógyszert” szöveg,
 
 h)
 

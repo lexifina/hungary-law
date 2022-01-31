@@ -2,6 +2,6 @@
 
 a)
 
-b)
+b) 27. §-ában a „vizsgálati készítményekkel” szövegrész
 
-c)
+c) 33. § a) és f) pontja.
