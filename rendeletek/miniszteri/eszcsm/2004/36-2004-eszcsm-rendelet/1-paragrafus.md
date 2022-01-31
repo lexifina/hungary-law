@@ -10,14 +10,7 @@ d) testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyette
 
 ## (a továbbiakban együtt: különleges élelmiszer) kell alkalmazni.
 
-(2) A különleges élelmiszernek ki kell elégítenie:
-
-a) az olyan fogyasztók speciális táplálkozási igényeit:
-
-aa) akik emésztési vagy anyagcserezavarban szenvednek,
-
-ab) akiknek sajátos élettani állapotuk miatt bizonyos anyagok ellenőrzött mértékben történő fogyasztása előnyős, valamint
-
-b) az egészséges csecsemők és kisgyermekek speciális táplálkozási igényeit.
+(2)[^2]
 
 [^1]: Az 1. § (1) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 36. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdését az 5/2022. (I. 28.) EMMI rendelet 3. § a) pontja hatályon kívül helyezte.

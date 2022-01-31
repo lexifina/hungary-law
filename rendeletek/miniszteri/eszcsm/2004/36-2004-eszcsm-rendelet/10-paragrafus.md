@@ -1,6 +1,6 @@
-## 9. §[^6]
+## 9. §[^14]
 
-10. §[^7] (1) A különleges élelmiszerek hatósági ellenőrzését népegészségügyi feladatkörben
+10. §[^15] (1) A különleges élelmiszerek hatósági ellenőrzését népegészségügyi feladatkörben
 
 a) az 1. § (1) bekezdés a), b) és d) pontja szerinti különleges élelmiszerek tekintetében a megyei kormányhivatalok járási hivatalai, illetve
 
@@ -16,5 +16,5 @@ b) az 1. § (1) bekezdés c) pontja szerinti különleges élelmiszerek tekintet
 
 (5) Az OGYÉI a (4) bekezdés szerinti bejelentést soron kívül kivizsgálja, és annak eredményéről tájékoztatja az országos tisztifőorvost, valamint – ha a vizsgálat során élelmiszer-biztonsági kockázatra utaló adat merül fel – az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatal járási hivatalát és a NÉBIH-et is.
 
-[^6]: A 9. §-t a 44/2016. (XII. 28.) EMMI rendelet 40. § a) pontja hatályon kívül helyezte.
-[^7]: A 10. § a 21/2021. (VI. 8.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^14]: A 9. §-t a 44/2016. (XII. 28.) EMMI rendelet 40. § a) pontja hatályon kívül helyezte.
+[^15]: A 10. § a 21/2021. (VI. 8.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
