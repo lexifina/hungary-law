@@ -1,6 +1,6 @@
-## Gyógyszerészi gondozás[^139]
+## Gyógyszerészi gondozás[^143]
 
-36/A. §[^140] (1) A gyógyszerészi gondozási tevékenység körébe tartozik – ide nem értve a Gytv. 24. § (2) bekezdésében foglaltakat és az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról, valamint a társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló rendeletben előírt, a gyógyszerek expediálásához kapcsolódó adminisztratív kontrollt – a vényköteles gyógyszerek és a vény nélkül beszerezhető gyógyszerek és egyéb termékek kiszolgáltatásához kapcsolódva, illetve a betegeknek nyújtott egyéb gyógyszertári szolgáltatások részeként
+36/A. §[^144] (1) A gyógyszerészi gondozási tevékenység körébe tartozik – ide nem értve a Gytv. 24. § (2) bekezdésében foglaltakat és az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról, valamint a társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló rendeletben előírt, a gyógyszerek expediálásához kapcsolódó adminisztratív kontrollt – a vényköteles gyógyszerek és a vény nélkül beszerezhető gyógyszerek és egyéb termékek kiszolgáltatásához kapcsolódva, illetve a betegeknek nyújtott egyéb gyógyszertári szolgáltatások részeként
 
 a) a gyógyszertárat orvosi diagnózis nélkül felkereső beteg esetében
 
@@ -22,23 +22,23 @@ bd) tájékoztatás a kockázati tényezőkről és tanácsadás az egészségtu
 
 c) a betegség-specifikus gyógyszerészi gondozás, mely a népegészségügyi programhoz kapcsolódóan az adott betegség és kockázati tényezői korai felismerésére, a betegség késői komplikációinak vagy visszatérésének megelőzésére, a betegek egyensúlyi állapotának fenntartására irányul és – a beteg kezelő orvosával együttműködésben – magában foglalja a kockázati tényezők felmérését és a beteg szükség szerinti orvoshoz irányítását, valamint a beteg oktatását és együttműködő készségének kialakítását, továbbá a beteg gyógyszerhasználatának irányítását.
 
-(2)[^141] Gyógyszerészi gondozás a (7) bekezdés szerint közzétett szakmai irányelvekben foglaltak szerint közforgalmú és fiókgyógyszertárban, valamint intézeti gyógyszertár közvetlen lakossági gyógyszerellátást végző egységében végezhető.
+(2)[^145] Gyógyszerészi gondozás a (7) bekezdés szerint közzétett szakmai irányelvekben foglaltak szerint közforgalmú és fiókgyógyszertárban, valamint intézeti gyógyszertár közvetlen lakossági gyógyszerellátást végző egységében végezhető.
 
-(3)[^142] Az (1) bekezdés c) pontjában meghatározott gyógyszerészi gondozási tevékenységet az a gyógyszerész végezheti, aki a külön jogszabály szerinti folyamatos továbbképzés keretében az erre irányuló programot elvégezte.
+(3)[^146] Az (1) bekezdés c) pontjában meghatározott gyógyszerészi gondozási tevékenységet az a gyógyszerész végezheti, aki a külön jogszabály szerinti folyamatos továbbképzés keretében az erre irányuló programot elvégezte.
 
-(4)[^143] A gyógyszerészi gondozási tevékenység a gyógyszertár működtetőjének és személyi jogos gyógyszerészének, illetve intézeti főgyógyszerészének az OGYÉI-hez intézett együttes előzetes bejelentése alapján folytatható.
+(4)[^147] A gyógyszerészi gondozási tevékenység a gyógyszertár működtetőjének és személyi jogos gyógyszerészének, illetve intézeti főgyógyszerészének az OGYÉI-hez intézett együttes előzetes bejelentése alapján folytatható.
 
-(5)[^144] A (4) bekezdés szerinti bejelentésnek tartalmaznia kell a gyógyszerészi gondozásban résztvevő gyógyszerészek nevét, továbbá a gyógyszertár működtetőjének és személyi jogos gyógyszerészének, illetve intézeti főgyógyszerészének nyilatkozatát a jogszabályban és a közzétett szakmai irányelvekben előírt tárgyi feltételek meglétéről, továbbá arról, hogy a tevékenység végzéséhez szükséges feltételeket folyamatosan biztosítja.
+(5)[^148] A (4) bekezdés szerinti bejelentésnek tartalmaznia kell a gyógyszerészi gondozásban résztvevő gyógyszerészek nevét, továbbá a gyógyszertár működtetőjének és személyi jogos gyógyszerészének, illetve intézeti főgyógyszerészének nyilatkozatát a jogszabályban és a közzétett szakmai irányelvekben előírt tárgyi feltételek meglétéről, továbbá arról, hogy a tevékenység végzéséhez szükséges feltételeket folyamatosan biztosítja.
 
-(6)[^145] Amennyiben a személyi és tárgyi feltételek körében változás áll be, azt a gyógyszertár működtetője és a személyi jogos gyógyszerész haladéktalanul köteles jelenteni az OGYÉI-nek.
+(6)[^149] Amennyiben a személyi és tárgyi feltételek körében változás áll be, azt a gyógyszertár működtetője és a személyi jogos gyógyszerész haladéktalanul köteles jelenteni az OGYÉI-nek.
 
-(7)[^146] A gyógyszerészi gondozással kapcsolatos szakmai irányelveket az egészségügyi szakmai kollégium Gyógyszerellátási gyógyszerészet tagozata és tanácsa készíti elő és terjeszti fel közzétételre jogszabályban foglaltak alapján. A kollégium ezen irányelvek előkészítésébe bevonja a Magyar Gyógyszerészi Kamara, a Magyar Gyógyszerésztudományi Társaság és a Magángyógyszerészek Országos Szövetségének képviselőit, valamint az érintett orvosi tagozatokat és tanácsokat.
+(7)[^150] A gyógyszerészi gondozással kapcsolatos szakmai irányelveket az egészségügyi szakmai kollégium Gyógyszerellátási gyógyszerészet tagozata és tanácsa készíti elő és terjeszti fel közzétételre jogszabályban foglaltak alapján. A kollégium ezen irányelvek előkészítésébe bevonja a Magyar Gyógyszerészi Kamara, a Magyar Gyógyszerésztudományi Társaság és a Magángyógyszerészek Országos Szövetségének képviselőit, valamint az érintett orvosi tagozatokat és tanácsokat.
 
-[^139]: A 36/A. §-t megelőző alcímet az 56/2009. (XII. 30.) EüM rendelet 21. §-a iktatta be.
-[^140]: A 36/A. §-t az 56/2009. (XII. 30.) EüM rendelet 21. §-a iktatta be.
-[^141]: A 36/A. § (2) bekezdése a 7/2016. (III. 30.) EMMI rendelet 26. § h) pontja szerint módosított szöveg.
-[^142]: A 36/A. § (3) bekezdése az 56/2009. (XII. 30.) EüM rendelet 24. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba.
-[^143]: A 36/A. § (4) bekezdése a 47/2015. (X. 19.) EMMI rendelet 35. § b) pontja szerint módosított szöveg.
-[^144]: A 36/A. § (5) bekezdése a 7/2016. (III. 30.) EMMI rendelet 26. § h) pontja szerint módosított szöveg.
-[^145]: A 36/A. § (6) bekezdése a 47/2015. (X. 19.) EMMI rendelet 35. § c) pontja szerint módosított szöveg.
-[^146]: A 36/A. § (7) bekezdése a 7/2016. (III. 30.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^143]: A 36/A. §-t megelőző alcímet az 56/2009. (XII. 30.) EüM rendelet 21. §-a iktatta be.
+[^144]: A 36/A. §-t az 56/2009. (XII. 30.) EüM rendelet 21. §-a iktatta be.
+[^145]: A 36/A. § (2) bekezdése a 7/2016. (III. 30.) EMMI rendelet 26. § h) pontja szerint módosított szöveg.
+[^146]: A 36/A. § (3) bekezdése az 56/2009. (XII. 30.) EüM rendelet 24. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba.
+[^147]: A 36/A. § (4) bekezdése a 47/2015. (X. 19.) EMMI rendelet 35. § b) pontja szerint módosított szöveg.
+[^148]: A 36/A. § (5) bekezdése a 7/2016. (III. 30.) EMMI rendelet 26. § h) pontja szerint módosított szöveg.
+[^149]: A 36/A. § (6) bekezdése a 47/2015. (X. 19.) EMMI rendelet 35. § c) pontja szerint módosított szöveg.
+[^150]: A 36/A. § (7) bekezdése a 7/2016. (III. 30.) EMMI rendelet 24. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-38. §[^154]
+38. §[^158]
 
-[^154]: A 38. § e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
+[^158]: A 38. § e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
