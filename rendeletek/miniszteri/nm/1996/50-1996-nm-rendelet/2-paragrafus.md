@@ -14,7 +14,7 @@
 
 (7)[^7] Az 1. számú melléklet II. 11. alpontja szerinti orvostechnikai eszköz klinikai vizsgálati engedélyének módosítása során minden egyes önálló, külön jogszabály szerinti, egymással össze nem függő lényeges módosítás iránti kérelem díjköteles, függetlenül attól, hogy a kérelmet egyedileg vagy több vizsgálatra vonatkozóan csoportosítva egyidejűleg nyújtják be.
 
-(8)[^8]
+(8)[^8] Az intézmény a hozzá befizetett, az 1. számú mellékletben foglalt táblázat II.11a. sora szerinti díjból a sugáregészségügyi szakkérdésekben eljáró szakhatóság állásfoglalásáért a díjtétel ott meghatározott részét a Nemzeti Népegészségügyi Központ 3. számú mellékletben meghatározott számlaszámára átutalja.
 
 (9)[^9]
 
@@ -29,7 +29,7 @@
 [^5]: A 2. § (5) bekezdése a 2/2009. (I. 30.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (6) bekezdése a 2/2009. (I. 30.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § (7) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, szövege a 35/2021. (VIII. 16.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
-[^8]: A 2. § (8) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 4. §-a.
+[^8]: A 2. § (8) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 4. §-a hatályon kívül helyezte, újonnan a 2/2022. (I. 14.) EMMI rendelet 1. §-a iktatta be.
 [^9]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 4. §-a.
 [^10]: A 2. § (10) bekezdését a 29/2012. (IX. 25.) EMMI rendelet 1. §-a iktatta be.
 [^11]: A 2. § (11) bekezdését a 42/2015. (IX. 18.) EMMI rendelet 7. §-a iktatta be, hatályon kívül helyezte az 54/2016. (XII. 30.) EMMI rendelet 5. § (3) bekezdése.

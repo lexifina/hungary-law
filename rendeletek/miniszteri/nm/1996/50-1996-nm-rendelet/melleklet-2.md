@@ -46,6 +46,8 @@
 
 | II.11. | Orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 180 000 Ft/kérelem |
 
+| II.11a. | Ionizáló sugárzást alkalmazó orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 294 700 Ft/kérelem (ebből a sugár- egészségügyi szakkérdésekben eljáró szakhatóság eljárásának díja: 114 700 Ft) |
+
 | II.12. | A 4/2009. EüM rendelet 17. § (3) és (5) bekezdése szerinti bejelentés a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével, valamint a 8/2003. ESzCsM rendelet 7. § (5) bekezdése és 7/A. § (3) bekezdése szerinti bejelentés a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével. | 66 000 Ft/kérelem |
 
 | III. | Európai Egészségbiztosítási Kártya, illetve TAJ-számot igazoló okmány kiadással kapcsolatos igazgatási szolgáltatás |  |
