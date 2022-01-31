@@ -21,7 +21,3 @@ f) 375. §-a és XLIII. Fejezete az információs rendszerek elleni támadásokr
 g) 389. §-a az euró bevezetésével kapcsolatos pénzhamisítás elleni, büntetőjogi és egyéb szankciókkal megvalósuló védelem megerősítésről szóló, 2000. május 29-i 2000/383/IB tanácsi kerethatározat 3–6. cikkének,
 
 h) 392–394. §-a a nem készpénzes fizetőeszközökkel összefüggő csalás és hamisítás elleni küzdelemről szóló, 2001. május 28-i 2001/413/IB tanácsi kerethatározat 2., 4. és 6. cikkének,
-
-i) 399–402. §-a
-
-ia) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvnek,
