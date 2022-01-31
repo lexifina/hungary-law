@@ -1,9 +1,33 @@
-1/A. §[^3] (1)[^4] Immunológiai vizsgálati készítménnyel végzendő klinikai vizsgálat engedélyezése esetében a kérelmező által befizetett igazgatási szolgáltatási díj 30%-a az OGYÉI-t, 35-35%-a az Egészségügyi Tudományos Tanácsot (a továbbiakban: ETT) és a Nemzeti Népegészségügyi Központot (a továbbiakban: NNK) illeti meg. A klinikai vizsgálat engedélyének módosítása esetén a kérelmező által befizetett igazgatási szolgáltatási díj 50-50%-ban az ETT és az NNK között oszlik meg.
+## fizeti meg.
 
-(2)[^5] Nem immunológiai vizsgálati készítménnyel végzendő klinikai vizsgálat engedélyezése esetében a kérelmező által befizetett igazgatási szolgáltatási díj 55%-a az OGYÉI-t, 45%-a az ETT-t illeti meg. A klinikai vizsgálat engedélyének módosítása esetén a kérelmező által befizetett igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 60%-a az ETT-t illeti meg.
+1/A. §[^4] (1) Klinikai vizsgálat engedélyezése esetében a kérelmező által a Gytv. 1. számú mellékletének 2022. január 30-án hatályos rendelkezéseire figyelemmel befizetett, a (2) bekezdés hatálya alá nem tartozó igazgatási szolgáltatási díj 55%-a az OGYÉI-t, 45%-a az Egészségügyi Tudományos Tanácsot (a továbbiakban: ETT) illeti meg. A klinikai vizsgálat engedélyének módosítása esetén a kérelmező által befizetett igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 60%-a az ETT-t illeti meg.
 
-(3) Amennyiben klinikai vizsgálat engedélyének módosítására irányuló eljárásban valamelyik e §-ban említett szerv a jogszabály rendelkezése alapján nem jár el, az igazgatási szolgáltatási díj reá eső hányadát az eljárásban részt vevő szervek között egyenlő arányban kell elosztani.
+(2) Ionizáló sugárzást kibocsátó vizsgálati gyógyszerre vonatkozó klinikai vizsgálat engedélyezése esetében a kérelmező által a Gytv. 1. számú mellékletének 2022. január 30-án hatályos rendelkezéseire figyelemmel befizetett igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 45%-a az ETT-t, 15%-a a Nemzeti Népegészségügyi Központot (a továbbiakban: NNK) illeti meg. Klinikai vizsgálat engedélyének ionizáló sugárzást kibocsátó vizsgálati gyógyszert érintő módosítása esetén a kérelmező által befizetett igazgatási szolgáltatási díj 25%-a az OGYÉI-t, 60%-a az ETT-t, 15%-a az NNK-t illeti meg.
 
-[^3]: Az 1/A. §-t a 67/2011. (XII. 13.) NEFMI rendelet 14. §-a iktatta be.
-[^4]: Az 1/A. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 112. § c) pontja, a 38/2018. (X. 31.) EMMI rendelet 16. §-a szerint módosított szöveg.
-[^5]: Az 1/A. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 112. § d) pontja szerint módosított szöveg.
+(3) A klinikai vizsgálatokkal kapcsolatos eljárásokban a kérelmező által befizetett, a (4) bekezdés hatálya alá nem tartozó, a Gytv. 1. számú mellékletében foglalt táblázat
+
+a) III.G.1., III.G.2., III.G.3., III.G.9. sora szerinti igazgatási szolgáltatási díj 55%-a az OGYÉI-t, 45%-a az ETT-t,
+
+b) III.G.4. és III.G.6. sora szerinti igazgatási szolgáltatási díj 65%-a az OGYÉI-t, 35%-a az ETT-t,
+
+c) III.G.5., III.G.7., III.G.10. sora szerinti igazgatási szolgáltatási díj 25%-a az OGYÉI-t, 75%-a az ETT-t,
+
+d) III.G.11. sora szerinti igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 60%-a az ETT-t,
+
+e) III.G.13. sora szerinti igazgatási szolgáltatási díj 75%-a az OGYÉI-t, 25%-a az ETT-t
+
+## illeti meg.
+
+(4) Ionizáló sugárzást kibocsátó vizsgálati gyógyszerrel végzett klinikai vizsgálatokkal kapcsolatos eljárásokban a kérelmező által befizetett, a Gytv. 1. számú mellékletében foglalt táblázat
+
+a) III.G.1., III.G.2., III.G.9. sora szerinti igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 45%-a az ETT-t, 15%-a az NNK-t,
+
+b) III.G.3. sora szerinti igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 45%-a az ETT-t, 15%-a az NNK-t,
+
+c) III.G.6. és III.G.9. sora szerinti igazgatási szolgáltatási díj 35%-a az OGYÉI-t, 45%-a az ETT-t, 20%-a az NNK-t,d) III.G.11. sora szerinti igazgatási szolgáltatási díj 30%-a az OGYÉI-t, 60%-a az ETT-t, 10%-a az NNK-t
+
+## illeti meg.
+
+(5) Amennyiben a klinikai vizsgálat tervezett módosítása nem érinti az ETT, illetve az NNK hatáskörébe tartozó szakkérdéseket, az engedély módosítása iránti eljárásban a kérelmező által befizetett igazgatási szolgáltatási díj rá eső hányada az OGYÉI-t illeti meg.
+
+[^4]: Az 1/A. §-t a 67/2011. (XII. 13.) NEFMI rendelet 14. §-a iktatta be, szövege a 2/2022. (I. 14.) EMMI rendelet 31. §-ával megállapított szöveg.

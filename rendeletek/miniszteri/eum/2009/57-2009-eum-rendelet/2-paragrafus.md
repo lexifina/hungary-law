@@ -1,3 +1,5 @@
+## számú elszámolási számlájára utalja át az OGYÉI.
+
 2. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
 (2)[^6]
