@@ -178,6 +178,8 @@
 
 | 36. | Nemzeti Egészségügyi Kutatási Ügynökség Nonprofit Korlátolt Felelősségű Társaság | 01-09-389952 | 2022. december 31. |
 
+| 37. | Pan-Inform Kutatás-fejlesztési és Innovációs Korlátolt Felelősségű Társaság | 01-09-358749 | 2022. december 31. |
+
 ## V. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
 |  | A | B | C |
