@@ -1,6 +1,6 @@
 ## A klinikai vizsgálat felfüggesztése és megszüntetése
 
-37. §[^95] (1) Ha megállapítást nyer, hogy
+37. §[^80] (1) Ha megállapítást nyer, hogy
 
 a) a vizsgálat folytatása nem felel meg az engedélyben, a vizsgálati tervben, az MDR-ben, e címben és az orvostechnikai eszközökkel kapcsolatos klinikai vizsgálatokról szóló külön jogszabályban foglalt feltételeknek,
 
@@ -18,4 +18,4 @@ az engedélyező az MDR 76. cikk (1) bekezdése szerinti döntést hozhat.
 
 (4) A vizsgáló a vizsgálatot köteles haladéktalanul felfüggeszteni, ha azt tapasztalja, hogy annak folytatása a vizsgálati alanyok életét vagy egészségét sérti vagy veszélyezteti. A vizsgáló erről értesíti a kérelmezőt és az engedélyezőt annak érdekében, hogy szükség esetén az engedélyező az (1) és (2) bekezdésben foglaltak alapján járjon el.
 
-[^95]: A 37. § a 164/2020. (IV. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^80]: A 37. § a 164/2020. (IV. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-## 31. §[^87] E cím tekintetében az MDR 2. cikke szerinti fogalommeghatározásokat kell alkalmazni.
+## 31. §[^72] E cím tekintetében az MDR 2. cikke szerinti fogalommeghatározásokat kell alkalmazni.
 
 ## A klinikai vizsgálat engedélyezése
 
-32. §[^88] (1) A vizsgálatot az OGYÉI (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi és veszi nyilvántartásba.
+32. §[^73] (1) A vizsgálatot az OGYÉI (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi és veszi nyilvántartásba.
 
 (2) Az orvostechnikai eszközzel végzett vizsgálat engedélyezése iránti kérelem benyújtására és elbírálására az MDR előírásai alkalmazandók. A kérelmet az MDR 70. cikkében előírtak szerint az engedélyező részére elektronikus úton is be kell nyújtani, a kérelemhez mellékelni kell az ETT-TUKEB-nek az MDR 62. cikk (4) bekezdés b) pontja szerinti szakvéleményét. A kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését.
 
@@ -26,5 +26,5 @@ g) a vizsgáló és a vizsgálati alanyok közötti esetleges függőség megfel
 
 h) a vizsgálati alanyok személyes adatai kezelésének módja, az azok megismerésére jogosultak köre megfelel-e a vizsgálat szakmai-etikai követelményeinek.
 
-[^87]: A 31. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^88]: A 32. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^72]: A 31. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^73]: A 32. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

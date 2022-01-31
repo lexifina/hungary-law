@@ -1,4 +1,4 @@
-33. §[^89] (1) Az engedélyező határozatának tartalmaznia kell
+33. §[^74] (1) Az engedélyező határozatának tartalmaznia kell
 
 a) a klinikai vizsgálat azonosító adatait, a vizsgálat címét, számát,
 
@@ -20,4 +20,4 @@ b) a Nemzeti Egészségbiztosítási Alapkezelőnek.
 
 (3) A kérelem elutasításáról az engedélyező értesíti az EGT-megállapodásban részes államok illetékes hatóságait és az Európai Bizottságot.
 
-[^89]: A 33. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^74]: A 33. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

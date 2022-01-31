@@ -1,6 +1,6 @@
 ## Az engedély módosítása
 
-35. §[^91] (1) Az engedély módosítására az MDR 75. cikkében foglaltakat kell alkalmazni azzal, hogy mindig a vizsgálat lényeges módosításának minősül, ha
+35. §[^76] (1) Az engedély módosítására az MDR 75. cikkében foglaltakat kell alkalmazni azzal, hogy mindig a vizsgálat lényeges módosításának minősül, ha
 
 a) a módosítás az eszköz alkalmazási céljára, körülményeire vagy hatásmechanizmusára vonatkozik,
 
@@ -14,4 +14,4 @@ d) az addigi vizsgálati eredmények az írásos tájékoztató módosítását 
 
 (3) Az engedély módosítására irányuló kérelemre a 32. és 33. §-ban foglaltakat is megfelelően alkalmazni kell.
 
-[^91]: A 35. § a 164/2020. (IV. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^76]: A 35. § a 164/2020. (IV. 30.) Korm. rendelet 8. §-ával megállapított szöveg.

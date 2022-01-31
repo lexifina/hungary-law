@@ -1,4 +1,4 @@
-3/A. §[^10] (1) A kutatási engedély iránti kérelemnek tartalmaznia kell
+3/A. §[^11] (1) A kutatási engedély iránti kérelemnek tartalmaznia kell
 
 a) a kutatás megnevezését,
 
@@ -54,4 +54,4 @@ i) a kutatás vezetőjének nyilatkozatát arról, hogy a kutatási terv össze�
 
 (4) A (3) bekezdés a)–h) pontjában szereplő adatok közérdekű adatnak minősülnek. A kutatási terv engedélyezésénél és elfogadhatóságának véleményezésénél nem minősül közérdekű adatnak a kutatási tervre vonatkozó tudományos munkahipotézis, és különösen a gyógyszerkutatás esetén a preklinikai vizsgálatok eredménye. Ezek az adatok kizárólag a hatóság, illetve etikai bizottság számára hozzáférhetőek.
 
-[^10]: A 3/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 3/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

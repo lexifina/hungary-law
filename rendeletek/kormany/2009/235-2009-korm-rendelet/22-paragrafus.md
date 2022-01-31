@@ -1,18 +1,11 @@
-## 2. CÍM
+## 2. CÍM[^68]
 
-## VIZSGÁLATI KÉSZÍTMÉNYEK KLINIKAI VIZSGÁLATÁNAK ENGEDÉLYEZÉSE
+## VIZSGÁLATI GYÓGYSZEREK KLINIKAI VIZSGÁLATÁNAK ENGEDÉLYEZÉSE
 
-22. § (1) Ezen cím előírásait a Gytv. 1. § 7. pontja szerinti klinikai vizsgálat esetében kell alkalmazni.
+22. § (1) Ezen cím előírásait az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 2. pontja szerinti klinikai vizsgálat esetében kell alkalmazni.
 
-(2) Ezen cím alkalmazásában:
+(2) Ezen cím alkalmazásában az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 11. pontja szerinti etikai bizottságként az Egészségügyi Tudományos Tanács Klinikai Farmakológiai Etikai Bizottsága jár el.
 
-a)[^66] megbízó (sponsor): bármely természetes vagy jogi személy, aki vagy amely a klinikai vizsgálatot kezdeményezi, vezeti, illetve finanszírozza azzal, hogy a vizsgáló és a megbízó lehet ugyanaz a személy is;
+(3) Az e címben használt fogalmak értelmezésére, valamint az e címben nem szabályozott kérdésekre az 536/2014/EU európai parlamenti és tanácsi rendeletet és az 536/2014/EU európai parlamenti és tanácsi rendelet szerinti helyes klinikai gyakorlatnak megfelelő inspekciós eljárásokkal kapcsolatos részletes szabályokról szóló, 2017. március 24-i (EU) 2017/556 bizottsági végrehajtási rendeletet [a továbbiakban: (EU) 2017/556 bizottsági végrehajtási rendelet] kell alkalmazni.
 
-b) vizsgálati alany (subject): a klinikai vizsgálatban részt vevő olyan személy, akin a vizsgálati készítményt alkalmazzák, illetve aki a vizsgálatban kontrollszemélyként vesz részt;
-
-c)[^67] etikai bizottság: az Egészségügyi Tudományos Tanács Klinikai Farmakológiai Etikai Bizottsága;
-
-d) nem kereskedelmi vizsgálat (non-commercial clinical trial): nem kereskedelmi jellegű vizsgálat, amelyet a gyógyszeripartól független kutatók folytatnak le a gyógyszeripar részvétele nélkül, azzal, hogy nem minősül gyógyszeripari részvételnek, ha a forgalomba hozatali engedély jogosultja gyógyszerként forgalomba hozatali engedéllyel rendelkező vizsgálati készítményt térítésmentesen bocsát a vizsgáló rendelkezésére, de a vizsgálatban más módon nem vesz részt és azt más módon nem támogatja.
-
-[^66]: A 22. § (2) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^67]: A 22. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 268. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^68]: A 2. cím (22–29/A. §) a 724/2021. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

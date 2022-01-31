@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-235-20-
 | 2018-02-01 | 2009-235-20-22.20 | 250/2017. (IX. 5.) Korm. rendelet |
 | 2018-10-01 | 2009-235-20-22.21 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2021-05-26 | 2009-235-20-22.22 | 164/2020. (IV. 30.) Korm. rendelet |
+| 2022-01-31 | 2009-235-20-22.23 | 724/2021. (XII. 20.) Korm. rendelet |
