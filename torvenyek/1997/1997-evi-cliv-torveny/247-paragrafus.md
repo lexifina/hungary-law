@@ -311,7 +311,3 @@ rendeletben állapítsa meg.
 (5) Felhatalmazást kap
 
 a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
-
-b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
-
-c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
