@@ -16,6 +16,6 @@ db) az uniós jogszabályok és a Kiotói Jegyzőkönyv szerinti kibocsátási j
 
 e) felel a fenntartható fejlődésre és a fenntartható fejlesztésekre vonatkozó stratégiaalkotásért és annak végrehajtásáért.
 
-(3)[^108] A miniszter az iparügyekért való felelőssége keretében működteti a védelmi ipari beszállító-fejlesztési program végrehajtásának rendszerét, és a Széchenyi Alapok Kockázati Tőkealap-kezelő Zártkörűen Működő Részvénytársaság útján gondoskodik annak fenntartásáról és finanszírozásáról, valamint a forráskezelési és közvetítői feladatok ellátásáról.
+(3)[^110] A miniszter az iparügyekért való felelőssége keretében működteti a védelmi ipari beszállító-fejlesztési program végrehajtásának rendszerét, és a Széchenyi Alapok Kockázati Tőkealap-kezelő Zártkörűen Működő Részvénytársaság útján gondoskodik annak fenntartásáról és finanszírozásáról, valamint a forráskezelési és közvetítői feladatok ellátásáról.
 
-[^108]: A 129. § (3) bekezdését a 483/2021. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^110]: A 129. § (3) bekezdését a 483/2021. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.

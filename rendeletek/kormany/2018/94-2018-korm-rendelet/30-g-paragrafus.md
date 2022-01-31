@@ -1,4 +1,4 @@
-## 30/G. §[^41] A miniszter a gyermek- és ifjúságpolitikáért való felelőssége keretében
+## 30/G. §[^42] A miniszter a gyermek- és ifjúságpolitikáért való felelőssége keretében
 
 a) felel a Kormány ifjúságpolitikájának kialakításáért,
 
@@ -20,4 +20,4 @@ i) ellátja az önkéntességgel kapcsolatos feladatokat,
 
 j) ellátja az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogramból fakadó feladatait, amelynek ellátásához és az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez az Erzsébet Ifjúsági Alap Nonprofit Közhasznú Kft. és a miniszter irányítása alatt álló Nemzeti Tehetség Központ Közhasznú Nonprofit Kft. szolgáltatásait veszi igénybe.
 
-[^41]: A 30/G. §-t a 832/2021. (XII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^42]: A 30/G. §-t a 832/2021. (XII. 30.) Korm. rendelet 12. §-a iktatta be.

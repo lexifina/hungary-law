@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-94-20-2
 | 2021-10-01 | 2018-94-20-22.42 | 500/2021. (VIII. 18.) Korm. rendelet |
 | 2021-12-30 | 2018-94-20-22.43 | 830/2021. (XII. 29.) Korm. rendelet |
 | 2022-01-01 | 2018-94-20-22.44 | 832/2021. (XII. 30.) Korm. rendelet |
+| 2022-01-31 | 2018-94-20-22.45 | 182/2022. (V. 24.) Korm. rendelet |

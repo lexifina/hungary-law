@@ -1,6 +1,6 @@
-## 30/D. §[^38] A miniszter a rozsdaövezeti akcióterületekkel kapcsolatos ügyekért való felelőssége keretében előkészíti a rozsdaövezeti akcióterületekkel kapcsolatos jogszabályokat.
+## 30/D. §[^39] A miniszter a rozsdaövezeti akcióterületekkel kapcsolatos ügyekért való felelőssége keretében előkészíti a rozsdaövezeti akcióterületekkel kapcsolatos jogszabályokat.
 
-30/E. §[^39] (1) A miniszter a családpolitikáért való felelőssége keretében előkészíti a családok támogatásával, a család- és népesedéspolitikai eszközök kialakításával és működtetésével, a gyermeket vállaló és nevelő szülők támogatásával, a munka és a család összeegyeztetésének és összekapcsolásának biztosításával, valamint a nemzedékek közötti együttműködés erősítésével összefüggő és a kapcsolati erőszakkal érintett csoportokat célzó jogszabályokat.
+30/E. §[^40] (1) A miniszter a családpolitikáért való felelőssége keretében előkészíti a családok támogatásával, a család- és népesedéspolitikai eszközök kialakításával és működtetésével, a gyermeket vállaló és nevelő szülők támogatásával, a munka és a család összeegyeztetésének és összekapcsolásának biztosításával, valamint a nemzedékek közötti együttműködés erősítésével összefüggő és a kapcsolati erőszakkal érintett csoportokat célzó jogszabályokat.
 
 (2) A miniszter a családpolitikáért való felelőssége keretében
 
@@ -34,5 +34,5 @@ m) együttműködik az egészségügyért felelős miniszterrel a védőnői ell
 
 (4) A miniszter irányítása alatt álló Kopp Mária Intézet a Népesedésért és Családokért – kutatási és elemzési tevékenység ellátásával – részt vesz a miniszter (2) bekezdés a), b), valamint d)–i) és k) pontjában meghatározott feladatainak ellátásában.
 
-[^38]: A 30/D. §-t a 344/2020. (VII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^39]: A 30/E. §-t a 832/2021. (XII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^39]: A 30/D. §-t a 344/2020. (VII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^40]: A 30/E. §-t a 832/2021. (XII. 30.) Korm. rendelet 12. §-a iktatta be.

@@ -8,7 +8,7 @@ c) az egészségügyi ágazat szervezetére és működésére, az egészségüg
 
 d) az egészségügyi ágazat struktúrájának és működésének tervezéséhez, ellenőrzéséhez szükséges információs rendszer működési alapelveire, eszközrendszerére, cselekvési programjának előírásaira,
 
-e) az emberi alkalmazásra kerülő gyógyszerek (a továbbiakban: gyógyszer) előállításának, gyártásának, minőségének, minőség-ellenőrzésének, forgalomba hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának, kereskedelmi gyakorlatának, ismertetésének szabályait, a vizsgálati készítmények klinikai vizsgálatának és alkalmazásának szabályaira,
+e)[^83] az emberi alkalmazásra kerülő gyógyszerek (a továbbiakban: gyógyszer) előállításának, gyártásának, minőségének, minőség-ellenőrzésének, forgalomba hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának, kereskedelmi gyakorlatának, ismertetésének szabályait, a vizsgálati gyógyszerek klinikai vizsgálatának és alkalmazásának szabályaira,
 
 f) a kábítószerként és pszichotróp anyagként minősített gyógyszerek forgalomba hozatalának, forgalmazásának, rendelésének, kiszolgáltatásának és felhasználásának szabályaira,
 
@@ -30,6 +30,7 @@ d) ellátja az orvos- és egészségtudományi képzéssel kapcsolatos állami f
 
 e) a szakképzés általános keretei között szervezi az egészségügyi szakképzési feladatok végrehajtását.
 
-f)[^82] az ágazati szintű döntések meghozatalának előkészítése, támogatása érdekében egészségügyi ágazati adatelemző központot működtet.
+f)[^84] az ágazati szintű döntések meghozatalának előkészítése, támogatása érdekében egészségügyi ágazati adatelemző központot működtet.
 
-[^82]: A 95. § (2) bekezdés f) pontját az 588/2020. (XII. 17.) Korm. rendelet 8. §-a iktatta be.
+[^83]: A 95. § (1) bekezdés e) pontja a 724/2021. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^84]: A 95. § (2) bekezdés f) pontját az 588/2020. (XII. 17.) Korm. rendelet 8. §-a iktatta be.

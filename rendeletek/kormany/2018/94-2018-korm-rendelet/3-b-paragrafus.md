@@ -1,4 +1,4 @@
-## 3/A. §[^2] A miniszterelnök a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló kormányrendelet szerint gondoskodik az e-közigazgatási és informatikai fejlesztések egységesítéséről és összehangolásáról.
+## 3/A. §[^3] A miniszterelnök a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló kormányrendelet szerint gondoskodik az e-közigazgatási és informatikai fejlesztések egységesítéséről és összehangolásáról.
 
 ## II. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## 1. A miniszterelnök kormányzati igazgatási munkaszervezete
 
-## 3/B. §[^3] A miniszterelnök az 1. § (2) bekezdésében meghatározott feladata végrehajtása érdekében közvetlenül, illetve a miniszterelnök európai uniós kérdésekért felelős államtitkára útján
+## 3/B. §[^4] A miniszterelnök az 1. § (2) bekezdésében meghatározott feladata végrehajtása érdekében közvetlenül, illetve a miniszterelnök európai uniós kérdésekért felelős államtitkára útján
 
 a) tárgyal az európai uniós tagállamokkal, illetve az európai uniós intézmények képviselőivel,
 
@@ -18,5 +18,5 @@ d) kapcsolatot tart és egyeztet az európai uniós tagsághoz kapcsolódó korm
 
 e) a kormányzati szervektől szakmai álláspontot kérhet, és ezekről egyeztetést kezdeményezhet.
 
-[^2]: A 3/A. §-t a 83/2019. (IV. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 391/2020. (VIII. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: A 3/B. §-t a 698/2020. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 3/A. §-t a 83/2019. (IV. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 391/2020. (VIII. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3/B. §-t a 698/2020. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

@@ -12,6 +12,6 @@ d) előkészíti, kidolgozza és ellátja a területfejlesztés intézményrends
 
 e) kialakítja és működteti a terület- és regionális fejlesztéssel és a területrendezéssel kapcsolatos információs és adatszolgáltatási rendszert,
 
-f)[^110]
+f)[^112]
 
-[^110]: A 134. § (2) bekezdés f) pontját az 536/2020. (XII. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
+[^112]: A 134. § (2) bekezdés f) pontját az 536/2020. (XII. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.

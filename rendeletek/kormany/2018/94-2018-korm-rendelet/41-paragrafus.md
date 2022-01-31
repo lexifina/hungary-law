@@ -6,7 +6,7 @@
 
 3. a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény szerinti bűnügyi nyilvántartó szervként;
 
-4.[^56]
+4.[^57]
 
 5. az anyakönyvi eljárásról szóló 2010. évi I. törvény szerinti nyilvántartó szervként;
 
@@ -34,7 +34,7 @@
 
 17. az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény szerinti központi szervként.
 
-(2)[^57] A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió, valamint a Nagy-Britannia és Észak-Írország Egyesült Királysága rendszereivel való információcserét lebonyolító nemzeti kapcsolattartó pont (EUCARIS, RESPER), illetve központi hatóság (ECRIS) hatáskörébe utalt, a publikus kulcsú információs rendszer (PKI) koordinátor, az úti okmányok szenzitív adatainak vizsgálatához kapcsolódó (SPOC) rendszer, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.
+(2)[^58] A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió, valamint a Nagy-Britannia és Észak-Írország Egyesült Királysága rendszereivel való információcserét lebonyolító nemzeti kapcsolattartó pont (EUCARIS, RESPER), illetve központi hatóság (ECRIS) hatáskörébe utalt, a publikus kulcsú információs rendszer (PKI) koordinátor, az úti okmányok szenzitív adatainak vizsgálatához kapcsolódó (SPOC) rendszer, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.
 
-[^56]: A 41. § (1) bekezdés 4. pontját a 254/2018. (XII. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
-[^57]: A 41. § (2) bekezdése a 287/2021. (V. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^57]: A 41. § (1) bekezdés 4. pontját a 254/2018. (XII. 18.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^58]: A 41. § (2) bekezdése a 287/2021. (V. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.

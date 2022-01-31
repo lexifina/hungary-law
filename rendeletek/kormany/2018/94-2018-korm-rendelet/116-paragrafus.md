@@ -14,7 +14,7 @@
 
 6. energiapolitikáért,
 
-7.[^96] körforgásos gazdaságra történő átállásért és a termékértéklánc-felügyeletért
+7.[^98] körforgásos gazdaságra történő átállásért és a termékértéklánc-felügyeletért
 
 8. építésgazdaságért,
 
@@ -28,9 +28,9 @@
 
 13. hulladékgazdálkodásért,
 
-13a.[^97] hulladékgazdálkodás felügyeletéért,
+13a.[^99] hulladékgazdálkodás felügyeletéért,
 
-13b.[^98] a körforgásos gazdasághoz és a hulladékgazdálkodáshoz kapcsolódóan a fenntartható fejlődési feladatok összehangolásáért
+13b.[^100] a körforgásos gazdasághoz és a hulladékgazdálkodáshoz kapcsolódóan a fenntartható fejlődési feladatok összehangolásáért
 
 14. informatikáért,
 
@@ -50,23 +50,23 @@
 
 22. tudománypolitika koordinációjáért,
 
-23.[^99] szakképzésért,
+23.[^101] szakképzésért,
 
-23a.[^100] felnőttképzésért,
+23a.[^102] felnőttképzésért,
 
-24.[^101] – az ezen alcímben és a 2. és 3. mellékletben meghatározottak szerint, a felsőoktatással összefüggő feladat- és hatáskörök tekintetében – oktatásért,
+24.[^103] – az ezen alcímben és a 2. és 3. mellékletben meghatározottak szerint, a felsőoktatással összefüggő feladat- és hatáskörök tekintetében – oktatásért,
 
-25.[^102] foglalkoztatáspolitikáért,
+25.[^104] foglalkoztatáspolitikáért,
 
-26.[^103] társadalmi párbeszédért
+26.[^105] társadalmi párbeszédért
 
 felelős tagja.
 
-[^96]: A 116. § 7. pontját az 536/2020. (XII. 1.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte, újonnan a 312/2021. (VI. 7.) Korm. rendelet 21. § (1) bekezdése iktatta be.
-[^97]: A 116. § 13a. pontját a 312/2021. (VI. 7.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^98]: A 116. § 13b. pontját a 312/2021. (VI. 7.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^99]: A 116. § 23. pontja a 13/2020. (II. 7.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.
-[^100]: A 116. § 23a. pontját a 13/2020. (II. 7.) Korm. rendelet 133. § (2) bekezdése iktatta be.
-[^101]: A 116. § 24. pontját a 209/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
-[^102]: A 116. § 25. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
-[^103]: A 116. § 26. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^98]: A 116. § 7. pontját az 536/2020. (XII. 1.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte, újonnan a 312/2021. (VI. 7.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^99]: A 116. § 13a. pontját a 312/2021. (VI. 7.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^100]: A 116. § 13b. pontját a 312/2021. (VI. 7.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^101]: A 116. § 23. pontja a 13/2020. (II. 7.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.
+[^102]: A 116. § 23a. pontját a 13/2020. (II. 7.) Korm. rendelet 133. § (2) bekezdése iktatta be.
+[^103]: A 116. § 24. pontját a 209/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^104]: A 116. § 25. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^105]: A 116. § 26. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.

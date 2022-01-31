@@ -1,3 +1,3 @@
-93. §[^80]
+93. §[^81]
 
-[^80]: A 93. §-t a 437/2020. (IX. 22.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^81]: A 93. §-t a 437/2020. (IX. 22.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.

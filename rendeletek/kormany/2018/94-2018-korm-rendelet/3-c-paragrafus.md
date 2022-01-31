@@ -1,4 +1,4 @@
-## 3/C. §[^4] A 3/B. §-ban meghatározottakon túl a miniszterelnök európai uniós kérdésekért felelős államtitkára közvetlenül segíti és támogatja a miniszterelnök munkáját az európai uniós tagsággal összefüggő ügyekben, különösen
+## 3/C. §[^5] A 3/B. §-ban meghatározottakon túl a miniszterelnök európai uniós kérdésekért felelős államtitkára közvetlenül segíti és támogatja a miniszterelnök munkáját az európai uniós tagsággal összefüggő ügyekben, különösen
 
 a) kapcsolatot tart az Európai Unió intézményei és szervei vezetőinek munkatársaival, vezető tisztviselőivel, valamint az Európai Unió állam- és kormányfőinek uniós ügyekkel foglalkozó közvetlen munkatársaival (Sherpa),
 
@@ -14,4 +14,4 @@ f) az európai uniós kérdésekkel összefüggésben más európai uniós tagá
 
 g) harmadik államokkal való kapcsolattartásban az Európai Unióval összefüggő kérdések vonatkozásában.
 
-[^4]: A 3/C. §-t a 698/2020. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 3/C. §-t a 698/2020. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

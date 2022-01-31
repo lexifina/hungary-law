@@ -1,4 +1,4 @@
-## 13. §[^17] A miniszterelnök kabinetfőnöke az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
+## 13. §[^18] A miniszterelnök kabinetfőnöke az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
 
 a) az e-közigazgatásért felelős miniszter együttműködésével gondoskodik az e-közigazgatás és az e-közigazgatási szolgáltatások általános elvi alapjai meghatározásáról,
 
@@ -14,7 +14,7 @@ f) felügyeli a Kormány e-közigazgatással és informatikai fejlesztésekkel, 
 
 g) a miniszterelnök nevében, a miniszterelnök 3/A. §-ban meghatározott jogkörében eljárva – mint a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény 2. § (1) bekezdése szerinti munkaszervezetének vezetője –, a Kormány rendeletében meghatározottak szerint ellenőrzi és jóváhagyja az e-közigazgatással, az informatikával, valamint az infokommunikációs infrastruktúrával kapcsolatos fejlesztéseket és beszerzéseket,
 
-h)[^18] az e-közigazgatásért felelős miniszter és az informatikáért felelős miniszter együttműködésével gondoskodik a nemzeti adatvagyon-gazdálkodás általános elvei kidolgozásáról és a nemzeti adatvagyon-gazdálkodás megvalósításáról,
+h)[^19] az e-közigazgatásért felelős miniszter és az informatikáért felelős miniszter együttműködésével gondoskodik a nemzeti adatvagyon-gazdálkodás általános elvei kidolgozásáról és a nemzeti adatvagyon-gazdálkodás megvalósításáról,
 
 i) gondoskodik a nemzeti szoftverlicenc-gazdálkodás általános elvei kidolgozásáról, és gondoskodik annak végrehajtásáról,
 
@@ -22,5 +22,5 @@ j) egyetértési jogot gyakorol a nemzeti adatvagyon- és szoftverlicenc-gazdál
 
 k) felügyeli a nemzeti adatvagyon- és szoftverlicenc-gazdálkodás megvalósítását.
 
-[^17]: A 13. § a 391/2020. (VIII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^18]: A 13. § h) pontja a 483/2021. (VIII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 13. § a 391/2020. (VIII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 13. § h) pontja a 483/2021. (VIII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
