@@ -834,7 +834,7 @@
 
 ## A következő elemekre külön figyelmet kell fordítani:
 
-## a) Az emberi felhasználásra kerülő gyógyszerek közösségi kódexéről szóló Európai Parlament és a Tanács 2004/27/EK irányelvével módosított 2001/83/EK irányelv (2001. november 6.) 8. cikkelye (3) (i) pontjának és a 10. cikkelye (1) pontjának megfelelően benyújtott klinikai eredmények lehetővé kell hogy tegyék tudományosan megalapozott, indokolt vélemény kialakítását arról, hogy a vizsgálati készítmény kielégíti-e a forgalomba hozatali engedély kiadásához szükséges követelményeket. Alapvető követelmény, hogy minden klinikai kipróbálás eredményét közölni kell, akár kedvező, akár kedvezőtlen.
+## a)[^158] Az emberi felhasználásra kerülő gyógyszerek közösségi kódexéről szóló Európai Parlament és a Tanács 2004/27/EK irányelvével módosított 2001/83/EK irányelv (2001. november 6.) 8. cikkelye (3) (i) pontjának és a 10. cikkelye (1) pontjának megfelelően benyújtott klinikai eredmények lehetővé kell hogy tegyék tudományosan megalapozott, indokolt vélemény kialakítását arról, hogy a vizsgálati gyógyszer kielégíti-e a forgalomba hozatali engedély kiadásához szükséges követelményeket. Alapvető követelmény, hogy minden klinikai kipróbálás eredményét közölni kell, akár kedvező, akár kedvezőtlen.
 
 ## b) A klinikai kipróbálást mindig meg kell, hogy előzzék a megfelelő hatástani és toxikológiai vizsgálatok, amelyeket a jelen melléklet 4. fejezetének követelményei alapján végeztek el. A klinikai vizsgálatokat végzőknek először meg kell ismerkedniük a hatástani és toxikológiai vizsgálatokból levont következtetésekkel. Az ilyen vizsgálatot kérelmezőnek erről „vizsgálói kézikönyvet” kell csatolnia, amely a klinikai kipróbálás megkezdése előtt rendelkezésre álló minden fontosabb adatot tartalmaz, beleértve a kémiai, hatástani és biológiai adatokat, toxikológiai, farmakokinetikai és farmakodinámiás vizsgálatok állatokon kapott eredményeit, továbbá a korábbi klinikai kipróbálási fázisok eredményeit, megfelelő adatokkal ellátva, melyek igazolják a tervezett klinikai vizsgálat jellegét, kiterjedését és tartamát. A teljes hatástani és toxikológiai jelentést csak külön kérésre kell bemutatni. Emberi vagy állati eredetű anyagok esetében – a klinikai vizsgálat megkezdése előtt – minden lehetséges intézkedést meg kell hozni a fertőző ágensek átvitelének megelőzésére.
 
@@ -858,9 +858,9 @@
 
 ## Minden adatot és dokumentumot kérésre az illetékes hatóságok rendelkezésére kell bocsátani.
 
-## d) Minden egyes, az alábbiakban felsorolt és a klinikai kipróbálás során kapott adatot megfelelő részletességgel kell bemutatni ahhoz, hogy azt tárgyilagosan el lehessen bírálni. Így:
+## d)[^159] Minden egyes, az alábbiakban felsorolt és a klinikai kipróbálás során kapott adatot megfelelő részletességgel kell bemutatni ahhoz, hogy azt tárgyilagosan el lehessen bírálni. Így:
 
-## – a vizsgálati tervet és ennek indoklását, a vizsgálat célkitűzéseit, statisztikai tervezését és módszertanát, azokat a körülményeket, melyek között a vizsgálat és annak irányítása végbemegy, végül részletes információt a vizsgálati készítményről;
+## – a vizsgálati tervet és ennek indoklását, a vizsgálat célkitűzéseit, statisztikai tervezését és módszertanát, azokat a körülményeket, melyek között a vizsgálat és annak irányítása végbemegy, végül részletes információt a vizsgálati gyógyszerről;
 
 ## – a minőségbiztosítási helyszíni szemlék jegyzőkönyveit (ha hozzáférhetők);
 
@@ -868,9 +868,9 @@
 
 ## – a vizsgálat vezetője vagy – több intézményben egyidejűleg folyó (multicentrikus) klinikai vizsgálat esetében – valamennyi vizsgálatvezető, vagy ezek munkájának összehangolásáért felelős (legfőbb) vizsgálatvezető által aláírt végső zárójelentést.
 
-## e) A klinikai kipróbálás fentiekben részletezett adatait a kérelemhez csatoltan el kell juttatni az illetékes hatóságokhoz. Az illetékes hatóságok beleegyezésével a kérelmező kihagyhatja ezen információk egy részét, de kérésre azonnal be kell mutatnia a teljes dokumentációt.
+## e)[^160] A klinikai kipróbálás fentiekben részletezett adatait a kérelemhez csatoltan el kell juttatni az illetékes hatóságokhoz. Az illetékes hatóságok beleegyezésével a kérelmező kihagyhatja ezen információk egy részét, de kérésre azonnal be kell mutatnia a teljes dokumentációt.
 
-## A kísérletes bizonyítékok birtokában a vizsgálónak ki kell fejteni véleményét a vizsgálati készítmény relatív ártalmatlanságáról a szokásos alkalmazási körülmények között, az összeférhetőségéről (kompatibilitásáról), a hatásosságáról és minden olyan hasznos információról, melyek a javallatokkal, ellenjavallatokkal, az adagolás, a kezelés átlagos tartamával, végül a kezelés alatti szükséges elővigyázatossággal és a túladagolás tüneteivel kapcsolatosak. Egy több vizsgálóhelyen egyidejűleg végzett (multicentrikus) klinikai vizsgálat eredményeinek jelentésekor a vizsgálatok legfőbb irányítója következtetéseiben véleményt kell, hogy adjon a vizsgálati készítmény ártalmatlanságáról és hatásosságáról a vizsgálatba bevont minden intézmény nevében.
+## A kísérletes bizonyítékok birtokában a vizsgálónak ki kell fejteni véleményét a vizsgálati gyógyszer relatív ártalmatlanságáról a szokásos alkalmazási körülmények között, az összeférhetőségéről (kompatibilitásáról), a hatásosságáról és minden olyan hasznos információról, melyek a javallatokkal, ellenjavallatokkal, az adagolás, a kezelés átlagos tartamával, végül a kezelés alatti szükséges elővigyázatossággal és a túladagolás tüneteivel kapcsolatosak. Egy több vizsgálóhelyen egyidejűleg végzett (multicentrikus) klinikai vizsgálat eredményeinek jelentésekor a vizsgálatok legfőbb irányítója következtetéseiben véleményt kell, hogy adjon a vizsgálati gyógyszer ártalmatlanságáról és hatásosságáról a vizsgálatba bevont minden intézmény nevében.
 
 ## f) A klinikai megfigyeléseket vizsgálatonként az alábbi szempontok szerint kell összefoglalni:
 
@@ -908,7 +908,7 @@
 
 ## (4) bármilyen haláleset, mely a kipróbálási periódusban, vagy az azt követő kezelésmentes megfigyelési időszakban fordult elő.
 
-## h) Gyógyszeranyagok új kombinációjára vonatkozó adatok azonosak kell, hogy legyenek az új vizsgálati készítményekre előírtakkal, és bizonyítaniuk kell a kombináció ártalmatlanságát és hatásosságát.
+## h)[^161] Gyógyszeranyagok új kombinációjára vonatkozó adatok azonosak kell, hogy legyenek az új vizsgálati gyógyszerekre előírtakkal, és bizonyítaniuk kell a kombináció ártalmatlanságát és hatásosságát.
 
 ## i) Valamely adat teljes vagy részleges elhagyását meg kell indokolni. Ha váratlan eredmény jelentkezik a klinikai vizsgálat során, további nem-klinikai, toxikológiai és hatástani vizsgálatokat kell végezni, és azokat ki kell értékelni.
 
@@ -970,7 +970,7 @@
 
 ## A klinikai vizsgálat lehetőleg kontrollált és randomizált legyen, továbbá a klinikai vizsgálatokat placeboval és egy bizonyított terápiás értékű, elfogadott gyógyszerkészítménnyel összehasonlítva is el kell végezni. Minden ettől eltérő vizsgálat tervezését indokolni kell. A kontrollcsoportba került betegek kezelése függ betegségük természetétől, illetőleg etikai megfontolásoktól is, ez azt jelenti, hogy lehet, hogy helyesebb bizonyos esetekben egy új gyógyszer hatásosságát összehasonlítani egy már alkalmazott, ismert hatású gyógyszerrel, mint placebóval (hatóanyagot nem tartalmazó készítménnyel).
 
-## (1) Amennyire csak lehetséges, különösen azoknál a vizsgálatoknál, amikor a vizsgálati készítmény hatása objektív módon nem mérhető le, törekedni kell az aszimmetriák elkerülésére, randomizációval és „vak” kísérleti elrendezéssel.
+## (1)[^162] Amennyire csak lehetséges, különösen azoknál a vizsgálatoknál, amikor a vizsgálati gyógyszer hatása objektív módon nem mérhető le, törekedni kell az aszimmetriák elkerülésére, randomizációval és „vak” kísérleti elrendezéssel.
 
 ## (2) A klinikai kipróbálás tervezetének tartalmaznia kell az alkalmazásra kerülő statisztikai módszerek alapos leírását, a vizsgálatba bevont személyek számát és indokoltságát, beleértve a vizsgálat erősségének mutatóit, a statisztikai megbízhatóság tervezett mértékét és a statisztikai egység meghatározását. A hibák elkerülésére hozott intézkedéseket, különösen a randomizáció módszereit dokumentálni kell. Nagyszámú beteg bevonása a klinikai kipróbálásba nem helyettesítheti a megfelelően vezetett és ellenőrzött vizsgálatot.
 
@@ -994,7 +994,7 @@
 
 ## Néhány gyógyszer olyan különleges tulajdonságokkal rendelkezik, hogy a forgalomba hozatali engedély iránti kérelemre vonatkozó, jelen melléklet 1. részében lefektetett követelményeket hozzájuk kell illeszteni. Ezeknek a különleges helyzeteknek a figyelembevételével a kérelmezőnek egy, a készítménynek megfelelő felépítésű dossziét kell benyújtania.
 
-## 1.[^158] Megalapozott és elfogadott gyógyászati
+## 1.[^163] Megalapozott és elfogadott gyógyászati
 
 ## felhasználás
 
@@ -1028,9 +1028,9 @@
 
 ## 2. Alapvetően hasonló termékek
 
-## a)[^159] A Korm. rendelet szerint beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, és be kell nyújtania az eredeti forgalomba hozatali engedély tulajdonosának beleegyezését, hogy kereszthivatkozással élhet a 4. és 5. fejezetének tartalmát illetően.
+## a)[^164] A Korm. rendelet szerint beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, és be kell nyújtania az eredeti forgalomba hozatali engedély tulajdonosának beleegyezését, hogy kereszthivatkozással élhet a 4. és 5. fejezetének tartalmát illetően.
 
-## b)[^160] A Korm. rendelet (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
+## b)[^165] A Korm. rendelet (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
 
 ## Ezen termékek esetében a nem-klinikai/klinikai áttekintéseknek/összefoglalóknak a következő elemekre kell különösen koncentrálniuk:
 
@@ -1052,7 +1052,7 @@
 
 ## Ha a gyógyszert más terápiás célra akarják felhasználni, vagy más gyógyszerformában van jelen, vagy más úton kerül a szervezetbe, vagy más dózisokban, vagy más gyógyszeradagolásban, abban az esetben a megfelelő toxikológiai és farmakológiai vizsgálatokat, illetve klinikai vizsgálatokat el kell végezni.
 
-## 4.[^161] Hasonló biológiai gyógyszerek
+## 4.[^166] Hasonló biológiai gyógyszerek
 
 ## A Korm. rendelet előírásai nem elegendőek biológiai gyógyszerek esetén. Ha az alapvetően hasonló gyógyszerek (generikumok) esetén benyújtandó információk nem elegendőek két biológiai gyógyszer hasonló természetének megállapítására, akkor kiegészítő adatokat, különösen a toxikológiai és klinikai profilra vonatkozókat kell benyújtani.
 
@@ -1064,7 +1064,7 @@
 
 ## Az alkalmazandó általános alapelvek a szóban forgó biológiai gyógyszer sajátos jellemzőinek figyelembevételére vonatkozóan, az Ügynökség által kiadott útmutatóban lefektetésre kerültek. Abban az esetben, ha az eredeti gyógyszer több indikációval is rendelkezik, a hasonlónak bejelentett gyógyszer hatásosságát és biztonságát indokolni kell, vagy ha szükséges minden egyes tervezett indikációra külön bizonyítani.
 
-## 5.[^162] Fix kombinációjú gyógyszerek
+## 5.[^167] Fix kombinációjú gyógyszerek
 
 ## A Korm. rendelet alapján beadott kérelmeknek olyan új készítményre kell vonatkozni, mely legalább két, fix kombinációban még nem engedélyezett hatóanyagot tartalmaz.
 
@@ -1096,7 +1096,7 @@
 
 ## A vegyes forgalomba hozatali engedély iránti kérelmek esetén a forgalomba hozatali engedély iránti kérelem dossziéjában a 4. fejezet, illetve az 5. fejezet, a kérelmező által elvégzett nem-klinikai, illetve klinikai korlátozott vizsgálati jelentések és irodalmi hivatkozások kombinációjából épül fel. Minden más fejezetet jelen melléklet 1. részében leírtak szerint kell benyújtani. Az illetékes hatóság a kérelmező által benyújtott tervezett formát esetenként bírálja el.
 
-## 3. RÉSZ[^163]
+## 3. RÉSZ[^168]
 
 ## KÜLÖNLEGES GYÓGYSZEREK
 
@@ -1108,7 +1108,7 @@
 
 ## Az emberi vérből vagy plazmából készült gyógyszerek esetében, a 3. fejezet „A kiindulási és nyersanyagokra vonatkozó információk” című bekezdésében említettek az emberi vérből vagy plazmából származó kiindulási anyagokra nem vonatkoznak, azokat a plazma alapadatok (Plasma Master File) helyettesítik, melyet jelen rész előírásai szerint kell elkészíteni.
 
-## a)[^164] Alapelvek
+## a)[^169] Alapelvek
 
 ## – A plazma alapadatoknak különálló dokumentumnak kell lennie, melyet a forgalomba hozatali engedély iránti kérelem dossziéjától külön kell benyújtani. Ez minden fontos információt tartalmaz a teljes emberi plazmáról, melyet kiindulási vagy nyersanyagként használtak fel a köztes frakciók, segédanyagok és a hatóanyag összetevőjeként, és amely anyagok a 2. § (2) bekezdés 10. pont szerinti gyógyszerben kerülnek felhasználásra.
 
@@ -1152,7 +1152,7 @@
 
 ## (4) A plazma alapadatoknak tartalmaznia kell egy listát azokról a gyógyszerekről, melyekre a „plazma alapadatok” érvényes, akár rendelkezik a gyógyszer forgalomba hozatali engedéllyel, akár engedélyezési eljárás alatt áll, beleértve klinikai vizsgálati kérelmeket is.
 
-## c)[^165] Értékelés és tanúsítás
+## c)[^170] Értékelés és tanúsítás
 
 ## – A még nem engedélyezett gyógyszerek esetében a forgalomba hozatali engedélyt kérelmezőnek egy teljes dossziét kell benyújtania az illetékes hatóságnak, amihez tartoznia kell a különálló plazma alapadatoknak, ha az még nem létezik.
 
@@ -1198,7 +1198,7 @@
 
 ## 7. A hatóanyag stabilitása.
 
-## c)[^166] Értékelés és tanusítás
+## c)[^171] Értékelés és tanusítás
 
 ## – Új vakcinák esetében, melyek új vakcina antigént tartalmaznak, a kérelmezőnek egy teljes forgalomba hozatali engedély iránti kérelmi dossziét kell benyújtania, mely tartalmazza az új vakcinában lévő összes vakcina antigén vakcina-antigén-alapadatait, kivéve azon vakcina antigéneket melyek már rendelkeznek ilyen alapadatokkal. Az Ügynökség az összes vakcina-antigén-alapadat tudományos és szakmai értékelését elvégzi. Pozitív értékelés esetén egy tanúsítvány kerül kibocsátásra, mely igazolja, hogy a vakcina-antigén-alapadatok megfelelnek a Közösség jogszabályainak, ezt az értékelési jelentés követi. A kiállított igazolás érvényes az egész Közösségben.
 
@@ -1210,7 +1210,7 @@
 
 ## 2. RADIOAKTÍV GYÓGYSZEREK ÉS PREKURZOROK
 
-## 2.1.[^167] Radioaktív gyógyszerek
+## 2.1.[^172] Radioaktív gyógyszerek
 
 ## Ezen fejezet értelmében, a Korm. rendelet 7. §-a alapján beadott kérvények esetén teljes dokumentációt kell benyújtani, melynek a következő sajátos részleteket kell tartalmaznia:
 
@@ -1266,7 +1266,7 @@
 
 ## Be kell mutatni azonban azokat az információkat, melyek a prekurzor klinikai hasznosságát bizonyítják, ha hozzákapcsolódik a szállító („carrier”) molekulához.
 
-## 3.[^168] HOMEOPÁTIÁS GYÓGYSZEREK
+## 3.[^173] HOMEOPÁTIÁS GYÓGYSZEREK
 
 ## Ez a pont felsorolja azokat a különleges rendelkezéseket a 3. és 4. fejezet alkalmazásával kapcsolatban, melyeket a homeopátiás gyógyszereknél kell alkalmazni.
 
@@ -1360,7 +1360,7 @@
 
 ## – Ha egy kérelmező egy ritka betegség gyógyszerének engedélyezése során hivatkozik a 7. § (1) bekezdésére és jelen melléklet 2. részének 1. fejezetére (megalapozott és elfogadott gyógyászati felhasználás), a hivatkozott anyag rendszeres és dokumentált használata vonatkozhat – mint korlátozási mód – ezen anyag használatára.
 
-## 4. RÉSZ[^169]
+## 4. RÉSZ[^174]
 
 ## FEJLETT (ÚJSZERŰ) TERÁPIÁS GYÓGYSZERKÉSZÍTMÉNYEK
 
@@ -1745,15 +1745,20 @@
 [^155]: Az 1. számú melléklet 1. rész 1. fejezet 1.2. alpontja a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
 [^156]: Az 1. számú melléklet 1. rész 1.4. pontja a 8/2018. (II. 13.) EMMI rendelet 31. § l) pontja szerint módosított szöveg.
 [^157]: Az 1. számú melléklet 1. rész 3. fejezet (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja szerint módosított szöveg.
-[^158]: Az 1. számú melléklet 2. rész 1. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § m) pontja szerint módosított szöveg.
-[^159]: Az 1. számú melléklet 2. rész 2. alcím a) pontja a 8/2018. (II. 13.) EMMI rendelet 31. § n) pontja szerint módosított szöveg.
-[^160]: Az 1. számú melléklet 2. rész 2. alcím b) pontja a 8/2018. (II. 13.) EMMI rendelet 31. § n) pontja szerint módosított szöveg.
-[^161]: Az 1. számú melléklet 2. rész 4. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § o) pontja szerint módosított szöveg.
-[^162]: Az 1. számú melléklet 2. rész 5. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § p) pontja szerint módosított szöveg.
-[^163]: Az 1. melléklet 3. része az 54/2016. (XII. 30.) EMMI rendelet 48. § d) pontja szerint módosított szöveg.
-[^164]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont a) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § h) és i) pontja szerint módosított szöveg.
-[^165]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § i) pontja szerint módosított szöveg.
-[^166]: Az 1. számú melléklet 3. rész 1. pont 1.2. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § d) és e) pontja, a 38/2018. (X. 31.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
-[^167]: Az 1. számú melléklet 3. rész 2. alcím 2.1. pont nyitó szövegrésze a 8/2018. (II. 13.) EMMI rendelet 31. § q) pontja szerint módosított szöveg.
-[^168]: Az 1. számú melléklet 3. rész 3. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § r) pontja szerint módosított szöveg.
-[^169]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
+[^158]: Az 1. melléklet 5. Fejezet 5.2. pont a) alpontja a 2/2022. (I. 14.) EMMI rendelet 28. § a) pontja szerint módosított szöveg.
+[^159]: Az 1. melléklet 5. Fejezet 5.2. pont d) alpontja a 2/2022. (I. 14.) EMMI rendelet 28. § a) pontja szerint módosított szöveg.
+[^160]: Az 1. melléklet 5. Fejezet 5.2. pont d) alpontja a 2/2022. (I. 14.) EMMI rendelet 28. § a) pontja szerint módosított szöveg.
+[^161]: Az 1. melléklet 5. Fejezet 5.2. pont h) alpontja a 2/2022. (I. 14.) EMMI rendelet 28. § d) pontja szerint módosított szöveg.
+[^162]: Az 1. melléklet 5. Fejezet 5.2.5.1 pont (1) bekezdése a 2/2022. (I. 14.) EMMI rendelet 28. § a) pontja szerint módosított szöveg.
+[^163]: Az 1. számú melléklet 2. rész 1. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § m) pontja szerint módosított szöveg.
+[^164]: Az 1. számú melléklet 2. rész 2. alcím a) pontja a 8/2018. (II. 13.) EMMI rendelet 31. § n) pontja szerint módosított szöveg.
+[^165]: Az 1. számú melléklet 2. rész 2. alcím b) pontja a 8/2018. (II. 13.) EMMI rendelet 31. § n) pontja szerint módosított szöveg.
+[^166]: Az 1. számú melléklet 2. rész 4. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § o) pontja szerint módosított szöveg.
+[^167]: Az 1. számú melléklet 2. rész 5. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § p) pontja szerint módosított szöveg.
+[^168]: Az 1. melléklet 3. része az 54/2016. (XII. 30.) EMMI rendelet 48. § d) pontja szerint módosított szöveg.
+[^169]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont a) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § h) és i) pontja szerint módosított szöveg.
+[^170]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § i) pontja szerint módosított szöveg.
+[^171]: Az 1. számú melléklet 3. rész 1. pont 1.2. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § d) és e) pontja, a 38/2018. (X. 31.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
+[^172]: Az 1. számú melléklet 3. rész 2. alcím 2.1. pont nyitó szövegrésze a 8/2018. (II. 13.) EMMI rendelet 31. § q) pontja szerint módosított szöveg.
+[^173]: Az 1. számú melléklet 3. rész 3. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § r) pontja szerint módosított szöveg.
+[^174]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
