@@ -1,0 +1,1 @@
+## „(7) A tájékoztatáson alapuló beleegyező nyilatkozatot a korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy is aláírja.”
