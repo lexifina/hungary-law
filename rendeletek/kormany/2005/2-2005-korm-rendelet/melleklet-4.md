@@ -90,7 +90,7 @@
 
 ## f) földtani és ásványvagyon védelemre kiterjedően:
 
-## a bányafelügyeleti hatáskörében eljáró megyei kormányhivatal;
+## Szabályozott Tevékenységek Felügyeleti Hatósága;
 
 ## g) a természetes gyógytényezők, gyógyhelyek természeti adottságainak védelmére kiterjedően:
 
