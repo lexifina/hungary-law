@@ -1,4 +1,4 @@
-7. § (1)[^12] Az igazságügyért felelős miniszter – a 9. § szerinti közszolgáltatási szerződéssel – gondoskodik
+7. § (1)[^14] Az igazságügyért felelős miniszter – a 9. § szerinti közszolgáltatási szerződéssel – gondoskodik
 
 a) a Nemzeti Jogszabálytár működtetéséről, fejlesztéséről, üzemeltetéséről és szerkesztéséről,
 
@@ -10,7 +10,7 @@ d) a 2. § (5) bekezdése szerinti indokolások közzétételéről,
 
 e) a 2. § (6) bekezdése szerinti összefoglalók közzétételéről.
 
-(2)[^13]
+(2)[^15]
 
-[^12]: A 7. § (1) bekezdése a 48/2019. (III. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^13]: A 7. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 618. § (2) bekezdése hatályon kívül helyezte.
+[^14]: A 7. § (1) bekezdése a 48/2019. (III. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 7. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 618. § (2) bekezdése hatályon kívül helyezte.

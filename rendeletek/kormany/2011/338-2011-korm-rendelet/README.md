@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-338-20-
 | 2018-03-27 | 2011-338-20-22.8 | 47/2018. (III. 19.) Korm. rendelet |
 | 2019-03-15 | 2011-338-20-22.9 | 48/2019. (III. 13.) Korm. rendelet |
 | 2021-04-01 | 2011-338-20-22.10 | 699/2020. (XII. 29.) Korm. rendelet |
+| 2022-02-01 | 2011-338-20-22.11 | 20/2022. (I. 24.) Korm. rendelet |

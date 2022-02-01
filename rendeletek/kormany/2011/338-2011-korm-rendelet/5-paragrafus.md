@@ -1,4 +1,4 @@
-## 4/B. §[^11] Ha az önkormányzati rendelet tervezetéhez tartozó indokolás Nemzeti Jogszabálytárban való közzétételére – jogszabályban meghatározottak szerint – sor kerül, a közzétételre a 4/A. § szerinti eljárási szabályokat megfelelően alkalmazni kell.
+## 4/B. §[^13] Ha az önkormányzati rendelet tervezetéhez tartozó indokolás Nemzeti Jogszabálytárban való közzétételére – jogszabályban meghatározottak szerint – sor kerül, a közzétételre a 4/A. § szerinti eljárási szabályokat megfelelően alkalmazni kell.
 
 5. § (1) A Nemzeti Jogszabálytárban közzé kell tenni a (2) és (3) bekezdésben megjelölt valamennyi, a lekérdezés napján, vagy azt követően hatályos, minősített adatot nem tartalmazó, a Magyar Közlönyben közzétételre került közjogi szervezetszabályozó eszköz egységes szerkezetű szövegét.
 
@@ -32,4 +32,4 @@ e) a legfőbb ügyész,
 
 normatív utasítását.
 
-[^11]: A 4/B. §-t a 699/2020. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^13]: A 4/B. §-t a 699/2020. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
