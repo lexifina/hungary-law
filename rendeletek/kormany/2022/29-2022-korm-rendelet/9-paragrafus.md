@@ -1,0 +1,3 @@
+9. § (1) Az OKFŐ-nél az 1. és 2. melléklet szerinti egészséginformatikai szolgáltatásokhoz kapcsolódó álláshelyeken 2022. január 31-én foglalkoztatott kormánytisztviselői kormányzati szolgálati jogviszonya a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 114. §-a alapján 2022. február 1-jén munkaviszonnyá alakul át, a munkavállaló munkáltatója a Szolgáltatóközpont.
+
+(2) Az (1) bekezdés szerinti munkavállaló munkabérét a Szolgáltatóközpont úgy állapítja meg, hogy az nem lehet kevesebb, mint amekkora összegre az érintett – kormányzati szolgálati jogviszonyban illetményként – a kinevezési okirat alapján 2021. december 31-én jogosult volt.
