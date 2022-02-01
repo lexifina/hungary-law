@@ -1,0 +1,3 @@
+4. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 38/B. §-a a következő (8a) bekezdéssel egészül ki:
+
+„(8a) Az élelmiszerlánc-felügyeleti szerv a honlapján jogosult közzétenni a FELIR azonosítóhoz kapcsolódó, a 38. § (2) bekezdés c)–d) pontja szerinti elérhetőségi adatokat, ha azok közzététele a jogszabályban előírt információs rendszer működtetése, a gazdaság fejlesztésének és az érintett élelmiszerlánc-szereplők kapcsolatfelvételének előmozdítása, valamint az élelmiszerlánc-eseményekkel összefüggő tájékoztatáshoz kapcsolódó feladatok ellátása érdekében szükséges.”
