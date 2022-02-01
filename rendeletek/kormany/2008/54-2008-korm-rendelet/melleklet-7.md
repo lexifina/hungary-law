@@ -1,3 +1,3 @@
-7. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^73]
+7. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^74]
 
-[^73]: A 7. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^74]: A 7. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.

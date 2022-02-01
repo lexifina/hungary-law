@@ -228,6 +228,6 @@
 
 | 112 |  | 4. Kevert ásványi nyersanyag IV. | Azon ásványi nyersanyag, amely földtani szakértő szakvéleménye alapján a melléklet 3–33., 35., 37–40., 46–62., 64–76. és 92–97. sorában szereplő nyersanyagot 60%-nál kisebb mennyiségben tartalmazza. | 2314. | 660 | Ft/m3 | 0000 Vegyes, kevert és meddő-hányóból nyert nyersanyagok |
 
-1/b. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^63]
+1/b. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^64]
 
-[^63]: Az 1/B. mellékletet a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezédés f) pontja hatályon kívül helyezte.
+[^64]: Az 1/B. mellékletet a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezédés f) pontja hatályon kívül helyezte.
