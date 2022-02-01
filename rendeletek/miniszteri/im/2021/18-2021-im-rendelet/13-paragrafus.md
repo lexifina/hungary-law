@@ -1,3 +1,7 @@
-## 12. §
+## 12. § A Cvhr. a következő 20/E. §-sal egészül ki:
+
+## „20/E. § (1) A cégbíróság 2022. február 1. napján – az informatikai rendszere útján automatikusan – megvizsgálja, hogy az EUID-val rendelkező cégeknek a cégjegyzékbe bejegyzett EUID-jában szereplő cégjegyzékszáma és a cégnek a 2022. február 1. napján a cégjegyzékbe bejegyzett cégjegyzékszáma azonos-e. Eltérés esetén a cégbíróság – az informatikai rendszere útján automatikusan – olyan EUID-t állapít meg, amelyben a 9. § (2) bekezdés c) pontja szerinti cégjegyzékszám azonos a cég cégjegyzékbe bejegyzett cégjegyzékszámával. Az adatváltozásnak a cégjegyzékbe történő bejegyzésére és közzétételére automatikusan kerül sor.
+
+## (2) Az (1) bekezdésben foglaltakat a 2022. február 1. napján folyamatban lévő azon változásbejegyzési eljárásokban is alkalmazni kell, amelyekben a változásbejegyzési kérelemnek helyet adó végzés esetén e rendeletnek az egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 18/2021. (XII. 23.) IM rendelettel megállapított 9. § (3) bekezdése alapján az EUID változása is megtörténik. Ebben az esetben is az (1) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a változásbejegyzési kérelem elbírálásáig az EUID változását a cégjegyzékben „bejegyzés alatt” megjegyzéssel kell feltüntetni, és az adatváltozásnak a cégjegyzékbe történő bejegyzésére és közzétételére a változásbejegyzési kérelemnek helyt adó végzés esetén kerül sor.”
 
 ## 7. Az európai közösségi jogászok szakmai megnevezéseiről szóló 18/2007. (III. 19.) IRM rendelet módosítása
