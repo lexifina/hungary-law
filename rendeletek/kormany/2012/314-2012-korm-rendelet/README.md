@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-314-20-
 | 2021-03-01 | 2012-314-20-22.39 | 38/2020. (III. 10.) Korm. rendelet |
 | 2021-09-03 | 2012-314-20-22.40 | 56/2017. (III. 20.) Korm. rendelet |
 | 2022-01-08 | 2012-314-20-22.41 | 2/2022. (I. 7.) Korm. rendelet |
+| 2022-02-01 | 2012-314-20-22.42 | 360/2019. (XII. 30.) Korm. rendelet |
