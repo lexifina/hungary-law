@@ -1,0 +1,1 @@
+## 7. § A gázelosztó vezetékek biztonsági követelményeiről és a Gázelosztó Vezetékek Biztonsági Szabályzatáról szóló 21/2018. (IX. 27.) ITM rendelet alapján létrehozott Szakági Műszaki Bizottság tagjainak megbízatása 2022. március 1. napján megszűnik. A 3. § szerinti Műszaki Bizottságot a tagok bányafelügyelet elnöke általi megbízását követő 30 napon belül kell megalakítani.
