@@ -10,11 +10,11 @@ b) a cégnyilvántartás azonosítója (OCCSZ);
 
 c) a cég cégjegyzékszáma.
 
-(3)[^26] A cég cégjegyzékszámának változása nem jár az EIUD változásával.
+(3)[^26] A cég cégjegyzékszámának változása együtt jár az EUID változásával is.
 
 (4)[^27] Ha a nyomtatványon a magyar cég adatai közül a cég EUID-ja nem vagy hibásan kerül feltüntetésre, a cégbíróság a kérelem adatainak a cégjegyzékben történő rögzítésekor – külön felhívás nélkül – a hibát vagy hiányosságot hivatalból javítja, illetve pótolja.
 
 [^24]: A 8/A. §-t a 32/2012. (VII. 2.) KIM rendelet 3. §-a iktatta be, szövege a 24/2018. (VIII. 31.) IM rendelet 7. § (1) bekezdése szerint módosított szöveg.
 [^25]: A 9. § (2) bekezdését a 10/2012. (II. 29.) KIM rendelet 9. § b) pontja hatályon kívül helyezte, újonnan a 6/2017. (VI. 1.) IM rendelet 1. §-a iktatta be.
-[^26]: A 9. § (3) bekezdését a 7/2008. (IV. 15.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte, újonnan a 6/2017. (VI. 1.) IM rendelet 1. §-a iktatta be.
+[^26]: A 9. § (3) bekezdését a 7/2008. (IV. 15.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte, újonnan a 6/2017. (VI. 1.) IM rendelet 1. §-a iktatta be, szövege a 18/2021. (XII. 23.) IM rendelet 11. §-ával megállapított szöveg.
 [^27]: A 9. § (4) bekezdését a 6/2017. (VI. 1.) IM rendelet 1. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 ## 8M24949
 
-4. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^72]
+4. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^73]
 
 A KÖZKERESETI TÁRSASÁG SZERZŐDÉSMINTÁJA
 
@@ -356,7 +356,7 @@ Név:
 
 Okirati ellenjegyzés/közjegyzői okirat elemei
 
-[^72]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § a) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése, a 31/2019. (XII. 20.) IM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^73]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § a) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése, a 31/2019. (XII. 20.) IM rendelet 1. § (1) bekezdése szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nincs szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
