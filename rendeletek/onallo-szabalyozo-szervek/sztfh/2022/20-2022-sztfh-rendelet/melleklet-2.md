@@ -1,0 +1,81 @@
+## Az ásványi nyersanyagvagyon ismeretességi kategorizálása során alkalmazandó követelmények
+
+## Fogalommeghatározások
+
+## I. Általános az ENSZ Vagyon Osztályozási Keretrendszere (UNFC 2020) szerint:
+
+## 1. UNFC 221 osztály: E2: A fejlesztés és a működtetés környezeti, társadalmi, illetve gazdasági megfontolásokból életképes lesz a közeljövőben; F2: A technikai megvalósíthatósága a fejlesztési projektnek további értékelés tárgyát képezi; G1: A projekthez tartozó termék (ásványi nyersanyag) magas szintű bizonyossággal becsülhető.
+
+## 2. UNFC 222 osztály: E2: A fejlesztés és a működtetés környezeti, társadalmi, illetve gazdasági megfontolásokból életképes lesz a közeljövőben; F2: A technikai megvalósíthatósága a fejlesztési projektnek további értékelés tárgyát képez; G2: A projekthez tartozó termék (ásványi nyersanyag) közepes szintű bizonyossággal becsülhető.
+
+## 3. UNFC 112 osztály: E1: A fejlesztés és a működtetés környezeti, társadalmi, illetve gazdasági megfontolásokból igazoltan életképes; F1: A technikai megvalósíthatósága a fejlesztési projektnek igazolt; G2: A projekthez tartozó termék (ásványi nyersanyag) közepes szintű bizonyossággal becsülhető.
+
+## 4. UNFC 111 osztály: E1: A fejlesztés és a működtetés környezeti, társadalmi, illetve gazdasági megfontolásokból igazoltan életképes; F1: A technikai megvalósíthatósága a fejlesztési projektnek igazolt; G1: A projekthez tartozó termék (ásványi nyersanyag) magas szintű bizonyossággal becsülhető.
+
+## II. Szénhidrogének vonatkozásában alkalmazott kategóriák az SPE PRMS (2018) szabvánnyal és UNFC (2020) ENSZ osztályozási keretrendszerrel összefüggésben:
+
+## 1. A becsült vagyon mennyiségi meghatározásának bizonytalanságát fejezik ki.
+
+## 1.1. 1P: Bizonyított készlet: alacsony bizonytalanságú, konzervatív becslés a vagyon mennyiségére. Valószínűségi becslés esetén legalább 90% a valószínűsége, hogy a meghatározott vagyon mennyisége a megadott érték, vagy több. Feltételes vagyon esetén jelölése 1C. Megfelel a UNFC osztályozás szerinti G1 kategóriának.
+
+## 1.2. 2P: Bizonyított + valószínű készlet: legjobb becslés a vagyon mennyiségére. Valószínűségi becslés esetén legalább 50% a valószínűsége, hogy a meghatározott vagyon mennyisége a megadott érték, vagy több. Feltételes vagyon esetében jelölése 2C. Megfelel a UNFC osztályozás szerinti G1+G2 kategóriának.
+
+## 1.3. 3P: Bizonyított + valószínű + lehetséges készlet: magas bizonytalanságú, optimista becslés a vagyon mennyiségére. Valószínűségi becslés esetén legalább 10% a valószínűsége, hogy a meghatározott vagyon mennyisége a megadott érték, vagy több. Feltételes vagyon esetében jelölése 3C. Megfelel a UNFC osztályozás szerinti G1+G2+G3 kategóriának.
+
+## III. Szilárd ásványi nyersanyagok ismeretességi kategóriái (CRIRSCO 2019) szerint:
+
+## 1. Szilárd földtani ásványi nyersanyagvagyon (Mineral Resource): A földtani ásványvagyon a földkéregben vagy annak felszínén található, gazdasági értéket hordozó olyan szilárd anyagkoncentráció vagy előfordulás, melynek ismeretessége (formája, mennyisége és minősége) reális kilátást nyújt a jövőbeli gazdaságos kitermelésre. A földtani ásványi nyersanyagvagyon helyzete, mennyisége, minősége, térbeli folyamatossága és egyéb geológiai jellemzői konkrét földtani tények és ismeretek (pl. mintázás) alapján ismertek, becsültek, vagy következtetettek. A növekvő bizonyosság szerint a szilárd földtani ásványi nyersanyagvagyon következtetett, felderített és megkutatott kategóriákba sorolható. A szilárd földtani ásványi nyersanyagvagyon megfelel a Bt. 49. § 30. pontjában foglalt földtani ásványvagyon definíciónak.
+
+## 2. Módosító tényezők (Modifying Factors): Azok a szempontok, amelyek a földtani ásványi nyersanyagvagyon ipari vagyonná (Bt. 49. § 14. pontja szerinti ipari vagyon) minősítését meghatározzák. Ezek: bányászati, feldolgozási, kohászati, infrastrukturális, gazdasági, marketing-, jogi, környezetvédelmi, társadalmi és kormányzati tényezők.
+
+## 3. Megkutatott földtani ásványi nyersanyagvagyon (Measured Mineral Resource): A megkutatott földtani ásványi nyersanyagvagyon a földtani ásványi nyersanyagvagyon azon része, melynek mennyisége, minősége, sűrűsége, geometriája és fizikai tulajdonságai kielégítő biztonsággal becsülhetőek a részletes bányászati tervezéshez és a telep gazdaságosságának végleges értékeléséhez a módosító tényezők alkalmazásával. A földtani bizonyosság megfelelően részletes és megbízható kutatásból, mintázásból és vizsgálatból származik, és elegendő a földtani és minőségi homogenitás észlelési pontok közötti becsléséhez. A megkutatott földtani ásványi nyersanyagvagyon magasabb bizonyossági szintű, mint a felderített földtani ásványi nyersanyagvagyon vagy a következtetett földtani ásványi nyersanyagvagyon. Bizonyított ipari vagyonná (bizonyított készletté) vagy valószínűsített ipari vagyonná (valószínűsített készletté) minősíthető át.
+
+## 4. Felderített földtani ásványi nyersanyagvagyon (Indicated Mineral Resource): A felderített földtani ásványi nyersanyagvagyon a földtani ásványi nyersanyagvagyon azon része, melynek mennyisége, minősége, sűrűsége, geometriája és fizikai tulajdonságai kielégítő biztonsággal becsülhetőek ahhoz, hogy a módosító tényezők használatával a bányatervezés és a nyersanyagtelep gazdasági életképessége értékelhetővé váljon a módosító tényezők alkalmazásával, ezáltal a készletté minősítés biztosított legyen. A földtani bizonyosság megfelelően részletes és megbízható kutatásból, mintázásból és vizsgálatból származik, és elegendő a földtani és minőségi homogenitás észlelési pontok közötti becsléséhez. A felderített földtani ásványi nyersanyagvagyon alacsonyabb bizonyossági szintű, mint a megkutatott földtani ásványi nyersanyagvagyon, és csak valószínűsített ipari vagyonná (valószínűsített készletté) minősíthető át. A továbbkutatás során, az ismeretesség növelésével a felderített földtani ásványi nyersanyagvagyon megkutatott földtani ásványi nyersanyagvagyonná sorolható át.
+
+## 5. Következtetett földtani ásványi nyersanyagvagyon (Inferred Mineral Resource): A következtetett földtani ásványi nyersanyagvagyon az ásványi nyersanyagvagyon azon része, melynek mennyisége és minősége csak korlátozott földtani adat és minta alapján becsülhető. A földtani tényadatok valószínűsítik, de nem bizonyítják a földtani és minőségi folytonosságot. Minősítése megfelelő technikákkal például kibúvásokból, kutatóárkokból, kutatóaknákból, mesterséges feltárásokból, stb., gyűjtött kutatási, mintázási és vizsgálati adatokon alapul. A következtetett földtani ásványi nyersanyagvagyon alacsonyabb ismeretességi szintű, mint a felderített földtani ásványi nyersanyagvagyon, és nem minősíthető át ipari ásványvagyonná (ásványi nyersanyagkészletté). A kutatás folytatásával a következtetett földtani ásványi nyersanyagvagyon nagy része felderített földtani ásványi nyersanyagvagyonná válhat.
+
+## 6. Szilárd ásványi nyersanyagkészlet (Mineral Reserve): Ez a kategória megfelel a Bt. 49. § 14. pontja szerinti ipari vagyonnak. A megkutatott, illetve felderített földtani ásványi nyersanyagvagyon gazdaságosan kitermelhető része. Meghatározása során figyelembe vételre kerül a termelési hígulás és a termelési veszteség is. A szükséges becslések és tanulmányok elkészültek, ezekben módosító tényezőként reális bányászati, kohászati, gazdasági, marketing-, jogi, környezetvédelmi, társadalmi és kormányzati tényezőket vettek figyelembe. A jelentés készítésének időpontjában a számítások alátámasztják, hogy a gazdaságos kitermelés megalapozott. Az ásványi nyersanyagkészleteket (ipari vagyonokat) a növekvő ismeretességi szint szerint valószínű (valószínű ipari vagyon) és bizonyított ásványi nyersanyag készlet (bizonyított ipari vagyon) kategóriákba kell sorolni. A szilárd ásványi nyersanyag készleteket (ipari vagyonokat) előmegvalósíthatósági vagy megvalósíthatósági tanulmányban határozzák meg módosító tényezők alkalmazásával. Az ásványi nyersanyagkészleteket a növekvő ismeretességi szint szerint valószínűsített és bizonyított ásványi nyersanyagkészlet kategóriákba kell sorolni.
+
+## 7. Valószínűsített szilárd ásványi nyersanyagkészlet (valószínűsített ipari vagyon) (Probable Mineral Reserve): A valószínűsített ásványi nyersanyagkészlet a felderített vagy bizonyos esetekben a megkutatott ásványvagyon gazdaságosan kitermelhető része. A valószínűsített nyersanyagkészlet esetén használt módosító tényezők bizonyossági szintje kisebb, mint a bizonyított nyersanyagkészletnél használté.
+
+## Bizonyított szilárd ásványi nyersanyagkészlet (bizonyított ipari vagyon) (Proved Mineral Reserve): A bizonyított ásványi nyersanyagkészlet a megkutatott ásványvagyon gazdaságosan kitermelhető része. A bizonyított nyersanyagkészlet a módosító tényezők magas ismeretességi szintjét jelenti.
+
+## IV. Szilárd ásványi nyersanyagok vonatkozásában alkalmazott kategóriák harmonizációja a CRIRSCO (2019) nemzetközi jelentéstételi szabvány és ENSZ (UNFC 2020) osztályozási keretrendszerrel:
+
+## 1. „A” kategória: Az ásványi nyersanyagtestek geometriája (hely, forma, méret, települési viszonyok), belső változékonysága, meddő betelepülések, töréses elmozdulások geometriája részletesen ismert és kontúrozott. Az ásványi nyersanyag természeti és technológiai típusai és minőségi fajtái, hasznos és káros komponensei részletesen – a komplex feldolgozási törzsfa megtervezéséhez elegendő részletességgel – ismertek és a számbavételi kondíciók szerint jellemzésre kerültek. A hidrogeológiai, mérnök-geológiai (geotechnikai), bányaföldtani és egyéb természeti feltételek olyan részletességgel ismertek, amely biztosítja a lelőhely leművelésének tervezéséhez szükséges alapadatokat. Az ásványi nyersanyag földtani, illetve ipari vagyon (készlet) kontúrozását fúrások és bányászati (beleértve a fejtéselőkészítő-) létesítmények mentén a számbavételi kondíciós követelmények alapján – extrapoláció nélkül – végezték el.
+
+## 2. „B” kategória: Az ásványi nyersanyagtestek és a jelentős töréses elmozdulások helyzete és geometriája ismert és kontúrozott, a belső változékonyság, meddő betelepülések jellege és a tektonizált részek helye ismert. Az ásványi nyersanyag természeti típusai ismertek és kontúrozottak, a technológiai típusok és minőségi fajták térbeli eloszlási törvényszerűségei és mennyiségi arányai ismertek, hasznos és káros komponensek ásványi kötődése – a nyersanyag ésszerű és komplex feldolgozás elvi törzsfájának kiválasztásához elegendő részletességgel – ismertek és a kondíciók szerint jellemzésre kerültek. A hidrogeológiai, mérnök-geológiai (geotechnikai), bányaföldtani és egyéb természeti feltételek olyan részletességgel ismertek, amely lehetővé teszi paramétereik mennyiségi és minőségi jellemzését és kihatásuk megítélését a lelőhely feltárására és kitermelésére. Az ásványi nyersanyag földtani, illetve ipari vagyon (készlet) kontúrozását fúrások és bányászati létesítmények mentén alapvetően a számbavételi kondíciós követelmények alapján végezték el, állandóvastagságú és minőségű nyersanyagtestek esetében földtani kritériumok szerint, geofizikai, illetve geokémiai adatok alapján korlátozott méretű extrapolációs zónával kiegészítve.
+
+## 3. „C1“ kategória: Ismertek a nyersanyagtestek méretei és jellegzetes formái, települési viszonyaik és belső felépítésük alapvető jellemzői; értékelésre kerültek a nyersanyagtestek változékonysága és folyamatosságok lehetséges megszakadása, a rétegszerű kifejlődésű ásványi nyersanyag előfordulások és az építő- és burkolókövek előfordulásai esetében a kis amplitúdójú intenzíven tektonizált területek. Az ásványi nyersanyag természeti és technológiai típusai meghatározásra kerültek, térbeli eloszlásuk általános törvényszerűségei ismertek, a technológiai típusok és minőségi fajták térbeli eloszlási törvényszerűségei és mennyiségi arányai ismertek, hasznos és káros komponensek ásványi kötődése – a megkutatott vagyon/készlet ipari értékének megalapozásához elegendő mértékben – ismertek és a kondíciók szerint jellemzésre kerültek. A hidrogeológiai, mérnök-geológiai (geotechnikai), bányaföldtani és egyéb természeti feltételek vizsgálatának részletessége lehetővé teszi alapvető paramétereik előzetes jellemzését. Az ásványi nyersanyag földtani, illetve ipari vagyon (készlet) kontúrozását fúrások és bányászati létesítmények mentén a számbavételi kondíciós követelmények alapján végezték el, a geofizikai kutatások adatai és földtanilag megalapozott extrapoláció figyelembevételével.
+
+## Az „A” és „B”, illetve az alacsonyabb komplexitású (1–3) „C1” ismeretességi kategóriák a nemzetközi jelentéstételi szabvány szerinti megkutatott földtani ásványi nyersanyagvagyonba (Measured Mineral Resource) sorolhatók.
+
+## A nemzetközi jelentéstételi szabvány szerint ezek alapján és a módosító tényezők figyelembevételével lehet gazdasági értékelést végezni (bizonyított, illetve valószínűsített ipari vagyont azaz készletet meghatározni).
+
+## A megkutatott földtani ásványi nyersanyagvagyon a UNFC 221 kategóriának felel meg. A bizonyított ipari vagyon (bizonyított készlet) a UNFC 111, a valószínűsített ipari vagyon (valószínűsített készlet) a UNFC 112 kategóriának felel meg.
+
+## 4. „C2“ kategória: A nyersanyagtestek mérete, formája, belső felépítése, települési viszonyai földtani és geofizikai adatok alapján értékelésre kerültek, amelyeket a nyersanyag fúrásokkal vagy bányászati létesítményekkel történő harántolásai erősítenek meg. A nyersanyag minősége és technológiai tulajdonságai kisszámú laboratóriumi vizsgálatok adatai alapján meghatározásra kerültek, vagy az azonos vagy hasonló lelőhely részletesen ismert részeinek analógiája szerint kerültek értékelésre. A hidrogeológiai, mérnök-geológiai (geotechnikai), bányaföldtani és egyéb természeti feltételek értékelése a kutatólétesítményekben megfigyelhető adatok, az adott lelőhely más részein meglévő adatok, valamint az adott körzetben ismert lelőhelyek analógiája alapján történt. Az ásványi nyersanyag földtani, illetve ipari vagyon (készlet) kontúrozását a számbavételi kondíciós követelmények alapján végezték el egyedi fúrások, bányatérségek, természetes feltárások vagy azok összessége alapján, geofizikai és geokémiai vizsgálatok és földtani szerkesztések figyelembevételével, valamint a magasabb ismeretességű földtani ásványvagyon, illetve ipari vagyon (készlet) kategóriák vagyonbecslése során alkalmazott földtanilag megalapozott paraméter-extrapolációjával történt.
+
+## A magasabb komplexitású „C1” és a „C2” ismeretességi kategóriák a nemzetközi jelentéstételi szabvány szerinti felderített földtani ásványi nyersanyagvagyonba (Indicated Mineral Resource) sorolhatók. A nemzetközi jelentéstételi szabvány szerint ezek alapján és a módosító tényezők figyelembevételével lehet gazdasági értékelést végezni, de csak valószínűsített ipari vagyont, azaz valószínűsített készletet meghatározni. A valószínűsített készlet a UNFC 112 kategóriának felel meg.
+
+## 5. Komplexitás: A lelőhelyek inhomogenitásának meghatározó mutatója. A lelőhely változékonysága, amely a produktív rétegösszlet 1 km2-re eső, önmagukban homogénnek tekinthető, de egymáshoz képest akár minőség, akár az előfordulási adottságok tekintetében eltérő, vagy tektonikailag elkülönült azon ásványvagyon számbavételi alapegységek (tömbök) számával jellemezhető, amelyekkel a művelés során – a földtani adottságokból eredően – külön fejtési egységekként, mezőkként kell számolni. Ez alapján a lelőhely lehet:
+
+## – nyugodt, homogén: 30 db/km2,
+
+## – kissé zavart, kissé inhomogén: 30–69 db/km2,
+
+## – zavart, inhomogén: 70–159 db/km2,
+
+## – nagyon zavart, különösen inhomogén: ≥160 db/km2.
+
+2. melléklet a 20/2022. (I. 31.) SZTFH rendelethez
+
+A geotermikus védőidom kijelöléséhez szükséges műszaki leírás tartalma
+
+1. A termelő és visszatápláló kutakra, valamint a hasznosítás külszíni berendezéseire vonatkozó műszaki adatok.
+
+2. A kutak és feltáró fúrások geofizikai, földtani, vízföldtani, vízminőségi és vízhőmérsékleti adatai.
+
+3. A földtani kutatás adatai alapján a terület földtani-geofizikai, hidrogeológiai, vízminőségi és geotermikus, hőmérsékleti és termofizikai viszonyainak ismertetése.
+
+4. A tervezett geotermikus energia-termelése során a geotermikus energia időegység alatt kinyert mennyisége, a várható üzemmód, a normál üzemeltetési rend, valamint az üzemeltetési rend karbantartás és havária esetén.
