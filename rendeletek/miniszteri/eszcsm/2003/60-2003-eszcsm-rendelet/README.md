@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-60-20-0
 | 2021-03-25 | 2003-60-20-0M.45 | 33/2020. (IX. 16.) EMMI rendelet |
 | 2021-08-17 | 2003-60-20-0M.46 | 1/2012. (V. 31.) EMMI rendelet |
 | 2021-12-31 | 2003-60-20-0M.47 | 73/2013. (XII. 2.) EMMI rendelet |
+| 2022-02-01 | 2003-60-20-0M.48 | 73/2013. (XII. 2.) EMMI rendelet |
