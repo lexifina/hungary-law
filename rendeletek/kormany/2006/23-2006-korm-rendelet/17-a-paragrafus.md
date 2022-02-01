@@ -1,6 +1,8 @@
-## A bírság mértéke és megfizetése[^85]
+## 17. §[^29]
 
-17/A. §[^86] (1) A bányászatról szóló 1993. évi XLVIII. törvény 31. § (2) bekezdése szerinti szabálytalan építési tevékenység végzése esetén kiszabott bírság összegének felső határa 3 000 000 Ft.
+## A bírság mértéke és megfizetése[^30]
+
+17/A. §[^31] (1) A bányászatról szóló 1993. évi XLVIII. törvény 31. § (2) bekezdése szerinti szabálytalan építési tevékenység végzése esetén kiszabott bírság összegének felső határa 3 000 000 Ft.
 
 A bírság mértéke
 
@@ -16,8 +18,9 @@ ba) a nyomástartó berendezés 100 m3 alatti, 250 000 Ft,
 
 bb) a nyomástartó berendezés 100 m3 feletti, 500 000 Ft.
 
-(2)[^87]
+(2)[^32]
 
-[^85]: A 17/A. §-t megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 26. §-a iktatta be.
-[^86]: A 17/A. §-t a 311/2014. (XII. 11.) Korm. rendelet 26. §-a iktatta be.
-[^87]: A 17/A. § (2) bekezdését a 70/2015. (III. 30.) Korm. rendelet 75. § (3) bekezdése hatályon kívül helyezte.
+[^29]: A 17. §-t a 26/2022. (I. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^30]: A 17/A. §-t megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 26. §-a iktatta be.
+[^31]: A 17/A. §-t a 311/2014. (XII. 11.) Korm. rendelet 26. §-a iktatta be.
+[^32]: A 17/A. § (2) bekezdését a 70/2015. (III. 30.) Korm. rendelet 75. § (3) bekezdése hatályon kívül helyezte.

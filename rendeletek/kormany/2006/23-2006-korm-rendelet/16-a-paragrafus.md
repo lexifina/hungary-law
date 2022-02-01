@@ -1,12 +1,6 @@
-## Bányaüzemi bányamentő készülékek palackjainak töltése[^82]
+## 16. §[^26]
 
-## 16/A. §[^83] A bányavállalkozó a bányafelügyelet külön engedélye nélkül elvégezheti a bányaüzemben használt, tulajdonában lévő bányamentő készülékek gázpalackjainak töltését, ha
+## Bányaüzemi bányamentő készülékek palackjainak töltése[^27]
 
-a) a töltőberendezés – létesítményeivel együtt – rendeltetésének és az Országos Tűzvédelmi Szabályzat kiadásáról szóló jogszabályban foglaltaknak megfelel,
-
-b) a töltőberendezés üzemeltetését irányító felügyeleti személy egyben vizsgáló szakember is,
-
-c) a gázpalack töltésével, kezelésével, szállításával, tárolásával foglalkozó munkavállalókat a Gázpalack Biztonsági Szabályzatról szóló jogszabályban előírtakból kiképezte.
-
-[^82]: A 16/A. §-t megelőző alcímet a 273/2009. (XII. 3.) Korm. rendelet 14. §-a iktatta be.
-[^83]: A 16/A. §-t a 273/2009. (XII. 3.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^26]: A 16. §-t a 26/2022. (I. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^27]: A 16/A. §-t megelőző alcímet a 273/2009. (XII. 3.) Korm. rendelet 14. §-a iktatta be.

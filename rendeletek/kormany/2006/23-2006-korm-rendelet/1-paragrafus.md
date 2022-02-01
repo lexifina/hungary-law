@@ -10,41 +10,10 @@ b) a bányaüzemekben használt bányamentő készülékek gázpalackjainak töl
 
 c) az a) és b) pontban meghatározott nyomástartó berendezések, rendszerek és egyszerű nyomástartó edények tulajdonosaira, illetve az ezeket üzemeltető természetes személyekre, jogi személyekre és jogi személyiség nélküli gazdasági társaságokra.
 
-(2) E rendelet hatálya nem terjed ki:
+(2)[^3]
 
-a) a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 9/2001. (IV. 5.) GM rendelet (a továbbiakban: R.) 2. § (2) bekezdésében felsoroltakra, kivéve az R. 2. § (2) bek. c) pontjában foglalt, az R. IV. fejezetében tárgyalt egyszerű nyomástartó edényeket, amelyekre e rendelet hatálya kiterjed,
-
-b) a szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség tanúsításáról szóló 8/2003. (II. 19.) GKM rendelet szerinti szállítható nyomástartó berendezésekre,
-
-c) a mélyfúrás, a kőolaj- és földgáztermelés, a kőolaj-, földgáz-előkészítés és elsődleges feldolgozás létesítményeinek részét képező csővezetékekre és szerelvényekre,
-
-d) a föld alatti gáztárolás felszíni létesítményeinek, valamint a kőolaj-, kőolajtermék- és gázszállító vezetékek állomásainak részét képező csővezetékekre és szerelvényekre,
-
-e) a laboratóriumban kizárólag tudományos kutatás, kísérlet, minőség-ellenőrzés céljára szolgáló berendezésre,
-
-f)[^3] arra a nyomástartó edényre – töltetre és nyomásra való tekintet nélkül –, melynek teljes űrtartalma 25,0 liternél nem nagyobb, kivéve a bányaüzemekben használt bányamentő készülékek gázpalackjait,
-
-g) a legfeljebb 10,0 bar túlnyomáson üzemelő, folyadékkal teljesen feltöltött nyomástartó edényre, amennyiben a töltete az R. 17. § (2) bekezdés b) pontja szerinti 2. csoportba tartozik,
-
-h)[^4] a vízellátó vagy melegvíz-ellátó berendezés legfeljebb 10,0 bar túlnyomáson és legfeljebb 110 °C-on működő edényére,
-
-i) az erőátviteli hidraulikus berendezés önálló nyomástartó edényt nem képező részére,
-
-j) a dugattyús, forgódugattyús, körforgó gép és különálló edényt nem képező tartozékára (pl. iszapszivattyú légüstje, – kivéve a kompresszorok kiegyenlítő tartálya – a kitörésgátlót működtető nyomásfokozó nyomáskiegyenlítő tartálya),
-
-k) az elektromos kapcsoló és szakaszoló azon nyomástartó edényére, amely nagyfeszültségű villamos rendszerrel közös zárt térben van felszerelve,
-
-l) a külön jogszabályban[^5] meghatározott kazánra,
-
-m)[^6] a vasúti tartálykocsikra, a közúti tartályjárművekre és a belvízi tartályhajókra,
-
-n)[^7] a földgázellátásról szóló törvényben meghatározott elosztóvezetékre, kivéve a propán-bután gáz elosztóvezeték megtáplálását biztosító tartályt.
-
-(3) A nyomástartó berendezések műszaki és biztonsági követelményeire külön jogszabályok, szabályzatok előírásai vonatkoznak.
+(3)[^4]
 
 [^2]: Az 1. § (1) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^3]: Az 1. § (2) bekezdés f) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^4]: Az 1. § (2) bekezdés h) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^5]: A nyomástartó és töltőlétesítmények műszaki-biztonsági hatósági felügyeletéről szóló 63/2004. (IV. 24.) GKM rendelet.
-[^6]: Az 1. § (2) bekezdés m) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^7]: Az 1. § (2) bekezdés n) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^3]: Az 1. § (2) bekezdését a 26/2022. (I. 28.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (3) bekezdését a 26/2022. (I. 28.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
