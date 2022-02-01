@@ -1,1 +1,0 @@
-## Robbantás gázkitörésveszélyes munkahelyen

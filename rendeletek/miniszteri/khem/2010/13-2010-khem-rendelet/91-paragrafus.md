@@ -1,6 +1,0 @@
-91. § (1)[^173] A provokációs robbantás által védett vágatszakaszt a robbantólyukak hosszúsága, a töltetek összmennyisége és a kőzetviszonyok figyelembevételével a provokációs robbantás technológiai előírásában kell meghatározni. E rendelkezés szempontjából védettnek azt a vágatszakaszt kell tekinteni, amely további provokációs robbantás nélkül kihajtható.
-
-(2)[^174] Ha a provokációs robbantással egyidejűleg jövesztő robbantást is végeznek, a teljes szelvényt egyszerre kell robbantani, és valamennyi töltetet egy tűzben kell indítani. Ebben az esetben a provokációs robbantás robbantólyukainak töltetét indító gyutacsok a jövesztő robbantásnál használt utolsó fokozat gyutacsaival azonos fokozatúak. Az elsőként és utolsóként robbanó villamos gyutacs névleges időzítése között a különbség 300 ms-nál nagyobb nem lehet. A provokációs robbantáskor valamennyi töltetet egyenes indítással (a lyuk szájától számított elsőként vagy másodikként elhelyezett indítótölténnyel) kell indítani.
-
-[^173]: A 91. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 34. §-ával megállapított szöveg.
-[^174]: A 91. § (2) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 61. pontja szerint módosított szöveg.
