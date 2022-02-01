@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-32-00-00
 | 2021-12-30 | 2021. évi CXX. törvény | 2021-32-00-00.8 |
 | 2022-01-01 | 2021. évi CXXXVI. törvény | 2021-32-00-00.9 |
 | 2022-01-02 | 2021. évi CXXXVI. törvény | 2021-32-00-00.10 |
+| 2022-02-01 | 2021. évi CXXXVI. törvény | 2021-32-00-00.11 |
