@@ -1,0 +1,3 @@
+## 16. § A bányafelügyelet háromévenként jelentést készít a bányászatért felelős miniszternek az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló, 2006. március 15-i 2006/21/EK európai parlamenti és tanácsi irányelv végrehajtásáról, továbbá évente jelentést készít az üzemeltetők által jelentett működtetés során vagy a bezárás után fellépett súlyos üzemzavarokról, balesetekről és környezeti károkozásról. A miniszter a jelentést továbbítja az Európai Bizottságnak. A környezeti információkhoz való nyilvános hozzáférés jogának sérelme nélkül a bányafelügyelet ezeket az információkat az érintett nyilvánosság kérésére hozzáférhetővé teszi.
+
+## 17. Záró rendelkezések
