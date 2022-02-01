@@ -88,4 +88,6 @@
 
 | 36. | TALT01 | Egyéb, az 1–35. ponthoz tartozó betegségek esetén a szabályokban nem definiált vizsgálati célok |  |  | az 1–35. pont valamennyi BNO kódja | az adott BNO csoporthoz az 1–35. pontokban nem felsorolt vizsgálati célok | Szakmai Team közreműködését nem igénylő bizottsági eljárás HAEM01-05 és az EPILEPSZIA01 indikációhoz tartozó BNO kódok esetén, Szakmai Team közreműködését igénylő bizottsági eljárás | 21 | előzetes képalkotó (MR vagy CT) vizsgálatok lelete és kórszövettani diagnózis | igen |  |  |
 
+| 37. | TALT02 | Egyéb, az 1–35. ponthoz nem tartozó, azonban a 9/1993. (IV. 2.) NM rendelet 8. számú melléklet 3. pontjában finanszírozható indikációként kihirdetett egyéb betegségek valamennyi vizsgálati cél esetén |  |  | az 1–35. ponthoz nem tartozó összes többi finanszírozható indikációként kihirdetett betegség BNO kódja | valamennyi vizsgálati cél | Szakmai Team közreműködését nem igénylő bizottsági eljárás azoknál a betegségeknél, amelyeknél nem kell működtetni Szakmai Teamet, valamint Szakmai Team közreműködését igénylő bizottsági eljárás azoknál a betegségeknél, ahol Szakmai Teamet működtetni kell | 21 | előzetes képalkotó (MR vagy CT) vizsgálatok lelete és kórszövettani diagnózis | igen |  |  |
+
 2. melléklet a 10/2018. (III. 7.) EMMI rendelethez
