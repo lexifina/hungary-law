@@ -16,9 +16,9 @@
 
 | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -66,9 +66,9 @@
 
 | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -146,11 +146,11 @@
 
 | 2879 Jahn Ferenc Dél-pesti Kórház |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
-| 2889 Szent Imre Kórház |
+| 2889 Szent Imre Egyetemi Oktatókórház |
 
 | 2891 Uzsoki utcai Kórház |
 
@@ -420,9 +420,9 @@
 
 | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -544,11 +544,13 @@
 
 | 2734 Zala Megyei Szent Rafael Kórház |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
+
+| 2906 Országos Onkológiai Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -570,9 +572,11 @@
 
 | Elszámolásra jogosult intézetek: |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | Országos Klinikai Idegtudományi Intézet |
+
+| 2906 Országos Onkológiai Intézet |
 
 | 2915 Semmelweis Egyetem |
 
@@ -589,6 +593,8 @@
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
+
+| 2906 Országos Onkológiai Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -664,7 +670,7 @@
 
 | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-| 2889 Szent Imre Kórház |
+| 2889 Szent Imre Egyetemi Oktatókórház |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -704,9 +710,9 @@
 
 | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2889 Szent Imre Kórház |
+| 2889 Szent Imre Egyetemi Oktatókórház |
 
 | 2891 Uzsoki utcai Kórház |
 
@@ -746,9 +752,9 @@
 
 | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2889 Szent Imre Kórház |
+| 2889 Szent Imre Egyetemi Oktatókórház |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -774,7 +780,7 @@
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-| 1243 Orosházi Kórház |
+| 1243 Dr. Elek László Kórház és Rendelőintézet, Orosháza |
 
 | 1454 Csongrád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely - Makó |
 
@@ -820,11 +826,11 @@
 
 | 2879 Jahn Ferenc Dél-pesti Kórház |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
-| 2889 Szent Imre Kórház |
+| 2889 Szent Imre Egyetemi Oktatókórház |
 
 | 2891 Uzsoki utcai Kórház |
 
@@ -902,15 +908,21 @@
 
 | Elszámolásra jogosult intézetek: |
 
+| 2906 Országos Onkológiai Intézet |
+
+| 2915 Semmelweis Egyetem |
+
 | K403 Magyar Honvédség Egészségügyi Központ |
 
-| 26. Video-thoracoscopos mellkasi (VATS) reszekció során felhasznált bizonyos egyszerhasználatos eszközök 26/a. 0135F Video-thoracoscopos mellkasi (VATS) anatómiai reszekció során felhasznált bizonyos egyszerhasználatos eszközök (ideértve: varrógépek és tárak, lágyrészeltartó gyűrű, lebenykiemelő zsák, elektromos vagy ultrahangos egyszerhasználatos videothoracoscopos vágóeszköz) Elszámolásra jogosult intézetek: 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2894 Debreceni Egyetem Klinikai Központ 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2915 Semmelweis Egyetem 2912 Pécsi Tudományegyetem 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ N595 Markusovszky Egyetemi Oktatókórház, Szombathely 26/b. 0135L Video-thoracoscopos mellkasi (VATS) atípusos reszekció során felhasznált bizonyos egyszerhasználatos eszközök (ideértve: varrógépek és tárak) Elszámolásra jogosult intézetek: 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1640 Petz Aladár Megyei Oktató Kórház, Győr 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2894 Debreceni Egyetem Klinikai Központ 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N595 Markusovszky Egyetemi Oktatókórház, Szombathely R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 26. Video-thoracoscopos mellkasi (VATS) reszekció során felhasznált bizonyos egyszerhasználatos eszközök 26/a. 0135F Video-thoracoscopos mellkasi (VATS) anatómiai reszekció során felhasznált bizonyos egyszerhasználatos eszközök (ideértve: varrógépek és tárak, lágyrészeltartó gyűrű, lebenykiemelő zsák, elektromos vagy ultrahangos egyszerhasználatos videothoracoscopos vágóeszköz) Elszámolásra jogosult intézetek: 1640 Petz Aladár Megyei Oktató Kórház, Győr 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2894 Debreceni Egyetem Klinikai Központ 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2915 Semmelweis Egyetem 2912 Pécsi Tudományegyetem 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ N595 Markusovszky Egyetemi Oktatókórház, Szombathely R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház 26/b. 0135L Video-thoracoscopos mellkasi (VATS) atípusos reszekció során felhasznált bizonyos egyszerhasználatos eszközök (ideértve: varrógépek és tárak) Elszámolásra jogosult intézetek: 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1640 Petz Aladár Megyei Oktató Kórház, Győr 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2894 Debreceni Egyetem Klinikai Központ 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N595 Markusovszky Egyetemi Oktatókórház, Szombathely R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 | 27. 0135G Kolorectalis laparoszkopós bélműtétek során használt varrógépek, tárak és kiegészítő eszközök |
 
 | Elszámolásra jogosult intézetek: |
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
+
+| 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
@@ -924,6 +936,8 @@
 
 | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
+| 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+
 | 2425 Tolna Megyei Balassa János Kórház |
 
 | 2734 Zala Megyei Szent Rafael Kórház |
@@ -936,11 +950,11 @@
 
 | 2879 Jahn Ferenc Dél-pesti Kórház |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
-| 2889 Szent Imre Kórház |
+| 2889 Szent Imre Egyetemi Oktatókórház |
 
 | 2891 Uzsoki utcai Kórház |
 
@@ -953,6 +967,8 @@
 | 2915 Semmelweis Egyetem |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | N590 Kiskunhalasi Semmelweis Kórház |
 
@@ -976,7 +992,7 @@
 
 | 2879 Jahn Ferenc Dél-pesti Kórház |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1032,7 +1048,7 @@
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -1044,7 +1060,7 @@
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -1056,7 +1072,7 @@
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -1068,7 +1084,7 @@
 
 | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1106,7 +1122,7 @@
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -1119,6 +1135,8 @@
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
+
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -1150,9 +1168,9 @@
 
 | 2734 Zala Megyei Szent Rafael Kórház |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
-| 2889 Szent Imre Kórház |
+| 2889 Szent Imre Egyetemi Oktatókórház |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1204,7 +1222,7 @@
 
 | Elszámolásra jogosult intézetek: |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1222,7 +1240,7 @@
 
 | Elszámolásra jogosult intézetek: |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -1256,7 +1274,7 @@
 
 | 2879 Jahn Ferenc Dél-pesti Kórház |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1294,15 +1312,17 @@
 
 | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
+| 2425 Tolna Megyei Balassa János Kórház |
+
 | 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
 
-| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
-| 2889 Szent Imre Kórház |
+| 2889 Szent Imre Egyetemi Oktatókórház |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1313,6 +1333,8 @@
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | K403 Magyar Honvédség Egészségügyi Központ |
+
+| N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
@@ -1394,6 +1416,8 @@
 
 | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+
 | 2891 Uzsoki utcai Kórház |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
@@ -1403,6 +1427,8 @@
 | 2912 Pécsi Tudományegyetem |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| N594 Csolnoky Ferenc Kórház, Veszprém |
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
@@ -1417,6 +1443,8 @@
 | 46/a. 01111 Aortaív, nyaki nagyerek és leszálló aorta ereit kombináltan érintő dissectio, aneurysma, intramuralis haematoma műtéti ellátása során használt hibrid graft |
 
 | Elszámolásra jogosult intézetek: |
+
+| 2912 Pécsi Tudományegyetem |
 
 | 2915 Semmelweis Egyetem |
 
@@ -1488,6 +1516,14 @@
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^116]
+| 49. 0135P Robotsebészeti műtétek során felhasznált bizonyos egyszerhasználatos eszközök |
 
-[^116]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 1. §-a szerint módosított szöveg.
+| Elszámolásra jogosult intézetek: |
+
+| 2879 Jahn Ferenc Dél-pesti Kórház |
+
+| 2906 Országos Onkológiai Intézet |
+
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^117]
+
+[^117]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
