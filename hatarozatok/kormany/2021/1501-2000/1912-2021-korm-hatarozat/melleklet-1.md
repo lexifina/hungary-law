@@ -18,4 +18,6 @@
 
 ## 5. egyetért azzal, hogy a belügyminiszter a 4. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa a kedvezményezettek számára.
 
-1. melléklet az 1912/2021. (XII. 15.) Korm. határozathoz
+1. melléklet az 1912/2021. (XII. 15.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1035/2022. (II. 1.) Korm. határozat 2. pontja szerint módosított szöveg.

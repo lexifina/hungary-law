@@ -8,7 +8,7 @@
 
 | 4. | Berhida Város Önkormányzata köznevelési feladatainak támogatása | 94 054 314 | Ady Iskola tetőfelújítása |
 
-| 5. | Budakeszi Város Önkormányzata fejlesztési feladatainak támogatása | 555 415 970 | Önkormányzati útfelújítás, szabadvezetékes hálózat kiváltása földkábelre, közvilágítás felújítása |
+| 5. | Budakeszi Város Önkormányzata fejlesztési feladatainak támogatása | 555 415 970 | Önkormányzati útfelújítás, szabadvezetékes hálózat kiváltása földkábelre, közvilágítás felújítása, Egészségház kivitelezése |
 
 | 6. | Csorna Város Önkormányzata városrehabilitációs feladatainak támogatása | 617 000 000 | Városközponti felhagyott gyárterület megvásárlása és rehabilitációja |
 
