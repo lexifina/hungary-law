@@ -1,6 +1,6 @@
-## 20122V20000010_11
+## 20122V20000010_12
 
-2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^14]
+2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^17]
 
 Az aktív fekvőbeteg-ellátás diagnózisainak és beavatkozásainak besorolási táblázatai
 
@@ -1576,7 +1576,7 @@ G3780 A központi idegrendszer egyéb meghatározott demyelinisatiós betegsége
 
 **** 01 015D Cerebrovascularis betegségek (kivéve: TIA), praecerebralis érelzáródással, rtPA kezeléssel
 
-BETEGSÉGEK "A"
+BETEGSÉGEK „A”
 
 I6300 Agyi infarctus a praecerebralis ütőerek rögösödése miatt
 
@@ -1620,15 +1620,15 @@ I6690 Nem-meghatározott agyi arteria elzáródása és szűkülete
 
 I6760 A koponyaűri vénás rendszer nem suppurativ rögösödése
 
-BEAVATKOZÁSOK "B"
+BEAVATKOZÁSOK „B”
 
 88162 Recombinans szöveti plazminogén aktivátor (rtPA) kezelés (mg-ban)
 
-BEAVATKOZÁSOK "C"
+BEAVATKOZÁSOK „C”
 
 06042 Alteplase
 
-BEAVATKOZÁSOK "D"
+BEAVATKOZÁSOK „D”
 
 34410 Agykoponya natív CT vizsgálata
 
@@ -1640,7 +1640,7 @@ BEAVATKOZÁSOK "D"
 
 34915 Agykoponya MR vizsgálat natív plusz iv. kontrasztanyag adását követőleg
 
-BEAVATKOZÁSOK "E"
+BEAVATKOZÁSOK „E”
 
 34490 CT angiográfia koponya
 
@@ -1650,11 +1650,7 @@ BEAVATKOZÁSOK "E"
 
 3616C Transcraniális Doppler vizsgálat
 
-BEAVATKOZÁSOK "F"
-
-3617A Duplex UH, nyaki erek
-
-BEAVATKOZÁSOK "G"
+BEAVATKOZÁSOK „F”
 
 28610 Thrombin idő meghatározása
 
@@ -1662,7 +1658,7 @@ BEAVATKOZÁSOK "G"
 
 28620 Prothrombin meghatározása
 
-"A" DIAGN. ÉS "B" BEAV. ÉS "F" TÍPUSKÉNT "C" BEAV.ÉS (BEAVATKOZÁS “D” ÉS BEAVATKOZÁS “E” ÉS BEAVATKOZÁS “F” ÉS BEAVATKOZÁS “G” CSOPORTOK MINDEGYIKÉBŐL LEGALÁBB EGY-EGY VIZSGÁLAT A FELVÉTELTŐL SZÁMÍTOTT 4,5 ÓRÁN BELÜL ÉS A NEUROLÓGIAI SZAKMASPECIFIKUS ŐRZŐN VALÓ ELLÁTÁS AZ ELSŐ 24 ÓRÁBAN)
+ÑAî DIAGN. ÉS ÑBî BEAV. ÉS ÑFî TÍPUSKÉNT ÑCî BEAV. ÉS (BEAVATKOZÁS ÑDî ÉS BEAVATKOZÁS ÑEî ÉS BEAVATKOZÁS ÑFî CSOPORTOK MINDEGYIKÉBŐL LEGALÁBB EGY-EGY VIZSGÁLAT A FELVÉTELTŐL SZÁMÍTOTT 4,5 ÓRÁN BELÜL ÉS A NEUROLÓGIAI SZAKMASPECIFIKUS ŐRZŐN VALÓ ELLÁTÁS AZ ELSŐ 24 ÓRÁBAN)
 
 **** 01 015E Cerebrovascularis betegségek (kivéve: TIA), praecerebralis érelzáródással, speciális kezelés nélkül 18 év alatt
 
@@ -1908,9 +1904,9 @@ I6760 A koponyaűri vénás rendszer nem suppurativ rögösödése
 
 Q2881 A közp. idegrendsz. ereinek veleszületett aneurysmája
 
-**** 01 015H Cerebrovascularis betegségek (kivéve: TIA) praecerebralis elzáródással, speciális diagnosztikával
+**** 01 015H Cerebrovascularis betegségek (kivéve TIA) praecerebralis elzáródással speciális diagnosztikával
 
-BETEGSÉGEK "A"
+BETEGSÉGEK „A”
 
 I6000 Subarachnoidealis vérzés a carotis szifonból és bifurcatióból
 
@@ -1930,17 +1926,17 @@ I6070 Subarachnoidealis vérzés k.m.n. koponyaűri artériából
 
 I6080 Egyéb subarachnoidealis vérzés
 
-I6081 Agyi erek vérzett arteriovenosus rendellenessége - hemispheriális
+I6081 Agyi erek vérzett arteriovenosus rendellenessége – hemispheriális
 
-I6082 Agyi erek vérzett arteriovenosus rendellenessége - axiális supratentoriális
+I6082 Agyi erek vérzett arteriovenosus rendellenessége – axiális supratentoriális
 
-I6083 Agyi erek vérzett arteriovenosus rendellenessége - infratentoriális
+I6083 Agyi erek vérzett arteriovenosus rendellenessége – infratentoriális
 
-I6084 A gerinc ereinek vérzett arteriovenosus rendellenessége - cervicalis
+I6084 A gerinc ereinek vérzett arteriovenosus rendellenessége – cervicalis
 
-I6085 A gerinc ereinek vérzett arteriovenosus rendellenessége - thoracalis
+I6085 A gerinc ereinek vérzett arteriovenosus rendellenessége – thoracalis
 
-I6086 A gerinc ereinek vérzett arteriovenosus rendellenessége - lumbosacralis
+I6086 A gerinc ereinek vérzett arteriovenosus rendellenessége – lumbosacralis
 
 I6090 Subarachnoidealis vérzés, k.m.n.
 
@@ -1978,7 +1974,7 @@ I6330 Agyi infarctus a cerebralis ütőerek rögösödése miatt
 
 I6340 Agyi infarctus a cerebralis ütőerek emboliája miatt
 
-I6350 Agyi infarctus a cerebralis art. k.m.n .elzáródása-szűkülete miatt
+I6350 Agyi infarctus a cerebralis art. k.m.n. elzáródása-szűkülete miatt
 
 I6360 Agyi infarctus az agyi visszerek nem suppurativ rögösödése miatt
 
@@ -2026,11 +2022,11 @@ I6715 Artéria vertebráis és ágai nem rupturált aneurysmája
 
 I6716 Arteréria beasiláris nem rupturált aneurismája
 
-16760 A koponyaűri vénás rendszer nem suppurativ rögösödése
+I6760 A koponyaűri vénás rendszer nem suppurativ rögösödése
 
 Q2881 A közp. idegrendsz. ereinek veleszületett aneurysmája
 
-BEAVATKOZÁSOK "B"
+BEAVATKOZÁSOK „B”
 
 34410 Agykoponya natív CT vizsgálata
 
@@ -2042,21 +2038,17 @@ BEAVATKOZÁSOK "B"
 
 34915 Agykoponya MR vizsgálat natív plusz iv. kontrasztanyag adását követőleg
 
-BEAVATKOZÁSOK "C"
+BEAVATKOZÁSOK „C”
 
 34490 CT angiográfia koponya
 
 34948 MR angiográfia iv. kontrasztanyag adása nélkül
 
-34949 MR angiográfia iv. kontrasztanyag adásával
+34949 MR angiográfia, iv. kontrasztanyag adásával
 
 3616C Transcraniális Doppler vizsgálat
 
-BEAVATKOZÁSOK "D"
-
-3617A Duplex UH, nyaki erek
-
-BEAVATKOZÁSOK "E"
+BEAVATKOZÁSOK „D”
 
 28610 Thrombin idő meghatározása
 
@@ -7532,22 +7524,4 @@ C1123 Az orrgarat oldalfalának rosszindulatú daganata III. stádium
 
 C1124 Az orrgarat oldalfalának rosszindulatú daganata IV. stádium
 
-C1133 Az orrgarat mellső falának rosszindulatú daganata III. stádium
-
-C1134 Az orrgarat mellső falának rosszindulatú daganata IV. stádium
-
-C1183 Az orrgarat átfedő elváltozása, rosszindulatú daganata III. stádium
-
-C1184 Az orrgarat átfedő elváltozása, rosszindulatú daganata IV. stádium
-
-C1193 Orrgarat rosszindulatú daganata, k.m.n. III. stádium
-
-C1194 Orrgarat rosszindulatú daganata, k.m.n. IV. stádium
-
-C1203 A sinus pyriformis rosszindulatú daganata III. stádium
-
-C1204 A sinus pyriformis rosszindulatú daganata IV. stádium
-
-C1303 Gyűrűporc mögötti terület rosszindulatú daganata III. stádium
-
-[^14]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése, a 37/2018. (X. 30.) EMMI rendelet 3. § (2) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 5. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 4. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 5. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 6. § (1)–(2) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése, a 37/2018. (X. 30.) EMMI rendelet 3. § (2) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 5. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 4. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 5. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 6. § (1)–(2) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 5. § (2) bekezdése, az 59/2021. (XII. 28.) EMMI rendelet 6. § (2) bekezdése, a 3/2022. (I. 14.) EMMI rendelet 9. § (1) bekezdése szerint módosított szöveg.

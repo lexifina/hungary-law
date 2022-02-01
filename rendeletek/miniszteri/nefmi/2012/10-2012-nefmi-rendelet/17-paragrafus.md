@@ -14,7 +14,7 @@
 
 (7) A Kr. 14. számú mellékletében a „Beavatkozás minősítése az ellátásban elfoglalt helye szerint (M)” mezőt csak onkológiai daganatellenes kezelések és reoperáció esetén kell kitölteni.
 
-(8)[^5] A daganatellenes kezeléseknél meg kell jelölni a beavatkozás minősítését az ellátásban elfoglalt helye szerint (M):
+(8)[^6] A daganatellenes kezeléseknél meg kell jelölni a beavatkozás minősítését az ellátásban elfoglalt helye szerint (M):
 
 a) 0. neoadjuváns beavatkozás,
 
@@ -42,4 +42,4 @@ b) kórházi ellátást indokoló fődiagnózis megjelölése, az állapotnak me
 
 (12) Aktív részszámlák esetén a legnagyobb felső határnapú HBCs felső határnapját meghaladó ápolási napokra számolhatók el hosszúnapok a hosszúnap elszámolás szabálya szerint. Azaz a legnagyobb felső határnapú HBCs felső határnapját meghaladó időtartamból intenzív osztályon töltött napokra intenzív hosszúnap jár, a többi osztályos ápolásra hosszúnap. A tényleges elszámolási csoport hosszúnapja szerint járó különbözet az eset lezárásakor kerül elszámolásra.
 
-[^5]: A 17. § (8) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^6]: A 17. § (8) bekezdése az 55/2012. (XII. 28.) EMMI rendelet 12. §-ával megállapított szöveg.

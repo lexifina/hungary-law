@@ -4,7 +4,7 @@
 
 a) két aktív osztályos esemény között 30 napot meghaladó krónikus ellátásra került sor,
 
-b)[^7] az R. 8. számú melléklet 1., 2., és 8–12. pontja szerinti nagy értékű beavatkozást tartalmazó ellátás és az azt megelőző ellátás önálló finanszírozási esetként számolható el.
+b)[^8] az R. 8. számú melléklet 4. és 6–8., valamint 12–14. pontja szerinti nagy értékű beavatkozást tartalmazó ellátás és az azt megelőző ellátás önálló finanszírozási esetként számolható el.
 
 (2) Az összevonás – a R. 14. számú mellékletében meghatározott kivételektől eltekintve – az első ellátás elszámolási csoportjának felső határnapját megelőzően ugyanazon kórházba visszavett betegek ellátási eseteire is vonatkozik. Az összevonás elvégzése során érvényesíteni kell a legmagasabb díj elszámolásának szabályát.
 
@@ -18,7 +18,7 @@ c) az a) és b) pontok alól kivételt jelentenek az önálló intenzív osztál
 
 d) ha az intenzív osztályos ápolás „3”, vagy „4”, vagy „5” típusú diagnózisai – a típustól függetlenül – és az elvégzett beavatkozások alapján „súlyos társult betegséggel” minősítésnek megfelelő, akkor a többi osztályos eset adatait ki kell egészíteni az intenzív ellátás jellemzőivel, és ezt követően kell elvégezni a súlyszám értékek alapján történő kiválasztást;
 
-e)[^8] az intenzív ellátás csak akkor nem vehető figyelembe a kiválasztásban, ha
+e)[^9] az intenzív ellátás csak akkor nem vehető figyelembe a kiválasztásban, ha
 
 ea) a fődiagnózis („3”) légzőrendszeri megbetegedés, de a többi osztályos ellátás fődiagnózisa nem légzőrendszeri megbetegedés, vagy
 
@@ -36,10 +36,10 @@ i) a garanciális szabály alkalmazásakor az összevonás előtt történik ann
 
 (5) A más intézetben folytatódó aktív fekvőbeteg-ellátás elszámolásának szabályai az 1. melléklet „II. A más intézetben folytatódó aktív fekvőbeteg ellátás folyamatábrája” rész szerinti folyamatábrában találhatók.
 
-(6)[^9] Ha egy adott kórházi eset a besorolási feltételeknek megfelelően a multidrog- vagy kiterjedten rezisztens TBC csoportba tartozó, akkor – függetlenül az ellátó osztályok számától és jellegétől – aktív finanszírozási esetként kell elszámolni az „1360 MDR (multidrog-rezisztens) és XDR (kiterjedten rezisztens) gümőkor ellátása” csoportban. Az ellátás naparányos díjjal kerül finanszírozásra. Az összevonás során nem kell érvényesíteni a 30 napot meghaladó krónikus ellátás esetén új aktív finanszírozási eset elszámolására vonatkozó szabályt. A naparányosan finanszírozott „1360 MDR (multidrog-rezisztens) és XDR (kiterjedten rezisztens) gümőkor ellátása” csoportban elszámolt ellátásokat megelőző ellátás önálló finanszírozási tételként számolható el. Az adatlapok kitöltésére az általános fekvőbeteg jelentési szabályok érvényesek, azzal, hogy az „1360 MDR (multidrog-rezisztens) és XDR (kiterjedten rezisztens) gümőkor ellátása” csoportban elszámolt ápolás előtti ellátás lezárását az adatlapon „További sorsa = „E” jelzéssel” kell rögzíteni. Az „1360 MDR (multidrog-rezisztens) és XDR (kiterjedten rezisztens) gümőkor ellátása” csoport eseteinek jelentése eltér az általános fekvőbeteg jelentés szabályaitól. Az ellátásokról minden hónapban részjelentést kell küldeni, amelyben rögzítendők az ellátás paraméterei. Az adatlapon a További sorsa mezőben „D” jelzéssel kell jelölni, hogy a beküldött teljesítményjelentés részjelentés.
+(6)[^10] Ha egy adott kórházi eset a besorolási feltételeknek megfelelően a multidrog- vagy kiterjedten rezisztens TBC csoportba tartozó, akkor – függetlenül az ellátó osztályok számától és jellegétől – aktív finanszírozási esetként kell elszámolni az „1360 MDR (multidrog-rezisztens) és XDR (kiterjedten rezisztens) gümőkor ellátása” csoportban. Az ellátás naparányos díjjal kerül finanszírozásra. Az összevonás során nem kell érvényesíteni a 30 napot meghaladó krónikus ellátás esetén új aktív finanszírozási eset elszámolására vonatkozó szabályt. A naparányosan finanszírozott „1360 MDR (multidrog-rezisztens) és XDR (kiterjedten rezisztens) gümőkor ellátása” csoportban elszámolt ellátásokat megelőző ellátás önálló finanszírozási tételként számolható el. Az adatlapok kitöltésére az általános fekvőbeteg jelentési szabályok érvényesek, azzal, hogy az „1360 MDR (multidrog-rezisztens) és XDR (kiterjedten rezisztens) gümőkor ellátása” csoportban elszámolt ápolás előtti ellátás lezárását az adatlapon „További sorsa = „E” jelzéssel” kell rögzíteni. Az „1360 MDR (multidrog-rezisztens) és XDR (kiterjedten rezisztens) gümőkor ellátása” csoport eseteinek jelentése eltér az általános fekvőbeteg jelentés szabályaitól. Az ellátásokról minden hónapban részjelentést kell küldeni, amelyben rögzítendők az ellátás paraméterei. Az adatlapon a További sorsa mezőben „D” jelzéssel kell jelölni, hogy a beküldött teljesítményjelentés részjelentés.
 
 (7) A HBCs összevonási és garanciális szabályt alkalmazni kell a kúraszerű ellátásra, valamint a fekvőbeteg- és kúraszerű ellátási események között is. A kúraszerű ellátási események kezelése ebben a tekintetben is azonos a kórházi ellátási eseményekkel.
 
-[^7]: A 19. § (1) bekezdés b) pontja a 4/2014. (I. 20.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^8]: A 19. § (3) bekezdés e) pontja a 32/2016. (X. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
-[^9]: A 19. § (6) bekezdése a 39/2012. (IX. 6.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^8]: A 19. § (1) bekezdés b) pontja a 3/2022. (I. 14.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^9]: A 19. § (3) bekezdés e) pontja a 32/2016. (X. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^10]: A 19. § (6) bekezdése a 39/2012. (IX. 6.) EMMI rendelet 4. §-ával megállapított szöveg.

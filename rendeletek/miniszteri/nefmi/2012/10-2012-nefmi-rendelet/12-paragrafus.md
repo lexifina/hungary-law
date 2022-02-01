@@ -12,4 +12,6 @@ a) az ellátás jellegét meghatározó fődiagnózisok alapján a csoport téte
 
 b) az eset-csoport ráfordítás-igényessége, súlyossága miatt indokolt.
 
-(5) Ha a besorolási paraméterek alapján az eset mind az elő-főcsoport egy HBCs-jébe, mind valamely főcsoport P jelű HBCs-jébe is besorolható, akkor a magasabb súlyszámú HBCs-t kell elszámolni, a 15. sorszámú „Újszülöttek” főcsoport kivételével.
+(5)[^5] Ha a besorolási paraméterek alapján az eset mind az elő-főcsoport egy HBCs-jébe, mind valamely főcsoport P jelű HBCs-jébe vagy a 773B, 773C, 773D, 773F, 773G, 773H és 7720 HBCs-k egyikébe besorolható, akkor a magasabb súlyszámú HBCs-t kell elszámolni. Ezen besorolási szabály nem vonatkozik a „15. Újszülöttek” főcsoport HBCs-ire.
+
+[^5]: A 12. § (5) bekezdése a 3/2022. (I. 14.) EMMI rendelet 6. §-ával megállapított szöveg.
