@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-31-20-2
 | 2020-01-01 | 2014-31-20-22.16 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-01 | 2014-31-20-22.17 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-07-02 | 2014-31-20-22.18 | 315/2020. (VII. 1.) Korm. rendelet |
+| 2022-02-01 | 2014-31-20-22.19 | 70/2015. (III. 30.) Korm. rendelet |
