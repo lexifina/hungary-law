@@ -24,7 +24,7 @@ d) a bányavállalkozónak a szüneteltetést követő időszakra vonatkozó mű
 
 a) a koncessziós szerződés megszűnik, a 12. § (3) bekezdésében, vagy
 
-b) a bányafelügyelet a bányászati jogot törli, a 26/A. § (6b) és (7) bekezdésében
+b) a bányafelügyelet a bányászati jogot törli, a 26/A. § (6c) és (7) bekezdésében
 
 foglaltakat kell alkalmazni.
 

@@ -4,9 +4,9 @@
 
 (2) A bányafelügyelet a tájrendezéshez szükséges feladatokról a műszaki üzemi terv és az (5) bekezdés szerinti használaton kívüli bányászati célú mélyfúrás tájrendezési tervének jóváhagyási eljárása során dönt.
 
-(3) A használaton kívüli bányászati célú mélyfúrások adataira vonatkozóan a bányafelügyelet nyilvántartást vezet, amelyhez az adatokat a mélyfúrás tulajdonosa vagy vagyonkezelője köteles a bányafelügyelet rendelkezésére bocsátani. A használaton kívüli bányászati célú mélyfúrások nyilvántartásában a bányafelügyelet a bányászati célú mélyfúrás tulajdonosának nevét, tulajdonjogának igazolását, valamint az e törvény végrehajtására kiadott kormányrendelet szerinti adatokat tartja nyilván.
+(3) A használaton kívüli bányászati célú mélyfúrások adataira vonatkozóan a bányafelügyelet nyilvántartást vezet, amelyhez az adatokat a mélyfúrás tulajdonosa vagy vagyonkezelője köteles a bányafelügyelet rendelkezésére bocsátani. A használaton kívüli bányászati célú mélyfúrások nyilvántartásában a bányafelügyelet a bányászati célú mélyfúrás tulajdonosának nevét, tulajdonjogának igazolását, valamint az e törvény végrehajtására a Hatóság elnöke által kiadott rendelet szerinti adatokat tartja nyilván.
 
-(4) A bányafelügyelet a (3) bekezdés szerinti nyilvántartásban szereplő használaton kívüli bányászati célú mélyfúrások állapotáról, a tulajdonos vagy vagyonkezelő által készített és háromévente felülvizsgált, majd 30 napon belül a bányafelügyelethez benyújtott kockázatelemzés besorolása alapján 25 napon belül, ha a kockázatelemzés az e törvény végrehajtására kiadott kormányrendelet szerint
+(4) A bányafelügyelet a (3) bekezdés szerinti nyilvántartásban szereplő használaton kívüli bányászati célú mélyfúrások állapotáról, a tulajdonos vagy vagyonkezelő által készített és háromévente felülvizsgált, majd 30 napon belül a bányafelügyelethez benyújtott kockázatelemzés besorolása alapján 25 napon belül, ha a kockázatelemzés az e törvény végrehajtására a Hatóság elnöke által kiadott rendelet szerint
 
 a) magas vagy nagyon magas kockázatot állapított meg, kötelezi a tulajdonost vagy vagyonkezelőt a tájrendezési kötelezettség teljesítésére vonatkozó ütemterv elkészítésére; vagy
 

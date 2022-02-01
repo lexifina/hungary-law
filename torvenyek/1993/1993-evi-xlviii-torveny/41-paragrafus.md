@@ -46,7 +46,7 @@ gyakorolja.
 
 (7a) A bányászati tevékenységből származó államot terhelő tájrendezési kötelezettség esetén biztosítékadási kötelezettség nem írható elő.
 
-(7b) Ha a bányavállalkozó a megadott határidőre biztosítékadási kötelezettségének nem tesz eleget, a bányafelügyelet – a kötelezettség teljesítéséig – a bányászati tevékenység megkezdését vagy folytatását megtiltja. Ha a bányavállalkozó nem tett eleget a biztosítékadási kötelezettségének a bányafelügyelet bányászati tevékenység megkezdését vagy folytatását megtiltó határozatának véglegessé válását követő kilencven napon belül, a bányafelügyelet törli a bányavállalkozó bányászati jogát, amely esetben a 26/A. § (6) és (7) bekezdését kell alkalmazni.
+(7b) Ha a bányavállalkozó a megadott határidőre biztosítékadási kötelezettségének nem tesz eleget, a bányafelügyelet – a kötelezettség teljesítéséig – a bányászati tevékenység megkezdését vagy folytatását megtiltja. Ha a bányavállalkozó nem tett eleget a biztosítékadási kötelezettségének a bányafelügyelet bányászati tevékenység megkezdését vagy folytatását megtiltó határozatának véglegessé válását követő kilencven napon belül, a bányafelügyelet törli a bányavállalkozó bányászati jogát, amely esetben a 26/A. § (6)–(7) bekezdését kell alkalmazni.
 
 (8)
 
