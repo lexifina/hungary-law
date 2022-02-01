@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-724-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-01-31 | 2021-724-20-22.1 | 724/2021. (XII. 20.) Korm. rendelet |
+| 2022-02-01 | 2021-724-20-22.2 | 2010: CXXX. törvény |

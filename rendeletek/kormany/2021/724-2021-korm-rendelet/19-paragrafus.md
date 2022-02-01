@@ -1,3 +1,5 @@
-## 18. § A Kormány tagjainak feladat- és hatásköreiről szóló 94/2018. (V. 22.) Korm. rendelet 95. § (1) bekezdés e) pontjában a „vizsgálati készítmények” szövegrész helyébe a „vizsgálati gyógyszerek” szöveg lép.
+## 18. §[^19]
 
 ## 6. Záró rendelkezések
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

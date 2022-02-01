@@ -1,3 +1,3 @@
-## 1. § Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet (a továbbiakban: 235/2009. Korm. rendelet) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „(3) Az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 2. pontja szerinti klinikai vizsgálat engedélyezésére a 2. cím, az orvostechnikai eszközökkel kapcsolatos klinikai vizsgálatokra a 3. cím rendelkezései irányadóak.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

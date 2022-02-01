@@ -1,3 +1,3 @@
-## 11. § A 450/2017. Korm. rendelet 17. §-a a következő (1a) bekezdéssel egészül ki:
+## 11. §[^12]
 
-## „(1a) Az (1) bekezdéstől eltérően vizsgálati gyógyszerek gyártására vonatkozóan a gyógyszergyártási engedélyt az OGYÉI akkor adja meg, ha a kérelmező rendelkezik az (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendeletben meghatározott szakmai feltételekkel.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
