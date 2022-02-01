@@ -1,1 +1,3 @@
-## „(7) A tájékoztatáson alapuló beleegyező nyilatkozatot a korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy is aláírja.”
+## 14. §[^15]
+
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

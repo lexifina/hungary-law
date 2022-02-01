@@ -1,1 +1,3 @@
-## 34. § Az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 17/2018. (VII. 4.) EMMI rendelet (a továbbiakban: 17/2018. EMMI rendelet) 1. §-ának az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló 44/2005. (X. 19.) EüM rendelet 5. §-át megállapító rendelkezése az „Az emberi felhasználásra szánt vizsgálati készítmények helyes gyártási gyakorlatára” szövegrész helyett az „A vizsgálati gyógyszerek helyes gyártási gyakorlatára a 6. § (1a) bekezdésében foglaltak figyelembevételével” szöveggel lép hatályba.
+## 34. §[^35]
+
+[^35]: A 34. § a 2010: CXXX. törvény 12/A. §-a alapján hatályát vesztette.
