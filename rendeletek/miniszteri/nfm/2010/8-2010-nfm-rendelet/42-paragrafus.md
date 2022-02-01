@@ -1,1 +1,0 @@
-## 24. Technológiai csővezetékek
