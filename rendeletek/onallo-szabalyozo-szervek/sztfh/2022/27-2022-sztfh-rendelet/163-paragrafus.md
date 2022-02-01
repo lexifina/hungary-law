@@ -1,0 +1,15 @@
+163. § (1) A raktárban a helyhez kötött világítási lámpatesteken, valamint az ezeket tápláló kábeleken kívül más villamos berendezést létesíteni nem lehet.
+
+(2) A fokozottan sújtólégveszélyes bányatérségekben a raktár villamos berendezéseinek létesítésénél a következő feltételeknek is teljesülni kell:
+
+a) a villamos berendezés táplálására csak kábelt szabad használni,
+
+b) késleltetett túláramvédelem (túlterhelés-védelem, zárlatvédelem) alkalmazása tilos,
+
+c) a lámpatestet, kábelt a robbanóanyag ládáktól legalább 1 m távolságra kell elhelyezni,
+
+d) a tároló kamrában a lámpatesteket csak a diffúziós szellőztetésre megengedett távolságon belül szabad beépíteni,
+
+e) a világítási hálózat kapcsolóját a raktár bejáratánál – kívül – kell elhelyezni.
+
+(3) A raktár világítására helyhez kötött hálózati lámpatesteket kell beépíteni. A megvilágítás erősségének meg kell felelnie a 152. § (3) bekezdésében foglaltaknak.

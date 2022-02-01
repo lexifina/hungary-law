@@ -1,0 +1,3 @@
+54. § (1) A gyártó épület gépészeti, villamos, villámvédelmi, elektrosztatikus feltöltődés elleni védelmi berendezésein szerelési, átalakítási, karbantartási, bontási munkákat csak az érintett környezetnek a 65. § (2) bekezdésében leírt veszélytelenítése (robbanóanyag-mentesítése), a villamos berendezések feszültségmentesítése után, munkavégzési engedély birtokában lehet végezni. A munkavégzési engedélyben részletesen fel kell sorolni a munkavégzés esetleges egyéb feltételeit is. A munkavégzési engedélyt az érintett üzem vezetőjének kell kiadnia.
+
+(2) A használaton vagy üzemen kívül helyezett, vagy leszerelt technológiai és gépészeti berendezéshez tartozó villamos berendezést le kell bontani.

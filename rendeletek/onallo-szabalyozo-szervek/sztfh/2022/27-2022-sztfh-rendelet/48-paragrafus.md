@@ -1,0 +1,5 @@
+48. § (1) A szakaszos üzemű, valamint a folyamatos üzemű, de szakaszos ütemű munkahelyre terhelési normákat kell megállapítani. A terhelési normákat a folyamatos munkavégzéshez feltétlenül szükséges robbanóanyag mennyiség és a munkahelyi bevédés védőképességének figyelembevételével kell meghatározni. A tömegegységben (kg-ban) vagy darabszámban kifejezett terhelési normák adatait a munkahelyen jól látható módon ki kell függeszteni.
+
+(2) A gyártásról részletes műszaknaplót kell vezetni, amelybe be kell jegyezni minden olyan adatot és eseményt, amely a termeléssel és a gyártás biztonságával összefügg.
+
+(3) A robbanóanyaggal kapcsolatos kutatási, fejlesztési munkára kísérleti gyártási technológiai utasítást kell készíteni, amelyben az anyagi, tárgyi, szervezési és személyi feltételeken túlmenően a munkavédelmi követelményeket is meg kell határozni. A kísérleti gyártási technológiai utasítást a gazdálkodó szervezet vezetője az Mvtv. szerinti munkavédelmi üzembe helyezési eljárásban hagyja jóvá.

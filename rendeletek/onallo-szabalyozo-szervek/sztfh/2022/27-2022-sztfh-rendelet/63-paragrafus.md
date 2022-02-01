@@ -1,0 +1,1 @@
+## 62. § Az üzemeltetés közben váratlanul meghibásodott gép, berendezés javítását a 61. § (2)–(4) bekezdésében foglaltak szerint kell elvégezni. Ha a mentesítés az adott helyzetben csak részlegesen végezhető el, akkor a javítási munkát csak a munkáltató által megbízott felügyeleti személy irányítása mellett szabad elvégezni.

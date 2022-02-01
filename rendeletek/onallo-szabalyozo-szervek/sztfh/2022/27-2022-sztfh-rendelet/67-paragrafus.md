@@ -1,0 +1,3 @@
+67. § (1) A gyártó építmény bontásánál az évszaktól és a hőmérséklettől függetlenül – a robbanóanyaggal szennyezett falat, nyílászáró szerkezetet, padozatot, altalajt szükség szerinti locsolással állandóan nedvesen kell tartani. A nedvesítésnek olyan mérvűnek kell lennie, hogy akár kézi, akár gépi bontásnál gyújtóképes mechanikai szikra ne keletkezhessen.
+
+(2) A robbanóanyaggal szennyezett épület falazatának és nyílászáró szerkezeteinek kibontásához, a gép, berendezés leszereléséhez csak szikrát nem okozó szerszám használható, illetve gumi vagy bőr alátéteket kell alkalmazni. A csavarral rögzített gép, berendezés kibontása előtt a csavart meglazítás előtt gépolajjal vagy csavarlazító vegyszerrel kell előkezelni.

@@ -1,0 +1,11 @@
+47. § (1) A robbanóanyag üzemszerű gyártásának szabályozására (beleértve a képződő melléktermékkel, hulladékkal és szennyvízzel kapcsolatos tevékenységet is) technológiai, műveleti, kezelési és karbantartási utasításokat kell készíteni a gép használati utasításának figyelembevételével.
+
+(2) A technológiai folyamatok önálló műveleteinek (beleértve a képződő melléktermékekkel, hulladékokkal és szennyvizekkel kapcsolatos tevékenységeket is) szabályozására – a műveleteket végzőkre vonatkozólag – műveleti utasításokat kell elkészíteni. A műveleti utasításokban – a technológiai utasítások előírásai alapján – rögzíteni kell mindazokat a tennivalókat, amelyeket a műveletek megkezdése előtt, közben és befejezésekor el kell végezni, továbbá, hogy hogyan kell elvégezni annak érdekében, hogy a műveletek biztonságosan legyenek végrehajthatók, megfelelő minőségű termék keletkezzen.
+
+(3) A technológiai gépek, berendezések kezelésének szabályozására – a kezelőkre vonatkozólag – gépenként külön-külön, vagy gépcsoportonként közös kezelési utasításokat kell elkészíteni. A kezelési utasításokban rögzíteni kell a gép, berendezés rendeltetésszerű üzemeltetésével kapcsolatos tennivalókat (ellenőrzés, anyagbeadagolás, indítás, művelet, leállítás, vészleállítás, újra indítás, ürítés, tisztítás), a baleseti veszélyforrásokat, azok elhárításának az előrelátható vagy ismertté vált üzemzavarok biztonságos elhárításának módját, valamint meghibásodás esetén a magatartási szabályokat.
+
+(4) A technológiai gép, berendezés karbantartásának (megbízhatóságuk fenntartásának, helyreállításának) szabályozására – a karbantartókra vonatkozólag – gépenként külön-külön, vagy gépcsoportonként közös karbantartási utasításokat kell elkészíteni, amelyekben rögzíteni kell a karbantartás megkezdésének előfeltételeit, a végrehajtás módját, gyakoriságát, rendszerességét, személyi, tárgyi és biztonsági feltételeit.
+
+(5) Az (1)–(4) bekezdésben foglalt utasításokat írásba kell foglalni, azokról az érintett személyeket ki kell oktatni, részükre az utasításokat aláírás ellenében írásban ki kell adni, és az azokban foglaltak elsajátításáról szóbeli ismeret-ellenőrzés útján meg kell győződni. Az utasítások vonatkozó lapjainak másolatát minden munkahelyen ki kell függeszteni.
+
+(6) A robbanóanyagokat az (1)–(5) bekezdésben foglalt utasítások alapján kell gyártani.

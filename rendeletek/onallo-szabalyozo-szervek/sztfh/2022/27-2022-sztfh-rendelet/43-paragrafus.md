@@ -1,0 +1,3 @@
+43. § (1) Az „RV-besorolású” építményhez biztosítandó tűzoltó berendezést, készüléket, eszközt, felszerelést és anyagot – a jelenlevő robbanóanyag tulajdonságaitól és az alkalmazott technológiától függően – kell létesíteni.
+
+(2) Abban az „RV-besorolású” helyiségben, amelyben a technológiából adódóan nagy tömegű robbanóanyag égése következhet be, és az ott dolgozó személyek veszélyes zónában végzik tevékenységüket, a vonatkozó műszaki követelmény szerinti beépített vízzel oltóberendezést kell létesíteni. A vízzel heves kémiai reakcióba lépő alkotórészeket tartalmazó „R-veszélyes” anyag tüzének oltásához megfelelő oltóanyagú tűzoltó készüléket vagy berendezést kell elhelyezni.
