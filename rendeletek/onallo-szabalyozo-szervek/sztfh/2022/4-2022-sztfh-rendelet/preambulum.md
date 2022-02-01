@@ -1,0 +1,1 @@
+A bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1b) bekezdés 24. és 30. pontjában kapott felhatalmazás alapján, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § n) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
