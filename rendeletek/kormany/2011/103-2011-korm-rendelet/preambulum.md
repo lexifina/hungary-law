@@ -1,1 +1,0 @@
-A Kormány a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés s) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
