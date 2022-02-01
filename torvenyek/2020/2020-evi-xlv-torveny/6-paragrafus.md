@@ -8,4 +8,4 @@ b) az adóalap 500 millió forintot meghaladó, de 30 milliárd forintot meg nem
 
 c) az adóalap 30 milliárd forintot meghaladó, de 100 milliárd forintot meg nem haladó része után 0,4%,
 
-d) az adóalap 100 milliárd forintot meghaladó része után 2,5%.
+d) az adóalap 100 milliárd forintot meghaladó része után 2,7%.
