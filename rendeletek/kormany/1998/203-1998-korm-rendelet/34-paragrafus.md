@@ -1,61 +1,50 @@
 34. § E rendelet alkalmazásában:
 
-1.[^349] Bánya: a bányatelken belül, az ásványi nyersanyagok feltárásának, kitermelésének felszíni vagy felszín alatti térsége, ideértve a szénhidrogének tárolása céljából földtani szerkezetben kialakított, vagy mesterségesen létrehozott üreget is.
+1.[^167]
 
-2.[^350] Bányaüzem: a műszaki üzemi tervben a bányászati tevékenység – kivéve a felszín megbontásával nem járó vagy 50 métert el nem érő sekély mélységű fúrásos technológiájú kutatást és a hőszivattyúval végzett geotermikus energia kinyerést – végzésére és a tevékenységhez szükséges létesítmények és berendezések elhelyezésére meghatározott terület.
+2.[^168] Bányaüzem: a műszaki üzemi tervben a bányászati tevékenység – kivéve a felszín megbontásával nem járó vagy 50 métert el nem érő sekély mélységű fúrásos technológiájú kutatást és a hőszivattyúval végzett geotermikus energia kinyerést – végzésére és a tevékenységhez szükséges létesítmények és berendezések elhelyezésére meghatározott terület.
 
 3. Bányanyílás (kútfej): a bányának, kőolaj- és földgázbányászati üzemnek az első technológiai pontja, ahol a kitermelt, nyers bányatermék (a meddővel és kisérő ásványi nyersanyaggal együtt) a külszínen megjelenik.
 
-4. Bányavasút: bányászati célokat szolgáló saját használatú vasút, sikló, kötélpálya, távolsági szalagpálya (a továbbiakban együtt: vasút), amely a bányaüzem szállítási szükségletét elégíti ki oly módon, hogy a bányaüzem dolgozóit, termékeit a bányaüzem területén belül vagy azon kívül levő üzemi létesítményhez (osztályozó, őrlőmű, rakodó stb.), vagy továbbfuvarozás céljából közforgalmú vasúthoz, közúthoz, vízi úthoz szállítja.
+4.[^169]
 
 5. Bányabezárás (bányamegszüntetés), szénhidrogénmező felhagyása: valamennyi bányaművelés megszüntetése, a bánya külszínre nyíló térségeinek szabályszerű felhagyása, tömedékelése, lezárása és a tájrendezés befejezése.
 
-6. Bányászati rekultiváció: a bányászati tevékenységgel érintett föld alatti térségeknek környezetet nem veszélyeztető felhagyása vagy más célú hasznosításra alkalmassá tétele.
+6.[^170]
 
-7. Felszíni előkutatás:
+7.[^171]
 
-– a távérzékeléssel,
-
-– légi geofizikai méréssel,
-
-– felszíni geofizikai méréssel – kivéve a robbantásos szeizmikus mérési módszereket –,
-
-– a terepi földtani észleléssel és méréssel,
-
-– felszíni (felszínközeli) laboratóriumi mértékű mintavételezéssel, vagy
-
-– a felsoroltakhoz hasonló és a talaj felszínének megbontását nem eredményező kutatási módszerekkel
-
-végzett tevékenység.
-
-8.[^351]
+8.[^172]
 
 9. Földgáz: a föld felszíne alatt légnemű halmazállapotban előforduló ásványi nyersanyagok gyűjtő elnevezése (szénhidrogéngázok, szén-dioxid, kén-dioxid, kén-hidrogén stb.).
 
-10.[^352] Hasznosított geotermikus energia mennyiség: a kitermelt, +30 °C-ot meghaladó hőmérsékletű energiahordozóból kinyert energiamennyiség energetikai célra hasznosított része.
+10.[^173] Hasznosított geotermikus energia mennyiség: a kitermelt, +30 °C-ot meghaladó hőmérsékletű energiahordozóból kinyert energiamennyiség energetikai célra hasznosított része.
 
-11.[^353] Propán-bután töltőtelep: az odaszállított propán-bután gázok és elegyeik tárolására, palackba vagy a felhasználók ellátását szolgáló tartályba töltésre létesített, a külön jogszabály szerint a gázszolgáltató, a gázforgalmazó, a gázértékesítő tulajdonában, használatában és üzemeltetésében álló telephely. Nem tartozik ide az egyéb célú (pl. kistartályos ellátás, falugáz rendszer) átfejtőhely és létesítmény.
+11.[^174]
 
-12.[^354]
+12.[^175]
 
-13.[^355] Mező: a szénhidrogén telepek termeltetésével kapcsolatos bányaüzemi fogalom. Egy vagy több hidrodinamikai kapcsolatban nem álló szénhidrogén tároló réteget, vagy telepet tartalmazó földtani térség külszíni vetülete.
+13.[^176] Mező: a szénhidrogén telepek termeltetésével kapcsolatos bányaüzemi fogalom. Egy vagy több hidrodinamikai kapcsolatban nem álló szénhidrogén tároló réteget, vagy telepet tartalmazó földtani térség külszíni vetülete.
 
-14.[^356] Geotermikus védőidom: geotermikus energiahasznosítás céljából a földkéreg lehatárolt része, amelyben adott technológiát alkalmazva a kinyerni tervezett geotermikus energia mennyiség legalább 25 évre biztosított.
+14.[^177] Geotermikus védőidom: geotermikus energiahasznosítás céljából a földkéreg lehatárolt része, amelyben adott technológiát alkalmazva a kinyerni tervezett geotermikus energia mennyiség legalább 25 évre biztosított.
 
-15.[^357] Hidrosztatikus nyomású tároló: olyan föld alatti térrész, amelyben a terep alatti mélységből és átlagosan 1000 kg/m3 vízsűrűségből becsült nyomásértéknél legfeljebb 20 barral nagyobb a nyomás.
+15.[^178]
 
-16.[^358] Nagy nyomású tároló: olyan föld alatti térrész, amely a hidrosztatikus nyomású tároló esetében megadott értéknél nagyobb nyomással rendelkezik.
+16.[^179]
 
-17.[^359] Geotermikus energia-utánpótlódás: a termelő-visszasajtoló kutak által kialakított vízáramlási és hőtranszport rendszer hatására a földi hőáramból származó energia.
+17.[^180]
 
-[^349]: A Vhr. 34. §-ának 1. pontja a 106/2005. (VI. 16.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^350]: A Vhr. 34. §-ának 2. pontja a 251/2011. (XII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^351]: A Vhr. 34. §-ának 8. pontját a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^352]: A Vhr. 34. § 10. pontja a 311/2014. (XII. 11.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^353]: A Vhr. 34. § 11. pontja a 217/2008. (VIII. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^354]: A Vhr. 34. § 12. pontját a 311/2014. (XII. 11.) Korm. rendelet 21. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^355]: A Vhr. 34. § 13. pontját a 282/2003. (XII. 29.) Korm. rendelet 23. §-a iktatta a szövegbe.
-[^356]: A Vhr. 34. § 14. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be.
-[^357]: A Vhr. 34. § 15. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be.
-[^358]: A Vhr. 34. § 16. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be.
-[^359]: A Vhr. 34. § 17. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be.
+[^167]: A Vhr. 34. § 1. pontját a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja hatályon kívül helyezte.
+[^168]: A Vhr. 34. §-ának 2. pontja a 251/2011. (XII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^169]: A Vhr. 34. § 4. pontját a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja hatályon kívül helyezte.
+[^170]: A Vhr. 34. § 6. pontját a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja hatályon kívül helyezte.
+[^171]: A Vhr. 34. § 7. pontját a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja hatályon kívül helyezte.
+[^172]: A Vhr. 34. §-ának 8. pontját a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^173]: A Vhr. 34. § 10. pontja a 311/2014. (XII. 11.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^174]: A Vhr. 34. § 11. pontját a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja hatályon kívül helyezte.
+[^175]: A Vhr. 34. § 12. pontját a 311/2014. (XII. 11.) Korm. rendelet 21. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^176]: A Vhr. 34. § 13. pontját a 282/2003. (XII. 29.) Korm. rendelet 23. §-a iktatta a szövegbe.
+[^177]: A Vhr. 34. § 14. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be.
+[^178]: A Vhr. 34. § 15. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja.
+[^179]: A Vhr. 34. § 16. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja.
+[^180]: A Vhr. 34. § 17. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja.

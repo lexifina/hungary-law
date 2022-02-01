@@ -1,5 +1,3 @@
-8/H. §[^97] (1) A földtani kutatás során nyert, illetve felhasznált, valamint a korábbi adatokból felhasznált adatokat egységes digitális és térinformatikai adatbázisba kell szervezni olyan részletességgel és formában, hogy azokból a következtetések utólagosan is reprodukálhatók legyenek.
+8/H. §[^58]
 
-(2) Ha az engedélyes nem tesz eleget a 10/B. § szerinti adatszolgáltatási kötelezettségének, az engedélyes összefoglaló földtani zárójelentés elfogadása iránti kérelme nem hagyható jóvá.
-
-[^97]: A Vhr. 8/H. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be.
+[^58]: A Vhr. 8/H. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja.

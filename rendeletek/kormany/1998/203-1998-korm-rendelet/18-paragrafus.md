@@ -1,12 +1,5 @@
 ## (A Bt. 31. §-ához)
 
-18. § (1) A bányászati létesítmények, gépek és berendezések építését, üzemben tartását a bányafelügyelet ellenőrzi.
+18. §[^80]
 
-(2)[^197]
-
-(3) Az engedélyköteles létesítmény több bányavállalkozó által történő közös használatához az engedélyező hatóság hozzájárulása szükséges.
-
-(4)[^198] A bányafelügyelet által engedélyezett létesítmény felhagyását, lebontását – ha ahhoz hatósági engedélyre nincs szükség – a munkálatok megkezdése előtt legalább 15 nappal be kell jelenteni a bányafelügyeletnek. A robbantóanyag-raktár felhagyását be kell jelenteni a rendőr-főkapitányságnak is. Ha a bányafelügyelet az említett időtartam alatt intézkedést nem tesz, a felhagyás, lebontás végrehajtható.
-
-[^197]: A Vhr. 18. §-ának (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^198]: A Vhr. 18. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (6) bekezdésével megállapított szöveg.
+[^80]: A Vhr. 18. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 8. pontja hatályon kívül helyezte.

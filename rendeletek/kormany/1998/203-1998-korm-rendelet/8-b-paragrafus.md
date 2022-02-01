@@ -1,14 +1,3 @@
-8/B. §[^89] (1)[^90] A geotermikus védőidom határait a kijelölést követően a bányafelügyelet legalább 5 évente felülvizsgálja. A felülvizsgálat során figyelembe kell venni:
+8/B. §[^52]
 
-a) a bányavállalkozó által a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről szóló rendelet alapján szolgáltatott geofizikai, kútszerkezeti és hidrodinamikai,
-
-b) a Bt. 25. § (2) bekezdés b) pontjában meghatározott éves jelentésben megadott mérési, valamint
-
-c) az eltelt időszakban keletkezett kutatási
-
-adatokat.
-
-(2) A bányafelügyelet a geotermikus védőidom határait az üzemeltető kérelmére felülvizsgálhatja. A kérelemnek tartalmaznia kell a felülvizsgálat indokát. Ha a bányafelügyelet megállapítja, hogy a kijelölt geotermikus védőidom felülvizsgálata nem szükséges, a kérelmet elutasítja.
-
-[^89]: A Vhr. 8/B. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be.
-[^90]: A Vhr. 8/B. § (1) bekezdés nyitó szövegrésze a 162/2017. (VI. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^52]: A Vhr. 8/B. §-át a 146/2012. (VII. 5.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja.

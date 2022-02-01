@@ -1,6 +1,6 @@
-## (A Bt. 9. §-ához)[^13]
+## (A Bt. 9. §-ához)[^8]
 
-1/D. §[^14] A koncessziós pályázatra kijelölhető zárt területekre a Bt. 9. § (4) bekezdése szerinti közzétételtől számított 30 napon belül lehet írásban a bányafelügyelethez javaslatot benyújtani. A javaslatban meg kell adni a terület EOV szerinti koordinátákkal történő pontos körülhatárolását, az ásványi nyersanyag megnevezését, valamint a geotermikus energia esetében az erre történő utalást.
+1/D. §[^9]
 
-[^13]: A Vhr. 1/D. §-át megelőző alcímet a 411/2012. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
-[^14]: A Vhr. 1/D. §-át a 411/2012. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 706/2020. (XII. 30.) Korm. rendelet 12. § a) pontja, a 825/2021. (XII. 28.) Korm. rendelet 10. § b) pontja szerint módosíott szöveg.
+[^8]: A Vhr. 1/D. §-át megelőző alcímet a 411/2012. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^9]: A Vhr. 1/D. §-át a 411/2012. (XII. 28.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 1. pontja.
