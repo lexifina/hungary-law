@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-382-20-
 | 2021-11-10 | 2016-382-20-22.37 | 609/2021. (XI. 5.) Korm. rendelet |
 | 2022-01-01 | 2016-382-20-22.38 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2022-01-27 | 2016-382-20-22.39 | 609/2021. (XI. 5.) Korm. rendelet |
+| 2022-02-01 | 2016-382-20-22.40 | 457/2017. (XII. 28.) Korm. rendelet |
