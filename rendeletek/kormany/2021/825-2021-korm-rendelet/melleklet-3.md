@@ -1,3 +1,3 @@
-3. melléklet a 825/2021. (XII. 28.) Korm. rendelethez[^57]
+3. melléklet a 825/2021. (XII. 28.) Korm. rendelethez[^56]
 
-[^57]: A 3. meléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 3. meléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
