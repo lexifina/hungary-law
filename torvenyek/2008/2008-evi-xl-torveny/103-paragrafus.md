@@ -14,7 +14,7 @@ c) a 106. § és a 106/A. § szerinti külön díjak,
 
 d) az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára
 
-e) a 141. § (3) bekezdése, a 141/A. § és a 141/J. § szerinti felajánlási ár,
+e) a 141/A. § és a 141/J. § szerinti felajánlási ár,
 
 f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig,
 
@@ -38,9 +38,9 @@ c) miniszteri rendeletben, továbbá a Hivatal elnökének rendeletében meghat�
 
 d) az egyetemes szolgáltatás keretében ellátott felhasználó a (2) bekezdés d) pontjában,
 
-e) az egyetemes szolgáltató és a földgázkereskedő a (2) bekezdés e) pontjában,
+e) az egyetemes szolgáltató a (2) bekezdés e) pontjában,
 
-f) az egyetemes szolgáltató és a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő forrásaival rendelkező földgázkereskedő (a továbbiakban: volt közüzemi nagykereskedő) a (2) bekezdés f) pontjában
+f) az egyetemes szolgáltató és az egyetemes szolgáltató 39. § szerinti hatósági áras forrásait biztosító földgázkereskedő (a továbbiakban: egyetemes szolgáltatót ellátó földgázkereskedő) a (2) bekezdés f) pontjában,
 
 foglalt árat vagy díjat köteles megfizetni.
 

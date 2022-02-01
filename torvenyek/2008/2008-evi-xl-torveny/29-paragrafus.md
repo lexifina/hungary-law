@@ -10,7 +10,7 @@ b) a lakossági fogyasztó által, fizetési haladék adásáról vagy részletf
 
 c) a földgázkereskedő a tartozásról és a kikapcsolás lehetőségéről a lakossági fogyasztót legalább kétszer értesítette, és az értesítésben a lakossági fogyasztó figyelmét felhívta a szociálisan rászoruló fogyasztókat az e törvény és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján megillető kedvezményekre, valamint az előre fizető mérő felszerelésének a lehetőségére.
 
-(3a) A (3) bekezdés c) pontja szerinti esetben a lakossági fogyasztó első értesítése postai vagy – a lakossági fogyasztó előzetes hozzájárulása esetén – elektronikus úton, a kikapcsolás lehetőségére és az azzal járó szolgáltatás-szüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas egyéb módon történik.
+(3a) A (3) bekezdés c) pontja szerinti esetben a lakossági fogyasztó értesítése írásban történik azzal, hogy a kikapcsolás lehetőségére és az azzal járó szolgáltatás-szüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas egyéb módon történik.
 
 (3b) Ha a (3) bekezdés a) pontja szerinti fizetési kötelezettség nem vagy nem kizárólag számlatartozásból ered, a földgázkereskedő a lakossági fogyasztók földgázellátásból történő kikapcsolását a nem számlatartozásból eredő fizetési kötelezettség vonatkozásában akkor kezdeményezheti, ha annak polgári peres vagy fizetési meghagyásos eljárás útján történő érvényesítését igazolható módon megindította.
 

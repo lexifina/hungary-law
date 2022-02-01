@@ -93,3 +93,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2021-06-13 | 2021. évi LXVIII. törvény | 2008-40-00-00.91 |
 | 2021-07-01 | 2021. évi LV. törvény | 2008-40-00-00.92 |
 | 2022-01-01 | 2021. évi CXIX. törvény | 2008-40-00-00.93 |
+| 2022-02-01 | 2021. évi CXXXVI. törvény | 2008-40-00-00.94 |

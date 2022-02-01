@@ -4,7 +4,7 @@ a) kiadja, – jogszabályban meghatározott esetekben – módosítja, vagy vis
 
 b) jóváhagyja, illetve e törvényben meghatározott esetekben hivatalból módosítja az Üzemi és Kereskedelmi Szabályzatot, a kereskedési platform szabályzatát, az egyensúlyozó platform szabályzatát, a kapacitáslekötési platform szabályzatát, a belső kiválasztási szabályzatot, és a szervezett földgázpiaci szabályzatot, azok módosításait, valamint a jóváhagyását feltételhez kötheti;
 
-c) jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat, és azok módosításait, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja, továbbá a 113. § (3) bekezdésben foglalt esetben az üzletszabályzatot hivatalból módosíthatja;
+c) jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat és azok módosításait, valamint a jóváhagyást feltételhez köti vagy megtagadja, a 113. § (1a) bekezdése alapján kérelemre mentesít az üzletszabályzat készítés kötelezettsége alól, továbbá a 113. § (3) bekezdésében foglalt esetben az üzletszabályzatot hivatalból módosítja;
 
 d) jóváhagyja a szállítási rendszerüzemeltető, a földgázelosztó, illetve a földgáztároló engedélyes által benyújtott megfelelési programokat, és azok módosításait, jóváhagyja az éves megfelelési jelentést, továbbá jóváhagyja a szállítási rendszerüzemeltető megfelelési ellenőrének kinevezését és megbízatásának feltételeit, időtartamát, valamint megszüntetését;
 

@@ -1,18 +1,18 @@
-141/J. § (1) Az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő az egyetemes szolgáltatás keretében vételező felhasználók részére történő értékesítés céljából köteles a szerződéssel le nem kötött földgázforrásait – ideértve az egyetemes szolgáltatási célra a 141/I. § szerint vásárolt hazai termelésű földgázforrásait is – a Mód. 7. törvény hatálybalépését követő napon 3 munkanapig tartó ajánlati kötöttség mellett az egyetemes szolgáltatók részére 2015. július 1. és 2016. szeptember 30. közötti időszakra – a Felajánlási rendeletben szabályozott szerződési feltételeken kívül – megkülönböztetésmentes szerződéses feltételekkel vételre felajánlani.
+141/J. § (1) Az egyetemes szolgáltatót ellátó földgázkereskedő az egyetemes szolgáltatás keretében vételező felhasználók részére történő értékesítés céljából köteles a szerződéssel le nem kötött földgázforrásait – ideértve az egyetemes szolgáltatási célra a 141/I. § szerint vásárolt hazai termelésű földgázforrásait is – a Mód. 7. törvény hatálybalépését követő napon 3 munkanapig tartó ajánlati kötöttség mellett az egyetemes szolgáltatók részére 2015. július 1. és 2016. szeptember 30. közötti időszakra – a Felajánlási rendeletben szabályozott szerződési feltételeken kívül – megkülönböztetésmentes szerződéses feltételekkel vételre felajánlani.
 
-(2) Az egyetemes szolgáltató szabadon dönthet arról, hogy köt-e az (1) bekezdés alapján szerződést. Az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő köteles az igénylőkkel szerződést kötni.
+(2) Az egyetemes szolgáltató szabadon dönthet arról, hogy köt-e az (1) bekezdés alapján szerződést. Az egyetemes szolgáltatót ellátó földgázkereskedő köteles az igénylőkkel szerződést kötni.
 
 (3) E § alapján kizárólag olyan, ellátás típusú szerződés köthető, amely
 
-a) alapján az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiséget szállítóvezetéki kilépési ponton adja át az egyetemes szolgáltatónak,
+a) alapján az egyetemes szolgáltatót ellátó földgázkereskedő az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiséget szállítóvezetéki kilépési ponton adja át az egyetemes szolgáltatónak,
 
 b) tartalmazza a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló rendelet szerinti árelemek közül a földgáz árát, a földgázszállítási és a földgáztárolási díjat, a nagykereskedői árrést, valamint a mobilgáz-finanszírozási költséget,
 
 c) a Felajánlási rendeletben szabályozott lényeges szerződési feltételeket, különösen az árat, a b) pont szerinti árelemek mértékét, a mennyiséget és az ezen mennyiségtől való eltérés jogkövetkezményeit a Felajánlási rendelet mindenkori tartalmának megfelelően határozza meg,
 
-d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket a felek megállapodásának hiányában az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő üzletszabályzatának megfelelően határozza meg.
+d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket a felek megállapodásának hiányában az egyetemes szolgáltatót ellátó földgázkereskedő üzletszabályzatának megfelelően határozza meg.
 
-(4) Az egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő az ajánlati kiírás mellékletét képező szerződéstervezetet a (3) bekezdés figyelembevételével készíti el.
+(4) Az egyetemes szolgáltatót ellátó földgázkereskedő az ajánlati kiírás mellékletét képező szerződéstervezetet a (3) bekezdés figyelembevételével készíti el.
 
 (5) Az (1) bekezdés alapján megkötött szerződés a szerződés lejártának napjáig nem szüntethető meg.
 
@@ -24,6 +24,6 @@ d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket a f
 
 (9)
 
-(10) A (3) bekezdés szerinti szerződés 2022. szeptember 30-áig meghosszabbodik.
+(10) A (3) bekezdés szerinti szerződés 2024. szeptember 30-áig meghosszabbodik.
 
-(11) Az egyetemes szolgáltató köteles az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, a volt közüzemi nagykereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.
+(11) Az egyetemes szolgáltató köteles az egyetemes szolgáltatót ellátó földgázkereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, az egyetemes szolgáltatót ellátó földgázkereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.

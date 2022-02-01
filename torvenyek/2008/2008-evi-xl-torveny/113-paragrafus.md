@@ -1,6 +1,6 @@
 113. § (1) Az engedélyes – az egyablakos kapacitásértékesítő és az (1a) bekezdés szerinti mentesítés kivételével – köteles üzletszabályzatot készíteni, amely tartalmazza az általa nyújtott szolgáltatás általános biztonsági, minőségi, műszaki, kereskedelmi, elszámolási és fizetési előírásait, valamint az ellátás színvonalának és a felhasználói igény kielégítésének feltételeit.
 
-(1a) A Hivatal kérelemre mentesítheti az üzletszabályzat készítésének kötelezettsége alól az e törvény szerint engedélyköteles földgázkereskedőt, ha legfeljebb egy felhasználónak értékesít földgázt és a felhasználóval kötött szerződés megfelel az e törvényben és a végrehajtására kiadott jogszabályokban, a földgázellátási szabályzatokban, valamint a Hivatal határozataiban foglalt feltételeknek.
+(1a) A Hivatal kérelemre mentesíti az üzletszabályzat készítésének kötelezettsége alól az e törvény szerint engedélyköteles földgázkereskedőt, ha legfeljebb egy felhasználónak értékesít földgázt és a felhasználóval kötött szerződés megfelel az e törvényben és a végrehajtására kiadott jogszabályokban, a földgázellátási szabályzatokban, valamint a Hivatal határozataiban foglalt feltételeknek.
 
 (1b) Az üzletszabályzat készítése alól az (1a) bekezdés szerint mentesített engedélyes több felhasználónak földgázt csak abban az esetben értékesíthet, ha az üzletszabályzatát az értékesítés megkezdése előtt a Hivatal jóváhagyta.
 

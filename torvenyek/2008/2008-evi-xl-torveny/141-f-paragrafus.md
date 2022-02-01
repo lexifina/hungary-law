@@ -1,4 +1,4 @@
-141/F. § (1) A volt közüzemi nagykereskedő
+141/F. § (1) Az egyetemes szolgáltatót ellátó földgázkereskedő
 
 a) az egyetemes szolgáltatók ellátására beszerzett földgázt tartalmazó új földgáz kereskedelmi szerződését, valamint
 
