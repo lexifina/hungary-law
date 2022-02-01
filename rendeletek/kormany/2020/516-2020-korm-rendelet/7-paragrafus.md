@@ -28,6 +28,8 @@ h) 1/I. § (3), (6) és (7) bekezdése
 
 (6) A Kormány az OKFŐ-t jelöli ki az Eüak. 35/L. §-a szerinti feladatok ellátására kapcsolati kódot kezelő szervként.
 
+(6a)[^6] Az OKFŐ a (4)–(6) bekezdés szerinti feladata ellátásába adatfeldolgozóként vonja be az Egészséginformatikai Szolgáltató és Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaságot.
+
 (7) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az önálló orvosi tevékenységről szóló 2000. évi II. törvény 1. § (2) bekezdés c) pontja, 2. § (5) bekezdése, 2/A. § (2) bekezdése, 2/B. § (8) bekezdése, 3. § (5a) bekezdése szerinti feladatok ellátására.
 
 (8) A Kormány az OKFŐ-t jelöli ki az Eütv. szerint
@@ -57,3 +59,8 @@ d) 110/A. § (1) és (4) bekezdése
 (10) A Kormány az OKFŐ-t jelöli ki az egészségügyért felelős miniszter ágazatába tartozó, a szakképzésről szóló 2019. évi LXXX. törvény szerinti ágazatért felelős miniszter számára meghatározott szakképesítési feladatok ellátására.
 
 (11) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 14. § g) pontja szerinti egészségügyi igazgatási eljárási feladatok ellátására a hagyományos kínai gyógyászat engedélyezésével kapcsolatos tevékenység tekintetében.
+
+(12)[^7] Az OKFŐ mint az Elektronikus Egészségügyi Szolgáltatási Tér működtetője a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 19/A. §-a szerinti nemzeti kapcsolattartó szerv. Az OKFŐ nemzeti kapcsolattartó szervként biztosítja a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítésével összefüggő információcserét az Európai Unió tagállamainak nemzeti kapcsolattartó szerveivel és az Európai Bizottsággal együttműködve.
+
+[^6]: A 7. § (6a) bekezdését a 29/2022. (I. 28.) Korm. rendelet 11. §-a iktatta be.
+[^7]: A 7. § (12) bekezdését a 600/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be.
