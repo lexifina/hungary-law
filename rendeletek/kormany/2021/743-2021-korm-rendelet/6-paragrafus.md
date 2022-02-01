@@ -1,1 +1,0 @@
-## 5. § A 4. § szerinti feltételeket nem teljesítő tizenkettedik életévét be nem töltött személy a 4. § alapján belépésre jogosult tizennyolcadik életévét betöltött személy felügyelete alatt a mérkőzésre, a szurkolói zóna területére, illetve az átvételi pontokra nézőként beléphet.

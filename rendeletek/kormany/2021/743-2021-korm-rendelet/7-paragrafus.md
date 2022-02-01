@@ -1,1 +1,0 @@
-## 6. § A 4. § alapján belépésre jogosult tizennyolcadik életévét betöltött személy felügyelete alatt legfeljebb tíz, 5. § szerinti személy léphet be a mérkőzésre, a szurkolói zóna területére, illetve az átvételi pontokra nézőként.
