@@ -24,11 +24,11 @@
 
 | 12. | 11. | Tatárszentgyörgy Község Önkormányzata kötelező feladatainak támogatása | 17 000 000 | tartozásrendezés, kötelező önkormányzati feladatok ellátása |
 
-| 13. | 12. | Tihany Község Önkormányzata fejlesztési feladatainak támogatása | 148 590 000 | folyamatban lévő fejlesztések többletköltségeinek támogatása |
+| 13. | 12. | Tihany Község Önkormányzata fejlesztési feladatainak támogatása | 148 590 000 | folyamatban lévő fejlesztések többletköltségeinek támogatása részben pénzeszköz átadással |
 
 | 14. | 13. | Várpalota Város Önkormányzata intézményfejlesztési feladatainak támogatása | 131 500 000 | önkormányzati intézmények felújítása, karbantartása eszközbeszerzéssel |
 
-| 15. | 14. | Vöröstó Község Önkormányzata településüzemeltetési feladatainak támogatása | 11 483 000 | munkagép beszerzése |
+| 15. | 14. | Vöröstó Község Önkormányzata településüzemeltetési feladatainak támogatása | 11 483 000 | munkagép kiegészítő elemek, további eszközök beszerzése |
 
 2. melléklet az 1914/2021. (XII. 15.) Korm. határozathoz
 
