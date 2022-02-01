@@ -1,3 +1,5 @@
+## 21. §
+
 ## 9. A robbanóanyagok szállítása
 
 22. § (1) A robbanóanyag szállításához az engedélyt a címzett szerinti tagállam illetékes hatóságától a címzett szerzi be. Az illetékes hatóság megvizsgálja, hogy a címzett rendelkezik-e jogszerű felhatalmazással robbanóanyag megszerzésére és birtokában van-e a szükséges engedélyeknek. A szállításért felelős gazdasági szereplő értesíti a robbanóanyagok szállításáról és minden mozgásáról annak a tagállamnak vagy tagállamoknak az illetékes hatóságait, amely(n)ek területén a robbanóanyagot átszállítják és megszerzi az érintett tagállam(ok) előzetes hozzájárulását.

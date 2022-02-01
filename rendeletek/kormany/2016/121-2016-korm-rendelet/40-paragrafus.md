@@ -1,3 +1,5 @@
-## 39. § Ha a piacfelügyeleti hatóság véleménye alapján a Magyar Szabványügyi Testület törvényességi felügyeletét ellátó miniszter úgy ítéli meg, hogy egy megfelelést biztosító honosított harmonizált szabvány nem felel meg maradéktalanul az alkalmazandó, e rendeletben meghatározott rendelkezéseknek, ezt indokolással ellátva a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 1535/2015/EU európai parlamenti és tanácsi irányelv 2. cikke alapján létrehozott állandó bizottság elé terjeszti.
+## 39. §
 
-## 24. A CE-jelölésre vonatkozó általános elvek
+## 24.[^38]
+
+[^38]: A 24. alcímet (40. §) a 26/2022. (I. 28.) Korm. rendelet 17. § 11. pontja hatályon kívül helyezte.

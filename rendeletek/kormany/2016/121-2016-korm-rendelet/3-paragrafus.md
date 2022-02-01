@@ -1,10 +1,10 @@
-## 2. § A polgári robbantási tevékenység hatósági engedélyezésére irányuló eljárásban ügyfélnek minősül a hatásterületen lévő ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték. Hatásterületnek a bányászatról szóló törvény felhatalmazása alapján kiadott Általános Robbantási Biztonsági Szabályzat szerint meghatározott robbantási biztonsági távolságok burkológörbéjével lehatárolt terület minősül.
+## 2. §[^3]
 
 ## 2. Értelmező rendelkezések
 
 ## 3. § E rendelet alkalmazásában:
 
-1.[^2] akkreditálás: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott akkreditálás;
+1.[^4]
 
 2. belföldi átadás: olyan robbanóanyag szállítás, amelynek a kiindulópontja és végcélja egyaránt Magyarországon található;
 
@@ -16,13 +16,13 @@
 
 6. engedély: a robbanóanyagoknak az Európai Unión belül tervezett szállítását engedélyező határozat;
 
-7. forgalmazás: robbanóanyag kereskedelmi tevékenység keretében történő rendelkezésre bocsátása értékesítés vagy felhasználás céljából az európai uniós piacon, akár ellenérték fejében, akár ingyenesen;
+7.[^5]
 
-8. forgalmazó: bármely, a gyártótól vagy az importőrtől különböző természetes vagy jogi személy az ellátási láncban, aki vagy amely a robbanóanyagot forgalmazza;
+8.[^6]
 
-9. forgalomba hozatal: egy robbanóanyag első alkalommal történő forgalmazása az európai uniós piacon;
+9.[^7]
 
-10. forgalomból történő kivonás: minden olyan intézkedés, amelynek célja, hogy megelőzze a robbanóanyag forgalmazását az értékesítési láncban;
+10.[^8]
 
 11. gazdasági szereplő: a gyártó, a meghatalmazott képviselő, az importőr, a forgalmazó, valamint bármely természetes vagy jogi személy, aki vagy amely robbanóanyagok tárolásával, felhasználásával, szállításával, importjával, exportjával vagy kereskedelmével foglalkozik;
 
@@ -30,21 +30,21 @@
 
 13. harmonizált szabvány: az európai szabványosításról, a 89/686/EGK és a 93/15/EGK tanácsi irányelv, a 94/9/EK, a 94/25/EK, a 95/16/EK, a 97/23/EK, a 98/34/EK, a 2004/22/EK, a 2007/23/EK, a 2009/23/EK és a 2009/105/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 87/95/EGK tanácsi határozat és az 1673/2006/EK európai parlamenti és tanácsi határozat hatályon kívül helyezéséről szóló, 2012. október 25-i 1025/2012/EU rendelet 2. cikk 1. pont c) alpontjában meghatározott harmonizált szabvány;
 
-14. honosított harmonizált szabvány: a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet 1. § b) pontjában meghatározott szabvány;
+14.[^9]
 
-15. importőr: az Európai Unióban letelepedett bármely természetes vagy jogi személy, aki vagy amely harmadik országból származó robbanóanyagot hoz forgalomba az európai uniós piacon;
+15.[^10]
 
-16. jogszerű felhasználás: a közbiztonságot és közrendet sértő jogellenes felhasználás megelőzése;
+16.[^11]
 
-17. megfelelőségértékelés: eljárás, amely bizonyítja a robbanóanyaggal kapcsolatos, e rendeletben foglalt alapvető biztonsági követelmények teljesülését;
+17.[^12]
 
 18. megfelelőségértékelő szervezet: az a jogi személyiséggel rendelkező szervezet, amely megfelelőségértékelési tevékenységeket – beleértve kalibrálást, vizsgálatot, tanúsítást és ellenőrzést – végez;
 
-19. meghatalmazott képviselő: az Európai Unióban letelepedett bármely természetes vagy jogi személy, aki vagy amely egy gyártótól írásbeli meghatalmazást kapott, hogy az e rendeletben meghatározott feladatok vonatkozásában a nevében eljárjon;
+19.[^13]
 
-20. műszaki leírás: a robbanóanyag által teljesítendő műszaki követelményeket ismertető dokumentum;
+20.[^14]
 
-21.[^3] nemzeti akkreditáló testület: a termékek forgalmazása tekintetében a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontjában meghatározott nemzeti akkreditáló testület;
+21.[^15]
 
 22. robbanóanyag: az ENSZ „Ajánlások a veszélyes áruk szállítására” című kiadványa szerint az 1. osztályba tartozó, robbanóanyagnak minősülő anyagok és tárgyak;
 
@@ -56,9 +56,22 @@
 
 26. szállításért felelős gazdasági szereplő: a robbanóanyag szállítási vagy a belföldi átadási engedély benyújtására jogosult gazdasági szereplő, aki a szállítási vagy a belföldi átadási tevékenység végrehajtásáért felel és a szállításban vagy a belföldi átadásban részt vevő személyekért felelősséget vállal;
 
-27. uniós harmonizációs jogszabály: minden, a termékek forgalmazásának feltételeit harmonizáló európai uniós jogszabály;
+27.[^16]
 
-28. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára hozzáférhető robbanóanyag visszavétele.
+28.[^17]
 
-[^2]: A 3. § 1. pontja a 246/2020. (V. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § 21. pontja a 246/2020. (V. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. §-t a 26/2022. (I. 28.) Korm. rendelet 17. § 1. pontja hatályon kívül helyezte.
+[^4]: A 3. § 1. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^5]: A 3. § 7. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^6]: A 3. § 8. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^7]: A 3. § 9. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^8]: A 3. § 10. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^9]: A 3. § 14. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^10]: A 3. § 15. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^11]: A 3. § 16. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^12]: A 3. § 17. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^13]: A 3. § 19. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^14]: A 3. § 20. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^15]: A 3. § 21. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^16]: A 3. § 27. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^17]: A 3. § 28. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.

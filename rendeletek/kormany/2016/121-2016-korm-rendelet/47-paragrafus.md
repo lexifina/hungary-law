@@ -1,9 +1,13 @@
 ## 47. § Ez a rendelet
 
-a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+a)[^42]
 
-b) a polgári felhasználású robbanóanyagok azonosítási és nyomon követhetőségi rendszerének a 93/15/EGK tanácsi irányelv értelmében történő létrehozásáról szóló, 2008. április 4-i 2008/43/EK bizottsági irányelvnek,
+b)[^43]
 
-c) a polgári felhasználású robbanóanyagok azonosítási és nyomon követhetőségi rendszerének a 93/15/EGK tanácsi irányelv értelmében történő létrehozásáról szóló 2008/43/EK irányelv módosításáról szóló, 2012. február 22-i 4/2012/EU bizottsági irányelvnek, valamint
+c)[^44]
 
 d) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/28/EU európai parlamenti és tanácsi irányelvnek
+
+[^42]: A 47. § a) pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 12. pontja hatályon kívül helyezte.
+[^43]: A 47. § b) pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 12. pontja hatályon kívül helyezte.
+[^44]: A 47. § c) pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 12. pontja hatályon kívül helyezte.
