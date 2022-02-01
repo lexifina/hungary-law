@@ -1,0 +1,3 @@
+7. § (1) A jelentés elkészítésében való közreműködés a közreműködő szervek részéről, a (2) bekezdésben foglalt kivétellel, ingyenesen történik.
+
+(2) Az SZTFH a jelentés elkészítésében való közreműködésért a környezetvédelmi és természetvédelmi hatóságnak 80 000 forint, a vízügyi hatóságnak 80 000 forint költségtérítést fizet. A fizetési kötelezettséget a 6. § (4) bekezdésében meghatározott határidő lejártát követő 15 napon belül, a vízügyi és a vízvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 13/2015. (III. 31.) BM rendeletben meghatározott előirányzat-felhasználási számlára, átutalási megbízással kell teljesíteni.

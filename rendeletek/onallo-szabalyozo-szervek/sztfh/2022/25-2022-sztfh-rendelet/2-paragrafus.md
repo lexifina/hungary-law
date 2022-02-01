@@ -1,0 +1,3 @@
+2. § (1) A vizsgálat lefolytatását és annak alapján a jelentés elkészítését az állami földtani feladatokat ellátó Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH), a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság, az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF), valamint az 1. mellékletben meghatározott közigazgatási és egyéb szervek (a továbbiakban együtt: közreműködő szerv) közreműködésével végzi.
+
+(2) Az SZTFH a vizsgálatot zárt területen arra a területre és térrészre végzi el, amelyen a rendelkezésére álló földtani adatokat és vállalkozói kezdeményezéseket figyelembe véve az ásványi nyersanyag bányászata vagy a geotermikus energia kinyerése energetikai célra kedvezőnek ígérkezik.
