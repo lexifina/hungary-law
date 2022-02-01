@@ -1,7 +1,7 @@
-110. § Hatályát veszti a Gytv.
+110. §
 
 a)
 
-b) 27. §-ában a „vizsgálati készítményekkel” szövegrész
+b)
 
-c) 33. § a) és f) pontja.
+c)

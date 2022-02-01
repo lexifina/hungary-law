@@ -1,10 +1,10 @@
-109. § A Gytv.
+109. §
 
 1.
 
-2. 2. § (1) bekezdésében a „készítmények” szövegrész helyébe a „gyógyszerek” szöveg,
+2.
 
-3. 4. § (2) bekezdésében az „a külön jogszabályban meghatározott” szövegrész helyébe az „európai uniós jogi aktusban vagy jogszabályban meghatározott” szöveg,
+3.
 
 4.
 
@@ -14,27 +14,27 @@
 
 7.
 
-8. 20. § (1) bekezdésében a „készítmények” szövegrész helyébe a „gyógyszerek” szöveg,
+8.
 
 9.
 
-10. 21. §-t megelőző alcím címében a „készítmény” szövegrész helyébe a „gyógyszer” szöveg,
+10.
 
-11. 21. § (1) bekezdésében a „készítmény” szövegrész helyébe a „gyógyszer” szöveg,
+11.
 
 12.
 
-13. 21. § (1) bekezdés d) pontjában a „klinikai vizsgálatot végző intézmény” szövegrész helyébe a „vizsgálóhely” szöveg,
+13.
 
 14.
 
-15. 25/B. § (1) bekezdésében a „készítmények” szövegrész helyébe a „gyógyszerek” szöveg,
+15.
 
 16.
 
 17.
 
-18. 25/C. § (1) bekezdésében a „készítményt” szövegrész helyébe a „gyógyszert” szöveg,
+18.
 
 19.
 
@@ -42,6 +42,4 @@
 
 21.
 
-22. 1. melléklet III. J. sorában a „készítmények” szövegrész helyébe a „gyógyszerek” szöveg
-
-lép.
+22.

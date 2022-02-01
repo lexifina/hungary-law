@@ -1,4 +1,4 @@
-130. § A Gyftv.
+130. §
 
 a)
 
@@ -12,7 +12,7 @@ e)
 
 f)
 
-g) 17. § (6) bekezdés c) pontjában a „készítményt” szövegrész helyébe a „gyógyszert” szöveg,
+g)
 
 h)
 
@@ -21,5 +21,3 @@ i)
 j)
 
 k)
-
-lép.
