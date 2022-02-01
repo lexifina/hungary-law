@@ -1,3 +1,0 @@
-## 15. § A bányafelügyelet a bezárt hulladékkezelő létesítményeket (beleértve az elhagyott hulladékkezelő létesítményeket is), amelyek jelentősen káros környezeti hatással bírnak, vagy közép-, illetve rövid távon belül komoly veszélyt jelenthetnek az emberi egészségre vagy a környezetre, nyilvántartásba veszi, a nyilvántartást rendszeresen frissíti. A nyilvántartás tartalmazza a létesítmények egyszerűsített kockázatfelmérését és a tájrendezés megvalósult vagy javasolt módszerét is, figyelembe véve a helyi földtani, hidrogeológiai és klimatológiai sajátosságokat is.
-
-## A hulladékkezelő létesítményekkel kapcsolatos jelentéstételi kötelezettség

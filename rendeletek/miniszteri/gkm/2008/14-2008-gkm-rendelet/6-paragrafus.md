@@ -1,1 +1,0 @@
-## Kérelem és engedélyezés

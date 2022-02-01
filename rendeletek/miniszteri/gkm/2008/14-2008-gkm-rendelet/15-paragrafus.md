@@ -1,1 +1,0 @@
-## Bezárt hulladékkezelő létesítmények nyilvántartása
