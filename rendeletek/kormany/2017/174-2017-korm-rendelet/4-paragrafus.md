@@ -2,13 +2,13 @@
 
 4. § (1) A Kormány anyakönyvi szervként
 
-a) a hazai anyakönyvezés végzésére,
+a)[^13] az 5. §-ban meghatározott esetek kivételével a hazai anyakönyvezés végzésére,
 
 b) a névváltoztatási eljárás lefolytatására,
 
-c)[^12] az At. 14. § (2a) bekezdésében meghatározott államok körének a honlapján történő közzétételére,
+c)[^14] az At. 14. § (2a) bekezdésében meghatározott államok körének a honlapján történő közzétételére,
 
-d)[^13]
+d)[^15]
 
 e) az anyakönyvvezetőként eljáró hivatásos konzuli tisztviselő felügyeleti szerveként, valamint
 
@@ -20,5 +20,6 @@ f) a polgárok személyi adatainak és lakcímének nyilvántartásáról szól�
 
 (3) A hazai anyakönyvezési eljárást Budapest Főváros Kormányhivatala folytatja le az Ápt. 5/A. §-ában, 11. §-ában és 12. §-ában meghatározott eljárásokban előterjesztett hazai anyakönyvezésre irányuló kérelmek esetében, valamint minden olyan esetben, ahol más hatóság illetékessége nem állapítható meg.
 
-[^12]: A 4. § (1) bekezdés c) pontja a 745/2021. (XII. 21.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^13]: A 4. § (1) bekezdés d) pontját a 745/2021. (XII. 21.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^13]: A 4. § (1) bekezdés a) pontja a 745/2021. (XII. 21.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^14]: A 4. § (1) bekezdés c) pontja a 745/2021. (XII. 21.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^15]: A 4. § (1) bekezdés d) pontját a 745/2021. (XII. 21.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.

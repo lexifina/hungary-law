@@ -1,4 +1,4 @@
-## 10. §[^22]
+## 10. §[^25]
 
 1. melléklet a 174/2017. (VI. 30.) Korm. rendelethez
 
@@ -44,4 +44,10 @@
 
 21. Ungvári Főkonzulátus
 
-[^22]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+22.[^26] Manchesteri Főkonzulátus
+
+23.[^27] Innsbrucki Főkonzulátus
+
+[^25]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: Az 1. melléklet 22. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^27]: Az 1. melléklet 23. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
