@@ -1,3 +1,5 @@
+## 15. §
+
 ## 7. A szállítóhálózathoz való hozzáférés
 
 16. § (1) A hozzáférés biztosítása során az üzemeltetőnek és a szállítóhálózat üzemeltetőjének figyelembe kell venni:

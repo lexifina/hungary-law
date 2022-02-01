@@ -1,9 +1,10 @@
+## 1. §[^2]
+
 ## II. Fejezet
 
 ## A TÁROLÓHELY LÉTESÍTÉSE
 
-## 1. A tárolókapacitások felmérése
+## 1.[^3]
 
-2. § (1) A bányafelügyelet ötévenként az 1. mellékletben meghatározottak szerint felmérést végez a szén-dioxid geológiai tárolására potenciálisan alkalmas földtani szerkezetekről és ezek becsült kapacitásáról, valamint térben lehatárolja a potenciális tároló-komplexumokat és meghatározza ezek felszíni vetületét.
-
-(2) A bányafelügyelet a szén-dioxid geológiai tárolására potenciálisan alkalmas földtani szerkezetek listáját a honlapján közzéteszi.
+[^2]: Az 1. §-t a 26/2022. (I. 28.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. alcímet (2. §) a 26/2022. (I. 28.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.

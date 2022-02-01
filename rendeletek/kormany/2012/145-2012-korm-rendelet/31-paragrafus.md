@@ -1,3 +1,5 @@
+## 30. §
+
 ## 17. A felelősség átadása
 
 31. § (1) Az üzemeltető a tárolóhelynek a Bt. 42/S. § (1) bekezdése szerinti bezárása után a biztonságos tárolási jelentést a felelősségátadás jóváhagyása iránti kérelmével együtt nyújtja be a bányafelügyeletnek.

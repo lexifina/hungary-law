@@ -4,7 +4,7 @@
 
 35. § (1) Ha az üzemeltető
 
-a)[^40] a szén-dioxid geológiai tárolása érdekében a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási tevékenységet kutatási engedély nélkül folytatja 100 000 000 forintig,
+a)[^21] a szén-dioxid geológiai tárolása érdekében a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási tevékenységet kutatási engedély nélkül folytatja 100 000 000 forintig,
 
 b) a szén-dioxid geológiai tárolására irányuló tevékenységet tárolási engedély nélkül folytatja 500 000 000 forintig,
 
@@ -14,7 +14,7 @@ d) a szén-dioxid áram összetételére vonatkozó követelményeket megszegi a
 
 e) jelentős rendellenesség esetében a bejelentési és intézkedési kötelezettségét megszegi 10 000 000 forintig,
 
-f)[^41] a bányafelügyelet ellenőrzése alapján elrendelt kötelezéseket a megadott határidőig nem teljesíti 5 000 000 forintig,
+f)[^22] a bányafelügyelet ellenőrzése alapján elrendelt kötelezéseket a megadott határidőig nem teljesíti 5 000 000 forintig,
 
 g) a pénzügyi hozzájárulás fenntartásával vagy helyreállításával kapcsolatos kötelezettségét megszegi 5 000 000 forintig,
 
@@ -30,12 +30,12 @@ terjedhet a bányafelügyelet által kiszabható bírság mértéke.
 
 (2) Ha a szállítóhálózat üzemeltetője a szállítóhálózathoz való hozzáférést jogtalanul megtagadja, a bányafelügyelet által kiszabható bírság mértéke 5 000 000 forintig terjedhet.
 
-(3)[^42] A bányafelügyelet az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottakon túl – mérlegelni kell
+(3)[^23] A bányafelügyelet az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottakon túl – mérlegelni kell
 
 a) a jogsértő magatartás felróhatóságának mértékét és
 
 b) a jogsértő magatartás veszélyeztető jellegét.
 
-[^40]: A 35. § (1) bekezdése a) pontja a 311/2014. (XII. 11.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^41]: A 35. § (1) bekezdés f) pontja a 457/2017. (XII. 28.) Korm. rendelet 399. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^42]: A 35. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 397. § (2) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^21]: A 35. § (1) bekezdése a) pontja a 311/2014. (XII. 11.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^22]: A 35. § (1) bekezdés f) pontja a 457/2017. (XII. 28.) Korm. rendelet 399. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^23]: A 35. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 397. § (2) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 33. §-a szerint módosított szöveg.
