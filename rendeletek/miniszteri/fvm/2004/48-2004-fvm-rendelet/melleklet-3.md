@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^214]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^196]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -42,7 +42,7 @@ A. rész
 
 | 16. | Kanáriköles (Phalaris aquatica L.) | Szuperelit, Elit, I. szaporítási fok |
 
-| 17. | Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Krajina) | Szuperelit, Elit, I. szaporítási fok |
+| 17. | Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Hack) | Szuperelit, Elit, I. szaporítási fok |
 
 | 18. | Kis komócsin (Phleum nodosum L.) | Szuperelit, Elit, I. szaporítási fok, kereskedelmi |
 
@@ -266,7 +266,7 @@ Fonalas csenkesz (Festuca filiformis Pourr)
 
 Juhcsenkesz (Festuca ovina L.)
 
-Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Krajina)
+Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Hack)
 
 Vörös csenkesz (Festuca rubra L.)
 
@@ -356,7 +356,7 @@ Magtermő évben:
 
 | Idegen fajta a mintaterek átlagában, legfeljebb Festulolium és Lolium fajok esetében más Festulolium és Lolium fajok is ideértendők. | növény db | 2 | 5 |
 
-| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb 1–5. csoport fajai közötti kevertség Cuscuta spp. Avena spp. Sorghum halepense Elytrigia repens Alopecurus myosuroides buga, kalász (db) 1. csoport: Festuca rubra Phalaris arundinacea 2. csoport: Festuca arundinacea Festuca pratensis Lolium perenne Vulpia spp. 4. csoport: Bromus spp. 5. csoport: Dactylis glomerata Lolium perenne | buga, kalász db | 10 0 0,3 0,3 3 1 3 0,3 1 2 5 3 10 3 0,3 | 15 0 2 2 10 2 5 1 2 4 7 10 25 5 1 |
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb 1–5. csoport fajai közötti kevertség Cuscuta spp. Avena spp. Sorghum halepense Elymus repens Alopecurus myosuroides buga, kalász (db) 1. csoport: Festuca rubra Phalaris arundinacea 2. csoport: Festuca arundinacea Festuca pratensis Lolium perenne Vulpia spp. 4. csoport: Bromus spp. 5. csoport: Dactylis glomerata Lolium perenne | buga, kalász db | 10 0 0,3 0,3 3 1 3 0,3 1 2 5 3 10 3 0,3 | 15 0 2 2 10 2 5 1 2 4 7 10 25 5 1 |
 
 | Rumex spp. Galium spp. | növény db | 1 | 2 |
 
@@ -714,7 +714,7 @@ I. Mintavétel
 
 | 16. | Kanáriköles (Phalaris aquatica) | 10 | 5 | 5 | 100 | 4 | 50 |
 
-| 17. | Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Krajina) | 10 | 5 | 2 | 100 | 3 | 30 |
+| 17. | Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Hack) | 10 | 5 | 2 | 100 | 3 | 30 |
 
 | 18. | Kis komócsin (Phleum nodosum) | 10 | 5 | 2 | 50 | 1 | 10 |
 
@@ -832,7 +832,7 @@ II. Vetőmagvizsgálati követelmények és minősítési határértékek
 
 | 1. |  | Csírázó- képesség legalább (%) | Kemény mag legfeljebb (%) | Tisztaság legalább (%) | Idegen mag összesen legfeljebb (%) | Idegen mag legfeljebb (db/minta) | Egyéb szab- ványok vagy feltételek |
 
-| 2. | Ebből egy faj | Elytrigia repens | Alopecurus myosu- roides | Melilotus spp. | Rapanus rapha- nistrum | Sinapis arvensis | Vadzab fajok | Cuscuta spp. | Rumex spp., kivéve Rumex acetosella és Rumex maritimus | Más színű és keserű csillagfürt | Nedves- ségtarta- lom legfeljebb (%) |
+| 2. | Ebből egy faj | Elymus repens | Alopecurus myosu- roides | Melilotus spp. | Rapanus rapha- nistrum | Sinapis arvensis | Vadzab fajok | Cuscuta spp. | Rumex spp., kivéve Rumex acetosella és Rumex maritimus | Más színű és keserű csillagfürt | Nedves- ségtarta- lom legfeljebb (%) |
 
 | 3. | Fűfélék |
 
@@ -866,7 +866,7 @@ II. Vetőmagvizsgálati követelmények és minősítési határértékek
 
 | 17. | Kanáriköles (Phalaris aquatica) | 75 |  | 96 | 0,3 | 20 | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
 
-| 18. | Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Krajina) | 75 |  | 85 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
+| 18. | Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Hack) | 75 |  | 85 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
 
 | 19. | Kis komócsin (Phleum nodosum) | 80 |  | 96 | 0,3 | 20 | 1 | 1 |  |  |  | 0 | 0 | 2 |  | 14 | – |
 
@@ -1014,4 +1014,4 @@ f) A Lupinuis spp.-hez tartozó fajtákban a keserű magok százalékban kifejez
 
 1.2.2.1. Táblázat:
 
-[^214]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a, a 44/2018. (XII. 20.) AM rendelet 9. §-a és 10. § e)–i) pontja, a 35/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^196]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a, a 44/2018. (XII. 20.) AM rendelet 9. §-a és 10. § e)–i) pontja, a 35/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, a 2/2022. (I. 27.) AM rendelet 3. § 17–19. pontja szerint módosított szöveg.

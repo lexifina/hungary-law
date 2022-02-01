@@ -22,19 +22,19 @@
 
 | Rozs (Secale cereale L.) | Szuperelit, Elit, I. szaporítási fok |
 
-| Cirok (Sorghum bicolor (L.) Moench) | Szuperelit, Elit, I. szaporítási fok |
+| Cirok (Sorghum bicolor (L.) Moench subsp. bicolor) | Szuperelit, Elit, I. szaporítási fok |
 
-| Szudánifű (Sorghum sudanense (Piper) Stapf) | Szuperelit, Elit, I. szaporítási fok |
+| Szudánifű (Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse) | Szuperelit, Elit, I. szaporítási fok |
 
-| Hibrid szudánifű (Sorghum bicolor (L) Moench xSorghum sudanense (Piper) Stapf) | Szuperelit, Elit, I. szaporítási fok |
+| Hibrid szudánifű (Sorghum bicolor (L.) Moench subsp. bicolor xSorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse) | Szuperelit, Elit, I. szaporítási fok |
 
 | Tritikálé (x Triticosecale Wittm. ex A. Camus) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
 
-| Búza (Triticum aestivum L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+| Búza (Triticum aestivum L. subsp. aestivum) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
 
-| Durum búza (Triticum durum Desf.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+| Durum búza (Triticum turgidum L. subsp. durum (Desf.) van Slageren) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
 
-| Tönkölybúza (Triticum spelta L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
+| Tönkölybúza (Triticum aestivum L. subsp. spelta (L.) Thell.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
 
 | Kukorica (Zea mays L.) | Szuperelit, Elit, I. szaporítási fok |
 
@@ -46,7 +46,7 @@
 
 | 1. | Faj és szaporítási fok | Minimális fajtatisztaság (%) |
 
-| 2. | 1. Csupasz zab (Avena nuda), zab (Avena sativa), homoki zab (Avena strigosa), árpa (Hordeum vulgare), rizs (Oryza sativa), búza (Triticum aestivum), durum búza (Triticum durum) és tönköly búza (Triticum spelta) (kivéve hibridek) |  |
+| 2. | 1. Csupasz zab (Avena nuda), zab (Avena sativa), homoki zab (Avena strigosa), árpa (Hordeum vulgare), rizs (Oryza sativa), búza (Triticum aestivum L. subsp. aestivum), durum búza (Triticum turgidum L. subsp. durum (Desf.) van Slageren) és tönköly búza (Triticum aestivum L. subsp. spelta (L.) Thell.) (kivéve hibridek) |  |
 
 | 3. | 1.1. elit és szuperelit vetőmag | 99,9 |
 
@@ -62,7 +62,7 @@
 
 | 9. | 2.3. II. szaporítási fokú vetőmag | 98,0 |
 
-| 10. | 3. Csupasz zab (Avena nuda), zab (Avena sativa), homoki zab (Avena strigosa), árpa (Hordeum vulgare), rizs (Oryza sativa), búza (Triticum aestivum), durum búza (Triticum durum) tönköly búza (Triticum spelta) és önbeporzó triticale (x Triticosecale) hibrid fajták I. szaporítási fokú (hibrid F1) vetőmag | 90,0 |
+| 10. | 3. Csupasz zab (Avena nuda), zab (Avena sativa), homoki zab (Avena strigosa), árpa (Hordeum vulgare), rizs (Oryza sativa), búza (Triticum aestivum L. subsp. aestivum), durum búza (Triticum turgidum L. subsp. durum (Desf.) van Slageren) tönköly búza (Triticum aestivum L. subsp. spelta (L.) Thell.) és önbeporzó triticale (x Triticosecale) hibrid fajták I. szaporítási fokú (hibrid F1) vetőmag | 90,0 |
 
 | 11. | 4. Citoplazmás hímsterilitással előállított árpa (Hordeum vulgare) (a fajtatisztasági hiba a helyreállító vonal kivételével nem lehet 2% nál nagyobb) | 85 |
 
@@ -78,13 +78,13 @@
 
 |  | Tavaszi árpa |  |
 
-| Búza | Őszi búza | (Triticum aestivum L.) |
+| Búza | Őszi búza | (Triticum aestivum L. subsp. aestivum) |
 
 |  | Tavaszi búza |  |
 
 | Csupasz zab |  | (Avena nuda L.) |
 
-| Durum búza | Őszi durum búza | (Triticum durum Desf.) |
+| Durum búza | Őszi durum búza | (Triticum turgidum L. subsp. durum (Desf.) van Slageren) |
 
 |  | Tavaszi durum búza |  |
 
@@ -92,7 +92,7 @@
 
 | Őszi rozs |  | (Secale cereale L.) |
 
-| Tönköly búza |  | (Triticum spelta L.) |
+| Tönköly búza |  | (Triticum aestivum L. subsp. spelta (L.) Thell.) |
 
 | Tritikálé | Őszi tritikálé | (x Triticosecale Wittm. ex A. Camus ) |
 
@@ -412,7 +412,7 @@
 
 | Idegen fajta a mintaterek átlagában, legfeljebb | növény db | 1 | 2 | 4 |
 
-| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb galaj fajok (Galium spp.) vadzab (Avena spp.) útszéli zsázsa (Lepidium draba) juhsóska (Rumex acetosella) vadmuhar fajok (Setaria spp.) szédítő vadóc (Lolium temulentum) kakaslábfű-fajok (Echinochloa spp.) csattanó maszlag (Datura stramonium) a mintaterek átlagában, összesen legfeljebb cirok (Sorghum bicolor), szudánifű (Sorghum sudanense), köles (Panicum miliaceum), muhar (Setaria italica) | 0 0 0 0 5 0 5 0 0 | 0,3 0,3 10 2 10 0,3 10 0,3 2 | 3 2 20 3 20 0,5 20 0,5 5 |
+| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb galaj fajok (Galium spp.) vadzab (Avena spp.) útszéli zsázsa (Lepidium draba) juhsóska (Rumex acetosella) vadmuhar fajok (Setaria spp.) szédítő vadóc (Lolium temulentum) kakaslábfű-fajok (Echinochloa spp.) csattanó maszlag (Datura stramonium) a mintaterek átlagában, összesen legfeljebb cirok (Sorghum bicolor subsp. bicolor), szudánifű (Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse), köles (Panicum miliaceum), muhar (Setaria italica) | 0 0 0 0 5 0 5 0 0 | 0,3 0,3 10 2 10 0,3 10 0,3 2 | 3 2 20 3 20 0,5 20 0,5 5 |
 
 ## 5. Kukorica (Zea mays L.)
 
@@ -690,11 +690,11 @@
 
 ## 6.1.6.1. Szuperelit (SE) szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit (E) fokú szaporítás határértékeivel.
 
-## 6.1.6.2. Azokon a területeken, ahol az S. halepense vagy az S. sudanense jelenléte különös keresztbeporzási problémát jelent, a következők alkalmazandók:
+## 6.1.6.2. Azokon a területeken, ahol az S. halepense vagy az S. bicolor subsp. drummondii jelenléte különös keresztbeporzási problémát jelent, a következők alkalmazandók:
 
-## 6.1.6.2.1. a Sorghum bicolor vagy hibridjei elit vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 800 m távolságra kell elhelyezni;
+## 6.1.6.2.1. a Sorghum bicolor subsp. bicolor vagy hibridjei elit vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 800 m távolságra kell elhelyezni;
 
-## 6.1.6.2.2. a Sorghum bicolor vagy hibridjei minősített vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 400 m távolságra kell elhelyezni.
+## 6.1.6.2.2. a Sorghum bicolor subsp. bicolor vagy hibridjei minősített vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 400 m távolságra kell elhelyezni.
 
 ## 6.1.7. A vetőmag-előállítás ellenőrzésének szempontjai:
 
@@ -732,9 +732,9 @@
 
 |  | 16. | 9.3. kukorica-levélfoltosság (Helminthosporium carbonum) | 2 | 2 |
 
-## 6.2. Takarmánycirok (a hibrid kivételével) (Sorghum bicolor L. Moench)
+## 6.2. Takarmánycirok (a hibrid kivételével) (Sorghum bicolor (L.) Moench subsp. bicolor)
 
-## Szudánifű (a hibrid kivételével) (Sorghum sudanense Piper Stapf)
+## Szudánifű (a hibrid kivételével) (Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse)
 
 ## 6.2.1. Az ellenőrzések száma: három.
 
@@ -756,11 +756,11 @@
 
 ## 6.2.6.1. Szuperelit (SE) szaporítás esetén a határértékeknek legalább az Elit (E) fokú szaporítás határértékeivel meg kell egyezniük.
 
-## 6.2.6.2. Azokon a területeken, ahol az S. halepense vagy az S. sudanense jelenléte különös keresztbeporzási problémát jelent, a következők alkalmazandók:
+## 6.2.6.2. Azokon a területeken, ahol az S. halepense vagy az S. bicolor subsp. drummondii jelenléte különös keresztbeporzási problémát jelent, a következők alkalmazandók:
 
-## 6.2.6.2.1. a Sorghum bicolor vagy hibridjei elit vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 800 m távolságra kell elhelyezni;
+## 6.2.6.2.1. a Sorghum bicolor subsp. bicolor vagy hibridjei elit vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 800 m távolságra kell elhelyezni;
 
-## 6.2.6.2.2. a Sorghum bicolor vagy hibridjei minősített vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 400 m távolságra kell elhelyezni.
+## 6.2.6.2.2. a Sorghum bicolor subsp. bicolor vagy hibridjei minősített vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 400 m távolságra kell elhelyezni.
 
 ## 6.2.7. A vetőmag-előállítás ellenőrzésének szempontjai:
 
@@ -796,11 +796,11 @@
 
 |  | 15. | 9.1. levélcsíkosság (Pseudomonas andropogoni) | 2 | 2 |
 
-## 6.3. Hibrid szemescirok (Sorghum bicolor L. Moench)
+## 6.3. Hibrid szemescirok (Sorghum bicolor (L.) Moench subsp. bicolor)
 
-## Hibrid silócirok (Sorghum bicolor L. Moench)
+## Hibrid silócirok (Sorghum bicolor (L.) Moench subsp. bicolor)
 
-## Hibrid szudánifű (Sorghum bicolor L. Moench x Sorghum sudanense Piper Stapf)
+## Hibrid szudánifű (Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse)
 
 ## 6.3.1. Az ellenőrzések száma: öt.
 
@@ -850,11 +850,11 @@
 
 ## 6.3.6.5. Amennyiben a szántóföldi ellenőrzés során fertilnek tűnő egyedek aránya a próbaterek átlagában meghaladja a 0,1%-ot, akkor legalább 2 db virágport hullató növény még nem virágzó sarjbugáját izolálni kell, magkötés észlelése esetén a szaporítást alkalmatlannak kell minősíteni.
 
-## 6.3.6.6. Azokon a területeken, ahol az S. halepense vagy az S. sudanense jelenléte különös keresztbeporzási problémát jelent, a következők alkalmazandók:
+## 6.3.6.6. Azokon a területeken, ahol az S. halepense vagy az S. bicolor subsp. drummondii jelenléte különös keresztbeporzási problémát jelent, a következők alkalmazandók:
 
-## 6.3.6.6.1. a Sorghum bicolor vagy hibridjei elit vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 800 m távolságra kell elhelyezni;
+## 6.3.6.6.1. a Sorghum bicolor subsp. bicolor vagy hibridjei elit vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 800 m távolságra kell elhelyezni;
 
-## 6.3.6.6.2. a Sorghum bicolor vagy hibridjei minősített vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 400 m távolságra kell elhelyezni.
+## 6.3.6.6.2. a Sorghum bicolor subsp. bicolor vagy hibridjei minősített vetőmagjának termesztésére szolgáló állományt bármely ilyen szennyező pollenforrástól legalább 400 m távolságra kell elhelyezni.
 
 ## 6.3.7. A vetőmag-előállítás ellenőrzésének szempontjai:
 
@@ -926,19 +926,19 @@
 
 | Rozs (Secale cereale) | 30 | 10 | 10 | 1000 | 120 | 500 |
 
-| Cirok (Sorghum bicolor) | 30 | 5 | 5 | 900 | 90 | 900 |
+| Cirok (Sorghum bicolor (L.) Moench subsp. bicolor) | 30 | 5 | 5 | 900 | 90 | 900 |
 
-| Szudánifű (Sorghum sudanense) | 10 | 5 | 5 | 250 | 25 | 250 |
+| Szudánifű (Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse) | 10 | 5 | 5 | 250 | 25 | 250 |
 
-| Hibrid szudánifű (Sorghum bicolor x Sorghum sudanense) | 30 | 5 | 5 | 300 | 90 | 300 |
+| Hibrid szudánifű (Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse) | 30 | 5 | 5 | 300 | 90 | 300 |
 
 | Tritikálé (x Triticosecale) | 30 | 10 | 10 | 1000 | 120 | 500 |
 
-| Búza (Triticum aestivum) | 30 | 10 | 10 | 1000 | 120 | 500 |
+| Búza (Triticum aestivum L. subsp. aestivum) | 30 | 10 | 10 | 1000 | 120 | 500 |
 
-| Durum búza (Triticum durum) | 30 | 10 | 10 | 1000 | 120 | 500 |
+| Durum búza (Triticum turgidum L. subsp. durum (Desf.) van Slageren) | 30 | 10 | 10 | 1000 | 120 | 500 |
 
-| Tönköly búza (Triticum spelta) | 30 | 10 | 10 | 1000 | 270 | 500 |
+| Tönköly búza (Triticum aestivum L. subsp. spelta (L.) Thell.) | 30 | 10 | 10 | 1000 | 270 | 500 |
 
 | Kukorica (Zea mays) | 40 | 10 | 10 | 1000 (bázis bel- tenyésztett vonal: 250 g) | 900 | 1000 (bázis bel- tenyésztett vonal: 250 g) |
 
@@ -968,19 +968,19 @@
 
 | Rozs (Secale cereale) | SE-E, I. | 98 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
 
-| Cirok (Sorghum bicolor) | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
+| Cirok (Sorghum bicolor (L.) Moench subsp. bicolor) | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
 
-| Szudánifű (Sorghum sudanense) | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
+| Szudánifű (Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse) | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
 
-| Hibrid szudánifű Sorghum bicolor x Sorghum sudanese | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
+| Hibrid szudánifű Sorghum bicolor (L.) Moench subsp. bicolor x (Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse) | SE-E, I. | 98 | 80 | 0 |  |  |  |  |  |  | 14,5 |
 
 | Tritikále (x Triticosecale) | SE-E I, II | 98 98 | 80 80 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
 
-| Búza (Triticum aestivum) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+| Búza (Triticum aestivum L. subsp. aestivum) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
 
-| Durum búza (Triticum durum) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+| Durum búza (Triticum turgidum L. subsp. durum (Desf.) van Slageren) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
 
-| Tönköly búza (Triticum spelta) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
+| Tönköly búza (Triticum aestivum L. subsp. spelta (L.) Thell.) | SE-E I, II | 99 98 | 85 85 | 4 10 |  | 1 7 | 3 7 | 0 0 | 1 3 |  | 14,5 |
 
 | Kukorica (Zea mays) | SE-E, I. | 98 | 90 | 0 |  |  |  |  |  |  | 14,0 |
 
@@ -1286,7 +1286,7 @@
 
 |  | □ és II. szaporítási fok | 4,0% |
 
-2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^213]
+2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^195]
 
 ## A répafélék vetőmagvainak forgalomba hozatali feltételei
 
@@ -1454,4 +1454,4 @@ b) a tömeg feltüntetésénél – ha bármilyen szemcsés növényvédőszer, 
 
 c) monogerm vetőmag esetében a „monogerm”, precíziós vetőmag esetében pedig a „precíziós” megjelölés.
 
-[^213]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^195]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
