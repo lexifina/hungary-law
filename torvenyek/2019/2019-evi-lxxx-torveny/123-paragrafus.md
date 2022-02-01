@@ -124,4 +124,4 @@
 
 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
 
-(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
+(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 13. § (3a) bekezdése és a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
