@@ -20,7 +20,7 @@
 
 ## a miniszterelnök kabinetfőnöke
 
-## Határidő: 2019. december 31., a Magyarországi nyaralóhajózás alapjainak és hátterének megteremtése jogcímcsoport javára biztosított 688 623 000 forint tekintetében 2021. december 31.
+## Határidő: 2019. december 31., a Magyarországi nyaralóhajózás alapjainak és hátterének megteremtése jogcímcsoport javára biztosított 688 623 000 forint tekintetében 2022. június 30.
 
 ## c) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a 2. melléklet és a 3. melléklet szerinti átcsoportosítást rendeli el.
 
@@ -46,7 +46,7 @@
 
 1. melléklet az 1016/2019. (I. 28.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1692/2021. (IX. 30.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1692/2021. (IX. 30.) Korm. határozat 8. pontja, az 1034/2022. (II. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
