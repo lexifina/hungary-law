@@ -1,0 +1,1 @@
+## 8. § A polgári robbantási tevékenységre, robbanóanyag-forgalmazásra vonatkozó engedély birtokosa (a továbbiakban: engedélyes) az engedély vagy a robbanóanyag elvesztését a bányafelügyeletnek haladéktalanul bejelenti.
