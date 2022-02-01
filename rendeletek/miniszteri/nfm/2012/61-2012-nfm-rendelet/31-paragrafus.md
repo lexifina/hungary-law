@@ -1,1 +1,0 @@
-## 30. § Porveszélyes az a bánya, ahol bármely munkahelyen az egyéb egészséget nem károsító inert, szemcsés szerkezetű szálló por totális értéke a 10 mg/m3-t, vagy a respirábilis értéke a 6 mg/m3-t meghaladja.

@@ -1,1 +1,0 @@
-## 216. § A mentési munkát a felelős műszaki vezetőnek – vagy annak a mentési munka irányításába való bekapcsolódásáig – a szolgálatban lévő legmagasabb beosztású felügyeleti személynek kell irányítania. A bányavállalkozó a mentési munka irányításával más személyt is megbízhat.
