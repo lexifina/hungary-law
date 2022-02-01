@@ -1,3 +1,3 @@
-9. melléklet a 745/2021. (XII. 21.) Korm. rendelethez[^31]
+9. melléklet a 745/2021. (XII. 21.) Korm. rendelethez[^26]
 
-[^31]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

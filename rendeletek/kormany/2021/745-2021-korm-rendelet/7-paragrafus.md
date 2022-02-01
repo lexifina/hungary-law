@@ -1,3 +1,1 @@
-## 6. §[^13]
-
-[^13]: A 6. § a 14. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+## 6. § A 174/2017. (VI. 30.) Korm. rendelet 1. melléklete a 3. melléklet szerint módosul.
