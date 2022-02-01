@@ -1,9 +1,7 @@
-## 12/A. §[^21] Az 1. melléklet 4.2. pontjában, illetve a 3. melléklet 1.2. pontjában meghatározott sajátos építmény esetében az építési tevékenység az építésügyi engedély birtokában is csak akkor kezdhető meg, ha a telephely vizsgálati és értékelési programot a feladat- és hatáskörrel rendelkező hatóság jóváhagyta.
+## 12/A. §
 
-## II. Fejezet
+## II. Fejezet[^3]
 
-## AZ ENGEDÉLYEZÉSI ELJÁRÁSOK
+## 12.
 
-## 12. Az elvi építési engedélyezési eljárás
-
-[^21]: A 12/A. §-t az 559/2013. (XII. 31.) Korm. rendelet 60. § (2) bekezdése iktatta be.
+[^3]: A II. fejezetet (13–32. §) a 26/2022. (I. 28.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.

@@ -1,5 +1,5 @@
-## I. Fejezet
+## I. Fejezet[^2]
 
-## ÁLTALÁNOS RENDELKEZÉSEK
+## 1.
 
-## 1. A rendelet hatálya
+[^2]: Az I. fejezetet (1–12/A. §) a 26/2022. (I. 28.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.

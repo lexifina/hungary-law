@@ -1,3 +1,3 @@
-4. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^61]
+4. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^26]
 
-[^61]: A 4. melléklet az 559/2013. (XII. 31.) Korm. rendelet 68. § (3) bekezdésével megállapított szöveg.
+[^26]: A 4. mellékletet a 26/2022. (I. 28.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.

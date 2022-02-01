@@ -1,9 +1,3 @@
-## 14. § Az elvi építési engedélynek a 10. §-ban előírtakon túl tartalmaznia kell a sajátos építmény rövid leírását.
+## 14. §
 
-## 13. Az építési engedélyezési eljárás
-
-15. § (1) Az építési engedélyt – a (2) bekezdésben foglaltak kivételével – az elvégezni kívánt építési tevékenység egészére kell kérni.
-
-(2) Több megvalósulási szakaszra bontott építkezés esetében az egyes szakaszokban megépítendő sajátos építményekre szakaszonként külön-külön is lehet építési engedélyt kérni, illetve bejelentést tenni.
-
-(3) A sajátos építményekkel kapcsolatos műszaki biztonsági szabályzatban előírt követelményektől eltérő műszaki megoldásra irányuló kérelmet az építési engedély iránti kérelemmel együtt kell előterjeszteni.
+## 13.

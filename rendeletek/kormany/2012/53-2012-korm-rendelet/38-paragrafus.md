@@ -1,9 +1,5 @@
-## 20. Bírságok és intézkedések alanyai és kiszabásának esetei
+## 37. §
 
-38. § (1)[^48]
+## 20.[^9]
 
-(2) Fennmaradási engedély esetében nem szabható ki a bírság, ha az épített környezet alakításáról és védelméről szóló törvényben az építésügyi bírság kiszabására meghatározott határidő eltelt, vagy a szabálytalan állapot – e határidőn belül – legalább már egy éve a bányafelügyelet tudomására jutott.
-
-(3) A bírság megfizetésére az építtetőt kell kötelezni.
-
-[^48]: A 38. § (1) bekezdését a 311/2014. (XII. 11.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
+[^9]: A 20. alcímet (38. §) a 26/2022. (I. 28.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
