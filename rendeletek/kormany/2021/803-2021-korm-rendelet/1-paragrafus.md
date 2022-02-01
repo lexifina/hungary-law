@@ -1,0 +1,5 @@
+1. § (1) A pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad.) 8. § (3) bekezdésében meghatározott szolgáltatói adat-hozzáférés esetén és az annak érdekében végzett regisztráció során a nyilvántartó szerv a szolgáltatói minőséget a pénzmosás és a terrorizmus finanszírozása megelőzésről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 31. §-a alapján a pénzügyi információs egység rendelkezésére álló adatok alapján állapítja meg.
+
+(2) A nyilvántartó szerv az (1) bekezdésben meghatározott intézkedés teljesítése érdekében megküldi a pénzügyi információs egység részére az adat-hozzáférést igénylő szolgáltató nevét, rövidített nevét és adószámát.
+
+(3) A pénzügyi információs egység a (2) bekezdésben meghatározott megkeresés alapján tájékoztatja a nyilvántartó szervet arról, hogy a Pmt. 31. §-a alapján rendelkezésre álló információk alapján a szolgáltató szerepel-e nyilvántartásában olyan módon, hogy a nyilvántartó szerv kizárólag a szolgáltatóra vonatkozó adatokat ismerheti meg.
