@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-46-00-00
 | 2021-01-07 | 2020. évi CLXVIII. törvény | 2008-46-00-00.47 |
 | 2021-06-05 | 2021. évi LX. törvény | 2008-46-00-00.48 |
 | 2022-01-01 | 2021. évi CXXXVI. törvény | 2008-46-00-00.49 |
+| 2022-02-01 | 2021. évi CLI. törvény | 2008-46-00-00.50 |

@@ -54,6 +54,8 @@ E törvény alkalmazásában:
 
 15. élelmiszer-előállítás: feldolgozatlan és feldolgozott termék – kivéve az alaptermék – előállítása érdekében történő alapanyag-tárolási, tisztítási, osztályozási, előkészítési, gyártástechnológiai, csomagolási, jelölési, tárolási és szállítási műveletek bármelyike;
 
+15a. élelmiszermentés: a várhatóan élelmiszer-hulladékká váló, de még emberi fogyasztásra szánt biztonságos élelmiszer a lehető legnagyobb mértékben történő hasznosítása és újraelosztása;
+
 16. élelmiszer-vállalkozás: a 178/2002/EK rendelet 3. cikkének 2. pontjában meghatározott fogalom;
 
 17. élelmiszer-vállalkozási létesítmény: a 852/2004/EK rendelet 2. cikkének c) pontja szerinti fogalom;

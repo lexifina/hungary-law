@@ -2,13 +2,13 @@
 
 14. § (1) A takarmány biztonságosságáért és minőségéért a takarmány előállítója, nem hazai előállítású takarmány esetében pedig az első magyarországi forgalomba hozó – az etethetőségi, illetve a minőségmegőrzési időtartam lejártáig – felelős.
 
-(2) Az élelmiszer biztonságosságáért és minőségéért az élelmiszer előállítója, nem hazai előállítású élelmiszer esetében pedig az első magyarországi forgalomba hozó – a fogyaszthatósági, illetve a minőségmegőrzési időtartam lejártáig – felelős.
+(2) Az élelmiszer biztonságosságáért és minőségéért az élelmiszer előállítója, nem hazai előállítású élelmiszer esetében pedig az első magyarországi forgalomba hozó – a fogyaszthatósági, illetve a minőségmegőrzési időtartam lejártáig, a 15. § (2a) bekezdése szerinti esetben az élelmiszer átadásáig – felelős.
 
 (2a) Az (1) és (2) bekezdés alá nem tartozó termék biztonságosságáért és minőségéért a termék előállítója, nem hazai előállítású termék esetében pedig az első magyarországi forgalomba hozó a felelős.
 
 (3) Az (1)–(2a) bekezdés nem alkalmazható, ha a hibát az előállító által javasolt tárolási és raktározási feltételek be nem tartásával más okozta.
 
-(4) Az élelmiszer-, illetve a takarmány-vállalkozás felelős a takarmány, illetve az élelmiszer biztonságosságáért és minőségéért, valamint jelöléséért, amennyiben a forgalomba hozatalt kizáró vagy jelölési hibát ő okozta, vagy az általa is felismerhető lett volna. A hibáért a magyarországi első forgalomba hozó akkor is felelős, ha azt nem ő okozta, amennyiben a forgalomba hozatalt kizáró vagy jelölési hiba a magyarországi első forgalomba hozatalt megelőzően keletkezett.
+(4) Az élelmiszerlánc-szereplő felelős a takarmány, illetve az élelmiszer biztonságosságáért és minőségéért, valamint jelöléséért, amennyiben a forgalomba hozatalt kizáró vagy jelölési hibát ő okozta, vagy az általa is felismerhető lett volna. A hibáért a magyarországi első forgalomba hozó akkor is felelős, ha azt nem ő okozta, amennyiben a forgalomba hozatalt kizáró vagy jelölési hiba a magyarországi első forgalomba hozatalt megelőzően keletkezett.
 
 (5) Az élelmiszer, illetve a takarmány e törvényben, az e törvény végrehajtására kiadott jogszabályban, vagy az Európai Unió közvetlenül alkalmazandó vonatkozó jogi aktusában előírt, az élelmiszerbiztonsági, élelmiszerminőségi, takarmánybiztonsági, illetve takarmányminőségi előírásoknak való megfelelését igazoló okiratok hiánya esetén vélelmezni kell, hogy a forgalmazó a forgalomba hozatalt kizáró hibát felismerhette.
 

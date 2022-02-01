@@ -8,7 +8,7 @@ b) élelmiszer-minőségi előírásoknak való meg nem felelés;
 
 c) fogyaszthatósági határidő lejárta utáni forgalomba hozatal;
 
-d) minőségmegőrzési határidő lejárta utáni forgalomba hozatal;
+d) – a 15. § (2a) bekezdésében meghatározott eset kivételével – minőségmegőrzési határidő lejárta utáni forgalomba hozatal esetén;
 
 e) a Magyar Élelmiszerkönyvi megnevezéseket jogellenesen használó élelmiszer forgalomba hozatala, vagy egyéb élelmiszer-jelölési előírásoknak való meg nem felelés;
 

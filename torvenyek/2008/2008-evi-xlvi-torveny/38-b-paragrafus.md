@@ -46,4 +46,6 @@ c) a jogi személy nevét és adóazonosító számát,
 
 d) a nyilvántartásba vett személy által bejelentett tevékenységek és tevékenységi helyek listáját.
 
+(8a) Az élelmiszerlánc-felügyeleti szerv a honlapján jogosult közzétenni a FELIR azonosítóhoz kapcsolódó, a 38. § (2) bekezdés c)–d) pontja szerinti elérhetőségi adatokat, ha azok közzététele a jogszabályban előírt információs rendszer működtetése, a gazdaság fejlesztésének és az érintett élelmiszerlánc-szereplők kapcsolatfelvételének előmozdítása, valamint az élelmiszerlánc-eseményekkel összefüggő tájékoztatáshoz kapcsolódó feladatok ellátása érdekében szükséges.
+
 (9) A FELIR azonosító visszavonása esetén az élelmiszerlánc-szereplő adatait az élelmiszerlánc-felügyeleti szerv élelmiszerlánc-biztonsági célból 10 évig megőrzi, ezt követően az adatokat a nyilvántartásból törli.

@@ -21,3 +21,5 @@ f) az állatok, közvetve az ember egészségét nem veszélyeztető, biztonság
 g) haszonállatok tenyésztése során egészséges utódállomány létrehozásának biztosítása;
 
 h) az élelmiszerláncban a lehetséges antimikrobiális rezisztencia-előfordulás csökkentésének elősegítése.
+
+i) az élelmiszer-pazarlás megelőzése, csökkentése.

@@ -1,6 +1,10 @@
 15. § (1) Az élelmiszer fogyaszthatósági vagy minőségmegőrzési időtartamának megállapítása az előállító felelőssége.
 
-(2) Lejárt fogyaszthatósági vagy minőségmegőrzési idejű élelmiszer nem hozható forgalomba élelmiszerként.
+(2) Lejárt fogyaszthatósági vagy minőségmegőrzési idejű élelmiszer – a (2a) bekezdésben meghatározott kivétellel – nem hozható forgalomba élelmiszerként.
+
+(2a) Lejárt minőségmegőrzési idejű élelmiszer a 852/2004/EK európai parlamenti és tanácsi rendelet II. melléklet Va. fejezetében foglalt követelmények betartása mellett ingyenesen forgalomba hozható.
+
+(2b) A (2a) bekezdésben meghatározott ingyenes forgalomba hozatalhoz FELIR azonosítóval kell rendelkezni.
 
 (3) A takarmányt külső behatásoktól védetten, olyan módon (csomagolóeszközben, tartályban vagy ömlesztve) lehet forgalomba hozni, hogy az biztosítsa a takarmány állat-egészségügyi szempontból biztonságos felhasználhatóságát és a takarmány minőségének megóvását.
 

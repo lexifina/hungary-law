@@ -135,3 +135,7 @@ k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, i
 (13) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara a tagjaira vonatkozó adatok tekintetében az általa vezetett gazdaságszerkezeti nyilvántartáshoz hozzáférést biztosít az élelmiszerlánc-felügyeleti szerv részére hatósági feladatának ellátása céljából.
 
 (14) A Földmegfigyelési Operatív Központ folyamatos és térítésmentes, elektronikus hozzáférést biztosít a Földmegfigyelési Információs Rendszer adatbázisához az élelmiszerlánc-felügyeleti szerv számára a FELIR működtetésével összefüggő feladatainak ellátása érdekében.
+
+(15) Az élelmiszerlánc-felügyeleti szerv az (1) bekezdésben meghatározott feladatának ellátása céljából a hegyközségekről szóló törvény szerinti, a Hegyközségek Nemzeti Tanácsa (a továbbiakban: HNT) által működtetett informatikai rendszerből elektronikus úton adatigénylésre jogosult, valamint a HNT részére adatot szolgáltat a FELIR-ből. Az átvett és átadott adatok körét és az adatátvétel részletszabályait együttműködési megállapodásban kell rögzíteni.
+
+(16) Az élelmiszerlánc-felügyeleti szerv az (1) bekezdésben meghatározott feladatának ellátása céljából a szőlészetről és borászatról szóló törvény szerinti ePincekönyv rendszerből elektronikus úton adatigénylésre jogosult, valamint adatot szolgáltat a FELIR-ből az ePincekönyv rendszer számára. Az átvett és átadott adatok körét és az adatátvétel részletszabályait együttműködési megállapodásban kell rögzíteni.
