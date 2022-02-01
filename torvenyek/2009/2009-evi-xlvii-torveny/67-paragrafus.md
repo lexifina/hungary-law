@@ -10,12 +10,14 @@ a) az arra jogosultnak közvetlen hozzáférést biztosít a nyilvántartott ada
 
 b) az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 
-c) az arra jogosult kérelmére adatot igazol, vagy
+c) az arra jogosult kérelmére adatot igazol,
 
-d) automatikus adattovábbítás útján adatot továbbít
+d) az arra jogosultnak elektronikus úton megismerhetővé teszi a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyek nyilvántartott adatait, vagy
 
-da) az útlevélhatóság részére a külföldre utazási korlátozás törlése céljából,
+e) automatikus adattovábbítás útján adatot továbbít
 
-db) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére a nyilvántartásba történő felvétel, az abban történő módosítás, valamint az onnan való törlés céljából.
+ea) az útlevélhatóság részére a külföldre utazási korlátozás törlése céljából,
+
+eb) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére a nyilvántartásba történő felvétel, az abban történő módosítás, valamint az onnan való törlés céljából.
 
 (2) A bűnügyi nyilvántartási rendszerben kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.

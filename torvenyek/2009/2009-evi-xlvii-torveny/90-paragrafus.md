@@ -1,4 +1,4 @@
-90. § (1) Az adattovábbítási nyilvántartás – a (2) bekezdésben foglaltak kivételével – tartalmazza:
+90. § (1) Az adattovábbítási nyilvántartás – az (1a)–(2) bekezdésben foglaltak kivételével – tartalmazza:
 
 a) az érintett személyazonosító adatait,
 
@@ -13,6 +13,16 @@ e) azt a törvényi rendelkezést vagy az Európai Unió általános hatályú, 
 f) az adatigénylő megnevezését, az adathozzáférésre a 70. § (2) bekezdése szerint felhatalmazott személynek a közvetlen hozzáférésre való jogosultságot igazoló azonosító kódját, valamint
 
 g) a továbbított adatok megnevezését.
+
+(1a) A 67. § (1) bekezdés d) pontja szerinti adattovábbításról az adattovábbítási nyilvántartás az alábbi adatokat tartalmazza:
+
+a) az érintett személyazonosító adatai,
+
+b) az adattovábbítás időpontja,
+
+c) az érintett adatainak megismerésére jogosult személy családi és utóneve, anyja családi és utóneve, születési helye és ideje,
+
+d) a továbbított adatok megnevezése.
 
 (2) A Megállapodás alapján teljesített adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára a Megállapodás 15. cikkét kell alkalmazni.
 
