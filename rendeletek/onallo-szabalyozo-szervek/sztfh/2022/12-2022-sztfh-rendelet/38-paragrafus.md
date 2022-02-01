@@ -1,0 +1,1 @@
+## 37. § A tervezett építési tevékenység műszaki tervdokumentációját a tervezett sajátos építmény helyének, környezetének, rendeltetésének, a tervezett építési tevékenység jellegének, a tervfajtának, valamint az építésügyi hatósági eljárás jellegének megfelelő tartalommal és részletezettséggel, magyar nyelven kell összeállítani.

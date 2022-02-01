@@ -1,0 +1,17 @@
+## 5. Az építési jogosultság igazolása
+
+6. § (1) Az elvi építési és a használatbavételi engedélyezési eljárás kivételével az építésügyi hatósági engedély megadásához, valamint a bányafelügyelet engedélye nélkül, bejelentés alapján végezhető építési tevékenység végzéséhez az építési tevékenységgel érintett ingatlan tekintetében az építési jogosultságot igazolni kell.
+
+(2) Az építési jogosultság különösen a következő okiratokkal igazolható:
+
+a) az építtető tulajdonában lévő ingatlanon történő építési tevékenység végzése esetén az érintett földrészlet tekintetében az építtető tulajdonjogának fennállására vonatkozó nyilatkozatával, vagy tulajdonilap-másolattal,
+
+b) jogerős bírósági vagy végleges hatósági határozattal,
+
+c) nem az építtető tulajdonában lévő ingatlanon történő építési tevékenység végzése esetén az ingatlan tulajdonosának, közös tulajdon esetén valamennyi tulajdonostárs hozzájáruló nyilatkozatával vagy az ezt pótló bírósági határozattal,
+
+d) társasház esetében közgyűlési határozattal vagy
+
+e) szövetkezet esetében a szövetkezet hozzájáruló nyilatkozatával.
+
+(3) Nem kell az építési jogosultságot igazolni, ha az e rendelet hatálya alá tartozó sajátos építményt a Bt. 38. § (10) bekezdése vagy a 38/A. § (5a) bekezdése szerinti közterületen helyezik el.
