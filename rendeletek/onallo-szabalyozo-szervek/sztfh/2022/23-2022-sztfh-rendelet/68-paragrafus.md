@@ -1,0 +1,1 @@
+68. § A karsztvíz nyugalmi vízszintje alatt művelő bányában fejtést kezdeni csak akkor szabad, ha a bánya vízmentesítő telepe elkészült. A bánya vízmentesítő telepénél mélyebb szinten vízveszélyes fejtést kezdeni csak a bányamező vízmentesítő telepének elkészülte után szabad.

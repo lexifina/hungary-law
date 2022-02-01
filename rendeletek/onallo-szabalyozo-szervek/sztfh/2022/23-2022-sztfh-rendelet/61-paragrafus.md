@@ -1,0 +1,1 @@
+61. § Bányatűz előjelének tekinthető melegedés megszüntetésére, vagy a tűzfelszámolásra szolgáló iszapolás megkezdése előtt – beleértve az iszapolás előtti vezetéktisztítást is –, a légosztályt ki kell üríteni, és ott csak az iszapolást végző és irányító munkavállalók tartózkodhatnak. Nem szabad az iszapoló vezetéket sűrített levegővel tisztítani.

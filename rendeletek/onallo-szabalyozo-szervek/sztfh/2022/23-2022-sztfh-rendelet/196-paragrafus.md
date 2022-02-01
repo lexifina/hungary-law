@@ -1,0 +1,1 @@
+196. § A vezetőköteleket úgy kell beépíteni, hogy a bödön vagy ellensúly és a vezetőszánkó bármely pontja a falazattól és egymástól legalább 200 mm és egyéb biztosítószerkezettől vagy az aknába beépített egyéb szerkezeti elemtől – a padozati nyílások kivételével – legalább 300 mm távolságra legyen.

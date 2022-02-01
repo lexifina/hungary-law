@@ -1,0 +1,1 @@
+31. § Szilikózis-veszélyes az a bánya, ahol bármely munkahelyen az alkalmazott porelhárítást szolgáló berendezések, eszközök, és az egyéni védőeszközök együttes használata mellett a munkavállaló által belélegzett levegőben a szemcsés szerkezetű kvarc, krisztobalit, tridimit vagy ezek együttes respirábilis szálló por koncentráció értéke meghaladja a 0,1 mg/m3-t.

@@ -1,0 +1,1 @@
+30. § Porveszélyes az a bánya, ahol bármely munkahelyen az egyéb egészséget nem károsító inert, szemcsés szerkezetű szálló por totális koncentráció értéke a 10 mg/m3-t, vagy a respirábilis koncentráció értéke a 6 mg/m3-t meghaladja.

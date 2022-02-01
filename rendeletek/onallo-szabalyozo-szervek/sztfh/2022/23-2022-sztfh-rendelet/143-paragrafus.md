@@ -1,0 +1,1 @@
+143. § Azoknál az adagoló-, töltő- és tisztítónyílásoknál, ahol a benyúlás veszélyt jelenthet, a benyúlást meg kell akadályozni. Robbanásveszélyes keverék képződésére alkalmas anyagok esetében a védelmet a helyi körülményektől és az anyagok tulajdonságaitól függően kell meghatározni.

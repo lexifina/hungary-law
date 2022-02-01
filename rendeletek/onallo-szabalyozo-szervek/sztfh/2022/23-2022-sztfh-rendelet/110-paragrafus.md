@@ -1,0 +1,1 @@
+110. § Feszkével vagy támmal való rögzítés esetében a láncosvonszoló hajtó- és feszítőművén rögzítőhelyet kell kiképezni. A 15°-nál nagyobb dőlésű bányatérségben a berendezés lecsúszásának megakadályozásáról gondoskodni kell.

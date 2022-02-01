@@ -1,0 +1,1 @@
+118. § Az anyagok szállítására szolgáló göngyölegeket, hordókat, ládákat és egyéb csomagolásmódokat úgy kell megválasztani, hogy azok a szállítás és tárolás közben a várható igénybevételeknek megfeleljenek, és a szállítás, valamint a tárolás biztonságát ne veszélyeztessék.

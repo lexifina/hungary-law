@@ -1,0 +1,1 @@
+217. § A mentési munka megkezdése előtt meg kell határozni azt a megfelelő levegő-összetételű helyet, amelytől kezdve csak bányamentő-készülékben szabad továbbhaladni vagy tartózkodni, és ahol a mentőraj az eszközeit elhelyezheti.

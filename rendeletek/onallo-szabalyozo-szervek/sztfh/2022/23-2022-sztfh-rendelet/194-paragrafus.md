@@ -1,0 +1,3 @@
+## 79. Kiegészítő előírások az aknamélyítés berendezéseire és üzemére
+
+194. § Az aknamélyítő szállítóberendezésekre az e rendelet 147. § (2)–(6) bekezdése, 148–150. §-a, 151. § (1) bekezdés első mondata és (2) bekezdése, 152. §-a, 153. § (3)–(6) bekezdése, 154–155. §-a, 160. § (2) bekezdés e) pontja, 162. § (1) bekezdése, 163. § (1) bekezdés második mondata és (2)–(3) bekezdése, 168. § (3)–(6) bekezdése, 169. § (2) bekezdése, 170–171. §-a, 173. § (1) és (3) bekezdése, 179. § (4) bekezdés a) és e) pontja, 185. § (1) és (3), valamint (5) bekezdése, 186. § (1)–(5) bekezdése, 187. § (1) bekezdése, 188. §-a és 191. §-a rendelkezéseit nem kell alkalmazni.
