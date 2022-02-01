@@ -1,5 +1,1 @@
-## 12. §
-
-## 8.[^8]
-
-[^8]: A 8. alcím (13. §) a 21. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+## 8. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet módosítása

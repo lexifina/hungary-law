@@ -1,5 +1,1 @@
-## 5. §
-
-## 4.[^4]
-
-[^4]: A 4. alcím (6. §) a 21. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+## 4. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet módosítása

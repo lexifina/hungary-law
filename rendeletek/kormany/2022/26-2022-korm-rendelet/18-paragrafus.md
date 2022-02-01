@@ -1,5 +1,1 @@
-## 17. §
-
-## 11.[^11]
-
-[^11]: A 11. alcím (18. §) a 21. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+## 11. A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet módosítása

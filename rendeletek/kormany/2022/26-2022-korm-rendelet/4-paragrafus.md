@@ -1,5 +1,1 @@
-## 3. §
-
-## 2.[^2]
-
-[^2]: A 2. alcím (4. §) a 21. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+## 2. Az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet módosítása

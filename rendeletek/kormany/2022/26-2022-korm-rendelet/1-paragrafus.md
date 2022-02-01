@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1–3. §) a 21. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+## 1. A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet módosítása
