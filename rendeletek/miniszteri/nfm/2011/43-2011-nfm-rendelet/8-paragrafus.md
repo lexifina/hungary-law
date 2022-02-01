@@ -1,9 +1,0 @@
-8. § (1) A műszaki felügyeleti személy illetékességi területén felelős a biztonsági előírások megtartásáért. A biztonsági követelmények teljesítéséről rendszeres ellenőrzéssel köteles meggyőződni. Az e rendeletben előírt rendszeres ellenőrzések gyakoriságát növelni kell, ha a biztonsági követelmények csak gyakoribb vagy folyamatos ellenőrzéssel biztosíthatók.
-
-(2) A műszaki felügyeleti személy hatáskörében intézkedni köteles az ellenőrzés során tapasztalt vagy a tudomására jutott mulasztás, a biztonsági követelményeknek nem megfelelő állapot vagy más okból keletkezett veszély megszüntetésére és a biztonságos munkavégzés feltételeinek teljesítésére. Hatáskörét vagy illetékességét meghaladó intézkedés szükségessége esetén – a (3) bekezdésben meghatározott esetek kivételével – azt a 7. § (2) bekezdésében meghatározott bányászati felügyeleti személlyel késedelem nélkül egyeztetni köteles.
-
-(3) Közvetlen veszély vagy fenyegető súlyos károsodás veszélye esetén a műszaki felügyeleti személy hatáskörére és illetékességére tekintet nélkül köteles intézkedni. A tett intézkedésről a 7. § (2) bekezdésében meghatározott bányászati felügyeleti személyt és az érintett műszaki, gépészeti és villamos felügyeleti személyeket késedelem nélkül tájékoztatni köteles.
-
-(4) A munkahelyek ellenőrzéséről munkahelyi ellenőrzési naplót kell vezetni, amelyet hozzáférhető helyen kell tárolni. A munkahelyi ellenőrzési naplóba be kell vezetni az ellenőrzés tényét, idejét és a biztonságellenes állapot megszüntetésére tett intézkedést. Az azonnal végre nem hajtható utasítás végrehajtásának megtörténtéről visszaellenőrzéssel meg kell győződni, és ennek tényét a munkahelyi ellenőrzési naplóban rögzíteni kell.
-
-(5) A betelt vagy megszüntetési záradékkal ellátott ellenőrzési naplót a bányászati tevékenységet végző köteles két évig megőrizni. Az ellenőrzési napló elvesztéséről vagy megsemmisüléséről jegyzőkönyvet kell készíteni.
