@@ -1,3 +1,11 @@
-10. melléklet a 3/2022. (I. 14.) EMMI rendelethez[^23]
+## Az R1. 17. számú mellékletében foglalt táblázat a „94618” megjelölésű sort követően a következő sorokkal egészül ki:
 
-[^23]: A 10. melléklet a 12. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+| [Kód | Név | Idő (perc)] |
+
+| 94620 | Hippoterápia | 30 |
+
+| 94621 | Gyógypedagógiai lovaglás és lovastorna | 30 |
+
+| 94622 | Pszichológiai lovasterápia | 30 |
+
+10. melléklet a 3/2022. (I. 14.) EMMI rendelethez
