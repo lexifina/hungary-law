@@ -1,0 +1,3 @@
+9. § (1) A bányatérkép megőrzéséről, biztonságos tárolásáról és nyilvántartásáról, a (2) bekezdésben és a 8. §-ban előírtak betartásáról a bányavállalkozó köteles gondoskodni. A bányavállalkozó a bányatérkép digitális állományainak őrzésével megbízhat vele szerződésben lévő hites bányamérőt is. A bányatérkép legutolsó változatának kinyomtatott példányát a bányaüzemben is meg kell őrizni.
+
+(2) A 8. §-ban szereplő dokumentumokat, valamint a külszíni és a földalatti alaphálózati mérések és számítások jegyzőkönyveit, állományait nem selejtezhető iratként, digitális technológia esetében adathordozón, meg nem változtatható módon is meg kell őrizni a bánya megszüntetését vagy a mező felhagyását követő 5 évig.
