@@ -2,6 +2,8 @@
 
 I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátási és elszámolási kompetenciája
 
+2X00383S_0
+
 | OENO kód | Cs | Egészségügyi eljárás | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 |
 
 | 11011 |  | Elsõsegély | O | O | O | O | O | O | O | O | O | O | O | O | O |
@@ -151,6 +153,8 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 | 1208G |  | Impulzus diagnosztika a n. ischiadicus ellátási területén |  |  |  |  | O |  |  |  | X |  |  |  |  |
 
 | 1208H |  | Elektromyographia a tremor differenciáldiagnosztikájához, minimum 2 izomból |  |  |  |  | O |  |  |  | X |  |  |  |  |
+
+2X00383S_1
 
 | 14 | 16 | 18 | 19 | 22 | 24 | 26 | 28 | 29 | 31 | 32 | 33 | 34 | 38 | 39 | 40 | 46 | 48 | 50 | 51 | 54 | 55 | 56 | 59 | 601 | 604 | 65 | A2 | 7308 | 7600 | 81 | Oenokód2 |
 
@@ -302,4 +306,4 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  | O |  |  | O |  |  |  |  |  |  |  |  | 1208H |
 
-[^15]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 6. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (2)–(4) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 2. § (1) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 4. § (1) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 6. § (2) bekezdése, a 44/2018. (XII. 19.) EMMI rendelet 5. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 4. §-a, a 15/2019. (VII. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 2/2020. (I. 30.) EMMI rendelet 3. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 5. § (1)–(3) bekezdése, a 33/2020. (IX. 16.) EMMI rendelet 8. § a) pontja, a 37/2020. (X. 30.) EMMI rendelet 4. § (1) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 12. § (1) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 3. § (1) bekezdése, a 48/2021. (XI. 2.) EMMI rendelet 2. § (1) bekezdése, az 51/2021. (XII. 10.) EMMI rendelet 3. § (1) bekezdése, az 58/2021. (XII. 27.) EMMI rendelet 2. § (1) bekezdése, a 3/2022. (I. 14.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 6. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (2)–(4) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 2. § (1) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 4. § (1) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 6. § (2) bekezdése, a 44/2018. (XII. 19.) EMMI rendelet 5. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 4. §-a, a 15/2019. (VII. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 2/2020. (I. 30.) EMMI rendelet 3. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 5. § (1)–(3) bekezdése, a 33/2020. (IX. 16.) EMMI rendelet 8. § a) pontja, a 37/2020. (X. 30.) EMMI rendelet 4. § (1) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 12. § (1) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 3. § (1) bekezdése, a 48/2021. (XI. 2.) EMMI rendelet 2. § (1) bekezdése, az 51/2021. (XII. 10.) EMMI rendelet 3. § (1) bekezdése, az 58/2021. (XII. 27.) EMMI rendelet 2. § (1) bekezdése, a 3/2022. (I. 14.) EMMI rendelet 5. § (1) és (2) bekezdése szerint módosított szöveg. [Nem vezethetőek át a 32/2022. (IX. 22.) BM rendelet 4. § (1) bekezdésében foglalt azon módosítások, amelyek a 2. melléklet I. pontjában foglalt táblázat „3522B” megjelölésű sorát, a 2. melléklet I. pontjában foglalt táblázat „3522E” megjelölésű sorát és a 2. melléklet I. pontjában foglalt táblázat „3525A” megjelölésű sorát újraszabályozzák.]

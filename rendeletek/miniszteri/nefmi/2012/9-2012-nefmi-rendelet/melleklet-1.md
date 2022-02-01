@@ -2,7 +2,7 @@
 
 1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^14]
 
-## Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
+Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
 1. Általános elszámolhatóság alapesetei
 
@@ -14,7 +14,7 @@
 
 | 3. |  | az egészségügyi eljárás megjelenésenként jelenthető |
 
-Ha az elszámolhatósági feltételek a 3. mellékletben nem kerülnek feltüntetésre, akkor azok megegyeznek az általános elszámolhatóság alapeseteivel.
+## Ha az elszámolhatósági feltételek a 3. mellékletben nem kerülnek feltüntetésre, akkor azok megegyeznek az általános elszámolhatóság alapeseteivel.
 
 2. Az elszámolhatósági feltételek általános formái
 
@@ -626,7 +626,7 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 | Biopsia | Biopsia endometrii |
 
-16641* Meddőségi vizsgálat, férfi
+## 16641* Meddőségi vizsgálat, férfi
 
 | Fizikális vizsgálatok | Andrológiai fizikális alapvizsgálatok |
 
@@ -724,7 +724,7 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 | Biopszia | Biopsia testis |
 
-16642* Meddőségi vizsgálat, ismételt IVF előtt
+## 16642* Meddőségi vizsgálat, ismételt IVF előtt
 
 | Fizikális vizsgálatok | Női fizikális alapvizsgálat |
 
@@ -760,7 +760,7 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 | Cytológia | Cytológiai vizsgálat |
 
-16643* Meddőségi vizsgálat, bővített I.
+## 16643* Meddőségi vizsgálat, bővített I.
 
 | Fizikális vizsgálatok | Női fizikális alapvizsgálat |
 
@@ -866,7 +866,7 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 | Chromosoma analízis hosszú idejű sejttenyésztéssel |
 
-16644* Meddőségi vizsgálat, bővített II.
+## 16644* Meddőségi vizsgálat, bővített II.
 
 | Fizikális vizsgálatok | Női fizikális alapvizsgálat |
 
