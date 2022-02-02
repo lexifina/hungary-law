@@ -1,3 +1,5 @@
-## 18. § Hatályát veszti a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet 1. melléklet 2. pontjában foglalt táblázat 4. sora.
+## 18. §[^19]
 
 ## 12. Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosítása
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

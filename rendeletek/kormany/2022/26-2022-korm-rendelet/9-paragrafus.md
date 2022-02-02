@@ -1,3 +1,3 @@
-## „(4) Fennmaradási engedély esetében nem szabható ki a bírság, ha az épített környezet alakításáról és védelméről szóló törvényben az építésügyi bírság kiszabására meghatározott határidő eltelt, vagy a szabálytalan állapot – e határidőn belül – legalább már egy éve a bányafelügyelet tudomására jutott.
+## 8. §[^9]
 
-## (5) A bírság megfizetéséről szóló határozat kötelezettje az építtető.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

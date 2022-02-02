@@ -1,11 +1,3 @@
-## 9. § Az R2. 35. § nyitó szövegrészében a „bányafelügyelet” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet)” szöveg lép.
+## 9. §[^10]
 
-## 10. § Hatályát veszti az R2.
-
-a) I–III. fejezete,
-
-b) 19. és 20. alcíme,
-
-c) V. fejezete,
-
-d) 1–8. melléklete.
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
