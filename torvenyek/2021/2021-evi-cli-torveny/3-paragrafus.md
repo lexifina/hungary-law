@@ -1,5 +1,1 @@
-3. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 38/A. §-a a következő (15) és (16) bekezdéssel egészül ki:
-
-„(15) Az élelmiszerlánc-felügyeleti szerv az (1) bekezdésben meghatározott feladatának ellátása céljából a hegyközségekről szóló törvény szerinti, a Hegyközségek Nemzeti Tanácsa (a továbbiakban: HNT) által működtetett informatikai rendszerből elektronikus úton adatigénylésre jogosult, valamint a HNT részére adatot szolgáltat a FELIR-ből. Az átvett és átadott adatok körét és az adatátvétel részletszabályait együttműködési megállapodásban kell rögzíteni.
-
-(16) Az élelmiszerlánc-felügyeleti szerv az (1) bekezdésben meghatározott feladatának ellátása céljából a szőlészetről és borászatról szóló törvény szerinti ePincekönyv rendszerből elektronikus úton adatigénylésre jogosult, valamint adatot szolgáltat a FELIR-ből az ePincekönyv rendszer számára. Az átvett és átadott adatok körét és az adatátvétel részletszabályait együttműködési megállapodásban kell rögzíteni.”
+3. §
