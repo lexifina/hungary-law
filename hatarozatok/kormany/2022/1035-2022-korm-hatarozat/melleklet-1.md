@@ -20,14 +20,11 @@
 
 ## d) egyetért azzal, hogy a belügyminiszter a c) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett önkormányzatok számára.
 
-## 2. Az 5000 fő feletti lakosságszámú egyes településeket érintő, azonnali beruházásokhoz szükséges források biztosításáról szóló 1912/2021. (XII. 15.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlop 5. sorában az „Önkormányzati útfelújítás, szabadvezetékes hálózat kiváltása földkábelre, közvilágítás felújítása” szövegrész helyébe az „Önkormányzati útfelújítás, szabadvezetékes hálózat kiváltása földkábelre, közvilágítás felújítása, Egészségház kivitelezése” szöveg lép.
+## 2.[^1]
 
-## 3. A helyi önkormányzatok támogatásáról, helyi önkormányzatokat érintő egyes kormányhatározatok módosításáról szóló 1914/2021. (XII. 15.) Korm. határozat 1. mellékletében foglalt táblázat „D” oszlop
-
-## a) 13. sorában a „folyamatban lévő fejlesztések többletköltségeinek támogatása” szövegrész helyébe a „folyamatban lévő fejlesztések többletköltségeinek támogatása részben pénzeszköz átadással” szöveg,
-
-## b) 15. sorában a „munkagép beszerzése” szövegrész helyébe a „munkagép kiegészítő elemek, további eszközök beszerzése” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1035/2022. (II. 1.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
