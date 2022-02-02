@@ -14,7 +14,7 @@ ad) b) pontja szerint a legutoljára készített azon arcképmást, amelyet az �
 
 b) a 11. § (1) bekezdés
 
-ba) c) pont ca) és cc) alpontja szerinti adatot,
+ba) c) pont ca) és cb) alpontja szerinti adatot,
 
 bb) c) pont cd) alpontja szerinti adatok közül a bűncselekmény elkövetésének idejét,
 
@@ -24,7 +24,7 @@ bd) k) pont kc) alpontja szerinti adatok közül a külföldi bíróság által 
 
 c) a 16. § (1) bekezdés
 
-ca) c) pont ca) és cc) alpontja szerinti adatot,
+ca) c) pont ca) és cb) alpontja szerinti adatot,
 
 cb) c) pont cd) alpontja szerinti adatok közül a bűncselekmény elkövetésének idejét,
 
