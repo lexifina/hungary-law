@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-147-00-00
 | 2022-01-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-147-00-00.7 |
 | 2022-01-07 | 2010. évi CXXX. törvény | 2021-147-00-00.8 |
 | 2022-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-147-00-00.9 |
+| 2022-02-02 | 2010. évi CXXX. törvény | 2021-147-00-00.10 |
