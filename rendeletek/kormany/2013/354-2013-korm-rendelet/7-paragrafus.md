@@ -4,10 +4,10 @@ a) gondoskodik az IMI-rendszerben a rá mint delegált IMI-koordinátorra és a 
 
 b) felügyeli az általa koordinált hatóságokhoz más EGT-államból érkező megkeresések határidőben való teljesítését, és szükség esetén a megkeresések megfelelő teljesítése érdekében – ha felügyeleti eljárás keretében arra maga nem jogosult – kezdeményezi a hatóság felügyeleti szervénél a megfelelő intézkedések megtételét,
 
-c)[^14] közvetít a más EGT-állam illetékes hatósága, az uniós szervek, hivatalok és ügynökségek és az általa koordinált hatóság között felmerülő, egy adott megkeresés teljesítésével összefüggő vitás kérdésben a vita rendezése érdekében,
+c)[^17] közvetít a más EGT-állam illetékes hatósága, az uniós szervek, hivatalok és ügynökségek és az általa koordinált hatóság között felmerülő, egy adott megkeresés teljesítésével összefüggő vitás kérdésben a vita rendezése érdekében,
 
 d) ellátja a regisztrálással és a riasztási mechanizmussal összefüggő, az e rendelet 2. alcímében meghatározott feladatokat,
 
 e) az IMI-rendszer megfelelő alkalmazásához szükséges ismeretek elsajátítása és naprakészen tartása érdekében gondoskodik az általa koordinált hatóságok felhasználóinak rendszeres képzéséről.
 
-[^14]: A 7. § c) pontja a 269/2018. (XII. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^17]: A 7. § c) pontja a 269/2018. (XII. 20.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -1,8 +1,6 @@
-## 29. §[^21]
-
 1. melléklet a 354/2013. (X. 7.) Korm. rendelethez
 
-## A 102/2009. (V. 11.) Korm. rendelet 3. melléklete szerinti formanyomtatvány 7. pontjának kiegészítése
+A 102/2009. (V. 11.) Korm. rendelet 3. melléklete szerinti formanyomtatvány 7. pontjának kiegészítése
 
 7. Más uniós jogi aktus szerinti bejelentés:
 
@@ -29,5 +27,3 @@ f) az alkalmazottak minimális számát előíró követelmény,
 g) rögzített legalacsonyabb és/vagy legmagasabb díjtétel, amelynek a szolgáltatónak meg kell felelnie,
 
 h) a szolgáltató azon kötelezettsége, hogy szolgáltatásával együtt egyéb meghatározott szolgáltatásokat is nyújtson.
-
-[^21]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

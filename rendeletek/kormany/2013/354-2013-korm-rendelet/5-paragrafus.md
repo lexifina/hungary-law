@@ -4,10 +4,10 @@
 
 ## 5. § A Kormány az IMI rendelet 6. cikke szerinti IMI-koordinátorként
 
-a)[^11] mint nemzeti IMI-koordinátor az igazságügyért felelős minisztert,
+a)[^14] mint nemzeti IMI-koordinátor az igazságügyért felelős minisztert,
 
 b) mint delegált IMI-koordinátor az irányításuk és felügyeletük alá tartozó hatóságok, a törvényességi felügyeletük alá tartozó, 3. § szerinti eljárások tekintetében hatáskörrel és illetékességgel rendelkező köztestületek, továbbá a jogszabály-előkészítési feladatkörükbe tartozó hatósági eljárásokban eljáró, adott jogterület felügyeletét ellátó egyéb hatóságok vagy szervek tekintetében a minisztereket jelöli ki.
 
 A nemzeti IMI-koordinátor
 
-[^11]: Az 5. § a) pontja a 303/2014. (XII. 5.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § a) pontja a 303/2014. (XII. 5.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

@@ -6,11 +6,11 @@ b) folyamatosan figyelemmel kíséri az IMI-rendszer megfelelő működését, �
 
 c) javaslatot tesz a delegált IMI-koordinátornak az IMI-rendszerbe még nem regisztrált hatóság regisztrálására, illetve szükség esetén maga is regisztrálhatja a hatóságot,
 
-d)[^12] figyelemmel kíséri az IMI-rendszerben a hatóságok, uniós szervek, hivatalok és ügynökségek regisztrációját, továbbá a más EGT-államból érkező megkeresések, valamint a hatóságok, uniós szervek, hivatalok és ügynökségek által más EGT-államokba küldött megkeresések teljesítését, és – ha szükséges – a megkeresések megfelelő teljesítése érdekében kezdeményezi a hatáskörrel rendelkező IMI-koordinátornál vagy más EGT-állam nemzeti IMI-koordinátoránál a szükséges intézkedések megtételét, továbbá
+d)[^15] figyelemmel kíséri az IMI-rendszerben a hatóságok, uniós szervek, hivatalok és ügynökségek regisztrációját, továbbá a más EGT-államból érkező megkeresések, valamint a hatóságok, uniós szervek, hivatalok és ügynökségek által más EGT-államokba küldött megkeresések teljesítését, és – ha szükséges – a megkeresések megfelelő teljesítése érdekében kezdeményezi a hatáskörrel rendelkező IMI-koordinátornál vagy más EGT-állam nemzeti IMI-koordinátoránál a szükséges intézkedések megtételét, továbbá
 
 e) az IMI-rendszer megfelelő alkalmazásához szükséges ismeretek elsajátítása és naprakészen tartása érdekében gondoskodik a delegált IMI-koordinátorok felhasználóinak rendszeres képzéséről, és segítséget nyújt a hatóságok felhasználóinak képzéséhez
 
-f)[^13] közvetít a más EGT-állam illetékes hatósága, az uniós szervek, hivatalok és ügynökségek és az általa koordinált hatóság között felmerülő, egy adott megkeresés teljesítésével összefüggő vitás kérdésben a vita rendezése érdekében,
+f)[^16] közvetít a más EGT-állam illetékes hatósága, az uniós szervek, hivatalok és ügynökségek és az általa koordinált hatóság között felmerülő, egy adott megkeresés teljesítésével összefüggő vitás kérdésben a vita rendezése érdekében,
 
 g) ellátja a regisztrálással és a riasztási mechanizmussal összefüggő, az e rendelet 2. alcímében meghatározott feladatokat.
 
@@ -18,5 +18,5 @@ g) ellátja a regisztrálással és a riasztási mechanizmussal összefüggő, a
 
 A delegált IMI-koordinátor
 
-[^12]: A 6. § (1) bekezdés d) pontja a 269/2018. (XII. 20.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^13]: A 6. § (1) bekezdés f) pontja a 269/2018. (XII. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^15]: A 6. § (1) bekezdés d) pontja a 269/2018. (XII. 20.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^16]: A 6. § (1) bekezdés f) pontja a 269/2018. (XII. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
