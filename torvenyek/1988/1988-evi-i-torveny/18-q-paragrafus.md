@@ -1,0 +1,1 @@
+18/Q. § Magyarország területén díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet biztosítja, hogy az általa foglalkoztatott járművezetők a kiküldetéssel összefüggő jogaikat és kötelességeiket illetően ismeretekkel rendelkezzenek.
