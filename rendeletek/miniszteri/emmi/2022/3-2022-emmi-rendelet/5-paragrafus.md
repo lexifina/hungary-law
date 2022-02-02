@@ -1,11 +1,14 @@
-## 4. § Az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet (a továbbiakban: R3.) 2. számú melléklete a 11. melléklet szerint módosul.
+## 4. §[^5]
 
 ## 5. Az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló 9/2012. (II. 28.) NEFMI rendelet módosítása
 
-5. § (1)[^1]
+5. § (1)[^6]
 
-(2) Az R4. 2. melléklete a 13. melléklet szerint módosul.
+(2)[^7]
 
-(3) Az R4. 3. melléklete a 14. melléklet szerint módosul.
+(3)[^8]
 
-[^1]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
