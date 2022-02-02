@@ -2,7 +2,7 @@
 
 ## ÁLLAMI VAGYON KELETKEZÉSÉVEL ÖSSZEFÜGGŐ SZABÁLYOK
 
-2. §[^26] (1)[^27] A tulajdonjognak az állam javára történő megszerzésére irányuló jogügylet megkötésére, az állam javára vételi jog szerződéssel történő alapítására – az (1a) bekezdés szerinti kivétellel – a tulajdonosi joggyakorló előzetes hozzájárulását követően kerülhet sor.
+2. §[^26] (1)[^27] A tulajdonjognak az állam javára történő megszerzésére irányuló jogügylet megkötésére, az állam javára vételi jog szerződéssel történő alapítására – az (1a) bekezdés szerinti kivétellel – a tulajdonosi joggyakorló előzetes hozzájárulását követően kerülhet sor. A kiadott előzetes hozzájárulás alapján az előzetes hozzájárulás jogosultja az állam nevében történő tulajdonszerzésre és a jogügylet állam nevében történő megkötésére jogosult.
 
 (1a)[^28] Az (1) bekezdésben meghatározott hozzájárulást nem kell beszerezni, ha
 
@@ -37,7 +37,7 @@ f)[^32] a beszerzés a szakképzésialapfeladat-ellátással vagy a szakképző 
 (7)[^36] E szakasz (1) és (2) bekezdését az Nvtv. 11. § (6) bekezdésében megjelölt vagyon vonatkozásában – a 2/A–2/C. § szerinti kivétellel – nem kell alkalmazni.
 
 [^26]: A 2. § a 348/2010. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^27]: a 2. § (1) bekezdése az 592/2020. (XII. 17.) Korm. rendelet 1. §-ával megállapított, a 827/2021. (XII. 28.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^27]: A 2. § (1) bekezdése a 30/2022. (II. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^28]: a 2. § (1a) bekezdését az 592/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^29]: A 2. § (1a) bekezdés a) pontja a 827/2021. (XII. 28.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
 [^30]: A 2. § (1a) bekezdés c) pont záró szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
