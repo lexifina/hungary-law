@@ -1,18 +1,8 @@
-## 1. egyetért a tatabányai multifunkciós csarnok (a továbbiakban: Beruházás) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény (a továbbiakban: Törvény) szerinti kormányzati magasépítési beruházásként történő előkészítésével és megvalósításával, a 2019. évben Budapesten zajló World Urban Games sportesemény és a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges egyes létesítmények megvalósítását szolgáló kiemelten közérdekű beruházások helyszínének meghatározásáról szóló 63/2019. (III. 27.) Korm. rendelet 2. melléklet II. pontjában foglalt táblázat B:3 mezőjében megjelölt ingatlanokon;
+## 1.[^1] egyetért a tatabányai multifunkciós csarnok beruházásnak (a továbbiakban: Beruházás) az ingatlan-nyilvántartás szerinti Tatabánya belterület 2075/4 helyrajzi számú ingatlanon, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével és megvalósításával, azzal, hogy a Beruházás során létrejövő felépítmény és az annak rendeltetésszerű használatához szükséges ingó vagyonelemek az állam tulajdonába kerüljenek;
 
-## 2. egyetért azzal, hogy a Beruházás során létrejövő felépítmény – a felépítmény rendeltetésszerű használatához szükséges ingyenes földhasználati jog önkormányzat általi biztosítása mellett – a Magyar Állam tulajdonába, valamint Tatabánya Megyei Jogú Város Önkormányzata vagyonkezelésébe kerüljön, és ennek érdekében felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy
+## 2.[^2]
 
-## a) a Törvény 4. § (7) és (8) bekezdése alapján a Beruházási Ügynökség útján gondoskodjon a felépítmény Magyar Állam általi tulajdonszerzését biztosító megállapodás megkötéséről,
-
-## b) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a felépítmény és annak tartozékai Tatabánya Megyei Jogú Város Önkormányzata részére történő vagyonkezelésbe adásáról;
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: az a) alpont tekintetében azonnal
-
-## a b) alpont tekintetében a Beruházás befejezését követően
-
-## 3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 29 564 593 698 forintban határozza meg;
+## 3.[^3] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 29 564 593 698 forintban határozza meg;
 
 ## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímének a 8. Tatabánya multifunkciós csarnok jogcímcsoporttal történő kiegészítését;
 
@@ -56,7 +46,7 @@
 
 ## Határidő: 2020. február 29.
 
-## 9.[^2]
+## 9.[^4]
 
 1. melléklet az 1535/2019. (IX. 18.) Korm. határozathoz
 
@@ -132,5 +122,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 3. pont az 1110/2021. (III. 10.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1037/2022. (II. 2.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pontot az 1037/2022. (II. 2.) Korm. határozat 2. pontja visszavonta.
+[^3]: A 3. pont az 1110/2021. (III. 10.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^4]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
