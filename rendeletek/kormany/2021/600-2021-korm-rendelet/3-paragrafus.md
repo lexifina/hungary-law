@@ -1,3 +1,3 @@
-## 2. § Az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet (a továbbiakban: R.) 7. §-a a következő (12) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(12) Az OKFŐ mint az Elektronikus Egészségügyi Szolgáltatási Tér működtetője a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 19/A. §-a szerinti nemzeti kapcsolattartó szerv. Az OKFŐ nemzeti kapcsolattartó szervként biztosítja a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítésével összefüggő információcserét az Európai Unió tagállamainak nemzeti kapcsolattartó szerveivel és az Európai Bizottsággal együttműködve.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
