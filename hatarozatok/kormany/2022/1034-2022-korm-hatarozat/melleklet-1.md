@@ -108,18 +108,17 @@
 
 ## az átvezetés tekintetében 2022. február 15.
 
-## 2. A Harkányi Gyógy- és Strandfürdő fejlesztéséhez szükséges egyes intézkedésekről szóló 1837/2018. (XII. 27.) Korm. határozat
+## 2.[^1]
 
-## a) 1.8. pont záró szövegrészében az „a) és b) alpont szerinti előkészítési fázisokat legkésőbb 2021. december 31-ig” szövegrész helyébe az „a) alpont szerinti előkészítési fázisokat legkésőbb 2022. március 31-ig, a b) alpont szerinti előkészítési fázisokat legkésőbb 2021. december 31-ig” szöveg,
+## 3.[^2]
 
-## b) 1.12. pont a) alpontjában az „1.8. pont a) és b) alpontja tekintetében 2022. április 30.,” szövegrész helyébe az „1.8. pont a) alpontja tekintetében 2022. június 30., az 1.8. pont b) alpontja tekintetében 2022. április 30.,” szöveg
+## 4.[^3]
 
-## lép.
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, valamint egyes kormányhatározatok módosításáról szóló 1016/2019. (I. 28.) Korm. határozat 1. pont b) alpontjában a „2021. december 31.” szövegrész helyébe a „2022. június 30.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból történő és fejezetek közötti előirányzat-átcsoportosításról, a központi költségvetés címrendjének módosításáról, valamint egyes kormányhatározatok módosításáról szóló 1104/2019. (III. 8.) Korm. határozat 1. pont a) alpontjában a „2022. február 28.,” szövegrész helyébe a „2022. június 30.,” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Beruházás Előkészítési Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, címrendi kiegészítésről, valamint kormányhatározatok módosításáról és visszavonásáról szóló 1496/2021. (VII. 23.) Korm. határozat 1. pont d) alpontjában a „2022. április 30.” szövegrész helyébe a „2022. április 30., az Egyes szociális, gyermekvédelmi, gyermekjóléti és fogyatékos személyek esélyegyenlőségét elősegítő ágazati szakmai programok támogatása előirányzat javára biztosított 200 000 000 forint tekintetében 2022. december 31.” szöveg lép.
+## 5.[^4]
 
 1. melléklet az 1034/2022. (II. 1.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
