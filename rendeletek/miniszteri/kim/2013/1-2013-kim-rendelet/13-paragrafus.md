@@ -1,6 +1,6 @@
 ## 12/B. § Az államtudományi osztatlan mesterképzés esetén pályaalkalmassági orientációs beszélgetés keretében az Egyetem által létrehozott bizottság vizsgálja a jelentkező pálya iránti elkötelezettségét, közéleti tájékozottságát.
 
-13. §[^40] (1) A (2) bekezdésben meghatározott képzések részidős (levelező munkarendű) közszolgálati ösztöndíjas képzési formájára a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak
+13. §[^44] (1) A (2) bekezdésben meghatározott képzések részidős (levelező munkarendű) közszolgálati ösztöndíjas képzési formájára a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak
 
 a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény,
 
@@ -24,15 +24,15 @@ i) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról sz
 
 (2) Az (1) bekezdésben hivatkozott képzések a következők:
 
-a) közigazgatás-szervező alapképzés,
+a)[^45]
 
-b) közigazgatási mesterképzés,
+b)[^46]
 
-c) államtudományi osztatlan mesterképzés,
+c)[^47]
 
 d) kormányzás és vezetés mesterképzés,
 
-e) fejlesztéspolitikai programmenedzsment mesterképzés, valamint
+e)[^48]
 
 f) kiberbiztonsági mesterképzés.
 
@@ -40,4 +40,8 @@ f) kiberbiztonsági mesterképzés.
 
 (4) A (2) bekezdésben meghatározott képzések esetében a hallgatói jogviszony létesítésének feltétele az (1) bekezdésben meghatározott foglalkoztatási jogviszony fennállása.
 
-[^40]: A 13. § a 2/2021. (II. 12.) MvM rendelet 4. §-ával megállapított szöveg.
+[^44]: A 13. § a 2/2021. (II. 12.) MvM rendelet 4. §-ával megállapított szöveg.
+[^45]: A 13. § (2) bekezdés a) pontját a 3/2022. (II. 1.) MvM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^46]: A 13. § (2) bekezdés b) pontját a 3/2022. (II. 1.) MvM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^47]: A 13. § (2) bekezdés c) pontját a 3/2022. (II. 1.) MvM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^48]: A 13. § (2) bekezdés e) pontját a 3/2022. (II. 1.) MvM rendelet 2. § f) pontja hatályon kívül helyezte.
