@@ -8,9 +8,9 @@ c)
 
 d)
 
-e)
+e) 75/B. § (1) bekezdés b) pont ba) alpontjában a „cc)” szövegrész helyébe a „cb)” szöveg,
 
-f)
+f) 75/B. § (1) bekezdés c) pont ca) alpontjában a „cc)” szövegrész helyébe a „cb)” szöveg,
 
 g)
 
