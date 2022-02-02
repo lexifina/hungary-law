@@ -1,3 +1,3 @@
-## 6. §[^5]
+## 6. §[^6]
 
-[^5]: A 6. § a 21. § (6) bekezdése alapján 2022. június 1-jén lép hatályba.
+[^6]: A 6. § a 21. § (6) bekezdése alapján 2022. június 1-jén lép hatályba.
