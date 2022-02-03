@@ -1,3 +1,5 @@
-## 4. § Az R. 3. § (3) bekezdésében a „60. és 61. sora” szövegrész helyébe a „60., 61. és 68. sora” szöveg lép.
+## 4. §[^5]
 
 ## 3. Záró rendelkezések
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

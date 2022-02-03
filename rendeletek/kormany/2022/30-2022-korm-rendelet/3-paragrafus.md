@@ -1,3 +1,3 @@
-## 2. § Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet (a továbbiakban: R.) a következő 50. §-sal egészül ki:
+## 2. §[^3]
 
-## „50. § E rendeletnek az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet és az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 30/2022. (II. 1.) Korm. rendelettel (a továbbiakban: Módr42.) módosított 3. § (3) bekezdését és 2. mellékletében foglalt táblázat 68. sorát a Módr42. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
