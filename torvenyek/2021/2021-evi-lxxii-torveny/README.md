@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-72-00-00
 | --- | --- | --- |
 | 2021-06-16 | 2021. évi LXXII. törvény | 2021-72-00-00.0 (közlönyállapot) |
 | 2021-06-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-72-00-00.1 |
+| 2022-02-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-72-00-00.2 |
