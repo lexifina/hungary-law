@@ -1,0 +1,1 @@
+A Kormány a Győr megyei jogú város közigazgatási területén működő Győri Ipari Park bővítése keretében kialakításra kerülő ipari fejlesztési területek (a továbbiakban: fejlesztési területek) kialakításával összefüggésben
