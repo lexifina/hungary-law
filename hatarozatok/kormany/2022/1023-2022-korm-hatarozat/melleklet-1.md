@@ -12,6 +12,8 @@
 
 ## 1.6. a Tatabánya–Oroszlány–Tata és térsége víziközmű-hálózatának komplex előkészítése, fejlesztése, hatékonyságának növelése és rekonstrukciója megvalósításához szükséges intézkedésekről szóló 1558/2021. (VIII. 5.) Korm. határozatra,
 
+## 1.7.[^1] a debreceni Déli Gazdasági Övezet bővítésével összefüggő infrastruktúra-fejlesztésekről szóló 1041/2022. (II. 4.) Korm. határozatra,
+
 ## a következőkről dönt.
 
 ## 2. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím terhére vállalható kötelezettségek mértékét
@@ -28,9 +30,9 @@
 
 ## 3. A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az 1. melléklet A oszlopa szerinti kormányhatározatokban foglalt, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb az adott sor H oszlopában szereplő összegében kötelezettséget vállaljon.
 
-## 4.[^1]
+## 4.[^2]
 
-1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz
+1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz[^3]
 
 A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előirányzaton (kincstári díj nélkül)
 
@@ -50,4 +52,8 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 11 581 417 091 | 11 581 417 091 | 5 790 708 546 | 0 | 0 | 44 271 209 239 |
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 7 253 212 000 | 11 877 873 000 | 13 843 582 000 | 26 180 525 000 | 25 895 874 000 | 85 051 066 000 |
+
+[^1]: Az 1. pont 1.7. alpontját az 1041/2022. (II. 4.) Korm. határozat 2. pontja iktatta be.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1041/2022. (II. 4.) Korm. határozat 3. pontja szerint módosított szöveg.
