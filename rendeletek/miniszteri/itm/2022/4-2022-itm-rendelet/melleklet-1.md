@@ -1,5 +1,3 @@
-## 5. § Hatályát veszti a LXII. Nemzeti Kutatási, Fejlesztési és Innovációs Alap költségvetési fejezetbe sorolt előirányzatok 2021. évi kezeléséről és felhasználásáról szóló 18/2021. (IV. 14.) ITM rendelet.
-
 1. melléklet a 4/2022. (II. 2.) ITM rendelethez
 
 LXII. Nemzeti Kutatási, Fejlesztési és Innovációs Alap 2022. évi kiadási előirányzatainak feladatterve
