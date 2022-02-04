@@ -1,5 +1,3 @@
-## 5. § Hatályát veszti a XXXV. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal költségvetési fejezetbe sorolt fejezeti kezelésű előirányzatok és a XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 10. Agrártudományi Kutatóközpont fejlesztéséhez kapcsolódó beruházások támogatása alcím fejezeti kezelésű előirányzat 2021. évi kezeléséről és felhasználásáról szóló 17/2021. (IV. 14.) ITM rendelet.
-
 1. melléklet a 3/2022. (II. 2.) ITM rendelethez
 
 XXXV. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal fejezeti kezelésű kiadási előirányzatának 2022. évi feladatterve
