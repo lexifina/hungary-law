@@ -1,0 +1,1 @@
+A Kormány a Nyíregyháza megyei jogú város közigazgatási területén működő Nyíregyházi Ipari Park bővítése keretében kialakításra kerülő ipari fejlesztési területek (a továbbiakban: fejlesztési területek) kialakításával összefüggésben
