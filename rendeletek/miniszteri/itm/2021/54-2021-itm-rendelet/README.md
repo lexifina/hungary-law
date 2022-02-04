@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-54-20-7
 | 2021-12-06 | 2021-54-20-7Q.2 | 2010: CXXX. törvény |
 | 2022-01-01 | 2021-54-20-7Q.3 | 71/2021. (XII. 30.) ITM rendelet |
 | 2022-02-03 | 2021-54-20-7Q.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-02-04 | 2021-54-20-7Q.5 | 2010: CXXX. törvény |
