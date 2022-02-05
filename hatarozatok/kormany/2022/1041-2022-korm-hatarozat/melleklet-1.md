@@ -148,22 +148,12 @@
 
 ## Határidő: folyamatos
 
-## 2. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pontja a következő 1.7. alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány, tekintettel)
+## 3.[^2]
 
-## „1.7. a debreceni Déli Gazdasági Övezet bővítésével összefüggő infrastruktúra-fejlesztésekről szóló 1041/2022. (II. 4.) Korm. határozatra,”
+1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz[^3]
 
-## (a következőkről dönt.)
-
-## 3. A Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz
-
-A Korm. határozat 1. mellékletében foglalt táblázat a következő 8. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G | H |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-| 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 7 253 212 000 | 11 877 873 000 | 13 843 582 000 | 26 180 525 000 | 25 895 874 000 | 85 051 066 000 |
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
