@@ -1,4 +1,4 @@
-## 48. §[^123] E rendeletnek az egyes kiemelt beruházásokhoz kapcsolódó kormányrendeletek módosításáról szóló 792/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr40.) megállapított 1. § (3) bekezdését, 3. § (3) és (5) bekezdését, 6/F. §-át és 2. mellékletében foglalt táblázat 66. sorát a Módr40. hatálybalépésekor[^124] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 48. §[^124] E rendeletnek az egyes kiemelt beruházásokhoz kapcsolódó kormányrendeletek módosításáról szóló 792/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr40.) megállapított 1. § (3) bekezdését, 3. § (3) és (5) bekezdését, 6/F. §-át és 2. mellékletében foglalt táblázat 66. sorát a Módr40. hatálybalépésekor[^125] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^123]: A 48. §-t a 792/2021. (XII. 27.) Korm. rendelet 9. §-a iktatta be.
-[^124]: A hatálybalépés időpontja 2021. december 28.
+[^124]: A 48. §-t a 792/2021. (XII. 27.) Korm. rendelet 9. §-a iktatta be.
+[^125]: A hatálybalépés időpontja 2021. december 28.
