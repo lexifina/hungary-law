@@ -16,7 +16,7 @@
 
 | 7 | birkózás | Kozma István Magyar Birkózó Akadémia Alapítvány |
 
-2. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^38]
+2. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^40]
 
 Kiemelt sportágak
 
@@ -52,4 +52,4 @@ Kiemelt sportágak
 
 | 16. | vívás |
 
-[^38]: A 2. mellékletet az 545/2021. (IX. 24.) Korm. rendelet 10. §-a iktatta be.
+[^40]: A 2. mellékletet az 545/2021. (IX. 24.) Korm. rendelet 10. §-a iktatta be.

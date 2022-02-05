@@ -1,4 +1,4 @@
-## 10/C. [^33] Keretmegállapodás a kiemelt régiós alközponttal
+## 10/C. [^35] Keretmegállapodás a kiemelt régiós alközponttal
 
 15/D. § (1) A miniszter a 15/C. § (1)–(4) bekezdésében meghatározott feladatok ellátására legfeljebb 4 évre szóló keretmegállapodást köthet azon sportszervezettel, amely vállalja a 15/C. § (1)–(4) bekezdésében meghatározott követelmények teljesítését, feladatok ellátását.
 
@@ -16,4 +16,4 @@
 
 (8) A kiemelt régiós alközpont keretmegállapodásának felmondására, módosítására, a keretmegállapodás hatályának lejártakor folytatandó eljárásra, továbbá a beszámolási kötelezettségére a 14. és a 15. §-ban foglalt rendelkezések az irányadóak.
 
-[^33]: A 10/C. alcímet (15/D. §) az 545/2021. (IX. 24.) Korm. rendelet 8. §-a iktatta be.
+[^35]: A 10/C. alcímet (15/D. §) az 545/2021. (IX. 24.) Korm. rendelet 8. §-a iktatta be.
