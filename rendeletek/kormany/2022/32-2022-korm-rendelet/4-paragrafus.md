@@ -1,3 +1,5 @@
-## 3. § Az R. 7/F. §-ában a „63. és 64. sora” szövegrész helyébe a „63., 64. és 65. sora” szöveg lép.
+## 3. §[^4]
 
 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
