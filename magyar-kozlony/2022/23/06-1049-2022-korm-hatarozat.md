@@ -1,0 +1,181 @@
+# A Kormány 1049/2022. (II. 10.) Korm. határozata
+
+Magyar Közlöny 2022. évi 23. szám, 2022. február 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/i3t2wZe0DvTCIxtlKDSX61fad8f85dff6/dokumentumok/acb5cd43a3c66a0b74c0f95b29a39ed00a423ac8/letoltes)
+
+---
+
+A Kormány 1049/2022. (II. 10.) Korm. határozata
+a 2021–2024. években az árufuvarozási folyosók működtetői részére rendelkezésre álló Európai
+Hálózatfinanszírozási Eszköz technikai segítségnyújtás pályázatok benyújtásáról
+A Kormány
+1. az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló 75/2016. (IV. 5.) Korm. rendelet
+4. § (1) bekezdése szerinti jogkörében eljárva egyetért a 2021–2024. években az árufuvarozási folyosók működtetői
+részére rendelkezésre álló Európai Hálózatfinanszírozási Eszköz technikai segítségnyújtás pályázatok benyújtásával,
+az 1. melléklet szerint;
+2. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1. mellékletben foglalt projektjavaslatok
+vonatkozásában gondoskodjon az Európai Hálózatfinanszírozási Eszköz létrehozásáról, a 913/2010/EU rendelet
+módosításáról és a 680/2007/EK és 67/2010/EK rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i
+1316/2013/EU európai parlamenti és tanácsi rendelet 9. cikk (1) bekezdése szerinti tagállami hozzájáruló
+nyilatkozatok kiállításáról.
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: 2022. február 17.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1049/2022. (II. 10.) Korm. határozathoz
+A B C D E F G H I J
+1.
+Kapcsolódó program
+megnevezése
+Projektjavaslat
+megnevezése
+Támogatást igénylő
+neve
+Koordinátor-
+Kedvezményezett/
+Kedvezményezett
+Társkedvezményezett
+Projektjavaslat
+tervezett
+költsége
+(nettó, forint)
+Projektjavaslat
+tervezett
+összköltsége
+(bruttó, forint)
+Európai
+Hálózatfinanszírozási
+Eszköz terhére
+biztosítandó
+támogatás tervezett
+összege
+(nettó, forint)
+Hazai
+költségvetési
+támogatás
+tervezett
+összege
+(bruttó, forint)
+Saját erő
+(forint)
+Projektjavaslat rövid bemutatása
+2.
+Európai
+Hálózatfinanszírozási
+Eszköz (CEF)
+CEF2 technikai
+segítségnyújtás
+– RFC11 –
+2021–2024.
+Győr–Sopron–
+Ebenfurti Vasút
+Zártkörűen
+Működő
+Részvénytársaság
+Magyar Államvasutak
+Zártkörűen Működő
+Részvénytársaság;
+Vasúti
+Pályakapacitás-
+elosztó Korlátolt
+Felelősségű Társaság
+113 750 000 113 750 000 113 750 000 0 0
+Az elvégzendő feladat a versenyképes árufuvarozást szolgáló
+európai vasúti hálózatról szóló, 2010. szeptember 22-i
+913/2010/EU európai parlamenti és tanácsi rendelet
+(a továbbiakban: 913/2010 EU rendelet) által megkövetelt
+dokumentumok – különösen Közlekedéspiaci Tanulmány,
+Beruházási Terv, Végrehajtási Terv – elkészítése és benyújtása,
+továbbá megfelelő mennyiségű és minőségű dedikált kapacitás
+felajánlása az üzletpartner vasútvállalatok számára, és
+e vállalatokkal való szoros együttműködés fenntartása, valamint
+számukra előnyös megoldások kidolgozása az erre dedikált
+vasútvállalati és termináli tanácsadócsoportok keretein belül.
+3.
+Európai
+Hálózatfinanszírozási
+Eszköz (CEF)
+CEF2 technikai
+segítségnyújtás
+– RFC9 –
+2021–2024.
+Magyar
+Államvasutak
+Zártkörűen
+Működő
+Részvénytársaság
+Győr–Sopron–
+Ebenfurti Vasút
+Zártkörűen Működő
+Részvénytársaság;
+Vasúti
+Pályakapacitás-
+elosztó Korlátolt
+Felelősségű Társaság
+116 550 000 116 550 000 116 550 000 0 0
+Az elvégzendő feladat a 913/2010 EU rendelet által megkövetelt
+dokumentumok – különösen Közlekedéspiaci Tanulmány,
+Beruházási Terv, Végrehajtási Terv – elkészítése és benyújtása,
+továbbá megfelelő mennyiségű és minőségű dedikált kapacitás
+felajánlása az üzletpartner vasútvállalatok számára, és
+e vállalatokkal való szoros együttműködés fenntartása, valamint
+számukra előnyös megoldások kidolgozása az erre dedikált
+vasútvállalati és termináli tanácsadócsoportok keretein belül.
+4.
+Európai
+Hálózatfinanszírozási
+Eszköz (CEF)
+CEF2 technikai
+segítségnyújtás
+– RFC7 –
+2021–2024.
+Magyar
+Államvasutak
+Zártkörűen
+Működő
+Részvénytársaság
+Győr–Sopron–
+Ebenfurti Vasút
+Zártkörűen Működő
+Részvénytársaság;
+Vasúti
+Pályakapacitás-
+elosztó Korlátolt
+Felelősségű Társaság
+162 000 000 162 000 000 162 000 000 0 0
+Az elvégzendő feladat a 913/2010 EU rendelet által megkövetelt
+dokumentumok – különösen Közlekedéspiaci Tanulmány,
+Beruházási Terv, Végrehajtási Terv – elkészítése és benyújtása,
+továbbá megfelelő mennyiségű és minőségű dedikált kapacitás
+felajánlása az üzletpartner vasútvállalatok számára, és
+e vállalatokkal való szoros együttműködés fenntartása, valamint
+számukra előnyös megoldások kidolgozása az erre dedikált
+vasútvállalati és termináli tanácsadócsoportok keretein belül.
+5.
+Európai
+Hálózatfinanszírozási
+Eszköz (CEF)
+CEF2 technikai
+segítségnyújtás
+– RFC6 –
+2021–2024.
+European
+Economic Interest
+Grouping (milánói
+székhellyel)
+Magyar Államvasutak
+Zártkörűen Működő
+Részvénytársaság;
+Vasúti
+Pályakapacitás-
+elosztó Korlátolt
+Felelősségű Társaság
+53 550 000 53 550 000 53 550 000 0 0
+Az elvégzendő feladat a 913/2010 EU rendelet által megkövetelt
+dokumentumok – különösen Közlekedéspiaci Tanulmány,
+Beruházási Terv, Végrehajtási Terv – elkészítése és benyújtása,
+továbbá megfelelő mennyiségű és minőségű dedikált kapacitás
+felajánlása az üzletpartner vasútvállalatok számára, és
+e vállalatokkal való szoros együttműködés fenntartása, valamint
+számukra előnyös megoldások kidolgozása az erre dedikált
+vasútvállalati és termináli tanácsadócsoportok keretein belül.
