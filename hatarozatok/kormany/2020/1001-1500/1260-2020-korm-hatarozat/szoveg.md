@@ -22,6 +22,16 @@ Határidő: az a) alpont tekintetében felmerülés ütemében
 
 a b) alpont tekintetében azonnal
 
+4.[^4] egyetért a Tőkealap számára, a 2. pont b) alpontjában meghatározott módon, céljainak megvalósítása érdekében a 2022. évben további 5 000 000 000 forint nem visszatérítendő költségvetési támogatás biztosításával;
+
+5.[^5] felhívja a pénzügyminisztert, hogy gondoskodjon a 4. pont szerinti többletforrás biztosításáról.
+
+Felelős: pénzügyminiszter
+
+Határidő: azonnal
+
 [^1]: A 2. pont az 1823/2021. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 3. pont nyitó szövegrésze az 1486/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja, záró szövegrésze az 1486/2020. (VIII. 7.) Korm. határozat 3. pont b) alpontja, az 1823/2021. (XI. 25.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^3]: A 3. pont b) alpontja az 1823/2021. (XI. 25.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 4. pontot az 1052/2022. (II. 10.) Korm. határozat iktatta be.
+[^5]: Az 5. pontot az 1052/2022. (II. 10.) Korm. határozat iktatta be.
