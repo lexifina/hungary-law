@@ -78,3 +78,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-7P
 | 2022-01-13 | 2018-1-20-7P.70 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2022-01-27 | 2018-1-20-7P.71 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2022-01-31 | 2018-1-20-7P.72 | 3/2018. (VIII. 1.) NVTNM rendelet |
+| 2022-02-11 | 2018-1-20-7P.73 | 3/2018. (VIII. 1.) NVTNM rendelet |

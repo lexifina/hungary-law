@@ -248,6 +248,8 @@
 
 | 21. | Védelmi Innovációs Kutatóintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141703 | 2022. december 31. |
 
+| 22. | BrainVisionCenter Nonprofit Korlátolt Felelősségű Társaság | 01-09-395007 | 2022. december 31. |
+
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
 |  | A | B | C |
