@@ -20,4 +20,6 @@ Vékás Lajos Széchenyi-díjas jogászt, a Magyar Tudományos Akadémia rendes 
 
 Vidnyánszky Attila Kossuth-, Jászai Mari- és Nádasdy Kálmán-díjas rendezőt, a Nemzeti Színház vezérigazgatóját, a Magyar Művészeti Akadémia rendes tagját.
 
-2. Visszavonom a Kossuth- és Széchenyi-díj Bizottság tagjainak felkéréséről szóló 7/2021. (II. 15.) ME határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
