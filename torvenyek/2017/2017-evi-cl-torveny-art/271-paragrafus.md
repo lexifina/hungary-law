@@ -4,7 +4,7 @@
 
 ### 271. § [Átmeneti rendelkezések]
 
-(1) E törvény rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+(1) E törvény rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) E törvény rendelkezéseit a hatálybalépést követően esedékessé váló kötelezettségekre kell alkalmazni.
 
