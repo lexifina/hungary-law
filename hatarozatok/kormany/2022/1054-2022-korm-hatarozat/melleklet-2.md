@@ -10,12 +10,6 @@
 
 | 5. | IKOP-1.1.0-15- 2017-00029 | M8 autóút Körmend–Rábafüzes, országhatár szakasz 2×1 sávos előkészítése és építése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 100% | 74 023 733 077 | 0 | 18 915 308 186 | 41 019 434 | 0 | -9 596 528 | 0 | 0 | +9 596 528 | 100% | 74 014 136 549 | 0 | 18 915 308 186 | 50 615 962 | 92 980 060 697 | 2 × 1 sávos autóút előkészítése és építése. |
 
-2. melléklet az 1054/2022. (II. 10.) Korm. határozathoz
+2. melléklet az 1054/2022. (II. 10.) Korm. határozathoz[^3]
 
-A Korm. határozat 2. mellékletében foglalt táblázat E:109. mezője helyébe a következő mező lép:
-
-|  | (E |
-
-| 1. | Szakmai elvárások) |
-
-| (109.) | A Gödöllői HÉV (H8) és Csömöri HÉV (H9) HÉV-vonalak rekonstrukciójának és az Örs vezér terén az M2 metróvonallal történő összekötésének teljes körű előkészítése az érintett budapesti önkormányzatokkal történt megállapodás szerinti emelt szintű műszaki tartalommal, engedélyezési terv, építési engedély és ezeken alapuló kivitelezési tenderdokumentáció szintig, továbbá a fejlesztéshez illeszkedő metró és elővárosi vasúti üzemre képes járművek beszerzésének előkészítése. |
+[^3]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

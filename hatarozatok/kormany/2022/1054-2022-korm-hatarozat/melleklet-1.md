@@ -18,22 +18,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat (a továbbiakban: Korm. határozat)
+## 3.[^1]
 
-## a) 1. pont h) alpontjában a „182,74%-áig” szövegrész helyébe a „182,91%-áig” szöveg,
-
-## b) 1. melléklet 1. pontjában foglalt táblázat C:2 mezőjében a „606,87” szövegrész helyébe a „607,45” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:25 mezőjében a „7,76 (93% támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „8,34 (támogatási intenzitás: 100%)” szöveg,
-
-## d) 2. mellékletében foglalt táblázat D:29 mezőjében a „74,02” szövegrész helyébe a „74,01” szöveg,
-
-## e) 2. mellékletében foglalt táblázat C:102g mezőjében a „Győr Megyei Jogú Város Önkormányzata” szövegrész helyébe a „Győri Térségfejlesztési és Projektmenedzsment Kft.” szöveg,
-
-## f) 2. mellékletében foglalt táblázat C:102h mezőjében a „Győr Megyei Jogú Város Önkormányzata” szövegrész helyébe a „Győri Térségfejlesztési és Projektmenedzsment Kft.” szöveg
-
-## lép.
-
-## 4. A Korm. határozat 2. melléklete a 2. melléklet szerint módosul.
+## 4.[^2]
 
 1. melléklet az 1054/2022. (II. 10.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
