@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-11-20-7
 | 2021-08-21 | 2019-11-20-7R.14 | 28/2021. (VIII. 18.) AM rendelet |
 | 2021-09-03 | 2019-11-20-7R.15 | 2/2021. (II. 15.) AM rendelet |
 | 2022-01-01 | 2019-11-20-7R.16 | 18/2021. (IV. 14.) AM rendelet |
+| 2022-02-12 | 2019-11-20-7R.17 | 39/2020. (VII. 30.) AM rendelet |
