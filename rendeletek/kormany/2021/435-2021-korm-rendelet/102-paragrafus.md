@@ -2,6 +2,6 @@
 
 ## 46. Módosító és hatályon kívül helyező rendelkezések
 
-102. §[^15]
+102. §[^17]
 
-[^15]: A 102. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 102. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

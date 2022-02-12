@@ -1,8 +1,8 @@
-## esetén szabja ki.
+85. §[^11] (1) A Btv. 22. § (5) bekezdés a) pontja szerinti esetben a minőségvédelmi bírság összegét a meg nem felelést okozó minőségi jellemzők számának, valamint az eltérés mértékének figyelembevételével kell megállapítani.
 
-85. § (1) A Btv. 22. § (5) bekezdése szerinti minőségvédelmi bírság mértéke – a kifogásolt tétel mennyiségétől, minőségétől, a hiba súlyától függően – legalább 50 000 forint, de legfeljebb a borászati terméktétel végső származási bizonyítványban szereplő mennyiségének literenként 5 000 forinttal számított értéke.
+(2) A Btv. 22. § (5) bekezdés b) pontja szerinti esetben a minőségvédelmi bírság összegét a jogsértéssel érintett borászati terméktétel mennyisége alapján literenként, a borászati termék előállítására, tárolására, forgalomba hozatalára vonatkozó rendelkezéseknek való meg nem felelés súlyára figyelemmel kell megállapítani.
 
-(2) A minőségvédelmi bírság mértéke a borászati terméktétel végső származási bizonyítványban szereplő mennyisége nagykereskedelmi árának
+(3) A Btv. 22. § (5) bekezdés c) pontja szerinti esetben, ha a földrajzi árujelző a termékleírásában foglalt, a borászati termék előállítására, a szőlő származási helyére vagy maximális hozamára vonatkozó szabályoknak nem megfelelő borászati terméken kerül feltüntetésre, a minőségvédelmi bírság mértéke a borászati terméktétel végső származási bizonyítványban szereplő mennyisége nagykereskedelmi árának
 
 a) 40%-a, ha nem éri el a 100 hl-t,
 
@@ -14,8 +14,8 @@ d) 70%-a, ha 500 és 1000 hl közötti,
 
 e) 80%-a, ha 1000 hl fölötti
 
-## a borászati üzem által az előző borpiaci évben értékesített és az értékesítési jelentésben megadott borászati termék mennyisége.
+a borászati üzem által az előző borpiaci évben értékesített és az értékesítési jelentésben megadott borászati termék mennyisége. Ha a borászati terméktétel nagykereskedelmi ára nem állapítható meg, literenként 5000 forinttal kell számolni.
 
-(3) Amennyiben a (2) bekezdésben foglaltak szerint a minőségvédelmi bírság mértéke a bortétel nagykereskedelmi ára alapján nem állapítható meg, a minőségvédelmi bírság összege a borászati terméktétel végső származási bizonyítványában szereplő mennyiségének literenként 5000 forinttal számított értéke.
+(4) A Btv. 22. § (5) bekezdés d) pontjában meghatározott minőségvédelmi bírság összege a borászati termék előállításához meg nem engedett anyag mennyiségétől függően legalább 50 000 forint, de legfeljebb 5 000 000 forint.
 
-(4) A (2) és (3) bekezdésben foglaltaktól eltérően borászati termék hamisítása esetén, továbbá azokban az esetekben, ahol a jogsértés jelentős súlyú, vagy nagyfokú eltérés vagy hiányosság kerül megállapításra, a minőségvédelmi bírság mértéke az ugyanazon forgalombahozatali azonosítóval rendelkező borászati terméktétel teljes mennyiségének literenként 5000 forinttal számított értéke.
+[^11]: A 85. § a 23/2022. (I. 27.) Korm. rendelet 17. §-ával megállapított szöveg.

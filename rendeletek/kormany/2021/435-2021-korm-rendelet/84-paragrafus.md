@@ -1,11 +1,5 @@
-## 84. § A Btv. 22. § (5) bekezdés a) pontjában meghatározott minőségvédelmi bírságot a NÉBIH vagy a kormányhivatal
+84. §[^10] (1) A Btv. 22. § (5) bekezdése szerinti minőségvédelmi bírság összegét a 85. §-ban foglaltak figyelembevételével kell megállapítani.
 
-a) borászati termék hamisítása,
+(2) A Btv. 22. § (5) bekezdés a) és b) pontja szerinti esetekben a minőségvédelmi bírság legkisebb összege 50 000 forint, legmagasabb összege pedig a 85. § (3) bekezdésében foglaltak szerint számított érték.
 
-b) laboratóriumi eredmények alapján kifogásolt termék előállítása, illetve forgalomba hozatala,
-
-c) élelmiszer-higiéniai hiányosságok,
-
-d) a jogszabályokban meghatározott, illetve a borászati termék jelölésében foglalt jellemzőktől való eltérés,
-
-e) a származási bizonyítványban foglaltaktól eltérő jelölés
+[^10]: A 84. § a 23/2022. (I. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
