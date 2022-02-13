@@ -6,6 +6,6 @@
 
 ## A többi jelölés a 8. mellékletben alkalmazottal azonos.
 
-10–11. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^13]
+10–11. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^16]
 
-[^13]: A 10–11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 10–11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
