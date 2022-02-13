@@ -1,0 +1,3 @@
+8. § (1) A független természetes személy szaktanácsadó évente köteles a tématerületéhez kapcsolódó képzés elvégzésére, amelyet tíz kreditpont megszerzésével teljesít az Agrárkamara által akkreditált képzés elvégzésével, illetve szakmai rendezvényeken való részvétellel. A képzések és rendezvények kreditértékét az Agrárkamara a honlapján teszi közé.
+
+(2) A szakmai rendezvényen való részvétel után kreditpont abban az esetben írható jóvá a természetes személy szaktanácsadó számára, ha az Agrárkamara által rendszeresített formai követelményeknek megfelelő jelenléti íven a szaktanácsadói névjegyzékszámát megadta, és az ívet aláírta.

@@ -1,0 +1,3 @@
+7. § (1) Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) évente legfeljebb egy további kötelező képzést írhat elő a szaktanácsadó részére, ha a szaktanácsadó szakterületén felmerülő természeti, népegészségügyi vagy eljárási körülmények azt szükségessé teszik.
+
+(2) Az Agrárkamara a szaktanácsadó részére – a szaktanácsadói ismereteik aktualizálása és bővítésére céljából – évente egy alkalommal további kötelező képzést kezdeményezhet, ha a szaktanácsadó szakterületén felmerülő természeti, népegészségügyi vagy eljárási körülmények azt szükségessé teszik. A miniszter jóváhagyását követően a képzésen való részvétel kötelező.
