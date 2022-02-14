@@ -238,7 +238,7 @@
 
 | 118. | Vadban okozott kár megelőzése, érvényesítése |
 
-2. melléklet az 1/2022. (I. 14.) AM rendelethez[^1]
+2. melléklet az 1/2022. (I. 14.) AM rendelethez[^2]
 
 A szaktanácsadási tématerületekhez kapcsolódó végzettségek
 
@@ -416,4 +416,4 @@ A szaktanácsadási tématerületekhez kapcsolódó végzettségek
 
 | 86. | Okleveles agrárközgazdász | 2., 8., 24., 41., 45., 49., 53., 54., 86., 95., 101., 108. |
 
-[^1]: A 2. melléklet az 5/2022. (II. 11.) AM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. melléklet az 5/2022. (II. 11.) AM rendelet 1. §-ával megállapított szöveg.

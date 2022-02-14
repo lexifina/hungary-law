@@ -1,3 +1,5 @@
-## 15. § Hatályát veszti a mezőgazdasági és vidékfejlesztési szaktanácsadói tevékenységről és a mezőgazdasági szaktanácsadási rendszerről szóló 16/2019. (IV. 29.) AM rendelet.
+## 15. §[^1]
 
 1. melléklet az 1/2022. (I. 14.) AM rendelethez
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
