@@ -1,1 +1,3 @@
-## 1. § Az agrárgazdasági és vidékfejlesztési szaktanácsadói tevékenységről és az agrárgazdasági szaktanácsadási rendszerről szóló 1/2022. (I. 14.) AM rendelet 2. melléklete az 1. melléklet szerint lép hatályba.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
