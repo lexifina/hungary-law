@@ -1,6 +1,6 @@
 A Kormány
 
-1.[^1] egyetért a részére bemutatott koncepció szerint az Alkony program keretében idősek számára 150 férőhelyen otthont nyújtó szolgáltatást célzó beruházás (a továbbiakban: Beruházás) előkészítésével az ingatlan-nyilvántartás szerinti Balatonfüred belterület 633/1 helyrajzi számú ingatlanon;
+1.[^1] egyetért a részére bemutatott koncepció szerint az Alkony program keretében idősek számára otthont nyújtó szolgáltatást célzó beruházás (a továbbiakban: Beruházás) előkészítésével az ingatlan-nyilvántartás szerinti Balatonfüred belterület 633/1 helyrajzi számú ingatlanon;
 
 2. egyetért azzal, hogy a Beruházás előkészítése érdekében 400 000 000 forint összegű, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-ának hatálya alá tartozó költségvetési támogatás kerüljön biztosításra Balatonfüred Város Önkormányzata számára;
 
@@ -16,26 +16,27 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
 
-5.[^3] egyetért azzal, hogy a Beruházás
-
-a) előkészítője Balatonfüred Város Önkormányzata,
-
-b) megvalósítója a Beruházási Ügynökség
-
-legyen;
+5.[^3] a Beruházás előkészítésére és – az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdésében foglalt jogkörében eljárva – megvalósítására Balatonfüred Város Önkormányzatát jelöli ki;
 
 6.[^4] egyetért azzal, hogy a 2. pont szerinti összeg a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a)–f) és l)–m) pontja szerinti előkészítési fázisainak 2021. június 30. napjáig történő megvalósítására használható fel;
 
-7.[^5] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházás további előkészítésére és megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján nyújtson be előterjesztést a Kormány részére a Beruházás további előkészítéséről és megvalósításáról, a további előkészítéshez és kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezéséről, továbbá az emberi erőforrások minisztere bevonásával a Beruházás során létrejövő vagyonelemek tulajdoni viszonyaira, vagyonkezelőjére és üzemeltetési modelljére vonatkozó javaslat bemutatásával.
+7.[^5] felhívja az emberi erőforrások miniszterét, hogy Balatonfüred Város Önkormányzata felkérésével, a 6. pontban foglaltak szerint elkészült tervdokumentációk műszaki tartalmának csökkentését követően intézkedjen a Beruházás további előkészítésére és megvalósítására irányuló feltételes közbeszerzési eljárás megindításáról és lefolytatásáról;
 
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Felelős: emberi erőforrások minisztere
 
-emberi erőforrások minisztere
+Határidő: a felmerülés ütemében
 
-Határidő: a Beruházás további előkészítését és megvalósítását célzó feltételes közbeszerzési eljárást követően
+8.[^6] felhívja az emberi erőforrások miniszterét, hogy a Beruházás további előkészítésére és megvalósítására irányuló feltételes közbeszerzési eljárás eredménye alapján nyújtson be előterjesztést a Kormány részére a Beruházás további előkészítésének és megvalósításának forrásigényéről és ütemezéséről, valamint – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával – a Beruházás során létrejövő vagyonelemek tulajdoni viszonyaira, vagyonkezelőjére és üzemeltetési modelljére vonatkozó javaslat bemutatásával, azzal, hogy a Beruházás további előkészítésének és megvalósításának költségvetési támogatása az 5 000 000 000 forint (áfa nélküli) értéket nem haladhatja meg.
 
-[^1]: Az 1. pont az 1195/2021. (IV. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+Felelős: emberi erőforrások minisztere
+
+nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+Határidő: a Beruházás további előkészítését és megvalósítását célzó feltételes közbeszerzési eljárás lefolytatását követően
+
+[^1]: Az 1. pont az 1057/2022. (II. 15.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 4. pont az 1195/2021. (IV. 21.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: Az 5. pontot az 1195/2021. (IV. 21.) Korm. határozat 3. pontja iktatta be.
+[^3]: Az 5. pontot az 1195/2021. (IV. 21.) Korm. határozat 3. pontja iktatta be, szövege az 1057/2022. (II. 15.) Korm. határozat 2. pontjával megállapított szöveg.
 [^4]: A 6. pontot az 1195/2021. (IV. 21.) Korm. határozat 3. pontja iktatta be.
-[^5]: A 7. pontot az 1195/2021. (IV. 21.) Korm. határozat 3. pontja iktatta be.
+[^5]: A 7. pontot az 1195/2021. (IV. 21.) Korm. határozat 3. pontja iktatta be, szövege az 1057/2022. (II. 15.) Korm. határozat 3. pontjával megállapított szöveg.
+[^6]: A 8. pontot az 1057/2022. (II. 15.) Korm. határozat 4. pontja iktatta be.

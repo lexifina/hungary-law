@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1993-30
 | --- | --- | --- |
 | 2020-12-23 | 2020-1993-30-22.1 | 1993/2020. (XII. 23.) Korm. határozat |
 | 2021-04-21 | 2020-1993-30-22.2 | 1195/2021. (IV. 21.) Korm. határozat |
+| 2022-02-15 | 2020-1993-30-22.3 | 1057/2022. (II. 15.) Korm. határozat |
