@@ -69,3 +69,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2021-12-25 | 2021. évi CXXXIII. törvény | 2004-1-00-00.76 |
 | 2022-01-01 | 2021. évi CXXXIII. törvény | 2004-1-00-00.77 |
 | 2022-01-17 | 2021. évi CXXXIII. törvény | 2004-1-00-00.78 |
+| 2022-02-15 | 2021. évi CXX. törvény | 2004-1-00-00.79 |
