@@ -6,4 +6,6 @@ a) a kedvezmény, ekho-kedvezmény, valamint a visszatérítés előlegére jogo
 
 b) az (1) bekezdés szerint létrejövő adatfeldolgozói jogviszony alapján az EPDB Zrt. számára az a) pont szerinti adatok átadása.
 
-(3) Az EPDB Zrt. az (1) bekezdés szerinti kormányzati tájékoztatáshoz kapcsolódó, a tájékoztató levelek megszemélyesítésére és kiküldésére vonatkozó tevékenységet kizárólagos joggal látja el.
+(3)[^2]
+
+[^2]: Az 1. § (3) bekezdését a 37/2022. (II. 11.) Korm. rendelet 4. §-a hatályon kívül helyezte.
