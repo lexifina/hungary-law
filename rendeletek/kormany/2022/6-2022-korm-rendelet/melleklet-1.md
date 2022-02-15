@@ -1,5 +1,3 @@
-## 6. §[^2]
-
 1. melléklet a 6/2022. (I. 14.) Korm. rendelethez
 
 Hatósági áras termékek
@@ -17,5 +15,3 @@ Hatósági áras termékek
 | 5. | csirkemell, csirkefarhát – hát, egyben vagy külön far és szárnyvég (ideértve a csontos, bőrös, filézett, darabolt, szeletelt vagy darált formában, akár előrecsomagolva, akár anélkül történő értékesítést is, frissen, hűtve, fagyasztva) |
 
 | 6. | ultra magas hőmérsékleten hőkezelt, 2,8% tömegszázalék zsírtartalmú tehéntej |
-
-[^2]: A 6. § az 5. § (2) bekezdése alapján 2022. február 15-én lép hatályba.
