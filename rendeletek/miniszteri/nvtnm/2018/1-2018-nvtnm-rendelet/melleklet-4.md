@@ -68,33 +68,7 @@
 
 | 1. | Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság | 09-09-031988 | 2022. december 31. |
 
-## VI. Tulajdonosi joggyakorló: Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
-
-|  | A | B | C |
-
-| Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Belügyminisztérium HEROS Javító, Gyártó, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság | 01-10-044590 | 2022. december 31. |
-
-| 2. | HDT Védelmi Ipari Korlátolt Felelősségű Társaság | 01-09-345552 | 2022. december 31. |
-
-| 3. | NLP Nemzeti Légiipari Projekt Korlátolt Felelősségű Társaság | 01-09-370436 | 2022. december 31. |
-
-| 4. | Rába Járműipari Holding Nyrt. | 08-10-001532 | 2022. december 31. |
-
-| 5. | STU Repülés-technológiai Felületkezelő Korlátolt Felelősségű Társaság | 01-09-351886 | 2022. december 31. |
-
-| 6. | ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság | 20-10-040370 | 2022. december 31. |
-
-| 7. | AEROPLEX Közép-Európai Légijármű Műszaki Központ Korlátolt Felelősségű Társaság | 01-09-164863 | 2022. december 31. |
-
-| 8. | HM ArmCom Kommunikációtechnikai Zártkörűen Működő Részvénytársaság | 13-10-040111 | 2022. december 31. |
-
-| 9. | HM Arzenál Elektromechanikai Zártkörűen Működő Részvénytársaság | 15-10-040092 | 2022. december 31. |
-
-| 10. | HM CURRUS Gödöllői Harcjárműtechnikai Zártkörűen Működő Részvénytársaság | 13-10-040155 | 2022. december 31. |
-
-| 11. | HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság | 01-10-045570 | 2022. december 31. |
+## VI.
 
 ## VII. Tulajdonosi joggyakorló: a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 

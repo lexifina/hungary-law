@@ -16,11 +16,11 @@
 
 | 5. | Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-046265 | 2022. december 31. |
 
-| 6. | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2022. december 31. |
+| 6. |  |  |  |
 
 | 7. |  |  |  |
 
-| 8. | MAHART-Szabadkikötő Zártkörűen Működő Részvénytársaság | 01-10-045276 | 2022. december 31. |
+| 8. |  |  |  |
 
 | 9. | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 01-10-042272 | 2022. december 31. |
 
@@ -250,6 +250,28 @@
 
 | 22. | BrainVisionCenter Nonprofit Korlátolt Felelősségű Társaság | 01-09-395007 | 2022. december 31. |
 
+| 23. | Belügyminisztérium HEROS Javító, Gyártó, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság | 01-10-044590 | 2022. december 31. |
+
+| 24. | HDT Védelmi Ipari Korlátolt Felelősségű Társaság | 01-09-345552 | 2022. december 31. |
+
+| 25. | NLP Nemzeti Légiipari Projekt Korlátolt Felelősségű Társaság | 01-09-370436 | 2022. december 31. |
+
+| 26. | Rába Járműipari Holding Nyrt. | 08-10-001532 | 2022. december 31. |
+
+| 27. | STU Repülés-technológiai Felületkezelő Korlátolt Felelősségű Társaság | 04-09-016065 | 2022. december 31. |
+
+| 28. | ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság | 20-10-040370 | 2022. december 31. |
+
+| 29. | AEROPLEX Közép-Európai Légijármű Műszaki Központ Korlátolt Felelősségű Társaság | 01-09-164863 | 2022. december 31. |
+
+| 30. | HM ArmCom Kommunikációtechnikai Zártkörűen Működő Részvénytársaság | 13-10-040111 | 2022. december 31. |
+
+| 31. | HM Arzenál Elektromechanikai Zártkörűen Működő Részvénytársaság | 15-10-040092 | 2022. december 31. |
+
+| 32. | HM CURRUS Gödöllői Harcjárműtechnikai Zártkörűen Működő Részvénytársaság | 13-10-040155 | 2022. december 31. |
+
+| 33. | HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság | 01-10-045570 | 2022. december 31. |
+
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
 |  | A | B | C |
@@ -340,7 +362,7 @@
 
 | 2. | Start Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-045508 | 2022. december 31. |
 
-| 3. | Széchenyi Alapok Kockázati Tőkealap-kezelő Zártkörűen működő Részvénytársaság | 01-10-046411 | 2022. december 31. |
+| 3. |  |  |  |
 
 ## XII. Tulajdonosi joggyakorló: a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter
 
@@ -353,6 +375,10 @@
 | 2. | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság | 17-09-003039 | 2022. december 31. |
 
 | 3. | MÁTRAÉRC Bányászati Zártkörűen Működő Részvénytársaság | 01-10-049752 | 2022. december 31. |
+
+| 4. | "Pécs-pogányi repülőteret működtető Korlátolt Felelősségű Társaság | 02-09-065905 | 2022. december 31. |
+
+| 5. | AIR-HORIZONT PÉCS-POGÁNYI REPÜLŐTÉR FEJLESZTÉSÉÉRT Nonprofit Korlátolt Felelősségű Társaság | 02-09-074096 | 2022. december 31. |
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
