@@ -8,23 +8,7 @@
 
 ## Határidő: 3 463 725 000 forint tekintetében 2021. március 15., a fennmaradó 3 463 725 000 forint tekintetében 2021. július 15.
 
-## 3. felhívja az emberi erőforrások miniszterét, hogy – a pénzügyminiszter bevonásával – gondoskodjon a Társaság 2. pont szerinti többletfeladatai ellátásához
-
-## a) a 2022. évben 5 539 660 000 forint,
-
-## b) a 2023. évben 3 922 500 000 forint,
-
-## c) a 2024. évben 3 552 540 000 forint,
-
-## d) a 2025. évben 3 532 540 000 forint
-
-## rendelkezésre állásáról az adott évi központ költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében;
-
-## Felelős: emberi erőforrások minisztere
-
-## pénzügyminiszter
-
-## Határidő: az adott évi központi költségvetés tervezése során
+## 3.[^1]
 
 ## 4. egyetért azzal, hogy a 2. és 3. pontban meghatározott összeg terhére nyújtott támogatások tekintetében a kezelő szerv a Társaság legyen;
 
@@ -44,23 +28,7 @@
 
 ## a b) alpont szerinti célra 885 000 000 forint tekintetében 2021. március 15., a fennmaradó 885 000 000 forint tekintetében 2021. július 15.
 
-## 6. felhívja az emberi erőforrások miniszterét, hogy – a pénzügyminiszter bevonásával – gondoskodjon a Társaság 5. pont szerinti többletfeladatai ellátásához
-
-## a) a 2022. évben 7 186 000 000 forint,
-
-## b) a 2023. évben 8 669 000 000 forint,
-
-## c) a 2024. évben 8 019 000 000 forint,
-
-## d) a 2025. évben 7 749 000 000 forint
-
-## rendelkezésre állásáról az adott évi központ költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében;
-
-## Felelős: emberi erőforrások minisztere
-
-## pénzügyminiszter
-
-## Határidő: az adott évi központi költségvetés tervezése során
+## 6.[^2]
 
 ## 7. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Társaság részére az 5. pontban meghatározott támogatás biztosítása érdekében a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat kibocsátásáról;
 
@@ -76,7 +44,7 @@
 
 ## Határidő: 2021. március 31.
 
-## 9.[^1] felhívja az emberi erőforrások miniszterét, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával, a Petőfi Irodalmi Múzeum útján dolgozza ki az egyes ingatlanok lehetséges hasznosításáról szóló részletes szakmai koncepciót, különös tekintettel a fenntartás és üzemeltetés feladataira, költségeire, és készítsen arról előterjesztést a Kormány részére;
+## 9.[^3] felhívja az emberi erőforrások miniszterét, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával, a Petőfi Irodalmi Múzeum útján dolgozza ki az egyes ingatlanok lehetséges hasznosításáról szóló részletes szakmai koncepciót, különös tekintettel a fenntartás és üzemeltetés feladataira, költségeire, és készítsen arról előterjesztést a Kormány részére;
 
 ## Felelős: emberi erőforrások minisztere
 
@@ -84,11 +52,7 @@
 
 ## Határidő: 2022. május 31.
 
-## 10. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket a Társaság tulajdonosi joggyakorlóként történő kijelöléséről a MANK Magyar Alkotóművészeti Közhasznú Nonprofit Korlátolt Felelősségű Társaság vonatkozásában.
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: azonnal
+## 10.[^4]
 
 1. melléklet az 1108/2021. (III. 10.) Korm. határozathoz
 
@@ -102,4 +66,7 @@
 
 | 4. | Magyar Írók Háza | 1062 Budapest, Bajza utca 18. | 29610/0/A/2 |
 
-[^1]: A 9. pont az 1600/2021. (VIII. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: A 3. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont b) alpontja visszavonta.
+[^2]: A 6. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont b) alpontja visszavonta.
+[^3]: A 9. pont az 1600/2021. (VIII. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 10. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont b) alpontja visszavonta.
