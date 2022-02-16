@@ -1,5 +1,6 @@
 ## 3. §[^1]
 
-4. § Hatályát veszti a veszélyhelyzetre tekintettel a gyermeket nevelő magánszemélyek adóvisszatérítésével kapcsolatos egyéb intézkedésekről szóló 5/2022. (I. 12.) Korm. rendelet 1. § (3) bekezdése.
+4. §[^2]
 
 [^1]: A 3. § a 2. § (3) bekezdése alapján 2022. február 26-án lép hatályba.
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
