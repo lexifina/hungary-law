@@ -1,0 +1,49 @@
+## 1. A Kormány
+
+## a) a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés c) és f) pontjában meghatározott feladatkörében eljárva egyetért a KEHOP-3.2.1-15-2018-00031 azonosító számú, „A hulladékgazdálkodási rendszer fejlesztése a Mórahalmi és Kisteleki járásban, illetve Domaszék és Szatymaz településeken, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre” című projekt (a továbbiakban: projekt) támogatásának növelésével, az 1. melléklet szerint;
+
+## b) az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet (a továbbiakban: Kormányrendelet) 6/A. §-a alapján úgy határoz, hogy a projekt keretemelése és annak végrehajtása során a Kormányrendelet 5. §-át nem kell alkalmazni;
+
+## c) egyetért a projekt vonatkozásában
+
+## ca) az 1. melléklet szerinti többlettámogatásnak a Környezeti és Energiahatékonysági Operatív Program (a továbbiakban: KEHOP) tekintetében az operatív programot finanszírozó Kohéziós Alapra meghatározott maximális kötelezettségvállalási szint eléréséig rendelkezésre álló keret terhére, valamint
+
+## cb) az 1. mellékletben foglalt táblázat P:4 és Q:4 mezőjében meghatározott összegnek a Magyarország központi költségvetéséről szóló törvény XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezet KEHOP-előirányzat hazai társfinanszírozásán felüli felhasználásával
+
+## történő finanszírozásával;
+
+## d) felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a projekt támogatási szerződésének az 1. melléklet szerinti módosításáról;
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: 2022. február 28.
+
+## e) felhívja az innovációért és technológiáért felelős minisztert, hogy biztosítsa, hogy a 2021–2027 közötti európai uniós programozási időszak Magyarország számára elérhető európai uniós források felhasználása keretrendszerének tervezése és kialakítása során a projekt élvezzen elsőbbséget, és tegye meg a szükséges intézkedéseket a projekt európai uniós elszámolhatósága érdekében;
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: a felmerülés ütemében
+
+## f) egyetért azzal, hogy az 1. pont e) alpontja szerinti átforgatás megvalósításáig a projekt 2023. december 31-ét követően felmerült költségeire – szükség esetén – a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján – a Magyarország központi költségvetéséről szóló törvény XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezetében a Környezeti és Energiahatékonysági Operatív Program hazai társfinanszírozáson felüli felhasználásával kerüljön biztosításra a fedezet.
+
+## 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat
+
+## a) 2. mellékletében foglalt táblázat D:351f. mezőjében a „2,20” szövegrész helyébe a „3,86” szöveg,
+
+## b) 2. mellékletében foglalt táblázat E:351f. mezőjében a „0,25” szövegrész helyébe a „0,45” szöveg
+
+## lép.
+
+1. melléklet az 1063/2022. (II. 15.) Korm. határozathoz
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Projekt eredeti támogatási intenzitása és forrásszerkezete | Változás | Projekt támogatási intenzitása és forrásszerkezete a módosítás után | Projekt összköltsége (Ft) | Projekt rövid bemutatása |
+
+| 2. | Projekt támogatási intenzitása (%) | Projekt KEHOP keretében finanszírozandó támogatásának összege (Ft) | Projekt részére az KEHOP-előirányzat hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás | Projekt támogatási intenzitása (%) | Projekt KEHOP keretében finanszírozandó támogatásának összege (Ft) | Projekt részére az KEHOP-előirányzat hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás | Projekt támogatási intenzitása (%) | Projekt KEHOP keretében finanszírozandó támogatás összege (Ft) | Projekt részére az KEHOP-előirányzat hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás |
+
+| 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
+
+| 4. | KEHOP- 3.2.1-15- 2018-00031 | A hulladék- gazdálkodási rendszer fejlesztése a Mórahalmi és Kisteleki járásban, illetve Domaszék és Szatymaz településeken, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Homokháti Önkormányzatok Kistérségfejlesztési Társulása az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvíz- elvezetési és -tisztítási, a hulladék- gazdálkodási és az ivóvízminőség- javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 89,795918 | 2 199 999 991 | 250 000 009 | 63 583 380 | 0 | –0,064078 | +1 652 356 853 | +190 831 433 | –33 646 376 | 0 | 89,731840 | 3 852 356 844 | 440 831 442 | 29 937 004 | 0 | 4 323 125 290 | A projekttel szembeni szakmai elvárás a projektterületen élők megfelelő hulladékgazdálkodási közszolgáltatással történő ellátásának biztosítása az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek megfelelően. A projekt keretében a Mórahalmi és Kisteleki járásban, illetve Domaszék és Szatymaz településeken a hulladékgazdálkodás rendszerének továbbfejlesztése történik meg, különös tekintettel az elkülönített hulladékgyűjtésre. |
