@@ -1,3 +1,3 @@
-4. §[^1]
+4. §[^2]
 
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^2]: A 4. § a 3. § (2) bekezdése alapján 2022. március 1-jén lép hatályba.
