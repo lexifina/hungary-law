@@ -28,4 +28,6 @@ e) a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit 
 
 7. A kormánybiztos tevékenységét a Miniszterelnökség szervezetében működő ötfős titkárság (munkacsoport) segíti.
 
-8. Ez a határozat a közzétételét követő napon lép hatályba, és 2022. február 21-én hatályát veszti.
+8.[^1] Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 8. pont az 1056/2022. (II. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
