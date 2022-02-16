@@ -1,0 +1,56 @@
+# A Kormány 43/2022. (II. 16.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 28. szám, 2022. február 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/yPPgVcPtMDa1BW0Bzec46206b235b1f07/dokumentumok/d0484e32632edb958f6dff386e0af7b2e7b92e59/letoltes)
+
+---
+
+A Kormány 43/2022. (II. 16.) Korm. rendelete
+a Covid–19 megbetegedés ellen külföldön kapott védőoltásoknak az Elektronikus Egészségügyi
+Szolgáltatási Térbe történő bejelentéséről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+az 5. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány elleni védekezésről szóló 2021. évi I. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet 3. § (2a) bekezdése szerinti külföldi
+államban, az Európai Unióban, illetve a Magyarországon engedélyezett és a lakosság oltására felhasznált COVID–19
+oltóanyaggal (a továbbiakban: védőoltás) beoltott
+a) magyar állampolgár, valamint
+b) a Magyarország területén 180 napon belül 90 napot meghaladóan jogszerűen tartózkodó nem magyar
+állampolgár
+e rendelet szerint kérheti védőoltásának bejegyzését az Elektronikus Egészségügyi Szolgáltatási Térbe
+(a továbbiakban: EESZT).
+2. § (1) A védőoltás EESZT-be történő bejegyzésére az 1. § a) vagy b) pontja szerinti személy (a továbbiakban együtt:
+érintett) bejelentése alapján kerül sor.
+(2) Az érintett az (1) bekezdés szerinti bejelentését megteheti
+a) személyesen bármely kormányablakban,
+b) írásban a lakcíme szerint illetékes járási hivatalban vagy
+c) elektronikus úton a fővárosi és megyei kormányhivatal által rendszeresített elektronikus űrlapon.
+(3) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
+a) az érintett természetes személyazonosító adatait,
+b) az érintett személyazonosság igazolására alkalmas hatósági igazolványa számát,
+c) az oltás tényének külföldi hatóság vagy az oltást végző egészségügyi szolgáltató által kiállított magyar
+vagy angol nyelvű igazolását, más idegen nyelvű igazolás esetén annak hiteles magyar fordítását, azzal,
+hogy az igazolásnak tartalmaznia kell a Covid19-világjárvány idején a szabad mozgás megkönnyítése
+érdekében az interoperábilis, Covid19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok
+(uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló,
+2021. június 14-i (EU) 2021/953 európai parlamenti és tanácsi rendelet (a továbbiakban: EUr.)
+Melléklet (1) bekezdés c)–j) pontjában meghatározottakat, valamint
+d) az érintett Társadalombiztosítási Azonosító Jelét, ha azzal rendelkezik.
+(4) Az érintett a (3) bekezdés c) pontja szerinti adatokat az EUr. szerinti, külföldi állam által kiállított digitális
+Covid-igazolvánnyal is igazolhatja.
+3. §
+A 2. § (2) bekezdése szerinti szerv bejelentés esetén haladéktalanul intézkedik, hogy a feladat- és hatáskörrel
+rendelkező egészségügyi szolgáltató a 2. § (3) bekezdés c) pontja szerinti igazolás adatait az EESZT-ben rögzítse.
+A 2. § (3) bekezdése szerinti adatokat a 2. § (2) bekezdése szerinti szerv azok továbbításáig kezeli.
+4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 5. napon lép hatályba.
+(2) Az 5. § az e rendelet kihirdetését követő 19. napon lép hatályba.
+
+5. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
+hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát
+veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
