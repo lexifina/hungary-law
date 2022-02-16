@@ -38,4 +38,6 @@
 
 | 18 | Onkoteam jegyzőkönyv | 1 óra | kötelező |
 
+| 19 | Várandósság megállapítása és rizikófelmérés | 1 óra | kötelező |
+
 5. melléklet a 39/2016. (XII. 21.) EMMI rendelethez

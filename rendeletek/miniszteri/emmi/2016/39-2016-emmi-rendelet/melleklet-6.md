@@ -2,7 +2,7 @@
 
 ## Az Eüak. 15. §-a szerinti mikrobiológiai laboratórium vizsgálatának eredményéről teljesítendő jelentés.
 
-6. melléklet a 39/2016. (XII. 21.) EMMI rendelethez[^29]
+6. melléklet a 39/2016. (XII. 21.) EMMI rendelethez[^32]
 
 ## EESZT csatlakozáshoz használt informatikai rendszerek felhasználási területei
 
@@ -38,4 +38,4 @@ II. Működési módok szerinti felhasználási területek
 
 – Alkalmasság egyidejűleg több szolgáltató támogatására
 
-[^29]: A 6. mellékletet a 37/2020. (X. 30.) EMMI rendelet 7. § (3) bekezdése iktatta be.
+[^32]: A 6. mellékletet a 37/2020. (X. 30.) EMMI rendelet 7. § (3) bekezdése iktatta be.

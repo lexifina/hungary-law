@@ -8,13 +8,13 @@
 
 | 2 | Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 91. és 92. §-a szerinti fekvőbeteg-szakellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – beutaló vagy a beutalást megalapozó ellátás adatai (a felvétel jellege) – beutaló orvos azonosítója – beutaló orvos munkahelye – finanszírozás típusa – finanszírozási törzsszám – beutaló/iránydiagnózis – az ellátást végző kórházi osztály finanszírozási szerződés szerinti 9 karakteres kódja – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója – az elektronikus beutaló EESZT azonosítója – szakmakód | 1 óra |
 
-| 3 | Az Eütv. 91. és 92. §-a szerinti fekvőbeteg-szakellátás befejezése | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – a beteg további sorsa* – az elektronikus beutaló EESZT azonosítója | 1 óra |
+| 3 | Az Eütv. 91. és 92. §-a szerinti fekvőbeteg- szakellátás befejezése | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – a beteg további sorsa* – az elektronikus beutaló EESZT azonosítója | 1 óra |
 
 | 4 | Az Eütv. 89. és 90. §-a szerinti járóbeteg-szakellátás megkezdése (kivéve: fogászati szakellátás, laboratóriumi diagnosztikai vizsgálat) | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – beutaló vagy a beutalást megalapozó ellátás adatai (a felvétel jellege) – beutaló orvos azonosítója – beutaló orvos munkahelye – finanszírozás típusa – naplósorszám – beutaló/iránydiagnózis – az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója – az elektronikus beutaló EESZT azonosítója – szakmakód | 1 óra |
 
-| 5 | Az Eütv. 89. és 90. §-a szerinti járóbeteg-szakellátás befejezése (kivéve: fogászati szakellátás, laboratóriumi diagnosztikai vizsgálat) | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés – az elektronikus beutaló EESZT azonosítója | 1 óra |
+| 5 | Az Eütv. 89. és 90. §-a szerinti járóbeteg-szakellátás befejezése (kivéve: fogászati szakellátás, laboratóriumi diagnosztikai vizsgálat) | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – továbbküldés – az elektronikus beutaló EESZT azonosítója | 1 óra |
 
-| 6 | Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti háziorvosi, házi gyermekorvosi ellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – az ellátás típusa – az ellátás helye – az ellátás oka – térítési kategória – a szolgáltatási egység kódja (háziorvosi szolgálat esetén az országos nyilvántartási szám) – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója | 1 óra |
+| 6 | Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti háziorvosi, házi gyermekorvosi ellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ, vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – az ellátás típusa – az ellátás helye – az ellátás oka – térítési kategória – a praxisközösségben elszámolható tevékenységek – a szolgáltatási egység kódja (háziorvosi szolgálat esetén az országos nyilvántartási szám) – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója | 1 óra |
 
 | 7 | Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti háziorvosi, házi gyermekorvosi ellátás befejezése | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés | 1 óra |
 
@@ -36,13 +36,13 @@
 
 | 16 | SBO esemény lezárása | – továbbküldés, a beteg további sorsa | 1 óra |
 
-| 17 | Fogorvosi és gyermekfogorvosi alapellátási esemény megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – a kezelést végző orvos azonosítója – naplósorszám – az elektronikus beutaló EESZT azonosítója – az ellátás típusa | 1 óra |
+| 17 | Fogorvosi és gyermekfogorvosi alapellátási esemény megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – a kezelést végző orvos azonosítója – naplósorszám – az elektronikus beutaló EESZT azonosítója – az ellátás típusa – a praxisközösségben elszámolható tevékenységek | 1 óra |
 
 | 18 | Fogorvosi és gyermekfogorvosi alapellátási esemény lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés – az elektronikus beutaló EESZT azonosítója | 1 óra |
 
 | 19 | Fogászati szakellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – a kezelést végző orvos azonosítója – naplósorszám – beutaló orvos azonosítója – beutaló orvos munkahelye – beutaló vagy a beutalást megalapozó ellátás adatai (a felvétel jellege) – az elektronikus beutaló EESZT azonosítója – az ellátás típusa – szakmakód | 1 óra |
 
-| 20 | Fogászati szakellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés – az elektronikus beutaló EESZT azonosítója | 1 óra |
+| 20 | Fogászati szakellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – az elektronikus beutaló EESZT azonosítója | 1 óra |
 
 | 21 | A 26/1997. (IX. 3.) NM rendelet 4. melléklet 1. és 3. pontja szerinti iskolafogászati ellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – a kezelést végző orvos azonosítója – naplósorszám – az elektronikus beutaló EESZT azonosítója – az ellátás típusa | 1 óra |
 
@@ -72,7 +72,7 @@
 
 | 34 | Pszichoterápia, klinikai szakpszichológiai, neuropszichológiai és alkalmazott egészségpszichológiai ellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – beutaló orvos azonosítója – beutaló orvos munkahelye – finanszírozás típusa – naplósorszám – az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja – az ellátásért felelős személy (orvos, klinikai szakpszichológus) azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója – az elektronikus beutaló EESZT azonosítója – szakmakód | 1 óra |
 
-| 35 | Pszichoterápia, klinikai szakpszichológiai, neuropszichológiai és alkalmazott egészségpszichológiai ellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az elektronikus beutaló EESZT azonosítója | 1 óra |
+| 35 | Pszichoterápia, klinikai szakpszichológiai, neuropszichológiai és alkalmazott egészségpszichológiai ellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – az elektronikus beutaló EESZT azonosítója | 1 óra |
 
 | 36 | 11/1997. (V. 28.) NM rendelet szerinti, csak orvos által végezhető nem-konvencionális tevékenység megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – naplósorszám (az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója) – az ellátásért felelős személy orvos azonosítója – szakmakód | 1 óra |
 
@@ -104,11 +104,11 @@
 
 | 50 | Foglalkozás-egészségügyi szakellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – naplósorszám (az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója) – az ellátásért felelős orvos azonosítója | 1 óra |
 
-| 51 | Foglalkozás-egészségügyi szakellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója | 1 óra |
+| 51 | Foglalkozás- egészségügyi szakellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások | 1 óra |
 
 | 52 | Rend- és honvédelmi dolgozók orvosi ellátásának megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – az ellátás típusa – az ellátás helye – az ellátás oka – a szolgáltatási egység kódja – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója | 1 óra |
 
-| 53 | Rend- és honvédelmi dolgozók orvosi ellátásának befejezése | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés | 1 óra |
+| 53 | Rend- és honvédelmi dolgozók orvosi ellátásának befejezése | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – továbbküldés | 1 óra |
 
 ## Jelmagyarázat:
 
