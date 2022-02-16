@@ -1,3 +1,5 @@
-## 2. § Hatályát veszti az állami tulajdonú befektetési jegyek tulajdonosi joggyakorlójának kijelöléséről, valamint az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2018. (VI. 25.) NVTNM rendelet módosításáról szóló 23/2021. (XII. 3.) NVTNM rendelet.
+## 2. §[^3]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
