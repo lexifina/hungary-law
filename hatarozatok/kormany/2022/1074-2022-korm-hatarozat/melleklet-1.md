@@ -66,30 +66,9 @@
 
 ## Határidő: a felmerülés ütemében
 
-## 2. A Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 2.[^1]
 
-1. melléklet az 1074/2022. (II. 16.) Korm. határozathoz
+1. melléklet az 1074/2022. (II. 16.) Korm. határozathoz[^2]
 
-A Korm. határozat 1. mellékletében foglalt táblázat a következő sorokkal egészül ki:
-
-| Budai Irgalmasrendi Kórház |
-
-| Fekvőbeteg-szakellátás |
-
-| szakmakód | szakma | aktív ágyszám | krónikus ágyszám | többletkapacitásnak minősülő eszköz befogadása | db | súlyszám/hó |
-
-| 0405 | Szülészet és neonatológia | 15 | – | CT | 1 | 50 |
-
-| Járóbeteg-ellátás |
-
-|  |  |  |  | óraszám/hét |
-
-|  | szülészet |  |  | 60 |
-
-|  | neonatológia |  |  | 10 |
-
-| Laboratóriumi ellátás |
-
-|  |  |  |  |  |  | pontszám/hó |
-
-|  |  |  |  |  |  | 1 000 000 |
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
