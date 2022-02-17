@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:371 mezőjében az „1,71” szövegrész helyébe a „2,37” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1064/2022. (II. 15.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.1.0-15- 2016-00013 | A Hanság természetes élőhelyeinek komplex helyreállítása és fejlesztése – élőhelyfejlesztési beavatkozások | Fertő-Hanság Nemzeti Park Igazgatóság (konzorciumvezető), Kisalföldi Erdőgazdaság Zártkörűen Működő Részvénytársaság | 1 700 859 245 | 659 655 129 | 2 360 514 374 | A projekttel szembeni szakmai elvárás a „Hanság” Natura 2000 terület 1. élőhelyeinek tájléptékű helyreállítása, a védett és közösségi jelentőségű természeti értékek megőrzéséhez szükséges feltételek biztosítása 8897,6 hektáron, 2. gyepterületei ökológiai szempontú fenntartásához szükséges legeltetési infrastruktúra kialakítása, fejlesztése, 3. fejlesztéseit megalapozó ökológiai információk, valamint a projekt céljainak és eredményeinek bemutatása. A projekt indikátora: A jobb védettségi állapot érdekében támogatott élőhelyek területe 8897,6 hektár. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
