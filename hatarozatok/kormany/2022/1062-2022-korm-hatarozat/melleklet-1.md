@@ -16,13 +16,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat
-
-## a) 2. mellékletében foglalt táblázat D:33 mezőjében a „14,22” szövegrész helyébe a „14,97” szöveg,
-
-## b) 2. mellékletében foglalt táblázat E:33 mezőjében a „14,22” szövegrész helyébe a „14,97” szöveg
-
-## lép.
+## 4.[^1]
 
 1. melléklet az 1062/2022. (II. 15.) Korm. határozathoz
 
@@ -33,3 +27,5 @@
 | 2. | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó, forint) | A 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján a KEHOP előirányzat hazai társfinanszírozása terhére finanszírozandó összeg (bruttó, forint) | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó, forint) | A 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján a KEHOP előirányzat hazai társfinanszírozása terhére finanszírozandó összeg (bruttó, forint) | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó, forint) | A 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján a KEHOP előirányzat hazai társfinanszírozása terhére finanszírozandó összeg (bruttó, forint) |
 
 | 3. | KEHOP-1.3.0- 15-2016-00012 | Mosoni-Duna torkolati szakaszának vízszint rehabilitációja | Országos Vízügyi Főigazgatóság (konzorciumvezető), Észak-dunántúli Vízügyi Igazgatóság | 14 216 157 050 | 14 216 157 050 | 746 497 450 | 746 497 450 | 14 962 654 500 | 14 962 654 500 | A projekttel szembeni szakmai elvárás a Mosoni-Duna torkolati műtárgy létesítése, amelynek eredményeként javulnak a vízkészletekkel történő fenntartható gazdálkodás feltételei. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
