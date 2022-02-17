@@ -132,12 +132,14 @@
 
 | 65. | Új konferenciaközpont építésére irányuló beruházás | Hajdúszoboszló belterület 3529 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 66. | Hauszmann Emlékház/Annavölgyi fejlesztési programmal összefüggő beruházások | Szentendre külterület 0220/1, 0231, 0232/2, 0232/3, 0600/3, 0600/6, 0603/3, 0603/3/A, 0603/3/B, 0603/3/C, 0603/3/D, 0603/3/F, 0603/4 és 0603/5 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+| 66. | Hauszmann Emlékház/Annavölgyi szakiskola/turistaház fejlesztési programmal összefüggő beruházások | Szentendre külterület 0220/1, 0231, 0232/2, 0232/3, 0600/3, 0600/6, 0603/3, 0603/3/A, 0603/3/B, 0603/3/C, 0603/3/D, 0603/3/F, 0603/4 és 0603/5 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 67. | Csenger településen új büntetés- végrehajtási intézet megvalósítása | Csenger külterületi 0149/41 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 68. | A Károli Gáspár Református Egyetem oktatási feladatai ellátásának elősegítése érdekében átfogó egyetemi campus céljára történő funkcióbővítő felújítás és átalakítás | Budapest IX. kerület belterület, 36971 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^139]
+| 69. | Budapesti oktatási célú beruházás | Budapest XI. kerület belterület, 5063 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^139]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^142]
+
+[^142]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

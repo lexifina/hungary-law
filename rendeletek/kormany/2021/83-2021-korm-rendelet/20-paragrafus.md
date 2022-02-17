@@ -1,4 +1,4 @@
-## 19. §[^66] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 296/2021. (V. 31.) Korm. rendelettel (a továbbiakban: Módr11.) megállapított 2. mellékletében foglalt táblázat A:10 mezőjét a Módr11. hatálybalépésekor[^67] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 19. §[^67] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 296/2021. (V. 31.) Korm. rendelettel (a továbbiakban: Módr11.) megállapított 2. mellékletében foglalt táblázat A:10 mezőjét a Módr11. hatálybalépésekor[^68] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^66]: A 19. §-t a 296/2021. (V. 31.) Korm. rendelet 1. §-a iktatta be.
-[^67]: A hatálybalépés időpontja 2021. június 1.
+[^67]: A 19. §-t a 296/2021. (V. 31.) Korm. rendelet 1. §-a iktatta be.
+[^68]: A hatálybalépés időpontja 2021. június 1.
