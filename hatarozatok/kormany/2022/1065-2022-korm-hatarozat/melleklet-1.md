@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:431 mezőjében a „0,27” szövegrész helyébe a „0,53” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1065/2022. (II. 15.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.1.0-15- 2016-00071 | Natura 2000 vizes élőhelyek bemutatása a Duna–Tisza közén | Kiskunsági Nemzeti Park Igazgatóság | 270 000 000 | 257 002 163 | 527 002 163 | A projekt célja a Kiskunság egyedülálló természeti értékeit reprezentáló Duna–Tisza közi Natura 2000 területek, illetve nemzeti parki területek bemutatása, széles körű megismertetése, a helyi adottságokhoz illeszkedve: a Turjánvidéken található Vörös-mocsárban körútszerűen kiépített terepi bemutatóútvonal kiépítése, szabadtéri foglalkoztató, kilátótornyok, madárgyűrűző és halászati bemutatólétesítmények, pihenőhely kialakítása, Natura 2000 területeket bemutató központ építése a Kolon-tó (Izsák) partján, továbbá a térség Natura 2000 területeit, természeti és kultúrtörténeti értékeit bemutató kiállításnak, szakmai rendezvényeknek, ökoturisztikai jellegű programoknak helyet adó Kurgán Természetvédelmi Bemutatóház létesítése a szegedi Fehér-tónál. A projekt indikátora „A Natura 2000 területek bemutatásához kapcsolódó kommunikációs akciókban aktívan résztvevő lakosság száma”, 3800 fő célértékkel. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
