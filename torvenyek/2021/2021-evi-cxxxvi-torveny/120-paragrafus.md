@@ -8,7 +8,7 @@ c)
 
 d)
 
-e)
+e) 20. § (11) bekezdés záró szövegrészében a „c) és d)” szövegrész helyébe a „c), d) és q)” szöveg,
 
 f)
 
