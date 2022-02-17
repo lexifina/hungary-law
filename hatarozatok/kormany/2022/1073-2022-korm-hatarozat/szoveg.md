@@ -56,8 +56,6 @@ Határidő: a források rendelkezésre állását követő 45 napon belül
 
 12. egyetért azzal, hogy az Alapítvány a közfeladatai ellátása, illetve a közérdekű céljai elérése érdekében, valamint az 1–4. és a 6. pontban foglalt feladatai ellátása érdekében, az 5., 7. és 8. pont alapján biztosított költségvetési támogatások terhére – a KEKVA tv. 17. § (8) bekezdése szerinti – támogatást nyújthasson harmadik személyek javára;
 
-13. visszavonja
+13.[^1]
 
-a) az 1805/2020. (XI. 17.) Korm. határozat 6. pontját, valamint
-
-b) az 1108/2021. (III. 10.) Korm. határozat 3., 6. és 10. pontját.
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
