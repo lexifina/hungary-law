@@ -48,6 +48,8 @@ o) a Nemzeti Tengelysúlymérő Rendszer keretében végzett mérés eredménye 
 
 p) a közúti közlekedési ellenőrzés lefolytatására, annak során hozott hatósági intézkedésekre
 
+q) a külföldi járművezető által végzett közúti szállítás kiküldetési előírásaira
+
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (1a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés – az (1c) bekezdésben meghatározott kivételre is figyelemmel – az (1) bekezdés a)–d), f)–j), l), n) és q) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint rendkívül súlyos vagy nagyon súlyos fokúnak minősül.
@@ -110,6 +112,8 @@ bb) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is
 
 bc) az (1) bekezdés a) pontja szerinti, a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött nemzetközi közúti közlekedési szolgáltatás tekintetében és az (1) bekezdés h) pontja szerinti, a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének tekintetében közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
 
+bd) az (1) bekezdés q) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság,
+
 c) az üzemben tartó telephelyén, a fel-, át- és lerakóhelyeken, illetve más, az árukezelés céljából üzemeltetett területen
 
 ca) a közlekedési hatóság, a rendőrség, és a vámhatóság,
@@ -126,7 +130,7 @@ g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési ható
 
 h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság és a katasztrófavédelmi hatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
 
-jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a foglalkoztatás-felügyeleti hatóság is bevonható.
+jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c), d) és q) pontjában meghatározott ellenőrzésébe a foglalkoztatás-felügyeleti hatóság is bevonható.
 
 (11a) Az (1) bekezdés k) pontja tekintetében ellenőrzésre jogosult a katonai rendészeti szolgálat is a Magyar Honvédség személyi állománya, valamint a honvédségi gépjárművek vonatkozásában. A katonai rendészeti szolgálat az általa feltárt szabályszegések esetén az ügy iratait megküldi a rendőrség részére.
 
