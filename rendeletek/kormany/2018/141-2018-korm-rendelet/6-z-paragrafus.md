@@ -4,7 +4,7 @@ a) a hatályos településrendezési tervek és az OTÉK előírásait a (2)–(
 
 b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
-(2) A 9. mellékletben foglalt táblázat szerinti földrészlet ipari tevékenységhez köthető egyéb ipari gazdasági terület, amelyen az ipari tevékenységhez kapcsolódó épületek, közmű, hírközlési, raktározási és gazdasági rendeltetésű építmények, közműpótló műtárgyak és azok kiszolgálóépítményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(2)[^90] A 9. mellékletben foglalt táblázat szerinti földrészlet, valamint a Nyíregyháza külterület 01472/1, 01472/2, 01468/6, 01468/7, 01468/8, 01468/11, 01468/13, 01469, 01470/1, 01470/2, 01470/3, 01470/4, 01470/5, 01470/6, 01470/7, 01470/8, 01470/9, 01470/10 és 01471 helyrajzi számú földrészlet ipari tevékenységhez köthető egyéb ipari gazdasági terület, amelyen az ipari tevékenységhez kapcsolódó épületek, közmű, hírközlési, raktározási és gazdasági rendeltetésű építmények, közműpótló műtárgyak és azok kiszolgálóépítményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a telkek beépítési módja szabadon álló,
 
@@ -45,3 +45,4 @@ i) a telek homlokvonalától mért 10 méteres sávban parkoló, a terepszint al
 (8) A (6) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
 [^89]: A 6/Z. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
+[^90]: A 6/Z. § (2) bekezdés nyitó szövegrésze a 47/2022. (II. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 85. §[^244] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 25/2022. (I. 27.) Korm. rendelettel (a továbbiakban: Módr77.) módosított 3. § (3) bekezdését, 5/B. §-át és 2. mellékletében foglalt táblázat 87. sorát a Módr77. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 86. §[^246] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 47/2022. (II. 17.) Korm. rendelettel (a továbbiakban: Módr78.) módosított 6/Z. § (2) bekezdését, valamint a 2. mellékletében foglalt táblázat B:78 mezőjét a Módr78. hatálybalépésekor[^247] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^245] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^248] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,5 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^244]: A 85. §-t a 25/2022. (I. 27.) Korm. rendelet 2. §-a iktatta be.
-[^245]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^246]: A 86. §-t a 47/2022. (II. 17.) Korm. rendelet 1. §-a iktatta be.
+[^247]: A hatálybalépés időpontja 2022. február 18.
+[^248]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
