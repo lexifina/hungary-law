@@ -6,9 +6,9 @@ b) a „Lakásépítés és -vásárlás munkáltatói támogatása” számla �
 
 c) az előző évben az erre a célra rendelkezésre állt keret pénzmaradványa,
 
-d)[^254] a HM rendelkezésű lakóépületek, lakások elidegenítéséből és egyéb hasznosításából származó, jogszabály alapján a honvédelmi szervezet költségvetését megillető bevétel,
+d)[^257] a HM rendelkezésű lakóépületek, lakások elidegenítéséből és egyéb hasznosításából származó, jogszabály alapján a honvédelmi szervezet költségvetését megillető bevétel,
 
-e)[^255] jogszabályi felhatalmazás alapján a honvédelmi szervezet költségvetéséből e célra átcsoportosított keret.
+e)[^258] jogszabályi felhatalmazás alapján a honvédelmi szervezet költségvetéséből e célra átcsoportosított keret.
 
-[^254]: A 178. § d) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^255]: A 178. § e) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^257]: A 178. § d) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^258]: A 178. § e) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.

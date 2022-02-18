@@ -1,6 +1,6 @@
 ## Albérletidíj-hozzájárulás
 
-## 213. §[^320] E rendelet alkalmazásában albérleti díj hozzájárulás a honvédelmi szervezet állományába tartozó kormánytisztviselő és kormányzati ügykezelő részére a munkahely szerinti településen vagy annak vonzáskörzetében
+## 213. §[^323] E rendelet alkalmazásában albérleti díj hozzájárulás a honvédelmi szervezet állományába tartozó kormánytisztviselő és kormányzati ügykezelő részére a munkahely szerinti településen vagy annak vonzáskörzetében
 
 a) magán-, állami, továbbá önkormányzati tulajdonú lakás egy részének bérletéhez,
 
@@ -12,4 +12,4 @@ d) lakásnak lízingbe adására jogosult gazdálkodó szervezettől való lízi
 
 nyújtott lakhatási támogatás.
 
-[^320]: A 213. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított, nyitó szövegrésze a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^323]: A 213. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított, nyitó szövegrésze a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.

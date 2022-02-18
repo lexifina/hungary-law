@@ -4,7 +4,7 @@
 
 (3) A megfelelő elhelyezésre jogosult részére – kérelmére – a HM központi lakásgazdálkodási szerv engedélyével az (1) bekezdés szerinti lakás más településen is bérbe adható, ha az lakásgazdálkodási érdeket nem sért. Ha azonban a lakás a lakásgazdálkodási szerv illetékességébe utalt településen van, a központi lakásgazdálkodási szerv engedélye nem szükséges.
 
-(4)[^174] Ha a helyi lakásgazdálkodási szerv a megfelelő elhelyezés feltételeinek megfelelő másik lakást a jogcím nélküli lakáshasználat megállapításától számított 60 napon belül nem tud felajánlani, a jogcím nélkül használt lakást kell megfelelő elhelyezés címén a jogosultnak felajánlani.
+(4)[^174] Ha az elhelyezésre jogosult jogcím nélküli lakáshasználó által használt lakás az elhelyezési igénynek megfelelő szobaszámú vagy annál legfeljebb egy lakószobával nagyobb, akkor az így használt lakás is bérbe adható, ha az nem sérti a lakásgazdálkodási érdekeket. Ha a jogcím nélkül használt lakás az (1) bekezdésben meghatározott mértéknél több mint egy lakószobával nagyobb, a lakás megfelelő elhelyezés címén a közigazgatási államtitkár előzetes hozzájárulásával adható bérbe.
 
 (5) Megfelelő elhelyezésként lehetőség szerint önkormányzati tulajdonú lakást kell adni; ilyenkor a bérlőkijelölés (kiválasztás) csak a bérlő (bérlőtársak), a vele együtt költözők megnevezésére és a bérbeadás határozatlan időtartamra szóló jellegére tartalmazhat kikötést.
 
@@ -14,6 +14,6 @@
 
 (8)[^176] Ha a jogcím nélküli használó a honvédelmi szervezet állományába tartozó személy, részére a lakás a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig adható bérbe.
 
-[^174]: A 74. § (4) bekezdése a 6/2019. (IV. 15.) HM rendelet 6. §-ával megállapított szöveg.
+[^174]: A 74. § (4) bekezdése a 4/2022. (II. 17.) HM rendelet 1. §-ával megállapított szöveg.
 [^175]: A 74. § (7) bekezdése a 15/2015. (XII. 21.) HM rendelet 9. §-ával megállapított szöveg.
 [^176]: A 74. § (8) bekezdése a 15/2015. (XII. 21.) HM rendelet 9. §-ával megállapított, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.

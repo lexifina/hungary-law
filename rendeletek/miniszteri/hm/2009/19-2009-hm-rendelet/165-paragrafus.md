@@ -1,4 +1,4 @@
-## 164/A. §[^226] Az állomány hősi halottá nyilvánított tagja hozzátartozójának a honvédelmi szervezet bérlőkijelölése folytán határozatlan időtartamra bérbe adott önkormányzati lakás elidegenítése esetén a lakás bérlőkijelölési jogáról térítésmentesen le kell mondani a tulajdonos önkormányzat javára, feltéve, hogy az elidegenítés a hősi halott özvegye, 5. § (1) bekezdés c) pont szerinti feltételeknek megfelelő túlélő élettársa vagy a hősi halott gyermeke javára történik.
+## 164/A. §[^229] Az állomány hősi halottá nyilvánított tagja hozzátartozójának a honvédelmi szervezet bérlőkijelölése folytán határozatlan időtartamra bérbe adott önkormányzati lakás elidegenítése esetén a lakás bérlőkijelölési jogáról térítésmentesen le kell mondani a tulajdonos önkormányzat javára, feltéve, hogy az elidegenítés a hősi halott özvegye, 5. § (1) bekezdés c) pont szerinti feltételeknek megfelelő túlélő élettársa vagy a hősi halott gyermeke javára történik.
 
 ## A lakásbérleti szerződés megkötésével kapcsolatos feladatok
 
@@ -12,7 +12,7 @@ c) a lakbér és a szolgáltatások díját, fizetésének módját.
 
 (2) A lakásbérleti szerződést a helyi lakásgazdálkodási szerv köti meg. A szerződést 2 tanú jelenlétében írásba kell foglalni, amelyet a szerződő feleknek és a tanúknak sajátkezűleg alá kell írniuk. A szerződés kiadott iratmintán is írásba foglalható.
 
-(3)[^227]
+(3)[^230]
 
-[^226]: A 164/A. §-t a 4/2012. (IV. 5.) HM rendelet 10. §-a iktatta be, szövege a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^227]: A 165. § (3) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^229]: A 164/A. §-t a 4/2012. (IV. 5.) HM rendelet 10. §-a iktatta be, szövege a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^230]: A 165. § (3) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
