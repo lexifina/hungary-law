@@ -6,4 +6,6 @@ a) XII. Agrárminisztérium fejezet fejezeti kezelésű előirányzataira vonatk
 
 b) XII. Agrárminisztérium fejezet központi kezelésű előirányzataira vonatkozó felhasználási szabályokat a 2. melléklet,
 
-c) XLVII. Gazdaságvédelmi Alap fejezet egyes fejezeti kezelésű előirányzataira vonatkozó felhasználási szabályokat a 3. melléklet
+c)[^2] XLVII. Gazdaság-újraindítási Alap fejezet egyes fejezeti kezelésű előirányzataira vonatkozó felhasználási szabályokat a 3. melléklet
+
+[^2]: A 2. § c) pontja a 7/2022. (II. 17.) AM rendelet 5. § b) pontja szerint módosított szöveg.
