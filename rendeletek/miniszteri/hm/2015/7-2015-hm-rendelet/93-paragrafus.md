@@ -1,4 +1,4 @@
-## 92. §[^203] A 35. § (2) bekezdése szerinti parancsnokoknak a 90. és 91. §-ban foglaltak figyelembevételével a Módr. hatálybalépését[^204] követő 15. napig felül kell vizsgálniuk, és szükség szerint pontosítaniuk kell a 35. § (2) bekezdése szerinti jegyzékeket.
+## 92. §[^209] A 35. § (2) bekezdése szerinti parancsnokoknak a 90. és 91. §-ban foglaltak figyelembevételével a Módr. hatálybalépését[^210] követő 15. napig felül kell vizsgálniuk, és szükség szerint pontosítaniuk kell a 35. § (2) bekezdése szerinti jegyzékeket.
 
-[^203]: A 92. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
-[^204]: A hatálybalépés időpontja 2016. július 1.
+[^209]: A 92. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
+[^210]: A hatálybalépés időpontja 2016. július 1.

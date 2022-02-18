@@ -48,6 +48,6 @@
 
 | 23. | 20. besorolási kategória | vezérezredes | 133 800 | 136 030 | 138 260 | 136 030 | 138 260 | 140 490 |
 
-11. melléklet a 7/2015. (VI. 22.) HM rendelethez[^234]
+11. melléklet a 7/2015. (VI. 22.) HM rendelethez[^242]
 
-[^234]: A 11. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § d) pontja iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 48. §-a szerint módosított szöveg.
+[^242]: A 11. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § d) pontja iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 48. §-a szerint módosított szöveg.
