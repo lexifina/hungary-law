@@ -1,6 +1,6 @@
-69/A. §[^202] (1)[^203] A Hjt. 123. § (2) bekezdése alapján a szolgálati beosztásokat a (2)–(7) bekezdésben foglaltak szerint kell a Hjt. 5. melléklete szerinti besorolási osztályokba besorolni.
+69/A. §[^203] (1)[^204] A Hjt. 123. § (2) bekezdése alapján a szolgálati beosztásokat a (2)–(7) bekezdésben foglaltak szerint kell a Hjt. 5. melléklete szerinti besorolási osztályokba besorolni.
 
-(2)[^204] A (3) és a (4) bekezdésbe nem tartozó, Magyarországon települő honvédségi szervezet munkaköri jegyzékében, állománytáblájában, továbbá a miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményhez vezényelt, a Magyarországon települő katonai szervezethez vezényelt állományra vonatkozó állománytáblában szereplő
+(2)[^205] A (3) és a (4) bekezdésbe nem tartozó, Magyarországon települő honvédségi szervezet munkaköri jegyzékében, állománytáblájában, továbbá a miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményhez vezényelt, a Magyarországon települő katonai szervezethez vezényelt állományra vonatkozó állománytáblában szereplő
 
 a) beosztotti szolgálati beosztás az I. besorolási osztályba,
 
@@ -8,7 +8,7 @@ b) vezetői szolgálati beosztás a IV. besorolási osztályba
 
 tartozik.
 
-(3)[^205] A HM (4) bekezdés hatálya alá nem tartozó hivatalának, a HM Hadtörténeti Intézet és Múzeum, valamint a HM Tábori Lelkészi Szolgálat munkaköri jegyzékében, továbbá a (6) bekezdésben meghatározott szolgálati beosztások kivételével a más magasabb szintű parancsnokság jogállású honvédségi szervezetek, a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete, továbbá az NKE-hez, a NATO Erőket Integráló Elemekhez és a Közép-európai Többnemzeti Hadosztály-parancsnoksághoz vezényelt állományra valamint a különleges műveleti komponenst biztosító állományra vonatkozó állománytáblában szereplő
+(3)[^206] A HM (4) bekezdés hatálya alá nem tartozó hivatalának, a HM Hadtörténeti Intézet és Múzeum, valamint a HM Tábori Lelkészi Szolgálat munkaköri jegyzékében, továbbá a (6) bekezdésben meghatározott szolgálati beosztások kivételével a más magasabb szintű parancsnokság jogállású honvédségi szervezetek, a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete, továbbá az NKE-hez, a NATO Erőket Integráló Elemekhez és a Közép-európai Többnemzeti Hadosztály-parancsnoksághoz vezényelt állományra valamint a különleges műveleti komponenst biztosító állományra vonatkozó állománytáblában szereplő
 
 a) beosztotti szolgálati beosztás a II. besorolási osztályba,
 
@@ -32,7 +32,7 @@ b) a Magyarországon települő honvédségi szervezet külföldön működő sz
 
 létrehozott szolgálati beosztás besorolására – ha azt az állomány tagja szolgálati érdekből, tartós külföldi szolgálatra vezénylés keretében külföldön látja el – a (3) bekezdés a) és b) pontját kell megfelelően alkalmazni.
 
-(6)[^206] Az MH Parancsnokságát támogató honvédségi szervezet állománytáblájában
+(6)[^207] Az MH Parancsnokságát támogató honvédségi szervezet állománytáblájában
 
 a) az MH Parancsnoksága vezetésbiztosító feladatok végrehajtására létrehozott szolgálati beosztások besorolására a (2) bekezdést,
 
@@ -42,11 +42,11 @@ c) az MH Parancsnoksága stratégiai szintű feladatok végrehajtására létreh
 
 kell megfelelően alkalmazni.
 
-(7)[^207] A 15. melléklet szerinti HM Ügyelet feladatainak végrehajtására – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 4. § 16. pontja szerinti honvédségi szervezet állománytáblájában – létrehozott szolgálati beosztások besorolására a (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
+(7)[^208] A 15. melléklet szerinti HM Ügyelet feladatainak végrehajtására – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 4. § 16. pontja szerinti honvédségi szervezet állománytáblájában – létrehozott szolgálati beosztások besorolására a (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-[^202]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 23. §-ával megállapított szöveg.
-[^203]: A 69/A. § (1) bekezdése a 25/2021. (XII. 8.) HM rendelet 3. §-a szerint módosított szöveg.
-[^204]: A 69/A. § (2) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^205]: A 69/A. § (3) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^206]: A 69/A. § (6) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^207]: A 69/A. § (7) bekezdését a 25/2021. (XII. 8.) HM rendelet 1. §-a iktatta be.
+[^203]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 23. §-ával megállapított szöveg.
+[^204]: A 69/A. § (1) bekezdése a 25/2021. (XII. 8.) HM rendelet 3. §-a szerint módosított szöveg.
+[^205]: A 69/A. § (2) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^206]: A 69/A. § (3) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^207]: A 69/A. § (6) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^208]: A 69/A. § (7) bekezdését a 25/2021. (XII. 8.) HM rendelet 1. §-a iktatta be.

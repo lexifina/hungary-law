@@ -1,10 +1,10 @@
-## 281/A. §[^480] E rendeletnek az egyes honvédelmi miniszteri rendeleteknek a Magyar Honvédség új szervezeti rendjének kialakításával összefüggő módosításáról szóló 20/2018. (XII. 28.) HM rendelet (a továbbiakban: Módr1.) által módosított 25/A. § (1) és (2) bekezdését, a Módr1. által módosított 266. § (2) és (3) bekezdését, a Módr1. által megállapított 271. § (5) bekezdését a hatálybalépéskor[^481] folyamatban lévő ügyekre is alkalmazni kell.
+## 281/A. §[^481] E rendeletnek az egyes honvédelmi miniszteri rendeleteknek a Magyar Honvédség új szervezeti rendjének kialakításával összefüggő módosításáról szóló 20/2018. (XII. 28.) HM rendelet (a továbbiakban: Módr1.) által módosított 25/A. § (1) és (2) bekezdését, a Módr1. által módosított 266. § (2) és (3) bekezdését, a Módr1. által megállapított 271. § (5) bekezdését a hatálybalépéskor[^482] folyamatban lévő ügyekre is alkalmazni kell.
 
-281/B. §[^482] (1) E rendeletnek a Módr1. által megállapított 109/A. §-át a folyamatban lévő ügyekre is alkalmazni kell, ha az igényét a Honvédség fizetési meghagyás vagy bíróság útján még nem érvényesítette.
+281/B. §[^483] (1) E rendeletnek a Módr1. által megállapított 109/A. §-át a folyamatban lévő ügyekre is alkalmazni kell, ha az igényét a Honvédség fizetési meghagyás vagy bíróság útján még nem érvényesítette.
 
-(2) Az állomány tagja a 109/A. § (3) bekezdés szerinti kérelmét a Módr1. hatálybalépését[^483] követő 30 napos jogvesztő határidőn belül nyújthatja be, ha a Módr1. hatálybalépésekor a 109/A. § (4) bekezdése szerinti 30 napos határidő már eltelt, feltéve, hogy az igényét a Honvédség fizetési meghagyás vagy bíróság útján még nem érvényesítette.
+(2) Az állomány tagja a 109/A. § (3) bekezdés szerinti kérelmét a Módr1. hatálybalépését[^484] követő 30 napos jogvesztő határidőn belül nyújthatja be, ha a Módr1. hatálybalépésekor a 109/A. § (4) bekezdése szerinti 30 napos határidő már eltelt, feltéve, hogy az igényét a Honvédség fizetési meghagyás vagy bíróság útján még nem érvényesítette.
 
-[^480]: A 281/A. §-t újonnan a 20/2018. (XII. 28) HM rendelet 68. §-a iktatta be.
-[^481]: A hatálybalépés időpontja 2019. január 1.
-[^482]: A 281/B. §-t a 20/2018. (XII. 28) HM rendelet 68. §-a iktatta be.
-[^483]: A hatálybalépés időpontja 2018. december 29.
+[^481]: A 281/A. §-t újonnan a 20/2018. (XII. 28) HM rendelet 68. §-a iktatta be.
+[^482]: A hatálybalépés időpontja 2019. január 1.
+[^483]: A 281/B. §-t a 20/2018. (XII. 28) HM rendelet 68. §-a iktatta be.
+[^484]: A hatálybalépés időpontja 2018. december 29.

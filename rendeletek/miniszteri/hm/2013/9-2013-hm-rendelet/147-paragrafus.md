@@ -36,7 +36,7 @@ b) a fenyítés hatálya alatt elkövetett újabb fegyelemsértés,
 
 c) az állomány eljárás alá vont tagjával szemben a fegyelmi eljárás elrendelését megelőző két évben fenyítés kiszabása,
 
-d)[^349] az állomány eljárás alá vont tagja vezetői beosztásban történő szolgálatteljesítése,
+d)[^350] az állomány eljárás alá vont tagja vezetői beosztásban történő szolgálatteljesítése,
 
 e) olyan fegyelemsértés elkövetése, amelynek megakadályozása más személyek vonatkozásában az elkövető feladata volt,
 
@@ -56,4 +56,4 @@ d) a fegyelemsértés következményeinek elhárításában részt vett, és
 
 e) a fegyelemsértéssel okozott kárt megtérítette.
 
-[^349]: A 147. § (5) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 29. § k) pontja szerint módosított szöveg.
+[^350]: A 147. § (5) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 29. § k) pontja szerint módosított szöveg.
