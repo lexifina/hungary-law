@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-10-20-1
 | 2020-05-01 | 2015-10-20-15.8 | 7/2020. (IV. 30.) HM rendelet |
 | 2021-07-16 | 2015-10-20-15.9 | 13/2021. (VII. 15.) HM rendelet |
 | 2021-12-01 | 2015-10-20-15.10 | 21/2021. (X. 6.) HM rendelet |
+| 2022-02-18 | 2015-10-20-15.11 | 4/2022. (II. 17.) HM rendelet |

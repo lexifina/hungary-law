@@ -1,4 +1,4 @@
-## 83. §[^74] E rendeletnek a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosításáról szóló 7/2020. (IV. 30.) HM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^75] folyamatban lévő ügyekre is alkalmazni kell.
+## 83. §[^75] E rendeletnek a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosításáról szóló 7/2020. (IV. 30.) HM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^76] folyamatban lévő ügyekre is alkalmazni kell.
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2456,15 +2456,5 @@ d) K: 3–4, 6, 11–15, 17, 21; F: 1–4, 6.
 
 e) A katonai kötelmekkel való összefüggés meghatározása a veseelégtelenséget kiváltó alapbetegség mérlegelése alapján történik.
 
-| 128 Zsugorvese és törpevese (hypoplasia) | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | egyoldali | KLGS | KLGS | KLGS | KLGS | N26–N27 |
-
-| 2. | kétoldali | E | E | E | E |
-
-a)Atrophia renis, törpevese ismeretlen ok miatt. (Vesefejlődési rendellenességek a 180. szakasz szerint minősítendők.)
-
-b) We, teljes vérkép és vizelet, Se kreatinin, UN, koncentrálási próba, vizelet bact. és Koch tenyésztés, izotóp renographia, UH, CT, kontrasztanyagos CT vizsgálat.
-
-[^74]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2020. (IV. 30.) HM rendelet 2. §-a iktatta be.
-[^75]: A hatálybalépés időpontja 2020. május 1.
+[^75]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2020. (IV. 30.) HM rendelet 2. §-a iktatta be.
+[^76]: A hatálybalépés időpontja 2020. május 1.
