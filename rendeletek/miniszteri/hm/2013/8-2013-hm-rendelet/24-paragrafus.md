@@ -1,8 +1,8 @@
-## III. Fejezet[^57]
+## III. Fejezet[^61]
 
 ## A HM VAGYONKEZELÉSŰ GÉPKOCSI TÁROLÓ, A LAKÁSHOZ TARTOZÓ HELYISÉG ÉS NEM LAKÁSCÉLÚ HELYISÉG ELIDEGENÍTÉSÉNEK FELTÉTELEI
 
-24. §[^58] (1) A HM vagyonkezelésű gépkocsi tároló helyiség és állóhely (a továbbiakban együtt: gépkocsi tároló) vonatkozásában a lakás elidegenítésére vonatkozó szabályokat – a (2)–(4) bekezdésben foglalt eltérésekkel – kell alkalmazni.
+24. §[^62] (1) A HM vagyonkezelésű gépkocsi tároló helyiség és állóhely (a továbbiakban együtt: gépkocsi tároló) vonatkozásában a lakás elidegenítésére vonatkozó szabályokat – a (2)–(4) bekezdésben foglalt eltérésekkel – kell alkalmazni.
 
 (2) A gépkocsi tároló vonatkozásában vásárlásra jogosult az a bérlő, akinek a helyzete állami vagy önkormányzati tulajdonú gépkocsi tároló vásárlása vonatkozásában nem esik az R. 9. § (1) bekezdés c) vagy d) pontja alá, és
 
@@ -26,5 +26,5 @@ b) a (3) bekezdésben foglalt esetben a 8. § (2) bekezdése
 
 (5) Ha a gépkocsi tároló a lakással azonos helyrajzi számon szerepel, akkor az adásvétel a lakásra kötött adásvételi szerződés keretében köthető meg, ebben az esetben a lakásra és a gépkocsi tárolóra csak azonos fizetési konstrukció választható.
 
-[^57]: A III. fejezet címe a 8/2020. (V. 27.) HM rendelet 18. § d) pontja szerint módosított szöveg.
-[^58]: A 24. § a 8/2020. (V. 27.) HM rendelet 16. §-ával megállapított szöveg.
+[^61]: A III. fejezet címe a 8/2020. (V. 27.) HM rendelet 18. § d) pontja szerint módosított szöveg.
+[^62]: A 24. § a 8/2020. (V. 27.) HM rendelet 16. §-ával megállapított szöveg.
