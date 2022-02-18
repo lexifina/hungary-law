@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-45-20-7
 | 2021-01-01 | 2020-45-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-01-02 | 2020-45-20-7Q.4 | 2010: CXXX. törvény |
 | 2022-01-01 | 2020-45-20-7Q.5 | 62/2021. (XII. 22.) ITM rendelet |
+| 2022-02-18 | 2020-45-20-7Q.6 | 6/2022. (II. 17.) ITM rendelet |
