@@ -2,7 +2,7 @@
 
 1. melléklet a 32/2015. (VI. 19.) FM rendelethez[^4]
 
-XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2021. évi költségvetési kiadási előirányzatainak feladatterve
+XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2022. évi költségvetési kiadási előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -30,4 +30,4 @@ XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2021. 
 
 [^2]: A 4. §-t a 10/2021. (III. 17.) AM rendelet 1. §-a iktatta be.
 [^3]: A hatálybalépés időpontja 2021. március 18.
-[^4]: Az 1. melléklet a 10/2021. (III. 17.) AM rendelet 2. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet a 10/2021. (III. 17.) AM rendelet 2. §-ával megállapított, a 7/2022. (II. 17.) AM rendelet 1. § b) pontja szerint módosított szöveg.
