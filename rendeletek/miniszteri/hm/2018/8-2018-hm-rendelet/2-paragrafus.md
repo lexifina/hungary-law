@@ -104,7 +104,7 @@ c)[^9] a Honvédség pénzügyi feladatokat ellátó központi szervezetének ve
 
 d)[^10] a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsági rendjében meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem az állomány (2) bekezdés e) pontja szerinti tagja esetén.
 
-(5)[^11] A felszámítási alap összege 44 450 Ft.
+(5)[^11] A felszámítási alap összege 48 895 forint.
 
 (6)[^12] E rendelet honvédelmi szervezetekre vonatkozó rendelkezéseit a miniszter fenntartói irányítása alá tartozó, katonai szervezetnek nem minősülő köznevelési intézményre is alkalmazni kell.
 
@@ -116,5 +116,5 @@ d)[^10] a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsá
 [^8]: A 2. § (3) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 4. pontja szerint módosított szöveg.
 [^9]: A 2. § (4) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 5. pontja szerint módosított szöveg.
 [^10]: A 2. § (4) bekezdés d) pontja a 3/2021. (I. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^11]: A 2. § (5) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 1. pontja szerint módosított szöveg.
+[^11]: A 2. § (5) bekezdése a 4/2022. (II. 17.) HM rendelet 26. §-ával megállapított szöveg.
 [^12]: A 2. § (6) bekezdését a 2/2019. (I. 31.) HM rendelet 4. §-a iktatta be.

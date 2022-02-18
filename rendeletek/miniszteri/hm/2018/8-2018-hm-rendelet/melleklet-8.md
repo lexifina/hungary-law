@@ -44,7 +44,7 @@
 
 | 21. | – | – | – I. évfolyamos tisztjelölt – altisztjelölt | – | 1,00 |
 
-8. melléklet a 8/2018. (VI. 22.) HM rendelethez[^189]
+8. melléklet a 8/2018. (VI. 22.) HM rendelethez[^191]
 
 ## Az állomány ideiglenes külföldi szolgálatot teljesítő és ideiglenes külföldi képzésben részt vevő tagjai külföldi napidíjához tartozó kategóriák országonként
 
@@ -192,4 +192,4 @@ II. A II. kategóriába tartozó országok
 
 III. A III. kategóriába tartozó országok
 
-[^189]: A 8. melléklet a 2/2019. (I. 31.) HM rendelet 38. § d) pontjával megállapított szöveg.
+[^191]: A 8. melléklet a 2/2019. (I. 31.) HM rendelet 38. § d) pontjával megállapított szöveg.
