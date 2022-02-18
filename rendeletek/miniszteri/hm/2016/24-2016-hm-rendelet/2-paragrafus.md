@@ -8,4 +8,11 @@ b) a Hjt. 68/A. § (1) bekezdés a)–d) pontja szerinti feltételek fennállnak
 
 (2)[^3] Az állomány tagja a Hjt. 68/C. § (1) bekezdése szerinti kérelmét a Magyar Honvédség parancsnokán keresztül a honvédelemért felelős miniszterhez (a továbbiakban: miniszter) címezve az állományilletékes parancsnoknak nyújtja be.
 
+(3)[^4] A katonai bírói tisztségre vagy ügyészségi alkalmazotti jogviszonyba történő vezénylés esetén az (1) bekezdés szerinti tájékoztatást
+
+a) a vezénylés megszűnését követő kötelező alkalmassági vizsgálat esetén az alkalmatlanságot megállapító döntés, vagy
+
+b) a vezénylés megszűnését követő kötelező alkalmassági vizsgálat hiányában a vezénylés megszűnéséről szóló parancs
+
 [^3]: A 2. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 118. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdését a 4/2022. (II. 17.) HM rendelet 24. §-a iktatta be.
