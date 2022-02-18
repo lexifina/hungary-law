@@ -1,0 +1,5 @@
+## 23. § A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet 68. §-a a következő (9) bekezdéssel egészül ki:
+
+## „(9) Ha a honvéd a katonai bírói tisztségre vagy ügyészségi alkalmazotti jogviszonyba történő vezénylése időtartama alatt „Katonai szolgálatra alkalmatlan” minősítést kapott, az alkalmatlanságát a vezénylése megszűnését követően haladéktalanul felül kell vizsgálni, amelyről az aktuális egészségi állapotának megfelelő új FÜV döntést kell kiadni. A felülvizsgálat mellőzhető, ha a megbetegedés, sérülés jellegéből fakadóan, vagy az alkalmatlanság megállapítása óta eltelt időtartamra tekintettel az orvosilag nem indokolt. Az új FÜV döntést, illetve a felülvizsgálat mellőzéséről szóló tájékoztatást a kiállításától számított öt munkanapon belül a központi személyügyi szerv részére meg kell küldeni.”
+
+## 7. A honvédelmi egészségkárosodási ellátással kapcsolatos eljárásrendről szóló 24/2016. (XII. 22.) HM rendelet módosítása
