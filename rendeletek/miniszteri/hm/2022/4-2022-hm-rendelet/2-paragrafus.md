@@ -1,3 +1,0 @@
-## 1. § A Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról szóló 19/2009. (XII. 29.) HM rendelet (a továbbiakban: R1.) 74. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Ha az elhelyezésre jogosult jogcím nélküli lakáshasználó által használt lakás az elhelyezési igénynek megfelelő szobaszámú vagy annál legfeljebb egy lakószobával nagyobb, akkor az így használt lakás is bérbe adható, ha az nem sérti a lakásgazdálkodási érdekeket. Ha a jogcím nélkül használt lakás az (1) bekezdésben meghatározott mértéknél több mint egy lakószobával nagyobb, a lakás megfelelő elhelyezés címén a közigazgatási államtitkár előzetes hozzájárulásával adható bérbe.”
