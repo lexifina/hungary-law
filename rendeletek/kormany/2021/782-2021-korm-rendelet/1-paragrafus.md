@@ -18,4 +18,15 @@ b) az (1) bekezdés b) pontja szerinti esetben 2022. január 31-ig
 
 ## tájékoztatja az adóst.
 
-(5) Az e §-ban foglaltakat a lakáscélú állami támogatásnak minősülő, fogyasztóknak nyújtott kamattámogatott jelzáloghitel-szerződésekre is megfelelően alkalmazni kell.
+(4a)[^2] A lízingbe adó pénzügyi intézmény az (1)–(3) bekezdés szerinti referencia-kamatláb változásáról
+
+a) az (1) bekezdés a) pontja szerinti esetben a pénzügyi lízingszerződés szerinti fordulónapig,
+
+b) az (1) bekezdés b) pontja szerinti esetben 2022. február 28-ig
+
+## tájékoztatja a lízingbe vevőt.
+
+(5)[^3] Az e §-ban foglaltakat a lakáscélú állami támogatásnak minősülő, fogyasztóknak nyújtott kamattámogatott jelzáloghitel-szerződésekre és a fogyasztónak nyújtott lakáscélú pénzügyi lízingszerződésekre is alkalmazni kell.
+
+[^2]: Az 1. § (4a) bekezdését a 49/2022. (II. 18.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (5) bekezdése a 49/2022. (II. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
