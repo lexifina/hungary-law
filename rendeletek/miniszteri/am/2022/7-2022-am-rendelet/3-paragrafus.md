@@ -1,3 +1,3 @@
-## 2. § A fejezeti és központi kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 14/2021. (III. 25.) AM rendelet (a továbbiakban: R.) 3. §-a a következő (3) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(3) A Kvtv. 1. melléklet XII. Agrárminisztérium fejezet 21/02 „Uniós programok kiegészítő támogatása” központi kezelésű előirányzatának „A zöldség-gyümölcs termelői szervezetek támogatása” célú keretéből az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i 2020/C 91 I/01 bizottsági közlemény 3.1. alpontja szerinti átmeneti támogatás nyújtható.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
