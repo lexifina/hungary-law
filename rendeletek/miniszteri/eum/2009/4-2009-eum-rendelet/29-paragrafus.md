@@ -34,9 +34,9 @@ akkor hozható forgalomba vagy vehető használatba 2024. május 26-ig, ha 2021.
 
 a) 17. § (2) bekezdése szerinti bejelentési kötelezettségnek az MDR hatálya alá tartozó rendelésre készült eszközök tekintetében, továbbá
 
-b) 17. § (3) bekezdése szerinti bejelentési kötelezettségnek
+b)[^71] 17. § (3) bekezdése szerinti bejelentési kötelezettségnek
 
-az érintett gazdasági szereplők a Módr. hatálybalépésétől[^71] számított hat hónapon belül tesznek eleget.
+az érintett gazdasági szereplők az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet [a továbbiakban: (EU) 2017/746 rendelet] rendelkezéseire tekintettel, az (EU) 2017/746 rendelet alkalmazásának kezdőnapját követő 90 napon belül tesznek eleget.
 
 (10)[^72] Az MDR 33. cikk (2) bekezdés a) és b) pontja, 57. cikke és 92. cikke szerinti elektronikus rendszerek működőképessé válásának naptári napjáról az OGYÉI honlapján közleményt tesz közzé.
 
@@ -51,5 +51,5 @@ az érintett gazdasági szereplők a Módr. hatálybalépésétől[^71] számít
 [^68]: A hatálybalépés időpontja 2021. augusztus 17.
 [^69]: A hatálybalépés időpontja 2021. augusztus 17.
 [^70]: A 29. § (9) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 32. §-a iktatta be.
-[^71]: A hatálybalépés időpontja 2021. augusztus 17.
+[^71]: A 29. § (9) bekezdés b) pontja a 8/2022. (II. 18.) EMMI rendelet 1. §-a szerint módosított szöveg.
 [^72]: A 29. § (10) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 32. §-a iktatta be.
