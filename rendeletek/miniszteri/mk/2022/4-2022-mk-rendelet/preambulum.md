@@ -1,0 +1,1 @@
+A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény veszélyhelyzetben történő eltérő alkalmazásáról szóló 782/2021. (XII. 24.) Korm. rendelet 3. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 7. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
