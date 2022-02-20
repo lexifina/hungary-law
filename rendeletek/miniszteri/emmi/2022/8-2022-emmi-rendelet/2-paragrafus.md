@@ -1,3 +1,5 @@
-## 1. § Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 29. § (9) bekezdés b) pontjában az „a Módr. hatálybalépésétől számított hat hónapon belül” szövegrész helyébe az „az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet [a továbbiakban: (EU) 2017/746 rendelet] rendelkezéseire tekintettel, az (EU) 2017/746 rendelet alkalmazásának kezdőnapját követő 90 napon belül” szöveg lép.
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
