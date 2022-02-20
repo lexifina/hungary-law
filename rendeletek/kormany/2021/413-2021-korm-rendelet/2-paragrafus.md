@@ -4,6 +4,8 @@
 
 1. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti támogatás,
 
+1a.[^1] belső értékelő: az a személy, akit a nemzeti hatóság jogosultsági ellenőrzés vagy tartalmi értékelés elvégzésére felkér,
+
 2. csalás: a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet [a továbbiakban: 256/2021. (V. 18.) Korm. rendelet] 3. § 3. pontja szerinti fogalom,
 
 3. HEE forrás: a Helyreállítási és Ellenállóképességi (Rezilienciaépítési) Eszköz (a továbbiakban: HEE) 2021/241/EU rendelet 6. cikkében meghatározott forrásai,
@@ -24,7 +26,7 @@
 
 11. nemzeti hatóság: a tagállami kedvezményezetti feladatokat ellátó, a HET hazai végrehajtását koordináló, az 1. mellékletben kijelölt szervezet,
 
-12. nyilvánvaló hiba: pályázatban vagy kifizetési igénylésben a pályázó vagy a végső kedvezményezett által szolgáltatott adat olyan egyértelmű hiánya vagy hibája, amely a pályázat vagy kifizetési igénylés más adataiból vagy más, a benyújtott dokumentum elbírálásában részt vevő szervezet által közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra való felszólítás nélkül, saját hatáskörben pótolható vagy javítható, kivéve a kérelem hitelességét befolyásoló hiányosság, így különösen aláírás, bélyegzőlenyomat, személyt, szervezetet hitelesítő dokumentum, nyilatkozat, aláírási címpéldány,
+12.[^2] nyilvánvaló hiba: a támogatást igénylő vagy a kedvezményezett által a támogatási kérelemben vagy a kifizetési kérelemben szolgáltatott adat olyan egyértelmű hiánya vagy hibája, amely a támogatási kérelem vagy a kifizetési kérelem más adataiból vagy más, közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra való felszólítás nélkül pótolható vagy javítható,
 
 13. pályázó: a HET megvalósítását szolgáló intézkedések végrehajtására pályázatot benyújtó jogi vagy természetes személy,
 
@@ -35,3 +37,6 @@
 16. támogatási megállapodás: a HET vissza nem térítendő támogatás felhasználására az Európai Bizottsággal a 2021/241/EU rendelet 23. cikk (1) bekezdése szerinti megállapodás,
 
 17. végső kedvezményezett: a HET megvalósítását szolgáló intézkedéseket támogatási szerződés alapján végrehajtó jogi vagy természetes személy.
+
+[^1]: A 2. § 1a. pontját a 46/2022. (II. 17.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 2. § 12. pontja a 46/2022. (II. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

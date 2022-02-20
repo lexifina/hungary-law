@@ -1,6 +1,6 @@
 ## hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 413/2021. (VII. 13.) Korm. rendelethez[^51]
+1. melléklet a 413/2021. (VII. 13.) Korm. rendelethez[^64]
 
 A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kijelölése
 
@@ -18,13 +18,13 @@ A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kije
 
 | 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | Innovációs és Technológiai Minisztérium3 együttműködve a Miniszterelnökséggel | Nincs |
 
-| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | Innovációs és Technológiai Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft., Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | Innovációs és Technológiai Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Emberi Erőforrás Támogatáskezelő |
 
 | 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | Innovációs és Technológiai Minisztérium | Nincs |
 
 | 9. | VIII. Egészségügy | Miniszterelnökség | Emberi Erőforrások Minisztériuma | Nemzeti Egészségbiztosítási Alapkezelő |
 
-| 10. | IX. Horizontális intézkedések | Miniszterelnökség |  | Nincs |
+| 10. | IX. Horizontális intézkedések | Miniszterelnökség |  | A KKV-k közbeszerzési részvételét ösztönző támogatása c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
 
 1 Szakmai koordinációra kijelölt minisztérium.
 
@@ -32,4 +32,4 @@ A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kije
 
 3 Szakmai koordinációra kijelölt minisztérium.
 
-[^51]: Az 1. melléklet a 796/2021. (XII. 27.) Korm. rendelet 13. § e)–g) pontja, a 832/2021. (XII. 30.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^64]: Az 1. melléklet a 796/2021. (XII. 27.) Korm. rendelet 13. § e)–g) pontja, a 832/2021. (XII. 30.) Korm. rendelet 19. §-a, a 46/2022. (II. 17.) Korm. rendelet 12. §-a szerint módosított szöveg.

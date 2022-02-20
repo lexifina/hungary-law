@@ -2,7 +2,7 @@
 
 ## ÁLLAMI TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYOK
 
-84. § (1)[^26] Ha a „Felzárkózó települések” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
+84. § (1)[^38] Ha a „Felzárkózó települések” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
 a) helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatásként,
 
@@ -22,11 +22,11 @@ g) közszolgáltatásért járó ellentételezésként
 
 (2) Ha a „Fenntartható zöld közlekedés” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
-a)[^27] belvízi kikötő fejlesztéséhez nyújtott beruházási támogatásként
+a)[^39] belvízi kikötő fejlesztéséhez nyújtott beruházási támogatásként
 
-b)[^28] személyszállítási közszolgáltatásért járó ellentételezéseként vagy
+b)[^40] személyszállítási közszolgáltatásért járó ellentételezéseként vagy
 
-c)[^29] átmeneti támogatásként
+c)[^41] átmeneti támogatásként
 
 ## nyújtható.
 
@@ -34,15 +34,15 @@ c)[^29] átmeneti támogatásként
 
 a) regionális beruházási támogatásként,
 
-b)[^30] közszolgáltatásért járó ellentételezésként
+b)[^42] közszolgáltatásért járó ellentételezésként
 
-c)[^31] csekély összegű támogatásként vagy
+c)[^43] csekély összegű támogatásként vagy
 
-d)[^32] átmeneti támogatásként
+d)[^44] átmeneti támogatásként
 
 ## nyújtható.
 
-(4)[^33] Ha a „Vízgazdálkodás” komponens keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
+(4)[^45] Ha a „Vízgazdálkodás” komponens keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
 a) tanácsadási szolgáltatásokhoz nyújtott támogatásként vagy
 
@@ -64,33 +64,33 @@ e) kis- és középvállalkozásnak nyújtott innovációs támogatásként,
 
 f) eljárási innováció és szervezési innováció támogatásához nyújtott támogatásként,
 
-g)[^34] halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatásként
+g)[^46] halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatásként
 
-h)[^35] csekély összegű támogatásként vagy
+h)[^47] csekély összegű támogatásként vagy
 
-i)[^36] átmeneti támogatásként
+i)[^48] átmeneti támogatásként
 
 ## nyújtható.
 
 (6) Ha a „Horizontális intézkedések” komponens keretében támogatható intézkedések finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
-a)[^37] kis- és középvállalkozások részére tanácsadáshoz nyújtott támogatásként
+a)[^49] kis- és középvállalkozások részére tanácsadáshoz nyújtott támogatásként
 
-b)[^38] csekély összegű (de minimis) támogatásként vagy
+b)[^50] csekély összegű (de minimis) támogatásként vagy
 
-c)[^39] átmeneti támogatásként
+c)[^51] átmeneti támogatásként
 
-[^26]: A 84. § (1) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^27]: A 84. § (2) bekezdés a) pontja a 487/2021. (VIII. 13.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^28]: A 84. § (2) bekezdés a) pontja a 487/2021. (VIII. 13.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^29]: A 84. § (2) bekezdés c) pontját a 487/2021. (VIII. 13.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^30]: A 84. § (3) bekezdés b) pontja a 487/2021. (VIII. 13.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^31]: A 84. § (3) bekezdés c) pontja a 487/2021. (VIII. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^32]: A 84. § (3) bekezdés d) pontját a 487/2021. (VIII. 13.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^33]: A 84. § (4) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
-[^34]: A 84. § (5) bekezdés g) pontja a 487/2021. (VIII. 13.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^35]: A 84. § (5) bekezdés h) pontja a 487/2021. (VIII. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^36]: A 84. § (5) bekezdés i) pontját a 487/2021. (VIII. 13.) Korm. rendelet 8. § (5) bekezdése iktatta be.
-[^37]: A 84. § (6) bekezdés a) pontja a 487/2021. (VIII. 13.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^38]: A 84. § (6) bekezdés b) pontja a 487/2021. (VIII. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^39]: A 84. § (6) bekezdés c) pontját a 487/2021. (VIII. 13.) Korm. rendelet 8. § (6) bekezdése iktatta be.
+[^38]: A 84. § (1) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^39]: A 84. § (2) bekezdés a) pontja a 487/2021. (VIII. 13.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^40]: A 84. § (2) bekezdés a) pontja a 487/2021. (VIII. 13.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^41]: A 84. § (2) bekezdés c) pontját a 487/2021. (VIII. 13.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^42]: A 84. § (3) bekezdés b) pontja a 487/2021. (VIII. 13.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^43]: A 84. § (3) bekezdés c) pontja a 487/2021. (VIII. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^44]: A 84. § (3) bekezdés d) pontját a 487/2021. (VIII. 13.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^45]: A 84. § (4) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^46]: A 84. § (5) bekezdés g) pontja a 487/2021. (VIII. 13.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^47]: A 84. § (5) bekezdés h) pontja a 487/2021. (VIII. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^48]: A 84. § (5) bekezdés i) pontját a 487/2021. (VIII. 13.) Korm. rendelet 8. § (5) bekezdése iktatta be.
+[^49]: A 84. § (6) bekezdés a) pontja a 487/2021. (VIII. 13.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^50]: A 84. § (6) bekezdés b) pontja a 487/2021. (VIII. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^51]: A 84. § (6) bekezdés c) pontját a 487/2021. (VIII. 13.) Korm. rendelet 8. § (6) bekezdése iktatta be.

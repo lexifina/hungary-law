@@ -20,6 +20,6 @@ f) elfogadja az Európai Unió Tanácsa támogató határozatát követően eset
 
 g) dönt a hiteltámogatás felvételéről és az Európai Bizottsághoz történő benyújtás előtt jóváhagyja a hitelfelvétel indokoltságát alátámasztó dokumentációt.
 
-(2)[^1] Az (1) bekezdés e) és f) pontja alapján közzétett kormányhatározat legalább a HET intézkedés megnevezését, a kapcsolódó programterület megjelölését és – feltételhez kötött támogatás esetén – a támogathatóság feltételeit tartalmazza.
+(2)[^3] Az (1) bekezdés e) és f) pontja alapján közzétett kormányhatározat legalább a HET intézkedés megnevezését, a kapcsolódó programterület megjelölését és – feltételhez kötött támogatás esetén – a támogathatóság feltételeit tartalmazza.
 
-[^1]: A 3. § (2) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
