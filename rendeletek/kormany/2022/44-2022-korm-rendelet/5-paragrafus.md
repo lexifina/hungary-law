@@ -1,5 +1,3 @@
-## 4. § Az R. a következő 10/A. §-sal egészül ki:
+## 4. §[^5]
 
-## „10/A. § (1) Az 1–8. §-ban foglalt előírásokat azokra az Étv. szerinti építőipari kivitelezési tevékenységekre – ideértve a kapcsolódó tevékenységeket is – irányuló, konkrét beszerzési igény kielégítésére szolgáló visszterhes szerződésekre kell alkalmazni, amelyek közbeszerzési eljárásai a 9. §-ban foglalt hatálybalépést követően indultak meg.
-
-## (2) Az 1–8. §-ban foglalt előírásokat a 9. §-ban foglalt hatálybalépést megelőzően létrejött, valamint a hatálybalépés napján folyamatban lévő közbeszerzési eljárások eredményeként létrejött keretmegállapodások vagy más keretjellegű szerződések vagy dinamikus beszerzési rendszerek alkalmazásával a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerbe tartozó tevékenységekről, valamint az Építőipari Monitoring- és Adatszolgáltató Rendszerről szóló 707/2021. (XII. 15.) Korm. rendelet módosításáról szóló 44/2022. (II. 16.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését követően létrejövő, az Étv. szerinti építőipari kivitelezési tevékenységekre – ideértve a kapcsolódó tevékenységeket is – irányuló, konkrét beszerzési igény kielégítésére szolgáló, visszterhes szerződésekre is alkalmazni kell. A Módr.-rel érintett, jelen bekezdés szerinti szerződések Módr.-ben foglaltakkal való összhang megteremtéséhez szükséges mértékben és módon történő módosítása nem minősül a Kbt. 141. § (6) bekezdése szerinti lényeges feltételnek.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
