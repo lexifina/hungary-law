@@ -1,0 +1,3 @@
+## 3. § A Korm. rendelet 35. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A nemzeti hatóság megvizsgálja, hogy a pályázat megfelel-e a felhívásban és az Ávr. 70. § (2) bekezdésében meghatározott jogosultsági feltételeknek. A pályázatok jogosultsági ellenőrzését végző személyek számát a nemzeti hatóság határozza meg. A nemzeti hatóság döntése alapján a jogosultsági ellenőrzés történhet belső értékelővel vagy a szakpolitikai felelős által kijelölt külső értékelővel. Adott felhíváson belül belső és külső értékelő együttes alkalmazása is lehetséges. Az ellenőrzést végzők az adott pályázati felhívás vonatkozásában titoktartási és összeférhetetlenségi nyilatkozatot kötelesek tenni.”
