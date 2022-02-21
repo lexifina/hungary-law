@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 13. § (3) bekezdése alapján 2022. február 21-én lép hatályba.
+## 2. § Az R1. 1. melléklete az 1. melléklet szerint módosul.
