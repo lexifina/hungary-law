@@ -1,4 +1,4 @@
-1. A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 12. § (1) bekezdésében meghatározott feladatkörében eljárva dr. Fazekas Sándort 2020. február 21. napjától 2022. február 20. napjáig a földügyi szabályozás érvényesítésének koordinálásáért felelős kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
+1.[^1] A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 12. § (1) bekezdésében meghatározott feladatkörében eljárva dr. Fazekas Sándort 2022. február 21. napjától a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 219. § (3) bekezdése szerinti időtartamra a földügyi szabályozás érvényesítésének koordinálásáért felelős kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
 
 2. A kormánybiztos az 1. pont szerinti feladatkörében
 
@@ -28,6 +28,7 @@ e) a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit 
 
 7. A kormánybiztos tevékenységét a Miniszterelnökség szervezetében működő ötfős titkárság (munkacsoport) segíti.
 
-8.[^1] Ez a határozat a közzétételét követő napon lép hatályba.
+8.[^2] Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 8. pont az 1056/2022. (II. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1056/2022. (II. 15.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 8. pont az 1056/2022. (II. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
