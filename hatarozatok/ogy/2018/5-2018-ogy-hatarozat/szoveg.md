@@ -360,7 +360,7 @@ dr. Salacz László (Fidesz)
 
 Vécsey László (Fidesz)
 
-Bangóné Borbély Ildikó (MSZP)[^75]
+dr. Gurmai Zita (MSZP)[^75]
 
 Demeter Márta (LMP)[^76]
 
@@ -521,7 +521,7 @@ Kissné Köles Erikát (nemzetiségi szószóló)[^95]
 [^72]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
 [^73]: A 24/2020. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
 [^74]: A 8/2020. (III. 25.) OGY határozat 2. pontjával megállapított szöveg.
-[^75]: Az 52/2019. (XII. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^75]: Az 1/2022. (II. 22.) OGY határozat 1. pontjával megállapított szöveg.
 [^76]: A 9/2019. (III. 5.) OGY határozat 2. pontjával megállapított szöveg.
 [^77]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
 [^78]: A 14/2020. (V. 5.) OGY határozat 2. pontjával megállapított szöveg.
