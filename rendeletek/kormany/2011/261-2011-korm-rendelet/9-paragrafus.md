@@ -1,6 +1,6 @@
 9. § (1) A gazdálkodó szervezet abban esetben felel meg a jó hírnév 1071/2009/EK rendelet 3. cikk (1) bekezdés b) pontjában meghatározott követelményének, ha – a gazdálkodó szervezet mellett – a vezetésére (ügyvezetésére) jogosult személy (a továbbiakban: vezető), a szakmai irányító, az egyéni vállalkozó, valamint – egyszemélyes gazdasági társaság esetén – a gazdasági társaság tulajdonosa is megfelel ennek a követelménynek.
 
-(2)[^27] A jó hírnév követelménye a jó hírnévre alkalmasságot megszüntető cselekmény [1071/2009/EK rendelet 6. cikk, 2016/403 (EU) bizottsági rendelet I. Melléklet] elkövetését megállapító határozat véglegessé válását, illetve a jó hírnévre alkalmasságot megszüntető esemény bekövetkezését követő egy év leteltéig nem teljesül.
+(2)[^27] A jó hírnév követelménye a jó hírnévre alkalmasságot megszüntető cselekmény [1071/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1071/2009/EK rendelet) 6. cikk, (EU) 2016/403 bizottsági rendelet I. Melléklet] elkövetését megállapító határozat véglegessé válását, valamint a jó hírnévre alkalmasságot megszüntető esemény bekövetkezését követő egy év leteltét követően a 10. §-ban meghatározott eredményes írásbeli és szóbeli vizsga teljesítéséig nem teljesül.
 
 (3) Nem felel meg a jó hírnév követelményének az
 
@@ -16,5 +16,5 @@ d) aki vezető, szakmai irányító vagy – egyszemélyes gazdasági társaság
 
 (5) Amennyiben a jó hírnév követelményét nem magyar állampolgárnak kell teljesítenie, a jogosultság elvesztését követő ötévi időtartamon belül kizáró oknak kell tekinteni azt is, ha az engedélyt kiadó ország hatósága az engedélyes hibája miatt a közúti közlekedési szolgáltatás végzésére való jogosultságát visszavonta.
 
-[^27]: A 9. § (2) bekezdése a 476/2016. (XII. 27.) Korm. rendelet 10. §-a, a 457/2017. (XII. 28.) Korm. rendelet 359. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^27]: A 9. § (2) bekezdése a 791/2021. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^28]: A 9. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 359. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
