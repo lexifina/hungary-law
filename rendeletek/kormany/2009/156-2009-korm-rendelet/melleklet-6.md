@@ -220,6 +220,6 @@
 
 | 16. | A járművezetőnek nincs érvényes vizsga igazolása. | SJ | 40 000 | szállító (fuvarozó), járművezető |
 
-6. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^81]
+6. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^84]
 
-[^81]: A 6. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § g) pontjával megállapított szöveg.
+[^84]: A 6. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § g) pontjával megállapított szöveg.

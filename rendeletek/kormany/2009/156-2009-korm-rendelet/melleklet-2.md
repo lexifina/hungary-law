@@ -74,6 +74,16 @@
 
 | 14. | A konténer vagy a cserefelépítmény tömegét tanúsító bizonylat hiánya a fuvarozás során | EJ | 30 000 | fuvarozó, feladó |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^76]
+| 15. | A 2. § a)–e), g), h), k) pontjában felsorolt jogszabályokban foglalt előírásokat sértő fuvarozási szolgáltatások megrendelése | SJ | 400 000 | feladó, megbízó |
 
-[^76]: A 2. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § b) pontjával megállapított szöveg.
+| 16. | A tagállami gazdálkodó szervezet elmulasztja a kiküldetési nyilatkozatot benyújtani | NSJ | 300 000 | szállító |
+
+| 17. | A tagállami gazdálkodó szervezet hiányosan nyújtja be a kiküldetési nyilatkozatot | NSJ | 200 000 | szállító |
+
+| 18. | A külföldi járművezető nem tudja bemutatni a kiküldetés ellenőrzéséhez szükséges információkat a közúti ellenőrzés során | NSJ | 200 000 | járművezető |
+
+| 19. | Ugyanazzal a gépjárművel vagy járműszerelvény esetében ugyanazon jármű gépjárművével kabotázsművelet végrehajtása a kabotázsművelet végét követő négy napon belül | NSJ | 300 000 | szállító |
+
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^79]
+
+[^79]: A 2. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § b) pontjával megállapított szöveg.
