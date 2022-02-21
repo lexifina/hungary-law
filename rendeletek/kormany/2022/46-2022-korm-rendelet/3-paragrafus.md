@@ -1,3 +1,3 @@
-## 2. § A Korm. rendelet 10. §-a a következő (4) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(4) A nemzeti hatóság nevében és felkérésére támogatói okirat és a támogatási szerződés aláírása és kibocsátásának joga a lebonyolító szerv számára a lebonyolítási szerződésben foglaltak szerint átadható.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „(9) A 80. § és az (1)–(8) bekezdés figyelembevételével a követeléskezelésre a 256/2021. (V. 18.) Korm. rendelet 102. alcímét – a 418. §, valamint a 421. § a), e) és f) pontja kivételével – kell alkalmazni, azzal az eltéréssel, hogy
+## 10. §[^11]
 
-## a) irányító hatóságon a nemzeti hatóságot, valamint
-
-## b) kedvezményezetten a végső kedvezményezettet
-
-## kell érteni.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „12. nyilvánvaló hiba: a támogatást igénylő vagy a kedvezményezett által a támogatási kérelemben vagy a kifizetési kérelemben szolgáltatott adat olyan egyértelmű hiánya vagy hibája, amely a támogatási kérelem vagy a kifizetési kérelem más adataiból vagy más, közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra való felszólítás nélkül pótolható vagy javítható,”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
