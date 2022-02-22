@@ -60,4 +60,7 @@ d) a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az
 
 e) a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2020. január 23-i (EU) 2020/548 felhatalmazáson alapuló határozat
 
+f)[^3] a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2021. augusztus 25-i (EU) 2021/2183 felhatalmazáson alapuló határozat
+
 [^2]: A 3. § a 29/2020. (VIII. 19.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdés f) pontját a 9/2022. (II. 21.) EMMI rendelet 1. §-a iktatta be.
