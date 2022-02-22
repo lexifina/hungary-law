@@ -1,0 +1,3 @@
+## 1. § A Kormány közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti a tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 24/A. §-a alapján a 4iG Nyilvánosan Működő Részvénytársaságnak (székhely: 1037 Budapest, Montevideo utca 8.; Cg.: 01-10-044993, adószám: 12011069-2-44) a Tpvt. 23. § (1) bekezdés b) pontja szerinti, közvetlen részesedésszerzés útján megvalósuló összefonódását az ”ANTENNA HUNGÁRIA” Magyar Műsorszóró és Rádióhírközlési Zártkörűen Működő Részvénytársasággal (székhely: 1119 Budapest, Petzvál József utca 31–33.; Cg.: 01-10-042190, adószám: 10834730-2-44).
+
+2. § Ez a rendelet a kihirdetése napján 17 órakor lép hatályba.
