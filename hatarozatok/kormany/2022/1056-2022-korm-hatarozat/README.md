@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1056-30
 | 2022-02-16 | 2022-1056-30-22.1 | 1056/2022. (II. 15.) Korm. határozat |
 | 2022-02-17 | 2022-1056-30-22.2 | 2010: CXXX. törvény |
 | 2022-02-21 | 2022-1056-30-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-02-22 | 2022-1056-30-22.4 | 2010: CXXX. törvény |
