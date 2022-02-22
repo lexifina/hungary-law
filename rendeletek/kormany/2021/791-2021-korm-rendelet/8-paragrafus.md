@@ -1,11 +1,3 @@
-## 7. § Az R2. 26. §-a a következő (3) bekezdéssel egészül ki:
+## 7. §[^7]
 
-## „(3) Az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjárműnek Magyarország területén, kombinált szállítási műveletek részét képező
-
-## a) kezdeti,
-
-## b) végső, valamint
-
-## c) kezdeti és végső
-
-## közúti szállítási szakaszon végzett tevékenysége kabotázsnak minősül.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
