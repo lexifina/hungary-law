@@ -14,7 +14,10 @@ b) a 609/2013/EU európai parlamenti és tanácsi rendeletnek az anyatej-helyett
 
 c) a 609/2013/EU európai parlamenti és tanácsi rendeletnek a speciális gyógyászati célra szánt élelmiszerekre vonatkozó különös összetételi és tájékoztatási követelmények tekintetében való kiegészítéséről szóló, 2015. szeptember 25-i (EU) 2016/128 felhatalmazáson alapuló bizottsági rendelet
 
+d)[^23] az (EU) 2016/127 felhatalmazáson alapuló rendeletnek egyes rendelkezései alkalmazásának kezdőnapja tekintetében történő módosításáról szóló, 2021. január 20-i (EU) 2021/572 felhatalmazáson alapuló bizottsági rendelet
+
 [^19]: A 13. §-t az 5/2022. (I. 28.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
 [^20]: A 14. § (2) bekezdését az 5/2022. (I. 28.) EMMI rendelet 3. § c) pontja hatályon kívül helyezte.
 [^21]: A 14. § (3) bekezdését az 53/2009. (XII. 30.) EüM rendelet 2. §-a iktatta be.
 [^22]: A 14. § (4) bekezdését a 44/2016. (XII. 28.) EMMI rendelet 38. §-a iktatta be, szövege a 21/2021. (VI. 8.) EMMI rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^23]: A 14. § (4) bekezdés d) pontját a 21/2021. (VI. 8.) EMMI rendelet 7. § (5) bekezdése iktatta be.
