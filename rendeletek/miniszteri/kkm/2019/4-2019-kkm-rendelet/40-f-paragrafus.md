@@ -1,4 +1,4 @@
-40/F. §[^29] (1) A 40/D. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás (e § vonatkozásában a továbbiakban: támogatás) a világjárvány miatt nehéz helyzetbe került, Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező gazdasági társaság részére nyújtható.
+40/F. §[^33] (1) A 40/D. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás (e § vonatkozásában a továbbiakban: támogatás) a világjárvány miatt nehéz helyzetbe került, Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező gazdasági társaság részére nyújtható.
 
 (2) A támogatás a (3) bekezdésben meghatározottak kivételével bármely iparágban és gazdasági területen nyújtható.
 
@@ -52,4 +52,4 @@ e) az átlag bértömeg mértéke.
 
 (10) A támogatásról szóló támogatási szerződést a pályázó és a támogató 2020. december 31-ig kötheti meg.
 
-[^29]: A 40/F. §-t a 17/2020. (XII. 17.) KKM rendelet 4. §-a iktatta be.
+[^33]: A 40/F. §-t a 17/2020. (XII. 17.) KKM rendelet 4. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 11. §[^10] E rendelet 11–40/C. §-a alkalmazásában:
+## 11. §[^13] E rendelet 11–40/C. §-a alkalmazásában:
 
 1. acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
 
@@ -22,7 +22,7 @@
 
 11. független harmadik fél: olyan vállalkozás, amely nem minősül egy másik meghatározott vállalkozás vonatkozásában a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (2) bekezdése szerinti partnervállalkozásnak vagy (3) bekezdése szerinti kapcsolt vállalkozásnak,
 
-11a.[^11] határon átnyúló együttműködésben érintett és a világjárvány miatt nehéz helyzetbe került magyar vállalkozások: azon Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező vállalkozások, melyek tevékenységük során határon átnyúló együttműködésben is érintettek és tevékenységük, illetve az általuk megvalósítani tervezett beruházások a világjárvány miatt veszélybe kerültek,
+11a.[^14] határon átnyúló együttműködésben érintett és a világjárvány miatt nehéz helyzetbe került magyar vállalkozások: azon Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező vállalkozások, melyek tevékenységük során határon átnyúló együttműködésben is érintettek és tevékenységük, illetve az általuk megvalósítani tervezett beruházások a világjárvány miatt veszélybe kerültek,
 
 12. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
@@ -92,5 +92,5 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 43. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos, vagy ahhoz hasonló tevékenységnek.
 
-[^10]: A 11. § nyitó szövegrésze a 8/2020. (VI. 12.) KKM rendelet 5. § g) pontja szerint módosított szöveg.
-[^11]: A 11. § 11a. pontját a 8/2020. (VI. 12.) KKM rendelet 2. §-a iktatta be.
+[^13]: A 11. § nyitó szövegrésze a 8/2020. (VI. 12.) KKM rendelet 5. § g) pontja szerint módosított szöveg.
+[^14]: A 11. § 11a. pontját a 8/2020. (VI. 12.) KKM rendelet 2. §-a iktatta be.

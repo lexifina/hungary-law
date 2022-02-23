@@ -1,3 +1,3 @@
-## 42. §[^34] A miniszter feladat- és hatáskörébe tartozó, a minisztérium kormánytisztviselőinek, munkavállalóinak és egyéb jogviszonyban foglalkoztatott munkatársainak oktatási, kulturális, sport- és rekreációs lehetőségeit biztosító programok megszervezésével és ezek feltételeinek biztosításával kapcsolatos feladatokat a KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság, valamint a KKM Subsidium Korlátolt Felelősségű Társaság útján, vagy annak közreműködésével látja el.
+## 42. §[^40] A miniszter feladat- és hatáskörébe tartozó, a minisztérium kormánytisztviselőinek, munkavállalóinak és egyéb jogviszonyban foglalkoztatott munkatársainak oktatási, kulturális, sport- és rekreációs lehetőségeit biztosító programok megszervezésével és ezek feltételeinek biztosításával kapcsolatos feladatokat a KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság, valamint a KKM Subsidium Korlátolt Felelősségű Társaság útján, vagy annak közreműködésével látja el.
 
-[^34]: A 42. § a 17/2020. (XII. 17.) KKM rendelet 5. § d) pontja szerint módosított szöveg.
+[^40]: A 42. § a 17/2020. (XII. 17.) KKM rendelet 5. § d) pontja szerint módosított szöveg.

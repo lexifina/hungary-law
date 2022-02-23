@@ -1,4 +1,4 @@
-3. §[^3] (1) E rendelet szerinti, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet szerinti táblázat
+3. §[^6] (1) E rendelet szerinti, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet szerinti táblázat
 
 a) 8. sora alapján
 
@@ -68,4 +68,4 @@ bo) az Európai Bizottság C(2020) 3951 final számú, 2020. június 8-i határo
 
 c) 7. sora alapján – a koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatásról szóló 7/2020. (IV. 16.) KKM rendeletben meghatározott szabályok szerint – az Európai Bizottságnak a COVID-19-vírusjárvány idején a gazdaság segítése érdekében bevezethető állami támogatási intézkedésekre vonatkozó átmeneti keretszabályra vonatkozó közlemény 3.1. szakaszának feltételei szerint elfogadott, C(2020) 2332 final számú, 2020. április 8-i, C(2020) 3426 final számú, 2020. május 19-i és C(2020) 5721 final számú, 2020. augusztus 17-i határozatának, valamint az SA.57375 (2020/N) C(2020) 4286 final számú, 2020. június 23-i határozatának megfelelő támogatás
 
-[^3]: A 3. § a 3/2021. (II. 5.) KKM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § a 3/2021. (II. 5.) KKM rendelet 2. §-ával megállapított szöveg.
