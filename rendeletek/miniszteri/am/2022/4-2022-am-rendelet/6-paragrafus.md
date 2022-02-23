@@ -1,0 +1,3 @@
+## 5. § A Rendelet 3/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az (1) bekezdés szerinti esetben a szakirányítónak a tervezett légi permetezést – a vonatkozó jogszabályokban rögzített egyéb, a mezőgazdasági repüléshez szükséges légtér használatával összefüggő engedélyezési vagy bejelentési eljáráson túlmenően – a légi permetezés kezdőnapját megelőző munkanap délelőtt 9 óráig be kell jelentenie a megyei kormányhivatalnak a 3/A. § (1b) bekezdése szerinti adattartalommal. A légi permetezést a megyei kormányhivatal a tervezett időpontját megelőzően megtiltja, ha a bejelentés nem felel meg a 3/A. § (1a) és (1b) bekezdésében foglaltaknak.”
