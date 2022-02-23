@@ -58,19 +58,19 @@
 
 | 24. | Kazincbarcika | Kazincbarcikai Összevont Óvodák Mesevár és Nefelejcs tagóvodák felújítása | Kazincbarcika Város Önkormányzata | 158 000 000 | belügyminiszter |
 
-| 25. | Kazincbarcika | Kazincbarcika – Sajóivánka – Vadna térségi kerékpárút előkészítése | Kazincbarcika Város Önkormányzata | 28 000 000 | innovációért és technológiáért felelős miniszter |
+| 25. | Kazincbarcika | Kazincbarcika–Sajóivánka– Vadna térségi kerékpárút 2018. január 1-től felmerült előkészítési költségeinek fedezete | Kazincbarcika Város Önkormányzata | 28 000 000 | innovációért és technológiáért felelős miniszter |
 
-| 26. | Kazincbarcika | 26. számú elkerülő út tervezése | Kazincbarcika Város Önkormányzata | 76 200 000 | innovációért és technológiáért felelős miniszter |
+| 26. | Kazincbarcika | 26. számú elkerülő út tervezése során 2019. szeptember 23-tól felmerült tervezési és kapcsolódó költségek fedezete | Kazincbarcika Város Önkormányzata | 76 200 000 | innovációért és technológiáért felelős miniszter |
 
-| 27. | Kazincbarcika | 26. számú út Kazincbarcika belterületét érintő szakaszán 2 körforgalmi csomópont kialakítása | Kazincbarcika Város Önkormányzata | 150 000 000 | innovációért és technológiáért felelős miniszter |
+| 27. | Kazincbarcika | 26. számú út Kazincbarcika belterületét érintő szakaszán körforgalmi csomópont kialakítása | Kazincbarcika Város Önkormányzata | 150 000 000 | innovációért és technológiáért felelős miniszter |
 
 | 28. | Kazincbarcika | Árpád Fejedelem Tagiskola környezetében út és járda felújítása | Kazincbarcika Város Önkormányzata | 38 000 000 | belügyminiszter |
 
 | 29. | Kazincbarcika | Herbolyai út 5. szám alatt fekvő ingatlanon birkózó edzőcsarnok építése | Kazincbarcika Város Önkormányzata | 29 000 000 | emberi erőforrások minisztere |
 
-| 30. | Kazincbarcika | Országos bringapark – single trail pálya kialakításához önerő biztosítása | Kazincbarcika Város Önkormányzata | 27 000 000 | a miniszterelnök kabinetfőnöke, az aktív Magyarországért felelős kormánybiztos |
+| 30. | Kazincbarcika | Országos bringapark – single trail pálya kialakításához önerő biztosítása | Kazincbarcika Város Önkormányzata | 27 000 000 | innovációért és technológiáért felelős miniszter |
 
-| 31. | Kazincbarcika | Országos Futópálya Építési Program – 2021 | Kazincbarcika Város Önkormányzata | 30 000 000 | a miniszterelnök kabinetfőnöke, az aktív Magyarországért felelős kormánybiztos |
+| 31. | Kazincbarcika | Országos Futópálya Építési Program – 2021 | Kazincbarcika Város Önkormányzata | 30 000 000 | emberi erőforrások minisztere |
 
 | 32. | Kazincbarcika | Egressy út – 26. számú út kereszteződésében körforgalmi csomópont tervezése | Kazincbarcika Város Önkormányzata | 25 000 000 | innovációért és technológiáért felelős miniszter |
 
@@ -122,4 +122,4 @@
 
 | 56. | Zalaegerszeg | A Zalaréti Kastély Rendezvényközpont felújításának előkészítési munkálatai | Zalaegerszeg Megyei Jogú Város Önkormányzata | 114 640 000 | Miniszterelnökséget vezető miniszter |
 
-[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja, az 1881/2021. (XII. 7.) Korm. határozat 6. pontja, az 1914/2021. (XII. 15.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja, az 1881/2021. (XII. 7.) Korm. határozat 6. pontja, az 1914/2021. (XII. 15.) Korm. határozat 5. pontja, az 1084/2022. (II. 23.) Korm. határozat szerint módosított szöveg.
