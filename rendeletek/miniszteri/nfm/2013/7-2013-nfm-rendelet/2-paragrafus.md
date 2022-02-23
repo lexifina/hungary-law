@@ -2,7 +2,7 @@
 
 a)[^4] VERITAS Történetkutató Intézet;
 
-b)[^5] TLA Vagyonkezelő és -hasznosító Korlátolt Felelősségű Társaság;
+b)[^5] Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság;
 
 c)[^6] Bethlen Gábor Alapkezelő Nonprofit Zrt.;
 
@@ -41,7 +41,7 @@ r)[^19]
 s)[^20] a Miniszterelnökség, a Magyar Kormánytisztviselői Kar Országos Irodájának működtetése körében, az informatikai támogatásának biztosítása érdekében eljárva.
 
 [^4]: A 2. § a) pontja a 9/2014. (II. 21.) NFM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § b) pontja a 46/2020. (XII. 21.) BM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § b) pontja az 1/2022. (II. 22.) BM rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § c) pontját a 28/2013. (VI. 12.) NFM rendelet 3. §-a hatályon kívül helyezte, újonnan a 26/2014. (IV. 30.) NFM rendelet 1. §-a iktatta be.
 [^7]: A 2. § d) pontját a 3/2015. (II. 11.) BM rendelet 3. §-a hatályon kívül helyezte, újonnan a 12/2021. (V. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
 [^8]: A 2. § e) pontját a 46/2015. (VII. 28.) BM rendelet 4. § (1) bekezdése hatályon kívül helyezte, újonnan a 12/2021. (V. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
