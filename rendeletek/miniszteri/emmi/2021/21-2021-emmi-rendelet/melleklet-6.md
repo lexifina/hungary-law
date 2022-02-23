@@ -1,3 +1,3 @@
-6. melléklet a 21/2021. (VI. 8.) EMMI rendelethez[^22]
+6. melléklet a 21/2021. (VI. 8.) EMMI rendelethez[^25]
 
-[^22]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
