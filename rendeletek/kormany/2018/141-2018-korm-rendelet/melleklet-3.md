@@ -188,6 +188,10 @@
 
 | 87. | Gyáregység létrehozására irányuló beruházás Komárom területén | Komárom közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 7127/2 helyrajzi számú ingatlan | Komárom-Esztergom Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^250]
+| 88. | Gyáregység létrehozására irányuló beruházás Felsőzsolca területén | Felsőzsolca külterület 032/2, 033/1, 034/20 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^250]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+| 89. | Gyártóegység kialakítására irányuló beruházás Újhartyán területén | Újhartyán belterület 1100/2 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^252]
+
+[^252]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
