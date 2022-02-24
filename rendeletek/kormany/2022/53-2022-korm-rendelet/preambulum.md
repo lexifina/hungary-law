@@ -1,0 +1,1 @@
+Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (4) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
