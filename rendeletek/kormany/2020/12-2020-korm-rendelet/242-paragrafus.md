@@ -10,7 +10,7 @@ d) kamarai gyakorlati oktatói vizsgával rendelkezik.
 
 (2) Mentesül a kamarai gyakorlati oktatóivizsga-letétel alól az, aki
 
-a)[^192] szakirányú mestervizsgával rendelkezik,
+a)[^182] szakirányú mestervizsgával rendelkezik,
 
 b) a duális képzőhely által vállalt szakmának megfelelő
 
@@ -26,4 +26,4 @@ c) a hatvanadik életévét betöltötte.
 
 (4) A duális képzőhelyen oktatóként elsősorban a szakoktatói képesítéssel rendelkező személyt kell alkalmazni.
 
-[^192]: A 242. § (2) bekezdés a) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 50. pontja szerint módosított szöveg.
+[^182]: A 242. § (2) bekezdés a) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 50. pontja szerint módosított szöveg.

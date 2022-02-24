@@ -16,35 +16,35 @@ c) honvédségi szakképző intézmény (a továbbiakban: HKP III. szintje) tanu
 
 (2) A honvéd kadét ösztöndíj összegét félévente kell megállapítani, a félévet közvetlenül megelőző félévi, illetve év végi minősítés két tizedesjegyre kerekített számtani átlagaként meghatározott tanulmányi átlageredmény (a továbbiakban: tanulmányi átlageredmény) alapján. Ha a honvéd kadétnak javítóvizsgát, osztályozó vizsgát vagy pótlóvizsgát kell tennie, a tanulmányi átlageredményt a javítóvizsga, az osztályozó vizsga vagy a pótlóvizsga letételét követően, annak eredménye figyelembevételével a félév első napjáig visszamenőlegesen kell megállapítani.
 
-(3)[^163] A honvéd kadét ösztöndíj alapja a szakirányú oktatás központi költségvetésről szóló törvényben meghatározott önköltségének egyhavi összege.
+(3)[^163]
 
-(4) A honvéd kadét ösztöndíj havonkénti összege
+(4)[^164] A honvéd kadét ösztöndíj havonkénti összege
 
-a) a HKP I. szintjén a kilencedik évfolyam második félévétől kezdődően és a további félévekben a honvéd kadét ösztöndíj alapjának
+a) a HKP I. szintjén a kilencedik évfolyam második félévétől kezdődően és a további félévekben
 
-aa)[^164] tizenegy százaléka, ha a tanulmányi átlageredmény 3,50–3,99 között van,
+aa) tizennégyezer forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
 
-ab)[^165] huszonkettő százaléka, ha a tanulmányi átlageredmény 4,00–4,49 között van,
+ab) huszonhatezer forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
 
-ac)[^166] harmincnégy százaléka, ha a tanulmányi átlageredmény 4,49 fölött van,
+ac) negyvenezer forint, ha a tanulmányi átlageredmény 4,49 fölött van,
 
-b) a HKP II. szintjén a kilencedik évfolyam második félévétől kezdődően és a további félévekben a honvéd kadét ösztöndíj alapjának
+b) a HKP II. szintjén a kilencedik évfolyam második félévétől kezdődően és a további félévekben
 
-ba)[^167] tizenhárom százaléka, ha a tanulmányi átlageredmény 3,50–3,99 között van,
+ba) tizenhatezer forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
 
-bb)[^168] huszonöt százaléka, ha a tanulmányi átlageredmény 4,00–4,49 között van,
+bb) harmincezer forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
 
-bc)[^169] harminckilenc százaléka, ha a tanulmányi átlageredmény 4,49 fölött van,
+bc) negyvenhatezer forint, ha a tanulmányi átlageredmény 4,49 fölött van,
 
-c)[^170] a HKP III. szintjén a kilencedik évfolyam első félévében a honvéd kadét ösztöndíj alapjának nyolc százaléka, a kilencedik évfolyam második félévétől kezdődően és a további félévekben a honvéd kadét ösztöndíj alapjának
+c) a HKP III. szintjén a kilencedik évfolyam első félévében tízezer forint, a kilencedik évfolyam második félévétől kezdődően és a további félévekben
 
-ca)[^171] nyolc százaléka, ha a tanulmányi átlageredmény 3,50 alatt van,
+ca) tízezer forint, ha a tanulmányi átlageredmény 3,50 alatt van,
 
-cb)[^172] tizenhat százaléka, ha a tanulmányi átlageredmény 3,50–3,99 között van,
+cb) húszezer forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
 
-cc)[^173] harminckettő százaléka, ha a tanulmányi átlageredmény 4,00–4,49 között van,
+cc) harmincnyolcezer forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
 
-cd)[^174] negyvennyolc százaléka, ha a tanulmányi átlageredmény 4,49 fölött van.
+cd) ötvennyolcezer forint, ha a tanulmányi átlageredmény 4,49 fölött van.
 
 (5) A honvéd kadét ösztöndíj a honvéd kadétot kizárólag a tanítási év időszakában, tíz hónapra illeti meg. Teljes havi honvéd kadét ösztöndíjat kell fizetni abban a hónapban, amelyben a honvéd kadét a HKP-hoz csatlakozott szakképző intézménnyel fennálló tanulói jogviszonnyal rendelkezik, és legalább egy napig jogosult a honvéd kadét ösztöndíjra. A honvéd kadét július és augusztus hónapban honvéd kadét ösztöndíjra nem jogosult.
 
@@ -53,15 +53,5 @@ cd)[^174] negyvennyolc százaléka, ha a tanulmányi átlageredmény 4,49 fölö
 (7) A honvéd kadét ösztöndíj tervezését, elszámolását és kifizetését, valamint a honvéd kadét ösztöndíj kifizetéséhez szükséges adatoknak a honvédelemért felelős miniszter által biztosított informatikai rendszerbe történő rögzítését a Magyar Honvédség parancsnoka által kijelölt honvédségi szervezet látja el a HKP-hoz csatlakozott szakképző intézmény adatszolgáltatása alapján.
 
 [^162]: A 177/A. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
-[^163]: A 177/A. § (3) bekezdése a 800/2021. (XII. 28.) Korm. rendelet 13. § 20. pontja szerint módosított szöveg.
-[^164]: A 177/A. § (4) bekezdés a) pont aa) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
-[^165]: A 177/A. § (4) bekezdés a) pont ab) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 22. pontja szerint módosított szöveg.
-[^166]: A 177/A. § (4) bekezdés a) pont ac) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 23. pontja szerint módosított szöveg.
-[^167]: A 177/A. § (4) bekezdés b) pont ba) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 24. pontja szerint módosított szöveg.
-[^168]: A 177/A. § (4) bekezdés b) pont bb) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 25. pontja szerint módosított szöveg.
-[^169]: A 177/A. § (4) bekezdés b) pont bc) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 26. pontja szerint módosított szöveg.
-[^170]: A 177/A. § (4) bekezdés c) pont nyitó szövegrésze a 800/2021. (XII. 28.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.
-[^171]: A 177/A. § (4) bekezdés c) pont ca) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 28. pontja szerint módosított szöveg.
-[^172]: A 177/A. § (4) bekezdés c) pont cb) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
-[^173]: A 177/A. § (4) bekezdés c) pont cc) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 30. pontja szerint módosított szöveg.
-[^174]: A 177/A. § (4) bekezdés c) pont cd) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 31. pontja szerint módosított szöveg.
+[^163]: A 177/A. § (3) bekezdését az 54/2022. (II. 23.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^164]: A 177/A. § (4) bekezdése az 54/2022. (II. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
