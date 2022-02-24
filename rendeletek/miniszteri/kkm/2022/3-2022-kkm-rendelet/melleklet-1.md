@@ -1,15 +1,5 @@
 ## 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 3/2022. (II. 22.) KKM rendelethez
+1. melléklet a 3/2022. (II. 22.) KKM rendelethez[^6]
 
-1. A KKM rendelet 1. mellékletében foglalt táblázat 4. sora helyébe a következő sor lép:
-
-| (1 | Áht. azonosító | Címnév | Alcímnév | Jogcím csop. név | Jogcímnév | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Visszafizetés határideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszírozott költségvetési támogatás közreműködő szervezete) |
-
-| 4 | 348695 |  |  | Külgazdasági és Külügyminisztérium felügyelete alá tartozó szervezetek és szakmai programok támogatása | Az előirányzat elsősorban a nem nevesített, azonban a minisztérium vagy az irányítása alá tartozó intézmény szakmai programjainak, valamint a Magyar Állam képviseletében a minisztérium által alapított közérdekű vagyonkezelő alapítvány közfeladat ellátásának támogatását szolgálja. Az előirányzat támogatási projektek, valamint visszterhes szerződések kiadásainak fedezetére egyaránt fedezetet nyújt. Az előirányzat terhére kerül lebonyolításra az egységes külképviseleti rendszer és a külképviseleti hálózat működtetésével és fenntartásával kapcsolatos adminisztratív-technikai és egyéb feladatok ellátásának – kiemelten a konzuli hálózat és konzuli szolgáltatások működtetésének, az egységes külképviseleti rendszert és külképviseleti hálózatot érintő üzemeltetési, technikai feladatok ellátásának, a biztonságos működés érdekében, valamint a minisztérium egyes – a kötelezően központi szolgáltató által nyújtott központosított informatikai szolgáltatások kivételével – informatikai, távközlési és infokommunikációs rendszerei üzemeltetésének, valamint az iratkezelési és irattovábbítási tevékenységnek – a támogatása is. | költségvetési szerv, gazdasági társaság, civil szervezet, közalapítvány, társulás, egyéni vállalkozó, köztestület, szövetkezet, közérdekű vagyonkezelő alapítvány, KKM Subsidium Korlátolt Felelősségű Társaság | pályázati úton, egyedi írásos kérelemre, egyedi döntés alapján, támogatási szerződéssel vagy támogatói okirattal | előleg biztosítható | a) költségvetési támogatás esetén egy összegben vagy részletekben, időarányosan vagy teljesítés- arányosan b) egyéb kifizetés esetén közvetlen kifizetéssel egy összegben vagy részletekben; időarányosan vagy teljesítés- arányosan; közszolgáltatási szerződéssel; előirányzat-átcsoportosítással |  | Az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat határon túli költségvetési támogatás esetén a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet alapján el lehet tekinteni |  | A minisztérium vagy az irányítása alá tartozó intézmény azon szakmai programjainak támogatásával kapcsolatos feladatok megvalósítása során, amelyek más költség-vetési szerv irányítása, szakmai felügyelete alatt vagy közreműködése mellett valósulnak meg, lebonyolító szerv járhat el. |  |
-
-2. A KKM rendelet 1. melléklet N:7 mezője helyébe a következő mező lép:
-
-|  | (Lebonyolító szerv) |
-
-| (7) | A kárpátaljai magyar nyelvű oktatás fejlesztésével kapcsolatos projektek vonatkozásában a Bethlen Gábor Alapkezelő Zártkörűen Működő Részvény-társaság lebonyolító szervként járhat el. |
+[^6]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
