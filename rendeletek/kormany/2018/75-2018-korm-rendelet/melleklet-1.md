@@ -1,4 +1,4 @@
-## 8. §[^1]
+## 8. §[^3]
 
 1. melléklet a 75/2018. (IV. 20.) Korm. rendelethez
 
@@ -48,4 +48,4 @@
 
 4.5. befejező határozat jogerőre emelkedésének napja.
 
-[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

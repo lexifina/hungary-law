@@ -10,6 +10,8 @@ a) az (1) bekezdés a) pontja szerinti feladatait,
 
 b) az (1) bekezdés b) pontja szerinti informatikai fejlesztési, technikai üzemeltetési és az adatbázis technikai biztonsági feladatait, valamint
 
-c) a 2015/848 EU rendelet 25. cikke alapján 2019. június 26-áig felállításra kerülő, összekapcsolt tagállami fizetésképtelenségi nyilvántartásokra vonatkozóan azokat a feladatokat, amelyek az információcserével, a tagállami informatikai rendszerek elektronikus kommunikációjával, valamint ezekkel kapcsolatban a magyarországi műszaki feltételek biztosításával függenek össze.
+c)[^2] a 2015/848 EU rendelet 25. cikke alapján összekapcsolt tagállami fizetésképtelenségi nyilvántartásokra vonatkozóan azokat a feladatokat, amelyek az információcserével, a tagállami informatikai rendszerek elektronikus kommunikációjával, valamint ezekkel kapcsolatban a magyarországi műszaki feltételek biztosításával függenek össze.
 
 (3) A 2015/848 EU rendelet 79. cikkében meghatározott adatkezelői feladatokat a fizetésképtelenségi nyilvántartó látja el.
+
+[^2]: A 2. § (2) bekezdés c) pontja az 53/2022. (II. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
