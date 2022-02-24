@@ -1,5 +1,3 @@
-## 9. § A Rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a) bekezdéssel egészül ki:
+## 9. §[^10]
 
-## „(1) Zárt kabinú mezőgazdasági légijárművel légi kijuttatásra engedélyezett növényvédő szer és növényvédő szernek nem minősülő növényvédő hatású termék juttatható ki.
-
-## (1a) Pilóta nélküli légijárművel pilóta nélküli légijárművel való kijuttatásra engedélyezett növényvédő szer és növényvédő szernek nem minősülő növényvédő hatású termék juttatható ki.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 6. § A Rendelet 4. §-a helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## „4. § Mezőgazdasági repülés zárt kabinú légijárművel repülőtérről vagy leszállóhelyről végezhető. A mezőgazdasági repülés céljára szolgáló pilóta nélküli légijárművel repülés az engedélyezett légtérhez tartozó területről végezhető.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
