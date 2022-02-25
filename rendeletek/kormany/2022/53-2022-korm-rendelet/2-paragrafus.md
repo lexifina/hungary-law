@@ -1,1 +1,0 @@
-## „b) elektronikus adatfeldolgozás: az elektronikus formában rögzített adatra vonatkozó adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése, így különösen az elektronikus úton vezetett nyilvántartás létrehozásának, működtetésének és üzemeltetésének technikai művelete.”
