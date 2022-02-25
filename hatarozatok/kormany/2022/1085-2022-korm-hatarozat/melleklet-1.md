@@ -42,36 +42,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:259 mezőjében a „0,17” szövegrész helyébe a „0,88” szöveg,
-
-## b) E:259 mezőjében a „0,02” szövegrész helyébe a „0,15” szöveg,
-
-## c) D:261mezőjében a „0,12” szövegrész helyébe az „1,01” szöveg,
-
-## d) E:261 mezőjében a „0,02” szövegrész helyébe a „0,12” szöveg,
-
-## e) D:271 mezőjében a „0,34” szövegrész helyébe az „1,61” szöveg,
-
-## f) E:271 mezőjében a „0,04” szövegrész helyébe a „0,18” szöveg,
-
-## g) D:295 mezőjében a „0,25” szövegrész helyébe az „1,04” szöveg,
-
-## h) E:295 mezőjében a „0,05” szövegrész helyébe a 0,19” szöveg,
-
-## i) D:297d mezőjében a „6,50” szövegrész helyébe a „11,12” szöveg,
-
-## j) E:297d mezőjében a „0,73” szövegrész helyébe az „1,24” szöveg,
-
-## k) D:316f mezőjében az „5,16” szövegrész helyébe a „6,75” szöveg,
-
-## l) E:316f mezőjében a „0,28” szövegrész helyébe a „0,36” szöveg,
-
-## m) D:316h mezőjében az „1,88” szövegrész helyébe a „6,45” szöveg,
-
-## n) E:316h mezőjében a „0,21” szövegrész helyébe a „0,72” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1085/2022. (II. 23.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
