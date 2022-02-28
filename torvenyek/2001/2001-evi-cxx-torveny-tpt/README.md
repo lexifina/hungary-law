@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2021-08-02 | 2021. évi LVIII. törvény | 2001-120-00-00.86 |
 | 2021-11-10 | 2021. évi LVIII. törvény | 2001-120-00-00.87 |
 | 2022-01-01 | 2021. évi LVIII. törvény | 2001-120-00-00.88 |
+| 2022-02-28 | 2021. évi LVIII. törvény | 2001-120-00-00.89 |
