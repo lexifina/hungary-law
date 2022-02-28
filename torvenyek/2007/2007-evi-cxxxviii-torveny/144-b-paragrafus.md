@@ -4,6 +4,8 @@
 
 (3) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységekkel vagy azok származtatott eszközeivel kereskednek, legalább naponta egyszer átadja a Felügyeletnek az MTF-en, illetve OTF-en jelen lévő összes személy – többek között a tagok vagy résztvevők és azok ügyfelei – pozícióinak teljes körű bontását.
 
+(3a) A pozíciók jelentése nem vonatkozik az olyan részvényen és kötvényen kívüli átruházható értékpapírra, amely feljogosít bármely ilyen átruházható értékpapír megszerzésére vagy eladására, vagy átruházható értékpapírokra, devizákra, kamatlábakra vagy hozamokra, árucikkekre vagy más indexekre vagy mértékekre történő hivatkozással meghatározott készpénzzel történő teljesítésre ad lehetőséget, amely áruhoz vagy a 6. § j) és k) pontjában felsorolt alaptermékhez kapcsolódik.
+
 (4) A valamely árualapú származtatott termékben vagy kibocsátási egységben vagy annak származtatott eszközében pozícióval rendelkező személyeket az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek a főtevékenységük jellegének megfelelően és az esetleges vonatkozó engedélyeket figyelembe véve, az alábbiak szerint kell csoportosítania:
 
 a) befektetési vállalkozások vagy hitelintézetek,

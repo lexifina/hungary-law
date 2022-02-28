@@ -8,7 +8,7 @@ c) a 48. § (3) bekezdésében meghatározott intézmény, és
 
 d) az a vállalkozás, amelyet a székhelye szerinti állam ilyenként ismer el.
 
-(2) A befektetési vállalkozásnak az 5. § (1) bekezdésének a)–c) pontjában meghatározott befektetési szolgáltatási tevékenysége és ehhez kapcsolódó kiegészítő szolgáltatása esetében – ha azt az (1) bekezdésben meghatározott elfogadható partner számára nyújtja – a 40. § (1)–(4) és (8) bekezdésében, a 41. §-ban, a 43–46. §-ban, az 55. §-ban, a 62. §-ban, a 63. §-ban, valamint a 64. § (1) bekezdésében foglaltakat – a (3) és (4) bekezdésben foglalt kivétellel – nem kell alkalmaznia.
+(2) A befektetési vállalkozásnak az 5. § (1) bekezdés a)–c) pontjában meghatározott befektetési szolgáltatási tevékenysége és ehhez kapcsolódó kiegészítő szolgáltatása esetében – ha azt az (1) bekezdésben meghatározott elfogadható partner számára nyújtja – a 40. § (1)–(7) és (8) bekezdésében, a 41. §-ban, a 43–46. §-ban, az 55. §-ban, a 62. §-ban, a 63. §-ban, a 64. § (1) bekezdésében, a 67. §-ban, valamint a 69. §-ban foglaltakat nem kell alkalmaznia.
 
 (3) Az (1) bekezdés b), illetve c) pontjában meghatározott elfogadható partnernek minősülő ügyfél – akár egyes ügyletek vonatkozásában, akár általános jelleggel – kérheti, hogy a befektetési vállalkozás rá vonatkozóan ne a (2) bekezdésben említettek szerint járjon el. Ebben az esetben – ha az elfogadható partner kifejezetten eltérően nem nyilatkozik –, rá a szakmai ügyfél tekintetében alkalmazandó rendelkezések szerint kell eljárni.
 

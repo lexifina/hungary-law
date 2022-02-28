@@ -9,3 +9,5 @@
 (5) Abban az esetben, ha a befektetési vállalkozás nem saját maga által kialakított pénzügyi eszközöket kínál vagy ajánl, kielégítő megoldásokat kell alkalmaznia a (4) bekezdésben említett információk beszerzésére és minden egyes pénzügyi eszköz jellemzőinek és azonosított célpiacainak megértésére.
 
 (6) Az e § szerinti szabályok, folyamatok és megoldások e törvénynek és a 600/2014/EU rendelet előírásainak – ideértve a közzétételre, az alkalmasságra vagy megfelelőségre, az összeférhetetlenségek azonosítására és kezelésére, valamint az ösztönzőkre vonatkozóakat is – sérelme nélkül alkalmazandók.
+
+(7) A befektetési vállalkozás mentesül az (1)–(4) bekezdésben, valamint a 40. § (2) és (3) bekezdésében meghatározott követelmények alól, ha az általa nyújtott befektetési szolgáltatási tevékenység olyan kötvényekhez kapcsolódik, amelyek a kiegészítési záradékon kívül nem tartalmaznak más beágyazott származtatott terméket, vagy ha a pénzügyi eszközöket kizárólag elfogadható partnerek részére értékesítik vagy forgalmazzák.

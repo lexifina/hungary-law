@@ -10,6 +10,8 @@ annak érdekében, hogy a körülményeihez igazodó, veszteségviselési képes
 
 (1a) Ha egy befektetési vállalkozás olyan befektetési tanácsot ad, amelyben a 41. § (9) bekezdése szerinti szolgáltatáscsomagot vagy termékcsomagot ajánl, biztosítja, hogy a csomag összességében alkalmas legyen az ügyfél vagy a leendő szerződő fél számára.
 
+(1b) Pénzügyi eszközök közötti váltást érintő befektetési tanácsadás vagy portfóliókezelés nyújtása esetén, a befektetési vállalkozás beszerzi az ügyfél befektetésével kapcsolatos szükséges információkat, és elemzi a pénzügyi eszközök közötti váltás költségeit és előnyeit. Befektetési tanácsadás nyújtása esetén a befektetési vállalkozás tájékoztatja az ügyfelet, hogy a pénzügyi eszközök közötti váltás hasznai meghaladják-e az ilyen váltás költségeit.
+
 (2) Az (1) bekezdésben meghatározott tájékozódás (a továbbiakban: alkalmassági teszt) keretében a befektetési vállalkozás értékeli a befektetési tanácsadási tevékenysége vagy portfóliókezelési tevékenysége keretében kínált szolgáltatásának a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 54. és 55. cikkében meghatározottaknak történő megfelelését.
 
 (3) A befektetési vállalkozás befektetési tanácsadási tevékenysége keretében kínált szolgáltatás esetén az ügylet megvalósítását megelőzően, tartós adathordozón nyilatkozatot tesz a tanácsadás ügyfél számára való alkalmasságáról (a továbbiakban: alkalmassági nyilatkozat), amelyben ismerteti az adott tanácsadást, és hogy az miként elégíti ki a lakossági ügyfél preferenciáit, céljait és egyéb jellemző igényeit.

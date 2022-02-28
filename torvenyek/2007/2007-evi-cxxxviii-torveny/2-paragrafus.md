@@ -26,19 +26,23 @@ e) arra a személyre vagy szervezetre, aki az e törvényben nem szabályozott t
 
 f) arra a személyre vagy szervezetre, aki vagy amely árualapú származtatott termékkel, kibocsátási egységgel vagy arra vonatkozó származtatott termékkel – ideértve az árjegyzőket is – sajátszámlás kereskedést folytat, annak kivételével, aki vagy amely ügyfélmegbízás végrehajtása során végez sajátszámlás kereskedést feltéve, hogy:
 
-fa) egyedi és összesített alapon az e pont szerinti tevékenysége – csoportszinten figyelembe véve – a főtevékenységéhez képest kiegészítő jellegű tevékenység, és főtevékenysége nem az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
+fa) egyedi és összesített alapon az e pont szerinti tevékenysége – csoportszinten figyelembe véve – a főtevékenységéhez képest kiegészítő jellegű tevékenység,
 
-fb) nem alkalmaz nagysebességű algoritmikus kereskedési technikát, és
+fb) nem tartozik olyan csoporthoz, amelynek főtevékenysége az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
 
-fc) évente beszámol a Felügyeletnek arról, hogy alkalmazza-e a mentesítést és kérésre tájékoztatja a Felügyeletet arról, hogy milyen alapon ítéli meg úgy, hogy az e pont szerinti tevékenysége főtevékenységéhez képest kiegészítő jellegű tevékenység,
+fc) nem alkalmaz nagy sebességű algoritmikus kereskedési technikát, és
+
+fd) kérésre tájékoztatja a Felügyeletet arról, hogy milyen alapon értékeli úgy, hogy az e pont szerinti tevékenysége főtevékenységéhez képest kiegészítő jellegű tevékenység,
 
 g) arra a személyre vagy szervezetre, aki vagy amely árualapú származtatott termékkel, kibocsátási egységgel vagy arra vonatkozó származtatott termékkel – sajátszámlás kereskedés kivételével – nyújt befektetési szolgáltatási tevékenységet főtevékenysége szerinti ügyfelei vagy partnerei számára, feltéve, hogy
 
-ga) egyedi és összesített alapon az e pont szerinti tevékenysége – csoportszinten figyelembe véve – a főtevékenységéhez képest kiegészítő jellegű tevékenység, és főtevékenysége nem az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
+ga) egyedi és összesített alapon az e pont szerinti tevékenysége – csoportszinten figyelembe véve – a főtevékenységéhez képest kiegészítő jellegű tevékenység,
 
-gb) nem alkalmaz nagysebességű algoritmikus kereskedési technikát, és
+gb) nem tartozik olyan csoporthoz, amelynek főtevékenysége az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
 
-gc) évente beszámol a Felügyeletnek arról, hogy alkalmazza-e a mentesítést és kérésre tájékoztatja a Felügyeletet arról, hogy milyen alapon ítéli meg úgy, hogy az e pont szerinti tevékenysége főtevékenységéhez képest kiegészítő jellegű tevékenység,
+gc) nem alkalmaz nagy sebességű algoritmikus kereskedési technikát, és
+
+gd) kérésre tájékoztatja a Felügyeletet arról, hogy milyen alapon értékeli úgy, hogy az e pont szerinti tevékenysége főtevékenységéhez képest kiegészítő jellegű tevékenység,
 
 h) arra a befektetési szolgáltatási tevékenységet végző vállalkozásra, amely a befektetési szolgáltatási tevékenységet – a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete [a továbbiakban: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete] 4. cikkében meghatározott feltételek mellett – eseti jelleggel, szakmai tevékenysége keretében végzi, és az e szakmai tevékenységet szabályozó jogszabályok, rendelkezések vagy szakmai etikai kódex nem zárják ki befektetési szolgáltatási tevékenység végzését,
 

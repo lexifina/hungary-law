@@ -96,6 +96,8 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 16a. egymásnak megfelelő ügyfélmegbízásokat párosító kereskedés (matched principal trading): olyan ügylet, ahol a befektetési vállalkozás vagy a piacműködtető a vevő és az eladó közé helyezi magát oly módon, hogy a tranzakció végrehajtása során nincs kitéve piaci kockázatnak, mivel mindkét oldalt egyszerre hajtják végre, valamint a tranzakciót olyan áron hajtja végre, hogy nincs nyeresége vagy vesztesége az előre meghirdetett jutalékon vagy díjon kívül,
 
+16b. elektronikus formátum: a papírtól eltérő bármely tartós adathordozó,
+
 17. elismert elszámolóház: EGT-államban vagy az OECD tagállamában működő, a székhely szerinti ország jogszabálya vagy felügyeleti hatósága által elismertnek minősített, az elszámolásforgalom lebonyolítását végző pénzügyi intézmény, illetve központi szerződő fél tevékenységet végző szervezet,
 
 18.
@@ -152,6 +154,8 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
 
+34e. kiegészítési záradék: olyan záradék, amely a befektető védelmére irányul annak biztosítása révén, hogy a kötvény lejárat előtti visszaváltása esetén a kibocsátó köteles a kötvényt birtokló befektetőnek kifizetni – a visszaváltott kötvény tőkeösszege mellett – azon kamatszelvények nettó jelenértékét, amelyekre akkor lett volna jogosult, ha a kötvény lejárat előtti beváltására nem kerül sor,
+
 35. kis méretű és össze nem kapcsolt befektetési vállalkozás: az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott fogalom,
 
 36. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,
@@ -188,7 +192,7 @@ c) az eladási és vételi ár különbségének (spread) átlagos nagyságrendj
 
 46. megbízás végrehajtása az ügyfél javára: pénzügyi eszköz vételére vagy eladására vonatkozó megállapodás megkötésére irányuló tevékenység végzése az ügyfél javára, amely magában foglalja a befektetési vállalkozás vagy hitelintézet által kibocsátott pénzügyi eszköz értékesítésére vonatkozó megállapodás megkötését a kibocsátás pillanatában,
 
-47. mezőgazdasági áru alapú származtatott ügyletek: az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikkében, I. mellékletének I–XX. részében és XXIV/1. részében felsorolt termékekhez kapcsolódó származtatott ügyletek,
+47. mezőgazdasági áru alapú származtatott ügyletek: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) 1. cikkében, I. mellékletének I–XX. részében és XXIV. rész 1. szakaszában felsorolt termékekhez, valamint a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében felsorolt termékekhez kapcsolódó származtatott ügyletek,
 
 48. miniszter: a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter,
 
@@ -213,6 +217,8 @@ c) a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 19. cikkében 
 50. pénzügyi elemző: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott személy,
 
 51. pénzpiaci eszköz: a fizetőeszköz kivételével sorozatban kibocsátott pénzkövetelésre szóló eszköz, amellyel pénzpiacon kereskednek
+
+51a. pénzügyi eszközök közötti váltás: egy pénzügyi eszköz eladása és egy másik pénzügyi eszköz vétele vagy egy meglévő pénzügyi eszközt érintő módosításra vonatkozó jog gyakorlása,
 
 51b. pénzügyi vállalkozás: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 14. pontjában meghatározott fogalom,
 
@@ -281,6 +287,8 @@ c) olyan helyzet, amelyben ezek ellenőrző befolyás révén tartósan kapcsol�
 65. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését,
 
 65a. tőzsdén kereskedett alap: olyan befektetési alap, amelynek legalább egy kollektív befektetési értékpapírjával kereskednek az egész nap folyamán legalább egy kereskedési helyszínen és van legalább egy olyan árjegyző, amely fellép annak biztosítására, hogy a kereskedési helyszínen kereskedett kollektív befektetési értékpapír ára jelentős mértékben ne térjen el annak nettó eszközértékétől, illetve adott esetben annak indikatív nettó eszközértékétől,
+
+65b. túlnyomórészt üzleti jellegű vállalkozáscsoport: olyan csoport, amelynek főtevékenysége nem az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
 
 66. ügyfél: az, aki az e törvény hatálya alá tartozó szolgáltatást vesz igénybe,
 
