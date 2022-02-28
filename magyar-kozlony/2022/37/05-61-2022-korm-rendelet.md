@@ -1,0 +1,54 @@
+# A Kormány 61/2022. (II. 28.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 37. szám, 2022. február 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5ulBvD4V6HNkRmeMFO1h6215231044d70/dokumentumok/2fa2e0e6e0884724aff074ec822cd1940cca1001/letoltes)
+
+---
+
+A Kormány 61/2022. (II. 28.) Korm. rendelete
+a mikro-, kis- és középvállalkozások 2022. évi iparűzési adókedvezményével kapcsolatos önkormányzati
+támogatásról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A központi költségvetés felhasználási kötöttség nélküli támogatást nyújt a települési önkormányzatoknak
+a mikro-, kis- és középvállalkozások számára biztosított iparűzési adókedvezmény miatti bevételkiesés
+támogatására.
+2. §
+A támogatás alapja a Magyar Államkincstár által 2022. május 16-áig szolgáltatott – az ASP Adó szakrendszerben
+található, vagy interfészen keresztül az ASP adattárházba átadott –, 2022. május 10-ei dátumú adatsor
+(a továbbiakban: kieső iparűzési adóbevétel).
+3. § (1) A támogatás összege a huszonötezer főnél nem nagyobb lakosságszámú települési és kerületi önkormányzat
+esetében a kieső iparűzési adóbevétellel megegyező összeg.
+(2) A támogatás összege a huszonötezer főnél nagyobb lakosságszámú települési önkormányzat esetében
+– a (3) bekezdésben foglalt kivétellel – az egy lakosra jutó iparűzési adóerő-képességtől függő mértékű összeg, amit
+a 2022. évi egy főre jutó iparűzési adóerő-képesség átlag – 67 622 forint/fő – figyelembevételével kell meghatározni
+úgy, hogy
+a) a kieső iparűzési adóbevétel 100%-ának megfelelő összegű a támogatás, ha a település egy főre jutó
+iparűzési adóerő-képessége az átlag 70%-ánál kisebb,
+b) a kieső iparűzési adóbevétel 75%-ának megfelelő összegű a támogatás, ha a település egy főre jutó iparűzési
+adóerő-képessége az átlagnál kisebb, de annak 70%-át meghaladja,
+c) nem részesül támogatásban a települési önkormányzat, ha a település egy főre jutó iparűzési
+adóerő-képessége az átlagot meghaladja.
+(3) A huszonötezer főnél nagyobb lakosságszámú fővárosi és kerületi önkormányzat nem részesül támogatásban.
+(4) Az önkormányzatok lakosságszáma tekintetében a helyi önkormányzatokért felelős miniszter által vezetett
+minisztérium – 2021. január 1-jei állapotnak megfelelő – adatait kell figyelembe venni.
+4. § (1) A támogatást a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet
+IX. Helyi önkormányzatok támogatásai fejezet, 4. 2022. évi iparűzési adókedvezménnyel kapcsolatos önkormányzati
+támogatás cím terhére kell folyósítani két egyenlő részletben, legkésőbb 2022 júniusában és októberében.
+(2) A támogatás folyósításáról a helyi önkormányzatokért felelős miniszter utalványozása alapján a Magyar
+Államkincstár gondoskodik. Az utalványozáshoz szükséges – a 3. §-ban foglaltaknak megfelelően számított –
+adatokat az államháztartásért felelős miniszter 2022. május 20-áig továbbítja a helyi önkormányzatokért felelős
+miniszternek.
+5. §
+A támogatást a helyi adókról szóló 1990. évi C. törvény 51/L. §-a szerinti vállalkozó által a 2022. évben végződő
+– a tevékenységét 2022. január 1-jét követően kezdő, naptári évtől eltérő üzleti évet választó mikro-, kis- és
+középvállalkozás esetében a 2022. évben kezdődő – adóévről benyújtott bevallás alapján, a 2023. október 10-ei
+napra vonatkozó adatok szerint kell elszámolni. Ha az elszámolt támogatás települési önkormányzatra összesített
+összege meghaladja a tárgyévben igénybe vett támogatás összegét, a települési önkormányzat a 2023. évben
+a két összeg különbözetének megfelelő kiegészítő támogatásra jogosult, ellenkező esetben a települési
+önkormányzatnak a két összeg különbözetének megfelelő összeget a központi költségvetés javára vissza kell
+fizetnie. A visszafizetési kötelezettséget a települési önkormányzat 2023. október 31-éig teljesíti.
+6. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+(2) Ez a rendelet 2024. január 1-jén hatályát veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
