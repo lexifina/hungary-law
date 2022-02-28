@@ -1,0 +1,5 @@
+3. § (1) Az 1. § (1) bekezdés a) és b) pontja szerinti üzemanyagok mentesek a Magyar Szénhidrogén Készletező Szövetség részére fizetendő tagi hozzájárulás alól 2022. év március, április és május hónap tekintetében.
+
+(2) A Magyar Szénhidrogén Készletező Szövetség tagja a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 42. § (1) bekezdése szerint nyilatkozik arról, hogy az (1) bekezdés szerinti időszakban mennyi volt az 1. § (1) bekezdés a) és b) pontja szerinti üzemanyagok mennyisége.
+
+(3) A Magyar Szénhidrogén Készletező Szövetség tagja az esedékessé vált tagi hozzájárulásból levonhatja az (1) bekezdés szerinti időszakban esedékes, az 1. § (1) bekezdés a) és b) pontja szerinti üzemanyagok mennyiségére jutó tagi hozzájárulást.
