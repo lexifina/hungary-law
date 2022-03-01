@@ -6,7 +6,7 @@ b)
 
 c)
 
-d)
+d) 43. § (9c) és (9e) bekezdése,
 
 e)
 
@@ -46,4 +46,4 @@ v)
 
 w)
 
-x)
+x) 50/A. § (3) bekezdés a) pontja.
