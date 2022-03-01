@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2021-06-05 | 2021. évi LX. törvény | 1997-159-00-00.41 |
 | 2021-12-29 | 2021. évi CXLII. törvény | 1997-159-00-00.42 |
 | 2022-01-01 | 2021. évi CXLI. törvény | 1997-159-00-00.43 |
+| 2022-03-01 | 2021. évi CXXXIV. törvény | 1997-159-00-00.44 |
