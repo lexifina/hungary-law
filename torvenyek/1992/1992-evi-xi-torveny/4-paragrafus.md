@@ -2,7 +2,7 @@
 
 (2) A Be. 837. § (1), (3) és (4) bekezdését az e törvény alapján induló semmissé nyilvánítási eljárásban a következő eltérésekkel kell alkalmazni:
 
-a) az eljárás hivatalból vagy az ügyészség, az elítélt, a védő, illetve az elítélt hozzátartozójának [Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 14. pont] indítványára indul meg,
+a) az eljárás hivatalból vagy az ügyészség, az elítélt, a védő, az elítélt hozzátartozója, illetve az elítélt halála után oldalági rokona [Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 14. pont] indítványára indul meg,
 
 b) a semmissé nyilvánítási eljárásban az alapügyben eljárt elsőfokú bíróság jár el,
 

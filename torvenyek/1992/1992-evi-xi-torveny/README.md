@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-11-00-00
 | --- | --- | --- |
 | 1992-03-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 1992-11-00-00.1 |
 | 2021-05-28 | 2021. évi LI. törvény | 1992-11-00-00.2 |
+| 2022-03-01 | 2021. évi CXXXIV. törvény | 1992-11-00-00.3 |
