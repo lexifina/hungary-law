@@ -2,8 +2,9 @@
 
 ## A növényvédő szerek kiegészítő oltalmi tanúsítványaira vonatkozó szabályok
 
-11. § (1) Ezt a rendeletet – a (2) bekezdésben meghatározott kivétellel – a növényvédő szerek kiegészítő oltalmi tanúsítványának bevezetéséről szóló 1610/96/EK európai parlamenti és tanácsi rendelet alapján kiegészítő oltalmi tanúsítvány megadására irányuló bejelentésekre és az ilyen bejelentés alapján megszerzett kiegészítő oltalmi tanúsítványokra is alkalmazni kell.
+11. § (1)[^62] Ezt a rendeletet – a (2) bekezdésben meghatározott kivétellel – az 1610/96/EK európai parlamenti és tanácsi rendelet alapján kiegészítő oltalmi tanúsítvány megadására irányuló bejelentésekre és az ilyen bejelentés alapján megszerzett kiegészítő oltalmi tanúsítványokra is alkalmazni kell.
 
-(2)[^51] A Hivatalnak a 3. § (8) bekezdése alapján végzett vizsgálata arra terjed ki, hogy az (1) bekezdésben említett közösségi rendelet 3. cikke (1) bekezdésének c) és d) pontja értelmében a bejelentő által megjelölt termékre adtak-e már tanúsítványt, illetve, hogy a tanúsítvány alapjául szolgáló forgalomba hozatali engedély az első forgalomba hozatali engedélynek minősül-e.
+(2)[^63] A Hivatalnak a 3. § (8) bekezdése alapján végzett vizsgálata arra terjed ki, hogy az (1) bekezdésben említett közösségi rendelet 3. cikke (1) bekezdésének c) és d) pontja értelmében a bejelentő által megjelölt termékre adtak-e már tanúsítványt, illetve, hogy a tanúsítvány alapjául szolgáló forgalomba hozatali engedély az első forgalomba hozatali engedélynek minősül-e.
 
-[^51]: A 11. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^62]: A 11. § (1) bekezdése a 41/2022. (II. 15.) Korm. rendelet 8. § 25. pontja szerint módosított szöveg.
+[^63]: A 11. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
