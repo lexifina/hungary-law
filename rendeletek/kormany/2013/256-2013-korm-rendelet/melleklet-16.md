@@ -1,3 +1,3 @@
-16. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^115]
+16. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^118]
 
-[^115]: A 16. mellékletet a 139/2019. (VI. 14.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^118]: A 16. mellékletet a 139/2019. (VI. 14.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.

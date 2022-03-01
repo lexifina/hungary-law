@@ -38,7 +38,7 @@
 
 | 17 | 49–51 | 377 481 | 398 550 | 444 884 |
 
-9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^108]
+9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^111]
 
 ## Az egészségügyi szolgáltató által az illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg fizetési osztályonként (Ft/hó)
 
@@ -90,4 +90,4 @@
 
 | 11. | 41– év | 897 491 Ft | 1 879 706 Ft |
 
-[^108]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^111]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.

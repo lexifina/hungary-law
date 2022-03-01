@@ -204,7 +204,7 @@
 
 | 102. |  |  |
 
-| 103. | Debreceni Egyetem Kenézy Gyula Egyetemi Kórház | Debrecen |
+| 103. |  |  |
 
 | 104. | Kerekegyháza Város Önkormányzata | Kerekegyháza |
 
@@ -290,7 +290,7 @@
 
 | 145. |  |  |
 
-| 146. | Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet | Budapest |
+| 146. |  |  |
 
 | 147. | Oroszlányi Szakorvosi és Ápolási Intézet | Oroszlány |
 
@@ -298,7 +298,7 @@
 
 | 149. | Országos Kórházi Főigazgatóság | Budapest |
 
-| 150. | Országos Klinikai Idegtudományi Intézet | Budapest |
+| 150. | Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet | Budapest |
 
 | 151. | Országos Korányi Pulmonológiai Intézet | Budapest |
 
@@ -308,9 +308,9 @@
 
 | 154. | Országos Onkológiai Intézet | Budapest |
 
-| 155. | Országos Orvosi Rehabilitációs Intézet | Budapest |
+| 155. | Országos Mozgásszervi Intézet | Budapest |
 
-| 156. | Országos Reumatológiai és Fizioterápiás Intézet | Budapest |
+| 156. |  |  |
 
 | 157. | Országos Sportegészségügyi Intézet | Budapest |
 
@@ -324,7 +324,7 @@
 
 | 162. | Pécs Megyei Jogú Város Egyesített Egészségügyi Intézmények Igazgatósága | Pécs |
 
-| 163. | Pécsi Tudományegyetem | Pécs |
+| 163. | Pécsi Tudományegyetem Klinikai Központ | Pécs |
 
 | 164. | Pécsvárad Város Önkormányzata | Pécsvárad |
 
@@ -334,7 +334,7 @@
 
 | 167. | PÉTEGISZ Polgár és Térsége Egészségügyi Központ Nonprofit Zrt. | Polgár |
 
-| 168. | Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet | Budapest |
+| 168. | Péterfy Sándor Utcai Kórház-Rendelőintézet | Budapest |
 
 | 169. | Petz Aladár Megyei Oktató Kórház, Győr | Győr |
 
@@ -362,7 +362,7 @@
 
 | 181. | Selye János Kórház | Komárom |
 
-| 182. | Semmelweis Egyetem | Budapest |
+| 182. | Semmelweis Egyetem Klinikai Központ | Budapest |
 
 | 183. | Siófoki Kórház – Rendelőintézet | Siófok |
 
@@ -410,7 +410,7 @@
 
 | 205. | Szent Pantaleon Kórház – Rendelőintézet Dunaújváros | Dunaújváros |
 
-| 206. | Szent Rókus Kórház és Intézményei | Budapest |
+| 206. |  |  |
 
 | 207. | Szentendre Város Egészségügyi Intézményei | Szentendre |
 
@@ -456,7 +456,7 @@
 
 | 228. | Városi Önkormányzat Egészségügyi Központja | Zalaszentgrót |
 
-| 229. | Orosházi Kórház | Orosháza |
+| 229. | Dr. László Elek Kórház és Rendelőintézet | Orosháza |
 
 | 230. | Szalay János Rendelőintézet | Hajdúnánás |
 
@@ -558,7 +558,13 @@
 
 | 279. | Szent Erzsébet Mórahalmi Fürdőgyógyászati Nonprofit Korlátolt Felelősségű Társaság | Mórahalom |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^102]
+| 280. | Ótemplomi Szeretetszolgálat | Szarvas |
+
+| 281. | Szaplonczay Manó Marcali Kórház | Marcali |
+
+| 282. | Dr. Manninger Jenő Baleseti Központ | Budapest |
+
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^105]
 
 ## Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
@@ -638,4 +644,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^102]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^105]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
