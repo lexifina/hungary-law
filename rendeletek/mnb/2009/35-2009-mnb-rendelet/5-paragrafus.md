@@ -1,1 +1,0 @@
-## Biztonságra vonatkozó szabályzatok

@@ -1,1 +1,0 @@
-## Fizikai biztonsági feltételek
