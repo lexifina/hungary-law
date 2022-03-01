@@ -1,3 +1,3 @@
-13. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^149]
+13. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^129]
 
-[^149]: A 13. számú melléklet hatálybalépéséről e rendelet 10. § (4) bekezdése alapján külön jogszabály rendelkezik.
+[^129]: A 13. számú melléklet hatálybalépéséről e rendelet 10. § (4) bekezdése alapján külön jogszabály rendelkezik.

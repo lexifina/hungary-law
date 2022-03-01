@@ -1,3 +1,3 @@
-4. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^141]
+4. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^121]
 
-[^141]: A 4. számú melléklet a 364/2019. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^121]: A 4. számú melléklet a 787/2021. (XII. 27.) Korm. rendelet 34. § b) pontjával megállapított szöveg.

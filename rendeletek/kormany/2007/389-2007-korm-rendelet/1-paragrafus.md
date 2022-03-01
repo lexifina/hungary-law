@@ -12,7 +12,7 @@ b) a hulladékból nyert energiával termelt villamos energia,
 
 c)[^2]
 
-## kötelező átvételének szabályaira, a KÁT termelő által a Befogadónak történő értékesítés átvételi áraira, továbbá ezen árak alkalmazási feltételeinek megállapítására.
+## kötelező átvételének szabályaira, a Menetrendadásra kötelezett és a Befogadó közötti tranzakciók áraira, továbbá ezen árak alkalmazási feltételeinek megállapítására.
 
 (1a)[^3] A rendelet alkalmazási köre kiterjed továbbá a kötelező átvételi rendszerben értékesített, kapcsoltan termelt villamos energia elszámolására, ellenőrzésére, valamint a jogosulatlan értékesítés esetében történő visszatérítésre.
 
@@ -48,7 +48,7 @@ d)[^9]
 
 (9)[^12] A (6)–(8) bekezdés vonatkozásában ügyfélnek minősülnek mindazon személyek, akik a kötelező átvételi jogosultság megállapítására irányuló kérelem alapjául szolgáló jogügyletben érintettek.
 
-[^1]: Az 1. § (1) bekezdés záró szövegrésze a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés záró szövegrésze a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése, a 787/2021. (XII. 27.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontját a 166/2011. (VIII. 24.) Korm. rendelet 3. § 1. pontja hatályon kívül helyezte.
 [^3]: Az 1. § (1a) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 309/2013. (VIII. 16.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (3) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 17. §-a, a 457/2017. (XII. 28.) Korm. rendelet 215. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
