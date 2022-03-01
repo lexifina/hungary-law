@@ -24,7 +24,7 @@
 
 ## Határidő: az e határozat közzétételét követő hatvan napon belül történő szerződéskötés során
 
-1. melléklet az 1870/2021. (XII. 3.) Korm. határozathoz
+1. melléklet az 1870/2021. (XII. 3.) Korm. határozathoz[^1]
 
 Egyházi fenntartó tulajdonba adására kerülő ingatlanok jegyzéke
 
@@ -58,14 +58,18 @@ Egyházi fenntartó tulajdonba adására kerülő ingatlanok jegyzéke
 
 | 14. | Ivánc, belterület 3/2 hrsz. | Magyar Máltai Szeretetszolgálat Egyesület 1125 Budapest, Szarvas Gábor út 58–60. |
 
-| 15. | 4100 Berettyóújfalu, Rákóczi utca 50. Berettyóújfalu, belterület 3121 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 15. | 4100 Berettyóújfalu, Rákóczi utca 50. Berettyóújfalu, belterület 3121 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 16. | 4100 Berettyóújfalu, Madarász utca 13. Berettyóújfalu, belterület 5467 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 16. | 4100 Berettyóújfalu, Madarász utca 13. Berettyóújfalu, belterület 5467 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 17. | 4100 Berettyóújfalu, Földesi utca 38. Berettyóújfalu, belterület 4457 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 17. | 4100 Berettyóújfalu, Földesi utca 38. Berettyóújfalu, belterület 4457 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
 | 18. | 4561 Baktalórántháza, Köztársaság utca 15–2. Baktalórántháza, belterület 716/3 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
 
 | 19. | 4561 Baktalórántháza, Petőfi Sándor utca 38–3. Baktalórántháza, belterület 163/4 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
 
 | 20. | 4561 Baktalórántháza, Dózsa György utca 2–3. Baktalórántháza, belterület 454/1 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
+
+| 21. | Baktalórántháza, belterület 163/3 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
+
+[^1]: Az 1. melléklet az 1055/2022. (II. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
