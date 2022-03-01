@@ -6,4 +6,4 @@
 
 (4) A bíróság – a (3) bekezdés esetét kivéve – az előkészítő ülésen a büntetővégzést hatályon kívül helyezi. E végzés ellen nincs helye fellebbezésnek.
 
-(5) A bíróság a vádlott terhére szóló kérelem hiányában akkor szabhat ki súlyosabb büntetést, illetve alkalmazhat súlyosabb intézkedést, ha a tárgyaláson új bizonyíték merül fel, és ennek alapján a bíróság olyan új tényt állapít meg, amelynek folytán súlyosabb minősítést kell alkalmazni, vagy lényegesen súlyosabb büntetést, intézkedés helyett büntetést kell kiszabni, vagy büntetés helyett alkalmazott intézkedésnél lényegesen súlyosabb intézkedést kell alkalmazni.
+(5) A bíróság a vádlott terhére szóló indítvány hiányában akkor szabhat ki súlyosabb büntetést, illetve alkalmazhat súlyosabb intézkedést, ha a tárgyaláson új bizonyíték merül fel, és ennek alapján a bíróság olyan új tényt állapít meg, amelynek folytán súlyosabb minősítést kell alkalmazni, vagy lényegesen súlyosabb büntetést, intézkedés helyett büntetést kell kiszabni, vagy büntetés helyett alkalmazott intézkedésnél lényegesen súlyosabb intézkedést kell alkalmazni.

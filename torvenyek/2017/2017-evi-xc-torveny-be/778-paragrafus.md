@@ -13,3 +13,5 @@
 (6) Ha a fellebbezés bejelentésekor a vádat magánvádló képviseli, az elsőfokú bíróság az ügyiratokat közvetlenül terjeszti fel a másodfokú bírósághoz.
 
 (7) A magánvádas eljárásban hozott jogerős ügydöntő határozatot a bíróság kézbesíti az ügyben korábban eljárt ügyészségnek is.
+
+(8) Ha a fellebbezésért az illetéket az illetékekről szóló törvény szerinti határidőben nem fizetik meg, azt a fellebbezés visszavonásának kell tekinteni.

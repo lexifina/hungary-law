@@ -26,4 +26,4 @@ b) részére a cselekvőképessége érintése nélkül rendeltek törvényes k�
 
 c) nem természetes személy.
 
-(6) Az állam sérelmére elkövetett bűncselekmények esetén az állam nevében az állami vagyon felügyeletéért felelős miniszter jár el.
+(6) Ha az 58. § (4) bekezdésében meghatározott szerv az eljárásban egyéb érdekeltként fellép, akkor sértetti képviselő az állam nevében nem járhat el. Az állam sérelmére elkövetett bűncselekmények esetén a sértetti képviselet ellátására egyébként a polgári jog szabályai az irányadóak.

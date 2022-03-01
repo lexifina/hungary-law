@@ -4,7 +4,7 @@
 
 (3) A szakértőt csak akkor kell távozásra felhívni, ha ezt a bíróság szükségesnek tartja, egyébként a szakértő a tárgyaláson annak kezdetétől fogva jelen lehet.
 
-(4) A tárgyalási időköz be nem tartása miatt a tárgyalást nem kell elhalasztani, ha a vádlott és a védő egybehangzóan kéri a tárgyalás megtartását vagy ha a tárgyalás megtartásához hozzájárul.
+(4) A tárgyalási időköz be nem tartása miatt a tárgyalást nem kell elhalasztani, ha a vádlott és a védő egybehangzóan indítványozza a tárgyalás megtartását vagy ha a tárgyalás megtartásához hozzájárul.
 
 (5) Ha a büntetőeljárásban védő részvétele nem kötelező, és a meghatalmazott védő a tárgyaláson nem jelent meg, a tárgyalást akkor lehet elhalasztani, ha
 

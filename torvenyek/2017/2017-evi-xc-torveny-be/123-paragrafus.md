@@ -12,8 +12,8 @@ d) fogva tartott személy esetében a fogva tartást végrehajtó intézetnek a 
 
 e) fogva tartott személy esetében az őrzését ellátó személy,
 
-f) a szakértő,
+f) a szakértő, a szaktanácsadó
 
 g) a telekommunikációs eszköz működését biztosító személyzet.
 
-(2) Az elkülönített helyszínen legalább egy, az (1) bekezdés c) vagy d) pontjában meghatározott személynek jelen kell lennie.
+(2) Az elkülönített helyszínen legalább egy, az (1) bekezdés c) vagy d) pontjában meghatározott személynek vagy jogszabályban meghatározott más személynek jelen kell lennie.

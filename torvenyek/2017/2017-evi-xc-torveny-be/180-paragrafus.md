@@ -2,7 +2,7 @@
 
 (2) Ha a tanú vallomása eltér a korábbi vallomásától, ennek okát tisztázni kell.
 
-(3) A tanú kérelmére a vallomásának egyes részeit szó szerint kell jegyzőkönyvbe venni.
+(3) A tanú indítványára a vallomásának egyes részeit szó szerint kell jegyzőkönyvbe venni.
 
 (4) A tanúnak nem tehető fel olyan kérdés, amely
 

@@ -27,3 +27,5 @@ a) a tárgyalás tartása iránti indítvány előterjesztésére jogosultak úg
 b) a tárgyalás tartása iránti indítványt visszavonták, vagy
 
 c) a tárgyalás tartása iránti indítvány előterjesztésére nyitva álló határidő ilyen indítvány előterjesztése nélkül telt el.
+
+(5) Az elsőfokú bíróság ügydöntő határozata az (1)–(3) bekezdésben foglaltak szerint – az elkobzást, a vagyonelkobzást, az elektronikus adat végleges hozzáférhetetlenné tételét elrendelő rendelkezés, valamint a lefoglalás megszüntetéséről szóló rendelkezés, illetve a polgári jogi igényt érdemben elbíráló rendelkezés kivételével – abban az esetben is jogerőre emelkedik, ha az ügydöntő határozat ellen kizárólag a vádlott örököse, a magánfél, vagy a vagyoni érdekelt jelentett be fellebbezést, vagy a fellebbezésre részükre nyitva álló határidő még nem telt el.

@@ -1,6 +1,6 @@
 ## A külön eljárásokra és különleges eljárásokra vonatkozó eltérő szabályok
 
-694. § (1) A büntetővégzés meghozatalára irányuló eljárásban a törvényes képviselő a fiatalkorú hozzájárulása nélkül is indítványozhatja a tárgyalás tartását.
+694. § (1) A büntetővégzés meghozatalára irányuló eljárásban a törvényes képviselő is indítványozhatja a tárgyalás tartását.
 
 (2) A távollévő fiatalkorú esetén a CI–CII. Fejezet rendelkezései alapján előkészítő ülés, illetve tárgyalás nem tartható.
 

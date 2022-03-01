@@ -1,14 +1,14 @@
-## Kézbesítés postai úton, kézbesítési fikció
+## Kézbesítés postai úton, egyszerűsített elektronikus úton, kézbesítési fikció
 
-132. § (1) A kézbesítés szabályszerű, ha a kézbesítendő ügyiratot a címzett vagy helyette a jogszabály szerint átvételre jogosult más személy átvette.
+132. § (1) A kézbesítés szabályszerű, ha a postai úton kézbesítendő ügyiratot a címzett vagy helyette a jogszabály szerint átvételre jogosult más személy átvette.
 
-(1a) A kézbesítés nem szabályszerű, ha a kézbesítendő ügyiratot a címzett helyett a jogszabály szerint átvételre jogosult más olyan személy vette át,
+(1a) A kézbesítés nem szabályszerű, ha a postai úton kézbesítendő ügyiratot a címzett helyett a jogszabály szerint átvételre jogosult más olyan személy vette át,
 
 a) akinek az érdekei a címzettel nyilvánvalóan ellentétesek, vagy
 
 b) akit a címzett ellentétes érdekű személyként a kézbesítést megelőzően megjelölt.
 
-(2) A kézbesítendő ügyiratot szabályszerűen kézbesítettnek kell tekinteni
+(2) A postai úton kézbesítendő ügyiratot szabályszerűen kézbesítettnek kell tekinteni
 
 a) a kézbesítés megkísérlésének napján, ha a címzett vagy a postai küldemények átvételére jogszabály szerint meghatalmazott személy az ügyirat átvételét megtagadja,
 
@@ -20,4 +20,10 @@ c) a kézbesítés megkísérlésének napját követő ötödik munkanapon, ha 
 
 (4) Ha a bíróság, az ügyészség vagy a nyomozó hatóság az ügydöntő határozat, a vádirat, vagy az eljárást megszüntető határozat kézbesítése esetén a (2) bekezdés szerint a kézbesítési fikció beálltát megállapította, erről nyolc napon belül – egyszerű postai küldeményben – tájékoztatja a címzettet, egyben ismerteti a kézbesítési kifogásra vonatkozó rendelkezéseket, és mellékeli azt az ügyiratot, amelyre vonatkozóan a kézbesítési fikció beálltát megállapította.
 
-(5) Ha a címzett a bíróságnak, az ügyészségnek, illetve a nyomozó hatóságnak az elektronikus levelezési címét bejelentette, a kézbesítési fikció beálltáról a tájékoztatást a címzett ezen elérhetőségére is meg kell küldeni.
+(5) Ha a címzett a bíróságnak, az ügyészségnek, illetve a nyomozó hatóságnak az elektronikus levelezési címét bejelentette, a postai úton történő kézbesítés alapján beállt kézbesítési fikció beálltáról a tájékoztatást a címzett ezen elérhetőségére is meg kell küldeni.
+
+(6) A bíróság, az ügyészség és a nyomozó hatóság az ügyiratot papíralapú kapcsolattartás esetén egyszerűsített elektronikus úton a címzett elektronikus levelezési címére vagy más elektronikus elérhetőségére kézbesítheti. A bíróság, az ügyészség és a nyomozó hatóság az egyszerűsített elektronikus úton való kézbesítéskor közli azt az elektronikus vagy hangkapcsolatot biztosító elérhetőségét, amelyen a címzett az ügyirat hitelességét ellenőrizni tudja.
+
+(7) Az egyszerűsített elektronikus úton való kézbesítés szabályszerű, ha az ügyirat címzett részére történő kézbesítéséről a címzett igazolható módon – ideértve a kizárólag hangkapcsolatot biztosító elektronikus úton történő rögzített szóbeli nyilatkozattételt is – nyilatkozik. Az ügyiratot a nyilatkozattétel napján kézbesítettnek kell tekinteni.
+
+(8) Az egyszerűsített elektronikus úton történő kézbesítés nem minősül elektronikus kapcsolattartásnak.

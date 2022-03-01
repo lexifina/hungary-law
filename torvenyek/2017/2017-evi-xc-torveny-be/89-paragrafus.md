@@ -20,7 +20,7 @@ b) a bíróság, az ügyészség és a nyomozó hatóság az eljárási cselekm�
 
 c) a sértett részvételét igénylő eljárási cselekmény helyszínén a terhelt és a védő személyesen nem lehet jelen,
 
-d) a telekommunikációs eszköz alkalmazása során biztosítani kell, hogy a sértett kizárólag az eljáró bírót, ügyészt vagy nyomozó hatóság tagját láthassa,
+d) a telekommunikációs eszköz alkalmazása során – ha jogszabály kivételt nem tesz – biztosítani kell, hogy a sértett kizárólag az eljáró bírót, ügyészt vagy nyomozó hatóság tagját láthassa,
 
 e) a vádemelés után a bíróság a sértett részvételét igénylő eljárási cselekményt kiküldött bíró vagy megkeresett bíróság útján végezheti el,
 

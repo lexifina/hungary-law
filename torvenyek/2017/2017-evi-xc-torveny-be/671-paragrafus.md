@@ -14,11 +14,11 @@
 
 5. a feltételes szabadságnak a Btk. 40. § (1) bekezdése alapján történő megszüntetéséről,
 
-6. az előzetes fogva tartás és a bűnügyi felügyelet beszámításáról,
+6. az előzetes fogva tartás és a bűnügyi felügyelet beszámításáról, a szabálysértési eljárásban kiszabott és végrehajtott elzárás, közérdekű munka és pénzbírság, illetve a már végrehajtott büntetés vagy intézkedés beszámításáról,
 
 7.
 
-8. arról, hogy mely foglalkozástól tiltja el a terheltet,
+8. a Btk. 52. § (3) bekezdésben meghatározott foglalkozástól eltiltásról, vagy arról, hogy mely foglalkozástól tiltja el a terheltet,
 
 9. a járművezetéstől eltiltás utólagos beszámításáról,
 

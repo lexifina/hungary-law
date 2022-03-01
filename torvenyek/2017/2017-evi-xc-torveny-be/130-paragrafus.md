@@ -12,9 +12,11 @@ b) elektronikus úton az E-ügyintézési törvény szerinti hivatalos elérhet�
 
 c) személyesen,
 
-d) hirdetményi úton, vagy
+d) hirdetményi úton,
 
-e) a bíróság, az ügyészség vagy a nyomozó hatóság kézbesítője útján
+e) a bíróság, az ügyészség vagy a nyomozó hatóság kézbesítője útján, vagy
+
+f) egyszerűsített elektronikus úton
 
 kézbesíti a címzett részére.
 

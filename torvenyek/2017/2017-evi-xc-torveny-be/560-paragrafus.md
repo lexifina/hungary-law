@@ -48,6 +48,6 @@ c) a polgári jogi igény biztosítására nem rendeltek el zár alá vételt, �
 
 d) a magánfél a polgári jogi igénynek a polgári bírósághoz történő, e bekezdés szerinti megküldéséhez kifejezetten hozzájárult.
 
-(3c) Ha a magánfél az eljárásban a személyes adatai zárt kezelését kérte, a bíróság a polgári bíróságnak a magánfél személyes adatait az érintett személy hozzájárulása nélkül továbbítja és a polgári perben azokra a személyes adatok zárt kezelése nem terjed ki.
+(3c) Ha a magánfél az eljárásban a személyes adatai zárt kezelését indítványozta, a bíróság a polgári bíróságnak a magánfél személyes adatait az érintett személy hozzájárulása nélkül továbbítja és a polgári perben azokra a személyes adatok zárt kezelése nem terjed ki.
 
 (4) A polgári jogi igény érvényesítését egyéb törvényes útra kell utasítani akkor is, ha az (1) bekezdésben meghatározott okok a polgári jogi igénynek csak valamely részét érintik.

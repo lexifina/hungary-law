@@ -8,11 +8,13 @@
 
 (4) A (3) bekezdést kell alkalmazni akkor is, ha az elkövető egy cselekménye több bűncselekményt valósít meg, a bíróság azonban – a vád szerinti minősítésnek megfelelően – nem a vádirati tényállás szerint megállapítható valamennyi bűncselekmény miatt állapítja meg a terhelt bűnösségét.
 
-(5) Azzal szemben, akinek a felelősségét a bíróság szabálysértési eljárásban hozott határozatával állapította meg, azonos tényállás mellett büntetőeljárás – a szabálysértésekről szóló törvényben meghatározott perújítási eljárás lefolytatása előtt – nem indítható.
+(5) Azzal szemben, akinek a felelősségét szabálysértési eljárásban megállapították, azonos tényállás mellett büntetőeljárás – a szabálysértésekről szóló törvény szerinti ügyészi felhívás, felülvizsgálat vagy perújítási eljárás lefolytatása előtt – nem indítható.
 
 (6) Törvény határozza meg azokat a további okokat, amelyek fennállása esetén büntetőeljárást nem lehet indítani, a már megindult büntetőeljárást meg kell szüntetni vagy felmentő ítéletet kell hozni.
 
 (7) Büntetőeljárás nem indítható, illetve a megindult büntetőeljárást meg kell szüntetni, ha az elkövető cselekményét az Európai Unió tagállamában (a továbbiakban: tagállam) jogerősen elbírálták, vagy egy tagállamban a cselekmény érdeméről olyan határozatot hoztak, amely azonos cselekmény vonatkozásában – a határozatot hozó tagállam joga alapján – akadályát képezi újabb büntetőeljárás megindításának, vagy annak, hogy a büntetőeljárást hivatalból vagy rendes jogorvoslat alapján tovább folytassák.
+
+(7a) Ha az elkövető több vagy tartós cselekménye egy bűncselekményt valósít meg, vagy több bűncselekménye a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) rendelkezése alapján egy bűncselekményt valósít meg, a (7) bekezdés nem akadálya az olyan cselekmény miatt a büntetőeljárás megindításának és lefolytatásának, amelyet a (7) bekezdésben meghatározott tagállami határozatban szereplő tényállás nem tartalmaz.
 
 (8) A (7) bekezdés nem akadálya a büntetőeljárás megindításának és lefolytatásának, ha
 

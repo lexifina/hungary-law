@@ -8,15 +8,21 @@
 
 (4) Ha az elsőfokú bíróság ítélete több bűncselekményről rendelkezett, a másodfokú bíróság az ítéletnek csak a fellebbezéssel érintett bűncselekményre vonatkozó rendelkezését, illetve részét bírálja felül.
 
-(5) A másodfokú bíróság a (3) és a (4) bekezdésben meghatározott esetben az ítélet fellebbezéssel nem érintett része tekintetében is felülbírálja
+(5) A másodfokú bíróság a (3) és a (4) bekezdésben meghatározott esetben az ítélet fellebbezéssel nem érintett része tekintetében – ideértve a 458. § (5) bekezdése alapján részlegesen jogerőre emelkedett rendelkezéseket – is felülbírálja
 
-a) az elsőfokú bírósági eljárást és ennek során vizsgálja azon eljárási szabályok megtartását, amelyek megsértése esetén a 607. § (1) bekezdése, valamint a 608. § (1) bekezdése alapján az ítéletet hatályon kívül kell helyezni,
+a) az elsőfokú bírósági eljárást és ennek során vizsgálja azon eljárási szabályok megtartását, amelyek megsértése esetén
+
+aa) a 607. § (1) bekezdése, valamint a 608. § (1) bekezdése alapján az ítéletet hatályon kívül kell helyezni, vagy
+
+ab) a 609. § (1) bekezdése alapján az ítéletet hatályon kívül kell helyezni,
 
 b) a bűnösség megállapítására vonatkozó rendelkezést, ha a terheltet fel kell menteni, vagy vele szemben az eljárást meg kell szüntetni,
 
 c) a bűncselekmény minősítésére vonatkozó rendelkezést, továbbá
 
 d) a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó rendelkezést.
+
+(5a) A másodfokú bíróság az (5) bekezdés a) pont ab) alpontja alapján az elsőfokú bíróság ítéletét akkor bírálja felül, ha az ítélet megalapozatlanságának vizsgálata nélkül megállapítható, hogy a 607. § (1) bekezdésében, valamint a 608. § (1) bekezdésében fel nem sorolt, és a másodfokú eljárásban nem orvosolható olyan eljárási szabálysértés történt, amely lényeges hatással volt az eljárás lefolytatására, a bűnösség megállapítására, a bűncselekmény minősítésére, a büntetés kiszabására, illetve az intézkedés alkalmazására.
 
 (6) Ha a fellebbezést az 583. § (3) bekezdés b) pontja alapján jelentették be, a másodfokú bíróság a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó rendelkezést az (5) bekezdés alapján akkor bírálja felül, ha
 
@@ -33,6 +39,8 @@ b) a kiszabott büntetés vagy alkalmazott intézkedés törvénysértő.
 (10) Ha ugyanazon bűncselekmény vonatkozásában több fellebbezésre jogosult jelentett be fellebbezést, és legalább egy fellebbezés az elsőfokú bíróság ítéletének a bűnösség megállapítására vonatkozó rendelkezését sérelmezi, a másodfokú bíróság a fellebbezéssel sérelmezett ítéletet és az azt megelőző bírósági eljárást a (2) bekezdés szerint bírálja felül.
 
 (11) A másodfokú bíróság a fellebbezéssel nem érintett vádlottat felmenti, a bűncselekményének enyhébb minősítése folytán törvénysértően súlyos büntetését, illetve a vele szemben büntetés helyett alkalmazott intézkedést enyhíti, vagy az elsőfokú bíróság ítéletének rá vonatkozó rendelkezését hatályon kívül helyezi, és vele szemben az eljárást megszünteti vagy az elsőfokú bíróságot új eljárásra utasítja, ha a fellebbezéssel érintett vádlott tekintetében is ugyanígy határoz.
+
+(11a) A másodfokú bíróság az elsőfokú bíróság ítéletének a fellebbezéssel nem érintett vádlottra vonatkozó rendelkezését akkor helyezi hatályon kívül, ha a 609. § (1) bekezdése szerinti eljárási szabálysértés a fellebbezéssel nem érintett vádlott tekintetében is lényeges hatással volt az eljárás lefolytatására, a bűnösség megállapítására, a bűncselekmény minősítésére, a büntetés kiszabására, illetve az intézkedés alkalmazására.
 
 (12) Ha a másodfokú bíróság az elsőfokú bíróság ítéletének a fellebbezéssel nem érintett vádlottra vonatkozó rendelkezését hatályon kívül helyezi, vagy a fellebbezéssel nem érintett vádlottat felmenti, és az elsőfokú bíróság által e vádlott tekintetében kiszabott büntetést összbüntetésbe foglalták, a másodfokú bíróság az összbüntetési ítéletet is hatályon kívül helyezi.
 

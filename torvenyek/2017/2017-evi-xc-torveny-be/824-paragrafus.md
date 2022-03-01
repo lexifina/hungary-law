@@ -4,7 +4,7 @@
 
 (2) A bíróság a 819. § (2) bekezdés a) pontja esetén, ha az indítvány alapos, megállapítja, hogy az indítványban megjelölt vagyon a jogerős ügydöntő határozattal elrendelt vagyonelkobzás hatálya alá tartozik. Egyéb esetben az indítványt elutasítja.
 
-(3) Ha a bíróság határozatát az ügyiratok alapján hozta meg, ügydöntő végzése ellen nincs helye fellebbezésnek, de az ügyészség, a terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy, a védő, valamint a vagyoni érdekelt a végzés kézbesítésétől számított nyolc napon belül tárgyalás tartását kérhetik.
+(3) Ha a bíróság határozatát az ügyiratok alapján hozta meg, ügydöntő végzése ellen nincs helye fellebbezésnek, de az ügyészség, a terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy, a védő, valamint a vagyoni érdekelt a végzés kézbesítésétől számított nyolc napon belül tárgyalás tartását indítványozhatják.
 
 (4) A bíróság a tárgyalásról értesíti a (3) bekezdésben megjelölteket.
 

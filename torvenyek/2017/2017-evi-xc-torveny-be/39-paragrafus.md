@@ -42,7 +42,7 @@ a) az eljárási cselekményeken a bíróság, az ügyészség és a nyomozó ha
 
 b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, valamint ezek megváltozását – a változást követő három munkanapon belül – az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
 
-(4) A bíróság, az ügyészség vagy a nyomozó hatóság a terheltet a büntetőeljárásban történő részvételének kezdetekor a jogairól tájékoztatja és a kötelezettségeire figyelmezteti. A tájékoztatás kiterjed a költségkedvezmény indítványozásához való jogra és annak feltételeire, valamint az anyanyelv használatához való jogra is.
+(4) A bíróság, az ügyészség vagy a nyomozó hatóság a terheltet a büntetőeljárásban történő részvételének kezdetekor a jogairól tájékoztatja és a kötelezettségeire figyelmezteti. A tájékoztatás kiterjed arra, hogy költségkedvezmény iránti kérelmet nyújthat be, annak feltételeire, valamint az anyanyelv használatához való jogra is.
 
 (5) Ha a terhelt fogva van, az eljáró bíróság, ügyészség vagy nyomozó hatóság a terheltet a jogairól írásban is tájékoztatja. A tájékoztatás kiterjed a fogva tartásnak az elrendeléséről szóló határozat szerinti, illetve a törvényben meghatározott lehetséges végső tartamára, a fogva tartás meghosszabbításának, fenntartásának és felülvizsgálatának szabályaira, valamint az e határozatokkal szembeni jogorvoslathoz, illetve a fogva tartás megszüntetése iránti indítvány benyújtásához való jogra is.
 

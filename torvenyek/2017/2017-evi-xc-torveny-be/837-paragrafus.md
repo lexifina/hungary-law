@@ -22,11 +22,13 @@ a) a feltételes szabadságra bocsátás legkorábbi időpontjának elhalasztás
 
 b) az összbüntetési eljárás,
 
-c) eljárás próbára bocsátás esetén,
+c) eljárás a kiutasítás tartamának utólagos meghatározására,
 
-d) eljárás jóvátételi munka esetén,
+d) eljárás próbára bocsátás esetén,
 
-e) halasztás vagy részletfizetés engedélyezése az államot illető bűnügyi költség megfizetésére.
+e) eljárás jóvátételi munka esetén,
+
+f) halasztás vagy részletfizetés engedélyezése az államot illető bűnügyi költség megfizetésére.
 
 (3) A bíróság a törvényben kizárt indítványt érdemi indokolás nélkül elutasítja. A nem jogosulttól származó indítványt a bíróság érdemi indokolás nélkül elutasítja, ha az eljárás hivatalból való lefolytatásának törvényi feltételei nem állnak fenn.
 

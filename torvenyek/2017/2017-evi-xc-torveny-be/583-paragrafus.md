@@ -6,7 +6,7 @@
 
 (3) Fellebbezésnek van helye kizárólag
 
-a) a kiszabott büntetés vagy az alkalmazott intézkedés neme és mértéke vagy tartama,
+a) az előzetes mentesítésre vonatkozó rendelkezést is ideértve a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó rendelkezés,
 
 b) az ítéletnek az egyszerűsített felülvizsgálati eljárás tárgyát képező rendelkezése, a szülői felügyeleti jog megszüntetése iránti indítványt, illetve a polgári jogi igényt érdemben elbíráló rendelkezése, vagy
 

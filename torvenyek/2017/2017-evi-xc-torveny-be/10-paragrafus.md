@@ -14,7 +14,7 @@ a)
 
 b)
 
-c) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 374. § (6) bekezdés a) pontja szerinti gazdasági csalás,
+c) a Btk. 374. § (6) bekezdés a) pontja szerinti gazdasági csalás,
 
 d) a Btk. 376. § (6) bekezdés a) pontja szerinti hűtlen kezelés,
 

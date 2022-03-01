@@ -50,4 +50,4 @@ esetén.
 
 (7) Ha a terhelt különböző bíróságok illetékessége alá tartozó bűncselekményeket követett el, az a bíróság jár el, amely valamelyik bűncselekmény elbírálására az (5) vagy a (6) bekezdés szerint illetékes.
 
-(8) Az elkövetőre illetékes bíróság illetékessége a bűnpártolóra és az orgazdára is kiterjed.
+(8) Az elkövetőre illetékes bíróság illetékessége a bűnpártolóra is kiterjed. A más által elkövetett büntetendő cselekmény elkövetőjére illetékes bíróság illetékessége a Btk. 399. § (3) és (4) bekezdésében és ezek Btk. 399. § (5)–(8) bekezdésében meghatározott minősített eseteiben, illetve a Btk. 400. § (1) és (2) bekezdésében meghatározott bűncselekmény elkövetőjére is kiterjed.

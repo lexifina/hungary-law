@@ -1,6 +1,6 @@
 ## A jegyzőkönyv elkészítése, kiegészítése, kijavítása
 
-360. § (1) Az eljárási cselekményről a jegyzőkönyvet egyidejűleg kell elkészíteni.
+360. § (1) Az eljárási cselekményről a jegyzőkönyvet – a 360/A. §-ban meghatározott kivétellel – egyidejűleg kell elkészíteni.
 
 (2) Az ügyészség és a nyomozó hatóság gondoskodik arról, hogy a jegyzőkönyv hitelesítése előtt annak tartalmát a jogszabályban meghatározott, az eljárási cselekményen jelen lévő büntetőeljárásban részt vevő személy (a továbbiakban: hitelesítésben való közreműködésre köteles személy) megismerje. Ha a hitelesítésben való közreműködésre köteles személy a jegyzőkönyv tartalmának megismerését megtagadja, úgy kell tekinteni, mint aki a jegyzőkönyv hitelesítésében való közreműködést tagadta meg.
 

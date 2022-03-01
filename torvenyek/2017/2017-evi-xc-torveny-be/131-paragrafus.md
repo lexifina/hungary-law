@@ -1,6 +1,6 @@
 131. § (1) Ha a sértettnek, a vagyoni érdekeltnek és az egyéb érdekeltnek meghatalmazott képviselője van, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratát – a meghatalmazás eltérő rendelkezése hiányában – a meghatalmazott képviselő útján kézbesíti.
 
-(2) A 69. § (5) bekezdésében meghatározott esetben, ha a sértettnek, a vagyoni érdekeltnek, vagy az egyéb érdekeltnek nincs meghatalmazott képviselője, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratát a törvényes képviselő részére kézbesíti. Ha a sértett, a vagyoni érdekelt vagy az egyéb érdekelt a 69. § alapján büntetőeljárási cselekvőképességgel rendelkezik, azonban a polgári jog szabályai szerint teljes cselekvőképességgel nem rendelkezik, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratát a törvényes képviselő részére is kézbesíti.
+(2) A 69. § (5) bekezdés a) és b) pontjában meghatározott esetben, ha a sértettnek, a vagyoni érdekeltnek, vagy az egyéb érdekeltnek nincs meghatalmazott képviselője, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratát a törvényes képviselő részére kézbesíti. Ha a sértett, a vagyoni érdekelt vagy az egyéb érdekelt a 69. § alapján büntetőeljárási cselekvőképességgel rendelkezik, azonban a polgári jog szabályai szerint teljes cselekvőképességgel nem rendelkezik, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratát a törvényes képviselő részére is kézbesíti.
 
 (3) Az (1) és (2) bekezdés az idézésre nem alkalmazható.
 
