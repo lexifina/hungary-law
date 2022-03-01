@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-439-20-
 | 2020-01-02 | 2016-439-20-22.5 | 301/2019. (XII. 11.) Korm. rendelet |
 | 2021-02-06 | 2016-439-20-22.6 | 301/2019. (XII. 11.) Korm. rendelet |
 | 2022-01-01 | 2016-439-20-22.7 | 301/2019. (XII. 11.) Korm. rendelet |
+| 2022-03-01 | 2016-439-20-22.8 | 69/2022. (II. 28.) Korm. rendelet |
