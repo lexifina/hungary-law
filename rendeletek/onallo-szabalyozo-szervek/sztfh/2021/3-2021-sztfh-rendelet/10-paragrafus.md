@@ -1,1 +1,0 @@
-## 9. § A Kar az általános költségátalány elszámolását és megfizetését bármikor ellenőrizheti, arról a végrehajtótól tájékoztatást kérhet, és a végrehajtási ügyek irataiba, a végrehajtó nyilvántartásaiba, összesítéseibe e célból betekinthet.

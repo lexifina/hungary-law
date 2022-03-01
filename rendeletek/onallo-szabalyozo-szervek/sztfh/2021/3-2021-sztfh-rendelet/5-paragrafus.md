@@ -1,1 +1,0 @@
-## 4. § Ha a meghatározott cselekmény végrehajtása során a kötelezettől pénzkövetelés is behajtásra kerül, az általános költségátalány számításának alapját a behajtandó pénzkövetelésnek és járulékainak összege jelenti.
