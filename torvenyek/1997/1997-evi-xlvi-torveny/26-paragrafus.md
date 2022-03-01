@@ -14,4 +14,4 @@
 
 (6)
 
-(7) Amennyiben a vezetőség a 16. § (1) bekezdés b) és c) pontjai, valamint a 17. § (2) bekezdés a) és b) pontjai szerinti esetekben, a bíróság jogerős ítéletének tudomásra jutásától számított harminc napon belül nem határoz a tagsági viszony felfüggesztéséről, illetve megszüntetéséről, a vadászati hatóság határozatban jogosult a vadászjegy visszavonására.
+(7) Ha a vezetőség a 16. § (1) bekezdés b) és c) pontja, valamint a 17. § (2) bekezdés a) és b) pontja szerinti esetekben, a bíróság jogerős ítéletének tudomásra jutásától számított harminc napon belül nem határoz a tagsági viszony felfüggesztéséről, illetve megszüntetéséről, a vadászati hatóság a vadászjegyet visszavonja, az erről szóló döntését a kamarának megküldi, amely a vadászjegyet érvényteleníti.

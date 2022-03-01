@@ -12,11 +12,11 @@ d) aki jogerősen ,,kizárás'' etikai büntetésben részesült,
 
 e) aki tizenkét hónapot meghaladóan nem fizeti a tagdíjat, és a területi szervezet vezetőségétől fizetési kedvezményt nem kapott.
 
-(2) A vezetőség indokolt írásbeli határozatával ki kell zárni a kamarából, és törölni kell a névjegyzékből, illetve a nyilvántartásból azt a tagot, akit
+(2) A vezetőség indokolt írásbeli határozatával ki kell zárni a kamarából, és törölni kell a nyilvántartásból azt a tagot, akit
 
 a) jogerősen egy évet meghaladó végrehajtandó szabadságvesztésre ítéltek,
 
-b) bíróság jogerősen a hivatásos vadász foglalkozástól végleges hatállyal eltiltott, továbbá
+b) bíróság jogerősen a hivatásos vadász foglalkozástól végleges hatállyal eltiltott, vagy
 
 c) aki már nem felel meg a tagsági viszony létesítése feltételeinek.
 

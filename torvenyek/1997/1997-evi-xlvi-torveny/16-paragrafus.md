@@ -10,7 +10,7 @@ c) akit a bíróság a hivatásos vadászként történő foglalkozástól joger
 
 d) aki az alapszabályban meghatározott időközönként, valamint az ott meghatározott módon szervezett szakmai továbbképzésen való eredményes részvételt nem tudja igazolni, legfeljebb a továbbképzésen való eredményes részvételig.
 
-(2) A felfüggesztés időtartama alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel, és erre az időtartamra a vadászjegyet, valamint a hivatásos vadász szolgálati naplóját és jelvényét be kell vonni.
+(2) A felfüggesztés időtartama alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel, valamint erre az időtartamra a vadász vadászjegyét érvényteleníteni kell.
 
 (3) Az (1) bekezdés a) pontja alapján felfüggesztett tagsági viszonyt a vezetőség a tag kérelmére állítja helyre, a b)–d) pontok alapján felfüggesztett tagsági viszony pedig az ott megállapított időtartam lejártát követő napon áll helyre, amelyet a tagnak írásban be kell jelentenie.
 

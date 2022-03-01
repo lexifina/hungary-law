@@ -4,7 +4,7 @@ a) megrovás;
 
 b) pénzbírság, amely a mindenkori minimálbér egyszeresétől tízszereséig terjedhet;
 
-c) a vadászjegy, a hivatásos vadász szolgálati naplójának, valamint jelvényének legfeljebb hat hónapra történő bevonása;
+c) a vadászjegy érvénytelenítése;
 
 d) a tagsági viszony legfeljebb hat hónapra terjedő felfüggesztése;
 
