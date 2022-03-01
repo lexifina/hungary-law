@@ -8,7 +8,7 @@ c) a megszűnt föld alatti bányák nyitva maradó térségeinek fenntartása �
 
 d) a geotermikus energia kutatása, energetikai célra történő kinyerése és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése,
 
-e) szénhidrogén-bányászatban használt technológiai létesítmény, csővezeték, a szénhidrogén-, a szén-dioxid-szállító, a földgázelosztó- és célvezeték, valamint az egyéb gáz- és gáztermékvezeték építése, használatba vétele, üzemeltetése, elbontása és felhagyása,
+e) szénhidrogén-bányászatban használt technológiai létesítmény, csővezeték, a szénhidrogén- és a széndioxid-szállító vezeték, a földgázelosztó- és célvezeték, valamint az egyéb gáz és gáztermékvezeték és bányaüzem területén az egyéb gáztechnológia építése, használatba vétele, üzemeltetése, elbontása és felhagyása,
 
 f) a szénhidrogén, valamint energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele, üzemeltetése, bezárása,
 

@@ -192,4 +192,6 @@ A vezetékek alkotórészei:
 
 57. Hasznosító: a magyar állam tulajdonát képező bányászati jog hasznosítására a magyar állam tulajdonosi jogait gyakorló szervvel szerződéses jogviszonyban álló személy.
 
+58. „Bányaüzemi egyéb gáztechnológiák”: tartozékaival és alkotórészeivel együtt azon berendezések összessége, amely a földgázon kívüli egyéb gázt, fluidumot vagy gázterméket állít elő bányaüzem területén
+
 59. Piacfelügyeleti intézkedésre okot adó állapot: az építőipari nyers- és alapanyagok kínálatának és keresletének – az építőipari nyers- és alapanyagok statisztikai adattal alátámasztott árát figyelembe vevő – változása következtében kialakult olyan piaci helyzet, amely a stratégiai felhasználónak minősülő gazdasági ágazatok, illetve a nemzetgazdaság ásványi nyersanyag-ellátásának a biztonságát veszélyezteti.

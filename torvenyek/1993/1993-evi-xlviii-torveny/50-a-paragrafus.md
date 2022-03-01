@@ -202,6 +202,10 @@ j) az új tárolási engedélyes kijelölésére,
 
 34. a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavarok és súlyos balesetek körére, az arról szóló jelentéstételi kötelezettségre és vizsgálati rendjére
 
+35. a felügyeleti díj mértékére, fizetésére, beszedésére, kezelésére és nyilvántartására
+
+36. a bányaüzem területén az egyéb gáztechnológia építésére, használatba vételére, üzemeltetésére, elbontására és felhagyására
+
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (1c) Felhatalmazást kap a Hatóság elnöke, hogy rendeletben területet zárt területté nyilvánítson.
@@ -268,7 +272,7 @@ rendeletben történő megállapítására.
 
 (3) Felhatalmazást kap
 
-a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
+a)
 
 b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 

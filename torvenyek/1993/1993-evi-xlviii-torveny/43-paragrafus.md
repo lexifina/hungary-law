@@ -20,25 +20,15 @@
 
 (9) A bányafelügyelet részére felügyeleti tevékenységéért a bányatelek vagy kutatási terület jogosítottja, a földgáztárolói, -szállítói és -elosztói, PB-gáz forgalmazói engedélyes, a határon átnyúló szolgáltatásként PB-gáz forgalmazást végző, valamint a bányászati hulladék kezelője, a szén-dioxid-tárolóhely üzemeltetője és a szén-dioxid-szállítóhálózat üzemeltetője felügyeleti díjat köteles fizetni.
 
-(9a) A felügyeleti díj éves mértéke
+(9a) A felügyeleti díj mértékét a Hatóság elnöke rendeletben állapítja meg.
 
-a) – a (9d) bekezdésben foglaltak kivételével – a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,
+(9b) A bányafelügyelet eljárásáért a Hatóság elnökének rendeletében megállapított mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-b) az engedélyes tevékenység esetében a tárgyévet megelőző évi árbevétel 0,4%-a,
+(9c)
 
-c) a határon átnyúló szolgáltatásként PB-gáz forgalmazást végző esetében a magyarországi, tárgyévet megelőző évi árbevétel 0,4%-a,
+(9d) A bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj, földgáz esetében fizetendő felügyeleti díj éves összegét a megállapítást követő minden 5. év december 31-ig felül kell vizsgálni.
 
-d) a bányászati hulladék kezelőjének esetében – ha tevékenysége tekintetében nem minősül bányavállalkozónak – a tevékenysége tárgyévet megelőző évi árbevételének 0,04%-a, valamint
-
-e) a szén-dioxid-tárolóhely üzemeltetőjének, valamint a szén-dioxid-szállítóhálózat üzemeltetőjének tevékenységéből származó, a tárgyévet megelőző évi árbevétel 0,4 %-a.
-
-(9b) A bányafelügyelet eljárásáért igazgatási szolgáltatási díjat kell fizetni.
-
-(9c) A (9) bekezdés szerint felügyeleti díjat fizető bányavállalkozónak, illetve engedélyesnek a tárgyévben befizetendő felügyeleti díjból – a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – visszajár a tárgyévet megelőző évben az általa a bányafelügyelet eljárásaiért megfizetett igazgatási szolgáltatási díjak összege.
-
-(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 33,2 Ft/MWh.
-
-(9e) A (9d) bekezdésben meghatározott díjtételt a megállapítást követő minden 5. év december 31-ig felül kell vizsgálni.
+(9e)
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 
