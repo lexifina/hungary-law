@@ -1,0 +1,1 @@
+A bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (1a) bekezdés l) pontjában kapott felhatalmazás alapján, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § k), n) és s) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
