@@ -1,4 +1,4 @@
-## 75. § A szerencsejáték-felügyeleti hatóság a szerencsejáték felügyeleti díjat szervezőnként és elszámolási időszakonként tartja nyilván.
+## 75. §[^3]
 
 ## X. Fejezet
 
@@ -37,3 +37,5 @@
 15. zseton: értékzseton, színzseton, valamint az elektronikus zseton (ticket).
 
 16. auditálási okirat: megfelelőségértékelésre jogosult személy által készített, teljes bizonyító erejű magánokirati formában kiállított tanúsítvány, amelynek tartalmáért a kiállítója szakmai és anyagi felelősséget vállal, és amely tartalmazza, hogy a kiállítója által, előre meghatározott módszertan alapján végzett vizsgálat és értékelés szerint a szerencsejáték-szervező által a szerencsejáték-szervezéshez alkalmazni kívánt műszaki-informatikai rendszer vagy műszaki megoldás, és azok működésének szabályozása mennyiben biztosítja a szerencsejáték biztonságos és szakszerű lebonyolításához szükséges feltételeket, továbbá amelynek mellékletét képezik a vonatkozó jogszabályi és szakmai követelményeknek való megfelelőségről készített jelentések, a vizsgálatot igazoló informatikai tesztelési dokumentumok, az informatikai rendszer rendszerdokumentációja és felhasználói leírása, a vizsgálat során felhasznált hitelesítési, vagy más szervezet által kiállított auditálási okiratok, amelyek alapján az auditálási okirat készült.
+
+[^3]: A 75. §-t a 3/2022. (I. 24.) SZTFH rendelet 7. §-a hatályon kívül helyezte.

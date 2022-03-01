@@ -1,1 +1,3 @@
-## 74. § A szerencsejáték-felügyeleti díj megfizetésekor a fizetési számlára történő készpénzbefizetés esetén a befizetés tényét igazoló szelvény vagy az átutalási megbízás esetén a pénzforgalmi szolgáltató által kiállított, az átutalás megindításának megtörténtét tanúsító igazolás (számlakivonat) közlemény rovatában fel kell tüntetni az érintett elszámolási időszakot, a szervező szerencsejáték-felügyeleti azonosítóját, ajándéksorsolás esetén a formanyomtatvány benyújtásáról a szerencsejáték-felügyeleti hatóság által rendelkezésre bocsátott iktatószámot.
+## 74. §[^2]
+
+[^2]: A 74. §-t a 3/2022. (I. 24.) SZTFH rendelet 7. §-a hatályon kívül helyezte.
