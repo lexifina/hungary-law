@@ -1,0 +1,3 @@
+27. § (1) A rendszerüzemeltető a kulcsemberkockázatot a 4. § (2) bekezdése szerint végzett kockázatelemzés során értékeli, és a 4. § (2) bekezdés d) pontja szerint meghatározott kockázati szinttel arányos lépéseket tesz a kockázat csökkentése érdekében.
+
+(2) A rendszerüzemeltető olyan emberierőforrás-gazdálkodást folytat, ami alacsony szinten tartja a humán erőforrásokból fakadó kockázatokat. A rendszerüzemeltető a fizetési rendszer működtetése kapcsán biztosítja, hogy a fizetési rendszer működtetéséhez szükséges ismeret és tudás ne koncentrálódjon egyetlen személynél olyan mértékben, hogy a személy kiesése a fizetési rendszer zökkenőmentes működését veszélyeztetné.
