@@ -2,4 +2,4 @@
 
 (2) Az önálló bírósági végrehajtó az adóstól a behajtott követelésen felül, a végrehajtási költségekkel együtt hajtja be az általános költségátalányt, és azt befizeti, vagy átutalja a Kar hivatali szervének. Az általános költségátalányból a Hatóságot törvény alapján megillető összeget a Kar hivatali szerve utalja át a Hatóságnak. A költségátalány összegének elszámolása és kielégítése a 164. § szerint történik.
 
-(3) Az általános költségátalány mértéke 500 000 forintot meg nem haladó végrehajtási ügyérték esetén ügyenként 5 000 forint, 500 000 forint feletti végrehajtási ügyérték esetén az ügyérték 1%-a.
+(3) Az általános költségátalány mértékét a Hatóság elnöke rendeletben állapítja meg.

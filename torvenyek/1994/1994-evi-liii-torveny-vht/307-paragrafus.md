@@ -34,7 +34,7 @@ j) a végrehajtói díjszabást és a végrehajtás során befolyt összegeknek 
 
 k) az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, valamint ezek megfizetésének módját,
 
-l) az általános költségátalány megfizetéséről szóló szabályokat,
+l) az általános költségátalány mértékét, az általános költségátalány megfizetéséről szóló szabályokat,
 
 m) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
 
