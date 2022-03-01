@@ -1,1 +1,3 @@
-## 3. §
+## „(3) A vadászjegy pótlása esetén a 49. § (3) bekezdésében foglaltakat kell alkalmazni, kivéve, ha arra a vadász olyan lakóhely-változtatása miatt kerül sor, amelynek következtében a vadászjegy kiállítása a vadászkamara másik területi szervének illetékességébe kerül.
+
+## (4) A vadászkamara a vadászjegy 14. melléklet I. pontja szerinti adatait az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 3. § g) pontja szerinti elektronikus nyilvántartó rendszerében tartja nyilván. A vadászkamara elektronikus úton anonimizált módon biztosítja az ellenőrző hatóság számára a vadászjegy érvényességének naprakész ellenőrizhetőségét, annak megjelölésével, hogy az adott vadászjegy milyen vadászati mód (fegyveres, solymász, íjász, agarász) gyakorlására jogosít fel.”
