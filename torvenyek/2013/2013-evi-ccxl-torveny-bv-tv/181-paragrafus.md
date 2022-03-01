@@ -13,3 +13,5 @@
 (6) Az oktatásban részesülő elítélt tanulmányi eredményétől, szorgalmától és magatartásától függően kiegészítő ösztöndíjban részesül, az elbírálás és a kiegészítő ösztöndíj mértékét rendelet szabályozza.
 
 (7) Az ösztöndíj a szabadulásra kötelezően tartalékolandó pénzösszeg tekintetében munkadíjnak minősül. A havi levonás mértéke igazodik a (2) bekezdésben meghatározott ösztöndíj mértékéhez, azaz az alapmunkadíjból levonandó kötelezően tartalékolandó pénzösszeg egynegyede vonható.
+
+(8) Pályázati forrás felhasználása esetén, ha a pályázati felhívás a fentiektől eltérő juttatást tartalmaz, a pályázati felhívásban meghatározott juttatás állapítható meg a fogvatartott részére.

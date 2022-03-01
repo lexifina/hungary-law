@@ -2,11 +2,9 @@
 
 116. § (1) Fontos okból – így különösen az elítélt személyi vagy családi körülményei, egészségi állapota miatt – a szabadságvesztés végrehajtása hivatalból vagy kérelemre félbeszakítható, erről
 
-a) egy naptári évben harminc napig terjedő időtartamra a parancsnok,
+a) egy naptári évben kilencven napig terjedő időtartamra a parancsnok,
 
-b) egy naptári évben harmincegy naptól kilencven napig terjedő időtartamra az országos parancsnok,
-
-c) a b) pontban szabályozottnál hosszabb időre a büntetés-végrehajtásért felelős miniszter
+b) az a) pontban szabályozottnál hosszabb időre, de legfeljebb egyévi időtartamra az országos parancsnok
 
 dönt.
 

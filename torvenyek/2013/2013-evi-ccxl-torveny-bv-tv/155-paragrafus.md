@@ -8,7 +8,7 @@
 
 (4) Az elítéltet az évszaknak megfelelő formaruhával, alsóruhával és lábbelivel kell ellátni. Ha a bv. intézet ideiglenesen nem tud formaruhát biztosítani, ennek idejére az elítélt a saját ruháját viselheti.
 
-(5) Rendkívüli esemény idején, vagy más elháríthatatlan ok miatt – legfeljebb három napig – az elítéltek kizárólag hideg élelemmel is elláthatók, az átszállításra, illetve az előállításra – ha az a bv. intézet székhelyének közigazgatási határán kívülre történik – kerülő elítélt részére csomagolt hideg élelmet kell adni.
+(5) Rendkívüli esemény idején vagy más elháríthatatlan ok miatt – legfeljebb három napig – az elítéltek kizárólag hideg élelemmel is elláthatók, átszállítás, illetve előállítás esetén – ha az a bv. intézet székhelyének közigazgatási határán kívülre történik, vagy előreláthatóan a napirend szerinti meleg ebéd az átszállítás, illetve előállítás tartama miatt nem biztosítható – az elítélt részére csomagolt hideg élelmet kell adni. E bekezdés alkalmazásában az előállítás alatt a jelenlét telekommunikációs eszköz útján történő biztosítását is érteni kell.
 
 (6) Az elítélt köteles a saját ruházat mosatásának, tisztíttatásának díját és a tisztálkodási felszerelés költségét megtéríteni, a letéti pénzzel nem rendelkező elítélt részére az alapvető tisztálkodási felszerelést biztosítani kell. Az elítélt köteles továbbá a jogszabályban meghatározott többletszolgáltatások igénybevételét megtéríteni, így különösen
 

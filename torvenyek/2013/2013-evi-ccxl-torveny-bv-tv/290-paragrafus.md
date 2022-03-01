@@ -18,7 +18,7 @@ cd) a 280. § (5) bekezdésében meghatározott feltételek fennállnak, illetve
 
 d) a 291. § (2) bekezdésében meghatározott feltételek fennállnak.
 
-(2) A pártfogó felügyelő a jelentést – az azt alátámasztó bizonyítékok csatolásával – megküldi az ügyésznek, és javaslatot tesz a közérdekű munka szabadságvesztésre való átváltoztatásának indítványozására.
+(2) A pártfogó felügyelő a jelentést – az azt alátámasztó bizonyítékok csatolásával – megküldi az ügyészségnek, és javaslatot tesz a közérdekű munka szabadságvesztésre való átváltoztatásának indítványozására.
 
 (3) Az ügyész szükség esetén meghallgatja a pártfogó felügyelőt és az elítéltet, vagy további bizonyítékok csatolására hívhatja fel a pártfogó felügyelőt.
 

@@ -16,7 +16,7 @@ a) a kiszabott szabadságvesztés ötévi vagy azt meghaladó tartamú,
 
 b) az elítélt többszörös visszaeső.
 
-(4a) Ha az elítélt szabadságvesztés büntetésének végrehajtását a kegyelmi döntés meghozataláig elhalasztották vagy félbeszakították, és a köztársasági elnök nem gyakorolt kegyelmet, a BVOP az elítéltet a szabadságvesztés végrehajtásának – a kegyelmi döntésről szóló határozat meghozatalától számított – harminc napon belül történő megkezdésére vagy folytatására hívja fel.
+(4a) A (3) bekezdésben meghatározottak szerint kell eljárni a szabadlábon lévő elítélt feltételes szabadságának megszüntetése és nemleges kegyelmi döntés esetén, valamint a rendkívüli jogorvoslat lefolytatását követően, ha ennek eredményeként a szabadságvesztés vagy annak hátralévő részének végrehajtása iránt kell intézkedni. A BVOP az elítéltet a szabadságvesztés végrehajtásának – a feltételes szabadság megszüntetéséről szóló jogerős határozat, illetve a kegyelmi döntésről szóló és a rendkívüli jogorvoslat tárgyában hozott határozat beérkezésétől számított tizenöt napon belül – a felhívás kézbesítésétől számított harminc – feltételes szabadság megszüntetése esetén tizenöt – napon belül történő megkezdésére vagy folytatására hívja fel.
 
 (5) A (3)–(4a) bekezdés szerinti felhívás tartalmazza
 

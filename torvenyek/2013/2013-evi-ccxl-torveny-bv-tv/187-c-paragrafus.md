@@ -10,7 +10,7 @@ d) az egy évet meg nem haladó tartamú szabadságvesztésből a bíróság ál
 
 e) a megjelölt lakás az elektronikus távfelügyeleti eszköz elhelyezésére alkalmatlan,
 
-f) a bíróság a kiutasításáról rendelkezett.
+f) a bíróság vagy az idegenrendészeti hatóság a kiutasításáról rendelkezett.
 
 (2) Ha a büntetés-végrehajtási bíró az elítélt reintegrációs őrizetét rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti a büntetés-végrehajtási bírót.
 

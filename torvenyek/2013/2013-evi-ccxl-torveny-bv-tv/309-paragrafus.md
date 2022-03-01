@@ -8,7 +8,7 @@
 
 (3) A jóvátételi munka idejére nem létesül munkaviszony. A jóvátételi munka nem minősül szervezett munkavégzésnek.
 
-(4) A jóvátételi munka elvégzéséről az érintett állami vagy önkormányzati fenntartású intézmény vezetője, közhasznú jogállású civil szervezet vezető tisztségviselője, a egyházi jogi személy képviselője vagy a képviseletre feljogosított tisztségviselője két példányban igazolást állít ki. Az igazolás közokirat. Az elítélt az igazolás egyik példányát a bíróság részére átadja.
+(4) A jóvátételi munka elvégzéséről az érintett állami vagy önkormányzati fenntartású intézmény vezetője, közhasznú jogállású civil szervezet vezető tisztségviselője, az egyházi jogi személy képviselője vagy a képviseletre feljogosított tisztségviselője két példányban igazolást állít ki. Az igazolás közokirat. Az elítélt az igazolás egyik példányát a bíróság részére átadja.
 
 (5) A pártfogó felügyelői szolgálat szükség esetén tanácsadással segíti az elítéltet a jóvátételi munka helyének kiválasztásában. Ennek érdekében a pártfogó felügyelői szolgálat önkéntes bejelentkezés alapján nyilvántartást vezet azokról az állami vagy önkormányzati intézményekről, közhasznú jogállású civil szervezetekről, egyházi jogi személyekről és az ezek által fenntartott olyan intézményekről, amelyek jóvátételi munka végzésére elítéltet fogadnának.
 

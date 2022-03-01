@@ -4,7 +4,7 @@
 
 a) a tárhelyszolgáltató a 324. § (3) bekezdése alapján kiszabott rendbírság ellenére nem teljesíti a kötelezettséget,
 
-b) az elektronikus adat végleges hozzáférhetetlenné tételét gyermekpornográfia (Btk. 204. §) megvalósulása miatt rendelte el, és a tárhelyszolgáltató kötelezettségének nem tesz eleget, a rendbírság kiszabására tekintet nélkül haladéktalanul,
+b) az elektronikus adat végleges hozzáférhetetlenné tételét gyermekpornográfia (Btk. 204–204/A. §) megvalósulása miatt rendelte el, és a tárhelyszolgáltató kötelezettségének nem tesz eleget, a rendbírság kiszabására tekintet nélkül haladéktalanul,
 
 c) az elektronikus adat végleges hozzáférhetetlenné tételére vonatkozóan a külföldi hatóság jogsegély iránti megkeresése a megkeresés kibocsátásától számított harminc napon belül nem vezetett eredményre.
 

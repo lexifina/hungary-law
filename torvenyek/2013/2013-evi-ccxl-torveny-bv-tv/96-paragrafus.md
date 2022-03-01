@@ -18,25 +18,17 @@ h) a bv. szerv orvosának javaslata alapján döntés a munkaterápiás foglalko
 
 i) az oktatásra, a szakképzésre és a felnőttképzésre jelentkezők beiskolázása,
 
-j) a hosszúidős speciális részlegen történő elhelyezés vagy annak megszüntetése,
+j) átmeneti részlegre helyezésre javaslattétel,
 
-k) a gyógyító-terápiás részlegen történő elhelyezés vagy annak megszüntetése,
+k) sajátos kezelési igényű elítéltek részlegén történő elhelyezés vagy annak megszüntetése,
 
-l) a pszichoszociális részlegen történő elhelyezés vagy annak megszüntetése,
+l) a társadalmi kötődés programba történő bevonás vagy annak megszüntetése,
 
-m) a drogprevenciós részlegen történő elhelyezés vagy annak megszüntetése,
+m) reintegrációs őrizet elrendelésére javaslattétel,
 
-n) az alacsony biztonsági kockázatú részlegen történő elhelyezés vagy annak megszüntetése,
+n) jogszabályban meghatározott egyéb feladat.
 
-o) reintegrációs őrizet elrendelésére javaslattétel,
-
-p) jogszabályban meghatározott egyéb feladat,
-
-q) a vallási részlegen történő elhelyezés vagy annak megszüntetése,
-
-r) a társadalmi kötődés programba történő bevonás vagy annak megszüntetése.
-
-(2) A BFB az (1) bekezdés b), d), f)–h), j), l) és o) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
+(2) A BFB az (1) bekezdés b), d), f)–h), j)–k) és m) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
 
 (3) Az elítéltet a bv. intézet parancsnoka és a BFB döntéseivel szemben e törvényben meghatározott jogorvoslati jog illeti meg. Jogorvoslatnak a határozat, illetve a döntés végrehajtására nincs halasztó hatálya.
 

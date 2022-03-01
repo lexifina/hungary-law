@@ -16,6 +16,10 @@ b) a gyermekét a bíróság a letartóztatás elrendelésekor ideiglenes hatál
 
 (3) Ha a letartóztatott pszichiátriai kezelése szükséges, de előzetes kényszergyógykezelésének elrendelésére nincs alap, a letartóztatást – a bíróság rendelkezése alapján – az IMEI-ben kell végrehajtani. A letartóztatás IMEI-ben történő végrehajtását a bíróság haladéktalanul megszünteti, ha az az IMEI szakorvosának véleménye vagy igazságügyi pszichiátriai szakértői vizsgálat alapján már nem indokolt.
 
-(4) A (2)–(3) esetén a fogva tartó intézet vezetője értesíti az ügyészséget, ha a letartóztatás végrehajtási helyének megváltoztatását indokoltnak tartja.
+(3a) Ha a (3) bekezdés alkalmazásának nincs helye, de a letartóztatott korlátozott beszámítási képességét állapították meg, illetve az IMEI-ben végzett vizsgálat alapján személyiségzavarának jellege vagy annak súlyossága miatt ez indokolt, a bíróság a letartóztatott gyógyító-terápiás részlegen való elhelyezéséről rendelkezhet. A bíróság haladéktalanul megszünteti a gyógyító-terápiás részlegre helyezést, ha az az IMEI szakorvosának véleménye vagy igazságügyi pszichiátriai szakértői vizsgálat alapján már nem indokolt.
+
+(3b) A bíróság a (3) és (3a) bekezdésben meghatározott kérdésekben egy határozattal is meghozhatja a döntést.
+
+(4) A (2)–(3a) bekezdés esetén a fogva tartó intézet vezetője értesíti az ügyészséget, ha a letartóztatás végrehajtási helyének megváltoztatását indokoltnak tartja.
 
 (5) A letartóztatott befogadására a bv. intézetben kerül sor.

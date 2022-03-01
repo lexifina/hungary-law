@@ -18,6 +18,8 @@
 
 (9) Az ügydöntő határozatban előírt külön magatartási szabályok megváltoztatása iránt a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő tesz javaslatot a büntetés-végrehajtási bírónak. A külön magatartási szabályok megváltoztatása iránti javaslatnak a pártfogolt kérelme alapján is helye van. A büntetés-végrehajtási bíró az iratok alapján hozhatja meg a döntést.
 
+(9a) Ha a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő javaslatot tesz a büntetés-végrehajtási bírónak külön magatartási szabályok előírására, az elítélt meghallgatása nem mellőzhető.
+
 (10) A pártfogolt kérelme esetén a büntetés-végrehajtási bíró a büntetés-végrehajtási pártfogó felügyelőt meghallgathatja, és pártfogó felügyelői véleményt szerezhet be.
 
 (11) Az e §-ban szabályozott eljárásokban a bűnügyi költséget az állam viseli.

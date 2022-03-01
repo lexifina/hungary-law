@@ -2,7 +2,7 @@
 
 a) levelezés,
 
-b) telefonbeszélgetés a bv. intézet által biztosított telefonnal,
+b) telefonbeszélgetés a bv. intézet által biztosított telefonnal és telekommunikációs eszköz útján történő kapcsolattartás,
 
 c) csomag küldése és fogadása,
 

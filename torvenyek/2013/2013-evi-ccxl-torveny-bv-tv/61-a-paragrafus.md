@@ -12,6 +12,8 @@
 
 (5a) Ha a büntetés-végrehajtási bíró az elítélt reintegrációs őrizetét rendelte el, de a bv. intézet a reintegrációs őrizet esedékességének napjáig arról értesíti, hogy az elítélt súlyos fegyelmi vétséget követett el, a büntetés-végrehajtási bíró a reintegrációs őrizet elrendelését újból megvizsgálja, és ennek alapján a végzését hatályon kívül helyezheti.
 
+(5b) Ha a reintegrációs őrizetet elrendelő végzés ellen az ügyészség fellebbezést nyújt be, ennek a reintegrációs őrizet megkezdésére halasztó hatálya van. Az ügyészség a fellebbezésről – a fellebbezés benyújtásával egy időben – értesíti a bv. intézetet.
+
 (6) Az elítélt vagy a védő kérelmére a büntetés-végrehajtási bíró a reintegrációs őrizet elrendeléséről szóló határozatnak a lakás kijelölésére, valamint a kijelölt lakás és az ahhoz tartozó bekerített hely elhagyásának feltételeire vonatkozó részét megváltoztathatja vagy eseti jelleggel engedélyezheti az elítélt meghatározott célból történő eltávozását. A büntetés-végrehajtási bíró a kérelemről öt napon belül, sürgős szükség esetén soron kívül – az iratok alapján – határoz. Az eljárást a reintegrációs őrizet végrehajtására kijelölt lakás elhelyezkedése szerint illetékes büntetés-végrehajtási bíró folytatja le.
 
 (7) A reintegrációs őrizet elrendelésével kapcsolatos eljárás bűnügyi költségét az állam viseli.

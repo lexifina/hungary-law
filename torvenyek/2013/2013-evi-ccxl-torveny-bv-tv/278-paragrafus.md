@@ -4,6 +4,6 @@ a) a szülést követően gyermekének gondozásáról egy éven át saját ház
 
 b) legalább egy évig gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesült,
 
-c) folyamatosan öt évet vagy azt meghaladó időt töltött szabadságvesztésben vagy letartóztatásban, vagy két évet vagy azt meghaladó időt töltött javítóintézetben,
+c) folyamatosan öt évet vagy azt meghaladó időt töltött szabadságvesztésben vagy letartóztatásban, illetve kényszergyógykezelésben vagy előzetes kényszergyógykezelésben, vagy két évet vagy azt meghaladó időt töltött javítóintézetben,
 
 d) olyan szabadságvesztést tölt, amely mellett kiutasítását rendelték el.

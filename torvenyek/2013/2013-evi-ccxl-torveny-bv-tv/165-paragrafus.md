@@ -8,18 +8,26 @@ a) dicséret,
 
 b) kondicionáló terem használatának díjmentes biztosítása,
 
-c) látogatófogadás soron kívül, a látogatási idő meghosszabbítása,
+c) többletszolgáltatás térítési díjának megfizetése alóli mentesítés egy hónap időtartamra,
 
-d) a személyes szükségletekre fordítható összeg növelése,
+d) telefonbeszélgetés térítésmentes biztosítása harminc perc időtartamban,
 
-e) pénzjutalom,
+e) telekommunikációs eszköz útján történő kapcsolattartás soron kívül,
 
-f) tárgyjutalom,
+f) csomag vásárlása vagy fogadása soron kívül,
 
-g) a végrehajtott fenyítés nyilvántartásból törlése,
+g) látogatófogadás soron kívül, a látogatási idő meghosszabbítása,
 
-h) látogató bv. intézeten kívüli fogadása soron kívül,
+h) a személyes szükségletekre fordítható összeg növelése,
 
-i) jutalom kimaradás,
+i) pénzjutalom,
 
-j) jutalom eltávozás.
+j) tárgyjutalom,
+
+k) a végrehajtott fenyítés nyilvántartásból törlése,
+
+l) látogató bv. intézeten kívüli fogadása soron kívül,
+
+m) jutalom kimaradás,
+
+n) jutalom eltávozás.

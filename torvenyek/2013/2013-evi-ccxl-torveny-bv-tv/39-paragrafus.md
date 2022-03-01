@@ -26,4 +26,4 @@ b) egy évesnél fiatalabb gyermekét gondozza.
 
 (8) A katona szabadságvesztése végrehajtásának elhalasztásáról az elítélt munkáltatói jogkört gyakorló parancsnokát (vezetőjét) értesíteni kell.
 
-(9) Ha az (1) bekezdés szerinti halasztás iránti kérelmet olyan időben terjesztik elő, hogy annak elintézésére a végrehajtás megkezdésére kitűzött határnap előtt már nincs lehetőség, a tanács elnöke a kérelem elbírálását mellőzi, és erről a kérelmezőt értesíti.
+(9) Az (1) bekezdés szerinti halasztás iránti kérelem az ügydöntő határozat jogerőre emelkedésétől számított három hónapon belül terjeszthető elő. A határidő elmulasztása esetén igazolásnak helye nincs. Ha a bíróság a kérelmet megalapozottnak találja és a végrehajtás megkezdésére kitűzött határnapra figyelemmel ez indokolt, a 44. § (6) bekezdése szerint intézkedhet. Ha az (1) bekezdés szerinti halasztás iránti kérelmet olyan időben terjesztik elő, hogy annak elintézésére a végrehajtás megkezdésére kitűzött határnap előtt már nincs lehetőség, a tanács elnöke a kérelem elbírálását mellőzi, és erről a kérelmezőt értesíti.

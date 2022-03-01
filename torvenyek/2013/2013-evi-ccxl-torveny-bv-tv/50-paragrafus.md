@@ -16,7 +16,13 @@ cc) harminc napon belül hozza meg a döntést, ha az iratok alapján határoz,
 
 d) az elítélt vagy védője kérelmére indult eljárásban a felhívástól számított tizenöt napos határidő biztosításával beszerezheti az ügyészség és szükség szerint a végrehajtásért felelős szerv véleményét, és a kérelmet – e törvény eltérő rendelkezése hiányában – ezek beérkezésétől számított harminc napon belül bírálja el, ha az iratok alapján határoz, ha meghallgatást vagy tárgyalást tart, azt harminc napon belüli időpontra tűzi,
 
-e) a meghallgatást és a tárgyalást a bíróság épületében, ha az elítélt fogva van, a meghallgatást, illetve a tárgyalást telekommunikációs eszköz használata útján vagy a bv. intézetben, javítóintézeti nevelés esetén a javítóintézetben tartja,
+e) a meghallgatást és a tárgyalást a bíróság épületében, ha az elítélt fogva van, illetve az egyéb jogcímen fogvatartott esetén a meghallgatást, illetve a tárgyalást a bv. intézetben, javítóintézeti nevelés esetén a javítóintézetben tartja azzal, hogy
+
+ea) a fogva lévő elítélt, illetve az egyéb jogcímen fogvatartott jelenlétét a bíróság épületében tartott meghallgatáson vagy tárgyaláson telekommunikációs eszköz útján kell biztosítani,
+
+eb) ha az elítélt tényleges tartózkodási helye külföldön van, jelenléte a meghallgatáson vagy a tárgyaláson telekommunikációs eszköz útján is biztosítható, valamint
+
+ec) kérelemre engedélyezheti, hogy a meghallgatáson vagy a tárgyaláson jelenlétre kötelezett vagy jogosult a telekommunikációs eszköz útján történő jelenlét biztosítása érdekében – a Be. 126/A–126/B. §-ának alkalmazásával – a rendelkezésére álló eszközt használja,
 
 f) az e fejezetben szabályozott eljárása során az ügy érdemében – ide nem értve a bírósági felülvizsgálati eljárást – ügydöntő végzést hoz, amely ellen
 
@@ -45,6 +51,12 @@ k) szükség esetén szakértői vizsgálatot rendelhet el,
 l) a bírósági felülvizsgálati kérelemről – e törvény eltérő rendelkezése hiányában – az iratnak a hozzá érkezésétől számított nyolc napon belül határoz, ha az iratok alapján dönt; ha meghallgatást vagy tárgyalást tart, azt harminc napon belüli időpontra tűzi,
 
 (2) A büntetés-végrehajtási bírói eljárásokat – e törvény eltérő rendelkezése hiányában – annak a végrehajtásért felelős szervnek, szervezeti egységnek vagy javítóintézetnek a székhelye szerint illetékes büntetés-végrehajtási bíró folytatja le, ahol az eljárás alapjául szolgáló büntetést vagy intézkedést végrehajtják.
+
+(2a) Ha a büntetés-végrehajtási bírói eljárásban szabadlábon lévő elítélt meghallgatása szükséges, és
+
+a) az elítélt tényleges tartózkodás helye külföldön van, az a büntetés-végrehajtási bíró intézkedik, aki az elítélt utolsó ismert lakcíme, illetve tényleges tartózkodási helye, ezek hiányában az ügydöntő határozatot hozó elsőfokú bíróság székhelye szerint illetékes, feltéve, hogy az eljáró büntetés-végrehajtási bíró illetékessége nem állapítható meg, továbbá
+
+b) az elítéltet elfogatóparancs alapján az eljárás lefolytatására az illetékes büntetés-végrehajtási bíró elé állítják, vagy a szabadlábon lévő elítélt az idézésre megjelenik, az elítélt lakcímének vagy tényleges tartózkodási helyének megváltozása címén az eljárás illetékességből történő áttételének nincs helye.
 
 (3) Az e fejezetben és a III/A. Fejezetben szabályozott eljárások közül azokban, amelyeknél e törvény az elítélt meghallgatását nem írja elő vagy a bírósági titkár eljárását nem tiltja meg, a büntetés-végrehajtási bíró feladatait önálló aláírási joggal a törvényszék elnöke által kijelölt bírósági titkár is elláthatja. A bírósági titkár a döntését iratok alapján hozza meg.
 

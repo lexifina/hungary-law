@@ -6,4 +6,6 @@
 
 (3) A munkaterápiás foglalkoztatáson részt vevő elítélt rendszeres pénzbeli térítésre jogosult, amelynek legkisebb összege napi hatórás foglalkoztatás esetén az alapmunkadíj egyharmada. A térítési díj összege az országos parancsnok által normatív utasításban, évente meghatározott összeg.
 
+(3a) Ha a munkaterápiás foglalkoztatáson részt vevő elítéltet a munkáltató a működési körében felmerült okból nem tudja munkával foglalkoztatni – ide nem értve a büntetés-végrehajtási okokat –, a kiesett munkaidőre a térítési díj ötven százaléka jár.
+
 (4) Munkaterápiás foglalkoztatás esetén e törvény munkáltatásra vonatkozó szabályait kell azzal az eltéréssel alkalmazni, hogy az ilyen foglakoztatásban részt vevő elítélt számára teljesítménykövetelmény nem írható elő.

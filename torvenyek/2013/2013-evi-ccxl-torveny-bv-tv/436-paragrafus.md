@@ -1,6 +1,6 @@
 ## Átmeneti rendelkezések
 
-436. § (1) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) alkalmazásával kiszabott büntetések és alkalmazott intézkedések végrehajtása során a (2)–(9) bekezdésben foglalt eltérésekkel e törvény rendelkezései szerint kell végrehajtani.
+436. § (1) Az 1978. évi IV. törvény alkalmazásával kiszabott büntetések és alkalmazott intézkedések végrehajtása során a (2)–(9) bekezdésben foglalt eltérésekkel e törvény rendelkezései szerint kell végrehajtani.
 
 (2) Az 1978. évi IV. törvény alkalmazásával kiszabott szabadságvesztésre ítélt a 2013. június 30. napján hatályban volt 1978. évi IV. törvény rendelkezései szerint bocsátható feltételes szabadságra.
 
@@ -43,3 +43,9 @@ b) az indítvány, illetve a kérelem,
 2018. június 30. napjáig a bíróságra beérkezett.
 
 (14) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését követően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozatban megítélt kártalanítási összeg 2020. június 15-ig nem fizethető ki. E bekezdés szerinti felfüggesztés időtartama a 70/B. § (6) bekezdésében foglalt időtartamba nem számít bele.
+
+(15) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését megelőzően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozat a meghozatalakor hatályos szabályok szerint teljesítendő.
+
+(16) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését követően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozatban megítélt kártalanítási összegből a 10/B. § (5) bekezdés a) pontja szerinti kifizetés 2020. december 31-ig nem teljesíthető. E bekezdés szerinti felfüggesztés időtartama a 70/B. § (6) bekezdésében foglalt időtartamba nem számít bele.
+
+(17) A (14) bekezdés alapján felfüggesztett kifizetések esetén – a (16) bekezdésben foglaltakra figyelemmel – a 10/B. §-ban meghatározottakat 2020. szeptember 15. napjáig kell teljesíteni.

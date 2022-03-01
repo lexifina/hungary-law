@@ -30,7 +30,7 @@ k) az utógondozott társadalombiztosítási azonosító jelére, egészségügy
 
 l) a kényszerintézkedés hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 
-m) az elítélt vagy az egyéb jogcímen fogvatartott jogai gyakorlásához és kötelezettségei teljesítéséhez szükséges további személyes adatokra, különösen az egészségügyi állapotára, esetleges káros szenvedélyeire vonatkozó vagy a bűnügyi személyes adataira,
+m) az elítélt vagy az egyéb jogcímen fogvatartott jogai gyakorlásához és kötelezettségei teljesítéséhez szükséges további személyes adatokra, különösen az egészségügyi állapotára, esetleges káros szenvedélyeire vonatkozó vagy a bűnügyi személyes adataira, valamint külföldi állampolgárságú elítélt vagy egyéb jogcímen fogvatartott esetén az idegenrendészeti kiutasítására vonatkozó adataira,
 
 n) az elítéltnek vagy az egyéb jogcímen fogvatartottnak a végrehajtással összefüggésben keletkezett kártérítési és egyéb fizetési kötelezettségére, kártérítési igényére vonatkozó adatokra és a keresményét terhelő fizetési kötelezettségekre,
 
