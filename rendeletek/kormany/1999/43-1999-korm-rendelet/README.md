@@ -115,3 +115,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2021-11-03 | 1999-43-20-22.185 | 605/2021. (XI. 2.) Korm. rendelet |
 | 2021-12-23 | 1999-43-20-22.186 | 7/2008. (I. 23.) Korm. rendelet |
 | 2022-01-01 | 1999-43-20-22.187 | 757/2021. (XII. 22.) Korm. rendelet |
+| 2022-03-01 | 1999-43-20-22.188 | 64/2022. (II. 28.) Korm. rendelet |
