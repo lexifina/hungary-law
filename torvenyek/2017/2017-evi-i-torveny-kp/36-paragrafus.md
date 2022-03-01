@@ -28,9 +28,11 @@ l) a jóhiszemű eljárás követelményének és az igazmondási kötelezettsé
 
 (2) Az eljárás szabálytalansága ellen vagy az eljárás elhúzódása miatt benyújtott kifogás elbírálására a polgári perrendtartás szabályait azzal az eltéréssel kell alkalmazni, hogy
 
-a) a törvényszék mulasztásával szemben benyújtott kifogást a Kúria,
+a) a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla,
 
-b) a Kúria mulasztásával szemben benyújtott kifogást a Kúria erre kijelölt másik tanácsa
+b) az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria,
+
+c) a Kúria mulasztásával szemben benyújtott kifogást a Kúria erre kijelölt másik tanácsa
 
 bírálja el.
 

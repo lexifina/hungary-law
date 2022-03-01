@@ -16,7 +16,7 @@ b) a Kúria közzétett határozatától jogkérdésben való eltérés
 
 miatt indokolt.
 
-(2) A felülvizsgálati kérelem befogadásáról vagy a befogadás megtagadásáról a Kúria háromtagú tanácsban, tárgyaláson kívül, a felterjesztéstől számított harminc napon belül határoz. A felülvizsgálati kérelem befogadását megtagadó végzést indokolni kell.
+(2) A felülvizsgálati kérelem befogadásáról vagy a befogadás megtagadásáról a Kúria tanácsban, tárgyaláson kívül, a felterjesztéstől számított harminc napon belül határoz. A felülvizsgálati kérelem befogadását megtagadó végzést indokolni kell.
 
 (3) A befogadhatóság tárgyában hozott végzést a Kúria közli a felülvizsgálati kérelmet előterjesztő féllel.
 

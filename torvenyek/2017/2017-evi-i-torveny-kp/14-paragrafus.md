@@ -2,7 +2,7 @@
 
 (1) A bíróság hatáskörének és illetékességének hiányát hivatalból veszi figyelembe.
 
-(2) Ha a közigazgatási ügyben eljáró bíróság hatáskörét megállapítja, e döntése más bíróságra – ide nem értve a Kúriát – kötelező.
+(2) Ha a közigazgatási ügyben eljáró bíróság hatáskörét megállapítja, e döntése más bíróságra – ide nem értve a másodfokon eljáró bíróságot és a Kúriát – kötelező.
 
 (3) A bíróság illetékességének megállapításánál a keresetlevél benyújtásának időpontja irányadó. Ha a per a keresetlevél benyújtása után bekövetkezett valamely változás folytán tartozna a bíróság illetékessége alá, a bíróság illetékességét akkor is meg kell állapítani.
 

@@ -26,6 +26,6 @@ a) amelynek vezetőjével szemben az (1) bekezdés a)–e) pont szerinti kizár�
 
 b) amely a perben félként vagy érdekeltként vehet részt.
 
-(4) A kizárás kérdésében a Kúria dönt, ha a törvényszéknek nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed.
+(4) A kizárás kérdésében az ítélőtábla dönt, ha a törvényszéknek nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed.
 
 (5) A kizárási kérelem bejelentésére és elintézésére egyebekben a polgári perrendtartás szabályait kell megfelelően alkalmazni.

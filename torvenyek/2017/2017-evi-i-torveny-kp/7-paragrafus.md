@@ -10,6 +10,10 @@ a) a közigazgatási kollégiummal működő törvényszék (a továbbiakban: t�
 
 b) törvényben meghatározott esetben a Kúria.
 
-(2) Másodfokon a Kúria ítélkezik.
+(2) Másodfokon ítélkezik:
+
+a) a törvényszékhez tartozó ügyekben a közigazgatási kollégiummal rendelkező ítélőtábla (a továbbiakban: ítélőtábla),
+
+b) az ítélőtáblához tartozó ügyekben a Kúria.
 
 (3) Felülvizsgálati ügyekben a Kúria jár el.

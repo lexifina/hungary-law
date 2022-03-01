@@ -32,6 +32,8 @@ b) a minősített adatok megismerésével kapcsolatos jogvitára, valamint
 
 c) a köztestület, annak szerve, illetve tisztségviselője közigazgatási tevékenységével kapcsolatos jogvita, a köztestület szervei, illetve tisztségviselői közötti jogvita, továbbá a köztestület, szervei, illetve tisztségviselői és a köztestület felett törvényességi felügyeletet vagy ellenőrzést gyakorló szerv közötti jogvita elbírálására.
 
+(3a) Az ítélőtábla hatáskörébe tartozó ügyekben a Fővárosi Ítélőtábla kizárólagosan illetékes.
+
 (4) Ha a közigazgatási tevékenység külföldön valósult meg, a jogvitára a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (5) A közigazgatási szerződéssel kapcsolatos perre az a törvényszék illetékes, amelynek illetékességi területén a per tárgyává tett szerződést megkötötték. A főkötelezett elleni perre bármilyen címen illetékes bíróság a mellékkötelezettel szembeni igény elbírálására is illetékes.

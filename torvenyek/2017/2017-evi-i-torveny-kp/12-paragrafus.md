@@ -4,9 +4,15 @@
 
 ### 12. § [Hatáskör]
 
-(1) A törvényszék hatáskörébe tartoznak azok a közigazgatási perek és egyéb közigazgatási bírósági eljárások, amelyek elbírálását törvény nem utalja a Kúria hatáskörébe.
+(1) A törvényszék hatáskörébe tartoznak azok a közigazgatási perek és egyéb közigazgatási bírósági eljárások, amelyek elbírálását törvény nem utalja a Kúria vagy az ítélőtábla hatáskörébe.
 
-(2) A Kúria első és végső fokon jár el
+(2) Az ítélőtábla jár el elsőfokon
+
+a) az eljáró közigazgatási szerv kijelölésére irányuló eljárásban, valamint
+
+b) a törvény által hatáskörébe utalt ügyben.
+
+(3) A Kúria első és végső fokon jár el
 
 a) az alkotmányjogi panasz orvoslása eljárási eszközének megállapítására irányuló eljárásban,
 
@@ -14,8 +20,6 @@ b) a helyi önkormányzati rendelet más jogszabályba ütközésének vizsgála
 
 c) a helyi önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárásban,
 
-d) a feloszlatás kivételével a gyülekezési joggal kapcsolatos eljárásban,
+d) a feloszlatás kivételével a gyülekezési joggal kapcsolatos eljárásban, valamint
 
-e) az eljáró közigazgatási szerv kijelölésére irányuló eljárásban és
-
-f) a törvény által hatáskörébe utalt ügyben.
+e) a törvény által hatáskörébe utalt ügyben.
