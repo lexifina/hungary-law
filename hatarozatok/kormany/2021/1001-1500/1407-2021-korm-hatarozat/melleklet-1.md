@@ -8,7 +8,7 @@
 
 ## Határidő: e határozat közzétételét követő hatvan napon belül
 
-1. melléklet az 1407/2021. (VI. 30.) Korm. határozathoz
+1. melléklet az 1407/2021. (VI. 30.) Korm. határozathoz[^1]
 
 Egyházi fenntartó tulajdonba adására kerülő ingatlanok jegyzéke
 
@@ -16,47 +16,47 @@ Egyházi fenntartó tulajdonba adására kerülő ingatlanok jegyzéke
 
 | 1. | Ingatlan címe és helyrajzi száma | Tulajdonba vevő egyházi fenntartó neve és székhelye |
 
-| 2. | 4080 Hajdúnánás, Bethlen Gábor krt. 33. Hajdúnánás, belterület 29/2 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 2. | 4080 Hajdúnánás, Bethlen Gábor krt. 33. Hajdúnánás, belterület 29/2 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 3. | 4080 Hajdúnánás, Szatmár u. 3. Hajdúnánás, belterület 780/36 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 3. | 4080 Hajdúnánás, Szatmár u. 3. Hajdúnánás, belterület 780/36 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 4. | 4080 Hajdúnánás, Polgári u. 77. Hajdúnánás, belterület 1507 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 4. | 4080 Hajdúnánás, Polgári u. 77. Hajdúnánás, belterület 1507 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 5. | 4080 Hajdúnánás, Lehel u. 18. Hajdúnánás, belterület 1920 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 5. | 4080 Hajdúnánás, Lehel u. 18. Hajdúnánás, belterület 1920 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 6. | 4080 Hajdúnánás, Szatmár u. 5. Hajdúnánás, belterület 1582/3 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 6. | 4080 Hajdúnánás, Szatmár u. 5. Hajdúnánás, belterület 1582/3 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 7. | 4080 Hajdúnánás, Tiszavasvári u. 25. Hajdúnánás, belterület 1970 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 7. | 4080 Hajdúnánás, Tiszavasvári u. 25. Hajdúnánás, belterület 1970 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 8. | 4080 Hajdúnánás, Lehel u. 1/a Hajdúnánás, belterület 1968/2 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 8. | 4080 Hajdúnánás, Lehel u. 1/a Hajdúnánás, belterület 1968/2 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 9. | 4080 Hajdúnánás, Rákosi Viktor utca 1/a Hajdúnánás, belterület 3060/2 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 9. | 4080 Hajdúnánás, Rákosi Viktor utca 1/a Hajdúnánás, belterület 3060/2 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 10. | 4080 Hajdúnánás, Bajcsy-Zsilinszky u. 12. Hajdúnánás, belterület 3697 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 10. | 4080 Hajdúnánás, Bajcsy-Zsilinszky u. 12. Hajdúnánás, belterület 3697 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 11. | 4080 Hajdúnánás, Bajcsy-Zsilinszky u. 10. Hajdúnánás, belterület 3698 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 11. | 4080 Hajdúnánás, Bajcsy-Zsilinszky u. 10. Hajdúnánás, belterület 3698 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 12. | 4080 Hajdúnánás, Kapitány u. 24. Hajdúnánás, belterület 4477 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 12. | 4080 Hajdúnánás, Kapitány u. 24. Hajdúnánás, belterület 4477 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 13. | 4080 Hajdúnánás, Jókai u. 22. Hajdúnánás, belterület 4888 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 13. | 4080 Hajdúnánás, Jókai u. 22. Hajdúnánás, belterület 4888 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 14. | 4263 Nyírmártonfalva, Deák Ferenc u. 8. Nyírmártonfalva, belterület 167 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 14. | 4263 Nyírmártonfalva, Deák Ferenc u. 8. Nyírmártonfalva, belterület 167 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 15. | 4262 Nyíracsád, Malom u. 8. Nyíracsád, belterület 539/3 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 15. | 4262 Nyíracsád, Malom u. 8. Nyíracsád, belterület 539/3 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 16. | 4262 Nyíracsád, Zrínyi u. 6. Nyíracsád, belterület 700 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 16. | 4262 Nyíracsád, Zrínyi u. 6. Nyíracsád, belterület 700 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 17. | 4254 Nyíradony, Ifjúság u. 4. Nyíradony, belterület 1896/63 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 17. | 4254 Nyíradony, Ifjúság u. 4. Nyíradony, belterület 1896/63 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 18. | Debrecen IV. kerület, Pitypang u. 26783/20 hrsz. Debrecen IV. kerület, belterület 26783/20 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 18. | Debrecen IV. kerület, Pitypang u. 26783/20 hrsz. Debrecen IV. kerület, belterület 26783/20 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 19. | 4030 Debrecen I. kerület, Békés u. 9. Debrecen I. kerület, belterület 11738/463 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 19. | 4030 Debrecen I. kerület, Békés u. 9. Debrecen I. kerület, belterület 11738/463 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 20. | 4030 Debrecen III. kerület, Kosárfonó u. 30. Debrecen III. kerület, belterület 116/79 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 20. | 4030 Debrecen III. kerület, Kosárfonó u. 30. Debrecen III. kerület, belterület 116/79 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 21. | 4243 Téglás, Kossuth Lajos u. 42. Téglás, belterület 366/1 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 21. | 4243 Téglás, Kossuth Lajos u. 42. Téglás, belterület 366/1 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
-| 22. | 4243 Téglás, Május 1. u. 2. Téglás, belterület 507/15 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 22. | 4243 Téglás, Május 1. u. 2. Téglás, belterület 507/15 hrsz. | Hajdúdorogi Főegyházmegye (Hajdúdorogi Metropolitai Egyház) 4025 Debrecen, Petőfi tér 8. |
 
 | 23. | 4432 Nyíregyháza, Sugár utca 55. Nyíregyháza, belterület 16412 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
 
@@ -74,13 +74,13 @@ Egyházi fenntartó tulajdonba adására kerülő ingatlanok jegyzéke
 
 | 30. | 4300 Nyírbátor, Dózsa György u. 20. Nyírbátor, belterület 2130 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
 
-| 31. | Szakoly, belterület 457/1 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 31. | Szakoly belterület 457/1 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
 
-| 32. | Szakoly, belterület 457/2 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 32. | Szakoly belterület 457/2 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
 
-| 33. | 4234 Szakoly, Mihálydi u. 52. Szakoly, belterület 438/6 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 33. | 4234 Szakoly, Mihálydi u. 52. Szakoly, belterület 438/6 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
 
-| 34. | 4234 Szakoly, Mihálydi u. 50. Szakoly, belterület 438/7 hrsz. | Szent Lukács Görögkatolikus Szeretetszolgálat 4400 Nyíregyháza, Bocskai utca 26. |
+| 34. | 4234 Szakoly, Mihálydi u. 50. Szakoly, belterület 438/7 hrsz. | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor utca 5. |
 
 | 35. | 6913 Csanádpalota, Kossuth u. 31. Csanádpalota, belterület 1476/1 hrsz. | Szeged-Csanádi Egyházmegye 6720 Szeged, Aradi vértanúk tere 2. |
 
@@ -108,7 +108,7 @@ Egyházi fenntartó tulajdonba adására kerülő ingatlanok jegyzéke
 
 | 47. | 2760 Nagykáta, Mindszenty bíboros u. 2. Nagykáta, belterület 1620/A/2 hrsz. | Szeged-Csanádi Egyházmegye 6720 Szeged, Aradi vértanúk tere 2. |
 
-| 48. | 2114 Valkó, Árpád köz 1. Valkó, belterület 767 hrsz. | Szeged-Csanádi Egyházmegye 6720 Szeged, Aradi vértanúk tere 2. |
+| 48. |  |  |
 
 | 49. | 3078 Bátonyterenye, Csokonai út. 7. Bátonyterenye, belterület 5479 hrsz. | Szeged-Csanádi Egyházmegye 6720 Szeged, Aradi vértanúk tere 2. |
 
@@ -133,3 +133,5 @@ Egyházi fenntartó tulajdonba adására kerülő ingatlanok jegyzéke
 | 59. | 7940 Szentlőrinc, Munkácsy Mihály u. 48. Szentlőrinc, belterület 96 hrsz. | Szeged-Csanádi Egyházmegye 6720 Szeged, Aradi vértanúk tere 2. |
 
 | 60. | 7940 Szentlőrinc, József Attila. u. 11. Szentlőrinc, belterület 1026/11 hrsz. | Szeged-Csanádi Egyházmegye 6720 Szeged, Aradi vértanúk tere 2. |
+
+[^1]: Az 1. melléklet az 1055/2022. (II. 15.) Korm. határozat 1. és 3. pontja szerint módosított szöveg.
