@@ -2,6 +2,6 @@
 
 (2) Ha a sértett vagy a gyanúsított az (1) bekezdés esetét követően kitűzött közvetítői megbeszélésen ismételten nem jelenik meg, és ezt előzetesen, mihelyt az akadály tudomására jut, haladéktalanul, vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, alapos okkal nem igazolja, úgy kell tekinteni, mint aki a hozzájárulását visszavonta.
 
-(3) Az értesítésre, a kézbesítésre és az igazolásra a Be. rendelkezéseit megfelelően alkalmazni kell azzal, hogy két hónapon túl igazolási kérelmet nem lehet előterjeszteni és hirdetményi kézbesítés nem alkalmazható.
+(3) Az értesítésre, a kézbesítésre és az igazolásra a Be. rendelkezéseit megfelelően alkalmazni kell azzal, hogy két hónapon túl igazolási kérelmet nem lehet előterjeszteni és hirdetményi kézbesítés nem alkalmazható, továbbá ha az értesítés egyszerűsített kézbesítés útján történt, és az értesítés átvétele vagy tudomásulvétele nem igazolható, a (2) bekezdésben meghatározott következmények nem alkalmazhatók.
 
 (4) Az igazolási kérelemről a közvetítő határoz. Az igazolási kérelemnek helyt adó határozat ellen jogorvoslatnak nincs helye, az igazolási kérelem elutasítása ellen a kérelem előterjesztője és képviselője az ügyészséghez panasszal élhet.

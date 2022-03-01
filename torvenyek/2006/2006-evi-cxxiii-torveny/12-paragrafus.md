@@ -10,6 +10,8 @@ b) az ügyészség megnevezését és ügyszámát,
 
 c) a közvetítői megbeszélés helyét, megkezdésének és befejezésének időpontját,
 
-d) az eljáró közvetítő, a sértett, a gyanúsított, a segítők, illetve a közvetítői megbeszélésen részt vett más személyek nevét.
+d) az eljáró közvetítő, a sértett, a gyanúsított, a segítők, illetve a közvetítői megbeszélésen részt vett más személyek nevét,
+
+e) a telekommunikációs eszköz használatának tényét, indokát és módját, továbbá annak a személynek a megjelölését, akinek a jelenlétét telekommunikációs eszköz útján biztosítják.
 
 (3) A feljegyzésben röviden ismertetni kell az eljárás menetét akként, hogy a feljegyzés alapján azt is meg lehessen állapítani, hogy az eljárási szabályokat megtartották-e.
