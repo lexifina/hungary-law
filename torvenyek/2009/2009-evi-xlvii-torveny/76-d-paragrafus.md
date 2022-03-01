@@ -6,6 +6,8 @@
 
 a) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség vagy a bíróság arra a magyar állampolgárságú, bűncselekménnyel megalapozottan gyanúsítható személyre, illetve
 
-b) a nemzetbiztonsági szolgálatok arra a felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladata ellátása során érintett magyar állampolgárságú személyre
+b) a nemzetbiztonsági szolgálatok arra a felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladata ellátása során érintett magyar állampolgárságú személyre, illetve
+
+c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (1) bekezdés a) pont ad) alpontjában meghatározott megelőzési, felderítési és elhárítási feladatai ellátása során érintett személyre
 
 vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ítéletet hozott és az ítélet esetében magyar bíróság a nemzetközi bűnügyi jogsegélyről szóló törvény szerinti, a külföldi ítélet elismerésére irányuló eljárást, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti megfeleltetési eljárást még nem folytatott le.

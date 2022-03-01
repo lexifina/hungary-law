@@ -16,6 +16,6 @@ d) a 71. § (3) bekezdés a)–e) pontjában meghatározott azon tényt, amelyne
 
 e) ha a kérelmező a 71. § (3) bekezdés a) pontjában meghatározott tény igazolását kéri, az igazolandó feltételeket meghatározó törvényi rendelkezés megjelölését,
 
-f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papír alapon nyújtja be, a kérelmező saját kezű aláírását, valamint
+f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papír alapon nyújtja be, a kérelmező saját kezű aláírását.
 
 g)
