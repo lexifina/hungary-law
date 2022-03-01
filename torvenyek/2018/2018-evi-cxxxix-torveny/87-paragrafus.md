@@ -20,6 +20,8 @@ e) a szőlőművelés tényét a terület pontosan meghatározott százalékába
 
 f) a borszőlő termőhelyi kataszteri területből való kivonás és átminősítés nem indítványozható, kivéve, ha nem áll rendelkezésre egyéb fejlesztési célú terület a település közigazgatási területén, a földvédelmi eljárás feltételei teljesülnek és a kivonást, átminősítést a települési önkormányzat kezdeményezi.
 
+g) az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.
+
 (2) Az (1) bekezdés szerinti előírásokat a már kijelölt beépítésre szánt területeken nem kell alkalmazni.
 
 (3) Az övezet területén található egyedi értékű dűlőkön új építményként csak a szőlőtermesztéssel összefüggő rendeltetésű építmény építhető, amelyről a településrendezési tervben rendelkezni kell.

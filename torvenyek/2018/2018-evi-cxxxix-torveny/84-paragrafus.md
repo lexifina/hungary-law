@@ -19,3 +19,5 @@ f) a 100 m2-nél nagyobb bruttó alapterületű épület tájba illesztését ig
 g) legfeljebb 30 m2 bruttó alapterületű szakrális építmény telekmérettől függetlenül elhelyezhető;
 
 h) birtokközpont nem alakítható ki.
+
+i) az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.
