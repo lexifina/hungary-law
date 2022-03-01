@@ -64,6 +64,4 @@
 
 4.7. a föld alatti szénelgázosításhoz szükséges létesítmények,
 
-4.8.[^1]
-
-[^1]: Az 1. melléklet 4. pont 4.8. alpontja a 42. § (2) bekezdése alapján 2022. március 1-jén lép hatályba.
+4.8. bányaüzemi egyéb gáztechnológiák.
