@@ -10,7 +10,7 @@ c) a terhelt gyermekkor miatt nem büntethető,
 
 d) a 3. § (3) és (4) bekezdése alapján a kettős büntethetőséget vizsgálni kell, és az európai elfogatóparancs alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény,
 
-e) a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
+e) a terhelt olyan magyar állampolgár vagy olyan, az Európai Unió más tagállamának állampolgára, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
 
 f) az európai elfogatóparancs végrehajtása súlyosan sértené a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
 
@@ -54,9 +54,11 @@ bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személ
 
 és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt,
 
-c) a határozat kézbesítése megtörtént, a terhelt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot, vagy
+c) a határozat kézbesítése megtörtént, a terhelt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot,
 
-d) a határozatot nem kézbesítették a terheltnek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről.
+d) a határozatot nem kézbesítették a terheltnek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről vagy
+
+e) a felmerült körülmények alapján a bíróság egyértelműen megállapítja, hogy az átadás nem jár a terhelt nemzetközi vagy európai uniós jogi aktusban rögzített alapvető jogainak sérelmével.
 
 (7) Ha az európai elfogatóparancsot a (6) bekezdés d) pontjában meghatározottak szerint bocsátották ki, az európai elfogatóparancs tartalmáról való tájékoztatás alkalmával a terhelt indítványozhatja, hogy az átadásának végrehajtását megelőzően bocsássák rendelkezésére a kibocsátó tagállami határozatot. Ezt a bíróság a kézhezvételt követően haladéktalanul továbbítja – kizárólag tájékoztatás céljából – a terheltnek. A terhelt indítványának nincs halasztó hatálya az európai elfogatóparancs végrehajtására.
 

@@ -18,6 +18,6 @@ f) a személy az átadása után, az átadását megelőzően elkövetett meghat
 
 g) a személyt átadó tagállami igazságügyi hatóság a (4) bekezdéssel összhangban hozzájárulását adja.
 
-(3) A (2) bekezdés f) pontja szerinti lemondás során a lemondó nyilatkozatot bíróság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind az igazságügyi hatóság képviselőjének, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.
+(3) A (2) bekezdés f) pontja szerinti lemondás során a lemondó nyilatkozatot az európai elfogatóparancs kibocsátására jogosult bíróság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind az igazságügyi hatóság képviselőjének, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.
 
 (4) A hozzájárulás iránti kérelmet a 25. § (5) bekezdésében hivatkozott adatok és a 25. § (6) bekezdése szerinti fordítás kíséretében kell a 26. §-ban meghatározott úton előterjeszteni a tagállami igazságügyi hatóságnak.

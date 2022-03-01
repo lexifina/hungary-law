@@ -1,6 +1,6 @@
 ## 52/D. A végrehajtás átadása
 
-141. § (1) A pénzbüntetés, a jogi személlyel szemben alkalmazott pénzbírság, a jogerős vagy véglegessé vált elítélés alapján bűnügyi költség megfizetésére kötelezés, valamint a sértett vagy a köz javára fizetendő jóvátétel végrehajtása átadható a terhelt tényleges tartózkodási helye, a jogi személy székhelye vagy telephelye szerinti tagállamnak, vagy annak a tagállamnak ahol a terhelt vagy a jogi személy vagyonnal vagy jövedelemmel rendelkezik, ha annak összege a határozat jogerőre emelkedésének vagy véglegessé válásának napján érvényes, a Magyar Nemzeti Bank által közzétett átváltási árfolyamon átszámítva meghaladja a hetven eurót.
+141. § (1) A pénzbüntetés, a jogi személlyel szemben alkalmazott pénzbírság, a jogerős vagy véglegessé vált elítélés vagy az ügyészség határozata alapján bűnügyi költség megfizetésére kötelezés, valamint a sértett vagy a köz javára fizetendő jóvátétel végrehajtása átadható a terhelt tényleges tartózkodási helye, a jogi személy székhelye vagy telephelye szerinti tagállamnak, vagy annak a tagállamnak ahol a terhelt vagy a jogi személy vagyonnal vagy jövedelemmel rendelkezik, ha annak összege a határozat jogerőre emelkedésének vagy véglegessé válásának napján érvényes, a Magyar Nemzeti Bank által közzétett átváltási árfolyamon átszámítva meghaladja a hetven eurót.
 
 (2) A bíróság a végrehajtás átadását a 138. § (1) bekezdésében meghatározott ügyiratok végrehajtó tagállam részére történő megküldésével kezdeményezi.
 
