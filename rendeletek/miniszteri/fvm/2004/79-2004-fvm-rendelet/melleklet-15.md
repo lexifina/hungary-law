@@ -1,23 +1,23 @@
-## I. VADÁSZJEGY
+## I. A VADÁSZJEGY ADATTARTALMA
 
-## MINTA külső és hátsó fedőlapja
+## 1. Vezetéknév
 
-## Szigorú számadású nyomtatvány
+## 2. Keresztnév
 
-## MINTA első és második oldala
+## 3. Születési név
 
-## Szigorú számadású nyomtatvány
+## 4. Anyja neve
+
+## 5. Születési idő
+
+## 6. Születési hely
+
+## 7. Vadászjegy száma
+
+## 8. A vadászjegy ellenőrzéshez szükséges QR kód
 
 ## II. VADÁSZATI ENGEDÉLY
 
-## MINTA külső és hátsó fedőlapja
+15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^266]
 
-## Szigorú számadású nyomtatvány
-
-## MINTA első és második oldala
-
-## Szigorú számadású nyomtatvány
-
-15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^263]
-
-[^263]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.
+[^266]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.
