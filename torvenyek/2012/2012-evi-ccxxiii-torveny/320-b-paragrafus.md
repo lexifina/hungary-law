@@ -1,0 +1,1 @@
+320/B. § E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel (a továbbiakban: Módtv2.) beiktatott 2/B. §-át a Módtv2. hatálybalépését követően a bírósághoz érkezett ügyekben kell alkalmazni.

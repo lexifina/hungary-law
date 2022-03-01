@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-223-00-00
 | 2018-07-19 | 10/2018. (VII. 18.) AB határozat | 2012-223-00-00.20 |
 | 2019-01-01 | 2018. évi CXXII. törvény | 2012-223-00-00.21 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 2012-223-00-00.22 |
+| 2022-03-01 | 2021. évi CXXXIV. törvény | 2012-223-00-00.23 |
