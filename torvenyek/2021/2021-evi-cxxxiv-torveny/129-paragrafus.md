@@ -1,1 +1,3 @@
-### 129. §
+129. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 155. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Rendkívüli esemény idején vagy más elháríthatatlan ok miatt – legfeljebb három napig – az elítéltek kizárólag hideg élelemmel is elláthatók, átszállítás, illetve előállítás esetén – ha az a bv. intézet székhelyének közigazgatási határán kívülre történik, vagy előreláthatóan a napirend szerinti meleg ebéd az átszállítás, illetve előállítás tartama miatt nem biztosítható – az elítélt részére csomagolt hideg élelmet kell adni. E bekezdés alkalmazásában az előállítás alatt a jelenlét telekommunikációs eszköz útján történő biztosítását is érteni kell.”

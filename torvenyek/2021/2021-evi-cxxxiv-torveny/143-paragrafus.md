@@ -1,1 +1,3 @@
-### 143. §
+143. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 313. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha a pártfogó felügyelet eredményes végrehajtása – különösen a bűnismétlési és visszaesési kockázatok csökkentése – érdekében külön magatartási szabály előírása vagy annak módosítása indokolt, vagy annak alkalmazása már szükségtelen, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő az ellenőrzési tapasztalatai, a rendőrség kezdeményezése vagy a pártfogolt kérelme alapján a külön magatartási szabály előírására, megváltoztatására vagy mellőzésére a büntetés-végrehajtási bírónak javaslatot tesz.”

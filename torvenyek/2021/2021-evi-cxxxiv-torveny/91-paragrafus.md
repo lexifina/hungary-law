@@ -1,1 +1,3 @@
-### 91. §
+91. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 60. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A kiutasítás tartama azzal a nappal kezdődik, amikor az elítélt Magyarország – más európai uniós tagállamban tartózkodási joggal nem rendelkező harmadik országbeli állampolgárságú elítélt az Európai Unió – területét az idegenrendészeti jogszabályok alapján a kiutasítás végrehajtásáról hozott végzésben meghatározottak szerint elhagyja, vagy ha ennek időpontja nem ismert, a végzésben erre kijelölt határnap. Ha a bíróság külföldön tartózkodó vagy távollévő terheltet ítél kiutasításra, a kiutasítás tartama az ügydöntő határozat jogerőre emelkedése napján kezdődik.”
