@@ -1,13 +1,11 @@
 ## 34. § A KÁT-rendelet
 
-a)[^42]
+a)[^37]
 
-b)[^43]
+b) 4. számú melléklete helyébe a 9. melléklet,
 
-c)[^44]
+c) 14. számú melléklete helyébe a 10. melléklet
 
 lép.
 
-[^42]: A 34. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: A 34. § b) pontja a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
-[^44]: A 34. § c) pontja a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+[^37]: A 34. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

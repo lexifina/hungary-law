@@ -1,3 +1,3 @@
-59. §[^70]
+## 58. § A Metár-rendelet 8. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^70]: Az 59. § a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
+## „(3) A fizetési kötelezettségekkel kapcsolatos számlára és számviteli bizonylatra vonatkozó kifogást a számla vagy számviteli bizonylat kézhezvételétől számított húsz, a túltámogatási díj esetén tizenegy, a szabályozási pótdíj esetén tizennégy munkanapon belül kell a jogosulttal közölni. A helytelen mérési adatokkal összefüggő kifogásokat a kereskedelmi szabályzatban foglaltaknak megfelelő elszámolási mennyiségi adatok reklamációját követően, de legkésőbb a kereskedelmi szabályzatban rögzített elszámolási adatokra vonatkozó reklamációs határidőig lehet a befogadó részére benyújtani. A számlára vagy számviteli bizonylatra vonatkozó kifogás esetében a nem vitatott részek esedékessége nem változik.”

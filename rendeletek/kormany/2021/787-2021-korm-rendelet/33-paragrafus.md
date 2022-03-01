@@ -1,10 +1,9 @@
 ## 33. § A KÁT-rendelet
 
-a)[^40]
+a) 1. § (1) bekezdésében az „a KÁT-termelő által a Befogadónak történő értékesítés átvételi” szövegrész helyébe az „a Menetrendadásra kötelezett és a Befogadó közötti tranzakciók” szöveg,
 
-b)[^41]
+b)[^36]
 
 lép.
 
-[^40]: A 33. § a) pontja a 79. § (3) bekezdése alapján 2022. március 1-jén lép hatályba.
-[^41]: A 33. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 33. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
