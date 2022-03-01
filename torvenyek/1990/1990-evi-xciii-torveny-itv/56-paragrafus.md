@@ -4,7 +4,7 @@
 
 (2) Az illetékmentesség szabályai a beavatkozóra és az érdekeltre is irányadóak.
 
-(3) Illetékmentes a büntetőügyeken kívül az eseti gondnok és az ügygondnok részére a bíróság által készített jegyzőkönyv- vagy egyéb iratmásolat.
+(3) Illetékmentes az eseti gondnok és az ügygondnok részére a bíróság által készített jegyzőkönyv- vagy egyéb iratmásolat.
 
 (4) A bírósági közvetítés illetékmentes.
 

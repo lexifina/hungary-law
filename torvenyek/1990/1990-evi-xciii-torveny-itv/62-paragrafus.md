@@ -4,7 +4,7 @@ a) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, ha az a m
 
 b) a személy életében, testi épségében vagy egészségében okozott, illetve a vagyonában bekövetkezett olyan kár megtérítése vagy sérelemdíj megfizetése iránti igény esetén, amikor a személy élete, testi épsége vagy egészsége is veszélyeztetve volt;
 
-c) a bűncselekményből – ide nem értve a személy életében, testi épségében vagy egészségében okozott kárt vagy ezekkel összefüggésben felmerült sérelemdíj megfizetését –, valamint a szabálysértésből származó kár megtérítése, illetve az azzal összefüggésben felmerült sérelemdíj megfizetése iránti igény esetén;
+c) a bűncselekményből – ide nem értve a személy életében, testi épségében vagy egészségében okozott kárt vagy ezekkel összefüggésben felmerült sérelemdíj megfizetését –, valamint a szabálysértésből származó kár megtérítése, az azzal összefüggésben felmerült sérelemdíj megfizetése iránti igény esetén, valamint polgári jogi igényként érvényesíthető dolog kiadása és pénzfizetésre irányuló követelés esetén;
 
 d) a házassági perben, kivéve a házassági bontópert, valamint a házassági perben érvényesített vagyonjogi igényt;
 

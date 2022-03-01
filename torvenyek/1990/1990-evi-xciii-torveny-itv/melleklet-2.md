@@ -692,14 +692,6 @@ az adóbevallás másolatának kiállítása
 
 |
 
-a) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, valamint az írásban tett feljelentés megtételét igazoló irat másolatának,
-
-b) a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá
-
-a bűncselekmény, szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának
-
-egyszeri kiállítása
-
 |
 
 3.

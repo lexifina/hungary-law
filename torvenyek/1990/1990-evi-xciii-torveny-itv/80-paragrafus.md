@@ -28,7 +28,17 @@ kb) az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától füg
 
 l) ha a hatóság arról rendelkezik, hogy a kérelmező ügyfél mentesül az eljárási költségek megfizetése alól;
 
-m) ha a magánvádas eljárásban a vád képviseletét az ügyészség átveszi, továbbá ha a bíróság a vádlott bűnösségét megállapítja vagy az eljárást büntethetőséget megszüntető okból megszünteti, illetve, ha a magánvádló a vádat legkésőbb az elsőfokú bíróság ügydöntő határozatának meghozataláig ejti.
+m) ha magánvádas eljárásban
+
+ma) a jogerős ügydöntő határozat meghozatalának időpontjában az ügyészség képviselte a vádat,
+
+mb) a bíróság az eljárást a személyes meghallgatás megkezdése előtt vagy a személyes meghallgatás alapján megszünteti,
+
+mc) a magánvádló a vádat legkésőbb az elsőfokú bíróság ügydöntő határozatának meghozataláig ejti,
+
+md) a bíróság a vádlott bűnösségét megállapítja vagy az eljárást büntethetőséget megszüntető okból vagy vádelejtés miatt megszünteti, vagy
+
+me) a magánvádló fellebbezése eredményes.
 
 (2) Az (1) bekezdés d)—e) pontjában meghatározott esetekben a vagyoni értékű jog tényleges ideje után számított illetéket meghaladó részt kell törölni, illetve visszatéríteni.
 
