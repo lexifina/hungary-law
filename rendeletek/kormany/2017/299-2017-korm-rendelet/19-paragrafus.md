@@ -22,6 +22,6 @@ b) prémium típusú támogatás esetén a prémium típusú támogatás összeg
 
 (5) Határidőben történő önkéntes teljesítés hiányában követelését a befogadó a (2) bekezdés szerinti mértékig a KÁT termelőnek vagy a premizált termelőnek fizetendő támogatás összegébe történő beszámítással érvényesítheti.
 
-(6)[^45] A Hivatal az azonos KÁT termelőhöz vagy premizált termelőhöz tartozó erőműegységeket erőműegységenként is ellenőrizheti, és jogosult az e §-ban és a 20. §-ban foglaltakat a KÁT termelővel vagy a premizált termelővel szemben erőműegységenként alkalmazni.
+(6)[^38] A Hivatal az azonos KÁT termelőhöz vagy premizált termelőhöz tartozó erőműegységeket erőműegységenként is ellenőrizheti, és jogosult az e §-ban és a 20. §-ban foglaltakat a KÁT termelővel vagy a premizált termelővel szemben erőműegységenként alkalmazni.
 
-[^45]: A 19. § (6) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 65. §-a iktatta be.
+[^38]: A 19. § (6) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 65. §-a iktatta be.

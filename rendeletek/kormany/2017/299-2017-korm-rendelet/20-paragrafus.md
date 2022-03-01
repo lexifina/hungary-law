@@ -22,26 +22,26 @@ ha) a székhely vagy a termelő tevékenység végzésének telephelye szerinti 
 
 hb) a befogadóval szemben fennálló bármilyen tartozása van,
 
-i)[^46] aki kényszertörlési eljárás, felszámolás vagy végelszámolás alatt áll,
+i)[^39] aki kényszertörlési eljárás, felszámolás vagy végelszámolás alatt áll,
 
-j)[^47] aki nem teljesíti a 19. § (1) bekezdés c) pontja szerinti feltételeket, vagy
+j)[^40] aki nem teljesíti a 19. § (1) bekezdés c) pontja szerinti feltételeket, vagy
 
-k)[^48] aki a 16. § (1) bekezdése szerinti, zöld prémium típusú támogatásra vonatkozó szerződést felmondja.
+k)[^41] aki a 16. § (1) bekezdése szerinti, zöld prémium típusú támogatásra vonatkozó szerződést felmondja.
 
-(2)[^49] A Hivatal az (1) bekezdésben meghatározott kizáró okok fennállását a kötelező átvételi vagy prémium típusú támogatási jogosultságot megállapító határozatának meghozatalát követően véletlenszerű kiválasztással vizsgálja. A befogadó a KÁT mérlegkör tagsági szerződések és 16. § (1) bekezdése szerinti szerződések megkötésekor vizsgálja a kötelező átvételi rendszerben történő értékesítéshez vagy a prémium típusú támogatáshoz szükséges feltételek meglétét. Ha a befogadó az (1) bekezdésben foglalt körülmények bármelyikét észleli, haladéktalanul értesíti a Hivatalt.
+(2)[^42] A Hivatal az (1) bekezdésben meghatározott kizáró okok fennállását a kötelező átvételi vagy prémium típusú támogatási jogosultságot megállapító határozatának meghozatalát követően véletlenszerű kiválasztással vizsgálja. A befogadó a KÁT mérlegkör tagsági szerződések és 16. § (1) bekezdése szerinti szerződések megkötésekor vizsgálja a kötelező átvételi rendszerben történő értékesítéshez vagy a prémium típusú támogatáshoz szükséges feltételek meglétét. Ha a befogadó az (1) bekezdésben foglalt körülmények bármelyikét észleli, haladéktalanul értesíti a Hivatalt.
 
-(3)[^50] Ha a Hivatal az (1) bekezdés a), c), h) vagy j) pontja szerinti kizáró ok fennállását állapítja meg, akkor a kötelező átvételi rendszerben való értékesítést vagy a prémium típusú támogatás fizetését a kizáró ok fennállásáig felfüggeszti.
+(3)[^43] Ha a Hivatal az (1) bekezdés a), c), h) vagy j) pontja szerinti kizáró ok fennállását állapítja meg, akkor a kötelező átvételi rendszerben való értékesítést vagy a prémium típusú támogatás fizetését a kizáró ok fennállásáig felfüggeszti.
 
-(3a)[^51] Ha a Hivatal az (1) bekezdés g) pontja szerinti kizáró ok fennállását állapítja meg, a kötelező átvételi rendszerben való értékesítést a kizáró ok fennállásáig felfüggeszti. Ha a kizáró ok megszüntetésére nincs lehetőség, a Hivatal rendelkezik a kötelező átvételi jogosultságból történő kizárásról.
+(3a)[^44] Ha a Hivatal az (1) bekezdés g) pontja szerinti kizáró ok fennállását állapítja meg, a kötelező átvételi rendszerben való értékesítést a kizáró ok fennállásáig felfüggeszti. Ha a kizáró ok megszüntetésére nincs lehetőség, a Hivatal rendelkezik a kötelező átvételi jogosultságból történő kizárásról.
 
-(4)[^52] Ha a Hivatal az (1) bekezdés b), d)–f), i), vagy k) pontja szerinti kizáró ok fennállását állapítja meg, rendelkezik a kötelező átvételi jogosultságból vagy a prémium típusú támogatási rendszerből történő kizárásról.
+(4)[^45] Ha a Hivatal az (1) bekezdés b), d)–f), i), vagy k) pontja szerinti kizáró ok fennállását állapítja meg, rendelkezik a kötelező átvételi jogosultságból vagy a prémium típusú támogatási rendszerből történő kizárásról.
 
 (5) A termelő az (1) bekezdés a) pontja szerinti kizáró feltétel fennállásának hiányát 30 napnál nem régebben kiállított közokirattal igazolhatja, vagy azzal, hogy jelzi a köztartozásmentes adózói adatbázisban történő szereplésének tényét.
 
-[^46]: A 20. § (1) bekezdés i) pontja a 787/2021. (XII. 27.) Korm. rendelet 72. § b) pontja és 73. § b) pontja szerint módosított szöveg.
-[^47]: A 20. § (1) bekezdés j) pontja a 787/2021. (XII. 27.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
-[^48]: A 20. § (1) bekezdés k) pontját a 787/2021. (XII. 27.) Korm. rendelet 66. §-a iktatta be.
-[^49]: A 20. § (2) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 67. §-ával megállapított szöveg.
-[^50]: A 20. § (3) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 72. § d) pontja szerint módosított szöveg.
-[^51]: A 20. § (3a) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 68. §-a iktatta be.
-[^52]: A 20. § (4) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 72. § e) pontja szerint módosított szöveg.
+[^39]: A 20. § (1) bekezdés i) pontja a 787/2021. (XII. 27.) Korm. rendelet 72. § b) pontja és 73. § b) pontja szerint módosított szöveg.
+[^40]: A 20. § (1) bekezdés j) pontja a 787/2021. (XII. 27.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^41]: A 20. § (1) bekezdés k) pontját a 787/2021. (XII. 27.) Korm. rendelet 66. §-a iktatta be.
+[^42]: A 20. § (2) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 67. §-ával megállapított szöveg.
+[^43]: A 20. § (3) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 72. § d) pontja szerint módosított szöveg.
+[^44]: A 20. § (3a) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 68. §-a iktatta be.
+[^45]: A 20. § (4) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 72. § e) pontja szerint módosított szöveg.

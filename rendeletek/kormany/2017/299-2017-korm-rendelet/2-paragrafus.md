@@ -24,7 +24,7 @@
 
 11. premizált termelő: prémium típusú támogatásban részesülő villamosenergia-termelő;
 
-12.[^2] szabályozási pótdíj: a KÁT termelőnek a menetrendjétől való, a KÁT mérlegkörrel megegyező irányú eltérése esetén a KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő által a befogadó számára fizetendő díj;
+12.[^2] szabályozási pótdíj: a Menetrendadásra kötelezettnek a napon belüli termelési menetrendjétől való, a 12. § (3) bekezdése szerinti önálló kiegyenlítő menedzsment alapján módosított, a KÁT mérlegkörrel megegyező irányú eltérése esetén a Menetrendadásra kötelezett által a befogadó számára fizetendő díj;
 
 13. támogatott ár: a villamos energia ellenértéke, az az érték, amelyre a referencia piaci ár kiegészítésre kerül a prémium típusú támogatási rendszer keretében;
 
@@ -40,10 +40,19 @@
 
 19.[^5]
 
+20.[^6] Menetrendadásra kötelezett: a befogadó részére értékesítő KÁT termelő vagy összevont menetrendadási szerződés esetén a menetrend-csoport képviselő;
+
+21.[^7] napi termelési menetrend: a Menetrendadásra kötelezett által a befogadó részére előzetesen megadott, a KÁT termelőnek vagy összevont menetrend esetén a menetrend-csoportba tartozó KÁT termelőknek a nap minden elszámolási mérési időintervallumára vonatkozó tervezett termelési adatait tartalmazó menetrendje a 12. § (3) bekezdése szerinti önálló kiegyenlítő menedzsment nélkül;
+
+22.[^8] napon belüli termelési menetrend: a napi termelési menetrend adott részeinek módosítása céljából a Menetrendadásra kötelezett által a befogadó részére előzetesen megadott, a KÁT termelőnek vagy összevont menetrend esetén a menetrend-csoportba tartozó KÁT termelőknek a nap minden elszámolási mérési időintervallumára vonatkozó tervezett termelési adatait tartalmazó menetrendje a 12. § (3) bekezdése szerinti önálló kiegyenlítő menedzsment nélkül.
+
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, a távhőszolgáltatásról szóló 2005. évi XVIII. törvény, valamint a felhatalmazásuk alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
 
 [^1]: A 2. § (1) bekezdés 10. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés 12. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 12. pontja a 787/2021. (XII. 27.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés 15. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés 18. pontját a 22. § (2) bekezdése iktatta be.
 [^5]: A 2. § (1) bekezdés 19. pontját a 22. § (2) bekezdése iktatta be, hatályon kívül helyezte a 787/2021. (XII. 27.) Korm. rendelet 73. § a) pontja.
+[^6]: A 2. § (1) bekezdés 20. pontját a 787/2021. (XII. 27.) Korm. rendelet 51. § (2) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés 21. pontját a 787/2021. (XII. 27.) Korm. rendelet 51. § (2) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 22. pontját a 787/2021. (XII. 27.) Korm. rendelet 51. § (2) bekezdése iktatta be.
