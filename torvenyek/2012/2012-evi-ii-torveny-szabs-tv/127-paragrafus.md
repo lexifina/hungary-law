@@ -30,4 +30,4 @@ a) a perújítási okként megjelölt bűncselekmény elkövetését jogerős í
 
 b) e bűncselekmény a szabálysértési hatóság, illetve a bíróság határozatát befolyásolta.
 
-(3) Az (1) bekezdés e) pontjában meghatározott eset kivételével nincs helye perújításnak, ha a bírósági határozat jogerőre emelkedését követően egy év eltelt.
+(3) Nincs helye perújításnak, ha a bírósági határozat jogerőre emelkedését követően egy év eltelt.
