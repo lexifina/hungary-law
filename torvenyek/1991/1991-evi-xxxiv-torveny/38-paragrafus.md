@@ -48,4 +48,4 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
-(4)
+(4) Felhatalmazást kap a Hatóság elnöke, hogy a szerencsejáték felügyeleti díj mértékére, megfizetésére, beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.
