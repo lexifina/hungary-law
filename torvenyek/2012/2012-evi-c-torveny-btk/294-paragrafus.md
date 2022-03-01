@@ -18,4 +18,4 @@ b) a bűncselekményt bűnszövetségben vagy üzletszerűen követi el.
 
 (4) Az (1)–(3) bekezdés szerint büntetendő az a külföldi hivatalos személy, aki az ott meghatározott bűncselekményt követi el.
 
-(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) és (2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.
+(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) és (2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszervezetben követik el.

@@ -26,9 +26,11 @@ h) különös visszaesőként,
 
 i) tizennegyedik életévét be nem töltött személy sérelmére,
 
-j) védekezésre képtelen személy sérelmére vagy
+j) védekezésre képtelen személy sérelmére,
 
-k) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére
+k) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére, vagy
+
+l) az elkövetővel szemben emberölés miatt történt vádemelés után
 
 követik el.
 
@@ -45,3 +47,9 @@ a) a népirtás [142. § (1) bekezdés a) pont], az erős felindulásban elköve
 b) az emberrablás és az elöljáró vagy szolgálati közeg elleni erőszak súlyosabban minősülő esetei [190. § (4) bekezdés, 445. § (5) bekezdés a) pont],
 
 c) a terrorcselekmény, a jármű hatalomba kerítése, és a zendülés súlyosabban minősülő esetei, ha a halált szándékosan okozva követik el [314. § (1) bekezdés, 320. § (2) bekezdés, 442. § (4) bekezdés].
+
+(7) A (2) bekezdés l) pontja akkor alkalmazható, ha az elkövetőt
+
+a) a vádemelés után elkövetett emberöléssel egy eljárásban a korábban elkövetett emberölés miatt is elítélik, vagy
+
+b) a korábban elkövetett emberölés miatt jogerősen elítélték.

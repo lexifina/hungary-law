@@ -4,7 +4,9 @@
 
 a) a bűncselekmény elkövetéséből eredő vagyonra, amelyet az elkövető a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett,
 
-b)–c)
+b)
+
+c)
 
 d) a vagyonra, amely a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyon helyébe lépett,
 
@@ -24,4 +26,4 @@ a) arra a vagyonra, amely a büntetőeljárás során érvényesített polgári 
 
 b) arra a vagyonra, amelyet jóhiszeműen, ellenérték fejében szereztek,
 
-c)
+c) az (1) bekezdés a) és d) pontja vagy a (2) bekezdés szerinti vagyonra, ha azzal kapcsolatban a büntetőeljárás tárgyát képező bűncselekménnyel azonos tényállás miatt közigazgatási hatóság, állami adó- és vámhatóság végleges határozatában vagy közigazgatási perben a bíróság jogerős határozatában fizetési kötelezettséget állapított meg, a fizetési kötelezettség erejéig.

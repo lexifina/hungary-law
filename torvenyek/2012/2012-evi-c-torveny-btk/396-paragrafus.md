@@ -34,7 +34,7 @@ b) a különösen nagy vagyoni hátrányt okozó költségvetési csalást bűns
 
 (7) Aki költségvetésből származó pénzeszközökkel kapcsolatban előírt elszámolási, számadási, vagy az előírt tájékoztatási kötelezettségének nem vagy hiányosan tesz eleget, valótlan tartalmú nyilatkozatot tesz, vagy valótlan tartalmú, hamis vagy hamisított okiratot használ fel, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(8) Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádemelés előtt megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.
+(8) Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésben meghatározott költségvetési csalással okozott vagyoni hátrányt a vádemelés előtt megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben, bűnszervezetben vagy különös visszaesőként követik el.
 
 (9) E § alkalmazásában
 

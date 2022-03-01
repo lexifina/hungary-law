@@ -6,9 +6,11 @@ a) az Országgyűlést,
 
 b) a köztársasági elnököt,
 
-c) a Kúriát vagy
+c) a Kúriát,
 
-d) a Kormányt
+d) a Kormányt vagy
+
+e) az Alkotmánybíróságot
 
 az Alaptörvényben meghatározott jogköre gyakorlásában erőszakkal vagy ezzel fenyegetve akadályozza, vagy intézkedésre kényszerítse, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 

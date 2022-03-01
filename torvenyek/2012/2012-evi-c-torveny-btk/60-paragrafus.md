@@ -6,6 +6,6 @@
 
 (3) Végleges hatállyal az utasítható ki, akit tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélnek, és – figyelemmel a bűncselekmény kiemelkedő súlyára, az elkövetés jellegére, és az elkövető kapcsolataira – az országban tartózkodása a közbiztonságot jelentősen veszélyeztetné. A szabad mozgás és tartózkodás jogával rendelkező személy végleges hatállyal nem utasítható ki.
 
-(4) A kiutasítás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. A kiutasítás tartamába nem számít bele az az idő, amely alatt az elítélt szabadságvesztés büntetést tölt.
+(4) A kiutasítás tartama azzal a nappal kezdődik, amikor az elítélt Magyarország – más európai uniós tagállamban tartózkodási joggal nem rendelkező harmadik országbeli állampolgárságú elítélt az Európai Unió – területét az idegenrendészeti jogszabályok alapján a kiutasítás végrehajtásáról hozott végzésben meghatározottak szerint elhagyja, vagy ha ennek időpontja nem ismert, a végzésben erre kijelölt határnap. Ha a bíróság külföldön tartózkodó vagy távollévő terheltet ítél kiutasításra, a kiutasítás tartama az ügydöntő határozat jogerőre emelkedése napján kezdődik.
 
 (5) A végleges hatályú kiutasítás alól a bíróság a kiutasítottat kérelmére mentesítheti, ha a kiutasítás óta tíz év eltelt, és a kiutasított arra érdemes.

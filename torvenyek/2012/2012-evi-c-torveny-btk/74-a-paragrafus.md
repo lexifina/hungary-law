@@ -16,7 +16,7 @@ b) az új pszichoaktív anyag előállítása, az ország területére behozatal
 
 c) az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],
 
-d) a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4) bekezdés], a gyermekpornográfia [204. § (1) bekezdés b)–c) pont, (2)–(4) bekezdés, (5) bekezdés a) és c) pont és (6) bekezdés],
+d) a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4) bekezdés], a tizennyolcadik életévét be nem töltött személyt ábrázoló pornográf felvétel kínálása, átadása, hozzáférhetővé tétele, készítése, forgalomba hozatala, azzal való kereskedelem, illetve nagy nyilvánosság számára hozzáférhetővé tétele [204. § (1) bekezdés b)–c) pont, (2)–(4) bekezdés, (5) bekezdés b) pont és (6) bekezdés], tizennyolcadik életévét be nem töltött személynek vagy személyeknek pornográf műsorban való szerepeltetése vagy ilyen pornográf műsor szervezése [204/A. § (1) bekezdés b) pont és (2)–(5) bekezdés],
 
 e) a gyermekmunka (209. §), a harmadik országbeli állampolgár jogellenes foglalkoztatása [356. § (1)–(2) bekezdés],
 

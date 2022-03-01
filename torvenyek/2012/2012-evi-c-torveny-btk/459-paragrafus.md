@@ -66,7 +66,7 @@ i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testü
 
 j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
 
-k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél, megyei intézményfenntartó központnál vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
 
 l) a választási bizottság tagja;
 
