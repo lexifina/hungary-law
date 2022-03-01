@@ -1,1 +1,1 @@
-230. § Ha a közvetítői megbeszélés a sértett és a gyanúsított egyidejű jelenlétében a 229. § alkalmazásával sem tartható meg, a közvetítői megbeszélés – ideértve a megállapodás megkötését is – a sértett és a gyanúsított hozzájárulásával úgy is lefolytatható, hogy azon – személyesen vagy telekommunikációs eszköz útján – nem egyidejűleg vannak jelen.
+### 230. §

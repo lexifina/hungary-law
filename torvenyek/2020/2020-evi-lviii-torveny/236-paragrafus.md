@@ -18,7 +18,7 @@ c) a másodfokú bíróság tekintetében a Bv. tv. 51. § (4) bekezdésében me
 
 meghosszabbodik.
 
-(6) A büntetés-végrehajtási bírói eljárásokban, ha ez a járványügyi intézkedésre vagy az egészségügyi válsághelyzettel összefüggő más okra figyelemmel, illetve a törvényszék elnökének ezzel kapcsolatos rendelkezése alapján indokolt, a meghallgatás és a tárgyalás megtartásakor az eljárás résztvevői jelenlétének biztosítása elektronikus hírközlő hálózat vagy más elektronikus kép- és hang továbbítására alkalmas eszköz útján is megengedett azzal, hogy ha az elítélt vagy az egyéb jogcímen fogvatartott fogva van, a jelenlétét elsősorban telekommunikációs eszköz használata útján kell biztosítani.
+(6)
 
 (7) Az elítélt és az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében, illetve a fogvatartással kapcsolatos egyéb ügyében a Bv. tv. 20. § (3) bekezdésében maghatározott elintézési határidő harminc nappal meghosszabbodik, kivéve, ha az ügy jellege soron kívüli elintézést kíván.
 
