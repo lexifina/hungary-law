@@ -1,3 +1,5 @@
 ## 11. § E rendeletet a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-12. § Hatályát veszti a bírósági végrehajtási eljárásban felszámítandó általános költségátalány megfizetésének szabályairól szóló 3/2021. (X. 20.) SZTFH rendelet.
+12. §[^1]
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
