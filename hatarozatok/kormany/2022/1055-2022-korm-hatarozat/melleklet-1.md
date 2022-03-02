@@ -1,9 +1,14 @@
-## 1. A gyermekvédelmi szakellátáshoz kapcsolódó egyes állami vagyonelemek ingyenes egyházi tulajdonba adásáról szóló 1407/2021. (VI. 30.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 1.[^2]
 
-## 2. A szociális szakosított ellátásokhoz és gyermekvédelmi szakellátáshoz kapcsolódó egyes állami vagyonelemek ingyenes egyházi tulajdonba adásáról szóló 1870/2021. (XII. 3.) Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
+## 2.[^3]
 
-## 3. Hatályát veszti a gyermekvédelmi szakellátáshoz kapcsolódó egyes állami vagyonelemek ingyenes egyházi tulajdonba adásáról szóló 1407/2021. (VI. 30.) Korm. határozat 1. mellékletében foglalt táblázat 48. sora.
+## 3.[^4]
 
 ## 4. Ez a határozat 2022. március 1-jén lép hatályba.
 
-1. melléklet az 1055/2022. (II. 15.) Korm. határozathoz
+1. melléklet az 1055/2022. (II. 15.) Korm. határozathoz[^5]
+
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
