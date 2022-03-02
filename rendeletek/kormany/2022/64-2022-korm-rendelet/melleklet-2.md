@@ -1,9 +1,3 @@
-## Az R. 34. számú mellékletében foglalt táblázat 5. sora helyébe a következő rendelkezés lép:
+2. melléklet a 64/2022. (II. 28.) Korm. rendelethez[^7]
 
-|  | [A | B | C |
-
-| 1 |  | Szolgáltató neve | Havi fix díj (ezer Ft)] |
-
-| 5 | K341 | Ótemplomi Szeretetszolgálat | 780,6 |
-
-2. melléklet a 64/2022. (II. 28.) Korm. rendelethez
+[^7]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
