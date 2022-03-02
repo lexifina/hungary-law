@@ -1,5 +1,5 @@
-## 5. §[^5]
+## 5. §[^6]
 
 ## 6. A földtani szakértői tevékenység folytatásának részletes szabályairól szóló 40/2010. (V. 12.) KHEM rendelet módosítása
 
-[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
