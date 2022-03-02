@@ -1,4 +1,4 @@
-18. § Hatályát veszti a bányászatról szóló 1993. évi XLVIII. törvény
+18. §
 
 a)
 
@@ -6,7 +6,7 @@ b)
 
 c)
 
-d) 43. § (9c) és (9e) bekezdése,
+d)
 
 e)
 
@@ -46,4 +46,4 @@ v)
 
 w)
 
-x) 50/A. § (3) bekezdés a) pontja.
+x)
