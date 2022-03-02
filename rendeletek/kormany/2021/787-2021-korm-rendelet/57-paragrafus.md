@@ -1,5 +1,3 @@
-## 56. § A Metár-rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a) bekezdéssel egészül ki:
+57. §[^65]
 
-## „(1) A fizetéseket a befogadó és a KÁT termelő vagy a premizált termelő viszonylatában a 4. § (5) bekezdése szerinti villamos energia vagy a 15. § (5) bekezdése szerinti prémium típusú támogatás és 14. § (2) bekezdése szerinti túltámogatási díj vonatkozásában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla vagy számviteli bizonylat, továbbá a 19. § (1) bekezdésén alapuló módosító számla vagy számviteli bizonylat alapján kell teljesíteni.
-
-## (1a) A fizetések a befogadó és a Menetrendadásra kötelezett viszonylatában a 12. § (3) bekezdése szerinti önálló kiegyenlítő menedzsmenttel összefüggő villamosenergia-mennyiség esetén a 6. mellékletben meghatározottak szerinti számla, valamint a 12. § (7) bekezdése szerinti szabályozási pótdíj esetén az 5. mellékletben meghatározottak szerinti számviteli bizonylat alapján történnek.”
+[^65]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

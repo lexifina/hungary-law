@@ -1,11 +1,6 @@
-71. § (1) A Metár-rendelet
+71. § (1)[^79]
 
-a)[^65]
+(2)[^80]
 
-b) 5. melléklete helyébe a 14. melléklet
-
-lép.
-
-(2) A Metár-rendelet a 15. melléklet szerinti 6. melléklettel egészül ki.
-
-[^65]: A 71. § (1) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 71. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 71. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
