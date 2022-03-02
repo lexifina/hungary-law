@@ -1,5 +1,5 @@
-## 19. §[^13]
+## 19. §[^20]
 
 ## 12. Az étkezési tojást termelő tyúkállományok, valamint tenyészbaromfi fajok állatjóléti támogatásának feltételeiről szóló 38/2016. (VI. 6.) FM rendelet módosítása
 
-[^13]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
