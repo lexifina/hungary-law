@@ -1,3 +1,3 @@
-## „(9) A bejelentés nem változtatható meg úgy, hogy a tanúsítvány más alapszabadalomra vonatkozzon, mint amelyet a bejelentés benyújtásakor megjelöltek.
+## 2. §[^3]
 
-## (10) Ha a bejelentés nem felel meg a 469/2009/EK európai parlamenti és tanácsi rendeletben, az Szt.-ben és az e rendeletben előírt követelményeknek, a bejelentőt fel kell hívni a hiányok pótlására, illetve nyilatkozattételre. A bejelentést el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket, illetve ha a bejelentő a hiánypótlási felhívásra a kitűzött határidőn belül nem válaszol.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
