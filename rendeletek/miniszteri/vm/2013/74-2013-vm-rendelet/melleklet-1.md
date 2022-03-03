@@ -1,6 +1,6 @@
-## 15. §[^52]
+## 15. §[^55]
 
-1. melléklet a 74/2013. (VIII. 30.) VM rendelethez[^53]
+1. melléklet a 74/2013. (VIII. 30.) VM rendelethez[^56]
 
 A kártalanítás mértékét növelő tényezők a járványügyi intézkedéssel érintett állatfajokra vonatkozóan
 
@@ -28,5 +28,5 @@ A kártalanítás mértékét növelő tényezők a járványügyi intézkedéss
 
 | 11. | A telepauditáló rendszerben az érintett telep a legutóbbi szemle alapján kiváló, kiemelkedő minősítést szerzett. | +5% |
 
-[^52]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^53]: Az 1. mellékletet a 7/2021. (III. 10.) AM rendelet 10. §-a iktatta be.
+[^55]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: Az 1. mellékletet a 7/2021. (III. 10.) AM rendelet 10. §-a iktatta be.

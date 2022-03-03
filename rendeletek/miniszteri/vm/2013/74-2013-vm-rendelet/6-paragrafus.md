@@ -16,7 +16,17 @@ e) ha az érintett állattartó telepen a jogszabályban előírt külső járv�
 
 f) ha az érintett állattartó telep nem rendelkezik a jogszabályban előírt és a járási hivatal által közigazgatási döntésben jóváhagyott járványvédelmi intézkedési tervvel.
 
-(3) A kártalanítás alapösszege – az 5. § (6) bekezdés f) és g) pontjában foglaltak, valamint a nem gazdasági tevékenység keretében állatot tartó kivételével – a becslési eljárás során megállapított összeg 60%-a. A kártalanítás végleges összegét a járási hivatal vagy a megyei kormányhivatal az 1. mellékletben található táblázatban foglalt, százalékpontokat tartalmazó növelő tényezők alkalmazásával állapítja meg. A kártalanítás megállapított összege legfeljebb a becslési eljárás során megállapított összeg 100%-a lehet. Az 5. § (6) bekezdés f) és g) pontja, valamint a nem gazdasági tevékenység keretében állatot tartó esetében a kártalanítás megállapított összege a becslési eljárás során megállapított összeg 100%-a.
+(3)[^28] A (3a) bekezdésben meghatározott esetek kivételével a kártalanítás alapösszege a becslési eljárás során megállapított összeg 60%-a. A kártalanítás végleges összegét a járási hivatal vagy a megyei kormányhivatal az 1. mellékletbe foglalt táblázatban meghatározott, százalékpontokat tartalmazó növelő tényezők (a továbbiakban: növelő tényezők) alkalmazásával állapítja meg. A kártalanítás végleges összege a növelő tényezők alkalmazását követően sem lehet magasabb, mint a becslési eljárás során megállapított összeg 100%-a.
+
+(3a)[^29] A kártalanítás összege az 5. § (6) bekezdése szerint megállapított érték 100%-a
+
+a) az 5. § (6) bekezdés f) és g) pontjában foglalt esetekben,
+
+b) a járványkitörés miatt meghiúsult, de azt megelőzően megkötött kihelyezési szerződéssel rendelkező baromfikeltető esetében,
+
+c) a járványügyi visszakövetés után vágóhídon vagy más élelmiszeripari létesítményben, kereskedelemben elkobzott termék esetében, valamint
+
+d) a nem gazdasági tevékenység keretében állatot tartó esetében.
 
 (4) A kártalanítási határozat tartalmazza
 
@@ -36,11 +46,11 @@ c) az állami kártalanítás nettó összegét, az állami kártalanítást ter
 
 d) az állami kártalanítás bruttó összegét, amennyiben a kártalanítás jogosultja nem alanya az általános forgalmi adónak, és
 
-e)[^28] az Éltv. 55. § (7) bekezdésében meghatározott esetben a kártalanítás jogosultjának írásbeli nyilatkozata alapján annak megállapítását, hogy a lebonyolító szerv az általános forgalmi adó fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adóhatóságnál vezetett, általános forgalmi adó bevételi számlára utalja.
+e)[^30] az Éltv. 55. § (7) bekezdésében meghatározott esetben a kártalanítás jogosultjának írásbeli nyilatkozata alapján annak megállapítását, hogy a lebonyolító szerv az általános forgalmi adó fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adóhatóságnál vezetett, általános forgalmi adó bevételi számlára utalja.
 
 (5) A kártalanítási határozat indokolásában meg kell jelölni, hogy az állat elhullása mely állatbetegség következtében történt, vagy a járványügyi intézkedéseket mely állatbetegség gyanúja, megállapítása vagy felszámolása miatt rendelték el, valamint a betegség megállapításának alapjául szolgáló diagnosztikai vagy laboratóriumi eredményt, ennek hiányában a húsvizsgálat vagy boncolás írásban rögzített eredményét.
 
-(6)[^29] A kártalanítási összeg kifizetése érdekében az eljáró hatóság – a kártalanítási határozat véglegessé válása után haladéktalanul – elektronikus úton megküldi a lebonyolító szervnek a kártalanítási határozatot.
+(6)[^31] A kártalanítási összeg kifizetése érdekében az eljáró hatóság – a kártalanítási határozat véglegessé válása után haladéktalanul – elektronikus úton megküldi a lebonyolító szervnek a kártalanítási határozatot.
 
 (7) Az eljáró hatóság elektronikus úton rögzíti továbbá:
 
@@ -52,7 +62,7 @@ c) a becslési jegyzőkönyvet, és
 
 d) az országos főállatorvos által határozatban elrendelt 4. § (4) bekezdése szerinti egyéb bizonylatot.
 
-(8)[^30] A lebonyolító szerv intézkedik a kártalanítás összegének folyósítása iránt a megyei kormányhivatal részére, amely azt a (9)–(11) bekezdésben foglaltak szerint fizeti ki a jogosultnak.
+(8)[^32] A lebonyolító szerv intézkedik a kártalanítás összegének folyósítása iránt a megyei kormányhivatal részére, amely azt a (9)–(11) bekezdésben foglaltak szerint fizeti ki a jogosultnak.
 
 (9) Azon jogosult, aki az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) alapján általános forgalmi adóalanynak (a továbbiakban: áfaalany) minősül, a kártalanítás összegéről számlát bocsát ki az eljáró hatóság, illetve amennyiben az eljáró hatóság a járási hivatal, a megyei kormányhivatal részére. A kártalanítás folyósítása a számla alapján történik. A kártalanítás kifizetési határideje a kártalanítási határozat véglegessé válásától számított hatvan nap.
 
@@ -73,6 +83,8 @@ d) a megsemmisített termék, termény, felszerelés, berendezés jellege és me
 e) az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok vonatkozásában az európai uniós támogatás elszámolásához szükséges, eljárásrendben rögzített adatok.
 
 [^27]: A 6. § a 7/2021. (III. 10.) AM rendelet 4. §-ával megállapított szöveg.
-[^28]: A 6. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^29]: A 6. § (6) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 6. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^28]: A 6. § (3) bekezdése a 9/2022. (II. 28.) AM rendelet 7. §-ával megállapított szöveg.
+[^29]: A 6. § (3a) bekezdését a 9/2022. (II. 28.) AM rendelet 7. §-a iktatta be.
+[^30]: A 6. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^31]: A 6. § (6) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^32]: A 6. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.

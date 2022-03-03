@@ -14,7 +14,7 @@ c) az állatok, – vágóhídon történt betegség-megállapítás esetén –
 
 d) a szállítás, vágás, darabolás, hűtés, feldolgozás, állati eredetű melléktermék ártalmatlanítás, fertőtlenítés becsült költségét,
 
-e)[^40] az élelmiszerek értékesítéséből származó bevételnek lebonyolító szerv részére való befizetési kötelezettségét és ennek határidejét, ha a zárt vagy elkülönített vágásból származó élelmiszer hasznosítható,
+e)[^42] az élelmiszerek értékesítéséből származó bevételnek lebonyolító szerv részére való befizetési kötelezettségét és ennek határidejét, ha a zárt vagy elkülönített vágásból származó élelmiszer hasznosítható,
 
 f) az e) pont szerinti befizetési kötelezettség elmulasztásának jogkövetkezményeit.
 
@@ -32,13 +32,13 @@ d) az elkülönített, illetve zárt vágás végrehajtása során felmerült �
 
 (7) A (6) bekezdés szerinti elszámolást a vágóhidat, valamint feldolgozóüzemet felügyelő hatósági állatorvos ellenjegyzi.
 
-(8)[^41] A (6) bekezdés szerinti elszámolás alapján, a végrehajtást végző aktív közreműködő az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki a megyei kormányhivatal nevére. Az aktív közreműködő a számlát és a (6) bekezdés szerinti elszámolást a számla kiállítását követő nyolc napon belül megküldi a megyei kormányhivatalnak. A megyei kormányhivatal intézkedik a számla kifizetéséről az aktív közreműködő felé, valamint a számlát és az aktív közreműködést elrendelő határozatot a végrehajtást követően tizenöt napon belül megküldi a lebonyolító szervnek, igazolva, hogy a számla kibocsátására az általa elrendelt járványügyi intézkedések végrehajtása alatt került sor. A lebonyolító szerv a számla összegét az előirányzat terhére téríti meg a megyei kormányhivatal részére.
+(8)[^43] A (6) bekezdés szerinti elszámolás alapján, a végrehajtást végző aktív közreműködő az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki a megyei kormányhivatal nevére. Az aktív közreműködő a számlát és a (6) bekezdés szerinti elszámolást a számla kiállítását követő nyolc napon belül megküldi a megyei kormányhivatalnak. A megyei kormányhivatal intézkedik a számla kifizetéséről az aktív közreműködő felé, valamint a számlát és az aktív közreműködést elrendelő határozatot a végrehajtást követően tizenöt napon belül megküldi a lebonyolító szervnek, igazolva, hogy a számla kibocsátására az általa elrendelt járványügyi intézkedések végrehajtása alatt került sor. A lebonyolító szerv a számla összegét az előirányzat terhére téríti meg a megyei kormányhivatal részére.
 
-(8a)[^42] Ha az elkülönített vagy zárt vágás végrehajtását elrendelő határozatban hasznosíthatóként megjelölt összes élelmiszer, vagy azok egy része időközben járványügyi okból értékesíthetetlenné vált, akkor az eljáró hatóság az eredeti határozatot módosítja, és azt a NÉBIH-hel közli.
+(8a)[^44] Ha az elkülönített vagy zárt vágás végrehajtását elrendelő határozatban hasznosíthatóként megjelölt összes élelmiszer, vagy azok egy része időközben járványügyi okból értékesíthetetlenné vált, akkor az eljáró hatóság az eredeti határozatot módosítja, és azt a NÉBIH-hel közli.
 
-(9)[^43]
+(9)[^45]
 
-[^40]: A 9. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^41]: A 9. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 7. §-ával megállapított, ugyanezen módosító rendelet 11. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
-[^42]: A 9. § (8a) bekezdését a 7/2021. (III. 10.) AM rendelet 7. §-a iktatta be.
-[^43]: A 9. § (9) bekezdését a 7/2021. (III. 10.) AM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^42]: A 9. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^43]: A 9. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 7. §-ával megállapított, ugyanezen módosító rendelet 11. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
+[^44]: A 9. § (8a) bekezdését a 7/2021. (III. 10.) AM rendelet 7. §-a iktatta be.
+[^45]: A 9. § (9) bekezdését a 7/2021. (III. 10.) AM rendelet 12. § b) pontja hatályon kívül helyezte.
