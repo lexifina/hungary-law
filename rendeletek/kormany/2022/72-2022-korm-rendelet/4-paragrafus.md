@@ -1,0 +1,5 @@
+## 3. § Az élelmiszermentés során, az azzal összefüggésben keletkezett dokumentumokat a felajánló élelmiszer-kiskereskedő, élelmiszer-vállalkozó, valamint a karitatív szervezet az élelmiszer-előállítással és -forgalmazással kapcsolatos adatszolgáltatásról és nyomonkövethetőségről szóló miniszteri rendelet előírásai szerint köteles megőrizni.
+
+4. § (1) Az ÉMK létrejöttével, tevékenységének megkezdésével összefüggő központi alkalmazás szolgáltatás érdekében szükséges informatikai közbeszerzési eljárások tekintetében az ajánlatkérő egy eljárás keretében a kezdő naptól számított 120. napig minden beszerzés esetében jogosult a közbeszerzésekről szóló 2015. évi CXLIII. törvény szerinti rendkívüli sürgősségre alapított, hirdetmény nélküli tárgyalásos eljárás alkalmazására és megindítására.
+
+(2) Az (1) bekezdésben meghatározott kezdő nap az ÉMK-nak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő nap.
