@@ -1,3 +1,7 @@
+## 71. §[^367] E rendeletnek a növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet, valamint az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet módosításáról szóló 9/2022. (II. 28.) AM rendelettel [a továbbiakban: 9/2022. (II. 28.) AM rendelet] megállapított 21. §-át, 24. §-át és 25. §-át a 9/2022. (II. 28.) AM rendelet hatálybalépésének[^368] napján folyamatban lévő eljárásokban is alkalmazni kell.
+
 1. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^369]
 
+[^367]: A 71. §-t a 9/2022. (II. 28.) AM rendelet 4. §-a iktatta be.
+[^368]: A hatálybalépés időpontja 2022. március 3.
 [^369]: Az 1. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM rendelet 2. §-a, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (1) bekezdése, 13. § (3) bekezdés d)–e) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (1) bekezdése, a 9/2014. (IX. 12.) FM rendelet 11. §-a, a 39/2015. (VII. 3.) FM rendelet 5. § (1) bekezdése és 7. § b) pontja, a 4/2018. (II. 23.) FM rendelet 2. § a) pontja és a 4. § a)–c) pontja, a 7/2018. (VI. 26.) AM rendelet 1. § a) pontja, a 49/2019. (X. 22.) AM rendelet 2. § a) pontja és 13. § a) pont aa)–ab) alpontja szerint módosított szöveg.

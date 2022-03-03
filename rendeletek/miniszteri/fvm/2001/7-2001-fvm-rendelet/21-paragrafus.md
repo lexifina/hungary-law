@@ -1,15 +1,13 @@
 ## Kártalanítás
 
-21. §[^118] (1)[^119] A kártalanítási igényt a járási hivatal az általa lefolytatott becslési, valamint a megsemmisítési eljárás alapján bírálja el.
+21. §[^118] (1) A A Tv. 54. § (1) bekezdés a) pontja szerinti kártalanítás kifizetése iránti kérelem az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben meghatározott adatokon túlmenően tartalmazza
 
-(2) Ha a kártalanítási igény jogalapjának és összegének megállapításához a rendelkezésre álló adatok nem elegendőek, a kellő szakismerettel rendelkező szakértő véleményét kell kikérni.
+a) természetes személy esetén az arról szóló nyilatkozatot, hogy a kártalanítási jogosult banki átutalással vagy postai kézbesítés útján kéri a kártalanítás összegének kifizetését;
 
-(3) Amennyiben a kártalanítás megtagadásának alapjául szolgáló körülmények azt mutatják, hogy a földhasználó, termelő által elkövetett bűncselekmény miatt büntetőeljárást kell kezdeményezni, az eljárást a büntetőeljárás jogerős befejezéséig fel kell függeszteni.
+b) az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alapján csoportos általános forgalmi adóalanynak minősülő kártalanítási jogosult esetében a csoportazonosító számot;
 
-(4)[^120] A termelő részkártalanítási kérelmet nyújthat be a megsemmisítés végrehajtásával megbízott járási hivatalhoz a termelés mielőbbi beindítása érdekében. Ennek összege a várható teljes kártalanítás 50%-áig terjedhet.
+c) az Áfa tv. alapján adóalanynak (a továbbiakban: áfaalany) minősülő kártalanítási jogosult nyilatkozatát arról, hogy alanyi adómentességet választott-e.
 
-(5) A kártalanítási igény benyújtásakor két példányban kell csatolni valamennyi, a megsemmisített vizsgálatköteles áru származásával, növényegészségügyi ellenőrzésével kapcsolatos dokumentumot, valamint a megsemmisítés vagy engedélyezett felhasználás során keletkezett valamennyi okiratot, beleértve a végső elszámolást is.
+(2) A termelő által a termelés mielőbbi beindítása érdekében a megsemmisítés végrehajtásával megbízott megyei kormányhivatalhoz benyújtható részkártalanítási kérelem esetén a kártalanítás összege a várható teljes kártalanítás 50%-áig terjedhet.
 
-[^118]: A 21. § a 65/2007. (VII. 23.) FVM rendelet 5. §-ával megállapított szöveg.
-[^119]: A 21. § (1) bekezdése a 9/2014. (IX. 12.) FM rendelet 3. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.
-[^120]: A 21. § (4) bekezdése a 9/2014. (IX. 12.) FM rendelet 3. § (2) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 26. § k) pontja szerint módosított szöveg.
+[^118]: A 21. § a 9/2022. (II. 28.) AM rendelet 1. §-ával megállapított szöveg.
