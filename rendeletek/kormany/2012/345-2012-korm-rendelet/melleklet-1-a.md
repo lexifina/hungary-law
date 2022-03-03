@@ -1048,6 +1048,8 @@
 
 ## 1.7.18. Az M0 Észak projektekhez kapcsolódóan Solymár készenléti telep megvalósítása.
 
+## 1.7.19. Az M0 gyorsforgalmi út M5 autópálya csomópontjának, valamint az M5 autópálya Alsónémedi, Gyál csomópontjának fejlesztése és az M0 gyorsforgalmi úton a 28–29 km szelvény környezetében új csomópont létesítése.
+
 ## 1.8. Kerékpárutak
 
 ## 1.8.1. Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
@@ -2042,6 +2044,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^54]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^56]
 
-[^54]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^56]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
