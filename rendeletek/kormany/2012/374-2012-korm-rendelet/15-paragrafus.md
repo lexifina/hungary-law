@@ -64,7 +64,7 @@ e) a 2019. július 22. előtt forgalomba hozott, a 2002/95/EK európai parlament
 
 elektromos és elektronikus berendezésekben újrafelhasznált cserealkatrészek esetében.
 
-(5)[^25]
+(5)[^25] A 3. melléklet 49., 50. és 51. pontja szerinti mentességet 2021. július 21-től kell alkalmazni.
 
 [^13]: A 15. § (2) bekezdés a) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^14]: A 15. § (2) bekezdés b) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
@@ -78,4 +78,4 @@ elektromos és elektronikus berendezésekben újrafelhasznált cserealkatrészek
 [^22]: A 15. § (3) bekezdés f) pontját a 60/2019. (III. 25.) Korm. rendelet 4. §-a iktatta be.
 [^23]: A 15. § (3a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^24]: A 15. § (4) bekezdése a 60/2019. (III. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^25]: A 15. § (5) bekezdését a 60/2019. (III. 25.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^25]: A 15. § (5) bekezdését a 60/2019. (III. 25.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan az 52/2022. (II. 23.) Korm. rendelet 1. §-a iktatta be.

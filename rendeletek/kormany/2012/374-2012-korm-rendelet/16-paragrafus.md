@@ -126,6 +126,12 @@
 
 63.[^62] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és a műszaki fejlődéshez történő hozzáigazítása céljából, egyes ólom- és hat vegyértékű krómvegyületeknek a (szakmai célú) polgári felhasználású robbanóanyagok elektromos és elektronikus gyújtószerkezeteiben való használatára megadott mentesség tekintetében történő módosításáról szóló, 2021. január 15-i (EU) 2021/647 felhatalmazáson alapuló bizottsági irányelvnek
 
+64.[^63] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a bisz(2-etilhexil)-ftalát (DEHP), a benzil-butil-ftalát (BBP), a dibutil-ftalát (DBP) és a diizobutil-ftalát (DIBP) orvostechnikai eszközökből származó és az ilyen eszközök javítására vagy felújítására felhasználandó cserealkatrészekben való használatára vonatkozó mentesség tekintetében történő módosításáról szóló, 2021. augusztus 11-i (EU) 2021/1978 felhatalmazáson alapuló bizottsági irányelvnek,
+
+65.[^64] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a bisz(2-etilhexil)-ftalát (DEHP) mágneses rezonanciás képalkotó (MRI) berendezések érzékelő tekercseinek műanyag alkatrészeiben való felhasználására vonatkozó mentesség tekintetében történő módosításáról szóló, 2021. augusztus 11-i (EU) 2021/1979 felhatalmazáson alapuló bizottsági irányelvnek,
+
+66.[^65] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a bisz(2-etilhexil)-ftalát (DEHP) emberi testnedvek és/vagy dializátfolyadékok elemzésére szolgáló ionszelektív elektródokban való felhasználására vonatkozó mentesség tekintetében történő módosításáról szóló, 2021. augusztus 11-i (EU) 2021/1980 felhatalmazáson alapuló bizottsági irányelvnek
+
 [^26]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^27]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
 [^28]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
@@ -163,3 +169,6 @@
 [^60]: A 16. § 61. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^61]: A 16. § 62. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^62]: A 16. § 63. pontját az 592/2021. (X. 27.) Korm. rendelet 1. §-a iktatta be.
+[^63]: A 16. § 64. pontját az 52/2022. (II. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^64]: A 16. § 65. pontját az 52/2022. (II. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^65]: A 16. § 66. pontját az 52/2022. (II. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.

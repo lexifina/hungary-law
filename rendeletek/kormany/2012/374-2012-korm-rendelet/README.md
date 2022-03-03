@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-374-20-
 | 2021-05-26 | 2012-374-20-22.21 | 164/2020. (IV. 30.) Korm. rendelet |
 | 2021-07-16 | 2012-374-20-22.22 | 246/2020. (V. 28.) Korm. rendelet |
 | 2021-10-30 | 2012-374-20-22.23 | 592/2021. (X. 27.) Korm. rendelet |
+| 2022-03-03 | 2012-374-20-22.24 | 52/2022. (II. 23.) Korm. rendelet |
