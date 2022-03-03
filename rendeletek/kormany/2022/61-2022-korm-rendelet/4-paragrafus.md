@@ -1,0 +1,3 @@
+4. § (1) A támogatást a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 4. 2022. évi iparűzési adókedvezménnyel kapcsolatos önkormányzati támogatás cím terhére kell folyósítani két egyenlő részletben, legkésőbb 2022 júniusában és októberében.
+
+(2) A támogatás folyósításáról a helyi önkormányzatokért felelős miniszter utalványozása alapján a Magyar Államkincstár gondoskodik. Az utalványozáshoz szükséges – a 3. §-ban foglaltaknak megfelelően számított – adatokat az államháztartásért felelős miniszter 2022. május 20-áig továbbítja a helyi önkormányzatokért felelős miniszternek.
