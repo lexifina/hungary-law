@@ -83,3 +83,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2022-01-28 | 2018-141-20-22.75 | 25/2022. (I. 27.) Korm. rendelet |
 | 2022-02-18 | 2018-141-20-22.76 | 47/2022. (II. 17.) Korm. rendelet |
 | 2022-02-24 | 2018-141-20-22.77 | 55/2022. (II. 23.) Korm. rendelet |
+| 2022-03-03 | 2018-141-20-22.78 | 73/2022. (III. 2.) Korm. rendelet |

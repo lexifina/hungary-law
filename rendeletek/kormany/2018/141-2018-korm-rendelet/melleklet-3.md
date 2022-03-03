@@ -192,6 +192,8 @@
 
 | 89. | Gyártóegység kialakítására irányuló beruházás Újhartyán területén | Újhartyán belterület 1100/2 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^252]
+| 90. | Logisztikai és általános gazdasági célú ingatlanfejlesztés Budapest XXIII. kerületben | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XXIII. kerület, külterület 0196147, 0196182/1, 0196183/1, 0196304/1, 0196304/2, 0196305, 0196306/2, 0196306/3, 0196308/1, 0196308/3, 0196309, 0196310, 0196311/1, 0196312/1, 0196313, 0196314, 0196315, 0196316, 0196317, 0196318, 0196320/1, 0196322, 0196323/1, 0196325/1, 0196325/3 és 0196330/4 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^252]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^258]
+
+[^258]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

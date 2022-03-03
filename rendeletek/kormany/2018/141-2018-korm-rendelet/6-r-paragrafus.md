@@ -1,4 +1,4 @@
-6/R. §[^74] (1)[^75] A 2. mellékletben foglalt táblázat 32. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:32 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a sajátos beépítési szabályokat és az egyedi építési követelményeket a (2)–(11) bekezdés állapítja meg azzal, hogy
+6/R. §[^78] (1)[^79] A 2. mellékletben foglalt táblázat 32. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:32 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a sajátos beépítési szabályokat és az egyedi építési követelményeket a (2)–(11) bekezdés állapítja meg azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -50,19 +50,19 @@ b) az önálló rendeltetési egységek számától függetlenül, egy személyg
 
 20. közhasználat céljára szolgáló területet nem kell kialakítani.
 
-21.[^76] az épület legmagasabb pontja legfeljebb 39 méter lehet,
+21.[^80] az épület legmagasabb pontja legfeljebb 39 méter lehet,
 
-22.[^77] építési határvonalon túlnyúló épületrész kiugrása közterület fölé kinyúlhat, azzal, hogy
+22.[^81] építési határvonalon túlnyúló épületrész kiugrása közterület fölé kinyúlhat, azzal, hogy
 
 a) a kinyúlás alsó síkja rendezett terepszint felett legalább 4,0 méter, és
 
 b) kiugrást legfeljebb az egyes homlokzat-felületek 60%-án lehet kialakítani,
 
-23.[^78] több lépcsőben visszahúzott tetőemeletek kialakíthatók,
+23.[^82] több lépcsőben visszahúzott tetőemeletek kialakíthatók,
 
-24.[^79] amennyiben a WC-, vizelde szerelvénnyel felszerelt helyiség gépi elszívással rendelkezik, úgy az OTÉK 99. § (9) bekezdése előírásait nem kell alkalmazni,
+24.[^83] amennyiben a WC-, vizelde szerelvénnyel felszerelt helyiség gépi elszívással rendelkezik, úgy az OTÉK 99. § (9) bekezdése előírásait nem kell alkalmazni,
 
-25.[^80] magánút zsákutcaként kialakítható útszakaszának legnagyobb hossza meghaladhatja a 30 métert, ha
+25.[^84] magánút zsákutcaként kialakítható útszakaszának legnagyobb hossza meghaladhatja a 30 métert, ha
 
 a) a végén tehergépjárművek számára a megfelelő forduló kialakításra kerül, vagy
 
@@ -196,13 +196,13 @@ f) az épületmagasság megengedett legkisebb mértéke 2 m,
 
 g) az épületmagasság megengedett legnagyobb mértéke 21 m.
 
-(11)[^81] A Budapest XIV. kerület belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek területén a magánutak területi lehatárolását az 5. mellékletben foglalt 9–11. táblázat tartalmazza.
+(11)[^85] A Budapest XIV. kerület belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek területén a magánutak területi lehatárolását az 5. mellékletben foglalt 9–11. táblázat tartalmazza.
 
-[^74]: A 6/R. §-t a 436/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
-[^75]: A 6/R. § (1) bekezdés nyitó szövegrésze a 620/2021. (XI. 8.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^76]: A 6/R. § (2) bekezdés 21. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^77]: A 6/R. § (2) bekezdés 22. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^78]: A 6/R. § (2) bekezdés 23. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^79]: A 6/R. § (2) bekezdés 24. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^80]: A 6/R. § (2) bekezdés 25. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^81]: A 6/R. § (11) bekezdését a 620/2021. (XI. 8.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^78]: A 6/R. §-t a 436/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^79]: A 6/R. § (1) bekezdés nyitó szövegrésze a 620/2021. (XI. 8.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^80]: A 6/R. § (2) bekezdés 21. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^81]: A 6/R. § (2) bekezdés 22. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^82]: A 6/R. § (2) bekezdés 23. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^83]: A 6/R. § (2) bekezdés 24. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^84]: A 6/R. § (2) bekezdés 25. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^85]: A 6/R. § (11) bekezdését a 620/2021. (XI. 8.) Korm. rendelet 3. § (2) bekezdése iktatta be.
