@@ -18,6 +18,8 @@
 
 (8)[^152] A visszavásárlási jog, valamint az elidegenítési és terhelési tilalom törléséhez az NFK abban az esetben is hozzájárulhat, ha a vevő az árverésen értékesítésre került földrészletet elcseréli, feltéve, hogy a cserével megszerzett földrészlet vagy földrészletek – a 4. §-ban foglaltaknak megfelelő értékbecsléssel alátámasztott – értéke legalább azonos az elcserélt földrészletével, és a vevő által cserével megszerzett ingatlanra vagy ingatlanokra a vevő vállalja az állam javára – a vevő költségviselése mellett – a visszavásárlási jog bejegyzését, valamint az elidegenítési és terhelési tilalom feljegyzését a szerződéskötéskor megállapodottakkal azonos visszavásárlási feltételekkel. Abban az esetben, ha a földrészlet vételárának kiegyenlítése pénzügyi intézmény által nyújtott kölcsön felhasználásával történt, a vevő által megszerzett földrészlet cseréje esetén a cseréhez a pénzügyi intézmény hozzájárulásának beszerzéséről a vevő köteles gondoskodni, és az NFK-hoz benyújtott cserekérelméhez a pénzügyi intézmény hozzájárulását csatolni.
 
+(9)[^153] A visszavásárlási jog, valamint az elidegenítési és terhelési tilalom törléséhez az NFK abban az esetben is hozzájárulhat, ha az ingatlan nemzetgazdasági szempontból kiemelt jelentőségű beruházással érintett területen helyezkedik el, és a visszavásárlási jog, valamint az elidegenítési és terhelési tilalom fennmaradása a nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósítását akadályozza.
+
 [^146]: A 29. § a 285/2015. (X. 5.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^147]: A 29. § (1) bekezdését a 111/2020. (IV. 14.) Korm. rendelet 6. §-a hatályon kívül helyezte.
 [^148]: A 29. § (3) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
@@ -25,3 +27,4 @@
 [^150]: A 29. § (6) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 1. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
 [^151]: A 29. § (7) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^152]: A 29. § (8) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 28. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^153]: A 29. § (9) bekezdését a 73/2022. (III. 2.) Korm. rendelet 1. §-a iktatta be.

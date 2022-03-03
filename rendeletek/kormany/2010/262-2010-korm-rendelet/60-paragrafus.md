@@ -1,0 +1,8 @@
+## 59. §[^279] E rendeletnek a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet módosításáról szóló 54/2016. (III. 23.) Korm. rendelettel (a továbbiakban: Mr5.) megállapított rendelkezéseit az Mr5. hatálybalépését[^280] megelőzően megtartott árverések során értékesített földrészlet tekintetében is alkalmazni kell akkor, ha az érintett földrészlet megosztására irányuló eljárást az Mr5. hatálybalépésének napjáig jogerős határozattal nem zárták le – függetlenül az árverésre vonatkozó hirdetmény tartalmától – azzal, hogy ha az Mr5. hatálybalépését megelőzően közzétett hirdetmény e rendelet Mr5.-tel megállapított rendelkezéseinek nem felel meg, új hirdetményt közzétenni nem szükséges.
+
+60. §[^281] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő kormányrendeletek módosításáról szóló 73/2022. (III. 2.) Korm. rendelettel (a továbbiakban: Mr6.) megállapított 29. § (9) bekezdését az Mr6. hatálybalépését[^282] megelőzően megtartott árverések során értékesített földrészlet tekintetében is alkalmazni kell akkor, ha az érintett földrészlet megosztására irányuló eljárást az Mr6. hatálybalépésének napjáig végleges határozattal nem zárták le – függetlenül az árverésre vonatkozó hirdetmény tartalmától –, azzal, hogy ha az Mr6. hatálybalépését megelőzően közzétett hirdetmény e rendelet Mr6.-tal megállapított rendelkezéseinek nem felel meg, új hirdetményt közzétenni nem szükséges.
+
+[^279]: Az 59. §-t az 54/2016. (III. 23.) Korm. rendelet 2. §-a iktatta be.
+[^280]: A hatálybalépés napja 2016. március 24.
+[^281]: A 60. §-t a 73/2022. (III. 2.) Korm. rendelet 2. §-a iktatta be.
+[^282]: A hatálybalépés időpontja 2022. március 3.

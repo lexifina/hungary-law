@@ -1,6 +1,6 @@
-32/C. §[^176] (1) Az árverésről készített jegyzőkönyv (a továbbiakban: árverési jegyzőkönyv) tartalmazza:
+32/C. §[^177] (1) Az árverésről készített jegyzőkönyv (a továbbiakban: árverési jegyzőkönyv) tartalmazza:
 
-a)[^177] az NFK megnevezését, címét, telefonszámát, számlájának számát, és a részéről eljáró nevét,
+a)[^178] az NFK megnevezését, címét, telefonszámát, számlájának számát, és a részéről eljáró nevét,
 
 b) az árverés helyét, kezdetének és befejezésének időpontját,
 
@@ -28,11 +28,11 @@ i) a jelenlevők kérelmét és észrevételét, az észrevételekre adott vála
 
 j) a jogszabályban meghatározott egyéb adatokat és körülményeket.
 
-(2)[^178] Az árverési jegyzőkönyvet az árverésvezető és az árverési vevő aláírásával látja el. A közjegyző az árverésről tanúsítványt állít ki, amely a jegyzőkönyv elválaszthatatlan részét képezi. A jegyzőkönyv és mellékletei eredeti példányát az NFK köteles megőrizni, a kormányhivatal és a nyertes árverező a jegyzőkönyvről másolati példányt kap. További másolatokat az árverés kapcsán keletkezett iratokról nem lehet kiállítani.
+(2)[^179] Az árverési jegyzőkönyvet az árverésvezető és az árverési vevő aláírásával látja el. A közjegyző az árverésről tanúsítványt állít ki, amely a jegyzőkönyv elválaszthatatlan részét képezi. A jegyzőkönyv és mellékletei eredeti példányát az NFK köteles megőrizni, a kormányhivatal és a nyertes árverező a jegyzőkönyvről másolati példányt kap. További másolatokat az árverés kapcsán keletkezett iratokról nem lehet kiállítani.
 
-(3)[^179] A licitálók személyes adatait az (1) bekezdés f) pontja szerint tartalmazó mellékletet az NFK köteles az árverésre bocsátott földrészlet tulajdonjogának ingatlan-nyilvántartási bejegyzéséig megőrizni és az arról történt tudomásszerzést követően haladéktalanul megsemmisíteni. A licitálók személyes adatait az NFK köteles zártan kezelni, azokat kizárólag a soron következő legmagasabb ajánlatot tevő licitáló személyének megállapítása érdekében használhatja fel.
+(3)[^180] A licitálók személyes adatait az (1) bekezdés f) pontja szerint tartalmazó mellékletet az NFK köteles az árverésre bocsátott földrészlet tulajdonjogának ingatlan-nyilvántartási bejegyzéséig megőrizni és az arról történt tudomásszerzést követően haladéktalanul megsemmisíteni. A licitálók személyes adatait az NFK köteles zártan kezelni, azokat kizárólag a soron következő legmagasabb ajánlatot tevő licitáló személyének megállapítása érdekében használhatja fel.
 
-[^176]: A 32/C. §-t a 285/2015. (X. 5.) Korm. rendelet 10. §-a iktatta be.
-[^177]: A 32/C. § (1) bekezdés a) pontja a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^178]: A 32/C. § (2) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 3. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
-[^179]: A 32/C. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^177]: A 32/C. §-t a 285/2015. (X. 5.) Korm. rendelet 10. §-a iktatta be.
+[^178]: A 32/C. § (1) bekezdés a) pontja a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^179]: A 32/C. § (2) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 3. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^180]: A 32/C. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

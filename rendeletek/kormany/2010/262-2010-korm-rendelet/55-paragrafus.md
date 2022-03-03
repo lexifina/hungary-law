@@ -1,3 +1,3 @@
-## 54. §[^259]
+## 54. §[^260]
 
-[^259]: Az 54. §-t a 153/2013. (V. 24.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte.
+[^260]: Az 54. §-t a 153/2013. (V. 24.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte.
