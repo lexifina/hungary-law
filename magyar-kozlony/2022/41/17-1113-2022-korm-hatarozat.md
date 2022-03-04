@@ -1,0 +1,198 @@
+# A Kormány 1113/2022. (III. 4.) Korm. határozata
+
+Magyar Közlöny 2022. évi 41. szám, 2022. március 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5dl7HbF5hCPXUqmOPmQe621d22eb03c8f/dokumentumok/93bdd2cc07aca0725c84d7723c9a8abbbe634ff1/letoltes)
+
+---
+
+A Kormány 1113/2022. (III. 4.) Korm. határozata
+a Terület- és Településfejlesztési Operatív Program Plusz keretében, a TOP_PLUSZ-3.1.1-21
+„Megyei foglalkoztatási-gazdaságfejlesztési együttműködések”című felhívásra benyújtott
+4 db ötmilliárd forintot meghaladó támogatási igényű projekt támogatásához történő hozzájárulásról
+A Kormány a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 4. § e) pontjában meghatározott feladatkörében eljárva egyetért
+1. a TOP_PLUSZ-3.1.1-21-BO1-2022-00001 azonosító számú, „Borsod-Abaúj-Zemplén megyei gazdasági és
+foglalkoztatási paktum 2.0”elnevezésű projekt 1. melléklet szerinti támogatásával,
+2. a TOP_PLUSZ-3.1.1-21-HB1-2022-00001 azonosító számú,„Hajdú-Bihar megyei foglalkoztatási és gazdaságfejlesztési
+együttműködés”elnevezésű projekt 1. melléklet szerinti támogatásával,
+3. a TOP_PLUSZ-3.1.1-21-SB1-2022-00001 azonosító számú, „Szabolcs-Szatmár-Bereg megyei foglalkoztatási és
+gazdaságfejlesztési együttműködések”elnevezésű projekt 1. melléklet szerinti támogatásával, valamint
+4. a TOP_PLUSZ-3.1.1-21-PT1-2022-00001 azonosító számú, „Pest megyei foglalkoztatási-gazdaságfejlesztési
+együttműködések”elnevezésű projekt 1. melléklet szerinti támogatásával.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1113/2022. (III. 4.) Korm. határozathoz
+A B C D E
+Projekt
+azonosító száma
+Projekt megnevezése
+Támogatást igénylő
+neve
+Támogatás
+(forint)
+Projekt rövid bemutatása
+1.
+TOP_PLUSZ-
+3.1.1-21-BO1-
+2022-00001
+Borsod-Abaúj-
+Zemplén megyei
+gazdasági és
+foglalkoztatási
+paktum 2.0
+Borsod-Abaúj-
+Zemplén Megyei
+Önkormányzat
+6 539 000 000
+A projekt átfogó célja a helyi foglalkoztatás
+bővítése széles körű szakmai-partnerségi
+együttműködés keretében, illeszkedve
+a munkáltatók foglalkoztatási igényeihez
+és figyelembe véve a korábbi támogatási
+időszak tapasztalatait. A projekt kiemelt céljai
+a gazdaságélénkítés, a munkahelyteremtés
+és bővítés, valamint a népességmegtartás
+helyi feltételeinek biztosítása, így a helyi
+gazdaságfejlesztés és foglalkoztatás bővítése.
+A projektet a Borsod-Abaúj-Zemplén Megyei
+Önkormányzat vezeti. Konzorciumi partnere
+a Borsod-Abaúj-Zemplén Megyei Kormányhivatal
+és a BORA 94 Borsod-Abaúj-Zemplén Megyei
+Fejlesztési Ügynökség Nonprofit Korlátolt
+Felelősségű Társaság. A projekt jelentős
+része közvetlenül foglalkoztatási célú bér-,
+képzési, illetve munkaerőpiaci szolgáltatáshoz
+kapcsolódó támogatás. A Borsod-Abaúj-
+Zemplén Megye gazdasági és foglalkoztatási
+paktum 2.0 című projekt megvalósítási területe
+Borsod-Abaúj-Zemplén megye teljes területe.
+A projekt fontos részcélja a korábban működő
+megyei és helyi paktumok (Miskolc, Edelény,
+Forró, Mezőcsát, Mezőkövesd, Nyékládháza,
+Onga, Putnok, Sárospatak, Sátoraljaújhely,
+Szirmabesenyő, Taktaharkány központtal) új
+megyei foglalkoztatási partnerségbe integrálása,
+építve a korábbi program tapasztataira.
+A projekt egyik célja a paktumterületen működő
+vállalkozások munkaerőigényének kielégítése
+álláskeresők és inaktívak bevonásával.
+
+2.
+TOP_PLUSZ-
+3.1.1-21-HB1-
+2022-00001
+Hajdú-Bihar megyei
+foglalkoztatási és
+gazdaságfejlesztési
+együttműködés
+Hajdú-Bihar Megyei
+Önkormányzat
+5 546 000 000
+A projekt átfogó célja, hogy folytatódjon
+a TOP-5.1.1-15-HB1-2016-00001 azonosító
+számú projekt keretében kialakított széles
+körű partnerség, amely hozzájárul a megye
+foglalkoztatási és gazdasági helyzetét érintő
+problémák, igények valós, folyamatos
+feltárásához és megoldásához. A konzorciumban
+megvalósuló projektben, a konzorciumi tagokon
+kívül részt vesznek a partnerségben oktatási
+intézmények, gazdasági szereplők, vállalkozások
+szakmai szervezetei, egyéb szakmai és civil
+szervezetek. Megyei helyzetelemzés alapján
+célcsoportként a közfoglalkoztatásból kevesebb,
+mint 6 hónapja kikerült alacsony iskolai
+végzettségű álláskeresők, valamint
+az inaktívak kerültek meghatározásra.
+A tervezett beavatkozások biztosítani kívánják
+a területi és gazdasági kiegyenlítődés
+elősegítését: szociális gazdaság fejlesztésének
+támogatása, befektetés-ösztönzés, helyi
+termék- és szolgáltatás értékesítésének segítése
+(például Hajdú-Bihari Termékdíj), az értékesítés
+megyei problémáinak feltárása, jó gyakorlatok
+disszeminációja, tudatos térségi és helyi termék
+fogyasztás és vásárlás ösztönzése, vállalkozói
+készségek fejlesztése, képzés, a társadalmi
+felzárkózás elősegítése, munkaerőpiaci
+beilleszkedés elősegítése, foglalkoztatási
+lehetőségek feltárása, az előítéletek csökkentése.
+
+3.
+TOP_PLUSZ-
+3.1.1-21-SB1-
+2022-00001
+Szabolcs-
+Szatmár-Bereg
+megyei foglalkoztatási
+és gazdaságfejlesztési
+együttműködések
+Szabolcs-
+Szatmár-Bereg
+Megyei
+Önkormányzat
+7 450 000 000
+A projekt átfogó célja, hogy a gazdasági
+szereplők közötti aktív és kölcsönös
+kommunikáció fenntartásával,
+a munkaerőpiaci keresleti és kínálati oldal
+összehangolása révén megvalósuljanak
+a megye gazdaság- és foglalkoztatás célú
+fejlesztései, a munkahelyteremtő helyi
+gazdaságfejlesztés, összekapcsolódjanak
+az azt célzó kezdeményezések. A projekt
+a köz- és a versenyszférát, a megye releváns
+munkaerőpiaci szereplőit, foglalkoztatás-
+gazdaságfejlesztésben érintett és érdekelt
+feleit fogja össze a foglalkoztatási problémák
+mérséklése és a megyei gazdasági
+versenyképesség javítása érdekében.
+A megyében egyszerre van jelen
+a munkanélküliség és a munkaerőhiány, emiatt
+fontos az emberi erőforrás, a munkavállalói
+kompetenciák fejlesztése a változó
+munkaerő-piaci trendekhez, a munkaadói
+igényekhez illeszkedve. A projekt közvetett
+célja a területi kohézió erősítése a megye
+versenyképességének javítása érdekében.
+A projekt a 30 év feletti célcsoport munkaerőpiaci
+részvételét támogatja. Megyei helyzetelemzés
+alapján célcsoportként az építőipar és
+a kereskedelem, gépjárműjavítás területén
+elhelyezkedni szándékozó – 3–6 hónapja
+nyilvántartott – álláskeresők, a tartós
+(legalább 12 hónapja) álláskeresőként
+nyilvántartottak, a közfoglalkoztatásból
+legfeljebb 6 hónapja kilépő álláskeresővé válók,
+valamint az inaktívak kerültek meghatározásra.
+4.
+TOP_PLUSZ-
+3.1.1-21-PT1-
+2022-00001
+Pest megyei
+foglalkoztatási-
+gazdaságfejlesztési
+együttműködések
+Pest Megye
+Önkormányzata
+6 227 000 000
+A projekt átfogó célja Pest Megye
+Önkormányzatának vezetésével foglalkoztatási-
+gazdaságfejlesztési együttműködések
+létrehozása és működtetése egész Pest megyére
+kiterjedően, a Pest megyei foglalkoztatási-
+gazdaságfejlesztési stratégia kidolgozása,
+a munkaerőpiaci programok megvalósítása,
+valamint konzorciumi partner – Pest Megyei
+Kormányhivatal – részéről a célcsoport
+foglalkoztatását elősegítő szolgáltatások és
+támogatások nyújtása. A projekt további
+átfogó célja a Pest megyei foglalkoztatási-
+gazdaságfejlesztési célokkal összhangban
+a munkaerőpiac bővítése, a célcsoport
+képzése, elhelyezkedése és a szereplők
+együttműködésének erősítése, valamint
+a munkaerő kereslet és kínálat megyei szintű
+összehangolása, kiemelten az országos átlagnál
+alacsonyabb foglalkoztatási szinttel rendelkező,
+kevésbé fejlett járásokban.
