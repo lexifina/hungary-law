@@ -1,53 +1,65 @@
 ## 5. § Az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet
 
-1. 1. § (4) bekezdésében az „a szakvélemény elkészítésében részt vevő és közreműködő személyek tevékenységének” szövegrész helyébe az „az alkalmazásukban álló, vagy megbízásuk alapján a szakvélemény elkészítésében részt vevő és közreműködő személyek szakvéleményének (tevékenységének)” szöveg,
+1.[^8]
 
-2. 3. § (5) bekezdésében a „bíróság” szövegrész helyébe a „hatóság” szöveg,
+2.[^9]
 
-3. 10. § (1) bekezdésében a „százezer” szövegrész helyébe a „százötvenezer” szöveg,
+3.[^10]
 
-4.[^3]
+4.[^11]
 
-5. 10. § (2) bekezdés a) pontjában a „hatvanezer” szövegrész helyébe a „kilencvenezer” szöveg,
+5.[^12]
 
-6.[^4]
+6.[^13]
 
-7. 10. § (2) bekezdés b) pontjában a „hatezer” szövegrész helyébe a „kilencezer” szöveg,
+7.[^14]
 
-8.[^5]
+8.[^15]
 
-9. 10. § (2) bekezdés c) pontjában az „ötezer” szövegrész helyébe a „hétezer-ötszáz” szöveg,
+9.[^16]
 
-10.[^6]
+10.[^17]
 
-11. 10. § (2) bekezdés d) pontjában a „háromezer-ötszáz” szövegrész helyébe az „ötezer-kétszázötven” szöveg,
+11.[^18]
 
-12.[^7]
+12.[^19]
 
-13. 10. § (2) bekezdés e) pontjában a „háromezer” szövegrész helyébe a „négyezer-ötszáz” szöveg,
+13.[^20]
 
-14.[^8]
+14.[^21]
 
-15. 10. § (2) bekezdés f) pontjában a „tízezer” szövegrész helyébe a „tizenötezer” szöveg,
+15.[^22]
 
-16.[^9]
+16.[^23]
 
-17. 10. § (2) bekezdés g) pontjában a „kettőezer” szövegrész helyébe a „háromezer” szöveg,
+17.[^24]
 
-18.[^10]
+18.[^25]
 
-19. 10. § (2) bekezdés h) pontjában a „háromezer” szövegrész helyébe a „négyezer-ötszáz” szöveg,
+19.[^26]
 
-20.[^11]
+20.[^27]
 
-21. 15. § (1) bekezdésében a „közjegyző, valamint” szövegrész helyébe a „közjegyző, a bírósági végrehajtó, valamint” szöveg
+21.[^28]
 
-[^3]: Az 5. § 4. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^4]: Az 5. § 6. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^5]: Az 5. § 8. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^6]: Az 5. § 10. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^7]: Az 5. § 12. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^8]: Az 5. § 14. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^9]: Az 5. § 16 pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^10]: Az 5. § 18. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^11]: Az 5. § 20. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^8]: Az 5. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 5. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 5. § 4. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^12]: Az 5. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 5. § 6. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^14]: Az 5. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: Az 5. § 8. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^16]: Az 5. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: Az 5. § 10. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^18]: Az 5. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 5. § 12. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^20]: Az 5. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 5. § 14. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^22]: Az 5. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: Az 5. § 16 pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^24]: Az 5. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 5. § 18. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^26]: Az 5. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 5. § 20. pontja a 7. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^28]: Az 5. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

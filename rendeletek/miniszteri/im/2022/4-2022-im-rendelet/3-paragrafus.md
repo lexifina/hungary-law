@@ -1,3 +1,3 @@
-## 2. § Az igazságügyi szakértők díjazásáról szóló 3/1986. (II. 21.) IM rendelet 2. §-a a következő (9) bekezdéssel egészül ki:
+## 2. §[^2]
 
-## „(9) A szakértőt a hatóság felkérésére készített árajánlat elkészítéséért az irattanulmányozással eltöltött időre a bírósági tárgyaláson kívüli szakértői tevékenységre megállapított óradíj illeti meg.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
