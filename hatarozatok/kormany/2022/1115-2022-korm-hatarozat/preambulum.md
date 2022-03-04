@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a NATO közreműködésével folyó, a nemzetközi terrorizmus elleni harc feltételeinek megteremtését elősegítő széles körű nemzetközi együttműködésre, valamint a Magyar Honvédség rendelkezésre álló és átadható készleteire –
