@@ -8,7 +8,9 @@
 
 4. 1. pontja alapján a kkv-k vásárokon való részvételéhez nyújtott támogatás,
 
-5. 1. és 2. pontja alapján az európai területi együttműködési projektekben részt vevő kkv-knál felmerült együttműködési költségekhez nyújtott támogatás,
+5.[^37] 1. és 2. pontja alapján az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás,
+
+5a.[^38] 1–2. pontja alapján vállalkozásoknak az európai területi együttműködési projektekben való részvételéhez korlátozott összegű támogatás,
 
 6. 1. és 2. pontja alapján képzési támogatás,
 
@@ -25,3 +27,6 @@
 12. 1. és 2. pontja alapján helyi infrastruktúrára irányuló támogatás,
 
 13. 1. és 2. pontja alapján csekély összegű támogatás
+
+[^37]: A 17. § 5. pontja a 74/2022. (III. 3.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
+[^38]: A 17. § 5a. pontját a 74/2022. (III. 3.) Korm. rendelet 8. §-a iktatta be.

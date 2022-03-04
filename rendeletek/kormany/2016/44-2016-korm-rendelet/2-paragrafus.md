@@ -32,6 +32,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 8. dedikált infrastruktúra: olyan infrastruktúra, amely ex-ante módon meghatározhatóan az érintett vállalkozás igényeihez igazítottan jön létre,
 
+8a.[^4] digitalizáció: a 651/2014/EU bizottsági rendelet 2. cikk 103c. pontja szerinti folyamat,
+
 9. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
 10. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
@@ -78,9 +80,9 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 31. kezességvállalás: a 651/2014/EU bizottsági rendelet 2. cikk 67. pontja szerinti kötelezettségvállalás,
 
-31a.[^4] kikötői felépítmény: a 651/2014/EU bizottsági rendelet 2. cikk 158. pontja szerinti felépítmény,
+31a.[^5] kikötői felépítmény: a 651/2014/EU bizottsági rendelet 2. cikk 158. pontja szerinti felépítmény,
 
-31b.[^5] kikötői infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 157. pontja szerinti infrastruktúra,
+31b.[^6] kikötői infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 157. pontja szerinti infrastruktúra,
 
 32. kirendelés: a 651/2014/EU bizottsági rendelet 2. cikk 98. pontja szerinti alkalmazás,
 
@@ -88,7 +90,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 34. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás,
 
-34a.[^6] kotrás: a 651/2014/EU bizottsági rendelet 2. cikk 160. pontja szerinti tevékenység,
+34a.[^7] kotrás: a 651/2014/EU bizottsági rendelet 2. cikk 160. pontja szerinti tevékenység,
 
 35. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti tevékenység,
 
@@ -97,6 +99,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 37. kutatási és tudásközvetítő szervezet: a 651/2014/EU bizottsági rendelet 2. cikk 83. pontja szerinti szervezet,
 
 38. kutatási infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti infrastruktúra,
+
+38a.[^8] lakóépület: a 651/2014/EU bizottsági rendelet 2. cikk 103a. pontja szerinti épület,
 
 39. létesítmény: funkcionálisan megbonthatatlan egészet képező termelő vagy szolgáltató egység,
 
@@ -114,7 +118,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 46. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység,
 
-47.[^7] működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételei, csökkentve a diszkontált működési költségekkel (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és finanszírozási költséget, amelyet beruházási támogatásból már fedeztek), és – a támogatást nyújtó döntése alapján – a diszkontált ésszerű nyereséggel, ha a számítás végeredménye pozitív, ellenkező esetben a működési eredmény nulla,
+47.[^9] működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételei, csökkentve a diszkontált működési költségekkel (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és finanszírozási költséget, amelyet beruházási támogatásból már fedeztek), és – a támogatást nyújtó döntése alapján – a diszkontált ésszerű nyereséggel, ha a számítás végeredménye pozitív, ellenkező esetben a működési eredmény nulla,
 
 48. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
@@ -122,7 +126,11 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 50. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
 
+50a.[^10] okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti képesség,
+
 51. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
+
+51a.[^11] passzív hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 137. pontja szerinti hálózat,
 
 52. saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
 
@@ -144,6 +152,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 61. szintetikusszál-ipar: a 651/2014/EU bizottsági rendelet 2. cikk 44. pontja szerinti ipar,
 
+61a.[^12] szociális szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 103b. pontja szerinti szolgáltatás,
+
 62. szokásos piaci feltételek: a 651/2014/EU bizottsági rendelet 2. cikk 89. pontja szerinti feltétel,
 
 63. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
@@ -161,7 +171,12 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 [^1]: A 2. § 4a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^2]: A 2. § 5a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^3]: A 2. § 5b. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^4]: A 2. § 31a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^5]: A 2. § 31b. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^6]: A 2. § 34a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^7]: A 2. § 47. pontja a 366/2017. (XII. 5.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^4]: A 2. § 8a. pontját a 74/2022. (III. 3.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 2. § 31a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: A 2. § 31b. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^7]: A 2. § 34a. pontját a 366/2017. (XII. 5.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^8]: A 2. § 38a. pontját a 74/2022. (III. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 2. § 47. pontja a 366/2017. (XII. 5.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^10]: A 2. § 50a. pontját a 74/2022. (III. 3.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^11]: A 2. § 51a. pontját a 74/2022. (III. 3.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^12]: A 2. § 61a. pontját a 74/2022. (III. 3.) Korm. rendelet 1. § (5) bekezdése iktatta be.

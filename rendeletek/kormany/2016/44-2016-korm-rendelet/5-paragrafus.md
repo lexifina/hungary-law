@@ -8,7 +8,9 @@
 
 4. 1. pontja alapján a kkv-k vásárokon való részvételéhez nyújtott támogatás,
 
-5. 1. és 2. pontja alapján az európai területi együttműködési projektekben részt vevő kkv-knál felmerült együttműködési költségekhez nyújtott támogatás,
+5.[^13] 1. és 2. pontja alapján az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás,
+
+5a.[^14] 1–5. pontja alapján vállalkozásoknak az európai területi együttműködési projektekben való részvételéhez korlátozott összegű támogatás,
 
 6. 3. és 4. pontja alapján kutatás-fejlesztési projektekhez nyújtott támogatás,
 
@@ -25,3 +27,6 @@
 12. 2. pontja alapján a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
 
 13. 1–4. pontja alapján csekély összegű támogatás
+
+[^13]: Az 5. § 5. pontja a 74/2022. (III. 3.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^14]: Az 5. § 5a. pontját a 74/2022. (III. 3.) Korm. rendelet 2. §-a iktatta be.

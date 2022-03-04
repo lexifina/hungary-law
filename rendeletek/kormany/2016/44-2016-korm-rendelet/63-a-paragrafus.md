@@ -1,6 +1,6 @@
 ## kell levonni az elszámolható költségekből.
 
-## 28/A. [^34] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás
+## 28/A. [^66] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás
 
 63/A. § (1) A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) belvízi kikötő
 
@@ -14,4 +14,4 @@ b) kotrásához
 
 (3) Nem számolhatók el a szállítással össze nem függő tevékenységekhez, így különösen a kikötő területén működő ipari gyártólétesítményekhez, irodahelyiségekhez és üzletekhez, valamint a kikötői felépítményekhez kapcsolódó költségek.
 
-[^34]: A 28/A. alcímet (63/A–63/C. §) a 366/2017. (XII. 5.) Korm. rendelet 6. §-a iktatta be.
+[^66]: A 28/A. alcímet (63/A–63/C. §) a 366/2017. (XII. 5.) Korm. rendelet 6. §-a iktatta be.

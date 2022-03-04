@@ -1,4 +1,4 @@
-## lehet támogatási döntést hozni.
+## 24. §[^48] E rendelet alapján a 11–29. alcím szerinti támogatás esetén 2024. június 30-ig lehet támogatási döntést hozni.
 
 ## IV. Fejezet
 
@@ -6,10 +6,13 @@
 
 ## 11. Regionális beruházási támogatás
 
-25. § (1) A regionális beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdés a)–d) pontja szerinti régióban kis- és középvállalkozás valósít meg.
+25. § (1)[^49] A regionális beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdés a) és b) pontja szerinti régióban kis- és középvállalkozás valósít meg.
 
-(2)[^26] A nagyvállalatok termelési folyamatának alapvető megváltozását eredményező beruházás esetén a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
+(2)[^50]
 
-(3) Meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező beruházáshoz a támogatás akkor vehető igénybe, ha az elszámolható költségek legalább 200%-kal meghaladják az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett eszközöknek a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
+(3)[^51]
 
-[^26]: A 25. § (2) bekezdése a 366/2017. (XII. 5.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^48]: A 24. § a 74/2022. (III. 3.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^49]: A 25. § (1) bekezdése a 74/2022. (III. 3.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg.
+[^50]: A 25. § (2) bekezdését a 74/2022. (III. 3.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^51]: A 25. § (3) bekezdését a 74/2022. (III. 3.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.

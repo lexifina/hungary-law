@@ -54,6 +54,8 @@ a) a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számán
 
 b) a munkahelyeket a beruházás befejezésétől számított három éven belül betöltik,
 
-c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább három évig az érintett területen fenntartja.
+c)[^56] a beruházás által létrehozott valamennyi munkahelyet az álláshely első betöltése után legalább öt évig, illetve kkv-k esetében három évig fenn kell tartani az érintett területen, kivéve, ha a munkahely 2020. január 1. és 2021. június 30. között szűnt meg.
 
 (9) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
+
+[^56]: A 29. § (8) bekezdés c) pontja a 74/2022. (III. 3.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -9,3 +9,7 @@
 (5) Ha az összeszámítási szabály figyelembevétele nélkül az adott beruházáshoz nyújtható állami támogatás jelenértéken kisebb, mint a (4) bekezdés szerint meghatározott támogatási összeg, akkor ez a kisebb összeg az odaítélhető állami támogatás felső korlátja. Ellenkező esetben állami támogatás a (4) bekezdésben meghatározott összegig nyújtható.
 
 (6) Annak kiszámításakor, hogy egy nagyberuházás elszámolható költsége eléri-e a jelenértéken 50 millió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
+
+(7)[^55] A projektben részt vevő valamennyi kedvezményezettre az induló beruházás helye szerinti területen érvényes támogatási intenzitás alkalmazandó. Amennyiben az induló beruházás két vagy több támogatott területen helyezkedik el, a maximális támogatási intenzitást azon támogatott terület szerint kell számítani, ahol a legmagasabb összegű elszámolható költségek merültek fel.
+
+[^55]: A 28. § (7) bekezdését a 74/2022. (III. 3.) Korm. rendelet 11. §-a iktatta be.

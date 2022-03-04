@@ -8,7 +8,7 @@
 
 4. a kkv-k vásárokon való részvételéhez nyújtott támogatás esetén vállalkozásonként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
-5. az európai területi együttműködési projektekben részt vevő kkv-knál felmerült együttműködési költségekhez nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+5.[^44] az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
 6. kutatás-fejlesztési projekthez nyújtott támogatás esetén
 
@@ -38,8 +38,12 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 13. szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja a 20 millió eurónak megfelelő forintösszeget,
 
-14.[^23] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja a 75 millió eurónak megfelelő forintösszeget,
+14.[^45] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja a 75 millió eurónak megfelelő forintösszeget,
 
 15. helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
-[^23]: A 23. § 14. pontja a 366/2017. (XII. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+16.[^46] vállalkozásoknak az európai területi együttműködési projektekben való részvételéhez korlátozott összegű támogatás esetén meghaladja a 63/D. § szerinti maximális összeget.
+
+[^44]: A 23. § 5. pontja a 74/2022. (III. 3.) Korm. rendelet 17. § 10. pontja szerint módosított szöveg.
+[^45]: A 23. § 14. pontja a 366/2017. (XII. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^46]: A 23. § 16. pontját a 74/2022. (III. 3.) Korm. rendelet 9. §-a iktatta be.

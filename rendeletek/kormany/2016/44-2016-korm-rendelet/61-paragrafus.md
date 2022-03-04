@@ -1,6 +1,6 @@
-## 60. §[^32] A kétmillió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege az 58. § (1) és (2) bekezdésében, valamint az 59. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+## 60. §[^64] A kétmillió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege az 58. § (1) és (2) bekezdésében, valamint az 59. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
 
-61. § (1)[^33] Az 57. § (2) bekezdés f) pontja szerinti támogatás esetén
+61. § (1)[^65] Az 57. § (2) bekezdés f) pontja szerinti támogatás esetén
 
 a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
 
@@ -20,5 +20,5 @@ e) az elrendezés és nyomdai előkészítés költsége, és
 
 f) a nyomtatás vagy elektronikus közzététel költsége
 
-[^32]: A 60. § a 366/2017. (XII. 5.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^33]: A 61. § (1) bekezdés nyitó szövegrésze a 366/2017. (XII. 5.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^64]: A 60. § a 366/2017. (XII. 5.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^65]: A 61. § (1) bekezdés nyitó szövegrésze a 366/2017. (XII. 5.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

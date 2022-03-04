@@ -8,9 +8,9 @@
 
 2. a fenntartható közlekedés előmozdítása és kapacitáshiányok megszüntetése a főbb hálózati infrastruktúrákban,
 
-3.[^13] a fenntartható és minőségi foglalkoztatás előmozdítása és a munkavállalói mobilitás támogatása,
+3.[^24] a fenntartható és minőségi foglalkoztatás előmozdítása és a munkavállalói mobilitás támogatása,
 
-4.[^14] az intézményi kapacitás javítása és hatékony közigazgatás.
+4.[^25] az intézményi kapacitás javítása és hatékony közigazgatás.
 
-[^13]: A 12. § 3. pontja a 222/2016. (VII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^14]: A 12. § 4. pontját a 222/2016. (VII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 12. § 3. pontja a 222/2016. (VII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^25]: A 12. § 4. pontját a 222/2016. (VII. 22.) Korm. rendelet 2. §-a iktatta be.

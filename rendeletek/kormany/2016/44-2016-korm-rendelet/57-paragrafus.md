@@ -4,7 +4,7 @@
 
 (2) A támogatás – a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével – a következőkhöz nyújtható:
 
-a)[^31] muzeális intézmény, levéltár, könyvtár, művészeti vagy közművelődési intézmény – ide értve a közösségi teret –, koncertterem, filmszínház,
+a)[^63] muzeális intézmény, levéltár, könyvtár, művészeti vagy közművelődési intézmény – ide értve a közösségi teret –, koncertterem, filmszínház,
 
 b) tárgyi kulturális örökség, régészeti lelőhely, emlékmű, történelmi emlékhely és épület, a kulturális örökséghez kapcsolódó természeti örökség, kulturális vagy természeti örökséggé nyilvánított örökség,
 
@@ -16,4 +16,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^31]: A 57. § (2) bekezdés a) pontja a 366/2017. (XII. 5.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^63]: A 57. § (2) bekezdés a) pontja a 366/2017. (XII. 5.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.

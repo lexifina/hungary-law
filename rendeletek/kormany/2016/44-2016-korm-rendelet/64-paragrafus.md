@@ -1,3 +1,5 @@
+## 63/D. § Az európai területi együttműködési projektekben részt vevő vállalkozásnak e § alapján együttműködési projektenként legfeljebb 20 ezer euró támogatás nyújtható.
+
 ## 29. A csekély összegű támogatás
 
 64. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.

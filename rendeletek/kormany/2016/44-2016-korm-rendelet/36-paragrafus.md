@@ -1,15 +1,20 @@
-## 15. Az európai területi együttműködési projektekben részt vevő kkv-knál felmerült együttműködési költségekhez nyújtott támogatás
+## 15. [^57] Az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás
 
-36. § (1) Az európai területi együttműködési projektekben részt vevő kkv-knál felmerült együttműködési költségekhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+36. § (1)[^58] Az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet szerint alkalmazandó társfinanszírozási arányt.
 
-(2) A támogatás keretében
+(2)[^59] A támogatás keretében
 
-a) a szervezeti együttműködés költsége (pl. az együttműködési projekthez kapcsolódó személyzeti- és irodaköltség),
+a) személyzeti, irodai és adminisztratív költség,
 
-b) a külső tanácsadó vagy szolgáltató által nyújtott, az együttműködéshez kötődő tanácsadás és az együttműködéshez kötődő támogató szolgáltatás költsége,
+b) külső szakértői és szolgáltatási költség és
 
-c) a projekthez közvetlenül kapcsolódó útiköltség, a berendezések költségei és beruházási kiadások, valamint kizárólag a projekt céljaira való használatuk mértékéig az eszközök és berendezések értékcsökkenése
+c) utazási és szállásköltség, berendezés költsége, infrastrukturális és építési beruházás költsége
 
-## számolható el.
+## számolható el, amennyiben az az együttműködési projekthez kapcsolódik.
 
-(3) A (2) bekezdés szerinti szolgáltatás nem lehet folyamatos vagy időszakosan visszatérő tevékenység, és nem kapcsolódhat a vállalkozás szokásos működési költségeihez (pl. folyamatos adótanácsadáshoz, rendszeres jogi szolgáltatáshoz vagy hirdetéshez).
+(3)[^60]
+
+[^57]: A 15. alcím címe a 74/2022. (III. 3.) Korm. rendelet 17. § 12. pontja szerint módosított szöveg.
+[^58]: A 36. § (1) bekezdése a 74/2022. (III. 3.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^59]: A 36. § (2) bekezdése a 74/2022. (III. 3.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^60]: A 36. § (3) bekezdését a 74/2022. (III. 3.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
