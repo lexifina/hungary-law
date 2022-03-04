@@ -1,3 +1,0 @@
-## 3. § Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet (a továbbiakban: R2.) 7. §-a a következő (19) bekezdéssel egészül ki:
-
-## „(19) E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő kormányrendeletek módosításáról szóló 73/2022. (III. 2.) Korm. rendelettel (a továbbiakban: Módr11.) megállapított 1. melléklet 1.7.19. pontját a Módr11. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”

@@ -1,5 +1,5 @@
-## 2. § Az R1. a következő 60. §-sal egészül ki:
-
-## „60. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő kormányrendeletek módosításáról szóló 73/2022. (III. 2.) Korm. rendelettel (a továbbiakban: Mr6.) megállapított 29. § (9) bekezdését az Mr6. hatálybalépését megelőzően megtartott árverések során értékesített földrészlet tekintetében is alkalmazni kell akkor, ha az érintett földrészlet megosztására irányuló eljárást az Mr6. hatálybalépésének napjáig végleges határozattal nem zárták le – függetlenül az árverésre vonatkozó hirdetmény tartalmától –, azzal, hogy ha az Mr6. hatálybalépését megelőzően közzétett hirdetmény e rendelet Mr6.-tal megállapított rendelkezéseinek nem felel meg, új hirdetményt közzétenni nem szükséges.”
+## 1–2. §[^2]
 
 ## 2. Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosítása
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

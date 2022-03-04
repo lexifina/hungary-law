@@ -1,3 +1,0 @@
-## 1. § A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet (a továbbiakban: R1.) 29. §-a a következő (9) bekezdéssel egészül ki:
-
-## „(9) A visszavásárlási jog, valamint az elidegenítési és terhelési tilalom törléséhez az NFK abban az esetben is hozzájárulhat, ha az ingatlan nemzetgazdasági szempontból kiemelt jelentőségű beruházással érintett területen helyezkedik el, és a visszavásárlási jog, valamint az elidegenítési és terhelési tilalom fennmaradása a nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósítását akadályozza.”
