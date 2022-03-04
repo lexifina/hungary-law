@@ -1,3 +1,5 @@
-## 5. § A Kr. 1. § (2) bekezdésében a „NEAK részére” szövegrész helyébe a „Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) részére” szöveg lép.
+## 5. §[^6]
 
 ## 3. Záró rendelkezések
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
