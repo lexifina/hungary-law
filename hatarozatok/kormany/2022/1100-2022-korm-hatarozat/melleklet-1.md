@@ -42,37 +42,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:100 mezőjében a „0,16” szövegrész helyébe a „0,56” szöveg,
-
-## b) E:100 mezőjében a „0,02” szövegrész helyébe a „0,07” szöveg,
-
-## c) D:124 mezőjében a „0,30” szövegrész helyébe a „0,72” szöveg,
-
-## d) E:124 mezőjében a „0,02” szövegrész helyébe a „–” szöveg,
-
-## e) D:125 mezőjében a „0,30” szövegrész helyébe az „1,05” szöveg,
-
-## f) E:125 mezőjében a „0,02” szövegrész helyébe a „–” szöveg,
-
-## g) D:181 mezőjében a „0,06” szövegrész helyébe az „1,31” szöveg,
-
-## h) E:181 mezőjében a „0,01” szövegrész helyébe a „0,20” szöveg,
-
-## i) D:212 mezőjében a „0,13” szövegrész helyébe a „0,63” szöveg,
-
-## j) E:212 mezőjében a „0,02” szövegrész helyébe a „0,10” szöveg,
-
-## k) D:213 mezőjében a „0,10” szövegrész helyébe a „0,28” szöveg,
-
-## l) E:213 mezőjében a „0,02” szövegrész helyébe a „0,05” szöveg,
-
-## m) D:217d mezőjében a „2,19” szövegrész helyébe a „3,72” szöveg,
-
-## n) E:217d mezőjében a „0,29” szövegrész helyébe a „0,47” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1100/2022. (III. 2.) Korm. határozathoz
 
@@ -97,3 +67,5 @@
 | 9. | KEHOP-2.1.3-15-2017-00052 | Timár település Ivóvízminőség-javító Program | Timár Község Önkormányzata a 339/2014. (XII.19.) Korm. rendelet szerint | 86,956522 | 95 000 000 | 14 250 000 | 29 235 563 | 0 | – | 182 034 765 | 27 305 216 | 56 151 525 | – | 86,956522 | 277 034 765 | 41 555 216 | 85 387 088 | 0 | 403 977 069 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg a 98/83/EK irányelvben és a 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. A projekt keretében Rakamazról való vízátvétel épül ki Timárra, valamint rekonstrukciós munkák elvégzésére kerül sor. |
 
 | 10. | KEHOP-2.1.3-15-2016-00031 | Észak-Magyarországi ivóvízminőség-javító program 1. (ÉMO 1) | Gönc Város Önkormányzata, Halmaj Községi Önkormányzat, Csobád Község Önkormányzata, Kiskinizs Községi Önkormányzat, Kázsmárk Község Önkormányzata, Léh Község Önkormányzata, Rásonysápberencs Község Önkormányzata, Ráckeve Város Önkormányzata, Farmos Község Önkormányzata és Tápiószele Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 88,968016 | 2 167 339 228 | 268 748 841 | 373 947 967 | 0 | – | 1 549 930 424 | 192 190 508 | 467 059 305 | – | 88,968016 | 3 717 269 652 | 460 939 349 | 841 007 272 | 0 | 5 019 216 273 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg a 98/83/EK irányelvben és a 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. „A” rész: Megvalósul Farmos, Gönc, Ráckeve, Tápiószele víztisztítása, egészséges ivóvízzel való ellátása. „B” rész: A projekt keretében a regionális rendszerről történő vízátvételhez szükséges létesítmények megépítésére kerül sor Halmaj, Csobád, Kázsmárk, Kiskinizs, Léh, Rásonysápberencs vonatkozásában. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
