@@ -6,10 +6,7 @@
 
 (4) Az azonosítókibocsátó a kijelöléssel, illetve az azonosítókibocsátási tevékenység ellátásával kapcsolatban a magyar állam részére ellenszolgáltatás nyújtására nem köteles, valamint az azonosítókibocsátási feladatok teljesítéséért nem jogosult a magyar államtól ellenszolgáltatásra.
 
-(5) Az azonosítókibocsátó által az egyedi azonosító létrehozásáért és kibocsátásáért az adott azonosítót kérelmező számára felszámolt díj a következő mérték esetén felel meg a Végrehajtási Rendelet 3. cikk (9) bekezdése szerinti feltételeknek:
-
-a) csomagolási egység szintű egyedi azonosító esetén darabonként legalább nettó 2 forint, legfeljebb nettó 5 forint,
-
-b) gyűjtőcsomagolás szintű egyedi azonosító esetén darabonként legalább nettó 5 forint, legfeljebb nettó 10 forint.
+(5)[^4]
 
 [^3]: A 3. § (1) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (5) bekezdését a 81/2022. (III. 4.) Korm. rendelet 1. §-a hatályon kívül helyezte.

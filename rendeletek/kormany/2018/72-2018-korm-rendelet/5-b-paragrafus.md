@@ -1,4 +1,4 @@
-5/B. §[^11] (1) A vámhatóság látja el a gazdasági szereplők Végrehajtási Rendelet szerinti kötelezettségei végrehajtásának ellenőrzését.
+5/B. §[^12] (1) A vámhatóság látja el a gazdasági szereplők Végrehajtási Rendelet szerinti kötelezettségei végrehajtásának ellenőrzését.
 
 (2) A vámhatóság az azonosítókibocsátó megkeresésére az azonosítókibocsátó Végrehajtási Rendelet és e rendelet szerinti feladatai ellátásához az (1) bekezdés szerinti feladatkörében rendelkezésére álló adatot szolgáltat az azonosítókibocsátó részére.
 
@@ -6,4 +6,4 @@
 
 (4) A Végrehajtási Rendelet 20. cikk (4) bekezdése szerinti méretkorlát módosítására az azonosítókibocsátó jogosult a vámhatóság egyetértésével.
 
-[^11]: Az 5/B. §-t a 333/2019. (XII. 20.) Korm. rendelet 6. §-a iktatta be.
+[^12]: Az 5/B. §-t a 333/2019. (XII. 20.) Korm. rendelet 6. §-a iktatta be.
