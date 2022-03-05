@@ -1,4 +1,4 @@
-## 25. §[^5] Ha az ügyészség a vádemelés után bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása vagy elkobozható, illetve vagyonelkobzás alá eső dolog vagy vagyon felderítése és biztosítása érdekében adatgyűjtést végez, és ehhez a nyomozó hatóságot igénybe veszi, a nyomozó hatóság az adatgyűjtést az ügyészség rendelkezései szerint végzi.
+## 25. §[^6] Ha az ügyészség a vádemelés után bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása vagy elkobozható, illetve vagyonelkobzás alá eső dolog vagy vagyon felderítése és biztosítása érdekében adatgyűjtést végez, és ehhez a nyomozó hatóságot igénybe veszi, a nyomozó hatóság az adatgyűjtést az ügyészség rendelkezései szerint végzi.
 
 ## 16. Más szerv megkeresése
 
@@ -14,8 +14,9 @@
 
 (6) Az eljárási cselekmény elvégzéséhez szükséges határozat meghozataláról – az (5) bekezdést kivéve – a megkereső gondoskodik.
 
-(7) A megkeresett az eljárási cselekmény elvégzését követően az eljárási cselekménnyel összefüggő ügyiratokat megküldi a megkeresőnek. A megkereső és a megkeresett eltérő megállapodása hiányában a megkereső gondoskodik az őrizetben lévő személy és a lefoglalt dolgok elszállításáról.
+(7)[^7] A megkeresett az eljárási cselekmény elvégzését követően az eljárási cselekménnyel összefüggő ügyiratokat megküldi a megkeresőnek. A megkereső és a megkeresett eltérő megállapodása hiányában a megkereső gondoskodik az őrizetben lévő személy és a bűnjelek elszállításáról.
 
 (8) Az eljárási cselekménnyel összefüggésben a Be.-ben foglaltak szerint előterjesztett jogorvoslatot a megkeresett – indokolt esetben az elvégzés során keletkezett ügyiratokkal együtt – a megkereső részére továbbítja.
 
-[^5]: A 25. § a 675/2020. (XII. 28.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.
+[^6]: A 25. § a 675/2020. (XII. 28.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.
+[^7]: A 26. § (7) bekezdése a 80/2022. (III. 4.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

@@ -12,6 +12,8 @@
 
 (4) Nemzetközi bűnügyi jogsegélykérelem alapján teljesített eljárási cselekmények ügyiratai együtt vagy – feltüntetve a teljesítés jogsegély jellegét – az eljárási cselekmények jellegének megfelelően külön is kezelhetők.
 
+(4a)[^5] Ha a lefoglalás vagy a zár alá vétel tárgya helyébe a Be. alapján meghatározott összeg vagy más vagyon lép, amelyre a lefoglalás vagy a zár alá vétel külön határozat nélkül kiterjed, akkor az azonos lefoglalásra vagy zár alá vételre vonatkozó ügyiratokat együtt kell kezelni.
+
 (5) Az ügyészség rendelkezése alapján, továbbá ha az ügyiratok átláthatósága, könnyebb kezelhetősége érdekében indokolt, az (1)–(4) bekezdés rendelkezéseitől el lehet térni. Az ügyiratok eltérő rendezése különösen az alábbi esetekben lehet indokolt:
 
 a) több cselekményt érintő eljárásban, ha az egyes cselekményekhez tartozó ügyiratokat célszerű együtt kezelni,
@@ -27,3 +29,5 @@ d) a vizsgálat során keletkezett ügyiratok esetén, ha a vizsgálat kizáról
 (7) Az ügyiratok között elkülönítetten kell kezelni a Be. 102. §-a alapján zártan kezelt, valamint a minősített adatok védelméről szóló törvény szerinti minősített adatot tartalmazó ügyiratokat.
 
 (8) Az eljárás ügyirataitól elkülönítetten kell kezelni azokat az iratokat, amelyek a Be. alapján nem képezik az eljárás ügyiratainak részét.
+
+[^5]: A 12. § (4a) bekezdését a 80/2022. (III. 4.) Korm. rendelet 1. §-a iktatta be.

@@ -1,5 +1,3 @@
-## szerint intézkedik.
-
 ## 54. Az elektronikus adat ideiglenes hozzáférhetetlenné tétele
 
 93. § (1) Az elektronikus adat önkéntes eltávolítása érdekében történő felhívásnak a törvényi feltételek fennállása esetén is csak akkor van helye, ha várható, hogy a szolgáltató azt teljesíti.

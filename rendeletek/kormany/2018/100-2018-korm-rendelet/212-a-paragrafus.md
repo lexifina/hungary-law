@@ -1,4 +1,4 @@
-## XXVI. Fejezet[^43]
+## XXVI. Fejezet[^55]
 
 ## AZ ÜGYÉSZSÉGI NYOMOZÁS SORÁN FELMERÜLT EGYES KÖLTSÉGEK SZABÁLYAI
 
@@ -26,4 +26,4 @@ b) havonta jelentést tesz a felmerült költségekről az országos rendőrfők
 
 (5) A legfőbb ügyész az elfogadott összesített elszámolás alapján kezdeményezi a fejezetek közötti működési célú előirányzat-átadást a Magyar Államkincstárnál.
 
-[^43]: A XXVI. fejezetet (212/A. §) a 675/2020. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
+[^55]: A XXVI. fejezetet (212/A. §) a 675/2020. (XII. 28.) Korm. rendelet 16. §-a iktatta be.

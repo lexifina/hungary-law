@@ -16,6 +16,6 @@ c) a fedőokirat kiállításához, a fedőintézmény létrehozásához, a fed�
 
 (3) Az alkalmazó szerv a (2) bekezdésben meghatározott adatok beszerzése érdekében a (2) bekezdés b) pontjában meghatározott szervvel egyeztethet.
 
-(4)[^42] Ha a fedőokiratot, fedőintézményt vagy fedőadatot nem a Be. 227. §-a alapján készítik, hozzák létre vagy jegyzik be, annak az engedélyezését külön nem kell kérni, illetve a Be. 227. § (2) bekezdése alapján nem kell törölni.
+(4)[^54] Ha a fedőokiratot, fedőintézményt vagy fedőadatot nem a Be. 227. §-a alapján készítik, hozzák létre vagy jegyzik be, annak az engedélyezését külön nem kell kérni, illetve a Be. 227. § (2) bekezdése alapján nem kell törölni.
 
-[^42]: A 199. § (4) bekezdését a 675/2020. (XII. 28.) Korm. rendelet 15. §-a iktatta be.
+[^54]: A 199. § (4) bekezdését a 675/2020. (XII. 28.) Korm. rendelet 15. §-a iktatta be.

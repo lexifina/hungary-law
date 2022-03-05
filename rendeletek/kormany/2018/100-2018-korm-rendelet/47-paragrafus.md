@@ -2,7 +2,7 @@
 
 47. § (1) Ha a büntetőeljárásban részt vevő személy nem magyar anyanyelvű, kérelmére tolmácsot akkor is ki kell rendelni, ha ismeri a magyar nyelvet.
 
-(2)[^6] Ha az eljárási cselekmény során tolmácsot kell igénybe venni, a jegyzőkönyv tartalmazza az alábbiakat is:
+(2)[^11] Ha az eljárási cselekmény során tolmácsot kell igénybe venni, a jegyzőkönyv tartalmazza az alábbiakat is:
 
 a) a tolmács nevét, elérhetőségét és igazolványszámát, ez utóbbi hiányában azonosításához szükséges további személyes adatait,
 
@@ -18,4 +18,4 @@ f) a büntetőeljárásban részt vevő személy nyilatkozatát arról, hogy a t
 
 (3) A nyomozó hatóság lehetőség szerint a tolmács igénybevétele nélkül is meggyőződik arról, hogy a büntetőeljárásban részt vevő személy a tolmácsolást megértette-e.
 
-[^6]: A 47. § (2) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^11]: A 47. § (2) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
