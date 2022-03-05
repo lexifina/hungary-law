@@ -168,9 +168,11 @@ Minden olyan alagút fő szerkezete esetében, ahol a szerkezet helyi beomlása 
 
 Minden alagútban gondoskodni kell a vízellátásról. Tűzcsapokat kell biztosítani a bejáratok közelében és az alagút belsejében, 250 métert meg nem haladó távolságonként. Amennyiben a vízellátás nem biztosított, kötelező annak ellenőrzése, hogy kellő mennyiségű víz áll egyéb módon rendelkezésre.
 
-2.12. Tájékoztató és közúti jelzések
+2.12.[^31] Tájékoztató és közúti jelzések
 
-Az alagút használói számára minden biztonsági létesítményt meghatározott jelzéssel kell ellátni. Az alagutakban alkalmazandó jelzéseket és jelzőtáblákat a 3. melléklet tartalmazza.
+2.12.1. Az alagút használói számára minden biztonsági létesítményt meghatározott jelzéssel kell ellátni. Az alagutakban alkalmazandó jelzéseket és jelzőtáblákat a 3. melléklet tartalmazza.
+
+2.12.2. Az e rendelet hatálya alá tartozó alagutak esetében a közúti jelzőtáblák méreteiről és műszaki követelményeiről szóló miniszteri rendeletben (a továbbiakban: miniszteri rendelet) meghatározott alapméretnél kisebb méretű világító jelzőtáblák is alkalmazhatóak, azzal, hogy a világító jelzőtábla miniszteri rendelet alapján meghatározott alapmérete 600 mm-nél kisebb nem lehet.
 
 2.13. Irányító központ
 
@@ -339,3 +341,4 @@ Az alagutakat használók számára megfelelő helyen tájékoztatást kell elhe
 [^28]: A 18. §-t a 477/2016. (XII. 27.) Korm. rendelet 37. § (3) bekezdése iktatta be.
 [^29]: Az 1. melléklet 1.2. pont 1.2.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 526. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^30]: Az 1. melléklet 1.2. pont 1.2.2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: Az 1. melléklet 2. pont 2.12. alpontja a 67/2022. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
