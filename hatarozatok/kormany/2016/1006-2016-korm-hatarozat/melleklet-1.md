@@ -4,9 +4,9 @@
 
 ## b) elfogadja a 2 melléklet szerint az ott felsorolt projektek kiemelt projektként történő nevesítését,
 
-## c)[^1] egyetért azzal, hogy a GINOP 8. prioritása keretében kihelyezett európai uniós pénzügyi eszköz támogatásokból visszaforgó források terhére elsődlegesen a GINOP 9. prioritása keretében kihelyezett európai uniós pénzügyi eszköz végrehajtásához kapcsolódó pénzügyi közvetítőknek járó irányítási díjak, illetve az alapok alapja végrehajtó szervezeti feladatokkal összefüggő auditált és elismert irányítási költségek, másodsorban a GINOP 8. prioritásának legfeljebb 10,00% mértékű túlvállalása és a túlvállalásra eső auditált és elismert végrehajtási költségek a felhasznált túlvállalási összeg legfeljebb 11,77%-áig kerüljenek finanszírozásra: a visszaforgó forrás felhasználható továbbá a GINOP pénzügyi eszközökhöz kapcsolódó, elismert, de az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről szóló, 2014. március 3-i 480/2014/EU felhatalmazáson alapuló bizottsági rendelet 13. cikkében meghatározott díjazási maximumok miatt ki nem fizethető költségek megtérítésére,
+## c)[^1] egyetért azzal, hogy a GINOP 8. prioritása keretében kihelyezett európai uniós pénzügyi eszköz támogatásokból visszaforgó források terhére elsődlegesen a GINOP 9. prioritása keretében kihelyezett európai uniós pénzügyi eszköz végrehajtásához kapcsolódó pénzügyi közvetítőknek járó irányítási díjak, illetve az alapok alapja végrehajtó szervezeti feladatokkal összefüggő auditált és elismert irányítási költségek, másodsorban a GINOP 8. prioritásának túlvállalására eső auditált és elismert végrehajtási költségek a felhasznált túlvállalási összeg legfeljebb 11,77%-áig kerüljenek finanszírozásra: a visszaforgó forrás felhasználható továbbá a GINOP pénzügyi eszközökhöz kapcsolódó, elismert, de az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről szóló, 2014. március 3-i 480/2014/EU felhatalmazáson alapuló bizottsági rendelet 13. cikkében meghatározott díjazási maximumok miatt ki nem fizethető költségek megtérítésére,
 
-## d)[^2] egyetért azzal, hogy a c) alpont szerinti túlvállalási keret terhére a végső kedvezményezettek felé történő kötelezettségvállalás előfeltétele, hogy a kötelezettségvállalás időpontjában hatályos, az 1. melléklet 8. pontjában foglalt táblázat C oszlopa szerinti felhívás keretösszegbe a túlvállalás tervezett összege betervezésre került.
+## d)[^2]
 
 ## e)[^3] egyetért azzal, hogy a GINOP 9. prioritása keretében kihelyezett európai uniós pénzügyi eszköz végrehajtásához kapcsolódó irányítási díjak, illetve az alapok alapja végrehajtó szervezeti feladatokkal összefüggő auditált és elismert végrehajtási irányítási költségek a hazai költségvetés terhére megelőlegezésre kerüljenek, amíg a finanszírozáshoz szükséges visszaforgó források nem állnak rendelkezésre,
 
@@ -54,13 +54,15 @@
 
 ## q)[^21] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 1844/2021. (XI. 30.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 2., 2d., 12. és 18e. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
 
+## r)[^22] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 1110/2022. (III. 4.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 18e., 25. és 25c. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
+
 ## során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^22]
+## 3.[^23]
 
-1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^23]
+1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^24]
 
 ## A GINOP éves fejlesztési kerete
 
@@ -72,7 +74,7 @@
 
 | 2. | GINOP-1.1.1-18 | Vállalkozói inkubációs szolgáltatások fejlesztésének támogatása | 2,39 | egyszerűsített | Meghirdetve 2018. szeptemberben |
 
-| 3. | GINOP-1.1.2-VEKOP-17 | KKV szektor hatékonyságának növelése pénzügyi ismeretek és vállalkozói mentorálás elérhetőségének biztosítása révén | 3,30 [ebből Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP): 0,29] | kiemelt | Meghirdetve 2017. októberben |
+| 3. | GINOP-1.1.2-VEKOP-17 | KKV szektor hatékonyságának növelése pénzügyi ismeretek és vállalkozói mentorálás elérhetőségének biztosítása révén | 3,65 [ebből Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP): 0,32] | kiemelt | Meghirdetve 2017. októberben |
 
 | 3a. | GINOP-1.1.3-16 | Modern Mintaüzem Program I. – mikro-, kis- és középvállalkozások üzletviteli folyamatainak megújítása, valamint a digitális és automatizációs fejlesztések élénkítése | 4,53 | kiemelt | Meghirdetve 2017. januárban |
 
@@ -252,9 +254,9 @@
 
 | 4. | GINOP-4.1.3-19 | Napelemes rendszer telepítésének támogatása mikro-, kis- és középvállalkozásoknak | 3,60 | egyszerűsített | Meghirdetve 2019. májusban |
 
-| 5. | GINOP-4.1.4-19 | Megújuló energia használatát, energiahatékonyság növelését célzó épületenergetikai fejlesztések támogatása | 56,46 | standard | Meghirdetve 2019. októberben |
+| 5. | GINOP-4.1.4-19 | Megújuló energia használatát, energiahatékonyság növelését célzó épületenergetikai fejlesztések támogatása | 44,46 | standard | Meghirdetve 2019. októberben |
 
-| 6. |  |  |  |  |  |
+| 6. | GINOP-4.1.5-22 | Energiahatékonyság növelését célzó épületenergetikai fejlesztések támogatása kkv-k részére | 12,00 | egyszerűsített | 2022. március |
 
 | 7. |  |  |  |  |  |
 
@@ -264,7 +266,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-5.1.1-15 | Út a munkaerőpiacra | 246,61 | kiemelt | Meghirdetve 2015. szeptemberben |
+| 2. | GINOP-5.1.1-15 | Út a munkaerőpiacra | 244,46 | kiemelt | Meghirdetve 2015. szeptemberben |
 
 | 3. | GINOP-5.1.2-15 | Társadalmi célú vállalkozások ösztönzése – támogató szolgáltatások | 2,80 | kiemelt | Meghirdetve 2015. decemberben |
 
@@ -272,35 +274,35 @@
 
 | 5. | GINOP-5.1.4-17 | Tranzitfoglalkoztatási programok támogatása | 2,53 | standard | Meghirdetve 2017. februárban |
 
-| 6. | GINOP-5.1.5-16 | Nem állami szervezetek munkaerő-piaci szolgáltatásainak támogatása | 5,437 | standard | Meghirdetve 2017. februárban |
+| 6. | GINOP-5.1.5-16 | Nem állami szervezetek munkaerő-piaci szolgáltatásainak támogatása | 5,387 | standard | Meghirdetve 2017. februárban |
 
-| 6a. | GINOP-5.1.7-17 | Társadalmi célú vállalkozások ösztönzése | 17,314 | egyszerűsített | Meghirdetve 2017. márciusban |
+| 6a. | GINOP-5.1.7-17 | Társadalmi célú vállalkozások ösztönzése | 17,111 | egyszerűsített | Meghirdetve 2017. márciusban |
 
 | 6b. |  |  |  |  |  |
 
 | 6c. | GINOP-5.1.9-17 | Álláskeresők és fiatalok vállalkozóvá válásának ösztönzése – képzés és mentorálás | 5,97 | standard | Meghirdetve 2017. márciusban |
 
-| 6d. | GINOP-5.1.10-18 | Álláskeresők vállalkozóvá válásának támogatása | 13,57 | kiemelt | Meghirdetve 2018. novemberben |
+| 6d. | GINOP-5.1.10-18 | Álláskeresők vállalkozóvá válásának támogatása | 13,41 | kiemelt | Meghirdetve 2018. novemberben |
 
 | 7. | GINOP-5.2.1-14 | Ifjúsági Garancia | 172,27 | kiemelt | Meghirdetve 2014. októberben |
 
 | 8. | GINOP-5.2.2-14 | Fiatalok vállalkozóvá válásának ösztönzése | 1,05 | standard | Meghirdetve 2014. októberben |
 
-| 9. | GINOP-5.2.3-16 | Fiatalok vállalkozóvá válása – Vállalkozás indítási költségeinek támogatása | 1,80 | egyszerűsített | Meghirdetve 2016. áprilisban |
+| 9. | GINOP-5.2.3-16 | Fiatalok vállalkozóvá válása – Vállalkozás indítási költségeinek támogatása | 1,78 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
-| 10. | GINOP-5.2.4-16 | Gyakornoki program pályakezdők támogatására | 22,11 | egyszerűsített | Meghirdetve 2016. februárban |
+| 10. | GINOP-5.2.4-16 | Gyakornoki program pályakezdők támogatására | 22,03 | egyszerűsített | Meghirdetve 2016. februárban |
 
 | 10a. | GINOP-5.2.4-19 | Új gyakornoki program | 1,27 | egyszerűsített | Meghirdetve 2019. szeptemberben |
 
 | 11. | GINOP-5.2.5-16 | Gyakornoki program – Támogató szolgáltatások | 2,00 | kiemelt | Meghirdetve 2016. februárban |
 
-| 11a. | GINOP-5.2.7-18 | Fiatalok vállalkozóvá válásának támogatása | 26,65 | kiemelt | Meghirdetve 2018. novemberben |
+| 11a. | GINOP-5.2.7-18 | Fiatalok vállalkozóvá válásának támogatása | 26,18 | kiemelt | Meghirdetve 2018. novemberben |
 
 | 11b. |  |  |  |  |  |
 
 | 12. | GINOP-5.3.1-14 | A rugalmas foglalkoztatás elterjesztése a konvergencia régiókban | 2,00 | standard | Meghirdetve 2014. októberben |
 
-| 13. | GINOP-5.3.2-16 | A rugalmas foglalkoztatás elterjesztése a konvergencia régiókban – rugalmas, családbarát foglalkoztatási módszerek bevezetése a munkáltatóknál | 6,18 | egyszerűsített | Meghirdetve 2016. februárban |
+| 13. | GINOP-5.3.2-16 | A rugalmas foglalkoztatás elterjesztése a konvergencia régiókban – rugalmas, családbarát foglalkoztatási módszerek bevezetése a munkáltatóknál | 6,16 | egyszerűsített | Meghirdetve 2016. februárban |
 
 | 14. | GINOP-5.3.3-15 | Jogszerű foglalkoztatást célzó szolgáltatásnyújtás támogatása | 3,45 | standard | Meghirdetve 2015. augusztusban |
 
@@ -310,7 +312,7 @@
 
 | 15a. | GINOP-5.3.5-18 | Munkaerő-piaci alkalmazkodóképesség fejlesztését célzó tematikus projektek | 4,06 | standard | Meghirdetve 2018. szeptemberben |
 
-| 16. | GINOP-5.3.6-17 | Vállalati felelősségvállalás ösztönzése és állásfeltárás | 2,677 | kiemelt | Meghirdetve 2017. februárban |
+| 16. | GINOP-5.3.6-17 | Vállalati felelősségvállalás ösztönzése és állásfeltárás | 2,411 | kiemelt | Meghirdetve 2017. februárban |
 
 | 16a. | GINOP-5.3.7-VEKOP-17 | Jogszerű foglalkoztatás fejlesztése | 3,80 (ebből VEKOP: 1,056) | kiemelt | Meghirdetve 2017. márciusban |
 
@@ -320,15 +322,15 @@
 
 | 19. | GINOP-5.3.10- VEKOP-17 | A strukturális változásokhoz való alkalmazkodás segítése | 29,65 (ebből VEKOP: 8,24) | kiemelt | Meghirdetve 2017. márciusban |
 
-| 20. | GINOP-5.3.11-18 | Kisgyermeket nevelők munkaerőpiaci visszatérésének támogatása | 3,00 | kiemelt | Meghirdetve 2018. októberben |
+| 20. | GINOP-5.3.11-18 | Kisgyermeket nevelők munkaerőpiaci visszatérésének támogatása | 2,47 | kiemelt | Meghirdetve 2018. októberben |
 
-| 21. | GINOP-5.3.12-19 | Foglalkoztatás-bővítés ösztönzése | 15,98 | egyszerűsített | Meghirdetve 2019. decemberben |
+| 21. | GINOP-5.3.12-19 | Foglalkoztatás-bővítés ösztönzése | 15,95 | egyszerűsített | Meghirdetve 2019. decemberben |
 
 | 22. | GINOP-5.3.13-20 | Kisgyermeket nevelő szülők képzésének elősegítése, ösztöndíja és elhelyezkedésük támogatása | 3,00 | kiemelt | Meghirdetve 2020. januárban |
 
 | 23. | GINOP-5.3.16- VEKOP-20 | Veszélyhelyzeti bértámogatás kutatásfejlesztési munkahelymegőrzés céljából | 28,80 (ebből VEKOP: 18,69) | kiemelt | Meghirdetve 2020. augusztusban |
 
-| 24. | GINOP-5.3.17-21 | KKV kapacitásbővítő támogatás | 17,85 | kiemelt | Meghirdetve 2021. júliusban |
+| 24. | GINOP-5.3.17-21 | KKV kapacitásbővítő támogatás | 21,82 | kiemelt | Meghirdetve 2021. júliusban |
 
 6. A versenyképes munkaerőről szóló 6. prioritás
 
@@ -336,7 +338,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-6.1.1-15 | Alacsony képzettségűek és közfoglalkoztatottak képzése | 35,75 | kiemelt | Meghirdetve 2015. augusztusban |
+| 2. | GINOP-6.1.1-15 | Alacsony képzettségűek és közfoglalkoztatottak képzése | 35,42 | kiemelt | Meghirdetve 2015. augusztusban |
 
 | 3. | GINOP-6.1.2-15 | A digitális szakadék csökkentése | 22,90 | kiemelt | Meghirdetve 2015. áprilisban |
 
@@ -344,11 +346,11 @@
 
 | 5. | GINOP-6.1.4-16 | Munkaerőpiaci kompetenciák fejlesztése a konvergencia régiókban | 7,24 | kiemelt | Meghirdetve 2016. decemberben |
 
-| 6. | GINOP-6.1.5-17 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 5,719 | egyszerűsített | Meghirdetve 2017. márciusban |
+| 6. | GINOP-6.1.5-17 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 5,387 | egyszerűsített | Meghirdetve 2017. márciusban |
 
-| 7. | GINOP-6.1.6-17 | Munkahelyi képzések támogatása mikro-, kis- és középvállalatok munkavállalói számára | 11,49 | egyszerűsített | Meghirdetve 2017. márciusban |
+| 7. | GINOP-6.1.6-17 | Munkahelyi képzések támogatása mikro-, kis- és középvállalatok munkavállalói számára | 10,91 | egyszerűsített | Meghirdetve 2017. márciusban |
 
-| 7a. | GINOP-6.1.7-17 | Munkahelyi képzések támogatása mikro-, kis-, közép- és nagyvállalatok munkavállalói számára indított képzések szakmai támogató programja | 2,02 | kiemelt | Meghirdetve 2017. márciusban |
+| 7a. | GINOP-6.1.7-17 | Munkahelyi képzések támogatása mikro-, kis-, közép- és nagyvállalatok munkavállalói számára indított képzések szakmai támogató programja | 1,98 | kiemelt | Meghirdetve 2017. márciusban |
 
 | 7b. | GINOP-6.1.8-18 | Vállalati Képző Központok rendszerének kialakítása és működtetése | 0,170 | standard | Meghirdetve 2018. márciusban |
 
@@ -360,19 +362,19 @@
 
 | 8. | GINOP-6.2.1 VEKOP-15 | Részvétel az OECD Felnőttek Képesség- és Kompetenciamérése programjában (PIAAC) | 2,20 (ebből VEKOP: 0,60) | kiemelt | Meghirdetve 2015. augusztusban |
 
-| 9. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 2,80 (ebből VEKOP: 0,76) | kiemelt | Meghirdetve 2015. decemberben |
+| 9. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 2,412 (ebből VEKOP: 0,660) | kiemelt | Meghirdetve 2015. decemberben |
 
 | 10. | GINOP-6.2.3-17 | A szakképzési intézményrendszer átfogó fejlesztése | 20,331 | standard | Meghirdetve 2017. márciusban |
 
-| 11. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 13,50 (ebből VEKOP: 3,697) | kiemelt | Meghirdetve 2016. májusban |
+| 11. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 13,888 (ebből VEKOP: 3,803) | kiemelt | Meghirdetve 2016. májusban |
 
 | 12. | GINOP-6.2.5-VEKOP-19 | A szakmai képzés digitális módszertanának egységesítése | 1,66 (ebből VEKOP: 0,455) | kiemelt | Meghirdetve 2019. szeptemberben |
 
 | 13. | GINOP-6.2.6-20 | Ágazati képzőközpontok, okos struktúrák és képzőhely alternatívák | 3,261 | kiemelt | Meghirdetve 2020. márciusban |
 
-| 14. | GINOP-6.2.7-20 | Ágazati képzőközpontok infrastrukturális és szakmai felkészítése az új szakképzési struktúrára | 8,04 | standard | Meghirdetve 2020. augusztusban |
+| 14. | GINOP-6.2.7-20 | Ágazati képzőközpontok infrastrukturális és szakmai felkészítése az új szakképzési struktúrára | 8,59 | standard | Meghirdetve 2020. augusztusban |
 
-| 15. | GINOP-6.2.8- VEKOP-20 | Egyes szakmák digitális tananyagfejlesztése | 11,70 (ebből VEKOP: 3,20) | kiemelt | Meghirdetve 2020. júliusban |
+| 15. | GINOP-6.2.8- VEKOP-20 | Egyes szakmák digitális tananyagfejlesztése | 12,70 (ebből VEKOP: 3,477) | kiemelt | Meghirdetve 2020. júliusban |
 
 | 16. | GINOP-6.2.9- VEKOP-20 | Ösztönzőrendszer kialakítása a szakképzésben | 4,00 (ebből VEKOP: 1,095) | kiemelt | Meghirdetve 2020. decemberben |
 
@@ -430,21 +432,21 @@
 
 | 8c. | GINOP-8.2.7-18 | Digitális Jólét Pénzügyi Program – tőkeprogram | 7,27 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2018. júliusban |
 
-| 9. | GINOP-8.3.1-16 | Mikro-, kis-és középvállalkozások versenyképességének növelése hitel | 68,49 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. májusban |
+| 9. | GINOP-8.3.1-16 | Mikro-, kis-és középvállalkozások versenyképességének növelése hitel | 67,20 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. májusban |
 
 | 10. |  |  |  |  |  |  |  |
 
-| 11. | GINOP-8.3.3-17 | Irinyi tőkeprogram | 7,76 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
+| 11. |  |  |  |  |  |  |  |
 
 | 12. | GINOP-1.2.3-8.3.4-16 | Mikro-, kis-és középvállalkozások kapacitásbővítő beruházásainak támogatása kombinált hiteltermék keretében | 57,62 | GINOP-1.2.3- 8.3.4-16 | 25,07 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 13. | GINOP-1.2.6-8.3.4-16 | Élelmiszeripari komplex beruházások támogatása kombinált hiteltermékkel | 21,17 | GINOP-1.2.6- 8.3.4-16 | 18,83 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 13a. | GINOP-8.3.5-18 | Mikro-, kis- és középvállalkozások technológiai korszerűsítése célú hitel | 295,88 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2018. szeptemberben |
+| 13a. | GINOP-8.3.5-18 | Mikro-, kis- és középvállalkozások technológiai korszerűsítése célú hitel | 303,08 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2018. szeptemberben |
 
 | 14. | GINOP-4.1.1-8.4.4-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hiteltermékkel | 3,51 | GINOP-4.1.1- 8.4.4-16 | 3,31 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
-| 15. | GINOP-8.4.1/A-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 78,19 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. februárban |
+| 15. | GINOP-8.4.1/A-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 79,49 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. februárban |
 
 | 16. | GINOP-8.4.1/B-16 | KKV energia hitel | 48,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
@@ -472,8 +474,8 @@
 
 | 2. | GINOP-10.1.1-21 | Ágazati bértámogatás a COVID–19 járvány munkaerőpiaci hatásainak kezelésére | 84,00 | kiemelt | Meghirdetve 2021. októberben |
 
-[^1]: Az 1. pont c) alpontját az 1201/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be, szövege az 1067/2021. (II. 19.) Korm. határozat 1. pontjával megállapított, az 1844/2021. (XI. 30.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1. pont c) alpontjának az 1585/2021. (VIII. 11.) Korm. határozat 4. pontjával elrendelt módosítása, amely szerint a „10,00%” szövegrész helyébe a „10,28%” szöveg lép, nem vezethető át.]
-[^2]: Az 1. pont d) alpontját az 1169/2020. (IV. 21.) Korm. határozat 1. pontja iktatta be.
+[^1]: Az 1. pont c) alpontját az 1201/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be, szövege az 1067/2021. (II. 19.) Korm. határozat 1. pontjával megállapított, az 1844/2021. (XI. 30.) Korm. határozat 3. pontja, az 1110/2022. (III. 4.) Korm. határozat 2. pontja szerint módosított szöveg. [Az 1. pont c) alpontjának az 1585/2021. (VIII. 11.) Korm. határozat 4. pontjával elrendelt módosítása, amely szerint a „10,00%” szövegrész helyébe a „10,28%” szöveg lép, nem vezethető át.]
+[^2]: Az 1. pont d) alpontját az 1169/2020. (IV. 21.) Korm. határozat 1. pontja iktatta be, az 1110/2022. (III. 4.) Korm. rendelet 6. pontja hatályon kívül helyezte.
 [^3]: Az 1. pont e) alpontját az 1067/2021. (II. 19.) Korm. határozat 2. pontja iktatta be.
 [^4]: Az 1. pont f) alpontját az 1067/2021. (II. 19.) Korm. határozat 2. pontja iktatta be.
 [^5]: Az 1. pont g) alpontját az 1585/2021. (VIII. 11.) Korm. határozat 1. pontja iktatta be.
@@ -493,5 +495,6 @@
 [^19]: Az 1/A. pont o) alpontját az 1310/2021. (V. 26.) Korm. határozat 1. pontja iktatta be.
 [^20]: Az 1/A. pont p) alpontját az 1585/2021. (VIII. 11.) Korm. határozat 2. pontja iktatta be.
 [^21]: Az 1/A. pont q) alpontját az 1844/2021. (XI. 30.) Korm. határozat 1. pontja iktatta be.
-[^22]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja, az 1474/2020. (VIII. 7.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1628/2020. (X. 1.) Korm. határozat 3. pontja, az 1735/2020. (XI. 2.) Korm. határozat 3. pontja, az 1827/2020. (XI. 19.) Korm. határozat 3. pont a) alpontja, az 1942/2020. (XII. 17.) Korm. határozat 3. pontja, az 1966/2020. (XII. 21.) Korm. határozat 3. pontja, a 2021/2020. (XII. 24.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1067/2021. (II. 19.) Korm. határozat 3–4. pontja, az 1248/2021. (V. 6.) Korm. rendelet 3. pontja, az 1310/2021. (V. 26.) Korm. határozat 3. pontja, az 1397/2021. (VI. 24.) Korm. határozat 3. pontja, az 1445/2021. (VII. 6.) Korm. határozat 3. pontja, az 1479/2021. (VII. 15.) Korm. határozat 3. pontja, az 1500/2021. (VII. 23.) Korm. határozat 3. pontja, az 1585/2021. (VIII. 11.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1844/2021. (XI. 30.) Korm. határozat 4. pontja szerint módosított szöveg. [Az 1. mellékletnek az 1844/2021. (XI. 30.) Korm. határozat 4. pont 4.1. alpont 4.1.2. alpontjával elrendelt módosítása nem vezethető át.]
+[^22]: Az 1/A. pont r) alpontját az 1110/2022. (III. 4.) Korm. határozat 1. pontja iktatta be.
+[^23]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja, az 1474/2020. (VIII. 7.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1628/2020. (X. 1.) Korm. határozat 3. pontja, az 1735/2020. (XI. 2.) Korm. határozat 3. pontja, az 1827/2020. (XI. 19.) Korm. határozat 3. pont a) alpontja, az 1942/2020. (XII. 17.) Korm. határozat 3. pontja, az 1966/2020. (XII. 21.) Korm. határozat 3. pontja, a 2021/2020. (XII. 24.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1067/2021. (II. 19.) Korm. határozat 3–4. pontja, az 1248/2021. (V. 6.) Korm. rendelet 3. pontja, az 1310/2021. (V. 26.) Korm. határozat 3. pontja, az 1397/2021. (VI. 24.) Korm. határozat 3. pontja, az 1445/2021. (VII. 6.) Korm. határozat 3. pontja, az 1479/2021. (VII. 15.) Korm. határozat 3. pontja, az 1500/2021. (VII. 23.) Korm. határozat 3. pontja, az 1585/2021. (VIII. 11.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1844/2021. (XI. 30.) Korm. határozat 4. pontja, az 1110/2022. (III. 4.) Korm. határozat 3–4. pontja szerint módosított szöveg. [Az 1. mellékletnek az 1844/2021. (XI. 30.) Korm. határozat 4. pont 4.1. alpont 4.1.2. alpontjával elrendelt módosítása nem vezethető át.]
