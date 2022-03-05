@@ -10,9 +10,11 @@
 
 (5)[^7] A Kormány az 1. melléklet 3.1.2. pontja szerinti beruházás esetén a 2. melléklet 4a. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
 
-(6)[^8] Az 1. melléklet 1.1.66., 1.2.68., 1.2.77., 1.2.101., 2.1.34., 2.1.113., 3.2.7., 3.2.8., 3.2.10. és 3.2.17. pontjában meghatározott beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet az R. 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+(6)[^8] Az 1. melléklet 1.1.33., 1.1.66., 1.2.68., 1.2.77., 1.2.101., 1.3.134., 2.1.12., 2.1.34., 2.1.62., 2.1.113., 2.1.125–2.1.127., 3.2.7., 3.2.8., 3.2.10. és 3.2.17. pontjában meghatározott beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet az R. 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
 
 (7)[^9] A Kormány az 1. melléklet 1.2.29. és 1.2.132. pontjában meghatározott beruházás esetén a 2. melléklet 9. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Megyei Kormányhivatalt jelöli ki.
+
+(8)[^10] A Kormány az 1. melléklet 2.1.90. pontjában meghatározott beruházás esetén a 2. melléklet 9. és 10. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Megyei Kormányhivatalt jelöli ki.
 
 [^1]: Az 1. § a 355/2016. (XI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 236/2020. (V. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -21,5 +23,6 @@
 [^5]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 62. § a) pontja hatályon kívül helyezte, újonnan a 289/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be, szövege a 236/2020. (V. 26.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (4) bekezdését újonnan a 289/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be, szövege a 14/2019. (II. 11.) Korm. rendelet 1. §-a, a 236/2020. (V. 26.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (5) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 62. § b) pontja, a 236/2020. (V. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^8]: Az 1. § (6) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 62. § c) pontja hatályon kívül helyezte, újonnan a 236/2020. (V. 26.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 210/2021. (IV. 29.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (6) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 62. § c) pontja hatályon kívül helyezte, újonnan a 236/2020. (V. 26.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 68/2022. (II. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: Az 1. § (7) bekezdését a 236/2020. (V. 26.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 210/2021. (IV. 29.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. § (8) bekezdését a 68/2022. (II. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.

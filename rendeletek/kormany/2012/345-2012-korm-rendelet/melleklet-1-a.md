@@ -454,6 +454,16 @@
 
 ## 1.2.143. A 38. számú főút Tarcal–Tokaj közötti szakasz felújítása.
 
+## 1.2.144. Nyíregyháza északi elkerülő út megvalósítása.
+
+## 1.2.145. 39. számú főút Encs és Tiszanagyfalu közötti szakaszának megvalósítása új Tisza-híddal.
+
+## 1.2.146. Dunavarsány kétirányú elkerülését biztosító elkerülő út megvalósítása.
+
+## 1.2.147. Kiskunlacháza északi elkerülő út megvalósítása.
+
+## 1.2.148. Debrecen keleti elkerülő út megvalósítása.
+
 ## 1.3. Mellékutak
 
 ## 1.3.1. A 74176. jelű út (Kercaszomor–országhatár) fejlesztése.
@@ -588,7 +598,7 @@
 
 ## 1.3.66. A 8527. jelű összekötő út Sopron és Fertőrákos közötti szakasz felújítása.
 
-## 1.3.67. A 8526. jelű összekötő út Sopron-Balf és Fertőrákos közötti szakasz fejlesztése, kerékpárút megvalósításával.
+## 1.3.67. A 8526. jelű összekötő út Kópháza–Fertőrákos közötti szakasz fejlesztése, kerékpárút megvalósításával.
 
 ## 1.3.68. A 8532. jelű Sopronkőhida és Sopronkőhida, országhatár összekötő út fejlesztése.
 
@@ -719,6 +729,14 @@
 ## 1.3.131. A 81129. jelű bekötőút 0+000 – 1+846 km szelvények közötti szakasz felújítása.
 
 ## 1.3.132. A 8156. jelű Tatabánya–Vértessomló összekötő út fejlesztése.
+
+## 1.3.133. Göd város közigazgatási területén kijelölt ipari-innovációs fejlesztési terület kialakításával összefüggő közúti infrastruktúra-fejlesztések.
+
+## 1.3.134. Az iváncsai ipari-innovációs fejlesztési területhez kapcsolódó közúti infrastruktúra fejlesztésének tervezése és kivitelezése.
+
+## 1.3.135. Debrecen, 4814. jelű út Vágóhíd utcai vasúti felüljáró és a Vágóhíd utca 2×2 sávos kapacitásbővítése.
+
+## 1.3.136. 1133. jelű út felújítása és Piliscsaba nyugati (1133 jelű út – 10. számú főút között) elkerülő út megvalósítása.
 
 ## 1.4. Csomóponti és közlekedésbiztonsági beavatkozások
 
@@ -926,6 +944,10 @@
 
 ## 1.4.102. Nagykáta, 31. – 311. számú főúti csomópont körforgalmú csomóponttá történő átépítése.
 
+## 1.4.103. Újkígyós, 4431–4432. jelű úti csomópont átépítése.
+
+## 1.4.104. Gyula, 44. számú főút – 4431. jelű úti csomópont átépítése.
+
 ## 1.5. Hidak
 
 ## 1.5.1. A kisunyomi Sorok-patak-híd fejlesztése.
@@ -979,6 +1001,8 @@
 ## 1.5.25. A lenti Malom-patak-híd fejlesztése.
 
 ## 1.5.26. Göd, új felüljáró megvalósítása az M2 autóút felett.
+
+## 1.5.27. Olcsva–Olcsvaapáti között új Szamos-híd megvalósítása.
 
 ## 1.6. Határátkelőhelyek közúti akadálymentesítése
 
@@ -1596,6 +1620,10 @@
 
 ## 1.8.272. Vértesszőlős–Vértestolna kerékpárút fejlesztése.
 
+## 1.8.273. Hódmezővásárhely – külterületi kerékpárutak fejlesztése.
+
+## 1.8.274. Cegléd–Csemő kerékpárút fejlesztése.
+
 ## 2. Vasúti projektek
 
 ## 2.1. Országos vasúti közlekedési projektek
@@ -1612,7 +1640,7 @@
 
 ## 2.1.6. A 36. számú vasútvonal, Fonyód–Kaposvár szakasz rekonstrukciója.
 
-## 2.1.7. A 80. és 100c. számú vasútvonalak, Rákos–Hatvan–Miskolc–Nyíregyháza szakasz rekonstrukciója.
+## 2.1.7. A 80. számú vasútvonal, Rákos–Hatvan szakasz rekonstrukciója.
 
 ## 2.1.8. A budapesti elővárosi vasútvonalak rekonstrukciója.
 
@@ -1622,7 +1650,7 @@
 
 ## 2.1.11. A 30. számú vasútvonal, Budapest-Kelenföld–Székesfehérvár szakasz rekonstrukciója.
 
-## 2.1.12. A 25. számú vasútvonal, Zalalövő–Zalaegerszeg–Boba szakasz rekonstrukciója.
+## 2.1.12. A 25. számú vasútvonal, Zalaszentiván–Zalaegerszeg szakasz korszerűsítésének tervezése és kivitelezése.
 
 ## 2.1.13. A 25. számú vasútvonal, Bajánsenye–Boba ETCS2 vonatbefolyásoló rendszer kiépítése.
 
@@ -1722,7 +1750,7 @@
 
 ## 2.1.61. Vámosgyörk–Nagyút–Mezőkeresztes–Mezőnyárád szűk keresztmetszet kiváltás (állomások).
 
-## 2.1.62. A 17. számú vasútvonal, Zalaszentiván–Nagykanizsa szűk keresztmetszet kiváltása és villamosítás.
+## 2.1.62. A 17. számú vasútvonal, Zalaszentiván–Nagykanizsa szakasz korszerűsítésének tervezése és kivitelezése.
 
 ## 2.1.63. Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán.
 
@@ -1844,7 +1872,25 @@
 
 ## 2.1.122. A 100. számú vasútvonal, Nyíregyháza – Záhony szakasz fejlesztése.
 
-## 2.1.123. Budapest, külső körvasúti vasúti megállóhelyek kiépítése (Albertfalva, Pestújhely, Újpalota, Rákosfalva, Rákosszentmihály).
+## 2.1.123. Budapest, külső körvasúti megállóhelyek (Pestújhely, Újpalota, Rákosfalva, Rákosszentmihály), valamint Albertfalva (40a) megállóhely kiépítése, fejlesztése.
+
+## 2.1.124. A gödi ipari-innovációs fejlesztési területhez kapcsolódó vasúti infrastruktúra fejlesztése.
+
+## 2.1.125. Az iváncsai ipari-innovációs fejlesztési területhez kapcsolódó vasúti infrastruktúra fejlesztésének tervezése és kivitelezése.
+
+## 2.1.126. A 29. számú vasútvonal, Szabadbattyán–Tapolca–Keszthely szűk keresztmetszet kiváltása, villamosítás és központi forgalomirányítás megvalósítása a Balaton körül II. ütem Balatonfüred–Tapolca–Keszthely/Ukk vonalszakaszok korszerűsítésének tervezése és kivitelezése.
+
+## 2.1.127. A 80. számú vasútvonal, Hatvan–Füzesabony szakasz korszerűsítésének tervezése és kivitelezése.
+
+## 2.1.128. A 80. számú vasútvonal, Füzesabony–Mezőzombor szakasz rekonstrukciója.
+
+## 2.1.129. A 100c. számú vasútvonal, Mezőzombor–Nyíregyháza szakasz rekonstrukciója.
+
+## 2.1.130. A 25. számú vasútvonal, Zalalövő–Zalaegerszeg szakasz korszerűsítése.
+
+## 2.1.131. A 25. számú vasútvonal, Zalaszentiván–Boba szakasz korszerűsítése.
+
+## 2.1.132. A 352. számú vasútvonal, Tapolca–Zalahaláp szakasz forgalomba helyezése.
 
 ## 2.2. Helyi érdekeltségű keskeny nyomközű vasúti közlekedési projektek
 
@@ -1924,7 +1970,7 @@
 
 ## 3.2.12. Szombathely megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
 
-## 3.2.13. Zalaegerszeg megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
+## 3.2.13. Zalaegerszegi vasút- és autóbusz-állomások felújítása a NIF Zrt. mint építtető megvalósításában.
 
 ## 3.2.14. Győr megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
 
@@ -1941,6 +1987,8 @@
 ## 3.2.20. Budapest–Esztergom P+R parkolók kapacitásfejlesztése.
 
 ## 3.2.21. A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten.
+
+## 3.2.22. A budapesti agglomeráció közlekedési módváltását elősegítő elővárosi vasútállomások és megállóhelyek elérhetőségének, valamint személygépjármű-parkoló és kerékpártároló létesítményeinek (P+R, B+R) fejlesztése.
 
 ## 3.3. Egyéb létesítmények
 
@@ -1959,6 +2007,8 @@
 ## 3.3.7. Paks város közösségi közlekedésének fejlesztése.
 
 ## 3.3.8. Pécs megyei jogú város közösségi közlekedésének fejlesztése.
+
+## 3.3.9. A Magyar Műszaki és Közlekedési Múzeum megközelítését szolgáló közúti és vasúti közlekedési infrastruktúra-fejlesztések.
 
 ## 3.4. Helyi közúti közlekedési projektek
 
@@ -1997,6 +2047,8 @@
 ## 3.4.17. Szeged, Nagykörút Alsóváros és Újszeged közötti szakasz (új Tisza-híd) megvalósítása.
 
 ## 3.4.18. Szentgotthárd, M80 Szentgotthárdi csomópontjához csatlakozó iparterület feltáró út fejlesztése.
+
+## 3.4.19. A Zsámbéki-medence autóbuszos közlekedésének fejlesztése.
 
 ## 4. Országos vízi közlekedési projektek
 
@@ -2044,6 +2096,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^56]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^63]
 
-[^56]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^63]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
