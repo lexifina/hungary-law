@@ -1,4 +1,4 @@
-## 88. §[^254] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő kormányrendeletek módosításáról szóló 73/2022. (III. 2.) Korm. rendelettel (a továbbiakban: Módr80.) megállapított 5/C. §-át, 5/D. §-át, továbbá módosított 3. § (3) és (4) bekezdését, 4. § (1) és (2) bekezdését, 5. § (2) bekezdését, 6/G. § (1) és (2) bekezdését és 2. mellékletében foglalt táblázat 90. sorát a Módr80. hatálybalépésekor[^255] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 89. §[^256] E rendeletnek a dohánytermékek nyomonkövethetőségéről és biztonsági eleméről szóló 72/2018. (IV. 16.) Korm. rendelet és az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 81/2022. (III. 4.) Korm. rendelettel (a továbbiakban: Módr81.) megállapított 2. mellékletében foglalt táblázat 91. sorát a Módr81. hatálybalépésekor[^257] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^256] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^258] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^254]: A 88. §-t a 73/2022. (III. 2.) Korm. rendelet 6. §-a iktatta be.
-[^255]: A hatálybalépés időpontja 2022. március 3.
-[^256]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^256]: A 89. §-t a 81/2022. (III. 4.) Korm. rendelet 2. §-a iktatta be.
+[^257]: A hatálybalépés időpontja 2022. március 5.
+[^258]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
