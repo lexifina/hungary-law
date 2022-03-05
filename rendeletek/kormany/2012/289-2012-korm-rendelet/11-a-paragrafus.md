@@ -1,4 +1,4 @@
-11/A. §[^19] (1) A kérelmező az építési engedély iránti kérelmének benyújtásával egyidejűleg nyilatkozik arról, hogy a rendszerintegritás biztosítása érdekében
+11/A. §[^21] (1) A kérelmező az építési engedély iránti kérelmének benyújtásával egyidejűleg nyilatkozik arról, hogy a rendszerintegritás biztosítása érdekében
 
 a) részben vagy egészben a Vtv. 2. § 1.16. pontja szerinti nemzeti ajánlásokban (a továbbiakban: rendszerintegritási nemzeti ajánlások) foglaltak szerint jár el, vagy
 
@@ -18,4 +18,4 @@ d) a rendszerintegritási megfelelőségértékelési szervezet által kiállít
 
 (4) Az alternatív megoldás alkalmazását a vasúti közlekedési hatóság az építési engedély megadása által akkor engedélyezi, ha az alternatív megoldás legalább a rendszerintegritási nemzeti ajánlásokban meghatározott megoldással azonos biztonsági szintet biztosít.
 
-[^19]: A 11/A. §-t a 632/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^21]: A 11/A. §-t a 632/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.

@@ -16,6 +16,9 @@
 
 8.[^5] vasúti híd: olyan vasúti pályatartozék, amely vasúti terhet visel, vasúti pálya alatti szabad nyílást hidal át, és amelynek belső átmérője, vagy a hídfőkre vagy hídfalazatokra merőlegesen mért nyílása két méternél nagyobb, a vasúti pályát természetes és mesterséges akadályok felett vezeti át.
 
+9.[^6] Országos Vasúti Szabályzat: az Országos Vasúti Szabályzat II. kötetének kiadásáról szóló 18/1998. (VII. 3.) KHVM rendelet, a kötélvontatású személyszállító vasutakról és az Országos Vasúti Szabályzat III. kötetének kiadásáról szóló 26/2003. (IV. 28.) GKM rendelet és a hagyományos vasúti rendszerek kölcsönös átjárhatóságáról szóló 103/2003. (XII. 27.) GKM rendelet.
+
 [^3]: A 2. § 6. pontja a 789/2021. (XII. 27.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § 7. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § 8. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^6]: A 2. § 9. pontját a 67/2022. (II. 28.) Korm. rendelet 6. §-a iktatta be.

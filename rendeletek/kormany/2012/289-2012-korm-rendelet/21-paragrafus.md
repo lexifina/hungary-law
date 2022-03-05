@@ -1,4 +1,4 @@
-21. § (1)[^36] Az építtetőnek a hatósági használatbavétel engedélyezése iránti kérelmet a használatbavétel tervezett időpontja, vagy az építési engedély időbeli hatályának lejárta előtt legalább negyvenöt nappal kell benyújtania a vasúti közlekedési hatósághoz. A kérelemnek – az Ákr.-ben foglaltakon túlmenően – tartalmaznia kell:
+21. § (1)[^38] Az építtetőnek a hatósági használatbavétel engedélyezése iránti kérelmet a használatbavétel tervezett időpontja, vagy az építési engedély időbeli hatályának lejárta előtt legalább negyvenöt nappal kell benyújtania a vasúti közlekedési hatósághoz. A kérelemnek – az Ákr.-ben foglaltakon túlmenően – tartalmaznia kell:
 
 a) az építmény megnevezését,
 
@@ -18,4 +18,4 @@ g) a vasúti építmény vagyonkezelőjének, tulajdonosának és annak a szerve
 
 (3) Saját célú vasúti pályahálózat esetében a vasúti pálya, a vasúti biztosítóberendezés, valamint a vasúti felsővezeték használatbavételi engedély iránti kérelemnek tartalmaznia kell a csatlakozást biztosító csatlakozó vagy összekötő vasúti pálya pályahálózat-működtetőjének hozzájárulását.
 
-[^36]: A 21. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 21. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

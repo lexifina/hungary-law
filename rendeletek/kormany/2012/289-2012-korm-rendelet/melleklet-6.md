@@ -172,8 +172,8 @@
 
 ## e) a világítási berendezés méretezése, fénytechnikai számításai.
 
-6. melléklet a 289/2012. (X. 11.) Korm. rendelethez[^118]
+6. melléklet a 289/2012. (X. 11.) Korm. rendelethez[^122]
 
 A különleges kötöttpályás közlekedési rendszer építmények használatbavételi engedélyezési eljárásaiban benyújtandó iratok
 
-[^118]: A 6. mellékletet a 431/2017. (XII. 20.) Korm. rendelet 54. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
+[^122]: A 6. mellékletet a 431/2017. (XII. 20.) Korm. rendelet 54. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.

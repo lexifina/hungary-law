@@ -1,4 +1,4 @@
-## 8/C. §[^17] Az e rendelet szerinti rendszerintegritási megfelelőségértékelési tevékenységet olyan szervezet végezheti, amely az adott strukturális vasúti alrendszer vonatkozásában hatályos bejelentett szervezeti és kijelölt szervezeti kijelöléssel rendelkezik. A rendszerintegritási megfelelőségértékelést végző szervezet eljárására a vasutak kölcsönös átjárhatóságának és az ezzel kapcsolatos engedélyezési eljárások, valamint a vasúti pályahálózat nyilvántartása vezetésének részletes szabályairól szóló kormányrendeletben, valamint az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó részletes szabályokról szóló miniszteri rendeletben foglaltakat megfelelően alkalmazni kell.
+## 8/D. §[^19] Ha van hatályos vasúti műszaki előírás az engedélykérelem tárgyát képező műszaki megoldásra vonatkozóan, a vasúti közlekedési hatóság az ügyfél kérelmére az Országos Vasúti Szabályzatot a vasúti műszaki előírásban foglalt eltérésekkel alkalmazza.
 
 ## 2. Feltétfüzet alkalmazási engedély
 
@@ -6,4 +6,4 @@
 
 (2) A feltétfüzet alkalmazását a vasúti közlekedési hatóság engedélyezi.
 
-[^17]: A 8/C. §-t a 632/2020. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 8/D. §-t a 67/2022. (II. 28.) Korm. rendelet 7. §-a iktatta be.
