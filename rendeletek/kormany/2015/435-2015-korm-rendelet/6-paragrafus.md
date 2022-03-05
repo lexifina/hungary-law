@@ -1,6 +1,6 @@
 ## 4. A Társaság feladatai
 
-6. §[^10] (1) A Társaság az 1. § (1) bekezdése szerinti projektek tekintetében
+6. §[^11] (1) A Társaság az 1. § (1) bekezdése szerinti projektek tekintetében
 
 a) szükség esetén javaslatot tesz a nemzeti fejlesztési miniszternek és a szakpolitikai felelősnek a projekteket érintő jogszabályok módosítására, együttműködve a projektek tekintetében hatáskörrel rendelkező irányító hatósággal,
 
@@ -32,4 +32,4 @@ b) keretmegállapodásos eljárások esetén a nyertes ajánlattevőkkel – a v
 
 c) elláthatja a projektek megvalósításával kapcsolatos tervezési és műszaki ellenőri feladatokat.
 
-[^10]: A 6. § az 57/2017. (III. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^11]: A 6. § az 57/2017. (III. 20.) Korm. rendelet 10. §-ával megállapított szöveg.

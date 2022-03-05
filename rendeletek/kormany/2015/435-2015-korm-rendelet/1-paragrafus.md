@@ -14,6 +14,9 @@ b) az a) pont hatálya alá nem tartozó, a 2014–2020 programozási időszak K
 
 (2)[^3] E rendelet hatálya nem terjed ki a szakaszolt projektekre, valamint az egyházi jogi személyek, villamosenergia-szolgáltatók, földgázszolgáltatók és távhőszolgáltatók, továbbá a fővárosi és megyei kormányhivatalok és a Nemzetbiztonsági Szakszolgálat projektjeire.
 
+(3)[^4] E rendelet hatálya nem terjed ki azon projektekre, melyekre vonatkozó támogatási kérelmét a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében nevesített támogatást igénylő a választása szerint önállóan nyújtja be.
+
 [^1]: Az 1. § a 43/2016. (III. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése az 57/2017. (III. 20.) Korm. rendelet 9. §-ával megállapított szöveg. [Az 1. § (1) bekezdésében az 589/2020. (XII. 17.) Korm. rendelet 4. §-ával elrendelt módosítás, amely szerint az „NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „BMSK Sport Közhasznú Nonprofit Korlátolt Felelősségű Társaság” szöveg lép, nem vezethető át.]
 [^3]: Az 1. § (2) bekezdése a 182/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított, a 329/2017. (XI. 8.) Korm. rendelet 1. §-a, a 117/2019. (V. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdését a 79/2022. (III. 4.) Korm. rendelet 1. §-a iktatta be.
