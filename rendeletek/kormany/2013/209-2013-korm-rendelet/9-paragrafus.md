@@ -7,3 +7,7 @@
 (4) Az üzemszünettel érintett elemi útszakaszokon az üzemszünet ideje alatt, annak elhárításának bejelentett időpontjáig történő útdíjköteles elemi útszakasz használatáért nem bírságolható, aki az üzemszünet miatt nem tudja teljesíteni útdíjfizetési és bevallási kötelezettségét. Az útdíjszedő az üzemszünet elhárításáról annak felmerülésével azonos módon köteles tájékoztatást adni azzal, hogy az előzetesen bejelentett időpontnál korábban nem kezdheti meg útdíjellenőrzés-támogatási tevékenységét. Az üzemszünet végét óra pontossággal kell meghatározni oly módon, hogy a díjfizetésre kötelezetteknek módjuk legyen úthasználati jogosultság megszerzése érdekében eljárni.
 
 (5) Amennyiben az üzemszünet kizárólag útdíjellenőrzés-támogatási feladatának ellátását teszi lehetetlenné, annak tényéről, az üzemszünet elhárításának várható időpontjáról és az üzemszünet elhárításáról köteles a Rendőrséget azonnal tájékoztatni.
+
+(6)[^20] Ha az EETS szolgáltató az útdíjszedő üzemszünetét követően az útdíjbevallás küldési feltételeinek megfelelően teljesít útdíjbevallást az üzemszünettel érintett időszak vonatkozásában, azt az útdíjszedő köteles befogadni, és az útdíjat a bevallás alapján kivetni.
+
+[^20]: A 9. § (6) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (6) bekezdése iktatta be.
