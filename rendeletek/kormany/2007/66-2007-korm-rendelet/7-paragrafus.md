@@ -22,4 +22,6 @@ i) az elvétel oka,
 
 j) a közúti ellenőr „AETR Control Hungary” bélyegzőlenyomata és aláírása.
 
-(3) A tachográf készülék, illetve annak rendeltetésszerű működését befolyásoló eszközök szabálytalan működésére utaló körülmények esetén – a közigazgatási eljárás kezdeményezése érdekében – azokról fényképet vagy videó- felvételt kell készíteni.
+(3)[^19] A menetíró készülék, illetve annak rendeltetésszerű működését befolyásoló eszközök szabálytalan működésére utaló körülmények esetén – a közigazgatási eljárás kezdeményezése érdekében – azokról fényképet vagy videó- felvételt kell készíteni.
+
+[^19]: A 7. § (3) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.

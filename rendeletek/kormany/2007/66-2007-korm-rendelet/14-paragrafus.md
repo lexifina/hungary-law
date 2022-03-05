@@ -1,35 +1,15 @@
 ## 13. § A közúti és a telephelyi ellenőrzés során az ellenőrző szervek az AETR Megállapodás hatálya alá tartozó közúti szállítás esetén az AETR Megállapodáshoz csatlakozott országgal kötött – külön jogszabályban kihirdetett – kétoldalú megállapodásban foglalt rendelkezések végrehajtását is ellenőrzik.
 
-14. § (1)[^17] A közlekedésért felelős miniszter által vezetett minisztérium minden naptári év negyedik negyedévében a következő évre szólóan elkészíti az éves közúti és telephelyi ellenőrzési tervet, amelyben – a 9. §-ban meghatározott adatszolgáltatás elemzésére is figyelemmel – az ellenőrző szervek közötti koordinációs feladatkörében gondoskodik arról, hogy az ellenőrző szervek által végzett közúti és telephelyi ellenőrzések éves száma elérje:
+14. §[^28] (1) A közlekedésért felelős miniszter minden naptári év negyedik negyedévében a következő évre szólóan elkészíti az éves közúti és telephelyi ellenőrzési tervet, amelyben az ellenőrző szervek közötti koordinációs feladatkörében gondoskodik arról, hogy az ellenőrző szervek által végzett közúti és telephelyi ellenőrzések éves száma elérje az 561/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó járművek száma, valamint az éves munkanapok szorzataként számított összes munkanapok számának 3%-át.
 
-a) 2007. december 31-éig az 561/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó járművek száma, valamint az éves munkanapok szorzataként számított összes munkanapok számának 1%-át,
+(1a) A közúti ellenőrzés során a járművezető kapcsolatba léphet a központi irodával, a szakmai irányítóval vagy bármely más személlyel vagy szervezettel a jármű fedélzetéről hiányzó bizonyítékoknak a közúti ellenőrzés időtartama alatt történő rendelkezésre bocsátása érdekében.
 
-b) 2008. január 1-jét követően az összes munkanapok számának 2%-át,
+(2) Az éves közúti és telephelyi ellenőrzési terv meghatározásakor – a 3. §-ban foglalt ellenőrzési feladatkörök figyelembevételével – gondoskodni kell arról, hogy az ellenőrzött munkanapok
 
-c) 2010. január 1-jét követően az összes munkanapok számának 3%-át.
+a) legalább 30%-át közúti ellenőrzés keretében,
 
-(2) Az éves közúti és telephelyi ellenőrzési terv meghatározásakor – a 3. §-ban meghatározott ellenőrzési feladatkörök figyelembevételével – gondoskodni kell arról, hogy
+b) legalább 50%-át telephelyi ellenőrzés keretében, és
 
-a) 2007. december 31-éig az ellenőrzött munkanapok:
+c) a menetíró készülék rendeltetésszerű működését befolyásoló eszközök feltárása érdekében az ellenőrzés alá vont járművek legalább 10%-át
 
-aa) legalább 15%-át közúti ellenőrzés keretében, és
-
-ab) legalább 30%-át telephelyi ellenőrzés keretében,
-
-## valamint
-
-b) 2008. január 1-jét követően az ellenőrzött munkanapok:
-
-ba) legalább 30%-át közúti ellenőrzés keretében, és
-
-bb) legalább 50%-át telephelyi ellenőrzés keretében,
-
-c)[^18] a tachográf készülék rendeltetésszerű működését befolyásoló eszközök feltárása érdekében az ellenőrzés alá vont járművek legalább 10%-át
-
-## ellenőrizzék.
-
-(3)[^19]
-
-[^17]: A 14. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.
-[^18]: A 14. § (2) bekezdés c) pontját a 272/2009. (XII. 1.) Korm. rendelet 3. §-a iktatta be.
-[^19]: A 14. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 530. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: A 14. § a 66/2022. (II. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

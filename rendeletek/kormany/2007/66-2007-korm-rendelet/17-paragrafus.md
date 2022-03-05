@@ -1,11 +1,17 @@
 ## 16. § Az üzembentartó az ellenőrzést követően egy naptári évig köteles megőrizni a közúti ellenőrzés, valamint a telephelyén végzett ellenőrzés alkalmával az ellenőrző szerv által kiadott ellenőrzési jegyzőkönyveket és egyéb, az ellenőrzés eredményét tanúsító okmányokat. Az ellenőrző szerv az ismételt ellenőrzés során figyelembe veszi a korábban elvégzett ellenőrzés megállapításait.
 
-17. § (1)[^24] Magyarország részéről az AETR Megállapodáshoz csatlakozott országok illetékes ellenőrző hatóságaival – az ellenőrzések kapcsán felmerülő kölcsönös adatszolgáltatások teljesítése tekintetében is – közvetlen kapcsolatot a közlekedésért felelős miniszter által vezetett minisztérium tart fenn.
+17. § (1)[^35] Magyarország részéről az AETR Megállapodáshoz csatlakozott országok illetékes ellenőrző hatóságaival – az ellenőrzések kapcsán felmerülő kölcsönös adatszolgáltatások teljesítése tekintetében is – közvetlen kapcsolatot a közlekedésért felelős miniszter által vezetett minisztérium tart fenn.
 
-(2)[^25] A közlekedésért felelős miniszter által vezetett minisztérium az AETR Megállapodáshoz csatlakozott országok illetékes hatóságait tájékoztatja az ellenőrzések tapasztalatairól, az alkalmazott szankciókról, intézkedésekről.
+(2)[^36] A közlekedésért felelős miniszter által vezetett minisztérium az AETR Megállapodáshoz csatlakozott országok illetékes hatóságait tájékoztatja az ellenőrzések tapasztalatairól, az alkalmazott szankciókról, intézkedésekről.
 
-(3)[^26] Az 561/2006/EK európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdésében, valamint a 165/2014/EU európai parlamenti és tanácsi rendelet 40. cikkében a tagállamok számára meghatározott kölcsönös segítségnyújtást, valamint adatszolgáltatást a közlekedésért felelős miniszter által vezetett minisztérium a tagállammal történt előzetes egyeztetés alapján, továbbá külön megkeresés szerint teljesíti.
+(3)[^37] Az 561/2006/EK európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdésében, valamint a 165/2014/EU európai parlamenti és tanácsi rendelet 40. cikkében a tagállamok számára meghatározott kölcsönös segítségnyújtást, valamint adatszolgáltatást a közlekedésért felelős miniszter által vezetett minisztérium a tagállammal történt előzetes egyeztetés alapján, továbbá külön megkeresés szerint teljesíti.
 
-[^24]: A 17. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 26. § b) pontja,. a 379/2016. (XII. 2.) Korm. rendelet 89. § c) pontja szerint módosított szöveg.
-[^25]: A 17. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.
-[^26]: A 17. § (3) bekezdése a 8/2016. (II. 9.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 89. § c) pontja szerint módosított szöveg.
+(4)[^38] Más tagállam által az utazó munkavállalókra és a közúti szállítás kiküldetési előírásaira vonatkozó előírásokkal összefüggésben, valamint az 561/2006/EK rendelet 22. cikkének (3) bekezdése alapján igényelt adatokat a megkeresés beérkezésétől számított 25 munkanapon belül kell átadni. Sürgős esetben a nyilvántartásokból vagy a kockázatértékelő rendszerekből egyszerűen kinyerhető adatok igénylése esetén a közúti gépjármű-közlekedési hatóság a megkereső tagállamnak 3 munkanapon belül átadja a kért adatot. Ha a megkeresés indokolása nem kielégítő, erről a közúti gépjármű-közlekedési hatóság 10 munkanapon belül tájékoztatja a megkereső tagállamot. Ha a megkereső tagállam nem ad részletesebben megindokolt megkeresést, a megkeresés visszautasítható. Ha a megkeresésben foglaltak teljesítése akadályba ütközik, vagy ellenőrzést, szemlét vagy vizsgálatot kell lefolytatni, erről a közúti gépjármű-közlekedési hatóság 10 munkanapon belül tájékoztatja a megkereső tagállamot, a megkeresésben kért adat szolgáltatására vonatkozó akadály vagy a teljesítésképtelenség okának megjelölésével. A közúti gépjármű-közlekedési hatóság együttműködik a megkereső tagállammal a megkeresésben foglaltak teljesítése érdekében.
+
+(5)[^39] A (4) bekezdésben meghatározott információcserét a megkereső és a közúti gépjármű-közlekedési hatóság a belső piaci információs rendszeren keresztül hajtja végre.
+
+[^35]: A 17. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 26. § b) pontja,. a 379/2016. (XII. 2.) Korm. rendelet 89. § c) pontja szerint módosított szöveg.
+[^36]: A 17. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.
+[^37]: A 17. § (3) bekezdése a 8/2016. (II. 9.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 89. § c) pontja szerint módosított szöveg.
+[^38]: A 17. § (4) bekezdését a 66/2022. (II. 28.) Korm. rendelet 8. §-a iktatta be.
+[^39]: A 17. § (5) bekezdését a 66/2022. (II. 28.) Korm. rendelet 8. §-a iktatta be.
