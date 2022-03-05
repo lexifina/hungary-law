@@ -1,1 +1,0 @@
-## 512. § A 18. §-tól, valamint a IX. Fejezettől eltérően a belügyminiszter ellenőrzi az e rendelet hatálya alá tartozó támogatások felhasználása során lefolytatott közbeszerzési eljárások szabályosságát.

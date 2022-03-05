@@ -26,8 +26,8 @@ b) a projekt közfeladat vagy általános közérdekű feladat ellátására ir�
 
 (5) Területi kiválasztási eljárásrendet kell meghatározni területi program esetén.
 
-(5a)[^21]
+(5a)[^22]
 
 (6) A kutatás-fejlesztésre és innovációra irányuló felhívás esetén az irányító hatóság a (3) bekezdés b) pontja szerinti feltételek fennállása esetén is alkalmazhat standard kiválasztási eljárásrendet.
 
-[^21]: A 74. § (5a) bekezdését az 562/2021. (X. 1.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 657/2021. (XI. 30.) Korm. rendelet 8. § a) pontja.
+[^22]: A 74. § (5a) bekezdését az 562/2021. (X. 1.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 657/2021. (XI. 30.) Korm. rendelet 8. § a) pontja.
