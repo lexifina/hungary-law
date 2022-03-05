@@ -18,7 +18,7 @@ b) másodfokú eljárás lefolytatására országos illetékességgel a budapest
 
 (4)[^21] A Kkt. 21. §-a szerinti bírságolással kapcsolatos eljárásban az ügyfelet az eljárás megindításáról nem kell értesíteni. A határozat kiküldésekor azonban az ügyfelet tájékoztatni kell arról, hogy 8 napon belül bizonyítási indítványt terjeszthet elő, valamint élhet a Kkt. 21/A. §-ában meghatározott kimentés lehetőségével. Ha az ügyfél ezt a jogát nem gyakorolja, a határozat kézbesítéséhez fűződő jogkövetkezmények a határidő lejártát követő naptól állnak be.
 
-(5)[^22] Ha a Kkt. 21/B. § (2) bekezdésében meghatározott szabályszegést a 2015/413/EU európai parlamenti és tanácsi irányelvet átültető más tagállamban bejegyzett gépjárművel követték el, a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványokról szóló miniszteri rendeletben meghatározott tájékoztató levélben kell felhívni a gépjármű üzemben tartójának figyelmét, hogy 15 napon belül terjeszthet elő bizonyítási indítványt, valamint élhet a Kkt. 21/A. §-ában meghatározott kimentés lehetőségével, amelyhez csatolni kell a válasznyomtatványt is.
+(5)[^22] Ha a Kkt. 21/B. § (2) bekezdésében meghatározott szabályszegést a 2015/413/EU európai parlamenti és tanácsi irányelvet vagy a 2019/520/EU európai parlamenti és tanácsi irányelvet átültető más tagállamban bejegyzett gépjárművel követték el, a jogszabályban meghatározott tájékoztató levélben kell felhívni a gépjármű üzemben tartójának figyelmét, hogy 15 napon belül terjeszthet elő bizonyítási indítványt, valamint élhet a Kkt. 21/A. §-ában meghatározott kimentés lehetőségével, amelyhez csatolni kell a válasznyomtatványt is.
 
 (6)[^23] Az eljárás során az ügyfelet az eljáró hatóság legfeljebb két alkalommal hívhatja fel hiánypótlásra.
 
@@ -35,7 +35,7 @@ b) másodfokú eljárás lefolytatására országos illetékességgel a budapest
 [^19]: A 9. § (2a) bekezdését a 488/2013. (XII. 17.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 103. §-a. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^20]: A 9. § (3) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^21]: A 9. § (4) bekezdését a 86/2010. (III. 26.) Korm. rendelet 5. § (4) bekezdése iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 203. §-a, újonnan a 71/2011. (IV. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^22]: A 9. § (5) bekezdését a 138/2013. (V. 10.) Korm. rendelet 5. §-a iktatta be, szövege a 90/2015. (IV. 9.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^22]: A 9. § (5) bekezdését a 138/2013. (V. 10.) Korm. rendelet 5. §-a iktatta be, szövege a 67/2022. (II. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^23]: A 9. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 216. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^24]: A 9. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 216. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^25]: A 9. § (8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 216. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
