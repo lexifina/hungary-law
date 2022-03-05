@@ -1,5 +1,6 @@
-## 5. § Ez a rendelet a belvízi hajózásban szükséges szakmai képesítések elismeréséről, valamint a 91/672/EGK és a 96/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. december 12-i 2017/2397/EK európai parlamenti és tanácsi irányelv 17. cikk (2) bekezdésének való megfelelést szolgálja.
+## 5. §[^3] Ez a rendelet a belvízi hajózásban szükséges szakmai képesítések elismeréséről, valamint a 91/672/EGK és a 96/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2397 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-6. §[^3]
+6. §[^4]
 
-[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. § a 66/2022. (II. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^4]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

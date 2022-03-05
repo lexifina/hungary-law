@@ -2,10 +2,10 @@
 
 ## 2. § A hajózási vizsgaközpont főtevékenységként az alábbi közfeladatokat látja el:
 
-a)[^1] végzi az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek hajós és tengerész szolgálati könyvének kibocsátását, szolgálati idejének igazolását, képesítéseinek bejegyzését, továbbá a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetője vizsgáztatását és képesítő okmányok kiállítását.
+a)[^1] végzi az úszólétesítményen szolgálatot ellátó személyek hajós és tengerész szolgálati könyvének kibocsátását, a szolgálati könyvekbe bejegyzett szolgálati idők és utak igazolását, a hajózási képesítések és egészségi alkalmasság adatok szolgálati könyvbe történő bejegyzését, továbbá az úszólétesítményen szolgálatot ellátó személyek, a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetője vizsgáztatását és a hajózási képesítő okmányok kiállítását.
 
 b) részt vesz az a) pont szerinti vizsgáztatással kapcsolatos jogszabálytervezetek véleményezésében,
 
 c) együttműködik a feladatkörével kapcsolatos tevékenységet végző hazai és határon túli civil szervezetekkel, érdekképviseleti és egyéb szervezetekkel, testületekkel.
 
-[^1]: A 2. § a) pontja a 789/2021. (XII. 27.) Korm. rendelet 79. §-ával megállapított szöveg.
+[^1]: A 2. § a) pontja a 66/2022. (II. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
