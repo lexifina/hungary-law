@@ -6,15 +6,15 @@
 
 ## 4. Ha a gyakorlat jellege azt indokolja, az 1. pont szerinti engedély az 1. mellékletben meghatározott időtartamokon belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri határátlépésére is vonatkozik.
 
-## 5. A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 30., 39. és 41. sora és az 1. melléklet 2. pontjában foglalt táblázat 36., 37. és 45. sora szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
+## 5.[^1] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 27., 30., 31., 35., 39., 40., 41. és 42. sora, valamint az 1. melléklet 2. pontjában foglalt táblázat 36., 37., 45. és 46. sora szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
 
 ## 6. Az 1. melléklet 1. és 2. pontja szerinti felelős szervek rövid megjelölésére vonatkozó jegyzéket a 2. melléklet tartalmazza.
 
 ## 7. Ez a határozat 2022. január 1-jén lép hatályba.
 
-## 8.[^1]
+## 8.[^2]
 
-1. melléklet az 1880/2021. (XII. 7.) Korm. határozathoz
+1. melléklet az 1880/2021. (XII. 7.) Korm. határozathoz[^3]
 
 ## A 2022. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -60,7 +60,7 @@
 
 | 19. | SMART DEFENSE 1.29 CBRN gyakorlat | MH TTP; MH GAVIK | Németország, Lengyelország | III. negyedév | 10 |
 
-| 20. | NATO Coalition Warrior Interoperability eXercise (CWIX) interoperabilitási gyakorlat | MHP IICSF | Lengyelország | II. negyedév | 50 |
+| 20. | NATO Coalition Warrior Interoperability eXercise (CWIX) interoperabilitási gyakorlat | MHP IICSF | NATO- és EU-tagállamok | II. negyedév | 50 |
 
 | 21. | EU RETEX katasztrófavédelmi gyakorlat | MHP HSZ SZF | Belgium és Franciaország | II. és III. negyedév | 25 |
 
@@ -74,7 +74,7 @@
 
 | 26. | NATO Response Force (NRF) CBRN felkészítés | MH TTP; MH GAVIK | Hollandia, Németország, Lengyelország | I–IV. negyedév | 30 |
 
-| 27. | BLACK SWAN/JACKAL CAVE különleges műveleti gyakorlat | MHP HSZ KM | Magyarország, Szlovénia, Szlovákia, Németország | II. negyedév | 300 |
+| 27. | BLACK SWAN/JACKAL CAVE különleges műveleti gyakorlat | MHP HSZ KM | Magyarország, Szlovénia, Szlovákia, Németország, Románia, Litvánia | II. negyedév | 600 |
 
 | 28. | NEWFIP (RAMSTEIN GUARD) elektronikai hadviselési gyakorlat | MHP HSZ LE; KNBSZ FCSF | Magyarország, Szlovénia és NATO-tagállamok | I. negyedév | 300 |
 
@@ -270,7 +270,7 @@
 
 | 68. | PANTHER katonai rendész gyakorlat | MH KRK | Lengyelország | I. és II. negyedév | 45 |
 
-| 69. | V4 EUBG felkészülési rendezvények | MHP HDMCSF | Lengyelország | I–IV. negyedév | 450 |
+| 69. | V4 EUBG felkészülési rendezvények | MHP HDMCSF | Lengyelország, Magyarország | I–IV. negyedév | 450 |
 
 | 70. | PUMA V4 összhaderőnemi gyakorlat | MHP HDMCSF | Lengyelország | I–IV. negyedév | 500 |
 
@@ -346,4 +346,6 @@
 
 | 28. | Az Európában Települő Amerikai Erők Parancsnoksága által 2022 évben végrehajtásra tervezett gyakorlatokon részt vevő erők áthaladása | I–IV. negyedév | egyidejűleg legfeljebb 1000 fő |
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont az 1118/2022. (III. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1118/2022. (III. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
