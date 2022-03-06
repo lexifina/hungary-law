@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-178-20-
 | 2018-06-12 | 2013-178-20-22.4 | 101/2018. (VI. 11.) Korm. rendelet |
 | 2019-03-19 | 2013-178-20-22.5 | 56/2019. (III. 18.) Korm. rendelet |
 | 2020-12-23 | 2013-178-20-22.6 | 629/2020. (XII. 22.) Korm. rendelet |
+| 2022-03-06 | 2013-178-20-22.7 | 85/2022. (III. 5.) Korm. rendelet |
