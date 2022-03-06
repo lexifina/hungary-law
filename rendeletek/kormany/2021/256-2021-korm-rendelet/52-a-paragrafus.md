@@ -1,0 +1,1 @@
+## 52. § Az irányító hatóság gondoskodik annak az eljárási cselekménynek a felülvizsgálatáról és szükség szerint helyesbítéséről vagy megismétléséről, amelyben az összeférhetetlen személy közreműködött és amely az ügy érdemére kihathat.

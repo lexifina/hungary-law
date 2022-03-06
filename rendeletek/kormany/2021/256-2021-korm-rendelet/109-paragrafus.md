@@ -2,6 +2,9 @@
 
 (2) Az értékelő az értékelésre vonatkozóan nem utasítható.
 
-(3) Az értékelő az általa megismert, jogszabály által védett titkot megőrzi. A titoktartási kötelezettség nem terjed ki a támogatási kérelem projektkiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
+(3)[^32]
 
-(4) Az értékelő az értékelés elvállalásakor titoktartási és összeférhetetlenségi nyilatkozatot tesz.
+(4)[^33]
+
+[^32]: A 109. § (3) bekezdését a 75/2022. (III. 3.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^33]: A 109. § (4) bekezdését a 75/2022. (III. 3.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
