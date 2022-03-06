@@ -1,12 +1,12 @@
-## Az Európai Unió jogának való megfelelés[^24]
+## Az Európai Unió jogának való megfelelés[^25]
 
-## 15. §[^25] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 15. §[^26] Ez a rendelet
 
-a) a Tanács 80/777/EGK irányelve (1980. július 15.) a természetes ásványvizek kinyerésére és forgalmazására vonatkozó tagállami jogszabályok közelítéséről,
+a) a természetes ásványvizek jegyzékének, koncentrációs határértékeinek és címkézési követelményeinek, valamint a természetes ásványvizek és forrásvizek ózonnal dúsított levegővel való kezelésére vonatkozó feltételeknek a megállapításáról szóló, 2003. május 16-i 2003/40/EK bizottsági irányelvnek,
 
-b) az Európai Parlament és a Tanács 96/70/EK irányelve (1996. október 28.) a tagállamok természetes ásványvizek kinyerésére és forgalmazására vonatkozó tagállami jogszabályok közelítéséről szóló 80/777/EGK tanácsi irányelv módosításáról,
+b) a természetes ásványvizek kinyeréséről és forgalmazásáról szóló, 2009. június 18-i 2009/54/EK európai parlamenti és tanácsi irányelvnek
 
-c) a Bizottság 2003/40/EK irányelve (2003. május 16.) a természetes ásványvizek jegyzékének, koncentrációs határértékeinek és címkézési követelményeinek, valamint a természetes ásványvizek és forrásvizek ózonnal dúsított levegővel való kezelésére vonatkozó feltételeknek a megállapításáról.
+való megfelelést szolgálja.
 
-[^24]: A 15. § alcímét az 59/2006. (VIII. 14.) FVM–EüM–SZMM együttes rendelet 5. §-a iktatta be.
-[^25]: A 15. § az 59/2006. (VIII. 14.) FVM–EüM–SZMM együttes rendelet 5. §-ával megállapított szöveg.
+[^25]: A 15. § alcímét az 59/2006. (VIII. 14.) FVM–EüM–SZMM együttes rendelet 5. §-a iktatta be.
+[^26]: A 15. § a 10/2022. (III. 3.) AM rendelet 2. §-ával megállapított szöveg.

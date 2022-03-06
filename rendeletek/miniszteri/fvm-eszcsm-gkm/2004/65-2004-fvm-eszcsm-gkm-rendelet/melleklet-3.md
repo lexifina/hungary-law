@@ -42,7 +42,7 @@ I. A természetes ásványvíz elismerési kérelméhez benyújtandó dokumentum
 
 7. Ásványvíz vizsgálatára akkreditált laboratórium helyszíni és laboratóriumi vizsgálatának eredménye, amely a kérelem benyújtásától számított egy éven belül, a kút üzemszerű állapotában történt mintavétel alapján készült.
 
-8.[^26] A víznyerőhely helye szerint illetékes népegészségügyi feladatkörében eljáró megyei kormányhivatal, a főváros és Pest megye tekintetében a Fejér Megyei Kormányhivatal szakvéleménye a víznyerőhely állapotának közegészségügyi elbírálásáról, és a víz palackozási célú felhasználhatóságának közegészségügyi feltételeiről.
+8.[^28] A víznyerőhely helye szerint illetékes népegészségügyi feladatkörében eljáró megyei kormányhivatal, a főváros és Pest megye tekintetében a Fejér Megyei Kormányhivatal szakvéleménye a víznyerőhely állapotának közegészségügyi elbírálásáról, és a víz palackozási célú felhasználhatóságának közegészségügyi feltételeiről.
 
 II. Az elismeréshez szükséges adatok
 
@@ -94,7 +94,7 @@ Ezeknek az elemzéseknek tartalmazniuk kell:
 
 3.1. annak igazolását, hogy a víz nem tartalmaz parazitákat és kórokozó mikroorganizmusokat,
 
-3.2. a fekális szennyezettségre utaló életképes telepszám minőségi meghatározását:
+3.2.[^29] a fekális szennyezettségre utaló életképes telepszám mennyiségi meghatározását:
 
 a) Escherichia coli és egyéb coliformok hiánya 250 ml-ben, 37 °C és 44.5 °C-on,
 
@@ -116,4 +116,5 @@ d) Pseudomonas aeruginosa hiánya 250 ml-ben,
 
 4.2. Jelentős számú, egymással összhangban levő és azonos eredményt hozó klinikai megfigyelés – ha ez elvégezhető – helyettesítheti a 4.1. pont alatt előírt vizsgálatokat. A klinikai vizsgálatok – amennyiben ezek elvégezhetők – szintén helyettesíthetik a 4.1. pont alatt hivatkozott vizsgálatokat, feltéve, hogy a jelentős számú megfigyelés összhangban van és megegyezik, és általuk ugyanazon eredmények érhetők el.
 
-[^26]: A 3. számú melléklet I. cím 8. pontja a 42/2017. (VIII. 17.) VM rendelet 69. § f) pontja szerint módosított szöveg.
+[^28]: A 3. számú melléklet I. cím 8. pontja a 42/2017. (VIII. 17.) VM rendelet 69. § f) pontja szerint módosított szöveg.
+[^29]: A 3. számú melléklet II. rész 3. pont 3.2. alpontja a 10/2022. (III. 3.) AM rendelet 4. § c) pontja szerint módosított szöveg.

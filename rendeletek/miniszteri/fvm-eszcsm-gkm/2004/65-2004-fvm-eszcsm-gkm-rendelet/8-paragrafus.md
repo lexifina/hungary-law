@@ -5,3 +5,7 @@
 (3) Az 5. számú mellékletben felsorolt állításokat akkor lehet feltüntetni, ha a természetes ásványvíz megfelel az ott meghatározott követelményeknek.
 
 (4) Megengedett az ,,elősegíti az emésztést'', ,,segítheti a máj- és epefunkciókat'', vagy a hasonló állítások használata. Egyéb állítások is használhatóak, feltéve, hogy azok nem ellentétesek a (2) bekezdésben foglalt rendelkezésekkel és a 3. számú melléklet II. fejezetének 4. pontja szerint bizonyítottak.
+
+(5)[^18] A csomagoláson, címkén, valamint a reklámokban a csecsemőtápszer készítésére való alkalmasságra utaló szavak, jelzők és szimbólumok akkor használhatóak, ha a palackozott természetes ásványvízen szerepel a „Csecsemőtápszer készítésére alkalmas” megjelölés.
+
+[^18]: A 8. § (5) bekezdését a 10/2022. (III. 3.) AM rendelet 1. §-a iktatta be.
