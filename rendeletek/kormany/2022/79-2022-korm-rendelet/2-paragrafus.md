@@ -1,3 +1,0 @@
-## 1. § Az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2014–2020 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt energiahatékonyság növelését célzó beruházások megvalósításáról szóló 435/2015. (XII. 28.) Korm. rendelet (a továbbiakban: Rendelet) 1. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) E rendelet hatálya nem terjed ki azon projektekre, melyekre vonatkozó támogatási kérelmét a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében nevesített támogatást igénylő a választása szerint önállóan nyújtja be.”
