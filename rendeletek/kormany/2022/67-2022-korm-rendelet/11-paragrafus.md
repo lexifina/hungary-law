@@ -1,11 +1,3 @@
-## lép.
+## 10. §[^25]
 
-## 11. § Hatályát veszti a 209/2013. (VI. 18.) Korm. rendelet
-
-a) 10. § (1a) bekezdése,
-
-b) 21. § (2) bekezdése,
-
-c) 43. § (1) bekezdés a) pontjában az „az útdíjszolgáltatót” szövegrész,
-
-d) 45. § (4) bekezdése.
+[^25]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
