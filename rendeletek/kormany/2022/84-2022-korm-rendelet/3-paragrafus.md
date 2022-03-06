@@ -1,0 +1,1 @@
+3. § A veszélyhelyzetre tekintettel a távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény szabályaitól való eltérésről szóló 816/2021. (XII. 28.) Korm. rendeletet nem kell alkalmazni 2022. január 1-je és 2022. május 15-e között.

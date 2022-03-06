@@ -1,0 +1,9 @@
+# 84/2022. (III. 5.) Korm. rendelet
+
+a kisbenzinkutaknak a vidéki ellátásbiztonság garantálása érdekében történő támogatásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-84-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-03-06 | 2022-84-20-22.1 | 84/2022. (III. 5.) Korm. rendelet |
