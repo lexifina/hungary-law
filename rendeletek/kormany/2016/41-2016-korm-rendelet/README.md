@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-41-20-2
 | 2020-09-06 | 2016-41-20-22.11 | 411/2020. (VIII. 30.) Korm. rendelet |
 | 2021-03-06 | 2016-41-20-22.12 | 93/2021. (II. 27.) Korm. rendelet |
 | 2021-09-06 | 2016-41-20-22.13 | 509/2021. (IX. 3.) Korm. rendelet |
+| 2022-03-06 | 2016-41-20-22.14 | 70/2022. (III. 2.) Korm. rendelet |
