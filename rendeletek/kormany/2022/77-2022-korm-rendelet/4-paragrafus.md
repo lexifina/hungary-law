@@ -1,0 +1,1 @@
+## 3. A tervezhető fogászati ellátások, a rehabilitációs ellátások, valamint a tervezhető invazív beavatkozások veszélyhelyzeti rendjéről szóló 469/2021. (VIII. 6.) Korm. rendelet hatályon kívül helyezése
