@@ -66,11 +66,9 @@ a visszatérítési kötelezettség tekintetében a 9. pont a) alpontja szerinti
 
 9.[^7] felhívja az emberi erőforrások miniszterét, hogy
 
-a) – az agrárminiszter, valamint az UTE és Budapest Főváros IV. kerület Újpest Önkormányzata bevonásával – készítsen előterjesztést a Kormány részére az előkészítési fázisok befejezéséhez szükséges intézkedésekről az 5. pont a), b) és d) alpontja szerinti beruházások tekintetében,
+a)[^8] – az UTE és Budapest Főváros IV. kerület Újpest Önkormányzata bevonásával – készítsen előterjesztést a Kormány részére az előkészítési fázisok befejezéséhez szükséges intézkedésekről az 5. pont a), b) és d) alpontja szerinti beruházások tekintetében,
 
 Felelős: emberi erőforrások minisztere
-
-agrárminiszter
 
 Határidő: 2022. június 30.
 
@@ -80,15 +78,15 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2022. június 30.
 
-10.[^8] egyetért az 5. pont a) alpontja szerinti beruházás megvalósításának helyszínéül kijelölt, Budapest belterület 74327/1 és 74324 helyrajzi számú idegen tulajdonban lévő ingatlanok állami tulajdonba kerülésével, amelynek érdekében felhívja
+10.[^9] egyetért az 5. pont a) alpontja szerinti beruházás megvalósításának helyszínéül kijelölt, Budapest belterület 74327/1 és 74324 helyrajzi számú idegen tulajdonban lévő ingatlanok állami tulajdonba kerülésével, amelynek érdekében felhívja
 
-a)[^9] a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság bevonásával kezdje meg a tárgyalásokat, és tegye meg a szükséges intézkedéseket az idegen tulajdonban lévő ingatlanok tulajdonjogának per-, teher- és igénymentesen, a Magyar Állam javára történő megszerzése érdekében,
+a)[^10] a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság bevonásával kezdje meg a tárgyalásokat, és tegye meg a szükséges intézkedéseket az idegen tulajdonban lévő ingatlanok tulajdonjogának per-, teher- és igénymentesen, a Magyar Állam javára történő megszerzése érdekében,
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-b)[^10] a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjanak az a) alpont szerinti tárgyalások eredményétől függően a tulajdonszerzéshez szükséges, legfeljebb a független ingatlanforgalmi szakértő által megállapított forgalmi érték alapján meghatározott összegű forrás biztosításáról,
+b)[^11] a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjanak az a) alpont szerinti tárgyalások eredményétől függően a tulajdonszerzéshez szükséges, legfeljebb a független ingatlanforgalmi szakértő által megállapított forgalmi érték alapján meghatározott összegű forrás biztosításáról,
 
 Felelős: pénzügyminiszter
 
@@ -96,7 +94,7 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: az a) alpont végrehajtása függvényében
 
-c)[^11] az emberi erőforrások miniszterét, hogy készítse elő és terjessze a Kormány elé a sportról szóló 2004. évi I. törvény módosítását annak érdekében, hogy a Budapest belterület 74327/1 és 74324 helyrajzi számú ingatlanok – mint az 5. pont a) alpontja szerinti beruházás területe – vonatkozásában az UTE – az ingatlanok Magyar Állam tulajdonába kerülését követően – vagyonkezelőként törvényben kijelölésre kerüljön.
+c)[^12] az emberi erőforrások miniszterét, hogy készítse elő és terjessze a Kormány elé a sportról szóló 2004. évi I. törvény módosítását annak érdekében, hogy a Budapest belterület 74327/1 és 74324 helyrajzi számú ingatlanok – mint az 5. pont a) alpontja szerinti beruházás területe – vonatkozásában az UTE – az ingatlanok Magyar Állam tulajdonába kerülését követően – vagyonkezelőként törvényben kijelölésre kerüljön.
 
 Felelős: emberi erőforrások minisztere
 
@@ -109,7 +107,8 @@ Határidő: az 5. pont a) alpontja szerinti beruházás végrehajtásához szük
 [^5]: A 7. pont c) alpontja az 1953/2021. (XII. 2.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
 [^6]: A 7. pont e) alpontja az 1953/2021. (XII. 2.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
 [^7]: A 9. pont az 1953/2021. (XII. 2.) Korm. határozat 3. pontjával megállapított szöveg.
-[^8]: A 10. pont nyitó szövegrésze az 1956/2017. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^9]: A 10. pont a) alpontja az 1386/2018. (VIII. 13.) Korm. határozat 2. pont j) alpontja szerint módosított szöveg.
-[^10]: A 10. pont b) alpontja az 1386/2018. (VIII. 13.) Korm. határozat 2. pont j)–k) alpontja szerint módosított szöveg.
-[^11]: A 10. pont c) alpontja az 1956/2017. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^8]: A 9. pont a) alpontja az 1121/2022. (III. 7.) Korm. határozat 2. pontjával megállapított szöveg.
+[^9]: A 10. pont nyitó szövegrésze az 1956/2017. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^10]: A 10. pont a) alpontja az 1386/2018. (VIII. 13.) Korm. határozat 2. pont j) alpontja szerint módosított szöveg.
+[^11]: A 10. pont b) alpontja az 1386/2018. (VIII. 13.) Korm. határozat 2. pont j)–k) alpontja szerint módosított szöveg.
+[^12]: A 10. pont c) alpontja az 1956/2017. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.

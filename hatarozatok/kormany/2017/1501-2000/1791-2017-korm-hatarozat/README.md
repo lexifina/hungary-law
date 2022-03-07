@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1791-30
 | 2017-12-15 | 2017-1791-30-22.2 | 1956/2017. (XII. 15.) Korm. határozat |
 | 2018-08-13 | 2017-1791-30-22.3 | 1386/2018. (VIII. 13.) Korm. határozat |
 | 2021-12-22 | 2017-1791-30-22.4 | 1953/2021. (XII. 2.) Korm. határozat |
+| 2022-03-07 | 2017-1791-30-22.5 | 1121/2022. (III. 7.) Korm. határozat |
