@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1198-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-04-26 | 2021-1198-30-22.1 | 1198/2021. (IV. 26.) Korm. határozat |
+| 2022-03-07 | 2021-1198-30-22.2 | 1121/2022. (III. 7.) Korm. határozat |

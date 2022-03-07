@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért a Diósgyőri Városrész Testgyakorló Kör Sportegyesület észak-magyarországi sportfejlesztési programjának (a továbbiakban: Program) folytatásával és azzal, hogy a Program a – 2018. évben nyújtott 9 974 500 000 forinton felül – további 1 175 200 000 forint költségvetési támogatás biztosításával valósuljon meg;
 
-2. egyetért az Észak-magyarországi Regionális Utánpótlás Központ működésének és sportszakmai fejlődésének a támogatásával és ennek érdekében 1 113 000 000 forint költségvetési támogatás biztosításával;
+2.[^1] egyetért az Észak-magyarországi Regionális Utánpótlás Központ 2020–2021. évi működésének és sportszakmai fejlődésének a támogatásával és ennek érdekében 1 113 000 000 forint költségvetési támogatás biztosításával;
 
 3. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon
 
@@ -45,3 +45,5 @@ Felelős: emberi erőforrások minisztere
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a Beruházások megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
+
+[^1]: A 2. pont az 1121/2022. (III. 7.) Korm. határozat 6. pontja szerint módosított szöveg.
