@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-599-20-
 | 2021-11-19 | 2021-599-20-22.3 | 635/2021. (XI. 18.) Korm. rendelet |
 | 2021-12-22 | 2021-599-20-22.4 | 734/2021. (XII. 21.) Korm. rendelet |
 | 2022-02-15 | 2021-599-20-22.5 | 13/2022. (I. 20.) Korm. rendelet |
+| 2022-03-07 | 2021-599-20-22.6 | 77/2022. (III. 4.) Korm. rendelet |

@@ -24,7 +24,7 @@ c) a Nemzeti Népegészségügyi Központ honlapján közzétett minta alapján 
 
 d) az Egészségügyi Világszervezet által kiadott nemzetközi oltási bizonyítvány, ha az a védőoltás beadásának megtörténtére vonatkozó, oltást igazoló orvos által kiállított bejegyzést tartalmaz,
 
-e) az olyan állam által kiállított védettségi igazolás, amely állam által kiállított védettségi igazolást Magyarország elismeri, és ennek tényét a külpolitikáért felelős miniszter a határrendészetért felelős miniszterrel egyetértésében kiadott rendeletében megállapította.
+e)[^13]
 
 (6) E rendelet alkalmazásában kizárólag a 60/2021. (II. 12.) Korm. rendelet 1. § (1) bekezdés b) pontja szerinti oltóanyag vehető figyelembe.
 
@@ -48,18 +48,17 @@ b) a foglalkoztatott a (4) bekezdés szerinti orvosi szakvéleményt nem mutatja
 
 (14) A szolgálati rend figyelembevételével
 
-a) az 1. § (1) bekezdés e) pontja szerinti foglalkoztatottak esetében – a b) pontban meghatározott kivétellel – a rendészetért felelős miniszter,
+a)[^14]
 
-b) a polgári hírszerzési tevékenység irányításáért felelős miniszter az általa irányított polgári nemzetbiztonsági szolgálatnál foglalkoztatottak esetében,
+b)[^15]
 
 c) az 1. § (1) bekezdés f) pontja szerinti foglalkoztatottak és az 1. § (3) bekezdése szerinti foglalkoztatottak közül a Hjt. hatálya alá tartozók esetében a honvédelemért felelős miniszter
 
 az (1) bekezdés a) pontjában foglaltaktól eltérő határidőt állapíthat meg.
 
-(15) Az e rendelet hatálybalépésekor
+(15)[^16]
 
-a) tartós külszolgálaton lévő foglalkoztatottak tekintetében a külpolitikáért felelős miniszter,
-
-b) a Magyarország Európai Unió melletti Állandó Képviseletére kirendelt foglalkoztatottak tekintetében az európai uniós ügyek koordinációjáért felelős miniszter
-
-az (1) bekezdés a) pontjában és a (7) bekezdésben foglaltaktól eltérő határidőt állapíthat meg.
+[^13]: A 2. § (5) bekezdés e) pontját a 77/2022. (III. 4.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^14]: A 2. § (14) bekezdés a) pontját a 77/2022. (III. 4.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
+[^15]: A 2. § (14) bekezdés b) pontját a 77/2022. (III. 4.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
+[^16]: A 2. § (15) bekezdését a 77/2022. (III. 4.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
