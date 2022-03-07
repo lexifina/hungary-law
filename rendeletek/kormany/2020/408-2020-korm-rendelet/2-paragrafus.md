@@ -1,5 +1,0 @@
-## 2. A magyar állampolgárok Magyarországra történő belépésének szabályai
-
-2. § (1) Külföldről érkező magyar állampolgár, illetve a magyar állampolgár magyar állampolgársággal nem rendelkező családtagja (a továbbiakban együtt: magyar állampolgár) személyforgalomban Magyarországra történő belépése során – törvényben vagy kormányrendeletben meghatározott kivétellel – egészségügyi vizsgálaton eshet át, amelynek tűrésére köteles.
-
-(2) Ha a magyar állampolgár esetében az egészségügyi vizsgálat a fertőzés gyanúját állapítja meg, a fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet 7. § (1) bekezdése alapján hatáskörrel rendelkező népegészségügyi feladatkörében eljáró, illetékes járási (fővárosi kerületi) hivatala (a továbbiakban: illetékes járványügyi hatóság) által meghatározottak szerint kijelölt karanténban vagy – ha az nem jelent járványügyi kockázatot – hatósági házi karanténban kerül elhelyezésre.
