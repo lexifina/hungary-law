@@ -20,7 +20,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz
+1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^1]
 
 | XI. Miniszterelnökség XLII. A költségvetés közvetlen bevételei és kiadásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2022. forintban |
 
@@ -52,7 +52,7 @@
 
 |  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -4 350 675 000 |  |  |  |
 
-| Az előirányzat-módosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
 
@@ -60,7 +60,7 @@
 
 | Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
 
-| Az előirányzat-módosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
 
@@ -80,7 +80,7 @@
 
 | 386295 |  |  |  |  | 1 |  |  |  |  |  | Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása |  |  |  |  |  |  |  |  | 3 000 000 000 |  |  |  |
 
-| Az előirányzat-módosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -93,3 +93,5 @@
 |  |  | egyéb: |  | azonnal |  | 4 350 675 000 |  |  |  |  |  |  |  |  | 4 350 675 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. melléklet az 1121/2022. (III. 7.) Korm. határozat 10. pontja szerint módosított szöveg.
