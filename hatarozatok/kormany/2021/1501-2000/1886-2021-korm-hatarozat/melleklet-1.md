@@ -20,7 +20,7 @@
 
 ## Határidő: azonnal
 
-## 1.5. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 999 801 964 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## 1.5.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 999 801 964 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -32,7 +32,7 @@
 
 ## Felelős: a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke belügyminiszter
 
-## Határidő: 2022. február 28.
+## Határidő: 2022. február 28., az Országos Idegenrendészeti Főigazgatóság cím javára biztosított 837 000 000 forint tekintetében 2023. február 28.
 
 ## 1.6. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 4 689 828 996 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
 
@@ -66,7 +66,7 @@
 
 ## Határidő: azonnal
 
-## 1.10.[^1]
+## 1.10.[^2]
 
 ## 1.11. egyetért azzal, hogy az Isztambulban és Rómában levéltári szakdiplomata álláshelyek létesítéséről szóló 1577/2020. (IX. 10.) Korm. határozat 2. pontjában foglaltaktól eltérően a Rómába kihelyezésre kerülő levéltári szakdiplomata álláshelye Magyarország Római Nagykövetsége helyett Magyarország Vatikáni Nagykövetségén létesüljön;
 
@@ -136,12 +136,13 @@
 
 ## d) a 2025. évben az 1.12. alpont a) pontja szerinti beszerzés vonatkozásában legfeljebb 47 520 850 000 forint.
 
-## 1.15.[^2] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdése alapján, az 1.7. alpont szerinti egyedi támogatással összefüggésben úgy határoz, hogy az egyes karcagi sportinfrastruktúra-fejlesztésekkel kapcsolatos beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 710/2021. (XII. 15.) Korm. rendelet 2. melléklet 2. pontja szerinti beruházás során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.
+## 1.15.[^3] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdése alapján, az 1.7. alpont szerinti egyedi támogatással összefüggésben úgy határoz, hogy az egyes karcagi sportinfrastruktúra-fejlesztésekkel kapcsolatos beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 710/2021. (XII. 15.) Korm. rendelet 2. melléklet 2. pontja szerinti beruházás során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.
 
-## 2.[^3]
+## 2.[^4]
 
 1. melléklet az 1886/2021. (XII. 8.) Korm. határozathoz
 
-[^1]: Az 1. pont 1.10. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. pont 1.15. alpontját az 1953/2021. (XII. 22.) Korm. határozat 20. pontja iktatta be.
-[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.5. alpontja az 1121/2022. (III. 7.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.10. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. pont 1.15. alpontját az 1953/2021. (XII. 22.) Korm. határozat 20. pontja iktatta be.
+[^4]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
