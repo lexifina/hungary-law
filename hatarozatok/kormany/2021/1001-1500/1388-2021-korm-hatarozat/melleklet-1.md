@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 3 800 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
+## 2.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 3 800 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,7 +18,7 @@
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2021. december 31.
+## Határidő: 2021. december 31., a Kiemelt sportegyesületek támogatása előirányzat javára biztosított 300 000 000 forint tekintetében 2023. február 15.
 
 ## 3. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 9 812 883 467 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a 3. melléklet szerint.
 
@@ -27,3 +27,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1388/2021. (VI. 18.) Korm. határozathoz
+
+[^1]: A 2. pont az 1121/2022. (III. 7.) Korm. határozat 7. pontja szerint módosított szöveg.
