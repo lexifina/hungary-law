@@ -118,7 +118,7 @@
 
 | 51. | sportcélú támogatások | A sportegyesület sportszakmai többletfeladatainak támogatása | 180 000 000 | Tatabányai Sport Club |
 
-| 52. | sportcélú támogatások | Adósságkonszolidáció, ingatlanhasználati díjtartozás | 200 000 000 | Postás Sport Egyesület |
+| 52. | sportcélú támogatások | Adósságkonszolidáció és további működéssel összefüggő feladatok ellátásának támogatása | 500 000 000 | Postás Sport Egyesület |
 
 | 53. | sportcélú támogatások | Adósságkonszolidáció, a sporttelephelyhez kapcsolódó közüzemi és köztartozások rendezése | 300 000 000 | Postás Sport Egyesület |
 
@@ -162,4 +162,4 @@
 
 | 73. | sportcélú támogatások | Pécsi labdarúgó utánpótlás akadémia beruházás támogatása | 870 000 000 | Pécsi Sport Nonprofit Zrt. |
 
-[^1]: Az 1. melléklet az 1058/2019. (II. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1058/2019. (II. 22.) Korm. határozat 1. pontja, az 1121/2022. (III. 7.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1121/2022. (III. 7.) Korm. határozat 4. pontjával elrendelt módosítás nem vezethető át.]
