@@ -1,3 +1,4 @@
-## 28/I. §[^154] A védelmi intézkedések lépcsőzetes feloldásának hatodik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 365/2021. (VI. 30.) Korm. rendelet (a továbbiakban: R7.) hatálybalépését megelőző napon hatályos 1. §-ra, 2. §-ra, 5–6/C. §-ra, 8. §-ra, 10. §-ra, valamint 12–13/A. §-ra tekintettel az R7. hatálybalépését megelőző napon hatályos 22. és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
+## 28/J. §[^49] A koronavírus-világjárvány elleni egyes védelmi intézkedések megszüntetéséről szóló 77/2022. (III. 4.) Korm. rendelet (a továbbiakban: R8.) hatálybalépését[^50] megelőző napon hatályos 1–2. §-ra, valamint 5–7. §-ra tekintettel az R8. hatálybalépését megelőző napon hatályos 22. és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
 
-[^154]: A 28/I. §-t a 365/2021. (VI. 30.) Korm. rendelet 6. §-a iktatta be.
+[^49]: A 28/J. §-t a 77/2022. (III. 4.) Korm. rendelet 2. §-a iktatta be.
+[^50]: A hatálybalépés időpontja 2022. március 7.

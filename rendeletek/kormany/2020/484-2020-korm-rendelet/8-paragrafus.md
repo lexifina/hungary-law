@@ -1,6 +1,5 @@
-## 7. §[^94] Az 5. § és a 6. § szerinti védelmi intézkedések betartatásáról a rendezvény szervezője, illetve a rendezvény helyszínéül szolgáló intézmény vagy helyiség üzemeltetője köteles gondoskodni.
+## 7. §
 
-## 4.[^95]
+## 4.[^10]
 
-[^94]: A 7. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^95]: A 4. alcímet (8. §) a 365/2021. (VI. 30.) Korm. rendelet 8. § m) pontja hatályon kívül helyezte.
+[^10]: A 4. alcímet (8. §) a 365/2021. (VI. 30.) Korm. rendelet 8. § m) pontja hatályon kívül helyezte.

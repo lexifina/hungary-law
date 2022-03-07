@@ -1,0 +1,3 @@
+## 28/I. §[^48] A védelmi intézkedések lépcsőzetes feloldásának hatodik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 365/2021. (VI. 30.) Korm. rendelet (a továbbiakban: R7.) hatálybalépését megelőző napon hatályos 1. §-ra, 2. §-ra, 5–6/C. §-ra, 8. §-ra, 10. §-ra, valamint 12–13/A. §-ra tekintettel az R7. hatálybalépését megelőző napon hatályos 22. és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
+
+[^48]: A 28/I. §-t a 365/2021. (VI. 30.) Korm. rendelet 6. §-a iktatta be.
