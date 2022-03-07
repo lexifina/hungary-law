@@ -12,7 +12,7 @@
 
 ## Határidő: azonnal
 
-## c) az Áht. 33. § (2) bekezdésben biztosított jogkörében eljárva összesen 400 291 203 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére,
+## c)[^1] az Áht. 33. § (2) bekezdésben biztosított jogkörében eljárva összesen 400 291 203 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére,
 
 ## ca) a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 66. Kiemelt sportegyesületek sportlétesítmény-fejlesztéseinek támogatása jogcímcsoport javára 400 091 203 forint, valamint
 
@@ -32,7 +32,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2021. szeptember 30.
+## Határidő: 2022. március 30.
 
 ## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli 2 623 844 068 forint egyszeri átcsoportosítását, a 4. melléklet szerint.
 
@@ -46,62 +46,63 @@
 
 ## Határidő: azonnal
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
-## 5.[^4]
+## 5.[^5]
 
-## 6.[^5]
+## 6.[^6]
 
-## 7.[^6]
+## 7.[^7]
 
-## 8.[^7]
+## 8.[^8]
 
-## 9.[^8]
+## 9.[^9]
 
-## 10.[^9]
+## 10.[^10]
 
-## 11.[^10]
+## 11.[^11]
 
-## 12.[^11]
+## 12.[^12]
 
-## 13.[^12]
+## 13.[^13]
 
-## 14.[^13]
+## 14.[^14]
 
-## 15.[^14]
+## 15.[^15]
 
-## 16.[^15]
+## 16.[^16]
 
-## 17.[^16]
+## 17.[^17]
 
-## 18.[^17]
+## 18.[^18]
 
-## 19.[^18]
+## 19.[^19]
 
-## 20.[^19]
+## 20.[^20]
 
 1. melléklet az 1176/2020. (IV. 23.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpont záró szövegrésze az 1121/2022. (III. 7.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
