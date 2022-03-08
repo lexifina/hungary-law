@@ -52,30 +52,33 @@
 
 ## i) az Ávr. 172/B. § (3) bekezdésében biztosított jogkörében eljárva az Ávr. 172/A. § (2) bekezdése alapján a XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezet részére megállapított, 2020. október hónapban adott éves előrejelzés tekintetében 119 122 884 forint, az Ávr. 172/A. § (3) bekezdése alapján a XVIII. Külgazdasági és Külügyminisztérium fejezet részére megállapított, a 2021. szeptember hónapra adott előrejelzés tekintetében 42 456 802 forint, a 2021. október hónapra adott előrejelzés tekintetében 5 845 985 forint, a XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezet részére megállapított, a 2021. október hónapra adott előrejelzés tekintetében 267 280 278 forint, a XX. Emberi Erőforrások Minisztériuma fejezet részére megállapított, a 2021. november hónapra adott előrejelzés tekintetében 60 439 765 forint befizetési kötelezettséget elengedi.
 
-## 2. A 2017–2020. évekre vonatkozó újpesti sportlétesítmény-fejlesztési program megvalósításához szükséges intézkedésekről szóló 1791/2017. (XI. 8.) Korm. határozat 9. pont a) alpontja helyébe a következő rendelkezés lép:
+## 2.[^1]
 
-## (A Kormány felhívja az emberi erőforrások miniszterét, hogy)
+## 3.[^2]
 
-## „a) – az UTE és Budapest Főváros IV. kerület Újpest Önkormányzata bevonásával – készítsen előterjesztést a Kormány részére az előkészítési fázisok befejezéséhez szükséges intézkedésekről az 5. pont a), b) és d) alpontja szerinti beruházások tekintetében,
+## 4.[^3]
 
-## Felelős: emberi erőforrások minisztere
+## 5.[^4]
 
-## Határidő: 2022. június 30.”
+## 6.[^5]
 
-## 3. Az egyes feladatok forrásszükségletének biztosításáról szóló 1809/2018. (XII. 23.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 7.[^6]
 
-## 4. A Kormány visszavonja az egyes feladatok forrásszükségletének biztosításáról szóló 1809/2018. (XII. 23.) Korm. határozat 53. sorát.
+## 8.[^7]
 
-## 5. A Központi Maradványelszámolási Alapból, a Beruházás Előkészítési Alapból, a Gazdaságvédelmi programok előirányzatból történő és fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1176/2020. (IV. 23.) Korm. határozat 1. pont c) alpontjában a „2021. szeptember 30.” szövegrész helyébe a „2022. március 30.” szöveg lép.
+## 9.[^8]
 
-## 6. A Diósgyőri Városrész Testgyakorló Kör Sportegyesület észak-magyarországi sportfejlesztési programjának folytatásához, valamint az Észak-magyarországi Regionális Utánpótlás Központ működéséhez és sportszakmai fejlődéséhez szükséges intézkedésekről szóló 1198/2021. (IV. 26.) Korm. határozat 2. pontjában az „Észak-magyarországi Regionális Utánpótlás Központ működésének” szövegrész helyébe az „Észak-magyarországi Regionális Utánpótlás Központ 2020–2021. évi működésének” szöveg lép.
+## 10.[^9]
 
-## 7. A Gazdaság-újraindítási programok előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékokból és a Központi Maradványelszámolási Alapból történő előirányzat-átcsoportosításról szóló 1388/2021. (VI. 18.) Korm. határozat 2. pontjában a „2021. december 31.” szövegrész helyébe a „2021. december 31., a Kiemelt sportegyesületek támogatása előirányzat javára biztosított 300 000 000 forint tekintetében 2023. február 15.” szöveg lép.
+1. melléklet az 1121/2022. (III. 7.) Korm. határozathoz[^10]
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, címrendi kiegészítésről, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről és kormányhatározat módosításáról szóló 1784/2021. (XI. 5.) Korm. határozat 1. pont c) alpontjában a „2022. február 28.” szövegrész helyébe a „2022. június 30.” szöveg lép.
-
-## 9. A címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kormányhatározat módosításáról, valamint kötelezettségvállalás engedélyezéséről szóló 1886/2021. (XII. 8.) Korm. határozat 1.5. alpontjában a „2022. február 28.” szövegrész helyébe a „2022. február 28., az Országos Idegenrendészeti Főigazgatóság cím javára biztosított 837 000 000 forint tekintetében 2023. február 28.” szöveg lép.
-
-## 10. A szomszédos országokban felmerülő humanitárius katasztrófa kezelésének támogatásáról szóló 1119/2022. (III. 5.) Korm. határozat 1. mellékletében a „b) a következő év költségvetésébe beépülő” szövegrészek helyébe az „a) a költségvetési évben egyszeri jellegű” szöveg lép.
-
-1. melléklet az 1121/2022. (III. 7.) Korm. határozathoz
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
