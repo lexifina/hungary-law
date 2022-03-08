@@ -30,7 +30,7 @@
 
 | 2019 | 2020 |
 
-| 1 | Kaposvári Egyházmegye | Kaposvári székesegyház felújítása | 1 050 000 000 | 1 050 000 000 |
+| 1 | Kaposvári Egyházmegye | Kaposvári székesegyház és környezetének felújítása | 1 050 000 000 | 1 050 000 000 |
 
 | 2 | Kalocsa-Kecskeméti Főegyházmegye | Kecskeméti székesegyház felújítása | 500 000 000 | 300 000 000 |
 
@@ -59,4 +59,4 @@
 [^1]: Lásd az 1382/2019. (VI. 26.) Korm. határozat 3. pontját.
 [^2]: Lásd az 1382/2019. (VI. 26.) Korm. határozat 4. pontját.
 [^3]: Lásd az 1382/2019. (VI. 26.) Korm. határozat 5. pontját.
-[^4]: Az 1. melléklet az 1382/2019. (VI. 26.) Korm. határozat 6. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet az 1382/2019. (VI. 26.) Korm. határozat 6. pontjával megállapított, az 1135/2022. (III. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
