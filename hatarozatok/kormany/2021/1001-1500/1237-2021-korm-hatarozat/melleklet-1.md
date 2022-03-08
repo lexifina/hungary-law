@@ -1,6 +1,6 @@
 ## 1. egyetért a kisbéri tanuszoda építésének (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Kisbér belterület 1027/6 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-## 2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 375 155 613 forintban határozza meg;
+## 2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 407 993 051 forintban határozza meg;
 
 ## 3. a 2. pont szerinti összeg 2021. évi részének finanszírozása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 338 976 405 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
 
@@ -75,3 +75,5 @@
 |  |  | egyéb: |  | azonnal |  | 291 826 212 |  |  |  |  |  |  |  |  |  | 291 826 212 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1126/2022. (III. 8.) Korm. határozat 29. pontja szerint módosított szöveg.
