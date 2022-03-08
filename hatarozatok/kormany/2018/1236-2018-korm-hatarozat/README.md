@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1236-30
 | --- | --- | --- |
 | 2018-04-25 | 2018-1236-30-22.1 | 1236/2018. (IV. 25.) Korm. határozat |
 | 2019-09-04 | 2018-1236-30-22.2 | 1522/2019. (IX. 4.) Korm. határozat |
+| 2022-03-08 | 2018-1236-30-22.3 | 1522/2019. (IX. 4.) Korm. határozat |

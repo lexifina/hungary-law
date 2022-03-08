@@ -1,6 +1,6 @@
 ## 1. egyetért a Szeged-Csanádi Egyházmegye beruházásainak támogatásával;
 
-## 2.[^1] a beruházással összefüggésben, a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a)–o) pontja szerinti előkészítési fázisokra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 1 225 641 132 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére az 1. melléklet szerint azzal, hogy a Szegedi Tudományegyetem Vántus István Gyakorló Zeneművészeti Szakgimnázium új épületben történő elhelyezésére irányuló munkálatok tekintetében az előkészítési fázisokat 2019. augusztus 31-ig, a katolikus általános iskola és gimnázium Szegeden történt létesítése, valamint a Szegedi Tudományegyetem Apáthy Kollégiumának helyén új épület építése tekintetében az előkészítési fázisokat 2021. december 31-ig kell megvalósítani;
+## 2.[^1] a beruházással összefüggésben, a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a)–o) pontja szerinti előkészítési fázisokra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 1 225 641 132 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére az 1. melléklet szerint azzal, hogy a Szegedi Tudományegyetem Vántus István Gyakorló Zeneművészeti Szakgimnázium új épületben történő elhelyezésére irányuló munkálatok tekintetében az előkészítési fázisokat 2019. augusztus 31-ig, a katolikus általános iskola és gimnázium Szegeden történt létesítése, valamint a Szegedi Tudományegyetem Apáthy Kollégiumának helyén új épület építése tekintetében az előkészítési fázisokat 2023. december 31-ig kell megvalósítani;
 
 ## 3.[^2] az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként a miniszterelnök általános helyettesét jelöli ki;
 
@@ -132,7 +132,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont az 1522/2019. (IX. 4.) Korm. határozat a) pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1522/2019. (IX. 4.) Korm. határozat a) pontja, az 1135/2022. (III. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^2]: A 3. pont az 1522/2019. (IX. 4.) Korm. határozat b) pontja szerint módosított szöveg.
 [^3]: A 8. pont a) alpontja az 1522/2019. (IX. 4.) Korm. határozat c) pontja szerint módosított szöveg.
 [^4]: A 8. pont b) alpontja az 1522/2019. (IX. 4.) Korm. határozat d) pontja szerint módosított szöveg.
