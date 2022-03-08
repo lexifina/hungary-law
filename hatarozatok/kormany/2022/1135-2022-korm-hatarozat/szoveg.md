@@ -1,0 +1,3 @@
+1. A Szeged-Csanádi Egyházmegye beruházásainak támogatása érdekében szükséges kormányzati intézkedésekről szóló 1236/2018. (IV. 25.) Korm. határozat 2. pontjában a „2021. december 31-ig” szövegrész helyébe a „2023. december 31-ig” szöveg lép.
+
+2. A hitéleti tevékenységhez kapcsolódó működési támogatás biztosításához és egyes beruházások megvalósításához szükséges kormányzati intézkedésekről szóló 1173/2019. (IV. 1.) Korm. határozat 1. mellékletében foglalt táblázat 1. sorában a „Kaposvári székesegyház felújítása” szövegrész helyébe a „Kaposvári székesegyház és környezetének felújítása” szöveg lép.
