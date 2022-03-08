@@ -1,1 +1,0 @@
-## 1. § Az Ukrajna területéről érkezett ukrán állampolgár, valamint az Ukrajnában jogszerűen tartózkodó harmadik országbeli állampolgár tekintetében a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 84. alcímét nem kell alkalmazni.
