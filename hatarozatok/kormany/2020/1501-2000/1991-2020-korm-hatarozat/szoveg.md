@@ -12,7 +12,7 @@ b) megvalósítója a Beruházási Ügynökség
 
 legyen;
 
-4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), b), c), e), f), g), k), l), n), o) és p) pontja szerinti előkészítési fázisaira a 2021–2022. években összesen 1 604 201 700 forintot biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2022. május 31. napjáig kell megvalósítani;
+4.[^1] a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), b), c), e), f), g), k), l), n), o) és p) pontja szerinti előkészítési fázisaira a 2021–2022. években összesen 1 604 201 700 forintot biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2022. szeptember 30. napjáig kell megvalósítani;
 
 5. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a 4. pont szerinti előkészítési fázisokhoz a 2021. évben szükséges 724 061 850 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára;
 
@@ -22,13 +22,13 @@ emberi erőforrások minisztere
 
 Határidő: a felmerülés ütemében
 
-6. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a 4. pont szerinti előkészítési fázisokhoz a 2022. évben szükséges 880 139 850 forint rendelkezésre állásáról a 2022. évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében;
+6.[^2] felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere kezdeményezése alapján gondoskodjon 880 139 850 forint rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: 2022. évi Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 3. Beruházási Alap jogcímcsoport terhére, a 2022. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára;
 
 Felelős: pénzügyminiszter
 
 emberi erőforrások minisztere
 
-Határidő: a 2022. évi központi költségvetés tervezése során
+Határidő: a felmerülés ütemében
 
 7. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 4. pont szerinti előkészítési fázisok megvalósítása érdekében a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények címen belül, a Levéltár költségvetése terhére vállalható éven túli kötelezettségvállalás felső korlátját 1 603 400 000 forintban állapítja meg az alábbiak szerint:
 
@@ -49,3 +49,6 @@ Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2021. május 31.
+
+[^1]: A 4. pont az 1132/2022. (III. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 6. pont az 1132/2022. (III. 8.) Korm. határozat 1. pontjával megállapított szöveg.
