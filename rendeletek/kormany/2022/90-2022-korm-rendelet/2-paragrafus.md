@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Szlovén Köztársaság Kormánya között a magyar–szlovén határ két oldalán fekvő vegyes nemzetiségű területen való gazdasági és társadalmi fejlesztési együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
