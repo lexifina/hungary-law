@@ -1,6 +1,6 @@
-29/B. §[^338] (1) A Kiemelt várólista csökkentési programhoz tartozó járóbeteg-szakellátási szolgáltatások finanszírozását az 5. számú melléklet szerinti „várólista csökkentés” előirányzaton (e § alkalmazásában a továbbiakban: előirányzat) biztosított forrás-fedezet rendelkezésre állását követően annak felhasználásával kell elvégezni, a járóbeteg-szakellátásra vonatkozó adatszolgáltatási és elszámolási szabályok és a (2)–(6) bekezdésben foglaltak figyelembevételével.
+29/B. §[^340] (1) A Kiemelt várólista csökkentési programhoz tartozó járóbeteg-szakellátási szolgáltatások finanszírozását az 5. számú melléklet szerinti „várólista csökkentés” előirányzaton (e § alkalmazásában a továbbiakban: előirányzat) biztosított forrás-fedezet rendelkezésre állását követően annak felhasználásával kell elvégezni, a járóbeteg-szakellátásra vonatkozó adatszolgáltatási és elszámolási szabályok és a (2)–(6) bekezdésben foglaltak figyelembevételével.
 
-(2) A Kiemelt várólista csökkentési programot a program indítását követő 6 hónapon belül kell teljesíteni.
+(2)[^341] A Kiemelt várólista csökkentési programot 2022. december 31-ig kell teljesíteni.
 
 (3) A Kiemelt várólista csökkentési programba bevont szolgáltatók az előirányzat terhére a 39. számú mellékletben felsorolt szakmákban nevesített beavatkozásokat, valamint a 26/B. § (2) bekezdése szerinti fekvőbeteg-ellátási eseményekhez kapcsolódóan az azt megelőzően végzett beavatkozásokat jelentik a NEAK által megállapított keretösszeg mértékéig.
 
@@ -14,4 +14,5 @@
 
 (8) Az emelt összegű finanszírozási díj kifizetésének feltétele, hogy az ellátást nyújtó egészségügyi szolgáltató, az elvégzett diagnosztikai vizsgálat eredményét a diagnosztikai ellátás elvégzésétől számított 5 munkanapon belül feltölti az EESZT-be. Ennek hiányában a NEAK a finanszírozási díj utalványozását nem teljesíti.
 
-[^338]: A 29/B. §-t a 697/2020. (XII. 29.) Korm. rendelet 28. § d) pontja újból hatályon kívül helyezte, újonnan az 542/2021. (IX. 24.) Korm. rendelet 2. §-a iktatta be.
+[^340]: A 29/B. §-t a 697/2020. (XII. 29.) Korm. rendelet 28. § d) pontja újból hatályon kívül helyezte, újonnan az 542/2021. (IX. 24.) Korm. rendelet 2. §-a iktatta be.
+[^341]: A 29/B. § (2) bekezdése a 91/2022. (III. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

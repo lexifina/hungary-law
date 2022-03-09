@@ -1,6 +1,6 @@
-## A tervezett éves keret megállapításának szabályai[^297]
+## A tervezett éves keret megállapításának szabályai[^299]
 
-27. §[^298] (1) A finanszírozási szerződésben minden ellátási forma tekintetében meghatározható a szolgáltató által nyújtható szolgáltatások köre, a tervezett éves keret, a teljesítés időbeli ütemezése, valamint a tervezett éves keret feletti ellátások köre. A járóbeteg-, és aktív fekvőbeteg-szakellátás, az általános anesztéziában végzett egynapos fogászati ellátás, az aktív fekvőbeteg-szakellátási háttérrel nem rendelkező önálló egynapos sebészeti ellátások (a továbbiakban: önálló egynapos ellátások), továbbá a molekuláris diagnosztikai vizsgálatok (PCR) és laboratóriumi ellátások, valamint a krónikus fekvőbeteg ellátás tervezett éves keretének finanszírozó általi megállapítása az e rendeletben foglaltak szerint történik.
+27. §[^300] (1) A finanszírozási szerződésben minden ellátási forma tekintetében meghatározható a szolgáltató által nyújtható szolgáltatások köre, a tervezett éves keret, a teljesítés időbeli ütemezése, valamint a tervezett éves keret feletti ellátások köre. A járóbeteg-, és aktív fekvőbeteg-szakellátás, az általános anesztéziában végzett egynapos fogászati ellátás, az aktív fekvőbeteg-szakellátási háttérrel nem rendelkező önálló egynapos sebészeti ellátások (a továbbiakban: önálló egynapos ellátások), továbbá a molekuláris diagnosztikai vizsgálatok (PCR) és laboratóriumi ellátások, valamint a krónikus fekvőbeteg ellátás tervezett éves keretének finanszírozó általi megállapítása az e rendeletben foglaltak szerint történik.
 
 (2) A finanszírozó minden év januárban honlapján közzéteszi a tárgyidőszakot megelőző finanszírozási év (november–október) adatai alapján meghatározott, az (1) bekezdésben nevesített ellátások tervezett éves keretét szolgáltatónkénti és ellátási formánkénti bontásban.
 
@@ -32,7 +32,7 @@ d) a 29/A. § (1) és (2) bekezdése szerinti vizsgálatok,
 
 e) a 12611 kódszámú transztelefonikus EKG alkalmazása akut kardiális kórképekben mentési feladatok ellátása során tevékenység,
 
-f)[^299] országosan szervezett, népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó 11045, 11303, 11050, 29001, 29003, 29004, 29005, 29006, 42151, 42750, 54524, 54694, 54823 kódszámú beavatkozások,
+f)[^301] országosan szervezett, népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó 11045, 11303, 11050, 29001, 29003, 29004, 29005, 29006, 42151, 42750, 54524, 54694, 54823 kódszámú beavatkozások,
 
 g) meddőségkezelési ellátásokhoz kapcsolódó 16640, 16641, 16642, 16643, 16644 kódszámú beavatkozások
 
@@ -64,6 +64,6 @@ kivételével történik.
 
 (19) Ha a finanszírozó tudomására jut, hogy az egészségügyi szolgáltató a területi ellátási kötelezettségébe tartozó beteg ellátását megtagadta, kikéri az országos tisztifőorvos véleményét, amely alapján a finanszírozó az országos kórház-főigazgató, illetve más szerv fenntartásában álló szolgáltató esetén a fenntartó értesítésével az egészségügyi szolgáltató tervezett éves keretét esetenként járóbeteg-szakellátásban legalább 1, aktív fekvőbeteg-szakellátásban legalább 2 súlyszámnak megfelelő mértékkel csökkenti.
 
-[^297]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
-[^298]: A 27. § a 697/2020. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^299]: A 27. § (11) bekezdés f) pontja a 605/2021. (XI. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^299]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^300]: A 27. § a 697/2020. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^301]: A 27. § (11) bekezdés f) pontja a 605/2021. (XI. 2.) Korm. rendelet 1. §-ával megállapított szöveg.

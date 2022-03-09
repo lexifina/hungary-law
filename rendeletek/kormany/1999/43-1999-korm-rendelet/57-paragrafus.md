@@ -1,3 +1,3 @@
-57. §[^526]
+57. §[^529]
 
-[^526]: Az 57. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § f) pontja.
+[^529]: Az 57. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § f) pontja.
