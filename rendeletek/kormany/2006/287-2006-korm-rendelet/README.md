@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-287-20-
 | 2018-12-20 | 2006-287-20-22.30 | 261/2018. (XII. 19.) Korm. rendelet |
 | 2019-01-01 | 2006-287-20-22.31 | 287/2018. (XII. 21.) Korm. rendelet |
 | 2020-07-31 | 2006-287-20-22.32 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2022-03-09 | 2006-287-20-22.33 | 91/2022. (III. 8.) Korm. rendelet |
