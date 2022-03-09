@@ -1,3 +1,3 @@
-## 13. §[^57]
+## 13. §[^60]
 
-[^57]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 14. §[^58] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 162/2021. (IV. 2.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 3. § (2) és (3) bekezdését, 7/F. §-át és 2. mellékletében foglalt táblázat 11. sorát a Módr6. hatálybalépésekor[^59] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 14. §[^61] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 162/2021. (IV. 2.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 3. § (2) és (3) bekezdését, 7/F. §-át és 2. mellékletében foglalt táblázat 11. sorát a Módr6. hatálybalépésekor[^62] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^58]: A 14. §-t újonnan a 162/2021. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
-[^59]: A hatálybalépés időpontja 2021. április 3.
+[^61]: A 14. §-t újonnan a 162/2021. (IV. 2.) Korm. rendelet 2. §-a iktatta be.
+[^62]: A hatálybalépés időpontja 2021. április 3.

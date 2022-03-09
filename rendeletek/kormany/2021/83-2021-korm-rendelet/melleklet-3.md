@@ -140,6 +140,14 @@
 
 | 69. | Budapesti oktatási célú beruházás | Budapest XI. kerület belterület, 5063 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^142]
+| 70. | Debreceni Egyetem Műszaki Kar „A” és „B” épületének komplex infrastrukturális fejlesztésére és bővítésére irányuló beruházás | Debrecen belterület 5844 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^142]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+| 71. | A Debreceni Egyetem Járműlabor épületének létrehozására, valamint az Innovációs Park területén innovációs célú épületek létrehozására irányuló beruházás | Debrecen külterület 0181/7 és 0181/8 helyrajzi számú ingatlanok | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 72. | Debreceni Egyetem UniGreen Projekttel (UniGreen Hotel – innovációs oktatószálloda, tankonyha és tanétterem) összefüggő beruházások | Debrecen belterület 22232/2 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 73. | Debrecen megyei jogú város közigazgatási területén fejlesztési terület kialakításával és az ezen a területen megvalósítandó oktatás-kutatás-fejlesztési célú és azokat kiszolgáló beruházások | Debrecen belterület 22246/1 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^147]
+
+[^147]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

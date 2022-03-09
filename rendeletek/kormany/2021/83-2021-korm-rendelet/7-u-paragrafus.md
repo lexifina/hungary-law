@@ -1,4 +1,4 @@
-7/U. §[^47] (1) A 2. mellékletben foglalt táblázat 47. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/U. §[^50] (1) A 2. mellékletben foglalt táblázat 47. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -30,4 +30,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bek
 
 12. hátsó és oldalkertben építési helyen kívül terepszint alatt kertészeti tároló és karbantartó helyiség létesíthető, maximum 200 m2-es alapterülettel.
 
-[^47]: A 7/U. §-t az 525/2021. (IX. 8.) Korm. rendelet 4. §-a iktatta be.
+[^50]: A 7/U. §-t az 525/2021. (IX. 8.) Korm. rendelet 4. §-a iktatta be.
