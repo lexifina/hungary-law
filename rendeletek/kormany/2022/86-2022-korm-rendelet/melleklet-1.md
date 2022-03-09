@@ -1,4 +1,4 @@
-## 13. § Hatályát veszti a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény menekültügyi eljárás átmeneti szabályainak eltérő alkalmazásáról szóló 56/2022. (II. 24.) Korm. rendelet.
+## 13. §[^2]
 
 1. melléklet a 86/2022. (III. 7.) Korm. rendelethez
 
@@ -17,3 +17,5 @@ A megjegyzések között
 3. a menedékes anyja születési családi és utónevét vagy -neveit
 
 kell feltüntetni.
+
+[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
