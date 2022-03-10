@@ -1,1 +1,3 @@
-## „(8) A Kiemelt várólista csökkentési program 26/B. § (4) bekezdése szerinti teljesítését szakmai szempontból a szakmailag érintett országos gyógyintézet ellenőrizheti.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
