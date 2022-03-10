@@ -26,7 +26,7 @@ a támogatott szervezet köteles azt az okról való tudomásszerzéstől szám�
 
 (5a)[^111] A Tao. tv. 22/C. § (4c) bekezdése alapján a támogatott szervezet a sportfejlesztési program megvalósítása során egy alkalommal kérelmezheti a jóváhagyást végző szervezetnél a jóváhagyott sportfejlesztési programban szereplő támogatás mértékének módosítását. A kérelem nem irányulhat az ellenőrző szervezet részére benyújtott elszámolásban, részelszámolásban szereplő saját forrás csökkentésére.
 
-(6)[^112] A támogatott szervezet a sportfejlesztési program megvalósítása során az a) és b) pontban foglalt feltételek legalább egyikének teljesülése esetén egy alkalommal kérelmezheti a jóváhagyást végző szervezetnél a sportfejlesztési program szerinti ingatlan-fejlesztésre irányuló tárgyi eszköz beruházás, felújítás támogatási jogcímen jóváhagyott, kizárólag a beruházással, felújítással összefüggő támogatás összegének növelését, feltéve hogy a támogatási összeg növekedése
+(6)[^112] A támogatott szervezet a sportfejlesztési program megvalósítása során az a) és b) pontban foglalt feltételek legalább egyikének teljesülése esetén két alkalommal kérelmezheti a jóváhagyást végző szervezetnél a sportfejlesztési program szerinti ingatlan-fejlesztésre irányuló tárgyi eszköz beruházás, felújítás támogatási jogcímen jóváhagyott, kizárólag a beruházással, felújítással összefüggő támogatás összegének növelését, feltéve hogy a támogatási összeg növekedése
 
 a) a sportfejlesztési program műszaki vagy szakmai tartalmának módosítása miatt szükséges, és a műszaki, szakmai tartalom változása a projekt eredményessége szempontjából kedvezőbb megoldást eredményez,
 
@@ -52,7 +52,7 @@ b) a műszaki, szakmai tartalmat nem érintő olyan változtatásra irányul, am
 [^109]: A 10. § (4) bekezdése a 314/2019. (XII. 18.) Korm. rendelet 3. § b) pontja, a 25/2020. (II. 25.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^110]: A 10. § (5) bekezdése a 314/2019. (XII. 18.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^111]: A 10. § (5a) bekezdését a 314/2019. (XII. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 723/2020. (XII. 31.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^112]: A 10. § (6) bekezdése a 318/2018. (XII. 27.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^112]: A 10. § (6) bekezdése a 318/2018. (XII. 27.) Korm. rendelet 9. § (2) bekezdésével megállapított, nyitó szövegrésze a 89/2022. (III. 7.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^113]: A 10. § (6a) bekezdését a 318/2018. (XII. 27.) Korm. rendelet 9. § (3) bekezdése iktatta be.
 [^114]: A 10. § (6b) bekezdését a 40/2019. (III. 7.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 314/2019. (XII. 18.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
 [^115]: A 10. § (7) bekezdése a 314/2019. (XII. 18.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.

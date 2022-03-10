@@ -1,6 +1,6 @@
-## 5/B. [^172] Adatszolgáltatási kötelezettség
+## 5/B. [^173] Adatszolgáltatási kötelezettség
 
-15/B. §[^173] (1) A sportpolitikáért felelős miniszter a sportfejlesztési programok jóváhagyásáról szóló döntések 4. § szerinti meghozatalát követően, de legkésőbb a tárgyév október 30-áig adatot szolgáltat az államháztartásért felelős miniszter és az adópolitikáért felelős miniszter részére a sportfejlesztési programban feltüntetett, egyes jogcímeken igénybe vehető támogatás teljes értékéről.
+15/B. §[^174] (1) A sportpolitikáért felelős miniszter a sportfejlesztési programok jóváhagyásáról szóló döntések 4. § szerinti meghozatalát követően, de legkésőbb a tárgyév október 30-áig adatot szolgáltat az államháztartásért felelős miniszter és az adópolitikáért felelős miniszter részére a sportfejlesztési programban feltüntetett, egyes jogcímeken igénybe vehető támogatás teljes értékéről.
 
 (2) A sportpolitikáért felelős miniszter negyedévente adatokat szolgáltat az államháztartásért felelős miniszter és az adópolitikáért felelős miniszter részére a támogatott szervezetek részére az egyes támogatási jogcímeken kiadott igazolásokról és támogatási igazolásokról.
 
@@ -8,5 +8,5 @@
 
 (4) A jóváhagyó szervezet (3) bekezdés szerinti adatszolgáltatására és közzétételre az Atr. 18/A–18/D. § rendelkezéseit kell alkalmazni.
 
-[^172]: Az 5/B. alcímet (15/B. §) a 76/2012. (IV. 13.) Korm. rendelet 7. §-a iktatta be.
-[^173]: A 15/B. § a 318/2018. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^173]: Az 5/B. alcímet (15/B. §) a 76/2012. (IV. 13.) Korm. rendelet 7. §-a iktatta be.
+[^174]: A 15/B. § a 318/2018. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.

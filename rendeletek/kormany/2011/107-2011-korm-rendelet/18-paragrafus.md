@@ -1,3 +1,3 @@
-## 17. §[^241]
+## 17. §[^244]
 
-[^241]: A 17. §-t a 318/2018. (XII. 27.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^244]: A 17. §-t a 318/2018. (XII. 27.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
