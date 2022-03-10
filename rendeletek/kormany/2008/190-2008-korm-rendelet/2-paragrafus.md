@@ -10,7 +10,7 @@ ab) munkaszüneti napokon a megelőző nap 22 órától a munkaszüneti nap 22 �
 
 b) szeptember 1-jétől június 30-áig a megelőző nap 22 órától vasárnap és munkaszüneti napokon 22 óráig
 
-## közlekedni nem szabad.
+közlekedni nem szabad.
 
 (2) Ha a munkaszüneti nap az (1) bekezdés a) pontjában meghatározott időszakon belül szombat vagy vasárnap előtti, vagy az (1) bekezdés b) pontjában meghatározott időszakon belül vasárnap előtti napra esik, a forgalomkorlátozást a korlátozott időszak első nap 8 órától az utolsó nap 22 óráig időben folyamatosan, megszakítás nélkül kell alkalmazni.
 

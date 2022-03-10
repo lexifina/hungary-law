@@ -1,6 +1,6 @@
-5. §[^2] (1) A 2. §-ban meghatározott közlekedési korlátozás nem vonatkozik:
+5. §[^4] (1) A 2. §-ban meghatározott közlekedési korlátozás nem vonatkozik:
 
-1.[^3] a Magyar Honvédség, a közjogi engedély alapján Magyarországon tartózkodó külföldi fegyveres erők, a rendőrség, a nemzetbiztonsági szolgálatok, a büntetés-végrehajtás, a katasztrófavédelem, a vámhatóság szervezete, valamint a közlekedési hatóság által üzemben tartott vagy igénybe vett,
+1.[^5] a Magyar Honvédség, a közjogi engedély alapján Magyarországon tartózkodó külföldi fegyveres erők, a rendőrség, a nemzetbiztonsági szolgálatok, a büntetés-végrehajtás, a katasztrófavédelem, a vámhatóság szervezete, valamint a közlekedési hatóság által üzemben tartott vagy igénybe vett,
 
 2. a katasztrófa- és vízkárelhárítást, -megelőzést, valamint segítségnyújtást végző,
 
@@ -20,7 +20,7 @@
 
 10. az 1–7. pontban meghatározott szállítási cél érdekében – a fel- és lerakóhely között, továbbá azok és a telephely viszonylatában – üresen közlekedő
 
-## tehergépkocsira.
+tehergépkocsira.
 
 (2) A 2. §-ban meghatározott közlekedési korlátozás – a 2. § (1) bekezdés a) pontjában meghatározott időszakban a 3. mellékletben meghatározott útvonalak kivételével – nem vonatkozik:
 
@@ -54,5 +54,7 @@ a korlátozás ideje alatt érkező, illetőleg továbbításra kerülő árut s
 
 12. az 1–2., 4–5., 8–9., és a 11. pontban meghatározott szállítási cél érdekében – a fel- és lerakóhely között, továbbá azok és a telephely viszonylatában – üresen közlekedő
 
-[^2]: Az 5. § a 297/2014. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 5. § (1) bekezdés 1. pontja az 516/2017. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+tehergépkocsira.
+
+[^4]: Az 5. § a 297/2014. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés 1. pontja az 516/2017. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

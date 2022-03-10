@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-190-20-
 | 2014-12-15 | 2008-190-20-22.7 | 297/2014. (XII. 3.) Korm. rendelet |
 | 2017-01-01 | 2008-190-20-22.8 | 297/2014. (XII. 3.) Korm. rendelet |
 | 2017-12-30 | 2008-190-20-22.9 | 516/2017. (XII. 29.) Korm. rendelet |
+| 2022-03-10 | 2008-190-20-22.10 | 99/2022. (III. 10.) Korm. rendelet |
