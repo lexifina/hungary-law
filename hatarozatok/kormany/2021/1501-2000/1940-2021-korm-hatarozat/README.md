@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1940-30
 | --- | --- | --- |
 | 2021-12-21 | 2021-1940-30-22.1 | 1940/2021. (XII. 21.) Korm. határozat |
 | 2021-12-22 | 2021-1940-30-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-03-10 | 2021-1940-30-22.3 | 1139/2022. (III. 10.) Korm. határozat |

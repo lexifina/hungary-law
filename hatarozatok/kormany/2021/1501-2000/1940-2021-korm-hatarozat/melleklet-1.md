@@ -14,7 +14,7 @@
 
 ## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 7. Országos közúthálózat felújítása jogcím terhére vállalható kötelezettségek mértékét
 
-## a) 2022-ben az 1. melléklet szerinti táblázat C oszlopának összegében,
+## a)[^1]
 
 ## b) 2023-ban az 1. melléklet szerinti táblázat D oszlopának összegében
 
@@ -22,7 +22,7 @@
 
 ## 2. az Áht. 36. § (4b) pontjában biztosított jogkörében eljárva előzetesen jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a kormányhatározatokban szereplő felújítások végrehajtása érdekében legfeljebb az 1. melléklet szerinti táblázat E oszlopának összegében kötelezettséget vállaljon;
 
-## 3.[^1]
+## 3.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter a komplex közútfelújítási feladatok megvalósítása és a komplex közútfelújítási feladatok 2022–2025. évi előkészítése érdekében a 2022. évben a szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon legfeljebb az 1. melléklet C oszlop 1. és 2. sorában szereplő összegek értékéig a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 7. Országos közúthálózat felújítása jogcím terhére.
 
 1. melléklet az 1940/2021. (XII. 21.) Korm. határozathoz
 
@@ -42,4 +42,5 @@ A kötelezettségvállalás mértéke az Országos közúthálózat felújítás
 
 | 5. | 1711/2021. (X. 8.) Korm. határozat |  | 3 444 812 598 |  | 3 444 812 598 |
 
-[^1]: A 3. pont a 2010: CXXX: törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontját az 1139/2022. (III. 10.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 3. pont a 2010: CXXX: törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1139/2022. (III. 10.) Korm. határozat 3. pontja iktatta be.
