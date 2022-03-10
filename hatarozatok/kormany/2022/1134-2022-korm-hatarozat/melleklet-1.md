@@ -18,13 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:329 mezőjében az „5,73” szövegrész helyébe az „5,94” szöveg,
-
-## b) E:329 mezőjében a „0,64” szövegrész helyébe a „0,68” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1134/2022. (III. 8.) Korm. határozathoz
 
@@ -37,3 +31,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban 481/2021. (VIII. 13.) Korm. rendelet] 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az Európai Unió felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az Európai Unió felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az Európai Unió felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az Európai Unió felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az Európai Unió felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az Európai Unió felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | KEHOP- 3.2.1-15- 2016-00005 | Komplex hulladékgazdálkodási rendszer fejlesztése Hajdú-Bihar megyében, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Debreceni Agglomeráció Hulladékgazdálkodási Társulás az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség- javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 89,803672 | 5 720 493 906 | 649 506 094 | 1 704 627 288 | 0 | – | +219 477 575 | +24 919 529 | +68 134 373 | - | 89,803672 | 5 939 971 481 | 674 425 623 | 1 772 761 661 | 0 | 8 387 158 765 | A projekttel szembeni szakmai elvárás a projektterületen élők megfelelő hulladékgazdálkodási közszolgáltatással történő ellátásának biztosítása az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek megfelelően. A projekt keretében a Hajdú-Bihar megyei hulladékgazdálkodási rendszerek komplex továbbfejlesztése, az előválogató kapacitás további fejlesztése, valamint az utóválogató kapacitás kiépítése valósul meg. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
