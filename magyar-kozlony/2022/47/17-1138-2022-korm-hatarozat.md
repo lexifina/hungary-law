@@ -1,0 +1,55 @@
+# A Kormány 1138/2022. (III. 10.) Korm. határozata
+
+Magyar Közlöny 2022. évi 47. szám, 2022. március 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/QKj5d9HzGuUmlwXuReVG6225e305c1a6a/dokumentumok/ba099273f3cf2b65bba323f44bb8e97f99eaae2a/letoltes)
+
+---
+
+A Kormány 1138/2022. (III. 10.) Korm. határozata
+a 2022. évi Felnőtt Birkózó Európa-bajnokság és Grappling Európa-bajnokságon részt vevő járművek
+számára az autóbusz forgalmi sáv használatáról
+1. A Kormány felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztost,
+hogy a Magyar Birkózó Szövetség bevonásával jelölje ki a 2022. évi Felnőtt Birkózó Európa-bajnokság és Grappling
+Európa-bajnokság eseményeinek idejére – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes
+rendelet 36. § (8) bekezdés b) pont bf) alpontja alapján – az autóbusz forgalmi sáv használatára jogosult járműveket,
+és adja ki részükre az 1. melléklet szerinti igazolást és megjelölésre szolgáló jelzést.
+Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
+Határidő: 2022. március 24. és 2022. április 4. között folyamatosan
+2. Az 1. pont szerinti jelzést, annak a járművön történő rögzítési módját, valamint a jelzés használatára jogosító
+igazolás tartalmát és a használat ellenőrzését az 1. melléklet tartalmazza.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1138/2022. (III. 10.) Korm. határozathoz
+A 2022. évi Felnőtt Birkózó Európa-bajnokság és Grappling Európa-bajnokság járműveinek
+megjelölésére szolgáló jelzés, annak a járművön történő rögzítési módja, a jelzés viselésére jogosító
+igazolás tartalma és használatának ellenőrzése
+1. A kijelölt járművek megjelölésére szolgáló jelzést az 1. ábra tartalmazza.
+1.1. Kivitel: öntapadó matrica
+1.2. Elhelyezés: a jármű elején és a hátulján
+1.3. Ha a jármű első vagy hátsó szélvédőjén helyezik el:
+Méretek: 
+szélesség: 10 cm
+magasság: 10 cm
+1.4. Ha a jármű egyéb részén helyezik el:
+Méretek: 
+szélesség: 30 cm
+magasság: 20 cm
+1. ábra
+
+2. Az 1. pontban meghatározott jelzést a jármű első és hátsó részén úgy kell elhelyezni, hogy megfeleljen a közúti
+járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.)
+KöHÉM rendelet 97. §-ában foglalt rendelkezéseknek.
+3. Az 1. pontban meghatározott jelzés járműre történő felhelyezésre jogosító igazolás tartalma:
+„Az autóbusz forgalmi sáv használatára jogosító igazolás”
+3.1. Járműadatok:
+rendszám:
+gyártmány:
+típus:
+3.2. A forgalmi engedély száma:
+3.3. Az igazolás kiállításának kelte:
+3.4. A kiállító aláírása:
+3.5. A kiállító bélyegzőjének helye:
+3.6. Az igazolás érvényessége (év, hónap, nap):
+3.7. Az 1. pontban meghatározott jelzés színes lenyomata:
+4. Az igazolás használatának ellenőrzése:
+Az igazolás és az 1. pontban meghatározott jelzés használatát a közúti közlekedésről szóló 1988. évi I. törvény
+44. § (2) bekezdése szerint a rendőrség ellenőrzi.
