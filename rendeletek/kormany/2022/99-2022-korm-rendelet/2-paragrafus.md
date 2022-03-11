@@ -1,3 +1,3 @@
-## 1. § A nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet (a továbbiakban: R.) 3. §-a a következő (1a) bekezdéssel egészül ki:
+2. §[^3]
 
-## „(1a) A közlekedésért felelős miniszter veszélyhelyzetben a 2. §-ban foglalt időszakot legfeljebb kettő nappal kiterjesztheti.”
+[^3]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
