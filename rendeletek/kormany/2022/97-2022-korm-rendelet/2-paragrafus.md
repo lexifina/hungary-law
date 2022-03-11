@@ -1,0 +1,3 @@
+## 1. § Az ideiglenes védelemre jogosultként elismert személyekkel kapcsolatos veszélyhelyzeti szabályokról, továbbá a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény szabályainak eltérő alkalmazásáról szóló 86/2022. (III. 7.) Korm. rendelet 6. § (2) bekezdés b) pontjában az „egyéb krónikus betegellátás keretében állapotjavítás,” szövegrész helyébe az „egyéb krónikus betegellátás, valamint az egészségügyi alapellátás keretében állapotjavítás,” szöveg lép.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
