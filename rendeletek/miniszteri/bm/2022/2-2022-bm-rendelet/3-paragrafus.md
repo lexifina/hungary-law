@@ -1,0 +1,3 @@
+## 2. § A Rendelet 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 2. § hatálya alá tartozó, elsődleges mezőgazdasági termelés támogatása esetén a 60 000 eurónak megfelelő forintösszeget, a halászati és akvakultúra-termékek termelésével, feldolgozásával és értékesítésével kapcsolatos tevékenység támogatása esetén a 30 000 eurónak megfelelő forintösszeget, egyéb tevékenység támogatása esetén az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.”

@@ -1,0 +1,3 @@
+## 3. § A Rendelet 6. § (5a) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5a) Az egyedi átmeneti támogatásoknak az Atr. 6. melléklete szerinti adatait az átmeneti támogatást jóváhagyó európai bizottsági határozat szerint közzé kell tenni az Európai Bizottság közzétételi adatbázisában. Erre figyelemmel az egyedi átmeneti támogatást nyújtó 2021. február 1-jéig, az ezt követően odaítélt támogatások esetén pedig a támogatás odaítélésétől számított hat hónapon belül továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az egyedi átmeneti támogatásoknak az Atr. 6. melléklete szerinti adatait.”
