@@ -4,7 +4,7 @@
 
 a) a Metvhr. 44. § (2) bekezdése szerinti egészségügyi ellátás,
 
-b) az a) pont szerinti ellátáson túl az onkológiai szakellátás, egyéb krónikus betegellátás keretében vizsgálat és gyógykezelés, továbbá az ártámogatással a társadalombiztosítás egyes ellátásaira jogosultak által az onkológiai szakellátás és egyéb krónikus betegellátás keretében állapotjavítás, állapotfenntartás vagy fájdalomcsillapítás érdekében igénybe vehető gyógyszerkészítmény, valamint
+b)[^1] az a) pont szerinti ellátáson túl az onkológiai szakellátás, egyéb krónikus betegellátás keretében vizsgálat és gyógykezelés, továbbá az ártámogatással a társadalombiztosítás egyes ellátásaira jogosultak által az onkológiai szakellátás és egyéb krónikus betegellátás, valamint az egészségügyi alapellátás keretében állapotjavítás, állapotfenntartás vagy fájdalomcsillapítás érdekében igénybe vehető gyógyszerkészítmény, valamint
 
 c) a Metvhr. 49. §-a szerinti okmány fordítási költségeinek megtérítése
 
@@ -18,4 +18,7 @@ c) a Metvhr. 49. §-a szerinti okmány fordítási költségeinek megtérítése
 
 (6) A menedékes foglalkoztatásának bejelentésére a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 71. §-ának rendelkezései megfelelően alkalmazandók.
 
-(7) A menedékes vagy a menedékesként elismerését kérő ellátását biztosító, területi ellátási kötelezettség nélküli háziorvosi ellátás nyújtására – a Karitatív Tanács tagjaként működő szervezet által fenntartott egészségügyi szolgáltató számára – működési engedély adható. Ebben az esetben a területi ellátási kötelezettség nélküli háziorvosi szolgálat finanszírozására irányuló szerződés az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 9. § (1) és (2) bekezdésében foglalt feltételeknek történő megfelelés hiányában is megköthető.
+(7)[^2]
+
+[^1]: A 6. § (2) bekezdés b) pontja a 97/2022. (III. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 6. § (7) bekezdését a 98/2022. (III. 10.) Korm. rendelet 4. §-a hatályon kívül helyezte.
