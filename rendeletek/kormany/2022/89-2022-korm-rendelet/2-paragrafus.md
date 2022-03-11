@@ -1,9 +1,0 @@
-## 1. § A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet (a továbbiakban: R.) 11. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Az e rendelet alapján elszámolt számviteli bizonylatokat a támogatott szervezet záradékolja, vagy a 9. § (2) bekezdésében meghatározott továbbadott támogatás esetén a támogatás végső kedvezményezettjével záradékoltatja. A záradékolt számviteli bizonylatokon szerepelnie kell annak, hogy a támogatott szervezet azt a jóváhagyást végző szervezet által meghatározott ügyszámon kiállított sportfejlesztési programot jóváhagyó határozat alapján, a Tao. tv. 22/C. § (1) bekezdésében meghatározott támogatás részeként számolta el. Amennyiben a támogatott szervezet az ellenőrző szervezet elszámolási útmutatójában meghatározott, elektronikusan előállított, elektronikus számlával kíván elszámolni, abban az esetben a záradékolási kötelezettségének a számlával együtt, az ellenőrző szervezet által meghatározott tartalmú nyilatkozat benyújtásával is eleget tehet.”
-
-2. § (1) Az R. 14. §-a a következő (4c) bekezdéssel egészül ki:
-
-## „(4c) Azon támogatott szervezet, amely ingatlan-fejlesztésre irányuló tárgyi eszköz beruházás, felújítás jogcímen jóváhagyott sportfejlesztési programmal rendelkezik, ha a sportfejlesztési program szerinti kivitelezés készültségi foka indokolja, az adott támogatási időszak vonatkozásában – a jóváhagyást végző szervezet értékelési elveiben és benchmarkjában meghatározott szempontrendszert is figyelembe véve – a (4b) bekezdés szerinti hosszabbításon felül kérelmezheti a jóváhagyást végző szervezetnél a sportfejlesztési program egy támogatási időszakkal történő meghosszabbítását.”
-
-(2) Az R. 14. § (9a) bekezdése helyébe a következő rendelkezés lép:
