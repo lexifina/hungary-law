@@ -48,6 +48,9 @@
 
 23.[^27] Innsbrucki Főkonzulátus
 
+24.[^28] Edinburgh-i Főkonzulátus
+
 [^25]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^26]: Az 1. melléklet 22. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
 [^27]: Az 1. melléklet 23. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^28]: Az 1. melléklet 24. pontját a 102/2022. (III. 10.) Korm. rendelet 3. §-a iktatta be.
