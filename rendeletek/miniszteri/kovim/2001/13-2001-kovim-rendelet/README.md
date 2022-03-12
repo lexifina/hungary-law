@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-13-20-9
 | 2020-11-07 | 2001-13-20-93.28 | 9/2008. (III. 21.) GKM rendelet |
 | 2020-12-15 | 2001-13-20-93.29 | 46/2020. (XI. 30.) ITM rendelet |
 | 2021-03-06 | 2001-13-20-93.30 | 12/2021. (III. 5.) ITM rendelet |
+| 2022-03-12 | 2001-13-20-93.31 | 8/2022. (III. 11.) ITM rendelet |

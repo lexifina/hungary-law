@@ -1,986 +1,4 @@
-## A FÖLDRAJZILAG AZ 1., 2. ÉS 3. HAJÓZÁSI ZÓNÁBA TARTOZÓ UNIÓS BELVÍZI UTAK JEGYZÉKE
-
-## 1. FEJEZET
-
-## 1. zóna
-
-## 1.1. Németország
-
-|  | A | B |
-
-| 1 | Ems | A régi Greetsiel világítótornyot az eemshaveni kikötői bejárat nyugati kikötőgátjával összekötő vonaltól kifelé az északi szélesség 53° 30′ és a keleti hosszúság 6° 45′-ig, azaz kissé kifelé a szárazáru-szállító hajók átrakási helyétől az Alte Emsen (1) |
-
-| 2 | (1) Azon hajók esetében, amelyek honi kikötője máshol van, az 1960. április 8-i Emst-Dollart-szerződés 32. cikkét kell figyelembe venni (BGBl. 1963 II 602. o.). |
-
-## 1.2. Lengyelország
-
-## 1.2.1. A Pomorska-öböl Rugen-szigeti Nord Perdet és a Niechorze világítótornyot összekötő vonaltól délre eső része
-
-## 1.2.2. A Gdanski-öböl Hel világítótornyot és Baltijsk kikötőjének bejárati bójáját összekötő vonaltól délre eső része
-
-## 1.3. Svédország
-
-## 1.3.1. Vänern-tó, délről a bastugrunds-i fényjelzőn keresztül futó szélességi körrel határolva
-
-## 1.3.2. Göta älv és Rivöfjorden, keletről az Älvsborg-híddal, nyugatról a gäveskäri világítótornyon keresztül futó hosszúsági körrel, délről pedig a smörbådani világítótornyon keresztül futó szélességi körrel határolva
-
-## 1.4. Egyesült Királyság
-
-|  | A | B |
-
-| 1 | SKÓCIA |  |
-
-| 2 | Blue Mull Sound | Gutcher és Belmont között |
-
-| 3 | Yell Sound | Tofts Voe és Ulsta között |
-
-| 4 | Sullom Voe | A Gluss-sziget északkeleti pontjától Calback Ness északi pontjáig egy vonalon belül |
-
-| 5 | Dales Voe | Télen: Kebister Ness északi fokától Breiwick partjáig egy vonalon belül a nyugati 1° 10,8′ hosszúsági foknál |
-
-| 6 | Dales Voe | Nyáron: mint Lerwicknél |
-
-| 7 | Lerwick | Télen: északról Scottle Holmtól Scarfi Taing on Bressayig egy vonallal, és délről a Twageos-fok világítótoronytól Whalpa Taing on Bressayig egy vonallal határolt területen belül |
-
-| 8 | Lerwick | Nyáron: északról Brim Nesstől Inner Score északkeleti csücskéig egy vonallal, és délről Ness of Sound déli végétől Kirkabisternessig egy vonallal határolt területen belül |
-
-| 9 | Kirkwall | Kirkwall és Rousay között, a Point of Graand (Egilsay) és Galt Ness (Shapinsay) vagy Head of Work (szárazföld) közötti vonaltól nem keletre Helliar Holm jelzőfényein keresztül Shapinsay partjáig; az Eynhallow-sziget délkeleti csücskétől nem északnyugatra, nem a tenger felé és egy vonal felé Rousay partján az északi szélesség 59° 10,5′ és a nyugati hosszúság 002° 57,1′, valamint Egilsay partján az északi szélesség 59° 10,0′ és a nyugati hosszúság 002° 56,4′-nél |
-
-| 10 | Stromness | Scapáig, de nem Scapa Flow-n kívül |
-
-| 11 | Scapa Flow | A Point of Clettstől Hoy szigetén át a Fara szigetén levő Thomson′s Hill háromszögelési pontig, majd innen a Flotta szigetén levő Gibraltar kikötőgátig húzott vonallal határolt területen belül; a St Vincent kikötőgáttól Flotta szigetén át Calf of Flotta legnyugatibb pontjáig; Calf of Flotta legkeletibb pontjától a South Ronaldsay-szigeten levő Needle Pointig, valamint Ness on Mainland Nesstől a Graemsay-szigeten levő Point of Oxan világítótoronyig és innen a Hoy-szigeten levő Bu-fokig; és a 2. zónájú vizektől a tenger felé |
-
-| 12 | Balnakiel-öböl | Eilean Dubh és A′Chleit között |
-
-| 13 | Cromarty Firth | Észak-Sutortól Nairn Breakwaterig egy vonalon belül, és a 2. zónájú vizektől a tenger felé |
-
-| 14 | Inverness | Észak-Sutortól Nairn Breakwaterig egy vonalon belül, és a 2. zónájú vizektől a tenger felé |
-
-| 15 | Tay folyó-Dundee | A Broughty kastélytól Tayportig egy vonalon belül, és a 2. zónájú vizektől a tenger felé |
-
-| 16 | Firth of Forth és a Forth folyó | Kirkcaldytől a Portobello folyóig egy vonalon belül, és a 2. zónájú vizektől a tenger felé |
-
-| 17 | Solway Firth | A legdélebbi foktól Sillothig egy vonalon belül |
-
-| 18 | Loch Ryan | Finnart′s-foktól Milleur-fokig egy vonalon belül, és a 2. zónájú vizektől a tenger felé |
-
-| 19 | Clyde | Külső határ: egy vonal Skipnesstől Garroch Headtől egy mérföldre délre egy pontig, majd innen Farland Headig Belső határ télen: egy vonal a Cloch világítótoronytól Dunoon kikötőgátig Belső határ nyáron: egy vonal Bogany-foktól, Bute-sziget, a Skelmorlie kastélyig és egy vonal Ardlamont-fok-tól az Ettrick-öböl legdélibb széléig a Kyles of Bute öblön belül Megjegyzés: A fenti belső nyári határ június 5. és szeptember 5. között (mindkét napot beleértve) kiterjesztésre kerül egy vonallal, a Skelmorlie kastélynál levő Ayrshire parttól két mérföldre egy pont és a Tomond End, Cumbrae között, valamint egy vonallal Portachur-fok, Cumbrae és Inner Brigurd-fok, Ayrshire között |
-
-| 20 | Oban | Északról Dunollie-fok fényétől Ard na Chruidhig egy vonallal, és délről Rudha Seanachtől Ard na Cuile-ig egy vonallal határolt területen belül |
-
-| 21 | Kyle of Lochalsh | A Loch Alshen keresztül a Loch Duich csúcsáig |
-
-| 22 | Loch Gairloch | Télen: nincs Nyáron: A Rubha na Moine-tól Eilan Horrisdale-ig, majd Rubha nan Eanntag-ig vezető vonaltól délre |
-
-| 23 | ÉSZAK-ÍRORSZÁG |  |
-
-| 24 | Belfast Lough | Télen: nincs Nyáron: Carrickfergustól Bangorig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 25 | Loch Neagh | A parttól 2 mérföldnél nagyobb távolságra |
-
-| 26 | ANGLIA KELETI PARTJA |  |
-
-| 27 | Humber folyó | Télen: New Hollandtól Paullig egy vonalon belül Nyáron: a Cleethorpes kikötőgáttól Patrington Church-ig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 28 | WALES ÉS ANGLIA NYUGATI PARTJA |  |
-
-| 29 | Severn folyó | Télen: Blacknore-foktól Caldicot Pillig, Portskewett, egy vonalon belül Nyáron: Barry dokk kikötőgáttól Steepholm-ig, majd innen Brean Down-ig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 30 | Wye folyó | Télen: a Blacknore-fok és Caldicot Pill, Porstkewett közötti vonalon belül Nyáron: Barry dokk kikötőgáttól Steepholm-ig, majd innen Brean Down-ig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 31 | Newport | Télen: nincs Nyáron: Barry dokk kikötőgáttól Steepholm-ig, majd innen Brean Down-ig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 32 | Cardiff | Télen: nincs Nyáron: Barry dokk kikötőgáttól Steepholm-ig, majd innen Brean Down-ig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 33 | Barry | Télen: nincs Nyáron: Barry dokk kikötőgáttól Steepholm-ig, majd innen Brean Down-ig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 34 | Swansea | A kikötőgátak tenger felőli végpontjai közötti vonalon belül |
-
-| 35 | Menai-szoros | A Menai-szoroson belül a Llanddwyn-szigeti jelzőfényt Dinas Dinlleu-vel összekötő vonaltól és a Puffin-sziget déli végét Trwyn Du-fokkal és a llanfairfechani vasútállomással összekötő vonalaktól, és a 2. zónájú vizektől a tenger felé |
-
-| 36 | Dee folyó | Télen: a Hilbre-foktól az Air-fokig egy vonalon belül Nyáron: a Formby-foktól az Air-fokig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 37 | Mersey folyó | Télen: nincs Nyáron: a Formby-foktól az Air-fokig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 38 | Preston és Southport | A Southport és Blackpool közötti vonalon belül a partokon belül és a 2. zónájú vizektől a tenger felé |
-
-| 39 | Fleetwood | Télen: nincs Nyáron: a Rossal-fok és Humphrey Head közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 40 | Lune folyó | Télen: nincs Nyáron: a Rossal-fok és Humphrey Head közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 41 | Heysham | Télen: nincs Nyáron: a Rossal-fok és Humphrey Head közötti vonalon belül |
-
-| 42 | Morecambe | Télen: nincs Nyáron: a Rossal-fok és Humphrey Head közötti vonalon belül |
-
-| 43 | Workington | A legdélebbi foktól Sillothig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 44 | ANGLIA DÉLI RÉSZE |  |
-
-| 45 | Colne-Colchester folyó | Télen: a Colne-fok és Whitstable közötti vonalon belül Nyáron: a Clacton kikötőgát és Reculvers közötti vonalon belül |
-
-| 46 | Blackwater folyó | Télen: a Colne-fok és Whitstable közötti vonalon belül Nyáron: a Clacton kikötőgát és Reculvers közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 47 | Crouch folyó és Roach folyó | Télen: a Colne-fok és Whitstable közötti vonalon belül Nyáron: a Clacton kikötőgát és Reculvers közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 48 | Temze és mellékfolyói | Télen: a Colne-fok és Whitstable közötti vonalon belül Nyáron: a Clacton kikötőgát és Reculvers közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 49 | Medway folyó és a Swale | Télen: a Colne-fok és Whitstable közötti vonalon belül Nyáron: a Clacton kikötőgát és Reculvers közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 50 | Chichester | A Wight-szigeten belül keletre a west-witteringi templomtorony és a bembridge-i Trinity templom között húzódó vonal, nyugatra pedig a Needles és Hurst-fok között húzódó vonallal határolt területen belül és a 2. zónájú vizektől a tenger felé |
-
-| 51 | Langstone kikötő | A Wight-szigeten belül keletre a west-witteringi templomtorony és a bembridge-i Trinity templom között húzódó vonal, nyugatra pedig a Needles és Hurst-fok között húzódó vonallal határolt területen belül és a 2. zónájú vizektől a tenger felé |
-
-| 52 | Portsmouth | A Wight-szigeten belül keletre a west-witteringi templomtorony és a bembridge-i Trinity templom között húzódó vonal, nyugatra pedig a Needles és Hurst-fok között húzódó vonallal határolt területen belül és a 2. zónájú vizektől a tenger felé |
-
-| 53 | Bembridge, Wight-sziget | A Wight-szigeten belül keletre a west-witteringi templomtorony és a bembridge-i Trinity templom között húzódó vonal, nyugatra pedig a Needles és Hurst-fok között húzódó vonallal határolt területen belül és a 2. zónájú vizektől a tenger felé |
-
-| 54 | Cowes, Wight-sziget | A Wight-szigeten belül keletre a west-witteringi templomtorony és a bembridge-i Trinity templom között húzódó vonal, nyugatra pedig a Needles és Hurst-fok között húzódó vonallal határolt területen belül és a 2. zónájú vizektől a tenger felé |
-
-| 55 | Southampton | A Wight-szigeten belül keletre a west-witteringi templomtorony és a bembridge-i Trinity templom között húzódó vonal, nyugatra pedig a Needles és Hurst-fok között húzódó vonallal határolt területen belül és a 2. zónájú vizektől a tenger felé |
-
-| 56 | Beaulieu folyó | A Wight-szigeten belül keletre a west-witteringi templomtorony és a bembridge-i Trinity templom között húzódó vonal, nyugatra pedig a Needles és Hurst-fok között húzódó vonallal határolt területen belül és a 2. zónájú vizektől a tenger felé |
-
-| 57 | Keyhaven tó | A Wight-szigeten belül keletre a west-witteringi templomtorony és a bembridge-i Trinity templom között húzódó vonal, nyugatra pedig a Needles és Hurst-fok között húzódó vonallal határolt területen belül és a 2. zónájú vizektől a tenger felé |
-
-| 58 | Weymouth | A Portland kikötőn belül és a Wey folyó és a Portland kikötő között |
-
-| 59 | Plymouth | A Cawsand és Breakwater és Staddon közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 60 | Falmouth | Télen: a St. Anthony Head és Rosemullion közötti vonalon belül Nyáron: a St. Anthony Head és Nare-fok közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 61 | Camel folyó | A St. Anthony Head és Nare-fok közötti vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-| 62 | Bridgewater | A zátonyon belül és a 2. zónájú vizektől a tenger felé |
-
-| 63 | Avon folyó (Avon) | Télen: a Blacknore-fok és Caldicot Pill, Porstkewett közötti vonalon belül Nyáron: Barry kikötőgáttól Steepholm-ig, majd innen Brean Down-ig egy vonalon belül és a 2. zónájú vizektől a tenger felé |
-
-## 2. zóna
-
-## 2.1. Cseh Köztársaság
-
-## Lipno tavi gát
-
-## 2.2. Németország
-
-|  | A | B |
-
-| 1 | Ems | Az Emsen keresztül a Papenburg kikötő bejáratához közel a korábbi diemeni szivattyútelep és a Halténél levő töltés eleje között húzódó vonaltól egészen a régi Greetsiel világítótornyot és az eemshaveni kikötő bejáratát összekötő vonalig |
-
-| 2 | Jade | A korábbi Schillig jelzőfényt a lanwardeni templomtoronnyal összekötő vonalon belül |
-
-| 3 | Weser | A brémai vasúti híd északnyugati szélétől egészen a langwardeni és a cappeli templomtornyot összekötő vonalig, beleértve a Westergate, Rekumer Loch, Rechter Nebenarm és Schweiburg oldalágakat |
-
-| 4 | Elba és Bütztflether Süderelbe (a 0,69 km-től az Elba torkolatáig), Ruthenstrom (a 3,75 km-től az Elba torkolatáig), Wischhafener Süderelbe (a 8,03 km-től az Elba torkolatáig) | A hamburgi kikötő alsó határától egészen a döse-i irányfényt és a Friedrichskoog töltés (Dieksand) nyugati szélét összekötő vonalig, beleértve a Nebenelbe és az Este, a Lühe, a Schwinge, az Oste, a Pinnau, a Krückau és a Stör mellékfolyóit (minden esetben a torkolattól a duzzasztógátig) |
-
-| 5 | Meldorfer Bucht | A Friedrichskoog töltés (Dieksand) nyugati szélét és a büsumi kikötő nyugati végét összekötő vonalon belül |
-
-| 6 | Eider | A Gieselau-csatorna torkolatától (22,64 km) a (Tränke) erőd és a vollerwieki templomtorony közötti vonalig |
-
-| 7 | Gieselau-csatorna | Az Eider torkolatától a Kieli-csatorna torkolatáig |
-
-| 8 | Flensburger Förde | A Kegnäs világítótornyot és Birknackot összekötő vonalon belül, a német–dán határtól északra a Flensburger fjordnál |
-
-| 9 | Schlei | A schleimündei kikötő végei közötti vonalon belül |
-
-| 10 | Eckernförder Bucht | A Boknis-Ecket és a szárazföld Dänisch Nienhofnál levő északkeleti pontját összekötő vonalon belül |
-
-| 11 | Kieler Förde | A Bülk világítótornyot a Laboe tengerészeti emlékművel összekötő vonalon belül |
-
-| 12 | Kieli-csatorna, beleértve az Audorfer See-t és a Schirnauer See-t | A brunsbütteli kikötőgát végpontjait összekötő vonaltól a Kiel-Holtenaunál levő bejárati fényeket, a Schirnauer See-t, a Bergstedter See-t, az Andorfer See-t, az Obereidersee-t az Engevel, a Flemhuder See-vel és az Achterwehrer csatornával összekötő vonalig |
-
-| 13 | Trave | A lübecki nyitható vasúti híd északnyugati szélétől, beleértve a Pötenitzer Wieket és a Das-sower See-t, a travemündei kikötőgát belső déli és külső északi végpontját összekötő vonalig |
-
-| 14 | Leda | A Leernél levő tengeri zsilip külső kikötője bejáratától az Ems torkolatáig |
-
-| 15 | Hunte | Az oldenburgi kikötőtől és Oldenburgban az Amalienbrückétől völgymenetben 140 métertől a Weser torkolatáig |
-
-| 16 | Lesum | A Hamme és a Wümme egybefolyásától (0,00 km) a Weser torkolatáig |
-
-| 17 | Este | A buxtehudei gátkaputól (0,25 km) az Elba torkolatáig |
-
-| 18 | Lühe | A horneburgi Au-Mühle-től (0,00 km) az Elba torkolatáig |
-
-| 19 | Schwinge | A stadei Salztor gátkapu északi sarkától az Elba torkolatáig |
-
-| 20 | Oste | Az Oste duzzasztógátja fölötti közúti híd középvonalától folyásiránnyal szemben mért 210 métertől (69,360 km) az Elba torkolatáig |
-
-| 21 | Pinnau | A pinnebergi vasúti híd délnyugati szélétől az Elba torkolatáig |
-
-| 22 | Krückau | Az elmshorni Wedenkamptól és ide vezető híd délnyugati szélétől az Elba torkolatáig |
-
-| 23 | Stör | A Rensing árapályszintmérőtől az Elba torkolatáig |
-
-| 24 | Freiburger Hafenpriel | A Freiburg an der Elbe zsilip keleti szélétől egészen az Elba torkolatáig |
-
-| 25 | Wismarbucht, Kirchsee, Breitling, Salzhaff és Wismar kikötői terület | A tenger felé egészen a Hoher Wieschendorf Huk és a Timmendorf jelzőfény közötti vonalig és a Poel-szigeti Gollwitz jelzőfényt a Wustow-félsziget déli pontját összekötő vonalig |
-
-| 26 | Warnow, valamint a Breitling és mellékágai | Lefelé a Mühlendammon a rostocki Geinitzbrücke északi szélétől a tenger felé egészen a warnemündei nyugati és keleti kikötőgát északi pontjait összekötő vonalig |
-
-| 27 | A szárazföld és a Darß és Zingst félsziget által körbezárt vizek, valamint a Hiddensee- és Rügen-sziget (beleértve a Stralsund kikötői területet) | A tenger felé kiterjedve az alábbiak között: a Zingst-félsziget és Bock szigete: egészen az északi szélesség 54° 26′ 42′-ig, Bock és Hiddensee szigete: egészen a Bock-sziget északi pontját a Hiddensee-sziget déli pontjával összekötő vonalig, Hiddensee szigete és Rügen szigete (Bug): egészen a Neubessin délkeleti pontját és Buger Hakent összekötő vonalig |
-
-| 28 | Kleine Jasmunder Bodden |  |
-
-| 29 | Greifswalder Bodden | A Bodden a tenger felé egészen a Thiessower Haken (Südperd) keleti pontjától a Ruden-sziget keleti pontjáig húzódó vonalig, és innen az Usedom-sziget északi pontjáig (északi szélesség 54° 10′ 37′, keleti hosszúság 13° 47′ 51′) |
-
-| 30 | Ryck | A greifswaldi Steinbecker hídtól keletre, a kikötőgátakat összekötő vonalig |
-
-| 31 | A szárazföld és a Usedom- sziget által közrezárt vizek (a Peenestrom, beleértve a Wolgast kikötői területet és az Achterwassert és az Oder Haffot) | Kelet felé egészen a Lengyel Köztársaság határáig a Stettiner Haffban |
-
-| 32 | Uecker | Az Ueckermünde közúti híd dél-nyugati sarkától a kikötőgátakat összekötő vonalig |
-
-## Megjegyzés: Azon hajók esetében, amelyek honi kikötője másik tagállamban van, az 1960. április 8-i Ems-Dollart-szerződés 32. cikkét kell figyelembe venni (BGBl. 1963 II., 602. o.).
-
-## 2.3. Franciaország
-
-## 2.3.1. A Gironde az Ile de Patirastól lefelé elhelyezkedő 48,50 km-től a tenger vonaláig, amelyet Pointe de Grave-ot és a Pointe de Suzac-ot összekötő vonal jelöl ki
-
-## 2.3.2. A Loire Cordemais-től (25. km) a tenger vonaláig, amelyet a Pointe de Mindin-t és a Pointe de Penhoët-t összekötő vonal jelöl ki
-
-## 2.3.3. A Szajna a Tancarville csatorna elejétől a tenger vonaláig, amelyet az a vonal jelöl ki, amely a jobb parton található Cape Hode-ot a bal parton található azon ponttal köti össze, ahol a tervezett töltés Berville alatt találkozik a parttal
-
-## 2.3.4. A Vilaine az Arzal Dam-tól a tenger vonaláig, amelyet a Pointe du Scalt a Pointe du Moustoirral összekötő vonal jelöl ki
-
-## 2.3.5. Genfi-tó
-
-## 2.4. Magyarország
-
-## Balaton
-
-## 2.5. Hollandia
-
-## 2.5.1. Dollard
-
-## 2.5.2. Eems
-
-## 2.5.3. Waddenzee: beleértve az összekötőket az Északi-tengerrel
-
-## 2.5.4. IJsselmeer: beleértve a Markermeert és az Ijmeert, de a Gouwzee nem
-
-## 2.5.5. Nieuwe Waterweg és a Scheur
-
-## 2.5.6. Calandkanaal nyugatra a Benelux kikötőtől
-
-## 2.5.7. Hollands Diep
-
-## 2.5.8. Breeddiep, Beerkanaal és kapcsolódó kikötői
-
-## 2.5.9. Haringvliet és Vuile Gat: beleértve egyrészről a Goeree-Overflakkee, másrészről a Voorne-Putten és Hoeksche Waard közötti vízi utakat
-
-## 2.5.10. Hellegat
-
-## 2.5.11. Volkerak
-
-## 2.5.12. Krammer
-
-## 2.5.13. Grevelingenmeer és Brouwerschavensche Gat: beleértve a Schouwen-Duiveland és Goeree-Overflakkee közötti vízi utakat
-
-## 2.5.14. Keten, Mastgat, Zijpe, Krabbenkreek, Eastern Scheldt és Roompot: beleértve egyrészről a Walcheren, Noord-Beveland és Zuid-Beveland, másrészről pedig a Schouwen-Duiveland és Tholen közötti vízi utakat, nem tartozik ide a Scheldt-Rajna csatorna
-
-## 2.5.15. Scheldt és Nyugat-Scheldt, valamint tengeri torkolata: beleértve egyrészről a Zeeland Flanders, másrészről pedig a Walcheren és Zuid-Beveland közötti vízi utakat, de nem tartozik ide a Scheldt-Rajna csatorna
-
-## 2.6. Lengyelország
-
-## 2.6.1. Szczecini lagúna, Kamień-lagúna, Wisła-lagúna, Puck-öböl
-
-## 2.6.2. Włocławski víztározó, Śniardwy tó, Niegocin tó, Mamry tó
-
-## 2.7. Svédország
-
-## Göta älv, keletről a Göta älv-híd által, nyugatról pedig az Älvsborg-híd által határolva
-
-## 2.8. Egyesült Királyság
-
-|  | A | B |
-
-| 1 | SKÓCIA |  |
-
-| 2 | Scapa Flow | A Flotta szigetén levő Wharth-tól a dél-Wallson levő Martello toronyig húzott és a Hoy szigetén levő Point Clettstől a Fara szigetén levő Thomson′s háromszögelési pontig, majd innen a Flotta-szigeti Gibraltar kikötőgátig húzott vonallal határolt területen belül |
-
-| 3 | Kyle of Durness | Eilean Dubhtól délre |
-
-| 4 | Cromarty Firth | Az észak-Sutor és dél-Sutor közötti vonalon belül |
-
-| 5 | Inverness | A Fort George és Chanonry-fok közötti vonalon belül |
-
-| 6 | Findhorn-öböl | A földnyelven belül |
-
-| 7 | Aberdeen | A déli kikötőgát és az Abercromby kikötőgát közötti vonalon belül |
-
-| 8 | Montrose-medence | Nyugatra attól a vonaltól, amely a Scurdie Ness világítótoronynál levő kikötői bejáraton át észak-dél irányban fut |
-
-| 9 | Tay folyó-Dundee | A dundee-i árapálymedence (halasdokk) és Craig Head, Kelet-Newport közötti vonalon belül |
-
-| 10 | Firth of Forth és a Forth folyó | A Firth of Forthon belül, de nem keletre a Forth vasúti hídtól |
-
-| 11 | Dumfries | Az Airds-fok és Scar-fok közötti vonalon belül |
-
-| 12 | Loch Ryan | A Cairn-fok és Kircolm-fok közötti vonalon belül |
-
-| 13 | Ayr kikötő | A homokpadon belül |
-
-| 14 | Clyde | Az 1. zónájú vizek felett |
-
-| 15 | Kyles of Bute | Colintraive és Rhubodach között |
-
-| 16 | Campbeltown kikötő | A Macringan′s-fok és Ottercharach-fok közötti vonalon belül |
-
-| 17 | Loch Etive | A Loch Etive-n belül a Lora vízesés felett |
-
-| 18 | Loch Leven | A Ballachulishnál levő híd felett |
-
-| 19 | Loch Linnhe | A Corran-fok jelzőfénytől északra |
-
-| 20 | Loch Eil | Az egész tó |
-
-| 21 | Kaledóniai-csatorna | Lochs Lochy, Oich és Ness |
-
-| 22 | Kyle of Lochalsh | Kyle Akinon belül, nem nyugatra az Eilean Ban jelzőfénytől vagy keletre Eileanan Dubhától |
-
-| 23 | Loch Carron | Stromemore és a Strome komp között |
-
-| 24 | Loch Broom, Ullapool | Az Ullapool-fok jelzőfény és Aultnaharrie közötti vonalon belül |
-
-| 25 | Kylesku | A Loch Cairnbawnon keresztül Garbh legkeletibb pontja közötti területen Eilean és Eilean na Rainich legnyugatibb pontja |
-
-| 26 | Stornoway kikötő | Az Arnish-fok és Sandwick-öböl világítótorony közötti vonalon belül, északnyugati oldal |
-
-| 27 | The Sound of Scalpay | Berry Cove-tól (Scalpay) nem keletre és Croc a Lointól (Harris) nem nyugatra |
-
-| 28 | Északi kikötő, Scalpay és Tarbert kikötő | A Harris-sziget partjától egy mérföldön belül |
-
-| 29 | Loch Awe | Az egész tó |
-
-| 30 | Loch Katrine | Az egész tó |
-
-| 31 | Loch Lomond | Az egész tó |
-
-| 32 | Loch Tay | Az egész tó |
-
-| 33 | Loch Loyal | Az egész tó |
-
-| 34 | Loch Hope | Az egész tó |
-
-| 35 | Loch Shin | Az egész tó |
-
-| 36 | Loch Assynt | Az egész tó |
-
-| 37 | Loch Glascarnoch | Az egész tó |
-
-| 38 | Loch Fannich | Az egész tó |
-
-| 39 | Loch Maree | Az egész tó |
-
-| 40 | Loch Gairloch | Az egész tó |
-
-| 41 | Loch Monar | Az egész tó |
-
-| 42 | Loch Mullardach | Az egész tó |
-
-| 43 | Loch Cluanie | Az egész tó |
-
-| 44 | Loch Loyne | Az egész tó |
-
-| 45 | Loch Garry | Az egész tó |
-
-| 46 | Loch Quoich | Az egész tó |
-
-| 47 | Loch Arkaig | Az egész tó |
-
-| 48 | Loch Morar | Az egész tó |
-
-| 49 | Loch Shiel | Az egész tó |
-
-| 50 | Loch Earn | Az egész tó |
-
-| 51 | Loch Rannoch | Az egész tó |
-
-| 52 | Loch Tummel | Az egész tó |
-
-| 53 | Loch Ericht | Az egész tó |
-
-| 54 | Loch Fionn | Az egész tó |
-
-| 55 | Loch Glass | Az egész tó |
-
-| 56 | Loch Rimsdale/nan Clar | Az egész tó |
-
-| 57 | ÉSZAK-ÍRORSZÁG |  |
-
-| 58 | Strangford Lough | A Cloghy-fok és Dogtail-fok közötti vonalon belül |
-
-| 59 | Belfast Lough | A Holywood és Macedon-fok közötti vonalon belül |
-
-| 60 | Larne | A Larne kikötőgát és a Magee-szigeten levő kompkikötő közötti vonalon belül |
-
-| 61 | Bann folyó | A hullámtörő gátak tenger felőli végétől a Toome-hídig |
-
-| 62 | Lough Erne | Felső- és Alsó-Lough Erne |
-
-| 63 | Lough Neagh | A parttól 2 mérföldön belül |
-
-| 64 | ANGLIA KELETI PARTJA |  |
-
-| 65 | Berwick | A hullámtörő gátakon belül |
-
-| 66 | Warkworth | A hullámtörő gátakon belül |
-
-| 67 | Blyth | A kikötőgát külső végpontjain belül |
-
-| 68 | Tyne folyó | Dunston Staithes a Tyne kikötőgát végéig |
-
-| 69 | Wear folyó | Fatfield a Sunderland kikötőgát végéig |
-
-| 70 | Seaham | A kikötőgátakon belül |
-
-| 71 | Hartlepool | A Middleton kikötőgát és Old Pier Head közötti vonalon belül, a kikötőgát északi végét a déli végével összekötő vonalon belül |
-
-| 72 | Tees folyó | A Government hullámtörő gáttól nyugatra a Tees duzzasztógátjáig nyúló vonalon belül |
-
-| 73 | Whitby | A Whitby kikötőgát végpontjain belül |
-
-| 74 | Humber folyó | Az észak-Ferriby és dél-Ferriby közötti vonalon belül |
-
-| 75 | Grimsby dokk | Az árapálymedence nyugati kikötőgátja és az észak-quayi halasdokk keleti kikötőgátja közötti vonalon belül |
-
-| 76 | Boston | A New Cuton belül |
-
-| 77 | Dutch folyó | Az egész csatorna |
-
-| 78 | Hull folyó | Beverley Beck a Humber folyóig |
-
-| 79 | Kielder Water | Az egész tó |
-
-| 80 | Ouse folyó | A Naburn zsilip alatt |
-
-| 81 | Trent folyó | A Cromwell zsilip alatt |
-
-| 82 | Wharfe folyó | Az Ouse folyóval való összefolyástól Tadcaster Bridge-ig |
-
-| 83 | Scarborough | A Scarborough kikötőgát végpontjain belül |
-
-| 84 | WALES ÉS ANGLIA NYUGATI PARTJA |  |
-
-| 85 | Severn folyó | A Sharpness-foktól (északi szélesség 51° 43,4′) nyugatra Llanthonyig és Maisemore Weir-ig futó vonaltól északra, és a 3. zónájú vizektől a tenger felé |
-
-| 86 | Wye folyó | Chepstow-nál, az északi szélesség 51° 38,0′-től északra Monmouth-ig |
-
-| 87 | Newport | A Fifoot-fokon áthaladó távvezetékektől északra |
-
-| 88 | Cardiff | A déli hullámtörőgát és Penarth Head közötti vonalon belül, a közrezárt vizek a Cardiff-öböl duzzasztógátjától nyugatra |
-
-| 89 | Barry | A hullámtörő gátak tenger felőli végpontjai közötti vonalon belül |
-
-| 90 | Port Talbot | Az Afran folyó hullámtörő gátjainak tenger felőli végpontjait összekötő vonalon belül, a közrezárt dokkokon kívül |
-
-| 91 | Neath | A Baglan-öböl tartályhajó hullámtörő gát tenger felőli végpontjától északra futó vonalon belül (északi szélesség 51° 37,2′, nyugati hosszúság 3° 50,5′) |
-
-| 92 | Llanelli és Burry kikötő | A Burry kikötő nyugati kikötőgátját a Whiteford-fokkal összekötő vonallal határolt területen belül |
-
-| 93 | Milford Haven | A Dél-Hook-fok és a Thorn-fok közötti vonalon belül |
-
-| 94 | Fishguard | Az északi és keleti hullámtörő gátaktenger felőli végpontjait összekötő vonalon belül |
-
-| 95 | Cardigan | A Pen-Yr-Ergydnél levő tengerszoroson belül |
-
-| 96 | Aberystwyth | A kikötőgátak tenger felőli végpontjain belül |
-
-| 97 | Aberdyfi | Az Aberdyfi vasútállomás és a Twyni Bach irányfény közötti vonalon belül |
-
-| 98 | Barmouth | A Barmouth vasútállomás és Penrhyn-fok közötti vonalon belül |
-
-| 99 | Portmadoc | A Harlech-fok és Graig Ddu közötti vonalon belül |
-
-| 100 | Holyhead | A fő kikötőgáttal határolt területen belül, és a Brynglas-fok kikötőgát végétől a Towyn-öbölig húzott vonalon belül |
-
-| 101 | Menai-szoros | A Menai-szoroson belül, az Aber Menai-fokot a Belan-fokkal összekötő vonal és a Beau-maris kikötőgátat a Pen-y-Coed-fokkal összekötő vonal között |
-
-| 102 | Conway | A Mussel Hill és a Tremlyd-fok közötti vonalon belül |
-
-| 103 | Llandudno | A hullámtörő gáton belül |
-
-| 104 | Rhyl | A hullámtörő gáton belül |
-
-| 105 | Dee folyó | Connah′s Quay felett a Barrelwell Hill vízkiemelő pontig |
-
-| 106 | Mersey folyó | A Rock világítótorony és a Seaforth-dokk északnyugati része közötti vonalon belül, de a többi dokk kizárásával |
-
-| 107 | Preston és Southport | A Lytham és Southport közötti vonalon belül és a Preston dokkokon belül |
-
-| 108 | Fleetwood | Az alsó fénysor és Knott közötti vonalon belül |
-
-| 109 | Lune folyó | A Sunderland-fok és Chapel Hill közötti vonalon belül, a Glasson dokkig, és még a dokk is |
-
-| 110 | Barrow | A Haws-fokot, a Walney-szigetet a Roa-sziget sólyával összekötő vonalon belül |
-
-| 111 | Whitehaven | A hullámtörő gáton belül |
-
-| 112 | Workington | A hullámtörő gáton belül |
-
-| 113 | Maryport | A hullámtörő gáton belül |
-
-| 114 | Carlisle | A Point Carlisle és Torduff közötti vonalon belül |
-
-| 115 | Coniston Water | Az egész tó |
-
-| 116 | Derwentwater | Az egész tó |
-
-| 117 | Ullswater | Az egész tó |
-
-| 118 | Windermere | Az egész tó |
-
-| 119 | ANGLIA DÉLI RÉSZE |  |
-
-| 120 | Blakeney és Morston kikötő és megközelítő útvonalai | A Blakeney-foktól délre a Stiffkey folyó bejáratáig húzódó vonaltól keletre |
-
-| 121 | Orwell folyó Stour folyó | Az Orwell folyó a Blackmanshead hullámtörő gát és Landguard-fok közötti vonalon belül, és a 3. zónájú vizektől a tenger felé |
-
-| 122 | Blackwater folyó | Valamennyi vízi út a Mersea-sziget legdélnyugatibb végétől a Sales-fokig húzódó vonalon belül |
-
-| 123 | Crouch folyó és Roach folyó | A Crouch folyó a Holliwell-fok és a Foulness-fok közötti vonalon belül, beleértve a Roach folyót is |
-
-| 124 | Temze és mellékfolyói | A Temze a Denton Wharf kikötőgát legkeletibb pontján keresztül észak-dél irányban húzott vonal felett, Gravesend a Teddington zsilipig |
-
-| 125 | Medway folyó és a Swale | A Medway folyó a Garrison-foktól a Grain toronyig, az Allington zsilipig húzott vonaltól; és a Swale Whitstable-től a Medwayig |
-
-| 126 | Stour folyó (Kent) | A Stour folyó a Flagstaff Reachnél levő kiszállóhely torkolata felett |
-
-| 127 | Doveri kikötő | A kikötő keleti és nyugati bejárata között húzódó vonalon belül |
-
-| 128 | Rother folyó | A Rother folyó a camberi árapály-jelző állomás felett a Scots Float zsilipig és a Brede folyón levő bejárati zsilipig |
-
-| 129 | Adur folyó és Southwick- csatorna | A Shoreham kikötő bejáratán keresztül a Soutwick-csatorna zsilipig, és Tarmac Wharf nyugati végéig húzott vonalon belül |
-
-| 130 | Arun folyó | Az Arun folyó a Littlehampton kikötőgát felett Littlehampton Marináig |
-
-| 131 | Ouse folyó (Sussex) Newhaven | Az Ouse folyó a Newhaven kikötő bejáratának kikötőgátjain keresztül az északi rakpart északi végéig húzott vonaltól |
-
-| 132 | Brighton | Brighton Marina külső kikötő a nyugati rakpart déli végétől a déli rakpart északi végéig húzott vonalon belül |
-
-| 133 | Chichester | Az Eastoke-pont és a nyugat-witteringi templomtorony közötti vonalon belül, és a 3. zónájú vizektől a tenger felé |
-
-| 134 | Langstone kikötő | Az Eastney-fok és a Gunner-fok közötti vonalon belül |
-
-| 135 | Portsmouth | A kikötő port blockhouse-i bejáratán keresztül a kerek toronyig húzott vonalon belül |
-
-| 136 | Bembridge, Wight-sziget | A Brading kikötőn belül |
-
-| 137 | Cowes, Wight-sziget | A Medina folyó a keleti parti hullámtörő gát irányfényétől a nyugati parti House jelzőfényig húzott vonalon belül |
-
-| 138 | Southampton | A Calshot vár és a Hook irányfény közötti vonalon belül |
-
-| 139 | Beaulieu folyó | A Beaulieu folyón belül nem keletre az Inchmery House-on keresztül húzott észak-déli vonaltól |
-
-| 140 | Keyhaven tó | A Hurst-fok alsó irányfényeitől a keyhaveni mocsarakig északra húzott vonalon belül |
-
-| 141 | Christchurch | A Run |
-
-| 142 | Poole | A Chain komp útvonala, a Sandbanks és Dél-Haven-fok közötti vonalon belül |
-
-| 143 | Exeter | A Warren-fok és a Checkstone szirttel szemben levő parti mentőcsónak-állomás közötti kelet-nyugati irányban húzódó vonalon belül |
-
-| 144 | Teignmouth | A kikötőn belül |
-
-| 145 | Salcombe folyó | A Splat-fok és a Limebury-fok közötti vonalon belül |
-
-| 146 | Plymouth | A Mount Batten kikötőgáttól a Drake-szigeten keresztül a Raveness-fokig húzott vonalon belül; A Yealm folyó a Warren-fok és a Misery-fok közötti vonalon belül |
-
-| 147 | Fowey | A kikötőn belül |
-
-| 148 | Falmouth | A St. Anthony Head és a Pendennis-fok közötti vonalon belül |
-
-| 149 | Camel folyó | A Gun-fok és Brea Hill közötti vonalon belül |
-
-| 150 | Taw és Torridge folyó | A Crow-fokon levő világítótoronytól a Skern-foknál levő partig húzódó 200° vonalon belül |
-
-| 151 | Bridgewater | A Stert-foktól keletre futó vonaltól délre (északi szélesség 51° 13,0′) |
-
-| 152 | Avon folyó (Avon) | A Wharf-fok Avonmouth kikötőgátja és a Netham gát közötti vonalon belül |
-
-## 2. FEJEZET
-
-## 3. zóna
-
-## 3.1. Belgium
-
-## Maritime Scheldt (az antwerpeni nyílt horgonyzóhelytől lefelé)
-
-## 3.2. Bulgária
-
-## Duna: 845 650 fkm – 374 100 fkm
-
-## 3.3. Cseh Köztársaság
-
-## 3.3.1. Duzzasztógáttavak: BrnÍnská (Kníničky), Jesenice, Nechranice, Orlík, Rozkoš, Slapy, TÍrlicko, Žermanice és Nové Mlýny III
-
-## 3.3.2. Homokoskavics-bányatavak: Ostrožná Nová Ves és Tovačov
-
-## 3.4. Németország
-
-|  | A | B |
-
-| 1 | Duna | Kelheimtől (km 2 414,72) a jochensteini német-osztrák határig |
-
-| 2 | Rajna és Lampertheimer Altrhein (4,7 km-től a Rajnáig), Altrhein Stockstadt-Erfelden (9,80 km-től a Rajnáig) | A német-svájci határtól a német-holland határig |
-
-| 3 | Elba (Norderelbe), a Süderelbe en Köhlbrand is | Az Elba-Seiten csatorna torkolatától a hamburgi kikötő alsó határáig |
-
-| 4 | Müritz |  |
-
-## 3.5. Franciaország
-
-## 3.5.1. az Adour a Bec du Gave-tól a tengerig;
-
-## 3.5.2. az Aulne Châteaulin-i gátkaputól a tengernek a Passage de Rosnoën által kijelölt vonaláig;
-
-## 3.5.3. a Blavet Pontivy-tól Pont du Bonhomme-ig;
-
-## 3.5.4. a Calais-i csatorna;
-
-## 3.5.5. a Charente a Tonnay-Charente-nál található hídtól a tenger vonaláig, amelyet a bal parton, völgymenetben található közlekedési lámpát a Fort de la Pointe közepével összekötő vonal jelöl ki;
-
-## 3.5.6. a Dordogne a Lidoire-ral való összefolyástól a Bec d′Ambès-ig;
-
-## 3.5.7. a Garonne a Castet en Dorthe-i hídtól a Bec d′Ambès-ig;
-
-## 3.5.8. a Gironde a Bec d′Ambès-tól a 48,50-es km-nél lévő, és az Ile de Patiras után elhelyezkedő ponton áthaladó vonalig;
-
-## 3.5.9. a Hérault Bessan kikötőjétől a tengerig, a part felső vonaláig;
-
-## 3.5.10. az Isle a Dronne-nal való összefolyástól a Dordogne-nyal való összefolyásig;
-
-## 3.5.11. a Loire a Maine-nal való összefolyástól Cordemais-ig (KP 25);
-
-## 3.5.12. a Marne a Bonneuil-i hídtól (KP 169 bis 900) és a St Maur-i gátkaputól a Szajnával való összefolyásig;
-
-## 3.5.13. Rajna;
-
-## 3.5.14. a Nive Haïtze gáttól Ustaritzban az Adourral való összefolyásig;
-
-## 3.5.15. az Oise a Janville-i gátkaputól a Szajnával való összefolyásig;
-
-## 3.5.16. az Orb Sérignantól a tengerig, a part felső vonaláig;
-
-## 3.5.17. a Rajna a svájci határtól a tengerig, a Kis-Rajna kivételével;
-
-## 3.5.18. a Saône a Pont de Bourgogne-i hídtól Chalon sur Saône-ban a Rajnával való összefolyásig;
-
-## 3.5.19. a Szajna a Nogent sur Seine-i gátkaputól Tancarville-csatorna kezdetéig;
-
-## 3.5.20. Sèvre Niortaise a Marans-i gátkaputól a tenger vonaláig, a torkolatnál lévő őrházig;
-
-## 3.5.21. a Somme Pont de la Portelette híd alsó folyási oldalától Abbeville-ben a Noyelles-i viaduktig és a Saint-Valéry-sur-Somme-i vasútig;
-
-## 3.5.22. a Vilaine Redontól (KP 89,345) Arzal gátig;
-
-## 3.5.23. Amance-tó;
-
-## 3.5.24. Annecy-tó;
-
-## 3.5.25. Biscarosse-tó;
-
-## 3.5.26. Bourget-tó;
-
-## 3.5.27. Carcans-tó;
-
-## 3.5.28. Cazaux-tó;
-
-## 3.5.29. Der-Chantecoq-tó;
-
-## 3.5.30. Guerlédan-tó;
-
-## 3.5.31. Hourtin-tó;
-
-## 3.5.32. Lacanau-tó;
-
-## 3.5.33. Orient-tó;
-
-## 3.5.34. Pareloup-tó;
-
-## 3.5.35. Parentis-tó;
-
-## 3.5.36. Sanguinet-tó;
-
-## 3.5.37. Serre-Ponçon-tó;
-
-## 3.5.38. Temple-tó.
-
-## 3.6. Horvátország
-
-## 3.6.1. Duna: 1295 + 500 fkm-től 1433 + 100 fkm-ig
-
-## 3.6.2. Dráva: 0 fkm – 198 + 600 fkm
-
-## 3.6.3. Száva: 210 + 800 fkm – 594 + 000 fkm
-
-## 3.6.4. Kupa: 0 fkm – 5 + 900 fkm
-
-## 3.6.5. Una: 0 fkm – 15 fkm
-
-## 3.7. Magyarország
-
-## 3.7.1. Duna: 1812 fkm – 1433 fkm
-
-## 3.7.2. Mosoni-Duna: 14 fkm – 0 fkm
-
-## 3.7.3. Szentendrei-Duna: 32 fkm – 0 fkm
-
-## 3.7.4. Ráckevei-Duna: 58 fkm – 0 fkm
-
-## 3.7.5. Tisza: 685 fkm – 160 fkm
-
-## 3.7.6. Dráva: 198 fkm – 70 fkm
-
-## 3.7.7. Bodrog: 51 fkm – 0 fkm
-
-## 3.7.8. Kettős-Körös: 23 fkm – 0 fkm
-
-## 3.7.9. Hármas-Körös: 91 fkm – 0 fkm
-
-## 3.7.10. Sió-csatorna: 23 fkm – 0 fkm
-
-## 3.7.11. Velencei-tó
-
-## 3.7.12. Fertő tó
-
-## 3.8. Hollandia
-
-## 3.8.1. Rajna
-
-## 3.8.2. Sneekermeer, Koevordermeer, Heegermeer, Fluessen, Slotermeer, Tjeukemeer, Beulakkerwijde, Belterwijde, Ramsdiep, Ketelmeer, Zwartemeer, Veluwemeer, Eemmeer, Alkmaardermeer, Gouwzee, Buiten IJ, Afgesloten IJ, Noordzeekanaal, IJmuiden kikötő, Rotterdam kikötői terület, Nieuwe Maas, Noord, Oude Maas, Beneden Merwede, Nieuwe Merwede, Dordische Kil, Boven Merwede, Waal, Bijlandsch-csatorna, Boven Rijn, Pannersdensch-csatorna, Geldersche Ijssel, Neder Rijn, Lek, Amsterdam-Rajna-csatorna, Veerse Meer, Schelde-Rajna-csatorna egészen a Volkeraknál levő torkolatig, Amer, Bergsche Maas, a Meuse Venlo alatt, Gooimeer, Europort, Calandkanaal (a Benelux kikötőtől keletre), Hartelkanaal
-
-## 3.9. Ausztria
-
-## 3.9.1. Duna: a német határtól a szlovák határig
-
-## 3.9.2. Inn: a torkolattól a Passau-Ingling erőműig
-
-## 3.9.3. Traun: a torkolattól az 1,80 km-ig
-
-## 3.9.4. Enns: a torkolattól a 2,70 km-ig
-
-## 3.9.5. March: a 6,00 km-ig
-
-## 3.10. Lengyelország
-
-## 3.10.1. A Biebrza folyó az Augustowski-csatorna torkolatától a Narwia folyó torkolatáig
-
-## 3.10.2. A Brda folyó a bydgoszczi Bydgoski-csatorna összefolyásától a Wisła folyó torkolatig
-
-## 3.10.3. A Bug folyó a Muchawiec folyó torkolatától a Narwia folyó torkolatáig
-
-## 3.10.4. A Dąbie tó a belső tengervizekkel való határig
-
-## 3.10.5. Az Augustowski-csatorna a Biebrza folyóval való összefolyásától az államhatárig, a csatorna mentén elhelyezkedő tavakkal együtt
-
-## 3.10.6. A Bartnicki-csatorna a Ruda Woda tótól a Bartężek-tóig, a Bartężek-tóval együtt
-
-## 3.10.7. A Bydgoski-csatorna
-
-## 3.10.8. Az Elbląski-csatorna a Druzno tótól a Jeziorak tóig és a Szeląg Wielki tó, ezekkel a tavakkal és a csatorna mentén levő tavakkal együtt, valamint egy mellékút Zalewo irányába a Jeziorak tótól az Ewingi tóig, mindkét tavat beleértve
-
-## 3.10.9. A Gliwicki-csatorna a Kędzierzyński-csatornával
-
-## 3.10.10. A Łączański-csatorna
-
-## 3.10.11. A Ślesiński-csatorna a csatorna mentén elhelyezkedő tavakkal és a Gopło tóval
-
-## 3.10.12. A Żerański-csatorna
-
-## 3.10.13. A Martwa Wisła folyó a przegalinai Wisła folyótól a belső tengervizekkel való határig
-
-## 3.10.14. A Narew folyó a Biebrza folyó torkolatától a Wisła folyó torkolatáig, a Zegrzyński tóval együtt
-
-## 3.10.15. A Nogat folyó a Wisła folyótól a Wisła-lagúnabeli torkolatig
-
-## 3.10.16. A (felső) Noteć folyó a Gopło tótól a Górnonotecki-csatornával, a Górnonotecki-csatornával és az (alsó) Noteć folyóval való összefolyásig, a Bydgoski-csatornától a Warta folyó torkolatig
-
-## 3.10.17. A Nysa Łużycka folyó Gubintól az Odera folyó torkolatáig
-
-## 3.10.18. Az Odera folyó Racibórz városától a keleti-Odera folyóval való összefolyásig, amely a Regalica folyóba fordul a kluczustowói áttöréstől, azzal a folyóval és mellékágaival együtt a Dąbie tóig, valamint az Odera folyó egy mellékútja az Opatowice zsiliptől Wrocław városában
-
-## 3.10.19. A nyugati Odera folyó egy widuchowai duzzasztógáttól (az Odera folyó 704,1 km-e) a belső tengervizekkel való határig, mellékágakkal együtt, valamint a kluczustowói áttörés, ami a keleti Odera folyót köti össze a nyugati Odera folyóval
-
-## 3.10.20. A Parnica folyó és a Parnicki áttörés a nyugati Odera folyótól a belső tengervizekkel való határig
-
-## 3.10.21. A Pisa folyó a Roś tótól a Narew folyó torkolatáig
-
-## 3.10.22. A Szkarpawa folyó a Wisła folyótól a Wisła-lagúnabeli torkolatig
-
-## 3.10.23. A Warta folyó a Ślesiński-lagúnától az Odera folyó torkolatáig
-
-## 3.10.24. A Wielkie Jeziora Mazurskie rendszere, amely körbeöleli a piszi Roś tótól (azt is beleértve) a węgorzewói Węgorzewski-csatornáig (azt is beleértve) vezető fő útvonalat alkotó folyókkal és csatornákkal összekötött tavakat, a következő tavakkal együtt: Seksty, Mikołajskie, Tałty, Tałtowisko, Kotek, Szymon, Szymoneckie, Jagodne, Boczne, Tajty, Kisajno, Dargin, Łabap, Kirsajty és Święcajty, a Giżycki-csatornával és a Niegociński-csatornával, valamint a Piękna Góra-csatornával együtt, továbbá a ryni Ryńskie tó egy mellékútja (beleértendő) a Nidzkie tóig (3 km-ig, amely egy határt alkot a „Nidzkie rezervátummal”), a következő tavakkal együtt: Bełdany, Guzianka Mała és Guzianka Wielka
-
-## 3.10.25. A Wisła folyó a Przemsza folyó torkolatától a Łączański-csatornával való összefolyásig, valamint e csatorna skawinai torkolatától a Wisła folyó Gdański-öbölbeli torkolatáig, nem tartozik bele a Włocławski víztározó
-
-## 3.11. Románia
-
-## 3.11.1. Duna: a szerb-román határtól (1075 km) a Sulinai-ágon át a Fekete-tengerig
-
-## 3.11.2. Duna-Fekete-tenger-csatorna (64,410 km hosszú): a Duna 299,300 km-énél Cernavodă-nál található csatornatorkolattól (a csatorna 64,410 km-e) a Constanta Dél-Agigea-i kikötőig (a csatorna „0” km-e)
-
-## 3.11.3. Poarta Albă-Midia Năvodari csatorna (34,600 km hosszú): a Duna-Fekete-tenger-csatorna 29,410 km-énél Poarta Albă-nál található csatornatorkolattól (a csatorna 27,500 km-e) a midiai kikötőig (a csatorna „0” km-e)
-
-## 3.12. Szlovákia
-
-## 3.12.1. Duna: 1880,26 fkm – 1708,20 fkm
-
-## 3.12.2. Duna-csatorna: 1851,75 fkm – 1811,00 fkm
-
-## 3.12.3. Vág: 0,00 fkm – 70,00 fkm
-
-## 3.12.4. Morva: 0,00 fkm – 6,00 fkm
-
-## 3.12.5. Bodrog: 49,68 fkm – 64,85 fkm
-
-## 3.12.6. Duzzasztógáttavak: Oravská Priehrada, Liptovská Mara, Zemplínska Šírava
-
-## 3.13. Svédország
-
-## 3.13.1. Trollhätte-csatorna és Göta älv, a bastugrunds-i irányfényen keresztül futó szélességi körtől a Göta älv-hídig
-
-## 3.13.2. Mälaren-tó
-
-## 3.13.3. Stockholm kikötői, északnyugaton a Lidingö-híddal, északkeleten az elfviksgrundi világítótornyon 135–315 fokos szögben keresztül vezető vonallal, délen pedig a Skuru-híddal határolva
-
-## 3.13.4. A Södertälje-csatorna és Södertälje kikötői, északról a Södertälje gátkapuval, délről pedig az 59° 09′00′ északi szélességi körrel határolva
-
-## 3.14. Egyesült Királyság
-
-|  | A | B |
-
-| 1 | SKÓCIA |  |
-
-| 2 | Leith (Edinburgh) | A hullámtörő gátakon belül |
-
-| 3 | Glasgow | Strathclyde Loch |
-
-| 4 | Crinan-csatorna | Crinan Ardrishaigig |
-
-| 5 | Kaledóniai-csatorna | A csatorna szakaszai |
-
-| 6 | ÉSZAK-ÍRORSZÁG |  |
-
-| 7 | Lagan folyó | A Lagan Weir duzzasztógát Stranmillisig |
-
-| 8 | ANGLIA KELETI RÉSZE |  |
-
-| 9 | Wear folyó (nem árapályos) | Régi vasúti híd, Durham a Prebends hídig, Durham |
-
-| 10 | Tees folyó | A Tees duzzasztógáttól felfele a folyón |
-
-| 11 | Grimsby dokk | A zsilipeken belül |
-
-| 12 | Immingham dokk | A zsilipeken belül |
-
-| 13 | Hull dokkok | A zsilipeken belül |
-
-| 14 | Boston dokk | A zsilipkapukon belül |
-
-| 15 | Aire és Calder Navigation | A Goole dokkok Leedsig, összefolyás a leedsi és liverpooli csatornával; a Bank Dole összefolyása a Selbyvel (az Ouse folyó zsilipje); a Castleford összefolyása a Wakefielddel (Falling zsilip) |
-
-| 16 | Ancholme folyó | A Ferriby zsilip Briggig |
-
-| 17 | Calder és Hebble csatorna | Wakefield (Falling zsilip) a Broadcut felső zsilipig |
-
-| 18 | Foss folyó | Az Ouse folyóval való (kék híd) összefolyástól a Monk hídig |
-
-| 19 | Fossdyke-csatorna | A Trent folyóval való összefolyás a Brayford tóba |
-
-| 20 | Goole dokk | A zsilipkapukon belül |
-
-| 21 | Hornsea Mere | Az egész csatorna |
-
-| 22 | Hull folyó | A Struncheon Hill zsiliptől a Beverley patakig |
-
-| 23 | Market Weighton-csatorna | A Humber folyó zsilipjétől a Sod Houses zsilipig |
-
-| 24 | New Junction-csatorna | Az egész csatorna |
-
-| 25 | Ouse folyó | A Naburn zsiliptől Nun Monktonig |
-
-| 26 | Sheffield és a dél-yorkshire-i csatorna | A Keadby zsilip a Tinsley zsilipig |
-
-| 27 | Trent folyó | A Cromwell zsilip Shardlow-ig |
-
-| 28 | Witham folyó | A Boston zsilip a Brayford tóig (Lincoln) |
-
-| 29 | WALES ÉS ANGLIA NYUGATI RÉSZE |  |
-
-| 30 | Severn folyó | A Llanthony és Maisemore duzzasztógát felett |
-
-| 31 | Wye folyó | Monmouth felett |
-
-| 32 | Cardiff | Roath Park tó |
-
-| 33 | Port Talbot | A körbezárt dokkokon belül |
-
-| 34 | Swansea | A körbezárt dokkokon belül |
-
-| 35 | Dee folyó | A Barrelwell Hill vízkiemelő pont felett |
-
-| 36 | Mersey folyó | A dokkok (a Seaforth dokk nem tartozik bele) |
-
-| 37 | Lune folyó | A Glasson dokk felett |
-
-| 38 | Avon folyó (Midland) | A Tewkesbury zsilip Eveshamig |
-
-| 39 | Gloucester | A Gloucester városi dokkok Gloucester/Sharpness-csatorna |
-
-| 40 | Hollingworth tó | Az egész tó |
-
-| 41 | Manchester hajócsatorna | Az egész csatorna és a Salford dokkok beleértve az Irwell folyót is |
-
-| 42 | Pickmere tó | Az egész tó |
-
-| 43 | Tawe folyó | A tengeri duzzasztógát/jachtkikötő és a Morfa atlétikai stadion között |
-
-| 44 | Rudyard tó | Az egész tó |
-
-| 45 | Weaver folyó | Northwich alatt |
-
-| 46 | ANGLIA DÉLI RÉSZE |  |
-
-| 47 | Nene folyó | Wisbech Cut és a Nene folyó Dog-ig-páros zsilipben |
-
-| 48 | Great Ouse folyó | Kings Lynn Cut és a Great Ouse folyó a nyugat-Lynn Road híd alatt |
-
-| 49 | Yarmouth | A Yare folyó torkolata az északi és déli bejárati kikötőgátak végpontjain keresztül húzott vonaltól beleértve Breydon Watert |
-
-| 50 | Lowestoft | A Lowestoft kikötő a Mutford zsilip alatt a külső kikötő bejárati kikötőgátjain keresztül húzott vonalig |
-
-| 51 | Alde és Ore folyó | Az Ore folyó Westrow-foki bejárata felett |
-
-| 52 | Deben folyó | A Deben folyó Felixstowe komphoz való bejárata felett |
-
-| 53 | Orwell folyó és Stour folyó | A Fagbury-foktól a Shotley-fokig húzott vonaltól az Orwell folyón az Ipswich dokkig; valamint az Erwarton Nessen keresztül húzott észak-dél irányú vonaltól a Stour folyón Manningtree-ig |
-
-| 54 | Chelmer és Blackwater- csatorna | A Beeleigh zsiliptől keletre |
-
-| 55 | Temze és mellékfolyói | A Temze az oxfordi Teddington zsilip felett |
-
-| 56 | Adur folyó és Southwick-csatorna | Az Adur folyó a Tarmac Wharf nyugati vége felett és a Southwick csatornán belül |
-
-| 57 | Arun folyó | Az Arun folyó a Littlehampton jachtkikötő felett |
-
-| 58 | Ouse folyó (Sussex) Newhaven | Az Ouse folyó az északi rakpart északi vége felett |
-
-| 59 | Bewl Water | Az egész tó |
-
-| 60 | Grafham Water | Az egész tó |
-
-| 61 | Rutland Water | Az egész tó |
-
-| 62 | Thorpe Park tó | Az egész tó |
-
-| 63 | Chichester | A Cobnor-fokot és a Chalkdock-fokot összekötő vonaltól keletre |
-
-| 64 | Christchurch | A Christchurch kikötőn belül, a Run nem tartozik bele |
-
-| 65 | Exeter-csatorna | Az egész csatorna |
-
-| 66 | Avon folyó (Avon) | Bristol városi dokkok A Netham gát a Pulteney duzzasztógátig |
-
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^68]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^71]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -1450,7 +468,7 @@ Hivatalból indított szemle
 
 Hajóosztályozó társaság bizonylata
 
-A szemlebizottság teljesen vagy részben eltekinthet annak vizsgálatától, hogy az úszólétesítmény eleget tesz-e a Szabályzat II. részében és a 23.09 cikkben foglalt előírásoknak, ha elismert hajóosztályozó társaság érvényes bizonylata azt igazolja, hogy az úszólétesítmény ezeknek az előírásoknak teljesen vagy részben megfelel.
+A szemlebizottság teljesen vagy részben eltekinthet annak vizsgálatától, hogy az úszólétesítmény eleget tesz-e az (EU) 2021/1308 bizottsági felhatalmazáson alapuló rendelet II. mellékletében és a Szabályzat 23.09 cikkében foglalt előírásoknak, ha elismert hajóosztályozó társaság érvényes bizonylata azt igazolja, hogy az úszólétesítmény ezeknek az előírásoknak teljesen vagy részben megfelel.
 
 2.13 cikk
 
@@ -1522,13 +540,11 @@ Egyenértékűség és mentesség
 
 A Budapest Főváros Kormányhivatala az Európai Bizottságnak az ideiglenes uniós bizonyítvány kiadásától számított egy hónapon belül jelentést tesz a 2.05 cikk 1. pontja (g) alpontjával összhangban, megjelölve az úszólétesítmény nevét és európai hajóazonosító számát, az eltérés típusát, valamint azt a tagállamot, amelyben az úszólétesítményt lajstromozták vagy ahol anyakikötője található.
 
-3. Kísérleti célból, korlátozott időtartamra a szemlebizottság is megadhatja az uniós hajóbizonyítványt a bizottság ajánlása alapján olyan úszólétesítmény részére, amely a II. rész előírásaitól eltérő műszaki újdonságokkal rendelkezik, ha ezek kielégítő biztonságot nyújtanak.
+3. Kísérleti célból, korlátozott időtartamra a szemlebizottság is megadhatja az uniós hajóbizonyítványt a bizottság ajánlása alapján olyan úszólétesítmény részére, amely az (EU) 2021/1308 bizottsági felhatalmazáson alapuló rendelet II. mellékletének előírásaitól eltérő műszaki újdonságokkal rendelkezik, ha ezek kielégítő biztonságot nyújtanak.
 
 4. Az 1–3. pontban meghatározott egyenértékűségeket és mentességeket az uniós hajóbizonyítványban fel kell tüntetni. Ezekről tájékoztatni kell az Európai Bizottságot.
 
 II. RÉSZ
-
-A vízi járművekre alkalmazandó műszaki követelmények megegyeznek az ES-TRIN 2019/1 számú szabványban foglaltakkal.
 
 III. RÉSZ
 
@@ -1814,7 +830,7 @@ Az önjáró teherhajók minimális személyzete:
 
 |  |  | üzemmódban |
 
-|  |  | Hajóvezető1........................................................... | 1 | 2 | 2 |
+|  |  | Hajóvezető........................................................... | 1 | 2 | 2 |
 
 |  |  | Kormányos............................................................ | - | - | - |
 
@@ -1824,7 +840,7 @@ Az önjáró teherhajók minimális személyzete:
 
 |  |  | Tanulómatróz........................................................ | - | - | 15 |
 
-| 2. |  | Hajóvezető2.......................................................... | 1 | 2 | 2 |
+| 2. |  | Hajóvezető.......................................................... | 1 | 2 | 2 |
 
 |  | L > 70 | Kormányos........................................................... | - |  | - |
 
@@ -1834,9 +850,9 @@ Az önjáró teherhajók minimális személyzete:
 
 |  |  | Tanulómatróz....................................................... | - | 14 | - |
 
-|  |  | Hajóvezető2.......................................................... | 1 | 2 | 2 vagy 2 |
+|  |  | Hajóvezető.......................................................... | 1 | 2 | 2 vagy 2 |
 
-|  |  | Kormányos........................................................... | 1 | - | 1 | 17 |
+|  |  | Kormányos........................................................... | 1 | - | 1 | 1 |
 
 | 3. | L > 86 | Fedélzetmester...................................................... | - | - | - | - |
 
@@ -1846,10 +862,6 @@ Az önjáró teherhajók minimális személyzete:
 
 Megjegyzés:
 
-1. „A” , „B” vagy „C” kategóriájú hajóvezető
-
-2. „A” vagy „B” kategóriájú hajóvezető
-
 3. A matrózt két tanulómatróz vagy két gyakornok helyettesítheti, akik közül legalább az egyiknek második szakmai évében kell lennie.
 
 4. A tanulómatróz legalább 18 éves legyen, őt két gyakornok helyettesítheti, akik közül legalább az egyiknek második szakmai évében kell lennie.
@@ -1857,8 +869,6 @@ Megjegyzés:
 5. A tanulómatróz legalább 18 éves legyen.
 
 6. Az egyik matrózt legalább második évben foglalkoztatott, legalább 18 éves gyakornok helyettesítheti.
-
-7. Legalább hajóvezető „B”.
 
 23.11 cikk
 
@@ -1874,43 +884,43 @@ A tolóhajók, tolt kötelékek, mellévett alakzatok és egyéb merev kötelék
 
 |  | Tolóhajó | Hajóvezető2................................................ | 1 | 2 | 2 vagy 2 |
 
-|  | + 1 bárka1 | Kormányos................................................. | 1 | - | 1 | 15 |
+|  | + 1 bárka1 | Kormányos................................................. | 1 | - | 1 | 1 |
 
 | 1. | vagy, ha a kötelék mérete | Matróz........................................................ | 12 | 1 | 24 | 1 |
 
 |  | L < 116,5 m | Tanulómatróz............................................. | - | 1 | - | - |
 
-|  | B < 15m | Gépész8...................................................... | - | - | - | - |
+|  | B < 15m | Gépész...................................................... | - | - | - | - |
 
 |  | Tolóhajó | Hajóvezető2................................................ | 1 | 2 | 2 vagy 2 |
 
-|  | + 2 bárka1 | Kormányos................................................. | 1 | - | 1 | 15 |
+|  | + 2 bárka1 | Kormányos................................................. | 1 | - | 1 | 1 |
 
 | 2. | Önjáró | Matróz........................................................ | 1 | 2 | 2 | 2 |
 
 |  | teherhajó | Tanulómatróz............................................. | 1 | 1 | - | - |
 
-|  | + 1 bárka1 | Gépész8...................................................... | - | - | 1 | - |
+|  | + 1 bárka1 | Gépész...................................................... | - | - | 1 | - |
 
 |  | Tolóhajó | Hajóvezető2............................................... | 1 | 2 | 2 vagy 2 |
 
-|  | +3 vagy 4 bárka1 | Kormányos................................................ | 1 | - | 1 | 15 |
+|  | +3 vagy 4 bárka1 | Kormányos................................................ | 1 | - | 1 | 1 |
 
 | 3. | Önjáró | Matróz....................................................... | 2 | 2 | 2 | 2 |
 
 |  | teherhajó | Tanulómatróz............................................. | - | 1 | 13 | - |
 
-|  | +2 vagy 3 bárka1 | Gépész8...................................................... | 1 | 1 | 1 | 1 |
+|  | +2 vagy 3 bárka1 | Gépész...................................................... | 1 | 1 | 1 | 1 |
 
 |  |  | Hajóvezető2............................................... | 1 | 2 | 2 vagy 2 |
 
-|  | Tolóhajó | Kormányos................................................ | 1 | - | 1 | 15 |
+|  | Tolóhajó | Kormányos................................................ | 1 | - | 1 | 1 |
 
 | 4. | +4-nél több bárka1 | Matróz....................................................... | 3 | 3 | 3 | 3 |
 
 |  |  | Tanulómatróz............................................ | - | 1 | 13 | - |
 
-|  |  | Gépész8..................................................... | 1 | 1 | 1 | 1 |
+|  |  | Gépész..................................................... | 1 | 1 | 1 | 1 |
 
 Megjegyzés:
 
@@ -1924,14 +934,6 @@ Megjegyzés:
 
 4. E matrózok egyikét helyettesítheti egy gépész, matróz-gépkezelő vagy olyan gyakornok, aki legalább 18 éves és második szakmai évében van.
 
-5. Legalább hajóvezető „B” képesítéssel (a vonalvizsga területi hatályától függetlenül).
-
-6. „A” vagy „B” kategóriájú hajóvezető
-
-7. „A” vagy „B” kategóriájú hajóvezető
-
-8. A hajózási képesítésekről szóló jogszabály szerint
-
 23.12 cikk
 
 Személyhajók minimális személyzete
@@ -1944,7 +946,7 @@ Személyhajók minimális személyzete
 
 | szerint |  | üzemmódban |
 
-|  |  | Hajóvezető1................................................................. | 1 | 2 | 2 |
+|  |  | Hajóvezető................................................................. | 1 | 2 | 2 |
 
 |  |  | Kormányos.................................................................. | - | - | - |
 
@@ -1954,11 +956,11 @@ Személyhajók minimális személyzete
 
 |  |  | Tanulómatróz.............................................................. | - | - | - |
 
-|  |  | Gépész4....................................................................... | - | - | - |
+|  |  | Gépész....................................................................... | - | - | - |
 
 |  |  | Matróz-gépkezelő........................................................ | - | - | - |
 
-|  |  | Hajóvezető1................................................................. | 1 | 2 | 2 |
+|  |  | Hajóvezető................................................................. | 1 | 2 | 2 |
 
 |  |  | Kormányos.................................................................. | - | - | - |
 
@@ -1968,11 +970,11 @@ Személyhajók minimális személyzete
 
 |  | 250 főig | Tanulómatróz.............................................................. | - | 13 | 13 |
 
-|  |  | Gépész4....................................................................... | - | - | - |
+|  |  | Gépész....................................................................... | - | - | - |
 
 |  |  | Matróz-gépkezelő........................................................ | 12 | 1 | 1 |
 
-|  |  | Hajóvezető1 ................................................................. | 1 | 2 | 3 |
+|  |  | Hajóvezető ................................................................. | 1 | 2 | 3 |
 
 |  |  | Kormányos.................................................................. | - | - | - |
 
@@ -1982,11 +984,11 @@ Személyhajók minimális személyzete
 
 |  | 600 főig | Kisegítő matróz........................................................... | - | - | - |
 
-|  |  | Gépész4....................................................................... | - | - | - |
+|  |  | Gépész....................................................................... | - | - | - |
 
 |  |  | Matróz-gépkezelő....................................................... | 12 | 1 | 1 |
 
-|  |  | Hajóvezető1 ................................................................ | 1 | 2 | 3 |
+|  |  | Hajóvezető ................................................................ | 1 | 2 | 3 |
 
 |  |  | Kormányos.................................................................. | 1 | - | - |
 
@@ -1996,11 +998,11 @@ Személyhajók minimális személyzete
 
 |  | 1000 főig | Kis.matróz.................................................................. | 1 | - | - |
 
-|  |  | Gépész4...................................................................... | - | 1 | 1 |
+|  |  | Gépész...................................................................... | - | 1 | 1 |
 
 |  |  | Matróz-gépkezelő....................................................... | 1 | - | - |
 
-|  |  | Hajóvezető1................................................................ | 2 | 2 | 3 |
+|  |  | Hajóvezető................................................................ | 2 | 2 | 3 |
 
 |  |  | Kormányos................................................................ | - | - | - |
 
@@ -2010,11 +1012,11 @@ Személyhajók minimális személyzete
 
 |  | 2000 főig | Tanulómatróz............................................................. | - | 13 | 13 |
 
-|  |  | Gépész4...................................................................... | 1 | 1 | 1 |
+|  |  | Gépész...................................................................... | 1 | 1 | 1 |
 
 |  |  | Matróz-gépkezelő....................................................... | - | - | - |
 
-|  |  | Hajóvezető1 ................................................................ | 2 | 2 | 3 |
+|  |  | Hajóvezető ................................................................ | 2 | 2 | 3 |
 
 |  |  | Kormányos................................................................. | - | - | - |
 
@@ -2024,11 +1026,11 @@ Személyhajók minimális személyzete
 
 |  |  | Tanulómatróz.............................................................. | 1 | - | 13 |
 
-|  |  | Gépész4 ...................................................................... | 1 | 1 | 1 |
+|  |  | Gépész ...................................................................... | 1 | 1 | 1 |
 
 |  |  | Matróz-gépkezelő........................................................ | - | - | - |
 
-|  |  | Hajóvezető1 ................................................................ | 2 | 2 | 3 |
+|  |  | Hajóvezető ................................................................ | 2 | 2 | 3 |
 
 |  |  | Kormányos.................................................................. | - | - | - |
 
@@ -2038,19 +1040,15 @@ Személyhajók minimális személyzete
 
 |  | 1000-től | S.matróz....................................................................... | - | 13 | 13 |
 
-|  | 2000 főig | Gépész4........................................................................ | 3 | 3 | 3 |
+|  | 2000 főig | Gépész........................................................................ | 3 | 3 | 3 |
 
 |  |  | Matróz-gépkezelő........................................................ | - | - | - |
 
 Megjegyzés:
 
-1. Kisgéphajó-vezető „A”, vitorlás kishajó-vezető „A” hajóvezető „B”, hajóvezető „A” (vitorlásra csak ” vitorlás hajó vezetésére” bejegyzéssel) vagy „A” vagy „B” kategóriájú hajóvezetői képesítéssel.
-
 2. Egy matróz-gépkezelő vagy egy matróz helyettesíthető két tanulómatrózzal vagy két gyakornokkal, akik közül az egyik legalább 18 éves és második szakmai évében van.
 
 3. A tanulómatróz legalább 18 éves legyen.
-
-4. A hajózási képesítésekről szóló jogszabály szerint.
 
 2. Kabinos hajók minimális személyzete:
 
@@ -2060,7 +1058,7 @@ Megjegyzés:
 
 |  |  | üzemmódban |
 
-|  |  | Hajóvezető1................................................................. | 1 | 2 | 3 |
+|  |  | Hajóvezető................................................................. | 1 | 2 | 3 |
 
 |  |  | Kormányos.................................................................. | - | - | - |
 
@@ -2070,11 +1068,11 @@ Megjegyzés:
 
 |  |  | Tanulómatróz............................................................... | - | - | - |
 
-|  |  | Gépész4........................................................................ | - | - | - |
+|  |  | Gépész........................................................................ | - | - | - |
 
 |  |  | Matróz-gépkezelő........................................................ | 1 | 1 | 1 |
 
-|  |  | Hajóvezető1................................................................. | 1 | 2 | 3 |
+|  |  | Hajóvezető................................................................. | 1 | 2 | 3 |
 
 |  |  | Kormányos.................................................................. | 1 | - | - |
 
@@ -2084,11 +1082,11 @@ Megjegyzés:
 
 |  | 100 fekhelyig | Tanulómatróz............................................................... | - | - | - |
 
-|  |  | Gépész4........................................................................ | - | 1 | 1 |
+|  |  | Gépész........................................................................ | - | 1 | 1 |
 
 |  |  | Matróz-gépkezelő........................................................ | 1 | - | - |
 
-|  |  | Hajóvezető1 ................................................................. | 1 | 2 | 3 |
+|  |  | Hajóvezető................................................................. | 1 | 2 | 3 |
 
 |  |  | Kormányos.................................................................. | 1 | - | - |
 
@@ -2098,15 +1096,11 @@ Megjegyzés:
 
 |  |  | Tanulómatróz............................................................... | - | - | - |
 
-|  |  | Gépész4........................................................................ | 1 | 1 | 1 |
+|  |  | Gépész........................................................................ | 1 | 1 | 1 |
 
 |  |  | Matróz-gépkezelő........................................................ | - | - | - |
 
 Megjegyzés:
-
-1. Kisgéphajó-vezető „A”, vitorlás kishajó-vezető „A”, „B” vagy „C” kategóriájú hajóvezetői (vitorlásra csak „vitorlás hajó vezetésére” bejegyzéssel) képesítéssel.
-
-4. A hajózási képesítésekről szóló jogszabály szerint.
 
 5. Egy matróz helyettesíthető két, legalább 18 éves tanulómatrózzal vagy gyakornokkal, akik közül az egyik legalább második szakmai évében legyen.
 
@@ -3620,4 +2614,563 @@ A 24.08. cikket értelemszerűen kell alkalmazni.
 
 BIZTONSÁGTECHNIKAI JELEK
 
-[^68]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a, a 36/2019. (IX. 20.) ITM rendelet 11. §-a, 12. § a)–d) pontja, a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdése, a 45/2019. (XII. 20.) ITM rendelet 2. §-a, a 13/2020. (V. 8.) ITM rendelet 2. §-a, a 34/2020. (X. 7.) ITM rendelet 2. § (2) bekezdése, a 46/2020. (XI. 30.) ITM rendelet 2. § 4–8. pontja, 3. §-a szerint módosított szöveg. [A 2. mellékletnek a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdésével elrendelt módosítása, amely szerint a 7. melléklet I. rész 1. és 13 pontjában és 9. melléklet III. rész 8. cikkében a „közösségi” szövegrész helyébe „uniós” szöveg lép, nem vezethető át.]
+| 1. ábra Engedély nélkül belépni tilos |  | Szín: vörös/fehér/fekete |
+
+| 2. ábra Dohányzás és nyílt láng használata tilos |  | Szín: vörös/fehér/fekete |
+
+| 3. ábra Hordozható tűzoltókészülék |  | Szín: vörös/fehér |
+
+| 4. ábra Általános veszély jelzése |  | Szín: sárga/fekete |
+
+| 5. ábra Tűzoltótömlő |  | Szín: vörös/fehér |
+
+| 6. ábra Tűzvédelmi berendezés |  | Szín: vörös/fehér |
+
+| 7. ábra Hallásvédő szükséges |  | Szín: kék/fehér |
+
+| 8. ábra Elsősegélynyújtó felszerelés |  | Szín: zöld/fehér |
+
+| 9. ábra Gyorselzáró szelep tartályon |  | Szín: barna/fehér |
+
+| 10. ábra Mentőmellény |  | Szín: kék/fehér |
+
+2. függelék
+
+Utasítások
+
+(A szemlebizottságok eljárásának egységes gyakorlatához a 2008/126/EK irányelvben meghatározott utasítások)
+
+1. utasítás: A kitérési és fordulási tulajdonságokra vonatkozó követelmények
+
+2. utasítás: Az előírt legnagyobb előremeneti sebességre, a megállási és hátrameneti tulajdonságokra vonatkozó követelmények
+
+3. utasítás: Kötelék továbbítására alkalmas és a kötelékbe sorolva továbbítható hajók csatoló-berendezéseire és csatoló-eszközeire vonatkozó követelmények
+
+4. utasítás: Üres
+
+5. utasítás: Zajmérések
+
+6. utasítás: Üres
+
+7. utasítás: Csökkentett tömegű különleges horgonyok
+
+8. utasítás: A vízzáró ablakok szilárdsága
+
+9. utasítás: Az automatikus, túlnyomásos vízpermetező berendezésekre vonatkozó követelmények
+
+10. utasítás: Üres
+
+11. utasítás: Az uniós bizonyítvány kiállítása
+
+12. utasítás: Úszómunkagép üzemanyag-tartálya
+
+13. utasítás: Uszályok legkisebb külhéj lemezvastagsága
+
+14. utasítás: Üres
+
+15. utasítás: Kormányozhatóság a hajó saját erejével
+
+16. utasítás: Üres
+
+17. utasítás: Tűzjelző rendszer
+
+18. utasítás: A térfelosztási úszóképesség, hosszanti úszáshelyzet és stabilitás igazolása
+
+19. utasítás: Üres
+
+20. utasítás: Az S1 és S2 szabvány szerint üzemelő hajó felszerelése
+
+21. utasítás: A padlószintű tájékozódási vészvilágításra vonatkozó követelmények
+
+22. utasítás: Csökkent mozgásképességű személyek különleges biztonsági szükségletei
+
+23. utasítás:
+
+24. utasítás: Gázszivárgást érzékelő berendezések
+
+25. utasítás: Elektromos kábelek
+
+1. UTASÍTÁS
+
+A kitérési és fordulási tulajdonságokra vonatkozó követelmények
+
+(E rendelet 2. mellékletének 5.09. és 5.10. cikke az 5.02. cikk 1. pontjával, 5.03. cikk 1. pontjával, az 5.04. cikkel és a 16.06. cikkel összefüggésben)
+
+| 1. | A kitérési tulajdonságok ellenőrzésének általános feltételei és peremfeltételei. |
+
+| 1.1. | Az 5.09. cikk szerint a hajóknak és kötelékeknek alkalmasnak kell lenniük a kellő időben történő kitérés végrehajtására, és a megfelelőséget bizonyítani kell az 5.03. cikknek megfelelően a próba során végrehajtott kitérési manőverekkel. Az előírt értékeknek való megfelelést balra és jobbra végzett, kitérési manőverekkel kell bizonyítani, amelyek során a hajónak a kormány elfordítását, majd rögzítését követően az előírt elfordulási sebességet bizonyos időn belül el kell érnie. |
+
+|  | A vizsgálatok során a 2. pontban szereplő feltételeket biztosítani szükséges, a gerinc és a mederfenék között legalább a merülés 20%-ának megfelelő, de 0,5 méternél nem kisebb távolság megtartásával. |
+
+| 2. | A kitérés vizsgálati eljárása és az adatok feljegyzése (Ábra a jelen utasítás I. mellékletében) |
+
+| 2.1. | A kitérési manővereket a következők szerint kell végrehajtani: A hajó vagy a kötelék V0 = 13 km/h állandó sebességgel halad a vízhez képest a manőver kezdetén (idő = 0 sec, fordulási sebesség r = 0°/perc, kormány-állásszög δ0 = 0°, a főgép állandó értéken tartott fordulatszáma mellett), és a balra vagy jobbra történő kitérést a kormányszerkezet kitérítésével kell előidézni. A kormány állásszögét δ értékre vagy – aktív kormányrendszer esetében – a kormányzást biztosító egységet δa szögbe kell beállítani a manőver megkezdésekor, a 2.3. pontban megadott beállítások szerint. A δ kormány-állásszöget (például 20° jobbra) mindaddig fenn kell tartani, amíg a fordulási sebesség el nem éri a 2.2. pontban említett r1 értéket a hajó, vagy a kötelék méreteinek megfelelően. Az r1 fordulási sebesség elérésekor fel kell jegyezni a t1 időt, és a kormány-állásszöget ugyanakkora szögbe kell állítani az ellenkező irányba (például 20° balra) a fordulás leállítása és az ellenkező irányú fordulás megkezdése érdekében, vagyis hogy a fordulási sebességet r2 = 0 értékre csökkentsék és újból a 2.2. pontban megadott értékre emeljék. Az r2 = 0 fordulási sebesség elérésekor fel kell jegyezni a t2 időt. A 2.2. pontban megadott r3 fordulási sebesség elérésekor a kormány-állásszöget az ellenkező irányba kell fordítani, ugyanakkora δ szögben, a fordulási mozgás leállítása érdekében. A t3 időt fel kell jegyezni. Az r4 = 0 fordulási sebesség elérésekor fel kell jegyezni a t4 időt és a hajónak vagy a köteléknek újból fel kell vennie az eredeti útirányát. |
+
+| 2.2. | A következő határértékeket kell teljesíteni az r4 fordulási sebesség elérésével, a hajó vagy a kötelék méretétől és a h vízmélységtől függően: |
+
+|  | A hajó vagy a kötelék méretei L x B | Előírt fordulási sebesség r1=r3(°/min) | A t4 idő (s) határértéke sekély és mély vízben |
+
+|  |  | δ= 20° | δ= 45° | 1,2 ≤h/T ≤1,4 | 1,4 ≤h/T ≤2 | h/T ≤2 |
+
+| 1. | motorhajók és az egy soros egymás mögé csatolt kötelékek | 20°/min | 28°/min | 150 sec | 110 sec | 110 sec |
+
+| 2. | a legfeljebb 193×11,40 m méretű egy soros egymás mögé csatolt kötelékek vagy a kétsoros legfeljebb 193×22,80 m méretű kötelékek | 12°/min | 18°/min | 180 sec | 130 sec | 110 sec |
+
+| 3. | a legfeljebb 193×22,80 m méretű kétsoros kötelékek | 8°/min | 12°/min | 180 sec | 130 sec | 110 sec |
+
+| 4. | a 193×22,80 m méretű kétsoros és a 193×34,35 m méretű háromsoros kötelékek | 6°/min | 8°/min | (*) | (*) | (*) |
+
+(*) A szemlét végző nautikai szakértő megállapítása szerint
+
+Az r1, r2, r3 és r4 fordulási sebesség eléréséhez szükséges t1, t2, t3 és t4 időt fel kell jegyezni a jelen utasítás II. mellékletében szereplő mérési jelentésben. A t4 értékek nem haladhatják meg a táblázatban megadott határokat.
+
+| 2.3. | Legalább négy kitérési manővert kell végrehajtani, nevezetesen a következőket: |
+
+|  | – egy manőver jobbra, δ = 20° kormány-állásszöggel – egy manőver balra, δ = 20° kormány-állásszöggel – egy manőver jobbra, δ = 45° kormány-állásszöggel – egy manőver balra, δ = 45° kormány-állásszöggel. Szükség esetén – a mért értékekkel kapcsolatos bizonytalanság vagy nem kielégítő manőverek esetén – a kitérési manővereket meg kell ismételni. Teljesíteni kell a 2.2. pontban megadott fordulási sebességeket és határidőket. Aktív kormányszerkezet vagy különleges típusú kormány esetében δ = 20° és δ = 45° kormányegység-helyzettől, illetve kormány-állásszögtől eltérő érték választható, a szakértő megítélése szerint, a kormányrendszer típusától függően. |
+
+| 2.4. | A fordulási sebesség megállapítása érdekében a fedélzeten lennie kell a IX. melléklet szerinti fordulási sebesség-kijelzőnek. |
+
+| 2.5. | Az 5.04. cikknek megfelelően a kitérési manőver során a terhelési viszonyoknak a maximális hordképesség 70%-a és 100%-a között kell lennie. Ha a vizsgálatot kisebb terhelés mellett hajtják végre, akkor a folyásirányú és folyásiránnyal szembeni hajózás jóváhagyását erre a terhelési határra kell korlátozni. A kitérési manőverekre vonatkozó eljárást és az alkalmazott feltételeket az 1. mellékletben szereplő ábra szemlélteti. |
+
+| 3. | Fordulási tulajdonság A 86 méter hosszúságot (L) és 22,90 méter szélességet (B) meg nem haladó hajók és kötelékek fordulási tulajdonságát akkor kell elégségesnek tekinteni az 5.10. cikk alapján, az 5.02. cikk 1. pontjával összefüggésben, ha a folyásiránnyal szemben, a vízhez képest 13 km/h kezdeti sebességgel végrehajtott fordulási manőver során teljesülnek a 2. utasításban meghatározott folyásirányú megállás határértékei. Teljesíteni kell a gerinc és mederfenék közötti távolsággal kapcsolatos, az 1.1. pontban előírt követelményeket. |
+
+| 4. | Egyéb követelmények |
+
+| 4.1. | Az 1–3. pont előírásai ellenére a következő követelményeket kell teljesíteni: a) Kézi működtetésű kormányművek esetében a kormány egyetlen fordulatának legalább 3° kormány-állásszögnek kell megfelelnie; b) Gépi meghajtású kormánymű esetében a kormánylapát maximális merülése esetén elérhetőnek kell lennie a 4°/s átlagos szögsebességnek a kormánylapát teljes fordulási tartománya alatt. Ezt a követelményt a hajó teljes sebessége mellett is ellenőrizni kell, a kormánylapátot a 35° balra és a 35° jobbra tartományon belül mozgatva. Emellett azt is ellenőrizni kell, hogy a kormánylapát megtartja-e maximális szögét a maximális propulziós teljesítmény mellett. Aktív kormánymű vagy különleges típusú kormány esetében ez a rendelkezés értelemszerűen alkalmazandó. |
+
+| 4.2. | Ha szükség van az 5.05. cikkben említett bármely kiegészítő berendezésre a megkövetelt manőverezési képességek eléréséhez, akkor teljesíteni kell a 6. fejezet követelményeit és a következő előírt adatokat be kell írni az uniós bizonyítvány 52. pontja alá: „A 34. pontban említett [**] hátrameneti kormányok [**]/orrkormány-rendszerek [**]/egyéb berendezések [**]/szükséges(ek) [**] az 5. fejezetben előírt kormányozhatósági követelmények teljesítéséhez. |
+
+| 5. | Adatok feljegyzése és jelentések A méréseket, jelentéseket és az adatok feljegyzését a jelen utasítás II. mellékletében rögzített eljárás szerint kell végrehajtani. |
+
+I. melléklet
+
+az 1. utasításhoz
+
+A kitérési manőver diagramja
+
+t0 = A kitérési manőver kezdete
+
+t1 = Az r1 fordulási sebesség eléréséhez szükséges idő
+
+t2 = Az r2 = 0 fordulási sebesség eléréséhez szükséges idő
+
+t3 = Az r3 fordulási sebesség eléréséhez szükséges idő
+
+t4 = Az r4 = 0 fordulási sebesség eléréséhez szükséges idő (a kitérési manőver vége)
+
+δ = Kormány-állásszög [°]
+
+r = Fordulási sebesség [°/perc]
+
+II. melléklet
+
+az 1. utasításhoz
+
+A kitérési manőverről és a fordulási tulajdonságról készített jelentés
+
+A KITÉRÉSI MANŐVERRŐL ÉS A FORDULÁSI TULAJDONSÁGRÓL KÉSZÍTETT JELENTÉS
+
+Hatósági szerv:
+
+Dátum:
+
+Megnevezés:
+
+A hajó neve:
+
+Tulajdonos:
+
+| A hajó típusa: | Vizsgálati terület: |
+
+| vagy kötelék: | Aktuális vízszint [m]: |
+
+| L × B [m × m]: | h vízmélység [m]: |
+
+| Ttest [m]: | h/T: ... |
+
+Az áramlás sebessége [m/s]:
+
+Terhelés: a maximum ...%-a: ...
+
+(a vizsgálat során) [t]: ... hordképesség: ...
+
+Fordulásisebesség-kijelző
+
+Típus: ......
+
+Kormánykonstrukció típusa: normál konstrukció/különleges konstrukció[^1.]
+
+Aktív kormánymű: igen/nem[^2.]
+
+A kitérési manőverek eredményei:
+
+| Idő a kitérési művelethez szükséges t1–t4 idő | δ vagy δa3 kormányállásszög, amelynél a kitérési manőver megkezdődik és az r1 = r3 teljesítendő fordulási sebesség | Megjegyzések |
+
+|  | δ = 20° jobb4 | δ = 20° bal5 | δ = 45° jobb6 | δ = 45° bal7 |  |
+
+|  | δa = ... jobb8 | δa = ... bal9 | δa = ... jobb10 | δa = ... bal11 |  |
+
+|  | r1 = r3 = ... °/perc |  | r1 = r3 = ... °/min |  |  |
+
+| t1[s] |  |  |  |  |  |  |  |
+
+| t2[s] |  |  |  |  |  |  |  |
+
+| t3[s] |  |  |  |  |  |  |  |
+
+| t4[s] |  |  |  |  |  |  |  |
+
+| t4 határérték a 2.2. pont szerint | t4 határérték = ... [s] |  |  |
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Fordulási tulajdonság[^12.]
+
+A hajó helyzete a víziúton a fordulási manőver megkezdésekor ... km
+
+A hajó helyzete a víziúton a fordulási manőver befejezésekor ... km
+
+Kormányszerkezet
+
+Működtetés típusa: kézi/gépi[^13.]
+
+Kormány-állásszög a kormánykerék egyes elfordításainál[^14:] ... °
+
+A kormánylapát szögsebessége a teljes tartományban[^15:] ... °/s
+
+A kormánylapát szögsebessége a 35° balra és 35° jobbra tartományban[^16:] ... °/s
+
+2. UTASÍTÁS
+
+Az előírt legkisebb előremeneti sebességre, a megállási és a hátrameneti próbára vonatkozó követelmények
+
+(E rendelet 2. mellékletének 5.06., 5.07. és 5.08. cikke, összefüggésben 5.02. cikkének 1. pontjával, 5.03. cikkének 1. pontjával, 5.04. cikkével és 16.06. cikkével)
+
+| 1. | Előírt legkisebb előremeneti sebesség az 5.06. cikk szerint |
+
+|  | Hajó vízhez viszonyított sebessége akkor kielégítő az 5.06. cikk 1. pontja szerint, ha legalább a 13 km/h sebességet eléri. A vizsgálatok során – a megállási vizsgálattal megegyező módon – a következő feltételeket kell teljesíteni: a) a gerinc és mederfenék közötti, a 2.1. pontban meghatározott távolságot; b) a vizsgálati adatokat meg kell mérni, fel kell jegyezni és ki kell értékelni. |
+
+| 2. | Előírt megállási képesség és hátrameneti képesség az 5.07. cikk és az 5.08. cikk szerint |
+
+| 2.1. | A hajók és kötelékek az 5.07. cikk 1. pontja értelmében akkor tekintendők alkalmasnak, hogy időben megálljanak a folyásiránnyal szemben, ha ezt a parthoz viszonyított megállási vizsgálat során bizonyítják, folyásiránnyal szemben, a vízhez viszonyított 13 km/h kezdeti sebességgel, a gerinc és a mederfenék között legalább a merülés 20%-ának megfelelő, de 0,5 méternél nem kisebb távolság megtartásával. a) Folyóvízben, amelynek áramlási sebessége 1,5 m/s, a vízhez viszonyított megállási képességet a parton mért alábbi távolságon belül kell vizsgálni: 550 m olyan hajók vagy kötelékek esetében, amelyeknek: – hossza L > 110 m és – szélessége B > 11,45 m, vagy 480 m olyan hajók vagy kötelékek esetében, amelyeknek: – hossza L ≤ 110 m és – szélessége B ≤ 11,45 m. A megállási manőver akkor fejeződik be, ha a hajó a parthoz viszonyítva megáll. b) Álló vízben (a vízáramlás sebessége 0,2 m/s-nál kisebb), a vízhez viszonyított megállási képességet a parton mért alábbi távolságon kell vizsgálni: 350 m olyan hajók vagy kötelékek esetében, amelyeknek: – hossza L > 110 m vagy – szélessége B > 11,45 m, vagy 305 m olyan hajók vagy kötelékek esetében, amelyeknek: – hossza L ≤ 110 m és – szélessége B ≤ 11,45 m. Vizsgálni szükséges azt is, hogy a hajó képes-e elérni állóvízben legalább 6,5 km/h hátrameneti sebességet. Az a) vagy b) pontban meghatározott vizsgálati adatokat a jelen utasítás I. mellékletében szereplő eljárásnak megfelelően kell mérni, jegyzőkönyvezni és feljegyezni. A hajónak, illetve a köteléknek a vizsgálat teljes időtartama alatt megfelelő kormányozhatósági képességekkel kell rendelkeznie. |
+
+| 2.2. | Az 5.04. cikknek megfelelően a vizsgálat során a hajókat lehetőleg a hordképességük 70–100%-áig kell megterhelni. Ezeket a terhelési viszonyokat a jelen utasítás II. mellékletének előírásai szerint kell kiértékelni. Ha hajó, vagy kötelék terhelése a vizsgálat során nem éri el a 70%-os szintet, a völgymenő irányú hajózás során engedélyezett legnagyobb merülést a tényleges terhelésnek megfelelően kell megállapítani, feltéve, hogy a 2.1. pontban szereplő határértékek teljesülnek. |
+
+| 2.3. | Ha a kezdeti sebességnek és a folyóvíz áramlási sebességének aktuális értéke a vizsgálat ideje alatt nem felel meg a 2.1. pontban előírt feltételeknek, akkor a kapott eredményeket a jelen utasítás II. mellékletében leírt eljárás szerint kell kiértékelni. A 13 km/h előírt legkisebb sebességtől való engedélyezett eltérés nem lehet több +1 km/h-nál, és az áramlási sebességnek áramló vízben 1,3 és 2,2 m/s között kell lennie, ellenkező esetben a vizsgálatokat meg kell ismételni. |
+
+| 2.4. | Völgymenő irányban haladó hajó és kötelék esetében engedélyezett legnagyobb merülést, vagy az ahhoz tartozó legnagyobb terhelést, vagy a hajótest legnagyobb merüléséhez tartozó merülési vonal alatti haránt irányú keresztmetszetet a vizsgálatok alapján kell megállapítani, és ezeket az értékeket be kell jegyezni az uniós bizonyítványba. |
+
+1. függelék a 2. utasításhoz
+
+A megállási próbák során a mérések végrehajtása, a mérés eredményeinek jegyzőkönyvezése és feljegyzése
+
+1. Megállási manőver
+
+Hajót és köteléket az 5.01 cikkben meghatározott feltétel szerint folyóvízben vagy álló vízben kijelölt víziút-szakaszon próbának kell alávetni annak bizonyítására, hogy a hajó vagy kötelék folyásiránnyal szemben történő haladáskor, horgonyvetés nélkül, kizárólag a hajtó rendszere használatával megállíthatók. A megállási manővert az 1. ábra szerint kell végrehajtani. A próba akkor kezdhető, amikor a hajó a vízhez viszonyított sebessége a lehető legpontosabban a 13 km/h körüli értéken stabilizálódik, s ekkor az egyenletes sebességgel haladó hajó főgépét „előremeneti” irányból „hátramenetbe” kell vezérelni (A pont: az „állj” parancs kiadása). A próba akkor fejeződik be, amikor a hajó a parthoz viszonyítottan álló helyzetbe kerül (E pont: v = 0 a parthoz viszonyítva, vagy D pont: = E pont: v = 0 a vízhez viszonyítva és a parthoz viszonyítva, amennyiben a megállási manővert álló vízben hajtják végre).
+
+Ha a megállási próbát folyóvízben hajtják végre, akkor a vízhez viszonyított megállás helyzetét és időpontját is fel kell jegyezni (a hajó az áramlás sebességével mozog; D pont: v = 0 a vízhez viszonyítva).
+
+A mért adatokat az 1. táblázatban szereplő ábra szerinti jelentésbe kell foglalni. A megállási manőver végrehajtása előtt a nem változó adatokat be kell írni az űrlap megfelelő rovataiba.
+
+A víz átlagos áramlási sebességét a hajóútban (vSTR) lehetőség szerint a hajó sebességmérő készüléke által mért érték leolvasásával, vagy ennek hiányában vízen lebegő tárgyhoz viszonyított sebesség mérésével kell megállapítani, és ezt az értéket be kell jegyezni a jelentésbe.
+
+Az áramlásmérő készülék elvileg használható a hajó vízhez viszonyított sebességének a megállási manőver során történő megállapítására, így a fenti eljárásban ismertetett módon fel lehet jegyezni sebességváltozást tükröző adatokat.
+
+2. A mért adatok feljegyzése és felvétele a jelentésbe (1. táblázat)
+
+A megállási próbánál a vízhez viszonyított kezdeti sebességet kell elsőként megállapítani. Ez megtehető a parton elhelyezett két jelölőtábla közötti út megtételéhez szükséges idő lemérésével. Folyóvízben végrehajtott próba esetén figyelemmel kell lenni az átlagos áramlási sebességre.
+
+A megállási próba az „állj” paranccsal veszi kezdetét, amelynek a parton elhelyezett jelölőtábla melletti elhaladásakor kell elhangzania. A parton elhelyezett jelölőtábla melletti elhaladást a jelölőtáblának a hajó hosszanti tengelyére merőleges vonalban lévő helyzetében kell megtörténtnek venni, és ennek időpontját kell feljegyezni. Hasonló módon kell megállapítani a parton elhelyezett további jelölőtáblák melletti elhaladást a megállási próba során, és a jelentésben fel kell tüntetni az egyes jelölőtáblák elérésének időpontját.
+
+Ha lehetséges, a mért értékeket 50 méteres intervallumonként kell feljegyezni. Minden egyes esetben meg kell rögzíteni kell azt az időpontot, amikor a hajó eléri a B és a C pontot, valamint – ha lehetséges – a D és az E pontot, és e pontokban meg kell becsülni a hajó, illetőleg a kötelék helyzetét. A motor fordulatszámával kapcsolatos adatokat nem kell feltüntetni a jelentésben, de a legkisebb előremeneti sebesség pontosabb betartása érdekében folyamatosan figyelemmel kell lennünk a motor üzemállapotára is.
+
+3. A megállási manőver leírása
+
+Az 1. ábra szerinti megállási próba az 1. ábra szerinti formájában szemléltethető. Elsőként a vizsgálati jelentésbe beírt mérési eredmények felhasználásával út-idő görbét kell megszerkeszteni, és fel kell tüntetni az A–E pontokat. Ezt követően kerülhet sor a két mérési pont közötti átlagos sebesség meghatározására, valamint a sebesség-idő görbe megszerkesztésére.
+
+Ezt a következőképpen kell megtenni (lásd az 1. ábrát):
+
+A megtett út és az eltelt idő hányadosaként (Δs/Δt) kiszámítható a hajó átlagos sebessége a próba időtartamára.
+
+Például:
+
+A 0. másodperc és a 10. másodperc közötti időintervallumban a hajó megteszi a 0. és az 50. méter közötti távolságot.
+
+Δs/Δt = 50 m/10 s = 5,0 m/s = 18,0 km/h
+
+Ezt az értéket kell beírni átlagos sebességként az 5 s abszcissza-pozíciónál. A második intervallum során – vagyis a 10. másodperctől a 20. másodpercig – a hajó 45 métert tesz meg.
+
+Δs/Δt = 45 m/10 s = 4,5 m/s = 16,2 km/h
+
+A D jelölőtáblánál a hajó vízhez viszonyított sebessége a 0 km/h érték körüli lesz, vagyis az áramlási sebesség körülbelül 5 km/h.
+
+1. ábra:
+
+Megállási próba
+
+| Az 1. ábra jelölései: |
+
+|  | A | „állj” parancs |
+
+|  | B | főgép/hajócsavar áll |
+
+|  | C | főgép/hajócsavar hátramenetben |
+
+|  | D v = 0 | a vízhez viszonyított sebesség |
+
+|  | E v = 0 | a parthoz viszonyított sebesség |
+
+|  | v | a hajó sebessége |
+
+|  | vL v | a parthoz viszonyított |
+
+|  | s | a parthoz viszonyítottan megtett út |
+
+|  | t | mért idő |
+
+1.táblázat
+
+A megállási próbáról készített jelentés
+
+2. függelék a 2. utasításhoz
+
+A megállási manőver eredményeinek értékelése
+
+1. A feljegyzett értékek alapján ellenőrizni kell a jelen utasítás I. melléklete szerinti határértékek teljesülését. Ha a megállási manőver feltételei lényegesen eltérnek a normál körülményektől, vagy ha kételyek merülnek fel a határértékek teljesítése kapcsán, akkor az eredményeket ki kell értékelni. Ebből a célból a következő eljárás alkalmazható a megállási manőverek kiszámítására.
+
+2. Az elméleti megállási távolságokat a 2. utasítás 2.1. pontjában szereplő normál körülmények (Sreference) figyelembevételével kell megállapítani, és a megállási manőver körülményeit (Sactual) össze kell hasonlítani a mért megállási távolsággal (Smeasured). A normál körülmények között (Sstandard) végrehajtott megállási manőver korrigált megállási távolságát a következőképpen kell kiszámítani:
+
+2.1. képlet:
+
+SSTANDARD = SMEASURED•(SREFERENCE/SACTUAL) ≤ A 2. utasítás 2.1.a) vagy 2.1.b) pontja szerinti határérték
+
+Ha a 2. utasítás 2.2. pontjával összhangban a megállási manővert a maximális hordképesség 70–100 %-a közötti terhelés mellett hajtják végre, az sstandard kiszámítása céljából a vizsgálat alatti terhelésnek megfelelő vízkiszorítás (Dreference = Dactual) felhasználásával kell meghatározni az sreference és sactual értékét.
+
+Ha a 2.1. képlettel meghatározott sstandard túllépi, illetőleg nem éri el a vonatkozó határértéket, az sreference értékét a határérték eléréséig (sstandard = a vonatkozó határérték) kell csökkenteni, illetve növelni a Dreference módosításával. Ennek megfelelően kell meghatározni a folyásirányú hajózás során megengedett maximális vízkiszorítást.
+
+3. A 2. utasítás 2.1.a) és 2.1.b) pontjában megadott határértékek szerint csak a következőkben mért megállási távolságokat kell kiszámítani:
+
+- I. szakasz ("Teljes erővel előre" átállítva "teljes erővel hátra" helyzetbe): SI, és
+
+- II. szakasz (A hátramenet vége, amíg a hajó a vízhez viszonyítva megáll) SII
+
+(lásd az 1. ábrát).
+
+A teljes megállási távolság ekkor:
+
+3.1. képlet:
+
+Stotal=SI + SII
+
+4. A konkrét megállási távolságokat az alábbiak szerint kell kiszámítani:
+
+A MEGÁLLÁSI MANŐVER KISZÁMÍTÁSA
+
+Megállási próba számításai
+
+2. ábra:
+
+|  | Számítási képletek: | a következő együtthatókkal |
+
+| 4.1. | SI = k1 · vL · t1 | tI ≤20 s | – k1 az 1. táblázat szerint |
+
+| 4.2. | SII = k2 · vII2 · (D · g)/(k3 · FPOR + RTmII – RG) · (k4 + (VSTR/VII)) | – k2, k3, k4 az 1. táblázat szerint |
+
+| 4.3. | RTmII = (RT/v2) · (k7 · k6 · (vL – vSTR))2 | – k6, k7 az 1. táblázat szerint – RT/v2 a 3. táblázat szerint |
+
+| 4.4. | RG = i · D · ρ · g · 10–6 |  |
+
+| 4.5. | VII = k6 · (VL – VSTR) | – k6 az 1. táblázat szerint |
+
+| 4.6. | FPOR = f · PB | – f a 2. táblázat szerint |
+
+| 4.7. | tII = (SII/(vII · (k4 + (vSTR/vII)))) | – k4 az 1. táblázat szerint |
+
+A 4.1–4.7. képletben:
+
+| vL | A parthoz viszonyított sebesség a hátramenet megkezdésekor | (m/s) |
+
+| tI | A hátramenet időtartama | (s) |
+
+| vII | A vízhez viszonyított sebesség a hátramenet befejezésekor | (m/s) |
+
+| D | Vízkiszorítás | (m3) |
+
+| FPOR | Kikötőbakra gyakorolt húzóerő hátramenetben | (kN) |
+
+| PB | Főgépteljesítmény | (kW) |
+
+| RTmII | Átlagos ellenállás a II. fázisban – az ábra segítségével kell meghatározni az RT/v2 meghatározásához | (kN) |
+
+| RG | Lejtési ellenállás | (kN) |
+
+| i | Lejtés m/km-ben (ha nincs feltüntetve, 0,16 értékkel kell számolni) | (m/km) |
+
+| vSTR | Átlagos áramlási sebesség | (m/s) |
+
+| g | Gravitációs gyorsulás (9,81) | (m/s2) |
+
+| ρ | A víz sűrűsége, ρédesvíz = 1000 | (kg/m3) |
+
+| T | Maximális merülési mélység (a hajóé, illetve a köteléké) | (m) |
+
+| h | Vízmélység | (m) |
+
+| B | Szélesség | (m) |
+
+| L | Hosszúság | (m) |
+
+A 4.1., 4.2., 4.3., 4.4., 4.5., 4.6. és 4.7. képletben szereplő együtthatók az alábbi táblázatokból olvashatók ki.
+
+1. táblázat:
+
+„k” tényezők az alábbiakhoz:
+
+a) motorhajók és egy sorban csatolt kötelék;
+
+b) kétsorosan csatolt kötelék;
+
+c) háromsorosan csatolt kötelék.
+
+|  | a) | b) | c) | Mértékegység |
+
+| k1 | 0,95 | 0,95 | 0,95 | — |
+
+| k2 | 0,115 | 0,120 | 0,125 | (kg · s2)/m4 |
+
+| k3 | 1,20 | 1,15 | 1,10 | — |
+
+| k4 | 0,48 | 0,48 | 0,48 | — |
+
+| k6 | 0,90 | 0,85 | 0,80 | — |
+
+| k7 | 0,58 | 0,55 | 0,52 | — |
+
+2. táblázat:
+
+Az "f" együttható a kikötőbakra gyakorolt hátrameneti húzóerő és a főgépteljesítmény
+
+közötti arányhoz
+
+| Propulziós rendszer | f | Mértékegység |
+
+| Lekerekített kilépő peremű Kort-gyűrű | 0,118 | kN/kW |
+
+| Éles hátsó peremű régi típusú Kort-gyűrű | 0,112 | kN/kW |
+
+| Gyűrű nélküli hajócsavar | 0,096 | kN/kW |
+
+| Gyűrűvel szerelt kormánypropeller (általában éles kilépő peremű gyűrűvel) | 0,157 | kN/kW |
+
+| Gyűrű nélküli kormánypropeller | 0,113 | kN/kW |
+
+3. táblázat:
+
+Az ellenállás kiszámítására vonatkozó ábra
+
+Az RT/v2 értékének meghatározása a D1/3 [B + 2T] viszonylatában:
+
+Melléklet
+
+a 2. utasítás 2. függelékének melléklete
+
+Példák a 2. függelék alkalmazására (A megállási manőver eredményeinek
+
+kiértékelése)
+
+I. PÉLDA
+
+1. A hajók és a kötelék adatai
+
+Alakzat: önjáró áruszállító-motorhajó egy (Europa IIa) bárkával az oldalához csatolva
+
+|  | L [m] | B [m] | T max [m] | Dwt17max [t] | D max [m3] | PB [kW] |
+
+| Motorhajó | 110 | 11,4 | 3,5 | 2900 | 3731 | 1500 |
+
+| Bárka | 76,5 | 11,4 | 3,7 | 2600 | 2743 | — |
+
+| Kötelék | 110 | 22,8 | 3,7 | 5500 | 6474 | 1500 |
+
+17 Dwt = hordképesség.
+
+A motorhajó propulziós rendszere: lekerekített hátsó élű modern fúvókák.
+
+2. A megállási manőver során mért értékek
+
+| Áramlási sebesség: | vSTRactual | = | 1,4 m/s | ≈ | 5,1 km/h |
+
+| A hajó sebessége (a vízhez viszonyítva): | VSactual | = | 3,5 m/s | ≈ | 12,5 km/h |
+
+| A hajó sebessége: (a partoz viszonyítva): | VLactual | = | 4,9 m/s | ≈ | 17,6 km/h |
+
+| Irányváltás (mért) időtartama (az A ponttól a C pontig): | tI | = | 16 s |  |  |
+
+| Megállási távolság a vízhez viszonyítva (A és D pont között): | SMEASURED | = | 340 m |  |  |
+
+| Terhelési viszonyok (becslés is lehet): | Dactual | = | 5179 m3 | ≈ | 0,8 Dmax |
+
+| A kötelék tényleges merülése: | Tactual | = | 2,96 m | ≈ | 0,8 Tmax |
+
+3. A 2.1.a) vagy a 2.1.b) pont szerinti határértéket össze kell hasonlítani az Sstandard értékkel
+
+Mivel B > 11,45 m és mivel a kötelék áramló vízben halad, a következők vonatkoznak erre a kötelékre a 2.1.a) pont alapján:
+
+Sstandard < 550 m
+
+4. A korrigált megállási távolság megállapítása a normál körülményekkel összehasonlítva
+
+– a 2. utasítás 1. függeléke szerint mért érték (lásd a 2. pontot)
+
+smeasured = 340 m
+
+– kiszámítandó:
+
+sactual a következők összegeként
+
+| sIactual |  | (a 2. utasítás 2. függelékében foglalt 4.1. képlete szerint vLactual használatával) |
+
+és
+
+| sIIactual |  | (a 2. függelék 4.2., 4.3., 4.4., 4.5. és 4.6. képlete szerint, vIIactual, vSTRactual, Dactual tényleges sebességek használatával) |
+
+sreference a következők összegeként
+
+| sIreference |  | (a 2. függelék 4.1. képlete szerint vLreference használatával) |
+
+és
+
+| sIIreference |  | (a 2. függelék 4.2–4.6. képlete szerint, ennek az utasításnak a 2.1. pontja szerinti referenciasebességgel, és tekintettel arra, hogy a terhelési viszonyok meghaladják a maximális terhelés 70 %-át (≈ 80 %): Dreference = Dactual és Treference = Tactual) |
+
+– ellenőrizendő:
+
+Sstandard = Smeasured · (Sreference/Sactual) ≤ 550 m
+
+4.1. A 2. függelékből vett együtthatók a számításhoz
+
+1. táblázat
+
+[^71]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a, a 36/2019. (IX. 20.) ITM rendelet 11. §-a, 12. § a)–d) pontja, a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdése, a 45/2019. (XII. 20.) ITM rendelet 2. §-a, a 13/2020. (V. 8.) ITM rendelet 2. §-a, a 34/2020. (X. 7.) ITM rendelet 2. § (2) bekezdése, a 46/2020. (XI. 30.) ITM rendelet 2. § 4–8. pontja, 3. §-a, a 8/2022. (III. 11.) ITM rendelet 2. § d)–f) pontja és 3. § b)–f) szerint módosított szöveg. [A 2. mellékletnek a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdésével elrendelt módosítása, amely szerint a 7. melléklet I. rész 1. és 13 pontjában és 9. melléklet III. rész 8. cikkében a „közösségi” szövegrész helyébe „uniós” szöveg lép, nem vezethető át.]
+[^1.]: A nem kívánt rész törlendő.
+[^2.]: A nem kívánt rész törlendő.
+[^12.]: A nem kívánt rész törlendő.
+[^13.]: A nem kívánt rész törlendő
+[^14:]: A nem kívánt rész törlendő.
+[^15:]: A nem kívánt rész törlendő.
+[^16:]: A nem kívánt rész törlendő.
