@@ -1,7 +1,5 @@
 ## 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 102/2022. (III. 10.) Korm. rendelethez
+1. melléklet a 102/2022. (III. 10.) Korm. rendelethez[^5]
 
-Az R2. 1. melléklete a következő 24. ponttal egészül ki:
-
-„24. Edinburgh-i Főkonzulátus”
+[^5]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
