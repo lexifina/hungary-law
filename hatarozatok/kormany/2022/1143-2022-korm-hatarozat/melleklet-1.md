@@ -14,28 +14,14 @@
 
 ## Határidő: azonnal
 
-## 2. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat [a továbbiakban: 1084/2016. (II. 29.) Korm. határozat]
+## 2.[^1]
 
-## a) 1. pont i) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „i) egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 1–6. prioritásainak terhére kötelezettségvállalás a prioritásoknak a Kormány által meghatározott indikatív támogatási keretösszegéig vagy ha a Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 44/C. § (4) bekezdése szerint a prioritásra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig tehető,”
-
-## b) 1. pontja a következő k) alponttal egészül ki:
-
-## (A Kormány)
-
-## „k) jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 6. prioritása 91 milliárd forint összegű meghirdethető keretét.”
-
-## 3. Az 1084/2016. (II. 29.) Korm. határozat
-
-## a) 1. melléklete az 1. melléklet,
-
-## b) 2. melléklete a 2. melléklet
-
-## szerint módosul.
+## 3.[^2]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1143/2022. (III. 10.) Korm. határozathoz
+1. melléklet az 1143/2022. (III. 10.) Korm. határozathoz[^3]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
