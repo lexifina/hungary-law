@@ -22,6 +22,8 @@ f) az e) pont szerinti koordináló csoportban hozott adminisztratív döntések
 
 (4) A megfelelőségértékelő szervezetnek teljesítenie kell az MSZ EN ISO/IEC 17065:2013 szabvány követelményeit.
 
-(5) A megfelelőségértékelő szervezetnek biztosítania kell, hogy a megfelelőségértékelések céljára használt vizsgálati laboratóriumok megfeleljenek az MSZ EN ISO/IEC 17025:2005 szabvány követelményeinek.
+(5)[^6] A megfelelőségértékelő szervezetnek biztosítania kell, hogy a megfelelőségértékelések céljára használt vizsgálati laboratóriumok megfeleljenek az MSZ EN ISO/IEC 17025/2018 szabvány követelményeinek.
 
 (6) Ha a megfelelőségértékelő szervezet alvállalkozót vesz igénybe, akkor elérhetővé kell tennie a hajózási hatóság számára az alvállalkozóra, az alvállalkozó szakmai felkészültségére és az általa elvégzett munkára vonatkozó dokumentumokat.
+
+[^6]: A 14. § (5) bekezdése a 8/2022. (III. 11.) ITM rendelet 6. § b) pontja szerint módosított szöveg.
