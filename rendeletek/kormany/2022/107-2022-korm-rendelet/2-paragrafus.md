@@ -1,0 +1,1 @@
+## 1. § A harmadik országbeli állampolgárok részére kiállított, magyarországi beutazás céljából elismert okmányok meghatározásáról szóló 328/2007. (XII. 11.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
