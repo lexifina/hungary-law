@@ -1,3 +1,3 @@
-11. §[^1]
+11. §[^2]
 
-[^1]: A 11. § a 10. § (2) bekezdése alapján 2022. március 25-én lép hatályba.
+[^2]: A 11. § a 10. § (2) bekezdése alapján 2022. március 25-én lép hatályba.
