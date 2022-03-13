@@ -120,7 +120,7 @@
 
 ## 10. § E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 83/2022. (III. 5.) Korm. rendelethez
+1. melléklet a 83/2022. (III. 5.) Korm. rendelethez[^2]
 
 Takarmányozási vagy élelmezésügyi ellátásbiztonság szempontjából stratégiai jelentőségű alapanyagok vagy termékek köre
 
@@ -128,18 +128,23 @@ Takarmányozási vagy élelmezésügyi ellátásbiztonság szempontjából strat
 
 | 1. | Vámtarifaszám | Termék megnevezése |
 
-| 2. | 1001 | búza és kétszeres |
+| 2. | 10019900 | Búza és kétszeres (kivéve a vetőmag és a durumbúza) |
 
-| 3. | 1002 | rozs |
+| 3. | 10011900 | Keménybúza (durumbúza) kivéve vetőmag |
 
-| 4. | 1003 | árpa |
+| 4. | 10029000 | Rozs, kivéve vetőmag |
 
-| 5. | 1004 | zab |
+| 5. | 10039000 | Árpa, kivéve vetőmag |
 
-| 6. | 1005 | kukorica |
+| 6. | 10049000 | Zab, kivéve vetőmag |
 
-| 7. | 1201 | szójabab, törve is |
+| 7. | 10059000 | Kukorica (kivéve vetőmag) |
 
-| 8. | 1206 00 | napraforgómag, törve is |
+| 8. | 12019000 | Szójabab, törve is, nem vetési célra |
+
+| 9. | 12060091 | Szürke és fehér csíkos héjú napraforgómag és héj nélküli napraforgómag, nem vetési célra |
+
+| 10. | 12060099 | Más napraforgómag, nem vetési célra (kiv. a héj nélküli és a szürke és fehér csíkos héjú napraforgómagot) |
 
 [^1]: A 9. § a 8. § (2) bekezdése alapján 2022. március 20-án lép hatályba.
+[^2]: Az 1. melléklet a 108/2022. (III. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
