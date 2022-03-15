@@ -1,0 +1,1 @@
+## 6. § A miniszter 2022. március 15-ig módszertani iránymutatást tesz közzé az EKR honlapján, amelyben bemutatja az egyajánlatos közbeszerzések elkerülését segítő legjobb módszereket, illetve gyakorlatokat. Az iránymutatás tervezetét a miniszter a Közbeszerzési Hatóság és a Gazdasági Versenyhivatal részére véleményezés céljából megküldi.
