@@ -42,6 +42,4 @@ Határidő: 2029. március 15.
 
 7. A 8. pont 2022. március 15-én lép hatályba.
 
-8.[^1]
-
-[^1]: A 8. pont a 7. pont alapján 2022. március 15-én lép hatályba.
+8. Hatályát veszti a Magyarország Nemzeti Integrált Határigazgatási Stratégiájáról szóló 1471/2019. (VIII. 1.) Korm. határozat.
