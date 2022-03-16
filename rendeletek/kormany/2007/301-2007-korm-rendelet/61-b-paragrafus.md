@@ -1,4 +1,4 @@
-61/B. §[^156] (1) Különösen indokolt esetben költségmentességet vagy részleges költségmentességet lehet engedélyezni, ha a menedékjogot élvező személy
+61/B. §[^157] (1) Különösen indokolt esetben költségmentességet vagy részleges költségmentességet lehet engedélyezni, ha a menedékjogot élvező személy
 
 a) és a vele közös háztartásban élő közeli hozzátartozók egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el az öregségi nyugdíj mindenkori legkisebb összegének 150%-át, és
 
@@ -10,4 +10,4 @@ c) ha a menedékjogot élvező személy különös méltánylást érdemlő kör
 
 (3) Az ingatlantulajdonra, a tulajdoni részesedésre és az ingatlan becsült forgalmi értékére vonatkozóan – elsősorban – a menedékjogot élvező személy nyilatkozata az irányadó.
 
-[^156]: A 61/B. §-t a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés f) pontja hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 46. §-a iktatta be.
+[^157]: A 61/B. §-t a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés f) pontja hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 46. §-a iktatta be.

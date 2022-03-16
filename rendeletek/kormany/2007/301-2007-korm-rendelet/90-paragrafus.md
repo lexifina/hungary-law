@@ -1,3 +1,3 @@
-## 89. §[^213]
+## 89. §[^214]
 
-[^213]: A 89. §-t a 204/2015. (VII. 23.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^214]: A 89. §-t a 204/2015. (VII. 23.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.

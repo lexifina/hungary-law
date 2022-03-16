@@ -1,3 +1,3 @@
-## 98. §[^219]
+## 98. §[^220]
 
-[^219]: A 98. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^220]: A 98. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
