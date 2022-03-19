@@ -12,7 +12,7 @@ d) a hivatásos állomány 40. életévet betöltött tagja vonatkozásában –
 
 e) a hivatásos állomány 40. életévet betöltött tagja vonatkozásában – emlékeztető oltásként – tetanus
 
-## megbetegedések megelőzése érdekében.
+megbetegedések megelőzése érdekében.
 
 (3) A kötelező védőoltás költségvetési fedezetét az Országgyűlési Őrség biztosítja.
 
@@ -21,3 +21,5 @@ e) a hivatásos állomány 40. életévet betöltött tagja vonatkozásában –
 a) a hivatásos állomány mely szolgálati beosztást betöltő vagy szolgálati feladatot ellátó tagjainak,
 
 b) mely földrajzi területen
+
+javasolja a kötelező védőoltás elrendelését.

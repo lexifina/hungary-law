@@ -1,12 +1,10 @@
-## kell rögzíteni.
-
-108/B. §[^238] (1) A névjegyzékre vételre a hivatásos állomány tagjának
+108/B. §[^230] (1) A névjegyzékre vételre a hivatásos állomány tagjának
 
 a) önkéntes jelentkezése, vagy
 
 b) – a hivatásos állomány tagjának beleegyezése esetén – az igazgató általi jelölése
 
-## alapján kerülhet sor.
+alapján kerülhet sor.
 
 (2) A hivatásos állomány más szervnél szolgálatot teljesítő tagja annak a szervnek a névjegyzékére történő felvételre jelentkezhet vagy jelölhető, ahonnan őt szolgálatteljesítésre vezényelték vagy átrendelték.
 
@@ -20,4 +18,4 @@ a) ellen büntetőeljárás, fegyelmi eljárás vagy méltatlansági eljárás f
 
 b) büntetőeljárásban vagy szabálysértési eljárásban jogerősen kiszabott büntetés, illetve fegyelmi eljárásban kiszabott fenyítés hatálya alatt áll.
 
-[^238]: A 108/B. §-t a 67/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
+[^230]: A 108/B. §-t a 67/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.

@@ -1,5 +1,3 @@
-## 57/G. §
-
 ## 13. Szolgálati igazolványok
 
 58. § (1) Az Országgyűlési Őrség hivatásos állományának tagját az ezen alcímben meghatározottak szerint kell szolgálati igazolvánnyal ellátni.
@@ -12,7 +10,7 @@ b) hivatásos állományú tagjának fegyverviselésre való jogosultságát és
 
 c) hivatásos állományú tagjának az intézkedésre való jogosultságát
 
-## igazolja.
+igazolja.
 
 (3) Az Országgyűlési Őrségnél a hivatásos állomány tűzoltási feladatok ellátására rendszeresített beosztást betöltő tagjának a szolgálati igazolványa az Országgyűlési Őrség
 
@@ -20,7 +18,7 @@ a) hivatásos állományába tartozását és
 
 b) hivatásos állományú tagjának az intézkedésre való jogosultságát
 
-## igazolja.
+igazolja.
 
 (4) A (3) bekezdésben meghatározott beosztást betöltők kivételével az Országgyűlési Őrség rendőri vagy határrendészeti szakképzettséggel nem rendelkező hivatásos állományú tagjának szolgálati igazolványa igazolja
 

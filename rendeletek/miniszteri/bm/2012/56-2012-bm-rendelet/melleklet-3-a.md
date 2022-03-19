@@ -1,45 +1,43 @@
-3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^292]
+3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^284]
 
-## Az Országgyűlési Őrség őrszolgálati, folyamatos ügyeleti szolgálat ellátására szervezett és készenléti jellegű szolgálati beosztásai
+Az Országgyűlési Őrség őrszolgálati, folyamatos ügyeleti szolgálat ellátására szervezett és készenléti jellegű szolgálati beosztásai
 
-1.[^293] Őrszolgálati szolgálati beosztások: az Objektumvédelmi Igazgatóság Országház Biztonsági Osztály, Országgyűlés Irodaház és Bázis Őrségi Osztály, valamint Rendezvénybiztosító Osztály
+1. Őrszolgálati szolgálati beosztások
 
-a) objektumőr I.,
+Az Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály Országház Biztonsági Osztályon, valamint az Irodaház Biztonsági Osztályon betöltött következő szolgálati beosztások:
 
-b) objektumőr II.,
+1.1. objektumőr I.,
 
-c) szolgálatparancsnok,
+1.2. objektumőr II.,
 
-d) szolgálatparancsnok-helyettes
+1.3. technikus,
 
-szolgálati beosztása.
+1.4. szolgálatparancsnok,
 
-2.[^294] Folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások:
+1.5. szolgálatparancsnok-helyettes.
 
-a) az ügyeletvezető I.,
+2. Folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások
 
-b) az ügyeletvezető II.,
+Az Objektumvédelmi Igazgatóság Objektumvédelmi Készenléti Főosztály Ügyeleti és Védelmi Osztályon betöltött következő szolgálati beosztások:
 
-c) az ügyeletes
+2.1. ügyeletvezető I.,
 
-szolgálati beosztás.
+2.2. ügyeletvezető II.,
 
-3. Készenléti jellegű szolgálati beosztások:
+2.3. ügyeletes.
 
-a) az Objektumvédelmi Igazgatóság Tűzbiztonsági Osztály
+3. Készenléti jellegű szolgálati beosztások
 
-aa) beosztott tűzoltó I.,
+3.1. Az Objektumvédelmi Igazgatóság Objektumvédelmi Készenléti Főosztály Tűzbiztonsági Osztályon betöltött következő szolgálati beosztások:
 
-ab) beosztott tűzoltó II.,
+3.1.1. beosztott tűzoltó I.,
 
-ac) szolgálatparancsnok,
+3.1.2. beosztott tűzoltó II.,
 
-ad) szolgálatparancsok-helyettes
+3.1.3. szolgálatparancsnok,
 
-szolgálati beosztása,
+3.1.4. szolgálatparancsok-helyettes.
 
-b) a Személyvédelmi Igazgatóság Személybiztosító Osztály valamennyi szolgálati beosztása, az osztályvezető szolgálati beosztás kivételével.
+3.2. A Személyvédelmi Igazgatóság Személybiztosító Osztály valamennyi szolgálati beosztása, az osztályvezető szolgálati beosztás kivételével.
 
-[^292]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be.
-[^293]: A 3/A. melléklet 1. pont nyitó szövegrésze a 34/2018. (XII. 20.) BM rendelet 6. § c) pontja szerint módosított szöveg.
-[^294]: A 3/A. melléklet 2. pontja a 34/2018. (XII. 20.) BM rendelet 6. § c) pontjával megállapított szöveg.
+[^284]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be, szövege a 3/2022. (III. 11.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.

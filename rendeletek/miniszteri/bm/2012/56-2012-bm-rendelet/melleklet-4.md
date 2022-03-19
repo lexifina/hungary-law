@@ -1,6 +1,6 @@
-4. melléklet az 56/2012. (XI. 22.) BM rendelethez[^296]
+4. melléklet az 56/2012. (XI. 22.) BM rendelethez[^286]
 
-## Az Országgyűlési Őrségnél szolgálatot teljesítő hivatásos állomány szolgálati igazolványának leírása
+Az Országgyűlési Őrségnél szolgálatot teljesítő hivatásos állomány szolgálati igazolványának leírása
 
 1. Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése:
 
@@ -14,4 +14,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 |  | – az „ÉRVÉNYES:” felirat, mellette az érvényesség dátuma, – a „TAJ szám:” felirat, mellette a társadalombiztosítási azonosító jel, – a „Kiállító szerv: Országgyűlési Őrség” felirat, – a „Kiállítás dátuma” felirat, alatta a kiállítás dátuma, – az igazolvány sorszáma. |
 
-[^296]: A 4. melléklet a 47/2016. (XI. 23.) BM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^286]: A 4. melléklet a 47/2016. (XI. 23.) BM rendelet 6. § (3) bekezdése szerint módosított szöveg.

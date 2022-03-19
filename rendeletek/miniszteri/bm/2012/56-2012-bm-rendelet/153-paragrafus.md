@@ -1,5 +1,3 @@
-## 149–152. §
-
 ## 20. Záró rendelkezések
 
 153. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2013. január 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-43. §[^117] (1) A hivatásos állomány tagja szolgálati beosztásától függően az Országgyűlési Őrség jogszabályban meghatározott feladatainak folyamatos ellátása érdekében
+43. §[^109] (1) A hivatásos állomány tagja szolgálati beosztásától függően az Országgyűlési Őrség jogszabályban meghatározott feladatainak folyamatos ellátása érdekében
 
 a) hivatali,
 
@@ -10,7 +10,7 @@ d) vezényléses vagy
 
 e) kombinált
 
-## szolgálati időrendszerben teljesíti szolgálatát.
+szolgálati időrendszerben teljesíti szolgálatát.
 
 (2) Az Országgyűlési Őrség parancsnoka állományparancsban határozza meg azt, hogy a hivatásos állomány tagja milyen szolgálati időrendszerben teljesít szolgálatot.
 
@@ -18,4 +18,4 @@ e) kombinált
 
 (4) Ha a szolgálati viszony létesítésére vagy módosítására a megkezdett szolgálatteljesítési időkereten belül kerül sor, az időkeret a hivatásos állomány érintett tagja részére időarányosan kerül megállapításra.
 
-[^117]: A 43. § a 9/2018. (IV. 25.) BM rendelet 6. §-ával megállapított szöveg.
+[^109]: A 43. § a 9/2018. (IV. 25.) BM rendelet 6. §-ával megállapított szöveg.

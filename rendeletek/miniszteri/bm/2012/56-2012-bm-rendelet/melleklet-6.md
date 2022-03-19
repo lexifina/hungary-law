@@ -1,5 +1,3 @@
-## Az Országgyűlési Őrségnél rendszeresített azon szolgálati beosztások, amelyek esetében kötelező védőoltás elrendelésének van helye
-
 |  | A | B | C | D | E | F |
 
 | 1. | Szolgálati beosztás | Hepatitis-A | Hepatitis-B | Kullancs-encephalitis | Diftéria elleni védőoltás (40 év felett) | Tetanus elleni védőoltás (40 év felett) |
@@ -16,9 +14,9 @@
 
 | 7. | objektumőr |  | + |  |  |  |
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^298]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^288]
 
-## Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvényének leírása:
+Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvényének leírása:
 
 ## A szolgálati jelvény anyagát tekintve műgyanta felülettel ellátott fémlemez, amely bordó alapszínű, kör alakú. Az átmérője 55 mm, a vastagsága 1,5 mm.
 
@@ -26,7 +24,9 @@
 
 ## A kör alakú jelvény mezőben – amelyet a nemzeti színek szegélyeznek – az Országház sziluettje, az „Országgyűlési Őrség” felirat, valamint a négy számjegyű egyedi azonosító olvasható és látható arany és bordó színnel megjelenítve.
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^299]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^289]
 
-[^298]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
-[^299]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.
+A 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából az Országgyűlési Őrség alapfeladatába tartozó szolgálati beosztások
+
+[^288]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
+[^289]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.
