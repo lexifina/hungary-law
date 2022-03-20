@@ -116,7 +116,9 @@
 
 ## (2) A 9. § az e rendelet kihirdetését követő 15. napon lép hatályba.
 
-## 9. §[^1]
+## 9. § (1) A Kormány e rendelet hatályát 2022. május 15-ig meghosszabbítja.
+
+## (2) Ez a rendelet 2022. május 15-én hatályát veszti.
 
 ## 10. § E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
@@ -146,5 +148,4 @@ Takarmányozási vagy élelmezésügyi ellátásbiztonság szempontjából strat
 
 | 10. | 12060099 | Más napraforgómag, nem vetési célra (kiv. a héj nélküli és a szürke és fehér csíkos héjú napraforgómagot) |
 
-[^1]: A 9. § a 8. § (2) bekezdése alapján 2022. március 20-án lép hatályba.
 [^2]: Az 1. melléklet a 108/2022. (III. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
