@@ -1,4 +1,4 @@
-45. § (1) A megsemmisített jogszabály vagy jogszabályi rendelkezés az Alkotmánybíróság megsemmisítésről szóló határozatának a hivatalos lapban való közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható, a kihirdetett, de hatályba nem lépett jogszabály pedig nem lép hatályba.
+45. § (1) A megsemmisített jogszabály vagy jogszabályi rendelkezés az Alkotmánybíróság megsemmisítésről szóló határozatának a Magyar Közlönyben vagy az Alkotmánybíróság Határozatai hivatalos lapban – amennyiben ez utóbbi esetben történő közzétételre a Magyar Közlönyt megelőzően kerül sor – való közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható, a kihirdetett, de hatályba nem lépett jogszabály pedig nem lép hatályba.
 
 (1a) Az Alkotmánybíróság az Alaptörvény 24. cikk (6) bekezdés b) pontja szerinti esetben az Alaptörvényt vagy az Alaptörvény módosítását a kihirdetésére visszamenőleges hatállyal semmisíti meg.
 
