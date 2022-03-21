@@ -50,6 +50,8 @@
 
 23. a közétkeztetés tárgyú közbeszerzések – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.
 
+24. az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzések sajátos, szükség esetén e beszerzések sajátosságai miatt e törvénytől eltérő szabályait.
+
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
 a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét, valamint – az adópolitikáért felelős miniszter egyetértésével – a hirdetmény nélküli tárgyalásos eljárások 103. § szerinti, Közbeszerzési Hatóság által végzett törvényességi ellenőrzése díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;

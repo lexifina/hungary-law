@@ -6,7 +6,7 @@ a) tankönyv beszerzésére, amennyiben arra a nemzeti köznevelésről szóló 
 
 b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetve utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 59–85/A. §-ában szabályozott szociális szolgáltatások körében ellátottak teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 
-c) a 3. melléklet szerinti szállodai és éttermi szolgáltatásokra, a 79995000-5-től 79995200-7-ig tartó CPV kódok által meghatározott könyvtárkezelési szolgáltatásokra, a 92000000-1-től 92700000-8-ig tartó CPV kódok által meghatározott, a pihenés, kultúra és sport területén nyújtott szolgáltatásokra, valamint a jogi szolgáltatásokra;
+c) a 3. melléklet szerinti egészségügyi szolgáltatásra akkor, ha az ellátási kötelezettség körébe tartozó, részben vagy egészben közfinanszírozott közszolgáltatás teljesítését szolgálja, a 3. melléklet szerinti szállodai és éttermi szolgáltatásokra, a 79995000-5-től 79995200-7-ig tartó CPV kódok által meghatározott könyvtárkezelési szolgáltatásokra, a 92000000-1-től 92700000-8-ig tartó CPV kódok által meghatározott, a pihenés, kultúra és sport területén nyújtott szolgáltatásokra, valamint a jogi szolgáltatásokra;
 
 d) a 3. melléklet szerinti bármely szolgáltatásra, ha annak becsült értéke a tizennyolcmillió forintot nem éri el;
 
@@ -45,6 +45,8 @@ t) a védett munkahelyen, megváltozott munkaképességű személyek által elő
 u) mezőgazdasági termelő, kutató tevékenység során felhasználásra kerülő 24400000-8-tól 24457000-2-ig tartó CPV kódok által meghatározott termésnövelő anyagok és engedélyezett növényvédő szerek beszerzésére;
 
 v) kutatás-fejlesztési vagy innovációs tevékenység végzéséhez közvetlenül kapcsolódó, speciálisan az ilyen tevékenység megvalósítását szolgáló áruk és szolgáltatások beszerzésére;
+
+w) az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzésekre vonatkozó sajátos szabályokról szóló kormányrendelet szerint megvalósított árubeszerzésre, szolgáltatás megrendelésre és háromszázmillió forint becsült értéket el nem érő építési beruházásra;
 
 x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (1)–(2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása vagy a 6. § (1)–(2) bekezdésében meghatározott tevékenységet végző más jogi személy jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti;
 
