@@ -97,3 +97,23 @@ Budapest
 |
 
 kivett beépítetlen terület
+
+|
+
+4
+
+|
+
+Budapest
+
+|
+
+7488
+
+|
+
+1/1
+
+|
+
+kivett épület
