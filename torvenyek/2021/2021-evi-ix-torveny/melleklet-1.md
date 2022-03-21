@@ -917,3 +917,21 @@ Mathias Corvinus Collegium Alapítvány
 6. a tudomány és kultúra széleskörű – különösen a nemzeti értékeket és érdekeket, illetve társadalmi kérdéseket közvetítő magyarországi és külföldi könyv- és lapkiadás, terjesztés, valamint rendezvények szervezése útján megvalósuló – népszerűsítése és támogatása, valamint kritikai és közéleti tevékenység folytatása és támogatása;
 
 az alapítvány céljait saját működése, valamint azokkal összhangban álló tevékenységet folytató harmadik személyek – különösen támogatása, fenntartása, működési feltételeik elősegítése, valamint a kapcsolódó infrastruktúra-, szervezet-, intézményfejlesztési és beruházási célok biztosítása – útján valósítja meg.
+
+|
+
+4.
+
+|
+
+Kék Bolygó Klímavédelmi Alapítvány
+
+|
+
+1. a környezetvédelemmel és a klímaváltozással kapcsolatos ismeretek többszintű oktatása kialakításának és fejlesztésének támogatása;
+
+2. a társadalom környezettudatossága fejlesztésének támogatása;
+
+3. a környezetvédelem és a klímaváltozás kapcsán az egyének és a társadalom értékszemléletének, viselkedésének, termelői és fogyasztói szokásainak, törekvéseinek megváltoztatása, a társadalom és a környezet közötti új viszonyrendszer kialakításának támogatása;
+
+4. a klímaváltozás hatásaival szemben való fellépésnek, az alkalmazkodás helyi és országos közösségi programjainak támogatása.
