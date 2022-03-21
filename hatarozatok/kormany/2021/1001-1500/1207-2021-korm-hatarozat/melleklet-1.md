@@ -94,7 +94,13 @@
 
 ## Határidő: első alkalommal 2022. január 31.
 
-1. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz[^7]
+## 9.[^7] felhívja az agrárminisztert, hogy gondoskodjon a 2. mellékletben foglalt táblázat 19. sora szerinti kötelezettségvállalásról úgy, hogy az 1. mellékletben foglalt táblázat D:48. mezőjében meghatározott indikatív támogatási keretösszeg 100%-a felett teljesített kifizetések a 2023–2027 programozási időszak KAP Stratégiai Terv forrásai terhére elszámolhatók legyenek.
+
+## Felelős: agrárminiszter
+
+## Határidő: folyamatos
+
+1. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz[^8]
 
 [^1]: A 2. pont az 1867/2021. (XII. 2.) Korm. határozat 6. pontjával megállapított szöveg.
 [^2]: A 4. pont az 1867/2021. (XII. 2.) Korm határozat 5. pontja szerint módosított szöveg.
@@ -102,4 +108,5 @@
 [^4]: A 6. pontot az 1867/2021. (XII. 2.) Korm határozat 2. pontja iktatta be.
 [^5]: A 7. pontot az 1867/2021. (XII. 2.) Korm határozat 2. pontja iktatta be.
 [^6]: A 8. pontot az 1867/2021. (XII. 2.) Korm határozat 2. pontja iktatta be.
-[^7]: Az 1. melléklet az 1867/2021. (XII. 2.) Korm határozat 3. pontja szerint módosított szöveg.
+[^7]: A 9. pontot az 1166/2022. (III. 21.) Korm. határozat 2. pontja iktatta be.
+[^8]: Az 1. melléklet az 1867/2021. (XII. 2.) Korm határozat 3. pontja, az 1166/2022. (III. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.

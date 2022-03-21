@@ -2,15 +2,15 @@
 
 | 1. | Program végrehajtásáért felelős minisztérium | Program | Alap | Maximális kötelezettség- vállalási szint az indikatív támogatási keret %-ban (százalék) | Maximális kötelezettség- vállalási szint (milliárd Ft) |
 
-| 2. | Emberi Erőforrások Minisztériuma | Emberi Erőforrás Fejlesztési Operatív Program | ESZA | 111,27% | 806,70 |
+| 2. | Emberi Erőforrások Minisztériuma | Emberi Erőforrás Fejlesztési Operatív Program | ESZA | 112,85% | 818,06 |
 
-| 3. | ERFA | 120,02% | 525,80 |
+| 3. | ERFA | 120,65% | 512,44 |
 
 | 4. | Rászoruló Személyeket Támogató Operatív Program | FEAD | 109,35% | 41,27 |
 
-| 5. | Pénzügy- minisztérium | Gazdaságfejlesztési és Innovációs Operatív Program | ERFA | 113,52% | 2299,41 |
+| 5. | Pénzügy- minisztérium | Gazdaságfejlesztési és Innovációs Operatív Program | ERFA | 113,08% | 2299,41 |
 
-| 6. | ESZA | 112,43% | 839,67 |
+| 6. | ESZA | 110,52% | 839,67 |
 
 | 7. | YEI | 100,00% | 33,59 |
 
@@ -26,9 +26,9 @@
 
 | 13. | ERFA | 145,57% | 354,39 |
 
-| 14. | Környezeti és Energia-hatékonysági Operatív Program | KA | 117,37% | 1409,28 |
+| 14. | Környezeti és Energia-hatékonysági Operatív Program | KA | 123,20% | 1479,28 |
 
-| 15. | ERFA | 103,27% | 136,66 |
+| 15. | ERFA | 111,90% | 129,66 |
 
 | 16. | Miniszterelnöki Kabinetiroda | Közigazgatás- és Közszolgáltatás-fejlesztési Operatív Program | ESZA | 116,48% | 271,94 |
 
@@ -36,7 +36,9 @@
 
 | 18. | Agrárminisztérium | Magyar Halgazdálkodási Operatív Program | ETHA | 117,32% | 20,53 |
 
-3. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz[^9]
+| 19. | Agrárminisztérium | Vidékfejlesztési Program | EMVA | 106,80% | 3142,80 |
+
+3. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz[^10]
 
 |  | A | B | C | D | E |
 
@@ -52,9 +54,9 @@
 
 | 6. | EFOP-5 – Pénzügyi eszközök alkalmazása a társadalmi együttműködés erősítése érdekében, valamint társadalmi innováció és transznacionális együttműködések | 152,19% | 18,92 |
 
-| 7. | EFOP-6 – A Covid19-világjárvány okozta válsághelyzet kezelésére szolgáló egészségügyi intézkedések (REACT EU) | 100,00% | 72,00 |
+| 7. | EFOP-6 – A Covid19-világjárvány okozta válsághelyzet kezelésére szolgáló egészségügyi intézkedések (REACT EU) | 100,00% | 58,64 |
 
-| 8. | EFOP-7 – A Covid19-világjárvány okozta válsághelyzet kezelésére szolgáló intézkedések (REACT EU) | 100,00% | 40,00 |
+| 8. | EFOP-7 – A Covid19-világjárvány okozta válsághelyzet kezelésére szolgáló intézkedések (REACT EU) | 128,66% | 51,36 |
 
 | 9. | Rászoruló Személyeket Támogató Operatív Program | – | 109,35% | 41,27 |
 
@@ -76,9 +78,9 @@
 
 | 18. | GINOP-8 – Pénzügyi eszköz | 110,00% | 773,91 |
 
-| 19. | GINOP-9 – A Covid19 világjárvány és gazdasági következményei okozta válság elhárítása (REACT EU) | 100,00% | 100,00 |
+| 19. | GINOP-9 – A Covid19 világjárvány és gazdasági következményei okozta válság elhárítása (REACT EU) | 115,97% | 100,00 |
 
-| 20. | GINOP-10 – A Covid19 világjárvány munkaerőpiaci következményeinek kezelése (REACT EU) | 100,00% | 84,00 |
+| 20. | GINOP-10 – A Covid19 világjárvány munkaerőpiaci következményeinek kezelése (REACT EU) | 106,83% | 84,00 |
 
 | 21. | Terület- és Településfejlesztési Operatív Program | TOP-1 – Térségi gazdasági környezet fejlesztése a foglalkoztatás elősegítésére | 136,31% | 506,74 |
 
@@ -128,7 +130,7 @@
 
 | 44. | Környezeti és Energia-hatékonysági Operatív Program | KEHOP-1 – A klímaváltozás hatásaihoz való alkalmazkodás | 119,31% | 423,39 |
 
-| 45. |  | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és -tisztítás, szennyvízkezelés fejlesztése | 112,71% | 466,40 |
+| 45. |  | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és -tisztítás, szennyvízkezelés fejlesztése | 129,63% | 536,40 |
 
 | 46. | KEHOP-3 – Hulladékgazdálkodással és kármentesítéssel kapcsolatos fejlesztések | 118,03% | 162,47 |
 
@@ -136,7 +138,7 @@
 
 | 48. | KEHOP-5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 121,26% | 357,03 |
 
-| 49. | KEHOP-6 – A Covid19 világjárványt követő zöld és reziliens gazdasági helyreállítás előkészítése (REACT-EU) | 100,00% | 98,00 |
+| 49. | KEHOP-6 – A Covid19 világjárványt követő zöld és reziliens gazdasági helyreállítás előkészítése (REACT-EU) | 111,61% | 91,00 |
 
 | 50. | Miniszterelnöki Kabinetiroda | Közigazgatás- és Közszolgáltatás- fejlesztési Operatív Program | KÖFOP-1 – Az adminisztratív terhek csökkentése | 120,47% | 208,40 |
 
@@ -146,4 +148,6 @@
 
 | 53. | Agrárminisztérium | Magyar Halgazdálkodási Operatív Program | – | 117,32% | 20,53 |
 
-[^9]: A 3. mellékletet az 1867/2021. (XII. 2.) Korm határozat 5. pontja iktatta be.
+| 54. | Agrárminisztérium | Vidékfejlesztési Program | – | 106,80% | 3142,80 |
+
+[^10]: A 3. mellékletet az 1867/2021. (XII. 2.) Korm határozat 5. pontja iktatta be, szövege az 1166/2022. (III. 21.) Korm. határozat 3. pont b) alpontja és 4. pont c) alpontja szerint módosított szöveg.

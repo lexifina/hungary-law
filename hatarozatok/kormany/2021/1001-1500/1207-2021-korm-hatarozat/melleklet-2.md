@@ -12,9 +12,9 @@
 
 | 6. | EFOP-5 – Pénzügyi eszközök alkalmazása a társadalmi együttműködés erősítése érdekében, valamint társadalmi innováció és transznacionális együttműködések | 12,4 |
 
-| 6a. | Emberi Erőforrás Fejlesztési Operatív Program | EFOP-6 – A Covid19-világjárvány okozta válsághelyzet kezelésére szolgáló egészségügyi intézkedések (REACT EU) | 72,0 |
+| 6a. | Emberi Erőforrás Fejlesztési Operatív Program | EFOP-6 – A Covid19-világjárvány okozta válsághelyzet kezelésére szolgáló egészségügyi intézkedések (REACT EU) | 58,6 |
 
-| 6b. | EFOP-7 – A Covid19-világjárvány okozta válsághelyzet kezelésére szolgáló intézkedések (REACT EU) | 40,0 |
+| 6b. | EFOP-7 – A Covid19-világjárvány okozta válsághelyzet kezelésére szolgáló intézkedések (REACT EU) | 39,9 |
 
 | 7. | Rászoruló Személyeket Támogató Operatív Program | – | 37,7 |
 
@@ -36,9 +36,9 @@
 
 | 16. | GINOP-8 – Pénzügyi eszközök | 703,6 |
 
-| 16a. | GINOP-9 – A Covid19 világjárvány és gazdasági következményei okozta válság elhárítása (REACT EU) | 100,0 |
+| 16a. | GINOP-9 – A Covid19 világjárvány és gazdasági következményei okozta válság elhárítása (REACT EU) | 86,2 |
 
-| 16b. | GINOP-10 – A Covid19 világjárvány munkaerőpiaci következményeinek kezelése (REACT EU) | 84,0 |
+| 16b. | GINOP-10 – A Covid19 világjárvány munkaerőpiaci következményeinek kezelése (REACT EU) | 78,6 |
 
 | 17. | Terület- és Településfejlesztési Operatív Program | TOP-1 – Térségi gazdasági környezet fejlesztése a foglalkoztatás elősegítésére | 371,8 |
 
@@ -96,7 +96,7 @@
 
 | 44. | KEHOP-5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 294,4 |
 
-| 44a. | KEHOP-6 – A Covid19 világjárványt követő zöld és reziliens gazdasági helyreállítás előkészítése (REACT-EU) | 98,0 |
+| 44a. | KEHOP-6 – A Covid19 világjárványt követő zöld és reziliens gazdasági helyreállítás előkészítése (REACT-EU) | 81,5 |
 
 | 45. | Miniszterelnöki Kabinetiroda | Közigazgatás- és Közszolgáltatás- fejlesztés Operatív Program | KÖFOP-1 – Az adminisztratív terhek csökkentése | 173,0 |
 
@@ -110,6 +110,6 @@
 
 ## * Minden program esetén egységes 350 HUF/EUR árfolyammal számolva.
 
-2. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz[^8]
+2. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz[^9]
 
-[^8]: A 2. melléklet az 1867/2021. (XII. 2.) Korm határozat 4. pontjával megállapított szöveg.
+[^9]: A 2. melléklet az 1867/2021. (XII. 2.) Korm határozat 4. pontjával megállapított, az 1166/2022. (III. 21.) Korm. határozat 3. pont a) alpontja és 4. pont b) alpontja szerint módosított szöveg.
