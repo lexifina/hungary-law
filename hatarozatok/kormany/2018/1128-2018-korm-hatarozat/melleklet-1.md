@@ -32,19 +32,7 @@
 
 ## 7. egyetért azzal, hogy a 4. pont szerinti előkészítési fázisokat a Közalapítvány valósítsa meg, és felkéri a kormányzati felelőst, hogy részére a 6. pont alapján átcsoportosított forrás terhére az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatást nyújtson;
 
-## 8. felhívja az emberi erőforrások miniszterét, hogy
-
-## a) készítsen jelentést a Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 4. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről;
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: a 4. pont szerinti véghatáridő lejártát követő 30 napon belül
-
-## b)[^2] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére a 4. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: a kivitelezésre irányuló feltételes közbeszerzési eljárás lezárását követően
+## 8.[^2]
 
 1. melléklet az 1128/2018. (III. 19.) Korm. határozathoz
 
@@ -121,4 +109,4 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 [^1]: A 4. pont az 1009/2021. (I. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 8. pont b) alpontja az 1154/2020. (IV. 14.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: A 8. pontot az 1167/2022. (III. 21.) Korm. határozat 3. pontja visszavonta.
