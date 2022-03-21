@@ -4,7 +4,7 @@
 
 ## 1. A törvény alkalmazási köre
 
-1. § (1) Az Európai Unió pénzügyi alapjaihoz kapcsolódó támogatási kérelmek tartalmi értékelése és az ezen alapok által támogatott projektek megvalósításához kapcsolódó közbeszerzések ellenőrzése közfeladat. E támogatási kérelmek tartalmi értékelését (a továbbiakban: tartalmi értékelés) és az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben, valamint a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott közbeszerzések műszaki szempontú ellenőrzését (a továbbiakban: közbeszerzési értékelés) az állami projektértékelői jogviszonyban állók látják el.
+1. § (1) Az Európai Unió pénzügyi alapjaihoz, valamint a Magyarország Helyreállítási és Ellenállóképességi Tervéhez kapcsolódó támogatási kérelmek tartalmi értékelése (a továbbiakban: tartalmi értékelés), valamint az Európai Unió pénzügyi alapjai és a Magyarország Helyreállítási és Ellenállóképességi Terve által támogatott projektek megvalósításához kapcsolódó közbeszerzések ellenőrzése közfeladat. A támogatási kérelmek tartalmi értékelését és az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben, valamint a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott közbeszerzések műszaki szempontú ellenőrzését (a továbbiakban: közbeszerzési értékelés) az állami projektértékelői jogviszonyban állók látják el.
 
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
