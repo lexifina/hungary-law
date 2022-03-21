@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2021-08-01 | 2021. évi VIII. törvény | 2010-87-00-00.45 |
 | 2021-12-25 | 2021. évi CXXXII. törvény | 2010-87-00-00.46 |
 | 2022-01-01 | 2021. évi CL. törvény | 2010-87-00-00.47 |
+| 2022-03-21 | 2022. évi I. törvény | 2010-87-00-00.48 |

@@ -14,4 +14,6 @@ e) a 3. § (3) bekezdés hatálya alá tartozó ingatlanok hasznosításával ka
 
 f) a Nemzeti Földalapba tartozó földrészletek közfoglalkoztatási program megvalósítása céljából az önkormányzatok számára történő vagyonkezelésbe adásának szabályait;
 
+g) a 18. § (8a) bekezdése szerinti kompenzáció meghatározásának szabályait.
+
 (2)
