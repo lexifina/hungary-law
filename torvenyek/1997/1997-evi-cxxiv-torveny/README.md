@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-124-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 1997-124-00-00.19 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 1997-124-00-00.20 |
 | 2021-07-09 | 2021. évi LXVIII. törvény | 1997-124-00-00.21 |
+| 2022-03-21 | 2022. évi I. törvény | 1997-124-00-00.22 |
