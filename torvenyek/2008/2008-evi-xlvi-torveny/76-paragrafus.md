@@ -40,6 +40,8 @@ m) állapítsa meg az állatok jelölésére, nyilvántartására, a marhalevél
 
 n) állapítsa meg a hullatott agancs gyűjtésének, jelölésének, forgalomba hozatalának és nyilvántartásának részletes szabályait.
 
+o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
+
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
 1–2.
