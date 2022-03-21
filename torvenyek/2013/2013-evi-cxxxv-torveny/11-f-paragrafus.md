@@ -12,7 +12,7 @@
 
 a)
 
-b) a kilépni kívánó tag az Integrációs Szervezettel és annak tagjaival elszámolt, azok felé tartozással nem rendelkezik, ide nem értve azt az esetet, ha nála az Integrációs Szervezet valamely tagja betétet helyezett el, vagy az 5/A. §-ban meghatározott egyetemleges felelősség körében fennálló függő kötelezettséget,
+b) a kilépni kívánó tag az Integrációs Szervezettel és annak tagjaival elszámolt, azok felé tartozással nem rendelkezik, ide nem értve azt az esetet, ha nála az Integrációs Szervezet valamely tagja betétet helyezett el,
 
 c) teljesültek a kilépés vonatkozásában az Integrációs Szervezet kilépéskor hatályos alapszabályában meghatározott feltételek,
 
