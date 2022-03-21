@@ -11,11 +11,3 @@
 (6) A 40. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (7) Az 51. § (1) bekezdése, az 52. §, az 53. § a) pontja, az 54. § (2) bekezdése, az 56. § valamint a 3. és a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-az Országgyűlés elnöke
-
-Kövér László s. k.,
-
-köztársasági elnök
