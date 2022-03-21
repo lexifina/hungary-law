@@ -22,7 +22,7 @@ b) a nemzetközi vállalkozások és az adóhatóságok részére készült, a k
 
 c)
 
-(3) E törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapítja meg: Iránymutatás a regionális állami támogatásokról (2014–2020).
+(3) Ez a törvény az Iránymutatás a regionális állami támogatásokról (2021/C 153/01) című bizottsági közlemény hatálya alá tartozó támogatást tartalmaz.
 
 (4) E törvény 7. § (12) bekezdése, 22/A. § (4) bekezdése és 1. számú melléklet 14. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet 1–14. és 17. cikkei hatálya alá tartozó támogatási programot tartalmaz.
 

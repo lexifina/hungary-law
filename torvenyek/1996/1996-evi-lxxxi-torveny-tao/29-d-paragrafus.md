@@ -14,7 +14,7 @@
 
 (8)
 
-(9) Az adózó az adóalap megállapításánál alkalmazhatja a 4. § 36. pontjának és a 7. § (1) bekezdése e) pontjának 2002. december 31-én hatályos rendelkezéseit, ha az épületet, építményt 2002. december 31-ig üzembe helyezte.
+(9)
 
 (10) Az adózó a 2002. december 31. napján hatályos 8. § (1) bekezdés i) és t) pontjában, 16. § (1) bekezdés d) és e) pontjában, 16. § (2) bekezdés d) pontjában foglalt rendelkezést alkalmazza, ha az átalakulásra vonatkozó döntést, megállapodást 2002. december 31-ig közokiratba foglalták, vagy az azt tartalmazó okiratot (így különösen a társasági szerződést, az alapszabályt, az egyesülési vagy szétválási szerződést) ezen időpontig ügyvéd (jogtanácsos) ellenjegyezte.
 

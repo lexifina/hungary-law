@@ -4,11 +4,9 @@
 
 (2) Az adózó által igénybe vehető adókedvezmény mértéke nem haladhatja meg adózónként, továbbá beruházásonként, felújításonként, a beruházáshoz, felújításhoz igényelt összes állami támogatással együttesen, jelenértéken a beruházás, felújítás elszámolható költsége
 
-a) Közép-Magyarország régió kormányrendelet szerint nem támogatható településein 30 százalékának,
+a) Budapesten 30 százalékának,
 
-b) Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein 35 százalékának,
-
-c) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl vagy Nyugat-Dunántúl régióban 45 százalékának
+b) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl vagy Pest tervezési-statisztikai régióban 45 százalékának
 
 megfelelő mértéket, de legfeljebb a 15 millió eurónak megfelelő forintösszeget.
 
@@ -32,7 +30,7 @@ a) ha az adózó a fejlesztést azért hajtja végre, hogy a beruházás, felúj
 
 b) ha az adózó nem teljesíti az e törvényben és az energiahatékonysági célokat szolgáló beruházás adókedvezményének végrehajtási szabályairól szóló kormányrendeletben foglalt feltételeket;
 
-c) ha az adózó nehéz helyzetben lévő társaság, bíróság által jogerősen elrendelt felszámolás vagy kényszertörlési eljárás alatt áll, vagy végelszámolását bejelentette a bírósághoz;
+c) ha az adózó nehéz helyzetben lévő társaság – kivéve, ha 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1-je és 2021. december 31-e között nehéz helyzetbe került, azzal, hogy e kivételt az adózó akkor is figyelembe veheti, ha beruházásának, felújításának megkezdésekor e kivétel nem volt hatályos –, bíróság által jogerősen elrendelt felszámolás vagy kényszertörlési eljárás alatt áll, vagy végelszámolását bejelentette a bírósághoz;
 
 d) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz, felújításhoz;
 

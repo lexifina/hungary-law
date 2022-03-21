@@ -28,33 +28,27 @@ megvalósított beruházás,
 
 j) jelenértéken legalább 100 millió forint értékű, szabad vállalkozási zóna területén megvalósított beruházás,
 
-k) jelenértéken legalább 6 milliárd forint értékű beruházás,
+k)
 
-l) jelenértéken legalább 3 milliárd forint értékű munkahelyteremtést szolgáló beruházás
+l)
 
 üzembe helyezése és a kormányrendeletben foglaltak szerinti üzemeltetése esetén.
 
-(1a) Az (1) bekezdés a)–j) pontja esetén az adókedvezmény igénybevételének feltétele, hogy a beruházás
+(1a) Az adókedvezmény igénybevételének feltétele, hogy a beruházás olyan induló beruházásnak minősüljön, amelyet
 
-a) olyan induló beruházásnak minősüljön, amelyet
+a) kis- és középvállalkozás valósít meg, vagy
 
-aa) kis- és középvállalkozás valósít meg, vagy
+b) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl vagy Pest tervezési-statisztikai régióban nagyvállalkozás valósít meg.
 
-ab) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl vagy Nyugat-Dunántúl régióban nagyvállalkozás valósít meg; vagy
-
-b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein nagyvállalkozás valósít meg.
-
-(1b) Az (1) bekezdés k) és l) pontja esetén az adókedvezmény igénybevételének feltétele, hogy a beruházás olyan termék-diverzifikációt eredményező induló beruházásnak vagy új eljárási innovációt eredményező induló beruházásnak minősüljön, amelyet a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein nagyvállalkozás valósít meg.
+(1b)
 
 (2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A (2a) bekezdésben meghatározott beruházás esetén az adózó az adókedvezményt a Kormány – Európai Bizottság engedélyén alapuló – határozata alapján, a határozatban meghatározott feltételek szerint veheti igénybe. A Kormány a határozatot az adózó kérelmére, a kérelemben bemutatott fejlesztési program és az Európai Bizottság engedélye alapján hozza meg, ha a fejlesztési program és a kérelem megfelel az e törvényben és a kormányrendeletben meghatározott valamennyi feltételnek.
 
 (2a) Az adókedvezmény igénybevételének feltétele a Kormány – Európai Bizottság engedélyén alapuló – határozata, ha
 
-a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszegű elszámolható költségű beruházás kaphat;
+a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszegű elszámolható költségű beruházás kaphat,
 
-b) kis- és középvállalkozás által a Közép-Magyarország régióban (ide nem értve a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településeit) megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget;
-
-c) az adózó az (1) bekezdés k) vagy l) pontja szerinti beruházást valósít meg.
+b) kis- és középvállalkozás által Budapesten megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget.
 
 (2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
 
@@ -74,7 +68,7 @@ b) a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kére
 
 (8) Az (1) bekezdés d) pontja szerinti önálló környezetvédelmi beruházás esetén az adókedvezmény igénybevételének feltétele, hogy az adózó adókötelezettsége a kérelem, a bejelentés benyújtása évét megelőző ötödik évben vagy korábban kezdődött.
 
-(9) Az (1) bekezdés a), b), i), k) és l) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) ne csökkenjen a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszáma alá.
+(9) Az (1) bekezdés a), b) és i) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) ne csökkenjen a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszáma alá.
 
 (10) Kizárólag film- és videogyártást szolgáló beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adózó a beruházás üzembe helyezését követő öt évben az üzembe helyezett tárgyi eszköz igénybevételével nem állít elő olyan filmet, amelyet a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 9. §-a alapján a VI. kategóriába kellene sorolni.
 

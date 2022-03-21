@@ -130,7 +130,7 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (60) A sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvénnyel megállapított 24/A. § (13a) bekezdése alapján kérelmet a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvénnyel megállapított 24/A. § (13a) bekezdésének hatálybalépését követően felajánlott adóval, adóelőleggel kapcsolatos eljárások vonatkozásában lehet benyújtani.
 
-(61) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosításáról szóló 2017. évi CLV. törvénnyel megállapított 4. § 33a. pontját, 4. § 35a. pontját, 22/B. § (1) bekezdés k) és l) pontját, (1b) bekezdését, (2a) bekezdés c) pontját és (9) bekezdését első alkalommal a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosításáról szóló 2017. évi CLV. törvény hatálybalépését követően megkezdett beruházások tekintetében lehet alkalmazni.
+(61)
 
 (62) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 4. § 11a. pontját és 22/E. §-át első alkalommal ezen rendelkezések hatálybalépését követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében lehet alkalmazni.
 
@@ -217,3 +217,7 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 (99) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 4. § 54. pontját a 2020-ban kezdődő adóévére az adózó választása szerint alkalmazza.
 
 (100) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 2/A. § (2) bekezdése hatálybalépését megelőző napon csoportos társasági adóalanyiságban tagsággal rendelkező nonprofit gazdasági társaság, szociális szövetkezet, közérdekű nyugdíjas szövetkezet és iskolaszövetkezet e minőségétől függetlenül tagságát e törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 2/A. § (2) bekezdése hatálybalépését megelőző napon folyamatban lévő adóéve végéig tarthatja fenn.
+
+(101) A 22/B. § (19) bekezdésétől eltérően a fejlesztési adókedvezmény a kérelem, bejelentés benyújtásakor hatályos rendelkezéseknek megfelelően vehető igénybe azzal, hogy a 2021. december 31-ét követően benyújtott, de az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: 2022. évi Módtv.) megállapított 22/B. § (1a), (2a) és (9) bekezdése, 30/A. § és 31. § (3) bekezdése hatálybalépéséig nyilvántartásba nem vett bejelentések, még nem engedélyezett kérelmek esetében e törvénynek a 2022. évi Módtv.-vel megállapított rendelkezéseit is alkalmazni kell.
+
+(102) A 2022. évi Módtv.-vel megállapított 22/E. § (2) bekezdését első alkalommal a 2021. december 31-ét követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében lehet alkalmazni.

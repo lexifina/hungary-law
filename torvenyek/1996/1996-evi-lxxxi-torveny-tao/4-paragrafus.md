@@ -292,7 +292,7 @@ i) a külföldi személynél munkavállalóként foglalkoztatott vagy ugyanezen 
 
 j) a külföldi személyt minden esetben telephellyel rendelkezőnek kell tekinteni, ha a tevékenysége megfelel az adóügyi illetősége szerinti állam és Magyarország által a jövedelem- és vagyonadók tárgyában kötött, nemzetközi szerződés telephely fogalmának;
 
-33a. termék-diverzifikációt eredményező induló beruházás: olyan induló beruházás, amely létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményezi, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
+33a.
 
 34. természeti erőforrás: a környezet védelmének általános szabályairól szóló törvényben meghatározott fogalom;
 
@@ -306,9 +306,9 @@ b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 35. üzletvezetés helye: az a hely, ahol az ügyvezetés az irányításra berendezkedett;
 
-35a. új eljárási innovációt eredményező induló beruházás: a regionális állami támogatásokról (2014–2020) szóló 2013/C 209/01 számú európai bizottsági iránymutatás 15. pontja szerinti olyan induló beruházás, amelynek célja a meglévő létesítmények új eljárási innovációkkal történő diverzifikációja, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
+35a.
 
-36. új gazdasági tevékenység végzésére irányuló induló beruházás: az az induló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
+36.
 
 37. vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény alapján vagyonkezelő alapítványként vagy közérdekű vagyonkezelő alapítványként nyilvántartásba vett jogi személy;
 

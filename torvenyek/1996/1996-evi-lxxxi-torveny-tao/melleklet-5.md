@@ -17,3 +17,13 @@ A társasági adóalanynak nem minősülő szervezetek
 7. a jogszabályban meghatározott közszolgálati médiaszolgáltatók,
 
 8. a felszámolás kezdő napjától a felszámolási eljárás alatt állók, a kényszertörlési eljárás kezdő napjától a kényszertörlési eljárás alatt állók;
+
+9. a pártok,
+
+10. a Duna Médiaszolgáltató Nonprofit Zártkörűen Működő Részvénytársaság,
+
+11. a külön törvényben és annak felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelően működő, kizárólag készfizetőkezesség-vállalást folytató részvénytársaság,
+
+12.
+
+13. a költségvetési szervként működő felsőoktatási intézmény (ideértve az általa létrehozott intézményt is) és diákotthon,
