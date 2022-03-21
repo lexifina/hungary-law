@@ -1,0 +1,5 @@
+26. § Az Eftv. a következő 13. §-sal egészül ki:
+
+„13. § (1) A megállapodással rendelkező bevett egyház által fenntartott felsőoktatási intézmény felsőoktatási közfeladatainak finanszírozásával kapcsolatos szerződések, támogatások tekintetében az e törvénynek az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv.) megállapított III. Fejezetében foglalt rendelkezéseit a 2022. év tekintetében kell először alkalmazni.
+
+(2) E törvénynek a Módtv. által megállapított 6. § (6) bekezdését a 2023. év tekintetében kell először alkalmazni.”
