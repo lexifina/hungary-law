@@ -120,19 +120,25 @@ Budapest I. kerület, Várnegyed
 
 |
 
-A várfalon belüli közterületek közül a Szentháromság tér, a Dísz tér és a Szent György tér, valamint
+A várfalon belüli közterületek közül a Szentháromság tér,
+
+a Dísz tér és a Szent György tér, valamint
 
 a Budai Vár (Királyi Palota) épülete
 
 cím: 1014 Budapest, Szent György tér 2.
 
+a Várkert Bazár épülete
+
+cím: 1013 Budapest, Ybl Miklós tér 2–6.
+
 a Sándor-palota épülete
 
 cím: 1014 Budapest, Szent György tér 1.
 
-a Mátyás-templom épülete cím:
+a Mátyás-templom épülete
 
-1014 Budapest, Szentháromság tér 2.
+cím: 1014 Budapest, Szentháromság tér 2.
 
 a volt József-kaszárnya épülete
 
