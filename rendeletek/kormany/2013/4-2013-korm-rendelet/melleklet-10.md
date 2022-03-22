@@ -1,4 +1,4 @@
-10. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^340]
+10. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^344]
 
 ## KIEGÉSZÍTŐ TÁJÉKOZTATÓ ADATOK
 
@@ -84,4 +84,4 @@
 
 25. A gazdasági szervezettel nem rendelkező költségvetési szervek, helyi önkormányzatok, nemzetiségi önkormányzatok, társulások, térségi fejlesztési tanácsok esetén az Áht. 10. § (4) bekezdése alapján a gazdasági szervezet feladatait ellátó szervezet törzskönyvi azonosító (PIR) száma
 
-[^340]: A 10. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 7. pontjával megállapított szöveg.
+[^344]: A 10. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 7. pontjával megállapított szöveg.

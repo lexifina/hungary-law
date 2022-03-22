@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-22
 | 2021-08-16 | 2013-4-20-22.34 | 482/2021. (VIII. 13.) Korm. rendelet |
 | 2021-10-01 | 2013-4-20-22.35 | 340/2019. (XII. 23.) Korm. rendelet |
 | 2022-01-01 | 2013-4-20-22.36 | 482/2021. (VIII. 13.) Korm. rendelet |
+| 2022-03-22 | 2013-4-20-22.37 | 111/2022. (III. 21.) Korm. rendelet |

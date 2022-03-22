@@ -10,7 +10,7 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^332]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^336]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -80,4 +80,4 @@
 
 – 13. havi ellátás.
 
-[^332]: A 4. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^336]: A 4. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 5. pontjával megállapított szöveg.
