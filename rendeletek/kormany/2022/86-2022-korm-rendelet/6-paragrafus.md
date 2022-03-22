@@ -4,7 +4,7 @@
 
 a) a Metvhr. 44. § (2) bekezdése szerinti egészségügyi ellátás,
 
-b)[^1] az a) pont szerinti ellátáson túl az onkológiai szakellátás, egyéb krónikus betegellátás keretében vizsgálat és gyógykezelés, továbbá az ártámogatással a társadalombiztosítás egyes ellátásaira jogosultak által az onkológiai szakellátás és egyéb krónikus betegellátás, valamint az egészségügyi alapellátás keretében állapotjavítás, állapotfenntartás vagy fájdalomcsillapítás érdekében igénybe vehető gyógyszerkészítmény, valamint
+b)[^2] az a) pont szerinti ellátáson túl az onkológiai szakellátás, egyéb krónikus betegellátás keretében vizsgálat és gyógykezelés, továbbá az ártámogatással a társadalombiztosítás egyes ellátásaira jogosultak által az onkológiai szakellátás és egyéb krónikus betegellátás, valamint az egészségügyi alapellátás keretében állapotjavítás, állapotfenntartás vagy fájdalomcsillapítás érdekében igénybe vehető gyógyszerkészítmény, valamint
 
 c) a Metvhr. 49. §-a szerinti okmány fordítási költségeinek megtérítése
 
@@ -18,7 +18,7 @@ c) a Metvhr. 49. §-a szerinti okmány fordítási költségeinek megtérítése
 
 (6) A menedékes foglalkoztatásának bejelentésére a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 71. §-ának rendelkezései megfelelően alkalmazandók.
 
-(7)[^2]
+(7)[^3]
 
-[^1]: A 6. § (2) bekezdés b) pontja a 97/2022. (III. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^2]: A 6. § (7) bekezdését a 98/2022. (III. 10.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^2]: A 6. § (2) bekezdés b) pontja a 97/2022. (III. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: A 6. § (7) bekezdését a 98/2022. (III. 10.) Korm. rendelet 4. §-a hatályon kívül helyezte.
