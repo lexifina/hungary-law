@@ -4,20 +4,27 @@
 
 (2) A Főigazgatóság – mint a Kormányzati Ellenőrzési Hivatalból kiválással létrejövő szervezet – a Kormányzati Ellenőrzési Hivatal jogutódjának minősül a 4–5. §-okban meghatározott feladatok és az azokhoz kapcsolódó foglalkoztatási jogviszonyok tekintetében.
 
-(3)[^36] A Főigazgatóság kormánytisztviselői e rendelet kijelölése alapján jogosultak 50%-os (felsőfokú iskolai végzettség esetén), illetve 15%-os (középiskolai végzettség esetén) illetménykiegészítésre.
+(3)[^40]
 
-(4)[^37] Az egyes kormányrendeleteknek az Európai Támogatásokat Auditáló Főigazgatóságra vonatkozó szabályok változásával, a Magyar Államkincstár átszervezésével, valamint a Nemzetgazdasági Minisztérium Nemzeti Programengedélyező Iroda átalakulásával összefüggő módosításáról szóló 113/2011. (VII. 7.) Korm. rendelettel (a továbbiakban: Módosító rendelet) megállapított 10. § (3) bekezdését a Módosító rendelet hatálybalépését[^38] követően indult eljárásokban lehet alkalmazni.
+(4)[^41]
 
-(5)[^39] E rendeletnek az Európai Támogatásokat Auditáló Főigazgatóságról szóló 210/2010. (VI. 30.) Korm. rendelet módosításáról szóló 206/2012. (VII. 27.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^40] folyamatban lévő ügyekben is alkalmazni kell.
+(5)[^42]
 
-(6)[^41] Az egyes kormányrendeletek fejlesztéspolitikai tárgyú módosításáról szóló 24/2017. (II. 3.) Korm. rendelettel hatályon kívül helyezett 5. § i) pontját az Európai Mezőgazdasági Vidékfejlesztési Alap tekintetében a 2016. pénzügyi évre vonatkozó tanúsító szervi jelentésre még alkalmazni kell.
+(6)[^43]
 
-(7)–(10)[^42]
+(7)[^44]
 
-[^36]: A 15. § (3) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^37]: A 15. § (4) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^38]: A hatálybalépés időpontja 2011. július 8.
-[^39]: A 15. § (5) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 56. §-a hatályon kívül helyezte, újonnan a 206/2012. (VII. 27.) Korm. rendelet 4. §-a iktatta be.
-[^40]: A hatálybalépés időpontja 2012. július 28.
-[^41]: A 15. § (6) a 113/2011. (VII. 7.) Korm. rendelet 56. §-a hatályon kívül helyezte, újonnan a 24/2017. (II. 3.) Korm. rendelet 1. §-a iktatta be.
-[^42]: A 15. § (7)–(10) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 56. §-a hatályon kívül helyezte.
+(8)[^45]
+
+(9)[^46]
+
+(10)[^47]
+
+[^40]: A 15. § (3) bekezdését a 111/2022. (III. 21.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^41]: A 15. § (4) bekezdését a 111/2022. (III. 21.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^42]: A 15. § (5) bekezdését újból hatályon kívül helyezte a 111/2022. (III. 21.) Korm. rendelet 9. § c) pontja.
+[^43]: A 15. § (6) bekezdését újból hatályon kívül helyezte a 111/2022. (III. 21.) Korm. rendelet 9. § c) pontja.
+[^44]: A 15. § (7) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 56. §-a hatályon kívül helyezte.
+[^45]: A 15. § (8) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 56. §-a hatályon kívül helyezte.
+[^46]: A 15. § (9) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 56. §-a hatályon kívül helyezte.
+[^47]: A 15. § (10) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 56. §-a hatályon kívül helyezte.
