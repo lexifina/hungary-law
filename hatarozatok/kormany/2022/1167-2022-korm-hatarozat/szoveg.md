@@ -8,4 +8,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: az előkészítés 1. pont szerinti fázisainak lezárását követően azonnal
 
-3. visszavonja a Korm. határozat 8. pontját.
+3.[^1]
+
+[^1]: A 3. pontot a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
