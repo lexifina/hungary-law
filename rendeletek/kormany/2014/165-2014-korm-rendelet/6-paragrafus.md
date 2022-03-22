@@ -10,6 +10,6 @@ c) hasznos élettartamát,
 
 d) az állományból történő kikerülés időpontját, indokát.
 
-(2)[^41] Ha az adózó az üzembe helyezett, az elszámolható költség összegénél figyelembe vett tárgyi eszközöket, támogatható immateriális javakat a kötelező üzemeltetési időszakon belül a befektetett eszközök közül – pótlás nélkül – kivezeti, vagy – pótlás nélkül – nem üzemelteti a hatályos, végleges vagy jogerős engedélyben foglaltak szerint, akkor az ilyen eszközök bekerülési értéke az adókedvezmény alapjául szolgáló elszámolható költséget csökkenti.
+(2)[^45] Ha az adózó az üzembe helyezett, az elszámolható költség összegénél figyelembe vett tárgyi eszközöket, támogatható immateriális javakat a kötelező üzemeltetési időszakon belül a befektetett eszközök közül – pótlás nélkül – kivezeti, vagy – pótlás nélkül – nem üzemelteti a hatályos, végleges vagy jogerős engedélyben foglaltak szerint, akkor az ilyen eszközök bekerülési értéke az adókedvezmény alapjául szolgáló elszámolható költséget csökkenti.
 
-[^41]: A 6. § (2) bekezdése a 395/2017. (XII. 13.) Korm. rendelet 6. § 13. pontja szerint módosított szöveg.
+[^45]: A 6. § (2) bekezdése a 395/2017. (XII. 13.) Korm. rendelet 6. § 13. pontja szerint módosított szöveg.
