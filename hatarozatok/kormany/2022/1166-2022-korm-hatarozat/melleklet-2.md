@@ -34,4 +34,6 @@
 
 | 17. | Miniszterelnökség | Végrehajtás Operatív Program Plusz |  |  | 0 | 49,8 |  |  |
 
-2. melléklet az 1166/2022. (III. 21.) Korm. határozathoz
+2. melléklet az 1166/2022. (III. 21.) Korm. határozathoz[^4]
+
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

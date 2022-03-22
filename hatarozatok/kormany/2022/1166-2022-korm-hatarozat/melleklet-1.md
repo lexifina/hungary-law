@@ -136,80 +136,14 @@
 
 ## Határidő: 2022. szeptember 15.
 
-## 2. A 2014–2020 programozási időszakra vonatkozó indikatív támogatási keretösszegekről, valamint a kötelezettségvállalási szükségletről szóló 1207/2021. (IV. 29.) Korm. határozat [a továbbiakban: 1207/2021. (IV. 29.) Korm. határozat] a következő 9. ponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány)
+## 3.[^2]
 
-## „9. felhívja az agrárminisztert, hogy gondoskodjon a 2. mellékletben foglalt táblázat 19. sora szerinti kötelezettségvállalásról úgy, hogy az 1. mellékletben foglalt táblázat D:48. mezőjében meghatározott indikatív támogatási keretösszeg 100%-a felett teljesített kifizetések a 2023–2027 programozási időszak KAP Stratégiai Terv forrásai terhére elszámolhatók legyenek.
-
-## Felelős: agrárminiszter
-
-## Határidő: folyamatos”
-
-## 3. Az 1207/2021. (IV. 29.) Korm. határozat
-
-## a) 2. melléklete a 2. melléklet,
-
-## b) 3. melléklete a 3. melléklet
-
-## szerint módosul.
-
-## 4. Az 1207/2021. (IV. 29.) Korm. határozat
-
-## a) 1. mellékletében foglalt táblázat
-
-## aa) D:6a mezőjében a „72,0” szövegrész helyébe az „58,6” szöveg,
-
-## ab) D:6b mezőjében a „40,0” szövegrész helyébe a „39,9” szöveg,
-
-## ac) D:16a mezőjében a „100,0” szövegrész helyébe a „86,2” szöveg,
-
-## ad) D:16b mezőjében a „84,0” szövegrész helyébe a „78,6” szöveg,
-
-## ae) D:44a mezőjében a „98,0” szövegrész helyébe a „81,5” szöveg,
-
-## b) 2. mellékletében foglalt táblázat
-
-## ba) D:2 mezőjében a „111,27%” szövegrész helyébe a „112,85%” szöveg,
-
-## bb) E:2 mezőjében a „806,70” szövegrész helyébe a „818,06” szöveg,
-
-## bc) D:3 mezőjében a „120,02%” szövegrész helyébe a „120,65%” szöveg,
-
-## bd) E:3 mezőjében az „525,80” szövegrész helyébe az „512,44” szöveg,
-
-## be) D:5 mezőjében a „113,52%” szövegrész helyébe a „113,08%” szöveg,
-
-## bf) D:6 mezőjében a „112,43%” szövegrész helyébe a „110,52%” szöveg,
-
-## bg) D:14 mezőjében a „117,37%” szövegrész helyébe a „123,20%” szöveg,
-
-## bh) E:14 mezőjében az „1409,28” szövegrész helyébe az „1479,28” szöveg,
-
-## bi) D:15 mezőjében a „103,27%” szövegrész helyébe a „111,90%” szöveg,
-
-## bj) E:15 mezőjében a „136,66” szövegrész helyébe a „129,66” szöveg,
-
-## c) 3. mellékletében foglalt táblázat
-
-## ca) E:7 mezőjében a „72,00” szövegrész helyébe az „58,64” szöveg,
-
-## cb) D:8 mezőjében a „100,00%” szövegrész helyébe a „128,66%” szöveg,
-
-## cc) E:8 mezőjében a „40,00” szövegrész helyébe az „51,36” szöveg,
-
-## cd) D:19 mezőjében a „100,00%” szövegrész helyébe a „115,97%” szöveg,
-
-## ce) D:20 mezőjében a „100,00%” szövegrész helyébe a „106,83%” szöveg,
-
-## cf) D:45 mezőjében a „112,71%” szövegrész helyébe a „129,63%” szöveg,
-
-## cg) E:45 mezőjében a „466,40” szövegrész helyébe az „536,40” szöveg,
-
-## ch) D:49 mezőjében a „100,00%” szövegrész helyébe a „111,61%” szöveg,
-
-## ci) E:49 mezőjében a „98,00” szövegrész helyébe a „91,00” szöveg
-
-## lép.
+## 4.[^3]
 
 1. melléklet az 1166/2022. (III. 21.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
