@@ -1,0 +1,3 @@
+## 4. § Az Európai Támogatásokat Auditáló Főigazgatóságról szóló 210/2010. (VI. 30.) Korm. rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A helyszíni ellenőrzést annak megkezdése előtt legalább öt nappal megelőzően, szóban vagy írásban be kell jelenteni az ellenőrzött szervezet vezetőjének. Ennek keretében a vizsgálatvezető tájékoztatást ad az ellenőrzés céljáról és formájáról, a jogszabályi felhatalmazásról. Az előzetes bejelentést nem kell megtenni, ha az – a rendelkezésre álló adatok alapján – meghiúsíthatja az ellenőrzés eredményes lefolytatását. Az előzetes bejelentés elhagyásáról a vizsgálatvezető dönt.”
