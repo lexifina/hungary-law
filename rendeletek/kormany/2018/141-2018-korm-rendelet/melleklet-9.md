@@ -10,8 +10,6 @@
 
 | 512973392 | 659085,120 | 258349,810 |
 
-9. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^266]
+9. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^271]
 
-A 2. mellékletben foglalt táblázat B:78 mezőjében megjelölt helyrajzi számú telkek területén elhelyezkedő ingatlanrész területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
-
-[^266]: A 9. mellékletet a 16/2022. (I. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^271]: A 9. mellékletet a 16/2022. (I. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 112/2022. (III. 21.) Korm. rendelet 3. §-ával megállapított szöveg.

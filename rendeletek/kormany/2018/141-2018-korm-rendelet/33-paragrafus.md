@@ -1,4 +1,4 @@
-## 32. §[^142] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 44/2020. (III. 12.) Korm. rendelettel (a továbbiakban: Módr24.) megállapított 2. mellékletben foglalt táblázat 36. sorát a Módr24. hatálybalépésekor[^143] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 32. §[^145] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 44/2020. (III. 12.) Korm. rendelettel (a továbbiakban: Módr24.) megállapított 2. mellékletben foglalt táblázat 36. sorát a Módr24. hatálybalépésekor[^146] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^142]: A 32. §-t a 44/2020. (III. 12.) Korm. rendelet 1. §-a iktatta be.
-[^143]: A hatálybalépés időpontja 2020. március 13.
+[^145]: A 32. §-t a 44/2020. (III. 12.) Korm. rendelet 1. §-a iktatta be.
+[^146]: A hatálybalépés időpontja 2020. március 13.

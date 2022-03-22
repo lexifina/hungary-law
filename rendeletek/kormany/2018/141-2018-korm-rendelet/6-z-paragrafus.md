@@ -12,7 +12,7 @@ b) a beépítettség megengedett legnagyobb mértéke 50%,
 
 c) a zöldfelület megengedett legkisebb mértéke 20%,
 
-d) a megengedett legnagyobb építménymagasság 16 méter,
+d)[^95] a megengedett legnagyobb építménymagasság 25 méter,
 
 e) a kialakítható telek legkisebb területe 10000 m2,
 
@@ -34,7 +34,9 @@ i) a telek homlokvonalától mért 10 méteres sávban parkoló, a terepszint al
 
 (3) Az építési telekre vonatkozó beépítettség legnagyobb mértéke 60%-ra növelhető, amennyiben az adott építési telek területe meghaladja a 10 hektárt.
 
-(4) A megengedett legnagyobb építménymagasság értékétől magasabb építmények, a technológia igazolása mellett, a tájképvédelem szempontjait figyelembe véve – a települési főépítész állásfoglalása alapján –, legfeljebb 50 méter magasságig engedélyezhető, ha az építési telek legalább 10 hektár területű, az építési telek szélességi vagy mélységi mérete legalább 500 méter, és a maximális beépítettség a telekterület 10%-át nem haladja meg.
+(4)[^96] A megengedett legnagyobb építménymagasság a maximális beépíthetőségi mérték 50%-áig 50 méter.
+
+(4a)[^97] A beruházással érintett, 9. mellékletben meghatározott földrészletek esetében az építési engedély iránti kérelemhez mellékelni kell az Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt területről készített kitűzési vázrajzot, melyről leolvasható az Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt földrészlet területi nagysága és a földrészlet határára vonatkozó méretek (határvonalak hossza és elhelyezkedése). Az építésügyi hatóság az építési engedélyezési eljárás során a telek beépítési paramétereit az Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt terület tekintetében érvényesíti, ellenőrzi.
 
 (5) Építési telken belül, vízgazdálkodási területtel közös telekhatára mentén legalább egysoros fasor telepítendő, a partisáv terület biztosításának figyelembevételével. A telek kötelező minimális zöldfelületébe, annak 50%-áig számítható bele a nyílt felszínű záportározó és jóléti vízfelület, amennyiben a visszamaradó zöldfelület legalább 50%-a 3 szintes zöldfelületként van kialakítva.
 
@@ -46,3 +48,6 @@ i) a telek homlokvonalától mért 10 méteres sávban parkoló, a terepszint al
 
 [^93]: A 6/Z. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
 [^94]: A 6/Z. § (2) bekezdés nyitó szövegrésze a 47/2022. (II. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^95]: A 6/Z. § (2) bekezdés d) pontja a 112/2022. (III. 21.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^96]: A 6/Z. § (4) bekezdése a 112/2022. (III. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^97]: A 6/Z. § (4a) bekezdését a 112/2022. (III. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
