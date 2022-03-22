@@ -1,1 +1,1 @@
-35. § Az Abtv. 45. § (1) bekezdésében az „a hivatalos lapban” szövegrész helyébe az „a Magyar Közlönyben vagy az Alkotmánybíróság Határozatai hivatalos lapban – amennyiben ez utóbbi esetben történő közzétételre a Magyar Közlönyt megelőzően kerül sor –” szöveg lép.
+35. §

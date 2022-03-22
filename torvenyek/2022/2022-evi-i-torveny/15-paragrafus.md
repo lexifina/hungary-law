@@ -1,9 +1,1 @@
-15. § Az Eftv. 2. §-a helyébe a következő rendelkezés lép:
-
-„2. § (1) Az egyházi jogi személy a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet rendelkezéseinek megfelelően, elkülönítetten köteles nyilvántartani gazdasági-vállalkozási tevékenységének bevételeit, költségeit és ráfordításait, továbbá – ha az adományról a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezmény igénybevételére jogosító igazolást állít ki – a kapott adományt és annak felhasználását.
-
-(2) A jogi személyiséggel rendelkező vallási közösség, valamint a belső egyházi jogi személy a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) 19/B. § (2) bekezdése figyelembevételével a társasági adóról és az osztalékadóról szóló törvény szerinti adomány utáni kedvezmény igénybevételére jogosító igazolás kiállítására jogosult.
-
-(3) Az egyházi jogi személy a részére gazdasági-vállalkozási tevékenységnek nem minősülő tevékenységének támogatása érdekében a visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz vagy térítés nélkül nyújtott szolgáltatás alapján jogosult a (2) bekezdés szerinti igazolás kiadására.
-
-(4) Az (1) bekezdés szerinti adomány összegét és felhasználásának adatait a személyes adatok védelmét biztosító jogszabályok, valamint a közérdekű adatok nyilvánosságának szabályai szerint bárki megtekintheti és arról saját költségére másolatot készíthet.”
+15. §

@@ -1,5 +1,3 @@
 ## 16. Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény módosítása
 
-49. § Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény (a továbbiakban: Ápjt.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Európai Unió pénzügyi alapjaihoz, valamint a Magyarország Helyreállítási és Ellenállóképességi Tervéhez kapcsolódó támogatási kérelmek tartalmi értékelése (a továbbiakban: tartalmi értékelés), valamint az Európai Unió pénzügyi alapjai és a Magyarország Helyreállítási és Ellenállóképességi Terve által támogatott projektek megvalósításához kapcsolódó közbeszerzések ellenőrzése közfeladat. A támogatási kérelmek tartalmi értékelését és az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben, valamint a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott közbeszerzések műszaki szempontú ellenőrzését (a továbbiakban: közbeszerzési értékelés) az állami projektértékelői jogviszonyban állók látják el.”
+49. §
