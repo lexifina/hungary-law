@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1004-30
 | 2021-03-24 | 2016-1004-30-22.23 | 1134/2021. (III. 23.) Korm. határozat |
 | 2021-09-22 | 2016-1004-30-22.24 | 1200/2016. (IV. 15.) Korm. határozat |
 | 2021-12-01 | 2016-1004-30-22.25 | 1200/2016. (IV. 15.) Korm. határozat |
+| 2022-03-23 | 2016-1004-30-22.26 | 1200/2016. (IV. 15.) Korm. határozat |
