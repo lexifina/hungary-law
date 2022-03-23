@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:400 mezőjében a „0,36” szövegrész helyébe a „0,50” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1160/2022. (III. 21.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.1.0-15- 2016-00045 | Natura 2000 jelölő füves élőhelyek és a természetvédelmi céllal művelt szántók kezelése | Kiskunsági Nemzeti Park Igazgatóság | 360 532 124 | 138 150 848 | 498 682 972 | A projekt célja a támogatást igénylő vagyonkezelésében lévő száraz és nedves, Natura 2000 jelölőgyepek (1100 hektár), illetve a túzok mint közösségi jelentőségű faj élőhelyéül szolgáló, természetvédelmi céllal művelt szántók (975 ha) kezeléséhez – kaszálás, magyar szürke szarvasmarhával, bivallyal, illetve lóval történő legeltetés – szükséges eszközrendszer fejlesztése: korszerű erő- és munkagépek beszerzése. A projekt indikátora „A jobb védettségi állapot érdekében támogatott élőhelyek területe” célértéke: 2075 ha. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
