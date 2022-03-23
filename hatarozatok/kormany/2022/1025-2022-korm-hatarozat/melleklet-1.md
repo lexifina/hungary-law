@@ -16,6 +16,8 @@
 
 ## Határidő: a 3. pont szerinti forrás rendelkezésre állását követően azonnal
 
+## 4/A.[^1] úgy dönt, hogy a 3. pont szerinti támogatásból a DGÖKÖZMŰ-2 Gázellátás projektelemhez tartozó összeg Debrecen Megyei Jogú Város Önkormányzatának a Magyar Államkincstárnál vezetett fizetési számlájára folyósítható;
+
 ## 5. felhívja a pénzügyminisztert, hogy – a belügyminiszter bevonásával – a Beruházás 2021. évi tényleges költsége alapján a csapadékvíz-elvezetés projektelem előkészítése érdekében gondoskodjon mindösszesen 1 121 560 500 forint többletforrás – a lefolytatott feltételes közbeszerzési eljárások eredménye alapján 253 126 500 forint, valamint a közbeszerzési eljárással nem érintett projektelemek tekintetében 868 434 000 forint – biztosításáról a Kvtv. 1. melléklet IX. Helyi Önkormányzatok támogatásai fejezet javára;
 
 ## Felelős: pénzügyminiszter
@@ -121,3 +123,5 @@ A debreceni Déli Gazdasági Övezet infrastrukturális fejlesztéseinek indikat
 | 17. | DGÖKÖZMŰ-5/A | 2021. | Csapadékvíz-elvezetés |
 
 | 18. | DGÖKÖZMŰ-5/B | 2022–2024. | Csapadékvíz-elvezetés |
+
+[^1]: A 4/A. pontot az 1180/2022. (III. 23.) Korm. határozat 3. pontja iktatta be.
