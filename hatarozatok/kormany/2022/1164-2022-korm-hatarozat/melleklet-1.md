@@ -20,15 +20,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „252,10%-áig” szövegrész helyébe a „252,38%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „1262,228” szövegrész helyébe az „1263,647” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:60 mezőjében a „7,62” szövegrész helyébe a „9,05” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1164/2022. (III. 21.) Korm. határozathoz
 
@@ -41,3 +33,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban: 481/2021. (VIII. 13.) Korm. rendelet] 6. § (1) bekezdés a) pontja alapján (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA-ja a 481/2021. (VIII. 13.) Korm. rendelet 6. § (1) bekezdés f) pontja alapján (Ft) | Az EU felé el nem számolható költségek a 481/2021. (VIII. 13.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján (Ft) | Megtérülő projektköltségre jutó központi költségvetési forrás összege a 481/2021. (VIII. 13.) Korm. rendelet 6. § (1) bekezdés a) pontja alapján (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA-ja a 481/2021. (VIII. 13.) Korm. rendelet 6. § (1) bekezdés f) pontja alapján (Ft) | Az EU felé el nem számolható költségek a 481/2021. (VIII. 13.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján (Ft) | Megtérülő projektköltségre jutó központi költségvetési forrás összege a 481/2021. (VIII. 13.) Korm. rendelet 6. § (1) bekezdés a) pontja alapján (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA a 481/2021. (VIII. 13.) Korm. rendelet 6. § (1) bekezdés f) pontja alapján (Ft) | Az EU felé el nem számolható költségek a 481/2021. (VIII. 13.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján (Ft) |
 
 | 4. | IKOP- 2.1.0-15- 2016- 00026 | Új országos közforgalmú kikötő kiépítése Mohácson | Mohács Város Önkormányzata | 97,06 % | 7 614 732 925 | 0 | 0 | 0 | 0 | 1 425 639 712 | 0 | 0 | 0 | 97,06% | 9 040 372 637 | 0 | 0 | 0 | 9 314 666 935 | A Duna 1448+660– 1449+000 folyamkilométer- szelvények közötti szakaszán új kikötőterület kiépítése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
