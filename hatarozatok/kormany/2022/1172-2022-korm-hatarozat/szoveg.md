@@ -26,4 +26,6 @@ pénzügyminiszter
 
 Határidő: a 2023–2024. évi központi költségvetés tervezése során
 
-2. A Korm. határozat 6. pontjában a „jóváhagyási tervének,” szövegrész helyébe a „vázlattervének,” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
