@@ -1,3 +1,5 @@
-## 11. § Hatályát veszti az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 1. melléklet 8. pontja.
+## 10–11. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
