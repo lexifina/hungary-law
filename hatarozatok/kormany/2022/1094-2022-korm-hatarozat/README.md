@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1094-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-02-28 | 2022-1094-30-22.1 | 1094/2022. (II. 28.) Korm. határozat |
+| 2022-03-23 | 2022-1094-30-22.2 | 1180/2022. (III. 23.) Korm. határozat |
