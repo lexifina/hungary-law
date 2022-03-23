@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:46 mezőjében az „5,60” szövegrész helyébe az „5,71” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1163/2022. (III. 21.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó forint) | Többlettámogatás legfeljebb (bruttó forint) | Megnövelt támogatás legfeljebb (bruttó forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.3.0- 15-2015-00009 | Tiszalöki vízlépcső és hajózsilip rekonstrukciója | Országos Vízügyi Főigazgatóság | 5 597 819 213 | 105 270 001 | 5 703 089 214 | A projekttel szembeni szakmai elvárás a Tiszalöki vízlépcső kiemelt jelentőségű nagyműtárgy rekonstrukciója, amelynek révén a vízkészletekkel történő fenntartható gazdálkodás feltételei javulnak. A projekt indikátora: vízgazdálkodási fejlesztéssel érintett területek nagysága 200 000 hektár. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
