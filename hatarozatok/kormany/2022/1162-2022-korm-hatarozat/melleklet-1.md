@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:99e mezőjében a „0,30” szövegrész helyébe a „0,42” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1162/2022. (III. 21.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | A hatályos Környezeti és Energiahatékonysági Operatív Program éves fejlesztési kerete szerint a projekt indikatív támogatási kerete (Mrd Ft) | Többlettámogatás legfeljebb (Mrd Ft) | Megnövelt indikatív támogatási kerete (Mrd Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.6.0 | Logisztikai raktárcsarnok építése – II. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 0,30 | 0,12 | 0,42 | A projekttel szembeni szakmai elvárás a klímaváltozás vagy ipari katasztrófák miatt létrejövő katasztrófahelyzet esetén felmerülő logisztikai feladatok műveleti idejének csökkentése. Az új raktárcsarnok megépítésével és az eszközök rendezett tárolásával a rakodás gépesíthetővé válik, mellyel jelentősen csökken a rakodási idő, valamint gyorsabbá válik a logisztikai műveletek végrehajtása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
