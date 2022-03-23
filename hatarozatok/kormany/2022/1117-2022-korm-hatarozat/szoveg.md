@@ -4,15 +4,17 @@ A Kormány
 
 2. az 1. pont szerinti cél elérése érdekében
 
-a) felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a támogatási program részleteinek és feltételrendszerének kidolgozásáról és közzétételéről, az alábbiak szerint:
+a)[^1] felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon forgalomarányos támogatás (a továbbiakban: támogatás) nyújtásáról, az alábbiak szerint:
 
-aa) az 1. pont szerinti vállalkozásoknak nyújtott havi támogatás összege az üzemanyagárstoppal érintett üzemanyagok havi értékesítése után literenként 20 forintban kerüljön megállapításra,
+aa) a támogatás három hónapra, 2022. március, április és május hónapokra vehető igénybe,
 
-ab) a tárgyhónapban a támogatás alapjául elszámolt havi forgalom nem haladhatja meg az adott vállalkozás 2021. évi tárgyhavi forgalmának 120 százalékát,
+ab) a támogatás alapja a vállalkozás 2021. év március, április és május hónapokban összesen értékesített üzemanyag mennyiségének 80 százaléka,
 
-ac) ha az üzemanyagtöltő-állomás 2021. június 1-jét követően kezdte meg működését, az ab) alponttól eltérően a tárgyhónapban a támogatás alapjául elszámolt havi forgalom nem haladhatja meg a 2021. évi havi átlagforgalom 70 százalékát,
+ac) ha az üzemanyagtöltő-állomás 2021. március 1-jét követően kezdte meg működését, az ab) ponttól eltérően a támogatás alapja a 2021. évi havi átlag üzemanyag értékesítés 80 százalékának háromszorosa,
 
-ad) a támogatási program 3 hónapra, 2022. március, április és május hónapokra vonatkozzon;
+ad) a támogatás összege literenként 20 forintban kerüljön megállapításra, és
+
+ae) a támogatás előlegként, egy összegben kerüljön kifizetésre a vállalkozás által benyújtott kérelem alapján;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -25,3 +27,5 @@ c) felhívja a pénzügyminisztert, hogy a kisbenzinkutak támogatásának finan
 Felelős: pénzügyminiszter
 
 Határidő: azonnal
+
+[^1]: A 2. pont a) alpontja az 1177/2022. (III. 23.) Korm. határozattal megállapított szöveg.
