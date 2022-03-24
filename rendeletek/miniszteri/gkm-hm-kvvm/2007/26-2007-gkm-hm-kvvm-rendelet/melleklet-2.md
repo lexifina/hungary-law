@@ -36,7 +36,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^98]
+együttes rendelethez[^102]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -432,7 +432,7 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 4. Katonai körzetek
 
-## 1X09134N_3
+## 1X09258H_3
 
 |  | A | B | C |
 
@@ -740,7 +740,7 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
-## 1X09134N_4
+## 1X09258H_4
 
 |  | A | B | C | D |
 
@@ -992,13 +992,11 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 474718N | 0213722E |
 
-| 9. | Fertőszentmiklós TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
+| 9. | Nyíregyháza TIZ 1 10 km (5,4 NM) sugarú kör a 475856N 0214100E középpont körül | 9500’ (2900 m) AMSL/GND | A TIZ 2 légtérrel történő egyidejű működés nem engedélyezett. (ICAO G) Közzétett üzemidő szerint. |
 
-| 5 km (2,7 NM) sugarú kör a 473500N 0165040E középpont körül |
+| 10. | Nyíregyháza TIZ 2 | 9500’ (2900 m) AMSL/GND | A TIZ 1 légtérrel történő egyidejű működés nem engedélyezett. LHSDZLHNY légtérrel történő egyidejű működés nem engedélyezett. (ICAO G) Közzétett üzemidő szerint. |
 
-| 10. | Nyíregyháza TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
-
-| 10 km (5,4 NM) sugarú kör a 475856N 0214100E középpont körül |
+| 474718N 474559N 475748N 480443N 480930N 481220N 481319N 475800N 474630N 474718N | 0213722E 0213339E 0212210E 0212351E 0212630E 0213300E 0215025E 0215800E 0214600E 0213722E |
 
 | 11. | Pécs-Pogány TIZ | 9500’ (2900 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
@@ -1104,11 +1102,15 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 1. | Légtér azonosítója/Oldalhatárai | Felső/alsó határa | Megjegyzés |
 
-| 2. |  |  |  |
+| 2. | LHSA2A | 4500’ (1350 m) AMSL/ 1000’ (300 m) AGL | munkanapokon 09.00 óra (LT) és 18.00 óra (LT) között, pihenő- és munkaszüneti napokon 09.00 óra (LT) és 12.00 óra (LT) között, valamint 15.00 óra (LT) és 18.00 óra (LT) között lehet igénybe venni |
+
+|  | 471127N 471008N 471314N 471342N 471127N | 0184024E 0184207E 0184716E 0184410E 0184024E |
+
+| 3. | LHSA2B | 4500’ (1350 m) AMSL/1000’ (300 m) AGL | munkanapokon 09.00 óra (LT) és 18.00 óra (LT) között, pihenő- és munkaszüneti napokon 09.00 óra (LT) és 12.00 óra (LT) között, valamint 15.00 óra (LT) és 18.00 óra (LT) között lehet igénybe venni |
+
+|  | 470915N 470758N 471008N 471127N 470915N | 0183641E 0183822E 0184207E 0184024E 0183641E |
 
 3. Vitorlázó- és siklórepülések céljára kijelölt légterek
-
-## 1X09134N_6
 
 |  | A | B | C |
 
@@ -1454,7 +1456,29 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 472827N | 0182806E |
 
-| 4. Drop Zone légterek |
+| 24. | LHSG141 | Koordinált légtér 7500’ (2300 m) AMSL/ 5500’ (1700 m) AMSL | Kizárólag verseny keretében végrehajtott vitorlázó repülések számára. |
+
+| 471515N 465726N 465337N 470104N 471515N | 0184935E 0185421E 0190031E 0191155E 0184935E |
+
+| 25. | LHSG142/A | Koordinált légtér 5500’ (1700 m) AMSL/ 4000’ (1200 m) AMSL | Kizárólag verseny keretében végrehajtott vitorlázó repülések számára. Csak Kecskemét MTMA3/A-val együtt működhet. |
+
+| 470104N 465337N 464819N 464915N 470104N | 0191155E 0190031E 0192349E 0192935E 0191155E |
+
+| 26. | LHSG142/B | Koordinált légtér 7500’ (2300 m) AMSL/ 5500’ (1700 m) AMSL | Kizárólag verseny keretében végrehajtott vitorlázó repülések számára. |
+
+| 470104N 465337N 464819N 464915N 470104N | 0191155E 0190031E 0192349E 0192935E 0191155E |
+
+| 27. | LHSG143 | Koordinált légtér 7500’ (2300 m) AMSL/ 5500’ (1700 m) AMSL | Kizárólag verseny keretében végrehajtott vitorlázó repülések számára. Csak Kecskemét MTMA3/A-val együtt működhet. |
+
+| 465337N 463957N 464915N 464819N 465337N | 0190031E 0192213E 0192935E 0192349E 0190031E |
+
+| 28. | LHSG144 | Koordinált légtér 7500’ (2300 m) AMSL/ 4000’ (1200 m) AMSL | Kizárólag verseny keretében végrehajtott vitorlázó repülések számára. Csak Kecskemét MTMA2/A-val együtt működhet. |
+
+| 464915N 463957N 463633N 464915N | 0192935E 0192213E 0194834E 0192935E |
+
+4. Drop Zone légterek
+
+## 1X09258H_7
 
 |  | A | B | C |
 
@@ -1472,7 +1496,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 3,15 km (1,7 NM) sugarú kör a 472037N 0185909E középpont körül |
 
-| 5. | LHSDZLHNY/Nyíregyháza | FL155 (4700 m)/4000’ (1200 m) AMSL | Csak Nyíregyháza TIZ légtérrel együtt működhet. |
+| 5. | LHSDZLHNY/Nyíregyháza | FL155 (4700 m) /9500’ (2900 m) AMSL | Csak Nyíregyháza TIZ 1 légtérrel együtt működhet. Nyíregyháza TIZ 2 légtérrel történő egyidejű működés nem engedélyezett. |
 
 | 10 km (5,4 NM) sugarú kör a 475856N 0214100E középpont körül |
 
@@ -1768,8 +1792,16 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 465211N | 0164912E |
 
+| 12. | Nyíregyháza RMZ 1/ | 9500’ (2900 m) AMSL/GND | ICAO G H24 Az AIP-ben közzétett AFIS frekvencia használandó |
+
+| 10 km (5,4 NM) sugarú kör a 475856N 0214100E középpont körül |
+
+| 13. | Nyíregyháza RMZ 2/ | 9500’ (2900 m) AMSL/GND | ICAO G H24 Az AIP-ben közzétett AFIS frekvencia használandó |
+
+| 474718N 474559N 475748N 480443N 480930N 481220N 481319N 475800N 474630N 474718N | 0213722E 0213339E 0212210E 0212351E 0212630E 0213300E 0215025E 0215800E 0214600E 0213722E |
+
 IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^98]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 5. §-a szerint módosított szöveg.
+[^102]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.

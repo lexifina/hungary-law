@@ -1,4 +1,4 @@
-## 1X09134N_8
+## 1X09258H_9
 
 |  | A | B | C | D |
 
@@ -494,7 +494,7 @@
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^99]
+együttes rendelethez[^103]
 
 TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
@@ -554,7 +554,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 4. | LHR4 | Zalaegerszeg1 km sugarú kör a 464816N 0163720E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára azon pilóta nélküli légijárművek kivételével, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
 
-| 5. | LHR6 | Százhalombatta2 km sugarú kör a 471702N 0185358E középpont körül | 7500’ (2300 m) AMSL/GND | a 250 kt-nál (IAS) kisebb sebességű légijárművek számára a Budapest Liszt Ferenc Nemzetközi Repülőtérről induló és oda érkező légijárművek kivételével, valamint ide nem értve azon pilóta nélküli légijárműveket, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
+| 5. | LHR6 | Százhalombatta I.2 km sugarú kör a 471702N 0185358E középpont körül | 7500’ (2300 m) AMSL/GND | a 250 kt-nál (IAS) kisebb sebességű légijárművek számára a Budapest Liszt Ferenc Nemzetközi Repülőtérről induló és oda érkező légijárművek kivételével, valamint ide nem értve azon pilóta nélküli légijárműveket, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
 
 | 6. | LHR8 | Kazincbarcika 2,5 km sugarú kör a 481429N 0203956E középpont körül | 3500’ (1050 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára azon pilóta nélküli légijárművek kivételével, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
 
@@ -595,6 +595,8 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 | 19. | LHR37 | Zsana2,5 km sugarú kör a 462525N 0194200E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára azon pilóta nélküli légijárművek kivételével, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
 
 | 20. | LHR38 | Kardoskút4,5 km sugarú kör a 462854N 0204423E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára azon pilóta nélküli légijárművek kivételével, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
+
+| 21. | LHR39 | Százhalombatta II. 1200 m sugarú kör a 471942N 0185439E középpont körül | 1500’ (500m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára, azon pilóta nélküli légijárművek kivételével, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
 
 3. Környezetvédelmi szempontból korlátozott légterek
 
@@ -1306,4 +1308,4 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 10. | BACS NDZ | Bácsbokod No Drone Zone 2 km sugarú kör a 460630N 0190926E középpont körül | 2500’ (750 m) AMSL/GND |
 
-[^99]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 7. §-a szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
+[^103]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 6–7. §-a szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
