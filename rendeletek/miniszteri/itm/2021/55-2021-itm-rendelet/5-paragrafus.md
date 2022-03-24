@@ -1,3 +1,1 @@
-## 4. §[^4]
-
-[^4]: A 4. § a 42. § (2) bekezdése alapján 2022. március 24-én lép hatályba.
+## 4. § Az R1. 2. melléklete a 2. melléklet szerint módosul.

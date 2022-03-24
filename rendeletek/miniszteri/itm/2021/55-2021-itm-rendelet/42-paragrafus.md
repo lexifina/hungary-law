@@ -1,4 +1,4 @@
-## 41. §[^41]
+## 41. §[^37]
 
 ## 8. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. §, a 2. §, a 4. §, a 6. §, a 2. melléklet és a 4. melléklet 2022. március 24-én lép hatályba.
 
-[^41]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
