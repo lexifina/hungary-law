@@ -1,3 +1,3 @@
-2. melléklet az 55/2021. (XI. 5.) ITM rendelethez[^39]
+2. melléklet az 55/2021. (XI. 5.) ITM rendelethez[^44]
 
-[^39]: A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
+[^44]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

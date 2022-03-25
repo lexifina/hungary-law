@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-55-20-7
 | 2021-11-10 | 2021-55-20-7Q.1 | 55/2021. (XI. 5.) ITM rendelet |
 | 2021-11-11 | 2021-55-20-7Q.2 | 2010: CXXX. törvény |
 | 2022-03-24 | 2021-55-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-03-25 | 2021-55-20-7Q.4 | 2010: CXXX. törvény |
