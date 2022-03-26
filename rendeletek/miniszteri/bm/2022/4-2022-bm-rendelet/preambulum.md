@@ -1,0 +1,21 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (3) bekezdés a) pontjában, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 13. pont b) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 2., 8., 19. és 20. pontjában meghatározott feladatkörömben eljárva,
+
+a 2. alcím tekintetében a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 21. pontjában meghatározott feladatkörömben eljárva,
+
+a 3. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 20. pontjában meghatározott feladatkörömben eljárva – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (2) bekezdésében biztosított véleményezési jogkörében eljáró Országgyűlés elnöke véleményének kikérésével –,
+
+a 4. alcím tekintetében a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 434. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 2., 20. és 21. pontjában meghatározott feladatkörömben eljárva – a legfőbb ügyész véleményének kikérésével –,
+
+az 5. alcím, valamint az 1. melléklet tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 2. pont a) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 20. pontjában meghatározott feladatkörömben eljárva,
+
+a 6. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 6. pont a) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 2., 8. és 20. pontjában meghatározott feladatkörömben eljárva,
+
+a 7. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 21. pont a) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 2., 8., 19. és 20. pontjában meghatározott feladatkörömben eljárva,
+
+a 8. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 342/A. § (1) bekezdés n) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 2., 8., 19. és 20. pontjában meghatározott feladatkörömben eljárva,
+
+a 9. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 13. pont a) alpontjában, valamint 341. § (1) bekezdés 27. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 2., 8. és 20. pontjában meghatározott feladatkörömben eljárva,
+
+a 10. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 342/D. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 2., 8., 19. és 20. pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:

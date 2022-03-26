@@ -1,0 +1,1 @@
+## 1. A belügyminiszter irányítása alá tartozó rendvédelmi szervek munkavédelmi feladatai, valamint foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 70/2011. (XII. 30.) BM rendelet módosítása
