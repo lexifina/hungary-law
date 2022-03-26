@@ -72,7 +72,7 @@
 
 ## 1.4.2. Felsőfokú rendészeti szakképzettség
 
-## 1.4.2.1. Rendészeti felsőoktatásban szerzett szakképzettség (Rendőrtiszti Főiskola vagy NKE bűnügyi igazgatási szakon, rendészeti igazgatási szak határrendész, igazgatásrendészeti, közlekedésrendészeti vagy közrendvédelmi szakirányon, rendészeti szakon bevándorlási rendőrtiszt szakirányon, nemzetbiztonsági alapképzési szakon),
+## 1.4.2.1. Rendészeti felsőoktatásban szerzett szakképzettség (Rendőrtiszti Főiskola vagy NKE bűnügyi igazgatási szakon, rendészeti igazgatási szak határrendész, igazgatásrendészeti, közlekedésrendészeti vagy közrendvédelmi szakirányon, rendészeti szakon bevándorlási rendőrtiszt szakirányon, polgári nemzetbiztonsági alapképzési szakon),
 
 ## 1.4.2.2. Rendészeti szervező szakirányú továbbképzési szak.
 
@@ -178,7 +178,7 @@
 
 ## 2.4.1.3. Felsőfokú rendészeti szakképzettség:
 
-## 2.4.1.3.1. Rendészeti felsőoktatásban szerzett szakképzettség (Rendőrtiszti Főiskola vagy NKE bűnügyi igazgatási szakon, rendészeti igazgatási szak határrendész, igazgatásrendészeti, közlekedésrendészeti vagy közrendvédelmi szakirányon, rendészeti szakon bevándorlási rendőrtiszt szakirányon, nemzetbiztonsági alapképzési szakon),
+## 2.4.1.3.1. Rendészeti felsőoktatásban szerzett szakképzettség (Rendőrtiszti Főiskola vagy NKE bűnügyi igazgatási szakon, rendészeti igazgatási szak határrendész, igazgatásrendészeti, közlekedésrendészeti vagy közrendvédelmi szakirányon, rendészeti szakon bevándorlási rendőrtiszt szakirányon, polgári nemzetbiztonsági alapképzési szakon),
 
 ## 2.4.1.3.2. Rendészeti szervező szakirányú továbbképzési szak.
 
