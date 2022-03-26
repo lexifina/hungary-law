@@ -1,3 +1,3 @@
-## 117. §[^8]
+## 117. §[^18]
 
-[^8]: A 117. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 117. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

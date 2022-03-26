@@ -4,7 +4,7 @@
 
 76. § (1) A soron kívüli alkalmasságvizsgálatot az állományilletékes parancsnok – a szolgálati elöljáró, a rendvédelmi alapellátó orvos, a rendvédelmi alapellátó pszichológus vagy a sportszakember javaslatára – rendeli el írásban. A soron kívüli alkalmasságvizsgálat elrendelésére abban az esetben kerül sor, ha kétség merül fel a hivatásos állomány tagjának egészségi, pszichológiai vagy fizikai alkalmasságával kapcsolatban.
 
-(2)[^1] Az állományilletékes parancsnok
+(2)[^4] Az állományilletékes parancsnok
 
 a) alkalmasságot befolyásoló körülmény észlelése esetén elrendelheti egyes alkalmasságvizsgálati kategóriákba tartozó szolgálati beosztásokat betöltők soron kívüli alkalmasságvizsgálatát, vagy egyes alkalmasságvizsgálatok hivatásos állomány egészére vagy meghatározott részére történő soron kívüli elvégzését,
 
@@ -20,4 +20,4 @@ c) soron kívüli egészségi alkalmasságvizsgálatot rendel el kilencven nap e
 
 (6) A soron kívüli alkalmasságvizsgálat a szolgálatképtelenség időtartama alatt is elvégezhető abban az esetben, ha a hivatásos állomány tagja vizsgálható állapotban van, függetlenül attól, hogy szolgálati feladatot aktuálisan nem lát el. Ebben az esetben a soron kívüli alkalmasságvizsgálat minősítése során a vizsgáló orvos azt figyelembe véve alkot véleményt, hogy a hivatásos állomány tagja aktuális, a szolgálatképtelenségére okot adó betegségének, betegségeinek a jellemző gyógyulási időtartamát követően feltételezhetően visszanyeri-e az egészségi alkalmasságát.
 
-[^1]: A 76. § (2) bekezdés nyitó szövegrésze a 20/2021. (VII. 14.) BM rendelet 33. §-ával megállapított szöveg.
+[^4]: A 76. § (2) bekezdés nyitó szövegrésze a 20/2021. (VII. 14.) BM rendelet 33. §-ával megállapított szöveg.

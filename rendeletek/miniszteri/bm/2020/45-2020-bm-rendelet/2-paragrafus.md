@@ -42,6 +42,8 @@ c) a vezetőikompetencia-vizsgálat,
 
 13. rendvédelmi alapellátó pszichológus: a vizsgált személy elsőfokú pszichológiai alkalmasságvizsgálatának elvégzésére jogosult pszichológus,
 
+13a.[^2] rendvédelmi oktatási intézmény: a Hszt. 2. § 22. pontjában meghatározott intézmény,
+
 14. rendvédelmi szerv: a miniszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerv,
 
 15. rendvédelmi szerv vezetője: a rendvédelmi szerv országos főigazgatója és országos parancsnoka,
@@ -49,3 +51,5 @@ c) a vezetőikompetencia-vizsgálat,
 16. sportszakember: a rendvédelmi szervnek a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló kormányrendelet szerinti, egészségmegőrző és sportfoglalkozások, edzésprogramok vezetésére jogosító képesítéssel rendelkező, vagy fizikai alkalmasság felmérésében legalább kétéves sportszakmai tapasztalattal rendelkező foglalkoztatottja,
 
 17. személyügyi szerv: az állományilletékes parancsnok vagy a munkáltatói intézkedés meghozatalára javaslattételi, kezdeményezési vagy kinevezési joggal rendelkező parancsnok vagy vezető alárendeltségében működő, annak munkáltatói döntéseit előkészítő, nyilvántartó és rendszerező szervezeti elem, amelynek vezetője felelős az e rendeletben szabályozott munkáltatói intézkedéseket megalapozó eljárások jogszerűségéért, valamint a munkáltatói intézkedések szakszerű előkészítéséért.
+
+[^2]: A 2. § 13a. pontját a 4/2022. (III. 25.) BM rendelet 22. §-a iktatta be.
