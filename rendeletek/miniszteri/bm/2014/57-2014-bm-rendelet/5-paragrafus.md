@@ -16,7 +16,7 @@ d) azt a pénzbírság, helyszíni bírság megfizetésének módjait és az egy
 
 e) a szabálysértési hatóság részéről eljáró személy aláírását és az eljáró szabálysértési hatóság körbélyegzőjének lenyomatát.
 
-(4)[^10] A közérdekű munka átváltoztatása esetét kivéve a felhíváshoz kitöltött készpénz-átutalási megbízást (a továbbiakban: csekkszelvény) kell mellékelni. A csekkszelvény tartalmazza
+(4)[^10] A közérdekű munka átváltoztatása, valamint az elektronikus és a hirdetményi kézbesítés esetét kivéve a felhíváshoz kitöltött készpénz-átutalási megbízást (a továbbiakban: csekkszelvény) kell mellékelni. A csekkszelvény tartalmazza
 
 a) a pénzbírságot kiszabó határozat vagy a helyszíni bírságoláshoz használt nyomtatvány egyedi azonosítására alkalmas ügyszámát vagy sorszámát,
 
@@ -32,5 +32,5 @@ d) a pénzbírság, helyszíni bírság összegét.
 
 [^8]: Az 5. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 27. § 2. pontja szerint módosított szöveg.
 [^9]: Az 5. § (3) bekezdés c) pontja a 81/2015. (XII. 23.) BM rendelet 23. §-ával megállapított szöveg.
-[^10]: Az 5. § (4) bekezdése a 60/2016. (XII. 29.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (4) bekezdése a 60/2016. (XII. 29.) BM rendelet 14. § (1) bekezdésével megállapított, nyitó szövegrésze a 4/2022. (III. 25.) BM rendelet 10. §-a szerint módosított szöveg.
 [^11]: Az 5. § (4a) bekezdését a 60/2016. (XII. 29.) BM rendelet 14. § (2) bekezdése iktatta be, szövege a 11/2017. (VI. 2.) BM rendelet 4. § b) pontja, a 21/2017. (VIII. 23.) BM rendelet 6. §-a szerint módosított szöveg.
