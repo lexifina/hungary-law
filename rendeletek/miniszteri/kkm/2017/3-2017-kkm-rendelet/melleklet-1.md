@@ -74,7 +74,7 @@
 
 | 33. | Kairó | 443 080 Ft | 30% | 150% | 25% | 95% |
 
-| 34. | Kijev | 427 680 Ft | 45% | 217% | 24% | 166% |
+| 34. | Kijev | 427 680 Ft | 70% | 217% | 24% | 166% |
 
 | 35. | Kisinyov | 428 120 Ft | 20% | 131% | 25% | 86% |
 
@@ -210,7 +210,7 @@
 
 | 99. | Barcelona | 437 800 Ft | 0% | 151% | 24% | 128% |
 
-| 100. | Beregszász | 427 680 Ft | 30% | 85% | 24% | 116% |
+| 100. | Beregszász | 427 680 Ft | 55% | 85% | 24% | 116% |
 
 | 101. | Chicago | 478 720 Ft | 5% | 181% | 28% | 189% |
 
@@ -274,7 +274,7 @@
 
 | 131. | Toronto | 478 720 Ft | 10% | 174% | 36% | 107% |
 
-| 132. | Ungvár | 427 680 Ft | 30% | 85% | 24% | 116% |
+| 132. | Ungvár | 427 680 Ft | 55% | 85% | 24% | 116% |
 
 | Nem önálló képviselet |
 
@@ -342,4 +342,4 @@
 
 | 164. | Xiamen | 496 320 Ft | 5% | 250% | 34% | 185% |
 
-[^1]: Az 1. melléklet a 32/2021. (X. 6.) KKM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. melléklet a 32/2021. (X. 6.) KKM rendelet 1. §-ával megállapított, a 4/2022. (III. 25.) KKM rendelet 1. §-a szerint módosított szöveg.
