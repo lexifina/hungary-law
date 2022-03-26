@@ -70,7 +70,7 @@
 
 ## 13.14. javasolt feladatok a baleseti helyzet javítására
 
-3/A. melléklet a 70/2011. (XII. 30.) BM rendelethez[^67]
+3/A. melléklet a 70/2011. (XII. 30.) BM rendelethez[^73]
 
 ## Szempontrendszer az éves foglalkozás-egészségügyi szöveges formátumú helyzetértékeléshez
 
@@ -90,4 +90,4 @@
 
 8. A szolgáltató személyi feltételei
 
-[^67]: A 3/A. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés a) pontja iktatta be.
+[^73]: A 3/A. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés a) pontja iktatta be.

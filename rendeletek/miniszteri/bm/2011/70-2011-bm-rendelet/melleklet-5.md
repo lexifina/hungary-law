@@ -1,4 +1,4 @@
-5. melléklet a 70/2011. (XII. 30.) BM rendelethez[^68]
+5. melléklet a 70/2011. (XII. 30.) BM rendelethez[^74]
 
 ## Munkavédelmi vizsga igazolása
 
@@ -26,4 +26,4 @@
 
 12. A vizsgabizottság elnökének, és a vizsgabizottság tagjainak aláírása
 
-[^68]: Az 5. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés b) pontjával megállapított szöveg.
+[^74]: Az 5. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés b) pontjával megállapított szöveg.
