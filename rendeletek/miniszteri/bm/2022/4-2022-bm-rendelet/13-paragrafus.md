@@ -1,5 +1,6 @@
-## 12. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet 9. melléklet 1.4.2.1. és 2.4.1.3.1. pontjában a „szakirányon, nemzetbiztonsági” szövegrész helyébe a „szakirányon, polgári nemzetbiztonsági” szöveg lép.
+## 12. §[^10]
 
-## 6.[^2]
+## 6.[^11]
 
-[^2]: A 6. alcím (13–15. §) a 28. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+[^10]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. alcím (13–15. §) a 28. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.

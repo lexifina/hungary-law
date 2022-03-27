@@ -1,3 +1,3 @@
-## 21. § A belügyminiszter irányítása alatt álló egyes rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos állomány és rendvédelmi igazgatási alkalmazotti állomány alkalmasságvizsgálatáról szóló 45/2020. (XII. 16.) BM rendelet 1. §-a a következő (2a) bekezdéssel egészül ki:
+## 21. §[^16]
 
-## „(2a) A III/A. Fejezet hatálya a rendvédelmi oktatási intézményre, a rendvédelmi oktatási intézmény tanulójára, valamint a Hszt. 1. § (1) bekezdés a)–f) pontja szerinti, a miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szervre és ezen rendvédelmi feladatokat ellátó szerv tisztjelöltjére terjed ki.”
+[^16]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
