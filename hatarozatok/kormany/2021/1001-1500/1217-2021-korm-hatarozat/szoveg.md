@@ -10,6 +10,12 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a felmerülés ütemében
 
+2a.[^1] felhívja az innovációért és technológiáért felelős minisztert, hogy a 2. pont szerinti feladat ellátásának érdekében, attól eltérően, Ózd város iparterületén, vállalkozások betelepülésének előmozdításához szükséges infrastruktúra kialakítása érdekében gondoskodjon – tervezés, engedélyeztetés, kivitelezés céljából – a pénzügyminiszter által a 2021. évben a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 2. Gazdaságfejlesztési programok jogcímen biztosított 650 000 000 forint felhasználásáról;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2022. május 31.
+
 3. felhívja az innovációért és technológiáért felelős minisztert, hogy a külgazdasági és külügyminiszter bevonásával vizsgálja meg a betelepülő vállalkozások támogatási lehetőségeit a felelősségi körükbe tartozó támogatási programok vonatkozásában.
 
 Felelős: innovációért és technológiáért felelős miniszter
@@ -17,3 +23,5 @@ Felelős: innovációért és technológiáért felelős miniszter
 külgazdasági és külügyminiszter
 
 Határidő: 2021. április 30.
+
+[^1]: A 2a. pontot az 1202/2022. (III. 28.) Korm. határozat iktatta be.
