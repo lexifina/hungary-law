@@ -6,7 +6,7 @@ b) figyelembe véve az új külpolitikai stratégiai célokat és kihívásokat,
 
 c) egyetért az ösztöndíjprogram 2020. évi 33 500 000 000 forintos költségvetési maximumával, és a 2020. évre vonatkozó ösztöndíjas létszám legfeljebb 13 000 főben történő meghatározásával,
 
-d) egyetért az ösztöndíjprogram 2021. évtől kezdődően évente 40 000 000 000 forintos költségvetési maximumával, és a 2021. évtől kezdődően az évi ösztöndíjas létszám legfeljebb 15 000 főben történő meghatározásával,
+d)[^1] egyetért az ösztöndíjprogram 2021. évre 40 000 000 000 forintos költségvetési maximumával és a 2021. évre az ösztöndíjas létszám legfeljebb 15 000 főben történő meghatározásával, valamint a 2022. évtől kezdődően évente 43 900 000 000 forintos költségvetési maximumával és a 2022. évtől kezdődően az évi ösztöndíjas létszám legfeljebb 16 000 főben történő meghatározásával,
 
 e) felhívja a pénzügyminisztert, hogy a 2021. évi központi költségvetés tervezése során az ösztöndíjprogram megvalósítása érdekében gondoskodjon további 6 500 000 000 forint forrás beépülő jellegű biztosításáról a XVIII. Külgazdasági és Külügyminisztérium fejezet javára;
 
@@ -16,9 +16,10 @@ külgazdasági és külügyminiszter
 
 Határidő: a 2021. évi központi költségvetés tervezése során
 
-2.[^1]
+2.[^2]
 
-3.[^2]
+3.[^3]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja az 1186/2022. (III. 28.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
