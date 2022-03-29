@@ -18,8 +18,6 @@ külgazdasági és külügyminiszter
 
 Határidő: az adott évi központi költségvetés tervezése során
 
-2. A Stipendium Hungaricum ösztöndíjprogram stratégiai összefüggéseiről szóló 1793/2019. (XII. 23.) Korm. határozat 1. pont d) alpontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
-
-„d) egyetért az ösztöndíjprogram 2021. évre 40 000 000 000 forintos költségvetési maximumával és a 2021. évre az ösztöndíjas létszám legfeljebb 15 000 főben történő meghatározásával, valamint a 2022. évtől kezdődően évente 43 900 000 000 forintos költségvetési maximumával és a 2022. évtől kezdődően az évi ösztöndíjas létszám legfeljebb 16 000 főben történő meghatározásával,”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
