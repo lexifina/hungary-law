@@ -1,4 +1,4 @@
-39/A. §[^57] (1) A 39. § (4) bekezdésétől eltérően a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség elszámolható költség, ha a beruházás
+39/A. §[^63] (1) A 39. § (4) bekezdésétől eltérően a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség elszámolható költség, ha a beruházás
 
 a) lakóépületben valósul meg,
 
@@ -20,4 +20,4 @@ b) az épületet használók elektromos gépjárműveinek feltöltésére szolg�
 
 c) az épület digitalizációját – elsősorban az épület okosfunkció-fogadási alkalmasságának növelését – célzó beruházások költségeivel, így különösen adathálózatok esetén az épületen vagy az épülethez tartozó telken belül a passzív hálózat vagy a strukturált kábelezés költségeivel.
 
-[^57]: A 39/A. §-t a 19/2021. (XII. 28.) PM rendelet 5. §-a iktatta be.
+[^63]: A 39/A. §-t a 19/2021. (XII. 28.) PM rendelet 5. §-a iktatta be.

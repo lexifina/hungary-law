@@ -22,7 +22,7 @@
 
 11.[^13] a 2. mellékletben foglalt táblázat F:4. mező 1., 5., 6. és 7. pontja alapján a 651/2014/EU bizottsági rendelet 28. cikke szerinti kis- és középvállalkozásnak nyújtott innovációs támogatás,
 
-12.[^14] a 2. mellékletben foglalt táblázat F:4. mező 1., 5., 6. és 7. pontja alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás,
+12.[^14] az 1. mellékletben foglalt táblázat F:4 mező 3. és 4. pontja, a 2. mellékletben foglalt táblázat F:4 mező 1., 5., 6. és 7. pontja alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás,
 
 13.[^15] a 2. mellékletben foglalt táblázat F:4. mező 1., 5., 6. és 7. pontja alapján a 651/2014/EU bizottsági rendelet 32. cikke szerinti hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás,
 
@@ -56,7 +56,7 @@
 [^11]: A 3. § (1) bekezdés 9. pontja a 8/2021. (VII. 30.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^12]: A 3. § (1) bekezdés 10. pontja a 8/2021. (VII. 30.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^13]: A 3. § (1) bekezdés 11. pontja a 8/2021. (VII. 30.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^14]: A 3. § (1) bekezdés 12. pontja a 8/2021. (VII. 30.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^14]: A 3. § (1) bekezdés 12. pontja a 2/2022. (III. 28.) PM rendelet 1. §-ával megállapított szöveg.
 [^15]: A 3. § (1) bekezdés 13. pontja a 8/2021. (VII. 30.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^16]: A 3. § (1) bekezdés 14. pontja a 8/2021. (VII. 30.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^17]: A 3. § (1) bekezdés 15. pontja a 8/2021. (VII. 30.) PM rendelet 1. § (3) bekezdésével megállapított szöveg.

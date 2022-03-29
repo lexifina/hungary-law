@@ -2,13 +2,13 @@
 
 40. § (1) Az épület-energiahatékonysági projektre irányuló beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az épület- vagy lakástulajdonosok, továbbá a bérlők (ezen alcím vonatkozásában a továbbiakban: kedvezményezett) épület-energiahatékonysági projektjeire kölcsön vagy kezességvállalás formájában nyújtható.
 
-(2)[^59] A támogatás energiahatékonysági alapon vagy más pénzügyi közvetítőn keresztül nyújtható, amely köteles azt továbbadni a kedvezményezetteknek nagyobb finanszírozási volumen, enyhébb biztosítéki követelmények, alacsonyabb kezességi díjak vagy alacsonyabb kamat formájában.
+(2)[^65] A támogatás energiahatékonysági alapon vagy más pénzügyi közvetítőn keresztül nyújtható, amely köteles azt továbbadni a kedvezményezetteknek nagyobb finanszírozási volumen, enyhébb biztosítéki követelmények, alacsonyabb kezességi díjak vagy alacsonyabb kamat formájában.
 
 (3) A támogatás keretében az épület-energiahatékonysági projekt teljes költsége elszámolható.
 
-(3a)[^60] A 39/A. § (1) bekezdése szerinti épületeket érintő épület-energiahatékonysági projekt megvalósulása esetén az elszámolható költségek a 39/A. § (4) bekezdése szerinti beruházások költségével növelhetők.
+(3a)[^66] A 39/A. § (1) bekezdése szerinti épületeket érintő épület-energiahatékonysági projekt megvalósulása esetén az elszámolható költségek a 39/A. § (4) bekezdése szerinti beruházások költségével növelhetők.
 
-(4)[^61] A kedvezményezett szintjén a kölcsön névértéke vagy a kezességvállalással biztosított összeg nem haladhatja meg projektenként
+(4)[^67] A kedvezményezett szintjén a kölcsön névértéke vagy a kezességvállalással biztosított összeg nem haladhatja meg projektenként
 
 a) a (3) bekezdés szerinti esetben a 15 millió eurónak,
 
@@ -20,6 +20,6 @@ b) a (3a) bekezdés szerinti esetben a 30 millió eurónak
 
 (6) Nem nyújtható támogatás már elfogadott, de még nem hatályos európai uniós szabványnak való megfelelés érdekében megvalósított beruházáshoz.
 
-[^59]: A 40. § (2) bekezdése a 19/2021. (XII. 28.) PM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^60]: A 40. § (3a) bekezdését a 19/2021. (XII. 28.) PM rendelet 6. § (2) bekezdése iktatta be.
-[^61]: A 40. § (4) bekezdése a 19/2021. (XII. 28.) PM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^65]: A 40. § (2) bekezdése a 19/2021. (XII. 28.) PM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^66]: A 40. § (3a) bekezdését a 19/2021. (XII. 28.) PM rendelet 6. § (2) bekezdése iktatta be.
+[^67]: A 40. § (4) bekezdése a 19/2021. (XII. 28.) PM rendelet 6. § (2) bekezdésével megállapított szöveg.
