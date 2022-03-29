@@ -1,3 +1,3 @@
-96. §[^273]
+96. §[^274]
 
-[^273]: A 96. §-t a 83/2013. (XII. 29.) EMMI rendelet 19. § a) pontja hatályon kívül helyezte.
+[^274]: A 96. §-t a 83/2013. (XII. 29.) EMMI rendelet 19. § a) pontja hatályon kívül helyezte.

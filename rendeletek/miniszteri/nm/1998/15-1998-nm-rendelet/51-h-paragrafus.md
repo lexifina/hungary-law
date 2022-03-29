@@ -4,11 +4,11 @@
 
 (3) Ha a családi bölcsődében a szolgáltatást nyújtó személy az életvitelszerű tartózkodására szolgáló lakásban nyújtja az ellátást, az ellátás megkezdésekor, azt követően pedig évente háziorvosi igazolással igazolja, hogy a vele közös háztartásban élő személy egészségi állapota nem veszélyezteti az ellátandó gyermekeket.
 
-(4)[^151] A családi bölcsődében a szolgáltatást nyújtó személynek háromévente legalább egy alkalommal részt kell vennie a bölcsődei módszertani szervezet által kijelölt szervezet által tartott
+(4)[^152] A családi bölcsődében a szolgáltatást nyújtó személynek háromévente legalább egy alkalommal részt kell vennie a bölcsődei módszertani szervezet által kijelölt szervezet által tartott
 
 a) szakmai továbbképzésen, vagy
 
-b)[^152] sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket is ellátó családi bölcsőde esetén speciális szakmai továbbképzésen.
+b)[^153] sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket is ellátó családi bölcsőde esetén speciális szakmai továbbképzésen.
 
-[^151]: Az 51/H. § (4) bekezdés nyitó szövegrésze a 43/2016. (XII. 27.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
-[^152]: Az 51/H. § (4) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^152]: Az 51/H. § (4) bekezdés nyitó szövegrésze a 43/2016. (XII. 27.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^153]: Az 51/H. § (4) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.

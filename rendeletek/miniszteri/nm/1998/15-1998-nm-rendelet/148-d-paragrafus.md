@@ -1,3 +1,3 @@
-## A nyílt örökbefogadás elősegítésére és utánkövetésére, valamint az adatkezelésre vonatkozó rendelkezések[^542]
+## A nyílt örökbefogadás elősegítésére és utánkövetésére, valamint az adatkezelésre vonatkozó rendelkezések[^543]
 
-[^542]: A 148/D. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 31. §-a iktatta be.
+[^543]: A 148/D. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 31. §-a iktatta be.

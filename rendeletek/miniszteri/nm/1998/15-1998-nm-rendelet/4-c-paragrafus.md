@@ -1,4 +1,4 @@
-## 4/B. §[^61] A Családbarát Ország Nonprofit Közhasznú Kft. közreműködik a koragyermekkori intervenció ágazatközi fejlesztés keretében történő rendszerszintű fejlesztésével kapcsolatos feladatok ellátásának koordinálásában.
+## 4/B. §[^61] A Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság közreműködik a koragyermekkori intervenció ágazatközi fejlesztés keretében történő rendszerszintű fejlesztésével kapcsolatos feladatok ellátásának koordinálásában.
 
 4/C. §[^62] (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységnek a következő, a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alkalmazása során nem ágazatinak minősülő feltételeknek is meg kell felelnie:
 
@@ -46,5 +46,5 @@ c) amelyben korábban is szolgáltató, intézmény működött, a korábbi enge
 
 (7) A tűzvédelmi feltételek vizsgálatát az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szabályozza.
 
-[^61]: A 4/B. §-t a 21/2016. (VIII. 24.) EMMI rendelet 1. §-a iktatta be.
+[^61]: A 4/B. §-t a 21/2016. (VIII. 24.) EMMI rendelet 1. §-a iktatta be, szövege az 5/2022. (III. 28.) MvM rendelet 1. § a) pontja szerint módosított szöveg.
 [^62]: A 4/C. §-t a 2/2018. (I. 18.) EMMI rendelet 1. §-a iktatta be.

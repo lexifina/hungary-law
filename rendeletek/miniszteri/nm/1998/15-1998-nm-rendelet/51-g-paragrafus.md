@@ -2,10 +2,10 @@
 
 (2) Ha a fenntartó nem létesít a 2. számú melléklet II. Rész „I. Alapellátások” cím 2.4. pontjában meghatározott kisgyermeknevelő munkakört, a bölcsődei szolgáltatást nyújtó személynek eredményesen el kell végeznie a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamot.
 
-(2a)[^150] A családi bölcsődében – a Gyvt. 5. § s) pont sc) alpontja szerinti egyéni vállalkozó kivételével – a szolgáltatást nyújtó személy a fenntartótól függően közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatható.
+(2a)[^151] A családi bölcsődében – a Gyvt. 5. § s) pont sc) alpontja szerinti egyéni vállalkozó kivételével – a szolgáltatást nyújtó személy a fenntartótól függően közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatható.
 
 (3) A családi bölcsődében a bölcsődei szolgáltatást nyújtó személynek és a segítő személynek érvényes Egészségügyi Nyilatkozattal kell rendelkeznie.
 
 (4) A családi bölcsőde fenntartójának igazolnia kell, hogy betegség vagy egyéb váratlan esemény bekövetkezése esetén a bölcsődei szolgáltatást nyújtó személy helyettesítése megoldott olyan személlyel, aki megfelel a Gyvt. 44/A. § (2) bekezdésében, valamint a (3) bekezdésben foglaltaknak és a 2. számú melléklet II. Rész „I. Alapellátások” cím 2.4. pontjában a szolgáltatást nyújtó személy tekintetében előírt képesítési feltételnek. A helyettesítésre szociális gondozói díjban részesíthető személy is alkalmazható.
 
-[^150]: Az 51/G. § (2a) bekezdését a 19/2017. (IX. 18.) EMMI rendelet 4. §-a iktatta be, szövege a 27/2018. (VIII. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^151]: Az 51/G. § (2a) bekezdését a 19/2017. (IX. 18.) EMMI rendelet 4. §-a iktatta be, szövege a 27/2018. (VIII. 7.) EMMI rendelet 3. §-ával megállapított szöveg.

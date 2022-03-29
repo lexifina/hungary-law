@@ -2,9 +2,9 @@
 
 105. § (1) A gondozott gyermek számára a nevelőszülő saját háztartásában biztosítja – az egyéni gondozási-nevelési tervnek megfelelően – a 76–84. §-ok szerinti részletezett ellátást, gondozást, nevelést.
 
-(2)[^297] A gondozott gyermek elhelyezésére száraz, világos, jól fűthető lakás alkalmas. Biztosítani kell a nevelőszülők és a gyermekek külön szobában való elhelyezését, ahol a gyermekek személyes élettere – a (2a) bekezdésben foglalt kivétellel – legalább 6 négyzetméter legyen. A lakásnak a mindennapi életvitelhez szükséges bútorokkal, berendezési tárgyakkal, eszközökkel felszereltnek kell lennie. Nem érheti a gondozott gyermeket hátrány a családban nevelkedő más gyermek elhelyezéséhez és ellátásához viszonyítva.
+(2)[^298] A gondozott gyermek elhelyezésére száraz, világos, jól fűthető lakás alkalmas. Biztosítani kell a nevelőszülők és a gyermekek külön szobában való elhelyezését, ahol a gyermekek személyes élettere – a (2a) bekezdésben foglalt kivétellel – legalább 6 négyzetméter legyen. A lakásnak a mindennapi életvitelhez szükséges bútorokkal, berendezési tárgyakkal, eszközökkel felszereltnek kell lennie. Nem érheti a gondozott gyermeket hátrány a családban nevelkedő más gyermek elhelyezéséhez és ellátásához viszonyítva.
 
-(2a)[^298] A gondozott gyermek számára biztosítandó személyes élettér területe akkor lehet kisebb a (2) bekezdésben meghatározottnál, ha
+(2a)[^299] A gondozott gyermek számára biztosítandó személyes élettér területe akkor lehet kisebb a (2) bekezdésben meghatározottnál, ha
 
 a) legalább a 4 négyzetmétert eléri,
 
@@ -14,20 +14,20 @@ c) a gyermek elhelyezéséhez a lakásban minden más feltétel biztosított, é
 
 d) a gondozott gyermek a személyes élettér szempontjából nem kerül kedvezőtlenebb helyzetbe, mint a nevelőszülő háztartásában élő más gyermek.
 
-(3)[^299] Egy szobában legfeljebb 4 gyermek helyezhető el. Ettől a gyermek érdekében el lehet térni.
+(3)[^300] Egy szobában legfeljebb 4 gyermek helyezhető el. Ettől a gyermek érdekében el lehet térni.
 
-(4)[^300] Ha a nevelőszülői hálózatot működtető az utógondozói ellátásban részesülő fiatal felnőtt számára külső férőhelyen biztosít lakhatást, a külső férőhely vonatkozásában a 124. § (9) bekezdésében foglaltak az irányadók.
+(4)[^301] Ha a nevelőszülői hálózatot működtető az utógondozói ellátásban részesülő fiatal felnőtt számára külső férőhelyen biztosít lakhatást, a külső férőhely vonatkozásában a 124. § (9) bekezdésében foglaltak az irányadók.
 
-(5)[^301] A nevelőszülő – a gyámhivatal határozatában foglaltaknak megfelelően – biztosítja, hogy a gondozott gyermek kapcsolatot tarthasson a hozzátartozóival, ennek érdekében felkészíti a velük való találkozásra, és biztosítja a megjelölt helyen és időben történő megjelenését. A nevelőszülő saját háztartásában, a gondozás helyén is biztosíthatja a gyermek meglátogatásának lehetőségét.
+(5)[^302] A nevelőszülő – a gyámhivatal határozatában foglaltaknak megfelelően – biztosítja, hogy a gondozott gyermek kapcsolatot tarthasson a hozzátartozóival, ennek érdekében felkészíti a velük való találkozásra, és biztosítja a megjelölt helyen és időben történő megjelenését. A nevelőszülő saját háztartásában, a gondozás helyén is biztosíthatja a gyermek meglátogatásának lehetőségét.
 
-(6)[^302] A nevelőszülő – az egyéni gondozási, nevelési tervnek megfelelően – elősegíti, hogy a gondozott gyermek sikeresen visszailleszkedjen vér szerinti családjába, illetve örökbe fogadó családjába beilleszkedjen. A nevelőszülő a gondozott gyermek örökbe fogadó családjába történő beilleszkedése érdekében a gyermek örökbefogadásának előkészítése során együttműködik a szakszolgálat munkatársaival.
+(6)[^303] A nevelőszülő – az egyéni gondozási, nevelési tervnek megfelelően – elősegíti, hogy a gondozott gyermek sikeresen visszailleszkedjen vér szerinti családjába, illetve örökbe fogadó családjába beilleszkedjen. A nevelőszülő a gondozott gyermek örökbe fogadó családjába történő beilleszkedése érdekében a gyermek örökbefogadásának előkészítése során együttműködik a szakszolgálat munkatársaival.
 
-(7)[^303] A nevelőszülő haladéktalanul jelzi a működtetőnek, ha saját vagy a vele egy háztartásban élő személy egészségi állapotában bekövetkezett változás akadályozza a gyermek gondozásában, nevelésében vagy veszélyezteti a gyermek egészségét, fejlődését.
+(7)[^304] A nevelőszülő haladéktalanul jelzi a működtetőnek, ha saját vagy a vele egy háztartásban élő személy egészségi állapotában bekövetkezett változás akadályozza a gyermek gondozásában, nevelésében vagy veszélyezteti a gyermek egészségét, fejlődését.
 
-[^297]: A 105. § (2) bekezdése a 6/2020. (III. 6.) EMMI rendelet 6. § e) pontja szerint módosított szöveg.
-[^298]: A 105. § (2a) bekezdését a 6/2020. (III. 6.) EMMI rendelet 5. §-a iktatta be.
-[^299]: A 105. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva.
-[^300]: A 105. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatva.
-[^301]: A 105. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a.
-[^302]: A 105. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a, szövege a 35/2020. (X. 5.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^303]: A 105. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a.
+[^298]: A 105. § (2) bekezdése a 6/2020. (III. 6.) EMMI rendelet 6. § e) pontja szerint módosított szöveg.
+[^299]: A 105. § (2a) bekezdését a 6/2020. (III. 6.) EMMI rendelet 5. §-a iktatta be.
+[^300]: A 105. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva.
+[^301]: A 105. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatva.
+[^302]: A 105. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a.
+[^303]: A 105. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a, szövege a 35/2020. (X. 5.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^304]: A 105. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 62. §-a.
