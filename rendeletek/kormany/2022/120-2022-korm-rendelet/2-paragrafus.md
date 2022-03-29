@@ -1,0 +1,3 @@
+## „j) a külpolitikáért felelős miniszternek a közbiztonságért felelős miniszterrel egyetértésben kiadott rendeletében megjelölt országban”
+
+## [került sor, a védettségi igazolványt a külföldön beoltott magyar állampolgár, valamint Magyarország területén 180 napon belül 90 napot meghaladóan jogszerűen tartózkodó nem magyar állampolgár részére a hatóság 15 napon belül – a 2. § (8) bekezdésében meghatározottak szerint, díjmentesen – bármely kormányablakban személyesen vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton benyújtott kérelemre állítja ki.]
