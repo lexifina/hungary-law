@@ -1,0 +1,9 @@
+# 1184/2022. (III. 28.) Korm. határozat
+
+a Határigazgatási és Vízumpolitikai Eszköz Program Plusz éves fejlesztési keretének megállapításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1184-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-03-29 | 2022-1184-30-22.1 | 1184/2022. (III. 28.) Korm. határozat |
