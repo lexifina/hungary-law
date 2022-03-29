@@ -36,15 +36,17 @@ f) az Egyesült Arab Emírségekben,
 
 g) a Bahreini Királyságban,
 
-h) a Türk Nyelvű Államok Együttműködési Tanácsa tagállamaiban: Azerbajdzsáni Köztársaságban, Kazah Köztársaságban, Kirgiz Köztársaságban, Török Köztársaságban, Üzbég Köztársaságban vagy
+h)[^34] a Türk Nyelvű Államok Együttműködési Tanácsa tagállamaiban: Azerbajdzsáni Köztársaságban, Kazah Köztársaságban, Kirgiz Köztársaságban, Török Köztársaságban, Üzbég Köztársaságban,
 
-i) a külpolitikáért felelős miniszternek a közbiztonságért felelős miniszterrel egyetértésben kiadott rendeletében megjelölt országban
+i)[^35] Ukrajnában vagy
+
+j)[^36] a külpolitikáért felelős miniszternek a közbiztonságért felelős miniszterrel egyetértésben kiadott rendeletében megjelölt országban
 
 ## került sor, a védettségi igazolványt a külföldön beoltott magyar állampolgár, valamint Magyarország területén 180 napon belül 90 napot meghaladóan jogszerűen tartózkodó nem magyar állampolgár részére a hatóság 15 napon belül – a 2. § (8) bekezdésében meghatározottak szerint, díjmentesen – bármely kormányablakban személyesen vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton benyújtott kérelemre állítja ki.
 
-(2b)[^34] A (2a) bekezdés szerinti kérelemhez csatolni kell a külföldi hatóság vagy az oltást végző egészségügyi szolgáltató által kiállított, az oltás tényének magyar vagy angol nyelvű igazolását, ennek hiányában más idegen nyelvű igazolásának hiteles magyar fordítását, azzal, hogy az igazolásnak tartalmaznia kell a koronavírus elleni oltóanyag típusát (a továbbiakban: oltóanyag típusa), az oltás időpontját és helyét.
+(2b)[^37] A (2a) bekezdés szerinti kérelemhez csatolni kell a külföldi hatóság vagy az oltást végző egészségügyi szolgáltató által kiállított, az oltás tényének magyar vagy angol nyelvű igazolását, ennek hiányában más idegen nyelvű igazolásának hiteles magyar fordítását, azzal, hogy az igazolásnak tartalmaznia kell a koronavírus elleni oltóanyag típusát (a továbbiakban: oltóanyag típusa), az oltás időpontját és helyét.
 
-(2c)[^35] A (2a) bekezdés szerinti kérelemhez a kérelmező megadja
+(2c)[^38] A (2a) bekezdés szerinti kérelemhez a kérelmező megadja
 
 a) a természetes személyazonosító adatait,
 
@@ -54,13 +56,13 @@ c) a postai címét (a védettségi igazolvány kézbesítési címe) és
 
 d) ha azzal rendelkezik, a TAJ számát.
 
-(2d)[^36] Az érintett a kérelemben kezdeményezheti, hogy a védettségi igazolvány kiküldése hivatalos iratként történjen meg.
+(2d)[^39] Az érintett a kérelemben kezdeményezheti, hogy a védettségi igazolvány kiküldése hivatalos iratként történjen meg.
 
-(2e)[^37] A (2a) bekezdés szerinti kérelem esetében a hatóság – az igazolás megfelelősége esetén – az érintett nevét, a (2c) bekezdés b) és c) pontja szerinti adatokat, az oltóanyag típusát, az oltás idejét, a (2d) bekezdés szerinti kérelem esetén annak tényét, valamint ha rendelkezik az érintett TAJ számmal, akkor a TAJ számot – a 2. § (1) bekezdés g) pontja szerinti kód kialakítása érdekében – az EESZT-ben rögzíti.
+(2e)[^40] A (2a) bekezdés szerinti kérelem esetében a hatóság – az igazolás megfelelősége esetén – az érintett nevét, a (2c) bekezdés b) és c) pontja szerinti adatokat, az oltóanyag típusát, az oltás idejét, a (2d) bekezdés szerinti kérelem esetén annak tényét, valamint ha rendelkezik az érintett TAJ számmal, akkor a TAJ számot – a 2. § (1) bekezdés g) pontja szerinti kód kialakítása érdekében – az EESZT-ben rögzíti.
 
-(2f)[^38] Ha az érintett TAJ számmal nem rendelkezik, az EESZT működtetője az érintett részére technikai azonosítót képez, amelyhez a (2c)–(2e) bekezdés szerinti adatait rögzíti.
+(2f)[^41] Ha az érintett TAJ számmal nem rendelkezik, az EESZT működtetője az érintett részére technikai azonosítót képez, amelyhez a (2c)–(2e) bekezdés szerinti adatait rögzíti.
 
-(2g)[^39] A (2a) bekezdés szerinti kérelmek tekintetében a 2. § (10a) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(2g)[^42] A (2a) bekezdés szerinti kérelmek tekintetében a 2. § (10a) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 (3) A hatóság – a 2. § (6) bekezdés c) és d) pontja szerinti esetben –
 
@@ -70,7 +72,7 @@ b) a személyiadat- és lakcímnyilvántartást vezető szervtől az érintett n
 
 ## automatikus információátadással – szükség esetén az összerendelési nyilvántartáshoz kapcsolódó szolgáltatás útján – átveszi.
 
-(4)[^40] A hatóság,
+(4)[^43] A hatóság,
 
 a) ha a jogosult természetes személy rendelkezik érvényes útlevéllel, a jogosult természetes személy természetes személyazonosító adatait, személyi azonosítóját, nemét, állampolgárságát, az útlevél típusát, fajtáját és okmányazonosítóját, valamint az érvényességére vonatkozó adatokat az útiokmány-nyilvántartásból is átveheti,
 
@@ -84,18 +86,21 @@ c) a védettségi igazolvány kiállítása céljából a személyiadat- és lak
 
 (7) A postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet 29. § (1) bekezdésétől eltérően a védettségi igazolványt csak akkor kell személyes átadással kézbesíteni, ha azt az érintett kérte, egyebekben a védettségi igazolványt a levélszekrénybe kell kézbesíteni.
 
-(8)[^41] Az érintett (címzett) kérése alapján személyes átadással kézbesítendő – hivatalos iratként feladott – védettségi igazolványokat tartalmazó könyvelt küldeményeken – a küldemény esetleges visszakézbesítése során – mellőzhető a postai szolgáltató által figyelembe veendő feladói adatok feltüntetése, ha azokat a feladást igazoló elektronikus okirat tartalmazza.
+(8)[^44] Az érintett (címzett) kérése alapján személyes átadással kézbesítendő – hivatalos iratként feladott – védettségi igazolványokat tartalmazó könyvelt küldeményeken – a küldemény esetleges visszakézbesítése során – mellőzhető a postai szolgáltató által figyelembe veendő feladói adatok feltüntetése, ha azokat a feladást igazoló elektronikus okirat tartalmazza.
 
 [^29]: A 3. § (1) bekezdés záró szövegrésze a 86/2021. (II. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^30]: A 3. § (1a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^31]: A 3. § (2) bekezdés a) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^32]: A 3. § (2) bekezdés b) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^33]: A 3. § (2a) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 321/2021. (VI. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^34]: A 3. § (2b) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^35]: A 3. § (2c) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^36]: A 3. § (2d) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^37]: A 3. § (2e) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^38]: A 3. § (2f) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^39]: A 3. § (2g) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^40]: A 3. § (4) bekezdése a 267/2021. (V. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^41]: A 3. § (8) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^34]: A 3. § (2a) bekezdés h) pontja a 120/2022. (III. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^35]: A 3. § (2a) bekezdés i) pontja a 120/2022. (III. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^36]: A 3. § (2a) bekezdés j) pontját a 120/2022. (III. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^37]: A 3. § (2b) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^38]: A 3. § (2c) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^39]: A 3. § (2d) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^40]: A 3. § (2e) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^41]: A 3. § (2f) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^42]: A 3. § (2g) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^43]: A 3. § (4) bekezdése a 267/2021. (V. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^44]: A 3. § (8) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
