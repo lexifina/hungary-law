@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-353-20-
 | 2019-01-01 | 2011-353-20-22.11 | 310/2018. (XII. 27.) Korm. rendelet |
 | 2019-11-28 | 2011-353-20-22.12 | 234/2013. (VI. 30.) Korm. rendelet |
 | 2020-01-01 | 2011-353-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2022-03-29 | 2011-353-20-22.14 | 123/2022. (III. 28.) Korm. rendelet |
