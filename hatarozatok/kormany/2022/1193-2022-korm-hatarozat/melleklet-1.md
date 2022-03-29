@@ -154,8 +154,11 @@
 
 ## Határidő: az e határozat közzétételét követő 30 napon belül
 
-## 21. visszavonja az orvostechnikai eszközök, valamint egyéni védőeszközök Hargita megye, Kovászna megye és Maros megye számára történő adományozásáról szóló 1591/2021. (VIII. 11.) Korm. határozatot;
+## 21.[^1]
 
-## 22. visszavonja a Gambiai Köztársaság részére történő COVID–19 vakcina adományozásáról szóló 1787/2021. (XI. 8.) Korm. határozatot.
+## 22.[^2]
 
 1. melléklet az 1193/2022. (III. 28.) Korm. határozathoz
+
+[^1]: A 21. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 22. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
