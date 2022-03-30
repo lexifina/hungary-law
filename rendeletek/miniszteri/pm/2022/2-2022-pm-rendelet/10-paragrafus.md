@@ -1,1 +1,3 @@
-## 9. § Hatályát veszti a Rendelet 2. mellékletében foglalt táblázat F:3 mező 1. pontjában a „vagy új gazdasági tevékenység végzésére irányuló induló” szövegrész.
+## 1–9. §[^2]
+
+[^2]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
