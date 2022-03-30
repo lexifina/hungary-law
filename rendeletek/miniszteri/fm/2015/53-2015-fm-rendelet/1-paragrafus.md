@@ -42,7 +42,7 @@ tevékenység végzése;
 
 17. referenciaterület: a 3. és 23. pont szerinti referenciaterület együtt;
 
-18.[^4] támogatási időszak: azon 2015-től kezdődő időszak, amelynek időtartama alatt a dohánytermelő a dohány szerkezetátalakítási nemzeti programban való részvétel alapján támogatásban részesül;
+18.[^4] támogatási időszak: – a 2022. év kivételével – azon 2015. évtől kezdődő időszak, amelynek időtartama alatt a dohánytermelő a dohány szerkezetátalakítási nemzeti programban való részvétel alapján támogatásban részesül;
 
 19. támogatási jogosultság: a 4. és 24. pont szerinti jogosultság együtt;
 
@@ -59,4 +59,4 @@ tevékenység végzése;
 [^1]: Az 1. § 7. pontja a 43/2017. (IX. 5.) FM rendelet 10. §-ával megállapított szöveg.
 [^2]: Az 1. § 9. pontja a 88/2016. (XII. 29.) FM rendelet 94. § a) pontja, a 28/2021. (VIII. 18.) AM rendelet 20. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § 14. pontja a 4/2016. (I. 20.) FM rendelet 26. §-ával megállapított szöveg.
-[^4]: Az 1. § 18. pontja a 10/2020. (IV. 3.) AM rendelet 16. §-ával megállapított szöveg.
+[^4]: Az 1. § 18. pontja a 11/2022. (III. 25.) AM rendelet 10. §-ával megállapított szöveg.
