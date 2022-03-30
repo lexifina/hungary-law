@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-5-20-11
 | 2020-12-17 | 2015-5-20-11.22 | 10/2019. (IV. 1.) AM rendelet |
 | 2021-03-26 | 2015-5-20-11.23 | 9/2018. (VII. 2.) AM rendelet |
 | 2021-08-21 | 2015-5-20-11.24 | 28/2021. (VIII. 18.) AM rendelet |
+| 2022-03-30 | 2015-5-20-11.25 | 11/2022. (III. 25.) AM rendelet |
