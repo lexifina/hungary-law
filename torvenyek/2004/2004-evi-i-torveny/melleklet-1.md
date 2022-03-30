@@ -346,11 +346,9 @@ Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
 
 Budapest, 29834/15
 
-(2000/83751 tulajdoni hányad arányában)
-
 |
 
-Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
+BVSC – Zugló Közhasznú Egyesület
 
 (székhely: Budapest 1142, Szőnyi út 2.)
 
@@ -425,6 +423,8 @@ Budapest, 38826
 |
 
 Magyar Lovassport Szövetség
+
+(székhely: Budapest 1087, Kerepesi út 7. Nemzeti Lovarda)
 
 |
 
