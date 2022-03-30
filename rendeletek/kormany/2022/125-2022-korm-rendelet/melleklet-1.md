@@ -1,11 +1,5 @@
 ## 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 125/2022. (III. 28.) Korm. rendelethez
+1. melléklet a 125/2022. (III. 28.) Korm. rendelethez[^5]
 
-Az R. 2. mellékletében foglalt táblázat 64. sora helyébe a következő rendelkezés lép:
-
-|  | (A | B | C |
-
-| 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt kormánymegbízott) |
-
-| 64. | Ózd belterületén egy barnamezős terület kiemelt társadalmi igényeken alapuló és munkahelyteremtést támogató beruházás megvalósítása | Ózd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3738/1 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
+[^5]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
