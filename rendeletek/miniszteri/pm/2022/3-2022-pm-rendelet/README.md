@@ -1,0 +1,9 @@
+# 3/2022. (III. 30.) PM rendelet
+
+a pénzügyminiszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 10/2020. (X. 21.) PM rendelet, valamint a pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 21/2021. (XII. 29.) PM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-3-20-53
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-03-31 | 2022-3-20-53.1 | 3/2022. (III. 30.) PM rendelet |
