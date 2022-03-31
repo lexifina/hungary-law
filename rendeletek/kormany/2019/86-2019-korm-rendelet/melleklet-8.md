@@ -18,7 +18,7 @@ A kormányablakban hivatalból intézhető ügyek
 
 8. Személyi azonosítóról és lakcímről szóló hatósági igazolvány kiállítása költözéssel nem járó lakcímváltozás esetén
 
-9.[^98] Lakcím érvénytelenségének megállapítása
+9.[^101] Lakcím érvénytelenségének megállapítása
 
 10. Magyarország területét külföldi letelepedés szándékával elhagyó magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vétele és új hatósági igazolvány kiállítása
 
@@ -28,4 +28,4 @@ A kormányablakban hivatalból intézhető ügyek
 
 13. Az elhunyt személyek okmányaival kapcsolatos intézkedések megtétele
 
-[^98]: A 8. melléklet 9. pontja a 375/2021. (VI. 30.) Korm. rendelet 30. § (2) bekezdése szerint módosított szöveg.
+[^101]: A 8. melléklet 9. pontja a 375/2021. (VI. 30.) Korm. rendelet 30. § (2) bekezdése szerint módosított szöveg.

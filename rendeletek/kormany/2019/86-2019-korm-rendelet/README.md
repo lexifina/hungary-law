@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-86-20-2
 | 2021-07-01 | 2019-86-20-22.19 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2021-09-04 | 2019-86-20-22.20 | 512/2021. (IX. 3.) Korm. rendelet |
 | 2022-01-01 | 2019-86-20-22.21 | 499/2021. (VIII. 18.) Korm. rendelet |
+| 2022-03-31 | 2019-86-20-22.22 | 119/2022. (III. 23.) Korm. rendelet |

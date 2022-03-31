@@ -26,5 +26,14 @@ b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásá
 
 (11)[^47] A Kormány a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 208/A. § (2) bekezdése szerinti szabálysértési hatóságként a fővárosi és megyei kormányhivatalt jelöli ki.
 
+(12)[^48] A Kormány a virtuális kormányablak mint új közigazgatási környezet (virtuális ügyintézési platform) kialakításával kapcsolatos feladatok ellátására a Pest Megyei Kormányhivatalt jelöli ki.
+
+(13)[^49] A Kormány a kormányhivatalokat érintő, az állampolgári élethelyzetekhez kapcsolódó szolgáltatások, valamint automatizált folyamattámogató rendszer kialakításával kapcsolatos feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
+
+(14)[^50] A Kormány a társasházak működésével összefüggő adatok egycsatornás elérhetőségének kialakításával kapcsolatos feladatok ellátására a Bács-Kiskun Megyei Kormányhivatalt jelöli ki.
+
 [^46]: A 46. § (5) bekezdését a 111/2020. (IV. 14.) Korm. rendelet 17. §-a hatályon kívül helyezte.
 [^47]: A 46. § (11) bekezdése a 315/2020. (VII. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^48]: A 46. § (12) bekezdését a 119/2022. (III. 23.) Korm. rendelet 3. §-a iktatta be.
+[^49]: A 46. § (13) bekezdését a 119/2022. (III. 23.) Korm. rendelet 3. §-a iktatta be.
+[^50]: A 46. § (14) bekezdését a 119/2022. (III. 23.) Korm. rendelet 3. §-a iktatta be.

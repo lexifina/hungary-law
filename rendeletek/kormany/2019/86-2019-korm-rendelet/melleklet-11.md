@@ -238,7 +238,7 @@
 
 | Telephely címe | Eszköz fajtája | Eszköz típusa | Eszköz fizikai helye | Eszköz egyedi azonosítója | Darabszám | Egyéb információk |
 
-11. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^100]
+11. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^103]
 
 Gépjármű Ügyintézési Pontban intézhető ügyek
 
@@ -306,4 +306,4 @@ Gépjármű Ügyintézési Pontban intézhető ügyek
 
 32. Külföldi hatósági engedély és jelzés bevonása
 
-[^100]: A 11. mellékeltet a 668/2020. (XII. 28.) Korm. rendelet 51. § (9) bekezdése iktatta be.
+[^103]: A 11. mellékeltet a 668/2020. (XII. 28.) Korm. rendelet 51. § (9) bekezdése iktatta be.
