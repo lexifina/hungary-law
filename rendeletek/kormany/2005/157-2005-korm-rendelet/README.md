@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-157-20-
 | 2020-09-01 | 2005-157-20-22.36 | 401/2020. (VIII. 17.) Korm. rendelet |
 | 2021-01-01 | 2005-157-20-22.37 | 70/2015. (III. 30.) Korm. rendelet |
 | 2022-01-01 | 2005-157-20-22.38 | 824/2021. (XII. 28.) Korm. rendelet |
+| 2022-03-31 | 2005-157-20-22.39 | 119/2022. (III.23.) Korm. rendelet |
