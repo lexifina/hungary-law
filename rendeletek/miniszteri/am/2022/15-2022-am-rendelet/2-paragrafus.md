@@ -1,0 +1,1 @@
+## 1. § A fejezeti és központi kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 14/2021. (III. 25.) AM rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
