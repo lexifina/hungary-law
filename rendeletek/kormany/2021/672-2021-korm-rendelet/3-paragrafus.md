@@ -17,3 +17,7 @@ a) segítségnyújtás az AVSZ rendszerbe való belépéshez;
 b) ügyfelek támogatása az AVSZ rendszer használata során;
 
 c) az AVSZ rendszer működésével összefüggő panaszok, közérdekű bejelentések, észrevételek fogadása és továbbítása az üzemeltető felé.
+
+(3)[^1] Az AVSZ rendszer alkalmazásüzemeltetésének támogatását az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság – az üzemeltetővel megkötött direkt finanszírozási szerződés keretében – biztosítja.
+
+[^1]: A 3. § (3) bekezdését a 119/2022. (III. 23.) Korm. rendelet 4. §-a iktatta be.
