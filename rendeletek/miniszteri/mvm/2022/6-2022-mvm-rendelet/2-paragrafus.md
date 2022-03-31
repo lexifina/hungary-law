@@ -1,0 +1,3 @@
+## 1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (26) bekezdéssel egészül ki:
+
+## „(26) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok tőkeemelésével kapcsolatos módosításáról szóló 6/2022. (III. 30.) MvM rendelettel (a továbbiakban: Módr24.) megállapított rendelkezéseit a Módr24. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
