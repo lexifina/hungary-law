@@ -52,6 +52,8 @@
 
 (25)[^56] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2022. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 2/2022. (I. 21.) MvM rendelettel (a továbbiakban: Módr23.) megállapított 1. § a) és c) pontját, 2/A. §-át, 2/B. §-át, 34. §-át, valamint 1. és 2. mellékletét a Módr23. hatálybalépése[^57] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(26)[^58] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok tőkeemelésével kapcsolatos módosításáról szóló 6/2022. (III. 30.) MvM rendelettel (a továbbiakban: Módr24.) megállapított rendelkezéseit a Módr24. hatálybalépése[^59] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^17]: A 42. § a 3/2019. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^18]: A hatálybalépés időpontja 2018. február 16.
 [^19]: A hatálybalépés időpontja 2018. március 29.
@@ -93,3 +95,5 @@
 [^55]: A hatálybalépés időpontja 2022. január 8.
 [^56]: A 42. § (25) bekezdését a 2/2022. (I. 21.) MvM rendelet 3. §-a iktatta be.
 [^57]: A hatálybalépés időpontja 2022. január 22.
+[^58]: A 42. § (26) bekezdését a 6/2022. (III. 30.) MvM rendelet 1. §-a iktatta be.
+[^59]: A hatálybalépés időpontja 2022. március 31.

@@ -88,13 +88,15 @@
 
 | 44 | 378551 |  | 32/7 A Miniszterelnökség tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
 
+| 44a | 361951 |  |  | 32/7/1 Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok tőkeemelése | A Miniszter-elnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok tőkeemelése. | Miniszter-elnökség tulajdonosi joggyakorlásába tartozó gazdasági társaság | – | – | Alapítói határozatban foglaltak szerint, tőkeemelés jogcímén | – | – | – | – | – |
+
 | 45 | 376562 |  |  | 32/7/2 Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok működéséhez szükséges hozzájárulás | A Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok tulajdonosi támogatása. Az előirányzat terhére támogatás már megkezdett vagy megvalósult tevékenységre is nyújtható. | Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaság | az Áht. 48. § (1) bekezdése szerint, pályázati rendszeren kívül, kérelemre hozott egyedi döntés alapján támogatási szerződéssel vagy támogatói okirattal | előleg biztosítható | egy összegben vagy időarányos vagy teljesítésarányos részletekben | támogatói okirat szerint | Az Ávr. 84. § (2) bekezdése alapján, a költségvetési támogatás összegét meghaladó biztosítéki értékig vagy összeghatár megjelölése nélkül. | – | – | – |
 
 | 46 | 391428 |  | 32/8 A Lechner Tudásközpont NKft. tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
 
 | 47 | 391439 |  |  | 32/8/1 Nemzeti tervvagyonhoz kapcsolódó kiadások | Az előirányzatról a Lechner Tudásközpont teljesíti a kiadott felhasználási engedélyek kapcsán fizetendő felhasználási díjak áfatartalmát. | – | – | – | – | – | – | Lechner Tudásközpont | – | – |
 
-2. melléklet a 8/2016. (III. 25.) MvM rendelethez[^60]
+2. melléklet a 8/2016. (III. 25.) MvM rendelethez[^62]
 
 XLVII. Gazdaság-újraindítási Alap fejezet 2022. évi költségvetési kiadási előirányzatainak feladatterve a Miniszterelnökség fejezeti kezelésű előirányzatokra vonatkozóan
 
@@ -120,4 +122,4 @@ XLVII. Gazdaság-újraindítási Alap fejezet 2022. évi költségvetési kiadá
 
 | 10 | 393417 |  |  | 2/1/9 Kistelepülési fejlesztési támogatások | Az előirányzat célja az 5000 fő feletti lakosságszámú települések érdekében felmerülő, kiemelt társadalmi igényekkel összefüggő beruházások, települési fejlesztések támogatása. | helyi önkormányzat, költségvetési szerv, gazdasági társaság, továbbá egyéni vállalkozó, egyéni cég, jogszabály alapján jogi személynek minősülő egyéb szervezet, helyi önkormányzatok társulásai, egyházi jogi személy, egyesület, alapítvány, nonprofit, valamint közhasznú jogállású szervezet | az Áht. 48. § (1) bekezdése szerint, jogszabály vagy egyedi döntés alapján, pályázati rendszeren kívül kérelemre, támogatási szerződéssel vagy támogatói okirattal | előleg biztosítható | egy összegben vagy időarányos vagy teljesítésarányos részletekben | szerződés vagy okirat vagy megállapodás szerint | az Ávr. 84. § (2) bekezdése alapján, a költségvetési támogatás összegét meghaladó biztosítéki értékig vagy összeghatár megjelölése nélkül | – | igénybe vehető | – |
 
-[^60]: A 2. mellékletet az 1/2021. (II. 9.) MvM rendelet 4. § (2) bekezdése iktatta be, szövege a 2/2022. (I. 21.) MvM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^62]: A 2. mellékletet az 1/2021. (II. 9.) MvM rendelet 4. § (2) bekezdése iktatta be, szövege a 2/2022. (I. 21.) MvM rendelet 4. § (2) bekezdésével megállapított szöveg.
