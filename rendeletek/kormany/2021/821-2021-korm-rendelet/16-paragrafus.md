@@ -1,5 +1,3 @@
-## 15. §[^4]
-
 ## 10. Bioüzemanyagok, folyékony bio-energiahordozók, valamint a termesztett és nem termesztett biomasszából előállított tüzelőanyagok nyomon követhetőségi nyilvántartása és a nyomonkövetési kritériumok teljesítése
 
 16. § (1) Ha a biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó az e rendelet hatálya alá tartozó tevékenységet kíván folytatni, az általa kiállított 19. § szerinti dokumentumokkal kísért termesztett és nem termesztett biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozó, valamint termesztett és nem termesztett biomasszából előállított tüzelőanyag hatósági nyomon követhetőségének biztosítása és igazolása céljából kérelmezi a mezőgazdasági igazgatási szervnél a BIONYOM nyilvántartásba történő felvételét.
@@ -79,5 +77,3 @@ bb) nem termesztett biomassza tekintetében a 9. melléklet 2. pontja
 ## szerinti adattartalmú nyomonkövetési dokumentummal, továbbá olyan fenntarthatósági nyilatkozattal, amely az azzal kísért termékre vonatkozóan maradéktalanul tartalmazza a 9. melléklet szerinti adatokat.
 
 (20) A 19. § b)–d) pontja szerinti fenntarthatósági nyilatkozattal kísért termék nyomon követhetőségének igazolására biomassza igazolás és fenntarthatósági igazolás nem szolgálhat.
-
-[^4]: A 15. § a 25. § (2) bekezdése alapján 2022. március 31-én lép hatályba.

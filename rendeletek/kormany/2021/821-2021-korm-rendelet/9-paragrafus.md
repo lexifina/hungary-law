@@ -1,5 +1,3 @@
-## 8. §[^1]
-
 ## 5. Üzemanyagok kötelező bioüzemanyag-részaránya és a folyékony bio-energiahordozók felhasználása
 
 9. § (1) Az üzemanyag-forgalmazó köteles a (3) és (4) bekezdésben meghatározott bioüzemanyag-részarányra vonatkozó forgalmazási kötelezettségnek eleget tenni.
@@ -43,5 +41,3 @@ d) a 19. § d) pontja alapján kiállított igazolás eleget tesz az (EU) 2018/2
 (13) A (3) és (4) bekezdés alkalmazásában 95-ös kísérleti oktánszámú motorbenzinnek az a benzin minősül, amelynek a minősége megfelel az ESZ-95-ös minőségi fokozatok valamelyikének, de nem teljesíti az ESZ-98-as fokozatok követelményeit.
 
 (14) A (3) és (4) bekezdés alkalmazásában bioetanol-részarány a forgalomba hozott bioetanol energiatartalomban kifejezett mennyiségének – ideértve a forgalomba hozott bio-etil-tercier-butiléter és bio-tercier-amil-etil-éter energiatartalmából a megújulónak minősülő részt – és a forgalomba hozott 95-ös kísérleti oktánszámú motorbenzin energiatartalomban kifejezett mennyiségének hányadosa, százalékértékben, egy tizedesjegy pontossággal meghatározva.
-
-[^1]: A 8. § a 25. § (2) bekezdése alapján 2022. március 31-én lép hatályba.
