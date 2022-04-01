@@ -14,8 +14,8 @@
 
 (4) A településrendezési szakértő feladatát megbízási szerződés alapján látja el a 20. § (6) bekezdése szerint.
 
-(5)[^41] A településrendezési szakértő nem végezheti olyan pályázati dokumentáció, településrendezési terv vizsgálatát, amelynek összeállításában vagy tervezésében maga vagy a Ptk. szerinti közeli hozzátartozója részt vett.
+(5)[^62] A településrendezési szakértő nem végezheti olyan pályázati dokumentáció, településrendezési terv vizsgálatát, amelynek összeállításában vagy tervezésében maga vagy a Ptk. szerinti közeli hozzátartozója részt vett.
 
 (6) Településtervezési vagy szakági településtervezési jogosultságot szerzett és vezető tervezői címmel rendelkező személy kérelmére a területi kamara titkára az adott szakterületen településrendezési szakértői tevékenység folytatását engedélyezi a 9. § (6) bekezdése szerinti feltétel mellett.
 
-[^41]: A 19. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 66. § e) pontja szerint módosított szöveg.
+[^62]: A 19. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 66. § e) pontja szerint módosított szöveg.

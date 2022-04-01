@@ -2,10 +2,14 @@
 
 ## 21. A szakmagyakorlási tevékenység szüneteltetése
 
-33. § (1) A szakmagyakorlási tevékenység folytatása a szakmagyakorló kérelmére a területi kamara titkárának a határozata alapján szüneteltethető. A kérelemben a szünetelés kezdő időpontját meg kell jelölni. A szüneteltetés kezdő időpontja a kérelem benyújtásától számított legfeljebb harmadik hónap. A szüneteltetés kezdő időpontját a területi kamara titkáránál be kell jelenteni, ha az eltér a kérelemben megjelölttől. A szüneteltetés időtartama alatt a szüneteltetett szakmagyakorlási tevékenység nem végezhető.
+33. § (1)[^95] A szakmagyakorlási tevékenység folytatása a szakmagyakorló kérelmére a területi kamara titkárának a határozata alapján szüneteltethető. A kérelemben a szünetelés kezdő időpontját meg kell jelölni. A szüneteltetés kezdő időpontjának a kérelem benyújtását követő első munkanap és harmadik hónap közé kell esnie. A szüneteltetés időtartama alatt a szüneteltetett szakmagyakorlási tevékenység nem végezhető.
 
-(2) A szüneteltetett tevékenység – külön kérelemre – abban az esetben folytatható, ha a szakmagyakorlási tevékenység szüneteltetésének megszüntetését kérelmező személy a kötelező továbbképzési kötelezettségének teljesítését igazolja.
+(2)[^96] A szüneteltetett tevékenység – külön kérelemre – abban az esetben folytatható, ha a szakmagyakorlási tevékenység szüneteltetésének megszüntetését kérelmező személy a jogi továbbképzési kötelezettségének teljesítését igazolja.
 
 (3) Tervező műszaki ellenőri cím jogosultja az építészeti-műszaki tervezési vagy az építési műszaki ellenőri jogosultság szüneteltetése esetén már nem használhatja a címet.
 
-(4) Beruházási tanácsadói cím jogosultja az építészeti-műszaki tervezési vagy az építési műszaki ellenőri jogosultság szüneteltetése esetén már nem használhatja a címet.
+(4)[^97]
+
+[^95]: A 33. § (1) bekezdése a 618/2021. (XI. 8.) Korm. rendelet 16. § 20. pontja szerint módosított szöveg.
+[^96]: A 33. § (2) bekezdése a 618/2021. (XI. 8.) Korm. rendelet 16. § 21. pontja szerint módosított szöveg.
+[^97]: A 33. § (4) bekezdését a 618/2021. (XI. 8.) Korm. rendelet 17. § 8. pontja hatályon kívül helyezte.

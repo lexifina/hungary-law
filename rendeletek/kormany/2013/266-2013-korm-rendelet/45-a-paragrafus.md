@@ -1,4 +1,4 @@
-45/A. §[^90] (1) Az R1. 9/A. §-a szerinti ellenőrzés során a Budapesti és Pest Megyei Mérnöki Kamara mint független ellenőrző szervezet a feltárt hibák alapján figyelmeztetésben javításra szólítja fel az energetikai tanúsítvány kiállítóját, ha a tanúsítvány nem a jogszabálynak megfelelően készült vagy eltér a tényszerű állapottól.
+45/A. §[^114] (1) Az R1. 9/A. §-a szerinti ellenőrzés során a Budapesti és Pest Megyei Mérnöki Kamara mint független ellenőrző szervezet a feltárt hibák alapján figyelmeztetésben javításra szólítja fel az energetikai tanúsítvány kiállítóját, ha a tanúsítvány nem a jogszabálynak megfelelően készült vagy eltér a tényszerű állapottól.
 
 (2) A tanúsító a feltárt hibát a korábbi tanúsítvány érvénytelenítésével járó új tanúsítvány kiállításával köteles javítani. A javítás során a javításkor hatályos jogszabályok és a javításkor érvényes műszaki állapot szerint kell végezni a tanúsítást.
 
@@ -20,4 +20,4 @@ b) egyéb esetben harminc napon
 
 (6) Ha a tanúsítvány kiállítója akadályoztatva van, a saját költségén gondoskodnia kell hiteles tanúsítvány kiállításáról az e §-ban foglalt szabályok betartása mellett.
 
-[^90]: A 45/A. §-t a 482/2016. (XII. 28.) Korm. rendelet 38. §-a iktatta be.
+[^114]: A 45/A. §-t a 482/2016. (XII. 28.) Korm. rendelet 38. §-a iktatta be.

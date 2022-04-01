@@ -1,71 +1,57 @@
 ## 29. Jogkövetkezmények típusai
 
-44. § (1) A területi kamara titkára figyelmeztetésben részesíti a szakmagyakorlót:
+44. §[^112] (1) A területi kamara titkára figyelmeztetésben részesíti a szakmagyakorlót,
 
-a) ha az adatváltozás bejelentési kötelezettségének nem tesz eleget,
+a) ha a Kamtv. 43. § (5) bekezdése szerinti adatváltozás bejelentési kötelezettségének nem tett eleget,
 
-b) ha az adategyeztetési kötelezettségét nem teljesíti,
+b) ha a 37. § (1) szerinti adategyeztetési kötelezettségét nem teljesítette,
 
-c) ha a nyilvántartási díjat határidőre nem fizeti be,
+c) ha a 6. § (6) bekezdés a) pont ac) alpontja, illetve b) pont bb) alpontja szerinti díjat határidőre nem fizette be,
 
-d) ha a kamara a 43. § (1) bekezdés a) pontja során első ízben állapít meg olyan kisebb szabálytalanságot, pontatlanságot, számítási vagy felmérési hibát, tartalmi hiányosságot, amely nem befolyásolta érdemben a szakmai tevékenység, vagy a szakvélemény eredményét,
+d) az Épelj. 66. § (2) bekezdése szerinti kezdeményezés esetén.
 
-e)[^80]
+(2) A területi kamara titkára az építésfelügyeleti hatóság megkeresése alapján a felelős műszaki vezetőt, az építési műszaki ellenőrt az Épelj. 66. § (3) bekezdés b) pontja szerinti összeférhetetlenségi szabályok megsértése miatt az Étv. 52. § (2) bekezdés b) pontja alapján bírsággal sújtja, amelynek mértéke 100 000 forint.
 
-f) szakszerűtlen vagy valótlan tartalmú építészeti-műszaki tartalmú dokumentáció esetén a 43. § (1) bekezdés c) pontja szerinti megkeresésre.
+(3) A bírságot az azt kiszabó határozat véglegessé válásától számított harminc napon belül kell megfizetni a határozatban megjelölt számlaszámra. A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető, legfeljebb harminc napra.
 
-(2) A területi kamara titkára
+(4) A területi kamara titkára az Étv. 52. § (2) bekezdés d) pontja szerinti szankciót tartalmazó döntésében megtiltja a szakmagyakorlási tevékenység folytatását
 
-a)[^81] a szakmagyakorlót 20 000 forint bírsággal sújtja, ha az (1) bekezdés a)–b) pontjában foglaltakat a figyelmeztetés ellenére sem teljesíti,
+a) hat hónap időtartamra, ha a szakmagyakorló egy éven belül legalább három alkalommal az (1) bekezdés d) pontja szerinti – egyéves elévülési idővel bíró – véglegessé vált titkári figyelmeztetésben részesült,
 
-b) az építésfelügyeleti hatóság számított építményértéket tartalmazó megkeresése alapján a felelős műszaki vezetőt, az építési műszaki ellenőrt az összeférhetetlenségi szabályok megsértése miatt bírsággal sújtja, melynek mértéke 100 000 forint összegezve a számított építményérték 20 millió forintot meghaladó részének 0,5%-val, de legfeljebb 300 000 forint.
+b) legalább egy év időtartamra, ha az építésfelügyeleti hatóság az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: R2.) 1. mellékletében foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt véglegessé vált döntésével építésfelügyeleti bírsággal sújtotta a szakmagyakorlót,
 
-(3)[^82] A bírságot az azt kiszabó határozat véglegessé válásától számított harminc napon belül kell megfizetni a határozatban megjelölt számlaszámra. A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb harminc napra.
+c) ha a kamara etikai-fegyelmi bizottsága jogerős döntésével felfüggesztette a szakmagyakorló kamarai tagságát, akkor a kamarai tagság felfüggesztésével egy időben, annak következményeként annak időtartamáig,
 
-(4) A területi kamara titkára megtiltja a szakmagyakorlási tevékenység folytatását
+d) a továbbképzési kötelezettsége teljesítéséig, de legfeljebb egy évig,
 
-a)[^83] legfeljebb hat hónap időtartamra, ha az építésfelügyeleti hatóság – az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: R2.) 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével – három éven belül legalább kettő alkalommal véglegessé vált döntésével építésfelügyeleti bírsággal sújtotta,
+e) az (1) bekezdés a)–c) pontjában és a (2) bekezdésben meghatározott kötelezettség teljesítéséig, de legfeljebb hat hónap időtartamra, ha a szakmagyakorló a kötelezettségét a figyelmeztető határozatban foglalt határidőre sem teljesíti,
 
-b)[^84] legfeljebb egy év időtartamra, ha az építésfelügyeleti hatóság – az R2. 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével – egy éven belül kettő alkalommal véglegessé vált döntésével bírsággal sújtotta,
+f) egy év időtartamra, ha a szakmagyakorló a szakmagyakorlási tevékenység folytatásához szükséges jogosultság szüneteltetésének időtartama alatt végez engedélyhez kötött szakmagyakorlási tevékenységet,
 
-c)[^85] legalább egy év időtartamra, ha az építésfelügyeleti hatóság az R2. 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt véglegessé vált döntésével építésfelügyeleti bírsággal sújtotta,
+g) az építészeti-műszaki tervezésre kötött szerződéshez kapcsolódó díjfizetési kötelezettség teljesítésének igazolásáig, de legfeljebb hat hónap időtartamra a 46. § (6) bekezdése szerinti esetben.
 
-d) ha a területi kamara etikai-fegyelmi bizottsága jogerős döntésével felfüggesztette a szakmagyakorló kamarai tagságát, akkor annak időtartamáig,
-
-e) a továbbképzési kötelezettsége teljesítéséig, de legfeljebb egy évig,
-
-f) legfeljebb hat hónap időtartamra, ha az (1) bekezdés c) pontjában és a (2) bekezdésben foglalt kötelezettségét a határozatban foglalt határidőre sem teljesíti,
-
-g) legfeljebb egy év időtartamra, ha a szakmai tevékenység folytatásához szükséges jogosultság szüneteltetésének időtartama alatt végez engedélyhez kötött szakmai tevékenységet,
-
-h) az építészeti-műszaki tervezésre kötött szerződéshez kapcsolódó díjfizetési kötelezettség teljesítésének igazolásáig, de legfeljebb hat hónap időtartamra a 46. § (6) bekezdése szerinti esetben.
-
-(5) A területi kamara titkára megtiltja a szakmagyakorlási tevékenység folytatását és ezzel egyidejűleg törli a tevékenységet folytató szakmagyakorlót a névjegyzékből, ha
+(5) A területi kamara titkára az Étv. 52. § (2) bekezdés d) és f) pontja szerinti szankciót tartalmazó döntésében megtiltja a szakmagyakorlási tevékenység folytatását és ezzel egyidejűleg törli a tevékenységet folytató szakmagyakorlót a névjegyzékből, ha
 
 a) a szakmagyakorlási tevékenység engedélyezését követően merült fel olyan tény vagy adat, amely a tevékenység engedélyezését nem tette volna lehetővé,
 
 b) a jogszabályban előírt jogosultsági feltételekkel már nem rendelkezik,
 
-c) a bejelentésben valótlan adatközlést és hitelesítési nyilatkozatot tett a jogszabályban előírt feltételekkel való rendelkezéséről és ezt bármely hatáskörrel rendelkező hatóság által végzett ellenőrzés igazolja,
+c) a kérelemben valótlan adatközlést és hitelesítési nyilatkozatot tett a jogszabályban előírt feltételekkel való rendelkezéséről, és ezt bármely hatáskörrel rendelkező hatóság által végzett ellenőrzés igazolja,
 
-d) a továbbképzési kötelezettségét a (4) bekezdés e) pontja szerinti határidőt követően sem teljesíti,
+d) a továbbképzési kötelezettségét a (4) bekezdés d) pontja szerinti megtiltás alatt sem teljesíti,
 
-e) a területi mérnöki vagy építész kamarából a Kamtv. 34/A. § (1) bekezdés e) pontja szerint kizárták,
+e) a területi mérnöki vagy építész kamarából a Kamtv. 34/A. § (1) bekezdés e) pontja szerint kizárták, a kamarai tagság törlésével egy időben, annak következményeként,
 
-f)[^86] az építésfelügyeleti hatóság az R2. 1. mellékletében foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt három éven belül ismételten véglegessé vált döntésével építésfelügyeleti bírsággal sújtotta, vagy a szabálytalan szakmai tevékenység súlyos testi sértést, maradandó egészségkárosodást vagy halált okozott,
+f) az építésfelügyeleti hatóság az R2. 1. mellékletében foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt három éven belül ismételten véglegessé vált döntésével építésfelügyeleti bírsággal sújtotta, vagy a szabálytalan szakmai tevékenység súlyos testi sértést, maradandó egészségkárosodást vagy halált okozott,
 
-g) a tevékenység folytatásához szükséges jogosultsága felfüggesztésének időtartama alatt végez szakmagyakorlási tevékenységet,
+g) a szakmagyakorlási tevékenység folytatásának megtiltása alatt végez szakmagyakorlási tevékenységet,
 
-h)[^87] az építészeti-műszaki tervező a (4) bekezdés h) pontja szerinti felfüggesztő határozat véglegessé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését,
+h) az építészeti-műszaki tervező a (4) bekezdés g) pontja szerinti felfüggesztő határozat véglegessé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését,
 
-i)[^88] az R1. 9/A. §-a szerinti ellenőrzés során a Budapesti és Pest Megyei Mérnöki Kamara megállapítja, hogy a korábban egyszer már a 45/A. § (1) bekezdése szerinti figyelmeztetést kapott energetikai tanúsító által készített tanúsítvány legalább két besorolással eltér a tényleges értéktől.
+i) az R1. 9/A. §-a szerinti ellenőrzés során a Budapesti és Pest Megyei Mérnöki Kamara megállapítja, hogy az energetikai tanúsító egy éven belül kétszer a 45/A. § (1) bekezdése szerinti figyelmeztetést kapott azért, mert az általa készített tanúsítvány legalább két besorolással eltér a tényleges értéktől,
 
-[^80]: A 44. § (1) bekezdés e) pontját a 482/2016. (XII. 28.) Korm. rendelet 41. § a) pontja hatályon kívül helyezte.
-[^81]: A 44. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 21. pontja, a 482/2016. (XII. 28.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
-[^82]: A 44. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^83]: A 44. § (4) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja, a 457/2017. (XII. 28.) Korm. rendelet 445. § j) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^84]: A 44. § (4) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja, a 457/2017. (XII. 28.) Korm. rendelet 445. § j) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^85]: A 44. § (4) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja, a 457/2017. (XII. 28.) Korm. rendelet 445. § j) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^86]: A 44. § (5) bekezdés f) pontja a 482/2016. (XII. 28.) Korm. rendelet 40. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 445. § j) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^87]: A 44. § (5) bekezdés h) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 22. pontja, a 457/2017. (XII. 28.) Korm. rendelet 445. § k) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^88]: A 44. § (5) bekezdés i) pontja a 482/2016. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
+j) a kötelezettségét a (4) bekezdés e) pontja szerinti megtiltás alatt sem teljesíti,
+
+k) a (4) bekezdés e) pontja szerinti határidőig sem igazolja a díjfizetési kötelezettségének teljesítését.
+
+[^112]: A 44. § a 618/2021. (XI. 8.) Korm. rendelet 12. §-ával megállapított szöveg.

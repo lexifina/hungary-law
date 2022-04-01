@@ -4,13 +4,15 @@
 
 ## Energetikai tanúsítói jogosultság (betűjele: TÉ)
 
-|  |  | A | B | C |
+|  | A | B | C | D |
 
-|  | 1. | Tevékenység megnevezése | Jelölése | Képesítési minimum követelmény, vagy az ezzel egyenértékű szakképzettség |
+| 1. | Tevékenység megnevezése | Jelölése | Képesítési minimumkövetelmény vagy az ezzel egyenértékű szakképzettség | Szakmai gyakorlati idő |
 
-|  | 2. | energetikai tanúsítói jogosultság | TÉ | okleveles építészmérnök, okleveles településmérnök, okleveles építőmérnök, okleveles közlekedésmérnök, okleveles gépészmérnök, okleveles villamosmérnök, okleveles energetikai mérnök, építészmérnök, településmérnök, építőmérnök, közlekedés-építőmérnök, vízépítő mérnök, közlekedésmérnök, gépészmérnök, villamosmérnök, energetikai mérnök |
+| 2. | energetikai tanúsítói jogosultság | TÉ | okleveles építészmérnök, okleveles településmérnök, okleveles építőmérnök, okleveles közlekedésmérnök, okleveles gépészmérnök, okleveles villamosmérnök, okleveles energetikai mérnök, okleveles mechatronikai mérnök, okleveles biztonságtechnikai mérnök, okleveles olaj- és gázmérnök, okleveles olajmérnök, építészmérnök, településmérnök, építőmérnök, közlekedés-építőmérnök, vízépítő mérnök, közlekedésmérnök, gépészmérnök, villamosmérnök, energetikai mérnök, mechatronikai mérnök, biztonságtechnikai mérnök | 1 év |
 
-2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^120]
+## ”
+
+2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^147]
 
 I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján megállapított építészeti tervezési jogosultságok és a hozzájuk tartozó építészeti-műszaki tervezési tevékenységek
 
@@ -70,4 +72,4 @@ A sajátos építményfajták építési műszaki ellenőri szakterületei
 
 III. Az építész és a mérnöki kamarák által nyilvántartott, korábbi jogszabály alapján megállapított felelős műszaki vezetői jogosultságok és a hozzájuk tartozó tevékenység
 
-[^120]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése, a 290/2019. (XII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^147]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése, a 290/2019. (XII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

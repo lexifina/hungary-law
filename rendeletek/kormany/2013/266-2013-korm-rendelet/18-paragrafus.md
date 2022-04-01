@@ -6,9 +6,9 @@ a) a közvetlen költségek, ennek keretében
 
 aa) a számított munkadíj,
 
-ab)[^40]
+ab)[^60]
 
-ac) az esetlegesen a szerzői joggal kapcsolatosan felmerülő személyi és vagyoni jogok értéke,
+ac)[^61] a terv tervezési szerződés szerint rögzített felhasználásának szerzői díja,
 
 b) a közvetett költségek, ennek keretében a működési költség, anyagjellegű ráfordítás,
 
@@ -18,4 +18,5 @@ d) az egyéb ráfordítások,
 
 e) a tervezett nyereség
 
-[^40]: A 18. § a) pont ab) alpontját a 62/2014. (III. 6.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.
+[^60]: A 18. § a) pont ab) alpontját a 62/2014. (III. 6.) Korm. rendelet 48. § b) pontja hatályon kívül helyezte.
+[^61]: A 18. § a) pont ac) alpontja a 618/2021. (XI. 8.) Korm. rendelet 7. §-ával megállapított szöveg.

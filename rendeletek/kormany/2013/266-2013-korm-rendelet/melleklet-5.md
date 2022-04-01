@@ -1,4 +1,4 @@
-## A szakirányú szakképzettség egyenértékűségének vizsgálatához tudományterület szerinti bontás alapján meghatározott minimum kreditszámok összege a besorolásra nem alkalmas szakképzettségek tekintetében
+## A szakirányú szakképzettség egyenértékűségének vizsgálatához tudományterület szerinti bontás alapján meghatározott minimum kreditszámok összege a szakképzettségek tekintetében
 
 ## 1. rész
 
@@ -34,6 +34,6 @@
 
 | 40 | 15 | 70 | 55 | 180 |
 
-5. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^122]
+5. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^150]
 
-[^122]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^150]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

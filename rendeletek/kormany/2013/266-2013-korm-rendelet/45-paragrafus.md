@@ -1,9 +1,17 @@
-45. § (1) Ha a névjegyzékből való törlésre a 44. § (5) bekezdés d) pontja alapján került sor, a jogosultság csak a továbbképzési kötelezettség igazolása után engedélyezhető.
+45. §[^113] (1) Ha a névjegyzékből való törlésre a 44. § (5) bekezdés d) pontja alapján került sor, a szakmagyakorlási tevékenység csak a továbbképzési kötelezettség igazolása után engedélyezhető.
 
-(2)[^89] Ha a szakmagyakorlási tevékenység folytatásának megtiltására és ezzel egyidejűleg a névjegyzékből való törlésre a 44. § (5) bekezdés e), f) és i) pontja alapján került sor, a szakmagyakorlási tevékenységet végző személy a határozat véglegessé válásától számított három éven belül a névjegyzékbe nem vehető fel.
+(2) Ha a szakmagyakorlási tevékenység folytatásának megtiltására és ezzel egyidejűleg a névjegyzékből való törlésre
 
-(3) A névjegyzékből való törlést követően a szakmagyakorlóra vonatkozó adatokat a területi kamara tíz évig őrzi meg.
+a) a 44. § (5) bekezdés a)–c), g) vagy j) pontja alapján került sor, a szakmagyakorlási tevékenységet végző személy a határozat véglegessé válásától számított egy éven belül,
 
-(4) Igazságügyi szakértői tevékenységet is végző építésügyi műszaki szakértő szakmagyakorlási tevékenységének megtiltásáról, névjegyzéki törléséről, illetve a 33. § (1) bekezdésében említett szüneteltetésről szóló határozatát a területi kamara titkára az igazságügyi szakértői névjegyzék vezetését végző szervvel is közli.
+b) a 44. § (5) bekezdés e), f) vagy i) pontja alapján került sor, a szakmagyakorlási tevékenységet végző személy a határozat véglegessé válásától számított három éven belül
 
-[^89]: A 45. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+## a névjegyzékbe nem vehető fel.
+
+(3) A szakmagyakorlási tevékenység folytatásának megtiltása és ezzel egyidejűleg a névjegyzékből való törlés után szakmagyakorlási tevékenység csak abban az esetben engedélyezhető, ha a kérelmező a kamara felé fennálló fizetési kötelezettségének eleget tesz.
+
+(4) A névjegyzékből való törlést követően a szakmagyakorlóra vonatkozó adatokat a területi kamara tíz évig őrzi meg.
+
+(5) Igazságügyi szakértői tevékenységet is végző építésügyi műszaki szakértő szakmagyakorlási tevékenységének megtiltásáról, névjegyzékből való törléséről, illetve a 33. § (1) bekezdése szerinti szüneteltetésről szóló határozatát a területi kamara titkára az igazságügyi szakértői névjegyzék vezetését végző szervvel is közli.
+
+[^113]: A 45. § a 618/2021. (XI. 8.) Korm. rendelet 12. §-ával megállapított szöveg.

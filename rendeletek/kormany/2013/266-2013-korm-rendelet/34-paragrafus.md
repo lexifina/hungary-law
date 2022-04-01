@@ -8,14 +8,15 @@
 
 (2) A továbbképzési kötelezettség alól mentesül az elkülönített névjegyzékbe bejegyzett szakmagyakorló és a szakmagyakorlást eseti engedéllyel folytató személy.
 
-(3) A továbbképzés típusa
+(3)[^98] A továbbképzés típusa
 
-a) kamarai tagsághoz kötött jogosultság esetén kötelező és szakmai,
+a) a továbbképzési időszak alatt egy alkalommal teljesítendő jogi,
 
-b)[^65] a kamarai tagsághoz nem kötött jogosultság esetén kötelező és szakmai
+b) az országos kamara szabályzatában meghatározott módon teljesítendő szakmai
 
-továbbképzés.
+## továbbképzés.
 
-(4) A szakmagyakorlónak az első továbbképzési időszaka alatt a 38. § (2) bekezdése szerinti beszámolóval végződő kötelező továbbképzést kell teljesítenie.
+(4)[^99]
 
-[^65]: A 34. § (3) bekezdés b) pontja a 482/2016. (XII. 28.) Korm. rendelet 36. §-ával megállapított, a 290/2019. (XII. 5.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^98]: A 34. § (3) bekezdése a 618/2021. (XI. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^99]: A 34. § (4) bekezdését a 618/2021. (XI. 8.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte.

@@ -1,17 +1,15 @@
 ## 23. A továbbképzés tartalma
 
-36. § (1)[^67] A kötelező továbbképzés tematikáját jogosultsági szakterületenként a miniszter határozza meg, az ehhez kapcsolódó tananyagot az országos kamara dolgozza ki és a miniszternek mutatja be. Az oktatási anyagokat a kamara elektronikusan közzéteszi.
+36. §[^102] (1) A jogi továbbképzés tematikáját jogosultsági szakterületenként az országos kamara dolgozza ki, és a miniszternek mutatja be. A tematikához kapcsolódó oktatási anyagokat az országos kamara dolgozza ki.
 
-(2) A szakmai továbbképzés tematikáját, rendszerét, metódusát, értékelését, az országos kamarák saját hatáskörben, szabályzatban állapítják meg.
+(2) A szakmai továbbképzés tematikáját, rendszerét, metódusát, értékelését, valamint teljesítésének rendszerességét az országos kamarák saját hatáskörben, szabályzatban állapítják meg.
 
-(3) A kötelező továbbképzést az országos kamara által – a miniszter egyetértésével – elfogadott oktató tarthatja.
+(3) A jogi továbbképzést az országos kamara által elfogadott oktató tarthatja.
 
-(4) A kötelező továbbképzés formája lehet
+(4) A jogi továbbképzés formája lehet
 
-a) internet alapú távoktatás, amely tesztvizsgával zárul, vagy
+a) internetalapú távoktatás, amely számonkéréssel zárul, vagy
 
 b) hagyományos oktatási formában történő részvétel.
 
-(5) A kötelező továbbképzésben a továbbképzési időszak alatt egy, a (4) bekezdés szerinti továbbképzési formát kell teljesíteni, ahol a (4) bekezdés b) pontja szerinti oktatás összességében nem haladhatja meg a nyolc tanórát.
-
-[^67]: A 36. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^102]: A 36. § a 618/2021. (XI. 8.) Korm. rendelet 9. §-ával megállapított szöveg.

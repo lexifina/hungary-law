@@ -1,18 +1,20 @@
-## 25. A jogosultsági vizsga és a beszámolóval végződő kötelező továbbképzés
+## 37. §[^103] A területi kamara közhiteles nyilvántartásában naprakészen vezeti a szakmagyakorlók továbbképzésének teljesítését. A névjegyzéket vezető szerv kérésére a szakmagyakorló köteles a részére kiállított és átadott igazolások bemutatására.
 
-38. § (1) A jogosultsági vizsga és a beszámolóval végződő kötelező továbbképzés (a továbbiakban: beszámoló) célja annak vizsgálata, hogy a szakmagyakorló kellő mértékben ismeri-e a tevékenységére vonatkozó jogszabályi környezetet, képes-e a fontosabb jogszabályokat helyesen értelmezni, rendelkezik-e a szakmagyakorláshoz szükséges ismeretek alkalmazásában kellő jártassággal.
+## 25. [^104] A jogosultsági vizsga
 
-(2) Az energetikai tanúsítói jogosultság kivételével a jogosultság megállapítását követő egy éven belül a szakmagyakorlónak beszámolót kell tennie a 39. §-ban foglaltak szerint.
+38. § (1) A jogosultsági vizsga (a továbbiakban: vizsga) célja annak ellenőrzése, hogy a szakmagyakorló kellő mértékben elsajátította-e a tevékenységére vonatkozó jogszabályi környezetet, így képes-e a fontosabb jogszabályokat helyesen értelmezni, rendelkezik-e a szakmagyakorláshoz szükséges ismeretek alkalmazásában kellő jártassággal.
 
-(3)[^69] A jogosultsági vizsgát és a beszámolót az országos kamara szervezi és bonyolítja le. A jogosultsági vizsga és a beszámoló vizsga szakértői testülete legalább három- és legfeljebb öttagú testület. A vizsga szakértői testülete elnökből és tagokból áll. A vizsga szakértői testülete egy tagja a miniszter által megbízott személy. A vizsga szakértői testülete további tagjait az országos kamara bízza meg. A vizsga szakértői testülete ügyrendjét maga állapítja meg.
+(2) A szakmagyakorlási tevékenység engedélyezése iránti kérelem benyújtását megelőzően és az 1. melléklet szerinti gyakorlati idő teljesítését követően a szakmagyakorlónak vizsgát kell tennie a 39. §-ban foglaltak szerint.
 
-(4) A jogosultsági vizsga és a beszámoló díja összesen 34 000 forint, amelyből az általános rész díja 17 000 forint, a szakterületi rész díja 17 000 forint. A jogosultsági vizsga és a beszámoló a 39. § (10) bekezdése szerinti eredménytelenség esetén ismételhető. A javítóvizsga díja első alkalommal ingyenes, ezt követően a jogosultsági vizsga díjával azonos.
+(3) A vizsgát az országos kamara szervezi és bonyolítja le. A vizsga szakértői testületének tagjait az országos kamara bízza meg. A vizsga szakértői testületének egy tagja a miniszter által megbízott személy. A vizsga szakértői testület ügyrendjét maga állapítja meg. Az egyes vizsgákra az ügyrend szerint kijelölt vizsgabizottság az elnökből és 2–4 tagból áll.
 
-(5) A jogosultsági vizsga, a beszámoló díját a vizsgára történő jelentkezéskor kell befizetni a vizsgát szervező országos kamara elkülönítetten vezetett számlájára.
+(4) A vizsga díja összesen 34 000 forint, amelyből az általános rész díja 17 000 forint, a szakterületi rész díja 17 000 forint. A vizsga a 39. § (10) bekezdése szerinti eredménytelenség esetén megismételhető. A javítóvizsga díja első alkalommal ingyenes, ezt követően a jogosultsági vizsga díjával azonos.
 
-(6) A vizsgázó köteles értesíteni a vizsgaszervezőt, amennyiben a visszaigazolt vizsgán nem tud részt venni. Amennyiben a vizsgára jelentkező szakmagyakorló legkésőbb a vizsga napját megelőző második munkanapig nem tesz eleget értesítési kötelezettségének, akkor a befizetett vizsgadíj összegéből az adminisztrációs költségek fedezésére 3000 forint levonásra kerül.
+(5) A vizsga díját a vizsgára történő jelentkezéskor kell befizetni a szervező országos kamara elkülönítetten vezetett számlájára.
 
-(7)[^70] A jogosultsági vizsga és a beszámoló általános része alól a vizsga szakértői testülete az ügyrendjében meghatározott módon felmentést ad, ha a szakmagyakorló más jogosultság megszerzéséhez ilyen tartalmú vizsgát már tett, vagy rendelkezik olyan vizsgával, amelynek követelménye 80%-ban megegyezik az általános rész követelményrendszerével. A jogosultsági vizsga szakterületi része alól felmentés nem adható. A felelős műszaki vezető, az építési műszaki ellenőr az általános építmények építési műszaki ellenőri, szakági építési műszaki ellenőri szakterületeken mentesül a beszámoló alól, ha építési műszaki ellenőri OKJ bizonyítvánnyal rendelkezik.
+(6) A vizsgázó köteles értesíteni a vizsgaszervezőt, ha a visszaigazolt vizsgán nem tud részt venni. Ha a vizsgára jelentkező szakmagyakorló legkésőbb a vizsga napját megelőző ötödik munkanapig nem tesz eleget értesítési kötelezettségének, akkor a befizetett vizsgadíj összegéből az adminisztrációs költségek fedezésére 3000 forint levonásra kerül.
 
-[^69]: A 38. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 13. pontja szerint módosított szöveg.
-[^70]: A 38. § (7) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 14. pontja szerint módosított szöveg.
+(7) A jogosultsági vizsga általános vagy szakterületi része alól a vizsga szakértői testülete az ügyrendje szerint felmentést ad, ha a szakmagyakorló más jogosultság megszerzéséhez ilyen tartalmú vizsgát már tett, vagy rendelkezik olyan vizsgával, amelynek követelménye legalább 80%-ban megegyezik az általános vagy szakterületi rész követelményrendszerével.
+
+[^103]: A 37. § a 618/2021. (XI. 8.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^104]: A 25. alcím (38–39. §) a 618/2021. (XI. 8.) Korm. rendelet 11. §-ával megállapított szöveg.
