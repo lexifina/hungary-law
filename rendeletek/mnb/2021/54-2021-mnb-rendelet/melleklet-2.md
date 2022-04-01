@@ -38,7 +38,7 @@
 
 | 16 | E23 | A központi értéktárnál vezetett egyesített összevont értékpapírszámlákon és biztosíték értékpapír letéti számlákon lévő értékpapír-állományok | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 3. munkanap |
 
-| 17 | E24 | A hitelintézetek saját tulajdonában lévő értékpapírok állományának napi adatai | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank kivételével a bank, az ezen típusú EGT-fióktelep, valamint a kijelölt szakosított hitelintézet | napi | elektronikus úton (ERA rendszer) |  |
+| 17 | E24 | A hitelintézetek saját tulajdonában lévő értékpapírok állományának napi adatai | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank kivételével a bank, az ezen típusú EGT-fióktelep, valamint a kijelölt szakosított hitelintézet | napi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő munkanap 14 óra |
 
 | 18 | E27 | Értékpapírok központi értéktár által kiadott ISIN kódjai és egyéb alapadatai | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 9 óra |
 
@@ -104,7 +104,7 @@
 
 | 49 | K02 | Napi jelentés a bankközi forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 8:30 óra |
 
-| 50 | K04 | Jelentés a mérlegen belüli külföldi bankközi ügyletek kamatlábáról és a mérlegen belüli belföldi bankközi devizaügyletek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) |  |
+| 50 | K04 | Jelentés a mérlegen belüli külföldi bankközi ügyletek kamatlábáról és a mérlegen belüli belföldi bankközi devizaügyletek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 2. munkanap |
 
 | 51 | K12 | Napi jelentés a bankközi overnight forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 8 óra |
 
@@ -222,7 +222,7 @@
 
 | 108 | P75 | Azonnali elszámolás forgalmának adatai | fizetési rendszer működtetését végző szervezet | napi két alkalommal | elektronikus úton (GiroHálóMail) | Valós Idejű Bruttó Elszámolási Rendszer (a továbbiakban: VIBER) munkanapon, a VIBER-nyitást és VIBER-zárást követő 30 percen belül |
 
-| 109 | P76 | Azonnali elszámolás tranzakciós adatai | az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszerhez kapcsolódó közvetlen vagy közvetett résztvevő, a szakosított hitelintézet és a MÁK kivételével | heti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva |  |
+| 109 | P76 | Azonnali elszámolás tranzakciós adatai | az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszerhez kapcsolódó közvetlen vagy közvetett résztvevő, a szakosított hitelintézet és a MÁK kivételével | heti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | a tárgyidőszakot követő 4. munkanap |
 
 | 110 | P81 | Napi valutaszállítási jelentés | kijelölt, pénzfeldolgozási tevékenység végzésére vonatkozó engedéllyel rendelkező szervezet | napi | elektronikus úton (ERA rendszer) | a tárgynapot követő munkanap 12 óra |
 
@@ -332,6 +332,6 @@
 
 | 7 | Z07 | Anonimizált konszolidált biztosított betéti adatok | Országos Betétbiztosítási Alap | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^4]
+2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^3]
 
-[^4]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a szerint módosított szöveg. A 2. melléklet E24, K04 és P76 MNB azonosító kódú adatszolgáltatáshoz kapcsolódó, a 2. melléklet II. pontjában foglalt táblák és kitöltési előírások a 2. § (2) bekezdése alapján 2022. április 1-jén lépnek hatályba.
+[^3]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a szerint módosított szöveg.
