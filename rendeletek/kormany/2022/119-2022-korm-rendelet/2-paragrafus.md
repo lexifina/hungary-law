@@ -1,5 +1,5 @@
-## 1. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet (a továbbiakban: Kr.) 3. melléklete az 1. melléklet szerint módosul.
+## 1. §[^1]
 
-## 2.[^1]
+## 2. Az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet módosítása
 
-[^1]: A 2. alcím (2. §) az 5. § (2) bekezdése alapján 2022. április 1-jén lép hatályba.
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
