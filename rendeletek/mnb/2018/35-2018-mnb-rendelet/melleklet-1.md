@@ -1,4 +1,4 @@
-## 6. §[^5] A hitelintézet és az ezen típusú EGT-fióktelep az adatszolgáltatást a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 46/2020. (XI. 20.) MNB rendelet 1. mellékletével módosított 1. mellékletben meghatározott adattartalommal és a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 46/2020. (XI. 20.) MNB rendelet 2. mellékletével módosított 2. mellékletben foglalt kitöltési előírások szerint első alkalommal 2021. szeptember hónapra mint tárgyidőszakra vonatkozóan jelenti.
+## 6. §[^5] A hitelintézet és az ezen típusú EGT-fióktelep az adatszolgáltatást a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 59/2021. (XI. 24.) MNB rendelet 1. mellékletével módosított 1. mellékletben meghatározott adattartalommal és a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 59/2021. (XI. 24.) MNB rendelet 2. mellékletével módosított 2. mellékletben foglalt kitöltési előírások szerint első alkalommal 2022. június hónapra mint tárgyidőszakra vonatkozóan jelenti.
 
 1. melléklet a 35/2018. (XI. 13.) MNB rendelethez[^6]
 
@@ -87,6 +87,18 @@ Az adatszolgáltatás részletes adattartalma
 | 25. | A kerethez kapcsolódó, annak megnyitása során felmerült mérlegtételek |
 
 | 26. | Keret egyéb jellemzője |
+
+| 27. | Effektív kamatláb |
+
+| 28. | Várható élettartam |
+
+| 29. | Céltartalék korrekció |
+
+| 30. | Bedőléskor fennálló kitettség (EAD) |
+
+| 31. | A keret értékvesztése értékelésének módja |
+
+| 32. | A keret értékvesztésének típusa |
 
 4. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
@@ -430,7 +442,7 @@ Az adatszolgáltatás részletes adattartalma
 
 | 169. | Behajtási kezelés (workout) alatti státuszra vonatkozó jelölés dátuma |
 
-| 170. | A hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU rendelet (a továbbiakban: CRR) szerinti nemteljesítő (default) státusz |
+| 170. | A hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU rendelet (a továbbiakban: CRR) szerinti nemteljesítő (default) státusz |
 
 | 171. | CRR szerinti nemteljesítő (default) státusz változásának időpontja |
 
@@ -459,6 +471,26 @@ Az adatszolgáltatás részletes adattartalma
 | 183. | Ügynök azonosítója |
 
 | 184. | Ügynöki jutalék összege forintban |
+
+| 185. | Effektív kamatláb |
+
+| 186. | Várható élettartam |
+
+| 187. | Értékvesztés korrekció |
+
+| 188. | Céltartalék korrekció |
+
+| 189. | Bedőléskor fennálló kitettség (EAD) |
+
+| 190. | Operatív program megnevezése |
+
+| 191. | Moratórium típusa |
+
+| 192. | Az instrumentum infrastruktúratámogató faktor (ISF) által érintett-e |
+
+| 193. | A keret értékvesztése értékelésének módja |
+
+| 194. | A keret értékvesztésének típusa |
 
 5. INSTM Instrumentum – megszűnés
 
@@ -544,6 +576,12 @@ Az adatszolgáltatás részletes adattartalma
 
 | 20. | Várható hitelezési veszteség alapján származtatott nemteljesítési valószínűség (PD) |
 
+| 21. | Értékvesztés-/céltartalékképzés során alkalmazott nemteljesítési valószínűség (PD) |
+
+| 22. | Értékvesztés-/céltartalékképzés során alkalmazott nemteljesítéskori veszteségráta (LGD) |
+
+| 23. | Értékvesztés-/céltartalékképzés során alkalmazott hitelegyenértékesítési tényező (CCF) |
+
 7. INST_UGYF Instrumentum – ügyfél
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -583,6 +621,8 @@ Az adatszolgáltatás részletes adattartalma
 | 17. | Iskolai végzettség |
 
 | 18. | Az ügyfél új ügyfél-e? |
+
+| 19. | Az ügyfél családi állapota |
 
 8. FEDE Fedezet – eredeti
 
@@ -634,6 +674,8 @@ Az adatszolgáltatás részletes adattartalma
 
 | 23. | A fedezet értékének megállapítása során helyszíni szemle történt-e? |
 
+| 24. | Ingatlanfedezet hitelbírálatkori piaci érték meghatározási módszere |
+
 9. FEDA Fedezet – aktuális
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -673,6 +715,8 @@ Az adatszolgáltatás részletes adattartalma
 | 17. | A fedezet értékének megállapítása során helyszíni szemle történt-e? |
 
 | 18. | Aktuális fedezetértékelési módszer |
+
+| 19. | Ingatlanfedezet aktuális piaci érték meghatározási módszere |
 
 10. INST_FED Instrumentum – fedezet
 
@@ -804,6 +848,10 @@ Az adatszolgáltatás részletes adattartalma
 
 | 20. | A késedelem technikai késedelem-e? |
 
+| 21. | Késedelmes napok száma – legrégebbi késedelem szerint |
+
+| 22. | Késedelmes napok száma – törlesztéssel korrigált |
+
 13. FOLY Folyósítás
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -924,6 +972,26 @@ Az adatszolgáltatás részletes adattartalma
 
 | 15. | Az ügyfél a CRR szerint KKV-e? |
 
+| 16. | Az ügyfél az adatszolgáltatónál nyilvántartott ügyfélcsoporthoz tartozik-e? |
+
+| 17. | Ügyfélcsoport azonosító |
+
+| 18. | Ügyfélcsoport-vezető országkódja |
+
+| 19. | Ügyfélcsoport-vezető belföldi vállalat adószáma |
+
+| 20. | Ügyfélcsoport-vezető külföldi vállalat azonosítója |
+
+| 21. | Ügyfélcsoport-vezető magánszemély vagy önálló vállalkozó azonosítója |
+
+| 22. | Az adatszolgáltató intézménynél az ügyféllel szembeni követelés nagykockázati kitettség-e? |
+
+| 23. | Az összevont alapú felügyelet alá tartozó, az adatszolgáltatót magában foglaló intézménycsoportnál az ügyféllel szembeni követelés nagykockázati kitettség-e? |
+
+| 24. | Az adós/adóstárs ügyfélnek az adott intézménynél volt-e korábban 30 napon túli késedelemben lévő hitele? |
+
+| 25. | Az ügyfél neme (személyi azonosító szerint) |
+
 18. UGYFBV Ügyfél – belföldi vállalkozás
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -979,6 +1047,20 @@ Az adatszolgáltatás részletes adattartalma
 | 30. | Külföldi vállalatközpont vállalkozás külföldi azonosítója |
 
 | 31. | A vállalkozás szektora |
+
+| 32. | Ügyfélcsoport-vezető országkódja |
+
+| 33. | Ügyfélcsoport-vezető belföldi vállalat adószáma |
+
+| 34. | Ügyfélcsoport-vezető külföldi vállalat azonosítója |
+
+| 35. | Ügyfélcsoport-vezető magánszemély vagy önálló vállalkozó azonosítója |
+
+| 36. | Az adatszolgáltató intézménynél az ügyféllel szembeni követelés nagykockázati kitettség-e? |
+
+| 37. | Az összevont alapú felügyelet alá tartozó, az adatszolgáltatót magában foglaló intézménycsoportnál az ügyféllel szembeni követelés nagykockázati kitettség-e? |
+
+| 38. | Az adós/adóstárs ügyfélnek az adott intézménynél volt-e korábban 30 napon túli késedelemben lévő hitele? |
 
 19. UGYFBVTN Ügyfél – belföldi vállalkozás – törzsszámmal nem rendelkező vállalkozások
 
@@ -1056,6 +1138,20 @@ Az adatszolgáltatás részletes adattartalma
 
 | 41. | Külföldi vállalatközpont vállalkozás külföldi azonosítója |
 
+| 42. | Ügyfélcsoport-vezető országkódja |
+
+| 43. | Ügyfélcsoport-vezető belföldi vállalat adószáma |
+
+| 44. | Ügyfélcsoport-vezető külföldi vállalat azonosítója |
+
+| 45. | Ügyfélcsoport-vezető magánszemély vagy önálló vállalkozó azonosítója |
+
+| 46. | Az adatszolgáltató intézménynél az ügyféllel szembeni követelés nagykockázati kitettség-e? |
+
+| 47. | Az összevont alapú felügyelet alá tartozó, az adatszolgáltatót magában foglaló intézménycsoportnál az ügyféllel szembeni követelés nagykockázati kitettség-e? |
+
+| 48. | Az adós/adóstárs ügyfélnek az adott intézménynél volt-e korábban 30 napon túli késedelemben lévő hitele? |
+
 20. UGYFKV Ügyfél – külföldi vállalkozás
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -1117,6 +1213,22 @@ Az adatszolgáltatás részletes adattartalma
 | 34. | Partner kapcsolat típusa (pl. anyavállalat, leányvállalat, egyéb csoporton belüli vállalat, csoporton kívüli vállalat) |
 
 | 35. | Konszolidációs körbe bevont ügyfél – prudenciális konszolidáció |
+
+| 36. | Ügyfélcsoport-vezető országkódja |
+
+| 37. | Ügyfélcsoport-vezető belföldi vállalat adószáma |
+
+| 38. | Ügyfélcsoport-vezető külföldi vállalat azonosítója |
+
+| 39. | Ügyfélcsoport-vezető magánszemély vagy önálló vállalkozó azonosítója |
+
+| 40. | Az adatszolgáltató intézménynél az ügyféllel szembeni követelés nagykockázati kitettség-e? |
+
+| 41. | Az összevont alapú felügyelet alá tartozó, az adatszolgáltatót magában foglaló intézménycsoportnál az ügyféllel szembeni követelés nagykockázati kitettség-e? |
+
+| 42. | Az adós/adóstárs ügyfélnek az adott intézménynél volt-e korábban 30 napon túli késedelemben lévő hitele? |
+
+| 43. | Nemzetközi intézmény kódja |
 
 21. UGYFM Ügyfélminősítés
 
@@ -1256,5 +1368,17 @@ Az adatszolgáltatás részletes adattartalma
 
 | 30. | A hitelezett kereskedelmi ingatlan elhelyezkedése |
 
-[^5]: A 6. §-t a 46/2020. (XI. 20.) MNB rendelet 3. §-a iktatta be.
-[^6]: Az 1. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (1) bekezdése szerint módosított szöveg.
+24. INST_KAM Instrumentum – kamatstatisztika
+
+| 1. | Megfigyelt szervezet azonosító |
+
+| 2. | Instrumentum (speciális keret) szervezeti azonosító |
+
+| 3. | Instrumentum (nem speciális keret és nem keret) szervezeti azonosító |
+
+| 4. | Instrumentum azonosítója a K21 MNB azonosító kódú adatszolgáltatásban |
+
+| 5. | Instrumentum azonosítója a K23 MNB azonosító kódú adatszolgáltatásban |
+
+[^5]: A 6. §-t a 46/2020. (XI. 20.) MNB rendelet 3. §-a iktatta be, szövege az 59/2021. (XI. 24.) MNB rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja szerint módosított szöveg.

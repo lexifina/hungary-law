@@ -94,7 +94,7 @@ A regisztráció során felhasználónévként kizárólag egyedi, más felhaszn
 
 4. Megfigyelt partnerek szektora
 
-4.1. Amennyiben az – akár rezidens, akár nem-rezidens – ügyfél adósi, adóstársi szerepkörben vesz részt az adott hitelügyletben, az adatszolgáltatásban az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. A. 2. pontjában felsorolt szektorokba tartozó ügyfelekre vonatkozó adatokat kell jelenteni azzal, hogy a B) Központi bank szektorába sorolt Magyar Nemzeti Bankra vonatkozó adatok nem jelentendők, a C) Egyéb monetáris pénzügyi intézmények szektorába sorolt ügyfelek közül pedig csak az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. A. 4. pontjában hivatkozott C6 alcsoportkód alá tartozó ügyfelekre vonatkozó adatok szerepeltetendők.
+4.1. Amennyiben az – akár rezidens, akár nem rezidens – ügyfél adósi, adóstársi szerepkörben vesz részt az adott hitelügyletben, az adatszolgáltatásban az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. A. 2. pontjában felsorolt szektorokba tartozó ügyfelekre vonatkozó adatokat kell jelenteni, azzal, hogy a B) Központi bank szektorába sorolt MNB-re vonatkozó adatok nem jelentendők, hitelintézet adatszolgáltató esetén a C) Egyéb monetáris pénzügyi intézmények szektorába sorolt ügyfelek közül csak az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. A. 4. pontjában hivatkozott C6 alcsoportkód alá tartozó ügyfelekre vonatkozó adatok szerepeltetendők (kivéve azt az esetet, ha valamely MNB által biztosított eszköz igénybevételéhez előfeltétel a bankközi ügyletek szerepeltetése).
 
 Amennyiben az adatszolgáltatásban jelentendő hitelhez tartozó ügyfelek között van az előző bekezdés szerinti szektorba tartozó adós, adóstárs, akkor a hitelhez tartozó valamennyi adós, adóstárs jelentendő, függetlenül azok szektorától.
 
@@ -122,6 +122,8 @@ az irányadók.
 
 5.7. Az ESRB kódú adatkört a negyedév első két hónapjára vonatkozóan nemlegesen kell teljesíteni, míg a negyedév utolsó hónapjára vonatkozó adatszolgáltatásban a teljes tárgynegyedév adatai jelentendők.
 
+5.8. Az INST_KAM adatkörben az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet szerinti „Jelentés a nem pénzügyi vállalatok egyedi hitelszerződéseiről” (MNB azonosító kód: K21) adatszolgáltatásban jelentett instrumentum azonosító szerepeltetendő az „Instrumentum azonosítója a K21 MNB azonosító kódú adatszolgáltatásban” mezőben, vagy a „Jelentés a háztartások és a háztartásokat segítő nonprofit intézmények egyedi hitelszerződéseiről” (MNB azonosító kód: K23) adatszolgáltatásban jelentett instrumentum azonosító szerepeltetendő az „Instrumentum azonosítója a K23 MNB azonosító kódú adatszolgáltatásban” mezőben. Egy instrumentumhoz kapcsolódóan csak az egyik azonosító adható meg az „Instrumentum azonosítója a K21 MNB azonosító kódú adatszolgáltatásban” és az „Instrumentum azonosítója a K23 MNB azonosító kódú adatszolgáltatásban” mezőkben jelentendő azonosítók közül.
+
 6. Irányelvek
 
 A statisztikai információk helyessége érdekében
@@ -134,9 +136,9 @@ c) az adott adatszolgáltató által teljesített különböző típusú adatszo
 
 7. Országonkénti bontás
 
-7.1. Az országonkénti bontás azt jelenti, hogy az adatszolgáltató követelése mely országgal vagy nemzetközi szervezettel szemben áll fenn. Ezen adatok megadásakor az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 3. melléklet 4.2. pontja szerinti, az MNB honlapján közzétett technikai segédletben meghatározott országkódokat kell alkalmazni.
+7.1. Az országonkénti bontás azt jelenti, hogy az adatszolgáltató követelése mely országgal vagy nemzetközi szervezettel szemben áll fenn. Ezen adatok megadásakor az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 3. melléklet 4.2. pontja szerinti, az MNB honlapján közzétett technikai segédletben meghatározott országkódokat kell alkalmazni, a 7.2 pontban foglalt kivétellel.
 
-7.2. Amennyiben a nem-rezidens fél nemzetközi szervezet vagy nemzetközi intézmény (pl. Világbank, EIB, EBRD, IMF, EKB), úgy azt nem a székhelynek megfelelő országkódon, hanem a szervezetnek vagy intézménynek megfelelő kódon kell jelenteni, az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 3. melléklet 6. pontja szerinti, az MNB honlapján közzétett technikai segédletben meghatározott országkódokat alkalmazva.
+7.2. Amennyiben a nem-rezidens fél nemzetközi szervezet vagy nemzetközi intézmény (pl. Világbank, EIB, EBRD, IMF, EKB), úgy azt a székhelynek megfelelő országkódon kell jelenteni, a szervezetnek vagy intézménynek megfelelő, az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 3. melléklet 6. pontja szerinti, az MNB honlapján közzétett technikai segédletben meghatározott intézménykódokat az UGYFKV adatkörben, a „Nemzetközi intézmény kódja” mezőben kell szerepeltetni.
 
 8. Beküldési határidő
 
@@ -190,7 +192,7 @@ A szindikált hitel adatait a SZIND kódú adatkörben kell jelenteni. Amennyibe
 
 5.2. A fedezet jelentésének alapegysége az adatszolgáltató által egységesen értékelt fedezet.
 
-5.3. Csak azt a fedezetet kell jelenteni, amely valamely jelentett instrumentumhoz kapcsolódik. A FEDE és a FEDA kódú adatkörben az összes fedezetet jelenteni kell, a CRR-nek való megfelelőségtől függetlenül.
+5.3. Csak azt a fedezetet kell jelenteni, amely valamely jelentett instrumentumhoz kapcsolódik. A FEDE és a FEDA kódú adatkörben az összes, jelentett instrumentumhoz kapcsolódó fedezetet jelenteni kell teljeskörűen, a CRR-nek való megfelelőségtől függetlenül.
 
 6. A fedezet megszűnésének jelentése
 
@@ -206,7 +208,7 @@ az INST_FED kódú adatkörben nem jelentendő összerendelés. Ha a fedezet má
 
 7.2. A Háztartások szektorába tartozó fedezetnyújtó esetében az UGYFL kódú adatkörben csak a fedezetnyújtó anonim kódja és az ügyféljelleg – háztartás attribútum jelentendő, a többi attribútum nem.
 
-7.3. Ugyanazon természetes személyt ugyanazon anonim azonosítóval kell jelenteni függetlenül attól, hogy az adott hitelügyletben magánszemélyként vagy önálló vállalkozóként vesz részt. Az anonim azonosítónak időben állandónak kell lennie.
+7.3. Ugyanazon természetes személyt ugyanazon – az MNB által rendelkezésre bocsátott Kódképzési leírás szerint megképzett – anonim kapcsolati kóddal mint anonim azonosítóval kell jelenteni, függetlenül attól, hogy az adott hitelügyletben magánszemélyként vagy önálló vállalkozóként vesz részt. Az anonim azonosítónak időben állandónak kell lennie.
 
 7.4. A Háztartások szektorába tartozó ügyfelek esetében a HBIR kódú adatkörben kell megadni az adós és adóstárs szerepkörben lévő ügyfél hitelbírálatnál figyelembe vett jövedelmére és munkaviszonyára vonatkozó adatait. Az adatokat frissíteni kell, amennyiben ugyanazon ügyfél újonnan felvett hitelénél az új hitelbírálati folyamatban aktualizált adatok állnak rendelkezésre. Amennyiben a HBIR kódú adatkörben szereplő ügyféladatok hitelbírálattól függetlenül is felülvizsgálatra kerülnek, az új adatokat szintén szükséges jelenteni abban a tárgyidőszakban, amikor az új adatok rendelkezésre állnak. Amennyiben nem áll rendelkezésre a jövedelemadatok tekintetében a részletes bontás, legalább a hitelbírálat során figyelembe vett összes jövedelem összegét kell megadni.
 
@@ -262,7 +264,7 @@ az INST_FED kódú adatkörben nem jelentendő összerendelés. Ha a fedezet má
 
 12.1. SZIND Szindikált szerződés
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében a SZIND adatkör nemlegesen töltendő.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében a SZIND adatkör nem töltendő.
 
 12.2. INSTK Instrumentum – speciális keretjellegű instrumentumok
 
@@ -274,15 +276,13 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő az 51., 54., 80., 81., 87., 88., 125., 126. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 6., 7., 21., 24., 28–30., 35., 40., 42., 46–48., 50–54., 59., 61–74., 80., 81., 87–90., 93–96., 105–110., 112., 125–128., 130–134., 138., 141., 155., 156., 161., 170–173. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 6., 7., 21., 24., 28–30., 35., 40., 42., 46–48., 50–54., 59., 61–74., 80., 81., 87., 88., 93–96., 105–110., 112., 125–128., 130–134., 138., 141., 155., 156., 161., 170–173., 192. sorszámú attribútumra vonatkozó mező.
 
 12.4. INSTM Instrumentum – megszűnés
 
 A teljes adatszolgáltatói kör tekintetében nem töltendő a 16., 17. sorszámú attribútumra vonatkozó mező.
 
-12.5. INSTN Instrumentum – felügyeleti adatok
-
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 4–7., 11–17. sorszámú attribútumra vonatkozó mező.
+12.5.
 
 12.6. INST_UGYF Instrumentum – ügyfél
 
@@ -310,25 +310,25 @@ A teljes adatszolgáltatói kör tekintetében nem töltendő a 2. sorszámú at
 
 12.11. UGYFL Ügyfél – háztartás – lakosság, önálló vállalkozók
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 15. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 15., 22. sorszámú attribútumra vonatkozó mező.
 
 12.12. UGYFBV Ügyfél – belföldi vállalkozás
 
-A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 10., 11., 15–30. sorszámú attribútumra vonatkozó mező.
+A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 10., 11., 15., 18–30. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő az 5., 10., 11., 14–30. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő az 5., 10., 11., 14–30., 36. sorszámú attribútumra vonatkozó mező.
 
 12.13. UGYFBVTN Ügyfél – belföldi vállalkozás – törzsszámmal nem rendelkező vállalkozások
 
-A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 21., 22., 26–41. sorszámú attribútumra vonatkozó mező.
+A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 21., 22., 26., 29–41. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 16., 21., 22., 25–41. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 16., 21., 22., 25–41., 46. sorszámú attribútumra vonatkozó mező.
 
 12.14. UGYFKV Ügyfél – külföldi vállalkozás
 
-A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 23., 24., 28–30., 33., 35. sorszámú attribútumra vonatkozó mező.
+A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 28–30., 33., 35. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 23., 24., 27–30., 33–35. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 23., 24., 27–30., 33–35., 40. sorszámú attribútumra vonatkozó mező.
 
 12.15. UGYFM Ügyfélminősítés
 
@@ -340,8 +340,12 @@ A teljes adatszolgáltatói kör tekintetében nem töltendő a 2. sorszámú at
 
 12.17. ESRB Az ERKT/2019/3 ajánlással módosított ERKT/2016/14 ajánlásban meghatározott ingatlanokra vonatkozó mutatók
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében az ESRB adatkör nemlegesen töltendő.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében az ESRB adatkör nem töltendő.
+
+12.18. INST_KAM Instrumentum – kamatstatisztika
+
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében az INST_KAM adatkör nem töltendő.
 
 13. Az adatszolgáltatáshoz használandó kódokat, illetve a kitöltést segítő módszertani útmutatást a 3. melléklet 2., illetve 3. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza. Az adatszolgáltatás hibátlan beküldését elősegítő ellenőrzési szabályokat a 3. melléklet 5. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza.
 
-[^7]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
