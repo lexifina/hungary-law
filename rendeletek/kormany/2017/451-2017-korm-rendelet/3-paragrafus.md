@@ -1,14 +1,14 @@
 3. § (1) A Gyftv. 32. § (2) bekezdése szerinti kérelmet
 
-a) az orvostechnikai eszköznek minősülő gyógyászati segédeszköz árához nyújtható támogatás megállapítására és a támogatás mértékének módosítására az EüMr. 1. számú mellékletében,
+a)[^2] az orvostechnikai eszköznek minősülő gyógyászati segédeszköz árához nyújtható támogatás megállapítására az EüMr. 1. számú mellékletében,
 
-b) az önellenőrzésre szolgáló in vitro diagnosztikai orvostechnikai eszköznek minősülő gyógyászati segédeszköz árához nyújtható támogatás megállapítására és a támogatás mértékének módosítására az EüMr. 2. számú mellékletében,
+b)[^3] az önellenőrzésre szolgáló in vitro diagnosztikai orvostechnikai eszköznek minősülő gyógyászati segédeszköz árához nyújtható támogatás megállapítására az EüMr. 2. számú mellékletében,
 
-c) a nem orvostechnikai eszköznek minősülő gyógyászati segédeszköz árához nyújtható támogatás megállapítására és a támogatás mértékének módosítására az EüMr. 3. számú mellékletében,
+c)[^4] a nem orvostechnikai eszköznek minősülő gyógyászati segédeszköz árához nyújtható támogatás megállapítására az EüMr. 3. számú mellékletében,
 
 d) a gyógyászati segédeszköz társadalombiztosítási támogatással történő közfinanszírozás alapjául elfogadott áfa nélküli nettó kölcsönzési napidíjához nyújtott támogatás megállapítására az EüMr. 4. számú mellékletében,
 
-e) az egyedi méretvétel alapján készített gyógyászati segédeszköz árához nyújtható támogatás megállapítására és a támogatás mértékének módosítására az EüMr. 5. számú mellékletében
+e)[^5] az egyedi méretvétel alapján készített gyógyászati segédeszköz árához nyújtható támogatás megállapítására az EüMr. 5. számú mellékletében
 
 ## meghatározott adattartalommal, nyomtatott vagy elektronikus formában kell benyújtani. Nem elektronikus kapcsolattartás keretében benyújtott kérelem esetén a mellékletben meghatározott adatokat elektronikus adathordozón kell benyújtani.
 
@@ -60,9 +60,9 @@ i) a Gyftv. 32. § (2) bekezdés a) pont aa) és ab) alpontja, b) pont ba) és b
 
 j) a kérelmezett eszköz használatban levő – az EüMr. 1. és 4. számú melléklete esetében az R. 1. melléklet A. rész II. fejezet 13.3. pontja, az EüMr. 2. számú melléklete esetében az IVD-rendelet 1. számú melléklet B. rész 13.4. pontja szerinti – címkéje másolatát, kivéve a Gyftv. 32. § (2) bekezdés b) pont bb), be) és bg) alpontjában foglalt bejelentéseket, illetve b) pont bc) alpontja szerinti kérelmet;
 
-k)[^2] az eszköz gyártói megfelelőségi nyilatkozatát vagy ha azzal rendelkeznie kell, annak megfelelőségi tanúsítványát, az EüMr. 2. számú melléklete esetében az IVD-rendeletben előírt EK tanúsítványt;
+k)[^6] az eszköz gyártói megfelelőségi nyilatkozatát vagy ha azzal rendelkeznie kell, annak megfelelőségi tanúsítványát, az EüMr. 2. számú melléklete esetében az IVD-rendeletben előírt EK tanúsítványt;
 
-l)[^3] az EüMr. 1., az EüMr. 2. és az EüMr. 4. számú melléklete esetében magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében az OGYÉI-nél történt regisztrációról szóló igazolást, míg az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a gyártó vagy a meghatalmazott képviselő székhelye szerinti országban történt regisztrációról szóló igazolást, ha az az MDR., az orvostechnikai eszközökről szóló miniszteri rendelet vagy az IVD-rendelet szerint kötelező;
+l)[^7] az EüMr. 1., az EüMr. 2. és az EüMr. 4. számú melléklete esetében magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél (a továbbiakban: OGYÉI) történt regisztrációról szóló igazolást, míg az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a gyártó vagy a meghatalmazott képviselő székhelye szerinti országban történt regisztrációról szóló igazolást, ha az az MDR., az orvostechnikai eszközökről szóló miniszteri rendelet vagy az IVD-rendelet szerint kötelező;
 
 m) az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 11.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 10.1. pontja szerinti szakorvosi véleményt; és ha rendelkezésre áll, az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 10.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 9.1. pontja szerinti tanulmányt;
 
@@ -100,5 +100,9 @@ bb) ha a kérelmező a NEAK szállítójegyzékében nem szerepel, a cégjegyzé
 
 (14) Kérelemre indult eljárásban nem fogadható be olyan gyógyászati segédeszköz, amely nem felel meg az adott gyógyászati segédeszközre vonatkozó követelményjegyzékben foglaltaknak.
 
-[^2]: A 3. § (5) bekezdés k) pontja a 164/2020. (IV. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^3]: A 3. § (5) bekezdés l) pontja a 164/2020. (IV. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés a) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés b) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés c) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés e) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^6]: A 3. § (5) bekezdés k) pontja a 164/2020. (IV. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^7]: A 3. § (5) bekezdés l) pontja a 164/2020. (IV. 30.) Korm. rendelet 29. §-ával megállapított, a 114/2022. (III. 22.) Korm. rendelet 2. §-a szerint módosított szöveg.
