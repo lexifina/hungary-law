@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-12-20-5
 | 2018-02-23 | 2013-12-20-5H.5 | 3/2018. (I. 23.) EMMI rendelet |
 | 2019-10-23 | 2013-12-20-5H.6 | 39/2019. (X. 22.) ITM rendelet |
 | 2022-01-01 | 2013-12-20-5H.7 | 3/2018. (I. 23.) EMMI rendelet |
+| 2022-04-01 | 2013-12-20-5H.8 | 11/2022. (III. 31.) ITM rendelet |

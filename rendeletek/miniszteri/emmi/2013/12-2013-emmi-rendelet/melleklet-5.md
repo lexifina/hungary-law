@@ -14,7 +14,7 @@
 
 | 7. | Szakértői eljárás díja | 25 000 Ft | 25 000 Ft |
 
-5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^18]
+5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^21]
 
 |  | A | B | C |
 
@@ -178,4 +178,4 @@
 
 | 80. | Milton Friedman Egyetem | Forint pénzforgalmi bankszámla | Kereskedelmi és Hitelbank Zrt., 10403370-49535552-51491004 |
 
-[^18]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 39/2019. (X. 22.) ITM rendelet 1. §-a szerint módosított szöveg.
+[^21]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 39/2019. (X. 22.) ITM rendelet 1. §-a szerint módosított szöveg.
