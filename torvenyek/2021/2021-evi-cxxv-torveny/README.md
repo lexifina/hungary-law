@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-125-00-00
 | --- | --- | --- |
 | 2021-11-18 | 2021. évi CXXV. törvény | 2021-125-00-00.0 (közlönyállapot) |
 | 2021-11-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-125-00-00.1 |
+| 2022-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-125-00-00.2 |
