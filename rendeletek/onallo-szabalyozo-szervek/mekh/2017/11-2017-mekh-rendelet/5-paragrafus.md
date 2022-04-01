@@ -34,8 +34,9 @@ o) szervezett villamosenergia-piaci engedélyes a 14. melléklet,
 
 p) közvilágítási engedélyes a 15. melléklet,
 
-q) elektromos töltőberendezés üzemeltetője és/vagy elektromobilitás szolgáltató a 16. melléklet,
+q)[^14] elektromos töltőberendezés üzemeltetője a 16. melléklet,
 
 r) villamosenergia-tárolói engedélyes a 36. melléklet
 
 [^13]: Az 5. § a 17/2021. (XII. 16.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 5. § q) pontja a 3/2022. (III. 30.) MEKH rendelet 1. § (10) bekezdése szerint módosított szöveg.

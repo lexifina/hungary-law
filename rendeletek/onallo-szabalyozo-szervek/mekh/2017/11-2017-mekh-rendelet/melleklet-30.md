@@ -1,5 +1,5 @@
-## 20175Z20000011_135
+## 20175Z20000011_163
 
-30. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^50]
+30. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^53]
 
-[^50]: A 30. melléklet a 2/2021. (III. 24.) MEKH rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^53]: A 30. melléklet a 3/2022. (III. 30.) MEKH rendelet 1. § (6) bekezdésével megállapított szöveg.
