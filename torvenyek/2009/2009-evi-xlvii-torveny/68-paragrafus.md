@@ -94,7 +94,7 @@ jb) a 16. § (1) bekezdés c) pont ca), cb) alpontjában, f), g), i) pontjában,
 
 jc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok;
+k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pont ba) alpontjában foglalt adatok;
 
 l) határ-ellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat;
 
@@ -126,7 +126,7 @@ c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása, továbbá az ellátási és integrációs feladatai ellátása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+a) a 4. § (2) bekezdés b) pont ba) alpontjában meghatározott adatok,
 
 b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
@@ -136,7 +136,7 @@ d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (7) Az idegenrendészeti hatóság a harmadik ország állampolgára tartózkodásának engedélyezésére, a tartózkodás feltételeinek ellenőrzésére és az engedély visszavonására irányuló eljárásában közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+a) a 4. § (2) bekezdés b) pont ba) alpontjában meghatározott adatok,
 
 b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i), a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
@@ -146,7 +146,7 @@ d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (7a) Az idegenrendészeti hatóság az EGT-állampolgár vagy harmadik országbeli állampolgár családtagja tartózkodási jogát igazoló okmány kiállítására, valamint a tartózkodási jog és az állandó tartózkodási jog megszűnésének megállapítására irányuló eljárásban közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+a) a 4. § (2) bekezdés b) pont ba) alpontjában meghatározott adatok,
 
 b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i), a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
@@ -156,7 +156,7 @@ d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (8) A büntetés-végrehajtási intézet közvetlen hozzáféréssel jogosult
 
-a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés a) és b) pontjában foglalt adatot átvenni,
+a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés a) pontjában és b) pont ba) alpontjában foglalt adatot átvenni,
 
 b) a DNS-profil nyilvántartásba vételével kapcsolatos mintavételi kötelezettség fennállásának ellenőrzése céljából a 4. § (2) bekezdés e)–g) pontjában foglalt adatot átvenni, valamint
 

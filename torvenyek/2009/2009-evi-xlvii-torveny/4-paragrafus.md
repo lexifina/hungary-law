@@ -30,7 +30,11 @@ ah) állampolgárságát, előző állampolgárságát, valamint
 
 ai) lakcímét, továbbá annak megváltozása esetén előző lakcímét (a továbbiakban együtt: személyazonosító adatok),
 
-b) az érintett arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak,
+b) az érintett
+
+ba) arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak, valamint
+
+bb) szemből készített arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot (a továbbiakban: technikai kapcsoló szám),
 
 c) a kapcsolati kódot,
 
@@ -42,6 +46,12 @@ f) a szakrendszeri azonosító kódot, valamint
 
 g) azt a tényt, hogy a DNS-profil-nyilvántartásban szerepel-e az érintetthez tartozó kettő darab, a jogszabályban meghatározott feltételeknek megfelelő DNS-profil.
 
-(3) A bűnügyi nyilvántartó szerv a (2) bekezdés a) és b) pontjában meghatározott adatok nyilvántartásba vételével egyidejűleg kapcsolati kódot képez.
+(3) A bűnügyi nyilvántartó szerv
 
-(4)–(5)
+a) a (2) bekezdés a) pontjában és b) pont ba) alpontjában meghatározott adatok nyilvántartásba vételével egyidejűleg kapcsolati kódot képez,
+
+b) a (2) bekezdés b) pont ba) alpontjában meghatározott adatok közül a szemből készített arcképmáshoz a nyilvántartásba vétellel egyidejűleg technikai kapcsoló számot rendel.
+
+(4)
+
+(5)

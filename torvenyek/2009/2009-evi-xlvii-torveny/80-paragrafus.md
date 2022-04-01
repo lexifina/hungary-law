@@ -6,7 +6,7 @@
 
 (2) Ha az Európai Unió más tagállamának kijelölt központi hatósága olyan magyar állampolgárról igényel adatot, akire vonatkozóan a tagállami ítéletek nyilvántartásában is szerepel adat, a bűnügyi nyilvántartó szerv adattovábbítása e nyilvántartásban kezelt adatokra is kiterjed.
 
-(2a) A megkereső tagállam kijelölt központi hatósága részére – meghatározott kérelem teljesítésének kivételével – adat csak büntetőeljárás céljából adható át.
+(2a) A megkereső tagállam kijelölt központi hatósága részére – a 80/C. §-ban meghatározott kérelem teljesítésének kivételével – adat csak büntetőeljárás céljából adható át.
 
 (3) Az adattovábbítást megelőzően – ha az lehetséges – az adatok ellenőrzésével biztosítani kell, hogy azok naprakészek és pontosak legyenek. Amennyiben utóbb megállapításra került, hogy hibás vagy hiányos adatok kerültek továbbításra, erről az adatátvevőt haladéktalanul értesíteni kell.
 
