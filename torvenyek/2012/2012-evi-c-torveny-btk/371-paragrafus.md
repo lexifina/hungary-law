@@ -20,7 +20,7 @@ a) a rongálás nagyobb kárt okoz,
 
 b) az elkövető
 
-ba) védett kulturális javak körébe tartozó tárgyat, műemléket, régészeti lelőhelyet vagy régészeti leletet,
+ba) védett kulturális javak körébe tartozó tárgyat, műemléket, régészeti lelőhelyet, régészeti leletet vagy külföldi védelemben részesített kulturális örökségi elemet,
 
 bb) vallási tisztelet tárgyát vagy templomot, vallásgyakorlásra rendelt más helyet,
 

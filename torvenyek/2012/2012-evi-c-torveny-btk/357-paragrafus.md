@@ -11,3 +11,5 @@ b) műemlék olyan helyrehozhatatlan károsodását idézi elő, amelynek követ
 c) védett kulturális javak körébe tartozó tárgy vagy régészeti lelőhely helyrehozhatatlan károsodását idézi elő,
 
 egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt a tulajdonában álló külföldi védelemben részesített kulturális örökségi elemmel kapcsolatban követi el.

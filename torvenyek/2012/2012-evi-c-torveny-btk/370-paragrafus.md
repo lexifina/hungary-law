@@ -40,7 +40,7 @@ b) a kisebb értékre elkövetett lopást
 
 ba) a (2) bekezdés ba)–be) pontjában meghatározott valamely módon,
 
-bb) védett kulturális javak körébe tartozó tárgyra vagy régészeti leletre,
+bb) védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre,
 
 bc) vallási tisztelet tárgyára,
 

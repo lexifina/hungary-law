@@ -8,4 +8,4 @@ b) a véletlenül vagy tévedésből hozzá került idegen dolgot eltulajdonítj
 
 vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés két évig terjedő szabadságvesztés, ha a jogtalan elsajátítást védett kulturális javak körébe tartozó tárgyra vagy régészeti leletre követik el.
+(2) A büntetés két évig terjedő szabadságvesztés, ha a jogtalan elsajátítást védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre követik követik el.

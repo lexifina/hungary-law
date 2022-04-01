@@ -22,7 +22,7 @@ a) a sikkasztást nagyobb értékre,
 
 b) a kisebb értékre elkövetett sikkasztást a (2) bekezdés ba)–bc) pontjában meghatározott valamely módon, vagy
 
-c) a sikkasztást védett kulturális javak körébe tartozó tárgyra vagy régészeti leletre
+c) a sikkasztást védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre
 
 követik el.
 
