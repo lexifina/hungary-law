@@ -10,7 +10,7 @@ c)[^3] induló érték: az árrés 2021. október 1-jétől alkalmazott értéke
 
 d) mobilgáz-finanszírozási költség: azon árelem, amely a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: GET Vhr.) 30. § (2) bekezdésében előírt kötelezettség alapján hazai földgáztárolóban elhelyezett földgázkészlet finanszírozására nyújt fedezetet,
 
-e)[^4] nagykereskedői árrés: a volt közüzemi nagykereskedő forrásaival rendelkező kereskedőre (a továbbiakban: nagykereskedő) 2021-ben elvégzett költség-felülvizsgálata alapján megállapított árelem, amely az egyetemes szolgáltatásban vételező felhasználók ellátása érdekében végzett nagykereskedelmi tevékenység költségére nyújt fedezetet,
+e)[^4] nagykereskedői árrés: az egyetemes szolgáltatót ellátó földgázkereskedő forrásaival rendelkező kereskedőre (a továbbiakban: nagykereskedő) 2021-ben elvégzett költség-felülvizsgálata alapján megállapított árelem, amely az egyetemes szolgáltatásban vételező felhasználók ellátása érdekében végzett nagykereskedelmi tevékenység költségére nyújt fedezetet,
 
 f)[^5] egyetemes szolgáltató éves elszámolási elem: a rendszerhasználati díjak, valamint az egyetemes szolgáltatói engedélyes indokolt árbevételének elszámolására szolgáló árelem.
 
@@ -19,5 +19,5 @@ f)[^5] egyetemes szolgáltató éves elszámolási elem: a rendszerhasználati d
 [^1]: A 2. § (1) bekezdés a) pontja a 48/2021. (IX. 30.) ITM rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés b) pontja a 38/2017. (IX. 29.) NFM rendelet 14. §-ával megállapított, a 19/2018. (IX. 27.) ITM rendelet 8. § a) pontja, a 48/2021. (IX. 30.) ITM rendelet 8. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés c) pontja a 48/2021. (IX. 30.) ITM rendelet 8. § c) pontja szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdés e) pontja a 48/2021. (IX. 30.) ITM rendelet 8. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés e) pontja a 48/2021. (IX. 30.) ITM rendelet 8. § a) pontja, a 10/2022. (III. 31.) ITM rendelet 3. §-a szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés f) pontját a 8/2018. (III. 28.) NFM rendelet 10. §-a iktatta be, szövege a 48/2021. (IX. 30.) ITM rendelet 6. § (1) bekezdésével megállapított szöveg.
