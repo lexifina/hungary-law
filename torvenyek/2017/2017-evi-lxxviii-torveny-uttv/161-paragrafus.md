@@ -6,7 +6,7 @@
 
 (2) A területi kamara működési területén
 
-a) megszervezi, lebonyolítja, engedélyezi és ellenőrzi az ügyvédjelöltek és a jogi előadók képzését, továbbá az ügyvédi tevékenység gyakorlására jogosultak kötelező szakmai továbbképzését,
+a) megszervezi, lebonyolítja, engedélyezi és ellenőrzi az ügyvédjelöltek és a jogi előadók képzését, továbbá megszervezi és ellenőrzi az ügyvédi tevékenység gyakorlására jogosultak kötelező szakmai továbbképzését,
 
 b) gondoskodik a kamarai tisztségviselők megválasztásának lebonyolításáról,
 

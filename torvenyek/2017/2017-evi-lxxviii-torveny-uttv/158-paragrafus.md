@@ -40,7 +40,7 @@
 
 20. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítéséről, felügyeleti eljárásrendről, kockázatértékelésről és útmutatóról, valamint az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeiről, auditálásának módjáról és az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtásáról,
 
-21. az ügyvédi tevékenységet folytatók továbbképzési kötelezettségéről, annak a nyilvántartásáról, a továbbképzés keretében elfogadható képzések, szakmai és tudományos tevékenységek követelményrendszeréről, valamint engedélyezésük, illetve elfogadásuk rendjéről,
+21. az ügyvédi tevékenységet folytatók továbbképzési kötelezettségéről, annak a nyilvántartásáról, a továbbképzés keretében elfogadható képzések, szakmai és tudományos tevékenységek követelményrendszeréről, valamint engedélyezésük, illetve elfogadásuk rendjéről, továbbá az ingatlan-nyilvántartási ügyben való jogosultság megszerzéséhez előírt továbbképzésről és számonkérésről,
 
 22. az ügyvédjelöltek és jogi előadók képzésének szabályairól, az ügyvédi tevékenység gyakorlására jogosultak, az ügyvédjelöltek és jogi előadók ezzel kapcsolatos feladatairól, valamint az ügyvédi kamaráknak az ügyvédjelöltek és jogi előadók képzésének megszervezésével kapcsolatos feladatairól,
 
@@ -84,4 +84,4 @@
 
 (6) Az alkalmazott ügyvéd vagy a kamarai jogtanácsos által fizetendő kamarai tagdíj összege az ügyvéd által fizetendő kamarai tagdíj összegének nyolcvan százaléka.
 
-(7) Az ügyvédi tevékenységet gyakorlók továbbképzéséről szóló szabályzatban legalább öt éves továbbképzési ciklust kell meghatározni. amely továbbképzési kötelezettség teljesítéséhez számonkérés nem írható elő.
+(7) Az ügyvédi tevékenységet gyakorlók továbbképzéséről szóló szabályzatban legalább öt éves továbbképzési ciklust kell meghatározni. amely továbbképzési kötelezettség teljesítéséhez – az ingatlan-nyilvántartási ügyben való jogosultság megszerzéséhez előírt továbbképzés kivételével – számonkérés nem írható elő.

@@ -16,7 +16,7 @@ d) vezeti az ügyvédi kamarai nyilvántartást, továbbá biztosítja az ehhez 
 
 e) gondoskodik a képzési helyek akkreditációjáról,
 
-f) összeállítja a szakmai képzések és továbbképzések tematikáját,
+f) összeállítja a szakmai képzések és továbbképzések tematikáját, dönt az ügyvédi tevékenységet folytatók továbbképzési kötelezettsége körében elfogadható képzésekről, szakmai és tudományos tevékenységekről, továbbá az ingatlan-nyilvántartási ügyben való eljárási jogosultság megszerzéséhez előírt számonkérésről,
 
 g) önállóan vagy más szakmai kamarával együtt országos levéltárat (a továbbiakban: ügyvédi levéltár) működtet és tart fenn, valamint
 

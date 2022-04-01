@@ -18,7 +18,7 @@ d) kezdeményezheti az összeférhetetlenség megállapítását,
 
 e)
 
-f) dönt az ügyvédi tevékenységet folytatók továbbképzési kötelezettsége körében elfogadható képzésekről, szakmai és tudományos tevékenységekről,
+f)
 
 g) dönt a tisztségviselők díjazásáról,
 
