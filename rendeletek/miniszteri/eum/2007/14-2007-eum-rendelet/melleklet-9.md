@@ -1,5 +1,3 @@
-## Tartós, vagy nem tartós használatra, illetve ruházati jellegű tartós használatra szánt gyógyászati segédeszközök
-
 |  | A | B | C |
 
 | 1. |  | ISO | Név |
@@ -358,6 +356,8 @@
 
 |  | RT – ruházati jellegű tartós használatra szánt eszközök |
 
-9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^180]
+9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^175]
 
-[^180]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte, újonnan a 7/2016. (III. 30.) EMMI rendelet 15. § (8) bekezdése iktatta be.
+Társadalombiztosítási támogatással kölcsönözhető gyógyászati segédeszközök
+
+[^175]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte, újonnan a 7/2016. (III. 30.) EMMI rendelet 15. § (8) bekezdése iktatta be.

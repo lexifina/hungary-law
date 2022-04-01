@@ -1,6 +1,4 @@
-## 10/D. §[^44]
-
-10/E. §[^45] (1) A szállítójegyzék minden minősített forgalomba hozóra vonatkozóan tartalmazza a forgalomba hozó
+10/E. §[^50] (1) A szállítójegyzék minden minősített forgalomba hozóra vonatkozóan tartalmazza a forgalomba hozó
 
 a) nevét, székhelyének címét, telefonos és elektronikus elérhetőségét,
 
@@ -14,8 +12,7 @@ e) által végzett forgalomba hozatali tevékenység típusát, és
 
 f) szállítókódját.
 
-(2)–(6)[^46]
+(2)–(6)[^51]
 
-[^44]: A 10/D. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 43. § h) pontja.
-[^45]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
-[^46]: A 10/E. § (2)–(6) bekezdését a 8/2018. (II. 13.) EMMI rendelet 43. § i) pontja hatályon kívül helyezte.
+[^50]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^51]: A 10/E. § (2)–(6) bekezdését a 8/2018. (II. 13.) EMMI rendelet 43. § i) pontja hatályon kívül helyezte.

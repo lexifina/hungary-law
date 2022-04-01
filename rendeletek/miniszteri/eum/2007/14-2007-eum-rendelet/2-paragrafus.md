@@ -10,7 +10,7 @@ d) társadalombiztosítási támogatással történő kölcsönzésének igényl
 
 e)[^5] társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalmát az egyedi méretvétel alapján készített gyógyászati segédeszközök (rendelésre készült orvostechnikai eszközök) tekintetében az 5. számú melléklet
 
-## határozza meg.
+határozza meg.
 
 (2) A 6. számú melléklet határozza meg azoknak a gyógyászati segédeszközöknek a körét, amelyekhez nem lehet a Gyftv. 32. § (2) bekezdése szerinti befogadás iránti kérelmet benyújtani.
 
