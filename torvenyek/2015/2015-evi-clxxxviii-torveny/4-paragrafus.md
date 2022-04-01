@@ -16,7 +16,9 @@ f) a menekültügyi nyilvántartásban tárolt arcképmásból képzett arckép 
 
 g) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok útiokmány-nyilvántartásban tárolt arcképmásából képzett arckép profilokat, valamint
 
-h) az a)–g) pontban meghatározott adathoz rendelt technikai kapcsoló számot, valamint a metaadatokat.
+h) a bűnügyi nyilvántartási rendszer részét képező személyazonosító adatok és fényképek nyilvántartásában tárolt fényképek közül a szemből készített arcképmásból képzett arckép profilokat,
+
+i) az a)–h) pontban meghatározott adathoz rendelt technikai kapcsoló számot, valamint a metaadatokat.
 
 (2) Az adatközlésre kötelezett szerv az általa vezetett nyilvántartásban szereplő természetes személyhez és annak arcképmásához rendelten technikai kapcsoló számot képez. Az adatközlésre kötelezett szerv az arcképmást, a technikai kapcsoló számot és a metaadatokat közvetlen adatkapcsolat útján továbbítja a központi szerv részére.
 
@@ -26,7 +28,9 @@ h) az a)–g) pontban meghatározott adathoz rendelt technikai kapcsoló számot
 
 (5) Ha az adatközlésre kötelezett szerv a természetes személyhez kapcsolódóan új arcképmást vesz nyilvántartásba, a (2) bekezdés szerinti eljárást az új arcképmás nyilvántartásba vételétől számított három napon belül lefolytatja.
 
-(6) Az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás a nyilvántartásból törlésre került, valamint azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás nyilvántartásba vételétől számított
+(6) Az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás a nyilvántartásból törlésre került.
+
+(6a) A bűnügyi nyilvántartó szerv kivételével az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás nyilvántartásba vételétől számított
 
 a) az (1) bekezdés a) pontjában meghatározott esetben 15 év,
 

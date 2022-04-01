@@ -20,7 +20,7 @@ f) technikai kapcsoló szám: az adatközlésre kötelezett szerv által képzet
 
 g) arcképelemző tevékenység: az arcképelemző rendszer informatikai jellegű összehasonlító, valamint az azt elemző személy kiértékelő tevékenységével kapcsolatos eljárások összessége,
 
-h) adatközlésre kötelezett szerv: a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartásait, a menekültügyi nyilvántartást, valamint az útiokmány-nyilvántartást vezető szerv,
+h) adatközlésre kötelezett szerv: a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait, a menekültügyi nyilvántartást és a központi útiokmány-nyilvántartást vezető szerv, valamint a bűnügyi nyilvántartó szerv,
 
 i) nyilvántartás: az arcképelemzési nyilvántartás,
 
