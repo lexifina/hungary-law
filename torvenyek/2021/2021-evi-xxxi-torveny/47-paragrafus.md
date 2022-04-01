@@ -1,1 +1,9 @@
-47. §
+47. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény a következő 4/C. §-sal egészül ki:
+
+„4/C. § (1) Ha a bűnügyi nyilvántartási rendszer részére a 6. § (3) és (4) bekezdése szerinti adatközlés érkezik, a bűnügyi nyilvántartó szerv az adatok nyilvántartásba vételével egyidejűleg az érintett arcképmásai közül a szemből készített arcképmáshoz technikai kapcsoló számot rendel.
+
+(2) A bűnügyi nyilvántartó szerv az érintett szemből készített arcképmását, az (1) bekezdés szerint képzett technikai kapcsoló számot, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott metaadatokat (a továbbiakban: metaadat), azok nyilvántartásba vétele és arckép profil képzése céljából, elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladéktalanul megküldi az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek.
+
+(3) A bűnügyi nyilvántartó szerv az érintett arcképmásának a 4/B. § (1) bekezdés szerinti törlésével egyidejűleg elektronikus úton, egyedi informatikai alkalmazás igénybevételével megküldi az (1) bekezdés szerint képzett technikai kapcsoló számot az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek az érintett szemből készített arcképmásának és az ahhoz rendelt technikai kapcsoló számnak, valamint a metaadatnak az arcképelemzési nyilvántartásból való törlése céljából.
+
+(4) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – a 4. § (2) bekezdés b) pont bb) alpontjában meghatározott adat közlésével is igényelhetnek adatot a nyilvántartásból.”
