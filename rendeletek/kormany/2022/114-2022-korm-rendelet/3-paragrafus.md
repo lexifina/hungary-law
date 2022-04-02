@@ -1,1 +1,3 @@
-## 2. § A Kr. 3. § (5) bekezdés l) pontjában az „OGYÉI-nél” szövegrész helyébe az „Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél (a továbbiakban: OGYÉI)” szöveg lép.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
