@@ -1,1 +1,3 @@
-### 50. §
+50. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 4/C. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A bűnügyi nyilvántartó szerv az érintett szemből készített arcképmását, az (1) bekezdés szerint képzett technikai kapcsoló számot, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott metaadatokat (a továbbiakban: metaadat) arckép profil képzése, valamint az arckép profil, a technikai kapcsoló szám és a metaadatok nyilvántartásba vétele céljából, elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladéktalanul megküldi az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek.”
