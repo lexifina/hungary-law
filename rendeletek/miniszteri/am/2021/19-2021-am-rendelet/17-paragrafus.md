@@ -28,16 +28,20 @@ j) elszámolásra benyújtott számlák adatai [számla egyedi száma, számlaki
 
 k) a számlán szereplő termék adatai [megnevezése, termékkategóriája, kiszerelése, kiszerelés mértékegysége, számlán szereplő termék mennyisége (darab, liter vagy kilogramm), számlán szereplő termékmennyiség bruttó értéke, kiosztott termék mennyisége (darab, liter vagy kilogramm), kiosztott termékmennyiség bruttó értéke];
 
-l) a támogatási intenzitás mértéke végső kedvezményezett típusonként; és
+l)[^21]
 
 m) a csatolt dokumentumok felsorolása.
 
-(4) A kifizetési kérelemhez az elektronikus űrlapon csatolni kell az adott szállítási időszakra vonatkozó, a támogatott termékek értékesítését igazoló számlákat, továbbá minden számla vonatkozásában a (3) bekezdés e) alpontja szerinti adatokat.
+(4)[^22] A kifizetési kérelemhez az elektronikus űrlapon csatolni kell az adott szállítási időszakra vonatkozó, a támogatott termékek értékesítését igazoló számlákat, a leszállított mennyiségekről szóló igazolást, továbbá minden számla vonatkozásában a (3) bekezdés e) alpontja szerinti adatokat.
 
 (5) A Kincstár a kifizetési kérelmekről a kérelem hiánytalanná válását követő negyvenöt napon belül döntést hoz, és a forrás rendelkezésre állása esetén haladéktalanul, de legkésőbb a 2017/39/EU bizottsági végrehajtási rendelet 5. cikk (3) bekezdése szerinti határidőn belül elrendeli a támogatás jogos összegének a kérelmező által az ügyfél-nyilvántartási rendszerben megadott fizetési számlára történő átutalását.
 
-(6) A kérelemben végső kedvezményezett típusonként megbontva fel kell tüntetni a termékmennyiséget és a bruttó vételárat abban az esetben is, ha a végső kedvezményezett típusok támogatási intenzitása azonos.
+(6)[^23]
 
 (7) A kifizetési kérelemben a 8. § (4) bekezdésében meghatározott módosítási határidő lejártáig fel nem tüntetett vagy a kifizetési kérelemhez csatolt számlákon nem szereplő termékmennyiség a támogatási összeg meghatározása során nem vehető figyelembe.
 
 (8) A támogatási összeg megállapítása a számlán feltüntetett nettó egységár és általános forgalmi adókulcs alapján történik a 18. §-ban foglaltak szerint.
+
+[^21]: A 17. § (3) bekezdés l) pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^22]: A 17. § (4) bekezdése a 14/2022. (III. 30.) AM rendelet 38. §-ával megállapított szöveg.
+[^23]: A 17. § (6) bekezdését a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.

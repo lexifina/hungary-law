@@ -14,11 +14,11 @@
 
 6. óvodás: a nemzeti köznevelési törvény 7. § (1) bekezdés a) pontja szerinti vagy a szakképzési törvény 18. §-a szerinti intézményben óvodai nevelésben részt vevő gyermek;
 
-7. összevont termékkategória: azon termékek együttese, amelyek esetében a 18. § (2) bekezdés a)–h) pontjában és (3) bekezdés a)–h) pontjában meghatározott támogatási alap felső határa azonos;
+7.[^1]
 
-8. sajátos nevelési igényű általános iskolai tanuló: az a különleges bánásmódot igénylő általános iskolai tanuló, aki a szakértői bizottság szakértői véleménye alapján mozgásszervi, érzékszervi (látási, hallási), értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd;
+8.[^2]
 
-9. sajátos nevelési igényű óvodás: az a különleges bánásmódot igénylő óvodás, aki a szakértői bizottság szakértői véleménye alapján mozgásszervi, érzékszervi (látási, hallási), értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd;
+9.[^3]
 
 10. szállító: az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök és zöldségek, a banán és a tej oktatási intézményekben való biztosításához nyújtott uniós támogatás tekintetében történő kiegészítéséről és a 907/2014/EU rendelet módosításáról szóló, 2016. november 3-i 2017/40/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: 2017/40/EU felhatalmazáson alapuló bizottsági rendelet) 5. cikk (2) bekezdés c) pontja szerinti tejfeldolgozással, illetve tejtermeléssel foglalkozó, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
@@ -34,4 +34,9 @@ d) adott tanév március 1. és április 30. közötti időszaka és
 
 e) adott tanév május 1. és július 31. közötti időszaka;
 
-12. végső kedvezményezettek: az óvoda- és iskolatej programban részt vevő óvodások, általános iskolai tanulók, sajátos nevelési igényű óvodások és sajátos nevelési igényű általános iskolai tanulók együttesen.
+12.[^4] végső kedvezményezettek: az óvoda- és iskolatej programban részt vevő óvodások, általános iskolai tanulók együttesen.
+
+[^1]: Az 1. § 7. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^2]: Az 1. § 8. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^3]: Az 1. § 9. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^4]: Az 1. § 12. pontja a 14/2022. (III. 30.) AM rendelet 30. §-ával megállapított szöveg.
