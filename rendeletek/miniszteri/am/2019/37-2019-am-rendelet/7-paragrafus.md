@@ -18,7 +18,7 @@ b) vállalja a 8. § szerinti öt éven át tartó művelési kötelezettséget.
 
 (4) Kifizetési kérelem kizárólag befejezett telepítési tevékenység vonatkozásában nyújtható be. Befejezett telepítési tevékenységnek minősül a támrendszer, a telepítés és – ha az a támogatási kérelem részét képezi – az üzembe helyezett öntözőrendszer megléte.
 
-(5)[^3] Egy kérelmező a támogatási időszakban egy kifizetési kérelmet nyújthat be. A Kincstár a befogadó nyilatkozattal vagy a 8/D. § (1) bekezdése szerinti döntéssel vagy a 8/D. § (1) bekezdése szerinti döntéssel nem rendelkező földterületek, illetve műveletek tekintetében a kérelmező kifizetési kérelmét elutasítja azzal, hogy az átmeneti támogatás kifizetése iránti kérelem legfeljebb a 8/D. § (1) bekezdése szerinti döntés alapján jóváhagyott támogatási összeg erejéig hagyható jóvá a 8/C. § (5) bekezdésében és a 8/D. § (2)–(3) bekezdésében foglaltakra figyelemmel.
+(5)[^3] A Kincstár a befogadó nyilatkozattal vagy a 8/D. § (1) bekezdése szerinti döntéssel vagy a 8/D. § (1) bekezdése szerinti döntéssel nem rendelkező földterületek, illetve műveletek tekintetében a kérelmező kifizetési kérelmét elutasítja, azzal, hogy az átmeneti támogatás kifizetése iránti kérelem legfeljebb a 8/D. § (1) bekezdése szerinti döntés alapján jóváhagyott támogatási összeg erejéig hagyható jóvá a 8/C. § (5) bekezdésében és a 8/D. § (2)–(3) bekezdésében foglaltakra figyelemmel.
 
 (6) A kifizetési kérelmeket a Kincstár a benyújtásuk sorrendjében bírálja el. A benyújtási sorrendet a kifizetési kérelem teljessé válásának időpontja határozza meg. Az azonos napon benyújtott kérelmeket a támogatási összeg szerint növekvő sorrendben kell elbírálni.
 
@@ -43,7 +43,7 @@ b) az általános forgalmi adó levonására nem jogosult, a bruttó vételárat
 (13) A támogatás összegét a 2019. október 1-jén érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
 [^2]: A 7. § (2) bekezdés c) pontja a 41/2020. (VIII. 19.) AM rendelet 27. § c) pontja szerint módosított szöveg.
-[^3]: A 7. § (5) bekezdése a 41/2020. (VIII. 19.) AM rendelet 25. §-ával megállapított, a 27. § b) pontja szerint módosított szöveg.
+[^3]: A 7. § (5) bekezdése a 14/2022. (III. 30.) AM rendelet 26. §-ával megállapított szöveg.
 [^4]: A 7. § (7) bekezdése a 41/2020. (VIII. 19.) AM rendelet 27. § c) pontja szerint módosított szöveg.
 [^5]: A 7. § (8) bekezdése a 41/2020. (VIII. 19.) AM rendelet 27. § c) pontja szerint módosított szöveg.
 [^6]: A 7. § (9) bekezdése a 41/2020. (VIII. 19.) AM rendelet 27. § c) pontja szerint módosított szöveg.
