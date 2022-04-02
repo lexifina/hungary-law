@@ -1,7 +1,3 @@
-## 2. § A Rendelet 2. § (1) bekezdésében a „hitelekről” szövegrész helyébe a „hitelekről és hitel jellegű követelésekről” szöveg lép.
+## 2. §[^3]
 
-## 3. § A Rendelet
-
-a) 1. melléklete az 1. melléklet szerint,
-
-b) 2. melléklete a 2. melléklet szerint
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
