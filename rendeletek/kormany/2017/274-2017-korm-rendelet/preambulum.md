@@ -1,1 +1,0 @@
-A Kormány a szövetkezetekről szóló 2006. évi X. törvény 107. § (3) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
