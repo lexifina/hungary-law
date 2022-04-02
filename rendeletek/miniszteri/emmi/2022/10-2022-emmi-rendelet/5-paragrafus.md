@@ -1,1 +1,3 @@
-## 4. § Hatályát veszti az R. 13/A. §-a és 13/B. §-a.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

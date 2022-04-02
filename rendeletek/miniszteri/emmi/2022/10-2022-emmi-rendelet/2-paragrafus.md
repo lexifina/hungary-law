@@ -1,3 +1,0 @@
-## 1. § A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet (a továbbiakban: R.) 13. §-a a következő (13) bekezdéssel egészül ki:
-
-## „(13) Azon gyógyászati segédeszközök esetében, amelyeknél a 10. számú melléklet feltételként előírja az ellenőrző főorvos ellenjegyzését, a vény érvényességének további feltétele a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának, valamint a támogatás megváltoztatásának szabályairól szóló kormányrendelet szerinti egészségbiztosítói ellenjegyzés.”
