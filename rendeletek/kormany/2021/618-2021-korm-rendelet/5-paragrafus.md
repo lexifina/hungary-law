@@ -1,5 +1,0 @@
-## 4. § Az R. 8. §-a a következő (1) és (2) bekezdéssel egészül ki:
-
-## „(1) A képesítési követelmény teljesítésének vizsgálata során, ha a szakképzettséget igazoló oklevélből a 7. § (1) bekezdés a) pontjában megjelölt szakterület, illetve az oklevél szakmagyakorlási tevékenységet megalapozó szintje nem állapítható meg, akkor a végzettség szakterületéről az igazolt szakképzettség és a teljesített kreditszámok figyelembevételével a kérelmező számára adható jogosultságról az engedélyezési eljárás során a Magyar Mérnöki Kamara vagy a Magyar Építész Kamara (a továbbiakban együtt: országos kamara) által működtetett szakértői testület jogosult szakértőként véleményt nyilvánítani az első és másodfokú eljárás során, amelyet a jogosultság megállapításakor a területi és az országos kamara figyelembe vesz.
-
-## (2) A szakértői testület elnökét és két tagját a feladatkörében érintett országos kamara nevezi ki. A szakértői testület tagja továbbá az adott szak szerint érintett, az országos kamarák által felkért felsőoktatási intézmény képviselője. A szakértői testület működési rendjét ügyrendjében állapítja meg.”

@@ -1,3 +1,0 @@
-## 13. § Az R. 47. §-a a következő (13) bekezdéssel egészül ki:
-
-## „(13) E rendelet gyakorlati idő számítására vonatkozó szabályait a felelős műszaki vezetői tevékenységek engedélyezése során az építési szakterület részszakterülete, az építménygépészeti szakterület részszakterülete, az építményvillamossági szakterület részszakterülete, valamint a villamosság szakterület részszakterülete esetében úgy kell alkalmazni, hogy az eljárás során szakmai gyakorlati időként az előírt végzettséget megelőzően, a végzettséggel megegyező szakterületen szerzett mestervizsgát követően teljesített szakmai gyakorlat is figyelembe vehető.”
