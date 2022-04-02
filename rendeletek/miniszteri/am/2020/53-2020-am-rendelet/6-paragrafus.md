@@ -1,14 +1,32 @@
 ## 4. A kifizetési kérelem benyújtásának általános szabályai
 
-6. § (1) A kifizetési kérelem
+6. § (1)[^7] A kifizetési kérelem
 
-a)[^7] a 4. § (1) bekezdés a) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan 2021. május 17. és június 15. között, vagy az (1a) bekezdésben meghatározott esetben és feltételekkel 2021. november 30. és december 21. között,
+a) a 4. § (1) bekezdés a) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan
 
-b) a 4. § (1) bekezdés b) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan 2021. november 30. és december 21. között,
+aa) 2021. május 17. és június 15. között,
 
-c) a 4. § (1) bekezdés c) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan a következő pénzügyi év október 16. és november 16. között
+ab) az (1a) bekezdésben meghatározott esetben és feltételekkel 2021. november 30. és december 21. között vagy
 
-elektronikus úton nyújtható be a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az E-ügyintézési törvényben foglaltaknak megfelelően a Kincstárhoz az elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
+ac) 2022. május 2. és május 31. között;
+
+b) a 4. § (1) bekezdés b) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan
+
+ba) 2021. november 30. és december 21. között vagy
+
+bb) 2022. május 2. és május 31. között vagy
+
+bc) 2022. november 15. és december 21. között;
+
+c) a 2022. január 15. és február 15. között benyújtott támogatási kérelmekre vonatkozóan
+
+ca) 2022 november 15. és december 21. között vagy
+
+cb) 2023. április 10. és május 2. között;
+
+d) a 4. § (1) bekezdés c) pontjában meghatározott határidőben a 2023. évtől benyújtott támogatási kérelmekre vonatkozóan a támogatási kérelem benyújtását követő pénzügyi év november 15. és december 21. között
+
+## elektronikus úton nyújtható be a Kincstárhoz a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
 
 (1a)[^8] A kifizetési kérelem az (1) bekezdés a) pontjában meghatározott későbbi időszakban akkor nyújtható be, ha a jóváhagyott támogatási kérelemben szereplő borászati gép, technológiai berendezés szállítása a szállító részéről igazoltan, a koronavírus-járvány kezelésére bevezetett szigorító intézkedések miatt a megrendelésben foglaltak szerinti időszakban nem teljesíthető, és a szállítás olyan időpontban történt, amely már nem tette lehetővé a borászati gép, technológiai berendezés üzembe helyezését és a kifizetési kérelem 2021. június 15. napjáig történő benyújtását. A kifizetési kérelemhez a szállítás késedelméről vagy időpontjának változásáról a szállító által megküldött értesítést csatolni kell.
 
@@ -82,7 +100,7 @@ f)[^12] a borászati gép, technológiai berendezés nem tartalmaz egyedi azonos
 
 g)[^13] a támogatási kérelemmel jóváhagyott beruházást teljes egészében nem hajtották végre.
 
-[^7]: A 6. § (1) bekezdés a) pontja a 22/2021. (VI. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^7]: A 6. § (1) bekezdése a 14/2022. (III. 30.) AM rendelet 28. §-ával megállapított szöveg.
 [^8]: A 6. § (1a) bekezdését a 22/2021. (VI. 3.) AM rendelet 5. § (2) bekezdése iktatta be.
 [^9]: A 6. § (3) bekezdése a 22/2021. (VI. 3.) AM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^10]: A 6. § (5) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
