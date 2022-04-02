@@ -28,17 +28,18 @@ a) az üzemeltetésében lévő méhészeti eszközhordozó jármű, illetve vá
 
 b) a kötelező gépjármű-felelősségbiztosítása fordulónapjától függetlenül a tárgyévben befizetett kötelező gépjármű biztosítás díját tartalmazó szerződés, illetve a tárgyévi díj összegére vonatkozó biztosítói értesítés másolatát és annak befizetését igazoló szelvény vagy a banki átutalást igazoló számlakivonat másolatát,
 
-c) a tárgyévben befizetendő gépjárműadót megállapító határozat és annak befizetését igazoló szelvény vagy a banki átutalást igazoló számlakivonat másolatát,
+c)[^14] a tárgyévre befizetendő gépjárműadót megállapító határozat és annak befizetését igazoló szelvény vagy a banki átutalást igazoló számlakivonat másolatát,
 
 d) az (1) bekezdés c) pontja szerinti, tárgyévet követő évben kiállított igazolást,
 
-e)[^14] OBU fedélzeti rendszer vásárlása esetén a tárgyévben kiállított számla másolatát és a befizetést igazoló szelvény vagy banki átutalást igazoló számlakivonat másolatát.
+e)[^15] OBU fedélzeti rendszer vásárlása esetén a tárgyévben kiállított számla másolatát és a befizetést igazoló szelvény vagy banki átutalást igazoló számlakivonat másolatát.
 
-(4)[^15] A méhcsaládok számát a Nemzeti Élelmiszerlánc-biztonsági Hivatal a Kincstár felé a TIR adatbázisában nyilvántartott adatok alapján igazolja azzal, hogy a támogatási kérelem elbírálásához szükséges adatokat minden év november 30-ig – 2014. évben január 31-ig – a Kincstár rendelkezésére bocsátja.
+(4)[^16] A méhcsaládok számát a Nemzeti Élelmiszerlánc-biztonsági Hivatal a Kincstár felé a TIR adatbázisában nyilvántartott adatok alapján igazolja azzal, hogy a támogatási kérelem elbírálásához szükséges adatokat minden év november 30-ig – 2014. évben január 31-ig – a Kincstár rendelkezésére bocsátja.
 
 [^10]: A 3. § (1) bekezdés d) pont da) alpontját a 4/2016. (I. 20.) FM rendelet 15. §-a hatályon kívül helyezte.
 [^11]: A 3. § (1) bekezdés d) pont dc) alpontját a 36/2014. (IV. 4.) VM rendelet 108. §-a hatályon kívül helyezte.
 [^12]: A 3. § (1) bekezdés f) pontját a 36/2014. (IV. 4.) VM rendelet 106. §-a iktatta be, szövege a 14/2019. (IV. 10.) AM rendelet 19. §-a szerint módosított szöveg.
 [^13]: A 3. § (2) bekezdése a 13/2015. (III. 30.) FM rendelet 9. § (3) bekezdés b) pontja, a 88/2016. (XII. 29.) FM rendelet 64. § b) és c) pontja szerint módosított szöveg.
-[^14]: A 3. § (3) bekezdés e) pontját a 13/2015. (III. 30.) FM rendelet 9. § (2) bekezdése iktatta be.
-[^15]: A 3. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 64. § d) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdés c) pontja a 14/2022. (III. 30.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdés e) pontját a 13/2015. (III. 30.) FM rendelet 9. § (2) bekezdése iktatta be.
+[^16]: A 3. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 64. § d) pontja szerint módosított szöveg.

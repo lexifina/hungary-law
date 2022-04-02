@@ -8,7 +8,7 @@
 
 (3)[^7] A jogcím finanszírozására a 2022. évben legfeljebb 100 millió forint használható fel.
 
-(4)[^8] A támogatás mértéke a 3. § (3) bekezdés b), c) és e) pontjában foglaltak szerint a tárgyévben megfizetett és igazolt költség azzal, hogy OBU fedélzeti rendszer vásárlása esetén méhészeti eszközhordozó járművenként, ötévente az OBU fedélzeti rendszer nettó ára, de legfeljebb negyvenezer forint.
+(4)[^8] A támogatás mértéke a 3. § (3) bekezdés b), c) és e) pontjában foglaltak szerint a tárgyévben, illetve tárgyévre megfizetett és igazolt költség azzal, hogy OBU fedélzeti rendszer vásárlása esetén méhészeti eszközhordozó járművenként, ötévente az OBU fedélzeti rendszer nettó ára, de legfeljebb negyvenezer forint.
 
 (5)[^9] A támogatás összege a kérelmező rendelkezésére álló szabad csekély összegű (de minimis) keret figyelembevételével kerül meghatározásra. A Magyar Államkincstár (a továbbiakban: Kincstár) a mezőgazdasági „de minimis” rendelet szerinti egyéni keretet meghaladó támogatási igényből a kereten felüli összeget elutasítja.
 
@@ -17,5 +17,5 @@
 [^5]: A 2. § (1b) bekezdését a 14/2019. (IV. 10.) AM rendelet 17. § (2) bekezdése iktatta be.
 [^6]: A 2. § (2) bekezdését a 66/2019. (XII. 30.) AM rendelet 3. §-a hatályon kívül helyezte.
 [^7]: A 2. § (3) bekezdése a 35/2018. (XII. 6.) AM rendelet 16. § (2) bekezdésével megállapított, a 66/2019. (XII. 30.) AM rendelet 2. §-a, a 65/2020. (XII. 17.) AM rendelet 2. §-a, az 50/2021. (XII. 29.) AM rendelet 12. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § (4) bekezdése a 13/2015. (III. 30.) FM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (4) bekezdése a 13/2015. (III. 30.) FM rendelet 9. § (1) bekezdésével megállapított, a 14/2022. (III. 30.) AM rendelet 4. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 64. § a) pontja szerint módosított szöveg.
