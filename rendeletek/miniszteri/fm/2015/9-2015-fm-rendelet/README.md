@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-9-20-11
 | 2020-12-17 | 2015-9-20-11.33 | 64/2020. (XII. 16.) AM rendelet |
 | 2021-03-26 | 2015-9-20-11.34 | 12/2021. (III. 23.) AM rendelet |
 | 2021-05-21 | 2015-9-20-11.35 | 21/2021. (V. 20.) AM rendelet |
+| 2022-04-02 | 2015-9-20-11.36 | 14/2022. (III. 30.) AM rendelet |

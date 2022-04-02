@@ -24,6 +24,6 @@
 
 ## 1 A vetőmag minősítésnél a zöldbabra vonatkozó szaporítóanyag előírásoknak kell megfelelni.
 
-4/a. melléklet a 9/2015. (III. 13.) FM rendelethez[^165]
+4/a. melléklet a 9/2015. (III. 13.) FM rendelethez[^178]
 
-[^165]: A 4/a. mellékletet a 13/2017. (III. 17.) FM rendelet 29. § (4) bekezdése iktatta be.
+[^178]: A 4/a. mellékletet a 13/2017. (III. 17.) FM rendelet 29. § (4) bekezdése iktatta be.

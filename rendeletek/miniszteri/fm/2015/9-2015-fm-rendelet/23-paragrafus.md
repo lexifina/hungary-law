@@ -1,4 +1,4 @@
-## 22/J. §[^159] E rendeletnek az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló miniszteri rendeletek módosításáról szóló 10/2020. (IV. 3.) AM rendelettel megállapított 9. § (6a) bekezdését, 10. § (1) bekezdés a) pontját, valamint 11. § (1) bekezdés d) pontját a 2020. február 1-jétől benyújtott kérelemre indult eljárásokban is alkalmazni kell.
+## 22/J. §[^170] E rendeletnek az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló miniszteri rendeletek módosításáról szóló 10/2020. (IV. 3.) AM rendelettel megállapított 9. § (6a) bekezdését, 10. § (1) bekezdés a) pontját, valamint 11. § (1) bekezdés d) pontját a 2020. február 1-jétől benyújtott kérelemre indult eljárásokban is alkalmazni kell.
 
 ## 20. Az Európai Unió jogának való megfelelés
 
@@ -12,9 +12,9 @@ c) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján 
 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-ei 640/2014/EU bizottsági felhatalmazáson alapuló rendelet,
 
-e)[^160] az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU bizottsági végrehajtási rendelet
+e)[^171] az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^159]: A 22/J. §-t a 10/2020. (IV. 3.) AM rendelet 10. §-a iktatta be.
-[^160]: A 23. § e) pontja a 72/2016. (XI. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.
+[^170]: A 22/J. §-t a 10/2020. (IV. 3.) AM rendelet 10. §-a iktatta be.
+[^171]: A 23. § e) pontja a 72/2016. (XI. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.

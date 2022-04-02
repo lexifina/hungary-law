@@ -76,6 +76,10 @@ d)[^17] édeskömény vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 3. sz�
 
 19.[^24] tőszámbeállottság: a tárgyévben az adott támogatási jogcím vonatkozásában igényelt területen a termés hozatalára képes egyedek és a telepítési engedélyben meghatározott tőszám szerinti egyedek – telepítési engedély hiányában a területen meghatározó térállásra jellemző tőszám alapján számított egyedek – aránya.
 
+20.[^25] származási dokumentáció: csemetetelepítés során felhasznált szaporítóanyag származási igazolványa;
+
+21.[^26] palánta kísérő okmány: a zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendeletben foglaltaknak megfelelően kiállított, kötelező adattartalommal rendelkező szaporítóanyag-kísérő okmány vagy bármely olyan bizonylat, amely kíséri az árut (különösen: számla, szállítólevél, kísérő jegyzék, növényútlevél).
+
 [^1]: Az 1. § 1. pontja a 2/2019. (I. 25.) AM rendelet 2. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pont b) alpontja a 40/2015. (VII. 13.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § 2a. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
@@ -100,3 +104,5 @@ d)[^17] édeskömény vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 3. sz�
 [^22]: Az 1. § 17. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^23]: Az 1. § 18. pontját a 25/2016. (IV. 11.) FM rendelet 44. §-a iktatta be, szövege a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^24]: Az 1. § 19. pontját a 72/2016. (XI. 3.) FM rendelet 3. §-a iktatta be.
+[^25]: Az 1. § 20. pontját a 14/2022. (III. 30.) AM rendelet 8. §-a iktatta be.
+[^26]: Az 1. § 21. pontját a 14/2022. (III. 30.) AM rendelet 8. §-a iktatta be.

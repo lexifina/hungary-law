@@ -42,7 +42,7 @@
 
 | 20 | Dió | Juglans regia | 100 | 200 | 50 év |
 
-| 21 | Mogyoró | Corylus avellana | 400 | 410 | 20 év |
+| 21 | Mogyoró | Corylus sp. | 400 | 410 | 20 év |
 
 | 22 | Mandula | Prunus amygdalus | 400 | 410 | 20 év |
 
@@ -60,6 +60,6 @@
 
 | 29 | Közönséges füge | Ficus carica | 330 | 625 | 25 év |
 
-6. melléklet a 9/2015. (III. 13.) FM rendelethez[^168]
+6. melléklet a 9/2015. (III. 13.) FM rendelethez[^181]
 
-[^168]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.
+[^181]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.
