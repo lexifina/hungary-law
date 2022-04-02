@@ -1,5 +1,5 @@
-## 2. § A rendelet a következő 7/A. §-sal egészül ki:
-
-## „7/A. § A 10. § 2023. január 1-jén hatályát veszti.”
+## 2. §[^3]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
