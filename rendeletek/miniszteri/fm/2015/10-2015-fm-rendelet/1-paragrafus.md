@@ -12,7 +12,7 @@
 
 3.[^2] állandó gyepterület: az 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés h) pontja szerinti terület;
 
-4.[^3] állandó kultúra: az állandó gyepterülettől eltérő, a vetésforgón kívül termesztett növénykultúra, amely öt vagy öt évnél több ideig foglalja el a földterületet, és ismétlődően termést hoz, ideértve a faiskolát, a rövid vágásfordulójú fás szárú energetikai ültetvényt, a fás szárú egyéb ültetvényeket, a spárgát, a Miscanthus nemzetségbe tartozó energianádfajokat, az olasznád- és a szilfiumfajokat mint lágyszárú energianövényeket, valamint a levendula, orvosi zsálya, kerti ruta, mezei cickafark, fehér üröm, kasvirág, évelő édeskömény, kerti kakukkfű, lósóska, szurokfű lágyszárú fajokat;
+4.[^3] állandó kultúra: az állandó gyepterülettől eltérő, a vetésforgón kívül termesztett növénykultúra, amely öt vagy öt évnél több ideig foglalja el a földterületet, és ismétlődően termést hoz, ideértve a faiskolát, a rövid vágásfordulójú fás szárú energetikai ültetvényt, a fás szárú egyéb ültetvényeket, a spárgát, a Miscanthus nemzetségbe tartozó energianádfajokat, az olasznád- és a szilfiumfajokat mint lágyszárú energianövényeket, valamint a levendula, orvosi zsálya, ligeti zsálya, kerti ruta, mezei cickafark, fehér üröm, kasvirág, évelő édeskömény, kerti kakukkfű, lósóska, szurokfű, orbáncfű, tárkony lágyszárú fajokat;
 
 5. egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló, tárgyévi miniszteri rendeletben meghatározott támogatási kérelem;
 
@@ -80,7 +80,7 @@ c) a szántóterülettel legalább harminc méter hosszan szomszédos;
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 72/2016. (XI. 3.) FM rendelet 11. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 3. pontja a 72/2016. (XI. 3.) FM rendelet 11. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés 4. pontja a 8/2018. (III. 29.) FM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 4. pontja a 14/2022. (III. 30.) AM rendelet 18. §-ával megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés 6. pontja a 8/2018. (III. 29.) FM rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés 7. pontja a 8/2018. (III. 29.) FM rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés 8. pontját a 8/2018. (III. 29.) FM rendelet 36. § a) pontja hatályon kívül helyezte.

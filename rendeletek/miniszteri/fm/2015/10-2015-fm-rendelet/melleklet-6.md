@@ -42,7 +42,7 @@
 
 | 19. | 13. Nitrogénmegkötő növényekkel bevetett terület | szántón | poligon | nem lineáris | nincs | 1 | nincs | nincs |
 
-6. melléklet a 10/2015. (III. 13.) FM rendelethez[^144]
+6. melléklet a 10/2015. (III. 13.) FM rendelethez[^146]
 
 ## A terménydiverzifikáció esetében a nemzetségek meghatározása, a növénykultúrák megkülönböztetése
 
@@ -360,4 +360,4 @@ II. A 8. § (1) bekezdés b) pontja szerinti, a káposztafélék, a burgonyafél
 
 III. A 8. § (1) bekezdés e) pontja szerinti, ugyanazon nemzetség őszi és tavaszi vetésű növényfajainak listája
 
-[^144]: A 6. melléklet a 25/2016. (IV. 11.) FM rendelet 60. § c) pontja szerint módosított szöveg.
+[^146]: A 6. melléklet a 25/2016. (IV. 11.) FM rendelet 60. § c) pontja szerint módosított szöveg.

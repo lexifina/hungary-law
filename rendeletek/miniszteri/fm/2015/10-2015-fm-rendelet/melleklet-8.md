@@ -10,6 +10,6 @@
 
 | 3. | Selyemkóró | Asclepias syriaca |
 
-8. melléklet a 10/2015. (III. 13.) FM rendelethez[^145]
+8. melléklet a 10/2015. (III. 13.) FM rendelethez[^147]
 
-[^145]: A 8. mellékletet a 8/2018. (III. 29.) FM rendelet 36. § d) pontja hatályon kívül helyezte.
+[^147]: A 8. mellékletet a 8/2018. (III. 29.) FM rendelet 36. § d) pontja hatályon kívül helyezte.

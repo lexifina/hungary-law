@@ -70,7 +70,7 @@
 
 |  |  | 33. | Mezei borsó (Pisum arvense) | egyéves |
 
-3. melléklet a 10/2015. (III. 13.) FM rendelethez[^141]
+3. melléklet a 10/2015. (III. 13.) FM rendelethez[^143]
 
 ## Az ökológiai jelentőségű másodvetésben vethető növényfajok listája
 
@@ -136,7 +136,7 @@
 
 31. Takarmánybaltacim (Onobrychis viciifolia)
 
-32.[^142] Meliorációs retek (Raphanus sativus var. longipinnatus)
+32.[^144] Meliorációs retek (Raphanus sativus var. longipinnatus)
 
-[^141]: A 3. melléklet a 13/2017. (III. 17.) FM rendelet 37. §-ával megállapított szöveg.
-[^142]: A 3. melléklet 32. pontját a 8/2018. (III. 29.) FM rendelet 33. §-a iktatta be.
+[^143]: A 3. melléklet a 13/2017. (III. 17.) FM rendelet 37. §-ával megállapított szöveg.
+[^144]: A 3. melléklet 32. pontját a 8/2018. (III. 29.) FM rendelet 33. §-a iktatta be.
