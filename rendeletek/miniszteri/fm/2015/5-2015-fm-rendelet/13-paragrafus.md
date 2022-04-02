@@ -30,7 +30,7 @@ e)[^19] a kérelmezett állattól a birtokon tartási idő alatt született borj
 
 f)[^20] kérelmezett állatállományát a támogatási kérelem benyújtásának időpontjától gümőkor-, brucellózis- és leukózismentes tenyészetben tartja.
 
-(3a)[^21] A (3b) bekezdés szerinti bejelentés elmulasztása esetén a Kincstár ötnapos határidővel a hiányzó adatok Termékenyítési Rendszerbe történő bejelentésének pótlására szólítja fel a mezőgazdasági termelőt.
+(3a)[^21]
 
 (3b)[^22] A mezőgazdasági termelőnek az (3) bekezdés c) pontja szerinti regisztrációs kötelezettségét a Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz a Termékenyítési Rendszerben erre a célra rendszeresített bizonylaton történő hibátlan bejelentéssel kell teljesítenie.
 
@@ -64,7 +64,7 @@ f)[^20] kérelmezett állatállományát a támogatási kérelem benyújtásána
 [^18]: A 13. § (3) bekezdés c) pontja a 9/2018. (VII. 2.) AM rendelet 11. § (1) bekezdésével megállapított, a 10/2020. (IV. 3.) AM rendelet 7. § b) pontja szerint módosított szöveg.
 [^19]: A 13. § (3) bekezdés e) pontja a 65/2016. (IX. 21.) FM rendelet 19. §-a szerint módosított szöveg.
 [^20]: A 13. § f) pontját újonnan a 8/2018. (III. 29.) FM rendelet 4. §-a iktatta be.
-[^21]: A 13. § (3a) bekezdését a 8/2018. (III. 29.) FM rendelet 5. §-a iktatta be, szövege a 9/2018. (VII. 2.) AM rendelet 12. §-a szerint módosított szöveg.
+[^21]: A 13. § (3a) bekezdését a 8/2018. (III. 29.) FM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 14/2022. (III. 30.) AM rendelet 7. §-a.
 [^22]: A 13. § (3b) bekezdését a 9/2018. (VII. 2.) AM rendelet 11. § (2) bekezdése iktatta be.
 [^23]: A 13. § (6) bekezdését a 17/2015. (IV. 9.) FM rendelet 8. § (3) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 14. §-ával megállapított szöveg.
 [^24]: A 13. § (6a) bekezdését a 25/2016. (IV. 11.) FM rendelet 30. § (3) bekezdése iktatta be, szövege az 55/2017. (XI. 6.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.

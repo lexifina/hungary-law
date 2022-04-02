@@ -6,7 +6,7 @@
 
 (2)[^54] A 7. § (1) bekezdés c) és e) pontja szerinti támogatási jogcímek esetén a támogatási kérelmet elektronikus úton, ügyfélkapun keresztül az egységes kérelem felületen lehet benyújtani a Kincstárhoz.
 
-(3)[^55] A támogatási kérelem benyújtása, a módosítás, a pontosítás, a visszavonás, az adatváltozás bejelentése, a vis maior bejelentés, a kérelem késedelmes benyújtása, a meghatalmazott, a kamarai meghatalmazott, a vélelmezett örökös eljárása, az előzetes ellenőrzés – a 7. § (1) bekezdés e) pontja szerinti jogcím kivételével –, az elektronikus kapcsolattartás, a helyszíni ellenőrzésről szóló jegyzőkönyvre tett ügyfélészrevétel kötelezően elektronikus úton történő benyújtása kapcsán az egységes kérelem rendeletben foglaltakat kell alkalmazni.
+(3)[^55] A támogatási kérelem benyújtása, a módosítás, a pontosítás, a visszavonás, az adatváltozás bejelentése, a vis maior bejelentés, a kérelem késedelmes benyújtása, a meghatalmazott, a kamarai meghatalmazott, a vélelmezett örökös eljárása, az előzetes ellenőrzés, az elektronikus kapcsolattartás, a helyszíni ellenőrzésről szóló jegyzőkönyvre tett ügyfélészrevétel kötelezően elektronikus úton történő benyújtása kapcsán az egységes kérelem rendeletben foglaltakat kell alkalmazni. Az előzetes ellenőrzés szabályait a 7. § (1) bekezdés e) pontja szerinti támogatási jogcímre nem kell alkalmazni.
 
 (3a)[^56] A 7. § (1) bekezdés e) pontja szerinti támogatási jogcím vonatkozásában a 2017. évi támogatási kérelem benyújtására, módosítására, pontosítására, visszavonására, az adatváltozás bejelentésére, a vis maior bejelentésre, a kérelem késedelmes benyújtására, a meghatalmazott, a kamarai meghatalmazott, a vélelmezett örökös eljárására, az elektronikus kapcsolattartásra, a helyszíni ellenőrzésről szóló jegyzőkönyvre tett ügyfélészrevétel kötelezően elektronikus úton történő benyújtására az egységes kérelem előírásait azzal az eltéréssel kell alkalmazni, hogy
 
@@ -23,5 +23,5 @@ c) adatváltozás bejelentésére a tárgyév március 20-át követően van leh
 [^52]: A 26. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
 [^53]: A 26. § (1a) bekezdését a 64/2020. (XII. 16.) AM rendelet 6. §-a iktatta be.
 [^54]: A 26. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 77. § c) pontja szerint módosított szöveg.
-[^55]: A 26. § (3) bekezdése a 13/2017. (III. 17.) FM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^55]: A 26. § (3) bekezdése a 14/2022. (III. 30.) AM rendelet 6. §-ával megállapított szöveg.
 [^56]: A 26. § (3a) bekezdését a 4/2016. (I. 20.) FM rendelet 22. §-a iktatta be, szövege a 13/2017. (III. 17.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
