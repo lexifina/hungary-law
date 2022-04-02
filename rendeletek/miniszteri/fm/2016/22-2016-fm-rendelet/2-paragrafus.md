@@ -12,11 +12,11 @@ e) a fiatal mezőgazdasági termelők támogatásáról szóló 11/2015. (III. 1
 
 f) a mezőgazdasági kistermelői támogatásról szóló 16/2015. (IV. 9.) FM rendelet szerinti támogatás,
 
-g) a dohány szerkezetátalakítási nemzeti programról és az azzal összefüggésben igényelhető csekély összegű támogatások feltételeinek megállapításáról szóló 53/2015. (IX. 14.) FM rendelet szerinti támogatás.
+g)[^7] – a 2022. év kivételével – a dohány szerkezetátalakítási nemzeti programról és az azzal összefüggésben igényelhető csekély összegű támogatások feltételeinek megállapításáról szóló 53/2015. (IX. 14.) FM rendelet szerinti támogatás.
 
 (2) A 9/2015. (III. 13.) FM rendelet alapján igényelhető támogatások vonatkozásában e rendeletet kizárólag a 9/2015. (III. 13.) FM rendeletben eltérően nem szabályozott tárgykörökben kell alkalmazni.
 
-(3)[^6]
+(3)[^8]
 
 (4) A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk tv.) alapján az egységes kérelemben
 
@@ -34,7 +34,7 @@ b) tehet nyilatkozatot az Mkk tv. 6. § (2) bekezdése szerinti mezőgazdasági 
 
 (6) Az (5) bekezdés szerinti nyilatkozat kizárólag azon év vagy évek vonatkozásában tehető meg, amelyre vagy amelyekre vonatkozóan az ügyfél valamely korábbi évben nem szolgáltatott az egységes kérelmében, az elektronikusan benyújtott kárenyhítő juttatás iránti kérelmében vagy az elektronikusan benyújtott biztosítási szerződés területösszesítő mellékletében hozamadatot. Az ügyfél által a korábbi egységes kérelemben és az (5) bekezdés szerinti nyilatkozatban megadott adat a nyilatkozat megtételét követően nem módosítható.
 
-(6a)[^7] A szőlőültetvényekben végzett zöldszüretre igényelhető támogatásról szóló 22/2019. (V. 31.) AM rendelet 1. § b) pontja szerinti intézkedésbe vont, zöldszürettel érintett területen termesztett minőségi- és egyéb borszőlőültetvény-kultúrára vonatkozóan
+(6a)[^9] A szőlőültetvényekben végzett zöldszüretre igényelhető támogatásról szóló 22/2019. (V. 31.) AM rendelet 1. § b) pontja szerinti intézkedésbe vont, zöldszürettel érintett területen termesztett minőségi- és egyéb borszőlőültetvény-kultúrára vonatkozóan
 
 a) ha az ügyfél a zöldszürettel érintett kárenyhítési évben nem igényelt kárenyhítő juttatást, akkor a zöldszürettel érintett kárenyhítési év hozamát az Mkk. tv. 2. § 2a. pontja szerinti, az AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság által meghatározott, zöldszürettel érintett kárenyhítési év országos átlaghozama alapján a Kincstár állapítja meg,
 
@@ -46,5 +46,6 @@ a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, �
 
 b) az 1308/2013/EU európai parlamenti és tanácsi rendelet 46. cikke szerinti, a szőlőültetvények szerkezetátalakításához és átállításához nyújtott támogatásban részesül a támogatási döntés jogerőre emelkedésétől számított három évig.
 
-[^6]: A 2. § (3) bekezdését a 10/2019. (IV. 1.) AM rendelet 24. §-a hatályon kívül helyezte.
-[^7]: A 2. § (6a) bekezdését a 10/2020. (IV. 3.) AM rendelet 21. §-a iktatta be, szövege a 12/2021. (III. 23.) AM rendelet 14. §-ával megállapított szöveg.
+[^7]: A 2. § (1) bekezdés g) pontja a 14/2022. (III. 30.) AM rendelet 22. §-ával megállapított szöveg.
+[^8]: A 2. § (3) bekezdését a 10/2019. (IV. 1.) AM rendelet 24. §-a hatályon kívül helyezte.
+[^9]: A 2. § (6a) bekezdését a 10/2020. (IV. 3.) AM rendelet 21. §-a iktatta be, szövege a 12/2021. (III. 23.) AM rendelet 14. §-ával megállapított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-22-20-1
 | 2020-04-06 | 2016-22-20-11.10 | 10/2020. (IV. 3.) AM rendelet |
 | 2021-03-26 | 2016-22-20-11.11 | 12/2021. (III. 23.) AM rendelet |
 | 2021-05-21 | 2016-22-20-11.12 | 13/2017. (III. 17.) FM rendelet |
+| 2022-04-02 | 2016-22-20-11.13 | 14/2022. (III. 30.) AM rendelet |

@@ -1,4 +1,4 @@
-## 29/C. §[^92] E rendeletnek az egyes agrárágazati támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 43/2019. (IX. 20.) AM rendelettel [a továbbiakban: 43/2019. (IX. 20.) AM rendelet] megállapított 27. § (5) bekezdését a 43/2019. (IX. 20.) AM rendelet hatálybalépésekor[^93] folyamatban lévő eljárásokban is alkalmazni kell.
+## 29/C. §[^96] E rendeletnek az egyes agrárágazati támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 43/2019. (IX. 20.) AM rendelettel [a továbbiakban: 43/2019. (IX. 20.) AM rendelet] megállapított 27. § (5) bekezdését a 43/2019. (IX. 20.) AM rendelet hatálybalépésekor[^97] folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 30. § Ez a rendelet
 
@@ -14,5 +14,5 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^92]: A 29/C. §-t a 43/2019. (IX. 20.) AM rendelet 8. §-a iktatta be.
-[^93]: A hatálybalépés időpontja 2019. szeptember 22.
+[^96]: A 29/C. §-t a 43/2019. (IX. 20.) AM rendelet 8. §-a iktatta be.
+[^97]: A hatálybalépés időpontja 2019. szeptember 22.
