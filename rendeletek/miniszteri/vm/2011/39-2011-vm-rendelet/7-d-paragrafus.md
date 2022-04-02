@@ -1,6 +1,6 @@
 ## 6b.[^82] Átmeneti támogatás
 
-7/D. § (1)[^83] A 2021. január 1-jétől benyújtott igénylések alapján a legkésőbb 2022. június 30. napjáig hatályossá vált hitelszerződésekhez kapcsolódó, 2. § (8) bekezdése szerinti kamattámogatás, kezességi díjtámogatás – figyelemmel a 2. § (1) és (3) bekezdésében foglaltakra – átmeneti támogatásként is igényelhető.
+7/D. § (1)[^83] A 2021. január 1-jétől benyújtott igénylések alapján a legkésőbb 2022. június 30. napjáig hatályossá vált hitelszerződésekhez kapcsolódó, 2. § (8) bekezdése szerinti kamattámogatás, kezességi díjtámogatás, valamint a 2. § (8d) bekezdés a) pontja szerinti kamattámogatás és kezelési költség támogatás, a 2. § (8d) bekezdés b) pontja szerinti kezességi díjtámogatás és a 2. § (8d) bekezdés c) pontja szerinti költségtámogatás – figyelemmel a 2. § (1) és (3) bekezdésében foglaltakra – átmeneti támogatásként is igényelhető.
 
 (2) A mezőgazdasági vállalkozás által igénybe vehető átmeneti támogatás összege legfeljebb
 
@@ -42,15 +42,17 @@ f) arról, hogy tudomásul veszi, hogy a KAVOSZ Zrt. a szabad átmeneti támogat
 
 (5) A támogatás átmeneti támogatásként történő igénylése esetén az igénylőlapon benyújtott hitelkérelem a mezőgazdasági vállalkozás (3) bekezdés szerinti nyilatkozatai, valamint a 2. § (1) bekezdésében, a 3. § (1) és (2) bekezdésében foglaltaknak, és az Üzletszabályzatban meghatározott egyéb feltételeknek történő megfelelés alapján fogadható be. A hitelkérelem befogadásához szükséges feltételek teljesülését a KAVOSZ Zrt. a rendelkezésére álló adatok és nyilatkozatok alapján ellenőrzi.
 
-(6) A KAVOSZ Zrt. a (3) bekezdésben foglalt nyilatkozatok tartalmáról, valamint a befogadott hitelkérelem adatai alapján a kamattámogatás, a kezességi díjtámogatás és a kezesség várható támogatástartalmáról adatot szolgáltat a Kincstár részére.
+(6)[^84] A KAVOSZ Zrt. a (3) bekezdésben foglalt nyilatkozatok tartalmáról, valamint a befogadott hitelkérelem adatai alapján a kamattámogatás, a kezelési költség támogatás, a kezességi díjtámogatás és a kezesség várható támogatástartalmáról adatot szolgáltat a Kincstár részére.
 
 (7) A Kincstár a (6) bekezdés szerinti adatszolgáltatás alapján ellenőrzi a 20/2020. (VI. 19.) AM rendelet 3. § (1) és (3) bekezdésében foglaltak teljesülését, és erről – a hitelügylet várható támogatástartalmának egyidejű zárolása mellett – három munkanapon belül értesíti a KAVOSZ Zrt.-t.
 
-(8) A KAVOSZ Zrt. a hitelszerződés hatályossá válására vonatkozó banki adatszolgáltatást követő öt munkanapon belül adatot szolgáltat a Kincstár részére a kamattámogatás és a kezességi díjtámogatás mértékéről, valamint a kezesség tényleges támogatástartalmáról, amely alapján a Kincstár elvégzi a (7) bekezdés szerinti zárolás feloldásával és a tényleges támogatástartalom lekötésével összefüggő feladatokat, valamint megküldi a mezőgazdasági vállalkozás részére a kamattámogatásról és a kezességi díjtámogatásról szóló támogatástartalom-igazolást.
+(8)[^85] A KAVOSZ Zrt. a hitelszerződés hatályossá válására vonatkozó banki adatszolgáltatást követő öt munkanapon belül adatot szolgáltat a Kincstár részére a kamattámogatás, a kezelési költség támogatás és a kezességi díjtámogatás mértékéről, valamint a kezesség tényleges támogatástartalmáról, amely alapján a Kincstár elvégzi a (7) bekezdés szerinti zárolás feloldásával és a tényleges támogatástartalom lekötésével összefüggő feladatokat, valamint megküldi a mezőgazdasági vállalkozás részére a kamattámogatásról, a kezelési költség támogatásról és a kezességi díjtámogatásról szóló támogatástartalom-igazolást.
 
 (9) Az (1) bekezdésben meghatározott hitelszerződésekhez kapcsolódóan csekély összegű támogatás csak abban az esetben igényelhető, ha az átmeneti támogatás nyújtásának feltételei nem állnak fenn.
 
 (10) Átmeneti támogatás igénylése esetén nem kell alkalmazni a 6. § (3) bekezdésében és a 7/A–7/C. §-ban foglaltakat.
 
 [^82]: A 6b. alcímet (7/D. §) a 66/2020. (XII. 18.) AM rendelet 4. §-a iktatta be.
-[^83]: A 7/D. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 10. §-a szerint módosított szöveg.
+[^83]: A 7/D. § (1) bekezdése a 14/2022. (III. 30.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^84]: A 7/D. § (6) bekezdése a 14/2022. (III. 30.) AM rendelet 3. § c) pontja szerint módosított szöveg.
+[^85]: A 7/D. § (8) bekezdése a 14/2022. (III. 30.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.

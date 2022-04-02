@@ -82,9 +82,9 @@ cb) a 2017. év vonatkozásában benyújtott egységes kérelemben feltüntetett
 
 cc) a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslésének költsége, az egyszeri közjegyzői díj, a hitel teljes futamidejére megfizetett bírálati díj, a szerződéskötési díj együttes összegének 100%-ára, valamint a ca) alpontban meghatározott szabályok szerint kiszámított kezelési költség 100%-ára vonatkozó költségtámogatás.
 
-(8b)[^34] A (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában foglalt költségtámogatás általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén a költség nettó összegére, ÁFA-levonási joggal nem rendelkezők esetén a költség bruttó összegére vonatkozik.
+(8b)[^34] A (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában, továbbá a (8d) bekezdés a) és c) pontjában foglalt költségtámogatás általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén a költség nettó összegére, ÁFA-levonási joggal nem rendelkezők esetén a költség bruttó összegére vonatkozik.
 
-(8c)[^35] A (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában foglalt költségtámogatás esetén – a kezelési költségtámogatás kivételével – a támogatás összegét a támogatási kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
+(8c)[^35] A (8a) bekezdés a) pont ac) és ad) alpontjában, b) pont bc) és bd) alpontjában, valamint c) pont cc) alpontjában, továbbá a (8d) bekezdés a) és c) pontjában foglalt költségtámogatás esetén – a kezelési költségtámogatás kivételével – a támogatás összegét a támogatási kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
 (8d)[^36] Sertéstenyésztéssel foglalkozó mezőgazdasági vállalkozás esetében az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 49/2021. (XII. 28.) AM rendelet hatálybalépését követő nap és 2022. június 30. között – a határnapokat is beleértve – hatályba lépett hitelszerződés esetén a támogatás mértéke
 
@@ -121,7 +121,7 @@ c) a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslés
 [^31]: A 2. § (8a) bekezdés b) pont bc) alpontja a 78/2016. (XII. 12.) FM rendelet 12. § b) pontja, a 17/2017. (IV. 10.) FM rendelet 7. § b) pontja, a 66/2020. (XII. 18.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^32]: A 2. § (8a) bekezdés b) pont bd) alpontja a 66/2020. (XII. 18.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^33]: A 2. § (8a) bekezdés c) pontját a 39/2017. (VIII. 7.) FM rendelet 3. § (1) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 66/2020. (XII. 18.) AM rendelet 6. § c) pontja szerint módosított szöveg.
-[^34]: A 2. § (8b) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^35]: A 2. § (8c) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^34]: A 2. § (8b) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 3. § (2) bekezdésével megállapított, a 14/2022. (III. 30.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^35]: A 2. § (8c) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 3. § (2) bekezdésével megállapított, a 14/2022. (III. 30.) AM rendelet 3. § a) pontja szerint módosított szöveg.
 [^36]: A 2. § (8d) bekezdését a 49/2021. (XII. 28.) AM rendelet 2. §-a iktatta be.
 [^37]: A 2. § (9) bekezdése a 66/2020. (XII. 18.) AM rendelet 6. § d) pontja, a 49/2021. (XII. 28.) AM rendelet 6. § b) pontja szerint módosított szöveg.
