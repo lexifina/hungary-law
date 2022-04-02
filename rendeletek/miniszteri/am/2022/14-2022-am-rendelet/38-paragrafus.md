@@ -1,0 +1,1 @@
+## „(3) A (2) bekezdésben meghatározott adatokon felül a kiállított számla tételesen tartalmazza a leszállított termék ellenértékének támogatástartalmát. A támogatástartalom nem haladhatja meg az adott termékkategóriához a 18. § (1) bekezdésében meghatározott maximális összeget.”

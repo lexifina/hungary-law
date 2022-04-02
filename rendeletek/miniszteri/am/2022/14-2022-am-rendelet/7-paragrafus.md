@@ -1,0 +1,3 @@
+## 6. § Az 5/2015. (II. 19.) FM rendelet 26. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A támogatási kérelem benyújtása, a módosítás, a pontosítás, a visszavonás, az adatváltozás bejelentése, a vis maior bejelentés, a kérelem késedelmes benyújtása, a meghatalmazott, a kamarai meghatalmazott, a vélelmezett örökös eljárása, az előzetes ellenőrzés, az elektronikus kapcsolattartás, a helyszíni ellenőrzésről szóló jegyzőkönyvre tett ügyfélészrevétel kötelezően elektronikus úton történő benyújtása kapcsán az egységes kérelem rendeletben foglaltakat kell alkalmazni. Az előzetes ellenőrzés szabályait a 7. § (1) bekezdés e) pontja szerinti támogatási jogcímre nem kell alkalmazni.”

@@ -1,0 +1,5 @@
+## 27. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes támogatások számviteli nyilvántartásával kapcsolatos szabályokról szóló 55/2019. (XII. 10.) AM rendelet a következő 3. §-sal egészül ki:
+
+## „3. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) és az Európai Mezőgazdasági Garanciaalapból (EMGA) 2021-ben és 2022-ben nyújtandó támogatásokra vonatkozó egyes átmeneti rendelkezések megállapításáról és az 1305/2013/EU, az 1306/2013/EU és az 1307/2013/EU rendeletnek a források és a 2021-ben és 2022-ben való alkalmazás tekintetében, valamint az 1308/2013/EU rendeletnek a források és az ilyen támogatások 2021-re és 2022-re vonatkozó elosztása tekintetében történő módosításáról szóló, 2020. december 23-i (EU) 2020/2220 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+
+## 9. Az Európai Mezőgazdasági Garancia Alapból a borászati gépek, technológiai berendezések beszerzéséhez igényelhető támogatásról szóló 53/2020. (X. 27.) AM rendelet módosítása
