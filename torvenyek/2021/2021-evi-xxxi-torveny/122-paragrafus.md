@@ -1,1 +1,0 @@
-122. § Az 5. § az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 61. cikke értelmében az Európai Határ- és Parti Őrség készenléti alakulatának felállításához nyújtott pénzügyi támogatásról szóló, 2020. október 26-i (EU) 2020/1567 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
