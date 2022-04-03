@@ -1,1 +1,3 @@
-## 16. § A 9/2015. (III. 13.) FM rendelet 5. melléklet B:21 mezőjében a „Corylus avellana” szövegrész helyébe a „Corylus sp.” szöveg lép.
+17. §[^17]
+
+[^17]: A 8–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

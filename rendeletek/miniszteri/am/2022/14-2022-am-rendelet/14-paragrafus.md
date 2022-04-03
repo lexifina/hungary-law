@@ -1,1 +1,3 @@
-## „(9) A Kincstár az (1) bekezdésben meghatározott feltételek teljesítéséről a (2) bekezdés szerinti hatósági bizonyítványban rögzített adatok alapján dönt, amennyiben az általa lefolytatott ellenőrzések alapján a megállapított hasznosítás megegyezik az ügyfél által bejelentett hasznosítással, amennyiben eltér, akkor a Kincstár az általa lefolytatott helyszíni ellenőrzés eredménye alapján dönt.”
+14. §[^14]
+
+[^14]: A 8–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

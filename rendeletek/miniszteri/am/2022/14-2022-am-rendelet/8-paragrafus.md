@@ -1,3 +1,5 @@
-## 7. § Hatályát veszti az 5/2015. (II. 19.) FM rendelet 13. § (3a) bekezdése.
-
 ## 4. A termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 9/2015. (III. 13.) FM rendelet módosítása
+
+8. §[^8]
+
+[^8]: A 8–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-34. § (1) A 19/2021. (V. 5.) AM rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+34. §[^38]
 
-## „(1) A 11. § (8) bekezdésében foglaltak alapján a gyerekek mezőgazdasági – uniós és helyi – termékekkel kapcsolatos ismereteinek bővítése céljából a következő – a tej- és tejtermékfogyasztás és az egészséges életmód ösztönzését szolgáló – promóciós intézkedések vállalhatóak:”
-
-(2) A 19/2021. (V. 5.) AM rendelet 12. §-a a következő (5) bekezdéssel egészül ki:
+[^38]: A 34–42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

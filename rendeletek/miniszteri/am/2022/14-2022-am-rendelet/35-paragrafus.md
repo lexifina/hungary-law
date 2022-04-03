@@ -1,1 +1,3 @@
-## „(5) A kérelmező valamennyi végső kedvezményezett számára biztosítja az (1) bekezdésben meghatározott promóciós intézkedésekben való részvételt.”
+35. §[^39]
+
+[^39]: A 34–42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

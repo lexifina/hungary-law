@@ -1,1 +1,3 @@
-## „(7a) Ha megállapításra kerül, hogy a fenntartó nem vagy csak részben tett eleget a 11. § (1)–(11) bekezdése szerinti kötelezettségeinek, a Kincstár a fenntartónál kezdeményezheti az érintett nevelési-oktatási intézmények tanulóinak kiosztott termékek alapján az adott tanévre vonatkozóan igényelt és kifizetett támogatás 1%-ának, de legfeljebb 200 000 Ft támogatásnak a visszafizetését.”
+41. §[^45]
+
+[^45]: A 34–42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

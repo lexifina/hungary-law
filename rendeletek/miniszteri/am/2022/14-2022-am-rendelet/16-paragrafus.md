@@ -1,1 +1,3 @@
-## 15. § A 9/2015. (III. 13.) FM rendelet 3. melléklete helyébe az 1. melléklet lép.
+16. §[^16]
+
+[^16]: A 8–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

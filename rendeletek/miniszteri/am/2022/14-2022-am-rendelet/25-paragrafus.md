@@ -1,3 +1,3 @@
-## 24. § A 22/2016. (IV. 5.) FM rendelet 27. §-a a következő (1a) bekezdéssel egészül ki:
+25. §[^25]
 
-## „(1a) Elektronikus kapcsolattartás esetén a jogorvoslati kérelmet az ügyfél a Kincstár honlapján keresztül, ügyfélkapus azonosítással elérhető elektronikus felületen nyújtja be.”
+[^25]: A 21–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

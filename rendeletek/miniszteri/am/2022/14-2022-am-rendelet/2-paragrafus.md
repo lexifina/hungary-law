@@ -1,1 +1,3 @@
-## „(8) A KAVOSZ Zrt. a hitelszerződés hatályossá válására vonatkozó banki adatszolgáltatást követő öt munkanapon belül adatot szolgáltat a Kincstár részére a kamattámogatás, a kezelési költség támogatás és a kezességi díjtámogatás mértékéről, valamint a kezesség tényleges támogatástartalmáról, amely alapján a Kincstár elvégzi a (7) bekezdés szerinti zárolás feloldásával és a tényleges támogatástartalom lekötésével összefüggő feladatokat, valamint megküldi a mezőgazdasági vállalkozás részére a kamattámogatásról, a kezelési költség támogatásról és a kezességi díjtámogatásról szóló támogatástartalom-igazolást.”
+2. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

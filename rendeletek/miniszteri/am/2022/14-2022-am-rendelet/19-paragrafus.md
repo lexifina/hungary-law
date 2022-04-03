@@ -1,5 +1,3 @@
-## 18. § Az éghajlat és környezet szempontjából előnyös mezőgazdasági gyakorlatokra nyújtandó támogatás igénybevételének szabályairól, valamint a szántóterület, az állandó gyepterület és az állandó kultúrával fedett földterület növénytermesztésre vagy legeltetésre alkalmas állapotban tartásának feltételeiről szóló 10/2015. (III. 13.) FM rendelet [a továbbiakban: 10/2015. (III. 13.) FM rendelet] 1. § 4. pontja helyébe a következő rendelkezés lép:
+19. §[^19]
 
-## (E rendelet alkalmazásában:)
-
-## „4. állandó kultúra: az állandó gyepterülettől eltérő, a vetésforgón kívül termesztett növénykultúra, amely öt vagy öt évnél több ideig foglalja el a földterületet, és ismétlődően termést hoz, ideértve a faiskolát, a rövid vágásfordulójú fás szárú energetikai ültetvényt, a fás szárú egyéb ültetvényeket, a spárgát, a Miscanthus nemzetségbe tartozó energianádfajokat, az olasznád- és a szilfiumfajokat mint lágyszárú energianövényeket, valamint a levendula, orvosi zsálya, ligeti zsálya, kerti ruta, mezei cickafark, fehér üröm, kasvirág, évelő édeskömény, kerti kakukkfű, lósóska, szurokfű, orbáncfű, tárkony lágyszárú fajokat;”
+[^19]: A 18–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
