@@ -1,0 +1,100 @@
+# A Kormány 128/2022. (IV. 4.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 61. szám, 2022. április 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2g0tNZlAE5ITYOXAZysr623dea588c54a/dokumentumok/c7d245e0af08480f8108d9dcb10ffe07460115c3/letoltes)
+
+---
+
+A Kormány 128/2022. (IV. 4.) Korm. rendelete
+a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosításáról
+A Kormány a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés a) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.)
+Korm. rendelet 2. számú melléklete helyébe az 1. melléklet lép.
+2. §
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 128/2022. (IV. 4.) Korm. rendelethez
+„2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez
+A keresetek, jövedelmek beszámítása során alkalmazandó valorizációs szorzószámok 2022. január 1-je
+és december 31-e közötti időponttól megállapításra kerülő nyugellátások esetén
+A B
+1. Év Szorzószám
+2. 1950. 447,153
+3. 1951. 418,742
+4. 1952. 329,532
+5. 1953. 310,307
+6. 1954. 283,336
+7. 1955. 269,484
+8. 1956. 249,113
+9. 1957. 213,951
+10. 1958. 209,227
+11. 1959. 200,642
+12. 1960. 195,973
+13. 1961. 193,347
+14. 1962. 188,655
+15. 1963. 181,538
+16. 1964. 175,752
+17. 1965. 175,141
+18. 1966. 166,851
+19. 1967. 161,690
+20. 1968. 158,313
+21. 1969. 151,737
+
+22. 1970. 142,401
+23. 1971. 136,137
+24. 1972. 129,164
+25. 1973. 120,374
+26. 1974. 111,769
+27. 1975. 104,850
+28. 1976. 100,047
+29. 1977. 93,068
+30. 1978. 86,173
+31. 1979. 81,914
+32. 1980. 77,497
+33. 1981. 72,767
+34. 1982. 68,326
+35. 1983. 65,383
+36. 1984. 58,327
+37. 1985. 53,364
+38. 1986. 49,501
+39. 1987. 45,582
+40. 1988. 41,514
+41. 1989. 35,512
+42. 1990. 29,204
+43. 1991. 23,270
+44. 1992. 19,182
+45. 1993. 16,300
+46. 1994. 12,805
+47. 1995. 11,371
+48. 1996. 9,685
+49. 1997. 7,806
+50. 1998. 6,592
+51. 1999. 5,849
+52. 2000. 5,250
+53. 2001. 4,519
+54. 2002. 3,777
+55. 2003. 3,307
+56. 2004. 3,126
+57. 2005. 2,840
+58. 2006. 2,640
+59. 2007. 2,562
+60. 2008. 2,396
+61. 2009. 2,352
+62. 2010. 2,202
+63. 2011. 2,070
+64. 2012. 2,028
+65. 2013. 1,933
+66. 2014. 1,876
+67. 2015. 1,799
+68. 2016. 1,670
+
+69. 2017. 1,478
+70. 2018. 1,328
+71. 2019. 1,192
+72. 2020. 1,087
+”
+
+V. A Kormány tagjainak rendeletei
