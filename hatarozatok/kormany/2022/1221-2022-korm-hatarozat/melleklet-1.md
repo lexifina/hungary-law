@@ -1,0 +1,145 @@
+## 1. felhívja a belügyminisztert, hogy az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) útján, és az emberi erőforrások miniszterét, hogy a Nemzeti Népegészségügyi Központ útján tegyék meg a szükséges intézkedéseket az URBS PRO PATIENTE Egészségügyi Fejlesztő és Üzemeltető Közhasznú Nonprofit Korlátolt Felelősségű Társaság (cégjegyzékszám: 13-09-202841) (a továbbiakban: Társaság) által ellátott, 1. melléklet szerinti közfeladatoknak és szakellátási kapacitásoknak a Magyar Máltai Szeretetszolgálat Egyesület (nyilvántartási szám: 01-02-0000010) (a továbbiakban: Szeretetszolgálat) fenntartásába történő átadására, a 42 aktív ágyon végzett pszichiátriai ellátás kivételével, azzal, hogy az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény szerinti aktív pszichiátriai fekvőbeteg ellátás és szakellátási kapacitás az Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet (a továbbiakban: Intézet) részére kerül átadásra;
+
+## Felelős: belügyminiszter
+
+## emberi erőforrások minisztere
+
+## Határidő: az e határozat közzétételét követő 2 hónapon belül
+
+## 2. az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (2) bekezdés e) pontja alapján, a Vtv. 36. § (3) bekezdésében meghatározott jogkörében eljárva úgy dönt, hogy a Társaság állam tulajdonában álló részesedését (a továbbiakban: üzletrész) ingyenesen a Szeretetszolgálat tulajdonába adja, a Szeretetszolgálat által átvállalt állami közfeladatok, közhasznú szociális és egészségügyi feladatai ellátásának elősegítése érdekében;
+
+## 3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján – a belügyminiszter és az emberi erőforrások minisztere bevonásával – intézkedjen az üzletrész ingyenes tulajdonba adásáról szóló szerződés (a továbbiakban: szerződés) előkészítéséről és megkötéséről, azzal, hogy a szerződés – az üzletrész-átruházásokra vonatkozó szerződésekre irányadó általános jogszabályi követelményeken túlmenően – tartalmazza azt is, hogy
+
+## a) az üzletrészt, valamint a Társaság tulajdonában lévő feladatellátást szolgáló vagyonelemeket a Szeretetszolgálat az 1. és 2. pontban foglaltak szerint az általa átvállalt állami közfeladatok ellátására köteles használni a feladatellátási kötelezettségének fennállásáig, de legalább a szerződés hatálybalépésétől számított 15 évig, ennek keretében a Szeretetszolgálat vállalja, hogy az Intézettel szakmai szempontok alapján együttműködik az akut, rehabilitációs és krónikus betegutak összehangolásában, szem előtt tartva a pszichiátriai rehabilitációra szoruló, illetve a tényleges (kórházi) ápolást igénylő idős, demens betegek ellátását,
+
+## b) a Szeretetszolgálat vállalja, hogy a Társaság jogutód nélküli, illetve jogutódlással történő megszüntetéséről, az üzletrész vonatkozásában harmadik személy részére bármilyen jog alapításáról, elidegenítéséről a szerződés hatálybalépésétől számított 15 évig az egészségügyért felelős miniszter egyetértésével, csak az MNV Zrt. előzetes, kifejezett jóváhagyását követően dönthet, azzal, hogy a Társaság megszűnése vagy elidegenítése az átvett feladatok Szeretetszolgálat általi ellátását nem veszélyeztetheti; az MNV Zrt. az előzetes jóváhagyást csak abban az esetben adhatja meg, ha az Intézet és az OKFŐ előzetes jóváhagyása is rendelkezésére áll,
+
+## c) a Szeretetszolgálat vállalja, hogy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4) bekezdés b) pontjában meghatározott, az átruházott vagyon hasznosításáról szóló beszámolási kötelezettségének – a szerződés hatálybalépését követő évtől kezdődően 15 éven keresztül – minden év december 31. napjáig írásban tesz eleget, és beszámolójához csatolja az Intézet Szeretetszolgálat beszámolójában foglaltakkal kapcsolatos véleményét is a hasznosítási cél teljesülése vonatkozásában,
+
+## d) ha a Szeretetszolgálat az a) alpontban foglalt kötelezettségeinek részben vagy egészben nem tesz eleget, az MNV Zrt. – az Intézet és az OKFŐ előzetes álláspontjának figyelembevételével – elállhat a szerződéstől, azzal, hogy amennyiben az MNV Zrt. az elállási jogát gyakorolja, a kedvezményezett az állammal szemben megtérítési igénnyel vagy egyéb követeléssel nem élhet, köteles ugyanakkor az üzletrész értékében bekövetkezett csökkenés összegét az MNV Zrt.-nek megfizetni, amennyiben az érték csökkenése a felhasználási célnak nem megfelelő hasznosításra vezethető vissza,
+
+## e) amennyiben a Szeretetszolgálat a c) alpontban foglalt beszámolási kötelezettségének nem tesz eleget, úgy az MNV Zrt. erre vonatkozó felhívásának kézhezvételétől számított 30 napon belül késedelmi kötbért köteles fizetni;
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## belügyminiszter
+
+## emberi erőforrások minisztere
+
+## Határidő: az e határozat közzétételét követő 3 hónapon belül
+
+## 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2018. (VI. 25.) NVTNM rendelet módosításáról, a 3. pontban foglaltakkal összefüggésben;
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## Határidő: a 3. pont szerinti szerződés megkötésével egyidejűleg
+
+## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az agrárminiszter bevonásával vizsgálja meg az ingatlan-nyilvántartás szerinti Pomáz külterület 0311/1, 0311/3 és 0311/4 helyrajzi számú ingatlanok Szeretetszolgálat részére versenyeztetés mellőzésével és ingyenesen történő használatba adásának lehetőségét, és a vizsgálat eredménye alapján az MNV Zrt. útján tegye meg a szükséges intézkedéseket;
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## agrárminiszter
+
+## Határidő: a 3. pont szerinti feladat végrehajtásával egyidejűleg
+
+## 6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az 5. pontban meghatározott ingatlanok tekintetében az agrárminiszter bevonásával vizsgálja meg azok tulajdonjogának a Szeretetszolgálat javára történő ingyenes átruházásának lehetőségét, és a vizsgálat eredménye alapján készítsen előterjesztést a Kormány részére;
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## agrárminiszter
+
+## Határidő: az 5. pont végrehajtását követő 1 hónapon belül
+
+## 7. az 1. pontban foglalt cél megvalósítása érdekében egyetért a Szeretetszolgálat közfeladat-ellátásával összefüggő költségeinek központi költségvetési támogatásával, ennek érdekében felhívja az emberi erőforrások miniszterét, hogy – a pénzügyminiszter bevonásával – gondoskodjon a 2023. évtől a szükséges forrás rendelkezésre állásáról az adott évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében.
+
+## Felelős: emberi erőforrások minisztere
+
+## pénzügyminiszter
+
+## Határidő: az adott évi központi költségvetés tervezése során
+
+1. melléklet az 1221/2022. (IV. 5.) Korm. határozathoz
+
+I. A Szeretetszolgálat a Társaság közfeladatai közül nevesítetten az alábbiakat látja el:
+
+1. A lakosság egészségi állapotának javítása, a jobb életminőség elősegítése, az egészségkárosító környezeti, társadalmi és egyéb hatások elleni fellépés az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 141. § (1) bekezdése, (2) bekezdés a) pontja, (3) bekezdés a), e) és g) pontja, (4) bekezdés b) és c) pontja, 144. §-a;
+
+2. Népegészségügyi tevékenység: az egészség fejlesztése, betegségek megelőzése, intézményrendszer, egészségfejlesztési, egészségvédelmi, betegségmegelőzési, gyógyító és orvosi rehabilitációs szolgáltatások – Eütv. 35. § (1) és (2) bekezdése, 36. § (1) bekezdése, 141. § (4) bekezdés b) és c) pontja;
+
+3. Egészségügyi alapellátás / egészséges életmód segítését célzó szolgáltatások – a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 13. § (1) bekezdés 4. pontja, 23. § (5) bekezdés 9. pontja;
+
+4. Szociális, gyermekjóléti és gyermekvédelmi szolgáltatások/ellátások – a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 59–85/C. §-a;
+
+5. Szociális ellátások biztosítása – Szt. 59–85/C., 86., 88. és 90. §-a, Mötv. 23. § (4) bekezdés 4. pontja;
+
+6. Hajléktalanná vált személyek ellátása és rehabilitációja, megelőzés biztosítása – Mötv. 13. § (1) bekezdés 10. pontja, 23. § (5) bekezdés 12. pontja;
+
+7. Hajléktalan ellátás – Mötv. 23. § (4) bekezdés 18. pontja;
+
+8. Pszichiátriai betegek, szenvedélybetegek, fogyatékos személyek, hajléktalan személyek életvezetési képességének kialakítása, illetve helyreállítása – Szt. 59. § (1), (2) és (4) bekezdése, 72. §-a;
+
+9. A fogyatékos személyek rehabilitációjának megvalósulása érdekében nyújtott szolgáltatások: rehabilitációs program, segédeszköz/segédeszköz-ellátás fejlesztés, a szolgáltatást nyújtó szervezetekkel és az általuk nyújtott rehabilitációs szolgáltatásokkal kapcsolatos adatok, információk gyűjtése a fogyatékos személyek, családtagjaik, segítőik tájékoztatása érdekében – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fogyest.) 21. § a)–g) pontja.
+
+II. Az I. pontban kiemelt közfeladatok ellátásához a Szeretetszolgálat alábbi közhasznú tevékenységeket végzi:
+
+1. Egészségfejlesztés, egészségügyi ismeretek bővítése, képességek fejlesztése képzésekkel, szűrőprogramok – Eütv. 35. § (1) és (2) bekezdése, 36. § (1) bekezdése, 37–40. §-a, 141. § (1) bekezdése, (2) bekezdés a) pontja, (3) bekezdés a), e) és g) pontja, (4) bekezdés b) és c) pontja;
+
+2. Megelőző ellátások, szűrővizsgálatok – Eütv. 79. §-a;
+
+3. Fertőző betegségek megelőzése – Eütv. 80. § b), c) és e) pontja;
+
+4. Szűrővizsgálatok különböző társadalmi rétegekben és korosztályokban – Eütv. 81. és 82. §-a;
+
+5. Egyéni kockázati tényezőkön alapuló megelőzés – Eütv. 83–85. §-a;
+
+6. Alapellátás, felvilágosítás – Eütv. 88. §-a;
+
+7. Járóbeteg-szakellátás – Eütv. 89–90. §-a;
+
+8. Fekvőbeteg-szakellátás – Eütv. 91. §-a;
+
+9. Ügyeleti ellátás – Eütv. 93. § (1) és (2) bekezdése;
+
+10. Ápolás – Eütv. 98. §-a;
+
+11. Rehabilitáció, gyógyászati segédeszköz ellátás – Eütv. 100. §-a;
+
+12. Orvostechnikai eszközellátás – Eütv. 101. §-a;
+
+13. Gyógyszerellátás – Eütv. 102. §-a;
+
+14. Pszichoterápia és klinikai szakpszichológia – Eütv. 103. §-a;
+
+15. Nem konvencionális eljárások – Eütv. 104. §-a;
+
+16. Egyéb gyógyászati eljárások – Eütv. 105. §-a;
+
+17. Képzés betegek, sérültek, mozgáskorlátozottak és sebesültek ellátására és gondozására intézményi vagy házi betegápolás keretében;
+
+18. Közösségi ellátások – Szt. 65/A. §-a;
+
+19. Nappali ellátás – Szt. 65/F. §-a;
+
+20. Ápolást, gondozást nyújtó intézmény – Szt. 67–71/B. §-a;
+
+21. Rehabilitációs intézmény – Szt. 59. § (1), (2) és (4) bekezdése, 72–74/A. §-a;
+
+22. Átmeneti elhelyezést nyújtó intézmény – Szt. 80–84. §-a;
+
+23. Az egyes intézményi szolgáltatások integrált szervezeti formában történő szervezése – Szt. 85/B–85/C. §-a;
+
+24. M.n.s. egyéb szociális ellátás bentlakás nélkül;
+
+25. Fejlesztő felkészítés fogyatékosok ápoló, gondozó otthonában nyújtott gondozás során;
+
+26. Fejlesztő felkészítés fogyatékosok rehabilitációs intézményében;
+
+27. Fejlesztő felkészítés fogyatékosok nappali intézményében nyújtott gondozás során;
+
+28. Képzés szociális, gyermekvédelmi és karitatív gondozásra;
+
+29. Megváltozott munkaképességűek és munkanélküliek foglalkoztatását elősegítő tevékenységek;
+
+30. Megváltozott munkaképességűek ellátása, foglalkoztatása, rehabilitációja – a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. CXCI. törvény;
+
+31. M.n.s. egyéb közösségi, társadalmi tevékenység.
