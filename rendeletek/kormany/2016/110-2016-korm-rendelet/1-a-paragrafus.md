@@ -1,4 +1,4 @@
-1/A. §[^2] (1)[^3] Az Ápjt. 1. § (8) bekezdése szerinti mentesítést az adott felhívás kidolgozásáért felelős irányító hatóság kérelmezheti a miniszternél.
+1/A. §[^3] (1)[^4] Az Ápjt. 1. § (8) bekezdése szerinti mentesítést az adott felhívás kidolgozásáért felelős irányító hatóság kérelmezheti a miniszternél.
 
 (2) Az (1) bekezdés szerinti kérelemnek tartalmaznia kell különösen
 
@@ -16,5 +16,5 @@ e) a mentesítési kérelem részletes indokolását.
 
 (4) A miniszter az (1) bekezdés szerinti kérelemről annak beérkezésétől számított nyolc napon belül dönt. Ha a miniszter nyolc napon belül nem dönt, a kérelmet elutasítottnak kell tekinteni.
 
-[^2]: Az 1/A. §-t a 172/2019. (VII. 12.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 1/A. § (1) bekezdése az 575/2020. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 1/A. §-t a 172/2019. (VII. 12.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1/A. § (1) bekezdése az 575/2020. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.

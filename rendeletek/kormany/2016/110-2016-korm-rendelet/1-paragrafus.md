@@ -14,6 +14,9 @@ c) az európai uniós források felhasználásáért felelős miniszter (a tová
 
 ## benyújtott támogatási kérelmek tartalmi értékelésére kell alkalmazni.
 
+(1a)[^2] E rendeletet a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott tartalmi értékelésre is alkalmazni kell.
+
 (2) E rendeletet az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben, valamint a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott közbeszerzések közbeszerzési értékelésére is alkalmazni kell.
 
 [^1]: Az 1. § a 489/2021. (VIII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 124/2022. (III. 28.) Korm. rendelet 1. §-a iktatta be.
