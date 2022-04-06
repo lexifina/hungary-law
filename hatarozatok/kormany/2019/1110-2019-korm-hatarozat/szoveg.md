@@ -72,7 +72,7 @@ emberi erőforrások minisztere
 
 Határidő: 2019. június 30.
 
-3. A Kormány felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – biztosítsa a szükséges forrásokat
+3.[^1] A Kormány felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – biztosítsa a szükséges forrásokat
 
 a) az 1. pont szerinti intézkedések megvalósításához;
 
@@ -84,21 +84,22 @@ Határidő: az 1. pont aa) alpontja esetében 2019. június 30.
 
 az 1. pont aa)–ad), b) és c) alpontja esetében a 2020. évre vonatkozó központi költségvetés tervezésekor
 
-b)[^1] a nagycsaládosok személygépkocsi-szerzési támogatásáról szóló kormányrendelet szerinti támogatási rendszer működéséhez a Miniszterelnökség költségvetési fejezetében;
+b)[^2] a nagycsaládosok személygépkocsi-szerzési támogatásáról szóló kormányrendelet szerinti támogatási rendszer működéséhez a Miniszterelnökség költségvetési fejezetében;
 
 Felelős: pénzügyminiszter
 
-családokért felelős tárca nélküli miniszter
+Miniszterelnökséget vezető miniszter
 
 Határidő: a 2019-es év tekintetében 2019. június 30., a további években az adott évre vonatkozó központi költségvetés tervezésekor
 
-c)[^2] a babaváró támogatásról szóló kormányrendelet szerinti kölcsönkonstrukcióhoz kapcsolódó költségvetési támogatásokhoz a Magyarország központi költségvetéséről szóló törvény 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezetében.
+c)[^3] a babaváró támogatásról szóló kormányrendelet szerinti kölcsönkonstrukcióhoz kapcsolódó költségvetési támogatásokhoz a Magyarország központi költségvetéséről szóló törvény 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezetében.
 
 Felelős: pénzügyminiszter
 
-családokért felelős tárca nélküli miniszter
+Miniszterelnökséget vezető miniszter
 
 Határidő: a 2019-es év tekintetében 2019. június 30., a további években az adott évre vonatkozó központi költségvetés tervezésekor
 
-[^1]: A 3. pont b) alpontja az 1458/2021. (VII. 13.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^2]: A 3. pont c) alpontja az 1458/2021. (VII. 13.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^1]: A 3. pont nyitó szövegrésze az 1211/2022. (IV. 5.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont b) alpontja az 1458/2021. (VII. 13.) Korm. határozat 4. pontja, az 1211/2022. (IV. 5.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
+[^3]: A 3. pont c) alpontja az 1458/2021. (VII. 13.) Korm. határozat 4. pont b) alpontja, az 1211/2022. (IV. 5.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
