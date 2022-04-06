@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-118-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-03-23 | 2022-118-20-22.1 | 118/2022. (III. 22.) Korm. rendelet |
+| 2022-04-06 | 2022-118-20-22.2 | 2021. évi I. törvény |
