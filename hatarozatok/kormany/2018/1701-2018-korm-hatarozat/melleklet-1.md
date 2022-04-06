@@ -20,33 +20,33 @@
 
 ## Az elszámolási és visszafizetési kötelezettség tekintetében
 
-## Felelős: emberi erőforrások minisztere
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: az előkészítési fázisok befejezését követő 120 napon belül
 
-## 4. az 1. pont szerinti beruházások előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
+## 4.[^3] az 1. pont szerinti beruházások előkészítésének kormányzati felelőseként az a Miniszterelnökséget vezető minisztert jelöli ki;
 
 ## 5. egyetért azzal, hogy az 1. pont szerinti előkészítési fázisokat a Magyar Cserkészszövetség valósítsa meg;
 
-## 6. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. pontban meghatározott beruházások előkészítése során az akadálymentes hozzáférés szempontjainak érvényre juttatásáról a törvényi kötelezettségeknek megfelelően;
+## 6.[^4] felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az 1. pontban meghatározott beruházások előkészítése során az akadálymentes hozzáférés szempontjainak érvényre juttatásáról a törvényi kötelezettségeknek megfelelően;
 
-## Felelős: emberi erőforrások minisztere
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: folyamatos
 
-## 7. felhívja az emberi erőforrások miniszterét, hogy
+## 7.[^5] felhívja a Miniszterelnökséget vezető minisztert, hogy
 
-## a)[^3]
+## a)[^6]
 
 ## b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás folytatásának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok és költségek bemutatásával;
 
-## Felelős: emberi erőforrások minisztere
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: az előkészítő szakasz végrehajtását követő 30 napon belül
 
 ## 8. támogatja a gödöllői Teleki Pál Cserkészpark (2146 Mogyoród, Cserkész utca 1., hrsz. 0121/2) fejlesztését;
 
-## 9.[^4] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 50 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv2.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv2. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 15. Gyermek és ifjúsági szakmai feladatok alcím, 3. Ifjúságpolitikai feladatok támogatása jogcímcsoport, 2. Gyermek és ifjúsági szakmafejlesztési célok jogcím javára, a 2. melléklet szerint.
+## 9.[^7] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 50 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv2.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv2. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 15. Gyermek és ifjúsági szakmai feladatok alcím, 3. Ifjúságpolitikai feladatok támogatása jogcímcsoport, 2. Gyermek és ifjúsági szakmafejlesztési célok jogcím javára, a 2. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -63,6 +63,9 @@
 1. melléklet az 1701/2018. (XII. 17.) Korm. határozathoz
 
 [^1]: A 2. pont az 1158/2020. (IV. 15.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^2]: A 3. pont az 1158/2020. (IV. 15.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
-[^3]: A 7. pont a) alpontját az 1158/2020. (IV. 15.) Korm. határozat 4. pontja visszavonta.
-[^4]: A 9. pont az 1158/2020. (IV. 15.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1158/2020. (IV. 15.) Korm. határozat 3. pont b) alpontja, az 1211/2022. (IV. 5.) Korm. határozat 9. pont a) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1211/2022. (IV. 5.) Korm. határozat 9. pont b) alpontja szerint módosított szöveg.
+[^4]: A 6. pont az 1211/2022. (IV. 5.) Korm. határozat 9. pont c) alpontja szerint módosított szöveg.
+[^5]: A 7. pont az 1211/2022. (IV. 5.) Korm. határozat 9. pont c) alpontja szerint módosított szöveg.
+[^6]: A 7. pont a) alpontját az 1158/2020. (IV. 15.) Korm. határozat 4. pontja visszavonta.
+[^7]: A 9. pont az 1158/2020. (IV. 15.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
