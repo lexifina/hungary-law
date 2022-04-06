@@ -2,18 +2,21 @@ A Kormány elismerve a kiemelkedő fiatal tehetségek támogatásának jelentős
 
 1. egyetért a Stipendium Peregrinum Ösztöndíjprogram céljaival, és támogatja azok megvalósítását;
 
-2. felhívja a pénzügyminisztert, hogy – a családokért felelős tárca nélküli miniszter bevonásával – az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon a 2022. évben 800 000 000 forint biztosításáról a 2022. évi központi költségvetés XI. Miniszterelnökség fejezete javára;
+2.[^1] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon a 2022. évben 800 000 000 forint biztosításáról a 2022. évi központi költségvetés XI. Miniszterelnökség fejezete javára;
 
 Felelős: pénzügyminiszter
 
-családokért felelős tárca nélküli miniszter
+Miniszterelnökséget vezető miniszter
 
 Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-3. felhívja a pénzügyminisztert, hogy – a családokért felelős tárca nélküli miniszter bevonásával – az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon a 2023. évtől évi 980 000 000 forint rendelkezésre állásáról a központi költségvetés Miniszterelnökség fejezete javára.
+3.[^2] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon a 2023. évtől évi 980 000 000 forint rendelkezésre állásáról a központi költségvetés Miniszterelnökség fejezete javára.
 
 Felelős: pénzügyminiszter
 
-családokért felelős tárca nélküli miniszter
+Miniszterelnökséget vezető miniszter
 
 Határidő: az adott évi központi költségvetés tervezése során
+
+[^1]: A 2. pont az 1211/2022. (IV. 5.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1211/2022. (IV. 5.) Korm. határozat 13. pontja szerint módosított szöveg.
