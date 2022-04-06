@@ -52,15 +52,7 @@
 
 ## Határidő: 2022. július 31.
 
-## 2. A Korm. határozat 11. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány a 2023. évi WA Atlétikai Világbajnokság sikeres megrendezése és a Nemzeti Atlétikai Központ megvalósítása érdekében)
-
-## „11. felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Kormány részére a Beruházás során létrejövő vagyonelemek üzemeltetéséről, az üzemeltető személyére vonatkozó javaslat és az üzemeltetési modell bemutatásával;
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2022. július 31.”
+## 2.[^1]
 
 1. melléklet az 1218/2022. (IV. 5.) Korm. határozathoz
 
@@ -113,3 +105,5 @@ A Beruházás megvalósításával érintett ingatlanok
 | 22. | Budapest | XXI. | 210007/8 |
 
 | 23. | Budapest | XXI. | 210020/1 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
