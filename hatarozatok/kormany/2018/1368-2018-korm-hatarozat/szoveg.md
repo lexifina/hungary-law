@@ -18,8 +18,8 @@ Határidő: a 2. pontban meghatározott forrás rendelkezésre bocsátását kö
 
 4.[^1] felkéri az OTP Fáy András Alapítványt, hogy 2019-től kezdődően évente számoljon be a Nemzeti Pénzügyi Tudatosság Munkacsoport részére az „OK Projekt 2.0.” eredményeiről.
 
-Felelős: családokért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2019. december 31., majd évente december 31.
 
-[^1]: A 4. pont az 1458/2021. (VII. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 4. pont az 1458/2021. (VII. 13.) Korm. határozat 2. pontja, az 1211/2022. (IV. 5.) Korm. rendelet 8. pontja szerint módosított szöveg.
