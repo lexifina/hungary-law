@@ -50,7 +50,7 @@ da) az igazságügyért felelős miniszter által vezetett minisztérium igazsá
 
 db) az oktatásért felelős miniszter által vezetett minisztérium köznevelésért felelős államtitkára,
 
-dc)[^16] a családokért felelős tárca nélküli miniszter,
+dc)[^16] a családpolitikáért felelős miniszter által vezetett minisztérium családokért felelős államtitkára,
 
 dd)[^17] a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium foglalkozáspolitikáért és vállalati kapcsolatokért államtitkára,
 
@@ -197,7 +197,7 @@ d)[^45] A rendészetért felelős minisztert, továbbá a kormányzati tevékeny
 [^13]: A 3. pont b) alpontja az 1876/2020. (XII. 2.) Korm. határozat 1. pontjával megállapított szöveg.
 [^14]: A 3. pont c) alpontja az 1876/2020. (XII. 2.) Korm. határozat 1. pontjával megállapított szöveg.
 [^15]: A 3. pont d) alpontja az 1493/2014. (IX. 4.) Korm. határozat 6. pontjával megállapított szöveg.
-[^16]: A 3. pont d) alpont dc) pontja az 1876/2020. (XII. 2.) Korm. határozat 3. pont b) alpontjával megállapított szöveg.
+[^16]: A 3. pont d) alpont dc) pontja az 1211/2022. (IV. 5.) Korm. határozat 1. pontjával megállapított szöveg.
 [^17]: A 3. pont d) alpont dd) alpontja az 1609/2019. (X. 22.) Korm. határozat 7. pont k) alpontja szerint módosított szöveg.
 [^18]: A 3. pont d) alpont de) alpontja az 1609/2019. (X. 22.) Korm. határozat 7. pont l) alpontja, az 1876/2020. (XII. 2.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
 [^19]: A 3. pont d) alpont df) alpontja az 1013/2015. (I. 22.) Korm. határozat 6. pontja szerint módosított szöveg.
