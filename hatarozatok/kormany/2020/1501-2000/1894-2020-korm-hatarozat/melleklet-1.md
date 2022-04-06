@@ -30,7 +30,7 @@
 
 ## 3. felkéri az érdekelt szervezeteket, kiemelten a Nemzeti Tehetség Központ Nonprofit Korlátolt Felelősségű Társaságot, hogy működjenek közre a Cselekvési Program végrehajtásában.
 
-1. melléklet az 1894/2020. (XII. 9.) Korm. határozathoz
+1. melléklet az 1894/2020. (XII. 9.) Korm. határozathoz[^1]
 
 ## A Nemzeti Tehetség Program végrehajtásának 2021–2022. évi cselekvési programja
 
@@ -40,7 +40,7 @@ I. Tehetségek támogatása
 
 ## 1) az innovatív tanulási környezet kialakítását, a tehetségsegítés feltételrendszerének javítását, komplex tehetségsegítő programok megvalósítását;
 
-## Felelős: családokért felelős tárca nélküli miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2023. június 30.
 
@@ -48,7 +48,7 @@ I. Tehetségek támogatása
 
 ## 2) a speciális fejlesztést célzó programok megvalósítását;
 
-## Felelős: családokért felelős tárca nélküli miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2023. június 30.
 
@@ -56,7 +56,7 @@ I. Tehetségek támogatása
 
 ## 3) a tanulmányi és művészeti versenyeket;
 
-## Felelős: családokért felelős tárca nélküli miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2023. június 30.
 
@@ -64,7 +64,7 @@ I. Tehetségek támogatása
 
 ## 4) a nemzetközi tanulmányi és művészeti versenyeken való részvételt és a hazai megrendezést;
 
-## Felelős: családokért felelős tárca nélküli miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2023. június 30.
 
@@ -72,7 +72,7 @@ I. Tehetségek támogatása
 
 ## 5) az Országos Tudományos Diákköri Konferencián és tudományos műhelyein való részvételt és a lebonyolítási feladatok ellátását;
 
-## Felelős: családokért felelős tárca nélküli miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2023. június 30.
 
@@ -80,7 +80,7 @@ I. Tehetségek támogatása
 
 ## 6) a szakkollégiumok tehetséggondozó programjait;
 
-## Felelős: családokért felelős tárca nélküli miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2023. június 30.
 
@@ -88,7 +88,7 @@ I. Tehetségek támogatása
 
 ## 7) az ösztöndíjprogramokat.
 
-## Felelős: családokért felelős tárca nélküli miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2023. december 31.
 
@@ -100,7 +100,7 @@ Támogatni kell
 
 1) a médiamegjelenéseket, a Nemzeti Tehetség Program népszerűsítését médián, kiadványokon és rendezvényeken keresztül;
 
-Felelős: családokért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2023. június 30.
 
@@ -108,7 +108,7 @@ Indikátor: legalább 100 szakmai elismerés és legalább 5 támogatott program
 
 2) a tehetséggondozó képzéseket;
 
-Felelős: családokért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2023. június 30.
 
@@ -116,7 +116,7 @@ Indikátor: legalább 200 fő képzése
 
 3) a tehetségsegítő szervezetek működését;
 
-Felelős: családokért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2023. június 30.
 
@@ -124,7 +124,7 @@ Indikátor: legalább 20 támogatás
 
 4) a Tehetségsegítő Információs és Programpontokat;
 
-Felelős: családokért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2023. június 30.
 
@@ -132,7 +132,7 @@ Indikátor: legalább 2 támogatott program
 
 5) a minősített tehetséggondozó műhelyeket;
 
-Felelős: családokért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2023. június 30.
 
@@ -140,7 +140,7 @@ Indikátor: legalább 39 támogatott minősített műhely
 
 6) az egységes, nemzeti, komplex tehetségazonosítási rendszereket;
 
-Felelős: családokért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
@@ -148,8 +148,10 @@ Indikátor: –
 
 7) a Budapesti Európai Tehetségközpont működését, európai tehetséghálózati munkáját.
 
-Felelős: családokért felelős tárca nélküli miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2023. június 30.
 
 Indikátor: 1 nemzetközi konferencia
+
+[^1]: Az 1. melléklet az 1211/2022. (IV. 5.) Korm. határozat 12. pontja szerint módosított szöveg.
