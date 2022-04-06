@@ -1,4 +1,4 @@
-## 11. §[^8] E rendeletnek az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet módosításáról szóló 727/2021. (XII. 20.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 3. §-át és a 2. mellékletében foglalt táblázat 10. és 11. sorát a Módr4. hatálybalépésekor[^9] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 12. §[^10] E rendeletnek az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet és az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 132/2022. (IV. 5.) Korm. rendelettel (a továbbiakban: Módr5.) módosított 2. mellékletében foglalt táblázat B:3 mezőjét a Módr5. hatálybalépésekor[^11] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 323/2020. (VII. 1.) Korm. rendelethez
 
@@ -48,20 +48,20 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-23.[^10] katasztrófavédelmi hatósági engedélyezési eljárások,
+23.[^12] katasztrófavédelmi hatósági engedélyezési eljárások,
 
-24.[^11] művelési ág megváltoztatására vonatkozó hatósági eljárások,
+24.[^13] művelési ág megváltoztatására vonatkozó hatósági eljárások,
 
-25.[^12] kapcsolódó villamos energia, gáz és egyéb közművek engedélyeztetése,
+25.[^14] kapcsolódó villamos energia, gáz és egyéb közművek engedélyeztetése,
 
-26.[^13] azok az 1–25. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+26.[^15] azok az 1–25. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-27.[^14] az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+27.[^16] az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^8]: A 11. §-t a 727/2021. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2021. december 21.
-[^10]: Az 1. melléklet 23. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
-[^11]: Az 1. melléklet 24. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
-[^12]: Az 1. melléklet 25. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
-[^13]: Az 1. melléklet 26. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
-[^14]: Az 1. melléklet 27. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^10]: A 12. §-t a 132/2022. (IV. 5.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2022. április 6.
+[^12]: Az 1. melléklet 23. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
+[^13]: Az 1. melléklet 24. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
+[^14]: Az 1. melléklet 25. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^15]: Az 1. melléklet 26. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^16]: Az 1. melléklet 27. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
