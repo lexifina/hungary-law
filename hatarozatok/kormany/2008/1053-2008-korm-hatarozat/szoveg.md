@@ -28,7 +28,7 @@ c) az Emberi Erőforrások Minisztériuma (a továbbiakban: EMMI) szociális üg
 
 d)[^9] az EMMI köznevelésért felelős államtitkárát,
 
-e)[^10] a Miniszterelnökség családokért felelős parlamenti államtitkárát,
+e)[^10] a Miniszterelnökség családokért felelős államtitkárát,
 
 f) az EMMI egészségügyért felelős államtitkárát,
 
@@ -125,7 +125,7 @@ h)[^25]
 [^7]: A 4. pont az 1683/2012. (XII. 29.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^8]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 2. pontjával megállapított, nyitó szövegrésze az 1545/2021. (VIII. 4.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
 [^9]: Az 5. pont d) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
-[^10]: Az 5. pont e) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 1. pontjával megállapított szöveg.
+[^10]: Az 5. pont e) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 1. pontjával megállapított, az 1211/2022. (IV. 5.) Korm. határozat 15. pontja szerint módosított szöveg.
 [^11]: Az 5. pont j) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 2. pontjával megállapított szöveg.
 [^12]: Az 5. pont k) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 2. pontjával megállapított szöveg.
 [^13]: Az 5. pont l) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
