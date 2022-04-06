@@ -30,7 +30,7 @@ aa) társadalmi felzárkózásért felelős helyettes államtitkára,
 
 ab) társadalmi felzárkózásért felelős területéről a miniszter által delegált 1 fő,
 
-b)[^2] a családokért felelős tárca nélküli miniszter részéről delegált 1 fő,
+b)[^2] a családpolitikáért felelős miniszter részéről delegált 1 fő,
 
 c)[^3] az innovációért és technológiáért felelős miniszter által delegált, az általa vezetett minisztérium felsőoktatásért felelős területéről 1 fő,
 
@@ -81,7 +81,7 @@ d)[^6]
 12.[^10] A Tanácsnak a társadalmi felzárkózási koordinációs testületek működésével kapcsolatos egyes kormányhatározatok módosításáról szóló 1545/2021. (VIII. 4.) Korm. határozat (a továbbiakban: KH1.) 7. pontjában meghatározott tagjait a KH1. közzétételét követő 15 napon belül kell delegálni.
 
 [^1]: A 3. pont az 1267/2019. (V. 8.) Korm. határozat 30. pontjával megállapított szöveg.
-[^2]: A 3. pont b) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 7. pontjával megállapított szöveg.
+[^2]: A 3. pont b) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 7. pontjával megállapított, az 1211/2022. (IV. 5.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^3]: A 3. pont c) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 7. pontjával megállapított szöveg.
 [^4]: A 3. pont d) alpontját újonnan az 1821/2021. (XI. 25.) Korm. határozat 8. pontja iktatta be.
 [^5]: A 4. pont az 1545/2021. (VIII. 4.) Korm. határozat 8. pontja szerint módosított szöveg.
