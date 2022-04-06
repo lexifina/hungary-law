@@ -14,13 +14,13 @@ e) a sportesemény, valamint az azzal összefüggő sportinfrastruktúra-fejlesz
 
 f) a sporteseménnyel összefüggő sportinfrastruktúra-fejlesztéshez kapcsolódó egyéb állami sport célú támogatási kérelem,
 
-g)[^63] a sporteseménnyel összefüggő sportinfrastruktúra-fejlesztés a nyári olimpiai és paralimpiai játékok, valamint a Nemzetközi Világjátékok Szövetsége (GAISF) IWGA Világjátékok Magyarországon történő megrendezésével is összefüggő összetettsége, jelentősége,
+g)[^67] a sporteseménnyel összefüggő sportinfrastruktúra-fejlesztés a nyári olimpiai és paralimpiai játékok, valamint a Nemzetközi Világjátékok Szövetsége (GAISF) IWGA Világjátékok Magyarországon történő megrendezésével is összefüggő összetettsége, jelentősége,
 
 h) a sporteseménynek a sportág további fejlődésére gyakorolt, várható hatása,
 
 i) a fogyatékos személyek társadalmi integrációjára gyakorolt hatása,
 
-j)[^64]
+j)[^68]
 
-[^63]: A 35. § (2) bekezdés g) pontja a 279/2018. (XII. 21.) Korm. rendelet 25. § f) pontja szerint módosított szöveg.
-[^64]: A 35. § (2) bekezdés j) pontját a 282/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 472/2020. (X. 29.) Korm. rendelet 19. § b) pontja.
+[^67]: A 35. § (2) bekezdés g) pontja a 279/2018. (XII. 21.) Korm. rendelet 25. § f) pontja szerint módosított szöveg.
+[^68]: A 35. § (2) bekezdés j) pontját a 282/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 472/2020. (X. 29.) Korm. rendelet 19. § b) pontja.
