@@ -18,7 +18,7 @@ a) azonnali rozsdaövezeti akcióterületek: olyan rozsdaövezeti akcióterület
 
 b) közép- és hosszú távú rozsdaövezeti akcióterületek: olyan rozsdaövezeti akcióterület, amely tekintetében összetett előkészítő munkák, adott esetben környezeti kármentesítés, bontás, közműrendezés és infrastruktúrafejlesztés, tulajdonrendezés, telekalakítás és településrendezésifeladatok, elvégzése szükséges, és amelyek fejlesztési célú területként való rendelkezésre állása kormányzati koordinációt, jelentős anyagi ráfordítást és több éves előkészítő időszakot igényel;
 
-5.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a pénzügyminiszter, az innovációért és technológiáért felelős miniszter, az agrárminiszter, az családokért felelős tárca nélküli miniszter, valamint a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával készítsen előterjesztést a Kormány részére
+5.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a pénzügyminiszter, az innovációért és technológiáért felelős miniszter, az agrárminiszter, valamint a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával készítsen előterjesztést a Kormány részére
 
 a) a közép- és hosszú távú rozsdaövezeti akcióterületek fejlesztésre való jogi (átlátható, a Program megvalósítását támogató tulajdon- és használati viszonyok megteremtése, telekszabályozás, településrendezés és várostervezés) és fizikai (környezeti kármentesítés, bontás, romeltakarítás, közműrendezés, mestertervezés, infrastruktúrafejlesztés) alkalmasságának megteremtését szolgáló rozsdaövezeti konszolidációs akciótervről,
 
@@ -34,13 +34,11 @@ innovációért és technológiáért felelős miniszter
 
 agrárminiszter
 
-családokért felelős tárca nélküli miniszter
-
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2020. szeptember 30.
 
-6.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy az igazságügyi miniszter, a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, az családokért felelős tárca nélküli miniszter, valamint a pénzügyminiszter bevonásával készítsen előterjesztést a Kormány részére a lakásbérleti jogviszony, a társasházakra vonatkozó előírások, valamint a magánbérleti jogviszonyok tartalmát képező, lényeges jogok és kötelezettségek érvényesítésére és teljesítésére vonatkozó egyéb jogszabályok újraszabályozásáról, a bérbeadói és bérlői érdekek fokozott védelme és a hatékonyabb jogérvényesítés érdekében.
+6.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy az igazságügyi miniszter, a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, valamint a pénzügyminiszter bevonásával készítsen előterjesztést a Kormány részére a lakásbérleti jogviszony, a társasházakra vonatkozó előírások, valamint a magánbérleti jogviszonyok tartalmát képező, lényeges jogok és kötelezettségek érvényesítésére és teljesítésére vonatkozó egyéb jogszabályok újraszabályozásáról, a bérbeadói és bérlői érdekek fokozott védelme és a hatékonyabb jogérvényesítés érdekében.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -48,11 +46,9 @@ igazságügyi miniszter
 
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
-családokért felelős tárca nélküli miniszter
-
 pénzügyminiszter
 
 Határidő: 2020. november 30.
 
-[^1]: Az 5. pont az 1458/2021. (VII. 13.) Korm. határozat 9. pontja szerint módosított szöveg.
-[^2]: A 6. pont az 1458/2021. (VII. 13.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: Az 5. pont az 1458/2021. (VII. 13.) Korm. határozat 9. pontja, az 1211/2022. (IV. 5.) korm. határozat 19. pontja szerint módosított szöveg.
+[^2]: A 6. pont az 1458/2021. (VII. 13.) Korm. határozat 9. pontja, az 1211/2022. (IV. 5.) korm. határozat 19. pontja szerint módosított szöveg.
