@@ -1,3 +1,3 @@
-## 3. § A 110/2016. (V. 25.) Korm. rendelet 13. §-a helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „13. § Az értékelő a feladatelrendelő dokumentum 14. § (4) bekezdése szerinti elfogadásával egyidejűleg nyilatkozik az adott programozási időszakhoz kapcsolódó, az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben és a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott összeférhetetlenség fennállásával összefüggésben, azzal, hogy az adott programozási időszakhoz kapcsolódó, az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben és a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott összeférhetetlenségi, valamint titoktartási nyilatkozatot a monitoring és információs rendszerben teszi meg.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

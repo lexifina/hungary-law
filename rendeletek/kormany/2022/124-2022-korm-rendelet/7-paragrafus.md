@@ -1,3 +1,3 @@
-## 6. § A 110/2016. (V. 25.) Korm. rendelet a következő 20. §-sal egészül ki:
+## 6. §[^7]
 
-## „20. § E rendeletnek az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény végrehajtásáról szóló 110/2016. (V. 25.) Korm. rendelet, továbbá a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 413/2021. (VII. 13.) Korm. rendelet módosításáról szóló 124/2022. (III. 28.) Korm. rendelettel [a továbbiakban: 124/2022. (III. 28.) Korm. rendelet] megállapított 5. § (1a) bekezdés a) és b) pontját a 124/2022. (III. 28.) Korm. rendelet hatálybalépését követően benyújtott pályázat és a tématerület 124/2022. (III. 28.) Korm. rendelet hatálybalépését követően kezdeményezett módosítása tekintetében kell alkalmazni.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
