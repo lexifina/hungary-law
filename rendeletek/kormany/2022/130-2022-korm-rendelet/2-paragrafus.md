@@ -1,0 +1,5 @@
+## 1. § Az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet (a továbbiakban: R.) 9. §-a helyébe a következő rendelkezés lép:
+
+## „9. § (1) Az előirányzatokból nyújtott költségvetési támogatások tekintetében – a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 41. § c) pontjában a Magyar Olimpiai Bizottság (a továbbiakban: MOB), az Stv. 46/A. § (6) bekezdés c) pontjában a Magyar Paralimpiai Bizottság, az Stv. 46/G. § (5) bekezdés c) pontjában a Nemzeti Versenysport Szövetség, az Stv. 46/M. § (6) bekezdés c) pontjában a Nemzeti Diák, Hallgatói és Szabadidősport Szövetség (a továbbiakban együtt: sportköztestület) tekintetében meghatározott feladatra is tekintettel – az előirányzatok kezelő szerve – a (2) bekezdésben foglaltak kivételével – a miniszter által vezetett minisztérium (a továbbiakban: minisztérium).
+
+## (2) A Haladás Sportkomplexum Fejlesztő Nonprofit Korlátolt Felelősségű Társasághoz kapcsolódó tulajdonosi joggyakorlói ügyleteket biztosító előirányzat kezelő szerve a Nemzeti Sportközpontok.”
