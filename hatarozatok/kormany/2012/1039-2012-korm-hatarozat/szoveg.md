@@ -60,7 +60,7 @@ hc) európai uniós politikák kialakításáért és koordinációjáért felel
 
 hd)[^7] üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős államtitkára,
 
-he)[^8] családokért felelős parlamenti államtitkára és
+he)[^8] családokért felelős államtitkára és
 
 i) a Pénzügyminisztérium foglalkoztatáspolitikáért és vállalati kapcsolatokért felelős államtitkára.
 
@@ -119,7 +119,7 @@ A tematikus munkacsoportok létrehozásáról, megszüntetéséről és a temati
 [^5]: A 3. pont c) alpont ca) alpontját az 1447/2021. (VII. 6.) Korm. határozat 8. pontja hatályon kívül helyezte.
 [^6]: A 3. pont c) alpont ce) alpontja az 1267/2019. (V. 8.) Korm. határozat 16. pontja szerint módosított szöveg.
 [^7]: A 3. pont h) alpont hd) alpontja az 1447/2021. (VII. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^8]: A 3. pont h) alpont he) alpontját az 1447/2021. (VII. 6.) Korm. határozat 2. pontja iktatta be.
+[^8]: A 3. pont h) alpont he) alpontját az 1447/2021. (VII. 6.) Korm. határozat 2. pontja iktatta be, szövege az 1211/2022. (IV. 5.) Korm. határozat 16. pontja szerint módosított szöveg.
 [^9]: Az 5. pont az 1488/2014. (VIII. 28.) Korm. határozat 2. pontjával megállapított szöveg.
 [^10]: A 6. pont az 1488/2014. (VIII. 28.) Korm. határozat 3. pontjával megállapított szöveg.
 [^11]: A 7. pont az 1147/2012. (V. 11.) Korm. határozat 3. pontjával megállapított szöveg.
