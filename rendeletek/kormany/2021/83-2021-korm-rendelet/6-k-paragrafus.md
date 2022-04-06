@@ -1,4 +1,4 @@
-6/K. §[^27] (1) A 2. mellékletben foglalt táblázat 71. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/K. §[^29] (1) A 2. mellékletben foglalt táblázat 71. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -18,4 +18,4 @@ e) az előkert minimális mértéke telekhatártól mért 10 méter,
 
 f) a telek területén az ivóvízellátás, csapadékvíz-elvezetés, illetve -kezelés, a gázellátás biztosítása a közüzemi közműhálózat kialakításáig a vonatkozó hatósági előírások megtartásával egyedi módon, műszakilag megfelelő helyettesítő berendezéssel pótolható, a szennyvíz időszakos tárolása egyedi, zárt szennyvíztároló műtárggyal is történhet legkésőbb az épületek használatbavételi engedélyezésének megkezdéséig.
 
-[^27]: A 6/K. §-t a 93/2022. (III. 8.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 6/K. §-t a 93/2022. (III. 8.) Korm. rendelet 1. §-a iktatta be.

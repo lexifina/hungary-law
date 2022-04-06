@@ -1,4 +1,4 @@
-## 53. §[^138] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 93/2022. (III. 8.) Korm. rendelettel (a továbbiakban: Módr45.) megállapított 1. § (3) bekezdését, 3. § (3)–(4) bekezdését, 6/J–6/L. §-át és 2. mellékletében foglalt táblázat 70–73. sorát a Módr45. hatálybalépésekor[^139] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 55. §[^144] E rendeletnek az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet és az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 132/2022. (IV. 5.) Korm. rendelettel (a továbbiakban: Módr47.) megállapított 6/F. § (1) bekezdését és 7/F. §-át a Módr47. hatálybalépésekor[^145] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -46,23 +46,23 @@
 
 21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-22.[^140] földvédelmi hatósági eljárások,
+22.[^146] földvédelmi hatósági eljárások,
 
-23.[^141] erdészeti hatósági eljárások,
+23.[^147] erdészeti hatósági eljárások,
 
-24.[^142] bányahatósági engedélyezési eljárások,
+24.[^148] bányahatósági engedélyezési eljárások,
 
-25.[^143] hulladékgazdálkodási hatósági eljárás,
+25.[^149] hulladékgazdálkodási hatósági eljárás,
 
-26.[^144] azok az 1–25. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+26.[^150] azok az 1–25. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-27.[^145] az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+27.[^151] az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^138]: Az 53. §-t a 93/2022. (III. 8.) Korm. rendelet 2. §-a iktatta be.
-[^139]: A hatálybalépés időpontja 2022. március 9.
-[^140]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^141]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^142]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^143]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be, szövege a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
-[^144]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be, szövege a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
-[^145]: Az 1. melléklet 27. pontját a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontja iktatta be.
+[^144]: Az 55. §-t a 132/2022. (IV. 5.) Korm. rendelet 4. §-a iktatta be.
+[^145]: A hatálybalépés időpontja 2022. április 6.
+[^146]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^147]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^148]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^149]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be, szövege a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^150]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be, szövege a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^151]: Az 1. melléklet 27. pontját a 812/2021. (XII. 28.) Korm. rendelet 3. § a) pontja iktatta be.

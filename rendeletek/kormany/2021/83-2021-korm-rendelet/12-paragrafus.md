@@ -1,3 +1,3 @@
-## 11. §[^58]
+## 11. §[^60]
 
-[^58]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

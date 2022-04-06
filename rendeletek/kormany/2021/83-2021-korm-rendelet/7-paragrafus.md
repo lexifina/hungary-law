@@ -20,12 +20,12 @@ f) gépjárműparkolót nem kell létesíteni,
 
 g) felvonulási építmény, valamint legfeljebb bruttó 300 m2 alapterületű, ideiglenes ideig fennálló építmény az OTÉK előírásainak figyelembevétele nélkül építhető, azzal, hogy ezen építmények lebontása kártalanítási igény nélkül legkésőbb 2026. december 31. napjáig kötelező.
 
-h)[^29] a terepszint alatti építés legnagyobb mértéke 95%,
+h)[^31] a terepszint alatti építés legnagyobb mértéke 95%,
 
-i)[^30] az épület tetőterében két szint létesíthető,
+i)[^32] az épület tetőterében két szint létesíthető,
 
-j)[^31] az épület tetőzetén – a telek belső oldalán – napelem elhelyezhető.
+j)[^33] az épület tetőzetén – a telek belső oldalán – napelem elhelyezhető.
 
-[^29]: A 7. § (2) bekezdés h) pontját az 525/2021. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
-[^30]: A 7. § (2) bekezdés i) pontját az 525/2021. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
-[^31]: A 7. § (2) bekezdés j) pontját az 525/2021. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
+[^31]: A 7. § (2) bekezdés h) pontját az 525/2021. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
+[^32]: A 7. § (2) bekezdés i) pontját az 525/2021. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
+[^33]: A 7. § (2) bekezdés j) pontját az 525/2021. (IX. 8.) Korm. rendelet 1. §-a iktatta be.

@@ -1,3 +1,3 @@
-6. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^150]
+6. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^156]
 
-[^150]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^156]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
