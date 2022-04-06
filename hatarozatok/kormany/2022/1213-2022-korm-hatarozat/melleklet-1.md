@@ -92,19 +92,7 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 16. A térségi közúti beruházásokhoz szükséges kötelezettségvállalásokról szóló 1668/2021. (IX. 28.) Korm. határozat (a továbbiakban: Korm. határozat)
-
-## a) 1. pontja a következő g) ponttal egészül ki:
-
-## (A Kormány – tekintettel)
-
-## „g) a Budapest–Belgrád vasútvonal újjáépítési beruházás engedélyezési eljárása során felmerült települési igények megvalósításához szükséges többletforrások biztosításáról szóló 1213/2022. (IV. 5.) Korm. határozat 1. melléklet II. pontjában foglalt táblázat 1–6. sorában foglalt fejlesztésekre –”
-
-## [(a továbbiakban együtt: kormányhatározatok) a következőkről dönt.]
-
-## b) 4. pontjában a „C:6 és C:7 mezőjében” szövegrész helyébe a „C:6, C:7 és C:8 mezőjében” szöveg lép,
-
-## c) 1. melléklete a 2. melléklet szerint módosul.
+## 16.[^1]
 
 1. melléklet az 1213/2022. (IV. 5.) Korm. határozathoz
 
@@ -157,3 +145,5 @@ II. A pályaépítéshez közvetlenül nem kötődő, költségvetési forrásb�
 | 9. | Kelebia állomás határrendészeti feladataihoz infrastruktúra kialakítása | MÁV Zrt. |
 
 III. A pályaépítéshez közvetlenül nem kötődő, költségvetési forrásból megvalósítandó, a BFK Nonprofit Zrt. feladataihoz kapcsolódó budapesti és elővárosi fejlesztések
+
+[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
