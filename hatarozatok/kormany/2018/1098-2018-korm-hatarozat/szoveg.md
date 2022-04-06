@@ -42,8 +42,10 @@ a) „Családbarát Szülészet I. ütem” (családbarát infrastruktúrafejles
 
 b) „Családbarát Szülészet II. ütem” (családbarát infrastruktúrafejlesztés, eszközbeszerzés és egyéb családbarát fejlesztések): 2019. február 1.
 
-6. egyetért a Családbarát Hely védjegy használatával, és azzal, hogy a Családbarát Ország Nonprofit Közhasznú Kft. közreműködésével egy akkreditációs kritériumrendszer kerüljön kidolgozásra.
+6.[^2] egyetért a Családbarát Hely védjegy használatával, és azzal, hogy a Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság közreműködésével egy akkreditációs kritériumrendszer kerüljön kidolgozásra.
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2018. december 31.
+
+[^2]: A 6. pont az 1211/2022. (IV. 5.) Korm. határozat 7. pontja szerint módosított szöveg.
