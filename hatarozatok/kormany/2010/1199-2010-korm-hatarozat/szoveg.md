@@ -28,7 +28,7 @@ b) az Innovációs és Technológiai Minisztérium szakképzésért és felnőtt
 
 c) a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára, önkormányzati államtitkára, valamint közfoglalkoztatási és vízügyi helyettes államtitkára,
 
-d)[^5] a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős államtitkára, területi közigazgatásért felelős államtitkára, családokért felelős parlamenti államtitkára, valamint civil és társadalmi kapcsolatokért felelős helyettes államtitkára,
+d)[^5] a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős államtitkára, területi közigazgatásért felelős államtitkára, családokért felelős államtitkára, valamint civil és társadalmi kapcsolatokért felelős helyettes államtitkára,
 
 e)[^6] az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkára, kultúráért felelős államtitkára, egészségügyért felelős államtitkára, sportért felelős államtitkára, oktatásért felelős államtitkára,
 
@@ -66,7 +66,7 @@ i) a Központi Statisztikai Hivatal elnöke.
 [^2]: A 3. pont b) alpontot az 1267/2019. (V. 8.) Korm. határozat 12. pontja hatályon kívül helyezte.
 [^3]: A 4. pont az 1821/2021. (XI. 25.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 6. pontjával megállapított szöveg.
-[^5]: Az 5. pont d) alpontja az 1447/2021. (VII. 6.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^5]: Az 5. pont d) alpontja az 1447/2021. (VII. 6.) Korm. határozat 1. pontja, az 1211/2022. (IV. 5.) Korm. határozat 16. pontja szerint módosított szöveg.
 [^6]: Az 5. pont e) alpontja az 1447/2021. (VII. 6.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^7]: A 6. pont az 1267/2019. (V. 8.) Korm. határozat 11. pontja szerint módosított szöveg.
 [^8]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 7. pontjával megállapított szöveg.
