@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:69g mezőjében a „4,780” szövegrész helyébe a „7,79” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1222/2022. (IV. 5.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Hatályos KEHOP ÉFK szerint a projekt indikatív támogatási kerete (Mrd Ft) | Többlettámogatás legfeljebb (Mrd Ft) | Megnövelt indikatív támogatás kerete (Mrd Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.4.0 | Árvízi biztonság növelése a Dél-Duna területén | Országos Vízügyi Főigazgatóság (konzorciumvezető), Dél-Dunántúli Vízügyi Igazgatóság, Alsó-Duna-völgyi Vízügyi Igazgatóság Konzorciuma | 4,78 | 3,01 | 7,79 | A projekttel kapcsolatos szakmai elvárás a dunai és drávai árvízvédelmi rendszer, illetve a Jamai-patak kisvízfolyás védképességének biztosítása, növelése. A projekt keretében vízosztóműtárgy-rekonstrukcióra, új zsilip építésére, töltésfejlesztésre kerül sor. |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
