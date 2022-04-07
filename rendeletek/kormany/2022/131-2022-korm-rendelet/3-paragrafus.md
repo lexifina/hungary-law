@@ -1,3 +1,0 @@
-## 2. § Az R. a következő 54. §-sal egészül ki:
-
-## „54. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 131/2022. (IV. 5.) Korm. rendelettel (a továbbiakban: Módr46.) megállapított 4. § (1a) bekezdését és 2. mellékletében foglalt táblázat 74–78. sorát a Módr46. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
