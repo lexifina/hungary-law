@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-168-20-
 | 2021-07-01 | 1997-168-20-22.80 | 376/2021. (VI. 30.) Korm. rendelet |
 | 2021-10-07 | 1997-168-20-22.81 | 538/2020. (XII. 2.) Korm. rendelet |
 | 2022-01-01 | 1997-168-20-22.82 | 692/2021. (XII. 9.) Korm. rendelet |
+| 2022-04-07 | 1997-168-20-22.83 | 128/2022. (IV. 4.) Korm. rendelet |
