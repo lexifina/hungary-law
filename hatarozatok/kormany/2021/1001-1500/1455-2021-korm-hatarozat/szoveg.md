@@ -2,17 +2,7 @@ A Kormány annak érdekében, hogy a magyar egészségügy az informatika, a dig
 
 1. elfogadja a Nemzeti Egészséginformatikai Stratégiát (a továbbiakban: Stratégia);
 
-2. a Stratégiában foglalt fejlesztési feladatok megvalósításának szakmai koordinációjára kijelöli a Nemzeti Egészséginformatikai Testületet és felhívja az emberi erőforrások miniszterét, a belügyminisztert, az innovációért és technológiáért felelős minisztert, a Miniszterelnökséget vezető minisztert, valamint a miniszterelnök kabinetfőnökét, hogy a meglévő intézményrendszer keretei között gondoskodjon a Nemzeti Egészséginformatikai Testület koordinatív feladatainak ellátásáról;
-
-Felelős: emberi erőforrások minisztere belügyminiszter
-
-innovációért és technológiáért felelős miniszter
-
-Miniszterelnökséget vezető miniszter
-
-a miniszterelnök kabinetfőnöke
-
-Határidő: folyamatos
+2.[^1]
 
 3. felhívja az érintett minisztereket, hogy a Nemzeti Egészséginformatikai Testület bevonásával a Stratégia megvalósítása érdekében szükséges fejlesztések végrehajtásában működjenek közre;
 
@@ -31,3 +21,5 @@ Felelős: emberi erőforrások minisztere
 Határidő: az a) pont tekintetében folyamatos
 
 a b) pont tekintetében minden év szeptember 30-ig
+
+[^1]: A 2. pontot az 1225/2022. (IV. 7.) Korm. határozat 1. pontja visszavonta.
