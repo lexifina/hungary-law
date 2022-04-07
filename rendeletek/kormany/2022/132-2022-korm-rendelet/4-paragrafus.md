@@ -1,7 +1,0 @@
-## 3. § Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet (a továbbiakban: R2.) 6/F. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A 2. mellékletben foglalt táblázat 66. sora szerinti beruházással érintett ingatlanon intézményi, rekreációs, kulturális, művelődési, kereskedelmi, vendéglátó, szolgáltató, kereskedelmi szállásszolgáltató és azokat kiegészítő egyéb rendeltetésű építmények, oktatási, igazgatási és egyéb közösségi szórakoztató funkciójú épület, irodaépület, kutatás-fejlesztés építménye, sportépítmény, valamint parkoló, parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
-
-## a) a hatályos településrendezési tervek, településképi rendelet, egyéb önkormányzati rendelet és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
-
-## b) ha a hatályos településrendezési terv, településképi rendelet, egyéb önkormányzati rendelet, továbbá az OTÉK a (2) bekezdésben meghatározott sajátos szabályokkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet, településképi rendeletet, egyéb önkormányzati rendeletet és az OTÉK-ot nem lehet alkalmazni.”

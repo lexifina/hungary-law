@@ -1,3 +1,0 @@
-## 4. § Az R2. a következő 55. §-sal egészül ki:
-
-## „55. § E rendeletnek az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet és az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 132/2022. (IV. 5.) Korm. rendelettel (a továbbiakban: Módr47.) megállapított 6/F. § (1) bekezdését és 7/F. §-át a Módr47. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
