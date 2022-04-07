@@ -1,1 +1,3 @@
-## 3. § Az R. az 1. melléklet szerinti 4/a. melléklettel egészül ki.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
