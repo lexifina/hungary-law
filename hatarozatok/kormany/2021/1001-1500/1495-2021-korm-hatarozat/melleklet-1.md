@@ -22,4 +22,4 @@
 
 1. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz[^1]
 
-[^1]: Az 1. melléklet az 1882/2021. (XII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1. melléklet az 1226/2022. (IV. 7.) Korm. határozat 1. pontjával megállapított szöveg.
