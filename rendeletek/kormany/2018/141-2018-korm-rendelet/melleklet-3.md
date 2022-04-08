@@ -196,6 +196,12 @@
 
 | 91. | Képzési központ, gyártóüzem és raktár kialakítására irányuló beruházás Sóskút területén | Sóskút közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 063/15 és belterület 3592, 3510/36, 3510/37, 3510/38 és 3510/39 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^267]
+| 92. | Dobozos gyártósor és kapcsolódó raktárkapacitás bővítés | Budapest X. kerület belterület 41025/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^267]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+| 93. | Gyártó üzem és raktár létrehozására irányuló beruházás Alsózsolca területén | Alsózsolca közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 097/35 és belterület 1520, 1506/4, 1506/12 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 94. | Gyártó üzem kapacitás bővítő beruházás Sajóbábony területén | Sajóbábony közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 024/269, 024/274, 024/275, 024/276, 024/203, 024/217, 024/202, 024/205, 033/1 és 024/220 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^274]
+
+[^274]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

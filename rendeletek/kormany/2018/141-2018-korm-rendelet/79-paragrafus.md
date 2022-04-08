@@ -1,4 +1,4 @@
-## 78. §[^238] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 809/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr70.) megállapított 2. mellékletében foglalt táblázat 81. sorát a Módr70. hatálybalépésekor[^239] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 78. §[^239] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 809/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr70.) megállapított 2. mellékletében foglalt táblázat 81. sorát a Módr70. hatálybalépésekor[^240] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^238]: A 78. §-t a 809/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
-[^239]: A hatálybalépés időpontja 2021. december 29.
+[^239]: A 78. §-t a 809/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^240]: A hatálybalépés időpontja 2021. december 29.
