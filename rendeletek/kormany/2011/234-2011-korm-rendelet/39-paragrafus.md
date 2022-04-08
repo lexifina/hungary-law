@@ -1,4 +1,4 @@
-## 28. [^32] A polgármester és a gazdálkodó szervezet vezetőjének feladatai
+## 28. [^33] A polgármester és a gazdálkodó szervezet vezetőjének feladatai
 
 ## 39. § A polgármester a riasztási és veszélyhelyzeti tájékoztatási feladatainak végrehajtása érdekében gondoskodik:
 
@@ -12,4 +12,4 @@ d) riasztó, tájékoztató polgári védelmi szakalegységek megalakításáró
 
 e) a feladatban érintett szakalegységek riasztási adatainak folyamatos pontosításáról.
 
-[^32]: A 28. alcím címe a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^33]: A 28. alcím címe a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés f) pontja szerint módosított szöveg.

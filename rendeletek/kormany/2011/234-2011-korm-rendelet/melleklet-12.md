@@ -18,7 +18,7 @@
 
 ## i) a támogatott írásbeli hozzájárulását az a)–b) pontban foglalt adatok kezelésére.
 
-12. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^63]
+12. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^64]
 
 ## A) A veszélyes áruk szállítására használt csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyására vonatkozó kérelem tartalma
 
@@ -46,4 +46,4 @@ B) A veszélyes áruk szállítására használt nem nyomástartó tartályok, t
 
 A kérelemnek a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 178/2017. (VII. 5.) Korm. rendelet 2. melléklete (ADR Szabályzat), továbbá a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 179/2017. (VII. 5.) Korm. rendelet 2. melléklete (RID Szabályzat) 1.8.7 pontjában foglaltakat, de legalább az e melléklet A. rész 1–5. alpontjában és 7. és 8. alpontjában foglaltakat kell megfelelően tartalmaznia.
 
-[^63]: A 12. mellékletet a 66/2021. (II. 16.) Korm. rendelet 8. §-a iktatta be.
+[^64]: A 12. mellékletet a 66/2021. (II. 16.) Korm. rendelet 8. §-a iktatta be.

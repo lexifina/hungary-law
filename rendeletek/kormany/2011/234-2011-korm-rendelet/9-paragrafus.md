@@ -12,11 +12,11 @@ b) kijelöli a védekezés koordinálásáért felelős személyt,
 
 c)[^15] a hatáskörét meghaladó esetekben a kormányzati koordinációs szerv útján kezdeményezi a Kormány döntését,
 
-d) a kormányzati koordinációs szerv útján, illetve amennyiben az intézkedés késedelme elháríthatatlan kárral vagy veszéllyel járna, közvetlenül a Magyar Honvédség Központi Ügyelet útján kezdeményezi a Magyar Honvédség védekezésbe történő bevonását, a hivatásos katasztrófavédelmi szerv központi szervének egyidejű tájékoztatása mellett,
+d)[^16] a kormányzati koordinációs szerv útján, illetve amennyiben az intézkedés késedelme elháríthatatlan kárral vagy veszéllyel járna, közvetlenül a honvédelemért felelős miniszter által vezetett minisztérium vezető ügyeleti szolgálata útján kezdeményezi a Magyar Honvédség védekezésbe történő bevonását, a hivatásos katasztrófavédelmi szerv központi szervének egyidejű tájékoztatása mellett,
 
 e) koordinálja a védekezésben részt vevő helyi védelmi bizottságok, polgármesterek tevékenységét,
 
-f)[^16] gondoskodik a helyreállítás sorrendjének és ütemének megvalósításáról,
+f)[^17] gondoskodik a helyreállítás sorrendjének és ütemének megvalósításáról,
 
 g) intézkedik a lakosság alapvető ellátásának biztosításáról a normál életkörülmények helyreállításáig,
 
@@ -26,8 +26,9 @@ i) koordinálja a humanitárius segélyek elosztását,
 
 j) katasztrófavédelmi operatív feladatainak ellátásához a hivatásos katasztrófavédelmi szerv területi szerve közreműködésével a célnak megfelelően kialakított és felszerelt, folyamatosan üzemképes állapotban tartott vezetési pontot tart fent.
 
-(2)[^17] A megyei, fővárosi védelmi bizottság elnöke a katasztrófavédelmi feladatok ellátásával kapcsolatos előterjesztéseket és döntéseket a hivatásos katasztrófavédelmi szerv központi szervének vezetője útján felterjeszti a katasztrófák elleni védekezésért felelős miniszternek.
+(2)[^18] A megyei, fővárosi védelmi bizottság elnöke a katasztrófavédelmi feladatok ellátásával kapcsolatos előterjesztéseket és döntéseket a hivatásos katasztrófavédelmi szerv központi szervének vezetője útján felterjeszti a katasztrófák elleni védekezésért felelős miniszternek.
 
 [^15]: A 9. § (1) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^16]: A 9. § (1) bekezdés f) pontja a 74/2012. (IV. 13.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^17]: A 9. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^16]: A 9. § (1) bekezdés d) pontja a 138/2022. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 9. § (1) bekezdés f) pontja a 74/2012. (IV. 13.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^18]: A 9. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

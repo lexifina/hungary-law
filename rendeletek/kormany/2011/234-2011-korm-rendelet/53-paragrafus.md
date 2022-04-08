@@ -54,7 +54,7 @@ k) intézkedik a kirakodási hely működtetésére,
 
 l) folyamatos kapcsolatot tart a kitelepülőkkel,
 
-m)[^36] szükség esetén megszervezi a köznevelést, illetve a szakképzést, valamint
+m)[^37] szükség esetén megszervezi a köznevelést, illetve a szakképzést, valamint
 
 n) illetékességi területén összehangolja a társadalmi és karitatív szervezetek tevékenységét.
 
@@ -92,11 +92,11 @@ e) javaslatot tesz a polgármesternek a szükséges polgári védelmi szervezete
 
 f) közreműködik a létrehozott polgári védelmi szakalegységek polgári védelmi felkészítésében,
 
-g)[^37] közreműködik a lakosság, a gazdálkodó szervezetek, intézmények befogadási feladatainak végrehajtására történő felkészítésében,
+g)[^38] közreműködik a lakosság, a gazdálkodó szervezetek, intézmények befogadási feladatainak végrehajtására történő felkészítésében,
 
 h) közreműködik a befogadás helyi feladatainak megszervezésében, végrehajtásában,
 
 i) közreműködik a befogadáshoz szükséges szakanyag biztosításában.
 
-[^36]: Az 53. § (3) bekezdés m) pontja a 13/2020. (II. 7.) Korm. rendelet 56. § 1. pontja szerint módosított szöveg.
-[^37]: Az 53. § (6) bekezdés g) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^37]: Az 53. § (3) bekezdés m) pontja a 13/2020. (II. 7.) Korm. rendelet 56. § 1. pontja szerint módosított szöveg.
+[^38]: Az 53. § (6) bekezdés g) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés i) pontja szerint módosított szöveg.
