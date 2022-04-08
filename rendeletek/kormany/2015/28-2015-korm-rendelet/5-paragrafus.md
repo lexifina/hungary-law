@@ -28,8 +28,11 @@ de)[^12] a 4. § (5) bekezdés a) pont ab) alpontja,
 
 e)[^13] az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 15. §-a
 
+f)[^14] az egészségügyről szóló 1997. évi CLIV. törvény 101. § (2) bekezdése
+
 [^9]: Az 5. § a) pontját a 192/2015. (VII. 21.) Korm. rendelet 57. §-a hatályon kívül helyezte.
 [^10]: Az 5. § b) pont bb) alpontja a 360/2019. (XII. 30.) Korm. rendelet 140. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^11]: Az 5. § d) pont db) alpontja a 192/2015. (VII. 21.) Korm. rendelet 56. §-ával megállapított szöveg.
 [^12]: Az 5. § d) pont de) alpontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (2) bekezdése iktatta be.
 [^13]: Az 5. § e) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (3) bekezdése iktatta be.
+[^14]: Az 5. § f) pontját a 135/2022. (IV. 7.) Korm. rendelet 22. §-a iktatta be.

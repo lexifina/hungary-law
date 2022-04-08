@@ -1,6 +1,6 @@
-6/B. §[^16] (1) Az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetként történő kijelölési feltételek teljesülését az OGYÉI legalább évente ellenőrzi.
+6/B. §[^17] (1)[^18] Az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetként történő kijelölési feltételek teljesülését a kijelöléskor hatályos előírások szerint az OGYÉI legalább évente ellenőrzi.
 
-(2)[^17] Az orvostechnikai eszközök és az in vitro diagnosztikai eszközök (1) bekezdés szerinti ellenőrzése során a kijelölő hatóság vizsgálja, hogy
+(2)[^19] Az orvostechnikai eszközök és az in vitro diagnosztikai eszközök (1) bekezdés szerinti ellenőrzése során a kijelölő hatóság vizsgálja, hogy
 
 a) a kijelölt szervezet a kijelölt megfelelőségértékelési területen folytatott tevékenysége során betartja-e a minőségirányítási kézikönyvében, valamint a működési és eljárási szabályzatában foglaltakat,
 
@@ -10,5 +10,6 @@ c) az előző ellenőrzés óta a minőségirányítási kézikönyvben, valamin
 
 d) a kijelölt szervezet megfelelőségértékelési tevékenységével kapcsolatos panaszok kivizsgálása megfelelő volt-e.
 
-[^16]: A 6/B. §-t a 434/2017. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
-[^17]: A 6/B. § (2) bekezdés nyitó szövegrésze a 164/2020. (IV. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^17]: A 6/B. §-t a 434/2017. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 6/B. § (1) bekezdése a 135/2022. (IV. 7.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^19]: A 6/B. § (2) bekezdés nyitó szövegrésze a 164/2020. (IV. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
