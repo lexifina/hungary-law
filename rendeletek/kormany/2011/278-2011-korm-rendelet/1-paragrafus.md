@@ -1,15 +1,13 @@
 ## 1. A rendelet hatálya
 
-## 1. § A rendelet hatálya kiterjed:
+## 1. §[^2] E rendelet hatálya
 
-a) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés c), d), f) és g) pontjaiban meghatározott központi államigazgatási szervekre;
+a) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 18. § (2) bekezdése szerinti szervekre,
 
-b) a Magyar Honvédségre (a továbbiakban: MH);
+b) a Magyar Honvédségre (a továbbiakban: MH) és
 
-c) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § r) pontja szerinti rendvédelmi szervekre;
+c) a Hvt. 24. § (1) bekezdése szerinti, a honvédelem területi és helyi igazgatási szerveire
 
-d) a Katonai Nemzetbiztonsági Szolgálatra;
+terjed ki.
 
-e) a Hvt. 24. § (1) és (3) bekezdése szerinti, a honvédelem területi és helyi igazgatási szerveire;
-
-f) a Hvt. 18. § (2) bekezdése szerinti, a honvédelemben közreműködő szervekre.
+[^2]: Az 1. § a 138/2022. (IV. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
