@@ -1,3 +1,0 @@
-## 2. § Az R. a következő 92. §-sal egészül ki:
-
-## „92. E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 140/2022. (IV. 7.) Korm. rendelettel (a továbbiakban: Módr84.) módosított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, valamint 5/E. §-át és 2. mellékletében foglalt táblázat 92. sorát a Módr84. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
