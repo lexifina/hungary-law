@@ -1,4 +1,4 @@
-## 25. §[^22]
+## 25. §[^25]
 
 ## 9. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–20. §, 24–25. § és 27. § 2022. május 26-án lép hatályba.
 
-[^22]: A 25. § a 26. § (2) bekezdése alapján 2022. május 26-án lép hatályba.
+[^25]: A 25. § a 26. § (2) bekezdése alapján 2022. május 26-án lép hatályba.

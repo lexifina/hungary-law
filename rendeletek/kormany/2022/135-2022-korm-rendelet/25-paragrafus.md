@@ -1,3 +1,3 @@
-## 24. §[^21]
+## 24. §[^24]
 
-[^21]: A 24. § a 26. § (2) bekezdése alapján 2022. május 26-án lép hatályba.
+[^24]: A 24. § a 26. § (2) bekezdése alapján 2022. május 26-án lép hatályba.
