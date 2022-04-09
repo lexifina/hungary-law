@@ -160,6 +160,16 @@
 
 | 79. | Győr ETO Park sportcélú létesítmények fejlesztése, a sportcélú létesítmények működési feltételeinek a biztosítása, kapcsolódó területek, építmények és infrastruktúra átalakítása, fejlesztése | Győr belterület 5761/5, 5761/5/A, 5761/5/B, 5761/5/C, 5761/5/D, 5761/5/F és 5761/5/G helyrajzi számú ingatlanok | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^155]
+| 80. | Paks II. beruházás megvalósításához kapcsolódó terület- és infrastruktúra fejlesztési feladatok, szennyvízelvezetési- és szennyvíztisztítási, vízellátási és csapadékvíz elvezetési, útépítési, útfelújítási, szennyvíziszap feldolgozási feladatainak hatékonyabb és célszerűbb megoldását, a közszolgáltatás színvonalának javítását szolgáló fejlesztések tervezése és megvalósítása | A Paks és Térsége Közműfejlesztési és Beruházási Önkormányzati Társulásban részt vevő – Paks Város Önkormányzata, Kalocsa Város Önkormányzata, Fadd Nagyközség Önkormányzata, Gerjen Község Önkormányzata – települési önkormányzatok/tagok közigazgatási területére, valamint Fácánkert Község Önkormányzatának, Dunaszentgyörgy Község Önkormányzatának, Tolna Város Önkormányzatának beruházással érintett területére terjed ki. | Tolna Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^155]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+| 81. | Prohászka Ottokár Gimnázium, Általános Iskola és Óvoda ingatlanjainak bővítését és fejlesztését célzó beruházás (gimnázium és óvoda) | Győr belterület 6763 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 82. | Prohászka Ottokár Gimnázium, Általános Iskola és Óvoda ingatlanjainak bővítését és fejlesztését célzó beruházás (általános iskola) | Győr belterület 6758 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 83. | Vitalitas Katolikus Rendezvényközpont fejlesztését célzó beruházás | Győr belterület 6531 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 84. | Bernáth Kálmán Református Gimnázium, Kereskedelmi és Vendéglátóipari Szakgimnázium és Szakközépiskola fejlesztése | Vác belterület 1899/9, 1901/1, 1901/2 és 1902/3 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^164]
+
+[^164]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

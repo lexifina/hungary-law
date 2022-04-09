@@ -1,4 +1,4 @@
-6/L. §[^30] (1) A 2. mellékletben foglalt táblázat 72. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/L. §[^31] (1) A 2. mellékletben foglalt táblázat 72. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -10,4 +10,4 @@ a) a zöldfelület megengedett legkisebb mértéke 25%, azzal, hogy amennyiben a
 
 b) a beépítettség megengedett legnagyobb mértéke 50%.
 
-[^30]: A 6/L. §-t a 93/2022. (III. 8.) Korm. rendelet 1. §-a iktatta be.
+[^31]: A 6/L. §-t a 93/2022. (III. 8.) Korm. rendelet 1. §-a iktatta be.

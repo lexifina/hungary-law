@@ -20,6 +20,8 @@
 
 | 9. | Református iskola építése Szigetszentmiklóson | Szigetszentmiklós belterület 5601/2, 5601/3, 5604/4, 5604/5, 5604/6, 5604/7, 5604/8, 5604/9, 5604/10, 5605/1, 5605/2, 5615, 5616, 5617/2, 5617/3, 5618/2, 5619/3, 5620/14, 5620/15, 5620/21, 5620/22, 5921, 5924, 5925, 5926, 5927 helyrajzi számú ingatlanok | 2022. január 1. – 2024. július 31. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^156]
+| 10. | Bernáth Kálmán Református Gimnázium, Kereskedelmi és Vendéglátóipari Szakgimnázium és Szakközépiskola fejlesztése | Vác belterület 1899/9, 1901/1, 1901/2 és 1902/3 helyrajzi számú ingatlanok | 2023. január 1. – 2025. január 1. |
 
-[^156]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^165]
+
+[^165]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
