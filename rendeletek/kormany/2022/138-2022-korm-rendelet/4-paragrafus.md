@@ -1,7 +1,7 @@
-## 3. § Az R. 20. §-a helyébe a következő rendelkezés lép:
-
-## „20. § A NIR működtetésében részt vevő szervek riasztását a nemzeti felelős vagy az általa megbízott személy utasítására a honvédelemért felelős miniszter által vezetett minisztérium vezető ügyeleti szolgálata az ágazati felelős szervek által megadott ügyeleteken keresztül, a NIR működtetését támogató elektronikus hírközlési és informatikai rendszerek és eszközök útján végzi.”
+## 2–3. §[^3]
 
 ## 3. Záró rendelkezések
 
 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^3]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
