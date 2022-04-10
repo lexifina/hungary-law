@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-125-00-00
 | --- | --- | --- |
 | 2020-12-04 | 2020. évi CXXV. törvény | 2020-125-00-00.0 (közlönyállapot) |
 | 2020-12-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-125-00-00.1 |
+| 2022-04-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-125-00-00.2 |
