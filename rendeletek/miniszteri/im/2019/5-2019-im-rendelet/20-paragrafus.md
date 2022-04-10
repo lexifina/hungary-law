@@ -1,4 +1,4 @@
-## 19. § A nem normatív határozatok és utasítások megjelölésére az ezen alcímben foglaltakat megfelelően alkalmazni kell. A normatív és a nem normatív határozatok, valamint a normatív és a nem normatív utasítások évente közös sorszám alatt, egységes, folyamatos számozással jelennek meg.
+## 19/A. §[^12] Ha az Alkotmánybíróság jogszabály vagy jogszabályi rendelkezés megsemmisítéséről szóló határozata az Alkotmánybíróság Határozatai hivatalos lapban történő közzétételét követően kerül közzétételre a Magyar Közlönyben, ezt a körülményt a Magyar Közlönyben történő közzététel során fel kell tüntetni.
 
 ## 6. A jogszabály tervezetéhez tartozó indokolások közzététele
 
@@ -17,3 +17,5 @@ b) a kormányrendelet, a miniszteri rendelet, a miniszterelnöki rendelet, a Mag
 (4) A közzétételre a (2) és (3) bekezdés szerinti jogszabályok kihirdetését követően kerülhet sor.
 
 (5) Az e rendelet szerint közzétett indokolás a közzétételét követően nem módosítható.
+
+[^12]: A 19/A. §-t a 10/2022. (IV. 7.) IM rendelet 3. §-a iktatta be.

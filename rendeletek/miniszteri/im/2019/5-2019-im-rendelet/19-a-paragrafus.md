@@ -1,0 +1,1 @@
+## 19. § A nem normatív határozatok és utasítások megjelölésére az ezen alcímben foglaltakat megfelelően alkalmazni kell. A normatív és a nem normatív határozatok, valamint a normatív és a nem normatív utasítások évente közös sorszám alatt, egységes, folyamatos számozással jelennek meg.

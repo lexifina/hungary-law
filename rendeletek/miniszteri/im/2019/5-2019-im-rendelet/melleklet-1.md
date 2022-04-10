@@ -1,4 +1,4 @@
-## 24. §[^12]
+## 24. §[^13]
 
 1. melléklet az 5/2019. (III. 13.) IM rendelethez
 
@@ -50,4 +50,4 @@
 
 3.5. a Kormány tagjainak rendeleteihez tartozó indokolások.
 
-[^12]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
