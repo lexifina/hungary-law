@@ -1,3 +1,5 @@
-## 7. § Az R2. 3. § (4) bekezdésében a „71. és 79. sora” szövegrész helyébe a „71., 79. és 80. sora” szöveg lép.
+## 5–7. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: Az 5–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján ahtályát vesztette.
