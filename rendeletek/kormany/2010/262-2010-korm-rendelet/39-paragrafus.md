@@ -1,5 +1,3 @@
-## 38/A. §[^193]
-
 ## VI. Fejezet
 
 ## A VAGYONKEZELÉS SZABÁLYAI
@@ -18,7 +16,6 @@
 
 (7)[^198] Ha a szerződés tárgyát képező földrészlet védett természeti területnek, Natura 2000 területnek, erdőnek, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek, illetve vízvédelmi területnek minősül, vagy parti sávval, védetté nyilvánított régészeti lelőhellyel, régészeti védőövezettel, illetve műemlékkel érintett, a szerződés mellékletében rögzíteni kell a 3. § szerinti előírásokat is.
 
-[^193]: A 38/A. §-t a 306/2013. (VIII. 1.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 159/2019. (VI. 28.) Korm. rendelet 38. § u) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
 [^194]: A 39. § (1) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 18. § f) pontja hatályon kívül helyezte.
 [^195]: A 39. § (2) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 18. § f) pontja hatályon kívül helyezte.
 [^196]: A 39. § (3) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
