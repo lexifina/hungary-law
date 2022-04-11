@@ -12,7 +12,9 @@ d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
 
 e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából [az a)–e) pont a továbbiakban együtt: piacfelügyeleti eljárás].
 
-(2) Az (1) bekezdés a)–d) pontjában meghatározott piacfelügyeleti eljárásban az ügyintézési határidő az ellenőrzés hivatalból történő megindításának napjától számított
+f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti „páneurópai egyéni nyugdíjtermék” vagy „PEPP” megjelölést viselő termékek nyilvántartásba vétel nélkül történő kínálásának, illetve forgalmazásának gyanúja esetén.
+
+(2) Az (1) bekezdés a)–d) és f) pontjában meghatározott piacfelügyeleti eljárásban az ügyintézési határidő az ellenőrzés hivatalból történő megindításának napjától számított
 
 a) hat hónap a hatósági ellenőrzési eljárás lefolytatására, továbbá
 

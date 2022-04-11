@@ -19,13 +19,3 @@
 ## 5. nyilvános, zárt végű ingatlanalap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, kezelési szabályzat jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
 
 ## 6. az ABAK által kezelt, más EGT-államban engedélyezett uniós ABA kollektív befektetési értékpapírjainak Magyarországon lakossági befektetők számára történő forgalmazásának engedélyezésére,
-
-## ab) a befektetési alap nyilvántartásba vételére,
-
-## ac) a befektetési alap nyilvántartásból való törlésére,
-
-## ad) a befektetési alappal kapcsolatos megszűnési eljárás esetén az értékesítésre megállapított határidő meghosszabbításának engedélyezésére,
-
-## ae) az ÁÉKBV-kel kapcsolatban
-
-## 1. a gyűjtő-ÁÉKBV-nek a cél-ÁÉKBV-be történő befektetésének engedélyezésére,
