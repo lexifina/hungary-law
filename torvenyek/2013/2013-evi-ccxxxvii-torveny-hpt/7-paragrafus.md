@@ -40,6 +40,8 @@ p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások szám
 
 q) az általa üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
 
+r) hitelintézet esetén az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti, pénzügyi szolgáltatásnak, befektetési szolgáltatási tevékenységnek nem minősülő egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is
+
 végezhet.
 
 (4) Fizetési rendszert működtető pénzügyi vállalkozás a (3) bekezdésben foglaltakon kívül egyéb pénzügyi szolgáltatásnak nem minősülő üzletszerű tevékenységet is folytathat, ha ezen tevékenysége a főtevékenységként végzett fizetési rendszer működtetését nem befolyásolja hátrányosan.
