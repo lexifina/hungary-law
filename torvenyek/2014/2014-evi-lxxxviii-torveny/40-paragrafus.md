@@ -20,7 +20,7 @@ d) az értékpapír-kölcsönzés,
 
 e) a biztosító által a biztosító anyavállalata, leányvállalata vagy részesedési viszonya alatt álló vállalkozása részére a biztosítási üzem működése és fenntartása körébe eső szolgáltatások nyújtása,
 
-f)
+f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti páneurópai egyéni nyugdíjtermék szolgáltatása, illetve forgalmazása,
 
 g) az önkéntes kölcsönös biztosító pénztárakról szóló törvényben meghatározott tagszervezési tevékenység.
 

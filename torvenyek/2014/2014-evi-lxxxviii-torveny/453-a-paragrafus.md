@@ -4,4 +4,6 @@
 
 2. az (EU) 2016/97 európai parlamenti és tanácsi irányelvnek a biztosítási és viszontbiztosítási közvetítők szakmai felelősségbiztosítására és pénzügyi teljesítőképességére vonatkozó, euróban megállapított alapösszegeket kiigazító szabályozástechnikai standardok tekintetében történő módosításáról szóló, 2019. május 13-i (EU) 2019/1935 felhatalmazáson alapuló bizottsági rendelet
 
+3. a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
