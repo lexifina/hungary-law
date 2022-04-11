@@ -16,6 +16,8 @@ f) a foglalkoztatói nyugdíjszolgáltató intézményben történő minősítet
 
 g) a nyugdíjkonstrukció határon átnyúló átvétel keretében történő átvételéhez.
 
+h) az egyéni nyugdíjszolgáltatási tevékenység elkezdéséhez.
+
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységi engedély iránti kérelemhez a vezető állású személyek, egyéb vezetők, kötelező alkalmazottak és megbízottak, a könyvvizsgáló, illetve a kiszervezett tevékenységet végző szolgáltatók adatainak bejelentését a Felügyelet által meghatározott formában köteles elkészíteni.
 
 (3) A Felügyelet az engedélyezés tárgyában e törvény rendelkezései, a foglalkoztatói nyugdíjszolgáltató intézményekre vonatkozó egyéb jogszabályok alapján, a tagok és járadékosok érdekeire és a foglalkoztatói nyugdíjszolgáltató intézmény kötelezettségei teljesítésére tekintettel dönt.

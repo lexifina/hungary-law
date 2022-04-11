@@ -76,7 +76,7 @@ c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szeri
 
 34. valorizáció: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a jogosultság megszerzése és a szolgáltatás megkezdése közötti időszakban a jogosultság összegének értékállóságát biztosító mechanizmus, amely a jogosultság értékének a közbenső időszak ár-, bérnövekedéséhez vagy más egyéb tényezők alakulásához való hozzáigazítását jelenti;
 
-35. várakozási idő: a tagsági jogviszonynak a belépéstől számított, a nyugdíjkonstrukció által előírt azon időszaka, amelynek elteltével a tag a foglalkoztatói nyugdíjszolgáltatáshoz – az egyéb feltételek teljesülése esetén – legkorábban hozzájuthat;
+35. várakozási idő: a tagsági jogviszonynak a belépéstől számított, a nyugdíjkonstrukció által előírt időszaka, amelynek elteltével a tag a foglalkoztatói nyugdíjszolgáltatáshoz vagy az egyéni nyugdíjszolgáltatáshoz – egyéb feltételek teljesülése esetén – legkorábban hozzájuthat;
 
 36. minősített befolyás: egy vállalkozással létrejött olyan közvetett és közvetlen kapcsolat, amely alapján a befolyással rendelkező
 
@@ -117,3 +117,7 @@ c) a létesítő okirat, a megállapodás alapján döntő befolyást gyakorolha
 51. kiemelten fontos feladatkör: az irányítási rendszeren belül a gyakorlati feladatok elvégzésére szolgáló belső kapacitás, amely gyakorlati feladatok magukban foglalják a kockázatkezelési feladatkört, a belső ellenőrzési feladatkört és az aktuáriusi feladatkört is;
 
 52. vezető állású személy: az igazgatóság tagja, a felügyelőbizottság tagja, az igazgatóság jogait gyakorló vezérigazgató, valamint cégvezető.
+
+53. egyéni nyugdíjszolgáltatás: a nyugdíjkorhatár elérése után a tag részére, a tagi számláján nyilvántartott összeg terhére, a nyugdíjkonstrukcióban rögzített módozatoknak megfelelően választása szerint egy összegben vagy járadék formájában, illetve e kettő kombinációjaként történő pénzbeli kifizetés;
+
+54. egyéni nyugdíjszolgáltatásra jogosult tag: az a természetes személy, aki a foglalkoztatói nyugdíjszolgáltató intézménnyel egyéni nyugdíjszolgáltatásra szóló szerződés alapján egyéni nyugdíjszolgáltatásra jogosultságot szerez.

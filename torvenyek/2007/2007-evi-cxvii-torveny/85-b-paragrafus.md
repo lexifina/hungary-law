@@ -1,0 +1,1 @@
+85/B. § A szolgáltatóváltásra irányuló igényét a PEPP-megtakarító írásban jelzi a PEPP-szolgáltató felé. A PEPP-szolgáltató az elfogadott kérelemből egy példányt írásban visszaad a PEPP-megtakarítónak.

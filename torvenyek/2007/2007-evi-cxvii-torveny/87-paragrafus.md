@@ -1,4 +1,4 @@
-## Záró és átmeneti rendelkezések
+## Hatályba léptető, átmeneti és hatályon kívül helyező rendelkezések
 
 87. § (1) Ez a törvény a kihirdetését követő 15. napon lép hatályba.
 
