@@ -37,3 +37,7 @@ c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése, am
 (4) Az ÁÉKBV-alapkezelő az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
 
 (5) A (2) bekezdésben szereplő tevékenységek végzése esetén a Bszt. adott tevékenységre vonatkozó rendelkezéseit az adott tevékenységre megfelelően alkalmazni kell.
+
+(6) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység és a (2) bekezdésben meghatározott tevékenységek folytatása mellett az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti páneurópai egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is végezheti.
+
+(7) A páneurópai egyéni nyugdíjtermék (PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és az Fnyt. VI. Fejezetében foglalt eltérésekkel kell alkalmazni.
