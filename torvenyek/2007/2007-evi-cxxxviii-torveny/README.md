@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2021-11-10 | 2021. évi LVIII. törvény | 2007-138-00-00.66 |
 | 2022-01-01 | 2021. évi LVIII. törvény | 2007-138-00-00.67 |
 | 2022-02-28 | 2021. évi LVIII. törvény | 2007-138-00-00.68 |
+| 2022-04-11 | 2021. évi LVIII. törvény | 2007-138-00-00.69 |

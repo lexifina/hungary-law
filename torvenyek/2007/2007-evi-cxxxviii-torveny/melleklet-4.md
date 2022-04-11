@@ -39,13 +39,3 @@ ca) legalább 66 százalékos többségű, amely a tulajdoni jogok legalább 50 
 cb) legalább a képviselt tulajdoni jogok 75 százalékos többségével kerül elfogadásra, és
 
 d) a befektetési vállalkozás tájékoztatja a Felügyeletet a közgyűlés előterjesztéséről, valamint a c) pont alapján hozott határozatról.
-
-9. A 8. pont b) alpontja szerinti előterjesztés tartalmazza:
-
-a) a magasabb alapjavadalmazás-teljesítményjavadalmazás arány szükségességének indoklását,
-
-b) a javasolt maximális arányt,
-
-c) az érintett vezető állású személyek és munkavállalók számára, beosztására vonatkozó adatokat, valamint
-
-d) a befektetési vállalkozás stabil tőkealapjának fenntartására vonatkozó követelményre gyakorolt hatást.

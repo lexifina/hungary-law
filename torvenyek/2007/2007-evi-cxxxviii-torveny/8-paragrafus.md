@@ -26,6 +26,8 @@ g) pénzügyi eszközre vonatkozó adat, információ értékesítést,
 
 h) a Hpt. 6. § (1) bekezdésében meghatározott csoportfinanszírozási tevékenységet
 
+i) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti páneurópai egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást
+
 folytathat.
 
 (6) Az (5) bekezdés rendelkezése nem alkalmazandó
