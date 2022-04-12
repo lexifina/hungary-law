@@ -1,4 +1,4 @@
-## 14. §[^26] A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvény szerinti súlyos vasúti baleset esetén a vasúti társaság segítséget nyújt a baleset áldozatainak az EK rendelet szerinti panasztételi eljárásokhoz. Ennek során a kommunikációs csatornákon keresztül kapcsolatba lép a baleset áldozatainak családtagjaival, és észszerű keretek között pszichológiai támogatást biztosít a baleset áldozatainak és családtagjainak.
+## 14. §[^34] A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvény szerinti súlyos vasúti baleset esetén a vasúti társaság segítséget nyújt a baleset áldozatainak az EK rendelet szerinti panasztételi eljárásokhoz. Ennek során a kommunikációs csatornákon keresztül kapcsolatba lép a baleset áldozatainak családtagjaival, és észszerű keretek között pszichológiai támogatást biztosít a baleset áldozatainak és családtagjainak.
 
 ## Eltérő minőségű szolgáltatás
 
@@ -8,4 +8,4 @@
 
 (3) Ha az utas az eltérő minőségű szolgáltatást nem fogadja el és a szerződéstől eláll, a vasúti társaság a menetdíjat visszafizeti, továbbá a lemondás tényéről és okáról igazolást ad.
 
-[^26]: A 14. §-t újonnan a 415/2020. (VIII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^34]: A 14. §-t újonnan a 415/2020. (VIII. 30.) Korm. rendelet 1. §-a iktatta be.

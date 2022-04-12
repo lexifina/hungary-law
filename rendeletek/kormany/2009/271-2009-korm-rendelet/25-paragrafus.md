@@ -1,3 +1,3 @@
-25. §[^42]
+25. §[^50]
 
-[^42]: A 25. §-t a 24. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^50]: A 25. §-t a 24. § (4) bekezdés d) pontja hatályon kívül helyezte.
