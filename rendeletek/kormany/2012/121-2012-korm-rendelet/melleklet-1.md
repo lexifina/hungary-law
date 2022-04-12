@@ -1,3 +1,3 @@
-1. melléklet a 121/2012. (VI. 26.) Korm. rendelethez[^3]
+1. melléklet a 121/2012. (VI. 26.) Korm. rendelethez[^4]
 
-[^3]: Az 1. melléklet a 445/2020. (X. 1.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet a 134/2022. (IV. 7.) Korm. rendelet 4. § (2) bekezdés a) pontjával megállapított szöveg.

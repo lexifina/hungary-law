@@ -1,8 +1,8 @@
 ## 4. § Hatályát veszti
 
-a)[^1]
+a)[^2]
 
-b)[^2]
+b)[^3]
 
-[^1]: A 4. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
