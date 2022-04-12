@@ -4,6 +4,6 @@
 
 (3) A lajstromprogram útján kell biztosítani, hogy az iratok megtekintésére jogosult (képviselő) személyes megjelenése esetén – a lajstromprogram szolgáltatásaihoz jogosulatlan hozzáférést kizáró módon – a bíróság erre kijelölt helyiségében az elektronikusan rendelkezésre álló iratok számára megtekinthetőek legyenek.
 
-(4)[^210] A lajstromprogram útján kell biztosítani, hogy az elektronikus iratok, adatok kizárólag a polgári perrendtartásról szóló törvénynek és a Be.-nek az iratok megtekintésére, másolatkészítésre vonatkozó rendelkezéseinek megfelelően legyenek megismerhetőek (másolhatóak). Ha az eljárási törvény alapján az irat vagy az adat nem ismerhető meg (nem másolható) – így például a tanú zártan kezelendő személyi adatai – a lajstromprogramban az iratot vagy az adatot olyan módon kell titkosítani, hogy az kizárja annak lehetőségét, hogy azt arra nem jogosult megismerhesse (másolhassa).
+(4)[^201] A lajstromprogram útján kell biztosítani, hogy az elektronikus iratok, adatok kizárólag a polgári perrendtartásról szóló törvénynek és a Be.-nek az iratok megtekintésére, másolatkészítésre vonatkozó rendelkezéseinek megfelelően legyenek megismerhetőek (másolhatóak). Ha az eljárási törvény alapján az irat vagy az adat nem ismerhető meg (nem másolható) – így például a tanú zártan kezelendő személyi adatai – a lajstromprogramban az iratot vagy az adatot olyan módon kell titkosítani, hogy az kizárja annak lehetőségét, hogy azt arra nem jogosult megismerhesse (másolhassa).
 
-[^210]: A 75/D. § (4) bekezdése a 20/2017. (XII. 21.) IM rendelet 12. § k) pontja szerint módosított szöveg.
+[^201]: A 75/D. § (4) bekezdése a 20/2017. (XII. 21.) IM rendelet 12. § k) pontja szerint módosított szöveg.
