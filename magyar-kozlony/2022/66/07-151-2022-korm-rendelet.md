@@ -1,0 +1,109 @@
+# A Kormány 151/2022. (IV. 14.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 66. szám, 2022. április 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Fxqg7GnNaHO96cvhmWng624c95a4e7328/dokumentumok/c7098ac15ccbd96539e59e1d21af33c86320ebcf/letoltes)
+
+---
+
+A Kormány 151/2022. (IV. 14.) Korm. rendelete
+a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény, valamint egyes
+kapcsolódó törvényi rendelkezések eltérő alkalmazásáról
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+az 5. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány elleni védekezésről szóló 2021. évi I. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Általános rendelkezések
+1. §
+A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) hatálya
+alá tartozó pénzügyi intézmény – ideértve a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint
+az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 5. §-a
+szerinti befektetési szolgáltatási tevékenységet végző vagy kiegészítő pénzügyi szolgáltatást nyújtó pénzügyi
+intézményt is – (a továbbiakban: pénzügyi intézmény) végelszámolására és felszámolására a cégnyilvánosságról,
+a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény, a csődeljárásról és a felszámolási eljárásról
+szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.), a Hpt., valamint a Bszt. rendelkezéseit az e rendeletben foglalt
+kiegészítésekkel és eltérésekkel kell alkalmazni.
+2. A pénzügyi intézmények végelszámolásának sajátos szabályai
+2. § (1) A végelszámoló a végelszámolási vagyon részét nem képező vagyon – ideértve a pénzügyi intézmény által kezelt
+közjegyzői, végrehajtói, ügyvédi letéti, őrzési tevékenységhez kapcsolódó számlákon elhelyezett pénzösszeget,
+valamint a pénzügyi intézménynél harmadik személy javára, a kizárólag harmadik személyt megillető fizetési
+kötelezettségek biztosítékául szolgáló óvadéki vagy fedezeti célú számlán jóváírt összeget is – kifizetése, kiadása
+iránt a végelszámolás elrendelését követő 30 napon belül intézkedik, ha az általa vezetett nyilvántartás és
+a követelések egyezősége alapján az ügyfelekkel történő elszámolást akadályozó körülmény nem merült fel.
+
+(2) A pénzügyi intézmény által kezelt közjegyzői, végrehajtói, ügyvédi letéti, őrzési tevékenységhez kapcsolódó
+számlákon elhelyezett pénzösszeget, valamint a pénzügyi intézménynél harmadik személy javára, a kizárólag
+harmadik személyt megillető fizetési kötelezettségek biztosítékául szolgáló óvadéki vagy fedezeti célú számlán
+jóváírt összeget akkor kell kiadni, kifizetni az (1) bekezdésben foglaltak szerint, ha a pénzösszeg ezen rendeltetése
+a pénzügyi intézmény és az ügyfél között kötött szerződésből egyértelműen megállapítható.
+(3) Ha a korrigált végelszámolási nyitó mérleg adatai szerint a végelszámolás lefolytatható, az (1) és (2) bekezdésben
+foglalt kifizetéseket követően a végelszámoló a betételhelyezésből eredő követeléseket, valamint az Országos
+Betétbiztosítási Alapnak (a továbbiakban: OBA) az általa kifizetett kártalanítási összegek megtérítésére irányuló
+követeléseket fizeti ki, a következő időbeli sorrendben:
+a) az OBA által biztosított betétek az OBA kártalanítási kötelezettségének mértékéig, amennyiben a betétes
+nem kapott az OBA-tól ezen a jogcímen kártalanítást, valamint azok a betétesek, amelyekre jogszabályi állami
+garancia (helytállás) vonatkozik, mert a betét 1993. június 30-át megelőzően került elhelyezésre a banknál
+vagy jogelődjénél,
+b) a természetes személy, valamint a mikro-, kis- és középvállalkozás OBA által biztosított, az OBA kártalanítási
+kötelezettséget meghaladó betételhelyezésből eredő követelése,
+c) egyéb betételhelyezésből eredő követelések,
+d) az OBA-ra a Hpt. 219. §-a alapján, a betéteseknek kifizetett kártalanítás folytán átszállt követelések.
+(4) A többi hitelezői követelést a végelszámoló a (3) bekezdésben foglalt kifizetések teljesítését követően elégítheti
+ki oly módon, hogy a kifizetési sorrendnél a Hpt. 57. § (1b) és (2) bekezdésében foglaltakat, valamint a Cstv. 57. §
+(1) bekezdés b)–h) pontjában meghatározott időbeli sorrendet alkalmazza.
+(5) Ha a pénzügyi intézmény és az ügyfél között a pénzügyi intézményt megillető követelések biztosítására alapított
+óvadék felszabadításának vagy az óvadék tárgyával történő elszámolásnak van helye, a végelszámoló ennek
+haladéktalanul eleget tesz.
+(6) A végelszámoló a végelszámolás elrendelésétől számított 120 napon belül köteles kezdeményezni a Magyar
+Nemzeti Banknál a Hpt. 17. §-a és 17/A. §-a, valamint a Bszt. 140–141. §-a szerinti átruházás engedélyezését.
+Ha az átruházást akadályozó tényező merül fel, a végelszámoló kérelmére a határidőt a Magyar Nemzeti Bank
+meghosszabbíthatja.
+3. A pénzügyi intézmények felszámolási eljárásának sajátos szabályai
+3. § (1) A felszámoló a felszámolási vagyon részét nem képező vagyon – ideértve a pénzügyi intézmény által kezelt
+közjegyzői, végrehajtói, ügyvédi letéti, őrzési tevékenységhez kapcsolódó számlákon elhelyezett pénzösszeget,
+valamint a pénzügyi intézménynél harmadik személy javára, a kizárólag harmadik személyt megillető fizetési
+kötelezettségek biztosítékául szolgáló óvadéki vagy fedezeti célú számlán jóváírt összeget is – kiadása, kifizetése
+iránt a felszámolás elrendelését követő 30 napon belül intézkedik.
+(2) A pénzügyi intézmény által kezelt közjegyzői, végrehajtói, ügyvédi letéti, őrzési tevékenységhez kapcsolódó
+számlákon elhelyezett pénzösszeget, valamint a pénzügyi intézménynél harmadik személy javára, a kizárólag
+harmadik személyt megillető fizetési kötelezettségek biztosítékául szolgáló óvadéki vagy fedezeti célú számlán
+jóváírt összeget akkor kell kiadni, kifizetni a (1) bekezdésben foglaltak szerint, ha a pénzösszeg ezen rendeltetése
+a pénzügyi intézmény és az ügyfél között kötött szerződésből egyértelműen megállapítható.
+(3) Ha a pénzügyi intézmény és az ügyfél között a pénzügyi intézményt megillető követelések biztosítására alapított
+óvadéki megállapodás szerint az óvadék felszabadításának vagy az óvadék tárgyával történő elszámolásnak van
+helye, a felszámoló ennek haladéktalanul eleget tesz.
+(4) Ha a pénzügyi intézmény felszámolását a bíróság a Hpt. 53. § (2) bekezdés b) pontjában meghatározott esetben
+rendelte el, a Hpt. 55. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a hitelezők a felszámolást elrendelő
+végzés közzétételétől számított 30 napon belül kötelesek a követeléseiket a felszámolónak bejelenteni.
+(5) A Cstv. 38. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a felszámolás alatt álló pénzügyi intézménnyel
+– mint kötelezettel – szemben alapított óvadék jogosultjának a felszámolást elrendelő végzés közzétételétől
+számított 60 napon belül kell a közvetlen kielégítési jogát gyakorolnia, ennek elmulasztása esetén követelésének
+kielégítésére zálogjogosultként tarthat igényt.
+(6) A Cstv. 50. §-át azzal a kiegészítéssel kell alkalmazni, hogy a felszámoló köteles közbenső mérleget készíteni abban
+az esetben is, ha a betételhelyezésből eredő követelések megtérítésére irányuló követelések kifizetéséhez elegendő
+pénzeszköz folyt be, és a hitelezők követeléseinek bejelentésére meghatározott határidő már eltelt.
+
+(7) A felszámoló a felszámolás elrendelésétől számított 120 napon belül köteles kezdeményezni a Magyar Nemzeti
+Banknál a Hpt. 17. és 17/A. §-a, valamint a Bszt. 140–141. §-a szerinti átruházás engedélyezését. Ha az átruházást
+akadályozó tényező merül fel, a felszámoló kérelmére a határidőt a Magyar Nemzeti Bank meghosszabbíthatja.
+4. Záró rendelkezések
+4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) Az 5. § az e rendelet kihirdetését követő 15. napon lép hatályba.
+5. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
+hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát
+veszti.
+6. § (1) E rendeletet – a (2)–(3) bekezdésben foglaltak figyelembevételével – az e rendelet hatálybalépésekor folyamatban
+lévő végelszámolási eljárásokban is alkalmazni kell.
+(2) A 2. § (1) és (2) bekezdésében foglaltakat az e rendelet hatálybalépésekor folyamatban lévő végelszámolási
+eljárásokban azzal az eltéréssel kell alkalmazni, hogy a 2. § (1) és (2) bekezdésében meghatározott vagyon kiadása,
+kifizetése iránt az e rendelet hatálybalépését követő 15 napon belül kell intézkedni.
+(3) A 2. § (6) bekezdésében foglaltakat e rendelet hatálybalépésekor folyamatban lévő végelszámolási eljárásokban
+azzal az eltéréssel kell alkalmazni, hogy a Hpt. 17. §-a és 17/A. §-a, valamint a Bszt. 140–141. §-a szerinti átruházás
+engedélyezését az e rendelet hatálybalépését követő 90 napon belül kell kezdeményezni.
+(4) Az e rendelet 3. §-ában foglaltakat a hatálybalépését követően megindított felszámolási eljárásokban kell alkalmazni.
+7. §
+Az e rendeletben foglaltakat az e rendelet hatályvesztésének napján folyamatban lévő végelszámolási és
+felszámolási eljárásokban is alkalmazni kell.
+ Orbán Viktor s. k.,
+ miniszterelnök
