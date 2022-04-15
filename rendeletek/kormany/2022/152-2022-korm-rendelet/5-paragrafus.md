@@ -1,0 +1,3 @@
+## 4. § Az R. a következő 95. §-sal egészül ki:
+
+## „95. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 152/2022. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr87.) módosított 3. § (3) bekezdését és megállapított 3. § (6) bekezdését, 4. § (5) és (6) bekezdését, 5/F. §-át és 2. mellékletében foglalt táblázat 95. sorát a Módr87. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
