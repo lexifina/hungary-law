@@ -1,5 +1,3 @@
-## Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia
-
 | I. Megelőzés |
 
 |  | A | B | C | D |
@@ -54,9 +52,9 @@
 
 | IV.5. | Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővítése | A korábbi stratégia tapasztalatai, illetve a Nemzeti Koordinációs Mechanizmus tagjainak jelzése alapján indokolt a célkitűzés ismételt szerepeltetése. | BM | európai uniós és kormányzati |
 
-2. melléklet az 1046/2020. (II. 18.) Korm. határozathoz[^3]
+2. melléklet az 1046/2020. (II. 18.) Korm. határozathoz[^5]
 
-## Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia végrehajtását szolgáló, 2020–2021 közötti időszakban végrehajtandó intézkedési terv
+Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia végrehajtását szolgáló, 2020–2021 közötti időszakban végrehajtandó intézkedési terv
 
 I. Megelőzés
 
@@ -159,6 +157,8 @@ I. Megelőzés
 | E | Indikátor: | kialakított helyiségek száma |
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
+
+## 1X06582O_7
 
 | I.1.8. További Barnahus modell4 szerinti szolgáltatások infrastrukturális feltételei megteremtésének és működésének támogatása, az országos lefedettség biztosítása érdekében |
 
@@ -411,6 +411,8 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 | E | Indikátor: | kidolgozott módszertan |
 
 | F | Forrás: | – |
+
+## 1X06582O_24
 
 | II.1.7. Az EKAT rendszerrel5 kapcsolatos fejlesztések megvalósítása |
 
@@ -816,6 +818,8 @@ IV.3. Nemzetközi egyezményekben foglalt vállalásoknak és kötelezettségekn
 
 | F | Forrás: | – |
 
+1X06582O_51
+
 | IV.3.2. Csatlakozás lehetőségének a vizsgálata az Európa Tanács szervkereskedelem elleni egyezményéhez6 |
 
 | A | Felelős: | IM, EMMI |
@@ -892,4 +896,4 @@ IV.5. Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővít�
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
 
-[^3]: A 2. melléklet az 1948/2020. (XII. 18.) Korm. határozat 8. pontja, az 1447/2021. (VII. 6.) Korm. határozat 6. pont b)–c) alpontja, az 1502/2021. (VII. 26.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^5]: A 2. melléklet az 1948/2020. (XII. 18.) Korm. határozat 8. pontja, az 1447/2021. (VII. 6.) Korm. határozat 6. pont b)–c) alpontja, az 1502/2021. (VII. 26.) Korm. határozat 8. pontja szerint módosított szöveg.

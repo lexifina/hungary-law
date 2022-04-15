@@ -10,32 +10,18 @@
 
 ## Határidő: 2021. december 31.
 
-## 4. A Kormány felhívja a pénzügyminisztert, hogy a feladat- és hatáskörrel rendelkező miniszterek bevonásával gondoskodjon az Intézkedési Tervben foglaltak megvalósításához szükséges források biztosításáról a következők szerint:
+## 4.[^2]
 
-## a) a 2020. évben 91 000 000 forint összegben, amely összeget az Emberi Erőforrások Minisztériuma költségvetéséhez indokolt biztosítani,
-
-## b) a 2021. évben 518 500 000 forint, amely összeget az Emberi Erőforrások Minisztériuma költségvetésébe szükséges tervezni.
-
-## Felelős: pénzügyminiszter
-
-## a feladat- és hatáskörrel rendelkező miniszterek bevonásával
-
-## Határidő: az a) pont tekintetében a 2020. évben a felmerülés ütemében
-
-## a b) pont tekintetében a 2021. évi központi költségvetés tervezése során
-
-## 5. A Kormány felhívja az igazságügyi minisztert, hogy a belügyminiszter bevonásával végezze el az emberkereskedelem büntető törvénykönyvi tényállásának felülvizsgálatát a nemzetközi elvárásoknak való jobb megfelelés érdekében.
-
-## Felelős: igazságügyi miniszter
-
-## a belügyminiszter bevonásával
-
-## Határidő: 2020. március 30.
+## 5.[^3]
 
 ## 6. A Kormány felkéri a legfőbb ügyészt és az Országos Bírósági Hivatal elnökét, hogy szakterületüket érintően működjenek együtt az Intézkedési Terv megvalósításában.
 
 ## 7. Ez a határozat a közzétételét követő napon lép hatályba, és 2024. január 1-jén hatályát veszti.
 
-1. melléklet az 1046/2020. (II. 18.) Korm. határozathoz[^2]
+1. melléklet az 1046/2020. (II. 18.) Korm. határozathoz[^4]
 
-[^2]: Az 1. melléklet az 1447/2021. (VII. 6.) Korm. határozat 6. pont a)–b) alpontja szerint módosított szöveg.
+Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia
+
+[^2]: A 4. pontot az 1228/2022. (IV. 14.) Korm. határozat 8. pontja hatályon kívül helyezte.
+[^3]: Az 5. pontot az 1228/2022. (IV. 14.) Korm. határozat 8. pontja hatályon kívül helyezte.
+[^4]: Az 1. melléklet az 1447/2021. (VII. 6.) Korm. határozat 6. pont a)–b) alpontja szerint módosított szöveg.
