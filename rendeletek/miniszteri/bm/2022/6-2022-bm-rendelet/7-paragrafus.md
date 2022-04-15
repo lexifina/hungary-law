@@ -1,0 +1,9 @@
+## „(2a) A Nemzeti Közszolgálati Egyetem Fenntartói Testületében szolgálatot ellátó, illetve a Nemzeti Közszolgálati Egyetemen oktatói, kutatói és tudományos tevékenységet végző szolgálati nyugdíjas – hivatásos állománykategóriát kifejező jelvény nélkül – egyetemi munkavégzés időtartama alatt, illetve azzal összefüggésben jogosult szolgálati és gyakorlóruházat viselésére is. Ennek beszerzési költsége a szolgálati nyugdíjast terheli.”
+
+7. § (1) A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 2. melléklete az 1. melléklet szerint módosul.
+
+(2) A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 3. melléklete a 2. melléklet szerint módosul.
+
+(3) A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 3/A. melléklete a 3. melléklet szerint módosul.
+
+(4) A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 4. melléklete a 4. melléklet szerint módosul.

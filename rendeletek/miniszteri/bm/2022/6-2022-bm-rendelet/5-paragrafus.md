@@ -1,0 +1,1 @@
+## „(5) Az elhalálozott igényjogosult munkaruházatát térítésmentesen a közeli hozzátartozó tulajdonába kell adni, ennek hiányában be kell vonni, hiánya esetén – az önálló szerv kárviselését kimondva – jegyzőkönyvet kell felvenni.”

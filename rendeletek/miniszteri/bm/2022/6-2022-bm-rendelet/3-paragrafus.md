@@ -1,0 +1,3 @@
+## 2. § A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 19. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) Azok a szolgálati nyugdíjasok, akik a nyugdíjas vagy a szolgálati járandóságra jogosultságot igazoló igazolványukban szereplő bejegyzés szerint egyenruha viselésére jogosultak, az 51. § (1)–(2a) bekezdésében foglaltaknak megfelelő ruházatot az egyenruházati boltban vásárolhatják meg. A jogosultságot igazoló igazolványt a vásárláskor – a jogosultság ellenőrzése érdekében – fel kell mutatni.”
