@@ -202,6 +202,8 @@
 
 | 94. | Gyártó üzem kapacitás bővítő beruházás Sajóbábony területén | Sajóbábony közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 024/269, 024/274, 024/275, 024/276, 024/203, 024/217, 024/202, 024/205, 033/1 és 024/220 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^274]
+| 95. | Egykori Első Katonai Biztosító Intézet székházának elbontott építéskori toronyszerkezeteinek, tetőgeometriájának visszaállításával megvalósuló ingatlanfejlesztési beruházás | Budapest VII. kerület belterület, 34522 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^274]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^280]
+
+[^280]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

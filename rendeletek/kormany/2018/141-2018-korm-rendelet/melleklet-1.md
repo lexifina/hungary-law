@@ -1,4 +1,4 @@
-## 94. §[^270] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 142/2022. (IV. 7.) Korm. rendelettel (a továbbiakban: Módr86.) megállapított 2. mellékletében foglalt táblázat 94. sorát a Módr86. hatálybalépésekor[^271] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 95. §[^276] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 152/2022. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr87.) módosított 3. § (3) bekezdését és megállapított 3. § (6) bekezdését, 4. § (5) és (6) bekezdését, 5/F. §-át és 2. mellékletében foglalt táblázat 95. sorát a Módr87. hatálybalépésekor[^277] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^272] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^278] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^270]: A 94. §-t a 142/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.
-[^271]: A hatálybalépés időpontja 2022. április 8.
-[^272]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^276]: A 95. §-t a 152/2022. (IV. 14.) Korm. rendelet 4. §-a iktatta be.
+[^277]: A hatálybalépés időpontja 2022. április 15.
+[^278]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
