@@ -1,5 +1,3 @@
-## 3. § Ha a menedékes kiskorú ellátásáról gondoskodik, a kiskorú elhelyezése céljából a magyar állampolgárral azonos feltételekkel jogosult igénybe venni a bölcsődei ellátást, az óvodai gondozást, nevelést, ellátást és a Biztos Kezdet Gyerekház szolgáltatásait.
-
 ## 4. A rendszeres létfenntartási támogatásra vonatkozó eltérő szabályok
 
 4. § (1) A menedékesként elismerését kérő vagy a menedékes esetében a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet (a továbbiakban: 301/2007. (XI. 9.) Korm. rendelet 53. § (1) bekezdése helyett a (2)–(7) bekezdést kell alkalmazni.
