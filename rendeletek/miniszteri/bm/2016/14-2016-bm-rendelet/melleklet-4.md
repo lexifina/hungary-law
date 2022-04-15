@@ -1,4 +1,4 @@
-4. melléklet a 14/2016. (V. 10.) BM rendelethez[^48]
+4. melléklet a 14/2016. (V. 10.) BM rendelethez[^72]
 
 ## A Büntetés-végrehajtási szervezet hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -10,7 +10,7 @@
 
 | 2 | normakód |  |  | CS | E1 | E2 | V1 | V2 | V3 | V4 | T1 | T2 |
 
-| 3 | 1. gyakorló ruházat | 14M e. r. gyakorló bakancs* | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 3 | 1. gyakorló ruházat | 14M e. r. gyakorló bakancs | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
 | 4 | 12M e. r. gyakorló bakancs, nyári | pár |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -88,7 +88,7 @@
 
 | 38 | Bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 39 | Szolgálati nyakkendő, sötétkék* | db |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 39 | Szolgálati nyakkendő, sötétkék | db |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
 | 40 | 17M társasági nyakkendő | db |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -132,8 +132,6 @@
 
 a) Megjegyzés:
 
-* Kizárólag a raktári készlet erejéig a 14M e. r. gyakorló bakancs helyett 10M e. r. gyakorló bakancs is kiadható, illetve a normában szereplő társasági/szolgálati nyakkendő, sötétkék megnevezésű termék mellett 1 db szolgálati nyakkendő, sötétkék (szövet) megnevezésű termék is kiadandó.
-
 ** A termékek természetbeni biztosítása helyett alsóruházati költségtérítés kerül kifizetésre. Összege 10 000 Ft, elszámolási rendje megegyezik a ruházati utánpótlási ellátmány elszámolási rendjével. Az alsóruházati költségtérítést csak a felszerelő állomány részére kell biztosítani. A zokni esetében a beszerzendő termékek színe sötétkék vagy fekete. A téli ing és téli alsó alkalmasságát a funkciónak való megfelelés határozza meg.
 
 *** Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. A tiszthelyettes vagy zászlós rendfokozati állománycsoportba tartozó férfiállomány a lábbeli-költségtérítésre nem jogosult, ők a ruházati ellátási norma 9. sora szerint kiadott 12M e. r. szolgálati félcipőt használják társasági cipőként. A női állomány részére, valamint a tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó férfiállomány részére a termék természetbeni biztosítása helyett vagy mellett (a ruházati ellátási normától függően) lábbeli költségtérítés kerül kifizetésre, amelynek összege a 12M e. r. szolgálati félcipő mindenkori beszerzési értéke. A lábbeli-költségtérítés elszámolási rendje megegyezik a ruházati utánpótlási ellátmány elszámolási rendjével. A beszerzendő termékre vonatkozó paraméterek nők esetében: fekete színű, díszítőelemektől mentes, maximum 7 cm sarokmagasságú bőrlábbeli, nem megfelelő a velúr-, nubuk- vagy lakkcipő, férfiak esetében: fekete színű, díszítőelemektől mentes, klasszikus fazonú, fekete bőr, fűzős lábbeli, nem megfelelő a velúr-, nubuk- vagy lakkcipő.
@@ -166,9 +164,9 @@ bi) T2: Tábornoki alapellátási norma (férfi)
 
 | 2 | Téli sapka műszőrmés sötétkék | 2022. december 31. |
 
-| 3 | 10M e. r. gyakorló nadrág (polifoam betéttel) | 2018. december 31. |
+| 3 |  |  |
 
-| 4 | 10M e. r. gyakorló zubbony (polifoam betéttel) | 2018. december 31. |
+| 4 |  |  |
 
 | 5 | 10M e. r. gyakorló bakancs | 2022. december 31. |
 
@@ -182,24 +180,26 @@ bi) T2: Tábornoki alapellátási norma (férfi)
 
 | 10 | 10M e. r. gyakorló bakancs | 2022. december 31. |
 
-| 11 | Szolgálati nyakkendő, sötétkék (szövet) | – |
+| 11 |  |  |
 
-| 12 | Társasági kalap, sötétkék, szerelve | – |
+| 12 |  |  |
 
-| 13 | Társasági férfi félcipő/női cipő, fekete | – |
+| 13 |  |  |
 
-| 14 | Kistársasági zubbony/kosztümkabát szürke, szerelve | – |
+| 14 |  |  |
 
-| 15 | Kistársasági pantalló, férfi/szoknya, női, fekete | – |
+| 15 |  |  |
 
-| 16 | Kistársasági felöltő, fekete | – |
+| 16 |  |  |
 
-| 17 | Kistársasági tányérsapka/kalap, sötétkék, szerelve | – |
+| 17 |  |  |
 
-| 18 | Selyem nyakkendő, fekete | – |
+| 18 |  |  |
 
-| 19 | Nyaksál, fekete | – |
+| 19 |  |  |
 
 3. A hivatásos állomány részére, a szolgálati feladatok függvényében, – alegységkészletként – szolgálati, csapadék ellen védő kabátot kell biztosítani.
 
-[^48]: A 4. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (3) bekezdése, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja, a 16/2021. (VI. 24.) BM rendelet 7. § b) pontja, a 42/2021. (XII. 9.) BM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+4. A hivatásos állomány részére, a szolgálati feladatok függvényében – intézetenként – 08 mintájú jó láthatóságot biztosító átvetőt kell biztosítani.
+
+[^72]: A 4. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (3) bekezdése, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja, a 16/2021. (VI. 24.) BM rendelet 7. § b) pontja, a 42/2021. (XII. 9.) BM rendelet 11. § (1) bekezdése, a 6/2022. (IV. 14.) BM rendelet 7. § (4) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^47]
+3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^71]
 
 ## Az idegenrendészeti szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -64,7 +64,7 @@
 
 | 29. | Bőrkesztyű, fekete | pár | 1 | 1 | 1 |
 
-| 30. | Szolgálati, csapadék ellen védő kabát, sötétkék | db |  | 1 | 1 |
+| 30. | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1 | 1 | 1 |
 
 | 31. | Hímzett névkitűző | db | 2 | 2 | 2 |
 
@@ -96,4 +96,4 @@ bc) T2: Tábornoki alapellátási norma (női)
 
 2. Az idegenrendészeti szerv hivatásos állománya ügyfélszolgálati feladatok ellátása esetén a szolgálati feladatokat formaruházatban látja el.
 
-[^47]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be.
+[^71]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be, szövege a 6/2022. (IV. 14.) BM rendelet 7. § (3) bekezdése szerint módosított szöveg.

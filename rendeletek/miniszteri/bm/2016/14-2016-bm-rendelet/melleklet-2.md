@@ -58,7 +58,7 @@
 
 ## * Az egyenruházati cikkeknél és a ruházati felszereléseknél meghatározott tervezett viselési idők azt az időtartamot határozzák meg, aminek elteltét követően az állománynak a ruházati termékeket – ha a szolgálati feladatokat kizárólag adott ruházatban látja el – pótolni indokolt. Az azonos funkciójú (szolgálati, gyakorló-, speciális vagy munkaruházati) termékek vegyes használata mellett a ruházati cikkek tervezett viselési ideje meghosszabbodik. A ruházati szemléken a pótlandó termékek körét a termékek használtsági foka alapján kell meghatározni, figyelembe véve a ruházati utánpótlási ellátmány összegét, terhelhetőségét. A szolgálati feladatok ellátása során megsérült ruházat – az önálló szerv költségvetése terhére történő – kártérítésénél a tervezett viselési időket figyelembe kell venni.
 
-2. melléklet a 14/2016. (V. 10.) BM rendelethez[^45]
+2. melléklet a 14/2016. (V. 10.) BM rendelethez[^69]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -74,7 +74,7 @@
 
 | 4 | 10M e. r. gyakorló nadrág | db | 2 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
 
-| 5 | Gyakorló póló, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 2 | 2 |
+| 5 | Gyakorló póló, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 | 5a | Teniszing, sötétkék* | db | 4 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
@@ -286,6 +286,8 @@ c) Ha az igényjogosult, egyenruhás alapellátási normába sorolt az E1-E2 nor
 
 | 14 | Vízirendészeti karjelvény | db | 2 |
 
+| 15 | 19M vízirendészeti polár felső | db | 1 |
+
 4.3. Lovas szolgálatot ellátók speciális szolgálati egyenruházata:
 
 |  | A | B | C |
@@ -300,13 +302,9 @@ c) Ha az igényjogosult, egyenruhás alapellátási normába sorolt az E1-E2 nor
 
 | 5 | Lovaglócsizma | pár | 1 |
 
-| 6 | Lovas szolgálati kabát kivehető béléssel* | db | 1 |
+| 6 | Lovas szolgálati kabát kivehető béléssel | db | 1 |
 
 | 7 | Lovas karjelvény | db | 2 |
-
-a) Megjegyzés:
-
-* ha a termék rendszeresítésére sor kerül
 
 4.4. Kutyavezetői szolgálatot, valamint kutyavezetői oktatói, szakoktatói feladatot ellátók speciális szolgálati egyenruházata:
 
@@ -332,7 +330,7 @@ a) Megjegyzés:
 
 | 3 | Bűnügyi technikusi melles nadrág | db | 2 |
 
-4.6. A csökkentett alapellátási normába, az egyenruhás alapellátási normába, valamint a közterületen szolgálatot teljesítő vegyes ruhás alapellátási normába sorolt állomány részére speciális szolgálati egyenruházatként a normán felül 1 db 08. mintájú jó láthatósági átvetőt (MSZ EN 1150 szerinti fluoreszcens sárga) kell kiadni. A szenior alapellátási normába sorolt állomány részére speciális szolgálati egyenruházatként a normán felül 1 db jó láthatósági terméket (MSZ EN 1150 szerinti fluoreszcens sárga) kell kiadni.
+4.6. A csökkentett alapellátási normába, az egyenruhás alapellátási normába, a közterületen szolgálatot teljesítő vegyes ruhás alapellátási normába, valamint a szenior alapellátási normába sorolt állomány részére speciális szolgálati egyenruházatként a normán felül 1 db 08. mintájú jó láthatósági átvetőt (MSZ EN 1150 szerinti fluoreszcens sárga) kell kiadni.
 
 5. A hivatásos állomány – ha a ruházati ellátási normájában nem szerepel – az egységes megjelenés biztosítása mellett az alább felsorolt cikkeket megengedett öltözetként viselheti:
 
@@ -354,7 +352,7 @@ a) Megjegyzés:
 
 | 7 | 12M e. r. gyakorló zubbony, nyári, felirattal | – |
 
-| 8 | 10M e. r. gyakorló bakancs | 2022. december 31. |
+| 8 | 10M e. r. gyakorló bakancs | – |
 
 | 9 | 12M e. r. gyakorló bakancs, nyári | – |
 
@@ -368,21 +366,21 @@ a) Megjegyzés:
 
 | 14 |  |  |
 
-| 15 | Női csizma, fekete | – |
+| 15 |  |  |
 
 | 16 | Nyakkendőtű | – |
 
-| 17 | Motoros dzseki | – |
+| 17 | Motoros dzseki (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
-| 18 | Motoros nadrág mellrésszel | – |
+| 18 | Motoros nadrág mellrésszel (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
-| 19 | Vízirendészeti teniszing, fehér | – |
+| 19 | Vízirendészeti teniszing, fehér (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
-| 20 | Viharruha, kétrészes | – |
+| 20 | Viharruha, kétrészes (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
-| 21 | Vízirendészeti rövidnadrág | – |
+| 21 | Vízirendészeti rövidnadrág (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
-| 22 | Vízirendészeti hosszúnadrág | – |
+| 22 | Vízirendészeti hosszúnadrág (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
 6. A megengedett öltözetként viselhető társasági öltözet cikkösszetétele:
 
@@ -400,27 +398,27 @@ a) Megjegyzés:
 
 | 5 | Társasági pantalló, sötétkék | – |
 
-| 6 | 12M e. r. szolgálati ing hosszú ujjú, fehér | – |
+| 6 |  |  |
 
-| 7 | 12M e. r. szolgálati ing rövid ujjú, fehér | – |
+| 7 |  |  |
 
-| 8 | Szolgálati nyakkendő, biztonsági, sötétkék | – |
+| 8 |  |  |
 
 | 9 | Társasági nadrágszíj, fekete | – |
 
 | 10 | Társasági férfi félcipő, fekete | – |
 
-| 11 | Bőrkesztyű, fekete | – |
+| 11 |  |  |
 
-| 12 | Karjelvény | – |
+| 12 |  |  |
 
-| 13 | Hímzett váll-lap, sötétkék | – |
+| 13 |  |  |
 
-| 14 | Névkitűző fém | – |
+| 14 |  |  |
 
 | 15 | Szalagsáv | – |
 
-| 16 | Hivatásos állománykategóriát kifejező jelvény | – |
+| 16 |  |  |
 
 6.2. Az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos női állománya – ha az állomány ruházati ellátási normájában a felsorolt cikkek nem szerepelnek – az alábbiakat megengedett öltözetként viselheti:
 
@@ -436,27 +434,29 @@ a) Megjegyzés:
 
 | 5 | Társasági szoknya, sötétkék | – |
 
-| 6 | 12M e. r. szolgálati blúz hosszú ujjú, fehér | – |
+| 6 |  |  |
 
-| 7 | 12M e. r. szolgálati blúz rövid ujjú, fehér | – |
+| 7 |  |  |
 
-| 8 | Szolgálati nyakkendő, biztonsági, sötétkék | – |
+| 8 |  |  |
 
-| 9 | Harisnya, testszínű | – |
+| 9 |  |  |
+
+| 9a | Női csizma, fekete |  |
 
 | 10 | Társasági női cipő, fekete | – |
 
-| 11 | Bőrkesztyű, fekete | – |
+| 11 |  |  |
 
-| 12 | Karjelvény | – |
+| 12 |  |  |
 
-| 13 | Hímzett váll-lap, sötétkék | – |
+| 13 |  |  |
 
-| 14 | Névkitűző fém | – |
+| 14 |  |  |
 
 | 15 | Szalagsáv | – |
 
-| 16 | Hivatásos állománykategóriát kifejező jelvény | – |
+| 16 |  |  |
 
 7. A Készenléti Rendőrség hivatásos állományának ruházati alapellátási normái:
 
@@ -474,7 +474,7 @@ a) Megjegyzés:
 
 | 6 |  | 12M e. r. gyakorló nadrág, nyári | db |  | 1 | 2 | 1 |  |  |  |
 
-| 7 |  | Gyakorló póló, sötétkék* | db |  | 1 | 2 | 1 |  | 1 | 1 |
+| 7 |  | Gyakorló póló, sötétkék* | db | 1 | 1 | 2 | 1 | 1* | 1 |  |
 
 | 8 |  | KR köznapi teniszing, sötétkék | db | 4* | 4* | 6 | 4* | 4* | 4* | 4* |
 
@@ -686,4 +686,4 @@ bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazga
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^45]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja szerint módosított szöveg.
+[^69]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdése szerint módosított szöveg. [A 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdésében foglalt azon módosítás, mely szerint a 2. melléklet 7. pontjában foglalt táblázat I:14 mezőjében hatályát veszti az „a” szövegrész, nem vezethető át.]

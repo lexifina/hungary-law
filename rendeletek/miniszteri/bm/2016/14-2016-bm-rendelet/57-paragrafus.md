@@ -1,3 +1,3 @@
-## 56. §[^36] A 2016. szeptember 1-jén a Nemzetközi Oktatási Központban szolgálatot teljesítő tábornoki állomány ruházati ellátási normájára a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt tábornoki állomány ruházati ellátási normáját 2016. augusztus 31-én meghatározó szabályokat kell alkalmazni, az állomány ruházati ellátási normájában szereplő egyenruházati termékek és felszerelési cikkek köre a szervezeti változás következtében nem módosul.
+57. §[^63]
 
-[^36]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 37/2016. (IX. 1.) BM rendelet 20. § (1) bekezdése iktatta be.
+[^63]: Az 57. §-t a 38/2016. (IX. 29.) BM rendelet 10. § (1) bekezdése iktatta be, a 6/2022. (IV. 14.) BM rendelet 9. § d) pontja hatályon kívül helyezte.

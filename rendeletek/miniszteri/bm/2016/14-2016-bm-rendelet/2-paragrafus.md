@@ -40,7 +40,7 @@ d) a munka- és védőruházat, illetve a védőeszközök, védőfelszerelések
 
 e) a ruházati egységfelszerelési anyagok,
 
-f) a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a hímzett névkitűző, a rendfokozati jelzések, a kitüntetések és tartozékaik, valamint
+f)[^7] a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a névkitűző, a rendfokozati jelzések, a kitüntetések és tartozékaik, valamint
 
 g) a javító- és karbantartóanyagok;
 
@@ -48,11 +48,12 @@ g) a javító- és karbantartóanyagok;
 
 16. területi szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. mellékletében meghatározott, a Hszt. alkalmazásában területi szervnek minősülő szerv;
 
-17.[^7] végrehajtó szervezeti egység: a területi szerv, a büntetés-végrehajtási szervezet esetében a területi és helyi szerv, valamint a rendvédelmi technikumok.
+17.[^8] végrehajtó szervezeti egység: a területi szerv, a büntetés-végrehajtási szervezet esetében a területi és helyi szerv, valamint a rendvédelmi technikumok.
 
 [^2]: A 2. § 7. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A 2. § 9. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja, a 20/2019. (V. 15.) BM rendelet 11. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § 10a. pontját a 29/2017. (XI. 6.) BM rendelet 1. §-a iktatta be.
 [^5]: A 2. § 12. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^6]: A 2. § 13. pontja a 29/2016. (VII. 15.) BM rendelet 45. § b) pontja szerint módosított szöveg.
-[^7]: A 2. § 17. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 14. pont f) alpontja a 6/2022. (IV. 14.) BM rendelet 9. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § 17. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.

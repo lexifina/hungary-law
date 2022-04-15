@@ -1,4 +1,4 @@
-3. melléklet a 14/2016. (V. 10.) BM rendelethez[^46]
+3. melléklet a 14/2016. (V. 10.) BM rendelethez[^70]
 
 ## A Terrorelhárítási Központ hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -40,109 +40,105 @@
 
 | 17 | Szolgálati nyakkendő, biztonsági, sötétkék | db | 1 |  |  |  |  |  |  |
 
-| 18 | 3. gyakorló ruházat/TEK | Gyakorló zubbony multicam/TEK | db |  |  | 1 |  |  |  | 1 |
+| 18 | 3. gyakorló ruházat/TEK | Gyakorló zubbony/TEK | db |  |  | 2 |  |  |  | 1 |
 
-| 19 | Gyakorló nadrág multicam/TEK | db |  |  | 1 |  |  |  | 1 |
+| 19 | Gyakorló nadrág/TEK | db |  |  | 2 |  |  |  | 1 |
 
-| 20 | Hadi gyakorló felső fekete/TEK | db |  |  | 1 |  |  |  | 1 |
+| 20 | Hadi gyakorló felső/TEK | db |  |  | 1 |  |  |  | 1 |
 
 | 21 | Bevetési bakancs/TEK | pár |  |  | 1 |  |  | 1 | 1 |
 
 | 22 | Téli bakancs/TEK | pár |  |  | 1 |  | 1 |  | 1 |
 
-| 23 | Gyakorló zubbony fekete/TEK | db |  |  | 1 |  |  |  | 1 |
+| 23 | Gyakorló zubbony OPC/TEK | db |  |  |  | 2 | 2 | 1 |  |
 
-| 24 | Gyakorló nadrág fekete/TEK | db |  |  | 1 |  |  |  | 1 |
+| 24 | Gyakorló nadrág OPC/TEK | db |  |  |  | 2 | 2 | 1 |  |
 
-| 25 | Gyakorló zubbony Urban digit/TEK | db |  |  |  | 2 | 2 | 1 |  |
+| 25 | Póló fekete/TEK | db |  |  | 2 | 2 | 2 |  | 2 |
 
-| 26 | Gyakorló nadrág Urban digit/TEK | db |  |  |  | 2 | 2 | 1 |  |
+| 26 | Póló barna/TEK | db |  |  | 4 |  |  |  | 4 |
 
-| 27 | Póló fekete/TEK | db |  |  | 2 | 2 | 2 |  | 2 |
+| 27 | Póló galléros fehér/TEK | db | 2 |  |  |  | 2 |  |  |
 
-| 28 | Póló barna/TEK | db |  |  | 4 |  |  |  | 4 |
+| 28 | Póló galléros fekete/TEK | db |  |  |  | 2 | 2 | 1 |  |
 
-| 29 | Póló galléros fehér/TEK | db | 2 |  |  |  | 2 |  |  |
+| 29 | Polár pulóver fekete/TEK | db |  |  | 1 |  | 1 |  | 1 |
 
-| 30 | Póló galléros fekete/TEK | db |  |  |  | 2 | 2 | 1 |  |
+| 30 | 4. társasági/ ünnepi ruházat | 17M társasági zubbony, sötétkék, szerelve*/17M társasági kosztümkabát, sötétkék, szerelve* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 31 | Polár pulóver fekete/TEK | db |  |  | 1 |  | 1 |  | 1 |
+| 31 | 17M társasági pantalló, férfi, sötétkék*/17M társasági pantalló, női, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 31a | 3a. társasági/ ünnepi ruházat | 17M társasági zubbony, sötétkék, szerelve*/17M társasági kosztümkabát, sötétkék, szerelve* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 32 | 17M társasági szoknya, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 31b | 17M társasági pantalló, férfi, sötétkék*/17M társasági pantalló, női, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 33 | 12M e. r. szolgálati ing/blúz, rövid ujjú, fehér* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 31c | 17M társasági szoknya, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 34 | 12M e. r. szolgálati ing/blúz, hosszú ujjú, fehér* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 31d | 12M e. r. szolgálati ing/blúz, rövid ujjú, fehér* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 35 | 5. ruházati kiegészítők | 3in1 fekete parka kabát/TEK** | db |  |  | 1 | 1 | 1 | 1 | 1 |
 
-| 31e | 12M e. r. szolgálati ing/blúz, hosszú ujjú, fehér* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 36 | Hosszú ujjú téli aláöltözet felső/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 32 | 4. ruházati kiegészítők | 3in1 fekete parka kabát/TEK** | db |  |  | 1 | 1 | 1 | 1 | 1 |
+| 37 | Téli aláöltözet alsó/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 33 | Hosszú ujjú téli aláöltözet felső/TEK | db |  |  | 1 |  |  |  | 1 |
+| 38 | Thermo aláöltözet alsó/TEK | db |  |  |  | 1 | 2 |  |  |
 
-| 34 | Téli aláöltözet alsó/TEK | db |  |  | 1 |  |  |  | 1 |
+| 39 | Thermo aláöltözet felső/TEK | db |  |  |  | 2 | 2 |  |  |
 
-| 35 | Thermo aláöltözet alsó/TEK | db |  |  |  | 1 | 2 |  |  |
+| 40 | Barett sapka | db |  |  | 1 | 1 | 1 |  | 1 |
 
-| 36 | Thermo aláöltözet felső/TEK | db |  |  |  | 2 | 2 |  |  |
+| 41 | Téli sapka | db |  |  |  | 1 | 1 |  |  |
 
-| 37 | Barett sapka | db |  |  | 1 | 1 | 1 |  | 1 |
+| 42 | Nyári sapka multicam/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 38 | Téli sapka | db |  |  |  | 1 | 1 |  |  |
+| 43 | 12M e. r. taktikai öv | klt | 1 |  |  |  |  |  |  |
 
-| 39 | Nyári sapka multicam/TEK | db |  |  | 1 |  |  |  | 1 |
+| 44 | Fekete maszk/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 40 | 12M e. r. taktikai öv | klt | 1 |  |  |  |  |  |  |
+| 45 | Fekete maszk hosszú nyakkal/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 41 | Fekete maszk/TEK | db |  |  | 1 |  |  |  | 1 |
+| 46 | Fekete polár sapka/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 42 | Fekete maszk hosszú nyakkal/TEK | db |  |  | 1 |  |  |  | 1 |
+| 47 | Csősál fekete | db |  |  |  |  | 1 |  |  |
 
-| 43 | Fekete polár sapka/TEK | db |  |  | 1 |  |  |  | 1 |
+| 48 | Téli kesztyű/TEK | pár |  |  | 1 | 1 | 1 |  | 1 |
 
-| 44 | Csősál fekete | db |  |  |  |  | 1 |  |  |
+| 49 | Esővédő felső/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 45 | Téli kesztyű/TEK | pár |  |  | 1 | 1 | 1 |  | 1 |
+| 50 | Esővédő nadrág/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 46 | Esővédő felső fekete/TEK | db |  |  | 1 |  |  |  | 1 |
+| 51 | Esővédő felső/TEK | db |  |  |  |  | 1 |  |  |
 
-| 47 | Esővédő nadrág fekete/TEK | db |  |  | 1 |  |  |  | 1 |
+| 52 | Esővédő nadrág/TEK | db |  |  |  |  | 1 |  |  |
 
-| 48 | Esővédő felső/TEK | db |  |  |  |  | 1 |  |  |
+| 53 | Esőkabát fekete/TEK | db |  |  |  | 1 |  |  |  |
 
-| 49 | Esővédő nadrág/TEK | db |  |  |  |  | 1 |  |  |
+| 54 | Széldzseki/TEK | db |  |  |  |  |  | 1 |  |
 
-| 50 | Esőkabát fekete/TEK | db |  |  |  | 1 |  |  |  |
+| 55 | 17M társasági tányérsapka, sötétkék, szerelve*/17M társasági női kalap, sötétkék, szerelve* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 51 | Széldzseki/TEK | db |  |  |  |  |  | 1 |  |
+| 56 | 17M társasági nadrágszíj, fekete* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 51a | 17M társasági tányérsapka, sötétkék, szerelve*/ 17M társasági női kalap, sötétkék, szerelve* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 57 | 17M társasági nyakkendő* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 51b | 17M társasági nadrágszíj, fekete* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 58 | Névkitűző, fém* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 51c | 17M társasági nyakkendő* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 59 | 6. ékítmények | Karjelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 51d | Névkitűző, fém* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 60 | Hát felirat | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 52 | 5. ékítmények | Karjelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 61 | Mell felirat | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 53 | Hát felirat | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
+| 62 | Hímzett váll-lap, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 54 | Mell felirat | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
+| 63 | Sapkarózsa | db |  |  | 1 |  | 1 |  | 1 |
 
-| 54a | Hímzett váll-lap, sötétkék* | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 64 | 7. személyi felszerelés | Fekete málhazsák/TEK | db |  |  | 1 |  |  |  | 1 |
 
-| 55 | Sapkarózsa | db |  |  | 1 |  | 1 |  | 1 |
+| 65 | Oldaltáska/TEK | db |  |  |  | 1 |  |  |  |
 
-| 56 | 6. személyi felszerelés | Fekete málhazsák/TEK | db |  |  | 1 |  |  |  | 1 |
+| 66 | Kézi táska/TEK | db |  |  |  |  | 1 |  |  |
 
-| 57 | Oldaltáska/TEK | db |  |  |  | 1 |  |  |  |
-
-| 58 | Kézi táska/TEK | db |  |  |  |  | 1 |  |  |
-
-| 59 | 7. Költség- térítés | Lábbeli-költségtérítés*** | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 67 | 8. költség- térítés | Lábbeli-költségtérítés*** | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
 a) Megjegyzés:
 
@@ -264,23 +260,23 @@ bg) P6: Polgári ruhás alapellátási norma az a Személyvédelmi Igazgatóság
 
 | 3 | Bakancs fekete színű/TEK | pár | 1 |
 
-| 4 | Póló khaki/silver tan színű galléros/TEK | db | 3 |
+| 4 | Póló fekete/silver tan színű galléros/TEK | db | 3 |
 
 | 5 | Nadrág tundra színű/TEK | db | 3 |
 
 | 6 | Ing hosszú ujjú khaki színű/TEK | db | 2 |
 
-| 7 | Derékszíj fekete színű/TEK | db | 1 |
+| 7 | Derékszíj/TEK | db | 1 |
 
-| 8 | Kabát parka, tundra színű/TEK | db | 1 |
+| 8 | Kabát parka/TEK | db | 1 |
 
-2.5. Az Ügyeleti és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály Gépjármű Indító Osztály, valamint Támogató Osztály állományának speciális szolgálati egyenruházata
+2.5. Az Ügyeleti és Objektumvédelmi Igazgatóság Ügyeleti Főosztály, Objektumvédelmi Főosztály Gépjármű Indító Osztály, valamint Támogató Osztály állományának speciális szolgálati egyenruházata
 
 |  | A | B | C |
 
 | 1 | termék megnevezése | menny. egység | mennyiség |
 
-| 2 | Félcipő/TEK Ügyelet | pár | 1 |
+| 2 | Félcipő/TEK | pár | 1 |
 
 2.6. A Terrorelhárítási Központ állományának sportruházati személyi felszerelése
 
@@ -354,4 +350,4 @@ a) Megjegyzés:
 
 | 4 | Öltönyzsák | db |  |  |  | 10 |  |  |  |
 
-[^46]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése, a 29/2019. (VII. 17.) BM rendelet 1. § b) pontja, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+[^70]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése, a 29/2019. (VII. 17.) BM rendelet 1. § b) pontja, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (2) bekezdése szerint módosított szöveg.

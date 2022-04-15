@@ -1,3 +1,3 @@
-1. melléklet a 14/2016. (V. 10.) BM rendelethez[^44]
+1. melléklet a 14/2016. (V. 10.) BM rendelethez[^68]
 
-[^44]: Az 1. melléklet a 29/2017. (XI. 6.) BM rendelet 12. § j) pontja szerint módosított szöveg.
+[^68]: Az 1. melléklet a 29/2017. (XI. 6.) BM rendelet 12. § j) pontja szerint módosított szöveg.

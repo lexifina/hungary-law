@@ -10,7 +10,7 @@ c) köteles a ruházatát mindenkor olyan állapotban tartani és úgy öltözk�
 
 d) felelős a részére előírt ruházati termékek méretállásának besorolásáért,
 
-e)[^15] köteles a ruházati nyilvántartó programban
+e)[^19] köteles a ruházati nyilvántartó programban
 
 ea) a ruházati méretállást és az abban bekövetkező változást haladéktalanul rögzíteni,
 
@@ -34,4 +34,4 @@ l) a használatra kiadott, valamint a részére biztosított ruházati termékek
 
 m) a hivatásos szolgálati jogviszony megszűnése esetén köteles a ruházatát tiszta állapotban – az 51. §-ban foglaltak figyelembevételével – a szolgálati hely szerint illetékes ruházati szakszolgálat részére leadni.
 
-[^15]: A 9. § e) pontja a 29/2017. (XI. 6.) BM rendelet 5. §-ával megállapított szöveg.
+[^19]: A 9. § e) pontja a 29/2017. (XI. 6.) BM rendelet 5. §-ával megállapított szöveg.
