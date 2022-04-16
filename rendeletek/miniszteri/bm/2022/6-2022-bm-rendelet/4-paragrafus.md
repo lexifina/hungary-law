@@ -1,9 +1,3 @@
-## 3. § A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „(1) Attól, akinek a hivatásos szolgálati jogviszonya megszűnt, a ruházati termékeket és a felszerelési cikkeket – a névkitűzők, sapkák, ingek, blúzok, sálak, nyakkendők, téli ingek, téli alsók, lábbelik, kesztyűk és zoknik kivételével –, valamint a speciális szolgálati egyenruházatot azonnali hatállyal be kell vonni, és azt az állomány további ellátására kell felhasználni. A ruházati elszámolást a hivatásos szolgálati jogviszony megszűnésekor hatályos ruházati normatáblázat, valamint a ruházati ellátási norma két éven belüli változásainak figyelembevételével kell végrehajtani.”
-
-4. § (1) A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 34. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Az elhalálozott igényjogosult használatában volt egyéni védőfelszerelést be kell vonni, hiánya esetén – az önálló szerv kárviselését kimondva – jegyzőkönyvet kell felvenni.”
-
-(2) A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 34. §-a a következő (5) bekezdéssel egészül ki:
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
