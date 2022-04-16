@@ -34,11 +34,11 @@
 
 ## 7. Ez a határozat a közzétételét követő napon lép hatályba, és 2024. január 1-jén hatályát veszti.
 
-## 8. Hatályát veszti az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégiáról, valamint annak végrehajtását szolgáló, 2020–2021 közötti időszakban végrehajtandó intézkedési tervről szóló 1046/2020. (II. 18.) Korm. határozat 4. és 5. pontja.
+## 8.[^2]
 
 1. melléklet az 1228/2022. (IV. 14.) Korm. határozathoz
 
-## Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia végrehajtását szolgáló, 2022–2023 közötti időszakban végrehajtandó intézkedési terv
+Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia végrehajtását szolgáló, 2022–2023 közötti időszakban végrehajtandó intézkedési terv
 
 I. Megelőzés
 
@@ -727,3 +727,5 @@ IV.5. Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővít�
 | E | Indikátor | közös nyomozócsoportok, tanulmányutak száma |
 
 | F | Forrás | hazai és uniós költségvetés terhére megvalósítandó |
+
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
