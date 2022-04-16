@@ -204,6 +204,8 @@
 
 | 95. | Egykori Első Katonai Biztosító Intézet székházának elbontott építéskori toronyszerkezeteinek, tetőgeometriájának visszaállításával megvalósuló ingatlanfejlesztési beruházás | Budapest VII. kerület belterület, 34522 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^280]
+| 96. | Konferencia Központ létrehozása | Budapest I. kerület, belterület 6667 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^280]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^284]
+
+[^284]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

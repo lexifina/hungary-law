@@ -1,4 +1,4 @@
-## 93. §[^272] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 141/2022. (IV. 7.) Korm. rendelettel (a továbbiakban: Módr85.) megállapított 2. mellékletében foglalt táblázat 93. sorát a Módr85. hatálybalépésekor[^273] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 93. §[^274] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 141/2022. (IV. 7.) Korm. rendelettel (a továbbiakban: Módr85.) megállapított 2. mellékletében foglalt táblázat 93. sorát a Módr85. hatálybalépésekor[^275] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^272]: A 93. §-t a 141/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.
-[^273]: A hatálybalépés időpontja 2022. április 8.
+[^274]: A 93. §-t a 141/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.
+[^275]: A hatálybalépés időpontja 2022. április 8.

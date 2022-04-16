@@ -1,4 +1,4 @@
-5/C. §[^16] (1) A 2. mellékletben foglalt táblázat 90. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:90 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+5/C. §[^17] (1) A 2. mellékletben foglalt táblázat 90. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:90 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -66,4 +66,4 @@ b) az engedéllyel kivont és a hatályos jogszabályok szerint pótolt erdőter
 
 c) a telkeken megtalálható, a szabályozási tervlap által ex lege védett lápként feltüntetett területek körül a láp megóvásához szükséges mértékű, minimum 30 méter szélességű védőterületet kell kijelölni.
 
-[^16]: Az 5/C. §-t a 73/2022. (III. 2.) Korm. rendelet 5. §-a iktatta be.
+[^17]: Az 5/C. §-t a 73/2022. (III. 2.) Korm. rendelet 5. §-a iktatta be.
