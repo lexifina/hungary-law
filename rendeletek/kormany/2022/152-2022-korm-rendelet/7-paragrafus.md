@@ -1,1 +1,3 @@
-## 6. § Az R. 3. § (3) bekezdésében a „90. és 92. sora” szövegrész helyébe a „90., 92. és 95. sora” szöveg lép.
+## 1–6. §[^2]
+
+[^2]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
