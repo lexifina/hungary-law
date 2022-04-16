@@ -90,7 +90,7 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 42. | b) módosítása iránti kérelem elbírálása | 200 |
 
-| 43. | Engedélyes szétválásához, egyesüléséhez, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
+| 43. | Engedélyes szétválásához, egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
 
 | 44. | a) földgázszállító, szállítási rendszerüzemeltető esetében | 5 000 |
 
@@ -350,7 +350,7 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 71 | b) módosítása iránti kérelem elbírálása | 1 000 |
 
-| 72 | Engedélyes szétválásához, egyesüléséhez, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
+| 72 | Engedélyes szétválásához, egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
 
 | 73 | a) termelő esetében |  |
 
@@ -492,11 +492,11 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 140 | g) 50 MW-nál nagyobb erőművi névleges teljesítőképesség esetében | 1 000 |
 
-| 141 | Bejegyzési kérelem (Származási garancia kiállítására vonatkozó kérelem) elbírálása | 10 forint/MWh |
+| 141 | Származási garancia bejegyzésére vonatkozó kérelem elbírálása | 5 forint/MWh |
 
-| 142 | Külföldi származási garancia elismerésére irányuló kérelem elbírálása | 10 forint/MWh |
+| 142 | Külföldi származási garancia elismerésére irányuló kérelem elbírálása | 25 forint/MWh |
 
-| 143 | Származási garancia törlési kérelem elbírálása | 5 forint/MWh |
+| 143 |  |  |
 
 | 144 | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
 
@@ -507,8 +507,6 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 | 147 | Elektromos gépjármű töltésével kapcsolatos eljárások |  |
 
 | 148 | a) üzemeltetési engedély kiadására vonatkozó kérelem elbírálása | 500 |
-
-|  | b) módosítása az engedélyes személyében bekövetkező változás esetén | 100 |
 
 | 149 | a) elektromobilitás szolgáltatás nyilvántartásba vétele iránti kérelem | 100 |
 
@@ -522,7 +520,7 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 151 | a) összevont (létesítési és működési) engedély kiadására, a működés megszüntetésére, a működés szüneteltetésére irányuló kérelem elbírálása, és az engedély időbeli hatályának módosítása |  |
 
-| 152 | aa) 0,05–0,499 MW tárolói névleges teljesítőképesség esetében | 250 |
+| 152 |  |  |
 
 | 153 | ab) 0,5–4,99 MW tárolói névleges teljesítőképesség esetében | 500 |
 
@@ -630,7 +628,7 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 20 | b) egyéb esetben | az adott engedély kiadása díjának 20%-a, de legalább 100 |
 
-| 21 | Engedélyes szétválásához, egyesüléséhez; alaptőke, törzstőke leszállításához való előzetes hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
+| 21 | Engedélyes szétválásához, egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való előzetes hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
 
 | 22 | a) távhőtermelő esetében |  |
 
@@ -796,4 +794,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^28]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a szerint módosított szöveg.
+[^28]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a, a 2/2022. (III. 16.) MEKH rendelet 1. és 2. §-a szerint módosított szöveg.
