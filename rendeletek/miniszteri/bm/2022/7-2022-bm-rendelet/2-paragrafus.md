@@ -1,3 +1,3 @@
-## 1. § A nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet (a továbbiakban: BM rendelet) 7. §-a a következő (2a) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(2a) A (2) bekezdéstől eltérően a közszolgáltatások ellentételezését – ha a szükséges költségvetési forrás a 2. § (1) bekezdése szerinti megállapodás megkötését megelőzően a miniszter által vezetett minisztérium költségvetésében rendelkezésre áll – az 5. § (1) bekezdés a) pontja szerinti közszolgáltatási szerződés keretében történő igénybevétel esetén a miniszter által vezetett minisztérium a saját költségvetése terhére biztosítja.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
