@@ -1,0 +1,3 @@
+## 3. § Az R. a következő 96. §-sal egészül ki:
+
+## „96. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 153/2022. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr88.) módosított 3. § (3) bekezdését és megállapított 3. § (7) bekezdését, 5/G. §-át és 2. mellékletében foglalt táblázat 96. sorát a Módr88. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
