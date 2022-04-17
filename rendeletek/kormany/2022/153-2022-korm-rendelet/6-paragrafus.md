@@ -1,1 +1,3 @@
-## 5. § Az R. 3. § (3) bekezdésében a „92. és 95. sora” szövegrész helyébe a „92., 95. és 96. sora” szöveg lép.
+## 1–5. §[^2]
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
