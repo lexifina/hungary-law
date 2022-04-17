@@ -408,7 +408,7 @@
 
 | XI.18. |  |  |
 
-| XI.19. | Építésügyi hatósági engedélyezési eljárásban szakhatósági közreműködés | 8 700 Ft |
+| XI.19. |  |  |
 
 | XI.20. |  |  |
 
