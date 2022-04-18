@@ -1,3 +1,5 @@
-## 2. § Az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló 55/2014. (XII. 30.) EMMI rendelet (a továbbiakban: R2.) 1. melléklete a 2. melléklet szerint módosul.
+## 2. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
