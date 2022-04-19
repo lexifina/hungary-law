@@ -1,0 +1,1 @@
+## 4. § Az R1. 2. melléklet III. rész 23. Fejezet 23.08 cikk 1. pontjában az „az 5. mellékletben közölt minta szerinti” szövegrész helyébe az „a belvízi hajózási szakmai képesítések tekintetében alkalmazott mintákról szóló, 2020. január 14-i (EU) 2020/182 bizottsági végrehajtási rendelet V. melléklete szerinti mintának megfelelő” szöveg lép.
