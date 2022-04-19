@@ -82,7 +82,7 @@
 
 ## 4. oldal
 
-## A rajnai hatóságok bejegyzései a rajnai képesítési szabályoknak és a Szemleszabályzatnak megfelelő[^24] képesítésekről/ Qualification du titulaire conformément à l'article 3.02 du Règlement relatif au personnel de la navigation sur le Rhin/Befähigung des Inhabers nach § 3.02 der Verordnung über das Schiffspersonal auf dem Rhein/Bekwaamheid van de houder als bedoeld in artikel 3.02 van het Reglement betreffende het scheepvaartpersoneel op de Rijn
+## A rajnai hatóságok bejegyzései a rajnai képesítési szabályoknak és a Szemleszabályzatnak megfelelő[^36] képesítésekről/ Qualification du titulaire conformément à l'article 3.02 du Règlement relatif au personnel de la navigation sur le Rhin/Befähigung des Inhabers nach § 3.02 der Verordnung über das Schiffspersonal auf dem Rhein/Bekwaamheid van de houder als bedoeld in artikel 3.02 van het Reglement betreffende het scheepvaartpersoneel op de Rijn
 
 | Qualification/als/képesítés: ________________ à compter du (date) ab dem (Datum): _________________ vanaf (datum)/a képesítés megszerzésének időpontja Cachet, date et signature de l'autorité/ Stempel, Datum und Unterschrift der Behörde/Stempel, datum en onder-tekening door de autoriteit/ a kiállító hatóság aláírása, pecsét: | Qualification/als/képesítés: ________________ à compter du (date) ab dem (Datum): _________________ vanaf (datum)/a képesítés megszerzésének időpontja Cachet, date et signature de l'autorité/ Stempel, Datum und Unterschrift der Behörde/Stempel, datum en onder-tekening door de autoriteit/ a kiállító hatóság aláírása, pecsét: |
 
@@ -270,7 +270,7 @@
 
 ## a 103. oldaltól a 106. oldalig
 
-2. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez[^25]
+2. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez[^37]
 
-[^24]: a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló 13/2001. (IV. 10.) KöViM rendelet melléklete
-[^25]: A 2. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 40. § b) pontja, f)–i) pontja, a 91/2011. (XII. 30.) NFM rendelet 31. §-a, a 94/2011. (XII. 30.) NFM rendelet 9. § (2) bekezdése és 10. §-a szerint módosított szöveg.
+[^36]: a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló 13/2001. (IV. 10.) KöViM rendelet melléklete
+[^37]: A 2. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 40. § b) pontja, f)–i) pontja, a 91/2011. (XII. 30.) NFM rendelet 31. §-a, a 94/2011. (XII. 30.) NFM rendelet 9. § (2) bekezdése és 10. §-a szerint módosított szöveg.

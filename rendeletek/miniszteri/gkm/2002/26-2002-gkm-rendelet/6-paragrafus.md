@@ -1,12 +1,13 @@
-## 5. § A szolgálati könyv adatait, valamint a kiadott szolgálati könyveket a kiadó hajózási hatóság tartja nyilván.
+## 5. §[^15] A szolgálati könyv adatait, a vizsgaközpont a hajózási hatóság nyilvántartásába bejegyzi.
 
 ## Bejegyzés a szolgálati könyvbe, a szolgálati könyv
 
 ## kezelése
 
-6. § (1)[^13] A szolgálati könyvbe – amennyiben nemzetközi szerződés vagy nemzetközi igazgatási megállapodás eltérően nem rendelkezik – a (2) bekezdésben foglalt kivételtől eltekintve bejegyzéseket a hajózási hatóság vagy hajózási hatósági jogkörben eljárva a konzuli tisztviselő tehet. Tengerész szolgálati könyvbe az egészségi alkalmasság igazolását a vizsgáló orvos jegyzi be.
+6. § (1)[^16] A szolgálati könyvbe – amennyiben nemzetközi szerződés vagy nemzetközi igazgatási megállapodás eltérően nem rendelkezik – a (2) bekezdésben foglalt kivételtől eltekintve bejegyzéseket a vizsgaközpont vagy hajózási hatósági jogkörben eljárva a konzuli tisztviselő tehet. Tengerész szolgálati könyvbe az egészségi alkalmasság igazolását a vizsgáló orvos jegyzi be.
 
-(2)[^14] A be-, és kihajózások adatait, továbbá a szolgálati időt és megtett utakat a szolgálati könyvbe az úszólétesítmény vezetője jegyzi be.
+(2)[^17] A be-, és kihajózások adatait, továbbá a szolgálati időt és megtett utakat a szolgálati könyvbe az úszólétesítmény vezetője jegyzi be.
 
-[^13]: A 6. § (1) bekezdése a 94/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított szöveg.
-[^14]: A 6. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^15]: Az 5. § a 13/2022. (IV. 14.) ITM rendelet 23. §-ával megállapított szöveg.
+[^16]: A 6. § (1) bekezdése a 94/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított, a 13/2022. (IV. 14.) ITM rendelet 29. § (5) bekezdése szerint módosított szöveg.
+[^17]: A 6. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 10. § (1) bekezdése szerint módosított szöveg.
