@@ -26,15 +26,17 @@ bd) 70. életévét betöltötte, 2 évenként
 
 (3) A kedvtelési célú vízijárművet vezető személy – az I. és II. osztályú tengeri kedvtelési célú vízijármű-vezetők kivételével – egészségi alkalmasságának megállapítása a gépjármű-vezetői egészségi alkalmassági vizsgálattal egyidejűleg is érvényesíthető.
 
-(4) Belvízi úszólétesítményen fedélzeti szolgálatot, gépüzemi szolgálatot vagy segédszolgálatot teljesítő személynél az egészségi alkalmasság vizsgálatát:
+(4)[^6] Belvízi úszólétesítményen fedélzeti szolgálatot, gépüzemi szolgálatot vagy segédszolgálatot teljesítő személy egészségi alkalmasságát
 
-a)[^6]
+a) hivatásos hajós képesítések esetén a hivatásos hajós képesítésekről szóló miniszteri rendelet 18. §-a szerint;
 
-b) ötvenedik életévének betöltése után háromévenként,
+b) az a) pontban nem szabályozott képesítések tekintetében
 
-c) hatvanötödik életévének betöltésekor, majd azt követően évenként
+bb) hatvanadik életévének betöltése után ötévenként,
 
-## kell végezni.
+bc) hetvenedik életévének betöltésekor, majd azt követően kétévenként
+
+## kell igazolni.
 
 (5) Tengeri hajón hajózási szolgálatot teljesítő személynél az egészségi alkalmasságot
 
@@ -57,8 +59,8 @@ b) hatvanadik életévének betöltése után évenként
 (10)[^10]
 
 [^5]: A 4. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 11. §-ával megállapított szöveg.
-[^6]: A 4. § (4) bekezdés a) pontját a 66/2015. (XI. 18.) NFM rendelet 12. §-a hatályon kívül helyezte.
+[^6]: A 4. § (4) bekezdése a 13/2022. (IV. 14.) ITM rendelet 16. §-ával megállapított szöveg.
 [^7]: A 4. § (7a) bekezdését az 58/2016. (XII. 23.) NFM rendelet 7. §-a iktatta be.
-[^8]: A 4. § (8) bekezdését a 12/2021. (III. 5.) ITM rendelet 9. § a) pontja hatályon kívül helyezte.
+[^8]: A 4. § (8) bekezdését a 12/2021. (III. 5.) ITM rendelet 9. § a) pontja hatályon kívül helyezte. [A 13/2022. (IV. 14.) ITM rendelet 17. §-ával elrendelet módosítás nem vezethető át.]
 [^9]: A 4. § (9) bekezdését a 12/2021. (III. 5.) ITM rendelet 9. § a) pontja hatályon kívül helyezte.
 [^10]: A 4. § (10) bekezdését a 12/2021. (III. 5.) ITM rendelet 9. § a) pontja hatályon kívül helyezte.

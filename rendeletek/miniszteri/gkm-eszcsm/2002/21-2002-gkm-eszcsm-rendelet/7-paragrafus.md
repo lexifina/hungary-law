@@ -26,34 +26,31 @@ h)[^20] egyéb szolgálatra
 
 (3)[^21] Hajózási szolgálatot ellátó személy esetében a vizsgálat eredményéről a vizsgálatot végző orvos
 
-a) orvosi igazolást (1. számú melléklet),
+a) az 1. számú melléklet VI. pontja szerinti orvosi igazolást állít ki, amelyet a szolgálat ellátása alatt a hajózási szolgálatot ellátó személy magánál tart,
 
-b)[^22] belvízi nagyhajó vezetésére jogosító képesítéssel rendelkező személy részére magyar és német nyelven „Belvízi nagyhajó vezetésére való alkalmasságról szóló orvosi bizonyítvány”-t (4. számú melléklet), vagy
+b) tengeri hajózási szolgálatot ellátó személy részére magyar és angol nyelven az 5. számú melléklet szerinti Tengerész szolgálati egészségi bizonyítványt állít ki,
 
-c)[^23] tengeri hajózási szolgálatot ellátó személy részére magyar és angol nyelven „Tengerész szolgálati egészségi bizonyítvány”-t (5. számú melléklet)
+c) ha egészségügyi alkalmatlanságot állapít meg, arról értesíti a hajózási hatóságot.
 
-## állít ki.
+(4)[^22] A vizsgálat eredményét – az 5. § (3) bekezdésében említett vizsgálat esetét kivéve –
 
-(4)[^24] A vizsgálat eredményét – az 5. § (3) bekezdésében említett vizsgálat esetét kivéve –
-
-a) a hajós szolgálati könyvbe az orvosi igazolás vagy a „Belvízi nagyhajó vezetésére való alkalmasságról szóló orvosi bizonyítvány” alapján a hajózási hatóság,
+a)[^23]
 
 b) a tengerész szolgálati könyvbe a vizsgálatot végző orvos,
 
-c)[^25]
+c)[^24]
 
 ## jegyzi be.
 
-(5)[^26] Azon személy esetében, aki még nem rendelkezik szolgálati könyvvel vagy képesítő okmánnyal, az orvosi igazolások alapján a szolgálati könyvet kiállító hajózási hatóság végzi el a bejegyzést.
+(5)[^25] Aki még nem rendelkezik tengerész szolgálati könyvvel, kérelmére az orvosi igazolások alapján a szolgálati könyvet kiállító vizsgaközpont a szolgálati könyv kiadásával igazolja az egészségi alkalmasságot, valamint azoknál a szolgálati könyveknél, ahol bejegyezhető, ott rögzíti azt.
 
-(6)[^27] A kedvtelési célú vízijármű vezetésére jogosító kártyaformátumú képesítő okmány érvényessége az egészségi alkalmassági időtartamtól függ.
+(6)[^26] A kedvtelési célú vízijármű vezetésére jogosító kártyaformátumú képesítő okmány érvényessége az egészségi alkalmassági időtartamtól függ.
 
 [^19]: A 6/C. §-t a 23/2015. (V. 8.) NFM rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 12/2021. (III. 5.) ITM rendelet 9. § b) pontja.
 [^20]: A 7. § (1) bekezdés h) pontját a 23/2015. (V. 8.) NFM rendelet 13. §-a iktatta be.
-[^21]: A 7. § (3) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^22]: A 7. § (3) bekezdés b) pontja a 29/2014. (V. 5.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
-[^23]: A 7. § (3) bekezdés c) pontja a 29/2014. (V. 5.) NFM rendelet 21. § b) pontja, a 23/2015. (V. 8.) NFM rendelet 17. § a) pontja szerint módosított szöveg.
-[^24]: A 7. § (4) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^25]: A 7. § (4) bekezdés c) pontját a 46/2021. (IX. 13.) ITM rendelet 18. §-a hatályon kívül helyezte.
-[^26]: A 7. § (5) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^27]: A 7. § (6) bekezdését a 94/2011. (XII. 30.) NFM rendelet 13. § (2) bekezdése iktatta be.
+[^21]: A 7. § (3) bekezdése a 13/2022. (IV. 14.) ITM rendelet 18. §-ával megállapított szöveg.
+[^22]: A 7. § (4) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^23]: A 7. § (4) bekezdés a) pontját a 13/2022. (IV. 14.) ITM rendelet 22. § a) pontja hatályon kívül helyezte.
+[^24]: A 7. § (4) bekezdés c) pontját a 46/2021. (IX. 13.) ITM rendelet 18. §-a hatályon kívül helyezte.
+[^25]: A 7. § (5) bekezdése a 13/2022. (IV. 14.) ITM rendelet 19. §-ával megállapított szöveg.
+[^26]: A 7. § (6) bekezdését a 94/2011. (XII. 30.) NFM rendelet 13. § (2) bekezdése iktatta be.
