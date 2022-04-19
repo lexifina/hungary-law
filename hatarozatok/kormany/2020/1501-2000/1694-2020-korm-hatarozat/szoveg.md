@@ -24,58 +24,37 @@ igazságügyi miniszter
 
 Határidő: a felmerülés ütemében
 
-5. az 1. pontban meghatározott célok megvalósítása érdekében felhívja a pénzügyminisztert, hogy – az igazságügyi miniszter – bevonásával gondoskodjon
+5.[^2] az 1. pontban meghatározott célok megvalósítása érdekében felhívja a pénzügyminisztert, hogy – az igazságügyi miniszter bevonásával – gondoskodjon
 
-a) az Igazságügyi Minisztérium részére
-
-aa) a 2021. évben a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: 2021. évi Kvtv.) 1. melléklet X. Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára legfeljebb 104 882 060 forint,
-
-ab)[^2]
-
-ac)[^3]
-
-ad)[^4]
-
-ae)[^5]
-
-többletforrás biztosításáról,
+a) az Igazságügyi Minisztérium részére a 2021. évben a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: 2021. évi Kvtv.) 1. melléklet X. Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára legfeljebb 104 882 060 forint többletforrás biztosításáról,
 
 b) a Mádl Ferenc Összehasonlító Jogi Intézet részére
 
 ba) a 2021. évben a 2021. évi Kvtv. 1. melléklet X. Igazságügyi Minisztérium fejezet, 2. Mádl Ferenc Összehasonlító Jogi Intézet cím javára legfeljebb 803 509 180 forint,
 
-bb) a 2022. évben a központi költségvetés Igazságügyi Minisztérium fejezete, Mádl Ferenc Összehasonlító Jogi Intézet cím javára legfeljebb 886 987 589 forint,
+bb) a 2022. évben a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet X. Igazságügyi Minisztérium fejezet, 2. Mádl Ferenc Összehasonlító Jogi Intézet cím javára 25 241 000 forint
 
-bc) a 2023. évben a központi költségvetés Igazságügyi Minisztérium fejezete, Mádl Ferenc Összehasonlító Jogi Intézet cím javára legfeljebb 936 718 814 forint,
-
-bd) a 2024. évben a központi költségvetés Igazságügyi Minisztérium fejezete, Mádl Ferenc Összehasonlító Jogi Intézet cím javára legfeljebb 986 450 039 forint,
-
-be) a 2025. évben a központi költségvetés Igazságügyi Minisztérium fejezete, Mádl Ferenc Összehasonlító Jogi Intézet cím javára legfeljebb 1 014 468 539 forint
-
-többletforrás biztosításáról;
+többletforrás biztosításáról.
 
 Felelős: pénzügyminiszter
 
 igazságügyi miniszter
 
-Határidő: az aa) és a ba) alpontok tekintetében a 2021. évi központi költségvetés végrehajtása során a felmerülés ütemében
+Határidő: az a) alpont és a b) alpont ba) pontja tekintetében a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-az ab)–ae) alpontok, valamint a bb)–be) alpontok tekintetében az adott évi központi költségvetés tervezése során
+a b) alpont bb) pontja tekintetében azonnal
 
-6.[^6]
+6.[^3]
 
-7.[^7]
+7.[^4]
 
-8.[^8]
+8.[^5]
 
-9.[^9]
+9.[^6]
 
 [^1]: A 2. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
-[^2]: Az 5. pont ab) alpontját az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
-[^3]: Az 5. pont ac) alpontját az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
-[^4]: Az 5. pont ad) alpontját az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
-[^5]: Az 5. pont ae) alpontját az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
-[^6]: A 6. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
-[^7]: A 7. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
-[^8]: A 8. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
-[^9]: A 9. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^2]: Az 5. pont az 1233/2022. (IV. 19.) Korm. határozattal megállapított szöveg.
+[^3]: A 6. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^4]: A 7. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^5]: A 8. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^6]: A 9. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
