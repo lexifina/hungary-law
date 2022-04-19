@@ -24,22 +24,23 @@ c) a tengeri, partmenti vagy halászhajózásban 250 nap gyakorlati idő számí
 
 d) a hajó karbantartási, telelési és várakozási ideje 60 nap időtartamig szolgálatban töltött időnek számít,
 
-e) úszómunkagép-vezető vizsgánál a gyakorlati időbe be kell számítani az úszómunkagép munkavégzési és a munkaterületre beállási és kiállási, valamint az úszómunkagép különböző módjai közti átállási és javítási időszakának tartamát.
+e)[^38]
 
-(5)[^38] Az 1994. június 1-jét követően szerzett belvízi vagy tengeri hajózási gyakorlatot a hajós szolgálati könyvvel, tengerész szolgálati könyvvel vagy azok kivonataival kell igazolni. A hajós szolgálati könyvben és a tengerész szolgálati könyvben a hivatásos és a szolgálati célú gyakorlatra vonatkozó bejegyzés akkor tekinthető igazoltnak, ha azt a hajós és tengerész szolgálati könyvről szóló miniszteri rendeletben meghatározott hajózási hatóság hitelesítette.
+(5)[^39] A hajós szolgálati könyvben és a tengerész szolgálati könyvben a szolgálati időkre és utakra, gyakorlatra vonatkozó bejegyzés akkor tekinthető igazoltnak, ha azt a hajózási hatóság nyilvántartásába bevezették.
 
-(5a)[^39] A tengerész képesítések megszerzéséhez és a tengerész képesítő okmányok meghosszabbításához előírt gyakorlatot az STCW Egyezmény szerinti tengeri hajón kell teljesíteni.
+(5a)[^40] A tengerész képesítések megszerzéséhez és a tengerész képesítő okmányok meghosszabbításához előírt gyakorlatot az STCW Egyezmény szerinti tengeri hajón kell teljesíteni.
 
-(6)[^40] A belvízi kedvtelési célú kishajó-vezetői elméleti vizsgára bocsátás feltétele a betöltött 17. életév.
+(6)[^41] A belvízi kedvtelési célú kishajó-vezetői elméleti vizsgára bocsátás feltétele a betöltött 17. életév.
 
-(7)[^41] A vizsgát a vizsgára való jelentkezés benyújtásától számított 12 hónapon belül meg kell kezdeni.
+(7)[^42] A vizsgát a vizsgára való jelentkezés benyújtásától számított 12 hónapon belül meg kell kezdeni.
 
-(8)[^42] Az iskolarendszerű hajózási szakképzés tanulója a vizsgaközponttól előrehozott részvizsgára bocsátását kérheti.
+(8)[^43]
 
 [^36]: Az 5. § (1) bekezdése a 45/2019. (XII. 20.) ITM rendelet 5. §-ával megállapított szöveg.
 [^37]: Az 5. § (4) bekezdése a 42/2013. (VII. 19.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^38]: Az 5. § (5) bekezdését a 3/2008. (VI. 3.) KHEM rendelet 4. § (2) bekezdése iktatta be, szövege a 42/2013. (VII. 19.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^39]: Az 5. § (5a) bekezdését a 23/2015. (V. 8.) NFM rendelet 2. §-a iktatta be.
-[^40]: Az 5. § (6) bekezdését a 42/2013. (VII. 19.) NFM rendelet 1. § (3) bekezdése iktatta be.
-[^41]: Az 5. § (7) bekezdését a 29/2014. (V. 5.) NFM rendelet 15. §-a iktatta be.
-[^42]: Az 5. § (8) bekezdését a 29/2014. (V. 5.) NFM rendelet 15. §-a iktatta be, szövege a 45/2019. (XII. 20.) ITM rendelet 10. §-a, a 15/2021. (IV. 9.) ITM rendelet 6. § c) pontja szerint módosított szöveg.
+[^38]: Az 5. § (4) bekezdés e) pontját a 13/2022. (IV. 14.) ITM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^39]: Az 5. § (5) bekezdését a 3/2008. (VI. 3.) KHEM rendelet 4. § (2) bekezdése iktatta be, szövege a 13/2022. (IV. 14.) ITM rendelet 7. §-ával megállapított szöveg.
+[^40]: Az 5. § (5a) bekezdését a 23/2015. (V. 8.) NFM rendelet 2. §-a iktatta be.
+[^41]: Az 5. § (6) bekezdését a 42/2013. (VII. 19.) NFM rendelet 1. § (3) bekezdése iktatta be.
+[^42]: Az 5. § (7) bekezdését a 29/2014. (V. 5.) NFM rendelet 15. §-a iktatta be.
+[^43]: Az 5. § (8) bekezdését a 29/2014. (V. 5.) NFM rendelet 15. §-a iktatta be, hatályon kívül helyezte a 13/2022. (IV. 14.) ITM rendelet 12. § b) pontja.

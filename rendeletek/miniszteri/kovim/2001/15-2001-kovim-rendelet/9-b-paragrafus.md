@@ -1,4 +1,4 @@
-9/B. §[^64] (1) A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 3. § (1) bekezdése alapján a hajózási hatóság által honosított képesítés alapján a vizsgaközpont a kérelmező részére magyar képesítő okmányt állít ki.
+9/B. §[^65] (1) A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 3. § (1) bekezdése alapján a hajózási hatóság által honosított képesítés alapján a vizsgaközpont a kérelmező részére magyar képesítő okmányt állít ki.
 
 (2) A honosítás iránti kérelemhez csatolni kell a képesítést igazoló okmány, továbbá a tanulmányok és a vizsga tartalmáról tájékoztató okirat (különösen leckekönyv, tantárgyjegyzék, vizsgakivonat) hiteles fordítását, valamint a képesítés megszerzéséhez előírt gyakorlati idő meglétének és a képesítéshez előírt egészségi alkalmasságnak igazolását.
 
@@ -6,4 +6,4 @@
 
 (4) A honosított és a vizsgaközpontnál sikerrel teljesített különbözeti vizsga alapján szerzett képesítésről és a vizsgaközpont által kiállított képesítő okmány adatairól a hajózási hatóság nyilvántartást vezet.
 
-[^64]: A 9/B. §-t a 46/2021. (IX. 13.) ITM rendelet 9. §-a iktatta be.
+[^65]: A 9/B. §-t a 46/2021. (IX. 13.) ITM rendelet 9. §-a iktatta be.

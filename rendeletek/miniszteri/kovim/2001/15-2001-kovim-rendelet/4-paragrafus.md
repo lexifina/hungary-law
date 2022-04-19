@@ -1,6 +1,6 @@
 ## Képzés és felkészülés hajózási képesítő vizsgára
 
-4. §[^25] (1)[^26] A vizsgára történő felkészülés szervezett képzés keretében vagy – ha jogszabály eltérően nem rendelkezik – egyénileg történhet. Hajó önálló vezetésére jogosító képesítés megszerzésére irányuló vizsgára való felkészülés 2009. január 1-jétől csak jóváhagyott képzés keretében történhet. Jóváhagyott képzés elvégzése alól felmentést kaphat az a jelölt, aki – a hajózási hatóság által elismert iskolarendszerű képzés keretében – hajós szakmunkás, hajózási technikus, hajózási üzemmérnök vagy hajózási mérnök képesítést szerzett.
+4. §[^25] (1)[^26] A vizsgára történő felkészülés szervezett képzés keretében vagy ha jogszabály eltérően nem rendelkezik egyénileg történhet. Hajó önálló vezetésére jogosító képesítés megszerzésére irányuló vizsgára való felkészülés csak a hajózási hatóság által jóváhagyott képzés keretében történhet.
 
 (2)[^27] A vizsgára felkészítő szervezett képzést a hajózási hatóság az 1. számú mellékletben foglaltak alapján hagyja jóvá. A képzési engedély 5 évig hatályos.
 
@@ -31,7 +31,7 @@ c) szimulátor berendezés igénybevételével folytatott képzés esetén a sz�
 (10)[^35] A hajózási hatóság az engedélyező határozatban megjelöli azon vizsgatárgyakat és témaköröket, amelyek vizsgáira felkészítő képzésben az oktató részt vehet.
 
 [^25]: A 4. § a 3/2008. (VI. 3.) KHEM rendelet 3. §-ával megállapított szöveg.
-[^26]: A 4. § (1) bekezdés második mondata a 15/2008. (VII. 31.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^26]: A 4. § (1) bekezdése a 13/2022. (IV. 14.) ITM rendelet 6. §-ával megállapított szöveg.
 [^27]: A 4. § (2) bekezdése a 46/2021. (IX. 13.) ITM rendelet 4. §-ával megállapított szöveg.
 [^28]: A 4. § (3) bekezdése a 46/2021. (IX. 13.) ITM rendelet 4. §-ával megállapított szöveg.
 [^29]: A 4. § (4) bekezdése a 46/2021. (IX. 13.) ITM rendelet 16. § a) pontja szerint módosított szöveg.

@@ -108,197 +108,15 @@
 
 ## A tulajdonos aláírása / Unterschrift des Inhabers
 
-## 1.4. „A” kategóriájú belvízi hajóvezetői bizonyítvány
+## 1.4.[^304]
 
-## Első oldal
+## 1.5.[^305]
 
-## Belvízi hajóvezetői bizonyítvány / Schifferpatent für die Binnenschifffahrt / certificat de conduite de bateau de navigation interieure
+## 1.6.[^306]
 
-## Kiállító szervezet
+## 1.7.[^307]
 
-## Hátoldal
-
-## Hajóvezetői bizonyítvány belvízi áru- és személyszállításra / Schifferpatent für den Binnenschiffsgüter – und – Personenverkehr / certificat de conduite de bateau de navigation interieure pour le transport de marchandises et de personnes
-
-## 1. A tulajdonos családi neve / Name des Inhabers / Nom du titulaire
-
-## 2. Utóneve / Vorname / Prenom
-
-## 3. Születési idő és hely / Geburstdatum und ort / Dateetlieu de nasissance
-
-## 4. A bizonyítvány kiállításának kelte / Ausstellungsdatum des Patents – Date de L'issiue de certificate
-
-## 5. A kiállítás sorszáma – Ausstellungsnummer- Numero de delivrance
-
-## 6. A tulajdonos fényképe – Lichtbild des Inhabers – Photographie du titulaire
-
-## 7. A tulajdonos aláírása – Unterschrifts des Inhabers, Signature du titualire
-
-## 8. Minden víziút a Rajna kivételével – Alle Wasserstrasse auser dem Rhein – Toutes les voies d' eau sauf le Rhin
-
-## 9. R (Radar) – a hajó kategóriája, hordképessége (tonna, KW, utasszám – Klasse und Tragfähigkeit des Shiffes für die das Patent gilt – Categorie et capacite de bateau exlusive
-
-## 10. Érvényességi ideje – Verfalldatum – Date d 'expiration
-
-## 11. Megjegyzések – Vermek(e) – Mention (s)
-
-## Einschränkungen – Restrictions
-
-## 1.5. „B” Kategóriájú belvízi hajóvezetői bizonyítvány
-
-## Első oldal
-
-## Belvízi hajóvezetői bizonyítvány / Schifferpatent für die Binnenschifffahrt / certificat de conduite de bateau de navigation interieure
-
-## Kiállító szervezet
-
-## Hátoldal
-
-## Hajóvezetői bizonyítvány belvízi áru- és személyszállításra / Schifferpatent für den Binnenschiffsgüter – und – Personenverkehr / certificat de conduite de bateau de navigation interieure pour le transport de marchandises et de personnes
-
-## 1. A tulajdonos családi neve / Name des Inhabers / Nom du titulaire
-
-## 2. Utóneve / Vorname / Prenom
-
-## 3. Születési idő és hely / Geburstdatum und ort / Date et lieu de naissance
-
-## 4. A bizonyítvány kiállításának kelte / Ausstellungsdatum des Patents – Date de L'issiue de certificate
-
-## 5. A kiállítás sorszáma – Ausstellungsnummer – Numero de délivrance
-
-## 6. A tulajdonos fényképe – Lichtbild des Inhabers – Photographie du titulaire
-
-## 7. A tulajdonos aláírása – Unterschrift des Inhabers, Signature du titualire
-
-## 8. Minden víziút a Rajna kivételével – Alle Wasserstrasse auser dem Rhein – Toutes les voies d' eau sauf le Rhin
-
-## 9. R (Radar) – a hajó kategóriája, hordképessége (tonna, KW, utasszám – Klasse und Tragfähigkeit des Shiffes für die das Patent gilt – Categorie et capacite de bateau exlusive
-
-## 10. Érvényességi ideje – Verfalldatum – Dated 'expiration
-
-## 11. Megjegyzések – Vermerk(e) – Mention(s)
-
-## Einschränkungen – Restrictions
-
-## 1.6. Személyhajózási szakértői bizonyítvány
-
-## (4. oldal és 1. oldal)
-
-## Magyarország / Ungarn / Hongrie
-
-## Személyhajózási szakértői bizonyítvány / Bescheinigung Sachkundiger Für Fahrgastschiffahrt / Certificat expert en Navigation a passagers N.... sz.
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## A meghosszabbítás helye és ideje / Ort und Datum der Verlängerung / Lieu et date de prolongation
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## (3. oldal és 2. oldal)
-
-## Herr / Frau ... úr / Úrnő
-
-## Monsieur / Madame (családi és utónév)
-
-## született .... / Geboren am in / né(e) le
-
-## rendelkezik az utasokkal összefüggő biztonsági intézkedésekre vonatkozó speciális szakismeretekkel / verfügt über besondere Fachkunde über Sicherheitsmassnahmen für Fahrgäste / Posséde les connaissances speciaux relativ aux measures
-
-## Ez a bizonyítvány érvényes / Diese Bescheininung ist gültig bis / Certificat valable jusqu'au ig
-
-## Kiállítás helye és kelte / Ort und Datum der Ausstellung / Lieu et date de la délivrance
-
-## Tulajdonos fényképe (35*45 mm)
-
-## A tulajdonos aláírása / Eigenhandige Unterschrift / Signature du titulaire)
-
-## Kiállító szervezet, aláírás
-
-## 1.7. Elsősegélynyújtó bizonyítvány
-
-## (4. oldal és 1. oldal)
-
-## Magyarország / Ungarn / Hongrie
-
-## Személyhajózási elősegélynyújtó bizonyítvány / Bescheinigung Ersthelfer in der Fahrgastschiffahrt / certificat de secouriste en navigation a passagers
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## A meghosszabbítás helye és ideje / Ort und Datum der Verlangerung / Lieu et date de prolongation
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## (3. oldal és 2. oldal)
-
-## Herr / Frau ... úr / Úrnő
-
-## Monsieur / Madame (családi és utónév)
-
-## született .... / Geboren am in / né(e) le
-
-## rendelkezik az utasokkal összefüggő biztonsági intézkedésekre vonatkozó speciális szakismeretekkel / verfügt über besondere Fachkunde über Sicherheitsmassnahmen für Fahrgäste / Posséde les connaissances speciaux relativ aux measures
-
-## Ez a bizonyítvány érvényes / Diese Bescheinigung ist gültig bis / Certificat valable jusqu'au ig
-
-## Kiállítás helye és kelte / Ort und Datum der Ausstellung / Lieu et date de la délivrance
-
-## Tulajdonos fényképe (35*45 mm)
-
-## A tulajdonos aláírása / Eigenhandige Unterschrift / Signature du titulaire)
-
-## Kiállító szervezet, aláírás
-
-## 1.8. Légzőkészülék-kezelő bizonyítvány
-
-## (4. oldal és 1. oldal)
-
-## Magyarország / Ungarn / Hongrie
-
-## Személyhajózási légzőkészülék-kezelő bizonyítvány / Bescheinigung Atemschutzgerateträger in der Fahrgastchifffahrt / certificat de porteur d'appareil respiratoire en navigation a passagers
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## A meghosszabbítás helye és ideje / Ort und Datum der Verlängerung / Lieu et date de prolongation
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## Érvényes / Gültig bis / valable jusqu'au
-
-## (3.oldal és 2. oldal)
-
-## Herr / Frau ... úr / Úrnő
-
-## Monsieur / Madame (családi és utónév)
-
-## született .... / Geboren am in / né(-e) le
-
-## rendelkezik az utasokkal összefüggő biztonsági intézkedésekre vonatkozó speciális szakismeretekkel / verfügt über besondere Fachkunde über Sicherheitsmassnahmen für Fahrgäste / Posséde les connaissances speciaux relativ aux measures
-
-## Ez a bizonyítvány érvényes / Diese Bescheinigung ist gültig bis / Certificat valable jusqu'au ig
-
-## Kiállítás helye és kelte / Ort und Datum der Ausstellung / Lieu et date de la délivrance
-
-## Tulajdonos fényképe (35*45 mm)
-
-## A tulajdonos aláírása / Eigenhandige Unterschrift Signature du titulaire)
-
-## Kiállító szervezet, aláírás
+## 1.8.[^308]
 
 ## 2. Tengerészeti Munkaügyi Egyezmény alapján kiállított bizonyítvány
 
@@ -726,5 +544,10 @@ A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek ki
 
 | – Radarhajós vizsga | – radarhajózásra alkalmas nagyhajó, kishajó vagy komp a képesítés korlátozásának megfelelően (rendelkeznie kell a radarhajózáshoz előírt üzemképes berendezésekkel (URH rádió-készülékkel, fordulásjelzővel, hangjelző berendezés stb.), valamint a hajó vezetésére jogosult radarhajós képesítésű vezetővel; – a hajó kormányállását a vizsga tartamára le kell függönyözni; | – a gyakorlati vizsga elemeiként előírt olyan nyílt folyami vagy tavi vízterület, ahol szűkület és legalább 8 db kitűző jel található, valamint veszteglő úszólétesítmények, továbbá közlekedő hajók várhatók; – legalább egy medencés kikötő, ahová a be- és kihajózás szabad. |
 
+[^304]: A 6. számú melléklet 1. pont 1.4. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^305]: A 6. számú melléklet 1. pont 1.5. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^306]: A 6. számú melléklet 1. pont 1.6. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^307]: A 6. számú melléklet 1. pont 1.7. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^308]: A 6. számú melléklet 1. pont 1.8. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
 [^309]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be, hatályon kívül helyezte a 15/2021. (IV. 9.) ITM rendelet 8. §-a.
 [^310]: A 7. számú melléklet függeléke a 29/2014. (V. 5.) NFM rendelet 18. § (6) bekezdésével megállapított szöveg.

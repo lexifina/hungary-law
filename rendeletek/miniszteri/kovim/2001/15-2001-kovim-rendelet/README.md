@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-15-20-9
 | 2021-03-06 | 2001-15-20-93.26 | 12/2021. (III. 5.) ITM rendelet |
 | 2021-04-14 | 2001-15-20-93.27 | 3/2008. (VI. 3.) KHEM rendelet |
 | 2021-09-28 | 2001-15-20-93.28 | 46/2021. (IX. 13.) ITM rendelet |
+| 2022-04-19 | 2001-15-20-93.29 | 13/2022. (IV. 14.) ITM rendelet |

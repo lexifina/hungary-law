@@ -22,7 +22,7 @@
 
 ## 6. gépnélküli hajó-vezető (uszálykormányos, tutajvezető),
 
-## 7.[^142] révész (komp vagy révcsónak vezetője)
+## 7.[^138] révész (komp vagy révcsónak vezetője)
 
 ## 8. II. fedélzeti tiszt,
 
@@ -30,67 +30,63 @@
 
 ## 10. veszélyes áru szállítási szakértő,
 
-## 11.[^143] belvízi hajózási rádiótelefon kezelő,
+## 11.[^139] belvízi hajózási rádiótelefon kezelő,
 
-## 12.[^144] kishajóvezető (12 főnél több utas szállítására jóváhagyott kishajón),
+## 12.[^140] kishajóvezető (12 főnél több utas szállítására jóváhagyott kishajón),
 
-## 13.[^145] személyhajózási szakértő,
+## 13.[^141] személyhajózási szakértő,
 
-## 14.[^146] elsősegélynyújtó,
+## 14.[^142] elsősegélynyújtó,
 
-## 15.[^147] légzőkészülék-kezelő.
+## 15.[^143] légzőkészülék-kezelő.
 
 ## II. Fejezet
 
 ## Képesítési előírások
 
-## 1.[^148] A hajóskapitány, a hajóvezető „A” és a hajóvezető „B” képesítés a Dunán és vízrendszerén 2010. december 31. napjáig a képesítés birtokában ellátható szolgálatra jogosít. Azon a vízterületen, amelyen az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés vonalvizsga bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére.
+## 1.[^144]
 
-## 2.[^149] Az „A” kategóriájú hajóvezetői képesítés belvízen és annak tengeri szakaszán hajóparancsnoki szolgálat ellátására jogosít. Azon a szakaszon, ahol az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés e bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére. Az „A” kategóriájú hajóvezetői képesítés 15 évig érvényes, az érvényességi idő lejártával – ha jogszabály eltérően nem rendelkezik – a a vizsgaközpont a lejárt képesítő okmány helyett külön vizsga nélkül újat állít ki. Az új képesítő okmány kiállítását az érvényességi idő lejárta előtt legalább három hónappal kell igényelni.
+## 2.[^145] Az „A” kategóriájú hajóvezetői képesítés belvízen és annak tengeri szakaszán hajóparancsnoki szolgálat ellátására jogosít. Azon a szakaszon, ahol az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés e bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére. Az „A” kategóriájú hajóvezetői képesítés 15 évig érvényes, az érvényességi idő lejártával – ha jogszabály eltérően nem rendelkezik – a a vizsgaközpont a lejárt képesítő okmány helyett külön vizsga nélkül újat állít ki. Az új képesítő okmány kiállítását az érvényességi idő lejárta előtt legalább három hónappal kell igényelni.
 
-## 3.[^150] A „B” kategóriájú hajóvezetői képesítés belvízen hajóparancsnoki szolgálat ellátására jogosít. Azon a szakaszon, ahol az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés e bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére. A „B” kategóriájú hajóvezetői képesítés 15 évig érvényes, az érvényességi idő lejártával – ha jogszabály eltérően nem rendelkezik – a a vizsgaközpont a lejárt képesítő okmány helyett külön vizsga nélkül újat állít ki. Az új képesítő okmány kiállítását az érvényességi idő lejárta előtt legalább három hónappal kell igényelni.
+## 3.[^146] A „B” kategóriájú hajóvezetői képesítés belvízen hajóparancsnoki szolgálat ellátására jogosít. Azon a szakaszon, ahol az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés e bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére. A „B” kategóriájú hajóvezetői képesítés 15 évig érvényes, az érvényességi idő lejártával – ha jogszabály eltérően nem rendelkezik – a a vizsgaközpont a lejárt képesítő okmány helyett külön vizsga nélkül újat állít ki. Az új képesítő okmány kiállítását az érvényességi idő lejárta előtt legalább három hónappal kell igényelni.
 
-## 4.[^151] A „C” kategóriájú hajóvezetői képesítés jogosít:
+## 4.[^147] A „C” kategóriájú hajóvezetői képesítés jogosít:
 
-## a)[^152] hajóparancsnoki szolgálat ellátására magányosan közlekedő hajón [kivéve a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló 13/2001. (IV. 10.) KöViM rendelet 2. mellékleteként kiadott Szemleszabályzat (a továbbiakban: Szemleszabályzat) 23.12 cikk 1. pontjában meghatározott 4. vagy annál nagyobb sorszámmal jelzett termes személyhajón és a Szemleszabályzat 23.12 cikk 2. pontjában meghatározott 2. vagy annál nagyobb sorszámmal jelzett kabinos személyhajón], valamint a Szemleszabályzat 23.11 cikkében a 3. vagy annál kisebb sorszámmal jelzettként meghatározott köteléken, amelyet a hajózási hatóság a képesítő okmányba jegyez. A kötelék gépnélküli hajói közé kell számítani azt a kötelékben továbbított géphajót is, amelyen a gépi hajtás nem üzemel és a kormányzásban sem vesz részt; vontatott kötelék esetében a vontatható hajók száma megegyezik a tolt kötelék gépnélküli hajóinak számával;
+## a)[^148] hajóparancsnoki szolgálat ellátására magányosan közlekedő hajón [kivéve a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló 13/2001. (IV. 10.) KöViM rendelet 2. mellékleteként kiadott Szemleszabályzat (a továbbiakban: Szemleszabályzat) 23.12 cikk 1. pontjában meghatározott 4. vagy annál nagyobb sorszámmal jelzett termes személyhajón és a Szemleszabályzat 23.12 cikk 2. pontjában meghatározott 2. vagy annál nagyobb sorszámmal jelzett kabinos személyhajón], valamint a Szemleszabályzat 23.11 cikkében a 3. vagy annál kisebb sorszámmal jelzettként meghatározott köteléken, amelyet a hajózási hatóság a képesítő okmányba jegyez. A kötelék gépnélküli hajói közé kell számítani azt a kötelékben továbbított géphajót is, amelyen a gépi hajtás nem üzemel és a kormányzásban sem vesz részt; vontatott kötelék esetében a vontatható hajók száma megegyezik a tolt kötelék gépnélküli hajóinak számával;
 
 ## b) géphajókormányosi szolgálat ellátására;
 
 ## c) vitorlás hajó vezetésére (vitorlás hajó vezetésére jogosító hatósági bejegyzés esetén);
 
-## d)[^153] a Dunán és vízrendszerén. Azokon a szakaszokon, ahol az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés e bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére.
+## d)[^149] a Dunán és vízrendszerén. Azokon a szakaszokon, ahol az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés e bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére.
 
 ## A „C” kategóriájú hajóvezető bizonyítvány a Duna vízrendszerén kívüli vízterületre hajóvezetői képesítés kiadásához igazolásként nem alkalmazható.
 
-## 5.[^154] Szolgálati célú hajóvezetői képesítés hajóparancsnoki szolgálat ellátására, legfeljebb 60 méter hosszú és 17 méter széles szolgálati hajón és köteléken jogosít. Azon a vízterületen, amelyen az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés vonalvizsga bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére.
+## e)[^150] az Unió víziútrendszerével összeköttetésben nem lévő vízterületeken hajó vagy kötelék önálló vezetésére és gépi berendezéseinek kezelésére, valamint vitorlás kishajó vezetésére jogosító képesítés esetén vitorlás hajó vezetésére is.
 
-## 6/A.[^155] Vitorlás kishajóvezetői képesítés – a vonalvizsgának megfelelő vízterületen – a legfeljebb 12 fő utas-befogadóképességű, magányosan közlekedő vagy bármilyen alakzatban csak kishajót továbbító vitorlás kishajó vezetésére és gépi berendezésének a kezelésére jogosít.
+## 5.[^151] Szolgálati célú hajóvezetői képesítés hajóparancsnoki szolgálat ellátására, legfeljebb 60 méter hosszú és 17 méter széles szolgálati hajón és köteléken jogosít. Azon a vízterületen, amelyen az illetékes hatóságok vagy hatályos jogszabályok vonalvizsga bizonyítvány megszerzéséhez kötik a hajó vezetését, a képesítés vonalvizsga bizonyítvánnyal együtt jogosít hajó vagy kötelék vezetésére.
 
-## 6/B.[^156] Vitorlás kishajóvezetői „A” képesítés – a vonalvizsgának megfelelő vízterületen magányosan közlekedő vagy bármilyen alakzatban csak kishajót továbbító vitorlás kishajó vezetésére és gépi berendezésének a kezelésére jogosít.
+## 6/A.[^152] Vitorlás kishajóvezetői képesítés – a vonalvizsgának megfelelő vízterületen – a legfeljebb 12 fő utas-befogadóképességű, magányosan közlekedő vagy bármilyen alakzatban csak kishajót továbbító vitorlás kishajó vezetésére és gépi berendezésének a kezelésére jogosít.
 
-## 6/C.[^157] Kisgéphajó-vezetői képesítés – a vonalvizsgának megfelelő vízterületen – a legfeljebb 12 fő utas-befogadóképességű, magányosan közlekedő vagy bármilyen alakzatban csak kishajót továbbító kisgéphajó vezetésére és gépi berendezésének a kezelésére jogosít.
+## 6/B.[^153] Vitorlás kishajóvezetői „A” képesítés – a vonalvizsgának megfelelő vízterületen magányosan közlekedő vagy bármilyen alakzatban csak kishajót továbbító vitorlás kishajó vezetésére és gépi berendezésének a kezelésére jogosít.
 
-## 6/D.[^158] Kisgéphajó-vezető „A” képesítés – a vonalvizsgának megfelelő vízterületen magányosan közlekedő vagy bármilyen alakzatban csak kishajót továbbító kisgéphajó vezetésére és gépi berendezésének a kezelésére jogosít.
+## 6/C.[^154] Kisgéphajó-vezetői képesítés – a vonalvizsgának megfelelő vízterületen – a legfeljebb 12 fő utas-befogadóképességű, magányosan közlekedő vagy bármilyen alakzatban csak kishajót továbbító kisgéphajó vezetésére és gépi berendezésének a kezelésére jogosít.
 
-## 6/E.[^159] Szolgálati célú kisgéphajóvezető képesítés □ a vonalvizsgának megfelelő vízterületen □ legfeljebb 12 fő utas-befogadóképességű, magányosan vagy bármilyen alakzatban csak kishajót továbbító szolgálati kisgéphajó vezetésére és gépi berendezésének a kezelésére jogosít.
+## 6/D.[^155] Kisgéphajó-vezető „A” képesítés – a vonalvizsgának megfelelő vízterületen magányosan közlekedő vagy bármilyen alakzatban csak kishajót továbbító kisgéphajó vezetésére és gépi berendezésének a kezelésére jogosít.
 
-## 7. Úszómunkagép-vezető képesítés a képesítő okmányban meghatározott típusú, főgépüzemű és vízkiszorítású úszómunkagép munkavégzés és veszteglés során történő vezetésére, továbbá karavánban továbbított úszómunkagép vezetői feladatainak az ellátására jogosít. Önjáró úszómunkagép munkaterületen kívüli közlekedése során történő vezetésre – a munkagép méretének és jellemzőinek megfelelően – a kisgéphajó-vezetői, hajóvezetői vagy hajóskapitányi képesítés jogosít.
+## 6/E.[^156] Szolgálati célú kisgéphajóvezető képesítés legfeljebb 12 fő utas-befogadóképességű, magányos vagy bármilyen alakzatban csak szolgálati célú kishajót továbbító – kivéve a mentés idejét –, szolgálati kisgéphajó vezetésére és gépi berendezésének a kezelésére jogosít.
+
+## 7.[^157] Önjáró úszómunkagép munkaterületen kívüli közlekedése során történő vezetésre – a munkagép méretének és jellemzőinek megfelelően – a kisgéphajó-vezetői vagy hajóvezetői képesítés jogosít.
 
 ## 8. Géphajókormányos képesítés – a vonalvizsgának megfelelő vízterületen – a géphajón géphajókormányosi szolgálat ellátására jogosít.
 
 ## 9. Gépnélküli hajó-vezető képesítés a gépnélküli hajó, és úszóanyagok kötelékei vezetői teendőinek ellátására jogosít.
 
-## 10.[^160] A képesítésben megjelölt átkelés kikötési pontjai között a
+## 10.[^158] A révész „A” képesítés bármely komp, a révész képesítés a kézi és gépi erővel üzemelő köteles komp, továbbá a révcsónak vezetésére jogosít.
 
-## a) révész ,,A'' képesítés bármely komp,
+## 11.[^159]
 
-## b) révész képesítés a kézi és gépi erővel üzemelő köteles komp, továbbá az evezős révcsónak
-
-## vezetésére jogosít.
-
-## 11. Fedélzeti tiszt képesítés II. fedélzeti tiszti szolgálat ellátására jogosít.
-
-## 12. Kormányos képesítés belvízi hajón – a hajó vezetését ellátó személy (az I. fejezetben felsorolt fedélzeti szolgálatok közül az 1–3. pontokban megjelölt személyek) felügyelete mellett – a hajó kormányzására jogosít.
+## 12.[^160]
 
 ## 13. Radarhajós (kiegészítő) képesítés a képesítésben megjelölt belvízi nagy- vagy kishajó, illetve komp radarral való vezetésére jogosít.
 
@@ -108,41 +104,17 @@
 
 ## A képesítések megszerzésének feltételei
 
-## 1.[^166] Az „A” és „B” kategóriájú hajóvezetői vizsgára bocsátás feltételei:
+## 1.[^166]
+
+## 2.[^167] A „C” kategóriájú hajóvezetői vizsgára bocsátás feltételei:
 
 ## a) betöltött 21. életév;
 
-## b) fedélzeti szolgálatban szerzett négy év gyakorlat
+## ba)[^168] jóváhagyott hajóvezetői képzésben történt igazolt részvétel, valamint legalább matróz szolgálatban 50%-ban nagyhajón eltöltött két év fedélzeti gyakorlat, vagy
 
-## ba)[^167] amelyből legalább két évet matróz vagy magasabb szintű szolgálatban, belvízi nagyhajón kell megszerezni,
+## bb)[^169] hajózási képzést nyújtó felsőoktatási intézményben szerzett oklevél, valamint legalább matróz szolgálatban 50%-ban nagyhajón eltöltött 18 havi fedélzeti gyakorlat, vagy
 
-## bb) amely a legalább kormányosként szerzett gyakorlat időtartamával csökken, amely csökkenés azonban összességében nem haladhatja meg az egy évet,
-
-## bc) amely a képzés időtartamával csökken, ha a teljes gyakorlatot jóváhagyott képzés részeként szerezték, amely csökkenés azonban nem haladhatja meg a két évet,
-
-## bd) amely a megszerzett gyakorlati idő felével, de legfeljebb egy évvel csökken, ha a gyakorlatot részben tengeri hajón fedélzeti szolgálatban vagy belvízi hajón gépész munkakörben szerezték,
-
-## be) amelynek 30%-át 12 főnél több utas szállítására engedélyezett vitorlás hajón kell megszerezni, ha a vizsga vitorlás hajó vezetésére is kiterjed.
-
-## Az időalap kiszámításánál a ba)–bd) alpontokban meghatározott kedvezményeket figyelembe kell venni.
-
-## A bb)–bd) alpontokban meghatározott gyakorlati idő kedvezmények nem vonhatók össze.
-
-## c) jóváhagyott hajóvezetői képzésben történt eredményes részvétel igazolása;
-
-## d) „B” kategóriájú hajóvezetői vizsga esetében II. szintű vonalvizsga-bizonyítvány, amely a belvizek bármely vízterületére vonatkozóan került kiállításra; „A” kategóriájú hajóvezetői vizsga esetében III. szintű vonalvizsga-bizonyítvány. A vonalvizsga a hajóvezetői vizsga részeként is letehető, de annak eredményes befejezése feltétele a hajóvezetői vizsga egyes tárgyaiból teendő vizsgák megkezdésének;
-
-## e) belvízi hajózási rádiótelefon kezelői képesítés.
-
-## 2.[^168] A „C” kategóriájú hajóvezetői vizsgára bocsátás feltételei:
-
-## a) betöltött 21. életév;
-
-## ba)[^169] jóváhagyott hajóvezetői képzésben történt igazolt részvétel, valamint legalább matróz szolgálatban 50%-ban nagyhajón eltöltött két év fedélzeti gyakorlat, vagy
-
-## bb)[^170] hajózási képzést nyújtó felsőoktatási intézményben szerzett oklevél, valamint legalább matróz szolgálatban 50%-ban nagyhajón eltöltött 18 havi fedélzeti gyakorlat, vagy
-
-## bc)[^171] érettségi bizonyítvány és hajózási szakképzésben szerzett képesítő bizonyítvány, valamint legalább matróz szolgálatban 50%-ban nagyhajón eltöltött 21 havi fedélzeti gyakorlat;
+## bc)[^170] érettségi bizonyítvány és hajózási szakképzésben szerzett képesítő bizonyítvány, valamint legalább matróz szolgálatban 50%-ban nagyhajón eltöltött 21 havi fedélzeti gyakorlat;
 
 ## c) belvízi hajózási rádiótelefon kezelői képesítés;
 
@@ -160,15 +132,15 @@
 
 ## ab) jóváhagyott kishajó-vezetői képzés igazolt elvégzése és fedélzeti szolgálatban eltöltött 14 havi – átkelőjáratban közlekedő hajón vagy vitorlás kishajón szerzett 10 havi – hajózási gyakorlat, vagy
 
-## ac)[^172] kedvtelési célú kishajó-vezetői bizonyítvány és fedélzeti szolgálatban eltöltött 6 havi hajózási gyakorlat, vagy
+## ac)[^171] kedvtelési célú kishajó-vezetői bizonyítvány és fedélzeti szolgálatban eltöltött 6 havi hajózási gyakorlat, vagy
 
 ## ad) fedélzeti szolgálatban eltöltött 16 havi – átkelőjáratban közlekedő hajón vagy vitorlás kishajón szerzett 12 havi – hajózási gyakorlat, vagy
 
 ## ae) szolgálati kisgéphajón szerzett 12 havi hajóvezetői gyakorlat, amelyet a hajózási hatóság igazol,
 
-## af)[^173] I. szintű vonalvizsga;
+## af)[^172] I. szintű vonalvizsga;
 
-## b)[^174] szolgálati kisgéphajó-vezetői vizsga feltételei:
+## b)[^173] szolgálati kisgéphajó-vezetői vizsga feltételei:
 
 ## ba) hajózási szakképzésben szerzett képesítő bizonyítvány vagy jóváhagyott szolgálati kisgéphajó-vezetői, illetve hivatásos kisgéphajó-vezető képzésben vagy a szolgálati kisgéphajó-vezető vizsga tantárgyait magába foglaló egyéb képzés igazolt elvégzése és fedélzeti szolgálatban eltöltött 4 havi szolgálati célú vagy hivatásos hajózási gyakorlat, vagy
 
@@ -176,19 +148,13 @@
 
 ## bc) fedélzeti szolgálatban 12 havi hajózási gyakorlat,
 
-## bd)[^175] I. szintű vonalvizsga;
+## bd)[^174]
 
 ## amelynek igazolása a hajózási hatóság által, illetve szolgálati célú gyakorlat esetén annak a szervezetnek a vezetője által történik, ahol a gyakorlat megszerzésére sor került;
 
-## c)[^176] a kisgéphajó- és vitorlás kishajó-vezetői „A” vizsga feltételei:
+## c)[^175]
 
-## I. szintű vonalvizsga, továbbá 6 havi igazolt hivatásos kishajó-vezetői gyakorlat és 3 havi, legalább kormányos képesítéssel betölthető szolgálat
-
-## ca) nagyhajón vagy
-
-## cb) 12 főnél nagyobb utas-befogadóképességű kishajón.
-
-## 4.[^177] Az úszómunkagép-vezetői vizsga feltételei:
+## 4.[^176] Az úszómunkagép-vezetői vizsga feltételei:
 
 ## a) hajózási szakképzésben szerzett képesítő bizonyítvány vagy jóváhagyott úszómunkagép-vezetői képzés igazolt elvégzése és fedélzeti szolgálatban eltöltött 9 havi gyakorlat, amelynek legalább a felét úszómunkagépen kell eltölteni, vagy
 
@@ -202,7 +168,7 @@
 
 ## c) fedélzeti szolgálatban eltöltött 36 havi gyakorlat, amelynek legalább felét kormányos szolgálatban géphajón kell eltölteni,
 
-## d)[^178] II. szintű vonalvizsga.
+## d)[^177] II. szintű vonalvizsga.
 
 ## 6. A gépnélküli hajó-vezetői vizsga feltételei:
 
@@ -212,73 +178,41 @@
 
 ## c) fedélzeti szolgálatban eltöltött 24 havi gyakorlat, amelynek legalább felét gépnélküli hajón kell eltölteni.
 
-## 7.[^179] a) A révész ,,A'' képesítés megszerzéséhez szükséges vizsga feltétele:
+## 7.[^178]
 
-## aa) kormányos képesítés és 12 havi fedélzeti szolgálatban szerzett hajózási gyakorlat, vagy
+## 8.[^179]
 
-## ab) szabadon közlekedő gépi hajtású kompon (a csónak kivételével) szerzett 6 havi hajózási gyakorlat, vagy
+## 9.[^180] A kormányos képesítés hajós szolgálati könyvbe történő bejegyzéséhez és a képesítés kérésre történő kiadásához 2 év matrózi szolgálatban eltöltött hajózási gyakorlatot kell igazolni.
 
-## ac) révész képesítés és révészként szerzett 6 havi, továbbá szabadon közlekedő gépi hajtású kompon (a csónak kivételével) szerzett 3 havi hajózási gyakorlat,
-
-## ad)[^180] német vagy orosz nyelvből a vizsgaközpont által megbízott szakmai bizottság előtt tett szakmai nyelvismeretet tanúsító vizsga, amennyiben a jelölt nemzetközi forgalom számára megnyitott vízi útra kíván képesítést szerezni.
-
-## b) a révész képesítés megszerzéséhez szükséges vizsga feltétele: fedélzeti szolgálatban szerzett 6 havi gyakorlat.
-
-## 8. A fedélzeti tiszti vizsga feltételei:
-
-## a) betöltött 20. életév;
-
-## b) ba) hajózási képzést nyújtó felsőoktatási intézményben szerzett oklevél és fedélzeti szolgálatban eltöltött 15 havi gyakorlat, amelynek legalább 50%-át géphajón, kormányosi szolgálatban kell eltölteni, vagy
-
-## bb) érettségi bizonyítvány és hajózási szakképzésben szerzett képesítő bizonyítvány és fedélzeti szolgálatban eltöltött 18 havi gyakorlat, amelynek legalább 50%-át géphajón, kormányosi szolgálatban kell eltölteni, vagy
-
-## bc) érettségi bizonyítvány és jóváhagyott fedélzeti tiszti képzésben történt igazolt részvétel és fedélzeti szolgálatban eltöltött 24 havi gyakorlat, amelynek legalább 50%-át géphajón, kormányosi szolgálatban kell eltölteni;
-
-## c) URH rádió-távbeszélői képesítés;
-
-## d)[^181] német vagy orosz nyelvből államilag elismert alapfokú ,,A'' típusú nyelvvizsga és a vizsgaközpont által megbízott szakmai vizsgabizottság előtt tett szakmai nyelvismeretet tanúsító vizsga.
-
-## 9.[^182] A kormányos képesítés hajós szolgálati könyvbe történő bejegyzéséhez és a képesítés kérésre történő kiadásához 2 év matrózi szolgálatban eltöltött hajózási gyakorlatot kell igazolni.
-
-## 10.[^183] A radarhajós vizsga feltételei:
+## 10.[^181] A radarhajós vizsga feltételei:
 
 ## a) a megjelölt hajófajta (nagy-, illetve kishajó vagy komp) vezetésére jogosító képesítés,
 
 ## b) az a) pontban megjelölt képesítés birtokában legalább kormányosi szolgálatban töltött 8 havi hajózási gyakorlat.
 
-## 11.[^184] A veszélyes áru szállítási szakértő vizsga feltételei:
+## 11.[^182] A veszélyes áru szállítási szakértő vizsga feltételei:
 
 ## – az ADN Szabályzat 8.2 fejezetében foglalt feltételek.
 
 ## 12. A vizsgára jelentkező személynek, ha az adott vizsgához előírt fedélzeti gyakorlatnak megfelelő időtartamú gépüzemi szolgálatot tud igazolni, a fedélzeti szolgálati időnek csak felét kell teljesítenie.
 
-## 13.[^185] Vonalvizsga
+## 13.[^183] Vonalvizsga
 
-## a) víziútnak nyilvánított vízterületre[^186]
+## a) az unió belvízi víziútrendszerének részét nem képező víziútnak nyilvánított vízterületre kishajóra I., nagyhajóra II. szinten tehető;
 
-## aa) a Dunára és vízrendszerére,
+## b) a víziútnak nem minősített valamennyi magyarországi vízterületen hajózásra jogosít;
 
-## ab) kishajóra I., nagyhajóra II. szinten, tengeri partmenti hajózási körzetre vonatkozó szabályokra is kiterjedően III. szinten
+## c) vonalvizsga kérelmezhető azon folyószakasz esetén ahol 8 hegy- és 8 völgymeneti út, megtételét a jelölt igazolta matróz vagy annál magasabb szintű fedélzeti szolgálatban;
 
-## tehető;
-
-## b) a víziútnak nem minősített valamennyi magyarországi vízterületre érvényes;
-
-## c) vizsgára bocsátást arra a vízterületre lehet kérni, amelyen – a Balaton, a Velencei-tó és a Fertő-tó kivételével – 8 hegy- és 8 völgymeneti út megtételét a jelölt igazolta. A Balatonon 60 nap, a Velencei-tavon és a Fertő-tavon 30 nap kormányosi vagy annál magasabb szintű fedélzeti szolgálatot kell igazolni;
-
-## d)[^187] feltétele német vagy orosz nyelvből a vizsgaközpont által megbízott szakmai vizsgabizottság előtt tett szakmai nyelvismeretet tanúsító vizsga, ha a jelölt nemzetközi forgalom számára megnyitott víziútra kíván vonalismereti vizsgát tenni;
-
-## e)[^188] II. és III. szinten a vonalismeretet a vonalvizsga bizonyítvány igazolja. Az I. szintű vonalvizsga eredményét a a vizsgaközpont a képesítő okmányba jegyzi be;
-
-## f)[^189] más EGT állam vagy Duna bizottsági állam hatóságánál tett vonalvizsga alapján szerezett bizonyítványt a hajózási hatóság – a területileg illetékes hajózási hatóság által kibocsátott bizonyítvány vagy igazolás alapján – kérelemre honosítja.
+## d) a vonalvizsga alapján megszerzett jogosultságot a vizsgaközpont a hajóvezetői képesítő okmányba jegyzi be.
 
 ## 14. Az úszómunkagép-vezetői képesítés kiterjesztése a megszerezni kívánt képesítéssel vezethető munkagépen teljesített 3 havi gyakorlat igazolása esetén kérelmezhető.
 
 ## 15. Hajózási szakképzésben szerzett képesítő bizonyítványként – az A. rész alkalmazásában – azt a képesítő okmányt lehet elfogadni, amelyet olyan oktatási intézmény adott ki, amelynek tanterve a hajózási hatóság által jóváhagyott szakmai oktatási programot tartalmazza.
 
-## 16.[^190]
+## 16.[^184]
 
-## 17.[^191] A személyhajózási szakértői képesítés megszerzésének és megtartásának feltételei:
+## 17.[^185] A személyhajózási szakértői képesítés megszerzésének és megtartásának feltételei:
 
 ## a) betöltött 21. életév,
 
@@ -290,7 +224,7 @@
 
 ## e) öt évenként ismeretfelújító képzésben történő részvétel és eredményes vizsgáról szóló igazolás.
 
-## 18.[^192] Az elsősegélynyújtó képesítés megszerzésének és megtartásának feltételei:
+## 18.[^186] Az elsősegélynyújtó képesítés megszerzésének és megtartásának feltételei:
 
 ## a) betöltött 17. életév,
 
@@ -300,7 +234,7 @@
 
 ## d) három évenként ismeretfelújító képzésben történő részvétel és eredményes vizsgáról szóló igazolás.
 
-## 19.[^193] A légzőkészülék-kezelői képesítés megszerzésének és megtartásnak feltételei:
+## 19.[^187] A légzőkészülék-kezelői képesítés megszerzésének és megtartásnak feltételei:
 
 ## a) betöltött 18. életév,
 
@@ -310,19 +244,19 @@
 
 ## d) két évenként ismeretfelújító képzésben történő részvétel és eredményes vizsgáról szóló igazolás.
 
-## 20.[^194] A személyhajózási szakértői, az elsősegélynyújtó és a légzőkészülék-kezelői képesítő vizsgát az e képesítésekhez szükséges ismeretek oktatására jóváhagyott képző szerv vizsgabizottsága előtt kell tenni. A képző szerv köteles vizsgálni és dokumentálni a 17–19. pontban foglaltaknak való megfelelést.
+## 20.[^188] A személyhajózási szakértői, az elsősegélynyújtó és a légzőkészülék-kezelői képesítő vizsgát az e képesítésekhez szükséges ismeretek oktatására jóváhagyott képző szerv vizsgabizottsága előtt kell tenni. A képző szerv köteles vizsgálni és dokumentálni a 17–19. pontban foglaltaknak való megfelelést.
 
-## 21.[^195] A 17–19. pontban meghatározott képesítések kiállításának feltétele a fedélzeti szolgálatra való egészségi alkalmasság igazolása. A képesítéseket a képző szerv által kiállított igazolás alapján a vizsgaközpont állítja ki.
+## 21.[^189] A 17–19. pontban meghatározott képesítések kiállításának feltétele a fedélzeti szolgálatra való egészségi alkalmasság igazolása. A képesítéseket a képző szerv által kiállított igazolás alapján a vizsgaközpont állítja ki.
 
 ## IV. Fejezet
 
-## A képesítővizsgák témakörei[^196]
+## A képesítővizsgák témakörei[^190]
 
-## 1.[^197] A hajóvezető, a kishajóvezető, az úszómunkagép-vezető, a géphajókormányos, a gépnélküli hajó-vezető, a révész, a fedélzeti tiszt képesítő vizsga témaköreit a 2/IV/1. táblázat tartalmazza.
+## 1.[^191] A hajóvezető, a kishajóvezető képesítő vizsga témaköreit a 2/IV/1. táblázat tartalmazza.
 
-## 2.[^198] A 2/IV/1. táblázatban foglalt olyan azonos megnevezésű vizsgatárgyaknál, amelyeknél az egyes képesítésekhez eltérő szintű követelményeknek kell megfelelni, a szinteket római számok jelzik. Az egyes szintek tartalmi követelményeit a hajózási hatóság állapítja meg és honlapján közzéteszi.
+## 2.[^192] A 2/IV/1. táblázatban foglalt olyan azonos megnevezésű vizsgatárgyaknál, amelyeknél az egyes képesítésekhez eltérő szintű követelményeknek kell megfelelni, a szinteket római számok jelzik. Az egyes szintek tartalmi követelményeit a hajózási hatóság állapítja meg és honlapján közzéteszi.
 
-## 3.[^199] A radarhajós vizsga témakörei:
+## 3.[^193] A radarhajós vizsga témakörei:
 
 ## a) radarelmélet, radarberendezés működése;
 
@@ -334,7 +268,7 @@
 
 ## e) hajóvezetésre vonatkozó szabályok korlátozott látási viszonyok között; és
 
-## f)[^200] gyakorlati vizsga, amelynek részei:
+## f)[^194] gyakorlati vizsga, amelynek részei:
 
 ## fa) felkészülés radarhajózásra,
 
@@ -346,9 +280,9 @@
 
 ## fe) magatartás különleges helyzetben.
 
-## 4.[^201] A belvízi hajózási rádiótelefon kezelő vizsga vizsgatárgyai:
+## 4.[^195] A belvízi hajózási rádiótelefon kezelő vizsga vizsgatárgyai:
 
-## a)[^202] az elméleti vizsgatárgy témakörei:
+## a)[^196] az elméleti vizsgatárgy témakörei:
 
 ## aa) a belvízi mozgószolgálat alapelveinek ismerete,
 
@@ -360,27 +294,21 @@
 
 ## ae) ,,A hajózható belvízi utak rádiótelefon-szolgálati útmutatójának'' ismerete,
 
-## b)[^203]
+## b)[^197]
 
-## 5.[^204] Vonalvizsga:
+## 5.[^198] Vonalvizsga:
 
-## a) vaktérkép kitöltése (csak II. és III. szinten);
+## „a) vaktérkép kitöltése (csak II. szinten);
 
-## b) helyi víziközlekedési szabályok ismerete;
+## b) az útiterv meghatározása a szakaszjellemzők alapján:
 
-## c) gázlók és vízmércék, hajózási akadályok, hajó méreteinek meghatározása;
+## ba) vonatkozói víziközlekedési szabályok ismerete;
 
-## d) a szakasz meghajózásának ismertetése;
+## bb) gázlók, szűkületek, vízmércék, hajózási akadályok, műtárgyak, hajó/kötelék méreteinek meghatározása;
 
-## e) csak III. szinten:
+## c) a szakasz meghajózásának ismertetése (hajóút helye, kitűzése, menetterv, helyadás módja, áramlási viszonyok, menetet befolyásoló egyéb elemek, helynevek).
 
-## ea) a tengeren való összeütközések megelőzésére vonatkozó nemzetközi szabályok ismerete – beleértve a navigációs jeleket (a kitűzést és bójázást) –, valamint a tengeri szakasz közlekedési szabályzata,
-
-## eb) parti navigáció (útvonal meghatározása, a pozícióvonalak és a hajó helyzetének meghatározása, hajózási nyomtatványok és kiadványok, tengerészeti térképek használata, navigációs jelek és bójázási rendszerek, tájoló használata, az ár-apály ingadozás alapjai);
-
-## f) egyszerűsített teszt-vizsga: egy több helyes válasz kiválasztására alkalmas, kettő vagy több (legfeljebb öt) válaszlehetőséget tartalmazó teszt kérdéssor, amely szöveges, képi, térképi elemeket tartalmazhat.
-
-## 6.[^205] Hajózási szakmai nyelvismeret:
+## 6.[^199] Hajózási szakmai nyelvismeret:
 
 ## a) szakmai szókincs,
 
@@ -390,11 +318,11 @@
 
 ## d) szövegértés.
 
-## 7.[^206] Veszélyes áru szállítási szakértői vizsga:
+## 7.[^200] Veszélyes áru szállítási szakértői vizsga:
 
 ## – az ADN Szabályzat 8.2 fejezetében foglalt ismeretanyag.
 
-## 8.[^207] Személyhajózási szakértői vizsga témái:
+## 8.[^201] Személyhajózási szakértői vizsga témái:
 
 ## a) Elméleti elemek:
 
@@ -420,7 +348,7 @@
 
 ## bb) a biztonsági előírások és a megfelelő segítségnyújtás gyakorlati átültetésének ismeretei (például utasok evakuálása a füsttel teli térből biztonságos területre, tűz eloltása, vízzáró és tűzgátló kapuk kezelése).
 
-## 9.[^208] Elsősegélynyújtó vizsga témái:
+## 9.[^202] Elsősegélynyújtó vizsga témái:
 
 ## a) az elsősegély-nyújtás általános szabályai,
 
@@ -462,7 +390,7 @@
 
 ## t) félautomata defibrillátor használata.
 
-## 10.[^209] Légzőkészülék-kezelő vizsga témái:
+## 10.[^203] Légzőkészülék-kezelő vizsga témái:
 
 ## a) a tűzháromszög,
 
@@ -480,37 +408,27 @@
 
 ## h) a légzőkészülék alkalmazása és kezelése.
 
-## 11.[^210] Ha a jelölt olyan hajózási oktatási intézményben szerezte oklevelét, illetve képesítő bizonyítványát, amelynek tanterve a hajózási hatóság által jóváhagyott szakmai oktatási programot tartalmazza, akkor a jelöltet a 2/IV/1. táblázat 2–9. pontjaiban megnevezett képesítések elméleti vizsgái alól – kérelmére – a vizsgaközpont részlegesen vagy teljesen mentesíti.
+## 11.[^204] Ha a jelölt
 
-## 12.[^211] A tengerészkapitány képesítéssel és legalább 12 havi tengeri hajó vezetői gyakorlattal rendelkező személy a hajózási szabályzat, hajóvezetéstan, vonalismeret, ADN szabályzat, jogi ismeretek és vízrajz tantárgyakból tett különbözeti vizsgával, és legalább 12 havi, belvízi nagyhajón, kormányosi szolgálatban eltöltött gyakorlat igazolásával, belvízi hajó-vezető ,,A'' képesítést szerezhet.
+## a) olyan hajózási oktatási intézményben szerezte oklevelét vagy képesítő bizonyítványát, amelynek tanterve a hajózási hatóság által – az adott képesítésre vonatkozóan – jóváhagyott szakmai oktatási programot tartalmazza, vagy
 
-## 13.[^212] A tengerész fedélzeti tiszti képesítésű, legalább 12 havi tengerész fedélzeti tiszti szolgálatban szerzett gyakorlattal és legalább 12 havi, belvízi nagyhajón kormányosi szolgálatban eltöltött gyakorlat igazolásával, belvízi hajózási rádiókezelői képesítéssel, szakmai nyelvismerettel (német vagy orosz), és II szintű vonalvizsga bizonyítvánnyal rendelkező személy
+## b) tengerészkapitány képesítéssel és legalább 12 havi tengeri hajó vezetői gyakorlattal rendelkezik, vagy
 
-## – a hajózási szabályzat V,
+## c) 24 havi tengerész fedélzeti tiszti szolgálatban szerzett gyakorlattal rendelkezik,
 
-## – hajóvezetéstan VI,
+## akkor a jelöltet a 2/IV/1. táblázat elméleti vizsgái, illetve témaköreinek vizsgája alól – kérelmére – a vizsgaközpont részlegesen mentesíti. A kérelmet az általános illeték mértékének megfelelő díj ellenében bírálja el a vizsgaközpont. Nem adható felmentés a vonalvizsga, a b) és c) pont esetében a hajóvezetéstan és Hajózási Szabályzat tárgyak vizsgái és a gyakorlati vizsga alól.
 
-## – ADN szabályzat,
+## 12.[^205]
 
-## – jogi ismeretek,
+## 13.[^206]
 
-## – hajózási földrajz, vízrajz, meteorológia II,
+## 13a.[^207]
 
-## – hajózási képesítésekről szóló rendelet ismerete,
+## 2/IV/1. táblázat[^208]
 
-## – gyakorlati vizsga
-
-## tárgyakból tett különbözeti vizsgák után „A” kategóriájú hajóvezetői képesítést szerezhet.
-
-## 13a.[^213] Tengeri hajón „navigációs őrszolgálat képesített tagja” beosztásban töltött legalább 12 hónap szolgálat igazolása, vagy tengerész fedélzeti tiszti képesítés és a hajózási szabályzat IV tantárgyból tett sikeres különbözeti vizsga alapján a (belvízi) kormányos képesítés kérelemre kiállítható.
-
-## 2/IV/1. táblázat[^214]
-
-## Az „A” rész IV. fejezet 1. pontjában megjelölt képesítővizsgák témakörei[^215]
+## Az „A” rész IV. fejezet 1. pontjában megjelölt képesítővizsgák témakörei[^209]
 
 | Képesítés / témakör | Hajózási szabályzat | Hajó-vezetéstan | Hajózási földrajz, vízrajz, meteorológia | Hajóelmélet, a hajók szerkezete és építése, hajógéptan | Kereskedelmi és rakodástechnikai ismeretek | Jogi ismeretek | Elsősegély-nyújtási, környezet és tűzvédelmi ismeretek | ADN szabályzat | Hajóradar ismeretek | Vitorlázás elmélet | Átkelőhely-ismerete | Fedélzeti gépek ismerete | A hajózási képesítésekről szóló rendelet ismerete (d) | Gyakorlati vizsga (e) |
-
-| „A” és „B” kategóriájú hajóvezető | V | VI | II | I | I | I | I | I | I |  |  |  | I | + |
 
 | „C” kategóriájú hajóvezető | V | V | II | I | I | I | I | I | I |  |  |  | I | + |
 
@@ -518,21 +436,13 @@
 
 | Kishajóvezető (hivatásos) | IV | IV | I | I |  | I | I |  |  | I (b) |  |  | I | + (c) |
 
-| Kishajóvezető „A” (hivatásos) | IV | IV | I | I | I | I | I |  | I | I (b) |  |  | I | + (c) |
-
 | Kisgéphajóvezető (szolgálati) | IV | IV | I | I |  | I | I |  |  |  |  |  | I | + |
 
 | Úszómunkagép-vezető | III | III | I | I |  |  | I |  |  |  |  |  | I |  |
 
-| Géphajó kormányos | IV | IV |  |  |  | I |  |  | I |  |  |  |  |  |
-
 | Gépnélkülihajó-vezető | IV | IV | I |  | I |  | I | I |  |  |  | I | I |  |
 
 | Révész | II | II |  |  |  |  | I |  |  |  | I | I |  | + |
-
-| Fedélzeti tiszt | V | V | II | I | I | II | I | I | I |  |  |  | I | + |
-
-| Révész „A” | IV | IV |  | I |  | I | I | I |  |  | I |  | I | + |
 
 ## Megjegyzések:
 
@@ -564,7 +474,7 @@
 
 ## 3. gépkezelő.
 
-## II.[^216] fejezet
+## II.[^210] fejezet
 
 ## Képesítési előírások
 
@@ -576,7 +486,7 @@
 
 ## b) géptiszt vezetése alatt álló gépüzemben önálló szolgálat ellátására.
 
-## III.[^217] fejezet
+## III.[^211] fejezet
 
 ## A képesítések megszerzésének feltételei
 
@@ -600,11 +510,11 @@
 
 ## 3. A hajózási, gépészeti vagy villamossági szakképzésben, valamint felsőoktatásban szerzett képesítő bizonyítvány vagy oklevél elfogadásához a tanulmányi értesítőt vagy leckekönyvet is be kell mutatni.
 
-## 4.[^218] Ha a jelölt hajózási gépészeti vagy villamossági szakképzésben, valamint felsőoktatásban szerzett képesítő bizonyítvánnyal, oklevéllel rendelkezik, akkor kérelmére a képesítés megszerzésénél a vizsgaközpont az elméleti vizsga letétele alól részben vagy egészben mentesítést adhat.
+## 4.[^212] Ha a jelölt hajózási gépészeti vagy villamossági szakképzésben, valamint felsőoktatásban szerzett képesítő bizonyítvánnyal, oklevéllel rendelkezik, akkor kérelmére a képesítés megszerzésénél a vizsgaközpont az elméleti vizsga letétele alól részben vagy egészben mentesítést adhat.
 
-## 5.[^219] Tengeri hajóra szóló érvényes géptiszti képesítés alapján kérelemre a a vizsgaközpont különbözeti vizsga és gyakorlat igazolása nélkül belvízi hajóra szóló géptiszti képesítést állít ki.
+## 5.[^213] Tengeri hajóra szóló érvényes géptiszti képesítés alapján kérelemre a a vizsgaközpont különbözeti vizsga és gyakorlat igazolása nélkül belvízi hajóra szóló géptiszti képesítést állít ki.
 
-## IV. Fejezet[^220]
+## IV. Fejezet[^214]
 
 ## A képesítővizsga témakörei
 
@@ -624,82 +534,80 @@
 
 3. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez
 
-[^142]: A 2. számú melléklet A. Része I. Fejezetének 7. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
-[^143]: A 2. számú melléklet A. Része I. Fejezetének 11. pontját a 76/2003. (XI. 24.) GKM rendelet 6. §-a iktatta a szövegbe.
-[^144]: A 2. számú melléklet A. része I. fejezetének 12. pontját a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdése iktatta be.
-[^145]: A 2. számú melléklet A. rész I. fejezetének 13. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^146]: A 2. számú melléklet A. rész I. fejezetének 14. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^147]: A 2. számú melléklet A. rész I. fejezetének 15. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^148]: A 2. számú melléklet A. rész II. fejezetének 1. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított, a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^149]: A 2. számú melléklet A. rész II. fejezetének 2. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított, a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^150]: A 2. számú melléklet A. rész II. fejezetének 3. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított, a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^151]: A 2. számú melléklet A. rész II. fejezetének 4. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított szöveg.
-[^152]: A 2. számú melléklet A. Rész II. Fejezet 4. pont a) alpontja a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^153]: A 2. számú melléklet A. rész II. fejezet 4. pont d) alpontja a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^154]: A 2. számú melléklet A. rész II. fejezetének 5. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított, a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^155]: A 2. számú melléklet A. része II. fejezetének 6/A. pontja a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdésével megállapított szöveg.
-[^156]: A 2. számú melléklet A. része II. fejezetének 6/B. pontja a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdésével megállapított szöveg.
-[^157]: A 2. számú melléklet A. Rész II. Fejezet 6/C. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdése iktatta be.
-[^158]: A 2. számú melléklet A. Rész II. Fejezet 6/D. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdése iktatta be.
-[^159]: A 2. számú melléklet A. Rész II. Fejezet 6/E. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdése iktatta be.
-[^160]: A 2. számú melléklet A. Része II. Fejezetének 10. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
+[^138]: A 2. számú melléklet A. Része I. Fejezetének 7. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
+[^139]: A 2. számú melléklet A. Része I. Fejezetének 11. pontját a 76/2003. (XI. 24.) GKM rendelet 6. §-a iktatta a szövegbe.
+[^140]: A 2. számú melléklet A. része I. fejezetének 12. pontját a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdése iktatta be.
+[^141]: A 2. számú melléklet A. rész I. fejezetének 13. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
+[^142]: A 2. számú melléklet A. rész I. fejezetének 14. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
+[^143]: A 2. számú melléklet A. rész I. fejezetének 15. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
+[^144]: A 2. számú melléklet A. rész II. fejezet 1. pontját a 13/2022. (IV. 14.) ITM rendelet 12. § e) pontja hatályon kívül helyezte.
+[^145]: A 2. számú melléklet A. rész II. fejezetének 2. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított, a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^146]: A 2. számú melléklet A. rész II. fejezetének 3. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított, a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^147]: A 2. számú melléklet A. rész II. fejezetének 4. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított szöveg.
+[^148]: A 2. számú melléklet A. Rész II. Fejezet 4. pont a) alpontja a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^149]: A 2. számú melléklet A. rész II. fejezet 4. pont d) alpontja a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^150]: A 2. számú melléklet A. rész II. fejezet 4. pont e) alpontját a 13/2022. (IV. 14.) ITM rendelet 11. §-a iktatta be.
+[^151]: A 2. számú melléklet A. rész II. fejezetének 5. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított, a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^152]: A 2. számú melléklet A. része II. fejezetének 6/A. pontja a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^153]: A 2. számú melléklet A. része II. fejezetének 6/B. pontja a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^154]: A 2. számú melléklet A. Rész II. Fejezet 6/C. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdése iktatta be.
+[^155]: A 2. számú melléklet A. Rész II. Fejezet 6/D. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdése iktatta be.
+[^156]: A 2. számú melléklet A. rész II. fejezet 6/E. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdése iktatta be, szövege a 13/2022. (IV. 14.) ITM rendelet 11. §-ával megállapított szöveg.
+[^157]: A 2. számú melléklet A. rész II. fejezet 7. pontja a 13/2022. (IV. 14.) ITM rendelet 11. §-ával megállapított szöveg.
+[^158]: A 2. számú melléklet A. rész II. fejezet 10. pontja a 13/2022. (IV. 14.) ITM rendelet 11. §-ával megállapított szöveg.
+[^159]: A 2. számú melléklet A. rész II. fejezet 11. pontját a 13/2022. (IV. 14.) ITM rendelet 12. § e) pontja hatályon kívül helyezte.
+[^160]: A 2. számú melléklet A. rész II. fejezet 12. pontját a 13/2022. (IV. 14.) ITM rendelet 12. § e) pontja hatályon kívül helyezte.
 [^161]: A 2. számú melléklet II. fejezetének 14. pontja a 32/2005. (VI. 2.) GKM rendelet 4. § (3) bekezdésének b) pontjával megállapított szöveg.
 [^162]: A 2. számú melléklet A. Rész II. Fejezet „Képesítési előírások” című részének 15. pontját a 76/2003. (XI. 24.) GKM rendelet 6. §-a iktatta be, szövege a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^163]: A 2. számú melléklet A. rész II. fejezetének 16. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
 [^164]: A 2. számú melléklet A. rész II. fejezetének 17. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
 [^165]: A 2. számú melléklet A. rész II. fejezetének 18. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^166]: A 2. számú melléklet A. rész III. fejezetének 1. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított szöveg.
-[^167]: A 2. számú melléklet A. Rész III. Fejezet 1. pont b) alpont ba) pontja a 29/2014. (V. 5.) NFM rendelet 19. § c) pontja szerint módosított szöveg.
-[^168]: A 2. számú melléklet A. rész III. fejezetének 2. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított szöveg.
-[^169]: A 2. számú melléklet A. Rész III. Fejezet 2. pont ba) alpontja a 29/2014. (V. 5.) NFM rendelet 19. § d) pontja szerint módosított szöveg.
-[^170]: A 2. számú melléklet A. Rész III. Fejezet 2. pont bb) alpontja a 29/2014. (V. 5.) NFM rendelet 19. § d) pontja szerint módosított szöveg.
-[^171]: A 2. számú melléklet A. Rész III. Fejezet 2. pont bc) alpontja a 29/2014. (V. 5.) NFM rendelet 19. § d) pontja szerint módosított szöveg.
-[^172]: A 2. számú melléklet A. Rész III. Fejezet 3. pont a) alpont ac) pontja a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdésével megállapított, a 29/2014. (V. 5.) NFM rendelet 19. § e) pontja szerint módosított szöveg.
-[^173]: A 2. számú melléklet A. Rész III. fejezet „A képesítések megszerzésének feltételei” című része 3. pontjának af) alpontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése iktatta be.
-[^174]: A 2. számú melléklet A. Rész III. Fejezete 3. pontjának b) alpontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
-[^175]: A 2. számú melléklet A. rész III. fejezet 3. pontjának bd) alpontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^176]: A 2. számú melléklet A. Rész III. Fejezet 3. pont c) alpontja a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^177]: A 2. számú melléklet A. Rész III. Fejezet 4. pontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
-[^178]: A 2. számú melléklet A. Rész III. fejezet „A képesítések megszerzésének feltételei” című része 5. pontjának d) pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése iktatta be.
-[^179]: A 2. számú melléklet A. Rész III. Fejezetének 7. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
-[^180]: A 2. számú melléklet A. része III. fejezete 7. a) pontjának ad) alpontját a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdése iktatta be, szövege a 45/2019. (XII. 20.) ITM rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^181]: A 2. számú melléklet A. Rész III. Fejezet 8. pont d) alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^182]: A 2. számú melléklet A. Rész III. fejezet „A képesítések megszerzésének feltételei” című részének 9. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^183]: A 2. számú melléklet A. Rész III. fejezet „A képesítések megszerzésének feltételei” című részének 10. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^184]: A 2. számú melléklet III. fejezetének 11. pontja a 32/2005. (VI. 2.) GKM rendelet 4. § (3) bekezdésének c) pontjával megállapított szöveg.
-[^185]: A 2. számú melléklet A. rész III. fejezetének 13. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított szöveg.
-[^186]: Lásd a 17/2002. (III. 7.) KöViM rendeletet.
-[^187]: A 2. számú melléklet A. Rész III. Fejezet 13. pont d) alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^188]: A 2. számú melléklet A. rész III. fejezet 13. pont e) alpontja a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^189]: A 2. számú melléklet A. rész III. fejezet 13. pont f) alpontja a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontjával megállapított szöveg.
-[^190]: A 2. számú melléklet A. Rész III. Fejezet „A képesítések megszerzésének feltételei” című részének 16. pontját a 76/2003. (XI. 24.) GKM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 42/2013. (VII. 19.) NFM rendelet 4. § b) pontja.
-[^191]: A 2. számú melléklet A. rész III. fejezetének 17. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^192]: A 2. számú melléklet A. rész III. fejezetének 18. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^193]: A 2. számú melléklet A. rész III. fejezetének 19. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^194]: A 2. számú melléklet A. rész III. fejezetének 20. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
-[^195]: A 2. számú melléklet A. rész III. fejezetének 21. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, szövege a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^196]: A 2. számú melléklet A. Rész IV. Fejezet címe a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^197]: A 2. számú melléklet A. Rész IV. Fejezet 1. pontja a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^198]: A 2. számú melléklet A. Rész IV. fejezet „A képesítővizsgák tárgyai” című részének 2. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított, a 42/2013. (VII. 19.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
-[^199]: A 2. számú melléklet A. Rész IV. Fejezet 3. pont nyitó szövegrésze a 29/2014. (V. 5.) NFM rendelet 19. § f) pontja szerint módosított szöveg.
-[^200]: A 2. számú melléklet A. Rész IV. Fejezet 3. pont f) alpontja a 29/2014. (V. 5.) NFM rendelet 19. § g) pontja szerint módosított szöveg.
-[^201]: A 2. számú melléklet A. Része IV. Fejezetének új 4. pontját a 76/2003. (XI. 24.) GKM rendelet 6. §-a iktatta a szövegbe, egyidejűleg az eredeti 4-7. pont számozását 5-8. pontra változtatta.
-[^202]: A 2. számú melléklet A. Rész IV. Fejezet 4. pont a) alpont nyitó szövegrésze a 42/2013. (VII. 19.) NFM rendelet 3. § b) pontjával megállapított szöveg.
-[^203]: A 2. számú melléklet A. Rész IV. Fejezet 4. pont b) alpontját a 29/2014. (V. 5.) NFM rendelet 20. § d) pontja hatályon kívül helyezte.
-[^204]: A 2. számú melléklet A. Rész IV. fejezet „A képesítővizsgák tárgyai” című részének új 5. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése iktatta be, egyidejűleg az eredeti 5. pont számozását 7. pontra változtatva. A 2. számú melléklet A. rész IV. fejezetének 5. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított szöveg.
-[^205]: A 2. számú melléklet A. Rész IV. fejezet „A képesítővizsgák tárgyai” című részének új 6. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése iktatta be, egyidejűleg az eredeti 6. pont számozását 8. pontra változtatva.
-[^206]: A 2. számú melléklet A. Része IV. Fejezet „A képesítővizsgák tárgyai” című része eredeti 4. pontjának számozását a 76/2003. (XI. 24.) GKM rendelet 6. §-a 5. pontra változtatta, szövege a 32/2005. (VI. 2.) GKM rendelet 4. § (3) bekezdésének d) pontjával megállapított szöveg. A 2. számú melléklet A. Rész IV. fejezet „A képesítővizsgák tárgyai” című része 5. pontjának számozását a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése 7. pontra változtatta.
-[^207]: A 2. számú melléklet A. rész IV. fejezetének új 8. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, egyidejűleg az eredeti 8. pont számozását 11. pontra változtatta.
-[^208]: A 2. számú melléklet A. rész IV. fejezetének új 9. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, egyidejűleg az eredeti 9. pont számozását 12. pontra változtatta.
-[^209]: A 2. számú melléklet A. rész IV. fejezetének új 10. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, egyidejűleg az eredeti 10. pont számozását 13. pontra változtatta.
-[^210]: A 2. számú melléklet A. Rész IV. Fejezet 11. pontja a 45/2019. (XII. 20.) ITM rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^211]: A 2. számú melléklet A. rész IV. fejezet 9. – eredeti 6. – pontjának számozását 12. pontra változtatta a 9/2009. (III. 6.) KHEM rendelet 5. §-a.
-[^212]: A 2. számú melléklet A. rész IV. Fejezet 10. – eredeti 7. – pontjának számozását 13. pontra változtatta a 9/2009. (III. 6.) KHEM rendelet 5. §-a, szövege a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^213]: A 2. számú melléklet A. rész IV. Fejezet 13a. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdése iktatta be.
-[^214]: A 2. számú melléklet A. rész IV. fejezetének 2/IV/1. táblázata a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított szöveg.
-[^215]: A 2. számú melléklet A. Rész IV. Fejezet 2/IV/1. táblázat címe a 29/2014. (V. 5.) NFM rendelet 19. § h) pontja szerint módosított szöveg.
-[^216]: A 2. számú melléklet B. Rész II. fejezete a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^217]: A 2. számú melléklet B. Rész III. Fejezete a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
-[^218]: A 2. számú melléklet B. Rész III. Fejezet 4. pontja a 45/2019. (XII. 20.) ITM rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^219]: A 2. számú melléklet B. rész III. fejezet 5. pontja a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^220]: A 2. számú melléklet B. rész IV. Fejezete a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^166]: A 2. számú melléklet A. rész III. fejezet 1. pontját a 13/2022. (IV. 14.) ITM rendelet 12. § f) pontja hatályon kívül helyezte.
+[^167]: A 2. számú melléklet A. rész III. fejezetének 2. pontja a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított szöveg.
+[^168]: A 2. számú melléklet A. Rész III. Fejezet 2. pont ba) alpontja a 29/2014. (V. 5.) NFM rendelet 19. § d) pontja szerint módosított szöveg.
+[^169]: A 2. számú melléklet A. Rész III. Fejezet 2. pont bb) alpontja a 29/2014. (V. 5.) NFM rendelet 19. § d) pontja szerint módosított szöveg.
+[^170]: A 2. számú melléklet A. Rész III. Fejezet 2. pont bc) alpontja a 29/2014. (V. 5.) NFM rendelet 19. § d) pontja szerint módosított szöveg.
+[^171]: A 2. számú melléklet A. Rész III. Fejezet 3. pont a) alpont ac) pontja a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdésével megállapított, a 29/2014. (V. 5.) NFM rendelet 19. § e) pontja szerint módosított szöveg.
+[^172]: A 2. számú melléklet A. Rész III. fejezet „A képesítések megszerzésének feltételei” című része 3. pontjának af) alpontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése iktatta be.
+[^173]: A 2. számú melléklet A. Rész III. Fejezete 3. pontjának b) alpontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
+[^174]: A 2. számú melléklet A. rész III. fejezet 3. pont bd) alpontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 13/2022. (IV. 14.) ITM rendelet 12. § f) pontja.
+[^175]: A 2. számú melléklet A. rész III. fejezet 3. pont c) alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § f) pontja hatályon kívül helyezte.
+[^176]: A 2. számú melléklet A. Rész III. Fejezet 4. pontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
+[^177]: A 2. számú melléklet A. Rész III. fejezet „A képesítések megszerzésének feltételei” című része 5. pontjának d) pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése iktatta be.
+[^178]: A 2. számú melléklet A. rész III. fejezet 7. pontját a 13/2022. (IV. 14.) ITM rendelet 12. § f) pontja hatályon kívül helyezte.
+[^179]: A 2. számú melléklet A. rész III. fejezet 8. pontját a 13/2022. (IV. 14.) ITM rendelet 12. § f) pontja hatályon kívül helyezte.
+[^180]: A 2. számú melléklet A. Rész III. fejezet „A képesítések megszerzésének feltételei” című részének 9. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^181]: A 2. számú melléklet A. Rész III. fejezet „A képesítések megszerzésének feltételei” című részének 10. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^182]: A 2. számú melléklet III. fejezetének 11. pontja a 32/2005. (VI. 2.) GKM rendelet 4. § (3) bekezdésének c) pontjával megállapított szöveg.
+[^183]: A 2. számú melléklet A. rész III. fejezet 13. pontja a 13/2022. (IV. 14.) ITM rendelet 11. §-ával megállapított szöveg.
+[^184]: A 2. számú melléklet A. Rész III. Fejezet „A képesítések megszerzésének feltételei” című részének 16. pontját a 76/2003. (XI. 24.) GKM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 42/2013. (VII. 19.) NFM rendelet 4. § b) pontja.
+[^185]: A 2. számú melléklet A. rész III. fejezetének 17. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
+[^186]: A 2. számú melléklet A. rész III. fejezetének 18. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
+[^187]: A 2. számú melléklet A. rész III. fejezetének 19. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
+[^188]: A 2. számú melléklet A. rész III. fejezetének 20. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be.
+[^189]: A 2. számú melléklet A. rész III. fejezetének 21. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, szövege a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^190]: A 2. számú melléklet A. Rész IV. Fejezet címe a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^191]: A 2. számú melléklet A. rész IV. fejezet 1. pontja a 13/2022. (IV. 14.) ITM rendelet 11. §-ával megállapított szöveg.
+[^192]: A 2. számú melléklet A. Rész IV. fejezet „A képesítővizsgák tárgyai” című részének 2. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított, a 42/2013. (VII. 19.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^193]: A 2. számú melléklet A. Rész IV. Fejezet 3. pont nyitó szövegrésze a 29/2014. (V. 5.) NFM rendelet 19. § f) pontja szerint módosított szöveg.
+[^194]: A 2. számú melléklet A. Rész IV. Fejezet 3. pont f) alpontja a 29/2014. (V. 5.) NFM rendelet 19. § g) pontja szerint módosított szöveg.
+[^195]: A 2. számú melléklet A. Része IV. Fejezetének új 4. pontját a 76/2003. (XI. 24.) GKM rendelet 6. §-a iktatta a szövegbe, egyidejűleg az eredeti 4-7. pont számozását 5-8. pontra változtatta.
+[^196]: A 2. számú melléklet A. Rész IV. Fejezet 4. pont a) alpont nyitó szövegrésze a 42/2013. (VII. 19.) NFM rendelet 3. § b) pontjával megállapított szöveg.
+[^197]: A 2. számú melléklet A. Rész IV. Fejezet 4. pont b) alpontját a 29/2014. (V. 5.) NFM rendelet 20. § d) pontja hatályon kívül helyezte.
+[^198]: A 2. számú melléklet A. Rész IV. fejezet „A képesítővizsgák tárgyai” című részének új 5. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése iktatta be, egyidejűleg az eredeti 5. pont számozását 7. pontra változtatva. A 2. számú melléklet A. rész IV. fejezet 5. pontja a 13/2022. (IV. 14.) ITM rendelet 11. §-ával megállapított szöveg.
+[^199]: A 2. számú melléklet A. Rész IV. fejezet „A képesítővizsgák tárgyai” című részének új 6. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése iktatta be, egyidejűleg az eredeti 6. pont számozását 8. pontra változtatva.
+[^200]: A 2. számú melléklet A. Része IV. Fejezet „A képesítővizsgák tárgyai” című része eredeti 4. pontjának számozását a 76/2003. (XI. 24.) GKM rendelet 6. §-a 5. pontra változtatta, szövege a 32/2005. (VI. 2.) GKM rendelet 4. § (3) bekezdésének d) pontjával megállapított szöveg. A 2. számú melléklet A. Rész IV. fejezet „A képesítővizsgák tárgyai” című része 5. pontjának számozását a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdése 7. pontra változtatta.
+[^201]: A 2. számú melléklet A. rész IV. fejezetének új 8. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, egyidejűleg az eredeti 8. pont számozását 11. pontra változtatta.
+[^202]: A 2. számú melléklet A. rész IV. fejezetének új 9. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, egyidejűleg az eredeti 9. pont számozását 12. pontra változtatta.
+[^203]: A 2. számú melléklet A. rész IV. fejezetének új 10. pontját a 9/2009. (III. 6.) KHEM rendelet 5. §-a iktatta be, egyidejűleg az eredeti 10. pont számozását 13. pontra változtatta.
+[^204]: A 2. számú melléklet A. rész IV. fejezet 11. pontja a 13/2022. (IV. 14.) ITM rendelet 11. §-ával megállapított szöveg.
+[^205]: A 2. számú melléklet A. rész IV. fejezet 9. – eredeti 6. – pontjának számozását 12. pontra változtatta a 9/2009. (III. 6.) KHEM rendelet 5. §-a. A 2. számú melléklet A. rész IV. fejezet 12. pontját a 13/2022. (IV. 14.) ITM rendelet 12. § g) pontja hatályon kívül helyezte.
+[^206]: A 2. számú melléklet A. rész IV. Fejezet 10. – eredeti 7. – pontjának számozását 13. pontra változtatta a 9/2009. (III. 6.) KHEM rendelet 5. §-a. A 2. számú melléklet A. rész IV. fejezet 13. pontját a 13/2022. (IV. 14.) ITM rendelet 12. § g) pontja hatályon kívül helyezte.
+[^207]: A 2. számú melléklet A. rész IV. Fejezet 13a. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdése iktatta be, hatályon kívül helyezte a 13/2022. (IV. 14.) ITM rendelet 12. § g) pontja.
+[^208]: A 2. számú melléklet A. rész IV. fejezetének 2/IV/1. táblázata a 9/2009. (III. 6.) KHEM rendelet 5. §-ával megállapított, a 13/2022. (IV. 14.) ITM rendelet 12. § h) pontja szerint módosított szöveg.
+[^209]: A 2. számú melléklet A. Rész IV. Fejezet 2/IV/1. táblázat címe a 29/2014. (V. 5.) NFM rendelet 19. § h) pontja szerint módosított szöveg.
+[^210]: A 2. számú melléklet B. Rész II. fejezete a 3/2008. (VI. 3.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^211]: A 2. számú melléklet B. Rész III. Fejezete a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
+[^212]: A 2. számú melléklet B. Rész III. Fejezet 4. pontja a 45/2019. (XII. 20.) ITM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^213]: A 2. számú melléklet B. rész III. fejezet 5. pontja a 15/2021. (IV. 9.) ITM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^214]: A 2. számú melléklet B. rész IV. Fejezete a 29/2014. (V. 5.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
