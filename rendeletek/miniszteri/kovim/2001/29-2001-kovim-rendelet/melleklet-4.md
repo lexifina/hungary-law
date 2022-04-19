@@ -28,7 +28,7 @@
 
 |  | d) a hajózási hatóság nyilvántartásában szereplő adatok módosítása, igazolása | 7 000 |
 
-|  | e) hatósági bejegyzés a szolgálati könyvbe | 1 000 |
+|  | e) képesítés bejegyzése a szolgálati könyvbe | 1 000 |
 
 |  | f) oktatási napló kiadása | 3 000 |
 
@@ -54,6 +54,6 @@
 
 | IV. | a felmentési kérelem eljárási díja megegyezik a vizsga elemenkénti díjával |  |
 
-4. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^23]
+4. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^26]
 
-[^23]: A 4. számú mellékletet a 33/2014. (VII. 15.) NFM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^26]: A 4. számú mellékletet a 33/2014. (VII. 15.) NFM rendelet 3. § b) pontja hatályon kívül helyezte.
