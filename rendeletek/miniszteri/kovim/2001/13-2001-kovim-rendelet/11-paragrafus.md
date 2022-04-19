@@ -24,6 +24,8 @@ ae) szolgálati, valamint gazdasági célú hajózási tevékenység végzésér
 
 b) a 2. és 4. zónában, valamint a Fertő tó és Velencei-tó területén üzemeltetett úszómunkagépek
 
+megfelelőségét.
+
 [^40]: A 11. § a 9/2008. (III. 21.) GKM rendelet 7. §-ával megállapított szöveg.
 [^41]: A 11. § (2) bekezdése a 10/2015. (III. 11.) NFM rendelet 5. §-a szerint módosított szöveg.
 [^42]: A 11. § (3) bekezdését az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## megfelelőségét.
-
 12. §[^44] (1)[^45] Nem kell üzembe helyezés előtti szemlét végezni annál a típusbizonyítvánnyal rendelkező, a hajózási hatóságnak azonosítás és egyezőség vizsgálata céljából bemutatott kedvtelési célú kishajónál és motoros vízi sporteszköznél, amelynek megfelelőségét elismert hajóosztályozó társaság vagy egyéb, az Európai Gazdasági Térségről szóló megállapodásban részes államban akkreditált megfelelőség-ellenőrző szervezet tanúsította.
 
 (2)[^46]
