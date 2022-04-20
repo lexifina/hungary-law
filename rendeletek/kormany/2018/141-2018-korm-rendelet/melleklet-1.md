@@ -1,4 +1,4 @@
-## 96. §[^280] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 153/2022. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr88.) módosított 3. § (3) bekezdését és megállapított 3. § (7) bekezdését, 5/G. §-át és 2. mellékletében foglalt táblázat 96. sorát a Módr88. hatálybalépésekor[^281] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 97. §[^282] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 158/2022. (IV. 19.) Korm. rendelettel (a továbbiakban: Módr89.) módosított 2. mellékletében foglalt táblázat B:85 mezőjét a Módr89. hatálybalépésekor[^283] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^282] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^284] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^280]: A 96. §-t a 153/2022. (IV. 14.) Korm. rendelet 3. §-a iktatta be.
-[^281]: A hatálybalépés időpontja 2022. április 16.
-[^282]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^282]: A 97. §-t a 158/2022. (IV. 19.) Korm. rendelet 1. §-a iktatta be.
+[^283]: A hatálybalépés időpontja 2022. április 20.
+[^284]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
