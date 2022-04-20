@@ -1,0 +1,3 @@
+## 2. § Az R. a következő 59. §-sal egészül ki:
+
+## „59. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 159/2022. (IV. 19.) Korm. rendelettel (a továbbiakban: Módr51.) megállapított 6/Q. §-át és 2. mellékletében foglalt táblázat 85. sorát, továbbá módosított 1. § (3) bekezdését, 3. § (3) bekezdését, valamint 5. § (2) bekezdését a Módr51. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
