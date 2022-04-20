@@ -14,4 +14,6 @@ b) a 2024. évben 2 278 405 460 forint
 
 összegben állapítja meg.
 
-2. A Kormány visszavonja az 1821/2020. (XI. 18.) Korm. határozat 1. pont 1.5., 1.6., 1.14. és 1.15. pontját.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
