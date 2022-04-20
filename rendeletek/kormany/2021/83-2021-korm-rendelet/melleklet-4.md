@@ -22,6 +22,8 @@
 
 | 10. | Bernáth Kálmán Református Gimnázium, Kereskedelmi és Vendéglátóipari Szakgimnázium és Szakközépiskola fejlesztése | Vác belterület 1899/9, 1901/1, 1901/2 és 1902/3 helyrajzi számú ingatlanok | 2023. január 1. – 2025. január 1. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^165]
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^168]
 
-[^165]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
+A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része
+
+[^168]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.

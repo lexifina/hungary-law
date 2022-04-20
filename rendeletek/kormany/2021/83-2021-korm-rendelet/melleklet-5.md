@@ -1,5 +1,3 @@
-## A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része
-
 |  | X | Y |
 
 | 001 | 654 620,484 | 239 481,346 |
@@ -210,6 +208,6 @@
 
 | 104 | 654 631,095 | 239 483,919 |
 
-5. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^166]
+5. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^169]
 
-[^166]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^169]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

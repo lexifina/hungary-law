@@ -1,5 +1,3 @@
-## A Beruházások, valamint a kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottak
-
 |  | A | B | C |
 
 | 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt kormánymegbízott |
@@ -170,6 +168,8 @@
 
 | 84. | Bernáth Kálmán Református Gimnázium, Kereskedelmi és Vendéglátóipari Szakgimnázium és Szakközépiskola fejlesztése | Vác belterület 1899/9, 1901/1, 1901/2 és 1902/3 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^164]
+| 85. | Budapesti nevelési-oktatási célú beruházás | Budapest II. kerület belterület, 11186/6 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^164]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^167]
+
+[^167]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
