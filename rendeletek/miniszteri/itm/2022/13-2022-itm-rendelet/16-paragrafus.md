@@ -1,3 +1,5 @@
-## 15. § Az R3. 3. számú mellékletében foglalt táblázat 2. e) sorában a „hatósági bejegyzés” szövegrész helyébe a „képesítés bejegyzése” szöveg lép.
+## 13–15. §[^4]
 
 ## 4. A hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESzCsM együttes rendelet módosítása
+
+[^4]: A 13–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

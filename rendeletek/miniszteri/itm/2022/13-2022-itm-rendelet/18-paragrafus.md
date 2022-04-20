@@ -1,3 +1,0 @@
-## 17. § Az R4. 4. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(8) Az orvosi vizsgálat akkor állapíthat meg az e rendelet alapján megállapítható leghosszabb időszaknál rövidebb határidőt, ha az 1. számú melléklet IV. pontjában foglalt – az alkalmasságot korlátozó betegséget vagy testi fogyatékosságot – mutat ki a vizsgálat. A korlátozást részletesen indokolni kell. Ha az orvosi vizsgálat nem állapít meg korlátozásra okot adó körülményt, akkor az orvosi alkalmassági igazolást mindaddig érvényesnek kell tekinteni a képesítő okmány cseréjekor is, amíg az abban megjelölt határidő le nem telik.”
