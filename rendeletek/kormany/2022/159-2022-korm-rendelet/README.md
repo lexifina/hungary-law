@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-159-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-04-20 | 2022-159-20-22.1 | 159/2022. (IV. 19.) Korm. rendelet |
+| 2022-04-21 | 2022-159-20-22.2 | 2010: CXXX. törvény |
