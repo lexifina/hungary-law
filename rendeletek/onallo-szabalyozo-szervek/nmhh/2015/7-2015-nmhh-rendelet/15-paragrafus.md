@@ -1,6 +1,6 @@
-## 14. §[^236] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+## 14. §[^246] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-## 15. §[^237] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2., 3. és 6. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti felosztás, illetve a frekvenciasávok használati szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
+## 15. §[^247] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2., 3. és 6. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti felosztás, illetve a frekvenciasávok használati szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
 
 1. ERC/DEC/(96)06: az ERC 1996. március 7-i határozata a „Határozat a digitális kis hatókörzetű rádió (DSRR) összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (93)01 ERC-határozat visszavonásáról;
 
@@ -8,9 +8,9 @@
 
 3. ERC/DEC/(99)24: az ERC 1999. november 29-i határozata a „Határozat a nagysebességű rádiós helyi hálózatok (HIPERLAN-ok) bevezetéséhez kijelölendő harmonizált frekvenciasávokról” című (96)03 ERC-határozat visszavonásáról;
 
-4.[^238]
+4.[^248]
 
-5.[^239]
+5.[^249]
 
 6. ECC/DEC/(02)02: az ECC 2002. március 15-i határozata a „Határozat a közúti közlekedés telematikai rendszereinek összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (92)02 ERC-határozat visszavonásáról;
 
@@ -18,7 +18,7 @@
 
 8. ECC/DEC/(03)03: az ECC 2003. október 17-i határozata a „Határozat a repülőgépes földfelszíni távközlő rendszerre vonatkozó Schiever Terv kezeléséről” című (97)08 ERC-határozat visszavonásáról;
 
-9.[^240] ECC/DEC/(03)05: a frekvenciasávok nemzeti felosztási és használati táblázatainak (NTFA-k) közzététele;
+9.[^250] ECC/DEC/(03)05: a frekvenciasávok nemzeti felosztási és használati táblázatainak (NTFA-k) közzététele;
 
 10. ECC/DEC/(03)06: az ECC 2003. október 17-i határozata a „Határozat a frekvenciasávok nemzeti felosztási táblázatainak közzétételéről” című (97)01 ERC-határozat visszavonásáról;
 
@@ -46,24 +46,24 @@
 
 22. ECC/DEC/(16)03: ECC-határozat a (99)17 ERC-határozat visszavonásáról;
 
-22a.[^241] ECC/DEC/(17)01: ECC-határozat a 900 MHz-es sávú analóg CT1 és CT1+ alkalmazások kivonásáról szóló (01)01 ECC-határozat és a 900 MHz-es sávú digitális CT2 alkalmazások kivonásáról szóló (01)02 ECC-határozat visszavonásáról;
+22a.[^251] ECC/DEC/(17)01: ECC-határozat a 900 MHz-es sávú analóg CT1 és CT1+ alkalmazások kivonásáról szóló (01)01 ECC-határozat és a 900 MHz-es sávú digitális CT2 alkalmazások kivonásáról szóló (01)02 ECC-határozat visszavonásáról;
 
 23. ECC/DEC/(17)03: ECC-határozat az „Az Euteltracs rendszer Omnitracs végberendezéseinek az egyedi engedélyezés alóli mentesítéséről” című ERC/DEC/(98)15 Határozat visszavonásáról;
 
-24.[^242] ECC/DEC/(18)02: ECC-határozat a 3400–3800 MHz közötti frekvenciasávoknak a szélessávú vezetéknélküli hozzáférési rendszerek (BWA) harmonizált megvalósítása céljára történő hozzáférhetőségéről szóló
+24.[^252] ECC/DEC/(18)02: ECC-határozat a 3400–3800 MHz közötti frekvenciasávoknak a szélessávú vezetéknélküli hozzáférési rendszerek (BWA) harmonizált megvalósítása céljára történő hozzáférhetőségéről szóló
 
 (07)02 ECC-határozat visszavonásáról.
 
-25.[^243] ECC/DEC/(18)03: ECC-határozat a 2400–2483,5 MHz frekvenciasávban működő – mozgásérzékelők és riasztók céljára használt – kis hatótávolságú eszközök harmonizált frekvenciáiról, műszaki jellemzőiről, valamint egyedi engedélyezés alóli mentesítéséről szóló (01)08 ERC-határozat visszavonásáról;
+25.[^253] ECC/DEC/(18)03: ECC-határozat a 2400–2483,5 MHz frekvenciasávban működő – mozgásérzékelők és riasztók céljára használt – kis hatótávolságú eszközök harmonizált frekvenciáiról, műszaki jellemzőiről, valamint egyedi engedélyezés alóli mentesítéséről szóló (01)08 ERC-határozat visszavonásáról;
 
-26.[^244] ECC/DEC/(19)01: ECC-határozat a 80 MHz, 160 MHz, 380–470 MHz és a 800/900 MHz sávban a keskeny- és szélesebb sávú PMR/PAMR/PPDR rendszerek digitális végberendezéseinek egyedi engedélyezés alóli mentesítéséről, valamint a keskeny- és szélesebb sávú PPDR rendszerek digitális végberendezéseinek szabad mozgásáról és használatáról szóló (11)04 ECC-határozat visszavonásáról.
+26.[^254] ECC/DEC/(19)01: ECC-határozat a 80 MHz, 160 MHz, 380–470 MHz és a 800/900 MHz sávban a keskeny- és szélesebb sávú PMR/PAMR/PPDR rendszerek digitális végberendezéseinek egyedi engedélyezés alóli mentesítéséről, valamint a keskeny- és szélesebb sávú PPDR rendszerek digitális végberendezéseinek szabad mozgásáról és használatáról szóló (11)04 ECC-határozat visszavonásáról.
 
-[^236]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
-[^237]: A 15. § az 1/2019. (I. 22.) NMHH rendelet 5. §-ával megállapított, nyitó szövegrésze a 18/2020. (XII. 17.) NMHH rendelet 6. § (3) bekezdés 14. pontja szerint módosított szöveg.
-[^238]: A 15. § 4. pontját a 3/2020. (X. 5.) NMHH rendelet 5. § a) pontja hatályon kívül helyezte.
-[^239]: A 15. § 5. pontját a 3/2020. (X. 5.) NMHH rendelet 5. § a) pontja hatályon kívül helyezte.
-[^240]: A 15. § 9. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (3) bekezdés 15. pontja szerint módosított szöveg.
-[^241]: A 15. § 22a. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (1) bekezdése iktatta be.
-[^242]: A 15. § 24. pontját a 2/2019. (III. 22.) NMHH rendelet 10. §-a iktatta be.
-[^243]: A 15. § 25. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (2) bekezdése iktatta be.
-[^244]: A 15. § 26. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (2) bekezdése iktatta be.
+[^246]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
+[^247]: A 15. § az 1/2019. (I. 22.) NMHH rendelet 5. §-ával megállapított, nyitó szövegrésze a 18/2020. (XII. 17.) NMHH rendelet 6. § (3) bekezdés 14. pontja szerint módosított szöveg.
+[^248]: A 15. § 4. pontját a 3/2020. (X. 5.) NMHH rendelet 5. § a) pontja hatályon kívül helyezte.
+[^249]: A 15. § 5. pontját a 3/2020. (X. 5.) NMHH rendelet 5. § a) pontja hatályon kívül helyezte.
+[^250]: A 15. § 9. pontja a 18/2020. (XII. 17.) NMHH rendelet 6. § (3) bekezdés 15. pontja szerint módosított szöveg.
+[^251]: A 15. § 22a. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (1) bekezdése iktatta be.
+[^252]: A 15. § 24. pontját a 2/2019. (III. 22.) NMHH rendelet 10. §-a iktatta be.
+[^253]: A 15. § 25. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (2) bekezdése iktatta be.
+[^254]: A 15. § 26. pontját a 3/2020. (X. 5.) NMHH rendelet 2. § (2) bekezdése iktatta be.
