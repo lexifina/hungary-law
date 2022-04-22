@@ -12,9 +12,9 @@
 
 | 4. | MVM Energetika Zrt. | 1031 Budapest, Szentendrei út 207–209. | X |  |
 
-| 5. | MVM NET Távközlési Szolgáltató Zrt. | 1134 Budapest, Róbert Károly krt. 59. | X | X |
+| 5. | AH NET Távközlési Szolgáltató Zrt. | 1119 Budapest, Petzvál József utca 31–33. | X | X |
 
-| 6. | Telenor Magyarország Zrt. | 2045 Törökbálint, Pannon út 1. | X | X |
+| 6. | Yettel Magyarország Zrt. | 2045 Törökbálint, Pannon út 1. | X | X |
 
 | 7. | Pro-M Professzionális Mobilrádió Zrt. | 1107 Budapest, Száva u. 3–5. | X | X |
 
