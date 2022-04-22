@@ -38,4 +38,4 @@
 
 4. melléklet a 2/2015. (II. 20.) IM rendelethez[^8]
 
-[^8]: A 4. melléklet a 15/2021. (XI. 29.) IM rendelet 7. §-ával megállapított szöveg.
+[^8]: A 4. melléklet a 11/2022. (IV. 21.) IM rendelet 2. §-ával megállapított szöveg.
