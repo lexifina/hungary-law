@@ -1,6 +1,6 @@
 3. melléklet a 14/2020. (XII. 15.) NMHH rendelethez
 
-## Jelzéspont kódok felosztási terve és a kódokkal való gazdálkodás rendjére vonatkozó különös szabályok
+Jelzéspont kódok felosztási terve és a kódokkal való gazdálkodás rendjére vonatkozó különös szabályok
 
 A felosztási terv az ITU-T Q.708 Ajánlás alapján készült, figyelembe véve a Q.704 és Q.705 Ajánlásokban foglaltakat is.
 

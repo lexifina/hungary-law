@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-14-20-3
 | 2021-07-13 | 2020-14-20-3H.3 | 6/2021. (VII. 8.) NMHH rendelet |
 | 2022-01-01 | 2020-14-20-3H.4 | 6/2021. (VII. 8.) NMHH rendelet |
 | 2022-01-02 | 2020-14-20-3H.5 | 2010: CXXX. törvény |
+| 2022-04-22 | 2020-14-20-3H.6 | 6/2021. (VII. 8.) NMHH rendelet |

@@ -1,8 +1,6 @@
-## való megfelelést szolgálja.
-
 1. melléklet a 14/2020. (XII. 15.) NMHH rendelethez[^8]
 
-## A számfüggő elektronikus hírközlési szolgáltatások számozási terve és az azonosítóival való gazdálkodás rendjére vonatkozó különös szabályok
+A számfüggő elektronikus hírközlési szolgáltatások számozási terve és az azonosítóival való gazdálkodás rendjére vonatkozó különös szabályok
 
 1. NEMZETKÖZI SZÁMOK
 
@@ -332,7 +330,7 @@ abc defg = előfizetői szám 000 0000 – 999 9999 között.
 
 2.3.3. A mobil számozási tartományok felosztása
 
-Az SHS = 20, 30 és 70 számozási tartomány, valamint az SHS = 50 számozási tartomány 1. táblázatban meghatározott résztartományai hatósági szerződés keretében a táblázatban szereplő mobil rádiótelefon szolgáltatókhoz vannak rendelve.
+Az SHS = 20, 30 és 70 számozási tartomány, valamint az SHS = 50 számozási tartomány 1. táblázatban meghatározott résztartományai a táblázatban felsorolt, versenyeztetési eljárásban rádióspektrum-használati jogosultságot szerzett mobil rádiótelefon szolgáltatókhoz vannak rendelve.
 
 Az SHS = 31 számozási tartomány nincsen mobil rádiótelefon szolgáltatóhoz rendelve.
 
@@ -340,13 +338,13 @@ Az SHS = 31 számozási tartomány nincsen mobil rádiótelefon szolgáltatóhoz
 
 | 1 | SZÁMOZÁSI TARTOMÁNY VAGY RÉSZTARTOMÁNY | SZOLGÁLTATÓ |
 
-| 2 | 20 abc defg | Telenor Magyarország Zrt. |
+| 2 | 20 abc defg | Yettel Magyarország Zrt. |
 
 | 3 | 30 abc defg | Magyar Telekom Nyrt. |
 
 | 4 | 50 1bc defg és 50 2bc defg | DIGI Kft. |
 
-| 5 | 50 9bc defg és 50 8bc defg | MVM NET Zrt. |
+| 5 | 50 9bc defg és 50 8bc defg | AH NET Zrt. |
 
 | 6 | 70 abc defg | Vodafone Magyarország Zrt. |
 
@@ -490,11 +488,11 @@ A hatóság egy adott M2M alkalmazás részére a számokat 1 000-es, 10 000-es 
 
 | 5 | 71 4bc def ghij | 100 000-es számmezők |
 
-A szolgáltató kérelmében meghatározott alkalmazás nyújtásához az M2M számok kijelölhetőségét a hatóság állapítja meg. A hatóság a számmező kijelölési határozatában a kérelemben meghatározott alkalmazás jellegétől függő számhasználati feltételeket állapíthat meg.
+## A szolgáltató kérelmében meghatározott alkalmazás nyújtásához az M2M számok kijelölhetőségét a hatóság állapítja meg. A hatóság a számmező kijelölési határozatában a kérelemben meghatározott alkalmazás jellegétől függő számhasználati feltételeket állapíthat meg.
 
-A gépek közötti szolgáltatás céljára számmező azon szolgáltató számára jelölhető ki, amelyet elektronikus hírközlési szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A gépek közötti szolgáltatás céljára számmező azon szolgáltató számára jelölhető ki, amelyet elektronikus hírközlési szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-A kijelölési engedély jogosultja az adott számmező használatára egyetlen számhasználót, számhasználati jogviszony keretében jogosíthat fel.
+## A kijelölési engedély jogosultja az adott számmező használatára egyetlen számhasználót, számhasználati jogviszony keretében jogosíthat fel.
 
 2.8. Díjmentes szolgáltatás számai (ún. zöld számok) (SHS = 80)
 
@@ -928,4 +926,4 @@ A hívó fél által fizetendő díj mértékét (áfát is tartalmazó híváso
 
 A 19c formátumú telefonos kezelői szolgáltatás szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-[^8]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a, a 2/2022. (IV. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.

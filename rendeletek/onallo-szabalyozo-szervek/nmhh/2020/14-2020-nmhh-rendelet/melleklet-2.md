@@ -1,6 +1,6 @@
 2. melléklet a 14/2020. (XII. 15.) NMHH rendelethez
 
-## Nemzetközi mobil előfizető azonosítók felosztási terve és az azonosítókkal való gazdálkodás rendjére vonatkozó különös szabályok
+Nemzetközi mobil előfizető azonosítók felosztási terve és az azonosítókkal való gazdálkodás rendjére vonatkozó különös szabályok
 
 1. NEMZETKÖZI MOBIL ELŐFIZETŐ AZONOSÍTÓ
 

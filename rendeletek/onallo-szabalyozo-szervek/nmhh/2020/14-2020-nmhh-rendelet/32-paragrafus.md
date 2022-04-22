@@ -7,3 +7,5 @@ b) a 116-os nemzeti számsík harmonizált közérdekű szolgáltatások harmoni
 c) a 2007/116/EK határozatnak a további, 116-tal kezdődő, fenntartott hívószámok bevezetése tekintetében történő módosításáról szóló, 2007. október 29-i 2007/698/EK bizottsági határozatnak,
 
 d) a 2007/116/EK határozatnak további, 116-tal kezdődő, fenntartott hívószámok bevezetése tekintetében történő módosításáról szóló, 2009. november 30-i 2009/884/EK bizottsági határozatnak
+
+való megfelelést szolgálja.

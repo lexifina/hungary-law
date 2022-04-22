@@ -12,7 +12,7 @@ a) 00 – nemzetközi szám vagy
 
 b) + – nemzetközi szám,
 
-## ahol a nemzetközi szám első számjegyei az országkódot határozzák meg.
+ahol a nemzetközi szám első számjegyei az országkódot határozzák meg.
 
 (5) Belföldi hívás esetén a belföldi számok hívása belföldi és nemzetközi számformátummal is megengedett. A belföldi hívás tárcsázási folyamata:
 
@@ -22,7 +22,7 @@ b) 00 – 36 – belföldi szám vagy
 
 c) + – 36 – belföldi szám,
 
-## ahol 36 Magyarország országkódja, és a belföldi szám első számjegyei a körzetszámot vagy a szolgáltatás- vagy hálózatkijelölő számot (SHS) határozzák meg.
+ahol 36 Magyarország országkódja, és a belföldi szám első számjegyei a körzetszámot vagy a szolgáltatás- vagy hálózatkijelölő számot (SHS) határozzák meg.
 
 (6) Nemzetközi barangolás esetén a belföldi számok hívásánál csak az (5) bekezdés b) és c) pontja szerinti nemzetközi számformátum alkalmazható.
 
