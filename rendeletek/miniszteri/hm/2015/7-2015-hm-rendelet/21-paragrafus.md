@@ -1,4 +1,4 @@
-## 20/A. §[^39] A Hjt. 54. § (1) bekezdés e) pontja szerinti esetben a pótlék megállapításának alapja az elrendelésről és teljesítésről szóló nyilvántartás.
+## 20/A. §[^40] A Hjt. 54. § (1) bekezdés e) pontja szerinti esetben a pótlék megállapításának alapja az elrendelésről és teljesítésről szóló nyilvántartás.
 
 ## 13. A készenléti szolgálatban végzett katasztrófavédelmi tevékenység díjazása
 
@@ -6,4 +6,4 @@
 
 (2) Az (1) bekezdés szerinti juttatás megállapításának alapja az arra jogosító katasztrófavédelmi tevékenységet irányító helyszíni vezető által aláírt külön nyilvántartás.
 
-[^39]: A 20/A. §-t a 13/2020. (X. 14.) HM rendelet 35. §-a iktatta be.
+[^40]: A 20/A. §-t a 13/2020. (X. 14.) HM rendelet 35. §-a iktatta be.

@@ -1,6 +1,6 @@
 4. § (1) E rendelet alkalmazásában eseti illetménypótléknak minősül minden II–III. Fejezet szerinti, a Hjt. 2. § 32. pontjának hatálya alá nem tartozó illetménypótlék.
 
-(2)[^13] Az állomány tagja részére – a (3) és (4) bekezdés szerinti esetek kivételével – a készenléti tevékenységért, az ügyeleti tevékenységért, a gyakorlaton végzett tevékenységért, az egészségügyi ügyelet ellátásáért járó fokozott igénybevételi pótlék és az ugyanezen tevékenységek időtartamát érintő túlszolgálatért járó ellentételezés – ideértve a túlszolgálat szabadidővel vagy túlszolgálati díjjal történő megváltását is – közül azonos időszakra csak az egyik, a pénzbeli juttatások közül pedig a magasabb összegű juttatás állapítható meg.
+(2)[^13] Az állomány tagja részére – a (3) és (4) bekezdés szerinti esetek kivételével – a készenléti tevékenységért, az ügyeleti tevékenységért, a gyakorlaton, illetve a Hjt.vhr. 1. § 17. pontja szerinti tábori kihelyezés (a továbbiakban: tábori kihelyezés) keretében végrehajtott kiképzésen végzett tevékenységért, az egészségügyi ügyelet ellátásáért járó fokozott igénybevételi pótlék és az ugyanezen tevékenységek időtartamát érintő túlszolgálatért járó ellentételezés – ideértve a túlszolgálat szabadidővel vagy túlszolgálati díjjal történő megváltását is – közül azonos időszakra csak az egyik, a pénzbeli juttatások közül pedig a magasabb összegű juttatás állapítható meg.
 
 (3)[^14] A (2) bekezdéstől eltérően az állomány tagja részére
 
@@ -12,7 +12,7 @@ b)[^16] a Hjt.vhr. 120/F. § (1) bekezdése szerinti esetben a 19. § (4) vagy (
 
 (4)[^17] Az állománynak a Hjt.vhr. 15. melléklet 5. pontja szerinti fegyveres vagy nemzetközi kötelezettségen alapuló készenléti szolgálatot teljesítő, egyúttal a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatokban közreműködő tagja esetében a fegyveres vagy nemzetközi kötelezettségen alapuló készenléti tevékenységért járó fokozott igénybevételi pótlék és az állomány tagjára irányadó szolgálatteljesítési időn kívülre elrendelt és teljesített túlszolgálat után járó túlszolgálati ellentételezés azonos időszakra együttesen is megállapítható, ha esetében a Hjt. 237/A. § (1) bekezdése alapján a Hjt. 247/H. § alkalmazása nem kerül felfüggesztésre.
 
-[^13]: A 4. § (2) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 1. pontja, a 10/2017. (VIII. 31.) HM rendelet 72. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § (2) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 1. pontja, a 10/2017. (VIII. 31.) HM rendelet 72. § a) pontja, a 9/2022. (IV. 21.) HM rendelet 5. § a) pontja szerint módosított szöveg.
 [^14]: A 4. § (3) bekezdését a 18/2015. (XII. 22.) HM rendelet 31. §-a hatályon kívül helyezte, újonnan a 10/2017. (VIII. 31.) HM rendelet 53. §-a iktatta be.
 [^15]: A 4. § (3) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 104. § 6. pontja szerint módosított szöveg.
 [^16]: A 4. § (3) bekezdés b) pontja a 12/2018. (VII. 27.) HM rendelet 40. §-ával megállapított szöveg.

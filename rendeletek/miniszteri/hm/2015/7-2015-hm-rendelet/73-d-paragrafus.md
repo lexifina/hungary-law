@@ -1,6 +1,6 @@
 ## 73/C. § A Hjt. 25. § (3a) bekezdése szerinti esetben a visszarendelés miatt teljesített szolgálatteljesítési időt a szolgálatteljesítés formája és ideje figyelembevételével kell a vonatkozó szabályok szerint ellentételezni.
 
-## 49. [^168] Az önkéntes tartalékos szolgálat vállalását ösztönző juttatás
+## 49. [^170] Az önkéntes tartalékos szolgálat vállalását ösztönző juttatás
 
 73/D. § (1) A Hjt. 74/A. §-a szerinti esetben az állomány tagja kéthavi távolléti díjnak megfelelő mértékű többletjuttatásra jogosult, ha
 
@@ -10,4 +10,4 @@ b) hivatásos vagy szerződéses katonai szolgálati viszonya megszűnésekor ö
 
 (2) Az (1) bekezdés szerinti juttatás összegének megállapításakor a hivatásos vagy szerződéses katonai szolgálati viszony utolsó napján érvényes távolléti díjat kell alapul venni.
 
-[^168]: A 49. alcímet (73/D. §) a 10/2017. (VIII. 31.) HM rendelet 69. §-a iktatta be.
+[^170]: A 49. alcímet (73/D. §) a 10/2017. (VIII. 31.) HM rendelet 69. §-a iktatta be.
