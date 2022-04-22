@@ -1,6 +1,6 @@
-## 7. [^147] Az Európai Bizottság részére történő bejelentési kötelezettség hatálya alá tartozó, uniós joggal összhangban levő támogatási programból nyújtott állami támogatásokkal kapcsolatos eljárás
+## 7. [^155] Az Európai Bizottság részére történő bejelentési kötelezettség hatálya alá tartozó, uniós joggal összhangban levő támogatási programból nyújtott állami támogatásokkal kapcsolatos eljárás
 
-18. § (1)[^148] Létező támogatási programból előzetesen be kell jelenteni a miniszter részére a (2) és (3) bekezdés szerinti állami támogatásokat. A (2) bekezdésben meghatározott állami támogatások esetében a miniszter eljárására az 5. alcímben foglaltakat kell alkalmazni.
+18. § (1)[^156] Létező támogatási programból előzetesen be kell jelenteni a miniszter részére a (2) és (3) bekezdés szerinti állami támogatásokat. A (2) bekezdésben meghatározott állami támogatások esetében a miniszter eljárására az 5. alcímben foglaltakat kell alkalmazni.
 
 (2) A miniszter – jóváhagyás céljából – az Európai Bizottság részére bejelenti
 
@@ -16,12 +16,12 @@ d) azt a bármely más állami támogatást, amely esetében uniós állami tám
 
 a) a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat szerint,
 
-b)[^149]
+b)[^157]
 
 c) bármely más állami támogatásról, amely esetében uniós állami támogatási szabály az Európai Bizottság részére történő tájékoztatási kötelezettségről rendelkezik.
 
 (4) Az uniós állami támogatási szabályok megkerülése érdekében a támogatási programok és a projektek nem darabolhatók fel.
 
-[^147]: A 7. alcím (18. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított, az alcím címe a 679/2021. (XII. 3.) Korm. rendelet 11. § i) pontja szerint módosított szöveg.
-[^148]: [Nem vezethető át a 679/2021. (XII. 3.) Korm. rendelet 11. § j) pontjában foglalt módosítás, mely szerint a „Létező” szövegrész helyébe a „az uniós joggal összhangban lévő” szövegrész lép.]
-[^149]: A 18. § (3) bekezdés b) pontját a 483/2017. (XII. 28.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^155]: A 7. alcím (18. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított, az alcím címe a 679/2021. (XII. 3.) Korm. rendelet 11. § i) pontja szerint módosított szöveg.
+[^156]: [Nem vezethető át a 679/2021. (XII. 3.) Korm. rendelet 11. § j) pontjában foglalt módosítás, mely szerint a „Létező” szövegrész helyébe a „az uniós joggal összhangban lévő” szövegrész lép.]
+[^157]: A 18. § (3) bekezdés b) pontját a 483/2017. (XII. 28.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.

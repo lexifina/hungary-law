@@ -1,3 +1,3 @@
-5. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^216]
+5. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^227]
 
-[^216]: Az 5. mellékletet újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 679/2021. (XII. 3.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^227]: Az 5. mellékletet újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 679/2021. (XII. 3.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

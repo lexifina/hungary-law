@@ -1,4 +1,4 @@
-18/D. § (1)[^153] A miniszter a Támogatásokat Vizsgáló Iroda honlapján közzéteszi
+18/D. § (1)[^161] A miniszter a Támogatásokat Vizsgáló Iroda honlapján közzéteszi
 
 a) a 651/2014/EU bizottsági rendelet hatálya alá tartozó,
 
@@ -34,7 +34,7 @@ f) a 18/C. § (5) bekezdése szerinti weboldal címét,
 
 g) azokat az adatokat, amelyekre a közzétételi kötelezettség hatálya kiterjed.
 
-(2)[^154] Az (1) bekezdés a)–d) pontja szerinti esetben a 6. melléklet 5. pontja vonatkozásában a miniszter azt teszi közzé a Támogatásokat Vizsgáló Iroda honlapján, hogy
+(2)[^162] Az (1) bekezdés a)–d) pontja szerinti esetben a 6. melléklet 5. pontja vonatkozásában a miniszter azt teszi közzé a Támogatásokat Vizsgáló Iroda honlapján, hogy
 
 a) a 651/2014/EU bizottsági rendelet hatálya alá tartozó adókedvezményt, kockázatfinanszírozási támogatást vagy regionális városfejlesztési támogatást tartalmazó támogatási program esetén a támogatástartalom forintösszegben kifejezve
 
@@ -82,5 +82,5 @@ a) a támogatás nyújtásának napjától számított hat hónapon belül, ille
 
 b) a támogatás nyújtásának, illetve adókedvezményt tartalmazó támogatási program esetén az adóbevallás esedékességének napjától számított tíz évig
 
-[^153]: A 18/D. § (1) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^154]: A 18/D. § (2) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^161]: A 18/D. § (1) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^162]: A 18/D. § (2) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -40,6 +40,6 @@ c) kedvezményezettje adatainak közzététele a közös agrárpolitika finansz�
 
 ## a támogatást nyújtó az adott támogatás vonatkozásában fennálló közzétételi kötelezettséget úgy is teljesítheti, hogy az (1) bekezdés b) pontja szerinti nyilatkozatban vagy a (3) bekezdés szerinti adatszolgáltatáskor a közzététel helye szerinti weboldalt jelöli meg.
 
-(6)[^152] Ha a támogatást nyújtó 651/2014/EU bizottsági rendelet 9. cikk (3a) bekezdés második mondata szerinti módon teljesíti a közzétételi kötelezettséget, erről a 7. § (1) bekezdése szerinti bejelentésében tájékoztatja a minisztert. Ebben az esetben a támogatást nyújtót a 18/C. § szerinti adatszolgáltatási kötelezettség nem terheli, a miniszter pedig nem teszi közzé a 18/D. § (1) bekezdése szerinti adatokat, azzal, hogy a támogatást nyújtó a támogatás nyújtásának évét követő év július 31-ig tájékoztatja a minisztert a közzétételi kötelezettsége teljesítéséről.
+(6)[^160] Ha a támogatást nyújtó 651/2014/EU bizottsági rendelet 9. cikk (3a) bekezdés második mondata szerinti módon teljesíti a közzétételi kötelezettséget, erről a 7. § (1) bekezdése szerinti bejelentésében tájékoztatja a minisztert. Ebben az esetben a támogatást nyújtót a 18/C. § szerinti adatszolgáltatási kötelezettség nem terheli, a miniszter pedig nem teszi közzé a 18/D. § (1) bekezdése szerinti adatokat, azzal, hogy a támogatást nyújtó a támogatás nyújtásának évét követő év július 31-ig tájékoztatja a minisztert a közzétételi kötelezettsége teljesítéséről.
 
-[^152]: A 18/C. § (6) bekezdését a 679/2021. (XII. 3.) Korm. rendelet 3. §-a iktatta be.
+[^160]: A 18/C. § (6) bekezdését a 679/2021. (XII. 3.) Korm. rendelet 3. §-a iktatta be.

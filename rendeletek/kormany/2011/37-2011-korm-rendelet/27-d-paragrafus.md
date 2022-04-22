@@ -1,0 +1,5 @@
+## 12/D. Elkülönített elszámolások vezetésének kötelezettsége
+
+27/D. § (1) Az elkülönített elszámolások vezetésére kötelezett vállalkozás elkülöníti a belső számviteli nyilvántartásában a különleges jog vagy kizárólagos jog alapján nyújtott szolgáltatáshoz vagy végzett tevékenységhez, illetve az EUMSz 106. cikk (2) bekezdése alapján általános gazdasági érdekű szolgáltatás nyújtására kapott megbízás alapján végzett tevékenységhez kapcsolódó eszközöket és forrásokat, bevételeket és ráfordításokat.
+
+(2) Az (1) bekezdés szerinti minden eszközt és forrást, bevételt és ráfordítást a számviteli politikában rögzített, egységes és következetes számviteli elszámolás alapján kell nyilvántartani olyan módon, hogy az egyes tételeknek a különleges jog vagy kizárólagos jog alapján nyújtott szolgáltatáshoz vagy végzett tevékenységhez, továbbá az EUMSz 106. cikk (2) bekezdése alapján általános gazdasági érdekű szolgáltatás nyújtására kapott megbízás alapján végzett tevékenységhez való hozzárendelésének módszere egyértelműen megállapítható legyen.
