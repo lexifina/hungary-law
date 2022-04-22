@@ -88,6 +88,8 @@ o)[^11] Magyarországon kívül települő, szövetségesi területen vagy légt
 
 16.[^21] tanulmányi támogatás: a vezénylésben vagy a tanulmányi szerződésben rögzített, a Honvédség által az állomány tagjának a tanulmányai folytatásához jogszabályban meghatározottak szerint nyújtott juttatás.
 
+17.[^22] tábori kihelyezés: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 128. § (3b) bekezdése szerinti tábori körülmények között végrehajtott kiképzés, amely legalább hét összefüggő napból áll, az adott színtéren tartós igénybevételt eredményező folyamatos tartózkodással jár, amelyet – az éves kiképzési tervben meghatározottak alapján – a honvédségi szervezet parancsnoka az éves kiképzési feladatok végrehajtására vonatkozó intézkedésben vagy parancsban rendel el, illetve engedélyez, és amelynek ideje alatt a honvédségi szervezet kijelölt állománya az éves kiképzési célkitűzéseik teljesítése érdekében összevontan egyéni vagy alegység kötelékben tábori körülmények között kiképzési, törzsfelkészítési vagy ahhoz kapcsolódó egyéb feladatokat hajt végre, akár helyőrségen belül is, és ahol az állomány tagja naponta legalább 12 óra kiképzési, törzsfelkészítési vagy ahhoz kapcsolódó egyéb feladatokat teljesít, a jogszabályok által meghatározott, tábori körülmények között biztosított pihenőidő betartásával.
+
 [^1]: Az 1. § 4. pontját a 12/2018. (VII. 27.) HM rendelet 23. § a) pontja hatályon kívül helyezte, újonnan a 13/2020. (X. 14.) HM rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § 5a. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (1) bekezdése iktatta be.
 [^3]: Az 1. § 6. pontja a 4/2020. (II. 28.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -109,3 +111,4 @@ o)[^11] Magyarországon kívül települő, szövetségesi területen vagy légt
 [^19]: Az 1. § 15a. pontját a 25/2016. (XII. 22.) HM rendelet 16. § (1) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 1. pontja szerint módosított szöveg.
 [^20]: Az 1. § 15b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (7) bekezdése iktatta be.
 [^21]: Az 1. § 16. pontja a 25/2016. (XII. 22.) HM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^22]: Az 1. § 17. pontját a 9/2022. (IV. 21.) HM rendelet 1. §-a iktatta be.

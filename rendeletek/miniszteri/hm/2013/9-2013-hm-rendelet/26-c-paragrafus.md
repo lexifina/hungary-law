@@ -1,4 +1,4 @@
-26/C. §[^133] (1) Harcászati törzstiszti tanfolyam elvégzésére köteles az állomány tagja a százados rendfokozatba történő előléptetését megelőzően.
+26/C. §[^134] (1) Harcászati törzstiszti tanfolyam elvégzésére köteles az állomány tagja a százados rendfokozatba történő előléptetését megelőzően.
 
 (2) Hadműveleti tanfolyam elvégzésére köteles az állomány tagja az alezredes rendfokozattal rendszeresített vezető szolgálati beosztásba történő kinevezését megelőzően.
 
@@ -8,4 +8,4 @@
 
 (5) Az (1) és a (2) bekezdés szerinti szakmai tanfolyamok sikeres elvégzése esetén az állomány tagja mentesül a minősítő vizsga sikeres teljesítésének e rendelet szerinti követelménye alól.
 
-[^133]: A 26/C. §-t a 20/2018. (XII. 28.) HM rendelet 12. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 8. §-ával megállapított szöveg.
+[^134]: A 26/C. §-t a 20/2018. (XII. 28.) HM rendelet 12. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 8. §-ával megállapított szöveg.

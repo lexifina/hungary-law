@@ -1,5 +1,5 @@
 ## 65. Munkáltatói jogkört gyakorló
 
-238. § (1)[^416] Az önkéntes tartalékos katonák tekintetében a munkáltatói jogköröket annak a honvédelmi szervezetnek (a továbbiakban: állományilletékes honvédelmi szervezet) az állományilletékes parancsnoka gyakorolja, amelynek állománytáblájában, munkaköri jegyzékében az önkéntes tartalékos szerződésben meghatározott szolgálati beosztás rendszeresítésre került.
+238. § (1)[^421] Az önkéntes tartalékos katonák tekintetében a munkáltatói jogköröket annak a honvédelmi szervezetnek (a továbbiakban: állományilletékes honvédelmi szervezet) az állományilletékes parancsnoka gyakorolja, amelynek állománytáblájában, munkaköri jegyzékében az önkéntes tartalékos szerződésben meghatározott szolgálati beosztás rendszeresítésre került.
 
-[^416]: A 238. § (1) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § a) pontja szerint módosított szöveg.
+[^421]: A 238. § (1) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § a) pontja szerint módosított szöveg.

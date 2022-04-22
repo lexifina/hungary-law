@@ -4,10 +4,16 @@ a) ügyeleti szolgálat,
 
 b) nem nemzetközi kötelezettséggel összefüggő készenléti szolgálat,
 
-c) gyakorlaton való részvétel vagy
+c)[^321] gyakorlaton való részvétel,
 
-d) túlszolgálat
+d)[^322] túlszolgálat vagy
+
+e)[^323] tábori kihelyezés keretében végrehajtott kiképzésen való részvétel
 
 is.
 
 (2) Az (1) bekezdés szerinti feladatok elrendelése során tekintettel kell lenni a Hjt. 105. § (4) bekezdése szerinti rendelkezésre állási kötelezettséggel összefüggő kötelezettségek teljesítésére.
+
+[^321]: A 120/F. § (1) bekezdés c) pontja a 9/2022. (IV. 21.) HM rendelet 3. § c) pontja szerint módosított szöveg.
+[^322]: A 120/F. § (1) bekezdés d) pontja a 9/2022. (IV. 21.) HM rendelet 3. § d) pontjával megállapított szöveg.
+[^323]: A 120/F. § (1) bekezdés e) pontját a 9/2022. (IV. 21.) HM rendelet 2. §-a iktatta be.

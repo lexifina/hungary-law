@@ -2,13 +2,13 @@
 
 20. § (1) Az állományba vételi eljárást
 
-a)[^91] a honvédségi ösztöndíjas hallgatókkal a tervezett szolgálati hely szerinti honvédelmi szervezet személyügyi szerve bevonásával az MH Ludovika Zászlóalj illetékes szerve, és
+a)[^92] a honvédségi ösztöndíjas hallgatókkal a tervezett szolgálati hely szerinti honvédelmi szervezet személyügyi szerve bevonásával az MH Ludovika Zászlóalj illetékes szerve, és
 
 b) az a) pont alá nem tartozó esetekben a tervezett szolgálati hely szerinti honvédelmi szervezet személyügyi szerve,
 
 folytatja le.
 
-(1a)[^92] A Hjt. 35. § (1) bekezdése szerinti állományba vételi okmány (a továbbiakban: állományba vételi okmány) vagy a Hjt. 35. § (1) bekezdése szerinti szerződés (a továbbiakban: szerződés) – a 21/A. §-ban foglalt kivétellel – tartalmazza
+(1a)[^93] A Hjt. 35. § (1) bekezdése szerinti állományba vételi okmány (a továbbiakban: állományba vételi okmány) vagy a Hjt. 35. § (1) bekezdése szerinti szerződés (a továbbiakban: szerződés) – a 21/A. §-ban foglalt kivétellel – tartalmazza
 
 a) a szolgálati viszony kezdetét és jellegét,
 
@@ -26,30 +26,30 @@ eb) szolgálati helyét,
 
 ec) szolgálati beosztásának besorolási osztályát és besorolási kategóriáját.
 
-(1b)[^93] Az (1a) bekezdésben foglaltakon túl a szerződésnek tartalmaznia kell a Hjt. 32. § (3) vagy (4) bekezdése szerinti szolgálati idő vállalását is.
+(1b)[^94] Az (1a) bekezdésben foglaltakon túl a szerződésnek tartalmaznia kell a Hjt. 32. § (3) vagy (4) bekezdése szerinti szolgálati idő vállalását is.
 
-(1c)[^94] Az állományba vételi okmány vagy a szerződés a szolgálati viszonyt érintő egyéb kérdésekről is rendelkezhet, különösen arról, hogy az állomány tagja a Hjt. 42. § (2) bekezdés c) pontja szerint vezénylésre kerülhet.
+(1c)[^95] Az állományba vételi okmány vagy a szerződés a szolgálati viszonyt érintő egyéb kérdésekről is rendelkezhet, különösen arról, hogy az állomány tagja a Hjt. 42. § (2) bekezdés c) pontja szerint vezénylésre kerülhet.
 
-(2)[^95]
+(2)[^96]
 
-(3)[^96] Az állományba vételt követően a honvédelmi szervezet személyügyi szervének vezetője a szolgálatteljesítés első napján, de legkésőbb harminc napon belül – a Hjt. 92. §-ára figyelemmel – megállapítja a szolgálati idő kezdő napját.
+(3)[^97] Az állományba vételt követően a honvédelmi szervezet személyügyi szervének vezetője a szolgálatteljesítés első napján, de legkésőbb harminc napon belül – a Hjt. 92. §-ára figyelemmel – megállapítja a szolgálati idő kezdő napját.
 
-(4)[^97] A (3) bekezdés szerint megállapított szolgálati idő kezdő nap módosítására hivatalból vagy az érintett személy kezdeményezésére a Hjt. 92. §-ára figyelemmel kerülhet sor. A szolgálati idő kezdő napjának módosítására
+(4)[^98] A (3) bekezdés szerint megállapított szolgálati idő kezdő nap módosítására hivatalból vagy az érintett személy kezdeményezésére a Hjt. 92. §-ára figyelemmel kerülhet sor. A szolgálati idő kezdő napjának módosítására
 
 a) az állományilletékes honvédelmi szervezet személyügyi szervének vezetője, vagy annak hiányában a központi személyügyi szerv vezetője jogosult,
 
 b) a központi személyügyi szerv vezetője jogosult a honvédelmi szervezet személyügyi szervének vezetője és az állományilletékes parancsnok esetén,
 
-c)[^98] az MH PK jogosult a központi személyügyi szerv vezetője esetén, és
+c)[^99] az MH PK jogosult a központi személyügyi szerv vezetője esetén, és
 
-d)[^99] a miniszter jogosult az MH PK, a KNBSZ főigazgatója, valamint a Tábori Lelkészi Szolgálat vezetői esetén.
+d)[^100] a miniszter jogosult az MH PK, a KNBSZ főigazgatója, valamint a Tábori Lelkészi Szolgálat vezetői esetén.
 
-[^91]: A 20. § (1) bekezdés a) pontja a 10/2017. (VIII. 31.) HM rendelet 25. § i) pontja szerint módosított szöveg.
-[^92]: A 20. § (1a) bekezdését a 13/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
-[^93]: A 20. § (1b) bekezdését a 13/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
-[^94]: A 20. § (1c) bekezdését a 13/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
-[^95]: A 20. § (2) bekezdését a 13/2020. (X. 14.) HM rendelet 32. § 4. pontja hatályon kívül helyezte.
-[^96]: A 20. § (3) bekezdését a 4/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.
-[^97]: A 20. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.
-[^98]: A 20. § (4) bekezdés c) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
-[^99]: A 20. § (4) bekezdés d) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^92]: A 20. § (1) bekezdés a) pontja a 10/2017. (VIII. 31.) HM rendelet 25. § i) pontja szerint módosított szöveg.
+[^93]: A 20. § (1a) bekezdését a 13/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
+[^94]: A 20. § (1b) bekezdését a 13/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
+[^95]: A 20. § (1c) bekezdését a 13/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
+[^96]: A 20. § (2) bekezdését a 13/2020. (X. 14.) HM rendelet 32. § 4. pontja hatályon kívül helyezte.
+[^97]: A 20. § (3) bekezdését a 4/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.
+[^98]: A 20. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.
+[^99]: A 20. § (4) bekezdés c) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^100]: A 20. § (4) bekezdés d) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
