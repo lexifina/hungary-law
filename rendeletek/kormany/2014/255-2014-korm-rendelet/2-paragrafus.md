@@ -232,7 +232,7 @@ d) a koronavírus-járvány terjedésének megakadályozása érdekében felhasz
 
 72.[^38] működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt elért – a projektkockázat és a tőkeköltség alapján a támogatást nyújtó által jóváhagyott diszkonttényezővel diszkontált – bevételei, csökkentve az ugyanezen diszkonttényezővel diszkontált működési költségekkel, így különösen a személyi jellegű ráfordítással, anyagköltséggel, a szerződéses szolgáltatással, a távközléssel, az energiával és a karbantartással, a bérleti díjjal, az adminisztrációval összefüggő költséggel, kivéve az olyan értékcsökkenési és finanszírozási költséget, amelyet beruházási támogatásból már fedeztek, azzal, hogy ha a számítás eredménye negatív, a működési eredmény értéke nulla,
 
-73. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
+73.[^39] nagyberuházás: az az induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
 74. nagy hatásfokú kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 107. pontja szerinti energiatermelés,
 
@@ -242,23 +242,23 @@ d) a koronavírus-járvány terjedésének megakadályozása érdekében felhasz
 
 77. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
 
-77a.[^39] növénykárosító: a 702/2014/EU bizottsági rendelet 2. cikk (18) bekezdése szerinti kártevő,
+77a.[^40] növénykárosító: a 702/2014/EU bizottsági rendelet 2. cikk (18) bekezdése szerinti kártevő,
 
-77b.[^40] okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző,
+77b.[^41] okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző,
 
-78.[^41] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
+78.[^42] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
-79.[^42] passzív hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 137. pontja szerinti infrastruktúra,
+79.[^43] passzív hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 137. pontja szerinti infrastruktúra,
 
 80. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
-80a.[^43] rövid ellátási lánc: az 1305/2013/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés második albekezdés m) pontja szerinti ellátási lánc,
+80a.[^44] rövid ellátási lánc: az 1305/2013/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés második albekezdés m) pontja szerinti ellátási lánc,
 
-81.[^44] saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
+81.[^45] saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
 
 82. sajáttőke-befektetés: közvetlen vagy pénzügyi közvetítőn keresztül történő közvetett tőkejuttatás egy vállalkozás számára a vállalkozásban a megfelelő arányú részesedés megszerzése ellenében,
 
-82a.[^45] SANI rendszer: az Atr. 2. § 14. pontja szerinti rendszer,
+82a.[^46] SANI rendszer: az Atr. 2. § 14. pontja szerinti rendszer,
 
 83. súlyosan hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 99. pontja szerinti munkavállaló,
 
@@ -276,7 +276,7 @@ d) a koronavírus-járvány terjedésének megakadályozása érdekében felhasz
 
 90. szennyező: a 651/2014/EU bizottsági rendelet 2. cikk 125. pontja szerinti személy,
 
-91.[^46]
+91.[^47]
 
 92. szervezési innováció: a 651/2014/EU bizottsági rendelet 2. cikk 96. pontja szerinti innováció,
 
@@ -284,13 +284,13 @@ d) a koronavírus-járvány terjedésének megakadályozása érdekében felhasz
 
 94. szélessávú infrastruktúra kiépítéséhez kapcsolódó mélyépítési munka: a 651/2014/EU bizottsági rendelet 2. cikk 134. pontja szerinti munka,
 
-95.[^47] szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (a továbbiakban: 2010/787/EU tanácsi határozat) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység,
+95.[^48] szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (a továbbiakban: 2010/787/EU tanácsi határozat) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység,
 
 96. szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, illetve a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné,
 
 97. szintetikusszál-ipar: a 651/2014/EU bizottsági rendelet 2. cikk 44. pontja szerinti ipar,
 
-97a.[^48] szociális szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 103b. pontja szerinti szolgáltatás,
+97a.[^49] szociális szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 103b. pontja szerinti szolgáltatás,
 
 98. szokásos piaci feltételek: a 651/2014/EU bizottsági rendelet 2. cikk 89. pontja szerinti feltétel,
 
@@ -298,17 +298,17 @@ d) a koronavírus-járvány terjedésének megakadályozása érdekében felhasz
 
 100. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
-100a.[^49] társadalmi-gazdasági fókuszpont: a 651/2014/EU bizottsági rendelet 2. cikk 139a. pontja szerinti jogalany,
+100a.[^50] társadalmi-gazdasági fókuszpont: a 651/2014/EU bizottsági rendelet 2. cikk 139a. pontja szerinti jogalany,
 
 101. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-101a.[^50] termelői csoport vagy szervezet: a 702/2014/EU bizottsági rendelet 2. cikk (43) bekezdése szerinti csoport vagy szervezet,
+101a.[^51] termelői csoport vagy szervezet: a 702/2014/EU bizottsági rendelet 2. cikk (43) bekezdése szerinti csoport vagy szervezet,
 
-101b.[^51] természetbeni hozzájárulás: a 651/2014/EU bizottsági rendelet 2. cikk 61. pontja szerinti hozzájárulás,
+101b.[^52] természetbeni hozzájárulás: a 651/2014/EU bizottsági rendelet 2. cikk 61. pontja szerinti hozzájárulás,
 
-101c.[^52] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
+101c.[^53] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
 
-101d.[^53] természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
+101d.[^54] természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
 
 102. tőkejuttatás: a 651/2014/EU bizottsági rendelet 2. cikk 70. pontja szerinti juttatás,
 
@@ -316,7 +316,7 @@ d) a koronavírus-járvány terjedésének megakadályozása érdekében felhasz
 
 104. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány,
 
-105. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek,
+105.[^55]
 
 106. újgenerációs hozzáférési hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 138. pontja szerinti hálózat,
 
@@ -324,11 +324,11 @@ d) a koronavírus-járvány terjedésének megakadályozása érdekében felhasz
 
 108. újrahasználat: a 651/2014/EU bizottsági rendelet 2. cikk 126. pontja szerinti használat,
 
-108a.[^54] városfejlesztési alap: a 651/2014/EU bizottsági rendelet 2. cikk 57. pontja szerinti alap,
+108a.[^56] városfejlesztési alap: a 651/2014/EU bizottsági rendelet 2. cikk 57. pontja szerinti alap,
 
-108b.[^55] városfejlesztésialap-kezelő: a 651/2014/EU bizottsági rendelet 2. cikk 58. pontja szerinti alapkezelő,
+108b.[^57] városfejlesztésialap-kezelő: a 651/2014/EU bizottsági rendelet 2. cikk 58. pontja szerinti alapkezelő,
 
-108c.[^56] városfejlesztési projekt: a 651/2014/EU bizottsági rendelet 2. cikk 59. pontja szerinti beruházási projekt,
+108c.[^58] városfejlesztési projekt: a 651/2014/EU bizottsági rendelet 2. cikk 59. pontja szerinti beruházási projekt,
 
 109. védett foglalkoztatás: a 651/2014/EU bizottsági rendelet 2. cikk 100. pontja szerinti foglalkoztatás,
 
@@ -382,21 +382,23 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 [^36]: A 2. § (1) bekezdés 70b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (9) bekezdése iktatta be.
 [^37]: A 2. § (1) bekezdés 70c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (9) bekezdése iktatta be.
 [^38]: A 2. § (1) bekezdés 72. pontja a 165/2018. (IX. 11.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^39]: A 2. § (1) bekezdés 77a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (10) bekezdése iktatta be.
-[^40]: A 2. § (1) bekezdés 77b. pontját a 679/2021. (XII. 3.) Korm. rendelet 12. § (9) bekezdése iktatta be.
-[^41]: A 2. § (1) bekezdés 78. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
-[^42]: A 2. § (1) bekezdls 79. pontja a 679/2021. (XII. 3.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
-[^43]: A 2. § (1) bekezdés 80a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (12) bekezdése iktatta be.
-[^44]: A 2. § (1) bekezdés 81. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
-[^45]: A 2. § (1) bekezdés 82a. pontját a 165/2018. (IX. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^46]: A 2. § (1) bekezdés 91. pontját a 679/2021. (XII. 3.) Korm. rendelet 34. § a) pontja hatályon kívül helyezte.
-[^47]: A 2. § (1) bekezdés 95. pontja a 305/2016. (X. 13.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
-[^48]: A 2. § (1) bekezdés 97a. pontját a 679/2021. (XII. 3.) Korm. rendelet 12. § (10) bekezdése iktatta be.
-[^49]: A 2. § (1) bekezdés 100a. pontját a 679/2021. (XII. 3.) Korm. rendelet 12. § (11) bekezdése iktatta be.
-[^50]: A 2. § (1) bekezdés 101a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
-[^51]: A 2. § (1) bekezdés 101b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be, szövege a 365/2017. (XII. 5.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
-[^52]: A 2. § (1) bekezdés 101c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be, szövege a 365/2017. (XII. 5.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
-[^53]: A 2. § (1) bekezdés 101d. pontját a 365/2017. (XII. 5.) Korm. rendelet 2. § (8) bekezdése iktatta be.
-[^54]: A 2. § (1) bekezdés 108a. pontját a 365/2017. (XII. 5.) Korm. rendelet 2. § (9) bekezdése iktatta be.
-[^55]: A 2. § (1) bekezdés 108b. pontját a 365/2017. (XII. 5.) Korm. rendelet 2. § (9) bekezdése iktatta be.
-[^56]: A 2. § (1) bekezdés 108c. pontját a 365/2017. (XII. 5.) Korm. rendelet 2. § (9) bekezdése iktatta be.
+[^39]: A 2. § (1) bekezdés 73. pontja a 156/2022. (IV. 19.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^40]: A 2. § (1) bekezdés 77a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (10) bekezdése iktatta be.
+[^41]: A 2. § (1) bekezdés 77b. pontját a 679/2021. (XII. 3.) Korm. rendelet 12. § (9) bekezdése iktatta be.
+[^42]: A 2. § (1) bekezdés 78. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
+[^43]: A 2. § (1) bekezdls 79. pontja a 679/2021. (XII. 3.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^44]: A 2. § (1) bekezdés 80a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (12) bekezdése iktatta be.
+[^45]: A 2. § (1) bekezdés 81. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
+[^46]: A 2. § (1) bekezdés 82a. pontját a 165/2018. (IX. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^47]: A 2. § (1) bekezdés 91. pontját a 679/2021. (XII. 3.) Korm. rendelet 34. § a) pontja hatályon kívül helyezte.
+[^48]: A 2. § (1) bekezdés 95. pontja a 305/2016. (X. 13.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
+[^49]: A 2. § (1) bekezdés 97a. pontját a 679/2021. (XII. 3.) Korm. rendelet 12. § (10) bekezdése iktatta be.
+[^50]: A 2. § (1) bekezdés 100a. pontját a 679/2021. (XII. 3.) Korm. rendelet 12. § (11) bekezdése iktatta be.
+[^51]: A 2. § (1) bekezdés 101a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^52]: A 2. § (1) bekezdés 101b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be, szövege a 365/2017. (XII. 5.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^53]: A 2. § (1) bekezdés 101c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be, szövege a 365/2017. (XII. 5.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^54]: A 2. § (1) bekezdés 101d. pontját a 365/2017. (XII. 5.) Korm. rendelet 2. § (8) bekezdése iktatta be.
+[^55]: A 2. § (1) bekezdés 105. pontját a 156/2022. (IV. 19.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^56]: A 2. § (1) bekezdés 108a. pontját a 365/2017. (XII. 5.) Korm. rendelet 2. § (9) bekezdése iktatta be.
+[^57]: A 2. § (1) bekezdés 108b. pontját a 365/2017. (XII. 5.) Korm. rendelet 2. § (9) bekezdése iktatta be.
+[^58]: A 2. § (1) bekezdés 108c. pontját a 365/2017. (XII. 5.) Korm. rendelet 2. § (9) bekezdése iktatta be.

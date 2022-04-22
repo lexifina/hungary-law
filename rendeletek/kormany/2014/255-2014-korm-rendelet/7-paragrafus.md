@@ -1,12 +1,12 @@
 ## 7. § Ha a 6. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 6. §
 
-1.[^98] 1–3., 5–9., 11., 19., 22. és 23. pontja alapján regionális beruházási támogatás,
+1.[^100] 1–3., 5–9., 11., 19., 22. és 23. pontja alapján regionális beruházási támogatás,
 
-2.[^99] 1–9. és 21. pontja alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás,
+2.[^101] 1–9. és 21. pontja alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás,
 
-3.[^100] 1., 3–6., 8–10. és 21. pontja alapján a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
+3.[^102] 1., 3–6., 8–10. és 21. pontja alapján a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
 
-4.[^101] 1., 3–6., 8. és 21. pontja alapján a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
+4.[^103] 1., 3–6., 8. és 21. pontja alapján a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
 
 5. 8. és 20–22. pontja alapján kockázatfinanszírozási támogatás,
 
@@ -16,13 +16,13 @@
 
 8. 4–6. és 20–22. pontja alapján kutatási infrastruktúrához nyújtott beruházási támogatás,
 
-9.[^102] 1–6., 8. és 20–22. pontja alapján innovációs klaszterre nyújtott támogatás,
+9.[^104] 1–6., 8. és 20–22. pontja alapján innovációs klaszterre nyújtott támogatás,
 
 10. 1–5., 8–10. és 20–22. pontja alapján kis- és középvállalkozásnak nyújtott innovációs támogatás,
 
 11. 1–5., 8., 9., 20–22. és 24. pontja alapján eljárási innováció és szervezési innováció támogatásához nyújtott támogatás,
 
-12.[^103] 1–3., 5., 8–10., 12–14., 17., 18. és 22–24. pontja alapján képzési támogatás,
+12.[^105] 1–3., 5., 8–10., 12–14., 17., 18. és 22–24. pontja alapján képzési támogatás,
 
 13. 12–14., 22. és 24. pontja alapján a hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás,
 
@@ -46,47 +46,47 @@
 
 23. 1–24. pontja alapján csekély összegű támogatás,
 
-24.[^104] 7., 8., 10., 13. és 21–23. pontja alapján csekély összegű közszolgáltatási támogatás,
+24.[^106] 7., 8., 10., 13. és 21–23. pontja alapján csekély összegű közszolgáltatási támogatás,
 
-25.[^105] 7., 8., 10., 13. és 21–23. pontja alapján közszolgáltatásért járó ellentételezés,
+25.[^107] 7., 8., 10., 13. és 21–23. pontja alapján közszolgáltatásért járó ellentételezés,
 
 26. 4. és 6. pontja alapján halászati- és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás,
 
-27.[^106] 1–6., 11., 19. és 21. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
+27.[^108] 1–6., 11., 19. és 21. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
-28.[^107] 19. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás,
+28.[^109] 19. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás,
 
-29.[^108] 5. és 6. pontja alapján az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás,
+29.[^110] 5. és 6. pontja alapján az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás,
 
-30.[^109] 2. pontja alapján a mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás,
+30.[^111] 2. pontja alapján a mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás,
 
-31.[^110] 5. pontja alapján regionális városfejlesztési támogatás,
+31.[^112] 5. pontja alapján regionális városfejlesztési támogatás,
 
-32.[^111] 12–15., 17., 22. és 24. pontja alapján mezőgazdasági csekély összegű támogatás
+32.[^113] 12–15., 17., 22. és 24. pontja alapján mezőgazdasági csekély összegű támogatás
 
-33.[^112] 1–6. pontja alapján a koronavírus-járvány szempontjából releváns kutatáshoz és fejlesztéshez nyújtott támogatás,
+33.[^114] 1–6. pontja alapján a koronavírus-járvány szempontjából releváns kutatáshoz és fejlesztéshez nyújtott támogatás,
 
-34.[^113] 1–6. pontja alapján a koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás
+34.[^115] 1–6. pontja alapján a koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás
 
-35.[^114] 17. és 18. pontja alapján személyszállítási közszolgáltatásért járó ellentételezés
+35.[^116] 17. és 18. pontja alapján személyszállítási közszolgáltatásért járó ellentételezés
 
-36.[^115] 1–6., 11., 19. és 21. pontja alapján kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
+36.[^117] 1–6., 11., 19. és 21. pontja alapján kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
 
-[^98]: A 7. § 1. pontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.
-[^99]: A 7. § 2. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 22. pontja szerint módosított szöveg.
-[^100]: A 7. § 3. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 23. pontja szerint módosított szöveg.
-[^101]: A 7. § 4. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 24. pontja szerint módosított szöveg.
-[^102]: A 7. § 9. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 25. pontja szerint módosított szöveg.
-[^103]: A 7. § 12. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 26. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.
-[^104]: A 7. § 24. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 27. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
-[^105]: A 7. § 25. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 28. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.
-[^106]: A 7. § 27. pontját a 445/2015. (XII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^107]: A 7. § 28. pontját a 127/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
-[^108]: A 7. § 29. pontját a 127/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
-[^109]: A 7. § 30. pontját a 305/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
-[^110]: A 7. § 31. pontját a 365/2017. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
-[^111]: A 7. § 32. pontját a 365/2017. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
-[^112]: A 7. § 33. pontját a 491/2020. (XI. 11.) Korm. rendelet 4. §-a iktatta be.
-[^113]: A 7. § 34. pontját a 491/2020. (XI. 11.) Korm. rendelet 4. §-a iktatta be.
-[^114]: A 7. § 35. pontját az 562/2021. (X. 1.) Korm. rendelet 7. §-a iktatta be.
-[^115]: A 7. § 36. pontját a 679/2021. (XII. 3.) Korm. rendelet 14. §-a iktatta be.
+[^100]: A 7. § 1. pontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.
+[^101]: A 7. § 2. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 22. pontja szerint módosított szöveg.
+[^102]: A 7. § 3. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 23. pontja szerint módosított szöveg.
+[^103]: A 7. § 4. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 24. pontja szerint módosított szöveg.
+[^104]: A 7. § 9. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 25. pontja szerint módosított szöveg.
+[^105]: A 7. § 12. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 26. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.
+[^106]: A 7. § 24. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 27. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
+[^107]: A 7. § 25. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 28. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.
+[^108]: A 7. § 27. pontját a 445/2015. (XII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^109]: A 7. § 28. pontját a 127/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^110]: A 7. § 29. pontját a 127/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^111]: A 7. § 30. pontját a 305/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
+[^112]: A 7. § 31. pontját a 365/2017. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
+[^113]: A 7. § 32. pontját a 365/2017. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
+[^114]: A 7. § 33. pontját a 491/2020. (XI. 11.) Korm. rendelet 4. §-a iktatta be.
+[^115]: A 7. § 34. pontját a 491/2020. (XI. 11.) Korm. rendelet 4. §-a iktatta be.
+[^116]: A 7. § 35. pontját az 562/2021. (X. 1.) Korm. rendelet 7. §-a iktatta be.
+[^117]: A 7. § 36. pontját a 679/2021. (XII. 3.) Korm. rendelet 14. §-a iktatta be.

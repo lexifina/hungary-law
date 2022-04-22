@@ -6,9 +6,9 @@
 
 (4) A támogatás akkor vehető igénybe, ha a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítja, továbbá a teljes beruházás megvalósításához szükséges költségek forrását a támogató számára bemutatja.
 
-(5)[^220] A kedvezményezett a támogatási kérelem benyújtásával egyidejűleg, a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
+(5)[^225] A kedvezményezett a támogatási kérelem benyújtásával egyidejűleg, a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
 
-(6)[^221] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
+(6)[^226] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
 
-[^220]: A 26. § (5) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 13. §-a iktatta be.
-[^221]: A 26. § (6) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 10. §-a iktatta be.
+[^225]: A 26. § (5) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 13. §-a iktatta be.
+[^226]: A 26. § (6) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 10. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 30/A. [^247] A kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
+## 30/A. [^260] A kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
 
 65/A. § (1) A kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) gépjárműveket közlekedési célból
 
@@ -16,4 +16,4 @@ b) az infrastruktúra teljes hasznos élettartama alatt megújuló hidrogénnel 
 
 (5) Egy kedvezményezettnek, egy támogatási program keretében nyújtott támogatás nem haladhatja meg az érintett program teljes költségvetésének 40%-át.
 
-[^247]: A 30/A. alcímet (65/A–65/B. §) a 679/2021. (XII. 3.) Korm. rendelet 24. §-a iktatta be.
+[^260]: A 30/A. alcímet (65/A–65/B. §) a 679/2021. (XII. 3.) Korm. rendelet 24. §-a iktatta be.

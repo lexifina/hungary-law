@@ -1,4 +1,4 @@
-38. § (1)[^240] A 37. § (4) bekezdése szerinti támogatás teljes összege vállalkozásonként nem haladhatja meg a 15 millió eurónak megfelelő forintösszeget.
+38. § (1)[^245] A 37. § (4) bekezdése szerinti támogatás teljes összege vállalkozásonként nem haladhatja meg a 15 millió eurónak megfelelő forintösszeget.
 
 (2) A támogatás a következő feltételek fennállása esetén irányulhat – akár a 2. § (1) bekezdés 110. pont b) alpontja szerinti időszak elteltét követően is – a végső kedvezményezettbe történő kiegészítő befektetésre:
 
@@ -10,4 +10,4 @@ c) a kiegészítő befektetésben részesülő vállalkozás nem válik a 651/20
 
 (3) Végső kedvezményezettbe történő sajáttőke-befektetés és kvázisajáttőke-befektetés esetén kiváltási tőkéhez abban az esetben nyújtható támogatás, ha a kiváltási tőkéhez kapcsolódóan a befektetés valamennyi fordulójában az adott befektetés legalább 50%-ának megfelelő új tőkét is bevonnak.
 
-[^240]: A 38. § (1) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^245]: A 38. § (1) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.

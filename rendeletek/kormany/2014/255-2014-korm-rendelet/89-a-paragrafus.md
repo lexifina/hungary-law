@@ -1,4 +1,4 @@
-89/A. §[^275] (1) A hálózat üzemeltetője tisztességes és megkülönböztetésmentes feltételek mellett a lehető legszélesebb körű aktív és passzív nagykereskedelmi hozzáférést köteles biztosítani a támogatott infrastruktúrához, beleértve a támogatott infrastruktúra kiépítéséhez felhasznált meglévő hálózati elemeket is.
+89/A. §[^288] (1) A hálózat üzemeltetője tisztességes és megkülönböztetésmentes feltételek mellett a lehető legszélesebb körű aktív és passzív nagykereskedelmi hozzáférést köteles biztosítani a támogatott infrastruktúrához, beleértve a támogatott infrastruktúra kiépítéséhez felhasznált meglévő hálózati elemeket is.
 
 (2) A hálózat üzemeltetője a nagykereskedelmi hozzáférést fizikai átengedés útján is biztosítani köteles. Ha a nemzeti szabályozó hatóság a virtuális átengedést a fizikai átengedéssel egyenértékűnek fogadja el, az átengedés virtuális formában is biztosítható.
 
@@ -8,4 +8,4 @@
 
 (5) Ha a támogatást alépítmény építéséhez is nyújtják, a támogatott alépítményt úgy kell kialakítani, hogy legalább három kábelhálózatnak és különböző hálózati topológiáknak is helyet tudjon adni.
 
-[^275]: A 89/A. §-t a 679/2021. (XII. 3.) Korm. rendelet 29. §-a iktatta be.
+[^288]: A 89/A. §-t a 679/2021. (XII. 3.) Korm. rendelet 29. §-a iktatta be.
