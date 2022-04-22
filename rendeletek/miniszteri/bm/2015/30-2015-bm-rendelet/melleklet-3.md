@@ -66,7 +66,7 @@
 
 ## RRI: Repülőtéri Rendőr Igazgatóság
 
-3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
+3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^31]
 
 A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolgálati beosztásai
 
@@ -132,4 +132,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^30]: A 3. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § b) pontja, a 20/2021. (VII. 14.) BM rendelet 20. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 3. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § b) pontja, a 20/2021. (VII. 14.) BM rendelet 20. § (2) bekezdése szerint módosított szöveg.

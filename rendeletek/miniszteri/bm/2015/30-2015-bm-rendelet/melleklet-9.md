@@ -12,6 +12,6 @@
 
 ## * A rektor és a rektor helyettes munkakörébe kinevezett, e rendelet hatálya alá tartozó hivatásos állományú besorolási szintjét mutatja, a munkakör hivatásos szolgálati beosztássá minősítése nélkül.
 
-9. melléklet a 30/2015. (VI. 16.) BM rendelethez[^37]
+9. melléklet a 30/2015. (VI. 16.) BM rendelethez[^38]
 
-[^37]: A 9. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (1) bekezdésével megállapított, a 45/2021. (XII. 16.) BM rendelet 6. §-a, a 4/2022. (III. 25.) BM rendelet 12. §-a szerint módosított szöveg.
+[^38]: A 9. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (1) bekezdésével megállapított, a 45/2021. (XII. 16.) BM rendelet 6. §-a, a 4/2022. (III. 25.) BM rendelet 12. §-a, a 9/2022. (IV. 21.) BM rendelet 6. § b) pontja szerint módosított szöveg szerint módosított szöveg.

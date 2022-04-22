@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-30-20-0
 | 2021-08-01 | 2015-30-20-0A.25 | 76/2015. (XII. 22.) BM rendelet |
 | 2021-12-19 | 2015-30-20-0A.26 | 14/2021. (VI. 16.) BM rendelet |
 | 2022-03-26 | 2015-30-20-0A.27 | 76/2015. (XII. 22.) BM rendelet |
+| 2022-04-22 | 2015-30-20-0A.28 | 14/2021. (VI. 16.) BM rendelet |

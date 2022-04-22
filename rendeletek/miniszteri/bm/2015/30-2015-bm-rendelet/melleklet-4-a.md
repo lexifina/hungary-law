@@ -2,7 +2,7 @@
 
 ## I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 1X06174Q_0
+## 2X02662N_0
 
 |  | A | B | C | D | E |
 
@@ -24,6 +24,8 @@
 
 | 8. | főtanácsadó | 550 650* | 400 |
 
+| 8a. | kapcsolattartó | 650 | 400 |
+
 | 9. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes** | 550 650* | 400 |
 
 | 10. | főosztályvezető- helyettes 2 | osztályvezető** | 550 650* | 400 |
@@ -36,7 +38,7 @@
 
 ## II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 1X06174Q_1
+## 2X02662N_1
 
 |  | A | B | C | D |
 
@@ -90,7 +92,7 @@
 
 ## III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 1X06174Q_2
+## 2X02662N_2
 
 |  | A | B | C | D |
 
@@ -160,6 +162,6 @@
 
 ## b) 500**: A TEK Ügyeleti és Objektumvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 500%.
 
-4/A. melléklet a 30/2015. (VI. 16.) BM rendelethez[^32]
+4/A. melléklet a 30/2015. (VI. 16.) BM rendelethez[^33]
 
-[^32]: A 4/A. mellékletet a 20/2019. (V. 15.) BM rendelet 8. §-a iktatta be, szövege a 20/2021. (VII. 14.) BM rendelet 21. § b) pontja szerint módosított szöveg.
+[^33]: A 4/A. mellékletet a 20/2019. (V. 15.) BM rendelet 8. §-a iktatta be, szövege a 20/2021. (VII. 14.) BM rendelet 21. § b) pontja szerint módosított szöveg.

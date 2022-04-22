@@ -68,7 +68,7 @@
 
 ## 1.4.1.1. Szakirányú egyetemi végzettség: rendészeti, közigazgatási, katonai, jogi végzettséget adó egyetemi vagy mesterképzési szakon szerzett (Msc, Ma) végzettség,
 
-## 1.4.1.2. Felsőfokú végzettség: főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (Ba)
+## 1.4.1.2. Felsőfokú végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (Ba)
 
 ## 1.4.2. Felsőfokú rendészeti szakképzettség
 
@@ -150,7 +150,7 @@
 
 ## 2.4.1. Iskolai végzettség
 
-## 2.4.1.1. Szakirányú felsőfokú végzettség: a felsőoktatásban szerezhető képesítések jegyzékéről és az új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendeletben szereplő felsőfokú képzettségek valamelyike:
+## 2.4.1.1. Szakirányú felsőfokú végzettség: a felsőoktatásban szerezhető egyes pedagógusképesítések jegyzékéről és egyes, a felsőoktatást érintő kormányrendeletek módosításáról szóló 830/2021. (XII. 29.) Korm. rendeletben és a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendeletben szereplő felsőfokú képzettségek valamelyike:
 
 ## 2.4.1.1.1. jogi, igazgatási szakterületen,
 
@@ -174,7 +174,7 @@
 
 ## 2.4.1.1.11. belső ellenőri szakterületen.
 
-## 2.4.1.2. Felsőfokú végzettség: főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (Ba).
+## 2.4.1.2. Felsőfokú végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (Ba).
 
 ## 2.4.1.3. Felsőfokú rendészeti szakképzettség:
 
@@ -216,6 +216,6 @@
 
 ## 3.3. Nem alapbeosztásnak minősülő szolgálati beosztások tekintetében műszaki, logisztikai, pénzügyi szakterületen szakirányú felsőfokú végzettségnek kell tekinteni a Zalka Máté Műszaki Katonai Főiskolán (jogutód: Bólyai János Műszaki Katonai Főiskola) szerzett szakirányú végzettséget.
 
-10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^38]
+10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^39]
 
-[^38]: A 10. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^39]: A 10. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (2) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 6. § c) pontja szerint módosított szöveg szerint módosított szöveg szöveg.

@@ -68,7 +68,7 @@
 
 ## 1.4.1.1. Szakirányú egyetemi végzettség: Rendészeti, közigazgatási, katonai, jogi végzettséget adó egyetemi vagy mesterképzési szakon szerzett (Msc, Ma) végzettség,
 
-## 1.4.1.2. Felsőfokú végzettség: főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (Ba).
+## 1.4.1.2. Felsőfokú végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (Ba).
 
 ## 1.4.2. Felsőfokú rendészeti szakképzettség:
 
@@ -154,7 +154,7 @@
 
 ## 2.4.1. Iskolai végzettség
 
-## 2.4.1.1. Szakirányú felsőfokú végzettség: a felsőoktatásban szerezhető képesítések jegyzékéről és az új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendeletben szereplő felsőfokú képzettségek valamelyike:
+## 2.4.1.1. Szakirányú felsőfokú végzettség: a felsőoktatásban szerezhető egyes pedagógusképesítések jegyzékéről és egyes, a felsőoktatást érintő kormányrendeletek módosításáról szóló 830/2021. (XII. 29.) Korm. rendeletben és a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendeletben szereplő felsőfokú képzettségek valamelyike:
 
 ## 2.4.1.1.1. jogi, igazgatási szakterületen,
 
@@ -178,7 +178,7 @@
 
 ## 2.4.1.1.11. belső ellenőri szakterületen.
 
-## 2.4.1.2. Felsőfokú végzettség: főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (Ba).
+## 2.4.1.2. Felsőfokú végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (Ba).
 
 ## 2.4.2. Felsőfokú rendészeti szakképzettség:
 
@@ -234,7 +234,7 @@
 
 ## 3.3.5. a Kun Béla zászlósképző iskolán szerzett büntetés-végrehajtási tiszthelyettesi képzettséget.
 
-11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^39]
+11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^40]
 
 A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások
 
@@ -398,4 +398,4 @@ j) biztonsági felügyelő
 
 k) kutyavezető.
 
-[^39]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (4) bekezdése szerint módosított szöveg.
+[^40]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (4) bekezdése szerint módosított szöveg.
