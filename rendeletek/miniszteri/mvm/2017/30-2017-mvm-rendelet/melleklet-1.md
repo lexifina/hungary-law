@@ -1,4 +1,4 @@
-## 49. §[^12] E rendeletnek az Információs Hivatalra vonatkozó egyes miniszteri rendeletek módosításáról szóló 16/2020. (XII. 16.) KKM rendelettel (a továbbiakban: Mód1.) megállapított 37. §-át a Mód1. hatálybalépését[^13] követően benyújtott lakbértámogatás vagy albérleti díj hozzájárulás iránti kérelmek esetében lehet alkalmazni.
+## 50. §[^17] E rendeletnek az Információs Hivatal hivatásos állományú tagjainak illetményéről, juttatásairól, valamint a folyósítás és költségtérítés szabályairól szóló 30/2017. (XI. 28.) MvM rendelet módosításáról szóló 6/2022. (IV. 21.) KKM rendelettel (a továbbiakban: Mód2.) megállapított 46/B. § (1) bekezdés g) pontja szerinti egészségügyi szakdolgozói pótlékot a kiegészítő juttatás mértékébe visszamenőlegesen 2022. január 1-jétől kell megállapítani, és legkésőbb a Mód2. hatálybalépését[^18] követő hónapra járó illetménnyel együtt a jogosultak részére ki kell fizetni.
 
 1. melléklet a 30/2017. (XI. 28.) MvM rendelethez
 
@@ -26,5 +26,5 @@ A ruházati utánpótlási ellátmány terhére számla ellenében elszámolhat�
 
 | 10. | Női sapka, sál, kesztyű, kendő, öv |
 
-[^12]: A 49. §-t a 16/2020. (XII. 16.) KKM rendelet 6. §-a iktatta be.
-[^13]: A hatálybalépés időpontja 2020. december 31.
+[^17]: Az 50. §-t a 6/2022. (IV. 21.) KKM rendelet 2. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2022. április 22.
