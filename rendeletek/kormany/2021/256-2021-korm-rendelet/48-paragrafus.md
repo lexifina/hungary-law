@@ -1,4 +1,4 @@
-## szabálytalansági eljárást folytasson le, valamint szabálytalansági döntést készítsen elő és hozzon meg. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint a szabálytalansági eljárás lefolytatásához és az abban való döntéshozatalhoz kapcsolódó feladatok szervezeti szinten – technikai segítségnyújtás tárgyú projekt esetén szervezeti és személyi szinten – elkülönülnek.
+## szabálytalansági eljárást folytasson le, valamint szabálytalansági döntést készítsen elő és hozzon meg. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint a szabálytalansági eljárás lefolytatásához és az abban való döntéshozatalhoz kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
 
 48. § (1) A kifogás vagy a jogorvoslati kérelem elbírálásában nem vehet részt az, aki a kifogásolt döntés vagy a tárgyi szabálytalansági döntés meghozatalában részt vett.
 

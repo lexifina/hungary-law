@@ -1,4 +1,4 @@
-## folyamatba épített dokumentumalapú ellenőrzésben, helyszíni ellenőrzésben vagy helyszíni szemlében vegyen részt. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint az ellenőrzéshez kapcsolódó feladatok szervezeti szinten – technikai segítségnyújtás tárgyú projekt esetén szervezeti és személyi szinten – elkülönülnek.
+## folyamatba épített dokumentumalapú ellenőrzésben, helyszíni ellenőrzésben vagy helyszíni szemlében vegyen részt. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint az ellenőrzéshez kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
 
 47. § (1) A szabálytalansági ügy elintézésében nem vehet részt
 
@@ -16,8 +16,10 @@ f) az a)–e) pont szerinti személy hozzátartozója,
 
 g) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
-(2) Az (1) bekezdés a), b) és d) pontja nem zárja ki, hogy az irányító hatóság, illetve annak munkatársa
+(2)[^24] Az (1) bekezdés a), b) és d) pontja nem zárja ki, hogy az irányító hatóság, illetve annak munkatársa
 
 a) az irányító hatóság vagy olyan szervezet tekintetében, amelynek az irányító hatóság a szervezeti egysége, vagy
 
 b) szakpolitikai felelős által vezetett szervezet tekintetében
+
+[^24]: A 47. § (2) bekezdés záró szövegrésze a 156/2022. (IV. 19.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.

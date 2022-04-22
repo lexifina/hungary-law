@@ -10,6 +10,9 @@ d) az adott közfeladatban érintett fejlesztés számára projektszinten rendel
 
 e) a kiemelt projekt tárgyának és támogatást igénylőjének meghatározása során a projektek versenyeztetése mellőzésének indokait.
 
-(2) Kiemelt projekt támogatására irányuló felhívás célja kizárólagosan előkészítés akkor lehet, ha ahhoz a Kormány előzetesen hozzájárult.
+(2)[^34]
 
-(3) Az egy prioritás keretében meghirdetett, kizárólagosan előkészítési célú, kiemelt projekt támogatására irányuló felhívások keretösszegének összege nem haladhatja meg a prioritás keretösszegének 10%-át.
+(3)[^35]
+
+[^34]: A 76. § (2) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
+[^35]: A 76. § (3) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.

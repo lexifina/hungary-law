@@ -1,4 +1,4 @@
-## 337. §[^56] Az éves elszámolás az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 98–102. cikke szerint történik.
+## 337. §[^72] Az éves elszámolás az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 98–102. cikke szerint történik.
 
 338. § (1) Az audit hatóság a számviteli évben benyújtott költségnyilatkozatokból több alkalommal is végezhet mintavételt.
 
@@ -8,4 +8,4 @@
 
 (4) Az audit hatóság a mintán végzett ellenőrzései alapján tett, az egyes költségtételekre vonatkozó megállapításait október 31-ig megküldi az igazoló hatóság és az irányító hatóság részére.
 
-[^56]: A 337. § az 562/2021. (X. 1.) Korm. rendelet 36. § 23. pontja szerint módosított szöveg.
+[^72]: A 337. § az 562/2021. (X. 1.) Korm. rendelet 36. § 23. pontja szerint módosított szöveg.

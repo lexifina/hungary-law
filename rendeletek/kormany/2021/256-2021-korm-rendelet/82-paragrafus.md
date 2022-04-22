@@ -28,6 +28,8 @@ f) szakmai elvárásait
 
 ## egyedi kormányhatározat állapítja meg.
 
-(4) A (3) bekezdés szerinti kormányhatározat a derogációs projektnek minősülő kiemelt projekt esetén meghatározza a központi költségvetésből megtéríthető önerő indikatív összegét is.
+(4)[^36]
 
 (5) Területi kiválasztási eljárásrend esetén a (2) bekezdés szerinti kormányhatározat a tématerületeket és az azok keretében meghirdetni tervezett felhívások keretösszegét határozza meg.
+
+[^36]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.

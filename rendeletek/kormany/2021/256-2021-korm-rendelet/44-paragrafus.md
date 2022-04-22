@@ -18,14 +18,15 @@ f) az a)–e) pont szerinti személy Ptk. szerinti hozzátartozója (ezen alcím
 
 g) az a személy, akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
-(2) Az (1) bekezdés a) és b) pontja nem zárja ki, hogy
+(2)[^20] Az (1) bekezdés a) és b) pontja nem zárja ki, hogy
 
 a) irányító hatóság vagy olyan szervezet, amelynek az irányító hatóság a szervezeti egysége,
 
 b) szakpolitikai felelős által vezetett szervezet
 
-## támogatási kérelmet nyújtson be, és támogatásban részesüljön. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint a támogatási döntés előkészítéséhez és meghozatalához kapcsolódó feladatok szervezeti szinten – technikai segítségnyújtás tárgyú projekt esetén szervezeti és személyi szinten – elkülönülnek.
+## támogatási kérelmet nyújtson be, és támogatásban részesüljön. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint a támogatási döntés előkészítéséhez és meghozatalához kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
 
-(3)[^19] Az (1) bekezdés a)–c) pontja nem zárja ki, hogy területi kiválasztási eljárásrend esetén a területi szereplő vagy a területi szereplő többségi tulajdonában lévő gazdasági társaság támogatási kérelmet nyújtson be és támogatásban részesüljön. Erre akkor kerülhet sor, ha a területi szereplő szervezetén belül az adott projekt vonatkozásában a projekt előkészítéséhez és megvalósításához, valamint a támogatási döntés előkészítéséhez és meghozatalához kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
+(3)[^21] Az (1) bekezdés a)–c) pontja nem zárja ki, hogy területi kiválasztási eljárásrend esetén a területi szereplő vagy a területi szereplő többségi tulajdonában lévő gazdasági társaság támogatási kérelmet nyújtson be és támogatásban részesüljön. Erre akkor kerülhet sor, ha a területi szereplő szervezetén belül az adott projekt vonatkozásában a projekt előkészítéséhez és megvalósításához, valamint a támogatási döntés előkészítéséhez és meghozatalához kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
 
-[^19]: A 44. § (3) bekezdését a 75/2022. (III. 3.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 44. § (2) bekezdés záró szövegrésze a 156/2022. (IV. 19.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^21]: A 44. § (3) bekezdését a 75/2022. (III. 3.) Korm. rendelet 1. §-a iktatta be.
