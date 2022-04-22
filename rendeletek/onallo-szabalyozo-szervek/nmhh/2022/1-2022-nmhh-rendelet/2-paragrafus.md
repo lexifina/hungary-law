@@ -1,1 +1,3 @@
-## „206a. rádiófrekvenciás ellentevékenység céljából készült rádióberendezés: az elektronikus hírközlésről szóló 2003. évi C. törvény 56. § (1a) bekezdése szerinti – így különösen a haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló kormányrendelet szerinti, rádiófrekvenciával végzett ellentevékenységhez használható – rádióberendezés, amelynek funkciója valamely rádióberendezés üzemszerű működésének módosítása, akadályozása vagy ellehetetlenítése vagy üzemszerű működése által létrehozott elektromágneses spektrumkörnyezet torzítása, és amely esetén a polgári célú használat kizárt;”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

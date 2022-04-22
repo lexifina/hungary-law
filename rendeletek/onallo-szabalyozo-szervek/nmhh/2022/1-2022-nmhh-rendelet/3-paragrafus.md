@@ -1,5 +1,3 @@
-## 2. § Az R. 8. § (3) bekezdése a következő 13a. ponttal egészül ki:
+## 2. §[^2]
 
-## (Az egyedi engedélyezéssel és a rádióspektrum-használattal kapcsolatos sávhasználati feltételek az alábbi csoportokba sorolhatóak:)
-
-## „13a. a rádióspektrum-használati jogosultság és jog megújításának lehetősége;”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
