@@ -4,7 +4,7 @@
 
 1. Honvédelemért Kitüntető Cím:
 
-a)[^71] Babérkoszorúval ékesített fokozat: leírása az I. fokozatéval egyezik meg azzal, hogy a kereszt alatt körbefutó, 5 mm széles, zöld, zománcozott cser- és babérkoszorú van.
+a)[^74] Babérkoszorúval ékesített fokozat: leírása az I. fokozatéval egyezik meg azzal, hogy a kereszt alatt körbefutó, 5 mm széles, zöld, zománcozott cser- és babérkoszorú van.
 
 b) I. fokozat: középpont felé összefutó szárú ezüstszínű kereszt sötétzöld zománcszegéllyel, közepén Magyarország zománcozott címerével. A felfüggesztésnél az ellenkarikán aranyszínű akantuszlevél.
 
@@ -34,7 +34,7 @@ c) Bronz fokozat: bronzszínű babérkoszorú és címer, sötétzöld tűzzomá
 
 A szalag háromszög alakúra hajtott, színe fokozatonként mustársárga, szürke, bordó, középen a nemzeti színeket tartalmazó sávval.
 
-4.[^72]
+4.[^75]
 
-[^71]: A 3. melléklet 1. pont a) alpontja a 14/2015. (XII. 17.) HM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^72]: A 3. melléklet 4. pontját a 20/2018. (XII. 28.) HM rendelet 90. § d) pontja hatályon kívül helyezte.
+[^74]: A 3. melléklet 1. pont a) alpontja a 14/2015. (XII. 17.) HM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^75]: A 3. melléklet 4. pontját a 20/2018. (XII. 28.) HM rendelet 90. § d) pontja hatályon kívül helyezte.

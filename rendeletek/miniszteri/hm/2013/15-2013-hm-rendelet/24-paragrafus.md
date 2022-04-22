@@ -10,15 +10,15 @@
 
 (5) A nyugállományú katonák érdekeinek egészét érintő kiemelkedően eredményes munka elismerésére Hadik András-díj évente, május 21-én, a Honvédelem Napján adományozható.
 
-(6)[^20] A haza védelme érdekében a KNBSZ-nél kifejtett kiemelkedően eredményes tevékenység elismerésére Hajnik Pál-díj évente, február 14-én, a KNBSZ jogelőd szervezete alapításának évfordulóján adományozható.
+(6)[^21] A haza védelme érdekében a KNBSZ-nél kifejtett kiemelkedően eredményes tevékenység elismerésére Hajnik Pál-díj évente, február 14-én, a KNBSZ jogelőd szervezete alapításának évfordulóján adományozható.
 
 (7) A honvédelem egészét érintő kiemelkedően eredményes munka – különösen a magas szintű harckészültség fenntartásának, a személyi állomány kiképzésének, nevelésének és utánpótlása biztosításának területén nyújtott jelentős teljesítmény – elismerésére Hunyadi János-díj évente, május 21-én, a Honvédelem Napján adományozható.
 
-(8)[^21] A haza védelmében, a katonai felderítés érdekében a KNBSZ-nél kifejtett, kiemelkedően eredményes tevékenység elismerésére Koncz Márton-díj évente, november 11-én, a Felderítők Napján adományozható.
+(8)[^22] A haza védelmében, a katonai felderítés érdekében a KNBSZ-nél kifejtett, kiemelkedően eredményes tevékenység elismerésére Koncz Márton-díj évente, november 11-én, a Felderítők Napján adományozható.
 
 (9) A Honvédség feladatainak megvalósítása érdekében a humánpolitika munka területén kifejtett kiemelkedően jelentős elméleti és gyakorlati tevékenység elismerésére Mészáros Lázár-díj évente, augusztus 20-án, állami ünnepünkön adományozható.
 
 (10) A Honvédség érdekében kifejtett kiemelkedő tudományos kutatói, tudományszervezői, műszaki fejlesztési tevékenység és jelentős alkotói munka elismerésére Zrínyi Miklós-díj évente, november 3-án, a Magyar Tudomány Napján adományozható.
 
-[^20]: A 24. § (6) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § e) pontja szerint módosított szöveg.
-[^21]: A 24. § (8) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § f) pontja szerint módosított szöveg.
+[^21]: A 24. § (6) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § e) pontja szerint módosított szöveg.
+[^22]: A 24. § (8) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § f) pontja szerint módosított szöveg.
