@@ -176,7 +176,7 @@ e)[^71] betartani a támogatási szerződésben foglaltakat.
 
 Az előre nem látható és a kedvezményezettnek fel nem róható okból szükséges többletköltségek csak előzetes bejelentéssel (a kedvezményezett kérelmére) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben rögzített feltételek teljesülése mellett számolhatók el (többlettámogatás), ha – a tervezés, pályáztatás vagy a támogatási szerződés megkötésének időpontjában előre nem látható ok miatt bekövetkező – változásból fakad, továbbá ha a projekt keretében lefolytatott közbeszerzési eljárás eredményeként válik szükségessé.
 
-Többlettámogatás nyújtásáról, valamint annak összegéről – az esélyegyenlőség biztosítása mellett – a Felelős Hatóság ellenőrzését követően a Felelős Személy dönt. Az így megítélt többlettámogatás nem haladhatja meg a projekt teljes támogatási összegének 30%-át.
+Többlettámogatás nyújtásáról, valamint annak összegéről – az esélyegyenlőség biztosítása mellett – a Felelős Hatóság ellenőrzését követően a Felelős Személy dönt.
 
 Nem nyújtható többlettámogatás az adott projekt végrehajtásához, amennyiben a költségvetési törvényben, illetve a nemzeti programban rögzített források kimerülése alapján már nincs lehetőség, kivételt képez ez alól az államháztartásról szóló 2011. évi CXCV. törvényben meghatározott felhatalmazás.
 
@@ -807,7 +807,7 @@ Az egyösszegű átalány összegét a Felelős Hatóság az adott pályázati k
 [^72]: Az 1. melléklet 1.3.6. alcíme a 252/2019. (X. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^73]: Az 1. melléklet 1.3.6. alcím 6. pontját a 629/2021. (XI. 16.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
 [^74]: Az 1. melléklet 1.4.1. alcíme a 252/2019. (X. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^75]: Az 1. melléklet 1.4.2. pontja a 323/2018. (XII. 28.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^75]: Az 1. melléklet 1.4.2. pontja a 156/2022. (IV. 19.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^76]: Az 1. melléklet 2.1. alcím f) pontja a 451/2020. (X. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^77]: Az 1. melléklet 2.2. alcíme a 252/2019. (X. 24.) Korm. rendelet 7. § 12–13. pontja, a 629/2021. (XI. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^78]: Az Sztv. 26. § (2) és (3) bekezdése.

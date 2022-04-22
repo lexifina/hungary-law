@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-135-20-
 | 2021-03-25 | 2015-135-20-22.8 | 142/2021. (III. 24.) Korm. rendelet |
 | 2021-05-21 | 2015-135-20-22.9 | 256/2021. (V. 18.) Korm. rendelet |
 | 2021-11-17 | 2015-135-20-22.10 | 629/2021. (XI. 16.) Korm. rendelet |
+| 2022-04-22 | 2015-135-20-22.11 | 156/2022. (IV. 19.) Korm. rendelet |
