@@ -74,6 +74,8 @@
 
 | 34. | Nemzeti Vízművek Zártkörűen Működő Részvénytársaság | 01-10-141112 | 2022. december 31. |
 
+| 35. | Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság | 01-10-047569 | 2022. december 31. |
+
 ## II. Tulajdonosi joggyakorló: az Agrárminisztérium
 
 |  | A | B | C |
