@@ -12,7 +12,7 @@ a) az informatikai rendszerhez kapcsolódó helpdesk, valamint
 
 b) az informatikai rendszerrel kapcsolatos oktatási feladatok
 
-## támogatása.
+támogatása.
 
 (3) A kormányhivatal a TVI, illetve a HVI részére – írásbeli megállapodás alapján – térítésmentesen rendelkezésre bocsátja
 
