@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-2-20-3H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-04-22 | 2022-2-20-3H.1 | 2/2022. (IV. 19.) NMHH rendelet |
+| 2022-04-23 | 2022-2-20-3H.2 | 2010: CXXX. törvény |
