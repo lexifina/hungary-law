@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-8-20-7P
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-04-22 | 2022-8-20-7P.1 | 8/2022. (IV. 21.) NVTNM rendelet |
+| 2022-04-23 | 2022-8-20-7P.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
