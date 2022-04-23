@@ -1,3 +1,0 @@
-## 5. § A 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet [a továbbiakban: 255/2014. (X. 10.) Korm. rendelet] 25. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A regionális beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdése szerinti régióban kis- és középvállalkozás vagy nagyvállalkozás valósít meg.”
