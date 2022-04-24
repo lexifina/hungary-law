@@ -1,1 +1,0 @@
-## 1. A honvédelmi és katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelöléséről és felkészülési feladataik meghatározásáról szóló 3/2013. (I. 11.) NMHH rendelet módosítása
