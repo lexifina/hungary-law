@@ -26,31 +26,34 @@ k) az adat leírása: az adatforrás által megadott, az adathoz tartozó szöve
 
 l) az adat mértékegysége: az a fizikai mértékviszony, amelyben az adat mennyisége értelmezhető,
 
-m) adatgyűjtési időszak: az adat rögzítésének ideje,
+m)[^7] adat vonatkozási ideje: azon időpont vagy időszak, amelyre az adat vonatkozik,
 
-n)[^7] vonatkoztatási egység: az a koordinátákkal egyértelműen körülhatárolható területegység, amelyre az adat vonatkozik vagy vonatkoztatható,
+n)[^8] vonatkoztatási egység: az a koordinátákkal egyértelműen körülhatárolható területegység, amelyre az adat vonatkozik vagy vonatkoztatható,
 
 o) vonatkoztatási egység időszaka: azon időszak, amelyben a vonatkoztatási egység állapota érvényes,
 
-p) projekt: tartalmilag és formailag részletesen kidolgozott, megfelelő pénzügyi háttérrel és végrehajtási ütemezéssel rendelkező fejlesztési elképzelés,
+p)[^9]
 
-q)[^8] térbeli objektum: meghatározott helyhez vagy földrajzi területhez kapcsolódó valós jelenség absztrakt megjelenítése,
+q)[^10] térbeli objektum: meghatározott helyhez vagy földrajzi területhez kapcsolódó valós jelenség absztrakt megjelenítése,
 
-r)[^9]
+r)[^11]
 
-s) oktatási célú hozzáférés: középiskolai és felsőoktatási képzés keretében dokumentumok, térképek megtekintése, elemzése, területi elemzések bemutatása, összeállítása, valamint ezek – TeIR-re való hivatkozással történő – felhasználása a diákok iskolai feladatainak, illetve szakdolgozatainak elkészítésében,
+s)[^12]
 
-t)[^10] téradat: a környezet védelmének általános szabályairól szóló törvényben téradatként meghatározott adat,
+t)[^13] téradat: a környezet védelmének általános szabályairól szóló törvényben téradatként meghatározott adat,
 
-u)[^11] adatgazda: azon miniszter, akinek feladatkörébe az e rendeletben meghatározott adatok tartoznak, továbbá a Központi Statisztikai Hivatal elnöke,
+u)[^14] adatgazda: azon miniszter, akinek feladatkörébe az e rendeletben meghatározott adatok tartoznak, továbbá a Központi Statisztikai Hivatal elnöke,
 
-v)[^12] adatkezelő szervezet: az e rendeletben szabályozott adatok gyűjtésével, kezelésével, szolgáltatásával megbízott szervek vagy szervezetek.
+v)[^15] adatkezelő szervezet: az e rendeletben szabályozott adatok gyűjtésével, kezelésével, szolgáltatásával megbízott szervek vagy szervezetek.
 
 [^5]: A 2. § a) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
 [^6]: A 2. § i) pontja a 343/2016. (XI. 17.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^7]: A 2. § n) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § q) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § r) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^10]: A 2. § t) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^11]: A 2. § u) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^12]: A 2. § v) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^7]: A 2. § m) pontja a 157/2022. (IV. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. § n) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § p) pontját a 157/2022. (IV. 19.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § q) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § r) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^12]: A 2. § s) pontját a 157/2022. (IV. 19.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^13]: A 2. § t) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^14]: A 2. § u) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^15]: A 2. § v) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
