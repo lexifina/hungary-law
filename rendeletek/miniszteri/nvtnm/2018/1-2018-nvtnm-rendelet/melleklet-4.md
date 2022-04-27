@@ -52,13 +52,7 @@
 
 | 3. | Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaság | 01-09-389831 | 2022. december 31. |
 
-## IV. Tulajdonosi joggyakorló: a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-200849 | 2022. december 31. |
+## IV.
 
 ## V. Tulajdonosi joggyakorló: a HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság
 
