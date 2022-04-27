@@ -1,6 +1,6 @@
-## 30/B. [^35] A sértett értesítése a beteg és a beutalt szabadulásáról, eltávozásáról, szökéséről
+## 30/B. [^36] A sértett értesítése a beteg és a beutalt szabadulásáról, eltávozásáról, szökéséről
 
-37/B. § (1)[^36] Az IMEI a Bv. tv. 13. § (3) bekezdése szerinti tájékoztatásában közli a BVOP-val a sértett, illetve a büntetőeljárásról szóló 2017. évi XC. törvény 52. § (1) bekezdése alapján a sértett jogait gyakorló személy (a továbbiakban: értesítendő személy) nevét, az általa megadott lakcímet, a kérelem azonosítására szolgáló egyéb adatokat, továbbá az értesítés alapjául szolgáló ügyben érintett beteg vagy beutalt nevét, az értesítést megalapozó tény vagy körülmény megjelölését és bekövetkezésének időpontját.
+37/B. § (1)[^37] Az IMEI a Bv. tv. 13. § (3) bekezdése szerinti tájékoztatásában közli a BVOP-val a sértett, illetve a büntetőeljárásról szóló 2017. évi XC. törvény 52. § (1) bekezdése alapján a sértett jogait gyakorló személy (a továbbiakban: értesítendő személy) nevét, az általa megadott lakcímet, a kérelem azonosítására szolgáló egyéb adatokat, továbbá az értesítés alapjául szolgáló ügyben érintett beteg vagy beutalt nevét, az értesítést megalapozó tény vagy körülmény megjelölését és bekövetkezésének időpontját.
 
 (2) Az értesítendő személynek szóló, a Bv. tv. 13. § (3) bekezdése szerinti értesítésben csak az értesítés alapjául szolgáló ügyben érintett beteg vagy beutalt nevét, az értesítést megalapozó tény vagy körülmény megjelölését és bekövetkezésének időpontját lehet közölni. Az értesítés semmilyen módon nem utalhat az IMEI-re.
 
@@ -10,5 +10,5 @@ a) erről értesíti a betegnek vagy a beutaltnak a szabadulását követő tart
 
 b) – ha ennek feltételei fennállnak – a beteg vagy beutalt személyi védelme elrendelését kezdeményezi.
 
-[^35]: A 30/B. alcímet (37/B. §) a 31/2015. (X. 30.) IM rendelet 1. §-a iktatta be.
-[^36]: A 37/B. § (1) bekezdése a 14/2018. (VI. 15.) IM rendelet 9. § o) pontja szerint módosított szöveg.
+[^36]: A 30/B. alcímet (37/B. §) a 31/2015. (X. 30.) IM rendelet 1. §-a iktatta be.
+[^37]: A 37/B. § (1) bekezdése a 14/2018. (VI. 15.) IM rendelet 9. § o) pontja szerint módosított szöveg.
