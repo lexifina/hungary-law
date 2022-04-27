@@ -1,6 +1,6 @@
-## 74/F. §[^77] A támogatást nyújtó a 2020. december 31-ig odaítélt támogatások esetén 2021. február 1-ig, az ezt követően odaítélt támogatások esetén pedig az Atr. 18/C. § (3) bekezdése szerinti határidők szerint továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásoknak az Atr. 6. melléklete szerinti adatait az Atr. 18/D. § (1) bekezdés d) pontja szerinti közzététel céljából.
+## 74/F. §[^80] A támogatást nyújtó a 2020. december 31-ig odaítélt támogatások esetén 2021. február 1-ig, az ezt követően odaítélt támogatások esetén pedig az Atr. 18/C. § (3) bekezdése szerinti határidők szerint továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásoknak az Atr. 6. melléklete szerinti adatait az Atr. 18/D. § (1) bekezdés d) pontja szerinti közzététel céljából.
 
-## 41. [^78] Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás
+## 41. [^81] Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás
 
 74/G. § (1) Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) esetén a beruházásnak az alábbi célkitűzések egyikéhez kapcsolódnia kell:
 
@@ -26,5 +26,5 @@ b) a támogatás odaítéléséről szóló döntés időpontját megelőzően a
 
 (4) A támogatás nyújtása nem korlátozódhat meghatározott mezőgazdasági termékekre irányuló beruházásra azzal, hogy a belső piacon jelentkező túlkínálat miatt vagy felvevőpiac hiányában egyes mezőgazdasági termékek kizárhatók a támogatás alkalmazási köréből.
 
-[^77]: A 74/F. § a 37/2021. (VII. 29.) ITM rendelet 5. §-ával megállapított szöveg.
-[^78]: A 41. alcímet (74/G–74/J. §) az 59/2020. (XII. 30.) ITM rendelet 12. §-a iktatta be.
+[^80]: A 74/F. § a 37/2021. (VII. 29.) ITM rendelet 5. §-ával megállapított szöveg.
+[^81]: A 41. alcímet (74/G–74/J. §) az 59/2020. (XII. 30.) ITM rendelet 12. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## nyújtható.
 
-## 4/A. §[^32] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
+## 4/A. §[^34] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
 
 1. 8., 12., 13. és 15. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
 
@@ -66,4 +66,4 @@
 
 32. 8. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás, vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás
 
-[^32]: A 4/A. §-t az 59/2020. (XII. 30.) ITM rendelet 4. §-a iktatta be, szövege a 70/2021. (XII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^34]: A 4/A. §-t az 59/2020. (XII. 30.) ITM rendelet 4. §-a iktatta be, szövege a 70/2021. (XII. 30.) ITM rendelet 4. §-ával megállapított szöveg.

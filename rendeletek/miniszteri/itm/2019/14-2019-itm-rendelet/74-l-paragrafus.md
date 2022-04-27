@@ -1,4 +1,4 @@
-## 43. [^80] Az állami szakképző intézmények a szakképzésről szóló 2019. évi LXXX. törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása
+## 43. [^83] Az állami szakképző intézmények a szakképzésről szóló 2019. évi LXXX. törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása
 
 74/L. § (1) A XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 5. Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása fejezeti kezelésű előirányzat
 
@@ -44,4 +44,4 @@ több nem lehet.
 
 (10) A támogatási kérelem alapján a támogató megállapítja a kedvezményezett részére az adott költségvetési évre folyósítandó támogatás – ezer forintra kerekített – összegét, a támogatás két részletben történő folyósításának határidejét, és erről támogatói okiratot ad ki.
 
-[^80]: A 43. alcímet (74/L–74/M. §-t) az 59/2020. (XII. 30.) ITM rendelet 13. §-a iktatta be, szövege a 70/2021. (XII. 30.) ITM rendelet 9. §-ával megállapított szöveg.
+[^83]: A 43. alcímet (74/L–74/M. §-t) az 59/2020. (XII. 30.) ITM rendelet 13. §-a iktatta be, szövege a 70/2021. (XII. 30.) ITM rendelet 9. §-ával megállapított szöveg.
