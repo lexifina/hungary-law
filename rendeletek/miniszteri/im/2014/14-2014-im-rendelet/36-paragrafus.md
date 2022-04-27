@@ -12,7 +12,7 @@ b) a fegyelmi eljárás alá vont fogvatartott és a sértett a közvetítői el
 
 c) a fegyelemsértés jellegére, a fegyelmi eljárás alá vont fogvatartott személyére tekintettel a fegyelmi eljárás lefolytatása vagy a fenyítés végrehajtása mellőzhető.
 
-(3)[^16] Bűncselekmény elkövetésének gyanúját megalapozó, továbbá olyan fegyelemsértés esetén, amely miatt a sértett magánindítványt tett, közvetítői eljárás nem alkalmazható. Nem alkalmazható a közvetítő eljárás akkor sem, ha a fegyelmi eljárás alá vont fogvatartott vagy a sértett letartóztatásban lévő terhelt.
+(3)[^17] Bűncselekmény elkövetésének gyanúját megalapozó, továbbá olyan fegyelemsértés esetén, amely miatt a sértett magánindítványt tett, közvetítői eljárás nem alkalmazható. Nem alkalmazható a közvetítő eljárás akkor sem, ha a fegyelmi eljárás alá vont fogvatartott vagy a sértett letartóztatásban lévő terhelt.
 
 (4) A közvetítői eljárás kezdeményezésére kizárólag a sértett és az eljárás alá vont fogvatartott jogosult. Valamelyik jogosult által előterjesztett kérelem esetén, haladéktalanul fel kell hívni a másik jogosultat a hozzájárulással kapcsolatos nyilatkozattételre.
 
@@ -26,4 +26,4 @@ b) a 7. § szerinti eljárás esetén a reintegrációs tiszti meghallgatáson,
 
 c) a már kiszabott fenyítés végrehajtása során a fenyítés jogerőre emelkedésétől a végrehajtás befejezéséig terjedő időszakban kezdeményezhető.
 
-[^16]: A 36. § (3) bekezdése a 14/2018. (VI. 15.) IM rendelet 10. § d) pontja szerint módosított szöveg.
+[^17]: A 36. § (3) bekezdése a 14/2018. (VI. 15.) IM rendelet 10. § d) pontja szerint módosított szöveg.
