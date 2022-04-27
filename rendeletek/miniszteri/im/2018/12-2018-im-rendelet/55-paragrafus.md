@@ -1,4 +1,4 @@
-## 54. § E Fejezet szabályait kell megfelelően alkalmazni, ha az eljárási cselekményen alkalmazott telekommunikációs eszköz használata kizárólag folyamatos hangfelvétel útján valósul meg.
+## 54/E. § Ha az elkülönített helyszínen a Be. 123. § (1) bekezdés c)–e) pontjában meghatározott személy is jelen van, akkor az 54/A–54/D. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az elkülönített helyszínen a jelenlétre kötelezett vagy jogosult személy személyazonosságának megállapítását, valamint a személyes adatok zárt kezelésével kapcsolatos feladatokat a Be. 123. § (1) bekezdés c)–e) pontjában meghatározott személy végzi el.
 
 ## VII. Fejezet
 

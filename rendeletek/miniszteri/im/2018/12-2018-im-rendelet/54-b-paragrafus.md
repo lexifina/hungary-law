@@ -1,0 +1,5 @@
+54/B. § (1) Az elkülönített helyszínen a jelenlétre kötelezett vagy jogosult személyt fel kell hívni, hogy a rendelkezésére álló eszköze kameráját az eljárási cselekmény vezetője által meghatározott helyzetben helyezze el, valamint figyelmeztetni kell arra, hogy kameráját az eljárási cselekmény során csak az eljárási cselekmény vezetője által meghatározottak szerint mozdíthatja el.
+
+(2) Az eljárási cselekmény vezetője engedélyezheti az elkülönített helyszínen a kamera olyan elhelyezését, hogy csak a jelenlétre kötelezett vagy jogosult személy legyen látható. Ha az 54/A. § (3) bekezdésben meghatározottak ellenőrzése szükséges, az eljárási cselekmény vezetője felhívja az elkülönített helyszínen jelenlétre kötelezett vagy jogosult személyt, hogy a kameráján keresztül mutassa meg az elkülönített helyszínt.
+
+(3) Az eljárási cselekmény nem kezdhető meg, illetve az eljárási cselekményt – a Be. 126/B. § (3) és (4) bekezdésében meghatározottak mellett – akkor is meg kell szakítani, ha az elkülönített helyszínen a jelenlétre kötelezett vagy jogosult személy az 54/A. § (3) bekezdésében meghatározott feltételeket a figyelmeztetés ellenére sem biztosítja.
