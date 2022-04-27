@@ -134,7 +134,7 @@ g)[^191] a hallgató tanulmányai alatt személyi segítő biztosítása.
 
 (10) Indokolt esetben a hallgató kérelmére, a szakvélemény alapján a felsőoktatási intézmény a (2)–(7) bekezdésben szabályozott kedvezményektől eltérő, további vagy más kedvezményt is biztosíthat a hallgató részére.
 
-(11)[^192] A nyelvvizsga szintje alóli mentesítés a doktori képzés tekintetében nem illeti meg a doktori képzésre jelentkező hallgatót, a doktorandusz hallgatót és a doktorjelöltet. A nyelvvizsga egy része alóli mentesség azonban a szakértői véleményben megállapított fogyatékosság típusától függően illeti meg a doktori képzésre jelentkező hallgatót, a doktorandusz hallgatót és a doktorjelöltet.
+(11)[^192]
 
 (12) A nyelvvizsga vagy annak egy része, illetve szintje alóli mentesítés megilleti azt a fogyatékossággal élő volt hallgatót, aki záróvizsgát tett és hallgatói jogviszonya megszűnt, de a szakképzettség megszerzéséhez szükséges nyelvvizsga kötelezettségét nem teljesítette.
 
@@ -145,4 +145,4 @@ g)[^191] a hallgató tanulmányai alatt személyi segítő biztosítása.
 [^189]: A 62. § (6) bekezdés c) pont ci) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
 [^190]: A 62. § (6) bekezdés d) pont df) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
 [^191]: A 62. § (7) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^192]: A 62. § (11) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^192]: A 62. § (11) bekezdését az Alkotmánybíróság a 6/2022. (IV. 26.) AB határozat 1. pontjával megsemmisítette 2022. április 27. napjával.
