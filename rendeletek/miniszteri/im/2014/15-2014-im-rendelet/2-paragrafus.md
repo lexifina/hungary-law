@@ -12,7 +12,7 @@ d) a szabadságvesztésre ítélt ruházatát és lábbelijét,
 
 e) azokat a tárgyakat, amelyeket a fogvatartott magánál tarthat, de azok letétbe helyezését kéri,
 
-f) azokat a tárgyakat, amelyeket a fogvatartott nem tarthat magánál, de letétbe helyezhetők és azok letétbe helyezését a fogvatartott kéri.
+f)[^4] különös méltánylást érdemlő esetben – így különösen, ha a fogvatartott lakhatása nem biztosított – azokat a tárgyakat, amelyeket a fogvatartott nem tarthat magánál, de letétbe helyezhetők, és azt a fogvatartott kéri.
 
 (2) Nem helyezhető letétbe olyan tárgy,
 
@@ -20,7 +20,7 @@ a) amelyet a fogvatartott a büntetések, az intézkedések, egyes kényszerint�
 
 b) amelynek tárolása a Bv. 129. § (3) bekezdés b) pontja esetében a végrehajtás biztonságára veszélyt jelenthet,
 
-c) amely a tárolásra közegészségügyi okból vagy más veszélyeztető jellege miatt nem alkalmas, így különösen a gyógyszer, a romlandó élelmiszer, az üvegcsomagolású termék, valamint az elem és az akkumulátor.
+c)[^5] amely a tárolásra közegészségügyi okból vagy más veszélyeztető jellege miatt nem alkalmas, így különösen a gyógyszer, a romlandó élelmiszer, az üvegcsomagolású termék, valamint az elem és az elektronikai eszköz beépített, el nem távolítható akkumulátora kivételével az akkumulátor.
 
 (3) A (2) bekezdésben meghatározott esetben a letétbe helyezést meg kell tagadni és – a (4)–(5) bekezdésben meghatározott kivétellel – ezzel egyidejűleg fel kell hívni a fogvatartottat arra, hogy harminc napon belül gondoskodjék a tárgy bv. intézeten kívüli megőrzéséről. Ha a fogvatartott ennek a megadott határidőre nem tesz eleget, az adott tárgyat – jegyzőkönyv egyidejű felvétele mellett – meg kell semmisíteni.
 
@@ -29,3 +29,6 @@ c) amely a tárolásra közegészségügyi okból vagy más veszélyeztető jell
 (5) Ha a fogvatartottnál lőfegyver, lőszer, robbanó- vagy sugárzó anyag, kábítószer vagy olyan tárgy van, amelyről szemrevételezés alapján feltételezhető, hogy bűncselekmény útján jött létre, így pl. hamis közokirat, hamis pénz vagy hamis készpénz-helyettesítő fizetési eszköz, akkor az általános rendőrségi feladatok ellátására létrehozott szervet kell értesíteni.
 
 (6) A letétbe helyezhető tárgyak mennyiségét – a tárolási lehetőségek figyelembevételével – a bv. intézet parancsnoka határozza meg.
+
+[^4]: A 2. § (1) bekezdés f) pontja a 12/2022. (IV. 26.) IM rendelet 34. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdés c) pontja a 12/2022. (IV. 26.) IM rendelet 39. § a) pontja szerint módosított szöveg.

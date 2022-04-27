@@ -30,5 +30,8 @@ i) szabálysértési elzárást töltő
 
 3. külföldi fizetőeszköz: a valuta és a deviza.
 
+4.[^3] úti okmány: az úti okmányok azon köre, amelyek esetében a bv. intézet minősül az úti okmány visszatartását végrehajtó szervnek.
+
 [^1]: Az 1. § (1) bekezdés f) pontja a 14/2018. (VI. 15.) IM rendelet 11. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés g) pontja a 14/2018. (VI. 15.) IM rendelet 11. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés 4. pontját a 12/2022. (IV. 26.) IM rendelet 33. §-a iktatta be.
