@@ -1,4 +1,4 @@
-## 60/A. [^110] Kapcsolattartás telekommunikációs eszköz útján
+## 60/A. [^124] Kapcsolattartás telekommunikációs eszköz útján
 
 102/A. § (1) A telekommunikációs eszköz útján történő kapcsolattartási mód igénybevételéhez a kapcsolattartónak – ha kapcsolattartóként való nyilvántartásba vételekor ezen adatok megadására nem került sor – a bv. szerv részére írásban meg kell adnia az internet alapú telekommunikációs eszköz alkalmazásához regisztrált azonosító nevét, továbbá a kapcsolattartás időpontjáról való tájékoztatása érdekében az elektronikus levelezési címét.
 
@@ -6,4 +6,4 @@
 
 (3) Egészségügyi válsághelyzet vagy a bv. szervet érintő katasztrófahelyzet idején a bv. szerv vezetőjének rendelkezése alapján a látogatófogadás kiváltására a telekommunikációs eszköz útján történő kapcsolattartás rezsimszabályokra tekintet nélkül alkalmazható. Ez esetben az (1) bekezdés szerinti adatokat az elítélt telefonos kapcsolattartás útján is beszerezheti.
 
-[^110]: A 60/A. alcímet (102/A. §) a 20/2020. (XII. 30.) IM rendelet 92. §-a iktatta be.
+[^124]: A 60/A. alcímet (102/A. §) a 20/2020. (XII. 30.) IM rendelet 92. §-a iktatta be.

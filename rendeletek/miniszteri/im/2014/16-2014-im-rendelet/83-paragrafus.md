@@ -1,4 +1,4 @@
-## 50. [^90] Előállítás és elektronikus hírközlő hálózat útján történő meghallgatás egyéb bírósági ügyben vagy közjegyzői eljárásban
+## 50. [^101] Előállítás és elektronikus hírközlő hálózat útján történő meghallgatás egyéb bírósági ügyben vagy közjegyzői eljárásban
 
 83. § (1) Ha az elítéltet egyéb bírósági ügyben vagy a közjegyzői eljárásban a személyes megjelenés kötelezettségével idézik, és az elítélt a tárgyaláson meg kíván jelenni, a bv. intézet az idézésben megjelölt helyre és időre előállítja.
 
@@ -16,4 +16,4 @@ b) az elítélt részére engedélyezett félbeszakítás vagy
 
 c) a büntetés végrehajtását kizáró ok felmerülése
 
-[^90]: Az 50. alcím (83. §) a 14/2018. (VI. 15.) IM rendelet 14. §-ával megállapított szöveg.
+[^101]: Az 50. alcím (83. §) a 14/2018. (VI. 15.) IM rendelet 14. §-ával megállapított szöveg.

@@ -1,18 +1,18 @@
-## 98. [^256] A letartóztatott munkáltatásban és oktatásban való részvétele
+## 98. [^277] A letartóztatott munkáltatásban és oktatásban való részvétele
 
-196. § (1)[^257] A letartóztatott kérelmére részt vehet a munkáltatásban és az oktatásban, szakképzésben. Ezt a kérelmet a letartóztatott bármikor visszavonhatja.
+196. § (1)[^278] A letartóztatott kérelmére részt vehet a munkáltatásban és az oktatásban, szakképzésben. Ezt a kérelmet a letartóztatott bármikor visszavonhatja.
 
-(2)[^258] A letartóztatott a bv. intézeten kívüli oktatásban, szakképzésben nem vehet részt.
+(2)[^279] A letartóztatott a bv. intézeten kívüli oktatásban, szakképzésben nem vehet részt.
 
-(3)[^259] Ha a letartóztatott kérelmére részt vesz a munkáltatásban, a bv. intézet által biztosított forma-, munka- vagy védőruhát kell viselnie. A munkáltatás megkezdése előtt tájékoztatni kell a formaruha viselésének kötelezettségéről, a munkáltatás csak ennek elfogadása esetén kezdhető meg.
+(3)[^280] Ha a letartóztatott kérelmére részt vesz a munkáltatásban, a bv. intézet által biztosított forma-, munka- vagy védőruhát kell viselnie. A munkáltatás megkezdése előtt tájékoztatni kell a formaruha viselésének kötelezettségéről, a munkáltatás csak ennek elfogadása esetén kezdhető meg.
 
-(4)[^260] A letartóztatott a fizetett szabadságát a bv. intézetben tölti le, a számára kijelölt zárkában.
+(4)[^281] A letartóztatott a fizetett szabadságát a bv. intézetben tölti le, a számára kijelölt zárkában.
 
-(5)[^261] A munkáltatásban részt vevő letartóztatott a látogatófogadáskor, előállításkor és szállításkor a saját ruházatát viseli.
+(5)[^282] A munkáltatásban részt vevő letartóztatott a látogatófogadáskor, előállításkor és szállításkor a saját ruházatát viseli.
 
-[^256]: A 98. alcím címe a 14/2018. (VI. 15.) IM rendelet 19. § 50. pontja szerint módosított szöveg.
-[^257]: A 196. § (1) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 50. és 54. pontja szerint módosított szöveg.
-[^258]: A 196. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 50. pontja szerint módosított szöveg.
-[^259]: A 196. § (3) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 54. pontja szerint módosított szöveg.
-[^260]: A 196. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 50. pontja szerint módosított szöveg.
-[^261]: A 196. § (5) bekezdése a 14/2018. (VI. 15.) IM rendelet 20. § d) pontja szerint módosított szöveg.
+[^277]: A 98. alcím címe a 14/2018. (VI. 15.) IM rendelet 19. § 50. pontja szerint módosított szöveg.
+[^278]: A 196. § (1) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 50. és 54. pontja szerint módosított szöveg.
+[^279]: A 196. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 50. pontja szerint módosított szöveg.
+[^280]: A 196. § (3) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 54. pontja szerint módosított szöveg.
+[^281]: A 196. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 50. pontja szerint módosított szöveg.
+[^282]: A 196. § (5) bekezdése a 14/2018. (VI. 15.) IM rendelet 20. § d) pontja szerint módosított szöveg.

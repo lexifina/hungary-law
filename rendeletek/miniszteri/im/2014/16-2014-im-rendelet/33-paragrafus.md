@@ -17,3 +17,7 @@
 a) szigorúbb rezsimbe sorolható, ha az egyéniesített fogvatartási programtervben foglaltakat nem fogadja el, vagy a személyi állománnyal nem működik együtt, vagy
 
 b) enyhébb rezsimbe sorolható, ha a kockázatértékelése során mért kockázati érték alacsony.
+
+(7)[^38] Ha az elítéltet más bv. intézetbe szállítják, vagy fogvatartásának jogcíme megváltozik, akkor a befogadási eljárás során a korábbi rezsimbesorolása az irányadó, az ettől való eltérést a határozatban indokolni kell.
+
+[^38]: A 33. § (7) bekezdését a 12/2022. (IV. 26.) IM rendelet 43. §-a iktatta be.

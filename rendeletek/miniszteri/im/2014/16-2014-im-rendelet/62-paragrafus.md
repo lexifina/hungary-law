@@ -1,4 +1,4 @@
-## 61. §[^78] Az ajtók zárva tartásának elrendelésére és megszüntetésére a bv. intézet parancsnoka jogosult. Ha a Bv. tv. 153. §-a szerinti intézkedés alkalmazása rendkívüli esemény bekövetkeztének a megelőzése, megszakítása vagy felszámolása érdekében történt, az elrendelésről a törvényességi felügyeletet ellátó ügyészséget haladéktalanul értesíteni kell.
+## 61. §[^87] Az ajtók zárva tartásának elrendelésére és megszüntetésére a bv. intézet parancsnoka jogosult. Ha a Bv. tv. 153. §-a szerinti intézkedés alkalmazása rendkívüli esemény bekövetkeztének a megelőzése, megszakítása vagy felszámolása érdekében történt, az elrendelésről a törvényességi felügyeletet ellátó ügyészséget haladéktalanul értesíteni kell.
 
 ## 34. Egyes jogok gyakorlásának a felfüggesztése
 
@@ -6,4 +6,4 @@
 
 (2) A jogok gyakorlásának a felfüggesztéséről az érintett elítéltet, továbbá mindazokat értesíteni kell, akikre az intézkedés kihat.
 
-[^78]: A 61. § a 14/2018. (VI. 15.) IM rendelet 19. § 5. pontja szerint módosított szöveg.
+[^87]: A 61. § a 14/2018. (VI. 15.) IM rendelet 19. § 5. pontja szerint módosított szöveg.

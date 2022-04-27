@@ -4,31 +4,34 @@
 
 a) a rendkívüli halálesettel kapcsolatos eljárás lefolytatására illetékes rendőrkapitányságot,
 
-b)[^192] a törvényességi felügyeletet ellátó ügyészséget, továbbá
+b)[^209] a törvényességi felügyeletet ellátó ügyészséget, továbbá
 
-c) telefonon vagy távirat útján az elhalt hozzátartozóját, ennek hiányában kapcsolattartóját és egyidejűleg felkéri a temetéssel kapcsolatos ügyintézésre.
+c)[^210] telefonon vagy távirat útján az elhalt hozzátartozóját, ennek hiányában kapcsolattartóját és egyidejűleg felkéri a temetéssel kapcsolatos ügyintézésre.
 
-(2)[^193] Ha a hozzátartozó írásbeli nyilatkozatában vállalja az eltemettetést, részére az anyakönyvezéshez szükséges halottvizsgálati bizonyítványt és – a törvényességi felügyeletet ellátó ügyészség nyilatkozatának beszerzését követően – a temetési engedélyt át kell adni.
+(2)[^211] Ha a hozzátartozó írásbeli nyilatkozatában vállalja az eltemettetést, részére az anyakönyvezéshez szükséges halottvizsgálati bizonyítványt és – a törvényességi felügyeletet ellátó ügyészség nyilatkozatának beszerzését követően – a temetési engedélyt vagy annak elektronikus példányát át kell adni.
 
-(3) Ha nincs az elhunyt eltemettetésére köteles személy, vagy olyan személy, aki azt vállalná, a bv. intézet a halálesetet nyolc napon belül bejelenti a haláleset helye szerint illetékes anyakönyvvezetőnél és megkeresi a haláleset helye szerint illetékes önkormányzatot a köztemetéssel kapcsolatos intézkedések megtétele érdekében. A megkereséshez a bv. intézet csatolja a halotti anyakönyvi kivonatot és a temetési engedélyt.
+(3)[^212] Ha nincs az elhunyt eltemettetésére köteles személy, vagy olyan személy, aki azt vállalná, a bv. intézet megkeresi a haláleset helye szerint illetékes önkormányzatot a köztemetéssel kapcsolatos intézkedések megtétele érdekében. A megkereséshez a bv. intézet csatolja a halottvizsgálati bizonyítványt és a temetési engedélyt vagy azok elektronikus példányát.
 
 (4) Az elítélt haláláról értesíteni kell
 
-a)[^194] az elsőfokon eljárt bíróságot vagy az összbüntetési ítéletet elsőfokon hozó bíróságot,
+a)[^213] az elsőfokon eljárt bíróságot vagy az összbüntetési ítéletet elsőfokon hozó bíróságot,
 
 b) az elhunyt lakóhelye szerint illetékes rendőrkapitányságot,
 
-c)[^195] a bűnügyi nyilvántartó szervet,
+c)[^214] a bv. bírót,
 
-d)[^196] a feltételes szabadságra bocsátást engedélyező bv. bírót, a feltételes szabadságra bocsátás mellett elrendelt pártfogó felügyelet esetén az elítélt lakcíme, ennek hiányában tényleges tartózkodási helye szerint illetékes büntetés-végrehajtási pártfogó felügyelőt is.
+d)[^215] a feltételes szabadságra bocsátás mellett elrendelt pártfogó felügyelet esetén az elítélt lakcíme, ennek hiányában tényleges tartózkodási helye szerint illetékes büntetés-végrehajtási pártfogó felügyelőt.
 
-(5) Ha a bv. intézetből engedéllyel vagy anélkül távollévő elítélt haláláról érkezik értesítés, a bv. intézet beszerzi a halotti anyakönyvi kivonat másolatát és értesíti a (4) bekezdésben meghatározott szerveket.
+(5)[^216] Ha a bv. intézetből engedéllyel vagy anélkül távollévő elítélt haláláról érkezik értesítés, a bv. intézet beszerzi a halotti anyakönyvi kivonatot és értesíti a (4) bekezdésben meghatározott szerveket.
 
-(6)[^197] Az elhunyt nyilvántartási iratában meg kell őrizni a halottvizsgálati bizonyítvány és a temetési engedély másolatát, a hozzátartozó nyilatkozatának, valamint a törvényességi felügyeletet ellátó ügyészségnek küldött jelentés egy példányát. A bíróságnak meg kell küldeni a halotti anyakönyvi kivonat másolatát.
+(6)[^217] Az elhunyt nyilvántartási iratában meg kell őrizni az (1)–(5) bekezdés szerinti iratokat, valamint a törvényességi felügyeletet ellátó ügyészségnek küldött jelentés egy példányát. A bíróságnak meg kell küldeni a halotti anyakönyvi kivonatot vagy annak elektronikus példányát.
 
-[^192]: A 147. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 5. pontja szerint módosított szöveg.
-[^193]: A 147. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 8. pontja szerint módosított szöveg.
-[^194]: A 147. § (4) bekezdés a) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 36. pontja szerint módosított szöveg.
-[^195]: A 147. § (4) bekezdés c) pontja a 28/2016. (XII. 27.) IM rendelet 12. §-ával megállapított szöveg.
-[^196]: A 147. § (4) bekezdés d) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 30. pontja szerint módosított szöveg.
-[^197]: A 147. § (6) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 11. pontja szerint módosított szöveg.
+[^209]: A 147. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 5. pontja szerint módosított szöveg.
+[^210]: [A 12/2022. (IV. 26.) IM rendelet 54. § i) pontjával elrendelet módosítás, amely szerint a „telefon vagy távirat útján” szövegrész helyébe a „rövid úton” szöveg lép, nem vezethető át.]
+[^211]: A 147. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 8. pontja, a 12/2022. (IV. 26.) IM rendelet 54. § j) pontja szerint módosított szöveg.
+[^212]: A 147. § (3) bekezdése a 12/2022. (IV. 26.) IM rendelet 50. § (1) bekezdésével megállapított szöveg.
+[^213]: A 147. § (4) bekezdés a) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 36. pontja szerint módosított szöveg.
+[^214]: A 147. § (4) bekezdés c) pontja a 12/2022. (IV. 26.) IM rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^215]: A 147. § (4) bekezdés d) pontja a 12/2022. (IV. 26.) IM rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^216]: A 147. § (5) bekezdése a 12/2022. (IV. 26.) IM rendelet 54. § k) pontja szerint módosított szöveg.
+[^217]: A 147. § (6) bekezdése a 12/2022. (IV. 26.) IM rendelet 50. § (3) bekezdésével megállapított szöveg.

@@ -8,8 +8,6 @@
 
 (5) Az átszállításról szóló határozat egy példányát a bv. intézetbe érkezéstől számított három napon belül kézbesíteni kell az elítélt vagy az egyéb jogcímen fogvatartott részére. Ha az elítélt vagy az egyéb jogcímen fogvatartott az átszállításról szóló határozat érkezésekor más bv. intézetben tartózkodik, az átszállításról szóló határozat elektronikus példányát kell megküldeni és igazoltan kézbesíteni.
 
-## miatt felmerülő kiadások érdekében szükséges.
+## 5/B.[^11]
 
-## 5/B.[^9]
-
-[^9]: Az 5/B. alcímet (10/C. §) a 24/2016. (XII. 23.) IM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 18/2020. (XII. 29.) IM rendelet 9. §-a.
+[^11]: Az 5/B. alcímet (10/C. §) a 24/2016. (XII. 23.) IM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 18/2020. (XII. 29.) IM rendelet 9. §-a.

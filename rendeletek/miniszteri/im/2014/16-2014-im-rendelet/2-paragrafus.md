@@ -18,6 +18,6 @@
 
 8. zárka: az elítélt elhelyezésére szolgáló olyan helyiség, amelynek nyílászárói a külön rendelkezésekben meghatározott biztonsági követelményeknek megfelelnek.
 
-9.[^2] telekommunikációs eszköz útján történő kapcsolattartás: a Bv. tv. 173. § (2) bekezdése szerinti kapcsolattartási formának a bv. szerv által meghatározott internet alapú telekommunikációs eszköz útján történő biztosítása.
+9.[^2] telekommunikációs eszköz útján történő kapcsolattartás: a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 173. § (2) bekezdése szerinti kapcsolattartási formának a bv. szerv által meghatározott internet alapú telekommunikációs eszköz útján történő biztosítása.
 
-[^2]: A 2. § 9. pontját a 20/2020. (XII. 30.) IM rendelet 74. §-a iktatta be.
+[^2]: A 2. § 9. pontját a 20/2020. (XII. 30.) IM rendelet 74. §-a iktatta be, szövege a 12/2022. (IV. 26.) IM rendelet 54. § a) pontja szerint módosított szöveg.
