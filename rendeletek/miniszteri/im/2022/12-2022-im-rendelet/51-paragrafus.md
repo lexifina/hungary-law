@@ -1,0 +1,1 @@
+## „(6) Az elhunyt nyilvántartási iratában meg kell őrizni az (1)–(5) bekezdés szerinti iratokat, valamint a törvényességi felügyeletet ellátó ügyészségnek küldött jelentés egy példányát. A bíróságnak meg kell küldeni a halotti anyakönyvi kivonatot vagy annak elektronikus példányát.”

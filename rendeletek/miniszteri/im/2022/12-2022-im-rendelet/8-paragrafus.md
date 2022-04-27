@@ -1,0 +1,5 @@
+## 7. § A Pfr. 2. §-a a következő (2) és (3) bekezdéssel egészül ki:
+
+## „(2) A pártfogó felügyelő a pártfogó felügyelői vélemény, az összefoglaló pártfogó felügyelői vélemény és a környezettanulmány elkészítését megelőzően megvizsgálja, hogy szükséges-e tolmács igénybevétele, és annak megfelelően intézkedik.
+
+## (3) Az (1) bekezdés szerint kirendelt kormányhivatal a gyermekkorú, a terhelt, az eljárás alá vont fiatalkorú, illetve a fizetésre kötelezett meghallgatásának lefolytatása érdekében megkeresheti azt a kormányhivatalt, ahol a gyermekkorú, a terhelt, az eljárás alá vont fiatalkorú, illetve a fizetésre kötelezett ideiglenesen – ide nem értve a tartózkodási hely nyilvántartás szerinti megváltozását, ha a kirendelés erre vonatkozott – tartózkodik. A megkeresett kormányhivatal a meghallgatás során feltárt tényekről és körülményekről a megkeresésben megadott módon és határidővel, illetve ha a meghallgatás nem folytatható le, annak akadályáról haladéktalanul tájékoztatja a megkeresőt.”

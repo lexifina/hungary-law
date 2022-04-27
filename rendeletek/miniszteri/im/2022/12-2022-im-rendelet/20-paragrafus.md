@@ -1,0 +1,1 @@
+## „d) az elítélt életfogytig tartó szabadságvesztésre ítélése vagy más ügyben kiszabott kiutasítása okán a végrehajtás kizárt, beszerzi az erről rendelkező jogerős ügydöntő határozatot, az ügyet lezárja, és erről értesíti az első fokon eljárt bíróságot,”
