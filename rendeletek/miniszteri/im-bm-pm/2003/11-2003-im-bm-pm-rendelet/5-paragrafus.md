@@ -12,7 +12,7 @@
 
 (5)[^37] A járási ügyészségen és a főügyészségen a szerv vezetője jelöli ki a bűnjelkezelőt.
 
-(6)[^38] A járásbíróságon az elnök, a törvényszéken, a törvényszék gazdasági hivatalánál és katonai tanácsainál a törvényszék elnöke jelöli ki a bűnjelkezelőt.
+(6)[^38] A járásbíróságon az elnök, a törvényszéken, a BGH-nál és a törvényszék katonai tanácsainál a törvényszék elnöke jelöli ki a bűnjelkezelőt.
 
 (7)[^39] A Fellebbviteli Főügyészségen, a Legfőbb Ügyészségen, az ítélőtáblán és a Kúrián nem működik bűnjelkezelő. Ha az említett szervek lefoglalásról határoznak, gondoskodnak a bűnjelnek az illetékes bűnjelkezelőhöz történő beszállításáról, ha pedig az általuk folytatott eljárás indokolja, a bűnjel bekéréséről.
 
@@ -22,5 +22,5 @@
 [^35]: Az 5. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 3. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^36]: Az 5. § (4) bekezdése a 9/2013. (VI. 29.) KIM rendelet 65. § b) pontja, a 17/2018. (VI. 27.) IM rendelet 44. § 6. pontja, a 11/2019. (IV. 5.) IM rendelet 11. § 1. pontja szerint módosított szöveg.
 [^37]: Az 5. § (5) bekezdése a 11/2019. (IV. 5.) IM rendelet 10. § 5. pontja szerint módosított szöveg.
-[^38]: Az 5. § (6) bekezdése a 18/2011. (VI. 24.) KIM rendelet 9. §-a, a 40/2011. (XII. 30.) KIM rendelet 23. § b) pontja, az 57/2012. (XII. 28.) KIM rendelet 14. §-a szerint módosított szöveg.
+[^38]: Az 5. § (6) bekezdése a 12/2022. (IV. 26.) IM rendelet 2. §-ával megállapított szöveg.
 [^39]: A 5. § (7) bekezdése a 40/2011. (XII. 30.) KIM rendelet 23. § c) pontja szerint módosított szöveg.
