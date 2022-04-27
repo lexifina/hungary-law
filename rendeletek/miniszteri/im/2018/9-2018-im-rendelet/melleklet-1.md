@@ -1,6 +1,6 @@
-## 146. §[^81]
+## 146. §[^86]
 
-1. melléklet a 9/2018. (VI. 11.) IM rendelethez
+1. melléklet a 9/2018. (VI. 11.) IM rendelethez[^87]
 
 ## SZABADSÁGVESZTÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
@@ -70,13 +70,17 @@
 
 2. Az ügydöntő határozat és az eljáró bíróság adatai
 
-2.1. Elsőfokon eljárt bíróság megnevezése és határozatának száma
+2.1. Elsőfokon eljárt bíróság megnevezése, határozatának száma és kelte
 
-2.2. Másodfokon eljárt bíróság megnevezése és határozatának száma
+2.2. Másodfokon eljárt bíróság megnevezése, határozatának száma és kelte
 
 2.3. Harmadfokon eljárt bíróság megnevezése és határozatának száma
 
 2.4. A határozat jogerőre emelkedésének napja (év/hónap/nap)
+
+2.5. A bíróság az eljárást a Be. CI. vagy CII. Fejezete szerint folytatta le
+
+2.6. Az ügydöntő határozat mely ügyészi számokra vonatkozik
 
 3. Bűncselekményi adatok (nem azonos minősítésű bűncselekmények esetén külön-külön):
 
@@ -89,6 +93,8 @@
 3.4. Elkövetői alakzat (tettes, közvetett tettes, társtettes, felbujtó, bűnsegéd,) megjelölése
 
 3.5. Elkövetési alakzat (befejezett, kísérlet, előkészület) megjelölése
+
+3.6. A bűncselekmény elkövetési ideje
 
 4. Elkövetői minőségre vonatkozó adatok
 
@@ -208,6 +214,8 @@
 
 12. A más ügyben javítóintézetben foganatosított letartóztatásban lévő terheltet fogva tartó javítóintézet megnevezése
 
+12a. A Be. CI. vagy CII. Fejezete alapján befejezett ügyben a terhelt érdekében eljáró védő neve és elérhetősége
+
 13. Halasztás engedélyezése és a halasztás záró napja (év/hónap/nap)
 
 14. Megjegyzés
@@ -220,4 +228,5 @@
 
 16.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése
 
-[^81]: A 146. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 146. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: Az 1. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (1) bekezdése szerint módosított szöveg.

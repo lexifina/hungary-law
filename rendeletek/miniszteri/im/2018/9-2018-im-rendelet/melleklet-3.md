@@ -1,4 +1,4 @@
-3. melléklet a 9/2018. (VI. 11.) IM rendelethez
+3. melléklet a 9/2018. (VI. 11.) IM rendelethez[^88]
 
 ## ELZÁRÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
@@ -71,6 +71,8 @@
 2.3. Harmadfokon eljárt bíróság megnevezése és határozatának száma
 
 2.4. A határozat jogerőre emelkedésének napja (év/hónap/nap)
+
+2.5. A bíróság az eljárást a Be. CI. vagy CII. Fejezete szerint folytatta le
 
 3. Bűncselekményi adatok (nem azonos minősítésű bűncselekmények esetén külön-külön):
 
@@ -172,6 +174,8 @@
 
 10. A terhelt más büntetőügyben pártfogó felügyelet hatálya alatt áll
 
+10a. A Be. CI. vagy CII. Fejezete alapján befejezett ügyben a terhelt érdekében eljáró védő neve és elérhetősége
+
 11. Az elzárás a Bv. tv. 31. §-a alapján nem hajtható végre
 
 12. Halasztás engedélyezése és a halasztás záró napja (év/hónap/nap)
@@ -185,3 +189,5 @@
 15.1. A büntetés-végrehajtási intézet parancsnokának felhívása az elzárás végrehajtására
 
 15.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése.
+
+[^88]: A 3. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (2) bekezdése szerint módosított szöveg.

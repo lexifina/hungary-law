@@ -4,7 +4,7 @@
 
 137. § (1) Ha a bíróságnál előterjesztett kegyelmi kérelem tartalma nem egyértelmű, a bíróság annak tisztázása érdekében – a szükséges felvilágosítást megadva – a kérelmezőt nyilatkozattételre hívja fel.
 
-(2)[^68] Ha a bíróság
+(2)[^72] Ha a bíróság
 
 a) környezettanulmány beszerzését rendeli el
 
@@ -17,6 +17,8 @@ ac) feltételes szabadságon lévő elítélt adott ügyben előterjesztett kegy
 b) eljárási kegyelem esetén a terhelt életvitelével összefüggő nyilvános adatokat tartalmazó rendőrségi jelentés, illetve végrehajtás iránti kegyelem esetén a Bv. tv. 76. § (2) bekezdés u) pontja szerinti adatokat tartalmazó, az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentés beszerzését rendeli el, a terhelt lakcíme, illetve tényleges tartózkodási helye szerinti illetékes rendőrkapitányságot
 
 ## keresi meg.
+
+(2a)[^73] Környezettanulmány beszerzésének elrendelése esetén a bíróság a megkeresésben megjelöli, hogy a kegyelmi kérelem mire irányul, továbbá kérdést tehet fel arra vonatkozóan, hogy a kegyelmi kérelemben hivatkozott valamely tény vagy körülmény megfelel-e a valóságnak.
 
 (3) A bíróság adatszolgáltatást kérhet
 
@@ -42,4 +44,5 @@ c) a további beszerzett adatokat, iratokat
 
 (7) Eljárási kegyelemi kérelem esetén a bíróság az ügydöntő határozat meghozataláról a rendelkező rész megküldésével három napon belül értesíti a minisztert. Az ügydöntő határozat jogerőre emelkedése esetén a bíróság nyilatkoztatja a terheltet vagy az egyéb kérelmezőt a kegyelmi kérelem fenntartásáról, illetve módosításáról, ez utóbbi esetben a végrehajtási kegyelmi kérelem megjelölésére hívja fel.
 
-[^68]: A 137. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 127. §-ával megállapított szöveg.
+[^72]: A 137. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 127. §-ával megállapított szöveg.
+[^73]: A 137. § (2a) bekezdését a 12/2022. (IV. 26.) IM rendelet 58. §-a iktatta be.

@@ -10,12 +10,12 @@ d) a Nemzeti Adó- és Vámhivatal illetékes szervének
 
 ## küldi meg.
 
-(2)[^42]
+(2)[^45]
 
-(3)[^43]
+(3)[^46]
 
-(4)[^44]
+(4)[^47]
 
-[^42]: A 91. § (2) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.
-[^43]: A 91. § (3) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.
-[^44]: A 91. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.
+[^45]: A 91. § (2) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.
+[^46]: A 91. § (3) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.
+[^47]: A 91. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § d) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-19. melléklet a 9/2018. (VI. 11.) IM rendelethez
+19. melléklet a 9/2018. (VI. 11.) IM rendelethez[^90]
 
 ## RENDBÍRSÁG ELZÁRÁSRA ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
@@ -64,6 +64,8 @@
 
 2.3. A rendbírságot kiszabó ügyészség megnevezése és a határozatának száma
 
+2.4. A végrehajtás során eljáró GH megnevezése és ügyszáma
+
 3. A rendbírságot elzárásra átváltoztató bíróság megnevezése és a határozatának száma
 
 3.1. A határozat véglegessé válásának napja (év/hónap/nap)
@@ -91,3 +93,5 @@
 9.1. A büntetés-végrehajtási intézet parancsnokának felhívása a rendbírság helyébe lépő elzárás végrehajtására
 
 9.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bv. bírói tisztség megjelölése
+
+[^90]: A 19. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (3) bekezdése szerint módosított szöveg.

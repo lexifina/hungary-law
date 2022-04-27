@@ -12,7 +12,7 @@ b) amennyiben a tárhelyszolgáltató eltávolítási kötelezettségének a má
 
 (3) Ha a fellebbezés elbírálásakor a másodfokú bíróság az elsőfokú határozatot hatályon kívül helyezi, erről értesítőlapot állít ki, és azt a határozatával együtt soron kívül megküldi az NMHH-nak. A másodfokú bíróság az értesítőlap „Megjegyzés” rovatában feltünteti, ha a hatályon kívül helyező határozatában az elsőfokú bíróság újabb határozatának meghozataláig az elektronikus adathoz való hozzáférés ideiglenes megakadályozásáról vagy az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának a KEHTA-ból való törléséről rendelkezett.
 
-(4)[^53]
+(4)[^56]
 
 (5) A bíróság, ha a kijavítás érinti a 69. § (1) bekezdésében meghatározott adatokat, a kijavítást elrendelő határozat véglegessé válását követően új értesítőlapot állít ki, és azt határozatával együtt három napon belül megküldi az NMHH-nak.
 
@@ -30,4 +30,4 @@ b) abban az esetben, ha a bíróság érdemi határozattal döntött, vagy ha az
 
 (9) Ha az NMHH értesítése alapján valamely hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben rendbírság kiszabásának van helye, a bíróság az erről szóló határozat véglegessé válását követően a rendbírság behajtására vonatkozó szabályok szerint jár el.
 
-[^53]: A 111. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § e) pontja hatályon kívül helyezte.
+[^56]: A 111. § (4) bekezdését a 20/2020. (XII. 30.) IM rendelet 130. § e) pontja hatályon kívül helyezte.

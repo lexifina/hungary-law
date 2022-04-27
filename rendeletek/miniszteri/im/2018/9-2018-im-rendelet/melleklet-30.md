@@ -1,26 +1,32 @@
-## ...............................Járásbíróság/Törvényszék/Ítélőtábla/Kúria
+## ........................................... Járásbíróság/Törvényszék/Ítélőtábla/Kúria
 
 ## ................./20........../........
 
-## ..................................... fogva tartó szerv Vezetője!
+## ........................................... fogva tartó szerv Vezetője!
 
-## Kézbesítési ív (idézés, értesítés, bírósági határozat és egyéb hivatalos irat kézbesítésére)
+## Kézbesítési ív a Be. CI–CII. Fejezete alapján befejezett ügyben hozott ügydöntő határozat kézbesítésére
 
 ## Kérem, a fogvatartásban levő
 
-## név:....................................................... születési név::......................................................
+## név: ............................................................... születési név: ...................................................................
 
-## születési helye és ideje:......................................................................................................
+## születési helye és ideje: ...........................................................................................................................
 
-## anyja neve:..........................................................................................................................
+## anyja neve: ..............................................................................................................................................
 
-## részére a mellékelt ............................. számú idézés/ értesítés/ határozat/ vádirat/ vádindítvány/ jegyzőkönyv/ szakértői vélemény/ ......................... hivatalos irat kézbesítését.
+## részére a mellékelt ................................................... számú határozat kézbesítését.
 
-## A terhelt/a tanú a kézbesítéstől számított nyolc/három napon belül a bíróság határozata ellen fellebbezést jelenthet be. A fellebbezést a bíróság részére kell megküldeni. A kézbesítési ívet aláírás után, a fenti ügyszámra hivatkozással haladéktalanul küldje vissza a bíróságnak.
+## Az elítélt és a védő a jogerős ügydöntő határozattal szemben a büntetőeljárásról szóló 2017. évi XC. törvény 637. § (1) bekezdés g) pontja és 639. § (3) bekezdése alapján perújítási indítványt terjeszthet elő az elítélt részére történő kézbesítéstől számított egy hónapon belül. A perújítási indítványt a perújítás megengedhetőségének kérdésében döntésre jogosult bíróság mellett működő ügyészség részére kell megküldeni.
 
-## .........................., 20.......... év ................. hó ...... nap.
+## Az ügyben a terhelt érdekében ................................................................................................................................................ védő
 
-## ............................................sk.
+## (elérhetősége: ..................................................................................................................................) járt el.
+
+## A kézbesítési ívet aláírás után, a fenti ügyszámra hivatkozással haladéktalanul küldje vissza a bíróságnak!
+
+## ....................................................., 20 .......... év ................. hó .............. nap.
+
+## ...................................................................
 
 ## a tanács elnöke – bíró
 
@@ -28,34 +34,18 @@
 
 ## P. H.
 
-## .........................................
+## ....................................................................
 
 ## tisztviselő – írnok
 
 ## A fogva lévő személy nyilatkozata
 
-## Elismerem, hogy a részemre érkezett fenti számú idézést / értesítést / határozatot/ vádiratot/ vádindítványt/ jegyzőkönyvet/szakértői véleményt/............................. hivatalos iratot átvettem. A jogorvoslati jog gyakorlására vonatkozó tájékoztatást megértettem.
+## Elismerem, hogy a részemre érkezett fenti számú határozatot átvettem. A jogorvoslati jog gyakorlására vonatkozó és az ügyben érdekemben eljáró védő személyéről szóló tájékoztatást megértettem.
 
-## A határozat elolvasása után úgy nyilatkozom (aláhúzással jelölje), hogy:
+## ....................................................., 20 .......... év ................. hó .............. napján
 
-## a) a határozat ellen fellebbezést jelentek be.
+## ....................................................................
 
-## b) a határozat ellen nem jelentek be fellebbezést.
-
-## c) a törvényben biztosított nyolc/három napos határidővel élek a fellebbezés bejelentésére.
-
-## d) tárgyalás tartását kérem – nem kérem.
-
-## Az idézés/értesítés elolvasása után terheltként úgy nyilatkozom (aláhúzással jelölje), hogy:
-
-## a) a másodfokú tárgyalásra előállításomat kérem – nem kérem.
-
-## b) a nyilvános ülésre előállításomat kérem – nem kérem.
-
-## ............................., 20.....év........................... hó ........... napján
-
-## ...................................................
-
-## terhelt/tanú/sértett
+## az elítélt
 
 30. melléklet a 9/2018. (VI. 11.) IM rendelethez
