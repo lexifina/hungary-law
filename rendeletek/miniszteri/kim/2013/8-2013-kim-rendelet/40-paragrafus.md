@@ -6,4 +6,6 @@ b) a pártfogolt rendszeres beszámoltatása életkörülményeiről és életvi
 
 c) segítség nyújtása a pártfogolt számára a társadalomba való beilleszkedéshez, a bűnismétlés elkerüléséhez,
 
-d) indokolt esetben a pártfogolt segélyben részesítése.
+d)[^160]
+
+[^160]: A 40. § d) pontját a 12/2022. (IV. 26.) IM rendelet 29. § f) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## a pártfogó felügyelő az elítélt kérelmét, illetve bejelentését a végrehajtás félbeszakítása iránti kérelemként kezeli és az iratokat a bv. bírónak felterjeszti.
+## a pártfogó felügyelő az elítélt kérelmét, illetve bejelentését a végrehajtás félbeszakítása iránti kérelemként kezeli, az iratokat a bv. bírónak felterjeszti, és erről tájékoztatja az elítéltet.
 
-31. § (1)[^126] A pártfogó felügyelő a munkahely kijelöléséről szóló véglegessé vált határozat kézbesítésével egyidejűleg a munkahelyet tájékoztatja a kiszabott közérdekű munka tartamáról, továbbá arról, hogy az elítélt mikor köteles a munkahelyen megjelenni, egyúttal megküldi a közérdekű munka végrehajtása során használatos, a 2–4. melléklet szerinti formanyomtatványokat.
+31. § (1)[^125] A pártfogó felügyelő a munkahely kijelöléséről szóló véglegessé vált határozat kézbesítésével egyidejűleg a munkahelyet tájékoztatja a kiszabott közérdekű munka tartamáról, továbbá arról, hogy az elítélt mikor köteles a munkahelyen megjelenni, az elítélt jogairól és kötelezettségeiről, valamint a munkáltatót terhelő kötelezettségekről, egyúttal felhívja a munkáltatót annak közlésére, hogy az elítélt a munkavégzést megkezdte-e, továbbá megküldi a közérdekű munka végrehajtása során használatos 3–4. melléklet szerinti formanyomtatványokat.
 
 (2) A nyilvántartó lap tartalmazza:
 
@@ -10,7 +10,7 @@ b) a kijelölt munkahely megnevezését,
 
 c) az ügy számát, az összesen ledolgozandó órák számát.
 
-(3)[^127] A jelenléti ív tartalmazza
+(3)[^126] A jelenléti ív tartalmazza
 
 a) az elítélt nevét,
 
@@ -26,11 +26,11 @@ f) a munkahely képviselőjének, csoportos letöltés esetén a pártfogó fel�
 
 (4) A jelenléti ívet folyamatosan kell vezetni.
 
-(4a)[^128] A munkahely a munka-, tűz-, baleset- és környezetvédelmi oktatás megtörténtét a jelenléti íven vagy külön okiratban – amely az elítélt aláírását is tartalmazza – igazolja a pártfogó felügyelő felé.
+(4a)[^127] A munkahely a munka-, tűz-, baleset- és környezetvédelmi oktatás megtörténtét a jelenléti íven vagy külön okiratban – amely az elítélt aláírását is tartalmazza – igazolja a pártfogó felügyelő felé.
 
-(5)[^129] A munkahely a Bv. tv. 287. § (4) bekezdés h) pont hb) és hc) alpontja szerinti esetben, ha erre a pártfogó felügyelő felhívja, továbbá a Bv. tv. 287. § (4) bekezdés h) pont he) alpontja szerinti esetben a nyilvántartó lapot és a jelenléti ívet a letöltött munkaórák összegzését követően cégszerű aláírásával lezárja, és a pártfogó felügyelőnek megküldi.
+(5)[^128] A munkahely a Bv. tv. 287. § (4) bekezdés h) pont hb) és hc) alpontja szerinti esetben, ha erre a pártfogó felügyelő felhívja, továbbá a Bv. tv. 287. § (4) bekezdés h) pont he) alpontja szerinti esetben a nyilvántartó lapot és a jelenléti ívet a letöltött munkaórák összegzését követően cégszerű aláírásával lezárja, és a pártfogó felügyelőnek megküldi.
 
-[^126]: A 31. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 57. § 10. pontja szerint módosított szöveg.
-[^127]: A 31. § (3) bekezdése a 17/2018. (VI. 27.) IM rendelet 69. § (1) bekezdésével megállapított szöveg.
-[^128]: A 31. § (4a) bekezdését a 17/2018. (VI. 27.) IM rendelet 69. § (2) bekezdése iktatta be.
-[^129]: A 31. § (5) bekezdése a 17/2018. (VI. 27.) IM rendelet 69. § (3) bekezdésével megállapított szöveg.
+[^125]: A 31. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 57. § 10. pontja, a 12/2022. (IV. 26.) IM rendelet 28. § 10. pontja szerint módosított szöveg.
+[^126]: A 31. § (3) bekezdése a 17/2018. (VI. 27.) IM rendelet 69. § (1) bekezdésével megállapított szöveg.
+[^127]: A 31. § (4a) bekezdését a 17/2018. (VI. 27.) IM rendelet 69. § (2) bekezdése iktatta be.
+[^128]: A 31. § (5) bekezdése a 17/2018. (VI. 27.) IM rendelet 69. § (3) bekezdésével megállapított szöveg.

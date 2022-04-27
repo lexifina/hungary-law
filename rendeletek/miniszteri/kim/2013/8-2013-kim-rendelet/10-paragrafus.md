@@ -1,29 +1,27 @@
-10. § (1)[^19] A pártfogó felügyelői vélemény IV. része a pártfogó felügyelői vélemény beszerzését elrendelő által feltett kérdésekre adott válaszokat tartalmazza. Ennek során a pártfogó felügyelő a Be. 203. § (2) és (3) bekezdésében foglaltakon túl különösen
+10. §[^22] (1) A pártfogó felügyelői vélemény IV. része tartalmazza a kirendelő által feltett kérdésekre adandó válaszokat, így különösen a pártfogó felügyelőnek a szakmai ténymegállapításokból levont következtetéseit arra vonatkozóan, hogy
 
-a)–b)[^20]
+a) a pártfogó felügyelet, a bíróság vagy az ügyészség által kilátásba helyezett egyedi, illetve külön magatartási szabály vagy kötelezettség előírása a terhelt esetében megfelelően szolgálja-e az egyéni bűnmegelőzési célokat,
 
-c) leírja, hogy a terhelt hajlandó-e részben vagy egészben megtéríteni a sértettnek a bűncselekménnyel okozott kárt, illetve más módon gondoskodna-e a sértettnek adandó jóvátételről,
+b) a terhelt vállalja-e, képes-e a kilátásba helyezett Btk. 71. § (2)–(3) bekezdése szerinti külön magatartási szabály, illetve feltételes ügyészi felfüggesztés elrendeléshez kapcsolódóan a Be. 419. § (2)–(3) bekezdésében meghatározott egyedi magatartási szabály vagy kötelezettség teljesítésére, továbbá hogy a sértett hozzájárul-e a jóvátételhez,
 
-d)[^21]
+c) szükséges-e a bűnismétlési kockázatok csökkentéséhez esetlegesen valamely más magatartási szabály vagy kötelezettség előírása, azok indokai, valamint annak bemutatásával, hogy azok teljesítését a terhelt vállalja-e.
 
-e) bemutatja, hogy a terhelt vállalja-e és képes-e meghatározott célra anyagi juttatást teljesíteni, vagy a köz számára munkát végezni,
+(2) A pártfogó felügyelő által javasolt magatartási szabályok körében előnyben kell részesíteni a terhelt
 
-f) javaslatot tesz a terhelt pszichiátriai, alkohol- vagy kábítószer-függőséget gyógyító, illetve más egészségügyi kezelésben, ellátáson vagy szolgáltatáson való részvételére,
+a) bűnelkövetői viselkedés korrekciójára, szociális, illetve életvezetési készségek fejlesztésére irányuló csoportos vagy egyéni foglalkozáson vagy
 
-g)[^22]
+b) közösségi jóvátételi, a sérelem okozását tudatosító, illetve helyreállító programban (konferenciamódszerek, mediáció, egyéb közösségi konfliktuskezelési technikák alkalmazása)
 
-h)[^23] javaslatot tesz a terhelt bűnelkövetői viselkedés korrekciójára, szociális, illetve életvezetési készségek fejlesztésére irányuló csoportos vagy egyéni foglalkozáson való részvételére,
+## való részvételét.
 
-i)[^24]
+(3) A pártfogó felügyelő a terhelt adottságainak megfelelő ellátási és intézményi lehetőségek figyelembevételével teszi meg a javaslatát az egyedi, illetve külön magatartási szabályok és kötelezettségek, egyéb szükséges beavatkozások alkalmazására, bemutatva azoknak a bűnismétlési kockázatokat enyhítő hatását.
 
-j)[^25] javaslatot tesz a terhelt közösségi jóvátételi, a sérelem okozását tudatosító, illetve helyreállító programban (konferenciamódszerek, mediáció, egyéb közösségi konfliktuskezelési technikák alkalmazása) való részvételére.
+(4) A pártfogó felügyelői véleményhez mellékelni kell a terhelt nyilatkozatát arról, hogy
 
-(2) A pártfogó felügyelői vélemény IV. része a feltárt adatokon és következtetéseken alapuló összegző véleményt is tartalmazza.
+a) vállalja-e, képes-e a kilátásba helyezett magatartási szabály, kötelezettség teljesítésére, vagy
 
-[^19]: A 10. § (1) bekezdés nyitó szövegrésze a 17/2018. (VI. 27.) IM rendelet 78. § 7. pontja szerint módosított szöveg.
-[^20]: A 10. § (1) bekezdés a)–b) pontját a 17/2018. (VI. 27.) IM rendelet 79. § b) pontja hatályon kívül helyezte.
-[^21]: A 10. § (1) bekezdés d) pontját a 17/2018. (VI. 27.) IM rendelet 79. § b) pontja hatályon kívül helyezte.
-[^22]: A 10. § (1) bekezdés g) pontját a 17/2018. (VI. 27.) IM rendelet 79. § b) pontja hatályon kívül helyezte.
-[^23]: A 10. § (1) bekezdés h) pontja a 17/2018. (VI. 27.) IM rendelet 53. §-ával megállapított szöveg.
-[^24]: A 10. § (1) bekezdés i) pontját a 17/2018. (VI. 27.) IM rendelet 79. § b) pontja hatályon kívül helyezte.
-[^25]: A 10. § (1) bekezdés j) pontját a 19/2014. (XII. 22.) IM rendelet 7. §-a iktatta be.
+b) közvetítői eljárás lefolytatását indítványozza, amely esetben mellékelni kell a sértett nyilatkozatát arra vonatkozóan, hogy hozzájárul-e a közvetítői eljárás lefolytatásához.
+
+(5) A pártfogó felügyelői vélemény IV. része a feltárt adatokon és következtetéseken alapuló összegző véleményt is tartalmazza.
+
+[^22]: A 10. § a 12/2022. (IV. 26.) IM rendelet 11. §-ával megállapított szöveg.

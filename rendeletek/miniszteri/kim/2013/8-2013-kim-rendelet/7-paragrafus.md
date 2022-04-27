@@ -1,4 +1,4 @@
-## 6. §[^9] A pártfogó felügyelői vélemény vagy a környezettanulmány elkészítésére vonatkozó kezdőirat kijelölésnél lehetőség szerint figyelemmel kell lenni arra, hogy a gyermekkorúak, illetve a fiatalkorúak ügyeit a fiatalkorúak pártfogó felügyelője intézze.
+## 6. §[^11] A pártfogó felügyelői vélemény vagy a környezettanulmány elkészítésére vonatkozó kezdőirat kijelölésnél lehetőség szerint figyelemmel kell lenni arra, hogy a gyermekkorúak, illetve a fiatalkorúak ügyeit a fiatalkorúak pártfogó felügyelője intézze.
 
 ## 2. A pártfogó felügyelői vélemény tartalmi elemei és elkészítésének általános szabályai
 
@@ -6,37 +6,37 @@
 
 (2) Az ügyre vonatkozóan a pártfogó felügyelői vélemény rögzíti
 
-a)[^10] a vélemény beszerzését elrendelő hatóság megnevezését, ügyszámát, az elrendelés idejét, az elrendelő határozat érkeztetésének napját, a vélemény elkészítésének határidejét, az elrendelés okát,
+a)[^12] a vélemény beszerzését elrendelő hatóság megnevezését, ügyszámát, az elrendelés idejét, az elrendelő határozat érkeztetésének napját, a vélemény elkészítésének határidejét, az elrendelés okát,
 
-b)[^11] a bűncselekménynek a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti megnevezését és minősítését, valamint az elkövetés időpontját,
+b)[^13] a bűncselekménynek a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti megnevezését és minősítését, valamint az elkövetés időpontját,
 
-c)[^12] az illetékes kormányhivatal megnevezését, a vélemény elkészítésében közreműködő kormányhivatal megnevezését, a véleményt készítő pártfogó felügyelő nevét, telefonszámát, e-mail címét,
+c)[^14]
 
-d) a beszerzett okiratokat, igazolásokat, egyéb mellékleteket.
+d)[^15]
 
-(3) A terheltre vonatkozóan a pártfogó felügyelői vélemény rögzíti
+(3)[^16] A terheltre vonatkozóan a pártfogó felügyelői vélemény rögzíti
 
-a)[^13] a természetes személyazonosító adatait, lakcímét, tényleges tartózkodási helyét, értesítési címét, kézbesítési címét, személyazonosításra alkalmas okmányának megnevezését és az okmány azonosító számát,
+a) a természetes személyazonosító adatait,
 
-b) a családi állapotát,
+b) a lakcímét, illetve a tényleges tartózkodási helyét,
 
-c) a munkaviszony vagy az iskolarendszerű tanulói jogviszony adatait, így a munkáltató, illetve a tanintézmény megnevezését, címét, illetve telephelyét, továbbá a terhelt tényleges munkavégzésének helyét, beosztását, munkakörét, illetve tancsoportját,
+c) az értesítési címét, illetve a kézbesítési címét és az egyéb elérhetőségét, így különösen az elektronikus levelezési címét és a telefonos elérhetőségét,
 
-d) a szakképzettségét, foglalkozását,
+d) a személyazonosság igazolására alkalmas hatósági igazolványának megnevezését és az okmányazonosító számát,
 
-e) az egészségi állapotát,
+e) a családi állapotát,
 
-f) esetleges káros szenvedélyeit,
+f) az iskolai végzettségét, a szakképzettségét vagy szakképesítését,
 
-g) a jövedelmi, vagyoni viszonyait,
+g) a munkaviszonyának vagy más foglalkoztatási jogviszonyának, illetve az iskolarendszerű tanulói vagy a hallgatói jogviszonyának adatait, így a munkáltató, illetve az oktatási intézmény megnevezését és címét,
 
-h) a hozzátartozók közötti erőszakra vagy veszélyeztetettségre utaló tények leírását, az azok megszüntetése érdekében tett, vagy javasolt intézkedések bemutatását,
+h) a hozzátartozók közötti erőszakra vagy veszélyeztetettségre utaló tények leírását, az azok megszüntetése érdekében tett vagy javasolt intézkedések bemutatását, továbbá
 
-i)[^14] az arra való utalást, ha a terhelt feltételezhetően emberkereskedelem áldozata, valamint az utalást az azonosító beszélgetés lefolytatására és a javasolt intézkedésekre.
+i) utalást arra, ha a terhelt feltételezhetően emberkereskedelem áldozata, és arra, hogy az azonosító beszélgetés lefolytatására sor került-e, valamint a javasolt intézkedések bemutatását.
 
-[^9]: A 6. § a 19/2014. (XII. 22.) IM rendelet 34. § 1. pontja szerint módosított szöveg.
-[^10]: A 7. § (2) bekezdés a) pontja a 17/2018. (VI. 27.) IM rendelet 78. § 3. pontja szerint módosított szöveg.
-[^11]: A 7. § (2) bekezdés b) pontja a 17/2018. (VI. 27.) IM rendelet 79. § a) pontja szerint módosított szöveg.
-[^12]: A 7. § (2) bekezdés c) pontja a 8/2015. (IV. 14.) IM rendelet 20. § d) pontja szerint módosított szöveg.
-[^13]: A 7. § (3) bekezdés a) pontja a 17/2018. (VI. 27.) IM rendelet 78. § 4. pontja szerint módosított szöveg.
-[^14]: A 7. § (3) bekezdés i) pontját a 17/2018. (VI. 27.) IM rendelet 51. §-a iktatta be.
+[^11]: A 6. § a 19/2014. (XII. 22.) IM rendelet 34. § 1. pontja szerint módosított szöveg.
+[^12]: A 7. § (2) bekezdés a) pontja a 17/2018. (VI. 27.) IM rendelet 78. § 3. pontja szerint módosított szöveg.
+[^13]: A 7. § (2) bekezdés b) pontja a 17/2018. (VI. 27.) IM rendelet 79. § a) pontja szerint módosított szöveg.
+[^14]: A 7. § (2) bekezdés c) pontját a 12/2022. (IV. 26.) IM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^15]: A 7. § (2) bekezdés d) pontját a 12/2022. (IV. 26.) IM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^16]: A 7. § (3) bekezdése a 12/2022. (IV. 26.) IM rendelet 8. §-ával megállapított szöveg.

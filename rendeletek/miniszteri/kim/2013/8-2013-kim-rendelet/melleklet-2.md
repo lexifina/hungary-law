@@ -22,6 +22,6 @@
 
 ## ...........................................................….
 
-2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^249]
+2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^261]
 
-[^249]: A 2. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (2) bekezdésével megállapított szöveg.
+[^261]: A 2. mellékletet a 12/2022. (IV. 26.) IM rendelet 29. § h) pontja hatályon kívül helyezte.

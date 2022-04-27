@@ -2,12 +2,10 @@
 
 ## A KÖZVETÍTŐI ELJÁRÁS LEFOLYTATÁSA
 
-20. § (1)[^72]
+20. §[^72] (1) Ha a közvetítői eljárásban részt vevő gyanúsított vagy a sértett fiatalkorú, akkor a kormányhivatal – az 1/A. § alkalmazásával – közvetítőként – lehetőség szerint – a fiatalkorúak ügyeit ellátó pártfogó felügyelőt jelöli ki.
 
-(2)[^73] Ha a közvetítői eljárásban résztvevő eljárás alá vont személy, illetve terhelt vagy sértett fiatalkorú, akkor a kormányhivatal – pártfogó felügyelő kijelölése esetén – lehetőség szerint fiatalkorúak ügyeit ellátó pártfogó felügyelőt jelöli ki.
+(2) Ha a büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bkt.) 3. § (2) bekezdése alapján egy közvetítői eljárásban több közvetítő kijelölésére kerül sor, illetve ha a kormánymegbízottal vagy a kormányhivatal valamennyi közvetítőjével szemben kizárási ok merül fel, akkor a területi illetékességtől eltérő kormányhivatal közvetítője is kijelölhető az illetékes kormánymegbízott megkeresése alapján.
 
-(3)[^74]
+(3) Jogszabály eltérő rendelkezése hiányában e fejezet rendelkezéseit a szabálysértési ügyekben lefolytatott közvetítői eljárásokban megfelelően alkalmazni kell.
 
-[^72]: A 20. § (1) bekezdését a 17/2018. (VI. 27.) IM rendelet 79. § e) pontja hatályon kívül helyezte.
-[^73]: A 20. § (2) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 7. pontja, a 8/2015. (IV. 14.) IM rendelet 20. § b) pontja szerint módosított szöveg.
-[^74]: A 20. § (3) bekezdését a 19/2014. (XII. 22.) IM rendelet 37. § b) pontja hatályon kívül helyezte.
+[^72]: A 20. § a 12/2022. (IV. 26.) IM rendelet 16. §-ával megállapított szöveg.

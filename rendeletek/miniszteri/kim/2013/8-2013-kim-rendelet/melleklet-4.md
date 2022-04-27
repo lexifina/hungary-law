@@ -4,11 +4,23 @@
 
 | Anyja neve: | Lakcíme/tényleges tartózkodási helye: |
 
-| A végrehajtásra kijelölt munkahely: Kijelölt új munkahely: | Meghatározott munkakör: Meghatározott új munkakör: |
+| A végrehajtásra kijelölt munkahely: |
 
-| Az elítéltet a .................................................................................................. Járásbíróság/Törvényszék a B. ............................/ 20................/............... számú ügydöntő határozatával, a ....................................................................... Törvényszék/Ítélőtábla másodfokú Bf. ....................../20.........../............... számú határozatával, a .............................................................................. Ítélőtábla/Kúria harmadfokú Bf. ....................../20.........../............... számú határozatával ...................................... miatt ................... óra közérdekű munkára ítélte, illetve .............................................................................. Törvényszék bv. bírája a Bv. .........................../20................/............... számú, pénzbüntetést átváltoztató végzésével .................... óra közérdekű munkát állapított meg, melyet ........................................................... munkakörben kell eltölteni. Egynapi közérdekű munkának 4 óra munkavégzés felel meg, a napi munkaidő legalább 4 óra, legfeljebb 12 óra, pénzbüntetés átváltoztatása esetén legalább 2 óra, legfeljebb 8 óra lehet, a heti munkaidő legalább 4 óra, legfeljebb 48 óra. A munkahelyet/új munkahelyet kijelölő határozat 20.......... év ....................................... hó ............................... napján jogerőre emelkedett. |
+| Kijelölt új munkahely: |
 
-| A közérdekű munka megkezdésének ideje: ................... év ....................................... hó .......... nap | A büntetés befejezésének várható ideje: ................... év ....................................... hó .......... nap |
+| A munkahelyet/új munkahelyet kijelölő …………........ számú határozat 20.......... év ................................................ hó ............................... napján véglegessé vált és végrehajtható. |
+
+| Az elítéltet a ....................................................................................................... Járásbíróság/Törvényszék a B. ............................/20................/............... számú ügydöntő határozatával, a ..................................................................... Törvényszék/Ítélőtábla másodfokú Bf. ....................../20.........../............... számú határozatával, a ............................................................................... Ítélőtábla/Kúria harmadfokú Bf. ....................../20.........../............... számú határozatával................... óra közérdekű munkára ítélte, illetve .................................................................................. Törvényszék bv. bírája a Bv. .........................../20................/............... számú, pénzbüntetést átváltoztató végzésével .................... óra közérdekű munkát állapított meg, amelyből a bíróság a Btk. 92-92/B. §-a szerinti beszámítás alapján ................ óra közérdekű munkát kitöltöttnek vett, amelyből az elítélt az előző kijelölt munkahelyen ................ óra közérdekű munkát kitöltött. |
+
+| A végrehajtásra váró ................ óra közérdekű munkát a foglalkoztathatósági szakvéleménynek megfelelő – az elítélttel és a munkahellyel előzetesen egyeztetett – ........................................................ munkakörben kell eltölteni. |
+
+| Egynapi közérdekű munkának 4 óra munkavégzés felel meg, a napi munkaidő legalább 4 óra, legfeljebb 12 óra, pénzbüntetés átváltoztatása esetén legalább 2 óra, legfeljebb 8 óra lehet, a heti munkaidő legalább 4 óra, legfeljebb 48 óra. |
+
+| A közérdekű munka végrehajtását ..................................................... Megyei (Fővárosi) Kormányhivatal ellenőrzi. |
+
+| A közérdekű munka megkezdésének ideje: | A büntetés befejezésének várható ideje: |
+
+| ................... év ....................................... hó .......... nap | ................... év ....................................... hó .......... nap |
 
 | A büntetés letöltésének ideje: |
 
@@ -18,9 +30,7 @@
 
 | Megjegyzés: |
 
-## ”
-
-4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^251]
+4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^263]
 
 A közérdekű munkára ítéltre vonatkozó jelenléti ív
 
@@ -112,4 +122,4 @@ Kelt: ..........................................................
 
 | .......................................................................................................... munkahelyet biztosító gazdálkodó szervezet cégszerű aláírása/egyéb szervezet képviseletére jogosult aláírása |
 
-[^251]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított szöveg.
+[^263]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított szöveg.

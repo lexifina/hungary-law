@@ -2,27 +2,27 @@
 
 25. § (1) A pártfogó felügyelő a közérdekű munka végrehajtásának előkészítése során megvizsgálja, hogy
 
-a)[^90]
+a)[^88]
 
-b)[^91] az elítélt a Btk. 92–92/B. §-a szerinti beszámítás alapján kitöltötte-e a közérdekű munka tartamát,
+b)[^89] az elítélt a Btk. 92–92/B. §-a szerinti beszámítás alapján kitöltötte-e a közérdekű munka tartamát,
 
-c)[^92] az eljáró bíróság engedélyezett-e halasztást a közérdekű munka végrehajtására,
+c)[^90] az eljáró bíróság engedélyezett-e halasztást a közérdekű munka végrehajtására,
 
-d)[^93] szükségessé vált-e a közérdekű munka végrehajtásnak halasztása vagy félbeszakítása,
+d)[^91] szükségessé vált-e a közérdekű munka végrehajtásnak halasztása vagy félbeszakítása,
 
-e)[^94] tölt-e az elítélt végrehajtandó szabadságvesztést, kényszergyógykezelést, javítóintézeti nevelést, letartóztatást, elzárást,
+e)[^92] tölt-e az elítélt végrehajtandó szabadságvesztést, kényszergyógykezelést, javítóintézeti nevelést, letartóztatást, elzárást,
 
-f)[^95] áll-e a fenn a közérdekű munka végrehajtását kizáró vagy a végrehajthatóság megszűnését eredményező ok [a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 27. § és 289. §,],
+f)[^93] fennáll-e a Bv. tv. 27. §-a és 289. §-a szerinti, a közérdekű munka végrehajtását kizáró vagy a végrehajthatóság megszűnését eredményező ok,
 
 g) történt-e változás az illetékességben,
 
 h) van-e folyamatban az elítélttel szemben más közérdekű munka büntetés végrehajtása,
 
-i)[^96] szükséges-e a végrehajtás során tolmács igénybevétele,
+i)[^94] szükséges-e a végrehajtás során tolmács igénybevétele,
 
-és annak megfelelően intézkedik.
+## és annak megfelelően intézkedik.
 
-(2)[^97] Ha a pártfogó felügyelő azt észleli, hogy
+(2)[^95] Ha a pártfogó felügyelő azt észleli, hogy
 
 a) a közérdekű munka végrehajtása elévülés okán kizárt, vagy a végrehajthatóság megszűnését eredményező ok áll fenn, az iratokat további intézkedés végett megküldi a bv. bírónak,
 
@@ -30,15 +30,16 @@ b) az elítélt a Btk. 92–92/B. §-a szerinti beszámítás folytán kitöltö
 
 c) az elítélt halála okán a végrehajtás kizárt, beszerzi a halotti anyakönyvi kivonatot, az ügyet lezárja, és erről értesíti az első fokon eljárt bíróságot,
 
-d) az elítélt életfogytig tartó szabadságvesztése okán a végrehajtás kizárt, beszerzi az erről rendelkező ügydöntő határozatot, az ügyet lezárja, és erről értesíti az első fokon eljárt bíróságot,
+d)[^96] az elítélt életfogytig tartó szabadságvesztésre ítélése vagy más ügyben kiszabott kiutasítása okán a végrehajtás kizárt, beszerzi az erről rendelkező jogerős ügydöntő határozatot, az ügyet lezárja, és erről értesíti az első fokon eljárt bíróságot,
 
 e) a bíróság halasztást engedélyezett a közérdekű munka végrehajtására, az iratokat határidős nyilvántartásba helyezi.
 
-[^90]: A 25. § (1) bekezdés a) pontját a 20/2020. (XII. 30.) IM rendelet 58. § 1. pontja hatályon kívül helyezte.
-[^91]: A 25. § (1) bekezdés b) pontja a 17/2018. (VI. 27.) IM rendelet 63. § (1) bekezdésével megállapított szöveg.
-[^92]: A 25. § (1) bekezdés c) pontja a 17/2018. (VI. 27.) IM rendelet 63. § (1) bekezdésével megállapított szöveg.
-[^93]: A 25. § (1) bekezdés d) pontja a 20/2020. (XII. 30.) IM rendelet 57. § 7. pontja szerint módosított szöveg.
-[^94]: A 25. § (1) bekezdés e) pontja a 17/2018. (VI. 27.) IM rendelet 79. § h) pontja szerint módosított szöveg.
-[^95]: A 25. § (1) bekezdés f) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 9. pontja szerint módosított szöveg.
-[^96]: A 25. § (1) bekezdés i) pontját a 17/2018. (VI. 27.) IM rendelet 63. § (2) bekezdése iktatta be.
-[^97]: A 25. § (2) bekezdése a 17/2018. (VI. 27.) IM rendelet 63. § (3) bekezdésével megállapított szöveg.
+[^88]: A 25. § (1) bekezdés a) pontját a 20/2020. (XII. 30.) IM rendelet 58. § 1. pontja hatályon kívül helyezte.
+[^89]: A 25. § (1) bekezdés b) pontja a 17/2018. (VI. 27.) IM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^90]: A 25. § (1) bekezdés c) pontja a 17/2018. (VI. 27.) IM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^91]: A 25. § (1) bekezdés d) pontja a 20/2020. (XII. 30.) IM rendelet 57. § 7. pontja szerint módosított szöveg.
+[^92]: A 25. § (1) bekezdés e) pontja a 17/2018. (VI. 27.) IM rendelet 79. § h) pontja szerint módosított szöveg.
+[^93]: A 25. § (1) bekezdés f) pontja a 12/2022. (IV. 26.) IM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^94]: A 25. § (1) bekezdés i) pontját a 17/2018. (VI. 27.) IM rendelet 63. § (2) bekezdése iktatta be.
+[^95]: A 25. § (2) bekezdése a 17/2018. (VI. 27.) IM rendelet 63. § (3) bekezdésével megállapított szöveg.
+[^96]: A 25. § (2) bekezdés d) pontja a 12/2022. (IV. 26.) IM rendelet 19. § (2) bekezdésével megállapított szöveg.

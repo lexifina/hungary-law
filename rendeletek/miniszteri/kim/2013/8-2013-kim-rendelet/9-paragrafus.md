@@ -1,17 +1,25 @@
-9. §[^18] (1) A pártfogó felügyelői vélemény III. része a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 203. § (1) bekezdésében foglaltakon túl a terhelt személyére, viselkedésére, életviszonyaira és életvitelére jellemző szakmai ténymegállapításokat tartalmazza, különösen
+9. §[^21] (1) A pártfogó felügyelői vélemény III. része a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 203. § (1) bekezdésében foglaltaknak megfelelően a terhelt személyére, viselkedésére, életviszonyaira és életvitelére jellemző szakmai ténymegállapításokat tartalmazza, különösen
 
-a) a baráti és kisközösségi kapcsolatai,
+a) a családi körülményeire,
 
-b) a munkaviszony vagy az iskolarendszerű tanulói jogviszony adatai, iskolai végzettsége, szakképzettsége, a tanintézmény megnevezése, címe, illetve munkahelye megnevezése, továbbá a munkáltató, illetve a terhelt tényleges munkavégzésének helye, beosztása, munkaköre, foglalkozása,
+b) a lakhatási körülményeire,
 
-c) a szabadidő-eltöltési szokásai,
+c) a munkaerő-piaci helyzetének, illetve az oktatásban, képzésben való részvételének jellemzőire, a munkához, illetve a tanuláshoz való hozzáállására, a tanulmányi eredményeire, a munkahelyi, illetve az oktatási intézmény közösségébe való beilleszkedésére, esetleges konfliktusaira,
 
-d) a cselekmény elkövetésekor jellemző és az azóta az a)–c) pont szerinti körülményekben bekövetkezett változások,
+d) a jövedelmi és vagyoni viszonyaira,
 
-e) a korábbi pártfogó felügyelői tapasztalatok
+e) az egészségi állapotára, esetleges káros szenvedélyeire,
 
-## vonatkozásában.
+f) a szabadidő-eltöltési szokásaira, valamint a baráti és kisközösségi kapcsolataira,
 
-(2) A szakmai ténymegállapítások körében a pártfogó felügyelő a terhelt személyére és viselkedésére, életviszonyaira és életvitelére vonatkozó tényezőkre tekintettel feltárja a bűnismétlési kockázatokat, valamint a terhelt szükségleteit, és javaslatot tesz a bűnismétlési kockázatok hatását enyhítő beavatkozások alkalmazására. A pártfogó felügyelő a külön magatartási szabályokra és kötelezettségekre, a terhelt adottságainak megfelelő ellátási és intézményi lehetőségek figyelembevételével teszi meg a javaslatát, bemutatva azoknak a bűnismétlési kockázatokat enyhítő hatását.
+g) a bűncselekmény elkövetéséhez és annak jóvátételéhez – ideértve a közvetítői eljáráson való részvételi szándékát is – való hozzáállására,
 
-[^18]: A 9. § a 17/2018. (VI. 27.) IM rendelet 52. §-ával megállapított szöveg.
+h) a terhelt személyére, viselkedésére, életviszonyaira és életvitelére a cselekmény elkövetésekor jellemző körülményekben bekövetkezett változásokra
+
+## vonatkozóan.
+
+(2) A szakmai ténymegállapítások körében a pártfogó felügyelő bemutatja a korábbi pártfogó felügyelői tapasztalatokat.
+
+(3) A szakmai ténymegállapítások körében a pártfogó felügyelő a terhelt személyére és viselkedésére, életviszonyaira és életvitelére vonatkozó tényezők alapján feltárja a bűnismétlési kockázatokat, valamint a terhelt szükségleteit.
+
+[^21]: A 9. § a 12/2022. (IV. 26.) IM rendelet 10. §-ával megállapított szöveg.
