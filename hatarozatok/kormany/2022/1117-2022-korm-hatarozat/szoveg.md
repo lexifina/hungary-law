@@ -6,9 +6,9 @@ A Kormány
 
 a)[^1] felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon forgalomarányos támogatás (a továbbiakban: támogatás) nyújtásáról, az alábbiak szerint:
 
-aa) a támogatás három hónapra, 2022. március, április és május hónapokra vehető igénybe,
+aa)[^2] a támogatás négy hónapra, 2022. március, április, május és június hónapokra vehető igénybe,
 
-ab) a támogatás alapja a vállalkozás 2021. év március, április és május hónapokban összesen értékesített üzemanyag mennyiségének 80 százaléka,
+ab)[^3] a támogatás alapja a vállalkozás 2021. év március, április, május és június hónapokban összesen értékesített üzemanyag mennyiségének 80 százaléka,
 
 ac) ha az üzemanyagtöltő-állomás 2021. március 1-jét követően kezdte meg működését, az ab) ponttól eltérően a támogatás alapja a 2021. évi havi átlag üzemanyag értékesítés 80 százalékának háromszorosa,
 
@@ -29,3 +29,5 @@ Felelős: pénzügyminiszter
 Határidő: azonnal
 
 [^1]: A 2. pont a) alpontja az 1177/2022. (III. 23.) Korm. határozattal megállapított szöveg.
+[^2]: A 2. pont a) alpont aa) pontja az 1241/2022. (IV. 28.) Korm. határozat alapján módosított szöveg.
+[^3]: A 2. pont a) alpont ab) pontja az 1241/2022. (IV. 28.) Korm. határozat alapján módosított szöveg.
