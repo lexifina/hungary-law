@@ -1,3 +1,3 @@
-## 6. § A Pártfogó Felügyelői Szolgálat tevékenységéről szóló 8/2013. (VI. 29.) KIM rendelet (a továbbiakban: Pfr.) 1. alcíme a következő 1/A. §-sal egészül ki:
+## 6. §[^7]
 
-## „1/A. § Az eljáró pártfogó felügyelő kijelölése határozat meghozatalával vagy a kormányhivatalnál bevezetett ügyelosztási rend alkalmazásával történhet.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

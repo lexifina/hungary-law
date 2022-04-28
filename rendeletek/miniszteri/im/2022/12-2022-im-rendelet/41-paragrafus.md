@@ -1,3 +1,5 @@
-## 40. § Hatályát veszti a 15/2014. (XII. 17.) IM rendelet 5. § (5) bekezdése.
+## 40. §[^41]
 
 ## 8. A szabadságvesztés, az elzárás, az előzetes letartóztatás és a rendbírság helyébe lépő elzárás végrehajtásának részletes szabályairól szóló 16/2014. (XII. 19.) IM rendelet módosítása
+
+[^41]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

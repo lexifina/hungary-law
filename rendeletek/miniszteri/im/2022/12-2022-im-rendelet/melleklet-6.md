@@ -1,3 +1,3 @@
-6. melléklet a 12/2022. (IV. 26.) IM rendelethez[^7]
+6. melléklet a 12/2022. (IV. 26.) IM rendelethez[^73]
 
-[^7]: A 6. melléklet a 67. § (2) bekezdése alapján 2022. június 28-án lép hatályba.
+[^73]: A 6. melléklet a 67. § (2) bekezdése alapján 2022. június 28-án lép hatályba.

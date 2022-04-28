@@ -1,3 +1,3 @@
-## 15. § A Pfr. 19/F. §-a a következő (1a) bekezdéssel egészül ki:
+## 15. §[^16]
 
-## „(1a) A megelőző pártfogó felügyelő megvizsgálja, hogy a végrehajtás során szükséges-e tolmács igénybevétele, és ha igen, intézkedik a gyámhatóságnál tolmács kirendelése és az egyéni meghallgatáson való jelenlétének biztosítása érdekében.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

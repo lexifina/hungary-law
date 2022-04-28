@@ -1,3 +1,3 @@
-## 25. § A Pfr. 45. §-a a következő (3) bekezdéssel egészül ki:
+## 25. §[^26]
 
-## „(3) A pártfogó felügyelő a pártfogolt tényleges tartózkodási helyének megismerése érdekében megkeresheti a rendőrséget a pártfogolt megadott címen való ellenőrzése céljából.”
+[^26]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

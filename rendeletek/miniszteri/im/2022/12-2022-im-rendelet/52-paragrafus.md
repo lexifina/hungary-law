@@ -1,3 +1,3 @@
-## 51. § A 16/2014. (XII. 19.) IM rendelet 170. §-a helyébe a következő rendelkezés lép:
+## 51. §[^52]
 
-## „170. § A bv. intézet a befogadáskor a külföldi elítéltnél lévő, külföldi állam által kiállított úti okmányt átveszi, és megküldi az elsőfokon eljárt bíróság székhelye szerint illetékes idegenrendészeti hatóságnak.”
+[^52]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

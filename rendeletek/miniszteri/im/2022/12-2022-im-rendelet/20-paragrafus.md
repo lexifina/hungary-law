@@ -1,1 +1,3 @@
-## „d) az elítélt életfogytig tartó szabadságvesztésre ítélése vagy más ügyben kiszabott kiutasítása okán a végrehajtás kizárt, beszerzi az erről rendelkező jogerős ügydöntő határozatot, az ügyet lezárja, és erről értesíti az első fokon eljárt bíróságot,”
+## 19. §[^20]
+
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

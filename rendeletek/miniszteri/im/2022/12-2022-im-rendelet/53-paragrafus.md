@@ -1,3 +1,3 @@
-## 52. § A 16/2014. (XII. 19.) IM rendelet 179. §-a a következő (8) bekezdéssel egészül ki:
+## 52. §[^53]
 
-## „(8) A bv. intézet a befogadáskor a külföldi elítéltnél lévő, külföldi állam által kiállított úti okmányt átveszi, és megküldi az elsőfokon eljárt bíróság székhelye szerint illetékes idegenrendészeti hatóságnak, ha a külföldi elítéltet kiutasítás büntetésre is ítélték, egyéb esetben azt letétbe helyezi.”
+[^53]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

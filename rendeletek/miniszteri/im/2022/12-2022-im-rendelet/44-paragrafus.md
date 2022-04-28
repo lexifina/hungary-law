@@ -1,3 +1,3 @@
-## 43. § A 16/2014. (XII. 19.) IM rendelet 33. §-a a következő (7) bekezdéssel egészül ki:
+## 43. §[^44]
 
-## „(7) Ha az elítéltet más bv. intézetbe szállítják, vagy fogvatartásának jogcíme megváltozik, akkor a befogadási eljárás során a korábbi rezsimbesorolása az irányadó, az ettől való eltérést a határozatban indokolni kell.”
+[^44]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

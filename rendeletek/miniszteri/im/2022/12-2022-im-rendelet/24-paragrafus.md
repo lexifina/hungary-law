@@ -1,3 +1,3 @@
-## 23. § A Pfr. 39. §-a a következő (1a) bekezdéssel egészül ki:
+## 23. §[^24]
 
-## „(1a) A pártfogó felügyelet végrehajtása során az illetékes kormányhivatal a pártfogolt személyes ellenőrzése, beszámoltatása, nyilatkoztatása vagy a külön magatartási szabállyal érintett személytől felvilágosítás kérése érdekében megkeresheti azt a kormányhivatalt, ahol a pártfogolt ideiglenesen – ide nem értve az illetékesség megváltozását –, illetve a külön magatartási szabállyal érintett személy tartózkodik. A megkeresett kormányhivatal az elvégzett cselekményről jelentést készít, és azt megküldi a megkereső kormányhivatalnak, illetve haladéktalanul tájékoztatja a megkeresőt, ha a megkeresés teljesítésének akadálya van.”
+[^24]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
