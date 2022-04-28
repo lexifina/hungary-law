@@ -1,0 +1,1 @@
+A Kormány – figyelemmel az Észak-atlanti Szerződés Szervezete által irányított balkáni katonai békefenntartó műveletekben részt vevő nemzetközi erőkben történő magyar katonai szerepvállalásra, az ország határain kívüli válságreagáló és béketámogató műveletekkel kapcsolatos feladatokra, valamint a Magyar Honvédség rendelkezésére álló és átadható készleteire –
