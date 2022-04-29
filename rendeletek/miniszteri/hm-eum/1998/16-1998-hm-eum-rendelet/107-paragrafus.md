@@ -1,8 +1,8 @@
-## 106. §[^92] Az engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyesnek a megelőző 24 hónap során hat hónapnál hosszabb folyamatos munkamegszakítása nem volt. Ha a megelőző 24 hónap során a munka folyamatos megszakításának időtartama meghaladta a hat hónapot, az engedélyes a 104. § (4) bekezdés szerinti gyakorlati vizsgát tesz.
+## 106. §[^111] Az engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyesnek a megelőző 24 hónap során hat hónapnál hosszabb folyamatos munkamegszakítása nem volt. Ha a megelőző 24 hónap során a munka folyamatos megszakításának időtartama meghaladta a hat hónapot, az engedélyes a 104. § (4) bekezdés szerinti gyakorlati vizsgát tesz.
 
 ## Bevezető irányító szakszolgálati engedély
 
-107. § (1)[^93] A bevezető irányító szakszolgálati engedély kiadásának feltétele, hogy a pályázó a kérelmet megelőző 12 hónapon belül oktató légiforgalmi irányító felügyelete mellett legalább 300 óra szakszolgálati feladatot teljesített, vagy megfelel a 104. § (2) bekezdésében foglalt feltételnek.
+107. § (1)[^112] A bevezető irányító szakszolgálati engedély kiadásának feltétele, hogy a pályázó a kérelmet megelőző 12 hónapon belül oktató légiforgalmi irányító felügyelete mellett legalább 300 óra szakszolgálati feladatot teljesített, vagy megfelel a 104. § (2) bekezdésében foglalt feltételnek.
 
 (2) A pályázó elméleti vizsgát a következő tárgyakból tesz:
 
@@ -32,5 +32,5 @@ l) a precíziós radar használatára vonatkozó eljárások szabályai.
 
 (3) A gyakorlati vizsgára a 104. § (4) bekezdés irányadó.
 
-[^92]: A 106. § a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^93]: A 107. § (1) bekezdése a 12/2020. (VII. 21.) HM rendelet 2. §-ával megállapított szöveg.
+[^111]: A 106. § a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^112]: A 107. § (1) bekezdése a 12/2020. (VII. 21.) HM rendelet 2. §-ával megállapított szöveg.

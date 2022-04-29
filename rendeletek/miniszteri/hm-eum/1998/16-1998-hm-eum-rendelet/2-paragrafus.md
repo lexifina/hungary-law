@@ -10,7 +10,7 @@ c) Hatóság: az Lt. 3. §-ának (2) bekezdése szerinti katonai légügyi ható
 
 d) Légiközlekedési hatóság: az Lt. 3. §-ának (1) bekezdése szerinti légiközlekedési hatóság;
 
-e)[^2] Légijárművezetői kiképzés alatt álló személy: aki szakszolgálati engedéllyel nem rendelkezik és a légijárművezetői gyakorlati kiképzését megkezdte; kiképzés alatt állónak kell tekinteni azt is, aki hatályos szakszolgálati engedéllyel rendelkezik, de számára új légijármű típus átképzésen vesz részt;
+e)[^2]
 
 f) Egészségi alkalmasság a szakszolgálat ellátására: az egyénnek olyan testi és lelki egyensúlyi állapota, amely lehetővé teszi a szakszolgálat elvárásainak teljesítését úgy, hogy ennek teljesítésekor a speciális fizikai és pszichikai terheléseket zavartalan alkalmazkodással és a feladatok biztonságos végrehajtásával valósítja meg;
 
@@ -20,77 +20,13 @@ a) teljes: ha az egyén a repülőegészségi alkalmassági követelményeknek m
 
 b) korlátozott: ha a szervezet testi és lelki egyensúlyának megbomlása, s így az egészség károsodás mértéke a szakszolgálatra való egészségi alkalmasságot nem zárja ki, a repülés biztonságát nem veszélyezteti, és további egészségromláshoz sem vezet;
 
-h) Integrált repülőkiképző tanfolyam: iskolarendszerben, speciális program szerint végzett, folyamatos repülőkiképzés;
+h)[^3]
 
-i) Légiközlekedési szakszemélyzet:
-
-A) légijárművezetők:
-
-a) repülőgépvezetők:
-
-aa) repülőgépvezető,
-
-ab) oktató,
-
-ac) berepülő;
-
-b) szállító-repülőgépvezetők:
-
-ba) másodpilóta,
-
-bb) berepülő másodpilóta,
-
-bc) gépparancsnok,
-
-bd) oktató gépparancsnok,
-
-be) berepülő gépparancsnok;
-
-c) helikoptervezetők:
-
-ca) helikoptervezető és helikopter másodpilóta,
-
-cb) helikopter berepülő másodpilóta,
-
-cc) helikopter gépparancsnok,
-
-cd) helikopter oktató gépparancsnok,
-
-ce) helikopter berepülő gépparancsnok;
-
-B) légijármű személyzetek:
-
-a)[^3]
-
-b) fedélzeti mérnökök (fedélzeti szerelők):
-
-ba) fedélzeti mérnök (fedélzeti szerelő),
-
-bb) oktató,
-
-bc) berepülő;
-
-c) navigátorok:
-
-ca) navigátor,
-
-cb) oktató,
-
-cc) berepülő;
-
-d) fedélzeti rádiósok:
-
-da) fedélzeti rádiós,
-
-db) oktató;
+i)[^4]
 
 j) Légiközlekedéssel összefüggő tevékenységet folytató szakszemélyzet:
 
-A) ejtőernyősök:
-
-a) ejtőernyős oktató,
-
-b) ejtőernyő beugró;
+A)[^5]
 
 B) légiforgalmi irányítók:
 
@@ -106,15 +42,17 @@ C) repülőműszaki földi szakszemélyzet:
 
 a) légijármű szerelő,
 
-b)[^4] a tevékenységi kört felügyelő, a tevékenységet szervező és oktató ellenőr;
+b)[^6] a tevékenységi kört felügyelő, a tevékenységet szervező és oktató ellenőr;
 
-k)[^5] irányítói pozícióban eltöltött idő: az az időtartam, amikor a katonai légiforgalmi irányító légtere aktív, és felelősségi körzetében – beleértve a repülőtér munkaterületét – tartózkodó légi és egyéb járművekkel kétoldalú rádiókapcsolatot tart fenn, azoknak légiforgalmi szolgáltatást biztosít, valamint ellátja az ezzel összefüggő koordinációs feladatokat,
+k)[^7] irányítói pozícióban eltöltött idő: az az időtartam, amikor a katonai légiforgalmi irányító légtere aktív, és felelősségi körzetében – beleértve a repülőtér munkaterületét – tartózkodó légi és egyéb járművekkel kétoldalú rádiókapcsolatot tart fenn, azoknak légiforgalmi szolgáltatást biztosít, valamint ellátja az ezzel összefüggő koordinációs feladatokat,
 
-l)[^6] megújítás: jogosítás, kiterjesztés vagy minősítés időbeli hatályának lejártát követő 5 éven belül végrehajtott olyan hatósági adminisztratív intézkedés, amely révén a 115/C. § (2) bekezdésében meghatározott követelmények teljesítése esetén megújításra kerülnek a jogosítással, kiterjesztéssel vagy minősítéssel járó jogosultságok.
+l)[^8] megújítás: jogosítás, kiterjesztés vagy minősítés időbeli hatályának lejártát követő 5 éven belül végrehajtott olyan hatósági adminisztratív intézkedés, amely révén a 115/C. § (2) bekezdésében meghatározott követelmények teljesítése esetén megújításra kerülnek a jogosítással, kiterjesztéssel vagy minősítéssel járó jogosultságok.
 
 [^1]: A 2. § b) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: A 2. § e) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: A 2. § i) pont B) alpont a) pontját a 12/2020. (VII. 21.) HM rendelet 6. § a) pontja hatályon kívül helyezte.
-[^4]: A 2. § j) pont C) alpont b) pontja a 11/2021. (IV. 1.) HM rendelet 4. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § k) pontját a 12/2020. (VII. 21.) HM rendelet 1. §-a iktatta be.
-[^6]: A 2. § l) pontját a 12/2020. (VII. 21.) HM rendelet 1. §-a iktatta be.
+[^2]: A 2. § e) pontját a 6/2022. (III. 30.) HM rendelet 136. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § h) pontját a 6/2022. (III. 30.) HM rendelet 136. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § i) pontját a 6/2022. (III. 30.) HM rendelet 136. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § j) pont A) alpontját a 6/2022. (III. 30.) HM rendelet 136. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § j) pont C) alpont b) pontja a 11/2021. (IV. 1.) HM rendelet 4. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § k) pontját a 12/2020. (VII. 21.) HM rendelet 1. §-a iktatta be.
+[^8]: A 2. § l) pontját a 12/2020. (VII. 21.) HM rendelet 1. §-a iktatta be.

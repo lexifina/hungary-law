@@ -1,11 +1,3 @@
-100. § (1) A beugró ejtőernyős szakszolgálati engedély az engedélyest beugró ejtőernyős és oktató ejtőernyős szakszolgálat ellátására jogosítja.
+## 99. §[^107]
 
-(2) Az engedélyes jogosult:
-
-a) a gyári új és nagyjavított ejtőernyők üzemeltetői szintű, minősítő vizsgálatára, beugrás végrehajtására, valamint
-
-b) ejtőernyős szakkiképzés ellenőrzésére,
-
-c)[^87] az ejtőernyő csapatjavítás utáni minőség-ellenőrzésére, a javított ejtőernyő alkalmazásának engedélyezésére.
-
-[^87]: A 100. § (2) bekezdésének c) pontját a 14/2001. (V. 30.) HM-EüM együttes rendelet 5. §-a iktatta a szövegbe.
+[^107]: A 99. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

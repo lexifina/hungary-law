@@ -1,25 +1,5 @@
+## 38. §[^46]
+
 ## Berepülő repülőgépvezető szakszolgálati engedély
 
-39. § (1) A berepülő repülőgépvezető szakszolgálati engedély kiadásának feltétele, hogy a pályázó
-
-a)[^34] rendelkezik hatályos repülőgépvezető szakszolgálati engedéllyel,
-
-b) befejezte az adott típuson az átképzési programot,
-
-c) elvégezte az ellenőrző repülést a típuson meghatározott berepülési profil szerint,
-
-d) rendelkezik legalább 800 óra repült idővel.
-
-(2) A pályázó elméleti vizsgát a következő tárgyakból tesz:
-
-a) a típus légi üzemeltetése, tekintettel a berepülési utasításban foglaltakra,
-
-b) a berepülésre vonatkozó előírások.
-
-(3) A gyakorlati vizsgán a pályázónak képesnek kell lennie
-
-a) a vizsgáztató által meghatározott berepülési program összeállítására és végrehajtására, valamint
-
-b) a berepülés adatainak berepülési jegyzőkönyvben történő rögzítésére.
-
-[^34]: A 39. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^46]: A 38. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

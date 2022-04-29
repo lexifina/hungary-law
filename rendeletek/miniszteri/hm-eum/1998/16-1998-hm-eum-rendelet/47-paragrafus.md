@@ -1,9 +1,3 @@
-## 46. § A szállító repülőgép berepülő másodpilóta szakszolgálati engedély az engedélyest szállító repülőgép berepülő másodpilóta és szállító repülőgép másodpilóta szakszolgálat ellátására jogosítja az adott légijárműtípuson.
+## 46. §[^54]
 
-47. § (1) A repülési jártasság fenntartása érdekében az engedélyesnek a 44. § (1) bekezdés szerinti feltételeket kell teljesítenie.
-
-(2) Az engedély meghosszabbításának feltétele hat hónaponként legalább egy berepülési feladat végrehajtása.
-
-(3)[^42] Az engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 33. § (2) bekezdés és az 45. § (2) bekezdés szerinti tárgyakból tesz.
-
-[^42]: A 47. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: A 46. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

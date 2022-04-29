@@ -1,6 +1,6 @@
 ## Szerelő szakszolgálati engedély
 
-119. § (1)[^116] A szerelő szakszolgálati engedély kiadásának feltétele, hogy a pályázó rendelkezik
+119. § (1)[^135] A szerelő szakszolgálati engedély kiadásának feltétele, hogy a pályázó rendelkezik
 
 a) középfokú szakirányú szakképzettséget igazoló, államilag elismert tanintézetben 1996 előtt szervezett szakirányú képzés elvégzését igazoló, legalább középfokú végzettséggel és a katonai légügyi hatóság által elfogadott szakirányú képzés elvégzését igazoló, vagy
 
@@ -16,7 +16,7 @@ b) repülőkiképzés és repülő harctevékenység biztosításának szabálya
 
 (3) Az eredményes elméleti vizsgát követően a Hatóság a pályázó részére gyakorlati időt határoz meg. A gyakorlati idő felsőfokú végzettség esetén 3 hónap, középfokú végzettség esetén 6 hónap. A gyakorlati idő alatt végzett munkáról a pályázó feladattervet készít és naplót vezet.
 
-(4)[^117] A gyakorlati idő leteltével a pályázó üzemeltetési és karbantartási ismeretek tárgyakból gyakorlati vizsgát tesz. A vizsga keretében meg kell győződni a pályázó kellő jártasságáról az önálló munkavégzéshez. Sikeres vizsga esetén a vizsgajegyzőkönyvet a kiképzési naplóval együtt a szakszolgálati engedély kiadására irányuló kérelemhez kell csatolni.
+(4)[^136] A gyakorlati idő leteltével a pályázó üzemeltetési és karbantartási ismeretek tárgyakból gyakorlati vizsgát tesz. A vizsga keretében meg kell győződni a pályázó kellő jártasságáról az önálló munkavégzéshez. Sikeres vizsga esetén a vizsgajegyzőkönyvet a kiképzési naplóval együtt a szakszolgálati engedély kiadására irányuló kérelemhez kell csatolni.
 
-[^116]: A 119. § (1) bekezdése a 11/2021. (IV. 1.) HM rendelet 2. §-ával megállapított szöveg.
-[^117]: A 119. § (4) bekezdése a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^135]: A 119. § (1) bekezdése a 11/2021. (IV. 1.) HM rendelet 2. §-ával megállapított szöveg.
+[^136]: A 119. § (4) bekezdése a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

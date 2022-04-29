@@ -1,10 +1,3 @@
-## 52. § A szállító repülőgépvezető oktató szakszolgálati engedély az engedélyest szállító repülőgépvezető oktatói, szállító repülőgép gépparancsnoki és szállító repülőgép másodpilóta szakszolgálat ellátására jogosítja az adott légijárműtípuson.
+## 52. §[^60]
 
-53. § (1) A repülési jártasság fenntartására a 44. § (1) bekezdés irányadó.
-
-(2)[^46] A szakszolgálati engedély időbeli hatályának meghosszabbítására a 44. § (2) bekezdés irányadó.
-
-(3)[^47] Az engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 33. § (2) bekezdés, a 48. § (2) bekezdés és az 51. § (2) bekezdés szerinti tárgyakból tesz.
-
-[^46]: Az 53. § (2) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^47]: Az 53. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^60]: Az 52. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
