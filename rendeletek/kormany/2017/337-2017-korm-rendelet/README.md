@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-337-20-
 | 2021-04-21 | 2017-337-20-22.9 | 183/2021. (IV. 16.) Korm. rendelet |
 | 2021-09-29 | 2017-337-20-22.10 | 530/2021. (IX. 14.) Korm. rendelet |
 | 2022-01-01 | 2017-337-20-22.11 | 530/2021. (IX. 14.) Korm. rendelet |
+| 2022-04-29 | 2017-337-20-22.12 | 150/2022. (IV. 14.) Korm. rendelet |
