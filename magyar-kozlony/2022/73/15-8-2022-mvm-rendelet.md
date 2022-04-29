@@ -1,0 +1,288 @@
+# A Miniszterelnökséget vezető miniszter 8/2022. (IV. 29.) MvM rendelete
+
+Magyar Közlöny 2022. évi 73. szám, 2022. április 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/pJ9gti5IdfA9jK0RjaLn62618d9c108a6/dokumentumok/04750bbde48dcfd273e8175f81cd80422859b195/letoltes)
+
+---
+
+A Miniszterelnökséget vezető miniszter 8/2022. (IV. 29.) MvM rendelete
+egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről,
+valamint védettségének módosításáról
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (2) bekezdés n) pontjában kapott felhatalmazás alapján,
+a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § (1) bekezdés 14. pontjában
+meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. Egyes ingatlanok műemlékké nyilvánítása
+1. § (1) Védett műemlékké nyilvánítom a Budapest XIII. kerület 27424/2 helyrajzi számú, Kartács utca 20. szám alatti
+ingatlant és a rajta lévő„L”alaprajzú lakóépületet.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(3) A védetté nyilvánítás célja a Löffler Béla terve szerint 1923-ban emelt utcafronti lakóház építészeti, belsőépítészeti,
+képző- és iparművészeti értékeinek, beépített történeti berendezéseinek megőrzése, mint a 20. század első felére
+jellemző magyarországi polgári lakáskultúra egyik legintaktabb állapotban fennmaradt példája. A műemlék
+nevesített műemléki értékei:
+a) történeti településképi és utcaképi jelentősége,
+b) beépítési módja,
+c) tömeg- és tetőformája,
+d) az utcai és udvari homlokzatok architektúrája, nyílásrendszere,
+e) a belső térstruktúrája,
+f) a helyiségek belsőépítészeti kialakítása, beépített berendezése a képző- és iparművészeti részletekkel,
+épületgépészeti megoldásokkal, kandallók és cserépkályhák,
+g) ajtó- és ablakszerkezetei, színes üvegablakok,
+h) padló- és falburkolatok, mennyezeti díszítések.
+(4) Az (1) bekezdés szerinti ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
+2. § (1) Védett műemlékké nyilvánítom a Budapest XXI. kerület 210001 helyrajzi számú ingatlanon álló Zsilipkezelő épületet,
+a Kvassay-zsilip egykori szolgálati épületeiként a Cementkísérleti és Anyagvizsgáló Állomás épületét, az egykori
+Kettős zsilipőrház épületét, az egykori Zsilipmesteri épületet, valamint az ezen épületeket északi és keleti oldalon
+határoló kerítést, az 1. melléklet szerint.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(3) A műemlékké nyilvánítás célja a Kvassay-zsiliphez tartozó építményegyüttes (1) bekezdésben meghatározott
+építményeinek történeti és építészeti értékeinek megőrzése. Az építményegyüttes nevesített műemléki értékei:
+a) az épületek tömegalakítása, tetőformája,
+b) az épületek téglasávokkal kialakított homlokzattagolása,
+c) az épülethomlokzatok nyílásrendszere, eredeti nyílászárói,
+d) a rusztikus terméskő lábazatok, burkolótégla díszítőelemek, a Zsilipkezelő épület vasbeton korlátjai, mint
+jellemző szerkezeti és díszítő anyaghasználatból adódó alkotórészek.
+3. § (1) Védett műemlékké nyilvánítom a Mezőhegyes (Békés megye) 0441/4 helyrajzi számú ingatlant, és a rajta álló két
+istálló épületet.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(3) A műemlékké nyilvánítás célja a mezőhegyesi történelmi ménesbirtokhoz tartozó Kamarás puszta 20-as major
+épületegyüttesét alkotó, ún. nagy istálló és fedeztető istálló épületei történeti, gazdaságtörténeti, építészeti
+értékeinek megőrzése. A műemlékegyüttes nevesített műemléki értékei:
+a) külterületi, szigetszerű elhelyezkedése,
+b) az épületek szabadonálló beépítési módja,
+
+c) az épületek tömeg- és tetőformálása, tetőszerkezete,
+d) az épületek homlokzati tagolása,
+e) a történetinek tekinthető padlószerkezetek és nyílászárók, vörösmészkő abrakolók.
+(4) Műemléki környezetnek a Mezőhegyes 0441/1, 0441/3, 0443 helyrajzi számú ingatlanokat, valamint a Mezőhegyes
+0442 helyrajzi számú út azon szakaszát jelölöm ki, amely a Mezőhegyes 0446/1 helyrajzi számú útbekötéstől
+a Mezőhegyes 0441/4 helyrajzi számú ingatlan keleti telekhatáráig terjed. A műemléki környezet kijelölés célja
+a majorság funkcionálisan összetartozó területének védelme, a történeti véderdővel, lófuttatóval és úttal alkotott
+tájképi látványának, együttes térbeli egységének megőrzése.
+(5) Az (1) bekezdésben meghatározott ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
+4. § (1) Védett műemlékké nyilvánítom a Sopron (Győr-Moson-Sopron megye) 373 helyrajzi számú, Ógabona tér 28/A szám
+alatti ingatlant és a rajta álló lakóházat.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(3) A műemlékké nyilvánítás célja az 1781-ben épült lakóház történeti és építészeti értékeinek megőrzése. A műemlék
+nevesített műemléki értékei:
+a) középkori, barokk és 19. századi részeket magába foglaló tömege,
+b) tetőformája, szerkezete,
+c) homlokzatai, egyéb épületszerkezetei,
+d) eredeti nyílászárói,
+e) belső térszervezése, lépcsőháza, mennyezetek kialakítása és díszítése.
+(4) Az (1) bekezdésben meghatározott ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
+5. § (1) Védett műemlékké nyilvánítom a Cserkeszőlő (Jász-Nagykun-Szolnok megye) 0265/4 helyrajzi számú, Tópart út 7. szám
+alatti ingatlanon álló kúria épületét.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(3) A műemlékké nyilvánítás célja a 19. század végén épült, majd 1920 körül neoklasszicista-romantikus stílusban
+átépített egykori Szinyei Merse-kúria megőrzése. A műemlék nevesített műemléki értékei:
+a) tömegalakítása, szerkezetei, tornáca,
+b) homlokzatai, megmaradt tagozatai, nyílászárói,
+c) belső térstruktúrája és díszítései.
+(4) A Cserkeszőlő 0265/4 helyrajzi számú ingatlanon álló 13771/1983. OMF hatósági határozattal védetté nyilvánított,
+13331 azonosító számon nyilvántartott Borház és 5888 azonosító számon nyilvántartott borospince műemléki
+védettségét továbbra is fenntartom.
+6. § (1) Védett műemlékké nyilvánítom a Kengyel (Jász-Nagykun-Szolnok megye) 1402/2 helyrajzi számú, Malom u. 8. szám
+alatti ingatlant és a rajta álló sírkápolna építményét.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(3) A műemlékké nyilvánítás célja a Baghy Imre által építtetett családi sírkápolna építészeti és művészeti értékeinek
+megőrzése. A műemlék nevesített műemléki értékei:
+a) tömegformálása,
+b) homlokzatai,
+c) belső terének térstruktúrája,
+d) képző- és iparművészeti tartozékai, díszítései,
+e) közvetlen környezete tájépítészeti kialakítása.
+7. § (1) Védett műemlékké nyilvánítom az Aszód (Pest megye) 523 helyrajzi számú, Szőlő utca 11. szám alatti ingatlant és
+a rajta álló épületegyüttest.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+
+(3) A műemlékké nyilvánítás célja a 20. század elején épült Micsinay-kúria épülete, a hozzá tartozó Podmaniczky-család
+által építtetett 18. századi eredetű pince, valamint az egykori cselédház megőrzése. Az épületegyüttes nevesített
+műemléki értékei:
+a) az épületek elhelyezése, egymáshoz való viszonya,
+b) az épületek telekhez igazodó tömegformálása,
+c) az épületek homlokzatai,
+d) az építéskori nyílászárók,
+e) a kúria épület üvegezett tornáca, történeti térrendszere, emeleti lakószobáinak falfestése és stukkódíszítése.
+8. § (1) Védett műemlékké nyilvánítom a Biatorbágy (Pest megye) 9278/2, 9279, 9280, 9283 és 9285/1 helyrajzi számú
+ingatlanokon lévő viaduktot alkotó vasúti hídpárt, a hídfőket és hídpilléreket, a széncsúszda építményét, valamint
+a viadukt-pár látványához tartozó Biatorbágy 087/16 helyrajzi számú ingatlanon lévő patakmeder szakaszát.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(3) A műemlékké nyilvánítás célja az 1883–1884-ben és 1894-ben épült, ún. Biatorbágyi vasúti viadukt-pár ipar- és
+vasúttörténeti értékeinek megőrzése. A műtárgyegyüttes nevesített műemléki értékei:
+a) a hídfők és pillérek tömege, szerkezete, anyaga,
+b) a két híd teljes eredeti kő- és vasszerkezete a 20. századi megerősítésekkel,
+c) a hídfők eredeti, faragott szegélykövei és vízszigetelése,
+d) a vízelvezetés eredeti rendszere,
+e) a beakasztott rácsos tartószerkezetek,
+f) eredeti korlát, öntöttvas tartóoszlopok és korláttartók,
+g) széncsúsztató.
+(4) Műemléki környezetnek a Biatorbágy 9278/1, 9281, 9282 és 087/10 helyrajzi számú ingatlanokat jelölöm ki.
+9. § (1) Védett műemlékké nyilvánítom a Tapolca (Veszprém megye) 2789 és 2793/1 helyrajzi számú, Deák Ferenc utca 7–11.
+szám alatti ingatlanon lévő pince építményt.
+(2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(3) A műemlékké nyilvánítás célja a két periódusban épült Lessner-pincerendszer és mindenkori földrészlete, valamint
+megmaradt borászati berendezéseinek műemléki védelme. A műemlék nevesített műemléki értékei:
+a) a pincerendszer dongaboltozatos szerkezete, térformája,
+b) zöld üvegcsempével bélelt, épített falú tartályok,
+c) pincebejárat borfelvonó szerkezete,
+d) a tartozékok közül két faboroshordó és ászokfák, vasbeton palacktároló polcrendszer.
+(4) Az (1) bekezdésben meghatározott ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
+2. Egyes ingatlanok műemléki védettségének megszüntetése, valamint védettségének módosítása
+10. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Fertőszentmiklós
+(Győr-Moson-Sopron megye), Szent István utcában található, a közhiteles műemléki nyilvántartásban
+3636 törzsszámon és 4127 azonosító számon nyilvántartott Mária-szobor ingatlanának telekalakítás után kialakult
+ingatlanai közül a Fertőszentmiklós 1202/2, 1202/3, 1202/4, 1202/5, 1202/6, 1202/7 és 1202/9 helyrajzi számú
+ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett
+érték nem található – megszüntetem.
+(2) A Mária-szobor műemléki védettségét a továbbiakban védett műemlékként tartom fenn a telekalakítás után
+létrejött Fertőszentmiklós 1202/1 és 1202/8 helyrajzi számú ingatlanokon, tekintettel az ingatlanok közös
+telekhatárán található Mária-szobor fennálló műemléki értékeire.
+11. §
+Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki
+védettségének megszüntetéséről szóló 25/2005. (IX. 16.) NKÖM rendelettel védetté nyilvánított Debrecen
+(Hajdú-Bihar megye), a közhiteles műemléki nyilvántartásban 11119 törzsszámon nyilvántartott Zsuzsi Erdei
+Vasút építményegyüttes telekalakítás után kialakult ingatlanai közül a Debrecen 1300/13 helyrajzi számú ingatlan
+
+műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanon védett érték nem
+található – megszüntetem.
+12. §
+Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 19/2003.
+(XII. 19.) NKÖM rendelettel védetté nyilvánított Jászberény (Jász-Nagykun-Szolnok megye) 7612/2 helyrajzi számú,
+Kun u. 2. szám alatti ingatlanon a közhiteles műemléki nyilvántartásban 11050 törzsszámon és 11321 azonosító
+számon nyilvántartott lakóépület műemléki védettségét az alábbi fennálló műemléki értékeire kiterjedően tartom
+fenn:
+a) beépítési módja,
+b) tömegképzése,
+c) homlokzati kialakítása.
+13. §
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Esztergom
+(Komárom-Esztergom megye), Bajcsy-Zsilinszky Endre u. 22. szám alatti, 19782 helyrajzi számú ingatlanon álló,
+a közhiteles műemléki nyilvántartásban 2290 törzsszámon és 6158 azonosító számon nyilvántartott lakóépület,
+ún. Wimmer-ház műemléki védettségét az alábbi, fennálló műemléki értékeire kiterjedően tartom fenn:
+a) romantikus, mór hatásokat tükröző, neogótikus stílusú teljes utcai homlokzat a megtartást szolgáló
+tartószerkezettel,
+b) utcai épülettömeghez tartozó tetőforma,
+c) lépcsőház.
+14. §
+A 3457/1989. OMF számú határozattal védetté nyilvánított Esztergom (Komárom-Esztergom megye), Berényi
+Zsigmond u. 4. szám alatti, 16300 helyrajzi számú ingatlanon álló, a közhiteles műemléki nyilvántartásban
+10279 törzsszámon és 6168 azonosító számon nyilvántartott lakóépület műemléki védettségét az alábbi, fennálló
+műemléki értékeire kiterjedően tartom fenn:
+a) megmaradt utcai homlokzatának anyaga, nyíláskiosztása,
+b) az egykori udvari szárny alatt elhelyezkedő pince falazata, boltozata, beépített középkori kövei.
+15. § (1) A 16494/1976. OMF számú hatósági határozattal védetté nyilvánított Visegrád (Pest megye), Kőbánya u. 1. szám
+alatti Római őrtorony falmaradványa telekalakítás után kialakult ingatlanai közül a Visegrád 189/3 és 189/4 helyrajzi
+számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon
+védett érték nem található – megszüntetem.
+(2) A Visegrád 190 helyrajzi számú ingatlanon található, a közhiteles műemléki nyilvántartásban 8794 törzsszámon és
+7610 azonosító számon nyilvántartott Római őrtorony műemléki védettségét – tekintettel a fennálló műemléki és
+régészeti értékeire – fenntartom.
+16. § (1) A 863-4/1953. FOM számú miniszteri döntéssel védetté nyilvánított Nagyberki (Somogy megye), Fő u. 11. szám
+alatti volt Vigyázó-kastély telekalakítás után kialakult utódingatlanai közül a Nagyberki 67/4 helyrajzi számú,
+valamint a Nagyberki 67/5 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás
+következtében az ingatlanokon védett érték nem található – megszüntetem.
+(2) A Nagyberki 67/3 helyrajzi számú ingatlanon álló, a közhiteles műemléki nyilvántartásban 4484 törzsszámon és
+8027 azonosító számon nyilvántartott volt Vigyázó-kastély és parkjának kiemelten védett műemlék védettségét
+fenntartom.
+17. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Ganna (Veszprém
+megye) Fő u. 37. szám alatti római katolikus plébániaház ingatlanának telekalakítás után kialakult ingatlanai közül
+a Ganna 187/2 és 187/3 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás
+következtében az ingatlanokon védett érték nem található – megszüntetem.
+(2) A Ganna 187/1 helyrajzi számú ingatlanon, a közhiteles műemléki nyilvántartásban 5051 törzsszámon és
+9872 azonosító számon nyilvántartott római katolikus plébániaház műemléki védettségét – tekintettel fennálló
+műemléki értékeire – fenntartom.
+
+18. §
+Az egyes ingatlanok műemlékké nyilvánításáról, illetőleg műemléki védettség megszüntetéséről szóló
+21/2002. (X. 7.) NKÖM rendelettel védetté nyilvánított, majd telekmegosztást követően a Budapest III. kerület
+23779/7 helyrajzi számú ingatlanon állt, a közhiteles műemléki nyilvántartásban 16072 törzsszámon és
+11186 azonosító számon nyilvántartott Vöcsök II. csónakház épületének műemléki védettségét – tekintettel arra,
+hogy az épület bontása miatt a műemlék megsemmisült – megszüntetem.
+19. §
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Verseg (Pest megye)
+15/6 helyrajzi számú, József Attila utca 13. szám alatti ingatlanon álló, 7494 törzsszámon és 7585 azonosító számon
+nyilvántartott, ún. Zoltán-kúria műemléki védettségét – tekintettel arra, hogy a szakmai ismérveknek nem felel
+meg – megszüntetem.
+20. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Devecser
+(Veszprém megye) 625 helyrajzi számú, Széchenyi utca 7. szám alatti, 4935 törzsszámon és 9840 azonosító számon
+nyilvántartott, ún. régi cselédház műemléki védettségét – tekintettel arra, hogy védett értékeit helyreállíthatatlanul
+elvesztette – megszüntetem.
+(2) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Devecser
+627 helyrajzi számú ingatlanon álló, a közhiteles műemléki nyilvántartásban 4934 törzsszámon és 18164 azonosító
+számon nyilvántartott, ún. régi cselédház műemléki védettségét – tekintettel az épület barokk, 18. századi
+eredetére, barokk téglákat tartalmazó falazatára, tetőszerkezetére és udvari homlokzatán található, különleges,
+fakonzolos kialakítású ereszére, valamint a vele egybeépült, egykorú tartozékára, a lábaspajtára – fenntartom.
+21. § (1) A 16356/1976. OMF számú határozattal védetté nyilvánított Csesznek (Veszprém megye), külterület 044/3 helyrajzi
+számú ingatlanon álló, a közhiteles műemléki nyilvántartásban 8750 törzsszámon és 14018 azonosító számon
+nyilvántartott istálló épület műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit
+helyreállíthatatlanul elvesztette – megszüntetem.
+(2) A 16356/1976. OMF számú határozattal védetté nyilvánított Csesznek, külterület 044/4 helyrajzi számú „kivett út”
+megjelölésű ingatlanon fennálló műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében
+az ingatlanon védett érték nem található – megszüntetem.
+(3) A 16356/1976. OMF számú határozattal védetté nyilvánított Csesznek külterület 044/5 helyrajzi számú ingatlanon
+álló Esterházy-majorság épületegyütteséhez tartozó, a közhiteles műemléki nyilvántartásban 8750 törzsszámon
+és 14019 azonosító számon nyilvántartott kápolna épületének műemléki védettségét, valamint a Csesznek
+külterület 044/3 helyrajzi számú ingatlanon álló, a közhiteles műemléki nyilvántartásban 8750 törzsszámon és
+14017 azonosító számon nyilvántartott Esterházy-majorság épületegyütteséhez tartozó magtár épület műemléki
+védettségét fenntartom.
+22. §
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Nemesvita
+(Veszprém megye) 195 helyrajzi számú, Petőfi Sándor u. 7. szám alatti ingatlanon, a közhiteles műemléki
+nyilvántartásban 5246 törzsszámon és 10101 azonosító számon nyilvántartott parasztház műemléki védettségét
+– tekintettel arra, hogy az épület megsemmisült – megszüntetem.
+23. §
+A 16021/1973. OMF számú hatósági határozattal védetté nyilvánított Tihany (Veszprém megye) 174 helyrajzi számú,
+Árpád utca 2. szám alatti ingatlanon, a közhiteles műemléki nyilvántartásban 8411 törzsszámon és 10470 azonosító
+számon nyilvántartott lakóház műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit
+helyreállíthatatlanul elvesztette – megszüntetem.
+24. §
+A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Veszprém
+(Veszprém megye) 842 helyrajzi számú, Csatár utca 7. szám alatti ingatlanon, a közhiteles műemléki
+nyilvántartásban 4656 törzsszámon és 10614 azonosító számon nyilvántartott parasztház műemléki védettségét
+– tekintettel arra, hogy az épület megsemmisült – megszüntetem.
+
+3. Záró rendelkezések
+25. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+26. §
+Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki
+védettségének megszüntetéséről szóló 25/2005. (IX. 16.) NKÖM rendelet 8. § (1) és (2) bekezdése helyébe
+a következő rendelkezések lépnek:
+„(1) Műemlékké nyilvánítom
+a) a Debrecen 1301/5 helyrajzi számú ingatlanon található, a 11119 törzsszámon és 16947 azonosító számon
+nyilvántartott vasúti főnökségi lakóházat;
+b) a Debrecen 1301/18 helyrajzi számú ingatlanon található, 11119 törzsszámon és 16952 azonosító számon
+nyilvántartott pályamesteri könnyű vágánykocsi tárolóépületet, a 16953 azonosító számon nyilvántartott
+pályafenntartási melegedő épületet, a 16955 azonosító számon nyilvántartott váltóőrhelyet;
+c) a Debrecen 1301/26 helyrajzi számú ingatlanon található, 11119 törzsszámon és 16948 azonosító számon
+nyilvántartott kis fűtőházat, a 16949 azonosító számon nyilvántartott nagy fűtőházat, a 16960 azonosító számon
+nyilvántartott vasútforgalmi létesítményeket;
+d) a Debrecen 1298/8, 1301/18, 1301/26, 1304, 1316, 2706/6 helyrajzi számú ingatlanokon található,
+11119 törzsszámon és 16958 azonosító számon nyilvántartott Debrecen és Hármashegyalja állomások közötti
+folytonos pályaszakaszt.
+(2) A Zsuzsi Erdei Vasút műemléki környezeteként a védett épületek, vasútforgalmi létesítmények és pályaszakaszok
+1301/5, 1301/18, 1301/26, 1298/8, 1304, 1316 és 2706/6 helyrajzi számú ingatlanait jelölöm ki.”
+27. §
+Az egyes ingatlanok műemlékké nyilvánításáról, illetőleg műemléki védettség megszüntetéséről szóló 21/2002.
+(X. 7.) NKÖM rendelet 2. § (1) bekezdésében a„csónakházakra”szövegrész helyébe a„csónakházra”szöveg lép.
+28. § (1) Hatályát veszti az egyes ingatlanok műemlékké nyilvánításáról, illetőleg műemléki védettség megszüntetéséről
+szóló 21/2002. (X. 7.) NKÖM rendelet
+a) 2. § (1) bekezdésében a„23779/4 helyrajzi számú ingatlanon álló Vöcsök II. csónakházat és a”szövegrész,
+b) 2. § (2) bekezdésében a„23779/4 és a”szövegrész.
+(2) Hatályát veszti az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről
+szóló 19/2003. (XII. 19.) NKÖM rendelet 9. § (2) bekezdése.
+(3) Hatályát veszti az egyes ingatlanok műemléki védettségének megszüntetéséről szóló 5/2015. (II. 2.) MvM rendelet
+37. § (2) bekezdése.
+ Dr. Gulyás Gergely s. k.,
+ Miniszterelnökséget vezető miniszter
+
+1. melléklet a 8/2022. (IV. 29.) MvM rendelethez
+Budapest XXI. kerület, 210001 helyrajzi számú ingatlan műemlék épületek helyszínrajzi jelölése

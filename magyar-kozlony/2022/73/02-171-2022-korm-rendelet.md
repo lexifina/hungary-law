@@ -1,0 +1,92 @@
+# A Kormány 171/2022. (IV. 29.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 73. szám, 2022. április 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/pJ9gti5IdfA9jK0RjaLn62618d9c108a6/dokumentumok/04750bbde48dcfd273e8175f81cd80422859b195/letoltes)
+
+---
+
+A Kormány 171/2022. (IV. 29.) Korm. rendelete
+az ukrajnai válsággal összefüggő egyes, az egészségügyi ellátást érintő adatkezelési kérdésekről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+a 7. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány elleni védekezésről szóló 2021. évi I. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+E rendelet alkalmazásában
+1. beteg: az egészségügyi ellátást igénybe vevő vagy abban részesülő személy;
+2. menedékes: az ideiglenes védelemre jogosultként elismert személyekkel kapcsolatos veszélyhelyzeti
+szabályokról, továbbá a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb
+törvények módosításáról szóló 2011. évi CVI. törvény szabályainak eltérő alkalmazásáról szóló 86/2022. (III. 7.)
+Korm. rendelet 1. §-a szerinti menedékes;
+3. menekülő: az ukrajnai magyar állampolgár, a menedékes és a menedékesként történő elismerését kérő;
+4. ukrajnai magyar állampolgár: az Ukrajnában állandó lakóhellyel rendelkező és 2022. február 24-én vagy azt
+követően Ukrajnából érkező magyar állampolgár.
+2. § (1) Az egészségügyi szolgáltató a Társadalombiztosítási Azonosító Jellel (a továbbiakban: TAJ szám) nem rendelkező
+beteg esetében – a beteg közreműködésével – meggyőződik arról, hogy a beteg menekülőnek minősül-e.
+Az egészségügyi szolgáltató e feladata ellátása során nyilatkoztatja a beteget, valamint menekülői minőség
+megállapítása érdekében jogosult megtekinteni a beteg (3) és (4) bekezdés szerinti okmányait.
+(2) A TAJ számmal nem rendelkező, menekülőnek minősülő beteg esetén az Elektronikus Egészségügyi Szolgáltatási Tér
+(a továbbiakban: EESZT) működtetője az adatok rögzítése érdekében a beteg számára az EESZT-ben
+az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény
+(a továbbiakban: Eüak.) 35/F. § (1) bekezdés a) pontja szerinti, a 3. §-ban meghatározott feltételeknek megfelelő
+azonosítót (a továbbiakban: technikai azonosító) hoz létre, amelyhez az egészségügyi szolgáltató a következőket
+rögzíti:
+a) azt a tényt, hogy a beteg menekülő,
+b) a menekülőnek minősülő beteg (3) és (4) bekezdés szerinti okmányának okmányazonosítóját, típusát,
+c) a menekülőnek minősülő beteg természetes személyazonosító adatait.
+(3) Menekülőnek minősülő beteg esetén az egészségügyi szolgáltató
+a) a menedékesként elismerését kérő esetén a menekültügyi hatóság által humanitárius célból kiállított
+tartózkodási engedély számát vagy a menekültügyi hatóság által kiállított „Adatlap humanitárius okból
+történő tartózkodási engedély hivatalból történő kiadásához”okirat számát,
+b) menedékesnek elismert esetén a menekültügyi hatóság által kiállított tartózkodási engedély számát,
+c) ukrajnai magyar állampolgár esetén a magyar hatóság által kiállított személyazonosító igazolvány úti
+okmányának típusát, okmányazonosítóját
+– amennyiben rendelkezésre áll – kezeli, és az EESZT-ben rögzíti.
+(4) Az egészségügyi szolgáltató valamennyi menekülőnek minősülő beteg esetén kezeli, és az EESZT-ben rögzíti
+az Ukrajna által kiállított úti okmányának okmányazonosítóját, típusát, ha azzal a beteg rendelkezik.
+(5) Az egészségügyi szolgáltató és az EESZT működtetője a (2)–(4) bekezdés szerinti adatokat a menekülőnek minősülő
+beteg egészségügyi ellátására vonatkozó, az Eüak.-ban meghatározott ideig kezeli.
+(6) A (2) bekezdés a) pontja szerinti adatot – a menekülőnek minősülő beteg nyilatkozata, valamint a (3) bekezdésben
+foglalt okmányok alapján – az EESZT közhitelesen tartalmazza.
+
+3. § (1) A technikai azonosítót úgy kell kialakítani, és a menekülőnek minősülő beteg adatait az EESZT-ben úgy kell
+rögzíteni, hogy a menekülőnek minősülő beteg 2. § (3) és (4) bekezdése szerinti okmányazonosító adatai – azok
+változása esetén – folyamatosan nyomon követhetőek legyenek.
+(2) Az EESZT működtetője biztosítja, hogy amennyiben a beteg a technikai azonosító kialakítását megelőzően részesült
+Magyarországon ellátásban, az általa megadott adatok alapján a korábbi ellátásaira vonatkozó adatok a technikai
+azonosítóval is elérhetőek legyenek.
+(3) A technikai azonosítót úgy kell továbbá kialakítani, hogy ha a menekülőnek minősülő beteg TAJ számot szerez, úgy
+az EESZT-ben a technikai azonosítóhoz tárolt adatai a TAJ száma útján is elérhetőek legyenek.
+(4) A technikai azonosítót a beteggel írásban – szükség esetén a betegdokumentációjával együtt – közölni kell.
+(5) A technikai azonosítót kizárólag a beteg, a beteg meghatalmazottja vagy törvényes képviselője, a beteget ellátó
+egészségügyi szolgáltató, valamint az 5. § (1) bekezdésében megjelölt szerv vagy személy ismerheti meg.
+(6) A technikai azonosítót az EESZT-ben úgy kell tárolni, hogy az megfeleljen az e §-ban foglalt követelményeknek.
+4. § (1) Ha a beteg TAJ számmal rendelkezik, de társadalombiztosítási jogviszonya nem rendezett, az egészségügyi
+szolgáltató köteles nyilatkoztatni arról, hogy menekülőnek minősül-e.
+(2) Ha az (1) bekezdés szerinti beteg menekülőnek minősül, az egészségügyi ellátás adatait a 2. § (2)–(4) bekezdése
+szerint kell rögzíteni, azzal, hogy az egészségügyi szolgáltató a technikai azonosító helyett a beteg TAJ számát
+rögzíti.
+5. § (1) A technikai azonosítót, a 2. § (2) bekezdés a)–c) pontja, a 2. § (4) bekezdése, valamint a 4. § (2) bekezdése
+szerinti adatokat – törvényben vagy veszélyhelyzetben az Alaptörvény 53. cikk (2) bekezdése alapján alkotott
+kormányrendeletben meghatározott, az ezen adatok megismerésére jogosult szerveken vagy személyeken kívül –
+a) a menedékes vagy a menedékesként elismerését kérő esetében az egészségügyi ellátás finanszírozása,
+valamint a menedékes vagy a menedékesként elismerését kérő felkutathatósága és ellenőrzése céljából
+a menekültügyi hatóság,
+b) az egészségügyi ellátás finanszírozása céljából az egészségbiztosítási szerv,
+c) járványügyi feladatai ellátása céljából a járványügyi hatóság,
+d) a közbiztonság fenntartása, valamint az országban tartózkodó menekülők felkutathatósága, ellenőrzése,
+valamint a rendvédelem biztosítása céljából a rendészetért felelős miniszter,
+e) Magyarország katonai biztonságának megőrzése céljából a honvédelemért felelős miniszter
+megismerheti.
+(2) Az (1) bekezdés szerinti szervek az (1) bekezdés szerinti adatokat – kivéve, ha törvény vagy veszélyhelyzetben
+az Alaptörvény 53. cikk (2) bekezdése alapján alkotott kormányrendelet ettől eltérő határidőt határoz meg –
+az adatkezelési cél fennállásáig, de legfeljebb az adatok megismerését követő egy évig kezelik.
+6. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
+(2) A 7. § az e rendelet kihirdetését követő 29. napon lép hatályba.
+7. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
+hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát
+veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
