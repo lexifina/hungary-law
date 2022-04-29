@@ -4,6 +4,6 @@
 
 (2) A (3) bekezdés szerinti tantárgyakat összesen legalább 32 órában kell oktatni.
 
-(3)[^8] Az állami célú légiközlekedés szakszemélyzete szakszolgálati engedélyeinek az elméleti vizsgára előírt tárgyait szakterületenként az állami célú légiközlekedés szakszemélyzetének szakszolgálati engedélyeiről szóló 16/1998. (X. 28.) HM–EüM együttes rendelet állapítja meg.
+(3)[^8] Az állami célú légiközlekedés szakszemélyzete szakszolgálati engedélyeinek az elméleti vizsgára előírt tárgyait szakterületenként az állami célú légiközlekedés szakszemélyzeteinek szakszolgálati engedélyeiről és képzésének szabályairól szóló 6/2022. (III. 30.) HM rendelet állapítja meg.
 
-[^8]: A 8. § (3) bekezdése a 12/2020. (VII. 21.) HM rendelet 7. §-ával megállapított szöveg.
+[^8]: A 8. § (3) bekezdése a 6/2022. (III. 30.) HM rendelet 135. §-ával megállapított szöveg.
