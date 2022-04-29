@@ -1,6 +1,6 @@
-## 66. §[^263] A családok támogatásaira vonatkozó egyes kormányrendeletek módosításáról szóló 786/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 26/A. §-t a Módr8. hatálybalépését[^264] megelőzően megkötött támogatási szerződések tekintetében is alkalmazni kell.
+## 67. §[^265] E rendeletnek az állam által fizetett költségtérítéssel kapcsolatban egyes kormányrendeletek módosításáról szóló 150/2022. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 45. § (2) bekezdését a Módr9. hatálybalépését[^266] követően benyújtott támogatás iránti kérelmekre kell alkalmazni.
 
 1. melléklet a 17/2016. (II. 10.) Korm. rendelethez
 
-[^263]: A 66. §-t a 786/2021. (XII. 27.) Korm. rendelet 10. §-a iktatta be.
-[^264]: A hatálybalépés időpontja 2022. január 1.
+[^265]: A 67. §-t a 150/2022. (IV. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^266]: A hatálybalépés időpontja 2022. április 29.
