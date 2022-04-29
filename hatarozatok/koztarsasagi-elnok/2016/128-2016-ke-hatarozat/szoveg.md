@@ -2,4 +2,4 @@ Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállás�
 
 KEH ügyszám: IV-4/02423-7/2016.
 
-[^1]: A 179/2019. (V. 8.) KE határozat alapján a köztársasági elnök dr. Kovács-Hegedűs Vera bírói kinevezését a 2019. május 1. napjától 2022. április 30. napjáig terjedő időtartamra meghosszabbította.
+[^1]: A 132/2022. (IV. 29.) KE határozat alapján a köztársasági elnök dr. Kovács-Hegedűs Vera bírói kinevezését a 2022. május 1. napjától 2025. április 30. napjáig terjedő időtartamra meghosszabbította.
