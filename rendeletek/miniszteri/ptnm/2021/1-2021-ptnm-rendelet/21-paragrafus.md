@@ -10,7 +10,7 @@ b) középvállalkozásnak nyújtott támogatás esetén 10 százalékponttal,
 
 c) kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal
 
-## növelhető.
+növelhető.
 
 (3) A támogatási intenzitás legfeljebb az elszámolható költségek 70%-áig növelhető.
 

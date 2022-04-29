@@ -11,3 +11,5 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 d) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.) és
 
 e) az Európai Bizottság SA.34770 (2012/N-2). számú határozata
+
+hatálya alá tartozó támogatást tartalmaz.

@@ -19,3 +19,5 @@ d) az egyéb szerkesztési költség (különösen korrektúrázás, javítás, 
 e) az elrendezés és nyomdai előkészítés költsége és
 
 f) a nyomtatás vagy elektronikus közzététel költsége
+
+számolható el.
