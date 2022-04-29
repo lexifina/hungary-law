@@ -66,7 +66,7 @@
 
 ## d) az 1. § (1) bekezdés b) pontja szerinti esetben a címzett nevét és címét, ahová a gabona leszállításra kerül, valamint
 
-## e) a gabona értékesítésének, illetve kivitelének tervezett, legfeljebb 2022. május 14. napjáig terjedő időszakát.
+## e)[^2] a gabona értékesítésének, illetve kivitelének tervezett, legfeljebb 2022. július 14. napjáig terjedő időszakát.
 
 ## (3) A bejelentést a NÉBIH honlapján közzétett formanyomtatványon kell megtenni.
 
@@ -116,13 +116,13 @@
 
 ## (2) A 9. § az e rendelet kihirdetését követő 15. napon lép hatályba.
 
-## 9. § (1) A Kormány e rendelet hatályát 2022. május 15-ig meghosszabbítja.
+## 9. § (1)[^3] A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztéséig meghosszabbítja.
 
-## (2) Ez a rendelet 2022. május 15-én hatályát veszti.
+## (2)[^4] Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát veszti.
 
 ## 10. § E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 83/2022. (III. 5.) Korm. rendelethez[^2]
+1. melléklet a 83/2022. (III. 5.) Korm. rendelethez[^5]
 
 Takarmányozási vagy élelmezésügyi ellátásbiztonság szempontjából stratégiai jelentőségű alapanyagok vagy termékek köre
 
@@ -148,4 +148,7 @@ Takarmányozási vagy élelmezésügyi ellátásbiztonság szempontjából strat
 
 | 10. | 12060099 | Más napraforgómag, nem vetési célra (kiv. a héj nélküli és a szürke és fehér csíkos héjú napraforgómagot) |
 
-[^2]: Az 1. melléklet a 108/2022. (III. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdés e) pontja a 163/2022. (IV. 28.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: A 9. § (1) bekezdése a 163/2022. (IV. 28.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: A 9. § (2) bekezdése a 163/2022. (IV. 28.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet a 108/2022. (III. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
