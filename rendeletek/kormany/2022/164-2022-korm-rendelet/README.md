@@ -1,0 +1,9 @@
+# 164/2022. (IV. 28.) Korm. rendelet
+
+a koronavírus elleni védettség igazolásáról szóló kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-164-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-04-29 | 2022-164-20-22.1 | 164/2022. (IV. 28.) Korm. rendelet |
