@@ -6,6 +6,6 @@ a) kamattámogatás és
 
 b) gyermekvállalási támogatás
 
-## [az a) és b) pont szerinti támogatások a továbbiakban együtt: babaváró támogatás] vehető igénybe.
+[az a) és b) pont szerinti támogatások a továbbiakban együtt: babaváró támogatás] vehető igénybe.
 
 (2) A kölcsön és a babaváró támogatás igénybevételéről szóló szerződés (a továbbiakban: kölcsönszerződés) 2022. december 31-éig köthető meg.

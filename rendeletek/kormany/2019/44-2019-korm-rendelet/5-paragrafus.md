@@ -26,7 +26,7 @@ ai)[^21]
 
 aj) adóazonosító jelüket
 
-## a kölcsönkérelem elbírálása, a kölcsönszerződés megkötése, a kölcsön folyósítása és a jogszerű igénybevétel ellenőrzése céljából a hitelintézet kezelje, és továbbítsa a kincstár, az állami adóhatóság, a kormányhivatal részére, és
+a kölcsönkérelem elbírálása, a kölcsönszerződés megkötése, a kölcsön folyósítása és a jogszerű igénybevétel ellenőrzése céljából a hitelintézet kezelje, és továbbítsa a kincstár, az állami adóhatóság, a kormányhivatal részére, és
 
 b)[^22] az a) pont szerinti adataikat a kincstár, az állami adóhatóság, a kormányhivatal az e rendeletben meghatározott feladataik ellátása céljából kezelje, továbbá a kincstár a babaváró támogatás folyósításához nyilvántartsa.
 
@@ -64,7 +64,7 @@ h)[^30] az Ebtv. 42/E. §-a alapján megállapított gyermekgondozási díj foly
 
 i)[^31] a 4. § (1a), illetve (2b) bekezdése szerinti feltételek fennállását házassági anyakönyvi kivonattal, valamint halotti anyakönyvi kivonattal
 
-## kell igazolni.
+kell igazolni.
 
 (6) Az igénylők által benyújtott nyilatkozatok, okiratok valódiságát – ha a hitelintézettől elvárható gondosság tanúsítása mellett azok hamis vagy hamisított volta nem ismerhető fel – vélelmezni kell.
 

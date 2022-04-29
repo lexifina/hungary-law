@@ -4,7 +4,7 @@
 
 (2) A hitelintézet a babaváró támogatásokat a kincstár honlapján található adatszolgáltatási felületen (a továbbiakban: eAdat) elérhető tájékoztató szerinti formában tartja nyilván.
 
-(3) A hitelintézetet az e rendelet szerinti feladatok ellátásáért az általa jogszerűen folyósított kölcsön összege után 0,8%-os mértékű, a december 31-én fennálló állomány után február 28-áig 0,3%-os mértékű költségtérítés illeti meg, amelyet a babaváró támogatásokkal együtt számol el a kincstárral.
+(3)[^85] A hitelintézetet az e rendelet szerinti feladatok ellátásáért az általa jogszerűen folyósított kölcsön összege után 50 000 forint költségtérítés illeti meg, amelyet a babaváró támogatásokkal együtt számol el a kincstárral.
 
 (4) A hitelintézet a tárgyhónapra legfeljebb az előző hónapban ténylegesen kifizetett és elszámolt babaváró támogatásokkal azonos összegű előleget igényelhet utólagos elszámolási kötelezettséggel.
 
@@ -21,3 +21,5 @@
 (10) Ha a kincstár az ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti.
 
 (11) Az elszámolási kötelezettséget a hitelintézet megbízásából másik hitelintézet is teljesítheti. A megbízási szerződésnek ki kell terjednie a megbízott hitelintézet felelősségére.
+
+[^85]: A 23. § (3) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 5. § c) pottja szerint módosított szöveg.

@@ -56,7 +56,7 @@ ca) a kölcsönkérelmet az örökbefogadást engedélyező határozat végleges
 
 cb) a kölcsönkérelem korábban együttes igénylőkként történő benyújtását követően a kölcsönszerződést – akár a gyermek örökbefogadását engedélyező határozat véglegessé válását megelőzően, akár azt követően – egyedüli támogatott személyként is megkötheti,
 
-## azzal, hogy ebben az esetben az e rendeletben szereplő igénylőkre, illetve támogatott személyekre vonatkozó rendelkezéseket az egyedülálló igénylőre, illetve támogatott személyre kell alkalmazni.
+azzal, hogy ebben az esetben az e rendeletben szereplő igénylőkre, illetve támogatott személyekre vonatkozó rendelkezéseket az egyedülálló igénylőre, illetve támogatott személyre kell alkalmazni.
 
 (2) Az (1) bekezdés c) pontja szerinti 3 éves időszak számítása során
 
