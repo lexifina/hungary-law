@@ -1,4 +1,4 @@
-## 97. §[^282] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 158/2022. (IV. 19.) Korm. rendelettel (a továbbiakban: Módr89.) módosított 2. mellékletében foglalt táblázat B:85 mezőjét a Módr89. hatálybalépésekor[^283] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 99. §[^287] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 168/2022. (IV. 28.) Korm. rendelettel (a továbbiakban: Módr91.) megállapított 6/Z. § (9) bekezdését a Módr91. hatálybalépésekor[^288] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^284] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^289] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^282]: A 97. §-t a 158/2022. (IV. 19.) Korm. rendelet 1. §-a iktatta be.
-[^283]: A hatálybalépés időpontja 2022. április 20.
-[^284]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^287]: A 99. §-t a 168/2022. (IV. 28.) Korm. rendelet 2. §-a iktatta be.
+[^288]: A hatálybalépés időpontja 2022. április 29.
+[^289]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

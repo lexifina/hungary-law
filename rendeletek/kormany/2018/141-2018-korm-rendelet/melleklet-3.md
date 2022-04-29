@@ -206,6 +206,8 @@
 
 | 96. | Konferencia Központ létrehozása | Budapest I. kerület, belterület 6667 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^286]
+| 97. | Kapacitásbővítő és telephelyfejlesztő beruházás Monor területén | Monor közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 4910/2 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^286]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^291]
+
+[^291]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

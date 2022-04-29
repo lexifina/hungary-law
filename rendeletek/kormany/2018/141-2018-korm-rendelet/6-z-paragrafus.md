@@ -46,8 +46,11 @@ i) a telek homlokvonalától mért 10 méteres sávban parkoló, a terepszint al
 
 (8) A (6) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
+(9)[^105] A 2. mellékletben foglalt táblázat B:78 mezőjében megjelölt ingatlanok tekintetében a 2. mellékletben foglalt táblázat 78. sora szerinti beruházás esetében a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 21. § (3) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy a természetvédelmi hatóság – a természeti emlék megőrzése mellett – a földmunkával járó beruházást és a feltárást engedélyezheti.
+
 [^100]: A 6/Z. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
 [^101]: A 6/Z. § (2) bekezdés nyitó szövegrésze a 47/2022. (II. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^102]: A 6/Z. § (2) bekezdés d) pontja a 112/2022. (III. 21.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^103]: A 6/Z. § (4) bekezdése a 112/2022. (III. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^104]: A 6/Z. § (4a) bekezdését a 112/2022. (III. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^105]: A 6/Z. § (9) bekezdését a 168/2022. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
