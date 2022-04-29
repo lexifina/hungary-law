@@ -8,4 +8,6 @@ Felelős: belügyminiszter
 
 Határidő: azonnal
 
-3. visszavonja a Magyarország felülvizsgált, 2015. évi vízgyűjtő-gazdálkodási tervéről szóló 1155/2016. (III. 31.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
