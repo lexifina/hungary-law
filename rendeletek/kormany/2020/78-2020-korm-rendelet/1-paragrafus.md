@@ -8,4 +8,6 @@ b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműfejlesztés
 
 (3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlan területe.
 
-(4) A Kormány a Beruházás során építési tevékenységgel érintett, az (1) bekezdésben meghatározott ingatlan közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát e rendelet hatálybalépésétől számított 24 hónapban határozza meg.
+(4)[^1] A Kormány a Beruházás során építési tevékenységgel érintett, az (1) bekezdésben meghatározott ingatlan közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát e rendelet hatálybalépésétől számított 24 hónapban, továbbá 2022. május 1. napjától 2022. október 31. napjáig határozza meg.
+
+[^1]: Az 1. § (4) bekezdése a 169/2022. (IV. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.

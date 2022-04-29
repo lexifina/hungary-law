@@ -1,4 +1,4 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^2] E rendeletnek a Dunamelléki Református Egyházkerület Székház és Konferencia Központ épületének felújításával, átalakításával és a hozzá kapcsolódó Ráday Felsőoktatási Diákotthon újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 78/2020. (III. 31.) Korm. rendelet módosításáról szóló 169/2022. (IV. 28.) Korm. rendelettel (a továbbiakban: Módr1.) módosított 1. § (4) bekezdését a Módr1. hatálybalépésekor[^3] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 78/2020. (III. 31.) Korm. rendelethez
 
@@ -45,3 +45,6 @@
 20. azok az 1–19. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 7. §-t a 169/2022. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2022. április 29.
