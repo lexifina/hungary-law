@@ -1,0 +1,4484 @@
+# Az Országos Atomenergia Hivatal elnökének 2/2022. (IV. 29.) OAH rendelete
+
+Magyar Közlöny 2022. évi 72. szám, 2022. április 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6mEm0letI8HlEc88KlkX625ef4fbb94db/dokumentumok/8902c07ee75f878c5b6c1eb967e8b25fdef9405a/letoltes)
+
+---
+
+Az Országos Atomenergia Hivatal elnökének 2/2022. (IV. 29.) OAH rendelete
+az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről
+Az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (12) bekezdés 3–7. pontjában kapott felhatalmazás alapján,
+az atomenergiáról szóló 1996. évi CXVI. törvény 6/J. § (1) bekezdés j) pontjában meghatározott feladatkörömben eljárva
+a következőket rendelem el:
+I. FEJEZET
+ÁLTALÁNOS RENDELKEZÉSEK
+1. A rendelet hatálya
+1. § (1) E rendelet hatálya – a (2)–(4) bekezdésben foglalt kivételekkel – kiterjed
+a) a radioaktív anyag alkalmazására,
+b) az ionizáló sugárzást létrehozó és 5 kilovoltnál (kV) nagyobb elektromos feszültséggel működő alkatrészeket
+tartalmazó elektromos berendezések gyártására és üzemeltetésére,
+c) azokra az emberi tevékenységekre, amelyeket olyan természetes sugárforrások jelenlétében végeznek,
+amelyek a munkavállalók vagy a lakosság sugárterhelésének jelentős megnövekedését okozzák, kiemelten:
+ca) a légi járművek és űrjárművek üzemeltetésére, a személyzet sugárterhelésének szempontjából,
+cb) a természetben előforduló radionuklidokat tartalmazó anyagok feldolgozására,
+d) a munkavállalókat és a lakosság tagjait érő beltéri radon-expozícióra,
+e) az építőanyagokból származó külső sugárterhelésre,
+f) egy veszélyhelyzet vagy korábbi emberi tevékenység utóhatásaként érvényesülő fennálló sugárterhelés
+eseteire,
+g) a lakosság tagjai vagy a munkavállalók egészségének védelmét szolgáló intézkedéseket szükségessé tévő
+veszélyhelyzeti sugárzási helyzetekre való felkészülésre, az ilyen helyzetek elhárításának megtervezésére és
+kezelésére,
+h) radioaktív anyagok és ionizáló sugárzást létrehozó berendezések forgalmazására,
+i) azokra, akik az a)–f) pontok és a h) pont szerinti tevékenység végzéséhez engedélykérelmet nyújtanak be,
+vagy bejelentést tesznek, és
+j) a sugárvédelmi hatósági eljárásokra.
+(2) E rendelet előírásai
+a) a nukleáris létesítmények és radioaktívhulladék-tárolók esetében a radioaktív anyagok alkalmazására
+vonatkozó, a 44. §-ban meghatározott követelmények, valamint az 53–62. §-ban és a 64. és a 65. §-ban
+meghatározott hatósági eljárásokra vonatkozó előírások – az 55. § (1) bekezdés 19. pontja és az 57. §
+(21) bekezdése szerinti eljárás kivételével – kizárólag a nukleáris rendszerek és rendszerelemek közé nem
+tartozó sugárforrások alkalmazására terjednek ki,
+b) a radioaktív anyagok szállítására vonatkozó nemzetközi egyezmények alkalmazása során a szállításban
+sugárveszélyes tevékenységet végzőkre a következők szerint terjednek ki:
+ba) az 1–4. §-ban meghatározott általános rendelkezések,
+bb) az 5–17. §-ban meghatározott sugárvédelmi követelmények,
+bc) a 18–21. §-ban meghatározott sugárvédelmi képzés és továbbképzés követelményei,
+bd) a 38. §-ban meghatározott sugárvédelmi szakértő bevonására vonatkozó előírások,
+c) a radioaktív sugárforrások csomagolását és töltését, a szennyezett csomagolóeszközök tisztítását és
+a radioaktív szennyezettség mentesítését végzőkre a következők szerint terjednek ki:
+ca) a 22–40. §-ban meghatározott, engedélyesre vonatkozó követelmények és a munkavállalókra
+vonatkozó kötelezettségek,
+cb) a 41–45. §-ban meghatározott radioaktív anyagok alkalmazására vonatkozó követelmények,
+cc) az 53–68. §-ban meghatározott hatósági rendszert érintő követelmények és eljárások.
+(3) Ha az atomenergiáról szóló törvény honvédségi alkalmazásáról szóló miniszteri rendelet eltérően nem
+rendelkezik, e rendelet hatálya az (1) bekezdés a)–g) és i) pontjában foglalt tevékenységek és eljárások esetében
+az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 26. §-ában meghatározott honvédelmi
+ágazati feladatokra is kiterjed.
+
+(4) Ha a honvédelmi ágazat sugárvédelmi hatósági feladatairól szóló kormányrendelet eltérően nem rendelkezik,
+e rendelet hatálya az (1) bekezdés j) pontja szerinti eljárás esetében az Atv. 26. §-ában meghatározott honvédelmi
+ágazati feladatokra is kiterjed.
+(5) Nem terjed ki e rendelet hatálya
+a) arra a radioaktív anyagra, amelyben az előforduló – az 1. melléklet 1.1. pontjában szereplő táblázat
+A oszlopában felsorolt – radionuklid aktivitás-koncentrációja nem haladja meg az 1. melléklet 1.1. pontjában
+szereplő táblázat B oszlopában szereplő általános mentességi aktivitás-koncentráció értéket úgy, hogy
+amennyiben a radioaktív anyag egynél több radionuklidot tartalmaz, vagy egy sugárveszélyes munkahelyen
+többféle radionuklid kerül alkalmazásra, minden egyes radionuklid aktivitás koncentrációja és a hozzá tartozó
+mentességi szint hányadosaiból képzett összegre teljesüljön az a feltétel, hogy a hányadosokból képzett
+összeg nem eredményez 1-nél nagyobb értéket,
+b) egy sugárveszélyes munkahelyen vagy egy adott sugárveszélyes tevékenység keretében bármely
+időpontban birtokolt radioaktív anyagra, amelyben az előforduló – 1. melléklet 1.1. pontjában foglalt táblázat
+A oszlopában felsorolt – radionuklid aktivitása nem haladja meg az 1. melléklet 1.1. pontjában foglalt táblázat
+D oszlopában szereplő mentességi aktivitás értéket úgy, hogy amennyiben a radioaktív anyag egynél több
+radionuklidot tartalmaz, vagy többféle radionuklid kerül alkalmazásra, minden egyes radionuklid aktivitása
+és a hozzá tartozó mentességi szint hányadosaiból képzett összegre teljesül, hogy az nem eredményez 1-nél
+nagyobb értéket,
+c) az ionizáló sugárzást létrehozó, az 5 kV-nál nem nagyobb elektromos feszültséggel működő alkatrészeket
+tartalmazó elektromos berendezésekre,
+d) az alábbi elektromos készülékekre:
+da) elektronmikroszkóp,
+db) legfeljebb 30 kilovolt (kV) elektromos feszültséggel működő elektromos készülék, ha normál üzemi
+körülmények között bármely hozzáférhető felülettől számított 0,1 m távolságban legfeljebb 1 µSv/h
+környezeti dózisegyenérték-teljesítményt idéz elő,
+dc) képmegjelenítésre szolgáló katódsugárcső, ha normál üzemi körülmények között bármely
+hozzáférhető felülettől számított 0,1 m távolságban legfeljebb 1 µSv/h környezeti dózisegyenérték-
+teljesítményt idéz elő,
+e) rendeltetésszerű használat esetén azon fogyasztási cikkre,
+ea) amelyben a radioaktív anyag mennyisége nem haladja meg a (3) bekezdés b) pontjában
+meghatározott mennyiséget,
+eb) amely típusának rendeltetésszerű használatát az illetékes hatóság – a használat utáni kezelés
+módjának meghatározásával – mentesítette a sugárvédelmi hatósági felügyelet alól, vagy
+ec) amely fogyasztási cikket 2018. március 31. előtt vettek használatba, vagy amely fogyasztási cikk
+ugyanezen időpont előtt került kereskedelmi forgalomba
+abban az esetben, ha teljesíti a 6. § (1)–(3) bekezdésében meghatározott feltételeket, azzal a kitétellel, hogy
+nem tekinthető rendeltetésszerű használatnak a fogyasztási cikkek előállítására, termelésére, szerelésére,
+javítására, forgalomba hozatalára, nagykereskedelmi forgalmazására, nagykereskedelmi tárolására irányuló
+ipari, illetve szolgáltatói tevékenység,
+f) az engedélyezett kibocsátásból származó radioaktívan szennyezett anyagra.
+(6) Nem terjed ki e rendelet hatálya
+a) a természetes sugárforrásból, így az emberi testben megtalálható természetes radionuklidoktól és
+a földfelszínen észlelhető kozmikus sugárzástól eredő sugárterhelésre,
+b) a repülés vagy űrutazás során a lakosság tagjait és a munkavégzésük során utazókat – a légi és az űrjárművek
+személyzetének kivételével – érő kozmikus sugárzásra, valamint
+c) a bolygatatlan földkéregben a nem emberi tevékenység eredményeként jelen lévő természetes eredetű
+radionuklidok által kibocsátott, a földfelszínen jelentkező külső sugárterhelésre.
+(7) Az e rendelet szerinti képesítések, vizsgák és munkavédelmi szabályok nem mentesítik az engedélyest és
+a munkavállalókat a más jogszabályban meghatározott munkavédelmi, képesítési kötelezettség teljesítése alól.
+(8) E rendelet rendelkezéseit a nukleáris létesítményre – ezen rendelkezések sérelme nélkül – a nukleáris
+létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló rendelet
+(a továbbiakban: NBSZ R.), valamint a radioaktívhulladék-tároló létesítményre a radioaktív hulladékok átmeneti
+tárolását vagy végleges elhelyezését biztosító tároló létesítmények biztonsági követelményeiről és az ezzel
+
+összefüggő hatósági tevékenységről szóló rendelet (a továbbiakban: TBSZ R.) rendelkezéseivel összhangban kell
+értelmezni.
+2. § (1) E rendelet hatálya alá tartozó eljárásokban sugárvédelmi hatóságként az Országos Atomenergia Hivatal
+(a továbbiakban: OAH) jár el. Az OAH gondoskodik az ionizáló sugárzás miatti sugárterhelésből származó
+veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint
+a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon
+kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom irányelv szerinti kapcsolattartó kijelöléséről.
+(2) E rendelet rendelkezéseit – az 54. §-ban meghatározott előírásoktól és feltételektől eltekintve – nem kell alkalmazni:
+a) azokra az ionizáló sugárzást létrehozó berendezéstípusokra vagy radioaktív sugárforrást tartalmazó
+készüléktípusokra, amelyek rendeltetésszerű alkalmazását az OAH engedélyezési eljárásban mentesítette,
+b) azokra az egyedi, ionizáló sugárzást létrehozó berendezésekre vagy radioaktív sugárforrást tartalmazó
+készülékekre, amelyek rendeltetésszerű alkalmazását az OAH engedélyezési eljárásban mentesítette,
+c) azon tevékenységekre, amelyeket az OAH engedélyezési eljárásban mentesített, amennyiben
+a tevékenységből eredően összes előrelátható körülmény figyelembevételével a lakosság bármely tagját
+várhatóan érő effektív dózis legfeljebb 30 μSv/év, és a kis valószínűségű események bekövetkezésekor
+az effektív dózis 1 mSv/év alatt marad, vagy a természetben előforduló radionuklidok esetén az ezekből
+származó effektív dózis legfeljebb 1 mSv/év nagyságrendű. A feltételezett események köréből kiszűrhetők
+az olyan események, amelyek bekövetkezési gyakorisága 10–6/évnél kisebb.
+(3) E rendelet rendelkezéseit – a 60. § (1) bekezdés a) pontjában meghatározott előírásoktól és feltételektől eltekintve –
+nem kell alkalmazni azokra a tevékenységekre, amelyek során az alkalmazott radioaktív anyagban előforduló,
+az 1. melléklet 1.1. pontjában foglalt táblázat A oszlopában felsorolt radionuklid aktivitás-koncentrációja nem
+haladja meg az 1. melléklet 1.1. pontjában foglalt táblázat C oszlopában szereplő aktivitás-koncentráció értéket,
+azzal, hogy ha a radioaktív anyag egynél több radionuklidot tartalmaz, vagy egy sugárveszélyes munkahelyen
+többféle radionuklid kerül alkalmazásra, minden egyes radionuklid aktivitás-koncentrációja és a hozzá tartozó
+mentességi szint hányadosaiból képzett összegre teljesül, és az nem eredményez 1-nél nagyobb értéket, valamint
+a radioaktív anyag tömege kisebb, mint 1 tonna.
+(4) A (2) bekezdés a) és b) pontjában meghatározott esetekben az ionizáló sugárzást létrehozó berendezések
+előállítása, a burkolat megbontásával járó szerelése, javítása vagy átalakítása, az ionizáló sugárzást létrehozó,
+valamint a radioaktív sugárforrást tartalmazó készülékek előállítása, termelése, szerelése, javítása, tárolása,
+hulladékként való ártalmatlanítása vagy a radioaktív anyag kiszerelése nem minősül rendeltetésszerű használatnak.
+(5) A (2) bekezdés a) és b) pontja szerinti mentesítés az engedélyben szereplő feltételek fennállásáig vagy a mentesítés
+időtartamának lejártáig vagy visszavonásáig érvényes.
+(6) Az OAH a (2) bekezdés a) pontja szerint mentesíthető ionizáló sugárzást létrehozó berendezések, valamint
+a radioaktív sugárforrást tartalmazó készülékek típusait és a hulladékként való ártalmatlanítás feltételeit a honlapján
+naprakészen közzéteszi.
+2. Felszabadítás
+3. § (1) Radioaktív anyag bejelentési kötelezettséggel felszabadítható a sugárvédelmi hatósági felügyelet alól, ha:
+a) a radioaktív anyag aktivitás-koncentrációja az általános mentességi aktivitás-koncentráció alá csökkent, vagy
+b) zárt sugárforrás esetén a 100 napnál rövidebb felezési idejű sugárforrás aktivitása nem haladja meg
+a vonatkozó mentességi aktivitást, a 100 napnál hosszabb felezési idejű sugárforrás aktivitása nem haladja
+meg a vonatkozó mentességi aktivitás 1/10-ét és transzurán elemek aktivitása nem haladja meg a vonatkozó
+mentességi aktivitás 1/100-át. Ha a radioaktív anyag egynél több radionuklidot tartalmaz, minden egyes
+radionuklid aktivitása és a hozzá tartozó mentességi szint hányadosaiból képzett összegre kell teljesülnie
+a kritériumnak.
+(2) Radioaktív anyag az 55. § (1) bekezdés 17. pontja szerinti engedélyezési eljárás keretében felszabadítható
+a sugárvédelmi hatósági felügyelet alól, amennyiben
+a) mesterséges radionuklidok esetében az újrafelhasználásból, újrahasznosításból vagy nem veszélyes
+hulladékként történő ártalmatlanításából (beleértve az égetést) származó, a lakosság bármely tagját érő
+egyéni évi sugárterhelés nem haladja meg a 30 µSv effektív dózist, és a kis valószínűségű események
+bekövetkezésekor az effektív dózis 1 mSv/év alatt marad, vagy
+
+b) természetben előforduló radionuklidok esetén – a (3) bekezdésben foglalt kivétellel – a tevékenységből
+egy személyt érő többlet effektív dózis legfeljebb 1 mSv/év,
+és az a) vagy a b) pont szerinti elemzésekben figyelembe vették a sugárveszélyes munkahelyről a már korábban
+felszabadított anyagmennyiségek hatásait.
+(3) A természetben előforduló radionuklidok esetében, ha azok felhasználása radioaktív tulajdonságaik,
+hasadóképességük vagy hasadóképes anyaggá való átalakíthatóságuk miatt történik, az (1) és (2) bekezdés szerinti
+felszabadítás során a mesterséges radionuklidokra vonatkozó kritériumokat kell alkalmazni.
+(4) Az OAH a felszabadított anyagok mennyiségéről és újrafelhasználásának, ártalmatlanításának módjáról
+nyilvántartást vezet. Az adott helyen kezelt felszabadított anyagok mennyiségét, valamint az azokból származó
+lakossági sugárterhelés növekményét az OAH figyelembe veszi az 55. § (1) bekezdés 17. pontja szerinti
+engedélyezési eljárás során.
+(5) A radioaktív anyagok szándékos hígítása, darabolása, szétosztása vagy inaktív anyaggal való keverése
+a felszabadítás érdekében nem megengedett, kivéve, ha ezt az OAH az 53. § (1) bekezdés 17. pontja szerinti
+engedélyezési eljárás során engedélyezi.
+3. Értelmező rendelkezések
+4. § (1) E rendelet alkalmazásában
+ 1. aktiválás: olyan eljárás, amelynek során stabil nuklidot radionukliddá alakítanak, a nuklidot tartalmazó anyag
+részecskékkel vagy nagy energiájú fotonokkal történő besugárzásával;
+ 2. aktivitás: egy adott energiaállapotban lévő, adott mennyiségű radionuklidban egy adott időpontban
+bekövetkező időegységenkénti magátalakulások várható száma; az aktivitás jele A;
+ 3. aktivitás-koncentráció: az anyagban előforduló radionuklid egységnyi tömegre vonatkoztatott aktivitása,
+egysége: Bq/kg;
+ 4. baleseti sugárterhelés: veszélyhelyzeti munkavállalónak nem minősülő személyeket baleset következtében
+érő sugárterhelés;
+ 5. becquerel: az aktivitás mértékegysége, jele Bq; egy becquerel másodpercenként egy magátalakulásnak felel
+meg: 1 Bq = 1/s;
+ 6. besugárzás: olyan cselekmény, vagy állapot, amelynek következtében valakit a testén kívülről (külső
+sugárterhelést okozó) vagy belülről (belső sugárterhelést okozó) eredő ionizáló sugárzás ér;
+ 7. bevitel: a külső környezetből az emberi testbe különféle módon bekerült valamely radionuklid összes
+aktivitása;
+ 8. dekontaminálás: szennyeződés teljes vagy részleges eltávolítása e célra alkalmazott fizikai, kémiai vagy
+biológiai eljárással;
+ 9. dozimetriai szolgáltató: olyan személy, szervezeti egység vagy szervezet, aki vagy amely elvégzi a személyi
+dozimetriai műszerek hitelesítését, azokkal méréseket végez, vagy értékeli a mért eredményeket, illetve
+radioaktivitást mér az emberi testben vagy biológiai mintákban, megállapítja a dózisok nagyságát, továbbá
+akinek vagy amelynek ilyen irányú eljárási jogosultságát hatóság elismeri;
+10. dóziskorlát: az az effektív dózis, lekötött effektív dózis vagy egyenértékdózis, amelyet egy adott időszakban
+az egyént érő sugárterhelés nem haladhat meg;
+11. dózismegszorítás: személyi dózis felső határértékeként előzetesen megállapított megszorítás, amely
+behatárolja az optimálási eljárás során egy adott sugárforrás esetében egy tervezett sugárzási helyzetben
+figyelembe vehető választási lehetőségeket;
+12. effektív dózis: külső és belső sugárterhelés következtében a test összes szövetét és szervét érő
+egyenértékdózisoknak a wT testszöveti tényezőkkel súlyozott összege; az effektív dózis jele E;
+13. egészségkárosodás: sugárzás hatására az élettartam és életminőség csökkenése a lakosság körében, beleértve
+a szöveti károsodásból, a daganatos betegségekből és a súlyos genetikai rendellenességekből eredő
+csökkenést is;
+14. egyenértékdózis: a T szövetet vagy szervet érő különböző típusú és minőségű sugárzásoknak a T szövetre
+vagy szervre átlagolt elnyelt dózisai megfelelő sugárzási minőségtényezőkkel súlyozott összege;
+az egyenértékdózis jele H
+T
+;
+15. egyenértékdózis-teljesítmény: A H
+T
+egyenértékdózis dt idő alatti dH
+T
+növekménye és az dt idő hányadosa,
+egysége: sievert per másodperc (Sv/s);
+
+16. ellenőrzött terület: olyan terület, amelyre a sugárvédelem érdekében, vagy a radioaktív szennyeződés
+terjedésének megakadályozása érdekében különleges szabályok vonatkoznak, és amely területre történő
+belépés ellenőrzés mellett történik;
+17. elnyelt dózis: az egységnyi tömegű anyagban elnyelt sugárzási energia; az elnyelt dózis jele D;
+18. építőanyag: olyan termék, amelynek rendeltetése, hogy épületekbe vagy épületek részeibe állandó jelleggel
+beépítsék, és amelynek tulajdonságai befolyásolják az épületben tartózkodók ionizáló sugárzásból eredő
+sugárterhelését;
+19. felelős egészségügyi szakember: a betegek ionizáló sugárzás alkalmazásával járó kivizsgálásában vagy
+kezelésében közvetlenül vagy közvetve részt vevő nem-orvos szakember, aki tevékenységéért és annak
+következményeiért felelősséggel tartozik;
+20. felhasználási idő: az OAH által meghatározott, első alkalommal a szolgálati időhöz igazodó időtartam,
+melynek meghosszabbítását a sugárvédelmi hatóság – zártságvizsgálat és szakértői elemzés alapján –
+kérelemre engedélyezi;
+21. felügyelt terület: az ionizáló sugárzás elleni védelem vagy a radioaktív szennyeződés terjedésének
+megakadályozása érdekében felügyelet alatt álló terület;
+22. felvétel: az emberi testbe a külső környezetből bekerült vagy bevitt radionuklidnak a testnedvek által felvett
+összaktivitása;
+23. foglalkozás-egészségügyi szolgáltató: olyan egészségügyi szakember vagy szervezet, akinek vagy amelynek
+a sugárterhelésnek kitett munkavállalók foglalkozás-egészségügyi alapellátásra vonatkozó jogosultsága
+szerepel az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról szóló miniszteri rendelet
+szerinti nyilvántartásban;
+24. foglalkozási sugárterhelés: a munkavállalókat, gyakornokokat és tanulókat munkavégzésük során érő
+sugárterhelés;
+25. fogyasztási cikk: olyan készülék, gyártmány vagy késztermék, amelyben szándékosan egy vagy több fajta
+radionuklidot helyeztek el, vagy aktiválás útján egy vagy több fajta radionuklidot hoztak létre, vagy amely
+ionizáló sugárzást hoz létre, és amelyet a lakosságnak külön felügyelet vagy utólagos hatósági ellenőrzés
+nélkül hoznak forgalomba vagy bocsátanak rendelkezésre;
+26. gray: az elnyelt dózis mértékegysége, jele Gy; egy gray egy joule per kilogrammnak felel meg: 1 Gy = 1 J/kg;
+27. gyakornok: adott szakmai készség begyakorlása céljából az engedélyesnél képzésben vagy oktatásban részt
+vevő személy;
+28. gyorsító: olyan berendezés vagy létesítmény, amelyben részecskéket gyorsítanak, és a kibocsátott ionizáló
+sugárzás névleges energiája nagyobb mint 1 megaelektronvolt (MeV);
+29. használaton kívüli zárt sugárforrás: olyan zárt sugárforrás, amelyet már nem használnak, vagy amelyet már
+nem szándékoznak arra a tevékenységre használni, amelyre a jóváhagyást megadták;
+30. ICRU gömb: az International Commission on Radiation Units and Measurements nemzetközi szervezet által
+bevezetett olyan, az ionizáló sugárzás energiájának elnyelődése szempontjából az emberi test modellezésére
+szolgáló tárgy, amely 30 cm átmérőjű, 1 g/cm3 sűrűségű, szövetegyenértékű szilárd anyagból áll
+(76,2 tömeg% oxigén, 11,1% szén, 10,1% hidrogén és 2,6% nitrogén);
+31. INES-minősítés: az események Nemzetközi Atomenergia Ügynökség által létrehozott Nemzetközi Nukleáris
+és Radiológiai Esemény Skála szerint végrehajtott kategorizálása, amelynek célja a lakosság és a szakmai
+szervezetek közötti tájékoztatás elősegítése, az engedélyes és a nukleáris biztonsági hatóság között
+egyeztetett formában jelezve az esemény biztonsági jelentőségét;
+32. ionizáló sugárzást létrehozó berendezés üzemeltetése: az ionizáló sugárzást létrehozó berendezés üzembe
+helyezése, bevizsgálása, működtetése, összeszerelése, karbantartása, leszerelése, továbbá az üzemeltetésnek
+helyt adó sugárveszélyes munkahely létesítése, üzemeltetése, beleértve a dolgozók vagy lakosság
+sugárvédelmét biztosító építészeti, épületgépészeti berendezések karbantartását;
+33. kiemelt létesítmény: nukleáris létesítmény, uránbánya, radioaktívhulladék-tároló, A-szintű izotóplaboratórium;
+34. javító intézkedés: sugárforrás eltávolítása vagy nagyságának (aktivitásának vagy mennyiségének)
+csökkentése, illetve a besugárzási útvonalak megszüntetése vagy a hatásuk mérséklése, fennálló sugárzási
+helyzetben egyébként előálló dózisok kivédése vagy csökkentése érdekében;
+35. környezeti dózisegyenérték: a környezeti kiterjedt sugárforrásokból eredő dózis az ICRU gömb d mélységű
+pontjában; jele: H*(d);
+36. környezeti monitorozás: a környezetben jelen lévő radioaktív anyagokból eredő külső dózisteljesítmény
+folyamatos mérése, illetve a környezeti elemek radionuklid-koncentrációjának nyomon követése;
+
+37. külső munkavállaló: sugárterhelésnek kitett olyan munkavállaló, beleértve a gyakornokokat és a tanulókat is,
+akit nem a sugárveszélyes munkahelyért felelős engedélyes foglalkoztat, de aki az engedélyes felügyelete alá
+tartozó sugárveszélyes tevékenységet végez;
+38. lakossági sugárterhelés: az egyéneket érő sugárterhelés, a foglalkozási és az orvosi sugárterhelés kivételével;
+39. lakosság tagjai: olyan egyének, akiket lakossági sugárterhelés érhet;
+40. lekötött effektív dózis: jele E(τ), mértékegysége a sievert (Sv); az egy adott bevitel következtében az egyes
+szervekben és szövetekben lekötött HT(τ) egyenértékdózisok megfelelő w
+T
+testszöveti tényezőkkel képzett
+súlyozott összege;
+41. lekötött egyenértékdózis: azon egyenértékdózis-teljesítmény idő (t) szerinti integráltja, amely egy adott
+bevitel következtében egy adott személy T testszövetében, vagy szervében kialakul; jele H
+T
+(τ); a dóziskorlátok
+betartása érdekében az integrálást a bevitelt követő τ = 50 éves időintervallumra, csecsemők és gyermekek
+esetében pedig a 70 éves korukig hátralévő idő;
+42. fennálló sugárzási helyzet: olyan sugárzási helyzet, amely már a hatósági felügyeletről és ellenőrzésről
+szóló döntés meghozatalakor fennáll, és amely nem igényli sürgős intézkedés bevezetését vagy korábban
+meghozott sürgős intézkedés fenntartását;
+43. mentességi szint: az e rendeletben meghatározott és aktivitáskoncentrációban vagy összes aktivitásban
+kifejezett érték, melyet nem meghaladó mennyiségű radioaktív anyag alkalmazása nem tartozik a rendelet
+hatálya alá;
+44. mentességi szint alatti sugárforrás: olyan sugárforrás, melynek kezdeti aktivitása vagy aktivitás-koncentrációja
+önmagában (zárt sugárforrás esetén egy darabként, nyitott forrás esetén egy adott becsomagolt
+anyagmennyiségként) nem haladja meg a mentességi szint értékét;
+45. minőségbiztosítás: azon tervezett és rendszeres tevékenységek összessége, amelyek annak biztosításához
+szükségesek, hogy egy szervezet, rendszer, rendszerelem vagy eljárás kielégítő módon, az elfogadott
+normáknak megfelelően működjön;
+46. minőségellenőrzés: tervezési, koordinációs, végrehajtási tevékenységek olyan csoportja, amelynek
+célja a minőség fenntartása vagy javítása, és amely magában foglalja a berendezések összes olyan
+teljesítményjellemzőjének előírt szintű ellenőrzését, értékelését és karbantartását, amely meghatározható,
+mérhető és ellenőrizhető;
+47. munkahelyi monitorozás: a munkahelyeken lévő dózisteljesítmény folyamatos mérése, valamint a munkahely
+légterében és felületein lévő radioaktív koncentrációk nyomon követése;
+48. munkahelyi radioaktívhulladék-tároló: a radioaktív hulladék központi gyűjtésére és ideiglenes tárolására
+szolgáló, az atomenergia felhasználója által kezelt helyiség vagy építmény;
+49. nem helyhez kötött sugárveszélyes szolgáltatási tevékenység: olyan sugárveszélyes tevékenység, amelyet
+végzője egy másik engedélyes által felügyelt sugárveszélyes munkahelyen, a másik engedélyes által
+birtokolt radioaktív anyagok vagy ionizáló sugárzást létrehozó berendezések kezelésével végez, és amely
+tevékenységre az engedélyesnek nincs engedélye, különösen:
+a) más engedélyes radioaktív hulladékainak elszállításra és elhelyezésre való előkészítése a hulladék
+keletkezési helyszínén,
+b) radioaktív anyaggal szennyezett munkahelyek dekontaminálása, leszerelése,
+c) ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék telepítése,
+üzembe helyezése, sugárbiztonsági bevizsgálása vagy minőségellenőrzése, leszerelése vagy
+karbantartása;
+50. nemorvosi képalkotással járó besugárzás: emberek olyan képalkotási célú szándékos besugárzása, amelyben
+a besugárzás elsődlegesen nem a besugárzásnak kitett személy egészségére gyakorolt kedvező hatást
+célozza;
+51. normál üzemi sugárterhelés: sugárveszélyes munkahely rendeltetésszerű üzemeltetése vagy tevékenység
+szabályszerű végrehajtása során (ideértve a karbantartást, az ellenőrzést és a leszerelést is) várható
+sugárterhelés, beleértve azokat a még kezelhető, kisebb jelentőségű rendkívüli eseményeket is, amelyek
+normál üzemi körülmények között és az üzemeltetés közben várható helyzetekben bekövetkezhetnek;
+52. orvosi radiológiai: orvosi diagnosztikai és sugárterápiás eljárásokkal (ide értve a radiológiai diagnosztika,
+a nukleáris medicina, a sugárterápia és az intervenciós radiológia eljárásait), vagy az ionizáló sugárzás egyéb
+orvosi, tervezési, irányítási, ellenőrzési célú felhasználásaival kapcsolatos;
+53. orvosi radiológiai létesítmény: olyan létesítmény, ahol orvosi radiológiai eljárást végeznek;
+
+54. orvosi sugárterhelés: betegeket vagy tünetmentes személyeket az egészségük érdekében alkalmazott orvosi
+vagy fogorvosi diagnózis vagy kezelés részeként érő sugárterhelés, továbbá a gondozókat és a segítőket,
+valamint az orvosi vagy orvosbiológiai kutatásban részt vevő önkénteseket érő sugárterhelés;
+55. óvintézkedés: a javító intézkedésektől eltérő minden olyan intézkedés, amelynek célja, hogy elkerülhetővé
+tegye vagy mérsékelje azokat a dózisokat, amelyek egy veszélyhelyzeti sugárzási helyzetből vagy egy
+fennálló sugárzási helyzetből ilyen intézkedés hiányában kialakulnának;
+56. páciens: orvosi vizsgálatnak kitett beteg, vagy egészségének megóvása érdekében orvosi vizsgálaton
+megjelent tünetmentes személy;
+57. potenciális sugárterhelés: olyan lehetséges sugárterhelés, amelynek bekövetkezése nem várható biztosan, de
+véletlen jellegű események vagy eseménysorok, így berendezés-meghibásodások vagy üzemeltetői hibák
+következményeiként felléphet;
+58. radioaktív anyag alkalmazása: a radioaktív anyag tárolása, előállítása, termelése, feldolgozása, kezelése,
+felhasználása, a radioaktív sugárforrást tartalmazó készülék üzembe helyezése, üzemeltetése, karbantartása,
+az üzemeltetésnek helyt adó létesítmény létesítése, üzembe helyezése, továbbá üzemeltetése, valamint
+a dolgozók vagy lakosság sugárvédelmét biztosító építészeti, épületgépészeti berendezések karbantartása,;
+59. radioaktív sugárforrás: olyan sugárforrás, amely a radioaktivitás hasznosítása céljából radioaktív anyagot
+tartalmaz;
+60. radon: a Rn-222 radionuklid, adott esetben a bomlástermékeit is beleértve;
+61. radon-expozíció: a radon bomlástermékeiből származó sugárterhelés;
+62. reprezentatív személy: olyan személy, aki a népesség nagyobb sugárterhelésnek kitett egyedeire jellemző
+dózist kap, kivéve a szélsőséges vagy ritka szokásokkal bíró egyedeket;
+63. sievert: az egyenértékdózis és az effektív dózis mértékegysége; jele Sv; egy sievert egy joule per
+kilogrammnak felel meg: 1 Sv = 1 J/kg;
+64. sugárforrás: olyan anyag vagy berendezés, amely ionizáló sugárzás vagy radioaktív anyag kibocsátása révén
+sugárterhelést idézhet elő;
+65. sugárforrás-tartó: komponensek olyan együttese, amelynek rendeltetése, hogy burkolattal biztosítsa
+a sugárforrás környezettől való elzártságát, és amely nem a sugárforrás szerves része, hanem arra szolgál,
+hogy a szállítás és a kezelés közben árnyékolást, mechanikus és termikus védelmet biztosítson;
+66. sugárterápia: az ionizáló sugárzás gyógyító célú felhasználása, ideértve a terápiás célú nukleáris medicinát is;
+67. sugárterhelés: valamely külső vagy belső sugárforrás hatására az emberi szervezetben elnyelődő energia
+következtében kialakuló dózis;
+68. sugárterhelésnek kitett munkavállaló: olyan személy, aki akár önfoglalkoztatóként, akár munkáltató
+foglalkoztatásában az e rendelet által szabályozott tevékenységek részeként sugárterheléssel járó munkát
+végez, és olyan dózisokat kaphat, amelyek túlléphetik a lakossági sugárterhelésre vonatkozó dóziskorlátok
+valamelyikét;
+69. sugárvédelem: az ionizáló sugárzások nem kívánt hatásai elleni védelem;
+70. sugárvédelmi megbízott: az engedélyes által sugárvédelmi feladatok ellátásával és hatósági kapcsolattartással
+írásban megbízott személy;
+71. sugárvédelmi kategorizálás: sugárveszélyes tevékenységeknek az alkalmazott radioaktív anyag és az ionizálós
+sugárzást létrehozó berendezés paraméterei alapján történt kategorizálása;
+72. sugárveszélyes munkahely: a sugárvédelmi hatósági szabályozás egysége, amelynek engedélyese vagy
+bejelentője az atomenergia alkalmazója, amely a felügyelt és ellenőrzött területet, az ott alkalmazott
+radioaktív anyagokat, az ott üzemeltetett ionizáló sugárzást létrehozó berendezéseket, az ott végzett
+tevékenységet, az ott dolgozó munkavállalókat foglalja magába;
+73. sugárveszélyes munkakör: sugárveszélyes tevékenység végzésével járó munkakör;
+74. sugárveszélyes tevékenység: tervezett sugárzási helyzetként kezelt olyan emberi tevékenység, amely növelheti
+a sugárterhelésnek kitett munkavállalóknak valamely sugárforrásból származó sugárterhelését;
+75. személyi dózisegyenérték: a dózisegyenérték a testfelület egy meghatározott pontja alatt d mélységben
+elhelyezkedő lágy testszövetben; jele H
+p
+(d);
+76. szennyeződés: radioaktív anyagok szándékolatlan vagy nemkívánatos jelenléte felületeken, illetve szilárd
+anyagokban, folyadékokban vagy gázokban vagy az emberi testen;
+77. szolgálati idő: a zárt sugárforrás gyártója által meghatározott azon időtartam, amely alatt a felhasználásra
+vonatkozó szabályok betartásával a sugárforrás megfelel a tervezett igénybevételekkel szemben támasztott
+követelményeknek;
+
+78. sztenderd értékek és összefüggések: a Nemzetközi Sugárvédelmi Bizottság 116. sz. kiadványának
+4. és 5. fejezetében ajánlott értékek és összefüggések a külső sugárterhelésből származó dózisok
+becsléséhez, valamint a Nemzetközi Sugárvédelmi Bizottság 119. sz. kiadványának 1. fejezetében ajánlott
+értékek és összefüggések a belső sugárterhelésből származó dózisok becsléséhez, illetve a Nemzetközi
+Sugárvédelmi Bizottság 115. sz. kiadványában a radontól származó kockázatokra ajánlott értékek és
+összefüggések a radon és leányelemei belégzéséből származó dózisok becsléséhez, és a fenti kiadványok
+helyébe lépő újabb kiadványok;
+79. tárolás: radioaktív anyag – ideértve a kiégett fűtőelemeket is –, radioaktív sugárforrás vagy radioaktív
+hulladék valamely létesítményben való átmeneti elhelyezése a későbbi visszanyerés szándékával;
+80. természetben előforduló radioaktív anyag (NORM): a természetben előforduló, földi eredetű radionuklidokat
+tartalmazó anyag, valamint annak természetes vagy mesterséges, emberi hatásra történő bedúsult formája,
+amely a munkavállalók vagy a lakosság sugárterhelésének jelentős növekedését okozhatja;
+81. természetes sugárforrás: természetes, földi vagy kozmikus eredetű ionizáló sugárforrás;
+82. tervezett sugárzási helyzet: sugárforrás tervezett működtetéséből, vagy a besugárzási útvonalakat módosító
+emberi tevékenységből származó olyan sugárzási helyzet, amely embereket vagy a környezetet érintő
+besugárzást, normális vagy potenciális sugárterhelést okoz;
+83. toron: a Rn-220 radionuklid és adott esetben a bomlástermékei;
+84. űrjármű: emberi irányítású jármű, beleértve az űrhajót, amelyet 100 km-nél nagyobb tengerszint feletti
+magasságban való üzemelésre terveztek;
+85. veszélyhelyzet: olyan sugárforrással összefüggő szokatlan helyzet vagy esemény, amely azonnali intézkedést
+igényel annak érdekében, hogy mérsékeljék az emberek egészségét és biztonságát, az életminőséget,
+a tulajdont vagy a környezetet érintő súlyosan káros következményeket; illetve olyan veszély, amely ilyen
+súlyosan káros következményekkel járhat;
+86. veszélyhelyzet-elhárítási terv: olyan terv, amely feltételezett események és a vonatkozó forgatókönyvek
+alapján felvázolja a veszélyhelyzeti sugárzási helyzet esetén követendő megfelelő intézkedéseket;
+87. veszélyhelyzet-kezelési rendszer: az a jogi vagy igazgatási keret, amely meghatározza a veszélyhelyzeti
+felkészüléssel és elhárítással kapcsolatos felelősségi köröket és hatásköröket, valamint a veszélyhelyzeti
+sugárzási helyzetben történő döntéshozatal szabályait;
+88. veszélyhelyzeti foglalkozási sugárterhelés: veszélyhelyzeti sugárzási helyzetben a veszélyhelyzeti
+munkavállalókat érő sugárterhelés;
+89. veszélyhelyzeti munkavállaló: olyan személy, aki meghatározott feladatokat lát el veszélyhelyzet esetén, és aki
+a veszélyhelyzeti intézkedés során sugárterhelést kaphat;
+90. veszélyhelyzeti sugárzási helyzet: egy veszélyhelyzet következtében kialakuló sugárzási helyzet;
+91. végtagok: kéz, alkar, lábfej és boka;
+92. vonatkoztatási szint: veszélyhelyzetben vagy fennálló sugárzási helyzetben olyan mértékű effektív dózis,
+egyenértékdózis vagy aktivitáskoncentráció, amelynek meghaladása az adott sugárzási helyzetben nem
+kívánatos;
+93. zárt sugárforrás: olyan radioaktív sugárforrás, amely a radioaktív anyagot állandóan zárt tokozásban, vagy
+szorosan kötött szilárd formában tartja, hogy szabályszerű használat mellett radionuklidok ne juthassanak
+a környezetbe, és zártságát az ISO 9978 szabvány szerint vagy azzal egyenértékű műszaki biztonsági
+színvonalat biztosító követelményekkel igazolták.
+(2) Az (1) bekezdés 2., 12., 14., 17., 40. és 41. pontjában foglalt értelmező rendelkezéshez kapcsolódó számításokra
+vonatkozó szabályokat a 2. melléklet tartalmazza.
+(3) Ahol e rendelet szabvány alkalmazását írja elő, azon a szabvánnyal egyenértékű sugárbiztonsági színvonalat
+teljesítő más műszaki megoldást is érteni kell.
+(4) A nemzeti szabványosításról szóló törvény figyelembevételével az alapvető sugárbiztonsági követelményeket
+teljesítettnek kell tekinteni, ha a műszaki megoldásokra a vonatkozó sugárvédelmi tartalmú nemzeti szabványt
+alkalmazzák. A nemzeti szabványtól különböző megoldás alkalmazása esetén az engedélyes köteles – sugárvédelmi
+szakértő bevonásával – bizonyítani, hogy az általa alkalmazott megoldás sugárvédelmi szempontból legalább
+egyenértékű a vonatkozó szabványban foglalt követelménnyel, megoldással.
+
+II. FEJEZET
+SUGÁRVÉDELMI KÖVETELMÉNYEK
+4. Indokoltság
+5. § (1) Az ionizáló sugárzásból származó sugárterheléssel járó, új típusú tevékenységek jóváhagyásához az indokoltság
+előzetes ellenőrzése szükséges.
+(2) A fennálló sugárzási helyzetek vagy a veszélyhelyzeti sugárzási helyzetek esetében az óvintézkedés bevezetése
+indokolt, ha több előnnyel, mint káros következménnyel jár.
+(3) Minden olyan esetben el kell végezni az ionizáló sugárzás alkalmazása, fennálló sugárzási helyzet vagy
+a veszélyhelyzeti sugárzási helyzet esetében az óvintézkedés indokoltságának felülvizsgálatát, amikor ezek
+hatásosságával vagy lehetséges következményeivel kapcsolatban lényeges új adatok, illetve más technikákra vagy
+technológiákra vonatkozó új információk válnak ismertté.
+(4) A foglalkozási és lakossági sugárterheléssel egyaránt járó tevékenységeknél az indokolást mind a foglalkozási, mind
+a lakossági csoportra el kell végezni.
+(5) Az orvosi sugárterheléssel járó tevékenységek indokolásakor figyelembe kell venni az egészségügyi szolgáltatások
+nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége
+védelmének felügyeletéről szóló miniszteri rendelet előírásait. Fogyasztási cikk esetében a 6. §-ban foglaltak szerint
+kell eljárni.
+(6) A nem orvosi célú képalkotó tevékenységek esetén az indokolásnak a 46. § (2)–(5) bekezdésében előírtaknak
+megfelelően kell történnie.
+5. Tevékenységek tiltása
+6. § (1) Tilos a radioaktív anyagok szándékos hozzáadása élelmiszerek, takarmányok, játékok, ékszerek és kozmetikumok
+gyártása során, továbbá tilos az ilyen termékek forgalomba hozatala, behozatala és kivitele.
+(2) Tilos minden olyan tevékenység, amely egy fogyasztási cikkben, játékban vagy személyes használatú dísztárgyban
+az aktivitás olyan mértékű növelésével jár, ami következtében az összes aktivitás a forgalomba hozatal időpontjában
+sugárvédelmi szempontból nem elhanyagolható.
+(3) Tilos a (2) bekezdésben meghatározottak szerint megnövelt aktivitású termékek forgalomba hozatala, behozatala és
+kivitele.
+(4) Tilos olyan sugárvédelmi szempontból jelentőséggel bíró, a 2. § alapján nem mentesíthető fogyasztási cikkek
+gyártása, forgalomba hozatala vagy a lakosság rendelkezésre bocsátása, amelyek tervezett felhasználása nem
+indokolt.
+(5) Amennyiben egy termék kapcsán felmerül, hogy e rendelet 6. §-a hatálya alá tartozik, a forgalmazót
+az OAH felszólítja kockázat-elemzést tartalmazó szakvélemény készítésére, melynek ki kell térnie
+a) az aktivitás megnövelésével járó tevékenység szándékosságának megállapítása,
+b) a hozzáadott radioaktív anyagtartalmának fizikai és kémiai tulajdonságai,
+c) a termék kialakítása és az abban található radioaktív anyag hozzáférhetősége,
+d) a termék teljes életciklusa során a rendeltetésszerű felhasználás módja és az abból származható besugárzási
+útvonalak és potenciális sugárterhelések,
+e) az észszerű körülmények között várható, nem rendeltetésszerű felhasználásból származó sugárterhelés,
+f) a termék várható használati élettartamát, helyes felhasználási módját, telepítését, karbantartását, javítását
+leíró útmutató, és
+g) a végfelhasználó, fogyasztó tájékoztatását szolgáló címkéken található információ
+vizsgálatára.
+(6) A sugárvédelmi szakértő által készített szakvélemény alapján az OAH engedélyezheti, megtilthatja, vagy további
+feltételekhez kötheti a termék kereskedelmi forgalomba hozatalát, illetve mentesítheti azt a hatósági felügyelet alól.
+6. Optimálás
+7. §
+A lakossági vagy foglalkozási sugárterhelésnek kitett személyek sugárvédelmét optimálni kell, azzal a céllal, hogy
+a személyi dózisok nagysága, a sugárterhelés valószínűsége, valamint a sugárterhelésnek kitett személyek száma
+
+az aktuális műszaki ismereteket, valamint a gazdasági és a társadalmi tényezőket figyelembe véve az észszerűen
+elérhető legalacsonyabb legyen.
+7. Az optimálást segítő eszközök: a dózismegszorítások és a vonatkoztatási szintek
+8. § (1) Annak érdekében, hogy a foglalkozási sugárterhelés ne haladja meg a feltétlenül indokolt mértéket, a foglalkozási
+sugárterhelésre vonatkozó dózismegszorítást kell megállapítani minden sugárveszélyes munkahelyen.
+A dózismegszorítást az engedélyes állapítja meg. A dózismegszorítást a tervezés és sugárvédelmi optimálás
+során az adott létesítmény- vagy alkalmazástípusra jellemző jó gyakorlat figyelembevételével oly módon kell
+megállapítani, hogy az egyes munkavállalóknak az átlagot jelentősen meghaladó egyéni sugárterhelése elkerülhető
+legyen.
+(2) A lakossági sugárterhelés optimálása és annak biztosítása érdekében, hogy a lakosság tagjainak sugárterhelése
+az atomenergia több alkalmazásának együttes hatásait figyelembe véve se haladhassa meg a vonatkozó
+dóziskorlátot, a lakossági sugárterhelésre vonatkozó dózismegszorítást kell alkalmazni. Az OAH az engedélyes
+javaslata alapján a lakossági dózismegszorítás jóváhagyására – a kiemelt létesítmények kivételével – az 55. §
+(1) bekezdés 1. és 2. pontja szerinti engedélyezési eljárásban hoz döntést.
+(3) A teljes év során kapott effektív dózisban megállapított lakossági dózismegszorítás meghatározásakor
+az atomenergia alkalmazója figyelembe veszi:
+a) a sugárveszélyes munkahelyen kívül tartózkodókat érő közvetlen és szórt sugárzást,
+b) a sugárveszélyes munkahelyre karbantartás, látogatás vagy egyéb célból alkalomszerűen belépő,
+de foglalkozási sugárterhelésnek nem kitett munkavállalókat érhető dózisokat,
+c) a munkahelyen a fennálló sugárzási helyzetből eredő sugárterhelést,
+d) kiemelt létesítmények esetében a radioaktív anyagok kibocsátásának mértékét az atomenergia alkalmazása
+során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló miniszteri rendelet
+szerint.
+9. § (1) A veszélyhelyzeti sugárzási helyzetekre és fennálló sugárzási helyzetekre irányadó, lakosságot érintő vonatkoztatási
+szintek a következők:
+a) veszélyhelyzeti sugárzási helyzetekben – a veszélyhelyzet típusától és körülményeitől függően –
+a vonatkoztatási szint évenkénti vagy eseti 20–100 mSv közötti effektív dózis, amelynek a veszélyhelyzeti
+körülményektől függő pontos értékét az országos nukleárisbaleset-elhárítási rendszerről szóló
+kormányrendelet szerinti Országos Nukleárisbaleset-elhárítási Tervben kell rögzíteni,
+b) fennálló sugárzási helyzetekben a vonatkoztatási szint évenként legfeljebb 6 mSv effektív dózis,
+melynek a radiológiai körülményektől függő pontos értékét a társadalmi és gazdasági tevékenységek
+figyelembevételével, az érdekelt felekkel egyeztetve, a 49. § (1) bekezdésében foglalt védekezési stratégia
+alapján az OAH határozza meg.
+(2) A veszélyhelyzeti sugárzási helyzetről fennálló sugárzási helyzetre való áttérés jóváhagyásának feltétele, hogy
+az adott területeken való tartózkodás következtében a lakosság tagjainak sugárterhelése az (1) bekezdés
+b) pontjában meghatározott vonatkoztatási szintet ne haladja meg, valamint a terhesség teljes időtartamára
+vonatkoztatva a magzat sugárterhelése ne haladja meg a 6 mSv egyenérték dózist.
+(3) A társadalmi és gazdasági tevékenységek figyelembevételével, az érdekelt felekkel egyetértésben
+az OAH a (2) bekezdéstől eltérően engedélyezheti a veszélyhelyzeti sugárzási helyzetről fennálló sugárzási helyzetre
+való áttérést korlátozott kiterjedésű területeket érintő, különleges esetekben is, amikor egyes területeken való
+tartózkodás következtében a lakosság tagjainak sugárterhelése az évi 6–20 mSv effektív dózistartományba eshet,
+amennyiben ezen területekre való véletlen belépés megakadályozására hatékony intézkedéseket vezettek be.
+Ezen érintett területen közreműködő munkavállalók tevékenységét tervezett sugárzási helyzetben végzettként kell
+kezelni az e rendelet 10–14. §-ában és 30–36. §-ában foglalt előírások alkalmazásával.
+(4) Fennálló sugárzási helyzetben azon esetekben, amikor a lakossági sugárterhelés meghaladhatja a 6 mSv/év értéket,
+tájékoztatni kell az egyes személyeket az őket érő ionizáló sugárzás kockázatairól és csökkentésének lehetséges
+módjáról, annak érdekében, hogy a lehető legalacsonyabb szinten tarthassák a sugárterhelésüket. A 6 mSv/év
+értéket meghaladó sugárterhelések esetében az érintett területen közreműködő munkavállalók tevékenységét
+tervezett sugárzási helyzetként kell kezelni az e rendelet 10–14. §-ában foglalt előírások alkalmazásával.
+
+(5) Veszélyhelyzetben a 20 mSv/év effektív dózist meghaladó lakossági sugárterhelések esetében intézkedni kell
+a személyi dózisok felméréséről és haladéktalanul tájékoztatást kell adni a sugárzás kockázatairól és a sugárterhelés
+csökkentésének lehetséges módjáról, a nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás
+rendjéről szóló kormányrendelet szerint.
+(6) A védelem optimálása során elsősorban a vonatkoztatási szint feletti sugárterhelések csökkentésére kell figyelmet
+fordítani, de az optimálást a vonatkoztatási szint alatt is folytatni kell.
+(7) A radon-expozícióval járó fennálló sugárzási helyzetekre irányadó vonatkoztatási szinteket a lakosság tagjaira
+az 50. § (2) bekezdés a) pontja, a munkavállalókra az 50. § (2) bekezdés b) pontja határozza meg.
+(8) Az építőanyagokból származó beltéri külső sugárterheléssel járó fennálló sugárzási helyzetekre irányadó
+vonatkoztatási szintekre a radon-expozícióval járó fennálló sugárzási helyzetekre irányadó vonatkoztatási szinteket
+és az 50. § (4)–(7) bekezdésében és az 51. §-ban foglalt védekezési stratégiát kell alkalmazni, azzal, hogy a radontól
+származó sugárterhelés helyett az építőanyagokból származó külső sugárterhelést kell figyelembe venni.
+8. Dóziskorlátozás
+10. §
+Tervezett sugárzási helyzetben egy adott személy által kapott dózisok összege nem haladhatja meg foglalkoztatás
+esetén a foglalkozási sugárterhelés vagy a lakosság tagjai tekintetében a lakossági sugárterhelés esetére
+megállapított dóziskorlátokat.
+9. A sugárterhelésnek kitett munkavállalókra vonatkozó korlátok
+11. §
+Tizennyolcadik életévüket be nem töltött személyek nem oszthatók be olyan feladatra, amelyben sugárterhelésnek
+lennének kitéve. A tizenhat és tizennyolc év közti korú gyakornokokra és tanulókra a 14. § (2) és (3) bekezdésében
+meghatározott korlátozások vonatkoznak.
+12. § (1) A (2) bekezdésben előírt dóziskorlátokat alkalmazni kell a munkavállalóknak az összes engedélyezett
+tevékenységből eredő éves foglalkozási sugárterheléseinek összegére, a munkahelyeken előforduló foglalkozási
+radon-expozícióra, valamint a fennálló sugárzási helyzetekből adódó egyéb foglalkozási sugárzási helyzetekre.
+(2) A foglalkozási sugárterhelésre vonatkozó effektívdózis-korlát évi 20 mSv. Indokolt körülmények között
+az OAH egy-egy évben ennél nagyobb, de legfeljebb 50 mSv nagyságú effektív dózist is engedélyezhet,
+amennyiben bármely egymást követő öt évben – azokat az éveket is ideértve, amikor a korlátot meghaladták –
+az éves átlagos dózis nem haladja meg a 20 mSv értéket.
+(3) A (2) bekezdésben megállapított effektívdózis-korlátok mellett az egyenértékdózisokra a következő korlátokat kell
+alkalmazni:
+a) a szemlencse egyenértékdózis korlátja évi 20 mSv,
+b) a bőrfelületre meghatározott egyenértékdózis korlátja évi 500 mSv, amely a bőrfelület tetszőleges 1 cm2-es
+területére számított átlagos dózisra vonatkozik, a sugárzásnak kitett teljes felület nagyságától függetlenül,
+c) a végtagok egyenértékdózis korlátja évi 500 mSv.
+(4) Tervezett sugárzási helyzetben egy adott személy által a teljes élete során kapott foglalkozási sugárterhelések
+összege nem haladhatja meg a 400 mSv effektív dózist.
+(5) A munkáltató kérelmére, az országos tisztifőorvos szakvéleménye alapján az OAH további, de legfeljebb évi 10 mSv
+nagyságú effektív dózist is engedélyezhet, ha a munkavállaló ehhez írásban hozzájárul, és a munkáltató igazolja
+az 5. §-ban az indokoltság elvére vonatkozó követelmények teljesülését.
+(6) Az OAH a (7) bekezdésben foglaltak teljesülése esetén – a veszélyhelyzeteket ide nem értve – egyes meghatározott
+munkavállalók számára jóváhagyhatja, hogy az őket érő személyi foglalkozási sugárterhelés túllépje
+a (2)–(5) bekezdésben előírt dóziskorlátokat, azzal a feltétellel, hogy ezeknek a sugárterheléseknek időben
+behatároltnak kell lenniük, konkrétan meghatározott munkavégzési területekre és feladatokra kell korlátozódniuk,
+és azok nem haladhatják meg az OAH által az adott esetre vonatkozóan megállapított sugárterhelési határértékeket.
+(7) A (6) bekezdésben foglalt engedélyezési eljárás során a következő feltételeket kell figyelembe venni:
+a) ilyen sugárterhelésnek csak a 30. § (1) bekezdés a) pontja szerinti„A”kategóriába tartozó munkavállalók vagy
+az űrjárművek személyzetének tagjai tehetők ki;
+b) anyatejet adó munkavállalók – amennyiben fennáll a felvétel vagy az emberi test szennyeződésének
+kockázata – ilyen sugárterhelésnek nem tehetők ki;
+
+c) az ilyen sugárterhelést a munkáltató előzetesen megindokolja, és a munkavállalókkal, azok képviselőivel,
+a foglalkozás-egészségügyi szolgálattal és a sugárvédelmi szakértővel részletesen egyezteti;
+d) az érintett munkavállalóknak előzetesen tájékoztatást kell kapniuk a művelettel járó kockázatokról és
+a művelet során megteendő óvintézkedésekről;
+e) a munkavállalók írásban hozzájárultak a különleges sugárterheléshez;
+f) az ilyen sugárterhelésekkel összefüggő valamennyi dózist külön rögzíteni kell a foglalkozás-egészségügyi
+szolgáltató által vezetett egészségügyi dokumentációban, a munkáltató által vezetett helyi, továbbá
+az Országos Személyi Dozimetriai Nyilvántartás által vezetett személyi monitoringeredmények között.
+(8) Ha a külön jóváhagyáshoz kötött sugárterhelés következtében egy adott munkavállaló sugárterhelése meghaladja
+a dóziskorlátokat, vizsgálni kell, hogy szükséges-e a munkavállaló tevékenység alóli felmentése vagy áthelyezése.
+A szokásos tevékenység alóli felmentéshez vagy áthelyezéshez a munkavállaló írásbeli beleegyezése szükséges.
+(9) Az űrjárművek személyzetét érő, a dóziskorlátokat túllépő sugárterhelést külön jóváhagyáshoz kötött
+sugárterhelésként kell kezelni.
+13. § (1) A várandós, a nemrégen szült és a szoptató nők az erről a tényről történő, az engedélyesnek – vagy
+külső munkavállaló esetében a munkáltatónak – címzett tájékoztatásának időpontjától kezdődően nem
+foglalkoztathatóak sugárterhelésnek kitett munkavállalóként.
+(2) Az anyatejet adó munkavállaló az erről a tényről történő, az engedélyesnek – vagy külső munkavállaló esetében
+a munkáltatónak – címzett tájékoztatásának időpontjától kezdődően nem foglalkoztatható olyan munkakörben,
+amely a radionuklid-felvétel vagy a test szennyeződésének jelentős kockázatával jár.
+14. § (1) A tizennyolcadik életévüket betöltött gyakornokokra és tanulókra, akiknek tanulmányaik során kötelezően
+sugárforrásokkal kell dolgozniuk, a foglalkozási sugárterhelésre vonatkozóan a 12. § (2) és (3) bekezdésében
+meghatározott dóziskorlátokkal megegyező dóziskorlátok vonatkoznak.
+(2) A tizenhatodik életévüket betöltött, de tizennyolc évesnél fiatalabb gyakornokokra és tanulókra, akiknek
+tanulmányaik során kötelezően sugárforrásokkal kell dolgozniuk, az effektívdózis-korlát évi 6 mSv.
+(3) A (2) bekezdésben megállapított effektívdózis-korlátokon túl az egyenértékdózisokra a következő korlátokat kell
+alkalmazni:
+a) a szemlencsére meghatározott egyenértékdózis éves korlátja 15 mSv,
+b) a bőrfelületre meghatározott egyenértékdózis korlátja évi 150 mSv, amely a bőrfelület tetszőleges 1 cm2-es
+területére számított átlagra vonatkozik, a sugárzásnak kitett teljes felület nagyságától függetlenül,
+c) a végtagok egyenértékdózis korlátja évi 150 mSv.
+(4) Az (1) és (2) bekezdés hatálya alá nem tartozó gyakornokokra és tanulókra a lakosság tagjaira a 16. §-ban
+meghatározott lakossági dóziskorlátok vonatkoznak.
+15. § (1) Veszélyhelyzetben a baleset következményeinek elhárításában részt vevő személyekre a vonatkoztatási szinteket
+az alábbiak szerint kell alkalmazni:
+a) A veszélyhelyzet elhárításának tervezése során a veszélyhelyzeti munkavállalók munkáltatójának
+biztosítani kell, hogy a veszélyhelyzeti foglalkozási sugárterhelés – lehetőség szerint – ne érje el a 12. §-ban
+meghatározott dóziskorlátok szintjét.
+b) Olyan helyzetekben, amikor a sugárterhelés súlyos egészségkárosító hatásainak megelőzése vagy
+katasztrófahelyzet kialakulásának megelőzése céljából az a) pontban meghatározott feltétel nem valósítható
+meg, a veszélyhelyzet-kezelést irányító döntése alapján az alábbi feltételek alkalmazandók:
+ba) az általános feladatokat ellátó veszélyhelyzeti munkavállalók külső sugárterhelésének
+vonatkoztatási szintje 50 mSv effektív dózis, a teljes veszélyhelyzet-kezelési időszakra,
+bb) a lakosság jelentős sugárterhelésének megakadályozását célzó – a veszélyhelyzet súlyosbodásának
+megelőzését vagy a súlyosbodás mértékének csökkentését, életveszély potenciális kialakulásának
+megelőzését, valamint a sürgős óvintézkedések helyszíni bevezetését és alkalmazását szolgáló –
+feladatokat ellátó veszélyhelyzeti munkavállalók külső sugárterhelésének vonatkoztatási szintje
+a teljes veszélyhelyzet-kezelési időszakra 100 mSv effektív dózis,
+bc) emberélet megmentése, a sugárterhelés súlyos egészségkárosító hatásainak megelőzése vagy
+katasztrófahelyzet kialakulásának megelőzése céljából a veszélyhelyzeti munkavállalók külső
+sugárterhelésének vonatkoztatási szintje 250 mSv effektív dózis, a teljes veszélyhelyzet-kezelési
+időszakra vonatkoztatva.
+
+c) A személyek felkészítését és tevékenységük megtervezését úgy kell végrehajtani, hogy a várható
+sugárterhelésük az irányadó vonatkoztatási szinteket lehetőleg ne, a teljes veszélyhelyzet-kezelési időszakra
+vonatkoztatva pedig az 500 mSv effektív dózist semmiképpen se haladja meg.
+(2) A munkáltató gondoskodik az elhárítási műveletekkel kapcsolatos óvintézkedésekről.
+(3) Az elhárításba fogamzóképes nő, tanuló vagy gyakornok nem vonható be.
+(4) A veszélyhelyzeti munkavállalók, akiket az általuk elvégzendő feladat következtében 100 mSv-nél nagyobb
+effektív dózis érhet, előzetesen világos és teljes körű tájékoztatást kell kapjanak a munkáltatótól annak egészségi
+kockázatairól és a rendelkezésre álló védelmi intézkedésekről.
+(5) Ha az elhárítás során 100 mSv-nél nagyobb effektív dózis várható, az elhárítási feladatok csak önkéntesen
+végezhetők.
+(6) Veszélyhelyzeti foglalkozási sugárterhelés esetén a veszélyhelyzeti munkavállalókat monitoringnak kell alávetni,
+vagy a személyi dózisukat más módon kell meghatározni.
+(7) Veszélyhelyzeti munkavállaló csak akkor utasítható veszélyhelyzeti elhárítási tevékenységre, ha a munkaköri orvosi
+alkalmassági vizsgálaton bebizonyosodott, hogy a munkavállaló fiziológiai és pszichés szempontból is alkalmas
+fokozott stresszhelyzetben a védőfelszerelések használatával történő munkavégzésre. Ha a legutóbbi ilyen vizsgálat
+óta a munkavállaló egészségi állapotában olyan változás állt be, amely miatt kérdésessé válhat a veszélyhelyzeti
+feladatainak ellátása, akkor haladéktalanul köteles jelentkezni a fenti célú felülvizsgálatra. A veszélyhelyzeti
+feladatok ellátására alkalmatlanná vált munkavállalót a munkáltató köteles azonnal felmenteni a veszélyhelyzeti
+feladatok ellátásának kötelezettsége alól.
+(8) Azoknak a veszélyhelyzeti munkavállalóknak a részére, akik esetén nem zárható ki, hogy veszélyhelyzet-elhárítási
+tevékenységük során a szervezetüket ért sugárterhelések összege meghaladhatja a 100 mSv effektív dózist,
+a munkáltatójuk
+a) intézkedik, hogy bekerüljenek a teljes élettartamra vonatkozó egészségügyi követési rendszerbe,
+b) a megjelenéshez szükséges költségek fedezését is beleértve feltétel nélkül biztosítja, hogy az egészségügyi
+követés részét képező vizsgálatokon, kezeléseken (a továbbiakban e § vonatkozásában együtt: vizsgálat)
+megjelenhessenek.
+(9) Ha a vizsgálat időtartama nem számít betegállománynak és az egészségügyi követés részét képező vizsgálatokon
+történő megjelenés a munkáltatónál érvényes munkaidőben történik, a vizsgálatok és a vizsgálatokhoz szükséges
+utazás időtartamát a munkáltató köteles rendes munkaidőben eltöltött munkaként elszámolni.
+10. A lakossági sugárterhelésre vonatkozó dóziskorlátok
+16. § (1) A (2) és (3) bekezdésben meghatározott lakossági dóziskorlátok a lakosság tagjait egy adott év során az összes
+jóváhagyott tevékenységből érő sugárterhelések összegére érvényesek.
+(2) A lakossági sugárterhelésre vonatkozó effektívdózis-korlát évi 1 mSv.
+(3) A (2) bekezdésben említett dóziskorláton túl az egyenértékdózisra a következő korlátokat kell alkalmazni:
+a) a szemlencse egyenértékdózis korlátja évi 15 mSv, valamint
+b) a bőrfelületre meghatározott egyenértékdózis korlátja évi 50 mSv, amely a bőrfelület tetszőleges 1 cm2-es
+területére számított átlagra vonatkozik, a sugárzásnak kitett teljes felület nagyságától függetlenül.
+11. Az effektív dózis és az egyenértékdózis becslése
+17. §
+Az effektív dózisok és az egyenértékdózisok becslése során a sztenderd értékeket és összefüggéseket kell
+használni. Külső sugárzás esetén a 4. §-ban, valamint az International Commission on Radiological Protection ICRP
+116. kiadványának 2.3. szakaszában meghatározott operatív mennyiségeket kell használni.
+III. FEJEZET
+SUGÁRVÉDELMI KÉPZÉS, TOVÁBBKÉPZÉS
+18. §
+Az atomenergia alkalmazási körébe tartozó tevékenységet csak megfelelő fokozatú és szakirányú sugárvédelmi
+képzettséggel és a tevékenységének gyakorlásához szükséges, jogszabályban meghatározott szakmai képesítéssel
+rendelkező személy végezhet.
+
+12. Képzettségi követelmények
+19. § (1) Legalább alapfokozatú sugárvédelmi képzettséggel kell rendelkezniük azoknak, akik
+a) sugárterhelésnek kitett munkavállalók, akik sugárforrással nem dolgoznak, de munkaköri kötelességük
+teljesítése keretében tervezett sugárterhelésnek lehetnek kitéve,
+b) a 19. § (2) bekezdés a) és e) pontjában foglaltak kivételével a III. sugárvédelmi kategóriába sorolt tevékenység
+során sugárforrással dolgoznak, vagy ilyen tevékenységet közvetlenül felügyelnek, irányítanak,
+c) radioaktív anyagok telephelyen kívüli szállítására vonatkozó előírások alapján sugárvédelmi képzésre
+kötelezettek, és a
+d) veszélyhelyzet-elhárítási tervben vagy veszélyhelyzet-kezelési rendszerben meghatározott veszélyhelyzeti
+munkavállalók.
+(2) Legalább bővített fokozatú sugárvédelmi képzettséggel kell rendelkezniük azoknak, akik
+a) orvosi sugárterhelést vagy nem orvosi képalkotással járó besugárzást eredményező tevékenységeket
+végeznek, vagy ilyen tevékenységet közvetlenül felügyelnek vagy irányítanak,
+b) kiemelt létesítményben, az I. vagy a II. sugárvédelmi kategóriába sorolt tevékenység során sugárforrással
+dolgoznak, vagy ilyen tevékenységet közvetlenül felügyelnek vagy irányítanak,
+c) a II. vagy a III. sugárvédelmi kategóriába sorolt tevékenység sugárvédelmi szempontú felügyeletét szervezeti
+szinten irányítják,
+d) a veszélyhelyzet-elhárítási tervben vagy veszélyhelyzet-kezelési rendszerben meghatározott veszélyhelyzeti
+munkavállalók azon csoportjába tartoznak, akik a veszélyhelyzettel érintett területen a helyszíni védelmi
+intézkedések közvetlen végrehajtását irányítják, és
+e) zárt sugárforrásnak nem minősülő, csomagolatlan radioaktív készítménnyel folytatott tevékenységet
+közvetlenül felügyelnek, irányítanak, kivéve, ha a radioaktív anyag olyan – a munkahelyi sugárvédelmi
+szabályzatban meghatározott – csomagolóeszközben van, amely a normál munkakörülmények között
+megtartja tartalmát.
+(3) Átfogó fokozatú sugárvédelmi képzettséggel kell rendelkezniük azoknak, akik
+a) kiemelt létesítményben vagy az I. sugárvédelmi kategóriába sorolt tevékenységek során a sugárveszélyes
+munkavégzést tervezik vagy a sugárveszélyes tevékenységet végző szervezeti egységet közvetlenül
+irányítják,
+b) kiemelt létesítmény vagy az I. sugárvédelmi kategóriába sorolt sugárvédelmi szempontú felügyeletet ellátó
+szervezeti egységet közvetlenül irányítják,
+c) orvosfizikusként, orvosi fizikus szakértőként vagy klinikai sugárfizikusként sugárterápiás tervezést végeznek,
+d) sugárveszélyes tevékenységek sugárvédelmi hatósági ellenőrzését vagy engedélyezését végzik,
+e) alapfokú, bővített fokozatú vagy átfogó fokozatú sugárvédelmi tanfolyamokon oktatnak vagy vizsgáztatnak,
+f) a kiemelt létesítmények, az I. sugárvédelmi kategóriába tartozó sugárveszélyes munkahelyek, továbbá
+az országos nukleárisbaleset-elhárítási rendszer veszélyhelyzet-elhárítási terveiben vagy veszélyhelyzet-
+kezelési rendszerében meghatározott azon munkavállalók, akik veszélyhelyzeti sugárzási helyzet
+sugárvédelmi következményeinek értékelését végzik, valamint a sugárterhelés csökkentésére irányuló
+védelmi intézkedésekre javaslatot adnak.
+(4) Az átfogó fokozatú sugárvédelmi képesítés mellett sugárvédelmi szakértői kiegészítő képzettséggel is kell
+rendelkezniük azoknak, akik
+a) sugárveszélyes munkahelyek kialakításának sugárvédelmét vagy a már engedélyezett sugárvédelmi rendszer
+hatósági engedélyezéshez köthető átalakítását tervezik, vagy
+b) egyéb sugárvédelmi szakértői tevékenységet folytatnak.
+13. A képzettség megszerzésének és igazolásának módja
+20. § (1) Alapfokozatú sugárvédelmi képzettség szerezhető és igazolható alapfokozatú sugárvédelmi képzésen való
+részvétellel és eredményes vizsga letételével.
+(2) Bővített fokozatú sugárvédelmi képzettség szerezhető és igazolható bővített fokozatú sugárvédelmi képzésen való
+részvétellel és eredményes vizsga letételével.
+(3) Átfogó fokozatú sugárvédelmi képzettség szerezhető és igazolható átfogó fokozatú sugárvédelmi képzésen való
+részvétellel és a szakiránynak megfelelő eredményes vizsga letételével.
+
+(4) Sugárvédelmi szakértői tevékenységhez szükséges képzettség szerezhető és igazolható az adott szakiránynak
+megfelelő átfogó fokozatú sugárvédelmi képzésen és az ahhoz kapcsolódó sugárvédelmi szakértői kiegészítő
+képzésen való részvétellel és eredményes vizsga letételével. Az adott szakirányra vonatkozó sugárvédelmi szakértői
+kiegészítő képzettség a szakiránynak megfelelő átfogó fokozatú sugárvédelmi képzettség megléte esetén külön is
+szerezhető. A sugárvédelmi szakértői kiegészítő képzettség gyakorlásának hatálya megegyezik az átfogó fokozatú
+sugárvédelmi képzettség gyakorlásának hatályával.
+(5) Valamennyi sugárvédelmi képzettségi igazolás az eredményes vizsga letételétől számított 5 évig érvényes.
+(6) A sugárvédelmi képzettség megújítása az időközben tett újabb sugárvédelmi képzettséget adó képzésen, vagy
+továbbképzésen való részvétellel, és az azon tett eredményes vizsgával igazolható. Továbbképzésen csak az vehet
+részt, aki érvényes, a továbbképzés szakirányának megfelelő sugárvédelmi képzettséggel rendelkezik, vagy
+legutóbbi képzettségnek érvényessége 1 éven belül járt le.
+(7) A sugárvédelmi képzettséget igénylő munkahelyeken dolgozók esetében a sugárvédelmi képzettség
+megszerzéséhez és megújításához szükséges képzések és vizsgáztatások költségei az engedélyest, külső
+munkavállalók esetében a munkáltatót terhelik.
+(8) A sugárvédelmi képzések tematikája általános sugárvédelmi és legalább egy, a képzésen részt vevők
+munkahelyének és munkakörének megfelelő sugárvédelmi szakirány sajátos ismereteire épül. A sugárvédelmi
+képzettség csak az adott szakiránynak vagy szakirányoknak megfelelő sugárveszélyes munkahelyeken történő
+munkavégzésre jogosít.
+(9) Az OAH által jóváhagyott sugárvédelmi képzések tematikai követelményeit és lehetséges szakirányait a 4. melléklet
+tartalmazza.
+(10) A követelményeknek megfelelő fokozatú sugárvédelmi képzettség meglétéért, valamint annak nyilvántartásáért
+az engedélyes felel. Külső munkavállalók esetén a nyilvántartás a munkáltató feladata, a sugárveszélyes
+munkakörben történő foglalkoztatás megkezdése előtt az érintett munkavállalókra vonatkozó igazolásokat
+az engedélyesnek be kell mutatni.
+(11) A sugárvédelmi képzettséggel nem rendelkező, vagy lejárt érvényességű képzettségi igazolással rendelkező
+munkavállaló a tevékenységének megfelelő érvényes sugárvédelmi képzettséggel rendelkező munkavállaló
+felügyelete mellett a megfelelő képzettség megszerzéséig, de legfeljebb egy évig végezhet sugárveszélyes
+tevékenységet.
+14. Képzésekkel, továbbképzésekkel szemben támasztott követelmények
+21. § (1) Az alapfokozatú képzésen és továbbképzésen az oktatást egyetlen oktató is végezheti. A bővített fokozatú
+képzésen és továbbképzésen az oktatást legalább két, átfogó fokozatú képzésen és továbbképzésen legalább öt
+– témakörönként kiválasztott – olyan oktató végezheti, aki a képzés szakirányának megfelelő hatályos sugárvédelmi
+szakértői engedéllyel vagy felsőfokú műszaki, illetve egészségügyi végzettséggel vagy tudományos fokozattal,
+valamint a témakörnek megfelelő szakmai tapasztalattal rendelkezik.
+(2) Az 55. § (1) bekezdés 6. pontja szerinti engedélyben meghatározott oktatók személyén az engedélyes újabb
+engedélykérelem benyújtása nélkül csak abban az esetben módosíthat, ha az új oktató – függetlenül a képzés
+fokozatától – rendelkezik a képzés szakirányának megfelelő, hatályos sugárvédelmi szakértői engedéllyel, és
+a változást az engedélyes a 60. § (8) bekezdés c) pontja szerint bejelentette.
+(3) Az alapfokozatú képzést legalább írásbeli vizsga, a bővített, átfogó (szakértői) fokozatú képzést és továbbképzést
+írásbeli és szóbeli vizsga zárja. A vizsgát vizsgabizottság előtt kell letenni. A vizsgabizottság tagjai a vizsgabizottság
+elnöke, és legalább egy, átfogó fokozatú képzés esetén legalább kettő oktató. A vizsgáztatást a vizsgabizottság
+elnöke vezeti. Amennyiben a tanfolyamra jelentkezők száma meghaladja a 40 főt, abban az esetben két külön elnök
+által vezetett vizsgabizottság is kijelölhető. A vizsgáztatás részletes követelményeit a 4. melléklet részletezi.
+(4) Alapfokozatú képzés és továbbképzés – a gyakorlati ismeretek oktatásának kivételével – e-learning-képzés
+keretén belül is végezhető. Az e-learning-képzés keretében a vizsgát megelőzően kötelező személyes konzultációt
+biztosítani.
+(5) A vizsgabizottság elnökét a sugárvédelmi szakértők közül az OAH jelöli ki. A vizsgabizottság elnökének
+függetlennek kell lennie a képzést szervező, a képzésben közreműködő vagy a képzést megrendelő szervezettől.
+(6) Az oktatókat és a vizsgaelnököt tiszteletdíj és utazási költségtérítés illeti meg, amelynek kifizetése az oktatás
+szervezőjének a feladata.
+
+(7) A vizsgaelnök tiszteletdíja vizsgázónként:
+a) alapfokú vizsga esetén a mindenkori havi garantált bérminimum 1,3%-a,
+b) bővített és átfogó fokozatú vizsga esetén a mindenkori havi garantált bérminimum 1,9%-a,
+c) szakértői szakiránnyal kiegészülő képzést záró vizsga esetén a mindenkori havi garantált bérminimum
+2,6%-a.
+(8) A (6) bekezdésben meghatározott módon a vizsgaelnök összes tiszteletdíját 10 főnél kevesebb vizsgázó esetén
+10 főre kell számolni.
+(9) Ha a vizsgára vagy annak egyes vizsgarészeire, vizsgatevékenységeire a vizsgaelnök állandó lakóhelyétől eltérő
+helységben kerül sor, úgy a vizsgaelnököt a vizsgáztatási díj mellett utazási és – indokolt esetben – szállásköltség
+illeti meg. Az utazási költség elszámolása tömegközlekedési eszköz igénybevétele esetén a menetjegy, saját
+gépjármű használata esetén a személyi jövedelemadóról szóló törvény, valamint a munkába járással kapcsolatos
+utazási költségtérítésről szóló kormányrendelet előírásai alapján történik. Vasút igénybevétele esetén 2. osztályú
+menetjegy számolható el.
+(10) A vizsgaszervező – a vizsgaelnökkel történt megegyezés alapján – gondoskodhat az utaztatásról és a szállásról,
+amely esetben a vizsgaelnököt külön utazási és szállásköltség nem illeti meg.
+(11) A vizsga sikeres teljesítését a képzés, továbbképzés szervezője által kiadott bizonyítvány igazolja. A bizonyítványnak
+tartalmaznia kell az Atv. 16/C. § (3) bekezdésében meghatározott adatokat, valamint fel kell tüntetni a vizsgázó
+tevékenységi körét és a tematika által meghatározott, a 4. melléklet 1.1.1. pontjában meghatározott szakirányt is.
+A bizonyítvány kiállítása díjmentes, annak költségei a vizsgáztatással kapcsolatos költségek részét képezik.
+(12) A képzés, továbbképzés teljesítéséről, valamint a vizsgáztatásról jegyzőkönyvet kell felvenni. A jegyzőkönyvet
+a vizsgabizottság elnökének kell aláírnia. A jegyzőkönyvet a képzés, továbbképzés szervezője köteles 5 évig
+megőrizni.
+(13) Eredménytelen vizsga esetén, a vizsgázó 30 napon belül pótvizsgát tehet újabb képzés vagy továbbképzés
+elvégzése nélkül. A pótvizsgára a vizsgára vonatkozó rendelkezések alkalmazandók.
+(14) A képzést és továbbképzést záró vizsga időpontja legkorábban a képzés vagy továbbképzés utolsó oktatási napját
+követő napon lehet. A pótvizsga legkorábban az eredménytelen vizsgát követő 5. napon történhet.
+IV. FEJEZET
+AZ ENGEDÉLYESRE VONATKOZÓ KÖVETELMÉNYEK ÉS A MUNKAVÁLLALÓK KÖTELEZETTSÉGEI
+15. A foglalkoztatás követelményei
+22. § (1) A sugárterhelésnek kitett munkavállalók sugárvédelmét biztosító intézkedések értékeléséért és végrehajtásáért
+az engedélyes felelős.
+(2) A sugárveszélyes munka végzéséhez – a (3) és (4) bekezdésben foglaltak kivételével – egyidejűleg legalább két
+munkavállaló jelenléte szükséges, akik közül legalább az egyik
+a) megfelelő szakmai és sugárvédelmi képesítéssel rendelkezik, és
+b) felelős a sugárvédelmi előírások betartásáért.
+(3) Ha a munkavégzés felügyelete kép- és hangátvitelt biztosító távfelügyelettel megoldható, a sugárveszélyes munkát
+megfelelő szakmai és sugárvédelmi képzettségű munkavállaló egyedül is végezheti.
+(4) Egyedül is végezhető sugárveszélyes tevékenység, ha a sugárvédelmi szakértő által készített, 7. melléklet szerinti
+Sugárvédelmi Leírás részét képező értékelés igazolja, hogy az önállóan, megfelelő szakmai és sugárvédelmi
+képzettséggel rendelkező szakember által végzett sugárveszélyes tevékenység – a rendkívüli esemény
+bekövetkezését is beleértve – végrehajtásakor:
+a) nem lép fel olyan mértékű sugárterhelés, radioaktív szennyeződés vagy személyi sérülés, amely
+a munkavállalóra vonatkozó dóziskorlátok meghaladását eredményezheti, vagy a munkavállaló sürgős
+megfigyelését és kezelését igényli,
+b) a sugárveszélyes tevékenység biztonságosan végrehajtható, vagy szükség esetén félbeszakítható anélkül,
+hogy radioaktív anyag nem tervezett kibocsátása, a lakosság tagjainak, más munkavállalóknak vagy
+pácienseknek nem tervezett sugárterhelése következzen be,
+c) a sugárveszélyes tevékenység optimálásakor figyelembe vették az önálló munkavégzés következményeit, és
+d) a tevékenység nem I. sugárvédelmi kategóriába, valamint csomagolatlan nyitott sugárforrások kezelésével
+járó II. sugárvédelmi kategóriába tartozó tevékenység.
+
+(5) A (4) bekezdés a) és b) pontjában foglalt feltételekkel megfeleltethetőek az alábbi tevékenységek:
+a) az orvosi és állatorvosi célú röntgendiagnosztikai vizsgálat orvosi és állatorvosi munkahelyen történő
+végrehajtása, ha azt megfelelő szakmai és sugárvédelmi képzettségű orvos, állatorvos, egészségügyi vagy
+állatorvosi asszisztens végzi,
+b) a kutatási vagy ipari tevékenység keretében, laboratóriumon, valamint telephelyen belül, megfelelő szakmai
+és sugárvédelmi képzettségű szakember által végzett, a II. sugárvédelmi kategóriába tartozó, zárt sugárzási
+terű vagy legfeljebb 120 kV gyorsítófeszültséggel működő, nyílt sugárzási terű, ionizáló sugárzást létrehozó
+berendezés üzemeltetése,
+c) III. sugárvédelmi kategóriába tartozó tevékenység végzése,
+d) a megfelelő szakmai és sugárvédelmi képzettségű, „B” besorolású munkavállaló által is végezhető
+tevékenység, ha kizárható, hogy a munkavállaló sugárterhelése az e rendelet által szabályozott
+tevékenységek részeként járó munkavégzés során – rendkívüli események bekövetkezése esetét is
+figyelembe véve – meghaladhatja az évi 6 mSv effektív dózist, vagy a szemlencsére nézve az évi 15 mSv, vagy
+a bőrre vagy a végtagokra nézve az évi 150 mSv egyenértékdózist,
+e) a veszélyes áruk szállítására vonatkozó előírások szerint a radioaktív anyagot tartalmazó küldeménydarabok
+szállításakor a gépjárművezetői feladatok ellátása,
+f) a sugárveszélyes munkahely rutinszerű, radioaktív anyagok kezelésével nem járó sugárvédelmi ellenőrző
+tevékenységének ellátása.
+(6) Az engedélyes felelőssége kiterjed
+a) a munkavállalók egyéni védőeszközzel való ellátására,
+b) a munkavállalók sugárzás jellegének megfelelő dozimetriai felügyeletére, beleértve
+ba) a személyi dozimetriai adatok helyszíni leolvasását, a hatósági doziméterek kiértékeltetését,
+valamint a személyi dozimetriai adatok helyi nyilvántartásának vezetését,
+bb) a sugárvédelmi műszerek működőképességének ellenőrzését, kalibrációját és hitelesíttetését,
+bc) indokolt esetben a végtagdózisok és a belső sugárterhelés ellenőrzésének biztosítását, valamint
+bd) a munkahelyi monitoringvizsgálatok végrehajtását, amennyiben azokat felhasználják
+a sugárterhelések becsléséhez,
+c) a sugárvédelmi intézkedések biztosításához szükséges tárgyi és személyi feltételek teljesítésére,
+d) a szükséges biztonsági berendezések alkalmazására, üzemeltetésére és azok hatékonyságának ellenőrzésére,
+e) a hatékony sugárvédelmi intézkedések biztosításához szükséges szervezési és szabályozási környezet
+megvalósítására,
+f) a sugárvédelmi program kidolgozására, melynek kötelező eleme a sugárveszélyes tevékenységekre és
+a sugárveszélyes munkahelyekre vonatkozó Munkahelyi Sugárvédelmi Szabályzat (a továbbiakban: MSSZ)
+elkészítése és betartásának biztosítása,
+g) a sugárterhelésnek kitett munkavállalók tájékoztatására a munkahelyi kockázatok tekintetében, különösen:
+ga) a terhesség mielőbbi bejelentésének fontosságáról, és
+gb) figyelemmel a szoptatott csecsemő sugárterhelésének kockázatára radionuklidok felvétele vagy
+testi szennyeződés esetén, az anyatejadási szándékuk mielőbbi bejelentésének fontosságáról.
+(7) Az (1) és (5) bekezdésben meghatározott előírások akkor is érvényesek, ha a munkahelyükön radon-expozíciónak
+kitett személyek esetében fennáll a lehetősége a vonatkozási szint túllépésének.
+(8) A munkáltatók figyelembe veszik az Országos Személyi Dozimetriai Nyilvántartásból származó, a munkavállalóikat
+esetlegesen ért vagy érő, egy másik munkáltatónak vagy az engedélyesnek a felelősségi körébe tartozó
+sugárterheléssel kapcsolatos információkat.
+(9) Az (1)–(8) bekezdés előírásai az önfoglalkoztatók és az önkéntes munkát végzők védelmére is vonatkoznak.
+23. § (1) Az engedélyes külső munkavállalót ellenőrzött területen való munkavégzésre csak a külső munkavállaló
+munkáltatójával kötött szerződés alapján foglalkoztathat.
+(2) A külső munkavállalót a sugárveszélyes munkahelyen végzett munkája során ugyanolyan védelem illeti meg, mint
+az engedélyes saját munkavállalóit, amelynek biztosítása az engedélyes felelőssége.
+(3) Az engedélyes köteles meggyőződni arról, hogy a sugárveszélyes munkahelyen munkát végző külső munkavállaló
+rendelkezik a megfelelő sugárvédelmi képzettséggel, valamint az adott munkaterületre vonatkozó speciális
+sugárvédelmi ismeretekkel.
+(4) Az engedélyes felelőssége a veszélyhelyzetben a létesítmény területére segítségnyújtásra behívott veszélyhelyzeti
+külső munkavállalók sugárvédelme.
+
+(5) Szennyezett földterület rekultivációjában, épület vagy más építmény dekontaminálásában részt vevő külső
+munkavállaló esetében a személyek sugárvédelmének a felelőssége – amennyiben a felek előzetesen írásban ettől
+eltérően meg nem állapodnak – a rekultivációért, vagy dekontaminálásért felelős intézményé.
+(6) Külső munkavállaló külföldön csak megfelelő egyéni dozimetriai ellenőrzési igazolás birtokában végezhet
+ellenőrzött területen munkát.
+(7) A külföldön dolgozó külső munkavállaló a tevékenységének befejezésével az egyéni dozimetriai adatait az egyéni
+dozimetriai ellenőrzési igazolásba bejegyezteti. A bejegyzett adatokat a külföldön történő munkavégzés
+befejezését követő legkésőbb 15 napon belül bejelenti az Országos Személyi Dozimetriai Nyilvántartásnak és
+a munkáltatójának.
+24. § (1) Az engedélyesnek biztosítania kell, hogy a 18. életévüket betöltött gyakornokok és tanulók munkavégzési feltételei
+és a sugárvédelmük az„A”vagy„B”kategóriába tartozó munkavállalókéval azonosak legyenek.
+(2) Az engedélyesnek biztosítania kell, hogy a 16. életévüket betöltött, de 18. életévüket be nem töltött gyakornokok és
+tanulók munkavégzési feltételei és a sugárvédelme a„B”kategóriába tartozó munkavállalókéval azonos legyen.
+16. Atomenergia alkalmazásának sugárvédelmi kategorizálása
+25. § (1) Az atomenergia alkalmazása az alkalmazott radioaktív anyag veszélyessége, tervezett alkalmazása, a tervezett
+alkalmazási körülményektől eltérő események jellege, továbbá baleseti állapotban fellépő potenciális
+következmények alapján, a veszélyessége szerint csökkenő sorrendben az alábbiak szerint sorolható be:
+a) kiemelt sugárvédelmi kategóriába tartozik a kiemelt létesítmények üzemeltetése,
+b) az I. sugárvédelmi kategóriába tartozik:
+ba) az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési,
+jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet (a továbbiakban: Fizvr.)
+1. melléklete szerint 1. kategóriába tartozó radioaktív anyag – beleértve a radioaktív sugárforrást
+tartalmazó készüléket – alkalmazása,
+bb) a Fizvr. 1. melléklete szerint 1. kategóriába tartozó radioaktív anyagot tartalmazó, ionizáló sugárzást
+létrehozó berendezés előállítása, üzemeltetése, üzletszerű karbantartása,
+bc) a Fizvr. 1. melléklete szerinti 2. kategóriába tartozó, zárt sugárforrásnak nem minősülő radioaktív
+anyaggal kapcsolatos, a 44. § (1) bekezdése szerinti rendszeres munkavégzés, továbbá előkészítő
+művelete,
+bd) teleterápiás, brachyterápiás (afterloading) munkahely vagy
+be) a Fizvr. 1. melléklete szerint 2. kategóriába tartozó radioaktív anyag – beleértve a radioaktív
+sugárforrást tartalmazó készüléket – sugárveszélyes munkahelyen kívüli alkalmazása,
+c) a II. sugárvédelmi kategóriába tartozik:
+ca) a Fizvr. 1. melléklete szerint 2. és 3. kategóriába tartozó radioaktív anyag – beleértve a radioaktív
+sugárforrást tartalmazó készüléket – alkalmazása,
+cb) a Fizvr. 1. melléklete szerint 2. és 3. kategóriába tartozó radioaktív anyagot tartalmazó, (2) bekezdés
+szerint is besorolandó ionizáló sugárzást létrehozó berendezés üzemeltetése, előállítása, üzletszerű
+karbantartása,
+cc) az MSZ 62-7 szabvány szerinti B-szintű ipari izotóplaboratórium üzemeltetése,
+cd) az MSZ 62-7 szabvány szerinti II. és III. típusú orvosi izotóplaboratórium üzemeltetése,
+ce) brachyterápiás (implantációs) orvosi terápiás munkahely vagy
+cf) a Fizvr. 1. melléklete szerinti 3. és 4. kategóriába tartozó, zárt sugárforrásnak nem minősülő
+radioaktív anyaggal kapcsolatos, a 44. § (1) bekezdése szerinti rendszeres munkavégzés, továbbá
+előkészítő művelete,
+d) a III. sugárvédelmi kategóriába tartozik:
+da) a Fizvr. 1. melléklete szerint 4. és 5. kategóriába tartozó radioaktív anyag – beleértve a radioaktív
+sugárforrást tartalmazó készüléket – alkalmazása,
+db) a Fizvr. 1. melléklete szerint 4. és 5. kategóriába tartozó radioaktív anyagot tartalmazó, (2) bekezdés
+szerint is besorolandó ionizáló sugárzást létrehozó berendezés üzemeltetése, előállítása, üzletszerű
+karbantartása,
+dc) az MSZ 62-7 szabvány szerinti C-szintű ipari izotóplaboratórium üzemeltetése vagy
+dd) az MSZ 62-7 szabvány szerinti I. típusú orvosi izotóplaboratórium üzemeltetése.
+
+(2) Az üzemeltetett ionizáló sugárzást létrehozó berendezés tervezett alkalmazására és üzemeltetésére,
+a tervezett üzemeltetési körülményektől eltérő eseményekre, továbbá baleseti állapotban fellépő potenciális
+következményekre tekintettel történő sugárvédelmi szempontú kategorizálását az 5. melléklet tartalmazza.
+A radioaktív anyagot tartalmazó, ionizáló sugárzást létrehozó berendezés besorolásakor a radioaktív anyag
+tekintetében az (1) bekezdés b) pont bb) alpontját, c) pont cb) alpontját és d) pont db) alpontját is figyelembe
+kell venni.
+(3) Amennyiben az atomenergia alkalmazója a sugárveszélyes munkahelyen több, I., II. vagy III. kategóriába tartozó
+tevékenységet is végez, akkor a legveszélyesebb tevékenység szerinti besorolásra vonatkozó előírásokat kell
+teljesítenie.
+17. Munkaterületek besorolása és felügyelete
+26. § (1) Az atomenergia alkalmazója az adott sugárveszélyes munkahelyen vagy munkaterületen szükség szerint – a várható
+éves dózisokra és a lehetséges sugárterhelések valószínűségére és nagyságára vonatkozóan elvégzett értékelés
+alapján – felügyelt területeket és azon belül ellenőrzött területeket határoz meg.
+(2) Az ellenőrzött és a felügyelt terület kijelölését rendszeresen, továbbá a sugárvédelmet érintő változások esetén felül
+kell vizsgálni.
+(3) Az atomenergia alkalmazója köteles rendszeresen felülvizsgálni a munkafeltételeket az ellenőrzött és a felügyelt
+területeken.
+27. § (1) Ellenőrzött területként kell meghatározni azt a munkaterületet,
+a) ahol a tevékenységből adódóan az évi egyéni sugárterhelés meghaladhatja az 1 mSv effektív dózist,
+a szemlencse esetében a 15 mSv egyenértékdózist, a bőr és a végtagok esetében a 12. § (3) bekezdésében
+meghatározott egyenértékdózis-korlátok 10%-át, vagy
+b) ahol a radioaktív szennyeződés terjedését vagy az esetleges veszélyhelyzeti sugárterhelés valószínűségét
+korlátozni kell.
+(2) Az ellenőrzött területen a sugárterhelés korlátozásának és az esetleges veszélyhelyzeti sugárterhelés
+valószínűségének csökkentése érdekében, illetve radioaktív szennyeződés terjedésének megakadályozása céljából
+a következő sugárvédelmi intézkedéseket és biztonsági előírásokat kell betartani:
+a) az ellenőrzött terület határait egyértelműen ki kell jelölni, a bejáratot a sugárveszélyre, a sugárforrás jellegére
+és a kockázatra utaló jelzéssel és felirattal, valamint a munkaterület, illetve munkahely megnevezésével kell
+ellátni,
+b) a páciens, a gondozó és a segítő kivételével az ellenőrzött területre csak olyan személy belépését szabad
+lehetővé tenni, aki az ellenőrzött területre vonatkozó sugárvédelmi szabályokat ismeri,
+c) különleges intézkedéseket kell alkalmazni azon a területen, ahol fennáll a radioaktív szennyeződés
+terjedésének jelentős kockázata; ezeknek a különleges intézkedéseknek ki kell terjedniük a személyek
+és az áruk be- és kiléptetésére, valamint az ellenőrzött terület és adott esetben a szomszédos terület
+szennyeződésének monitorozására,
+d) a radiológiai kockázatok jellegét és nagyságát figyelembe véve meg kell szervezni az ellenőrzött terület
+sugárvédelmi felügyeletét, a dózisteljesítmény, a radionuklidok légköri aktivitáskoncentrációjának, illetve
+a felületi szennyezettség mérésével,
+e) a radiológiai kockázatokhoz és az érintett műveletekhez igazodó, az MSSZ-ben rögzített munkahelyi
+utasításokat kell meghatározni,
+f) a munkavállalót megfelelő személyi védőfelszereléssel kell ellátni, valamint
+g) az ellenőrzött területen – a (3) bekezdésben foglalt kivétellel – csak az atomenergia alkalmazásával
+összefüggő tevékenység végezhető, és csak a tevékenységekhez szükséges eszköz vagy anyag tartható.
+(3) A (2) bekezdés g) pontjában foglalt tilalom alól kivételt képez
+a) az ipari radiográfia, ahol – indokolt esetben – időben elkülönítve más jellegű anyagvizsgálatok is végezhetők,
+valamint
+b) az egészségügyi szolgáltató tevékenység.
+(4) A (2) bekezdésben felsorolt előírások bevezetése és végrehajtása során az atomenergia alkalmazója figyelembe
+veszi a sugárvédelmi szakértőtől kapott észrevételeket.
+
+28. § (1) Felügyelt területként kell meghatározni azt a munkaterületet,
+a) ahol a tevékenységből adódóan az évi egyéni sugárterhelés meghaladhatja a munkahelyre megállapított,
+lakossági sugárterhelésre vonatkozó dózismegszorítás értékét,
+b) amelyet az ellenőrzött területen esetlegesen fellépő radioaktív szennyeződés, valamint annak terjedésének
+megakadályozására tett intézkedések közvetlenül érinthetnek.
+(2) A felügyelt területen a 27. § (2) bekezdésében meghatározott különleges sugárvédelmi intézkedések és biztonsági
+szabályok alkalmazására szabályos körülmények között nincs szükség, azonban
+a) a radiológiai kockázatok jellegét és nagyságát figyelembe véve meg kell szervezni a felügyelt terület
+sugárvédelmi felügyeletét, a dózisteljesítmény, a radionuklidok légköri aktivitáskoncentrációjának, illetve
+a felületi szennyezettség mérésével,
+b) a sugárvédelmi megbízott döntésétől függően, a felügyelt terület határait a sugárveszélyre, a sugárforrás
+jellegére és a kockázatra utaló jelzéssel és felirattal, valamint a munkaterület vagy munkahely
+megnevezésével kell ellátni,
+c) a sugárvédelmi megbízott döntésétől függően a sugárforrásokkal összefüggő radiológiai kockázatokhoz és
+az érintett műveletekhez igazodó munkahelyi utasításokat kell meghatározni,
+d) a sugárvédelmi megbízott döntésétől függően, a munkahelyen végezhető tevékenységek, a tárolható
+eszközök, anyagok köre korlátozható,
+e) ahol a felügyelt területen belül 20 μSv/h-nál nagyobb környezeti dózisegyenérték-teljesítmény vagy
+besugárzásonként 50 μSv-nél nagyobb környezeti dózisegyenérték fordulhat elő, de az ellenőrzött területté
+nyilvánítás nem indokolt, az érintett területet a sugárveszély-kockázatra utaló jelzéssel egyértelműen és jól
+láthatóan kell ellátni, vagy a területre való véletlen belépést meg kell akadályozni.
+(3) A (2) bekezdésben felsorolt követelmények teljesítése során az atomenergia alkalmazója figyelembe veszi
+a sugárvédelmi szakértőtől kapott tanácsokat.
+29. § (1) Az atomenergia alkalmazójának a feladata, hogy a 27. § (2) bekezdés d) pontja és a 28. § (2) bekezdés a) pontja
+értelmében a munkahelyeken végzett sugárvédelmi felügyelet adott esetben kiterjedjen
+a) a környezeti dózisegyenérték-teljesítmény vagy személyi-dózisegyenérték teljesítmény mérésére, az adott
+sugárzás jellegének és minőségének megjelölésével, és
+b) a szennyező radionuklidok légköri aktivitáskoncentrációjának és felületi szennyezettségének mérésére,
+a radionuklidok jellegének, valamint fizikai és kémiai állapotának megjelölésével.
+(2) Az (1) bekezdésben meghatározott mérések eredményeiről nyilvántartást kell vezetni, és az eredményeket szükség
+szerint fel kell használni a személyi dózisok becslésében.
+18. A sugárterhelésnek kitett munkavállalók kategóriákba sorolása és személyi monitorozás
+30. § (1) A sugárterhelésnek kitett munkavállalók a dozimetriai ellenőrzés és a sugárvédelmi monitorozás szempontjából
+az alábbi kategóriákba sorolandók:
+a) „A” kategória: azok a sugárterhelésnek kitett munkavállalók, akiknek a sugárterhelése meghaladhatja az évi
+6 mSv effektív dózist, vagy a szemlencsére nézve az évi 15 mSv, vagy a bőrre vagy a végtagokra nézve az évi
+150 mSv egyenértékdózist,
+b) „B” kategória: azok a sugárterhelésnek kitett munkavállalók, akik nem tartoznak az„A”kategóriába.
+(2) Az engedélyes – külső munkavállalók esetében a munkáltató az engedélyessel egyetértésben – az egyes
+munkavállalók alkalmasságáról és besorolásáról azok munkába állását megelőzően dönt. E besorolást a munkahelyi
+feltételek és az orvosi felügyelet alapján az engedélyesek – külső munkavállalók esetében a munkáltató
+az engedélyessel egyetértésben – rendszeresen felülvizsgálják.
+(3) Az „A” kategóriába sorolt munkavállalók kötelesek a röntgen- és gamma-sugárzásból származó külső sugárterhelés
+mérésére alkalmas, a munkáltatótól független dozimetriai szolgáltató által biztosított, hatósági személyi dózismérőt
+viselni.
+(4) Az engedélyes további célzott személyi dozimetriai ellenőrző intézkedéseket tesz, ha az „A” kategóriába tartozó
+munkavállalóknak a belső sugárterhelése, a tiszta-béta bomló izotópoktól vagy neutron-sugárzásból származó külső
+sugárterhelése vagy a szemlencsét vagy a végtagokat érő sugárterhelése meghaladhatja a vonatkozó dóziskorlát
+1/10-ét.
+
+(5) A „B” kategóriába sorolt munkavállalók esetében az engedélyes felelőssége a besorolás helyességének
+monitorozással történő alátámasztása. A hatósági felügyeleti tevékenysége keretében az OAH a „B” kategóriába
+tartozó munkavállalók körében is előírhatja a személyi monitorozást és – szükség esetén – a személyi méréseket.
+(6) Azokban a sugárveszélyes munkakörökben, ahol fennáll annak a lehetősége, hogy a munkavállalók külső
+sugárterhelése a hatósági személyi dózismérő egy ellenőrzési periódusára vonatkoztatva a 6 mSv effektív dózist
+meghaladja, a független dozimetriai szolgáltató által biztosított hatósági személyi dózismérő mellett, az engedélyes
+által rendelkezésre bocsátott, folyamatos működésű és kijelzésű, a helyszínen leolvasható és – a munkavégzési
+feltételektől függően – hang-, rezgés-, illetve fényjelzést adó, rendszeresen kalibrált vagy hitelesített elektronikus
+személyi dózisegyenérték-mérőt is használni kell.
+(7) Ha a légi járművek személyzetét érő effektív dózis meghaladhatja az évi 1 mSv értéket, a munkáltató:
+a) értékeli a légi járművek érintett személyzetének sugárterhelését,
+b) az értékelt sugárterhelést figyelembe veszi a munkarend megszervezésében, és ezáltal biztosítja, hogy a légi
+járművek nagy sugárterhelésnek kitett személyzetét érő dózisok csökkenjenek, és
+c) tájékoztatja az érintett munkavállalókat a munkájukkal összefüggő egészségi kockázatokról és a személyi
+dózis nagyságáról,
+d) az a) pont szerinti értékelést megküldi tájékoztatásul az OAH részére.
+(8) Ha a légi járművek személyzetét érő effektív dózis kozmikus sugárzás hatására meghaladhatja az évi 6 mSv értéket,
+a munkáltatónak a 22–40. §-ban meghatározott, az adott esetre vonatkozó követelményeit kell alkalmazni.
+(9) A röntgen-, gamma-, béta- vagy neutron-sugárzásból származó külső személyi sugárterhelés ellenőrzésére
+alkalmazott személyi dózismérőknek a mérésügyről szóló törvény szerinti hitelesítéssel kell rendelkezniük.
+Ha a személyi dózismérőkből a mérési adatok kinyeréséhez a helyszíni adatkiolvasáson túlmenően egyéb
+fizikai-kémiai művelet is szükséges, a műveletet végző, dózismérőt értékelő laboratóriumnak akkreditációval kell
+rendelkeznie.
+(10) A belső sugárterhelésnek kitett személyek esetén a megfelelő dozimetriai mérésekről, az engedélyezés keretében
+jóváhagyott MSSZ-nek megfelelően az engedélyes gondoskodik.
+(11) A belső sugárterhelés vizsgálatát végző laboratóriumnak akkreditációval kell rendelkeznie.
+(12) Ha valamely személy esetén a személyi dozimetriai méréseket nem lehetséges végrehajtani, a személyi
+monitorozást a sugárterhelésnek kitett más munkavállalókon végzett személyi mérések, a munkahelyek 27. §
+és 28. § szerinti felügyeletének eredményei, nem akkreditált, de validált és verifikált vizsgálatok vagy számítási
+módszerek alapján kapott becsült értékek felhasználásával is meg lehet állapítani. Az erre vonatkozó módszertant
+és megfelelőségének értékelését, továbbá a (11) bekezdéstől való eltérés indoklását a 7. melléklet szerint elkészített
+Sugárvédelmi Leírásba kell foglalni.
+(13) Veszélyhelyzet esetén az engedélyes köteles gondoskodni az adott személy által elszenvedett dózisoknak és azok
+testen belüli eloszlásának meghatározásáról.
+31. § (1) A röntgen- és gamma-sugárzásból származó külső sugárterhelés mérésére alkalmas hatósági személyi dózismérő
+biztosítása érdekében:
+a) az OAH megbízásából az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata mint dozimetriai
+szolgáltató biztosítja a hatósági dózismérők rendelkezésre állását. Az OAH által így biztosított hatósági
+dózismérők kiértékeléséért, valamint pótlásáért az atomenergia alkalmazója igazgatási szolgáltatási díjat
+köteles fizetni,
+b) az atomenergia alkalmazója az a) pontban megjelölt dozimetriai szolgáltató helyett más, az OAH által
+a 60. § (15) bekezdése szerint regisztrált, az atomenergia alkalmazójától független dozimetriai szolgáltató
+szolgáltatását is igénybe veheti.
+(2) A hatósági személyi dózismérőt biztosító dozimetriai szolgáltatókkal szemben támasztott követelmények
+az alábbiak:
+a) a dozimetriai szolgáltató az 55. § (1) bekezdés 1., 2. és 4. pontjában felsorolt engedélyhez kötött
+tevékenységet folytathat, de nem biztosíthat hatósági dózismérőt saját tevékenysége tekintetében, kivéve,
+ha tevékenysége kizárólag a dozimetriai szolgáltatói tevékenységre irányul,
+b) a dozimetriai szolgáltatónak az MSZ EN ISO 17025 szabvány szerinti akkreditációval kell rendelkeznie
+a hatósági dózismérők kiértékelésére vonatkozóan,
+c) a hatósági dózismérőket az akkreditációs okiratban meghatározott módszer (módszerek) szerint kell
+kiértékelni,
+
+d) a dozimetriai szolgáltató információbiztonsági rendszert alakít ki, amely biztosítja a bizalmas és személyes
+adatok védelmét,
+e) a dozimetriai szolgáltató olyan informatikai rendszert alakít ki, amely lehetővé teszi a dozimetriai
+eredmények Országos Személyi Dozimetriai Nyilvántartásban történő felhasználását,
+f) a dozimetriai szolgáltató megfelelő eszközökkel, módszerekkel és üzemeltetési feltételekkel köteles
+biztosítani:
+fa) a 0,1 mSv/hónap kimutatási határ elérését,
+fb) 1–6 hónapig terjedő kiértékelési periódus alkalmazhatóságát,
+fc) a 30. § (9) bekezdésében előírtak teljesülését,
+fd) az atomenergia alkalmazójától átvett dózismérők kiértékelését és az eredmények eljuttatását
+az Országos Személyi Dozimetriai Nyilvántartás és atomenergia alkalmazója részére az átvételt
+követő 2 héten belül,
+fe) rendkívüli esetekben a beérkezett dózismérő 3 órán belül kiértékelését,
+g) a dózismérők elvesztése, megrongálódása esetére a dozimetriai szolgáltató köteles tartalék kapacitás
+rendelkezésre állását biztosítani,
+h) a kiértékelő eszközök meghibásodása, anyagi, pénzügyi vagy személyi erőforráshiányok esetén a dozimetriai
+szolgáltatás biztosítására a dozimetriai szolgáltató – az országos tisztifőorvos Országos Személyi Dozimetriai
+Szolgálata kivételével – köteles más, az OAH által a (2) bekezdés e) pontja szerint regisztrált, az atomenergia
+alkalmazójától független dozimetriai szolgáltatóval együttműködési megállapodást kötni.
+(3) A dozimetriai szolgáltatók a szolgáltatásaik igénybevételére az atomenergia alkalmazóival szerződést kötnek.
+(4) A dozimetriai szolgáltató a szerződésben rögzített módon gondoskodik a hatósági dózismérők eljuttatásáról és
+visszavételezéséről.
+(5) A dozimetriai szolgáltató haladéktalanul jelzi az OAH részére:
+a) az ügyfelek által vállalt kötelezettségszegés észlelését és
+b) a 63. § (9) bekezdésében meghatározott feltételek teljesülését.
+(6) A dozimetriai szolgáltató az OAH vagy a megbízók kérésére haladéktalanul elvégzi a hatósági dózismérők rendkívüli
+kiértékelését, amennyiben a munkavállaló jelentős sugárterhelése következik be, vagy annak gyanúja merül fel.
+(7) A dozimetriai szolgáltatók működésük megkezdését az OAH részére bejelentik. A bejelentés tartalmazza a 31. §
+(2) bekezdés a)–e) pontjában, valamint a (2) bekezdés a) pontjában megjelölt információkat, igazolásokat és
+dokumentummintákat.
+19. Az Országos Személyi Dozimetriai Nyilvántartás
+32. § (1) Minden„A”kategóriába tartozó munkavállalóra továbbá a 30. § (5) bekezdése alapján erre kötelezett„B”kategóriába
+tartozó munkavállalóra elvégzett személyi monitorozás eredményét az Országos Személyi Dozimetriai Nyilvántartás
+tartja nyilván a 34. §-ban foglaltaknak megfelelően.
+(2) Az (1) bekezdés alkalmazásában a sugárterhelésnek kitett munkavállalókról meg kell őrizni
+a) a mért vagy becsült személyi dózisok értékeit,
+b) az éves dóziskorlát OAH engedéllyel történő túllépésével végzett tevékenységek, valamint a veszélyhelyzeti
+sugárterhelések esetében a körülményekről és a megtett intézkedésről készült jegyzőkönyveket,
+c) a személyi dózisok meghatározására felhasznált munkahelyi monitorozások eredményeit.
+(3) Az Atv. 16/A. §-ában és a 34. § (4)–(9) bekezdésében nevesített információkat az (1) bekezdés szerinti
+dózisnyilvántartásban elkülönítve kell rögzíteni.
+33. § (1) Az Országos Személyi Dozimetriai Nyilvántartás a nyilvántartott adatokat
+a) a kiértékelési periódusonként az engedélyesnek és a külső munkavállalók munkáltatójának a rendelkezésére
+bocsátja,
+b) kérelmére az érintett munkavállaló rendelkezésére bocsátja,
+c) folyamatosan rendelkezésre bocsátja az Elektronikus Egészségügyi Szolgáltatási Téren keresztül az illetékes
+foglalkozás-egészségügyi szolgálatnak, annak érdekében, hogy az az (5) bekezdésben foglaltaknak
+megfelelően értékelhesse az eredmények egészségügyi következményeit, valamint a sugársérültek ellátására
+a kijelölt kórházak, továbbá az illetékes hatóságok részére.
+
+(2) Az engedélyes – külső munkavállaló esetén a munkáltató – a munkavállaló kérésére biztosítja, hogy az érintett
+munkavállaló betekinthessen
+a) a rá vonatkozó személyi dozimetriai monitorozás eredményeibe – beleértve azoknak az esetleges
+méréseknek az eredményeit is, amelyek a monitorozás eredményeinek becsléséhez alapul szolgáltak –, vagy
+b) a munkahelyek felügyelete során rá vonatkozóan végzett dózis-meghatározás eredményeibe.
+(3) Veszélyhelyzet esetén az engedélyes köteles haladéktalanul közölni a személyi dozimetriai monitorozás és
+a dózis-meghatározás eredményeit az érintett személlyel és az Országos Személyi Dozimetriai Nyilvántartással, külső
+munkavállalók esetén a munkáltatóval is.
+(4) A sugárveszélyes munkakörben foglalkoztatásra, vagy az „A” kategóriájú munkakörbe átsorolásra való
+alkalmasságról előzetes foglalkozás-egészségügyi orvosi vizsgálat dönt. Az orvosi vizsgálat végrehajtásához és
+a munkavállaló további sugárterhelés ellenőrzés alatt tartásának támogatásához szükséges adatokat az engedélyes
+– külső munkavállaló esetében a munkáltató –, az OAH, a foglalkozás-egészségügyi szolgálat, a sugárvédelmi
+szakértő és az illetékes dozimetriai szolgálat egymás rendelkezésére bocsátják.
+(5) Több munkáltatónál munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló alkalmazott
+esetében valamennyi munkáltató köteles a munkavállaló számára hatósági személyi dózismérőt biztosítani,
+függetlenül a munkavállaló dozimetriai besorolásától. A munkavégzés szempontjából a főfoglalkozás melletti
+önfoglalkoztató is munkáltatónak minősül.
+(6) Az Országos Személyi Dozimetriai Nyilvántartás:
+a) az ionizáló sugárzást alkalmazó külföldi munkahelyeken munkát vállaló magyar állampolgárok számára
+– a munkavállaló kérésére – a munkavállaláshoz előzetesen szükséges dozimetriai igazolást állít ki,
+b) az ionizáló sugárzást alkalmazó külföldi munkahelyeken munkát vállaló magyar állampolgárok hazatérését
+követően a külföldi sugárvédelmi hatóság által a magyar munkavállaló számára a külföldi munkahelyen
+esetlegesen bekövetkezett expozícióról kiállított igazolások adatait nyilvántartásba veszi,
+c) az ionizáló sugárzást alkalmazó hazai munkahelyeken munkát vállaló külföldi állampolgárok külföldi
+sugárvédelmi hatóság által kiállított dozimetriai igazolásait nyilvántartásba veszi.
+34. § (1) A hatósági személyi dózismérő használati időtartamának alapértelmezett értéke 2 hónap. A hatósági személyi
+dózismérők ettől eltérő periódusú kiértékelése – a lehetséges egyéni sugárterhelésektől és az alkalmazott
+mérési módszertől függően – az OAH által az 55. § (1) bekezdés 1., 2. vagy 4. pontja szerint kiadott engedélyben
+jóváhagyott és az MSSZ-ben is meghatározott gyakorisággal és mennyiségben történhet.
+(2) Az ellenőrzésre bejelentett munkavállaló munkaviszonyának vagy sugárterhelése ellenőrzésének szünetelése
+vagy megszűnése esetén a munkáltató köteles ennek tényét az OAH-nak bejelenteni, valamint a hatósági személyi
+dózismérőket a dozimetriai szolgáltatónak haladéktalanul visszaküldeni.
+(3) Munkaidőn kívül, illetve a napi sugárveszélyes tevékenység befejezésével a hatósági személyi dózismérőt olyan
+helyen kell tárolni, ahol a természetes háttérsugárzáson felüli járulékos (nem a foglalkozás gyakorlása közben
+kapott) sugárzás nem éri. A hatósági személyi dózismérő kezelése vagy viselése során nem sérülhet meg és
+illetéktelen nem férhet hozzá.
+(4) A testfelület alatt 10 mm mélységben elhelyezkedő lágy testszövetben elvégzett értékelés eredményeként
+meghatározott mennyiség a személyi dózisegyenérték [H
+p
+(10)]. A sugárterhelés kiértékelésekor külső gamma-dózis
+esetén a dóziskorlátozásban szereplő effektív dózis a H
+p
+(10) személyi dózisegyenértékkel azonosnak tekintendő.
+(5) A testfelület alatt 0,07 mm mélységben elhelyezkedő lágy testszövetben elvégzett bétadózis-mérés
+eredményeként meghatározott mennyiség a személyi dózisegyenérték [H
+p
+(0,07)]. A sugárterhelés kiértékelésekor
+a dóziskorlátozásban szereplő bőregyenérték dózis a H
+p
+(0,07) személyi dózisegyenértékkel azonosnak tekintendő.
+(6) A szemlencse sugárterhelésének ellenőrzésére a H
+p
+(3) személyi dózisegyenérték használandó. A sugárterhelés
+kiértékelésekor a dóziskorlátozásban szereplő szemlencse egyenérték dózis a H
+p
+(3) személyi dózisegyenértékkel
+azonosnak tekintendő.
+(7) A testfelület alatt 10 mm mélységben elhelyezkedő lágy testszövetben elvégzett neutrondózis-mérés
+eredményeként meghatározott mennyiség a személyi dózisegyenérték [H
+p
+(10)]. A sugárterhelés kiértékelésekor
+külső neutron-dózis esetén a dóziskorlátozásban szereplő effektív dózis a H
+p
+(10) személyi dózisegyenértékkel
+azonosnak tekintendő.
+(8) A belső sugárterhelés vizsgálat eredményét lekötött effektív dózisban kell megadni. Belélegzéssel és lenyeléssel
+felvett valamennyi, az akkreditált mérési módszerrel kimutatható mennyiségben jelen lévő radionuklid lekötött
+effektív dózisát összegezni kell.
+
+(9) A röntgen-, gamma-, béta-, neutron-sugárzásból adódó külső sugárterhelés és a belső sugárterhelés mérési
+eredményeit a központi nyilvántartás vezetése érdekében, a munkahelyre előírt rendszerességgel közölni kell
+az Országos Személyi Dozimetriai Nyilvántartással.
+(10) A rendkívüli helyzetben az érintett munkavállalók hatósági személyi dózismérőit haladéktalanul vissza kell küldeni
+kiértékelésre. Rendkívüli helyzetben történt mérések esetén a kiértékelés után az eredményt azonnal közölni kell
+az Országos Személyi Dozimetriai Nyilvántartással.
+(11) A külső és belső besugárzásoktól eredő dózisokat az Országos Személyi Dozimetriai Nyilvántartás összegzi.
+(12) Az engedélyezett különleges sugárterheléseket a szabályos körülmények mellett kapott sugárterhelésektől
+elkülönítve kell nyilvántartani.
+20. Egészségügyi vizsgálat és felügyelet
+35. § (1) A sugárterhelésnek kitett munkavállalók orvosi vizsgálatát és felügyeletét az egészségügyért felelős miniszter
+a munkaköri, szakmai vagy személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló
+rendeletében foglaltak szerint kell végezni.
+(2) Sugárveszélyes munkakörben nem foglalkoztatható az a munkavállaló, akiről a foglalkozás egészségügyi szolgálat
+vizsgálata során megállapítást nyert, hogy egészségügyi szempontból alkalmatlan az adott munkakör betöltésére.
+21. Rendkívüli események kezelése
+36. § (1) Az atomenergia alkalmazása során sugárvédelmi szempontból rendkívüli események közé tartozik különösen
+a) a lakossági vagy a foglalkozási dóziskorlát túllépése,
+b) a lakossági dózismegszorítás túllépése,
+c) a sugárforrás elvesztése vagy jogosulatlan használata,
+d) a zárt sugárforrás – kivéve mentességi szint alatti sugárforrás – zártságának megszűnése a szolgálati időn
+vagy annak engedélyezett meghosszabbításán belül, vagy
+e) minden olyan esemény, beleértve a tűzeseteket, emberi hibákat, fizikai védelmi eseményeket, berendezések
+meghibásodását és egyéb üzemzavarokat is, amelynek eredményeként
+ea) a munkavállalók nem tervezett, a vonatkozó éves dóziskorlát 1/10-ét meghaladó sugárterhelése
+következett be,
+eb) az üzemeltetési feltételek és korlátok sérültek,
+ec) a radioaktív sugárforrások károsodhattak,
+ed) a radioaktív sugárforrások vagy ionizáló sugárzást létrehozó berendezések biztonságos kezelését
+szolgáló rendszerek károsodhattak, vagy
+ee) radioaktív izotópok nem engedélyezett módon vagy valamely kivizsgálási szintet, valamint
+e határértéket túllépően kerültek vagy kerülhettek ki a környezetbe.
+(2) Az engedélyes a lakossági dóziskorlát túllépésének kivételével az (1) bekezdés szerinti esemény körülményeit
+köteles megvizsgálni, az esemény ismétlődésének vagy hasonló esemény bekövetkezésének megelőzését célzó
+javító intézkedéseket tenni.
+(3) Radioaktívhulladék-tároló létesítményben elhelyezett radioaktív sugárforrás kivételével az engedélyes köteles
+gondoskodni minden egyes sugárforrás sértetlenségének ellenőrzéséről minden olyan eseményt követően,
+beleértve a tűzeseteket is, amelynek során a sugárforrások károsodhattak. A már hulladékká minősített és
+kondicionált sugárforrások esetében a hulladékcsomag sértetlenségét kell vizsgálni.
+(4) Rendkívüli esemény bekövetkezése esetén az OAH elrendeli a dóziskorlát túllépésének gyanúja esetén
+a doziméterek soron kívüli kiértékelését, valamint az engedélyezett sugárvédelmi feltételek sérülésének
+bekövetkezése esetén a munkavégzés felfüggesztését.
+(5) Ha rendkívüli esemény következtében nukleáris veszélyhelyzet áll vagy állhat elő, az országos nukleárisbaleset-
+elhárítási rendszerről szóló kormányrendelet szerint kell eljárni a lakosságot érintő következmények elhárítása vagy
+enyhítése érdekében.
+(6) Az atomenergia alkalmazójának rendkívüli esemény vagy nukleáris veszélyhelyzet bekövetkezése esetén szükséges
+teendőit a veszélyhelyzet-elhárítási tervben kell rögzíteni. A rendkívüli esemény vagy nukleáris veszélyhelyzet
+kezelésére vonatkozó eljárást az OAH az 55. § (1) bekezdés 1., 2. és 4. pontjai szerinti engedélyezési eljárás során
+az MSSZ részeként, nukleáris létesítmény esetén az NBSZ R. és radioaktívhulladék-tárolók esetén a TBSZ R. szerint
+hagyja jóvá.
+
+22. Az engedélyesnél sugárvédelmi feladatokat ellátó személyek
+37. §
+Az engedélyes a sugárvédelemmel kapcsolatos feladatainak ellátását sugárvédelmi szakértő és sugárvédelmi
+megbízott bevonásával végzi.
+38. § (1) Az atomenergia alkalmazójának a foglalkozási és a lakossági sugárterheléssel kapcsolatban alkalmazandó
+jogszabályi előírásoknak való megfeleléssel összefüggő kérdésekben történő tanácsadás érdekében sugárvédelmi
+szakértőt kell igénybe vennie.
+(2) A sugárvédelmi szakértőt az atomenergia alkalmazója írásban bízza meg. A megbízást az atomenergia
+alkalmazójának vezető tisztségviselője és a sugárvédelmi szakértő aláírásával igazolja.
+(3) A szakértő megbízásával az atomenergia alkalmazója nem mentesül a sugárveszélyes tevékenységért fennálló
+felelőssége alól. Az atomenergia alkalmazója a szakértő személyének kijelöléséről szóló dokumentumot
+az OAH kérésére bemutatja.
+(4) A szakértői feladatok ellátására vonatkozó megbízásban rögzíteni kell a tevékenység megkezdésének időpontját,
+valamint több szakértő kijelölése esetén feladataik megosztását.
+(5) A sugárvédelmi szakértő által nyújtott tanácsadás szükség esetén az alábbiakra terjed ki:
+a) optimálás és a megfelelő dózismegszorítások megállapítása;
+b) új létesítmények tervei és új vagy megváltoztatott sugárforrások üzembe helyezhetősége, tekintettel azok
+sugárvédelmi szempontból fontos műszaki, tervezési, biztonsági jellemzőire és a figyelmeztető eszközökre;
+c) az ellenőrzött és a felügyelt területek kategorizálása;
+d) a munkavállalók kategóriákba sorolása;
+e) a munkahelyi és a személyi monitoringprogramok és a kapcsolódó személyi dozimetriai ellenőrzés;
+f) a megfelelő sugárzásmonitoringot végző eszközök;
+g) a minőségbiztosítás;
+h) a környezeti monitoringprogram;
+i) a radioaktív hulladékok kezelésére vonatkozó intézkedések;
+j) a balesetek és a rendkívüli események megelőzése érdekében megteendő intézkedések;
+k) a veszélyhelyzeti sugárzási helyzetekre való felkészülés és azok elhárítása;
+l) a sugárterhelésnek kitett munkavállalók képzési és továbbképzési programjai;
+m) a balesetek és a rendkívüli események kivizsgálása és elemzése és a megfelelő kiigazító intézkedések;
+n) a várandós, az anyatejet adó és a szoptató munkavállalók foglalkoztatásának feltételei;
+o) a megfelelő dokumentációk, például az előzetes kockázatértékelések és az írásbeli eljárások elkészítése.
+(6) Az atomenergia alkalmazójának kötelezően ki kell kérnie a sugárvédelmi szakértő véleményét
+a) az (5) bekezdésben foglalt területeken belül az alábbi kérdésekben:
+aa) a védőfelszerelés és a mérőműszerek ellenőrzése és tesztelése,
+ab) a létesítmények terveinek előzetes, sugárvédelmi szempontú, teljes körű felülvizsgálata,
+ac) új és megváltoztatott sugárforrások üzembe helyezésre való átvétele sugárvédelmi szempontok
+alapján,
+ad) a védőfelszerelés és a védelmi technikák hatásosságának rendszeres ellenőrzése,
+ae) a mérőműszerek rendszeres hitelesítése, valamint üzemképességük és helyes használatuk
+rendszeres ellenőrzése,
+b) a 48. §-ban foglalt feladatok elvégzéséhez,
+c) a 7. mellékletben meghatározott Sugárvédelmi Leírás elkészítéséhez,
+d) a 8. mellékletben meghatározott MSSZ elkészítéséhez.
+(7) Az atomenergia alkalmazójának kötelező figyelembe venni a sugárvédelmi szakértő véleményét a 26–29. §-ban
+meghatározott, az ellenőrzött területre és a felügyelt területre vonatkozó követelmények teljesítése érdekében.
+(8) Az engedélyes sugárvédelmi szakértő bevonásával készíti el az 55. § (1) bekezdés 1., 2., 4., 7., 9–13. és
+16–18. pontjaiban foglalt engedélyek iránti kérelmet és azok mellékletekeit.
+(9) A sugárvédelmi szakértő szükség szerint egyeztet az orvos fizikus szakértővel.
+(10) A sugárvédelmi szakértőnek a sugárveszélyes tevékenység jellegének megfelelő sugárvédelmi szakirányú
+képesítéssel kell rendelkeznie. A sugárvédelmi szakértői tevékenység ellátásához szükséges szakmai ismereteket,
+képesítési feltételeket és szakmai gyakorlatokat, valamint a kérelmezhető szakirányokat a 9. melléklet tartalmazza.
+
+39. § (1) Az engedélyes az engedélyes szervezetén belüli sugárvédelmi feladatok felügyelete és ellátása érdekében írásban
+sugárvédelmi megbízottat nevez ki. Az engedélyes biztosítja a sugárvédelmi megbízott számára mindazokat
+a személyi és tárgyi feltételeket, amelyek feladatai ellátásához szükségesek. A sugárvédelmi megbízott közvetlenül
+az engedélyes sugárvédelmi követelmények végrehajtásáért felelős vezetőjének van alárendelve. Egyéni vállalkozó
+és egyéni cég engedélyesek esetében a sugárvédelmi megbízott kinevezése nem szükséges, a sugárvédelmi
+megbízott feladatainak végrehajtásáért az engedélyes felelős.
+(2) A tevékenység, a sugárveszélyes munkahely és az alkalmazott berendezés jellegétől függően a sugárvédelmi
+megbízott által ellátott feladatok az alábbiakra terjednek ki:
+ 1. annak biztosítása, hogy a sugárzással folytatott munkavégzés a vonatkozó előírások és az MSSZ-ben foglalt
+szabályok betartásával történjen,
+ 2. az MSSZ elkészítése, vagy a sugárvédelmi szakértővel történő elkészíttetése,
+
+3. munkahelyi monitorozó program végrehajtásának felügyelete és az ezzel kapcsolatban keletkezett
+dokumentáció kezelése,
+ 4. részvétel a munkatervek kidolgozásában, azok sugárvédelmi véleményezésével,
+ 5. jelentések készítése a vezetők részére,
+
+6. az adott tevékenységre vonatkozó speciális sugárvédelmi szabályok és eljárások megismertetése
+az új munkavállalókkal és ennek dokumentálása,
+ 7. a sugárveszélyes munkahelyen dolgozók tájékoztatása, oktatásának megszervezése, valamint az oktatásban
+való részvétel nyilvántartása, munkaköri alkalmassági orvosi vizsgálatának szervezése és nyilvántartásának
+vezetése, személyi sugárterhelése ellenőrzésének megszervezése és eredményének nyilvántartása,
+
+8. radioaktív anyag igényléséhez való hozzájárulás, az anyag átvétele, felhasználásának ellenőrzése,
+eltávolításának megszervezése és ezek nyilvántartása,
+ 9. a radioaktív anyag telephelyen belüli mozgatásának felügyelete,
+10. új sugárveszélyes eljárás, módszer bevezetésekor az erre vonatkozó sugárvédelmi előírások kidolgozása,
+illetve kidolgoztatása, sugárvédelmi szempontból hozzájárulás az új eljárás alkalmazásához,
+11. a munkaterület esetleges radioaktív szennyeződésének ellenőrzése és a szennyezettség-mentesítés
+irányítása,
+12. a releváns biztonsági és figyelmeztető rendszerek állapotának rendszeres értékelése,
+13. a sugárvédelmi célokat szolgáló készülékek és eszközök folyamatos karbantartásáról és külön jogszabályban
+előírt rendszeres hitelesíttetéséről, kalibrálásáról való gondoskodás,
+14. a sugárvédelmet érintő javítási, karbantartási munkákat követő mérések, mérési jegyzőkönyvek
+nyilvántartása,
+15. a radioaktív hulladékok gyűjtésének, tárolásának és kezelésének felügyelete, a kibocsátott anyagok
+radioaktivitásának ellenőrzése és nyilvántartása,
+16. a sugárveszélyes munkahely környezetének sugárvédelmi szempontból történő ellenőrzése,
+17. a veszélyhelyzeti sugárzási helyzetekkel összefüggő megelőző, felkészülési és elhárítási tevékenységben való
+részvétel,
+18. a sugárveszélyes munkahelyek munkavédelmi szemléjén és a hatósági ellenőrzésben való részvétel,
+19. az atomenergia alkalmazójának e rendelet szerinti hatósági engedélyeinek nyilvántartása és
+érvényességének felügyelete, szükség esetén átalakításának, a tevékenység megszüntetése esetén pedig
+visszavonásának kezdeményezése,
+20. a hatóságokkal való kapcsolattartás, részükre adatszolgáltatás,
+21. az e rendeletben előírt bejelentési kötelezettség teljesítése,
+22. a sugárvédelmi szakértővel való kapcsolattartás,
+23. mindazon sugárvédelmi feladat ellátása, amelyet jogszabály, az MSSZ, vagy az atomenergia alkalmazója
+írásban a feladatkörébe utal,
+24. a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó
+adatszolgáltatásról szóló rendelet szerinti helyi nyilvántartás megfelelő módon történő vezetése.
+(3) A kiemelt létesítményben, valamint az I. és II. sugárvédelmi kategóriába tartozó tevékenységet végző engedélyes
+szervezetén belül a sugárvédelmi megbízott mellé helyettest is ki kell írásban nevezni, kivéve a legfeljebb 2 főből
+álló szervezeteket.
+(4) A sugárvédelmi megbízott feladatait az atomenergia alkalmazójának szervezetén belül létrehozott létesítményi
+sugárvédelmi szervezet vagy sugárvédelmi szakértő is elláthatja. A sugárvédelmi szervezet vezetője a sugárvédelmi
+megbízott.
+
+(5) Az atomenergia alkalmazója a szervezetén belül a különböző típusú sugárveszélyes munkahelyek tevékenységeinek
+– és több sugárvédelmi megbízott esetén azok feladatainak – összehangolására sugárvédelmi szervezetet hozhat
+létre, melynek feladatait és követelményeit a Létesítményi Sugárvédelmi Szabályzatban (a továbbiakban: LSSZ) kell
+rögzíteni. Az LSSZ több telephelyre is vonatkozhat.
+(7) Az LSSZ alkalmazása esetén az atomenergia alkalmazójának minőségirányítási rendszert kell működtetnie.
+(8) Az LSSZ tartalmazza:
+a) a sugárvédelmi szervezet felépítésének és feladatának bemutatását,
+b) az LSSZ és az egyes sugárveszélyes munkahelyek MSSZ-ének kapcsolatát,
+c) azon sugárvédelmi szervezeti intézkedéseket, amelyek az egyes sugárveszélyes munkahelyek felügyeletének
+koordinálásához szükségesek.
+(9) Az LSSZ tartalmazhatja a 8. mellékletben az MSSZ tartalmára előírt mindazon tartalmi elemeket, amelyeket
+egységességükre tekintettel nem az egyes MSSZ-ekben, hanem az LSSZ-ben célszerű meghatározni,
+(10) Az MSSZ-ben az LSSZ-ben szereplő információk hivatkozhatóak. Az MSSZ-ben és az LSSZ-ben hivatkozni lehet
+az OAH által jóváhagyott külön dokumentumokra is.
+(11) Ha az atomenergia több alkalmazója egy telephelyen belül végez tevékenységet, a sugárvédelmi megbízottak
+feladatainak összehangolására telephelyi sugárvédelmi szolgálat hozható létre, amelynek részletes szabályait
+az atomenergia minden egyes alkalmazója esetében a Munkahelyi vagy Létesítményi Sugárvédelmi Szabályzatban
+kell megjeleníteni.
+(12) Ha a szükséges intézkedés a sugárvédelmi megbízott vagy helyettesének a feladatkörét meghaladja, akkor
+a sugárvédelmi megbízott a sugárvédelmi hiányosságot vagy mulasztást az engedélyes sugárvédelmi
+követelmények végrehajtásáért felelős vezetőjének haladéktalanul jelenti, és megoldási javaslatot terjeszt elő.
+23. A munkavállalók kötelezettségei
+40. §
+A felügyelt és ellenőrzött területen munkát végző munkavállaló, beleértve a külső munkavállalót is, köteles
+a) az MSSZ-et ismerni és az abban foglaltakat betartani,
+b) a védőeszközöket előírásszerűen használni és tárolni,
+c) a személyi dózismérőket előírásszerűen viselni és tárolni,
+d) a belső sugárterhelés meghatározását célzó vizsgálatokon a vizsgálatot végzőkkel együttműködni, valamint
+e) a sugárvédelemmel összefüggő, sugárvédelmi intézkedést kívánó eseményeket a sugárvédelmi
+megbízottnak azonnal jelenteni.
+V. FEJEZET
+A RADIOAKTÍV ANYAGOK ALKALMAZÁSÁRA ÉS IONIZÁLÓ SUGÁRZÁST KIBOCSÁTÓ BERENDEZÉSEK
+ÜZEMELTETÉSÉRE VONATKOZÓ KÖVETELMÉNYEK
+41. § (1) Zárt sugárforrás, kivéve mentességi szint alatti sugárforrás csak a felhasználási időn belül használható fel.
+A felhasználási idő hossza eltérő engedély hiányában a gyártó által meghatározott szolgálati idő. Szolgálati idő
+meghatározása nélkül zárt sugárforrás, kivéve mentességi szint alatti sugárforrás nem hozható forgalomba.
+(2) A Fizvr. 1. melléklete szerinti 1., 2. és 3. kategóriába tartozó zárt sugárforrás csak a gyártó által adott visszafogadási
+garanciával vásárolható.
+(3) A radioaktív sugárforrás zártságát veszélyeztetni (nem rendeltetésszerű mechanikai behatással, hevítéssel, és egyéb
+módokon) tilos.
+(4) A radioaktív sugárforrást minden egyes használat után erre kialakított tárolóhelyen kell tárolni, kivéve, ha az helyhez
+kötött berendezésekben van üzemszerűen elhelyezve.
+(5) Radioaktív anyagot tartalmazó, ionizáló sugárzást létrehozó berendezést lejárt felhasználási idejű sugárforrással,
+kivéve mentességi szint alatti sugárforrás üzemeltetni tilos.
+(6) A felhasználási idő meghosszabbítható, alkalmanként legfeljebb 5 éves időtartammal. A zárt sugárforrás
+felhasználási ideje csak akkor hosszabbítható meg, ha sugárvédelmi szakértő bevonásával elvégzett elemzés
+igazolja, hogy a sugárforrás a további felhasználás során is biztonságosan alkalmazható. Az elemzésben
+a sugárforrás integritásának megmaradását az alábbi eljárások egyikével lehet igazolni:
+a) a sugárforrást teljes élettartamában olyan körülmények között alkalmazták és olyan feltételek mellett
+tervezik használni, amelyek során a sugárforrás igénybevétele – minden vonatkozó paraméter tekintetében –
+
+nem haladja meg a sugárforrás tervezési igénybevételi mértékének 50%-át, és a meghosszabbított
+felhasználási idő nem haladja meg a gyártó által megállapított szolgálati idő kétszeresét,
+b) a sugárforrás gyártója egyetértően nyilatkozik a felhasználási idő meghosszabbításáról, vagy
+c) a sugárforrás szerkezeti anyagainak öregedésére is kiterjedő, az atomenergia alkalmazása körében eljáró
+független műszaki szakértő által készített biztonsági elemzés alátámasztja, hogy a sugárforrás integritása
+megmarad a tervezett időtartam végéig.
+(7) Az OAH minden esetben egyedileg, a (6) bekezdésben foglaltak alapján bírálja el a felhasználási idő kiterjesztését.
+(8) Az OAH a felhasználási idő meghosszabbításakor meghatározza a zártságvizsgálatok módszerét és gyakoriságát.
+(9) A forgalmazóknak biztosítaniuk kell a radioaktív sugárforrásokat tartalmazó készülék vagy ionizáló sugárzást
+létrehozó berendezés beszerzését tervező vállalkozások, valamint az őket képviselő sugárvédelmi szakértők részére:
+a) a megfelelő tájékoztatást azok lehetséges radiológiai kockázatairól és megfelelő használatáról, teszteléséről
+és karbantartásáról,
+b) orvosi radiológiai berendezések esetén a megfelelő tájékoztatást,
+c) annak bemutatását, hogy a berendezés tervezési jellemzőinél fogva lehetővé teszi a sugárterhelés lehető
+legalacsonyabb szintre való korlátozását,
+d) a tájékoztatást az eszköz CE megfelelőségi nyilatkozatáról, a típusjóváhagyási, valamint mentesítési
+engedélyben foglaltakról.
+24. A radioaktív anyagok tárolására vonatkozó követelmények
+42. § (1) A radioaktív hulladékokat a 12. melléklet szerint osztályozni kell.
+(2) A radioaktív hulladékot – kivéve a munkahelyi radioaktívhulladék-tárolóban történő elszállításáig vagy mentességi
+szint alatti lebomlásáig való tárolásáig – a TBSZ R. szerinti előírásoknak megfelelően átmeneti vagy végleges
+hulladéktárolóban kell elhelyezni.
+(3) A nagyon kis aktivitású vagy a kis és közepes aktivitású radioaktív hulladékok esetében a 65 napnál nem hosszabb
+felezési idejű radionuklidokat tartalmazó – és a 65 napnál hosszabb felezési idejű radionuklidokat az általános
+mentességi szint alatti mennyiségben tartalmazó – radioaktív hulladékokat a felhasználó köteles elkülöníteni és
+az erre a célra kialakított, intézményen belüli munkahelyi radioaktívhulladék-tárolóban tárolni mindaddig, amíg
+az radioaktív hulladéknak minősül.
+(4) A 65 napnál hosszabb, de 100 napnál rövidebb felezési idejű radionuklidokat tartalmazó – és a 100 napnál
+hosszabb felezési idejű radionuklidokat az általános mentességi szint alatti mennyiségben tartalmazó – radioaktív
+hulladék munkahelyi radioaktívhulladék-tárolóban történő tárolása is megengedett mindaddig, amíg az radioaktív
+hulladéknak minősül.
+(5) A (3) és (4) bekezdésben foglaltaktól eltérő, a 100 napnál hosszabb felezési idejű radionuklidokat az általános
+mentességi szint alatti mennyiségben tartalmazó radioaktív hulladék munkahelyi radioaktívhulladék-tárolóban
+történő tárolása legfeljebb 5 évig megengedett. Ha a radioaktív hulladék tárolása – rendkívüli esemény
+bekövetkezése vagy a tevékenység megszüntetése miatt a továbbiakban – nem megoldható, úgy a radioaktív
+hulladékot a TBSZ R. szerint engedélyezett átmeneti vagy végleges radioaktívhulladék-tárolóba haladéktalanul el
+kell szállíttatni.
+(6) A radioaktívhulladék-tárolóban lévő anyagokon, illetve csomagokon fel kell tüntetni a radioaktív hulladék
+jellegét, az izotóp fajtáját, a benne lévő aktivitás becsült értékét, a becslés dátumát és a leadás (elhelyezés)
+tervezett dátumát, vagy olyan egyedi azonosítóval kell ellátni az anyagokat, illetve csomagokat, amely alapján
+a radioaktívhulladék-tárolóban lévő anyagokra, illetve csomagokra meghatározott adatok naprakészen fellelhetők.
+(7) A lejárt felhasználási idejű zárt sugárforrásokat a nyitott sugárforrások kezelésére vonatkozó követelmények szerint,
+vagy a veszélyes-, és ezen belül a radioaktív áruk nemzetközi szállítását szabályozó nemzetközi egyezmények
+előírásainak megfelelő sugárforrás-tartóban vagy egyéb, azzal legalább egyenértékű biztonságot nyújtó
+tárolóeszközökben lehet tárolni.
+(8) A használaton kívül helyezett zárt sugárforrásokat az egyéb radioaktív hulladékoktól külön kell kezelni.
+(9) A radioaktív hulladékok további feldolgozása, kondicionálása az alábbi feltételekkel végezhető:
+a) törekedni kell arra, hogy a kezelt hulladék térfogata és az esetlegesen keletkező másodlagos hulladékok
+mennyisége az észszerűen megvalósítható lehető legkisebb mértékű legyen,
+b) a használaton kívüli zárt sugárforrások kondicionálása csak a radioaktív hulladékokkal és a kiégett
+üzemanyaggal kapcsolatos egyes feladatokat ellátó szerv felügyeletében végezhető, a TBSZ R. előírásainak
+betartásával,
+
+c) a hulladékkezelés során biztosítani szükséges, hogy a keletkező hulladékcsomag megfeleljen
+a hulladékcsomagot átvevő szervezet hulladékátvételre vonatkozó követelményeinek, és
+d) a radioaktív hulladékokat a hulladékkezelési műveletek után újra kell osztályozni a 12. melléklet
+alapján, és a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó
+adatszolgáltatásról szóló miniszteri rendelet szerinti nyilvántartásban a hulladék jellemzőinek megváltozását
+be kell vezetni.
+(10) Az általános mentességi aktivitás-koncentrációt nem meghaladó, a hatósági felügyelet alól bejelentési
+kötelezettséggel felszabadított hulladékokat és használaton kívül helyezett zárt sugárforrásokat a továbbiakban
+a hulladékról szóló törvényben meghatározottak szerint, mint elkülönítetten gyűjtött hulladékot kell kezelni. Az így
+felszabadított sugárforrásokat és hulladékokat további kezelésükig az ellenőrzött területen kívül kell tárolni.
+(11) A mentességi aktivitást nem meghaladó aktivitású, használaton kívül helyezett zárt sugárforrásokat:
+a) a hulladékról szóló törvényben meghatározottak szerint kell kezelni, ha a sugárveszélyre utaló figyelmeztető
+jelzések eltávolításra kerültek és a sugárforrásban lévő 100 napnál hosszabb felezési idejű radionuklidok
+aktivitása nem haladja meg a vonatkozó mentességi aktivitás 1/10-ét, egyéb esetben
+b) az átmeneti vagy végleges radioaktívhulladék-tároló üzemeltetője vagy a sugárforrás gyártója részére kell
+átadni.
+(12) Az általános mentességi aktivitás-koncentrációt meghaladó, a hatósági felügyelet alól engedéllyel felszabadított
+hulladékokat a felszabadításra vonatkozó engedély feltételeinek betartásával kell kezelni.
+25. A zárt sugárforrásokra vonatkozó követelmények
+43. § (1) A Fizvr. 1. melléklete szerint 1., 2. és 3. kategóriába tartozó zárt radioaktív sugárforrás alkalmazása esetén
+az atomenergia alkalmazója köteles:
+a) biztosítani, hogy – a radioaktív hulladékká nyilvánított sugárforrások kivételével – a zárt radioaktív
+sugárforrások sértetlenségének ellenőrzése és fenntartása érdekében a telepített sugárforrások esetében
+a szolgálati időn belül a gyártó által javasolt időközönként, de legalább 3 évente,
+aa) a mozgó eszközökben alkalmazott, valamint a manuálisan mozgatott sugárforrások esetében
+a szolgálati időn belül a gyártó által javasolt időközönként, de legalább évente,
+ab) a szolgálati időn túl az OAH által – legalább az a) pont és az a) pont aa) alpontja szerinti
+gyakorisággal – előírt módon, vagy
+ac) minden olyan üzemzavari vagy rendkívüli esemény bekövetkezése után, mely során a sugárforrást
+nem a szabvány szerinti tervezett igénybevételi osztályának megfelelő körülmények között
+használták vagy tárolták,
+sor kerüljön a közvetlen vagy közvetett zártságvizsgálatokra,
+b) az a) pontban előírt gyakoriságú zártságvizsgálatot az ISO 9978 szabvány szerint vagy azzal egyenértékű
+műszaki biztonsági színvonalat biztosító követelménnyel igazolni,
+c) biztosítani, hogy a zárt radioaktív sugárforráshoz való szándékolatlan hozzáférés, a zárt radioaktív sugárforrás
+elvesztése és a zárt radioaktív sugárforrás tűzesetben való károsodásának megelőzése érdekében minden
+rögzített és mozgatható zárt radioaktív sugárforrásra megfelelő, dokumentált intézkedések, írásos útmutatók
+és eljárások vonatkozzanak,
+d) minden használaton kívüli zárt radioaktív sugárforrást az alkalmazás felhagyása után haladéktalanul
+visszajuttatni a gyártóhoz, vagy az atomenergia más alkalmazójának átmenetileg vagy véglegesen átadni, és
+e) mielőtt egy zárt radioaktív sugárforrást más személynek átad – a radioaktív anyag alkalmazására vonatkozó
+engedély másolatának bekérésével és annak átadás-átvételi jegyzőkönyvhöz történő csatolásával –,
+megbizonyosodni arról, hogy a zárt radioaktív sugárforrást átvevő rendelkezik-e a megfelelő engedéllyel.
+(2) Eszközökbe, berendezésbe szerelt vagy tárolóeszközben tartósan tárolt sugárforrás esetén a szabvány szerinti
+közvetett, egyéb esetben közvetlen zártságvizsgálati módszert kell alkalmazni. Ha eszközből, berendezésből zárt
+sugárforrást kiszerelnek, vagy tartós tárolás esetén tárolóeszközből zárt sugárforrást kiemelnek, a zártságvizsgálatot
+haladéktalanul végre kell hajtani, melynek módszerét a kiszerelés körülményeitől függően, a sugárvédelmi
+optimálás alapelvét alkalmazva kell kiválasztani.
+(3) A zártságvizsgálatot sugárvédelmi szakértő vagy az 55. § (1) bekezdés 4. pontja szerinti engedéllyel rendelkező
+végezheti, vagy végrehajthatja az engedélyes is, ha a 8. melléklet szerinti MSSZ tartalmazza a zártságvizsgálat
+szakszerű és biztonságos elvégzésnek technológiai leírását.
+
+26. Nyitott radioaktív sugárforrásokra vonatkozó követelmények
+44. § (1) Nyitott radioaktív sugárforrásokkal kapcsolatos rendszeres munkavégzés, továbbá nyomjelzéstechnikai,
+mezőgazdasági vizsgálat, kísérlet esetén a radioaktív anyaggal kapcsolatos előkészítő művelet kizárólag
+izotóplaboratóriumban végezhető.
+(2) Az izotóplaboratórium kialakításának és felszerelésének biztosítania kell a külső és a belső sugárterhelés elleni
+védelmet. Az izotóplaboratórium kialakításával és felszerelésével kapcsolatos követelmények elsődlegesen
+a felhasznált radioaktív izotóp aktivitásától, fajtájától és a felhasználás, illetve a végzett műveletek típusától függnek.
+(3) Nyitott radioaktív sugárforrás izotóplaboratóriumon kívüli felhasználását vizsgálati típusonként kell megtervezni és
+engedélyeztetni.
+(4) Az izotóplaboratórium kialakításakor azt a munkaterületet, ahol radioaktív izotóppal kapcsolatos műveletet
+végeznek és a munkavégzésre létesített egyéb munkaterületeket egymástól elválasztva kell kialakítani.
+(5) Nyitott radioaktív sugárforrást felhasználó munkahely bútorzatát, felszerelési tárgyait, padlózatát és falait úgy kell
+kiválasztani, kialakítani, hogy azokon szükség szerint hatásosan elvégezhető legyen a dekontaminálás.
+(6) Porlódással, párolgással járó műveletek végzése során a szennyeződés elkerülésére megfelelő intézkedéseket kell
+tenni.
+(7) Az engedélyes megfelelő intézkedésekkel gondoskodik arról, hogy az izotóplaboratóriumból ellenőrizetlenül
+radioaktív anyag ne kerüljön ki.
+(8) Az izotóplaboratóriumban keletkező radioaktív hulladékot fizikai és kémiai tulajdonságaik alapján elkülönítve kell
+összegyűjteni, és gondoskodni kell a radioaktív hulladék lebomlásig vagy elszállításig történő átmeneti tárolásáról.
+(9) Nyitott radioaktív sugárforrásokkal kapcsolatos munkavégzésre vonatkozó sugárvédelmi előírások az alábbiak:
+a) az izotóplaboratórium területén azt a munkaterületet, ahol a munkavégzés el nem hárítható
+következményeként a környezeti dózisegyenérték-teljesítmény időlegesen meghaladhatja a 20 μSv/h
+értéket, az erre utaló figyelemfelkeltő táblával kell ellátni,
+b) a laboratóriumban egyszer használatos eszközöket kell használni, amennyiben ez nem növeli meg
+indokolatlanul a keletkező radioaktív hulladék mennyiségét,
+c) minden sugárveszélyes munkahelyet el kell látni az ott felhasznált izotópok fajtájának és aktivitásának,
+valamint az elvégzendő feladatoknak megfelelő, sugárvédelmi célokat szolgáló munkaeszközökkel, egyéni
+védőeszközökkel, dekontamináló anyagokkal és magyar nyelvű kezelési utasítással rendelkező sugárvédelmi
+mérőműszerekkel,
+d) az engedélyezett technológiai folyamatoktól való eltérés következtében előálló radioaktív anyag belégzést
+vagy lenyelést, vagy ennek gyanúját a munkavállaló a munkahelyi sugárvédelmi megbízottnak és
+a munkahely vezetőjének haladéktalanul bejelenti,
+e) ellenőrzött területen a radioaktív izotóppal kapcsolatos munkavégzés körén kívül eső tevékenységet végezni,
+vagy a munkavégzéssel össze nem függő tárgyat bevinni, ott tárolni tilos,
+f) nyitott radioaktív sugárforrást felhasználó laboratóriumban dekontamináló készletet kell készenlétben
+tartani, amiről az engedélyes gondoskodik a laboratórium munkaterületeinek, a munkavállalók létszámának,
+a felhasznált radioaktív készítmények aktivitásának és fajtájának figyelembevételével,
+g) a dekontamináló készletet, amely kizárólag a radioaktív szennyezettség mentesítésére használható,
+a munkaterület közelében, könnyen elérhető, felirattal megjelölt helyen kell tárolni, és használatára
+a munkavállalókat ki kell oktatni,
+h) a munkahely falainak, padlójának, felszerelésének szennyeződése esetén a szennyezett felületek közvetlen
+dekontaminálása – a munkahelyi sugárvédelmi megbízott irányításával – az ott dolgozó munkavállalók
+feladata, továbbá
+i) ha a szennyeződés a tevékenység megszűnését követően derül ki, a 49. §-ban foglaltak szerint kell eljárni.
+(10) Nyitott radioaktív sugárforrást más személynek történő átadása előtt az atomenergia alkalmazója, köteles
+megbizonyosodni arról, hogy a nyitott radioaktív sugárforrást átvevő rendelkezik a megfelelő engedéllyel.
+27. Ionizáló sugárzást létrehozó berendezésekre vonatkozó követelmények
+45. § (1) A berendezés fő műszaki paramétereinek módosítását, fődarabjait, árnyékolását, védelmi funkcióit érintő
+karbantartását, javítását vagy cseréjét követően a berendezés csak – megfelelő szakmai képesítéssel és az 55. §
+(1) bekezdés 4. pontja szerinti engedéllyel rendelkező szervezet által végzett – dokumentált sugárvédelmi
+
+méréseket is magába foglaló minőségellenőrzési vizsgálat után vehető használatba, amely vizsgálat igazolja
+a berendezés engedélyezett paramétereknek megfelelő működését.
+(2) Mielőtt az atomenergia alkalmazója ionizáló sugárzást létrehozó berendezést más személynek átad, köteles
+megbizonyosodni arról, hogy az ionizáló sugárzást kibocsátó berendezést átvevő rendelkezik az üzemeltetésére
+vonatkozó engedéllyel, vagy tulajdonjoga vagy használata bármilyen jogcímen történő átengedése a 60. §
+(1) bekezdése szerint bejelentésre került az OAH részére.
+VI. FEJEZET
+NEM ORVOSI CÉLÚ KÉPALKOTÁSSAL JÁRÓ SUGÁRTERHELÉS
+46. § (1) A nem-orvosi célú, tudatosan besugárzással járó képalkotó tevékenységek közé tartoznak:
+a) az orvosi radiológiai berendezés felhasználásával végzett tevékenységek, mint
+aa) munkaügyi célú radiológiai egészségügyi értékelés,
+ab) bevándorlási célú radiológiai egészségügyi értékelés,
+ac) biztosítási célú radiológiai egészségügyi értékelés,
+ad) gyermekek vagy serdülők testi fejlettségének radiológiai felmérése életvitelszerű foglalkozással
+összefüggésben,
+ae) radiológiai életkor-meghatározás,
+af) az ionizáló sugárzás felhasználása az emberi testen belül elrejtett tárgyak felderítésére,
+b) a nem orvosi radiológiai berendezés felhasználásával végzett tevékenységek, mint
+ba) ionizáló sugárzás felhasználása az emberi testen lévő vagy az emberi testhez erősített tárgyak
+felderítésére,
+bb) ionizáló sugárzás felhasználása rakomány átvizsgálásakor az abban rejtőzködő emberek
+felderítésére,
+bc) az ionizáló sugárzás jogi és biztonsági célú felhasználásai.
+(2) A nem-orvosi célú, besugárzással járó képalkotó tevékenységek minden típusát indokolni kell, mielőtt a gyakorlatba
+bevezetése előtt az általánosságban elfogadható lesz.
+(3) Az általánosan elfogadott típusú tevékenységek valamennyi konkrét alkalmazását indokolni kell.
+(4) Az orvosi radiológiai berendezések felhasználásával végrehajtott, nem-orvosi célú, besugárzással járó képalkotó
+eljárások minden konkrét alkalmazását előzetesen indokolni kell, mégpedig az eljárás konkrét céljainak és
+a célszemély jellemzőinek figyelembevételével.
+(5) A nem orvosi képalkotással járó sugárterhelést okozó tevékenységeknek a (3)–(4) bekezdés szerinti általános
+és konkrét indokolását az OAH a konkrét alkalmazás engedélyezésekor felülvizsgálja. Az OAH minden konkrét
+alkalmazás engedélyezésekor felülvizsgálatnak veti alá azokat a nem orvosi képalkotással járó sugárterhelést okozó
+körülményeket, amelyek esetében nem kerül sor az egyes sugárterhelések egyedi indokolására.
+(6) Ha nem orvosi célú, besugárzással járó képalkotó tevékenység indokolt az 55. § (1) bekezdés 1. vagy 2. pontja
+szerinti eljárásban, az eljárás során várható sugárterhelést és kockázatokat előzetesen értékelni kell.
+(7) Ha az adott orvosi radiológiai berendezések felhasználásával végrehajtott vizsgálat az egészségügyi szolgáltatások
+nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége
+védelmének felügyeletéről szóló rendelet előírásai szerint
+a) jóváhagyott és nyilvántartásba vett, továbbá az adott célra közvetlenül alkalmazható, az eljárás várható
+sugárterhelése nem haladhatja meg az adott eljárás orvosi alkalmazására vonatkozó diagnosztikai irányadó
+szintet,
+b) nem jóváhagyott, nincs nyilvántartásba véve, vagy az adott célra közvetlenül nem alkalmazható, a Nemzeti
+Népegészségügyi Központ (a továbbiakban: NNK) szakvéleményét csatolni kell az eljárás során fellépő
+sugárterhelés és kockázatok megítéléséhez.
+(8) A nem orvosi radiológiai berendezés felhasználásával végrehajtott eljárás esetében a NNK szakvéleményét csatolni
+kell az 55. § (1) bekezdés 1. vagy 2. pontja szerinti engedély iránti kérelemhez, az eljárás során fellépő sugárterhelés
+és kockázatok megítéléséhez.
+(9) A (7) és (8) bekezdés szerinti eljárás esetén az ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett
+személyek sugárterhelése vizsgálatonként nem haladhatja meg a 0,1 mSv értéket.
+(10) A (7) bekezdés a) pontja és a (8) bekezdés szerinti alkalmazás során igazolni kell, hogy az alkalmazott rutinszerű
+– vagy adott esetben egyedi – protokollok összhangban állnak-e a sugárterhelés céljával és az értékeléshez
+feltétlenül megkívánt képminőséggel.
+
+(11) Az atomenergia alkalmazója a besugárzásnak kiteendő személyt tájékoztatja a várható sugárterhelésről, kikéri
+a besugárzandó személy beleegyezését, kivéve, ha más jogszabályok alapján az adott esetben rendvédelmi szervek
+az adott személy beleegyezése nélkül is eljárhatnak.
+(12) A rendvédelmi szervek által elrendelt besugárzások esetében az indokoltság igazolása az elrendelő hatóság
+felelőssége.
+VII. FEJEZET
+A LAKOSSÁG SUGÁRVÉDELME
+47. § (1) Az atomenergia alkalmazója köteles a sugárzás környezetbe kijutását és a radioaktív szennyezés szabályozatlan és
+ellenőrizetlen módon történő kikerülése megakadályozása érdekében minden észszerű intézkedést megtenni.
+(2) Kiemelt létesítmény és I. sugárvédelmi kategóriába tartozó tevékenység esetén az atomenergia alkalmazója köteles
+a) a létesítmény, illetve a munkahely tervezett helyszínének sugárvédelmi szempontból történő vizsgálata
+során figyelembe venni a vonatkozó demográfiai, meteorológiai, geológiai, hidrológiai és ökológiai
+viszonyokat,
+b) ahol szükséges a radioaktív környezeti kibocsátására vonatkozó terveket készíteni, melynek határértékeit és
+környezeti kibocsátások feltételeit az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív
+kibocsátásokról és azok ellenőrzéséről szóló miniszteri rendelet állapítja meg, valamint
+c) ellenőrizni és az indokolt esetekre korlátozni a lakosság tagjainak a létesítménybe vagy a munkahelyre
+történő bejutását,
+d) üzembe helyezési eljárást végrehajtani annak igazolása céljából, hogy normál üzemi körülmények között
+csak tervezett kibocsátásra kerülhet sor, valamint a létesítmény területének határvonalán kívül lévőket sem
+közvetlen, sem szórt sugárzás nem érheti.
+(3) Hordozható, ionizáló sugárzást létrehozó, illetve radioaktív anyagot tartalmazó berendezések alkalmazása esetén
+gondoskodni kell a megfelelő területnek a sugárveszélyes munkahelyre vonatkozó követelményekkel egyenértékű
+sugárvédelmi biztosításáról.
+(4) Az (1) bekezdésben foglalt követelmények teljesülését az atomenergia alkalmazója
+a) a nukleáris létesítmény esetén az NBSZ R.-ben és a radioaktívhulladék-tároló esetén a TBSZ R.-ben
+meghatározottak szerint igazolja,
+b) az A-szintű izotóplaboratórium, uránbánya és az I. sugárvédelmi kategóriába tartozó sugárveszélyes
+munkahely esetében az 55. §-ban vagy a 64. §-ban foglalt eljárás során igazolja.
+28. Az atomenergia alkalmazójának feladatai
+48. §
+Az atomenergia alkalmazója
+a) a lakosság tagjainak optimális védelmét valósítja meg és tartja fenn,
+b) kiemelt létesítmény esetén, illetve ha hatósági előírás arra kötelezi, üzembe helyezi a környezet radioaktív
+szennyeződése és a lakosság tagjai sugárterhelése értékeléséhez szükséges paraméterek mérésére alkalmas
+berendezéseket, és bevezeti a vonatkozó eljárásokat,
+c) ellenőrzi a b) pontban említett berendezések hatékonyságát és karbantartását, valamint gondoskodik
+a mérőműszerek rendszeres kalibrálásáról.
+VIII. FEJEZET
+FENNÁLLÓ SUGÁRZÁSI HELYZETEK
+29. Szennyezett területek
+49. § (1) A radioaktívan szennyezett területek kezelésére optimált védekezési stratégiát kell kidolgozni, amely tartalmazza
+a) a szennyezett területet érintő célkitűzéseket, többek között a hosszú távon elérni kívánt eredményeket,
+valamint a kapcsolódó vonatkoztatási szintekkel,
+b) az érintett területek határait és a lakosság érintett tagjai körének meghatározását,
+c) az érintett területekre és a lakosság érintett tagjaira alkalmazandó védelmi intézkedések szükségességének
+és terjedelmének megvizsgálását,
+
+d) az érintett területekre való belépés megakadályozásának vagy korlátozásának, valamint az adott területeken
+élők életvitelére vonatkozó korlátozások bevezetésének szükségességét,
+e) a lakosság különböző csoportjait érő sugárterhelésnek, valamint azoknak az eszközöknek az értékelését,
+amelyek az érintett személyek rendelkezésére állnak sugárterhelésük ellenőrzéséhez.
+(2) Azokon a területeken, ahol tartós maradékszennyezettség tapasztalható, és amelyeken az életvitelszerű
+tartózkodást, a társadalmi és gazdasági tevékenység folytatását az OAH engedélyezte, a normálisnak tekinthető
+életkörülmények helyreállítása érdekében – az érdekeltekkel konzultálva – a terület tulajdonosa lehetővé teszi
+a sugárterhelés folyamatos ellenőrzéséhez szükséges intézkedések megtételét. Az intézkedések közé az alábbiak
+tartoznak:
+a) az adott helyzetre meghatározott vonatkoztatási szintek kialakítása,
+b) olyan infrastruktúra kialakítása, amellyel – különösen tájékoztatás, tanácsadás és folyamatos monitorozás
+útján – támogatni lehet önsegítő védelmi intézkedések alkalmazását az érintett területeken,
+c) szükség esetén a szennyezettséget megszüntető intézkedések,
+d) szükség esetén körülhatárolt területek kijelölése.
+(3) A szennyezett terület kezelésére vonatkozó felelősség vagy kötelezettség, beleértve az (1) bekezdésben foglalt
+védekezési stratégia kialakítását és a (2) bekezdésben foglalt intézkedések végrehajtását,
+a) az atomenergia alkalmazójának telephelyén belül az atomenergia alkalmazóját,
+b) korábban megszűnt tevékenység végzésének helyén fennmaradó szennyeződés esetén a terület
+tulajdonosát,
+c) nukleáris veszélyhelyzetet követően, az atomenergia alkalmazójának telephelyén kívül, a veszélyhelyzet
+megszüntetése során az illetékes hatóságok által kijelölt szervezeteket és személyeket
+terheli.
+(4) Egy meglévő sugárzási helyzettel kapcsolatban nem szükséges védelmi intézkedéseket vagy kiigazító
+intézkedéseket alkalmazni, amennyiben egy korábbi hatósági döntés alapján az ingatlan-nyilvántartásba már
+bejegyzésre kerültek a korlátozások, és építési hatósági engedélyt nem igénylő tevékenység esetén a fennálló
+sugárzási helyzet kapcsán a lakosság sugárterhelése nem haladja meg az 1 mSv/év effektív dózist.
+(5) A tartós maradékszennyezettségű területekre vonatkozóan az OAH a határozatával megkeresi az illetékes
+ingatlanügyi hatóságot a tartós környezetkárosodás ténye, mértéke és jellege, valamint az esetleges építésügyi
+korlátozások ingatlan-nyilvántartásba történő feljegyzése céljából.
+30. Beltéri radon-expozíció
+50. § (1) A lakó- és középületekben, továbbá munkahelyeken a radon- és radon leányelem-koncentrációk okozta egészségi
+kockázat optimált mérséklésére külön jogszabály szerint nemzeti cselekvési tervet kell készíteni és végrehajtani.
+(2) A radon- és radon leányelem-koncentrációk vonatkoztatási szintjei levegőben mért éves átlagos
+aktivitáskoncentráció-értékben kifejezve:
+a) lakó- és középületekben: 300 Bq/m3,
+b) munkahelyeken: 300 Bq/m3.
+(3) A radon- és radon leányelem-koncentrációk vonatkoztatási szintjét a nemzeti cselekvési terv országos
+radon-felmérési eredményeire alapozva legalább öt naptári évente felül kell vizsgálni.
+(4) Azokon a munkahelyeken, ahol a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos
+aktivitás-koncentráció értéke az optimálás elvének megfelelően megtett intézkedések ellenére is meghaladja
+a munkahelyekre megadott vonatkoztatási szintet, a munkáltató az OAH részére bejelenti a radon- és radon
+leányelem-koncentrációk levegőben mért éves átlagos aktivitás-koncentráció értékét, a radon-koncentráció
+csökkentése érdekében bevezetett intézkedéseket és a munkavállalók várható éves effektív dózisának becsült
+értékét.
+(5) Azokon a munkahelyeken, ahol a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos
+aktivitás-koncentráció értéke alapján a munkavállalók sugárterhelése meghaladhatja az évi 6 mSv effektív dózist,
+a tevékenységet tervezett sugárzási helyzetként kell kezelni, és alkalmazni kell a 10–14. § és 30–36. § előírásait.
+(6) Azokon a munkahelyeken, ahol a munkavállalókat érő sugárterhelés nem haladja meg az évi 6 mSv effektív
+dózist, de a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos aktivitás-koncentráció
+értéke a munkahelyekre megadott vonatkoztatási szintet meghaladja, a munkáltatónak gondoskodnia kell
+a sugárzási helyzet folyamatos nyomon követéséről és a munkavállalók várható éves effektív dózisának évenkénti
+felülvizsgálatáról.
+
+(7) Azokban a lakó- és középületekben, ahol – a Nemzeti Radon Cselekvési Tervről szóló kormányhatározat szerint
+végzett felmérés alapján – az ott tartózkodókat érő, radonból származó sugárterhelés meghaladhatja az évi 6 mSv
+effektív dózist, vagy a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos aktivitás-koncentráció
+értéke a megadott vonatkoztatási szintet meghaladja, az OAH tájékoztatja az ott tartózkodókat és a polgármestert
+a sugárterhelés mértékéről és a kapcsolódó kockázatokról, valamint a Radon Cselekvési Tervvel összhangban
+a sugárzási helyzet nyomon követésének lehetséges módjairól.
+31. Az építőanyagok által kibocsátott gamma-sugárzás
+51. § (1) Az építőanyagok által kibocsátott beltéri külső gamma-sugárzás vonatkoztatási szintje a kültéri külső
+sugárterhelésen felül 1 mSv/év.
+(2) Azon – különösen a 6. mellékletben felsorolt összetevőket tartalmazó – építőanyag-típusok, amelyek beépítése
+– a mellékletben foglalt képlettel számolt aktivitáskoncentráció-index vagy az adott körülményekre vonatkozó
+pontosabb számítás alapján – a vonatkoztatási szintnél nagyobb dózist eredményezhet, nem hozhatók forgalomba.
+52. § (1) A 6. melléklet szerinti tevékenységek melléktermékeinek kezeléséhez, lerakásához, újrahasznosításához az 55. §
+(1) bekezdés 7. pontja szerinti engedély is szükséges.
+(2) A 6. mellékletben felsorolt, természetben előforduló radioaktív anyagot felhasználó munkahelyeken a tevékenység
+megkezdése előtt sugárvédelmi szakértő bevonásával értékelni kell a lakosság és a munkavállalók sugárterhelését,
+és az értékelést minden, a radioaktív anyag kezelését érintő, tervezett technológiai módosítások esetén felül kell
+vizsgálni. Az értékelést be kell nyújtani az OAH részére.
+(3) Azokon a 6. mellékletben felsorolt, természetben előforduló radioaktív anyagot felhasználó munkahelyeken, ahol
+a munkavállalók sugárterhelése meghaladhatja az évi 1 mSv effektív dózist, a munkáltató biztosítja a sugárzási
+helyzet rendszeres értékelését és az e rendeletben megfogalmazott, a sugárterhelésnek kitett munkavállalókra
+vonatkozó rendelkezések megfelelő alkalmazását. Ha a munkavállalók sugárterhelése meghaladhatja az évi 6 mSv
+effektív dózist, vagy a lakosság sugárterhelése meghaladja az évi 1 mSv effektív dózist, a tevékenységet tervezett
+sugárzási helyzetként kell kezelni, és alkalmazni kell a 10–14. § és a 30–36. § előírásait.
+(4) A 6. mellékletben felsorolt, természetben előforduló radioaktív anyagot felhasználó munkahelyeken a tevékenység
+megkezdése előtt sugárvédelmi szakértő bevonásával elemzést kell készíteni a természetben előforduló radioaktív
+anyagot tartalmazó melléktermékek kezelése, lerakása vagy újrahasznosítása következtében fellépő potenciális
+lakossági sugárterhelésről. Az elemzést minden, a radioaktív anyag kezelését érintő, tervezett technológiai
+módosítás esetén felül kell vizsgálni.
+(5) A 6. melléklet szerinti tevékenységek melléktermékeinek lerakására szolgáló létesítmény (lerakó) létesítését
+megelőzően a létesítményből eredő lakossági sugárterhelést bemutató elemzésben meg kell határozni
+a létesítményben elhelyezhető melléktermékek sugárvédelmi radionuklid-összetételét, aktivitás-koncentrációját,
+fizikai-kémiai jellemzőit, maximális mennyiségét, a létesítmény lezárásának tervezett időpontját, a létesítmény
+lezárásának módját, a lakosság várható sugárterhelését az üzemeltetés során és a lezárást követően egyaránt,
+a rendkívüli eseményeket is beleértve.
+(6) A melléktermék lerakási tevékenységének megszüntetésekor vagy lerakó létesítmény bezárásakor az üzemeltető
+köteles a (4) bekezdésben részletezett tartalmú, aktualizált elemzést benyújtani az OAH részére. Az elemzésekben
+be kell mutatni, hogy a lezárást követően az OAH által az engedélyezési eljárás során meghatározott időtartam alatt
+előreláthatólag milyen lakossági sugárterheléssel kell számolni a felhagyott területen. Amennyiben a felhagyás
+után a várható sugárterhelés meghaladná a lakossági sugárterhelésre vonatkozó évi 1 mSv effektív-dóziskorlátot,
+az OAH határozatban meghatározza a terület rekultivációt követő hasznosítására vonatkozó építésügyi
+korlátozásokat. A korlátozás ingatlan-nyilvántartásba történő feljegyzése céljából az OAH megkeresi az illetékes
+ingatlanügyi hatóságot.
+
+IX. FEJEZET
+HATÓSÁGI RENDSZER
+32. Útmutatás a sugárvédelmi követelmények teljesítéséhez
+53. § (1) A sugárvédelmi követelmények teljesítésének módszerére és a választott sugárvédelmi ismeretekre vonatkozó
+ajánlásokat, továbbá a veszélyesség szintjére, valamint az adatszolgáltatásra vonatkozó alapelveket az OAH által
+kiadott útmutatók tartalmazzák. Az útmutatókat az OAH a honlapján közzéteszi.
+(2) Ha az atomenergia alkalmazója az 55. § (1) bekezdése szerinti engedély iránti kérelmét az útmutatókban foglaltak
+szerint terjeszti elő, továbbá, ha az atomenergia alkalmazója a sugárvédelemmel összefüggő tevékenységét
+az útmutatókban foglaltak szerint végzi, akkor az OAH a választott módszert a sugárvédelmi követelmények
+teljesítésének igazolására alkalmasnak tekinti, és az alkalmazott módszer megfelelőségét nem vizsgálja.
+(3) Az útmutatókban foglaltaktól eltérő módszerek alkalmazása esetén az OAH az alkalmazott módszer helyességét,
+megfelelőségét és teljeskörűségét részleteiben vizsgálja.
+(4) Az OAH speciális – valamely radionuklid fizikai-kémiai tulajdonságaihoz, az adott sugárzási helyzethez, vagy
+az adott sugárterhelésnek kitett személy jellemzőihez illeszkedő – módszerek használatát is jóváhagyhatja.
+33. Mentesítés
+54. § (1) Az OAH egyes bejelentési kötelezettségek fenntartásával engedélyezési eljárásban mentesíti az e rendeletben
+szereplő sugárvédelmi előírások alkalmazása alól az ionizáló sugárzást létrehozó berendezés típusának
+alkalmazását, ha
+a) a berendezés típusát – az 55. § (1) bekezdés 3. pontja szerinti eljárásban – jóváhagyta, vagy az 57. §
+(5) bekezdésében felsorolt adatok rendelkezésre állnak,
+b) normál üzemelési körülmények között a berendezés hozzáférhető felszínétől mért 0,1 m távolságban
+a környezeti dózisegyenérték-teljesítmény 1 µSv/h-nál nem nagyobb,
+c) olyan biztonsági berendezésekkel látták el, mely azonnal megszakítja a berendezés üzemét, ha a sugárzási
+teréhez vagy ahhoz az alkatrészhez próbál hozzáférni a felhasználó, amely ionizáló sugárzást bocsát ki,
+d) a berendezés nem orvostechnikai eszköz, és
+e) a berendezés a III. sugárvédelmi kategóriába tartozik.
+(2) Az OAH egyes bejelentési kötelezettségek fenntartásával, engedélyezési eljárásban mentesíti az e rendeletben
+szereplő sugárvédelmi előírások alkalmazása alól annak a II. sugárvédelmi kategóriájú, ionizáló sugárzást létrehozó
+– adott gyártási azonosítókkal rendelkező – berendezés egyedi alkalmazását, amely esetén:
+a) az 54. § (1) bekezdés a)–d) pontjában foglalt feltételek teljesülnek, és
+b) a sugárvédelmi elemzés alapján a berendezés normál üzemi használata során a munkavállalók
+sugárterhelése nem haladja meg a vonatkozó lakossági dóziskorlátokat.
+(3) Az OAH a bejelentési kötelezettség fenntartásával mentesíti az e rendeletben szereplő sugárvédelmi hatósági
+felügyelete alól annak a radioaktív sugárforrást tartalmazó készülék típusának alkalmazását, amely
+a) készülék típusát – az 55. § (1) bekezdés 3. pontja szerinti eljárásban – jóváhagyta, vagy az 57. §
+(5) bekezdésében felsorolt adatok rendelkezésre állnak,
+b) a radioaktív anyagot a várható igénybevételnek megfelelően kialakított zárt sugárforrás formájában
+tartalmazza, és a radioaktív sugárforrást oly módon rögzítették a berendezésben, hogy az normál
+körülmények között megakadályozza a radioaktív anyaggal történő közvetlen érintkezést és a sugárforrás
+kijutását a környezetbe,
+c) normál üzemelési körülmények között a berendezés bármely hozzáférhető felszínétől mért 0,1 m
+távolságban a dózisteljesítmény 1 µSv/h-nál nem nagyobb,
+d) újrahasznosításra vagy a végleges elhelyezésre alkalmazandó feltételek az OAH által meghatározása kerültek,
+és
+e) radioaktívanyag-tartalmát tekintve a III. sugárvédelmi kategóriába tartozik.
+(4) Az OAH a bejelentési kötelezettség fenntartásával, engedélyezési eljárásban mentesíti az e rendeletben szereplő
+sugárvédelmi hatósági felügyelet alól annak az egyedi, a II. sugárvédelmi kategóriájú radioaktív sugárforrást
+tartalmazó – adott gyártási azonosítókkal rendelkező – készüléknek az alkalmazását, amely esetén:
+a) az 54. § (3) bekezdés a)–d) pontjában foglalt feltételek teljesülnek, és
+
+b) a sugárvédelmi elemzés alapján a készülék normál üzemi használata során a munkavállalók sugárterhelése
+nem haladja meg a vonatkozó lakossági dóziskorlátokat.
+(5) Az (1) és (3) bekezdés szerint mentesített berendezéstípusok listáját és az újrahasznosításra vagy a végleges
+elhelyezésre alkalmazandó feltételeket az OAH a honlapján közzéteszi.
+(6) Az OAH a bejelentési kötelezettség fenntartásával, engedélyezési eljárásban mentesíti az e rendeletben szereplő
+sugárvédelmi hatósági felügyelet alól annak a radioaktív sugárforrásnak az alkalmazását, amely vonatkozásában
+arra jogosított sugárvédelmi szakértő által készített biztonsági értékelésben igazolják, hogy a tevékenységből
+eredően összes előrelátható körülmény figyelembevételével a lakosság bármely tagját várhatóan érő egyéni évi
+sugárterhelés nem haladja meg a 30 µSv effektív dózist, és az alacsony valószínűségű események bekövetkezésekor
+a dózis 1 mSv/év alatt marad, valamint természetben előforduló radionuklidok esetén az alkalmazó személyt érő
+többletdózis legfeljebb 1 mSv/év. A feltételezett események köréből kiszűrhetők az olyan események, amelyek
+bekövetkezési gyakorisága 10–6/évnél kisebb.
+34. Engedélyezési eljárások
+55. § (1) Az OAH engedélye szükséges
+ 1. a radioaktív anyag alkalmazásához,
+ 2. az ionizáló sugárzást létrehozó berendezés üzemeltetéséhez,
+ 3. az ionizáló sugárzást létrehozó berendezés, valamint radioaktív sugárforrást tartalmazó készülék forgalomba
+hozatalához vagy első magyarországi üzembe helyezéséhez (típusengedély),
+ 4. nem helyhez kötött sugárveszélyes szolgáltatási tevékenység végzéséhez,
+ 5. radioaktív anyag (beleértve a radioaktív sugárforrást tartalmazó készüléket) forgalmazásához,
+ 6. a sugárvédelmi képzések és továbbképzések végzéséhez,
+ 7. A 6. melléklet szerinti tevékenységek melléktermékeinek kezeléséhez, lerakásához, újrahasznosításához,
+ 8. az atomenergia alkalmazása körében – az Atv. 16/B. § (1) bekezdésében foglaltakra tekintettel –
+sugárvédelmi szakértői tevékenység folytatásához,
+ 9. kiemelt létesítmények lakossági dózismegszorításának meghatározásához,
+10. a több sugárveszélyes munkahelyre kiterjedő LSSZ alkalmazásához,
+11. az éves effektívdózis-korlát meghaladásához,
+12. fogyasztási cikk előállításához, forgalomba hozatalához, tárolásához és kezeléséhez, amelynek
+rendeltetésszerű használatára a rendelet hatálya kiterjed,
+13. radioaktívan szennyezett terület kezeléséhez, az életvitelszerű tartózkodáshoz, a társadalmi és gazdasági
+tevékenység folytatásához azokon a területeken, ahol tartós maradékszennyezettség tapasztalható,
+14. az ionizáló sugárzást létrehozó berendezés típusának vagy egy adott, egyedi azonosítóval rendelkező
+berendezésnek a hatósági engedélyezés és ellenőrzés alóli mentesítéséhez,
+15. radioaktív sugárforrást tartalmazó készülék típusának vagy egy adott, egyedi azonosítóval rendelkező
+készüléknek a hatósági engedélyezés és ellenőrzés alóli mentesítéséhez,
+16. az (1) bekezdés 1. pontja szerinti tevékenység befejezését követően a sugárveszélyes munkahely
+sugárvédelmi felügyeletének megszüntetéséhez,
+17. sugárveszélyes tevékenység során alkalmazott vagy keletkező radioaktív anyag sugárvédelmi, e rendeletben
+meghatározott hatósági felügyelet alól való felszabadításához, ha a radioaktív anyag aktivitás-koncentrációja
+meghaladja az általános mentességi aktivitás-koncentrációt, vagy aktivitása meghaladja a mentességi
+aktivitást,
+18. az adott radioaktív anyag alkalmazásának sugárvédelmi, e rendeletben meghatározott hatósági felügyelet
+alóli mentesítéséhez, ha a radioaktív anyag aktivitás-koncentrációja meghaladja az általános mentességi
+aktivitás-koncentrációt, vagy aktivitása meghaladja a mentességi aktivitást,
+19. zárt sugárforrás felhasználási idejének meghosszabbításához.
+(2) Az 55. § (1) bekezdés 1., 2. és 4. pontjában meghatározott engedély kiemelt létesítmény, az I. vagy a II. sugárvédelmi
+kategóriába sorolt tevékenységek esetén legfeljebb 5 évig hatályos.
+(3) Az 55. § (1) bekezdés 1., 2. és 4. pontjában meghatározott engedély a III. sugárvédelmi kategóriába sorolt
+tevékenység esetén legfeljebb 8 évig hatályos.
+(4) Az 55. § (1) bekezdés 6., 8., 10., 18. és 19. pontjában meghatározott engedély legfeljebb 5 évig hatályos.
+(5) Az 55. § (1) bekezdés 7. és 12. pontjában meghatározott engedély legfeljebb 10 évig hatályos.
+
+(6) Az engedélyek meghosszabbításához az 55. § (1) bekezdésében meghatározott engedélyezési eljárásokat újra le kell
+folytatni.
+(7) Az (1) bekezdés 1. pontja szerint kiadott engedély hatályát veszti:
+a) az (1) bekezdés 16. pontja szerinti eljárás lefolytatása után vagy
+b) az (1) bekezdés 1. pontja szerinti újabb engedély kiadásával.
+(8) Az (1) bekezdés 2., 4., 6. és 8. pontja szerint kiadott engedély hatályát veszti
+a) a tevékenység megszüntetésére irányuló bejelentés tudomásulvételével vagy
+b) az (1) bekezdés 2. és 4. pontja szerinti új engedély kiadásával.
+(9) Az (1) bekezdés 8. pontja esetében megszűnik a sugárvédelmi szakértői tevékenység gyakorlásának joga,
+és az OAH az engedélyt visszavonja, ha
+a) olyan kizáró ok merül fel, amely alapján az engedély kiadására nem kerülhetne sor,
+b) a sugárvédelmi szakértő továbbképzési kötelezettségének nem tesz eleget.
+(10) Az (1) bekezdés szerinti engedély iránti kérelemben a kérelmezőnek igazolnia kell az e rendelet vonatkozó
+követelményeinek való megfelelést.
+(11) Az 55. § (1) bekezdés 3. pontja szerint jóváhagyott, továbbá a 14. vagy 15. pontja szerint mentesített, ionizáló
+sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék típusát az OAH nyilvántartásba
+veszi.
+(12) A külföldi sugárvédelmi képzettség megfelelőségének elismeréséhez az OAH hatósági bizonyítványt állít ki.
+56. § (1) Kiemelt, valamint I. sugárvédelmi kategóriába sorolt tevékenységek végzésére szolgáló létesítmények
+engedélyezése két ütemben történik. Az első ütemben a létesítmény kialakítása előtt a létesítésre irányuló
+engedélyezést kell folytatni az 55. § (1) bekezdés 1. vagy 2. pontja szerinti eljárásban. A második ütemben
+a létesítmény üzembe helyezésére vonatkozó engedélyezést kell lefolytatni az 55. § (1) bekezdés 1. vagy 2. pontja
+szerinti ismételt eljárás kezdeményezésével.
+(2) Az 55. § (1) bekezdés 1. és 2. pontja szerinti engedély kiemelt létesítmények, valamint I. sugárvédelmi kategóriába
+sorolt alkalmazás esetén, továbbá az 55. § (1) bekezdés 12. és 13. pontja szerinti engedélyezési eljárások során
+az OAH meghatározza a radioaktív anyag alkalmazására vagy az ionizáló sugárzást létrehozó berendezés
+üzemeltetésére vonatkozó üzemeltetési feltételeket és korlátokat és a szennyezett terület használatára vonatkozó
+feltételeket.
+(3) Az 55. § (1) bekezdés 1. és 2. pontja szerinti engedély II. és III. sugárvédelmi kategóriába sorolt alkalmazás esetén,
+továbbá az 55. § (1) bekezdés 3–11. pontja és 14–20. pontja szerinti engedély kiadásával az OAH jóváhagyja
+a kérelmet.
+(4) Az 53. § (1) bekezdés 1., 2. és 4. pontja szerinti engedély kiadása során a rendkívüli események és nukleáris
+veszélyhelyzetek kezelési tervének jóváhagyása is megtörténik.
+35. Engedélykérelmek
+57. § (1) Az engedélykérelemnek tartalmaznia kell:
+a) a kérelmező megnevezését és címét,
+b) az engedélyezési eljárásban kapcsolattartó személy nevét és elérhetőségét,
+c) a kérelem benyújtásának indokát,
+d) az engedélyezni kívánt tevékenységek megjelölését az 55. §-ban felsoroltak szerint,
+e) az igazgatási szolgáltatási díj befizetésének igazolását.
+(2) Az 55. § (1) bekezdés 1. és 2. pontja szerinti engedély iránti kérelemhez csatolni kell:
+a) a 7. melléklet szerinti Sugárvédelmi Leírást,
+b) a 8. melléklet szerinti MSSZ-t,
+c) az 55. § (1) bekezdés 2. pontja szerinti engedély iránti kérelemhez minden üzemeltetni kívánt berendezésre
+vonatkozó, 11. melléklet szerinti adatlapot.
+(3) Az 56. § (1) bekezdése szerinti, a létesítmény létesítésére vonatkozó engedély iránti kérelem benyújtásakor
+az (2) bekezdés b) és c) pontjaiban meghatározott dokumentumokat nem kell benyújtani.
+(4) Az 5. mellékletben meghatározott berendezéstípusokba nem besorolható berendezések kategóriáját
+az OAH állapítja meg a forgalomba hozatal engedélyezésekor.
+
+(5) Az 55. § (1) bekezdés 3. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat és
+információkat:
+a) az ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék sugárvédelmi
+kategóriába sorolását, pontos típusmegnevezését,
+b) az ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék rendeltetését
+és annak meghatározását, hogy a készülék vagy a berendezés önállóan vagy csak egy adott feladatot ellátó
+rendszer részegységeként alkalmazható,
+c) az ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék részletes
+leírását, amely tartalmazza az eszköz vagy berendezés felépítését, működésének leírását, a biztonsági
+funkciók működésének módját, a berendezés jelzőrendszereinek működését, a berendezésen elhelyezett
+sugárvédelemmel összefüggő jelöléséket, a berendezés – beleértve az ionizáló sugárzás létrehozásához
+hozzájáruló egységeket, alkatrészeket vagy a sugárvédelmi árnyékolást – műszaki jellemzőit, több lehetséges
+felszereltség esetén minden egyes altípus paramétereinek megadásával,
+d) radioaktív sugárforrást tartalmazó berendezések, készülékek esetében ezen anyagok leírását, valamint
+rögzítésének módját,
+e) a berendezés környezetében mérhető ionizáló sugárzás térbeli eloszlásának jellemzését:
+ea) zárt sugárzási terű berendezések esetében a berendezés bármely hozzáférhető felületétől 0,1 m
+távolságban mérhető dózisteljesítményt,
+eb) nyitott sugárzási terű, nem orvostechnikai berendezések esetében a berendezés környezetében
+– a berendezés bármely hozzáférhető felületétől 0,1 m távolságban, valamint a munkavállaló
+helyén, továbbá amennyiben releváns végtagjainál, bőrén vagy szeménél – mérhető, a szórt
+és árnyékolt sugárzásból származó elnyelt vagy közölt dózist, valamint az elnyelt vagy közölt
+dózisteljesítményt,
+ec) orvostechnikai berendezések esetében az orvostechnikai eszközökről szóló 93/42/EGK irányelv
+szerint végzett, a szórt és árnyékolt sugárzásból származó elnyelt vagy közölt dózisra vagy elnyelt
+vagy közölt dózisteljesítményre vonatkozó megfelelőségértékelési eljárások eredményeit,
+f) az ionizáló sugárzást létrehozó berendezés üzemeltetőit várhatóan érő dózisok elemzését, a berendezés
+jellemzőinek és a munkahely kialakításának figyelembevételével,
+g) nem orvosi képalkotó berendezés esetén az érintetteket várhatóan érő dózisok nagyságrendjét,
+h) a berendezés kialakítása során alkalmazott, az ionizáló sugárzásra vonatkozó szabványban szereplő
+előírásoknak való megfelelés igazolását,
+i) a berendezés rendeltetésszerű használatát leíró magyar nyelvű felhasználói utasítást vagy kézikönyvet, mely
+tartalmazza a felhasználó számára készített biztonsági utasításokat is,
+j) a berendezés – vonatkozó európai uniós irányelvek által előírt – CE megfelelőségi nyilatkozatát,
+k) orvosi radiológiai berendezés esetén egy tanúsító szervezet tanúsítványát arról, hogy a gyártó teljes körű
+minőségügyi rendszert alkalmaz.
+(6) Az 55. § (1) bekezdés 4. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat és
+információkat:
+a) a 7. melléklet szerinti Sugárvédelmi Leírás 1. pontjában megkövetelt információkat,
+b) a 7. melléklet szerinti Sugárvédelmi Leírás 2–4. pontjában foglalt biztonsági értékelések elvégzésére
+vonatkozó általános projekttervet,
+c) a 8. melléklet szerinti MSSZ-t.
+(7) Az 55. § (1) bekezdés 5. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat:
+a) a forgalmazni kívánt radioaktív anyag megnevezését, radionuklid-tartalmát, fizikai és kémiai jellemzőinek
+leírását,
+b) a forgalmazni kívánt radioaktív anyag gyártmányát, beszerzési módját,
+c) a radioaktív anyagok nyomkövetését biztosító eljárásokat,
+d) a radioaktív anyagok forgalmazása során figyelembe vett, a radioaktív anyagokra vonatkozó uniós jogot és
+hazai jogszabályokat,
+e) az ISO 9001 tanúsító szervezet tanúsítványát arról, hogy a forgalmazó minőségirányítási rendszert alkalmaz.
+
+(8) Az 55. § (1) bekezdés 6. pontja szerinti engedély iránti kérelemnek tartalmaznia kell
+a) a 4. melléklet szerinti képzési program bemutatását,
+b) az oktatók legalább 3 éves szakirányú tapasztalatát és az oktatandó tárgyaknak megfelelő felsőfokú
+végzettségét igazoló szakmai önéletrajzát és bizonyítványainak másolatát,
+c) az oktatók átfogó fokozatú képzettségének igazolását,
+d) a sikeres sugárvédelmi vizsga esetén kiállítandó bizonyítvány formáját és
+e) a számonkérés módját.
+(9) Az 55. § (1) bekezdés 7. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+a) a melléktermékek sugárvédelmi szempontból fontos jellemzőit,
+b) a melléktermékek tervezett kezelésének, lerakásának és hasznosításának módját és helyét,
+c) a lakosság várható sugárterhelését, a nem tervezett eseményeket is figyelembe véve, a közvetlen sugárzás,
+a felszíni, a felszín alatti víz és a vízadó közeg potenciális szennyeződése lehetőségének és útvonalának,
+továbbá az esetleges felporzás okozta levegőszennyeződés bemutatásával,
+d) lerakó létesítését megelőzően a létesítményben elhelyezhető melléktermékek maximális mennyiségét,
+a létesítmény lezárásának tervezett időpontját, a létesítmény lezárásának tervezett módját,
+e) lerakó lezárásakor a létesítményben elhelyezett melléktermékek mennyiségét, a létesítmény lezárásának
+módját, a lerakó további felügyeletére tervezett intézkedéseket, a lakosság várható sugárterhelését a lezárást
+követően egyaránt, a nem tervezett eseményeket is beleértve,
+f) a melléktermékek hasznosítása esetén az újrahasznosítást végző munkavállalók és az újrahasznosítás után
+a lakosság várható sugárterhelését, a nem tervezett eseményeket is beleértve.
+(10) Az 55. § (1) bekezdés 8. pontja szerinti engedély iránti kérelemben meg kell jelölni a 9. melléklet 1. pontjába foglalt
+táblázat„A”jelű oszlopában meghatározott választott szakirányt, továbbá igazolni kell
+a) a 9. melléklet 1. pontjába foglalt táblázat„C”jelű oszlopában előírt képesítést és
+b) a 9. melléklet 2. pontja szerinti adatlap, valamint a 9. melléklet 1. pontjába foglalt táblázat „B” és „D” jelű
+oszlopaiban előírt szakmai ismeretek szerinti szakmai gyakorlat meglétét a szakmai tapasztalatszerzés
+állomásainak részletes bemutatásával.
+(11) Az 55. § (1) bekezdés 9. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+a) a kiemelt létesítmény és telephelyének leírását,
+b) a 47. § (2) bekezdésében foglalt információkat,
+c) a tervezett és üzemzavari kibocsátási útvonalakat és
+d) a javasolt dózismegszorítás értékét és az érték sugárvédelmi megalapozását.
+(12) Az 55. § (1) bekezdés 10. pontja szerinti engedély iránti kérelemhez csatolni kell a 8. melléklet szerint elkészített
+LSSZ-t.
+(13) Az 55. § (1) bekezdés 11. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és
+információkat:
+a) az érintett személy vagy személyek Országos Dozimetriai Nyilvántartásban szereplő személyi azonosító
+adatait,
+b) az éves effektívdózis-korlát meghaladása szükségességének indoklását,
+c) a tervezett tevékenységek leírását és
+d) a várható sugárterhelés nagyságát és ennek optimáltságát megalapozó dokumentumot.
+(14) Az 55. § (1) bekezdés 12. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat:
+a) a termék megnevezését,
+b) annak részletes indoklását, hogy a radioaktív tartalom bizonyíthatóan milyen előnyökkel jár a termék
+felhasználása során; mi teszi indokolttá a radioaktív anyagot tartalmazó fogyasztási cikk előállítását,
+forgalmazását, használatát,
+c) az egyes radionuklidok aktivitását, valamint az aktivitás-koncentrációját,
+d) radioaktív anyagokat tartalmazó termékek esetében ezen anyagok fizikai, kémiai és műszaki rögzítésének
+módját, a radioaktív anyag kikerülésének lehetőségét a termékből,
+e) a termék használata szempontjából releváns távolságban – a termék bármely hozzáférhető felületétől 0,1 m
+távolságban – mérhető dózisteljesítményt,
+f) a fogyasztási cikk rendeltetésszerű, rendszeres felhasználóit várhatóan érő dózisok nagyságát, a több termék
+vásárlását és egyidejű felhasználásának esetét is figyelembe véve,
+g) a termék címkézésén lévő jelölések leírását,
+
+h) a fogyasztási cikk magyar nyelvű tájékoztatóját, azaz a fogyasztói dokumentáció egy példányát, amelyben
+feltüntetésre kerülnek az alábbi információk:
+ha) a termék rendeltetése,
+hb) a termék műszaki jellemzőinek leírása, beleértve a fogyasztási cikkben megjelenő radioaktívanyag-
+tartalom megadása [nuklid(ok), aktivitás, kémiai és fizikai forma],
+hc) a termék rendeltetésszerű, biztonságos és helyes használatra vonatkozó információk,
+hd) a termék tárolására, szállítására vonatkozó információk,
+he) a termék ártalmatlanítására, újrahasznosítására vonatkozó információk,
+hf) minden egyéb olyan információ, mely a termék kezelése során a termék használóinak biztonságát
+érinti.
+(15) Az 55. § (1) bekezdés 13. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+a) a radioaktívan szennyezett terület pontos meghatározását,
+b) a radioaktív szennyezés okát és ismertetését,
+c) környezeti mérési adatokat,
+d) a bevezetendő intézkedések stratégiáját és
+e) a tartósan szennyezett területen tervezett tevékenységeket, valamint a várható sugárdózisok értékét.
+(16) Az 55. § (1) bekezdés 14. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+a) az ionizáló sugárzást létrehozó berendezés típusengedélyének számát vagy – még korábban fogalomba nem
+hozott termék esetében – az 57. § (5) bekezdésében meghatározott információkat,
+b) az ionizáló sugárzást létrehozó berendezés mentesítésére vonatkozó, az 54. § szerinti követelmények
+teljesülésének – gyártó vagy arra feljogosított szakember által végzett vizsgálatok – igazolását,
+c) az ionizáló sugárzást létrehozó berendezés felhasználásával végzett tevékenység részletes ismertetését,
+d) a berendezés – üzemeltetése és karbantartása során alkalmazandó – minőségellenőrzési utasítását.
+(17) Az 55. § (1) bekezdés 15. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+a) a radioaktív sugárforrást tartalmazó készülék típusengedélyének számát vagy – még korábban fogalomba
+nem hozott termék esetében – az 57. § (5) bekezdésében meghatározott információkat,
+b) a radioaktív sugárforrást tartalmazó készülék mentesítésére vonatkozó, az 54. § szerinti követelmények
+teljesülésének – gyártó vagy arra feljogosított szakember által végzett vizsgálatok általi – igazolását,
+c) a radioaktív sugárforrást tartalmazó készülék felhasználásával végzett tevékenység részletes ismertetését,
+d) a berendezés üzemeltetése és karbantartása során alkalmazandó minőségellenőrzési utasítást.
+(18) Az 55. § (1) bekezdés 16. pontja szerinti engedély iránti kérelemnek radioaktív anyag alkalmazása esetén
+tartalmaznia kell a 10. mellékletben foglalt szempontok szerint összeállított sugárvédelmi elemzést, és radioaktív
+sugárforrást tartalmazó készülék üzemeltetése esetén a berendezés megszüntetésének (elszállításának vagy
+további használatra alkalmatlanná tételére vonatkozó) igazolását.
+(19) Az 55. § (1) bekezdés 17. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+a) a felszabadítandó radioaktív anyag leírását,
+b) a felszabadított radioaktív anyaggal végzendő tevékenység bemutatását,
+c) a 3. §-ban a felszabadításra vonatkozó feltételek teljesülését igazoló elemzést és a kapcsolódó dózisbecslést.
+(20) Az 55. § (1) bekezdés 18. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+a) a mentesítendő radioaktív anyag alkalmazásával kapcsolatos tevékenység leírását,
+b) az alkalmazott radioaktív anyag jellemzőit, mennyiségét,
+c) az 54. §-ban a mentesítésre vonatkozó feltételek teljesülését igazoló elemzést és a kapcsolódó dózisbecslést.
+(21) Az 55. § (1) bekezdés 19. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+a) a felhasználás módjának – a 41. § (6) bekezdésében foglaltak szerinti, sugárvédelmi szakértő által elkészített –
+biztonsági elemzését a sugárforrással kapcsolatos események értékelésére kiterjedően és
+b) 1 évnél nem régebbi zártságvizsgálati jegyzőkönyvet.
+(22) Az 55. § (1) bekezdés 1. pontja szerinti eljáráshoz a 7. melléklet 1. táblázatába foglalt adatlapot, az 55. § (1) bekezdés
+2. pontja szerinti eljáráshoz a 7. melléklet 2. táblázatába foglalt adatlapot, az 55. § (1) bekezdés 4. pontja szerinti
+eljáráshoz a 7. melléklet 3. táblázatába foglalt adatlapot kell kitölteni.
+58. §
+Ha a kérelmező a kérelmet megalapozó dokumentációt nem elektronikus ügyintézés keretében nyújtja be,
+akkor e dokumentációt két nyomtatott példányban, valamint az OAH-hal egyeztetett szerkeszthető változatban,
+elektronikus adathordozón egy példányban kell benyújtania.
+
+36. Az engedélykérelmek elbírálása
+59. § (1) Az engedély iránti kérelem elbírálásakor az OAH az e rendeletben foglalt követelményeknek való megfelelést
+vizsgálja.
+(2) Az 55. § (1) bekezdés 1., 2. és 4. pontjában meghatározott engedélyezési eljárásokban, ha azok egy sugárveszélyes
+munkahelyre vonatkoznak, az OAH a kérelmező kérelmére összevont engedélyt adhat ki.
+(3) A (2) bekezdés szerinti összevont engedély iránti kérelem elbírálásakor az OAH a rendeletben foglalt
+követelményeknek való megfelelést a tevékenységek komplex sugárvédelmi szempontú vizsgálatával értékeli.
+37. Bejelentési kötelezettség
+60. § (1) Az engedélyes, illetve a tulajdonos bejelenti az OAH-hoz
+a) radioaktív anyag vagy ionizáló sugárzást létrehozó berendezés
+aa) alkalmazására vagy üzemeltetésére irányuló engedélyezett tevékenység megkezdését, legalább
+30 nappal a tervezett tevékenység megkezdését megelőzően,
+ab) alkalmazásának vagy üzemeltetésének megszüntetését, a radioaktív anyag, illetve az ionizáló
+sugárzást létrehozó berendezés további tervezett sorsának – dokumentumokkal alátámasztott –
+ismertetésével, legkésőbb a megszüntetést követő 8 napon belül,
+ac) tulajdonjoga megszerzését vagy tulajdonjoga megszerzésére irányuló szerződéskötést vagy
+megrendelést, valamint a tulajdonos névváltozását 8 napon belül, ionizáló sugárzást létrehozó
+berendezés esetén a 11. melléklet szerinti berendezés adatlap megküldésével,
+ad) tulajdonjoga vagy használata bármilyen jogcímen történő átengedését – a tulajdoni vagy használati
+jogot szerző nevének és címének megjelölésével – 8 napon belül,
+ae) kiemelt létesítmény és az I. sugárvédelmi kategóriába tartozó tevékenység esetében az 56. § szerinti
+létesítésre irányuló engedélyezési eljárást követően a létesítmény építészeti, épületgépészeti
+kialakításának befejezését 8 napon belül,
+af) esetében az engedélyezett sugárveszélyes tevékenység végleges megszüntetését,
+b) a radioaktív anyag 3. § (1) bekezdésében meghatározott feltételekkel történő felszabadítását
+– a felszabadított anyag fizikai-kémiai formájának, mennyiségének, izotóponkénti aktivitásának, illetve
+aktivitás-koncentrációjának, valamint az anyag további kezelését végző szervezet megnevezésének
+feltüntetésével –,
+ba) a 3. § (1) bekezdés a) pontjában meghatározott követelményeknek megfelelő, éves szinten egy
+tonnát nem meghaladó mennyiség esetében a tárgyévet követően január 31-ig,
+bb) a 3. § (1) bekezdés a) pontjában meghatározott követelményeknek megfelelő, éves szinten egy
+tonnát meghaladó mennyiség esetében legalább 30 nappal az egy tonna feletti anyagmennyiség
+tervezett felszabadítását megelőzően,
+bc) a 3. § (1) bekezdés b) pontja szerinti esetben legalább 30 nappal a tervezett felszabadítást
+megelőzően,
+c) a bejelentési kötelezettségek fenntartásával – az alkalmazott anyag mennyiségének, izotóptartalmának és
+aktivitás-koncentrációjának, valamint az alkalmazás helyének feltüntetésével – a sugárvédelmi hatósági
+felügyelet alól mentesített radioaktív anyag alkalmazását és alkalmazásának megszüntetését, legalább
+10 nappal az alkalmazás megkezdését vagy megszüntetését megelőzően,
+d) az engedélyezett MSSZ 8. melléklet 7. pont 7.1.1. alpontjában meghatározott adatok megváltoztatását
+legkésőbb 15 nappal a változást követően, a 20. § szerinti képzettséget igazoló dokumentum azonosítójával
+együtt,
+e) az ionizáló sugárzást létrehozó berendezés forgalmazása adatait a forgalmazást követő év február 15-ig,
+az átadott berendezés típusának, mennyiségének és az átvevő engedélyes megnevezésével,
+f) a 6. mellékletben felsorolt tevékenységet végzők kötelesek az OAH részére 15 munkanapon belül bejelenteni
+tevékenységük megkezdését vagy megszüntetését, mellékelve hozzá, valamint megküldeni az 56. §
+(4) bekezdésében meghatározott munkahelyi sugárvédelmi elemzést.
+(2) A radioaktív anyag vagy ionizáló sugárzást létrehozó berendezés alkalmazásának vagy üzemeltetésének
+megszüntetése során üzemképes állapotban, de üzemen kívül tárolt berendezés esetében a bejelentésnek
+tartalmaznia kell a birtokos nyilatkozatát a fizikai védelem körülményeinek biztosítására vonatkozóan.
+
+(3) Az (1) bekezdés a) pont ab) alpontja szerinti bejelentést követően a sugárvédelmi felügyelet a (2b) és
+(2c) bekezdésben foglalt feltételekkel szüntethető meg.
+(4) Ha az (1) bekezdés a) pont ab) és af) alpontja szerinti bejelentés tartalmazza az (1) bekezdés a) pont ab) alpontjában
+előírtakat, az OAH a bejelentést tudomásul veszi. Ha a bejelentés a tudomásulvételhez szükséges adatokat
+nem tartalmazza teljeskörűen, az OAH írásban határidő tűzésével tájékoztatja az engedélyest a kiegészítésként
+benyújtandó dokumentumok köréről, továbbá arról, hogy azok megküldésének elmulasztása a 65. § szerinti eljárás
+megindítását vonhatja maga után.
+(5) Az 55. § (1) bekezdés 1. pontjában meghatározott engedély hatályának megszűnése után a sugárveszélyes
+munkaterületek, a radioaktív anyagok, a radioaktív anyagot tartalmazó készülékek sugárvédelmi felügyeletét fenn
+kell tartani az 55. § (1) bekezdés 16. pontjában meghatározott engedély véglegessé válásáig.
+(6) Az 55. § (1) bekezdés 2. pontjában meghatározott engedély hatályának megszűnése után a sugárveszélyes
+munkaterületek és ionizáló sugárzást létrehozó berendezések sugárvédelmi felügyeletét fenn kell tartani a 60. §
+(1) bekezdés a) pont ab) alpontja szerinti bejelentés tudomásulvételéig.
+(7) Az OAH az (1) bekezdés szerinti bejelentések tudomásulvételéről 15 napon belül írásban tájékoztatja a bejelentőt.
+(8) A sugárvédelmi képzés és továbbképzés szervezője bejelenti
+a) a sugárvédelmi képzés és vizsga időpontját és helyszínét, a képzés fokozatát, az oktatók nevét, vagy ezen
+adatok megváltozását legalább 15 nappal a vizsga tervezett időpontját megelőzően,
+b) a képzés vagy továbbképzés teljesítését 8 napon belül, és
+c) az OAH által kiadott engedélyben jóváhagyott oktató személyének változását az új oktató megnevezésével
+és érvényes sugárvédelmi szakértői engedélyszámának meghivatkozásával.
+(9) A sugárvédelmi képzés és továbbképzés szervezője az OAH részére benyújtja a vizsgáztatásról szóló jegyzőkönyvet,
+valamint a kiállított Bizonyítványok adatait, legfeljebb 8 napon belül a vizsga időpontját követően.
+(10) Az OAH a (3) bekezdés szerinti bejelentés tudomásul vételéről – a (3) bekezdés a) pontja szerinti bejelentés esetén
+a vizsgaelnök személyének kijelölésével – 8 napon belül írásban tájékoztatja a bejelentőt.
+(11) A sugárvédelmi szakértő a nyilvántartott adataiban bekövetkezett változást – az engedélyező hatóság által
+rendszeresített nyomtatványon vagy űrlapon – a változást követő 15 napon belül köteles bejelenteni.
+(12) A sugárvédelmi szakértő az engedélyező hatóságnál bejelentheti szakértői tevékenységének szüneteltetését,
+a kezdőnap és a szünetelés időtartamának megjelölésével. A szünetelés nem érinti a szakértő folyamatban lévő
+megbízásaiból eredő jogait és kötelezettségeit.
+(13) Az OAH a (6) és (7) bekezdés szerinti bejelentés tudomásul vételéről 8 napon belül írásban tájékoztatja a bejelentőt.
+(14) A 60. § szerinti bejelentési kötelezettségek fenntartásával a sugárvédelmi hatósági felügyelet alól mentesített
+ionizáló sugárzást létrehozó berendezésekre alkalmazni kell a 60. § (1) bekezdés a) pont ac)–ad) alpontjában
+foglaltakat.
+(15) A 31. § (2) bekezdésében foglaltakkal összhangban, a dozimetriai szolgáltató bejelentésének tartalmaznia kell
+az alábbi adatokat:
+a) az akkreditációs okiratban megjelölt tevékenységeket, amelyekre az OAH engedélyét kéri a szolgáltató,
+a mérendő sugárzás fajtáját, energiatartományát, mérési tartományait, a mérendő mennyiségek
+vonatkozásában,
+b) a szolgáltató személyi és tárgyi feltételeinek ismertetését, kapacitását a mérések kivitelezésére,
+c) az adminisztratív feltételeket, ideértve a tevékenység elvégzéséhez szükséges engedélyeket,
+a mintavételezés, mintaértékelés és adatközlés folyamatának részletes ismertetését,
+d) ha korlátozott felhasználásra szánt dózismérőket alkalmaznak, akkor a felhasználói kör egyértelmű
+azonosítását,
+e) annak részletes ismertetését, hogy milyen módon garantálja a szolgáltató az ügyfelek személyi dózismérővel
+való ellátását,
+f) az ügyfelek részére megküldendő, a szolgáltatásra vonatkozó tájékoztató mintáját,
+g) az ügyfelek részére megküldendő mérési eredményközlő lapok mintáját.
+(16) Az OAH a (9) bekezdés szerinti bejelentés tudomásulvételéről 30 napon belül írásban tájékoztatja a bejelentőt.
+38. Jelentés-köteles események
+61. § (1) Az engedélyes a 36. § (1) bekezdés a)–d) pontjában, valamint e) pont eb)–ee) alpontjában meghatározott
+rendkívüli eseményt az észlelést követően haladéktalanul, de legfeljebb két órán belül köteles jelenteni az OAH-nak
+a nukleáris létesítményekben és radioaktívhulladék-tárolókban bekövetkező rendkívüli események és nukleáris
+
+veszélyhelyzetek kivételével, melyeket az NBSZ R.-ben és a TBSZ R.-ben meghatározott bejelentési rend szerint kell
+végezni.
+(2) Az (1) bekezdés szerint bejelentett rendkívüli eseményről el kell készíteni az előzetes INES minősítést az alábbiak
+szerint:
+a) kiemelt létesítmények esetén a minősítésre az engedélyes tesz javaslatot, amelyet az észlelést követő 16 órán
+belül megküld az OAH részére,
+b) azoknak az eseményeknek a minősítésére, amelyeknek a kezelésébe az Országos Sugáregészségügyi
+Készenléti Szolgálatot (a továbbiakban: OSKSZ) bevonták, az OSKSZ tesz javaslatot, amelyet az értesítés
+fogadását követő 16 órán belül megküld az OAH részére,
+c) az a) és b) ponton kívüli esetekben az előzetes minősítést az OAH végzi el az esemény bejelentését követő
+48 órán belül,
+d) a c) pont szerinti előzetes minősítés eredményét az OAH a döntést követő 24 órán belül közli
+az engedélyessel, valamint az OSKSZ-szel, amelyek a közlést követő 16 órán belül, indokolással alátámasztva
+kérhetik a minősítés módosítását,
+e) a végső minősítést az OAH állapítja meg.
+(3) A (2) bekezdés c) pontja szerinti ideiglenes, illetve a (2) bekezdés e) pontja szerinti végső minősítés eredményéről
+INES szerinti 1 vagy annál magasabb minősítésű esemény esetén a közvéleményt tájékoztatni kell. Kiemelt
+létesítmény esetén a tájékoztatást az engedélyes végzi az esemény észlelésétől számított 24 órán belül úgy, hogy
+az eseményről készített tájékoztató közlemény szövegét az engedélyes az esemény észlelését követő 20 órán
+belül, de még annak nyilvánosságra hozatala előtt tájékoztatásul megküldi az OAH-nak és a Belügyminisztérium
+Országos Katasztrófavédelmi Főigazgatóságnak. Nem kiemelt létesítmény esetén a tájékoztatást az OAH a minősítés
+véglegesítését követő 48 órán belül végzi úgy, hogy az eseményről készített tájékoztató közlemény szövegét
+az értesítés fogadását követő 40 órán belül, de még annak nyilvánosságra hozatala előtt tájékoztatásul megküldi
+az engedélyesnek.
+(4) Az engedélyes az (1) bekezdés alapján jelentett esemény körülményeit köteles megvizsgálni, és a vizsgálat
+eredményéről, továbbá az esemény ismétlődésének vagy hasonló esemény bekövetkezésének megelőzését célzó
+javító intézkedésekről az esemény bekövetkezésétől számított 45 napon belül jelentést benyújtani az OAH részére.
+(5) Az engedélyes nyilvántartja mindazon jelentésköteles eseményeket és kivizsgálásuk eredményét, amelyek során
+veszélyhelyzeti sugárterhelés vagy nem tervezett sugárterhelés történt.
+39. További jelentési kötelezettségek, intézkedések
+62. § (1) Az OAH az alkalmazott sugárvédelmi rendszer működőképességének és hatékonyságának felügyelete, továbbá
+e rendeletben megfogalmazott követelmények teljesítésének ellenőrizhetősége érdekében az engedélyesre
+vonatkozó követelményeknél felsoroltakon kívül további jelentési kötelezettséget írhat elő az engedélyes számára.
+(2) Amennyiben bármely munkavállaló, beleértve a külső munkavállalót is, személyi dózisának a Munkahelyi
+Sugárvédelmi Szabályzatban meghatározott módon, az engedélyes által előre külön nem tervezett és
+engedélyezett növekménye egy kiértékelési periódusban meghaladja a vonatkozó éves korlát 10%-át,
+az engedélyes az eseményt haladéktalanul kivizsgálja és a kivizsgálás eredményét megküldi az OAH-nak.
+40. Ellenőrzés
+63. § (1) Az OAH a munkavállalók és a lakosság sugárvédelme érdekében az atomenergia alkalmazóinak tevékenységét,
+az általuk alkalmazott radioaktív anyagok és üzemeltetett berendezések állapotát a fokozatosság elvével
+összhangban rendszeresen és tervszerűen ellenőrzi.
+(2) Az OAH jogosult a sugárvédelmi képzést és a vizsgáztatást ellenőrizni.
+(3) Az OAH a sugárvédelmet befolyásoló tényezők szempontjából jogosult megvizsgálni vagy megvizsgáltatni
+az engedélyes szervezetének működését és a sugárvédelemre hatást gyakorló tevékenységet végző személyek
+(beleértve a beszállítók személyzetének) alkalmasságát a számukra meghatározott feladatok ellátására.
+(4) Az OAH jogosult az engedélyesnél előzetesen bejelentett és – ha az ellenőrzés céljának eléréséhez szükséges –
+előzetesen be nem jelentett ellenőrzést végezni. Előzetesen be nem jelentett ellenőrzés esetén az ellenőrzés
+tényét az OAH képviselője a helyszínen közli az engedélyes erre meghatalmazott képviselőjével, majd az ellenőrzés
+végrehajtási feltételeinek kialakítása után haladéktalanul megkezdi az ellenőrzést.
+
+(5) Ellenőrzése során az OAH jogosult az engedélyes tevékenysége rendszeres végzését bemutattatni, ha az nem jár
+az engedélyes munkavállalóinak indokolatlan sugárterhelésével.
+(6) Az OAH ellenőrzései során az engedélyes köteles az OAH-val együttműködni és az ellenőrzés eredményességét
+előmozdítani, a belső ellenőrzés eredményeit, dokumentumait az OAH rendelkezésére bocsátani.
+(7) Az OAH éves ellenőrzési tervet készít, amelyet negyedévenként aktualizál.
+(8) Az OAH ellenőrzése nem mentesíti az engedélyest a belső ellenőrzési tevékenység végzésének kötelezettsége alól.
+(9) Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy
+ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, vagy
+a munkavállaló adott év során összegzett sugárterhelése az engedélyezett bármelyik szervdózis-korlát 30%-át
+túllépi, az OAH köteles ellenőrzést tartani.
+41. A tevékenység megkezdését megelőző hatósági ellenőrzés
+64. § (1) Az 55. § (1) bekezdés 1. és 2. pontja szerinti engedély kiadását követően – az 55. § (6) bekezdésében, valamint
+a (3) bekezdésben meghatározott esetek kivételével – az engedélyezett tevékenység megkezdésének feltétele
+az OAH ellenőrzése. Az ellenőrzés során az OAH ellenőrzi e rendelet követelményeinek teljesülését, továbbá
+a Sugárvédelmi Leírásban foglaltak megvalósítását.
+(2) Kiemelt létesítmények, továbbá I. és II. sugárvédelmi kategóriába tartozó ionizáló sugárzást kibocsátó berendezések
+sugárvédelmi ellenőrzésében – beleértve az (1) bekezdés szerinti ellenőrzést – az országos tisztifőorvos helyszíni
+mérések végzésével, szakmai értékeléssel, szakvéleményekkel, jegyzőkönyvek felvételével szakmai támogatást nyújt
+az OAH részére.
+(3) A kiemelt létesítmények esetében és az I. sugárvédelmi kategóriába tartozó tevékenység végzése során az 56. §
+(2) bekezdésében előírtak alapján az ellenőrzés kétlépcsős:
+a) a létesítmény létesítésére irányuló engedély szerinti kialakítása után végzett, de a radioaktív anyag átvétele,
+továbbá az ionizáló sugárzást létrehozó berendezés üzembe helyezését megelőző ellenőrzés és
+b) az üzembe helyezésre irányuló engedély kiadását követően, a radioaktív anyag átvételét és betárolását,
+valamint az ionizáló sugárzást létrehozó berendezés üzembe helyezését követő, de a radioaktív anyag
+felhasználását, továbbá az ionizáló sugárzást létrehozó berendezés használatát megelőző ellenőrzés.
+(4) A II. és a III. sugárvédelmi kategóriába tartozó tevékenység esetén az ellenőrzés a radioaktív anyag átvételét és
+tárolását, továbbá az ionizáló sugárzást létrehozó berendezés üzembe helyezését követően, de a radioaktív anyag
+felhasználását, valamint az ionizáló sugárzást létrehozó berendezés használatát megelőzően történik.
+42. Érvényesítés
+65. § (1) A jogszabályi előírások és a hatósági kötelezések betartása érdekében az OAH szükség esetén érvényesítési eljárást
+indít.
+(2) Az érvényesítés a jogszabálysértés vagy hatósági előírás megszegésének a sugárvédelemre gyakorolt hatásától
+függően lehet
+a) csekély sugárvédelmi jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén
+az engedélyes írásbeli figyelmeztetése, amelyben az OAH azonosítja az előírássértés jellemzőit és jogi alapját,
+valamint rögzíti a javító intézkedés végrehajtására engedélyezett időtartamot,
+b) jelentősebb sugárvédelmi jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén
+kiegészítő feltételek előírása az engedélyezett tevékenység elvégzéséhez,
+c) lényeges sugárvédelmi jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén
+az engedélyezett tevékenység korlátozása, az engedély visszavonása.
+(3) Az OAH minden esetben kötelezi az engedélyest az azonosított eltérések kezelésére és a szükséges intézkedések
+megtételére, a feltárt eltérések felszámolására, abból a célból, hogy események bekövetkezését megelőzzék vagy
+az ismételt bekövetkezését megakadályozzák.
+
+43. A foglalkozási személyi dozimetriai monitorozás eredményeinek értékelése és nyilvántartása –
+Országos Személyi Dozimetriai Nyilvántartás
+66. § (1) Az OAH a 32. § (1) bekezdésében előírtak alapján az Országos Személyi Dozimetriai Nyilvántartás 33. § szerinti
+üzemeltetésével gondoskodik az „A” kategóriába, továbbá a 30. § (5) bekezdése alapján erre kötelezett
+„B”kategóriába tartozó munkavállalók személyi monitorozási eredményeinek értelmezéséről és értékeléséről.
+(2) Az OAH sugárvédelmi feladatai ellátása során együttműködik a feladatkörében érintett országos tisztifőorvossal,
+valamint más közegészségügyi és sugáregészségügyi szervekkel.
+44. A lakossági dózisok becslése
+67. § (1) A lakosság tagjait érő dózisok környezeti méréseken alapuló becslésére az OAH az ország területén végzett mérések
+alapján számításokat végez.
+(2) A számítások elvégzéséhez szükséges mérések fajtáját és gyakoriságát, valamint a különféle szervek által végzendő
+mérési eredmények összegyűjtésének módját a lakosság természetes és mesterséges eredetű sugárterhelését
+meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló
+rendelet határozza meg.
+(3) A lakossági dózisok becsléséhez szükséges számításokban az OAH figyelembe veszi
+a) a külső sugárzásból származó dózisokat, valamint
+b) a radionuklid-bevitelt, a radionuklidok jellegét és szükség esetén a fizikai és kémiai állapotát, valamint
+az élelmiszerekben és az ivóvízben vagy más releváns környezeti elemekben található radionuklidok
+aktivitáskoncentrációinak mértékét.
+(4) Az OAH nyilvántartást vezet a külső sugárterheléssel és a radioaktív szennyezéssel kapcsolatos mérésekről,
+a radionuklid-felvétellel kapcsolatos becslésekről, valamint a reprezentatív személy által kapott dózisok
+értékelésének eredményeiről. A nyilvántartásban lévő adatokat az OAH a honlapján közzéteszi.
+45. Hatósági adatszolgáltatás
+68. § (1) Az OAH a hatósági ellenőrzés rendjére tekintettel a honlapján köteles közzétenni és naprakész állapotban tartani
+a) a típusengedéllyel rendelkező, ionizáló sugárzást létrehozó és radioaktív sugárforrásokat tartalmazó
+berendezések listáját,
+b) a mentesített ionizáló sugárzást létrehozó és radioaktív sugárforrásokat tartalmazó berendezések listáját,
+c) az engedélyezett sugárvédelmi védőeszközök listáját,
+d) a lakosságra vonatkozó külső sugárterheléssel és a radioaktív szennyezéssel kapcsolatos mérések
+eredményeit, a radionuklid-felvétellel kapcsolatos becslések eredményeit, valamint a reprezentatív személy
+által kapott dózis-értékelések eredményeit,
+e) az ellenőrzési tervét, valamint
+f) a sugárvédelmi képzésre és továbbképzésre engedéllyel rendelkezők listáját.
+(2) A 36. § alapján bejelentett jelentős eseményekből és az azt követő vizsgálatokból levont, sugárvédelemre
+vonatkozó következtetéseket, tapasztalatokat az OAH közzéteszi a honlapján.
+(3) Az INES szerinti 1 vagy annál magasabb besorolású eseményről az esemény bekövetkezését vagy észlelését követő
+24 órán belül az OAH tájékoztatja a Nemzetközi Atomenergia Ügynökséget.
+(4) Az OAH tájékoztatja a többi tagállam illetékes hatóságának kapcsolattartóját az 55. § (1) bekezdés 12. pontja
+szerinti engedélyezési eljárás során kapott adatokról és információkról, továbbá kérésre köteles tájékoztatást adni
+a vonatkozó határozatáról és annak műszaki megalapozásáról.
+(5) Az OAH az ionizáló sugárzást létrehozó berendezésekre és alkalmazásukra vonatkozóan naprakész nyilvántartást
+vezet. A nyilvántartáshoz az orvosi berendezésekre vonatkozó információk tekintetében hozzáférést biztosít
+az orvosi radiológiai létesítmények működését felügyelő társhatóságok részére.
+
+X. FEJEZET
+ZÁRÓ RENDELKEZÉSEK
+46. Hatályba léptető rendelkezés
+69. §
+Ez a rendelet 2022. május 1-jén lép hatályba.
+47. Átmeneti rendelkezések
+70. §
+Amennyiben az atomenergia alkalmazója egy sugárforrást a gyártó visszavásárlási garanciája nélkül vett, akkor azt
+az alkalmazás befejezése után köteles haladéktalanul olyan létesítménybe vinni, ahol biztosított annak hosszú távú
+tárolása vagy végleges elhelyezése, vagy másik engedéllyel rendelkező vállalkozásnak átadni.
+71. § (1) Az e rendelet hatálya alá tartozó, e rendelet hatályba lépését megelőzően az Állami Népegészségügyi és
+Tisztiorvosi Szolgálat Országos Tisztifőorvos Hivatala (a továbbiakban: ÁNTSZ OTH) és a sugáregészségügyi
+feladatokat ellátó fővárosi és megyei kormányhivatalok által kiadott engedélyek, valamint mentesítésről szóló
+határozatok az engedélyben, illetve a mentesítési határozatban meghatározott ideig hatályban maradnak azzal,
+hogy az 55. § (1) bekezdés 1. és 2. pontjában meghatározott tevékenységekre kiadott engedélyek a legkorábban
+lejáró engedélyben meghatározott ideig maradnak hatályban és az abban foglalt, e rendelet hatálya alá tartozó
+bejelentési, adatszolgáltatási kötelezettségeket az engedélyesek az OAH részére kötelesek teljesíteni.
+(2) A 2016. január 1. után az OAH által kiadott sugárvédelmi szakértői engedélyekben felsorolt szakterületek közül
+az ipari alkalmazások sugárvédelmi tervezése, a nukleáris létesítmények sugárvédelme, a nukleáris veszélyhelyzet
+kezelés és az orvosi radiológiai alkalmazások sugárvédelmi tervezése szakterületek külön eljárás nélkül megfelelnek
+a 9. mellékletben meghatározott szakmai ismereteknek.
+72. § (1) 2020. június 5-től a 2016. január 1-je előtt üzembe helyezett berendezések az ÁNTSZ OTH által 2016. január 1-je előtt
+kiadott engedély vagy sugárvédelmi szakértő által végzett megfelelőségi vizsgálat alapján üzemeltethetők.
+(2) A (2) bekezdés szerinti sugárvédelmi szakértő által végzett megfelelőségi vizsgálatnak igazolnia kell, hogy
+a berendezés vagy készülék megfelel a rá vonatkozó szabványban vagy más műszaki irányelvben foglalt
+sugárvédelmi előírásoknak, és sugárvédelmi szempontból megfelel az egészséget nem veszélyeztető, biztonságos
+munkavégzés követelményeinek, továbbá az üzemeltetés biztonsági feltételei és korlátai megállapíthatók.
+48. Uniós jogi aktusoknak való megfelelés
+73. §
+E rendelet
+a) az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető
+biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom,
+a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i
+2013/59/EURATOM tanácsi irányelvnek,
+b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek
+való megfelelést szolgálja.
+ Kádár Andrea Beatrix s. k.,
+ elnök
+
+1. melléklet a 2/2022. (IV. 29.) OAH rendelethez 1. melléklet a 2/2022. ( . .) OAH rendelethez
+Radionuklidok általános és specifikus mentességi aktivitás-koncentrációja,
+valamint mentességi aktivitása
+1. A radionuklidok általános és specifikus aktivitás-koncentrációja és mentességi
+aktivitása
+1.1. A radionuklidok általános és specifikus aktivitás-koncentrációját, valamint és
+mentességi aktivitását tartalmazó táblázat
+A B C D
+1 Radionuklid Általános mentességi
+aktivitás-koncentráció
+(Bq/g)
+Specifikus
+mentességi
+aktivitás-
+koncentráció
+(Bq/g)
+Mentességi
+aktivitás
+(Bq)
+2 H-3 102 106 109
+3 Be-7 10 103 107
+4 C-14 1 104 107
+5 O-15 C és D oszlopban szereplő
+értékek alkalmazandók
+102 109
+6 F-18 10 101 106
+7 Na-22 10-1 101 106
+8 Na-24 1 101 105
+9 Si-31 103 103 106
+10 P-32 103 103 105
+11 P-33 103 105 108
+12 S-35 102 105 108
+13 Cl-36 1 104 106
+14 Cl-38 10 101 105
+15 Ar-37 C és D oszlopban szereplő
+értékek alkalmazandók
+106 108
+16 Ar-41 C és D oszlopban szereplő
+értékek alkalmazandók
+102 109
+17 K-40 (a) 101 102 106
+18 K-42 102 102 106
+19 K-43 10 101 106
+20 Ca-45 102 104 107
+21 Ca-47 10 101 106
+22 Sc-46 10-1 101 106
+23 Sc-47 102 102 106
+24 Sc-48 1 101 105
+
+25 V-48 1 101 105
+26 Cr-51 102 103 107
+27 Mn-51 10 101 105
+28 Mn-52 1 101 105
+29 Mn-52 m 10 101 105
+30 Mn-53 102 104 109
+31 Mn-54 10-1 101 106
+32 Mn-56 10 101 105
+33 Fe-52 (b) 10 101 106
+34 Fe-55 103 104 106
+35 Fe-59 1 101 106
+36 Co-55 10 101 106
+37 Co-56 10-1 101 105
+38 Co-57 1 102 106
+39 Co-58 1 101 106
+40 Co-58 m 104 104 107
+41 Co-60 10-1 101 105
+42 Co-60 m 103 103 106
+43 Co-61 102 102 106
+44 Co-62 m 10 101 105
+45 Ni-59 102 104 108
+46 Ni-63 102 105 108
+47 Ni-65 10 101 106
+48 Cu-64 102 102 106
+49 Zn-65 10-1 101 106
+50 Zn-69 103 104 106
+51 Zn-69 m (b) 10 102 106
+52 Ga-72 10 101 105
+53 Ge-71 104 104 108
+54 As-73 103 103 107
+55 As-74 10 101 106
+56 As-76 10 102 105
+57 As-77 103 103 106
+58 Se-75 1 102 106
+59 Br-82 1 101 106
+60 Kr-74 C és D oszlopban szereplő
+értékek alkalmazandók
+102 109
+
+61 Kr-76 C és D oszlopban szereplő
+értékek alkalmazandók
+102 109
+62 Kr-77 C és D oszlopban szereplő
+értékek alkalmazandók
+102 109
+63 Kr-79 C és D oszlopban szereplő
+értékek alkalmazandók
+103 105
+64 Kr-81 C és D oszlopban szereplő
+értékek alkalmazandók
+104 107
+65 Kr-83 m C és D oszlopban szereplő
+értékek alkalmazandók
+105 1012
+66 Kr-85 C és D oszlopban szereplő
+értékek alkalmazandók
+105 104
+67 Kr-85 m C és D oszlopban szereplő
+értékek alkalmazandók
+103 1010
+68 Kr-87 C és D oszlopban szereplő
+értékek alkalmazandók
+102 109
+69 Kr-88 C és D oszlopban szereplő
+értékek alkalmazandók
+102 109
+70 Rb-86 102 102 105
+71 Sr-85 1 102 106
+72 Sr-85 m 102 102 107
+73 Sr-87 m 102 102 106
+74 Sr-89 103 103 106
+75 Sr-90 (b) 1 102 104
+76 Sr-91 (b) 10 101 105
+77 Sr-92 10 101 106
+78 Y-90 103 103 105
+79 Y-91 102 103 106
+80 Y-91 m 102 102 106
+81 Y-92 102 102 105
+82 Y-93 102 102 105
+83 Zr-93 10 103 107
+84 Zr-95 (b) 1 101 106
+85 Zr-97 (b) 10 101 105
+86 Nb-93 m 10 104 107
+87 Nb-94 10-1 101 106
+88 Nb-95 1 101 106
+89 Nb-97 (b) 10 101 106
+90 Nb-98 10 101 105
+91 Mo-90 10 101 106
+92 Mo-93 10 103 108
+
+93 Mo-99 (b) 10 102 106
+94 Mo-101 (b) 10 101 106
+95 Tc-96 1 101 106
+96 Tc-96 m 103 103 107
+97 Tc-97 10 103 108
+98 Tc-97 m 102 103 107
+99 Tc-99 1 104 107
+100 Tc-99 m 102 102 107
+101 Ru-97 10 102 107
+102 Ru-103 (b) 1 102 106
+103 Ru-105 (b) 10 101 106
+104 Ru-106 (b) 10-1 102 105
+105 Rh-103 m 104 104 108
+106 Rh-105 102 102 107
+107 Pd-103 (b) 103 103 108
+108 Pd-109 (b) 102 103 106
+109 Ag-105 1 102 106
+110 Ag-110 m (b) 10-1 101 106
+111 Ag-111 102 103 106
+112 Cd-109 (b) 1 104 106
+113 Cd-115 (b) 10 102 106
+114 Cd-115 m (b) 102 103 106
+115 In- 111 10 102 106
+116 In-113 m 102 102 106
+117 In-114 m (b) 10 102 106
+118 In-115 m 102 102 106
+119 Sn-113 (b) 1 103 107
+120 Sn-125 10 102 105
+121 Sb-122 10 102 104
+122 Sb-124 1 101 106
+123 Sb-125 (b) 10-1 102 106
+124 Te-123 m 1 102 107
+125 Te-125 m 103 103 107
+126 Te-127 103 103 106
+127 Te-127 m (b) 10 103 107
+128 Te-129 102 102 106
+
+129 Te-129 (m) (b) 10 103 106
+130 Te-131 102 102 105
+131 Te-131 m (b) 10 101 106
+132 Te-132 (b) 1 102 107
+133 Te-133 10 101 105
+134 Te-133 m 10 101 105
+135 Te-134 10 101 106
+136 I-123 102 102 107
+137 I-125 102 103 106
+138 I-126 10 102 106
+139 I-129 10-2 102 105
+140 I-130 10 101 106
+141 I-131 10 102 106
+142 I-132 10 101 105
+143 I-133 10 101 106
+144 I-134 10 101 105
+145 I-135 10 101 106
+146 Xe-131 m C és D oszlopban szereplő
+értékek alkalmazandók
+104 104
+147 Xe-133 C és D oszlopban szereplő
+értékek alkalmazandók
+103 104
+148 Xe-135 C és D oszlopban szereplő
+értékek alkalmazandók
+103 1010
+149 Cs-129 10 102 105
+150 Cs-131 103 103 106
+151 Cs-132 10 101 105
+152 Cs-134 10-1 101 104
+153 Cs-134 m 103 103 105
+154 Cs-135 102 104 107
+155 Cs-136 1 101 105
+156 Cs-137 (b) 10-1 101 104
+157 Cs-138 10 101 104
+158 Ba-131 10 102 106
+159 Ba-140 (b) 1 101 105
+160 La-140 1 101 105
+161 Ce-139 1 102 106
+162 Ce-141 102 102 107
+163 Ce-143 10 102 106
+
+164 Ce-144 10 102 105
+165 Pr-142 102 102 105
+166 Pr-143 103 104 106
+167 Nd-147 102 102 106
+168 Nd-149 102 102 106
+169 Pm-147 103 104 107
+170 Pm-149 103 103 106
+171 Sm-151 103 104 108
+172 Sm-153 102 102 106
+173 Eu-152 10-1 101 106
+174 Eu-152 m 102 102 106
+175 Eu-154 10-1 101 106
+176 Eu-155 1 102 107
+177 Gd-153 10 102 107
+178 Gd-159 102 103 106
+179 Tb-160 1 101 106
+180 Dy-165 103 103 106
+181 Dy-166 102 103 106
+182 Ho-166 102 103 105
+183 Er-169 103 104 107
+184 Er-171 102 102 106
+185 Tm-170 102 103 106
+186 Tm-171 103 104 108
+187 Yb-175 102 103 107
+188 Lu-177 102 103 107
+189 Hf-181 1 101 106
+190 Ta-182 10-1 101 104
+191 W-181 10 103 107
+192 W-185 103 104 107
+193 W-187 10 102 106
+194 Re-186 103 103 106
+195 Re-188 102 102 105
+196 Os-185 1 101 106
+197 Os-191 102 102 107
+198 Os-191 m 103 103 107
+199 Os-193 102 102 106
+
+200 Ir-190 1 101 106
+201 Ir-192 1 101 104
+202 Ir-194 102 102 105
+203 Pt-191 10 102 106
+204 Pt-193 m 103 103 107
+205 Pt-197 103 103 106
+206 Pt-197 m 102 102 106
+207 Au-198 10 102 106
+208 Au-199 102 102 106
+209 Hg-197 102 102 107
+210 Hg-197 m 102 102 106
+211 Hg-203 10 102 105
+212 Tl-200 10 101 106
+213 Tl-201 102 102 106
+214 Tl-202 10 102 106
+215 Tl-204 1 104 104
+216 Pb-203 10 102 106
+217 Pb-210 C és D oszlopban szereplő
+értékek alkalmazandók
+101 104
+218 Pb-212 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+101 105
+219 Bi-206 1 101 105
+220 Bi-207 10-1 101 106
+221 Bi-210 C és D oszlopban szereplő 103 106
+értékek
+alkalmazandók
+222 Bi-212 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+101 105
+223 Po-203 10 101 106
+224 Po-205 10 101 106
+225 Po-207 10 101 106
+226 Po-210 C és D oszlopban szereplő
+értékek alkalmazandók
+101 104
+227 At-211 103 103 107
+228 Rn-220 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+104 107
+229 Rn-222 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+101 108
+230 Ra-223 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+102 105
+
+231 Ra-224 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+101 105
+232 Ra-225 10 102 105
+233 Ra-226 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+101 104
+234 Ra-227 102 102 106
+235 Ra-228 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+101 105
+236 Ac-228 C és D oszlopban szereplő
+értékek alkalmazandók
+101 106
+237 Th-226 (b) 103 103 107
+238 Th-227 C és D oszlopban szereplő
+értékek alkalmazandók
+101 104
+239 Th-228 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+100 104
+240 Th-229 (b) 10-1 100 103
+241 Th-230 C és D oszlopban szereplő
+értékek alkalmazandók
+100 104
+242 Th-231 C és D oszlopban szereplő
+értékek alkalmazandók
+103 107
+243 Th-234 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+103 105
+244 Pa-230 10 101 106
+245 Pa-231 C és D oszlopban szereplő
+értékek alkalmazandók
+100 103
+246 Pa-233 10 102 107
+247 U-230 10 101 105
+248 U-231 (b) 102 102 107
+249 U-232 (b) 10-1 100 103
+250 U-233 1 101 104
+251 U-234 C és D oszlopban szereplő
+értékek alkalmazandók
+101 104
+252 U-235 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+101 104
+253 U-236 10 101 104
+254 U-237 102 102 106
+255 U-238 (b) C és D oszlopban szereplő
+értékek alkalmazandók
+101 104
+256 U-239 102 102 106
+257 U-240 C és D oszlopban szereplő
+értékek alkalmazandók
+103 107
+258 U-240 (b) 102 101 106
+259 Np-237 (b) 1 100 103
+
+260 Np-239 102 102 107
+261 Np-240 10 101 106
+262 Pu-234 102 102 107
+263 Pu-235 102 102 107
+264 Pu-236 1 101 104
+265 Pu-237 102 103 107
+266 Pu-238 10-1 100 104
+267 Pu-239 10-1 100 104
+268 Pu-240 10-1 100 103
+269 Pu-241 10 102 105
+270 Pu-242 10-1 100 104
+271 Pu-243 103 103 107
+272 Pu-244 (b) 10-1 100 104
+273 Am-241 10-1 100 104
+274 Am-242 103 103 106
+275 Am-242 m (b) 10-1 100 104
+276 Am-243 (b) 10-1 100 103
+277 Cm-242 10 102 105
+278 Cm-243 1 100 104
+279 Cm-244 1 101 104
+280 Cm-245 10-1 100 103
+281 Cm-246 10-1 100 103
+282 Cm-247 (b) 10-1 100 104
+283 Cm-248 10-1 100 103
+284 Bk-249 102 103 106
+285 Cf-246 103 103 106
+286 Cf-248 1 101 104
+287 Cf-249 10-1 100 103
+288 Cf-250 1 101 104
+289 Cf-251 10-1 100 103
+290 Cf-252 1 101 104
+291 Cf-253 102 102 105
+292 Cf-254 1 100 103
+293 Es-253 102 102 105
+294 Es-254 (b) 10-1 101 104
+295 Es-254 m (b) 10 102 106
+
+296 Fm-254 104 104 107
+297 Fm-255 102 103 106
+298 Természetes
+radionuklidok
+az U-238 sorozatból
+
+299 Természetes
+radionuklidok
+
+1.2. Megjegyzések az 1.1 pontban foglalt táblázathoz:
+1.2.1. (a) = Az 1.000 kg-nál kisebb mennyiségű káliumsók mentességet élveznek.
+1.2.2. (b) = Az anyanuklidokat és bomlástermékeiket, amelyek esetében csak az anyanuklidra
+vonatkozó mentességi szintet kell figyelembe venni, a 2. pontban lévő táblázat tartalmazza.
+2. Bomlástermékek, amelyek esetében csak az anyanuklidra vonatkozó
+mentességi szintet kell figyelembe venni:
+A B
+1 Anyanuklid Bomlástermék
+2 Fe-52 Mn-52 m
+3 Zn-69 m Zn-69
+4 Sr-90 Y-90
+5 Sr-91 Y-91 m
+6 Zr-95 Nb-95
+7 Zr-97 Nb-97 m, Nb-97
+8 Nb-97 Nb-97 m
+9 Mo-99 Tc-99 m
+10 Mo-101 Tc-101
+11 Ru-103 Rh-103 m
+12 Ru-105 Rh-105 m
+13 Ru-106 Rh-106
+14 Pd-103 Rh-103 m
+15 Pd-109 Ag-109 m
+16 Ag-110 m Ag-110
+17 Cd-109 Ag-109 m
+18 Cd-115 In-115 m
+19 Cd-115 m In-115 m
+20 In-114 m In-114
+21 Sn-113 In-113 m
+22 Sb-125 Te-125 m
+23 Te-127 m Te-127
+24 Te-129 m Te-129
+25 Te-131 m Te-131
+26 Te-132 I-132
+27 Cs-137 Ba-137 m
+28 Ce-144 Pr-144, Pr-144 m
+29 U-232 Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-
+208, Po-212,
+30 U-240 Np-240 m, Np-240
+
+31 Np-237 Pa-233
+32 Pu-244 U-240, Np-240 m, Np-240
+33 Am-242 m Np-238
+34 Am-243 Np-239
+35 Cm-247 Pu-243
+36 Es-254 Bk-250
+37 Es-254 m Fm-254
+38 Zr-93 Nb-93 m
+39 Ag-108 m Ag-108
+40 Ba-140 La-140
+41 Pb-210 Bi-210, Po.210
+42 Pb-212 Bi-212, Tl-208, Po-212
+43 Bi-212 Tl-208 (0.36), Po-212 (0.64)
+44 Rn-220 Po-216
+45 Rn-222 Po-218, Pb-214, Bi-214, Po-214
+46 Ra-223 Rn-219, Po-215, Pb-211, Bi-211, Tl-207
+47 Ra-224 Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0,36), Po-212
+(0,64)
+48 Ra-226 Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-
+210, Po-210
+49 Ra-228 Ac-228
+50 Th-226 Ra-222, Rn-218, Po-214
+51 Th-228 Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0,36),
+Po-212 (0,64)
+52 Th-229 Ra-225, Ac-225, Fr-221, At-217, Bi-213, Po-213, Pb-209
+53 Th-234 Pa-234 m
+54 U-230 Th-226, Ra-222, Rn-218, Po-214
+55 U-235 Th-231
+56 U-238 Th-234, Pa-234 m
+2.1. A táblázatban nem szereplő radionuklidok esetében, igény esetén az OAH
+határozza meg a mentességi aktivitásokat és aktivitás-koncentrációkat.
+
+2. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+Az értelmező rendelkezésekhez tartozó képletek
+1. Az aktivitáshoz tartozó képlet
+1.1. Az aktivitás a dN és a dt hányadosa, ahol dN az adott energiaállapotból történő magátalakulások várható
+száma a dt időintervallumban:
+1.2. Az aktivitás mértékegysége a becquerel (Bq).
+2. Az effektív dózishoz tartozó képlet
+2.1. Az effektív dózis meghatározása az alábbi:
+2.2. Az effektív dózis számításának képletében a D
+T,R
+az R sugárzástól származó, T szövetre vagy szervre átlagolt
+elnyelt dózis, w
+R
+a sugárzási súlytényező és w
+T
+a T szövet vagy szerv testszöveti súlytényezője.
+2.3. A w
+T
+és a w
+R
+súlytényezők értékeit a 3. melléklet tartalmazza. Az effektív dózis mértékegységea sievert (Sv);
+3. Az egyenértékdózishoz tartozó képlet
+3.1. Az egyenértékdózis számítása az alábbi: H
+T,R
+= w
+R
+D
+T,R
+.
+3.2. Az egyenértékdózis számításának képletében a D
+T,R
+az R sugárzástól származó, a T szövetre vagy szervre
+átlagolt elnyelt dózis, a w
+R
+a sugárzási súlytényező.
+3.3. Amikor a sugárzási teret különböző típusú és energiájú, azaz eltérő w
+R
+súlytényezőjű sugárzások alkotják,
+akkor a teljes egyenértékdózist (H
+T
+) a következő képlet szerinti összeg adja meg:
+3.4. A w
+R
+értékeit a 3. melléklet tartalmazza.
+3.5. Az egyenértékdózis mértékegysége a sievert (Sv).
+4. Az elnyelt dózishoz tartozó képlet
+4.1. Az elnyelt dózis számítása az alábbi:
+4.2. Az elnyelt dózis számításának képletében a dɛ az ionizáló sugárzás útján egy térfogatelemben átlagosan
+elnyelt energia, a dm a térfogatelem tömege.
+4.3. Az elnyelt dózis egy adott szövetre vagy szervre átlagolt dózisértéket jelent.
+4.4. Az elnyelt dózis mértékegysége a gray (Gy).
+
+5. A lekötött effektív dózishoz tartozó képlet
+5.1. A lekötött effektív dózis számítása az alábbi:
+5.2. A lekötött effektív dózis számításának képletében az E(τ) mennyiségben τ azon évek számát jelöli, amelyekre
+az integrálást végrehajtják.
+5.3. A lekötött effektív dózis mértékegysége a sievert (Sv).
+6. A lekötött egyenértékdózishoz tartozó képlet
+6.1. A lekötött egyenértékdózis számítása az alábbi:
+6.2. A lekötött egyenértékdózis számításának képletében a t
+
+: a bevitel időpontja, a H
+T
+(t) az egyenértékdózis-
+teljesítmény a t időpillanatban a T szervben vagy szövetben, τ az az időtartam, amelyre vonatkozóan
+az integrálást végzik.
+6.3. A lekötött egyenértékdózis mértékegysége a sievert (Sv).
+
+3. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+Sugárzási és testszöveti súlytényezők
+1. Sugárzási súlytényezők
+A B
+1. A sugárzás típusa w
+R
+2. Fotonok 1
+3. Elektronok és müonok 1
+4. Protonok és töltött pionok 2
+5. Alfa-részecskék, hasadványok, nehézionok 20
+6. Neutronok, En ≤ 1 MeV 2,5 + 18,2 e-[ln(E
+n
+)]2/6
+7. Neutronok, 1 MeV <En ≤ 50 MeV 5,0 + 17,0 e-[ln(2E
+n
+)]2/6
+8. Neutronok, En > 50 MeV 2,5 + 3,25 e-[ln(0,04E
+n
+)]2/6
+1.1. A táblázatban: En: a neutron-energia MeV-ben.
+1.2. Az értékek a testet érő sugárzásra, illetve belső sugárforrások esetén a szervezetbe került radionuklid(ok) által
+kibocsátott sugárzásra vonatkoznak.
+2. Testszöveti súlytényezők
+A B
+1. Testszövet w
+T
+2. Csontvelő 0,12
+3. Vastagbél 0,12
+4. Tüdő 0,12
+5. Gyomor 0,12
+6. Emlő 0,12
+7. Egyéb szövetek (a) 0,12
+8. Ivarmirigyek 0,08
+9. Hólyag 0,04
+10. Nyelőcső 0,04
+11. Máj 0,04
+12. Pajzsmirigy 0,04
+13. Csontfelszín 0,01
+14. Agy 0,01
+15. Nyálmirigyek 0,01
+16. Bőr 0,01
+2.1. A 2. pontban szereplő táblázat 7. sorában foglalt egyéb szövetekre megadott w
+T
+(0,12) érték a két nemet
+illetően az alábbiakban felsorolt 13 szervet, illetve szövetet érő dózis számtani közepére vonatkozik.
+Egyéb szövetek: mellékvesék, felső légutak, epehólyag, szív, vesék, nyirokcsomók, izom, szájnyálkahártya,
+hasnyálmirigy, prosztata (férfiak), vékonybél, lép, csecsemőmirigy, méh/méhnyak (nők).
+
+4. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+Sugárvédelmi képzések és továbbképzések tematikája
+1.1. Általános követelmények (sugárvédelmi képzések)
+1.1.1. Az alap- és bővített fokozatú sugárvédelmi képzés lehetséges szakirányai:
+1.1.1.1. Egészségügyi alkalmazások, beleértve oktatást és kutatást
+1.1.1.2. Nem nukleáris ipari alkalmazások, beleértve oktatást és kutatást
+1.1.1.3. Radioaktívhulladék-tárolók üzemeltetése
+1.1.1.4. Nukleáris létesítmények üzemeltetése
+1.1.1.5. Több, az 1.1.1.2–1.1.1.4. pontban felsorolt ipari szakirányok együttesen
+1.1.2. Az átfogó fokozatú sugárvédelmi képzés lehetséges szakirányai
+1.1.2.1. Egészségügyi alkalmazások, beleértve az oktatást és a kutatást
+1.1.2.2. Nukleáris és egyéb ipari alkalmazások, beleértve az oktatást és a kutatást
+1.2. Alapfokozatú képzés (1 nap)
+1.2.1. Sugárfizikai alapismeretek (legalább 2 óra)
+1.2.2. Alapfokú sugárvédelmi és sugárbiológiai ismeretek (legalább 2 óra)
+1.2.3. Nukleáris védettségi ismeretek (legalább 1 óra)
+1.2.4. Választott szakirányú sugárvédelmi ismeretek (legalább 3 óra)
+1.2.5. Konzultáció (legalább 1 óra)
+1.3. Bővített fokozatú képzés (4 nap)
+1.3.1. Sugárfizikai és dozimetriai ismeretek (legalább 4 óra)
+1.3.2. Sugárbiológiai ismeretek (legalább 2 óra)
+1.3.3. Általános sugárvédelmi ismeretek, jogszabályi háttér bemutatása, baleset-elhárítás (legalább 8 óra)
+1.3.4. Nukleáris védettségi ismeretek (legalább 2 óra)
+1.3.5. Választott szakirányú sugárvédelmi ismeretek (legalább 8 óra szakirányonként)
+1.3.6. Gyakorlati méréstechnika (legalább 4 óra)
+1.3.7. Konzultáció (legalább 4 óra)
+1.4. Átfogó fokozatú képzés (8 nap), sugárvédelmi szakértői kiegészítő képzés (szakirányonként 2 nap)
+1.4.1. Kötelező tárgyak az átfogó fokozatú képzésen
+1.4.1.1. Sugárfizikai ismeretek (legalább 4 óra)
+1.4.1.2. Sugárbiológiai ismeretek (legalább 3 óra)
+1.4.1.3. Sugárvédelmi szabályozás rendszere (legalább 2 óra)
+1.4.1.4. Rendkívüli események azonosítása, nukleárisbaleset-elhárítási ismeretek (legalább 4 óra)
+1.4.1.5. Sugárbalesetek, sugársérültek felismerése (legalább 2 óra)
+1.4.1.6. Nukleáris védettségi ismeretek (legalább 2 óra)
+1.4.1.7 Jogszabályi előírások ismertetése, szabványok áttekintése (legalább 9 óra)
+1.4.1.8. Elméleti és gyakorlati dozimetriai ismeretek (legalább 4 óra elmélet és 2 óra gyakorlat)
+1.4.1.9. Méréstechnika elmélet és gyakorlat (legalább 4 óra elmélet és 4 óra gyakorlat)
+1.4.1.10. Radioaktív hulladékok kezelése (legalább 2 óra)
+1.4.1.11. Minőségbiztosítási, minőségellenőrzési vizsgálatok folyamata (legalább 1 óra)
+1.4.1.12. Sugárvédelmi tervezés és értékelés alapjai: kockázatelemzés, dózistervezés, optimálás
+(legalább 4 óra)
+1.4.1.13. Sugárvédelmi tervezés és értékelés alapjai: árnyékolások számítása, transzport kódok
+alkalmazása (elméleti és gyakorlati képzés) (legalább 3 óra elmélet és 3 óra gyakorlat)
+1.4.1.14. Sugárvédelmi tervezés és értékelés alapjai: kibocsátás és környezetellenőrzés,
+terjedésszámítás (legalább 2 óra)
+1.4.1.15. Konzultáció (legalább 2 óra)
+1.4.2. Nukleáris és egyéb ipari szakirányhoz kapcsolódó elvárások
+1.4.2.1. Nukleáris és egyéb ipari alkalmazások, munkafolyamatok ismerete (legalább 4 óra)
+1.4.2.2. Munkavállalók és a lakosság sugárvédelme a nukleáris és egyéb ipari alkalmazások során
+(legalább 4 óra)
+
+1.4.3. Egészségügyi szakirányhoz kapcsolódó elvárások
+1.4.3.1. Terápiás és diagnosztikai berendezések ismerete (legalább 2 óra)
+1.4.3.2. Terápiás és diagnosztikai eljárások ismerete (legalább 4 óra)
+1.4.3.3. Munkavállalók, páciensek és segítők sugárvédelme a terápiában és diagnosztikában
+(legalább 2 óra)
+1.4.4. Szakértői kiegészítő modulok tárgyai szakirányonként
+1.4.4.1. Nukleáris és egyéb ipari alkalmazások szakirányú elvárások szakértői munkavégzéshez
+kapcsolódóan
+1.4.4.1.1. A nukleáris és egyéb ipari alkalmazások sugárvédelmi szempontú biztonsági
+elemzése (legalább 6 óra)
+1.4.4.1.2. Nukleáris és egyéb ipari alkalmazások, munkafolyamatok sugárvédelmi
+tervezése, munkavállalók és a lakosság sugárvédelme (legalább 8 óra)
+1.4.4.1.3. Konzultáció (legalább 2 óra)
+1.4.4.2. Az egészségügyi alkalmazások szakirányú elvárások szakértői munkavégzéshez
+kapcsolódóan
+1.4.4.2.1. Terápiás és diagnosztikai berendezések ismerete (legalább 4 óra)
+1.4.4.2.2. Terápiás és diagnosztikai eljárások sugárvédelmi szempontú biztonsági
+elemzése (legalább 4 óra)
+1.4.4.2.3. Munkavállalók, páciensek és segítők sugárvédelmének tervezése a terápiában
+és diagnosztikában (legalább 6 óra)
+1.4.4.2.4. Konzultáció (legalább 2 óra)
+2.1. Alapfokozatú továbbképzés (1 nap)
+2.1.1. Sugárfizikai alapismeretek (legalább 1 óra)
+2.1.2. Alapfokú sugárvédelmi ismeretek (legalább 1 óra)
+2.1.3. Nukleáris védettségi ismeretek (legalább 1 óra)
+2.1.4. Választott szakirányú sugárvédelmi ismeretek (legalább 2 óra)
+2.1.5. Konzultáció (legalább 1 óra)
+2.2. Bővített fokozatú továbbképzés (2 nap)
+2.2.1. Sugárfizikai és dozimetriai ismeretek (legalább 2 óra)
+2.2.2. Sugárbiológiai ismeretek (legalább 2 óra)
+2.2.3. Általános sugárvédelmi ismeretek, dóziskorlátok, jogszabályi háttér, baleset-elhárítás (legalább
+3 óra)
+2.2.4. Nukleáris védettségi ismeretek (legalább 1 óra)
+2.2.5. Választott szakirányú sugárvédelmi ismeretek (legalább 4 óra)
+2.2.6. Gyakorlati méréstechnika, dozimetria (legalább 2 óra)
+2.2.7. Konzultáció (legalább 1 óra)
+2.3. Átfogó fokozatú továbbképzés és szakirányú sugárvédelmi szakértői továbbképzés (Átfogó fokozatú
+továbbképzés 3 nap, szakirányú sugárvédelmi szakértői továbbképzés 1 nap)
+2.3.1. Kötelező tárgyak az átfogó fokozatú és szakirányú sugárvédelmi szakértői továbbképzésen
+2.3.1.1. Sugárfizikai és dozimetriai ismeretek (legalább 2 óra)
+2.3.1.2. Sugárbiológiai ismeretek (legalább 2 óra)
+2.3.1.3. Aktualitások az elméleti és gyakorlati méréstechnikában (legalább 3 óra elmélet és 1 óra
+gyakorlat)
+2.3.1.4. Nukleáris védettségi ismeretek (legalább 1 óra)
+2.3.1.5. Aktuális jogszabályok, szabványok ismerete (legalább 4 óra)
+2.3.1.6. Sugárbiztonság, sugárbalesetek, baleset-elhárítás (legalább 1 óra)
+2.3.1.7. Gyakorlati méréstechnika, dozimetria (legalább 2 óra)
+2.3.1.8. Sugárvédelmi tervezés alapjai (legalább 4 óra elmélet és 3 óra gyakorlati képzés)
+2.3.1.9. Konzultáció (legalább 1 óra)
+2.3.2. Nukleáris és egyéb ipari szakirányhoz kapcsolódó elvárások
+2.3.2.1. Nukleáris és egyéb ipari alkalmazások, munkafolyamatok ismerete (legalább 6 óra)
+2.3.2.2. Munkavállalók és a lakosság sugárvédelme a nukleáris és egyéb ipari alkalmazások során
+(legalább 2 óra)
+
+2.3.3. Egészségügyi szakirányhoz kapcsolódó elvárások
+2.3.3.1. Terápiás és diagnosztikai berendezések ismerete (legalább 2 óra)
+2.3.3.2. Terápiás és diagnosztikai eljárások ismerete (legalább 4 óra)
+2.3.3.3. Munkavállalók, páciensek és segítők sugárvédelme a terápiában és diagnosztikában
+(legalább 2 óra)
+2.3.4. Szakértői kiegészítő modulok tárgyai szakirányonként
+2.3.4.1. Nukleáris és egyéb ipari alkalmazások szakirányú elvárások szakértői munkavégzéshez
+kapcsolódóan
+2.3.4.1.1. A nukleáris és egyéb ipari alkalmazások sugárvédelmi szempontú biztonsági
+elemzése (legalább 3 óra)
+2.3.4.1.2. Nukleáris és egyéb ipari alkalmazások, munkafolyamatok sugárvédelmi
+tervezése, munkavállalók és a lakosság sugárvédelme (legalább 4 óra)
+2.3.4.1.3. Konzultáció (legalább 1 óra)
+2.3.4.2. Az egészségügyi alkalmazások szakirányú elvárások szakértői munkavégzéshez
+kapcsolódóan
+2.3.4.2.1. Terápiás és diagnosztikai berendezések ismerete (legalább 2 óra)
+2.3.4.2.2. Terápiás és diagnosztikai eljárások sugárvédelmi szempontú biztonsági
+elemzése (legalább 2 óra)
+2.3.4.2.3. Munkavállalók, páciensek és segítők sugárvédelmének tervezése a terápiában
+és diagnosztikában (legalább 3 óra)
+2.3.4.2.4. Konzultáció (legalább 1 óra)
+3. Vizsgáztatás rendje
+3.1. Az írásbeli vizsga feleletválasztós tesztlap kitöltéséből áll. A tesztlapon legalább 30 kérdésnek kell szerepelnie,
+kérdésenként legalább 4 lehetséges válasszal. A kérdéseket az OAH által készített és az OAH honlapján
+megjelentetett, képzési fokozatonként legalább 100 kérdésből kell összeállítani, melyet a vizsgabizottság
+hagy jóvá a vizsgát megelőzően. Az írásbeli vizsgán való megfeleléshez 20 helyes válasz szükséges.
+Amennyiben a vizsgázó nem felelt meg az írásbeli vizsgán, a vizsgázó nem bocsátható szóbeli vizsgára.
+3.2. A szóbeli vizsga az OAH által kidolgozott és az OAH honlapján megjelentetett szóbeli vizsgakérdések
+vizsgabizottság előtti megválaszolásából áll. A szóbeli vizsgát az írásbeli vizsga kiértékelése után kell
+végrehajtani. A szóbeli kérdéseket a vizsgázók tételhúzással kapják meg. A tételeket a vizsgabizottság
+készíti elő. Minden tétellap két kérdést tartalmaz. A már kihúzott tétellapok visszatehetők, és ugyanazon
+vizsganapon újra felhasználhatók.
+3.3. A vizsga akkor tekinthető sikeresnek, ha a vizsgázó az írásbeli vizsgán és a szóbeli vizsgán is elérte
+a „megfelelő” szintet. Abban az esetben, ha a vizsgázó a vizsga írásbeli vagy szóbeli részén nem érte el
+a„megfelelő”szintet, a vizsgát eredménytelennek kell tekinteni, és vizsgabizonyítvány nem adható ki.
+
+5. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+Ionizáló sugárzást létrehozó berendezések sugárvédelmi besorolása
+A B C D
+1. Munkahely I. kategória II. kategória III. kategória
+2.
+Orvosi és állatorvosi diagnosztikai és
+röntgenterápiás berendezések orvosi, valamint
+oktatási, kutatási célú alkalmazása
+Intraoralis röntgenberendezés
+3. Röntgenterápiás berendezések
+Röntgendiagnosztika
+(Panoráma, cephalometria,
+felvételi, átvilágító, angiográfiás
+röntgenberendezések, tomográfiás
+képalkotók)
+Csontsűrűségmérő
+4. Hibrid vizsgálók
+5.
+Röntgensugárzást alkalmazó átvilágító ipari
+munkahelyek
+Durvaszerkezeti ipari röntgen
+Röntgensugaras ipari mérő, szabályozó
+berendezések
+6.
+Biztonságtechnikai alkalmazások
+Közúti és vasúti rakomány átvilágító
+berendezések, Hordozható átvilágító
+berendezések
+Kábítószer, robbanóanyag kereső
+berendezések
+7.
+Telepített és hordozható
+csomagvizsgálók
+8. Ipari radiográfiai munkahelyek Helyszíni röntgen-radiográfia Laboratóriumi röntgen-radiográfia
+9.
+Anyag- és finomszerkezet vizsgáló
+munkahelyek
+Röntgensugaras anyag- és
+finomszerkezet vizsgáló
+10. Gyorsító berendezést alkalmazó munkahelyek
+Orvosi terápia, ipari-, mezőgazdasági
+technológia, kutatás, oktatás
+
+6. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+A sugárvédelmi szempontból ellenőrizendő építőanyagok jegyzéke, az építőanyagok által kibocsátott
+aktivitáskoncentráció-index meghatározása és használata, valamint a természetben előforduló
+radioaktív anyagokat bedúsító iparágak, tevékenységek jegyzéke
+1. Természetes anyagokból készült építőanyagok
+1.1. alunittartalmú agyagpala
+1.2. az alább felsorolt természetes magmás kőzetekből készített építőanyagok vagy adalékok:
+1.2.1. gránitos kőzetek (különösen a gránitok, a szienit és az ortogneisz)
+1.2.2. porfírok
+1.2.3. tufa
+1.2.4. trassz (vulkáni hamu)
+1.2.5. láva
+2. A természetben előforduló radioaktív anyagokat feldolgozó iparágak maradékanyagait tartalmazó anyagok
+2.1. pernye
+2.2. foszforos gipsz
+2.3. foszforvegyületeket tartalmazó salak
+2.4. ónsalak
+2.5. rézsalak
+2.6. vörösiszap
+2.7. az acélgyártás maradékanyagai
+3. Az építőanyagok által kibocsátott gamma-sugárzásra vonatkozó aktivitáskoncentráció-index meghatározása és
+használata
+3.1. Az építőanyagokra vonatkozó I aktivitáskoncentráció-indexet a következőképpen kell számítani:
+I = C
+Ra226
+/300 Bq/kg + C
+Th232
+/200 Bq/kg + C
+K40
+/3000 Bq/kg,
+ahol C
+Ra226
+, C
+Th232
+és C
+K40
+az építőanyag megfelelő radionuklidjainak aktivitáskoncentrációja Bq/kg
+mértékegységben.
+3.2. Az index a tipikus kültéri sugárterhelésen felül jelentkező gamma-sugárzás dózisait jellemzi olyan épület
+esetében, amely egy meghatározott építőanyag felhasználásával készült. Amennyiben az index értéke 1 alatt
+van, az építőanyag alkalmazásából eredő többletsugárzás automatikusan a vonatkoztatási szint alattinak
+vehető. Az index az építőanyagra, nem pedig annak alkotóelemeire vonatkozik, kivéve, ha az alkotóelemek
+maguk is építőanyagok és értékelésükre így külön kerül sor. Ilyen alkotóelemekre – és különösen
+a természetes eredetű radioaktív anyagokat felhasználó iparágak maradékanyagainak újrafeldolgozásával
+előállított építőanyagokra – való alkalmazás szándéka esetén megfelelő megoszlási tényezőt kell alkalmazni.
+3.3. Az aktivitáskoncentráció-index értéke l-nek vehető olyan anyagok konzervatív kiszűrésére, amelyek miatt sor
+kerülhet az 50. § (1) bekezdésében megállapított vonatkoztatási szint meghaladására.
+3.4. Pontos dózisszámításnál figyelembe kell venni más tényezőket is, különösen az anyag fajsúlyát, az adott
+geometriát, valamint az épülettípushoz és az anyag rendeltetéséhez (ömlesztett formában felhasznált vagy
+felületi anyagok) kapcsolódó tényezőket.
+4. A természetben előforduló radioaktív anyagokat bedúsító iparágak, tevékenységek
+Az alább felsorolt iparágak – ipari és kutatási tevékenységek, másodlagos feldolgozási folyamatok egyaránt –
+a természetben előforduló radioizotópokat a mentességi szintet meghaladó mértékben bedúsíthatják vagy
+felhalmozhatják melléktermékeikben:
+ 1. ritkaföldfém-bányászat, ritkaföldfémek kivonása monacitból, feldolgozás;
+ 2. tóriumvegyületek előállítása és tóriumtartalmú termékek gyártása;
+ 3. nióbium- és tantalumérc-feldolgozás;
+ 4. olaj- és gáztermelés, beleértve a kutatófúrásokat is;
+ 5. geotermikusenergia-termelés, -felhasználás;
+ 6. TiO
+
+-pigment előállítása;
+ 7. hevítéses foszforgyártás;
+
+ 8. cirkon- és cirkóniumipar mint cirkonhomok-felhasználás, kerámiagyártás;
+ 9. foszfátérc-feldolgozás, foszfátműtrágyák előállítása;
+10. cementgyártás, égetőkemencék karbantartása;
+11. szénbányászat, széntüzelésű erőművek, kazánok karbantartása;
+12. foszforsav előállítása;
+13. elsődleges vasgyártás;
+14. ón-, ólom-, rézkohászat;
+15. talajvízszűrő létesítmények;
+16. ércbányászat, érckohászati feldolgozás, az üzemelő uránércbánya kivételével;
+17. timföldgyártás és -feldolgozás.
+7. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+A Sugárvédelmi Leírás tartalmi követelményei
+1. A tevékenység sugárbiztonsági értékelése
+1.1. A sugárveszélyes tevékenység indoklása:
+1.1.1. A sugárveszélyes tevékenység célja
+1.1.2. Az ionizáló sugárzás veszélyével járó technológiai folyamatok leírása: A technológiai folyamatok
+részletes ismertetése a radioaktív anyag vagy ionizáló sugárzást létrehozó berendezés alkalmazási
+módja tekintetében
+1.1.3. Az ionizáló sugárzás alkalmazásához köthető kockázatok bemutatása az ionizáló sugárzásnak
+kitett csoportok, az ionizáló sugárzás típusai és a jellemző besugárzási útvonalak, és a várható
+sugárterhelések nagyságrendjének ismertetésével
+2. A sugárveszélyes munkahely kialakításának értékelése
+2.1. A telephely alkalmasságának értékelése A-szintű izotóplaboratórium esetében: a létesítmény tervezett
+telephelyének sugárvédelmi szempontból történő vizsgálata során figyelembe vett demográfiai,
+meteorológiai, geológiai, hidrológiai és ökológiai viszonyok,
+2.2. A létesítmény kialakítása és a tervezési elveknek, szabványoknak való megfelelőség igazolása:
+2.2.1. a sugárveszélyes munkahelyek alaprajza,
+2.2.2. a radioaktív anyagok tárolási helyének, mozgatási útvonalának és alkalmazási helyének
+meghatározása vagy alaprajzon történő feltüntetése,
+2.2.3. a telepített ionizáló sugárzást létrehozó berendezések alkalmazási helyzetének alaprajzon történő
+feltüntetése,
+2.2.4. mobil ionizáló sugárzást létrehozó berendezések tárolási helyének meghatározása,
+2.2.5. orvosi és ipari radiológiai munkahelyeken a helyiség pontos méretei,
+2.2.6. a releváns pontokon várható – az adott tevékenység jellegétől függően – legnagyobb dózis vagy
+dózisteljesítmény értékek,
+2.2.7. orvosi és ipari radiológiai röntgenberendezéseket tartalmazó helyiségek esetében
+a röntgenhelyiségek kialakítására vonatkozó szabványok általános előírásainak teljesítését, valamint
+a szükséges kiegészítő helyiségek leírása
+2.2.8. nyitott sugárforrásokat kezelő laboratóriumok esetében az izotóplaboratóriumok kialakítására
+vonatkozó szabványok általános előírásainak teljesülése,
+2.2.9. hordozható berendezések és sugárforrások létesítményen kívüli alkalmazása esetén a helyszín
+körülhatárolásának a terve.
+2.3. A biztonsági funkciók bemutatása
+2.3.1. Az elszívó rendszerek jellemzőinek, biztonság szempontjából fontos részegységeinek ismertetése,
+nyomvonalának bemutatása a kibocsátási pontig,
+2.3.2. A folyékony hulladékokat gyűjtő és elvezető rendszer jellemzőinek, biztonság szempontjából fontos
+részegységeinek ismertetése, nyomvonalának bemutatása a kibocsátási pontig,
+
+2.3.3. A sugárvédelmi ellenőrzéshez alkalmazott dózismérők, dózisteljesítmény-mérők,
+aeroszolaktivitáskoncentráció-mérők, személyi szennyezettség-ellenőrző monitorok, valamint
+személy- és teherforgalom ellenőrzésére szolgáló detektorok leírása és helyzetüknek a munkahely
+alaprajzán való feltüntetése,
+2.3.4. A sugárvédelmi árnyékolást biztosító mobil vagy rögzített árnyékolások, épített árnyékoló falak
+jellemzőinek és árnyékoló képességének leírása.
+3. A tervezett (normális és potenciális), valamint veszélyhelyzeti foglalkozási és lakossági sugárterhelések értékelése
+3.1. A sugárvédelem kialakítása során alkalmazott optimálási szempontok:
+3.1.1. A sugárvédelem rendszerszemléletű megközelítése, figyelembe véve a munkavállalók eltérő
+sugárveszélyes munkahelyen (más munkáltatónál vagy másik telephelyen) vagy részben eltérő
+szabályozás alapján (szállítás, nukleáris létesítmények üzemeltetése, radioaktívhulladék-tárolók
+üzemeltetése, radontól származó fennálló sugárzási helyzet) végzett tevékenységét.
+3.1.2. Ahol nyitott radioaktív sugárforrásokkal is dolgoznak, a jelentős radioaktív szennyezés kockázatának
+csökkentése.
+3.1.3. A munkavállalókra vonatkozó foglalkozási dózismegszorítás – valamint jelentős sugárterhelés
+kockázatával járó, eltérő jellegű munkafolyamatok esetében dózismegszorítások – értéke.
+3.2. A környező lakosság védelmének a terve:
+3.2.1. a lakosság tagjainak lehetséges besugárzási útvonalai, a várható legnagyobb lakossági dózisterhelés
+becsült értéke,
+3.2.2. a lakossági dózismegszorítás értéke,
+3.2.3. adott esetben a létesítmény és alkalmazás nukleáris veszélyhelyzeti tervezési kategóriája.
+3.3. A keletkező radioaktív hulladékok jellemzői és várható mennyiségük.
+3.4. A tervszerű radioaktívanyag-kibocsátások útvonala és mértéke, a kibocsátásokból eredő lakossági
+dózisterhelés becslésével egyetemben, kiemelt létesítmény esetén a környezeti kibocsátás határértékei
+és környezeti kibocsátások feltételeit megállapító, az atomenergia alkalmazása során a levegőbe és vízbe
+történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló jogszabály figyelembevételével készített
+radioaktív környezeti kibocsátási tervek formájában.
+4. A sugárvédelmi célú szervezeti biztonsági intézkedések leírása:
+4.1. Az engedélyes szervezeti felépítésén belüli felelősségi körök meghatározása,
+4.2. Az ellenőrzött és felügyelt területek meghatározásának követelményrendszere és az ellenőrzött, valamint
+felügyelt területek tervezett meghatározása,
+4.3. A diagnosztikai és terápiás munkahelyekre vonatkozó sugárvédelmi előírások teljesítésének módja,
+4.4. Az eszközökre és berendezésekre vonatkozó sugárvédelmi minőségbiztosítási program,
+4.5. A tervezett sugárvédelmi ellenőrzések és mérések leírása és gyakorisága.
+4.6. A sugárveszélyes tevékenység ellenőrzése során mérhető paraméterek vagy mutatószámok normál
+üzemi tartománya, amely releváns esetben kiterjed a megengedett dózisteljesítmény-szintekre, a felületi
+szennyezettség megengedett értékeire, a technológiai paraméterek normál üzemi értéktartományára,
+a kibocsátás-ellenőrző rendszerek riasztási szintjeire.
+4.7. A lakosság tagjainak a létesítménybe történő bejutását korlátozó intézkedések.
+4.8. A munkahely-specifikus munkahelyi sugárvédelmi oktatás terve.
+4.9. A hatósági jelentésköteles események körének meghatározása és kezelésük módja normál üzemtől eltérő
+események és rendkívüli események esetén.
+
+1. táblázat a 7. melléklethez
+Adatlap
+radioaktív anyagok alkalmazására irányuló engedélykérelemhez
+1. AZ ENGEDÉLYKÉRELEM BENYÚJTÁSÁNAK CÉLJA
+A B
+1 □ Új engedély
+2 □ Tevékenység módosítása A meglévő engedély száma:
+3 □ Lejárt engedély megújítása A meglévő engedély száma:
+2. A SUGÁRVESZÉLYES TEVÉKENYSÉGÉRT FELELŐS SZERVEZET
+A B
+1 Intézmény/Vállalkozás/Cég neve
+2 A szervezet jellege: □ természetes személy □ költségvetési szerv
+□ gazdasági társaság □ egyéni vállalkozó,
+egyéni cég
+3 Székhely címe:
+4 Képviselője:
+5 Levelezési cím:
+3. A SUGÁRVESZÉLYES MUNKAHELY ADATAI
+A B
+1 A munkahely, szervezeti egység,
+laboratórium megnevezése:
+2 A munkahely címe:
+3 A munkahely helyiségeinek
+azonosítója:
+4 A munkahely / szervezeti egység
+vezetője:
+5 Telefon:
+6 E-mail:
+4. A SUGÁRVÉDELMI SZAKÉRTŐ ELÉRHETŐSÉGE
+A B
+1 Neve:
+2 Szakértői engedélyének száma:
+3 Telefon:
+4 E-mail:
+
+5. A SUGÁRVÉDELMI MEGBÍZOTT ELÉRHETŐSÉGE
+A B
+1 Neve:
+2 Telefon:
+3 E-mail:
+6. A RADIOAKTÍV ANYAGOK ALKALMAZÁSÁNAK JELLEGE ÉS SUGÁRVÉDELMI
+KATEGORIZÁLÁSA
+A B
+1 A radioaktív anyagok
+alkalmazásának jellege és
+sugárvédelmi kategorizálása:
+Kiemelt létesítmények és I. kategóriába tartozó
+sugárveszélyes munkahelyek:
+□ 1. kategóriába tartozó radioaktív anyag - beleértve
+a radioaktív sugárforrást tartalmazó készüléket -
+alkalmazása
+□ az MSZ 62-7 szabvány szerinti A-szintű ipari
+izotóplaboratóriumok üzemeltetése
+□ az MSZ 62-7 szabvány szerinti III. típusú orvosi
+izotóplaboratóriumok üzemeltetése
+□ teleterápiás, (afterloading) brachyterápiás
+munkahely
+□ egyéb nukleáris medicina izotópterápiás
+laboratórium
+□ 2. kategóriába tartozó radioaktív anyag - beleértve
+radioaktív sugárforrást tartalmazó készüléket -
+sugárveszélyes munkahelyen kívüli alkalmazása
+II. kategóriába tartozó sugárveszélyes munkahelyek:
+□ 2. és 3. kategóriába tartozó radioaktív anyag -
+beleértve a radioaktív sugárforrást tartalmazó
+készüléket - alkalmazása
+□ az MSZ 62-7 szabvány szerinti B-szintű ipari
+izotóplaboratóriumok üzemeltetése
+□ az MSZ 62-7 szabvány szerinti II. típusú orvosi
+izotóplaboratóriumok üzemeltetése
+□ egyéb nukleáris medicina izotópdiagnosztikai
+laboratórium
+□ (implantációs) brachyterápiás orvosi terápiás
+munkahely
+III. kategóriába tartozó sugárveszélyes munkahelyek:
+□ 4. és 5. kategóriába tartozó radioaktív anyag -
+beleértve a radioaktív sugárforrást tartalmazó
+készüléket - alkalmazása
+□ az MSZ 62-7 szabvány szerinti C-szintű ipari
+izotóplaboratóriumok üzemeltetése
+□ az MSZ 62-7 szabvány szerinti I. típusú orvosi
+izotóplaboratóriumok üzemeltetése
+
+□ a természetben előforduló, nem nukleáris
+radioaktív anyagokat feldolgozó - esetenként a
+feldolgozás következtében dúsító - tevékenység
+□ a nem orvosi radiológiai berendezés
+felhasználásával végzett nem-orvosi célú képalkotó
+tevékenység
+□ az olyan munkahely, ahol az átlagos évi radon-
+koncentráció meghaladja a munkahelyekre
+érvényes, az e rendelet 50. § (2) bekezdés b) pontja
+szerinti vonatkoztatási szintet
+2 A végzendő tevékenység jellege: Radioaktív anyag
+□ tárolása
+□ előállítása, termelése
+□ feldolgozása
+□ kezelése, felhasználása
+Radioaktív sugárforrást tartalmazó készülék
+□ tárolása
+□ üzemeltetése
+Létesítmény
+□ létesítése és/vagy üzembe helyezése
+□ üzemeltetése
+□ Egyéb, radioaktív anyaggal kapcsolatos
+tevékenység
+3 A végzendő tevékenység
+megnevezése:
+7. AZ ALKALMAZANDÓ RADIOAKTÍV ANYAGOK LEÍRÁSA
+7.1. Nyitott sugárforrások
+Forrás
+sorszám
+Izotóp
+(Elem és
+tömegszám)
+Kémiai és fizikai
+forma
+A munkahelyen kezelt/tárolt
+legnagyobb mennyiség [aktivitásban
+(Bq) vagy
+az 1-5 sugárforrás kategóriában
+megadva]
+
+7.2. Zárt sugárforrások
+Forrás
+sorszám
+Izotóp
+(Elem és
+tömegszám)
+Kémiai és fizikai
+forma
+A munkahelyen kezelt/tárolt
+legnagyobb mennyiség [aktivitásban
+(Bq) vagy
+az 1-5 sugárforrás kategóriában
+megadva]
+7.3. Radioaktív sugárforrást tartalmazó készülék
+A B C D E
+
+Izotóp
+(Elem és
+tömegszám)
+A berendezésbe
+szerelt forrás
+aktivitása (Bq)
+Gyártó Típus
+A készülék típus-
+engedélyének
+(forgalomba
+hozatali
+engedélyének,
+hatósági
+minősítésének)
+a száma
+
+8. A SUGÁRVESZÉLYES TEVÉKENYSÉG HUMÁNERŐFORRÁS-IGÉNYE
+A tevékenység végzéséhez minimálisan
+szükséges, sugárveszélyes
+munkakörökben foglalkoztatottak
+A sugárvédelmi
+képzettség szintje
+A
+munkavállalók
+sugárvédelmi
+Külső
+munkavállalók
+alkalmazása
+beosztásának/munka
+körének
+megnevezése
+tervezett száma
+(fő)
+besorolása
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+9. A SUGÁRVESZÉLYES MUNKAHELY MŰSZAKI KIALAKÍTÁSA*
+A sugárveszélyes munkahely kialakítása, valamint a sugárveszélyes tevékenység végzése
+során alkalmazott, sugárvédelemmel kapcsolatos műszaki szabványok vagy ajánlások
+Száma, azonosítója Megnevezése
+
+10. A KÉRELEMHEZ MELLÉKELT DOKUMENTUMOK
+□ Sugárvédelmi Leírás, azonosítója:
+□ Munkahelyi Sugárvédelmi Szabályzat, azonosítója:
+□ Igazgatási díj befizetés igazolása
+□ Egyéb:
+Adatlap késztésének dátuma:
+Kérelmet benyújtó cégszerű aláírása:
+* A rendelkezésre álló mezők számát meghaladó információk esetén elektronikus
+szerkesztés esetén lehet bővíteni a táblázatot, illetve kézzel történő kitöltés esetén
+további lapokkal ki lehet egészíteni az adatlapot.
+2. táblázat a 7. melléklethez
+Adatlap
+az ionizáló sugárzást létrehozó berendezések üzemeltetésére irányuló
+engedélykérelemhez
+1. AZ ENGEDÉLYKÉRELEM BENYÚJTÁSÁNAK CÉLJA
+□ Új engedély
+□ Tevékenység módosítása A meglévő engedély száma:
+□ Lejárt engedély megújítása A meglévő engedély száma:
+2. A SUGÁRVESZÉLYES TEVÉKENYSÉGÉRT FELELŐS SZERVEZET
+Intézmény/Vállalkozás/Cég
+neve
+A szervezet jellege: □ természetes személy □ költségvetési szerv
+□ gazdasági társaság □ egyéni vállalkozó, egyéni cég
+Székhely címe:
+Képviselője:
+Levelezési cím:
+
+3. A SUGÁRVESZÉLYES MUNKAHELY ADATAI
+A munkahely, szervezeti
+egység, laboratórium
+megnevezése:
+A munkahely címe:
+A munkahely helyiségeinek
+azonosítója:
+A munkahely / szervezeti
+egység vezetője:
+Telefon:
+E-mail:
+4. A SUGÁRVÉDELMI SZAKÉRTŐ ELÉRHETŐSÉGE
+Neve:
+Szakértői engedélyének
+száma:
+Telefon:
+E-mail:
+5. A SUGÁRVÉDELMI MEGBÍZOTT ELÉRHETŐSÉGE
+Neve:
+Telefon:
+E-mail:
+
+6. AZ IONIZÁLÓ SUGÁRZÁST LÉTREHOZÓ BERENDEZÉSEK JELLEGE ÉS
+SUGÁRVÉDELMI KATEGORIZÁLÁSA
+I. kategóriába tartozó sugárveszélyes
+munkahelyek:
+□ Röntgenterápiás berendezés
+□ Helyszíni röntgen-radiográfia
+□ Gyorsítók: orvosi terápia
+□ Gyorsítók: ipari, mezőgazdasági
+technológia
+□ Gyorsítók: kutatás, oktatás
+II. kategóriába tartozó sugárveszélyes
+munkahelyek:
+□ Röntgendiagnosztika felvételi
+□ Röntgendiagnosztika átvilágító
+□ Fogászati röntgen: panoráma/CBCT
+□ Angiográfiás röntgenberendezés
+□ Tomográfiás képalkotók
+□ Hibrid vizsgálók
+□ Durvaszerkezeti ipari röntgenberendezés
+□ Közúti- vagy vasútirakomány-átvilágító
+berendezés
+□ Hordozható átvilágító berendezések
+III. sugárvédelmi kategóriába tartozó
+berendezések:
+□ Fogröntgen intraorális
+□ Csontsűrűségvizsgáló
+□ Röntgensugaras ipari mérő, szabályozó
+berendezések
+□ Kábítószer-, robbanóanyag-kereső
+berendezések
+□ Telepített és hordozható csomagvizsgálók
+□ Röntgensugaras anyag- és finomszerkezet-
+vizsgáló
+Egyéb, nem besorolt berendezés:
+7. AZ ALKALMAZANDÓ IONIZÁLÓ SUGÁRZÁST LÉTREHOZÓ BERENDEZÉSEK
+Sor-
+szám
+Gyártó Típus Típusengedély száma* Berendezés
+nyilvántartási
+száma**
+* Szükséges továbbá a 2016-2017. év során kiadott forgalomba hozatali engedély
+száma vagy a 2016. előtti hatósági minősítés száma vagy mentesített berendezés
+esetén a mentesítési határozat száma.
+** E rendelet 11. melléklete szerint.
+
+8. A SUGÁRVESZÉLYES TEVÉKENYSÉG HUMÁN ERŐFORRÁSIGÉNYE
+A tevékenység végzéséhez minimálisan
+szükséges, sugárveszélyes
+munkakörökben foglalkoztatottak
+A sugárvédelmi
+képzettség szintje
+A
+munkavállalók
+sugárvédelmi
+Külső
+munkavállalók
+alkalmazása
+beosztásának/
+munkakörének
+megnevezése
+tervezett száma
+(fő)
+besorolása
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+□ alapfokozatú
+□ bővített fokozatú
+□ átfogó fokozatú
+□ A
+□ B
+□ igen
+□ nem
+9. A SUGÁRVESZÉLYES MUNKAHELY MŰSZAKI KIALAKÍTÁSA
+A sugárveszélyes munkahely kialakítása, valamint a sugárveszélyes tevékenység végzése
+során alkalmazott, sugárvédelemmel kapcsolatos műszaki szabványok vagy ajánlások
+Száma, azonosítója Megnevezése
+
+10. A FIZIKAI VÉDELMI KÖVETELMÉNYEKNEK VALÓ MEGFELELÉS IGAZOLÁSA
+A 190/2011. (IX. 19.) Korm. rendelet 35. § (5) bekezdése szerinti adatszolgáltatás
+Követelmény Megvalósulás módjának leírása, valamint teljesülésének
+igazolása
+190/2011. (IX. 19.) Korm. rendelet
+35. § (2) bekezdés a) pontja,
+(3) bekezdés a) pontja
+□ Nyilatkozunk, hogy a helyiség bejáratain (csomagvizsgálók
+és mobil berendezések esetében a berendezésen) a
+sugárveszély jelzésre kerül.
+190/2011. (IX. 19.) Korm. rendelet
+35. § (2) bekezdés b) pontja,
+(3) bekezdés b) pontja
+□ Nyilatkozunk, hogy a helyiség (mobil berendezés esetén a
+tárolásra szolgáló helyiség) zárható nyílászárókkal határolt, és
+azok zárva vannak, ha a berendezés nincs használatban.
+190/2011. (IX. 19.) Korm. rendelet
+35. § (2) bekezdés c) pontja,
+(3) bekezdés c) pontja
+□ Nyilatkozunk, hogy a helyiségbe (mobil berendezés esetén
+a tárolásra szolgáló helyiségbe) belépésre jogosult
+személyek és a belépési jogosultság ellenőrzésének módja
+meghatározásra kerültek.
+Az arra jogosult személyek listája az alábbi dokumentumban
+található:
+− Dokumentum neve:
+− Dokumentum azonosítója:
+A belépési jogosultság ellenőrzésének módja az alábbi
+dokumentumban található:
+− Dokumentum neve:
+− Dokumentum azonosítója:
+190/2011. (IX. 19.) Korm. rendelet
+35. § (2) bekezdés d)-e) pontjai,
+(3) bekezdés d) pontja
+□ Nyilatkozunk, hogy arra az esetre, ha a berendezés nincs
+használatban, az üzemeltetéshez szükséges kulcsok és
+a helyiség (mobil berendezés esetén a tároló helyiség)
+kulcsainak kezelési és tárolási rendje - a 190/2011. (IX. 19.)
+Korm. rendeletben előírt módon - meghatározásra került.
+A kulcsok kezelési ás tárolási rendje az alábbi
+dokumentumban található:
+− Dokumentum neve:
+− Dokumentum azonosítója:
+190/2011. (IX. 19.) Korm. rendelet
+35. § (3) bekezdés e) pontja
+Mobil berendezések esetén:
+□ Nyilatkozunk, hogy a 190/2011. (IX. 19.) Korm. rendelet
+35. § (3) bekezdés e) pontjaiban előírtak szerint vezetett
+naprakész nyilvántartás tartalmazza a berendezés elvitelének
+és visszahelyezésének időpontját és a berendezést alkalmazó
+személy nevét.
+A nyilvántartás az alábbi dokumentumban található:
+− Dokumentum neve:
+− Dokumentum azonosítója:
+
+11. A KÉRELEMHEZ MELLÉKELT DOKUMENTUMOK
+□ Sugárvédelmi Leírás, azonosítója:
+□ Munkahelyi Sugárvédelmi Szabályzat, azonosítója:
+□ Igazgatási díj befizetés igazolása
+□ Egyéb:
+Adatlap készítésének dátuma:
+Kérelmet benyújtó aláírása:
+3. táblázat a 7. melléklethez
+Adatlap
+a nem helyhez kötött sugárveszélyes szolgáltatási tevékenység végzésére
+irányuló engedélykérelemhez
+1. AZ ENGEDÉLYKÉRELEM BENYÚJTÁSÁNAK CÉLJA
+□ Új engedély
+□ Tevékenység módosítása A meglévő engedély száma:
+□ Lejárt engedély megújítása A meglévő engedély száma:
+2. A SUGÁRVESZÉLYES TEVÉKENYSÉGET VÉGZŐ SZERVEZET
+Intézmény/Vállalkozás/Cég
+neve
+A szervezet jellege: □ természetes személy □ költségvetési szerv
+□ gazdasági társaság □ egyéni vállalkozó, egyéni cég
+Székhely címe:
+Képviselője:
+Levelezési cím:
+
+3. A SUGÁRVÉDELMI SZAKÉRTŐ ELÉRHETŐSÉGE
+Neve:
+Szakértői engedélyének
+száma:
+Telefon:
+E-mail:
+4. A SUGÁRVÉDELMI MEGBÍZOTT ELÉRHETŐSÉGE
+Neve:
+Telefon:
+E-mail:
+5. A TEVÉKENYSÉG SUGÁRVÉDELMI KATEGORIZÁLÁSA
+Az alkalmazott sugárforrások
+típusai:
+□ zárt radioaktív sugárforrás kezelése
+□ nyitott radioaktív sugárforrás kezelése
+□ radioaktív sugárforrást tartalmazó készülék kezelése
+□ ionizáló sugárzást létrehozó berendezés üzemeltetése
+A tevékenység sugárvédelmi
+kategóriája:
+□ I. sugárvédelmi kategóriába tartozó alkalmazás
+□ II. sugárvédelmi kategóriába tartozó alkalmazás
+□ III. sugárvédelmi kategóriába tartozó alkalmazás
+6. A TEVÉKENYSÉG JELLEGE:
+□ Ionizáló sugárzást létrehozó berendezés helyszíni karbantartása, javítása
+□ Ionizáló sugárzást létrehozó berendezés helyszíni bevizsgálása, minőségellenőrzése
+□ Radioaktív sugárforrást tartalmazó készülék helyszíni karbantartása, javítása
+□ Radioaktív sugárforrást tartalmazó készülék helyszíni bevizsgálása, minőségellenőrzése
+□ Műszerhitelesítés, kalibrálás radioaktív sugárforrás használatával
+□ Sugárforrás zártságának ellenőrzése
+□ Sugárveszélyes munkahely szennyezettségének felmérése
+□ Radioaktívan szennyezett felületek dekontaminálása, radioaktívan szennyezett
+berendezések leszerelése
+□ Radioaktív hulladékok szállításra való előkészítése (előkezelés, csomagolás)
+□ Radioaktív sugárforrások kiszerelése készülékekből berendezésből, fogyasztási cikkekből
+□ Egyéb:
+
+7. A TEVÉKENYSÉGI KÖRBE TARTOZÓ RADIOAKTÍV ANYAGOK LEÍRÁSA
+Sugárforrás típusa:
+□ Zárt sugárforrás
+□ Nyitott sugárforrás
+Sugárzás jellege:
+□ Béta/gamma sugárzók
+□ Tiszta lágy-béta sugárzók
+Egy munkafolyamatban
+maximálisan kezelhető
+sugárforrás, radioaktív
+□ Radioaktív hulladék
+□ Neutron-sugárzók
+hulladék kategóriája,
+a 190/2011.
+ □ használaton kívüli zárt
+sugárforrás
+□ egyéb radioaktív hulladék,
+szennyezett tárgyak
+□ Alfa-sugárzók
+Korm. rendelet 1. melléklete
+szerint: □ 1. □ 2. □ 3. □ 4. □ 5.
+8. A TEVÉKENYSÉGBE TARTOZÓ IONIZÁLÓ SUGÁRZÁST LÉTREHOZÓ
+BERENDEZÉSEK
+ Berendezés típusa:
+ Teljesítményre vonatkozó
+korlátozások:
+□ Fogröntgen intraorális
+□ Csontsűrűségvizsgáló
+□ Röntgensugaras ipari mérő, szabályozó berendezések
+□ Kábítószer-, robbanóanyag-kereső berendezések
+□ Telepített és hordozható csomagvizsgálók
+□ Röntgensugaras anyag- és finomszerkezet-vizsgáló
+
+Maximális csőfeszültség:
+
+Maximális csőáram:
+□ Röntgendiagnosztika felvételi
+□ Röntgendiagnosztika átvilágító
+□ Fogászati röntgen: panoráma/CBCT
+□ Angiográfiás röntgenberendezés
+□ Tomográfiás képalkotók
+□ Hibrid vizsgálók
+□ Durvaszerkezeti ipari röntgenberendezés
+□ Közúti- vagy vasútirakomány-átvilágító berendezés
+□ Hordozható átvilágító berendezések
+
+Maximális teljesítmény:
+□ Röntgenterápiás berendezés
+□ Helyszíni röntgen-radiográfia
+□ Gyorsítók: orvosi terápia
+□ Gyorsítók: ipari, mezőgazdasági technológia
+□ Gyorsítók: kutatás, oktatás
+
+Egyéb berendezés:
+
+9. A KÉRELEMHEZ MELLÉKELT DOKUMENTUMOK
+9.1. Sugárvédelmi Leírás, azonosítója:
+9.2. MSSZ azonosítója:
+9.3. Igazgatási díj befizetés igazolása
+9.4. Egyéb:
+Adatlap készítésének dátuma:
+Kérelmet benyújtó cégszerű aláírása:
+
+8. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
+1. A sugárvédelem szervezeti rendszere
+1.1. A sugárvédelmi szervezet felépítése és feladatai, a sugárvédelmi megbízott(ak) feladatai
+1.1.1. A sugárvédelem szervezeti felépítése: az engedélyes, valamint a sugárveszélyes munkavégzésnek
+helyt adó létesítmény vezetői, a sugárvédelmi megbízott, a munkahelyi sugárvédelmi szervezet
+szervezeti, hierarchikus kapcsolata
+1.1.2. A sugárvédelem megbízott feladatainak ismertetése
+1.1.3. A munkahelyi sugárvédelmi szervezet, valamint a létesítményi sugárvédelmi szolgálat feladatainak
+ismertetése
+1.2. Az engedélyes sugárvédelemmel kapcsolatos feladatai az alábbiak szerint:
+1.2.1. Az engedélyes sugárvédelemmel kapcsolatos feladatainak (kötelezettségeinek) ismertetése
+(beleértve a munkavállalók és a lakosság sugárvédelmét szolgáló feltételek biztosítását,
+a sugárterhelés ellenőrzését és értékelését, az indokoltság és optimálás és dóziskorlátozás
+alkalmazását, a sugárvédelmi eljárások felülvizsgálatát, a rendkívüli helyzetek kezelését)
+1.2.2. A létesítményt üzemeltető szervezet vezetőinek sugárvédelemmel kapcsolatos feladatainak
+(kötelezettségeinek) ismertetése
+1.3. A felelősségi körök felsorolása
+1.3.1. Az MSSZ hatálya
+1.3.2. A munkáltató és sugárveszélyes munkahely engedélyesének felelősségi köre
+1.3.3. A vezetőség felelősségi köre
+1.3.4. A sugárvédelmi szolgálat és sugárvédelmi szervezet, valamint a sugárvédelmi feladatokat ellátó
+személyek felelőssége
+1.3.5. A külső munkáltató felelőssége
+1.4. A foglalkozás-egészségügyi szolgáltatás rendje
+1.4.1. A foglalkozás-egészségügyi szolgálatról szóló jogszabálynak való megfelelőség biztosításának
+feltételei
+1.4.2. A sugárveszélyes munkakörben foglalkoztatottak foglalkozás-egészségügyi vizsgálatainak
+szervezési rendje (beleértve a gyakoriságát, a megszervezésének módját, valamint az eltiltások
+kezelését)
+1.5. Az MSSZ felülvizsgálatának rendje
+1.5.1. A rendszeres felülvizsgálat: kiemelt létesítmények és az I. sugárvédelmi kategóriájú alkalmazások
+esetén legalább éves, a II. sugárvédelmi kategóriájú alkalmazások esetén legalább 2 éves,
+a III. sugárvédelmi kategóriájú alkalmazások esetén legalább 3 éves gyakorisággal
+1.5.2. A rendkívüli felülvizsgálat rendje, az azt kiváltó események, állapotok ismertetésével
+2. A munkavállalókra vonatkozó előírások
+2.1. A sugárveszélyes munkakörök leírása, a munkavállalók sugárvédelmi besorolása, a sugárveszélyes
+munkahelyen dolgozó munkavállalók számára vonatkozó előírások
+2.1.1. A sugárveszélyes munkaköri tevékenységek megnevezése
+2.1.2. A sugárveszélyes tevékenységhez kapcsolódó munkakörök leírása, a lehetséges sugárterhelés
+módjának és mértékének meghatározása
+2.1.3. A sugárveszélyes tevékenységek munkaterületeinek megnevezése
+2.1.4. A sugárveszélyes munkahelyen dolgozó, valamint a sugárvédelmi felügyeletüket ellátó
+munkavállalók – biztonságos munkavégzéshez szükséges – létszáma, munkakörönként
+2.1.5. Annak meghatározása, hogy mely munkavállaló végezhet egyedül is sugárveszélyes munkát
+2.1.6. A munkavállalók sugárvédelmi besorolásának kritériumai a sugárterhelés kockázata szerint,
+a munkakörök feltüntetésével
+2.2. A sugárveszélyes munkahelyen dolgozó munkavállalók sugárvédelemmel kapcsolatos jogai és
+kötelezettségei
+
+2.3. A sugárveszélyes munkahelyen dolgozó munkavállalók szakmai és sugárvédelmi képzettségi követelményei,
+a sugárvédelmi képzések rendje (a 4. melléklet figyelembevételével)
+2.3.1. A sugárveszélyes munkahelyen dolgozók munkakörei és a munkakörhöz kapcsolódó szakmai és
+sugárvédelmi képzettségi követelmények
+2.3.2. A sugárveszélyes munkahelyen dolgozók felügyeletét ellátók munkakörei és a munkakörhöz
+kapcsolódó szakmai és sugárvédelmi képzettségi követelmények
+2.3.3. Azon munkavállalókra vonatkozó szakmai és sugárvédelmi képzettségi követelmények, akik nem
+végeznek sugárveszélyes munkát, ám önálló belépési jogosultságuk van a felügyelt vagy ellenőrzött
+területekre
+2.3.4. Új belépők képzése: MSSZ oktatása, gyakorlati munkahelyi sugárvédelmi képzés
+2.3.5. Sugárveszélyes munkafeltételek megváltozása, valamint az MSSZ változása esetén az új ismeretek
+oktatásának rendje
+3. A sugárveszélyes munkahely felügyelete
+3.1. Az ellenőrzött és felügyelt területek meghatározása, követelményrendszere (körülhatárolási intézkedések)
+3.1.1. A sugárveszélyes munkaterületek besorolása (ellenőrzött és felügyelt munkaterületek) a területen
+végezhető tevékenységekhez kapcsolódó sugárterhelés kockázata szerint
+3.1.2. Az ellenőrzött területen belüli további munkaterület-besorolás, amennyiben releváns
+3.1.3. Az egyes területek körülhatárolása: a területek körülhatárolásának módja és jelzései, a belépési
+jogosultságok leírása, a sugárvédelmi ellenőrzési pontok leírása
+3.1.4. Az egyes területek sugárvédelmi felügyeletére tett intézkedések, különösen a személyi
+sugárterhelés ellenőrzésének módja, a munkakörülmények ellenőrzésének (sugárvédelmi ellenőrző
+rendszerek alkalmazásának) módja, a felületi szennyezettség megengedett értékei, a környezeti
+dózisegyenérték-teljesítmény megengedett értékei, a levegő aktivitástartalmának megengedett
+értékei, az egyéni védőeszköz-használat elrendelésének feltételei
+3.2. A munkavállalók külső és belső sugárterhelésének ellenőrzésére vonatkozó követelmények, az ellenőrzés
+gyakorisága és módja
+3.2.1. A sugárterhelés értékelését segítő viszonyítási szintek bemutatása: dóziskorlátok,
+dózismegszorítások és egyéb optimálás értékek, a sugárterhelés ellenőrzési és riasztási szintjei,
+származtatott korlátok
+3.2.2. A sugárterhelések értékelésének rendje, az értékelése után meghozott javító, korrigáló intézkedések
+3.2.3. A külső sugárzásból eredő sugárterhelés ellenőrzése:
+3.2.3.1. A sugárterhelés típusához (gamma-, neutron- és béta-sugárzás, egésztest-dózis,
+szemlencsedózis, végtagdózis) illeszkedő ellenőrzési módszerek felsorolása
+3.2.3.2. Az egyes munkaterületeken megkövetelt ellenőrzés technikai eszközei, gyakorisága és
+időtartama
+3.2.3.3. Számítási módszerek (becslés, modellezés, elemzés) leírása vagy hivatkozás megfelelő
+referenciára, a számítások felülvizsgálatának gyakorisága vagy kiváltó feltételei
+3.2.3.4. Annak meghatározása, hogy az egyes ellenőrzési módszerek mely munkavállalói,
+lakossági csoportokra alkalmazhatók
+3.2.4. A belső sugárterhelés ellenőrzése:
+3.2.4.1. Laboratóriumi vizsgálati módszerek ismertetése
+3.2.4.2. Az inhalációból származó belső sugárterhelés becslésének módja a levegőminőség
+ellenőrzése alapján
+3.2.4.3. Annak meghatározása, hogy az egyes ellenőrzési módszerek mely munkavállalói,
+lakossági csoportokra alkalmazhatók
+3.2.5. Amennyiben személyi sugárterheléseket más munkavállalókon végzett személyi mérések alapján
+becsülnek, a becsléshez felhasznált számítási módszerek ismertetése:
+3.2.5.1. A sugárterhelés típusához illeszkedő számítási (becslés, modellezés, elemzés) módszertan
+megnevezése és leírása vagy hivatkozás megfelelő referenciára
+3.2.5.2. A referencia munkavállalók munkaköre, a sugárterhelésük jellege, ideje és ellenőrzési
+módja
+3.2.5.3. A számítások felülvizsgálatának gyakorisága vagy kiváltó feltételei
+
+3.3. A felületi szennyezettség ellenőrzésének rendje:
+3.3.1. Az ellenőrzés műszaki módszerének megnevezése
+3.3.2. A mérési eredmény korrekciójára alkalmazott (felületfüggő) paraméterek ismertetése (amennyiben
+van ilyen)
+3.3.3. Az ellenőrzés rendszeres gyakorisága vagy elrendelésének feltételei, az ellenőrzést, végzésére
+jogosult munkakörök
+3.3.4. A felületi szennyezettség megszüntetésére irányuló módszerek és az alkalmazandó eszközök
+(dekontamináló készletek) típusa és mennyisége, a rendelkezésre állás ellenőrzésének rendje
+3.3.5. A dekontaminálás elrendelésének folyamata és végrehajtásának rendje
+3.3.6. A sugárvédelmi zsilipek helyének, használatának ismertetése, a testfelület szennyezettségének
+ellenőrzésére alkalmazott mérőeszközök típusának és a mért jellemzők ismertetése
+3.3.7. A bőrfelület-szennyezettség megszüntetésére irányuló módszerek és az alkalmazandó eszközök
+(dekontamináló készletek) típusa és mennyisége, a rendelkezésre állás ellenőrzésének rendje
+4. A munkavégzésre vonatkozó előírások
+4.1. A biztonsági rendszerek, személyi védőeszközök, sugárvédelmi műszerek, személyi dózismérők kezelésére,
+viselésére vonatkozó előírások
+4.1.1. A személyi védőeszközök alkalmazása, az általános munkaruházat használatának rendje,
+a kiegészítő egyéni védőeszközök használatának elrendelési rendje
+4.1.2. Műszaki sugárvédelmi árnyékolások alkalmazása, elrendelésük feltételei
+4.1.3. Az alkalmazott személyi dózismérők típusának megadása, kiolvasásuk, viselésük és tárolásuk rendje
+4.1.4. Az alkalmazott kézi vagy mobil műszerek típusai, alkalmazásuk elrendelése
+4.2. Mindazon sugárvédelmi ismeretek, amelyeket a biztonságos munkavégzéshez helyileg ismerni kell
+4.2.1. Be- és kilépés rendje a felügyelt és az ellenőrzött területre
+4.2.2. Munkavégzési engedélyek, dózistervezés
+4.2.3. Általános viselkedési és személyi higiéniai előírások
+4.2.4. A biztonságos munkavégzésre vonatkozó szabályok
+4.2.5. Az MSSZ megsértésének következményei
+4.3. Zárt sugárforrások alkalmazására vonatkozó különleges szabályok
+4.3.1. A zárt sugárforrások zártságvizsgálatának rendje
+4.3.2. A sugárforrások tárolási, kezelési rendje, a tárolási hely leírása, jelölése, a tárolóeszközök
+(konténerek, trezorok, munkatartók) leírása, jelölése
+4.3.3. A sugárforrás kivételi vagy visszavételi rendje, nyilvántartása, jogosult munkakörök megnevezése
+4.3.4. A sugárforrásra, a sugárforrástartóra vagy a tárolási helyre berendezésekre vonatkozó megengedett
+dózisteljesítmény-szintek
+4.3.5. A használaton kívüli zárt sugárforrások megfelelő kezelésére, adott esetben beleértve
+a használaton kívüli zárt sugárforrás gyártónak, szállítónak, másik arra jogosult vállalkozásnak vagy
+radioaktívhulladék-tároló létesítménynek történő átadására vonatkozó előírások
+4.3.6. A hiányzó radioaktív anyag lehetséges helyének a felkutatására és felügyelet alá helyezésére
+vonatkozó intézkedési terv
+4.4. A radioaktív hulladékok munkahelyi és üzemi gyűjtésének, kezelésének módja
+4.4.1. A szilárd hulladékok, valamint folyadék- és gáztartalmú készítmények esetén a munkahelyi
+gyűjtőhelyek üzemeltetése, a telephelyen belüli anyagmozgatás módja, a központi gyűjtőhelyen
+történő tárolás rendje, a gyűjtőedények és tárolók jelölésének módja, a munkahelyi és központi
+üzemi gyűjtőhelyek üzemeltetésére megengedett hulladékmennyiségek és radiológiai korlátok,
+a hulladékok minősítésének módszere, a felszabadítás rendje
+4.4.2. A folyékony hulladékok esetén a hulladékká minősítés folyamata, a folyékonyhulladék-gyűjtők
+üzemeltetése, a telephelyen belüli anyagmozgatás/továbbítás módja és a központi gyűjtőhelyen
+történő tárolás rendje, a gyűjtőtartályok és tárolóik jelölésének módja, a munkahelyi és központi
+üzemi gyűjtőtartályok üzemeltetésére megengedett hulladékmennyiségek és radiológiai korlátok,
+a hulladékok minősítésének módszere, a felszabadítás és kibocsátás rendje
+
+4.4.3. A hulladékok további kezelése, feldolgozása, kondicionálásának esetén az alkalmazott technológiai
+berendezések megnevezése és jóváhagyási engedély, a berendezések sugárvédelmi üzemi korlátai
+(hulladékmennyiség, radiológiai korlátok) a feldolgozás után létrejövő radioaktív hulladék jellemzői,
+4.4.4. A radioaktív hulladékok nyomkövetésének szabályozása a külső hulladékkezelő szervezet részére
+történő átadásig, a hulladékok átadásának rendje az egyes belső szervezetek között, valamint
+a külső szervezetek felé
+4.5. A biztonsági rendszerek, személyi védőeszközök, sugárvédelmi műszerek, személyi dózismérők
+karbantartására, hitelesítésére vonatkozó előírások
+4.5.1. Az alkalmazott személyi dózismérők kiértékelésének módja és gyakorisága, a mérési eredmények
+kezelése, valamint – amennyiben a kiolvasást vagy kiértékelést külső szervezet végzi – a szervezet
+megnevezése, továbbá a személyi dózismérők karbantartásának és hitelesítésének rendje
+4.5.2. Az alkalmazott kézi vagy mobil műszerek, mérőeszközök karbantartására, kalibrálására és
+hitelesítésére vonatkozó szabályok
+4.5.3. A telepített sugárvédelmi monitorozó rendszerek bemutatása, méréstartományuk, riasztási
+szintjük, a rendszer figyelemmel kísérésére vonatkozó előírások, a mérőeszközök karbantartására,
+kalibrálására és hitelesítésére vonatkozó szabályok
+4.5.4. A kibocsátás-ellenőrző rendszer üzemeltetésére vonatkozó eljárások ismertetése
+4.5.5. A kiemelt létesítmények esetén a környezet-ellenőrző rendszer üzemeltetésére vonatkozó eljárások
+ismertetése
+4.6. A sugárvédelmi minőségbiztosítási programban előírt feladatok, beleértve az ionizáló sugárzást létrehozó
+berendezéseken végzendő ellenőrzéseket és méréseket, végrehajtásának módját és gyakoriságát
+4.6.1. A sugárvédelmi minőségbiztosítási folyamatok azonosítása
+4.6.2. A berendezések beszerzése, átvételi vizsgálatok
+4.6.3. A berendezések időszakos, független szervezetek által végzett teljes állapotfelmérésének
+(állapotvizsgálat) rendje
+4.6.4. A berendezések rendszeres (napi, heti, havi, évi) minőségellenőrzési vizsgálatának rendje,
+módszerei, gyakorisága
+4.6.5. A biztonsági rendszerek, személyi védőeszközök, sugárvédelmi műszerek, személyi dózismérők
+rendszeres (napi, heti, havi, évi) minőségellenőrzési vizsgálatának rendje, módszerei, gyakorisága
+4.6.6. Az orvosi és ipari radiológiai munkahelyek esetében a sugárveszélyes munkahely kialakítására
+vonatkozó szabványok teljesülésének ellenőrzését célzó sugárvédelmi ellenőrzési és mérési
+program leírása
+5. Nyilvántartások és jelentések kezelése
+5.1. A sugárvédelemmel kapcsolatos nyilvántartások vezetési és a bizonylatok megőrzési rendje, a hatóságok
+részére történő bejelentési kötelezettség teljesítésének rendje
+5.1.1. A vezetett nyilvántartások ismertetése (személyi dózismérések, képzések, orvosi vizsgálatok,
+sugárvédelmi ellenőrzések és értékelések, sugárforrások és hulladékok nyilvántartása)
+5.1.2. Nyilvántartások kezelésének rendje
+5.1.3. A nukleáris biztonsági hatóság részére történő rendszeres adatszolgáltatások rendje (gyakoriság,
+információközlés módja, tartalma, felelőse, határideje)
+5.1.4. A nukleáris biztonsági hatóság részére történő eseti bejelentések rendje (kiváltó feltételek,
+információközlés módja, tartalma, felelőse, határideje)
+6. Üzemzavari és rendkívüli események kezelése
+6.1. A normál üzemi folyamatok körébe nem tartozó üzemzavari – de nem rendkívüli – események kezelése
+6.1.1. A normál üzemi folyamatok körébe nem tartozó üzemzavari vagy jelentésköteles – de nem
+rendkívüli – események köre és kivizsgálásuk rendje
+6.1.2. Üzemzavarok bekövetkezése esetén életbe lépő szervezeti intézkedések
+6.1.3. A foglalkozási dózismegszorítás túllépése esetén alkalmazott intézkedések
+6.1.4. Nem tervezett kibocsátások kezelése
+
+6.2. A rendkívüli események kezelésének rendje
+6.2.1. A rendkívüli esemény kezelésének terve, mely minimális tartalma
+6.2.1.1. A rendkívüli események körének meghatározása
+6.2.1.2. Rendkívüli esemény bekövetkezése esetén életbe lépő szervezeti intézkedések,
+amennyiben van külön baleset-elhárítási szervezet, annak felépítése, feladatai, riasztása,
+6.2.1.3. Nem tervezett sugárterheléssel járó események kezelése
+6.2.1.3.1. A foglalkozási dóziskorlát túllépése esetén végrehajtandó intézkedések
+6.2.1.3.2. A lakossági dózismegszorítás vagy dóziskorlát túllépése esetén végrehajtandó
+intézkedések
+6.2.1.3.3. Radionuklidok felvétele (belégzése, lenyelése, sérült bőrfelület szennyeződése)
+esetén végrehajtandó intézkedések
+6.2.1.3.4. Sérülések kezelése, ahol a seb radioaktív anyaggal szennyeződött
+6.2.1.3.5. A sugársérültek vagy arra gyanús személyek helyszínen történő egészségügyi
+ellátása
+6.2.1.4. Az üzemeltetési feltételeket és korlátokat túllépő felületi szennyezettség, vagy levegő
+aktivitás-koncentráció észlelése esetén végrehajtandó intézkedések, a sugárzási
+viszonyok ellenőrzésének és értékelésének rendje
+6.2.1.5. Zárt sugárforrás zártságának megszűnése vagy sugárforrások sérülése esetén
+végrehajtandó intézkedések
+6.2.1.6. A sugárforrás elvesztése vagy jogosulatlan használata esetén végrehajtandó intézkedések
+6.2.1.7. A radioaktív sugárforrások vagy ionizáló sugárzást létrehozó berendezések biztonságos
+kezelését szolgáló rendszerek károsodása esetén végrehajtandó teendők
+6.2.1.8. Radioaktív izotópok nem engedélyezett vagy határértéket túllépő környezetbe kerülése
+esetén végrehajtandó intézkedések
+6.2.1.9. A képzések és gyakorlatok rendje a rendkívüli események kezelésére való felkészülés
+céljából
+6.2.2. Kiemelt létesítmények, I. és II. sugárvédelmi kategóriába tartozó, radioaktív anyagot alkalmazó
+munkahelyek esetében nukleáris veszélyhelyzet elhárítására vonatkozó veszélyhelyzet-elhárítási
+terv, mely minimális tartalma a 6.2.1. pontban foglalt információk mellett
+6.2.2.1. A veszélyhelyzetek leírása
+6.2.2.1.1. Az Országos Nukleárisbaleset-elhárítási Intézkedési Terv (OBEIT) szerinti
+Veszélyhelyzeti Tervezési Kategóriába sorolás
+6.2.2.1.2. Lehetséges veszélyhelyzeti osztályok
+6.2.2.1.3. A veszélyhelyzet azonosítása, értékelése, a veszélyhelyzet kihirdetésének és
+megszűntetésének pontos feltételei
+6.2.2.1.4. Veszélyhelyzeti tervezési zónák
+6.2.2.2. A telephelyen tartózkodók védelme
+6.2.2.2.1. A védekezésben, elhárításban nem érintett személyzet védelme (riasztás,
+gyülekeztetés, kimenekítés), óvintézkedések és azok bevezetésének feltételei
+6.2.2.2.2. A veszélyhelyzet-elhárításba bevont munkavállalók védelme
+6.2.2.3. Az illetékes hatóságok értesítésének rendje
+6.2.2.4. A külső segítségnyújtás kérésének rendje, együttműködés rendje az Országos
+Nukleárisbaleset-elhárítási Rendszerben érintett szervekkel
+6.2.2.5. A létesítmény vagy munkahely külső környezetének felmérésére irányuló intézkedések,
+6.2.2.6. Az illetékes hatóságok részére információszolgáltatás a lakosság tájékoztatása érdekében,
+amennyiben szükséges a lakosság védelmével kapcsolatos azonnali óvintézkedések
+bevezetése szükségessé válhat.
+6.2.2.7. A nukleáris veszélyhelyzet elhárítására vonatkozó baleset-elhárítási és intézkedési terv
+felülvizsgálatának rendje
+6.2.2.8. Kiemelt létesítmények esetén a veszélyhelyzeti kommunikáció tervét a nukleáris
+és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló
+kormányrendelet szerint
+
+7. Sugárvédelmi szempontból illetékes személyek és szervezetek elérhetősége
+7.1. Az MSSZ-hez mellékelni kell a sugárvédelmi szempontból illetékes személyek és szervezetek elérhetőségét:
+7.1.1. A sugárvédelmi megbízott neve, elérhetősége (telefon, e-mail, helyiség, cím), munkaköri beosztása,
+7.1.2. A sugárvédelmi megbízott helyettesének neve, elérhetősége (telefon, e-mail, helyiség, cím),
+munkaköri beosztása
+7.1.3. A foglalkozás-egészségügyi szolgáltató elérhetősége (telefon, cím)
+7.1.4. A dozimetriai szolgáltató elérhetősége (telefon, cím)
+7.1.5. A sugárvédelmi szakértő(k) neve, elérhetősége (telefon, e-mail, cím)
+7.1.6. Rendkívüli esemény esetén értesítendő hatóságok elérhetősége (telefon, e-mail, cím)
+9. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+1. Sugárvédelmi szakértői tevékenység ellátásához szükséges szakmai ismeretek, képesítési feltételek
+és szakmai gyakorlat
+A B C D
+1. Kérelmezhető szakirányok Szakmai ismeretek Képesítési feltétel Szakmai gyakorlat
+2. 1. Egészségügyi
+alkalmazások, beleértve
+oktatást és kutatást
+2. Nukleáris és egyéb
+ipari alkalmazások,
+beleértve oktatást és
+kutatást
+1. Dozimetria
+2. Sugárbiológia
+3. Védekezés külső
+sugárterhelés ellen
+4. Védekezés belső
+sugárterhelés ellen
+5. Nukleáris
+méréstechnika
+6. Belső sugárterhelés
+számítása
+7. Nukleáris létesítmény
+üzemeltetése
+8. Radioaktív hulladékok
+kezelése
+9. Orvosi diagnosztika
+és/vagy terápia
+10. Nukleáris
+környezet-ellenőrzés
+1. BSc vagy MSc szintű
+– gépészmérnök,
+– villamosmérnök,
+– biztonságtechnikai
+mérnök,
+– energetikai mérnök,
+– környezetmérnök,
+– vegyészmérnök,
+– biomérnök,
+– egészségügyi mérnök,
+– fizikus,
+– mérnök-fizikus,
+– vegyész,
+– informatikus,
+– orvos,
+– fizikatanár,
+– kémiatanár vagy
+2. szakirányú szakmérnök
+vagy
+3. az 1. és 2. pontban
+foglaltakkal egyenértékű
+felsőfokú szakképzettség és
+mindegyik esetben átfogó
+fokozatú sugárvédelmi
+képzettség,
+4. mindegyik esetben
+szakértő fokozatú
+sugárvédelmi képzettség
+alapképzésben
+szerzett végzettség
+esetében legalább
+nyolc év, mesterképzés
+esetében legalább
+öt év szakmai gyakorlat
+a 4. mellékletben
+meghatározott
+szakirányokhoz
+kapcsolódóan
+
+2. Adatlap
+a Sugárvédelmi szakértői tevékenység folytatására irányuló engedélykérelemhez
+a) A kérelmezett szakterület*:
+aa) nukleáris és egyéb ipari alkalmazások
+ab) egészségügyi alkalmazások
+* A megfelelő aláhúzandó
+b) A szakmai tevékenység bemutatása
+A B C D E
+1.
+Szakmai
+tevékenység
+megnevezése,
+rövid leírása*
+A kérelmező
+munkában való
+részvételének
+jellemzése**
+A tevékenység
+végzésének ideje
+(év, hó – év, hó
+tól–ig)
+A felhasznált
+szabvány, lényeges
+irodalom, szoftver
+megnevezése
+A tevékenység igazolása
+(megrendelő vagy
+munkáltató aláírása,
+publikáció, hivatkozás)
+2.
+3.
+4.
+5.
+6.
+* A szakmai tevékenységeket a 9. melléklet 1. pontjához tartozó táblázat B oszlopában meghatározott szakmai ismeretek szerint csoportosítva,
+a konkrét tervezői munkát, kutatási tevékenységet, projektet stb. megnevezve kell meghatározni.
+** A munkavégzés jellegének meghatározásakor ismertetni kell a szakmai gyakorlat jellegét is, mint pl. kutatás, mérés, elemzés, tervezés, hatósági
+munka, terepi munkavégzés stb.
+c) A főállású munkahelyek bemutatása
+A B C
+1. Munkaadó
+A munkavégzés ideje
+(tól–ig)
+Munkahelyi tevékenysége és beosztása
+2.
+3.
+4.
+5.
+6.
+7.*
+* A táblázat sorai szükség esetén bővíthetők.
+d) A főállású munka melletti tevékenységek (mellékállás, egyéni vállalkozás, felsőfokú oktatás)
+A B C
+1. Megbízó
+A tevékenység végzési ideje
+év(ek)
+Végzett tevékenysége
+2.
+3.
+4.
+5.
+6.*
+* A táblázat sorai szükség esetén bővíthetők.
+Kelt:
+kérelmező aláírása
+
+10. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+A radioaktív anyag alkalmazása befejezését követően a sugárveszélyes munkahely sugárvédelmi
+felügyeletének megszüntetéséhez szükséges elemzés tartalmi követelményei
+1. Az inaktívvá nyilvánítandó sugárveszélyes munkahely adatai:
+1.1. A sugárveszélyes munkahely megnevezése, természetbeli címe
+1.2. Radioaktív anyag alkalmazására vonatkozó engedély száma
+1.3. Amennyiben szükséges volt, a sugárveszélyes munkahely dekontaminálására, leszerelésére mint
+sugárveszélyes tevékenységre kiadott engedély száma, valamint az engedély birtokosa
+1.4. A radioaktív anyag alkalmazásának megszüntetési dátuma
+1.5. A sugárveszélyes munkahely leírása (kialakítása, felületek minősége, légelszívók, szennyvízgyűjtők
+ismertetése)
+2. A munkahelyen mérhető sugárzási adatok ismertetése
+A munkahelyen mérhető sugárzási adatok közlése során az alábbi információkat kell megadni (ha valamely adat
+nem releváns, akkor azt jelezni szükséges)
+2.1. Az inaktívvá nyilvánításhoz elvégzett műveletek, tevékenységek ismertetése
+2.1.1. Amennyiben dekontaminálás történt, annak módja, a felületi szennyezettségek kezdeti
+viszonyai (szennyeződés helye, kiterjedése, szennyező izotópok, mértéke) és a szennyezettség
+megszüntetésének módszere
+2.1.2. Az elbontott, leszerelt, korábban radioaktív anyagot tartalmazó vagy radioaktív anyaggal
+szennyeződött berendezések megnevezése, mennyisége
+2.2. A megszüntetésre kerülő tevékenység során alkalmazott, valamint a leszerelés és dekontaminálás során
+képződő radioaktív anyagok és hulladékok kezelése
+2.2.1. A radioaktív hulladékká minősített anyagok jellege, aktivitása és mennyisége,
+a radioaktívhulladék-tároló átvételi jegyzőkönyvének másolata
+2.2.2. A felszabadított anyagok jellege, aktivitása és mennyisége, a felszabadítási engedély vagy bejelentés
+száma, a felszabadított anyagot vagy hulladékot átvevő szervezet átvételi jegyzőkönyvének
+másolata
+2.2.3. A radioaktív anyagként más engedélyes részére átadott radioaktív anyagok jellege, aktivitása és
+mennyisége, radioaktív anyag átadás-átvételi jegyzőkönyvének másolata
+2.3. A végállapotban mérhető felületi szennyezettség mérési eredményei
+2.3.1. Mérési módszer ismertetése
+2.3.2. Mérőműszerek típusa, érzékenysége, hitelesítésének száma és érvényessége
+2.3.3. A mérési eredmények megadása
+2.4. A végállapotban mérhető gamma (adott tevékenység esetén neutron) környezeti dózisegyenérték-
+teljesítmény mérési eredményei
+2.4.1. Mérőműszerek típusa, hitelesítésének száma és érvényessége
+2.4.2. A mérési eredmények megadása
+2.5. A területen maradó szerkezeti anyagok, falazatok, padló, valamint a talaj radionuklid-tartalma
+2.5.1. Mérési módszer ismertetése (különösen in-situ gamma spektrometria vagy mintavételezés és
+laboratóriumi vizsgálat ismertetése)
+2.5.2. A mérési, mintavételi helyek azonosítása
+2.5.3. A mérési eredmények megadása mérési pontonként
+2.6. A méréseket végző szervezet(ek) adatai
+2.6.1. A méréseket végző szervezet megnevezése (lehet az engedélyes is)
+2.6.2. A méréseket végző és kiértékelő személyek munkaköre, szakmai és sugárvédelmi képzettsége
+2.7. A munkahely sugárzási viszonyainak összefoglaló értékelése
+2.7.1. A munkahely sugárzási viszonyainak összefoglaló értékelése a mérések alapján, az inaktívvá
+nyilvánítás feltételeinek összefoglaló bemutatása
+2.7.2. Az értékelést végző személy szakmai és sugárvédelmi képzettsége, sugárvédelmi szakértő esetében
+nyilvántartási szakértői engedély száma
+
+3. Az elemzésben igazolni kell az alábbi feltételek teljesülését
+3.1. A felületeken a fixált szennyeződések megengedett értéke béta- és gamma-sugárzó izotópok esetében
+5 Bq/cm2, azonban a felületek radioaktív szennyeződését ezen érték alatt is az észszerűen elérhető legkisebb
+értékre kell csökkenteni. A felületi szennyezettség 0,4 Bq/cm2 érték alá történő csökkentése az esetek
+többségében nem szükséges.
+3.2. A felületeken a fixált szennyeződések megengedett értéke alfa-sugárzó izotópok esetében 0,5 Bq/cm2,
+azonban a felületek radioaktív szennyeződését ezen érték alatt is az észszerűen elérhető legkisebb értékre
+kell csökkenteni. A felületi szennyezettség 0,04 Bq/cm2 érték alá történő csökkentése az esetek többségében
+nem szükséges.
+3.3. A felületeken a fixált szennyeződések megengedett értéke 3H és 14C izotópok esetében 50 Bq/cm2, azonban
+a felületek radioaktív szennyeződését ezen érték alatt is az észszerűen elérhető legkisebb értékre kell
+csökkenteni. A felületi szennyezettség 4 Bq/cm2 érték alá történő csökkentése az esetek többségében nem
+szükséges.
+3.4. A felületeken a foltokban mérhető fixált szennyeződésből vagy felaktiválódásból, valamint az anyag
+mélyebb rétegébe diffundált radionuklidokból származó, a felülettől 10 cm távolságban mérhető környezeti
+dózisegyenérték-teljesítmény megengedett értéke 1 µSv/h
+3.5. Nagy felületek egybefüggő szennyeződése esetén a felületi szennyezettség határértéke egyedi elbírálás alá
+esik a szennyező izotóp fajtája és a radioaktív anyag kémiai formája alapján
+3.6. Azokban az izotóplaboratóriumokban, ahol a béta-sugárzás részecskéinek maximális energiája nem éri el
+a 150 kV-ot (pl. 3H, 63Ni, 14C), a szennyezettség ellenőrzését a dörzsminta folyadék szcintillációs kiértékelésével
+kell elvégezni
+3.7. A munkahelyen radioaktív sugárforrás vagy radioaktív hulladék jelenléte nem megengedett
+3.8. A munkahelyen maradó, felaktiválódásnak kitett vagy egyéb, a korábbi sugárveszélyes tevékenységből
+származó radionuklidokat tartalmazó anyagok esetében az egyes radionuklidok fajlagos aktivitás-
+koncentrációja nem haladhatja meg e rendelet 1. § (3) bekezdés a) pontjában megadott korlátokat; ellenkező
+esetben a kérelmezőnek igazolnia kell, hogy a terület újrahasznosításból származó, a lakosság bármely tagját
+érő egyéni évi sugárterhelés nem haladja meg a 30 µSv effektív dózist
+
+11. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+Berendezés Adatlap ionizáló sugárzást létrehozó berendezések regisztrációjához1
+1. A berendezés OAH által kiadott azonosító száma
+Berendezés OAH azonosító száma2:
+2. A berendezés tulajdonosa (Intézmény/Vállalkozás/Cég/Magányszemély)
+Megnevezése:
+Székhely címe:
+Cégjegyzékszám3:
+Levelezési cím:
+3. A berendezés üzemeltetését végző szervezet
+Intézmény/Cég neve:
+Székhely címe:
+Cégjegyzékszám3:
+Levelezési cím:
+Az üzemeltetési engedély száma4:
+4. A berendezés üzemeltetésének (alkalmazásának, tárolásának) helye
+Szervezeti egység megnevezése:
+A munkahely címe:
+Az alkalmazására szolgáló helyisége(k):
+Felelős vezető: Név:
+Telefon: E-mail:
+A berendezés nyilvántartási adatait kezelő személy: Név:
+Telefon: E-mail:
+5. A berendezés típusa, alkalmazásának célja
+I. kategóriába tartozó sugárveszélyes munkahelyek:
+o Röntgenterápiás berendezés
+o Helyszíni röntgen-radiográfia
+o Gyorsítók: orvosi terápia
+o Gyorsítók: ipari, mezőgazdasági technológia
+o Gyorsítók: kutatás, oktatás
+II. kategóriába tartozó sugárveszélyes munkahelyek:
+o Röntgendiagnosztika felvételi
+o Röntgendiagnosztika átvilágító
+o Fogászati röntgen: panoráma/CBCT
+o Angiográfiás röntgenberendezés
+o Tomográfiás képalkotók
+o Hibrid vizsgálók
+o Durvaszerkezeti ipari röntgenberendezés
+o Közúti- vagy vasútirakomány-átvilágító berendezés
+o Hordozható átvilágító berendezések
+III. sugárvédelmi kategóriába tartozó berendezések:
+o Fogröntgen intraorális
+o Csontsűrűségvizsgáló
+o 
+Röntgensugaras ipari mérő, szabályozó
+berendezések
+o Kábítószer-, robbanóanyag-kereső berendezések
+o Telepített és hordozható csomagvizsgálók
+o Röntgensugaras anyag- és finomszerkezet-vizsgáló
+Egyéb, nem besorolt berendezés:
+
+6. Az ionizáló sugárzást létrehozó berendezés adatai
+6.1. A berendezés típusengedélyszáma5:
+6.2. Integrált (a berendezés megbontásával cserélhető részegységeket tartalmazó) berendezések
+Gyártó Típus Modellszám Sorozatszám
+6.3. Több részegységből álló berendezés adatai
+Részegység megnevezése Gyártó Típus Modellszám Sorozatszám
+Biztonság szempontjából fontos elemek
+Röntgencső egység
+Röntgengenerátor
+tápegység
+Vezérlőegység
+Árnyékolókabin
+Detektor
+Alkalmazáshoz szükséges egyéb elemek6
+Dátum:
+Tulajdonos aláírása7:
+1 
+Benyújtandó az ionizáló sugárzást létrehozó berendezés tulajdonosváltozás-bejelentésekor, valamint az ionizáló sugárzást létrehozó berendezés
+üzemeltetésére irányuló engedély kérelmezésekor. Amennyiben a berendezés OAH azonosító száma már kiadásra került, az azonosító szám mellett
+elegendő csak a változásokat jelezni a nyomtatványon.
+2 OAH adja első bejelentéskor, a továbbiakban kötelezően kitöltendő.
+3 Egyéni vállalkozó esetén nyilvántartási szám.
+4 Amennyiben van érvényes engedély; új kérelemnél üresen kell hagyni.
+5 
+2018. év előtt kiadott minősítési engedély, forgalomba hozatali engedély, ennek hiányában OSSKI szakvélemény vagy mentesítési határozat száma.
+2018. március 31-e után típusengedély vagy mentesítési határozat száma.
+6 Egyéb elemek közé tartoznak: diafragma, szűrő, fókusztávolság-állító tubus, mintatartó tálca, filmtartó állvány stb.
+7 Gazdálkodó szervezet esetén önálló képviseleti joggal rendelkező személy aláírása, név nyomtatott betűvel is kiírva.
+
+12. melléklet a 2/2022. (IV. 29.) OAH rendelethez
+Radioaktív hulladékok osztályozása
+1. A radioaktív hulladékok osztályozásának általános szempontjai:
+1.1. Nagy aktivitású az a radioaktív hulladék, amelynek hőtermelését a tárolás és elhelyezés tervezése és
+üzemeltetése során figyelembe kell venni. Mindenképpen ide sorolandó az a radioaktív hulladék, amelynek
+hőtermelése nagyobb, mint 2 kW/m3, vagy a radioaktív hulladék csomag összaktivitása szerint a Fizvr. szerinti
+radioaktív hulladékok 1. kategóriájába sorolandó.
+1.2. Kis vagy közepes aktivitású radioaktív hulladéknak minősül az a radioaktív hulladék, amely nem tekinthető
+nagy aktivitású radioaktív hulladéknak.
+1.3. A radioaktív hulladékká minősített zárt sugárforrások külön hulladékosztályt képviselnek, amelyeket
+használaton kívüli zárt sugárforrásként kell nyilvántartani. Amennyiben a használaton kívüli zárt
+sugárforrások a 41. § (9) bekezdésében foglalt feltételekkel végleges elhelyezésre alkalmas módon kerülnek
+kondicionálásra, a kondicionálás után keletkező hulladékcsomagot az 1.1–1.2. pontok szerint újra kell
+osztályozni.
+1.4. A radioaktív hulladékok aktivitás-koncentrációját, a hulladék csomagolásának, valamint
+a csomagolóeszközben vagy azon belül található sugárvédelmi árnyékolásnak, illetve egyéb ütéscsillapító,
+abszorbens vagy térkitöltő anyagának tömege nélkül kell meghatározni, ha az közvetlenül nem járul hozzá
+a hulladék fizikai-kémiai formájának stabilizálásához.
+2. A kis és közepes aktivitású radioaktív hulladékok osztályozásának szempontjai:
+2.1. A hulladékban lévő radionuklidok aktivitás-koncentrációja szerinti osztályozás:
+2.1.1. A radioaktív hulladék kis vagy közepes aktivitású osztályba sorolását a benne lévő radioizotóp
+aktivitás-koncentrációja és specifikus mentességi aktivitás-koncentrációja (SMEAK) alapján kell
+elvégezni (1. táblázat).
+1. táblázat
+A B
+1. Radioaktív hulladék osztály Aktivitás-koncentráció viszonyítás
+2. Kis aktivitású ≤ 103 SMEAK
+3. Közepes aktivitású > 103 SMEAK
+2.1.2. Ha a radioaktív hulladék többfajta radioizotópot is tartalmaz, akkor az osztályozást a 2. táblázat
+szerint kell elvégezni:
+2. táblázat
+
+2.2. A hulladékban lévő radionuklidok felezési ideje szerinti osztályozás:
+2.2.1. Rövid élettartamú az a kis vagy közepes aktivitású radioaktív hulladék, amelyben az alábbi képlet
+szerint a teljes hulladék mennyiségre átlagolva csak korlátozottan található – egész évre kerekített –
+30 évnél hosszabb felezési idejű radionuklid az alábbi képlet alapján:
+ahol AK
+i
+a radioaktív hulladékban előforduló 30 évnél hosszabb felezési idejű (egész évre kerekítve)
+i-edik radioaktív izotóp aktivitás-koncentrációja, míg SMEAK
+i
+a radioaktív hulladékban előforduló
+30 évnél hosszabb felezési idejű (egész évre kerekítve) i-edik radioaktív izotóp specifikus mentességi
+aktivitás-koncentrációja.
+2.2.2. Hosszú élettartamú az a kis vagy közepes aktivitású radioaktív hulladék, amelyben a 30 évnél
+hosszabb felezési idejű (egész évre kerekítve) radionuklid koncentrációja meghaladja a rövid
+élettartamú radioaktív hulladék 2.2.1. pont szerinti határértékeit.
+2.3. Nagyon kis aktivitású az a kis aktivitású rövid élettartamú radioaktív hulladék, amelynél a 30 évnél nem
+hosszabb felezési idejű (egész évre kerekítve) izotópra a benne lévő aktivitás-koncentráció nem nagyobb
+a specifikus mentességi aktivitás-koncentráció (SMEAK) ötvenszeresénél, valamint 30 évnél hosszabb felezési
+idejű (egész évre kerekítve) izotópra nem nagyobb az általános mentességi aktivitás-koncentráció (ÁMEAK)
+értékénél. Amennyiben a radioaktív hulladék többfajta radioizotópot is tartalmaz, akkor az osztályozást
+a következő képletek szerint kell elvégezni:
+a) egész évre kerekített 30 évnél nem hosszabb felezési idejű izotópokra a következő képletnek kell
+teljesülnie:
+b) és egész évre kerekített 30 évnél hosszabb felezési idejű izotópokra a következő képletnek kell
+teljesülnie:
+ahol AK
+i
+a radioaktív hulladékban előforduló i-edik radioizotóp aktivitás-koncentrációja, míg SMEAK
+i
+az i-edik
+radioizotóp specifikus mentességi aktivitás-koncentrációja, ÁMEAK
+i
+pedig az i-edik radioizotóp általános
+mentességi aktivitás-koncentrációja
