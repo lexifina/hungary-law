@@ -1,3 +1,5 @@
+## 2/A. §[^28]
+
 3. § (1)[^29] A 2. § (6) bekezdés c) és d) pontja szerinti esetben az egészségügyi szolgáltató
 
 a) az oltottság tényét, idejét, a védőoltás típusát,
@@ -88,6 +90,7 @@ c) a védettségi igazolvány kiállítása céljából a személyiadat- és lak
 
 (8)[^44] Az érintett (címzett) kérése alapján személyes átadással kézbesítendő – hivatalos iratként feladott – védettségi igazolványokat tartalmazó könyvelt küldeményeken – a küldemény esetleges visszakézbesítése során – mellőzhető a postai szolgáltató által figyelembe veendő feladói adatok feltüntetése, ha azokat a feladást igazoló elektronikus okirat tartalmazza.
 
+[^28]: A 2/A. §-t a 222/2021. (V. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 164/2022. (IV. 28.) Korm. rendelet 5. § 11. pontja.
 [^29]: A 3. § (1) bekezdés záró szövegrésze a 86/2021. (II. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^30]: A 3. § (1a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^31]: A 3. § (2) bekezdés a) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
