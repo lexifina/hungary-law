@@ -1,0 +1,1 @@
+74. § Az oktató fedélzeti mérnök és oktató fedélzeti technikus kiterjesztés jogosítja fel az engedélyest légijárművön oktató fedélzeti mérnök, oktató fedélzeti technikus szakszolgálati tevékenység végzésére az adott légijármű típuson.

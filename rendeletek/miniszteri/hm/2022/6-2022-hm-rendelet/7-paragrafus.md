@@ -1,0 +1,9 @@
+7. § (1) A katonai légügyi hatóság a szakszolgálati engedélyt az e rendeletben meghatározott feltételek megléte esetén kérelemre hosszabbítja meg (a továbbiakban: meghosszabbítás). A meghosszabbítás a szakszolgálati engedély időbeli hatályának lejártát megelőzően, az előírt követelmények teljesítését követően a jogosításban foglalt szaktevékenység gyakorlását az engedélyes számára további meghatározott időtartamra lehetővé tevő katonai légügyi hatósági döntés.
+
+(2) A katonai légügyi hatóság a már lejárt hatályú szakszolgálati engedélyt az e rendeletben meghatározott feltételek esetén újítja meg (a továbbiakban: megújítás). A megújítás olyan hatósági intézkedés egy jogosítás vagy szakszolgálati engedély időbeli hatálya lejártával kapcsolatosan, mely meghatározott követelmények teljesítése esetén meghatározott időtartamra továbbra is biztosítja a jogosítással vagy engedéllyel járó jogosultságokat a lejáratot követő legfeljebb 12 hónapon belül.
+
+(3) A szakszolgálati engedély kiterjesztése (a továbbiakban: kiterjesztés) olyan, kérelemre indult eljárásban hozott hatósági döntés, amelynek alapján az engedélyes a korábban megszerzett szakszolgálati jogosultság mellett az érintett szakszolgálati tevékenységet az arra irányadó jogszabályi feltételeknek megfelelve további területeken végezheti.
+
+(4) A 3. §-ban meghatározott kategória szerinti szakszolgálati engedélyt más légijármű kategóriára, légijármű típusra vagy más szakszolgálati tevékenységre kérelemre a katonai légügyi hatóság terjeszti ki.
+
+(5) Nem minősül szakszolgálati engedély kiterjesztésnek az ejtőernyős, ejtőernyős segédoktató, ejtőernyős oktató, tandemejtőernyős ejtőernyő beugró oktató szakszolgálati engedély esetében az ejtőernyő típusra történő átképzés. Az ejtőernyő típusra történő átképzés és vizsgáztatás az oktatói szervezet feladata, amelynek megtörténtéről tájékoztatást nyújt a katonai légügyi hatóságnak.

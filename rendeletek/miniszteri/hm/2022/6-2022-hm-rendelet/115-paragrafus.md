@@ -1,0 +1,1 @@
+115. § Az ejtőernyős oktató szakszolgálati engedély engedélyese jogosult a 110. §-ban meghatározott feladatok ellátására, továbbá az ejtőernyős elméleti és gyakorlati kiképzés vezetésére, oktatására, a teherdobás irányítására, az ejtőernyő rendszerek cserélhető részeinek cseréjére és szolgálati tevékenységek ellátására.

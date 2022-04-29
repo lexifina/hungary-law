@@ -1,0 +1,1 @@
+130. § A földi gyakorló berendezés oktató szakszolgálati engedély engedélyese jogosult az állami célú légiközlekedés érdekében üzemeltetett földi gyakorló berendezésben repülési és oktatási szaktevékenység végzésére.

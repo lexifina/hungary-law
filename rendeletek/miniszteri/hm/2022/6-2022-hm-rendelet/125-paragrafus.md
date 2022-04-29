@@ -1,0 +1,1 @@
+125. § Az ejtőernyő beugró oktató szakszolgálati engedély engedélyese jogosult a 115. § szerinti feladatok ellátására, továbbá ejtőernyő rendszerek összeépítésére, gyári új és nagyjavított ejtőernyők minősítő vizsgálatára, beugrás végrehajtására, az ejtőernyő csapatjavítás utáni minőség-ellenőrzésére, és az ejtőernyő alkalmazásának engedélyezésére.

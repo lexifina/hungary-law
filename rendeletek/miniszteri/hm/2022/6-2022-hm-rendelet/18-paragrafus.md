@@ -1,0 +1,1 @@
+18. § A vizsga eredményéről a katonai légügyi hatóság a pályázót vagy az engedélyest – a felelős szervezeti vezető útján – a vizsgát követő 5 munkanapon belül, az elért pontszám feltüntetésével írásban értesíti.

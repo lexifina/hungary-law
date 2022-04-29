@@ -1,0 +1,1 @@
+100. § A rakodás-vezető szakszolgálati engedély engedélyese jogosult az engedélyben megjelölt teherszállításra rendszeresített, specializált légijármű típusokon rakodás-vezető szakszolgálati tevékenység ellátására.
