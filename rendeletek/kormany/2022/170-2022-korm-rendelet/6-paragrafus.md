@@ -1,0 +1,3 @@
+## 5. § A veszélyhelyzet ideje alatt szomszédos országban fennálló humanitárius katasztrófára tekintettel, az ideiglenes védelemre jogosultként elismert személyek foglalkoztatásával és juttatásaival kapcsolatos egyes szabályokról, valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet módosításáról szóló 106/2022. (III. 12.) Korm. rendelet (a továbbiakban: R2.) 2. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) A foglalkoztatásba bevonható személy tekintetében a foglalkoztatásba bevonható személy szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerint illetékes járási hivatal jár el.”
