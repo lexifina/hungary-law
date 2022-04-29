@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-16-20-2
 | 2021-10-04 | 2016-16-20-22.20 | 541/2021. (IX. 24.) Korm. rendelet |
 | 2022-01-01 | 2016-16-20-22.21 | 786/2021. (XII. 27.) Korm. rendelet |
 | 2022-01-11 | 2016-16-20-22.22 | 788/2021. (XII. 27.) Korm. rendelet |
+| 2022-04-29 | 2016-16-20-22.23 | 150/2022. (IV. 14.) Korm. rendelet |

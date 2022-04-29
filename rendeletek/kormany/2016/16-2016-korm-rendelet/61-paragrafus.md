@@ -6,11 +6,21 @@
 
 (2)[^206] A hitelintézetet az általa jogszerűen folyósított
 
-a) családi otthonteremtési kedvezmény összege után 2% költségtérítés illeti meg, amelyet a családi otthonteremtési kedvezménnyel,
+a) családi otthonteremtési kedvezmény összege után
 
-b) 72. § (2) bekezdés b) pontja szerinti otthonteremtési kamattámogatással érintett kölcsön összege után egyszeri 1,5% költségtérítés illeti meg, amelyet a kamattámogatással
+aa) új lakás építése esetén 80 ezer forint,
 
-## együtt számol el a központi költségvetéssel.
+ab) új lakás vásárlása esetén 40 ezer forint,
+
+b) adó-visszatérítési támogatás összege után
+
+ba) új lakás építése esetén 80 ezer forint,
+
+bb) új lakás vásárlása esetén 40 ezer forint, és
+
+c) 72. § (2) bekezdés b) pontja szerinti otthonteremtési kamattámogatással érintett kölcsön összege után 1,5%
+
+## egyszeri költségtérítés illeti meg, amelyet az a) pont esetén a családi otthonteremtési kedvezmény vagy annak első részlete folyósítását követően, a b) pont esetén az adó-visszatérítési támogatás vagy annak első részlete folyósítását követően, a c) pont esetén a kamattámogatás első alkalommal történő lehívásával egyidejűleg számol el a központi költségvetéssel.
 
 (3) A hitelintézet a tárgyhónapra legfeljebb az előző hónapban a hitelintézet által benyújtott elszámolás alapján a Kincstár által ténylegesen kifizetett és elszámolt családi otthonteremtési kedvezménnyel azonos összegű előleget igényelhet utólagos elszámolási kötelezettséggel.
 
@@ -33,4 +43,4 @@ b) 72. § (2) bekezdés b) pontja szerinti otthonteremtési kamattámogatással 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
 [^205]: A 9. alcím (61–62. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^206]: A 61. § (2) bekezdése az 541/2021. (IX. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^206]: A 61. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
