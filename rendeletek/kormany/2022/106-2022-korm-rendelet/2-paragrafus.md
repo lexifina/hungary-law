@@ -4,9 +4,11 @@
 
 (2) A foglalkoztatásba bevonható személy az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalnál (a továbbiakban: járási hivatal) szolgáltatást kérő személy lehet.
 
-(3) A foglalkoztatásba bevonható személy a részére folyósított első rendszeres létfenntartási támogatás átvételét követő öt munkanapon belül köteles szolgáltatást kérőként regisztrálni a járási hivatalnál, és a járási hivatallal együttműködni.
+(2a)[^2] A foglalkoztatásba bevonható személy tekintetében a foglalkoztatásba bevonható személy szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerint illetékes járási hivatal jár el.
 
-(4) A foglalkoztatásba bevonható személy részére a Társadalombiztosítási Azonosító Jelet a járási hivatal igényli meg.
+(3)[^3] A foglalkoztatásba bevonható személy a részére folyósított első rendszeres létfenntartási támogatás átvételét megelőzően köteles szolgáltatást kérőként regisztrálni a járási hivatalnál, és a járási hivatallal együttműködni.
+
+(4)[^4]
 
 (5) A foglalkoztatásba bevonható személy – a (7) bekezdés szerinti kivétellel – a járási hivatallal történő együttműködése keretében a részére folyósított első rendszeres létfenntartási támogatás átvételét követő 45 napot követően köteles a számára felajánlott megfelelő munkahelyet – ideértve a közfoglalkoztatást is – elfogadni.
 
@@ -23,3 +25,7 @@ c) iskolai rendszerű nappali képzésben vesz részt tanulói jogviszonyban és
 (8) A foglalkoztatás és a közfoglalkoztatás megszervezése érdekében a járási hivatal a foglalkoztatásba bevonható személyek létszámáról, nemek szerinti és korcsoportonkénti megoszlásáról, valamint szálláshelyéről adatokat kérhet a megyei, fővárosi védelmi bizottságtól és a hivatásos katasztrófavédelemi szervtől.
 
 (9) A (8) bekezdés szerinti adatszolgáltatás során személyes adatok nem adhatók át.
+
+[^2]: A 2. § (2a) bekezdését a 170/2022. (IV. 28.) Korm. rendelet 5. §-a iktatta be.
+[^3]: A 2. § (3) bekezdése a 170/2022. (IV. 28.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdését a 170/2022. (IV. 28.) Korm. rendelet 10. §-a hatályon kívül helyezte.
