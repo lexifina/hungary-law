@@ -53,3 +53,7 @@ Határidő: folyamatos
 Felelős: a miniszterelnök általános helyetteses
 
 Határidő: a megállapodások aláírását követően azonnal
+
+7.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter a 3. pontban meghatározott közfeladat-finanszírozási szerződés megkötéséhez a 2022. évben a szabad előirányzatot meghaladó 1 110 000 000 forint összegű kötelezettséget vállaljon a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 67. Felsőoktatási feladatok alcím, 1. Nem állami felsőoktatási intézmények támogatása jogcímcsoport terhére.
+
+[^1]: A 7. pontot az 1249/2022. (IV. 29.) Korm. határozat iktatta be.
