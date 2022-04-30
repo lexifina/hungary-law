@@ -22,29 +22,29 @@
 
 10.[^17]
 
-11. 2/A. §-a
+11.[^18]
 
-12.[^18]
+12.[^19]
 
-13.[^19]
+13.[^20]
 
-14.[^20]
+14.[^21]
 
-15.[^21]
+15.[^22]
 
-16.[^22]
+16.[^23]
 
-17.[^23]
+17.[^24]
 
-18.[^24]
+18.[^25]
 
-19.[^25]
+19.[^26]
 
-20.[^26]
+20.[^27]
 
-21.[^27]
+21.[^28]
 
-22.[^28]
+22.[^29]
 
 [^7]: A 4. § a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
 [^8]: Az 5. § 1. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
@@ -57,14 +57,15 @@
 [^15]: Az 5. § 8. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
 [^16]: Az 5. § 9. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
 [^17]: Az 5. § 10. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^18]: Az 5. § 12. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^19]: Az 5. § 13. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^20]: Az 5. § 14. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^21]: Az 5. § 15. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^22]: Az 5. § 16. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^23]: Az 5. § 17. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^24]: Az 5. § 18. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^25]: Az 5. § 19. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^26]: Az 5. § 20. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^27]: Az 5. § 21. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^28]: Az 5. § 22. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^18]: Az 5. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 5. § 12. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^20]: Az 5. § 13. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^21]: Az 5. § 14. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^22]: Az 5. § 15. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^23]: Az 5. § 16. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^24]: Az 5. § 17. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^25]: Az 5. § 18. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^26]: Az 5. § 19. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^27]: Az 5. § 20. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^28]: Az 5. § 21. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^29]: Az 5. § 22. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
