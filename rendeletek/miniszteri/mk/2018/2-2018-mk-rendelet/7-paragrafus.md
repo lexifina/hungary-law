@@ -32,7 +32,7 @@ d) sportlétesítményhez és multifunkcionális szabadidős létesítményhez n
 
 e) regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
 
-f)[^11]
+f)[^12]
 
 g) a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
@@ -48,9 +48,9 @@ jb) működési támogatás esetében meghaladja a vállalkozásonként évente 
 
 k) helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
-l)[^12] a regionális repülőterekhez nyújtott támogatás esetén meghaladja a 31/K. §-ban meghatározott mértéket,
+l)[^13] a regionális repülőterekhez nyújtott támogatás esetén meghaladja a 31/K. §-ban meghatározott mértéket,
 
-m)[^13] a belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja
+m)[^14] a belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja
 
 ma) a 40 millió eurónak vagy
 
@@ -60,19 +60,19 @@ mb) a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós i
 
 (8) E rendelet alapján
 
-a)[^14] a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – a regionális beruházási támogatás kivételével – 2024. június 30-ig,
+a)[^15] a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – a regionális beruházási támogatás kivételével – 2024. június 30-ig,
 
-b)[^15] csekély összegű támogatás és mezőgazdasági csekély összegű támogatás esetén 2024. június 30-ig,
+b)[^16] csekély összegű támogatás és mezőgazdasági csekély összegű támogatás esetén 2024. június 30-ig,
 
-c)[^16] regionális beruházási támogatás esetén 2024. június 30-ig,
+c)[^17] regionális beruházási támogatás esetén 2024. június 30-ig,
 
 d) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatás szerinti támogatás esetén 2020. december 31-ig,
 
 e) az SA.46515 sz. határozat szerinti támogatás esetében 2021. június 30-ig SA.46515 (2016/N) sz. bizottsági határozat 2.4. pontjában rögzített feltételek mellett)
 
-[^11]: A 7. § (6) bekezdés f) pontját a 4/2020. (X. 30.) MK rendelet 10. § 2. pontja hatályon kívül helyezte.
-[^12]: A 7. § (6) bekezdés l) pontját a 2/2021. (IV. 21.) MK rendelet 3. §-a iktatta be.
-[^13]: A 7. § (6) bekezdés m) pontját a 2/2021. (IV. 21.) MK rendelet 3. §-a iktatta be.
-[^14]: A 7. § (8) bekezdés a) pontja a 4/2020. (X. 30.) MK rendelet 8. § 1. pontja szerint módosított szöveg.
-[^15]: A 7. § (8) bekezdés b) pontja a 4/2020. (X. 30.) MK rendelet 8. § 1. pontja szerint módosított szöveg.
-[^16]: A 7. § (8) bekezdés c) pontja a 4/2020. (X. 30.) MK rendelet 8. § 2. pontja, a 9/2021. (XII. 22.) MK rendelet 6. § a) pontja szerint módosított szöveg.
+[^12]: A 7. § (6) bekezdés f) pontját a 4/2020. (X. 30.) MK rendelet 10. § 2. pontja hatályon kívül helyezte.
+[^13]: A 7. § (6) bekezdés l) pontját a 2/2021. (IV. 21.) MK rendelet 3. §-a iktatta be.
+[^14]: A 7. § (6) bekezdés m) pontját a 2/2021. (IV. 21.) MK rendelet 3. §-a iktatta be.
+[^15]: A 7. § (8) bekezdés a) pontja a 4/2020. (X. 30.) MK rendelet 8. § 1. pontja szerint módosított szöveg.
+[^16]: A 7. § (8) bekezdés b) pontja a 4/2020. (X. 30.) MK rendelet 8. § 1. pontja szerint módosított szöveg.
+[^17]: A 7. § (8) bekezdés c) pontja a 4/2020. (X. 30.) MK rendelet 8. § 2. pontja, a 9/2021. (XII. 22.) MK rendelet 6. § a) pontja szerint módosított szöveg.
