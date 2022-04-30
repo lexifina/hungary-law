@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-787-20-
 | 2022-01-13 | 2021-787-20-22.4 | 2010: CXXX. törvény |
 | 2022-03-01 | 2021-787-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-03-02 | 2021-787-20-22.6 | 2010: CXXX. törvény |
+| 2022-04-30 | 2021-787-20-22.7 | 146/2022. (IV. 14.) Korm. rendelet |

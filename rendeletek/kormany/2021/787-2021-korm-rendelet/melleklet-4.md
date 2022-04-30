@@ -1,3 +1,3 @@
-4. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^91]
+4. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^88]
 
-[^91]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

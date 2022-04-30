@@ -1,23 +1,22 @@
 ## 22. § A Vet. vhr.
 
-a)[^22]
+a) 2. számú melléklete az 1. melléklet szerint módosul,
 
-b)[^23]
+b)[^21]
 
-c)[^24]
+c)[^22]
 
-d)[^25]
+d)[^23]
 
-e)[^26]
+e)[^24]
 
-f)[^27]
+f)[^25]
 
-g)[^28]
+g)[^26]
 
-[^22]: A 22. § a) pontja a 79. § (4) bekezdése alapján 2022. április 30-án lép hatályba.
-[^23]: A 22. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 22. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 22. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 22. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 22. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 22. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 22. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 22. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 22. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 22. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 22. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 22. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-9. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^96]
+9. melléklet a 787/2021. (XII. 27.) Korm. rendelethez[^93]
 
-[^96]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
