@@ -1,3 +1,5 @@
 ## 36. Módosító rendelkezések
 
-135. § Az állami célú légiközlekedés szakszemélyzetének képzéséről szóló 5/2003. (II. 1.) HM rendelet 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+135. §[^1]
+
+[^1]: A 135. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
