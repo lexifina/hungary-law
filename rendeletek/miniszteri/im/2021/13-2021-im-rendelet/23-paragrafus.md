@@ -1,4 +1,4 @@
-## 22. § A végrehajtói szakvizsga teljes iratanyagát a Jogakadémia őrzi, a vizsgáról készült jegyzőkönyv másolatát megküldi a Kar hivatali szervének és az Országos Bírósági Hivatal elnökének.
+## 22. §[^2] A végrehajtói szakvizsga teljes iratanyagát a Jogakadémia őrzi, a vizsgáról készült jegyzőkönyv másolatát megküldi a Kar hivatali szervének a végrehajtói szakvizsgára vonatkozóan és az Országos Bírósági Hivatal elnökének a bírósági végrehajtási ügyintézői vizsgára vonatkozóan.
 
 ## 12. Vizsgadíj
 
@@ -9,3 +9,5 @@
 (3) A vizsgabizottság elnökét és tagját jelöltenként a befizetett vizsgadíjból 4000 Ft vizsgáztatói díj illeti meg.
 
 (4) Ha a végrehajtói szakvizsgán a jelölt – anélkül, hogy előzetesen jelezte volna távolmaradását – nem jelenik meg, a vizsgáztató részére 2000 Ft vizsgáztatói díj jár.
+
+[^2]: A 22. § a 13/2022. (IV. 29.) IM rendelet 5. §-a szerint módosított szöveg.

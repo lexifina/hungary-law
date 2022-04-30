@@ -1,3 +1,5 @@
+## képviselői részt vegyenek.
+
 ## II. Fejezet
 
 ## BÍRÓSÁGI VÉGREHAJTÓI SZAKVIZSGA
