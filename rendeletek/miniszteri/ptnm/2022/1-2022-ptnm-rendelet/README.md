@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1-20-2R
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-04-29 | 2022-1-20-2R.1 | 1/2022. (IV. 26.) PTNM rendelet |
+| 2022-04-30 | 2022-1-20-2R.2 | 2010: CXXX. törvény |
