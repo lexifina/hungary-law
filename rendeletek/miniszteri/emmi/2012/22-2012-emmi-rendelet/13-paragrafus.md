@@ -1,16 +1,16 @@
-## 12/A. §[^22] A 12. § (1) bekezdésétől eltérően, a Konzerváló fogászat és fogpótlástan alap szakképesítéssel rendelkezők, az Endodontia vagy a Fogpótlástan alap szakképesítést – függetlenül a Konzerváló fogászat és fogpótlástan szakképesítés megszerzésének időpontjától – az azonos képzési elemek beszámítása mellett, az egyetem által jóváhagyott, egyéni képzési terv alapján 12 hónapos képzési idő alatt teljesíthetik.
+## 12/A. §[^24] A 12. § (1) bekezdésétől eltérően, a Konzerváló fogászat és fogpótlástan alap szakképesítéssel rendelkezők, az Endodontia vagy a Fogpótlástan alap szakképesítést – függetlenül a Konzerváló fogászat és fogpótlástan szakképesítés megszerzésének időpontjától – az azonos képzési elemek beszámítása mellett, az egyetem által jóváhagyott, egyéni képzési terv alapján 12 hónapos képzési idő alatt teljesíthetik.
 
 13. § (1) Ez a rendelet 2012. szeptember 15-én lép hatályba.
 
-(2)[^23]
+(2)[^25]
 
 (3) Az a jelölt, aki az R.1. 2012. szeptember 14-ig hatályos 7. § (2)–(3) bekezdése szerint ráépített szakképzésben vesz részt, az ott meghatározottak szerint szakvizsgára bocsátható.
 
-(4)[^24] Az R.1. alapján megkezdett szakképzés az e rendeletben foglaltak alapján is teljesíthető, ha a jelölt az adott szakképesítés vonatkozásában valamennyi – e rendelet szerinti – képzési elem teljesítését igazolja.
+(4)[^26] Az R.1. alapján megkezdett szakképzés az e rendeletben foglaltak alapján is teljesíthető, ha a jelölt az adott szakképesítés vonatkozásában valamennyi – e rendelet szerinti – képzési elem teljesítését igazolja.
 
-(5)[^25]
+(5)[^27]
 
-[^22]: A 12/A. §-t a 28/2018. (VIII. 29.) EMMI rendelet 8. §-a iktatta be.
-[^23]: A 13. § (2) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 4. § a) pontja hatályon kívül helyezte.
-[^24]: A 13. § (4) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 11. §-a iktatta be.
-[^25]: A 13. § (5) bekezdését a 28/2016. (IX. 29.) EMMI rendelet 11. §-a iktatta be, hatályon kívül helyezte a 24/2020. (VII. 23.) EMMI rendelet 4. § a) pontja.
+[^24]: A 12/A. §-t a 28/2018. (VIII. 29.) EMMI rendelet 8. §-a iktatta be.
+[^25]: A 13. § (2) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 4. § a) pontja hatályon kívül helyezte.
+[^26]: A 13. § (4) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 11. §-a iktatta be.
+[^27]: A 13. § (5) bekezdését a 28/2016. (IX. 29.) EMMI rendelet 11. §-a iktatta be, hatályon kívül helyezte a 24/2020. (VII. 23.) EMMI rendelet 4. § a) pontja.

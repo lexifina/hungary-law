@@ -28,6 +28,6 @@
 
 | 14. | Minőségbiztosítás | Minőségbiztosítás |
 
-7a. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^44]
+7a. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^46]
 
-[^44]: A 7a. mellékletet az 57/2021. (XII. 27.) EMMI rendelet 6. § (3) bekezdése iktatta be.
+[^46]: A 7a. mellékletet az 57/2021. (XII. 27.) EMMI rendelet 6. § (3) bekezdése iktatta be.

@@ -2176,6 +2176,6 @@
 
 ## Szakvizsga-felkészítõ program sikeres teljesítése (évente 5x3 nap elméleti és gyakorlati képzés a teljes urológiai tananyagot felölelõen, forgó rendszerben).
 
-3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^38]
+3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^40]
 
-[^38]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 86. § c) pontja, a 28/2018. (VIII. 29.) EMMI rendelet 12. § c) pontja szerint módosított szöveg.
+[^40]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 86. § c) pontja, a 28/2018. (VIII. 29.) EMMI rendelet 12. § c) pontja szerint módosított szöveg.

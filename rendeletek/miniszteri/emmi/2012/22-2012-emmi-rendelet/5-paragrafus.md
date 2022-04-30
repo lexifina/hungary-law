@@ -14,7 +14,13 @@ a) közforgalmú gyógyszertár vezetése esetén a gyógyszertár üzemeltetés
 
 b) intézeti gyógyszertár vezetése esetén a kórházi, klinikai szakgyógyszerészet szakterületen szerzett szakképesítés
 
+## feleltethető meg.
+
+(6)[^12] Az (5) bekezdés a) pontjában foglalt szakképesítésnek felel meg – a 7a. mellékletben meghatározott szakgyógyszerészi szakképesítések mellett – a 2015. július 16. napját követően és a MódR. hatálybalépése[^13] előtt a gyógyszerellátási szakgyógyszerészet szakterületen megszerezhető szakgyógyszerészi szakképesítés.
+
 [^8]: Az 5. § (3a) bekezdését az 57/2021. (XII. 27.) EMMI rendelet 3. § (1) bekezdése iktatta be.
 [^9]: A hatálybalépés időpontja 2021. december 28.
 [^10]: Az 5. § (4) bekezdését a 34/2015. (VI 30.) EMMI rendelet 21. §-a iktatta be.
 [^11]: Az 5. § (5) bekezdését az 57/2021. (XII. 27.) EMMI rendelet 3. § (2) bekezdése iktatta be.
+[^12]: Az 5. § (6) bekezdését a 15/2022. (IV. 29.) EMMI rendelet 1. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2021. december 28.

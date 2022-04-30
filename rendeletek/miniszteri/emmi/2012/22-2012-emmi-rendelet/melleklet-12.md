@@ -30,7 +30,7 @@
 
 | 14. | Gyermek radiológia | Csecsemő- és gyermekgyógyászat, radiológia |
 
-12. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^47]
+12. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^49]
 
 Egyes képesítések megfeleltethetősége
 
@@ -60,4 +60,4 @@ Egyes képesítések megfeleltethetősége
 
 | 12. | E rendelet szerint megszerezett Fizikális medicina és rehabilitációs orvoslás képesítés | Rehabilitációs medicina |
 
-[^47]: A 12. mellékletet a 34/2015. (VI 30.) EMMI rendelet 25. § (2) bekezdés a) pontja iktatta be, szövege a 28/2016. (IX. 29.) EMMI rendelet 12. § (4) bekezdése szerint módosított szöveg.
+[^49]: A 12. mellékletet a 34/2015. (VI 30.) EMMI rendelet 25. § (2) bekezdés a) pontja iktatta be, szövege a 28/2016. (IX. 29.) EMMI rendelet 12. § (4) bekezdése szerint módosított szöveg.

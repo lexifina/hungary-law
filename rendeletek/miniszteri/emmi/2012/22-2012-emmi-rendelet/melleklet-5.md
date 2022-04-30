@@ -1,4 +1,4 @@
-5. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^42]
+5. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^44]
 
 ## Gyógyszerészi alap-szakképzési programok
 
@@ -662,4 +662,4 @@ f) kötelező tanfolyamok, elemei: Szerkezetvizsgáló módszerek, NMR, gyógysz
 
 3.6.3. Szakvizsgára bocsátás egyéb feltételei: részvétel szakvizsga előkészítő tanfolyamon.
 
-[^42]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 86. § d) pontja, a 38/2018. (X. 31.) EMMI rendelet 18. §-a, az 57/2021. (XII. 27.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^44]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 86. § d) pontja, a 38/2018. (X. 31.) EMMI rendelet 18. §-a, az 57/2021. (XII. 27.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.

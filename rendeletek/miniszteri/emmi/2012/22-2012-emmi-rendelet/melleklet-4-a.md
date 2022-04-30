@@ -110,13 +110,13 @@
 
 ## meghatározott számú és típusú beavatkozás teljesítése.
 
-4a. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^40]
+4a. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^42]
 
 Szakfogorvosi ráépített szakképesítések képzési programja
 
 1. Orális implantológia
 
-1.1.[^41] Képzés belépési feltétele:
+1.1.[^43] Képzés belépési feltétele:
 
 a) konzerváló fogászat és fogpótlástan,
 
@@ -146,5 +146,5 @@ c) 8 hó parodontológia dento-alveoláris sebészeti vagy parodontológiai akkr
 
 meghatározott számú és típusú beavatkozás teljesítése.
 
-[^40]: A 4a. mellékletet a 28/2018. (VIII. 29.) EMMI rendelet 10. § e) pontja iktatta be.
-[^41]: A 4a. melléklet 1. pont 1.1. alpontja a 28/2018. (VIII. 29.) EMMI rendelet 10. § f) pontjával megállapított szöveg.
+[^42]: A 4a. mellékletet a 28/2018. (VIII. 29.) EMMI rendelet 10. § e) pontja iktatta be.
+[^43]: A 4a. melléklet 1. pont 1.1. alpontja a 28/2018. (VIII. 29.) EMMI rendelet 10. § f) pontjával megállapított szöveg.
