@@ -50,10 +50,10 @@
 
 | 24. | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-9. melléklet a 21/2021. (XII. 29.) PM rendelethez[^2]
+9. melléklet a 21/2021. (XII. 29.) PM rendelethez[^3]
 
 XLII. a költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
 2022. évi költségvetési kiadási előirányzatainak feladatterve
 
-[^2]: A 9. melléklet a 3/2022. (III. 30.) PM rendelet 3. §-a szerint módosított szöveg.
+[^3]: A 9. melléklet a 3/2022. (III. 30.) PM rendelet 3. §-a, a 4/2022. (IV. 29.) PM rendelet 1. §-a szerint módosított szöveg.

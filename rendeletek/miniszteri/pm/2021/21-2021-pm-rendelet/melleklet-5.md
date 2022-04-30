@@ -1,3 +1,5 @@
+## 1X12801_0
+
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
 |  | Áht. azonosító | Cím | Alcím | Jogcímcsoport | Jogcímnév | Előirányzat célja | Kifizetés- ben részesülők köre | Támo- gatás bizto- sításának módja | Támo- gatási előleg | Rendel- kezésre bocsátás módja | Vissza- fizetés határ- ideje | Biztosíték | Kezelő szerv | Lebonyo- lító szerv | Európai uniós forrásból finan- szírozott költség- vetési támoga- tás közre- működő szerve- zete |
