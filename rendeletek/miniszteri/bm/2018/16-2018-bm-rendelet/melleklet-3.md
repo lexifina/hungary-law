@@ -18,7 +18,7 @@
 
 | 8 | Bács-Kiskun Megyei Büntetés-végrehajtási Intézet telephelyeként működő Fiatalkorúak Regionális Büntetés-végrehajtási Intézete – Kecskemét | börtön, fogház |
 
-3. melléklet a 16/2018. (VI. 7.) BM rendelethez[^3]
+3. melléklet a 16/2018. (VI. 7.) BM rendelethez[^4]
 
 I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek
 
@@ -88,4 +88,4 @@ a büntetés-végrehajtási intézeten kívüli munkavégzés
 
 1. Az I. pontban foglalt táblázat A:3, A:8, A:10 és A:16 mezője szerinti büntetés-végrehajtási intézet.
 
-[^3]: A 3. melléklet a 2/2019. (I. 22.) BM rendelet 1. §-ával megállapított, a 25/2020. (VII. 15.) BM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 3. melléklet a 2/2019. (I. 22.) BM rendelet 1. §-ával megállapított, a 25/2020. (VII. 15.) BM rendelet 1. §-a szerint módosított szöveg.

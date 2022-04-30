@@ -4,4 +4,6 @@
 
 (2) A letartóztatott katonát a büntetés-végrehajtás országos parancsnoka (a továbbiakban: országos parancsnok) által erre kijelölt büntetés-végrehajtási intézet elkülönített részlegében kell elhelyezni, ha a bíróság a letartóztatást katonai fogdában rendeli végrehajtani.
 
-(3) Az országos parancsnok a Bv. tv. 388. § (1) bekezdése szerinti hatáskörét a rendelkezési jogkör gyakorlójának előzetes hozzájárulásával gyakorolhatja.
+(3)[^1] Az országos parancsnok a Bv. tv. 388. § (1) bekezdése szerinti hatáskörét a rendelkezési jogkör gyakorlójának hozzájárulásával gyakorolhatja. Ha a büntetés-végrehajtási intézetek telítettségének mérséklése érdekében szükséges, az országos parancsnok a vádemelést követően az előzetes hozzájárulás kérése helyett a rendelkezési jogkör gyakorlójának tájékoztatása mellett a letartóztatott átszállításáról rendelkezhet.
+
+[^1]: Az 1. § (3) bekezdése a 14/2022. (IV. 29.) BM rendelet 1. §-ával megállapított szöveg.
