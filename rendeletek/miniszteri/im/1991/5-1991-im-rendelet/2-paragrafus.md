@@ -28,7 +28,7 @@ b)[^15] külföldön folytatott joggyakorlat esetén az a jogi képesítéshez k
 
 (4) A joggyakorlat ideje alatt a jelölt a munkáltatója által szervezett vagy más jogi szakmai oktatásban vehet részt. A munkáltató, illetve a szakmai kamara a szakmai oktatásban való részvételt kötelezővé teheti.
 
-(5)[^16] A jogi végzettséget igazoló doktori oklevél megszerzését követően a terhességi-gyermekágyi segély, a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a gyermekgondozási segély, a gyermekgondozást segítő ellátás, valamint a tanulmányi ösztöndíj – ide nem értve a (2) bekezdés b) pont ba)–bc) alpontja szerinti ösztöndíjat – folyósításának idejét összesen legfeljebb 3 hónap, az állam és jogtudományi doktori (PhD) képzés idejét annak befejezését követően legfeljebb 24 hónap tartamáig lehet a joggyakorlat idejébe beszámítani.
+(5)[^16] A jogi végzettséget igazoló doktori oklevél megszerzését követően a terhességi-gyermekágyi segély, a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a gyermekgondozási segély, a gyermekgondozást segítő ellátás, valamint a tanulmányi ösztöndíj – ide nem értve a (2) bekezdés b) pont ba)–bc) alpontja szerinti ösztöndíjat – folyósításának idejét összesen legfeljebb 3 hónap, az állam és jogtudományi doktori (PhD) képzés idejét a végbizonyítvány megszerzését követően legfeljebb 24 hónap tartamáig lehet a joggyakorlat idejébe beszámítani.
 
 [^8]: A 2. § a 31/2010. (XII. 31.) KIM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a 2011. január 1-je előtt benyújtott kérelmek alapján indult, részvizsgára bocsátás iránti eljárásokban is alkalmazni kell.
 [^9]: A 2. § (1) bekezdése a 12/2014. (II. 28.) KIM rendelet 2. § (1) bekezdésével megállapított, a 12/2019. (IV. 12.) IM rendelet 2. § a) pontja szerint módosított szöveg.
@@ -38,4 +38,4 @@ b)[^15] külföldön folytatott joggyakorlat esetén az a jogi képesítéshez k
 [^13]: A 2. § (2) bekezdés b) pont bb) alpontja a 12/2019. (IV. 12.) IM rendelet 1. §-ával megállapított szöveg.
 [^14]: A 2. § (2) bekezdés b) pont bc) alpontját a 12/2019. (IV. 12.) IM rendelet 1. §-a iktatta be.
 [^15]: A 2. § (3) bekezdés b) pontja a 22/2011. (VII. 20.) KIM rendelet 2. § (2) bekezdésével megállapított, a 42/2012. (IX. 14.) KIM rendelet 17. § a) pontja, a 12/2014. (II. 28.) KIM rendelet 2. § (11) bekezdése szerint módosított szöveg.
-[^16]: A 2. § (5) bekezdése a 18/2021. (XII. 23.) IM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 2. § (5) bekezdése a 18/2021. (XII. 23.) IM rendelet 1. §-ával megállapított, a 13/2022. (IV. 29.) IM rendelet 2. § a) pontja szerint módosított szöveg.

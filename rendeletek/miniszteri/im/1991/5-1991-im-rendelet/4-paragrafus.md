@@ -14,7 +14,7 @@ e) a választott vizsgatárgy megjelölését, amelyből a jelölt írásbeli vi
 
 f) az e rendeletben foglaltak szerint választott vizsgaidőpontot.
 
-(3)[^25] A jelöltnek a teljes joggyakorlat teljesítését igazoló okiratokat és a jogi végzettséget igazoló doktori oklevelet a Jogi Szakvizsga Rendszerben történő regisztrációval egyidejűleg elektronikus dokumentumként kell csatolnia. A vizsgadíjat a jelentkezéskor a Jogi Szakvizsga Rendszeren keresztül – elektronikus úton – kell megfizetni.
+(3)[^25] A jelöltnek a teljes joggyakorlat teljesítését igazoló okiratokat, a 2. § (5) bekezdése szerint a joggyakorlatba beszámítható időtartamot igazoló okiratokat és a jogi végzettséget igazoló doktori oklevelet a Jogi Szakvizsga Rendszerben történő regisztrációval egyidejűleg elektronikus dokumentumként kell csatolnia. A vizsgadíjat a jelentkezéskor a Jogi Szakvizsga Rendszeren keresztül – elektronikus úton – kell megfizetni.
 
 (3a)[^26] Ha a jelölt által a (3) bekezdés alapján csatolt elektronikus igazolások valódiságával kapcsolatban kétség merül fel, a minisztérium haladéktalanul felhívja a jelöltet az okirat eredeti példányának bemutatására.
 
@@ -34,7 +34,7 @@ f) az e rendeletben foglaltak szerint választott vizsgaidőpontot.
 
 [^23]: A 4. § a 42/2012. (IX. 14.) KIM rendelet 4. §-ával megállapított szöveg.
 [^24]: A 4. § (1) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^25]: A 4. § (3) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^25]: A 4. § (3) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (2) bekezdésével megállapított, a 13/2022. (IV. 29.) IM rendelet 2. § b) pontja szerint módosított szöveg.
 [^26]: A 4. § (3a) bekezdését a 25/2015. (IX. 25.) IM rendelet 1. § (3) bekezdése iktatta be.
 [^27]: A 4. § (4) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^28]: A 4. § (6) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (5) bekezdésével megállapított szöveg.
