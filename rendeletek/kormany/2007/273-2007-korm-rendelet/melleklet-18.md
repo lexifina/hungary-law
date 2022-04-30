@@ -1,10 +1,10 @@
 18. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Erőművi üzleti terv független gazdasági szakértők által történő vizsgálata[^586]
+Erőművi üzleti terv független gazdasági szakértők által történő vizsgálata[^590]
 
 ## A VIZSGÁLAT KÖTELEZŐ TARTAMI ELEMEI
 
-I.[^587]
+I.[^591]
 
 ## A független gazdasági szakértőnek a következőkben ismertetett szempontoknak megfelelően kell vizsgálnia a benyújtott üzleti tervet. Különösen az alábbi szempontokra kell nagy figyelmet fordítani:
 
@@ -18,7 +18,7 @@ I.[^587]
 
 ## – A modellben használt makrogazdasági feltételezések és mutatók; infláció, kamatlábak, gazdasági növekedés és egyéb jelentősebb, a modellben hivatkozott mutatók helyessége.
 
-II. Finanszírozási struktúra és költségek[^588]
+II. Finanszírozási struktúra és költségek[^592]
 
 ## A független gazdasági szakértőnek vizsgálnia és ellenőriznie kell, hogy az előirányzott finanszírozási struktúrát megfelelően foglalták-e bele a modellbe és az üzleti tervbe. A kamatfizetésekre és a tőketörlesztésekre vonatkozó számításokat abból a szempontból kell vizsgálni, hogy helyesek-e és összhangban vannak-e a közölt feltételezésekkel.
 
@@ -40,16 +40,11 @@ II. Finanszírozási struktúra és költségek[^588]
 
 ## A tőkeráfordításokra vonatkozó terveket abból a szempontból kell vizsgálni, hogy következetesek-e, különös tekintettel az összes projektköltség 5%-át kitevő vagy azt meghaladó berendezésekre vonatkozó adatok mennyiségét illetően. Külön táblázatot kell biztosítani az importált és belföldről beszerzett berendezésekre vonatkozóan, és ennek a táblázatnak a devizahiteleket tartalmazó résszel való egyezőségét abból a szempontból kell vizsgálni, hogy megalapozott-e és következetes-e.
 
-III. Cash-flow-k és várható megtérülések[^589]
+III. Cash-flow-k és várható megtérülések[^593]
 
-## A független gazdasági szakértőnek meg kell győződnie arról, hogy a nettó jelenérték és a belső megtérülési számítások helyesek-e, és hogy a vonatkozó végkövetkeztetések a projekt egészét tekintve ésszerűek-e.
+A független gazdasági szakértőnek meg kell győződnie arról, hogy a nettó jelenérték és a belső megtérülési számítások helyesek-e, és hogy a vonatkozó végkövetkeztetések a projekt egészét tekintve ésszerűek-e.
 
-## A cash-flow-kat ellenőrizni kell abból a szempontból, hogy az alkalmazott módszertan helyes és elfogadható-e, és az összes vonatkozó tételt szerepeltették-e.
-
-IV. A független gazdasági szakértői jelentés[^590]
-
-[^586]: A Vhr. 18. számú melléklet címe a 787/2021. (XII. 7.) Korm. rendelet 21. § 25. pontja szerint módosított szöveg.
-[^587]: A Vhr. 18. számú melléklet I. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
-[^588]: A Vhr. 18. számú melléklet II. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
-[^589]: A Vhr. 18. számú melléklet III. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
-[^590]: A Vhr. 18. számú melléklet IV. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26–28. pontja szerint módosított szöveg.
+[^590]: A Vhr. 18. számú melléklet címe a 787/2021. (XII. 7.) Korm. rendelet 21. § 25. pontja szerint módosított szöveg.
+[^591]: A Vhr. 18. számú melléklet I. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
+[^592]: A Vhr. 18. számú melléklet II. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
+[^593]: A Vhr. 18. számú melléklet III. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.

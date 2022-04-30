@@ -1,4 +1,4 @@
-14/C. §[^82] (1) Az elosztó és a villamosenergia-kereskedő a honlapján, valamint – ha ügyfélszolgálatot működtet – ügyfélszolgálatán tájékoztatja a felhasználót az okosmérő és a hozzá kapcsolódó rendszer működéséről, különösen az okosmérő teljes körű funkcióiról, a felhasználó és az elosztó általi leolvasás menetéről, az energiafogyasztás figyelemmel kíséréséről, valamint a személyes adatok gyűjtéséről és kezeléséről.
+14/C. §[^84] (1) Az elosztó és a villamosenergia-kereskedő a honlapján, valamint – ha ügyfélszolgálatot működtet – ügyfélszolgálatán tájékoztatja a felhasználót az okosmérő és a hozzá kapcsolódó rendszer működéséről, különösen az okosmérő teljes körű funkcióiról, a felhasználó és az elosztó általi leolvasás menetéről, az energiafogyasztás figyelemmel kíséréséről, valamint a személyes adatok gyűjtéséről és kezeléséről.
 
 (2) Az elosztó az elosztói szabályzatban és a villamosenergia-kereskedő a kereskedelmi szabályzatban külön fejezetben határozzák meg
 
@@ -16,4 +16,4 @@ b) energiahatékonysági programok, keresletoldali válaszintézkedés és tová
 
 (4) A (3) bekezdés szerinti adatok biztosítása megkülönböztetés-mentesen, átlátható módon, kommunikációs interfész alkalmazásával vagy távolról történő hozzáférés biztosításával történik. Az elosztónak az adatokat olvasható, az összehasonlítást és az értelmezést lehetővé tevő formátumban kell biztosítani. A szolgáltatott adatok tájékoztató jellegűek.
 
-[^82]: A Vhr. 14/C. §-át a 401/2020. (VIII. 17.) Korm. rendelet 7. §-a iktatta be.
+[^84]: A Vhr. 14/C. §-át a 401/2020. (VIII. 17.) Korm. rendelet 7. §-a iktatta be.

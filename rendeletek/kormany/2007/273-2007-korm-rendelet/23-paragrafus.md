@@ -1,8 +1,8 @@
 ## (A VET 47. és 57. §-ához)
 
-## Ügyfélszolgálat[^128]
+## Ügyfélszolgálat[^130]
 
-23. §[^129] (1)[^130] Az állandó ügyfélszolgálati iroda a hét minden munkanapján legalább 6 óra, és – 5 munkanap esetén – legalább heti 36 óra nyitvatartással üzemel. Az állandó ügyfélszolgálati irodán kötelező
+23. §[^131] (1)[^132] Az állandó ügyfélszolgálati iroda a hét minden munkanapján legalább 6 óra, és – 5 munkanap esetén – legalább heti 36 óra nyitvatartással üzemel. Az állandó ügyfélszolgálati irodán kötelező
 
 a) az elektronikus ügyfélhívó rendszer alkalmazása,
 
@@ -12,7 +12,7 @@ c) a készpénz-átutalási megbízás vagy postai számlabefizetési megbízás
 
 d) a személyes, telefonos és online úton is elérhető időpontfoglalási rendszer alkalmazása, azzal, hogy az időpont foglalás nélkül érkező ügyfelek részére is biztosítani kell az ügyintézés lehetőségét.
 
-(2)[^131] Az ügyfélszolgálati fiókirodát
+(2)[^133] Az ügyfélszolgálati fiókirodát
 
 a) legalább négy munkanapból álló hét esetén legalább heti két munkanapon, összesen legalább heti 8 órás nyitvatartással,
 
@@ -20,9 +20,9 @@ b) négynél kevesebb munkanapból álló hét esetén a hét egy munkanapján l
 
 kell üzemeltetni.
 
-(2a)[^132] Az ügyfélszolgálati fiókiroda köteles a helyben rendelkezésre álló információk alapján az üzletszabályzatban meghatározott ügytípusokba tartozó ügyeket helyben elintézni, az e körbe nem tartozó ügy nyilvántartásba vételéről igazolást kiállítani, bankkártya használatával történő fizetési lehetőséget biztosítani, készpénzátutalási megbízást rendelkezésre tartani. Az ügyfélszolgálati fiókiroda elektronikus ügyfélhívó rendszer alkalmazására nem köteles.
+(2a)[^134] Az ügyfélszolgálati fiókiroda köteles a helyben rendelkezésre álló információk alapján az üzletszabályzatban meghatározott ügytípusokba tartozó ügyeket helyben elintézni, az e körbe nem tartozó ügy nyilvántartásba vételéről igazolást kiállítani, bankkártya használatával történő fizetési lehetőséget biztosítani, készpénzátutalási megbízást rendelkezésre tartani. Az ügyfélszolgálati fiókiroda elektronikus ügyfélhívó rendszer alkalmazására nem köteles.
 
-(2b)[^133] A munkaszüneti napok miatti eltérő nyitvatartást az engedélyes legalább 30 nappal az adott munkahét kezdete előtt a Hivatal számára bejelenti, továbbá honlapján és ügyfélszolgálatán közzéteszi.
+(2b)[^135] A munkaszüneti napok miatti eltérő nyitvatartást az engedélyes legalább 30 nappal az adott munkahét kezdete előtt a Hivatal számára bejelenti, továbbá honlapján és ügyfélszolgálatán közzéteszi.
 
 (3) Az egyetemes szolgáltatásra jogosult felhasználót ellátó villamosenergia-kereskedő
 
@@ -30,9 +30,9 @@ a) abban a régióban, amelyben az általa ellátott egyetemes szolgáltatásra 
 
 b) abban a régióban, amelyben az általa ellátott egyetemes szolgáltatásra jogosult felhasználók száma meghaladja a 45 000-et – az a) pont szerinti állandó ügyfélszolgálati iroda mellett – ügyfélszolgálati fiókirodát működtet azon a településen, ahol a második legtöbb egyetemes szolgáltatásra jogosult felhasználót látja el.
 
-(4)[^134] Az egyetemes szolgáltató a VET 50/A. § (2) bekezdése szerint az olyan járásban, ahol megyei jogú város található, a megyei jogú városban, valamint a fővárosban állandó ügyfélszolgálati irodát működtet. Minden más járásban az egyetemes szolgáltató fiókirodát működtet azon a településen, ahol a legtöbb egyetemes szolgáltatásra jogosultat látja el.
+(4)[^136] Az egyetemes szolgáltató a VET 50/A. § (2) bekezdése szerint az olyan járásban, ahol megyei jogú város található, a megyei jogú városban, valamint a fővárosban állandó ügyfélszolgálati irodát működtet. Minden más járásban az egyetemes szolgáltató fiókirodát működtet azon a településen, ahol a legtöbb egyetemes szolgáltatásra jogosultat látja el.
 
-(4a)[^135] Az ügyfélszolgálatok VET 50/A. § (2) bekezdése szerinti összevont kezelése akkor lehetséges, ha az adott járás területén az egyetemes szolgáltató által ellátott felhasználók száma nem haladja meg a 2500-at.
+(4a)[^137] Az ügyfélszolgálatok VET 50/A. § (2) bekezdése szerinti összevont kezelése akkor lehetséges, ha az adott járás területén az egyetemes szolgáltató által ellátott felhasználók száma nem haladja meg a 2500-at.
 
 (5) Ha a településen – a főváros kivételével – jogszabály állandó ügyfélszolgálati iroda és ügyfélszolgálati fiókiroda működtetését is előírja, az egyetemes szolgáltató kizárólag az állandó ügyfélszolgálati irodát köteles működtetni.
 
@@ -40,14 +40,14 @@ b) abban a régióban, amelyben az általa ellátott egyetemes szolgáltatásra 
 
 (7) Az ügyfélszolgálati fiókiroda működési területén lévő felhasználási hellyel rendelkező egyetemes szolgáltatásra jogosult felhasználó jogosult az állandó ügyfélszolgálati irodában történő ügyintézésre is.
 
-(8)[^136] Ha az egyetemes szolgáltató új szolgáltatási területre kap engedélyt, ügyfélszolgálatot akkor kell létesítenie, ha az általa ellátott felhasználók száma az új szolgáltatási területen a 2500-at meghaladja.
+(8)[^138] Ha az egyetemes szolgáltató új szolgáltatási területre kap engedélyt, ügyfélszolgálatot akkor kell létesítenie, ha az általa ellátott felhasználók száma az új szolgáltatási területen a 2500-at meghaladja.
 
-[^128]: A Vhr. 23. §-át megelőző alcíme a 378/2011. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^129]: A Vhr. 23. §-a a 378/2011. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^130]: A Vhr. 23. § (1) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^131]: A Vhr. 23. § (2) bekezdése a 80/2019. (IV. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^132]: A Vhr. 23. § (2a) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 80/2019. (IV. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^133]: A Vhr. 23. § (2b) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 8. §-a iktatta be.
-[^134]: A Vhr. 23. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^135]: A Vhr. 23. § (4a) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^136]: A Vhr. 23. § (8) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^130]: A Vhr. 23. §-át megelőző alcíme a 378/2011. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^131]: A Vhr. 23. §-a a 378/2011. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^132]: A Vhr. 23. § (1) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^133]: A Vhr. 23. § (2) bekezdése a 80/2019. (IV. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^134]: A Vhr. 23. § (2a) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 80/2019. (IV. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^135]: A Vhr. 23. § (2b) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 8. §-a iktatta be.
+[^136]: A Vhr. 23. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^137]: A Vhr. 23. § (4a) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^138]: A Vhr. 23. § (8) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 10. §-a szerint módosított szöveg.
