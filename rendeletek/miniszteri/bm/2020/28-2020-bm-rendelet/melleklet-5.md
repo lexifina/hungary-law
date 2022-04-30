@@ -8,7 +8,7 @@
 
 ## 3. A vizsgázó a vizsga megkezdését megelőzően köteles a személyazonosságát hitelt érdemlően igazolni.
 
-## 4. Az írásbeli vizsga harminc kérdésből álló teszt, amelyet a vizsgaszervező állít össze.
+## 4.[^24] Az írásbeli vizsga harminc kérdésből álló teszt, amelyet a képzés- és vizsgaszervező állít össze.
 
 ## 5. Az iskolaőr vizsga értékelésébe nem számít bele a modulzáró vizsgák eredménye.
 
@@ -26,7 +26,7 @@
 
 ## 10. A vizsgaelnök és a vizsgabizottság tagja kizárólag olyan személy lehet, aki rendelkezik rendészeti, pszichológusi vagy pedagógus felsőfokú végzettséggel és legalább tíz éves szakmai tapasztalattal.
 
-## 11. A vizsgabizottság munkáját a megyei (fővárosi) rendőr-főkapitányság iskolaőr képzés és kiegészítő képzés szervezésével, lebonyolításával, irányításával összefüggő, valamint a kapcsolódó adminisztratív feladatokat ellátó szervezeti elemének személyi állományából kijelölt személy (a továbbiakban: a vizsga jegyzője) segíti.
+## 11.[^25] A vizsgabizottság munkáját a képzés- és vizsgaszervező iskolaőr képzés és kiegészítő képzés szervezésével, lebonyolításával, irányításával összefüggő, valamint a kapcsolódó adminisztratív feladatokat ellátó szervezeti elemének személyi állományából kijelölt személy (a továbbiakban: a vizsga jegyzője) segíti.
 
 ## 12. A vizsga jegyzője
 
@@ -56,7 +56,7 @@
 
 ## 14. A vizsgaelnök, a vizsgabizottság tagjai és a vizsga jegyzője nem működhetnek közre a Polgári Törvénykönyv szerinti hozzátartozójuk, valamint a velük alá- vagy fölérendeltségi viszonyban álló személy vizsgáztatásában, továbbá olyan esetekben, amelyekben tőlük az elfogulatlan vizsgáztatás egyéb okból nem várható el.
 
-## 15. A vizsgázó vagy a vizsga során közreműködő személy az összeférhetetlenségről legkésőbb a vizsga megkezdése előtt haladéktalanul tájékoztatja a vizsgaszervezőt.
+## 15.[^26] A vizsgázó vagy a vizsga során közreműködő személy az összeférhetetlenségről legkésőbb a vizsga megkezdése előtt haladéktalanul tájékoztatja a képzés- és vizsgaszervezőt.
 
 ## 16. A vizsga előtt a vizsgaelnök tájékoztatja a vizsgázókat a vizsga menetéről, valamint a vizsga rendjéről.
 
@@ -66,7 +66,7 @@
 
 ## 4. Selejtezési szabályok
 
-## 19. A vizsgajegyzőkönyv nem selejtezhető, megőrzéséről a vizsgaszervező gondoskodik.
+## 19.[^27] A vizsgajegyzőkönyv nem selejtezhető, megőrzéséről a képzés- és vizsgaszervező gondoskodik.
 
 ## 20. A felkészítés és a vizsga iratai – így különösen a megírt vizsgadolgozatok, az adatellenőrző és egyéb adminisztrációs lapok – a vizsgát követő két év után selejtezhetők.
 
@@ -78,9 +78,9 @@
 
 ## 23. Súlyos szabálytalanság vagy a második eredménytelen figyelmeztetés esetén a vizsgaelnök a vizsgázót a vizsga folytatásából kizárja, melynek tényét és körülményeit a vizsgajegyzőkönyvben rögzíti.
 
-## 24. A vizsga folytatásából való kizárással szemben a vizsgázó három napon belül panasszal élhet a vizsgaszervező felé. A panasz benyújtásának a vizsga folytatása alóli kizárásra nincs halasztó hatálya.
+## 24.[^28] A vizsga folytatásából való kizárással szemben a vizsgázó három napon belül panasszal élhet a képzés- és vizsgaszervező felé. A panasz benyújtásának a vizsga folytatása alóli kizárásra nincs halasztó hatálya.
 
-## 25. A beérkezett panaszról a vizsgaszervező vezetője tizenöt napon belül dönt.
+## 25.[^29] A beérkezett panaszról a képzés- és vizsgaszervező vezetője tizenöt napon belül dönt.
 
 ## 26. Rendzavarás vagy a vizsgaszabályzatban foglaltak megszegésének tényét és a vizsgaelnök ezzel kapcsolatos intézkedését a vizsgaelnök a vizsgajegyzőkönyvben rögzíti.
 
@@ -109,3 +109,10 @@ c) anyja születési neve,
 7. a kérelem keltének helye és ideje, valamint
 
 8. a kérelmező aláírása.
+
+[^24]: A 4. melléklet 4. pontja a 12/2022. (IV. 29.) BM rendelet 5. § c) pontja szerint módosított szöveg.
+[^25]: A 4. melléklet 11. pontja a 12/2022. (IV. 29.) BM rendelet 5. § j) pontja szerint módosított szöveg.
+[^26]: A 4. melléklet 15. pontja a 12/2022. (IV. 29.) BM rendelet 5. § k) pontja szerint módosított szöveg.
+[^27]: A 4. melléklet 19. pontja a 12/2022. (IV. 29.) BM rendelet 5. § c) pontja szerint módosított szöveg.
+[^28]: A 4. melléklet 24. pontja a 12/2022. (IV. 29.) BM rendelet 5. § c) pontja szerint módosított szöveg.
+[^29]: A 4. melléklet 25. pontja a 12/2022. (IV. 29.) BM rendelet 5. § c) pontja szerint módosított szöveg.

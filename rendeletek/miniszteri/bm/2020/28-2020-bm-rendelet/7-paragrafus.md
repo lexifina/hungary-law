@@ -2,11 +2,11 @@
 
 ## 3. A képzés szervezése
 
-7. § (1) Az iskolaőr képzésének és kiegészítő képzésének (ezen alcím alkalmazásában a továbbiakban együtt: képzés) megszervezéséről és lebonyolításáról a beiskolázó szerv vezetője gondoskodik az emberi erőforrások minisztere által vezetett minisztériummal, valamint a Nemzeti Bűnmegelőzési Tanáccsal együttműködve.
+7. § (1)[^3] Az iskolaőr képzésének és kiegészítő képzésének (ezen alcím alkalmazásában a továbbiakban együtt: képzés) megszervezéséről és lebonyolításáról a képzés- és vizsgaszervező vezetője gondoskodik az emberi erőforrások minisztere által vezetett minisztériummal, valamint a Nemzeti Bűnmegelőzési Tanáccsal együttműködve.
 
-(2) A képzés – Rendőrségi Oktatási és Kiképző Központ (a továbbiakban: vizsgaszervező) által összesített – képzési tervét, valamint a képzés és vizsgáztatás tervezett ütemezését az országos rendőrfőkapitány hagyja jóvá.
+(2)[^4]
 
-(3) A beiskolázó szerv gondoskodik
+(3)[^5] A képzés- és vizsgaszervező gondoskodik
 
 a) a képzés és vizsgáztatás helyszíne,
 
@@ -16,7 +16,7 @@ c) a gyakorlati oktatáshoz szükséges eszközök
 
 biztosításáról.
 
-(4) A beiskolázó szerv
+(4)[^6] A képzés- és vizsgaszervező
 
 a) megköti a szerződést az oktatókkal a 4. § a) pontja szerinti modul,
 
@@ -26,4 +26,10 @@ c) biztosítja a képzéshez szükséges oktatókat a 4. § c) pontja szerinti m
 
 vonatkozásában.
 
-(5) A képzési helyszíneket úgy kell biztosítani, illetve kiválasztani, hogy a képzésen való részvétel napi bejárással végrehajtható legyen.
+(5)[^7]
+
+[^3]: A 7. § (1) bekezdése a 12/2022. (IV. 29.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^4]: A 7. § (2) bekezdését a 12/2022. (IV. 29.) BM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^5]: A 7. § (3) bekezdés nyitó szövegrésze a 12/2022. (IV. 29.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^6]: A 7. § (4) bekezdés nyitó szövegrésze a 12/2022. (IV. 29.) BM rendelet 5. § b) pontjával megállapított szöveg.
+[^7]: A 7. § (5) bekezdését a 12/2022. (IV. 29.) BM rendelet 6. § c) pontja hatályon kívül helyezte.

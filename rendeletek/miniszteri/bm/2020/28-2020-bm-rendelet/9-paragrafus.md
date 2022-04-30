@@ -1,4 +1,4 @@
-## 8. § A vizsgaszervező a vizsgára érkezett jelentkezést rögzíti, és a vizsga időpontja előtt legalább tizenöt nappal értesíti a vizsgázót a vizsga időpontjáról, helyszínéről, a vizsgával kapcsolatos információkról, valamint a követelményrendszerről.
+## 8. §[^8] A képzés- és vizsgaszervező a vizsgára érkezett jelentkezést rögzíti, és a vizsga időpontja előtt legalább tizenöt nappal értesíti a vizsgázót a vizsga időpontjáról, helyszínéről, a vizsgával kapcsolatos információkról, valamint a követelményrendszerről.
 
 9. § (1) A modulzáró vizsgák dokumentálásáról az adott képzési modul keretében oktató gondoskodik.
 
@@ -15,3 +15,5 @@ c) 60% vagy azalatt „nem felelt meg” minősítés.
 (4) Az eredményes modulzáró vizsgáról a vizsgázó részére az adott képzési modul keretében az oktató igazolást állít ki.
 
 (5) Ha a vizsgázó a modulzáró vizsgán „nem felelt meg” minősítést kap, modulzáró vizsgánként egy alkalommal javítóvizsgát tehet.
+
+[^8]: A 8. § a 12/2022. (IV. 29.) BM rendelet 5. § c) pontja szerint módosított szöveg.
