@@ -36,7 +36,9 @@
 
 | 2. | GINOP Plusz-2.1.1-21 | Vállalati kutatási, fejlesztési és innovációs tevékenységek ösztönzése | 136,67 | standard | Meghirdetve 2021. júliusban |
 
-| 2a. | GINOP Plusz-2.1.2-22 | Tudományos és Innovációs Park létrehozása és fejlesztése | 161,00 | standard | 2022. április |
+| 2a. | GINOP Plusz-2.1.2-22 | Tudományos és Innovációs Park létrehozását és fejlesztését célzó projektek előkészítése | 5,80 | standard | 2022. április |
+
+| 2b. | GINOP Plusz-2.1.3-22 | Tudományos és Innovációs Park létrehozását és fejlesztését célzó projektek megvalósítása | 155,20 | standard | 2022. április |
 
 | 3. | GINOP Plusz-2.2.1-22 | Célzott kutatásfejlesztési szolgáltatások nyújtása vállalkozások és kutatóhelyek, kutató-tudásközvetítő szervezetek számára | 5,00 | kiemelt | 2022. március |
 
@@ -62,6 +64,8 @@
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP Plusz-6.1.1-22 | Egészségturisztikai zászlóshajónak minősülő gyógyfürdők és környezetük komplex fejlesztése | 50,00 | standard | 2022. április |
+| 2. | GINOP Plusz-6.1.1-22 | Országos és nemzetközi jelentőségű gyógyfürdők és környezetük komplex fejlesztésére vonatkozó előkészítési célú felhívás | 5,00 | standard | 2022. április |
 
-[^1]: Az 1. melléklet az 1849/2021. (XI. 30.) Korm. határozat 1–2. pontja, az 1906/2021. (XII. 14.) Korm. határozat 1–2. és 4. pontja, az 1111/2022. (III. 4.) Korm. határozat 1–2. pontja szerint módosított szöveg.
+| 3. | GINOP Plusz-6.1.2-22 | Országos és nemzetközi jelentőségű gyógyfürdők és környezetük komplex fejlesztése | 45,00 | standard | 2022. szeptember |
+
+[^1]: Az 1. melléklet az 1849/2021. (XI. 30.) Korm. határozat 1–2. pontja, az 1906/2021. (XII. 14.) Korm. határozat 1–2. és 4. pontja, az 1111/2022. (III. 4.) Korm. határozat 1–2. pontja, az 1248/2022. (IV. 29.) Korm. határozat 1. pontja szerint módosított szöveg.
