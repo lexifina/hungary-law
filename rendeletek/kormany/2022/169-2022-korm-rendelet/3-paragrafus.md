@@ -1,3 +1,5 @@
-## 2. § Az R. 1. § (4) bekezdésében az „e rendelet hatálybalépésétől számított 24 hónapban” szövegrész helyébe az „e rendelet hatálybalépésétől számított 24 hónapban, továbbá 2022. május 1. napjától 2022. október 31. napjáig” szöveg lép.
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
