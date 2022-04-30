@@ -22,7 +22,7 @@
 
 | 10. | Alvásmedicina szakértője (Szomnológus) | specializációs | 24 hónap |
 
-| 11. | Obezitológia | specializációs | 16 hónap |
+| 11. | Obezitológia | specializációs | 12 hónap |
 
 | 12. | Palliatív orvoslás | interdiszciplináris | 12 hónap |
 
@@ -842,75 +842,57 @@ Az alvás-ébrenléti zavarok nemzetközi osztályozásában (ISCD-2, Sateia 200
 
 2. Licenc típusa: specializációs
 
-3. A képzés időtartama: 16 hónap
+3. A képzés időtartama: 12 hónap
 
 4. Képzési program
 
 4.1. 12 hó gyakorlat obezitológiai centrumban (fekvő- és járóbeteg-ellátás), ezen belül:
 
-a) 6 hó obezitológiai és mozgásterápiás ismeretek
+a) 9 hó obezitológiai és mozgásterápiás ismeretek
 
 b) 1 hó dietetikai ismeretek
 
-4.2. 2 hó endokrinológiai gyakorlat
+4.2. 1 hó endokrinológiai gyakorlat
 
-4.3. 2 hó diabetológiai gyakorlat
+4.3. 1 hó diabetológiai gyakorlat
 
-5. Vizsgára bocsátás további feltételei
+5. Megszerezhető képesítés birtokában végezhető szakmai tevékenységek köre:
 
-5.1. 1 hét elméleti tanfolyam eredményes tesztvizsgával
+5.1. orvosi ellátásra szoruló elhízottak vizsgálata, kezelése,
 
-5.2. Képzési idő alatt összesen 15 kreditpont megszerzése:
+5.2. az elhízás komplex kezelésének ismerete és alkalmazása,
 
-a) obezitológiai témájú kongresszuson előadás tartása (4 pont)
+5.3. a veszélyes és szakmailag indokolt fogyókúrák megkülönböztetése,
 
-b) obezitológiai témájú kongresszuson poszter bemutatása (3 pont)
+5.4. a fogyókúra veszélyeinek, mellékhatásainak ismerete és elhárítása,
 
-c) obezitológiai témájú kongresszuson előadásban társszerzőség (2 pont)
+5.5. az elhízás műtéti kezelése indikációinak, kontra-indikációinak ismerete,
 
-d) obezitológiai témájú kongresszuson részvétel (1 pont)
+5.6. az elhízottak hosszú távú gondozása.
 
-e) külföldi folyóiratban obezitológiai témájú cikk első szerzőként (5 pont)
+6. Képzés személyi és tárgyi feltételei
 
-f) külföldi folyóiratban obezitológiai témájú cikk társszerzőként (2 pont)
+6.1. Képzés személyi feltétele: a Magyar Obezitológiai és Mozgásterápiás Társaság által elismert, legalább 5 éves obezitológiai gyakorlattal és tudományosan megalapozott dietetikai ismeretekkel rendelkező obezitológiai licenccel rendelkező szakorvos, legalább 1 fő dietetikus, legalább 1 fő pszichológus, legalább 1 fő gyógytornász.
 
-g) hazai folyóiratban obezitológiai témájú cikk első szerzőként (3 pont)
+6.2. A gyakorlati képzőhely tárgyi feltételei:
 
-h) hazai folyóiratban obezitológiai témájú cikk társszerzőként (1 pont)
+a) a képzőhelyen obezitológiai járóbeteg- és obezitológiai fekvőbeteg-ellátás, mozgásterápiás (tornaterem) háttérrel,
 
-6. Megszerezhető képesítés birtokában végezhető szakmai tevékenységek köre
+b) laboratóriumi háttér,
 
-6.1. orvosi ellátásra szoruló elhízottak vizsgálata, kezelése
+c) 6 vagy 12 csatornás EKG-készülék,
 
-6.2. veszélyes vagy indokolt fogyókúrák megkülönböztetése
+d) antropometriás meghatározás eszközei (testsúly, testmagasság, testkörfogatok mérése),
 
-6.3. a fogyókúra veszélyeinek, mellékhatásainak elhárítása
+e) gyors vércukor-meghatározó készülék,
 
-6.4. a különböző gyógyszerek és az elhízás kapcsolatának ismerete
+f) vérnyomásmérő,
 
-6.5. az elhízás műtéti kezelése indikációinak, kontraindikációinak ismerete
+g) bioimpedancia-mérő,
 
-7. Képzés személyi és tárgyi feltételei
+h) 24 órás vérnyomásmonitor.
 
-7.1. Képzés személyi feltétele: a Magyar Obezitologiai és Mozgásterápiás Társaság által elismert legalább 5 éves obezitológiai gyakorlattal és tudományosan megalapozott dietetikai ismeretekkel rendelkező szakorvos
-
-7.2. A gyakorlati képzőhely tárgyi feltételei:
-
-a) fekvőbeteg intézeti háttér
-
-b) laboratóriumi háttér
-
-c) 6 vagy 12 csatornás EKG készülék
-
-d) antropometriás meghatározás eszközei (testsúly, testmagasság, testkörfogatok mérése)
-
-e) gyors vércukor-meghatározó készülékek
-
-f) vérnyomásmérő
-
-g) bioimpedancia-mérő
-
-h) 24 órás vérnyomás monitor
+7.
 
 11. PALLIATÍV ORVOSLÁS
 
@@ -2248,4 +2230,4 @@ A dento-maxillo-faciális régió diagnosztikus és szűrő képalkotó vizsgál
 
 9.1. A vizsgabizottság tagjai közül legalább egy fogszakorvosnak és legalább egy radiológus szakorvosnak kell lennie.
 
-[^45]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a, a 28/2016. (IX. 29.) EMMI rendelet 14. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 87. § g) pontja, a 28/2018. (VIII. 29.) EMMI rendelet 13. § b) pontja és 14. §-a, az 57/2021. (XII. 21.) EMMI rendelet 8. §-a szerint módosított szöveg. [A 2. melléklet 6. rész 1.2. b) pontjának a 38/2017. (XII. 29.) EMMI rendelet 7. §-ával elrendelt módosítása, amely szerint az „országos intézetben” szövegrész helyébe az „országos gyógyintézetben, országos társ-gyógyintézetben” szöveg lép, nem vezethető át.][Az 57/2021. (XII. 27.) EMMI rendelet 8. §-ával elrendelt módosítás, amely szerint hatályát veszíti a 2. melléklet 1. Endoszkópos ultrahang diagnosztika pont 7.2. alpontja, nem vezethető át.]
+[^45]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a, a 28/2016. (IX. 29.) EMMI rendelet 14. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 87. § g) pontja, a 28/2018. (VIII. 29.) EMMI rendelet 13. § b) pontja és 14. §-a, az 57/2021. (XII. 21.) EMMI rendelet 8. §-a, a 15/2022. (IV. 29.) EMMI rendelet 2. § (1) és (3) bekezdése, 3. §-a szerint módosított szöveg. [A 2. melléklet 6. rész 1.2. b) pontjának a 38/2017. (XII. 29.) EMMI rendelet 7. §-ával elrendelt módosítása, amely szerint az „országos intézetben” szövegrész helyébe az „országos gyógyintézetben, országos társ-gyógyintézetben” szöveg lép, nem vezethető át.][Az 57/2021. (XII. 27.) EMMI rendelet 8. §-ával elrendelt módosítás, amely szerint hatályát veszíti a 2. melléklet 1. Endoszkópos ultrahang diagnosztika pont 7.2. alpontja, nem vezethető át.]
