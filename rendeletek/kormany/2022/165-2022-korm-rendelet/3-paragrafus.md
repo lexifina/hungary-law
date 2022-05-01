@@ -1,0 +1,3 @@
+## 2. § Az R. Általános rendelkezések című alcíme a következő 5/A. §-sal egészül ki:
+
+## „5/A. § Emelt szintű érettségi vizsga szervezhető – a magyar mint idegen nyelv vizsgatárgy kivételével – abból a vizsgatárgyból, amely vizsgatárgy részletes emelt szintű érettségi vizsgakövetelményeit az Nkt. 6. § (1) bekezdése alapján az oktatásért felelős miniszter (a továbbiakban: miniszter) közzétette, és amely – mint a felsőoktatási felvételi eljárás során figyelembe vehető érettségi vizsgatárgy – a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. mellékletében szerepel.”
