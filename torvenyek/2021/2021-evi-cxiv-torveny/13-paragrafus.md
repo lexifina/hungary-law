@@ -2,26 +2,26 @@
 
 a)
 
-b)
+b) 17. § (2b) bekezdésében a „ , kormányrendeletben meghatározott” szövegrész,
 
 c)
 
-d)
+d) 67. § a) pontjában az „az atomenergia-felügyeleti szerv nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatkörét, egyes európai uniós kötelezettségek teljesítésének alanyát,” szövegrész,
 
-e)
+e) 67. § b)–d) pontja,
 
-f)
+f) 67. § m) pontjában a „valamint a radioaktív anyagok nyilvántartásával és ellenőrzésével, továbbá a nukleáris anyagok nyilvántartásával és ellenőrzésének szabályaival összefüggő eljárási szabályokat,” szövegrész,
 
-g)
+g) 67. § n) pontja,
 
-h)
+h) 67. § s) pontja,
 
-i)
+i) 67. § v) pont ve) alpontja,
 
-j)
+j) 67. § w)–y) pontja,
 
-k)
+k) 68. § (1) bekezdés a) és b) pontja,
 
-l)
+l) 68. § (1) bekezdés d) pontja,
 
-m)
+m) 68. § (1) bekezdés f) és g) pontja.
