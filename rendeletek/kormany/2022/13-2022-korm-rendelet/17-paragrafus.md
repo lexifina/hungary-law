@@ -6,5 +6,5 @@ b)[^17]
 
 lép.
 
-[^16]: A 17. § a) pontja a 35/2022. (II. 8.) Korm. rendelet 1. § (2) bekezdés b) pontja alapján 2022. május 1-jén lép hatályba.
+[^16]: A 17. § a) pontja a 164/2022. (IV. 28.) Korm. rendelet 6. § b) pontja alapján nem lép hatályba.
 [^17]: A 17. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

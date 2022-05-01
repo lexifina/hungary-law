@@ -2,4 +2,4 @@
 
 1. §
 
-[^2]: Az 1. alcím (1. §) a 35/2022. (II. 8.) Korm. rendelet 1. § (2) bekezdés a) pontja alapján 2022. május 1-jén lép hatályba.
+[^2]: Az 1. alcím (1. §) a 164/2022. (IV. 28.) Korm. rendelet 6. § a) pontja alapján nem lép hatályba.
