@@ -22,7 +22,7 @@ d) az egyéb bevétel.
 
 (2) Az atomenergia-felügyeleti szerv bevételét – az (1f) bekezdés kivételével – működésének fedezetére használja fel, az más célra nem vonható el.
 
-(3) Az atomenergia-felügyeleti szerv évente jelentést készít a Kormánynak és az Országgyűlésnek az atomenergia hazai alkalmazásának biztonságáról, ideértve a 7. § (2) bekezdésében foglalt előkészítő tevékenységet is.
+(3) Az atomenergia-felügyeleti szerv évente jelentést készít az Országgyűlésnek az atomenergia hazai alkalmazásának biztonságáról, ideértve a 7. § (2) bekezdésében foglalt előkészítő tevékenységet is.
 
 (4) Az atomenergia-felügyeleti szerv
 

@@ -30,7 +30,7 @@ a) a munkáltató nevét, székhelyét és telephelyét, valamint adószámát;
 
 b) a személyi dozimetriai ellenőrzési időszak dátum szerinti pontos megjelölését;
 
-c) a munkavállaló sugárterhelésnek való kitettsége szerinti – az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendeletben meghatározott – besorolását.
+c) a munkavállaló sugárterhelésnek való kitettsége szerinti – az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló elnöki rendeletben meghatározott – besorolását.
 
 (5) A hivatalosan feljegyzett személyi dozimetriai eredmények kiterjednek a munkavállalót a foglalkoztatása során érő összes sugárterhelésre, függetlenül azok forrásától és a besugárzási útvonalaktól, valamint magukban foglalják a résztest- és szemlencse dozimetriai eredményeket egyaránt.
 
@@ -52,7 +52,7 @@ c) a legutóbbi időszakos alkalmassági vizsgálat időpontját és
 
 d) az eredmények érvényességének időtartamát.
 
-(8) A tevékenység befejezésekor a vállalkozás köteles az Országos Személyi Dozimetriai Nyilvántartás számára bejelenteni a radionuklidok kormányrendeletben meghatározott bevitele esetén a bevitt összes aktivitás vagy a lekötött effektív dózis becsült értékét.
+(8) A tevékenység befejezésekor a vállalkozás köteles az Országos Személyi Dozimetriai Nyilvántartás számára bejelenteni a radionuklidok elnöki rendeletben meghatározott bevitele esetén a bevitt összes aktivitás vagy a lekötött effektív dózis becsült értékét.
 
 (9) Az atomenergia-felügyeleti szerv a személyes adatokat a foglalkozási sugárterhelésre vonatkozó dóziskorlátok betartásának ellenőrzése céljából használhatja fel.
 

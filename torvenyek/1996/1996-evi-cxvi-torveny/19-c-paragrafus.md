@@ -1,6 +1,6 @@
 19/C. § (1) A Budapesti és Pest Megyei Mérnöki Kamara (a továbbiakban: BPMK) a szakértői tevékenység gyakorlására jogosító engedélyezési eljárásban közreműködő elsőfokú minősítő bizottságot hoz létre. A minősítő bizottság feladata annak megállapítása, hogy a kérelmező szakmai gyakorlata megfelelő-e a szakértői tevékenység folytatásához.
 
-(2) A minősítő bizottság tagjait az atomenergia-felügyeleti szerv főigazgatója és az MMK főtitkára közösen jelöli ki. A minősítő bizottságnak legalább öt, de legfeljebb tizenöt, páratlan számú tagja van, megbízatásuk négy évre szól. A tagok maguk közül elnököt választanak.
+(2) A minősítő bizottság tagjait az atomenergia-felügyeleti szerv elnöke és az MMK főtitkára közösen jelöli ki. A minősítő bizottságnak legalább öt, de legfeljebb tizenöt, páratlan számú tagja van, megbízatásuk négy évre szól. A tagok maguk közül elnököt választanak.
 
 (3) Az egyes engedélyezési eljárásokban a minősítő bizottság elnöke által kijelölt legalább három tag jár el. Az eljáró bizottság a kérelmező által benyújtott, szakmai gyakorlatát igazoló dokumentumok (különösen a referenciák és a szakmai önéletrajz) alapján dönt.
 

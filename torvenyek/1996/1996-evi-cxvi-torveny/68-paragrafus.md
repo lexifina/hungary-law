@@ -1,18 +1,18 @@
 68. § (1) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-a) a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályait, a kapcsolódó adatszolgáltatás szabályait, a nyilvántartás adatait érintő változásokkal kapcsolatos bejelentési és értesítési kötelezettségeket, az előírt adatszolgáltatás elmaradásának következményeit, a nukleáris anyagokkal kapcsolatos telephely kijelölés és az ezzel kapcsolatos hatósági feladatok szabályait az egészségügyért felelős miniszterrel, a rendészetért felelős miniszterrel, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
+a)
 
-b) a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályait az egészségügyért, a rendészetért, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
+b)
 
 c) a radioaktív anyagok csomagolása engedélyezésének és ellenőrzésének szabályait a közlekedésért felelős miniszterrel egyetértésben;
 
-d) az atomenergia-felügyeleti szerv igazgatási szolgáltatási díj ellenében végzett eljárásai esetében az igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és visszatérítésének szabályait, a díj mértékét illetően az adópolitikáért felelős miniszterrel egyetértésben;
+d)
 
 e) az atomenergia-felügyeleti szerv hatósági tevékenységéhez igénybe vett intézetek, intézmények részére a szolgáltatásért járó díj fizetésének feltételeit;
 
-f) a tevékenység jellege szerint érintett miniszterrel egyetértésben az atomenergia alkalmazása körében a munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét;
+f)
 
-g) az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat, az adópolitikáért felelős miniszterrel egyetértésben;
+g)
 
 h) a 63. § (1) és (4) bekezdése, valamint a 63/A. § (1) és (2) bekezdése szerinti befizetési kötelezettség teljesítésének módját.
 
@@ -68,4 +68,90 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 (11) Felhatalmazást kap a Kormány tagja, hogy rendeletben állapítsa meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 
-(12)
+(12) Felhatalmazást kap az elnök, hogy rendeletben állapítsa meg:
+
+1. az atomenergia-felügyeleti szerv hatáskörébe tartozó, kérelemre indult eljárások tekintetében az eljárásáért fizetendő igazgatási szolgáltatási díj mértékére, valamint a díjak és az egyéb bevételek beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat;
+
+2. a 18/D. § szerinti szakmagyakorlásra alkalmasság igazolásának és a nyilvántartásba vétel részletes szabályait, továbbá a nyilvántartás adattartalmát;
+
+3. azoknak a radioaktív anyagoknak, valamint ionizáló sugárzást létrehozó berendezéseknek a körét, amelyek alkalmazása – az általuk létrehozható ionizáló sugárzás jellege és mértéke folytán – az emberi életre és egészségre, az emberi környezetre nem minősül veszélyesnek, és ezért nem tartoznak e törvény hatálya alá;
+
+4. az atomenergia alkalmazása körébe tartozó anyagok, berendezések tulajdonjoga megszerzésének speciális feltételeit, birtoklásuk, üzemben tartásuk bejelentésének rendjét;
+
+5. a speciális érvényesítési eljárások rendjét;
+
+6. az atomenergia alkalmazása körében a sugárvédelem érvényesítése érdekében:
+
+a) a munkavállalók és a lakosság sugárterhelésére vonatkozó dózis-határértékeket [ideértve a nukleáris baleset (katasztrófa) következményeinek felszámolásában részt vevők sugárterhelését is], a személyeket érő külső és belső sugárterhelés ellenőrzésének rendjét, valamint a veszélyhelyzeti, illetve a meglévő sugárzási helyzetekre irányadó vonatkoztatási szinteket, továbbá a veszélyhelyzeti munkavállalók sugárterhelésére vonatkozó dózis-határértékeket;
+
+b) használt berendezések, eszközök sugárvédelmi minősítését;
+
+c) a munkavállalókra irányadó sugár-egészségügyi, munkavégzési, munkaköri alkalmassági szabályokat, a munkavállalók sugárvédelmi oktatásának és tájékoztatásának rendjét;
+
+d) a közúti szállító eszközök sugárvédelmi követelményeit;
+
+e) a tervezett, meglévő és a veszélyhelyzeti sugárzási helyzetekre vonatkozó sugárvédelmi szabályokat, valamint a sugárvédelmi szolgálatok feladatára és működésére vonatkozó részletes előírásokat;
+
+f) a radon- és radon leányelem-koncentrációk vonatkoztatási szintjét lakó- és középületekben, az építőanyagok gyártásához felhasznált alapanyagok, a kereskedelmi forgalomba kerülő építőanyagok, továbbá az építési területek felhasználhatóságának sugárvédelmi szempontból való korlátozását;
+
+g) a külföldről származó és kereskedelmi forgalomba kerülő termékek, illetve alapanyagok radioaktivitásával kapcsolatos előírások betartásának és ellenőrzésének szabályait;
+
+h) a radioaktív anyagok használati cikkekben való alkalmazásának szabályait;
+
+i) a radioaktív anyagok birtoklása, előállítása, termelése, kezelése, feldolgozása, forgalmazása, tárolása, felhasználása, átalakítása, szállítása engedélyezési és a hatósági felügyelet alóli felszabadítási eljárását, valamint a radioaktív anyagok szállításának, fuvarozásának és csomagolásának eljárási szabályait;
+
+j) az i) alpontban felsorolt tevékenységet szolgáló létesítmény vagy berendezés létesítése, üzembe helyezése, üzemeltetése, átalakítása, javítása, megszüntetése, leszerelése engedélyezési eljárását és ellenőrzésének rendjét;
+
+k) az ionizáló sugárzást létrehozó létesítmény, berendezés létesítéséhez, előállításához, üzemeltetéséhez, átalakításához és megszüntetéséhez szükséges engedélyezési eljárást és az ellenőrzés rendjét;
+
+l) a természetben előforduló radioaktív anyagok felhasználásával végzett tevékenységek besorolásának vagy típusainak meghatározási szabályait;
+
+m) a sugárterhelésnek kitett munkavállalók kategóriákba sorolása szabályait;
+
+n) a sugárzás elleni védőeszköz forgalomba hozatalának engedélyezési és sugárvédelmi minősítési rendjét;
+
+o) a j) és k) alpontok szerinti létesítmény, berendezés alkalmazásának vagy üzemeltetésének megkezdésére, alkalmazásának vagy üzemeltetésének megszüntetésére, tulajdonjoga megszerzésére, illetve használata bármilyen jogcímen történő átengedésére irányuló bejelentés tudomásulvételének szabályait;
+
+7. az Országos Személyi Dozimetriai Nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi szakértői tevékenység folytatásának részletes feltételeit, e tevékenység folytatására jogosító engedély kiadásának rendjét, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi képzésre és továbbképzésre vonatkozó részletes szabályokat, valamint a sugárvédelmi képzettség nyilvántartásának vezetésére vonatkozó részletes szabályokat;
+
+8. az atomenergia alkalmazása körében eljáró
+
+a) független műszaki szakértői tevékenység folytatásának szabályait, végzésének feltételeit, a vonatkozó összeférhetetlenségi szabályokat, a szakértői szakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységre jogosító engedély iránti kérelmezési eljárásban részt vevő minősítő bizottságok tagjaira és összeférhetetlenségére vonatkozó feltételeket, a szakvélemény tartalmi elemeit és az elkészítésére irányadó szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a külföldi szakértőre vonatkozó, az EGT-állam állampolgár szakértőitől eltérő szabályait;
+
+b) műszaki szakértő szervezet minősítésének, nyilvántartásának, működésének és alkalmazásának szabályait;
+
+9. a nukleáris létesítmények tekintetében
+
+a) a biztonsági jelentések tartalmát,
+
+b) a telephely vizsgálatára és értékelésére, a telephely jellemzőinek és alkalmasságának megállapítására, létesítésére, bővítésére, üzembe helyezésére, üzemeltetésére, átalakítására, üzemen kívül helyezésére, megszüntetésére vonatkozó nukleáris biztonsági követelményeket,
+
+c) a nukleáris rendszerek és rendszerelemek tervezésére, gyártására, beszerzésére, szerelésére, üzembe helyezésére és leszerelésére, valamint a nukleáris létesítmények üzemeltetésének időszaka alatt történő átalakításokra vonatkozó nukleáris biztonsági követelményeket,
+
+d) a tervezést, létesítést, építést, gyártást, üzembe helyezést, üzemeltetést és leszerelést végző szervezetek irányítási rendszerével szemben támasztott követelményeket,
+
+e) a munkavállalók foglalkoztatási előírásait,
+
+f) a nukleáris biztonsági hatósági tevékenység szabályait,
+
+g) a nukleáris létesítményekkel összefüggő építmények körét, a nukleáris létesítményekkel, valamint a nukleáris létesítményekkel összefüggő építményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, a műszaki dokumentáció részletes tartalmi követelményeit, az építésfelügyeleti ellenőrzés építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit,
+
+h) a létesítés alatt álló nukleáris létesítmény engedélymódosításának eljárási szabályait;
+
+10. a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait, valamint a létesítés alatt álló radioaktívhulladék-tároló engedélymódosításának eljárási szabályait.
+
+11. az atomenergia alkalmazása körében a munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét;
+
+12. a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályait, a kapcsolódó adatszolgáltatás szabályait, a nyilvántartás adatait érintő változásokkal kapcsolatos bejelentési és értesítési kötelezettségeket, az előírt adatszolgáltatás elmaradásának következményeit, a nukleáris anyagokkal kapcsolatos telephely kijelölés és az ezzel kapcsolatos hatósági feladatok szabályait;
+
+13. a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályait;
+
+14. az atomenergia-felügyeleti szerv által a 11/A. § (3a) bekezdése szerint lefolytatott eljárásban az angol nyelven benyújtandó műszaki dokumentációk körét;
+
+15. az atomenergia-felügyeleti szerv által lefolytatott, a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatóval és az előzetes típusengedélyezési eljárással kapcsolatos részletes szabályokat;
+
+16. az atomenergia-felügyeleti szerv elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettesét;
+
+17. az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat;
+
+18. a radioaktívhulladék-tároló és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket.

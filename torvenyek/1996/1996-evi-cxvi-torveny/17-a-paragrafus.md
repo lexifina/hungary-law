@@ -46,10 +46,12 @@ f) az atomkárért való felelősséggel
 
 16. indokolatlan késedelem nélkül nemzetközi szakértői felülvizsgálatot kér olyan balesetek esetében, amelyek a telephelyen kívüli veszélyhelyzeti intézkedéseket vagy a lakosságot érintő védelmi intézkedéseket tesznek szükségessé;
 
-17. együttműködik a Nemzeti Akkreditáló Hatósággal az NBSZ. Kr. szerinti, az engedélyestől független, jogszabály szerint feljogosított ellenőrző szervezet akkreditálási eljárásának értékelő csoportjába történő, a nukleáris területen szakértelemmel rendelkező szakértők kirendelése kapcsán.
+17. együttműködik a Nemzeti Akkreditáló Hatósággal az NBSZ. R. szerinti, az engedélyestől független, jogszabály szerint feljogosított ellenőrző szervezet akkreditálási eljárásának értékelő csoportjába történő, a nukleáris területen szakértelemmel rendelkező szakértők kirendelése kapcsán.
 
 (2) Az atomenergia-felügyeleti szerv gondoskodik az (1) bekezdés 6. és 13. pontja szerinti, az Európai Bizottság részére történő jelentéstételi kötelezettség teljesítéséről.
 
 (3) A nukleáris létesítmények engedélyesei, a radioaktív hulladékot és a kiégett üzemanyagot kezelő létesítmények engedélyesei információt és adatokat szolgáltatnak az atomenergia-felügyeleti szerv hatáskörébe utalt, az (1) bekezdés 5. és 15. pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint a 8. § (3) bekezdése szerint az atomenergia hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.
+
+(3a) A 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek információt és adatokat szolgáltatnak az atomenergia-felügyeleti szerv hatáskörébe utalt, az (1) bekezdés 5. és 15. pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint a 8. § (3) bekezdése szerint az atomenergia hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.
 
 (4) Az atomenergia-felügyeleti szerv az atomenergia biztonságos alkalmazásával kapcsolatos kötelezettségek alapján hatékony irányítási rendszert hoz létre és tart fenn, amelynek keretében az e törvényben meghatározott alapvető biztonsági célkitűzés elérése érdekében olyan intézkedéseket hoz, amelyek a szervezet minden szintjén elősegítik a kérdésfelvető és tanuló magatartást.

@@ -1,6 +1,6 @@
 ## Sugárvédelmi szakértő
 
-16/B. § (1) Az atomenergia alkalmazása körében sugárvédelmi szakértői tevékenység folytatásához az atomenergia-felügyeleti szerv által kiadott engedély, vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 23. § (1) bekezdés a) pontja szerinti igazolás szükséges. A tevékenység folytatását az atomenergia-felügyeleti szerv annak engedélyezi, aki rendelkezik az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek.
+16/B. § (1) Az atomenergia alkalmazása körében sugárvédelmi szakértői tevékenység folytatásához az atomenergia-felügyeleti szerv által kiadott engedély, vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 23. § (1) bekezdés a) pontja szerinti igazolás szükséges. A tevékenység folytatását az atomenergia-felügyeleti szerv annak engedélyezi, aki rendelkezik az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló elnöki rendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek.
 
 (2) Sugárvédelmi szakértői tevékenységet az erre feljogosított
 

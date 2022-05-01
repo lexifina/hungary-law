@@ -48,6 +48,8 @@ távolságon belüli terület.
 
 (3) Az atomenergia-felügyeleti szerv hatáskörébe tartozó ügyekben az eljárás megindítására irányuló kérelmet kizárólag írásban, eredeti példányban, az eljárásra hatáskörrel rendelkező hatóságnál lehet előterjeszteni.
 
+(3a) A nukleáris létesítmények nukleáris biztonsági követelményei és az ezzel összefüggő hatósági tevékenységek esetén egyes, az atomenergia-felügyeleti szerv által lefolytatott eljárásban, az elnök rendeletében meghatározottak szerint a benyújtandó műszaki dokumentáció nyelve magyar vagy angol nyelvű.
+
 (4) Az atomenergia-felügyeleti szerv az (1) bekezdés a) és e) pontjában meghatározott eljárásaiban a döntése meghozatala előtt – a nyilvánosság véleményének megismerése érdekében – közmeghallgatást tart.
 
 (5) Az atomenergia-felügyeleti szerv legalább 15 nappal a közmeghallgatás előtt a közmeghallgatás helyéről, időpontjáról és az eljárás tárgyáról
