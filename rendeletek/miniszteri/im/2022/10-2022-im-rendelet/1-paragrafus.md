@@ -1,3 +1,3 @@
-## 1.[^1]
+## 1. A jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet módosítása
 
-[^1]: Az 1. alcím (1. §) a 4. § (2) bekezdése alapján 2022. május 1-jén lép hatályba.
+1. § (1) A jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet (a továbbiakban: Jszr.) 22. § (2) bekezdése helyébe a következő rendelkezés lép:
