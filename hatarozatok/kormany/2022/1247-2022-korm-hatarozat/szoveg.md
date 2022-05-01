@@ -1,1 +1,0 @@
-Az Országos Polgárőr Szövetség tagegyesületei állományának határőrizeti feladatokba történő fokozottabb bevonásáról és az azzal összefüggő források biztosításáról szóló 1036/2022. (II. 2.) Korm. határozat 3. pontjában az „április” szövegrész helyébe a „június” szöveg lép.
