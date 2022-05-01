@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (12) bekezdés 2. pontjában kapott felhatalmazás alapján, az atomenergiáról szóló 1996. évi CXVI. törvény 6/J. § (1) bekezdés j) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
