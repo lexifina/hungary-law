@@ -1,0 +1,1 @@
+58. § Ha a kérelmező a kérelmet megalapozó dokumentációt nem elektronikus ügyintézés keretében nyújtja be, akkor e dokumentációt két nyomtatott példányban, valamint az OAH-hal egyeztetett szerkeszthető változatban, elektronikus adathordozón egy példányban kell benyújtania.

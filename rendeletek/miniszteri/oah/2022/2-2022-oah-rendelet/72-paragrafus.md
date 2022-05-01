@@ -1,0 +1,3 @@
+72. § (1) 2020. június 5-től a 2016. január 1-je előtt üzembe helyezett berendezések az ÁNTSZ OTH által 2016. január 1-je előtt kiadott engedély vagy sugárvédelmi szakértő által végzett megfelelőségi vizsgálat alapján üzemeltethetők.
+
+(2) A (2) bekezdés szerinti sugárvédelmi szakértő által végzett megfelelőségi vizsgálatnak igazolnia kell, hogy a berendezés vagy készülék megfelel a rá vonatkozó szabványban vagy más műszaki irányelvben foglalt sugárvédelmi előírásoknak, és sugárvédelmi szempontból megfelel az egészséget nem veszélyeztető, biztonságos munkavégzés követelményeinek, továbbá az üzemeltetés biztonsági feltételei és korlátai megállapíthatók.
