@@ -1,1 +1,3 @@
-## 3. § A Rendelet 2. § (2) bekezdés 9. pontjában és 34. § (1) bekezdés g) pontjában a „19.” szövegrész helyébe a „16.” szöveg lép.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
