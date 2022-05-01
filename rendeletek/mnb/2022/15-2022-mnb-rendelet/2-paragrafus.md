@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 12,5 gramm, átmérője 30 mm, széle recézett.
+
+(2) Az emlékérme előlapján, Lax Péter életművére – az elméleti, az alkalmazott és a számítógépes matematika együttélésére – utalva, hullámzó víz és a hullámok mozgását modellező görbék ábrázolása látható. Az előlap szélén, fent, köriratban a „MAGYARORSZÁG” felirat, alatta, kissé jobbra, két egymás alatti sorban a „2000” értékjelzés és a „FORINT” felirat, lent, középre rendezve, két egymás alatti sorban a „2022” verési évszám és a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Lax Péter ábrázolása látható, amint egy képzeletbeli táblára ír. A hátlap szélén, köriratban, bal oldalon a – Lax Péter kiemelkedő matematikai díjait és az odaítélés évét jelölő – „WOLF-DÍJ 1987, ABEL-DÍJ 2005” felirat, fent a „LAX PÉTER” felirat olvasható, alatta a parciális deriválás matematikai jelölése látható. A hátlap szélén, lent – az ábrázolásba illesztve – Horváth Andrea tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
