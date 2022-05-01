@@ -16,7 +16,9 @@ f) a Nemzeti Média- és Hírközlési Hatóság elnöke esetén „A Nemzeti M�
 
 g) a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke esetén „A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének” szöveg,
 
-h) a helyi önkormányzat képviselő-testülete esetén a helyi önkormányzat megnevezése és azt követően a „képviselő-testületének” szöveg vagy – közgyűlés esetén – a „közgyűlésének” szöveg.
+h)[^11] az Országos Atomenergia Hivatal elnöke esetén az „Az Országos Atomenergia Hivatal elnökének” szöveg,
+
+i)[^12] a helyi önkormányzat képviselő-testülete esetén a helyi önkormányzat megnevezése és azt követően a „képviselő-testületének” szöveg vagy – közgyűlés esetén – a „közgyűlésének” szöveg.
 
 (2) A jogszabály megalkotója megjelölésének a rövidítése
 
@@ -32,7 +34,12 @@ e) a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke esetén „ME
 
 f) a Nemzeti Média- és Hírközlési Hatóság elnöke esetén „NMHH”.
 
-g)[^11] a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke esetén „SZTFH”.
+g)[^13] a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke esetén „SZTFH”.
+
+h)[^14] az Országos Atomenergia Hivatal elnöke esetén „OAH”.
 
 [^10]: A 13. § (1) bekezdése a 10/2021. (IX. 30.) IM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^11]: A 13. § (2) bekezdés g) pontját a 10/2021. (IX. 30.) IM rendelet 12. § (2) bekezdése iktatta be.
+[^11]: A 13. § (1) bekezdés h) pontja a 10/2022. (IV. 7.) IM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: A 13. § (1) bekezdés i) pontját a 10/2022. (IV. 7.) IM rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 13. § (2) bekezdés g) pontját a 10/2021. (IX. 30.) IM rendelet 12. § (2) bekezdése iktatta be.
+[^14]: A 13. § (2) bekezdés h) pontját a 10/2022. (IV. 7.) IM rendelet 2. § (3) bekezdése iktatta be.
