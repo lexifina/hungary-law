@@ -28,11 +28,13 @@ g) a Nemzeti Média- és Hírközlési Hatóság elnökének rendeletére az „
 
 h) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendeletére az „a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendelete” megjelöléssel,
 
-i) önkormányzati rendeletre a megalkotó önkormányzat egyértelmű megjelölését követően a „rendelete” megjelöléssel,
+i) az Országos Atomenergia Hivatal elnökének rendeletére az „az Országos Atomenergia Hivatal elnökének rendelete” megjelöléssel,
 
-j) előre meg nem határozható önkormányzatok rendeleteire az „önkormányzati rendelet” megjelöléssel,
+j) önkormányzati rendeletre a megalkotó önkormányzat egyértelmű megjelölését követően a „rendelete” megjelöléssel,
 
-k) valamennyi jogszabályra a „jogszabály” megjelöléssel
+k) előre meg nem határozható önkormányzatok rendeleteire az „önkormányzati rendelet” megjelöléssel,
+
+l) valamennyi jogszabályra a „jogszabály” megjelöléssel
 
 kell hivatkozni.
 
@@ -40,4 +42,4 @@ kell hivatkozni.
 
 (4) A jogszabály tervezete nem tartalmazhat olyan rendelkezést, amely kizárólag általános hivatkozást tartalmaz.
 
-[^24]: A 22. § (2) bekezdése a 10/2021. (IX. 30.) IM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^24]: A 22. § (2) bekezdése a 10/2022. (IV. 7.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.

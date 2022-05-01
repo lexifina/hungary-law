@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-61-20-1
 | 2013-10-15 | 2009-61-20-1U.6 | 25/2013. (X. 14.) KIM rendelet |
 | 2014-02-25 | 2009-61-20-1U.7 | 10/2014. (II. 25.) KIM rendelet |
 | 2021-10-01 | 2009-61-20-1U.8 | 10/2021. (IX. 30.) IM rendelet |
+| 2022-05-01 | 2009-61-20-1U.9 | 10/2022. (IV. 7.) IM rendelet |

@@ -12,9 +12,11 @@ d) a Magyar Energetikai és Közmű-szabályozási Hivatal elnökét,
 
 e) a Nemzeti Média- és Hírközlési Hatóság elnökét,
 
-f) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökét vagy
+f) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökét,
 
-g) helyi önkormányzatot
+g) az Országos Atomenergia Hivatal elnökét vagy
+
+h) a helyi önkormányzatot
 
 lehet megjelölni.
 
@@ -24,4 +26,4 @@ lehet megjelölni.
 
 (4) Ha a felhatalmazás azonos tárgykörben minden miniszternek önálló rendelet kiadására szól, a felhatalmazás címzettjeit általánosan, többes számban kell megjelölni.
 
-[^55]: A 75. § (1) bekezdése a 10/2021. (IX. 30.) IM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^55]: A 75. § (1) bekezdése a 10/2022. (IV. 7.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
