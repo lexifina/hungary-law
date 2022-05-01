@@ -2,4 +2,6 @@
 
 (2) A 4. § 2022. március 1-jén lép hatályba.
 
-(3) Az 5. § 2022. május 1-jén lép hatályba.
+(3) Az 5. § 2022. május 1-jén lép hatályba.[^4]
+
+[^4]: Az 5. § a 164/2022. (IV. 28.) Korm. rendelet 8. §-a alapján nem lép hatályba.

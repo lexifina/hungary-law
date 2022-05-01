@@ -1,3 +1,3 @@
-5. §[^3]
+5. §[^5]
 
-[^3]: Az 5. § a 3. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^5]: Az 5. § a 164/2022. (IV. 28.) Korm. rendelet 8. §-a alapján nem lép hatályba.
