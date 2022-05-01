@@ -1,0 +1,1 @@
+## 31. § Az engedélyes mindaddig, amíg felelős a nukleáris létesítmény nukleáris biztonságáért, folyamatosan megteszi mindazokat az intézkedéseket, amelyekkel biztosítja a biztonsági politika végrehajtását.
