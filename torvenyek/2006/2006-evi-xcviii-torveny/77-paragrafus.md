@@ -56,7 +56,7 @@ m)
 
 n) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógusra vonatkozó részletes szabályokat,
 
-o)
+o) a közgyógyellátás jogcímen rendelhető gyógyszerekre vonatkozó támogatási szempontokat,
 
 p) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének feltételeit,
 
