@@ -1,3 +1,3 @@
-63. §[^69]
+63. §[^66]
 
-[^69]: A 63. § a 79. § (5) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^66]: A 63. § a 229/2022. (VI. 28.) Korm. rendelet 23. §-a alapján nem lép hatályba.

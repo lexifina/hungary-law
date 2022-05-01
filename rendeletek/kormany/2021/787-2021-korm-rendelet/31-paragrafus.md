@@ -1,3 +1,3 @@
-31. §[^36]
+31. §[^33]
 
-[^36]: A 31. § a 79. § (5) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^33]: A 31. § a 229/2022. (VI. 28.) Korm. rendelet 23. §-a alapján nem lép hatályba.
