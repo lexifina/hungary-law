@@ -1,0 +1,1 @@
+## kell alkalmazni, azzal, hogy illeték helyett díjat, az ügyfél lakóhelye, székhelye vagy a bíróság székhelye szerint illetékes állami adóhatóság helyett az elsőfokú eljárást lefolytató engedélyező szervet, hatóság és közigazgatási hatóság helyett engedélyező szervet, lelet helyett jegyzőkönyvet kell érteni.
