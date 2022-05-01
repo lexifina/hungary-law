@@ -1,71 +1,49 @@
-## 4. §[^7]
+## lép.
 
 ## 5. § Hatályát veszti a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet
 
-1.[^8]
+1. 2. § (1) bekezdés b) és c) pontja,
 
-2.[^9]
+2. 2. § (1) bekezdés e) pontjában az „az oltottság tényének igazolása esetén” szövegrész,
 
-3.[^10]
+3. 2. § (1) bekezdés f) pontja,
 
-4.[^11]
+4. 2. § (1a)–(1c) bekezdése,
 
-5.[^12]
+5. 2. § (2)–(4c) bekezdése,
 
-6.[^13]
+6. 2. § (6) bekezdésében a „– (7) bekezdésben foglalt kivétellel –” szövegrész,
 
-7.[^14]
+7. 2. § (6) bekezdés a)–c) pontja,
 
-8.[^15]
+8. 2. § (6a)–(9) bekezdése,
 
-9.[^16]
+9. 2. § (10a) bekezdésében a „(8) és a” szövegrész,
 
-10.[^17]
+10. 2. § (13) bekezdésében a „b) pontja” szövegrész,
 
-11.[^18]
+11.[^3]
 
-12.[^19]
+12. 3. § (1) és (3) bekezdésében a „c) és” szövegrész,
 
-13.[^20]
+13. 3. § (1a) és (2) bekezdése,
 
-14.[^21]
+14. 3. § (2a) bekezdésében a „b) pontja” szövegrész, valamint az „– a 2. § (8) bekezdésében meghatározottak szerint, díjmentesen –” szövegrész,
 
-15.[^22]
+15. 3. § (4) bekezdés a) és b) pontja,
 
-16.[^23]
+16. 3. § (4) bekezdés c) pontjában a „ , továbbá az állandó személyazonosító igazolványának a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: 1992. évi LXVI. törvény) 11. § (1) bekezdés n) pontja, valamint az 1992. évi LXVI. törvény 29. § (2) bekezdése szerinti adatait” szövegrész,
 
-17.[^24]
+17. 4. § (3) bekezdés d) pontja,
 
-18.[^25]
+18. 6. §-ában az „és a gyógyult személy 2. § (4) bekezdése, illetve 3. § (2) bekezdése” szövegrész,
 
-19.[^26]
+19. 7/A. § (2)–(4) bekezdése,
 
-20.[^27]
+20. 7/A. § (5) bekezdésében a „vagy fertőzöttség” szövegrész,
 
-21.[^28]
+21. 7/A. § (6)–(8) bekezdése,
 
-22.[^29]
+22. 7/A. § (9) bekezdésében a „(2) és” szövegrész, valamint a „ , valamint – a (2) bekezdésben foglalt esetben – a tartózkodási engedélyének számát” szövegrész.
 
-[^7]: A 4. § a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^8]: Az 5. § 1. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^9]: Az 5. § 2. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^10]: Az 5. § 3. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^11]: Az 5. § 4. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^12]: Az 5. § 5. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^13]: Az 5. § 6. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^14]: Az 5. § 7. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^15]: Az 5. § 8. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^16]: Az 5. § 9. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^17]: Az 5. § 10. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^18]: Az 5. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: Az 5. § 12. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^20]: Az 5. § 13. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^21]: Az 5. § 14. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^22]: Az 5. § 15. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^23]: Az 5. § 16. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^24]: Az 5. § 17. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^25]: Az 5. § 18. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^26]: Az 5. § 19. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^27]: Az 5. § 20. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^28]: Az 5. § 21. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
-[^29]: Az 5. § 22. pontja a 9. § (3) bekezdése alapján 2022. május 1-jén lép hatályba.
+[^3]: Az 5. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
