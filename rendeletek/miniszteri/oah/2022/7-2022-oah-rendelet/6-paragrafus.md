@@ -1,0 +1,1 @@
+## 5. § A szakmagyakorlási alkalmasság nyilvántartásba vétele iránti eljárás elektronikusan, a szakmagyakorlási jogosultsági eljárást támogató elektronikus dokumentációs rendszer segítségével benyújtott kérelemre indul.
