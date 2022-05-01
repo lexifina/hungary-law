@@ -1,1 +1,0 @@
-## 4. § Az e rendeletben meghatározott tájékoztatási kötelezettségeket elektronikus úton is teljesíteni kell a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium hivatalos honlapján közzétett, az e rendelet mellékleteit képező táblázatok ott meghatározott formátumaiban.
