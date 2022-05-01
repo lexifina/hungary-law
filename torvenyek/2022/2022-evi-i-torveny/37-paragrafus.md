@@ -1,1 +1,5 @@
-37. §
+37. § Az Mötv. Átmeneti rendelkezések alcíme a következő 146/I. §-sal egészül ki:
+
+„146/I. § (1) Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv2.) megyei jogú várossá nyilvánított település törvényben meghatározott megyei jogú városi jogállásából származó feladatait a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően, a megyei jogú város közgyűlésének alakuló ülésétől látja el.
+
+(2) A Módtv2.-vel megyei jogú várossá nyilvánítás – a törvény szerinti feladatok ellátásának a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásáig való változatlansága miatt – nem érinti az érintett település képviselő-testületét és a megye közgyűlését, arra tekintettel időközi önkormányzati választás kitűzése nem szükséges.”
