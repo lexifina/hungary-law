@@ -1,0 +1,1 @@
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (6) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § (1) bekezdés 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

@@ -1,0 +1,1 @@
+## 4. § A kormánymegbízott a Korm. Rendelet 33. § (6) bekezdés a) és d) pontja szerinti jelentéseit, valamint tájékoztatásait az 1–4. melléklet szerinti táblázatokban meghatározott formátum szerint, elektronikus formában és elektronikus úton küldi meg a közigazgatás-szervezésért felelős miniszter részére.
