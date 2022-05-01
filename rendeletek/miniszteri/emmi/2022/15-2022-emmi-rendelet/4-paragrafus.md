@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti az R.2. 2. melléklet 10. OBEZITOLÓGIA alcím 7. pontja.
+## 3. §[^4]
 
 ## 3. Záró rendelkezések
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
