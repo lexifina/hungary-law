@@ -2,6 +2,6 @@
 
 (2) A megyei jogú város települési önkormányzat, amely – törvényben meghatározottak szerint, az abban foglalt kivételekkel – azokat a közszolgáltatásokat is biztosítja, melyek saját területén túl a megye egészére vagy nagy részére kiterjednek.
 
-(3) Megyei jogú város a megyeszékhely város és az Országgyűlés által e törvény hatálybalépése előtt megyei jogúvá nyilvánított város.
+(3) Megyei jogú város a megyeszékhely város, az Országgyűlés által e törvény hatálybalépése előtt megyei jogúvá nyilvánított város, valamint az a város, amelyet a 3. melléklet megyei jogú városként határoz meg.
 
 (4) A megyei jogú város képviselő-testülete a közgyűlés.
