@@ -1,0 +1,5 @@
+10. § (1) Az 1 effektív kilogrammot meghaladó nukleáris anyag Magyarországra történő beszállításáról az 1. melléklet 5. sz. adatlapja szerinti előzetes értesítést kell küldeni a nukleáris és radioaktív anyagok hatóságának a nukleáris anyag kicsomagolása előtt legalább öt munkanappal.
+
+(2) Ha a nukleáris anyag több különálló szállítmányban való beszállítása történik ugyanazon országból, és a szállítmányok mindegyike kevesebb 1 effektív kilogrammnál, azonban összességük várhatóan meg fogja haladni az 1 effektív kilogrammot tizenkét hónapos időtartamon belül, a szállításról előzetes értesítést kell küldeni a nukleáris és radioaktív anyagok hatóságának legalább 5 munkanappal az első ilyen szállítmány kicsomagolása előtt. A további szállítmányokat vagy az elsővel egy időben kell jelezni, vagy mindegyiket külön legalább 5 munkanappal kicsomagolása előtt.
+
+(3) A nukleáris és radioaktív anyagok hatósága legalább az előzetes értesítésben megjelölt kicsomagolási időt 24 órával megelőzően írásban nyilatkozik a tervezett helyszíni ellenőrzésről.

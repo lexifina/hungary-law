@@ -1,0 +1,3 @@
+16. § (1) Amennyiben a nukleáris anyaggal rendelkező szervezet az Euratom rendelet 3. cikk (1) bekezdése alapján az Európai Bizottság részére adatszolgáltatásra kötelezett, akkor a 14. § szerinti adatszolgáltatási kötelezettségének úgy is eleget tehet, hogy az Európai Bizottság részére az Euratom rendelet I. mellékletének megfelelő adatszolgáltatást a nukleáris és radioaktív anyagok hatóságának egyidejűleg megküldi.
+
+(2) Az (1) bekezdés alá nem tartozó nukleáris anyaggal rendelkező szervezet a 14. § szerinti adatokat 30 nappal a nukleáris anyaggal kapcsolatos tevékenység megkezdése, illetve a nukleáris anyagnak a helyszínre történő érkezése előtt kell, hogy a nukleáris és radioaktív anyagok hatósága részére bejelentse.

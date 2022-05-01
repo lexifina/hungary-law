@@ -1,0 +1,9 @@
+## 23. § Ha Magyarország által a Biztosítéki Egyezményben, valamint a Kiegészítő Jegyzőkönyvben vállalt, illetve azt az Euratom Szerződésben és az Euratom rendeletben előírt kötelezettségek maradéktalan teljesítése szükségessé teszi, a nukleáris és radioaktív anyagok hatósága a nukleáris anyaggal rendelkező, illetve adatszolgáltatásra kötelezett szervezeteket eseti adat-, illetve információszolgáltatásra és jelentéstételre is kötelezheti.
+
+24. § (1) Az a nukleáris anyaggal rendelkező szervezet, amely az Euratom rendelet 19. cikke alapján az Euratom rendelet 10–18. cikke bármelyike alól az Európai Bizottságtól átmeneti mentességet kapott, erről, illetve az átmeneti mentesség megszűnéséről a nukleáris és radioaktív anyagok hatóságát haladéktalanul írásban tájékoztatja. A tájékoztatáshoz mellékelni kell az átmeneti mentességet, illetve annak megszűnését igazoló dokumentumok másolatát.
+
+(2) Az a nukleáris anyaggal rendelkező szervezet, amely a Biztosítéki Egyezmény 36., illetve 37. cikke alapján a rendelkezése alá tartozó nukleáris anyag nemzetközi ellenőrzése alól mentességet kapott, erről, illetve a mentesség megszűnéséről a nukleáris és radioaktív anyagok hatóságát haladéktalanul írásban tájékoztatja. A tájékoztatáshoz mellékelni kell a mentességet, illetve a mentesség megszűnését igazoló dokumentumok másolatát.
+
+(3) Az (1) bekezdés szerinti átmeneti mentességet, illetve a (2) bekezdés szerinti mentességet a nukleáris anyaggal rendelkező szervezet helyi nukleáris anyag nyilvántartásában és a nukleáris anyagok központi nyilvántartásában fel kell tüntetni.
+
+(4) A nemzetközi ellenőrzés alól mentesített nukleáris anyagról a nukleáris anyaggal rendelkező szervezet a 2. melléklet 6. sz. adatlapját állítja ki és küldi meg a nukleáris és radioaktív anyagok hatóságának minden év február 15-éig.
