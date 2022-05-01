@@ -1,4 +1,4 @@
-1. melléklet a 41/2019. (XI. 19.) BM rendelethez[^3]
+1. melléklet a 41/2019. (XI. 19.) BM rendelethez[^4]
 
 ## A nem a Kormány irányítása vagy felügyelete alatt álló központi költségvetési szervek részére kizárólagos jog alapján nyújtott központosított infokommunikációs közszolgáltatások
 
@@ -30,7 +30,7 @@
 
 | alkalmazástámogatás és alkalmazásfejlesztés | 2020. 01. 01. |
 
-| 9. | IdomSoft Informatikai Zrt. | RZS NOVA Versenyfelügyeleti és Bírság szakrendszer | alkalmazásfejlesztés (alap) | 2021. 07. 01. |
+| 9. | IdomSoft Informatikai Zrt. | RZS NOVA Versenyfelügyeleti és Bírság szakrendszer | alkalmazásfejlesztés (alap) | 9. § (1) bekezdése szerint 2021.07.01. |
 
 | alkalmazástámogatás és alkalmazásfejlesztés |
 
@@ -68,7 +68,7 @@
 
 | 12. | IdomSoft Informatikai Zrt. | Választási Kapu | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
-| 13. | IdomSoft Informatikai Zrt. | Választási Ügysegéd | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
+| 13. | IdomSoft Informatikai Zrt. | Választási Ügyintézési Felület | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
 | 14. | IdomSoft Informatikai Zrt. | Választástörténeti adatbázis | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
@@ -76,7 +76,7 @@
 
 | 16. | IdomSoft Informatikai Zrt. | Választási tájékoztató rendszer | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
-| 17. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Választási igazgatási és informatikai próbák szervezése és lebonyolítása | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
+| 17. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Választási igazgatási és informatikai próbák szervezése és lebonyolítása | alkalmazásfejlesztés, alkalmazástámogatás | 9. § (1) bekezdése szerint |
 
 | 18. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Választási rendszerek minőségbiztosítása | szolgáltatás nyújtása | 9. § (1) bekezdése szerint |
 
@@ -87,6 +87,14 @@
 | 21. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | VIP adatállomány konzisztenciájának automatikus ellenőrzése | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
 | 22. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Választásnapi havária rendszer | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
+
+| 23. | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | Adatátviteli szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
+
+| 24. | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | e-FAX szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
+
+| 25. | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | Fizikai szerver hoszting szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
+
+| 26. | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | Választási rendszer központi infrastruktúra üzemeltetési szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
 
 3. Az Alapvető Jogok Biztosa Hivatalának az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 39/M. § (7) bekezdése szerinti szervezeti egységének nyújtott közszolgáltatások
 
@@ -318,4 +326,4 @@
 
 | 14. | Kopint-Datorg Informatikai és Vagyonkezelő Kft. | iFORM űrlapok OBH általi szerkesztéséhez alkalmazás-üzemeltetés támogatás keretében nyújtott szakértői támogatás, tanácsadás | alkalmazás-üzemeltetés támogatás | 7/2022. (IV. 14.) BM rendelet hatálybalépésének napja |
 
-[^3]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a szerint módosított szöveg.

@@ -10,9 +10,9 @@ b) az 5. § (1) bekezdés b) pontja szerint a központi szolgáltatóval közvet
 
 ## biztosítja.
 
-(2a)[^1] A (2) bekezdéstől eltérően a közszolgáltatások ellentételezését – ha a szükséges költségvetési forrás a 2. § (1) bekezdése szerinti megállapodás megkötését megelőzően a miniszter által vezetett minisztérium költségvetésében rendelkezésre áll – az 5. § (1) bekezdés a) pontja szerinti közszolgáltatási szerződés keretében történő igénybevétel esetén a miniszter által vezetett minisztérium a saját költségvetése terhére biztosítja.
+(2a)[^2] A (2) bekezdéstől eltérően a közszolgáltatások ellentételezését – ha a szükséges költségvetési forrás a 2. § (1) bekezdése szerinti megállapodás megkötését megelőzően a miniszter által vezetett minisztérium költségvetésében rendelkezésre áll – az 5. § (1) bekezdés a) pontja szerinti közszolgáltatási szerződés keretében történő igénybevétel esetén a miniszter által vezetett minisztérium a saját költségvetése terhére biztosítja.
 
-(3)[^2] A Kormánytól független szerv vagy a miniszter által vezetett minisztérium a közszolgáltatások (2) és (2a) bekezdés szerinti ellentételezéseként, a közszolgáltatás nyújtására kötelezett központi szolgáltatónál a közszolgáltatás nyújtásával összefüggésben felmerült, objektív módon igazolható, az e rendeletben meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költség (a továbbiakban: nettó költség), az állam javára jogszabály alapján fizetendő pénzbeli kötelezettség, valamint az e rendeletben meghatározott mértékű észszerű nyereség összegét téríti meg.
+(3)[^3] A Kormánytól független szerv vagy a miniszter által vezetett minisztérium a közszolgáltatások (2) és (2a) bekezdés szerinti ellentételezéseként, a közszolgáltatás nyújtására kötelezett központi szolgáltatónál a közszolgáltatás nyújtásával összefüggésben felmerült, objektív módon igazolható, az e rendeletben meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költség (a továbbiakban: nettó költség), az állam javára jogszabály alapján fizetendő pénzbeli kötelezettség, valamint az e rendeletben meghatározott mértékű észszerű nyereség összegét téríti meg.
 
 (4) A központi szolgáltató észszerű nyereséget a (6) bekezdésben foglalt mértékben számolhat el
 
@@ -34,5 +34,5 @@ c) a fejlesztési tárgyú közszolgáltatás vagy üzemeltetési és fejleszté
 
 (7) A központi szolgáltató a közszolgáltatás ellentételezése összegének megállapítására irányuló előkalkulációja során a közszolgáltatásokra vonatkozóan a miniszter által jóváhagyott árképzési szabályokat alkalmazza azzal, hogy az e rendelet alapján nyújtott közszolgáltatásokhoz kapcsolódóan a tervezett nettó költségek alapulvételével a (6) bekezdés szerint megállapított észszerű nyereséget számít fel. Az előkalkuláció alapján megállapított – az észszerű nyereség összegét is magába foglaló – szolgáltatási díjról és annak fizetésére vonatkozó igényéről a központi szolgáltató előzetes árajánlatában köteles a megrendelő szervet tájékoztatni.
 
-[^1]: A 7. § (2a) bekezdését a 7/2022. (IV. 14.) BM rendelet 1. §-a iktatta be.
-[^2]: A 7. § (3) bekezdése a 7/2022. (IV. 14.) BM rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: A 7. § (2a) bekezdését a 7/2022. (IV. 14.) BM rendelet 1. §-a iktatta be.
+[^3]: A 7. § (3) bekezdése a 7/2022. (IV. 14.) BM rendelet 3. § a) pontja szerint módosított szöveg.

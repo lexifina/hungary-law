@@ -14,4 +14,6 @@ d) a közszolgáltatási kötelezettség pontos tartalmát, mennyiségi és min�
 
 e) a közszolgáltatás nyújtásának kezdő időpontját, és – ha ismert – időtartamát vagy a várható befejezés időpontját és
 
-f) a közszolgáltatás nyújtásáért fizetendő ellentételezés összegét és megfizetésének módját.
+f)[^1] a közszolgáltatás nyújtásáért fizetendő ellentételezés megfizetésének módját.
+
+[^1]: A 2. § (2) bekezdés f) pontja a 10/2022. (IV. 21.) BM rendelet 2. §-a szerint módosított szöveg.
