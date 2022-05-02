@@ -1,0 +1,9 @@
+# 9/2022. (V. 2.) OGY határozat
+
+az Országgyűlés alelnökeinek, a törvényalkotásért felelős alelnökének, valamint jegyzőinek megválasztásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-9-30-41
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-05-02 | 2022-9-30-41.1 | 9/2022. (V. 2.) OGY határozat |
