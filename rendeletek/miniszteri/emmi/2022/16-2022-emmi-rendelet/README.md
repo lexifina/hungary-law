@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-16-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-05-01 | 2022-16-20-5H.1 | 16/2022. (IV. 29.) EMMI rendelet |
+| 2022-05-02 | 2022-16-20-5H.2 | 2010: CXXX. törvény |
