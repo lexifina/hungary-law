@@ -1,3 +1,3 @@
-## 126/C. §[^384]
+126/D. §[^390]
 
-[^384]: A 126/C. §-t a 148/2012. (XII. 28.) VM rendelet 18. §-a iktatta be, hatályon kívül helyezte a 67/2015. (X. 30.) FM rendelet 10. § a) pontja.
+[^390]: A 126/D. §-t a 13/2014. (IX. 25.) FM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 7/2020: (VI. 10.) MvM rendelet 14. § o) pontja.

@@ -1,3 +1,3 @@
-## 102. §[^307]
+103. §[^313]
 
-[^307]: A 102. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § j) pontja hatályon kívül helyezte.
+[^313]: A 103. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## 118/C. §[^352] A termőföld védelméről szóló törvény alkalmazása során az átlagos minőségű termőföld meghatározásához felhasználandó törzskönyv az tv. 82. §-ában foglaltakon túl tartalmazza művelési áganként a minőségi osztályok adatai alapján egy hektár területre kiszámított átlag aranykorona értéket is.
+## 118/C. §[^357] A termőföld védelméről szóló törvény alkalmazása során az átlagos minőségű termőföld meghatározásához felhasználandó törzskönyv az tv. 82. §-ában foglaltakon túl tartalmazza művelési áganként a minőségi osztályok adatai alapján egy hektár területre kiszámított átlag aranykorona értéket is.
 
-118/D. §[^353] (1) A társasházakra és szövetkezeti házakra vonatkozó, a (4) bekezdésben meghatározott dokumentumok elektronikus úton is megismerhetőek (elektronikus iratbetekintés).
+118/D. §[^358] (1) A társasházakra és szövetkezeti házakra vonatkozó, a (4) bekezdésben meghatározott dokumentumok elektronikus úton is megismerhetőek (elektronikus iratbetekintés).
 
 (2) Az elektronikus iratbetekintés a Kormány által biztosított azonosítási ügynök szolgáltatáson keresztül benyújtott kérelem alapján szolgáltatható.
 
@@ -18,7 +18,7 @@ d) társasházak, szövetkezeti házak alaprajza vagy egyéb ábrázolása;
 
 e) társasház, szövetkezeti ház alapítására vagy módosítására irányuló ingatlan-nyilvántartási kérelem;
 
-f)[^354] társasház, szövetkezeti ház alapítása vagy módosítása ingatlan-nyilvántartási átvezetéshez szükséges építésügyi vagy építésfelügyeleti hatósági okirat (használatbavételi engedély, fennmaradási engedély, hatósági bizonyítvány, stb.);
+f)[^359] társasház, szövetkezeti ház alapítása vagy módosítása ingatlan-nyilvántartási átvezetéshez szükséges építésügyi vagy építésfelügyeleti hatósági okirat (használatbavételi engedély, fennmaradási engedély, hatósági bizonyítvány, stb.);
 
 g) társasház, szövetkezeti ház alapításával, vagy módosításával egyidejűleg benyújtott, tulajdonjog bejegyzéséhez szükséges tulajdonosi hozzájáruló nyilatkozat;
 
@@ -32,6 +32,6 @@ h) társasház, szövetkezeti ház alapításával, módosításával érintett 
 
 (8) Az elektronikus iratbetekintéssel bármely okból meg nem ismerhető dokumentumokra vonatkozó kérelmeket az ingatlanügyi hatóság az iratbetekintésre vonatkozó általános szabályok alapján bírálja el.
 
-[^352]: A 118/C. §-t a 47/2017. (IX. 29.) FM rendelet 23. § (3) bekezdése iktatta be, szövege a 7/2020. (VI. 10.) MvM rendelet 13. § 8. pontja szerint módosított szöveg.
-[^353]: A 118/D. §-t a 60/2017. (XII. 20.) FM rendelet 21. §-a iktatta be.
-[^354]: A 118/D. § (4) bekezdés f) pontja a 8/2018. (VI. 29.) AM rendelet 69. § (4) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 67. §-át.
+[^357]: A 118/C. §-t a 47/2017. (IX. 29.) FM rendelet 23. § (3) bekezdése iktatta be, szövege a 7/2020. (VI. 10.) MvM rendelet 13. § 8. pontja szerint módosított szöveg.
+[^358]: A 118/D. §-t a 60/2017. (XII. 20.) FM rendelet 21. §-a iktatta be.
+[^359]: A 118/D. § (4) bekezdés f) pontja a 8/2018. (VI. 29.) AM rendelet 69. § (4) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 67. §-át.

@@ -1,3 +1,5 @@
-## 66.[^376]
+## 66.[^381]
 
-[^376]: A 66. alcímet (120–122. §) a 7/2020: (VI. 10.) MvM rendelet 14. § l) pontja hatályon kívül helyezte.
+120. §
+
+[^381]: A 66. alcímet (120–122. §) a 7/2020: (VI. 10.) MvM rendelet 14. § l) pontja hatályon kívül helyezte.

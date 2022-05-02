@@ -1,3 +1,3 @@
-## 71. §[^243]
+72. §[^247]
 
-[^243]: A 71. §-t a 8/2018. (VI. 29.) AM rendelet 69. § (5) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 67. §-át.
+[^247]: A 72. §-t a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése hatályon kívül helyezte.

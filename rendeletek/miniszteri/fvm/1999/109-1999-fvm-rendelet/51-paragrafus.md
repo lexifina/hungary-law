@@ -1,5 +1,3 @@
-## 50/E. §
-
 ## 48.[^167] Az alrészlet
 
 51. § (1)[^168] A település belterületén az egy hektárt meghaladó földrészleten és a külterületen valamennyi földrészleten belül a különböző művelési ágak területét, továbbá a művelés alól kivett területet – a (3) bekezdésben foglaltakra figyelemmel – alrészletként kell nyilvántartani, ha azok nagysága legalább 400 m2.

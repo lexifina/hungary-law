@@ -1,3 +1,6 @@
-## 125. §[^379] Ahol e rendelet csak bejegyzést említ, azalatt a tények feljegyzését is érteni kell.
+## 125. §[^384] Ahol e rendelet csak bejegyzést említ, azalatt a tények feljegyzését is érteni kell.
 
-[^379]: A 125. §-t a 117/2005. (XII. 19.) FVM rendelet 48. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+125/A. §[^385]
+
+[^384]: A 125. §-t a 117/2005. (XII. 19.) FVM rendelet 48. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^385]: A 125/A. §-t a 29/2015. (VI. 5.) FM rendelet 4. § (7) bekezdése iktatta be, hatályon kívül helyezte a 7/2020: (VI. 10.) MvM rendelet 14. § n) pontja.

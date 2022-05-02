@@ -1,3 +1,3 @@
-## 101. §[^306]
+102. §[^312]
 
-[^306]: A 101. §-t a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése hatályon kívül helyezte.
+[^312]: A 102. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § j) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 103. §[^308]
+104. §[^314]
 
-[^308]: A 103. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.
+[^314]: A 104. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § k) pontja hatályon kívül helyezte.

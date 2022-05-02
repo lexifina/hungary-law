@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-109-20-
 | 2018-01-01 | 1999-109-20-82.30 | 60/2017. (XII. 20.) FM rendelet |
 | 2018-07-14 | 1999-109-20-82.31 | 8/2018. (VI. 29.) AM rendelet |
 | 2020-06-18 | 1999-109-20-82.32 | 7/2020. (VI. 10.) MvM rendelet |
+| 2022-05-02 | 1999-109-20-82.33 | 9/2022. (IV. 29.) MvM rendelet |

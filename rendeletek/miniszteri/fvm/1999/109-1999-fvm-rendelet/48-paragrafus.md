@@ -14,7 +14,7 @@ ba) amelynek területnagysága ötezer négyzetméternél kisebb vagy
 
 bb) amelynek kiterjedése – a szélső fák egymástól mért tőtávolsága szerint – átlagosan húsz méternél keskenyebb,
 
-## ha azokat az Országos Erdőállomány Adattár erdőrészletként nem tartja nyilván, illetve ha azokat e rendelet szerint nem kell más művelési ágban vagy művelés alól kivett területként nyilvántartani.
+ha azokat az Országos Erdőállomány Adattár erdőrészletként nem tartja nyilván, illetve ha azokat e rendelet szerint nem kell más művelési ágban vagy művelés alól kivett területként nyilvántartani.
 
 (2) Az (1) bekezdésben foglaltakon túl fásított terület művelési ágban kell nyilvántartani az Országos Erdőállomány Adattárban szabad rendelkezésű erdőként nyilvántartott területet.
 
