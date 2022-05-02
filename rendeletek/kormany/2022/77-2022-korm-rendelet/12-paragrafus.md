@@ -1,4 +1,4 @@
-## 11. §[^11]
+## 11. §[^12]
 
 ## 9. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 5. alcím 2022. május 1-jén lép hatályba.
 
-[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

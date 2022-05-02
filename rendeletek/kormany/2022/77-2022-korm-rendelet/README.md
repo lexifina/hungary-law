@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-77-20-2
 | 2022-03-08 | 2022-77-20-22.2 | 2010: CXXX. törvény |
 | 2022-03-21 | 2022-77-20-22.3 | 2021. évi I. törvény |
 | 2022-05-01 | 2022-77-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-05-02 | 2022-77-20-22.5 | 2010: CXXX. törvény |
