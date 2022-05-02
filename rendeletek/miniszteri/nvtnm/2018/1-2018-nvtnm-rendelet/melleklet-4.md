@@ -72,7 +72,7 @@
 
 | 1. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 17-10-001241 | 2022. december 31. |
 
-4. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^6]
+4. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^8]
 
 A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
 
@@ -90,4 +90,4 @@ A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
 
 | 5. | Magyar Védelmi Exportügynökség Zártkörűen Működő Részvénytársaság | 01-10-141670 | dr. Maróth Gáspár, a védelmi fejlesztésekért felelős kormánybiztos | 2022. július 16. |
 
-[^6]: A 4. mellékletet az 5/2018. (XI. 8.) NVTNM rendelet 2. §-a iktatta be, szövege a 10/2019. (VIII. 5.) NVTNM rendelet 1. §-a, a 14/2019. (IX. 25.) NVTNM rendelet 1. §-a, a 22/2019. (XII. 20.) NVTNM rendelet 1. §-a és 2. §-a, a 4/2020. (V. 22.) NVTNM rendelet 1. §-a, a 8/2020. (VII. 16.) NVTNM rendelet 1. §-a, a 14/2020. (XI. 5.) NVTNM rendelet 1. §-a, a 19/2021. (X. 1.) NVTNM rendelet 2. § f) pontja, a 25/2021. (XII. 23.) NVTNM rendelet 1. §-a, a 30/2021. (XII. 30.) NVTNM rendelet 2. §-a szerint módosított szöveg.
+[^8]: A 4. mellékletet az 5/2018. (XI. 8.) NVTNM rendelet 2. §-a iktatta be, szövege a 10/2019. (VIII. 5.) NVTNM rendelet 1. §-a, a 14/2019. (IX. 25.) NVTNM rendelet 1. §-a, a 22/2019. (XII. 20.) NVTNM rendelet 1. §-a és 2. §-a, a 4/2020. (V. 22.) NVTNM rendelet 1. §-a, a 8/2020. (VII. 16.) NVTNM rendelet 1. §-a, a 14/2020. (XI. 5.) NVTNM rendelet 1. §-a, a 19/2021. (X. 1.) NVTNM rendelet 2. § f) pontja, a 25/2021. (XII. 23.) NVTNM rendelet 1. §-a, a 30/2021. (XII. 30.) NVTNM rendelet 2. §-a szerint módosított szöveg.
