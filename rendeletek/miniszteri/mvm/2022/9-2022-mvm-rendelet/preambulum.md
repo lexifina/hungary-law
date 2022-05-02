@@ -1,0 +1,1 @@
+Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 90. § (1) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § (1) bekezdés 20. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
