@@ -1,1 +1,3 @@
-## 7. § Hatályát veszti a koronavírus elleni védettség igazolásával összefüggő egyes kormányrendeletek módosításáról szóló 13/2022. (I. 20.) Korm. rendelet hatálybalépéséről szóló 35/2022. (II. 8.) Korm. rendelet 1. § (2) bekezdése.
+## 7. §[^10]
+
+[^10]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

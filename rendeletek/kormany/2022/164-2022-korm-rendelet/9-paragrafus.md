@@ -1,4 +1,4 @@
-## 8. § Nem lép hatályba a koronavírus elleni védettség igazolásával összefüggő egyes kormányrendeletek módosításáról szóló 13/2022. (I. 20.) Korm. rendelet hatálybalépéséről szóló 35/2022. (II. 8.) Korm. rendelet 5. §-a.
+## 8. §[^11]
 
 ## 4. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 2. § (1) bekezdése és a 3. § (1) bekezdése az e rendelet kihirdetését követő 5. napon lép hatályba.
 
 (3) Az 1. §, a 2. § (2) és (3) bekezdése, a 3. § (2) bekezdése, a 4. §, az 5. § 1–10. pontja, az 5. § 12–22. pontja, a 6–8. § 2022. május 1-jén lép hatályba.
+
+[^11]: A 8. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
