@@ -40,4 +40,6 @@ Bakos Bernadett (LMP)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3. Hatályát veszti az Országgyűlés tisztségviselőinek megválasztásáról szóló 3/2018. (V. 8.) OGY határozat.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
