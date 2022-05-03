@@ -644,14 +644,6 @@ Elnök: Ritter Imre (nemzetiségi képviselő)
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7. Hatályát veszti
+7.[^2]
 
-a) az Országgyűlés bizottságainak létrehozásáról, tisztségviselőinek és tagjainak megválasztásáról szóló 5/2018. (V. 8.) OGY határozat;
-
-b) az Alkotmánybíróság tagjait jelölő eseti bizottság létrehozásáról szóló 14/2019. (V. 28.) OGY határozat;
-
-c) az Alkotmánybíróság tagjait jelölő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 15/2019. (V. 28.) OGY határozat;
-
-d) a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa tagjait jelölő eseti bizottság létrehozásáról szóló 25/2021. (X. 19.) OGY határozat;
-
-e) a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa tagjait jelölő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 26/2021. (X. 19.) OGY határozat.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
