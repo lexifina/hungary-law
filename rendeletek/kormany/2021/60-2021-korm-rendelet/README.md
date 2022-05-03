@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-60-20-2
 | 2022-03-29 | 2021-60-20-22.12 | 120/2022. (III. 28.) Korm. rendelet |
 | 2022-04-29 | 2021-60-20-22.13 | 222/2021. (V. 3.) Korm. rendelet |
 | 2022-05-01 | 2021-60-20-22.14 | 164/2022. (IV. 28.) Korm. rendelet |
+| 2022-05-03 | 2021-60-20-22.15 | 164/2022. (IV. 28.) Korm. rendelet |
