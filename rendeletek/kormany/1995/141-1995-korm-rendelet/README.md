@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-141-20-
 | 2021-02-10 | 1995-141-20-22.37 | 39/2021. (II. 2.) Korm. rendelet |
 | 2021-11-10 | 1995-141-20-22.38 | 609/2021. (XI. 5.) Korm. rendelet |
 | 2022-01-01 | 1995-141-20-22.39 | 789/2021. (XII. 27.) Korm. rendelet |
+| 2022-05-04 | 1995-141-20-22.40 | 176/2022. (IV. 29.) Korm. rendelet |

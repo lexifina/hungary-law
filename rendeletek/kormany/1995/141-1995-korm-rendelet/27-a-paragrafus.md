@@ -1,36 +1,20 @@
 ## (Az Lt. 71. §-ához)
 
-27/A. §[^66] (1) E rendelet alkalmazásában
+27/A. §[^68] (1) E rendelet alkalmazásában
 
-1. adatgyűjtési terület: akadály és terep adatok gyűjtése céljából kijelölt terület a következők szerint:
+1.[^69] adatgyűjtési felület: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 164. pontjában és az (EU) 2020/469 bizottsági végrehajtási rendelet VI. Melléklet B. Alrész AIS.TR. 350, 355. és 360. pontjában meghatározott fogalom,
 
-a) 1-es számú Terület: Magyarország teljes területe,
-
-b) 2-es számú Terület: a repülőtér környezetében lévő terület a következők szerint:
-
-ba) 2a számú Terület: a futópálya körüli négyszögletes terület, amely magában foglalja a futópályasávot és – ha van olyan – a felszállási biztonsági területet,
-
-bb) 2b számú Terület: a 2a számú Terület meghosszabbítása mindkét felszállási irányban 10 km hosszan és 15%-os kiszélesítéssel,
-
-bc) 2c számú Terület: a 2a számú és a 2b számú Területeken kívüli terület a 2a számú Terület határától legfeljebb 10 km távolságig,
-
-bd) 2d számú Terület: a 2a számú, a 2b számú és a 2c számú Területeken kívüli terület, a repülőtér vonatkoztatási pontjától mért 45 km távolságig vagy – ha utóbbi a közelebbi – a közelkörzeti irányító körzet határáig,
-
-c) 3-as számú Terület: a repülőtér mozgási területével határos terület, amely vízszintesen a futópálya szélétől kezdődően a futópálya középvonalától mért 90 m távolságig terjedő és a mozgási terület egyéb részeinek szélétől 50 m távolságig terjedő terület,
-
-d) 4-es számú Terület: a repülőtér II. vagy III. kategóriás precíziós megközelítésű futópályájának küszöbétől a megközelítési irányban 900 m-ig meghosszabbított és a meghosszabbított futópálya középvonalától mindkét irányban 60 m-ig terjedő terület,
-
-2. adatkészlet: adatok azonosítható gyűjteménye,
+2.[^70] adatkészlet: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 171. pontjában meghatározott fogalom,
 
 3. adatkészlet sorozat: azonos termékspecifikációval rendelkező adatkészletek gyűjteménye,
 
 4. adattermék: adatkészlet vagy adatkészlet sorozat, amely megfelel az adattermék specifikációnak,
 
-5. adattermék-specifikáció: az adatkészlet vagy adatkészlet sorozat részletes meghatározása azon kiegészítő információkkal, amelyek lehetővé teszik az adatkészlet létrehozását, szolgáltatását és másik fél által történő felhasználását,
+5.[^71] adattermék-specifikáció: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 170. pontjában meghatározott fogalom,
 
 6. egyéb kötöttpályás közlekedési rendszer pályája: a vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló törvény szerinti egyéb kötött pálya,
 
-7.[^67] felszállási repülési útvonal terület: a felszállás pályája alatt a föld felszínén elhelyezkedő, a felszállási pálya két oldalán szimmetrikusan elhelyezkedő négyszögletes terület, amely
+7.[^72] felszállási repülési útvonal terület: a felszállás pályája alatt a föld felszínén elhelyezkedő, a felszállási pálya két oldalán szimmetrikusan elhelyezkedő négyszögletes terület, amely
 
 a) a futópálya vagy – ha van kijelölt felszállási biztonsági terület – a felszállási biztonsági terület végénél kezdődik,
 
@@ -40,7 +24,7 @@ c) addig a pontig terjed, amelyen túl nincsenek légiközlekedési akadályok, 
 
 8. jelentős: változás vagy hatás esetében jelentős alatt azt kell érteni, amely közvetlenül befolyásolja a repülésbiztonságot,
 
-9. terep: a Föld felszíne, amelyen megtalálhatóak a természetes módon előforduló sajátosságok, jellemző tulajdonságok, többek között a hegyek, dombok, hegyláncok, völgyek, víztömegek, állandó jéggel és hóval borított felületek, ide nem értve a mesterséges tereptárgyakat,
+9.[^73] terep: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 101. pontjában meghatározott fogalom,
 
 10. tereptárgy: természetes vagy mesterséges tárgy a terep felszínén,
 
@@ -48,5 +32,9 @@ c) addig a pontig terjed, amelyen túl nincsenek légiközlekedési akadályok, 
 
 (2) Az e rendeletben meg nem határozott fogalmakat a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 139/2014/EU bizottsági rendeletben, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben meghatározottak szerint kell értelmezni.
 
-[^66]: A Vhr. 27/A. §-t és az azt megelőző alcímet a 167/2019. (VII. 9.) Korm. rendelet 4. §-a iktatta be.
-[^67]: A Vhr. 27/A. § (1) bekezdés 7. pontja a 609/2021. (XI. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^68]: A Vhr. 27/A. §-t és az azt megelőző alcímet a 167/2019. (VII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^69]: A Vhr. 27/A. § (1) bekezdés 1. pontja a 176/2022. (IV. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^70]: A Vhr. 27/A. § (1) bekezdés 2. pontja a 176/2022. (IV. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^71]: A Vhr. 27/A. § (1) bekezdés 5. pontja a 176/2022. (IV. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^72]: A Vhr. 27/A. § (1) bekezdés 7. pontja a 609/2021. (XI. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^73]: A Vhr. 27/A. § (1) bekezdés 9. pontja a 176/2022. (IV. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^86]
+1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^93]
 
 Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és közigazgatási szervek, valamint az egyes szervezetek által nyújtandó tájékoztatások
 
@@ -122,7 +122,7 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 1. | AIP alpont | Megadandó tájékoztatás | A légiközlekedési hatóság engedélyéhez kötött változáson alapuló adat/tájékoztatás | A légiközlekedési hatóság engedélyéhez kötött változáson alapuló adat/tájékoztatás esetén a vonatkozó eljárás megnevezése |
 
-| 2. | GEN 2.7 | Napkelte/napnyugta táblázatok | nem |  |
+| 2. |  |  |  |  |
 
 | 3. | ENR 4.4 | A fontos pontok név-kódja | nem |  |
 
@@ -201,6 +201,8 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 | 1. | AIP alpont | Megadandó tájékoztatás | A légiközlekedési hatóság engedélyéhez kötött változáson alapuló adat/tájékoztatás | A légiközlekedési hatóság engedélyéhez kötött változáson alapuló adat/tájékoztatás esetén a vonatkozó eljárás megnevezése |
 
 | 2. | GEN 3.5 | A meteorológiai szolgáltatást ellátó szervezet címe és egyéb elérhetőségei, a meteorológiai megfigyelések és jelentések részletes leírása, a meteorológiai szolgáltatások típusai, a légijármű üzembentartóktól várt értesítések, a légijárművektől származó jelentések, VOLMET szolgáltatás, SIGMET és AIRMET szolgáltatás, egyéb automatizált meteorológiai szolgáltatások | igen | Léginavigációs szolgáltatók tanúsítása |
+
+| 3. | GEN 2.7 | Napkelte/napnyugta táblázatok | nem |  |
 
 9. A meteorológiai szolgáltatást ellátó szervezet felügyeletéért felelős miniszter által vezetett minisztérium által megadandó tájékoztatások
 
@@ -378,4 +380,4 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 23. | AD 2.24 | A repülőtérrel kapcsolatos navigációs térképek | nem |  |
 
-[^86]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^93]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a, a 176/2022. (IV. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
