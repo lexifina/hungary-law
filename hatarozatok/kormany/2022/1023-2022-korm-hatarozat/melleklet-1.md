@@ -14,6 +14,8 @@
 
 ## 1.7.[^1] a debreceni Déli Gazdasági Övezet bővítésével összefüggő infrastruktúra-fejlesztésekről szóló 1041/2022. (II. 4.) Korm. határozatra,
 
+## 1.8.[^2] a Nyíregyházi Ipari Park villamosenergia hálózat fejlesztés megvalósításához szükséges intézkedésekről szóló 1251/2022. (V. 4.) Korm. határozatra,
+
 ## a következőkről dönt.
 
 ## 2. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím terhére vállalható kötelezettségek mértékét
@@ -26,34 +28,41 @@
 
 ## d) 2026-ban az 1. melléklet szerinti táblázat G oszlopának összegében
 
+## e)[^3] 2027-ben az 1. melléklet szerinti táblázat H oszlopának összegében
+
 ## állapítja meg.
 
-## 3. A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az 1. melléklet A oszlopa szerinti kormányhatározatokban foglalt, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb az adott sor H oszlopában szereplő összegében kötelezettséget vállaljon.
+## 3.[^4] A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az 1. melléklet A oszlopa szerinti kormányhatározatokban foglalt, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb az adott sor I oszlopában szereplő összegében kötelezettséget vállaljon.
 
-## 4.[^2]
+## 4.[^5]
 
-1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz[^3]
+1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz[^6]
 
 A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előirányzaton (kincstári díj nélkül)
 
-|  | A | B | C | D | E | F | G | H |
+|  | A | B | C | D | E | F | G | H | I |
 
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | Összesen (nettó forint) |
+| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | Összesen (nettó forint) |
 
-| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 10 894 187 331 | 10 414 536 132 | 2 710 008 033 | 0 | 0 | 36 500 291 884 |
+| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 10 894 187 331 | 10 414 536 132 | 2 710 008 033 | 0 | 0 | 0 | 36 500 291 884 |
 
-| 3. | 1292/2020. (VI. 10.) Korm. határozat Debrecen 2030 | 6 306 346 827 | 14 681 759 120 | 7 476 661 669 | 0 | 0 | 0 | 28 464 767 616 |
+| 3. | 1292/2020. (VI. 10.) Korm. határozat | 6 306 346 827 | 14 681 759 120 | 7 476 661 669 | 0 | 0 | 0 | 0 | 28 464 767 616 |
 
-| 4. | 1382/2021. (VI. 15.) Korm. határozat | 95 952 024 | 95 952 024 | 95 952 024 | 95 952 024 | 0 | 0 | 383 808 096 |
+| 4. | 1382/2021. (VI. 15.) Korm. határozat | 95 952 024 | 95 952 024 | 95 952 024 | 95 952 024 | 0 | 0 | 0 | 383 808 096 |
 
-| 5. | 1383/2021. (VI. 15.) Korm. határozat | 5 934 500 000 | 3 492 500 000 | 762 000 000 | 0 | 0 | 0 | 10 189 000 000 |
+| 5. | 1383/2021. (VI. 15.) Korm. határozat | 5 934 500 000 | 3 492 500 000 | 762 000 000 | 0 | 0 | 0 | 0 | 10 189 000 000 |
 
-| 6. | 1384/2021. (VI. 15.) Korm. határozat | 6 522 000 000 | 10 453 000 000 | 16 090 000 000 | 2 803 000 000 | 0 | 0 | 35 868 000 000 |
+| 6. | 1384/2021. (VI. 15.) Korm. határozat | 6 522 000 000 | 10 453 000 000 | 16 090 000 000 | 2 803 000 000 | 0 | 0 | 0 | 35 868 000 000 |
 
-| 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 11 581 417 091 | 11 581 417 091 | 5 790 708 546 | 0 | 0 | 44 271 209 239 |
+| 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 11 581 417 091 | 11 581 417 091 | 5 790 708 546 | 0 | 0 | 0 | 44 271 209 239 |
 
-| 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 7 253 212 000 | 11 877 873 000 | 13 843 582 000 | 26 180 525 000 | 25 895 874 000 | 85 051 066 000 |
+| 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 7 253 212 000 | 11 877 873 000 | 13 843 582 000 | 26 180 525 000 | 25 895 874 000 | 0 | 85 051 066 000 |
+
+| 9. | 1251/2022. (V. 4.) Korm. határozat | 0 | 4 320 519 000 | 9 535 839 000 | 8 445 683 000 | 470 000 000 | 0 | 0 | 22 772 041 000 |
 
 [^1]: Az 1. pont 1.7. alpontját az 1041/2022. (II. 4.) Korm. határozat 2. pontja iktatta be.
-[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet az 1041/2022. (II. 4.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.8. alpontját az 1251/2022. (V. 4.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 2. pont e) alpontját az 1251/2022. (V. 4.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 3. pont az 1251/2022. (V. 4.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított szöveg.
