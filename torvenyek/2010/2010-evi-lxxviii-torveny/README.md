@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-78-00-00
 | --- | --- | --- |
 | 2010-07-24 | 2010. évi LXXVIII. törvény | 2010-78-00-00.0 (közlönyállapot) |
 | 2010-07-24 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-78-00-00.1 |
+| 2022-05-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-78-00-00.2 |
