@@ -2,6 +2,8 @@
 
 37. § (1) Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 19/2003. (XII. 19.) NKÖM rendelet (a továbbiakban: R.3.) 9. § (1) bekezdésében védetté nyilvánított Jászberény (Jász-Nagykun-Szolnok megye), a telekalakításokat követően a 7612/1 és 7612/2 helyrajzi számon nyilvántartott ingatlanok közül a 7612/1 helyrajzi számú ingatlan védettségét – tekintettel arra, hogy azon műemléki érték nem található – megszüntetem.
 
-(2) A Jászberény 7612/1 helyrajzi számú ingatlant műemléki környezetté nyilvánítom.
+(2)[^1]
 
 (3) A Jászberény 7612/2 helyrajzi számon nyilvántartott ingatlan védettsége továbbra is fennáll.
+
+[^1]: A 37. § (2) bekezdését a 8/2022. (IV. 29.) MvM rendelet 28. § (3) bekezdése hatályon kívül helyezte.
