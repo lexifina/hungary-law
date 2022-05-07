@@ -2,6 +2,6 @@
 
 48. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(3)[^10]
+(2)–(3)[^12]
 
-[^10]: A 48. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 15. pontja hatályon kívül helyezte.
+[^12]: A 48. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 15. pontja hatályon kívül helyezte.
