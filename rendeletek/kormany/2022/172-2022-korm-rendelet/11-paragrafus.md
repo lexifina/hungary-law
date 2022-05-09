@@ -1,0 +1,1 @@
+## „(8a) A munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet (a továbbiakban: 39/2010. Korm. rendelet) hatálya alá tartozó munkába járás kapcsán a (8) bekezdésben foglaltaktól eltérően a 39/2010. Korm. rendelet szabályait kell alkalmazni.”
