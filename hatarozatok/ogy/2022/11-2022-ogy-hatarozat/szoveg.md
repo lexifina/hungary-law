@@ -640,10 +640,19 @@ p) Magyarországi nemzetiségek bizottsága
 
 Elnök: Ritter Imre (nemzetiségi képviselő)
 
+Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^2]
+
+Kissné Köles Erika (nemzetiségi szószóló),[^3]
+
+Varga Szimeon (nemzetiségi szószóló)[^4]
+
 5. Ez a határozat az elfogadásakor lép hatályba.
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^2]
+7.[^5]
 
-[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^3]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^4]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
