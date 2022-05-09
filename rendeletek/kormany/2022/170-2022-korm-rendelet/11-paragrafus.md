@@ -1,4 +1,4 @@
-## 10. §[^10]
+## 10. §[^9]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. § 2022. május 9-én lép hatályba.
 
-[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
