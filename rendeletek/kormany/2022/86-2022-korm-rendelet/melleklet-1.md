@@ -1,4 +1,4 @@
-## 13. §[^13]
+## 13. §[^16]
 
 1. melléklet a 86/2022. (III. 7.) Korm. rendelethez
 
@@ -18,4 +18,4 @@ A megjegyzések között
 
 kell feltüntetni.
 
-[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
