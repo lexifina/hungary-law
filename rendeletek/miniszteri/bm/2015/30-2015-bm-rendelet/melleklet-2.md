@@ -6,7 +6,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 1. Központi szervnél
 
-## 2X01973M_0
+## 2X03290M_0
 
 |  | A | B | C | D | E |
 
@@ -42,7 +42,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 2. Területi szervnél
 
-## 2X01973M_1
+## 2X03290M_1
 
 |  | A | B | C | D | E |
 
@@ -74,7 +74,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 3. Helyi szervnél
 
-## 2X01973M_2
+## 2X03290M_2
 
 |  | A | B | C | D | E |
 
@@ -100,7 +100,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 2X01973M_3
+## 2X03290M_3
 
 |  | A | B | C | D | E |
 
@@ -252,7 +252,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 2X01973M_4
+## 2X03290M_4
 
 |  | A | B | C | D | E |
 
@@ -424,7 +424,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 2X01973M_5
+## 2X03290M_5
 
 |  | A | B | C | D | E |
 
@@ -444,7 +444,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 2X01973M_6
+## 2X03290M_6
 
 |  | A | B | C | D |
 
@@ -466,7 +466,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 2X01973M_7
+## 2X03290M_7
 
 |  | A | B | C | D |
 
@@ -580,7 +580,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 2X01973M_11
+## 2X03290M_11
 
 |  | A | B | C | D | E |
 
@@ -604,7 +604,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 | 7a. | főosztályvezető (TŰSZ) | 500 |  |
 
-| 8. | főosztályvezető (KEŐ) | 500 |  |
+| 8. | főosztályvezető (Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály) | 500 |  |
 
 | 9. | hivatalvezető |  | 150 |
 
@@ -616,11 +616,13 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 | 12. | főosztályvezető- helyettes 2 | főosztályvezető-helyettes | 200 | 150 |
 
-| 13. | főosztályvezető-helyettes (KEŐ) | 500 |  |
+| 13. |  |  |  |
 
 | 14. | osztályvezető 1 | osztályvezető | 200 | 150 |
 
-| 15. | osztályvezető (KEŐ SZO, TŰSZ, KR KEŐ FO) | 500 |  |
+| 15. | osztályvezető (TŰSZ) | 500 |  |
+
+| 15a | osztályvezető (Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztály) | 500 |  |
 
 | 16. | szolgálatvezető-helyettes (KR LRSZ) | 200* 650 |  |
 
@@ -630,7 +632,7 @@ a) 200*: a Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálat
 
 2. Tiszti szolgálati beosztások
 
-## 2X01973M_12
+## 2X03290M_12
 
 |  | A | B | C | D |
 
@@ -702,7 +704,7 @@ a) 200*: a Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálat
 
 3. Tiszthelyettesi szolgálati beosztások
 
-## 2X01973M_13
+## 2X03290M_13
 
 |  | A | B | C | D |
 
@@ -788,7 +790,7 @@ a) 200*: a Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálat
 
 ## 400*****: A Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály esetében a hivatásos pótlék mértéke 400%.
 
-## 600******: A Köztársasági Elnöki Őrség személyvédelmi feladatait ellátó állománya és a Tűzszerész Szolgálat beosztotti állománya esetében a hivatásos pótlék mértéke 600%.
+## 600******: A KR Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztályának (a volt köztársasági elnök utóbiztosítását ellátó) állománya és a Tűzszerész Szolgálat beosztotti állománya esetében a hivatásos pótlék mértéke 600%.
 
 ## ******* A kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági, vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
@@ -798,7 +800,7 @@ VII. Budapesti Rendőr-főkapitányság
 
 a) Területi szervnél
 
-2X01973M_14
+2X03290M_14
 
 |  | A | B | C | D | E |
 
@@ -826,7 +828,7 @@ a) Területi szervnél
 
 b) Helyi szervnél
 
-2X01973M_15
+2X03290M_15
 
 |  | A | B | C | D | E |
 
@@ -848,7 +850,7 @@ b) Helyi szervnél
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 2X01973M_16
+## 2X03290M_16
 
 |  | A | B | C | D | E |
 
@@ -952,7 +954,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 2. Tiszthelyettesi szolgálati beosztások
 
-## 2X01973M_17
+## 2X03290M_17
 
 |  | A | B | C | D | E |
 
@@ -1126,4 +1128,4 @@ VIII. A Nemzetközi Oktatási Központ szolgálati beosztásai
 
 | 5. | B | gépjárművezető |  | 100 |
 
-[^30]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a, a 2/2020. (I. 17.) BM rendelet 2. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 12. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (1) bekezdése, a 4/2022. (III. 25.) BM rendelet 11. §-a szerint módosított szöveg.
+[^30]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a, a 2/2020. (I. 17.) BM rendelet 2. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 12. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (1) bekezdése, a 4/2022. (III. 25.) BM rendelet 11. §-a, a 16/2022. (V. 4.) BM rendelet 1. §-a szerint módosított szöveg. [A 2. melléklet VI. alcímében a 16/2022. (V. 4.) BM rendelet 1. melléklet 3. pont c) és d) alpontjával elrendelt módosítás nem vezethető át.]

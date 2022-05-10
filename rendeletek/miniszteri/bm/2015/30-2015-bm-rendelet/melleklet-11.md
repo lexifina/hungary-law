@@ -278,9 +278,9 @@ d) a KR ÁFSZ szolgálati beosztásai,
 
 e) a KR LRSZ szolgálati beosztásai,
 
-f) a KR SZOVIG biztonsági főtiszt, biztonsági tiszt, objektumőr, lakásbiztosító, helyszínbiztosító, személybiztosító, biztonsági gépkocsivezető, referens, tűzszerész, technikus és fogdafelügyelő szolgálati beosztásai,
+f) a KR SZOVIG kiemelt biztonsági főtiszt, biztonsági főtiszt, biztonsági tiszt, szolgálatparancsnok, kiemelt objektumőr, objektumőr, kiemelt főelőadó, lakásbiztosító, helyszínbiztosító, személybiztosító, biztonsági gépkocsivezető, referens, tűzszerész, technikus és fogdafelügyelő szolgálati beosztásai,
 
-g) a KR KEÖ alosztályvezető-helyettes, csoportvezető, kiemelt főelőadó, kiemelt biztonsági főtiszt, főelőadó, csoportparancsnok, szolgálatirányító, biztonsági gépkocsivezető, személybiztosító, helyszínbiztosító, lakásbiztosító, objektumőr szolgálati beosztásai,
+g)
 
 h) az RRI ügyeletes vezető, bűnügyi készenlét, idegenrendészeti készenlét szolgálati beosztása, továbbá Közrendvédelmi Osztályának, Határrendészeti Osztályának és Utasbiztonsági Osztályának szolgálati beosztásai,
 
@@ -398,4 +398,4 @@ j) biztonsági felügyelő
 
 k) kutyavezető.
 
-[^40]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (4) bekezdése szerint módosított szöveg.
+[^40]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (4) bekezdése, a 16/2022. (V. 4.) BM rendelet 3. §-a szerint módosított szöveg.
