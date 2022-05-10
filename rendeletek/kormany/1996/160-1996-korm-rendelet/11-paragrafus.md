@@ -1,6 +1,6 @@
 ## A létesítmények védelme
 
-11. §[^76] (1)[^77] A kijelölt létesítmények folyamatos őrzését és védelmét a Készenléti Rendőrség végzi.
+11. §[^77] (1)[^78] A kijelölt létesítmények folyamatos őrzését és védelmét a Készenléti Rendőrség végzi.
 
 (2) A kijelölt létesítmény védelme
 
@@ -14,7 +14,7 @@ d) a külső-belső őrzésre
 
 terjed ki.
 
-(3)[^78] A kijelölt létesítményt a létesítmény kezelője (használója) az őrzés biztonságához szükséges biztonságtechnikai eszközökkel és berendezésekkel szerelteti fel, és biztosítja az őrzést ellátó állomány megfelelő szintű elhelyezését. A létesítmény kezelője (használója) költségére a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét a Készenléti Rendőrség végzi.
+(3)[^79] A kijelölt létesítményt a létesítmény kezelője (használója) az őrzés biztonságához szükséges biztonságtechnikai eszközökkel és berendezésekkel szerelteti fel, és biztosítja az őrzést ellátó állomány megfelelő szintű elhelyezését. A létesítmény kezelője (használója) költségére a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét a Készenléti Rendőrség végzi.
 
 (4) Az Információs Hivatal központi objektuma esetében
 
@@ -22,6 +22,6 @@ a) a létesítmény technikai biztosítása kizárólag a külső biztosításra
 
 b) a biztonságtechnikai eszközök és berendezések alkalmasságának elbírálását, azok felszerelését, üzemeltetését, karbantartását, javítását és szükség esetén cseréjét az Információs Hivatal végzi.
 
-[^76]: A 11. § a 63/2010. (III. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^77]: A 11. § (1) bekezdése a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^78]: A 11. § (3) bekezdése a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^77]: A 11. § a 63/2010. (III. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^78]: A 11. § (1) bekezdése a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^79]: A 11. § (3) bekezdése a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
