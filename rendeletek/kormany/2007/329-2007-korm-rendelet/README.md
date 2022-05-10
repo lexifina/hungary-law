@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2021-02-03 | 2007-329-20-22.47 | 275/2016. (IX. 15.) Korm. rendelet |
 | 2021-05-21 | 2007-329-20-22.48 | 259/2021. (V. 20.) Korm. rendelet |
 | 2021-06-03 | 2007-329-20-22.49 | 276/2021. (V. 26.) Korm. rendelet |
+| 2022-05-10 | 2007-329-20-22.50 | 102/2012. (V. 18.) Korm. rendelet |

@@ -2,7 +2,7 @@
 
 a) részt vesz az előre nem tervezhető, halaszthatatlan beavatkozást és csapaterőt igénylő feladatok végrehajtásában,
 
-b)[^66] részt vesz a védett személyekkel kapcsolatos biztosítási feladatok végrehajtásában, valamint ellátja – a Honvéd Vezérkar főnöke kivételével – a Honvédelmi Tanács állandó személyvédelemben nem részesülő tagjainak védelmét, továbbá – a legfőbb ügyész és a miniszterelnök védelmével összefüggő feladatok kivételével – ellátja a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározott feladatait, ennek keretében
+b)[^66] részt vesz a védett személyekkel kapcsolatos biztosítási feladatok végrehajtásában, valamint ellátja – a Honvéd Vezérkar főnöke kivételével – a Honvédelmi Tanács állandó személyvédelemben nem részesülő tagjainak védelmét, továbbá ellátja a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározott feladatait, ennek keretében
 
 ba) végzi a Magyarország érdekei szempontjából jelentős – védett személyek részvételével megtartott – rendezvények biztosításához kapcsolódó rendőrségi feladatok előkészítését,
 
@@ -55,7 +55,7 @@ v)[^78] a p)–r) pontban meghatározott feladataival kapcsolatban végrehajtja 
 w)[^79] a büntetőeljárásról szóló törvényre tekintettel bűnügyi technikai feladatokat lát el, ennek keretében végzi a meghatározott bűnügyi helyszínek esetében a gyakorlati tevékenységet, illetve végzi az általános rendőri szerv bűnügyi technikai tevékenységének szakmai irányítását.
 
 [^65]: A 9. § nyitó szövegrésze a 227/2012. (VIII. 23.) Korm. rendelet 4. §-a, a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^66]: A 9. § b) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított, nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 3. §-a, a 441/2016. (XII. 16.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^66]: A 9. § b) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított, nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 3. §-a, a 441/2016. (XII. 16.) Korm. rendelet 18. §-a, a 179/2022. (V. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^67]: A 9. § f) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^68]: A 9. § h) pontját a 232/2010. (VIII. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte, újonnan a 102/2012. (V. 18.) Korm. rendelet 16. §-a iktatta be.
 [^69]: A 9. § m) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (5) bekezdés a) pontja szerint módosított szöveg.
