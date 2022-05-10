@@ -8,11 +8,11 @@ b)[^6] szervezi és koordinálja a terrorcselekmények megelőzését és elhár
 
 c) részt vesz a kritikus infrastruktúrák védelmére vonatkozó nemzeti program kidolgozásában, a veszélyeztetettség értékelésében és biztonsági intézkedési tervek kidolgozásában, továbbá külön szerződés alapján ellátja a terrorveszélyeztetettség szempontjából jelentős, kritikus infrastruktúrák védelmét,
 
-d)[^7] végzi a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározottak szerint a miniszterelnök, a külpolitikáért felelős miniszter és a legfőbb ügyész védelmét, valamint a rendészetért felelős miniszter által ideiglenesen, eseti jelleggel a hatáskörébe utalt egyéb személyvédelmi feladatokat és létesítménybiztosítási feladatokat, ennek keretében
+d)[^7] végzi a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározottak szerint a köztársasági elnök, a miniszterelnök, a külpolitikáért felelős miniszter és a legfőbb ügyész védelmét, valamint a jogszabály alapján, illetve a rendészetért felelős miniszter által ideiglenesen, eseti jelleggel a hatáskörébe utalt egyéb személyvédelmi feladatokat és létesítménybiztosítási feladatokat, ennek keretében
 
 da)[^8] végrehajtja – indokolt esetben az általános rendőrségi feladatokat ellátó szerv tűzszerész szolgálati ága szakegységeinek bevonásával – a tűzszerészeti feladatokat, valamint a robbantással fenyegetett helyszínek átvizsgálását,
 
-db)[^9] végzi a Magyarország érdekei szempontjából jelentős – különösen a miniszterelnök részvételével megtartott, valamint a rendészetért felelős miniszter által ideiglenesen hatáskörébe utalt egyéb személyvédelmi feladatokkal összefüggő – rendezvények biztosításához kapcsolódó feladatok előkészítését és végrehajtását,
+db)[^9] végzi a Magyarország érdekei szempontjából jelentős – különösen a köztársasági elnök, illetve a miniszterelnök részvételével megtartott, valamint a rendészetért felelős miniszter által ideiglenesen hatáskörébe utalt egyéb személyvédelmi feladatokkal összefüggő – rendezvények biztosításához kapcsolódó feladatok előkészítését és végrehajtását,
 
 dc) együttműködik a személy- és létesítményvédelmi feladatok biztosításban érdekelt és a biztosítás végrehajtásában közvetlenül érintett hazai, valamint külföldi szervekkel és szervezetekkel,
 
@@ -89,9 +89,9 @@ e) a hatósági eljárás során lefoglalt, a közbiztonságra különösen vesz
 [^4]: A 3. § (1) bekezdés nyitó szövegrésze a 77/2018. (IV. 20.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés b) pontja a 256/2015. (IX. 10.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^7]: A 3. § (1) bekezdés d) pont nyitó szövegrésze a 102/2012. (V. 18.) Korm. rendelet 23. § a) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a, a 77/2018. (IV. 20.) Korm. rendelet 19. § b) pontja, a 250/2019. (X. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés d) pont nyitó szövegrésze a 102/2012. (V. 18.) Korm. rendelet 23. § a) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a, a 77/2018. (IV. 20.) Korm. rendelet 19. § b) pontja, a 250/2019. (X. 24.) Korm. rendelet 4. §-a, a 179/2022. (V. 4.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés d) pont da) alpontja a 77/2018. (IV. 20.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (1) bekezdés d) pont db) alpontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a, a 102/2012. (V. 18.) Korm. rendelet 23. § b) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés d) pont db) alpontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a, a 102/2012. (V. 18.) Korm. rendelet 23. § b) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a, a 179/2022. (V. 4.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^10]: A 3. § (1) bekezdés d) pont de) alpontja a 102/2012. (V. 18.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés e) pontja a 256/2015. (IX. 10.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^12]: A 3. § (1) bekezdés h) pontja a 221/2014. (IX. 4.) Korm. rendelet 500. § a) pontja szerint módosított szöveg.

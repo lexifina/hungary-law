@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-295-20-
 | 2019-01-01 | 2010-295-20-22.11 | 323/2018. (XII. 28.) Korm. rendelet |
 | 2019-10-25 | 2010-295-20-22.12 | 102/2012. (V. 18.) Korm. rendelet |
 | 2021-05-21 | 2010-295-20-22.13 | 259/2021. (V. 20.) Korm. rendelet |
+| 2022-05-10 | 2010-295-20-22.14 | 102/2012. (V. 18.) Korm. rendelet |
