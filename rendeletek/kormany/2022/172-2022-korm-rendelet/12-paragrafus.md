@@ -1,3 +1,3 @@
-## 11. § Az R. 8. §-a a következő (4) bekezdéssel egészül ki:
+## 11. §[^3]
 
-## „(4) A munkaadó által az (1) bekezdés szerinti magánszemély részére az ott említett juttatások biztosítása köztehermentes.”
+[^3]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
