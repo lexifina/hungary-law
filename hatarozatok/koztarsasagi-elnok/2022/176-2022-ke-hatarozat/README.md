@@ -1,0 +1,9 @@
+# 176/2022. (V. 13.) KE határozat
+
+állampolgárság visszavonással történő megszüntetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-176-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-05-13 | 2022-176-30-76.1 | 176/2022. (V. 13.) KE határozat |
