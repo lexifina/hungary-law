@@ -1,4 +1,4 @@
-## 8a.[^8] Átmeneti támogatás
+## 8a.[^9] Átmeneti támogatás
 
 ## 8/A. § Ezen alcím tekintetében
 
@@ -8,4 +8,4 @@ b) kapcsolt vállalkozás: a koronavírus járvány miatt nehéz gazdasági hely
 
 c) nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (4a) bekezdése szerinti vállalkozás.
 
-[^8]: A 8a. alcímet (8/A–8/E. §) a 41/2020. (VIII. 19.) AM rendelet 26. §-a iktatta be.
+[^9]: A 8a. alcímet (8/A–8/E. §) a 41/2020. (VIII. 19.) AM rendelet 26. §-a iktatta be.
