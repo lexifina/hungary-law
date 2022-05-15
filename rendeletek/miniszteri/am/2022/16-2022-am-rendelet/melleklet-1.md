@@ -1,8 +1,4 @@
-## 6. § A komlóültetvény létesítéséhez igénybe vehető mezőgazdasági csekély összegű támogatásról szóló 37/2019. (VII. 26.) AM rendelet 1. § 1. pontja helyébe a következő rendelkezés lép:
-
-## (E rendelet alkalmazásában:)
-
-## „1. támogatási időszak: a 2019. november 16. és 2021. december 6. közötti időszak;”
+## 6. §[^1]
 
 1. melléklet a 16/2022. (IV. 29.) AM rendelethez
 
@@ -23,3 +19,5 @@ I. Mezőgazdasági termékből erjesztés vagy desztilláció útján:
 előállító személy vagy szervezet.
 
 II. Előállítótól vagy forgalmazótól származó, az I. részben jelölt termék feldolgozását vagy csomagolását végző személy vagy szervezet.
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
