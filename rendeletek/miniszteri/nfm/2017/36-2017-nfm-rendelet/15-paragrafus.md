@@ -34,11 +34,7 @@ b) a gazdaságokból tej begyűjtésére és a tejkonténereknek, valamint álla
 
 ## meg nem haladó mértékű túllépése esetén.
 
-(1c)[^53] Nem kell eljárási díjat, túlsúlydíjat fizetni
-
-a) – a 15. § (1) bekezdés e) pontjától eltérően – a 2. § (1) bekezdés b) és c) pontjában foglalt értékek 2 tonnánál nem nagyobb túllépése miatt az üzemanyagot szállító járművek esetén, ha a jármű erre a célra kialakított felépítménnyel rendelkezik, valamint
-
-b) – a 15. § (1a) bekezdés a) pontjától eltérően – a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 10%-át meg nem haladó mértékű túllépése esetén, üzemanyag szállítására alkalmas speciális felépítménnyel rendelkező kéttengelyes gépjármű háromtengelyes félpótkocsival történő közlekedése során.
+(1c)[^53]
 
 (2)[^54] Nem kell túlsúlydíjat fizetni az egy tengelyvonalban legalább 8 vagy több független felfüggesztésű kerékkel vagy kerékcsoporttal rendelkező jármű esetén a 2. § (1) bekezdés b) és c) pontjában foglalt értékek legfeljebb 20%-kal történő túllépése esetén, ha a kérelmet a túlsúlyos jármű közlekedését megelőzően benyújtották.
 
@@ -71,7 +67,7 @@ b) azon regisztrált élőállat-szállító járművek vagy járműszerelvénye
 [^50]: A 15. § (1) bekezdés h) pontját az 53/2020. (XII. 23.) ITM rendelet 6. § (1) bekezdése iktatta be.
 [^51]: A 15. § (1a) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^52]: A 15. § (1b) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (2) bekezdése iktatta be.
-[^53]: A 15. § (1c) bekezdését a 9/2022. (III. 16.) ITM rendelet 1. §-a iktatta be.
+[^53]: A 15. § (1c) bekezdését a 9/2022. (III. 16.) ITM rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. §-a.
 [^54]: A 15. § (2) bekezdése az 53/2020. (XII. 23.) ITM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^55]: A 15. § (2a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 9. § (2) bekezdése iktatta be, szövege az 53/2020. (XII. 23.) ITM rendelet 6. § (4) bekezdésével megállapított szöveg.
 [^56]: A 15. § (2b) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (5) bekezdése iktatta be.
