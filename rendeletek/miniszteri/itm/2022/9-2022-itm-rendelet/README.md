@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-9-20-7Q
 | 2022-03-17 | 2022-9-20-7Q.1 | 9/2022. (III. 16.) ITM rendelet |
 | 2022-03-18 | 2022-9-20-7Q.2 | 2010: CXXX. törvény |
 | 2022-05-15 | 2022-9-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-05-16 | 2022-9-20-7Q.4 | 2010: CXXX. törvény |
