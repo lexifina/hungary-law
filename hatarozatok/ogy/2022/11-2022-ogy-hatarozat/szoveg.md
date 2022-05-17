@@ -126,7 +126,7 @@ dr. Vejkey Imre (KDNP)
 
 Sebián-Petrovszki László (DK)
 
-dr. Lukács László György (Jobbik)
+Szabó Hajnalka (Jobbik)[^2]
 
 Szabó Szabolcs (Momentum)
 
@@ -154,7 +154,7 @@ V. Németh Zsolt (Fidesz)
 
 dr. Hargitai János (KDNP)
 
-Z. Kárpát Dániel (Jobbik)
+Szabó Hajnalka (Jobbik)[^3]
 
 Tóth Endre (Momentum)
 
@@ -438,7 +438,7 @@ Kálmán Olga (DK)
 
 dr. Brenner Koloman (Jobbik)
 
-dr. Lukács László György (Jobbik)
+Végh Noémi (Jobbik)[^4]
 
 Hajnal Miklós (Momentum)
 
@@ -452,7 +452,7 @@ Kunhalmi Ágnes (MSZP)
 
 Szabadi István (Mi Hazánk)
 
-Berki Sándor (Párbeszéd)
+Jámbor András Imre (Párbeszéd)[^5]
 
 Kanász-Nagy Máté (LMP)
 
@@ -534,7 +534,7 @@ dr. Tilki Attila (Fidesz)
 
 V. Németh Zsolt (Fidesz)
 
-Z. Kárpát Dániel (Jobbik)
+Szabó Hajnalka (Jobbik)[^6]
 
 g) Kulturális bizottság
 
@@ -640,19 +640,24 @@ p) Magyarországi nemzetiségek bizottsága
 
 Elnök: Ritter Imre (nemzetiségi képviselő)
 
-Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^2]
+Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^7]
 
-Kissné Köles Erika (nemzetiségi szószóló),[^3]
+Kissné Köles Erika (nemzetiségi szószóló),[^8]
 
-Varga Szimeon (nemzetiségi szószóló)[^4]
+Varga Szimeon (nemzetiségi szószóló)[^9]
 
 5. Ez a határozat az elfogadásakor lép hatályba.
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^5]
+7.[^10]
 
-[^2]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^3]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^4]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 16/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 16/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 16/2022. (V. 18.) OGY határozat 2. pontjával megállapított szöveg.
+[^5]: A 15/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 16/2022. (V. 18.) OGY határozat 3. pontjával megállapított szöveg.
+[^7]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^8]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^9]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^10]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
