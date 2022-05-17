@@ -38,8 +38,11 @@ Dócs Dávid (Mi Hazánk)
 
 Bakos Bernadett (LMP)
 
+Berki Sándor (Párbeszéd)[^2]
+
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^2]
+3.[^3]
 
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 14/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
