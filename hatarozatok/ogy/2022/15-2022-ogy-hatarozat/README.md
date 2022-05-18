@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-15-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-05-17 | 2022-15-30-41.1 | 15/2022. (V. 18.) OGY határozat |
+| 2022-05-18 | 2022-15-30-41.2 | 2010: CXXX. törvény |
