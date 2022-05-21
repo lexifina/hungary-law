@@ -4,14 +4,15 @@
 
 (3)[^30] A vizsga helyét és időpontját, valamint a vizsgabiztosokat a közlekedési hatóság jelöli ki. A vizsgáról jegyzőkönyvet kell készíteni. Sikeres vizsga esetén a vizsgázó számára a képesítéséről, a végzett szaktanfolyam és a vizsga jellegétől függően, az 1071/2009/EK rendelet 613/2012/EU bizottsági rendelettel módosított III. mellékletében meghatározottak szerinti – árufuvarozó szakmai irányítói, személyszállító szakmai irányítói – bizonyítványt (a továbbiakban: szakmai alkalmasságot igazoló bizonyítvány) kell kiadni. A szakmai alkalmasságot igazoló bizonyítvány igazolja a szakmai irányítói képesítés megszerzését.
 
-(4) A szakmai irányítói képesítést szaktanfolyami képzés nélkül szerezhet az a személy, aki hitelt érdemlően bizonyítja, hogy 2009. december hó 4. napját megelőzően folyamatosan tíz éven keresztül szakirányú szakmai vezető beosztásban dolgozott közúti közlekedési szolgáltatási tevékenységet végző, Magyarország területén székhellyel rendelkező gazdálkodó szervezetnél. A vizsgára a (2)–(3) bekezdésekben foglaltakat kell alkalmazni.
+(4)[^31]
 
 (5) Részleges felmentést kaphat a vizsgakötelezettség alól az a személy, aki az előírt szakismeretek elsajátítását az e rendelet 1. mellékletében meghatározottak szerinti szakirányú felsőfokú képesítésről kiállított okirattal igazolja.
 
-(6)[^31] A szakmai irányító személyének alkalmatlanná válása vagy a szakmai irányító személyében bekövetkező változás esetén a gazdálkodó szervezet legfeljebb hat hónapig működhet szakmai irányító nélkül. Erről a közlekedési hatóságot a gazdálkodó szervezet értesíti. Ez a határidő a szakmai irányító elhalálozása vagy munkaképességének elvesztése esetén legfeljebb három hónappal meghosszabbítható. Az engedélyezett határidő lejártával a gazdálkodó szervezet igazolja a szakmai alkalmasság feltételének meglétét.
+(6)[^32] A szakmai irányító személyének alkalmatlanná válása vagy a szakmai irányító személyében bekövetkező változás esetén a gazdálkodó szervezet legfeljebb hat hónapig működhet szakmai irányító nélkül. Erről a közlekedési hatóságot a gazdálkodó szervezet értesíti. Ez a határidő a szakmai irányító elhalálozása vagy munkaképességének elvesztése esetén legfeljebb három hónappal meghosszabbítható. Az engedélyezett határidő lejártával a gazdálkodó szervezet igazolja a szakmai alkalmasság feltételének meglétét.
 
 (7) A szakmai irányítók részére továbbképzést szervezni a közlekedési hatóság engedélye alapján lehet. A továbbképzés célja a szabályozásban időközben bekövetkezett változások megismertetése. A továbbképzést követő vizsgáztatást a közlekedési hatóság végzi, az előírt vizsgakötelezettségek sikeres teljesítéséről a közlekedési hatóság igazolást (továbbiakban: továbbképzési igazolás) ad ki. A szakmai alkalmasságot igazoló bizonyítvány tíz év eltelte után csak – a tíz évnél nem régebben kiállított – továbbképzési igazolással együtt érvényes. A továbbképzés tan- és vizsgakövetelményeit a 3. melléklet tartalmazza.
 
 [^29]: A 10. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^30]: A 10. § (3) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
-[^31]: A 10. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^31]: A 10. § (4) bekezdését a 791/2021. (XII. 27.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^32]: A 10. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.

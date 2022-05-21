@@ -1,4 +1,4 @@
-## 41. §[^103]
+## 41. §[^105]
 
 1. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
 
@@ -58,7 +58,7 @@ f) egészségbiztosítási főiskolai szintű szak
 
 g) jogi egyetem.
 
-4.[^104] Árufuvarozási ismeretek:
+4.[^106] Árufuvarozási ismeretek:
 
 a) szakirányú okleveles gépészmérnök vagy
 
@@ -76,13 +76,13 @@ g) közlekedésmérnök alapképzési szakon vagy
 
 h) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
 
-i)[^105] középfokú szakképesítés:
+i)[^107] középfokú szakképesítés:
 
 ia) nemzetközi szállítmányozási és logisztikai menedzser,
 
 ib) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-5.[^106] Jármű műszaki, üzemeltetési és közlekedés biztonsági ismeretek:
+5.[^108] Jármű műszaki, üzemeltetési és közlekedés biztonsági ismeretek:
 
 a) szakirányú okleveles gépészmérnök vagy
 
@@ -118,7 +118,7 @@ o) közlekedés-üzemviteli, gépjárműüzemi technikus.
 
 – közép- vagy felsőfokú vámügyintézői szakképesítés.
 
-7.[^107] Személyszállítási ismeretek:
+7.[^109] Személyszállítási ismeretek:
 
 a) szakirányú okleveles közlekedésmérnök vagy
 
@@ -128,15 +128,15 @@ c) közlekedésmérnök alapképzési szakon szerzett diploma vagy
 
 d) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
 
-e)[^108] középfokú szakképesítés:
+e)[^110] középfokú szakképesítés:
 
 ea) nemzetközi szállítmányozási és logisztikai menedzser,
 
 eb) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-[^103]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^104]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
-[^105]: Az 1. melléklet 4. pont i) alpontja a 13/2020. (II. 7.) Korm. rendelet 57. § 1. pontja szerint módosított szöveg.
-[^106]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
-[^107]: Az 1. melléklet 7. pontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdése iktatta be.
-[^108]: Az 1. melléklet 7. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 57. § 2. pontja szerint módosított szöveg.
+[^105]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^107]: Az 1. melléklet 4. pont i) alpontja a 13/2020. (II. 7.) Korm. rendelet 57. § 1. pontja szerint módosított szöveg.
+[^108]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^109]: Az 1. melléklet 7. pontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^110]: Az 1. melléklet 7. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 57. § 2. pontja szerint módosított szöveg.
