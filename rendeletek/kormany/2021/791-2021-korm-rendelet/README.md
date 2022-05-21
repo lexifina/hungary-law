@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-791-20-
 | 2022-02-03 | 2021-791-20-22.4 | 2010: CXXX. törvény |
 | 2022-02-21 | 2021-791-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-02-22 | 2021-791-20-22.6 | 2010: CXXX. törvény |
+| 2022-05-21 | 2021-791-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
