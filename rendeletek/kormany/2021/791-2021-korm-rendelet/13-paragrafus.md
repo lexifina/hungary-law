@@ -1,4 +1,4 @@
-## 12. §[^11]
+## 12. §[^14]
 
 ## 4. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 10. § (1) bekezdése és a 11. § 2022. május 21-én lép hatályba.
 
-[^11]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
