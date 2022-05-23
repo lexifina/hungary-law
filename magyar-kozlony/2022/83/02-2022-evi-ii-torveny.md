@@ -1,0 +1,37 @@
+# 2022. évi II. törvény
+
+Magyar Közlöny 2022. évi 83. szám, 2022. május 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/pCH9nV1abR1nfCncGRWX627e8c30a4077/dokumentumok/cf52dbfa59ab2082b619e858e8912ad1df0627f2/letoltes)
+
+---
+
+2022. évi II. törvény
+Magyarország minisztériumainak felsorolásáról*
+Az Országgyűlés az Alaptörvény 17. cikk (1) bekezdése alapján a minisztériumok felsorolásáról a következő törvényt alkotja:
+1. §
+Magyarország minisztériumai a következők:
+a) Agrárminisztérium,
+b) Belügyminisztérium,
+c) Építési és Beruházási Minisztérium,
+d) Honvédelmi Minisztérium,
+e) Igazságügyi Minisztérium,
+f) Kulturális és Innovációs Minisztérium,
+g) Külgazdasági és Külügyminisztérium,
+h) Miniszterelnöki Kabinetiroda,
+i) Miniszterelnökség,
+j) Pénzügyminisztérium, és
+k) Technológiai és Ipari Minisztérium.
+2. §
+A miniszterelnök munkaszervezete a Miniszterelnöki Kabinetiroda, amelynek része kormányzati igazgatási
+munkaszervezetként a Miniszterelnöki Kormányiroda.
+3. §
+Ez a törvény a kihirdetését követő napon lép hatályba.
+4. § (1) Az Építési és Beruházási Minisztérium a Miniszterelnökségből történő kiválással jön létre.
+(2) Az 1. § szerinti minisztériumok és a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó
+törvények módosításáról szóló 2018. évi V. törvény szerinti minisztériumok közötti jogutódlást a Kormány eredeti
+jogalkotói hatáskörben kiadott rendelete állapítja meg.
+5. §
+Hatályát veszti a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények
+módosításáról szóló 2018. évi V. törvény.
+Novák Katalin s. k., Kövér László s. k.,
+köztársasági elnök az Országgyűlés elnöke
+* A törvényt az Országgyűlés a 2022. május 17-i ülésnapján fogadta el.
