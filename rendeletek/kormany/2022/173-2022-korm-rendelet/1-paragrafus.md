@@ -1,4 +1,4 @@
-1. §[^1] (1) Az Ukrajna területéről érkezett, ukrán állampolgársággal rendelkező személyek munkavállalásának támogatásáról szóló 96/2022. (III. 10.) Korm. rendelet (a továbbiakban: R1.), valamint az ukrán állampolgársággal rendelkező személyek foglalkoztatásának támogatásáról szóló 172/2022. (IV. 29.) Korm. rendelet (a továbbiakban: R2.) szerinti támogatást igényelhet
+1. §[^2] (1) Az Ukrajna területéről érkezett, ukrán állampolgársággal rendelkező személyek munkavállalásának támogatásáról szóló 96/2022. (III. 10.) Korm. rendelet (a továbbiakban: R1.), valamint az ukrán állampolgársággal rendelkező személyek foglalkoztatásának támogatásáról szóló 172/2022. (IV. 29.) Korm. rendelet (a továbbiakban: R2.) szerinti támogatást igényelhet
 
 a) az Országos Kórházi Főigazgatóság,
 
@@ -12,4 +12,4 @@ d) az állam által alapított, illetve fenntartott szakképzési centrum vagy s
 
 (2) Az (1) bekezdés szerinti támogatásra az R1. és az R2. rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
-[^1]: Az 1. § a Magyar Közlöny 2022. évi 74. számában megjelent helyesbítésnek megfelelő szöveg.
+[^2]: Az 1. § a Magyar Közlöny 2022. évi 74. számában megjelent helyesbítésnek megfelelő szöveg.
