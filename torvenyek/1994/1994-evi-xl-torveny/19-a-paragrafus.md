@@ -30,7 +30,7 @@ c) az Akadémia mint a nemzeti tudományos bibliográfiai adatbázist működtet
 
 d) a Magyar Felsőoktatási Akkreditációs Bizottság és az Országos Doktori Tanács részére,
 
-e) az oktatásért felelős miniszter részére,
+e) a felsőoktatásért felelős miniszter és a köznevelésért felelős miniszter részére,
 
 f) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal részére,
 
