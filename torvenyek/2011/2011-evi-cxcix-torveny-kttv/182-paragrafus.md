@@ -26,7 +26,7 @@ a) a személyügyi központ vezetője,
 
 b) meghatározott körben a személyügyi központ vezetője által feljogosított, személyügyi központnál alkalmazásban álló személy,
 
-c) a személyügyi központ felügyeletét ellátó közszolgálati életpálya kidolgozásáért felelős miniszter és az általa meghatározott körben, az általa feljogosított kormánytisztviselő,
+c) a személyügyi központ vezetője által meghatározott körben, az általa feljogosított kormánytisztviselő,
 
 d) saját adatai tekintetében az adatbázisban szereplő személy,
 
