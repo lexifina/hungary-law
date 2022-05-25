@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-30-00-00
 | 2015-07-03 | 2015. évi LXXX. törvény | 2012-30-00-00.8 |
 | 2018-12-31 | 2018. évi CXI. törvény | 2012-30-00-00.9 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2012-30-00-00.10 |
+| 2022-05-25 | 2022. évi IV. törvény | 2012-30-00-00.11 |
