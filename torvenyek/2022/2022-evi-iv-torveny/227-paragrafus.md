@@ -1,0 +1,3 @@
+## 130. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
+
+227. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 1. § (2) bekezdésében a „felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter” szövegrész helyébe a „felsőoktatásért felelős miniszter” szöveg lép.

@@ -1,0 +1,1 @@
+93. § A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 2. § (1) bekezdés d) pontjában az „a Kormány tagja” szövegrész helyébe az „a Kormány tagja, a miniszterelnök politikai igazgatója” szöveg lép.

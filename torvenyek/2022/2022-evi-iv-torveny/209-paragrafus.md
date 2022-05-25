@@ -1,0 +1,3 @@
+## 115. A Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a végzettségek, a képesítések és a tudományos fokozatok kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 2019. évi XXII. törvény módosítása
+
+209. § A Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a végzettségek, a képesítések és a tudományos fokozatok kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 2019. évi XXII. törvény 5. §-ában az „az oktatásért felelős miniszter” szövegrész helyébe az „a köznevelésért felelős miniszter és a felsőoktatásért felelős miniszter” szöveg lép.

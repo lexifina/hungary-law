@@ -1,0 +1,1 @@
+66. § A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 8. § (5) bekezdésében és 34. § (10) bekezdésében az „az oktatásért felelős miniszter” szövegrész helyébe az „a felsőoktatásért felelős miniszter” szöveg lép.

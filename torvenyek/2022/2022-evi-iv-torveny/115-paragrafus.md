@@ -1,0 +1,3 @@
+## 68. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
+
+115. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 4. §-ában az „a közigazgatás-fejlesztésért felelős miniszter” szövegrész helyébe az „a közigazgatás-fejlesztésért felelős miniszter vagy – ha a Kormány eredeti jogalkotói hatáskörben kiadott rendelete így rendelkezik – a közigazgatás-fejlesztésért felelős miniszter a miniszterelnök politikai igazgatója útján” szöveg lép.
