@@ -12,7 +12,7 @@ c) a természetvédelemért felelős miniszter a környezetvédelem és a termé
 
 d) az egészségügyért felelős miniszter az egészségügy területéről egy,
 
-e) az oktatásért felelős miniszter az oktatás területéről egy,
+e) a felsőoktatásért felelős miniszter a felsőoktatás területéről egy,
 
 f) Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke egy,
 

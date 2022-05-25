@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-27-00-00
 | 2020-03-01 | 2019. évi CX. törvény | 1998-27-00-00.20 |
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 1998-27-00-00.21 |
 | 2021-06-05 | 2021. évi LX. törvény | 1998-27-00-00.22 |
+| 2022-05-25 | 2022. évi IV. törvény | 1998-27-00-00.23 |
