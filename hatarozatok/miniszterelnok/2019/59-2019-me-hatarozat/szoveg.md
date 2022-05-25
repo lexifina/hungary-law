@@ -2,8 +2,10 @@ A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 234. § (1) bek
 
 dr. Láng Géza Károlyt
 
-a Miniszterelnöki Kormányiroda helyettes államtitkárává
+a Miniszterelnöki Kormányiroda helyettes államtitkárává[^1]
 
 – 2019. június 15-ei hatállyal –
 
 kinevezem.
+
+[^1]: A 31/2022. (VI. 11.) ME határozat alapján dr. Láng Géza Károly tekintetében akként módosul, hogy a „Miniszterelnöki Kormányiroda” megnevezés helyett a „Miniszterelnöki Kabinetiroda” megnevezést kell érteni.
