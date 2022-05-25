@@ -8,7 +8,7 @@
 
 a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét és a kiemelt budapesti fejlesztések előkészítése során ellátandó egyes feladatokat,
 
-b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, a Társaság feladataiban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét,
+b) az állami beruházásokért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, a Társaság feladataiban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét,
 
 c) a Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
 

@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-49-00-00
 | 2021-06-29 | 2021. évi LXXX. törvény | 2018-49-00-00.9 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2018-49-00-00.10 |
 | 2021-12-25 | 2021. évi CXXXIII. törvény | 2018-49-00-00.11 |
+| 2022-05-25 | 2022. évi IV. törvény | 2018-49-00-00.12 |
