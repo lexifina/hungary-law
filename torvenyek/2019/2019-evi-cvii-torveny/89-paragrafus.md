@@ -42,7 +42,7 @@ i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi é
 
 j) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, a 3. melléklet I/A., I/B., II., IV., V., VII., VIII. és X. pontjában foglalt adatkörökből a köztisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából;
 
-k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter;
+k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a kormányzati személyügyi igazgatásra kijelölt szerv vezetője;
 
 l) adategyezés, adatösszevetés, adatkorrigálás érdekében a különleges jogállású szervekre vonatkozó adatok tekintetében, valamint a különleges jogállású szervek köztisztviselőinek képzésével, továbbképzésével, vizsgáztatásával kapcsolatban a személyügyi központ vezetője, és az általa feljogosított, személyügyi központnál alkalmazásban álló személy;
 
