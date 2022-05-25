@@ -20,9 +20,9 @@ d) állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. 
 
 személlyel létesíthető.
 
-(2a) Ha a Rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt a munkáltató közalkalmazottai tekintetében, közalkalmazotti jogviszony azzal létesíthető, aki tudomásul veszi, hogy közalkalmazotti jogviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
+(2a) Ha törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt a munkáltató közalkalmazottjai tekintetében, közalkalmazotti jogviszony azzal létesíthető, aki tudomásul veszi, hogy közalkalmazotti jogviszonyának fennállása alatt feladatai törvényes ellátását az arra törvényben kijelölt szerv megbízhatósági vizsgálattal ellenőrizheti.
 
-(2b) A munkáltatóval közalkalmazotti jogviszonyban állók tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy a munkáltatóval közalkalmazotti jogviszonyban álló közalkalmazott eleget tesz-e az e törvényben meghatározott hivatali kötelezettségének.
+(2b) A munkáltatóval közalkalmazotti jogviszonyban állók tekintetében – ha azt törvény előírja – az arra törvényben kijelölt szerv ellenőrizheti, hogy a munkáltatóval közalkalmazotti jogviszonyban álló közalkalmazott eleget tesz-e az e törvényben meghatározott hivatali kötelezettségének.
 
 (2c) Ha a munkáltató feladatkörébe tizennyolcadik életévét be nem töltött személy nevelése, felügyelete, gondozása vagy gyógykezelése tartozik, a közalkalmazotti jogviszony létesítésének a feltétele az (1) bekezdésben meghatározottakon túl a (2d) és (2e) bekezdésben meghatározott követelményeknek való megfelelés.
 
