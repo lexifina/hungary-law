@@ -28,4 +28,4 @@ g) akinek a részvételből való kizártságának tényét a 13. § alapján a 
 
 (5) Az (1) bekezdés e) pontja alkalmazásában nem minősül alapítványnak a külön törvény alapján létrehozott, a párt működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítvány.
 
-(6) Az (1) bekezdés alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
+(6) Az (1) bekezdés alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány és a közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagyonellenőre.
