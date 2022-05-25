@@ -1,17 +1,27 @@
-### 20. § [A tárca nélküli miniszter]
+### 20. § [A miniszter]
 
-(1) A tárca nélküli miniszter feladatköreként az egy miniszter feladatkörébe sem tartozó feladatok ellátása határozható meg.
+(1) A miniszter részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg.
 
-(2) A tárca nélküli miniszter részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg. A tárca nélküli miniszter tevékenységét e törvényben meghatározottak szerint a Kormány által rendeletben meghatározott minisztérium vagy a Miniszterelnöki Kormányiroda segíti.
+(2) A minisztert az (1) bekezdés szerinti feladatok ellátásában
 
-(3) A tárca nélküli minisztert tevékenységének ellátásában a (2) bekezdés szerinti minisztériumban vagy a Miniszterelnöki Kormányirodán működő kabinet segíti. A (2) bekezdés szerinti minisztérium vagy a Miniszterelnöki Kormányiroda szervezeti és működési szabályzatában a tárca nélküli miniszter tevékenységének segítésére a (2) bekezdés szerinti minisztérium vagy a Miniszterelnöki Kormányiroda államtitkára, helyettes államtitkára, illetve egyéb szervezeti egységének vezetője is kijelölhető.
+a) az általa vezetett minisztérium, vagy
 
-(4) A tárca nélküli miniszter a feladatkörében egyedi utasítást adhat a (2) bekezdés szerinti minisztérium vagy a Miniszterelnöki Kormányiroda közigazgatási államtitkárának, valamint azon államtitkárának, helyettes államtitkárának és szervezeti egysége vezetőjének, aki a tárca nélküli miniszter tevékenységét segíti.
+b) a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt minisztérium (a továbbiakban: kijelölt minisztérium)
 
-(5) Ha a (2) bekezdésben meghatározott kormányrendelet eltérően nem rendelkezik, a (2) bekezdésben meghatározott kormányrendelet alapján a tárca nélküli miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört korábban ellátó miniszter által vezetett minisztérium vagy a Miniszterelnöki Kormányiroda jogutódja a (2) bekezdés szerinti minisztérium vagy a Miniszterelnöki Kormányiroda.
+segíti.
 
-(6) A (2) bekezdésben meghatározott kormányrendelet alapján a tárca nélküli miniszter tevékenységét – ha a tárca nélküli miniszter a miniszterelnök általános helyettese – több, a (2) bekezdés szerinti szerv is segítheti.
+(3) A minisztert tevékenységének ellátásában a (2) bekezdés b) pontja szerinti esetben a kijelölt minisztériumban működő kabinet segíti. A miniszter tevékenységének segítésére kijelölt minisztérium szervezeti és működési szabályzatában – a (2) bekezdés b) pontja szerinti esetben – a kijelölt minisztérium államtitkára, helyettes államtitkára, illetve egyéb szervezeti egységének vezetője is kijelölhető.
 
-(7) A (6) bekezdés szerinti esetben a tárca nélküli miniszter tevékenységének ellátását egy, a (2) bekezdésben meghatározott kormányrendeletben meghatározott kabinet segítheti.
+(4) A miniszter a (2) bekezdés b) pontja szerinti esetben a feladatkörében egyedi utasítást adhat a kijelölt minisztérium közigazgatási államtitkárának, valamint azon államtitkárának, helyettes államtitkárának és egyéb szervezeti egysége vezetőjének, aki a miniszter tevékenységét segíti.
 
-(8) A kizárólag a tárca nélküli miniszter irányítása alá tartozó szervezeti egységek tekintetében a munkáltatói jogokat a tárca nélküli miniszter, vagy – a szervezeti és működési szabályzat rendelkezése esetén – a tárca nélküli miniszter kabinetfőnöke gyakorolja.
+(5) A Kormány eredeti jogalkotói hatáskörben kiadott rendelete alapján – ha az eltérően nem rendelkezik – a miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört korábban ellátó miniszter által vezetett minisztérium, kijelölt minisztérium jogutódja
+
+a) a (2) bekezdés a) pontja szerinti esetben a feladat- és hatáskört átvevő miniszter által vezetett minisztérium,
+
+b) a (2) bekezdés b) pontja szerinti esetben a kijelölt minisztérium.
+
+(6) A Kormány eredeti jogalkotói hatáskörben kiadott rendelete alapján a (2) bekezdés b) pontja szerinti esetben a miniszter tevékenységét – ha a miniszter a miniszterelnök általános helyettese – több, a (2) bekezdés b) pontja szerinti szerv is segítheti.
+
+(7) A (6) bekezdés szerinti esetben a miniszter tevékenységének ellátását egy, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében meghatározott kabinet segítheti.
+
+(8) A (2) bekezdés b) pontja szerinti esetben a kizárólag a miniszter irányítása alá tartozó szervezeti egységek tekintetében a munkáltatói jogokat a miniszter, vagy – a szervezeti és működési szabályzat rendelkezése esetén – a miniszter kabinetfőnöke gyakorolja.

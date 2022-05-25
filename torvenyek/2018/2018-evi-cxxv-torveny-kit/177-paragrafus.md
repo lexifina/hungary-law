@@ -20,7 +20,7 @@ adatait.
 
 a) a személyügyi központ vezetője, valamint az általa feljogosított, személyügyi központnál alkalmazásban álló személy,
 
-b) a személyügyi központ felügyeletét ellátó közszolgálati életpálya kidolgozásáért felelős miniszter és az általa meghatározott körben, az általa feljogosított kormánytisztviselő,
+b) a kormányzati személyügyi igazgatásra kijelölt szerv vezetője és az általa meghatározott körben, az általa feljogosított kormánytisztviselő,
 
 c) a kormányzati személyügyi igazgatásra kijelölt szerv vezetője és az általa feljogosított, a kormányzati személyügyi igazgatásra kijelölt szerv alkalmazásban álló személy,
 

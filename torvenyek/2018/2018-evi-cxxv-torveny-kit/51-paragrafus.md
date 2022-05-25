@@ -16,6 +16,6 @@
 
 (4) Ha a kormányzati igazgatási szervet nem miniszter vezeti, és nem tartozik miniszter irányítása vagy felügyelete alá, a (3) bekezdés szerinti javaslatot a kormányzati igazgatási szerv vezetője jogosult megtenni.
 
-(5) A tárca nélküli miniszter az általa irányított, vezetett vagy felügyelt szervezeti egységek, illetve kormányzati igazgatási szervek tekintetében a (3) bekezdés szerinti javaslatot a tárca nélküli miniszter tevékenységét segítő kormányzati igazgatási szerv vezetője általi jóváhagyást követően teheti meg, ha a javaslat a tárca nélküli miniszter tevékenységét segítő kormányzati igazgatási szerv alaplétszámát és álláshelyeit érinti.
+(5) A 20. § (2) bekezdés b) pontja szerinti esetben a miniszter az általa irányított, vezetett vagy felügyelt szervezeti egységek, illetve kormányzati igazgatási szervek tekintetében a (3) bekezdés szerinti javaslatot a miniszter tevékenységét segítő kormányzati igazgatási szerv vezetője általi jóváhagyást követően teheti meg, ha a javaslat a miniszter tevékenységét segítő kormányzati igazgatási szerv alaplétszámát és álláshelyeit érinti.
 
 (6) A kormányzati igazgatási szerv alaplétszámának (1) bekezdés szerinti meghatározása során figyelembe kell venni az 1. § (3) bekezdésében és az 54. § (3) bekezdésében meghatározott személyeket.

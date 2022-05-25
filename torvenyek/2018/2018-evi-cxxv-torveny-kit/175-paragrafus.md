@@ -36,9 +36,9 @@ n) a kormányzati igazgatási szerv részére informatikai üzemeltetési felada
 
 o) a kormányhivatal irányítására kormányrendeletben kijelölt miniszter;
 
-p) a kormányzati személyügyi igazgatásra kijelölt szerv.
+p) a kormányzati személyügyi igazgatásra kijelölt szerv vezetője.
 
-(4) A miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár esetében a közszolgálati alapnyilvántartásban kell nyilvántartani a 3. mellékletben meghatározott adatokon túl a vezetői igazolvány számát, az EÜ VIP kártya számát, a diplomata útlevél számát, valamint a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár, továbbá a kormányzati igazgatási szervek kormánytisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendelet szerinti juttatások adatait is.
+(4) A miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár esetében a közszolgálati alapnyilvántartásban kell nyilvántartani a 3. mellékletben meghatározott adatokon túl a vezetői igazolvány számát, az EÜ VIP kártya számát, a diplomata útlevél számát, valamint a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár, továbbá a kormányzati igazgatási szervek kormánytisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendelet szerinti juttatások adatait is.
 
 (5) A tartós külszolgálatot teljesítő kormánytisztviselő esetében a 3. mellékletben meghatározott adatokon túl a közszolgálati alapnyilvántartásban kell nyilvántartani a külképviselet megnevezését, a diplomáciai vagy konzuli rangot, valamint az átalány-költségtérítésre vonatkozó adatokat is.
 

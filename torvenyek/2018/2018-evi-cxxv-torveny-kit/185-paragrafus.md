@@ -10,4 +10,6 @@ kezdeményezi.
 
 (2) A köztársasági elnök az (1) bekezdés b) pontja szerinti kezdeményezés esetén a minisztert vagy az államtitkárt e megbízatása alól felmenti.
 
+(2a) Az (1) bekezdés szerinti esetben a miniszterelnök a miniszterelnök politikai igazgatóját e megbízatása alól felmenti.
+
 (3) A politikai felsővezető hatáskörgyakorlásának megszűnésekor a Ksztv. 13. §-ában meghatározott juttatásra mindaddig nem jogosult, amíg a hatáskörgyakorlásának megszűnését követően e törvény szerint esedékes vagyonnyilatkozat-tételi kötelezettségének eleget nem tesz.

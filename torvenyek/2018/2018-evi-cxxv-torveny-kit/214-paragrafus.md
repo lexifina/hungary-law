@@ -14,11 +14,13 @@ c) a miniszteri kabinetben a miniszter tevékenységéhez,
 
 d) az államtitkári kabinetben vagy – ennek hiányában – az államtitkári titkárságon az államtitkár tevékenységéhez
 
+e) a politikai igazgatói kabineten és a Politikai Igazgatói Irodán a miniszterelnök politikai igazgatójának tevékenységéhez
+
 közvetlenül kapcsolódó feladatok ellátására teljesíthet szolgálatot.
 
-(2) A politikai tanácsadó kinevezése a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter vagy az államtitkár hatáskörgyakorlása idejére szól.
+(2) A politikai tanácsadó kinevezése a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója vagy az államtitkár hatáskörgyakorlása idejére szól.
 
-(3) A miniszteri kabinetben legfeljebb 15, az államtitkári kabinetben vagy – ennek hiányában – az államtitkári titkárságon legfeljebb 8 politikai tanácsadói álláshely létesíthető.
+(3) A miniszteri kabinetben legfeljebb 15, az államtitkári kabinetben vagy – ennek hiányában – az államtitkári titkárságon, a politikai igazgatói kabinetben és a Politikai Igazgatói Irodán legfeljebb 8 politikai tanácsadói álláshely létesíthető.
 
 (4) A politikai tanácsadó politikai szolgálati jogviszonyára a jelen fejezetben foglalt eltérésekkel e törvénynek a kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell alkalmazni.
 

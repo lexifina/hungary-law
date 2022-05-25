@@ -10,7 +10,7 @@ b) a területi kormányzati igazgatási szervek.
 
 a) a Kormány,
 
-b) a Miniszterelnöki Kormányiroda,
+b)
 
 c) a minisztérium,
 

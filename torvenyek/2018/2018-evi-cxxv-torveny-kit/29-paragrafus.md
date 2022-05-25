@@ -10,4 +10,4 @@ b) vezetőjét a miniszter javaslatára a miniszterelnök nevezi ki és menti fe
 
 c) vezetője a Magyar Honvédség vezetőjére vagy rendvédelmi szerv esetében az országos parancsnokra vonatkozó rendelkezések szerinti juttatásban részesül.
 
-(3) A honvédelemért felelős miniszter által vezetett minisztériumban szervezeti egységhez nem rendelt álláshely hozható létre – a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában rögzített módon –, a Magyar Honvédséggel való kapcsolattartás, valamint a kiemelt gazdálkodási feladatok koordinálása céljából. Az álláshelyet betöltő személyt a honvédelemért felelős miniszter nevezi ki. Az álláshelyet betöltő személy – a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában rögzített módon – irányíthat önálló szervezeti egységet, és az álláshelyhez rendszeresített beosztásra, rendfokozatra vagy illetményre és cím használatára jogosult.
+(3)

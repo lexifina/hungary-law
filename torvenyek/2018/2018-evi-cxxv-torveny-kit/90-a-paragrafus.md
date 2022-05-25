@@ -4,6 +4,6 @@
 
 (2) Az átadó kormányzati igazgatási szerv az átszállást megelőzően köteles tájékoztatni az átvevő kormányzati igazgatási szervet az átszállással érintett jogviszonyokból származó jogokról és kötelezettségekről. A tájékoztatás elmaradása az átvevő kormányzati igazgatási szervvel szemben az e jogviszonyokból származó igények érvényesítését nem érinti.
 
-(3) Az (1) bekezdés szerinti jogutódlás esetén az álláshelyet betöltő kormánytisztviselő új beosztási okiratát az átvevő kormányzati igazgatási szerv az átszállást követő harminc napon belül kiállítja.
+(3) Az (1) bekezdés szerinti jogutódlás esetén az álláshelyet betöltő kormánytisztviselő új beosztási okiratát az átvevő kormányzati igazgatási szerv az átszállást követő hatvan napon belül kiállítja.
 
 (4) Az (1)–(3) bekezdés rendelkezéseit kell alkalmazni az 55. § (4) bekezdése szerinti álláshelyátcsoportosítás és az 55. § (4a) és (4b) bekezdése szerinti álláshelycsere esetén.

@@ -1,25 +1,21 @@
 ### 21. § [A miniszter helyettesítése]
 
-(1) Akadályoztatása esetén
+(1) A miniszter – ha törvény eltérően nem rendelkezik – a feladat- és hatáskörébe tartozó ügyekben helyettesíthető.
 
-a) a minisztert – az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint – az államtitkár,
+(2) Akadályoztatása esetén a minisztert
 
-b) a tárca nélküli minisztert – a 20. § (2) bekezdése szerinti minisztérium vagy a Miniszterelnöki Kormányiroda szervezeti és működési szabályzatában meghatározottak szerint – a 20. § (2) bekezdése szerinti minisztérium vagy a Miniszterelnöki Kormányiroda államtitkára
+a) a 20. § (2) bekezdés a) pontja szerinti esetben – az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint – az államtitkár,
 
-helyettesíti.
-
-(2) A köztársasági elnök intézkedésének kezdeményezésében és intézkedésének ellenjegyzésében, valamint – az (1) bekezdésben meghatározott államtitkár akadályoztatása esetén – az Országgyűlés ülésén
-
-a) a minisztert akadályoztatása esetén a részletes feladat- és hatáskörét megállapító kormányrendeletben kijelölt másik miniszter,
-
-b) a tárca nélküli minisztert akadályoztatása esetén a részletes feladat- és hatáskörét megállapító kormányrendeletben kijelölt másik miniszter
+b) a 20. § (2) bekezdés b) pontja szerinti esetben – a kijelölt minisztérium szervezeti és működési szabályzatában meghatározottak szerint – a kijelölt minisztérium államtitkára
 
 helyettesíti.
 
-(3) Az Európai Unió kormányzati részvétellel működő intézményeiben – az Európai Unió Tanácsa miniszteri képviseletet igénylő testületei kivételével – döntése alapján
+(3) A köztársasági elnök intézkedésének kezdeményezésében és intézkedésének ellenjegyzésében, valamint – a (2) bekezdésben meghatározott államtitkár akadályoztatása esetén – az Országgyűlés ülésén a minisztert akadályoztatása esetén a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt másik miniszter helyettesíti.
 
-a) a minisztert a részletes feladat- és hatáskörét megállapító kormányrendeletben kijelölt másik miniszter vagy az (1) bekezdés a) pontjában meghatározott államtitkár,
+(4) Az Európai Unió kormányzati részvétellel működő intézményeiben – az Európai Unió Tanácsa miniszteri képviseletet igénylő testületei kivételével – döntése alapján a minisztert a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt másik miniszter vagy
 
-b) a tárca nélküli minisztert a részletes feladat- és hatáskörét megállapító kormányrendeletben kijelölt másik miniszter vagy az (1) bekezdés b) pontjában meghatározott államtitkár
+a) a 20. § (2) bekezdés a) pontja szerinti esetben a (2) bekezdés a) pontjában meghatározott államtitkár,
+
+b) a 20. § (2) bekezdés b) pontja szerinti esetben a (2) bekezdés b) pontjában meghatározott államtitkár
 
 helyettesíti.

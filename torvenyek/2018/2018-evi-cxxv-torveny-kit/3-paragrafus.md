@@ -22,9 +22,11 @@ c) a politikai tanácsadó, politikai főtanácsadó és a kabinetfőnök (a tov
 
 a) a miniszterelnök,
 
-b) a miniszter és
+b) a miniszter,
 
-c) az államtitkár.
+c) a miniszterelnök politikai igazgatója és
+
+d) az államtitkár.
 
 (4) Politikai vezető a kormánymegbízott.
 
@@ -70,4 +72,12 @@ d) az osztályvezető.
 
 (10) A miniszterelnök határozatával feljogosíthatja a Miniszterelnöki Kormányirodánál, valamint az általános politikai koordinációért felelős miniszter által vezetett minisztériumban a (2) bekezdés szerinti jogviszonyban foglalkoztatottat a miniszterelnöki tanácsadói vagy miniszterelnöki főtanácsadói megnevezés használatára.
 
-(11) A (2) bekezdés c) pontjától eltérően a honvédelemért felelős miniszter által vezetett minisztériumban, valamint a rendészetért felelős miniszter által vezetett minisztériumban kabinetfőnöknek hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló törvény szerint a minisztériumba vezényelt vagy kirendelt személy, illetve a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt személy is kinevezhető.
+(11) A (2) bekezdés c) pontjától eltérően kabinetfőnöknek kinevezhető
+
+a) a honvédelemért felelős miniszter által vezetett minisztériumban, hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló törvény szerint a minisztériumba vezényelt vagy kirendelt,
+
+b) a rendészetért felelős miniszter által vezetett minisztériumban a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt,
+
+c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által vezetett minisztériumban a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó jogviszonyban foglalkoztatott, a nemzetbiztonsági szolgálatokról szóló törvény és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt
+
+személy is.

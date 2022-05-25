@@ -28,6 +28,6 @@ hozható létre.
 
 a) részmunkaidőben történő foglalkoztatás esetén, és
 
-b) az 55. § (3) bekezdése szerinti esetben határozott időre
+b) az álláshelyet betöltő foglalkoztatott szülési szabadsága esetén és az 55. § (3) bekezdése szerinti esetben határozott időre
 
 hozható létre, azzal, hogy részmunkaidőben történő foglalkoztatás esetén, az álláshelyen foglalkoztatottak munkaideje együttesen nem haladhatja meg a 118. § (2) bekezdésében meghatározott munkaidőt.

@@ -80,7 +80,7 @@ a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
 (8) A kormányzati szolgálati jogviszonynak a (7) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
-(9) Ha a Rendőrségről szóló törvény lehetővé teszi, hogy a kormánytisztviselő szolgálati feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, kormányzati szolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy kormányzati szolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
+(9) Olyan szerv esetében, ahol törvény lehetővé teszi, hogy az ott foglalkoztatott kormánytisztviselő szolgálati feladatainak törvényes ellátását megbízhatósági vizsgálattal ellenőrizzék, kormányzati szolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy kormányzati szolgálati jogviszonyának fennállása alatt feladatainak törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizheti.
 
 (10) Nem nevezhető ki kormánytisztviselőnek az e törvény értelmében meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve, ha a Kormány a munkáltatói jogkör gyakorlójának kérelmére hozzájárul a kormánytisztviselő foglalkoztatásához.
 

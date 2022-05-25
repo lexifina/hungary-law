@@ -10,7 +10,7 @@
 
 (1) Kormánybiztossá
 
-a) miniszter, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
+a) miniszter, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
 
 b) az a) pont hatálya alá nem tartozó személy
 
@@ -18,4 +18,4 @@ nevezhető ki.
 
 (2) A kormánybiztos személyére a miniszterelnök tesz javaslatot.
 
-(3) A kormánybiztos megbízatása meghatározott időre, de legfeljebb két évre szól. A kormánybiztos e megbízatása a miniszteri, államtitkári, közigazgatási államtitkári vagy helyettes államtitkári megbízatásának megszűnésével megszűnik. A kormánybiztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével.
+(3) A kormánybiztos megbízatása meghatározott időre, de legfeljebb négy évre szól. A kormánybiztos e megbízatása a miniszteri, miniszterelnöki politikai igazgatói, államtitkári, közigazgatási államtitkári vagy helyettes államtitkári megbízatásának megszűnésével megszűnik. A kormánybiztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével azzal, hogy ebben az esetben a kormánybiztos az új Kormány megalakulásáig gyakorolja hatáskörét.

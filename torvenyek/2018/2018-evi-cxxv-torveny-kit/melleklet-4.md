@@ -225,13 +225,3 @@ A toborzási adatbázis adatköre
 ## 3. képzés időtartama, végzés időpontja
 
 ## 4. idegennyelv-ismerete (szintje, típusa)
-
-## 5. közigazgatási (rendészeti) vizsgák megszerzésének időpontja, oklevél száma, eredménye
-
-## 6. informatikai ismeretek
-
-## 7. egyéb, önkéntesen megadott adatok (pl. hobbi, érdeklődési kör)
-
-## IV.
-
-## 1. területek, amelyekről pályázat kiírása esetén hírlevélben értesülni szeretne.

@@ -4,7 +4,7 @@
 
 (2) A Kormány a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára évente meghatározhatja a vizsgálati tárgyköröket (célvizsgálat), valamint a vizsgálat alá vont szerveket (vizsgált szervek).
 
-(3) A célvizsgálatot a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter folytatja le, amelynek tapasztalatairól a Kormányt évente tájékoztatja.
+(3) A célvizsgálatot a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter folytatja le, amelynek tapasztalatairól a Kormány évente – a kormányzati személyügyi igazgatásra kijelölt szerv vezetője útján – tájékoztatja.
 
 (4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jogosult – a célvizsgálatok keretében – a 2. § (2) bekezdés c)–e) pontja szerinti központi kormányzati igazgatási szervek esetében
 

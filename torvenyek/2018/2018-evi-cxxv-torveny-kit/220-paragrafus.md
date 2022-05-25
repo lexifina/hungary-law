@@ -2,10 +2,10 @@
 
 (1) Miniszterelnöki biztossá
 
-a) miniszter, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
+a) miniszter, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
 
 b) az a) pont hatálya alá nem tartozó személy
 
 nevezhető ki.
 
-(2) A miniszterelnöki biztos megbízatása meghatározott időre, de legfeljebb a miniszterelnök megbízatása megszűnéséig szól. A miniszterelnöki biztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével.
+(2) A miniszterelnöki biztos megbízatása meghatározott időre, de legfeljebb a miniszterelnök megbízatása megszűnéséig szól. A miniszterelnöki biztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével azzal, hogy ebben az esetben a miniszterelnöki biztos az új Kormány megalakulásáig gyakorolja hatáskörét.
