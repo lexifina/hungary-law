@@ -4,7 +4,7 @@
 
 ## Kormányzati feladatok
 
-10. § A KKV-kkal kapcsolatos állami feladatokat a gazdaságfejlesztésért felelős miniszter (a továbbiakban: miniszter) hangolja össze. Ennek körében
+10. § A KKV-kkal kapcsolatos állami feladatokat a vállalkozásfejlesztésért felelős miniszter (a továbbiakban: miniszter) hangolja össze. Ennek körében
 
 a) értékeli a KKV-k állami támogatásának hatékonyságát, valamint kidolgozza az értékelés módszertanát,
 
