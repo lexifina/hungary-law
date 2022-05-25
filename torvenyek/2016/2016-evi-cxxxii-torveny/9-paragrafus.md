@@ -2,7 +2,7 @@
 
 9. § (1) A Honvédelmi Sportszövetség működését és gazdálkodását felügyelőbizottság ellenőrzi.
 
-(2) A felügyelőbizottság elnökét és tagjainak legalább felét a Honvédelmi Sportszövetség 4. § (1) bekezdése tagságából a közgyűlés választja meg és hívja vissza, további egy-egy tagját a honvédelemért felelős miniszter, az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter, valamint a nemzetgazdaságért felelős miniszter nevezi ki és hívja vissza.
+(2) A felügyelőbizottság elnökét és tagjainak legalább felét a Honvédelmi Sportszövetség 4. § (1) bekezdése tagságából a közgyűlés választja meg és hívja vissza, további egy-egy tagját a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, a köznevelésért felelős miniszter, a sportpolitikáért felelős miniszter, valamint a nemzetgazdaságért felelős miniszter nevezi ki és hívja vissza.
 
 (3) A felügyelőbizottság választott tagjainak megbízatása három évre szól. A felügyelőbizottság választott tagja legfeljebb két egymást követő alkalommal választható meg.
 
