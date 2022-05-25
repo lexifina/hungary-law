@@ -14,8 +14,9 @@ Vartus Gergelyt[^1]
 
 – 2018. június 8-ai hatállyal –
 
-az Innovációs és Technológiai Minisztérium helyettes államtitkárává
+az Innovációs és Technológiai Minisztérium helyettes államtitkárává[^2]
 
 kinevezem.
 
 [^1]: A 113/2020. (XII. 22.) ME határozat alapján Vartus Gergely tekintetében akként módosul, hogy az „Innovációs és Technológiai Minisztérium megnevezés helyett a „Miniszterelnökség” megnevezést kell érteni.
+[^2]: A 47/2022. (VI. 11.) ME határozat alapján dr. Botos Barbara, Érsek István, dr. Halász Zsolt és Tóth Péter tekintetében akként módosul, hogy az „Innovációs és Technológiai Minisztérium” megnevezés helyett a „Technológiai és Ipari Minisztérium” megnevezést kell érteni.
