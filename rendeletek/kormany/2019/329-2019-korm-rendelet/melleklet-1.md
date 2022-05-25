@@ -1,6 +1,6 @@
-## 24. §[^81]
+## 24. §[^93]
 
-1. melléklet a 329/2019. (XII. 20.) Korm. rendelethez[^82]
+1. melléklet a 329/2019. (XII. 20.) Korm. rendelethez[^94]
 
 ## Az 1. § (6) bekezdés f) pontja szerinti beszerzési tárgyak
 
@@ -30,5 +30,5 @@
 
 13. az 1–12. pontban meghatározott termékekhez kapcsolódó szolgáltatások
 
-[^81]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^82]: Az 1. mellékletet a 21/2022. (I. 25.) Korm. rendelet 6. §-a iktatta be.
+[^93]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: Az 1. mellékletet a 21/2022. (I. 25.) Korm. rendelet 6. §-a iktatta be.
