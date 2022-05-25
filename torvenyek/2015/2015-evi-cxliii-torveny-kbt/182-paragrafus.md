@@ -4,7 +4,7 @@
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
-a) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
+a) a költségvetés makrogazdasági megalapozásáért felelős miniszter által kijelölt személy;
 
 b) a közbeszerzésekért felelős miniszter által kijelölt személy;
 
