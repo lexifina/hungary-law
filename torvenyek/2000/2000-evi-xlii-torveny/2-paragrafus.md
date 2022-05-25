@@ -40,7 +40,7 @@ a) az a) és az e) pontjaiban rögzített feladatokat a Kormány,
 
 b) az f) és a h) pontjaiban rögzített feladatokat a közlekedésért felelős miniszter (a továbbiakban: a miniszter),
 
-c) a b) pontjában rögzített feladatot a miniszter az államháztartásért felelős miniszterrel és a gazdaságpolitikáért felelős miniszterrel együttesen,
+c) a b) pontjában rögzített feladatot a miniszter az államháztartásért felelős miniszterrel és a költségvetés makrogazdasági megalapozásáért felelős miniszterrel együttesen,
 
 d) a c) pontjában megállapított feladatot – feladatkörében – a miniszter, a külpolitikáért felelős miniszter és az egészségügyért felelős miniszter,
 
@@ -48,11 +48,11 @@ e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelő
 
 f)
 
-g) az i) pontjában rögzített feladatot a miniszter a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
+g) az i) pontjában rögzített feladatot a miniszter a költségvetés makrogazdasági megalapozásáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
 
-h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós források felhasználásáért felelős tagjával, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
+h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós források felhasználásáért felelős tagjával, a költségvetés makrogazdasági megalapozásáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
 
-i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a gazdaságpolitikáért felelős miniszterrel egyetértésben,
+i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a költségvetés makrogazdasági megalapozásáért felelős miniszterrel egyetértésben,
 
 j)
 
