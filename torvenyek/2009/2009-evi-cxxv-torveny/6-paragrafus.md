@@ -1,4 +1,4 @@
-6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a szociál- és nyugdíjpolitikáért felelős miniszter szakmai felügyelete alatt álló szervezet a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi, továbbá az ellenőrzés céljából nyilvántartást vezet a térítésmentes jelnyelvi tolmácsszolgáltatásról. A szervezet a nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója.
+6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a szociálpolitikáért felelős miniszter szakmai felügyelete alatt álló szervezet a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi, továbbá az ellenőrzés céljából nyilvántartást vezet a térítésmentes jelnyelvi tolmácsszolgáltatásról. A szervezet a nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója.
 
 (2) A nyilvántartás tartalmazza
 
