@@ -1,14 +1,14 @@
 ## ZÁRÓ RENDELKEZÉSEK
 
-33. § (1)[^63] Ez a rendelet a kihirdetése napján lép hatályba.
+33. § (1)[^64] Ez a rendelet a kihirdetése napján lép hatályba.
 
-(2)[^64]
+(2)[^65]
 
-(3)[^65]
+(3)[^66]
 
-(4)[^66]
+(4)[^67]
 
-[^63]: A 33. § (1) bekezdésének második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 761. pontja hatályon kívül helyezte.
-[^64]: A 33. § (2) bekezdését a 171/2006. (VII. 28.) Korm. rendelet 1. § (2) bekezdésének k) pontja hatályon kívül helyezte.
-[^65]: A 33. § (3) bekezdését a 163/2017. (VI. 28.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^66]: A 33. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 761. pontja hatályon kívül helyezte.
+[^64]: A 33. § (1) bekezdésének második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 761. pontja hatályon kívül helyezte.
+[^65]: A 33. § (2) bekezdését a 171/2006. (VII. 28.) Korm. rendelet 1. § (2) bekezdésének k) pontja hatályon kívül helyezte.
+[^66]: A 33. § (3) bekezdését a 163/2017. (VI. 28.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^67]: A 33. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 761. pontja hatályon kívül helyezte.

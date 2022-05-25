@@ -1,4 +1,4 @@
-## 28/A. §[^59] A Kohéziós Alap támogatásával megvalósuló közszolgáltatási célú eszközrendszer működtetésére, vagyonkezelésére irányuló közszolgáltatási, üzemeltetési, vagyonkezelési szerződések és módosításuk létrejöttéhez, illetve hatályossá válásához a Kohéziós Alap támogatásával megvalósuló eszközrendszer üzembe helyezésétől számított öt évig a közreműködő szervezet hozzájárulása is szükséges.
+## 28/A. §[^60] A Kohéziós Alap támogatásával megvalósuló közszolgáltatási célú eszközrendszer működtetésére, vagyonkezelésére irányuló közszolgáltatási, üzemeltetési, vagyonkezelési szerződések és módosításuk létrejöttéhez, illetve hatályossá válásához a Kohéziós Alap támogatásával megvalósuló eszközrendszer üzembe helyezésétől számított öt évig a közreműködő szervezet hozzájárulása is szükséges.
 
 ## KIFIZETŐ HATÓSÁG
 
@@ -6,4 +6,4 @@
 
 (2) A Kifizető Hatóság feladatait külön rendelet határozza meg.
 
-[^59]: A 28/A. §-t a 163/2017. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^60]: A 28/A. §-t a 163/2017. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
