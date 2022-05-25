@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-111-00-00
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 2007-111-00-00.2 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2007-111-00-00.3 |
 | 2018-10-12 | 2018. évi LIX. törvény | 2007-111-00-00.4 |
+| 2022-05-25 | 2022. évi IV. törvény | 2007-111-00-00.5 |
