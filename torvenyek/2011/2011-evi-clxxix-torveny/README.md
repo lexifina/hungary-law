@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-179-00-00
 | 2021-05-14 | 2021. évi XXXIII. törvény | 2011-179-00-00.41 |
 | 2021-06-26 | 2021. évi XCVII. törvény | 2011-179-00-00.42 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2011-179-00-00.43 |
+| 2022-05-25 | 2022. évi IV. törvény | 2011-179-00-00.44 |

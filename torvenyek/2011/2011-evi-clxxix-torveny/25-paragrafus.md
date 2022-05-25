@@ -6,7 +6,7 @@
 
 (4) Különösen indokolt esetben az országos nemzetiségi önkormányzat átveheti a nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű
 
-a) köznevelési intézmény fenntartását az oktatásért felelős miniszter,
+a) köznevelési intézmény fenntartását a köznevelésért felelős miniszter,
 
 b) szakképző intézmény fenntartását a szakképzésért felelős miniszter
 

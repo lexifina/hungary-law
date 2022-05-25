@@ -1,6 +1,6 @@
 24. § (1) A nemzetiségi önkormányzat köznevelési intézményt, illetve szakképző intézményt alapíthat és tarthat fenn. A nemzetiségi önkormányzat által fenntartott
 
-a) köznevelési intézmény vezetőjét az oktatásért felelős miniszter,
+a) köznevelési intézmény vezetőjét a köznevelésért felelős miniszter,
 
 b) szakképző intézmény vezetőjét a szakképzésért felelős miniszter
 
