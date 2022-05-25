@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-42-00-00
 | 2020-01-01 | 2019. évi CXXVII. törvény | 1994-42-00-00.49 |
 | 2020-06-10 | 2020. évi LIV. törvény | 1994-42-00-00.50 |
 | 2021-06-04 | 2021. évi LXV. törvény | 1994-42-00-00.51 |
+| 2022-05-25 | 2022. évi IV. törvény | 1994-42-00-00.52 |
