@@ -4,21 +4,23 @@
 
 ## A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 
-7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
+7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
 
-a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
+a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 
 b) elvégzi
 
-ba) az (1c) bekezdésben foglalt kivétellel a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
+ba) az (1c) bekezdésben foglalt kivétellel a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által vezetett minisztérium vagy munkaszervezet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által irányított vagy felügyelt költségvetési szervek, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
 
 bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók, valamint a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományának,
 
-bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói
+bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói,
 
-[a ba)–bc) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát.
+bd) a területi kormányzati igazgatási szervek foglalkoztatottjának
 
-c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
+[a ba)–bd) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát,
+
+c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi e bűncselekmények felderítését.
 
 (1a) Az (1) bekezdés b) pont ba) alpontja alkalmazásában foglalkoztatott
 
@@ -32,13 +34,11 @@ d) a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgála
 
 e) a rendvédelmi igazgatási szolgálati jogviszonyban,
 
-f) az adó- és vámhatósági szolgálati jogviszonyban,
+f) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban,
 
-g) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban, illetve a Nemzet Adó- és Vámhivatalnál fennálló tisztjelölti jogviszonyban,
+g) az egészségügyi szolgálati jogviszonyban, és
 
-h) az egészségügyi szolgálati jogviszonyban, és
-
-i) a munkaviszonyban
+h) a munkaviszonyban
 
 foglalkoztatott.
 
@@ -46,11 +46,13 @@ foglalkoztatott.
 
 (1c) Az (1) bekezdés b) pont ba) alpontjától eltérően nem tartozik a védett állomány körébe
 
-a) az Információs Hivatal foglalkoztatottja,
+a) – a kormányzati szolgálati jogviszonyban állók kivételével – a nemzeti köznevelésről szóló törvényben meghatározott intézménnyel munkavégzésre irányuló jogviszonyban álló személy,
 
-b) a honvédelmi szervezetek foglalkoztatottja, ez a kivétel azonban nem terjed ki az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható, a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományára, továbbá
+b) a szociális intézménnyel munkavégzésre irányuló jogviszonyban álló személy,
 
-c) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.
+c) a honvédelmi szervezetek foglalkoztatottja, ez a kivétel azonban nem terjed ki az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható, a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományára, továbbá
+
+d) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
