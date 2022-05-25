@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-114-00-00
 | 2017-10-13 | 2017. évi CXIV. törvény | 2017-114-00-00.0 (közlönyállapot) |
 | 2017-10-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-114-00-00.1 |
 | 2017-11-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-114-00-00.2 |
+| 2022-05-25 | 2022. évi IV. törvény | 2017-114-00-00.3 |
