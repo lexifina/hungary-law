@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2021-01-01 | 2020. évi CLXXVIII. törvény | 2004-2-00-00.52 |
 | 2021-03-01 | 2020. évi CLXXVIII. törvény | 2004-2-00-00.53 |
 | 2022-01-01 | 2021. évi CXXXV. törvény | 2004-2-00-00.54 |
+| 2022-05-25 | 2022. évi IV. törvény | 2004-2-00-00.55 |
