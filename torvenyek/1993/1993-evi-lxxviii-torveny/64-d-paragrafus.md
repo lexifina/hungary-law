@@ -34,4 +34,4 @@ l) – ha a szolgáltató bejelenti – az elektronikus, telefonos, postai, ille
 
 (6) Ha a nyilvántartás adataiban történő változás alapján indokolt a szolgáltatási tevékenységet végző természetes személy, illetve a szolgáltató gazdálkodó szervezet szolgáltatási tevékenység végzésére való jogosultságának felülvizsgálata, akkor az ingatlanvállalkozás-felügyeleti hatóság hivatalból eljárást indít, és szükség esetén intézkedik a változás nyilvántartáson történő átvezetéséről.
 
-(7) A pénzügyi információs egységként működő hatóság, valamint a lakásgazdálkodásért és lakáspolitikáért felelős miniszter törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
+(7) A pénzügyi információs egységként működő hatóság, valamint a lakáscélú állami támogatásokért felelős miniszter törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
