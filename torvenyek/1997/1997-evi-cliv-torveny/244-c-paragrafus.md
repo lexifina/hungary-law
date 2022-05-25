@@ -1,3 +1,5 @@
-244/C. §
+244/C. § (1) A honvédelemért felelős miniszter irányítása alá tartozó, egészségügyi szolgáltatónak minősülő Magyar Honvédség Egészségügyi Központ honvédelmi szervezetből, 2023. január 1. napjával kiválással jön létre a miniszter irányítása alatt egy új egészségügyi szolgáltató, amely jogutódként ellátja a Magyar Honvédség Egészségügyi Központ egészségügyi szolgáltatóként végzett feladatait. Az új egészségügyi szolgáltató létrehozásáról a miniszter és a honvédelemért felelős miniszter együttesen gondoskodik.
+
+(2) Ha az egészségügyi szolgáltatási feladatokkal összefüggő jogutódlás során az érintett foglalkoztatott vonatkozásában jogviszonyváltásra kerül sor, úgy az átvevő munkáltatónál létesülő jogviszony alapján a foglalkoztatott illetménye, nem lehet alacsonyabb mértékű, mint az átadást megelőzően irányadó illetményének és a jogszabály alapján járó illetménypótlékainak együttes összege, kivéve, ha valamely speciális foglalkoztatásra vonatkozó jogszabály szerint járó illetménypótlék megállapításának alapjául szolgáló körülmény az új jogviszony megkötését követően már nem áll fenn.
 
 244/C. §

@@ -71,3 +71,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2021-12-22 | 2021. évi CXLVIII. törvény | 1997-154-00-00.104 |
 | 2022-01-01 | 2021. évi CXXX. törvény | 1997-154-00-00.105 |
 | 2022-01-31 | 2021. évi CI. törvény | 1997-154-00-00.106 |
+| 2022-05-25 | 2020. évi XXX. törvény | 1997-154-00-00.107 |
