@@ -2,4 +2,4 @@
 
 [3. § (2) Nincs helye sztrájknak]
 
-,,és a polgári nemzetbiztonsági szolgálatoknál.''
+„,,és a polgári nemzetbiztonsági szolgálatoknál.''”

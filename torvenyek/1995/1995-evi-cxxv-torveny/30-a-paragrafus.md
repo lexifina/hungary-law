@@ -1,4 +1,4 @@
-## A Terrorelhárítási Információs és Bűnügyi Elemző Központ működésére vonatkozó különös rendelkezések
+## A Nemzeti Információs Központ működésére vonatkozó különös rendelkezések
 
 30/A. § Az együttműködő szervek a következők:
 

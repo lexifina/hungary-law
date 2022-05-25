@@ -20,11 +20,13 @@ i) jogszabály rendelkezései szerint ellátja az elektronikus információbizto
 
 j) jogszabály rendelkezései szerint ellátja a minősített adat védelmével kapcsolatos hatósági feladatokat, valamint a telephelyi iparbiztonsági hatósági feladatokat.
 
-(2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
+k) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését.
 
-(3) A Nemzetbiztonsági Szakszolgálat az (1) bekezdés a) és f) pontjában meghatározott feladatai ellátása érdekében az 54. § (1) bekezdésében meghatározott tevékenységet, eszközöket és módszereket, valamint az (1) bekezdés i) pontjában meghatározott feladatai ellátása érdekében az 54. § (1) bekezdés f), g) és j) pontjában meghatározott tevékenységet saját kezdeményezésre végezheti, illetve alkalmazhatja.
+(2) A Nemzetbiztonsági Szakszolgálat hírigényt az (1) bekezdés c)–g), i)–k) pontjában meghatározott feladatai ellátása során megszerzett információk tekintetében teljesíthet, kizárólag a Nemzetbiztonsági Szakszolgálatot irányító miniszter részére.
 
-(4) A Nemzetbiztonsági Szakszolgálat az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit – az (1) bekezdés f) pontjában meghatározott feladat ellátása kivételével – saját kezdeményezésre nem alkalmazhatja.
+(3) A Nemzetbiztonsági Szakszolgálat az (1) bekezdés a), f) és k) pontjában meghatározott feladatai ellátása érdekében az 54. § (1) bekezdésében meghatározott tevékenységet, eszközöket és módszereket, valamint az (1) bekezdés i) pontjában meghatározott feladatai ellátása érdekében az 54. § (1) bekezdés f), g) és j) pontjában meghatározott tevékenységet saját kezdeményezésre végezheti, illetve alkalmazhatja.
+
+(4) A Nemzetbiztonsági Szakszolgálat az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit – az (1) bekezdés f) és k) pontjában meghatározott feladat ellátása kivételével – saját kezdeményezésre nem alkalmazhatja.
 
 (5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – az (1) bekezdés e) pontjában meghatározott igazságügyi szakértői tevékenységet kivéve – térítésmentesek.
 
@@ -49,3 +51,5 @@ a) az okozott sérelemmel vagy közvetlen fenyegetéssel arányosnak és szüks�
 b) biztosítani kell az összhangot a nemzetbiztonsági, honvédelmi, bűnüldözési és külpolitikai érdekekkel és törekvésekkel.
 
 (10) Külföldről érkező jelentős kibertámadás esetén a foganatosított intézkedésekről és azok okairól tájékoztatni kell a külpolitikáért felelős minisztert a további intézkedések megtétele céljából.
+
+(11) A Nemzetbiztonsági Szakszolgálat a (3) bekezdés szerint, az (1) bekezdés f) és i) pontjában meghatározott feladatai ellátása érdekében saját kezdeményezésre végzett tevékenységből, illetve az (1) bekezdés f) és i) pontjában meghatározott feladatai érdekében a saját kezdeményezésre alkalmazott eszközök és módszerek által megszerzett, a Nemzeti Információs Központ 8/A. §-ban meghatározott feladat- és hatásköre gyakorlásához szükséges információkat haladéktalanul biztosítja a Nemzeti Információs Központnak.

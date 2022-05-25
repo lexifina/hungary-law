@@ -2,6 +2,6 @@
 
 (2) Az összekapcsolást a konkrét nemzetbiztonsági feladat elvégzését követően meg kell szüntetni, az összekapcsolás során keletkezett adatállományt az eljárás befejezését követően törölni kell. Nem kell törölni az összekapcsolás eredményeként keletkezett azon adatot, amely a nemzetbiztonsági szolgálatok feladatainak ellátásához szükséges.
 
-(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ adatkezelési rendszerét a további nemzetbiztonsági szolgálatok nem kapcsolhatják össze a saját adatkezelési rendszereikkel.
+(3) A Nemzeti Információs Központ adatkezelési rendszerét a további nemzetbiztonsági szolgálatok nem kapcsolhatják össze a saját adatkezelési rendszereikkel.
 
-(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az adatkezelési rendszerét a további nemzetbiztonsági szolgálatok adatkezelési rendszereivel – ha a személyes adatoknak az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott szintű védelme biztosított – a (2) bekezdésben foglalt korlátozás nélkül összekapcsolhatja.
+(4) A Nemzeti Információs Központ az adatkezelési rendszerét a további nemzetbiztonsági szolgálatok adatkezelési rendszereivel – ha a személyes adatoknak az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott szintű védelme biztosított – a (2) bekezdésben foglalt korlátozás nélkül összekapcsolhatja.

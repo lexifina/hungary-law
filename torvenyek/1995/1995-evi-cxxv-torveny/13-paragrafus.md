@@ -10,7 +10,7 @@ b) a vezetése alatt álló nemzetbiztonsági szolgálat részére utasítást a
 
 c) felelős a nemzetbiztonsági szolgálat önálló költségvetési gazdálkodásáért, a könyvvezetési és beszámolási kötelezettség teljesítéséért;
 
-d) a miniszter jóváhagyásával – a Terrorelhárítási Információs és Bűnügyi Elemző Központ főigazgatójának kivételével – meghatározza a titkos információgyűjtés belső eljárási és engedélyezési szabályait;
+d) a miniszter jóváhagyásával meghatározza a titkos információgyűjtés belső eljárási és engedélyezési szabályait;
 
 e) meghatározza az adatkezelés belső eljárási szabályait;
 

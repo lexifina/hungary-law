@@ -1,0 +1,7 @@
+5/B. § (1) Az Alkotmányvédelmi Hivatal – a Rendőrségről szóló 1994. évi XXXIV. törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv hatáskörébe tartozó szervek, valamint a honvédelmi szervezetek kivételével – ellátja a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv belső biztonsági és bűnmegelőzési célú ellenőrzését.
+
+(2) Az Alkotmányvédelmi Hivatal az 5/C. § (1) bekezdésében meghatározott szervek foglalkoztatottjai esetében megbízhatósági vizsgálatot folytat.
+
+(3) Ha az Alkotmányvédelmi Hivatal a feladatai ellátása során bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, a 44. § (2a) bekezdése szerinti kivétellel feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy ügyészségnél, és átadja az általa összegyűjtött adatokat.
+
+(4) Ha az Alkotmányvédelmi Hivatal olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye – a 44. § (2a) bekezdése szerinti kivétellel – előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, nyomozó hatóságnál, illetve a terrorizmust elhárító szervnél, és átadja az általa összegyűjtött adatokat.

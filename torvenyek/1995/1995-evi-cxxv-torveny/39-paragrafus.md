@@ -8,9 +8,9 @@ c) adatkezelést végző szerv adatszolgáltatásából;
 
 d) e törvényben meghatározott esetekben közvetlen elektronikus adatkapcsolat útján,
 
-e) titkos információgyűjtéssel az (1a) bekezdésben meghatározott kivétellel.
+e) titkos információgyűjtéssel.
 
-(1a) A Terrorelhárítási Információs és Bűnügyi Elemző Központ titkos információgyűjtést nem folytat.
+(1a)
 
 (2) A nemzetbiztonsági szolgálatok az adatkezelés során kötelesek az adott cél eléréséhez feltétlenül szükséges, ugyanakkor az érintett személyiségi jogait legkevésbé korlátozó eszközt igénybe venni.
 

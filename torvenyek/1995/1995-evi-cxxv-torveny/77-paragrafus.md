@@ -10,6 +10,10 @@ c) a titkos információgyűjtés, illetve a leplezett eszközök alkalmazása f
 
 d) a titkos információgyűjtés, illetve a leplezett eszközök alkalmazása feltételeinek biztosítása érdekében a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott alkalmazásszolgáltatók együttműködésének rendjét és szabályait.
 
+e) a megbízhatósági vizsgálat, illetve a kifogástalan életvitel ellenőrzésének részletes szabályait,
+
+f) az 5/C. § (3) bekezdése alapján a megbízhatósági vizsgálat alól mentesített szervet vagy foglalkoztatotti csoportot.
+
 (2) Felhatalmazást kap a Kormány, hogy határozatban megállapítsa:
 
 a) a nemzetbiztonsági szolgálatok illetékességének, valamint egymással és más szervekkel történő együttműködésének e törvénnyel nem érintett szabályait;

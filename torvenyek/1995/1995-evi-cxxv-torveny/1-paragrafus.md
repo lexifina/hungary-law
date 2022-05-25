@@ -10,6 +10,6 @@ c) a Katonai Nemzetbiztonsági Szolgálat,
 
 d) a Nemzetbiztonsági Szakszolgálat, valamint
 
-e) a Terrorelhárítási Információs és Bűnügyi Elemző Központ
+e) a Nemzeti Információs Központ
 
 (a továbbiakban együtt: nemzetbiztonsági szolgálatok).

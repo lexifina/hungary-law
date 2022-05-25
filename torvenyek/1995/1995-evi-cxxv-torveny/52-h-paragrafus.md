@@ -1,10 +1,10 @@
-52/H. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
+52/H. § (1) A Nemzeti Információs Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
 
 (2) A légiutas-adatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
 
-(3) A légiutas-adat szolgáltatója a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott elektronikus formátumban és módon adja át a légiutas-adatot.
+(3) A légiutas-adat szolgáltatója a Nemzeti Információs Központ által meghatározott elektronikus formátumban és módon adja át a légiutas-adatot.
 
-(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében
+(4) A Nemzeti Információs Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében
 
 a) a légiutas-adat szolgáltatója által szolgáltatott légiutas-adatokat összeveti az elemző-értékelő tevékenység céljából kezelt adatokkal,
 
@@ -12,15 +12,15 @@ b) légiutas-adatok tekintetében a (2) bekezdésben meghatározott bűncselekm�
 
 c) az átvett légiutas-adatokról nyilvántartást vezet.
 
-(5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
+(5) A Nemzeti Információs Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
 
-(6) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Terrorelhárítási Információs és Bűnügyi Elemző Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
+(6) A Nemzeti Információs Központ a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Nemzeti Információs Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
 
-(7) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (3) bekezdés i) pontjában meghatározottak szerint jár el.
+(7) Ha a Nemzeti Információs Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (3) bekezdés i) pontjában meghatározottak szerint jár el.
 
-(8) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az átvett légiutas-adatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő öt évig kezeli.
+(8) A Nemzeti Információs Központ az átvett légiutas-adatot a Nemzeti Információs Központhoz érkezést követő öt évig kezeli.
 
-(9) A légiutas-adat szolgáltatója által szolgáltatott légiutas-adatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő 6 hónap elteltével az alábbi adatelemek elrejtése útján személyazonosításra alkalmatlanná kell tenni:
+(9) A légiutas-adat szolgáltatója által szolgáltatott légiutas-adatot a Nemzeti Információs Központhoz érkezést követő 6 hónap elteltével az alábbi adatelemek elrejtése útján személyazonosításra alkalmatlanná kell tenni:
 
 a) az utas neve, beleértve a 2016/681/EU parlamenti és tanács irányelv szerinti megosztott/kettős utas-nyilvántartási információt, valamint az egy utas-nyilvántartási adathoz kapcsolódó utazók számát, ezek neveit,
 
@@ -36,7 +36,7 @@ f) a továbbított, 2016/681/EU parlamenti és tanács irányelv szerinti előze
 
 (9a)
 
-(10) A Terrorelhárítási és Információs Bűnügyi Elemző Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések, valamint elveszett, eltulajdonított úti okmányok hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+(10) A Nemzeti Információs Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések, valamint elveszett, eltulajdonított úti okmányok hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
 
 (11)
 

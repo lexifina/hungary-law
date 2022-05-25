@@ -20,9 +20,9 @@ egyetértésével kiadott rendeletben állapítsák meg a nemzetbiztonsági elle
 
 (1b) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben szabályozza
 
-a) a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját, valamint
+a) a Nemzeti Információs Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját, valamint
 
-b) a Terrorelhárítási Információs és Bűnügyi Elemző Központ által az Európai Bizottság részére történő adatszolgáltatás részletes szabályait és a statisztikai adatok körét.
+b) a Nemzeti Információs Központ által az Európai Bizottság részére történő adatszolgáltatás részletes szabályait és a statisztikai adatok körét.
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 

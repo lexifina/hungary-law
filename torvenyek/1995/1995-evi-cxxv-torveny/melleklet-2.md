@@ -612,7 +612,7 @@ Főfoglalkozásán kívüli éves bruttó 500 000 Ft-ot meghaladó jövedelméne
 
 |
 
-Adóhatósággal, társadalombiztosítással, pénzintézetekkel szemben fennálló tartozásai, pénz­ügyi kötelezettségei 5 évre visszamenőleg:
+Adóhatósággal, társadalombiztosítással, pénzintézetekkel szemben fennálló tartozásai, pénzügyi kötelezettségei 5 évre visszamenőleg:
 
 |
 
@@ -644,7 +644,7 @@ a gazdálkodó szervezet megnevezése, címe, tevékenységi köre:
 
 |
 
-Van-e hivatalos kapcsolatuk külföldön bejegyzett gazdálkodó szervezettel, az együttmű­ködés/kapcsolat jellege:
+Van-e hivatalos kapcsolatuk külföldön bejegyzett gazdálkodó szervezettel, az együttműködés/kapcsolat jellege:
 
 |
 
