@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-81-00-00
 | --- | --- | --- |
 | 2021-06-25 | 2021. évi LXXXI. törvény | 2021-81-00-00.0 (közlönyállapot) |
 | 2021-06-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-81-00-00.1 |
+| 2022-05-25 | 2022. évi IV. törvény | 2021-81-00-00.2 |
