@@ -4,8 +4,8 @@
 
 (2) A nemzetpolitikáért felelős miniszter az (1) bekezdés szerinti engedély megadása előtt kikéri
 
-a) nemzetközi vásár (különösen kiállítás, árubemutató) esetén a külpolitikáért felelős miniszter,
+a) nemzetközi vásár (különösen kiállítás, árubemutató) esetén a külpolitikáért felelős miniszter, valamint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter,
 
-b) nemzetközi kulturális vagy társadalmi rendezvény esetén a külpolitikáért felelős miniszter és a rendezvény jellege szerint feladatkörrel rendelkező miniszter
+b) nemzetközi kulturális vagy társadalmi rendezvény esetén a külpolitikáért felelős miniszter, továbbá a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, valamint a rendezvény jellege szerint feladatkörrel rendelkező miniszter
 
 véleményét.
