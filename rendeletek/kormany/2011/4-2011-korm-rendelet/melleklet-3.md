@@ -16,112 +16,112 @@
 
 Az irányító hatóság és a közreműködő szervezet kijelölése
 
-|  | A | B | C | D | E |
+|  | A | B | C | D | E | F |
 
-| 1 | Operatív program | Prioritás | Intézkedés | A Kormánynak az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja | Közreműködő szervezet |
+| 1. | Operatív program | Prioritás | Intézkedés | A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett vagy tevékenységének segítésére kijelölt minisztérium | A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja | Közreműködő szervezet |
 
-| 2 | Államreform Operatív Program | közigazgatás-fejlesztésért felelős miniszter | – |
+| 2. | Államreform Operatív Program | Miniszterelnöki Kabinetiroda | Miniszterelnöki Kabinetirodát vezető miniszter | – |
 
-| 3 | Elektronikus Közigazgatás Operatív Program | közigazgatás-fejlesztésért felelős miniszter | – |
+| 3. | Elektronikus Közigazgatás Operatív Program | Miniszterelnöki Kabinetiroda | Miniszterelnöki Kabinetirodát vezető miniszter | – |
 
-| 4 | Gazdaságfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter | – |
+| 4. | Gazdaságfejlesztési Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
 
-| 5 | Környezet és Energia Operatív Program | energiapolitikáért felelős miniszter | – |
+| 5. | Környezet és Energia Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
 
-| 6 | Közlekedés Operatív Program | közlekedésért felelős miniszter | – |
+| 6. | Közlekedés Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
 
-| 7 | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | területfejlesztés stratégiai tervezéséért felelős miniszter | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
+| 7. | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | Miniszterelnökség | területfejlesztési miniszter | kincstár |
 
-| 8 | Turisztikai célú fejlesztések |
+| 8. | Turisztikai célú fejlesztések |
 
-| 9 | Közlekedési infrastruktúra fejlesztés |
+| 9. | Közlekedési infrastruktúra fejlesztés |
 
-| 10 | Humán-infrastruktúra fejlesztések |
+| 10. | Humán-infrastruktúra fejlesztések |
 
-| 11 | Térségfejlesztési akciók |
+| 11. | Térségfejlesztési akciók |
 
-| 12 | Dél-dunántúli Operatív Program | A városi térségek fejlesztésére alapozott versenyképes gazdaság megteremtése | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
+| 12. | Dél-dunántúli Operatív Program | A városi térségek fejlesztésére alapozott versenyképes gazdaság megteremtése | Miniszterelnökség | kincstár |
 
-| 13 | A turisztikai potenciál erősítése a régióban |
+| 13. | A turisztikai potenciál erősítése a régióban |
 
-| 14 | Humán közszolgáltatások fejlesztése |
+| 14. | Humán közszolgáltatások fejlesztése |
 
-| 15 | Integrált városfejlesztési akciók támogatása |
+| 15. | Integrált városfejlesztési akciók támogatása |
 
-| 16 | Az elérhetőség javítása és környezetfejlesztés |
+| 16. | Az elérhetőség javítása és környezetfejlesztés |
 
-| 17 | Észak-alföldi Operatív Program | Regionális gazdaságfejlesztés | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
+| 17. | Észak-alföldi Operatív Program | Regionális gazdaságfejlesztés | Miniszterelnökség | kincstár |
 
-| 18 | Turisztikai célú fejlesztés |
+| 18. | Turisztikai célú fejlesztés |
 
-| 19 | Közlekedési feltételek javítása |
+| 19. | Közlekedési feltételek javítása |
 
-| 20 | Humán infrastruktúra fejlesztése |
+| 20. | Humán infrastruktúra fejlesztése |
 
-| 21 | Város- és térségfejlesztés |
+| 21. | Város- és térségfejlesztés |
 
-| 22 | Észak-magyarországi Operatív Program | Versenyképes helyi gazdaság megteremtése | NORDA Észak- magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
+| 22. | Észak- magyarországi Operatív Program | Versenyképes helyi gazdaság megteremtése | Miniszterelnökség | kincstár |
 
-| 23 | A turisztikai potenciál erősítése |
+| 23. | A turisztikai potenciál erősítése |
 
-| 24 | Településfejlesztés |
+| 24. | Településfejlesztés |
 
-| 25 | Humán közösségi infrastruktúra fejlesztése |
+| 25. | Humán közösségi infrastruktúra fejlesztése |
 
-| 26 | Térségi közlekedés fejlesztése |
+| 26. | Térségi közlekedés fejlesztése |
 
-| 27 | Közép-dunántúli Operatív Program | Regionális gazdaságfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
+| 27. | Közép-dunántúli Operatív Program | Regionális gazdaságfejlesztés | Miniszterelnökség | kincstár |
 
-| 28 | Regionális turizmusfejlesztés |
+| 28. | Regionális turizmusfejlesztés |
 
-| 29 | Fenntartható településfejlesztés |
+| 29. | Fenntartható településfejlesztés |
 
-| 30 | Helyi és térségi környezetvédelmi és közlekedési infrastruktúra fejlesztés |
+| 30. | Helyi és térségi környezetvédelmi és közlekedési infrastruktúra fejlesztés |
 
-| 31 | Humán-infrastruktúra fejlesztés |
+| 31. | Humán-infrastruktúra fejlesztés |
 
-| 32 | Nyugat- dunántúli Operatív Program | Regionális gazdaságfejlesztés | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
+| 32. | Nyugat- dunántúli Operatív Program | Regionális gazdaságfejlesztés | Miniszterelnökség | kincstár |
 
-| 33 | Turizmusfejlesztés - Pannon örökség megújítása |
+| 33. | Turizmusfejlesztés – Pannon örökség megújítása |
 
-| 34 | Városfejlesztés |
+| 34. | Városfejlesztés |
 
-| 35 | Környezetvédelmi és közlekedési infrastruktúra |
+| 35. | Környezetvédelmi és közlekedési infrastruktúra |
 
-| 36 | Helyi és térségi közszolgáltatások fejlesztése |
+| 36. | Helyi és térségi közszolgáltatások fejlesztése |
 
-| 37 | Közép- magyarországi Operatív program | A tudásalapú gazdaság innováció- és vállalkozásorientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés, KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése | Pro Regio Közép- Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság, átadás-átvételt követően a Magyar Államkincstár |
+| 37. | Közép- magyarországi Operatív Program | A tudásalapú gazdaság innováció- és vállalkozásorientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés, KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése | Miniszterelnökség | kincstár |
 
-| 38 | Helyi gazdaságfejlesztés |
+| 38. | Helyi gazdaságfejlesztés |
 
-| 39 | A versenyképesség keretfeltételeinek fejlesztése | A régión belüli közlekedési kapcsolatok fejlesztése |
+| 39. | A versenyképesség keretfeltételeinek fejlesztése | A régión belüli közlekedési kapcsolatok fejlesztése |
 
-| 40 | A közösségi közlekedés működési feltételeinek fejlesztése |
+| 40. | A közösségi közlekedés működési feltételeinek fejlesztése |
 
-| 41 | Az alternatív, környezetkímélő közlekedési módok térnyerésének támogatása |
+| 41. | Az alternatív, környezetkímélő közlekedési módok térnyerésének támogatása |
 
-| 42 | A régió vonzerejének fenntartható fejlesztése |
+| 42. | A régió vonzerejének fenntartható fejlesztése |
 
-| 43 | A humán közszolgáltatások intézményrendsze- rének fejlesztése | A munkaerő-piaci részvételt támogató infrastruktúra fejlesztése |
+| 43. | A humán közszolgáltatások intézményrendsze- rének fejlesztése | A munkaerő-piaci részvételt támogató infrastruktúra fejlesztése |
 
-| 44 | A felsőoktatási intézmények infrastruktúra fejlesztése |
+| 44. | A felsőoktatási intézmények infrastruktúra fejlesztése |
 
-| 45 | Az egészségügyi intézmények infrastruktúra fejlesztése |
+| 45. | Az egészségügyi intézmények infrastruktúra fejlesztése |
 
-| 46 |  |  | A társadalmi befogadást támogató infrastruktúra fejlesztése |  |  |
+| 46. |  | A társadalmi befogadást támogató infrastruktúra fejlesztése |  |
 
-| 47 | A lakosságközeli szociális szolgáltatási infrastruktúra fejlesztése |
+| 47. | A lakosságközeli szociális szolgáltatási infrastruktúra fejlesztése |
 
-| 48 | A közoktatási intézmények infrastruktúra fejlesztése |
+| 48. | A közoktatási intézmények infrastruktúra fejlesztése |
 
-| 49 | Elektronikus helyi közigazgatási infrastruktúra fejlesztése |
+| 49. | Elektronikus helyi közigazgatási infrastruktúra fejlesztése |
 
-| 50 | Városi és települési területek megújítása |
+| 50. | Városi és települési területek megújítása |
 
-| 51 | Társadalmi Megújulás Operatív Program | emberi erőforrások minisztere | – |
+| 51. | Társadalmi Megújulás Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
 
-| 52 | Társadalmi Infrastruktúra Operatív Program | emberi erőforrások minisztere | – |
+| 52. | Társadalmi Infrastruktúra Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
 
-| 53 | Végrehajtás Operatív Program | közigazgatás-fejlesztésért felelős miniszter | – |
+| 53. | Végrehajtás Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
 
-[^609]: A 3. melléklet a 96/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 9. pontja, a 397/2015. (XII. 12.) Korm. rendelet 1. §-a, a 410/2016. (XII. 13.) Korm. rendelet 1. §-a, a 106/2018. (VI. 15.) Korm. rendelet 7. § 29–35. pontja szerint módosított szöveg. [A 127/2014. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével elrendelt módosítás nem volt átvezethető.]
+[^609]: A 3. melléklet a 183/2022. (V. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
