@@ -34,7 +34,7 @@ b) köztársasági elnök,
 
 c) országgyűlési képviselő, nemzetiségi szószóló,
 
-d) a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár,
+d) a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár,
 
 e) az Alkotmánybíróság tagja,
 
