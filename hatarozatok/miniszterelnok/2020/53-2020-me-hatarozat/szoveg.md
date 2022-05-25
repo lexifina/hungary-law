@@ -4,6 +4,8 @@ Dobos Balázst
 
 – 2020. július 15-ei hatállyal –
 
-az Innovációs és Technológiai Minisztérium helyettes államtitkárává
+az Innovációs és Technológiai Minisztérium helyettes államtitkárává[^1]
 
 kinevezem.
+
+[^1]: A 44/2022. (VI. 11.) ME határozat alapján Dobos Balázs tekintetében akként módosul, hogy az „Innovációs és Technológiai Minisztérium” tekintetében a „Kulturális és Innovációs Minisztérium” megnevezést kell érteni.
