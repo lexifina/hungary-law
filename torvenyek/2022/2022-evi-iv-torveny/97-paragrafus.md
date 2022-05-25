@@ -12,8 +12,4 @@
 
 „g) a Nemzeti Információs Központ elemzés-értékelés, hírigény teljesítése, valamint az utasadatok kockázatelemzése céljából,”
 
-(3) A Bnytv. 68. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-[Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni]
-
-„g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés b) pontjában, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (2), (4) és (8) bekezdésében meghatározott feladatai ellátása céljából,”
+(3)

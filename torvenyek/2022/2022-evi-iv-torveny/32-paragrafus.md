@@ -10,11 +10,7 @@ d) közvetlen biztonsági, nemzetbiztonsági, bűnügyi és terrorfenyegetettsé
 
 e) figyelemmel kíséri a Magyarország biztonsági, nemzetbiztonsági, terrorveszélyeztetettségi és bűnügyi helyzetét érintő tendenciákat, Magyarország biztonsági, nemzetbiztonsági, terrorveszélyeztetettségi és bűnügyi helyzetét érintő új jelenségekről elemzéseket, tanulmányokat készít.”
 
-(2) Az Nbtv. 8/A. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A Nemzeti Információs Központ vizsgálja Magyarország biztonsági és bűnügyi helyzetét, amelynek keretében)
-
-„d) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;”
+(2)
 
 (3) Az Nbtv. 8/A. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
 
@@ -82,10 +78,4 @@ m) hírigény-teljesítés érdekében bármely együttműködő szervet az ált
 
 „(7) A Nemzeti Információs Központ a saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését.”
 
-(6) Az Nbtv. 8/A. §-a a következő (8)–(10) bekezdéssel egészül ki:
-
-„(8) A Nemzeti Információs Központ ellátja az ETIAS nemzeti egység feladatait.
-
-(9) A Nemzeti Információs Központ működteti az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 50. cikk (2) bekezdése szerinti központi hozzáférési pontot.
-
-(10) A Nemzeti Információs Központ ellátja az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 57. cikk (2) bekezdése szerinti, az ETIAS-szal kapcsolatos adatkezelésért központilag felelős szerv feladatait.”
+(6)
