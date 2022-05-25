@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-59-00-00
 | 2018-10-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-59-00-00.1 |
 | 2018-10-13 | 2010. évi CXXX. törvény | 2018-59-00-00.2 |
 | 2021-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-59-00-00.3 |
+| 2022-05-25 | 2022. évi IV. törvény | 2018-59-00-00.4 |
