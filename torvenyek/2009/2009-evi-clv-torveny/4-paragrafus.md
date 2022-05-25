@@ -28,7 +28,7 @@ j) az alapvető jogok biztosa,
 
 k) a Magyar Nemzeti Bank elnöke,
 
-l) a Kormány tagja,
+l) a Kormány tagja, a miniszterelnök politikai igazgatója,
 
 m) a kormánybiztos, a miniszterelnöki biztos,
 
