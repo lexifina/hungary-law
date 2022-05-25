@@ -24,7 +24,7 @@ b) a környezetvédelemért felelős miniszter,
 
 c) a természetvédelemért felelős miniszter,
 
-d) az oktatásért felelős miniszter,
+d) a felsőoktatásért felelős miniszter és a köznevelésért felelős miniszter,
 
 e) az egészségügyért felelős miniszter,
 
