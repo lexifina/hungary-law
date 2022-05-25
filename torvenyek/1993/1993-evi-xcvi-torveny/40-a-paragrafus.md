@@ -16,7 +16,7 @@
 
 a) statisztikai célokra a Központi Statisztikai Hivatal,
 
-b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter és a gazdaságpolitika makrogazdasági szabályozásáért felelős miniszter,
+b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter és a költségvetés makrogazdasági megalapozásáért felelős miniszter és a gazdaságfejlesztésért felelős miniszter,
 
 c)
 
