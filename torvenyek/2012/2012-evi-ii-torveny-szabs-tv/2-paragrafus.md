@@ -14,6 +14,6 @@
 
 (7) Szabálysértés miatt nem vonható felelősségre, akivel szemben büntethetőséget kizáró ok áll fenn.
 
-(8) A Rendőrségről szóló törvényben felsorolt szabálysértés miatt nem vonható felelősségre a megbízhatósági vizsgálatot folytató személy, ha jogszabályban meghatározott feladata ellátása során követi el a szabálysértést.
+(8) A Rendőrségről szóló törvényben, valamint a nemzetbiztonsági szolgálatokról szóló törvényben felsorolt szabálysértés miatt nem vonható felelősségre a megbízhatósági vizsgálatot folytató személy, ha jogszabályban meghatározott feladata ellátása során követi el a szabálysértést.
 
 (9) Ugyanazon szabálysértés miatt nem büntethető, akinek szabálysértési ügyét a szabálysértési hatóság vagy a bíróság közvetítői eljárásra utalta és a közvetítői eljárás eredményes volt.

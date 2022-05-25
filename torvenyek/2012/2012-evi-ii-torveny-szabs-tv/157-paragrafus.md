@@ -12,7 +12,7 @@ d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jo
 
 e) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából,
 
-f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából, valamint
+f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés, belső biztonsági és bűnmegelőzési célú ellenőrzés, kifogástalan életvitel ellenőrzés, illetve megbízhatósági vizsgálat lefolytatása céljából, valamint
 
 g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából.
 
