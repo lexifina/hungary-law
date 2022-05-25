@@ -61,3 +61,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2021-06-28 | 2021. évi LIX. törvény | 2005-183-00-00.70 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2005-183-00-00.71 |
 | 2022-01-01 | 2021. évi CXXXVI. törvény | 2005-183-00-00.72 |
+| 2022-05-25 | 2019. évi CXV. törvény | 2005-183-00-00.73 |
