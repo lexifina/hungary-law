@@ -2,4 +2,4 @@
 
 (2) A képviselői, illetve a háznagyi tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (1a) bekezdés szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 
-(3) Ha a képviselő házelnöki, miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi megbízatással rendelkezik, a társadalombiztosítás ellátásaira való jogosultság szempontjából e megbízatását kell figyelembe venni.
+(3) Ha a képviselő házelnöki, miniszterelnöki, miniszteri, a miniszterelnök politikai igazgatója, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi megbízatással rendelkezik, a társadalombiztosítás ellátásaira való jogosultság szempontjából e megbízatását kell figyelembe venni.

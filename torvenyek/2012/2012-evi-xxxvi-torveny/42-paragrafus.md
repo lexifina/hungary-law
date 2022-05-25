@@ -4,7 +4,9 @@
 
 (2) Akihez az Alaptörvény szerint interpelláció vagy kérdés intézhető, köteles az interpellációt vagy kérdést személyesen, kivételesen helyettese útján megválaszolni.
 
-(3) Ha az interpelláció vagy kérdés az egész Kormány működését érinti, a miniszterelnök válaszol, ha több minisztert érint vagy az érintett miniszter személye kérdéses, a miniszterelnök jelöli ki a válaszadó minisztert.
+(3) Ha az interpelláció vagy kérdés az egész Kormány működését érinti, a miniszterelnök személyesen vagy – a (3a) bekezdésben meghatározott esetben – a miniszterelnök politikai igazgatója útján válaszol. Ha az interpelláció vagy kérdés több minisztert érint vagy az érintett miniszter személye kérdéses, a miniszterelnök jelöli ki a válaszadó minisztert vagy – a (3a) bekezdésben meghatározott esetben – a miniszterelnök politikai igazgatóját.
+
+(3a) A miniszterelnök az egész Kormány működését érintő, továbbá azon interpelláció vagy kérdés megválaszolására, amely több minisztert érint, vagy amely esetében az érintett miniszter személye kérdéses, a miniszterelnök politikai igazgatóját is kijelölheti, ha a miniszterelnök politikai igazgatója képviselői megbízatással rendelkezik.
 
 (4) Minden interpellációra az Országgyűlés ülésén kell választ adni. Az interpellált megindokolt kérésére az Országgyűlés – vita nélküli szavazással – engedélyezheti, hogy harminc napon belül írásban válaszoljon.
 

@@ -12,7 +12,7 @@ d) felmentésével,
 
 e) a tisztségről való lemondásával,
 
-f) miniszterelnökké történő megválasztásával, miniszterré vagy államtitkárrá történő kinevezésével, vagy
+f) miniszterelnökké történő megválasztásával, miniszterré, a miniszterelnök politikai igazgatójává vagy államtitkárrá történő kinevezésével, vagy
 
 g) ha adott országgyűlési cikluson belül az ülésnapról vagy ülésről kizárás fegyelmi intézkedést két alkalommal vagy a kitiltás fegyelmi intézkedést egy alkalommal jogerősen alkalmazták vele szemben.
 
@@ -30,7 +30,7 @@ d) a tisztségről való lemondásával,
 
 e) összeférhetetlenségének kimondásával,
 
-f) miniszterelnökké történő megválasztásával, miniszterré vagy államtitkárrá történő kinevezésével, vagy
+f) miniszterelnökké történő megválasztásával, miniszterré, a miniszterelnök politikai igazgatójává vagy államtitkárrá történő kinevezésével, vagy
 
 g) ha adott országgyűlési cikluson belül az ülésnapról vagy ülésről kizárás fegyelmi intézkedést két alkalommal vagy a kitiltás fegyelmi intézkedést egy alkalommal jogerősen alkalmazták vele szemben.
 
