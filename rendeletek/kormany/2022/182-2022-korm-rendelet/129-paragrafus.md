@@ -1,0 +1,1 @@
+129. § A miniszter a kormányzati tudománypolitikáért való felelőssége keretében összehangolja a Magyar Tudományos Akadémia elnökének közreműködésével a kormányzati tudománypolitika kidolgozását és felel annak megvalósításáért és érvényesítéséért.

@@ -1,0 +1,1 @@
+176. § A miniszter az iparügyekért, energiapolitikáért, közlekedésért, víziközmű-szolgáltatásért, felnőttképzésért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.

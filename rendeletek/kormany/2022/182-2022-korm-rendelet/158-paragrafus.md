@@ -1,0 +1,1 @@
+158. § A miniszter a nyugdíjjárulék- és nyugdíjbiztosításijárulék-fizetés szabályozásáért való felelőssége keretében előkészíti a társadalombiztosítási nyugellátás fedezetére szolgáló befizetési kötelezettségekre, a magánnyugdíjpénztárakra vonatkozó jogszabályokat.

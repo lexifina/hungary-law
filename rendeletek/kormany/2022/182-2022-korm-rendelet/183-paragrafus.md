@@ -1,0 +1,1 @@
+183. § A miniszter az Európa Kulturális Fővárosa pályázati programmal kapcsolatos feladatok koordinálásért való felelőssége keretében ellátja az Európa Kulturális Fővárosa 2023 Veszprém nyertes pályázati programja megvalósításának koordinálásával és a jövőbeni Európa Kulturális Fővárosa pályázatokkal kapcsolatos feladatokat.

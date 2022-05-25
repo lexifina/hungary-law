@@ -1,0 +1,1 @@
+191. § A Védelmi Tanács elnöke ügydöntő jogkörrel gyakorolja a Kormány részére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. § (8) bekezdésében, valamint a honvédelemről és a rendkívüli intézkedésekről szóló 2011. évi CXIII. törvény 62/A. § (6a) bekezdésében meghatározott hatáskört.

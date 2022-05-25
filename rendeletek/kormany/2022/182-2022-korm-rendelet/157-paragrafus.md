@@ -1,0 +1,1 @@
+157. § A miniszter az egészségbiztosítási járulékfizetés szabályozásáért való felelőssége keretében – az egészségbiztosításért felelős miniszterrel együttműködve – előkészíti az egészségbiztosítás természetbeni és pénzbeli szolgáltatásainak fedezetére szolgáló befizetési kötelezettségekre és az egészségügyi hozzájárulásra vonatkozó jogszabályokat.

@@ -1,0 +1,1 @@
+83. § A miniszter a településüzemeltetésért és kéményseprő-ipari tevékenységért való felelőssége keretében előkészíti a temetkezési közszolgáltatásra és a kéményseprő-ipari tevékenység ellátására vonatkozó jogszabályokat.

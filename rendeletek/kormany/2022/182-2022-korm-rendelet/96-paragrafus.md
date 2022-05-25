@@ -1,0 +1,5 @@
+96. § (1) A miniszter az állami beruházásokért való felelőssége keretében – az energetikai rendszert érintő és a védelmi ipari beruházásokat ide nem értve – összehangolja az olyan állami infrastruktúra-beruházások előkészítését és megvalósítását, amelyeket a Kormány más miniszter vagy a Kormány által kinevezett más személy hatáskörébe nem utal.
+
+(2) A miniszter az állami beruházásokért való felelőssége keretében ellátja a központi költségvetési forrásból megvalósuló vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatokat.
+
+(3) A miniszter az állami beruházásokért való felelőssége keretében a tulajdonosi joggyakorlása alatt álló, állami tulajdonú gazdasági társaságok útján gondoskodik a jogszabály vagy a Kormány döntése alapján, költségvetési forrásból megvalósítandó fejlesztésekhez szükséges építtetői, illetve közbeszerzés-lebonyolítói, beruházás-lebonyolítói és műszaki ellenőri feladatok ellátásáról. A vasúti beruházások esetében a miniszter a Kormány által jóváhagyott nyomvonal alkalmazásával, valamint a Kormány döntése szerinti általános fejlesztési követelmények figyelembevételével jár el.

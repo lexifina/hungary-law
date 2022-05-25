@@ -1,0 +1,1 @@
+19. § A miniszter a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért való felelőssége körében előkészíti a kormányzati közigazgatási informatikai stratégiát és gondoskodik annak végrehajtásáról.

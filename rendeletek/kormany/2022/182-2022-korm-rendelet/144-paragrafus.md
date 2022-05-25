@@ -1,0 +1,1 @@
+144. § A miniszter az űrkutatásért való felelőssége keretében ellátja az űrkutatási tárgyú nemzetközi szerződésekkel kapcsolatos, továbbá az európai integrációból adódó űrkutatási és űrpolitikai program-előkészítési és harmonizációs feladatokat, felhatalmazás alapján képviseli a Kormányt a nemzetközi szervezetekben, kidolgozza az űrkutatás fő irányait és programjait.
