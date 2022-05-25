@@ -1,6 +1,6 @@
 68/A. § Ha
 
-a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a kifogástalan életvitel ellenőrzése céljából,
+a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, vagy az arra törvényben kijelölt nemzetbiztonsági szolgálat a kifogástalan életvitel ellenőrzése céljából,
 
 b) a rendőrség a 68. § (2) bekezdés a), b), d)–h) és j) pontjában meghatározott célból,
 
