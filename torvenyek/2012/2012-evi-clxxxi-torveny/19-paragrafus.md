@@ -22,7 +22,7 @@ dc) a gépjármű forgalmi engedélye, valamint
 
 dd) a gépjármű hatósági jelzése,
 
-e) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából a személyekre vonatkozó figyelmeztető jelzéseket érintően,
+e) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. §-ában meghatározott feladatkörök végrehajtására kijelölt nemzetbiztonsági szolgálat, alaptevékenységi feladatai ellátásához a figyelmeztető jelzések teljes körét érintően,
 
 f) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 5. §-ában meghatározott feladatkörök végrehajtására kijelölt nemzetbiztonsági szolgálat, alaptevékenységi feladatai ellátásához a figyelmeztető jelzések teljes körét érintően.
 
