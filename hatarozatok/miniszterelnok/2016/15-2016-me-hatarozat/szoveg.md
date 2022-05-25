@@ -8,4 +8,4 @@ a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává[^1]
 
 kinevezem.
 
-[^1]: A 85/2018. (VI. 22.) ME határozat alapján Keszthelyi Nikoletta tekintetében akként módosul, hogy a „Nemzeti Fejlesztési Minisztérium” megnevezés helyett az „Innovációs és Technológiai Minisztérium” megnevezést kell érteni.
+[^1]: A 85/2018. (VI. 22.) ME határozat alapján Keszthelyi Nikoletta tekintetében akként módosul, hogy a „Nemzeti Fejlesztési Minisztérium” megnevezés helyett az „Innovációs és Technológiai Minisztérium” megnevezést kell érteni. A 42/2022. (VI. 11.) ME határozat alapján Keszthelyi Nikoletta tekintetében akként módosul, hogy a „Innovációs és Technológiai Minisztérium” megnevezés helyett az „Igazságügyi Minisztérium” megnevezést kell érteni.
