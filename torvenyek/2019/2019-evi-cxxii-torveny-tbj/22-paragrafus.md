@@ -24,7 +24,7 @@ ib) a szakképzésről szóló törvény szerint szakképző intézményben napp
 
 ic) a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, menekült, oltalmazott,
 
-id) az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért, a külpolitikáért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll,
+id) az a külföldi állampolgár, aki nemzetközi szerződés vagy a köznevelésért, felsőoktatásért, a külpolitikáért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll,
 
 ie) az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll, vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány, vagy általa fenntartott intézmény által alapított ösztöndíjban részesül.
 
