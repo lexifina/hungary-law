@@ -34,7 +34,7 @@ o) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folyta
 
 p) a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a nyilvántartási és közlekedési igazgatási eljáráshoz;
 
-q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, lakáscélú állami támogatások ügyében eljáró szerv, valamint lakásgazdálkodásért és lakáspolitikáért felelős miniszter feladatai ellátásához;
+q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, lakáscélú állami támogatások ügyében eljáró szerv, valamint a lakáscélú állami támogatásokért felelős miniszter feladatai ellátásához;
 
 r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 

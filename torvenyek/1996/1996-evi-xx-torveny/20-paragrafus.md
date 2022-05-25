@@ -38,6 +38,6 @@ o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az 
 
 p) a Központi Statisztikai Hivatal statisztikai célra;
 
-q) az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására a Kormány rendeletében kijelölt szerv, a szakképzési államigazgatási szerv és a felsőoktatási intézmények nyilvántartását vezető szerv (a továbbiakban együtt: oktatási hivatal) az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban résztvevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben;
+q) a köznevelésért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására a Kormány rendeletében kijelölt szerv, a szakképzési államigazgatási szerv és a felsőoktatási intézmények nyilvántartását vezető szerv (a továbbiakban együtt: oktatási hivatal) az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban résztvevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben;
 
 r) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal az általa finanszírozott hazai közfinanszírozású támogatásban részesített projekttel összefüggésben.
