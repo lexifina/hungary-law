@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-143-00-00
 | 2015-01-01 | 2013. évi CLXV. törvény | 2011-143-00-00.5 |
 | 2015-01-02 | 2010. évi CXXX. törvény | 2011-143-00-00.6 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2011-143-00-00.7 |
+| 2022-05-25 | 2022. évi IV. törvény | 2011-143-00-00.8 |
