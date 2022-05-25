@@ -10,4 +10,4 @@ Rácz Zsófia Laurát az Emberi Erőforrások Minisztériuma helyettes államtit
 
 – 2020. január 8-ai hatállyal – kinevezem.
 
-[^1]: A 82/2020. (IX. 30.) ME határozat alapján az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Miniszterelnökség” megnevezést kell érteni.
+[^1]: A 82/2020. (IX. 30.) ME határozat alapján az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Miniszterelnökség” megnevezést kell érteni. A 44/2022. (VI. 11.) ME határozat alapján a „Miniszterelnökség” megnevezés helyett a „Kulturális és Innovációs Minisztérium” megnevezést kell érteni.
