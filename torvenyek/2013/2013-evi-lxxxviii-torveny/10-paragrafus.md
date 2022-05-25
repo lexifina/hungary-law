@@ -18,7 +18,7 @@ g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési
 
 h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 
-i) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából,
+i) a Nemzeti Információs Központ az utasadatok kockázatelemzése, elemzés-értékelés, valamint hírigény teljesítése céljából,
 
 j) a Nemzeti Adó- és Vámhivatal vámellenőrzési feladatai ellátása céljából,
 
