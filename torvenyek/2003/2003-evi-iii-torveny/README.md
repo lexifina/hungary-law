@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-3-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2003-3-00-00.17 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2003-3-00-00.18 |
 | 2020-04-11 | 2020. évi XIX. törvény | 2003-3-00-00.19 |
+| 2022-05-25 | 2022. évi IV. törvény | 2003-3-00-00.20 |
