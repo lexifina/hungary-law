@@ -6,8 +6,10 @@ dr. Kóti Tamás Ákost, az Emberi Erőforrások Minisztériumának helyettes á
 
 felmentem, egyidejűleg
 
-dr. Tóth Lászlót az Emberi Erőforrások Minisztériumának helyettes államtitkárává
+dr. Tóth Lászlót az Emberi Erőforrások Minisztériumának helyettes államtitkárává[^1]
 
 2021. március 1-jei hatállyal
 
 kinevezem.
+
+[^1]: A 36/2022. (VI. 11.) ME határozat alapján dr. Tóth László tekintetében akként módosul, hogy az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Belügyminisztérium” megnevezést kell érteni.
