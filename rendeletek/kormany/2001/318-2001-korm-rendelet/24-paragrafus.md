@@ -1,8 +1,8 @@
-## 23. §[^61] E rendeletnek a magyar igazolvány és a magyar hozzátartozói igazolvány kiadásával kapcsolatos eljárásról szóló 318/2001. (XII. 29.) Korm. rendelet módosításáról szóló 373/2012. (XII. 18.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit – az R. hatálybalépését[^62] követően indult eljárásokban kell alkalmazni.
+## 23. §[^62] E rendeletnek a magyar igazolvány és a magyar hozzátartozói igazolvány kiadásával kapcsolatos eljárásról szóló 318/2001. (XII. 29.) Korm. rendelet módosításáról szóló 373/2012. (XII. 18.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit – az R. hatálybalépését[^63] követően indult eljárásokban kell alkalmazni.
 
-24. §[^63] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 10/A. § (1) és (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+24. §[^64] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 10/A. § (1) és (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-Melléklet a 318/2001. (XII. 29.) Korm. rendelethez[^64]
+Melléklet a 318/2001. (XII. 29.) Korm. rendelethez[^65]
 
 A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” kézbesítésében közreműködő fővárosi és megyei kormányhivatalok
 
@@ -36,7 +36,7 @@ A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” 
 
 | 14 | Budapest Főváros Kormányhivatala | Budapest | Jogosultak, a lakóhelyüktől függetlenül |
 
-[^61]: A 23. §-t a 373/2012. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
-[^62]: A hatálybalépés napja: 2013. január 1.
-[^63]: A 24. §-t a 477/2016. (XII. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^64]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja, a 371/2020. (VII. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^62]: A 23. §-t a 373/2012. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
+[^63]: A hatálybalépés napja: 2013. január 1.
+[^64]: A 24. §-t a 477/2016. (XII. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^65]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja, a 371/2020. (VII. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
