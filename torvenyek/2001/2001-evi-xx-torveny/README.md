@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2021-06-01 | 2021. évi XXXIII. törvény | 2001-20-00-00.61 |
 | 2021-09-30 | 2021. évi CIII. törvény | 2001-20-00-00.62 |
 | 2021-12-25 | 2021. évi CXXXIII. törvény | 2001-20-00-00.63 |
+| 2022-05-25 | 2022. évi IV. törvény | 2001-20-00-00.64 |
