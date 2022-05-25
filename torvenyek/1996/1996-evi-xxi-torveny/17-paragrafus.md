@@ -40,7 +40,7 @@ b) a területfejlesztés stratégiai tervezéséért felelős miniszter képvise
 
 c) a gazdaságfejlesztésért felelős miniszter képviselője,
 
-d) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter képviselője,
+d) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős miniszter képviselője,
 
 e) a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter képviselője, valamint
 

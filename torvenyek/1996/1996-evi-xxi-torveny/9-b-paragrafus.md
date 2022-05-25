@@ -16,7 +16,7 @@ g) kezeli a területfejlesztési célok megvalósítását közvetlenül szolgá
 
 h) a megyei önkormányzatok, a fővárosi önkormányzat és a megyei jogú városok önkormányzatainak bevonásával kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
 
-i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért felelős miniszter közreműködésével;
+i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért és településrendezésért felelős miniszter közreműködésével;
 
 j) összehangolja a közigazgatási szervek területfejlesztéssel kapcsolatos tevékenységét, szakmai irányítást gyakorol a területfejlesztés intézményrendszere felett;
 

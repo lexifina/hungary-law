@@ -12,7 +12,7 @@
 
 (4) Az OTÉF tagjai:
 
-a) a területrendezésért felelős miniszter, a területfejlesztésért felelős miniszter, a vidékfejlesztésért felelős miniszter, a helyi önkormányzatokért felelős miniszter, az energiapolitikáért felelős miniszter, a közlekedésért felelős miniszter, a településfejlesztésért és településrendezésért felelős miniszter, a szociál- és nyugdíjpolitikáért felelős miniszter és a társadalmi felzárkózásért felelős miniszter,
+a) a területrendezésért felelős miniszter, a területfejlesztésért felelős miniszter, a vidékfejlesztésért felelős miniszter, a helyi önkormányzatokért felelős miniszter, az energiapolitikáért felelős miniszter, a közlekedésért felelős miniszter, a településfejlesztésért és településrendezésért felelős miniszter, a szociálpolitikáért felelős miniszter, nyugdíjpolitikáért felelős miniszter és a társadalmi felzárkózásért felelős miniszter,
 
 b) Megyei Önkormányzatok Országos Szövetségének elnöke és négy delegáltja, a Megyei Jogú Városok Szövetségének elnöke és négy delegáltja, a Budapesti Önkormányzatok Szövetségének elnöke és négy delegáltja, a főpolgármester, valamint a Balaton Fejlesztési Tanács, és a Tokaj Borvidék Fejlesztési Tanács elnöke.
 
