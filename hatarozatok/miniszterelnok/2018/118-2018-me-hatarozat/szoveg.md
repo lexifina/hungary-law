@@ -6,8 +6,10 @@ dr. Simon Attila István helyettes államtitkár megbízatása a közszolgálati
 
 megszűnik, egyidejűleg
 
-dr. Simon Attila Istvánt az Emberi Erőforrások Minisztériuma helyettes államtitkárává
+dr. Simon Attila Istvánt az Emberi Erőforrások Minisztériuma helyettes államtitkárává[^1]
 
 – 2018. szeptember 15-ei hatállyal –
 
 kinevezem.
+
+[^1]: A 36/2022. (VI. 11.) ME határozat alapján dr. Simon Attila István tekintetében akként módosul, hogy az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Belügyminisztérium” megnevezést kell érteni.
