@@ -4,7 +4,7 @@
 
 (2) Ha jogszabály a központi államigazgatási szervnek címez hatáskört, azt a szerv vezetője gyakorolja.
 
-(3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot
+(3) A központi államigazgatási szerv szervezeti és működési szabályzata – ha törvény eltérően nem rendelkezik – a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot
 
 a) a szervnél politikai felsővezetőként politikai szolgálati jogviszonyban vagy szakmai felsővezetőként kormányzati szolgálati jogviszonyban álló személyre,
 
