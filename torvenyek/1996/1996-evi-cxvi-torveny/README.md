@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2022-01-01 | 2021. évi CXIV. törvény | 1996-116-00-00.64 |
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 1996-116-00-00.65 |
 | 2022-05-01 | 2021. évi CXIV. törvény | 1996-116-00-00.66 |
+| 2022-05-25 | 2022. évi IV. törvény | 1996-116-00-00.67 |
