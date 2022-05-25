@@ -16,10 +16,10 @@ g) az a személy, akitől az ügy elfogulatlan megítélése egyéb okból nem v
 
 (2) A kifizetés engedélyezésében nem vehet részt az, aki tekintetében az (1) bekezdésben felsorolt valamely ok fennáll, azzal, hogy e bekezdés alkalmazásában az ellenőrzés alá vont személyen a kifizetést igénylő személyt kell érteni.
 
-(3)[^23] Az (1) bekezdés a), b) és d) pontja, valamint az (1) bekezdés a), b) és d) pontja vonatkozásában a (2) bekezdés nem zárja ki, hogy az irányító hatóság, illetve annak munkatársa
+(3)[^24] Az (1) bekezdés a), b) és d) pontja, valamint az (1) bekezdés a), b) és d) pontja vonatkozásában a (2) bekezdés nem zárja ki, hogy az irányító hatóság, illetve annak munkatársa
 
 a) az irányító hatóság vagy olyan szervezet tekintetében, amelynek az irányító hatóság a szervezeti egysége, vagy
 
 b) szakpolitikai felelős által vezetett szervezet tekintetében
 
-[^23]: A 46. § (3) bekezdés záró szövegrésze a 156/2022. (IV. 19.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^24]: A 46. § (3) bekezdés záró szövegrésze a 156/2022. (IV. 19.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.

@@ -16,10 +16,10 @@ f) az a)–e) pont szerinti személy hozzátartozója,
 
 g) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
-(2)[^24] Az (1) bekezdés a), b) és d) pontja nem zárja ki, hogy az irányító hatóság, illetve annak munkatársa
+(2)[^25] Az (1) bekezdés a), b) és d) pontja nem zárja ki, hogy az irányító hatóság, illetve annak munkatársa
 
 a) az irányító hatóság vagy olyan szervezet tekintetében, amelynek az irányító hatóság a szervezeti egysége, vagy
 
 b) szakpolitikai felelős által vezetett szervezet tekintetében
 
-[^24]: A 47. § (2) bekezdés záró szövegrésze a 156/2022. (IV. 19.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.
+[^25]: A 47. § (2) bekezdés záró szövegrésze a 156/2022. (IV. 19.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.
