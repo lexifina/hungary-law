@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-185-00-00
 | 2021-07-02 | 2021. évi LXXXIX. törvény | 2012-185-00-00.41 |
 | 2021-07-09 | 2021. évi LXVIII. törvény | 2012-185-00-00.42 |
 | 2021-12-18 | 2021. évi CXXXVI. törvény | 2012-185-00-00.43 |
+| 2022-05-25 | 2022. évi IV. törvény | 2012-185-00-00.44 |
