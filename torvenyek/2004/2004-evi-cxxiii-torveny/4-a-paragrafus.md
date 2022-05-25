@@ -2,4 +2,4 @@
 
 ## A KEDVEZMÉNYRE VONATKOZÓ RÉSZLETES SZABÁLYOK
 
-4/A. §
+### 4/A. §

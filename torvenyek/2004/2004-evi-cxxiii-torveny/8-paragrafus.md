@@ -14,4 +14,4 @@ A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
 III/A. fejezet
 
-AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS
+AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS”
