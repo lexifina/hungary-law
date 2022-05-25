@@ -38,6 +38,8 @@ p) a vízkészletek mennyiségi és minőségi számbavétele.
 
 q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 
+r) a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása.
+
 (2) Az (1) bekezdésben felsorolt feladatok közül
 
 a) a Kormány az a), f), i) és az m) pontban;
@@ -47,6 +49,8 @@ b) a vízgazdálkodásért felelős miniszter a c), d), e), g), j) és a k) pont
 c) a vízügyi igazgatási szervek irányításáért felelős miniszter az l), n) és o) pontban;
 
 d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter együttesen a b), h) és p) pontban
+
+e) az állami beruházásokért felelős miniszter, a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter bevonásával az r) pontban
 
 meghatározott feladatokat látja el.
 

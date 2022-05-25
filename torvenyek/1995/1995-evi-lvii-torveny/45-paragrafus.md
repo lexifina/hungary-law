@@ -98,6 +98,8 @@ b) a VIZEK rendszer üzemeltetőjét és a rendszerhez csatlakozó szerveket.
 
 (7e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeit az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 
+(7f) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 3. § (2a) bekezdése szerinti feladatok ellátásának részletes szabályait.
+
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
