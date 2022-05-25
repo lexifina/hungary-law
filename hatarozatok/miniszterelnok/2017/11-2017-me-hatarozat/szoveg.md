@@ -12,4 +12,4 @@ Pölöskei Gábornét a Nemzetgazdasági Minisztérium helyettes államtitkárá
 
 kinevezem.
 
-[^1]: A 85/2018. (VI. 22.) ME határozat alapján Pölöskei Gáborné tekintetében akként módosul, hogy a „Nemzetgazdasági Minisztérium” megnevezés helyett az „Innovációs és Technológiai Minisztérium” megnevezést kell érteni.
+[^1]: A 85/2018. (VI. 22.) ME határozat alapján Pölöskei Gáborné tekintetében akként módosul, hogy a „Nemzetgazdasági Minisztérium” megnevezés helyett az „Innovációs és Technológiai Minisztérium” megnevezést kell érteni. A 44/2022. (VI. 11.) ME határozat alapján Pölöskei Gáborné tekintetében akként módosul, hogy a „Innovációs és Technológiai Minisztérium” megnevezés helyett az „Kulturális és Innovációs Minisztérium” megnevezést kell érteni.
