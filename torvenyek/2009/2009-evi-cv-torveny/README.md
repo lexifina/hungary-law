@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-105-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2009-11-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-105-00-00.1 |
+| 2022-05-25 | 2022. évi IV. törvény | 2009-105-00-00.2 |
