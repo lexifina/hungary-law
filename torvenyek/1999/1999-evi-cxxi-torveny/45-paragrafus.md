@@ -6,4 +6,4 @@
 
 (4) A Módtv.2. alapján az országos gazdasági kamara és az érintett szervek legkésőbb 2014. június 30-ig megkötik a 11. § (4) bekezdése szerinti megállapodásokat.
 
-(5) Az országos gazdasági kamara a Módtv.2.-vel megállapított 8/B. § alapján létrehozandó nyilvántartást 2015. december 31. napját követően köteles működtetni, amelyhez a gazdaságpolitikáért felelős miniszter az általa vezetett minisztérium költségvetési fejezete terhére költségvetési támogatást nyújt.
+(5) Az országos gazdasági kamara a Módtv.2.-vel megállapított 8/B. § alapján létrehozandó nyilvántartást 2015. december 31. napját követően köteles működtetni, amelyhez a gazdaságfejlesztésért felelős miniszter a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 20. § (2) bekezdés b) pontja szerinti kijelölt minisztérium költségvetési fejezete terhére költségvetési támogatást nyújt.

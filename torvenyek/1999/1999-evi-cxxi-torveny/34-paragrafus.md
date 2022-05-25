@@ -16,7 +16,7 @@ e) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulás
 
 f) a költségvetési törvényben megállapított támogatásból.
 
-(2) Az (1) bekezdés f) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatás felhasználásáról a Magyar Kereskedelmi és Iparkamara Küldöttgyűlése dönt, amelynek célját, módját és ellenőrzését a gazdaságpolitikáért felelős miniszter és a Magyar Kereskedelmi és Iparkamara által kötött szerződés határozza meg.
+(2) Az (1) bekezdés f) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatás felhasználásáról a Magyar Kereskedelmi és Iparkamara Küldöttgyűlése dönt, amelynek célját, módját és ellenőrzését a Kormány és a Magyar Kereskedelmi és Iparkamara által kötött szerződés határozza meg.
 
 (3) A költségvetési támogatás felhasználásáról a gazdásági kamarák évente beszámolnak a fejezetet irányító szervnek, amely a költségvetési támogatás felhasználását és hatékonyságát évente köteles ellenőrizni.
 
