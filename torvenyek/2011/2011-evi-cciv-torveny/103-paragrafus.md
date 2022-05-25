@@ -1,6 +1,6 @@
 103. § (1) Azokban a felsőoktatási intézményekben, ahol tanárképzés folyik, a tanárképzés szakmai, tartalmi, szervezeti és tudományos feladatainak összehangolását, valamint az elméleti és gyakorlati képzés szervezését a tanárképző központ biztosítja, amelynek vezetője a főigazgató. Intézményenként egy tanárképző központ létesíthető.
 
-(1a) Az (1) bekezdésben meghatározott főigazgató – kivéve az egyházi felsőoktatási intézményeket – az iskolai rendszerű köznevelési oktatás irányítási felelőssége körében eljáró oktatásért felelős miniszter egyetértésével bízható meg.
+(1a) Az (1) bekezdésben meghatározott főigazgató – kivéve az egyházi felsőoktatási intézményeket – a köznevelésért felelős miniszter egyetértésével bízható meg.
 
 (1b) A tanárképző központ főigazgatójának az a személy bízható meg, aki
 

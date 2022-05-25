@@ -213,3 +213,7 @@
 ## V.
 
 4. melléklet a 2011. évi CCIV. törvényhez
+
+A Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjrendszer pályázati eljárása keretében nyilvántartott és kezelt személyes és különleges adatok
+
+1. E törvény által nyilvántartott adatok, az ösztöndíjra pályázó és az ösztöndíjban részesülő személy
