@@ -38,11 +38,19 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (6a) A rendvédelmi szervnek átadott 3. melléklet szerinti adatlapot a rendvédelmi szerv zárt borítékban továbbítja a kifogástalan életvitel ellenőrzését lefolytató szervnek.
 
-(7) A (4) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi. A polgári nemzetbiztonsági szolgálatok a saját munkatársaikra vonatkozóan végzett, a nemzetbiztonsági szolgálatokról szóló törvény szerinti biztonsági ellenőrzés alkalmával adatszolgáltatás végett e szervet megkeresik. A megkeresett szerv a biztonsági ellenőrzéssel érintett körben adatszolgáltatásra köteles.
+(7) A (4) bekezdésben írt feltételek ellenőrzését
+
+a) a saját állománya tekintetében a polgári nemzetbiztonsági szolgálat,
+
+b) a Nemzeti Adó- és Vámhivatal esetében az Alkotmányvédelmi Hivatal,
+
+c) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szerv esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+
+[az a)–c) pont ezen alcím alkalmazásában a továbbiakban együtt: kifogástalan életvitelt ellenőrző szerv] végzi.
 
 (8) A (4) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős ügydöntő határozatot hozó bíróság haladéktalanul értesíti az állományilletékes parancsnokot, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ügydöntő határozatának jogerőre emelkedését követő nappal megállapítja, hogy a hivatásos állomány tagjának életvitele kifogásolható, és e törvény szerint intézkedik a szolgálati viszony megszüntetése érdekében.
 
-(9) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv annak ellenőrzése érdekében, hogy a (4) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
+(9) A kifogástalan életvitelt ellenőrző szerv annak ellenőrzése érdekében, hogy a (4) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
 
 a) adatot igényelhet a hivatásos állományba jelentkezőről, a rendvédelmi oktatási intézménybe jelentkezőről, az ösztöndíjas hallgatóról, a tanulóról, valamint a hivatásos állomány tagjáról, továbbá a vele közös háztartásban élő közeli hozzátartozóról a bűnügyi nyilvántartó szerv valamennyi bűnügyi nyilvántartásából, továbbá a rendvédelmi szervek nyilvántartásaiból, és betekinthet az e szerveknél folyamatban lévő vagy befejezett fegyelmi eljárás irataiba,
 

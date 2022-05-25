@@ -24,7 +24,7 @@ c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielé
 
 (8) A munkaviszony 82/B. § (4) bekezdés b) pontja alapján történő létesítése esetén a szolgálati viszony fennállása alatt elismert és beszámított szolgálati időt is figyelembe kell venni a munkaviszony időtartamaként.
 
-(9) Ha a Rendőrségről szóló törvény lehetővé teszi, hogy a rendvédelmi szerv munkavállalója esetében a feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálattal ellenőrizze, munkaviszony azzal létesíthető, aki tudomásul veszi, hogy munkaviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
+(9) Ha törvény lehetővé teszi, hogy a rendvédelmi szerv munkavállalója esetében a feladatainak törvényes ellátását az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizze, munkaviszony azzal létesíthető, aki tudomásul veszi, hogy munkaviszonyának fennállása alatt feladatai törvényes ellátását az arra törvényben kijelölt szerv megbízhatósági vizsgálattal ellenőrizheti.
 
 (10) A felek megállapodása vagy kollektív szerződés a (9) bekezdésben foglalt rendelkezésektől nem térhet el.
 

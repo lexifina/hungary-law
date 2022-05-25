@@ -16,7 +16,7 @@ d) akinek életvitele nem kifogásolható, és aki írásban tudomásul veszi, h
 
 e) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását,
 
-f) aki tudomásul veszi, hogy szolgálati viszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti,
+f) – olyan szerv esetében, ahol törvény lehetővé teszi, hogy az ott foglalkoztatott szolgálati feladatainak törvényes ellátását megbízhatósági vizsgálattal ellenőrizzék – aki tudomásul veszi, hogy szolgálati viszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizheti,
 
 g) aki tudomásul veszi és elfogadja a hivatásos szolgálattal járó, szolgálati viszonyra vonatkozó szabályokban meghatározott kötelezettségeket és elvárásokat, valamint
 

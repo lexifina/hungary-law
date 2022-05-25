@@ -6,7 +6,7 @@ a) a hivatásos állomány tagja esetében az állományilletékes parancsnok,
 
 b) az ösztöndíjas hallgató, valamint a tanuló esetében az ösztöndíjas hallgatói vagy tanulói szerződést kötő rendvédelmi szerv országos parancsnoka,
 
-c) a hivatásos állományba vagy rendvédelmi oktatási intézménybe jelentkező esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+c) a hivatásos állományba vagy rendvédelmi oktatási intézménybe jelentkező esetében a kifogástalan életvitelt ellenőrző szerv
 
 állapítja meg.
 
@@ -16,7 +16,7 @@ c) a hivatásos állományba vagy rendvédelmi oktatási intézménybe jelentkez
 
 (5) Ha az ellenőrzés megállapításai alapján az ösztöndíjas hallgató vagy a tanuló életvitele kifogásolható, az országos parancsnok az ösztöndíjszerződéstől – az érintett meghallgatását követően – egyoldalú nyilatkozattal elállhat. Az ösztöndíjszerződés megszűnésével a hallgatói vagy a tanulói jogviszony is megszűnik.
 
-(6) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a kifogástalan életvitel ellenőrzését kezdeményező rendvédelmi szerv az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
+(6) A kifogástalan életvitelt ellenőrző szervet a kifogástalan életvitel ellenőrzését kezdeményező rendvédelmi szerv az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 
 a) nem létesül szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony, az erről szóló tájékoztatás kézhezvételétől számított nyolc napon belül, vagy
 
