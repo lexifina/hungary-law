@@ -50,7 +50,7 @@ e) az ellátásra köteles helyi önkormányzat és az állam fenntartói felada
 
 f) a kincstár és az állami támogatást megállapító, folyósító vagy ellenőrző más szerv az állami támogatás megállapítása és ellenőrzése céljából,
 
-g) a minisztérium a gyermekvédelmi ágazati irányítási tevékenység ellátása céljából,
+g) a minisztérium és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium az ágazati irányítási tevékenység ellátása céljából,
 
 h) a rendőrség, a nyomozó hatóság, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
 

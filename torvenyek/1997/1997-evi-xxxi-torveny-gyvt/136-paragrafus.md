@@ -16,7 +16,7 @@ c) a külföldi hatóságnak, illetve bíróságnak családi jogállás, gyermek
 
 céljából,
 
-d) a minisztériumnak, a gyermekvédelmi ágazati irányítási tevékenység és a külön jogszabályban meghatározott központi hatósági feladatok ellátása
+d) a minisztériumnak és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztériumnak, a gyermekvédelmi ágazati irányítási tevékenység és a külön jogszabályban meghatározott központi hatósági feladatok ellátása
 
 (3) A gyermek személyazonosító adatai és
 

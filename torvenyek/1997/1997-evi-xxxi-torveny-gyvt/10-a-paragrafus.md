@@ -1,6 +1,6 @@
 ## Foglalkoztatási tilalom a gyermeki jogok védelme érdekében
 
-10/A. § (1) A gyermekvédelmi rendszerben a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben, a javítóintézetek rendtartásáról szóló miniszteri rendeletben, a gyermekek esélynövelő szolgáltatásainak szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott munkakörben, nevelőszülői foglalkoztatási jogviszonyban, valamint önkéntes jogviszonyban (a továbbiakban együtt: a gyermekvédelmi rendszerben szakmai munkakörben) nem foglalkoztatható az a személy,
+10/A. § (1) A gyermekvédelmi rendszerben a miniszteri rendeletben meghatározott munkakörben, nevelőszülői foglalkoztatási jogviszonyban, valamint önkéntes jogviszonyban (a továbbiakban együtt: a gyermekvédelmi rendszerben szakmai munkakörben) nem foglalkoztatható az a személy,
 
 a) aki büntetett előéletű,
 

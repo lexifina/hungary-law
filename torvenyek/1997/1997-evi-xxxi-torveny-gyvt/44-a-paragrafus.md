@@ -4,7 +4,7 @@
 
 (2) Családi bölcsődében szolgáltatást az a nagykorú, cselekvőképességet érintő gondnokság, illetve támogatott döntéshozatal hatálya alatt nem álló, büntetlen előéletű személy biztosíthat, aki
 
-a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
+a) a miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
 
 b) a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
 

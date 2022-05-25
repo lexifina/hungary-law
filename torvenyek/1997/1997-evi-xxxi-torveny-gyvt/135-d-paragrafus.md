@@ -4,7 +4,7 @@ a) a tanfolyamra jelentkező örökbe fogadni szándékozó személy személyazo
 
 b) a tanfolyam oktatóinak személyazonosító adatait, elérhetőségére és végzettségére vonatkozó adatait.
 
-(2) A miniszter az örökbefogadásra felkészítő tanfolyam lebonyolításának ellenőrzése és a tanfolyam finanszírozásának biztosítása céljából a tanfolyam meghirdetésétől számított tíz évig kezeli
+(2) A gyermek- és ifjúságpolitikáért felelős miniszter az örökbefogadásra felkészítő tanfolyam lebonyolításának ellenőrzése és a tanfolyam finanszírozásának biztosítása céljából a tanfolyam meghirdetésétől számított tíz évig kezeli
 
 a) a tanfolyamra jelentkező örökbe fogadni szándékozó személy személyazonosító adatait, és
 

@@ -32,7 +32,7 @@ h) a Kormány rendeletében kijelölt szerv központi szerve útján gondoskodik
 
 i) az egyházi fenntartású nevelőszülői, gyermekotthoni ellátás területén az országos módszertani feladatok ellátására egyházi fenntartású intézményeket jelölhet ki.
 
-j) gondoskodik az országos örökbefogadás elősegítéséről,
+j)
 
 k) jóváhagyja és a minisztérium honlapján közzéteszi a gyermekbántalmazás elleni módszertant, a gyermekbántalmazás kivizsgálásának módszertanát, valamint a gyermekvédelmi jelzőrendszer működésének és működtetésének szakmai módszereit,
 
@@ -58,4 +58,6 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 (5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
-(6) A családpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.
+(6) A gyermek- és ifjúságpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.
+
+(7) A gyermek- és ifjúságpolitikáért felelős miniszter gondoskodik az országos örökbefogadás elősegítéséről.

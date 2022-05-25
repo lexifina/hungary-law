@@ -62,15 +62,15 @@ zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett ors
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és személyek szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételére való jogosultság feltételeinek részletes szabályait,
+a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és személyek szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételére való jogosultság feltételeinek részletes szabályait, a (3) bekezdés a) pontjában meghatározottak kivételével,
 
-b) a gyermekjóléti és gyermekvédelmi személyes gondoskodás körébe tartozó egyes feladatokat ellátó személyek képesítési előírásait,
+b) a gyermekjóléti és gyermekvédelmi személyes gondoskodás körébe tartozó egyes feladatokat ellátó személyek képesítési előírásait, a (3) bekezdés b) pontjában meghatározottak kivételével,
 
-c) az egyes gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények vezetőinek képesítési előírásait, megbízását és az intézményvezetői állás betöltésével kapcsolatos pályázati eljárást,
+c) az egyes gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények vezetőinek képesítési előírásait, megbízását és az intézményvezetői állás betöltésével kapcsolatos pályázati eljárást, a (3) bekezdés b) pontjában meghatározottak kivételével,
 
 d) a 102. §-ban és a 137. § (2) bekezdésében meghatározott eljárás részletes szabályait,
 
-e) a családi napközi, helyettes szülői és nevelőszülői képzés szakmai és vizsgakövetelményeit, valamint a nevelőszülők számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó részletes szabályokat,
+e) a helyettes szülői és nevelőszülői képzés szakmai és vizsgakövetelményeit, valamint a nevelőszülők számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó részletes szabályokat,
 
 f) – az adópolitikáért felelős miniszter egyetértésével – az országos szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait,
 
@@ -78,23 +78,37 @@ g) a külföldi alap-, közép- és felsőfokú szakképzés, valamint szakirán
 
 h) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat,
 
-i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
+i) a hivatásos gondnoki feladatot ellátók képesítési előírásait,
 
 j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
 
-k) a bölcsődében, mini bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
+k)
 
-l) a bölcsődei ellátást biztosító intézményben, szolgáltatónál foglalkoztatottak jubileumi jutalma alapjául szolgáló illetmény összegébe beszámítandó pótlékokat,
+l)
 
-m) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
+m)
 
-n) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeit,
+n)
 
 o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát,
 
 p)
 
-(3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
+(3) Felhatalmazást kap a gyermek- és ifjúságpolitikáért felelős miniszter, hogy rendeletben szabályozza
+
+a) a gyermekek napközbeni ellátását biztosító intézmények, szolgáltatók és személyek szakmai feladatait, működésük feltételeit, valamint az ellátás igénybevételére való jogosultság feltételeinek részletes szabályait,
+
+b) a gyermekek napközbeni ellátása körébe tartozó egyes feladatokat ellátó személyek és vezetők képesítési előírásait,
+
+c) a bölcsődében, mini bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
+
+d) a gyermekek napközbeni ellátását biztosító intézményben, szolgáltatónál foglalkoztatottak jubileumi jutalma alapjául szolgáló illetmény összegébe beszámítandó pótlékokat,
+
+e) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
+
+f) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeit,
+
+g) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat.
 
 (4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 

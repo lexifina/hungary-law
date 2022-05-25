@@ -80,3 +80,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2021-07-08 | 2021. évi LXXIX. törvény | 1997-31-00-00.112 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 1997-31-00-00.113 |
 | 2022-01-01 | 2021. évi LXXIV. törvény | 1997-31-00-00.114 |
+| 2022-05-25 | 2022. évi IV. törvény | 1997-31-00-00.115 |
