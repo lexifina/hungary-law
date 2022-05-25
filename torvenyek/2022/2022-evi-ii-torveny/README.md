@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-2-00-00
 | --- | --- | --- |
 | 2022-05-24 | 2022. évi II. törvény | 2022-2-00-00.0 (közlönyállapot) |
 | 2022-05-24 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-2-00-00.1 |
+| 2022-05-25 | 2010. évi CXXX. törvény | 2022-2-00-00.2 |
