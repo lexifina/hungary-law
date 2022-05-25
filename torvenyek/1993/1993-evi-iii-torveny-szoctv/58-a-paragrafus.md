@@ -22,7 +22,7 @@ b) az ellátási terület változatlanul hagyása mellett a szolgáltató, inté
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságnak nem feltétele a befogadás
 
-a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a szociál- és nyugdíjpolitikáért felelős miniszter előzetes hozzájárulásával más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
+a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a szociálpolitikáért felelős miniszter előzetes hozzájárulásával más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
 
 b) családsegítés és gyermekjóléti szolgáltatás esetén,
 
@@ -38,7 +38,7 @@ f) az államháztartásról szóló 2011. évi CXCV. törvény 14. § (3) bekezd
 
 a) a népkonyha kivételével azt a szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, feladatmutatót, amelynek ellátására az egyházi fenntartó a települési önkormányzattal vagy társulással ellátási szerződést kötött, az ellátási szerződésben szereplő szolgáltatás, ellátotti létszám, férőhelyszám, feladatmutató erejéig,
 
-b) azt a szociális szolgáltatót, intézményt (székhelyt, telephelyet), szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, vagy a szociális szolgáltató, intézmény az Európai Uniótól, a Svájci Alapból, az EGT Alapból, a Norvég Alapból vagy a központi költségvetésből – a szociál- és nyugdíjpolitikáért felelős miniszter által közzétett közleményben meghatározott – pályázaton elnyert támogatásban részesül,
+b) azt a szociális szolgáltatót, intézményt (székhelyt, telephelyet), szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, vagy a szociális szolgáltató, intézmény az Európai Uniótól, a Svájci Alapból, az EGT Alapból, a Norvég Alapból vagy a központi költségvetésből – a szociálpolitikáért felelős miniszter által közzétett közleményben meghatározott – pályázaton elnyert támogatásban részesül,
 
 c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is bejegyzett szociális szolgáltatót, intézményt, szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amely esetében szolgáltatói nyilvántartásba bejegyzett adatok módosítása költségvetési többletkiadást nem eredményez, és a módosítást kizárólag
 
@@ -52,15 +52,15 @@ cd) hajléktalan személyek átmeneti szállása esetében a befogadott férőhe
 
 ce) egyházi fenntartók közötti fenntartóváltozásra, egyházi fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra tekintettel kérik.
 
-(2d) A (2c) bekezdés szerinti feltételek fennállását a szociál- és nyugdíjpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a szociál- és nyugdíjpolitikáért felelős miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
+(2d) A (2c) bekezdés szerinti feltételek fennállását a szociálpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a szociálpolitikáért felelős miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen és átcsoportosításon az egyik intézményben, telephelyen történő ellátotti létszám-, férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű ellátotti létszám-, férőhelyszám-növelést kell érteni.
 
-(2f) A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két alkalommal – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A kérelem benyújtásának naptári napként meghatározott határidejét a szociál- és nyugdíjpolitikáért felelős miniszter közleményben teszi közzé, és döntését – az államháztartásért felelős miniszter attól számított 30 napon belül közölt álláspontja alapján – attól számított 60 napon belül hozza meg. A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése és a közzétett évi két időpontra tekintet nélkül 30 napon belül dönt, ha a befogadást költségvetési többletkiadással nem járó fenntartóváltozásra, fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra – ide nem értve a (2c) bekezdés c) pont ce) alpontját – tekintettel kérik.
+(2f) A szociálpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két alkalommal – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A kérelem benyújtásának naptári napként meghatározott határidejét a szociálpolitikáért felelős miniszter közleményben teszi közzé, és döntését – az államháztartásért felelős miniszter attól számított 30 napon belül közölt álláspontja alapján – attól számított 60 napon belül hozza meg. A szociálpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése és a közzétett évi két időpontra tekintet nélkül 30 napon belül dönt, ha a befogadást költségvetési többletkiadással nem járó fenntartóváltozásra, fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra – ide nem értve a (2c) bekezdés c) pont ce) alpontját – tekintettel kérik.
 
 (2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés – ide nem értve az ellátási területet nem érintő szétválás, egyesítés vagy átcsoportosítás esetében a (2c) bekezdés c) pont ca), cb) és ce) alpontját – nem alkalmazható, a befogadásra a (2d) vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
 
-(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
+(2h) A szociálpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
 a) szociális konyha, népkonyha és házi segítségnyújtás esetén az ellátott személyek száma, támogató szolgáltatás és közösségi alapellátások esetén a teljesített feladatmutató, vagy nappali ellátás esetén a betöltött férőhelyek száma hat naptári hónap átlagában és a feltételek vizsgálatakor sem éri el a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám 90 százalékát,
 
@@ -68,7 +68,7 @@ b) a fenntartó a 20/C. § szerinti nyilvántartásban valótlanul tüntetett fe
 
 c) a szociális szolgáltatásra, a szociális szolgáltató, intézmény működésére vagy a központi költségvetésről szóló törvényben biztosított támogatásra vonatkozó, a b) pontban nem említett szabályokat megszegik.
 
-(2i) A (2h) bekezdés a) pontja szerinti esetben a szociál- és nyugdíjpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről a szolgáltatás kihasználtságára, a várakozók számára és a szolgáltatás területi lefedettségére tekintettel dönt azzal, hogy a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám nem csökkenhet
+(2i) A (2h) bekezdés a) pontja szerinti esetben a szociálpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről a szolgáltatás kihasználtságára, a várakozók számára és a szolgáltatás területi lefedettségére tekintettel dönt azzal, hogy a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám nem csökkenhet
 
 a) a hat naptári hónap átlagában és
 
@@ -76,11 +76,11 @@ b) a feltételek vizsgálatakor
 
 ellátott személyek száma, teljesített feladatmutató, illetve betöltött férőhelyek száma közül a magasabbnak a 110%-a alá.
 
-(2j) A (2h) bekezdés b) és c) pontja szerinti esetben a szociál- és nyugdíjpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről az eset összes körülményeire, így különösen a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására tekintettel dönt.
+(2j) A (2h) bekezdés b) és c) pontja szerinti esetben a szociálpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről az eset összes körülményeire, így különösen a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására tekintettel dönt.
 
 (2k) A (2f) bekezdésben foglaltak alapján kérhető az átlagot jóval meghaladó minőségű elhelyezési körülményeket és szolgáltatásokat biztosító tartós bentlakásos intézményre vonatkozó, 2008. január 1-jét megelőzően hatályos szabályok alapján a szolgáltatói nyilvántartásban emelt szintű férőhelyként befogadott férőhelyeknek az adott intézménytípusra a központi költségvetésről szóló törvényben meghatározott, általános szabályok szerinti támogatásra jogosító befogadása.
 
-(2l) A szociál- és nyugdíjpolitikáért felelős miniszter a befogadást a (2h) bekezdés a) és b) pontjában meghatározott esetben, valamint a központi költségvetésről szóló törvényben biztosított támogatásra vonatkozó szabályok megszegése esetén a (2h) bekezdés c) pontjában meghatározott esetben figyelmeztetés alkalmazása nélkül vonja vissza.
+(2l) A szociálpolitikáért felelős miniszter a befogadást a (2h) bekezdés a) és b) pontjában meghatározott esetben, valamint a központi költségvetésről szóló törvényben biztosított támogatásra vonatkozó szabályok megszegése esetén a (2h) bekezdés c) pontjában meghatározott esetben figyelmeztetés alkalmazása nélkül vonja vissza.
 
 (3) Szociális szövetkezet nem nyújthat az 57. § (2) bekezdése szerinti személyes gondoskodást.
 

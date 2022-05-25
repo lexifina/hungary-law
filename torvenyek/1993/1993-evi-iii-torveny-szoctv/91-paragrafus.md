@@ -16,11 +16,11 @@ b) szolgáltatót, intézményt működtető fenntartóval létrejött – a szo
 
 tehet eleget.
 
-(3) A (2) bekezdés a) pontja szerinti szolgáltató, intézmény létrehozásához, átszervezéséhez és megszüntetéséhez a szociál- és nyugdíjpolitikáért felelős miniszter előzetes jóváhagyása szükséges.
+(3) A (2) bekezdés a) pontja szerinti szolgáltató, intézmény létrehozásához, átszervezéséhez és megszüntetéséhez a szociálpolitikáért felelős miniszter előzetes jóváhagyása szükséges.
 
 (4)
 
-(5) A (3) bekezdés szerinti jogkörében a szociál- és nyugdíjpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
+(5) A (3) bekezdés szerinti jogkörében a szociálpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
 
 (6) Ha a (2) bekezdés a) pontja szerinti szolgáltató, intézmény fenntartója megváltozik, és az intézményben foglalkoztatott közalkalmazott
 

@@ -54,7 +54,7 @@ y) a 32/D. § (1) bekezdése és 37/C. § (1) bekezdése szerinti fővárosi ker
 
 z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait.
 
-(2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
+(2) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
 a)
 
@@ -82,7 +82,7 @@ n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan
 
 o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
 
-(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+(2a) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
@@ -90,7 +90,7 @@ a) a szakmai szabályok szerint elsőként választandó, legalacsonyabb napi te
 
 b)
 
-(3a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy annak a személynek, aki olyan hozzátartozójának a gondozását, ápolását végzi, aki után magasabb összegű családi pótlékot folyósítanak, a kiemelt ápolási díjra való jogosultságát megalapozó betegségek és fogyatékosságok körét és súlyossági fokát az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg.
+(3a) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy annak a személynek, aki olyan hozzátartozójának a gondozását, ápolását végzi, aki után magasabb összegű családi pótlékot folyósítanak, a kiemelt ápolási díjra való jogosultságát megalapozó betegségek és fogyatékosságok körét és súlyossági fokát az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza
 

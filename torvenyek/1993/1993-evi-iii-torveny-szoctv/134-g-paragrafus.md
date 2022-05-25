@@ -4,7 +4,7 @@ a) 2018. július 1-jén a szolgáltatói nyilvántartásba bejegyzett népkonyha
 
 b) 2018. július 2-a és 2018. december 31-e között a szolgáltatói nyilvántartásba bejegyzésre kerülő új népkonyha-szolgáltatás, vagy a már bejegyzett szolgáltató, intézmény esetén új népkonyha-szolgáltatásra vonatkozó adatmódosítás esetében az ezen időszakra vonatkozó első támogatást megállapító kincstári határozatban szereplő és a támogatás alapjául szolgáló ellátotti szám;
 
-c) a 2018. július 2-a és 2018. december 31-e között a szociál- és nyugdíjpolitikáért felelős miniszter által a befogadási eljárásban elbírált azon kérelmek esetében, amelyek 2018. december 31-e után kerülnek a szolgáltatói nyilvántartásba bejegyzésre, a benyújtott kérelemben szereplő ellátotti szám.
+c) a 2018. július 2-a és 2018. december 31-e között a szociálpolitikáért felelős miniszter által a befogadási eljárásban elbírált azon kérelmek esetében, amelyek 2018. december 31-e után kerülnek a szolgáltatói nyilvántartásba bejegyzésre, a benyújtott kérelemben szereplő ellátotti szám.
 
 (2) Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 58/A. § (2) bekezdés c) pontja alkalmazásában szociális konyha esetén nem minősül új ellátotti létszámnak az igénybevevői nyilvántartásban rögzített megállapodások 2018. évi legmagasabb napi számának megfelelő ellátotti szám.
 

@@ -14,4 +14,4 @@
 
 (7) A társulás keretében megszervezett falugondnoki szolgáltatás csak azon települések tekintetében működtethető, amelyek megfelelnek a (2) bekezdésben meghatározott feltételeknek. A társulás keretében megszervezett tanyagondnoki szolgáltatás csak azon ellátási területen működtethető, amely megfelel a (3) bekezdésben meghatározott feltételeknek.
 
-(8) A falugondnoki, illetve tanyagondnoki képzés szervezését a szolgáltatás helye szerint illetékes megyei önkormányzat látja el a szociál- és nyugdíjpolitikáért felelős miniszter által jóváhagyott képzési program alapján.
+(8) A falugondnoki, illetve tanyagondnoki képzés szervezését a szolgáltatás helye szerint illetékes megyei önkormányzat látja el a szociálpolitikáért felelős miniszter által jóváhagyott képzési program alapján.

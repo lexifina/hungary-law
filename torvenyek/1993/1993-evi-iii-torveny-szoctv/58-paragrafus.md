@@ -1,6 +1,6 @@
 58. § (1) A jogszabályban meghatározott szakmai, módszertani feladatokat – a (2)–(7) bekezdésben foglalt kivétellel – a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv látja el.
 
-(2) Az egyházi, valamint a nemzetközi szerződés alapján egyházi kiegészítő támogatásban részesülő nem állami fenntartó által fenntartott intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter az egyház legfőbb szerve vagy a nem állami fenntartó képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) ötéves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
+(2) Az egyházi, valamint a nemzetközi szerződés alapján egyházi kiegészítő támogatásban részesülő nem állami fenntartó által fenntartott intézmények vonatkozásában a szociálpolitikáért felelős miniszter az egyház legfőbb szerve vagy a nem állami fenntartó képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) ötéves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
 (3) A kijelölés megszűnik, ha
 
@@ -8,11 +8,11 @@ a) a (2) bekezdés szerinti határidő lejárt,
 
 b) a módszertani intézmény megszűnik,
 
-c) a szociál- és nyugdíjpolitikáért felelős miniszter a kijelölést visszavonja,
+c) a szociálpolitikáért felelős miniszter a kijelölést visszavonja,
 
 d) a módszertani intézmény a kijelölésről lemond.
 
-(4) A kijelölést a szociál- és nyugdíjpolitikáért felelős miniszter azonnali hatállyal írásban visszavonja, ha
+(4) A kijelölést a szociálpolitikáért felelős miniszter azonnali hatállyal írásban visszavonja, ha
 
 a) a kijelölést kérő szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a kijelölésre nem került volna sor,
 
@@ -38,6 +38,6 @@ f) figyelemmel kíséri az ellátórendszert érintő tudományos kutatómunka e
 
 g) kutatásokat folytat, illetve szervez.
 
-(7) A módszertani feladatok ellátására a szociál- és nyugdíjpolitikáért felelős miniszter egyedi támogatást nyújt.
+(7) A módszertani feladatok ellátására a szociálpolitikáért felelős miniszter egyedi támogatást nyújt.
 
 (8) A szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt központi költségvetési szerv alkalmazottainak jogviszonyára a munka törvénykönyvéről szóló törvény rendelkezéseit kell alkalmazni.

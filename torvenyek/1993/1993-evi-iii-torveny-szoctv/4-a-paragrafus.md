@@ -12,7 +12,7 @@ c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivat
 
 d) a szociális hatóság, vagy
 
-e) a szociál- és nyugdíjpolitikáért felelős miniszter
+e) a szociálpolitikáért felelős miniszter
 
 gyakorolja [az a)–e) pontokban foglaltak a továbbiakban együtt: szociális hatáskört gyakorló szerv].
 
