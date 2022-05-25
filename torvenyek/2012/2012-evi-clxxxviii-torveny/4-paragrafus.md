@@ -4,4 +4,4 @@
 
 (2) A 2. § (1) bekezdése szerinti esetben közfeladat-ellátás átadására kerül sor 2013. január 1-jével a Központ számára.
 
-(3) Az intézmény (1) bekezdés szerinti beolvadással történő megszűnésének a törzskönyvi nyilvántartásba való bejegyzése iránt az oktatásért felelős miniszter által 2012. december 15-éig rendelkezésére bocsátott adatok alapján a kincstár hivatalból intézkedik.
+(3) Az intézmény (1) bekezdés szerinti beolvadással történő megszűnésének a törzskönyvi nyilvántartásba való bejegyzése iránt a köznevelésért felelős miniszter által 2012. december 15-éig rendelkezésére bocsátott adatok alapján a kincstár hivatalból intézkedik.

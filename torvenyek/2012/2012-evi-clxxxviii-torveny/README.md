@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-188-00-00
 | 2013-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-188-00-00.4 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2012-188-00-00.5 |
 | 2016-07-01 | 2016. évi LXXX. törvény | 2012-188-00-00.6 |
+| 2022-05-25 | 2022. évi IV. törvény | 2012-188-00-00.7 |
