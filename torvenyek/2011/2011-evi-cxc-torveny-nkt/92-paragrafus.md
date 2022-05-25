@@ -14,12 +14,12 @@ c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 (5) A (3) bekezdésben szabályozott jog az (1) bekezdés b) és c) pontjában meghatározottak alapján akkor gyakorolható, ha a szülő és a gyermek, a tanuló három hónapot meghaladó tartózkodásra jogosító engedéllyel rendelkezik.
 
-(6) Az a nem magyar állampolgár, aki az oktatásért felelős miniszter meghívólevelével rendelkezik, a meghívólevélben meghatározott ellátást a magyar állampolgárokkal azonos feltételek szerint veheti igénybe.
+(6) Az a nem magyar állampolgár, aki a köznevelésért felelős miniszter meghívólevelével rendelkezik, a meghívólevélben meghatározott ellátást a magyar állampolgárokkal azonos feltételek szerint veheti igénybe.
 
 (7) Az a nem magyar állampolgár, aki nem tartozik az (1)–(6) bekezdésben foglaltak hatálya alá – ha nemzetközi szerződés vagy jogszabály másképpen nem rendelkezik –, az óvodai, iskolai és kollégiumi ellátásért, továbbá a pedagógiai szakszolgálat igénybevételéért díjat fizet. A díj nem haladhatja meg a szakmai feladatra jutó folyó kiadások egy tanulóra jutó hányadát. A köznevelési intézmény vezetője a díjat a fenntartó által meghatározott szabályok alapján csökkentheti vagy elengedheti.
 
-(8) Az (1) bekezdésben meghatározott személyek óvodai neveléséhez, iskolai nevelés-oktatásához az oktatásért felelős miniszter nevelési-oktatási programokat ad ki.
+(8) Az (1) bekezdésben meghatározott személyek óvodai neveléséhez, iskolai nevelés-oktatásához a köznevelésért felelős miniszter nevelési-oktatási programokat ad ki.
 
 (9) A külföldön megkezdett és befejezetlen tanulmányok a magyar köznevelés iskolarendszerében folytathatók. A tanulmányok beszámításáról, továbbá a tanuló felvételéről az iskola igazgatója dönt.
 
-(10) Ha a beszámítás kérdésében az iskola igazgatója nem tud dönteni, beszerzi az oktatásért felelős miniszter véleményét.
+(10) Ha a beszámítás kérdésében az iskola igazgatója nem tud dönteni, beszerzi a köznevelésért felelős miniszter véleményét.

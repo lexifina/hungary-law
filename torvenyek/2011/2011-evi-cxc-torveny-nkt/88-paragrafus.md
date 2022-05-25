@@ -10,9 +10,9 @@
 
 (5) A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit jogszabály állapítja meg.
 
-(6) A nem állami fenntartású szakgimnázium és szakiskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön az oktatásért felelős miniszterrel.
+(6) A nem állami fenntartású szakgimnázium és szakiskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a köznevelésért felelős miniszterrel.
 
-(7) A Magyarország területén az oktatásért felelős miniszter engedélye alapján működő külföldi, nemzetközi nevelési-oktatási intézmény Magyarországon nyilvántartásba vett fenntartója az ilyen intézmény által pedagógus-munkakörben foglalkoztatott személy után átlagbéralapú támogatásra akkor jogosult, ha
+(7) A Magyarország területén a köznevelésért felelős miniszter engedélye alapján működő külföldi, nemzetközi nevelési-oktatási intézmény Magyarországon nyilvántartásba vett fenntartója az ilyen intézmény által pedagógus-munkakörben foglalkoztatott személy után átlagbéralapú támogatásra akkor jogosult, ha
 
 a) a pedagógus szakképzettsége vagy szakképesítése megfelel a jogszabályban meghatározott képesítési előírásoknak és
 

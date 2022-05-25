@@ -18,7 +18,7 @@
 
 (9) Az állami feladatellátásban közreműködő, a fenntartói jogot gyakorló állami intézményfenntartó központ megjelölését a KIR-ben 2013. március 2-áig át kell vezetni.
 
-(10) Az e törvény hatálybalépésekor működő pedagógiai-szakmai szolgáltatást ellátó intézmények 2013. szeptember 1-jétől feladatukat az oktatásért felelős miniszter szakmai irányításával láthatják el.
+(10) Az e törvény hatálybalépésekor működő pedagógiai-szakmai szolgáltatást ellátó intézmények 2013. szeptember 1-jétől feladatukat a köznevelésért felelős miniszter szakmai irányításával láthatják el.
 
 (11)
 

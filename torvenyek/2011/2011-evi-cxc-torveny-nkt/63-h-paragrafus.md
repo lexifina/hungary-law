@@ -1,6 +1,6 @@
 63/H. § (1) A Kar működését az alábbiakban foglalt bevételek biztosítják:
 
-a) az oktatásért felelős minisztérium fejezetéből származó támogatás,
+a) a köznevelésért felelős miniszter által vezetett minisztérium fejezetéből származó támogatás,
 
 b) az alapítványi és egyéb támogatások,
 

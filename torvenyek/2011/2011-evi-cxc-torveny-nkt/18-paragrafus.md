@@ -22,4 +22,4 @@ h) az iskolapszichológiai, óvodapszichológiai ellátás,
 
 i) a kiemelten tehetséges gyermekek, tanulók gondozása.
 
-(3) A pedagógiai szakszolgálatok feladatainak, működési feltételeinek, feladatai ellátásának részletes szabályait az oktatásért felelős miniszter rendeletben állapítja meg.
+(3) A pedagógiai szakszolgálatok feladatainak, működési feltételeinek, feladatai ellátásának részletes szabályait a köznevelésért felelős miniszter rendeletben állapítja meg.

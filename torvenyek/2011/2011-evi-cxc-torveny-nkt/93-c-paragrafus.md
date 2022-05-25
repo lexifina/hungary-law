@@ -10,4 +10,4 @@ b) az e törvény hatálya alá tartozó szakmai tankönyv esetén kerettantervi
 
 legfeljebb kettő tankönyvet tartalmazhat.
 
-(4) A (3) bekezdésben foglaltakat nem kell alkalmazni a szótár, a szöveggyűjtemény, a feladatgyűjtemény, az atlasz, a kislexikon, a munkafüzet, a digitális tananyag és a nevelési-oktatási program részét alkotó információhordozó, feladathordozó és az idegen nyelvi tankönyvek tekintetében, továbbá akkor, ha bevett egyház, vagy annak belső egyházi jogi személye az oktatásért felelős miniszter által közzétett nyilvános felhívására készít tankönyvet.
+(4) A (3) bekezdésben foglaltakat nem kell alkalmazni a szótár, a szöveggyűjtemény, a feladatgyűjtemény, az atlasz, a kislexikon, a munkafüzet, a digitális tananyag és a nevelési-oktatási program részét alkotó információhordozó, feladathordozó és az idegen nyelvi tankönyvek tekintetében, továbbá akkor, ha bevett egyház, vagy annak belső egyházi jogi személye a köznevelésért felelős miniszter által közzétett nyilvános felhívására készít tankönyvet.

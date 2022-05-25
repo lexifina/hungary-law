@@ -8,7 +8,7 @@ c) a feladat- és hatáskörét érintő kérdésekben az adott kérdésben hat�
 
 d) a köznevelési intézmény magasabb vezetői megbízásával kapcsolatos pályázati eljárás során – a pályázó kérésére – szakmai ajánlást adhat,
 
-e) a feladat- és hatáskörét érintő bármely kérdésben javaslatot tehet az oktatásért felelős miniszternek,
+e) a feladat- és hatáskörét érintő bármely kérdésben javaslatot tehet a köznevelésért felelős miniszternek,
 
 f) megalkotja Alapszabályát, valamint a Pedagógus Etikai Kódexét (a továbbiakban: Etikai Kódex),
 

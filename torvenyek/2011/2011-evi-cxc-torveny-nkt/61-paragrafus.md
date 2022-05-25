@@ -8,7 +8,7 @@
 
 (4) A pedagógusok tevékenységét szakértők, szaktanácsadók segítik. A szaktanácsadó feladata a pedagógusok munkájának szakirányú (tantárgyi vagy sajátos pedagógiai területen igényelt) segítése, véleményezése, konzultációk, továbbképzések, szakmai fórumok szervezése. A szaktanácsadó központi szakmai irányítás mellett látja el feladatait. Szaktanácsadói megbízást kizárólag az kaphat, aki pedagógus-munkakör betöltéséhez szükséges felsőfokú iskolai végzettséggel és szakképzettséggel, pedagógus-szakvizsgával, valamint a nevelő-oktató munkában eltöltött legalább tízéves szakmai gyakorlattal rendelkezik. A szaktanácsadó pedagógiai-szakmai szolgáltatást nyújtó intézmény alkalmazásában áll vagy egyéb köznevelési intézmény alkalmazottja vagy onnan öt évnél nem régebben ment nyugdíjba.
 
-(4a) A hivatal a szaktanácsadókról névjegyzéket vezet. A hivatal döntése elleni fellebbezést az oktatásért felelős miniszter bírálja el.
+(4a) A hivatal a szaktanácsadókról névjegyzéket vezet. A hivatal döntése elleni fellebbezést a köznevelésért felelős miniszter bírálja el.
 
 (4b) A köznevelési szaktanácsadói névjegyzékben nyilvántartott szaktanácsadó alábbi adatai nyilvánosak:
 

@@ -1,6 +1,6 @@
-## 46. Az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes központi és területi feladatok
+## 46. A köznevelésért felelős miniszter köznevelési feladatkörébe tartozó egyes központi és területi feladatok
 
-79. § (1) Az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatait a hivatalon és a területileg illetékes tankerületi központon keresztül látja el.
+79. § (1) A köznevelésért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatait a hivatalon és a területileg illetékes tankerületi központon keresztül látja el.
 
 (2) A köznevelési feladatokat ellátó hatóság hatósági ellenőrzés keretében vizsgálja a köznevelési intézmény jogszabályi feltételeknek megfelelő működését.
 

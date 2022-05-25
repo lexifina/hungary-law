@@ -34,7 +34,7 @@ d)
 
 a) nem rendelkezik – az e törvényben és a külön jogszabályban foglaltaknak megfelelő – a működéséhez szükséges személyi és tárgyi feltételekkel,
 
-b) munkaterve nem felel meg a külön jogszabályban foglaltaknak, továbbá pedagógiai-szakmai szolgáltatást nyújtó intézmény esetében nincs összhangban az oktatásért felelős miniszter által kijelölt háttérintézménynek a miniszter által jóváhagyott szakmai irányelvében foglaltakkal.
+b) munkaterve nem felel meg a külön jogszabályban foglaltaknak, továbbá pedagógiai-szakmai szolgáltatást nyújtó intézmény esetében nincs összhangban a köznevelésért felelős miniszter által kijelölt háttérintézménynek a miniszter által jóváhagyott szakmai irányelvében foglaltakkal.
 
 (9) A nevelési-oktatási intézmény működéséhez szükséges engedély akkor adható ki, ha a nevelési-oktatási intézmény állandó saját székhellyel rendelkezik, továbbá legalább egy, a maximális létszám befogadására alkalmas óvodai csoport, kollégiumi csoport, továbbá az adott iskolatípusnak megfelelően valamennyi évfolyamra egy-egy iskolai osztály működtetésére alapították, és az ehhez szükséges – jogszabályban meghatározott – személyi és tárgyi feltételek rendelkezésre állnak, vagy újonnan induló nevelési-oktatási forma esetében felmenő rendszerben, fokozatosan megteremti. Ha nemzetiségi nevelés-oktatás esetén, valamint az ötezer főt meg nem haladó lakosságszámú településen, a nevelést-oktatást igénybevevő gyermekek, tanulók előre tervezhető létszáma nem éri el az átlag osztály- vagy csoportlétszámot, akkor a maximális létszám befogadására alkalmas osztályteremre, csoportszobára vonatkozó feltétel helyett elegendő, ha az intézmény az átlaglétszám befogadására alkalmas helyiséggel rendelkezik.
 

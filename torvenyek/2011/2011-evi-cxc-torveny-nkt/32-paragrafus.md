@@ -4,7 +4,7 @@ a) a pedagógusok és egyéb munkavállalók alkalmazása során világnézeti �
 
 b) az intézményvezető-helyettesek megbízása során a fenntartó egyetértési jogot gyakorol,
 
-c) a fenntartó az iskola számára előírhatja valamely – az oktatásért felelős miniszter által kiadott – kerettanterv választását és meghatározhatja az intézményben használható tankönyveket, taneszközöket,
+c) a fenntartó az iskola számára előírhatja valamely – a köznevelésért felelős miniszter által kiadott – kerettanterv választását és meghatározhatja az intézményben használható tankönyveket, taneszközöket,
 
 d) pedagógiai programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő ismereteket, helyi tantervébe a jogi személyiséggel rendelkező vallási közösség tanításának megfelelő tartalmú hitoktatást építhet be,
 

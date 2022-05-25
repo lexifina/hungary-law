@@ -1,4 +1,4 @@
-87. § (1) Az oktatásért felelős miniszter működteti az országos pedagógiai-szakmai ellenőrzés rendszerét. Ennek keretei között a köznevelési intézményben folyamatos pedagógiai-szakmai ellenőrzést szervez, amely köznevelési intézményenként ötévente ismétlődő, értékeléssel záruló vizsgálat.
+87. § (1) A köznevelésért felelős miniszter működteti az országos pedagógiai-szakmai ellenőrzés rendszerét. Ennek keretei között a köznevelési intézményben folyamatos pedagógiai-szakmai ellenőrzést szervez, amely köznevelési intézményenként ötévente ismétlődő, értékeléssel záruló vizsgálat.
 
 (2) Az országos pedagógiai-szakmai ellenőrzést a hivatal szervezi.
 

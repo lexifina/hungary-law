@@ -3,5 +3,3 @@
 5. melléklet a 2011. évi CXC. törvényhez
 
 ## Intézményvezető heti tanóráinak száma (óvodapedagógus esetén óvodai foglalkozásainak száma)
-
-## | | A | B | C | D | E | 1 | Intézménytípus | legalább 450 fő gyermek-, tanulólétszám | 200–449 fő közötti gyermek-, tanulólétszám | 50–199 fő közötti gyermek-, tanulólétszám | 50 fő alatti gyermek-, tanulólétszám | 2 | Óvoda | 6 | 8 | 10 | 12 | 3 | Általános iskola | 2 | 4 | 6 | 8 | 4 | Középfokú iskola | 2 | 4 | 6 | 8 | 5 | Kollégium | 4 | 6 | 8 | 10 | 6 | Kizárólag sajátos nevelési igényű gyermekeket nevelő óvoda | 4 | 6 | 8 | 10 | 7 | Kizárólag sajátos nevelési igényű tanulókat nevelő-oktató általános iskola | 2 | 4 | 6 | 8 | 8 | Kizárólag sajátos nevelési igényű tanulókat nevelő-oktató középfokú iskola | 2 | 4 | 6 | 8 | 9 | Kizárólag sajátos nevelési igényű gyermekeket tanulókat nevelő-oktató kollégium | 4 | 6 | 8 | 10 | 10 | Alapfokú művészeti iskola | 2 | 4 | 6 | 8 | 11 | Fejlesztő nevelés-oktatást végző iskolaként működő gyógypedagógiai, konduktív pedagógiai intézmény | 2 | 4 | 6 | 8

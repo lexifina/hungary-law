@@ -40,9 +40,7 @@ c) feladatának megváltoztatásával,
 
 d) nevének megállapításával,
 
-e)
-
-összefüggő döntése vagy véleményének kialakítása előtt beszerzi a (4) bekezdésben foglaltak véleményét.
+e) összefüggő döntése vagy véleményének kialakítása előtt beszerzi a (4) bekezdésben foglaltak véleményét.
 
 (4) A fenntartó (3) bekezdésben foglalt döntése előtt ki kell kérni:
 

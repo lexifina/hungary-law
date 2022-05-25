@@ -22,6 +22,6 @@ a) nem vezetett eredményre vagy
 
 b) nem áll rendelkezésre,
 
-az oktatásért felelős miniszter, az intézményvezető megbízását vagy ahhoz adott egyetértését mérlegelési jogkörében a tevékenységről való tudomásszerzést követő egy éven belül visszavonhatja.
+a köznevelésért felelős miniszter, az intézményvezető megbízását vagy ahhoz adott egyetértését mérlegelési jogkörében a tevékenységről való tudomásszerzést követő egy éven belül visszavonhatja.
 
 (10) Az iskolarendszer átjárható, így a fogadó intézménynek az e törvényben foglalt keretek között megállapított követelményei alapján más iskolába vagy iskolatípusba akár tanév közben is át lehet lépni.

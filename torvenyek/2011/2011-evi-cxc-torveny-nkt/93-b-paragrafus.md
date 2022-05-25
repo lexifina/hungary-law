@@ -8,7 +8,7 @@ a) közismereti tankönyv vonatkozásában
 
 aa) az állami tankönyvfejlesztésért és -kiadásért felelős szerv,
 
-ab) a 93/D. § (2) bekezdése szerinti nyilvános felhívás alapján az oktatásért felelős miniszter által kiválasztott könyv esetén a könyvkiadást folytató jogi személy,
+ab) a 93/D. § (2) bekezdése szerinti nyilvános felhívás alapján a köznevelésért felelős miniszter által kiválasztott könyv esetén a könyvkiadást folytató jogi személy,
 
 ac) bevett egyház, vagy annak belső egyházi jogi személye,
 

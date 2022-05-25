@@ -1,8 +1,8 @@
-## 45. Az ágazati irányítás, az oktatásért felelős miniszter és a Kormány szabályozási feladatai
+## 45. Az ágazati irányítás, a köznevelésért felelős miniszter és a Kormány szabályozási feladatai
 
-77. § (1) Az oktatásért felelős miniszter e törvényben meghatározottak szerint ellátja a köznevelés ágazati irányítását. Az oktatásért felelős miniszter ágazati irányító hatásköre kiterjed e törvény hatálya alá tartozó valamennyi tevékenységre, függetlenül attól, hogy a tevékenységet milyen intézményben, szervezetben látják el, vagy ki az intézmény fenntartója.
+77. § (1) A köznevelésért felelős miniszter e törvényben meghatározottak szerint ellátja a köznevelés ágazati irányítását. A köznevelésért felelős miniszter ágazati irányító hatásköre kiterjed e törvény hatálya alá tartozó valamennyi tevékenységre, függetlenül attól, hogy a tevékenységet milyen intézményben, szervezetben látják el, vagy ki az intézmény fenntartója.
 
-(2) Az oktatásért felelős miniszter
+(2) A köznevelésért felelős miniszter
 
 a) rendszeresen, de legalább ötévenként értékeli – az általa létrehozott tanács közreműködésével – az Óvodai nevelés országos alapprogramja és a Nat bevezetésével és alkalmazásával kapcsolatos tapasztalatokat, szükség esetén kezdeményezi a Kormánynál a szükséges módosítást,
 
@@ -26,11 +26,11 @@ j) az e törvényben biztosított tanulói jogok érvényesülésének elősegí
 
 k) dönt az állami felsőoktatási intézmény által fenntartott köznevelési intézmény létesítéséről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról, valamint a tankerületi központ által fenntartott köznevelési intézmény létesítéséről, a 21. § (3) bekezdés c)–e) pontjaiban felsoroltak módosulásával járó átszervezéséről, megszüntetéséről, alapfeladatának módosításáról.
 
-(3) Az oktatásért felelős miniszter az általa vezetett minisztérium költségvetésének a terhére országos és térségi szakmai ellenőrzést, pedagógiai-szakmai mérések, átvilágítások, elemzések készítését rendelheti el, továbbá felkérheti a fenntartót, hogy a fenntartásában lévő nevelési-oktatási intézményben végeztessen törvényességi, szakmai ellenőrzést, pedagógiai-szakmai mérést, átvilágítást, elemzést, és ennek eredményéről tájékoztassa. Ha a fenntartó a felkérésnek nem tesz eleget, az oktatásért felelős miniszter intézkedésére a hivatal jár el.
+(3) A köznevelésért felelős miniszter az általa vezetett minisztérium költségvetésének a terhére országos és térségi szakmai ellenőrzést, pedagógiai-szakmai mérések, átvilágítások, elemzések készítését rendelheti el, továbbá felkérheti a fenntartót, hogy a fenntartásában lévő nevelési-oktatási intézményben végeztessen törvényességi, szakmai ellenőrzést, pedagógiai-szakmai mérést, átvilágítást, elemzést, és ennek eredményéről tájékoztassa. Ha a fenntartó a felkérésnek nem tesz eleget, a köznevelésért felelős miniszter intézkedésére a hivatal jár el.
 
-(4) Az oktatásért felelős miniszter kezdeményezi a köznevelési feladatokat ellátó hatóságnál, hogy határidő kitűzésével hívja fel az érintett települési önkormányzatot a köznevelési feladatainak ellátásával összefüggő törvénysértés megszüntetésére. Az oktatásért felelős miniszter, ha az az egyházi köznevelési intézmény vagy a magán köznevelési intézmény működésével, működtetésével összefüggésben jogsértés megalapozott gyanúja merül fel, tájékoztatja a köznevelési feladatokat ellátó hatóságot.
+(4) A köznevelésért felelős miniszter kezdeményezi a köznevelési feladatokat ellátó hatóságnál, hogy határidő kitűzésével hívja fel az érintett települési önkormányzatot a köznevelési feladatainak ellátásával összefüggő törvénysértés megszüntetésére. A köznevelésért felelős miniszter, ha az az egyházi köznevelési intézmény vagy a magán köznevelési intézmény működésével, működtetésével összefüggésben jogsértés megalapozott gyanúja merül fel, tájékoztatja a köznevelési feladatokat ellátó hatóságot.
 
-(5) A szakgimnáziumban oktatható pedagógia, közművelődés és művészet tanulmányi területhez sorolt képzések, a szakiskolában oktatható képzések, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések irányítását az oktatásért felelős miniszter látja el, amelynek keretében
+(5) A szakgimnáziumban oktatható pedagógia, közművelődés és művészet tanulmányi területhez sorolt képzések, a szakiskolában oktatható képzések, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések irányítását a köznevelésért felelős miniszter látja el, amelynek keretében
 
 a) meghatározza
 
@@ -46,13 +46,13 @@ ae) a szakgimnáziumi képesítő vizsgatevékenység, a szakiskolai szakmaivizs
 
 b) gondoskodik az a) pont aa)–ae) alpontjában foglaltak közzétételéről.
 
-(5a) Az oktatásért felelős miniszter jelöli ki a szakgimnáziumi képesítő vizsgákra, a szakiskolai szakmai vizsgákra és képesítő vizsgákra, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítő vizsgákra a mérést, értékelést végző szakértőket és a vizsgafelügyelő elnököket.
+(5a) A köznevelésért felelős miniszter jelöli ki a szakgimnáziumi képesítő vizsgákra, a szakiskolai szakmai vizsgákra és képesítő vizsgákra, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítő vizsgákra a mérést, értékelést végző szakértőket és a vizsgafelügyelő elnököket.
 
-(6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát, és gyakorolja felette az egyéb munkáltatói jogokat.
+(6) A köznevelésért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát, és gyakorolja felette az egyéb munkáltatói jogokat.
 
 (7) Az oktatási jogok biztosa
 
-a) az oktatásért felelős miniszternek tartozik felelősséggel,
+a) a köznevelésért felelős miniszternek tartozik felelősséggel,
 
 b) tevékenységét kormányzati szolgálati jogviszonyban végzi szakmai felsővezetői álláshelyen,
 
@@ -70,4 +70,4 @@ c) feladatai végrehajtásában nem kérhet és nem fogadhat el utasítást,
 
 d) nem járhat el olyan ügyben, amelyben tőle pártatlan feladatellátás nem elvárható,
 
-e) a d) pont szerinti körülményt köteles haladéktalanul írásban jelezni az oktatásért felelős miniszternek, egyidejűleg az adott ügyben az alapvető jogok biztosának eljárását kezdeményezni.
+e) a d) pont szerinti körülményt köteles haladéktalanul írásban jelezni a köznevelésért felelős miniszternek, egyidejűleg az adott ügyben az alapvető jogok biztosának eljárását kezdeményezni.

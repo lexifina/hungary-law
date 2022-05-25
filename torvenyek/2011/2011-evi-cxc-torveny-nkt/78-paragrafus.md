@@ -1,4 +1,4 @@
-78. § (1) Az oktatásért felelős miniszter köznevelés-fejlesztéssel kapcsolatos feladata
+78. § (1) A köznevelésért felelős miniszter köznevelés-fejlesztéssel kapcsolatos feladata
 
 a) a köznevelés stratégiájának kidolgozása,
 
@@ -24,11 +24,11 @@ k) évenként országos és térségi mérési, értékelési feladatok elrendel
 
 l) a kerettanterv, irányelv, alapprogram kiadása és közzététele.
 
-(2) Az oktatásért felelős miniszter szakmai felügyeletet gyakorol a köznevelési rendszert érintő központi támogatások elosztására irányuló pályázatok felett, különös tekintettel azok pedagógiai tartalmára.
+(2) A köznevelésért felelős miniszter szakmai felügyeletet gyakorol a köznevelési rendszert érintő központi támogatások elosztására irányuló pályázatok felett, különös tekintettel azok pedagógiai tartalmára.
 
 (2a) A miniszter a társadalmi felzárkóztatásért és a tehetségsegítésért, így különösen a tehetséggondozásért való felelőssége körében a köznevelésben résztvevőkre tekintettel támogatást nyújthat.
 
-(3) Az oktatásért felelős miniszter, az egészségügyért felelős miniszter programok kiadásával, pályázatok kiírásával, továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó egészségfejlesztési feladatok végrehajtását.
+(3) A köznevelésért felelős miniszter, az egészségügyért felelős miniszter programok kiadásával, pályázatok kiírásával, továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó egészségfejlesztési feladatok végrehajtását.
 
 (4)
 
@@ -38,11 +38,11 @@ l) a kerettanterv, irányelv, alapprogram kiadása és közzététele.
 
 (7)
 
-(8) Az oktatásért felelős miniszter kétévenként összehívja a diákparlamentet. A diákparlament a diákok közneveléssel kapcsolatos országos tájékoztató fóruma, amely az előterjesztésében áttekinti a tanulói jogok érvényesülését, és ajánlást fogadhat el, amelyben megfogalmazza véleményét, javaslatát.
+(8) A köznevelésért felelős miniszter kétévenként összehívja a diákparlamentet. A diákparlament a diákok közneveléssel kapcsolatos országos tájékoztató fóruma, amely az előterjesztésében áttekinti a tanulói jogok érvényesülését, és ajánlást fogadhat el, amelyben megfogalmazza véleményét, javaslatát.
 
-(9) Az oktatásért felelős miniszter – ha enélkül a szükséges intézkedés megtételére nincs lehetőség – az (1) bekezdés b) pontjában foglalt rendkívüli intézkedései során a vizsgaszabályzatban, valamint a tanév rendjében foglaltaktól – az adott ügy elintézéséhez szükséges mértékben – eltérő módon is eljárhat. Az oktatásért felelős miniszter döntését három munkanapon belül meghozza és közzéteszi. Az oktatásért felelős miniszter intézkedése a közzététel után azonnal végrehajtható. Az oktatásért felelős miniszter intézkedését elektronikus úton is közzéteheti.
+(9) A köznevelésért felelős miniszter – ha enélkül a szükséges intézkedés megtételére nincs lehetőség – az (1) bekezdés b) pontjában foglalt rendkívüli intézkedései során a vizsgaszabályzatban, valamint a tanév rendjében foglaltaktól – az adott ügy elintézéséhez szükséges mértékben – eltérő módon is eljárhat. A köznevelésért felelős miniszter döntését három munkanapon belül meghozza és közzéteszi. A köznevelésért felelős miniszter intézkedése a közzététel után azonnal végrehajtható. A köznevelésért felelős miniszter intézkedését elektronikus úton is közzéteheti.
 
-(10) Az oktatásért felelős miniszter – a vizsgaszabályzatról szóló rendeletben meghatározott feltételek fennállása esetén az általános közigazgatási rendtartásról szóló törvényben szabályozott eljárás keretében –
+(10) A köznevelésért felelős miniszter – a vizsgaszabályzatról szóló rendeletben meghatározott feltételek fennállása esetén az általános közigazgatási rendtartásról szóló törvényben szabályozott eljárás keretében –
 
 a) megvonhatja az iskolától az érettségi vizsga, a szakmai vizsga megszervezésének, lebonyolításának jogát,
 
@@ -52,6 +52,6 @@ c) a kiállított bizonyítványt érvénytelenné nyilváníthatja,
 
 ha bebizonyosodik, hogy a vizsgát jogellenesen szervezték meg, bonyolították le, a bizonyítványt jogellenesen állították ki, továbbá, ha az iskola nem rendelkezik a vizsga biztonságos megszervezéséhez szükséges feltételekkel.
 
-(11) Az érvénytelenné nyilvánított bizonyítványt be kell vonni és meg kell semmisíteni. Az oktatásért felelős miniszter határozatát – indokolás nélkül – a Magyarország hivatalos lapja mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
+(11) Az érvénytelenné nyilvánított bizonyítványt be kell vonni és meg kell semmisíteni. A köznevelésért felelős miniszter határozatát – indokolás nélkül – a Magyarország hivatalos lapja mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
 
-(12) Az oktatásért felelős miniszter az Alaptörvényben meghatározott rendkívüli állapot, szükségállapot esetén határozatban írja elő a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. A miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése elektronikus úton is történhet.
+(12) A köznevelésért felelős miniszter az Alaptörvényben meghatározott rendkívüli állapot, szükségállapot esetén határozatban írja elő a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. A miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése elektronikus úton is történhet.

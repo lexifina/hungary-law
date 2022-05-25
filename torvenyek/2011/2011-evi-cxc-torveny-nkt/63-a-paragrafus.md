@@ -10,7 +10,7 @@
 
 (5)
 
-(6) A Kar az Országos Küldöttgyűlés által elfogadott Alapszabályát köteles az elfogadástól számított 30 napon belül az oktatásért felelős miniszternek tájékoztatásul megküldeni.
+(6) A Kar az Országos Küldöttgyűlés által elfogadott Alapszabályát köteles az elfogadástól számított 30 napon belül a köznevelésért felelős miniszternek tájékoztatásul megküldeni.
 
 (7) A Kar a céljai megvalósulásának előmozdítása érdekében, kizárólag a tevékenységéhez, továbbá a tagjai által végzett szakmai tevékenységhez kapcsolódó, kiegészítő jellegű gazdasági tevékenységet végezhet. A Kar gazdasági társaságnak, egyesületnek nem lehet tagja, és ilyen társaságban nem szerezhet részesedést.
 

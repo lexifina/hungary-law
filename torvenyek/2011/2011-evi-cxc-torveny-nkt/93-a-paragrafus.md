@@ -2,13 +2,13 @@
 
 93/A. § (1) Ezen alcím rendelkezéseit kell alkalmazni
 
-a) a Magyarország területén működő iskolákban, ide nem értve az oktatásért felelős miniszter engedélye alapján a külföldi állam vagy nemzetközi szervezet oktatási programja alapján folyó oktatást megvalósító iskolákban,
+a) a Magyarország területén működő iskolákban, ide nem értve a köznevelésért felelős miniszter engedélye alapján a külföldi állam vagy nemzetközi szervezet oktatási programja alapján folyó oktatást megvalósító iskolákban,
 
 b) a (2) és (3) bekezdésben meghatározott feladatok végrehajtásában közreműködőkre, természetes és jogi személyekre.
 
-(2) A tankönyvellátás állami feladat. A tankönyvellátás rendszerének működtetéséért az oktatásért felelős miniszter felelős.
+(2) A tankönyvellátás állami feladat. A tankönyvellátás rendszerének működtetéséért a köznevelésért felelős miniszter felelős.
 
-(3) Az oktatásért felelős miniszter az iskolában alkalmazott tankönyvek
+(3) A köznevelésért felelős miniszter az iskolában alkalmazott tankönyvek
 
 a) tankönyvvé nyilvánításával és a tankönyvjegyzékre történő felvételével kapcsolatos feladatait a hivatal által,
 

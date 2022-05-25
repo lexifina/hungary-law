@@ -26,7 +26,7 @@ d) az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő s
 
 (6)
 
-(7) A szakgimnáziumban az iskolai nevelés-oktatásnak a szakképesítés megszerzésére felkészítő szakaszának tartalmi követelményeit az adott szakképesítés programkövetelménye és az annak alapján kiadott kerettanterv határozza meg, amelyet az oktatásért felelős miniszter az általa vezetett minisztérium honlapján a 6. § (1a) bekezdésében meghatározott módon tesz közzé.
+(7) A szakgimnáziumban az iskolai nevelés-oktatásnak a szakképesítés megszerzésére felkészítő szakaszának tartalmi követelményeit az adott szakképesítés programkövetelménye és az annak alapján kiadott kerettanterv határozza meg, amelyet a köznevelésért felelős miniszter az általa vezetett minisztérium honlapján a 6. § (1a) bekezdésében meghatározott módon tesz közzé.
 
 (8)
 

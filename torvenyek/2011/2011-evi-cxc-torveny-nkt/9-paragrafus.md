@@ -16,11 +16,11 @@
 
 (7a)
 
-(8) A nevelő-oktató munka fejlesztése érdekében az óvodai nevelésben, valamint az általános iskolai és a középfokú nevelésben és oktatásban az oktatásért felelős miniszter a nevelés-oktatás tartalmi kérdéseire, a vezetési modellre, a nevelés- és oktatásszervezési módszerekre, a minőségpolitika, a minőséggondozás rendszerére, a tanuló heti kötelező óraszámára, ha a tantárgy vagy a tantárgyi modul vonatkozásában nincs megfelelő hazai felsőfokú képzés, a pedagógusvégzettségére és -szakképzettségére, valamint a működéshez szükséges feltételekre vonatkozóan egyedi megoldások alkalmazását engedélyezheti. Ebben az esetben, ha az intézmény fenntartója nem központi költségvetési szerv vagy települési önkormányzat, az intézményt az oktatásért felelős miniszter veszi nyilvántartásba és adja ki számára a működési engedélyt, valamint gyakorolja a törvényességi és hatósági ellenőrzési jogköröket.
+(8) A nevelő-oktató munka fejlesztése érdekében az óvodai nevelésben, valamint az általános iskolai és a középfokú nevelésben és oktatásban a köznevelésért felelős miniszter a nevelés-oktatás tartalmi kérdéseire, a vezetési modellre, a nevelés- és oktatásszervezési módszerekre, a minőségpolitika, a minőséggondozás rendszerére, a tanuló heti kötelező óraszámára, ha a tantárgy vagy a tantárgyi modul vonatkozásában nincs megfelelő hazai felsőfokú képzés, a pedagógusvégzettségére és -szakképzettségére, valamint a működéshez szükséges feltételekre vonatkozóan egyedi megoldások alkalmazását engedélyezheti. Ebben az esetben, ha az intézmény fenntartója nem központi költségvetési szerv vagy települési önkormányzat, az intézményt a köznevelésért felelős miniszter veszi nyilvántartásba és adja ki számára a működési engedélyt, valamint gyakorolja a törvényességi és hatósági ellenőrzési jogköröket.
 
-(9) A (8) bekezdés szerinti engedély akkor adható meg, ha a benyújtott tanterv tantárgyi struktúrája – a Nat-ban meghatározott műveltségi területek adaptálása során az iskolák közötti átjárhatóság és a továbbtanulás biztosítása érdekében – legfeljebb harminc százalékban tér el a Nat-ban és az oktatásért felelős miniszter által kiadott kerettantervben foglalt tantárgyi struktúrától.
+(9) A (8) bekezdés szerinti engedély akkor adható meg, ha a benyújtott tanterv tantárgyi struktúrája – a Nat-ban meghatározott műveltségi területek adaptálása során az iskolák közötti átjárhatóság és a továbbtanulás biztosítása érdekében – legfeljebb harminc százalékban tér el a Nat-ban és a köznevelésért felelős miniszter által kiadott kerettantervben foglalt tantárgyi struktúrától.
 
-(9a) A (8) bekezdés szerinti engedély iránti kérelmet az óvoda, iskola fenntartója jogosult az oktatásért felelős miniszternek benyújtani.
+(9a) A (8) bekezdés szerinti engedély iránti kérelmet az óvoda, iskola fenntartója jogosult a köznevelésért felelős miniszternek benyújtani.
 
 (10)
 
