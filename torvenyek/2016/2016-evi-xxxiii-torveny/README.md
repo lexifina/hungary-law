@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-33-00-00
 | 2021-01-01 | 2020. évi CLII. törvény | 2016-33-00-00.9 |
 | 2021-06-16 | 2021. évi LXXVIII. törvény | 2016-33-00-00.10 |
 | 2022-03-21 | 2022. évi I. törvény | 2016-33-00-00.11 |
+| 2022-05-25 | 2022. évi IV. törvény | 2016-33-00-00.12 |

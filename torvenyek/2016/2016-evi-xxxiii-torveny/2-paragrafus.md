@@ -10,7 +10,7 @@
 
 4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés a)–c) pontjában meghatározott szerv, a Kormány kivételével;
 
-4a. munkáltató: a miniszter által vezetett minisztérium (a továbbiakban: minisztérium);
+4a. munkáltató: a miniszter által vezetett vagy a Kormány eredeti jogalkotói hatáskörében kiadott rendeletében kijelölt, a miniszter feladatainak ellátását segítő minisztérium (a továbbiakban: minisztérium);
 
 5. programozási időszak: az Európai Unió által meghatározott hétéves tervezési periódus;
 
