@@ -18,7 +18,7 @@
 
 a) statisztikai célokra a Központi Statisztikai Hivatal,
 
-b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter és a gazdaságpolitika makrogazdasági szabályozásáért felelős miniszter,
+b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter, a költségvetés makrogazdasági megalapozásáért felelős miniszter és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter,
 
 c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából az Alap,
 
