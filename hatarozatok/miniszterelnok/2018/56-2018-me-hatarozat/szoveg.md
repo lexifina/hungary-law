@@ -6,7 +6,7 @@ dr. Katona Gábort,
 
 dr. Nagy Szilárdot,
 
-dr. Nemcsok Dénes Sándort és
+dr. Nemcsok Dénes Sándort[^1] és
 
 dr. Sölch Gellért Boldizsárt
 
@@ -16,6 +16,9 @@ dr. Csányi Istvánt
 
 – 2018. június 11-ei hatállyal –
 
-az Emberi Erőforrások Minisztériuma helyettes államtitkárává
+az Emberi Erőforrások Minisztériuma helyettes államtitkárává[^2]
 
 kinevezem.
+
+[^1]: A 33/2022. (VI. 11.) ME határozat alapján dr. Nemcsok Dénes Sándor tekintetében akként módosul, hogy az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Miniszterelnökség” megnevezést kell érteni.
+[^2]: A 44/2022. (VI. 11.) ME határozat alapján dr. Katona Gábor és dr. Sölch Gellért Boldizsár tekintetében az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Kulturális és Innovációs Minisztérium” megnevezést kell érteni.
