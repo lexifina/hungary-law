@@ -1,6 +1,6 @@
 ## 6. Személygépkocsival kapcsolatos juttatások
 
-8. §[^24] (1) A miniszter, az államtitkár, a közigazgatási államtitkár, valamint a 2. melléklet szerint államtitkári juttatásra jogosult személy – ide nem értve a központi hivatal vezetőjét – személyes gépjárműhasználatra jogosult és számára gépjárművezetőt kell biztosítani.
+8. §[^28] (1)[^29] A miniszter, a politikai igazgató, az államtitkár, a közigazgatási államtitkár, valamint a 2. melléklet szerint államtitkári juttatásra jogosult személy – ide nem értve a központi hivatal vezetőjét – személyes gépjárműhasználatra jogosult és számára gépjárművezetőt kell biztosítani.
 
 (2) A helyettes államtitkár, a miniszteri biztos, valamint a miniszteri kabinetet vezető kabinetfőnök a Miniszterelnöki Kormányiroda közigazgatási államtitkárának előzetes engedélye alapján – a kérelmében megjelölt választása szerint –
 
@@ -24,4 +24,5 @@ b) a KEF által biztosított, személyes használatú gépjárműre – a Minisz
 
 (9) A központi hivatal vezetője, a kormányzati főhivatal vezetőjének helyettese és a kormánymegbízott a (2) bekezdés szerint nyújthat be kérelmet azzal az eltéréssel, hogy – figyelemmel a 9/A. § (5) bekezdésére – kizárólag a (2) bekezdés b) pontja szerinti juttatást igényelhet.
 
-[^24]: A 8. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (9) bekezdésével megállapított szöveg.
+[^28]: A 8. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (9) bekezdésével megállapított szöveg.
+[^29]: A 8. § (1) bekezdése a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés c) pontja szerint módosított szöveg.

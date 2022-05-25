@@ -1,46 +1,44 @@
 ## Állami vezetőket megillető juttatások
 
-|  | A | B | C | D |
+|  | A | B | C | D | E |
 
-| 1 | Juttatások | Miniszter | Államtitkár, közigazgatási államtitkár | Helyettes államtitkár |
+| 1. | Juttatások | Miniszter | Államtitkár, közigazgatási államtitkár | Politikai igazgató | Helyettes államtitkár |
 
-| 2 | 1. Hivatali lakás használata | engedély alapján jogosult | engedély alapján jogosult | nem jogosult |
+| 2. | 1. Hivatali lakás használata | engedély alapján jogosult | engedély alapján jogosult | engedély alapján jogosult | nem jogosult |
 
-| 3 | 2. Kiemelt egészségügyi ellátás | jogosult | jogosult | nem jogosult |
+| 3. | 2. Kiemelt egészségügyi ellátás | jogosult | jogosult | jogosult | nem jogosult |
 
-| 4 | 3. Személygépjárművel kapcsolatos juttatások |  |  |  |
+| 4. | 3. Személygépjárművel kapcsolatos juttatások |  |  |  |  |
 
-| 5 | a) személyes gépjárműhasználat | jogosult (hivatalos és magáncélra is) | jogosult (hivatalos és magáncélra is) | engedély alapján jogosult (hivatalos és magáncélra is) |
+| 5. | a) személyes gépjárműhasználat | jogosult (hivatalos és magáncélra is) | jogosult (hivatalos és magáncélra is) | jogosult (hivatalos és magáncélra is) | engedély alapján jogosult (hivatalos és magáncélra is) |
 
-| 6 | b) költségátalány | – | – | engedély alapján jogosult |
+| 6. | b) költségátalány | – | – | – | engedély alapján jogosult |
 
-| 7 | c) üzemanyagkártya | jogosult | jogosult | engedély alapján jogosult |
+| 7. | c) üzemanyagkártya | jogosult | jogosult | jogosult | engedély alapján jogosult |
 
-| 8 | d) személygépjármű | miniszteri használat céljára beszerzett személygépjármű | egy darab felső-közép 8. kategóriájú, államtitkári felszereltségű személygépjármű | egy darab legfeljebb felső-közép 8. kategóriájú, helyettes államtitkári felszereltségű személygépjármű |
+| 8. | d) személygépjármű | miniszteri használat céljára beszerzett személygépjármű | egy darab felső-közép 8. kategóriájú, államtitkári felszereltségű személygépjármű | egy darab felső-közép 8. kategóriájú, államtitkári felszereltségű személygépjármű | egy darab legfeljebb felső-közép 8. kategóriájú, helyettes államtitkári felszereltségű személygépjármű |
 
-| 9 | e) minisztérium, a Miniszterelnöki Kormányiroda vagy a KEF állományából gépjárművezető biztosítása | jogosult | jogosult | nem jogosult |
+| 9. | e) minisztérium, a Miniszterelnöki Kormányiroda vagy a KEF állományából gépjárművezető biztosítása | jogosult | jogosult | jogosult | nem jogosult |
 
-| 10 | 4. Utazással kapcsolatos juttatások |  |  |  |
+| 10. | 4. Utazással kapcsolatos juttatások |  |  |  |  |
 
-| 11 | a) repülőgép komfortfokozata | I. osztály (First Class, Prémium First Class) | turista osztály (Turista, Prémium Turista)* | turista osztály (Turista, Prémium Turista) |
+| 11. | a) repülőgép komfortfokozata | I. osztály (First Class, Prémium First Class) | turista osztály (Turista, Prémium Turista) azzal, hogy a négy óra repülési időt meghaladó járatoknál magasabb komfortosztálynak megfelelő árú repülőjegy vásárolható | I. osztály (First Class, Prémium First Class) | turista osztály (Turista, Prémium Turista) |
 
-| 12 | b) repülőtéri kormányváró helyiségek használata | hivatalos és magáncélra | hivatalos célra | hivatalos célra |
+| 12. | b) repülőtéri kormányváró helyiségek használata | hivatalos és magáncélra | hivatalos célra | hivatalos célra | hivatalos célra |
 
-| 13 | c) vonat komfortfokozata | I. osztály | I. osztály | I. osztály |
+| 13. | c) vonat komfortfokozata | I. osztály | I. osztály | I. osztály | I. osztály |
 
-| 14 | 5. Külföldön tartózkodással kapcsolatos juttatások |  |  |  |
+| 14. | 5. Külföldön tartózkodással kapcsolatos juttatások |  |  |  |  |
 
-| 15 | a) költségtérítés | jogosult | jogosult | jogosult |
+| 15. | a) költségtérítés | jogosult | jogosult | jogosult | jogosult |
 
-| 16 | b) napidíj | kormányrendelet alapján jogosult | kormányrendelet alapján jogosult | kormányrendelet alapján jogosult |
+| 16. | b) napidíj | kormányrendelet alapján jogosult | kormányrendelet alapján jogosult | kormányrendelet alapján jogosult | kormányrendelet alapján jogosult |
 
-| 17 | c) szálláskategória | bármilyen | kiküldő szerv vezetőjének belső szabályzata szerint | kiküldő szerv vezetőjének belső szabályzata szerint |
+| 17. | c) szálláskategória | bármilyen | kiküldő szerv vezetőjének belső szabályzata szerint | bármilyen | kiküldő szerv vezetőjének belső szabályzata szerint |
 
-| 18 | 6. Számítástechnikai eszközök és rádiótelefon használata | jogosult | jogosult | jogosult |
+| 18. | 6. Számítástechnikai eszközök és rádiótelefon használata | jogosult | jogosult | jogosult | jogosult |
 
-## * Megjegyzés: A négy óra repülési időt meghaladó járatoknál magasabb komfortosztálynak megfelelő árú repülőjegy vásárolható.
-
-2. melléklet a 275/2015. (IX. 21.) Korm. rendelethez[^39]
+2. melléklet a 275/2015. (IX. 21.) Korm. rendelethez[^47]
 
 Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket megillető juttatások
 
@@ -70,4 +68,4 @@ Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket me
 
 (X. 2.) Korm. rendelet szerinti ellátotti körbe tartozik a munkáltató szerv.
 
-[^39]: A 2. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 146. § (15) bekezdése iktatta be.
+[^47]: A 2. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 146. § (15) bekezdése iktatta be.

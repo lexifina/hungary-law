@@ -1,10 +1,3 @@
-16. §[^35] (1) Az e rendeletnek a fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet (a továbbiakban: Módr.2) hatálybalépése[^36] előtt hatályos 9. §-a alapján kiadott engedélyek a Módr.2 hatálybalépését követő harmincadik napon érvényüket vesztik.
+## 15. §[^43]
 
-(2) Az e rendeletnek a Módr.2 hatálybalépése előtt hatályos 8. § (2) bekezdése alapján kiadott érvényes engedéllyel rendelkező helyettes államtitkár, miniszteri biztos, valamint a miniszteri kabinetet vezető kabinetfőnök a Módr.2 hatálybalépését követő 30 napon belül nyilatkozni köteles a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére, hogy az e rendeletnek a Módr.2-vel megállapított 8. § (2) bekezdés a) pontja szerinti juttatást igénybe kívánja-e venni.
-
-(3) Ha az e rendeletnek a Módr.2 hatálybalépése előtt hatályos 8. § (2) bekezdése alapján kiadott érvényes engedéllyel rendelkező személy úgy nyilatkozik, hogy igénybe kívánja venni az e rendeletnek a Módr.2-vel megállapított 8. § (2) bekezdés a) pontja szerinti juttatást, akkor az e rendeletnek a Módr.2 hatálybalépése előtt hatályos 8. § (2) bekezdése alapján kiadott engedély érvényét veszti a Módr.2-vel megállapított 8. § (2) bekezdés a) pontja szerinti juttatás iránti engedély kiállításának napján, de legkésőbb a nyilatkozattételt követő 60. napon.
-
-(4) Az (1) vagy a (3) bekezdés szerinti esetben az e rendeletnek a Módr.2 hatálybalépése előtt hatályos 8. § (2) bekezdése alapján kiadott engedéllyel rendelkező személy vagy az e rendeletnek a Módr.2 hatálybalépése előtt hatályos 9. §-a alapján kiadott engedély szerinti gépjárműért felelős személy köteles – legkésőbb az engedély érvényességének utolsó napján – az általa használt gépjárművet átadni a KEF részére.
-
-[^35]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 360/2019. (XII. 30.) Korm. rendelet 146. § (13) bekezdése iktatta be.
-[^36]: A hatálybalépés időpontja 2019. december 31.
+[^43]: A 15. §-t a 183/2022. (V. 24.) Korm. rendelet 6. § (5) bekezdése újból hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## 2. A jogosult személyeket megillető juttatások
 
-2. §[^5] (1) Az állami vezetőt és az ilyen juttatásokra jogosult személyeket megillető juttatások köre a következő:
+2. §[^6] (1) Az állami vezetőt és az ilyen juttatásokra jogosult személyeket megillető juttatások köre a következő:
 
 a) egy hivatali lakás használata,
 
@@ -28,4 +28,4 @@ f) számítástechnikai eszközök (hordozható személyi számítógép, tábla
 
 (2) Az állami vezetők juttatásainak mértékét az 1. melléklet tartalmazza.
 
-[^5]: A 2. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (2) bekezdésével megállapított szöveg.
