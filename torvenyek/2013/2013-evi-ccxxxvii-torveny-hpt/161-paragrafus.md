@@ -32,7 +32,7 @@ j) a feladatkörében eljáró alapvető jogok biztosával,
 
 k) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Unió működéséről szóló szerződés 107. cikk hatálya alá tartozó állami támogatások – az Európai Unió működéséről szóló szerződésben szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
 
-l) a lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző lakáscélú állami támogatások ügyében eljáró szervvel, kincstárral, lakásgazdálkodásért és lakáspolitikáért felelős miniszterrel, valamint pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel, továbbá a jogalap nélkül felvett fogyatékossági támogatás összegének megtérülése érdekében eljáró lakáscélú állami támogatások ügyében eljáró szervvel,
+l) a lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző lakáscélú állami támogatások ügyében eljáró szervvel, kincstárral, lakáscélú állami támogatásokért felelős miniszterrel, valamint pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel, továbbá a jogalap nélkül felvett fogyatékossági támogatás összegének megtérülése érdekében eljáró lakáscélú állami támogatások ügyében eljáró szervvel,
 
 m) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 
