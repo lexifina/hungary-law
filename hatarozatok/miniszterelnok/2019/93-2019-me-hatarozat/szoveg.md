@@ -6,8 +6,10 @@ dr. Lőrinczi Zoltánnak,az Emberi Erőforrások Minisztériuma helyettes állam
 
 megszűnik, egyidejűleg
 
-dr. Kovács Istvánt az Emberi Erőforrások Minisztériuma helyettes államtitkárává
+dr. Kovács Istvánt az Emberi Erőforrások Minisztériuma helyettes államtitkárává[^1]
 
 – 2019. szeptember 1-jei hatállyal –
 
 kinevezem.
+
+[^1]: A 44/2022. (VI. 11.) ME határozat alapján dr. Kovács István tekintetében akként módosul, hogy az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Kulturális és Innovációs Minisztérium” megnevezést kell érteni.
