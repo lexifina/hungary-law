@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-90-00-00
 | 2016-01-01 | 2015. évi CLXXVII. törvény | 2014-90-00-00.4 |
 | 2017-06-02 | 2017. évi XLV. törvény | 2014-90-00-00.5 |
 | 2019-01-01 | 2018. évi CXX. törvény | 2014-90-00-00.6 |
+| 2022-05-25 | 2022. évi IV. törvény | 2014-90-00-00.7 |
