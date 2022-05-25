@@ -1,4 +1,4 @@
-## XVI/A. Fejezet[^656]
+## XVI/A. Fejezet[^658]
 
 ## AZ EURÓPAI UNIÓS TÁMOGATÁSBÓL FINANSZÍROZOTT MINŐSÍTETT BESZERZÉS VAGY ALAPVETŐ BIZTONSÁGI ÉRDEKET ÉRINTŐ BESZERZÉS MENTESÍTÉSI ELJÁRÁST MEGELŐZŐ VIZSGÁLATA
 
@@ -8,4 +8,4 @@
 
 2. minősített beszerzés: a minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet 1. § (1) bekezdése szerinti beszerzés.
 
-[^656]: A XVI/A. fejezetet (109/A–109/B. §) a 24/2017. (II. 3.) Korm. rendelet 16. §-a iktatta be.
+[^658]: A XVI/A. fejezetet (109/A–109/B. §) a 24/2017. (II. 3.) Korm. rendelet 16. §-a iktatta be.

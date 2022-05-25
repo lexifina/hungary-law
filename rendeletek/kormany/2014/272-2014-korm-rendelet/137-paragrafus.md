@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerinti elszámolásban jóváhagyott és kiutalhatóként megjelölt összeg nem kerül a kedvezményezett számlájára kiutalásra, hanem az elszámolások e rendelet szerinti hitelesítését, rögzítését, ellenőrzését és jóváhagyását követően technikai átforgatásra kerül sor, amelynek eljárásrendjét az egységes működési kézikönyv tartalmazza. Az így felmerült költségek közösségi hozzájárulás rendezését a központi költségvetés közvetlen bevételei fejezetben kell bevételként elszámolni.
 
-(3)[^837] A (2) bekezdéstől eltérően az EMVA forrásból származó támogatásokhoz kapcsolódó költségvetési előfinanszírozás esetén az (1) bekezdés szerinti elszámolásban jóváhagyott és kiutalhatóként megjelölt összeget a kifizető ügynökség a költségvetési előfinanszírozást nyújtó szervezet számára teljesíti.
+(3)[^839] A (2) bekezdéstől eltérően az EMVA forrásból származó támogatásokhoz kapcsolódó költségvetési előfinanszírozás esetén az (1) bekezdés szerinti elszámolásban jóváhagyott és kiutalhatóként megjelölt összeget a kifizető ügynökség a költségvetési előfinanszírozást nyújtó szervezet számára teljesíti.
 
-[^837]: A 137. § (3) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^839]: A 137. § (3) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
