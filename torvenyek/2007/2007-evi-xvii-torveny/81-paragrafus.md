@@ -96,4 +96,6 @@ p) a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a t
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
+(5) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár- és vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter, hogy a társadalompolitika összehangolásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közösségi bormarketing támogatások igénybevételének szabályait.
