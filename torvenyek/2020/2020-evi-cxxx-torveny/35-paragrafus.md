@@ -8,7 +8,7 @@ a) a pénzügyőr esetében a munkáltatói jogkör gyakorlója,
 
 b) a tisztjelölt esetében a NAV vezetője,
 
-c) a jelentkező esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+c) a jelentkező esetében az Alkotmányvédelmi Hivatal
 
 állapítja meg.
 
@@ -20,7 +20,7 @@ c) a jelentkező esetében a belső bűnmegelőzési és bűnfelderítési felad
 
 (6) A (3)–(5) bekezdésben foglaltakat a tisztjelöltekre is alkalmazni kell azzal, hogy esetükben az ellenőrzés megállapításai alapján a NAV vezetője dönt a jogkövetkezményekről.
 
-(7) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a NAV az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
+(7) Az Alkotmányvédelmi Hivatalt a NAV az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 
 a) nem létesül szolgálati jogviszony az erről szóló tájékoztatás kézhezvételétől számított nyolc napon belül, vagy
 

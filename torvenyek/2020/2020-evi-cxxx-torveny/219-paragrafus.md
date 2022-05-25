@@ -28,7 +28,7 @@ l) a Kormányzati Személyügyi Döntéstámogatási Rendszer működtetésével
 
 m) az európai támogatásokat auditáló szerv,
 
-n) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a vezetői munkakörbe kinevezés és a rendfokozatban történő soron kívüli előléptetést megelőző előzetes véleményalkotási eljárás keretében.
+n)
 
 (2) A személyügyi központ – az adatfelhasználás dokumentálásával – jogszabályban meghatározott feladatai ellátása érdekében statisztikai adatfeldolgozást végezhet.
 

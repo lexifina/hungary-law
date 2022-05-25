@@ -26,11 +26,11 @@ c) a jelentkező vagy a pénzügyőr nem felel meg – különös tekintettel a 
 
 (8) A NAV-nak átadott 2. melléklet szerinti adatlapot a NAV zárt borítékban továbbítja a kifogástalan életvitel ellenőrzését lefolytató szervnek.
 
-(9) Az (5) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
+(9) Az (5) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – az Alkotmányvédelmi Hivatal végzi.
 
 (10) Az (5) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős ügydöntő határozatot hozó bíróság haladéktalanul értesíti a munkáltatói jogkör gyakorlóját, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ügydöntő határozatának jogerőre emelkedését követő nappal megállapítja, hogy a pénzügyőr életvitele kifogásolható.
 
-(11) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv annak ellenőrzése érdekében, hogy az (5) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
+(11) Az Alkotmányvédelmi Hivatal annak ellenőrzése érdekében, hogy az (5) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
 
 a) adatot igényelhet a jelentkezőről, a tisztjelöltről, valamint a pénzügyőrről, továbbá a vele közös háztartásban élő közeli hozzátartozóról a bűnügyi nyilvántartó szerv valamennyi bűnügyi nyilvántartásából, továbbá a NAV nyilvántartásaiból, és betekinthet a NAV-nál folyamatban lévő vagy befejezett fegyelmi eljárás irataiba,
 

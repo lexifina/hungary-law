@@ -30,7 +30,7 @@ c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabads�
 
 (4) Nem létesíthető szolgálati jogviszony azzal, aki a tervezett munkakörének megfelelő vagy a tervezett munkakörének részét képező foglalkozástól eltiltás hatálya alatt áll.
 
-(5) A szolgálati jogviszony létesítésének és fenntartásának feltétele, hogy a NAV állományába jelentkező tudomásul veszi, hogy szolgálati jogviszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
+(5) A szolgálati jogviszony létesítésének és fenntartásának feltétele, hogy a NAV állományába jelentkező tudomásul veszi, hogy szolgálati jogviszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az Alkotmányvédelmi Hivatal a nemzetbiztonsági szolgálatokról szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
 
 (6) Jogszabály vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója a szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, képességhez, valamint egészségi, pszichológiai, fizikai alkalmassághoz kötheti.
 
