@@ -36,7 +36,7 @@
 
 (15)
 
-(16) A 45/A. § (2) és (3) bekezdésében meghatározott képviselet, illetve tulajdonosi joggyakorlás tekintetében a 2015. január 1-je és az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény hatálybalépése közötti időszakban a gazdaságpolitikáért felelős miniszter eljárási cselekményeit, illetve jognyilatkozatait a képviseletre, illetve tulajdonosi joggyakorlásra jogosult által megtett eljárási cselekménynek, illetve jognyilatkozatnak kell tekintetni.
+(16) A 45/A. § (2) és (3) bekezdésében meghatározott képviselet, illetve tulajdonosi joggyakorlás tekintetében a 2015. január 1-je és az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény hatálybalépése közötti időszakban a költségvetés makrogazdasági megalapozásáért felelős miniszter eljárási cselekményeit, illetve jognyilatkozatait a képviseletre, illetve tulajdonosi joggyakorlásra jogosult által megtett eljárási cselekménynek, illetve jognyilatkozatnak kell tekintetni.
 
 (16a)
 

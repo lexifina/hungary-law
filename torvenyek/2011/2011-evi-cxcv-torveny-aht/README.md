@@ -92,3 +92,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2021-12-02 | 2021. évi CXX. törvény | 2011-195-00-00.85 |
 | 2021-12-18 | 2021. évi CXXXV. törvény | 2011-195-00-00.86 |
 | 2022-01-01 | 2021. évi CXXXV. törvény | 2011-195-00-00.87 |
+| 2022-05-25 | 2022. évi IV. törvény | 2011-195-00-00.88 |
