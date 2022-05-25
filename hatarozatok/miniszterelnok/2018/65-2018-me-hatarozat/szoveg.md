@@ -14,6 +14,8 @@ dr. Nagy Jánost
 
 – 2018. június 15-ei hatállyal –
 
-az Agrárminisztérium helyettes államtitkárává
+az Agrárminisztérium helyettes államtitkárává[^1]
 
 kinevezem.
+
+[^1]: A 47/2022. (VI. 11.) ME határozat alapján László Tibor Zoltán tekintetében akként módosul, hogy az „Agrárminisztérium” megnevezés helyett a „Technológiai és Ipari Minisztérium” megnevezést kell érteni.

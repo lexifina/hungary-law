@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-65-30-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-06-18 | 2018-65-30-63.1 | 65/2018. (VI. 18.) ME határozat |
+| 2022-05-25 | 2018-65-30-63.2 | 47/2022. (VI. 11.) ME határozat |
