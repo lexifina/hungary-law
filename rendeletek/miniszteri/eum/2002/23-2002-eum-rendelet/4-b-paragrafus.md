@@ -1,4 +1,4 @@
-4/B. §[^21] (1) Amennyiben a kutatás során humángenetikai vizsgálat miatt mintát vesznek, erről külön beleegyezési nyilatkozatot kell készíteni.
+4/B. §[^19] (1) Amennyiben a kutatás során humángenetikai vizsgálat miatt mintát vesznek, erről külön beleegyezési nyilatkozatot kell készíteni.
 
 (2) A résztvevő beleegyező nyilatkozata legalább a következőket tartalmazza:
 
@@ -8,9 +8,9 @@ b) annak az egészségügyi szolgáltatónak a megnevezését, ahol a kutatást 
 
 c) a kutatás vezetőjének, illetve a tájékoztatást végző személynek a nevét, beosztását, munkaköre megnevezését;
 
-d)[^22] a résztvevő azonosító adatait (nevét, születési helyét és idejét), korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosító adatait is;
+d)[^20] a résztvevő azonosító adatait (nevét, születési helyét és idejét), korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén az Eütv. 16. §-a szerinti nyilatkozattételre jogosult személy (a továbbiakban: nyilatkozattételre jogosult személy) azonosító adatait is;
 
-e)[^23] annak a kijelentését, hogy a résztvevő – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a genetikai vizsgálatban történő részvételre vonatkozó beleegyezését a 4/A. §-ban foglalt tájékoztatást, vagy az arról való lemondást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
+e)[^21] annak a kijelentését, hogy a résztvevő – korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy – a genetikai vizsgálatban történő részvételre vonatkozó beleegyezését a 4/A. §-ban foglalt tájékoztatást, vagy az arról való lemondást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
 
 f) a hozzájárulást a tájékoztatóban megjelölt mennyiségű és minőségű minta vételéhez és a résztvevő adatainak felhasználásához;
 
@@ -36,6 +36,6 @@ l) a kutatás vezetőjének vagy a tájékoztatást adónak az aláírását;
 
 m) a beleegyező nyilatkozatot tevő aláírását.
 
-[^21]: A 4/B. §-t a 31/2009. (X. 20.) EüM rendelet 2. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^22]: A 4/B. § (2) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
-[^23]: A 4/B. § (2) bekezdés e) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^19]: A 4/B. §-t a 31/2009. (X. 20.) EüM rendelet 2. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^20]: A 4/B. § (2) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^21]: A 4/B. § (2) bekezdés e) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.

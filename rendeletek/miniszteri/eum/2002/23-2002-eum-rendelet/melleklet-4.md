@@ -1,33 +1,39 @@
 ## Az engedélyezési eljárásban közreműködő szervezetek és bankszámlaszámuk
 
-| Illetékessége | A szerv megnevezése | Számlaszám |
+|  | A | B | C |
 
-| 1. Az emberen végzett orvostudományi kutatások, kivéve a vizsgálati készítményekkel végzett klinikai vizsgálatokat, a gyógyszerekkel végzett beavatkozással nem járó vizsgálatokat, az orvostechnikai eszközökkel végzett klinikai vizsgálatokat és beavatkozással nem járó vizsgálatokat, valamint a 2–11. sorban meghatározott eseteket | Egészségügyi Tudományos Tanács, az Egészségügyi Tudományos Tanács Bizottságai és Elnöksége | Állami Egészségügyi Ellátó Központ 10032000- 01490576-00000000 |
+| 1. | Hatáskör/Illetékesség | A szerv megnevezése | Számlaszám |
 
-| 2. Semmelweis Egyetem és intézményei, Pest megyei és az egészségügyért felelős miniszter által vezetett minisztériumnak a főváros területén lévő közvetlen felügyelete alatt álló egészségügyi intézmények | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-00282819 |
+| 2. | 1. Az emberen végzett orvostudományi kutatások, kivéve a vizsgálati gyógyszerekkel végzett klinikai vizsgálatokat, az orvostechnikai eszközökkel végzett klinikai vizsgálatokat, az in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatokat – ide nem értve az 1. § (2) bekezdésében meghatározott vizsgálatokat –, valamint a 3–12. sorban meghatározott eseteket | Egészségügyi Tudományos Tanács, az Egészségügyi Tudományos Tanács Bizottságai és Elnöksége | Országos Kórházi Főigazgatóság 10032000-00362241- 00000000 |
 
-| 3. Magyar Honvédség, a rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút- egészségügyi intézmények | Honvédkórház-ÁEK Intézményi és Regionális Kutatásetikai Bizottság | 10023002-00290469 |
+| 3. | Semmelweis Egyetem és intézményei | Semmelweis Egyetem Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-00282819 |
 
-| 4. Pesti székhellyel rendelkező egyéb egészségügyi intézmények | Fővárosi Önkormányzat Uzsoki utcai és Péterffy Sándor utcai Kórházak közös Regionális Tudományos és Kutatásetikai Bizottsága | 11784009-15492674 |
+| 4. | Magyar Honvédség, a rendészetért felelős miniszter által vezetett minisztérium egészségügyi intézményei, Vasút-egészségügyi intézmények | Magyar Honvédség Egészségügyi Központ Regionális, Intézményi Kutatásetikai Bizottság | 10023002-00290469 |
 
-| 5. Budai székhellyel rendelkező egyéb egészségügyi intézmények | Fővárosi Önkormányzat Szt. Imre és Szt. János Kórházak közös Regionális Tudományos és Kutatásetikai Bizottsága | 11784009-15492564 |
+| 5. | Budapesti székhelyű országos intézetek | Országos Onkológiai Intézet Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 10032000-01490538- 00000000 |
 
-| 6. Hajdú-Bihar és Szabolcs-Szatmár-Bereg megyében lévő egészségügyi intézmények | Debreceni Egyetem Orvos- és Egészségtudományi Centrum Regionális Tudományos és Kutatásetikai Bizottsága | 10034002-00282981 |
+| 6. | Pesti és Pest megye Dunától keletre eső területén székhellyel rendelkező, a 3–5. sorban nem szereplő egészségügyi intézmények | Uzsoki utcai Kórház Regionális Tudományos és Kutatásetikai Bizottsága | 11784009-15492674 |
 
-| 7. Baranya, Somogy és Tolna megyében lévő egészségügyi intézmények | Pécsi Tudományegyetem Orvostudományi és Egészségtudományi Koordinációs Központ Regionális Tudományos és Kutatásetikai Bizottsága | 10024003-00283236 |
+| 7. | Észak-budai kerületek (II., III., XII. kerület) területén székhellyel rendelkező egyéb egészségügyi intézmények | Észak-Közép-budai centrum Új Szent János Kórház és Szakrendelő Regionális, Intézményi Tudományos és Kutatásetikai Bizottság | 11784009-15492564 |
 
-| 8. Csongrád, Bács-Kiskun, Békés és Jász-Nagykun-Szolnok megyében lévő egészségügyi intézmények, a 3. sorban meghatározott egészségügyi intézmények kivételével | Szegedi Tudományegyetem Szent-Györgyi Albert Orvos- és Gyógyszerésztudományi Centrum Regionális Tudományos és Kutatásetikai Bizottsága | 10028007-00282802 |
+| 8. | Közép-dél-budai kerület (I., XI., XXII. kerület) és Pest megye Dunától nyugatra eső területén székhellyel rendelkező, a 3–5. sorban nem szereplő egészségügyi intézmény | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház Regionális és Intézményi Kutatás Etikai Bizottsága | 10023002 00317186- 00000000 |
 
-| 9. Borsod-Abaúj-Zemplén, Heves és Nógrád megyében lévő egészségügyi intézmények | Borsod-Abaúj-Zemplén Megyei Önkormányzat Kórháza Regionális Tudományos és Kutatásetikai Bizottsága | 11994002-06066651 |
+| 9. | Hajdú-Bihar és Szabolcs-Szatmár-Bereg megye területén székhellyel rendelkező egészségügyi intézmények | Debreceni Egyetem Klinikai Központ Regionális, Intézményi, Tudományos és Kutatásetikai Bizottság | 10034002-00282981 |
 
-| 10. Vas, Zala és Veszprém megyében lévő egészségügyi intézmények | Vas Megyei Markusovszky Lajos Általános, Rehabilitációs és Gyógyfürdő Kórház, Egyetemi Oktatókórház Regionális Tudományos és Kutatásetikai Bizottsága, Szombathely | 11747006-15420026 |
+| 10. | Baranya, Somogy és Tolna megye területén székhellyel rendelkező egészségügyi intézmények | Pécsi Tudományegyetem Klinikai Központ Regionális Kutatásetikai Bizottság | 10024003-00283236 |
 
-| 11. Győr-Moson-Sopron, Komárom-Esztergom és Fejér megyében lévő egészségügyi intézmények | Győr-Moson-Sopron Megyei Önkormányzat Petz Aladár Kórháza, Győr, Regionális Tudományos és Kutatásetikai Bizottsága | 10200249-33018597 |
+| 11. | Csongrád-Csanád, Bács-Kiskun, Békés és Jász-Nagykun-Szolnok megye területén székhellyel rendelkező egészségügyi intézmények, a 4. sorban meghatározott egészségügyi intézmények kivételével | Szegedi Tudományegyetem Regionális és Intézményi Humán Orvosbiológiai Kutatásetikai Bizottság | 10028007-00282802 |
 
-| 12. Gyógyszerrel végzett beavatkozással nem járó vizsgálatok az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Országos Gyógyszerészeti és Élelmezés- egészségügyi Intézet (OGYÉI) | 10032000-00290050- 00000000 |
+| 12. | Borsod-Abaúj-Zemplén, Heves és Nógrád megye területén székhellyel rendelkező egészségügyi intézmények | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház Regionális/Intézményi Tudományos és Kutatásetikai Bizottság | 11994002-06066651 |
 
-| 13. Orvostechnikai eszközzel végzett klinikai vizsgálatok és beavatkozással nem járó vizsgálatok | Országos Gyógyszerészeti és Élelmezés- egészségügyi Intézet | 10032000-00290050- 00000000 |
+| 13. | Vas, Zala és Veszprém megye területén székhellyel rendelkező egészségügyi intézmények | Markusovszky Egyetemi Oktatókórház Regionális/ Intézményi Tudományos és Kutatásetikai Bizottság | 11747006-15420026 |
 
-4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^109]
+| 14. | Győr-Moson-Sopron, Komárom-Esztergom és Fejér megye területén székhellyel rendelkező egészségügyi intézmények | Petz Aladár Egyetemi Oktató Kórház Regionális és Intézményi Kutatásetikai Bizottság | 10200249-33018597 |
 
-[^109]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 13. §-a.
+| 15. | Gyógyszerrel végzett beavatkozással nem járó vizsgálatok | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050- 00000000 |
+
+| 16. | Orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálatok, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050- 00000000 |
+
+4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^108]
+
+[^108]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 13. §-a.

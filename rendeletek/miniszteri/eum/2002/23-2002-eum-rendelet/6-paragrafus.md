@@ -1,4 +1,4 @@
-6. § (1)[^27] Ha a kutatásba – az Eütv. 159. §-ának (4) és (5) bekezdéseiben meghatározott feltételek szerint – cselekvőképtelen személyt kívánnak bevonni, akkor a (2)–(6) bekezdésekben foglaltaknak megfelelően kell eljárni.
+6. § (1)[^25] Ha a kutatásba – az Eütv. 159. §-ának (4) és (5) bekezdéseiben meghatározott feltételek szerint – cselekvőképtelen személyt kívánnak bevonni, akkor a (2)–(6) bekezdésekben foglaltaknak megfelelően kell eljárni.
 
 (2) Az Eütv. 16. §-ának (1)–(2) bekezdése szerinti személyt a 4. §-ban foglaltaknak megfelelően kell tájékoztatni. Ezen túlmenően a cselekvőképtelen személyt is – ítélőképességének megfelelően – tájékoztatni kell minden, a kutatás szempontjából fontos körülményről, annak kockázatáról és kedvező vagy kedvezőtlen hatásáról. A kiskorú tájékoztatásába pedagógiai gyakorlattal rendelkező személyt is be kell bevonni.
 
@@ -8,7 +8,7 @@
 
 (5) Nem végezhető kutatás olyan cselekvőképtelen személy bevonásával, aki még cselekvőképes állapotában kizárta a kutatásban való részvételét.
 
-(6)[^28] Korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott és cselekvőképtelen személy egészséges önkéntesként kutatásba nem vonható be.
+(6)[^26] Korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott és cselekvőképtelen személy egészséges önkéntesként kutatásba nem vonható be.
 
-[^27]: A 6. § (1) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § e) pontja szerint módosított szöveg.
-[^28]: A 6. § (6) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^25]: A 6. § (1) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § e) pontja szerint módosított szöveg.
+[^26]: A 6. § (6) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
