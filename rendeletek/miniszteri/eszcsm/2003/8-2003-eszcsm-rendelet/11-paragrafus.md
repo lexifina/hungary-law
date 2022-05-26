@@ -1,22 +1,9 @@
 ## A forgalomba hozatalt követő váratlan események, balesetek bejelentése
 
-11. § (1)[^24] A gyártó, a forgalmazó, a meghatalmazott képviselő és a balesetfelelős útján az egészségügyi szolgáltatást nyújtó a forgalomba hozatalt követően bekövetkezett váratlan eseményt, balesetet, amennyiben a váratlan esemény vagy baleset
+11. §[^18] (1) Az in vitro diagnosztikai orvostechnikai eszköz magyarországi székhellyel rendelkező egészségügyi szolgáltatónak vagy egészségügyi dolgozónak minősülő végfelhasználója az eszközzel összefüggésben bekövetkezett feltételezett súlyos váratlan eseményt elektronikus úton, az OGYÉI honlapján közzétett formátumban bejelenti az OGYÉI-nek.
 
-a) súlyos közegészségügyi kockázattal jár, azonnal, de legkésőbb 2 napon belül,
+(2) Az (1) bekezdés hatálya alá nem tartozó végfelhasználók és a betegek a feltételezett súlyos váratlan eseményeket jelenthetik az OGYÉI részére.
 
-b) halállal vagy súlyos egészségromlással járt, haladéktalanul, de legkésőbb az észleléstől számított 10 napon belül,
+(3) Az (1) és (2) bekezdés szerinti bejelentésről az OGYÉI a gyártót vagy a meghatalmazott képviselőt haladéktalanul, de legkésőbb a tudomására jutásától számított 8 napon belül tájékoztatja.
 
-c) az a), illetve a b) pont alá nem tartozik, haladéktalanul, de legkésőbb az észleléstől számított 30 napon belül
-
-## az OGYÉI honlapján közzétett formátumban, elektronikus úton köteles bejelenteni az OGYÉI részére.
-
-(2)[^25] A gyártó, a forgalmazó, illetve a meghatalmazott képviselő az (1) bekezdés szerinti határidőn belül jelenti az OGYÉI-nek, ha az ott megjelölt ok miatt a gyártó, illetve a meghatalmazott képviselő az azonos típusú eszközt kivonta a forgalomból.
-
-(3)[^26] Az (1) bekezdés szerinti bejelentésről az OGYÉI – amennyiben nem a gyártó, illetve a meghatalmazott képviselő tette meg a bejelentést – a gyártót vagy a meghatalmazott képviselőt haladéktalanul, de legkésőbb a tudomására jutásától számított 8 napon belül tájékoztatja.
-
-(4)[^27] Az egészségügyi szolgáltató vezetőjének a balesetfelelős nevét, beosztását, elérhetőségeit, az egészségügyi szolgáltató megnevezését, az adatokban bekövetkezett változásokat 30 napon belül írásban vagy elektronikusan az OGYÉI-nek be kell jelentenie.
-
-[^24]: A 11. § (1) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 4. § (1) bekezdésével megállapított, záró szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 29. § b) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
-[^25]: A 11. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 29. § f) pontja szerint módosított szöveg.
-[^26]: A 11. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.
-[^27]: A 11. § (4) bekezdését a 29/2011. (VI. 7.) NEFMI rendelet 4. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 29. § f) pontja szerint módosított szöveg.
+[^18]: A 11. § a 13/2022. (IV. 29.) EMMI rendelet 25. §-ával megállapított szöveg.

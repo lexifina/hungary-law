@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-8-20-0M
 | 2017-04-01 | 2003-8-20-0M.16 | 29/2011. (VI. 7.) NEFMI rendelet |
 | 2018-02-14 | 2003-8-20-0M.17 | 8/2018. (II. 13.) EMMI rendelet |
 | 2021-08-17 | 2003-8-20-0M.18 | 35/2021. (VIII. 16.) EMMI rendelet |
+| 2022-05-26 | 2003-8-20-0M.19 | 13/2022. (IV. 29.) EMMI rendelet |

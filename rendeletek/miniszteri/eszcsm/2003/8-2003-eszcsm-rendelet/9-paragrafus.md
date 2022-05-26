@@ -1,5 +1,6 @@
-## 8. §[^23] A 7. § és 7/A. § (1), (3) és (4) bekezdése szerinti nyilvántartásba vételért az eljárás kezdeményezőjének eszközcsoportonként a külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetnie.
+## 8. §[^15] A 7/A. § (1), (2) és (4) bekezdése, valamint a 16. § (1g) és (1i) bekezdése szerinti nyilvántartásba vételért és változásbejelentésért – ide nem értve a bejelentett eszközök törlését – az eljárás kezdeményezőjének a népjóléti ágazatba tartozó egyes államigazgatási eljárásokért és igazgatási jellegű szolgáltatásokért fizetendő díjakról szóló miniszteri rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetnie.
 
-## Bizalmas ügykezelés
+9. §[^16]
 
-[^23]: A 8. § a 35/2021. (VIII. 16.) EMMI rendelet 17. § a) pontja szerint módosított szöveg.
+[^15]: A 8. § a 13/2022. (IV. 29.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^16]: A „Bizalmas ügykezelés” alcímet (9. §-t) a 13/2022. (IV. 29.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte.
