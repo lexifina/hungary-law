@@ -1,4 +1,4 @@
-14/A. §[^9] (1) Azon gyógyászati segédeszközök esetében, amelyeknél az EüMr. 10. számú melléklete feltételként előírja az ellenőrző főorvos ellenjegyzését, az eszközt rendelő orvos az ellenjegyzés érdekében
+14/A. §[^11] (1) Azon gyógyászati segédeszközök esetében, amelyeknél az EüMr. 10. számú melléklete feltételként előírja az ellenőrző főorvos ellenjegyzését, az eszközt rendelő orvos az ellenjegyzés érdekében
 
 a) elektronikus vény esetén az Elektronikus Egészségügyi Szolgáltatási Térben (a továbbiakban: EESZT) rögzíti, papíralapú rendelés esetén megküldi a NEAK részére az EüMr. 13. §-ában foglaltaknak megfelelően kiállított vényt,
 
@@ -32,4 +32,4 @@ d) az eszköz rendelése a jogszabályokban előírt feltételeknek megfelelően
 
 (8) Az ellenjegyzés elutasítása ellen a beteg, illetve az eszközt rendelő orvos kifogással élhet. A kifogást az ellenjegyzés elutasításának kézhezvételétől számított 15 napon belül lehet benyújtani a NEAK-hoz. A kifogás tárgyában nem járhat el a NEAK-nak ugyanaz a szervezeti egysége és ugyanaz a személy, aki az ellenjegyzés elutasítását eredményező eljárásban eljárt. A kifogást a kézhezvételtől számított 30 napon belül kell elbírálni.
 
-[^9]: A 14/A. §-t a 114/2022. (III. 22.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 14/A. §-t a 114/2022. (III. 22.) Korm. rendelet 1. §-a iktatta be.

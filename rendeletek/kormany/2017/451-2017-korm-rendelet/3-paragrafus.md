@@ -58,17 +58,23 @@ h) a gyógyászati segédeszköz használati útmutatóját;
 
 i) a Gyftv. 32. § (2) bekezdés a) pont aa) és ab) alpontja, b) pont ba) és bf) alpontja szerinti kérelem esetén az eszköz eredményességét és költséghatékonyságát igazoló dokumentációt;
 
-j) a kérelmezett eszköz használatban levő – az EüMr. 1. és 4. számú melléklete esetében az R. 1. melléklet A. rész II. fejezet 13.3. pontja, az EüMr. 2. számú melléklete esetében az IVD-rendelet 1. számú melléklet B. rész 13.4. pontja szerinti – címkéje másolatát, kivéve a Gyftv. 32. § (2) bekezdés b) pont bb), be) és bg) alpontjában foglalt bejelentéseket, illetve b) pont bc) alpontja szerinti kérelmet;
+j)[^6] a kérelmezett eszköz használatban levő címkéje másolatát, kivéve a Gyftv. 32. § (2) bekezdés b) pont bb), be) és bg) alpontjában foglalt bejelentéseket, illetve b) pont bc) alpontja szerinti kérelmet;
 
-k)[^6] az eszköz gyártói megfelelőségi nyilatkozatát vagy ha azzal rendelkeznie kell, annak megfelelőségi tanúsítványát, az EüMr. 2. számú melléklete esetében az IVD-rendeletben előírt EK tanúsítványt;
+k)[^7] az eszköz az MDR-ben, az IVDR-ben, illetve az orvostechnikai eszközökről szóló miniszteri rendeletben, vagy az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben előírtak szerinti megfelelőségi nyilatkozatát és – ha az eszköz forgalomba hozatalához az MDR, az IVDR, illetve az orvostechnikai eszközökről szóló rendelet, vagy az in vitro diagnosztikai orvostechnikai eszközökről szóló rendelet alapján szükséges – CE megfelelőségi tanúsítványát;
 
-l)[^7] az EüMr. 1., az EüMr. 2. és az EüMr. 4. számú melléklete esetében magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél (a továbbiakban: OGYÉI) történt regisztrációról szóló igazolást, míg az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a gyártó vagy a meghatalmazott képviselő székhelye szerinti országban történt regisztrációról szóló igazolást, ha az az MDR., az orvostechnikai eszközökről szóló miniszteri rendelet vagy az IVD-rendelet szerint kötelező;
+l)[^8] az orvostechnikai eszközök európai uniós adatbázisában nem regisztrált orvostechnikai eszköz és in vitro diagnosztikai orvostechnikai eszköz esetében – ide nem értve a rendelésre készült eszközöket
+
+la) magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében az OGYÉI-nél történt regisztrációról szóló igazolást,
+
+lb) az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a gyártó vagy a meghatalmazott képviselő székhelye szerinti országban történt regisztrációról szóló igazolást;
 
 m) az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 11.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 10.1. pontja szerinti szakorvosi véleményt; és ha rendelkezésre áll, az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 10.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 9.1. pontja szerinti tanulmányt;
 
 n) ha rendelkezésre áll, az eszközre vonatkozó publikációk jegyzékét és az eszközre vonatkozó egyéb hazai vagy külföldi referenciákat;
 
 o) a kérelmező nyilatkozatát a nem kizárólag elektronikus kapcsolattartás útján benyújtott kérelmek esetén a kérelemben foglaltak és az elektronikus adathordozón benyújtott adatok azonosságáról és hitelességéről.
+
+(5a)[^9] Az (5) bekezdés l) pont la) alpontja szerinti igazolás csatolásának elmulasztása esetén a NEAK megkeresi az OGYÉI-t a kérelemben szereplő eszköz regisztrációjával kapcsolatos adatok beszerzése érdekében.
 
 (6) Ha az eszköz az (5) bekezdés b) pont bd) alpontja szerinti esetben finanszírozott, meg kell jelölni tagállamonként a finanszírozás módját, mértékét, illetve összegét.
 
@@ -104,5 +110,7 @@ bb) ha a kérelmező a NEAK szállítójegyzékében nem szerepel, a cégjegyzé
 [^3]: A 3. § (1) bekezdés b) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés c) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés e) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^6]: A 3. § (5) bekezdés k) pontja a 164/2020. (IV. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^7]: A 3. § (5) bekezdés l) pontja a 164/2020. (IV. 30.) Korm. rendelet 29. §-ával megállapított, a 114/2022. (III. 22.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 3. § (5) bekezdés j) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (5) bekezdés k) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (5) bekezdés l) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (5a) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 25. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-14/B. §[^10] (1) Ha az EüMr. 10. számú mellékletében foglaltak szerint kötszer támogatással történő rendelésének feltétele a kezelés egészségbiztosító általi ellenjegyzése, a 14/A. §-ban foglaltakat a (2)–(11) bekezdés szerinti eltérésekkel kell alkalmazni.
+14/B. §[^12] (1) Ha az EüMr. 10. számú mellékletében foglaltak szerint kötszer támogatással történő rendelésének feltétele a kezelés egészségbiztosító általi ellenjegyzése, a 14/A. §-ban foglaltakat a (2)–(11) bekezdés szerinti eltérésekkel kell alkalmazni.
 
 (2) A beteg kezelőorvosa az ellenjegyzést – a 14/A. § (1) bekezdésében foglaltak helyett –
 
@@ -58,4 +58,4 @@ c) a folytatni javasolt terápia
 
 (11) Elektronikus vényen történő rendelés esetén az ellenjegyzés meglétét a kezelőorvos a kötszer rendelésekor az elektronikus vényen feltünteti.
 
-[^10]: A 14/B. §-t a 114/2022. (III. 22.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 14/B. §-t a 114/2022. (III. 22.) Korm. rendelet 1. §-a iktatta be.
