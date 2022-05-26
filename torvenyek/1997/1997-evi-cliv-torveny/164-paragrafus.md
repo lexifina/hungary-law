@@ -4,7 +4,7 @@
 
 (3) A vizsgálati készítménnyel végzett klinikai vizsgálatok esetén a törvényben előírt felelősségbiztosítással kell rendelkezni. A vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként természetes személy által szenvedett egészségkárosodás esetén a sérelmet szenvedett személy, illetve halála esetén a Ptk. szerinti hozzátartozója részére fizetendő kártérítésre és sérelemdíjra vonatkozó rendelkezéseket törvény határozza meg.
 
-(4) Az orvostechnikai eszközökkel végzett klinikai vizsgálatok során a vizsgálati alany által elszenvedett kár vonatkozásában az (EU) 2017/745 rendelet 2. cikk 49. pontja szerinti megbízó (e § alkalmazásában a továbbiakban: megbízó) és a klinikai vizsgálatot végző egészségügyi szolgáltató a kártérítés és sérelemdíj fedezetére kötendő felelősségbiztosításra vonatkozó rendelkezéseket az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+(4) Az orvostechnikai eszközökkel végzett klinikai vizsgálatok, valamint az in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatok során a vizsgálati alany által elszenvedett kár vonatkozásában az (EU) 2017/745 rendelet 2. cikk 49. pontja, illetve az (EU) 2017/746 rendelet 2. cikk 57. pontja szerinti megbízónak (e § alkalmazásában a továbbiakban: megbízó) és a vizsgálatot végző egészségügyi szolgáltatónak a kártérítés és sérelemdíj fedezetére kötendő felelősségbiztosítására vonatkozó rendelkezéseket az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
 
 (5) Ha az orvostechnikai eszköz klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Ptk. szerinti hozzátartozója részére
 

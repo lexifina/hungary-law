@@ -8,7 +8,7 @@ c) a beültetés, eltávolítás vagy csere okát,
 
 d) a beültetett vagy eltávolított implantátummal kapcsolatban
 
-da) az implantátum nevét, típusát, gyártási tételszámát – ha rendelkezésre áll – a sorozatszám megjelölésével,
+da) az implantátum nevét, típusát, UDI-ját,
 
 db) a gyártó nevét,
 

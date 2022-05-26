@@ -60,7 +60,7 @@ s) a holttest szállításának (beleértve a szállítójármű telephelyről k
 
 t) a természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenységre vonatkozó követelményeket, az engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait,
 
-u) az emberen végzett orvostudományi kutatások engedélyezési eljárásának részletes szabályait,
+u) az emberen végzett orvostudományi kutatások engedélyezési, valamint bejelentési eljárásának részletes szabályait,
 
 v) az intézeten kívüli szülés szakmai szabályait, feltételeit és kizáró okait,
 
@@ -188,33 +188,19 @@ j) az egészségügyi szolgáltató által végezhető rehabilitációs ellátá
 
 k) az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel összefüggésben
 
-ka) az orvostechnikai eszközök alapvető követelményeire,
+ka) az osztályba sorolásra vonatkozó részletes szabályokat,
 
-kb) az orvostechnikai eszközökkel kapcsolatos minőségi rendszer szakmai tartalmára,
+kb) a forgalomba hozatalra vonatkozó részletes szabályokat,
 
-kc) a megfelelőségértékelési eljárásokra,
+kc) a bejelentett szervezetekre és azok eljárására vonatkozó részletes szabályokat,
 
-kd) a megfelelőségi jelölésre,
+kd) a klinikai vizsgálatra, valamint az in vitro diagnosztikai orvostechnikai eszközök teljesítőképesség-vizsgálatára vonatkozó részletes szabályokat,
 
-ke) az osztályba sorolásra,
+ke) a nyilvántartásba vételre vonatkozó részletes szabályokat,
 
-kf) a forgalomba hozatalra,
+kf) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére vonatkozó részletes szabályokat,
 
-kg) a kijelölt szervezetekre és azok eljárására,
-
-kh) a klinikai vizsgálatra, valamint az in vitro diagnosztika orvostechnikai eszközök esetén a teljesítőképesség értékelésére,
-
-ki) a nyilvántartásba vételre,
-
-kj) az eszközkészletekre és a több eszközből álló rendszerekre vonatkozó eljárásra és sterilizálási eljárásra,
-
-kk) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére, balesetfelelős kijelölésére,
-
-kl) a piacfelügyeleti eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
-
-km) a gyártási, forgalomba hozatali, alkalmazási, klinikai vizsgálati, nyilvántartásba vételi, időszakos felülvizsgálati eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
-
-kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
+kg) az időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
 
 l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
 

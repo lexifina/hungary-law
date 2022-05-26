@@ -1,4 +1,4 @@
-4/A. § E törvény orvostechnikai eszközökre előírt rendelkezéseit az in vitro diagnosztikai orvostechnikai eszközökre is alkalmazni kell.
+4/A. § E törvény orvostechnikai eszközökre előírt rendelkezéseit – az e törvényben meghatározott eltérésekkel – az in vitro diagnosztikai orvostechnikai eszközökre is alkalmazni kell.
 
 ## II. Fejezet
 
