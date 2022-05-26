@@ -1,13 +1,10 @@
 ## 3. CÍM
 
-## AZ ORVOSTECHNIKAI ESZKÖZÖKKEL KAPCSOLATOS KLINIKAI VIZSGÁLATOK ENGEDÉLYEZÉSE[^69]
+## AZ ORVOSTECHNIKAI ESZKÖZÖKKEL KAPCSOLATOS KLINIKAI VIZSGÁLATOK, VALAMINT AZ IN VITRO DIAGNOSZTIKAI ORVOSTECHNIKAI ESZKÖZÖKKEL VÉGZETT TELJESTŐKÉPESSÉG-VIZSGÁLATOK ENGEDÉLYEZÉSE[^71]
 
-30. § (1)[^70] E cím előírásait – a (2) és (3) bekezdésben foglaltak kivételével – a Magyarország területén elvégezni kívánt orvostechnikai eszközökkel folytatott, az MDR 62. cikke szerinti klinikai vizsgálatok esetében kell alkalmazni.
+30. §[^72] (1) E cím előírásait – a (2) bekezdésben foglaltak kivételével – a Magyarország területén elvégezni kívánt, orvostechnikai eszközökkel folytatott, az MDR 62. cikke szerinti klinikai vizsgálatok, valamint az in vitro diagnosztikai orvostechnikai eszközökkel végzett, az IVDR 58. cikk (1) bekezdése szerinti, az IVDR 58. cikk (2) bekezdése szerinti kapcsolt diagnosztikumnak nem maradványminták felhasználásával végzett vizsgálata, és az IVDR 70. cikk (2) bekezdése szerinti teljesítőképesség-vizsgálatok esetében kell alkalmazni.
 
-(2)[^71] E cím előírásai nem vonatkoznak a 16. § b) pontjában említett vizsgálatokra.
+(2) E cím előírásai nem vonatkoznak a 16. § b) pontjában és a 21/A. §-ban említett vizsgálatokra.
 
-(3) E cím hatálya nem terjed ki az in vitro diagnosztikai orvostechnikai eszközökről szóló külön jogszabály szerinti IVD eszközökkel kapcsolatos vizsgálatokra.
-
-[^69]: A 3. cím címe a 308/2012. (XI. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^70]: A 30. § (1) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^71]: A 30. § (2) bekezdése a 308/2012. (XI. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^71]: A 3. cím címe a 308/2012. (XI. 6.) Korm. rendelet 8. §-ával megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
+[^72]: A 30. § a 135/2022.(IV. 7.) Korm. rendelet 5. §-ával megállapított szöveg.

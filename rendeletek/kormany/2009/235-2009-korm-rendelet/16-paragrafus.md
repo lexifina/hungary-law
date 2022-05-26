@@ -1,4 +1,4 @@
-## 15. §[^28] A 16. § szerinti beavatkozással nem járó vizsgálat engedélyezése esetében a 16–21. §-ban és az emberen végzett orvostudományi kutatásokról szóló külön jogszabályban foglaltak szerint kell eljárni.
+## 15. §[^28] A 16. § szerinti beavatkozással nem járó vizsgálat, valamint az Eütv. 164/A. § (10) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat engedélyezése, illetve bejelentése esetében a 16–21/A. §-ban és az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet és az orvostechnikai eszközök klinikai vizsgálatáról szóló miniszteri rendeletben foglaltak szerint kell eljárni.
 
 ## 16. §[^29] Beavatkozással nem járó vizsgálat (non-interventional trial): a 2. és 3. cím szerinti klinikai vizsgálatnak nem minősülő vizsgálat, amely
 
@@ -8,7 +8,7 @@ b)[^30] orvostechnikai eszközzel végzett, az orvostechnikai eszközökről, a 
 
 c)[^31] gyógyszer esetén az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatás.
 
-[^28]: A 15. § a 308/2012. (XI. 6.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^28]: A 15. § a 135/2022.(IV. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^29]: A 16. § a 308/2012. (XI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^30]: A 16. § b) pontja a 164/2020. (IV. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^31]: A 16. § c) pontja a 724/2021. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,14 +1,14 @@
-33. §[^74] (1) Az engedélyező határozatának tartalmaznia kell
+33. §[^80] (1) Az engedélyező határozatának tartalmaznia kell
 
-a) a klinikai vizsgálat azonosító adatait, a vizsgálat címét, számát,
+a)[^81] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat azonosító adatait, a vizsgálat címét, számát,
 
 b) a vizsgálati alanyok tervezett számát, nemét, életkor-határait,
 
 c) a vizsgálati helyként szereplő egészségügyi szolgáltatók nevét, székhelyét és a klinikai vizsgálóhely külön jogszabály szerinti típusát,
 
-d) a klinikai vizsgálat vezetőjének nevét és beosztását,
+d)[^82] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat vezetőjének nevét és beosztását,
 
-e) a klinikai vizsgálat várható időtartamát, valamint
+e)[^83] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat várható időtartamát, valamint
 
 f) a vizsgálat nyilvántartási számát.
 
@@ -18,6 +18,10 @@ a) a kérelmezőnek és
 
 b) a Nemzeti Egészségbiztosítási Alapkezelőnek.
 
-(3) A kérelem elutasításáról az engedélyező értesíti az EGT-megállapodásban részes államok illetékes hatóságait és az Európai Bizottságot.
+(3)[^84]
 
-[^74]: A 33. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^80]: A 33. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^81]: A 33. § (1) bekezdés a) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^82]: A 33. § (1) bekezdés d) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^83]: A 33. § (1) bekezdés e) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^84]: A 33. § (3) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

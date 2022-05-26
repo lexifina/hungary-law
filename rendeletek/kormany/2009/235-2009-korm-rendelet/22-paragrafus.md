@@ -1,4 +1,4 @@
-## 2. CÍM[^68]
+## 2. CÍM[^70]
 
 ## VIZSGÁLATI GYÓGYSZEREK KLINIKAI VIZSGÁLATÁNAK ENGEDÉLYEZÉSE
 
@@ -8,4 +8,4 @@
 
 (3) Az e címben használt fogalmak értelmezésére, valamint az e címben nem szabályozott kérdésekre az 536/2014/EU európai parlamenti és tanácsi rendeletet és az 536/2014/EU európai parlamenti és tanácsi rendelet szerinti helyes klinikai gyakorlatnak megfelelő inspekciós eljárásokkal kapcsolatos részletes szabályokról szóló, 2017. március 24-i (EU) 2017/556 bizottsági végrehajtási rendeletet [a továbbiakban: (EU) 2017/556 bizottsági végrehajtási rendelet] kell alkalmazni.
 
-[^68]: A 2. cím (22–29/A. §) a 724/2021. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^70]: A 2. cím (22–29/A. §) a 724/2021. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

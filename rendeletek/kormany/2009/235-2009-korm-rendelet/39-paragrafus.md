@@ -1,3 +1,3 @@
-39. §[^85]
+39. §[^101]
 
-[^85]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.
+[^101]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.

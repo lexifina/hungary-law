@@ -14,7 +14,7 @@ ba)[^36] amennyiben a vizsgálat nem a bb) alpontban említett vizsgálat, akkor
 
 bb)[^37] amennyiben engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat végzésére hatósági határozat teljesítése érdekében van szükség és az más EGT-tagállamot is érint, a Gytv. 1. § 31. pontjában említett farmakovigilancia kockázatértékelési bizottság (a továbbiakban: PRAC) által kiadott jóváhagyó levél és az ETT TUKEB etikai engedélyének birtokában lehet, azzal, hogy a vizsgálatot legkésőbb annak megkezdéséig be kell jelenteni az OGYÉI részére.
 
-c)[^38] a 16. § b) pontjában említett vizsgálatok esetében az OGYÉI által bejelentés tárgyában kiadott igazolás birtokában lehet.
+c)[^38] a 16. § b) pontjában említett vizsgálatok esetében az OGYÉI részére történt bejelentést követően lehet.
 
 (2) Kiskorúakon tervezett beavatkozással nem járó vizsgálat esetén az ETT TUKEB gyermekgyógyász szakorvos véleményének birtokában hoz döntést.
 
@@ -36,4 +36,4 @@ d) a vizsgálat lefolytatása során alkalmazott valamennyi dokumentum eredeti �
 [^35]: A 17. § (1) bekezdés b) pontja a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
 [^36]: A 17. § (1) bekezdés b) pont ba) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^37]: A 17. § (1) bekezdés b) pont bb) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
-[^38]: A 17. § (1) bekezdés c) pontját a 164/2020. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^38]: A 17. § (1) bekezdés c) pontját a 164/2020. (IV. 30.) Korm. rendelet 2. §-ával megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
