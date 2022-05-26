@@ -20,14 +20,17 @@ e) III.G.13. sora szerinti igazgatási szolgáltatási díj 75%-a az OGYÉI-t, 2
 
 (4) Ionizáló sugárzást kibocsátó vizsgálati gyógyszerrel végzett klinikai vizsgálatokkal kapcsolatos eljárásokban a kérelmező által befizetett, a Gytv. 1. számú mellékletében foglalt táblázat
 
-a) III.G.1., III.G.2., III.G.9. sora szerinti igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 45%-a az ETT-t, 15%-a az NNK-t,
+a)[^5] III.G.1., III.G.2., III.G.3. sora szerinti igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 45%-a az ETT-t, 15%-a az NNK-t,
 
-b) III.G.3. sora szerinti igazgatási szolgáltatási díj 40%-a az OGYÉI-t, 45%-a az ETT-t, 15%-a az NNK-t,
+b)[^6] III.G.4 és III.G.6. sora szerinti igazgatási szolgáltatási díj 45%-a az OGYÉI-t, 35%-a az ETT-t, 20%-a az NNK-t,
 
-c) III.G.6. és III.G.9. sora szerinti igazgatási szolgáltatási díj 35%-a az OGYÉI-t, 45%-a az ETT-t, 20%-a az NNK-t,d) III.G.11. sora szerinti igazgatási szolgáltatási díj 30%-a az OGYÉI-t, 60%-a az ETT-t, 10%-a az NNK-t
+c)[^7] III.G.9. sora szerinti igazgatási szolgáltatási díj 35%-a az OGYÉI-t, 45%-a az ETT-t, 20%-a az NNK-t
 
 ## illeti meg.
 
 (5) Amennyiben a klinikai vizsgálat tervezett módosítása nem érinti az ETT, illetve az NNK hatáskörébe tartozó szakkérdéseket, az engedély módosítása iránti eljárásban a kérelmező által befizetett igazgatási szolgáltatási díj rá eső hányada az OGYÉI-t illeti meg.
 
 [^4]: Az 1/A. §-t a 67/2011. (XII. 13.) NEFMI rendelet 14. §-a iktatta be, szövege a 2/2022. (I. 14.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^5]: Az 1/A. § (4) bekezdés a) pontja a 13/2022. (IV. 29.) EMMI rendelet 53. §-ával megállapított szöveg.
+[^6]: Az 1/A. § (4) bekezdés b) pontja a 13/2022. (IV. 29.) EMMI rendelet 53. §-ával megállapított szöveg.
+[^7]: Az 1/A. § (4) bekezdés c) pontja a 13/2022. (IV. 29.) EMMI rendelet 53. §-ával megállapított szöveg.
