@@ -1,4 +1,4 @@
-## 5. [^28] A villamos energia befogadója és a KÁT termelő, a Menetrendadásra kötelezett, valamint a premizált termelő között érvényesülő árak és prémiumok alkalmazási feltételei
+## 5. [^31] A villamos energia befogadója és a KÁT termelő, a Menetrendadásra kötelezett, valamint a premizált termelő között érvényesülő árak és prémiumok alkalmazási feltételei
 
 9. § (1) A KÁT termelő havonta egy számlát (a továbbiakban: havi számla), a premizált termelő havonta egy számviteli bizonylatot (a továbbiakban: havi számviteli bizonylat) állít ki a befogadó részére. A KÁT termelő vagy a premizált termelő a 19. § (1) bekezdése szerinti esetben módosító számlát vagy számviteli bizonylatot állít ki a befogadó részére a Hivatal határozatának kézhezvételét követő tizenöt napon belül.
 
@@ -22,4 +22,4 @@
 
 (11) A KÁT termelő, vagy összevont menetrend esetén a menetrend-csoport képviselő vagy a premizált termelő a tény mérési adatok villamosenergia-ellátási és -elosztói szabályzat szerinti korrekciója esetén a módosított adatoknak megfelelően az (1), (6), (7) és (8) bekezdés szerinti számla vagy számviteli bizonylat tekintetében a befogadóval a kereskedelmi szabályzatban rögzített elszámolási adatokra vonatkozó reklamációs határidőt követően elszámol.
 
-[^28]: Az 5. alcím (9. §) a 787/2021. (XII. 27.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^31]: Az 5. alcím (9. §) a 787/2021. (XII. 27.) Korm. rendelet 59. §-ával megállapított szöveg.

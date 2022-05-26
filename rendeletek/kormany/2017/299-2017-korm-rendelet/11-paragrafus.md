@@ -1,4 +1,4 @@
-11. §[^30] (1) A kötelező átvételi rendszerben a KÁT termelő jogosult a – 10. § (1) bekezdése szerinti esetben a Hivatal 18. § (1) bekezdése szerinti határozatában foglaltaknak megfelelő mennyiségű – villamos energiát a befogadónak átadni, a befogadó köteles azt befogadni, valamint a KÁT termelővel a villamos energia ellenértékét a (3)–(6) bekezdésben és a 8. §-ban foglaltaknak megfelelően a KÁT mérlegkörben elszámolni.
+11. §[^33] (1) A kötelező átvételi rendszerben a KÁT termelő jogosult a – 10. § (1) bekezdése szerinti esetben a Hivatal 18. § (1) bekezdése szerinti határozatában foglaltaknak megfelelő mennyiségű – villamos energiát a befogadónak átadni, a befogadó köteles azt befogadni, valamint a KÁT termelővel a villamos energia ellenértékét a (3)–(6) bekezdésben és a 8. §-ban foglaltaknak megfelelően a KÁT mérlegkörben elszámolni.
 
 (2) A KÁT termelők a KÁT mérlegkörön belül menetrendadással kapcsolatos jogaik közös gyakorlása és kötelezettségeik közös teljesítése céljából összevont menetrendadásra jogosultak, azzal, hogy
 
@@ -38,4 +38,4 @@ i) a 12. § (3) bekezdése szerinti önálló kiegyenlítő menedzsmenttel olyan
 
 (11) A 12. § (3) bekezdése szerinti önálló kiegyenlítő menedzsment során igénybe vett rendszerhasználó a közcélú csatlakozási pontra vonatkoztatott önálló elszámolási ponton csatlakozik a KÁT mérlegkörhöz.
 
-[^30]: A 11. § a 787/2021. (XII. 27.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^33]: A 11. § a 787/2021. (XII. 27.) Korm. rendelet 61. §-ával megállapított szöveg.

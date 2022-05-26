@@ -1,4 +1,4 @@
-5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^58]
+5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^62]
 
 ## A szabályozási pótdíj megállapítására vonatkozó szabályok
 
@@ -154,4 +154,4 @@ azzal, hogy ha K >Σhó(SZPi), akkor SZPhó értéke nulla.
 
 7. A 9. § (7) bekezdése szerinti számviteli bizonylaton szereplő, 1−6. pont szerinti szabályozási pótdíj összegét a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 9. § (11) bekezdése alapján korrigálásra kerül.
 
-[^58]: Az 5. melléklet a 787/2021. (XII. 27.) Korm. rendelet 71. § (1) bekezdés b) pontjával megállapított szöveg.
+[^62]: Az 5. melléklet a 787/2021. (XII. 27.) Korm. rendelet 71. § (1) bekezdés b) pontjával megállapított szöveg.
