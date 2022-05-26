@@ -2,7 +2,7 @@
 
 1.[^14] az OGYÉI által forgalomba hozatalra és gyógyszertáron kívül is forgalmazásra engedélyezett gyógyszerek,
 
-2.[^15] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet, illetve – az MDR 120. cikk (4) bekezdésének hatálya alá tartozó orvostechnikai eszközök esetében – az orvostechnikai eszközökről szóló rendelet szerinti követelményeknek megfelelő orvostechnikai eszközök, valamint az in vitro diagnosztikai eszközökről szóló rendelet szerinti követelményeknek megfelelő in vitro diagnosztikai eszközök a 3. § (5) bekezdésében meghatározott diagnosztikumok kivételével,
+2.[^15] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet (a továbbiakban: MDR), illetve – az MDR 120. cikk (4) bekezdésének hatálya alá tartozó orvostechnikai eszközök esetében – az orvostechnikai eszközökről szóló rendelet szerinti követelményeknek megfelelő orvostechnikai eszközök, valamint az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet (a továbbiakban: IVDR), illetve – az IVDR 110. cikk (4) bekezdésének hatálya alá tartozó in vitro diagnosztikai orvostechnikai eszközök esetében – az in vitro diagnosztikai orvostechnikai eszközökről szóló rendelet szerinti követelményeknek megfelelő in vitro diagnosztikai orvostechnikai eszközök a 3. § (5) bekezdésében meghatározott diagnosztikumok kivételével,
 
 3. a sorozatgyártású gyógyászati segédeszközök,
 
@@ -84,7 +84,7 @@ e) csökkentett szénhidráttartalmú,
 
 [^13]: A 4. § a 3/2015. (I. 14.) EMMI rendelet 23. §-ával megállapított szöveg.
 [^14]: A 4. § 1. pontja a 23/2015. (IV. 28.) EMMI rendelet 95. § b) pontja szerint módosított szöveg.
-[^15]: A 4. § 2. pontja a 35/2021. (VIII. 16.) EMMI rendelet 23. §-ával megállapított szöveg.
+[^15]: A 4. § 2. pontja a 13/2022. (IV. 29.) EMMI rendelet 36. §-ával megállapított szöveg.
 [^16]: A 4. § 14. pontját az 5/2019. (III. 1.) EMMI rendelet 3. § a) pontja hatályon kívül helyezte.
 [^17]: A 4. § 24. pontját az 5/2019. (III. 1.) EMMI rendelet 3. § a) pontja hatályon kívül helyezte.
 [^18]: A 4. § 27. pontját az 5/2019. (III. 1.) EMMI rendelet 1. §-a iktatta be.
