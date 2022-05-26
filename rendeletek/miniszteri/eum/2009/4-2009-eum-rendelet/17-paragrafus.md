@@ -12,7 +12,7 @@ a) a nevét, székhelyét, kapcsolattartási adatait,
 
 b) az általa forgalmazott orvostechnikai eszköznek az MDR VI. Melléklet C rész 1. pontja szerinti alapvető UDI-DI-ját,
 
-c) az eszközre kiadott megfelelőségi tanúsítvány típusát, számát, lejáratának dátumát, az azt kiadó bejelentett szervezet azonosító számát,
+c)[^37] az ha az MDR 52. cikke az eszköz megfelelőségértékelési eljárásba bejelentett szervezet bevonását írja elő, az eszközre kiadott megfelelőségi tanúsítvány típusát, számát, lejáratának dátumát, az azt kiadó bejelentett szervezet azonosító számát,
 
 d) az eszköz kockázati osztályát,
 
@@ -32,3 +32,4 @@ g) annak tényét, hogy az orvostechnikai eszköz egyben gyógyászati segédesz
 
 [^35]: A „Klinikai értékelés” alcímet (16. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § j) pontja hatályon kívül helyezte.
 [^36]: A 17. § a 35/2021. (VIII. 16.) EMMI rendelet 27. §-ával megállapított szöveg.
+[^37]: A 17. § (3) bekezdés c) pontja a 13/2022. (IV. 29.) EMMI rendelet 39. § a) pontja szerint módosított szöveg.

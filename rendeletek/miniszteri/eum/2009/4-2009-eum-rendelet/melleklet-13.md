@@ -1,4 +1,4 @@
-13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^89]
+13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^90]
 
 ## Időszakos felülvizsgálat
 
@@ -56,4 +56,4 @@ II. Egyéb előírások
 
 5. Az első időszakos felülvizsgálat az üzembe helyezést követően, az előírt gyakoriságtól függően 1, 2 vagy 3 év elteltével esedékes. A további felülvizsgálat az előző felülvizsgálat időpontjától számítandó.
 
-[^89]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 105. § f) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^90]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 105. § f) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés g) pontja szerint módosított szöveg.
