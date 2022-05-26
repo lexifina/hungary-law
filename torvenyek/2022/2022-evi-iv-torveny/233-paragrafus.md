@@ -1,3 +1,3 @@
 ## 136. Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény módosítása
 
-233. § Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény 1. § (2) bekezdésében a „felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter” szövegrész helyébe a „felsőoktatásért felelős miniszter” szöveg lép.
+233. §

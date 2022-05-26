@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-4-00-00
 | --- | --- | --- |
 | 2022-05-25 | 2022. évi IV. törvény | 2022-4-00-00.0 (közlönyállapot) |
 | 2022-05-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-4-00-00.1 |
+| 2022-05-26 | 2010. évi CXXX. törvény | 2022-4-00-00.2 |

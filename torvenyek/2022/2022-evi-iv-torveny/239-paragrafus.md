@@ -1,3 +1,3 @@
 ## 142. A Magyarország Kormánya és Ukrajna Miniszteri Kabinetje között a végzettséget és tudományos fokozatokat tanúsító okiratok kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 2021. évi CIX. törvény módosítása
 
-239. § A Magyarország Kormánya és Ukrajna Miniszteri Kabinetje között a végzettséget és tudományos fokozatokat tanúsító okiratok kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 2021. évi CIX. törvény 5. §-ában a „felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter” szövegrész helyébe a „felsőoktatásért felelős miniszter” szöveg lép.
+239. §

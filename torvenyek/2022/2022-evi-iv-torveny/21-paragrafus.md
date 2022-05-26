@@ -1,3 +1,1 @@
-21. § Az Lt. 17/A. §-a helyébe a következő rendelkezés lép:
-
-„17/A. § A repülőeszközökről és a pilóta nélküli légijárművekről vezetett nyilvántartásból a Nemzeti Információs Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés, elemzés-értékelés, valamint hírigény teljesítése céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.”
+21. §

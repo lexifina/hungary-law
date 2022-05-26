@@ -1,3 +1,1 @@
-196. § A Kit. 82. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Olyan szerv esetében, ahol törvény lehetővé teszi, hogy az ott foglalkoztatott kormánytisztviselő szolgálati feladatainak törvényes ellátását megbízhatósági vizsgálattal ellenőrizzék, kormányzati szolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy kormányzati szolgálati jogviszonyának fennállása alatt feladatainak törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizheti.”
+196. §

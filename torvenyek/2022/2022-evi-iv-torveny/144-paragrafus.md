@@ -1,3 +1,3 @@
 ## 86. A Nemzetközi Munkaügyi Szervezet Általános Konferenciája 94. ülésszakán elfogadott 2006. évi Tengerészeti Munkaügyi Egyezmény kihirdetéséről szóló 2013. évi IV. törvény módosítása
 
-144. § A Nemzetközi Munkaügyi Szervezet Általános Konferenciája 94. ülésszakán elfogadott 2006. évi Tengerészeti Munkaügyi Egyezmény kihirdetéséről szóló 2013. évi IV. törvény 4. § (5) bekezdésében a „szociál- és nyugdíjpolitikáért felelős miniszter” szövegrész helyébe a „szociálpolitikáért felelős miniszter” szöveg lép.
+144. §

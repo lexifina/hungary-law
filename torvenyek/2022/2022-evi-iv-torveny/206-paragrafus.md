@@ -1,7 +1,1 @@
-206. § A Kit. a következő 290/A. §-sal egészül ki:
-
-„290/A. § [Átmeneti rendelkezés az egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvényhez kapcsolódó módosításáról szóló 2022. évi IV. törvényhez]
-
-(1) Ahol jogszabály tárca nélküli minisztert említ, az egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvényhez kapcsolódó módosításáról szóló 2022. évi IV. törvény hatálybalépését követően a 20. § (2) bekezdés b) pontja szerinti minisztert kell érteni.
-
-(2) A Miniszterelnöki Kormányiroda az általános politikai koordinációért felelős miniszter által vezetett minisztériumba történő beolvadással a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény hatálybalépése napján megszűnik. A beolvadás során – a közös hivatali szervezetre tekintettel – az átadás-átvételi eljárást nem kell lefolytatni. A beolvadásra tekintettel az általános politikai koordinációért felelős miniszter által vezetett minisztérium alaplétszámát és a központosított álláshelyeinek számát – a 60/A. §-ban foglaltak alapján – nem kell módosítani. A Miniszterelnöki Kormányirodát a beolvadás időpontjában vezető közigazgatási államtitkárt – külön kinevezés nélkül – úgy kell tekinteni, mintha az általános politikai koordinációért felelős miniszter által vezetett minisztériumban működő Miniszterelnöki Kormányiroda közigazgatási államtitkárává nevezték volna ki.”
+206. §
