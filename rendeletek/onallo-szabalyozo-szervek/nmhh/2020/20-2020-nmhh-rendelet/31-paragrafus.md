@@ -8,11 +8,11 @@
 
 (4)[^8]
 
-(5)[^9] A 34. § (1) bekezdés d) pontja 2022. május 31. napján lép hatályba.
+(5)[^9] A 34. § (1) bekezdés d) pontja 2023. június 1. napján lép hatályba.
 
 (6)[^10] A 34. § (1) bekezdés c) pontja 2023. június 1. napján lép hatályba.
 
 [^7]: A 31. § (3) bekezdése az 5/2021. (VI. 16.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: A 31. § (4) bekezdését az 5/2021. (VI. 16.) NMHH rendelet 7. § a) pontja hatályon kívül helyezte.
-[^9]: A 31. § (5) bekezdése az 5/2021. (VI. 16.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: A 31. § (5) bekezdése az 5/2021. (VI. 16.) NMHH rendelet 1. § (2) bekezdésével megállapított, a 3/2022. (V. 25.) NMHH rendelet 1. §-a szerint módosított szöveg.
 [^10]: A 31. § (6) bekezdése az 5/2021. (VI. 16.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
