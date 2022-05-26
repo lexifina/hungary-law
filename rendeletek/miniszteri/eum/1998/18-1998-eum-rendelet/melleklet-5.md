@@ -1,4 +1,4 @@
-## a)[^145] Hozzájáruló nyilatkozat személyes adatok kezeléséhez és az NSZTR-be történő nyilvántartásba vételéhez
+## a)[^146] Hozzájáruló nyilatkozat személyes adatok kezeléséhez és az NSZTR-be történő nyilvántartásba vételéhez
 
 ## (szerv-, szövetátültetéssel kapcsolatosan)*
 
@@ -60,7 +60,7 @@
 
 ## 4 Az OTNY-nél történő személyes nyilatkozattétel, valamint postai küldeményben beérkezett tiltakozó nyilatkozat esetén, az OTNY munkatársának aláírása, háziorvoson keresztül történő nyilatkozattétel esetén a háziorvos neve, címe, aláírása és OONY.
 
-## b)[^146] Tiltakozó nyilatkozat visszavonása
+## b)[^147] Tiltakozó nyilatkozat visszavonása
 
 ## (szerv-, szövetátültetéssel kapcsolatosan)*
 
@@ -120,7 +120,7 @@
 
 ## 8 Az OTNY-nél történő személyes visszavonás esetén az OTNY munkatársának aláírása; háziorvoson keresztül történő visszavonás esetén a háziorvos neve, címe, aláírása és OONY.
 
-## c) Adatlap a kijelölt egészségügyi dolgozóról[^147]
+## c) Adatlap a kijelölt egészségügyi dolgozóról[^148]
 
 ## Az adatközlés célja:9
 
@@ -168,9 +168,9 @@
 
 ## 11 Az egészségügyi szakdolgozóknál a működési nyilvántartás szerinti szám, orvosoknál/gyógyszerészeknél az OONY, illetőleg a GYONY szerinti szám. GYONY szerinti szám esetén a nyilvántartási szám után egy ,,x''-et kérünk beírni.
 
-5. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^148]
+5. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^149]
 
-[^145]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése, a 33/2019. (XII. 20.) EMMI rendelet 4. § h) és i) pontja szerint módosított szöveg.
-[^146]: A 4. számú melléklet b) pontja a 33/2019. (XII: 20.) EMMI rendelet 4. § j) pontja szerint módosított szöveg.
-[^147]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
-[^148]: Az 5. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^146]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése, a 33/2019. (XII. 20.) EMMI rendelet 4. § h) és i) pontja szerint módosított szöveg.
+[^147]: A 4. számú melléklet b) pontja a 33/2019. (XII: 20.) EMMI rendelet 4. § j) pontja szerint módosított szöveg.
+[^148]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
+[^149]: Az 5. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.

@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-0
 | 2018-02-14 | 1998-18-20-0B.30 | 8/2018. (II. 13.) EMMI rendelet |
 | 2020-02-01 | 1998-18-20-0B.31 | 33/2019. (XII. 20.) EMMI rendelet |
 | 2021-02-06 | 1998-18-20-0B.32 | 7/2015. (II. 2.) EMMI rendelet |
+| 2022-05-26 | 1998-18-20-0B.33 | 13/2022. (IV. 29.) EMMI rendelet |

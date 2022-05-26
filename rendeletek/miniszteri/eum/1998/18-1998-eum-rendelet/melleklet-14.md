@@ -46,6 +46,6 @@
 
 ## 10. Következtetés/nyomon követés (szükség esetén)
 
-14. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^186]
+14. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^187]
 
-[^186]: A 14. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (4) bekezdése iktatta be.
+[^187]: A 14. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (4) bekezdése iktatta be.
