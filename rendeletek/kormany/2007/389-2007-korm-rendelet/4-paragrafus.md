@@ -56,7 +56,7 @@ bc)[^30] a hulladékhasznosító erőműegység rendelkezik a hulladékgazdálko
 
 (11)[^40] Az erőműegység értékesítése esetén a Hivatal – ha a jogszabályi feltételek fennállnak – az erőműegységre korábban meghatározott kötelező átvételi időtartamból és kötelező átvétel alá eső villamosenergia-mennyiségből fennmaradó részt állapítja meg az új tulajdonos számára.
 
-(12)[^41] Az e rendelet szerinti KÁT termelő jogosult a KÁT mérlegkör helyett más mérlegkörhöz való csatlakozásra és a kötelező átvétel keretében történő támogatás helyett a támogatás METÁR rendelet szerinti prémium típusú támogatás szabályai szerinti kifizetésére. Ebben az esetben az alkalmazandó támogatott ár a termelőre vonatkozó aktuális kötelező átvételi árak időben egyenletes termelés melletti átlagának 1. számú melléklet szerinti szorzótényezővel módosított értékével egyezik meg és a támogatás időtartama változatlan marad. A KÁT termelő a KÁT mérlegkörhöz legkorábban a KÁT mérlegkörből történő kilépés napját követő 12 hónap elteltével csatlakozhat újra.
+(12)[^41] Az e rendelet szerinti KÁT termelő kizárólag akkor jogosult a KÁT mérlegkör helyett más mérlegkörhöz való csatlakozásra, ha a kötelező átvétel keretében történő támogatás helyett a támogatás METÁR rendelet szerinti prémium típusú támogatás szabályai szerinti elszámolását kezdeményezi. Ebben az esetben az alkalmazandó támogatott ár a termelőre vonatkozó aktuális kötelező átvételi árak időben egyenletes termelés melletti átlagának 1. számú melléklet szerinti szorzótényezővel módosított értékével egyezik meg, és a támogatás időtartama változatlan marad. A KÁT termelő a KÁT mérlegkörhöz a KÁT mérlegkörből történő kilépést követően nem csatlakozhat újra.
 
 (12a)[^42] A KÁT mérlegkör (12) bekezdése szerinti önkéntes elhagyása esetén a Befogadó a támogatott árat havonta a 14. számú melléklet 2. pontja szerinti szabályozási pótdíjcsökkentés fajlagos értékével növeli meg, amely
 
@@ -94,7 +94,7 @@ c) a KÁT termelő a 7. § (7) bekezdése szerinti önálló kiegyenlítő mened
 [^38]: A 4. § (10) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 393/2016. (XII. 5.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
 [^39]: A 4. § (10a) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 5. § (3) bekezdése iktatta be.
 [^40]: A 4. § (11) bekezdését a 123/2015. (V. 26.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 312/2016. (X. 19.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^41]: A 4. § (12) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 5. § (4) bekezdése iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^41]: A 4. § (12) bekezdése a 184/2022. (V. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^42]: A 4. § (12a) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 28. § (1) bekezdése iktata be.
 [^43]: A 4. § (12b) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 28. § (1) bekezdése iktata be.
 [^44]: A 4. § (13) bekezdését a 232/2017. (VIII. 14.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 28. § (2) bkeezdésével megállapított szöveg.
