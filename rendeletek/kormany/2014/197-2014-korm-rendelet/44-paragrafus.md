@@ -1,3 +1,3 @@
-## 42–43. §[^100]
+## 42–43. §[^101]
 
-[^100]: A 42–43. § az 525/2017. (XII. 29.) Korm. rendelet 13. §-a alapján nem lép hatályba.
+[^101]: A 42–43. § az 525/2017. (XII. 29.) Korm. rendelet 13. §-a alapján nem lép hatályba.

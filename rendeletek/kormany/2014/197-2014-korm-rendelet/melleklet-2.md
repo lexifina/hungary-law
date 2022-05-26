@@ -1,4 +1,4 @@
-2. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^103]
+2. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^104]
 
 ## A gyűjtési és a hasznosítási arány mértéke
 
@@ -84,4 +84,4 @@ T: a gyártó által a tárgyévet megelőző évben ténylegesen átvett, hulla
 
 A: a 2.1. pontban foglalt táblázatban az adott kategóriára vonatkozó újrahasználatra előkészítési, újrafeldolgozási arány mértéke (százalékban megadva).
 
-[^103]: A 2. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^104]: A 2. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
