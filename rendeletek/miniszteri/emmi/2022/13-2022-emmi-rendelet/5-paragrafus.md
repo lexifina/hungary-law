@@ -1,0 +1,3 @@
+## 4. § Az egészségügyről szóló 1997. évi CLIV. törvénynek a szerv- és szövetátültetésre, valamint -tárolásra és egyes kórszövettani vizsgálatokra vonatkozó rendelkezései végrehajtásáról szóló 18/1998. (XII. 27.) EüM rendelet 16/A. § (9) bekezdésében az „in vitro orvostechnikai eszközökről szóló jogszabály” szövegrész helyébe az „in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet, az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESzCsM rendelet” szöveg lép.
+
+## 3. Az emberen végzett orvostudományi kutatásokról szóló 23/2002. (V. 9.) EüM rendelet módosítása
