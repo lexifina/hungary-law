@@ -64,7 +64,7 @@
 
 ## – orvostechnikai eszközök esetében az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet, illetve az orvostechnikai eszközökről szóló EüM rendelet,
 
-## – in vitro diagnosztikai orvostechnikai eszközök esetében a 8/2003. (III. 13.) ESZCSM rendelet
+## – in vitro diagnosztikai orvostechnikai eszközök esetében az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet, illetve az in vitro diagnosztikai orvostechnikai eszközökről szóló ESzCsM rendelet
 
 ## követelményeinek, vagy
 
@@ -198,7 +198,7 @@
 
 2. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^79]
 
-[^75]: Az 1/A. számú melléklet 4. alcím 3. pontja a 35/2021. (VIII. 16.) EMMI rendelet 20. §-a szerint módosított szöveg.
+[^75]: Az 1/A. számú melléklet 4. alcím 3. pontja a 35/2021. (VIII. 16.) EMMI rendelet 20. §-a, a 13/2022. (IV. 29.) EMMI rendelet 32. §-a szerint módosított szöveg.
 [^76]: Az 1/A. számú melléklet „4. BERENDEZÉSEK ÉS ANYAGOK” cím 4. pontja az 54/2016. (XII. 30.) EMMI rendelet 45. § e) pontja szerint módosított szöveg.
 [^77]: Az 1/A. számú melléklet 9. cím 9.2. pontja az 54/2016. (XII. 30.) EMMI rendelet 45. § f) pontja szerint módosított szöveg.
 [^78]: Az 1/A. számú melléklet 9. cím 9.3. pontja 2. alpontja az 54/2016. (XII. 30.) EMMI rendelet 45. § f) pontja szerint módosított szöveg.
