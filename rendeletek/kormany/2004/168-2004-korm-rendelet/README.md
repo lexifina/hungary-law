@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-168-20-
 | 2021-02-03 | 2004-168-20-22.36 | 41/2021. (II. 2.) Korm. rendelet |
 | 2021-12-24 | 2004-168-20-22.37 | 771/2021. (XII. 23.) Korm. rendelet |
 | 2022-01-01 | 2004-168-20-22.38 | 769/2021. (XII. 23.) Korm. rendelet |
+| 2022-05-26 | 2004-168-20-22.39 | 648/2020. (XII. 23.) Korm. rendelet |

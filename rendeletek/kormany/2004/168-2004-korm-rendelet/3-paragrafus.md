@@ -24,7 +24,7 @@ i)[^35] fertőtlenítőszer: a biocid termékek forgalmazásáról és felhaszn�
 
 j)[^36] gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 1. pontja szerinti anyag;
 
-k)[^37] orvostechnikai eszköz: az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 2. §-ában meghatározott eszköz, valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendelet 2. § (1) bekezdés a) pontjában meghatározott eszköz.
+k)[^37] orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott eszköz, valamint az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott eszköz.
 
 [^28]: A 2/C. §-t a 41/2021. (II. 2.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 771/2021. (XII. 23.) Korm. rendelet 11. § e) pontja.
 [^29]: A 3. § b) pontját a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
@@ -35,4 +35,4 @@ k)[^37] orvostechnikai eszköz: az orvostechnikai eszközökről szóló 4/2009.
 [^34]: A 3. § h) pontja a 165/2020. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^35]: A 3. § i) pontját újonnan a 648/2020. (XII. 23.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^36]: A 3. § j) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^37]: A 3. § k) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^37]: A 3. § k) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 135/2022. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
