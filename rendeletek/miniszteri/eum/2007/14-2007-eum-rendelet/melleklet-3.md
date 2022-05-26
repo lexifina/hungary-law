@@ -1,4 +1,4 @@
-## Az IVD-rendelet szerinti önellenőrzésre szolgáló in vitro diagnosztikai orvostechnikai eszközök gyógyászati segédeszközként társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalma
+## Az önellenőrzésre szolgáló in vitro diagnosztikai orvostechnikai eszközök gyógyászati segédeszközként társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalma
 
 ## 1. A Gyftv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz nevének megváltoztatására, már befogadott gyógyászati segédeszköz más funkcionális csoportban (alcsoportban) történő támogatására, már befogadott gyógyászati segédeszköz méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására]
 
@@ -52,7 +52,7 @@
 
 ## 5.1. Az eszköz (és tartozékai) anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó és színező anyagok pontos leírását is) (vagy az ide vonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
 
-## 5.2. Az eszköz egyszerű leírása és alkalmazási célja: a címkén és a használati útmutatóban is megadott, az IVD-rendelet 2. § (1) bekezdés h) pontja szerinti alkalmazási célja, hatásmódja, ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata)
+## 5.2. Az eszköz egyszerű leírása és rendeltetése: a címkén és a használati útmutatóban is megadott rendeltetése, hatásmódja, ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata)
 
 ## 5.3. Tartozékok, kiegészítők
 
@@ -100,17 +100,15 @@
 
 ## 8. Az eszköz megfelelőségi igazolása
 
-## 8.1. Az OGYÉI nyilvántartásba vételi igazolásának száma
-
-## 8.1.1. Az igazolás kiadásának dátuma
+## 8.1. Regisztrációról szóló igazolás száma, az orvostechnikai eszközök európai adatbázisába regisztrált eszköz esetén a regisztráció tényére történő utalás
 
 ## 8.2. A gyártói megfelelőségi nyilatkozat száma, kiállításának dátuma
 
-## 8.3. Az EK tanúsítványt kiadó szervezet neve, címe és négyjegyű azonosító kódja
+## 8.3. Az EK vagy EU tanúsítványt kiadó szervezet neve, címe és négyjegyű azonosító kódja
 
-## 8.4. Az EK tanúsítvány kiállításának dátuma
+## 8.4. Az EK vagy EU tanúsítvány kiállításának dátuma
 
-## 8.5. Az EK tanúsítvány érvényességi ideje
+## 8.5. Az EK vagy EU tanúsítvány érvényességi ideje
 
 ## 9. Az eszköz árára, társadalombiztosítási támogatására vonatkozó paraméterek
 
@@ -156,6 +154,6 @@
 
 ## 11.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^169]
+3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^171]
 
-[^169]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (3) bekezdése szerint módosított szöveg.
+[^171]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (3) bekezdése szerint módosított szöveg.

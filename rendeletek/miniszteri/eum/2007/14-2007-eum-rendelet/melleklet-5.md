@@ -76,7 +76,7 @@
 
 ## 5.1. Az eszköz (és tartozékai) anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó- és színezőanyagok pontos leírását is) (vagy az idevonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
 
-## 5.2. Az eszköz egyszerű leírása és rendeltetése: a címkén és a használati útmutatóban is megadott, az R. 4. § (1) bekezdés 15. pontja szerinti rendeltetése, hatásmódja, ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata)
+## 5.2. Az eszköz egyszerű leírása és rendeltetése: a címkén és a használati útmutatóban is megadott rendeltetése, hatásmódja, ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata)
 
 ## 5.3. Tartozékok, kiegészítők
 
@@ -124,7 +124,7 @@
 
 ## 8. Az eszköz megfelelőségi igazolása
 
-## 8.1. Regisztrációról szóló igazolás száma, amennyiben az az R. vagy az IVD-rendelet szerint kötelező
+## 8.1. Regisztrációról szóló igazolás száma, az „az orvostechnikai eszközök európai adatbázisába regisztrált eszköz esetén a regisztráció tényére történő utalás
 
 ## 8.1.1. Az igazolás kiadásának dátuma
 
@@ -136,11 +136,11 @@
 
 ## 8.3. I.-nél magasabb osztály esetén
 
-## 8.3.1. Az EK tanúsítványt kiadó szervezet neve, címe és négyjegyű azonosító kódja
+## 8.3.1. Az EK vagy EU tanúsítványt kiadó szervezet neve, címe és négyjegyű azonosító kódja
 
-## 8.3.2. Az EK tanúsítvány kiállításának dátuma
+## 8.3.2. Az EK vagy EU tanúsítvány kiállításának dátuma
 
-## 8.3.3. Az EK tanúsítvány érvényességi ideje
+## 8.3.3. Az EK vagy EU tanúsítvány érvényességi ideje
 
 ## 9. Az eszköz árára és kölcsönzési díjára vonatkozó paraméterek
 
@@ -182,6 +182,6 @@
 
 ## 11.12. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^171]
+5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^173]
 
-[^171]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 21. § g) pontja szerint módosított szöveg.
+[^173]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 21. § g) pontja, a 13/2022. (IV. 29.) EMMI rendelet 34. § f) pontja szerint módosított szöveg. [A 13/2022. (IV. 29.) EMMI rendelet 34. § g) pontjában foglalz módosítás, mely szerint a „az R. 4. § (1) bekezdés 15. pontja szerinti alkalmazási célja” szövegrész helyébe a „rendeltetése” szöveg lép, nem vezethető át.]

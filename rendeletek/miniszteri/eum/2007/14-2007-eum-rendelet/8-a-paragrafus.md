@@ -1,3 +1,3 @@
-8/A. §[^32]
+8/A. §[^33]
 
-[^32]: A 8/A. §-t a 34/2010. (V. 14.) EüM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 43. § d) pontja.
+[^33]: A 8/A. §-t a 34/2010. (V. 14.) EüM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 43. § d) pontja.

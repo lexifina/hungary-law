@@ -1,16 +1,16 @@
-10. § (1)[^36]
+10. § (1)[^37]
 
-(2)[^37] A Gyftv. 32. § (8) bekezdése alapján fizetendő igazgatási szolgáltatási díjat postai befizetéssel vagy átutalással kell a NEAK Magyar Államkincstárnál vezetett 10032000-01301005-00000000 számú előirányzat-felhasználási keretszámlájára befizetni, melynek összege elsőfokú eljárás esetében:
+(2)[^38] A Gyftv. 32. § (8) bekezdése alapján fizetendő igazgatási szolgáltatási díjat postai befizetéssel vagy átutalással kell a NEAK Magyar Államkincstárnál vezetett 10032000-01301005-00000000 számú előirányzat-felhasználási keretszámlájára befizetni, melynek összege elsőfokú eljárás esetében:
 
-a)[^38] a Gyftv. 32. § (2) bekezdés b) pont bd) és bh) pontja szerinti kérelem esetében 10 000 Ft;
+a)[^39] a Gyftv. 32. § (2) bekezdés b) pont bd) és bh) pontja szerinti kérelem esetében 10 000 Ft;
 
-b)[^39] a Gyftv. 32. § (2) bekezdés b) pont ba) és bf) alpontja szerinti kérelem esetében 300 000 Ft;
+b)[^40] a Gyftv. 32. § (2) bekezdés b) pont ba) és bf) alpontja szerinti kérelem esetében 300 000 Ft;
 
-c)[^40] a Gyftv. 32. § (2) bekezdés a) pont aa), ab) alpontja és b) pont bc) alpontja szerinti kérelem esetében 700 000 Ft;
+c)[^41] a Gyftv. 32. § (2) bekezdés a) pont aa), ab) alpontja és b) pont bc) alpontja szerinti kérelem esetében 700 000 Ft;
 
-(3)[^41] A befizetett díj a NEAK bevétele. A díj a kérelem visszavonása, a kérelem visszautasítása, valamint az eljárásnak az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 47. § (1) bekezdés a) pontja szerinti megszüntetése esetén, a felmerült költségek levonásával visszaigényelhető. A NEAK az igazgatási szolgáltatási díjból származó bevételeket a nyilvántartásában elkülönítetten vezeti.
+(3)[^42] A befizetett díj a NEAK bevétele. A díj a kérelem visszavonása, a kérelem visszautasítása, valamint az eljárásnak az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 47. § (1) bekezdés a) pontja szerinti megszüntetése esetén, a felmerült költségek levonásával visszaigényelhető. A NEAK az igazgatási szolgáltatási díjból származó bevételeket a nyilvántartásában elkülönítetten vezeti.
 
-(4)–(6)[^42]
+(4)–(6)[^43]
 
 (7) Az Itv.
 
@@ -24,10 +24,10 @@ d) 86. §-ában foglaltakat az elévülés tekintetében
 
 értelemszerűen kell a fentiek figyelembevételével alkalmazni.
 
-[^36]: A 10. § (1) bekezdését a 8/2018. (II. 13.) EMMI rendelet 43. § f) pontja hatályon kívül helyezte.
-[^37]: A 10. § (2) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § b) pontja szerint módosított szöveg.
-[^38]: A 10. § (2) bekezdés a) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 10. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
-[^39]: A 10. § (2) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 11. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
-[^40]: A 10. § (2) bekezdés c) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 12. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
-[^41]: A 10. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) és j) pontja, a 32/2021. (VII. 29.) EMMI rendelet 10. § 2. pontja szerint módosított szöveg.
-[^42]: A 10. § (4)–(6) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § c) pontja hatályon kívül helyezte.
+[^37]: A 10. § (1) bekezdését a 8/2018. (II. 13.) EMMI rendelet 43. § f) pontja hatályon kívül helyezte.
+[^38]: A 10. § (2) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § b) pontja szerint módosított szöveg.
+[^39]: A 10. § (2) bekezdés a) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 10. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
+[^40]: A 10. § (2) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 11. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
+[^41]: A 10. § (2) bekezdés c) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 12. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
+[^42]: A 10. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) és j) pontja, a 32/2021. (VII. 29.) EMMI rendelet 10. § 2. pontja szerint módosított szöveg.
+[^43]: A 10. § (4)–(6) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § c) pontja hatályon kívül helyezte.

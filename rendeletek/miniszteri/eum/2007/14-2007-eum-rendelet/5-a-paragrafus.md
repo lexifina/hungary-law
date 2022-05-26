@@ -1,3 +1,3 @@
-5/A. §[^18]
+5/A. §[^19]
 
-[^18]: Az 5/A–5/D. §-t a 34/2010. (V. 14.) EüM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 43. § b) pontja.
+[^19]: Az 5/A–5/D. §-t a 34/2010. (V. 14.) EüM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 43. § b) pontja.
