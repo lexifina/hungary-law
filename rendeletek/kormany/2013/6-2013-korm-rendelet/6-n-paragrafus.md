@@ -1,4 +1,4 @@
-## 4/H. [^31] A potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezésekkel és védelmi rendszerekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+## 4/H. [^26] A potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezésekkel és védelmi rendszerekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
 6/N. § (1) Ha a piacfelügyeleti hatóság okkal feltételezi, hogy a termék kockázatot jelent az emberek és állatok életére, egészségére vagy anyagi javak biztonságára, akkor a terméken elvégzi az értékelést a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek vizsgálatáról és tanúsításáról szóló miniszteri rendeletben (a továbbiakban: R7.) megállapított valamennyi vonatkozó követelmény tekintetében. Az érintett gazdasági szereplő e célból együttműködik a piacfelügyeleti hatósággal.
 
@@ -24,4 +24,4 @@ b) a megfelelőség vélelmezését megalapozó R7.-ben említett harmonizált s
 
 (10) A végleges intézkedés elrendelése esetén az érintett termékkel kapcsolatban a piacfelügyeleti hatóság gondoskodik a megfelelő korlátozó intézkedések haladéktalan meghozataláról, különösen a termék visszavonásáról a piacról.
 
-[^31]: A 4/H. alcímet (6/N–6/O. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^26]: A 4/H. alcímet (6/N–6/O. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
