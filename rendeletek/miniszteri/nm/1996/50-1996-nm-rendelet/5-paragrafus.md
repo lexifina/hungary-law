@@ -4,7 +4,14 @@
 
 (2) Az (1) bekezdés hatálya alá nem tartozó, orvostechnikai eszközök klinikai vizsgálatának és a vizsgálat lényeges módosításának engedélyezésére irányuló eljárásokban a Módr. hatálybalépését[^25] megelőző napon hatályos 2. § (8) bekezdését és 1. melléklet II.11. sorát kell alkalmazni, azzal az eltéréssel, hogy a 2. § (8) bekezdése szerinti átutalást az Országos Kórházi Főigazgatóság részére kell elvégezni.
 
+6. §[^26] E rendelet
+
+a) az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 111. cikkének,
+
+b) az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet 104. cikkének
+
 [^22]: A 4. §-t a 14/2004. (III. 4.) ESZCSM rendelet 3. §-a ikatta a szövegbe.
 [^23]: Az 5. §-t a 35/2021. (VIII. 16.) EMMI rendelet 1. §-a iktatta be.
 [^24]: A hatálybalépés időpontja 2021. augusztus 17.
 [^25]: A hatálybalépés időpontja 2021. augusztus 17.
+[^26]: A 6. §-t a 13/2022. (IV. 29.) EMMI rendelet 1. §-a iktatta be.

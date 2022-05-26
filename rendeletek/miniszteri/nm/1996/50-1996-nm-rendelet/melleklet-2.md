@@ -22,7 +22,7 @@
 
 | II. | Az orvostechnikai eszközök nyilvántartásba vételével és megfelelőségértékelési eljárásaival, azokkal kapcsolatos szakvélemények kialakításával kapcsolatos igazgatási szolgáltatások |  |
 
-| II.1. | Az orvostechnikai eszközökről szóló 4/2009. EüM rendelet (a továbbiakban: 4/2009. EüM rendelet) 17. § (1) és – a II.2. sorban nevesített esetet ide nem értve – (2) bekezdése szerinti bejelentések, a 17. § (2) bekezdése szerinti bejelentés esetében a teljes gyártási folyamatot végrehajtó gyártóhelyenként és tevékenységi körönként, valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESzCsM rendelet (a továbbiakban: 8/2003. ESzCsM rendelet) az in vitro diagnosztikai orvostechnikai eszközök 7. § (1) és (2) bekezdése szerint a készülék, berendezés, gép, rendszer nyilvántartásba vétele, a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével, valamint a 8/2003. ESzCsM rendelet 7/A. § (1) bekezdése szerinti bejelentés | 71 900 Ft/regisztráció |
+| II.1. | Az orvostechnikai eszközökről szóló 4/2009. EüM rendelet (a továbbiakban: 4/2009. EüM rendelet) 17. § (1) és – a II.2. sorban nevesített esetet ide nem értve – (2) bekezdése szerinti bejelentések, a 17. § (2) bekezdése szerinti bejelentés esetében a teljes gyártási folyamatot végrehajtó gyártóhelyenként és tevékenységi körönként, valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESzCsM rendelet (a továbbiakban: 8/2003. ESzCsM rendelet) 7/A. § (1) bekezdése szerinti bejelentés | 71 900 Ft/regisztráció |
 
 | II.2. | Rendelésre készített orvostechnikai eszköz gyártók és az eszközök nyilvántartásba vétele, ha azt a gyártó a II.4. sorban előírt igazolás kiállításával egy időben kéri | 6 000 Ft/regisztráció |
 
@@ -32,23 +32,23 @@
 
 | 1–5 fős telephely esetén 6–10 fős telephely esetén 10 fő feletti telephely esetén | 140 000 Ft 205 000 Ft 377 000 Ft |
 
-| II.5. | A II.1–2., II.6. és II.12. sorok szerinti bejelentésekben, valamint a II.4. sor szerinti határozatban szereplő adatokban bekövetkező változások átvezetése (kivéve eszközök törlése) | 16 000 Ft |
+| II.5. | A II.1–2. és II.12. sorok szerinti bejelentésekben, valamint a II.4. sor szerinti határozatban szereplő adatokban bekövetkező változások átvezetése (kivéve eszközök törlése) | 16 000 Ft |
 
-| II.6. | Az in vitro diagnosztikai orvostechnikai eszközök közül a reagensek, reagens származékok, kalibráló és kontroll anyagok, reagens készletek in vitro diagsznosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESzCsM rendelet 7. § (1) és (2) bekezdése szerinti nyilvántartásba vétele eszközcsoportonként, az igazolásban maximum 60 termék (maximum 60 sorban) feltüntetésével | 17 000 Ft |
+| II.6. |  |  |
 
-| II.7. | Igazolás kiállítása hazai gyártású orvostechnikai eszköz EU-n kívül történő forgalmazásához angol nyelven, az igazolásban maximum 60 termék (maximum 60 sorban) feltüntetésével | 35 000 Ft |
+| II.7. | Igazolás kiállítása hazai gyártású orvostechnikai eszköz és in vitro diagnosztikai orvostechnikai eszköz EU-n kívül történő forgalmazásához angol nyelven, az igazolásban maximum 60 termék (maximum 60 sorban) feltüntetésével | 35 000 Ft |
 
-| II.8. | Szakvélemény kiállítása az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek való megfelelés tekintetében | 40 000 Ft |
+| II.8. | Szakvélemény kiállítása az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet és az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet, valamint a 8/2003. ESzCsM rendelet és az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet követelményeinek való megfelelés tekintetében | 40 000 Ft |
 
 | II.9. |  |  |
 
 | II.10. | Eseti használatba vételi engedély kiállítása | 60 600 Ft |
 
-| II.11. | Orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 180 000 Ft/kérelem |
+| II.11. | Orvostechnikai eszköz klinikai vizsgálatának és in vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálatának – ide nem értve az egészségügyről szóló 1997. évi CLIV. törvény 160/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálatokat – engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 180 000 Ft/kérelem |
 
 | II.11a. | Ionizáló sugárzást alkalmazó orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 294 700 Ft/kérelem (ebből a sugár- egészségügyi szakkérdésekben eljáró szakhatóság eljárásának díja: 114 700 Ft) |
 
-| II.12. | A 4/2009. EüM rendelet 17. § (3) és (5) bekezdése szerinti bejelentés a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével, valamint a 8/2003. ESzCsM rendelet 7. § (5) bekezdése és 7/A. § (3) bekezdése szerinti bejelentés a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével. | 66 000 Ft/kérelem |
+| II.12. | A 4/2009. EüM rendelet 17. § (3) és (5) bekezdése szerinti bejelentés, valamint a 8/2003. ESzCsM rendelet 7/A. § (2) bekezdése és 16. § (1g) bekezdése szerinti bejelentés. | 66 000 Ft/kérelem |
 
 | III. | Európai Egészségbiztosítási Kártya, illetve TAJ-számot igazoló okmány kiadással kapcsolatos igazgatási szolgáltatás |  |
 
@@ -64,6 +64,6 @@
 
 | VI. 1. | A tevékenységi engedély kiadás | 168 000 Ft (ebből a szakhatósági eljárás díja: 84 000 Ft) |
 
-2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^27]
+2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^28]
 
-[^27]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
+[^28]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
