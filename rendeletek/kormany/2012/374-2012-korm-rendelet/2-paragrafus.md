@@ -30,13 +30,13 @@
 
 13. importőr: az Európai Unióban letelepedett olyan természetes vagy jogi személy, amely harmadik országból származó elektromos vagy elektronikus berendezést hoz forgalomba az uniós piacon;
 
-14. in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendelet szerinti in vitro diagnosztikai orvostechnikai eszköz;
+14.[^5] in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott eszköz;
 
-15.[^5] ipari ellenőrző és vezérlő eszközök: kizárólag ipari vagy szakmai célú használatra kialakított ellenőrző és vezérlő eszközök;
+15.[^6] ipari ellenőrző és vezérlő eszközök: kizárólag ipari vagy szakmai célú használatra kialakított ellenőrző és vezérlő eszközök;
 
 16. kábelek: 250 voltnál kisebb feszültségű kábel, amely elektromos és elektronikus berendezések elektromos kimenethez való csatlakoztatásához, két vagy több elektromos és elektronikus berendezés egymáshoz való csatlakoztatásához összeköttetésként vagy hosszabbítóként szolgál;
 
-17.[^6] kizárólag szakmai használatra szánt nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép vagy külső energiaforrással működő, trakciós meghajtással rendelkező gép, amelynek működtetése mobilitást vagy folyamatos vagy részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között, és kizárólag szakmai célra használható;
+17.[^7] kizárólag szakmai használatra szánt nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép vagy külső energiaforrással működő, trakciós meghajtással rendelkező gép, amelynek működtetése mobilitást vagy folyamatos vagy részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között, és kizárólag szakmai célra használható;
 
 18. megbízható helyettesítő anyag: olyan helyettesítő anyag, amellyel az elektromos és elektronikus berendezés valószínűleg hiba nélkül fogja a megkövetelt funkciót ellátni adott körülmények között, adott időtartamig;
 
@@ -50,7 +50,7 @@
 
 23. nagyméretű, rögzített ipari szerszámok: gépek, berendezések, illetve alkatrészek nagyméretű összessége, amelyek együtt egy adott alkalmazás céljából működnek, és amelyeket szakemberek állandó jelleggel egy adott helyen üzemelnek be és szerelnek le, illetve szakemberek vesznek igénybe és tartanak karban valamely ipari gyártó létesítményben vagy kutatási és fejlesztési létesítményben;
 
-24.[^7] orvostechnikai eszköz: az MDR 2. cikk 1. pontja szerinti olyan orvostechnikai eszköz, amely elektromos vagy elektronikus berendezés is egyben;
+24.[^8] orvostechnikai eszköz: az MDR 2. cikk 1. pontja szerinti olyan orvostechnikai eszköz, amely elektromos vagy elektronikus berendezés is egyben;
 
 25. piacfelügyelet: a hatóságok azon tevékenységei és intézkedései, amelyek azt hivatottak biztosítani, hogy az elektromos vagy elektronikus berendezések megfeleljenek az e rendeletben foglalt követelményeknek, és ne veszélyeztessék az egészséget, a biztonságot vagy egyéb közérdek érvényesülését;
 
@@ -61,6 +61,7 @@
 28. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználó számára már elérhető termék visszajuttatása.
 
 [^4]: A 2. § 1. pontja a 164/2020. (IV. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § 15. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^6]: A 2. § 17. pontja a 60/2019. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: A 2. § 24. pontja a 164/2020. (IV. 30.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § 14. pontja a 135/2022. (IV. 7.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^6]: A 2. § 15. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 17. pontja a 60/2019. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 2. § 24. pontja a 164/2020. (IV. 30.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.

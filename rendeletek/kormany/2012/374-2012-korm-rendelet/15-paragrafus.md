@@ -4,19 +4,19 @@
 
 (2) A 3. § (1) bekezdésében előírt forgalmazási korlátozást
 
-a)[^13] a 2014. július 22-től forgalomba hozott orvostechnikai eszközre, ellenőrző és vezérlő eszközre,
+a)[^14] a 2014. július 22-től forgalomba hozott orvostechnikai eszközre, ellenőrző és vezérlő eszközre,
 
-b)[^14] a 2016. július 22-től forgalomba hozott in vitro diagnosztikai orvostechnikai eszközre,
+b)[^15] a 2016. július 22-től forgalomba hozott in vitro diagnosztikai orvostechnikai eszközre,
 
-c)[^15] a 2017. július 22-től forgalomba hozott ipari ellenőrző és vezérlő eszközre és
+c)[^16] a 2017. július 22-től forgalomba hozott ipari ellenőrző és vezérlő eszközre és
 
-d)[^16] a 2019. július 22-től forgalomba hozott, az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló, 2003. január 27-i 2002/95/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2002/95/EK európai parlamenti és tanácsi irányelv) hatálya alá nem tartozó elektromos és elektronikus berendezésre
+d)[^17] a 2019. július 22-től forgalomba hozott, az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló, 2003. január 27-i 2002/95/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2002/95/EK európai parlamenti és tanácsi irányelv) hatálya alá nem tartozó elektromos és elektronikus berendezésre
 
 kell alkalmazni.
 
-(2a)[^17] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések bisz(2-etilhexil)-ftalát (DEHP), benzil-butil-ftalát (BBP), dibutil-ftalát (DBP) és DIBP (diizobutil-ftalát) tartalmára vonatkozó forgalmazási korlátozást – a (2b) és a (3a) bekezdésekben foglaltak, valamint azon játékok kivételével, amelyek DEHP-, BBP- és DBP-tartalma tekintetében a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet XVII. melléklet 51. pontja alapján korlátozás áll fent – 2019. július 22-től kell alkalmazni.
+(2a)[^18] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések bisz(2-etilhexil)-ftalát (DEHP), benzil-butil-ftalát (BBP), dibutil-ftalát (DBP) és DIBP (diizobutil-ftalát) tartalmára vonatkozó forgalmazási korlátozást – a (2b) és a (3a) bekezdésekben foglaltak, valamint azon játékok kivételével, amelyek DEHP-, BBP- és DBP-tartalma tekintetében a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet XVII. melléklet 51. pontja alapján korlátozás áll fent – 2019. július 22-től kell alkalmazni.
 
-(2b)[^18] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések DEHP, BBP, DBP és DIBP tartalmára vonatkozó forgalmazási korlátozást
+(2b)[^19] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések DEHP, BBP, DBP és DIBP tartalmára vonatkozó forgalmazási korlátozást
 
 a) az orvostechnikai eszközök – ideértve az in vitro diagnosztikai orvostechnikai eszközöket is –,
 
@@ -30,17 +30,17 @@ a) a 2006. június 30-ig forgalomba hozott elektromos és elektronikus berendez�
 
 b) a 2014. július 21-ig forgalomba hozott orvostechnikai eszköz,
 
-c)[^19] a 2014. július 21-ig forgalomba hozott ellenőrző és vezérlő eszköz,
+c)[^20] a 2014. július 21-ig forgalomba hozott ellenőrző és vezérlő eszköz,
 
-d)[^20] a 2016. július 21-ig forgalomba hozott in vitro diagnosztikai orvostechnikai eszköz, a 2017. július 21-ig forgalomba hozott ipari ellenőrző és vezérlő eszköz,
+d)[^21] a 2016. július 21-ig forgalomba hozott in vitro diagnosztikai orvostechnikai eszköz, a 2017. július 21-ig forgalomba hozott ipari ellenőrző és vezérlő eszköz,
 
-e)[^21] az egyes veszélyes anyagok elektromos és elektronikai berendezésekben való alkalmazásának korlátozásáról szóló 16/2004. (X. 8.) KvVM rendelet által biztosított forgalomba hozatali mentesség hatálya alá tartozó elektromos és elektronikus berendezés és
+e)[^22] az egyes veszélyes anyagok elektromos és elektronikai berendezésekben való alkalmazásának korlátozásáról szóló 16/2004. (X. 8.) KvVM rendelet által biztosított forgalomba hozatali mentesség hatálya alá tartozó elektromos és elektronikus berendezés és
 
-f)[^22] a 2019. július 21-ig forgalomba hozott, a 2002/95/EK európai parlamenti és tanácsi irányelv hatálya alá nem tartozó elektromos és elektronikus berendezés
+f)[^23] a 2019. július 21-ig forgalomba hozott, a 2002/95/EK európai parlamenti és tanácsi irányelv hatálya alá nem tartozó elektromos és elektronikus berendezés
 
 javításához, újrahasználatához, működésének megújításához vagy teljesítménye javításához felhasznált kábelekre vagy cserealkatrészekre nem alkalmazható.
 
-(3a)[^23] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések DEHP, BBP, DBP és DIBP tartalmára vonatkozó forgalmazási korlátozás nem alkalmazandó
+(3a)[^24] A 3. § (1) bekezdésében előírt, az elektromos és elektronikus berendezések DEHP, BBP, DBP és DIBP tartalmára vonatkozó forgalmazási korlátozás nem alkalmazandó
 
 a) a 2019. július 22. előtt forgalomba hozott elektromos vagy elektronikus berendezések,
 
@@ -50,7 +50,7 @@ c) a 2021. július 22. előtt forgalomba hozott ellenőrző és vezérlő eszkö
 
 ## javításához, újrahasználatához, funkcionális frissítéséhez vagy kapacitásuk javításához felhasznált kábelekre vagy cserealkatrészekre.
 
-(4)[^24] Ha az újrahasznált cserealkatrészek esetében az újrafelhasználásra vállalatok közötti, ellenőrizhető zárt csererendszereken belül kerül sor, valamint az alkatrészek újrafelhasználásáról értesítik a fogyasztót, a 3. § (1) bekezdésében előírt forgalmazási korlátozás nem alkalmazandó
+(4)[^25] Ha az újrahasznált cserealkatrészek esetében az újrafelhasználásra vállalatok közötti, ellenőrizhető zárt csererendszereken belül kerül sor, valamint az alkatrészek újrafelhasználásáról értesítik a fogyasztót, a 3. § (1) bekezdésében előírt forgalmazási korlátozás nem alkalmazandó
 
 a) a 2006. július 1. előtt forgalomba hozott elektromos és elektronikus berendezésekből nyert és 2016. július 1. előtt forgalomba hozott,
 
@@ -64,18 +64,18 @@ e) a 2019. július 22. előtt forgalomba hozott, a 2002/95/EK európai parlament
 
 elektromos és elektronikus berendezésekben újrafelhasznált cserealkatrészek esetében.
 
-(5)[^25] A 3. melléklet 49., 50. és 51. pontja szerinti mentességet 2021. július 21-től kell alkalmazni.
+(5)[^26] A 3. melléklet 49., 50. és 51. pontja szerinti mentességet 2021. július 21-től kell alkalmazni.
 
-[^13]: A 15. § (2) bekezdés a) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^14]: A 15. § (2) bekezdés b) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
-[^15]: A 15. § (2) bekezdés c) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja, a 60/2019. (III. 25.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^16]: A 15. § (2) bekezdés d) pontját a 60/2019. (III. 25.) Korm. rendelet 3. §-a iktatta be.
-[^17]: A 15. § (2a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^18]: A 15. § (2b) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^19]: A 15. § (3) bekezdés c) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^20]: A 15. § (3) bekezdés d) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja, a 60/2019. (III. 25.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^21]: A 15. § (3) bekezdés e) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
-[^22]: A 15. § (3) bekezdés f) pontját a 60/2019. (III. 25.) Korm. rendelet 4. §-a iktatta be.
-[^23]: A 15. § (3a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^24]: A 15. § (4) bekezdése a 60/2019. (III. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^25]: A 15. § (5) bekezdését a 60/2019. (III. 25.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan az 52/2022. (II. 23.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 15. § (2) bekezdés a) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^15]: A 15. § (2) bekezdés b) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^16]: A 15. § (2) bekezdés c) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja, a 60/2019. (III. 25.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^17]: A 15. § (2) bekezdés d) pontját a 60/2019. (III. 25.) Korm. rendelet 3. §-a iktatta be.
+[^18]: A 15. § (2a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^19]: A 15. § (2b) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^20]: A 15. § (3) bekezdés c) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^21]: A 15. § (3) bekezdés d) pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § b) pontja, a 60/2019. (III. 25.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^22]: A 15. § (3) bekezdés e) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^23]: A 15. § (3) bekezdés f) pontját a 60/2019. (III. 25.) Korm. rendelet 4. §-a iktatta be.
+[^24]: A 15. § (3a) bekezdését a 307/2016. (X. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^25]: A 15. § (4) bekezdése a 60/2019. (III. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^26]: A 15. § (5) bekezdését a 60/2019. (III. 25.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan az 52/2022. (II. 23.) Korm. rendelet 1. §-a iktatta be.
