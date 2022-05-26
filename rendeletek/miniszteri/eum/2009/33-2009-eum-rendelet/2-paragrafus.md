@@ -1,13 +1,13 @@
-2. § (1)[^3] E rendelet alkalmazásában
+2. §[^2] (1) E rendelet alkalmazásában
 
-a) beleegyező nyilatkozat: a vizsgálatban való részvételre felkért cselekvőképes személynek az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 159. § (1) bekezdés e) pontja szerinti nyilatkozata, illetve korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen személy esetén az Eütv. 159. § (4) bekezdés d) pontja szerinti nyilatkozat, amely tartalmazza az e jogszabályban előírt adatokat;
+a) betegtájékoztató: a klinikai vizsgálat, illetve teljesítőképesség-vizsgálat előtt a vizsgálatba bevonni kívánt személy rendelkezésére bocsátott írásbeli tájékoztató, amely laikus számára is érthetően tartalmazza az e jogszabályban előírt adatokat;
 
-b) betegtájékoztató: a klinikai vizsgálat előtt a vizsgálatba bevonni kívánt személy rendelkezésére bocsátott írásbeli tájékoztató, amely laikus számára is érthetően tartalmazza az e jogszabályban előírt adatokat;
+b) toborzás: a vizsgálatot végző egészségügyi szolgáltatónak e rendelet előírásainak megfelelő tartalmú nyilvános felhívása abból a célból, hogy az általa ellátott betegeket és más önkéntes személyeket is vizsgálati alanyként bevonjon egy konkrét vizsgálatba;
 
-c) toborzás: a vizsgálatot végző egészségügyi szolgáltatónak e rendelet előírásainak megfelelő tartalmú nyilvános felhívása abból a célból, hogy az általa ellátott betegeket, és más önkéntes személyeket is vizsgálati alanyként bevonjon egy konkrét vizsgálatba;
+c) etikai bizottság: az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottsága (a továbbiakban: ETT TUKEB).
 
-d) vizsgálati terv: az MDR XV. melléklet II. Fejezet 3. pontja szerinti dokumentum.
+(2) Az (1) bekezdésben nem szabályozottak tekintetében e rendelet alkalmazásában az MDR-ben, az IVDR-ben, az Eütv.-ben, az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben és az orvostechnikai eszközökről szóló miniszteri rendeletben foglalt fogalommeghatározásokat és előírásokat kell figyelembe venni.
 
-(2) Az (1) bekezdésben nem szabályozottak tekintetében e rendelet alkalmazásában az Eütv.-ben, az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló külön jogszabályban és az orvostechnikai eszközökről szóló külön jogszabályban foglalt fogalommeghatározásokat és előírásokat kell figyelembe venni.
+(3) Az (1) bekezdésben nem szabályozottak tekintetében e rendelet alkalmazásában a korlátozottan cselekvőképes vagy cselekvőképtelen nagykorú, valamint a kiskorú vizsgálati alanyokra az MDR, az IVDR, az Eütv. és a Polgári Törvénykönyvről szóló 2013. évi V. törvény rendelkezéseit kell alkalmazni. Az e rendelet szerinti vizsgálatban történő részvételére vonatkozó nyilatkozattételre az Eütv. rendelkezéseit kell alkalmazni korlátozottan cselekvőképes vagy cselekvőképtelen nagykorú és kiskorú vizsgálati alanyok esetében.
 
-[^3]: A 2. § (1) bekezdése a 35/2021. (VIII. 16.) EMMI rendelet 38. §-ával megállapított szöveg.
+[^2]: A 2. § a 13/2022. (IV. 29.) EMMI rendelet 40. §-ával megállapított szöveg.

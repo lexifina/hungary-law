@@ -1,5 +1,6 @@
-## 18. §[^21] Az MDR 77. cikke szerinti értesítéseket, valamint a vizsgálati jelentést az OGYÉI számára elektronikus úton kell megküldeni.
+## 18. §[^29]
 
-## A váratlan események, balesetek, súlyos és nem várt mellékhatások, nem kívánatos események jelentése
+## A nemkívánatos események jelentése[^30]
 
-[^21]: A 18. § a 35/2021. (VIII. 16.) EMMI rendelet 41. §-ával megállapított szöveg.
+[^29]: A 18. §-t a 13/2022. (IV. 29.) EMMI rendelet 52. § a) pontja hatályon kívül helyezte.
+[^30]: A nemkívánatos események jelentése alcím (19–22. §) a 13/2022. (IV. 29.) EMMI rendelet 46. §-ával megállapított szöveg.
