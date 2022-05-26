@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. § A 235/2009. (X. 20.) Korm. rendelet 3. Címének „A klinikai vizsgálat engedélyezése” alcíme a következő 34. §-sal egészül ki:
 
-[^7]: A 7. § a 26. § (2) bekezdése alapján 2022. május 26-án lép hatályba.
+## „34. § Orvostechnikai eszköz klinikai vizsgálata, valamint in vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálata az engedély véglegessé válását követően kezdhető meg.”

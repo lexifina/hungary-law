@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § A 235/2009. (X. 20.) Korm. rendelet 17/B. §-a helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 26. § (2) bekezdése alapján 2022. május 26-án lép hatályba.
+## „17/B. § Az orvostechnikai eszközökkel kapcsolatos, a 16. § b) pontja szerinti beavatkozással nem járó vizsgálatokra vonatkozó bejelentést az MDR 73. cikke szerinti elektronikus rendszerben kell megtenni az MDR XV. Melléklet II. Fejezetében meghatározott adattartalommal, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését. A bejelentéshez csatolni kell az ETT TUKEB MDR 62. cikk (4) bekezdés b) pontja szerinti etikai véleményét is. Az OGYÉI a bejelentés alapján a vizsgálatot nyilvántartásba veszi és a bejelentés megtörténtéről hatósági bizonyítványt állít ki. A vizsgálat a hatósági bizonyítvány véglegessé válását követően kezdhető meg.”

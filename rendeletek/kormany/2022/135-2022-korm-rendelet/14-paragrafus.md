@@ -1,3 +1,11 @@
-## 13. §[^13]
+## lép.
 
-[^13]: A 13. § a 26. § (2) bekezdése alapján 2022. május 26-án lép hatályba.
+## 14. § Hatályát veszti a 235/2009. (X. 20.) Korm. rendelet
+
+a) 18. § (2b) és (2c) bekezdése,
+
+b) 32. § (4) bekezdése,
+
+c) 33. § (3) bekezdése,
+
+d) Európai Adatbank alcíme.

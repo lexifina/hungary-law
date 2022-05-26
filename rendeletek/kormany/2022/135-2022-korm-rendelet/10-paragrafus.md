@@ -1,3 +1,3 @@
-## 9. §[^9]
+## „(2) Az engedélyező az (1) bekezdés szerinti döntéséről és annak indokairól az MDR 76. cikk (3) és (4) bekezdése, illetve az IVDR 72. cikk (3) és (4) bekezdése szerinti tájékoztatás mellett haladéktalanul értesíti az ETT TUKEB-et.
 
-[^9]: A 9. § a 26. § (2) bekezdése alapján 2022. május 26-án lép hatályba.
+## (3) Ha a kérelmező kívánja a vizsgálatot annak befejezése előtt felfüggeszteni vagy megszüntetni, erről az indokok felsorolásával legkésőbb a felfüggesztéssel vagy megszüntetéssel egyidejűleg az MDR 77. cikkében, illetve az IVDR 73. cikkében foglaltak alkalmazásával az MDR 73. cikke, illetve az IVDR 69. cikke szerinti elektronikus rendszerben értesíti az engedélyezőt, továbbá tájékoztatja az ETT TUKEB-et és valamennyi érintett magyarországi vizsgálóhelyet. A kérelmező vizsgálatot megszüntető döntése alapján az engedélyező törli a vizsgálatot a nyilvántartásból.”

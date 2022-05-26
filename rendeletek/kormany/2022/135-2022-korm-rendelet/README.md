@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-135-20-
 | --- | --- | --- |
 | 2022-04-08 | 2022-135-20-22.1 | 135/2022. (IV. 7.) Korm. rendelet |
 | 2022-04-09 | 2022-135-20-22.2 | 2010: CXXX. törvény |
+| 2022-05-26 | 2022-135-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
