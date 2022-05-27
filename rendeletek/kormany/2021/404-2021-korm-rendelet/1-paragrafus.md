@@ -34,8 +34,13 @@ e) cement 20 000 forint/tonna
 
 (4) A kiegészítő bányajáradék fizetésére nem kötelezett értékesítő, amennyiben a (3) bekezdésben foglaltaktól eltérően tisztességtelen haszon szerzésére irányuló ármegállapítást alkalmaz, abban az esetben a Nemzeti Adó- és Vámhivatal adóigazgatási eljárást kezdeményezhet.
 
-(5) A kiegészítő bányajáradékot forintban, havonta kell teljesíteni, a tárgyhót követő hónap 15. napjáig, a Magyar Államkincstárnál vezetett 10032000-01031513-00000000 számú, „Bányajáradék befizetés” elnevezésű számlára, az utalás közleményében feltüntetve a kiegészítő bányajáradék megnevezést és a vonatkozó időszakot. Nem forintban denominált ellenérték esetén a kiegészítő bányajáradék alapjának és mértékének meghatározásakor a számla vagy más számviteli bizonylat kiállításának napján érvényes MNB deviza középárfolyamot kell alkalmazni. A befizetett kiegészítő bányajáradék költségként számolható el. A kiegészítő bányajáradék önbevallásához szükséges nyomtatványt a Magyar Bányászati és Földtani Szolgálat a honlapján közzéteszi.
+(5)[^2] A kiegészítő bányajáradékot önbevallásban kell meghatározni, és az önbevallást a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: bányafelügyelet) kell megküldeni. Az önbevallás megküldésével egyidejűleg a kiegészítő bányajáradékot is meg kell fizetni. A kiegészítő bányajáradékot forintban, havonta kell teljesíteni, a tárgyhót követő hónap 15. napjáig, a Magyar Államkincstárnál vezetett 10032000-00003141-09050012 számú, „Bányajáradék bevételi nyilvántartási számla” elnevezésű számlára, az utalás közleményében feltüntetve a kiegészítő bányajáradék megnevezést és a vonatkozó időszakot. Nem forintban denominált ellenérték esetén a kiegészítő bányajáradék alapjának és mértékének meghatározásakor a számla vagy más számviteli bizonylat kiállításának napján érvényes MNB deviza középárfolyamot kell alkalmazni. A befizetett kiegészítő bányajáradék költségként számolható el. A kiegészítő bányajáradék önbevallásához szükséges nyomtatványt a bányafelügyelet a honlapján közzéteszi.
+
+(5a)[^3] Késedelmes befizetés esetén a bányafelügyelet a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamattal megegyező mértékű késedelmi kamatot számít fel.
 
 (6) A kiegészítő bányajáradékot a közegészségügyi célú állami magasépítési beruházások finanszírozására kell fordítani.
 
 (7) Az (1) bekezdés szerinti főtevékenység alatt e rendelet alkalmazásában azt a tevékenységet kell érteni, amelyet a vállalkozás a 2019. év során, bármely időpontban főtevékenységként végzett.
+
+[^2]: Az 1. § (5) bekezdése a 191/2022. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (5a) bekezdését a 191/2022. (V. 26.) Korm. rendelet 1. §-a iktatta be.
