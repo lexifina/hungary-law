@@ -1,3 +1,3 @@
-## 2. § Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet [a továbbiakban: 235/2009. (X. 20.) Korm. rendelet] 15. §-a helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „15. § A 16. § szerinti beavatkozással nem járó vizsgálat, valamint az Eütv. 164/A. § (10) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat engedélyezése, illetve bejelentése esetében a 16–21/A. §-ban és az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet és az orvostechnikai eszközök klinikai vizsgálatáról szóló miniszteri rendeletben foglaltak szerint kell eljárni.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

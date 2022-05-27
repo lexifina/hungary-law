@@ -1,1 +1,3 @@
-## „(2a) Az in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat engedélyezése iránti kérelem benyújtására és elbírálására az IVDR előírásai alkalmazandók. A kérelmet az IVDR 66. cikkében előírtak szerint az IVDR 69. cikke szerinti elektronikus rendszerben kell benyújtani, és a kérelemhez mellékelni kell az ETT TUKEB-nek az IVDR 58. cikk (5) bekezdés b) pontja szerinti etikai véleményét. A kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését.”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

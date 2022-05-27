@@ -1,11 +1,3 @@
-## lép.
+## 13. §[^14]
 
-## 14. § Hatályát veszti a 235/2009. (X. 20.) Korm. rendelet
-
-a) 18. § (2b) és (2c) bekezdése,
-
-b) 32. § (4) bekezdése,
-
-c) 33. § (3) bekezdése,
-
-d) Európai Adatbank alcíme.
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

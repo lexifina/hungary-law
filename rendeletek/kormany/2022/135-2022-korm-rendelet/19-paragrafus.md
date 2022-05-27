@@ -1,3 +1,3 @@
-## 18. § A piacfelügyeleti tevékenység részletes szabályairól szóló 6/2013. (I. 18.) Korm. rendelet [a továbbiakban: 6/2013. (I. 18.) Korm. rendelet] 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 18. §[^19]
 
-## „(2) E rendeletet a III. Fejezet kivételével az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet hatálya alá tartozó orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökről, valamint az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet hatálya alá tartozó in vitro diagnosztikai orvostechnikai eszközökkel kapcsolatos piacfelügyeleti eljárásokra nem kell alkalmazni.”
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
