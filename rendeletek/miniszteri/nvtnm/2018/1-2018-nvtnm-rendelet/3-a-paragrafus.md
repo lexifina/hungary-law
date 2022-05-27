@@ -1,1 +1,0 @@
-## 3. § A Vtv. 3. § (2a) bekezdése, valamint az Nvtv. 7/A. § (1) bekezdés c) és d) pontja alapján a 3. melléklet szerinti gazdasági társaságok tekintetében az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyeket, illetve a tulajdonosi joggyakorlás időtartamát a 3. melléklet szerint jelölöm ki.
