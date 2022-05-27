@@ -1,9 +1,3 @@
-## lép.
+## 55. §[^55]
 
-## 56. § Hatályát veszti a 18/2010. (IV. 20.) EüM rendelet
-
-a) 2. § (3) bekezdése,
-
-b) 5. § (2) és (3) bekezdése,
-
-c) 2. melléklete.
+[^55]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

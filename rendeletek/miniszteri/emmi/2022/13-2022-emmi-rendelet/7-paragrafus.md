@@ -1,1 +1,3 @@
-## „(2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az MDR-ben, az IVDR-ben, az Eütv.-ben, valamint az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendeletben [a továbbiakban: 235/2009. (X. 20.) Korm. rendelet] foglalt fogalommeghatározásokat kell figyelembe venni.”
+## 6. §[^6]
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

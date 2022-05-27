@@ -1,3 +1,3 @@
-## 13. § A 23/2002. (V. 9.) EüM rendelet 20/N. §-a helyébe a következő rendelkezés lép:
+## 13. §[^13]
 
-## „20/N. § Az engedélyezett, illetve bejelentett beavatkozással nem járó vizsgálat, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat alatt a vizsgálati alanyok és a nyilatkozattételre jogosult személyek, a vizsgálók, a vizsgálatvezetők, a vizsgálatot végző egészségügyi szolgáltató vezetője, az IKEB, illetve a megbízó panasszal fordulhatnak az engedélyező, illetve a bejelentés tárgyában eljáró hatósághoz, ha megítélésük szerint a vizsgálatot az engedélyben, illetve a vizsgálati tervben előírtaktól eltérően folytatják.”
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

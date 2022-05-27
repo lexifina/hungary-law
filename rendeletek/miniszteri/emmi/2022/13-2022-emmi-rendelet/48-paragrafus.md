@@ -1,3 +1,3 @@
-## „(5a) Az engedélyező a vizsgálati jelentést szakmai-etikai értékelésre megküldi az etikai bizottságnak.
+## 47. §[^47]
 
-## (6) Az etikai bizottság által sikertelennek értékelt vizsgálat nem hivatkozható, nem publikálható, és arra épülő vizsgálat nem engedélyezhető.”
+[^47]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

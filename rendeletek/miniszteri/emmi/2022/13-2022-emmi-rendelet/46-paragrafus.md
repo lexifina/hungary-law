@@ -1,1 +1,3 @@
-## „(6) Az engedélyezett klinikai vizsgálatok, illetve teljesítőképesség-vizsgálatok végzése során az IKEB a vizsgálat teljes dokumentációjába betekinthet, hatósági ellenőrzést kezdeményezhet. Az IKEB jogosult annak figyelemmel kísérésére, hogy biztosítva vannak-e a személyi és tárgyi feltételek, és betartják-e a vizsgálati tervben foglalt előírásokat, etikai követelményeket, különös tekintettel a vizsgálati alanyok védelmére.”
+## 45. §[^45]
+
+[^45]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

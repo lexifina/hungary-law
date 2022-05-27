@@ -1,7 +1,3 @@
-## lép.
+## 51. §[^51]
 
-## 52. § Hatályát veszti a 33/2009. (X. 20.) EüM rendelet
-
-a) 18. §-a,
-
-b) „Európai Adatbank” alcíme.
+[^51]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
