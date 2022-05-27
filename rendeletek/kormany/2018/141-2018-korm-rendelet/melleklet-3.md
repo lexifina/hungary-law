@@ -210,6 +210,8 @@
 
 | 98. | Gyógyszeripari gyártóbázis és kapcsolódó létesítmények létrehozására irányuló beruházás Érd területén | Érd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 18754/2 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^293]
+| 99. | Szállodafejlesztésre, valamint ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás | Budapest V. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 24491 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^293]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^296]
+
+[^296]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
