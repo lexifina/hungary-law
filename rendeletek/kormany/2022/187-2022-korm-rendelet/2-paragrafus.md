@@ -1,0 +1,1 @@
+## 1. § Az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontjától eltérően a HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság felett a tulajdonosi jogokat a honvédelemért felelős miniszter gyakorolja.

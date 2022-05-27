@@ -1,0 +1,1 @@
+## 2. § A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény 1. § (3) bekezdésétől eltérően a Városliget Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság tekintetében az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek összességét a kultúráért felelős miniszter gyakorolja.
