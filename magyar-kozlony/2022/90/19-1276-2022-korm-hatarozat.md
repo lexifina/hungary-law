@@ -1,0 +1,44 @@
+# A Kormány 1276/2022. (V. 27.) Korm. határozata
+
+Magyar Közlöny 2022. évi 90. szám, 2022. május 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/RFiTk6jyYNi3dwECuKxI628d49ba12507/dokumentumok/70aed8fdfe3ba928c5e12706eed42b9cc48b0549/letoltes)
+
+---
+
+A Kormány 1276/2022. (V. 27.) Korm. határozata
+a Közép-magyarországi Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős kormánybiztos
+kinevezéséről és feladatairól
+1. A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 12. § (1) bekezdésében
+meghatározott feladatkörében eljárva – e kormányhatározat hatálybalépésétől a Kit. 219. § (3) bekezdése szerinti
+időtartamra – dr. Láng Zsoltot a Közép-magyarországi Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős
+kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
+2. A kormánybiztos az e határozat szerinti feladatait a Pest Megye és Budapest Főváros közigazgatási területét
+magában foglaló Közép-magyarországi Gazdaságfejlesztési Zónára (a továbbiakban: Gazdaságfejlesztési Zóna)
+kiterjedően látja el.
+3. A kormánybiztos az 1. pont szerinti feladatkörében különösen
+a) figyelemmel kíséri a Gazdaságfejlesztési Zónát érintő ágazati európai uniós és nemzeti forrásból megvalósuló
+fejlesztési koncepciók, tervek előkészítését és végrehajtását,
+b) tájékozódik a gazdasági szereplők által megvalósítani tervezett beruházásokról és fejlesztési igényeikről,
+c) véleményezi a Gazdaságfejlesztési Zónát érintő fejlesztési terveket – ideértve a turisztikai fejlesztési
+térség tervezésével és a tervezett turisztikai projektekkel kapcsolatos dokumentumokat is –, valamint
+a Gazdaságfejlesztési Zóna fejlesztéséhez kapcsolódó, európai uniós és központi költségvetési források
+biztosítását szolgáló döntések tervezeteit,
+d) a döntésre, illetve annak előkészítésére jogosultnak javaslatot tesz fejlesztések megvalósítására,
+e) részt vesz a feladataihoz kapcsolódó kormányzati egyeztetéseken.
+4. A kormánybiztos a 3. pont szerinti feladatkörében együttműködik
+a) a gazdasági együttműködésben érintett, illetve a Gazdaságfejlesztési Zónában megvalósuló fejlesztésekhez
+csatlakozó régiók állami, önkormányzati és gazdasági szereplőivel,
+b) az egyes tervek és koncepciók véleményezése körében a térség egyetemeivel és tudományos intézeteivel,
+c) valamennyi, a fejlesztésekkel érintett állami, önkormányzati és civil szervezettel.
+5. A kormánybiztos tevékenységét a miniszterelnök a területfejlesztési miniszter közreműködésével irányítja.
+6. A kormánybiztos tevékenységének ellátásáért a központi államigazgatási szervekről, valamint a Kormány tagjai
+és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (2) bekezdése szerinti díjazásra és juttatásokra
+jogosult.
+7. A kormánybiztos tevékenységét a Miniszterelnökség szervezetében működő 5 fős titkárság segíti.
+8. A Kormány felhívja az irányítása alatt álló szerveket és intézményeket, továbbá felkéri az egyéb érintett szerveket,
+hogy a kormánybiztos feladatának ellátásához szükséges – személyes adatnak nem minősülő – adatokat,
+információkat és elemzéseket bocsássák a kormánybiztos rendelkezésére.
+9. A területfejlesztési miniszter intézkedik annak érdekében, hogy az e határozat szerinti feladatok ellátására
+irodahelyiség kerüljön biztosításra.
+10. Ez a határozat a közzétételét követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
