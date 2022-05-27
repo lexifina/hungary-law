@@ -1,3 +1,3 @@
-## 2. § A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet [a továbbiakban: 299/2017. (X. 17.) Korm. rendelet] 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(1) A KÁT termelő akkor jogosult a KÁT mérlegkör helyett más mérlegkörhöz csatlakozni, ha a kötelező átvétel keretében történő támogatás helyett a támogatás e rendelet szerinti prémium típusú támogatás szabályai szerinti elszámolást kéri és a prémium típusú támogatás igénybevételéhez a befogadó üzletszabályzata szerinti prémium támogatási szerződést köt a befogadóval. Ebben az esetben az alkalmazandó támogatott ár a termelőre vonatkozó aktuális kötelező átvételi árak időben egyenletes termelés melletti átlagának 1. melléklet szerinti szorzótényezővel módosított értékével egyezik meg, és a támogatás időtartama változatlan marad. Az e bekezdés szerinti KÁT mérlegkörből történő kilépés esetén a KÁT termelő a KÁT mérlegkörhöz nem csatlakozhat újra.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
