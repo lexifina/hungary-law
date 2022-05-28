@@ -1,0 +1,3 @@
+## 9. § Az R1. 16. §-a helyébe a következő rendelkezés lép:
+
+## „16. § Ha a szerződést olyan távközlő eszköz alkalmazásával kötik meg, amelyen az információk megjelenítésére korlátozott hely vagy idő áll rendelkezésre, az ilyen szerződés megkötése előtt a vállalkozás az alkalmazott távollévők közötti kommunikációt lehetővé tévő eszköz útján közli legalább a 11. § (1) bekezdés a), b), e), f), i) és p) pontjában előírt tájékoztatást, a 11. § (1) bekezdés i) pontjában említett 2. melléklet szerinti elállásinyilatkozat-minta kivételével. A 11. § (1) bekezdése szerinti tájékoztatást, köztük a 2. melléklet szerinti elállásinyilatkozat-mintát a vállalkozás a 14. §-sal összhangban bocsátja a fogyasztó rendelkezésére.”
