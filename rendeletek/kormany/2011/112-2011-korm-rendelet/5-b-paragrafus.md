@@ -1,5 +1,3 @@
-5/B. §[^25] (1) Ha a tulajdonos vagy a birtokos jelzése szerint a radioaktív anyagok leltározásakor bármely hiány vagy többlet mutatkozik, az OAH haladéktalanul értesíti az Országos Rendőr-főkapitányságot (a továbbiakban: ORFK), a TEK-et, a polgári nemzetbiztonsági szolgálatokat és az országos tisztifőorvos által működtetett Országos Sugár-egészségügyi Készenléti Szolgálatot. Az e bekezdésben felsorolt szervek a bejelentés ügyében hozott – az OAH hatáskörét érintő – intézkedéseikről tájékoztatják az OAH-t.
+## 5/A. §[^20]
 
-(2) Ha az országos tisztifőorvos, az ORFK, a nemzetbiztonsági szolgálatok vagy a BM OKF a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben és e kormányrendeletben meghatározott előírás megsértését észleli, erről haladéktalanul tájékoztatja az OAH-t.
-
-[^25]: Az 5/B. §-t a 156/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 329. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^20]: Az 5/A. §-t a 139/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 193/2022. (V. 27.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.

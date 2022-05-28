@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-112-20-
 | 2021-08-14 | 2011-112-20-22.27 | 423/2021. (VII. 15.) Korm. rendelet |
 | 2022-01-01 | 2011-112-20-22.28 | 767/2021. (XII. 23.) Korm. rendelet |
 | 2022-01-08 | 2011-112-20-22.29 | 767/2021. (XII. 23.) Korm. rendelet |
+| 2022-05-28 | 2011-112-20-22.30 | 457/2017. (XII. 28.) Korm. rendelet |
