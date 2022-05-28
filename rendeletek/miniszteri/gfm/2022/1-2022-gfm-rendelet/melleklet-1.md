@@ -1,4 +1,4 @@
-## 7. §[^1]
+## 7. §[^2]
 
 1. melléklet az 1/2022. (V. 26.) GFM rendelethez
 
@@ -284,4 +284,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
-[^1]: A 7. § az 5. § (2) bekezdése alapján 2022. június 1-jén lép hatályba.
+[^2]: A 7. § az 5. § (2) bekezdése alapján 2022. június 1-jén lép hatályba.
