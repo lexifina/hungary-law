@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 63. § (7) bekezdése szerint egyenruha viselésére jogosult és a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 3. § (2) bekezdése szerinti többletkötelezettséget vállaló személyekre terjed ki.
