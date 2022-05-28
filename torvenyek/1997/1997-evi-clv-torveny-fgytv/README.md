@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 1997-155-00-00.62 |
 | 2021-03-01 | 2021. évi II. törvény | 1997-155-00-00.63 |
 | 2022-01-01 | 2021. évi LI. törvény | 1997-155-00-00.64 |
+| 2022-05-28 | 2020. évi CXXXVI. törvény | 1997-155-00-00.65 |

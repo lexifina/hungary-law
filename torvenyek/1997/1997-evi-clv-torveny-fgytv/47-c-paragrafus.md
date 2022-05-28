@@ -14,6 +14,12 @@ b) az (1) bekezdés a) pont hatálya alá nem tartozó vállalkozás esetében 2
 
 terjedhet.
 
+(1b) Az (1) bekezdéstől eltérően az (EU) 2017/2394 rendelet 21. cikkével összefüggésben megállapított jogsértés esetén a bírság összege
+
+a) a vállalkozás nettó árbevételének legalább 4%-a,
+
+b) ha a vállalkozás árbevétele nem állapítható meg, akkor legalább 2 millió euró.
+
 (2) Az (1) bekezdés szerinti nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság minimális és maximális összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
 (3) Az (1) bekezdés alkalmazásában a nettó árbevétel meghatározása során
