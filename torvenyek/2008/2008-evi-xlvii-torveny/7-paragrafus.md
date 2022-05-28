@@ -28,8 +28,14 @@ b) a vállalkozás neve és címe azonosításra alkalmas módon, illetve annak 
 
 c) az általános forgalmi adót és egyéb kötelező terheket is magában foglaló ár, illetve díj vagy – amennyiben az áru jellegéből adódóan az árat, illetve díjat nem lehet ésszerűen előre megállapítani – az ár, illetve díj megállapításának módja, valamint az összes járulékos költség, így különösen fuvardíj, szállítási vagy postaköltség, illetve amennyiben e költségeket nem lehet ésszerűen előre megállapítani, annak feltüntetése, hogy ilyen további költségek merülhetnek fel,
 
-d) a fizetés, szállítás és teljesítés feltételei, valamint a panaszok kezelésének módja, amennyiben ezek eltérnek a szakmai gondosság követelményeitől,
+d) a fizetés, a szállítás és a teljesítés feltételei, ha azok eltérnek a szakmai gondosság által támasztott követelményektől,
 
 e) olyan szerződések esetében, amelyek tekintetében jogszabály elállási jogot biztosít a fogyasztónak, az erre való utalás.
 
+f) az online piacokon kínált termékek esetében az, hogy a terméket kínáló harmadik fél kereskedő-e vagy sem, a harmadik fél által az online piac szolgáltatója számára adott nyilatkozat alapján.
+
 (6) Az (5) bekezdés szerinti esetben nem megtévesztő mulasztás, ha az információ egyébként a körülményekből közvetlenül kitűnik.
+
+(7) Amikor a fogyasztók lehetőséget kapnak arra, hogy különböző vállalkozások vagy fogyasztók által kínált termékek esetében kulcsszó, kifejezés vagy más lekérdezés alapján végezzenek keresést, függetlenül attól, hogy az ügyletet végül hol kötik meg, jelentősnek minősülnek a keresés eredményeit bemutató oldalról közvetlenül és könnyen elérhető online felület egy külön részén rendelkezésre bocsátott, azokra a fő paraméterekre vonatkozó általános információk, amelyek meghatározzák a fogyasztónak a keresés eredményeként megjelenített termékek rangsorát, valamint jelentősnek minősül e paraméterek más paraméterekkel szembeni relatív fontossága. Ez a bekezdés nem vonatkozik az (EU) 2019/1150 európai parlamenti és tanácsi rendelet 2. cikkének 6. pontjában meghatározott onlinekeresőprogram-szolgáltatókra.
+
+(8) Ha a vállalkozás hozzáférést biztosít a termékek fogyasztói értékeléseihez, az arra vonatkozó információt, hogy a vállalkozás biztosítja-e és hogyan, hogy a közzétett értékelések olyan fogyasztóktól származnak, akik a terméket ténylegesen használták vagy megvásárolták, jelentősnek kell tekinteni.

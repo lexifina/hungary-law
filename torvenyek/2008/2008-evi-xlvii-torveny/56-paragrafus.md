@@ -1,6 +1,6 @@
 56. § (1) Ez a törvény a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(2)
+(2) Ez a törvény a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (3) A 28. §
 
@@ -83,3 +83,11 @@ egy másik áru eladásösztönzésének a szándékával (bait-and-switch rekl�
 30. A fogyasztó kifejezetten arról való tájékoztatása, hogy ha nem vásárolja meg az adott árut, veszélybe kerül a vállalkozás vagy alkalmazottja munkája vagy megélhetése.
 
 31. Olyan hamis benyomás keltése, hogy a fogyasztó már megnyert, meg fog nyerni, vagy meghatározott cselekmény megtétele révén fog megnyerni egy nyereményt (díjat, jutalmat vagy azzal egyenértékű egyéb előnyt), miközben valójában nincs ilyen nyeremény, vagy a nyeremény érvényesítése, illetve igénybevétele a fogyasztó számára meghatározott pénzösszeg megfizetéséhez vagy költségek viseléséhez kötött.
+
+32. A keresési eredmények megadása a fogyasztó online keresési lekérdezése alapján, anélkül, hogy egyértelműen felfednék a fizetett hirdetéseket vagy a kifejezetten a termékeknek a keresési eredmények közötti magasabb rangsorolását célzó fizetést.
+
+33. Rendezvényekre szóló jegyek viszonteladása fogyasztók részére, ha a kereskedő azokat automatizált eszközökkel vásárolta meg, hogy megkerülje az egy személy által megvásárolható jegyek számára vonatkozó korlátozásokat vagy a jegyvásárlásra alkalmazandó bármely más szabályt.
+
+34. Annak állítása, hogy a termék értékelését olyan fogyasztók nyújtották be, akik ténylegesen használták vagy megvásárolták a terméket, anélkül, hogy észszerű és arányos lépésekre kerülne sor annak ellenőrzésére, hogy az értékelések ilyen fogyasztóktól származnak.
+
+35. A termékek népszerűsítése érdekében valótlan fogyasztói értékelések vagy ajánlások benyújtása, illetve más jogi vagy természetes személy megbízása ezzel, vagy fogyasztói értékelések vagy közösségi médiában történő ajánlások valótlan bemutatása.

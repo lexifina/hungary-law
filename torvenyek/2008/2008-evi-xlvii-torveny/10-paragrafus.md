@@ -1,6 +1,6 @@
 ## Eljáró hatóságok
 
-10. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (2) és a (3) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság jár el.
+10. § (1) A tisztességtelen kereskedelemi gyakorlat tilalmának megsértése miatt – a (2), a (3) és az (5) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság jár el.
 
 (2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (3) bekezdésben foglalt kivétellel – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) jár el, ha az érintett kereskedelmi gyakorlat a vállalkozás olyan tevékenységével függ össze, amelyet a Felügyelet felügyel.
 
@@ -12,6 +12,6 @@ a) a termék címkéjén (a terméken, annak csomagolásán vagy a termékhez eg
 
 b) a 7. § (3) bekezdésében említett tájékoztatási követelmény megsértésével valósul meg.
 
-(5)
+(5) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt az élelmiszerlánc-felügyeleti hatóság jár el a 6. § (2) bekezdés c) pontja szerinti, az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény hatálya alá tartozó élelmiszerlánc termékekkel kapcsolatban megvalósított megtévesztő kereskedelmi gyakorlat esetén.
 
 (6) A (3) bekezdés nem alkalmazható, ha a tisztességtelen kereskedelmi gyakorlat tilalma megsértésének részét képezi az olyan magatartási kódexben foglalt követelmény be nem tartása, amely magatartási kódex a (2) bekezdés szerinti vállalkozások (2) bekezdés szerinti tevékenységével összefüggő kereskedelmi gyakorlatok vonatkozásában követendő magatartási szabályokat állapít meg.
