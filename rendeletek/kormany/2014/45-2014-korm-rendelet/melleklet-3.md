@@ -1,18 +1,18 @@
-## Elállási/Felmondási nyilatkozatminta
+## Elállási-/Felmondásinyilatkozat-minta
 
-## (csak a szerződéstől való elállási/felmondási szándék esetén töltse ki és juttassa vissza)
+## (csak a szerződéstől való elállási szándék esetén töltse ki és juttassa vissza)
 
-## Címzett:[^20]
+## Címzett [ide a vállalkozásnak a nevét, postai címét és elektronikus levelezési címét kell beillesztenie]:
 
-## Alulírott/ak kijelentem/kijelentjük, hogy gyakorlom/gyakoroljuk elállási/felmondási jogomat/jogunkat az alábbi termék/ek adásvételére vagy az alábbi szolgáltatás nyújtására irányuló szerződés tekintetében:[^21]
+## Alulírott(ak) kijelenti(k), hogy gyakorlom/gyakoroljuk elállási/felmondási jogomat/jogunkat az alábbi áru(k) adásvételére vagy az alábbi szolgáltatás nyújtására irányuló szerződés tekintetében:
 
-## Szerződéskötés időpontja /átvétel időpontja:[^22]
+## Szerződéskötés időpontja/átvétel időpontja:
 
-## A fogyasztó(k) neve:
+## Fogyasztó(k) neve:
 
-## A fogyasztó(k) címe:
+## Fogyasztó(k) címe:
 
-## A fogyasztó(k) aláírása: (kizárólag papíron tett nyilatkozat esetén)
+## A fogyasztó(k) aláírása (kizárólag papír alapon tett nyilatkozat esetén):
 
 ## Kelt
 
@@ -24,7 +24,7 @@
 
 Milyen esetben élhet Ön a kellékszavatossági jogával?
 
-Ön a ...[^23] hibás teljesítése esetén a vállalkozással szemben kellékszavatossági igényt érvényesíthet a Polgári Törvénykönyv szabályai szerint.
+Ön a ...[^81] hibás teljesítése esetén a vállalkozással szemben kellékszavatossági igényt érvényesíthet a Polgári Törvénykönyv szabályai szerint.
 
 Milyen jogok illetik meg Önt kellékszavatossági igénye alapján?
 
@@ -36,7 +36,7 @@ Választott kellékszavatossági jogáról egy másikra is áttérhet, az átté
 
 Milyen határidőben érvényesítheti Ön kellékszavatossági igényét?
 
-Ön köteles a hibát annak felfedezése után haladéktalanul, de nem később, mint a hiba felfedezésétől számított kettő hónapon belül közölni. Ugyanakkor felhívom a figyelmét, hogy a szerződés teljesítésétől számított két éves elévülési határidőn túl kellékszavatossági jogait már nem érvényesítheti. Használt dolog esetén ez a határidő....[^24], de legfeljebb egy év.
+Ön köteles a hibát annak felfedezése után haladéktalanul, de nem később, mint a hiba felfedezésétől számított kettő hónapon belül közölni. Ugyanakkor felhívom a figyelmét, hogy a szerződés teljesítésétől számított két éves elévülési határidőn túl kellékszavatossági jogait már nem érvényesítheti. Használt dolog esetén ez a határidő....[^82], de legfeljebb egy év.
 
 Kivel szemben érvényesítheti kellékszavatossági igényét?
 
@@ -44,7 +44,7 @@ Kivel szemben érvényesítheti kellékszavatossági igényét?
 
 Milyen egyéb feltétele van kellékszavatossági jogai érvényesítésének?
 
-A teljesítéstől számított hat hónapon belül a kellékszavatossági igénye érvényesítésének a hiba közlésén túl nincs egyéb feltétele, ha Ön igazolja, hogy a terméket, illetve a szolgáltatást a ....[^25] vállalkozás nyújtotta. A teljesítéstől számított hat hónap eltelte után azonban már Ön köteles bizonyítani, hogy az Ön által felismert hiba már a teljesítés időpontjában is megvolt.
+A teljesítéstől számított hat hónapon belül a kellékszavatossági igénye érvényesítésének a hiba közlésén túl nincs egyéb feltétele, ha Ön igazolja, hogy a terméket, illetve a szolgáltatást a ....[^83] vállalkozás nyújtotta. A teljesítéstől számított hat hónap eltelte után azonban már Ön köteles bizonyítani, hogy az Ön által felismert hiba már a teljesítés időpontjában is megvolt.
 
 2. Termékszavatosság
 
@@ -88,9 +88,9 @@ Felhívom figyelmét, hogy ugyanazon hiba miatt kellékszavatossági és termék
 
 Milyen esetben élhet Ön a kellékszavatossági jogával?
 
-Hibás teljesítés esetén szerződés/[^26]...[^27] alapján a ...[^28] jótállásra köteles.
+Hibás teljesítés esetén szerződés/[^84]...[^85] alapján a ...[^86] jótállásra köteles.
 
-Önt milyen jogok és milyen határidőn belül illetik meg jótállás alapján?[^29]
+Önt milyen jogok és milyen határidőn belül illetik meg jótállás alapján?[^87]
 
 Mikor mentesül a vállalkozás a jótállási kötelezettsége alól?
 
@@ -98,13 +98,10 @@ A vállalkozás jótállási kötelezettsége alól csak abban az esetben mentes
 
 Felhívom a figyelmét, hogy ugyanazon hiba miatt kellékszavatossági és jótállási igényt, illetve termékszavatossági és jótállási igényt egyszerre, egymással párhuzamosan nem érvényesíthet, egyébként viszont Önt a jótállásból fakadó jogok az 1. és a 2. pontban meghatározott jogosultságoktól függetlenül megilletik.
 
-[^20]: Itt szükséges a vállalkozás nevének, postai címének, és – ha van – telefonszámának, telefax-számának és elektronikus levelezési címének megjelölése.
-[^21]: Itt szükséges a szerződés tárgyául szolgáló termék vagy szolgáltatás megjelölése
-[^22]: A megfelelő jelölendő
-[^23]: a vállalkozás nevének beillesztése
-[^24]: két évnél rövidebb határidő esetén beillesztendő
-[^25]: a vállalkozás nevének beillesztése
-[^26]: a megfelelő jogszabályhely megjelölése szükséges
-[^27]: jelölje meg a megfelelőt
-[^28]: a vállalkozás nevének beillesztése
-[^29]: a szerződésben vagy jogszabályban meghatározott jogok és határidő beillesztése
+[^81]: a vállalkozás nevének beillesztése
+[^82]: két évnél rövidebb határidő esetén beillesztendő
+[^83]: a vállalkozás nevének beillesztése
+[^84]: a megfelelő jogszabályhely megjelölése szükséges
+[^85]: jelölje meg a megfelelőt
+[^86]: a vállalkozás nevének beillesztése
+[^87]: a szerződésben vagy jogszabályban meghatározott jogok és határidő beillesztése

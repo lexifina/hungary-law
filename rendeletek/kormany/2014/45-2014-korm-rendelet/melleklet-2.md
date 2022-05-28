@@ -1,4 +1,4 @@
-## Elállási/Felmondási mintatájékoztató
+## Elállási-/Felmondásiminta-tájékoztató
 
 ## Elállási/Felmondási jog
 
@@ -6,7 +6,7 @@
 
 ## Az elállási/felmondási határidő az (1....) .
 
-## Ha Ön elállási/felmondási jogával élni kíván, elállási/felmondási szándékát tartalmazó egyértelmű nyilatkozatát köteles eljuttatni (például postán, telefaxon vagy elektronikus úton küldött levél útján) az alábbi címre: (2...). Ebből a célból felhasználhatja a mellékelt elállási/felmondási nyilatkozat-mintát is. (3....)
+## Ha Ön elállási/felmondási jogával élni kíván, elállási/felmondási szándékát tartalmazó egyértelmű nyilatkozatát köteles eljuttatni (például postán vagy elektronikus úton küldött levél útján) az alábbi címre: (2...). Ebből a célból felhasználhatja a mellékelt elállási-/felmondásinyilatkozat-mintát is. (3....)
 
 ## Ön határidőben gyakorolja elállási/felmondási jogát, ha a fent megjelölt határidő lejárta előtt elküldi elállási/felmondási nyilatkozatát.
 
@@ -18,48 +18,52 @@
 
 ## (6 ....)
 
-## Útmutató az elállási/felmondási mintatájékoztató kitöltéséhez:
+## Útmutató az elállási-/felmondásiminta-tájékoztató kitöltéséhez:
 
 ## (1.....) Illessze be a következő idézőjelbe tett szövegek egyikét:
 
 ## a) szolgáltatás nyújtására irányuló szerződés esetén: „a szerződés megkötésének napjától számított 14 nap elteltével jár le”;
 
-## b) termék adásvételére irányuló szerződés esetében: „attól a naptól számított 14 nap elteltével jár le, amelyen Ön vagy az Ön által megjelölt, a fuvarozótól eltérő harmadik személy a terméket átveszi.”;
+## b) áru adásvételére irányuló szerződés esetében: „attól a naptól számított 14 nap elteltével jár le, amelyen Ön vagy az Ön által megjelölt, a fuvarozótól eltérő harmadik személy az árut átveszi.”;
 
-## c) több termék szolgáltatásakor: „attól a naptól számított 14 nap elteltével jár le, amelyen Ön vagy az Ön által megjelölt, a fuvarozótól eltérő harmadik személy az utolsó termék átveszi.”;
+## c) több áru szolgáltatásakor: „attól a naptól számított 14 nap elteltével jár le, amelyen Ön vagy az Ön által megjelölt, a fuvarozótól eltérő harmadik személy az utolsó árut átveszi.”;
 
-## d) több tételből vagy darabból álló termék szolgáltatásakor: „amelyen Ön vagy az Ön által megjelölt, a fuvarozótól eltérő harmadik személy az utolsó tételt vagy darabot átveszi.”; e) termék meghatározott időszakon belüli rendszeres szolgáltatására vonatkozó szerződés esetében: „attól a naptól számított 14 nap elteltével jár le, amelyen Ön vagy az Ön által megjelölt, a fuvarozótól eltérő harmadik személy átveszi az első terméket.”
+## d) több tételből vagy darabból álló áru szolgáltatásakor: „amelyen Ön vagy az Ön által megjelölt, a fuvarozótól eltérő harmadik személy az utolsó tételt vagy darabot átveszi.”;
 
-## (2.....) Illessze be vállalkozása nevét, postai címét, és – ha van – telefonszámát, telefax-számát és elektronikus levelezési címét.
+## e) áru meghatározott időszakon belüli rendszeres szolgáltatására vonatkozó szerződés esetében: „attól a naptól számított 14 nap elteltével jár le, amelyen Ön vagy az Ön által megjelölt, a fuvarozótól eltérő harmadik személy átveszi az első árut.”
 
-## (3.....) Ha Ön lehetővé teszi a fogyasztó számára, hogy elektronikusan az Ön weboldalán töltse ki és nyújtsa be elállási/felmondási nyilatkozatát, illessze be a következő szöveget: „Ön internetes oldalunkon is [beillesztendő az internetes cím] kitöltheti az elállási/felmondási nyilatkozat-mintát vagy benyújthatja az elállási/felmondási szándékát egyértelműen kifejező egyéb nyilatkozatát. Ha Ön emellett dönt, az elállás/felmondás megérkezését tartós adathordozón (például elektronikus levélben) haladéktalanul visszaigazoljuk Önnek.”
+## (2.....) Illessze be vállalkozása nevét, postai címét, telefonszámát és elektronikus levelezési címét.
 
-## (4.....) Termék adásvételére irányuló szerződés esetében, ha Ön nem ajánlotta fel, hogy a terméket elállás esetén visszafuvarozza, illessze be a következő szöveget: „A visszatérítést mindaddig visszatarthatjuk, amíg vissza nem kaptuk a terméket, vagy Ön nem igazolta, hogy azt visszaküldte: a kettő közül a korábbi időpontot kell figyelembe venni.”
+## (3.....) Ha Ön lehetővé teszi a fogyasztó számára, hogy elektronikusan az Ön weboldalán töltse ki és nyújtsa be elállási/felmondási nyilatkozatát, illessze be a következő szöveget: „Ön internetes oldalunkon is [beillesztendő az internetes cím] kitöltheti az elállási-/felmondásinyilatkozat-mintát vagy benyújthatja az elállási/felmondási szándékát egyértelműen kifejező egyéb nyilatkozatát. Ha Ön emellett dönt, az elállás/felmondás megérkezését tartós adathordozón (például elektronikus levélben) haladéktalanul visszaigazoljuk Önnek.”
 
-## (5.....) Ha a fogyasztó a szerződés alapján terméket vett át
+## (4.....) Áru adásvételére irányuló szerződés esetében, ha Ön nem ajánlotta fel, hogy az árut elállás esetén visszafuvarozza, illessze be a következő szöveget: „A visszatérítést mindaddig visszatarthatjuk, amíg vissza nem kaptuk az árut, vagy Ön nem igazolta, hogy azt visszaküldte: a kettő közül a korábbi időpontot kell figyelembe venni.”
+
+## (5.....) Ha a fogyasztó a szerződés alapján árut vett át,
 
 ## a) az alábbiak közül illessze be a megfelelőt:
 
-## – „A terméket visszafuvarozzuk Öntől.”, vagy
+## – „Az árut visszafuvarozzuk Öntől.”, vagy
 
-## – „Ön köteles számunkra vagy .... [illessze be a termék átvételére Ön által feljogosított személy nevét és postai címét, ha van ilyen személy] számára a terméket indokolatlan késedelem nélkül, de legkésőbb elállási nyilatkozatának közlésétől számított 14 napon belül visszaküldeni vagy átadni. A határidő betartottnak minősül, ha a 14 napos határidő letelte előtt elküldi a terméket.”;
+## – „Ön köteles számunkra vagy .... [illessze be az áru átvételére Ön által feljogosított személy nevét és postai címét, ha van ilyen személy] számára az árut indokolatlan késedelem nélkül, de legkésőbb elállási nyilatkozatának közlésétől számított 14 napon belül visszaküldeni vagy átadni. A határidő betartottnak minősül, ha a 14 napos határidő letelte előtt elküldi az árut.”;
 
 ## és
 
 ## b) illessze be a megfelelőt:
 
-## ba) „A termék visszaküldésének költségeit mi viseljük.”, vagy
+## ba) „Az áru visszaküldésének költségeit mi viseljük.”, vagy
 
-## bb) „A termék visszaküldésének közvetlen költségét Ön viseli.”, vagy
+## bb) „Az áru visszaküldésének közvetlen költségét Ön viseli.”, vagy
 
-## bc) Távollévők között kötött szerződés esetében,ha Ön nem ajánlja fel a termék visszaküldési költségének viselését, és a termék jellegéből adódóan postai küldeményként nem adható fel: „A termék visszaküldésének közvetlen költségét – azaz... [illessze be az összeget] fuvarozási költséget – Ön viseli.”; vagy ha a termék visszaküldésének költségét ésszerűen nem lehet előre kiszámítani: „A termék visszaküldésének közvetlen költségét Ön viseli. E költségek legmagasabb becsült összege... [illessze be az összeget].”, vagy
+## bc) távollévők között kötött szerződés esetében, ha Ön nem ajánlja fel az áru visszaküldési költségének viselését, és az áru jellegéből adódóan postai küldeményként nem adható fel: „Az áru visszaküldésének közvetlen költségét – azaz ... [illessze be az összeget] fuvarozási költséget – Ön viseli.”; vagy ha az áru visszaküldésének költségét észszerűen nem lehet előre kiszámítani: „Az áru visszaküldésének közvetlen költségét Ön viseli. E költségek legmagasabb becsült összege ... [illessze be az összeget].”, vagy
 
-## bd) Ha üzlethelyiségen kívül kötött szerződés esetében a terméket a szerződés megkötésekor a fogyasztó otthonába fuvarozták és a termék jellegéből adódóan postai küldeményként nem adható fel: „A terméket saját költségünkön magunk fuvarozzuk vissza.”;
+## bd) Ha üzlethelyiségen kívül kötött szerződés esetében az árut a szerződés megkötésekor a fogyasztó otthonába fuvarozták és az áru jellegéből adódóan postai küldeményként nem adható fel: „Az árut saját költségünkön magunk fuvarozzuk vissza.”;
 
 ## és
 
-## c) illessze be az alábbiakat: „Ön kizárólag akkor vonható felelősségre a termékben bekövetkezett értékcsökkenésért, ha az a termék jellegének, tulajdonságainak és működésének megállapításához szükséges használatot meghaladó használat miatt következett be.”
+## c) illessze be az alábbiakat: „Ön kizárólag akkor vonható felelősségre az áruban bekövetkezett értékcsökkenésért, ha az az áru jellegének, tulajdonságainak és működésének megállapításához szükséges használatot meghaladó használat miatt következett be.”
 
-## (6.....) A szolgáltatás nyújtására irányuló szerződés esetében az alábbi szöveget illessze be: „Ha Ön kérte, hogy a felmondási határidőn belül kezdődjön meg a szolgáltatás teljesítése, felmondása esetén Ön köteles megtéríteni számunkra a szerződés megszűnésének időpontjáig arányosan teljesített szolgáltatásért járó összeget. Hasonlóképpen visszatérítjük az Ön által nyújtott ellenszolgáltatás azon részét, amely meghaladja az általunk nyújtott szolgáltatás ellenértékét.”
+## (6.....) A szolgáltatás nyújtására irányuló szerződés esetében az alábbi szöveget illessze be: „Ha Ön kérte, hogy a felmondási határidőn belül kezdődjön meg a szolgáltatás teljesítése, felmondása esetén Ön köteles megtéríteni számunkra a szerződés megszűnésének időpontjáig arányosan teljesített szolgáltatásért járó összeget. Hasonlóképpen visszatérítjük az Ön által nyújtott ellenszolgáltatás azon részét, amely meghaladja az általunk nyújtott szolgáltatás ellenértékét.
 
-2. melléklet a 45/2014. (II. 26.) Korm. rendelethez
+2. melléklet a 45/2014. (II. 26.) Korm. rendelethez[^80]
+
+[^80]: A 2. melléklet a 712/2020. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.

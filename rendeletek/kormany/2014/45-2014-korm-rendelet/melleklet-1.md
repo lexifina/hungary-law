@@ -1,5 +1,6 @@
-## 34. §[^19] A 2. § i) pontja az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló irányelvnek való megfelelést szolgálja.
+## 35. §[^78] Ez a rendelet a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 45/2014. (II. 26.) Korm. rendelethez
+1. melléklet a 45/2014. (II. 26.) Korm. rendelethez[^79]
 
-[^19]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 474/2017. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^78]: A 35. §-t a 712/2020. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^79]: Az 1. melléklet a 712/2020. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg.

@@ -8,25 +8,25 @@
 
 11. § (1) Üzlethelyiségen kívül kötött szerződés és távollévők között kötött szerződés megkötését megelőzően a vállalkozás köteles világosan és közérthető módon tájékoztatni a fogyasztót
 
-a) a szerződés szerinti termék vagy szolgáltatás lényeges tulajdonságairól, az adathordozónak és a terméknek vagy szolgáltatásnak megfelelő mértékben;
+a)[^31] a szerződés szerinti termék vagy szolgáltatás lényeges tulajdonságairól, az adathordozónak és a terméknek vagy szolgáltatásnak megfelelő mértékben;
 
 b) a vállalkozás nevéről;
 
-c) a vállalkozás székhelyének postai címéről, és – ha azzal rendelkezik – a telefonszámáról, a telefaxszámáról és az elektronikus levelezési címéről, továbbá annak a vállalkozásnak a nevéről és postai címéről, akinek a nevében eljár;
+c)[^32] a vállalkozás székhelyének postai címéről, telefonszámáról és elektronikus levelezési címéről, továbbá az arra vonatkozó tájékoztatást, ha a vállalkozás egyéb olyan online kommunikációs eszközre vonatkozó elérhetőséget is rendelkezésre bocsát, amely biztosítja a fogyasztó számára az adatok tartós adathordozón történő tárolását (beleértve a levelezés dátumát és időpontját is), valamint annak a vállalkozásnak a nevéről, postai címéről és azonosító adatairól, akinek a nevében eljár;
 
 d) a vállalkozás üzleti tevékenysége helyének postai címéről, és annak a vállalkozásnak a postai címéről, akinek a nevében eljár, akihez a fogyasztó a panaszait címezheti, ha e cím a c) pont szerint megadott címtől eltér;
 
-e) a szerződés szerinti termékért vagy szolgáltatásért járó ellenszolgáltatás adóval megnövelt teljes összegéről vagy – ha a termék vagy szolgáltatás jellegéből adódóan az ellenértéket nem lehet előre ésszerűen kiszámítani – annak számítási módjáról, valamint az ezen felül felmerülő valamennyi költségről (így különösen a fuvardíjról vagy a postaköltségről), vagy ha e költségeket nem lehet ésszerűen előre kiszámítani, annak a ténynek a feltüntetéséről, hogy további költségek merülhetnek fel;
+e)[^33] a szerződés szerinti termékért vagy szolgáltatásért járó ellenszolgáltatás adóval megnövelt teljes összegéről vagy – ha a termék vagy szolgáltatás jellegéből adódóan az ellenértéket nem lehet előre ésszerűen kiszámítani – annak számítási módjáról, valamint az ezen felül felmerülő valamennyi költségről (így különösen a fuvardíjról vagy a postaköltségről), vagy ha e költségeket nem lehet ésszerűen előre kiszámítani, annak a ténynek a feltüntetéséről, hogy további költségek merülhetnek fel;
 
 f) határozatlan időre szóló vagy előfizetést magában foglaló szerződés esetében arról, hogy az ellenszolgáltatás teljes összege a számlázási időszakra vonatkozó valamennyi költséget tartalmazza. Ha az ilyen szerződés átalánydíjas, arról, hogy az ellenszolgáltatás teljes összege egyúttal a teljes havi költséget is jelenti. Ha az összes költséget nem lehet előre kiszámítani, a fogyasztót tájékoztatni kell az ellenszolgáltatás összegének kiszámításának módjáról;
 
-g)[^10] a szerződés megkötéséhez alkalmazott, távollévők közötti kommunikációt lehetővé tévő eszköz használatának díjáról, ha azzal összefüggésben az elektronikus hírközlési szolgáltató által a hívó fél számára az előfizetői szerződésben meghatározott díjon felül további díj terheli a fogyasztót, vagy a telefonhívás, üzenetküldés emelt díjas szolgáltatás igénybevételével jár;
+g)[^34] a szerződés megkötéséhez alkalmazott, távollévők közötti kommunikációt lehetővé tévő eszköz használatának díjáról, ha azzal összefüggésben az elektronikus hírközlési szolgáltató által a hívó fél számára az előfizetői szerződésben meghatározott díjon felül további díj terheli a fogyasztót, vagy a telefonhívás, üzenetküldés emelt díjas szolgáltatás igénybevételével jár;
 
 h) a teljesítés feltételeiről, így különösen a fizetésről, a fuvarozásról és a teljesítési határidőről, valamint a vállalkozás panaszkezelési módjáról;
 
 i) a 20. § szerinti jog gyakorlásának határidejéről és egyéb feltételeiről (különösen a 22. §-ban foglaltakról), valamint a 2. melléklet szerinti nyilatkozat-mintáról;
 
-j) arról, hogy a 20. § szerinti jog gyakorlása esetén a termék visszaküldésének költségét a fogyasztónak kell viselnie, ha a vállalkozás nem vállalta e költség viselését, és – a távollévők között kötött szerződés esetében – a termék postai küldeményként nem küldhető vissza;
+j)[^35] arról, hogy a 20. § szerinti jog gyakorlása esetén a termék visszaküldésének költségét a fogyasztónak kell viselnie, ha a vállalkozás nem vállalta e költség viselését, és – a távollévők között kötött szerződés esetében – a termék postai küldeményként nem küldhető vissza;
 
 k) arról, hogy a fogyasztó a 26. § szerint köteles megtéríteni a vállalkozás ésszerű költségeit, ha a 13. § vagy a 19. § esetén a teljesítés megkezdését követően gyakorolja a 20. § szerinti felmondási jogát;
 
@@ -38,17 +38,17 @@ n) az értékesítés utáni ügyfélszolgálati és egyéb szolgáltatások, va
 
 o) arról, hogy rendelkezésre áll-e a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti magatartási kódex, illetve a magatartási kódexről történő másolatkérés módjáról;
 
-p)[^11] adott esetben a szerződés időtartamáról, és ha a szerződés határozatlan időre szól vagy a szerződés a határozott idő elteltét követően határozott időre meghosszabbodik vagy határozatlan idejűvé alakul át, a szerződés felmondásának feltételeiről;
+p)[^36] adott esetben a szerződés időtartamáról, és ha a szerződés határozatlan időre szól vagy a szerződés a határozott idő elteltét követően határozott időre meghosszabbodik vagy határozatlan idejűvé alakul át, a szerződés felmondásának feltételeiről;
 
-q)[^12]
+q)[^37] ha a szerződés szerinti áruért vagy szolgáltatásért járó ellenszolgáltatás automatizált döntéshozatal alapján a fogyasztó személyére szabott;
 
 r) a fogyasztó kötelezettségeinek szerződés szerinti legrövidebb időtartamáról;
 
 s) a fogyasztó által a vállalkozás kérésére fizetendő vagy biztosítandó letét vagy egyéb pénzügyi biztosíték nyújtásáról és annak feltételeiről;
 
-t) a digitális adattartalom működéséről, valamint az alkalmazandó műszaki védelmi intézkedésről;
+t)[^38] digitális elemeket tartalmazó áru, digitális tartalom és digitális szolgáltatás működéséről, valamint az alkalmazandó műszaki védelmi intézkedésről;
 
-u) a digitális adattartalom hardverrel és szoftverrel való együttműködési képességéről a vállalkozástól ésszerűen elvárható ismereteknek megfelelően;
+u)[^39] digitális elemeket tartalmazó áru, digitális tartalom és digitális szolgáltatás bármilyen vonatkozó kompatibilitásáról és interoperabilitásáról a vállalkozástól észszerűen elvárható ismereteknek megfelelően;
 
 v) a jogszabályi előírás vagy a vállalkozás döntése alapján a vállalkozásra nézve kötelező peren kívüli panaszkezelési mód és vitarendezési mechanizmus igénybevételének lehetőségéről, valamint az ehhez való hozzáférés módjáról;
 
@@ -66,6 +66,12 @@ w) a békéltető testülethez fordulás lehetőségéről, a vállalkozás szé
 
 (7) Az e §-ban meghatározott tájékoztatási kötelezettség teljesítésének bizonyítása a vállalkozást terheli.
 
-[^10]: A 11. § (1) bekezdés g) pontja a 107/2017. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^11]: A 11. § (1) bekezdés p) pontja a 453/2016. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^12]: A 11. § (1) bekezdés q) pontját a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^31]: [A 712/2020. (XII. 30.) Korm. rendelet 16. § 10. és 11. pontja által elrendelt módosítás, amely szerint a „termék”, szövegrész helyébe az „áru”, illetve a „terméknek” szövegrész helyébe az „árunak” szöveg lép, nem vezethető át.]
+[^32]: A 11. § (1) bekezdés c) pontja a 712/2020. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^33]: [A 712/2020. (XII. 30.) Korm. rendelet 16. § 12. és 13. pontja által elrendelt módosítás, amely szerint a „termékért”, szövegrész helyébe az „áruért”, illetve a „termék” szövegrész helyébe az „áru” szöveg lép, nem vezethető át.]
+[^34]: A 11. § (1) bekezdés g) pontja a 107/2017. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^35]: [A 712/2020. (XII. 30.) Korm. rendelet 16. § 14. pontja által elrendelt módosítás, amely szerint a „termék”, szövegrész helyébe az „áru” szöveg lép, nem vezethető át.]
+[^36]: A 11. § (1) bekezdés p) pontja a 453/2016. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^37]: A 11. § (1) bekezdés q) pontját a 453/2016. (XII. 19.) Korm. rendelet 5. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 712/2020. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^38]: A 11. § (1) bekezdés t) pontja a 712/2020. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^39]: A 11. § (1) bekezdés u) pontja a 712/2020. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
