@@ -22,7 +22,7 @@ i) nemzetközi kapcsolatokat épít más országok hasonló testületeivel.
 
 3. A Tanács az elnökön, a társelnökön és a titkáron felül 11 tagból áll.
 
-4. A Tanács elnöke – a Tanács szavazati joggal bíró tagjaként – az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által felkért személy. A Tanács társelnöke – a Tanács szavazati joggal bíró tagjaként – a Nemzeti Állatvédelmi Program megújításáért és végrehajtásáért felelős miniszteri biztos. A Tanács titkára – a Tanács szavazati joggal bíró tagjaként – a miniszter által az általa vezetett minisztérium állományából kijelölt személy.
+4.[^1] A Tanács elnöke – a Tanács szavazati joggal bíró tagjaként – az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által felkért személy. A Tanács társelnöke – a Tanács szavazati joggal bíró tagjaként – az állatvédelmi cselekvési terv kidolgozásáért és végrehajtásáért felelős kormánybiztos. A Tanács titkára – a Tanács szavazati joggal bíró tagjaként – a miniszter által az általa vezetett minisztérium állományából kijelölt személy.
 
 5. A Tanács szavazati joggal bíró tagjai:
 
@@ -78,10 +78,11 @@ d) a kijelölés, megbízatás alapjául szolgáló jogviszony megszűnésével.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13.[^1]
+13.[^2]
 
 14. Az Országos Állatvédelmi és Állatjóléti Tanács tagjainak megbízatása megszűnik.
 
 15. A Tanács elnökét, társelnökét, titkárát és az 5. pont a) alpontja szerinti tagját a miniszter kéri fel, az 5. pont b)–i) alpontja szerinti szervezetek vezetőit a miniszter hívja fel a Tanács tagjának kijelölése érdekében, úgy, hogy a Tanács alakuló ülése 2021. április 15-ig megvalósuljon.
 
-[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pont az 1271/2022. (V. 27.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
