@@ -1,0 +1,1 @@
+15. § A Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szervek azon körét, melynek foglalkoztatottjai nem vonhatóak vizsgálat alá, az 1. melléklet határozza meg.

@@ -1,0 +1,1 @@
+13. § Ha a vizsgálat határidejének meghosszabbítására kerül sor, a vizsgálat határidejének meghosszabbításáról szóló határozat tartalmazza azokat a körülményeket, amelyek a vizsgálat határidejének meghosszabbítását indokolják, valamint a vizsgálat meghosszabbított határidejét.
