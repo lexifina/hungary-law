@@ -1,7 +1,3 @@
-## 2. § A Rendelet a következő 1/A. §-sal egészül ki:
+## 2. §[^3]
 
-## „1/A. § (1) Az e rendeletben foglaltak megtartását – az 1. § (3) bekezdésében foglaltak kivételével – a bányafelügyelet ellenőrzi. A bányafelügyelet az ellenőrzés során a hatásköre gyakorlásának keretei között az ellenőrzéshez szükséges területre, építménybe és egyéb létesítménybe beléphet, ott az ellenőrzés tárgyával összefüggő bármely iratot, hatósági igazolványt, bizonyítványt, engedélyt, tárgyat vagy munkafolyamatot megvizsgálhat, az ügyféltől vagy képviselőjétől, továbbá az ellenőrzés helyszínén tartózkodó bármely más személytől adatot és tájékoztatást kérhet, az ügyfelet nyilatkozat tételére hívhatja fel, a helyszínről, a megszemlélt tárgyakról, folyamatokról kép- és hangfelvételt készíthet, mintavételt eszközölhet, továbbá egyéb bizonyítást folytathat le.
-
-## (2) A bányafelügyelet az ellenőrzés során a tényállás tisztázása szempontjából fontos iratot és más tárgyi bizonyítékot lefoglalhatja. A hatósági ellenőrzés során lefoglalt iratot és tárgyi bizonyítékot nyolc napon belül vissza kell adni az ügyfélnek, ha arra a tényállás tisztázásához a továbbiakban nincs szükség.
-
-## (3) Ha a kiegészítő bányajáradék megfizetésére kötelezett az 1. § (5) bekezdése szerinti önbevallási, illetve a kiegészítőbányajáradék-fizetési kötelezettségének nem tesz eleget, vagy a kötelezettségét hibásan teljesíti, a bányafelügyelet – az 1. § (5a) bekezdésében foglaltakon túl – közigazgatási bírságot szab ki, és a meg nem fizetett kiegészítő bányajáradék megfizetésére kötelezi. A bírság mértéke a meg nem fizetett kiegészítő bányajáradék összegének legalább 10%-a, de legfeljebb 40%-a. Figyelmeztetés közigazgatási szankció alkalmazásának nincs helye.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
