@@ -1,3 +1,3 @@
-## 5. § A 94/2022. (III. 10.) Korm. rendelet a következő 2/A. §-sal egészül ki:
+## 5. §[^5]
 
-## „2/A. § Felhatalmazást kap a külpolitikáért felelős miniszter, hogy az 1. § (1b) bekezdés szerinti országok listáját rendeletben állapítsa meg.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
