@@ -28,4 +28,6 @@ b) részt vesz a feladatához kapcsolódó kormányzati egyeztetéseken.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-9. Hatályát veszti a kormánybiztos kinevezéséről és feladatairól szóló 1731/2021. (X. 14.) Korm. határozat.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
