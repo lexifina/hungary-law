@@ -24,4 +24,6 @@ b) a kormány tagjaival és az állatvédelemmel foglalkozó civil szervezetekke
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. A Nemzeti Állatvédelmi Tanácsról szóló 1124/2021. (III. 12.) Korm. határozat 4. pontjában az „a Nemzeti Állatvédelmi Program megújításáért és végrehajtásáért felelős miniszteri biztos” szövegrész helyébe az „az állatvédelmi cselekvési terv kidolgozásáért és végrehajtásáért felelős kormánybiztos” szöveg lép.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
