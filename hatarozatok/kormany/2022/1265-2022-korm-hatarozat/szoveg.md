@@ -24,4 +24,6 @@ c) az érintett állami szervek vezetői részére intézkedés megtételét jav
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti a gazdasági versenyképesség jogi feltételrendszerének erősítését célzó intézkedésekkel összefüggő feladatok ellátásáért felelős kormánybiztos kinevezéséről szóló 1242/2021. (V. 6.) Korm. határozat.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
