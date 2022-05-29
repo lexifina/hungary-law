@@ -34,4 +34,6 @@ g) közreműködik a Térség megtartóerejének növelését elősegítő köz�
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
-12. Hatályát veszti a Tokaj-Zemplén térség fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1421/2020. (VII. 20.) Korm. határozat.
+12.[^2]
+
+[^2]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
