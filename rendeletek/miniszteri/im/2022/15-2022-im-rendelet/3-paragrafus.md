@@ -1,3 +1,3 @@
-## 2. § Az R. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(4) Az átmeneti támogatásról támogatási döntés 2022. június 30-ig hozható.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
