@@ -1,1 +1,0 @@
-## „(3) Az (1) bekezdés a)–c) és e) pontjában meghatározott esetekben a fogyasztó gyakorolhatja a 20. § szerinti jogát, ha a szerződést a kereskedelemről szóló törvényben meghatározott üzleten kívüli kereskedés vagy az árubemutatóval egybekötött termékértékesítés keretében kötötte meg.”

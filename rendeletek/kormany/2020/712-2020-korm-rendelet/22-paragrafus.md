@@ -1,4 +1,4 @@
-## 21. §[^4]
+## 21. §[^6]
 
 ## 5. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Az 1–17. § 2022. május 28-án lép hatályba.
 
-[^4]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
