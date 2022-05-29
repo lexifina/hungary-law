@@ -34,4 +34,6 @@ c) valamennyi, a fejlesztésekkel érintett állami, önkormányzati és civil s
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-11. Hatályát veszti az Északkelet-magyarországi Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1566/2020. (IX. 4.) Korm. határozat.
+11.[^1]
+
+[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
