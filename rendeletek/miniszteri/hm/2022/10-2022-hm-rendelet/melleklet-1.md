@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti a Magyar Honvédség Öltözködési Szabályzatának kiadásáról szóló 9/2005. (III. 30.) HM rendelet.
+## 4. §[^1]
 
 1. melléklet a 10/2022. (IV. 28.) HM rendelethez
 
@@ -3637,3 +3637,5 @@ viselendő.
 54. A kötött téli kesztyű
 
 237. A kötött téli kesztyű – mind a kihordás alatt lévő 90 M és 2000 M általános, a 93 M ejtőernyős és repülőszerelő, repülőműszaki, mind a 15 M gyakorló öltözetekhez – 2025. december 31-ig viselhető.
+
+[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
