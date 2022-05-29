@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-246-20-
 | 2021-08-11 | 2021-246-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-08-12 | 2021-246-20-22.4 | 2010: CXXX. törvény |
 | 2022-05-28 | 2021-246-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-05-29 | 2021-246-20-22.6 | 2010: CXXX. törvény |
