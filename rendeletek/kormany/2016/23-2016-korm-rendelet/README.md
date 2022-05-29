@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-23-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-02-26 | 2016-23-20-22.1 | 23/2016. (II. 25.) Korm. rendelet |
+| 2022-05-29 | 2016-23-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
