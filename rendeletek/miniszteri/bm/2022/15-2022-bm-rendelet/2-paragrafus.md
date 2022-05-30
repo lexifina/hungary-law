@@ -1,1 +1,3 @@
-## „(3) Az 1. melléklet I. Fejezet 6.19. pontjában foglalt követelményeket meglévő technológiai létesítmény átalakításánál, bővítésénél, módosításánál nem kell alkalmazni.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
