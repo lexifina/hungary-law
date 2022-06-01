@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-271-20-
 | 2021-05-26 | 2021-271-20-22.4 | 2010: CXXX. törvény |
 | 2021-06-08 | 2021-271-20-22.5 | 309/2021. (VI. 7.) Korm. rendelet |
 | 2021-06-19 | 2021-271-20-22.6 | 345/2021. (VI. 18.) Korm. rendelet |
+| 2022-06-01 | 2021-271-20-22.7 | 345/2021. (VI. 18.) Korm. rendelet |
