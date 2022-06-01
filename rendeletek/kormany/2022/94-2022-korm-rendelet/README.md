@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-94-20-2
 | 2022-03-24 | 2022-94-20-22.3 | 2021. évi I. törvény |
 | 2022-05-27 | 2022-94-20-22.4 | 186/2022. (V. 26.) Korm. rendelet |
 | 2022-05-29 | 2022-94-20-22.5 | 186/2022. (V. 26.) Korm. rendelet |
+| 2022-06-01 | 2022-94-20-22.6 | 2021. évi I. törvény |
