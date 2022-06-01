@@ -212,19 +212,7 @@ C)[^34] Központi hivatalok
 
 1.6. a közbeszerzési és EU pályázati eljárásban részt vevő foglalkoztatottak
 
-2.[^35] Országos Kórházi Főigazgatóság
-
-2.1. a főigazgatói hivatalvezető
-
-2.2. az igazgató
-
-2.3. a főigazgatói titkárság vezetője
-
-2.4. a Humánerőforrás Irányítási és Nyilvántartási Főosztály vezetője
-
-2.5. a közbeszerzési feladatokat ellátó szervezeti egység vezetője
-
-2.6. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely
+2.[^35]
 
 D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
@@ -296,7 +284,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^32]: Az 1. melléklet B) rész 3. pont 3.14. alpontját a 40/2017. (XII. 29.) BM rendelet 10. §-a iktatta be.
 [^33]: Az 1. melléklet B) pont 4. alpontját a 20/2019. (V. 15.) BM rendelet 5. §-a iktatta be.
 [^34]: Az 1. melléklet C) része a 40/2019. (XI. 19.) BM rendelet 3. §-ával megállapított szöveg.
-[^35]: Az 1. melléklet C) rész 2. pontját a 36/2021. (X. 27.) BM rendelet 2. §-a iktatta be.
+[^35]: Az 1. melléklet C) rész 2. pontját a 36/2021. (X. 27.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 3. §-a.
 [^36]: Az 1. melléklet D) rész 1. pontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
 [^37]: Az 1. melléklet d) pont 2. alpontja a 18/2020. (VI. 30.) BM rendelet 9. §-a szerint módosított szöveg.
 [^38]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
