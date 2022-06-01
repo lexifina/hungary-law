@@ -4,7 +4,7 @@
 
 8/A. §[^58] (1) A továbbképzés során a jóváhagyott, az alapítási engedéllyel rendelkező program megnevezése, a program teljesítésére meghatározott összes óraszám, a program célja és teljesítésének tartalmi követelményei nem változtathatók meg.
 
-(2)[^59]
+(2)[^59] Országosan terjedő járvány vagy más, az ország egész területét érintő rendkívüli esemény időszakában a Hivatal – honlapján közzétett – döntése alapján a pedagógus-továbbképzés az alapítási engedély módosítása nélkül is megszervezhető személyes jelenlétet nem igénylő, online formában, ha a képzés jellege alapján az előírt követelmények így is teljesíthetők.
 
 (3)[^60] A továbbképzés szervezője a sorszámozott tanúsítványok kiadásáról vezetett nyilvántartást, a továbbképzési naplót, a jelenléti ívet, az ismeretek számonkéréséről szóló jegyzőkönyvet és a záródolgozatokat öt évig megőrzi. A továbbképzés szervezője a program befejezését követően harminc napon belül – az alapítási engedély hatályának megszűnéséig – a honlapján nyilvánosságra hozza a program résztvevőinek a program tartalmával és lebonyolításával kapcsolatos elégedettségéről szóló összesítést.
 
@@ -48,7 +48,7 @@ b) gyakorlati foglalkozást az tarthat, aki az adott ismeretek körében legalá
 
 [^57]: A 8/A. §-t megelőző alcímet a 185/1999. (XII. 13.) Korm. rendelet 5. §-a iktatta be, szövege a 346/2013. (IX. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^58]: A 8/A. §-t a 185/1999. (XII. 13.) Korm. rendelet 5. §-a iktatta be, szövege a 93/2009. (IV. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^59]: A 8/A. § (2) bekezdését a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte.
+[^59]: A 8/A. § (2) bekezdését a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte, újonnan a 195/2022. (V. 27.) Korm. rendelet 18. §-a iktatta be.
 [^60]: A 8/A. § (3) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^61]: A 8/A. § (4) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^62]: A 8/A. § (4a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 9. § (3) bekezdése iktatta be.
