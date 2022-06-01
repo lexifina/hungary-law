@@ -1,0 +1,5 @@
+13. § (1) Az oltópont működtetője a 12. § (2) bekezdésében szereplő adatokat felveszi, és azokat az EESZT-ben történő rögzítés céljából az oltópont helye szerint illetékes kormányablaknak átadja. A kormányablak a 12. § (2) bekezdésében szereplő adatokat az EESZT-ben rögzíti, és azokat az EESZT működtetője részére átadja.
+
+(2) Az EESZT működtetője az oltottság adatai rögzítésének érdekében a jogosult számára az EESZT-ben az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 35/F. § (1) bekezdés a) pontja szerinti azonosítót (ezen alcím alkalmazásában a továbbiakban: technikai azonosító) hoz létre, amelyhez a jogosult 12. § (2) bekezdése szerinti adatait hozzárendeli. Az EESZT működtetője a jogosultra vonatkozó technikai azonosítót, valamint a jogosult 12. § (2) bekezdése szerinti adatait a Nemzeti Egészségbiztosítási Alapkezelő részére átadja.
+
+(3) A Nemzeti Egészségbiztosítási Alapkezelő a technikai azonosítót a járványügyi feladatai ellátása érdekében kezeli és továbbítja az oltást végző egészségügyi szolgáltatónak.

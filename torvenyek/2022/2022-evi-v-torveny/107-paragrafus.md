@@ -1,0 +1,1 @@
+107. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 154. § (1) bekezdés f) pontjában az „a fővárosi” szövegrész helyébe az „a Nemzeti Népegészségügyi Központnál, a fővárosi” szöveg lép.

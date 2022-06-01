@@ -1,0 +1,3 @@
+62. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/M. §-sal egészül ki:
+
+„111/M. § A veszélyhelyzet ideje alatt támogató által a támogatási szerződésben, támogatói okiratban kikötött biztosíték rendelkezésre állását a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztését követő 30 napon belül kell biztosítani azzal, hogy ha azt nem az államháztartási jogszabályoknak és a támogató által előírtaknak megfelelően biztosítja a kedvezményezett, a támogató az e törvény végrehajtására kiadott kormányrendelet szerint jogosult a támogatás visszavonásáról rendelkezni.”

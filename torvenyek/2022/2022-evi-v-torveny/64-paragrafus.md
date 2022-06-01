@@ -1,0 +1,3 @@
+64. § A munka törvénykönyvéről szóló 2012. évi I. törvény 298. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak és minősített kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó és a minősített kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.”

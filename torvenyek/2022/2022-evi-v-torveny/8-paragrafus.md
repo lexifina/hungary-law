@@ -1,0 +1,7 @@
+## 7. Egyes szabályozott szakmák folytatásával összefüggő eltérő szabályok
+
+8. § (1) Ha önálló szabályozó szerv eljárásában a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 28. § (3) bekezdése szerinti szabályozott szakmának minősülő tevékenység (a továbbiakban: szabályozott szakma) folytatására vonatkozó jogosultság időtartamának meghosszabbítására, folyamatosságának megállapítására irányuló kérelem benyújtására jogszabályban előírt határidő kezdőnapja a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet idejére esett, a kérelem legkorábban a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 180. napon, de legkésőbb a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 210. napon terjeszthető elő.
+
+(2) Az (1) bekezdés szerinti kérelem alapján indult közigazgatási hatósági eljárásban sommás eljárásnak és az eljárás szünetelésének nincs helye.
+
+(3) Ha a szabályozott szakma folytatására vonatkozó jogosultság időtartama a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 120. napon vagy a 120. napot megelőzően jár le, a szabályozott szakma a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 210. napig vagy a szabályozott szakma folytatására vonatkozó jogosultság időtartamának meghosszabbítására, folyamatosságának megállapítására irányuló kérelem benyújtása esetén a döntés véglegessé válásáig gyakorolható, ha a szabályozott szakma folytatására vonatkozó jogosultság ezt megelőzően egyéb ok miatt nem szűnik meg.

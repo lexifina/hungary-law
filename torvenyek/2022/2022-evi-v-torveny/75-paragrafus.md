@@ -1,0 +1,3 @@
+75. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 17. alcíme a következő 99/E. §-sal egészül ki:
+
+„99/E. § E törvénynek a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény hatálybalépését megelőző napon hatályos 82/A. §-a és 82/B. §-a alapján a 2020. július 1-je és a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény hatálybalépése közötti időszakra járó árvák kiegészítő támogatását utólag, egy összegben, miniszteri rendeletben meghatározottak szerint kell megállapítani és folyósítani, és 2022. december 31-ig, de legkésőbb a jogosultság jogerős megállapítását követő 60. napig kell kifizetni.”

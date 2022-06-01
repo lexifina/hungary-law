@@ -1,0 +1,3 @@
+93. § A pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény 15. alcíme a következő 26/A. §-sal egészül ki:
+
+„26/A. § A 19. § (1) bekezdés e) pontja szerinti adatot is tartalmazó adatszolgáltatást a nyilvántartásban már szereplő széfszolgáltatási szerződésekhez kapcsolódóan a számlavezetők első alkalommal a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény hatálybalépését követő 180 napon belül teljesítik a nyilvántartó szerv felé. Az ezt követő változások bejelentésére a 19. § (3) bekezdésében foglaltak az irányadók.”

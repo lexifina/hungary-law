@@ -1,0 +1,1 @@
+Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus okozta tömeges megbetegedést okozó humánjárvány megelőzésére, illetve következményeinek elhárítására a veszélyhelyzet idején tett rendkívüli intézkedésekkel összefüggő szabályozási környezetet biztosítsa, szem előtt tartva különösen a jogbiztonság érvényesülésének követelményét, a következő törvényt alkotja:
