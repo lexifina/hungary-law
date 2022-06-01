@@ -44,7 +44,7 @@ cd) előállítása során keletkezett veszteséget;
 
 d) a borászati terméktételhez kapcsolódó must származási bizonyítványok és első származási bizonyítványok számát az érintett mennyiség megjelölésével;
 
-e) a borászati terméktételen végrehajtott borászati eljárásokat a 14. melléklet 1–4. pontjában meghatározott sorszám megadásával.
+e)[^4] a borászati terméktételen végrehajtott borászati eljárásokat a 14. melléklet szerint, az abban meghatározott sorszám megadásával.
 
 (2) A végső származási bizonyítvány kiállítása iránti kérelemhez mellékelni kell a szakmai-jövedéki nyilvántartásnak a forgalomba hozni kívánt borászati terméktételre vonatkozó részét.
 
@@ -69,3 +69,5 @@ b) az évjárat összetételt,
 c) a származási országot és
 
 d) az összes alkoholtartalmat.
+
+[^4]: A 37. § (1) bekezdés e) pontja a 70. § (4) bekezdésével megállapított szöveg.

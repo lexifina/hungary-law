@@ -1,141 +1,45 @@
 ## 17. Az első származási bizonyítvány, a must származási bizonyítvány és a termelési jelentés
 
-23. § (1) A Kormányrendelet 37. § (1) bekezdése szerinti, borászati termék származási bizonyítvány kiállítása iránti kérelem az Ákr. szerinti adatokon túlmenően tartalmazza
+23. §[^2] (1) A Kormányrendelet 37. § (1) bekezdés a) pontja szerinti első származási bizonyítvány iránti kérelem, valamint a Kormányrendelet 37. § (1) bekezdés b) pontja szerinti must származási bizonyítvány iránti kérelem az Ákr.-ben meghatározott adatokon túlmenően tartalmazza
 
-a) a termelő, illetve a felvásárló gazdasági akta számát;
+a) a borászati üzemengedélyes
 
-b) a borászati termék
+aa) gazdasági akta számát,
 
-ba) évjáratát,
+ab) FELIR azonosítóját és
 
-bb) nevét,
+ac) NÉBIH tevékenység-azonosítóját;
 
-bc) termékkategóriáját,
+b) az előállítás szüreti bejegyzés adatai alapján számított borpiaci évét;
 
-bd) tárolási helyének adóraktári számát vagy a kisüzemi bortermelő borászati üzemengedélyének számát,
+c) a borászati termék
 
-be) színét,
+ca) termékkategóriáját a must származási bizonyítvány iránti kérelem esetén,
 
-bf) származási országát és
+cb) színét,
 
-bg) mennyiségét;
+cc) származási országát, és
 
-c) a borászati terméken elvégzett művelet tényét
+cd) mennyiségét;
 
-ca) az alkoholtartalom növelése,
+d) a borászati termék szüreti bejegyzés adatai alapján
 
-cb) az édesítés,
+da) számított összes alkoholtartalmát,
 
-cc) a savtartalom növelése, illetve
+db) megállapított fajtaösszetételét és
 
-cd) a savtartalom csökkentése
+dc) megállapított legmagasabb eredetvédelmi kategóriáját;
 
-esetén;
+e) a borászati terméken végzett borászati eljárásokat a 14. melléklet szerint, az abban meghatározott sorszám megadásával;
 
-d) a borászati termék származási bizonyítvány kérelmezésének célját;
+f) a borászati termékkel összefüggő szüreti bejegyzések és must származási bizonyítványok azonosítóját és az azokból a borászati termék előállításához felhasznált szőlő és borászati termék mennyiségét, szüreti bejegyzés hiányában a 18. § (7) bekezdésében foglalt adatokat;
 
-e) a borászati termék készítéséhez felhasznált, bevonandó szüreti bejegyzés igazolással rendelkező szőlő
+g) az első származási bizonyítvány kérelmezéséig keletkezett, a szakmai-jövedéki nyilvántartásban rögzített veszteséget, ha történt ilyen bejegyzés; valamint
 
-ea) szüreti bejegyzés igazolásának számát,
+h) a szakmai-jövedéki nyilvántartásnak a kérelemben érintett borászati terméktételre vonatkozó részét.
 
-eb) legmagasabb földrajzi árujelző kategóriáját,
+(2) Az első származási bizonyítványt a hegybíró az (1) bekezdés szerinti tartalommal vagy a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 9. § (4) bekezdése szerinti igazolás tartalmával adja ki.
 
-ec) potenciális alkoholtartalmát és
+(3) A termelési jelentés az (1) bekezdés c)–g) pontjában meghatározott adatokat borászati terméktételenként tartalmazza.
 
-ed) mennyiségét mázsában kifejezve;
-
-f) ha a származási bizonyítvány kérelmezésének célja nem első bor származási bizonyítvány kiállítása, a borászati termék
-
-fa) készítéséhez felhasznált tirázs vagy expedíciós likőr mennyiségét és összes alkoholtartalmát, és
-
-fb) készítése során keletkezett melléktermék és veszteség mennyiségét;
-
-g) ha a származási bizonyítvány kérelmezésének célja nem első bor származási bizonyítvány, akkor a bevonandó származási bizonyítvánnyal rendelkező borászati termék
-
-ga) származási bizonyítványának, és ha rendelkezik vele, forgalombahozatali azonosítójának számát,
-
-gb) termékkategóriáját,
-
-gc) alkoholtartalmát és
-
-gd) mennyiségét hektoliterben kifejezve; valamint
-
-h) ha a származási bizonyítványt a forgalombahozatali azonosító kiadása céljából kérelmezik, akkor a borászati termék kiszerelésén feltüntetni kívánt
-
-ha) földrajzi árujelzőt,
-
-hb) hagyományos kifejezéseket,
-
-hc) előállítási eljárásra utaló kifejezéseket,
-
-hd) egyéb korlátozottan használható kifejezéseket, illetve
-
-he) édességi kategória megnevezést.
-
-(2) A Kormányrendelet 37. § (1) bekezdése szerint kiadott borászati termék származási bizonyítványon kizárólag a HEGYIR-ben rögzített adatok szerepelhetnek. A származási bizonyítvány tartalmazza az Ákr. szerinti adatokon túlmenően
-
-a) a termelő, illetve a felvásárló, vagy az eladó és a vevő gazdasági akta számát;
-
-b) a borászati termék
-
-ba) évjáratát,
-
-bb) nevét,
-
-bc) termékkategóriáját,
-
-bd) tárolási helyének adóraktári számát vagy a kisüzemi bortermelő borászati üzemengedélyének számát,
-
-be) színét,
-
-bf) származási országát,
-
-bg) mennyiségét,
-
-bh) szőlőfajtáit és
-
-bi) összes alkoholtartalmát;
-
-c) a borászati terméken elvégzett művelet tényét
-
-ca) az alkoholtartalom növelése,
-
-cb) az édesítés,
-
-cc) a savtartalom növelése, illetve
-
-cd) a savtartalom csökkentése
-
-esetén;
-
-d) ha a származási bizonyítványt nem a forgalombahozatali azonosító igénylésének céljából adják ki, akkor a borászati terméken potenciálisan jelölhető
-
-da) földrajzi árujelzőket,
-
-db) évjáratot és
-
-dc) szőlőfajta neveket;
-
-e) a bevont szüreti bejegyzés igazolás, származási bizonyítvány vagy forgalombahozatali azonosító
-
-ea) számát és
-
-eb) alapjául szolgáló termék nevét, összes alkoholtartalmát, és mennyiségét; valamint
-
-f) ha a származási bizonyítványt a forgalombahozatali azonosító igénylésének céljából adják ki, akkor a borászati terméken jelölhető
-
-fa) földrajzi árujelzőt,
-
-fb) 8. melléklet szerinti, hagyományos és kiegészítő hagyományos kifejezéseket, valamint egyéb korlátozottan használható kifejezéseket,
-
-fc) édességi kategória megnevezést,
-
-fd) a földrajzi árujelző termőterületénél kisebb földrajzi egységek neveit,
-
-fe) a földrajzi árujelző termékleírásában (a továbbiakban: termékleírás) foglalt egyéb kifejezéseket,
-
-ff) évjáratot, illetve
-
-fg) szőlőfajta neveket.
-
-(3) A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 9. § (4) bekezdése szerinti igazolást a kísérőokmány kinyomtatott eredeti példánya és szükség szerint az oltalom alatt álló eredetmegjelölést vagy földrajzi jelzést tanúsító okmány hivatalos fordításának mellékelésével kell kérelmezni. Az igazolás tartalmazza a (2) bekezdés a)–e) pontja szerinti adatokat.
+[^2]: A 23. § a 70. § (2) bekezdésével megállapított szöveg.

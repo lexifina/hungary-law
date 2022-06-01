@@ -12,6 +12,8 @@ b) a kiszerelés során biztosított a borászati üzemmel való közvetlen kapc
 
 a) a forgalombahozatali azonosítóval rendelkező borászati termékek belföldi szállítása során kísérőokmányként használható számlának,
 
-b) a szőlő szállítása során a kísérőokmány helyettesítésére használt, a Kormányrendelet 29. §-a szerinti szüreti bejegyzés igazolásnak
+b)[^3] szőlő szállítása során a kísérőokmány helyettesítésére használt, a Kormányrendelet 28. § (3) bekezdése szerinti szüret bejelentő lapnak vagy (4) bekezdése szerinti felvásárlási űrlapnak
 
 tartalmaznia kell a kísérőokmány kötelező adatait.
+
+[^3]: A 35. § (3) bekezdés b) pontja a 70. § (3) bekezdésével megállapított szöveg.

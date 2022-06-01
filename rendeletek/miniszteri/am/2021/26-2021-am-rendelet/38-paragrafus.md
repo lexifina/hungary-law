@@ -1,6 +1,6 @@
 ## 25. Az analitikai és érzékszervi vizsgálatok megrendelése és a szükséges minták biztosítása
 
-38. § (1) A borászati terméktétel analitikai, illetve érzékszervi vizsgálatára vonatkozó, a végső származási bizonyítványt kiállító hegybíró által megküldött formanyomtatványon történő megrendelés tartalmazza legalább
+38. § (1)[^5] A borászati terméktétel analitikai, illetve érzékszervi vizsgálatára vonatkozó megrendelés tartalmazza
 
 a) a borászati terméktétel
 
@@ -38,13 +38,7 @@ hc) a laboratórium által használt módszereket megismerte és elfogadja.
 
 (2) A borászati terméktétel analitikai vizsgálatát a Kormányrendelet 48. § (1) bekezdésében meghatározott vizsgálatot végző laboratóriumtól közvetlenül kell megrendelni.
 
-(3) A borászati terméktétel érzékszervi vizsgálatára vonatkozó megrendelés iránti kérelem
-
-a) a vizsgálatot végző földrajzi árujelző borbíráló bizottság (a továbbiakban: FBB) vagy az OBB titkárához vagy
-
-b) a NÉBIH részére
-
-nyújtható be.
+(3)[^6] A borászati terméktétel érzékszervi vizsgálatát a vizsgálatot végző földrajzi árujelző borbíráló bizottság (a továbbiakban: FBB) vagy az OBB titkárától kell megrendelni.
 
 (4) A borászati terméket közfogyasztásra forgalomba hozni kívánó személy (a továbbiakban: forgalomba hozó)
 
@@ -75,3 +69,6 @@ e) a forgalomba hozó ellenmintára vonatkozó igényét.
 (9) A vizsgálatra átadott mintához mellékelni kell a mintavételről készített jegyzőkönyvet.
 
 (10) A minta kizárólag a földrajzi árujelzőt kezelő hegyközségi szervezeten keresztül küldhető meg analitikai és érzékszervi vizsgálatra, ha ezt a földrajzi árujelzőt kezelő hegyközségi szervezet vagy a termékleírás előírja.
+
+[^5]: A 38. § (1) bekezdés nyitó szövegtrésze a 70. § (5) bekezdésével megállapított szöveg.
+[^6]: A 38. § (3) bekezdése a 70. § (6) bekezdésével megállapított szöveg.

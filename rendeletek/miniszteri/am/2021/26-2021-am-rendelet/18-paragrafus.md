@@ -1,45 +1,147 @@
 ## 13. A szüret és a szüreti bejegyzés
 
-18. § (1) A Kormányrendelet 28. §-a szerinti szüret bejegyzése iránti kérelem tartalmazza
+18. §[^1] (1) A Kormányrendelet 28. § (3) bekezdése és 30. § (2) bekezdése szerinti szüret bejelentő lapon, valamint a Kormányrendelet 28. § (4) bekezdése szerinti felvásárlási űrlapon a hegybíró megadja az Ákr.-ben meghatározott adatokon túlmenően
 
-a) az ültetvény használójának, a nem feldolgozó felvásárlónak, a feldolgozó szövetkezetnek, illetve, ha nem azonos az ültetvény használójával, a feldolgozó borászati üzemnek
+a) az ültetvény használójának
+
+aa) gazdasági akta számát,
+
+ab) FELIR azonosítóját és
+
+ac) NÉBIH tevékenység-azonosítóját;
+
+b) a szőlőültetvény vagy ültetvényrész beazonosításához szükséges adatokat; valamint
+
+c) a szüret borpiaci évét.
+
+(2) A Kormányrendelet. 28. § (5) bekezdése szerinti bejelentés tartalmazza az Ákr.-ben meghatározott adatokon túlmenően
+
+a) az ültetvény használójának
+
+aa) gazdasági akta számát,
+
+ab) FELIR azonosítóját és
+
+ac) NÉBIH tevékenység-azonosítóját;
+
+b) a szőlőtermés felvásárlójának
+
+ba) gazdasági akta számát,
+
+bb) FELIR azonosítóját és
+
+bc) NÉBIH tevékenység-azonosítóját;
+
+c) a módosítás előtt a szerződésben megjelölt szőlőültetvény vagy ültetvényrész beazonosításához szükséges adatokat;
+
+d) a módosult felvásárlási szerződést; valamint
+
+e) a módosult felvásárlási szerződésben megjelölt ültetvényhez vagy ültetvényrészhez megküldött szüret bejelentő lapokat és felvásárlási űrlapokat.
+
+(3) A Kormányrendelet 28. § (6) bekezdése szerinti nyilatkozat tartalmazza
+
+a) az ültetvény használójának
 
 aa) a nevét,
 
-ab) a gazdasági akta számát, és
+ab) gazdasági akta számát,
 
-ac) a címét;
+ac) FELIR azonosítóját és
 
-b) a szürettel érintett szőlőültetvény
+ad) NÉBIH tevékenység-azonosítóját;
 
-ba) helyét (ország, irányítószám, település, dűlő, hrsz.), és
+b) a szőlőültetvény beazonosításához szükséges adatokat;
 
-bb) területnagyságát;
+c) az ültetvényrészek méretét, valamint az ültetvényben való elhelyezkedésük meghatározását; valamint
 
-c) a szüretelt szőlő
+d) a felosztással érintett ültetvényhez vagy ültetvényrészhez megküldött szüret bejelentő lapokat és felvásárlási űrlapokat.
 
-ca) fajtáját,
+(4) A Kormányrendelet 29. § (2) bekezdése szerinti nyilatkozat tartalmazza
 
-cb) szüretének módját,
+a) a felvásárló
 
-cc) potenciális alkoholtartalmát,
+aa) nevét,
 
-cd) szüretének időpontját,
+ab) gazdasági akta számát,
 
-ce) felhasználásával készíthető borászati termék legmagasabb eredetvédelmi kategóriáját,
+ac) FELIR azonosítóját és
 
-cf) felhasználását,
+ad) NÉBIH tevékenység-azonosítóját; valamint
 
-cg) mennyiségét mázsában kifejezve,
+b) a szüret bejelentő lap azonosítóját.
 
-ch) felvásárlása esetén a nettó felvásárlási árát, és
+(5) A Kormányrendelet 30. § (1) bekezdése szerinti tájékoztatás tartalmazza
 
-ci) arra vonatkozó jelölését, hogy a szőlőszemek aszú készítésére alkalmasak-e; valamint
+a) az ültetvény használójának
 
-d) a felvásárlási jegyet vagy annak másolatát, vagy nyilatkozatot a saját feldolgozásról.
+aa) nevét,
 
-(2) A Kormányrendelet 29. §-a szerinti szüreti bejegyzés igazolás tartalmazza
+ab) gazdasági akta számát,
 
-a) az (1) bekezdés a) és b) pontja, c) pont ca), cc), cd), cf), cg) és ci) alpontja szerinti adatokat, valamint
+ac) FELIR azonosítóját, és
 
-b) a szüretelt szőlő felhasználásával készíthető borászati terméken potenciálisan jelölhető földrajzi árujelzőket és a bortípusokat.
+ad) NÉBIH tevékenység-azonosítóját;
+
+b) az ültetvény beazonosításához szükséges adatokat;
+
+c) az ültetvényről vagy ültetvényrészről származó termés korábbi felvásárlójának
+
+ca) nevét,
+
+cb) gazdasági akta számát,
+
+cc) FELIR azonosítóját, valamint
+
+cd) NÉBIH tevékenység-azonosítóját.
+
+(6) A Kormányrendelet 30. § (3) bekezdése szerinti kifogás tartalmazza
+
+a) a kifogást benyújtó
+
+aa) nevét,
+
+ab) gazdasági akta számát, és
+
+ac) FELIR azonosítóját,
+
+ad) NÉBIH tevékenység-azonosítóját;
+
+b) a kifogással összefüggő felvásárlási jegy kiállítóját vagy a feldolgozót érintő felvásárlási jegyek azonosításához szükséges adatokat;
+
+c) a kifogás leírását; valamint
+
+d) a kifogás igazolására szolgáló dokumentumokat.
+
+(7) A Kormányrendelet 31. § (1) bekezdés b) pontja szerinti szüret bejelentő lap, valamint a Kormányrendelet 31. § (3) bekezdése szerinti szüreti bejegyzés tartalmazza az Ákr.-ben meghatározott adatokon túlmenően
+
+a) az ültetvény használójának
+
+aa) gazdasági akta számát,
+
+ab) FELIR azonosítóját és
+
+ac) NÉBIH tevékenység-azonosítóját;
+
+b) az ültetvény vagy ültetvényrész azonosításához szükséges adatokat;
+
+c) a szüret borpiaci évét és
+
+ca) napját vagy
+
+cb) kezdőnapját, utolsó napját és hosszát;
+
+d) a szüret módját; valamint
+
+e) a szüretelt szőlő
+
+ea) mennyiségét,
+
+eb) cukortartalmát,
+
+ec) felhasználásának módját, és
+
+ed) arra vonatkozó jelölését, hogy a szőlőszemek aszú készítésére alkalmasak-e.
+
+(8) A Kormányrendelet 28. § (5) bekezdése szerinti bejelentésben nem kell megadni az alkalmazott kompenzációs felár mértékét és az áthárított kompenzációs felárat, ha nem kerül sor kompenzációs felár áthárítására.
+
+[^1]: A 18. § a 70. § (1) bekezdésével megállapított szöveg.

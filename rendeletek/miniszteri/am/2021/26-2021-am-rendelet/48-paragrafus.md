@@ -16,6 +16,9 @@ c) a további feldolgozással érintett borászati terméktétel mennyiségét; 
 
 d) a további feldolgozás kezdő időpontját.
 
-(2) A további feldolgozással érintett terméktétel forgalombahozatali azonosítója a Kormányrendelet 57. § (3) bekezdése alapján kiadott végső származási bizonyítványban meghatározott borászati terméktétel vonatkozásában érvényben marad.
+(2)[^7]
 
-(3) A hegybíró a végső származási bizonyítvány visszavonásáról, valamint a további feldolgozással nem érintett terméktétel végső származási bizonyítványának kiállításáról értesíti a NÉBIH-et. A NÉBIH a további feldolgozással nem érintett terméktétel végső származási bizonyítványának hiányában a forgalombahozatali azonosítót érvényteleníti.
+(3)[^8]
+
+[^7]: A 48. § (2) bekezdését a 70. § (7) bekezdése hatályon kívül helyezte.
+[^8]: A 48. § (3) bekezdését a 70. § (7) bekezdése hatályon kívül helyezte.
