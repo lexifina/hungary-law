@@ -2,7 +2,7 @@
 
 49. § (1) Az állomány tagja eredeti szolgálati beosztásában való meghagyása mellett megfelelő szolgálati feladat végrehajtására vezényelhető.
 
-(2) A munkáltatói jogkört gyakorló az állomány 46. § (1) bekezdés f)–i), k), l), és p)–r) és u) pontja alá tartozó tagját megfelelő szolgálati feladat ellátására vezényli. A vezénylés időtartama a 46. § (1) bekezdés r) pontja esetén nem haladhatja meg a rendelkezési állomány időtartamának felét.
+(2) A munkáltatói jogkört gyakorló az állomány 46. § (1) bekezdés f)–i), k), l), p)–r) és u) pontja, valamint a 46/A. § (2) bekezdés b) pontja hatálya alá tartozó tagját megfelelő szolgálati feladat ellátására vezényli. A vezénylés időtartama a 46. § (1) bekezdés r) pontja esetén nem haladhatja meg a rendelkezési állomány időtartamának felét.
 
 (3)
 

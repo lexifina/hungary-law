@@ -34,6 +34,8 @@ o) ha az egészségi okból katonai szolgálatra való alkalmatlansága megálla
 
 p) az a)–o) pontban nevesített eseteken kívül, ha e törvény azt kifejezetten elrendeli.
 
+q) az Eütv. 232/H. § (9) bekezdésétől eltérően, a 46/A. § (1) bekezdése, valamint a 46/A. § (2) bekezdés b) pontja szerinti rendelkezési állományban tartás utolsó napjával, amely szolgálati viszony megszűnés az állomány tagjának felróható oknak minősül.
+
 (2) A szolgálat felső korhatára megegyezik a társadalombiztosítási szabályok szerinti öregségi nyugdíjkorhatárral.
 
 (3)
