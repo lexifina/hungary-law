@@ -66,3 +66,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2021-12-29 | 2021. évi CXLII. törvény | 2007-2-00-00.66 |
 | 2022-01-01 | 2021. évi CXX. törvény | 2007-2-00-00.67 |
 | 2022-05-25 | 2022. évi IV. törvény | 2007-2-00-00.68 |
+| 2022-06-01 | 2022. évi V. törvény | 2007-2-00-00.69 |
