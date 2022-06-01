@@ -4,7 +4,7 @@ a) antenna: olyan antennatartó szerkezetre vagy más műtárgyra szerelt eszkö
 
 b) antennatartó szerkezet: olyan hírközlési rendeltetésű műtárgy – a vezeték nélküli hírközlés sajátos építménye –, amely antenna elhelyezésére szolgál;
 
-c)[^1]
+c)[^1] egységes hírközlési objektummodell: egységes tervezési követelmények bevezetését támogató hírközlés hálózati adatmodell, amely lehetővé teszi, hogy az építésügyi hatósági eljárásokban a rajzi szabályozás helyett az adattartalmi szabályozás jelenjen meg;
 
 d) építési tevékenység befejezésének időpontja: a sikeres műszaki átadás-átvételi eljárás – jegyzőkönyvben rögzített – befejezésének napja;
 

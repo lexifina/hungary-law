@@ -28,7 +28,7 @@
 
 ## 11. Földmérési jelek, geodéziai pontok kezelői.
 
-2. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^19]
+2. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^17]
 
 1. Az engedélyezési tervdokumentáció tartalma a tervezés tárgyától függően
 
@@ -636,4 +636,4 @@ a) Az érintett ingatlan tulajdonosának hozzájáruló nyilatkozata (PDF/A)
 
 b) a légügyi szakhatóságok előzetes állásfoglalásai (PDF/A)
 
-[^19]: A 2. melléklet az 5/2021. (VI. 16.) NMHH rendelet 5. §-a és 7. § b) pontja szerint módosított szöveg.
+[^17]: A 2. melléklet az 5/2021. (VI. 16.) NMHH rendelet 5. §-a és 7. § b) pontja szerint módosított szöveg.

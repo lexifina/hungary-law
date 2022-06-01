@@ -1,7 +1,5 @@
 ## 12. § A Hatóság az építési engedély iránti kérelem elbírálása során
 
-a)[^4]
+a) az engedélyezés tárgyát képező nyomvonal pontos meghatározása érdekében összeveti a benyújtott tervdokumentációban szereplő adatokat a térképi adatbázist szolgáltató szerv által szolgáltatott állami ingatlan-nyilvántartási térképi adatokkal, továbbá
 
 b) a 7. §-ban foglaltak szerint helyszíni szemlét tarthat.
-
-[^4]: A 12. § a) pontja a 31. § (3) bekezdése alapján 2022. június 1-jén lép hatályba.
