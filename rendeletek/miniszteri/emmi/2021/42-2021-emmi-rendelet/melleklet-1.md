@@ -114,6 +114,20 @@
 
 2.6.3. az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
 
+2.7.[^3] Az Országos Kórházi Főigazgatóságnál
+
+2.7.1. a főigazgatói hivatalvezető,
+
+2.7.2. az igazgató,
+
+2.7.3. a főigazgatói titkárság vezetője,
+
+2.7.4. a humánerőforrás feladatokat ellátó szervezeti egység vezetője,
+
+2.7.5. a közbeszerzési feladatokat ellátó szervezeti egység vezetője,
+
+2.7.6. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
+
 3. Központi kormányzati igazgatási szervnek nem minősülő költségvetési szerv
 
 3.1. Az Emberi Erőforrás Támogatáskezelőnél
@@ -175,3 +189,4 @@
 3.5.2. az elektronikus információs rendszer biztonságáért felelős álláshely.
 
 [^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet 2. pont 2.7. alpontját a 7. § iktatta be. [E módosító rendelet 6. § (2) bekezdése alapján a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésekor lép hatályba.]
