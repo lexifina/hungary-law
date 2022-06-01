@@ -16,7 +16,7 @@ d) 148–152. §-a
 
 (4) Törvény – ágazati, szakmai sajátosságokra tekintettel – e törvény rendelkezéseitől eltérhet.
 
-(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, valamint a közhasznú kölcsönzőkkel szemben támasztott feltételekre, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.
+(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak és minősített kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó és a minősített kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a törvény alapján rendeletben részletesen szabályozza a központi közigazgatási szerveknél foglalkoztatott tartós külszolgálatot teljesítő munkavállalók külföldi munkavégzésének sajátos szabályait, valamint alapellátmányának, illetve a központi közigazgatási szerveknél foglalkoztatott ideiglenes külföldi kiküldetésen lévő munkavállalók napidíjának összegét és azok kifizetésének szabályait.
 
