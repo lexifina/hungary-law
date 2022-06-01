@@ -1,1 +1,0 @@
-5. § A 2. §-ban foglaltakat azon, a sztrájk jogszerűtlenségéről vagy jogellenességéről hozott bírósági döntésre is alkalmazni kell, amelyben a felülvizsgálati kérelem benyújtására nyitva álló határidő e rendelet hatálybalépése napján még nem telt le.
