@@ -14,6 +14,6 @@
 
 ## 69 A keresőképtelenség lezárása a keresőképtelenséget felülvizsgáló főorvos döntése alapján történt.
 
-6. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^67]
+6. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^68]
 
-[^67]: A 6. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 237/2020. (V. 26.) Korm. rendelet 3. § b) pontja.
+[^68]: A 6. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 237/2020. (V. 26.) Korm. rendelet 3. § b) pontja.

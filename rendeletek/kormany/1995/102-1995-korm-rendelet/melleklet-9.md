@@ -50,7 +50,7 @@
 
 ## Fájlnév képzése az 1. karakter mindig K, a 2. karakter az adott hétről beküldött jelentés sorszáma, a 3-4. a megyekód, az 5-8. a működési kód utolsó 4 számjegye.
 
-9. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^70]
+9. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^71]
 
 ## A keresőképtelenség visszamenőleges igazolására szolgáló kérelem adattartalma
 
@@ -72,4 +72,4 @@ IV. Igazolás kiállítását kérelmező orvos neve, munkahelyének neve, címe
 
 V. A kezelőorvos aláírása, bélyegzőjének lenyomata, száma
 
-[^70]: A 9. számú mellékletet a 313/2020. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^71]: A 9. számú mellékletet a 313/2020. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.

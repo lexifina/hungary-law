@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-102-20-
 | 2019-01-01 | 1995-102-20-22.19 | 287/2018. (XII. 21.) Korm. rendelet |
 | 2020-03-01 | 1995-102-20-22.20 | 70/2015. (III. 30.) Korm. rendelet |
 | 2021-01-01 | 1995-102-20-22.21 | 237/2020. (V. 26.) Korm. rendelet |
+| 2022-06-01 | 1995-102-20-22.22 | 195/2022. (V. 27.) Korm. rendelet |

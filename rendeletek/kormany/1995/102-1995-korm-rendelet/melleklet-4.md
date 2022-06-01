@@ -36,9 +36,9 @@
 
 ## – a megszüntetés módját jelölő kódot;
 
-## d)[^63] a jelentéskészítés dátumát.
+## d)[^64] a jelentéskészítés dátumát.
 
-4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^64]
+4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^65]
 
 ## ORVOSI BEUTALÓ
 
@@ -156,5 +156,5 @@ címe: .........................................................................
 
 IV. A beutalót kiállító orvos adatai
 
-[^63]: A 3. számú melléklet d) pontja a 287/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^64]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés i)–k) pontja szerint módosított szöveg.
+[^64]: A 3. számú melléklet d) pontja a 287/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^65]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés i)–k) pontja szerint módosított szöveg.
