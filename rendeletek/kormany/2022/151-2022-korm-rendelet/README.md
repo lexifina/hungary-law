@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-151-20-
 | --- | --- | --- |
 | 2022-04-15 | 2022-151-20-22.1 | 151/2022. (IV. 14.) Korm. rendelet |
 | 2022-04-29 | 2022-151-20-22.2 | 2021. évi I. törvény |
+| 2022-06-01 | 2022-151-20-22.3 | 2021. évi I. törvény |
