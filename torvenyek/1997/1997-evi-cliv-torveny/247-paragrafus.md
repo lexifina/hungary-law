@@ -114,6 +114,32 @@ b) rendelkezzen Operatív Törzs létrehozásáról, valamint az Operatív Törz
 
 c) egészségügyi válsághelyzetben a 232/D. § (1) bekezdése szerinti intézkedéseket meghozza, illetve rendelkezéseket megállapítsa.
 
+(1c) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
+
+a) a 74/C. § (1) bekezdése szerinti esetben a fertőzés típusát,
+
+b) a 74/C. § (1) bekezdése szerinti körülmény fennállására tekintettel a védettség igazolása milyen módon – védettségi igazolvány, illetve applikáció útján – történik,
+
+c) a 74/C. § (1) bekezdése szerinti fertőzés elleni védettség igazolása melyik, a 74/C. § (1) bekezdése szerinti tény igazolásával történhet,
+
+d) – ha a 74/C. § (1) bekezdés a) pontja szerinti tény igazolása is a védettség igazolásának módja – a felgyógyultság igazolásának részletes szabályait,
+
+e) a védettségi igazolvány adattartalmát, annak megjelenítésének módját,
+
+f) az applikáció adattartalmát,
+
+g) a védettségi igazolvány kiállításával, illetve az applikáció működésével kapcsolatos részletes szabályokat,
+
+h) a védettség érvényességének számítását,
+
+i) a 74/E. § (1) bekezdése szerinti kiállító hatóságot,
+
+j) a 74/E. § szerinti eljárásban közreműködő adatfeldolgozókat,
+
+k) a 74/K. § (1) bekezdése szerinti szolgáltatásokat, üzlethelyiségeket, egyéb helyeket, eseteket, a védettség igazolásához szükséges okmányokat,
+
+l) a 74/K. § (2) bekezdése szerinti személyeket.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a kereskedelemért felelős miniszterrel egyetértésben a vásári, a piaci és a vásárcsarnoki árusítás közegészségügyi-járványügyi szabályait,
@@ -295,3 +321,71 @@ rendeletben állapítsa meg.
 (4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
 
 (5) Felhatalmazást kap
+
+a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
+
+b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
+
+c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
+
+ca) az orvostechnikai eszközökkel, in vitro diagnosztikai orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokért, összefüggő igazgatási szolgáltatásokért,
+
+cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
+
+cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
+
+cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési – ennek keretében etikai véleményezési –, illetve bejelentési eljárásáért,
+
+ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
+
+cf) az egészségügyi szakértői tevékenység folytatására irányuló szándék bejelentéséért,
+
+cg) az egészségfejlesztési programok akkreditációjáért,
+
+ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
+
+ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
+
+cj)
+
+ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
+
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a köznevelési intézményekben vagy szakképző intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat,
+
+e) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben a taktikai medicina – mint a rendőri speciális műveleti feladatok végrehajtása során végezhető egészségügyi tevékenység – szakmai, személyi, tárgyi feltételeit és követelményeit, valamint ezek szakmai tartalmát;
+
+f) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a rendőri intézkedések kapcsán szükségessé váló, az intézkedéstaktikába épített elsősegélynyújtás képzések részletes tematikáját, az oktatásra jogosultak körét, az oktatásban részt vevők kompetenciáit;
+
+g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a halálos tömegszerencsétlenségek áldozatainak nemzetközi szervezetek szabványai szerinti azonosítására irányuló szervezett tevékenységben részt vevők körét, oktatását, feladatrendszerét, riasztási rendjét, tevékenységét, felszerelését, az együttműködés rendjét, a működtetés és a tevékenység részletes szabályait;
+
+h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel egyetértésben az egészségügyi intézmények terrorveszély idején ellátandó feladatait, működési és jelentési rendjét, a terrorizmus elleni védelmével kapcsolatos intézkedések körét és az erre való felkészülés részletes szabályait
+
+i) a büntetés-végrehajtásért felelős miniszter, hogy – a miniszterrel és az igazságügyért felelős miniszterrel egyetértésben – a büntetés-végrehajtási intézetekben fogvatartottak élelmezési szakmai és táplálkozás-egészségügyi követelményeire vonatkozó szabályokat,
+
+j) az állami vagyon felügyeletéért felelős miniszter, hogy a 244/A. § (19) bekezdés szerinti kártalanítás mértékét
+
+rendeletben állapítsa meg.
+
+(5a) Felhatalmazást kap
+
+a) a közigazgatás-szervezésért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a védettségi igazolvány kiállításáért fizetendő igazgatási szolgáltatási díjat, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+
+b) a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben – a 74/J. § (2) bekezdése szerinti országokat
+
+rendeletben állapítsa meg.
+
+(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
+
+b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
+
+c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
+
+d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
