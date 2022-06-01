@@ -639,5 +639,3 @@ azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév els�
 a) igazolt bérleti vagy lízingdíj (ez alól kivételt képez a személygépkocsi bérleti vagy lízingdíja),
 
 b) az 1. pont szerinti üzemanyag-fogyasztás,
-
-c) számla szerinti egyéb költség, amennyiben azok a bérleti szerződés alapján a bérbevevőt terhelik.
