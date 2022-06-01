@@ -28,7 +28,7 @@ d) természetes homokos kavics 700 forint/tonna,
 
 e) cement 20 000 forint/tonna
 
-## – általános forgalmi adó nélkül számított – áron felüli értékesítése esetén a tényleges árbevétel, az értékesített mennyiség és az e bekezdésben meghatározott ár alapján megállapított árbevétel különbségének 90 százalékát kiegészítő bányajáradékként fizeti meg.
+– általános forgalmi adó nélkül számított – áron felüli értékesítése esetén a tényleges árbevétel, az értékesített mennyiség és az e bekezdésben meghatározott ár alapján megállapított árbevétel különbségének 90 százalékát kiegészítő bányajáradékként fizeti meg.
 
 (3) A (2) bekezdésben szereplő termékek értékesítése során, amennyiben az értékesítő nem kötelezett kiegészítő bányajáradék fizetésére, abban az esetben – a (2) bekezdésben rögzített forint/tonna értékek figyelembevételével – tisztességes haszonkulcs kialakítására kell törekednie.
 
