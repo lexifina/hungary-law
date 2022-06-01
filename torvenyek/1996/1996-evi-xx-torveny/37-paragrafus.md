@@ -42,6 +42,8 @@ me) lakóhelyének, tartózkodási helyének
 
 változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 
+n) a Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZIN Nonprofit Kft.) részére az Nytv. 24/L. §-ában meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
+
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a hallgatói hitelrendszert működtető szervezet erre irányuló igénye esetén adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
 (1b) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – az élelmiszerlánc-felügyeleti szerv erre irányuló igénye esetén rendszeres adatátadást teljesít az élelmiszerlánc-felügyeleti szerv részére az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
@@ -102,6 +104,6 @@ i) az (1) bekezdés c) pontja szerinti nyugdíjbiztosítási nyilvántartást ve
 
 j) az (1) bekezdés k) pontja szerinti kincstár,
 
-k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató,
+k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató, valamint az (1) bekezdés n) pontja szerinti SZIN Nonprofit Kft.,
 
 kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.

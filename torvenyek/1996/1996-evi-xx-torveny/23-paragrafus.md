@@ -43,3 +43,5 @@ r) az atomenergia-felügyeleti szerv az atomenergiáról szóló 1996. évi CXVI
 s) az önkormányzati adóhatóság a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § f) pontjában meghatározott adómentesség megállapítása, valamint a helyi adókról szóló 1990. évi C. törvény 14/A. §-a és 26/A. §-a szerinti adófelfüggesztés iránt benyújtott kérelem elbírálása és az adózással kapcsolatos nyilvántartás vezetése során.
 
 t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvény 2. §-a szerinti szervezet, valamint a Kormányzati Személyügyi Döntéstámogató Rendszer a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő adatszolgáltatás érdekében.
+
+u) az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság, a védettségi igazolvány kiállítása érdekében.

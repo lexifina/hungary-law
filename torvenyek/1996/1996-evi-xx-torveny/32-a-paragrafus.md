@@ -1,0 +1,1 @@
+32/A. § Az adattovábbítás kivételével a személyi azonosító kezelésére a 32. §-ban foglaltakon kívül jogosult az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság a védettségi igazolvány kiállítása érdekében.
