@@ -1,3 +1,0 @@
-1. § (1) A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény (a továbbiakban: Átmeneti törvény) 147. § (2) bekezdését nem kell alkalmazni az Átmeneti törvény 147. § (1) bekezdése szerinti szervezet által fenntartott, a szolgáltatói nyilvántartásba 2020. december 17-ét követően bejegyzett, bölcsődei ellátást nyújtó intézmény vagy szolgáltató által biztosított ellátásért – ideértve a gondozásért, étkezésért, intézményi gyermekétkeztetésért – fizetett térítési díj tekintetében.
-
-(2) Az Átmeneti törvény 147. § (2) bekezdését nem kell alkalmazni az Átmeneti törvény 147. § (1) bekezdése szerinti szervezet által fenntartott, 2020. december 17-ét követően nyilvántartásba vett óvodában a gyermekétkeztetésért fizetendő térítési díj tekintetében.
