@@ -1,0 +1,3 @@
+## „(1a) A veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény 4. §-a alkalmazásában a keresőképtelenség igazolásához szükséges adatoknak az Elektronikus Egészségügyi Szolgáltatási Térbe történő integrálásáig az 5. számú melléklet szerinti nyomtatványt nem kell átadni a biztosított részére, hanem az orvos elektronikus úton – így különösen e-mailben – továbbíthatja a biztosított részére.”
+
+17. § Hatályát veszti a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 41. § (6) bekezdése.

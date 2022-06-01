@@ -1,0 +1,1 @@
+18. § A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet 8/A. §-a a következő (2) bekezdéssel egészül ki:
