@@ -1,3 +1,0 @@
-1. § (1) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Exim tv.) 1. § (5) bekezdésétől eltérően az Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: Eximbank Zrt.) az Exim tv. 2. § (1) bekezdésében meghatározott tevékenységeket a Kormány egyedi döntése alapján egyéb célokból jogosult végezni.
-
-(2) Az Exim tv. 2. § (1) bekezdésétől eltérően az Eximbank Zrt. a Kormány egyedi döntése alapján egyéb pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végezhet.
