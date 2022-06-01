@@ -1,1 +1,0 @@
-## 2. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 14. § (2) bekezdését akként kell alkalmazni, hogy a magyar állam által belföldön, nyomdai úton előállításra és értékpapírként kibocsátásra kerülő állampapírok okiratát a kibocsátó magyar állam képviseletében a pénzügyminiszter vagy a miniszterelnök jogosult aláírni.
