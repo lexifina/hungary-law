@@ -26,10 +26,4 @@ c) a 42. § (6) bekezdés b) és c) pontjában meghatározott eset áll fenn.
 
 (6) A postai szolgáltatónak és a postai közreműködői tevékenységet végző személynek vagy szervezetnek megfelelő szervezési és műszaki intézkedésekkel biztosítania kell a postai szolgáltatás teljesítése során kezelt küldemények, szöveges közlemények vagy közlések titkosságát. A postai szolgáltató és a postai közreműködői tevékenységet végző személy vagy szervezet – a jogszabályi feltételek fennállása és erre irányuló megkeresés esetén – köteles a postai küldeményt, szöveges közleményt vagy közlést átadni vagy bemutatni az annak megismerésére külön törvényben feljogosított szervezeteknek, továbbá azok megfigyelését, tárolását vagy a küldeménybe, szöveges közleménybe más módon történő beavatkozást lehetővé tenni.
 
-(7) A postai szolgáltató az adatkezelése során a postai szolgáltatási szerződés teljesítéséhez, a teljesítés elszámolásához, igazolásához és utólagos ellenőrzéséhez szükséges adatokat
-
-a) veszélyhelyzetben vagy az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet esetén személyes átadás mellőzésével történő kézbesítési technológia alkalmazásakor a postai küldemény feladását követő ötödik naptári év utolsó napjáig,
-
-b) az a) pontban meg nem határozott esetben a postai küldemény feladását követő naptári év utolsó napjáig
-
-köteles megőrizni.
+(7) A postai szolgáltató az adatkezelése során a postai szolgáltatási szerződés teljesítéséhez, a teljesítés elszámolásához, igazolásához és utólagos ellenőrzéséhez szükséges adatokat a postai küldemény feladását követő ötödik naptári év utolsó napjáig köteles megőrizni.

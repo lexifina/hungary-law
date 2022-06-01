@@ -16,7 +16,7 @@
 
 7. elsőbbségi: az egyetemes postai szolgáltatási körben a leggyorsabb átfutási időt biztosító szolgáltatási kategória;
 
-8. értéknyilvánítás-szolgáltatás: járulékos szolgáltatásnak minősülő postai többletszolgáltatás, amely alapján a postai szolgáltatót a könyvelt küldeménnyel kapcsolatos szolgáltatás szerződésszerű teljesítéséért a feladó által a feladáskor – a postai küldemény tartalmának értékeként – meghatározott összeg erejéig terheli kártérítési felelősség;
+8. értéknyilvánítás-szolgáltatás: járulékos szolgáltatásnak minősülő postai többletszolgáltatás, amely alapján a postai szolgáltatót a személyes átadással kézbesítendő könyvelt küldeménnyel kapcsolatos szolgáltatás szerződésszerű teljesítéséért a feladó által a feladáskor – a postai küldemény tartalmának értékeként – meghatározott összeg erejéig terheli kártérítési felelősség;
 
 9. expressz postai szolgáltatás: az az időgarantált szolgáltatás, melynek keretében a postai szolgáltató arra vállal kötelezettséget, hogy a postai küldeményt belföldön legkésőbb a felvételt követő munkanapon, Európai Unió tagállamaiba címzett küldemény esetében legkésőbb a felvételt követő harmadik munkanapon, egyéb nemzetközi viszonylatú küldemény esetében legkésőbb a felvételt követő ötödik munkanapon kézbesíti, és emellett az alábbi a)–f) pontban foglalt többletszolgáltatások közül legalább egyet teljesít:
 
@@ -58,7 +58,7 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 
 21. kézbesítési pont: a postai küldemény kézbesítése céljából a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiség vagy hely, továbbá a postai szolgáltató által létesített, a kézbesítést lehetővé tevő eszköz;
 
-22. könyvelt küldemény: olyan postai küldemény, amelynek felvételét a postai szolgáltató írásban vagy más bizonyítható módon a feladó irányában elismeri és kézbesítését a jogosult átvevővel az erre szolgáló okiraton, vagy az aláírást rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával elismerteti;
+22. könyvelt küldemény: olyan postai küldemény, amelynek a postai szolgáltató a felvételét – írásban vagy más bizonyítható módon –, valamint a jogosult átvevő részére történő kézbesítését – az erre szolgáló okiraton, vagy a kézbesítés tényét rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával – a feladó irányában elismeri;
 
 23. küldeményenkénti díjszabás: olyan – a postai szolgáltató általános szerződési feltételeiben vagy ahhoz csatoltan közzétett – árlista, amely egy postai küldeménynek vagy az egy időben feladott több postai küldeménynek a feladott küldeménymennyiségtől függetlenül azonos darabonkénti díjait tartalmazza;
 
@@ -74,7 +74,7 @@ b) a postai küldemény felvételét követő tárolási, raktározási, megőrz
 
 c) a postai szolgáltató általi sikertelen kézbesítést követő tárolási, raktározási, megőrzési tevékenység;
 
-d) a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiségben vagy helyen megőrzésre elhelyezett postai küldemény kiadása, valamint ahhoz kapcsolódó adatellenőrzési tevékenység.
+d) a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiségben vagy helyen megőrzésre elhelyezett postai küldeménynek a postai szolgáltató által végzett kézbesítést elősegítő kiadása, valamint az ahhoz kapcsolódó adatellenőrzési tevékenység;
 
 25. nemzetközi EMS-szolgáltatás: az a nemzetközi viszonylatú postai szolgáltatás, amelyet az egyetemes postai szolgáltató az Egyetemes Postaegyezmény kihirdetéséről szóló jogszabály e szolgáltatásra vonatkozó szabályai szerint nyújt;
 
@@ -108,6 +108,8 @@ b) a küldeményen „címzett”-ként feltüntetett, gazdálkodó szervezetnek
 
 37. postai szolgáltatóhely: a postai szolgáltatások elérését meghatározott földrajzi ponton és időben biztosító felvételi vagy kézbesítési pont, ide nem értve a postai szolgáltató által elhelyezett levélgyűjtő szekrényt vagy más, a postai küldemény sérülésmentes és biztonságos felvételére vagy kézbesítésére szolgáló eszközt;
 
+37a. rögzített ajánlott levélküldemény: az a könyvelt levélküldemény, amelyhez az ajánlott szolgáltatáson túl egyéb többletszolgáltatás nem vehető igénybe;
+
 38. szállítás: a postai küldemények feldolgozási, szolgáltatói hozzáférési vagy kézbesítési pontok közötti továbbításának művelete;
 
 39. szolgáltatói hozzáférési pont: postai küldemények hálózati átvételére az átvevő postai szolgáltató által erre a célra kijelölt hely;
@@ -116,10 +118,10 @@ b) a küldeményen „címzett”-ként feltüntetett, gazdálkodó szervezetnek
 
 39b. postai támpont: a közutak mentén a postai szolgáltató által kijelölt és üzemeltetett, felvételi pontnak és kézbesítési pontnak is minősülő, kézbesítésre alkalmas eszközzel ellátott hely, amely lehetővé teszi a postai küldemények felvételét és a címekhez rendelten biztosítja levélszekrénybe kézbesíthető postai küldemények kézbesítését, valamint – a kézbesítés megkísérlésének mellőzésével – a személyes átadással kézbesítendő postai küldemény érkezéséről szóló értesítő elhelyezését.
 
-40. tértivevény-szolgáltatás: járulékos szolgáltatásnak minősülő – könyvelt küldeményekhez igénybe vehető – postai többletszolgáltatás, amely alapján a postai szolgáltató a kézbesítés napját, valamint a jogosult átvevő nevét és aláírását rögzítő okiratot vagy erre irányuló szerződés esetén annak digitalizált változatát a feladónak visszajuttatja, vagy az aláírást rögzítő technikai eszközzel készített adatokat a feladó rendelkezésére bocsátja;
+40. tértivevény-szolgáltatás: járulékos szolgáltatásnak minősülő – személyes átadással kézbesítendő könyvelt küldeményekhez igénybe vehető – postai többletszolgáltatás, amelynek teljesítése során a postai szolgáltató a kézbesítés napját, valamint a jogosult átvevő nevét és a postai szolgáltató azonosítására alkalmas jelzést tartalmazó okiratot vagy – erre irányuló szerződés esetén – annak digitalizált változatát a feladónak visszajuttatja, vagy a kézbesítés tényét rögzítő egyéb technikai eszközzel felvett adatokat a feladó rendelkezésére bocsátja;
 
 41. többletszolgáltatás: a postai küldemény felvételéhez, gyűjtéséhez, feldolgozásához, szállításához vagy kézbesítéséhez kapcsolódó, a postai szolgáltatási szerződésben vállalt olyan további szolgáltatás, amelyet a postai szolgáltató a postai szolgáltatás részeként a feladó külön rendelkezése alapján vagy postai szolgáltatáscsomagba foglaltan nyújt;
 
-42. utánvétel-szolgáltatás: az a – könyvelt küldeményekhez igénybe vehető – többletszolgáltatás, amelynek teljesítése során a postai szolgáltató a postai küldeményt a feladó által meghatározott összeg készpénzben vagy egyéb módon történő beszedését követően kézbesíti, és az így beszedett összeget a címzett megbízásából a feladó részére a Hpt. 6. § (1) bekezdésében meghatározott valamely pénzforgalmi szolgáltatás keretében juttatja el;
+42. utánvétel-szolgáltatás: az a – személyes átadással kézbesítendő könyvelt küldeményekhez igénybe vehető – többletszolgáltatás, amely teljesítése során a postai szolgáltató a postai küldeményt a feladó által meghatározott összeg készpénzben vagy egyéb módon történő beszedését követően személyes átadással kézbesíti, és az így beszedett összeget a címzett megbízásából a feladó részére a Hpt. 6. § (1) bekezdés 54. pontjában meghatározott pénzforgalmi szolgáltatás keretében juttatja el;
 
 43. vakok írását tartalmazó küldemény: kizárólag a vakok és gyengénlátók által használt dombornyomású írásokat, véseteket, hangfelvételeket, különleges papírokat vagy mágneslemezeket és egyéb információhordozókat, továbbá a vak vagy gyengénlátó személyek látásának sérültségéből eredő problémák leküzdésének céljából készített vagy átalakított berendezést, illetve felszerelést tartalmazó, legfeljebb 7 kilogramm tömegű postai küldemény, amelynek feladója vagy címzettje vak, illetve gyengénlátó személy vagy a vakok hivatalosan elismert intézménye.

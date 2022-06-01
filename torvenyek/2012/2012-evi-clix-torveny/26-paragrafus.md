@@ -6,6 +6,8 @@
 
 (4) Az egyetemes postai szolgáltató jogosult a nála történő készpénzbefizetés céljára szolgáló nyomtatvány kialakítására, előállítására és bármely módon történő megszemélyesítésére. Az egyetemes postai szolgáltató köteles a készpénz-befizetési szolgáltatás keretében, a pénzforgalmi szolgáltatásokra vonatkozó általános szerződési feltételeiben meghatározott, elektronikus úton kezdeményezett fizetési megbízást és egyéb készpénz-helyettesítő fizetési eszközt is elfogadni.
 
+(4a) Készpénzt a címzettnek vagy egyéb jogosult átvevőnek történő személyes átadással kell kifizetni. A készpénz – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott részletes szabályok szerint történő – kifizetése során az egyetemes postai szolgáltató a kifizetés napját, valamint a jogosult átvevő aláírását és az átvétel jogcímét – kivéve, ha a küldeményt a címzett veszi át – rögzíti, és – amennyiben a készpénz feladójával megkötött szerződés a készpénz átadásának részletes szabályait tartalmazó általános szerződési feltételek alapján így rendelkezik – az ezeket tartalmazó okiratot vagy annak digitalizált változatát a feladónak visszajuttatja, vagy a kézbesítés tényét rögzítő egyéb technikai eszközzel felvett adatokat a feladó rendelkezésére bocsátja.
+
 (5) A miniszter rendeletben az (1) és (2) bekezdésben meghatározott szolgáltatásokkal kapcsolatban jogszabályban nem szabályozott további, a Hpt.-vel összhangban álló követelményeket állapíthat meg.
 
 (6) Az (1) és (2) bekezdés szerinti pénzforgalmi szolgáltatáshoz kapcsolódó postai pénzforgalmi nyomtatványt használó számlatulajdonos köteles a Pmt. szerinti intézkedések alkalmazhatóságának egyértelmű megállapíthatósága érdekében
