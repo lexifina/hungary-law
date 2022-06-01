@@ -18,7 +18,7 @@ ca) az 1. § (1) bekezdés a) pontja szerinti fenntartó által fenntartott szer
 
 cb) az 1. § (1) bekezdés b)–d) pontja szerinti fenntartó által fenntartott szervnél a munkaviszonyt vagy a közalkalmazotti jogviszonyt
 
-## kell érteni.
+kell érteni.
 
 (2) E rendelet alkalmazásában az R1. 3. § (1) bekezdés b) pontja, az R1. 5. § (1) és (2) bekezdése, az R1. 7. § (3) bekezdése, az R1. 8. § (2) bekezdése és az R2. 3. § (1) és (2) bekezdése, az R2. 5. § (3) bekezdése, az R2. 6. § (4) bekezdése szerinti munkaadó alatt a fenntartót kell érteni.
 
