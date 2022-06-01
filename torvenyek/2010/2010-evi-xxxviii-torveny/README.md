@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2021-01-01 | 2019. évi CXVII. törvény | 2010-38-00-00.32 |
 | 2021-05-28 | 2021. évi LI. törvény | 2010-38-00-00.33 |
 | 2022-01-01 | 2021. évi LXXXIV. törvény | 2010-38-00-00.34 |
+| 2022-06-01 | 2021. évi LXXXIV. törvény | 2010-38-00-00.35 |
