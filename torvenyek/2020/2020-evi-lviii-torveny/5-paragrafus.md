@@ -1,1 +1,1 @@
-5. § Az államháztartás központi alrendszerébe tartozó adatszolgáltatásra kötelezett az Áht. 70. alcíme szerinti, havi adatszolgáltatási kötelezettségének – az Áht. 108/A. §-a szerinti adatszolgáltatás kivételével – negyedévente, a tárgynegyedévet követő 20. napig köteles eleget tenni. E rendelkezést a 2020. második és harmadik negyedévet érintő havi adatszolgáltatások tekintetében kell alkalmazni.
+### 5. §

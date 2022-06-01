@@ -1,3 +1,1 @@
-72. § (1) A veszélyhelyzet ideje alatt esedékes felülvizsgálatok esetén az egészségi állapottól, személyiség állapottól vagy fogyatékosságtól függő ellátások – a 70. §-ban és 71. §-ban meghatározott ellátások kivételével – e körülmények felülvizsgálatára tekintettel legkorábban 2020. július 1-jétől szüntethetők meg.
-
-(2) A 2020. március 11-e és 2020. június 30-a között lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően 2020. szeptember 1-jén szűnik meg.
+### 72. §

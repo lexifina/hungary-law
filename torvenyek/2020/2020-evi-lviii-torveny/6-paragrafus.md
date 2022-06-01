@@ -1,1 +1,1 @@
-6. § Ha a helyi önkormányzat, az önkormányzatok társulása, illetve a nemzetiségi önkormányzat (e § alkalmazásában a továbbiakban együtt: önkormányzat) e törvény hatálybalépéséig nem rendelkezik a 2019. költségvetési évre vonatkozó elfogadott és hatályos zárszámadási rendelettel, akkor a zárszámadási rendeletet úgy kell az önkormányzatnak elfogadnia, hogy az legkésőbb az e törvény hatálybalépését követő 30. napon hatályba lépjen.
+### 6. §

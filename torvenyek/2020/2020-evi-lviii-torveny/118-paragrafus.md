@@ -1,1 +1,1 @@
-118. § Ha a társasház szerveinek törvényességi felügyeleti eljárása a veszélyhelyzet ideje alatt irányadó szabályok szerint félbeszakadt, az eljárás a félbeszakadás oka elhárulásának napján vagy a veszélyhelyzet megszűnését követő napon folytatódik, és e naptól a határidők újra kezdődnek.
+### 118. §

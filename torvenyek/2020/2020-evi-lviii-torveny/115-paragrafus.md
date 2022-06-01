@@ -1,3 +1,3 @@
-## 52. A társasházakra vonatkozó átmeneti szabályok
+## 52.
 
-115. § A társasházak – a társasházakról szóló jogszabályoktól eltérően – az ebben az alcímben foglaltak szerint működhetnek.
+### 115. §
