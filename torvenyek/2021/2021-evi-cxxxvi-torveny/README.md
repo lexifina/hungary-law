@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-136-00-00
 | 2022-02-18 | 2010. évi CXXX. törvény | 2021-136-00-00.14 |
 | 2022-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-136-00-00.15 |
 | 2022-03-02 | 2010. évi CXXX. törvény | 2021-136-00-00.16 |
+| 2022-06-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-136-00-00.17 |
