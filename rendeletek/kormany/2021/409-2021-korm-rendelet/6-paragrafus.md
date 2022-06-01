@@ -1,3 +1,0 @@
-6. § (1) A 2. §-t az e rendelet hatálybalépését követően megkötött szerződések, illetve az ilyen szerződések alapján elkészítendő előzetes régészeti dokumentáció tekintetében kell alkalmazni.
-
-(2) A 3. §-t az e rendelet hatálybalépését követően megkötött szerződések és az azok alapján végzett teljes területű feltárás, vagy az ilyen szerződés hiányában vagy annak megkötését megelőzően megkezdett munkálatok tekintetében kell alkalmazni, ideértve azt az esetet is, ha az alapul szolgáló előzetes régészeti dokumentáció a teljes területű feltárásra vonatkozó szerződés megkötését megelőzően már elkészítésre és a beruházó részére átadásra került.
