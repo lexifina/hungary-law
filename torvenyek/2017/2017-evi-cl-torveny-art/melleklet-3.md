@@ -233,3 +233,5 @@
 ## 3.2.2. Az év közben átalakuló, illetve szétválás, egyesülés, beolvadás miatt vagy egyéb okból felszámolás nélkül megszűnő jogi személynek vagy egyéb szervezetnek az adóévben megfizetett adóelőleg és az átalakulás, illetve megszűnés időpontjáig számított tényleges társasági adó különbözetét az átalakulásról, illetve a megszűnésről benyújtott adóbevallásával egyidejűleg kell megfizetnie, illetve ettől az időponttól kezdődően igényelheti vissza.
 
 ## 3.2.3. A Számv. tv.-ben meghatározottak szerint a mérlegben megadott adatoknál forintról devizára, devizáról más devizanemre, illetve devizáról forintra áttérő vállalkozó az adóévben megfizetett adóelőleg és az áttérés napjáig számított tényleges társasági adó különbözetét az áttérésről benyújtott adóbevallással egyidejűleg fizeti meg, illetve ettől az időponttól kezdődően igényelheti vissza.
+
+## 4. Járulékok
