@@ -16,4 +16,6 @@ d) növény-egészségügyi zárlati intézkedést tartalmazó, valamint
 
 e) az 52. § (3) bekezdése szerinti
 
+f) a lakosság élelmiszerrel való ellátásának zavartalan biztosítása érdekében élelmiszer- vagy takarmány összetevő, -termék vagy -termékcsoport átmeneti helyettesítését lehetővé tevő
+
 határozatát a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. A határozat közlése időpontjának az első közzététel időpontja minősül.
