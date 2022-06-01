@@ -32,7 +32,7 @@ a jogszabályban meghatározott esetekben.
 
 (9) Az egészségügyi szolgálati jogviszonyban álló személy, továbbá a (6) és (8) bekezdés szerinti foglalkoztatott jogviszonyára, valamint a munkáltatóra a munka törvénykönyvéről szóló 2012. évi I. törvényt (a továbbiakban: Mt.) az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(10) A (9) bekezdés szerinti körre nem kell alkalmazni az Mt. 36–40. §-át, 198–211. §-át és 228. §-át.
+(10) A (9) bekezdés szerinti körre nem kell alkalmazni az Mt. 198–211. §-át és 228. §-át.
 
 (11) Az Mt. XIII. és XIV. fejezetét az Eütev.-ben meghatározott eltérésekkel kell alkalmazni.
 

@@ -14,6 +14,8 @@ megfelelő összeget.
 
 (4) Az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően – az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi szolgálati jogviszonyban álló személy illetménye az 1. melléklet szerinti 4. fizetési fokozatot akkor sem érheti el, ha a számára előirt várakozási idő eltelt.
 
+(4a) A (3) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy esetében nem alkalmazható az Eütev. 13/B. §-a és 14–14/C. §-a.
+
 (5) A Kormány a (3) bekezdés alá nem tartozó vezetői kategóriát és ahhoz kapcsolódó – az 1. melléklet szerinti illetménytáblában foglaltnál magasabb – illetményt állapíthat meg.
 
 (6) Az egészségügyi szakdolgozó az egészségügyi ágazati előmeneteli szabályok szerinti – törvényben és a Kormány rendeletében meghatározott – illetményre, illetménypótlékra, valamint alapilletményen felül járó munkáltatói döntésen alapuló juttatásra jogosult.
