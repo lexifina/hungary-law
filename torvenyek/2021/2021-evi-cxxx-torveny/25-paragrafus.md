@@ -1,3 +1,3 @@
-## 20.
+## 20. Egyes veszélyhelyzeti utazási kedvezményekkel kapcsolatos átmeneti szabályok
 
-### 25. §
+25. § A veszélyhelyzet ideje alatt az egészségügyi dolgozók és a koronavírus világjárvány elleni védekezésben közreműködő orvos-, egészségtudományi képzésben részt vevő hallgatók közforgalmú személyszállítási utazási kedvezményéről szóló 486/2020. (XI. 10.) Korm. rendelet, valamint a veszélyhelyzet ideje alatt biztosított utazási kedvezményekről szóló 582/2020. (XII. 15.) Korm. rendelet alapján kiállított igazolás a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 14. napig érvényes, amely érvényességi határidőig a személyazonosság megállapítására alkalmas okmánnyal együttesen az országos, regionális, elővárosi és helyi személyszállítási közszolgáltatások ingyenes, menet-, hely- és pótjegy megvásárlása nélküli igénybevételére jogosít.

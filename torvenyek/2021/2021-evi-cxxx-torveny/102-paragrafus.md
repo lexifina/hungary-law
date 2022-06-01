@@ -1,1 +1,1 @@
-### 102. §
+102. § Hatályát veszti a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 32. §-a.

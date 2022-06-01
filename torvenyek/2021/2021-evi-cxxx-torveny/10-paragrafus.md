@@ -1,3 +1,3 @@
-## 10.
+## 10. A jogi személyekre vonatkozó átmeneti szabályok
 
-### 10. §
+10. § Ha a jogi személy ügyvezetése a veszélyhelyzet ideje alatt a veszélyhelyzetben alkalmazandó jogszabályi rendelkezések alkalmazásával a döntéshozó szervének ülését már összehívta vagy a döntéshozó szerv ülés tartása nélküli döntéshozatalát már kezdeményezte, a döntéshozó szerv ülését vagy határozathozatalát a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését megelőző napon hatályos, a veszélyhelyzetben alkalmazandó jogszabályi rendelkezések szerint kell lefolytatni. Az e rendelkezés szerint meghozott határozatot úgy kell tekinteni, mintha azt a veszélyhelyzet ideje alatt hozták volna meg.

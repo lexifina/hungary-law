@@ -1,3 +1,17 @@
-## 6.
+## 6. A büntetőeljárásról szóló 2017. évi XC. törvény alkalmazására vonatkozó átmeneti szabályok
 
-### 6. §
+6. § (1) A 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésekor folyamatban lévő büntetőeljárásban az ezt megelőzően, a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzetre tekintettel elfogadott jogszabály szerint végzett eljárási cselekmény akkor is érvényes, ha ezt a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.), illetve ez a törvény másként szabályozza.
+
+(2) A 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésekor folyamatban lévő határidőket a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése időpontjában hatályos jogszabály szerint kell számolni.
+
+(3) A 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzetre tekintettel elfogadott jogszabály alapján felfüggesztett eljárást a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően a Be. szerint kell folytatni.
+
+(4) Ha az eljárás felfüggesztésére a Be. 395. § (1) vagy (3) bekezdésében meghatározott okból, a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése előtt került sor, a felfüggesztés határidejébe a 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet és a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet időtartama nem számít bele.
+
+(5) Ha a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése időpontjáig az ügyben a bíróság, az ügyészség vagy a nyomozó hatóság a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzetre tekintettel elfogadott jogszabály alapján eljárási cselekményt rendelt el vagy annak elvégzése érdekében intézkedett, azt – a (6) bekezdésben meghatározott kivétellel – a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzetre tekintettel elfogadott jogszabály szerint kell elvégezni.
+
+(6) A bíróság a vádlott, a védő és az ügyész 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzetre tekintettel elfogadott jogszabály alapján tett együttes hozzájárulása esetén sem hozhatja meg az ügydöntő határozatot tanácsülésen. A 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése előtt meghozott ügydöntő határozatot azonban a bíróság a Be. 452. § (1) bekezdése szerint foglalja írásba, amely teljeskörűen tartalmazza a Be. 561. § (3) bekezdésében foglaltakat. A bíróság az ügydöntő határozatot ebben az esetben kézbesítés útján közli.
+
+(7) Ha a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése időpontjáig az ügyben a másodfokú bíróság a fellebbezés elintézésére a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzetre tekintettel elfogadott jogszabály alapján nyilvános ülés helyett tanácsülést tűzött ki, akkor az tanácsülésen elintézhető, ha a tanácsülés a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő három hónapon belül megtartható. A harmadfokú bíróság eljárására e rendelkezést megfelelően alkalmazni kell.
+
+(8) Ha a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése időpontjáig az ügyben a Kúria tanácsa a felülvizsgálati indítvány elintézésére a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzetre tekintettel elfogadott jogszabály alapján nyilvános ülés helyett tanácsülést tűzött ki, akkor a Kúria tanácsa a felülvizsgálati indítványról tanácsülésen is dönthet, ha a tanácsülés a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő három hónapon belül megtartható.

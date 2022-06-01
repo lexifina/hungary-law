@@ -1,1 +1,19 @@
-### 62. §
+## „43/E. § (1) Az ágazati vizsgálat és a gyorsított ágazati vizsgálat eredményéről a Gazdasági Versenyhivatal – észszerű időn belül – jelentést készít.
+
+## (2) A Gazdasági Versenyhivatal a gyorsított ágazati vizsgálat eredményéről a gyorsított ágazati vizsgálat elrendelését követő egy hónapon belül jelentéstervezetet készít, amely határidőt a Gazdasági Versenyhivatal elnöke két alkalommal, egyenként legfeljebb egy hónappal meghosszabbíthatja. A jelentéstervezet elkészítésének határidejét meghosszabbító végzést hirdetményi úton kell közölni. A jelentéstervezet elkészítésének határidejét meghosszabbító végzés közlésének napja a hirdetmény kifüggesztését követő nap.
+
+## (3) A jelentés elfogadását megelőzően biztosítani kell, hogy az ágazatban működő vállalkozások a jelentés tartalmára írásban észrevételeket tehessenek. Ennek érdekében a jelentés tervezetének korlátozottan megismerhető adatot nem tartalmazó változatát észrevételezésre meg kell küldeni az ágazatban működő vállalkozásoknak olyan időpontban, hogy észrevételeik megtételére ágazati vizsgálat esetén legalább harminc nap, gyorsított ágazati vizsgálat esetén legalább nyolc nap álljon rendelkezésükre.
+
+## (4) A Gazdasági Versenyhivatal – ha az ágazatban működő vállalkozások pontos köre nem állapítható meg, vagy az ilyen vállalkozások nagy száma miatt a vállalkozások egyenkénti megkeresése aránytalan nehézséggel járna, továbbá ha az egyéb érdekelteknek a jelentés tervezetével kapcsolatos véleményének megismerése érdekében ezt szükségesnek tartja – nyilvános meghallgatást tart. A nyilvános meghallgatás helyéről és idejéről, valamint annak tárgyáról szóló információkat ágazati vizsgálat esetén legalább negyvenöt nappal, gyorsított ágazati vizsgálat esetén legalább tizenöt nappal a meghallgatást megelőzően a Gazdasági Versenyhivatal honlapján közzé kell tenni és arról az ágazatban működő vállalkozásokat hirdetményi úton értesíteni kell. A Gazdasági Versenyhivatal legalább tíz nappal a meghallgatást megelőzően honlapján közzéteszi a jelentés tervezetének és – ha az észrevételt tevő azt kéri – a jelentés tervezetére tett észrevételeknek a korlátozottan megismerhető adatot nem tartalmazó változatát. A meghallgatásról a Gazdasági Versenyhivatal összefoglalót vagy jegyzőkönyvet készít.
+
+## (5) A Gazdasági Versenyhivatal az ágazati vizsgálat vagy gyorsított ágazati vizsgálat eredményéről készített jelentést, valamint az írásbeli észrevételekről, illetve a meghallgatásról készült összefoglalót vagy jegyzőkönyvet, továbbá – ha kérik – az ágazatban működő vállalkozásoknak a jelentés tartalmára vonatkozó érdemi észrevételeit tartalmazó dokumentumok korlátozottan megismerhető adatot nem tartalmazó változatát honlapján közzéteszi.
+
+## 43/F. § Ha a piacelemzés, az ágazati vizsgálat vagy a gyorsított ágazati vizsgálat eredménye alapján olyan piaci zavar áll fenn, amely versenyfelügyeleti eljárás révén nem vagy nem teljeskörűen orvosolható, a Gazdasági Versenyhivatal
+
+## a) erről tájékoztatja az Országgyűlés feladatkörrel rendelkező bizottságát, illetve a feladat- és hatáskörrel rendelkező minisztert vagy hatóságot,
+
+## b) kötelező erővel nem rendelkező nyilvános ajánlást adhat ki a piaci szereplők számára a tisztességes és hatékony verseny fenntartását és előmozdítását, az üzletfelek megfelelő tájékoztatását elősegítő legjobb gyakorlatokra, követendőként ajánlott piaci magatartásra vonatkozóan, vagy
+
+## c) szükség esetén jogszabály megalkotását vagy módosítását kezdeményezheti az arra jogosult szervnél.”
+
+62. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 65/A. § (1) bekezdése helyébe a következő rendelkezés lép:
