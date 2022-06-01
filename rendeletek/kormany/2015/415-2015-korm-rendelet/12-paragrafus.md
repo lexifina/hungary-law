@@ -20,9 +20,10 @@ d)[^56] az a)–c) pontban nem említett esetben évente kétszer, január 31-é
 
 a) minden év március 15-éig be kell jelenteni a nyári zárva tartás várható idejét, és
 
-b) a fenntartói döntés meghozatalát követő munkanap 24 óráig be kell jelenteni a fenntartó által egyéb ok miatt elrendelt részleges vagy teljes zárva tartást, továbbá, ha a zárva tartásra hatósági intézkedés miatt van szükség, a hatósági határozat iktatószámát, a hatósági határozatban elrendelt hatósági intézkedés típusát, időtartamát, az intézkedéssel érintett ellátotti létszámot, valamint a bölcsődei ellátás nyújtásában beállt egyéb változásokat.
+b)[^58] az elrendelés időpontját követő munkanap 24 óráig be kell jelenteni a Gyvt. 42/B. §-a szerinti zárva tartást, továbbá ha a rendkívüli zárva tartásra hatósági intézkedés miatt van szükség, a hatósági határozat iktatószámát, a hatósági határozatban elrendelt hatósági intézkedés típusát, időtartamát, az intézkedéssel érintett ellátotti létszámot, valamint a bölcsődei ellátás nyújtásában beállt egyéb változásokat.
 
 [^54]: A 12. § (1) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^55]: A 12. § (1) bekezdés c) pontja a 612/2020. (XII. 18.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^56]: A 12. § (1) bekezdés d) pontja a 612/2020. (XII. 18.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
 [^57]: A 12. § (4) bekezdését a 612/2020. (XII. 18.) Korm. rendelet 9. §-a iktatta be.
+[^58]: A 12. § (4) bekezdés b) pontja a 195/2022. (V. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
