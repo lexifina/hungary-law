@@ -12,7 +12,7 @@ b) humanitárius célból kiadott tartózkodási engedély vagy
 
 c) a menedékes személyazonosságát és tartózkodási jogát igazoló okmány
 
-## alapján igazolhatja azzal, hogy ebben az esetben a (2) bekezdés szerinti adatokat az a)–c) pont szerint bemutatott dokumentum alapján kell rögzíteni.
+alapján igazolhatja azzal, hogy ebben az esetben a (2) bekezdés szerinti adatokat az a)–c) pont szerint bemutatott dokumentum alapján kell rögzíteni.
 
 (4) A (3) bekezdés szerinti esetben a SIM kártyát az elektronikus hírközlési szolgáltató az átadást követően – az átadás időpontjától számított – 168 órás időtartamra aktiválja, amely – legfeljebb az aktív időtartam lejártát megelőző huszonnégy órában kezdeményezett – adategyeztetés ismételt lefolytatásával további 168 óra időtartamra újraaktiválható. A SIM kártya az ismételten elvégzett adategyeztetés elvégzésével korlátlan alkalommal aktiválható újra.
 
