@@ -1,3 +1,0 @@
-1. § (1) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 11. §-át a (2) bekezdés szerinti eltéréssel kell alkalmazni.
-
-(2) Az önellenőrzési célt szolgáló SARS-CoV-2-fertőzés kimutatására szánt antigén gyorsteszt in vitro diagnosztikai orvostechnikai eszköz forgalmazását a Gyftv. 67. § (1) bekezdése szerinti vállalkozás is végezheti a gyártó által rendelkezésre bocsátott tájékoztatóban foglaltaknak megfelelően, összhangban a SARS-CoV-2-fertőzés diagnosztizálására szolgáló antigén gyorstesztek európai uniós alkalmazási követelményeivel.
