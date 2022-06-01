@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-817-20-
 | --- | --- | --- |
 | 2021-12-29 | 2021-817-20-22.1 | 817/2021. (XII. 28.) Korm. rendelet |
 | 2022-01-12 | 2021-817-20-22.2 | 2021. évi I. törvény |
+| 2022-06-01 | 2021-817-20-22.3 | 2021. évi I. törvény |
