@@ -6,4 +6,6 @@ b) a személyazonosság ellenőrzése, valamint az elhalt személyek személyazo
 
 c) az ügyfél ügyintézési rendelkezésének ellenőrzése, valamint a törvényes képviselő személyazonosító igazolvány kiállításához szükséges hozzájáruló nyilatkozatának ellenőrzése céljából az ügyfél ügyintézési rendelkezéseinek nyilvántartásában kezelt adatokat
 
+d) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott célból a gondnokoltak nyilvántartásában kezelt, a törvényben meghatározott adatokat
+
 megismerni.

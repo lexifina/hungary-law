@@ -32,7 +32,9 @@ f) eljár a 12/B. § (2) bekezdésében meghatározott esetben,
 
 g) töröl az apai elismerő nyilatkozatok nyilvántartásából.
 
-(7) Anyakönyvi kivonat kiállítására az anyakönyvvezető és az anyakönyvi szerv jogosult. Az anyakönyvi szerv az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi kivonat kiállítására.
+h) elektronikus úton benyújtott kérelem esetén dönt a házassági névviselési forma módosításáról.
+
+(7) Anyakönyvi kivonat kiállítására az anyakönyvvezető és az anyakönyvi szerv jogosult. Az anyakönyvi szerv az adatoknak az általa történt bejegyzését követően, valamint elektronikus úton benyújtott kérelem esetén jogosult anyakönyvi kivonat kiállítására.
 
 (8) Az anyakönyvi hatósági bizonyítvány kiállítására az anyakönyvvezető jogosult.
 

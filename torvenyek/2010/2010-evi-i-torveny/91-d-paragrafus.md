@@ -1,4 +1,4 @@
-91/D. § Az anyakönyvvezető vagy az anyakönyvi szerv – az anyakönyvi adatváltozásnak az elektronikus anyakönyvben történő átvezetését követő 5 munkanapon belül – értesíti a központi idegenrendészeti szervet, ha a házasságot vagy a bejegyzett élettársi kapcsolatot bíróság, közjegyző vagy más hatóság
+91/D. § A nyilvántartó szerv – az anyakönyvi adatváltozásnak az elektronikus anyakönyvben történő átvezetését követően haladéktalanul – értesíti a központi idegenrendészeti szervet, ha a házasságot vagy a bejegyzett élettársi kapcsolatot bíróság, közjegyző vagy más hatóság
 
 a) érvénytelenítette,
 

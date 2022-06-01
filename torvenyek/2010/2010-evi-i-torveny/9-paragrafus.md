@@ -4,6 +4,8 @@
 
 a) az elektronikus anyakönyvben szereplő bejegyzés esetén bármely anyakönyvvezető,
 
-b) az elektronikus anyakönyvben még nem szereplő anyakönyvi bejegyzés esetén a nyilvántartó anyakönyvvezető
+b) az elektronikus anyakönyvben még nem szereplő anyakönyvi bejegyzés esetén a nyilvántartó anyakönyvezető,
+
+c) az elektronikus anyakönyvben szereplő anyakönyvi bejegyzés vonatkozásában elektronikusan benyújtott kérelem esetén az anyakönyvi szerv
 
 illetékes.
