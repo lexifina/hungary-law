@@ -1,5 +1,5 @@
-## 32. §[^6]
+## 32. §[^8]
 
 ## 19. Az elektronikus ügyintézés speciális szabályai
 
-[^6]: A 32. §-t a 92. § hatályon kívül helyezte.
+[^8]: A 32. §-t a 92. § hatályon kívül helyezte.

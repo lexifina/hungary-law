@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-284-20-
 | 2021-01-02 | 2020-284-20-22.8 | 2010: CXXX. törvény |
 | 2021-07-01 | 2020-284-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-07-02 | 2020-284-20-22.10 | 2010: CXXX. törvény |
+| 2022-06-01 | 2020-284-20-22.11 | 195/2022. (V. 27.) Korm. rendelet |

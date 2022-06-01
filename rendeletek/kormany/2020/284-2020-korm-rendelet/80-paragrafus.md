@@ -1,3 +1,3 @@
-## 79. §[^53]
+## 79. §[^55]
 
-[^53]: A 79. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 79. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 70. §[^44]
+## 70. §[^46]
 
-[^44]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

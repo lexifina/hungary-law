@@ -1,5 +1,5 @@
-## 76. §[^50]
+## 76. §[^52]
 
 ## 40. A mezőgazdasági őstermelői igazolványról szóló 436/2015. (XII. 28.) Korm. rendelet módosítása
 
-[^50]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

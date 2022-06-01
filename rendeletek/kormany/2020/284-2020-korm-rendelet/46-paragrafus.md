@@ -1,5 +1,5 @@
-## 45. §[^19]
+## 45. §[^21]
 
 ## 30. Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet módosítása
 
-[^19]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
