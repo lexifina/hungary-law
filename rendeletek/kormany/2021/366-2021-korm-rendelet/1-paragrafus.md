@@ -1,3 +1,0 @@
-1. § (1) A Kormány a Covid–19-világjárvány idején a szabad mozgás megkönnyítése érdekében az interoperábilis, Covid–19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok (uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló, 2021. június 14-i (EU) 2021/953 európai parlamenti és tanácsi rendelet (a továbbiakban: EUr.) szerinti uniós digitális Covid-igazolvány (a továbbiakban: digitális Covid-igazolvány) kiállításáért felelős szervként Budapest Főváros Kormányhivatalát (a továbbiakban: kiállító szerv) jelöli ki.
-
-(2) A kiállító szerv az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetőjének adatfeldolgozóként történő bevonásával látja el az (1) bekezdés szerinti feladatát.
