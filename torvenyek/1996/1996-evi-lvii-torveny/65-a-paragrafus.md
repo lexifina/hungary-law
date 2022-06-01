@@ -2,11 +2,13 @@
 
 a) a 11. §-ban vagy a 21. §-ban, illetve az EUMSz. 101. vagy 102. cikkében tilalmazott magatartások miatt indított versenyfelügyeleti eljárásban,
 
-b) a 67. § (3) és (6)–(8) bekezdése alapján indított versenyfelügyeleti eljárásban, vagy
+b) a 67. § (3) és (6)–(8) bekezdése alapján indított versenyfelügyeleti eljárásban,
 
-c) a 67. § (4) bekezdése alapján indított versenyfelügyeleti eljárásban a 29. § szerinti tilalom megsértésének, illetve az összefonódás-bejelentésben lényeges tény félrevezető közlésének valószínűsíthetősége esetén
+c) a 67. § (4) bekezdése alapján indított versenyfelügyeleti eljárásban a 29. § szerinti tilalom megsértésének, illetve az összefonódás-bejelentésben lényeges tény félrevezető közlésének valószínűsíthetősége esetén vagy
 
-a vizsgálat tárgyát képező jogsértéssel, illetve a vizsgált összefonódással kapcsolatos bizonyítási eszközök felkutatása céljából bármely ingatlant, járművet, adathordozót – a (2) bekezdésben foglaltakat is beleértve – átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat (a továbbiakban: helyszíni kutatás).
+d) a 43/D. § (1a) bekezdése szerinti gyorsított ágazati vizsgálat esetén,
+
+a vizsgálat tárgyát képező jogsértéssel, a vizsgált összefonódással, illetve a gyorsított ágazati vizsgálattal kapcsolatos bizonyítási eszközök felkutatása céljából bármely ingatlant, járművet, adathordozót – a (2) bekezdésben foglaltakat is beleértve – átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat (a továbbiakban: helyszíni kutatás).
 
 (1a) A helyszíni kutatás eredményes és biztonságos lefolytatása érdekében a Gazdasági Versenyhivatal a rendőrség közreműködését igényelheti.
 
