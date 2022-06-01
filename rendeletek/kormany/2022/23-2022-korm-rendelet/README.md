@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-23-20-2
 | 2022-02-02 | 2022-23-20-22.6 | 2010: CXXX. törvény |
 | 2022-02-12 | 2022-23-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-02-13 | 2022-23-20-22.8 | 2010: CXXX. törvény |
+| 2022-06-01 | 2022-23-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |

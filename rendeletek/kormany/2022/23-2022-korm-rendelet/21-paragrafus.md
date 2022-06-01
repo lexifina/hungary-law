@@ -1,4 +1,4 @@
-## 20. §[^22]
+## 20. §[^13]
 
 ## 4. Záró rendelkezések
 
@@ -18,4 +18,4 @@
 
 (8) A 7. § 2022. augusztus 1-jén lép hatályba.
 
-[^22]: A 20. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 20. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
