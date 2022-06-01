@@ -1,3 +1,0 @@
-4. § (1) Az R1. 72/H. § (2) és (3) bekezdése szerinti kormányhivatal szakhatóságként nem működik közre az összevont kérelmezési eljárásban abban az esetben sem, ha a harmadik országbeli állampolgár a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter – a Nemzetbiztonsági Kabinet előzetes állásfoglalására tekintettel kiadott – közleményében meghatározott harmadik ország állampolgára, aki a közleményben meghatározott foglalkoztatásokban minősített foglalkoztatónál kerül foglalkoztatásra, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
-
-(2) Az R1. 72/H. § (10) bekezdésében foglaltakon kívül kiemelt foglalkoztatónak minősül az e rendelet szerinti nyilvántartásban szereplő minősített foglalkoztató is.

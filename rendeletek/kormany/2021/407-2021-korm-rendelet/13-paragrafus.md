@@ -1,7 +1,0 @@
-## 12. § Az állami foglalkoztatási szervi hatósági jogkört a kormányhivatal gyakorolja a minősített foglalkoztató nyilvántartásba vételével, ellenőrzésével és nyilvántartásból törlésével kapcsolatos ügyekben is.
-
-13. § (1) A foglalkoztatás-felügyeleti hatósági ellenőrzés szempontjából minimumkövetelménynek kell tekinteni a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi foglalkoztatásának bejelentésére és harmadik országbeli állampolgár minősített foglalkoztatóként történő foglalkoztatása esetén a jogszabályok szerinti, a harmadik országbeli állampolgár felé fennálló kötelező tájékoztatásra vonatkozó szabályok megtartását is.
-
-(2) A foglalkoztatás-felügyeleti hatóság munkaügyi bírságot szab ki, ha a foglalkoztató minősített foglalkoztatóként nem tett eleget a harmadik országbeli állampolgárok foglalkoztatása során jogszabályban meghatározott, a harmadik országbeli állampolgár felé fennálló tájékoztatási kötelezettségének.
-
-(3) Az államháztartásról szóló törvény alkalmazása szempontjából nem felel meg a rendezett munkaügyi kapcsolatok követelményének az, akit a foglalkoztatás-felügyeleti hatóság a minősített foglalkoztató nyilvántartásba vételével kapcsolatos szabályok megsértése miatt a költségvetési támogatás igénylésének időpontját megelőző két éven belül végleges – közigazgatási per esetén a bíróság jogerős ítéletével elbírált – és végrehajtható, nyilvánosságra hozott közigazgatási határozatban bírsággal sújtott.
