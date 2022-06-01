@@ -1,3 +1,0 @@
-## 13. §[^16] Ha a fogyatékossági támogatás, a megváltozott munkaképességű személyek ellátásai, az Szt. és a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) hatálya alá tartozó pénzbeli és természetbeni ellátás megállapítása iránti eljárásban az ügyfél a hiánypótlási felhívásban foglaltaknak határidőben nem tesz eleget, az eljáró hatóság az eljárást a hiánypótlás teljesítéséig, de legkésőbb a veszélyhelyzet megszűnését követő 15. napig felfüggesztheti.
-
-[^16]: A 13. § a 649/2021. (XI. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
