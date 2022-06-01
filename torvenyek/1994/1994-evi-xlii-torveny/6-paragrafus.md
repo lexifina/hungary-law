@@ -6,7 +6,9 @@ a) forrásszerzés céljából a 2. § (1) bekezdés g) pont ga) alpontja alapj�
 
 b) kormányrendeletben előírt feltételekkel vállalt garanciaügyletek esetleges beváltásából,
 
-c) a deviza- és kamatcsere ügyletek pótlási költségéből
+c) a deviza- és kamatcsere ügyletek pótlási költségéből, valamint
+
+d) a Kormány határozata alapján nyújtott hitel- és pénzkölcsönből
 
 eredő fizetési kötelezettségek teljesítéséért.
 
