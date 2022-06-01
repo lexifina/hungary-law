@@ -6,7 +6,9 @@ b)
 
 c) a rágóképesség helyreállítása érdekében miniszteri rendeletben meghatározott típusú fogpótlásra;
 
-d)–e)
+d)
+
+e)
 
 f)
 

@@ -96,4 +96,6 @@ d) az ellátásért fizetendő, a térítési díj ellenében igénybe vehető e
 
 (12)
 
-(13)–(14)
+(13)
+
+(14)
