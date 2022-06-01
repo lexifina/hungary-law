@@ -6,7 +6,7 @@
 
 3. a koncessziós pályázatok értékelését végző, a koncesszióról szóló 1991. évi XVI. törvény 30/A. § c) pontja szerinti bizottság létrehozására és összetételére,
 
-4. a bányajáradékra, annak befizetésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
+4. a bányajáradékra, annak és a 27/C. § szerinti kiegészítő bányajáradék befizetésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
 
 5.
 
@@ -231,6 +231,8 @@ h) a piacfelügyeleti intézkedésre okot adó állapot fennállását,
 i) a 27/B. § (1) bekezdése szerinti szabályokat és követelményeket,
 
 j) a bányafelügyelet piacfelügyeleti intézkedésre okot adó állapot alapján lefolytatandó eljárásainak részletes szabályait.
+
+k) a 27/C. § szerinti kiegészítő bányajáradékkal érintett termékek piacfelügyeleti intézkedésre okot adó állapot időtartama alatt figyelembevételre kerülő viszonyítási egységárát, valamint a kiegészítő bányajáradék fizetési kötelezettséget megalapozó – a 27/C. § (2) bekezdés b) pontjában meghatározott tevékenységi körökön belüli – gazdasági tevékenységet,
 
 (2) Felhatalmazást kap a miniszter
 
