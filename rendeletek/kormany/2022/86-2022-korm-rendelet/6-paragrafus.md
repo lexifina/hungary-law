@@ -8,7 +8,7 @@ b)[^8] az a) pont szerinti ellátáson túl az onkológiai szakellátás, egyéb
 
 c) a Metvhr. 49. §-a szerinti okmány fordítási költségeinek megtérítése
 
-## illeti meg.
+illeti meg.
 
 (3) Ha a menedékes vagy a menedékesként elismerését kérő nem befogadó állomáson kerül elhelyezésre, a Metvhr. 59. §-ának alkalmazásában befogadó állomás alatt a számára e célra kijelölt egyéb szálláshelyet is érteni kell.
 

@@ -14,6 +14,6 @@ f) 39. §-a,
 
 g) 74–76. §-a
 
-## rendelkezéseit.
+rendelkezéseit.
 
 (2) A Metvhr. 1. melléklete szerinti menedékes személyazonosságát és tartózkodási jogát igazoló okmányra vonatkozó rendelkezés helyett az 1. melléklet szerinti menedékes személyazonosságát és tartózkodási jogát igazoló okmányra vonatkozó rendelkezést kell alkalmazni.

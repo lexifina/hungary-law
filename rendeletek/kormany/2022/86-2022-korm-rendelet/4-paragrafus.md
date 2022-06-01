@@ -8,7 +8,7 @@ b) 22. § (1) bekezdés d) pontja,
 
 c) 37. § (2) és (3) bekezdése
 
-## rendelkezéseit.
+rendelkezéseit.
 
 (2) A Met. 43. § (1) és (2) bekezdése szerinti rendelkezést azzal az eltéréssel kell alkalmazni, hogy a menedékesként elismerését kérőt csak szükséges esetben, a tényállás tisztázásához feltétlenül indokolt kérdések tisztázása érdekében kell személyesen meghallgatni.
 
