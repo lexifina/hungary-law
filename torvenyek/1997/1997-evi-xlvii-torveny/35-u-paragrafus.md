@@ -1,0 +1,1 @@
+35/U. § A 35/T. § (2) bekezdése szerinti szerv bejelentés esetén haladéktalanul intézkedik, hogy a feladat- és hatáskörrel rendelkező egészségügyi szolgáltató a 35/T. § (3) bekezdés c) pontja szerinti igazolás adatait az EESZT-ben rögzítse. A 35/T. § (3) bekezdése szerinti adatokat a 35/T. § (2) bekezdése szerinti szerv azok továbbításáig kezeli.
