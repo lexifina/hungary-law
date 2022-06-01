@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-33-00-00
 | 2022-01-01 | 2021. évi CXXII. törvény | 1995-33-00-00.48 |
 | 2022-01-31 | 2021. évi CI. törvény | 1995-33-00-00.49 |
 | 2022-05-25 | 2022. évi IV. törvény | 1995-33-00-00.50 |
+| 2022-06-01 | 2021. évi CXXX. törvény | 1995-33-00-00.51 |

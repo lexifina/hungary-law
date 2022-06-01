@@ -13,3 +13,5 @@
 (5) A törvény hatálybalépésekor hatályos szabadalmak nyilvántartására, fenntartására, megszűnésére és újra érvénybe helyezésére a továbbiakban e törvény rendelkezéseit kell alkalmazni azzal, hogy a szabadalom megsemmisítésének feltételeire az elsőbbség időpontjában hatályos szabályok az irányadók.
 
 (6) E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvény által megállapított 44. § (2) bekezdés c) pontját, 80. § (6) és (7) bekezdését, 104. § (1a)–(2a), (12a) és (14) bekezdését a 2022. január 1. napján vagy azt követően indult eljárásokban kell alkalmazni.
+
+(7) E törvénynek a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény által megállapított 23. § (1) bekezdését a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően esedékessé váló díjak esetében kell alkalmazni.
