@@ -1,3 +1,0 @@
-## 16/D. §[^16] A védelmi intézkedések lépcsőzetes feloldásának ötödik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 264/2021. (V. 21.) Korm. rendelet (a továbbiakban: R3.) hatálybalépését megelőző napon hatályos 2. §-ra, 3. §-ra és 7. §-ra tekintettel az R3. hatálybalépését megelőző napon hatályos 9. és 10. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
-
-[^16]: A 16/D. §-t a 264/2021. (V. 21.) Korm. rendelet 8. §-a iktatta be.
