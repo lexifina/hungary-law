@@ -1,1 +1,0 @@
-## 10. § Ha a kedvezményezett erre irányuló indokolt kérelmet terjeszt elő, a 272/2014. (XI. 5.) Korm. rendelet 117. § (7) bekezdésében meghatározott, a támogatási előleg – vagy több részletben történő előlegfolyósítás esetén annak első részlete – kifizetésétől számított határidőt az irányító hatóság a kérelemben megjelölt időtartammal, de legfeljebb 15 hónapra meghosszabbítja.

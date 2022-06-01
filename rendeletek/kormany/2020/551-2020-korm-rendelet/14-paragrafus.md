@@ -1,1 +1,0 @@
-## 13. § A kizárólag nemzeti hatáskörben megalkotott, elszámolhatóságra vonatkozó előírásokat az irányító hatóságnak a veszélyhelyzet elleni védekezéssel összefüggő jogszabályokkal és a veszélyhelyzet kezelése érdekében elrendelt kormányzati intézkedésekkel összhangban kell alkalmaznia.
