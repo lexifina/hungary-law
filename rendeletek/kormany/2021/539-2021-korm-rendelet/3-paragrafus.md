@@ -1,1 +1,0 @@
-## 2. § A kirendelés időtartama alatt a hallgató számára szállás biztosítása, az étkeztetés megszervezése az egészségügyi szolgáltató feladata, amelyet szükség szerint a kirendelést végző kormányhivatal bevonásával lát el.
