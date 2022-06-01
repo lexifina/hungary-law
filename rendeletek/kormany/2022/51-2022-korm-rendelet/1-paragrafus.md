@@ -1,9 +1,0 @@
-1. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) IV. Fejezetében foglaltakon túlmenően az Nytv. szerinti nyilvántartást kezelő szerv (a továbbiakban: nyilvántartást kezelő szerv) a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Program) megvalósítása céljából a Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet 6. § e) pontjában foglalt feladat elősegítése és a Program igénybevételére jogosult célcsoport tagjainak bevonása, a kapcsolattartás elősegítése és a Programban biztosított szolgáltatás nyújtásának megkezdése és folytatása érdekében átadja a Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZIN Nonprofit Kft.) részére
-
-a) az e rendelet hatálybalépését követő 15 napon belül azon Magyarországon élő magyar állampolgárságú személyek természetes személyazonosító, valamint érvényes lakcímadatait, akik az adatszolgáltatás időpontjáig betöltötték vagy 2022. december 31-ig betöltik a 65. életévüket (a továbbiakban: Programban részt vevő személy),
-
-b) azon személyek elhalálozásának tényére és idejére vonatkozó adatokat, akiknek az adatai az a) pont szerint átadásra kerültek.
-
-(2) A nyilvántartást kezelő szerv az (1) bekezdés szerinti adatszolgáltatást kapcsolati kód alkalmazásával, díjmentesen teljesíti.
-
-(3) A nyilvántartást kezelő szerv 2022. július 1-jétől kapcsolati kód alkalmazásával, rendszeres adatszolgáltatás keretében értesíti a SZIN Nonprofit Kft.-t a Programban részt vevő személy természetes személyazonosító, valamint érvényes lakcímadatairól, elhalálozásának tényéről és idejéről, valamint külföldön történő letelepedéséről.
