@@ -1,5 +1,3 @@
-## villamosenergia mennyiséget a Detk 220 kV-os csomóponton tápláljon be a villamosenergia-rendszerbe.
-
 2. § (1) A villamosenergia-termelő az 1. § szerinti betáplálást mint az átviteli hálózat biztonságos, stabil üzemállapotának fenntartása érdekében szükséges rendszerbiztonsági szolgáltatást (a továbbiakban: szolgáltatás) teljesíti.
 
 (2) A villamosenergia-termelő a szolgáltatás teljesítéséért ellentételezésre jogosult.
