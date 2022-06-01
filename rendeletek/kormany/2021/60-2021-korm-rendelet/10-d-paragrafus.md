@@ -1,5 +1,0 @@
-10/D. §[^83] (1) Ha jogszabály valamely jog gyakorlása vagy kötelezettség alóli mentesülés érdekében védettség igazolását írja elő, a jog gyakorlása vagy a kötelezettség alóli mentesülés azt a személyt illeti meg, akinek védettsége érvényes. Ha jogszabály védettség igazolását írja elő, védettségi igazolvány bemutatása esetén a védettségi igazolvány létét vizsgáló személy a védettség érvényessége, illetve a személyazonosság megállapítása érdekében köteles a 2. § (1) bekezdés g) pontja szerinti adatot – különösen a 2. § (1e) bekezdése szerinti oltási igazolványon feltüntetett, illetve a személyazonosítására alkalmas, fényképes igazolványon feltüntetett születési dátum összevetésével – is ellenőrizni.
-
-(2) Az (1) bekezdéstől eltérően nem kell a védettség érvényességét ellenőrizni abban az esetben, ha jogszabály munkaviszony jellegű foglalkoztatási jogviszony keretében az oltottság meglétét írta elő, és a foglalkoztatott a jogszabályban előírt oltottsági kötelezettségét teljesítette.
-
-[^83]: A 10/D. §-t a 164/2022. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
