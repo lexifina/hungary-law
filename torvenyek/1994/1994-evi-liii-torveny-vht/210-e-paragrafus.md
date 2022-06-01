@@ -1,1 +1,19 @@
-### 210/E. §
+210/E. § (1) A vagyontárgyak árverezésének sorrendjét a végrehajtó határozza meg.
+
+(2) A vagyontárgyakat egyenként és több – zálogjoggal nem terhelt – vagyontárgyat egy árverési tételként is lehet árverezni (utóbbi a továbbiakban: együttes árverezés). Együttes árverezés esetében az árverési hirdetményben a vagyontárgyak adatait – ide nem értve a kikiáltási árat – vagyontárgyanként külön-külön kell feltüntetni, a kikiáltási áron és a 132/B. § (1) bekezdés a) pontja szerinti értékhatáron pedig az egyesített árverési tétel összesített becsértékét kell érteni.
+
+(3) Ha ingóság kerül ingatlannal együtt, egy árverési tételként árverezésre, az árverésre és a végrehajtás során befolyt vételár felosztására az ingatlan-végrehajtás szabályait kell alkalmazni. Az ingatlan árveréséhez nem szükséges a végrehajtást kérő kérelme.
+
+(4) Dolgozói részvényt a Polgári Törvénykönyvben az örökös részére biztosított átruházási határidőben a végrehajtó árverés tartásával értékesíti az annak megszerzésére jogosult személy részére; egyéb személyek az árverésből kizárt személynek minősülnek. Ha csak egy személy jogosult a részvény megszerzésére, áverésen kívüli, árverés hatályával történő eladással is történhet az értékesítés e személy részére legalább a becsértéket elérő vételáron. Ha a Polgári Törvénykönyv szerint már csak a társaság jogosult az átalakított részvény értékesítésére, a névértéknek megfelelő összeget a társaság a végrehajtó részére köteles kifizetni, aki azt az értékesítésből befolyt vételár szabályai szerint kezeli.
+
+(5) Ingóság hagyományos árverezése esetén az első árverés során a kikiáltási ár fokozatosan a becsérték 25%-áig szállítható le, ha a felajánlott vételár nem éri el a kikiáltási árat. Ingóság elektronikus árverezése esetén az első árverés során a 132/F. § (6d) bekezdésében foglaltaktól eltérően az árverés negyedik szakaszában is legalább a kikiáltási ár 25%-ának megfelelő összeggel tehető érvényes vételi ajánlat. Az ingóság második árverezése során a kikiáltási ár leszállítására az általános szabályok irányadók.
+
+(6) Az árverési vevő köteles az elárverezett ingóságokat az árverési jegyzőkönyv aláírásával és a vételár megfizetésével egyidejűleg, elektronikus árverés esetén pedig az árverési jegyzőkönyv aláírását, valamint a vételár megfizetését követő 15 napon belül átvenni és elszállítani, ennek elmulasztása esetén a végrehajtó az ingóság hulladékként való átadása iránt intézkedik.
+
+(7) Ingatlan esetében, ha az első árverés sikertelen volt, második árverést kell tartani.
+
+(8) Ha a vagyontárgyat nem sikerül árverésen értékesíteni – és ingóság esetében azt a végrehajtást kérő sem vette át a követelése fejében –, a foglalás alól fel kell oldani és mint értékesítésre alkalmatlan vagyontárgyat a kötelezettnek vissza kell adni azzal, hogy ingóság esetén a végrehajtó tájékoztatja a kötelezettet a hulladékként történő kezelés lehetőségéről. A kötelezettnek visszaadott vagyontárgyat csak azok a jogok terhelik, amelyek e törvény szerint az árverést követően is fennmaradnak a vagyontárgyon; a végrehajtó a visszaadást azt követően foganatosítja, hogy intézkedett a vagyontárgy – e jogok kivételével történő – tehermentesítése érdekében akként, hogy megkeresi a vagyontárgyat terhelő jogokat bejegyzett szerveket a jogok töröltetése érdekében.
+
+(9) A kötelezett a visszaadott ingóság esetében kérheti a végrehajtótól az ingóság 135. § (3) bekezdése szerinti kezelését, amelyet a végrehajtó az ingóságnak a hulladékgazdálkodásra vonatkozó jogszabályok szerinti gyűjtésére vagy hasznosítására jogosult szervezet részére történő átadással teljesít. Az átadás költségei végrehajtási költségnek, az átadásból származó bevétel pedig végrehajtás során befolyt összegnek minősül.
+
+(10) A végrehajtó a befolyt összeg kifizetése iránt a VIII. Fejezetben foglaltak szerint intézkedik; a végrehajtás során befolyt összegből a végrehajtási költségek és a felosztási tervben szereplő követelések kielégítését követően fennmaradó összeget fizeti meg a kötelezett részére.

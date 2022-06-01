@@ -1,1 +1,7 @@
-### 210/F. §
+210/F. § (1) A végrehajtó az örökhagyóval szemben indított bírósági végrehajtási ügyek felkutatása érdekében a végrehajtási költségek megelőlegezését követő 3 munkanapon belül megkeresi a Kart a végrehajtási ügyekről vezetett nyilvántartásból történő adatszolgáltatás érdekében. A (3) bekezdés szerinti tájékoztatást a végrehajtó a Kar által megjelölt további végrehajtási ügyeket foganatosító végrehajtó részére is megküldi. E további végrehajtási eljárásban a (2)–(4) bekezdés szerint kell eljárni.
+
+(2) A vagyontárgyat – a (4) bekezdésben foglalt kivétellel – a végrehajtó értékesíti abban az esetben is, ha azt egy másik bírósági végrehajtási eljárásban is lefoglalták.
+
+(3) A végrehajtó az ezen alcím szerinti végrehajtás elrendeléséről a lefoglalásról való tudomásszerzést követő 3 munkanapon belül értesíti a vagyontárgyat másik végrehajtási ügyben lefoglaló végrehajtót és – e másik végrehajtó által megküldött, a végrehajtás során befolyt összeg kifizetéséhez szükséges adatok alapján – ezt a követelést is szerepelteti az árverési hirdetményben, felosztási tervben.
+
+(4) Ha a másik végrehajtási eljárásban a vagyontárgy áverési hirdetményét már közzétették, a végrehajtó megküldi a végrehajtás során befolyt összeg kifizetéséhez szükséges adatokat az értékesítést foganatosító végrehajtónak, aki az értékesítést lefolytatja, a végrehajtás során befolyt összeg felosztása és kifizetése, valamint szükség esetén a vagyontárgy árverési vevő részére történő birtokba adása iránt intézkedik, a többi eljárási cselekmény foganatosítása céljából pedig átadja az ügyet a végrehajtónak.

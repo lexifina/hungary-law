@@ -1,6 +1,6 @@
 16. § Végrehajtási lapot állít ki
 
-a) a közjegyző által hozott, marasztalást tartalmazó határozat és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség alapján bármelyik közjegyző, továbbá a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke alapján a költségjegyzéket kiállító közjegyzőn kívüli bármelyik közjegyző,
+a) a közjegyző által hozott, marasztalást tartalmazó határozat és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség alapján bármelyik közjegyző, a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke alapján a költségjegyzéket kiállító közjegyzőn kívüli bármelyik közjegyző, a közjegyző hagyatékot átadó végzése alapján, valamint a póthagyatéki eljárásban hozott végzése alapján a 210/C. § (1) bekezdése szerinti közjegyző,
 
 b) a bíróság szolgálati bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak eljárási költség megfizetésére kötelező határozata alapján az adós lakóhelye szerinti járásbíróság (kerületi bíróság; a továbbiakban együtt: járásbíróság),
 
