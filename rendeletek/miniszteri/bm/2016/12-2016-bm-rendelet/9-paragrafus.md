@@ -1,5 +1,7 @@
 9. § (1) Az ujj- és tenyérnyomat, valamint a DNS-minta rögzítését a szakértői nyilvántartó szerv által előzetesen jóváhagyott és feltüntetett eszközzel és módon kell végezni. A szakértői nyilvántartó szerv a jóváhagyott eszközöket és módszereket a honlapján közzéteszi.
 
+(1a)[^5] A 3. § (2) bekezdésében meghatározott esetben a büntetés-végrehajtási intézet a nyomozást végző nyomozó hatóság részére legkésőbb a megkeresés kézhezvételétől számított nyolc napon belül – elkülönítés esetén annak lejártát követően haladéktalanul – megküldi a terhelthez kapcsolódó ujjnyomat-lapot, tenyérnyomat-lapot, illetve DNS-mintát és – a mintavételt foganatosító személy által aláírt és a mintavétel helye tekintetében kitöltött mintavételi jegyzőkönyvvel együtt – a DNS-mintavételi egységcsomagot.
+
 (2) Az ujj- és tenyérnyomat rögzítését követően a nyomozó hatóság, az ügyészség vagy a katonai nyomozó hatóság megküldi
 
 a) a helyszíni mintát,
@@ -41,3 +43,5 @@ c) a DNS-profil meghatározásának szakmai módszertani követelményeiről sz�
 (6) A szakértői nyilvántartó szerv a DNS-profil nyilvántartásba vételéről szóló döntését közli a kirendelt szervvel, valamint az ügyben eljáró nyomozó hatósággal, ügyészséggel vagy katonai nyomozó hatósággal.
 
 (7) Az adatközlő adatlapon megjelölt eljáró szerv kódját és a bűncselekmény adatai cím alatt megjelölt kódokat az eljáró nyomozó hatóság, nyomozó ügyész vagy ügyészségi nyomozó az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról szóló miniszteri rendelet rendelkezéseinek megfelelően kiadott iránymutatás alapján tölti ki.
+
+[^5]: A 9. § (1a) bekezdését a 17/2022. (V. 31.) BM rendelet 3. §-a iktatta be.

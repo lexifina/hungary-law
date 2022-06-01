@@ -1,5 +1,3 @@
-## hajtja végre.
-
 4. § (1) Ha a nyomozást a Nemzeti Adó- és Vámhivatal végzi,
 
 a) az ujj- és tenyérnyomat és a DNS-minta rögzítését a Nemzeti Adó- és Vámhivatalnál alkalmazott bűnügyi technikus,

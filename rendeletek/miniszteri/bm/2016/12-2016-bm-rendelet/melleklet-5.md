@@ -16,7 +16,7 @@ c) 1 db vonalkóddal ellátott, szájnyálkahártya-törlet biztosítására alk
 
 d) 4 db vonalkódos matrica az eszköz nejlontasakján,
 
-e)[^5] 1 db páramegkötő tasak,
+e)[^10] 1 db páramegkötő tasak,
 
 f) 1 pár egyszer használatos kesztyű,
 
@@ -44,13 +44,13 @@ g) a mintavétel helyét és időpontját az év, hónap és nap megjelölésév
 
 7. A mintavételt végző személy az egységcsomagban található egyszer használatos kesztyűt köteles viselni a mintavételi eljárás egész ideje alatt.
 
-8.[^6] A szájnyálkahártya-törlet biztosítására szolgáló eszköz mintavevő papír felületével a terhelt szájüregének oldalfalát határozott mozdulatokkal ötször ki kell törölni.
+8.[^11] A szájnyálkahártya-törlet biztosítására szolgáló eszköz mintavevő papír felületével a terhelt szájüregének oldalfalát határozott mozdulatokkal ötször ki kell törölni.
 
-9.[^7] A mintavevő eszközt csúszó-fedelének lezárását követően, annak eredeti csomagolására szolgáló nejlontasakba vissza kell helyezni, majd mellé kell helyezni a páramegkötő tasakot.
+9.[^12] A mintavevő eszközt csúszó-fedelének lezárását követően, annak eredeti csomagolására szolgáló nejlontasakba vissza kell helyezni, majd mellé kell helyezni a páramegkötő tasakot.
 
 10. Ha a mintavevő eszköz szájnyálkahártya-törlet biztosítására szolgáló felülete a mintavétel során a terhelt szájüregén kívül más felülettel is érintkezik, a mintavételt meg kell szakítani, a mintavevő egységcsomagot össze kell rakni, le kell zárni. A mintavétel során potenciálisan beszennyeződött egységcsomagot „RONTOTT” felirattal vissza kell küldeni a szakértői nyilvántartó szerv részére. A mintát új egységcsomag felhasználásával kell biztosítani.
 
-11.[^8] Az egyedi vonalkódmatricával ellátott adatlapot, a szájnyálkahártya-törletet és nedvesség eltávolító tasakot tartalmazó nejlontasakot rajta minimum 2 db vonalkóddal egyetemben vissza kell helyezni a fekete színű csomagba, majd azt a terhelt jelenlétében le kell zárni. Lezárás során alkalmazni kell a fekete tasak fülének öntapadós záró felületét és a piros színű öntapadós záró címkét is.
+11.[^13] Az egyedi vonalkódmatricával ellátott adatlapot, a szájnyálkahártya-törletet és nedvesség eltávolító tasakot tartalmazó nejlontasakot rajta minimum 2 db vonalkóddal egyetemben vissza kell helyezni a fekete színű csomagba, majd azt a terhelt jelenlétében le kell zárni. Lezárás során alkalmazni kell a fekete tasak fülének öntapadós záró felületét és a piros színű öntapadós záró címkét is.
 
 12. A mintavételről – a mintavételi egységcsomag részét képező – jegyzőkönyvet kell kitölteni, amit belső azonosító kóddal kell ellátni.
 
@@ -58,7 +58,7 @@ g) a mintavétel helyét és időpontját az év, hónap és nap megjelölésév
 
 14. A DNS-mintát a szakértői nyilvántartó szerv részére kell megküldeni.
 
-[^5]: Az 5. melléklet 3. pont e) alpontja a 8/2021. (III. 17.) BM rendelet 25. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
-[^6]: Az 5. melléklet 8. pontja a 8/2021. (III. 17.) BM rendelet 25. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
-[^7]: Az 5. melléklet 9. pontja a 8/2021. (III. 17.) BM rendelet 25. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
-[^8]: Az 5. melléklet 11. pontja a 8/2021. (III. 17.) BM rendelet 25. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^10]: Az 5. melléklet 3. pont e) alpontja a 8/2021. (III. 17.) BM rendelet 25. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^11]: Az 5. melléklet 8. pontja a 8/2021. (III. 17.) BM rendelet 25. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^12]: Az 5. melléklet 9. pontja a 8/2021. (III. 17.) BM rendelet 25. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^13]: Az 5. melléklet 11. pontja a 8/2021. (III. 17.) BM rendelet 25. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.

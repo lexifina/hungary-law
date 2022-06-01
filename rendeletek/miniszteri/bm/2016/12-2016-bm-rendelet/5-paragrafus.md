@@ -20,8 +20,10 @@ b) a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére tört
 
 ## példányát.
 
-(6) A (2) és a (3) bekezdés szerinti megkeresés alapján az ujj- és tenyérnyomat rögzítését, a DNS-minta rögzítését, az ujj- és tenyérnyomat-vételt, valamint a DNS-mintavételt a (2) és a (3) bekezdés szerinti rendőrkapitányság állományához tartozó, 3. §-ban meghatározott személy végzi.
+(6)[^4] A (2) és a (3) bekezdés szerinti megkeresés alapján az ujj- és tenyérnyomat rögzítését, a DNS-minta rögzítését, az ujj- és tenyérnyomat-vételt, valamint a DNS-mintavételt a (2) és a (3) bekezdés szerinti rendőrkapitányság állományához tartozó, 3. § (1) bekezdésében meghatározott személy végzi.
 
 (7) A (4) bekezdés szerinti megkeresés alapján az ujj- és tenyérnyomat-vételt, valamint a DNS-mintavételt a szabadságvesztés vagy elzárás büntetést végrehajtó büntetés-végrehajtási intézet erre kijelölt és mintavételről oktatásban részesült tagja végzi.
 
 (8) A (2)–(4) bekezdés szerinti megkeresés alapján rögzített, valamint felvett ujj- és tenyérnyomatot, DNS-mintát a rendőrkapitányság, illetve a szabadságvesztés vagy elzárás büntetést végrehajtó büntetés-végrehajtási intézet – az 1. adatlappal együtt – haladéktalanul megküldi a megkereső ügyészség vagy katonai nyomozó hatóság részére.
+
+[^4]: Az 5. § (6) bekezdése a 17/2022. (V. 31.) BM rendelet 4. §-a szerint módosított szöveg.
