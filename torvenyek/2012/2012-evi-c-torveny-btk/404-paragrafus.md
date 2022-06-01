@@ -20,7 +20,7 @@ a hitelező vagy a hitelezők kielégítését részben vagy egészben meghiús�
 
 (3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha
 
-a) a csődbűncselekményt stratégiailag kiemelt jelentőségű gazdálkodó szervezetre nézve követik el, vagy
+a) a csődbűncselekményt stratégiailag kiemelt jelentőségű csődeljárás vagy felszámolási eljárás hatálya alatt álló gazdálkodó szervezetre nézve követik el, vagy
 
 b) a tényleges vagy színlelt vagyoncsökkenés mértéke különösen jelentős.
 
