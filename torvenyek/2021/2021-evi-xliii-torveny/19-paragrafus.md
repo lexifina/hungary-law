@@ -10,6 +10,8 @@ c) a széfszolgáltató neve, rövidített neve;
 
 d) a széfszolgáltatási szerződés időtartama.
 
+e) a széfszolgáltatási szerződés alapján bérelt széf azonosítója, ilyen azonosító hiányában a széfszolgáltatási szerződés száma.
+
 (2) A központi széfnyilvántartás az (1) bekezdésben meghatározott adatok tekintetében nem minősül közhiteles hatósági nyilvántartásnak.
 
 (3) Az (1) bekezdésben meghatározott adatközlést a széfszolgáltató legkésőbb a széfszolgáltatási szerződés megkötését követő 5 munkanapon belül, ezt követően pedig az adatokban bekövetkezett változást követő 5 munkanapon belül teljesíti.
