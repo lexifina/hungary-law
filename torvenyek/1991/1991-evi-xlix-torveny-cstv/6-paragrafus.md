@@ -100,7 +100,7 @@ h) a felszámolási zárómérleggel és a vagyonfelosztási javaslattal szemben
 
 i) a felszámolási eljárás befejezéséről szóló végzés, kivéve a 63/B. § (4) bekezdése alapján hozott határozatot azokban az esetekben, ha az adós gazdálkodó szervezet vezetője a 31. §-ban írt kötelezettségének nem tett eleget, és az adósnak nincs a hitelezők között felosztható vagyona;
 
-j) a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek ellen indult csődeljárásban és indított felszámolási eljárásban az a)–i) pontban foglaltakon kívül is minden olyan határozat, amely ellen külön fellebbezésnek van helye;
+j) a IV. fejezet alapján lefolytatott csődeljárásban és indított felszámolási eljárásban az a)–i) pontban foglaltakon kívül is minden olyan határozat, amely ellen külön fellebbezésnek van helye;
 
 k)
 

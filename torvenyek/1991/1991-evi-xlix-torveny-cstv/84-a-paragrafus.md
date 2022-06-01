@@ -20,7 +20,7 @@ e)
 
 (2) Felhatalmazást kap a Kormány arra, hogy
 
-a) a stratégiailag kiemelt jelentőségű gazdálkodó szervezeteket, és azon belül a 68–70. § szerinti gazdálkodó szervezeteket rendeletben meghatározza, valamint rendeletben kijelölje a 66. § (2) bekezdése szerinti állami felszámolót,
+a) a 65. és 68–70. § szerinti gazdálkodó szervezeteket rendeletben meghatározza, valamint rendeletben kijelölje a 66. § (2) bekezdése szerinti állami felszámolót,
 
 b) meghatározza a 65. § (1) bekezdése és 68. § (2) bekezdése szerinti rendelet kiadásával összefüggő kormány-előterjesztés kötelező elemeit,
 

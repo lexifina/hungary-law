@@ -4,9 +4,9 @@
 
 (3) A felszámolási eljárásban bejelentett követelések 46. § (6) bekezdése szerinti megvizsgálásának határideje 40 nap, a vitatható követelések bíróság számára történő megküldésének határideje 10 nap. A bíróság a vitatható igények elbírálása tárgyában soron kívül dönt.
 
-(4) A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolása esetén a 38. § (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy az óvadék jogosultjának közvetlen kielégítési joga érvényesítésére nyitva álló határidő két hónap.
+(4) Az e fejezet alkalmazásával lefolytatott felszámolási eljárásban a 38. § (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy az óvadék jogosultjának közvetlen kielégítési joga érvényesítésére nyitva álló határidő két hónap.
 
-(5) A 66. § (2) bekezdés szerinti felszámoló a 39. § (1) bekezdése szerinti hitelezői gyűlést 60 napon belül köteles összehívni. A 39. §-ban foglalt kötelezettségek megszegése esetén a bíróság az állami felszámoló felmentése helyett a társaságot és a felszámolóbiztost 300 000 forintig terjedő pénzbírsággal sújtja. A hitelezők, a hitelezői választmány (hitelezők képviselője) tájékoztatására vonatkozó kötelezettsége teljesítésekor a felszámolóbiztos köteles figyelembe venni az adós stratégiailag kiemelt, sajátos tevékenységével összefüggő titokvédelmi követelményeket is.
+(5) A 66. § (2) bekezdés szerinti felszámoló a 39. § (1) bekezdése szerinti hitelezői gyűlést 60 napon belül köteles összehívni. A 39. §-ban foglalt kötelezettségek megszegése esetén a bíróság az állami felszámoló felmentése helyett a társaságot és a felszámolóbiztost 300 000 forintig terjedő pénzbírsággal sújtja. A hitelezők, a hitelezői választmány (hitelezők képviselője) tájékoztatására vonatkozó kötelezettsége teljesítésekor a felszámolóbiztos köteles figyelembe venni az adós 65. § (3) bekezdése szerinti, sajátos tevékenységével összefüggő titokvédelmi követelményeket is.
 
 (6) A 41. § (5) bekezdése szerinti egyezségi tárgyalást az adós kérelmének kézhezvételétől számított 45 napon belül kell megtartani. Egyezség megkötésére a 44. § (1) bekezdését és 45. §-át azzal az eltéréssel kell alkalmazni, hogy a bíróság az egyezséget akkor is jóváhagyhatja, ha az egyezséget támogató hitelezők követelése az egyezség megkötésére jogosult hitelezők összes követelésének legalább a felét kiteszi.
 

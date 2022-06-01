@@ -1,4 +1,4 @@
-66. § (1) A 65. § szerinti esetekben a stratégiailag kiemelt jelentőségű gazdálkodó szervezet csődeljárása és felszámolása esetén az e törvény rendelkezéseit az e §-ban és a 67. §-ban foglalt eltérésekkel kell alkalmazni.
+66. § (1) A 65. § szerinti esetekben a stratégiailag kiemelt csődeljárásokra és felszámolási eljárásokra e törvény rendelkezéseit az e §-ban és a 67. §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) Az e fejezet alkalmazásában vagyonfelügyelőként, ideiglenes vagyonfelügyelőként, rendkívüli vagyonfelügyelőként, illetve felszámolóként a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló nonprofit gazdasági társaság (a továbbiakban: állami felszámoló) jár el. Az állami tulajdonosi joggyakorló az állami felszámolót az e törvény szerinti eljárása során nem utasíthatja.
 

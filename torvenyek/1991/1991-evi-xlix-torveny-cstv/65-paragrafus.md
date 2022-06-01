@@ -1,8 +1,8 @@
 ## IV. Fejezet
 
-## A STRATÉGIAILAG KIEMELT JELENTŐSÉGŰ GAZDÁLKODÓ SZERVEZETEKRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
+## A STRATÉGIAILAG KIEMELT JELENTŐSÉGŰ CSŐDELJÁRÁSOKRA ÉS FELSZÁMOLÁSI ELJÁRÁSOKRA VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
 
-65. § (1) A Kormány rendeletben stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősítheti azokat a (3) bekezdésben meghatározott körbe tartozó gazdálkodó szervezeteket,
+65. § (1) A Kormány rendeletben az e fejezetben foglaltak alkalmazásáról hozhat döntést azokra a gazdálkodó szervezetekre vonatkozóan,
 
 a) amelyek adósságainak rendezéséhez, hitelezőikkel való megegyezéséhez nemzetgazdasági érdek vagy kiemelt közérdek fűződik, vagy
 
@@ -16,7 +16,7 @@ b) felszámolási eljárás esetén, ha egyezségi tárgyalásra kerül sor, leg
 
 hirdetheti ki.
 
-(3) Stratégiailag kiemelt jelentőségűnek minősíthető az a gazdálkodó szervezet,
+(3) Az (1) bekezdés szerinti döntés hozható arra a gazdálkodó szervezetre,
 
 a) amelynek működése nemzetbiztonsági, honvédelmi, rendvédelmi, haditechnikai, energiabiztonsági, energiaellátási, iparbiztonsági, katasztrófavédelmi, természetvédelmi, környezetvédelmi, közegészségügyi, közműszolgáltatási, infrastruktúra-fejlesztési, kulturális örökségvédelmi, tömegtájékoztatási, hírközlési, közlekedési, közlekedésbiztonsági, kutatásfejlesztési, népegészségügyi indokból vagy a lakosság alapvető közszolgáltatásokkal, alapvető élelmiszerekkel való ellátása szempontjából országos jelentőségűnek, valamint bel- és külgazdasági, foglalkoztatáspolitikai szempontból, vagy a lakosság távhőszolgáltatással vagy más közműszolgáltatással való ellátása szempontjából kiemelt vállalkozásnak tekinthető,
 
