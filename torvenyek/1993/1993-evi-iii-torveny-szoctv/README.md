@@ -74,3 +74,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2021-07-01 | 2021. évi LXXXV. törvény | 1993-3-00-00.123 |
 | 2022-01-01 | 2020. évi CXLVII. törvény | 1993-3-00-00.124 |
 | 2022-05-25 | 2022. évi IV. törvény | 1993-3-00-00.125 |
+| 2022-06-01 | 2022. évi V. törvény | 1993-3-00-00.126 |
