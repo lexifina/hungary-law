@@ -2,6 +2,8 @@
 
 (1a) Szakértőként a jogszabályban kijelölt örökségvédelmi szerv vehető igénybe.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4)
