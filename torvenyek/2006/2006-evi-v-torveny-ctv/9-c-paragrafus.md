@@ -1,6 +1,6 @@
 9/C. § (1) A cégbíróság e törvényben megállapított esetben eltiltja a cégnek a kényszertörlési eljárás megindításának időpontjában vagy az azt megelőző két évben bejegyzett vezető tisztségviselőjét, korlátlan tagi felelősséggel működő cég esetén a cég tagjait (tagját), korlátolt tagi felelősséggel működő gazdasági társaság esetén a társaság többségi befolyással rendelkező tagját. E § szerinti szabályt kell alkalmazni akkor is, ha a cég törlésére felszámolási eljárásban történő megszüntetést követően kerül sor, azonban a felszámolási eljárást kényszertörlési eljárás előzte meg.
 
-(2)
+(2) A cégbíróság a felszámolási eljárást követően, folytatva a kényszertörlési eljárást, az eltiltásról a kényszertörlési eljárás iratai, különösen a törvénysértő működésben való közrehatás vizsgálata során keletkezett bizonyítási eszközök alapján dönt, azonban szükség esetén további bizonyítást is lefolytathat.
 
 (3) Ha e törvény az eltiltás mellőzéséről nem rendelkezik, a cégbíróság az érintett személyt
 
