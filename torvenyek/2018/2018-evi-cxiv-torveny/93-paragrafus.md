@@ -54,7 +54,7 @@
 
 27. a honvédelmi alkalmazott feladatellátási helyére történő visszarendelésére, a visszarendelés ellentételezésére, a honvédelmi alkalmazott külföldre utazásának bejelentésére vonatkozó részletes szabályokat,
 
-28. a honvédelmi alkalmazottak kegyeleti gondoskodásának szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit, valamint az árvák kiegészítő támogatása megállapításának és folyósításának szabályait,
+28. a honvédelmi alkalmazottak kegyeleti gondoskodásának szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit,
 
 29. a kártérítési és a fegyelmi eljárás részletes eljárási szabályait, illetve – ha szükséges – ezekkel összefüggésben azt az időtartamot, amely az e törvény szerinti elévülési időbe nem számít bele,
 
@@ -69,3 +69,5 @@
 34. a helyettesítési díjra való jogosultság eseteit, annak mértékét.
 
 35. a 89/D. § (1) bekezdés b) pontja szerinti munkaköröket.
+
+36. a 99/E. § szerinti árvák kiegészítő támogatása megállapításának és folyósításának szabályait.

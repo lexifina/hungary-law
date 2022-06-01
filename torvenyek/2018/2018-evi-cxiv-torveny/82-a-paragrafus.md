@@ -1,1 +1,1 @@
-82/A. § A honvédelmi alkalmazottakra vonatkozó kegyeleti gondoskodás szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit, valamint az árvák kiegészítő támogatása megállapításának és folyósításának részletes szabályait a miniszter rendeletben határozza meg.
+82/A. § A honvédelmi alkalmazottakra vonatkozó kegyeleti gondoskodás szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit a miniszter rendeletben határozza meg.
