@@ -4,6 +4,9 @@
 
 a) a 2021. évben a 2. § szerinti összeg 25%-a,
 
-b) a 2022. évben a 2. § szerinti összeg 50%-a,
+b)[^5]
 
-c) a 2023. évben a 2. § szerinti összeg 75%-a.
+c)[^6]
+
+[^5]: Az 5. § b) pontját a 195/2022. (V. 27.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^6]: Az 5. § c) pontját a 195/2022. (V. 27.) Korm. rendelet 25. §-a hatályon kívül helyezte.
