@@ -1,0 +1,3 @@
+## 3. § A 12/2016. (V. 4.) BM rendelet 9. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) A 3. § (2) bekezdésében meghatározott esetben a büntetés-végrehajtási intézet a nyomozást végző nyomozó hatóság részére legkésőbb a megkeresés kézhezvételétől számított nyolc napon belül – elkülönítés esetén annak lejártát követően haladéktalanul – megküldi a terhelthez kapcsolódó ujjnyomat-lapot, tenyérnyomat-lapot, illetve DNS-mintát és – a mintavételt foganatosító személy által aláírt és a mintavétel helye tekintetében kitöltött mintavételi jegyzőkönyvvel együtt – a DNS-mintavételi egységcsomagot.”
