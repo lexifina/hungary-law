@@ -1,3 +1,3 @@
-## 64. §[^67]
+## „(1d) Rendkívüli pályaalkalmassági vizsgálat a 3. § (2) bekezdés b)–e) pontja esetén a kezdeményező vagy a megkereső szerv írásbeli megkeresése alapján az ügyfél vizsgaközpont általi értesítésével indul.
 
-[^67]: A 64. § a 88. § (5) bekezdése alapján 2022. június 1-jén lép hatályba.
+## (2) Az I. és II. pályaalkalmassági minősítés megszerzése céljából pályaalkalmassági vizsgálatra az jelentkezhet, aki nem minősül – kezdő vezetőnek és rendelkezik érvényes vezetői engedéllyel „B” vagy „C” vagy „D” kategóriában.”

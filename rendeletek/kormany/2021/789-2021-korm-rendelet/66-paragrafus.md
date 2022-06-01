@@ -1,3 +1,11 @@
-## 65. §[^68]
+## 65. § Az R13. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^68]: A 65. § a 88. § (5) bekezdése alapján 2022. június 1-jén lép hatályba.
+## „(3) A felülvizsgálati kérelmet a vizsgaközpont informatikai
+
+## a) rendszerén keresztül elektronikus úton, vagy
+
+## b) rendszeréből letöltött kérelem kinyomtatásával és postai úton történő megküldésével, vagy
+
+## c) rendszerében kitöltött vagy letöltött és kinyomtatott kérelemmel személyesen a vizsgaközpontnál ügyfélfogadási időben
+
+## lehet benyújtani.”
