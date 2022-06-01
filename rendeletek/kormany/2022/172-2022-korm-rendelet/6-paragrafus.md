@@ -4,7 +4,7 @@ a) a munkavállaló, valamint szükség esetén a munkavállaló családtagjána
 
 b) a munkavállaló munkába járásának szervezett körülmények között történő
 
-## biztosításáról.
+biztosításáról.
 
 (2) Ha a munkaadó a munkavállaló családtagja számára szálláshelyet biztosít, a munkaadó vagy annak megbízottja ellenőrizheti a családtag szálláshelyen való életvitelszerű tartózkodását. Az ellenőrzés nem jelenthet a munkavállaló, valamint a családtagja számára aránytalan terhet.
 
