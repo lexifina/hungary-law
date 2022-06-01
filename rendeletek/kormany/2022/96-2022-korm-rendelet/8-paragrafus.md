@@ -4,7 +4,7 @@ a) a munkavállaló, valamint szükség esetén kiskorú gyermekének megfelelő
 
 b) a munkába járás szervezett körülmények között történő
 
-## biztosításáról.
+biztosításáról.
 
 (2)[^10] A munkaadó a támogatás iránti kérelemben, valamint a támogatás igénybevételével kapcsolatos adatokban történő változást haladéktalanul, de legfeljebb 5 munkanapon belül köteles bejelenteni a kormányhivatal részére.
 
