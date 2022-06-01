@@ -60,11 +60,11 @@
 
 ## D) Légijárművekre vonatkozóan:
 
-## 1.[^193] A légijármű az érvényes üzemeltetési okmányokban előírtaknak megfelelően legyen üzemképes állapotban.
+## 1.[^194] A légijármű az érvényes üzemeltetési okmányokban előírtaknak megfelelően legyen üzemképes állapotban.
 
-## 2.[^194] Az átadás időpontjáig esedékes időszakos, repülési eszközökhöz, évszakokhoz kötött karbantartási, műszaki munkák legyenek végrehajtva.
+## 2.[^195] Az átadás időpontjáig esedékes időszakos, repülési eszközökhöz, évszakokhoz kötött karbantartási, műszaki munkák legyenek végrehajtva.
 
-## 3.[^195] A légijárművekkel együtt át kell adni
+## 3.[^196] A légijárművekkel együtt át kell adni
 
 ## a) az üzemeltetéshez és karbantartáshoz, egyszerű javításokhoz szükséges rendszeresített szerszámkészletet és egyéb tartozékokat;
 
@@ -84,6 +84,6 @@
 
 8. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
-[^193]: A 7. melléklet D) rész 1. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^194]: A 7. melléklet D) rész 2. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^195]: A 7. melléklet D) rész 3. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^194]: A 7. melléklet D) rész 1. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^195]: A 7. melléklet D) rész 2. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^196]: A 7. melléklet D) rész 3. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

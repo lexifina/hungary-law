@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-290-20-
 | 2019-10-05 | 2011-290-20-22.29 | 232/2019. (X. 4.) Korm. rendelet |
 | 2020-07-31 | 2011-290-20-22.30 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2021-06-01 | 2011-290-20-22.31 | 280/2021. (V. 26.) Korm. rendelet |
+| 2022-06-01 | 2011-290-20-22.32 | 195/2022. (V. 27.) Korm. rendelet |
