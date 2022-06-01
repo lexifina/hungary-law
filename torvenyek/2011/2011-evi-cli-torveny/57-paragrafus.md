@@ -20,6 +20,8 @@
 
 (4) A (2) bekezdés szerint személyes meghallgatásra meghívott személyek kötelesek megjelenni.
 
+(4a) Az (1c) és a (2) bekezdés szerinti személyes meghallgatásra a polgári perrendtartásról szóló törvény elektronikus hírközlő hálózat útján történő meghallgatásra vonatkozó szabályait megfelelően alkalmazni kell.
+
 (5) A (2) bekezdés szerint nyilatkozattételre felhívott, illetve az iratok megküldése iránt megkeresett szervek, hatóságok és bíróságok együttműködésre kötelesek.
 
 (6) Ha az alapjogi jogsérelem fennállásának eldöntése szakkérdés tisztázását teszi szükségessé, az Alkotmánybíróság kivételesen szakértőt rendel ki az eljárásban. A szakértői bizonyítás részletszabályait az Alkotmánybíróság ügyrendje tartalmazza.
