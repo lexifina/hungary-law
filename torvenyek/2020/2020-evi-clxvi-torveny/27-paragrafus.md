@@ -1,5 +1,7 @@
 27. § (1)
 
-(2)
+(2) Az At. 91/B. §-a helyébe a következő rendelkezés lép:
+
+„91/B. § Ha az anyakönyvvezető vagy az anyakönyvi szerv a házassággal vagy a bejegyzett élettársi kapcsolattal összefüggésben menekült, oltalmazott, menedékes vagy befogadott jogállású személy külföldön történt halálesete, továbbá magyar vagy külföldi bíróság vagy más hatóság Magyarországon elismerhető határozata alapján holtnak nyilvánítás vagy halál tényének bírósági megállapítása miatt adatváltozást vezet át az elektronikus anyakönyvben, a nyilvántartó szerv e tényről haladéktalanul értesíti a menekültügyi hatóságot.”
 
 (3)
