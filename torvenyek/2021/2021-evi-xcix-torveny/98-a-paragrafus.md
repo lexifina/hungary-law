@@ -1,0 +1,1 @@
+98/A. § A megváltozott munkaképességű személyek ellátásainak a veszélyhelyzet fennállása miatt elmaradt, 2020. december 5-e és 2021. november 9-e között esedékes felülvizsgálatát a rehabilitációs hatóság 2022. október 31-ig folytatja le.

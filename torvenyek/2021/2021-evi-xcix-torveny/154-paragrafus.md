@@ -12,7 +12,7 @@ d) a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvé
 
 e) a szociális, gyermekjóléti vagy gyermekvédelmi szolgáltatónál, intézményben, hálózatnál, illetve javítóintézetnél,
 
-f) a fővárosi és megyei kormányhivataloknál, valamint a járási (fővárosi kerületi) hivataloknál
+f) a Nemzeti Népegészségügyi Központnál, a fővárosi és megyei kormányhivataloknál, valamint a járási (fővárosi kerületi) hivataloknál
 
 foglalkoztatott személy.
 

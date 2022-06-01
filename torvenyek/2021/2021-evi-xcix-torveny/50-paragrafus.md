@@ -20,7 +20,7 @@ e) a reorganizáció elhatározásának időpontjában vele szemben végrehajtá
 
 f) a vagyonára vagy annak egy részére büntetőeljárásban zár alá vételt vagy vagyonelkobzás alá eső vagyon biztosítása érdekében lefoglalást rendeltek el, vagy a vagyonára elrendelt vagyonelkobzás végrehajtása van folyamatban,
 
-g) a vállalkozásnak a reorganizáció kezdő napját megelőzően a számvitelről szóló 2000. évi C. törvény szerinti bármelyik beszámolója a jogszabályban meghatározott határidőn belül nem került közzétételre és letétbe helyezésre, vagy
+g) a reorganizáció kezdő napját megelőző 3 üzleti évre vonatkozó, a számvitelről szóló 2000. évi C. törvény szerinti bármelyik beszámolója nem került közzétételre és letétbe helyezésre, vagy
 
 h) olyan hitelezői követelés bevonásával kezdeményezi a reorganizációs eljárás lefolytatását, amely követelés megfizetésére a Cstv. szerint csődegyezséget vagy felszámolási egyezséget kötött, és az egyezségben vállalt kötelezettségét még nem hajtotta végre.
 

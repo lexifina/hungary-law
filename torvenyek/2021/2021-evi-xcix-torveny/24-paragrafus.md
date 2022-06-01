@@ -4,4 +4,4 @@
 
 (2) Ezen alcím alkalmazásában köztestületnek minősül az a jogi személy is, amelynek működésére a köztestületekre vonatkozó szabályokat alkalmazni kell.
 
-(3) Ezen alcím rendelkezéseit az e törvény hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
+(3) Ezen alcím rendelkezéseit a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésének napján folyamatban lévő eljárásokban is alkalmazni kell.

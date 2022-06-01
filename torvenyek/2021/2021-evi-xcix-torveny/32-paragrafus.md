@@ -1,1 +1,1 @@
-32. § A közjegyzőkről szóló 1991. évi XLI. törvény 18. §-ában foglaltaktól eltérően a megüresedő közjegyzői állásra a pályázatot a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő három hónapon belül kell meghirdetni.
+### 32. §

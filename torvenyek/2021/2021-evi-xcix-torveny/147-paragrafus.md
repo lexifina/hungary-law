@@ -27,3 +27,11 @@ e) a képviselő-testület feladatkörébe tartozó közszolgáltatás ellátás
 (4) Nem kell alkalmazni az (1) bekezdésben foglaltakat abban az esetben, ha a díjemelés mértékét a díjfizetési kötelezettséget előíró jogszabály 2020. október 31. napjáig számszerűsíthető módon meghatározta.
 
 (5) A (2) bekezdést a helyi önkormányzati tulajdonban, illetve vagyonkezelésben álló, 2020. november 4. napján vagy ezt követően létesített parkolókra vonatkozó parkolási díj tekintetében nem kell alkalmazni.
+
+(6) A (2) bekezdést a helyi önkormányzati tulajdonban vagy vagyonkezelésben álló temetőben költségvetési támogatásból létesített, 2020. december 18. napján vagy ezt követően első alkalommal megváltásra kínált új urnafülke megváltása után fizetett díj tekintetében nem kell alkalmazni.
+
+(7) A (2) bekezdést nem kell alkalmazni az (1) bekezdés szerinti szervezet által fenntartott, a szolgáltatói nyilvántartásba 2020. december 17-ét követően bejegyzett, bölcsődei ellátást nyújtó intézmény vagy szolgáltató által biztosított ellátásért – ideértve a gondozásért, étkezésért, intézményi gyermekétkeztetésért – fizetett térítési díj tekintetében.
+
+(8) A (2) bekezdést nem kell alkalmazni az (1) bekezdés szerinti szervezet által fenntartott, 2020. december 17-ét követően nyilvántartásba vett óvodában a gyermekétkeztetésért fizetendő térítési díj tekintetében.
+
+(9) Az (1) és (2) bekezdést a közfürdők létesítéséről és működéséről szóló 121/1996. (VII. 24.) Korm. rendelet szerinti, az (1) bekezdés szerinti szervezet tulajdonában vagy üzemeltetésében álló közfürdő által felszámított térítési díj tekintetében nem kell alkalmazni.

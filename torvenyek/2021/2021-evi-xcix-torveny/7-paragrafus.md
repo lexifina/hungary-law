@@ -1,4 +1,4 @@
-7. § (1) Ha az igazságügyi alkalmazotti álláspályázatok kiírásához kapcsolódó eljárási cselekményekre vonatkozó határidő a veszélyhelyzet ideje alatt járt le, a határidő újrakezdődik a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő első napon.
+7. § (1) Az igazságügyi alkalmazotti álláspályázatok kiírásához kapcsolódó eljárási cselekmények tekintetében a 2021. október 3. napján újrakezdődött határidő figyelembevételével kell eljárni.
 
 (2) Ha a veszélyhelyzet ideje alatt a folyamatban lévő igazságügyi alkalmazotti álláspályázati eljárások lefolytatása nem volt lehetséges, a soron következő eljárási cselekményt a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően kell megtenni. Az eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő nap.
 

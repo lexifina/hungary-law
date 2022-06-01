@@ -1,3 +1,3 @@
 ## 35. Egyes kulturális finanszírozási szabályok eltérő alkalmazása
 
-103. § Az államháztartásról szóló 2011. évi CXCV. törvény és a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény (a továbbiakban: NKA tv.) rendelkezéseit az ezen alcímben foglalt eltérésekkel 2023. december 31-ig kell alkalmazni.
+103. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény (a továbbiakban: NKA tv.) rendelkezéseit az ezen alcímben foglalt eltérésekkel 2022. december 31-ig kell alkalmazni.
