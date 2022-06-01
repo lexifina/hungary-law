@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2022-01-27 | 2021. évi CXXXVI. törvény | 1995-97-00-00.80 |
 | 2022-03-01 | 2017. évi CXCVII. törvény | 1995-97-00-00.81 |
 | 2022-05-25 | 2022. évi IV. törvény | 1995-97-00-00.82 |
+| 2022-06-01 | 2022. évi V. törvény | 1995-97-00-00.83 |
