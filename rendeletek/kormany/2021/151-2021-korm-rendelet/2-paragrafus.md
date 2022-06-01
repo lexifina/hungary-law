@@ -1,1 +1,0 @@
-## 1. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 74. § (3) bekezdése, valamint 83. § (3) és (4) bekezdése szerinti véleményezési, valamint döntési eljárásokra (a továbbiakban együtt: véleményezési eljárások) a 2021. évben az Nkt.-t az e rendeletben foglalt eltérésekkel kell alkalmazni.
