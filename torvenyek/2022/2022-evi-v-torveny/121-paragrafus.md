@@ -19,11 +19,3 @@ b) 40. alcíme az Európai Csalás Elleni Hivatal (OLAF) által lefolytatott viz
 c) 40. alcíme a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet 7. cikk (6) és (7) bekezdésének
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
