@@ -6,10 +6,12 @@ b) Ukrajna területéről 2022. február 24-én vagy azt követően Magyarorszá
 
 c) menedékesként elismerését kérő
 
-## kiskorú gyermekének az ellátására.
+kiskorú gyermekének az ellátására.
 
 (2) Az (1) bekezdés szerinti gyermekfelügyelet
 
 a) a menedékes vagy menedékesként elismerését kérő ellátása céljából működő közösségi szálláson, vagy
 
 b) a kiskorú gyermek menedékes, menedékesként elismerését kérő vagy a kettős állampolgár szülőjével (a továbbiakban együtt: szülő) Magyarországon foglalkoztatási jogviszonyban álló foglalkoztató által
+
+szervezhető meg.
