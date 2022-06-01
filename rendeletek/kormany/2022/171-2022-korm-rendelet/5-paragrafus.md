@@ -10,6 +10,6 @@ d) a közbiztonság fenntartása, valamint az országban tartózkodó menekülő
 
 e) Magyarország katonai biztonságának megőrzése céljából a honvédelemért felelős miniszter
 
-## megismerheti.
+megismerheti.
 
 (2) Az (1) bekezdés szerinti szervek az (1) bekezdés szerinti adatokat – kivéve, ha törvény vagy veszélyhelyzetben az Alaptörvény 53. cikk (2) bekezdése alapján alkotott kormányrendelet ettől eltérő határidőt határoz meg – az adatkezelési cél fennállásáig, de legfeljebb az adatok megismerését követő egy évig kezelik.
