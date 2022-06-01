@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-435-20-
 | 2022-01-28 | 2021-435-20-22.3 | 23/2022. (I. 27.) Korm. rendelet |
 | 2022-01-30 | 2021-435-20-22.4 | 23/2022. (I. 27.) Korm. rendelet |
 | 2022-02-12 | 2021-435-20-22.5 | 23/2022. (I. 27.) Korm. rendelet |
+| 2022-06-01 | 2021-435-20-22.6 | 23/2022. (I. 27.) Korm. rendelet |

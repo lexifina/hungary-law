@@ -1,3 +1,5 @@
+## 100. § A 75. § (1) bekezdésében foglaltaktól eltérően a 2021/2022. borpiaci év során az elektronikusan teljesítendő ágazati adminisztrációs kötelezettségnek a 75. § (3) bekezdése alkalmazásával ügyfélszolgálaton keresztül is eleget lehet tenni.
+
 ## 45. Az Európai Unió jogának való megfelelés
 
 ## 101. § Ez a rendelet

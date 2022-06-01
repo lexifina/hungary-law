@@ -1,3 +1,3 @@
-104. §[^19]
+104. §[^30]
 
-[^19]: A 104. § a 23/2022. (I. 27.) Korm. rendelet 20. §-a alapján nem lép hatályba.
+[^30]: A 104. § a 23/2022. (I. 27.) Korm. rendelet 20. §-a alapján nem lép hatályba.

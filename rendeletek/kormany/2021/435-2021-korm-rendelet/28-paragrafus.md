@@ -1,5 +1,15 @@
 ## 10. A szüret
 
-28. § (1) Az ültetvény használója – a (2) bekezdésben foglalt kivétellel – november 30-ig, de legkésőbb a szüret befejezését követő hetedik napig kérelmezi a szüret bejegyzését a HNT által rendszeresített és a HNT honlapján közzétett nyomtatvány alkalmazásával. A határidő elmulasztását követően a szüret a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: Hktv.) 41. §-ában foglaltak figyelembevételével legkésőbb a szüret évét követő év január 15. napjáig jelenthető be.
+28. §[^2] (1) Az ültetvény használója a szüretet megelőző borpiaci év július 1-jéig megküldi a gazdasági aktát vezető hegybíró részére az általa a szőlőültetvénye vagy ültetvényrésze vonatkozásában megkötött szőlőfelvásárlási szerződést.
 
-(2) A Tokaji borvidéken az ültetvény használója a napi szüretet követő hetedik napig kérelmezi a szüret bejegyzését a HNT által rendszeresített és a HNT honlapján közzétett nyomtatvány alkalmazásával.
+(2) A több borpiaci évre kötött szőlőfelvásárlási szerződést elegendő a szerződésben megadott első borpiaci évet megelőzően megküldeni az (1) bekezdésben foglaltak szerint.
+
+(3) A hegybíró az ültetvény használója részére legkésőbb július 15-ig szüret bejelentő lapot küld minden olyan szőlőültetvény és ültetvényrész vonatkozásában, amelynek termésére szóló szőlőfelvásárlási szerződést az (1) bekezdésben megadott határidőig nem küldték meg a hegybírónak.
+
+(4) A hegybíró a felvásárló részére legkésőbb július 15-ig felvásárlási űrlapot küld minden olyan szőlőültetvény és ültetvényrész vonatkozásában, amely termésének felvásárlójaként az (1) bekezdés szerinti szerződésben megjelölték. A felvásárlási űrlap másolatát a hegybíró megküldi az ültetvény használója részére.
+
+(5) Ha az (1) bekezdés szerint bejelentett szőlőfelvásárlási szerződésben megjelölt szőlőültetvény és ültetvényrész vonatkozásában módosul a szőlőfelvásárlási szerződés, azt az ültetvény használója haladéktalanul bejelenti a hegybírónak. Ha a szőlőfelvásárlási szerződés módosítására július 1-jét követően kerül sor, a hegybíró a módosult szőlőfelvásárlási szerződéssel le nem fedett szőlőültetvény és ültetvényrész vonatkozásában haladéktalanul szüret bejelentő lapot küld a szőlőültetvény és ültetvényrész használója részére.
+
+(6) Az ültetvény használója legkésőbb a szüret utolsó napjáig nyilatkozik a hegybíró részére, ha szőlőültetvényét, ültetvényrészét több részre kívánja felosztani, vagy a felosztást meg kívánja változtatni. A változtatással kialakított ültetvényrészek vonatkozásában a (3) és (4) bekezdés alapján már kiadott, de a 31. § (1) bekezdése szerinti adatszolgáltatáshoz még be nem nyújtott szüret bejelentő lapokat és felvásárlási űrlapokat a hegybíró érvényteleníti, és új szüret bejelentő lapokat vagy felvásárlási űrlapokat küld meg a (3) és (4) bekezdésben foglaltaknak megfelelően.
+
+[^2]: A 28. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.

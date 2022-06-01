@@ -18,8 +18,8 @@ c) a borászati üzemben
 
 ca) végezhető, 32. § (1) bekezdése szerinti tevékenységek felsorolását,
 
-cb)[^1]
+cb)[^6]
 
 d) a kiszerelést végző borászati üzemek 32. § (3) bekezdése szerinti kódját.
 
-[^1]: A 36. § c) pont cb) alpontját a 23/2022. (I. 27.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 36. § c) pont cb) alpontját a 23/2022. (I. 27.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.

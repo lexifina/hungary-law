@@ -1,5 +1,3 @@
-## 31. § A szüreti bejegyzés igazolásával rendelkező szőlő további értékesítése esetén a 28. § szerint benyújtott kérelem alapján a hegybíró a szüreti bejegyzés igazolásának bevonását követően új szüreti bejegyzés igazolást állít ki. Az új szüreti bejegyzés igazolást a szőlőt felvásárlónak kell kiadni, a bevont vagy visszavont szüreti bejegyzés igazolás számának a feltüntetésével. A szőlő további feldolgozása esetén az új szüreti bejegyzés igazolást – az előző szüreti bejegyzés igazolás bevonásával vagy visszavonásával egyidejűleg – az ültetvény helye szerint illetékes hegybíró adja ki, a kérelemtől függően papír alapon vagy elektronikusan.
-
 ## III. Fejezet
 
 ## A BORÁSZATI TERMÉKEK ELŐÁLLÍTÁSA

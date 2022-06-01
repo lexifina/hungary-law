@@ -1,15 +1,15 @@
 ## 24. Forgalombahozatali azonosítóval rendelkező borászati terméktétel további feldolgozása
 
-57. § (1) Forgalombahozatali azonosítóval rendelkező borászati terméktétel további feldolgozását a feldolgozást végző borászati üzemengedélyes a feldolgozás megkezdése előtt legalább 5 nappal korábban a NÉBIH által rendszeresített űrlapon bejelenti a NÉBIH részére. A bejelentés tartalmazza
+57. §[^15] (1) Forgalombahozatali azonosítóval rendelkező borászati terméktétel további feldolgozását a feldolgozást végző borászati üzemengedélyes a feldolgozás megkezdése előtt legalább 5 nappal korábban bejelenti a hegybíró részére. A hegybíró a forgalombahozatali azonosítóval rendelkező borászati termék végső származási bizonyítványát a bejelentés adatai alapján visszavonja.
 
-a) a további feldolgozással érintett terméktétel
+(2) Ha az (1) bekezdésben foglalt esetben a borászati terméktétel egy része forgalomban marad, a borászati üzemengedélyes a hegybírótól a bejelentéssel egyidejűleg kérelmezi a végső származási bizonyítvány visszavonása mellett új végső származási bizonyítvány kiadását a forgalomban maradó borászati terméktétel mennyiségének megadásával.
 
-aa) forgalombahozatali azonosítóját,
+(3) A hegybíró a végső származási bizonyítvány (1) és (2) bekezdés szerinti visszavonásáról, valamint a (2) bekezdés szerinti új végső származási bizonyítvány kiállításáról a visszavont, valamint a kiállított végső származási bizonyítvány számának megjelölésével haladéktalanul értesíti a NÉBIH-et.
 
-ab) tárolásának helyét;
+(4) A NÉBIH érvényteleníti az érintett forgalombahozatali azonosítót, ha az (1) bekezdés szerinti bejelentés alapján a végső származási bizonyítványban szereplő borászati terméktétel teljes mennyiségét feldolgozzák. A (2) bekezdés szerinti eset nem vonja maga után új forgalombahozatali azonosító kiadását.
 
-b) – amennyiben a borászati üzemengedélyes csak a terméktétel egy részét dolgozza fel – a további feldolgozással nem érintett terméktétel rész mennyiségét.
+(5) A NÉBIH az (1) bekezdés szerinti bejelentésben foglaltakat kockázatelemzésen alapuló szúrópróbaszerű vizsgálat alapján ellenőrzi.
 
-(2) A NÉBIH az (1) bekezdésben meghatározott bejelentés adatairól a bejelentéstől számított 5 napon belül igazolást állít ki a borászati üzemengedélyes részére.
+(6) Az (1) bekezdés szerinti feldolgozást végző borászati üzemengedélyes a további feldolgozással érintett borászati terméktétel adataiban bekövetkezett változást, valamint a további feldolgozással létrejött borászati terméktételt bevezeti a szakmai-jövedéki nyilvántartásba.
 
-(3) A borászati üzemengedélyes új készletigazolás céljából kiállított származási bizonyítvány, valamint – a további feldolgozással nem érintett borászati terméktétel rész megadott mennyisége vonatkozásában – végső származási bizonyítvány kiállítását a (2) bekezdés szerinti igazolás hegybíró részére történő megküldésével kérelmezheti.
+[^15]: Az 57. § a 23/2022. (I. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
