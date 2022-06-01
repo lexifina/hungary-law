@@ -124,9 +124,12 @@ A kormányablakban azonnal intézhető ügyek
 
 61.[^76] Hatósági erkölcsi bizonyítvány kiállítása iránti kérelem
 
+62.[^77] A Covid19-világjárvány idején a szabad mozgás megkönnyítése érdekében az interoperábilis, Covid19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok (uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló, 2021. június 14-i (EU) 2021/953 európai parlamenti és tanácsi rendelet szerinti uniós digitális Covid-igazolvány kiállítása
+
 [^71]: Az 5. melléklet 6. pontját a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése hatályon kívül helyezte.
 [^72]: Az 5. melléklet 7. pontját a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése hatályon kívül helyezte.
 [^73]: Az 5. melléklet 8. pontja a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése szerint módosított szöveg.
 [^74]: Az 5. melléklet 11. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés a) pontja hatályon kívül helyezte.
 [^75]: Az 5. melléklet 60. pontját a 176/2019. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
 [^76]: Az 5. melléklet 61. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^77]: Az 5. melléklet 62. pontját a 189/2022. (V. 26.) Korm. rendelet 11. §-a iktatta be.
