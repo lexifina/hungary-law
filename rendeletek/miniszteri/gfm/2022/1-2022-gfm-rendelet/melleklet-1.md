@@ -1,6 +1,6 @@
-## 7. §[^2]
+## 7. § Hatályát veszti az 1. melléklet XIII. pontjában foglalt táblázat 4. sora.
 
-1. melléklet az 1/2022. (V. 26.) GFM rendelethez
+1. melléklet az 1/2022. (V. 26.) GFM rendelethez[^2]
 
 ## Tulajdonosi jogokat gyakorló miniszterek, minisztériumok
 
@@ -284,4 +284,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
-[^2]: A 7. § az 5. § (2) bekezdése alapján 2022. június 1-jén lép hatályba.
+[^2]: Az 1. melléklet a 7. § szerint módosított szöveg.

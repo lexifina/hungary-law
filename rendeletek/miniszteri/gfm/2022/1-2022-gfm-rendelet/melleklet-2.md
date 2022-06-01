@@ -8,7 +8,7 @@
 
 | 3. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2026. december 31. |
 
-| 4. | MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-200580 | 2026. december 31. |
+| 4. |  |  |  |
 
 2. melléklet az 1/2022. (V. 26.) GFM rendelethez
 
