@@ -1,3 +1,3 @@
-## 30. §[^29]
+## 30. §[^28]
 
-[^29]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
