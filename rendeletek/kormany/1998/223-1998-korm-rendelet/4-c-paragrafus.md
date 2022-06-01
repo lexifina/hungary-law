@@ -32,7 +32,7 @@ b) ha a jogosult nevében az ellátás megállapítása iránti kérelmet a tör
 
 pénzforgalmi szolgáltatónál vezetett fizetési számlájára utalja.
 
-(8)[^78] Ha a (7) bekezdésben meghatározott személy nem rendelkezik pénzforgalmi szolgáltatónál vezetett fizetési számlával, a folyósítás postai kézbesítés alapján történik, feltéve, hogy adott ország tekintetében a Magyar Postának ezen szolgáltatásra szerződése van. A postai úton történő kifizetésre a Magyar Postával szerződéssel rendelkező országok listáját a Központ a honlapján közzéteszi, illetve arról az országos telefonos ügyfélszolgálata útján is tájékoztatást ad.
+(8)[^78]
 
 [^72]: A 4/C. §-t megelőző alcímet a 379/2016. (XII. 2.) Korm. rendelet 33. § (5) bekezdése iktatta be.
 [^73]: A 4/C. §-t a 236/2012. (VIII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 33. § (7) bekezdésével megállapított szöveg.
@@ -40,4 +40,4 @@ pénzforgalmi szolgáltatónál vezetett fizetési számlájára utalja.
 [^75]: A 4/C. § (4) bekezdése a 310/2019. (XII. 18.) Korm. rendelet 11. §-a, a 360/2019. (XII. 30.) Korm. rendelet 16. § (8) bekezdés a) pontja, a 30/2020. (II. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^76]: A 4/C. § (5) bekezdése a 405/2017. (XII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^77]: A 4/C. § (7) bekezdését a 405/2017. (XII. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^78]: A 4/C. § (8) bekezdését a 405/2017. (XII. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 322/2018. (XII. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^78]: A 4/C. § (8) bekezdését a 405/2017. (XII. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 195/2022. (V. 27.) Korm. rendelet 19. §-a.
