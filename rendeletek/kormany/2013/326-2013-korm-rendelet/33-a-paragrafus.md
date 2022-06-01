@@ -1,5 +1,5 @@
-## IV/A. Fejezet[^233]
+## IV/A. Fejezet[^235]
 
 ## A NEVELÉSI-OKTATÁSI INTÉZMÉNYBEN PEDAGÓGUS-MUNKAKÖRBEN, ÓRAADÓKÉNT FOGLALKOZTATOTTAK VÉGZETTSÉGI, SZAKKÉPZETTSÉGI KÖVETELMÉNYEI
 
-[^233]: A IV/A. fejezetet (33/A–33/O. §) a 417/2020. (VIII. 30.) Korm. rendelet 18. §-a iktatta be.
+[^235]: A IV/A. fejezetet (33/A–33/O. §) a 417/2020. (VIII. 30.) Korm. rendelet 18. §-a iktatta be.

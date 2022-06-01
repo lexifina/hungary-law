@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-326-20-
 | 2020-10-28 | 2013-326-20-22.32 | 455/2020. (X. 20.) Korm. rendelet |
 | 2021-02-15 | 2013-326-20-22.33 | 65/2021. (II. 15.) Korm. rendelet |
 | 2022-01-01 | 2013-326-20-22.34 | 790/2021. (XII. 27.) Korm. rendelet |
+| 2022-06-01 | 2013-326-20-22.35 | 195/2022. (V. 27.) Korm. rendelet |

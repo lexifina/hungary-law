@@ -14,6 +14,6 @@ ba) elektroakusztikus képzésében az, aki zeneművészeti ágban szerzett peda
 
 bb) környezet-, kézműves kultúra, népművészet tanszakán, továbbá textil és bőrműves tanszakán az, aki népi játék és kismesterségek oktatója szakképesítéssel
 
-bc)[^235] cirkuszművészeti képzésben az, aki Artista I. szakképesítéssel
+bc)[^237] cirkuszművészeti képzésben az, aki Artista I. szakképesítéssel
 
-[^235]: A 33/D. § b) pont bc) alpontját a 790/2021. (XII. 27.) Korm. rendelet 29. §-a iktatta be.
+[^237]: A 33/D. § b) pont bc) alpontját a 790/2021. (XII. 27.) Korm. rendelet 29. §-a iktatta be.
