@@ -6,6 +6,8 @@ I. rész: termékek
 
 |
 
+Sorszám
+
 |
 
 Megnevezés
@@ -794,6 +796,8 @@ I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási 
 
 |
 
+Sorszám
+
 |
 
 Megnevezés
@@ -1033,6 +1037,8 @@ Hanggenerátorok
 II. rész: szolgálatások
 
 |
+
+Sorszám
 
 |
 

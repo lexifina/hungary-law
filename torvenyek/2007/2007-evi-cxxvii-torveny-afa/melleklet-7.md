@@ -8,6 +8,8 @@ A. pont
 
 |
 
+Sorszám
+
 |
 
 Megnevezés
@@ -284,6 +286,8 @@ B. pont
 
 |
 
+Sorszám
+
 |
 
 Megnevezés
@@ -473,6 +477,8 @@ Feldolgozott tej és tejtermékek
 II. RÉSZ: SZOLGÁLTATÁSOK
 
 |
+
+Sor- szám
 
 |
 

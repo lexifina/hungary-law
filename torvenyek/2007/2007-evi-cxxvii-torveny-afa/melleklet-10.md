@@ -29,3 +29,9 @@ Számla befogadása
 9. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
 
 a) a terméket értékesítő, szolgáltatást nyújtó adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
+
+b) a nevére szóló számlában feltüntetett adóalapról és áthárított adó összegről, a számla sorszámáról, valamint
+
+c) a számlában a 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
+
+10. A 9. pont szerinti számla módosítása vagy érvénytelenítése esetén a számlával egy tekintet alá eső okiratot befogadó adóalany abban a bevallásban, amelyben a módosítás, érvénytelenítés hatását figyelembe veszi, köteles a módosított, érvénytelenített számlát érintően a 9. pont szerint nyilatkozni. Ebben az esetben az adóalany nyilatkozik annak a számlának a 9. pontban meghatározott adatairól, amelyet a módosítás, érvénytelenítés érint, a módosítás számszaki hatásáról az adóalap és áthárított adó tekintetében, valamint a számlát módosító, érvénytelenítő okirat sorszámáról.

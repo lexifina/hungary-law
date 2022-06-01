@@ -18,7 +18,11 @@ g) termék – ide nem értve az ingatlant és a közlekedési eszközök bárme
 
 h) a Közösség területén levő földgázrendszerhez vagy bármely más, ilyen rendszerhez kapcsolt hálózathoz, hő- vagy hűtési hálózathoz, villamosenergia-rendszerhez való csatlakozás, egyéb hozzáférés biztosítása, valamint ilyen rendszeren, hálózaton keresztül földgáz, hő- vagy hűtési energia, valamint villamos energia szállítása (átvitele), elosztása, továbbá más, ezekhez közvetlenül kapcsolódó szolgáltatások;
 
-i)–k)
+i)
+
+j)
+
+k)
 
 (3) E § alkalmazandó abban az esetben is, ha kötelezettségvállalás történik valamely üzleti vagy hivatásszerűen folytatott tevékenység egészbeni vagy részbeni abbahagyására, illetőleg valamely (2) bekezdés alá tartozó jog gyakorlásától való időleges vagy végleges tartózkodásra.
 

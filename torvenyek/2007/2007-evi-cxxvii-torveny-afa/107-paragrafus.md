@@ -16,6 +16,8 @@ d) belföldön kívül az Észak-atlanti Szerződés valamely más tagállamába
 
 e) az Egyesült Királyság fegyveres ereje részére történik, feltéve, hogy az a Ciprusi Köztársaság megalakulásáról, 1960. augusztus 16. napján kelt nemzetközi szerződés értelmében az Egyesült Királyság Ciprus szigetén állomásozó fegyveres erejének, illetőleg az azt kísérő polgári állomány használatára vagy éttermük, kantinjuk ellátására szolgál.
 
+f) a Bizottság vagy az uniós jog alapján létrehozott ügynökség vagy szerv részére történik, ha a Bizottság vagy ezen ügynökség, illetve szerv az uniós jog által ráruházott feladatok ellátása keretében, a Covid19-világjárványra való reagálás érdekében szerzi be a terméket vagy veszi igénybe a szolgáltatást, feltéve, hogy a Bizottság vagy ezen ügynökség, illetve szerv nem értékesíti, illetve nem nyújtja tovább ellenérték fejében a beszerzett terméket, igénybe vett szolgáltatást.
+
 (2) Az (1) bekezdés szerinti adómentes termékértékesítés alkalmazásának további feltétele, hogy az értékesített terméket – az (1) bekezdésben említett beszerző nevére szóló rendeltetéssel – küldeményként belföldön feladják vagy belföldről elfuvarozzák, és a termék belföldről való elhagyásának tényét, amelynek a termékértékesítés teljesítésekor, de legfeljebb a teljesítés napját követő 90 napon belül kell megtörténnie, anélkül, hogy ezen határidőn belül az értékesített terméket rendeltetésszerűen használnák, egyéb módon hasznosítanák, ide nem értve a kipróbálást és a próbagyártást, fuvarlevél vagy az értékesített terméket kísérő egyéb okirat igazolja, kivéve:
 
 a) az (1) bekezdés b) pontját abban az esetben, ha az ott említett nemzetközi szerződés az adómentes termékértékesítésről és annak alkalmazása feltételeiről kifejezetten másként rendelkezik;
@@ -33,6 +35,8 @@ ab) az (1) bekezdés c) pontját;
 b) abban az esetben, ha a termék a (2) bekezdés értelmében nem hagyja el belföldet.
 
 (4) Az (1) bekezdés a) pontjában említett viszonosság kérdésében a külpolitikáért felelős miniszter állásfoglalása az irányadó.
+
+(4a) Ha az (1) bekezdés f) pontja szerinti adómentességre vonatkozó feltételek a továbbiakban nem állnak fenn, akkor a fizetendő adót abban az időpontban alkalmazandó szabályoknak megfelelően kell megállapítani, amikor a mentesség feltételei már nem állnak fenn.
 
 (5) Abban az esetben, ha a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napját megelőzően kötött és törvényben vagy kormányrendeletben kihirdetett nemzetközi szerződés kifejezetten a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók alóli mentességéről vagy azok elengedéséről, visszatérítéséről rendelkezik, az előzőekben említett nemzetközi szerződésben meghatározott jogosultat megilleti az (1) bekezdés szerinti adómentesség úgy, hogy annak alkalmazásában a jogosultat
 

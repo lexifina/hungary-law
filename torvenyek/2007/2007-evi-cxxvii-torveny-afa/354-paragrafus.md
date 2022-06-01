@@ -1,0 +1,1 @@
+354. § E törvénynek a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvénnyel megállapított 93. § (1) bekezdés g) pont gd) alpontját és (1a) bekezdését, 107. § (1) bekezdés f) pontját és 107. § (4a) bekezdését a 2020. december 31-ét követően teljesített ügyletekre kell alkalmazni.

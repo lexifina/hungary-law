@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2021-06-10 | 2021. évi LXIX. törvény | 2007-127-00-00.70 |
 | 2021-07-01 | 2020. évi CXVIII. törvény | 2007-127-00-00.71 |
 | 2022-01-01 | 2020. évi CXVIII. törvény | 2007-127-00-00.72 |
+| 2022-06-01 | 2021. évi CXXX. törvény | 2007-127-00-00.73 |

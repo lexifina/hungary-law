@@ -20,6 +20,8 @@ ga) az Európai Közösség, az Európai Atomenergia-közösség, az EKB, az Eur
 
 gb) egyéb, a ga) alpont alá nem tartozó, Magyarország által nemzetközi szervezetként elismert szervezet vagy annak képviselete, illetve annak tisztviselője által a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint, feltéve, hogy az előzőekben említett nemzetközi szerződés a vám és/vagy a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók elengedéséről vagy visszatérítéséről rendelkezik;
 
+gd) az Európai Bizottság (a továbbiakban: Bizottság) vagy az uniós jog alapján létrehozott ügynökség vagy szerv által, ha a Bizottság vagy ezen ügynökség, illetve szerv az uniós jog által ráruházott feladatok ellátása keretében, a Covid19-világjárványra való reagálás érdekében importálja a terméket, feltéve, hogy a Bizottság vagy ezen ügynökség, illetve szerv nem értékesíti tovább ellenérték fejében az importált terméket.
+
 h) a termék importja az Észak-atlanti Szerződés tagállamának fegyveres ereje által – ide nem értve a Magyar Honvédséget –, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
 
 i) a termék importja a Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) fegyveres ereje által, feltéve, hogy az a Ciprusi Köztársaság megalakulásáról, 1960. augusztus 16. napján kelt nemzetközi szerződés értelmében az Egyesült Királyság Ciprus szigetén állomásozó fegyveres erejének, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátásra szolgál;
@@ -41,6 +43,8 @@ m) a villamos energia importja;
 n) a hő- vagy hűtési energia hő- vagy hűtési hálózaton keresztüli importja.
 
 o) a termék importja, amennyiben az adóalany a harmadik államból importált termék távértékesítése utáni adófizetési kötelezettségét a XIX/B. Fejezetben vagy azon tagállami szabályozás alapján teljesíti, amely tartalmában megfelel a Héa-irányelv XII. cím 6. fejezet 4. szakaszában foglalt különös szabályozásnak, és amennyiben legkésőbb a vám-árunyilatkozat benyújtásakor ezen adóalany vagy a megbízásából eljáró közvetítő az állami adó- és vámhatósággal közölte az ezen különös szabályozás alkalmazásához az adóalany részére megállapított érvényes import azonosítószámot.
+
+(1a) Ha az (1) bekezdés g) pont gd) alpontja szerinti adómentességre vonatkozó feltételek a továbbiakban nem állnak fenn, akkor a fizetendő adót abban az időpontban alkalmazandó szabályoknak megfelelően kell megállapítani, amikor a mentesség feltételei már nem állnak fenn.
 
 (2) Mentes az adó alól a szolgáltatás nyújtása abban az esetben, ha annak ellenértéke az importált termék adóalapjába a 74. §, illetőleg a 75. § (1) bekezdésének b) pontja és (2) bekezdése szerint beépül.
 
