@@ -1,4 +1,4 @@
-## 4. §[^8]
+## 4. §[^9]
 
 5. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – 2021. május 22-én lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 8. § a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor lép hatályba.
 
-[^8]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
