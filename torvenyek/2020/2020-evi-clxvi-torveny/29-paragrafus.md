@@ -1,4 +1,4 @@
-29. § Az At.
+29. §
 
 1.
 
@@ -56,6 +56,4 @@
 
 28.
 
-29. 91/C. §-ában és a 91/D. §-ában az „Az anyakönyvvezető vagy az anyakönyvi szerv” szövegrész helyébe az „A nyilvántartó szerv”, valamint a „követő 5 munkanapon belül” szövegrész helyébe a „követően haladéktalanul” szöveg
-
-lép.
+29.
