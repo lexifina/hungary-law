@@ -1,1 +1,3 @@
-## 66. § Az R13. 10. § (2) bekezdés a) pont ab) alpontjában az „április 1-je” szövegrész helyébe a „március 31-e” szöveg lép.
+## 66. §[^69]
+
+[^69]: A 66. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

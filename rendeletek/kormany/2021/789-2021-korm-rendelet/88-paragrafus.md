@@ -1,4 +1,4 @@
-## 87. §[^85]
+## 87. §[^90]
 
 ## 25. Záró rendelkezések
 
@@ -14,4 +14,4 @@
 
 (6) Az 51. § (2) bekezdése és az 53. § 2022. július 1-jén lép hatályba.
 
-[^85]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

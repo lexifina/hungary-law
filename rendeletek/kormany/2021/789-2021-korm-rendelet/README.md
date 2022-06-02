@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-789-20-
 | 2022-02-01 | 2021-789-20-22.7 | 2010: CXXX. törvény |
 | 2022-02-02 | 2021-789-20-22.8 | 2010: CXXX. törvény |
 | 2022-06-01 | 2021-789-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-06-02 | 2021-789-20-22.10 | 2010: CXXX. törvény |

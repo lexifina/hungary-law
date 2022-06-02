@@ -1,11 +1,3 @@
-## 65. § Az R13. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 65. §[^68]
 
-## „(3) A felülvizsgálati kérelmet a vizsgaközpont informatikai
-
-## a) rendszerén keresztül elektronikus úton, vagy
-
-## b) rendszeréből letöltött kérelem kinyomtatásával és postai úton történő megküldésével, vagy
-
-## c) rendszerében kitöltött vagy letöltött és kinyomtatott kérelemmel személyesen a vizsgaközpontnál ügyfélfogadási időben
-
-## lehet benyújtani.”
+[^68]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „(1d) Rendkívüli pályaalkalmassági vizsgálat a 3. § (2) bekezdés b)–e) pontja esetén a kezdeményező vagy a megkereső szerv írásbeli megkeresése alapján az ügyfél vizsgaközpont általi értesítésével indul.
+## 64. §[^67]
 
-## (2) Az I. és II. pályaalkalmassági minősítés megszerzése céljából pályaalkalmassági vizsgálatra az jelentkezhet, aki nem minősül – kezdő vezetőnek és rendelkezik érvényes vezetői engedéllyel „B” vagy „C” vagy „D” kategóriában.”
+[^67]: A 64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

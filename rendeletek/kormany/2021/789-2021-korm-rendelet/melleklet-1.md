@@ -1,3 +1,3 @@
-1. melléklet a 789/2021. (XII. 27.) Korm. rendelethez[^86]
+1. melléklet a 789/2021. (XII. 27.) Korm. rendelethez[^91]
 
-[^86]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
