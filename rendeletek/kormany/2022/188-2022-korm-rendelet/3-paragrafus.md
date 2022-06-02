@@ -20,7 +20,7 @@ b) a „Nem ruházható át” feliratot,
 
 c) az „A védettségi igazolványhoz kapcsolódó jogosultságok a koronavirus.gov.hu internetes oldalon ellenőrizhetőek” feliratot
 
-## tartalmazza.
+tartalmazza.
 
 (3) A védettségi igazolvány a védettség érvényességére vonatkozó adatot az adattároló kód leolvasása útján az online elektronikus felületen tartalmazza.
 

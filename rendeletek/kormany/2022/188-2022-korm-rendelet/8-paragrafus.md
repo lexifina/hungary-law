@@ -8,7 +8,7 @@ a) alkalmazás-fejlesztési és alkalmazás-üzemeltetési, valamint az ezzel ö
 
 b) infrastruktúra-fejlesztési és infrastruktúra-üzemeltetési, az okmánylogisztikával kapcsolatos, valamint az ezzel összefüggő adatfeldolgozói feladatait a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.)
 
-## látja el.
+látja el.
 
 (3) A kiállító hatóság a védettségi igazolvány kézbesítési feladatának ellátásába az adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása érdekében a NISZ Zrt.-t bevonja.
 

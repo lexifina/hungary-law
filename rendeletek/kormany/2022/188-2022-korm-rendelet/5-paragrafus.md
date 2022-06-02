@@ -11,3 +11,5 @@
 a) elektronikus úton a kiállító hatóság által rendszeresített elektronikus űrlapon vagy
 
 b) bármely kormányablakban személyesen
+
+lehet benyújtani.

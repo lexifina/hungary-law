@@ -1,1 +1,0 @@
-## lehet benyújtani.
