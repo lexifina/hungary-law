@@ -1,0 +1,249 @@
+# Az Alkotmánybíróság 12/2022. (VI. 2.) AB határozata
+
+Magyar Közlöny 2022. évi 92. szám, 2022. június 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/am7Nto28amhrrThMwx2H628ff7ee0a897/dokumentumok/f0f69512df8b92ed1afcf38afd67b020b91ccbc4/letoltes)
+
+---
+
+Az Alkotmánybíróság 12/2022. (VI. 2.) AB határozata
+a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati
+adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló
+191/2014. (VII. 31.) Korm. rendelet 5. § (1) bekezdés d) pontja alaptörvény-ellenességének megállapításáról
+és megsemmisítéséről, valamint alkalmazási tilalom kimondásáról
+Az Alkotmánybíróság tanácsa jogszabály alaptörvény-ellenességének megállapítása iránti bírói kezdeményezés
+tárgyában meghozta a következő
+h a t á r o z a t o t :
+1. Az Alkotmánybíróság megállapítja, hogy a mező- és erdőgazdasági hasznosítású földek végrehajtási,
+felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének
+szabályairól szóló 191/2014. (VII. 31.) Korm. rendelet 5. § (1) bekezdés d) pontja alaptörvény-ellenes, ezért azt
+megsemmisíti.
+2. Az alaptörvény-ellenessé nyilvánított és megsemmisített rendelkezés nem alkalmazható a Pécsi Törvényszék
+előtt 5.K.701.435/2021. számon folyamatban lévő ügyben, továbbá valamennyi, bármely bíróság előtt
+folyamatban lévő, ugyanilyen tárgyú ügyben.
+Az Alkotmánybíróság e határozatát a Magyar Közlönyben közzé kell tenni.
+I n d o k o l á s
+I.
+[1] 1. A Pécsi Törvényszék bírója (a továbbiakban: indítványozó) az előtte folyamatban lévő 5.K.701.435/2021. számú,
+közigazgatási határozat jogszerűsége iránt indított peres eljárásban az eljárás felfüggesztése mellett
+az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban: Abtv.) 25. § (1) bekezdése alapján
+indítványozta, hogy az Alkotmánybíróság a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási
+vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló
+191/2014. (VII. 31.) Korm. rendelet (a továbbiakban: R.) 5. § (1) bekezdés d) pontja alaptörvény-ellenességét állapítsa
+meg, azt semmisítse meg, továbbá rendelje el a megsemmisített jogszabályi rendelkezésnek az indítványozó előtt
+folyamatban lévő egyedi ügyben történő alkalmazása kizárását. Az indítvány szerint az R. támadott rendelkezése
+ellentétes az Alaptörvény P) cikk (2) bekezdésével, a T) cikk (3) bekezdésével, a 15. cikk (4) bekezdésével és a XV. cikk
+(2) bekezdésével.
+[2] 1.1. Az alapügyben megállapított, jelen bírói kezdeményezés elbírálása szempontjából releváns tényállás szerint egy
+gyümölcsös és gazdasági épület megnevezésű, mezőgazdasági rendeltetésű ingatlan a korábbiakban 1/1 arányban
+az alapügy felperesének tulajdonában állt. Utóbb az ingatlan 1/2 arányú tulajdonjogát házastársi közös vagyon
+megosztása címén a perben felperesi érdekeltként résztvevő házastárs szerezte meg.
+[3] Időközben az alapügy felperesével szemben a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Fejér Megyei
+Adó- és Vámigazgatósága végrehajtási eljárást indított, melynek keretében a perbeli ingatlan lefoglalásra került,
+az ingatlan-nyilvántartásba pedig a végrehajtási jog bejegyzésre került, mely végrehajtási jog a felperesi érdekelt
+tulajdonrészét is terhelte.
+[4] A NAV Somogy Megyei Adó- és Vámigazgatósága 2019. július 1. napján kereste meg a Somogy Megyei
+Kormányhivatal Kaposvári Járási Hivatalát mint elsőfokú mezőgazdasági igazgatási szervet a perbeli ingatlan
+felperes tulajdonában álló 1/2 tulajdoni illetőségére vonatkozó árverés lefolytatása érdekében. A felperesi
+érdekelt, mint a perbeli ingatlan 1/2 arányú, az árveréssel közvetlenül nem érintett tulajdonosa, részt kívánt venni
+az árverésen az ingatlan árverésre bocsátott 1/2 tulajdoni illetőségének megszerzése céljából, azonban az R. 5. §
+(1) bekezdés d) pontjában foglaltak alapján erre nem volt lehetősége, ugyanis az állandó lakóhelye az ingatlan
+fekvése szerinti település közigazgatási határától 20 km-nél nagyobb távolságra volt.
+[5] A 2019. október 10. napján megtartott árverésen egy fő vett részt, a felajánlott egyetlen vételár a minimálár,
+250 000 Ft volt. Az elsőfokú mezőgazdasági igazgatási szerv az árverés alapján készült SO-04H/FM/01907-8/2019.
+számú jegyzőkönyv 1. számú határozatában megállapította, hogy a perbeli ingatlan felajánlott legmagasabb
+vételára 250 000 Ft volt, a 2. számú határozatban pedig megállapította az árverési vevő személyét.
+
+[6] A felperes fellebbezése folytán eljáró Pest Megyei Kormányhivatal (az alapügy alperese) 2020. május 26. napján kelt
+PE/FE/00622-3/2020. számú határozatával az elsőfokú hatóság jegyzőkönyvbe foglalt 1. és 2. számú határozatait
+helybenhagyta.
+[7] 2. A felperes ezt követően keresetet terjesztett elő a másodfokú határozattal szemben, melyben az alperes
+határozatának hatályon kívül helyezését és új árverés kitűzését, valamint új becsérték meghatározását kérte.
+A felperes keresetében egyaránt vitatta az ingatlan becsértékének meghatározását (mely szempont jelen bírói
+kezdeményezés Alkotmánybíróság általi elbírálása szempontjából nem bír jelentőséggel), továbbá azt is sérelmezte,
+hogy az árverésen az R. 5. § (1) bekezdés d) pontja miatt sem a felperesi érdekelt, sem a felperes lánya (a szomszédos
+ingatlan tulajdonosa) nem vehettek részt, mely rendelkezés álláspontja szerint részben törvényellenes, részben
+alaptörvény-ellenes. Ezt az érvelést a felperesi érdekelt is osztotta.
+[8] 3. A Pécsi Törvényszék 5.K.701.586/2020/21. számú, 2020. március 3. napján kelt ítéletével a keresetet elutasította.
+Az ítélet megállapítása szerint a becsérték meghatározása jogszerűen történt, az R. 5. § (1) bekezdés d) pontja pedig
+a törvényszék álláspontja szerint nem kifogásolható, az ugyanis éppen az általános szabályoktól való eltérést tükrözi.
+[9] A felperesi érdekelt által előterjesztett felülvizsgálati kérelem alapján eljáró Kúria Kfv.II.37.575/2021/6. számú,
+2021. november 10. napján kelt végzésével a Pécsi Törvényszék ítéletét hatályon kívül helyezte, és a bíróságot új
+eljárás lefolytatására és új határozat hozatalára utasította. A Kúria végzésében kiemelte, hogy az Alaptörvény 15. cikk
+(4) bekezdésére és a P) cikk (2) bekezdésére figyelemmel az R. 5. § (1) bekezdés d) pontja felvet alkotmányossági
+aggályokat, azonban ebben a kérdésben a Pécsi Törvényszék az előterjesztők kereshetőségi jogát érdemben nem
+vizsgálta, és e körben a tényállást sem tisztázta.
+[10] 4. A megismételt eljárás során a Pécsi Törvényszék 5.K.701.435/2021/14. számú, 2022. március 16. napján meghozott
+végzésével a per tárgyalását felfüggesztette és az Alkotmánybíróság eljárását kezdeményezte. Az indítvány szerint
+az R. 5. § (1) bekezdés d) pontja ellentétes az Alaptörvény P) cikk (2) bekezdésével, T) cikk (3) bekezdésével, 15. cikk
+(4) bekezdésével és XV. cikk (2) bekezdésével, az alábbiak szerint.
+[11] A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi
+törvény) 4. címe (10–15. §) tartalmazza a tulajdonszerzési jogosultság általános feltételeit, az 5. cím (16–17. §)
+pedig a földtulajdon lehetséges maximumát rögzíti. A Földforgalmi törvény 6. címe („Az elővásárlásra jogosultak
+sorrendje, az elővásárlási jog gyakorlása”) keretein belül található 18. § (1) bekezdése az elővásárlásra jogosultak
+körét és sorrendjét rögzíti. Ezzel szemben az indítványozó szerint az R. 5. § (1) bekezdés a)–d) pontjai a termőföldre
+vonatkozó árverésen licitálóként való részvétel tekintetében konjunktív feltételeket fogalmaznak meg, mely
+feltételek egyike [az indítványozó által támadott 5. § (1) bekezdés d) pontja szerinti feltétel] azonos a Földforgalmi
+törvény 18. § (1) bekezdés e) pontja szerinti feltétellel. Amíg azonban a Földforgalmi törvény alapján elővásárlásra
+nem jogosultak is megszerezhetik a termőföld tulajdonjogát [azaz a Földforgalmi törvény szerinti feltételnek
+nem a tulajdonszerzés, hanem csak az elővásárlási jog gyakorolhatósága szempontjából van jelentősége], addig
+az R. 5. § (1) bekezdés d) pontja alapján az adott termőföld vonatkozásában elővásárlásra nem jogosult személy
+már az árverésen való részvételre sem jogosult, és ekként értelemszerűen a föld tulajdonjogát sem szerezheti
+meg. Az indítvány szerint a Földforgalmi törvény 18. §-a nem a tulajdonszerzési jogosultságot szabályozza, hanem
+pontosan, meghatározott sorrendben rögzíti az elővásárlásra jogosultak körét, akikhez képest más (elővásárlásra
+nem jogosult, de a termőföld tulajdonjoga megszerzésére vonatkozó általános előírásokat teljesítő) személyek
+is megszerezhetik a kérdéses termőföld tulajdonjogát. Ehhez képest az indítványozó álláspontja szerint az R. 5. §
+(1) bekezdés d) pontja az elővásárlásra való jogosultság feltételét konjunktív tulajdonszerzési feltétellé alakítja
+az árverésen történő tulajdonszerzés esetén. Az indítvány szerint pedig azáltal, hogy az R. támadott rendelkezése
+az Alaptörvény P) cikk (2) bekezdésével és T) cikk (3) bekezdésével ellentétesen, kormányrendeleti úton szűkíti
+a termőföld tulajdonjoga megszerzésének lehetőségét, az R. 5. § (1) bekezdés d) pontja alaptörvény-ellenes.
+[12] Az indítvány a 15. cikk (4) bekezdése és XV. cikk (2) bekezdése vonatkozásában önálló indokolást nem tartalmaz.
+II.
+[13] 1. Az Alaptörvény indítvánnyal érintett rendelkezései:
+„P) cikk (2) A termőföld és az erdők tulajdonjogának megszerzése, valamint hasznosítása (1) bekezdés szerinti célok
+eléréséhez szükséges korlátait és feltételeit, valamint az integrált mezőgazdasági termelésszervezésre és a családi
+gazdaságokra, továbbá más mezőgazdasági üzemekre vonatkozó szabályokat sarkalatos törvény határozza meg.”
+„T) cikk (3) Jogszabály nem lehet ellentétes az Alaptörvénnyel.”
+
+„XV. cikk (2) Magyarország az alapvető jogokat mindenkinek bármely megkülönböztetés, nevezetesen faj, szín, nem,
+fogyatékosság, nyelv, vallás, politikai vagy más vélemény, nemzeti vagy társadalmi származás, vagyoni, születési
+vagy egyéb helyzet szerinti különbségtétel nélkül biztosítja.”
+„15. cikk (4) A Kormány rendelete törvénnyel nem lehet ellentétes.”
+[14] 2. A Földforgalmi törvény indítvánnyal érintett rendelkezése:
+„18. § (1) A föld eladása esetén az alábbi sorrendben elővásárlási jog illeti meg:
+[…]
+e) az olyan földművest, akinek a lakóhelye vagy a mezőgazdasági üzemközpontja legalább 3 éve azon a településen
+van, amelynek közigazgatási határa az adás-vétel tárgyát képező föld fekvése szerinti település közigazgatási
+határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra van.”
+„35. § (3) Föld árverése esetén az elektronikus árverés szabályait nem lehet alkalmazni. Az (1) bekezdés szerinti
+eljárás során a föld árverésen kívüli eladásának és a végrehajtást kérő általi átvételének nincs helye. Az árverésen
+az vehet részt, aki a tulajdonszerzési képességét az azt megalapozó okiratokkal, az árverés helyszínén és
+időpontjában igazolja, valamint a 13–15. §-ban foglalt esetekben, teljes bizonyító erejű magánokiratba, vagy
+közokiratba foglalt nyilatkozatokat csatolja. Az elővásárlásra jogosult e jogát az árverésen gyakorolhatja azzal,
+hogy az elővásárlási jogosultságát bizonyító okiratokat is csatolnia kell az árverés helyszínén és időpontjában
+személyesen.”
+[15] 3. Az R. indítvánnyal érintett rendelkezése:
+„5. § (1) A földre az árverezhet, aki
+[…]
+d) a Földforgalmi törvény 18. § (1) bekezdés e) pontja szerinti, legfeljebb 20 km-es távolságra vonatkozó feltételnek
+megfelel, és azt – az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet 27. §-a
+szerinti hatósági bizonyítvánnyal – igazolja.”
+III.
+[16] A bírói kezdeményezés megalapozott.
+[17] 1. Az Abtv. 25. §-a szerint a bíró – a bírósági eljárás felfüggesztése mellett – abban az esetben kezdeményezi
+az Alaptörvény 24. cikk (2) bekezdés b) pontja alapján az Alkotmánybíróságnál a jogszabály vagy jogszabályi
+rendelkezés alaptörvény-ellenességének megállapítását, illetve az alaptörvény-ellenes jogszabály alkalmazásának
+kizárását, ha az előtte folyamatban levő egyedi ügy elbírálása során olyan jogszabályt kell alkalmazni, amelynek
+alaptörvény-ellenességét észleli, vagy alaptörvény-ellenességét az Alkotmánybíróság már megállapította.
+[18] Az Alkotmánybíróság megállapította, hogy a bírói kezdeményezés az Abtv. 25. §-ában és 52. §-ában előírt
+feltételeknek csak részben, az Alaptörvény P) cikk (2) bekezdésével és T) cikk (3) bekezdésével összefüggésben
+tesz eleget {vö. 3058/2015. (III. 31.) AB végzés, Indokolás [8]–[24]; 2/2016. (II. 8.) AB határozat, Indokolás [26]–[28];
+3064/2016. (III. 22.) AB határozat, Indokolás [8]–[13]}. A támadott jogszabályi rendelkezést az eljárásban alkalmazni
+kell, az eljárás felfüggesztése megtörtént, és az indítványozó kezdeményezte a támadott jogszabályi rendelkezés
+alaptörvény-ellenességének megállapítását és megsemmisítését, továbbá alkalmazásának kizárását.
+[19] Az indítvány nem tartalmaz indokolást arra vonatkozóan, hogy az R. támadott rendelkezése miért ellentétes
+az Alaptörvény XV. cikk (2) bekezdésével és 15. cikk (4) bekezdésével. Az indítvány ezen elemeiben éppen ezért nem
+felel meg a határozott kérelem Abtv. 52. § (1b) bekezdés b) és e) pontja követelményének.
+[20] 2. Az Alaptörvény P) cikk (2) bekezdése sarkalatos törvény megalkotását írja elő az Országgyűlés számára, mely
+sarkalatos törvénynek rendelkeznie kell egyebek között a termőföld tulajdonjoga megszerzésére vonatkozó
+korlátokról és feltételekről is {lásd például: 17/2015. (VI. 5.) AB határozat, Indokolás [47]}. Az Alkotmánybíróság
+töretlen gyakorlata alapján a sarkalatosság követelménye nem zárja ki, hogy részletszabályokat egyszerű többségű
+törvény vagy akár alacsonyabb szintű jogforrás határozzon meg {24/2016. (XII. 12.) AB határozat, Indokolás [40];
+legutóbb: 1/2021. (I. 7.) AB határozat, Indokolás [70]}. Az Alkotmánybíróságnak éppen ezért jelen esetben azt kellett
+értékelnie, hogy a termőföld tulajdonjogának árverésen történő megszerzésére vonatkozó szabályozás (azaz jelen
+esetben az R. indítvánnyal támadott rendelkezése) a Földforgalmi törvény mint sarkalatos törvény előírásaihoz
+képest technikai jellegű részletszabályokat tartalmaz-e, melyre nem terjed ki az Alaptörvény P) cikk (2) bekezdése
+szerinti sarkalatosság követelménye, vagy pedig közvetlenül tartalmaz a Földforgalmi törvény szabályaitól eltérő,
+
+anyagi jogi jellegű és ekként a P) cikk (2) bekezdéséből fakadóan sarkalatos törvényi szintű szabályozást igénylő
+előírásokat a termőföld tulajdonjogának megszerzésére vonatkozóan.
+[21] 3. A termőföld tulajdonjogának megszerzésére vonatkozó általános feltételeket a Földforgalmi törvény tartalmazza.
+A 10. § (1) bekezdése értelmében a föld tulajdonjogát főszabály szerint belföldi természetes személyek és
+EU-tagállami állampolgárok szerezhetik meg. A Földforgalmi törvény a tulajdonszerzési jogosultság szempontjából
+különbséget tesz földművesek (5. § 7. pont) és földművesnek nem minősülő magánszemélyek között, mely
+különbségtételnek a megszerezhető termőföld területe szempontjából van jelentősége.
+[22] A földművesnek nem minősülő magyar és más EU-tagállambeli állampolgársággal rendelkező természetes
+személyek akkor szerezhetik meg a föld tulajdonjogát, ha a birtokukban álló föld területnagysága a megszerezni
+kívánt föld területnagyságával együtt nem haladja meg az 1 hektárt [10. § (2) bekezdés], mely területnagyságtól
+akkor lehetséges az eltérés, ha a földművesnek nem minősülő személy a tulajdonjogot átruházó személy közeli
+hozzátartozója [10. § (3) bekezdés], vagy ha a föld tulajdonjogának megszerzésére rekreációs céllal kerül sor [10. §
+(3a) bekezdés].
+[23] A földművesek, valamint a 10. § (3) és (3a) bekezdése szerinti esetekben a földművesnek nem minősülő
+természetes személyek a föld tulajdonjogát alapesetben 300 hektár mértékig szerezhetik meg [földszerzési
+maximum, 16. § (1) bekezdés], mely földszerzési maximumtól a Földforgalmi törvény egyes esetekben [lásd a 16. §
+(2)–(4) bekezdéseit] lehetőséget biztosít az eltérésre.
+[24] A Földforgalmi törvény 35. §-a a termőföld árveréssel történő megszerzésére vonatkozóan is tartalmaz szabályokat.
+A 35. § (3) bekezdése értelmében az árverésen az vehet részt, aki a tulajdonszerzési képességét az azt megalapozó
+okiratokkal az árverés helyszínén és időpontjában igazolja. Az elővásárlásra jogosult e jogát az árverésen
+gyakorolhatja azzal, hogy az elővásárlási jogosultságát bizonyító okiratokat is csatolnia kell az árverés helyszínén és
+időpontjában személyesen. A 35. § (4) bekezdése értelmében pedig a mezőgazdasági igazgatási szervnek azt kell
+vizsgálnia, hogy az árverési vevő szerzőképessége, illetve az elővásárlásra jogosultként licitáló személy elővásárlási
+joga fennáll-e, és az árverési vétel nem eredményezi-e a tulajdonszerzési korlátozás megsértését vagy megkerülését.
+Több, azonos ranghelyen álló elővásárlásra jogosult árverési vevő esetében a mezőgazdasági igazgatási szerv
+választása szerinti jogosult szerzi meg a föld tulajdonjogát.
+[25] A Földforgalmi törvény idézett rendelkezései alapján megállapítható, hogy a törvény, különösen annak 35. §
+(3) bekezdése egyértelműen lehetőséget biztosít minden olyan magyar vagy más EU-tagállambeli természetes
+személy számára az árverésen való részvételre, akik a Földforgalmi törvény rendelkezéseinek megfelelően
+a termőföld tulajdonjogát megszerezhetik. A 35. § (3) bekezdéséből pedig az is egyértelműen következik, hogy
+amennyiben az árverés résztvevője egyben elővásárlásra is jogosult (azaz nem szükségszerű, hogy minden árverési
+résztvevő egyben elővásárlásra jogosult is legyen), úgy a termőföld tulajdonjogának megszerzésére vonatkozó
+általános feltételek igazolása mellett többletkövetelményként az elővásárlási jogosultságát megalapozó okiratokat
+is be kell mutatnia, továbbá az elővásárlásra jogosult ezen jogát kizárólag személyesen gyakorolhatja.
+[26] 4. A Földforgalmi törvény 72. § h) pontja értelmében felhatalmazást kapott arra a Kormány, hogy rendeletben
+állapítsa meg a „föld végrehajtási vagy felszámolási, önkormányzati adósságrendezési eljárás keretében árverés
+útján történő értékesítésének szabályait”, az R. pedig (az indítványozó által támadott elemében) ezen felhatalmazás
+keretei között került megalkotásra. Az R. 5. § (1) bekezdése konjunktív feltételeket határoz meg arra vonatkozóan,
+hogy ki vehet részt az árverésen, mely feltételek egyidejű teljesítésének követelményét az R. 5. § (4) bekezdés
+e) pontja is egyértelművé teszi, amikor előírja, hogy nem árverezhet és a földet árverésen nem szerezheti meg
+az R. 5. § (1) bekezdésében foglaltaknak meg nem felelő személy.
+[27] Az R. 5. § (1) bekezdése értelmében az árverésen való részvétel, és így értelemszerűen a termőföld tulajdonjoga
+árverésen történő megszerzésének négy konjunktív feltétele, hogy az árverező a föld becsértékének 10%-át
+legkésőbb az árverés megkezdése előtt a mezőgazdasági igazgatási szervnél letétbe helyezze; a licitdíjat
+megfizesse; a Földforgalmi törvény 35. § (3) bekezdésének megfelelően igazolja a tulajdonszerzési képességét és
+a termőföld tulajdonjoga megszerzéséhez szükséges nyilatkozatokat megtegye; és végezetül, hogy a Földforgalmi
+törvény 18. § (1) bekezdés e) pontja szerinti, legfeljebb 20 km-es távolságra vonatkozó feltételnek megfeleljen és azt
+hatósági bizonyítvánnyal igazolja. Ezen négy konjunktív feltétel közül az első kettő [5. § (1) bekezdés a) és b) pontjai]
+kifejezetten az árverésen való részvételhez szükséges pénzügyi-technikai jellegű előírás. Az 5. § (1) bekezdés
+c) pontja szerinti harmadik feltétel a termőföld tulajdonjoga megszerzésére vonatkozó általános, a Földforgalmi
+törvény rendelkezéseire visszautaló követelmény. Az R. 5. § (1) bekezdés d) pontja ugyanakkor az árverésen való
+részvételre és ebből szükségszerűen következő módon a termőföld árverésen történő megszerzésére vonatkozóan
+egy speciális korlátozást fogalmaz meg, amikor [a Földforgalmi törvény 18. § (1) bekezdés e) pontjára visszautalva]
+
+előírja, hogy az árverésen csak olyan személy vehet részt, aki földművesnek minősül, és akinek a lakóhelye vagy
+mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási határa az adás-vétel
+tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt
+magánúton legfeljebb 20 km távolságra van. Ez az előírás, figyelemmel az R. 5. § (4) bekezdés e) pontjára, kizárja
+a termőföld tulajdonjogának árverésen történő megszerzését mindazok számára, akik egyébként a Földforgalmi
+törvény rendelkezései alapján termőföld tulajdonjogának megszerzésére jogosultak, azonban vagy egyáltalán
+nem jogosultak a kérdéses, árverezésre kerülő földterület vonatkozásában elővásárlási jog gyakorlására, vagy ha
+arra adott esetben jogosultak lennének is, annak jogalapja nem a Földforgalmi törvény 18. § (1) bekezdés e) pontja.
+Mindez pedig egyben azt is jelenti, hogy az R. indítványozó által támadott 5. § (1) bekezdés d) pontja valójában
+nem az árverésre vonatkozó technikai jellegű részletszabályokat fogalmaz meg, hanem a termőföld árverésen
+történő megszerzésére vonatkozóan a Földforgalmi törvény általános rendelkezéseitől eltérő tartalmi, anyagi jogi
+előírásokat rögzít, egyfajta lex specialis szabályozásként.
+[28] 5. Az Alaptörvény P) cikk (2) bekezdése értelmében a termőföld tulajdonjogának megszerzése korlátait és feltételeit,
+azaz a termőföld tulajdonjogának megszerzésére vonatkozó érdemi, tartalmi előírásokat sarkalatos törvényben
+kell rögzíteni. Az R. nem sarkalatos törvény. Az Alaptörvény T) cikk (3) bekezdése értelmében jogszabály nem lehet
+ellentétes az Alaptörvénnyel.
+[29] Azáltal, hogy a jogalkotó nem sarkalatos törvényben, hanem kormányrendeletben rögzített egy, a Földforgalmi
+törvény általános tulajdonszerzési rendelkezéseitől eltérő anyagi jogi többletkövetelményt a termőföld
+tulajdonjogának árverésen történő megszerzésére vonatkozóan, az R. 5. § (1) bekezdés d) pontja vonatkozásában
+az Alaptörvény P) cikk (2) bekezdéséből fakadó sarkalatos törvényi követelmény nem teljesült. Az Alkotmánybíróság
+ezért megállapította, hogy az R. 5. § (1) bekezdés d) pontja alaptörvény-ellenes, és azt a rendelkező részben
+foglaltak szerint megsemmisítette. Az alaptörvény-ellenesség megállapítására és a támadott jogszabályi
+rendelkezés megsemmisítésére tekintettel az Alkotmánybíróság (állandó gyakorlatának megfelelően) már nem
+vizsgálta, hogy az R. 5. § (1) bekezdés d) pontja egyébként tartalmilag is ellentétes-e a Földforgalmi törvény 35. §
+(3) bekezdésével.
+[30] 6. Az Abtv. 45. § (2) bekezdése értelmében, ha az Alkotmánybíróság bírói kezdeményezés alapján megsemmisít
+egy egyedi ügyben alkalmazott jogszabályt, a megsemmisített jogszabály az Alkotmánybíróság eljárására okot adó
+ügyben nem alkalmazható. Annak érdekében, hogy a termőföldek tulajdonjogának árverésen történő megszerzése
+valamennyi földterület vonatkozásában mindenkor azonos feltételek mellett történhessen, az Alkotmánybíróság
+az Abtv. 45. § (4) bekezdése alapján a megsemmisített jogszabályi rendelkezés általános alkalmazási tilalmának
+elrendeléséről határozott, a rendelkező rész 2. pontjában foglaltaknak megfelelően.
+[31] 7. A határozatot az Abtv. 44. § (1) bekezdésének első mondata alapján közzé kell tenni a Magyar Közlönyben.
+Budapest, 2022. május 17.
+Dr. Dienes-Oehm Egon s. k.,
+tanácsvezető alkotmánybíró
+Dr. Hörcherné dr. Marosi Ildikó s. k., Dr. Salamon László s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Szabó Marcel s. k., Dr. Szalay Péter s. k.,
+előadó alkotmánybíró alkotmánybíró
+Alkotmánybírósági ügyszám: III/866/2022.

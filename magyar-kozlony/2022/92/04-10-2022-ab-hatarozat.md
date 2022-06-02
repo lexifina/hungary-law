@@ -1,0 +1,721 @@
+# Az Alkotmánybíróság 10/2022. (VI. 2.) AB határozata
+
+Magyar Közlöny 2022. évi 92. szám, 2022. június 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/am7Nto28amhrrThMwx2H628ff7ee0a897/dokumentumok/f0f69512df8b92ed1afcf38afd67b020b91ccbc4/letoltes)
+
+---
+
+Az Alkotmánybíróság 10/2022. (VI. 2.) AB határozata
+a Kúria Knk.I.40.792/2021/10. számú végzése alaptörvény-ellenességének megállapításáról és
+megsemmisítéséről
+Az Alkotmánybíróság teljes ülése alkotmányjogi panasz tárgyában – dr. Dienes-Oehm Egon alkotmánybíró
+párhuzamos indokolásával, valamint dr. Juhász Imre, dr. Salamon László, dr. Schanda Balázs, dr. Szabó Marcel és
+dr. Szalay Péter alkotmánybírók különvéleményével – meghozta a következő
+h a t á r o z a t o t:
+Az Alkotmánybíróság megállapítja, hogy a Kúria Knk.I.40.792/2021/10. számú végzése alaptörvény-ellenes, ezért azt
+megsemmisíti.
+Az Alkotmánybíróság elrendeli e határozatának közzétételét a Magyar Közlönyben.
+I n d o k o l á s
+I.
+[1] 1. Az indítványozó magánszemély az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban:
+Abtv.) 27. §-a alapján alkotmányjogi panasszal fordult az Alkotmánybírósághoz, amelyben kérte a Kúria
+Knk.I.40.792/2021/10. számú végzése alaptörvény-ellenességének megállapítását és megsemmisítését.
+Az indítványozó azt is kérte, hogy az Alkotmánybíróság a kúriai végzés meghozatalát követő, folyamatban lévő
+aláírásgyűjtési eljárás felfüggesztéséről is rendelkezzen, mert annak alapja egy alaptörvény-ellenes bírói döntés.
+[2] 1.1. Az alkotmányjogi panasz előzményeként a szervező magánszemélyként országos népszavazásra javasolt
+kérdést nyújtott be 2021. július 21. napján a Nemzeti Választási Bizottsághoz (a továbbiakban: NVB), a népszavazás
+kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi
+CCXXXVIII. törvény (a továbbiakban: Nsztv.) 3. § (1) bekezdése szerinti hitelesítés céljából.
+[3] Az NVB a Magyar Közlönyben 20/2021. (VIII. 31.) számon közzétett határozatával (a továbbiakban: NVB Határozat)
+az „Egyetért-e Ön azzal, hogy az Országgyűlés helyezze hatályon kívül a Fudan Hungary Egyetemért Alapítványról,
+a Fudan Hungary Egyetemért Alapítvány részére történő vagyonjuttatásról szóló 2021. évi LXXXI. törvényt?”
+népszavazásra javasolt kérdést az Nsztv. 11. § (1) bekezdése alapján hitelesítette. Az NVB Határozat megállapította,
+hogy a kérdés az Alaptörvényben, valamint az Nsztv.-ben megfogalmazott követelményeknek megfelel.
+[4] 1.2. Az I., II. és III. rendű kérelmezők (így az I. rendű kérelmező is, aki jelen alkotmányjogi panasz indítványozója)
+külön-külön eljárva bírósági felülvizsgálati kérelmet nyújtottak be az NVB Határozat ellen, kérték annak
+megváltoztatását, és a népszavazásra javasolt kérdés hitelesítésének a megtagadását.
+[5] Az I. rendű kérelmező (a jelen alkotmányjogi panasz indítványozója) a felülvizsgálati kérelem jogalapjaként
+az Alaptörvény 8. cikk (3) bekezdés d) pontjának megsértését jelölte meg. Előadta, hogy a hivatkozott rendelkezés
+kizárja az országos népszavazás kezdeményezését nemzetközi szerződésből eredő kötelezettség tekintetében,
+ugyanakkor Magyarország és a Kínai Népköztársaság között megállapodás jött létre a Fudan Egyetem
+magyarországi felsőoktatási tevékenységének támogatásáról, amelyet a Magyarország és a Kínai Népköztársaság
+között a Fudan Egyetem magyarországi felsőoktatási tevékenységének támogatásáról szóló Megállapodás
+kihirdetéséről szóló 2018. évi CIX. törvény (a továbbiakban: Fudan tv.) hirdetett ki, elismerve a nemzetközi szerződés
+kötelező hatályát.
+
+[6] A Fudan tv. szerinti Megállapodás 1. Cikkében a felek vállalják, hogy biztosítják a Fudan Egyetem magyarországi
+felsőoktatási tevékenységének a támogatását, a Megállapodásban foglaltak végrehajtásáért Magyarország nevében
+az Innovációs és Technológiai Minisztérium (a továbbiakban: Minisztérium), a Kínai Népköztársaság részéről pedig
+a Fudan Egyetem felel. A Fudan tv. szerinti Megállapodás végrehajtásának következő lépése a Fudan Hungary
+Egyetemért Alapítványról, a Fudan Hungary Egyetemért Alapítvány részére történő vagyonjuttatásról szóló
+2021. évi LXXXI. törvény (a továbbiakban: Alapítványi tv.), amely a vagyonkezelői alapítvány létrehozásáról,
+működésének vagyonjuttatással, támogatással, adománnyal történő segítéséről szól.
+[7] Az Alapítvány feladata a Fudan Egyetem magyarországi létrehozása, működtetése. Az indítványozó álláspontja
+szerint azáltal, hogy a hitelesítésre benyújtott kérdés az Alapítványi tv. hatályon kívül helyezésére vonatkozik,
+egy érvényes és eredményes, „igen” többséggel záruló népszavazás következtében az Alapítványi tv.-t
+az Országgyűlésnek hatályon kívül kellene helyeznie, ami közvetlenül érinti a Fudan tv. szerinti Megállapodás
+mint nemzetközi szerződés végrehajtását. Rámutatott, hogy a népszavazásra feltenni szándékozott kérdés nem
+csupán összefüggésben áll a nemzetközi kötelezettségvállalással, hanem annak elfogadásának és végrehajtásának
+útján valósulhat meg, így az Országgyűlés jogalkotói szerepének mellőzése önmagában is a vállalt kötelezettség
+sérelmét jelenti. Álláspontja szerint az Alapítványi tv. a megvalósítás kereteit biztosítja a Fudan tv. szerinti
+Megállapodás általános céljainak és több, konkrétan meghatározható együttműködési elemének. Érvelése
+szerint ebből az következik, hogy a hitelesítésre benyújtott kérdés közvetlen kapcsolatban van a Fudan tv. szerinti
+Megállapodással, az Alapítványi tv. hatályon kívül helyezése pedig nyilvánvalóan felvetné a nemzetközi szerződés
+megváltoztatását, feltételeinek, végrehajtásának az újratárgyalását, de akár a felmondás lehetőségét is, ami
+az Alaptörvény 8. cikk (3) bekezdés d) pontjába ütköző, ezáltal népszavazásra nem bocsátható.
+[8] 1.3. A Kúria Knk.I.40.792/2021/10. számú végzésével az I–III. rendű kérelmezők érintettségét megállapította,
+az általuk benyújtott felülvizsgálati kérelmeket érdemben vizsgálta mind a népszavazásra javasolt kérdésnek
+az alaptörvényi tilalomba ütközése [Alaptörvény 8. cikk (3) bekezdés d) pont], mind annak egyértelműsége
+kérdésében, és megállapította, hogy a felülvizsgálati kérelmek nem megalapozottak, ezért az NVB Határozatot
+– az Nsztv. 30. § (1) bekezdése alapján – helybenhagyta. A Kúria döntésében azt is rögzítette, hogy a Fudan
+Hungary Egyetemért Alapítvány (a továbbiakban: Alapítvány) perbelépés iránti kérelmet nyújtott be, a kérelmezők
+pernyertességét kívánta érdekeltként támogatni, amely kérelmet a Kúria 6. sorszámú végzésével elutasította.
+[9] 1.4. Az indítványozó alkotmányjogi panaszában előadta, hogy a kúriai eljárás során – a kérelmezők
+pernyertességének elősegítésére – az Alapítvány és a Kormány érdekeltként perbelépési kérelmet nyújtott be,
+azonban a Kúria a Knk.l.40.792/2021/6. számú és a Knk.l.40.793/2021/6. számú végzésekben a kérelmeket
+elutasította. Az indítványozó szerint a Kúria tévesen értelmezte az Nsztv. és a közigazgatási perrendtartásról szóló
+2017. évi I. törvény perbelépésre vonatkozó rendelkezéseit, amikor arra a következtetésre jutott, hogy a Kormány és
+az Alapítvány nem léphetett perbe a pernyertességét elősegítve, ugyanis a szabályrendszer az érdekeltként történő
+perbelépési kérelem kapcsán nem tartalmaz korlátozó vagy kizáró rendelkezést. A Kúria a Kormány és az Alapítvány
+tisztességes bírósági eljáráshoz fűződő alapvető jogát is megsértette, amikor a perbe érdekeltként nem engedte be
+őket. Az indítvány szerint az érdekeltkénti perbelépési kérelmek megtagadásával a Kúria a tisztességes bírósági
+eljáráshoz való alapvető jog részelemének tekinthető fegyveregyenlőség alkotmányos elvét is megsértette, mert
+önkényes jogértelmezés és jogalkalmazás útján fosztotta meg a Kormánnyal és az Alapítvánnyal történő együttes
+perbeli jogérvényesítés lehetőségétől.
+[10] Az indítványozó alkotmányjogi panaszában az Alaptörvény 8. cikk (3) bekezdés d) pontja szerinti alaptörvényi
+tilalommal összefüggésben hivatkozott arra, hogy a Kúria Knk.I.40.792/2021/10. számú végzésében elvi tartalommal
+megállapította, hogy„[a]z Alaptörvény 8. cikk (3) bekezdés d) pontja szerinti tilalom megsértését nem a nemzetközi
+szerződés létrehozásához vezető szerződéskötési folyamatban keletkező megállapodásra, hanem törvénnyel vagy
+kormányrendelettel kihirdetett nemzetközi szerződésből eredő kötelezettségre vonatkozóan kell vizsgálni”, valamint
+hogy „[a] népszavazásra javasolt kérdés bírósági felülvizsgálata során a Kúriának akkor is magából a kérdésből
+kell kiindulnia, ha a kérelmezők egyes megállapodásokat és egyes felsőoktatási intézményeket a kérelmükben
+annak ellenére azonosként kezelnek, hogy tényszerűen különböző megállapodásokról és különböző felsőoktatási
+intézményekről van szó”.
+[11] Az indítvány szerint a tisztességes bírósági eljáráshoz való jog sérelmét az is megalapozza, hogy a Kúria nem
+fordított kellő figyelmet a népszavazási kérdés egyértelműségének alkotmányos vizsgálatára, ezáltal egy olyan
+kérdés népszavazásra bocsátását hagyta jóvá, ami álláspontja szerint sérti a népszavazási kérdés alkotmányosságára
+vonatkozó követelményeket. A népszavazási kérdés egy magánjogi jogalany magánjogi jogviszonyait érinti,
+mivel tevékenységére, alapító okiratban meghatározott céljaira, vagyoni viszonyaira egy esetleges érvényes és
+eredményes népszavazás kihatással lenne. Az indítványozó szerint a népszavazási kérdés a jogalkotó oldaláról sem
+
+egyértelmű: mert nem egyértelmű, hogy a törvény hatályon kívül helyezése mellett más jogalkotási kötelezettsége
+az Országgyűlésnek felmerül-e. A választópolgári egyértelműség követelményének sem felel meg, az alábbiak
+szerint. A törvény hatályon kívül helyezése nem a Fudan Egyetem magyarországi létrehozását akadályozza meg,
+hanem az Alapítvány jelenleg közjogilag korlátozott vagyonjogi jogviszonyait módosítja, úgy, hogy a közjogi
+kötöttségeket hatályon kívül helyezi. A Kúria egy olyan kérdést talált egyértelműnek, amely bizonytalan állapotot
+teremt, és amely szembemegy az Alaptörvény jogállamisági követelményével [Alaptörvény B) cikk (1) bekezdés].
+[12] 1.5. Az Alkotmánybíróság eljárása során – szakmai álláspontjának kifejtése céljából – megkereste az igazságügyi
+minisztert.
+[13] Az igazságügyi miniszter a megkeresésre adott válaszában kifejtette, hogy „a Kormány a Fudan Hungary Egyetem
+Alapítványról szóló népszavazás során kifejezendő népakaratot tiszteletben tartja”. Ugyanakkor az alábbiakra
+mutatott rá. A Kormány a tárgyi kúriai felülvizsgálati eljárásban nem kívánt részt venni, így perbelépési kérelmet
+sem nyújtott be. Kiemelte, hogy a népszavazási kérdés egy magánjogi jogalany magánjogi viszonyait érinti, továbbá
+az Alapítványi tv. hatályon kívül helyezésével számos sarkalatos törvényi rendelkezéssel meghatározott garanciális
+– a nemzeti vagyonnal való felelős gazdálkodást és az állami alapító jogait biztosítani hivatott – törvényi
+rendelkezés hatályon kívül helyezésére kerülne sor. Ezzel összefüggésben hangsúlyozta, hogy az Alapítványt
+a Fővárosi Törvényszék bejegyezte, amely döntés 2021. április 18-án jogerőre emelkedett, így az Alapítvány
+magánjogi jogalanyisága fennáll. Jogalkotói oldalról a népszavazás tárgyát képező Alapítványi tv. deregulációja
+nem vonja maga után az Alapítvány megszűnését, amire viszont a választópolgár okkal következtethetne
+a népszavazásra javasolt kérdés jellegéből, megfogalmazásából.
+II.
+[14] Az Alaptörvénynek az indítvány által felhívott, érintett rendelkezései:
+„B) cikk (1) Magyarország független, demokratikus jogállam.”
+„XXVIII. cikk (1) Mindenkinek joga van ahhoz, hogy az ellene emelt bármely vádat vagy valamely perben a jogait és
+kötelezettségeit törvény által felállított, független és pártatlan bíróság tisztességes és nyilvános tárgyaláson, ésszerű
+határidőn belül bírálja el.”
+„8. cikk (3) Nem lehet országos népszavazást tartani
+[…]
+d) nemzetközi szerződésből eredő kötelezettségről;”
+III.
+[15] 1. Az Alkotmánybíróság először azt vizsgálta, hogy az alkotmányjogi panasz megfelel-e az alkotmányjogi panasz
+befogadhatóságára vonatkozó törvényi – formai és tartalmi – feltételeknek.
+[16] 2. Az Alkotmánybíróság a 3195/2014. (VII. 15.) AB végzésében (a továbbiakban: Abv.) áttekintette a népszavazási
+kérdés hitelesítésével kapcsolatos kúriai végzés alkotmánybírósági felülvizsgálatára irányuló alkotmányjogi
+panaszokkal kapcsolatos eljárási, jogértelmezési, hatásköri szabályokat. Az Abv. azt állapította meg, hogy
+„a népszavazással összefüggő eljárásoknak az Alkotmánybíróság egyes, az Alaptörvényben és az Abtv.-ben
+rögzített hatáskörei gyakorlása szempontjából három szakasza lehet: a népszavazási kezdeményezés
+(választópolgári kezdeményezés, a kérdés benyújtása, hitelesítése, az aláírásgyűjtés, az aláírások ellenőrzése),
+a népszavazás elrendelése és a köztársasági elnöki kitűzés utáni szakasz” (Indokolás [20]). Megállapította továbbá,
+hogy a népszavazási kérdés hitelesítése körében hozott kúriai döntés mint bírósági döntés az Alaptörvény
+24. cikk (2) bekezdés d) pontja és az Abtv. 27. §-a alapján támadható meg alkotmányjogi panasszal” {lásd: Abv.,
+Indokolás [21]; megerősítette: 28/2015. (IX. 24.) AB határozat (a továbbiakban: Abh1.), Indokolás [18];
+33/2021. (XII. 22.) AB határozat (a továbbiakban: Abh2.), Indokolás [13]}.
+[17] 3. Az Abtv. 30. § (1) bekezdése szerint az Abtv. 27. §-a szerinti alkotmányjogi panaszt a sérelmezett döntés
+kézbesítésétől számított hatvan napon belül lehet írásban benyújtani. A Knk.I.40.792/2021/10. számú kúriai végzést
+az indítványozó jogi képviselője 2021. december 8-án vette kézhez, az alkotmányjogi panaszt az indítványozó
+személyesen 2022. január 19-én, határidőben nyújtotta be. A Kúria a Nemzeti Választási Bizottság határozatát
+helybenhagyja, vagy azt megváltoztatja. A Kúria döntése ellen további jogorvoslatnak helye nincs [Nsztv. 30. §
+(1) bekezdés]. Az indítványozó a rendelkezésre álló jogorvoslati lehetőségeket kimerítette.
+
+[18] 4. Az indítványozó nemcsak jogosult, de a vizsgált esetben érintett is, mert a kúriai eljárásban I. rendű kérelmező
+volt [Abtv. 27. § (2) bekezdés a) pont].
+[19] 5. Az indítvány a határozott kérelem Abtv. 52. § (1b) bekezdés a)–f) pontjaiban foglalt kritériumainak részben
+eleget tesz.
+[20] Az indítványozó hivatkozott az Alaptörvény B) cikk (1) bekezdésére is. Az Alkotmánybíróság ugyanakkor
+következetes gyakorlatot követ a tekintetben is, hogy „a jogbiztonság önmagában nem Alaptörvényben biztosított
+jog, így a B) cikk (1) bekezdésének a sérelmére alkotmányjogi panaszt csak kivételes esetben – a visszaható hatályú
+jogalkotás és jogalkalmazás, valamint a felkészülési idő hiánya esetén – lehet alapítani” {3051/2016. (III. 22.)
+AB határozat, Indokolás [14]; továbbá lásd még például: 3066/2013. (II. 28.) AB végzés, Indokolás [9]}.
+Az indítványozó nem e kivételes körre alapította a panaszát.
+[21] Az Alkotmánybíróság rámutat, hogy az indítványozó az alkotmányjogi panaszában hivatkozott, a perbelépési
+kérelmet elbíráló kúriai végzést beadványához nem csatolta, annak alaptörvény-ellenességének megállapítását
+és megsemmisítését kifejezetten nem kérte. Egyebekben a megsemmisíteni kért, Knk.I.40.792/2021/10. számú
+kúriai végzésnek ezen perbelépési kérelem elbírálása nem képezte a tárgyát, ezért az Alkotmánybíróság ezen
+indítványi elemet [perbelépés iránti kérelem mikénti elbírálása] érdemben nem vizsgálta, figyelemmel arra,
+hogy az indítványozó valójában nem a saját, hanem más alapjogának sérelmére hivatkozva kifogásolta azt, ezért
+az indítvány nem felel meg az Abtv. 27. § (1) bekezdés a) pontja szerinti feltételnek.
+[22] Az indítványozó a Knk.I.40.792/2021/10. számú kúriai végzést azért is kifogásolta, mert a Kúria az indítványozó
+álláspontja szerint az eljárása során az NVB Határozat szerinti népszavazás alkotmányosságát érdemben
+nem vizsgálta megfelelően, így az NVB Határozatot helybenhagyó döntésével mind az Alapítvány, mind
+a választópolgárok számára – így az indítványozó számára is – jogbizonytalanságot teremt. Álláspontja szerint
+a népszavazási kérdés célja és tartalma nem egyértelmű, szemben a Kúria döntésében foglaltakkal. Az indítványozó
+tartalmilag tehát a népszavazási kérdést hitelesítő kúriai döntés kapcsán az egyértelműség követelményének [Nsztv.
+9. § (1) bekezdés] fennállását vitatta.
+[23] Az Alkotmánybíróság a jelen határozatában is szükségesnek ítéli rögzíteni azt, hogy a Kúria alkotmányjogi panasszal
+támadott hitelesítő döntésében szereplő kérdés egyértelműségének vizsgálata a Kúria hatáskörébe tartozik
+(vö. Abh1., Indokolás [28]). Ezt a vizsgálatot a Kúria elvégezte, ezért az Alkotmánybíróság ezen indítványi elemet sem
+vizsgálta érdemben.
+[24] 6. Mindezek alapján az Alkotmánybíróság az alkotmányjogi panasz befogadhatóságát a továbbiakban kizárólag
+a Knk.I.40.792/2021/10. számú, az NVB Határozatot helybenhagyó kúriai végzés kapcsán, az alábbi összefüggésben
+vizsgálta.
+[25] A felülvizsgálati eljárásának mint az Nsztv.-ben rögzített jogorvoslati eljárásnak a tárgya a hitelesíteni kért
+kérdés alkotmányosságának és törvényességének a vizsgálata volt. Az indítványozó jelen ügyben alapjogi
+sérelmet állított (a tisztességes bírósági eljáráshoz való alapjog sérelmére hivatkozott), továbbá beadványában
+a Kúria Knk.I.40.792/2021/10. számú végzése kapcsán kifejezetten hivatkozott a döntés elvi tartalmára, amely
+az Alaptörvény 8. cikk (3) bekezdés d) pontja szerinti (tiltott népszavazási tárgykör) alaptörvényi tilalom
+fennállásának kérdését is vizsgálta. Az Alkotmánybíróság a jelen ügyben is nyomatékkal kíván utalni arra, hogy
+a Kúria hitelesítő döntését csak kivételesen, alapjogi sérelem állítása esetén, és kizárólag alkotmányossági
+szempontból vizsgálja felül. A jelen ügyben ezt a kivételességet az állított alapjogi sérelem (tisztességes bírósági
+eljáráshoz való jog sérelme) alapozza meg. Az Alkotmánybíróság rámutat arra is, hogy az indítványozó által állított
+alapjogi sérelemmel összefüggésben felhívott hitelesítés megtagadási ok az Alaptörvény 8. cikk (3) bekezdés
+d) pontjában foglalt tehát nem törvényi, hanem alaptörvényi tilalom. A Kúria a kifogásolt végzésében nemcsak
+a hitelesíteni kért kérdés törvényességét, de annak alkotmányosságát is vizsgálta a felülvizsgálati kérelem keretei
+között. Az Alaptörvény 24. cikk (1) bekezdése értelmében az Alkotmánybíróság az Alaptörvény védelmének legfőbb
+szerve, ami a jelen alkotmányjogi panasz eljárásban is irányadó (vö. Abh1., Indokolás [28]).
+[26] 7. Az Abtv. 29. §-a értelmében az alkotmányjogi panasz a bírói döntést érdemben befolyásoló alaptörvény-
+ellenesség vagy alapvető alkotmányjogi jelentőségű kérdés esetén fogadható be.
+[27] Az Alkotmánybíróság hangsúlyozza, hogy a népszavazásból kizárt, tiltott tárgykör a közvetlen hatalomgyakorlás
+és a népszavazáshoz való jog mint politikai alapjog alaptörvényi korlátja is egyben [mind a népszavazást
+kezdeményező(k) és azt támogatók, mind az azzal egyet nem értők tekintetében], vagyis a népszavazás mint
+kivételes hatalomgyakorlás természetéből fakadó sajátos alaptörvényi védelem alatt áll, hogy kizárt tárgykörben
+ne lehessen népszavazást tartani.
+
+[28] Az Alkotmánybíróság gyakorlatában az önkényes bírói jogértelmezés sértheti az Alaptörvény XXVIII. cikk
+(1) bekezdésében foglalt tisztességes eljáráshoz való jogot. A jogértelmezési hiba contra constitutionem akkor válik
+önkényessé, ha a bíróság az Alaptörvény 28. cikkében foglalt jogértelmezési szabályokat kifejezetten figyelmen
+kívül hagyja {pl. 23/2018. (XII. 28.) AB határozat, Indokolás [28]; Abh2., Indokolás [30]}. Az Alaptörvény 28. cikke
+pedig az alkotmánykonform értelmezés követelményét támasztja az Alaptörvény 8. cikk (3) bekezdése szerinti tiltott
+tárgykörök tekintetében (vö. Abh2., Indokolás [31]). Az Alkotmánybíróság a jelen ügyben alapvető alkotmányjogi
+jelentőségű kérdésnek annak vizsgálatát tekintette, hogy a Kúria az Alaptörvény tiltó rendelkezését [Alaptörvény
+8. cikk (3) bekezdés d) pont] értelmező döntése során alkotmánykonform módon, az Alaptörvénnyel összhangban
+értelmezte-e, hogy a hitelesíteni kért kérdés népszavazásból kizárt tárgykört érint-e, ezzel összefüggésben
+a kifogásolt hitelesítő döntés a tisztességes eljáráshoz való joggal összefüggésben az Alaptörvény 8. cikk
+(3) bekezdés d) pontja szerinti tilalom sérelmére vezethet-e.
+[29] 8. Az Alkotmánybíróság a fentiek alapján az alkotmányjogi panaszt – az Ügyrend 31. § (6) bekezdése alkalmazásával,
+a befogadási eljárás lefolytatásának mellőzésével – érdemben bírálta el.
+IV.
+[30] Az alkotmányjogi panasz az alábbiak szerint megalapozott.
+[31] 1. Az Alkotmánybíróságnak az Abtv. 27. §-a alapján előterjesztett alkotmányjogi panasz érdemi (tartalmi) elbírálása
+során azt kellett vizsgálnia, hogy a Kúria hitelesítő döntésében szereplő kérdés nem ütközik-e az Alaptörvény 8. cikk
+(3) bekezdés d) pontjában foglalt, Alaptörvényben tiltott népszavazási tárgykörbe. Ebben az alkotmányossági
+kérdésben az Alkotmánybíróságnak el kellett végeznie a Kúria jogerős végzésében foglalt hitelesítő döntés
+(az ennek tárgyát képező kérdés) alkotmányossági felülvizsgálatát (vö. Abh1., Indokolás [29]).
+[32] 2. A Kúria Knk.I.40.792/2021/10. számú végzésében a népszavazási kérdés egyértelműsége mellett (amely
+a korábban kifejtettek szerint jelen alkotmányossági vizsgálatnak nem tárgya) azt vizsgálta, hogy az Alaptörvény
+8. cikk (3) bekezdés d) pontjába ütközik-e a népszavazásra javasolt kérdés.
+[33] A Kúria ebben a körben lényegében arra az álláspontra helyezkedett, hogy a szerződések jogáról szóló,
+Bécsben az 1969. év május hó 23. napján kelt szerződés kihirdetéséről szóló 1987. évi 12. törvényerejű rendelet
+(a továbbiakban: Bécsi Egyezmény), valamint a nemzetközi szerződésekkel kapcsolatos eljárásról szóló
+2005. évi L. törvény (a továbbiakban: Eljárási tv.) vizsgálata alapján az Eljárási tv. szerinti jogszabállyal kihirdetett
+nemzetközi szerződésből eredhet olyan kötelezettség, amelyre nézve az Alaptörvény 8. cikk (3) bekezdés d) pontja
+szerinti tilalom fennállását vizsgálni kell. Ezzel összefüggésben hangsúlyozta, hogy a népszavazásra javasolt
+kérdés nem áll közvetlen kapcsolatban a Fudan tv. szerinti Megállapodással mint kötelező hatályú nemzetközi
+szerződéssel, továbbá nincs olyan, a népszavazási kérdéssel érintett, az Alapítványi tv. szabályozási tárgyát
+érintő kötelezettségvállalást tartalmazó nemzetközi szerződés, amelyet az Alaptörvény és az Eljárási tv. szerint
+megkövetelt jogszabály (törvény vagy kormányrendelet) kihirdetett volna (a Magyarország Kormánya és a Fudan
+Egyetem közötti, 2021. április 27-én kelt Stratégiai Együttműködési Megállapodás nem tekinthető ilyennek), ezért
+a népszavazásra javasolt kérdés hitelesítése nem ütközik az Alaptörvény 8. cikk (3) bekezdés d) pontja szerinti
+tilalomba.
+[34] A Kúria – a jogi szabályozási környezet részletes bemutatása mellett – tehát kiemelte, hogy az Alapítványi
+tv. nem a Fudan tv. szerinti Megállapodás megvalósítási kereteit biztosítja, azzal közvetlen összefüggés nem
+áll fenn. A szervező által feltenni javasolt kérdés nem érint jogszabállyal kihirdetett nemzetközi szerződésben vállalt
+kötelezettséget, az Alapítványi tv.-nek egy esetleges érvényes és eredményes,„igen” többséggel záruló népszavazás
+folytán bekövetkező hatályon kívül helyezése nem vetné fel a Fudan tv. szerinti Megállapodás mint kötelező hatályú
+nemzetközi szerződés megváltoztatását vagy felmondását.
+[35] Az Alkotmánybíróság hangsúlyozza, hogy a Kúria sem vitatta, hogy a Fudan tv. szerinti Megállapodás kötelező
+hatályú nemzetközi szerződésnek minősül. Az Eljárási tv. értelmében „nemzetközi szerződés: más állammal vagy
+a nemzetközi jog szerződéskötési képességgel bíró egyéb alanyával kötött, Magyarország számára nemzetközi jogi
+jogokat és kötelezettségeket létesítő, módosító vagy megszüntető, a nemzetközi jog által szabályozott, bármilyen
+elnevezéssel vagy címmel rendelkező írásbeli megállapodás, tekintet nélkül arra, hogy egyetlen, kettő vagy több
+egymással összefüggő okmányba foglalták-e;” (Eljárási tv. 2. § a) pont). A nemzetközi szerződés létrehozására
+a miniszterelnök ad felhatalmazást, míg a létrehozott nemzetközi szerződés szövegének végleges megállapítása
+a Kormány vagy a miniszterelnök felhatalmazása alapján történik [Eljárási tv. 5. § (1) és (2) bekezdés]. A nemzetközi
+
+szerződés kötelező hatályának elismerésére adott felhatalmazást a nemzetközi szerződést kihirdető törvény vagy
+kormányrendelet (kihirdető jogszabály) tartalmazza [Eljárási tv. 7. § (2) bekezdés].
+[36] 3. Az Alkotmánybíróság értelmezésében mind a választójog, mind a népszavazáshoz való jog a népfelség elvéből
+következő alkotmányos alapjogok. A demokratikus hatalomgyakorlásban való részvétel módja szerint ugyan
+megkülönböztethetünk közvetett és közvetlen részvételi formát, azonban mind a választójog gyakorlásának,
+mind a népszavazáshoz való jog gyakorlásának célja a népképviselet érvényre juttatása. Az Alaptörvény B) cikk
+(4) bekezdése a két hatalomgyakorlási formát nevesítve írja elő, hogy„[a] nép a hatalmát választott képviselői útján,
+kivételesen közvetlenül gyakorolja”{3212/2016. (X. 26.) AB végzés, Indokolás [18]}.
+[37] 4. Az Alaptörvény B) cikk (3) és (4) bekezdései alapján a közhatalom forrása a nép, amely a hatalmát választott
+képviselői útján, kivételesen közvetlenül gyakorolja. Ebből következően a népszuverenitást – főszabály szerint –
+az Országgyűlés juttatja kifejezésre, ugyanakkor a demokratikus hatalomgyakorlásnak része az is, hogy
+az ország sorsát érintő legfontosabb ügyek eldöntésében a választópolgárok közvetlenül, népszavazás útján
+is részt vehessenek (Abh2., Indokolás [23]). Az Alaptörvény 8. cikke a közvetlen hatalomgyakorlás két típusát
+különbözteti meg: egyrészt a kétszázezer választópolgár kezdeményezésére az Országgyűlés által kötelezően
+elrendelendő népszavazást, másrészt a köztársasági elnök, a Kormány vagy százezer választópolgár
+kezdeményezésére nem kötelezően elrendelendő (fakultatív, mérlegelésen alapuló) népszavazást. Utóbbi esetén
+a közvetlen hatalomgyakorlás egyik szükséges eleme, a népszavazás megtartásának kikényszeríthetősége
+hiányzik. A népszavazás elsődleges célja, hogy törvényhozási kötelezettséget vagy meghatározott tartalmú
+jogalkotástól való tartózkodást határozzon meg az Országgyűlés számára, azonban fakultatív népszavazás esetén
+az Országgyűlés mérlegelésén múlik, hogy elrendeli-e a népszavazást, azt kikényszeríteni semmilyen formában nem
+lehet. Amennyiben az Országgyűlés elrendeli a népszavazást, az érvényes és eredményes népszavazáson hozott
+döntés az Országgyűlésre kötelező, ennyiben tehát hatalmát ez a közvetlen hatalomgyakorlási forma is korlátozza
+(vö. Abh2., Indokolás [24]).
+[38] 5. Az országos népszavazás tárgya az Alaptörvény 8. cikk (2) bekezdése szerint az Országgyűlés feladat- és
+hatáskörébe tartozó kérdés lehet, az Alaptörvény 8. cikk (3) bekezdése pedig felsorolja azokat a tárgyköröket,
+amelyekben nem lehet országos népszavazást tartani (Abh2., Indokolás [25]). Nem lehet országos népszavazást
+tartani nemzetközi szerződésből eredő kötelezettségről [Alaptörvény 8. cikk (3) bekezdés d) pont]. Az Alaptörvény
+alapján ilyen tiltott tárgykör a nemzetközi szerződésből eredő kötelezettség. Az Alaptörvény 8. cikk (3) bekezdés
+d) pontja tehát a nemzetközi szerződésből eredő kötelezettségvállalások és azok teljesítése tekintetében
+népszavazási tilalmat állapít meg.
+[39] Az Alaptörvény Q) cikk (3) bekezdése értelmében a nemzetközi jog azon forrásai, amelyek nem minősülnek
+a nemzetközi jog általánosan elismert szabályainak, jogszabályban történő kihirdetésükkel válnak a magyar
+jogrendszer részévé {3383/2018. (XII. 14.) AB határozat, Indokolás [20]}. A Fudan tv. szerinti Megállapodást mint
+nemzetközi szerződést Magyarországon a Fudan tv. hirdette ki, ekként az a magyar jogrendszer részét képezi.
+A vállalt, jogszabályban kihirdetett nemzetközi szerződésből eredő kötelezettségek és azok teljesítése (végrehajtása)
+tekintetében az Alaptörvény 8. cikk (3) bekezdés d) pontja kizárja a közvetlen hatalomgyakorlást mint a politikai
+alapjogok gyakorlását.
+[40] 6. A népszavazás elsődleges célja, hogy jogalkotási kötelezettséget határozzon meg az Országgyűlés számára
+(Abh2., Indokolás [32]). A vizsgált esetben az országos népszavazásra javasolt kérdés nem jogalkotásra, hanem
+az Alapítványi tv. hatályon kívül helyezésére irányul, vagyis a hatályos jogi szabályozási környezet ilyen irányú
+megváltoztatását célozza.
+[41] 7. Az Alkotmánybíróságnak ebből következően az Alaptörvény 8. cikk (3) bekezdés d) pontjának
+az Alkotmánybíróság által a jelen határozat IV/5. pontjában (Indokolás [38] és köv.) feltárt alaptörvényi tartalmából
+következően azt kellett vizsgálnia, hogy a Fudan tv. szerinti Megállapodás alapján az Alapítványi tv.-nek mint
+a népszavazásra javasolt kérdés által hatályon kívül helyezni kért törvénynek a Fudan tv. szerinti Megállapodásban
+vállalt nemzetközi kötelezettséggel, valamint az annak végrehajtását célzó jogi szabályozási környezettel mi
+a viszonya, az Alapítványi tv. nemzetközi szerződésből eredő kötelezettséget, vagy annak teljesítését (végrehajtását)
+érinti-e.
+
+[42] A Fudan tv.-nyel kihirdetett nemzetközi szerződés mint sajátos nemzetközi együttműködési megállapodás
+tartalmi vizsgálata alapján az Alkotmánybíróság az alábbiakat emeli ki. Az Országgyűlés a Fudan tv.-nyel
+felhatalmazást adott Magyarország és a Kínai Népköztársaság között a Fudan Egyetem magyarországi
+felsőoktatási tevékenységének támogatásáról szóló Megállapodás kötelező hatályának elismerésére (Fudan tv.
+1. §). Az Országgyűlés a Megállapodást a Fudan tv.-nyel kihirdette (Fudan tv. 2. §). A Megállapodás olyan kétoldalú
+akaratmegegyezésen alapul, amelynek tárgya és rendeltetése Magyarország és a Kínai Népköztársaság között
+a Fudan Egyetem magyarországi felsőoktatási tevékenységének támogatása (Fudan tv. 3. §).
+[43] A Fudan tv. szerinti Megállapodás 1. Cikke a Fudan Egyetem magyarországi oktatási tevékenységének
+támogatásáról szól. Rögzíti, hogy a Felek biztosítják a Fudan Egyetem magyarországi oktatási tevékenységének
+támogatását a kölcsönös érdeklődésre számot tartó területeken, különösen a gazdaságtudományok,
+társadalomtudomány és informatika képzési területeken. Továbbá a Felek kijelentik, hogy a Fudan Egyetem a Kínai
+Népköztársaságban rendelkezésre álló akkreditációja keretében adja ki a felsőoktatási fokozatot adó okleveleket
+a Fudan Egyetem magyarországi képzéseiben részt vevő hallgatóinak.
+[44] A Fudan tv. szerinti Megállapodás 2. Cikke meghatározza a Fudan Egyetem jogi státuszát. Rögzíti, hogy a Fudan
+Egyetem a Kínai Népköztársaságban államilag elismert, Shanghai tartományi jogú városban székhellyel rendelkező
+felsőoktatási intézmény. A Felek megállapítják továbbá, hogy a Fudan Egyetem által jelen megállapodás alapján
+Magyarország területén folytatni kívánt képzés a Kínai Népköztársaság által államilag elismert felsőoktatási
+fokozatot adó képzésnek, a képzésre tekintettel kiállított oklevél a Kínai Népköztársaság által államilag elismert
+felsőoktatási fokozatot adó oklevélnek felel meg. A Felek megállapítják és kijelentik, hogy a Fudan Egyetem
+a Magyarországon történő működéshez a származási ország jogrendszere szerint szükséges jogi felhatalmazással
+rendelkezik. A Fudan tv. szerinti Megállapodás 3. cikke meghatározza a Megállapodás végrehajtásáért felelős
+szerveket (Magyarország nevében a Minisztérium, a Kínai Népköztársaság nevében a Fudan Egyetem). A Fudan tv.
+4. cikke értelmében a Felek a jelen Megállapodást és az abból fakadó intézkedéseket saját nemzeti jogszabályaik
+és rendelkezéseik alapján teljesítik és értelmezik, továbbá Magyarország mindent megtesz annak érdekében, hogy
+a Megállapodás hatálybalépéséhez szükséges belső jogi eljárásokat 2019. február végéig lefolytassa.
+[45] A Fudan tv. indokolása hangsúlyozza, hogy „a törvény célja a Magyarország és a Kínai Népköztársaság között
+a Fudan Egyetem magyarországi felsőoktatási tevékenységének támogatásáról szóló Megállapodás kihirdetése”.
+Az indokolás rögzíti, hogy a Fudan Egyetem és a Budapesti Corvinus Egyetem közötti együttműködés tárgyában
+Magyarország és a Kínai Népköztársaság között a tárgyalások lezárultak. A tárgyalási folyamat lezárását követően
+a Megállapodás szövegét a Minisztérium, a Külgazdasági és Külügyminisztérium és az Igazságügyi Minisztérium
+a miniszterelnök elé terjesztette. A Megállapodás szövegének végleges megállapításához szükséges miniszterelnöki
+jóváhagyás a Magyarország és a Kínai Népköztársaság között a Fudan Egyetem magyarországi felsőoktatási
+tevékenységének támogatásáról szóló megállapodás létrehozására adott felhatalmazásról szóló 132/2018. (X. 30.)
+ME határozatban került közzétételre.
+[46] 8. A Fudan tv. szerinti Megállapodást mint a Fudan tv.-nyel kihirdetett nemzetközi szerződést követő jogi
+szabályozási környezet vizsgálata körében a Kúria is rámutatott az alábbiakra.
+[47] A Magyarország Kormánya és a Kínai Népköztársaság között a Fudan Egyetem részvételével alapítandó magyar
+egyetem létrehozásának előkészítéséről szóló együttműködési megállapodás létrehozására adott felhatalmazásról
+szóló 64/2020. (VIII. 14.) ME határozat az Eljárási tv. 5. § (1) bekezdése szerinti felhatalmazást megadta.
+[48] A Magyarország Kormánya és a Kínai Népköztársaság között a Fudan Egyetem részvételével alapítandó magyar
+egyetem létrehozásának előkészítéséről szóló együttműködési megállapodás szövegének végleges megállapítására
+adott felhatalmazásról szóló 1549/2020. (VIII. 17.) Korm. határozatban (a továbbiakban: 1549/2020. (VIII. 17.)
+Korm. határozat) a Kormány egyetértett a Magyarország Kormánya és a Kínai Népköztársaság között a Fudan
+Egyetem részvételével alapítandó magyar egyetem létrehozásának előkészítéséről szóló együttműködési
+megállapodás bemutatott szövegével. Felhatalmazta az innovációért és technológiáért felelős minisztert
+vagy az általa kijelölt személyt a megállapodás bemutatott szövegének − jóváhagyás fenntartásával történő −
+végleges megállapítására. Felhívta a külgazdasági és külügyminisztert, hogy a megállapodás szövege végleges
+megállapításához szükséges meghatalmazási okiratot adja ki. Jóváhagyta a megállapodás kihirdetéséről szóló
+kormányrendelet tervezetét, és elrendelte a megállapodás szövegének végleges megállapítását követően annak
+a Magyar Közlönyben történő kihirdetését.
+
+[49] A Kúria kiemelte, hogy az 1549/2020. (VIII. 17.) Korm. határozat alapjául szolgáló megállapodás a Kúria előtt
+nem ismert, kihirdető jogszabályban még nem jelent meg. Ilyen előzmények után a stratégiai együttműködési
+megállapodás megkötéséről a Fudan Egyetemmel című 1186/2021. (IV. 21.) Korm. határozattal (a továbbiakban:
+1186/2021. (IV. 21.) Korm. határozat) a Kormány felhívta a Budapest Diákváros megvalósításáért, valamint a Fudan
+Egyetem részvételével alapítandó magyarországi felsőoktatási intézmény működési környezete kialakításáért
+felelős kormánybiztost, hogy − szükség szerint az általa kijelölt személy útján − gondoskodjék a Magyarország
+Kormánya és a Fudan Egyetem között kötendő stratégiai megállapodás (a továbbiakban: Stratégiai Együttműködési
+Megállapodás) Kormány nevében történő aláírásáról. A Stratégiai Együttműködési Megállapodás aláírása
+megtörtént, azt a Kormány a honlapján kínai, angol és magyar nyelven nyilvánosságra hozta. Ennek 3. és 7. pontja
+foglal magában az I. rendű kérelmező által hivatkozott tárgyköröket. A Kúria ugyanakkor a korábban kifejtettek
+szerint úgy foglalt állást, hogy az nem minősül a Bécsi Egyezmény vagy az Eljárási tv. szerinti jogszabállyal kihirdetett
+nemzetközi szerződésnek.
+[50] 9. Az Alkotmánybíróság rámutat, hogy a Stratégiai Együttműködési Megállapodást a Felek (Magyarország
+Kormánya, a Fudan Egyetem és a Fudan Magyarország Kft.) 2021. április 27-én aláírták. A Stratégiai
+Együttműködési Megállapodás 8. pontja értelmében az a Felek kölcsönös aláírása napján lép hatályba. Továbbá
+előzményként az alábbiakat rögzíti: a megállapodásokat követő szoros kapcsolat eredményeként a Fudan
+Egyetem magyarországi oktatási tevékenységének megkezdésével kapcsolatosan közös oklevelet adó MBA/MF
+képzésről szóló szándéknyilatkozatot írt alá a Magyar Nemzeti Bank, a Budapesti Corvinus Egyetem képviselőivel
+2018. október 5-én. A képzés elvégzésével a BCE „Master of Business Administration” oklevelet, a Fudan Egyetem
+„Master of Economics in Finance” oklevelet ad. A Fudan Egyetem jelenleg, mint külföldi egyetem Magyarországon,
+rendelkezik működési engedéllyel, és a Budapesti Corvinus Egyetemmel egy double degree programot hozott
+létre, melynek jelenleg már három évfolyama kezdte meg a tanulmányait. 2019. december 16-án a Minisztérium
+és a Fudan Egyetem között szándéknyilatkozat aláírására került sor, melyben a felek kölcsönösen megerősítették
+elkötelezettségüket a felsőoktatási kapcsolatok elmélyítése tárgyában. Továbbá 2021 februárjában a Minisztérium
+szándéknyilatkozatot kötött a Kínai Népköztársaság oktatási minisztériumával a Fudan egyetem támogatásáról
+egy magyar egyetem létrehozására a magyar jog alapján, Magyarországon.
+[51] A Stratégiai Együttműködési Megállapodás 1. pontja értelmében a Felek egyetértenek, hogy a Fudan Hungary
+Egyetem (a továbbiakban: Egyetem), megvalósítva a magyar és kínai kormányok közös oktatási célkitűzéseit,
+támogathatja és segítheti a magyar felsőoktatás képzési színvonalának növelését. A Magyar Kormány vállalja, hogy
+az Egyetem számára egy vagyonkezelő alapítványon keresztül biztosítja a területet, a működőképes campust és
+az egyéb létesítményeket, azaz benyújtja az ennek megvalósításához szükséges törvényjavaslatot az Országgyűlés
+elé (Stratégiai Együttműködési Megállapodás 3. pont). A Magyar Állam – az Egyetem Fudan Egyetemmel közösen
+történő létesítése céljából – létrehoz egy vagyonkezelő alapítványt, amelyhez a Fudan Egyetem csatlakozik.
+Az Alapítvány magyar felsőoktatási intézményként létrehozza az Egyetemet, melynek tulajdonosa és fenntartója
+az Alapítvány lesz [Stratégiai Együttműködési Megállapodás 7. pont].
+[52] 10. A 2021. június 24-én kihirdetett, a népszavazásra javasolt kérdéssel érintett Alapítványi tv.-t az Országgyűlés
+a gazdaság-, társadalom-, természet- és orvostudományi képzési területek, ezen keresztül az innovatív
+vállalkozásokat támogatni kész magyar felsőoktatási intézményrendszer és környezetének megerősítése, a képzést
+folytató oktatók, kutatók, tanárok, valamint a képzésben részt vevők támogatása érdekében alkotta meg.
+[53] Az Alapítványi tv. 1. § (1) bekezdése értelmében az Országgyűlés felhívja a Kormányt, hogy az állam nevében
+tegye meg a szükséges intézkedéseket az Alapítvány közérdekű vagyonkezelő alapítvány formájában történő
+létrehozására. Az Alapítvány célja – többek között – a magyar felsőoktatás gazdasági, társadalmi és nemzetközi
+kapcsolatainak fejlesztése érdekében felsőfokú végzettségi szintet igazoló oklevél kiadására jogosult, kollégiummal
+rendelkező felsőoktatási intézmény (a továbbiakban: Intézmény) létesítése és fenntartása, felsőoktatási tevékenység
+ellátása érdekében, a magyar nemzet, valamint az Intézményben képviselt országok népei közötti szorosabb
+oktatási, kulturális kapcsolatok ösztönzése céljából [Alapítványi tv. 2. § (1) bekezdés]. Az Alapítványi tv. 9. §-a
+sarkalatossági záradékot tartalmaz.
+
+[54] Az Alapítványi tv. indokolása kiemeli, hogy a Kormány az Egyetem működési és fenntartási modelljéről hozott
+döntésében rendelkezett egyrészt az Egyetem fenntartójaként létrehozásra kerülő Alapítvány alapításával
+kapcsolatos feladatokról, másrészt az alapításhoz és működéshez szükséges állami vagyon biztosításával
+kapcsolatos feladatokról. Az indokolás rámutat, hogy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény, valamint
+az állami vagyonról szóló 2007. évi CVI. törvény rendelkezéseire figyelemmel a vagyonjuttatásra e törvény
+rendelkezéseivel kerül sor.
+[55] 11. Az Alkotmánybíróság a korábban kifejtettek szerint megállapította, hogy a Fudan tv. szerinti Megállapodás
+nemzetközi kötelezettségvállalás létesítésének szándékával megalkotott jogszabályban kihirdetett nemzetközi
+szerződés, ami nemzetközi kötelezettségvállalást tartalmaz (a Fudan Egyetem támogatása a Magyarországon
+folytatni kívánt képzés érdekében).
+[56] A népszavazásra javasolt kérdés az Alapítványi tv. tartalmát teljes egészében közvetlenül érinti (annak hatályon
+kívül helyezését célozza). Az Alapítványi tv. a Fudan Egyetem magyarországi tevékenységével összefüggésben
+a Fudan Hungary Alapítvány létrehozásáról rendelkezett, annak tárgyi és szervezeti alapját megteremtette,
+az Alapítvány részére átadásra kerülő, állami tulajdonú ingatlanok meghatározásával, az Alapítványi tv.-ben
+meghatározott közérdekű célok érdekében [Alapítványi tv. 1. § (1) bekezdés, 5. §, 6. § és 9. §]. Ezzel összefüggésben
+az Alkotmánybíróság megkeresésére adott válaszában az igazságügyi miniszter kiemelte, hogy az Alapítvány
+magánjogi jogalanyisága a jogerős bírósági bejegyzést követően fennáll.
+[57] Az Alkotmánybíróság álláspontja szerint – szemben a Kúria döntésében foglaltakkal – a hitelesítésre benyújtott
+aláírásgyűjtő íven szereplő kérdés (az Alapítványi tv. hatályon kívül helyezése) a Fudan tv. szerinti Megállapodást
+mint jogszabállyal kihirdetett nemzetközi szerződést az abból fakadó kötelezettségek végrehajtásának választott
+módját közvetlenül érinti, azzal szoros kapcsolatban van, az a Fudan tv. szerinti Megállapodás mint nemzetközi
+szerződés szerinti kötelezettségvállalással (a Fudan Egyetem magyarországi oktatási tevékenységének támogatása)
+összefüggésben az Alapítvány részére történő vagyonjuttatás végrehajtását célozza. A Fudan tv. szerinti
+Megállapodásból fakadó kötelezettségek végrehajtásával közvetlen összefüggésben áll az, hogy az Alapítványi tv.
+hatályban van-e, vagy azt népszavazás eredményeként hatályon kívül helyezik-e. A népszavazással hatályon
+kívül helyezni kért Alapítványi tv. nemzetközi szerződésből eredő kötelezettség választott végrehajtási formáját
+tartalmazza, és hatályon kívül helyezése a Fudan tv. szerinti Megállapodás mint nemzetközi szerződés szerinti
+célok védelmét és az abból fakadó kötelezettségek végrehajtását – figyelemmel a Stratégiai Együttműködési
+Megállapodásban foglaltakra is – közvetlenül érinti.
+[58] Az Alkotmánybíróság hangsúlyozza, hogy az Alaptörvény 8. cikk (3) bekezdés d) pontja szerinti népszavazási tilalom
+tárgyában – szemben a Kúria döntésében foglaltakkal – a vizsgált esetben az alaptörvényi tilalom szempontjából
+nem annak van jelentősége, hogy a Stratégiai Együttműködési Megállapodás az Eljárási tv. vagy a Bécsi Egyezmény
+szerinti olyan nemzetközi szerződésnek minősül-e, amelyet az Eljárási tv.-ben meghatározott jogszabály kihirdetett
+(ez jogalkotási útra tartozó kérdés), hanem annak, hogy a népszavazási kérdéssel hatályon kívül helyezni kért
+Alapítványi tv. a Fudan tv. szerinti Megállapodás mint jogszabályban kihirdetett és a magyar jogrendszer részét
+képező nemzetközi szerződés végrehajtását célozza, figyelemmel a Kúria döntésében is feltárt, szintén a Fudan tv.
+szerinti Megállapodás mint nemzetközi szerződés végrehajtását célzó, egymásra épülő komplex jogi szabályozási
+környezetre is.
+[59] Az érvényes és eredményes népszavazás (az Alapítványi tv. hatályon kívül helyezése) a fentiek szerint a jogszabállyal
+kihirdetett nemzetközi szerződésben (Fudan tv. szerinti Megállapodás) vállalt kötelezettségek végrehajtása
+tekintetében arra közvetlenül kihatna (lerontaná azt). Az Alaptörvény 8. cikk (3) bekezdés d) pontjának alaptörvényi
+tartalmából következően – szemben a Kúria döntésében foglaltakkal – nincs alkotmányos jelentősége annak,
+hogy az Alapítványi tv.-nek egy esetleges érvényes és eredményes, „igen” többséggel záruló népszavazás folytán
+bekövetkező hatályon kívül helyezése felvetné-e a Fudan tv. szerinti Megállapodás mint kötelező hatályú
+nemzetközi szerződés megváltoztatását vagy felmondását.
+[60] Az Alaptörvény 8. cikk (3) bekezdés d) pontjából nem vezethető le, hogy a jogszabállyal kihirdetett nemzetközi
+szerződésben vállalt kötelezettségek teljesítését végrehajtó, azzal közvetlen összefüggésben álló törvény
+megváltoztatása (hatályon kívül helyezése) népszavazási útra tartozna. Az Alkotmánybíróság alkotmányossági
+vizsgálata eredményeként megállapította, hogy a népszavazásra feltenni kívánt kérdés jelen esetben az Alaptörvény
+8. cikk (3) bekezdés d) pontja értelmében tiltott tárgykörbe tartozó kérdésnek minősül. A Kúria tehát olyan
+népszavazási kérdés hitelesítését hagyta helyben, amely az Alaptörvény 8. cikk (3) bekezdés d) pontjában foglalt
+tiltott tárgykörre vonatkozik.
+
+[61] Az Alkotmánybíróság a Kúria népszavazási ügyben hozott hitelesítő döntése kapcsán preventív alkotmányos
+kontrollt gyakorol. Az Alaptörvény értelmében tiltott tárgykörben nem lehet népszavazást tartani; ha a Kúria
+jogértelmezése sérti az alaptörvényi tilalmat, akkor egy alaptörvény-ellenes kúriai döntéssel hitelesített kérdésben
+indulhat meg az aláírásgyűjtés, és kerülhet sor népszavazásra. Az Alkotmánybíróság alkotmányos kontrolljának
+dogmatikai alapja valódi panasz hatáskörben, tiltott tárgykör esetén a népszavazás jogintézményének a védelme,
+annak megakadályozása, hogy tiltott tárgykörben hitelesített kérdésben kerülhessen sor népszavazásra.
+A népszavazáshoz való alapjog mint kivételes és közvetlen hatalomgyakorlási forma sem eredményezhet/
+keletkeztethet az Országgyűlés oldalán olyan kötelezettséget, ami alaptörvény-ellenes jogalkotásban ölt testet.
+A preventív kontroll az Abtv. 27. §-ában foglalt hatáskörben azzal a korláttal jár, hogy adott esetben a Kúria hitelesítő
+döntését követően a választópolgárok már aláírásukkal támogatták a kérdést, és arról az Alkotmánybíróság döntését
+követően (utólag) derül ki az, hogy alaptörvényi tilalomba ütközött. A választópolgári akarat (ami az aláírásokban ölt
+testet) figyelmen kívül hagyása épp a mondott preventív alkotmányos jogvédelemből kell, hogy következzen.
+[62] Az Alkotmánybíróság ezen szempontok alapján rámutat, hogy a Kúria az Alaptörvény 8. cikk (3) bekezdés
+d) pontja szerinti tiltott tárgykört érintő, alapjogi relevanciával bíró jogértelmezése során az Alaptörvény 28. cikke
+szerinti alkotmánykonform értelmezés követelményét a fentiek szerint figyelmen kívül hagyta, döntése contra
+constitutionem önkényessé vált, ami a tisztességes eljáráshoz való jog sérelmét eredményezte. A Kúria contra
+constitutionem jogértelmezésével összefüggésben nem hagyható figyelmen kívül az, hogy az Alkotmánybíróság
+az Alaptörvény autentikus értelmezője. Mindezekre tekintettel az Alkotmánybíróság megállapította, hogy a Kúria
+Knk.I.40.792/2021/10. számú végzése alaptörvény-ellenes, ezért azt megsemmisítette.
+[63] Az Alkotmánybíróság Alaptörvény-védelmi funkciójából következik, hogy érvényre kell juttatnia az Alaptörvényben
+védett értékeket, illetve tilalmakat {vö. 19/2019. (VI. 18.) AB határozat, Indokolás [70]; Abh2., Indokolás [42]}.
+[64] Az Alkotmánybíróság jelen határozatának elvi tételeként az alábbiakat emeli ki.
+[65] A jogszabályban kihirdetett nemzetközi szerződésből eredő kötelezettségvállalások és azok teljesítése
+(végrehajtása) tekintetében az Alaptörvény 8. cikk (3) bekezdés d) pontja kizárja a közvetlen hatalomgyakorlást.
+[66] Az indítványozónak az eljárás felfüggesztésére vonatkozó kérelmével kapcsolatban az Alkotmánybíróság rámutat,
+hogy az Abtv. 61. § (1) bekezdése alapján kivételesen a kifogásolt döntés végrehajtásának felfüggesztésére
+hívhatja fel a bíróságot, a kúriai döntés meghozatalát követő eljárás felfüggesztésére az Alkotmánybíróságnak nincs
+lehetősége.
+[67] Mivel a népszavazási kérdés az Alaptörvény 8. cikk (3) bekezdés d) pontjában foglalt tiltott tárgykörre vonatkozik,
+ezért a kérdésről az Országgyűlés országos népszavazást nem rendelhet el.
+V.
+[68] Az Alkotmánybíróság a határozat Magyar Közlönyben történő közzétételét az Abtv. 44. § (1) bekezdésének második
+mondata alapján rendelte el.
+Budapest, 2022. május 17.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+előadó alkotmánybíró
+Dr. Czine Ágnes s. k., Dr. Dienes-Oehm Egon s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Handó Tünde s. k., Dr. Horváth Attila s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Hörcherné dr. Marosi Ildikó s. k., Dr. Sulyok Tamás s. k.,
+alkotmánybíró az Alkotmánybíróság elnöke,
+ az aláírásban akadályozott
+ dr. Juhász Imre
+ alkotmánybíró helyett
+
+Dr. Juhász Miklós s. k., Dr. Márki Zoltán s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Sulyok Tamás s. k., Dr. Salamon László s. k.,
+az Alkotmánybíróság elnöke, alkotmánybíró
+az aláírásban akadályozott
+dr. Pokol Béla
+alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Szabó Marcel s. k.,
+az Alkotmánybíróság elnöke, alkotmánybíró
+az aláírásban akadályozott
+dr. Schanda Balázs
+alkotmánybíró helyett
+Dr. Szalay Péter s. k., Dr. Szívós Mária s. k.,
+alkotmánybíró alkotmánybíró
+Alkotmánybírósági ügyszám: IV/234/2022.
+Dr. Dienes-Oehm Egon alkotmánybíró párhuzamos indokolása
+[69] Egyetértek a határozattal és annak indokolásával, mely utóbbit az alábbiakkal kívánom kiegészíteni.
+[70] A határozat rendhagyó indítványkezeléssel, illetőleg értelmezéssel, az alkotmányjogi panasz egyéni jogvédelmi
+eszköz funkciójától némileg eltérően, de az Abtv. 28. § (1) bekezdése által lehetővé tett módon és érveléssel
+összhangban vizsgálja a bírói döntés contra constitutionem önkényessé válását.
+[71] A határozat fentiek szerinti alkotmányértelmezését az Alaptörvény 8. cikk (3) bekezdésében foglalt tárgykörre
+vonatkozó, imperatív jellegű alkotmányos tilalom érvényesülése érdekében és az Alkotmánybíróság jogállására,
+illetőleg általános hatáskörére vonatkozó szabály, az Abtv. 2. §-a alapján fogadtam el. A választópolgárok közvetlen
+hatalomgyakorlásához a hivatkozott alaptörvényi rendelkezéséből eredő alkotmányos elvárás és követelmény
+ugyanis a népszavazás teljes folyamatában lehetővé, valamint szükségessé tette ennek az Alkotmánybíróság
+rendelkezésére álló eszköznek a Kúria hitelesítésére is kiterjedő kivételes alkalmazását.
+Budapest, 2022. május 17.
+Dr. Dienes-Oehm Egon s. k.,
+alkotmánybíró
+Dr. Juhász Imre alkotmánybíró különvéleménye
+[72] A többségi határozatot nem támogattam az alábbiak miatt.
+[73] 1. Álláspontom szerint téves a határozat azon megállapítása, amely szerint a népszavazásra feltenni szándékozott
+kérdésnek nemzetközi jogi relevanciája van, és ezért ütközne a népszavazás tilalomba.
+[74] 1.1. A Fudan tv.-nyel kihirdetésre került Magyarország és a Kínai Népköztársaság között a Fudan Egyetem
+magyarországi működéséről szóló nemzetközi szerződés.
+[75] A Fudan tv.-nyel Magyarország a Fudan Egyetem magyarországi működésének támogatására adott elvi engedélyt
+[lásd a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 76. § (1) bekezdés a) pontját]. E törvény alapján a Fudan
+Egyetem kínai akkreditációja birtokában 2019-ben megkezdte magyarországi működését.
+[76] Ez a nemzetközi szerződés (illetve a Fudan tv.) bár kijelöl végrehajtásért felelős szerveket, egyben arról is
+rendelkezik, hogy a szerződő felek e szerződést és az abból fakadó intézkedéseket saját nemzeti jogszabályaik és
+rendelkezéseik alapján teljesítik és értelmezik.
+
+[77] 1.2. 2021-ben a magyar kormány határozatot hozott arról, hogy együttműködési megállapodást kíván kötni
+a – Magyarországon már Master of Economics in Finance oklevelet adó szakot működtető – Fudan Egyetemmel
+egy közösen létrehozandó felsőoktatási intézmény létrehozásáról [1186/2021 (IV. 21.) Korm. határozat]. Ezt a célt
+szolgálta az a magánjogi szerződés (Stratégiai Együttműködési Megállapodás), amely a Magyar Kormány, a Fudan
+Magyarország Kft. és a Fudan Egyetem között jött létre, és egy olyan önálló magyarországi felsőoktatási intézmény
+(Egyetem) létrehozásáról szólt, amely magyar akkreditációval rendelkezik, magyar diplomát ad ki, és tevékenysége
+során szorosan együttműködik a Fudan Egyetemmel. A Fudan Egyetem számára azt a kötelezettséget is tartalmazta
+e magánjogi szerződés, hogy a létrehozandó Egyetemen folyó oktatás minőségéért a Fudan Egyetem felelősséget
+vállal. Ezt követte az Alapítványi tv., amely Alapítvány majd az új egyetem fenntartásáról is gondoskodni fog
+közérdekű vagyonkezelőként. A tárgyi népszavazási kérdés e törvényt támadja.
+[78] 1.3. A fentiekből az alábbi konklúziók vonhatók le.
+[79] 1.3.1. A Fudan tv.-nyel kihirdetett Megállapodás nemzetközi szerződés jellegét az eljárás során mindenki
+elismerte, ezzel szemben a többségi határozat indokolása csak állítja, de nem magyarázza meg, hogy a Stratégiai
+Együttműködési Megállapodás és az Alapítványi tv. miért és mennyiben szolgálja a Fudan tv.-nyel kihirdetett
+nemzetközi szerződés végrehajtását.
+[80] A Stratégiai Együttműködési Megállapodás megkötésekor az innovációért és technológiáért felelős miniszter
+a Magyar Kormány képviseletében járt el (ezt maga a Stratégiai Együttműködési Megállapodás is tartalmazza),
+de a Fudan Egyetem saját jogán, és nem a Kínai Népköztársaság képviseletében vett részt a szerződés
+megkötésében (ennek megfelelően nincs is utalás nemzetközi közjogi viszonyra vonatkozó képviseletre a Stratégiai
+Együttműködési Megállapodás személyi részében). Ezen túlmenően pedig egy Magyarországon bejegyzett Kft.
+(Fudan Magyarország Kft.) is szerződő partner, amelynek nemzetközi közjogi jogalanyisága szintén hiányzik.
+[81] A képviselet egyértelmű hiányán túlmenően a nemzetközi közjog által a jogalanyok vonatkozásában megkívánt
+feltételek sem teljesülnek. Jogalanyok lehetnek ugyanis az államok, egyes nemzetközi szervezetek (pl. Egyesült
+Nemzetek Szervezete) és sajátos szabályok szerint magánszemélyek (pl. a strasbourgi Emberi Jogok Európai
+Bíróságához jogorvoslatért forduló személyek).
+[82] A fentiekből következik, hogy a Stratégiai Együttműködési Megállapodás vonatkozásában a nemzetközi jogi
+dogmatika szerint nincs szó nemzetközi szerződésről, így az annak alapján meghozott Alapítványi tv.-re vonatkozó
+inkriminált kérdés értelemszerűen nem eshet az Alaptörvény 8. cikk (3) bekezdés d) pontjában foglalt népszavazási
+tilalom alá.
+[83] 1.3.2. A többségi határozat szerinti narratívát gyengítik a Stratégiai Együttműködési Megállapodásra mint
+nemzetközi szerződésre vonatkozó alábbi tartalmi kérdések/felvetések is.
+[84] A Fudan Egyetem magyarországi státusát rendező nemzetközi jogi szerződés egyáltalán nem rendelkezik
+magyarországi egyetem alapításáról, továbbá végrehajtásának nem része az új egyetem alapítása, és legfeljebb
+közvetett összefüggés mutatható ki a Fudan Egyetem magyarországi működése és az Egyetem létrehozása között.
+[85] A többségi határozat a Stratégiai Együttműködési Megállapodás előzményként a Fudan Egyetemen folyó képzésre
+vonatkozó szándéknyilatkozatokat (a Magyar Nemzeti Bankkal és a Corvinus Egyetemmel, illetve az Egyetem
+létrehozására vonatkozó a Minisztérium és a Kínai Népköztársaság Oktatási Minisztériuma között) említi,
+ugyanakkor nem hivatkozik a Magyar Kormány és a Kínai Népköztársaság közötti nemzetközi szerződésre és
+az azt kihirdető Fudan tv.-re.
+[86] Felmerülhetett volna – a többségi határozatban és a Stratégiai Együttműködési Megállapodásban
+előzményként hivatkozott – a Minisztérium és a Kínai Népköztársaság Oktatási Minisztériuma között az Egyetem
+„támogatására” 2021 februárjában aláírt szándéknyilatkozat nemzetközi szerződésként való identifikálása, de ezt
+a szándéknyilatkozatot a többségi határozat nem vizsgálta.
+[87] Megjegyzem, a többségi határozat döntést meghatározó fogalmai, úgymint a „végrehajtás szolgálata” és
+a „közvetlen összefüggés”, az Alaptörvényben nem szerepelnek. Ezzel kapcsolatban, illetve ezen túlmenően is
+a többségi határozat nem léphetett volna át a Bécsi Egyezmény vonatkozó rendelkezésein sem.
+[88] A fentiek alapján a többségi határozatból – kétséget kizáró módon – nem állapítható meg, hogy a népszavazásra
+feltenni kívánt kérdés nemzetközi szerződésből eredő kötelezettségre vonatkozna, illetve annak végrehajtását
+szolgálná, és/vagy azzal közvetlen összefüggésben állna, és ezért tilalmazott népszavazási tárgykörbe esne.
+[89] 1.4. A többségi határozat indokolásának azon része, amely szerint az „Alaptörvény 8. cikk (3) bekezdés d) pontjából
+nem vezethető le, hogy a jogszabállyal kihirdetett nemzetközi szerződésben vállalt kötelezettségek teljesítését
+végrehajtó, azzal közvetlen összefüggésben álló törvény megváltoztatása (hatályon kívül helyezése) népszavazási
+útra tartozna” (Indokolás [60]), nemcsak azért hibás, mert nincs szó „nemzetközi szerződés végrehajtásának
+szolgálatáról” vagy „közvetlen összefüggésről”, hanem azért is, mert teljességgel félreérti, önhatalmúlag kiterjeszti
+
+az Alkotmánybíróság hatáskörét, amely legfeljebb arra vonatkozik, hogy az Alkotmánybíróság megállapítsa: tilalmi
+körbe esik-e a népszavazási kérdés, vagy sem, de a szerződés „végrehajtásának szolgálatára”, illetve a „közvetlen
+összefüggő” körülmények vizsgálatára már nincs hatásköre. Ezen túlmenően a többségi határozat a fenti idézettel
+olyan szabályt kér számon, ami tiltás esetén értelmezhetetlen. Azzal, hogy „a jogszabállyal kihirdetett nemzetközi
+szerződésben vállalt kötelezettségek teljesítését végrehajtó, azzal közvetlen összefüggésben álló törvény
+megváltoztatása (hatályon kívül helyezése)” kérdésben nem tartja levezethetőnek a népszavazási utat, a többségi
+határozat is leválasztja a nemzetközi szerződésről az általa kreált fogalmakkal operáló további szabályozást.
+[90] 2. Végezetül hivatkozom az igazságügyi miniszternek az Alkotmánybíróság megkeresésére adott válaszában
+foglaltakra, amely a magánjogi jogalanyiságra utal az Alapítványi tv. kapcsán, és felveti, hogy a már bejegyzett
+Alapítvány nem szűnne meg az Alapítványi tv. esetleges népszavazási deregulálásával. Az inkriminált népszavazási
+kérdés viszont erre nem tér ki. A többségi határozat érdemben nem reagált erre a kérdésre, arra hivatkozással, hogy
+a népszavazási kérdés egyértelműségének vizsgálata a Kúria, és a nem az Alkotmánybíróság hatáskörébe tartozik.
+Álláspontom szerint az érdemi elbírálás szempontjából is fontos lett volna tisztázni azt a kérdést, hogy egy érvényes
+és eredményes népszavazás esetén az Alapítványi tv. hatályon kívül helyezése érintette volna-e – és ha igen, akkor
+miként – a törvény által már létrejött jogviszonyokat (pl. az Alapítvány jogalanyiságát, vagyoni helyzetét).
+Budapest, 2022. május 17.
+Dr. Juhász Imre s. k.,
+alkotmánybíró
+Dr. Salamon László alkotmánybíró különvéleménye
+[91] A jelen ügy bírósági felülvizsgálati elbírálására a választási eljárásról szóló 2013. évi XXXVI. törvény 229. §
+(2) bekezdése értelmében nemperes eljárásban került sor. Az Alaptörvény XXVIII. cikk (1) bekezdése védelmének
+peren kívüli eljárásokra történő automatikus kiterjesztését kétségesnek tartom.
+[92] E problémával már több korábban elbírált ügyhöz [pl. 35/2015. (XII. 16.) AB határozat, 3340/2017. (XII. 8.)
+AB végzés, 3179/2018. (VI. 8.) AB határozat] csatolt párhuzamos indokolásomban, illetve különvéleményemben
+foglalkoztam. A 3375/2018. (XII. 5.) AB határozathoz írt különvéleményemben újólag kifejtettem és az Abh2.-höz
+csatolt különvéleményemben megerősítettem, hogy – tekintettel az alaptörvényi rendelkezés pontos szövegére,
+miszerint: „[m]indenkinek joga van ahhoz, hogy […] valamely perben a jogait és kötelezettségeit [a] bíróság
+tisztességes […] tárgyaláson […] bírálja el” – az említett határozat „az Alaptörvény XXVIII. cikk (1) bekezdésére
+alapított megsemmisítéssel túllép ezen alaptörvényi rendelkezés textuális értelmezésén, azonban továbbra is adós
+marad ezen – nézetem szerint – kiterjesztő alaptörvény-értelmezés magyarázatával, dogmatikai levezetésével”
+{3375/2018. (XII. 5.) AB határozat, Indokolás [148]}.
+[93] Változatlan az a számos határozathoz [pl. 20/2017. (VII. 18.) AB határozat, 23/2018. (XII. 28.) AB határozat,
+3128/2019. (VI. 5.) AB határozat, 19/2021. (V. 27.) AB határozat, 3002/2021. (I. 14.) AB határozat, 29/2021. (XI. 10.)
+AB határozat, Abh2.] csatolt különvéleményemben, illetve párhuzamos indokolásomban kifejtett álláspontom is,
+hogy az Alaptörvény XXVIII. cikk (1) bekezdésében foglalt tisztességes bírósági eljáráshoz való jog processzuális
+jellegű alkotmányjogi szabály, amelynek sérelme kizárólag az eljárásjogi szabályok alkotmányjogi súlyú
+megsértésével valósulhat meg.
+[94] A határozat ezúttal is anyagi jogi jogsértést állapított meg, amely az Alaptörvény XXVIII. cikk (1) bekezdésében
+védett jogok megsértésének körébe nem vonható.
+Budapest, 2022. május 17.
+Dr. Salamon László s. k.,
+alkotmánybíró
+
+Dr. Schanda Balázs alkotmánybíró különvéleménye
+[95] Nem értek egyet a határozattal és annak indokolásával.
+[96] 1. Az ügy eldöntéséhez szükségesnek tartom annak megfontolását, hogy az Alkotmánybíróságnak mi a szerepe
+a Kúria hitelesítő döntése esetén. A népszavazás kezdeményezése Alaptörvényben biztosított jog. Főszabály
+szerint minden, Országgyűlés hatáskörébe tartozó kérdésben helye lehet népszavazásnak [Alaptörvény
+8. cikk (2) bekezdés], ám maga az Alaptörvény, illetve az Nsztv. meghatároz olyan tárgyköröket, korlátokat és
+megkötéseket, amelyek a népszavazási kezdeményezés gátját képezik.
+[97] Az országos népszavazás a magyar demokrácia fontos intézményévé vált: 1989-ben a „négyigenes” népszavazás
+hozzájárult a demokratikus berendezkedés kiépítéséhez, népszavazás döntött nemzetközi katonai szövetséghez,
+valamint az Európai Unióhoz való csatlakozásokról, vagy épp 2008-ban szociális kérdésekről. Mindegyik esetben
+a népszavazás túlmutatott a konkrét, szavazólapon szereplő kérdésen, politikai és társadalmi értékválasztást is
+kifejezett, illetve jogilag szabályozott kereteket adott társadalmi feszültségek kezeléséhez.
+[98] A népszavazás kezdeményezése (a 200 ezer választópolgár aláírásának összegyűjtése) komoly szervezést
+igényel, erre tekintettel az Nsztv. úgy rendelkezik, hogy még az aláírások előtt döntenie kell a Nemzeti Választási
+Bizottságnak, illetve jogorvoslat esetén a Kúriának, hogy van-e helye a kezdeményezésnek. Pozitív döntés esetén
+meg lehet kezdeni az aláírások gyűjtését.
+[99] Az Alaptörvény 28. cikke szerint a jogszabály értelmezése során a „jogszabály megalkotására vagy módosítására
+irányuló javaslat indokolását kell figyelembe venni”. Az Nsztv. megalkotásakor a jogalkotói cél egyértelműen az volt,
+hogy az aláírásgyűjtő ív mintapéldányának hitelesítése egyértelműen döntse el, hogy a kérdésben tartható-e
+népszavazás, megfordítva: a jogerős hitelesítést követően ne legyen vitatható, hogy van-e helye a kérdésben
+népszavazásnak.
+[100] A Kúria döntésének Abtv. 27. § (1) bekezdésén alapuló alkotmányossági felülvizsgálatát ugyan semmi nem
+zárja ki, azonban ilyen esetben úgy hoz döntést az Alkotmánybíróság a kérdés megengedhetőségéről, hogy
+az aláírásgyűjtés már rég megkezdődött, esetleg be is fejeződött. Ad absurdum az is lehetséges lenne, hogy a már
+megtartott népszavazást követően döntene az Alkotmánybíróság úgy, hogy az aláírásgyűjtő ív mintapéldányának
+hitelesítése valakinek az alapjogát sértette. Ilyenkor a megsemmisítés azt vonja maga után, hogy nem csupán
+a népszavazási kérdés megfogalmazóinak, hanem a népszavazás szervezésében közreműködőknek, sőt a több
+százezer kezdeményező választópolgárnak a politikai akaratnyilvánítását és alapjoggyakorlását teszi utólag
+feleslegessé az alkotmánybírósági döntés. Mindez azt indokolta volna, hogy az Alkotmánybíróság a saját hatáskörét
+az adott eljárás tekintetében szűken értelmezze.
+[101] 2. A vizsgált ügyben álláspontom szerint az indítványt vissza kellett volna utasítani, mivel az nem tartalmazott
+részletes indokolást a tisztességes eljáráshoz való jog sérelmére vonatkozóan. Az indítványozó az Alaptörvény
+XXVIII. cikkének sérelmére csak a Kormány és az Alapítvány perbe lépésével összefüggésben hivatkozott, a kérdés
+megengedhetőségével kapcsolatban nem. Érdemi elbírálás esetén pedig az indítvány elutasításának lett volna
+helye: a Kúria érvelését meggyőzőnek találom, hogy egy eredményes népszavazás nem lehetetlenítené el a Fudan
+Megállapodás végrehajtását, így nem ütközik vállalt nemzetközi kötelezettségbe. A végrehajtás módjában ugyanis
+a magyar jogalkotónak mozgástere van, annak nem csupán a Fudan tv. szerinti módon tehet eleget.
+[102] 3. A fentieket összegezve az Alkotmánybíróság döntésével egy hipotetikusan érintett magánszemély tisztességes
+eljáráshoz való jogának sérelme miatt (amely jogsérelem abból állt, hogy egy tiltott tárgykörbe tartozó kérdést
+hitelesített a Kúria) több százezer választópolgár politikai alapjogának a hatása vész el. Ez a végeredmény
+álláspontom szerint nem egyeztethető össze sem a népszavazás rendeltetésével, sem az alkotmányjogi panasz
+funkciójával.
+Budapest, 2022. május 17.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke,
+az aláírásban akadályozott
+dr. Schanda Balázs
+alkotmánybíró helyett
+
+[103] A különvéleményhez csatlakozom.
+Budapest, 2022. május 17.
+Dr. Szalay Péter s. k.,
+alkotmánybíró
+Dr. Szabó Marcel alkotmánybíró különvéleménye
+[104] 1. A hágai Nemzetközi Bíróság a bős–nagymarosi vízlépcsőperben született ítéletének 136. pontjában így fogalmaz:
+„Elmondható, hogy a vízlépcsőrendszer építésére vonatkozó teljesítési kötelezettségeknek azon a részén, amelyet
+1992 előtt nem építettek meg, az események túlhaladtak. A valóságtól teljesen elrugaszkodott igazságszolgáltatás
+lenne, ha a bíróság elrendelné ezeknek a kötelezettségeknek a teljes helyreállítását és a dunacsúni létesítmények
+lebontását, amikor a szerződés céljai megfelelően szolgálhatóak a meglévő építményekkel.”
+[105] Álláspontom szerint az Alkotmánybíróságnak jelen esetben, az ügy egyedi körülményeire tekintettel, ugyanazt
+a gondolatmenetet kellett volna követnie, amelyet a hágai Nemzetközi Bíróság választott 25 évvel ezelőtt, és
+az eljárását az indítvány érdemi vizsgálata nélkül, okafogyottság címén meg kellett volna szüntetnie, az alábbi
+szempontokra figyelemmel.
+[106] 2. Amikor az indítványozó (egyébként az Abtv. szerint formálisan kétségtelenül határidőben előterjesztett)
+alkotmányjogi panasza az Alkotmánybírósághoz érkezett, az aláírásgyűjtés már hivatalosan is befejeződött,
+a szervező az aláírásgyűjtő íveket benyújtotta a Nemzeti Választási Irodához az aláírások ellenőrzése céljából,
+az Nsztv. rendelkezéseinek megfelelően.
+[107] 3. Az Abtv. 30. § (5) bekezdése értelmében „[a]z Alkotmánybíróság az alkotmányjogi panaszról észszerű határidőn
+belül hoz döntést”. Jelen esetben az Alkotmánybíróságnak a panasz benyújtásához képest objektíve nem volt arra
+lehetősége, hogy „észszerű időn belül” hozhasson döntést, ugyanis az indítványban megjelölt alkotmányossági
+problémán az események az Alkotmánybíróságtól teljes mértékben független okból (részben az indítvány
+benyújtásának időpontja, részben az aláírásgyűjtés befejeződése és az aláírások ellenőrzés céljából történő
+benyújtása miatt, melyek mind lezajlottak azt megelőzően, hogy az Alkotmánybíróság az alkotmányjogi panasz
+vizsgálatát megkezdhette volna)„túlhaladtak”.
+[108] 4. Éppen ezért meggyőződésem szerint az ügy egyedi körülményeire tekintettel az Alkotmánybíróságnak
+az eljárását az Abtv. 59. §-a és az Ügyrend 67. § (2) bekezdés e) pontja alkalmazásával meg kellett volna szüntetnie.
+Az Ügyrend ezen hivatkozott rendelkezése szerint ugyanis okafogyottá válik az indítvány, ha „az eljárás folytatására
+okot adó körülmény már nem áll fenn, illetve az indítvány egyéb okból tárgytalanná vált”.
+Budapest, 2022. május 17.
+Dr. Szabó Marcel s. k.,
+alkotmánybíró
