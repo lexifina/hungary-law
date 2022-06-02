@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-26-20-7
 | 2021-12-24 | 2021-26-20-7R.3 | 48/2021. (XII. 21.) AM rendelet |
 | 2022-01-28 | 2021-26-20-7R.4 | 2/2022. (I. 27.) AM rendelet |
 | 2022-06-01 | 2021-26-20-7R.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-06-02 | 2021-26-20-7R.6 | 2010: CXXX. törvény |
