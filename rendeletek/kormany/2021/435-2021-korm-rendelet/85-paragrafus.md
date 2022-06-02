@@ -1,4 +1,4 @@
-85. §[^24] (1) A Btv. 22. § (5) bekezdés a) pontja szerinti esetben a minőségvédelmi bírság összegét a meg nem felelést okozó minőségi jellemzők számának, valamint az eltérés mértékének figyelembevételével kell megállapítani.
+85. §[^25] (1) A Btv. 22. § (5) bekezdés a) pontja szerinti esetben a minőségvédelmi bírság összegét a meg nem felelést okozó minőségi jellemzők számának, valamint az eltérés mértékének figyelembevételével kell megállapítani.
 
 (2) A Btv. 22. § (5) bekezdés b) pontja szerinti esetben a minőségvédelmi bírság összegét a jogsértéssel érintett borászati terméktétel mennyisége alapján literenként, a borászati termék előállítására, tárolására, forgalomba hozatalára vonatkozó rendelkezéseknek való meg nem felelés súlyára figyelemmel kell megállapítani.
 
@@ -18,4 +18,4 @@ a borászati üzem által az előző borpiaci évben értékesített és az ért
 
 (4) A Btv. 22. § (5) bekezdés d) pontjában meghatározott minőségvédelmi bírság összege a borászati termék előállításához meg nem engedett anyag mennyiségétől függően legalább 50 000 forint, de legfeljebb 5 000 000 forint.
 
-[^24]: A 85. § a 23/2022. (I. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^25]: A 85. § a 23/2022. (I. 27.) Korm. rendelet 17. §-ával megállapított szöveg.

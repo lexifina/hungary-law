@@ -1,3 +1,3 @@
-90. §[^26]
+90. §[^27]
 
-[^26]: A 90. § a 93. § (3) bekezdése alapján 2023. augusztus 1-jén lép hatályba.
+[^27]: A 90. § a 93. § (3) bekezdése alapján 2023. augusztus 1-jén lép hatályba.

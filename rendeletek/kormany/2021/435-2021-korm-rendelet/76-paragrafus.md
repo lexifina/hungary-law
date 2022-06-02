@@ -12,7 +12,7 @@ a) nyilvántartja a felhasználókat és azok hozzáférési jogosultságát, ny
 
 b) biztosítja az elektronikusan teljesítendő ágazati adminisztrációs kötelezettség teljesítése során az adattartalom rögzítését;
 
-c)[^16] az (1) bekezdésben meghatározott kötelezettségek teljesítése keretében rögzített adatokat legkésőbb az eseményt követő munkanap 13:00 óráig továbbítja az ePincekönyv rendszerbe;
+c)[^17] az (1) bekezdésben meghatározott kötelezettségek teljesítése keretében rögzített adatokat legkésőbb az eseményt követő munkanap 13:00 óráig továbbítja az ePincekönyv rendszerbe;
 
 d) naplózza a felhasználó által végzett munkafolyamatokat és az elektronikusan teljesítendő ágazati adminisztrációs kötelezettség teljesítése keretében rögzített vagy továbbított adatok utólagos módosítását;
 
@@ -38,4 +38,4 @@ g) nem engedélyezi az általa adott sorszám – ideértve a sztornózott sorsz
 
 (7) Az (5) és a (6) bekezdésben foglalt esetben az adatszolgáltató köteles az esetlegesen elveszett adatok pótlásáról haladéktalanul gondoskodni.
 
-[^16]: A 76. § (2) bekezdés c) pontja a 23/2022. (I. 27.) Korm. rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 76. § (2) bekezdés c) pontja a 23/2022. (I. 27.) Korm. rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.

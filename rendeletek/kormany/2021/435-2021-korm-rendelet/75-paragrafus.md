@@ -10,6 +10,8 @@ a) az utolsó három borpiaci év átlagában legalább 10 hektár szőlőültet
 
 b) a nem kisüzemi bortermelő borászati üzemengedélyes.
 
-(2) Az (1) bekezdés értelmében ePincekönyv rendszer használatára nem kötelezett adatszolgáltató a Btv. 18. § (11) bekezdése szerinti ügyfélszolgálaton keresztül tehet eleget elektronikusan teljesítendő adminisztrációs kötelezettségének, ha az ePincekönyv rendszert nem kívánja használni.
+(2)[^16] Az (1) bekezdés értelmében ePincekönyv rendszer használatára nem kötelezett adatszolgáltató ügyfélszolgálaton keresztül tehet eleget elektronikusan teljesítendő adminisztrációs kötelezettségének, ha az ePincekönyv rendszert nem kívánja használni.
 
 (3) Valamely elektronikusan teljesítendő ágazati adminisztrációs kötelezettség ügyfélszolgálaton keresztül történő intézése esetén az ültetvény használója vagy a borászati üzemengedélyes az ePincekönyv rendszeren keresztül megteendő bejelentést, átadandó adatot, dokumentumot, igazolást az adott dokumentum vagy másolati példánya ügyfélszolgálat részére történő átadásával teljesíti. Az ügyfélszolgálat megkeresése a hegybírónál kezdeményezhető.
+
+[^16]: A 75. § (2) bekezdése a 23/2022. (I. 27.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
