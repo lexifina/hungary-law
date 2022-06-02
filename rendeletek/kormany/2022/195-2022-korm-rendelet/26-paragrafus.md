@@ -1,5 +1,3 @@
-26. § Hatályát veszti a Magyar Honvédség járványügyi készültséggel kapcsolatos feladatokban történő közreműködéséről szóló 410/2020. (VIII. 30.) Korm. rendelet
+26. §[^11]
 
-a) 1. § a) és d) pontja,
-
-b) 2. §-a.
+[^11]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

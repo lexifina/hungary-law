@@ -1,1 +1,3 @@
-25. § Hatályát veszti a tizenharmadik havi ellátásról szóló 342/2020. (VII. 14.) Korm. rendelet 5. § b) és c) pontja.
+25. §[^10]
+
+[^10]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
