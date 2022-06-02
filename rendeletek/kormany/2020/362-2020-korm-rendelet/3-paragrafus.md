@@ -56,8 +56,11 @@ a) otthoni felkészülés keretében a szükséges alapismeretek, segédanyag el
 
 b) az adatfelvétel kezdete előtt az összeíráshoz szükséges elektronikai eszköz, számlálóbiztosi igazolvány, az összeíráshoz kapcsolódó nyomtatványok és segédanyagok átvétele;
 
-c) a körzet bejárása, körzethez tartozó, az internetes önkitöltési időszakban le nem zárt címek felkeresése, szükség esetén címpontosítás, új címek felvétele, kapcsolatfelvétel az adatszolgáltatóval, tájékoztatás, a kérdőívek KSH által előírt módon való kitöltése;
+c)[^1] a körzet bejárása, körzethez tartozó címek felkeresése, szükség esetén címpontosítás, új címek felvétele, kapcsolatfelvétel az adatszolgáltatóval, tájékoztatás, a kérdőíveknek KSH által előírt módon való kitöltése;
 
-d) folyamatos, ütemes előrehaladás, a címjegyzék vezetése, meghiúsulások dokumentálása a menedzser alkalmazásban, megtagadások, rendkívüli esetek jelentése a felülvizsgálónak, folyamatos kapcsolattartás a felülvizsgálóval (beszámoló legalább heti rendszerességgel);
+d)[^2] folyamatos, ütemes előrehaladás, a címjegyzék vezetése, meghiúsulások dokumentálása a menedzser alkalmazásban, megtagadások, rendkívüli esetek jelentése a felülvizsgálónak, folyamatos kapcsolattartás a felülvizsgálóval;
 
 e) az adatfelvétel befejezését követően az összeíráshoz szükséges elektronikai eszköz, igazolvány, segédletek, papíralapú jegyzetek leadása.
+
+[^1]: A 3. § (3) bekezdés c) pontja a 747/2021. (XII. 21.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés d) pontja a 747/2021. (XII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.

@@ -12,7 +12,7 @@
 
 | 1.4. | állampolgárság | állampolgárság |
 
-| 1.5. | lakóhely | tényleges (életvitelszerűen használt) lakóhely országa, települése, Magyarország esetén közterület, házszám is, bejelentett lakóhely, tartózkodási hely, nem bejelentett lakcím országa, települése (ha az nem egyezik meg a tényleges lakóhely címével), Magyarország esetén közterület, házszám is, születési hely országa, települése születéskori tényleges lakóhely országa, települése (ha az nem egyezik meg a születési helyével), előző tényleges lakóhely országa, települése, a jelenlegi tényleges lakóhelyre költözés ideje, korábbi külföldi tényleges lakóhely országa, a külföldi tartózkodás kezdetének dátuma, a visszaérkezés vagy ténylegesen Magyarországra költözés dátuma |
+| 1.5. | lakóhely | tényleges (életvitelszerűen használt) lakóhely országa, települése, Magyarország esetén közterület, házszám is, bejelentett lakóhely, tartózkodási hely, nem bejelentett lakcím országa, települése (ha az nem egyezik meg a tényleges lakóhely címével), Magyarország esetén közterület, házszám is, születési hely országa, települése születéskori tényleges lakóhely országa, települése (ha az nem egyezik meg a születési helyével), előző tényleges lakóhely országa, települése, Magyarország esetén közterület, házszám is, a jelenlegi tényleges lakóhelyre költözés ideje, korábbi külföldi tényleges lakóhely országa, a külföldi tartózkodás kezdetének dátuma, a visszaérkezés vagy ténylegesen Magyarországra költözés dátuma |
 
 | 1.6. | a lakáshasználat jogcíme | lakáshasználat jogcíme (tulajdonos vagy rokona, bérlő vagy rokona, egyéb) |
 
@@ -76,62 +76,72 @@
 
 | 3.3. | férőhelyek száma | az intézet engedélyezett, működő és igénybe vett férőhelyeinek száma |
 
-3. melléklet a 362/2020. (VII. 23.) Korm. rendelethez
+3. melléklet a 362/2020. (VII. 23.) Korm. rendelethez[^10]
 
-A 2021. évi népszámlálás települési munkáiban részt vevők feladatainak díjtételei és normatívái
+A 2022. évi népszámlálás települési munkáiban részt vevők feladatainak díjtételei és normatívái
 
-| A Megnevezés | B Egység | C Díjtétel1, normatíva (Ft) |
+|  | A | B | C | D |
 
-| 1. Helyi népszámlálási felelős segítőinek munkadíja |  |  |
+| 1. | Megnevezés | Egység | Díjtétel[1], normatíva (Ft) |
 
-| 1.1. | 50 000 lakos felett | Koordinátor, referens | 1 050 000 |
+| 2. | 1. Helyi népszámlálási felelős segítőinek munkadíja |  |  |
 
-| 1.2. | 20 000 – 50 000 lakosig | Koordinátor, referens | 900 000 |
+| 3. | 1.1. | 50 000 lakos felett | Koordinátor, referens | 1 225 000 |
 
-| 1.3. | 10 000 – 19 999 lakosig | Koordinátor | 750 000 |
+| 4. | 1.2. | 20 000–50 000 lakosig | Koordinátor, referens | 1 050 000 |
 
-| 1.4. | 5 000 – 9 999 lakosig | Koordinátor | 600 000 |
+| 5. | 1.3. | 10 000–19 999 lakosig | Koordinátor | 875 000 |
 
-| 2. Számlálóbiztosi munkadíj tételenként |  |  |
+| 6. | 1.4. | 5 000–9 999 lakosig | Koordinátor | 700 000 |
 
-| 2.1. | Kapcsolatfelvétel, címellenőrzés, aktualizálás |  |  |
+| 7. | 2. Számlálóbiztosi munkadíj tételenként |  |  |
 
-| 2.1.1. |  | Fővárosi kerület, megyei jogú város, külterület | Cím | 280 |
+| 8. | 2.1. | Kapcsolatfelvétel, címellenőrzés, aktualizálás |  |  |
 
-| 2.1.2. |  | Többi település | Cím | 240 |
+| 9. | 2.1.1. | Fővárosi kerület, megyei jogú város, külterület | Cím | 350 |
 
-| 2.2. | Lakás, lakott üdülő, lakott egyéb lakóegység, intézet |  |  |
+| 10. | 2.1.2. | Többi település | Cím | 300 |
 
-| 2.2.1. |  | Fővárosi kerület, megyei jogú város, külterület | Összeírás körébe tartozó cím | 380 |
+| 11. | 2.2. | Lakás, lakott üdülő, lakott egyéb lakóegység, intézet |  |  |
 
-| 2.2.2. |  | Többi település | Összeírás körébe tartozó cím | 300 |
+| 12. | 2.2.1. | Fővárosi kerület, megyei jogú város, külterület | Összeírás körébe tartozó cím | 380 |
 
-| 2.3. | Személy |  |  |
+| 13. | 2.2.2. | Többi település | Összeírás körébe tartozó cím | 300 |
 
-| 2.3.1. |  | Fővárosi kerület, megyei jogú város, külterület | Összeírt személy | 625 |
+| 14. | 2.3. | Személy |  |  |
 
-| 2.3.2. |  | Többi település | Összeírt személy | 525 |
+| 15. | 2.3.1. | Fővárosi kerület, megyei jogú város, külterület | Összeírt személy | 730 |
 
-| 3. Felülvizsgálói munkadíj | Számlálóbiztos | 30 000 |
+| 16. | 2.3.2. | Többi település | Összeírt személy | 620 |
 
-| 4. Dologi kiadások fedezete2 |  |  |
+| 17. | 2.4. | Egyéb szervezés |  |  |
 
-| 4.1. | 150 000 lakos felett | Jegyzőség | 1 680 000 |
+| 18. | 2.4.1 | Fővárosi kerület, megyei jogú város, külterület | Cím | 920 |
 
-| 4.2. | 100 000 – 150 000 lakosig | Jegyzőség | 1 440 000 |
+| 19. | 2.4.2 | Többi település | Cím | 770 |
 
-| 4.3. | 50 000 – 99 999 lakosig | Jegyzőség | 1 200 000 |
+| 20. | 3. Felülvizsgálói munkadíj | Cím | 220 |
 
-| 4.4. | 20 000 – 49 999 lakosig | Jegyzőség | 840 000 |
+| 21. | 4. Számlálóbiztosok, felülvizsgálók felkészülési és kapcsolattartási díja | Számlálóbiztos, felülvizsgáló | 25 000 |
 
-| 4.5. | 10 000 – 19 999 lakosig | Jegyzőség | 600 000 |
+| 22. | 5. Dologi kiadások fedezete[2] |  |  |
 
-| 4.6. | 5 000 – 9 999 lakosig | Jegyzőség | 360 000 |
+| 23. | 5.1. | 150 000 lakos felett | Jegyző | 1 850 000 |
 
-| 4.7. | 5 000 lakos alatt | Jegyzőség | 180 000 |
+| 24. | 5.2. | 100 000–150 000 lakosig | Jegyző | 1 600 000 |
 
-_____________________
+| 25. | 5.3. | 50 000–99 999 lakosig | Jegyző | 1 350 000 |
 
-1 A személyi juttatások díjtételei nem tartalmazzák a munkaadókat terhelő járulékok összegét.
+| 26. | 5.4. | 20 000–49 999 lakosig | Jegyző | 950 000 |
 
-2 Jegyzőség a közös önkormányzati hivatal jegyzőjét is jelenti.
+| 27. | 5.5. | 10 000–19 999 lakosig | Jegyző | 660 000 |
+
+| 28. | 5.6. | 5 000–9 999 lakosig | Jegyző | 400 000 |
+
+| 29. | 5.7. | 5 000 lakos alatt | Jegyző | 200 000 |
+
+[1] A személyi juttatások díjtételei nem tartalmazzák a munkaadókat terhelő járulékok összegét.
+
+[2] Jegyző alatt a polgármesteri hivatal jegyzőjét, a közös önkormányzati hivatal jegyzőjét és a főváros által közvetlenül igazgatott területen a fővárosi főjegyzőt is érteni kell.
+
+[^10]: A 3. melléklet a 747/2021. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
