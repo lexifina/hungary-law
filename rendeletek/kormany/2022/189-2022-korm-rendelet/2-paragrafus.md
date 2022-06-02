@@ -4,7 +4,7 @@ a) elektronikus formátumban vagy
 
 b) papíralapú formátumban (a továbbiakban: papíralapú igazolvány)
 
-## állítja ki.
+állítja ki.
 
 (2) A kiállító szerv a digitális Covid-igazolványt az érintett számára az EESZT-ben rendelkezésre álló adatai alapján állítja ki.
 

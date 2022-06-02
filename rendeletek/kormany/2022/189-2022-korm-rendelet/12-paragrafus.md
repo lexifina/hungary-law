@@ -1,1 +1,3 @@
-## 11. § A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet 5. melléklete az 1. melléklet szerint módosul.
+12. §[^2]
+
+[^2]: A 12. § a 9. § (2) bekezdése alapján az (EU) 2021/953 európai parlamenti és tanácsi rendelet hatályvesztésének napján lép hatályba.
