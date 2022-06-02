@@ -1,6 +1,5 @@
-19. § (1)[^11]
+19. § (1)[^20]
 
-(2)[^12]
+(2) Hatályát veszíti a 435/2021. (VII. 16.) Korm. rendelet 75. § (2) bekezdésében az „a Btv. 18. § (11) bekezdése szerinti” szövegrész.
 
-[^11]: A 19. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 19. § (2) bekezdése a 21. § (7) bekezdése alapján 2022. június 2-án lép hatályba.
+[^20]: A 19. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
