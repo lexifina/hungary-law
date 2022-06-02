@@ -1,3 +1,1 @@
-## „(1) A Nemzeti Kulturális Alap (a továbbiakban: Alap) 2006. és 2020. között felhalmozódott maradványa felhasználása tekintetében az Áht. 86. § (4) bekezdésétől eltérően az Alap költségvetési maradványa felhasználásának a fejezetet irányító szerv általi engedélyezéséhez az államháztartásért felelős miniszter hozzájárulása nem szükséges, a veszélyhelyzet ideje alatt a maradvány teljes összege felhasználható a veszélyhelyzetből eredő, a kulturális ágazatot érintő hátrányos következmények enyhítése érdekében kulturális támogatási célokra, a (2) bekezdés szerinti módon.”
-
-98. § A veszélyhelyzettel összefüggő átmeneti szabályokról 2021. évi XCIX. törvény 35. alcíme a következő 104/A. §-sal egészül ki:
+### 98. §
