@@ -1,3 +1,1 @@
-15. § A Vht. a következő 304/J. §-sal egészül ki:
-
-„304/J. § E törvénynek az állami vagyonnal való fenntartható gazdálkodás megteremtése érdekében egyes vagyongazdálkodást érintő törvények módosításáról, valamint egyéb vagyongazdálkodási rendelkezésekről szóló 2021. évi LXXXIV. törvénnyel (a továbbiakban: Módtv.13.) megállapított 210/C. § (1) bekezdését azokban az ügyekben kell alkalmazni, amelyekben a 210/C. § (1) bekezdése szerinti végzés a Módtv.13. 14. §-ának hatálybalépését követően emelkedett jogerőre. Korábban jogerőre emelkedett végzés esetében az állam a Módtv.13. 14. §-ának hatálybalépését követő két éven belül jogosult a 210/C. § (1) bekezdése szerinti kérelem előterjesztésére.”
+15. §
