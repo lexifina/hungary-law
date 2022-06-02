@@ -1,3 +1,1 @@
-52. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 131/O. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Azon kényszertörlési eljárásokban, amelyek e törvénynek a 2021. évi LXX. tv.-nyel megállapított rendelkezései alkalmazásával folynak – ideértve a (3) bekezdés a) pontjának hatálya alá tartozó eljárásokat is –, ha a cég 2022. június 30-ig a cégbíróság felé igazolja, hogy a 117/C. § (2) bekezdés a) és d) pontjában foglalt feltételeknek megfelel, a cégbíróság a kényszertörlési eljárást a céggel szemben megszünteti. E rendelkezés nem érinti a (3) bekezdés b) pontjában foglaltakat.”
+52. §

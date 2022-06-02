@@ -1,1 +1,1 @@
-105. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 94. § (2) bekezdésében a „2021. június 9-e” szövegrész helyébe az „a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése” szöveg lép.
+105. §

@@ -1,1 +1,1 @@
-81. § Hatályát veszti a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 83. §-a, 89. §-a, 90. §-a, valamint 42. és 70. alcíme.
+81. §

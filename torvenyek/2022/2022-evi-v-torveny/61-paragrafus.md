@@ -1,3 +1,1 @@
-61. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/L. §-sal egészül ki:
-
-„111/L. § Ha az államháztartás önkormányzati alrendszerébe tartozó adatszolgáltatásra kötelezett a 108. § (1) bekezdés b) pontja szerinti adatszolgáltatási kötelezettségét a veszélyhelyzet ideje alatt el nem hárítható ok vagy körülmény (a továbbiakban: veszélyhelyzeti ok) miatt nem vagy késedelmesen teljesítette, az adatszolgáltatásra kötelezett az adatszolgáltatási kötelezettségét a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztését követő hónap utolsó napjáig teljesítheti azzal, hogy a kincstár a 108. § (3) bekezdés b) pontja szerinti bírság kiszabásától eltekinthet. A bírság mellőzése során a kincstár azt mérlegeli, hogy a veszélyhelyzeti ok a koronavírus-világjárvánnyal összefüggésben merült-e fel.”
+61. §

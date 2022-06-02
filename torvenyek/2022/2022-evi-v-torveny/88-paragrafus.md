@@ -1,1 +1,5 @@
-88. § Hatályát veszti az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 19. § (8)–(15) és (17) bekezdése.
+88. §
+
+## 40. A pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény módosítása
+
+89. §

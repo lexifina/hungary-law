@@ -1,1 +1,1 @@
-116. § Nem lép hatályba a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény 29. alcíme.
+116. §
