@@ -1,1 +1,3 @@
-## „(5) Előre nem látható körülmény által indokolt esetben – a KSH döntése alapján – teljesültnek kell tekinteni a 2022. október 16-a után a KSH által meghatározott időszakban, de legfeljebb 2022. november 20-ig történt internetes önkitöltéssel teljesített adatszolgáltatást is. Előre nem látható körülménynek kell tekinteni különösen az internetes önkitöltés megvalósulását akadályozó bármilyen külső körülményt.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

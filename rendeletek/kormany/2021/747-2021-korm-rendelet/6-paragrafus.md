@@ -1,4 +1,4 @@
-## 5. §[^1]
+## 5. §[^6]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. alcím a népszámlálás elhalasztásával összefüggő rendelkezésekről szóló 67/2021. (II. 19.) Korm. rendelet hatályvesztését követő napon lép hatályba.
 
-[^1]: Az 5. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
