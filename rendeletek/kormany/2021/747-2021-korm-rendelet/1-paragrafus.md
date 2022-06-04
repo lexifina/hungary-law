@@ -1,1 +1,0 @@
-## 1. A 2021. évi népszámlálás végrehajtásával kapcsolatos egyes feladatokról, valamint az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet módosításáról szóló 362/2020. (VII. 23.) Korm. rendelet módosítása
