@@ -1,1 +1,0 @@
-## 17. § Közúti biztonsági auditálást 2012. december 31-ig útépítési vagy közlekedési területen szerzett egyetemi (mesterfokozat) vagy főiskolai (alapfokozat) végzettséggel és legalább öt év szakmai gyakorlati idővel rendelkező személy is végezhet. Szakmai gyakorlatként a 8. § (4) bekezdésben meghatározott tevékenységek vehetők figyelembe.
