@@ -1,0 +1,1 @@
+A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 15. pontjában és a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 103/A. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
