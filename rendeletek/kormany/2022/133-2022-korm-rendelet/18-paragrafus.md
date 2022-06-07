@@ -1,1 +1,3 @@
-18. § Hatályát veszti a közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló 176/2011. (VIII. 31.) Korm. rendelet.
+18. §[^1]
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
