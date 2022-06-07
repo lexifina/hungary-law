@@ -22,6 +22,8 @@ a) ha a vállalatcsoportnak több leányvállalata van és ezek mindegyike más 
 
 b) ha a vállalatcsoporthoz tartozó vállalatok mindegyike más tagállamban telepedett le, a videómegosztóplatform-szolgáltatót akkor kell Magyarországon letelepedettnek tekinteni, ha az ilyen vállalatok egyike legelőször Magyarországon kezdte meg tevékenységét, feltéve, hogy folyamatos és tényleges kapcsolatot tart fenn Magyarország gazdaságával.
 
+(1e) Az online terrorista tartalom terjesztésével szembeni eljárás során – a 12/B. §-ban nem szabályozott kérdésekben – az (EU) 2021/784 európai parlamenti és tanácsi rendeletben foglaltak szerint kell eljárni.
+
 (2) Az Európai Gazdasági Térségről szóló megállapodás más részes állama területén letelepedett, Magyarország területére irányuló szolgáltatást nyújtó szolgáltatókra a szabályozott területtel kapcsolatos követelmények nem terjednek ki.
 
 (3) E törvény hatálya nem terjed ki a bírósági, illetőleg egyéb hatósági eljárásban nyújtott és felhasznált információs társadalommal összefüggő szolgáltatásra és nem érinti a személyes adatok védelmére vonatkozó jogszabályok alkalmazását.
