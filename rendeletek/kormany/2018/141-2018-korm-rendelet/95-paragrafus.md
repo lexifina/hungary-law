@@ -1,4 +1,4 @@
-## 94. §[^278] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 142/2022. (IV. 7.) Korm. rendelettel (a továbbiakban: Módr86.) megállapított 2. mellékletében foglalt táblázat 94. sorát a Módr86. hatálybalépésekor[^279] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 94. §[^283] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 142/2022. (IV. 7.) Korm. rendelettel (a továbbiakban: Módr86.) megállapított 2. mellékletében foglalt táblázat 94. sorát a Módr86. hatálybalépésekor[^284] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^278]: A 94. §-t a 142/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.
-[^279]: A hatálybalépés időpontja 2022. április 8.
+[^283]: A 94. §-t a 142/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.
+[^284]: A hatálybalépés időpontja 2022. április 8.
