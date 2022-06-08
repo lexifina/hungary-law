@@ -1,3 +1,3 @@
-## 7. §[^13]
+8. §[^21]
 
-[^13]: A 7. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 30. pontja alapján nem lépett hatályba.
+[^21]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

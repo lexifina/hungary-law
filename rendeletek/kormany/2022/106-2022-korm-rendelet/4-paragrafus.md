@@ -6,7 +6,21 @@
 
 (3) A (2) bekezdés szerinti jogosultat a rendszeres létfenntartási támogatás a befogadó állomáson vagy a számára kijelölt egyéb szálláshelyen tartózkodása alatt is megilleti.
 
-(4)[^8] A menedékes részére a rendszeres létfenntartási támogatás a szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerinti járási hivatal előtti – minden hónap utolsó napjáig teljesítendő – megjelenési kötelezettség teljesítését követően utólag kerül folyósításra. A járási hivatal a megjelenési kötelezettség teljesítésének tényéről a menekültügyi hatóságot tájékoztatja. Ha a menedékes megjelenési kötelezettségének nem tesz eleget, vagy a folyósított összeget nem veszi át, az adott hónapra vonatkozó utólagos folyósításra nem tarthat igényt.
+(4)[^8] A rendszeres létfenntartási támogatást a menekültügyi hatóság a menedékes részére havonta – a hónap 15. napjáig – folyósítja.
+
+(4a)[^9] A 6. életévét betöltött menedékes esetében a rendszeres létfenntartási támogatás folyósításának feltétele, hogy a 6. életévét betöltött menedékes – a (4b) bekezdésben meghatározott kivétellel – a folyósítást megelőző hónapban megjelenjen a szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerint illetékes járási hivatal előtt.
+
+(4b)[^10] A 6. életévét betöltött, de a 18. életévét be nem töltött menedékes helyett a törvényes képviselője is eleget tehet a megjelenési kötelezettségnek.
+
+(4c)[^11] A járási hivatal a megjelenési kötelezettség teljesítésének tényéről a menekültügyi hatóságot minden hónap 5. napjáig elektronikus úton tájékoztatja.
+
+(4d)[^12] Ha a menedékes
+
+a) a (4a) vagy (4b) bekezdésben meghatározott megjelenési kötelezettségének nem tesz eleget, vagy
+
+b) a folyósított összeget nem veszi át,
+
+az adott hónapra vonatkozó utólagos folyósításra nem tarthat igényt.
 
 (5) Ha a (2) bekezdés szerinti jogosult részére a 2. § (5) bekezdése alapján megfelelő munkahelyet ajánlanak fel, és azt a (2) bekezdés szerinti jogosult nem fogadja el – a 2. § (7) bekezdése szerinti kivétellel –, a rendszeres létfenntartási támogatás folyósítását a menekültügyi hatóság megszünteti. Ennek érdekében a járási hivatal 5 napon belül tájékoztatja a menekültügyi hatóságot a felajánlott munkahely visszautasításának tényéről.
 
@@ -22,4 +36,8 @@ c) külföldről származó öregségi nyugdíjban részesül, és azt Magyarors
 
 [^6]: A 4. § (1) bekezdése a 170/2022. (IV. 28.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
 [^7]: A 4. § (2) bekezdése a 170/2022. (IV. 28.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^8]: A 4. § (4) bekezdése a 170/2022. (IV. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^8]: A 4. § (4) bekezdése a 199/2022. (VI. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (4a) bekezdsét a 199/2022. (VI. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 4. § (4b) bekezdsét a 199/2022. (VI. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^11]: A 4. § (4c) bekezdsét a 199/2022. (VI. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^12]: A 4. § (4d) bekezdsét a 199/2022. (VI. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
