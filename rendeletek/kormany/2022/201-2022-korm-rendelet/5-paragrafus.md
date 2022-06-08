@@ -1,0 +1,3 @@
+5. § (1) A Projekttel összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, valamint az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi eljárások kivételével – huszonegy nap.
+
+(2) A Projekttel összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó, valamint a hatósági bizonyítvány kiadására irányuló eljárások ügyintézési határideje – a környezetvédelmi és természetvédelmi szakhatósági eljárás kivételével, valamint ha jogszabály rövidebb határidőt nem állapít meg – tíz nap.
