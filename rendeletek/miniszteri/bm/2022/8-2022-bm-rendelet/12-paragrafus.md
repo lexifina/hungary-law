@@ -1,0 +1,1 @@
+## „(8) A homlokzat előtt alkalmazott növényfuttató, árnyékoló, akusztikai, reklámcélú vagy más funkciójú, a homlokzat részleges vagy teljes eltakarását eredményező szerkezeteket olyan módon kell kialakítani, hogy azok ne befolyásolják kedvezőtlenül a homlokzati tűzterjedést.”

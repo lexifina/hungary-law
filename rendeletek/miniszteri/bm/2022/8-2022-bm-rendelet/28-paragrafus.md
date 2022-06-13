@@ -1,0 +1,1 @@
+## „(3) Önállóan menekülésre képes személyek menekülése akkor tervezhető önálló kiürítésre szolgáló útvonallal rendelkező szomszédos tűzszakaszba, ha a biztonságos térbe jutás az elhagyott tűzszakasz érintése nélkül a szomszédos tűzszakaszba lépéstől számítva a kiürítésre vonatkozó feltételeket teljesíti.”

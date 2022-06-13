@@ -1,0 +1,1 @@
+## „(4) A hangjelző vezérlések vezetékei készülhetnek a tűznek nem ellenálló vagy védelem nélküli kábelekből, ha egyszeres vezetékhiba miatt a működésből nem esik ki egy hangjelzőnél több, és az áramkörben keletkező hiba – különösen zárlat vagy szakadás – jelzése megtörténik.”

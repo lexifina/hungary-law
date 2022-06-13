@@ -1,0 +1,5 @@
+## 36. § Az 54/2014. (XII. 5.) BM rendelet 72. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(7) A tűzszakasz teljes területére kiépített vízzel oltó berendezés esetén a 8. mellékletben foglalt 1. táblázat szerint szükséges oltóvíz-intenzitás mértéke legfeljebb 70%-ig csökkenthető a berendezés működéséhez szükséges literben meghatározott vízkészlet és az oltóvíz – az (1) bekezdés szerint folyamatosan biztosítandó – percben meghatározott idejének hányadosával abban az esetben, ha az (1) bekezdés szerinti csökkentést nem alkalmazták. Nem alkalmazható a csökkentés abban az esetben, ha az épületben fokozott üzembiztonságú vízzel oltó berendezést alkalmaznak.
+
+## (8) Az oltóvíz-intenzitás mértékének (7) bekezdés szerinti csökkentése esetén a sprinklerberendezés tároló- vagy közbenső tartályát a 82. § (2), (3) és (6)–(8) bekezdésében foglaltak figyelembevételével kell kialakítani. A tartály alsó szintje hidraulikai szempontból legfeljebb 7 m-rel lehet mélyebben a vízkivételi hely talajszintjétől.”
