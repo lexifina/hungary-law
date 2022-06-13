@@ -1,4 +1,4 @@
-162. §[^324] (1) A vezetékeknek
+162. §[^371] (1) A vezetékeknek
 
 a) a tűzjelző központ és a hangjelzők, fényjelzők, kiürítési riasztást hangosító rendszer között,
 
@@ -20,10 +20,13 @@ g) azokon a kábelszakaszokon, ahol a visszatérő hurok mindkét iránya egyetl
 
 a) valamennyi vezérlés késleltetés nélkül indítja a vezérelt eszközt és a vezérlési vezetékek füstérzékelővel védett tereken haladnak át, vagy
 
-b) a vezérlőkábel sérülése kiváltja a szükséges vezérlést.
+b)[^372] a vezérlőkábel egyszeres vezetékhibája kiváltja a szükséges vezérlést.
 
-(3) Hurokáramkörök tervezésekor ügyelni kell arra, hogy a hurok két ága egyetlen véletlen esemény hatására ne károsodjon. Ha ez a veszély fennáll, akkor ez ellen vagy mechanikai védelemmel, vagy az ágak megfelelő elkülönítésével kell védekezni.
+(3)[^373] Hurokáramköröket úgy kell megtervezni, hogy a hurok két ága egyetlen véletlen esemény hatására ne károsodjon.
 
-(4) A hangjelző vezérlések vezetékei készülhetnek a tűznek nem ellenálló vagy védelem nélküli kábelekből a visszatérő, két oldalról táplált hurokba illesztett izolátoros hangjelzők alkalmazása esetén, ha egyszeres vezetékhiba miatt a működésből nem esik ki egy hangjelzőnél több, és a megoldás alkalmas az áramkörben keletkező hiba – különösen zárlat vagy szakadás – jelzésére.
+(4)[^374] A hangjelző vezérlések vezetékei készülhetnek a tűznek nem ellenálló vagy védelem nélküli kábelekből, ha egyszeres vezetékhiba miatt a működésből nem esik ki egy hangjelzőnél több, és az áramkörben keletkező hiba – különösen zárlat vagy szakadás – jelzése megtörténik.
 
-[^324]: A 162. § a 30/2019. (VII. 26.) BM rendelet 80. §-ával megállapított szöveg.
+[^371]: A 162. § a 30/2019. (VII. 26.) BM rendelet 80. §-ával megállapított szöveg.
+[^372]: A 162. § (2) bekezdés b) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 36. pontja szerint módosított szöveg.
+[^373]: A 162. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^374]: A 162. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 54. § (2) bekezdésével megállapított szöveg.

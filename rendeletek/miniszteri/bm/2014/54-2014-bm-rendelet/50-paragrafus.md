@@ -1,8 +1,6 @@
-## 49. §[^150] Az 1000 m2-nél nagyobb alapterületű, állattartásra szolgáló építmények esetében az állatok mentésére alkalmas ajtót kell kialakítani.
-
 ## 26. Ipari rendeltetés
 
-50. § (1)[^151] Az ipari rendeltetésű épület esetén a fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag előállítására, feldolgozására, használatára, tárolására és forgalmazására szolgáló helyiség fal- és mennyezetburkolata, valamint belső oldali hő- és hangszigetelése legalább A2-s1,d0, padlóburkolata legalább Bfl-s1 tűzvédelmi osztályú legyen.
+50. § (1)[^136] Az ipari rendeltetésű épület esetén a fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag előállítására, feldolgozására, használatára, tárolására és forgalmazására szolgáló helyiség fal- és mennyezetburkolata, valamint belső oldali hő- és hangszigetelése legalább A2-s1,d0, padlóburkolata legalább Bfl-s1 tűzvédelmi osztályú legyen.
 
 (2) Az ipari rendeltetésű épület, épületrész tömegtartózkodásra szolgáló helyiségeinek
 
@@ -12,7 +10,7 @@ b) padlóburkolata legalább Cfl-s1 tűzvédelmi osztályú
 
 ## legyen.
 
-(3)[^152] Ipari alaprendeltetésű kockázati egység esetén a tűzvédelmi dokumentáció készítéséért felelős személy figyelembe veszi
+(3)[^137] Ipari alaprendeltetésű kockázati egység esetén a tűzvédelmi dokumentáció készítéséért felelős személy figyelembe veszi
 
 a) az alapanyagok, késztermékek, melléktermékek, hulladékok, csomagolóanyagok és -eszközök, egyéb anyagok mennyiségét, tűzveszélyességi osztályát, egyéb veszélyességét, olthatóságát,
 
@@ -30,18 +28,57 @@ g) a potenciális tűzterjedési útvonalakat, különös tekintettel a technol�
 
 h) a létesítményi tűzoltóság jelenlétét.
 
-(4)[^153] Az ipari alaprendeltetésű kockázati egységben biztosítani kell az ott előforduló anyagok oltásához szükséges oltóanyagot, eszközt és felszerelést.
+(4)[^138] Az ipari alaprendeltetésű kockázati egységben biztosítani kell az ott előforduló anyagok oltásához szükséges oltóanyagot, eszközt és felszerelést.
 
-(5)[^154] Az ipari alaprendeltetésű kockázati egységben a tűzszakaszhatárok helyének megállapításánál figyelembe kell venni az egyes helyiségek ipari, tárolási, közösségi rendeltetését. Az eltérő rendeltetésű helyiségek eltérő tűzszakaszba helyezésének szükségességét a tűzvédelmi dokumentáció készítéséért felelős személy állapítja meg.
+(5)[^139] Az ipari alaprendeltetésű kockázati egységben a tűzszakaszhatárok helyének megállapításánál figyelembe kell venni az egyes helyiségek ipari, tárolási, közösségi rendeltetését. Az eltérő rendeltetésű helyiségek eltérő tűzszakaszba helyezésének szükségességét a tűzvédelmi dokumentáció készítéséért felelős személy állapítja meg.
 
-(6)[^155] Az ipari alaprendeltetésű kockázati egységekhez technológiailag kapcsolódó kültéri technológiai rendszerek esetében a tűzterjedés elleni védelem szükségességét a tűzvédelmi dokumentáció készítéséért felelős személy állapítja meg.
+(6)[^140] Az ipari alaprendeltetésű kockázati egységekhez technológiailag kapcsolódó kültéri technológiai rendszerek esetében a tűzterjedés elleni védelem szükségességét a tűzvédelmi dokumentáció készítéséért felelős személy állapítja meg.
 
-(7)[^156] Kültéri, valamint épületen belüli technológiai rendszerek és a megközelítésüket, kezelésüket szolgáló járófelületei és tartószerkezetei, valamint éghető folyadékok tárolótartályai esetében a szerkezetek és a tartály tűzeseti állékonyságát biztosító műszaki megoldás szükségességét és módját a tűzvédelmi dokumentáció készítéséért felelős személy állapítja meg, figyelembe véve az esetlegesen bekövetkező tűz jellemzőit, várható lefolyását.
+(7)[^141] Kültéri, valamint épületen belüli technológiai rendszerek és a megközelítésüket, kezelésüket szolgáló járófelületei és tartószerkezetei, valamint éghető folyadékok tárolótartályai esetében a szerkezetek és a tartály tűzeseti állékonyságát biztosító műszaki megoldás szükségességét és módját a tűzvédelmi dokumentáció készítéséért felelős személy állapítja meg, figyelembe véve az esetlegesen bekövetkező tűz jellemzőit, várható lefolyását.
 
-[^150]: A 49. § a 30/2019. (VII. 26.) BM rendelet 105. § 43. pontja szerint módosított szöveg.
-[^151]: Az 50. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 40. pontja és 106. § 19. pontja szerint módosított szöveg.
-[^152]: Az 50. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
-[^153]: Az 50. § (4) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
-[^154]: Az 50. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
-[^155]: Az 50. § (6) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
-[^156]: Az 50. § (7) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
+(8)[^142] A nagylégterű helyiséget tartalmazó, ipari rendeltetésű, részben többszintes épület legnagyobb megengedett tűzszakaszmérete, valamint a teherhordó, a legfelső szint lefedését biztosító szerkezetek, a tűzgátló válaszfalak elvárt tűzállósági teljesítményének időtartama meghatározható a földszintes épületre vonatkozó követelmény alapján
+
+a) a NAK mértékadó kockázati osztályba tartozó épületben, ha
+
+aa) a nagylégterű helyiség a földszinten van,
+
+ab) a többszintes rész kétszintes, és a felső szint alapterülete nem haladja meg a földszinti alapterület 10%-át, és
+
+ac) az épület nem rendelkezik talajszint alatti szinttel;
+
+b) a NAK, AK mértékadó kockázati osztályba tartozó épületben, ha
+
+ba) a nagylégterű helyiség a földszinten van,
+
+bb) a többszintes rész két- vagy háromszintes, és egyik felső szint alapterülete sem haladja meg a földszinti alapterület 10%-át,
+
+bc) az épület teljes területén beépített tűzjelző berendezést létesítenek,
+
+bd) a beépített tűzjelző berendezés késleltetés nélkül hajtja végre a benntartózkodó személyek tűzriasztását, és
+
+be) az épület nem rendelkezik talajszint alatti szinttel.
+
+(9)[^143] A NAK vagy AK mértékadó kockázati osztályba tartozó, nagylégterű helyiséget tartalmazó, ipari rendeltetésű épület esetében a teherhordó, a legfelső szint lefedését biztosító szerkezetek elvárt tűzállósági teljesítményének időtartama 50%-kal csökkenthető, de legalább 15 perc, az alábbi feltételek együttes teljesülése esetén:
+
+a) a nagylégterű helyiség a földszinten van,
+
+b) az épület legfeljebb háromszintes,
+
+c) az épület nem rendelkezik talajszint alatti szinttel,
+
+d) az épület teljes területén beépített tűzjelző berendezést létesítenek, és automatikus tűz- és hibaátjelzést biztosítanak,
+
+e) a beépített tűzjelző berendezés késleltetés nélkül hajtja végre a benntartózkodó személyek tűzriasztását,
+
+f) az épület teljes területén fokozott üzembiztonságú tűzoltó berendezést létesítenek,
+
+g) az épületben többirányú kiürítést biztosítanak.
+
+[^136]: Az 50. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 40. pontja és 106. § 19. pontja szerint módosított szöveg.
+[^137]: Az 50. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
+[^138]: Az 50. § (4) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
+[^139]: Az 50. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
+[^140]: Az 50. § (6) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
+[^141]: Az 50. § (7) bekezdését a 30/2019. (VII. 26.) BM rendelet 38. §-a iktatta be.
+[^142]: Az 50. § (8) bekezdését a 8/2022. (IV. 14.) BM rendelet 26. §-a iktatta be.
+[^143]: Az 50. § (9) bekezdését a 8/2022. (IV. 14.) BM rendelet 26. §-a iktatta be.

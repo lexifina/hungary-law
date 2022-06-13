@@ -1,4 +1,4 @@
-52. §[^161] (1) A kiürítést
+52. §[^148] (1) A kiürítést
 
 a) geometriai módszerrel, a (2) bekezdés és a 7. mellékletben foglalt 1. táblázat szerint vagy
 
@@ -6,7 +6,7 @@ b) számítással
 
 ## kell megtervezni.
 
-(2) A kiürítés geometriai módszerrel való tervezése, ellenőrzése során a menekülési útvonal, a biztonságos tér és az átmeneti védett tér elérési távolságának és a menekülési útvonalnak megengedett legnagyobb hosszúságát, továbbá a kiürítési útvonal megengedett legkisebb szabad szélességét, a kiürítési útvonalon beépített nyílászárók, valamint szűkületek megengedett legkisebb szabad belméretét kell ellenőrizni.
+(2)[^149] A kiürítés geometriai módszerrel való tervezése, ellenőrzése során a menekülési útvonal, a biztonságos tér és az átmeneti védett tér elérési távolságának és a menekülési útvonalnak megengedett legnagyobb hosszúságát, továbbá a kiürítésre szolgáló útvonal megengedett legkisebb szabad szélességét, a kiürítésre szolgáló útvonalon beépített nyílászárók, valamint szűkületek megengedett legkisebb szabad belméretét kell ellenőrizni.
 
 (3) A helyiség, szabadtér, terület befogadóképességét az alábbi létszámadatok közül a nagyobb létszám jelenti:
 
@@ -16,4 +16,5 @@ b) fajlagos értékkel számított, kiüríthető létszám.
 
 (4) A befogadóképesség meghatározható a (3) bekezdés a) pontja szerinti létszám alapján, ha az üzemeltető vállalja annak folyamatos biztosítását.
 
-[^161]: Az 52. § a 30/2019. (VII. 26.) BM rendelet 39. §-ával megállapított szöveg.
+[^148]: Az 52. § a 30/2019. (VII. 26.) BM rendelet 39. §-ával megállapított szöveg.
+[^149]: Az 52. § (2) bekezdése a 8/2022. (IV. 14.) BM rendelet 75. § 12. pontja szerint módosított szöveg.

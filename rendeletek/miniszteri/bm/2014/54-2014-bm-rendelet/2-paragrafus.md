@@ -26,6 +26,6 @@ cf) a széntelepek föld alatti elgázosításához szükséges termelő- és be
 
 (4) Meglévő építmény, építményrész átalakítása, bővítése, korszerűsítése, helyreállítása, felújítása, rendeltetésének módosítása esetén az átalakítás mértékének, körének és az építmény, építményrész tűzvédelmi helyzetét befolyásoló hatásainak figyelembevételével kell e rendeletet alkalmazni.
 
-(5)[^1] E rendelet alkalmazásában a tömegtartózkodásra szolgáló helyiségre előírt követelményeket akkor kell érvényesíteni, ha a helyiség rendeltetésszerű használata összefüggő tömeg tartózkodásával jár.
+(5)[^2] E rendelet alkalmazásában a tömegtartózkodásra szolgáló helyiségre előírt követelményeket akkor kell érvényesíteni, ha a helyiség rendeltetésszerű használata összefüggő tömeg tartózkodásával jár.
 
-[^1]: A 2. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 1. §-a iktatta be.
+[^2]: A 2. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 1. §-a iktatta be.

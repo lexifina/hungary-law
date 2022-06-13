@@ -1,3 +1,3 @@
-## 149. §[^307] A tűzvédelmi eszközök helyét jelző biztonsági jeleket az eszköz, felszerelés felett padlósíktól mérve legalább 1,8 méter, legfeljebb 2,5 méter magasságban kell elhelyezni úgy, hogy azok könnyen felismerhetőek legyenek.
+## 149. §[^350] A tűzvédelmi eszközök helyét jelző biztonsági jeleket az eszköz, felszerelés felett padlósíktól mérve legalább 1,8 méter, legfeljebb 2,5 méter magasságban kell elhelyezni úgy, hogy azok könnyen felismerhetőek legyenek.
 
-[^307]: A 149. § a 30/2019. (VII. 26.) BM rendelet 105. § 98. pontja és 106. § 39. pontja szerint módosított szöveg.
+[^350]: A 149. § a 30/2019. (VII. 26.) BM rendelet 105. § 98. pontja és 106. § 39. pontja szerint módosított szöveg.

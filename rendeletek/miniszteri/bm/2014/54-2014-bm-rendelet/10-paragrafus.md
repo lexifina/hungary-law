@@ -12,7 +12,7 @@ a) önálló rendeltetési egység,
 
 b) szomszédos önálló rendeltetési egységek csoportja a 11. §-ban foglaltak szerint,
 
-c)[^53] épület, önálló épületrész, speciális építmény vagy
+c)[^9] épület, önálló épületrész, speciális építmény vagy
 
 d) az épületnek, az önálló épületrésznek, a speciális építménynek a tűzvédelmi dokumentáció készítéséért felelős személy által a (3) bekezdésben foglaltak figyelembevételével meghatározott része.
 
@@ -42,7 +42,7 @@ k) a tevékenység körülményeit, jellemző adottságait, az adott technológi
 
 l) a beépített tűzjelző és tűzoltó berendezéssel való ellátottságot.
 
-(4)[^54] A kockázati egység részét képezheti a (2) bekezdés a)–c) pontjában foglaltakon kívül
+(4)[^10] A kockázati egység részét képezheti a (2) bekezdés a)–c) pontjában foglaltakon kívül
 
 a) a közlekedő helyiség,
 
@@ -56,5 +56,5 @@ e) a rendeltetéssel összefüggő szociális helyiség és az üzemviteli, admi
 
 f) a rendeltetéssel összefüggő szolgálati, gondnoki lakás.
 
-[^53]: A 10. § (2) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^54]: A 10. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^9]: A 10. § (2) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^10]: A 10. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.

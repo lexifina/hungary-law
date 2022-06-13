@@ -1,8 +1,8 @@
-## 61. §[^190] Kényszertartózkodásra szolgáló épület kiürítési és beavatkozási feltételeit az illetékes tűzvédelmi hatósággal egyeztetni kell.
+## 61. §[^192]
 
 62. § (1) Tömegtartózkodásra szolgáló helyiségek kialakítása esetén
 
-a)[^191] a tömegtartózkodásra szolgáló helyiség menekülési útvonalán 0,015 méternél magasabb küszöb, valamint a menekülési útvonalon beépített ajtók nyílásába lépcső nem építhető be,
+a)[^193] a tömegtartózkodásra szolgáló helyiség menekülési útvonalán 0,015 méternél magasabb küszöb, valamint a menekülési útvonalon beépített ajtók nyílásába lépcső nem építhető be,
 
 b) tömegtartózkodásra szolgáló helyiségekből legalább két, különböző irányú kijáraton kell biztosítani a kiürítést.
 
@@ -10,7 +10,7 @@ b) tömegtartózkodásra szolgáló helyiségekből legalább két, különböz�
 
 a) legalább 2 db, egymástól legalább 10 méterre elhelyezett kijárattal kell kialakítani
 
-aa)[^192] az 100 főnél nagyobb befogadóképességű pinceszinti és a 30 méter feletti padlóvonallal is rendelkező,
+aa)[^194] az 100 főnél nagyobb befogadóképességű pinceszinti és a 30 méter feletti padlóvonallal is rendelkező,
 
 ab) a 100 főnél nagyobb befogadóképességű, nem a terepszinti kijárattal azonos szinten lévő padlóvonalú,
 
@@ -18,7 +18,7 @@ ac) a 200 főnél nagyobb befogadóképességű, nem rögzített székekkel kial
 
 ## helyiségeket,
 
-b)[^193] a tömegtartózkodásra szolgáló helyiség csak állóhelyekkel, valamint rögzített ülőhelyekkel tervezhető, alakítható ki úgy, hogy a padlószerkezethez vagy egymáshoz szilárdan rögzített ülőhelyek száma a helyiségen belüli kapcsolódó kiürítési útvonaltól mérve legfeljebb 24 db legyen,
+b)[^195] a tömegtartózkodásra szolgáló helyiség csak állóhelyekkel, valamint rögzített ülőhelyekkel tervezhető, alakítható ki úgy, hogy a padlószerkezethez vagy egymáshoz szilárdan rögzített ülőhelyek száma a helyiségen belüli kapcsolódó kiürítésre szolgáló útvonaltól mérve legfeljebb 24 db legyen,
 
 c) a helyiségeken belül az ülőhelyeket úgy kell elrendezni és a közlekedési útvonalakat úgy kell kialakítani, hogy a kijárathoz vezető útvonal hossza ne haladja meg
 
@@ -32,7 +32,7 @@ cd) sík emelkedőn és lejtőn, valamint vízszintesen haladva a 45 m-t és
 
 d) az 5000 főnél is nagyobb befogadóképességű helyiségek esetében legalább minden megkezdett 1000 főre elkülönített menekülési útvonalakat kell kialakítani.
 
-[^190]: A 61. § a 30/2019. (VII. 26.) BM rendelet 105. § 62. pontja szerint módosított szöveg.
-[^191]: A 62. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 63. pontja szerint módosított szöveg.
-[^192]: A 62. § (2) bekezdés a) pont aa) alpontja a 30/2019. (VII. 26.) BM rendelet 105. § 64. pontja szerint módosított szöveg.
-[^193]: A 62. § (2) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 65. pontja szerint módosított szöveg.
+[^192]: A 61. §-t a 8/2022. (IV. 14.) BM rendelet 76. § 7. pontja hatályon kívül helyezte.
+[^193]: A 62. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 63. pontja szerint módosított szöveg.
+[^194]: A 62. § (2) bekezdés a) pont aa) alpontja a 30/2019. (VII. 26.) BM rendelet 105. § 64. pontja szerint módosított szöveg.
+[^195]: A 62. § (2) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 65. pontja, a 8/2022. (IV. 14.) BM rendelet 75. § 21. pontja szerint módosított szöveg.

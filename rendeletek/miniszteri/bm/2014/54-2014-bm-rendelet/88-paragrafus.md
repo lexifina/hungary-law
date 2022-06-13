@@ -4,7 +4,7 @@
 
 ## 49. Általános előírások
 
-88. §[^225] (1) Hő- és füstelvezetést és az ehhez szükséges mértékű légpótlást kell biztosítani
+88. §[^252] (1) Hő- és füstelvezetést és az ehhez szükséges mértékű légpótlást kell biztosítani
 
 a) 1200 m2-nél nagyobb alapterületű helyiségben,
 
@@ -14,7 +14,11 @@ c) menekülési útvonalon a füstmentes lépcsőház, a füstmentes előtér é
 
 d) 100 m2-nél nagyobb alapterületű pinceszinti helyiségekben,
 
-e) fedett átriumokban,
+e)[^253] menekülési útvonalnak nem minősülő fedett átriumokban, ha
+
+ea) két szintet köt össze, és alapterülete meghaladja a 100 m2-t, vagy
+
+eb) kettőnél több szintet köt össze,
 
 f) ott, ahol a rendeltetés alapján e rendelet előírja,
 
@@ -28,11 +32,17 @@ a) a legfeljebb 500 m2 alapterületű és legalább EI2 15 C minősítésű bej�
 
 b) a legfeljebb 500 m2 alapterületű, nem közösségi rendeltetésű pinceszinti helyiségben, amelyben jellemzően nem tűzveszélyes osztályba tartozó anyagot tárolnak,
 
-c) a legfeljebb 1200 m2 alapterületű, nem tömegtartózkodásra szolgáló pinceszinti helyiségben, ha a belmagasság felső harmadában az alapterület legalább 5%-ának megfelelő szabad nyílásméretű, betörhető üvegezésű, padlószintről nyitható homlokzati nyílászáróval rendelkezik, és a helyiség feletti födém síkja a rendezett terepcsatlakozás felett helyezkedik el,
+c)[^254] a legfeljebb 1200 m2 alapterületű, nem tömegtartózkodásra szolgáló pinceszinti helyiségben, ha a belmagasság felső harmadában az alapterület legalább 5%-ának megfelelő szabad nyílásméretű, betörhető üvegezésű, padlószintről nyitható homlokzati nyílászáróval vagy szabad nyílással rendelkezik, és a helyiség feletti födém síkja a rendezett terepcsatlakozás felett helyezkedik el,
 
 d) az olyan – beépített tűzoltó berendezéssel nem védett – ipari, mezőgazdasági rendeltetésű vagy raktárhelyiségben, amelynek tetőfedése vagy a helyiséget felülről lezáró egyéb szerkezete a tűzzel szemben számottevő ellenállással nem rendelkezik,
 
 e) a füstfejlődés szempontjából alacsony kockázatú térben.
+
+f)[^255] a hő- és füstelvezetés szempontjából
+
+fa) nyitott udvarban,
+
+fb) nyitott gépjárműtárolóban.
 
 (3) Füstmentesítést kell létesíteni
 
@@ -46,4 +56,7 @@ c) ahol e rendelet a rendeltetés alapján vagy a kiürítés biztosítása cél
 
 (5) Nem szabad hő- és füstelvezetést kialakítani a térfeltöltés elvén működő, teljes elárasztásos beépített gázzal vagy habbal oltó berendezéssel védett helyiségben.
 
-[^225]: A 88. § a 30/2019. (VII. 26.) BM rendelet 55. §-ával megállapított szöveg.
+[^252]: A 88. § a 30/2019. (VII. 26.) BM rendelet 55. §-ával megállapított szöveg.
+[^253]: A 88. § (1) bekezdés e) pontja a 8/2022. (IV. 14.) BM rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^254]: A 88. § (2) bekezdés c) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 29. pontja szerint módosított szöveg.
+[^255]: A 88. § (2) bekezdés f) pontját a 8/2022. (IV. 14.) BM rendelet 42. § (2) bekezdése iktatta be.

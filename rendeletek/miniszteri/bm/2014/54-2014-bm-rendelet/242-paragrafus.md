@@ -6,7 +6,7 @@
 
 (3) 1 db, legalább 34A, 144B és C oltásteljesítményű tűzoltó készüléket kell elhelyezni a töltőállomáson levő PB-gáz cseretelep közelében, jól láthatóan, könnyen hozzáférhetően. A készüléket együtt lehet tárolni a kútoszlopoknál vagy a kezelőépületben tárolt készülékekkel, de a készülék és a cseretelep közötti távolság nem lehet több mint 30 méter.
 
-(4)[^446] 1-1 db legalább 55A és 233B jelű vizsgálati egységtűz oltására alkalmas tűzoltó készülék kell minden fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékot tároló föld feletti tartályhoz, valamint 2 db minden III. tűzveszélyességi fokozatú folyadékot tároló föld feletti tartályhoz.
+(4)[^530] 1-1 db legalább 55A és 233B jelű vizsgálati egységtűz oltására alkalmas tűzoltó készülék kell minden fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékot tároló föld feletti tartályhoz, valamint 2 db minden III. tűzveszélyességi fokozatú folyadékot tároló föld feletti tartályhoz.
 
 (5) A legfeljebb 10 000 literes konténerkúthoz legalább 2 db, a 10 000 liternél nagyobb konténerkúthoz 3 db, legalább 55A és 233B jelű vizsgálati egységtűz oltására alkalmas tűzoltó készüléket kell készenlétben tartani.
 
@@ -14,4 +14,4 @@
 
 (7) A kezelőépületben jól hozzáférhetően 1 db, legalább 2 m2 nagyságú tűzoltó takarót kell elhelyezni a személyek mentésére.
 
-[^446]: A 242. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
+[^530]: A 242. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.

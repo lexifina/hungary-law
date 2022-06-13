@@ -1,7 +1,12 @@
-77. § (1) A gyártói előírás szerint telepített föld feletti tűzcsap felső kifolyócsonkjai középvonala magasságának a talajszinttől mérve 650 és 900 mm között kell lennie.
+77. § (1)[^221] A föld feletti tűzcsapot úgy kell kialakítani, telepíteni, hogy biztosítsa a tűzoltóságnál rendszeresített eszközökkel való késedelemmentes használatot, valamint a használaton kívüli állapotban a kifolyócsonkok védelmét.
 
-(2) A föld feletti tűzcsap szelepének működtetését a vonatkozó műszaki követelménynek megfelelő föld feletti tűzcsapkulccsal kell biztosítani.
+(2)[^222]
 
-(3) A föld feletti tűzcsapok kifolyócsonkjait 2 db meglazulás, elfordulás ellen biztosított, legalább 65 mm belső átmérőjű, a 8. melléklet 1. ábrája szerinti 75-B méretű csonkkapoccsal kell szerelni.
+(3)[^223]
 
-(4) A föld feletti tűzcsap ellátható biztonsági házzal vagy házakkal. A házat úgy kell kialakítani, hogy a föld feletti tűzcsapkulccsal biztonságosan nyitható és zárható legyen, a tűzoltó nyomótömlők csatlakoztatását és a csatlakoztatáshoz használt kapocskulcsok használatát ne akadályozza.
+(4)[^224]
+
+[^221]: A 77. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 38. §-ával megállapított szöveg.
+[^222]: A 77. § (2) bekezdését a 8/2022. (IV. 14.) BM rendelet 76. § 10. pontja hatályon kívül helyezte.
+[^223]: A 77. § (3) bekezdését a 8/2022. (IV. 14.) BM rendelet 76. § 10. pontja hatályon kívül helyezte.
+[^224]: A 77. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 76. § 10. pontja hatályon kívül helyezte.

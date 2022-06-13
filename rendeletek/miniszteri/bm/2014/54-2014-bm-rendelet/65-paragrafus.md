@@ -4,7 +4,7 @@
 
 ## 37. Általános követelmények
 
-65. §[^195] (1) Tűzoltási felvonulási területet és utat kell biztosítani
+65. §[^198] (1)[^199] Tűzoltási felvonulási területet és utat kell biztosítani az alábbi épületek esetében:
 
 a) 14 m szintmagasság feletti legfelső építményszintű épületek,
 
@@ -12,11 +12,11 @@ b) a 3000 m2 – szintenkénti összesített – alapterületet meghaladó keres
 
 c) az 5000 fő vagy azt meghaladó befogadóképességű helyiséget vagy kültéri nézőteret tartalmazó sportrendeltetésű épületek,
 
-d) a 300 fő befogadóképességet meghaladó, kiskorúak oktatási intézményei és
+d) a 300 fő befogadóképességet meghaladó, kiskorúak oktatási intézményei,
 
-e) a 300 fő befogadóképességet – beleértve az ágyszámot, járóbeteglétszámot és a személyzet létszámát – meghaladó kórházak és menekülésben korlátozott személyeket ellátó intézmények
+e) a 300 fő befogadóképességet – beleértve az ágyszámot, járóbeteglétszámot és a személyzet létszámát – meghaladó kórházak és menekülésben korlátozott személyeket ellátó intézmények, és
 
-## esetében.
+f) olyan ipari, mezőgazdasági és tárolási rendeltetésű épület, amely nagylégterű helyiséget tartalmaz, és az építményszerkezetek tűzállósági teljesítményét vagy a tűzszakaszok megengedett méretét fokozott üzembiztonságú tűzoltó berendezés figyelembevételével állapították meg.
 
 (2) Tűzoltási felvonulási terület és út a létesítendő építménnyel szomszédos telken – közterület kivételével – nem jelölhető és alakítható ki.
 
@@ -24,4 +24,5 @@ e) a 300 fő befogadóképességet – beleértve az ágyszámot, járóbeteglé
 
 (4) Tűzoltási felvonulási terület és út lezárásának módját a tűzvédelmi hatósággal kell egyeztetni.
 
-[^195]: A 65. § a 30/2019. (VII. 26.) BM rendelet 45. §-ával megállapított szöveg.
+[^198]: A 65. § a 30/2019. (VII. 26.) BM rendelet 45. §-ával megállapított szöveg.
+[^199]: A 65. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 34. §-ával megállapított szöveg.

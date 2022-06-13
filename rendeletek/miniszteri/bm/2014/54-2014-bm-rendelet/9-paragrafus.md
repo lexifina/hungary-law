@@ -2,13 +2,13 @@
 
 ## 1. Az anyagok tűzveszélyességi osztálya
 
-9. §[^52] (1) Fokozottan tűz- vagy robbanásveszélyes osztályba tartoznak
+9. §[^6] (1) Fokozottan tűz- vagy robbanásveszélyes osztályba tartoznak
 
 a) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: CLP rendelet) szerinti
 
-aa) instabil robbanóanyagok, továbbá az 1.1–1.5. alosztályba tartozó robbanóanyag,
+aa)[^7] instabil robbanóanyagok, az 1.1–1.5. alosztályba tartozó robbanóanyag, továbbá a deszenzibilizált robbanóanyag,
 
-ab) 1. és 2. kategóriába tartozó tűzveszélyes gáz, valamint az A és B kategóriába tartozó kémiailag instabil gáz,
+ab)[^8] 1A., 1B. és 2. kategóriába tartozó tűzveszélyes gáz, valamint az 1A. kategóriába tartozó pirofóros vagy kémiailag instabil gáz,
 
 ac) 1. és 2. kategóriába tartozó aeroszol,
 
@@ -104,4 +104,6 @@ b) az A1 vagy A2 tűzvédelmi osztályú építőanyag és
 
 c) a CLP rendelet szerinti 3. kategóriába tartozó aeroszol.
 
-[^52]: A 9. § a 30/2019. (VII. 26.) BM rendelet 4. §-ával megállapított szöveg.
+[^6]: A 9. § a 30/2019. (VII. 26.) BM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 9. § (1) bekezdés a) pont aa) alpontja a 8/2022. (IV. 14.) BM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 9. § (1) bekezdés a) pont ab) alpontja a 8/2022. (IV. 14.) BM rendelet 3. §-ával megállapított szöveg.

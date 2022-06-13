@@ -1,12 +1,8 @@
 ## 12. Tetők és tetőtér-beépítés követelményei
 
-31. § (1) A tetőfedés
+31. § (1)[^77] A legfelső szint lefedését biztosító szerkezet tűzvédelmi osztálya és tetőtűzterjedési kategóriája feleljen meg a 2. melléklet 2. és 3. táblázatában meghatározott követelményeknek.
 
-a) KK, MK mértékadó kockázati osztályú épület, önálló épületrész esetén A1-A2 tűzvédelmi osztályú,
-
-b) NAK, AK mértékadó kockázati osztályú épület, önálló épületrész esetén legalább Broof(t1) osztályú legyen.
-
-(2)[^110] E, Froof vagy F tűzvédelmi osztályú anyag tetőfedésként alkalmazható, ha az építmény legfeljebb egy emeletszinttel rendelkezik, és a tűzvédelmi hatóság azt az adott építményre engedélyezte, kivéve, ha
+(2)[^78] E, Froof vagy F tűzvédelmi osztályú anyag tetőfedésként alkalmazható, ha az építmény legfeljebb egy emeletszinttel rendelkezik, és a tűzvédelmi hatóság azt az adott építményre engedélyezte, kivéve, ha
 
 a) az E tűzvédelmi osztályú tetőfedés a Broof(t1) osztályt is teljesíti,
 
@@ -14,13 +10,7 @@ b) az építmény legfeljebb kétszintes, és
 
 c) NAK mértékadó kockázati osztályba tartozik.
 
-(3)[^111] Tetőtér beépítése esetén a tetőtéri helyiségek és a tetőszerkezet, valamint a tetőtér be nem épített része között olyan térelhatároló szerkezetet, burkolatot kell kialakítani, amellyel a tetőtéri helyiség tüzének átterjedése a tetőtéri helyiségen kívülre és a tetőszerkezetre a tetőfödém tartószerkezetére előírt tűzállósági követelmény időtartamáig meggátolható. A térelhatároló szerkezet, burkolat tűzvédelmi osztálya legalább B legyen
-
-a) KK mértékadó kockázati osztályú, a tetőtér szintjét nem számítva 4-nél több emeletes építmény,
-
-b) MK mértékadó kockázati osztályú építmény
-
-## esetén.
+(3)[^79] Helyiséget tartalmazó tetőtér létesítése vagy a tetőtér utólagos beépítése esetén a tetőtéri helyiségek és a tetőszerkezet, valamint a tetőtér be nem épített része között biztosítani kell, hogy a tetőtéri helyiség tüze a tetőtéri helyiségen kívülre és a tetőszerkezetre a legfelső szint lefedését biztosító szerkezetre előírt tűzállósági teljesítménykövetelmény időtartamáig ne terjedjen át.
 
 (4) A (3) bekezdés szerinti térelhatároló szerkezetet vagy burkolatot nem kell alkalmazni a fedélszerkezet tetőtéri helyiségen áthaladó elemein a következő esetekben:
 
@@ -36,19 +26,9 @@ c) az áthaladó elem és a térelhatároló szerkezet, burkolat csatlakozása t
 
 (5) A (3) bekezdés szerinti térelhatároló szerkezetet nem kell alkalmazni abban az esetben, ha az egyes önálló rendeltetési egységek között, valamint az önálló rendeltetési egység és a tetőtér be nem épített része között a tűzátterjedés lehetőségét a tetőfödém tartószerkezetére előírt tűzállóságiteljesítmény-követelmény időtartamáig meggátolják.
 
-(6) Tetőtér-beépítés esetén a magastető hőszigetelése
+(6)[^80]
 
-a)[^112] NAK mértékadó kockázati osztályú, egy lakást tartalmazó lakóépület vagy lakórendeltetésű önálló épületrész esetén A1-E tűzvédelmi osztályú,
-
-b)[^113] NAK mértékadó kockázati osztályú, az a) ponttól eltérő épület, önálló épületrész esetében A1-D tűzvédelmi osztályú,
-
-c)[^114] AK mértékadó kockázati osztályú épület, önálló épületrész esetén A1-C tűzvédelmi osztályú és
-
-d)[^115] KK, MK mértékadó kockázati osztályú épület, önálló épületrész esetén A1-A2 tűzvédelmi osztályú
-
-[^110]: A 31. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 23. §-ával megállapított szöveg.
-[^111]: A 31. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 23. §-ával megállapított szöveg.
-[^112]: A 31. § (6) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 34. pontja szerint módosított szöveg.
-[^113]: A 31. § (6) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 34. pontja szerint módosított szöveg.
-[^114]: A 31. § (6) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 35. pontja szerint módosított szöveg.
-[^115]: A 31. § (6) bekezdés d) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 36. pontja szerint módosított szöveg.
+[^77]: A 31. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^78]: A 31. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 23. §-ával megállapított szöveg.
+[^79]: A 31. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^80]: A 31. § (6) bekezdését a 8/2022. (IV. 14.) BM rendelet 76. § 2. pontja hatályon kívül helyezte.

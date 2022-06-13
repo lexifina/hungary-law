@@ -1,4 +1,4 @@
-## 159. §[^321]
+## 159. §[^365]
 
 160. § (1) Az üzembe helyezői nyilatkozat tartalmazza
 
@@ -20,4 +20,4 @@ d) az ellenőrzés és a jegyzőkönyvkészítés időpontját és helyét és
 
 e) az ellenőrzésen résztvevők aláírását.
 
-[^321]: A 159. §-t a 30/2019. (VII. 26.) BM rendelet 106. § 43. pontja hatályon kívül helyezte.
+[^365]: A 159. §-t a 30/2019. (VII. 26.) BM rendelet 106. § 43. pontja hatályon kívül helyezte.

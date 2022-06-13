@@ -1,8 +1,8 @@
 172. § (1) I-II. tűzveszélyességi fokozatú folyadék III. tűzveszélyességi fokozatú folyadékkal közösen is tárolható rekeszekre osztott, duplafalú, lyukadásjelzővel és elektromos szintmérő berendezéssel ellátott, föld alatti, földtakaróval borított tartályban vagy konténerkútban oly módon, hogy a tárolt folyadék összmennyisége
 
-a)[^333] föld alatti, földtakaróval borított tartály esetén nem haladhatja meg a 60 000 litert, amelyből az fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadék mennyisége nem haladhatja meg a 30 000 litert,
+a)[^387] föld alatti, földtakaróval borított tartály esetén nem haladhatja meg a 60 000 litert, amelyből az fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadék mennyisége nem haladhatja meg a 30 000 litert,
 
-b)[^334] konténerkút esetén nem haladhatja meg a 30 000 litert, amelyből az fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadék mennyisége nem haladhatja meg a 10 000 litert.
+b)[^388] konténerkút esetén nem haladhatja meg a 30 000 litert, amelyből az fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadék mennyisége nem haladhatja meg a 10 000 litert.
 
 (2) Egymás mellett legfeljebb 3 különálló konténerkút vagy föld feletti tartállyal ellátott üzemanyagtöltő berendezés helyezhető el.
 
@@ -12,14 +12,14 @@ b)[^334] konténerkút esetén nem haladhatja meg a 30 000 litert, amelyből az 
 
 (5) A töltő előtti úttestről az esetleg kifolyt éghető folyadéknak eltávolíthatónak kell lennie, és be kell vezetni az olajfogó műtárgyba.
 
-(6)[^335] A fokozottan tűz- vagy robbanásveszélyes osztályba tartozó üzemanyag esetében az üzemanyagtöltő állomáson kizárólag a vonatkozó jogszabály szerint hitelesített és robbanásbiztonsági vizsgálattal megfelelőnek tanúsított üzemanyagtöltő berendezések használhatók.
+(6)[^389] A fokozottan tűz- vagy robbanásveszélyes osztályba tartozó üzemanyag esetében az üzemanyagtöltő állomáson kizárólag a vonatkozó jogszabály szerint hitelesített és robbanásbiztonsági vizsgálattal megfelelőnek tanúsított üzemanyagtöltő berendezések használhatók.
 
-(7)[^336] Az fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékot kiszolgáló konténerkút tartálya duplafalú kialakítású.
+(7)[^390] Az fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékot kiszolgáló konténerkút tartálya duplafalú kialakítású.
 
-(8)[^337] Az fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékot kiszolgáló konténerkút a vonatkozó jogszabály szerinti tűz- vagy robbanásveszélyes készüléknek, gépnek, berendezésnek minősül.
+(8)[^391] Az fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékot kiszolgáló konténerkút a vonatkozó jogszabály szerinti tűz- vagy robbanásveszélyes készüléknek, gépnek, berendezésnek minősül.
 
-[^333]: A 172. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
-[^334]: A 172. § (1) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
-[^335]: A 172. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 110. pontja szerint módosított szöveg.
-[^336]: A 172. § (7) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
-[^337]: A 172. § (8) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
+[^387]: A 172. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
+[^388]: A 172. § (1) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
+[^389]: A 172. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 110. pontja szerint módosított szöveg.
+[^390]: A 172. § (7) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
+[^391]: A 172. § (8) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.

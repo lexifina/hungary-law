@@ -1,14 +1,16 @@
+## 78. §[^225]
+
 ## 42. Fali tűzcsapok kialakítása
 
-79. § (1) Vezetékes vízellátás esetén – a legfeljebb 14 méter legfelső padlószintmagasságú lakóépületek kivételével – fali tűzcsapot is kell létesíteni
+79. § (1)[^226] Vezetékes vízellátás esetén – a legfeljebb 14 méter legfelső padlószintmagasságú lakóépületek, valamint a teljes elárasztásos beépített habbal oltó berendezéssel védett helyiség kivételével – fali tűzcsapot is kell létesíteni
 
 a) ahol azt jogszabály előírja,
 
 b) egynél több szintes gépjárműtárolók esetében vagy
 
-c)[^208] az MK kockázati osztályba tartozó kockázati egység 200 m2-nél, a KK kockázati osztályba tartozó kockázati egység 500 m2-nél és az AK kockázati osztályba tartozó kockázati egység 1000 m2-nél nagyobb alapterületű tűzszakaszában.
+c)[^227] az MK kockázati osztályba tartozó kockázati egység 200 m2-nél, a KK kockázati osztályba tartozó kockázati egység 500 m2-nél és az AK kockázati osztályba tartozó kockázati egység 1000 m2-nél nagyobb alapterületű tűzszakaszában.
 
-(2)[^209] Nem kell fali tűzcsapot létesíteni a nyitott vagy részben nyitott építményekben, a hűtőházak hűtött tereiben, az állattartásra szolgáló épületekben, a kizárólag növénytermesztési célú földszintes építményekben, valamint az ömlesztett terménytároló épületek tároló részein.
+(2)[^228] Nem kell fali tűzcsapot létesíteni a nyitott vagy részben nyitott építményekben, a hűtőházak hűtött tereiben, az állattartó épületekben, a kizárólag növénytermesztési célú földszintes építményekben, valamint az ömlesztett terménytároló épületek tároló részein.
 
 (3) Nem létesíthető fali tűzcsap azokban a tűzszakaszokban, ahol a víz használata életveszélyt, tüzet, robbanást okozhat vagy a tűz terjedését elősegítheti.
 
@@ -20,5 +22,7 @@ c)[^208] az MK kockázati osztályba tartozó kockázati egység 200 m2-nél, a 
 
 (7) A fali tűzcsapokat úgy kell elhelyezni, hogy azok a legtávolabbi hely oltását is tudják biztosítani – a megközelítési utat tömlőfektetési nyomvonalon kell figyelembe venni –, valamint a fali tűzcsapok lefedjék a tűzszakasz teljes területét. Egy helyiségen belül 5 méter vízsugár figyelembe vehető, ha azt építményszerkezet vagy beépített bútor, berendezés nem akadályozza.
 
-[^208]: A 79. § (1) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 50. §-ával megállapított szöveg.
-[^209]: A 79. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 70. pontja szerint módosított szöveg.
+[^225]: A 78. §-t a 8/2022. (IV. 14.) BM rendelet 76. § 11. pontja hatályon kívül helyezte.
+[^226]: A 79. § (1) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 26. pontja szerint módosított szöveg.
+[^227]: A 79. § (1) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 50. §-ával megállapított szöveg.
+[^228]: A 79. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 70. pontja, a 8/2022. (IV. 14.) BM rendelet 75. § 25. pontja szerint módosított szöveg.

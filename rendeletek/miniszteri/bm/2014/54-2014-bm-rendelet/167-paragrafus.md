@@ -10,10 +10,10 @@
 
 (3) A tartályokat úgy kell kialakítani, hogy a környezeti hőmérsékletingadozásból adódó belső nyomáskülönbségek ne veszélyeztessék a tartály stabilitását.
 
-(4)[^329] Ha e fejezet a fokozottan tűz- vagy robbanásveszélyes és a mérsékelten tűzveszélyes osztályba tartozó folyadékokra eltérő előírást tartalmaz, és a környezeti hatások vagy a melegítés következtében az enyhébb tűzveszélyességi osztályba tartozó folyadék hőmérséklete elérheti annak lobbanáspontját, akkor a veszélyesebb tűzveszélyességi osztálynak megfelelő műszaki követelményeket kell alkalmazni.
+(4)[^383] Ha e fejezet a fokozottan tűz- vagy robbanásveszélyes és a mérsékelten tűzveszélyes osztályba tartozó folyadékokra eltérő előírást tartalmaz, és a környezeti hatások vagy a melegítés következtében az enyhébb tűzveszélyességi osztályba tartozó folyadék hőmérséklete elérheti annak lobbanáspontját, akkor a veszélyesebb tűzveszélyességi osztálynak megfelelő műszaki követelményeket kell alkalmazni.
 
 (5) Ha különböző tűzveszélyességi fokozatú folyadékokat együtt tárolnak és az enyhébb tűzveszélyességű folyadék tárolási területére a veszélyesebb anyag gőzei bejuthatnak, akkor a biztonsági szerelvényezést a veszélyesebb anyagnak megfelelő módon kell kialakítani.
 
 (6) Ha az éghető folyadékok és olvadékok tárolására szolgáló tartályt és annak szerelvényeit hőszigetelni kell, akkor a hőszigetelés A1 vagy A2 tűzvédelmi osztályú legyen.
 
-[^329]: A 167. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 83. §-ával megállapított szöveg.
+[^383]: A 167. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 83. §-ával megállapított szöveg.

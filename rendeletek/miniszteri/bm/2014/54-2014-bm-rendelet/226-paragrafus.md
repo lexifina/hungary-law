@@ -1,11 +1,16 @@
-226. §[^422] (1) Ha azt jogszabály lehetővé teszi, külterületen az ingatlan tulajdonosa, használója legfeljebb 10 ha egybefüggő területen irányított égetést végezhet.
+226. §[^495] (1)[^496]
 
-(2) Az irányított égetés végzésének időpontját, terjedelmét, földrajzi koordinátákkal vagy helyrajzi számmal megadott helyét a megkezdés előtt 5 nappal az illetékes hivatásos katasztrófavédelmi szerv területi szervéhez írásban be kell jelenteni.
+(2)[^497] Az olyan füstfejlődéssel vagy lánghatással járó tevékenységet, amely összetéveszthető a valós tűzesettel, az illetékes hivatásos katasztrófavédelmi szerv területi szervéhez a tevékenység megkezdése előtt írásban be kell jelenteni. A bejelentésnek tartalmaznia kell a tevékenység végzésének időpontját, terjedelmét, földrajzi koordinátákkal, címmel vagy helyrajzi számmal megadott helyét, a kapcsolattartó telefonos elérhetőségét és lakcímét vagy tartózkodási helyét.
 
-(3) Az irányított égetés során a tűz nem hagyható őrizetlenül, és veszély esetén azt azonnal el kell oltani.
+(3)[^498]
 
-(4) Az irányított égetés csak úgy végezhető, hogy az a környezetére tűz- és robbanásveszélyt ne jelentsen.
+(4)[^499]
 
-(5) Az irányított égetés befejezése után a helyszínt gondosan át kell vizsgálni, és a parázslást, izzást – vízzel, földtakarással, kéziszerszámokkal – meg kell szüntetni.
+(5)[^500]
 
-[^422]: A 226. § a 30/2019. (VII. 26.) BM rendelet 98. §-ával megállapított szöveg.
+[^495]: A 226. § a 30/2019. (VII. 26.) BM rendelet 98. §-ával megállapított szöveg.
+[^496]: A 226. § (1) bekezdését a 8/2022. (IV. 14.) BM rendelet 76. § 17. pontja hatályon kívül helyezte.
+[^497]: A 226. § (2) bekezdése a 8/2022. (IV. 14.) BM rendelet 65. §-ával megállapított szöveg.
+[^498]: A 226. § (3) bekezdését a 8/2022. (IV. 14.) BM rendelet 76. § 18. pontja hatályon kívül helyezte.
+[^499]: A 226. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 76. § 18. pontja hatályon kívül helyezte.
+[^500]: A 226. § (5) bekezdését a 8/2022. (IV. 14.) BM rendelet 76. § 18. pontja hatályon kívül helyezte.
