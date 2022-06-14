@@ -26,7 +26,7 @@ dr. Aradszki András (KDNP)
 
 Földi László (KDNP)
 
-Móring József Attila (KDNP)
+Mihálffy Béla (KDNP)[^2]
 
 Z. Kárpát Dániel (Jobbik)
 
@@ -38,11 +38,12 @@ Dócs Dávid (Mi Hazánk)
 
 Bakos Bernadett (LMP)
 
-Berki Sándor (Párbeszéd)[^2]
+Berki Sándor (Párbeszéd)[^3]
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^3]
+3.[^4]
 
-[^2]: A 14/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 22/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 14/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
