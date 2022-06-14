@@ -1,1 +1,3 @@
-## „(8) A tömegtartózkodásra szolgáló helyiségben előírt B-s1, d0 tűzvédelmi osztályú falburkolat helyett alkalmazható C-s1, d0 tűzvédelmi osztályú, valamint Bfl-s1 tűzvédelmi osztályú padlóburkolat helyett alkalmazható Cfl-s1 tűzvédelmi osztályú burkolat, ha a helyiséget befogadó tűzszakasz teljes területén tűzoltó berendezés létesül.”
+## 16. §[^17]
+
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

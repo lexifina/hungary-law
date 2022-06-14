@@ -1,3 +1,3 @@
-## 65. § Az 54/2014. (XII. 5.) BM rendelet 226. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 65. §[^66]
 
-## „(2) Az olyan füstfejlődéssel vagy lánghatással járó tevékenységet, amely összetéveszthető a valós tűzesettel, az illetékes hivatásos katasztrófavédelmi szerv területi szervéhez a tevékenység megkezdése előtt írásban be kell jelenteni. A bejelentésnek tartalmaznia kell a tevékenység végzésének időpontját, terjedelmét, földrajzi koordinátákkal, címmel vagy helyrajzi számmal megadott helyét, a kapcsolattartó telefonos elérhetőségét és lakcímét vagy tartózkodási helyét.”
+[^66]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

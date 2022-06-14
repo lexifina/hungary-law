@@ -1,3 +1,3 @@
-## 63. § Az 54/2014. (XII. 5.) BM rendelet 110. alcím címe helyébe a következő rendelkezés lép:
+## 63. §[^64]
 
-## „110. Rostnövénytároló, kazal”
+[^64]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

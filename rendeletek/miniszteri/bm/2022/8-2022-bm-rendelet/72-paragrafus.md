@@ -1,5 +1,3 @@
-## „d) hogy a tűzvédelmi üzemeltetési naplót folyamatosan vezetik-e,
+## 71. §[^72]
 
-## e) hogy a felügyeletet ellátók részt vettek-e megfelelő oktatáson,
-
-## f) hogy a nyomtatók működéséhez szükséges eszközök, anyagok (papír, festék, festékszalag) rendelkezésre állnak-e.”
+[^72]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

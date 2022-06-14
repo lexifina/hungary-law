@@ -1,1 +1,3 @@
-## „(9) Bölcsődei és óvodai rendeltetést is magába foglaló kockázati egység esetén – a kiürítésre és a gyermekek tartózkodására szolgáló helyiség elhelyezésére vonatkozó követelmények kivételével – elegendő az AK kockázati osztályhoz tartozó követelmények érvényesítése, ha a KK kockázati osztályt kizárólag a gyermekek életkorának figyelembevétele eredményezi. Ebben az esetben az épület mértékadó kockázati osztályának megállapításánál ez a kockázati egység AK kockázati osztályú kockázati egységként vehető figyelembe.”
+## 19. §[^20]
+
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

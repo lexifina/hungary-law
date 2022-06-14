@@ -1,3 +1,3 @@
-## 49. § Az 54/2014. (XII. 5.) BM rendelet 146. §-a a következő (3) bekezdéssel egészül ki:
+## 49. §[^50]
 
-## „(3) A magasan vagy középmagasan elhelyezett menekülési jelek kiválthatók alacsonyan telepített menekülési jelekkel ott, ahol a környezet műemléki jellege ezt indokolttá teszi.”
+[^50]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

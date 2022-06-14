@@ -1,3 +1,3 @@
-## 20. § Az 54/2014. (XII. 5.) BM rendelet 40. §-a a következő (5) bekezdéssel egészül ki:
+## 20. §[^21]
 
-## „(5) Olyan kockázati egység esetén, amelyben egyidejűleg legfeljebb 5 fő előkészítéssel vagy anélkül sem menthető személy jelenlétével kell számolni, – a kiürítésre vonatkozó követelmények kivételével – elegendő a KK kockázati osztályhoz tartozó követelmények érvényesítése, ha az MK kockázati osztályt kizárólag a menekülési képesség figyelembevétele eredményezi. Ebben az esetben az épület mértékadó kockázati osztályának megállapításánál ez a kockázati egység KK kockázati osztályú kockázati egységként vehető figyelembe.”
+[^21]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

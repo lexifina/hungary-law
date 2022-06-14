@@ -1,3 +1,3 @@
-## 62. § Az 54/2014. (XII. 5.) BM rendelet 203. §-a a következő (6) bekezdéssel egészül ki:
+## 62. §[^63]
 
-## „(6) A távfelügyelet haladéktalanul köteles a hozzá beérkező hibajelzésről az adott létesítmény üzemeltetőjét értesíteni.”
+[^63]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

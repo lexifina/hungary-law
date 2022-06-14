@@ -1,3 +1,3 @@
-## 60. § Az 54/2014. (XII. 5.) BM rendelet 193. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 60. §[^61]
 
-## „(3) Az 500 m2-t meghaladó alapterületű üzemi helyiségben, vagy raktárhelyiségben a padlón jól látható és tartós módon meg kell jelölni a legalább 2,4 m széles közlekedési utakat, a falsík, a beépített gépsor, technológiai berendezések által határolt közlekedő és az állványos raktározási terület kivételével. A nagylégterű helyiségen belül, a 48/A. § (3) bekezdés g) pont gb) és gc) alpontja szerint kialakított, éghető anyagtól, tárgytól mentes sávon tárolás nem végezhető, azt állandóan szabadon kell tartani. A sávot jelöléssel kell ellátni.”
+[^61]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „f) a hő- és füstelvezetés szempontjából
+## 42. §[^43]
 
-## fa) nyitott udvarban,
-
-## fb) nyitott gépjárműtárolóban.”
+[^43]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

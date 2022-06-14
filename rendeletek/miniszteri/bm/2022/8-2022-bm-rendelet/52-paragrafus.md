@@ -1,5 +1,3 @@
-## 51. § Az 54/2014. (XII. 5.) BM rendelet 148. § (1) bekezdése a következő i) ponttal egészül ki:
+## 51. §[^52]
 
-## (A 147. §-ban foglaltaknak megfelelő tűzvédelmi jelekkel kell megjelölni az elhelyezett)
-
-## „i) biztonsági felvonót az aknaajtók mellett.”
+[^52]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

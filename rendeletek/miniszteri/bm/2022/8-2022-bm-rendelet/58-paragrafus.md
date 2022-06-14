@@ -1,1 +1,3 @@
-## „(8) Az „1a” cseretelepek körül legalább 1,5 m, az „1b” és „2” kategóriájú cseretelepek körül legalább 3 m a magasabb kategóriáknál legalább 5 méter védőtávolságot kell tartani, amit az elhelyezéssel érintett ingatlan határain belül kell biztosítani. A védőtávolságon belül a technológiához közvetlenül nem kapcsolódó tevékenység vagy a technológiához közvetlenül nem kapcsolódó tárolás nem végezhető. A védőtávolság csökkenthető, ha a tároló méreteit minden irányban legalább 0,5 m-rel meghaladó, A1 tűzvédelmi osztályú, EI 90 tűzállósági teljesítményű védőfal kerül kiépítésre.”
+## 57. §[^58]
+
+[^58]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

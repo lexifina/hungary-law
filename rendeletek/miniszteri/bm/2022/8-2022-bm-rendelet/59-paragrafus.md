@@ -1,3 +1,3 @@
-## 58. § Az 54/2014. (XII. 5.) BM rendelet 177. §-a a következő (9) bekezdéssel egészül ki:
+## 58. §[^59]
 
-## „(9) Építési tevékenységet végezni csak az elvárt biztonsági szint folyamatos fenntartása mellett, a vonatkozó tűzvédelmi előírások betartásával lehet.”
+[^59]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

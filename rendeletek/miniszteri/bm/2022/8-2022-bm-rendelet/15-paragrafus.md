@@ -1,1 +1,3 @@
-## „(3) Helyiséget tartalmazó tetőtér létesítése vagy a tetőtér utólagos beépítése esetén a tetőtéri helyiségek és a tetőszerkezet, valamint a tetőtér be nem épített része között biztosítani kell, hogy a tetőtéri helyiség tüze a tetőtéri helyiségen kívülre és a tetőszerkezetre a legfelső szint lefedését biztosító szerkezetre előírt tűzállósági teljesítménykövetelmény időtartamáig ne terjedjen át.”
+## 14. §[^15]
+
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

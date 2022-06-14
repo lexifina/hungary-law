@@ -1,5 +1,3 @@
-## „(3) Az üzemeltető köteles az érintett műszaki megoldás rendkívüli felülvizsgálatáról az annak elvégzésére okot adó körülmény vagy hiányosság tudomására jutása után 15 napon belül, valamint a hibák kijavításáról a 251. § szerint gondoskodni, ha
+## 67. §[^68]
 
-## a) az érintett műszaki megoldás nem töltötte be tűzvédelmi rendeltetését tűzeset, tűzriadó gyakorlat vagy egyéb esemény során vagy
-
-## b) az érintett műszaki megoldás nem alkalmas a tűzvédelmi rendeltetésének megfelelő működésre.”
+[^68]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

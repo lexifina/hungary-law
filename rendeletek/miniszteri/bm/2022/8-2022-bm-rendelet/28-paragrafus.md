@@ -1,1 +1,3 @@
-## „(3) Önállóan menekülésre képes személyek menekülése akkor tervezhető önálló kiürítésre szolgáló útvonallal rendelkező szomszédos tűzszakaszba, ha a biztonságos térbe jutás az elhagyott tűzszakasz érintése nélkül a szomszédos tűzszakaszba lépéstől számítva a kiürítésre vonatkozó feltételeket teljesíti.”
+## 27. §[^28]
+
+[^28]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

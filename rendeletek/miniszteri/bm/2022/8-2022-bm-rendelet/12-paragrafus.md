@@ -1,1 +1,3 @@
-## „(8) A homlokzat előtt alkalmazott növényfuttató, árnyékoló, akusztikai, reklámcélú vagy más funkciójú, a homlokzat részleges vagy teljes eltakarását eredményező szerkezeteket olyan módon kell kialakítani, hogy azok ne befolyásolják kedvezőtlenül a homlokzati tűzterjedést.”
+## 11. §[^12]
+
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

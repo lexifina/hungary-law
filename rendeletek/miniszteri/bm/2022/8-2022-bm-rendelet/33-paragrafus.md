@@ -1,3 +1,3 @@
-## „(5) Az ipari, mezőgazdasági és tárolási rendeltetésű építményeknél a kiürítésre szolgáló útvonalon megengedett toló, billenő és emelkedő zsalus kapuk alkalmazása, ha azok mindkét oldalról és kézi úton 20 másodpercen belül megfelelő szélességben és magasságban biztonságosan nyithatók, és az érintett helyiségben tartózkodó személyek száma 20 m2-enként az egy főt nem haladja meg.
+## 32. §[^33]
 
-## (6) A kiürítésre szolgáló, üzemszerűen zárva tartott ajtók vészeseti nyithatóságát és a beléptető rendszerek kiürítést nem akadályozó kialakítását biztosítani kell. Abban az esetben, ha a rendeltetés, a tevékenység jellege a belső nyithatóságot kizárja, az ajtó külső nyithatóságát a tűzvédelmi hatósággal egyeztetett módon biztosítani kell.”
+[^33]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
