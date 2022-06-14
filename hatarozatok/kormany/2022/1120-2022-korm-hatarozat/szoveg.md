@@ -1,8 +1,8 @@
 A Kormány, figyelemmel az Alaptörvény 47. cikkére, Magyarországnak az Egyesült Nemzetek Alapokmányából és az Észak-atlanti Szerződés Szervezetében (a továbbiakban: NATO), valamint az Európai Unióban betöltött tagságából fakadó kötelezettségeire, az Észak-atlanti Tanács PO(2022)0050. számú, 2022. február 16. napján meghozott és PO(2022)0085. számú, 2022. február 24. napján meghozott döntéseire, a szövetséges államok fegyveres erőinek az ukrajnai válsággal összefüggő csapatmozgásainak és egyéb feladatainak elősegítése érdekében
 
-1. engedélyezi a NATO állam- és kormányfői testületének 2022. február 25-i nyilatkozatában megerősített döntéseire tekintettel a NATO reagáló erők Magyarország területén szárazföldi és légi úton történő áthaladását, illetve Magyarországra [Baranya megye, Fejér megye, Komárom-Esztergom megye, Győr-Moson-Sopron megye, Somogy megye, Tolna megye, Vas megye, Veszprém megye, Zala megye területére, Pest megye területének a Duna vonala és Fejér megye által határolt területére, valamint Budapest Duna vonalától nyugatra eső területére (a továbbiakban együtt: Dunántúlra)] történő települését;
+1.[^1] engedélyezi a NATO állam- és kormányfői testületének 2022. február 25-i nyilatkozatában megerősített döntéseire tekintettel a NATO reagáló erők Magyarország területén szárazföldi és légi úton történő áthaladását, illetve Magyarországra történő települését;
 
-2. az Ukrajnába történő áthaladás esetét kivéve engedélyezi a szövetséges fegyveres erőknek az 1. pont alá nem tartozó, a NATO döntésén alapuló, Magyarország területén szárazföldi és légi úton történő áthaladását, valamint szükség szerint Magyarországra (Dunántúlra) történő települését, ideértve a gyakorlatokon és kiképzési feladatokon történő részvételt is;
+2.[^2] az Ukrajnába történő áthaladás esetét kivéve engedélyezi a szövetséges fegyveres erőknek az 1. pont alá nem tartozó, a NATO döntésén alapuló, Magyarország területén szárazföldi és légi úton történő áthaladását, valamint szükség szerint Magyarországra történő települését, ideértve a gyakorlatokon és kiképzési feladatokon történő részvételt is;
 
 3. engedélyezi a szövetséges fegyveres erők által az Európai Unió Tanácsának (KKBP) 2022. február 28. napján meghozott, a halálos erő célba juttatására tervezett katonai felszereléseknek, valamint platformoknak az ukrán fegyveres erők számára való biztosítása céljából az Európai Békekeret keretében megvalósuló támogatási intézkedésről szóló 2022/338/KKBP határozata hatálya alá tartozó eszközöknek (halálos erő célba juttatására tervezett katonai felszereléseknek, valamint platformoknak) Magyarország területén szárazföldi és légi úton más szövetséges tagállamba történő szállítását;
 
@@ -27,3 +27,6 @@ pénzügyminiszter
 Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
+
+[^1]: Az 1. pont az 1294/2022. (VI. 14.) Korm. határozattal megállapított szöveg.
+[^2]: A 2. pont az 1294/2022. (VI. 14.) Korm. határozattal megállapított szöveg.
