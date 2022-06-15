@@ -1,4 +1,4 @@
-## 2/A. [^3] Az Álláshely Nyilvántartó Rendszerben nyilvántartott adatok továbbítása
+## 2/A. [^4] Az Álláshely Nyilvántartó Rendszerben nyilvántartott adatok továbbítása
 
 8/A. § (1) Az Álláshely Nyilvántartó Rendszerben nyilvántartott adatok és a Tv. 2. § a) pontja szerinti KSZDR szervezet esetében a Személyügyi Támogató és Nyilvántartó Rendszer adatai a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 62/A. § (1) bekezdés c) pontja szerinti álláshely-azonosítóval (a továbbiakban: álláshely-azonosító) kerülnek összekapcsolásra.
 
@@ -8,4 +8,4 @@
 
 (4) Az Álláshely Nyilvántartó Rendszer esetében a jogosultságkezelés a Kit. 62/A. és 62/B. §-a szerint valósul meg.
 
-[^3]: A 2/A. alcímet (8/A. §) a 159/2021. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 2/A. alcímet (8/A. §) a 159/2021. (III. 31.) Korm. rendelet 2. §-a iktatta be.

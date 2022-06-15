@@ -1,4 +1,4 @@
-21/A. §[^12] (1) A honvédelemért felelős miniszter által vezetett minisztérium kivételével a Tv. 2. § a) és d) pontja szerinti KSZDR szervezet a foglalkoztatottak Tv. 1–7. mellékletében meghatározott, illetményszámfejtéshez szükséges adatait és azok változását elektronikus úton, interfészen keresztül adja át a KIRA részére.
+21/A. §[^13] (1) A honvédelemért felelős miniszter által vezetett minisztérium kivételével a Tv. 2. § a) és d) pontja szerinti KSZDR szervezet a foglalkoztatottak Tv. 1–7. mellékletében meghatározott, illetményszámfejtéshez szükséges adatait és azok változását elektronikus úton, interfészen keresztül adja át a KIRA részére.
 
 (2) Az (1) bekezdés szerinti adatokat a KIRA-ba legfeljebb naponta egy alkalommal lehet, de legalább havonta egy alkalommal, legkésőbb a tárgyhó utolsó napját megelőző munkanapon kell feltölteni.
 
@@ -8,4 +8,4 @@
 
 (5) Az illetményszámfejtéshez szükséges, de a Személyügyi Támogató és Nyilvántartó Rendszerben nem szereplő adatokat manuális rögzítéssel kell szolgáltatni az erre szolgáló felületen.
 
-[^12]: A 21/A. §-t a 159/2021. (III. 31.) Korm. rendelet 5. §-a iktatta be.
+[^13]: A 21/A. §-t a 159/2021. (III. 31.) Korm. rendelet 5. §-a iktatta be.

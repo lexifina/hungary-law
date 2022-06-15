@@ -14,12 +14,12 @@ kell azonosítani, és a rendszer adataihoz történő hozzáférését a KSZDR 
 
 (5) A szervezeti adminisztrátor jogosult a végfelhasználói jogosultságok kiadására, melynek birtokában a végfelhasználók a beállított szerepkörükhöz igazodóan jogosultak a rendszer használatára.
 
-(6)[^4] Ha a KSZDR szervezet megszűnik, a KSZDR adminisztrátor törli a KSZDR szervezet jogosultságát.
+(6)[^5] Ha a KSZDR szervezet megszűnik, a KSZDR adminisztrátor törli a KSZDR szervezet jogosultságát.
 
-(7)[^5] Ha a KSZDR szervezet vezetőjének személyében változás következik be, a szervezeti adminisztrátor a változást haladéktalanul bejelenti az erre szolgáló űrlapon.
+(7)[^6] Ha a KSZDR szervezet vezetőjének személyében változás következik be, a szervezeti adminisztrátor a változást haladéktalanul bejelenti az erre szolgáló űrlapon.
 
-(8)[^6] Ha a szervezeti adminisztrátor személyében változás következik be, a KSZDR szervezet vezetője a változást haladéktalanul bejelenti az erre szolgáló űrlapon, és intézkedik új szervezeti adminisztrátor kijelöléséről.
+(8)[^7] Ha a szervezeti adminisztrátor személyében változás következik be, a KSZDR szervezet vezetője a változást haladéktalanul bejelenti az erre szolgáló űrlapon, és intézkedik új szervezeti adminisztrátor kijelöléséről.
 
-[^4]: A 10. § (6) bekezdését a 159/2021. (III. 31.) Korm. rendelet 3. §-a iktatta be.
-[^5]: A 10. § (7) bekezdését a 159/2021. (III. 31.) Korm. rendelet 3. §-a iktatta be.
-[^6]: A 10. § (8) bekezdését a 159/2021. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 10. § (6) bekezdését a 159/2021. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 10. § (7) bekezdését a 159/2021. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 10. § (8) bekezdését a 159/2021. (III. 31.) Korm. rendelet 3. §-a iktatta be.
