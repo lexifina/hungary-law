@@ -1,6 +1,6 @@
-## 17/B. §[^163] Az államháztartás központi alrendszereiből a forrást biztosító elkülönítésére a Kincstárnál építtetői fedezetbiztosítási számlát nyit.
+## 17/B. §[^164] Az államháztartás központi alrendszereiből a forrást biztosító elkülönítésére a Kincstárnál építtetői fedezetbiztosítási számlát nyit.
 
-17/C. §[^164]
+17/C. §[^165]
 
-[^163]: A 17/B. §-t a 182/2010. (V. 14.) Korm. rendelet 5. § (12) bekezdése iktatta be, szövege a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 10. pontja szerint módosított szöveg.
-[^164]: A 17/C. §-t a 182/2010. (V. 14.) Korm. rendelet 5. § (12) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 93. § m) pontja.
+[^164]: A 17/B. §-t a 182/2010. (V. 14.) Korm. rendelet 5. § (12) bekezdése iktatta be, szövege a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 10. pontja szerint módosított szöveg.
+[^165]: A 17/C. §-t a 182/2010. (V. 14.) Korm. rendelet 5. § (12) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 93. § m) pontja.

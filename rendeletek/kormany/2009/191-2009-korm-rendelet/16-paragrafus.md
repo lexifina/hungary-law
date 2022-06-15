@@ -1,6 +1,6 @@
 ## Az építési műszaki ellenőr
 
-16. § (1)[^116] Kötelező építési műszaki ellenőrt megbízni az építési napló vezetéshez kötött építési tevékenység esetén, ha
+16. § (1)[^117] Kötelező építési műszaki ellenőrt megbízni az építési napló vezetéshez kötött építési tevékenység esetén, ha
 
 a) az építőipari kivitelezési tevékenységet több fővállalkozó kivitelező végzi,
 
@@ -8,7 +8,7 @@ b) az építési beruházás a Kbt. hatálya alá tartozik,
 
 c) az építőipari kivitelezési tevékenység nemzetgazdasági szempontból kiemelt jelentőségű ügy tárgyát képezi,
 
-d)[^117] az építőipari kivitelezési tevékenység műemléki védelem alatt álló építményt érint, vagy
+d)[^118] az építőipari kivitelezési tevékenység műemléki védelem alatt álló építményt érint, vagy
 
 e) a 17. § (2) bekezdés alapján építtetői fedezetkezelő működik közre.
 
@@ -16,11 +16,11 @@ e) a 17. § (2) bekezdés alapján építtetői fedezetkezelő működik közre.
 
 (3) Az építtető helyszíni képviselőjeként – ha a felek további feladatokról nem állapodtak meg – az építési műszaki ellenőr feladata:
 
-a)[^118] az Étv. 43. § (1) bekezdés e)–h) pontjában meghatározottak,
+a)[^119] az Étv. 43. § (1) bekezdés e)–h) pontjában meghatározottak,
 
-b)[^119] az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségének ellenőrzése a végleges építési (létesítési) engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján,
+b)[^120] az építőipari kivitelezési tevékenység, az építési-szerelési munka szakszerűségének ellenőrzése a végleges építési (létesítési) engedély és a hozzá tartozó jóváhagyott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció alapján,
 
-c)[^120] az építmény kitűzése helyességének, szükség esetén a geotechnikai, környezetvédelmi és egyéb felmérések, vizsgálatok megtörténtének ellenőrzése,
+c)[^121] az építmény kitűzése helyességének, szükség esetén a geotechnikai, környezetvédelmi és egyéb felmérések, vizsgálatok megtörténtének ellenőrzése,
 
 d) az építési napló(k) ellenőrzése, a bejegyzések és egyéb jegyzőkönyvek ellenjegyzése, észrevételezése,
 
@@ -28,13 +28,13 @@ e) a hibák, hiányosságok, eltérések feltüntetése az építési naplóban,
 
 f) a műszaki, illetve gazdasági szükségességből indokolt tervváltoztatásokkal kapcsolatos javaslatok megtétele az építtető részére,
 
-g)[^121] az eltakarásra kerülő szerkezetek ellenőrzésének elvégzése, a műszakilag indokolt további vizsgálatok meghatározása, az ellenőrzések és a vizsgálatok adatainak, valamint a szükséges intézkedések meghatározásának bejegyzése az építési naplóba.
+g)[^122] az eltakarásra kerülő szerkezetek ellenőrzésének elvégzése, a műszakilag indokolt további vizsgálatok meghatározása, az ellenőrzések és a vizsgálatok adatainak, valamint a szükséges intézkedések meghatározásának bejegyzése az építési naplóba.
 
-h)[^122] az átadás-átvételi eljárásban való részvétel,
+h)[^123] az átadás-átvételi eljárásban való részvétel,
 
 i) egyes építményfajták műszaki teljesítmény-jellemzőinek ellenőrzése, a technológiával összefüggő biztonsági előírások betartásának ellenőrzése,
 
-j)[^123] a beépített építési termékek teljesítmény nyilatkozatai meglétének ellenőrzése,
+j)[^124] a beépített építési termékek teljesítmény nyilatkozatai meglétének ellenőrzése,
 
 k) az építési műszaki ellenőri feladatok elvégzésének dokumentálása az építési naplóban,
 
@@ -44,60 +44,60 @@ m) műszaki kérdésekben javaslattétel (pl. szakértő bevonására),
 
 n) pénzügyi elszámolások, felmérések ellenőrzése,
 
-o)[^124] teljesítésigazolás
+o)[^125] teljesítésigazolás
 
 oa) kiállítása és átadása vagy megküldése a fővállalkozó részére,
 
-ob)[^125] rögzítése az építési naplóban
+ob)[^126] rögzítése az építési naplóban
 
 a fővállalkozó kivitelező által megküldött teljesítésről szóló értesítés kézhezvételétől – ha szerződés vagy jogszabály átadás-átvételi eljárást határoz meg, ennek lezárásától – számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül,
 
-p)[^126] az építtetővel az o) pontra vonatkozó eltérő megállapodás esetén műszaki igazolás kiállítása,
+p)[^127] az építtetővel az o) pontra vonatkozó eltérő megállapodás esetén műszaki igazolás kiállítása,
 
-q)[^127] a szerződésben meghatározott vállalkozói díj és a számlázható összegre tett javaslat eltérése esetén az eltérés indoklása és
+q)[^128] a szerződésben meghatározott vállalkozói díj és a számlázható összegre tett javaslat eltérése esetén az eltérés indoklása és
 
-r)[^128]
+r)[^129]
 
-s)[^129] a 13. § (3) bekezdés o)–p) pontjában foglaltak teljesülésének ellenőrzése.
+s)[^130] a 13. § (3) bekezdés o)–p) pontjában foglaltak teljesülésének ellenőrzése.
 
-(4)[^130] Ha az építőipari kivitelezési tevékenységet több fővállalkozó kivitelező végzi, az építési műszaki ellenőr összehangolja a felelős műszaki vezetők tevékenységét és gondoskodik arról, hogy az elvégzett építési-szerelési munkák (részmunkák) vonatkozásában az egyes fővállalkozó kivitelezők által tett nyilatkozatok – az építési napló részeként – a használatbavételi engedélyezési és tudomásulvételi eljárás, az egyszerű bejelentéshez kötött építési tevékenység megvalósulását igazoló hatósági bizonyítvány iránti kérelem benyújtásához rendelkezésre álljanak.
+(4)[^131] Ha az építőipari kivitelezési tevékenységet több fővállalkozó kivitelező végzi, az építési műszaki ellenőr összehangolja a felelős műszaki vezetők tevékenységét és gondoskodik arról, hogy az elvégzett építési-szerelési munkák (részmunkák) vonatkozásában az egyes fővállalkozó kivitelezők által tett nyilatkozatok – az építési napló részeként – a használatbavételi engedélyezési és tudomásulvételi eljárás, az egyszerű bejelentéshez kötött építési tevékenység megvalósulását igazoló hatósági bizonyítvány iránti kérelem benyújtásához rendelkezésre álljanak.
 
-(4a)[^131] Az építési műszaki ellenőr kötelező közreműködése legalább az építési beruházás induló kivitelezési munkáira vonatkozó kivitelezési szerződés megkötésétől az építési beruházás végszámla kiegyenlítéséig tart.
+(4a)[^132] Az építési műszaki ellenőr kötelező közreműködése legalább az építési beruházás induló kivitelezési munkáira vonatkozó kivitelezési szerződés megkötésétől az építési beruházás végszámla kiegyenlítéséig tart.
 
-(5)[^132] Az építési műszaki ellenőr hiba, hiányosság megállapításáról, a terv és a szerződés szerinti teljesítést befolyásoló minden körülményről köteles az építtetőt – az építési naplóban igazoltan – haladéktalanul értesíteni.
+(5)[^133] Az építési műszaki ellenőr hiba, hiányosság megállapításáról, a terv és a szerződés szerinti teljesítést befolyásoló minden körülményről köteles az építtetőt – az építési naplóban igazoltan – haladéktalanul értesíteni.
 
 (6) Az építési műszaki ellenőr megbízását írásba kell foglalni. A megbízási szerződés tartalmazza:
 
 a) az építtető nevét vagy megnevezését, címét vagy székhelyét, adószámát, elérhetőségét, továbbá a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
 
-b)[^133] az építési műszaki ellenőr megnevezését, nyilvántartási számát, névjegyzéki jelét és elérhetőségét, valamint e-építési napló vezetés esetén a NÜJ-ét,,
+b)[^134] az építési műszaki ellenőr megnevezését, nyilvántartási számát, névjegyzéki jelét és elérhetőségét, valamint e-építési napló vezetés esetén a NÜJ-ét,,
 
 c) építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő megnevezését, cégjegyzékszámát (a Magyar Államkincstár esetében törzskönyvi nyilvántartási számát), adószámát, címét, telefonszámát, elektronikus elérhetőségét,
 
 d) az építőipari kivitelezési tevékenység meghatározását, helyét, a kivitelezés várható kezdési és befejezési időpontját,
 
-e)[^134] az építési műszaki ellenőrnek a kivitelezési szerződés és az (5) bekezdés szerinti kötelezettsége teljesítéséhez kapcsolódó feladatait,
+e)[^135] az építési műszaki ellenőrnek a kivitelezési szerződés és az (5) bekezdés szerinti kötelezettsége teljesítéséhez kapcsolódó feladatait,
 
 f) az építési műszaki ellenőr díját, fizetési módját, határidejét,
 
 g) az építési műszaki ellenőrnek a jogszabályban meghatározott feladatokon és felelősségén kívüli további feladatait és felelősségét.
 
-[^116]: A 16. § (1) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^117]: A 16. § (1) bekezdés d) pontja a 156/2016. (VI. 13.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^118]: A 16. § (3) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § i) pontja szerint módosított szöveg.
-[^119]: A 16. § (3) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont ka) alpontja, a 457/2017. (XII. 28.) Korm. rendelet 257. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^120]: A 16. § (3) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 10. pontja szerint módosított szöveg.
-[^121]: A 16. § (3) bekezdés g) pontja a 62/2014. (III. 6.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
-[^122]: A 16. § (3) bekezdés h) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 9. pontja szerint módosított szöveg.
-[^123]: A 16. § (3) bekezdés j) pontja a 322/2012. (XI. 16.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
-[^124]: A 16. § (3) bekezdés o) pontja a 322/2012. (XI. 16.) Korm. rendelet 71. § (2) bekezdésével megállapított szöveg.
-[^125]: A 16. § (3) bekezdés o) pont ob) alpontja a 62/2014. (III. 6.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^126]: A 16. § (3) bekezdés p) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^127]: A 16. § (3) bekezdés q) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^128]: A 16. § (3) bekezdés r) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont kb) alpontja.
-[^129]: A 16. § (3) bekezdés s) pontját a 322/2012. (XI. 16.) Korm. rendelet 71. § (3) bekezdése iktatta be.
-[^130]: A 16. § (4) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. [A 700/2020. (XII. 29.) Korm. rendelet 5. § c) pontjával elrendelt módosítás, amely szerint az „engedély iránti” szövegrész helyébe az „engedély vagy tudomásulvétel, az Étv. 33/A. §-a szerinti esetben a hatósági bizonyítvány kiadása iránti” szöveg lép, nem vezethető át.]
-[^131]: A 16. § (4a) bekezdését a 266/2013. (VII. 11.) Korm. rendelet 51. § (1) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
-[^132]: A 16. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 12. pontja szerint módosított szöveg.
-[^133]: A 16. § (6) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 13. pontja, a 482/2016. (XII. 28.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^134]: A 16. § (6) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 14. pontja szerint módosított szöveg.
+[^117]: A 16. § (1) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^118]: A 16. § (1) bekezdés d) pontja a 156/2016. (VI. 13.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^119]: A 16. § (3) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § i) pontja szerint módosított szöveg.
+[^120]: A 16. § (3) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont ka) alpontja, a 457/2017. (XII. 28.) Korm. rendelet 257. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^121]: A 16. § (3) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 10. pontja szerint módosított szöveg.
+[^122]: A 16. § (3) bekezdés g) pontja a 62/2014. (III. 6.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
+[^123]: A 16. § (3) bekezdés h) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 9. pontja szerint módosított szöveg.
+[^124]: A 16. § (3) bekezdés j) pontja a 322/2012. (XI. 16.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
+[^125]: A 16. § (3) bekezdés o) pontja a 322/2012. (XI. 16.) Korm. rendelet 71. § (2) bekezdésével megállapított szöveg.
+[^126]: A 16. § (3) bekezdés o) pont ob) alpontja a 62/2014. (III. 6.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^127]: A 16. § (3) bekezdés p) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^128]: A 16. § (3) bekezdés q) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^129]: A 16. § (3) bekezdés r) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (6) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 93. § k) pont kb) alpontja.
+[^130]: A 16. § (3) bekezdés s) pontját a 322/2012. (XI. 16.) Korm. rendelet 71. § (3) bekezdése iktatta be.
+[^131]: A 16. § (4) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. [A 700/2020. (XII. 29.) Korm. rendelet 5. § c) pontjával elrendelt módosítás, amely szerint az „engedély iránti” szövegrész helyébe az „engedély vagy tudomásulvétel, az Étv. 33/A. §-a szerinti esetben a hatósági bizonyítvány kiadása iránti” szöveg lép, nem vezethető át.]
+[^132]: A 16. § (4a) bekezdését a 266/2013. (VII. 11.) Korm. rendelet 51. § (1) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
+[^133]: A 16. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 12. pontja szerint módosított szöveg.
+[^134]: A 16. § (6) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 13. pontja, a 482/2016. (XII. 28.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^135]: A 16. § (6) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 14. pontja szerint módosított szöveg.

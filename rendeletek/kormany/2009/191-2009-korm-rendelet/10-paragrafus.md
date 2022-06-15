@@ -1,3 +1,3 @@
-10. §[^77]
+10. §[^78]
 
-[^77]: A 10. §-t és az azt megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 93. § h) pontja hatályon kívül helyezte.
+[^78]: A 10. §-t és az azt megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 93. § h) pontja hatályon kívül helyezte.
