@@ -6,7 +6,7 @@
 
 (2)[^74] A fix telepítésű, ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezések birtokosa a fizikai védelem biztosításához:
 
-a)[^75] az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendelet szerint alkalmazza;
+a)[^75] Svr. rendeletet alkalmazza;
 
 b) a berendezést magában foglaló helyiséget zárható ajtókkal látja el, és az ajtókat zárt állapotban tartja, amikor a helyiség nincs használatban;
 
@@ -30,7 +30,7 @@ e) naprakész nyilvántartást vezet, amely tartalmazza a berendezés elvitelén
 
 (4) A fix és mobil telepítésű, ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezések fizikai védelmének ellenőrzésére vonatkozóan a 34. § rendelkezéseit kell alkalmazni.
 
-(5)[^78] A fix és mobil telepítésű ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés birtokosa az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendeletnek megfelelő, az ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés üzemeltetésére jogosító engedélykérelemben köteles bemutatni a (2) és (3) bekezdésben foglalt követelmények megvalósításának módját.
+(5)[^78] A fix és mobil telepítésű ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés birtokosa Svr. rendeletnek megfelelő, az ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés üzemeltetésére jogosító engedélykérelemben köteles bemutatni a (2) és (3) bekezdésben foglalt követelmények megvalósításának módját.
 
 (6)[^79]
 
@@ -44,10 +44,10 @@ e) naprakész nyilvántartást vezet, amely tartalmazza a berendezés elvitelén
 
 [^73]: A VIII. fejezet címe a 488/2015. (XII. 30.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
 [^74]: A 35. § (2) bekezdése a 37/2012. (III. 9.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^75]: A 35. § (2) bekezdés a) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^75]: A 35. § (2) bekezdés a) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (6) bekezdés b) pontja, a 209/2022. (VI. 15.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^76]: A 35. § (2) bekezdés d) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (6) bekezdés c) pontja szerint módosított szöveg.
 [^77]: A 35. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^78]: A 35. § (5) bekezdése a 488/2015. (XII. 30.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^78]: A 35. § (5) bekezdése a 488/2015. (XII. 30.) Korm. rendelet 4. § (8) bekezdésével megállapított, a 209/2022. (VI. 15.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^79]: A 35. § (6) bekezdését a 357/2014. (XII. 29.) Korm. rendelet 4. § (10) bekezdése iktatta be, hatályon kívül helyezte a a 488/2015. (XII. 30.) Korm. rendelet 6. § b) pontja.
 [^80]: A 35. § (7) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (9) bekezdése iktatta be.
 [^81]: A 35. § (8) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (9) bekezdése iktatta be, szövege a 36/2020. (III. 5.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
