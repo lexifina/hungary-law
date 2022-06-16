@@ -1,3 +1,5 @@
 ## 4. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ármegállapítási eljárásokban is alkalmazni kell.
 
-5. § Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 627/2021. (XI. 15.) Korm. rendelet.
+5. §[^2]
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
