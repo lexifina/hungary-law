@@ -1,4 +1,4 @@
-## 10. §[^4]
+## 10. §[^10]
 
 ## 10. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és a 8–10. § az e rendelet kihirdetését követő 15. napon lép hatályba.
 
-[^4]: A 10. § a 11. § (2) bekezdése alapján 2022. június 29-én lép hatályba.
+[^10]: A 10. § a 11. § (2) bekezdése alapján 2022. június 29-én lép hatályba.

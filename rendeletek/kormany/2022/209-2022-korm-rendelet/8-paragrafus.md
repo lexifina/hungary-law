@@ -1,5 +1,5 @@
-## 7. § Az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló 275/2013. (VII. 16.) Korm. rendelet 4. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(8) Az Országos Atomenergia Hivatal elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendeletében (a továbbiakban: Svr.) meghatározott természetes anyagokból készült építőanyagok és a természetben előforduló radioaktív anyagokat feldolgozó iparágak maradékanyagait tartalmazó anyagok építési termékként épületbe történő betervezése és beépítése esetén figyelembe kell venni az Svr.-ben az építőanyagok által kibocsátott gamma-sugárzásra vonatkozóan meghatározott követelményeket.”
+## 7. §[^7]
 
 ## 8. A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet módosítása
+
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
