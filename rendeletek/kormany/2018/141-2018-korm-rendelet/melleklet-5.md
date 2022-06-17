@@ -12,7 +12,7 @@
 
 | 5 | 658071.3958 | 259423.9254 |
 
-5. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^305]
+5. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^308]
 
 ## Budapest, XIV. kerület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek területén ingatlanrészek területi lehatárolása a területek határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
@@ -284,4 +284,4 @@
 
 | 13. | 655078.35 | 241934.77 |
 
-[^305]: Az 5. mellékletet a 436/2021. (VII. 16.) Korm. rendelet 3. §-a iktatta be, szövege a 620/2021. (XI. 8.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^308]: Az 5. mellékletet a 436/2021. (VII. 16.) Korm. rendelet 3. §-a iktatta be, szövege a 620/2021. (XI. 8.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
