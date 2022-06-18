@@ -4,4 +4,4 @@
 
 (2) Minden kedvezményezett írásbeli beszámolási kötelezettséggel tartozik az Ügynökség felé az adomány felhasználását követő hatvan napon belül. Amennyiben e kötelezettségének a kedvezményezett nem tesz eleget, köteles az adomány teljes összegének a visszafizetésére.
 
-(3) Az Ügynökség felett a tulajdonosi jogokat a Miniszterelnökség (a továbbiakban: tulajdonosi joggyakorló) gyakorolja.
+(3) Az Ügynökség felett a tulajdonosi jogokat az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: tulajdonosi joggyakorló) gyakorolja.

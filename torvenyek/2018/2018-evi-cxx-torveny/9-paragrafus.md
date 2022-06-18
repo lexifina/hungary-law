@@ -20,6 +20,6 @@ g) az Ügynökség által szükségesnek tartott további, személyes adatnak ne
 
 (4) Az (3) bekezdésben meghatározott személyes adatokat az Ügynökség 5 évig kezeli.
 
-(5) A Kormánynak az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős tagja (a továbbiakban: miniszter) szükség szerint, de legalább évente egyszer, május 31-ig tájékoztatja a Kormányt az Ügynökség tevékenységéről és működéséről.
+(5) A miniszter szükség szerint, de legalább évente egyszer, május 31-ig tájékoztatja a Kormányt az Ügynökség tevékenységéről és működéséről.
 
 (6) A Kormány évente egyszer beszámol az Országgyűlésnek az Ügynökség előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót a honlapon nyilvánosságra kell hozni.
