@@ -1,3 +1,3 @@
-5. §[^9]
+5. §[^10]
 
-[^9]: Az 5. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 12. pontja alapján nem lépett hatályba.
+[^10]: Az 5. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 12. pontja alapján nem lépett hatályba.
