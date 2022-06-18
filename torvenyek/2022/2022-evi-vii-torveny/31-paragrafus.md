@@ -1,0 +1,3 @@
+## 17. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
+
+31. § Hatályát veszti az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja.

@@ -1,0 +1,3 @@
+## 6. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
+
+7. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § t) pontjában az „a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja” szövegrész helyébe az „a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja” szöveg lép.

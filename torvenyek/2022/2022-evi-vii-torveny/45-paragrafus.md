@@ -1,0 +1,5 @@
+## 21. A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény módosítása
+
+45. § A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/J. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a fővárosi és megyei kormányhivatal ügyfélszolgálatai, a járási (fővárosi kerületi) hivatal kormányablakai, illetve a települési ügysegéd az e törvény, illetve a végrehajtására kiadott rendelet szerinti aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhető ügytípusok tekintetében – ha az ügyintézés feltételei nem állnak fenn – aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta mellőzésével is eljárhat.”

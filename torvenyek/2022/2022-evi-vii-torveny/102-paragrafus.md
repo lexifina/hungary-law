@@ -1,0 +1,1 @@
+102. § A Nemzeti Kulturális Tanácsról, a kultúrstratégiai intézményekről, valamint egyes kulturális vonatkozású törvények módosításáról szóló 2019. évi CXXIV. törvény 5. § (3) bekezdés nyitó szövegrészében az „elnökén” szövegrész helyébe az „elnökén és társelnökén” szöveg lép.

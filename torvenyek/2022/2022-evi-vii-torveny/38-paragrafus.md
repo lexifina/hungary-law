@@ -1,0 +1,5 @@
+38. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. §-a helyébe a következő rendelkezés lép:
+
+„31. § (1) Az egyidejűleg politikai felsővezetői vagy szakmai felsővezetői megbízatást is betöltő kormánybiztos, illetve miniszterelnöki biztos ezen tevékenységére tekintettel a miniszterelnök által meghatározott mértékű díjazást kaphat, ha tevékenysége eredeti feladatkörével nem függ össze. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
+
+(2) A politikai felsővezetői vagy szakmai felsővezetői megbízatást be nem töltő kormánybiztos, illetve miniszterelnöki biztos a miniszterelnök által meghatározott mértékű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A Kormány a kormánybiztos kinevezéséről szóló normatív határozatában, a miniszterelnök a miniszterelnöki biztos kinevezéséről szóló normatív utasításában a kormánybiztos, illetve a miniszterelnöki biztos díjazását és juttatásait ennél alacsonyabb mértékben is megállapíthatja. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.”
