@@ -14,7 +14,7 @@ d) dönt az Országgyűlés által az éves költségvetésben a nemzetközi seg
 
 e) háromévente jelentést készít az Országgyűlésnek és a Kormánynak a főbb természeti csapásokra és az ember okozta katasztrófákra kiterjedő kockázatelemzésekről, a katasztrófák elleni védekezésre történő felkészülés helyzetéről, illetve a védekezésről,
 
-f) gondoskodik a polgári veszélyhelyzeti tervezés (a továbbiakban: NATO CEP) katasztrófavédelmi feladatainak hazai koordinálásáról és végrehajtásáról, melynek érdekében biztosítja a képviseletet a NATO Polgári Veszélyhelyzeti Tervezési Bizottságban (a továbbiakban: NATO CEPC), ellátja a NATO CEPC katasztrófavédelmi szerveivel való kapcsolattartást,
+f) gondoskodik a polgári veszélyhelyzeti tervezés katasztrófavédelmi feladatainak hazai koordinálásáról és végrehajtásáról, amelynek érdekében biztosítja a képviseletet a NATO Reziliencia Bizottságban (a továbbiakban: NATO RC), ellátja a NATO RC katasztrófavédelmi szerveivel való kapcsolattartást,
 
 g) gondoskodik az EU polgári védelmi tevékenységének hazai koordinálásáról és végrehajtásáról, ennek keretében biztosítja a kapcsolattartást és a képviseletet az EU intézményeiben,
 

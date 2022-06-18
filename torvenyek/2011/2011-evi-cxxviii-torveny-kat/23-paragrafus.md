@@ -40,9 +40,9 @@ l) irányítja a veszélyes áruk szállításának ellenőrzésével kapcsolato
 
 a) közreműködik a katasztrófavédelemmel kapcsolatos nemzetközi szerződések szakmai előkészítésében, részt vesz a nemzetközi együttműködésben, ennek keretében folyamatos kapcsolatot tart fenn a nemzetközi katasztrófavédelmi szervezetekkel,
 
-b) jelöli a NATO CEPC munkájában az állandó képviseletet ellátó összekötő személyét,
+b) jelöli a NATO RC munkájában az állandó képviseletet ellátó összekötő személyét,
 
-c) jelöli a NATO CEPC alá tartozó polgári védelmi bizottság (CPG) munkájában a nemzeti szakmai képviseletet ellátó személyt,
+c) jelöli a NATO RC alá tartozó polgári védelmi bizottság (CPG) munkájában a nemzeti szakmai képviseletet ellátó személyt,
 
 d) biztosítja a nemzetközi szervezetekkel, így különösen az EU és a NATO polgári védelmi gyorsriasztó és információs rendszereivel való kapcsolattartást, előkészíti, koordinálja és biztosítja a nemzetközi szervezetekben és azok szakmai testületeiben való érdekképviseletet,
 
