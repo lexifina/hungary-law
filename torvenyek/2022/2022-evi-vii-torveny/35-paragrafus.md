@@ -1,3 +1,3 @@
-## 19. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
+## 19.
 
-35. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 24. § (2) bekezdés p) pont pb) alpontjában az „a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben (a továbbiakban: Hvt.) meghatározott feladatai ellátására a Hvt. 42. § (1) bekezdésében” szövegrész helyébe az „a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvényben (a továbbiakban: Hvt.) meghatározott feladatai ellátására a Hvt. 53. § (1) bekezdésében” szöveg lép.
+35. §

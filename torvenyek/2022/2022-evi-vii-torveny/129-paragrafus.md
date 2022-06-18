@@ -15,7 +15,3 @@ f) 119. §-a, 121. §-a, 124. § (1) bekezdés a) pontja és 127. § (1) bekezd�
 g) 122. §-a, 123. §-a és 124. § (1) bekezdés b) és c) pontja az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, 52. cikk (5) bekezdése és 54. cikk (8) bekezdése alapján
 
 sarkalatosnak minősül.
-
-Novák Katalin s. k., Kövér László s. k.,
-
-köztársasági elnök az Országgyűlés elnöke

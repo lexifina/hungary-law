@@ -1,3 +1,1 @@
-114. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 91. §-a a következő (2a) bekezdéssel kiegészülve lép hatályba:
-
-„(2a) Felhatalmazást kap a Kormány, hogy rendeletben a 87/A. § (1) bekezdése szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.”
+114. §
