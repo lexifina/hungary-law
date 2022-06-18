@@ -1,11 +1,5 @@
 ## 5. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-1. melléklet a 211/2022. (VI. 14.) Korm. rendelethez
+1. melléklet a 211/2022. (VI. 14.) Korm. rendelethez[^6]
 
-Az R. 2. mellékletében foglalt táblázat a következő 101. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1 | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt kormánymegbízott) |
-
-| 101. | A Zalmon lazacfarm megvalósítására vonatkozó beruházás | Zalaegerszeg külterületén elhelyezkedő 0828/68 helyrajzi számú és a beruházáshoz kapcsolódó közműépítéssel érintett ingatlanok | – |
+[^6]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
