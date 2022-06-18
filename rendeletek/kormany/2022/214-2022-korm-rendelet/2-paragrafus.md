@@ -1,0 +1,3 @@
+## 1. § Az árak megállapításáról szóló 1990. évi LXXXVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 6/2022. (I. 14.) Korm. rendelet 1. § (1) bekezdésében a „2022. július 1.” szövegrész helyébe a „2022. október 1.” szöveg lép.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
