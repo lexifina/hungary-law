@@ -2,7 +2,7 @@
 
 a) a független vagy ideiglenes vagyonértékelés jóváhagyása,
 
-b)[^24] a szanálási feltételek fennállta tényének megállapítása,
+b)[^32] a szanálási feltételek fennállta tényének megállapítása,
 
 c) a szanálási biztos kirendelése és visszahívása,
 
@@ -20,11 +20,11 @@ i) a szavatolótőkére, leírható és átalakítható kötelezettségekre vona
 
 j) a szanálhatóság értékelésére irányuló eljárás szanálhatóság jelentős akadályának megállapításával történő lezárása,
 
-k) a rendszerszinten jelentős intézmények esetében bírság alkalmazása,
+k)[^33] a jogsértés folytatásától való eltiltás, a vezetői állású személyek legfeljebb hat hónapig terjedő felfüggesztése, pénzbírság kiszabása, valamint a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény megsértése esetén, egyes nyereségkifizetések megtiltása szankció alkalmazása,
 
-l)[^25] engedélyezési eljárás során az engedélyezés tárgyában hozott érdemi döntés,
+l)[^34] engedélyezési eljárás során az engedélyezés tárgyában hozott érdemi döntés,
 
-m)[^26] a szanálási hatósági feladatok ellátásához szükséges, a (2) bekezdésben nem nevesített döntések.
+m)[^35] a szanálási hatósági feladatok ellátásához szükséges, a (2) bekezdésben nem nevesített döntések.
 
 (2) A Szanálási igazgatóság igazgatója hoz döntést az 1. § b) pontja szerinti, az (1) bekezdésbe nem tartozó következő esetekben:
 
@@ -42,7 +42,7 @@ f) a szanálhatóság értékelésére irányuló eljárás szanálhatóság jel
 
 g) rendkívüli adatszolgáltatási kötelezettség előírása,
 
-h) a nem rendszerszinten jelentős intézmények esetében bírság alkalmazása,
+h)[^36]
 
 i) a szanálási hatóság által folytatott vizsgálatot akadályozó jogsértő magatartástól való eltiltás és bírság alkalmazása,
 
@@ -58,6 +58,8 @@ n) az értékelés elvégzésének tűrésére és az értékelésben való köz
 
 o) a szanálhatósági akadály kiküszöbölésére irányuló felhívás.
 
-[^24]: A 3. § (1) bekezdés b) pontja a 4/2021. (I. 28.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
-[^25]: A 3. § (1) bekezdés l) pontja a 4/2021. (I. 28.) MNB rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^26]: A 3. § (1) bekezdés m) pontját a 4/2021. (I. 28.) MNB rendelet 1. § (8) bekezdése iktatta be.
+[^32]: A 3. § (1) bekezdés b) pontja a 4/2021. (I. 28.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
+[^33]: A 3. § (1) bekezdés k) pontja a 23/2022. (VI. 17.) MNB rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^34]: A 3. § (1) bekezdés l) pontja a 4/2021. (I. 28.) MNB rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^35]: A 3. § (1) bekezdés m) pontját a 4/2021. (I. 28.) MNB rendelet 1. § (8) bekezdése iktatta be.
+[^36]: A 3. § (2) bekezdés h) pontját a 23/2022. (VI. 17.) MNB rendelet 3. § (1) bekezdés g) pontja hatályon kívül helyezte.

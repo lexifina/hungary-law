@@ -16,7 +16,7 @@ f) az osztályvezetőt az SZMSZ szerinti közvetlen felettes vezetője,
 
 g) a vizsgálatvezetőt az SZMSZ szerinti közvetlen felettes vezetője
 
-## helyettesíti.
+helyettesíti.
 
 (2) A hatáskörgyakorlásra jogosult vezetői munkakör betöltetlensége esetén, helyettes kijelölésének, megbízásának hiányában, továbbá a hatáskörgyakorlásra jogosult és helyettese egyidejű távolléte vagy akadályoztatása esetén, az SZMSZ szerinti közvetlen felettes vezető a hatáskör gyakorlója.
 

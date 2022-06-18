@@ -9,3 +9,5 @@ b) – a külön törvényben meghatározott szanálást elrendelő, valamint sz
 c) az MNB tv. 4. § (7) bekezdése szerinti makroprudenciális feladatkör gyakorlásával kapcsolatos hatósági eljárásokban,
 
 d) a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény 18. § (1) bekezdése, 30. § (1) bekezdése és 31. § (1) bekezdése szerinti feladatkör gyakorlásával kapcsolatos hatósági eljárásokban
+
+hozott hatósági döntések meghozatala és – az MNB tv. eltérő rendelkezése hiányában – aláírása során kell alkalmazni.
