@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-6-20-22
 | 2022-02-15 | 2022-6-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-04-29 | 2022-6-20-22.3 | 162/2022. (IV. 28.) Korm. rendelet |
 | 2022-06-01 | 2022-6-20-22.4 | 2021. évi I. törvény |
+| 2022-06-18 | 2022-6-20-22.5 | 214/2022. (VI. 17.) Korm. rendelet |
