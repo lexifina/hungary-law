@@ -1,1 +1,1 @@
-41. § A miniszterelnök a miniszterelnök politikai igazgatója részére az e törvényben meghatározott javadalmazásra vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg a 39/A. §-ban foglaltak alapján azzal, hogy a személyi illetmény havi összege nem haladhatja meg a bármely miniszter részére a 39/A. § (3) bekezdése alapján megállapítható személyi illetmény havi legnagyobb összegét.
+41. §

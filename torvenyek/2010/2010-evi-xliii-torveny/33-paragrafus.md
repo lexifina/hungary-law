@@ -2,4 +2,4 @@
 
 (2)
 
-(3) A megbízás díjazásaként a miniszterelnöki megbízott részére legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki.
+(3) A megbízás díjazásaként a miniszterelnöki megbízott részére a miniszterelnök által meghatározott mértékű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki.
