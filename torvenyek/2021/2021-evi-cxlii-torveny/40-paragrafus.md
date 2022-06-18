@@ -6,4 +6,4 @@
 
 (3) Az 1. alcím, a 2. alcím, az 5. alcím, a 21–24. §, a 7. alcím, a 8. alcím és a 11. alcím 2023. január 1-jén lép hatályba.
 
-(4) A 9. alcím és a 10. alcím 2023. július 1-jén lép hatályba.
+(4) A 9. alcím és a 10. alcím 2022. november 1-jén lép hatályba.
