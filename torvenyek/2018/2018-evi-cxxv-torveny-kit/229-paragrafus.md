@@ -4,6 +4,6 @@
 
 (2) A közigazgatási államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
-(3) A közigazgatási államtitkár kormányzati szolgálati jogviszonyával kapcsolatosan a munkáltatói jogkört – az e tisztségbe való kinevezés és az abból való felmentés kivételével – a miniszter gyakorolja. A kormányzati szolgálati jogviszonyból származó igények érvényesítése érdekében indított eljárásban munkáltatóként a miniszter jár el.
+(3) A közigazgatási államtitkár kormányzati szolgálati jogviszonyával kapcsolatosan a munkáltatói jogkört – az e tisztségbe való kinevezés és az abból való felmentés, valamint az illetmény megállapítása kivételével – a miniszter gyakorolja. A kormányzati szolgálati jogviszonyból származó igények érvényesítése érdekében indított eljárásban munkáltatóként a miniszter jár el.
 
 (4) A kinevezett közigazgatási államtitkár a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.

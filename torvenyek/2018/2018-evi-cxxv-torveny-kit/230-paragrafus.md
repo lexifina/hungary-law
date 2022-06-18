@@ -1,3 +1,3 @@
 ### 230. § [A közigazgatási államtitkár illetménye]
 
-A közigazgatási államtitkár az 1. mellékletben meghatározott közigazgatási államtitkári álláshely szerinti illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója teljesítményértékelés nélkül, mérlegelés alapján állapítja meg.
+A közigazgatási államtitkár a miniszterelnök által megállapított mértékű illetményre jogosult. A közigazgatási államtitkár illetménye eltérhet az 1. mellékletben meghatározott illetménysáv felső határától.

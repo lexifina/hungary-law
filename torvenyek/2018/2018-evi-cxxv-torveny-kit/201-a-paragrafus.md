@@ -10,6 +10,8 @@
 
 (3) A miniszterelnök politikai igazgatója a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
+(3a) A miniszterelnök politikai igazgatója – a kinevezését követően – a miniszterelnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
+
 (4) A miniszterelnök a miniszterelnök politikai igazgatója részére a politikai felsővezetői tisztség betöltésének igazolása céljából igazolványt állít ki. Az igazolvány a miniszterelnök politikai igazgatója nevét, arcképmását és a betöltött tisztség megnevezését tartalmazza.
 
 (5) A miniszterelnök politikai igazgatója tekintetében a munkáltatói jogokat a miniszterelnök gyakorolja.
