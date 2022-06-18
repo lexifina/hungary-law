@@ -6,7 +6,9 @@
 
 (2) A Tanács elnökét a Kormány határozatában nevezi ki és menti fel.
 
-(3) A Tanács elnökén túl a Tanács tagjai
+(2a) A Tanács társelnöke a kultúráért felelős miniszter.
+
+(3) A Tanács elnökén és társelnökén túl a Tanács tagjai
 
 a) a Magyar Művészeti Akadémia elnöke,
 
