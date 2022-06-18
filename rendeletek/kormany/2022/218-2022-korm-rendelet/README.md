@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-218-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-06-17 | 2022-218-20-22.1 | 218/2022. (VI. 17.) Korm. rendelet |
+| 2022-06-18 | 2022-218-20-22.2 | 2010: CXXX. törvény |
