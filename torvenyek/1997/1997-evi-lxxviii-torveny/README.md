@@ -80,3 +80,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2021-12-22 | 2021. évi CXLVI. törvény | 1997-78-00-00.106 |
 | 2022-01-01 | 2021. évi LXIII. törvény | 1997-78-00-00.107 |
 | 2022-05-25 | 2022. évi IV. törvény | 1997-78-00-00.108 |
+| 2022-06-18 | 2022. évi VII. törvény | 1997-78-00-00.109 |
