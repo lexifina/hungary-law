@@ -1,1 +1,1 @@
-49. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 23. § (5) bekezdés b) és c) pontjában a „CEPC” szövegrész helyébe az „RC” szöveg lép.
+49. §

@@ -2,6 +2,6 @@
 
 a)
 
-b) 140. § d) pontjában a „szociál- és nyugdíjpolitikáért felelős miniszterrel” szövegrész helyébe a „szociálpolitikáért felelős miniszterrel”
+b)
 
 szöveg lép.

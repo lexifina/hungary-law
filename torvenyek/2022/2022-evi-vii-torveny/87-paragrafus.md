@@ -1,5 +1,3 @@
 ## 41. Az egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról szóló 2017. évi LXXIV. törvény módosítása
 
-87. § Az egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról szóló 2017. évi LXXIV. törvény a következő 5/A. §-sal egészül ki:
-
-„5/A. § Az állam, vagy az állam javára eljáró építtető a 2. § alapján ingyenesen tulajdonba adott ingatlanokon központi költségvetési forrásból finanszírozott beruházási és felújítási tevékenységet (e § vonatkozásában a továbbiakban együtt: Beruházás) végezhet. A Beruházás során létrejött ingó és ingatlan vagyonelemek e törvény erejénél fogva ingyenesen a Konstantinápolyi Egyetemes Patriarchátus – Magyarországi Ortodox Exarchátus tulajdonába kerülnek. A Beruházás műszaki átadás-átvételének lebonyolítását követően, a munkaterület kivitelező által az állam, vagy az állam javára eljáró építtető részére történő visszaadását követő napon a Beruházás során létrejött ingó és ingatlan vagyonelemeket az állam, vagy az állam javára eljáró építtető az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a Konstantinápolyi Egyetemes Patriarchátus – Magyarországi Ortodox Exarchátusnak.”
+87. §
