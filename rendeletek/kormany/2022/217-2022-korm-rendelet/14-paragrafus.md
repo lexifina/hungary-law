@@ -1,11 +1,11 @@
-## 13. § A 670/2021. (XII. 2.) Korm. rendelet a következő 1/A. §-sal egészül ki:
-
-## „1/A. § Az 1. § szerinti villamosenergia-vásárlási szerződést kötni újonnan legfeljebb a veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelet hatálybalépéséig lehet.”
+## 13. §[^2]
 
 ## 14. § Hatályát veszti
 
-a) a 670/2021. (XII. 2.) Korm. rendelet, valamint
+a)[^3]
 
-b)[^2]
+b)[^4]
 
-[^2]: A 14. § b) pontja a 11. § (3) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 14. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14. § b) pontja a 11. § (3) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
