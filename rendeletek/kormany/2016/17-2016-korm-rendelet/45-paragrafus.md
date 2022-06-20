@@ -1,10 +1,10 @@
 ## a kormányhivatal ennek tényéről a tárgyhónapot követő hónap 20. napjáig elektronikus úton értesíti az állami adóhatóságot és a hitelintézetet.
 
-## 13. [^211] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
+## 13. [^212] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
 
 45. § (1) A családi otthonteremtési kedvezményt az állam nevében a Kincstár nyújtja.
 
-(2)[^212] A hitelintézetet az általa jogszerűen folyósított
+(2)[^213] A hitelintézetet az általa jogszerűen folyósított
 
 a) családi otthonteremtési kedvezmény összege után
 
@@ -38,5 +38,5 @@ c) 14b. alcím szerinti otthonfelújítási kölcsön összege után 1,5% – az
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^211]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^212]: A 45. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^212]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^213]: A 45. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

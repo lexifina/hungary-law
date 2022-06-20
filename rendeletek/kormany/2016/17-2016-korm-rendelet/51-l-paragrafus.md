@@ -2,6 +2,6 @@
 
 (2) Az otthonfelújítási kölcsön kamatainak megfizetéséhez a kamattámogatást az állam a kölcsön teljes futamidejére, legfeljebb 10 évre nyújtja.
 
-(3)[^233] A kamattámogatást ugyanazon igénylő egy alkalommal veheti igénybe.
+(3)[^234] A kamattámogatást ugyanazon igénylő egy alkalommal veheti igénybe.
 
-[^233]: Az 51/L. § (3) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 16. §-a iktatta be.
+[^234]: Az 51/L. § (3) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 16. §-a iktatta be.

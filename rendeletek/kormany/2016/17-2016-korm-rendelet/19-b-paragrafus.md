@@ -22,9 +22,9 @@ j) a korszerűsítéshez közvetlenül kapcsolódó helyreállítási munka, a k
 
 (2) A korszerűsítéshez igényelt családi otthonteremtési kedvezményből több, (1) bekezdés szerinti munkálat elvégzése is támogatható.
 
-(3)[^97] A 19/A. § (4) bekezdés a) vagy c) pontja, valamint (6) bekezdés a) vagy c) pontja szerinti támogatás igénybevétele esetén az igénylő a támogatási szerződésben vállalja, hogy a 14. § (3) bekezdés e) pontja szerinti számlabemutatási kötelezettsége keretében nem nyújt be olyan számlát, amelyet a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet alapján ugyanazon lakásra nyújtott otthonfelújítási támogatás kapcsán már elszámoltak.
+(3)[^98] A 19/A. § (4) bekezdés a) vagy c) pontja, valamint (6) bekezdés a) vagy c) pontja szerinti támogatás igénybevétele esetén az igénylő a támogatási szerződésben vállalja, hogy a 14. § (3) bekezdés e) pontja szerinti számlabemutatási kötelezettsége keretében nem nyújt be olyan számlát, amelyet a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet alapján ugyanazon lakásra nyújtott otthonfelújítási támogatás kapcsán már elszámoltak.
 
-(4)[^98] A 19/A. § (4) bekezdés a) vagy c) pontja, valamint (6) bekezdés a) vagy c) pontja szerinti támogatás igénybevétele esetén a hitelintézet a 14. § (3) bekezdés e) pontja szerinti számlabemutatási kötelezettség keretében benyújtott és elszámolt, letörölhetetlen jelzéssel ellátott számlákat feltölti a lakáscélú támogatások kapcsán elszámolt számlák ellenőrzésére szolgáló elektronikus rendszerbe.
+(4)[^99] A 19/A. § (4) bekezdés a) vagy c) pontja, valamint (6) bekezdés a) vagy c) pontja szerinti támogatás igénybevétele esetén a hitelintézet a 14. § (3) bekezdés e) pontja szerinti számlabemutatási kötelezettség keretében benyújtott és elszámolt, letörölhetetlen jelzéssel ellátott számlákat feltölti a lakáscélú támogatások kapcsán elszámolt számlák ellenőrzésére szolgáló elektronikus rendszerbe.
 
-[^97]: A 19/B. § (3) bekezdését az 518/2020. (XI. 25.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^98]: A 19/B. § (4) bekezdését az 518/2020. (XI. 25.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^98]: A 19/B. § (3) bekezdését az 518/2020. (XI. 25.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^99]: A 19/B. § (4) bekezdését az 518/2020. (XI. 25.) Korm. rendelet 16. § (2) bekezdése iktatta be.
