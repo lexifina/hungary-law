@@ -138,6 +138,8 @@ VII. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
 | 6. | Magyar Védelmi Exportügynökség Zártkörűen Működő Részvénytársaság | 01-10-141670 | 2026. december 31. |
 
+| 7. | HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság | 01-10-042134 | 2026. december 31. |
+
 VIII. Tulajdonosi joggyakorló: az Igazságügyi Minisztérium
 
 |  | A | B | C |
@@ -285,4 +287,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 [^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 7. § szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a szerint módosított szöveg.
