@@ -8,4 +8,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: az e kormányhatározat közzétételét követő nap
 
-c) visszavonja az Európai Beruházási Bank Kormányzótanácsában a Magyar Köztársaságot képviselő kormányzó kijelöléséről szóló 2089/2004. (IV. 27.) Korm. határozatot.
+c)[^1]
+
+[^1]: A c) pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
