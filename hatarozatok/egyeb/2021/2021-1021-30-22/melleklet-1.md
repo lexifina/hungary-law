@@ -24,7 +24,7 @@
 
 ## Határidő: azonnal
 
-## c) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 119 130 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a 3. melléklet szerint;
+## c)[^2] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 119 130 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -38,7 +38,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2022. június 1.
+## Határidő: 2023. június 1.
 
 ## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 850 632 626 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
 
@@ -54,9 +54,10 @@
 
 ## Határidő: azonnal
 
-## 2.[^2]
+## 2.[^3]
 
 1. melléklet az 1021/2021. (II. 2.) Korm. határozathoz
 
 [^1]: Az 1. pont a) alpontja az 1953/2021. (XII. 22.) Korm. határozat 10. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont c) alpontja az 1302/2022. (VI. 22.) Korm. határozat 19. pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
