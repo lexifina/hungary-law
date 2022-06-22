@@ -6,7 +6,7 @@
 
 ## 4. a Beruházásnak a Beruházás Előkészítési Alap terhére fenntartási és üzemeltetési modell kidolgozására, beruházási terv készítésére, tervezési program elkészítésére, költség- és időkalkuláció elkészítésére, beruházási alapokmány és program elfogadására, vázlatterv készítésére, jóváhagyási terv készítésére, engedélyezési dokumentáció készítésére és engedélyeztetés lefolytatására összesen 845 000 000 forint forrást biztosít a 2020. és 2021. évben azzal, hogy az előkészítési fázisokat 2022. február 1. napjáig kell megvalósítani;
 
-## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 500 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel, az 1. melléklet szerint;
+## 5.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 500 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel, az 1. melléklet szerint;
 
 ## A forrás biztosítása tekintetében
 
@@ -20,7 +20,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2022. június 1.
+## Határidő: 2023. június 1.
 
 ## 6. felhívja a pénzügyminiszert, hogy – a külgazdasági és külügyminiszter bevonásával – gondoskodjon a 4. pont szerinti előkészítési fázisokra vonatkozóan 345 000 000 forint biztosításáról a 2021. évre a XVIII. Külgazdasági és Külügyminisztérium fejezet javára;
 
@@ -101,3 +101,5 @@
 |  |  | egyéb: | azonnal |  |  | 500 000 000 | 500 000 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 5. pont az 1302/2022. (VI. 22.) Korm. határozat 13. pontja szerint módosított szöveg.
