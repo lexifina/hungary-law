@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1146-30
 | --- | --- | --- |
 | 2021-03-31 | 2021-1146-30-22.1 | 1146/2021. (III. 31.) Korm. határozat |
 | 2021-04-01 | 2021-1146-30-22.2 | 2010: CXXX. törvény |
+| 2022-06-22 | 2021-1146-30-22.3 | 1302/2022. (VI. 22.) Korm. határozat |

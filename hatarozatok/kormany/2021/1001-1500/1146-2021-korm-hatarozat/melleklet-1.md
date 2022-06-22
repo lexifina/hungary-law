@@ -28,7 +28,7 @@
 
 ## Határidő: azonnal
 
-## 1.3. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 613 886 496 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## 1.3.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 613 886 496 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -46,7 +46,7 @@
 
 ## Magyar Művészeti Akadémia elnöke
 
-## Határidő: 2021. december 31.
+## Határidő: 2021. december 31., a Magyar Művészeti Akadémia fejezet, MMA műemlékvédelmi beruházásai alcím javára biztosított forrás tekintetében 2023. március 31.
 
 ## 1.4. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 6 751 748 722 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 1. Gazdaságvédelmi programok jogcímcsoport terhére, a 2. melléklet szerint;
 
@@ -102,8 +102,9 @@
 
 ## 1.12. egyetért azzal, hogy a belügyminiszter az 1.11. alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa Karcag Város Önkormányzata számára.
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1146/2021. (III. 31.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.3. alpontja az 1302/2022. (VI. 22.) Korm. határozat 20. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
