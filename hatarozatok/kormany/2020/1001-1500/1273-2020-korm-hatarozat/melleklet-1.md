@@ -24,7 +24,7 @@
 
 ## Felelős: a miniszterelnök általános helyettese
 
-## Határidő: 2022. december 31.
+## Határidő: 2023. december 31.
 
 ## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – figyelemmel a Magyarország 2020. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 92/2020. (IV. 6.) Korm. rendeletre – 3 464 100 000 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
 
@@ -48,7 +48,7 @@
 
 1. melléklet az 1273/2020. (VI. 2.) Korm. határozathoz
 
-[^1]: Az 1. pont c) alpontja az 1007/2022. (I. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont c) alpontja az 1007/2022. (I. 20.) Korm. határozat 2. pontja, az 1302/2022. (VI. 22.) Korm. határozat 14. pontja szerint módosított szöveg.
 [^2]: A 1. pont f) alpontja az 1899/2020. (XII. 14.) Korm. határozat 9. pontjával megállapított szöveg.
 [^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
