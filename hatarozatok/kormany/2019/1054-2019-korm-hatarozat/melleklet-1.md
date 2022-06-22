@@ -4,7 +4,7 @@
 
 ## 3. egyetért azzal, hogy a Beruházás előkészítésének megvalósítója, valamint a Beruházás megvalósítója – a Beruházással érintett ingatlanok tulajdonosaként és fenntartójaként – Kecskemét Megyei Jogú Város Önkormányzata legyen;
 
-## 4.[^1] a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), n), o) és p) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – a 2019. és a 2020. évben összesen 239 800 000 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2022. május 31. napjáig kell megvalósítani;
+## 4.[^1] a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), n), o) és p) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – a 2019. és a 2020. évben összesen 239 800 000 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2023. március 31. napjáig kell megvalósítani;
 
 ## 5. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcímet a 17. A kecskeméti Katona József Színház felújítása jogcímcsoporttal egészíti ki;
 
@@ -32,13 +32,9 @@
 
 ## 9. felhívja az emberi erőforrások miniszterét, hogy
 
-## a) készítsen jelentést a Rendelet 8. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 4. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről,
+## a)[^2]
 
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2020. december 30.
-
-## b)[^2] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és a felelősök bemutatásával.
+## b)[^3] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és a felelősök bemutatásával.
 
 ## Felelős: emberi erőforrások minisztere
 
@@ -118,5 +114,6 @@
 
 | Magyar Államkincstár |  | 1 példány |  | egyéb: | 2019. február 28. |  | 119 300 000 |  |  |  |  |  |  |  |  | 119 300 000 |  |  |  |
 
-[^1]: A 4. pont az 1939/2020. (XII. 17.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
-[^2]: A 9. pont b) alpontja az 1939/2020. (XII. 17.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^1]: A 4. pont az 1939/2020. (XII. 17.) Korm. határozat 1. pont a) alpontja, az 1302/2022. (VI. 22.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 9. pont a) alpontját az 1302/2022. (VI. 22.) Korm. határozat 10. pontja visszavonta.
+[^3]: A 9. pont b) alpontja az 1939/2020. (XII. 17.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
