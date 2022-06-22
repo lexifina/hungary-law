@@ -12,7 +12,7 @@
 
 ## Felelős: Országos Bírósági Hivatal elnöke, legfőbb ügyész, Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2022. december 31.
+## Határidő: a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2023. december 31.
 
 ## b) a szociális hozzájárulási adóhoz kapcsolódó megtakarítások kezeléséről szóló 467/2016. (XII. 23.) Korm. rendelet 2. § b) pontjában meghatározott, adókulcscsökkentésből származó szabad forrásokból 26 106 004 602 forint felhasználását engedélyezi, és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva abból a 2. melléklet szerinti átcsoportosítást rendeli el;
 
@@ -58,6 +58,6 @@ XLII. A költségvetés közvetlen bevételei és kiadásai
 
 XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások LXV. Bethlen Gábor Alap
 
-[^1]: Az 1. pont a) alpontja az 1133/2018. (III. 26.) Korm. határozat 14. pontja, az 1692/2021. (IX. 30.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1. pont a) alpontjának az 1263/2019. (V. 7.) Korm. határozat 3. pontjával elrendelt módosítása, amely szerint az „a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2019. január 31.” szövegrész helyébe a „2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2020. június 30.” szöveg lép, nem vezethető át.]
+[^1]: Az 1. pont a) alpontja az 1133/2018. (III. 26.) Korm. határozat 14. pontja, az 1692/2021. (IX. 30.) Korm. határozat 3. pontja, az 1302/2022. (VI. 22.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1. pont a) alpontjának az 1263/2019. (V. 7.) Korm. határozat 3. pontjával elrendelt módosítása, amely szerint az „a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2019. január 31.” szövegrész helyébe a „2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2020. június 30.” szöveg lép, nem vezethető át.]
 [^2]: Az 1. pont h) alpontját az 1514/2018. (X. 17.) Korm. határozat 2. pontja visszavonta.
 [^3]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
