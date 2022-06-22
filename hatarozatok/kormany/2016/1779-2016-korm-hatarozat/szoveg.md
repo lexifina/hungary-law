@@ -8,7 +8,7 @@ egyetértve a szórvány- és tömbmagyarság azon igényével, hogy a nemzeti i
 
 Felelős: a miniszterelnök általános helyettese
 
-Határidő: 2022. december 31.
+Határidő: 2023. december 31.
 
 3. felhívja a nemzetgazdasági minisztert, hogy a Program egyházi vonatkozású elemeinek megvalósítása érdekében gondoskodjon 2016-ban 8995,0 millió forint költségvetési forrás biztosításáról a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet LXV. Bethlen Gábor Alap fejezetben;
 
@@ -38,4 +38,4 @@ Szabolcs-Szatmár-Bereg megye és Kárpátalja (Закарпатська обл�
 
 Határidő: 2017. január 15.
 
-[^1]: A 2. pont az 1661/2018. (XII. 6.) Korm. határozat 2. pontjával megállapított, az 1692/2021. (IX. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1661/2018. (XII. 6.) Korm. határozat 2. pontjával megállapított, az 1692/2021. (IX. 30.) Korm. határozat 2. pontja, az 1302/2022. (VI. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
