@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1005-30
 | --- | --- | --- |
 | 2021-01-14 | 2021-1005-30-22.1 | 1005/2021. (I. 14.) Korm. határozat |
 | 2021-01-15 | 2021-1005-30-22.2 | 2010: CXXX. törvény |
+| 2022-06-22 | 2021-1005-30-22.3 | 1302/2022. (VI. 22.) Korm. határozat |
