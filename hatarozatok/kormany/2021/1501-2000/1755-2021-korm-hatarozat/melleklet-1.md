@@ -14,7 +14,7 @@
 
 ## Határidő: azonnal
 
-## d) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 18 641 318 381 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## d)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 18 641 318 381 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -38,7 +38,7 @@
 
 ## a miniszterelnök kabinetfőnöke
 
-## Határidő: 2022. február 28.
+## Határidő: 2022. február 28., az Emberi Erőforrások Minisztériuma fejezet javára biztosított 310 775 310 forint tekintetében 2023. április 30.
 
 ## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 260 864 139 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
 
@@ -64,11 +64,12 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Beruházás Előkészítési Alapból, a Központi Maradványelszámolási Alapból, a Gazdaságvédelmi programok előirányzatból történő, valamint fejezetek közötti előirányzat-átcsoportosításról és kormányhatározat módosításáról szóló 1021/2021. (II. 2.) Korm. határozat 1. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása cím javára átcsoportosított 292 082 000 forintból legfeljebb 20 000 000 forint a Kvtv. 1. melléklet X. Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása címen a K3. Dologi kiadások előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 3.[^1]
+## 3.[^2]
 
-## 4.[^2] A Kormány a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról és kormányhatározat módosításáról szóló 1736/2021. (X. 14.) Korm. határozat 3. mellékletében meghatározottaktól eltérően a Kvtv. 1. melléklet I. Országgyűlés fejezet, 26. Szabályozott Tevékenységek Felügyeleti Hatósága cím, 1. Szabályozott Tevékenységek Felügyeleti Hatósága alcím támogatási előirányzata helyett a B4. Működési bevételek előirányzatának 91 245 893 forinttal történő növelését rendeli el.
+## 4.[^3] A Kormány a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról és kormányhatározat módosításáról szóló 1736/2021. (X. 14.) Korm. határozat 3. mellékletében meghatározottaktól eltérően a Kvtv. 1. melléklet I. Országgyűlés fejezet, 26. Szabályozott Tevékenységek Felügyeleti Hatósága cím, 1. Szabályozott Tevékenységek Felügyeleti Hatósága alcím támogatási előirányzata helyett a B4. Működési bevételek előirányzatának 91 245 893 forinttal történő növelését rendeli el.
 
 1. melléklet az 1755/2021. (X. 27.) Korm. határozathoz
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 4. pont az 1872/2021. (XII. 3.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont d) alpontja az 1302/2022. (VI. 22.) Korm. határozat 23. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont az 1872/2021. (XII. 3.) Korm. határozat 5. pontja szerint módosított szöveg.
