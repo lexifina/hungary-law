@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1859-30
 | --- | --- | --- |
 | 2017-11-23 | 2017-1859-30-22.1 | 1859/2017. (XI. 23.) Korm. határozat |
 | 2021-07-14 | 2017-1859-30-22.2 | 1458/2021. (VII. 13.) Korm. határozat |
+| 2022-06-22 | 2017-1859-30-22.3 | 1458/2021. (VII. 13.) Korm. határozat |
