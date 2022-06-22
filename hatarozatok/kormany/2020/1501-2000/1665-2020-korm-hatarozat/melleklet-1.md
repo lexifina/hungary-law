@@ -6,7 +6,7 @@
 
 ## 4. a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés b), d), e), f), h), i), l), m), n), o) és p) pontja szerinti előkészítési fázisaira a Beruházás Előkészítési Alap terhére a 2020. évben 58 650 000 forint, a 2021. évben 119 130 000 forint forrást biztosít azzal, hogy az előkészítési fázisokat 2022. február 1. napjáig kell megvalósítani;
 
-## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 58 650 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel, az 1. melléklet szerint;
+## 5.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 58 650 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -20,7 +20,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2022. június 1.
+## Határidő: 2023. június 1.
 
 ## 6. felhívja a pénzügyminiszert, hogy – a külgazdasági és külügyminiszter bevonásával – gondoskodjon a Beruházás előkészítési költségeihez a 2021. évben szükséges 119 130 000 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.2.) 1. melléklet XLVII. Gazdaságvédelmi Alap, 1. Központi kezelésű előirányzatok cím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv.2. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel;
 
@@ -89,3 +89,5 @@
 | Magyar Államkincstár 1 példány | időarányos teljesítésarányos egyéb: azonnal | 58 650 000 |  |  |  |  | 58 650 000 |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: Az 5. pont az 1302/2022. (VI. 22.) Korm. határozat 17. pontja szerint módosított szöveg.
