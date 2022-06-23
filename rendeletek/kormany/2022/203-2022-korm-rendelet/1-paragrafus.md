@@ -88,5 +88,8 @@ hatályát a szomszédos országban fennálló fegyveres konfliktus, illetve hum
 
 (3)[^2]
 
+(4)[^3] A Kormány a sajtótermékek terjesztésének veszélyhelyzeti szabályairól szóló 210/2022. (VI. 14.) Korm. rendelet hatályát a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról szóló 2022. évi VI. törvény hatályvesztéséig meghosszabbítja.
+
 [^1]: Az 1. § (2) bekezdése a 2. § (2) bekezdése alapján 2022. július 15-én lép hatályba.
 [^2]: Az 1. § (3) bekezdése a 2. § (3) bekezdése alapján a veszélyhelyzet során teendő intézkedések keretében gazdálkodó szervezet működésének a magyar állam felügyelete alá vonásáról szóló 198/2022. (VI. 4.) Korm. rendelet hatálybalépését követő 14. napon lép hatályba.
+[^3]: Az 1. § (4) bekezdését a 224/2022. (VI. 22.) Korm. rendelet 7. §-a iktatta be.
