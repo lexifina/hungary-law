@@ -14,7 +14,7 @@
 
 6. egyetemes szolgáltatáselem: 2020. december 21. napján fennálló, hatósági határozatban történő kijelölés alapján nyújtott egyetemes szolgáltatás körébe tartozó szolgáltatás;
 
-7. ellátási terület: az a terület, amelyen a hálózathoz tartozó valamennyi – egyetemes szolgáltatás nyújtását lehetővé tevő – helyhez kötött előfizetői hozzáférési pont hálózatépítő tevékenység nélkül elérhető;
+7.[^1] ellátási terület: azok a címhelyek, ahol az egyetemes szolgáltatás nyújtásához további hálózatépítő tevékenység nem szükséges, és ahol legalább egy kiépített helyhez kötött előfizetői hozzáférési pont található;
 
 8. kijelölési eljárás: egyetemes szolgáltató kijelölésére irányuló hatósági eljárás;
 
@@ -33,3 +33,5 @@
 15. számozási körzet: az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről és az azonosítógazdálkodás rendjéről szóló NMHH rendelet szerinti földrajzi számozási terület;
 
 16. teljeskörű beszélgetési szolgáltatás: olyan multimédiás, valós idejű beszélgetést biztosító szolgáltatás, amely kétirányú, szimmetrikus mozgókép- (video-) átvitelt, valamint valós idejű szövegátvitelt és hangátvitelt tesz lehetővé két vagy több egymástól eltérő helyszínen tartózkodó személy számára.
+
+[^1]: A 2. § 7. pontja a 4/2022. (VI. 20.) NMHH rendelet 1. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-22. § (1) Az egyetemes szolgáltató minden naptári évben az Elnök erre irányuló külön felhívása vagy döntése nélkül az e rendeletben, és a kijelölési határozatban előírt kötelezettségek teljesítésére vonatkozóan megküldi az Elnök részére
+22. § (1)[^23] Az egyetemes szolgáltató minden naptári évben az Elnök erre irányuló külön felhívása vagy döntése nélkül az e rendeletben, és a kijelölési határozatban előírtaknak megfelelően megküldi az Elnök részére
 
 a) legkésőbb március 31-ig az 1. mellékletben foglaltaknak megfelelően az adatszolgáltatást megelőző naptári évre vonatkozóan számozási körzetenként;
 
@@ -23,3 +23,5 @@ b) legkésőbb a számvitelről szóló törvény szerinti éves beszámoló elf
 (3) Ha az egyetemes szolgáltató a helyi hozzáférési hálózati eszközeinek lényeges részét vagy azok egészét más tulajdonában lévő önálló jogalanyra kívánja átruházni, és ez befolyásolja a kijelölési határozatban rögzített szolgáltatásnyújtási kötelezettségét, az ezzel kapcsolatos szándékát a tervezett ügyletet legalább 90 nappal megelőzően bejelenti az Elnöknek.
 
 (4) A 14. § szerint adatszolgáltatásra kötelezett egyetemes szolgáltatókra az e §-ban foglalt rendelkezések nem alkalmazandók.
+
+[^23]: A 22. § (1) bekezdés nyitó szövegrésze a 4/2022. (VI. 20.) NMHH rendelet 8. § g) pontja szerint módosított szöveg.
