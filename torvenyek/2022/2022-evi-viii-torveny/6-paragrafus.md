@@ -1,7 +1,1 @@
-6. § Hatályát veszti a Magyar Népköztársaság és az Osztrák Köztársaság között Budapesten, 1988. évi május hó 26. napján aláírt, a beruházások elősegítéséről és védelméről szóló Megállapodás kihirdetéséről szóló 12/1990. (VII. 24.) Korm. rendelet.
-
-Novák Katalin s. k.,
-
-Kövér László s. k.,
-
-köztársasági elnök az Országgyűlés elnöke
+6. §
