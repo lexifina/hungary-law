@@ -44,7 +44,7 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 
 ## „Az előző mondatban említett szabvány szerinti csökkentett méretű bárcák, illetve jelölés az UN 1011, az UN 1965 és az UN 1978 tétel alá tartozó gázokat, illetve gázkeverékeket tartalmazó palackok hengeres részének felső harmadában is elhelyezhető.”
 
-8.[^12] A RID Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek.
+8.[^12] A RID Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendeletben foglalt követelményeknek.
 
 9.[^13] A RID Szabályzat 1.10.3.2 bekezdése szerinti közbiztonsági tervnek a 7 osztályba tartozó anyagok szállítása esetén meg kell felelnie az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendeletben (a továbbiakban: Fvr.) foglalt követelményeknek, és a szállításhoz az Fvr. 32. § (1) bekezdés c) pontja szerinti engedély szükséges.
 
@@ -56,5 +56,5 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 [^9]: Az 1. melléklet 5a. pontját az 53/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
 [^10]: Az 1. melléklet 6. pontja az 53/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
 [^11]: Az 1. melléklet 7. pontja az 53/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
-[^12]: Az 1. melléklet 8. pontját a 20/2019. (VIII. 1.) ITM rendelet 4. §-a iktatta be.
+[^12]: Az 1. melléklet 8. pontját a 20/2019. (VIII. 1.) ITM rendelet 4. §-a iktatta be, szövege a 3/2022. (VI. 24.) TIM rendelet 2. §-a szerint módosított szöveg.
 [^13]: Az 1. melléklet 9. pontját a 38/2021. (VII. 30.) ITM rendelet 2. §-a iktatta be.
