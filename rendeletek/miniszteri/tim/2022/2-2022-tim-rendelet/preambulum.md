@@ -1,0 +1,1 @@
+A jogalkotásról szóló 2010. évi CXXX. törvény 31. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
