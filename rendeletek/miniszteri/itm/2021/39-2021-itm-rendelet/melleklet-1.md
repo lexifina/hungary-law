@@ -50,7 +50,7 @@ d) az oktatás helye, időpontja.
 
 11. Az ADR Szabályzat 1.6.3.1 bekezdés alkalmazása során az 1978. október 1-je előtt gyártott tartányok és battériás járművek 1995. szeptember 1-je után időszakos vizsgálatnak nem vethetők alá, kivéve, ha a tartány kielégíti az ADR Szabályzat 1.6.3.1 bekezdésének feltételeit.
 
-12. Az ADR Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
+12.[^2] Az ADR Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
 
 13. Az ADR Szabályzat 1.10.3.2 bekezdése szerinti közbiztonsági tervnek a 7 osztályba tartozó anyagok szállítása esetén meg kell felelnie az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendeletben (a továbbiakban: Fvr.) foglalt követelményeknek, és a szállításhoz az Fvr. 32. § (1) bekezdés c) pontja szerinti engedély szükséges.
 
@@ -90,7 +90,7 @@ c) az árut csak a helyi elosztóhelyek és a kiskereskedők vagy a felhasznál�
 
 a) a „különlegesen felszerelt jármű, illetve konténer” az ADR értelmében vett fedett járművet vagy zárt konténert jelent, melynek kialakítása, valamint állapota olyan, hogy normális szállítási körülmények között megakadályozza mind a szilárd, mind a folyékony rakomány szabadba jutását; a berakáshoz használt csomagolóeszközök biztonságosabb és könnyebb kezelhetősége érdekében a járművön, illetve konténeren belül műanyag tartóeszköz („hulladéktároló”) is elhelyezhető;
 
-b) a hulladékot műanyag zsákokba vagy merevfalú csomagolóeszközökbe helyezve kell a járműbe, illetve a konténerbe rakni, a csomagolóeszköz kialakításának, a hulladék csomagolóeszközbe helyezésének és lezárásának meg kell felelnie az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló jogszabály[^2] rendelkezéseinek;
+b) a hulladékot műanyag zsákokba vagy merevfalú csomagolóeszközökbe helyezve kell a járműbe, illetve a konténerbe rakni, a csomagolóeszköz kialakításának, a hulladék csomagolóeszközbe helyezésének és lezárásának meg kell felelnie az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló jogszabály[^3] rendelkezéseinek;
 
 c) a csomagolóeszközöket megfelelően rögzíteni kell, hogy normál szállítási körülmények között ne rongálódhassanak meg;
 
@@ -274,15 +274,18 @@ c) a gyakorlati vizsgafeladatok végrehajtásához szükséges eszközöket és 
 
 „1. Az 1 osztály anyagai és tárgyai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát.
 
-2. A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
+2.[^4] A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
 
 3. Tartányos szakosító vizsgára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát, legalább két éve, C kategóriára érvényes vezetői engedéllyel rendelkezik, és a 26. pontban előírt vezetési gyakorlatról szóló igazolását bemutatta.
 
 4. Ismeretfelújító vizsgára az a hallgató bocsátható, aki az adott osztályra és szállítási módra a vizsga időpontjában érvényes ADR oktatási bizonyítvánnyal rendelkezik.”
 
-32. Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
+32.[^5] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
 
-„A járművezetők ezt a képzést az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
+„A járművezetők ezt a képzést az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendelet szerinti, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
 
 [^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Lásd a 12/2017. (VI. 12.) EMMI rendeletet.
+[^2]: Az 1. melléklet 12. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
+[^3]: Lásd a 12/2017. (VI. 12.) EMMI rendeletet.
+[^4]: Az 1. melléklet 31. pont 2. alpontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 32. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
