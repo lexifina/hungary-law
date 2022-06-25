@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Osztrák Köztársaság Kormánya között a Magyar Népköztársaság és az Osztrák Köztársaság között a beruházások elősegítéséről és védelméről szóló megállapodás megszűnéséről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
