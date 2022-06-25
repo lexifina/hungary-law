@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-36-20-2
 | 2021-03-01 | 2017-36-20-2W.10 | 53/2020. (XII. 23.) ITM rendelet |
 | 2022-03-17 | 2017-36-20-2W.11 | 9/2022. (III. 16.) ITM rendelet |
 | 2022-05-15 | 2017-36-20-2W.12 | 9/2022. (III. 16.) ITM rendelet |
+| 2022-06-25 | 2017-36-20-2W.13 | 1/2022. (VI. 24.) TIM rendelet |
