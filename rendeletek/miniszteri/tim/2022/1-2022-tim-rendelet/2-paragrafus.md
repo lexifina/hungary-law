@@ -1,11 +1,3 @@
-## 1. § A meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló 36/2017. (IX. 18.) NFM rendelet (a továbbiakban: R.) 15. §-a a következő (1c) bekezdéssel egészül ki:
+2. §[^2]
 
-## „(1c) Nem kell eljárási díjat, túlsúlydíjat fizetni
-
-## a) – a 15. § (1) bekezdés e) pontjától eltérően – a 2. § (1) bekezdés b) és c) pontjában foglalt értékek 2 tonnánál nem nagyobb túllépése miatt az üzemanyagot szállító járművek esetén, ha a jármű erre a célra kialakított felépítménnyel rendelkezik, valamint
-
-## b) – a 15. § (1a) bekezdés a) pontjától eltérően – a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 10%-át meg nem haladó mértékű túllépése esetén, üzemanyag szállítására alkalmas speciális felépítménnyel rendelkező kéttengelyes gépjármű háromtengelyes félpótkocsival történő közlekedése során.”
-
-2. §[^1]
-
-[^1]: A 2. § a 3. § (2) bekezdése alapján az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet megszűnésekor lép hatályba.
+[^2]: A 2. § a 3. § (2) bekezdése alapján az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet megszűnésekor lép hatályba.
