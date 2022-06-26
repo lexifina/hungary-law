@@ -1,1 +1,3 @@
-## 1. § Hatályát veszti az atomenergia alkalmazása körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárások díjairól szóló 59/2011. (XI. 25.) NFM rendelet.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
