@@ -26,4 +26,4 @@ e) mely foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 (5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt a kérelmező erre irányuló kérelme esetén a kérelmező által megjelölt belföldi címzett részére kézbesíti.
 
-(6)
+(6) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és a (3) bekezdés a), d) vagy e) pontjában meghatározott tény igazolására irányuló kérelméből egyértelműen megállapítható, hogy az gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes foglalkozás, illetve tevékenység végzése érdekében került benyújtásra, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban állna, a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszeren kívül az Európai Unió más tagállamában vagy az Egyesült Királyságban történő elítélést is figyelembe veszi a 79. § (3) bekezdésében meghatározottak szerint.

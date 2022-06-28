@@ -1,0 +1,7 @@
+78/B. § (1) A bűnügyi nyilvántartó szerv központi hatóságként végzi az általa az ECRIS-TCN-be feltöltött adatok tekintetében a 2019/818 európai parlamenti és tanácsi rendeletben meghatározott esetekben a többszörös személyazonosság manuális ellenőrzését.
+
+(2) Amennyiben az ECRIS-TCN-be feltöltött adatok tekintetében a 2019/818 európai parlamenti és tanácsi rendelet 27. cikk (1) bekezdés b) pontja szerinti lekérdezés sárga kapcsolatot eredményez, és a rendelkezésre álló személyazonosító adatok alapján kétséget kizáró módon nem állapítható meg, hogy azok azonos vagy különböző személyeket jelölnek, a bűnügyi nyilvántartó szerv a személyiadat- és lakcímnyilvántartás, az idegenrendészeti nyilvántartás, vagy a központi útiokmány-nyilvántartás adataival való összehasonlítás útján értékeli az adatok egyezőségét.
+
+(3) Ha az adatok egyezősége a (2) bekezdésben meghatározott módon kétséget kizáróan nem állapítható meg, és az uniós információs rendszerek valamelyike ujjnyomatadatot tartalmaz, a bűnügyi nyilvántartó szerv az ujjnyomatadatokat továbbíthatja a szakértői nyilvántartó szerv részére a daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomatokkal való összehasonlítás céljából.
+
+(4) Ha az adatok egyezősége a (3) bekezdésben meghatározott módon sem állapítható meg kétséget kizáróan, a bűnügyi nyilvántartó szerv az ECRIS-TCN-be feltöltött adatok vonatkozásában adategyeztetést kezdeményez a bűnügyi nyilvántartási rendszer részére adatot közlő bírósággal.

@@ -14,7 +14,9 @@ c) állapítsa meg a 86/A–86/D. §-ban meghatározott adattovábbítási eljá
 
 d) állapítsa meg a hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályait,
 
-e) kijelölje az eliminációs nyilvántartást kezelő szakértői nyilvántartó szervet, valamint az érintett személy DNS-profiljának meghatározásában közreműködő szervet.
+e) kijelölje az eliminációs nyilvántartást kezelő szakértői nyilvántartó szervet, valamint az érintett személy DNS-profiljának meghatározásában közreműködő szervet,
+
+f) állapítsa meg az ECRIS-TCN, illetve az uniós információs rendszerek interoperabilitását biztosító kereteket, beleértve az interoperabilitás során eljáró hatóságok bűnügyi nyilvántartáshoz kapcsolódó, interoperabilitással érintett egyes feladatait.
 
 (1a) Felhatalmazást kap a rendészetért felelős miniszter, hogy
 

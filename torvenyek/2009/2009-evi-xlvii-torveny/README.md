@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2022-04-01 | 2021. évi XXXI. törvény | 2009-47-00-00.49 |
 | 2022-04-02 | 2021. évi CXXXIV. törvény | 2009-47-00-00.50 |
 | 2022-05-25 | 2022. évi IV. törvény | 2009-47-00-00.51 |
+| 2022-06-28 | 2021. évi CXXXIV. törvény | 2009-47-00-00.52 |

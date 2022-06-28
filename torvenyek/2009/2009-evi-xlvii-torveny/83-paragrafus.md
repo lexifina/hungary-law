@@ -12,4 +12,6 @@ d) az 56. § a)–c) pontjában meghatározott adatokat
 
 továbbítja.
 
+(1b) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a 2019/816 európai parlamenti és tanácsi rendelet 5. cikkében meghatározott, az ECRIS-TCN számára történő adattovábbítás, illetve az ECRIS-TCN-ben ujjnyomattal történő adatigénylés céljából a bűnügyi nyilvántartó szerv részére a daktiloszkópiai nyilvántartásban kezelt ujjnyomat azonos másolatát továbbítja.
+
 (2) Az adatigénylésnek tartalmaznia kell az adatigénylő megnevezését, az adatigénylés célját és jogalapját.

@@ -26,7 +26,7 @@ af) személyi azonosítóját,
 
 ag) előző családi és utónevét,
 
-ah) állampolgárságát, előző állampolgárságát, valamint
+ah) állampolgárságait, előző állampolgárságait, illetve ha állampolgársága nem ismert, vagy hontalan, ezt a tényt, valamint
 
 ai) lakcímét, továbbá annak megváltozása esetén előző lakcímét (a továbbiakban együtt: személyazonosító adatok),
 

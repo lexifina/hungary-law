@@ -17,3 +17,5 @@ c) a hatósági erkölcsi bizonyítványban igazolni kívánt tény jellegére t
 a) a megfeleltetett tagállami ítélettel kapcsolatos adatokat továbbítja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervnek, illetve
 
 b) a megfeleltetett tagállami ítélettel kapcsolatos adatok figyelembevételével állítja ki a hatósági erkölcsi bizonyítványt.
+
+(6) A bűnügyi nyilvántartó szerv jogszabályban meghatározottak szerint tájékoztatja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervet a 76/A. §, illetve a 76/B. § alapján tett intézkedésekről, illetve arról, ha ilyen intézkedésre nem került sor.

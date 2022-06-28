@@ -12,6 +12,8 @@ d) a büntetésekre, az intézkedésekre és azok végrehajtására vonatkozó a
 
 a) az adatok átadásával egyidejűleg az adatok törlésének várható időpontjáról, továbbá
 
-b) arról, ha az adatok a bűntettesek nyilvántartásából vagy – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából törlésre kerültek.
+b) arról, ha az adatok a bűntettesek nyilvántartásából vagy – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából törlésre kerültek,
+
+c) arról, ha az adatok a bűntettesek nyilvántartásában vagy – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában módosításra kerültek.
 
 (3) Ha az érintett személy két vagy több, az Európai Unió más tagállamának állampolgára, az (1) és (2) bekezdés szerinti adatokat valamennyi érintett tagállamnak továbbítani kell.
