@@ -56,7 +56,7 @@ c) megakadályozza, hogy magánszemélyek, csoportok, szervezetek terrorszerveze
 
 18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában,
 
-19. ellátja a segélyhívó számok fogadásából eredő feladatokat,
+19. ellátja a segélyhívó számokra érkező hívások, illetve egyéb jelzések fogadásából eredő feladatokat,
 
 20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.
 
