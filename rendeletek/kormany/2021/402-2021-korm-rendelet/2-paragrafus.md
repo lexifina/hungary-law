@@ -4,7 +4,7 @@ a) a) pontja szerinti bejelentést az értékesítő,
 
 b) b) pontja szerinti bejelentést az építőanyagot külföldre kivinni szándékozó
 
-## természetes személy, egyéni vállalkozó vagy jogi személy, vagy egyéb szervezet (a továbbiakban együtt: bejelentő) írásban, magyar nyelven teszi meg.
+természetes személy, egyéni vállalkozó vagy jogi személy, vagy egyéb szervezet (a továbbiakban együtt: bejelentő) írásban, magyar nyelven teszi meg.
 
 (2) A bejelentés tartalmazza
 
@@ -24,17 +24,17 @@ bb) hivatalos nyilvántartásával kapcsolatos feladatokat ellátó állam megje
 
 bc) elektronikus vagy postai kapcsolattartásra szolgáló elérhetőségét,
 
-c)[^2] az építőanyag
+c)[^3] az építőanyag
 
 ca) 1. melléklet szerinti vámtarifaszámát és mennyiségi mutatóit,
 
 cb) szerződésben meghatározott árát, ha pedig nem került sor szerződéskötésre, az építőanyag aktuális piaci értékét,
 
-d)[^3] az 1. § (1) bekezdés b) pontja szerinti esetben a címzett nevét és címét, ahová az építőanyag leszállításra kerül, valamint
+d)[^4] a címzett nevét és címét, ahová az építőanyag leszállításra kerül, valamint
 
-e)[^4] az építőanyag értékesítésének, illetve kivitelének tervezett, legfeljebb 2022. június 30. napjáig terjedő időszakát.
+e)[^5] az építőanyag értékesítésének, illetve kivitelének tervezett, legfeljebb 2022. december 31. napjáig terjedő időszakát.
 
-(2a)[^5] Ha a bejelentő olyan terméket értékesít vagy visz ki külföldre, amelyet az 1. melléklet tartalmaz, azonban annak kiszállítására nem építési beruházásokhoz vagy Magyarország területén kívül megvalósított diplomáciai célú ingatlanokon végzett beruházásokhoz kerül sor, úgy a bejelentésnek tartalmaznia kell a bejelentő erre vonatkozó nyilatkozatát, a (2) bekezdés a) és b) pontjában foglalt adatokat és a vámtarifaszámot. A bejelentésre a (2) bekezdés c)–e) pontjában és a (4) bekezdésben foglaltakat nem kell alkalmazni.
+(2a)[^6] Ha a bejelentő olyan terméket értékesít vagy visz ki külföldre, amelyet az 1. melléklet tartalmaz, azonban annak kiszállítására nem építési beruházásokhoz vagy Magyarország területén kívül megvalósított diplomáciai célú ingatlanokon végzett beruházásokhoz kerül sor, úgy a bejelentésnek tartalmaznia kell a bejelentő erre vonatkozó nyilatkozatát, a (2) bekezdés a) és b) pontjában foglalt adatokat, a címzett országot és a vámtarifaszámot. A bejelentésre a (2) bekezdés c)–e) pontjában és a (4) bekezdésben foglaltakat nem kell alkalmazni.
 
 (3) A bejelentést a hatóság honlapján közzétett formanyomtatványon a 3. § (4) bekezdésében foglalt határidőre figyelemmel kell megtenni.
 
@@ -44,11 +44,12 @@ a) értékesítésére vonatkozó szerződés vagy az elfogadott ajánlat, valam
 
 b) szállításáról szóló szerződés, illetve egyéb, a külföldre történő kiszállítást igazoló okirat
 
-## másolatát.
+másolatát.
 
-(5) A (4) bekezdésben meghatározott okiratok nem magyar nyelven történő kiállítása esetén azok hiteles magyar nyelvű fordítását is csatolni kell a bejelentéshez.
+(5)[^7] A (4) bekezdésben meghatározott okiratok nem magyar nyelven történő kiállítása esetén azok magyar nyelvű fordítását is csatolni kell a bejelentéshez.
 
-[^2]: A 2. § (2) bekezdés c) pontja a 442/2021. (VII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (2) bekezdés d) pontja a 442/2021. (VII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2) bekezdés e) pontját a 442/2021. (VII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 548/2021. (IX. 28.) Korm. rendelet 2. § a) pontja, a 783/2021. (XII. 24.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^5]: A 2. § (2a) bekezdését a 442/2021. (VII. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^3]: A 2. § (2) bekezdés c) pontja a 442/2021. (VII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdés d) pontja a 222/2022. (VI. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdés e) pontját a 442/2021. (VII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 548/2021. (IX. 28.) Korm. rendelet 2. § a) pontja, a 783/2021. (XII. 24.) Korm. rendelet 1. §-a, a 222/2022. (VI. 21.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § (2a) bekezdését a 442/2021. (VII. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 222/2022. (VI. 21.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^7]: A 2. § (5) bekezdése a 222/2022. (VI. 21.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
