@@ -1,3 +1,3 @@
-16. melléklet a 12/2022. (IV. 26.) IM rendelethez[^83]
+16. melléklet a 12/2022. (IV. 26.) IM rendelethez[^67]
 
-[^83]: A 16. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 16. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
