@@ -2,9 +2,9 @@ A Kormány
 
 1. egyetért Magyarország csatlakozásával a Multilaterális Fejlesztésfinanszírozási Együttműködési Központhoz (a továbbiakban: Együttműködési Központ), valamint az Együttműködési Központ működéséhez a 2022–2025. évre eső 10 millió USD magyar vállalás felajánlásával;
 
-2. felhívja a pénzügyminisztert az Együttműködési Központhoz történő csatlakozást szolgáló intézkedések megtételére és Magyarország képviseletének az Együttműködési Központban való ellátására a Külgazdasági és Külügyminisztériummal, valamint a Magyar Export-Import Bank Zártkörűen Működő Részvénytársasággal együttműködve;
+2.[^1] felhívja a gazdaságfejlesztési minisztert Magyarország képviseletének az Együttműködési Központban való ellátására a Külgazdasági és Külügyminisztériummal, valamint a Magyar Export-Import Bank Zártkörűen Működő Részvénytársasággal együttműködve;
 
-Felelős: pénzügyminiszter
+Felelős: gazdaságfejlesztési miniszter
 
 külgazdasági és külügyminiszter
 
@@ -29,3 +29,5 @@ Határidő: a 2022–2025. évi központi költségvetés tervezésekor
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: évente, június 30-ig
+
+[^1]: A 2. pont az 1311/2022. (VI. 28.) Korm. határozattal megállapított szöveg.
