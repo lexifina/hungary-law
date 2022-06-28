@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1302-30
 | --- | --- | --- |
 | 2022-06-22 | 2022-1302-30-22.1 | 1302/2022. (VI. 22.) Korm. határozat |
 | 2022-06-23 | 2022-1302-30-22.2 | 2010: CXXX. törvény |
+| 2022-06-28 | 2022-1302-30-22.3 | 1312/2022. (VI. 28.) Korm. határozat |
