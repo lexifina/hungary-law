@@ -1,4 +1,4 @@
-4. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^112]
+4. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^116]
 
 4. adatlap
 
@@ -10,19 +10,19 @@ ADATKÖZLÉS JOGERŐS VAGY VÉGLEGESSÉ VÁLT BÍRÓI DÖNTÉSEKRŐL
 
 | 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
-| 1.2. Családi és utónév: |
+| 1.2. Családi név: …………………………………………………………………………………………………….. |
 
-| .................................................................................................................................................................................. |
+| Utónév: ........................................................................................................................................................................ |
 
-| 1.3. Születési családi és utónév: |
+| 1.3. Születési családi név: …………………………………………………………………………………………… |
 
-| .................................................................................................................................................................................. |
+| .Születési utónév: ......................................................................................................................................................... |
 
-| 1.4. Előző születési családi és utónév: |
+| 1.4. Előző születési családi név: …………………………………………………………………………………….. |
 
-| .................................................................................................................................................................................. |
+| Előző születési utónév: ................................................................................................................................................ |
 
-| 1.5. Születési hely: .............................................................................................................. idő: □□□□év □□hó □□nap. |
+| 1.5. Születési hely: ................................................................................................ idő: □□□□év □□hó □□nap. |
 
 | 1.6. Anyja születési családi és utóneve: |
 
@@ -34,15 +34,17 @@ ADATKÖZLÉS JOGERŐS VAGY VÉGLEGESSÉ VÁLT BÍRÓI DÖNTÉSEKRŐL
 
 | 1.8. Neme: □férfi □nő |
 
-| 1.9. Állampolgárság: ............................................ |
+| 1.9. Állampolgárság(ok): ............................................ |
 
-| 1.10. Előző állampolgárság: .................................. |
+| 1.10. Előző állampolgárság(ok): .................................. |
 
-| 1.11. Lakcím: |
+| 1.11. □hontalan □állampolgársága ismeretlen |
+
+| 1.12. Lakcím: |
 
 | .................................................................................................................................................................................. |
 
-| 1.12. Előző lakcím: |
+| 1.13. Előző lakcím: |
 
 | .................................................................................................................................................................................. |
 
@@ -52,11 +54,11 @@ ADATKÖZLÉS JOGERŐS VAGY VÉGLEGESSÉ VÁLT BÍRÓI DÖNTÉSEKRŐL
 
 | 3.1. Az eljárás eredménye: □elítélés □felmentés □megszüntetés |
 
-| 3.1.1. A megszüntetésére a Bnytv. 25. § c) pontjában meghatározott okok miatt került sor □Igen □Nem |
+| 3.1.1. A megszüntetésére a Bnytv. 25. § c) pontjában meghatározott okok miatt került sor: □Igen □Nem |
 
 | 3.2. Ha rendkívüli jogorvoslatra került sor: □perújítás □felülvizsgálat □jogorvoslat a törvényesség érdekében |
 
-| 3.3. Jogerőre emelkedésének vagy véglegessé válásának napja: □□□□év □□hó □□nap. |
+| 3.3. Jogerőre emelkedésének napja vagy véglegessé válásának napja: □□□□év □□hó □□nap. |
 
 | 3.4. Elsőfokon (ha rendkívüli jogorvoslatra került sor, akkor annak keretében elsőfokon) eljárt bíróság megnevezése: |
 
@@ -106,7 +108,7 @@ ADATKÖZLÉS JOGERŐS VAGY VÉGLEGESSÉ VÁLT BÍRÓI DÖNTÉSEKRŐL
 
 | 5.2. BÜNTETÉS VAGY INTÉZKEDÉS |
 
-|  | Neme | Mértéke/Értéke/ Tartama | Vh. fokozata | Foglalkozás vagy tevékenység / Járműkategória / Sportrendezvény vagy sportlétesítmény megnevezése / Kitiltás helye |  |
+|  | 5.2.1. Neme: …………………………………………………………………………………………………. 5.2.2. Mértéke/Értéke/Tartama: ………………………………………………………………......................... 5.2.3. Vh. fokozata: …………………………………………………………………………………………... 5.2.4. Foglalkozás megnevezése [a Btk. 52. § (3) vagy (4) bekezdése szerinti foglalkozástól eltiltás esetén erre való hivatkozás]: ………………………………………………………………………………………… 5.2.5. Járműkategória megnevezése: …………………………………………………………………………. 5.2.6. Sportrendezvény vagy sportlétesítmény megnevezése: ……………………………………………….................................................................................................... 5.2.7. Kitiltás helye: …………………………………………………………………………………………... |  |
 
 | 5.3. SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK FELFÜGGESZTÉSE |
 
@@ -122,49 +124,47 @@ ADATKÖZLÉS JOGERŐS VAGY VÉGLEGESSÉ VÁLT BÍRÓI DÖNTÉSEKRŐL
 
 | 5.6. Önállóan alkalmazott, határozott idejű kiutasítás leteltének napja: □□□□év □□hó □□nap. |
 
-| 5.7. A szabadságvesztés végrehajtásába beszámított idő (kitöltése kötelező): □□□□év □□hó □□nap. |
-
-| 5.8. Felfüggesztett szabadságvesztés végrehajtásának elrendelése esetén a felfüggesztett büntetést jogerősen kiszabó bíróság megnevezése: ............................................................................................................................................................................... |
+| 5.7. Felfüggesztett szabadságvesztés végrehajtásának elrendelése esetén a felfüggesztett büntetést jogerősen kiszabó bíróság megnevezése: ............................................................................................................................................................................... |
 
 | határozatának száma: ......................................... jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
 
-| 5.9. Próbára bocsátás megszüntetése esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: |
+| 5.8. Próbára bocsátás megszüntetése esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: |
 
 | .................................................................................................................................................................................. |
 
 | határozatának száma: ......................................... jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
 
-| 5.10. Próbára bocsátás meghosszabbítása esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: |
+| 5.9. Próbára bocsátás meghosszabbítása esetén a próbára bocsátást jogerősen alkalmazó bíróság megnevezése: |
 
 | ................................................................................................................................................................................... |
 
 | határozatának száma: ......................................... jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
 
-| 5.10.1. A meghosszabbított próbaidő leteltének napja: □□□□év □□hó □□nap. |
+| 5.9.1. A meghosszabbított próbaidő leteltének napja: □□□□év □□hó □□nap. |
 
-| 5.11. Végrehajtandó szabadságvesztés kiszabása miatt próbaidő meghosszabbodása esetén, a korábbi felfüggesztett szabadságvesztést kiszabó bíróság megnevezése: ............................................................ határozatának száma: ......................................... jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
+| 5.10. Végrehajtandó szabadságvesztés kiszabása miatt próbaidő meghosszabbodása esetén, a korábbi felfüggesztett szabadságvesztést kiszabó bíróság megnevezése: ............................................................ határozatának száma: ......................................... jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
 
 | A meghosszabbodott próbaidő leteltének napja: □□□□év □□hó □□nap. |
 
-| 5.12. Jóvátételi munka helyébe lépő büntetés kiszabása esetén a jóvátételi munkát jogerősen alkalmazó bíróság megnevezése: |
+| 5.11. Jóvátételi munka helyébe lépő büntetés kiszabása esetén a jóvátételi munkát jogerősen alkalmazó bíróság megnevezése: |
 
 | ..................................................................................................................................................................................... |
 
 | határozatának száma: ......................................... jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
 
-| 5.13. Feltételes szabadság megszüntetése esetén a korábbi szabadságvesztést kiszabó bíróság megnevezése: |
+| 5.12. Feltételes szabadság megszüntetése esetén a korábbi szabadságvesztést kiszabó bíróság megnevezése: |
 
 | ....................................................................................................................................................... |
 
 | határozatának száma: ......................................... jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
 
-| 5.14. A határozattal kapcsolatos egyéb eljárási cselekmény: |
+| 5.13. A határozattal kapcsolatos egyéb eljárási cselekmény: |
 
 | Kelt: ................................, ........... év .......... hó ........ nap |
 
 | P. H. |
 
-| ........................................................ Az eljáró szerv képviselője |
+|  | ........................................................ Az eljáró szerv képviselője |
 
 |  | Bűnügyi nyilvántartó szerv bejegyzései: |  |  |
 
@@ -186,4 +186,4 @@ ADATKÖZLÉS JOGERŐS VAGY VÉGLEGESSÉ VÁLT BÍRÓI DÖNTÉSEKRŐL
 
 |  | Nyilvántartási ideje a Bnytv. 25. § c) pontja esetén: |  |  |
 
-[^112]: A 4. melléklet a 16/2018. (VI. 22.) IM rendelet 12. § (2) bekezdésével megálapított szöveg.
+[^116]: A 4. melléklet a 12/2022. (IV. 26.) IM rendelet 4. § (4) bekezdésével megállapított szöveg.

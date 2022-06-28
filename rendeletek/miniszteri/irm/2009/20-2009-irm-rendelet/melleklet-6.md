@@ -1,72 +1,98 @@
-6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^114]
+6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^118]
 
 6. adatlap
 
 ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ELISMERÉSÉRŐL, TAGÁLLAMI ÍTÉLET MEGFELELTETÉSÉRŐL
 
-⬜ PÓTLAP IGÉNYBEVÉTELE
+□ PÓTLAP IGÉNYBEVÉTELE
 
 | 1. Terhelt személyazonosító adatai: |
 
-| 1.1. Személyi azonosító: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
-| 1.2. Családi és utónév: |
+| 1.2. Családi név: …………………………………………………………………………………………………….. |
 
-| .............................................................................................................................................................. |
+| Utónév: ........................................................................................................................................................................ |
 
-| 1.3. Születési családi és utónév: |
+| 1.3. Születési családi név: …………………………………………………………………………………………… |
 
-| ............................................................................................................................................................... |
+| Születési utónév: .......................................................................................................................................................... |
 
-| 1.4. Előző születési családi és utónév: |
+| 1.4. Előző születési családi név: …………………………………………………………………………………….. |
 
-| .............................................................................................................................................................. |
+| Előző születési utónév: ................................................................................................................................................ |
 
-| 1.5. Születési hely: .............................................................................. idő: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap |
+| 1.5. Születési hely: ................................................................................................ idő: □□□□év □□hó □□nap |
 
 | 1.6. Anyja születési családi és utóneve: |
 
-| .............................................................................................................................................................. |
+| .................................................................................................................................................................................. |
 
 | 1.7. Anyja előző születési családi és utóneve: |
 
-| .............................................................................................................................................................. |
+| .................................................................................................................................................................................. |
 
-| 1.8. Neme: ⬜ férfi ⬜ nő 1.9. Állampolgárság: ............................................. 1.10. Előző állampolgárság: .................................. |
+| 1.8. Neme: □férfi □nő |
 
-| 1.11. Lakcím: |
+| 1.9. Állampolgárság(ok): ............................................ |
 
-| ............................................................................................................................................................... |
+| 1.10. Előző állampolgárság(ok): .................................. |
 
-| 1.12. Előző lakcím: |
+| 1.11. □hontalan □állampolgársága ismeretlen |
 
-| .............................................................................................................................................................. |
+| 1.12. Lakcím: |
 
-| 2. A terhelt érvényes úti okmánnyal rendelkezik (kitöltése kötelező): | ⬜ IGEN ⬜ NEM |
+| .................................................................................................................................................................................. |
 
-| 3. A határozat és az eljáró szerv adatai: 3.1. A külföldi vagy a tagállami ítélet jogerőre emelkedésének napja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜nap. 3.2. Külföldi bíróság(ok) adatai: megnevezése: .............................................................................................................................................................. határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. megnevezése: ............................................................................................................................................................... határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. megnevezése: ............................................................................................................................................................... határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 1.13. Előző lakcím: |
 
-| 3.3. Az elismerés vagy a megfeleltetés során elsőfokon eljárt bíróság megnevezése: határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| .................................................................................................................................................................................. |
 
-| 3.4. Az elismerés vagy a megfeleltetés során másodfokon eljárt bíróság megnevezése: határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. jogerőre emelkedésének napja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 2. A terhelt érvényes úti okmánnyal rendelkezik (kitöltése kötelező): | □IGEN □NEM |
 
-| 3.5. A terhelt fiatalkorú ⬜ igen ⬜ nem (kitöltése kötelező) |
+| 3. A határozat és az eljáró szerv adatai: |
+
+| 3.1. A külföldi vagy a tagállami ítélet jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
+
+| 3.2. Külföldi bíróság(ok) adatai: |
+
+| megnevezése: ................................................................................................................................................................................... |
+
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| megnevezése: ................................................................................................................................................................................... |
+
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| megnevezése: ................................................................................................................................................................................... |
+
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| 3.3. Az elismerés vagy a megfeleltetés során elsőfokon eljárt bíróság megnevezése: |
+
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| 3.4. Az elismerés vagy a megfeleltetés során másodfokon eljárt bíróság megnevezése: |
+
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
+
+| 3.5. A terhelt fiatalkorú □igen □nem (kitöltése kötelező) |
 
 | 4. Bűncselekményi adatok: |
 
 |  | Megnevezés | Btk. szerinti minősítés | Rb. | Az elkövetés helye és ideje | Elkövetői és elkövetési alakzat | Bűn- szerv. |  |
 
-|  |  |  |  | .................../.................. | ................../................... | ⬜ |  |
+|  |  |  |  | ..................../................... | ..................../................... | □ |  |
 
-|  |  |  |  | ................../................... | ................../................... | ⬜ |  |
+|  |  |  |  | ..................../................... | ..................../................... | □ |  |
 
 | 5. Szankció adatai: |
 
 | 5.1. BÜNTETÉS VAGY INTÉZKEDÉS |
 
-|  | Neme | Mértéke/Értéke/Tartama/Kitöltésének időpontja | Vh. fokozata | Közérdekű munkavégzés jellege / Foglalkozás vagy tevékenység / Járműkategória / Sportrendezvény vagy sportlétesítmény megnevezése / Kitiltás helye / Pártfogó felügyelet magatartási szabályai |  |
-
-| 5.2. SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK FELFÜGGESZTÉSE |
+| 5.1.1. Neme: …………………………………………………………………………………………………. 5.1.2. Mértéke / Értéke / Tartama / Kitöltésének időpontja: …………………………………………………………………………………................................................ 5.1.3. Vh. fokozata: …………………………………………………………………………………………... 5.1.4. Közérdekű munkavégzés jellege: ……………………………………………………………………… 5.1.5. Foglalkozás megnevezése [a Btk. 52. § (3) vagy (4) bekezdése szerinti foglalkozástól eltiltás esetén erre való hivatkozás]: ………………………………………………………………………………………… 5.1.6. Járműkategória megnevezése: …………………………………………………………………………. 5.1.7. Sportrendezvény vagy sportlétesítmény megnevezése: ……………………………………………….................................................................................................... 5.1.8. Kitiltás helye: ………………………………………………………………………………………….................................... 5.1.9. Pártfogó felügyelet magatartási szabályai: ……………………………………………………………. 5.2. SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK FELFÜGGESZTÉSE |
 
 | 5.2.1. Vh. felfüggesztve ......... évre |
 
@@ -78,66 +104,72 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ELISMERÉSÉRŐL, TAGÁLLAMI ÍTÉLET MEGFELELT
 
 |  | Neme | Mértéke/Értéke/Tartama |  |
 
-| 6. A szabadságvesztés végrehajtásába beszámított idő (kitöltése kötelező): ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap: |
+| 6. A terhelt ideiglenes végrehajtási letartóztatást töltött az ítélet elismerésekor vagy megfeleltetésekor, amely az elismeréssel vagy a megfeleltetéssel egyidejűleg megszűnik: □IGEN □NEM |
 
-| 7. A terhelt ideiglenes végrehajtási letartóztatást töltött az ítélet elismerésekor vagy megfeleltetésekor, amely az elismeréssel vagy a megfeleltetéssel egyidejűleg megszűnik: ⬜ IGEN ⬜ NEM |
+| 6.1. A korábban elrendelt ideiglenes végrehajtási letartóztatást elrendelő bíróság megnevezése: |
 
-| 7.1. A korábban elrendelt ideiglenes végrehajtási letartóztatást elrendelő bíróság megnevezése: ............................................................................................................................................................ |
+| ....................................................................................................................................................................................... |
 
-| 7.2. határozatának száma: ...................................................................... és kelte: | ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 6.2. határozatának száma: ...................................................................... és kelte: |
 
-| 8. Külföldi bíróság által kiszabott szabadságvesztéssel vagy szabadságelvonással járó intézkedéssel és annak végrehajtásával kapcsolatos adatok |
+|  | □□□□év □□hó □□nap. |
 
-| 8.1. Külföldi bíróság által kiszabott szankció |
+| 7. Külföldi bíróság által kiszabott szabadságvesztéssel vagy szabadságelvonással járó intézkedéssel és annak végrehajtásával kapcsolatos adatok |
+
+| 7.1. Külföldi bíróság által kiszabott szankció |
 
 |  | Neme | Mértéke/Értéke/Tartama |  |
 
-| 8.2. SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK FELFÜGGESZTÉSE |
+| 7.2. SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK FELFÜGGESZTÉSE |
 
-| 8.2.1. Vh. felfüggesztve ......... évre |
+| 7.2.1. Vh. felfüggesztve ......... évre |
 
-| 8.2.2. Részben felfüggesztve: ..........évre, végrehajtandó tartam: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap |
+| 7.2.2. Részben felfüggesztve: ..........évre, végrehajtandó tartam: □□□□év □□hó □□nap |
 
-| 8.2.3 Felfüggesztés leteltének időpontja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap |
+| 7.2.3. Felfüggesztés leteltének időpontja: □□□□év □□hó □□nap |
 
-| 8.3. Külföldön történt büntetés-végrehajtási adatok: |
+| 7.3. Külföldön történt büntetés-végrehajtási adatok: |
 
-| 8.3.1 Foganatba vétel napja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap |
+| 7.3.1. Foganatba vétel napja: □□□□év □□hó □□nap |
 
-| 8.3.2. Feltételes szabadságra bocsátás napja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap, leteltének napja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap |
+| 7.3.2. Feltételes szabadságra bocsátás napja: □□□□év □□hó □□nap, leteltének napja: □□□□év □□hó □□nap |
 
-| 8.3.3. Kitöltés időpontja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap |
+| 7.3.3. Kitöltés időpontja: □□□□év □□hó □□nap |
 
-| 8.4 Felfüggesztett szabadságvesztés végrehajtásának elrendelése esetén a felfüggesztett büntetést jogerősen kiszabó bíróság megnevezése: |
+| 7.4. Felfüggesztett szabadságvesztés végrehajtásának elrendelése esetén a felfüggesztett büntetést jogerősen kiszabó bíróság megnevezése: |
 
-| ....................................................................................................................................................... |
+| ....................................................................................................................................................................................... |
 
-| határozatának száma: ......................................................... jogerőre emelkedésének napja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| határozatának száma: ................................................................................ jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
 
-| 8.5. A mentesítésre vonatkozó adatok: 8.5.1. A mentesítés várható időpontja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap 8.5.2. A mentesítés időpontja nem állapítható meg ⬜ |
+| 7.5. A mentesítésre vonatkozó adatok: |
 
-| 9. Az ítélettel kapcsolatos egyéb eljárási cselekmények: |
+| 7.5.1. A mentesítés várható időpontja: □□□□év □□hó □□nap |
 
-| Kelt: ................................, ........... év .......... hó ........ nap. |
+| 7.5.2. A mentesítés időpontja nem állapítható meg: □ |
+
+| 8. Az ítélettel kapcsolatos egyéb eljárási cselekmények: |
+
+| Kelt: ................................, ........... év .......... hó ........ nap |
 
 | P. H. |
 
-| ........................................................ Az eljáró szerv képviselője |
+|  | ........................................................ Az eljáró szerv képviselője |
 
-|  | Bűnügyi nyilvántartó szerv bejegyzései: |
+|  | Bűnügyi nyilvántartó szerv bejegyzései: |  |  |
 
-|  |  |  | ⬜ Hatályon kívül helyezve: ........................................................................ |  |
+|  |  | □Hatályon kívül helyezve: .................................................................................... |  |
 
-|  |  | Egyéb: ........................................................................ |
+|  |  | Egyéb: .................................................................................... |  |
 
-|  | Közügyek gyakorlásától eltiltás lejár: |  |
+|  | Közügyek gyakorlásától eltiltás lejár: |  |  |
 
-|  | Mentesítés várható időpontja: |  |
+|  | Mentesítés várható időpontja: |  |  |
 
-|  | Büntetés nyilvántartási ideje: |  |
+|  | Büntetés nyilvántartási ideje: |  |  |
 
-|  | Közügyektől eltiltás nyilvántartási ideje: |  |
+|  | Közügyektől eltiltás nyilvántartási ideje: |  |  |
 
-|  | Intézkedés nyilvántartási ideje: |  |
+|  | Intézkedés nyilvántartási ideje: |  |  |
 
-[^114]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 22/2017. (XII. 22.) IM rendelet 8. §-ával megállapított, a 16/2018. (VI. 22.) IM rendelet 13. § 18–19. és 23. pontja szerint módosított szöveg.
+[^118]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 12/2022. (IV. 26.) IM rendelet 4. § (6) bekezdésével megállapított szöveg.

@@ -4,8 +4,8 @@ a) a büntetőügyek egyesítéséről, elkülönítéséről hozott határozat 
 
 b) a büntetőügy áttétele esetén
 
-ba)[^41] a 12. § (1) bekezdés a) pontjában meghatározott esetben az áttételről hozott határozat keltének,
+ba)[^43] a 12. § (1) bekezdés a) pontjában meghatározott esetben az áttételről hozott határozat keltének,
 
 bb) a 12. § (1) bekezdés b) pontjában meghatározott esetben az átvétel
 
-[^41]: A 13. § b) pont ba) alpontja a 16/2018. (VI. 22.) IM rendelet 10. § (1) bekezdésével megálapított szöveg.
+[^43]: A 13. § b) pont ba) alpontja a 16/2018. (VI. 22.) IM rendelet 10. § (1) bekezdésével megálapított szöveg.
