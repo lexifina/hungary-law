@@ -1,4 +1,4 @@
-3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^14]
+3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^19]
 
 1. Ellenőrző adatszolgáltató központok, valamint
 
@@ -84,4 +84,4 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 3.1.2. (b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^14]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.

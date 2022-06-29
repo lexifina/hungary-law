@@ -13,3 +13,7 @@ e) az OKSER SZB felkérésére eseti jelentés összeállítása és benyújtás
 f) a RISZK ügyrendjének, valamint éves költségvetési tervének elkészítése és benyújtása,
 
 g) az OKSER SZB felkérésére eseti jelentés elkészítése az OKSER SZB által meghatározott tartalommal.
+
+h)[^13] nukleáris veszélyhelyzetben az eseti mérések, valamint az ideiglenes mérési programok alapján nyert mérési eredmények központi számítógépes gyűjtése, feldolgozása és adatszolgáltatás az ONER kormányzati szervei részére.
+
+[^13]: A 9. § h) pontját a 209/2022. (VI. 14.) Korm. rendelet 8. § (5) bekezdése iktatta be.

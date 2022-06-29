@@ -2,7 +2,7 @@
 
 a)[^7] a Működési Rend kidolgozása és az OAH elnökéhez jóváhagyásra történő benyújtása,
 
-b) az OKSER 3. § (5) bekezdésében meghatározott tagjainak az OKSER keretében végrehajtandó mérési és adatszolgáltatási éves programjainak elfogadása és azok módosításának jóváhagyása, továbbá mérési ajánlások megfogalmazása OKSER tagjai számára,
+b)[^8] az OKSER 3. § (5) bekezdésében meghatározott tagjainak – az OKSER keretében végrehajtandó – éves mérési programjához iránymutatást nyújtó éves Országos Monitoring Program elfogadása, valamint a módosításának jóváhagyása.
 
 c) az éves jelentés szempontjainak kidolgozása,
 
@@ -19,3 +19,4 @@ h) az OKSER fejlesztésével kapcsolatos javaslatok elkészítése.
 (2) Az előző évre vonatkozó jelentést minden év június 30-ig kell elkészíteni.
 
 [^7]: A 6. § (1) bekezdés a) pontja a 767/2021. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés b) pontja a 209/2022. (VI. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
