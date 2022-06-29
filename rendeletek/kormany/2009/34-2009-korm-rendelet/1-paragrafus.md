@@ -10,7 +10,7 @@
 
 (3) Ezt a rendeletet nem kell alkalmazni:
 
-a) arra a szállítmányra, amelynek aktivitása vagy aktivitás-koncentrációja a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendeletben meghatározott mentességi aktivitás vagy aktivitás-koncentráció értékét nem lépi túl;
+a)[^2] arra a szállítmányra, amelynek aktivitása vagy aktivitás-koncentrációja nem tartozik az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendelet hatálya alá;
 
 b) a használaton kívüli sugárforrásnak a sugárforrás szállítójához, gyártójához vagy elismert létesítménybe történő szállítására;
 
@@ -19,3 +19,4 @@ c) az újrafeldolgozás útján további felhasználásra visszanyert radioaktí
 d) az olyan hulladék szállítására, amely kizárólag természetesen előforduló, nem tevékenységből eredő radioaktív anyagot tartalmaz.
 
 [^1]: A 1. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés a) pontja a 209/2022. (VI. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

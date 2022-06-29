@@ -2,17 +2,17 @@
 
 ## SZÁLLÍTMÁNY ÁTVÉTELÉNEK ELISMERÉSE
 
-19. § (1)[^22] Magyarország területére történő szállítás esetén a radioaktív hulladékok vagy kiégett fűtőelemek szállítmányának címzettje a szállítmány átvételétől számított 15 napon belül átvételi elismervényt küld a Hivatal számára.
+19. § (1)[^24] Magyarország területére történő szállítás esetén a radioaktív hulladékok vagy kiégett fűtőelemek szállítmányának címzettje a szállítmány átvételétől számított 15 napon belül átvételi elismervényt küld a Hivatal számára.
 
-(2)[^23] Magyarország területéről harmadik országba történő szállítás esetén a birtokos 15 napon belül értesíti a Hivatalt arról, hogy a szállítmány elérte a harmadik országbeli rendeltetési helyét, és megjelöli az Európai Unió azon utolsó határállomását, amelyen a szállítmány áthaladt. Az értesítéshez csatolja a címzett nyilatkozatát, amely szerint a szállítmány a rendeltetési helyére érkezett. A nyilatkozat tartalmazza a harmadik országbeli beléptető határállomás megjelölését.
+(2)[^25] Magyarország területéről harmadik országba történő szállítás esetén a birtokos 15 napon belül értesíti a Hivatalt arról, hogy a szállítmány elérte a harmadik országbeli rendeltetési helyét, és megjelöli az Európai Unió azon utolsó határállomását, amelyen a szállítmány áthaladt. Az értesítéshez csatolja a címzett nyilatkozatát, amely szerint a szállítmány a rendeltetési helyére érkezett. A nyilatkozat tartalmazza a harmadik országbeli beléptető határállomás megjelölését.
 
-(3)[^24] Ha a szállítás harmadik országból harmadik országba az Európai Unió területén keresztül történik és a szállítmány Magyarország határán lép be az Európai Unió területére, akkor a kérelmező a szállítmány rendeltetési helyére történő megérkezésének időpontjától számított 15 napon belül értesíti a Hivatalt arról, hogy a szállítmány a rendeltetési helyét elérte, és megjelöli az Európai Unió utolsó határállomását, amelyen a szállítmány áthaladt. Az értesítéshez csatolja a címzett nyilatkozatát, amely szerint a szállítmány a rendeltetési helyére érkezett. A nyilatkozat tartalmazza a harmadik országbeli beléptető határállomás megjelölését.
+(3)[^26] Ha a szállítás harmadik országból harmadik országba az Európai Unió területén keresztül történik és a szállítmány Magyarország határán lép be az Európai Unió területére, akkor a kérelmező a szállítmány rendeltetési helyére történő megérkezésének időpontjától számított 15 napon belül értesíti a Hivatalt arról, hogy a szállítmány a rendeltetési helyét elérte, és megjelöli az Európai Unió utolsó határállomását, amelyen a szállítmány áthaladt. Az értesítéshez csatolja a címzett nyilatkozatát, amely szerint a szállítmány a rendeltetési helyére érkezett. A nyilatkozat tartalmazza a harmadik országbeli beléptető határállomás megjelölését.
 
 (4) A Hivatal az (1) bekezdés szerinti átvételi elismervényt és a (2)–(3) bekezdések szerinti értesítések egy másolatát megküldi az érintett tagállamok és harmadik országok hatóságainak.
 
-(5)[^25] Magyarország területéről másik tagállamba történő szállítás esetén, a rendeltetési hely szerinti tagállam hatóságától kapott átvételi elismervény másolatát a Hivatal megküldi a birtokosnak.
+(5)[^27] Magyarország területéről másik tagállamba történő szállítás esetén, a rendeltetési hely szerinti tagállam hatóságától kapott átvételi elismervény másolatát a Hivatal megküldi a birtokosnak.
 
-[^22]: A 19. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
-[^23]: A 19. § (2) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
-[^24]: A 19. § (3) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
-[^25]: A 19. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^24]: A 19. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^25]: A 19. § (2) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^26]: A 19. § (3) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^27]: A 19. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.

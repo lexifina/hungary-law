@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-34-20-2
 | 2015-04-01 | 2009-34-20-22.7 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2016-01-01 | 2009-34-20-22.8 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2017-04-01 | 2009-34-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2022-06-29 | 2009-34-20-22.10 | 209/2022. (VI. 14.) Korm. rendelet |
