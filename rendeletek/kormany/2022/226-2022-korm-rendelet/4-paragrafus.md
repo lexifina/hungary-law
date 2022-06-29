@@ -1,0 +1,3 @@
+4. § (1) A minősített kölcsönbeadó a nyilvántartásba vételről rendelkező határozat számát köteles a harmadik országok állampolgárainak foglalkoztatásával kapcsolatos okirataiban feltüntetni.
+
+(2) A minősített kölcsönbeadó legkésőbb a foglalkoztatásra irányuló jogviszony létesítésére kötött szerződés megkötésével egyidejűleg a foglalkoztatással, a harmadik országbeli állampolgárok munkavállalásával, az idegenrendészettel kapcsolatos szabályokról – köteles a harmadik országbeli állampolgárt írásban, annak anyanyelvén vagy az általa értett más nyelven, tájékoztatni. A tájékoztatás elmulasztásával vagy a téves tájékoztatással okozott kárért a minősített kölcsönbeadó felelősséggel tartozik.
