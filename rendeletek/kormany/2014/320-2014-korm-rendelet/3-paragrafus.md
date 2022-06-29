@@ -6,7 +6,10 @@
 
 (2)[^8] A kormányhivatal, valamint a járási hivatal állami közfoglalkoztatási feladatköreinek gyakorlásával összefüggésben – ideértve a GFA közfoglalkoztatási előirányzatának működtetését – az (1) bekezdésben foglalt irányítási hatásköröket, valamint a törvényességi, szakszerűségi és hatékonysági ellenőrzési hatásköröket a közfoglalkoztatásért felelős miniszter gyakorolja.
 
+(3)[^9] A kormányhivatal harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladatköreinek gyakorlásával kapcsolatban az (1) bekezdésben foglalt irányítási hatásköröket, valamint a törvényességi, szakszerűségi és hatékonysági ellenőrzési hatásköröket a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter gyakorolja.
+
 [^5]: A 2. § a 360/2019. (XII. 30.) Korm. rendelet 135. § (2) bekezdésével megállapított, a 116/2021. (III. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § a 70/2015. (III. 30.) Korm. rendelet 258. § (3) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^8]: A 3. § (2) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdését a 227/2022. (VI. 28.) Korm. rendelet 3. §-a iktatta be.
