@@ -1,1 +1,3 @@
-## „(3) A (2) bekezdésben meghatározott körülmények fennállása esetén a miniszter az (1) bekezdés b) pontjában meghatározott tájékoztatást követő 7 munkanapon belül írásban tájékoztatja az állami vagyon felügyeletéért felelős minisztert az elővásárlási és vételi jog gyakorlására vonatkozó javaslatáról, aki az 5. §-ban meghatározott módon él a magyar állam elővásárlási, valamint vételi jogának gyakorlásával.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
