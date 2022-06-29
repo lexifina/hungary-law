@@ -1,6 +1,6 @@
 ## 7. Menetrendadás és menetrendtartás
 
-12. §[^34] (1) A Menetrendadásra kötelezett a befogadó részére a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint a hónap minden napjára napi termelési menetrendet ad.
+12. §[^39] (1) A Menetrendadásra kötelezett a befogadó részére a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint a hónap minden napjára napi termelési menetrendet ad.
 
 (2) A Menetrendadásra kötelezett a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendeletben, a kereskedelmi szabályzatban és a mérlegkör-tagsági szerződésében foglaltak szerint jogosult napon belüli termelési menetrend nyújtására. Ha a Menetrendadásra kötelezett a napon belüli termelési menetrendet nem vagy nem a villamosenergia-ellátási szabályzatokban meghatározottaknak megfelelően, vagy késedelmesen adja meg, akkor a napi termelési menetrend napon belüli termelési menetrenddé válik.
 
@@ -24,4 +24,4 @@ c) a tényleges szállítás időszakában tény alapú villamos energia betápl
 
 (9) A befogadó a (7) bekezdés szerinti szabályozási pótdíj havi összegét a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során csökkentő tényezőként veszi figyelembe.
 
-[^34]: A 12. § a 787/2021. (XII. 27.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^39]: A 12. § a 787/2021. (XII. 27.) Korm. rendelet 62. §-ával megállapított szöveg.

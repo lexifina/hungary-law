@@ -1,4 +1,4 @@
-5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^62]
+5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^71]
 
 ## A szabályozási pótdíj megállapítására vonatkozó szabályok
 
@@ -48,45 +48,11 @@
 
 |  | UEi = UTinöv– UTicsökk; |  |
 
-1.7. A 1.4. és 1.5. pontokban SZi ki, SZi be, RHiterm és RHi fogy mennyiségeket nulla értékkel kell figyelembe venni, amennyiben
+1.7. Az 1.1–1.5. pontban, valamint a 6. számú mellékletben az SZi ki és SZi be mennyiségeket nulla értékkel kell figyelembe venni és a befogadó ebben az értelemben módosítja az érintett menetrendadásra kötelezett önálló kiegyenlítő menedzsmenttel összefüggő menetrendjét, amennyiben
 
-|  | MDi KÁT<abs(SZi ki) + abs(SZi be) + abs(RHiterm) + abs(RHi fogy); |  |
+MDi KÁT < abs(SZi ki) + abs(SZi be);
 
-ahol:
-
-SZPi − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezettre eső szabályozási pótdíj, Ft;
-
-ΣFEL – az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezettek FEL irányú eltéréseinek összesítése;
-
-ΣLE – az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezettek LE irányú eltéréseinek összesítése;
-
-MBi KÁT-HUPX – az adott (i) elszámolási mérési időegységben KÁT mérlegkör és a szervezett villamosenergia-piac mérlegkörének egymás viszonylatában értett, belkereskedelmi menetrendje szerinti villamosenergia-mennyiség, kWh;
-
-MIi KÁT − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett napon belüli termelési menetrendje szerinti villamosenergia-mennyiség, kWh;
-
-SZi ki − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett által a KÁT mérlegkörből piaci mérlegkörökbe menetrend szerint kiszállított villamosenergia-mennyiség, kWh;
-
-SZi be − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett által a KÁT mérlegkörbe piaci mérlegkörökből menetrend szerint beszállított villamosenergia-mennyiség, kWh;
-
-Ti KÁT − az adott (i) elszámolási mérési időegységben a KÁT termelő – összevont menetrend esetén a menetrend-csoportba tartozó KÁT termelők – által, a 4. § (5) bekezdés szerinti ténylegesen értékesített villamosenergia-mennyiség, kWh;
-
-RHi term − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett által a rendszerhasználótól a KÁT mérlegkörbe átvett villamosenergia-mennyiség, kWh;
-
-RHi fogy − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett által a rendszerhasználónak a KÁT mérlegkörből átadott villamosenergia-mennyiség, kWh;
-
-UTi növ − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett FEL irányú utasított eltérésének villamosenergia-mennyisége, kWh;
-
-UTi csökk − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett LE irányú utasított eltérésének villamosenergia-mennyisége, kWh;
-
-KEi kWh − az adott (i) elszámolási mérési időegységben a KÁT mérlegkör kiegyenlítő energia mennyisége az önálló kiegyenlítő menedzsment és az utasított eltérések figyelembevételével, kWh;
-
-KEi Ft − az adott (i) elszámolási mérési időegységben a KÁT mérlegkörre megállapított kiegyenlítő energiadíj, Ft;
-
-Pi − az adott (i) elszámolási mérési időegységben a másnapi hazai szervezett villamosenergia-piacon kialakult órás ár (EUR/MWh) a Magyar Nemzeti Bank adott hónapra közzétett napi középárfolyamainak számtani átlaga alapján átváltva, Ft/kWh;
-
-abs − abszolútérték;
-
-MDi KÁT − az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett napi termelési menetrendje szerinti villamosenergia-mennyiség, kWh.
+1.8. Amennyiben a menetrendadásra kötelezett a 12. § (1) bekezdés szerinti menetrendadási kötelezettségét nem teljesíti, az adott napra nem élhet a 12. § (3) bekezdés a) pontja szerinti jogával és befogadó ebben az értelemben módosítja az érintett menetrendadásra kötelezett önálló kiegyenlítő menedzsmenttel összefüggő menetrendjét.
 
 2. A KÁT termelő szabályozási pótdíj csökkentésének összege, mely nem haladhatja meg az 1. pont szerinti szabályozási pótdíj havi összegét:
 
@@ -154,4 +120,4 @@ azzal, hogy ha K >Σhó(SZPi), akkor SZPhó értéke nulla.
 
 7. A 9. § (7) bekezdése szerinti számviteli bizonylaton szereplő, 1−6. pont szerinti szabályozási pótdíj összegét a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 9. § (11) bekezdése alapján korrigálásra kerül.
 
-[^62]: Az 5. melléklet a 787/2021. (XII. 27.) Korm. rendelet 71. § (1) bekezdés b) pontjával megállapított szöveg.
+[^71]: Az 5. melléklet a 787/2021. (XII. 27.) Korm. rendelet 71. § (1) bekezdés b) pontjával megállapított, a 229/2022. (VI. 28.) Korm. rendelet 19. §-a szerint módosított szöveg.

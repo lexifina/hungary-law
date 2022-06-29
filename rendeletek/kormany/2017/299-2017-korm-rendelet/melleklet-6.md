@@ -1,4 +1,4 @@
-6. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^63]
+6. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^72]
 
 ## A menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjére vonatkozó szabályok
 
@@ -50,4 +50,4 @@ Pi - az adott (i) elszámolási mérési időegységben a másnapi hazai szervez
 
 8. A 9. § (6) bekezdés szerinti számlán szereplő, 7. pont szerinti összeget a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 9. § (11) bekezdése alapján korrigálásra kerül.
 
-[^63]: A 6. mellékletet a 787/2021. (XII. 27.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^72]: A 6. mellékletet a 787/2021. (XII. 27.) Korm. rendelet 71. § (2) bekezdése iktatta be.

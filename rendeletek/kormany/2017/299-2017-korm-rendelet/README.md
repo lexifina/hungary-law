@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-299-20-
 | 2022-01-01 | 2017-299-20-22.11 | 787/2021. (XII. 27.) Korm. rendelet |
 | 2022-03-01 | 2017-299-20-22.12 | 787/2021. (XII. 27.) Korm. rendelet |
 | 2022-05-26 | 2017-299-20-22.13 | 184/2022. (V. 25.) Korm. rendelet |
+| 2022-06-29 | 2017-299-20-22.14 | 229/2022. (VI. 28.) Korm. rendelet |
