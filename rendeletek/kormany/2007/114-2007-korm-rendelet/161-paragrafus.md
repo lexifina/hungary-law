@@ -20,6 +20,6 @@ e) szokásos tartózkodási helye szerinti országban lévő lakhelyét, valamin
 
 f) magyarországi lakóhelyét, tartózkodási helyét vagy szálláshelyét.
 
-(3)[^528] A jegyzőkönyvet a kérelmezőnek, tolmács közreműködése esetén a tolmácsnak, kísérő nélküli kiskorú esetében a kirendelt eseti gyámnak is alá kell írnia.
+(3)[^532] A jegyzőkönyvet a kérelmezőnek, tolmács közreműködése esetén a tolmácsnak, kísérő nélküli kiskorú esetében a kirendelt eseti gyámnak is alá kell írnia.
 
-[^528]: A 161. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^532]: A 161. § (3) bekezdése a 13/2014. (I. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

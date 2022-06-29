@@ -1,4 +1,4 @@
-182/B. §[^587] (1) Az a harmadik országbeli állampolgár, akinek a Tv. 35/A. § (2) bekezdésére figyelemmel a beutazásához és tartózkodásához magyarországi befektetéseire tekintettel nemzetgazdasági érdek fűződik, a Tv. 35/A. § (1) bekezdése alapján nemzeti letelepedési engedély iránti kérelmet a 93. § (1d)–(1g) bekezdése alapján 2017. március 31-ig terjeszthet elő.
+182/B. §[^591] (1) Az a harmadik országbeli állampolgár, akinek a Tv. 35/A. § (2) bekezdésére figyelemmel a beutazásához és tartózkodásához magyarországi befektetéseire tekintettel nemzetgazdasági érdek fűződik, a Tv. 35/A. § (1) bekezdése alapján nemzeti letelepedési engedély iránti kérelmet a 93. § (1d)–(1g) bekezdése alapján 2017. március 31-ig terjeszthet elő.
 
 (2) A 2016. július 1. napja előtt nemzetgazdasági érdekre hivatkozással benyújtott kérelemre kiállított tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár a Tv. 35/A. § (1) bekezdése alapján nemzeti letelepedési engedély iránti kérelmet a 93. § (1d)–(1g) bekezdése alapján 2017. március 31-ig terjeszthet elő.
 
@@ -6,7 +6,7 @@
 
 (4) 2017. június 30-át követően a (3) bekezdés szerinti kérelmező a Tv. 35/A. § (1) bekezdése alapján kérelmet nem nyújthat be.
 
-(5)[^588] A 93. § (1f)–(1g) bekezdésében meghatározott regionális igazgatóság és a Főigazgatóság az (1)–(4) bekezdésben meghatározottak szerint előterjesztett nemzeti letelepedési kérelem tárgyában indult eljárás során
+(5)[^592] A 93. § (1f)–(1g) bekezdésében meghatározott regionális igazgatóság és a Főigazgatóság az (1)–(4) bekezdésben meghatározottak szerint előterjesztett nemzeti letelepedési kérelem tárgyában indult eljárás során
 
 a) egy alkalommal, legfeljebb hetvenöt napos teljesítési határidővel bocsáthat ki hiánypótlási felhívást,
 
@@ -16,8 +16,8 @@ c) az eljárást nem függesztheti fel,
 
 d) döntését úgy köteles meghozni, hogy a Tv. 35/A. § (2) bekezdés b) pontjában meghatározott államkötvény lejegyzési kötelezettségét a vállalkozás teljesíteni tudja.
 
-(6)[^589] Az államkötvény program lezárását követően a regionális igazgatóság és a Főigazgatóság a nemzeti letelepedési engedély iránti kérelemnek helyt adó döntést nem hozhat.
+(6)[^593] Az államkötvény program lezárását követően a regionális igazgatóság és a Főigazgatóság a nemzeti letelepedési engedély iránti kérelemnek helyt adó döntést nem hozhat.
 
-[^587]: A 182/B. §-t a 45/2017. (III. 17.) Korm. rendelet 1. §-a iktatta be.
-[^588]: A 182/B. § (5) bekezdés nyitó szövegrésze a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
-[^589]: A 182/B. § (6) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^591]: A 182/B. §-t a 45/2017. (III. 17.) Korm. rendelet 1. §-a iktatta be.
+[^592]: A 182/B. § (5) bekezdés nyitó szövegrésze a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^593]: A 182/B. § (6) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
