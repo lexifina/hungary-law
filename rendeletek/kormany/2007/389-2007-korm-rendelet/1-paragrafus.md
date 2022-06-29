@@ -34,19 +34,21 @@ c)[^5] biomassza, biogáz vagy hulladékból nyert energia továbbá megújuló 
 
 a) jogutódláson alapuló, változatlan kötelező átvételi jogosultság bejegyzésére,
 
-b) erőműegység megvásárlásán alapuló, változatlan kötelező átvételi jogosultság bejegyzésére, vagy
+b) erőműegység feletti rendelkezési jog átadásán alapuló, változatlan kötelező átvételi jogosultság bejegyzésére vagy
 
 c) a kötelező átvételi jogosultság megállapítása során figyelembe vett egyéb állami támogatás mértékének megváltozása miatti módosításra
 
-d)[^9]
-
 ## irányul.
 
-(7)[^10] A (6) bekezdés a) és b) pontja esetén a Hivatal kötelező átvételi jogosultságot csak abban az esetben állapíthat meg, ha a kötelező átvételi jogosultságot átadóval szemben a jogutódlás időpontjában vagy a (6) bekezdés b) pontja szerinti vásárlási kérelem elbírálásakor nem áll fenn a 9/A. § (4) bekezdésében meghatározott kizáró ok.
+(7)[^9] A (6) bekezdés a) és b) pontja esetén a Hivatal kötelező átvételi jogosultságot állapít meg, ha a kötelező átvételi jogosultságot átadóval szemben a jogutódlás időpontjában vagy a kötelező átvételi jogosultság rendelkezési jog átadásán alapuló megállapítására vonatkozó, (6) bekezdés b) pontja szerinti kérelem elbírálásakor nem áll fenn a 9/A. § (4) bekezdésében meghatározott kizáró ok.
 
-(8)[^11] A kötelező átvételi jogosultság megállapítására irányuló kérelmet a (6) bekezdés a) pontja esetén a jogutód, a (6) bekezdés b) pontja esetén az erőműegység vevője nyújtja be a Hivatalhoz. Az üggyel érintett további – kérelmezőn kívüli – ügyfelek (7) bekezdés szerinti feltételeknek való megfelelését a Hivatal hatósági ellenőrzés keretében vizsgálja.
+(8)[^10] A kötelező átvételi jogosultság megállapítására irányuló kérelmet a (6) bekezdés a) pontja esetén a jogutód, a (6) bekezdés b) pontja esetén az erőműegység felett rendelkezési jogot szerző személy nyújtja be a Hivatalhoz. Az üggyel érintett további – kérelmezőn kívüli – ügyfelek (7) bekezdés szerinti feltételeknek való megfelelését a Hivatal hatósági ellenőrzés keretében vizsgálja.
 
-(9)[^12] A (6)–(8) bekezdés vonatkozásában ügyfélnek minősülnek mindazon személyek, akik a kötelező átvételi jogosultság megállapítására irányuló kérelem alapjául szolgáló jogügyletben érintettek.
+(9)[^11] A (6)–(8) bekezdés vonatkozásában ügyfélnek minősülnek mindazon személyek, akik a kötelező átvételi jogosultság megállapítására irányuló kérelem alapjául szolgáló jogügyletben érintettek.
+
+(10)[^12] A (6) bekezdés a) pontja szerinti kérelmet a jogutód a jogutódlást követő harminc napon belül nyújtja be a Hivatalhoz.
+
+(11)[^13] A kötelező átvételre jogosult erőműegység feletti rendelkezési jog átadása legkorábban akkor hatályosul, amikor a kötelező átvételi jogosultság (6) bekezdés b) pontja szerinti bejegyzése a kötelező átvételre jogosult erőműegység feletti rendelkezési jogot szerző részére megtörténik.
 
 [^1]: Az 1. § (1) bekezdés záró szövegrésze a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése, a 787/2021. (XII. 27.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontját a 166/2011. (VIII. 24.) Korm. rendelet 3. § 1. pontja hatályon kívül helyezte.
@@ -55,8 +57,9 @@ d)[^9]
 [^5]: Az 1. § (3) bekezdésének c) pontja a 287/2008. (XI. 28.) Korm. rendelet 11. § (7) bekezdése szerint módosított szöveg.
 [^6]: Az 1. § (4) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 3. § 2. pontja hatályon kívül helyezte.
 [^7]: Az 1. § (5) bekezdése a 166/2011. (VIII. 24.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § (6) bekezdését a 312/2016. (X. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^9]: Az 1. § (6) bekezdés d) pontját a 92/2018. (IV. 27.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
-[^10]: Az 1. § (7) bekezdését a 364/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
-[^11]: Az 1. § (8) bekezdését a 364/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
-[^12]: Az 1. § (9) bekezdését a 364/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (6) bekezdését a 312/2016. (X. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 229/2022. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. § (7) bekezdését a 364/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 229/2022. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 1. § (8) bekezdését a 364/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 229/2022. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: Az 1. § (9) bekezdését a 364/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 229/2022. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 1. § (10) bekezdését a 229/2022. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^13]: Az 1. § (11) bekezdését a 229/2022. (VI. 28.) Korm. rendelet 1. §-a iktatta be.

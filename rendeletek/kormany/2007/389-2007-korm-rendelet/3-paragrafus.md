@@ -1,6 +1,6 @@
 ## A villamos energia kötelező átvételének általános szabályai
 
-3. §[^28] (1) A kötelező átvételi rendszerben a KÁT termelő jogosult a Hivatal kötelező átvételi jogosultságot megállapító határozatában foglaltaknak megfelelő mennyiségű villamos energiát, a határozatban megjelölt átvételi időtartam alatt, a kérelem benyújtásának időpontjában hatályos árképzési szabályok szerint a Befogadónak átadni, a Befogadó köteles azt befogadni, valamint a KÁT termelővel a villamos energia ellenértékét a (3) bekezdésben foglaltak figyelembevételével a kötelező átvételi mérlegkörben elszámolni.
+3. §[^29] (1) A kötelező átvételi rendszerben a KÁT termelő jogosult a Hivatal kötelező átvételi jogosultságot megállapító határozatában foglaltaknak megfelelő mennyiségű villamos energiát, a határozatban megjelölt átvételi időtartam alatt, a kérelem benyújtásának időpontjában hatályos árképzési szabályok szerint a Befogadónak átadni, a Befogadó köteles azt befogadni, valamint a KÁT termelővel a villamos energia ellenértékét a (3) bekezdésben foglaltak figyelembevételével a kötelező átvételi mérlegkörben elszámolni.
 
 (2) A KÁT termelők a kötelező átvételi mérlegkörön belül menetrendadással kapcsolatos jogaik közös gyakorlása és kötelezettségeik közös teljesítése céljából összevont menetrendadásra jogosultak az alábbi feltételek szerint:
 
@@ -50,4 +50,7 @@ i) A 7. § (7) bekezdése szerinti önálló kiegyenlítő menedzsmenttel olyan 
 
 (16) Ha a (8) bekezdés szerinti mérés nem hitelesített mérőberendezéssel történik, akkor a kötelező átvételben értékesített villamosenergia-mennyiség tekintetében a 9. §-t kell alkalmazni.
 
-[^28]: A 3. § a 787/2021. (XII. 27.) Korm. rendelet 27. §-ával megállapított szöveg.
+(17)[^30] A kötelező átvételre jogosult termelő kérésére – a kötelező átvételi jogosultság jogutódlás vagy az erőműegység feletti rendelkezési jog átadása miatti megállapításának esetét kivéve – a kötelező átvételi jogosultságot a Hivatal nem vonhatja vissza.
+
+[^29]: A 3. § a 787/2021. (XII. 27.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^30]: A 3. § (17) bekezdését a 229/2022. (VI. 28.) Korm. rendelet 2. §-a iktatta be.

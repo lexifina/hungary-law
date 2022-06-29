@@ -1,8 +1,8 @@
-## 6/A. §[^57]
+## 6/A. §[^59]
 
 ## A kötelező átvételi jogosultság gyakorlásának szabályai
 
-7. §[^58] (1) A KÁT termelő az e rendelet feltételeinek megfelelő villamos energiát a kötelező átvétel keretében, a Hivatal határozatában megállapított kötelező átvételi időtartam alatt, a Hivatal által meghatározott éves mennyiségek, vagy az előbbiek szorzataként meghatározott összes átveendő energia mértékéig értékesítheti az e rendelet szerinti átvételi áron.
+7. §[^60] (1) A KÁT termelő az e rendelet feltételeinek megfelelő villamos energiát a kötelező átvétel keretében, a Hivatal határozatában megállapított kötelező átvételi időtartam alatt, a Hivatal által meghatározott éves mennyiségek, vagy az előbbiek szorzataként meghatározott összes átveendő energia mértékéig értékesítheti az e rendelet szerinti átvételi áron.
 
 (2) Ha a villamosenergia-termelés biomassza felhasználásával történik a KÁT termelő a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló törvény rendelkezéseinek megfelelően igazolja erdei biomassza és fásszárú biomassza esetében, hogy a biomassza fenntartható gazdálkodásból származik, és nem tartozik a VET 10. § (2) bekezdése hatálya alá. A Magyarország területén kívül keletkezett erdőgazdálkodásból származó biomassza esetén a fenntartható gazdálkodást a KÁT termelő a Forest Stewardship Council (FSC) vagy Programme for the Endorsement of Forest Certification (PEFC) tanúsítványával igazolja, és nyilatkozik a VET 10. § (2) bekezdése alóli mentességről.
 
@@ -34,5 +34,5 @@ c) a tényleges szállítás időszakában tény alapú villamos energia betápl
 
 (13) A Befogadó a (11) bekezdés szerinti szabályozási pótdíj havi összegét a VET 13. § (1) bekezdése szerinti pénzeszköz mértékének meghatározása során csökkentő tényezőként veszi figyelembe.
 
-[^57]: A 6/A. §-t újonnan a 4/2018. (II. 2.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
-[^58]: A 7. § a 787/2021. (XII. 27.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^59]: A 6/A. §-t újonnan a 4/2018. (II. 2.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
+[^60]: A 7. § a 787/2021. (XII. 27.) Korm. rendelet 30. §-ával megállapított szöveg.

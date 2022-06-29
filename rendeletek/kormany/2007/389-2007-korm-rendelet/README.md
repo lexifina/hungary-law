@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-389-20-
 | 2022-01-01 | 2007-389-20-22.38 | 787/2021. (XII. 27.) Korm. rendelet |
 | 2022-03-01 | 2007-389-20-22.39 | 787/2021. (XII. 27.) Korm. rendelet |
 | 2022-05-26 | 2007-389-20-22.40 | 184/2022. (V. 25.) Korm. rendelet |
+| 2022-06-29 | 2007-389-20-22.41 | 229/2022. (VI. 28.) Korm. rendelet |

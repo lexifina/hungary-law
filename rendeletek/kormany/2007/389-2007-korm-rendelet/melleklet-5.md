@@ -50,6 +50,6 @@
 
 2. A 4. § (2)–(6) bekezdése szerinti villamos energia tárgyévre vonatkozó, január 1-jétől érvényes – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos kötelező átvételi árát a tárgyévet megelőző év – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos átvételi ára és a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, az előző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex 1% pontos hatékonyságjavítási tényezővel csökkentett értékének szorzata alapján kell meghatározni.
 
-3.[^122] E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
+3.[^126] E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
 
-[^122]: Az 5. melléklet 3. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (14) bekezdése szerint módosított szöveg.
+[^126]: Az 5. melléklet 3. pontja a 393/2016. (XII. 5.) Korm. rendelet 2. § (14) bekezdése szerint módosított szöveg.

@@ -104,6 +104,6 @@
 
 ## A kötelező átvétel helyett választott prémium támogatás támogatott árának az időben egyenletes termelés melletti átlagárra vonatkozó szorzója: 1.
 
-2. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^119]
+2. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^123]
 
-[^119]: A 2. számú mellékletet a 166/2011. (VIII. 24.) Korm. rendelet 3. § 24. pontja hatályon kívül helyezte.
+[^123]: A 2. számú mellékletet a 166/2011. (VIII. 24.) Korm. rendelet 3. § 24. pontja hatályon kívül helyezte.

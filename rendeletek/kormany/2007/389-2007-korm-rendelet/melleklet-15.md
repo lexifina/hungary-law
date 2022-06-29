@@ -1,4 +1,4 @@
-15. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^131]
+15. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^135]
 
 ## A Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjére vonatkozó szabályok
 
@@ -50,4 +50,4 @@ Pi - az adott (i) elszámolási mérési időegységben a másnapi hazai szervez
 
 8. A 4. számú melléklet II. Különös szabályok 6. pontja szerinti számlán szereplő, 7. pont szerinti összeget a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 4. számú melléklet II. Különös szabályok 10. pontja alapján korrigálásra kerül.
 
-[^131]: A 15. számú mellékletet a 787/2021. (XII. 27.) Korm. rendelet 35. §-a iktata be.
+[^135]: A 15. számú mellékletet a 787/2021. (XII. 27.) Korm. rendelet 35. §-a iktata be.

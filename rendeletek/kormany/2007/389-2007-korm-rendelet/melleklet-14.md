@@ -16,7 +16,7 @@
 
 ## ”
 
-14. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^130]
+14. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^134]
 
 ## A szabályozási pótdíj megállapítására vonatkozó szabályok
 
@@ -70,9 +70,13 @@ bc)HaKEi kWh > =0 akkor
 
 |  | UEi = UTinöv– UTicsökk; |  |
 
-1.7. Az1.4. és 1.5. pontokban SZi ki, SZi be, RHiterm és RHi fogy mennyiségeket nulla értékkel kell figyelembe venni, amennyiben
+1.7. Az 1.1–1.5. pontban, valamint a 15. számú mellékletben az SZi ki és SZi be mennyiségeket nulla értékkel
 
-|  | MDi KÁT<abs(SZi ki) + abs(SZi be) + abs(RHiterm) + abs(RHi fogy); |  |
+kell figyelembe venni és a Befogadó ebben az értelemben módosítja az érintett Menetrendadásra kötelezett önálló kiegyenlítő menedzsmenttel összefüggő menetrendjét, amennyiben
+
+|  | MDi KÁT < abs(SZi ki) + abs(SZi be); |  |
+
+1.8. Amennyiben a Menetrendadásra kötelezett a 7. § (5) bekezdés szerinti menetrendadási kötelezettségét nem teljesíti, az adott napra nem élhet a 7. § (7) bekezdés a) pont szerinti jogával és Befogadó ebben az értelemben módosítja az érintett Menetrendadásra kötelezett önálló kiegyenlítő menedzsmenttel összefüggő menetrendjét.
 
 ahol:
 
@@ -184,4 +188,4 @@ azzal, hogy ha K >Σhó(SZPi), akkor SZPhó értéke nulla.
 
 7. A 4. számú melléklet II. Különös szabályok 6. pontja szerinti számviteli bizonylaton szereplő, 1-6. pont szerinti szabályozási pótdíj összegét a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 4. számú melléklet II. Különös szabályok 10. pontja alapján korrigálásra kerül.
 
-[^130]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 34. § c) pontjával megállapított szöveg.
+[^134]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 34. § c) pontjával megállapított, a 229/2022. (VI. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
