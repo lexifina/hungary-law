@@ -2,10 +2,13 @@
 
 a) az átviteli díjra vonatkozóan 2022. július 1-je, azzal, hogy a díjmegállapítás során a 2022. január 1. és a 2022. június 30. közötti időszak (3) bekezdés szerinti, korábbival azonos árszintjét ezen ármegállapítás során figyelembe kell venni,
 
-b) az elosztási díjra és a közvilágítási elosztási díjra vonatkozóan 2023. január 1-je, azzal, hogy a díjmegállapítás során a 2022. január 1. és a 2022. december 31. közötti időszak (4) bekezdés szerinti, korábbival azonos árszintjét ezen ármegállapítás során figyelembe kell venni.
+b)[^2]
 
 (2) A rendszerhasználati díjak (1) bekezdés a) pontja szerinti megállapítása során a Magyar Energetikai és Közmű-szabályozási Hivatal a Vet. 143. § (5) bekezdésétől eltérően a határozatát a rendszerhasználati díjak alkalmazhatósága előtt legalább 10 nappal hozza meg, és teszi közzé a honlapján.
 
 (3) A 2022. január 1. és 2022. június 30. közötti időszakban a 2021. december 31-én hatályos átviteli díj alkalmazandó.
 
-(4) A 2022. január 1. és 2022. december 31. közötti időszakban a 2021. december 31-én hatályos elosztási díj és közvilágítási elosztási díj alkalmazandó.
+(4)[^3]
+
+[^2]: Az 1. § (1) bekezdés b) pontját a 228/2022. (VI. 28.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (4) bekezdését a 228/2022. (VI. 28.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
