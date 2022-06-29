@@ -26,6 +26,8 @@ f) a jogviszony megszűnésével összefüggő igazolások kiállítására és 
 
 g) a munkaerő-kölcsönzésre, valamint a munkaerő-kölcsönzési tevékenység végzésére
 
+h)[^2] a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére, illetve a harmadik országbeli és a szabad mozgás és tartózkodás jogával rendelkező állampolgárok foglalkoztatására, ideértve a harmadik országbeli állampolgár minősített kölcsönbeadónál történő foglalkoztatására, a harmadik országbeli állampolgár felé fennálló kötelező tájékoztatásra
+
 ## vonatkozó szabályok megtartását.
 
 (3) A minimumkövetelmények körében a foglalkoztatás-felügyeleti hatósági ellenőrzés a foglalkoztatásra irányuló jogviszonyt szabályozó jogszabály
@@ -49,3 +51,5 @@ d) önfoglalkoztatás
 ## keretében történik.
 
 (5) A foglalkoztatás-felügyeleti hatóság az állami foglalkoztatási szerv megkeresésére hatósági ellenőrzést folytat le a foglalkoztatásra irányuló jogviszonyt szabályozó jogszabályok megtartásának ellenőrzésére a foglalkoztatást elősegítő támogatásban részesülő foglalkoztatónál, és az ellenőrzés eredményéről tájékoztatja az állami foglalkoztatási szervet.
+
+[^2]: Az 5. § (2) bekezdés h) pontját a 227/2022. (VI. 28.) Korm. rendelet 8. §-a iktatta be.

@@ -14,6 +14,8 @@ a) az adóhatóságra,
 
 b) az egyenlő bánásmód követelményének érvényesülését ellenőrző hatóságra,
 
-c) az idegenrendészeti hatóságra,
+c)[^1]
 
 d) a különös hatáskörű foglalkoztatás-felügyeleti hatóságokra
+
+[^1]: Az 1. § (3) bekezdés c) pontját a 227/2022. (VI. 28.) Korm. rendelet 12. §-a hatályon kívül helyezte.

@@ -14,9 +14,15 @@ b) a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos élet
 
 c) a munka díjazására vonatkozó rendelkezéseket megsértette, ide nem értve a hatósági ellenőrzés megkezdésekor felszámolási vagy kényszertörlési eljárás alatt álló foglalkoztatót,
 
-d) hatósági nyilvántartásba vétel hiányában folytatott munkaerő-kölcsönzésre irányuló tevékenységet, vagy
+d)[^4] a hatósági nyilvántartásba vétel hiányában folytatott munkaerő-kölcsönzésre irányuló tevékenységet,
 
-e) a foglalkoztatásra irányuló jogviszony létesítésével összefüggő jognyilatkozatok alakszerűségének megsértésével színlelt szerződést kötött.
+e)[^5] a foglalkoztatásra irányuló jogviszony létesítésével összefüggő jognyilatkozatok alakszerűségének megsértésével színlelt szerződést kötött, vagy
+
+f)[^6] minősített kölcsönbeadóként nem tett eleget
+
+fa) a harmadik országbeli állampolgárok foglalkoztatása során jogszabályban meghatározott, a harmadik országbeli állampolgár felé fennálló tájékoztatási kötelezettségének, vagy
+
+fb) a nyilvántartásba vételével kapcsolatos szabályok szerinti kötelezettségének.
 
 (5) Nem szabható ki munkaügyi bírság, ha
 
@@ -31,3 +37,7 @@ d) a (4) bekezdés e) pontja szerinti esetben a foglalkoztató a foglalkoztatás
 (6) A (4) bekezdés a) pontja alapján a munkaügyi bírság a munkaügyi bírság legkisebb összegéig mérsékelhető, ha a foglalkoztató a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos bejelentési kötelezettségét az eljárás során az Fftv. 10. § (2) bekezdése szerinti időtartamra teljesíti.
 
 (7) Az (5) bekezdés a) és b) pontja nem alkalmazható, ha a foglalkoztató a hatósági ellenőrzés megkezdését követően létesített jogviszony bejelentésére vonatkozó kötelezettségét késedelmesen teljesíti.
+
+[^4]: A 18. § (4) bekezdés d) pontja a 227/2022. (VI. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^5]: A 18. § (4) bekezdés e) pontja a 227/2022. (VI. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^6]: A 18. § (4) bekezdés f) pontját a 227/2022. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be.
