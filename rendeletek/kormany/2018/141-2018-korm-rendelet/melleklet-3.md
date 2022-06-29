@@ -216,6 +216,8 @@
 
 | 101. | A Zalmon lazacfarm megvalósítására vonatkozó beruházás | Zalaegerszeg külterületén elhelyezkedő 0828/68 helyrajzi számú és a beruházáshoz kapcsolódó közműépítéssel érintett ingatlanok | – |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^306]
+| 102. | Gyártóbázis létrehozására irányuló beruházás Lukácsháza területén | Lukácsháza közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 325/5 helyrajzi számon nyilvántartott ingatlan | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^306]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^308]
+
+[^308]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
