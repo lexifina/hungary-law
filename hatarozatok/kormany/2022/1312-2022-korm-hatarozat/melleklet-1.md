@@ -4,15 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. A címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alap előirányzatból, fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításról szóló 1302/2022. (VI. 22.) Korm. határozat
-
-## a) 1. pont a) alpont ag), ah) és ai) pontjában a „11.” szövegrész helyébe a „13.” szöveg,
-
-## b) 1. pont a) alpont ah) pontjában az „az 1. Kulturális értékmegőrző beruházások” szövegrész helyébe az „a 2. Kulturális értékmegőrző beruházások” szöveg és
-
-## c) 1. pont a) alpont ai) pontjában a „2. Építésgazdaság-fejlesztési programok” szövegrész helyébe a „3. Építésgazdaság-fejlesztési programok” szöveg
-
-## lép.
+## 2.[^1]
 
 1. melléklet az 1312/2022. (VI. 28.) Korm. határozathoz
 
@@ -111,3 +103,5 @@
 |  |  | egyéb: |  | azonnal |  | 1 385 373 850 |  |  |  |  |  |  |  |  |  | 1 385 373 850 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
