@@ -10,14 +10,14 @@
 
 (4) Az (1) bekezdés alkalmazásában – az ellenkező bizonyításáig – a munkaviszony fennállását legalább három hónap időtartamban vélelmezni kell.
 
-(5)[^106] A szezonális munkavállalási engedély esetében az (1)–(3) bekezdésben foglaltakat abban az esetben is alkalmazni kell, ha a szezonális munkavállalási engedély visszavonására azért került sor, mert
+(5)[^109] A szezonális munkavállalási engedély esetében az (1)–(3) bekezdésben foglaltakat abban az esetben is alkalmazni kell, ha a szezonális munkavállalási engedély visszavonására azért került sor, mert
 
-a)[^107] az illetékes hatóság a szezonális munkavállalási engedély iránti kérelem benyújtását megelőző egy éven belül a foglalkoztatót foglalkoztatási jogviszony létesítésével, megszűnésével, megszüntetésével kapcsolatos bejelentési kötelezettség elmulasztása vagy harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt pénzügyi szankció megfizetésére kötelezte,
+a)[^110] az illetékes hatóság a szezonális munkavállalási engedély iránti kérelem benyújtását megelőző egy éven belül a foglalkoztatót foglalkoztatási jogviszony létesítésével, megszűnésével, megszüntetésével kapcsolatos bejelentési kötelezettség elmulasztása vagy harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt pénzügyi szankció megfizetésére kötelezte,
 
 b) foglalkoztató felszámolási eljárás alatt áll vagy nem folytat gazdasági tevékenységet.
 
-(6)[^108] Az (5) bekezdésben meghatározott esetben az elmaradt munkabér összegébe be kell számítani az engedély időtartamából hátralévő időtartamra járó munkabért is.
+(6)[^111] Az (5) bekezdésben meghatározott esetben az elmaradt munkabér összegébe be kell számítani az engedély időtartamából hátralévő időtartamra járó munkabért is.
 
-[^106]: A 23. § (5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 87. §-a iktatta be.
-[^107]: A 23. § (5) bekezdés a) pontja a 116/2021. (III. 10.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^108]: A 23. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 87. §-a iktatta be.
+[^109]: A 23. § (5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 87. §-a iktatta be.
+[^110]: A 23. § (5) bekezdés a) pontja a 116/2021. (III. 10.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^111]: A 23. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 87. §-a iktatta be.
