@@ -1,3 +1,3 @@
-6. melléklet a 37/2020. (X. 30.) EMMI rendelethez[^28]
+6. melléklet a 37/2020. (X. 30.) EMMI rendelethez[^27]
 
-[^28]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
