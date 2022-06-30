@@ -74,3 +74,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2021-11-03 | 1993-9-20-3D.132 | 3/2004. (I. 15.) ESZCSM rendelet |
 | 2022-01-01 | 1993-9-20-3D.133 | 55/2021. (XII. 22.) EMMI rendelet |
 | 2022-02-01 | 1993-9-20-3D.134 | 32/2016. (X. 27.) EMMI rendelet |
+| 2022-06-30 | 1993-9-20-3D.135 | 3/2004. (I. 15.) ESZCSM rendelet |
