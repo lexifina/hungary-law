@@ -1,3 +1,3 @@
-## 14. § A METÁR rendelet 10. §-a a következő (3) bekezdéssel egészül ki:
+## 14. §[^14]
 
-## „(3) A KÁT mérlegkörben történő értékesítéshez a kötelező átvételre jogosult termelő a befogadó üzletszabályzata szerinti KÁT mérlegkör-tagsági szerződést köt a befogadóval. A szerződés megkötésére vonatkozó eljárásrendet a kereskedelmi szabályzat és befogadó üzletszabályzata határozza meg.”
+[^14]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 18. § A METÁR rendelet a következő 26. §-sal egészül ki:
+## 18. §[^18]
 
-## „26. § (1) Kereskedelmi üzemet az egyes villamos energia tárgyú rendeletek módosításáról szóló 229/2022. (VI. 28.) Korm. rendelet (a továbbiakban: MódKr2.) hatálybalépése előtt megkezdett, kötelező átvételre jogosult erőműegység esetében, amelyre a termelő a MódKr2. hatálybalépése előtt nem kötötte meg a KÁT mérlegkör-tagsági szerződést, vagy nem kérte a támogatás e rendelet szerinti prémium típusú támogatás szabályai szerinti elszámolását, legkésőbb a MódKr2. hatálybalépésétől számított egy éven belül megköti a befogadó üzletszabályzata szerinti KÁT mérlegkör-tagsági vagy prémium támogatási szerződést. Prémium támogatási szerződés megkötése esetén az erőműegység KÁT mérlegkörhöz való csatlakozására nincs lehetőség. Az e bekezdés szerinti erőműegység esetében a támogatási időtartam számítása legkésőbb a MódKr2. hatálybalépését követő hónap első napján megkezdődik.
-
-## (2) Kereskedelmi üzemét a MódKr2. hatálybalépése előtt megkezdett, zöld prémium típusú támogatásra jogosult termelő esetében, aki a MódKr2. hatálybalépése előtt nem kötötte meg a 16. § (1) bekezdése szerinti szerződést, a MódKr2. hatálybalépésétől számított egy éven belül megköti a befogadó üzletszabályzata szerinti prémium támogatási szerződést.”
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

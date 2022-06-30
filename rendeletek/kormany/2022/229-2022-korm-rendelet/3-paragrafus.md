@@ -1,3 +1,3 @@
-## 2. § A KÁT rendelet 3. §-a a következő (17) bekezdéssel egészül ki:
+## 2. §[^2]
 
-## „(17) A kötelező átvételre jogosult termelő kérésére – a kötelező átvételi jogosultság jogutódlás vagy az erőműegység feletti rendelkezési jog átadása miatti megállapításának esetét kivéve – a kötelező átvételi jogosultságot a Hivatal nem vonhatja vissza.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

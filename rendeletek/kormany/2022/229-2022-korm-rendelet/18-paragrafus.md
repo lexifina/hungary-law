@@ -1,1 +1,3 @@
-## „(3a) Ha a Hivatal az (1) bekezdés g) pontja szerinti kizáró ok fennállását állapítja meg, akkor a kötelező átvételi rendszerben való értékesítést a kizáró ok fennállásáig felfüggesztheti. Ha a felfüggesztés oka a felfüggesztéstől számított 3 hónap elteltével is fennáll, úgy a Hivatal rendelkezhet a kötelező átvételi vagy prémium támogatási jogosultságból történő kizárásról.”
+## 17. §[^17]
+
+[^17]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

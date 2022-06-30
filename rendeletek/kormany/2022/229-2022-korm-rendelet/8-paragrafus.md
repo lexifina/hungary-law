@@ -1,3 +1,3 @@
-## 7. § A KÁT rendelet a következő 11/E. §-sal egészül ki:
+## 7. §[^7]
 
-## „11/E. § A villamosenergia-termelést az egyes villamos energia tárgyú rendeletek módosításáról szóló 229/2022. (VI. 28.) Korm. rendelet (a továbbiakban: MódKr.) hatálybalépése előtt megkezdő, kötelező átvételre jogosult erőműegység esetében, amelyre a termelő a MódKr. hatálybalépését megelőzően nem kötötte meg a KÁT mérlegkör-tagsági szerződést, vagy nem kérte a támogatás METÁR rendelet szerinti prémium típusú támogatás szabályai szerinti elszámolását, legkésőbb a MódKr. hatálybalépésétől számított egy éven belül megköti a Befogadó Üzletszabályzata szerinti KÁT mérlegkör-tagsági szerződést vagy prémium támogatási szerződést. Prémium támogatási szerződés megkötése esetén az erőműegység KÁT mérlegkörhöz – biomasszát vagy biogázt felhasználó erőműegység kivételével – nem csatlakozhat. Az e bekezdés szerinti erőműegységek esetében a támogatási időtartam számítása a MódKr. hatálybalépését követő hónap első napján megkezdődik.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

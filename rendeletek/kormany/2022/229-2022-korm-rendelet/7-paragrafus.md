@@ -1,1 +1,3 @@
-## „(3a) Ha a Hivatal az (1) bekezdés g) pontja szerinti kizáró ok fennállását állapítja meg, a kötelező átvételi rendszerben való értékesítést a kizáró ok fennállásáig felfüggesztheti. Ha a felfüggesztés oka a felfüggesztéstől számított 3 hónap elteltével is fennáll, úgy a Hivatal rendelkezhet a kötelező átvételi jogosultságból történő kizárásról.”
+## 6. §[^6]
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

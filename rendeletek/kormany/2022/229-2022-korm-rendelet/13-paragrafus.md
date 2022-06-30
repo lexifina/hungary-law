@@ -1,1 +1,3 @@
-## „(6) A kötelező átvételre jogosult erőműegység a kötelező átvétel keretében történő támogatás igénybevételével egyidejűleg a közcélú hálózaton piaci alapon úgy értékesíthet villamos energiát, ha másik mérlegkörhöz csatlakozik, továbbá a kötelező átvételi támogatás e rendelet szerinti prémium típusú támogatás szabályai szerinti kifizetésére a befogadó üzletszabályzata szerinti prémium támogatási szerződést köt. Ebben az esetben az (1)–(5) bekezdésben meghatározott támogatott árat és időtartamot kell alkalmazni, és a továbbiakban az erőműegység KÁT mérlegkörhöz való csatlakozására nincs lehetőség.”
+## 12. §[^12]
+
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
