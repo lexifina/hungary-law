@@ -1,7 +1,3 @@
-## 5. § Az R3. 4. § (1) bekezdés m) pont mc) alpontjában az „a külföldiek – engedély-, illetve bejelentés köteles –” szövegrész helyébe az „a szabad mozgás és tartózkodás jogával rendelkező személyek bejelentésköteles” szöveg lép.
+## 5. §[^6]
 
-## 6. § Hatályát veszti az R3.
-
-a) 4. § (1) bekezdés l) pont ld) alpontja,
-
-b) 10. § (4) bekezdés g) pontja.
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
