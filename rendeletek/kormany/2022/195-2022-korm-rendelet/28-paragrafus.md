@@ -1,3 +1,1 @@
-28. §[^13]
-
-[^13]: A 28. § a 15. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+28. § Nem lép hatályba a nyugellátások és egyes más ellátások 2022. július havi kiegészítő emeléséről szóló 161/2022. (IV. 28.) Korm. rendelet 1. § (1) bekezdés 21. pontjában az „a honvédelmi alkalmazottak jogállásáról szóló törvény szerinti,” szövegrész.
