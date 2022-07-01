@@ -8,8 +8,10 @@
 
 (5) A központosított adósságrendezési eljárás részét képező tárgyalásokat az érintett szállítókkal 2020. február 29-ig kell lefolytatni.
 
-(6) A főtárgyaló a tárgyalások eredményének függvényében felosztási javaslatot készít. A javaslatot a pénzügyminiszter és az emberi erőforrások minisztere hagyja jóvá.
+(6)[^1] A főtárgyaló a tárgyalások eredményének függvényében felosztási javaslatot készít. A javaslatot a pénzügyminiszter és az egészségügyért felelős miniszter hagyja jóvá.
 
 (7) A Nemzeti Egészségbiztosítási Alapkezelő a (6) bekezdés szerint jóváhagyott javaslatban meghatározott összegeket a honlapján közzéteszi, és működési támogatásként utalványozza az (1) bekezdés szerinti egészségügyi szolgáltatók részére az Egészségbiztosítási Alap Célelőirányzatok jogcím előirányzat terhére.
 
 (8) Az egészségügyi szolgáltató a tartozások kiegyenlítését a (6) bekezdés szerint jóváhagyott javaslatnak megfelelően végzi el, a (7) bekezdés szerinti működési támogatás csak erre a célra használható fel.
+
+[^1]: Az 1. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 194. § a) pontja szerint módosított szöveg.
