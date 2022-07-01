@@ -18,6 +18,8 @@ dc) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, v
 
 dd) a tőkepiacról szóló 2001. évi CXX. törvény 400. § (1) bekezdés h) és j) pontjai, valamint a (4) bekezdése szerinti felügyeleti intézkedés,
 
+de) a szerkezetátalakításról szóló törvényben (a továbbiakban: Szát.) szabályozott eljárásokban a bíróság által elrendelt, egyedi végrehajtási intézkedéseket felfüggesztő moratórium,
+
 amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bekezdése szerint fizetést korlátozó eljárásként jelöli meg;
 
 e) harmadik ország: az az ország, amely nem tagja az Európai Uniónak;

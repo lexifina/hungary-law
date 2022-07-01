@@ -12,7 +12,15 @@ c) a jogerős határozat
 
 bíróság vagy az intézkedésre jogosult hatóság általi közlésének időpontjával egyezik meg.
 
-(3) E törvény alkalmazásában a bíróság által hozott határozat alatt csődeljárás esetében a fizetési haladékról, valamint az ennek meghosszabbításáról rendelkező végzést, felszámolási eljárás esetében az ideiglenes vagyonfelügyelő kirendeléséről és a felszámolás elrendeléséről szóló végzést kell érteni.
+(3) E törvény alkalmazásában a bíróság által hozott határozat alatt
+
+a) szerkezetátalakítás során az egyedi végrehajtási intézkedéseket felfüggesztő moratóriumot elrendelő bírósági végzést,
+
+b) csődeljárás esetében a fizetési haladékról, valamint az ennek meghosszabbításáról rendelkező bírósági végzést,
+
+c) felszámolási eljárás esetében az ideiglenes vagyonfelügyelő kirendeléséről és a felszámolás elrendeléséről szóló bírósági végzést
+
+kell érteni.
 
 (4) E törvény alkalmazásában a jogerőre emelkedés megállapítása tekintetében a bíróság soron kívül jár el.
 
