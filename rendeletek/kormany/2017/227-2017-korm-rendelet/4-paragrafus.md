@@ -1,4 +1,4 @@
-## 3. §[^2] A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
+## 3. §[^3] A Megállapodás hiteles magyar és angol nyelvű szövege a következő:
 
 ## „Oktatási Együttműködési Megállapodás Magyarország Kormánya és a Délkelet-ázsiai Nemzetek Szövetsége között
 
@@ -66,7 +66,7 @@
 
 ## KÉSZÜLT Jakarta városban, 2017. 07. hónap 10. napján, magyar és angol nyelven, kettő eredeti példányban, melyek közül mindkettő egyformán hiteles. Az Együttműködési Megállapodás értelmezésében felmerülő kérdések esetén az angol szöveg az irányadó.
 
-## Magyarország Kormánya nevében Az ASEAN tagállamainak kormányai nevében”
+## Magyarország Kormánya nevében Az ASEAN tagállamainak kormányai nevében
 
 ## “Cooperation Agreement between the Government of Hungary and the Association of Southeast Asian Nations on Education Cooperation
 
@@ -138,12 +138,13 @@
 
 4. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2) A 2. § és a 3. § a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^3]
+(2) A 2. § és a 3. § a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban lép hatályba.[^4]
 
-(3) A Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+(3) A Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^5]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter gondoskodik.
+(4)[^6] E rendelet végrehajtásához szükséges intézkedésekről a felsőoktatásért felelős miniszter gondoskodik.
 
-[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 37/2017. (IX. 8.) KKM közlemény alapján a hatálybalépés időpontja 2017. szeptember 20.
-[^3]: A 37/2017. (IX. 8.) KKM közlemény alapján a hatálybalépés időpontja 2017. szeptember 20.
-[^4]: Lásd a 37/2017. (IX. 8.) KKM közleményt.
+[^3]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 10. cikk (1) bekezdésében meghatározott időpontban lép hatályba. A 37/2017. (IX. 8.) KKM közlemény alapján a hatálybalépés időpontja 2017. szeptember 20.
+[^4]: A 37/2017. (IX. 8.) KKM közlemény alapján a hatálybalépés időpontja 2017. szeptember 20.
+[^5]: Lásd a 37/2017. (IX. 8.) KKM közleményt.
+[^6]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 169. §-a szerint módosított szöveg.
