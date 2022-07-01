@@ -1,4 +1,4 @@
-## 3. §[^2] A Felsőoktatási Tervezési Testület (a továbbiakban: FTT) az oktatásért felelős miniszter (a továbbiakban: miniszter), a Duális Képzési Tanács (a továbbiakban: DKT) a tudománypolitika koordinációjáért felelős miniszter felsőoktatás fejlesztési kérdésekben közreműködő véleményező és javaslattevő testülete.
+## 3. §[^2] A Felsőoktatási Tervezési Testület (a továbbiakban: FTT) a felsőoktatásért felelős miniszter (a továbbiakban: miniszter), a Duális Képzési Tanács (a továbbiakban: DKT) a tudománypolitika koordinációjáért felelős miniszter felsőoktatás fejlesztési kérdésekben közreműködő véleményező és javaslattevő testülete.
 
 ## 2. A Magyar Felsőoktatási Akkreditációs Bizottság jogállása, szervezete
 
@@ -12,7 +12,7 @@
 
 (5)[^6]
 
-[^2]: A 3. § a 4/2019. (I. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § a 4/2019. (I. 24.) Korm. rendelet 1. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 107. §-a szerint módosított szöveg.
 [^3]: A 4. § (1) bekezdését a 170/2016. (VII. 1.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^4]: A 4. § (2) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^5]: A 4. § (4) bekezdése a 170/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
