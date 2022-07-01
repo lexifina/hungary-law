@@ -64,6 +64,8 @@ fd) nyilvántartási számát,
 
 g) a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
 
+h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási szakértői tevékenység végzésére is jogosult, továbbá a szerkezetátalakítási szakértői tevékenységet végző természetes személyeknek az f) és g) pontban felsorolt adatait.
+
 (4a) A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdése és a 66. § (6) bekezdése alapján vezetett hatósági nyilvántartások adatai – a (4) bekezdés b) pontjában megjelölt lakóhely és a (4) bekezdés f) pontjában megjelölt adatok kivételével – közérdekből nyilvános adatok.
 
 (5) A Hatóság a felszámoló szervezet vezetőjére 30 000 forinttól 400 000 forintig terjedő bírságot szab ki, ha

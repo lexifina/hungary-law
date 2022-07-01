@@ -22,6 +22,10 @@ f) az adós ellen felszámolási eljárás indult, és a felszámolás elrendel�
 
 g) a csődeljárás iránti kérelmet megelőző egy éven belül az adós már adott be ilyen kérelmet, amelyet e bekezdés alapján a bíróság visszautasított, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el.
 
+h) az adós szerkezetátalakítási eljárást vagy reorganizációs eljárást indított, vagy
+
+i) az adós korábban olyan szerkezetátalakítási eljárást vagy reorganizációs eljárást indított, amellyel összefüggésben a szerkezetátalakítási tervet, illetve a reorganizációs tervet a bíróság jogerősen jóváhagyta, de az annak végrehajtására meghatározott időtartam még nem telt el.
+
 (4a) A (4) bekezdés a) pontja szerinti esetben a csődeljárás lefolytatása iránti kérelem joghatásai fennmaradnak, ha az adós a (4) bekezdés szerinti végzés közlésétől számított 15 napon belül a csődeljárás elrendelése iránti kérelmet szabályszerűen újra előterjeszti. A határidő elmulasztása esetén igazolásnak nincs helye. A kérelem újbóli előterjesztését a végzés elleni fellebbezés visszavonásának vagy a végzés elleni fellebbezési jogról való lemondásnak kell tekinteni; az ezzel ellentétes nyilatkozat hatálytalan.
 
 (5) A csődeljárás iránti kérelmet visszautasító végzésnek tartalmaznia kell az adós nevét, székhelyét, cégjegyzékszámát, a bíróság nevét és az ügy számát, továbbá a csődeljárás iránti kérelem visszautasításának okát, valamint – ha az ideiglenes fizetési haladék közzétételre került – azt, hogy az ideiglenes fizetési haladék a jogerős végzés közzétételével megszűnik. A csődeljárás iránti kérelmet visszautasító végzés elleni fellebbezés határideje 8 nap. A határidő elmulasztása esetén igazolásnak nincs helye. A fellebbezést soron kívül, de legfeljebb 15 napon belül kell elbírálni.

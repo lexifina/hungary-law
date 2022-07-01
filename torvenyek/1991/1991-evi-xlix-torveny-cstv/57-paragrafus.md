@@ -62,6 +62,8 @@ k) a felszámoló számára e törvény alapján kifizethető díjelőleg, valam
 
 l) az a költség, amelynek felszámolási költségként történő kifizetését és elszámolását a bíróság az 51. § (3a) bekezdésében meghatározott esetekben engedélyezte.
 
+m) a szerkezetátalakítási szakértő bíróság jogerős határozatával megállapított, ki nem fizetett és meg nem térült díja, ha az adós felszámolását a bíróság a szerkezetátalakítás meghiúsulását (Szát. 8. §) követő 180 napon belül megindított kérelem alapján vagy a szerkezetátalakítás meghiúsulásától számított 180 napon belül bekövetkezett körülmény miatt hivatalból rendelte el.
+
 (3) A munkáltató rendes felmondása esetén felszámolási költségként – ha a felszámolás kezdő időpontját megelőzően legalább egy évvel korábban megkötött kollektív szerződés, illetve munkaszerződés magasabb összeget nem állapít meg – a munkavégzés alóli felmentés időtartamára jutó távolléti díj és a végkielégítés azon összege vehető figyelembe, amely a munkavállalót az Mt. 69. § (1)–(3) bekezdése, 70. § (3) bekezdése és 77. § (3) és (4) bekezdése alapján megilleti. E rendelkezés alkalmazásában az adós – (1) bekezdés hc) pontjában nem említett – vezető állású munkavállalói tekintetében kizárólag az Mt. 210. § (3) bekezdésében megállapított, a felszámolás kezdő időpontjában esedékes összeg vehető figyelembe.
 
 (4) Ha a vagyon a költség, a zálogjoggal biztosított hitelezői követelések és valamennyi más tartozás kielégítésére nem elegendő, a költség kifizetését és a biztosított hitelezők kielégítését követően először az (1) bekezdés c) majd d) pontja szerinti hitelezőket követeléseik arányában kell kielégíteni.

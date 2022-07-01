@@ -16,6 +16,8 @@ ab) amelynek tulajdonosa az adósnak is tulajdonosa, hitelezője vagy az adós v
 
 ac) amelynek vezető tisztségviselője vagy annak közeli hozzátartozója többségi befolyással rendelkezik az adós szervezetben vagy összeférhetetlen tevékenységet [27/C. § (3) bekezdés a) pont] folytató más szervezetben.
 
+ad) amely a felszámolás elrendelése előtt az adós által indított szerkezetátalakításban szerkezetátalakítási szakértőként közreműködött (ide nem értve a 66. § (2) bekezdése szerinti állami felszámoló szervezetet), és a szerkezetátalakítási szakértőként történő kijelölése, megbízása megszűnésétől két év még nem telt el,
+
 b) Nem jelölhető ki felszámolóbiztosnak az a személy,
 
 ba) aki az adós vagy az adós kizárólagos vagy többségi részesedésével rendelkező gazdasági társaság tulajdonosa vagy hitelezője (ide nem értve, ha a hitelezői követelés a végelszámolót vagy felszámolót, vagyonfelügyelőt, ideiglenes vagyonfelügyelőt megillető díj, költségtérítés),
@@ -39,6 +41,8 @@ bi) aki a felszámolás elrendelésének – felmentett felszámolóbiztos helye
 bj) aki többségi részesedéssel rendelkezik olyan gazdasági társaságban vagy más vállalkozásban, amely vállalkozás olyan államban van bejegyezve vagy van adóügyi illetékessége, amely állam az adózási szempontból nem együttműködő államok listájának közzétételéről szóló rendeletben meghatározott állam, vagy amelyben – ide nem értve az Európai Gazdasági Térségről szóló megállapodásban részes államot – jogszabály nem ír elő a társasági adónak megfelelő adókötelezettséget, vagy az előírt adómérték legfeljebb 10 százalék,
 
 bk) akit a Hatóság – a bíróság (7) bekezdés szerinti adatszolgáltatása alapján, a jogszabálysértésre tekintettel – nyilvántartásba vett, a nyilvántartásba vételtől számított 3 évig.
+
+bl) aki a felszámolás elrendelése előtt két éven belül az adós által indított szerkezetátalakításban szerkezetátalakítási szakértőként közreműködött.
 
 (5) A felszámoló a kirendelését tartalmazó végzés kézhezvételétől – vagy ha a kizárási ok később következik be, annak bekövetkeztétől – számított öt munkanapon belül köteles bejelenteni a bíróságnak, ha vele szemben kizárási ok áll fenn. A felszámoló a kirendelést kizárási ok esetén, továbbá akkor utasíthatja vissza, ha az adós székhelye kívül esik a felszámolónak a felszámolók névjegyzékébe bejegyzett működési területén. A felszámolót kirendelő végzés ellen külön fellebbezésnek nincs helye. Ha a felszámoló a kizárási ok bejelentését elmulasztja, a bíróság kezdeményezi a felszámolók névjegyzékéből való törlését.
 

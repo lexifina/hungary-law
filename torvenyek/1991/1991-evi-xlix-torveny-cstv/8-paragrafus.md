@@ -30,6 +30,18 @@ b) van-e tudomása ellene felszámolási eljárás megindítása iránti kérele
 
 c) volt-e olyan korábbi csődeljárás iránti kérelme, amelyet a bíróság a 9. § (4) bekezdésében foglaltak szerint hivatalból elutasított, ha az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el, és ha igen, ezt melyik bíróság előtt kezdeményezte.
 
+d) kezdeményezett-e vagy kezdeményeztek-e ellene külföldön a 2015/848 EU rendelet hatálya alá eső fizetésképtelenségi eljárást,
+
+e) kezdeményezett-e belföldön csődeljárást, reorganizációs eljárást,
+
+f) kezdeményezett-e vagy kezdeményeztek-e ellene belföldön felszámolási eljárást,
+
+g) van-e ellene folyamatban belföldön vagy külföldön hatósági vagy bírósági végrehajtási eljárás, zálogjoggal terhelt vagyontárgyára vezetett bíróságon kívüli értékesítés,
+
+h) döntött-e szerkezetátalakítási eljárás vagy reorganizációs eljárás megindításáról, és ha igen, az eljárás folyamatban van-e, valamint
+
+i) ha korábban indított szerkezetátalakítási eljárást vagy reorganizációs eljárást, és a bíróság a szerkezetátalakítási tervet, illetve a reorganizációs tervet jóváhagyta, annak végrehajtására meghatározott időtartam letelt-e.
+
 (4) Az adós köteles tájékoztatást adni a csődeljárás iránti kérelme benyújtásáról mindazon bíróságnak, amely előtt tudomása szerint felszámolási eljárás iránti kérelmet adtak be ellene.
 
 (5) A (2) bekezdés i) pontja szerinti bejelentést követően a pénzforgalmi szolgáltató számlavezető a bejelentést banktitokként, illetve fizetési titokként kezeli, az adós számlájával szemben nem érvényesítheti az adóssal fennálló jogviszonyán alapuló követeléseket, továbbá nem tehet más olyan intézkedést sem, ami őt vagy más hitelezőt előnyösebb helyzetbe hozza a többi hitelezőhöz képest.

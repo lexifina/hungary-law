@@ -11,3 +11,5 @@ a) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/8
 b) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendeletben hivatkozott formanyomtatványok kiállításáról szóló 2017. június 12-i (EU) 2017/1105 bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(4) Ez a törvény a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (Szerkezetátalakítási és fizetésképtelenségi irányelv), 2019. június 20-i (EU) 2019/1023 európai parlamenti és tanácsi irányelv 17. és 18. cikkének való megfelelést szolgálja.

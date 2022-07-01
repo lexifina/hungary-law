@@ -8,7 +8,7 @@ c) a hiánypótlásra visszaadott kérelmet a kérelmező 8 napon belül nem, va
 
 d) az adós a kérelmező és a 8. § (1) bekezdésében megjelölt szervek egyetértése hiányzik;
 
-e)
+e) a felszámolás elrendelését a 27. § (2) bekezdés a) vagy b) pontjára hivatkozással kérte a hitelező, de az adós a Szát. alapján egyedi végrehajtási intézkedéseket felfüggesztő moratórium (a továbbiakban: Szát. moratórium), vagy a reorganizációs eljárás szabályai szerinti moratórium (a továbbiakban: reorganizációs moratórium) hatálya alatt áll, és a kérelmet olyan hitelező nyújtotta be, akire a Szát. moratórium, illetve a reorganizációs moratórium hatálya kiterjed;
 
 f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (3) bekezdés szerinti tartalmi elemeket.
 
