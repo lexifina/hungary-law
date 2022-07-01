@@ -12,4 +12,6 @@ e) kényszertörlési eljárás esetén „kényszertörlés alatt” („kt. a.
 
 f) határokon átnyúló egyesülés céljára létrejövő cég esetén „egyesülés céljára alapított” („e.a.”)
 
+g) nyilvános szerkezetátalakítási eljárás esetén „szerkezetátalakítás alatt („sz. a.”)
+
 toldattal kell használni.
