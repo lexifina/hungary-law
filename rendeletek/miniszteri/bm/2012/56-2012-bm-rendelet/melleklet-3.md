@@ -284,6 +284,10 @@
 
 ## 7.4.3.17. katasztrófavédelem mesterképzési szak (amennyiben rendelkezik legalább középszintű tűzoltás, műszaki mentés vezetésére jogosító végzettséggel)
 
+## 7.4.3.18. katasztrófavédelem alapképzési szak, katasztrófavédelmi műveleti szakirány, (amennyiben rendelkezik legalább középszintű tűzoltás, műszaki mentés vezetésére jogosító végzettséggel)
+
+## 7.4.3.19. katasztrófavédelem alapképzési szak, iparbiztonsági szakirány (amennyiben rendelkezik legalább középszintű tűzoltás, műszaki mentés vezetésére jogosító végzettséggel)
+
 ## 7.5. Megfeleltetések
 
 ## 7.5.1. Alapszintű szakmai képesítéssel e rendelet alkalmazásában egyenértékűnek kell tekinteni
