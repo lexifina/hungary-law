@@ -18,7 +18,7 @@ b) alkalmazás-továbbfejlesztése esetén, ha a továbbfejlesztendő alkalmazá
 
 (6)[^27]
 
-(7) A Felügyelet a (3) bekezdés szerinti döntését a kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg. A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 8 napon belül a Nemzetbiztonsági Kabinetnél, amely a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg döntését.
+(7)[^28] A Felügyelet a (3) bekezdés szerinti döntését a kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg. A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 8 napon belül a Védelmi Tanácsnál, amely a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg döntését.
 
 (8) A megrendelő szerv a 2014–2020 programozási időszakra rendelkezésre álló európai uniós források terhére kezdeményezett alkalmazásfejlesztést a (3) bekezdés a) alpontjában előírt kérelem benyújtása nélkül, a Felügyelet által kibocsátandó – felmentést tartalmazó – támogató tanúsítvány hiányában is lefolytathatja az ÁAFK-n kívül, ha
 
@@ -29,3 +29,4 @@ b) az alkalmazásfejlesztési feladat végrehajtása érdekében a fejlesztő sz
 [^25]: Az 5. § (4a) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (11) bekezdése iktatta be.
 [^26]: Az 5. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
 [^27]: Az 5. § (6) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^28]: Az 5. § (7) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 189. § a) pontja szerint módosított szöveg.

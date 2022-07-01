@@ -8,18 +8,18 @@ b) az ÁAFK igénybevétele alóli felmentést tartalmazó támogató tanúsítv
 
 (2) Az (1) bekezdés b) pontja alapján végzett alkalmazásfejlesztésekre az 5. § (1) bekezdésében, a 9. § (3) bekezdésében, a 10. §-ban, a 11. § (2) és (3) bekezdésében, a 12–16. §-ban, valamint a 18. §-ban és a 19. §-ban foglaltakat alkalmazni kell.
 
-(3)[^50] A központi alkalmazás-szolgáltató az alkalmazásfejlesztés végrehajtásának időszakában a központi alkalmazás-szolgáltató, a megrendelő szerv és – az 1. § 8. pont b) alpontja szerinti esetben – a fejlesztő szervezet által az alkalmazásfejlesztés folyamatában közösen kijelölt fejlesztési mérföldkövek és ütemterv szerint, a műszaki-szakmai átadás-átvételi eljárások részeként ellenőrzi az alkalmazásfejlesztés eredményeit a fejlesztési-szakmai követelmény- és szabályrendszer alapján.
+(3)[^51] A központi alkalmazás-szolgáltató az alkalmazásfejlesztés végrehajtásának időszakában a központi alkalmazás-szolgáltató, a megrendelő szerv és – az 1. § 8. pont b) alpontja szerinti esetben – a fejlesztő szervezet által az alkalmazásfejlesztés folyamatában közösen kijelölt fejlesztési mérföldkövek és ütemterv szerint, a műszaki-szakmai átadás-átvételi eljárások részeként ellenőrzi az alkalmazásfejlesztés eredményeit a fejlesztési-szakmai követelmény- és szabályrendszer alapján.
 
-(4)[^51] A központi termék minőségbiztosító a megrendelő szerv általi eljárásba vonásától számított legkésőbb 15 munkanapon belül termék minőségbiztosítói jelentést készít.
+(4)[^52] A központi termék minőségbiztosító a megrendelő szerv általi eljárásba vonásától számított legkésőbb 15 munkanapon belül termék minőségbiztosítói jelentést készít.
 
-(5)[^52] A (4) bekezdésben foglalt határidőt műszakilag indokolt körülmény felmerülése esetén további 15 munkanappal a Felügyelet vezetője a minőségbiztosító kérelmére meghosszabbíthatja.
+(5)[^53] A (4) bekezdésben foglalt határidőt műszakilag indokolt körülmény felmerülése esetén további 15 munkanappal a Felügyelet vezetője a minőségbiztosító kérelmére meghosszabbíthatja.
 
-(6)[^53] Ha a központi termék minőségbiztosító által lefolytatott vizsgálat elvégzéséhez szükséges dokumentáció hiányos, vagy a vizsgálat elvégzéséhez további információ szükséges, a központi termék minőségbiztosító hiánypótlásra hívja fel a megrendelő szervet. A megrendelő szerv a hiánypótlást 8 munkanapon belül köteles megküldeni a központi termék minőségbiztosító részére. A központi termék minőségbiztosító által lefolytatott vizsgálat elvégzésének határideje a hiánypótlás időtartamával meghosszabbodik.
+(6)[^54] Ha a központi termék minőségbiztosító által lefolytatott vizsgálat elvégzéséhez szükséges dokumentáció hiányos, vagy a vizsgálat elvégzéséhez további információ szükséges, a központi termék minőségbiztosító hiánypótlásra hívja fel a megrendelő szervet. A megrendelő szerv a hiánypótlást 8 munkanapon belül köteles megküldeni a központi termék minőségbiztosító részére. A központi termék minőségbiztosító által lefolytatott vizsgálat elvégzésének határideje a hiánypótlás időtartamával meghosszabbodik.
 
-(7)[^54] Ha a (3) és (4) bekezdésben foglaltak végrehajtása során a központi alkalmazás-szolgáltató vagy a központi termék minőségbiztosító azt állapítja meg, hogy az alkalmazásfejlesztést végrehajtó fejlesztő szervezet a jogszabályban, vagy az alkalmazásfejlesztés megvalósítása tárgyában lefolytatott közbeszerzési eljárásban meghatározott feltételeknek nem megfelelő módon végzi az alkalmazásfejlesztést, valamint olyan kritikus hibát észlel, amely az alkalmazásfejlesztés sikerességét veszélyezteti, erről – a Felügyelet értesítése mellett – soron kívül tájékoztatja a megrendelő szervet.
+(7)[^55] Ha a (3) és (4) bekezdésben foglaltak végrehajtása során a központi alkalmazás-szolgáltató vagy a központi termék minőségbiztosító azt állapítja meg, hogy az alkalmazásfejlesztést végrehajtó fejlesztő szervezet a jogszabályban, vagy az alkalmazásfejlesztés megvalósítása tárgyában lefolytatott közbeszerzési eljárásban meghatározott feltételeknek nem megfelelő módon végzi az alkalmazásfejlesztést, valamint olyan kritikus hibát észlel, amely az alkalmazásfejlesztés sikerességét veszélyezteti, erről – a Felügyelet értesítése mellett – soron kívül tájékoztatja a megrendelő szervet.
 
-[^50]: A 17. § (3) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 26. § (5) bekezdésével megállapított szöveg.
-[^51]: A 17. § (4) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 1. § (24) bekezdésével megállapított szöveg.
-[^52]: A 17. § (5) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (24) bekezdése iktatta be.
-[^53]: A 17. § (6) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (24) bekezdése iktatta be.
-[^54]: A 17. § (7) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (24) bekezdése iktatta be.
+[^51]: A 17. § (3) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 26. § (5) bekezdésével megállapított szöveg.
+[^52]: A 17. § (4) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 1. § (24) bekezdésével megállapított szöveg.
+[^53]: A 17. § (5) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (24) bekezdése iktatta be.
+[^54]: A 17. § (6) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (24) bekezdése iktatta be.
+[^55]: A 17. § (7) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (24) bekezdése iktatta be.
