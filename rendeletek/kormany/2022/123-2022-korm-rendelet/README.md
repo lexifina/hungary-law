@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-123-20-
 | --- | --- | --- |
 | 2022-03-29 | 2022-123-20-22.1 | 123/2022. (III. 28.) Korm. rendelet |
 | 2022-03-30 | 2022-123-20-22.2 | 2010: CXXX. törvény |
+| 2022-07-01 | 2022-123-20-22.3 | 2010: CXXX. törvény |
