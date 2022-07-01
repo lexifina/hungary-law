@@ -14,7 +14,7 @@ b) a bíróság által kirendelt szerkezetátalakítási szakértő díja megál
 
 a) a szerkezetátalakítási szakértő bírósági kirendelésére és kijelölése megszüntetésének részletes szabályaira, valamint a kirendelésének módszertanára,
 
-b) a szerkezetátalakítási eljárásban kötelezően alkalmazandó nyomtatványokra,
+b)
 
 c) – az OBH Elnöke véleményének kikérésével – a szerkezetátalakítással összefüggő polgári nemperes eljárás sajátos bírósági ügyviteli és igazgatási szabályaira
 

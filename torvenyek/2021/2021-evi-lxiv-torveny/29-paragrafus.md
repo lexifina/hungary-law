@@ -20,7 +20,7 @@ b) a szerkezetátalakítási terv jóváhagyása iránti nemperes eljárásban e
 
 (4) A szerkezetátalakítási szakértő kirendelése nyilvános, átlátható és ellenőrizhető, jogszabályban meghatározott módszertan szerint történik, amely figyelembe veszi az adós gazdasági tevékenységének és pénzügyi nehézségeinek sajátosságait, és az adott ügy ellátásához szükséges szakértelmet.
 
-(5) Ha az adós legalább 25%-os közvetlen vagy közvetett állami részesedéssel működő gazdasági társaság, a bíróság a Cstv. 66. § (2) bekezdése szerinti állami felszámolót jelöli ki szerkezetátalakítási szakértőként.
+(5) Ha az adós legalább 25%-os közvetlen vagy közvetett állami részesedéssel működő gazdasági társaság, a bíróság a Cstv. 66. § (2) bekezdése szerinti állami felszámolót jelöli ki szerkezetátalakítási szakértőként, kivéve ha a 60. § (1) bekezdése szerinti esetekben másik szakértő kirendelésére kerül sor.
 
 (6) A (2) bekezdés a) pontja szerinti esetben a biztosított érintett hitelező vagy az érintett hitelezők követeléseinek többségét jelentő érintett hitelezők a 37. § (5) bekezdésében biztosított határidő alatt kérhetik, hogy a bíróság rendeljen ki szerkezetátalakítási szakértőt, és ebben az esetben, továbbá az (1) bekezdés a) és b) pontja szerinti esetben kérhetik, hogy a szerkezetátalakítási szakértő feladata az adós gazdálkodásának felügyeletére is terjedjen ki. Ilyen kérelem hiányában a bíróság az (1) bekezdés a) és b) pontja, a (2) bekezdés a) pontja szerinti esetben a 25. § (1) bekezdés a)–c) és e) pontban foglalt feladatok ellátására rendeli ki a szerkezetátalakítási szakértőt.
 

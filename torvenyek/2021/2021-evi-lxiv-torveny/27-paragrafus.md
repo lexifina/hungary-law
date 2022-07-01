@@ -18,7 +18,7 @@ e) azokat az okokat, amelyek alátámasztják, hogy a szerkezetátalakítási sz
 
 a) hitelezői kérelem esetén annak igazolását, hogy a kérelmezők követelése az érintett hitelezők követelésének a többségét eléri vagy a kérelmező biztosított érintett hitelező,
 
-b) a szerkezetátalakítási szakértőnek a kijelölést elfogadó, és az összeférhetetlenségi és kizáró ok hiányára, az előírt képzési feltételre is kiterjedő nyilatkozatát, ideértve a szerkezetátalakítási szakértői feladatot ellátó természetes személy nyilatkozatát is, valamint
+b) a szerkezetátalakítási szakértőnek a kijelölést elfogadó, és az összeférhetetlenségi és kizáró ok hiányára is kiterjedő nyilatkozatát, ideértve a szerkezetátalakítási szakértői feladatot ellátó természetes személy nyilatkozatát is, valamint
 
 c) arra vonatkozó nyilatkozatot, hogy a szerkezetátalakítási szakértő díját a kérelmező viseli, ha pedig az adós és az érintett hitelezők vagy egyes érintett hitelezők együttesen viselik, akkor az erre vonatkozó megállapodást.
 

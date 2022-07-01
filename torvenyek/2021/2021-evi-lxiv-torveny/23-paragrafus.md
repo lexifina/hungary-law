@@ -30,4 +30,4 @@ g) az adóssal olyan szervezeti vagy üzleti kapcsolata van, amely a szerkezetá
 
 (6) A szerkezetátalakítási szakértői tevékenységgel okozott kár megtérítését, valamint személyiségi jogsértés miatt járó sérelemdíj megfizetésének a fedezetét felelősségbiztosítással kell biztosítani. A szerkezetátalakítási tevékenységből eredő károk, valamint sérelemdíj biztosításához szükséges felelősségbiztosítás káreseményenként számított legalacsonyabb összege 100 000 000 Ft, és a felelősségbiztosítás évenként számított legalacsonyabb összege 160 000 000 Ft.
 
-(7) A szerkezetátalakítási szakértő tevékenysége felett a fegyelmi jogkört, illetve a hatósági ellenőrzést a (3) bekezdésben megjelölt nyilvántartó hatóság gyakorolja (a továbbiakban: nyilvántartó szervezet).
+(7) A szerkezetátalakítási szakértő tevékenysége felett a hatósági ellenőrzést a (3) bekezdésben megjelölt nyilvántartó hatóság gyakorolja (a továbbiakban: nyilvántartó szervezet).

@@ -66,9 +66,7 @@ e) a bírósági adósságrendezés elrendelését követően esedékessé vál�
 
 f) az adóst egyéni vállalkozói tevékenységével összefüggésben terhelő munkabérfizetési, illetve munkaerőkölcsönzéssel összefüggő díjfizetési kötelezettséget legfeljebb a kötelező legkisebb munkabér másfélszereséig, továbbá az ezekkel a kifizetésekkel kapcsolatban az adóst terhelő közteherfizetési kötelezettséget.”
 
-(9) Az Are. tv. 73. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az adós írásbeli kérelmére a családi vagyonfelügyelő az adósságtörlesztési tervet úgy készíti el, hogy az adós számára a foglalkozása, illetve egyéni vállalkozása gyakorlásához szükséges ingóságokat, eszközöket, járműveket, legfeljebb az e törvény végrehajtási rendeletében meghatározott értékhatárig az értékesítés alól mentesíti, azzal a feltétellel, hogy az adós ezekre a vagyontárgyakra vonatkozóan a bevételeiből elkülöníti és megfizeti a vagyonbiztosítási díjat és felelősségbiztosítási díjat, és az eszközök állagmegóvásához, kijavításához szükséges összegeket.”
+(9)
 
 (10) Az Are. tv. a következő 74/A. §-sal egészül ki:
 
@@ -106,11 +104,7 @@ a) ha még nem került sor adósságtörlesztési terv bírósághoz történő 
 
 b) ha az adósságtörlesztési tervről a bíróság még nem hozott végzést, és az adósnak a 2021. évi LXIV. törvény hatálybalépésétől számított 30 napos jogvesztő határidőn belül benyújtott kérelmére a családi vagyonfelügyelő az adósságtörlesztési végzést a 2021. évi LXIV. törvénnyel megállapított 74/A. §-ban foglaltaknak megfelelően átdolgozza.”
 
-(15) Az Are. tv. 106. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
-
-„k) az adósságtörlesztési terv elkészítésekor az adós foglalkozása, illetve egyéni vállalkozása gyakorlásához szükséges ingóságok, eszközök, járművek értékesítése alóli mentesítésére vonatkozó értékhatárokat.”
+(15)
 
 (16) Az Are. tv. 45. alcíme a következő 106/B. §-sal egészül ki:
 
@@ -118,7 +112,7 @@ b) ha az adósságtörlesztési tervről a bíróság még nem hozott végzést,
 
 (17) Az Are. tv.
 
-1. 85. § (1) bekezdésében az „Az ötéves adósságtörlesztési időszak” szövegrész helyébe az „A bíróságon kívüli adósságrendezési megállapodásban meghatározott törlesztési időszak, a bíróság által jóváhagyott adósságrendezési egyezségben meghatározott törlesztési időszak, a 74. § szerinti ötéves és a 74/A. § szerinti hároméves adósságtörlesztési időszak”,
+1.
 
 2. 86. § (1) bekezdésében az „amelyeket az adósságtörlesztési végzés alapján az adósságrendezési időszak végéig” szövegrész helyébe az „amelyeket a bíróságon kívüli adósságrendezési megállapodás, a bírósági adósságrendezési egyezség vagy az adósságtörlesztési végzés alapján az adósságrendezési időszak végéig”,
 

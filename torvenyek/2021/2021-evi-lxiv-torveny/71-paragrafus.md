@@ -90,9 +90,7 @@ Nem jelölhető ki felszámolóbiztosnak az a személy,)
 
 „m) a szerkezetátalakítási szakértő bíróság jogerős határozatával megállapított, ki nem fizetett és meg nem térült díja, ha az adós felszámolását a bíróság a szerkezetátalakítás meghiúsulását (Szát. 8. §) követő 180 napon belül megindított kérelem alapján vagy a szerkezetátalakítás meghiúsulásától számított 180 napon belül bekövetkezett körülmény miatt hivatalból rendelte el.”
 
-(12) A Cstv. 66. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) A 27/A. § (4) bekezdés a) pont ad) alpontja és (4) bekezdés b) pont bl) alpontja a stratégiailag kiemelt jelentőségű gazdálkodó szervezet csődeljárása és felszámolása esetén nem alkalmazható.”
+(12)
 
 (13) A Cstv. 86. §-a a következő (4) bekezdéssel egészül ki:
 
