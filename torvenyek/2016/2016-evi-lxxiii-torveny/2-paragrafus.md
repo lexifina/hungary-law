@@ -8,7 +8,7 @@
 
 3. biztonsági szolgálat: – a Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) kihelyezettek kivételével – a kihelyezett munkaköri leírásában meghatározott olyan szolgálat, amely a külképviselet személyzete és a személyzet családtagjai életének, testi épségének és egészségének védelmét, a külképviselet működőképességének fenntartását, valamint a külképviselet vagyonának megóvását, biztonságának védelmét biztosítja;
 
-4. diplomata: az a diplomáciai rangot viselő kormánytisztviselő, aki a külpolitikáért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter feladat- és hatáskörébe tartozó feladatokat belföldön a kihelyező szervnél vagy Magyarország külképviseletén végzi;
+4. diplomata: az a diplomáciai rangot viselő kormánytisztviselő, aki a külpolitikáért felelős miniszter, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter feladat- és hatáskörébe tartozó feladatokat belföldön a kihelyező szervnél vagy Magyarország külképviseletén végzi;
 
 5. ENSZ-szorzó: az Egyesült Nemzetek Szervezete Nemzetközi Közszolgálat Bizottsága által közzétett arányszám, amely – a helyi fizetőeszköz és az USD közötti átváltási arányok változását és az infláció mértékét is alapul véve – a megélhetés költségeit hasonlítja össze egy adott állomáshely és New York tekintetében;
 
@@ -26,13 +26,13 @@
 
 10. kihelyezés: munkáltatói intézkedés, amellyel a kihelyező vezető a kormánytisztviselőt határozott időre tartós külszolgálat ellátására rendeli;
 
-11. kihelyező szerv: a külpolitikáért, illetve az EU ÁK esetében az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium, amely az általa foglalkoztatott kormánytisztviselőt tartós külszolgálat ellátására, kihelyező okirattal kihelyezi;
+11. kihelyező szerv: a külpolitikáért, illetve az EU ÁK esetében az európai uniós ügyek koordinációjáért – a külföldi magyar kulturális intézet (a továbbiakban: kulturális intézet) esetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért – felelős miniszter által vezetett minisztérium, amely az általa foglalkoztatott kormánytisztviselőt tartós külszolgálat ellátására, kihelyező okirattal kihelyezi;
 
-12. kihelyező vezető: a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője, az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszter;
+12. kihelyező vezető: a külpolitikáért felelős miniszter és – a kulturális intézet tekintetében – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője, az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszter;
 
 13. konzuli személyzet: ágazati jogszabályok alapján, külképviseleten konzuli tevékenységet végző – adott esetben hivatásos konzuli ranggal is bíró – diplomata, kormánytisztviselő külképviselet által foglalkoztatott munkavállaló, valamint külképviselet által foglalkoztatott házastárs;
 
-14. külképviselet: a külpolitikáért – az EU ÁK esetében az európai uniós ügyek koordinációjáért – felelős miniszter által vezetett minisztérium hivatali szervezetének – a Kormány döntése alapján létrehozott – külföldön, a 3. § (1) bekezdésében meghatározott formákban működő önálló szervezeti egysége, amelynek jogállását, feladat- és hatáskörét általános jelleggel a nemzetközi jog és a magyar jog normái határozzák meg.
+14. külképviselet: a külpolitikáért – az EU ÁK esetében az európai uniós ügyek koordinációjáért, a kulturális intézet esetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter – felelős miniszter által vezetett minisztérium hivatali szervezetének – a Kormány döntése alapján létrehozott – külföldön, a 3. § (1) bekezdésében meghatározott formákban működő önálló szervezeti egysége, amelynek jogállását, feladat- és hatáskörét általános jelleggel a nemzetközi jog és a magyar jog normái határozzák meg.
 
 15. külképviselet által foglalkoztatott munkavállaló: a fogadó államban állandó lakóhellyel rendelkező és a fogadó államban munkavállalásra jogosult, a külképviselet által munkaszerződéssel foglalkoztatott természetes személy, akinek elsődleges feladata a külképviselet funkcionális működésében való közreműködés;
 
@@ -42,6 +42,6 @@
 
 17a. szakkonzul: konzuli feladatokat ellátó szakdiplomata;
 
-18. tartós külszolgálat: a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat, illetve e feladat támogatásának ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt – által a kihelyező vezető döntése alapján külképviseleten teljesített, határozott időre szóló speciális közszolgálat, amely a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek közt végzett tevékenységre irányul, és amelynek időtartama 90 napnál hosszabb;
+18. tartós külszolgálat: a külpolitikáért felelős miniszter, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat, illetve e feladat támogatásának ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt – által a kihelyező vezető döntése alapján külképviseleten teljesített, határozott időre szóló speciális közszolgálat, amely a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek közt végzett tevékenységre irányul, és amelynek időtartama 90 napnál hosszabb;
 
 19. válsághelyzet: az állomáshelyet is magában foglaló földrajzi térségben bekövetkező közvetlen életveszélyt okozó természeti vagy ipari katasztrófa, súlyos járvány, terrorfenyegetettség, fegyveres zavargás, polgárháború vagy háború, illetve ezek közvetlen veszélye.

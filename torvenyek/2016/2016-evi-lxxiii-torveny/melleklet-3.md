@@ -1,6 +1,6 @@
 3. melléklet a 2016. évi LXXIII. törvényhez
 
-A külpolitikáért felelős miniszter, valamint az európai uniós ügyek koordinációjáért felelős miniszter által kezelt adatok köre
+A külpolitikáért felelős miniszter, az európai uniós ügyek koordinációjáért felelős miniszter, valamint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által kezelt adatok köre
 
 1. A tartós külszolgálatra kihelyezett kormánytisztviselő, valamint házas- és élettársának
 

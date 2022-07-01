@@ -1,4 +1,8 @@
-11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos, az intézetekben tartós külszolgálatot teljesítő diplomata, valamint az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.
+11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja.
+
+(1a) A kulturális intézet igazgatója és a kulturális intézetben tartós külszolgálatot teljesítő diplomata szakmai felkészítése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter bevonásával történik.
+
+(1b) Az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.
 
 (2) A tartós külszolgálati kihelyezés előtt álló és kihelyezésre kerülő kormánytisztviselő (a továbbiakban: felkészülő) tartós külszolgálati felkészítésének időtartama – a kihelyező vezető döntése alapján, ide nem értve a 10. § (2) bekezdése szerinti kijelölés esetét – legalább egy, legfeljebb hat hónapig tarthat.
 

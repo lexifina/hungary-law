@@ -36,4 +36,4 @@ szorzata alapján kerül meghatározásra.
 
 (9) A kihelyező szerv – a kihelyezett kérelmére – a külpolitikáért felelős miniszter által megállapított rendelet szerinti mértékben és feltételekkel, kamatmentes devizailletmény- és költségtérítés-előleget nyújt.
 
-(10) Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos és az intézetekben tartós külszolgálatot teljesítő diplomata rangjának megfelelő illetmény megállapításához a kultúráért felelős miniszter egyetértése szükséges.
+(10)

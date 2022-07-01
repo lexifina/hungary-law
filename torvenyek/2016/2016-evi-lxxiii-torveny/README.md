@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-73-00-00
 | 2020-12-23 | 2020. évi CLXXVII. törvény | 2016-73-00-00.14 |
 | 2021-01-01 | 2020. évi CLXXVII. törvény | 2016-73-00-00.15 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2016-73-00-00.16 |
+| 2022-07-01 | 2022. évi IV. törvény | 2016-73-00-00.17 |
