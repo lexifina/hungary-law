@@ -1,0 +1,4 @@
+## 13/B. §[^42] E rendeletnek a koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatásról szóló 7/2020. (IV. 16.) KKM rendelet módosításáról szóló 45/2021. (XII. 22.) KKM rendelettel (a továbbiakban: Módr.1) módosított 9. § f) pontja szerinti rendelkezése azon pályázatok esetében alkalmazható, ahol a Módr.1 hatálybalépését[^43] megelőzően a támogatói okiratban előírt beszámoló nem került benyújtásra, és a 2022. április 30-i beruházás befejezési határidő alkalmazása érdekében a pályázó a bázislétszám fenntartási kötelezettség vonatkozásában legkésőbb 2022. január 31-ig egyoldalú kötelezettségvállalási nyilatkozatot tesz, a lebonyolító szerv honlapján közzétett nyilatkozat alapulvételével, amelyet az adott támogatói okirat módosításának kell tekinteni.
+
+[^42]: A 13/B. §-t a 45/2021. (XII. 22.) KKM rendelet 1. §-a iktatta be.
+[^43]: A hatálybalépés időpontja 2021. december 23.

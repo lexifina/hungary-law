@@ -1,8 +1,8 @@
-## A 2. § (1) bekezdés b) és c) pontja szerinti versenyképesség-növelő támogatás tekintetében vállalt beruházás keretében beszerzett tárgyi eszközökre és immateriális javakra vonatkozó szabályok[^44]
+## A 2. § (1) bekezdés b) és c) pontja szerinti versenyképesség-növelő támogatás tekintetében vállalt beruházás keretében beszerzett tárgyi eszközökre és immateriális javakra vonatkozó szabályok[^48]
 
 ## I. Kizárólag a támogatási kérelem befogadására vonatkozó értesítést követően felmerült költségek vehetők figyelembe a beruházás részeként, figyelemmel a támogatási szerződésben rögzített beruházás megkezdésének időpontjára és a kérelemhez mellékelt költségkategóriákra.
 
-## II.[^45] Beruházási érték meghatározása
+## II.[^49] Beruházási érték meghatározása
 
 ## 1. A 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás esetében a beszerzett eszközök értékének a beruházás befejezéséig el kell érnie az 1,6 millió eurónak megfelelő forintösszeget.
 
@@ -64,7 +64,7 @@
 
 ## 26. cégközi profit,
 
-## 27.[^46] energiatermeléshez kapcsolódó eszközök, a IX. pontban meghatározott kivételekkel,
+## 27.[^50] energiatermeléshez kapcsolódó eszközök, a IX. pontban meghatározott kivételekkel,
 
 ## 28. létesítmény felvásárlása, amennyiben arra nem piaci áron kerül sor,
 
@@ -124,7 +124,7 @@
 
 ## b) Ha a pályázó ÁFA-adóalany, vagy még nem ÁFA-adóalany, de a beruházással, illetve a beruházás hasznosításával azzá válik, és az ÁFA levonására egészben vagy részben jogosult, a támogatás alapja a beruházás ÁFA nélkül számított nettó összköltsége.
 
-## XI.[^47] Használt eszközök
+## XI.[^51] Használt eszközök
 
 ## 1. A 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás esetében
 
@@ -134,7 +134,7 @@
 
 ## 2. A 2. § (1) bekezdés c) pontja szerinti versenyképesség-növelő támogatás esetében a pályázó csak új eszközt számolhat el. Használt eszköz csak abban az esetben számolható el, amennyiben a használt eszköz egy bezárt létesítmény eszköze, és az eladója a pályázótól független harmadik fél (létesítményfelvásárlás).
 
-## XII.[^48] Ingatlanok
+## XII.[^52] Ingatlanok
 
 ## 1. A 2. § (1) bekezdés b) pontja szerinti versenyképesség-növelő támogatás esetében
 
@@ -152,7 +152,7 @@
 
 ## d) az ingatlanra aktivált, támogatott eszközöket folyamatosan, a teljes fenntartási időszak során az ingatlanon kell működtetnie a pályázónak.
 
-3. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^49]
+3. melléklet a 7/2020. (IV. 16.) KKM rendelethez[^53]
 
 A 2. § (1) bekezdés c) pontja szerinti versenyképesség-növelő támogatásban részesíthető tevékenységek
 
@@ -256,9 +256,9 @@ A 2. § (1) bekezdés c) pontja szerinti versenyképesség-növelő támogatásb
 
 | 48. | 331 | Ipari gép, berendezés, eszköz javítása |
 
-[^44]: A 2. melléklet címe a 11/2021. (V. 9.) KKM rendelet 11. §-ával megállapított szöveg.
-[^45]: A 2. melléklet II. pontja a 11/2021. (V. 9.) KKM rendelet 12. §-ával megállapított szöveg.
-[^46]: A 2. melléklet IV. pont 27. alpontja a 11/2021. (V. 9.) KKM rendelet 13. §-ával megállapított szöveg.
-[^47]: A 2. melléklet XI. pontja a 11/2021. (V. 9.) KKM rendelet 14. §-ával megállapított szöveg.
-[^48]: A 2. melléklet XII. pontja a 11/2021. (V. 9.) KKM rendelet 14. §-ával megállapított szöveg.
-[^49]: A 3. mellékletet a 11/2021. (V. 9.) KKM rendelet 15. §-a iktatta be.
+[^48]: A 2. melléklet címe a 11/2021. (V. 9.) KKM rendelet 11. §-ával megállapított szöveg.
+[^49]: A 2. melléklet II. pontja a 11/2021. (V. 9.) KKM rendelet 12. §-ával megállapított szöveg.
+[^50]: A 2. melléklet IV. pont 27. alpontja a 11/2021. (V. 9.) KKM rendelet 13. §-ával megállapított szöveg.
+[^51]: A 2. melléklet XI. pontja a 11/2021. (V. 9.) KKM rendelet 14. §-ával megállapított szöveg.
+[^52]: A 2. melléklet XII. pontja a 11/2021. (V. 9.) KKM rendelet 14. §-ával megállapított szöveg.
+[^53]: A 3. mellékletet a 11/2021. (V. 9.) KKM rendelet 15. §-a iktatta be.
