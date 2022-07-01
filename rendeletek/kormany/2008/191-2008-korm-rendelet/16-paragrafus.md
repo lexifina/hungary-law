@@ -1,6 +1,6 @@
 ## A működési támogatás folyósítása
 
-16. § (1)[^144] A fejezeti kezelésű előirányzatok kezelésére vonatkozó szerződéseket Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszter, egyéb szolgáltatás esetén a szociál- és nyugdíjpolitikáért felelős miniszter és a kezelő szerv főigazgatója tárgyév január 5-éig kötik meg.
+16. § (1)[^144] A fejezeti kezelésű előirányzatok kezelésére vonatkozó szerződéseket Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszter, egyéb szolgáltatás esetén a szociálpolitikáért felelős miniszter és a kezelő szerv főigazgatója tárgyév január 5-éig kötik meg.
 
 (2)[^145] A fenntartónak a működési támogatást a kezelő szerv folyósítja.
 
@@ -30,7 +30,7 @@ e)[^152] a szolgáltató a szolgáltatást nem nyújtja, a szolgáltatás nyújt
 
 (10)[^154] A felfüggesztési ok bekövetkezéséről és megszűnéséről a működést engedélyező szerv és az ellenőrző igazgatóság haladéktalanul értesíti a kezelő szervet.
 
-[^144]: A 16. § (1) bekezdése a 180/2019. (VII. 26.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^144]: A 16. § (1) bekezdése a 180/2019. (VII. 26.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 83. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^145]: A 16. § (2) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 36. § (1) bekezdésével megállapított, a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^146]: A 16. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 36. § (1) bekezdésével megállapított, a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^147]: A 16. § (4) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 40. § a) pontja hatályon kívül helyezte.

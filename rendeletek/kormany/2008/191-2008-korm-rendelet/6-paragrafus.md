@@ -4,7 +4,7 @@
 
 (3)[^53] A bizottság
 
-a)[^54] elnökét és egy további tagját Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszter, egyéb szolgáltatás esetén a szociál- és nyugdíjpolitikáért felelős miniszter jelöli ki az általa vezetett minisztériumnál foglalkoztatott, kormányzati szolgálati jogviszonyban állók közül,
+a)[^54] elnökét és egy további tagját krízisközpont és titkos menedékház esetén a családpolitikáért felelős miniszter, Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszter, egyéb szolgáltatás esetén a szociálpolitikáért felelős miniszter jelöli ki az általa vezetett minisztériumnál foglalkoztatott, kormányzati szolgálati jogviszonyban állók közül,
 
 b)[^55] egy tagját a kezelő szerv jelöli ki,
 
@@ -47,7 +47,7 @@ e) az a)–d) pont szerinti személy hozzátartozója.
 [^51]: A 6. § (1) bekezdése a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^52]: A 6. § (2) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 33. §-ával megállapított szöveg.
 [^53]: A 6. § (3) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^54]: A 6. § (3) bekezdés a) pontja a 82/2019. (IV. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg. [A 102/2019. (V. 6.) Korm. rendelet 8. § a) pontjával elrendelt módosítás, amely szerint a „minisztérium kormánytisztviselői” szövegrész helyébe a „minisztériumnál foglalkoztatott, kormányzati szolgálati jogviszonyban állók” szöveg lép, nem vezethető át.
+[^54]: A 6. § (3) bekezdés a) pontja a 82/2019. (IV. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 83. § (2) bekezdés a) pontja szerint módosított szöveg. [A 102/2019. (V. 6.) Korm. rendelet 8. § a) pontjával elrendelt módosítás, amely szerint a „minisztérium kormánytisztviselői” szövegrész helyébe a „minisztériumnál foglalkoztatott, kormányzati szolgálati jogviszonyban állók” szöveg lép, nem vezethető át.
 [^55]: A 6. § (3) bekezdés b) pontja a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^56]: A 6. § (3) bekezdés c) pontja a 419/2051. (XII. 23.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^57]: A 6. § (3) bekezdés d) pontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 11. pontja hatályon kívül helyezte, újonnan a 226/2018. (XII. 4.) Korm. rendelet 7. §-a iktatta be.

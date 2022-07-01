@@ -1,4 +1,4 @@
-7. § (1)[^64] A bizottság javaslatának beérkezésétől számított 8 napon belül a kezelő szerv a pályázatokat döntésre terjeszti fel Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszternek, egyéb szolgáltatás esetén a szociál- és nyugdíjpolitikáért felelős miniszternek. A miniszter a felterjesztés beérkezését követő 8 napon belül dönt a nyertes pályázók személyéről, tanoda támogatására kiírt általános pályázat esetén az alaptámogatás és az egy feladategységre jutó támogatás általános összegéről, továbbá az (5) bekezdés c) pont ca)–cd) alpontja szerinti egyéb feltételekről.
+7. § (1)[^64] A bizottság javaslatának beérkezésétől számított 8 napon belül a kezelő szerv a pályázatokat döntésre terjeszti fel krízisközpont és titkos menedékház esetén a családpolitikáért felelős miniszternek, Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszternek, egyéb szolgáltatás esetén a szociálpolitikáért felelős miniszternek. A miniszter a felterjesztés beérkezését követő 8 napon belül dönt a nyertes pályázók személyéről, tanoda támogatására kiírt általános pályázat esetén az alaptámogatás és az egy feladategységre jutó támogatás általános összegéről, továbbá az (5) bekezdés c) pont ca)–cd) alpontja szerinti egyéb feltételekről.
 
 (2) A döntést
 
@@ -58,7 +58,7 @@ c) a fenntartó a pályázatban vagy az ahhoz csatolt iratokban szándékosan va
 
 (7)[^77] A (6) bekezdés b)–c) pontja szerinti körülmények fennállásáról – a határidő leteltét, illetve a valós adatokról, tényekről, körülményekről történő tudomásszerzést követő 8 napon belül – a kezelő szerv értesíti a fenntartót.
 
-[^64]: A 7. § (1) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 22. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés j) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § c) pontja, a 82/2019. (IV. 18.) Korm. rendelet 2. § (6) bekezdés b) pontja, a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^64]: A 7. § (1) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 22. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés j) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § c) pontja, a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 83. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^65]: A 7. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 13. pontja, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés k) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^66]: A 7. § (2) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
 [^67]: A 7. § (2) bekezdés c) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
