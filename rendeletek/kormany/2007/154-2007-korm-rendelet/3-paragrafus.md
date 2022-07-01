@@ -166,8 +166,9 @@
 
 (3) A szerződés, illetve e rendelet 1–2. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter és a kultúráért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter gondoskodik.
 
 [^2]: A 2. § – a 3. § (2) bekezdése alapján – a szerződés 17. cikkében meghatározott időpontban lép hatályba. A 21/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpontja: 2007. október 23.
 [^3]: A 21/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpontja: 2007. október 23.
 [^4]: Lásd a 21/2012. (IV. 13.) KÜM közleményt.
+[^5]: A 3. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 48. §-a szerint módosított szöveg.
