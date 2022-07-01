@@ -66,6 +66,6 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1998. június 23-tól kell alkalmazni.
 
-(2)[^1] A rendelet végrehajtásáról az oktatási területen az oktatásért felelős miniszter, a kulturális területen a kultúráért felelős miniszter gondoskodik.
+(2)[^1] A rendelet végrehajtásáról a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális területen a kultúráért felelős miniszter gondoskodik.
 
-[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 192. §-a szerint módosított szöveg.
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 192. §-a, a 238/2022. (VI. 30.) Korm. rendelet 23. §-a szerint módosított szöveg.
