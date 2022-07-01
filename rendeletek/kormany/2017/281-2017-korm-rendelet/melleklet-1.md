@@ -1,4 +1,4 @@
-1. melléklet a 281/2017. (IX. 22.) Korm. rendelethez[^7]
+1. melléklet a 281/2017. (IX. 22.) Korm. rendelethez[^9]
 
 | A partnerek listája |
 
@@ -46,4 +46,4 @@
 
 | 22. | Tajvan |
 
-[^7]: Az 1. melléklet a 281/2019. (XI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet a 281/2019. (XI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.

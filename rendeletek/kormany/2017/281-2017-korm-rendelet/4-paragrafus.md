@@ -1,4 +1,4 @@
-## 3. §[^2] A Megállapodás hiteles angol nyelvű szövege és hivatalos magyar nyelvű fordítása a következő:
+## 3. §[^3] A Megállapodás hiteles angol nyelvű szövege és hivatalos magyar nyelvű fordítása a következő:
 
 ## ”AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE PARTNER ON THE PROVISION
 
@@ -38,4 +38,4 @@
 
 ## (3) Amennyiben a jelen Megállapodás hatálya megszűnik, úgy annak rendelkezéseit a még működő projektek és programok vonatkozásában azok teljes befejezéséig alkalmazni kell.”
 
-[^2]: A 3. § az 5. § (2) bekezdésében meghatározott időpontban lép hatályba. A 49/2017. (XI. 30.) KKM közlemény alapján a hatálybalépés időpontja 2017. december 8.
+[^3]: A 3. § az 5. § (2) bekezdésében meghatározott időpontban lép hatályba. A 49/2017. (XI. 30.) KKM közlemény alapján a hatálybalépés időpontja 2017. december 8.
