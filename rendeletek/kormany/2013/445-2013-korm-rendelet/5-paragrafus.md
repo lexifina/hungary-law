@@ -2,7 +2,7 @@
 
 a) nem állnak fenn a 3. § (2) bekezdés a)–c) pontjában meghatározott feltételek,
 
-b) a harmadik országbeli állampolgár magyarországi foglalkoztatása a Magyarországon foglalkoztatható harmadik országbeli állampolgárok – foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) rendeletében meghatározott – létszámán felül történne,
+b)[^21] a harmadik országbeli állampolgár magyarországi foglalkoztatása a Magyarországon foglalkoztatható harmadik országbeli állampolgárok – harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter (a továbbiakban: miniszter) rendeletében meghatározott – létszámán felül történne,
 
 c) a harmadik országbeli állampolgár által ellátandó foglalkozásban a magyarországi munkanélküliség alakulására és összetételére tekintettel harmadik országbeli állampolgár nem foglalkoztatható,
 
@@ -18,7 +18,7 @@ h) a szolgáltatás kizárólagos tárgya a külföldi munkáltatóval kötött 
 
 i) a harmadik országbeli állampolgár állandó lakóhelye szerinti ország illetékes hatósága a magyar állampolgárok adott országban történő munkavállalásának engedélyezését más országok állampolgáraira irányadó általános feltételekhez képest indokolatlanul nehezebb feltételhez köti (viszonosság hiánya),
 
-j)[^21] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintően érvényes munkavállalási engedély van hatályban,
+j)[^22] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintően érvényes munkavállalási engedély van hatályban,
 
 k) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatása érdekében hamis vagy hamisított szakképzettséget, iskolai végzettséget igazoló okiratot nyújtott be.
 
@@ -28,13 +28,14 @@ a) a munkaerőigényében a munkakör betöltésére vagy a tevékenység ellát
 
 b) a feltételeknek megfelelő kiközvetíthető munkaerő foglalkoztatásától elzárkózott, vagy
 
-c)[^22] érvényes munkaerőigénnyel rendelkezett, de abban közvetítést nem kért, vagy a munkaerőigény érvényességi idejét tíz napnál rövidebb időtartamban határozta meg.
+c)[^23] érvényes munkaerőigénnyel rendelkezett, de abban közvetítést nem kért, vagy a munkaerőigény érvényességi idejét tíz napnál rövidebb időtartamban határozta meg.
 
-(3)[^23] Az (1) bekezdés i) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
+(3)[^24] Az (1) bekezdés i) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
 
-(4)[^24] Az (1) bekezdés j) pontja alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását, vagy a harmadik országbeli állampolgár írásban nyilatkozik arról, hogy a korábbi foglalkoztatónál a jogviszonya megszűnt.
+(4)[^25] Az (1) bekezdés j) pontja alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását, vagy a harmadik országbeli állampolgár írásban nyilatkozik arról, hogy a korábbi foglalkoztatónál a jogviszonya megszűnt.
 
-[^21]: Az 5. § (1) bekezdés j) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 113/2016. (V. 30.) Korm. rendelet 91. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^22]: Az 5. § (2) bekezdés c) pontja a 113/2016. (V. 30.) Korm. rendelet 91. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^23]: Az 5. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
-[^24]: Az 5. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 216. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^21]: Az 5. § (1) bekezdés b) pontja a 238/2022. (VI. 30.) Korm. rendelet 136. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (1) bekezdés j) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 113/2016. (V. 30.) Korm. rendelet 91. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^23]: Az 5. § (2) bekezdés c) pontja a 113/2016. (V. 30.) Korm. rendelet 91. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^24]: Az 5. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^25]: Az 5. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 216. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

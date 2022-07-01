@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-445-20-
 | 2021-07-01 | 2013-445-20-22.20 | 89/2014. (III. 20.) Korm. rendelet |
 | 2021-07-17 | 2013-445-20-22.21 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2022-06-29 | 2013-445-20-22.22 | 227/2022. (VI. 28.) Korm. rendelet |
+| 2022-07-01 | 2013-445-20-22.23 | 318/2014. (XII. 13.) Korm. rendelet |

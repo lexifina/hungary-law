@@ -42,7 +42,7 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 12.[^3] munkavállalási engedély meghosszabbítása: ha a harmadik országbeli állampolgár foglalkoztatására a mezőgazdasági szezonális munkavállalási engedély kivételével a munkavállalási engedély érvényességi időtartamának lejártát követően ugyanannál a foglalkoztatónál, ugyanabban a munkakörben és ugyanazon a munkavégzési helyen kerül sor, és a foglalkoztató a hosszabbítás iránti kérelmét a 9. § (1) bekezdés 16. pontjában meghatározott időben nyújtja be;
 
-13.[^4] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszeréről szóló 7/2010. (IV. 23.) KSH közlemény mellékletében (a továbbiakban: FEOR) megfelelő foglalkozás gyakorlása során elért személyi alapbér – a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott – országos átlaga;
+13.[^4] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszeréről szóló 7/2010. (IV. 23.) KSH közlemény mellékletében (a továbbiakban: FEOR) megfelelő foglalkozás gyakorlása során elért személyi alapbér – a foglalkoztatáspolitikáért felelős miniszter által meghatározott – országos átlaga;
 
 14. összevont kérelmezési eljárás: a Harmtv. 2. § w) pontjában meghatározott eljárás;
 
@@ -75,7 +75,7 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 [^1]: A 2. § 1. pontja a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § 8. pontja a 113/2016. (V. 30.) Korm. rendelet 78. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 12. pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § 13. pontja a 318/2014. (XII. 13.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 13. pontja a 318/2014. (XII. 13.) Korm. rendelet 25. § a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 136. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^5]: A 2. § 16. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
 [^6]: A 2. § 17. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
 [^7]: A 2. § 18. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be.
