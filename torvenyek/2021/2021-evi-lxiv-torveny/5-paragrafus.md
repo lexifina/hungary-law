@@ -1,0 +1,5 @@
+## 4. Korai előrejelző eszközök
+
+5. § (1) A vállalkozások számára a Kormány a kormányzati tájékoztatási szolgáltatásokat nyújtó online platformon olyan módszertani útmutatásokat is tartalmazó tájékoztató anyagokat tesz közzé, és egyéb szolgáltatásokat is biztosít, amelyek elősegítik az adósságok vagy a vagyoni helyzet kedvezőtlen alakulásának, valamint a fizetésképtelenné válás valószínűségének felismerését (a továbbiakban együtt: korai előrejelző eszközök), különösképpen a mikro-, kis és középvállalkozások (a továbbiakban: kkv.), valamint azok tagjai, vezető tisztségviselői számára. A korai előrejelző eszközök segítséget nyújtanak a vállalkozások részére a pénzügyi kockázatok felismeréséhez, az indokolatlan üzleti kockázatok elkerüléséhez és a pénzügyi nehézség megfelelő kezeléséhez.
+
+(2) Az (1) bekezdés szerinti platformon az adós, valamint a munkavállalók képviselői tájékoztatást kapnak a korai előrejelző eszközök rendelkezésre állására, valamint a szerkezetátalakítási eljárásra és intézkedésekre vonatkozó releváns és naprakész információkról.

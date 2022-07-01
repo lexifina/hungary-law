@@ -1,0 +1,5 @@
+9. § (1) A szerkezetátalakítási terv bírósági jóváhagyása esetén a tervben foglalt jogok és kötelezettségek az adósra, valamennyi érintett hitelezőre, továbbá a szerkezetátalakítási tervhez jognyilatkozattal csatlakozó felekre terjednek ki.
+
+(2) A bíróság jogerős végzésével jóváhagyott szerkezetátalakítási terv az adós és az érintett hitelező között fennálló, a szerkezetátalakítási tervvel érintett szerződés közokiratba foglalt módosításának és egyben a szerkezetátalakítási terv érintett hitelezők általi elfogadásának napján fennálló elismert és nem vitatott tartozások tekintetében adósi tartozáselismerésnek is minősül.
+
+(3) A szerkezetátalakítási tervben szereplő kötelezettség jogosultja – a teljesítési határidő elteltét követően – az őt megillető kötelezettség vonatkozásában, a jogerősen jóváhagyott szerkezetátalakítási terv alapján végrehajtási záradék kiállítását kérheti az elsőfokon eljárt bíróságtól. A lejárt teljesítési határidejű kötelezettség vonatkozásában végrehajtási záradékkal ellátott szerkezetátalakítási terv végrehajtható okirat.

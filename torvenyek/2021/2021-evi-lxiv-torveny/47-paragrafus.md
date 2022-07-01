@@ -1,0 +1,5 @@
+47. § (1) Az adós kezdeményezésére a szerkezetátalakítási tervhez az adós tőketulajdonosai, kapcsolt vállalkozásai is csatlakozhatnak, oly módon, hogy jognyilatkozatot tesznek az adós egyes kötelezettségeinek átvállalására, elvállalására, járulékos kötelezettséget vállalnak az adós szerkezetátalakítási tervben foglalt kötelezettségei teljesítéséért, vagy kötelezettséget vállalnak a szerkezetátalakítási intézkedések szakmai támogatására.
+
+(2) A szerkezetátalakítási tervhez az adós érdekében tett jognyilatkozatokkal csatlakozhatnak olyan harmadik személyek is, akik jognyilatkozatot tesznek arra vonatkozóan, hogy az adós kötelezettségeit részben vagy egészben átvállalják vagy elvállalják, vagy az adós számára átmeneti vagy új finanszírozást kívánnak nyújtani.
+
+(3) A szerkezetátalakítási tervben az állam, önkormányzat, más államháztartási szervezet, az adó- és más köztartozás behajtására jogosult szervezet az adós számára fizetési könnyítést – fizetési halasztást, részletfizetési kedvezményt – adhat, valamint a követeléséről részben vagy egészben lemondhat, a követelését engedményezheti.

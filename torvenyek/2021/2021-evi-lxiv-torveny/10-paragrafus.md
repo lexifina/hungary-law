@@ -1,0 +1,3 @@
+10. § (1) Az adós bírósági polgári nemperes szerkezetátalakítási eljárás keretében kérheti a szerkezetátalakításhoz kapcsolódó bírósági intézkedések meghozatalát.
+
+(2) A szerkezetátalakítási eljárás alatt a hitelező – az egyedi végrehajtási intézkedéseket felfüggesztő moratórium időtartama alatt, a moratórium hatálya alá eső hitelező kivételével – az adóssal szemben fennálló igényét érvényesítheti, így különösen pert indíthat, vagy felszámolást kezdeményezhet. E rendelkezés nem érinti az érintett hitelezőnek a 46. § (5) bekezdés b) pontja szerinti igényérvényesítési jogát abban az esetben sem, ha az érintett hitelezőre kiterjed a moratórium hatálya.
