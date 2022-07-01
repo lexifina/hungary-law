@@ -58,7 +58,7 @@ l) orvos,
 
 m) egészségfejlesztő.
 
-(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központnál idegennyelv-tudási pótlék az alábbi munkakört betöltő rendvédelmi alkalmazott részére állapítható meg:
+(3)[^2] A Nemzeti Információs Központnál idegennyelv-tudási pótlék az alábbi munkakört betöltő rendvédelmi alkalmazott részére állapítható meg:
 
 a) főigazgatói munkaköri kategóriába tartozó munkakör,
 
@@ -89,3 +89,5 @@ f) előadó,
 g) szakértő,
 
 h) tanácsadó.
+
+[^2]: Az 1. § (3) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 39. §-a szerint módosított szöveg.
