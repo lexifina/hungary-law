@@ -208,8 +208,9 @@
 
 (3) E rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért és kultúráért felelős miniszter, valamint a tudománypolitika koordinációjáért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, valamint a tudománypolitika koordinációjáért felelős miniszter gondoskodik.
 
 [^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 16. cikkében meghatározott időpontban lép hatályba. A 15/2010. (IV. 7.) KüM határozat alapján a hatálybalépés időpontja 2010. március 1.
 [^3]: A 15/2010. (IV. 7.) KüM határozat alapján a hatálybalépés időpontja 2010. március 1.
 [^4]: Lásd a 15/2010. (IV. 7.) KüM határozatot.
+[^5]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 93. §-a szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-216-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-03 | 2009-216-20-22.1 | 216/2009. (X. 2.) Korm. rendelet |
+| 2022-07-01 | 2009-216-20-22.2 | 238/2022. (VI. 30.) Korm. rendelet |
