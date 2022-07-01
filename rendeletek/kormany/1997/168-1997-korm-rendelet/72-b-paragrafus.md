@@ -1,6 +1,6 @@
 72/B. §[^190] (1)[^191] A kivételes nyugellátás megállapítása, a kivételes nyugellátás-emelés és az egyszeri segély megállapítása iránti eljárás – az (1c) bekezdésben meghatározottak kivételével – kérelemre indul.
 
-(1a)[^192] A kérelmet a Központ által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – e célra rendszeresített, és a Kincstár honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon kell benyújtani. Az adatlapok és elektronikus űrlapok adattartalmát a 6. számú melléklet határozza meg.
+(1a)[^192] A kérelmet a Központ által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – e célra rendszeresített, és a Kincstár honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon kell benyújtani. Az adatlapok és elektronikus űrlapok adattartalmát a 6. számú melléklet határozza meg.
 
 (1b)[^193] A kérelemben meg kell jelölni azokat a különös méltánylást érdemlő körülményeket, amelyek a kivételes nyugellátás megállapítását, a kivételes nyugellátás-emelést, illetve az egyszeri segély megállapítását indokolják.
 
@@ -96,7 +96,7 @@ c)[^234] a (7) bekezdésben meghatározott feltételek hiányában is engedélye
 
 [^190]: A 72/B. §-t a 229/2000. (XII. 23.) Korm. rendelet 12. §-a iktatta a szövegbe.
 [^191]: A 72/B. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
-[^192]: A 72/B. § (1a) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^192]: A 72/B. § (1a) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 4. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^193]: A 72/B. § (1b) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
 [^194]: A 72/B. § (1c) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
 [^195]: A 72/B. § (1d) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 43. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

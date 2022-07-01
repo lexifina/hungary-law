@@ -10,7 +10,7 @@
 
 (6) A Tny. 50. § (6)[^131] bekezdésének alkalmazásánál a Kormány által meghatározott összeghatár[^132] szempontjából figyelmen kívül kell hagyni a saját jogú nyugellátás megállapítását követően elszenvedett üzemi baleset alapján megállapított baleseti járadékot, az ösztönző nyugdíjpótlékot, az egyes saját jogú nyugellátások emeléséről szóló 93/1992. (V. 10.) Korm. rendelet 4. § (1) bekezdése szerinti emelést, továbbá az egyes személyes szabadságot korlátozó intézkedésekkel, valamint a semmissé nyilvánított elítéléssel összefüggésben járó emelést, illetőleg a nemzeti helytállásért járó pótlékot és a méltányosságból engedélyezett emelést.
 
-(7)[^133] A saját jogú nyugellátás és az özvegyi nyugdíj, baleseti özvegyi nyugdíj 2022. január 1-jétől havi 107 910 forint összeghatárig folyósítható együtt.
+(7)[^133] A saját jogú nyugellátás és az özvegyi nyugdíj, baleseti özvegyi nyugdíj 2022. január 1-jétől havi 112 120 forint összeghatárig folyósítható együtt.
 
 (8)[^134] A (6)–(7) bekezdésben foglaltakat kell akkor is alkalmazni, ha saját jogú nyugellátást vagy özvegyi nyugdíjat, mezőgazdasági szövetkezeti öregségi, munkaképtelenségi, illetőleg özvegyi járadékkal folyósítanak együtt.
 
@@ -26,7 +26,7 @@
 [^130]: A 62. § (5) bekezdése a 201/1999. (XII. 26.) Korm. rendelet 12. §-ának (2) bekezdésével megállapított szöveg.
 [^131]: A 234/1998. (XII. 30.) Korm. rendelet 29. §-ának (1) bekezdése szerint módosított szöveg.
 [^132]: A 157/2003. (X. 1.) Korm. rendelet 7. § (4) bekezdése alapján az együttfolyósítási összeghatár – 2003. január 1-jei visszamenőleges hatállyal – havi 46 700 forint.
-[^133]: A 62. § (7) bekezdése a 692/2021. (XII. 9.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^133]: A 62. § (7) bekezdése a 692/2021. (XII. 9.) Korm. rendelet 9. §-ával megállapított, a 161/2022. (IV. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^134]: A 62. § új (8) bekezdését a 249/2003. (XII. 23.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatva.
 [^135]: A 62. § (9) bekezdését a 377/2004. (XII. 28.) Korm. rendelet 18. §-a (5) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 365/2007. (XII. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 17. § (3) bekezdését.
 [^136]: A 62. § (9) bekezdését a 201/1999. (XII. 26.) Korm. rendelet 12. §-ának (4) bekezdése iktatta be. A 62. § eredeti (9) bekezdésének számozását a 249/2003. (XII. 23.) Korm. rendelet 10. §-a (10) bekezdésre változtatta. A 62. § (10) bekezdése a 365/2007. (XII. 23.) Korm. rendelet 8. § (2) bekezdése, a 333/2011. (XII. 29.) Korm. rendelet 29. § m) pontja, a 425/2012. (XII. 29.) Korm. rendelet 11. § j) pontja szerint módosított szöveg.
