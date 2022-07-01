@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-257-20-
 | 2020-12-29 | 2016-257-20-22.10 | 680/2020. (XII. 28.) Korm. rendelet |
 | 2021-01-01 | 2016-257-20-22.11 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-12-23 | 2016-257-20-22.12 | 717/2021. (XII. 20.) Korm. rendelet |
+| 2022-07-01 | 2016-257-20-22.13 | 239/2022. (VI. 30.) Korm. rendelet |

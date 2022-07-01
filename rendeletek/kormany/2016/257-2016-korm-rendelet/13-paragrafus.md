@@ -10,10 +10,11 @@
 
 (6)[^48]
 
-(7) 2019. június 1-jét követően az interfésszel csatlakozott helyi önkormányzat az e-közigazgatásért felelős miniszternél kezdeményezheti a rendszercsatlakozásra történő csatlakozást. A rendszercsatlakozás időpontját az e-közigazgatásért felelős miniszter a Kincstárral együtt állapítja meg.
+(7)[^49] 2019. június 1-jét követően az interfésszel csatlakozott helyi önkormányzat az e-közigazgatásért felelős miniszternél kezdeményezheti a rendszercsatlakozásra történő csatlakozást. A rendszercsatlakozás időpontját az e-közigazgatásért felelős miniszter – a helyi önkormányzatokért felelős miniszter véleményének beszerzését követően – a Kincstárral együtt állapítja meg.
 
 (8) A Kincstár – a 3. melléklet szerinti adatok nyilvántartását szabályozó előírások 2019. évi módosításokhoz kapcsolódó adatstruktúra-változásokat is figyelembe véve – az interfész-specifikáció teljes körű, végleges változatát legkésőbb 2019. március 15-ig az érintett önkormányzatok rendelkezésére bocsátja.
 
 [^46]: A 13. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
 [^47]: A 13. § (2) bekezdését a 75/2019. (IV. 9.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
 [^48]: A 13. § (6) bekezdését a 75/2019. (IV. 9.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^49]: A 13. § (7) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 29. §-ával megállapított szöveg.

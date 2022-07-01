@@ -1,3 +1,3 @@
-## 15. §[^51]
+## 15. §[^52]
 
-[^51]: A 15. §-t a 148/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^52]: A 15. §-t a 148/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
