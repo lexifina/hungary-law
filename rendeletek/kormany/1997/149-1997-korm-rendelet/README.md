@@ -68,3 +68,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2021-07-16 | 1997-149-20-22.85 | 70/2014. (III. 13.) Korm. rendelet |
 | 2021-12-02 | 1997-149-20-22.86 | 30/2021. (XII. 1.) AB határozat |
 | 2022-01-01 | 1997-149-20-22.87 | 354/2021. (VI. 24.) Korm. rendelet |
+| 2022-07-01 | 1997-149-20-22.88 | 173/2009. (VIII. 29.) Korm. rendelet |

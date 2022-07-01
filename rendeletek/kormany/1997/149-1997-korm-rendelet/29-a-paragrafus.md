@@ -18,7 +18,7 @@ g) a gyermek elvitelével felmerülő kiadások viseléséről, külön rögzít
 
 (3)[^127] Az egyezséget a gyámhivatal jóváhagyja és határozatba foglalja, ha az megfelel a gyermek érdekének, véleményének és a kapcsolattartás céljának. Az egyezség jóváhagyásával egyidejűleg a feleket tájékoztatni kell a 31. és 32. §-ban, a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény 22/C. § (2) bekezdésében és 22/D. § (2) bekezdésében meghatározott jogkövetkezményekről, továbbá a Ptk. 4:183. §-a szerinti kártérítés és az igazolt költségek megtérítésének lehetőségéről.
 
-(4) Az időszakos kapcsolattartás időtartamát a gyermek életkorának és fejlettségének megfelelően kell meghatározni. Tanköteles gyermek esetén a tanítási szünetek időpontjára és tartamára az oktatásért felelős miniszternek a tanév rendjét meghatározó rendeletében foglaltak az irányadók.
+(4)[^128] Az időszakos kapcsolattartás időtartamát a gyermek életkorának és fejlettségének megfelelően kell meghatározni. Tanköteles gyermek esetén a tanítási szünetek időpontjára és tartamára a köznevelésért felelős miniszternek a tanév rendjét meghatározó rendeletében foglaltak az irányadók.
 
 (5) Egyezség hiányában a gyámhivatal – a kapcsolattartás céljának megfelelően – a Ptk. 4:181. § (2) bekezdésében meghatározott szempontok alapján, a kapcsolattartásra jogosult és a kapcsolattartásra kötelezett méltányos érdekére, körülményeire, valamint a gyermek korára, egészségi állapotára, tanulmányi előmenetelére tekintettel, a gyermek érdekében dönt.
 
@@ -38,7 +38,7 @@ f) a kapcsolat személyes találkozás nélküli fenntartásának módját, szü
 
 g) a tájékoztatást a gyermek elvitelével felmerülő kiadások viseléséről és kérelemre döntést arról, ha a kiadások részben vagy egészben a kapcsolattartásra kötelezettet terhelik, és
 
-h)[^128] a tájékoztatást a kapcsolattartásra vonatkozó szabályok be nem tartása esetére a 31. és 32. §-ban meghatározott jogkövetkezményekről, továbbá a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény 22/C. § (2) bekezdésében és 22/D. § (2) bekezdésében meghatározott jogkövetkezményekről, továbbá a Ptk. 4:183. §-a szerinti kártérítés és az igazolt költségek megtérítésének lehetőségéről.
+h)[^129] a tájékoztatást a kapcsolattartásra vonatkozó szabályok be nem tartása esetére a 31. és 32. §-ban meghatározott jogkövetkezményekről, továbbá a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény 22/C. § (2) bekezdésében és 22/D. § (2) bekezdésében meghatározott jogkövetkezményekről, továbbá a Ptk. 4:183. §-a szerinti kártérítés és az igazolt költségek megtérítésének lehetőségéről.
 
 (7) A gyámhivatal a felügyelt kapcsolattartás esetén meghatározza a kapcsolattartás helyszínét, gyakoriságát és azt, hogy a kapcsolattartás helyszínén történő találkozásra a kapcsolattartást felügyelő szakember jelenlétében és tanácsadása mellett vagy anélkül kerülhet sor.
 
@@ -48,4 +48,5 @@ h)[^128] a tájékoztatást a kapcsolattartásra vonatkozó szabályok be nem ta
 
 [^126]: A 29/A. §-t a 70/2014. (III. 13.) Korm. rendelet 10. §-a iktatta be.
 [^127]: A 29/A. § (3) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^128]: A 29/A. § (6) bekezdés h) pontja a 668/2020. (XII. 28.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^128]: A 29/A. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
+[^129]: A 29/A. § (6) bekezdés h) pontja a 668/2020. (XII. 28.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.

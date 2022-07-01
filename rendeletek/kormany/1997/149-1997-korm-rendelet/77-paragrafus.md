@@ -2,7 +2,7 @@
 
 ## Otthonteremtési támogatás
 
-77. §[^589] (1)[^590] A fiatal felnőtt az otthonteremtési támogatás iránti kérelmet a miniszter által e célra rendszeresített formanyomtatványon terjeszti elő. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni. A formanyomtatvány tartalmazza
+77. §[^592] (1)[^593] A fiatal felnőtt az otthonteremtési támogatás iránti kérelmet a gyermekek és az ifjúság védelméért felelős miniszter által e célra rendszeresített formanyomtatványon terjeszti elő. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni. A formanyomtatvány tartalmazza
 
 a) a kérelmező fiatal felnőtt Gyvt. 138. § (1) bekezdés a) és b) pontja szerinti adatait,
 
@@ -10,9 +10,9 @@ b) az otthonteremtési támogatásra jogosító feltételek fennállására vona
 
 c) a fiatal felnőtt nyilatkozatait a támogatás felhasználásával kapcsolatos kötelezettségek, így különösen a pénzfelhasználási terv szükségessége, a gyámhivatal által bejegyzett elidegenítési tilalom, a támogatás jogosulatlan és rosszhiszemű igénybevétele következményeinek tudomásul vételéről.
 
-(2)[^591] Az otthonteremtési támogatás iránti kérelemhez kapcsolódó pénzfelhasználási tervben – az otthonteremtési támogatás legfeljebb 10%-ának mértékéig – feltüntethetőek a Gyvt. 25. § (5) bekezdésében foglaltakhoz kapcsolódó járulékos költségek, így különösen a visszterhes vagyonátruházási illeték, az eljárási illeték, a hitelbírálati díj, a közjegyzői díj és az ügyvédi költség.
+(2)[^594] Az otthonteremtési támogatás iránti kérelemhez kapcsolódó pénzfelhasználási tervben – az otthonteremtési támogatás legfeljebb 10%-ának mértékéig – feltüntethetőek a Gyvt. 25. § (5) bekezdésében foglaltakhoz kapcsolódó járulékos költségek, így különösen a visszterhes vagyonátruházási illeték, az eljárási illeték, a hitelbírálati díj, a közjegyzői díj és az ügyvédi költség.
 
-(3)[^592] A pénzfelhasználási tervet a miniszter által e célra rendszeresített formanyomtatványon kell benyújtani. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni. A pénzfelhasználási terv tartalmazza
+(3)[^595] A pénzfelhasználási tervet a gyermekek és az ifjúság védelméért felelős miniszter által e célra rendszeresített formanyomtatványon kell benyújtani. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni. A pénzfelhasználási terv tartalmazza
 
 a) a kérelmező fiatal felnőtt személyazonosító adatait,
 
@@ -24,7 +24,7 @@ d) a járulékos költségeket és
 
 e) a megvalósítani kívánt célhoz tervezett pénzügyi forrásokat részletezve.
 
-[^589]: A 77. § a 97/2013. (III. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^590]: A 77. § (1) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^591]: A 77. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^592]: A 77. § (3) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^592]: A 77. § a 97/2013. (III. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^593]: A 77. § (1) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított, nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.
+[^594]: A 77. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^595]: A 77. § (3) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be, nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.

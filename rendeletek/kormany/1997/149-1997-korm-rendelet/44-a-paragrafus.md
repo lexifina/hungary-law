@@ -1,6 +1,6 @@
-## A szülői felügyeleti jog megszűnésének megállapítása[^291]
+## A szülői felügyeleti jog megszűnésének megállapítása[^294]
 
-44/A. §[^292] (1) A szülői felügyeleti jog megszűnését a gyámhivatal akkor állapítja meg, ha a gyermek hathetes életkorát betöltötte, és
+44/A. §[^295] (1) A szülői felügyeleti jog megszűnését a gyámhivatal akkor állapítja meg, ha a gyermek hathetes életkorát betöltötte, és
 
 a) mindkét vér szerinti szülő hozzájárult gyermekük örökbefogadásához, vagy
 
@@ -14,5 +14,5 @@ feltéve, hogy a vér szerinti szülő a hozzájárulását a gyermek születés
 
 (2) A gyámhivatal a szülői felügyeleti jog megszűnését az örökbefogadást engedélyező határozatban állapítja meg.
 
-[^291]: A 44/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 30. §-a iktatta be.
-[^292]: A 44/A. §-t a 70/2014. (III. 13.) Korm. rendelet 30. §-a iktatta be.
+[^294]: A 44/A. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 30. §-a iktatta be.
+[^295]: A 44/A. §-t a 70/2014. (III. 13.) Korm. rendelet 30. §-a iktatta be.
