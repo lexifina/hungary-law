@@ -2,7 +2,7 @@
 
 (2) A tankönyvvé nyilvánítási eljárásban vizsgálni kell különösen, hogy
 
-a)[^20] a könyv alkalmas-e a Nemzeti alaptanterv rendelkezéseinek megfelelően az adott műveltségi terület, tantárgy tananyagtartalmának oktatására,
+a)[^21] a könyv alkalmas-e a Nemzeti alaptanterv rendelkezéseinek megfelelően az adott műveltségi terület, tantárgy tananyagtartalmának oktatására,
 
 b) a könyv biztosítja-e a szaktudományok megfelelő szintű, tudományos, hiteles, tárgyilagos feldolgozását,
 
@@ -36,9 +36,9 @@ a) akit akkreditáció szakterület tantervi szakértői szakirány és tanköny
 
 b) aki az adott szakterületen tudományos címmel vagy tudományos fokozattal rendelkezik, vagy
 
-c)[^21] aki az adott szakterületen, a felsőoktatásban, szerzett 10 év oktatói, pedagógus gyakorlati idő meglétét igazolja.
+c)[^22] aki az adott szakterületen, a felsőoktatásban, szerzett 10 év oktatói, pedagógus gyakorlati idő meglétét igazolja.
 
-(6)[^22]
+(6)[^23]
 
 (7) A nemzetiségi iskolai nevelés-oktatáshoz készített tankönyv esetén az Országos Nemzetiségi Tanács által javasolt szakértő véleménye is beszerezhető.
 
@@ -64,6 +64,6 @@ d) aki olyan könyv szerzője, amelynek tankönyvvé nyilvánítási kérelmét 
 
 (10) A szakértő kirendelése előtt ötnapos határidő kitűzésével be kell szerezni az érintett szakértő írásos nyilatkozatát arról, hogy vele szemben nem áll fenn összeférhetetlenségi ok.
 
-[^20]: A 9/E. § (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 94. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^21]: A 9/E. § (5) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 94. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^22]: A 9/E. § (6) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 36. § b) pontja hatályon kívül helyezte.
+[^21]: A 9/E. § (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 94. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^22]: A 9/E. § (5) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 94. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^23]: A 9/E. § (6) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 36. § b) pontja hatályon kívül helyezte.

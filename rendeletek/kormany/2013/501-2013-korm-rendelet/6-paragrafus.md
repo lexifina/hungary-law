@@ -1,4 +1,4 @@
-6. § (1)[^7] A tankönyvellátási szerződés – a 8. §-ban foglalt kivétellel – a Könyvtárellátó és az Nkt. 7. § (1) bekezdés b)–j) pontjában meghatározott nevelési-oktatási intézmény (a továbbiakban: iskola) – a tankerületi központ fenntartásában álló iskola esetén a tankerületi központ – között jön létre. A tankerületi központok tekintetében a tankönyvellátási szerződés hatályosulásához az oktatási központ jóváhagyása szükséges.
+6. § (1)[^8] A tankönyvellátási szerződés – a 8. §-ban foglalt kivétellel – a Könyvtárellátó és az Nkt. 7. § (1) bekezdés b)–j) pontjában meghatározott nevelési-oktatási intézmény (a továbbiakban: iskola) – a tankerületi központ fenntartásában álló iskola esetén a tankerületi központ – között jön létre. A tankerületi központok tekintetében a tankönyvellátási szerződés hatályosulásához az oktatási központ jóváhagyása szükséges.
 
 (2) A tankönyvellátási szerződésnek tartalmaznia kell:
 
@@ -14,15 +14,15 @@ e) annak a személynek a nevét, aki a Könyvtárellátó, illetve az iskola ré
 
 f) az előzetes megállapodást az iskola legalacsonyabb évfolyamára belépő tanulók ellátására,
 
-g)[^8] a megrendelt tankönyvek iskola részére történő átadásának helyét és időpontját,
+g)[^9] a megrendelt tankönyvek iskola részére történő átadásának helyét és időpontját,
 
-h)[^9] a tankerületi központ és az iskola kötelezettségét arra vonatkozóan, hogy az iskolai tankönyvrendeléssel érintett tankönyvek vonatkozásában mennyiségi vagy minőségi kifogásait haladéktalanul jelzi a Könyvtárellátó részére.
+h)[^10] a tankerületi központ és az iskola kötelezettségét arra vonatkozóan, hogy az iskolai tankönyvrendeléssel érintett tankönyvek vonatkozásában mennyiségi vagy minőségi kifogásait haladéktalanul jelzi a Könyvtárellátó részére.
 
-(3)[^10] A tankönyvellátási szerződés keretei között a tanulók Nkt. 93/E. § (5) és (6) bekezdése szerinti személyes adatai kezelhetők.
+(3)[^11] A tankönyvellátási szerződés keretei között a tanulók Nkt. 93/E. § (5) és (6) bekezdése szerinti személyes adatai kezelhetők.
 
 (4) Az e §-ban foglalt rendelkezések megsértésével kötött tankönyvellátási szerződés semmis.
 
-[^7]: A 6. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 16. §-ával megállapított, a 259/2019. (X. 31.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
-[^8]: A 6. § (2) bekezdés g) pontját a 308/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
-[^9]: A 6. § (2) bekezdés h) pontját a 308/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
-[^10]: A 6. § (3) bekezdése a 259/2019. (X. 31.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 16. §-ával megállapított, a 259/2019. (X. 31.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
+[^9]: A 6. § (2) bekezdés g) pontját a 308/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 6. § (2) bekezdés h) pontját a 308/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 6. § (3) bekezdése a 259/2019. (X. 31.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.

@@ -6,11 +6,11 @@
 
 (4) Az előző tanévben 1000 példánynál kisebb példányszámban rendelt nemzetiségi nyelv és irodalom, nemzetiségi népismereti, valamint a nemzetiségi nyelvű közismereti tankönyvekre vonatkozó árkorlátot a 3. melléklet tartalmazza.
 
-(5)[^34]
+(5)[^36]
 
-(6)[^35] A (4) bekezdésben nem szabályozott esetekben a nemzetiségi nyelv és irodalom, nemzetiségi népismereti, valamint a nemzetiségi nyelvű közismereti tankönyvek tekintetében a köznevelési közismereti tankönyvekre meghatározott árkorlát az irányadó.
+(6)[^37] A (4) bekezdésben nem szabályozott esetekben a nemzetiségi nyelv és irodalom, nemzetiségi népismereti, valamint a nemzetiségi nyelvű közismereti tankönyvek tekintetében a köznevelési közismereti tankönyvekre meghatározott árkorlát az irányadó.
 
 (7) A digitális tananyagokra vonatkozó árkorlátot az 5. melléklet tartalmazza azzal a kivétellel, hogy a digitálisan rögzített könyv formátumú digitális tananyagra vonatkozó árkorlát az 1. melléklet egyszínnyomású, adott terjedelemkategória árának 70%-a.
 
-[^34]: A 9/P. § (5) bekezdését a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 5. pontja hatályon kívül helyezte.
-[^35]: A 9/P. § (6) bekezdése a 13/2020. (II. 7.) Korm. rendelet 94. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^36]: A 9/P. § (5) bekezdését a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 5. pontja hatályon kívül helyezte.
+[^37]: A 9/P. § (6) bekezdése a 13/2020. (II. 7.) Korm. rendelet 94. § (1) bekezdés 3. pontja szerint módosított szöveg.

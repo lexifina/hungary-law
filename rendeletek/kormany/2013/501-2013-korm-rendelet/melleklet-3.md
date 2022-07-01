@@ -1,4 +1,4 @@
-## A SAJÁTOS NEVELÉSI IGÉNYŰ TANULÓK TANKÖNYVEINEK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA (BRUTTÓ FT)
+## 8K37033_0
 
 |  | A | B | C | D | E | F |
 
@@ -42,6 +42,6 @@
 
 ## *Előző évi rendelési szám alapján
 
-3. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^52]
+3. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^54]
 
-[^52]: A 3. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (3) bekezdés iktatta be.
+[^54]: A 3. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (3) bekezdés iktatta be.

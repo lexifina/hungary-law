@@ -1,4 +1,4 @@
-5. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^54]
+5. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^56]
 
 A DIGITÁLIS TANANYAG TÍPUSAINAK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA
 
@@ -12,4 +12,4 @@ A DIGITÁLIS TANANYAG TÍPUSAINAK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA
 
 | 4. | Adathordozó | – | 1 200 Ft/db |
 
-[^54]: Az 5. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (5) bekezdés iktatta be.
+[^56]: Az 5. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (5) bekezdés iktatta be.

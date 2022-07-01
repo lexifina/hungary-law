@@ -1,5 +1,7 @@
 ## A NEMZETISÉGI TANKÖNYVEK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA (BRUTTÓ FT)
 
+## 8K37034_0
+
 |  | A | B | C | D | E |
 
 | 1. | Kötészet | Színek | A tankönyv terjedelme (A/5 ívben) | 1–500 példány* | 501–1000 példány* |
@@ -48,6 +50,6 @@
 
 ## *Előző évi rendelési szám alapján
 
-4. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^53]
+4. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^55]
 
-[^53]: A 4. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (4) bekezdés iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 8. pontja.
+[^55]: A 4. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (4) bekezdés iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 8. pontja.

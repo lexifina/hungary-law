@@ -1,3 +1,5 @@
-## 4.[^12]
+## 4.[^13]
 
-[^12]: A 4. alcímet (9. §) a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+9. §
+
+[^13]: A 4. alcímet (9. §) a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 1. pontja hatályon kívül helyezte.

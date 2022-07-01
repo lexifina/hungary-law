@@ -1,5 +1,3 @@
-## KÖZNEVELÉSI KÖZISMERETI TANKÖNYVEK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA
-
 |  | A | B | C | D |
 
 | 1. | Technológia | A tankönyv ára (bruttó Ft) |
@@ -48,6 +46,8 @@
 
 | 23. | Melléklet (nyomtatott vagy digitális vagy önálló adathordozó) | 1 000 |
 
-2. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^51]
+2. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^53]
 
-[^51]: A 2. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (2) bekezdés iktatta be.
+A SAJÁTOS NEVELÉSI IGÉNYŰ TANULÓK TANKÖNYVEINEK LEGMAGASABB ISKOLAI TERJESZTÉSI ÁRA (BRUTTÓ FT)
+
+[^53]: A 2. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (2) bekezdés iktatta be.
