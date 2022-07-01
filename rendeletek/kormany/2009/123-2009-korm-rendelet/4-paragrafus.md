@@ -1,6 +1,6 @@
-4. § (1) Az egészségügyi miniszter, a földművelésügyi és vidékfejlesztési miniszter, a nemzeti fejlesztési és gazdasági miniszter, valamint a pénzügyminiszter által jóváhagyott ügyrend alapján, a 266/2004. (IX. 23.) Korm. rendelettel kihirdetett Rotterdami Egyezmény hatálya alá tartozó előzetes tájékoztatáson alapuló jóváhagyási eljárással (Prior Informed Consent, a továbbiakban: PIC) kapcsolatos egységes nemzeti álláspont kialakítására, szakmai egyeztetésre, a nemzeti kijelölt és egyéb érintett hatóságok közötti kapcsolatok koordinálására Nemzeti PIC Bizottság (a továbbiakban: Bizottság) működik.
+4. § (1)[^17] Az egészségügyért felelős miniszter, az agrárpolitikáért és vidékfejlesztésért miniszter, az iparügyekért miniszter, valamint a pénzügyminiszter által jóváhagyott ügyrend alapján, a 266/2004. (IX. 23.) Korm. rendelettel kihirdetett Rotterdami Egyezmény hatálya alá tartozó előzetes tájékoztatáson alapuló jóváhagyási eljárással (Prior Informed Consent, a továbbiakban: PIC) kapcsolatos egységes nemzeti álláspont kialakítására, szakmai egyeztetésre, a nemzeti kijelölt és egyéb érintett hatóságok közötti kapcsolatok koordinálására Nemzeti PIC Bizottság (a továbbiakban: Bizottság) működik.
 
-(2)[^17] Az (1) bekezdés szerinti Bizottság tagja az emberi erőforrások minisztere, a földművelésügyi miniszter, a nemzetgazdasági miniszter, az országos tisztifőorvos, a Nemzeti Élelmiszerlánc-biztonsági Hivatal elnöke, a nemzeti adó- és vámhivatal vezetője vagy az általuk kijelölt egy-egy személy. A Bizottság elnöke az emberi erőforrások minisztere, elnökhelyettese a földművelésügyi miniszter vagy az általuk a Bizottságba tagként delegált személy.
+(2)[^18] Az (1) bekezdés szerinti Bizottság tagja az egészségügyért felelős miniszter, a földügyért felelős miniszter, az adópolitikáért felelős miniszter, az országos tisztifőorvos, a Nemzeti Élelmiszerlánc-biztonsági Hivatal elnöke, a nemzeti adó- és vámhivatal vezetője vagy az általuk kijelölt egy-egy személy. A Bizottság elnöke az egészségügyért felelős miniszter, elnökhelyettese a földügyért felelős miniszter vagy az általuk a Bizottságba tagként delegált személy.
 
 (3) A Bizottság tevékenységében a Bizottság bármely tagjának javaslata és az elnök felkérése alapján részt vehet bármely olyan szerv vagy személy, amelynek (akinek) részvételét a meghozandó döntés vagy a kialakítandó vélemény tartalma indokolja. A Bizottság ügyrendje, illetve az elnök felkérése egyes személyek, illetőleg szervek részére a Bizottság ülésén állandó részvételt is biztosíthat.
 
@@ -12,4 +12,5 @@
 
 (7) A Bizottság tevékenységéről rendszeresen tájékoztatja a kémiai biztonság területén működő tárcaközi bizottságot.
 
-[^17]: A 4. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 134. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 91. § a) pontja szerint módosított szöveg.
+[^18]: A 4. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 134. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 91. § b) pontja szerint módosított szöveg.

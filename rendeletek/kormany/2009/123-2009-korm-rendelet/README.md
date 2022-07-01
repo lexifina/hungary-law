@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-123-20-
 | 2015-04-01 | 2009-123-20-22.9 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2016-01-01 | 2009-123-20-22.10 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2017-04-01 | 2009-123-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2022-07-01 | 2009-123-20-22.12 | 238/2022. (VI. 30.) Korm. rendelet |
