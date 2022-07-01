@@ -1,1 +1,0 @@
-## 1. § Az Educatio Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (székhelye: 1122 Budapest, Maros utca 19–21., cégjegyzékszáma: 01-09-921734, főtevékenysége: TEÁOR 6311'08 Adatfeldolgozás, web-hoszting szolgáltatás, adószáma: 20933713-2-43) által ellátott feladatokat 2016. január 1-jétől az Oktatási Hivatal, mint átvevő költségvetési szerv látja el.
