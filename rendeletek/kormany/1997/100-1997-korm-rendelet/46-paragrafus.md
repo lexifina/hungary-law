@@ -12,6 +12,6 @@ b) a vizsgabizottság működési ideje alatt a vizsgabizottság jegyzője kész
 
 (4) Az érettségi vizsga jegyzőkönyvének, határozatának egy-egy példányát – időbeli sorrendben – össze kell kapcsolni. A jegyzőkönyvhöz csatolni kell a törzslapokat, az osztályozó ívet és az érettségi vizsga eredményeiről összeállított kimutatást (a továbbiakban: jegyzőkönyv és csatolt iratok).
 
-(5)[^285] A tantárgyi bizottság ülésein jegyzőkönyvet kell készíteni, amelyet a bizottság mind a három tagjának alá kell írnia. A jegyzőkönyv készítésére a (2)–(3) bekezdésben foglaltakat kell alkalmazni.
+(5)[^286] A tantárgyi bizottság ülésein jegyzőkönyvet kell készíteni, amelyet a bizottság mind a három tagjának alá kell írnia. A jegyzőkönyv készítésére a (2)–(3) bekezdésben foglaltakat kell alkalmazni.
 
-[^285]: A 46. § (5) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 19. §–a iktatta a szövegbe.
+[^286]: A 46. § (5) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 19. §–a iktatta a szövegbe.

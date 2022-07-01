@@ -1,4 +1,4 @@
-## 5/A. §[^14] Emelt szintű érettségi vizsga szervezhető – a magyar mint idegen nyelv vizsgatárgy kivételével – abból a vizsgatárgyból, amely vizsgatárgy részletes emelt szintű érettségi vizsgakövetelményeit az Nkt. 6. § (1) bekezdése alapján az oktatásért felelős miniszter (a továbbiakban: miniszter) közzétette, és amely – mint a felsőoktatási felvételi eljárás során figyelembe vehető érettségi vizsgatárgy – a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. mellékletében szerepel.
+## 5/A. §[^14] Emelt szintű érettségi vizsga szervezhető – a magyar mint idegen nyelv vizsgatárgy kivételével – abból a vizsgatárgyból, amely vizsgatárgy részletes emelt szintű érettségi vizsgakövetelményeit az Nkt. 6. § (1) bekezdése alapján a köznevelésért felelős miniszter (a továbbiakban: miniszter) közzétette, és amely – mint a felsőoktatási felvételi eljárás során figyelembe vehető érettségi vizsgatárgy – a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. mellékletében szerepel.
 
 ## Az érettségi vizsga részei és vizsgatárgyai[^15]
 
@@ -20,7 +20,7 @@ b) a középiskolai tanulmányai befejezését megelőző négy tanév közül l
 
 (7)[^18] Ha a vizsgázót – az Nkt. 56. § (1) bekezdése vagy a szakképzésről szóló 2019. évi LXXX. törvény 60. § (2) bekezdése alapján a kötelező és a kötelezően választandó érettségi vizsgatárgynak megfelelő tantárgyból középiskolában – mentesítették az érdemjegyekkel és osztályzatokkal történő értékelés, minősítés alól, akkor az adott tantárgy helyett a vizsgázó egy másik, általa választott vizsgatárgyból tehet érettségi vizsgát. A vizsgázó részére – a szakértői bizottság szakvéleménye alapján – kérelmére engedélyezni kell az írásbeli beszámoló szóbeli beszámolóval vagy a szóbeli beszámoló írásbeli beszámolóval történő felváltását, és biztosítani kell a hosszabb felkészülési időt.
 
-[^14]: Az 5/A. §-t a 165/2022. (IV. 28.) Korm. rendelet 2. §-a iktatta be.
+[^14]: Az 5/A. §-t a 165/2022. (IV. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^15]: A 6. §-t megelőző alcím a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének d) pontja szerint módosított szöveg.
 [^16]: A 6. § az 5/2016. (I. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^17]: A 6. § (3) bekezdését a 65/2021. (II. 15.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.

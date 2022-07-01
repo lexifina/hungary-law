@@ -22,6 +22,8 @@ d)[^146] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része
 
 e)[^147] a látási fogyatékos, a mozgásszervi fogyatékos tanuló a nyomtatott nem enciklopédikus szótár helyett a szótár digitalizált, világháló-kapcsolattal nem rendelkező változatát is használhatja.
 
+f)[^148] biztosítani kell a fizikai vagy kommunikációs segítséget nyújtó segítő személy, illetve a jelnyelvi tolmács jelenlétét, azzal, hogy a segítő személy, a jelnyelvi tolmács a vizsga értékelésének alapjául szolgáló tevékenységet a vizsgázó helyett nem végezhet el.
+
 [^141]: A 20. § a 256/2005. (XII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^142]: A 20. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^143]: A 20. § (4) bekezdése az 5/2016. (I. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
@@ -29,3 +31,4 @@ e)[^147] a látási fogyatékos, a mozgásszervi fogyatékos tanuló a nyomtatot
 [^145]: A 20. § (7) bekezdés b) pontja az 5/2016. (I. 22.) Korm. rendelet 18. § 10. pontja, a 65/2021. (II. 15.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
 [^146]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^147]: A 20. § (7) bekezdés e) pontját a 65/2021. (II. 15.) Korm. rendelet 5. §-a iktatta be.
+[^148]: A 20. § (7) bekezdés f) pontját a 165/2022. (IV. 28.) Korm. rendeléet 3. §-a iktatta be.
