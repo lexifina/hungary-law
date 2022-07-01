@@ -4,7 +4,7 @@
 
 a) nemzetközi összehasonlító jogi kutatásokat, elemzéseket végez elsősorban Európa országainak jogalkotási tevékenységéről, tapasztalatairól, modellértékű megoldásairól, és javaslatokat dolgoz ki a hazai jogalkotáshoz, a Kormány jogalkotási tervéhez és a jogszabályok hatályosulásának vizsgálatához kapcsolódóan,
 
-b) közreműködik a miniszter – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet (a továbbiakban: R1.) 111–115. §-ában foglalt – feladatainak megvalósításában,
+b)[^1] közreműködik a miniszter – a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben – feladatainak megvalósításában,
 
 c) nemzetközi összehasonlító jogi kutatásokat folytat és elemzéseket készít – akár más miniszter feladat- és hatáskörébe tartozó – jogalkotási tevékenység előkészítése, illetve jogszabály hatályosulásának vizsgálata érdekében,
 
@@ -25,3 +25,5 @@ i) fokozatosan együttműködési hálózatot épít ki a hazai jogalkotás – 
 (3) Az Intézet tevékenységét nemzeti és nemzetközi működési körben látja el.
 
 (4) Az Intézet vezetője – az adatvédelmi követelményeknek és a vonatkozó jogszabályi rendelkezéseknek megfelelően – meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba betekinthet, azokról másolatot kérhet.
+
+[^1]: A 4. § (1) bekezdés b) pontja a 238/2022. (VII. 30.) Korm. rendelet 191. §-a szerint módosított szöveg.
