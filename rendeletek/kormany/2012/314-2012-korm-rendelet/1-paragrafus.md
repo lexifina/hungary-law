@@ -4,7 +4,7 @@
 
 ## 1. Hatály és értelmező rendelkezések
 
-## 1. §[^1] E rendelet hatálya
+## 1. §[^2] E rendelet hatálya
 
 a) a településfejlesztési koncepcióra (a továbbiakban: koncepció),
 
@@ -18,4 +18,6 @@ e) a településkép-védelmi tájékoztatásra és szakmai konzultációra, tov
 
 f) az a)–c) pontban foglaltak, valamint a településképi rendelet és a kézikönyv elkészítésének, egyeztetésének, elfogadásának és módosításának rendjére
 
-[^1]: Az 1. § a 400/2016. (XII. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+terjed ki.
+
+[^2]: Az 1. § a 400/2016. (XII. 5.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,1 +1,3 @@
-## 18/D. A településképi kötelezés
+## 18/D.
+
+26/E. §

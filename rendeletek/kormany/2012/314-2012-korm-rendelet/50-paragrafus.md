@@ -1,3 +1,3 @@
-## 49. §[^223]
+50. §[^104]
 
-[^223]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

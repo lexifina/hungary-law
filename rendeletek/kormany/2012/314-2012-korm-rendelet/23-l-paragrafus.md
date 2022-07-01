@@ -1,1 +1,1 @@
-## 23/K. § A tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet szerinti tervpályázati eljárás esetén a miniszter a bíráló bizottság által részére megküldött pályaművek előzetes településképi véleményezése útján gyakorolja a jelen alcímben meghatározott jogkörét.
+23/L. §

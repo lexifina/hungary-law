@@ -1,12 +1,14 @@
 6. melléklet a 314/2012. (XI. 8.) Korm. rendelethez
 
-## TELEPÜLÉSRENDEZÉSI ESZKÖZÖK JELMAGYARÁZATA
+TELEPÜLÉSRENDEZÉSI ESZKÖZÖK JELMAGYARÁZATA
 
 1. TELEPÜLÉSSZERKEZETI TERV - SZERKEZETI TERVLAP
 
 I. TERÜLETFELHASZNÁLÁSI MÓDOK JELÖLÉSE
 
 ## (Az egyes területfelhasználási módok tovább bonthatók, színárnyalattal - betűjellel - megkülönböztetve)
+
+## 2K24994_0
 
 | SORSZÁM | ÁBRÁZOLT ELEM | JELÖLÉS | ALTERNATÍV JELÖLÉS |
 

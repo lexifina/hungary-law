@@ -6,11 +6,11 @@
 
 (3) A kerületi építési szabályzatot a kerületi önkormányzat képviselő-testülete állapítja meg.
 
-(4)[^58] A kerületi építési szabályzat mellékletét képezi az 1:4000 vagy annál nagyobb méretarányú szabályozási terv.
+(4)[^59] A kerületi építési szabályzat mellékletét képezi az 1:4000 vagy annál nagyobb méretarányú szabályozási terv.
 
 (5) A kerületi építési szabályzatban az egyes településszerkezeti egységekre vonatkozó előírások egy-egy fejezetbe csoportosíthatóak.
 
-(6)[^59] A kerületi építési szabályzat, a 19/A. §-ban foglaltak kivételével:
+(6)[^60] A kerületi építési szabályzat, a 19/A. §-ban foglaltak kivételével:
 
 a) a kerület teljes közigazgatási területére,
 
@@ -20,7 +20,7 @@ c) külön az együtt tervezendő területre vagy területekre, és külön az e
 
 d) külön a (7) bekezdésben meghatározott telektömbre, és külön a telektömbön kívüli kerületi közigazgatási területre
 
-## készül.
+készül.
 
 (7) Kerületi építési szabályzat telektömbre csak kivételesen készíthető, és akkor is csak 1:1000 méretarányú szabályozási tervvel, az alábbi feltételek egyidejű fennállása esetében:
 
@@ -32,10 +32,10 @@ c) a telektömb tervezett felhasználása a környezeti elemek állapotát nem b
 
 d) nem együtt tervezendő településszerkezeti egység területén helyezkedik el.
 
-(8)[^60] A szabályozási terven – tájékoztató jelleggel – legalább egy telek mélységben be kell mutatni a szomszédos környezet jellemzőit is.
+(8)[^61] A szabályozási terven – tájékoztató jelleggel – legalább egy telek mélységben be kell mutatni a szomszédos környezet jellemzőit is.
 
 (9) A fővárosi önkormányzat kezdeményezésére kerületi építési szabályzat készülhet a Róbert Károly körút–Hungária körút–Könyves Kálmán körút–Rákóczi híd–Hamzsabégi út–Karolina út–Villányi út–Budaörsi út–Alkotás út–Krisztina körút–Széll Kámán tér–Margit körút–Török utca–Frankel Leó utca–Bécsi út–Vörösvári út–Árpád híd által határolt területen belüli egymáshoz csatlakozó együtt tervezendő területekre.
 
-[^58]: A 20. § (4) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^59]: A 20. § (6) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés g) pontja szerint módosított szöveg.
-[^60]: A 20. § (8) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés h) pontja szerint módosított szöveg.
+[^59]: A 20. § (4) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^60]: A 20. § (6) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^61]: A 20. § (8) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés h) pontja szerint módosított szöveg.

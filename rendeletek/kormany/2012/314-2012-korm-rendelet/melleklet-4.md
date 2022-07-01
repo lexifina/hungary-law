@@ -1,5 +1,3 @@
-## AZ ALÁTÁMASZTÓ JAVASLAT TARTALMI KÖVETELMÉNYEI
-
 |  | A | B | C | D | E |
 
 | 1. |  | Településszerkezeti terv | Helyi építési szabályzat |
@@ -86,7 +84,7 @@
 
 4. melléklet a 314/2012. (XI. 8.) Korm. rendelethez
 
-## A TELEPÜLÉSSZERKEZETI TERV TARTALMI KÖVETELMÉNYEI
+A TELEPÜLÉSSZERKEZETI TERV TARTALMI KÖVETELMÉNYEI
 
 1. SZERKEZETI TERVLAP
 
