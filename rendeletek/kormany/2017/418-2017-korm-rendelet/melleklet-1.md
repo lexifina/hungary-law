@@ -48,7 +48,7 @@ Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai g
 
 | 16. | idegenforgalmi terület | turizmusért felelős miniszter |
 
-| 17. | lakásügyi terület | lakásgazdálkodásért és lakáspolitikáért felelős miniszter |
+| 17. | lakásügyi terület | lakáscélú állami támogatásokért felelős miniszter |
 
 | 18. | építésügyi terület | a) – a b) és c) pont kivételével – az a területi mérnöki kamara, amelynek az ügyfél a tagja |
 
@@ -64,4 +64,4 @@ Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai g
 
 | 22. | titokvédelmi terület | minősített adatok védelmének szakmai felügyeletéért felelős miniszter |
 
-[^6]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 180. §-a, a 764/2021. (XII. 23.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 180. §-a, a 764/2021. (XII. 23.) Korm. rendelet 27. §-a, a 238/2022. (VI. 30.) Korm. rendelet 178. § a) és b) pontja szerint módosított szöveg. [A B:14 mezőben a 238/2022. (VI. 30.) Korm. rendelet 178. § a) pontjával elrendelt módosítás nem vezethető át.]

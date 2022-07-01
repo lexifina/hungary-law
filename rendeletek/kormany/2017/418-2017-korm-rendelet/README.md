@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-418-20-
 | 2020-01-01 | 2017-418-20-22.3 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2017-418-20-22.4 | 73/2019. (IV. 5.) Korm. rendelet |
 | 2022-01-01 | 2017-418-20-22.5 | 764/2021. (XII. 23.) Korm. rendelet |
+| 2022-07-01 | 2017-418-20-22.6 | 360/2019. (XII. 30.) Korm. rendelet |
