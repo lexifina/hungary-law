@@ -34,7 +34,7 @@ o)[^8] az állami intézmények oktatási-pénzügyi statisztikai adatainak feld
 
 p)[^9] az Országos Statisztikai Adatfelvételi Program végrehajtásában, valamint az egyéb hazai rendszeres és eseti oktatási tárgyú statisztikai adatszolgáltatások feladatainak ellátásában való közreműködésre,
 
-q)[^10] az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatai ellátására,
+q)[^10] a köznevelésben alkalmazandó állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatai ellátására,
 
 r)[^11] a hazai és nemzetközi köznevelési oktatáskutatási, elemzési, értékelési feladatok ellátására,
 
@@ -44,7 +44,7 @@ t)[^13] a hazai és nemzetközi szakmai kapcsolatok fenntartására, bővítés�
 
 u)[^14] az egyes tevékenységterületekhez kapcsolódó továbbképzések kifejlesztésére és a szaktanácsadási szolgáltatás ellátásának támogatására,
 
-v)[^15] az emberi erőforrások minisztere hatáskörébe tartozó egyes szakképesítések komplex szakmai vizsga szervezésére kijelölt intézményekről szóló 5/2013. (I. 18.) EMMI rendeletben megjelölt szakmai vizsgaszervezésre.
+v)[^15] a köznevelési intézményben folyó szakképesítésekhez kapcsolódó komplex szakmai vizsga megszervezésére,
 
 w)[^16] a Jelnyelvoktatói Névjegyzék vezetésére.
 
@@ -54,10 +54,10 @@ w)[^16] a Jelnyelvoktatói Névjegyzék vezetésére.
 [^7]: A 3. § n) pontját a 122/2018. (VII. 10.) Korm. rendelet 15. §-a iktatta be, szövege a 196/2019. (VIII. 1.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § o) pontját a 122/2018. (VII. 10.) Korm. rendelet 15. §-a iktatta be.
 [^9]: A 3. § p) pontját a 196/2019. (VIII. 1.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^10]: A 3. § q) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 3. § q) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 124. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^11]: A 3. § r) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
 [^12]: A 3. § s) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
 [^13]: A 3. § t) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
 [^14]: A 3. § u) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
-[^15]: A 3. § v) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 3. § v) pontját a 259/2019. (X. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 124. § (1) bekezdésével megállapított szöveg.
 [^16]: A 3. § w) pontját a 65/2021. (II. 15.) Korm. rendelet 29. §-a iktatta be.
