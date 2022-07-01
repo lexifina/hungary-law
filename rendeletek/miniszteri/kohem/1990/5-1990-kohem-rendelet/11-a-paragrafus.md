@@ -4,8 +4,8 @@
 
 (2) A versenyjármű szemle során ellenőrizni kell, hogy a versenyjármű megfelel-e az MR.-ben foglalt feltételeknek.
 
-(3)[^143] Ha a versenyjármű megfelel az MR.-ben foglalt feltételeknek, a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal kiállítja az ideiglenes forgalomban tartási engedély kiadásához szükséges „Műszaki Adatlap”-ot, amelynek időbeli hatályát egy évben határozza meg.
+(3)[^143] Ha a versenyjármű megfelel az MR.-ben foglalt feltételeknek, a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (fővárosi kerületi) hivatal kiállítja az ideiglenes forgalmi engedély kiadásához szükséges „Műszaki Adatlap”-ot, amelynek időbeli hatályát egy évben határozza meg.
 
 [^141]: A 11/A. §-t és az azt megelőző alcímet a 22/2012. (V. 8.) NFM rendelet 5. §-a iktatta be.
 [^142]: A 11/A. § (1) bekezdése a 12/2017. (IV. 24.) NFM rendelet 1. § a) pontja szerint módosított szöveg.
-[^143]: A 11/A. § (3) bekezdése a 12/2017. (IV. 24.) NFM rendelet 1. § a) pontja szerint módosított szöveg.
+[^143]: A 11/A. § (3) bekezdése a 12/2017. (IV. 24.) NFM rendelet 1. § a) pontja, a 35/2021. (VII. 29.) ITM rendelet 1. § a) pontja szerint módosított szöveg.
