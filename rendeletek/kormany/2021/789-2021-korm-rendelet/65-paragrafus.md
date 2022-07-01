@@ -1,3 +1,3 @@
-## 64. §[^67]
+## 64. §[^65]
 
-[^67]: A 64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: A 64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

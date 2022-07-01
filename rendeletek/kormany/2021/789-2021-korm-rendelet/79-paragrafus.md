@@ -1,5 +1,5 @@
-## 78. §[^81]
+## 78. §[^79]
 
 ## 22. A hajózási vizsgaközpont kijelöléséről szóló 247/2019. (X. 24.) Korm. rendelet módosítása
 
-[^81]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 85. §[^88]
+## 85. §[^86]
 
-[^88]: A 85. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 85. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
