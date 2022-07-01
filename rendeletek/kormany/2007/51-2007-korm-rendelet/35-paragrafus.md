@@ -1,6 +1,6 @@
-## Az Európai Gazdasági Térség országaiban résztanulmányokat folytató hallgatók ösztöndíja megállapításának és folyósításának rendje[^117]
+## Az Európai Gazdasági Térség országaiban résztanulmányokat folytató hallgatók ösztöndíja megállapításának és folyósításának rendje[^131]
 
-35. § (1)[^118] Az Nftv. 81. § (5) bekezdésében meghatározott ösztöndíjalap terhére adományozott ösztöndíj esetében
+35. § (1)[^132] Az Nftv. 81. § (5) bekezdésében meghatározott ösztöndíjalap terhére adományozott ösztöndíj esetében
 
 a) az ösztöndíj adományozásáról nyilvános pályázat útján kell dönteni;
 
@@ -16,5 +16,5 @@ f) sikertelen résztanulmányok esetében a felsőoktatási intézmény előírh
 
 (2) A részletszabályokat a felsőoktatási intézmény a térítési és juttatási szabályzatában határozza meg.
 
-[^117]: A 35. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
-[^118]: A 35. § (1) bekezdés nyitó szövegrésze a 220/2014. (VIII. 29.) Korm. rendelet 9. § p) pontja szerint módosított szöveg.
+[^131]: A 35. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^132]: A 35. § (1) bekezdés nyitó szövegrésze a 220/2014. (VIII. 29.) Korm. rendelet 9. § p) pontja szerint módosított szöveg.

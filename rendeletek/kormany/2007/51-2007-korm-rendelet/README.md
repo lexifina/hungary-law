@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-2
 | 2019-09-01 | 2007-51-20-22.23 | 209/2019. (VIII. 27.) Korm. rendelet |
 | 2020-01-01 | 2007-51-20-22.24 | 346/2019. (XII. 23.) Korm. rendelet |
 | 2021-05-07 | 2007-51-20-22.25 | 236/2021. (V. 6.) Korm. rendelet |
+| 2022-07-01 | 2007-51-20-22.26 | 238/2022. (VI. 30.) Korm. rendelet |
