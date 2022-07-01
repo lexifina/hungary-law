@@ -14,11 +14,11 @@ továbbá művészeti alkotás létrehozására ítélhető oda.
 
 (7)[^11] Az ösztöndíjra – a (2) bekezdésben meghatározott időtartamra – határon túli (külföldi) magyar kutatók is pályázhatnak, amennyiben az ösztöndíjas kutatómunkát magyarországi tudományos intézménnyel kötött megállapodás alapján végzik.
 
-(8)[^12] Az ösztöndíj pályázatának részletes szabályait az oktatásért felelős miniszter egyetértésével az MTA elnöke állapítja meg.
+(8)[^12] Az ösztöndíj pályázatának részletes szabályait a felsőoktatásért felelős miniszter egyetértésével az MTA elnöke állapítja meg.
 
 [^7]: A 4. § (2) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^8]: A 4. § (3) bekezdését a 407/2017. (XII. 15.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
 [^9]: A 4. § (5) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^10]: A 4. § (6) bekezdése a 316/2001. (XII. 28.) Korm. rendelet 2. §-ának (2) bekezdésével megállapított, a 381/2014. (XII. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^11]: A 4. § (7) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^12]: A 4. § (8) bekezdése a 316/2001. (XII. 28.) Korm. rendelet 2. §-ának (3) bekezdésével megállapított, a 381/2014. (XII. 31.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 4. § (8) bekezdése a 316/2001. (XII. 28.) Korm. rendelet 2. §-ának (3) bekezdésével megállapított, a 381/2014. (XII. 31.) Korm. rendelet 5. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
