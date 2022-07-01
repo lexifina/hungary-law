@@ -6,6 +6,6 @@
 
 (3) A Kvtv. 1 melléklet XLVII. Gazdaság-Újraindítási Alap fejezet, 1. cím, 1. alcím, 1. Gazdaság-újraindítási programok jogcímcsoport előirányzat terhére előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető a Kormány jóváhagyásával az energiahordozók áremelkedéséből fakadó kedvezőtlen gazdasági következmények megelőzése és csökkentése, valamint az állami vagyon gyarapodása céljából, amennyiben e túllépéssel is teljesül az államadósság-mutató csökkenése a 2022. évben.
 
-(4)[^4] A Kvtv. 2. melléklet 22.6.2. pontjától eltérően a támogatás szempontjából a „Menekültek, befogadottak, oltalmazottak ideiglenes ellátása és támogatása” kormányzati funkción elszámolt kiadások is figyelembe vehetők.
+(4)[^5] A Kvtv. 2. melléklet 22.6.2. pontjától eltérően a támogatás szempontjából a „Menekültek, befogadottak, oltalmazottak ideiglenes ellátása és támogatása” kormányzati funkción elszámolt kiadások is figyelembe vehetők.
 
-[^4]: A 8. § (4) bekezdését a 196/2022. (V. 27.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 8. § (4) bekezdését a 196/2022. (V. 27.) Korm. rendelet 3. §-a iktatta be.
