@@ -32,7 +32,7 @@
 
 | g) záradék elrendelése, törlése, ha nem kell forgalmi engedélyt és törzskönyvet kiállítani | 2 300 |
 
-| h) egyéb, okmánykiadással nem járó változások iránti kérelem, valamint az ideiglenes forgalomban tartási engedély meghosszabbítása iránti kérelem | 2 300 |
+| h) egyéb, okmánykiadással nem járó változások iránti kérelem | 2 300 |
 
 | i) indítási napló pótlása, hitelesítése | 3 500 |
 
@@ -40,14 +40,16 @@
 
 | k) a jármű előzetes eredetiségmegállapítását igazoló hatósági bizonyítvány kiállítása | 2 400 |
 
-| 3. | Az M betűjelű ideiglenes rendszámtábla használatának engedélyezésével kapcsolatos díjak: |  |
+| 3. | A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet (a továbbiakban: KR.) 63/A. § (2) bekezdés 6. pontja alapján kiadott ideiglenes rendszámtábla használatának engedélyezésével kapcsolatos díjak: |  |
 
-| a) az M betűjelű ideiglenes rendszámtábla kiadásának és használatának engedélyezése 19 500 Ft, mely tartalmazza az ideiglenes forgalomban tartási engedély és az indítási napló díját, |  |
+| a) a KR. 63/A. § (2) bekezdés 6. pontja alapján kiadott ideiglenes rendszámtábla kiadásának és használatának engedélyezése 17 000 Ft, amely tartalmazza az indítási napló díját, |  |
 
-| b) az M betűjelű ideiglenes rendszámtábla használati jogosultságának meghosszabbítása 6500 Ft, mely tartalmazza az ideiglenes forgalomban tartási engedély és az indítási napló kiadásának, illetve az abba történő bejegyzés díját, |  |
+| b) a KR. 63/A. § (2) bekezdés 6. pontja alapján kiadott ideiglenes rendszámtábla használati jogosultságának meghosszabbítása 4000 Ft, amely tartalmazza az indítási napló kiadásának, valamint az abba történő bejegyzés díját, |  |
 
-| c) az a) és b) pontban foglalt díj tartalmazza az ideiglenes forgalomban tartási engedély érvényességi idején belül a külön jogszabály alapján bejelentett járművet érintő változás indítási naplóba történő bejegyzését, illetve törlését. |  |
+| c) a KR. 91. § (7) bekezdésében szabályozott eljárás díja 4000 Ft, amely tartalmazza az ideiglenes rendszámtábla és az indítási napló kiadásának, valamint az abba történő bejegyzés díját, |  |
 
-2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^12]
+| d) az a), b) és c) pontban foglalt díj tartalmazza az ideiglenes forgalomban tartási engedély vagy az ideiglenes forgalmi engedély érvényességi idején belül a külön jogszabály alapján bejelentett járművet érintő változás indítási naplóba történő bejegyzését, valamint törlését. |  |
 
-[^12]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 6. § c)–f) pontja, az 1/2017. (I. 3.) NFM rendelet 39. § (4) bekezdése, a 22/2021. (V. 13.) ITM rendelet 5. §-a szerint módosított szöveg.
+2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^13]
+
+[^13]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 6. § c)–f) pontja, az 1/2017. (I. 3.) NFM rendelet 39. § (4) bekezdése, a 22/2021. (V. 13.) ITM rendelet 5. §-a, a 35/2021. (VII. 29.) ITM rendelet 2. § (2) bekezdése, 3. § b)–e) pontja és 4. § b) pontja szerint módosított szöveg. [A 2. számú melléklet 1. pontjának a 35/2021. (VII. 29.) ITM rendelet 3. § b) pontjával elrendelt módosítása nem vezethető át.]

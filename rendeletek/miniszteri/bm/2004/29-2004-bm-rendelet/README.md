@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-29-20-0
 | 2017-04-01 | 2004-29-20-0A.13 | 46/2009. (IX. 25.) IRM rendelet |
 | 2021-02-01 | 2004-29-20-0A.14 | 46/2009. (IX. 25.) IRM rendelet |
 | 2021-08-11 | 2004-29-20-0A.15 | 46/2009. (IX. 25.) IRM rendelet |
+| 2022-07-01 | 2004-29-20-0A.16 | 46/2009. (IX. 25.) IRM rendelet |

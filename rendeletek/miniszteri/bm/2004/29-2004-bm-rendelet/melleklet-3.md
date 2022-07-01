@@ -12,13 +12,13 @@
 
 | 1.2. 1 db rendszámtábla | 5 500 |
 
-| 2. Ideiglenes rendszámtábláért és a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járművekre, valamint az ideiglenes behozatali vámeljárás alá vont járművekhez kiadott szabványtól eltérő színű rendszámtáblákért fizetendő díj (V; Z; CD; E) |  |
+| 2. A KR. 63/A. § (2) bekezdés 1–5. pontja és 12–18. pontja alapján kiadott ideiglenes rendszámtábláért és a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járművekre kiadott TX betűjelű sárga vagy világoszöld színű rendszámtáblákért fizetendő díj: |  |
 
 | 2.1. 1 pár rendszámtábla | 13 000 |
 
 | 2.2. 1 db rendszámtábla | 8 500 |
 
-| 3. Különleges rendszámtáblákért, kivéve az 1. és 2. pontban felsorolt különleges rendszámtáblákért fizetendő díj: |  |
+| 3.  A CD és az OT betűjelű, valamint a kerékpárszállító eszközre kiadott különleges rendszámtáblákért fizetendő díj: |  |
 
 | 3.1. 1 pár rendszámtábla | 15 000 |
 
@@ -26,7 +26,7 @@
 
 | 3.3. 1 db kerékpárszállító eszközre szerelhető rendszámtábla legyártásának engedélyezése | 5500 Ft |
 
-| 4. Az “E” típusú, négykerekű segédmotoros kerékpárokhoz kiadott különleges rendszámtáblákért fizetendő díj: |  |
+| 4.  A négykerekű segédmotoros kerékpárokhoz kiadott rendszámtáblákért fizetendő díj: |  |
 
 | 4.1. 1 db rendszámtábla | 3 500 |
 
@@ -34,19 +34,33 @@
 
 | 6. Egyedileg előállított rendszámtábla kiadásának, jogosítottjának személyében történő változás engedélyezése | 435 000 |
 
-| 7. Kísérlethez vagy a kipróbáláshoz szükséges próbarendszám engedélyezése és a hozzá tartozó ideiglenes forgalomban tartási engedély, indítási napló kiadása | 38 000 |
+| 7.  A KR. 63/A. § (2) bekezdés 7–11. pontja alapján ideiglenes rendszámtábla és a hozzá tartozó indítási napló kiadása | 35 500 |
 
-| 8. Rendszámtábla utángyártásának és/vagy típusváltásának, valamint 2 db rendszámtáblának az eredeti karakterekkel azonos, eltérő színben történő legyártásának engedélyezése | 12 300 |
+| 8. Rendszámtábla |  |
 
-| 9. Külön jogszabályban meghatározottak szerint az egyénileg kiválasztott és egyedi előállított rendszám európai uniós rendszámként való legyártása iránti kérelem engedélyezése, valamint a közúti közlekedési szolgáltatást végző üzembentartónak (tulajdonosnak) kiadott, különleges jellegű egyénileg kiválasztott, illetve egyedileg előállított rendszámtábla fehér színben történő utángyártása iránti kérelem engedélyezése | 23 500 |
+| a) utángyártásának és típusváltásának, |  |
 
-| 10. Külön jogszabályban meghatározottak szerint a sorozatban előállított rendszám európai uniós rendszámként való legyártása iránti kérelem | 56 000 |
+| b) utángyártásának vagy típusváltásának, |  |
 
-| 11. Külön jogszabályban meghatározott regisztrációs matrica utángyártásának, valamint az egyénileg kiválasztott és az egyedileg előállított európai uniós rendszámtáblához tartozó regisztrációs matrica egyedi gyártásának, továbbá a H, az R és RR betűjelű európai uniós, különleges rendszámtáblához a regisztrációs matrica egyedi gyártásának engedélyezése | 1 550 |
+| c) 2 db rendszámtáblának az eredeti karakterekkel azonos, |  |
 
-| Az egyénileg kiválasztott és az egyedileg előállított rendszámok, valamint a kísérlethez vagy kipróbáláshoz igényelt próbarendszámok, továbbá a rendszámtábla utángyártás, legyártás és típusváltás engedélyezésének hatósági díja tartalmazza a hatósági jelzés kiadásával kapcsolatos eljárási díjat is. A közlekedési hatóság igazolásával engedélyezett rendszámtábla felszerelésekor a hatósági jelzés kiadásával kapcsolatos eljárási díj tartalmazza a regisztrációs matrica egyedi kiadásával kapcsolatos eljárási díjat is. |  |
+| ca) eltérő színben és formátumban, |  |
 
-3. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^13]
+| cb) eltérő színben vagy formátumban |  |
+
+| történő legyártásának engedélyezése | 12 300 |
+
+| 9. Külön jogszabályban meghatározottak szerint a 2022. július 1-je előtt kiadott egyénileg kiválasztott vagy egyedileg előállított rendszám 2004. május 1-jén bevezetett formátumú rendszámként való legyártása iránti kérelem engedélyezése, valamint a közúti közlekedési szolgáltatást végző üzembentartónak (tulajdonosnak) 2022. július 1-jét megelőzően kiadott, különleges jellegű egyénileg kiválasztott vagy egyedileg előállított rendszámtábla fehér színben történő legyártása iránti kérelem engedélyezése | 23 500 |
+
+| 10. Külön jogszabályban meghatározottak szerint a sorozatban előállított rendszám 2004. május 1-jén bevezetett formátumú rendszámként való legyártása iránti kérelem | 56 000 |
+
+| 11. Külön jogszabályban meghatározott regisztrációs matrica utángyártásának, valamint az egyénileg kiválasztott és az egyedileg előállított, 2004. május 1-jén és 2022. július 1-jén bevezetett formátumú rendszámtáblához tartozó regisztrációs matrica egyedi gyártásának, továbbá a BA, HA, MA, NA, RA betűjelű, 2022. július 1-jén bevezetett formátumú különleges rendszámtáblához a regisztrációs matrica egyedi gyártásának engedélyezése | 1 550 |
+
+| 12. A KR. 91. § (5) bekezdésében szabályozott eljárás díja 8500 Ft, amely tartalmazza az ideiglenes rendszámtábla és az indítási napló kiadásának és hitelesítésének díját. |  |
+
+| 13. Az egyénileg kiválasztott és az egyedileg előállított rendszámok, valamint a KR. 63/A. § (2) bekezdés 7–11. pontja alapján kiadott ideiglenes rendszámok, továbbá a rendszámtábla utángyártás, legyártás és típusváltás engedélyezésének hatósági díja tartalmazza a hatósági jelzés kiadásával kapcsolatos eljárási díjat is. A közlekedési hatóság igazolásával engedélyezett rendszámtábla felszerelésekor a hatósági jelzés kiadásával kapcsolatos eljárási díj tartalmazza a regisztrációs matrica egyedi kiadásával kapcsolatos eljárási díjat is. |  |
+
+3. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^14]
 
 Az előzetes eredetiségellenőrzés
 
@@ -96,4 +110,4 @@ Az előzetes eredetiségellenőrzés hatósági díjai
 
 | 7.3. Különleges pótkocsi (felépítménnyel ellátott) | 19 000 |
 
-[^13]: A 3. számú melléklet a 15/2007. (III. 13.) IRM rendelet 2. §-ával megállapított, a 6/2009. (III. 31.) IRM rendelet 41. §-a, az 1/2017. (I. 3.) NFM rendelet 39. § (5) bekezdése szerint módosított szöveg.
+[^14]: A 3. számú melléklet a 15/2007. (III. 13.) IRM rendelet 2. §-ával megállapított, a 6/2009. (III. 31.) IRM rendelet 41. §-a, az 1/2017. (I. 3.) NFM rendelet 39. § (5) bekezdése szerint módosított szöveg.
