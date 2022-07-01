@@ -1,4 +1,4 @@
-2. § (1)[^2] Az ösztöndíjprogram működtetéséért az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter (a továbbiakban: miniszter) – az oktatásért felelős miniszterrel együttműködve – felel.
+2. § (1)[^2] Az ösztöndíjprogram működtetéséért az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter (a továbbiakban: miniszter) – a felsőoktatásért felelős miniszterrel együttműködve – felel.
 
 (2)[^3] Az ösztöndíjprogram végrehajtását a miniszter látja el azzal, hogy a 4. §-ban meghatározott feladatokat a Hungary Helps Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Társaság) útján látja el.
 
@@ -20,7 +20,7 @@ e)[^7] egészségügyi szolgáltatás, valamint a szolgáltatás igénybevétele
 
 f) félévenkénti utazási támogatás, amelynek pontos összegét az adott évre vonatkozóan az ösztöndíjprogram működési szabályzata tartalmazza.
 
-[^2]: A 2. § (1) bekzdése a 151/2018. (VIII. 13.) Korm. rendelet 1. §-ával megállapított, a 227/2018. (XII. 5.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekzdése a 151/2018. (VIII. 13.) Korm. rendelet 1. §-ával megállapított, a 227/2018. (XII. 5.) Korm. rendelet 5. § a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 168. §-a szerint módosított szöveg.
 [^3]: A 2. § (2) bekzdése a 151/2018. (VIII. 13.) Korm. rendelet 1. §-ával megállapított, a 227/2018. (XII. 5.) Korm. rendelet 5. § b) pontja, a 365/2020. (VII. 28.) Korm. rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekzdése a 151/2018. (VIII. 13.) Korm. rendelet 1. §-ával megállapított, a 227/2018. (XII. 5.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdése a 227/2018. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
