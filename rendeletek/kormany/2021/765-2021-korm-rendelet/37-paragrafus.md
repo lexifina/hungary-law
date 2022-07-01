@@ -1,1 +1,1 @@
-## 36. §
+## 36. § A „Szolgáltatás” modul a regisztrált szabadidő-sportoló részére sporttevékenységével összefüggésben, közvetett vagy közvetlen módon nyújtott állami sportcélú vagy egyéb támogatás, valamint kedvezmény (a továbbiakban együtt: kedvezmény) igénybevételének informatikai feltételeit biztosítja.

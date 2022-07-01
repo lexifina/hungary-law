@@ -8,6 +8,4 @@ b) – az Stv. rendelkezése vagy a sportoló írásbeli hozzájárulása alapj�
 
 ## megadjon.
 
-(3)[^1]
-
-[^1]: A 28. § (3) bekezdése a 39. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+(3) Az „Események” modul az (1) és (2) bekezdésben foglaltakon túl tartalmazza a szervező által biztosított, a regisztrált szabadidő-sportoló által sporttevékenységével összefüggésben igénybe vehető támogatást, kedvezményt, annak feltételeit és mértékét, amely adatok az NSR Portálon is elérhetőek.

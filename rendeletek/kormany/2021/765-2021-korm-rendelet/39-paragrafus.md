@@ -1,4 +1,4 @@
-## 38. §
+## 38. § A regisztrált szabadidő-sportolói kedvezmény igénybevételéhez az NSR mobilalkalmazásának használata szükséges.
 
 ## 13. Záró rendelkezések
 
