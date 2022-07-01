@@ -1,4 +1,4 @@
-## 23. §[^14]
+## 23. §[^15]
 
 ## 24. § Ez a rendelet
 
@@ -6,4 +6,4 @@ a) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érv�
 
 b) a más tagállamban kiállított orvosi rendelvények elismerésének megkönnyítésére irányuló intézkedésekről szóló, 2012. december 20-i 2012/52/EU bizottsági végrehajtási irányelvnek
 
-[^14]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
