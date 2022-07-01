@@ -1,6 +1,6 @@
-## 5. § E rendelet végrehajtásához szükséges intézkedésekről az innovációért és technológiáért felelős miniszter gondoskodik.
+## 5. §[^5] E rendelet végrehajtásához szükséges intézkedésekről a tudománypolitika koordinációjáért felelős miniszter gondoskodik.
 
-1. melléklet a 168/2021. (IV. 9.) Korm. rendelethez[^5]
+1. melléklet a 168/2021. (IV. 9.) Korm. rendelethez[^6]
 
 ## EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS AZ OMÁNI SZULTÁNSÁG KORMÁNYA KÖZÖTT A FELSŐOKTATÁS TERÜLETÉN
 
@@ -66,4 +66,5 @@ Magyarország Kormánya nevében
 
 Ománi Szultánság Kormánya nevében
 
-[^5]: Az 1. melléklet a 4. § (2) bekezdése alapján a Megállapodás 8. cikkében meghatározott időpontban lép hatályba. A 38/2021. (V. 7.) KKM közlemény alapján a hatálybalépés időpontja 2021. május 12.
+[^5]: Az 5. § a 238/2022. (VI. 30.) Korm. rendelet 209. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 4. § (2) bekezdése alapján a Megállapodás 8. cikkében meghatározott időpontban lép hatályba. A 38/2021. (V. 7.) KKM közlemény alapján a hatálybalépés időpontja 2021. május 12.

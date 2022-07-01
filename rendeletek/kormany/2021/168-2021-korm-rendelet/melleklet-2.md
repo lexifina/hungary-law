@@ -1,4 +1,4 @@
-2. melléklet a 168/2021. (IV. 9.) Korm. rendelethez[^6]
+2. melléklet a 168/2021. (IV. 9.) Korm. rendelethez[^7]
 
 COOPERATION AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE SULTANATE OF OMAN IN THE FIELD OF HIGHER EDUCATION
 
@@ -64,4 +64,4 @@ FOR THE GOVERNMENT OF HUNGARY
 
 FOR THE GOVERNMENT OF THE SULTANATE OF OMAN
 
-[^6]: A 2. melléklet a 4. § (2) bekezdése alapján a Megállapodás 8. cikkében meghatározott időpontban lép hatályba. A 38/2021. (V. 7.) KKM közlemény alapján a hatálybalépés időpontja 2021. május 12.
+[^7]: A 2. melléklet a 4. § (2) bekezdése alapján a Megállapodás 8. cikkében meghatározott időpontban lép hatályba. A 38/2021. (V. 7.) KKM közlemény alapján a hatálybalépés időpontja 2021. május 12.
