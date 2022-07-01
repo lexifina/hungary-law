@@ -1,6 +1,6 @@
 2. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
 
-## I.[^104]
+I.[^104]
 
 ## Ágazatspecifikus munkakörök a szociális területen
 

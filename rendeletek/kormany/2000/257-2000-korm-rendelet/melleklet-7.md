@@ -1,5 +1,3 @@
-## Bölcsődei pótlék összege (Ft) a bölcsődében, mini bölcsődében foglalkoztatott bölcsődei dajkák vonatkozásában
-
 |  | A | B | C | D | E | F |
 
 | 1. | Fizetési fokozat | Közalkalmazotti jogviszonyban töltött idő | Fizetési osztály |
@@ -42,7 +40,7 @@
 
 7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^116]
 
-## Az egészségügyi kiegészítő pótlék összege
+Az egészségügyi kiegészítő pótlék összege
 
 I. Ápolók, szakápolók egészségügyi kiegészítő pótlékának összege (Ft)
 

@@ -1,6 +1,6 @@
 2/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^110]
 
-## A Gyvt. 15. § (10a) bekezdése szerinti személy által betölthető pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben, a bölcsődében, mini bölcsődében és a javítóintézetben
+A Gyvt. 15. § (10a) bekezdése szerinti személy által betölthető pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben, a bölcsődében, mini bölcsődében és a javítóintézetben
 
 I. Pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben és a javítóintézetben
 

@@ -8,7 +8,7 @@ c) a javítóintézetben a javítóintézetek rendtartásáról szóló miniszte
 
 d)[^85] az otthoni szakápolásra vagy szakápolásra egészségügyi engedéllyel rendelkező bentlakásos szociális intézményben, valamint a szakápolási központban ápolói, szakápolói munkakörben, magyar egészségügyi szakdolgozói kamarai tagság mellett foglalkoztatott
 
-## közalkalmazottat.
+közalkalmazottat.
 
 (2) Az egészségügyi kiegészítő pótlék – a foglalkoztatott fizetési osztálya és a közalkalmazotti jogviszonyban töltött ideje alapján meghatározott – összegét a 7. számú melléklet tartalmazza.
 

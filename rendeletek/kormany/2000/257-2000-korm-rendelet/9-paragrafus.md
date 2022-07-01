@@ -1,5 +1,3 @@
-## munkát végző közalkalmazott.
-
 ## [A törvény 61–63. §-ához és 85. § (2) bekezdés a) pontjához][^49]
 
 9. § (1)[^50] A közalkalmazottak által betölthető munkakörök megnevezését és fizetési osztályba sorolásuk feltételeit – az (5) bekezdésben foglalt kivétellel – a 2. számú melléklet tartalmazza.

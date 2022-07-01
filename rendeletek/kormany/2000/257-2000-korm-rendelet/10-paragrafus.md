@@ -10,7 +10,7 @@ d) gyermekek átmeneti otthonában a gyermekfelügyelő munkakörre
 
 e)[^57] Biztos Kezdet Gyerekházban a vezetői és a nem vezetői munkakörre
 
-## meghatározott képesítési előírás alól a felmentés abban az esetben adható meg, ha a közalkalmazott a képesítés megszerzése érdekében már oktatásban vesz részt, vagy az adott munkakörre nem áll rendelkezésre olyan – a képesítési előírásoknak megfelelő képesítésű – személy, aki az adott munkakörre kinevezhető lenne és a közalkalmazott vállalja a képesítés megszerzését.
+meghatározott képesítési előírás alól a felmentés abban az esetben adható meg, ha a közalkalmazott a képesítés megszerzése érdekében már oktatásban vesz részt, vagy az adott munkakörre nem áll rendelkezésre olyan – a képesítési előírásoknak megfelelő képesítésű – személy, aki az adott munkakörre kinevezhető lenne és a közalkalmazott vállalja a képesítés megszerzését.
 
 (2) A képesítési előírás alól a felmentést a munkáltatói jogkör gyakorlója határozott időre, legfeljebb három évre adhatja meg.
 

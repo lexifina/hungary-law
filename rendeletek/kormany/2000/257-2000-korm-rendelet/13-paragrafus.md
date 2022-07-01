@@ -10,5 +10,7 @@ c) óvodapedagógusi, tanítói, tanári, pszichopedagógus vagy
 
 d) – a pszichológusi feladatok ellátásához a pszichológusi szakképzettség mellett –tanítói, tanári
 
+szakképzettséggel rendelkezik.
+
 [^59]: A 12. §-t követő alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1103. pontja hatályon kívül helyezte. A 12. § a 349/2012. (XII. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^60]: A 13. §-t a 173/2002. (VIII. 9.) Korm. rendelet 2. §-ának d) pontja hatályon kívül helyezte, újonnan a 349/2012. (XII. 12.) Korm. rendelet 26. §-a iktatta be, szövege a 418/2015. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

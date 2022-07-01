@@ -1,5 +1,3 @@
-## A Kjt. 66. §-ának (4) bekezdése alapján illetménynövekedésre jogosító szakképesítések, szakmai képesítések
-
 | Munkakör | Többletképesítés |
 
 | gyógypedagógus | látás-, hallás-, értelmi- és mozgássérült szakirányú pszichopedagógusi végzettség |
@@ -18,7 +16,7 @@
 
 4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^112]
 
-## A magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótléka
+A magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 I. Magasabb vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
