@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-301-20-
 | 2021-01-01 | 2018-301-20-22.11 | 683/2020. (XII. 28.) Korm. rendelet |
 | 2021-06-03 | 2018-301-20-22.12 | 304/2021. (VI. 2.) Korm. rendelet |
 | 2021-07-16 | 2018-301-20-22.13 | 428/2021. (VII. 15.) Korm. rendelet |
+| 2022-07-01 | 2018-301-20-22.14 | 239/2022. (VI. 30.) Korm. rendelet |

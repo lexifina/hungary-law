@@ -1,10 +1,10 @@
-4. §[^29] (1)[^30] A miniszter – a 3. § (1) és (1a) bekezdésében foglaltak érvényesítése érdekében – az e rendeletben foglaltak szerint
+4. §[^33] (1)[^34] A miniszter – a 3. § (1) és (1a) bekezdésében foglaltak érvényesítése érdekében – az e rendeletben foglaltak szerint
 
 a) jóváhagyja az egyes informatikai fejlesztések végrehajtását,
 
 b) jóváhagyja az egyes informatikai beszerzésekre vonatkozó igényeket,
 
-c)[^31] a DKÜ útján ellenőrzi az e rendelet szabályainak a betartását,
+c)[^35] a DKÜ útján ellenőrzi az e rendelet szabályainak a betartását,
 
 d) az a)–c) pontok szerinti tevékenységén keresztül felügyeli a Kormány informatikai és e-közigazgatási stratégiájának végrehajtását.
 
@@ -12,7 +12,7 @@ d) az a)–c) pontok szerinti tevékenységén keresztül felügyeli a Kormány 
 
 a) közreműködik a miniszter (1) bekezdésben meghatározott feladatainak ellátásában,
 
-b)[^32] javaslattevőként közreműködik az NHIT (3) bekezdés b) és c) pontja szerinti feladatainak ellátásában,
+b)[^36] javaslattevőként közreműködik az NHIT (3) bekezdés b) és c) pontja szerinti feladatainak ellátásában,
 
 c) vizsgálja, véleményezésre, jóváhagyásra előkészíti az érintett szervezetek
 
@@ -22,15 +22,15 @@ cb) informatikai beszerzési igényét,
 
 cc) rendkívüli informatikai beszerzésre vonatkozó igényét, valamint
 
-cd)[^33] üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igényét [a cb)–cd) alpont a továbbiakban együtt: beszerzési igény],
+cd)[^37] üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igényét [a cb)–cd) alpont a továbbiakban együtt: beszerzési igény],
 
-d)[^34] központi beszerző szervként – az e rendeletben meghatározott keretek között – összehangolja az érintett szervezetek beszerzési igényeit,
+d)[^38] központi beszerző szervként – az e rendeletben meghatározott keretek között – összehangolja az érintett szervezetek beszerzési igényeit,
 
-e)[^35] központi beszerző szervként – az e rendeletben meghatározott keretek között – az érintett szervezetek javára eljárva, központosított beszerzés keretében vagy járulékos beszerzési szolgáltatás nyújtásával, – kizárólagos joggal – lefolytatja az érintett szervek informatikai beszerzéseit,
+e)[^39] központi beszerző szervként – az e rendeletben meghatározott keretek között – az érintett szervezetek javára eljárva, központosított beszerzés keretében vagy járulékos beszerzési szolgáltatás nyújtásával, – kizárólagos joggal – lefolytatja az érintett szervek informatikai beszerzéseit,
 
 f) ellenőrzi az egyes informatikai beszerzések esetében e rendelet szabályainak betartását.
 
-g)[^36] az érintett szervezetek tekintetében – az e rendeletben meghatározott keretek között, kizárólagos joggal – kormányzati központosított szoftverlicenc-gazdálkodást valósít meg.
+g)[^40] az érintett szervezetek tekintetében – az e rendeletben meghatározott keretek között, kizárólagos joggal – kormányzati központosított szoftverlicenc-gazdálkodást valósít meg.
 
 (3) Az NHIT stratégiai tudományos tevékenységként végzi a Kormány részére a következő feladatokat:
 
@@ -42,16 +42,16 @@ c) elemzi, értékeli és véleményezi a kormányzati informatikai fejlesztése
 
 d) a miniszterelnök felkérésére véleményezi a Kormány hírközléssel és informatikával összefüggő előterjesztéseit, egyedi döntéseit.
 
-(4)[^37] Az NHIT a kormányzati informatikai beszerzésekkel kapcsolatos stratégiai tudományos feladatkörében minden évben megvizsgálja a DKÜ által a miniszteri jóváhagyásra előterjesztett éves informatikai beszerzési terveket, valamint informatikai fejlesztési terveket.
+(4)[^41] Az NHIT a kormányzati informatikai beszerzésekkel kapcsolatos stratégiai tudományos feladatkörében minden évben megvizsgálja a DKÜ által a miniszteri jóváhagyásra előterjesztett éves informatikai beszerzési terveket, valamint informatikai fejlesztési terveket.
 
 (5) Az NHIT stratégiai tudományos tevékenysége keretében ellátja az e rendeletben részére meghatározott feladatokat.
 
-[^29]: A 4. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
-[^30]: A 4. § (1) bekezdés nyitó szövegrésze a 683/2020. (XII. 28.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
-[^31]: A 4. § (1) bekezdés c) pontja a 683/2020. (XII. 28.) Korm. rendelet 15. § 4. pontja szerint módosított szöveg.
-[^32]: A 4. § (2) bekezdés b) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^33]: A 4. § (2) bekezdés c) pont cd) alpontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^34]: A 4. § (2) bekezdés d) pontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^35]: A 4. § (2) bekezdés e) pontja a 683/2020. (XII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^36]: A 4. § (2) bekezdés g) pontját a 683/2020. (XII. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^37]: A 4. § (4) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^33]: A 4. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^34]: A 4. § (1) bekezdés nyitó szövegrésze a 683/2020. (XII. 28.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
+[^35]: A 4. § (1) bekezdés c) pontja a 683/2020. (XII. 28.) Korm. rendelet 15. § 4. pontja szerint módosított szöveg.
+[^36]: A 4. § (2) bekezdés b) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^37]: A 4. § (2) bekezdés c) pont cd) alpontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^38]: A 4. § (2) bekezdés d) pontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^39]: A 4. § (2) bekezdés e) pontja a 683/2020. (XII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^40]: A 4. § (2) bekezdés g) pontját a 683/2020. (XII. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^41]: A 4. § (4) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
