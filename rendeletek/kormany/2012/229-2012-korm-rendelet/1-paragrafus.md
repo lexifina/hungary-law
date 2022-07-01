@@ -4,7 +4,7 @@
 
 ## 1. A köznevelés információs rendszerének létrehozása és működtetése
 
-1. § (1)[^1] A köznevelés információs rendszere (a továbbiakban: KIR) hatósági és szakmai tevékenységeket kiszolgáló, az Oktatási Hivatal (a továbbiakban: Hivatal) által működtetett elektronikus alkalmazások, adatállományok, dokumentációk adatbázisa, valamint országos statisztikai és jogosultság alapú adatszolgáltatási rendszer. A KIR szakmai rendszerekből, azokat kiszolgáló, támogató segédprogramokból és alrendszerekből, továbbá az oktatásért felelős miniszter (a továbbiakban: miniszter) által használt alkalmazásokból épül fel.
+1. § (1)[^1] A köznevelés információs rendszere (a továbbiakban: KIR) hatósági és szakmai tevékenységeket kiszolgáló, az Oktatási Hivatal (a továbbiakban: Hivatal) által működtetett elektronikus alkalmazások, adatállományok, dokumentációk adatbázisa, valamint országos statisztikai és jogosultság alapú adatszolgáltatási rendszer. A KIR szakmai rendszerekből, azokat kiszolgáló, támogató segédprogramokból és alrendszerekből, továbbá a köznevelésért felelős (a továbbiakban: miniszter) által használt alkalmazásokból épül fel.
 
 (2)[^2] A Hivatal a KIR részeként rendszerként működteti
 
@@ -66,7 +66,7 @@ e) a begyűjtött és tárolt adatokból az Európai Unió közvetlenül alkalma
 
 (5)[^12] A (3) bekezdés c) pontjában meghatározottak megvalósítása érdekében statisztikai adatok, valamint – a kizárólag törvényi felhatalmazás alapján – átadható személyes adatok átadásának módját az adatkezelő és a Hivatal között létrejött írásbeli szerződés határozza meg.
 
-[^1]: Az 1. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 112. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés 6. pontja a 307/2017. (X. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
