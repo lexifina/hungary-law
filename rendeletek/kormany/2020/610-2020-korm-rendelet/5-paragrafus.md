@@ -26,7 +26,7 @@ jb) szakértőt jelöl a komplex szükségletfelmérés elvégzésére, nyilván
 
 jc) összesíti, kiértékeli és elemzi a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók és intézmények által szolgáltatott, és más, az ellátórendszerrel kapcsolatos adatokat, javaslatokat, azokat megküldi a miniszternek, és a honlapján folyamatosan közzéteszi,
 
-jd) az emberi erőforrások miniszterének felkérésére szakmai célvizsgálatot végez a szociális és gyermekjóléti szolgáltatók, intézmények, valamint a gyermekotthoni és a nevelőszülői ellátás szakmai megfelelőségének elősegítése érdekében,
+jd)[^2] a miniszter felkérésére szakmai célvizsgálatot végez a szociális és gyermekjóléti szolgáltatók, intézmények, valamint a gyermekotthoni és a nevelőszülői ellátás szakmai megfelelőségének elősegítése érdekében,
 
 je) közreműködik a krízishelyzetek megelőzése és kezelése érdekében működtetett észlelő- és jelzőrendszerben,
 
@@ -49,3 +49,5 @@ jk) közreműködik az országos szociális nyilvántartási rendszerek (szolgá
 a) együttműködik a miniszter által kijelölt egyházi módszertani intézményekkel,
 
 b) az (1) bekezdés j) pont jd), jf), jg), jh), ji) és jj) alpontja szerinti feladat ellátásába bevonja a miniszter által kijelölt egyházi módszertani intézményeket.
+
+[^2]: Az 5. § (1) bekezdés j) pont jd) alpontja a 238/2022. (VI. 30.) Korm. rendelet 208. § b) pontja szerint módosított szöveg.
