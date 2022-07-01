@@ -1,0 +1,5 @@
+6. § (1) A szerkezetátalakítási szakértő személy a tevékenység megkezdésekor az adós vezető tisztségviselője előtt írásban jognyilatkozatot tesz az adóst érintő üzleti és magántitok megtartására, és az adóssal együttműködve meghatározza, hogy az érintett felekkel történő tárgyalások során mely adatokra vonatkozóan kell kérni azok bizalmas kezelését, illetve titoktartási nyilatkozat megtételét.
+
+(2) Az érintett felekkel lefolytatott tárgyalások során a szerkezetátalakítási szakértő személy írásban kötelezettségvállaló nyilatkozatot tesz az érintett felek üzleti titkait érintő információk bizalmas kezelésére, és arra, hogy ezeket az adatokat csak a jogszabályban meghatározott feladatai ellátása érdekében ismeri meg, jogosulatlanok számára nem továbbítja, és nem teszi hozzáférhetővé.
+
+(3) Az (1) és (2) bekezdés szerinti nyilatkozatot kötelesek tenni a szerkezetátalakítási szakértővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott azon személyek is, akiknek az adott szerkezetátalakítási eljárással összefüggő munkafeladatai ellátásához az üzleti vagy magántitkot képező dokumentumok megismerése szükséges.

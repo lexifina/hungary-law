@@ -1,0 +1,3 @@
+4. § (1) A szerkezetátalakítási szakértő a szerkezetátalakítási szakértői listába történő felvételétől számított 15 napon belül ügyfélszolgálati és panaszkezelési szabályzatot alkot, és azt közzéteszi a honlapján.
+
+(2) A szerkezetátalakítási szakértő a honlapján tájékoztatást ad az adóssal és a szerkezetátalakítási eljárásban érintett felekkel történő kapcsolattartásra és a bejelentések megtételére vonatkozó tudnivalókról, valamint a panaszok, bejelentések nyilvántartásba vételére, megvizsgálására és a szükséges intézkedések megtételére vonatkozó eljárásrendről. A tájékoztatást a szerkezetátalakítási szakértők listájára történő felvételről szóló értesítést követő 5 napon belül kell közzétenni.
