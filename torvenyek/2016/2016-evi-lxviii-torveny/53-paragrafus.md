@@ -20,6 +20,8 @@ db) nemzetközi szervezet és annak tagjai – a nemzetközi egyezményekben vag
 
 dc) az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
 
+dd) a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
+
 számára.
 
 (2) Az adófelfüggesztési eljárás keretében végzett szállítás akkor kezdődik, amikor a jövedéki termék elhagyja az adóraktár területét vagy amikor a bejegyzett feladó által feladott jövedéki termék vámjogi szabadforgalomba bocsátásra kerül.

@@ -108,7 +108,7 @@ a nem magáncélú légiközlekedési tevékenységet végző, a nemzetközi lé
 
 37. magánszemély: a jövedéki termékkel gazdasági tevékenységet nem folytató természetes személy;
 
-38. mentesített szervezet: az 53. § (1) bekezdés d) pont da)–dc) alpontja szerinti szervezet;
+38. mentesített szervezet: az 53. § (1) bekezdés d) pont da)–dd) alpontja szerinti szervezet;
 
 39. nem magáncélú légiközlekedési tevékenység: a légiközlekedésről szóló törvény szerinti légiközlekedési tevékenység a légijármű sport-, valamint magáncélú alkalmazása és a vállalati célú légiközlekedés kivételével;
 

@@ -18,7 +18,7 @@ használ fel.
 
 d)
 
-(2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja, valamint a 9. § (1) bekezdés n) pontja szerint kiszolgáló adóraktár részének tekintendő
+(2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja, valamint a 9. § (1) bekezdés n) és o) pontja szerint kiszolgáló adóraktár részének tekintendő
 
 a) a kiszolgálást végző tartályautó,
 
