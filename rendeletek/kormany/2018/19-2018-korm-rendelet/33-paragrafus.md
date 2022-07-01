@@ -62,6 +62,6 @@ c) a KNEB (8) bekezdés szerinti nyilatkozatát és annak részletes indokolás�
 
 (12) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
 
-(13)[^48] A hatóság a (9) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
+(13)[^49] A hatóság a (9) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
 
-[^48]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^49]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
