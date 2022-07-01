@@ -1,4 +1,4 @@
-## 7. §[^5] 2016. február 1-jétől az ügyfélkapus regisztrációval rendelkező személyek elektronikusan is kitölthetik az űrlapokat. Ebben az esetben – a CsSz honlapján közzétételre kerülő információk szerint – formai ellenőrzést végző számítógépes program támogatja az elektronikus kitöltést és a kötelező adatok megadását. A kitöltést követően az űrlapokat az adós, adóstárs a szükséges példányszámban kinyomtatja, aláírja, az egyéb kötelezettekkel és a tanúkkal is aláíratja az 5. § (4) bekezdésben foglaltak szerint, és ilyen módon kezdeményezi az adósságrendezési eljárást az Are. tv.-ben és e rendeletben meghatározottak figyelembevételével.
+## 8. §[^7] Ez a rendelet – a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvénnyel együtt – a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló, 2019. június 20-i (EU) 2019/1023 európai parlamenti és tanácsi irányelv (Szerkezetátalakítási és fizetésképtelenségi irányelv) 20. cikk (1) bekezdésének és 24. cikk (1) bekezdésének való megfelelést szolgálja.
 
 1. melléklet a 15/2015. (VIII. 28.) IM rendelethez
 
@@ -45,6 +45,8 @@ I. A kérelmező adatai és egyéb körülmények
 2.7. nyilatkozat arra vonatkozóan, hogy a lakóingatlan Nemzeti Eszközkezelő Zrt. általi megvásárlását kezdeményezte-e az adós
 
 2.8. adós, adóstárs nyilatkozata, hogy valamennyi egyéb kötelezett megtette az Are. tv. 10. §-a szerinti nyilatkozatot
+
+2.9.[^8] adós, adóstárs nyilatkozata arról, hogy folytat-e egyéni vállalkozói tevékenységet, és ha igen, emellett áll-e legalább heti 36 órás foglalkoztatással járó jogviszonyban.
 
 II. A közös háztartás adatai
 
@@ -125,6 +127,8 @@ III. Az adós és adóstárs vagyonleltára
 3.4. tagsággal összefüggő megtakarítások (pl. magánnyugdíj pénztári, önkéntes biztosító pénztári, foglalkoztatói nyugdíjpénztár, nyugdíj-előtakarékossági számla, lakás előtakarékosság) megnevezése, szerződésszáma, kötvényszáma, számlaszáma, összege
 
 3.5. egyéb vagyontárgyak (pl. sporteszközök, egyéb vagyoni értékű jogok) megnevezése, értéke, azonosító adatai
+
+3/a.[^9] Az 1–3. pont szerinti vagyontárgyak közül a természetes személyek adósságrendezési eljárásának részletes szabályairól szóló 763/2021. (XII. 23.) Korm. rendelet 9. §-a szerinti vagyontárgyak, amelyekre vonatkozóan az adós – ha bírósági adósságtörlesztési eljárásra kerülne sor – az Are. tv. 73. §-a alapján az értékesítés mentesítésére kíván kérelmet benyújtani a bírósághoz.
 
 4. Tagsági jogviszony adatai társas vállalkozásban (vállalkozás neve, nyilvántartási száma, részesedési jog mértéke, tag neve)
 
@@ -384,4 +388,6 @@ VIII. A kérelemhez csatolandó iratok
 
 IX. Az adós, adóstárs, a közös háztartásban élők és egyéb kötelezettek neve, aláírása, kitöltés dátuma
 
-[^5]: A 7. § a 42/2015. (XII. 29.) IM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 8. §-t a 9/2022. (IV. 4.) IM rendelet 1. §-a iktatta be.
+[^8]: Az 1. melléklet I. pont 2. alpont 2.9. pontját a 9/2022. (IV. 4.) IM rendelet 2. §-a iktatta be.
+[^9]: Az 1. melléklet III. pont 3/a. alpontját a 9/2022. (IV. 4.) IM rendelet 2. §-a iktatta be.
