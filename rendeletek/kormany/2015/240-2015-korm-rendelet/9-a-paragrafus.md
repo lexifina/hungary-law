@@ -4,6 +4,6 @@
 
 ## BÍRÓSÁGON KÍVÜLI ADÓSSÁGRENDEZÉSI ELJÁRÁS
 
-## 4/A. [^6] Az adósságrendezés kezdeményezésének a Családi Csődvédelmi Szolgálat területi szervénél történő benyújtásával összefüggő feladatok
+## 4/A. [^8] Az adósságrendezés kezdeményezésének a Családi Csődvédelmi Szolgálat területi szervénél történő benyújtásával összefüggő feladatok
 
-[^6]: A 4/A. alcímet (9/A–9/C. §-t) a 471/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^8]: A 4/A. alcímet (9/A–9/C. §-t) a 471/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.

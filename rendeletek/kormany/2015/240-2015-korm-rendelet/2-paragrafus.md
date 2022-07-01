@@ -12,5 +12,8 @@ b) kormányzati honlapján közzéteszi az eljárással összefüggő tudnivaló
 
 (5)[^2] A CsSz központi szerve működteti az Are. tv. 25. § (4) bekezdése, 31. § (4) bekezdése és 39. § (1) bekezdése szerinti hirdetményi rendszert, ide értve az aktív hirdetményekből történő keresést támogató informatikai segédprogramokat is. A keresőprogram elindításakor figyelmeztetés jelenik meg az adatok Are. tv. 25. § (6) bekezdése és 39. § (4) bekezdése szerinti célhoz kötött felhasználásának követelményéről és a jogosulatlan adatkezelés és adatgyűjtés jogkövetkezményeiről.
 
+(6)[^3] A CsSz központi szerve az adósságrendezési nyilvántartás (a továbbiakban: ARE nyilvántartás) adataival összeveti, összesíti és a Központi Statisztikai Hivatal részére továbbítja a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló 2019/1023 európai parlamenti és tanácsi irányelv (a továbbiakban: Irányelv) 29. cikkében meghatározott, a bíróságon kívüli és a bírósági adósságrendezési eljárásokra vonatkozó ügystatisztikai adatokat.
+
 [^1]: A 2. § (3) bekezdését a 763/2021. (XII. 23.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
 [^2]: A 2. § (5) bekezdése a 763/2021. (XII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (6) bekezdését a 763/2021. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
