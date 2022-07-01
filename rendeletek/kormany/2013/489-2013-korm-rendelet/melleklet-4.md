@@ -24,7 +24,7 @@
 
 | 11. | 2. melléklet III.2.h) pszichiátriai és szenvedélybetegek nappali intézményi ellátása | 16 000 forint/fő |
 
-| 12. | 2. melléklet III.2.i) hajléktalanok nappali intézményi ellátása (az emberi erőforrások minisztere által kijelölt intézmények esetében a fenntartó engedélyesenként további 10 065 900 forint/év támogatásra jogosult, amennyiben az engedélyes egész évben működik; egyéb esetben a támogatás időarányos összege illeti meg) | 12 000 Ft/számított férőhely |
+| 12. | 2. melléklet III.2.i) hajléktalanok nappali intézményi ellátása (a szociálpolitikáért felelős miniszter által kijelölt intézmények esetében a fenntartó engedélyesenként további 10 065 900 forint/év támogatásra jogosult, amennyiben az engedélyes egész évben működik; egyéb esetben a támogatás időarányos összege illeti meg) | 12 000 Ft/számított férőhely |
 
 | 13. | Munkahelyi bölcsőde és a 2. melléklet III.2.j) családi bölcsőde | 58 000 forint/fő |
 
@@ -50,7 +50,7 @@
 
 | 24. | 8. melléklet II. fejezetében meghatározott mesterfokozatú végzettségű mesterpedagógus vagy kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 103 000 forint/fő/év |
 
-4. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^80]
+4. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^81]
 
 A 2022. évi bérkompenzáció fajlagos összegei
 
@@ -88,7 +88,7 @@ A 2022. évi bérkompenzáció fajlagos összegei
 
 | 16. | 2. melléklet 1.3.2.11.1. Hajléktalanok nappali intézményi ellátása – önálló feladatellátás | 34 000 forint/fő |
 
-| 17. | 2. melléklet 1.3.2.11.3. Hajléktalanok nappali intézményi ellátása – a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt intézmény | 980 000 forint/engedélyes |
+| 17. | 2. melléklet 1.3.2.11.3. Hajléktalanok nappali intézményi ellátása – a szociálpolitikáért felelős miniszter által kijelölt intézmény | 980 000 forint/engedélyes |
 
 | 18. | 2. melléklet 1.3.2.12.1. Családi bölcsőde – önálló feladatellátás, valamint a Kvtv. 43. § (6) bekezdésében foglalt munkahelyi bölcsőde | 511 300 forint/fő |
 
@@ -146,4 +146,4 @@ A 2022. évi bérkompenzáció fajlagos összegei
 
 | 45. | 9. melléklet 5.1. Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás | 1 083 000 forint/Gyerekház |
 
-[^80]: A 4. mellékletet a 11/2022. (I. 14.) Korm. rendelet 2. §-a iktatta be.
+[^81]: A 4. mellékletet a 11/2022. (I. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 137. § c) pontja szerint módosított szöveg.

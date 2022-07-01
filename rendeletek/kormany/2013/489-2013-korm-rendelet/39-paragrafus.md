@@ -1,4 +1,4 @@
-39. §[^77] (1) A 2020. évi egészségügyi kiegészítő pótlékhoz kapcsolódó többlettámogatást az igazgatóság 2020. július 10-éig hivatalból, határozatban állapítja meg.
+39. §[^78] (1) A 2020. évi egészségügyi kiegészítő pótlékhoz kapcsolódó többlettámogatást az igazgatóság 2020. július 10-éig hivatalból, határozatban állapítja meg.
 
 (2) Az igazgatóság a 2020. évi egészségügyi kiegészítő pótlékhoz kapcsolódó többlettámogatás
 
@@ -10,4 +10,4 @@ b) 2020. augusztus–december hónapokra havonta járó összegét havonta,
 
 (3) A minisztérium az egészségügyi kiegészítő pótlékhoz kapcsolódó többlettámogatás forrását 2020. július 8-áig biztosítja az igazgatóságok részére.
 
-[^77]: A 39. §-t a 309/2020. (VI. 30.) Korm. rendelet 4. §-a iktatta be.
+[^78]: A 39. §-t a 309/2020. (VI. 30.) Korm. rendelet 4. §-a iktatta be.
