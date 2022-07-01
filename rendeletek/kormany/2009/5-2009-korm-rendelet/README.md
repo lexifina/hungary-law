@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-5-20-22
 | 2013-10-01 | 2009-5-20-22.2 | 345/2013. (IX. 30.) Korm. rendelet |
 | 2014-09-05 | 2009-5-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-10 | 2009-5-20-22.4 | 92/2015. (IV. 9.) Korm. rendelet |
+| 2022-07-01 | 2009-5-20-22.5 | 221/2014. (IX. 4.) Korm. rendelet |
