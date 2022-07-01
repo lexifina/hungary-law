@@ -1,3 +1,3 @@
-1. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^169]
+1. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^164]
 
-[^169]: Az 1. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § f) pontja hatályon kívül helyezte.
+[^164]: Az 1. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § f) pontja hatályon kívül helyezte.

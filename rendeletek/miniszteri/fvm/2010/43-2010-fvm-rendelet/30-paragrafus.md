@@ -1,36 +1,33 @@
-30. §[^115] (1)[^116] Az értékesítési célra szánt növény, növényi termék előállítása, raktározása és feldolgozása során végzett növényvédő szeres kezelésekről, ideértve a csávázott vetőmag vetését is, a 30. § (1a) bekezdése szerint vezetett vagy tartalmában annak megfelelő permetezési naplót vagy a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló miniszteri rendelet szerinti gazdálkodási naplót (a továbbiakban együtt: nyilvántartás) folyamatosan kell vezetni, és az utolsó bejegyzést követő 3 évig meg kell őrizni.
+30. §[^115] (1) Az értékesítési célra szánt növény, növényi termék előállítása, raktározása és feldolgozása során végzett növényvédő szeres kezelésekről – ideértve a csávázott vetőmag vetését is – a (3) bekezdés szerinti adattartalommal permetezési naplót vagy tartalmában annak megfelelő, a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló miniszteri rendelet szerinti gazdálkodási naplót (a továbbiakban együtt: nyilvántartás) kell vezetni.
 
-(1a)[^117] A termelőnek a növényvédő szeres kezelésről nyilvántartást kell vezetni, amely az alábbi adatokat tartalmazza:
+(2) Az (1) bekezdés szerinti permetezési naplót a NÉBIH elektronikus felületén kell vezetni.
 
-a) a termelő neve és lakcíme,
+(3) A növényvédő szeres kezelésről vezetett nyilvántartás az alábbi adatokat tartalmazza:
 
-b) a növényvédelmi szakirányító neve, lakcíme, engedélyének száma,
+a) a termelő neve és lakcíme, FELIR-azonosítója;
 
-c) a kezelt kultúra megnevezése,
+b) a növényvédelmi szakirányító neve, lakcíme, engedélyének száma, FELIR-azonosítója;
 
-d) a kezelés helye (helyrajzi szám, tábla, parcellaazonosító, termesztő berendezés, raktár),
+c) a kezelt kultúra megnevezése;
 
-e) a kezelés területe vagy térfogata (ha, m2, m3),
+d) a kezelés helye (helyrajzi szám, tábla, parcellaazonosító, termesztő berendezés, raktár vagy GPS-koordináta);
 
-f) a kezelés időpontja,
+e) a kezelés területe vagy térfogata (ha, m2, m3);
 
-g)[^118] a használt növényvédő szer neve, mennyisége (kg, l/ha, g/m2, g/fm),
+f) a kezelés időpontja;
 
-h) a permetlé mennyisége (l/ha, l/m2),
+g) a használt növényvédő szer neve, mennyisége (kg, l/ha, g/m2, g/fm);
 
-i) az élelmezés-egészségügyi várakozási idő,
+h) a permetlé mennyisége (l/ha, l/m2);
 
-j) a betakarítás időpontja (hó, nap),
+i) az élelmezés-egészségügyi várakozási idő; valamint
 
-k)[^119] a felhasználásért felelős aláírása.
+j) a betakarítás időpontja (hó, nap).
 
-(2)[^120] Az (1) bekezdésben meghatározott nyilvántartást az adott növényvédő szeres kezelés vonatkozásában a munkavégzést megelőzően, vagy azzal egyidejűleg kell kitölteni. Ha a csávázás nem a termelőnél történt, a termelő a csávázott vetőmag vásárlásáról kiállított – a csávázás tényét, az alkalmazott készítmény megnevezését tartalmazó – számlát 3 évig megőrzi.
+(4) Az (1) bekezdésben meghatározott nyilvántartást az adott növényvédő szeres kezelés vonatkozásában a munkavégzést megelőzően vagy azzal egyidejűleg kell kitölteni.
 
-(3) A 29. § (6) bekezdése és az (1) bekezdés szerinti nyilvántartásként a Gazdálkodási Napló csak a felhasználásért felelős személy aláírásával, pecsétjével és dátummal ellátva érvényes.
+(5) Ha a csávázás nem a termelőnél történt, a termelő a csávázott vetőmag vásárlásáról kiállított – a csávázás tényét, az alkalmazott készítmény megnevezését tartalmazó – számlát 3 évig meg kell őrizni.
 
-[^115]: A 30. § a 66/2010. (V. 12.) FVM rendelet 13. § (14) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^116]: A 30. § (1) bekezdése a 45/2021. (XII. 1.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^117]: A 30. § (1a) bekezdését a 35/2019. (VII. 15.) AM rendelet 14. §-a iktatta be.
-[^118]: A 30. § (1a) bekezdés g) pontja a 49/2019. (X. 22.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^119]: A 30. § (1a) bekezdés k) pontját a 49/2019. (X. 22.) AM rendelet 8. § (2) bekezdése iktatta be.
-[^120]: A 30. § (2) bekezdése a 45/2021. (XII. 1.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+(6) A 29. § (6) bekezdése és az (1) bekezdés szerinti nyilvántartásnak minősülő gazdálkodási napló csak a felhasználásért felelős személy aláírásával, pecsétjével és dátummal ellátva érvényes. A gazdálkodási naplót az utolsó bejegyzést követő három évig meg kell őrizni.
+
+[^115]: A 30. § a 45/2021. (XII. 1.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.

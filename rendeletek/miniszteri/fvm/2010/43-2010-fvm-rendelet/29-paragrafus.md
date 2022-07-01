@@ -38,10 +38,10 @@ g) az átvétel dátuma.
 
 (5) A növényvédő szer raktárkészletek számlabizonylatait 5 évig meg kell őrizni.
 
-(6)[^114] Az (1)–(2) bekezdés szerinti nyilvántartásnak megfelel a növényvédő szer vásárlásáról kapott számlabizonylat és a folyamatosan vezetett készletnyilvántartó lap, vagy a 30. § (1a) bekezdése szerint vezetett vagy tartalmában annak megfelelő permetezési napló, vagy a külön jogszabály szerint a támogatási időszak alatt kötelezően vezetendő Gazdálkodási Napló vonatkozó nyilvántartása is.
+(6)[^114] Az (1)–(2) bekezdés szerinti nyilvántartásnak megfelel a növényvédő szer vásárlásáról kapott számlabizonylat és a folyamatosan vezetett készletnyilvántartó lap, vagy a 30. § (3) bekezdése szerint vezetett vagy tartalmában annak megfelelő permetezési napló, vagy a külön jogszabály szerint a támogatási időszak alatt kötelezően vezetendő Gazdálkodási Napló vonatkozó nyilvántartása is.
 
 [^110]: A 28/A. §-t a 35/2019. (VII. 15.) AM rendelet 12. §-a iktatta be.
 [^111]: A 29. § (3) bekezdése a 35/2019. (VII. 15.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^112]: A 29. § (3a) bekezdését a 35/2019. (VII. 15.) AM rendelet 13. § (2) bekezdése iktatta be.
 [^113]: A 29. § (4) bekezdése a 35/2019. (VII. 15.) AM rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^114]: A 29. § (6) bekezdése a 35/2019. (VII. 15.) AM rendelet 21. § l) pontja szerint módosított szöveg.
+[^114]: A 29. § (6) bekezdése a 45/2021. (XII. 1.) AM rendelet 17. § l) pontja szerint módosított szöveg.
