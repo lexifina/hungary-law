@@ -1,6 +1,6 @@
 ## 2. A tanárképzés szakosodási rendjének általános szabályai
 
-5. § (1)[^8] Mesterfokozat és tanári szakképzettség az 1. mellékletben meghatározott közismereti és szakmai tanárszakokon és szakpárosítási rendszerben:
+5. § (1)[^9] Mesterfokozat és tanári szakképzettség az 1. mellékletben meghatározott közismereti és szakmai tanárszakokon és szakpárosítási rendszerben:
 
 a) közismereti tanárszakokon és egyes zenetanár, zeneművészeti tanárszakokon kétszakos osztatlan képzésben,
 
@@ -10,23 +10,23 @@ c) az adott tanárszak szakterülete szerinti nem tanári mesterszakkal, illetve
 
 ## az adott tanárszak képzési és kimeneti követelményeiben meghatározottak szerint szerezhető meg.
 
-(2)[^9] Az (1) bekezdés a) pontja szerinti osztatlan, kétszakos tanárképzésben a záróvizsgára bocsátás feltétele mindkét tanárszakon a tanulmányok lezárása, beleértve a szakdolgozat elkészítését és a 3. § (1) bekezdés c) pont cc) alpontja szerinti összefüggő egyéni iskolai gyakorlat teljesítését is.
+(2)[^10] Az (1) bekezdés a) pontja szerinti osztatlan, kétszakos tanárképzésben a záróvizsgára bocsátás feltétele mindkét tanárszakon a tanulmányok lezárása, beleértve a szakdolgozat elkészítését és a 3. § (1) bekezdés c) pont cc) alpontja szerinti összefüggő egyéni iskolai gyakorlat teljesítését is.
 
-(2a)[^10] Az (1) bekezdés c) pontja szerinti, nem tanári mesterszakkal, illetve osztatlan szakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon az 1. melléklet szerinti tanárszaknak megfeleltethető tanári szakképzettség szerezhető. A 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudás az adott tanárszaknak megfeleltethető nem tanári mesterszakon csak a mesterfokozat és szakképzettség megszerzésével teljesíthető. A nem tanári mesterszakkal, illetve osztatlan szakkal párhuzamosan felvett tanárszakon központi felvételi eljáráson kívül, belső felvételi eljárásban létesíthető hallgatói jogviszony.
+(2a)[^11] Az (1) bekezdés c) pontja szerinti, nem tanári mesterszakkal, illetve osztatlan szakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon az 1. melléklet szerinti tanárszaknak megfeleltethető tanári szakképzettség szerezhető. A 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudás az adott tanárszaknak megfeleltethető nem tanári mesterszakon csak a mesterfokozat és szakképzettség megszerzésével teljesíthető. A nem tanári mesterszakkal, illetve osztatlan szakkal párhuzamosan felvett tanárszakon központi felvételi eljáráson kívül, belső felvételi eljárásban létesíthető hallgatói jogviszony.
 
-(3)[^11] A felsőfokú – főiskolai, egyetemi szintű vagy mesterfokozatú – végzettség és tanári szakképzettség birtokában újabb tanári szakképzettség egyszakos képzésben szerezhető meg. A képzésben a tanári felkészítés 3. § (1) bekezdés b) pont ba) alpontja, c) pont cc) alpontja szerinti követelményeket teljesítettnek kell tekinteni.
+(3)[^12] A felsőfokú – főiskolai, egyetemi szintű vagy mesterfokozatú – végzettség és tanári szakképzettség birtokában újabb tanári szakképzettség egyszakos képzésben szerezhető meg. A képzésben a tanári felkészítés 3. § (1) bekezdés b) pont ba) alpontja, c) pont cc) alpontja szerinti követelményeket teljesítettnek kell tekinteni.
 
-(4)[^12] Tanító szakképzettség birtokában, tanárszakon való továbbtanulás során, a tanári felkészítés 3. § (1) bekezdés ba) pontja szerinti követelményeit teljesítettnek kell tekinteni. Tanári szakképzettséget egyszakos képzésben lehet szerezni. A szakterületi ismeretek elismerésére a kreditelismerés általános szabályai az irányadóak.
+(4)[^13] Tanító szakképzettség birtokában, tanárszakon való továbbtanulás során, a tanári felkészítés 3. § (1) bekezdés ba) pontja szerinti követelményeit teljesítettnek kell tekinteni. Tanári szakképzettséget egyszakos képzésben lehet szerezni. A szakterületi ismeretek elismerésére a kreditelismerés általános szabályai az irányadóak.
 
-(5)[^13] Az (1) bekezdés a) pontja szerinti osztatlan kétszakos tanárképzésben
+(5)[^14] Az (1) bekezdés a) pontja szerinti osztatlan kétszakos tanárképzésben
 
 a) alapfokozat és szakképzettség birtokában a 3. § (1) bekezdés a) pontja szerinti szakterületi ismeretek részeként az alapképzési ismeretekből az annak megfelelő – az 1. mellékletben meghatározott – tanárszakon legalább 100 kreditet,
 
 b) az alapképzésben a képzési és kimeneti követelmények alapján a második tanári szakhoz vagy a másik alapképzési szakhoz megszerzett differenciált szakmai ismeretek teljesítése alapján a tanárszakon 50 kreditet el kell elismerni azzal, hogy
 
-[^8]: Az 5. § (1) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^9]: Az 5. § (2) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^10]: Az 5. § (2a) bekezdését az 538/2021. (IX. 15.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^11]: Az 5. § (3) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 12. § (9) bekezdés a) pontja, az 538/2021. (IX. 15.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^12]: Az 5. § (4) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 14. § e) pont ea) alpontja szerint módosított szöveg.
-[^13]: Az 5. § (5) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege az 538/2021. (IX. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (1) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (2) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (2a) bekezdését az 538/2021. (IX. 15.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^12]: Az 5. § (3) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 12. § (9) bekezdés a) pontja, az 538/2021. (IX. 15.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^13]: Az 5. § (4) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 14. § e) pont ea) alpontja szerint módosított szöveg.
+[^14]: Az 5. § (5) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege az 538/2021. (IX. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

@@ -170,7 +170,7 @@
 
 ## 1. A hittanár-nevelőtanár szak párosítható közismereti tanárszakkal.
 
-2. melléklet a 283/2012. (X. 4.) Korm. rendelethez[^30]
+2. melléklet a 283/2012. (X. 4.) Korm. rendelethez[^31]
 
 SZAKTANÁRI MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 
@@ -234,4 +234,4 @@ SZAKTANÁRI MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 
 | 29. | technológia | informatika-szaktanár (digitális kultúra szaktanára) |
 
-[^30]: A 2. melléklet az 538/2021. (IX. 15.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^31]: A 2. melléklet az 538/2021. (IX. 15.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
