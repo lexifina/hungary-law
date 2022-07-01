@@ -1,3 +1,5 @@
+## számolható el.
+
 8/M. §[^78] (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás – a 8/P. § kivételével – beruházási kiadásához nyújtott támogatásként nyújtható.
 
 (2) A 8/P. § szerinti kultúrát és a kulturális örökség megőrzését előmozdító támogatás működési támogatásként nyújtható.

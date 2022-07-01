@@ -10,7 +10,7 @@ a) az államháztartásért felelős miniszter és
 
 b) a szakpolitikai felelős
 
-vagy az általa kijelölt személy.
+## vagy az általa kijelölt személy.
 
 (4)[^32]
 

@@ -1,3 +1,5 @@
+## lehet támogatási döntést hozni.
+
 8/F. §[^66] (1) A regionális beruházási támogatás igénybevételének feltétele, hogy a tervezett beruházás
 
 a) olyan induló beruházásnak minősüljön, amelyet
@@ -8,7 +10,7 @@ ab) az Átr. 25. § (1) bekezdés d) pontja szerinti településen kis- és köz
 
 b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet az Átr. 25. § (1) bekezdés d) pontja szerinti településen nagyvállalkozás
 
-valósít meg.
+## valósít meg.
 
 (2) Az (1) bekezdés szerinti beruházáshoz igényelt összes állami támogatás nem haladhatja meg azt az összeget, amelyet egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat, figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket.
 

@@ -1,3 +1,5 @@
+## kell levonni az elszámolható költségekből.
+
 8/X. §[^95] (1) A megújuló energia termeléséhez nyújtott beruházási támogatás vállalkozásonként és beruházásonként nem haladhatja meg a 15 millió eurónak megfelelő forintösszeget.
 
 (2) Bioüzemanyag előállításához abban az esetben nyújtható MVP támogatás, ha a beruházás fenntartható bioüzemanyag előállítására irányul.

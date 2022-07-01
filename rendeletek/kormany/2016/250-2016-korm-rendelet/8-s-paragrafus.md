@@ -18,6 +18,4 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vag
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-kell levonni az elszámolható költségekből.
-
 [^90]: A 8/S. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

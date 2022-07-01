@@ -4,7 +4,7 @@ a) megyei jogú város önkormányzata részére, a Kormány 1. §-ban meghatár
 
 b) megyei önkormányzat részére, amely az a) pont szerinti megyei jogú város önkormányzatával azonos megyében található
 
-[az a) és b) pont a továbbiakban együtt: kedvezményezett].
+## [az a) és b) pont a továbbiakban együtt: kedvezményezett].
 
 (2)[^27] Ha a projekt vagy annak valamely része
 
@@ -12,7 +12,7 @@ a) az állam vagy annak valamely szerve vagy állami tulajdonú gazdasági társ
 
 b) a központi költségvetésnek az 1. §-ban meghatározott célra külön megállapított költségvetési előirányzata helyett más fejezeti kezelésű előirányzat terhére hatékonyabban támogatható,
 
-a megvalósításhoz szükséges előirányzat rendelkezésre állásáról az Áht. 33. § (4) bekezdés b) pontja szerint az érintett költségvetési fejezetet irányító szervek közötti megállapodással vagy – a miniszter által a Kormány részére benyújtott előterjesztés alapján – az Áht. 33. § (2) bekezdése szerint kell gondoskodni.
+## a megvalósításhoz szükséges előirányzat rendelkezésre állásáról az Áht. 33. § (4) bekezdés b) pontja szerint az érintett költségvetési fejezetet irányító szervek közötti megállapodással vagy – a miniszter által a Kormány részére benyújtott előterjesztés alapján – az Áht. 33. § (2) bekezdése szerint kell gondoskodni.
 
 (3)[^28]
 

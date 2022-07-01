@@ -1,3 +1,5 @@
+## számolható el.
+
 8/Q. §[^86] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás beruházási támogatásként sportlétesítmény és multifunkcionális szabadidős létesítmény építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
 
 (2)[^87] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás összege nem haladhatja meg 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége nem haladhatja meg az 100 millió eurónak megfelelő forintösszeget.

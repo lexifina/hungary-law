@@ -32,6 +32,4 @@ a) előzetesen vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-kell levonni az elszámolható költségekből.
-
 [^94]: A 8/W. §-t a 436/2017. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
