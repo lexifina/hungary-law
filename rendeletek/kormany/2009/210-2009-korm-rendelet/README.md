@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-210-20-
 | 2021-05-01 | 2009-210-20-22.37 | 218/2021. (IV. 30.) Korm. rendelet |
 | 2021-08-19 | 2009-210-20-22.38 | 501/2021. (VIII. 18.) Korm. rendelet |
 | 2021-09-05 | 2009-210-20-22.39 | 473/2021. (VIII. 6.) Korm. rendelet |
+| 2022-07-01 | 2009-210-20-22.40 | 501/2021. (VIII. 18.) Korm. rendelet |

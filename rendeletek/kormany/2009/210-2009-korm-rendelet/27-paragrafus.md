@@ -26,7 +26,7 @@ d) a kereskedő a külön jogszabályban meghatározott veszélyes mértékű k�
 
 (10)[^62] A hatósági ellenőrzés eredményeként készült jegyzőkönyvet vagy feljegyzést a jegyző a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője részére a hatósági ellenőrzést követő 8 napon belül megküldi. A jegyzőkönyv és feljegyzés formátumát és beküldési módját a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a honlapján teszi közzé.
 
-(11)[^63] A jegyző a 31. §-ban foglaltakat 2021. október 31-ig köteles hatósági ellenőrzés keretében ellenőrizni. Ha a hatósági ellenőrzés során megállapításra kerül, hogy a kereskedő nem tett eleget a 31. §-ban foglalt kötelezettségének, a jegyző a vendéglátó üzletet azonnali hatállyal a 31. §-ban foglalt kötelezettség teljesítéséig bezáratja.
+(11)[^63]
 
 [^55]: A 27. § (1) bekezdése a 713/2020. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^56]: A 27. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 264. § (7) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 75. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
@@ -36,4 +36,4 @@ d) a kereskedő a külön jogszabályban meghatározott veszélyes mértékű k�
 [^60]: A 27. § (8) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
 [^61]: A 27. § (9) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
 [^62]: A 27. § (10) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
-[^63]: A 27. § (11) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^63]: A 27. § (11) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte 239/2022. (VI. 30.) Korm. rendelet 9. §-a.
