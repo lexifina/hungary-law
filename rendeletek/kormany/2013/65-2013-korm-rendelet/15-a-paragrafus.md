@@ -1,3 +1,3 @@
-## 15. §[^74]
+## 15. §[^75]
 
-[^74]: A 15. §-t a 375/2020. (VII. 30.) Korm. rendelet 53. § e) pontja hatályon kívül helyezte.
+[^75]: A 15. §-t a 375/2020. (VII. 30.) Korm. rendelet 53. § e) pontja hatályon kívül helyezte.

@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-65-20-2
 | 2020-07-31 | 2013-65-20-22.13 | 375/2020. (VII. 30.) Korm. rendelet |
 | 2021-07-01 | 2013-65-20-22.14 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2022-01-01 | 2013-65-20-22.15 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-01 | 2013-65-20-22.16 | 239/2022. (VI. 30.) Korm. rendelet |
