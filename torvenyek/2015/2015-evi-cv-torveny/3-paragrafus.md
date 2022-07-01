@@ -2,6 +2,8 @@
 
 (2) A bíróságon kívüli adósságrendezési eljárás során a főhitelező koordinálásával és közreműködésével történik meg az eljárás feltételeinek megvizsgálása, a főhitelező látja el a az adós és a hitelezők között az adósságrendezésre vonatkozó polgári jogi megállapodás előkészítésével és megkötésével összefüggő feladatokat, továbbá a megkötött megállapodást az ARE nyilvántartásba történő bejegyzés céljából megküldi a Családi Csődvédelmi Szolgálatnak.
 
+(2a) A Magyar Nemzeti Bank a hitelező pénzügyi intézmény e törvényben és végrehajtási rendeleteiben szabályozott, az adós, adóstárs vagy egyéb kötelezett jogait vagy kötelezettségeit érintő tevékenységét a Magyar Nemzeti Bankról szóló törvényben meghatározott fogyasztóvédelmi ellenőrzési jogkörében vizsgálja, ezek a rendelkezések a Magyar Nemzeti Bankról szóló törvény alkalmazásában fogyasztóvédelmi rendelkezéseknek minősülnek.
+
 (3) A bírósági adósságrendezés az adósságrendezés elrendelését követően magában foglalhatja
 
 a) az adósságrendezési egyezségkötésre irányuló eljárást,

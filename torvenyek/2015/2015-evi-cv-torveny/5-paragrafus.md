@@ -80,7 +80,15 @@ b) kezes, abban az esetben, ha az 5. pont értelmében nem minősül adóstársn
 
 c) zálogkötelezett (az adós tartozását biztosító zálogszerződés zálogkötelezettje),
 
-19. egyéni vállalkozó: az Szja. tv. 3. § 17. pontja szerinti egyéni vállalkozó, az egyéni cég tagja és az Szja tv. 3. § 18. pontja szerinti mezőgazdasági őstermelő,
+19. egyéni vállalkozó:
+
+a) az Szja. tv. 3. § 17. pontja szerinti egyéni vállalkozó,
+
+b) az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény szerinti európai közösségi jogász és külföldi jogi tanácsadó, ha ezt a tevékenységét nem foglalkoztatásra irányuló jogviszonyban végzi,
+
+c) az Szja tv. 3. § 18. pontja szerinti mezőgazdasági őstermelő,
+
+d) az egyéni cég tagja az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 27. §-a szerinti tagi felelőssége körében keletkezett tartozásai tekintetében,
 
 20. elemi kár: az Szja. tv. 3. § 70. pontja szerinti esemény,
 
@@ -160,6 +168,8 @@ f) a bírósági eljárással összefüggésben keletkezett, az állammal szembe
 
 g) a diákhitelből eredő követelés,
 
+h) az adós által foglalkoztatott személyek munkabértartozásainak kifizetéséhez a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből juttatott, visszatérítendő bérgarancia célú pénzügyi támogatás visszafizetésére vonatkozó igény,
+
 38. közműszolgáltató: víziközmű-szolgáltatást, szénhidrogén-ellátást, távhőszolgáltatást, villamosenergia-szolgáltatást, hulladékszállítást, kéményseprő-ipari közszolgáltatást biztosító szolgáltató,
 
 39. lakhatási feltételek megtartására szolgáló ingatlan: az a méltányolható lakásigényt meg nem haladó jellemzőkkel bíró lakóingatlan (lakás, lakáscélra használt üdülő, zártkerti épület vagy tanya), amely az adós vagy adóstárs tulajdonában áll, és az ingatlant kölcsönszerződés biztosítékául pénzügyi intézmény javára jelzálogjog terheli, vagy olyan lakóingatlan, amelyre vonatkozóan az adós vagy adóstárs pénzügyi intézménnyel lízingszerződést kötött, és amely az adós, adóstárs, vagy az említettek közeli hozzátartozói bejelentett lakóhelye 2015. május 15-én – 2016. október 1-jét követően kezdeményezett adósságrendezési eljárás esetében az adósságrendezési eljárás kezdeményezését megelőző 180. napon – valamint azt követően is folyamatosan, továbbá az említett személyek ténylegesen is ott laknak, feltéve, hogy
@@ -212,11 +222,7 @@ e) közérdekkel összefüggő követelések,
 
 50. régi Ptk.: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény,
 
-51. saját jogú nyugdíjas: Tbj. 4. § f) pontjában felsoroltak közül az, aki
-
-a) a Tny., illetve nemzetközi egyezmény alkalmazásával a Tbj. 14. § (3) bekezdés a) és c) pontjában meghatározott saját jogú nyugellátásban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
-
-b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, illetve az EGT-állam jogszabályai alkalmazásával saját jogú öregségi nyugdíjban részesül,
+51. saját jogú nyugdíjas: a Tbj. 4. § 17. pontjában felsorolt személy,
 
 52. súlyosan beteg: az összevont adóalap adóját csökkentő kedvezmény igénybevétele szempontjából súlyos fogyatékosságnak minősülő betegségekről szóló kormányrendeletben felsorolt betegségben szenvedő személy,
 
@@ -226,7 +232,7 @@ b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajt�
 
 55. tartozás járuléka: a tartozás tőkeösszegén és kamatán felül követelhető késedelmi kamat, pótlék, díj, költségtérítés és egyéb hasonló jellegű fizetési kötelezettség,
 
-56. társas vállalkozó: a Tbj. 4. § d) pontja szerinti jogviszonyban álló személy,
+56. társas vállalkozó: a Tbj. 4. § 21. pontjában felsorolt jogviszonyban álló természetes személy,
 
 57. Tbj.: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény,
 
@@ -249,3 +255,15 @@ b) az az egyéb vagyontárgy, amelyet bírósági vagy más végrehajtás során
 64. víziközmű-szolgáltatás: közműves ivóvízellátás az ahhoz kapcsolódó tűzoltóvíz biztosítással, közműves szennyvízelvezetés és -tisztítás, ideértve az egyesített rendszerű csapadékvíz-elvezetést is,
 
 65. zálogkötelezett: az adós (adóstárs) személyétől eltérő azon természetes személy, akinek ingatlanán az adóst terhelő pénz- vagy pénzben kifejezett, magánjogi jogviszonyból eredő vagyoni követelés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba.
+
+66. közteher: A bírósági adósságrendezés elrendelését követően esedékessé váló
+
+a) munkabér-követeléseket és a bérjellegű egyéb juttatásokat terhelő adók és járulékok,
+
+b) az adósra számlában áthárított vagy az adós ügyletei során keletkezett általános forgalmi adó, jövedéki adó és termékdíj,
+
+c) kisadózó vállalkozások tételes adója,
+
+d) a települési (községi, városi, fővárosi és kerületi) önkormányzat, valamint a megyei önkormányzat képviselő-testülete (a továbbiakban együtt: önkormányzat) által, az önkormányzat illetékességi területén rendelettel bevezetett helyi adók, valamint települési adók,
+
+e) gépjárműadó.

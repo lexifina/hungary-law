@@ -1,10 +1,10 @@
-73. § (1) Az adósságtörlesztési tervben az adós számára vissza kell hagyni a foglalkozása, illetve egyéni vállalkozása gyakorlásához szükséges ingóságokat (szerszámok, nyersanyag, félkész áruk, tárolóeszközök, haszonállat állomány, készletek, alkatrészek, irodaszerek, irodatechnikai felszerelések, szakkönyvek) legfeljebb 800 000 forint értékig.
+73. § (1) Az adós írásbeli kérelmére a családi vagyonfelügyelő az adósságtörlesztési tervet úgy készíti el, hogy az adós számára a foglalkozása, illetve egyéni vállalkozása gyakorlásához szükséges ingóságokat, eszközöket, járműveket, legfeljebb az e törvény végrehajtási rendeletében meghatározott szempontok figyelembevételével az értékesítés alól mentesíti, azzal a feltétellel, hogy az adós ezekre a vagyontárgyakra vonatkozóan a bevételeiből elkülöníti és megfizeti a vagyonbiztosítási díjat és felelősségbiztosítási díjat, és az eszközök állagmegóvásához, kijavításához szükséges összegeket.
 
-(2) Ha az adós vagy adóstárs foglalkozása gyakorlásához informatikai eszköz, hírközlési eszköz, berendezés vagy személygépjármű szükséges, az (1) bekezdésben említett értéken felül az adós ezeket a vagyontárgyakat összességében legfeljebb 1 millió forint értékig tarthatja meg.
+(2)
 
-(3) Ha az adós foglalkozása gyakorlásához haszongépjármű vagy mezőgazdasági haszonjármű szükséges, vagy a személygépjármű, egyéb gépjármű az adós személyfuvarozási egyéni vállalkozásának folytatásának eszköze, akkor a (2) bekezdésben foglaltak helyett az adós összességében legfeljebb 1,8 millió forint értékig tarthatja meg ezeket a járműveket.
+(3)
 
-(4) Az (1)–(3) bekezdés szerinti eszközökre vonatkozóan az adós az ezekre vonatkozó vagyonbiztosítási díj és felelősségbiztosítási díj fedezetét is vissza kell hagyni az adósságtörlesztési terv összeállításánál.
+(4)
 
 (5) Az adósságtörlesztési tervben nem lehet értékesítésre kijelölni azokat az (1) bekezdésben fel nem sorolt vagyontárgyakat sem, amelyek a Vht. szerint a végrehajtás alól mentesek.
 

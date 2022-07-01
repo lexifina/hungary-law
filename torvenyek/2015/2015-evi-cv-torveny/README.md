@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-105-00-00
 | 2021-01-01 | 2020. évi CLXV. törvény | 2015-105-00-00.15 |
 | 2021-07-01 | 2021. évi LXXXII. törvény | 2015-105-00-00.16 |
 | 2022-01-01 | 2021. évi LXXXIV. törvény | 2015-105-00-00.17 |
+| 2022-07-01 | 2021. évi LXIV. törvény | 2015-105-00-00.18 |

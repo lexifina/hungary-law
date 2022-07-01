@@ -16,11 +16,11 @@ b) a magánszemély részére jogerős bírósági határozattal vagy ügydönt�
 
 c) a bírósági adósságrendezés elrendelését követően esedékessé váló társasházi közös költséget és a lakásszövetkezeti fenntartási-üzemeltetés célú befizetési kötelezettséget, legfeljebb havi 15 000 forint összegig – ha pedig ezekben közműszolgáltatások díját is meg kell fizetni, akkor 30 000 forint összeghatárig –
 
-d) az ingatlan vagyon- és felelősségbiztosításának a bírósági adósságrendezés elrendelését követően esedékessé váló díját,
+d) az ingatlan, valamint az egyéni vállalkozói tevékenységhez használt vagyontárgyak vagyon- és felelősségbiztosításának a bírósági adósságrendezés elrendelését követően esedékessé váló díját,
 
-e) a bírósági adósságrendezés elrendelését követően esedékessé váló közterheket, ide nem értve az állami kezesség beváltása miatt keletkező, adók módjára behajtható megtérítési kötelezettséget és a felhalmozott diákhitel-tartozás miatt közteherként előírt fizetési kötelezettséget,
+e) a bírósági adósságrendezés elrendelését követően esedékessé váló közterheket,
 
-f) az adóst egyéni vállalkozói tevékenységével összefüggésben terhelő munkabérfizetési kötelezettséget legfeljebb a kötelező legkisebb munkabér másfélszereséig.
+f) az adóst egyéni vállalkozói tevékenységével összefüggésben terhelő munkabérfizetési, illetve munkaerőkölcsönzéssel összefüggő díjfizetési kötelezettséget legfeljebb a kötelező legkisebb munkabér másfélszereséig, továbbá az ezekkel a kifizetésekkel kapcsolatban az adóst terhelő közteherfizetési kötelezettséget.
 
 (6) Az adós, az adóstárs, az eljárásban az adós törlesztési kötelezettségének kiegészítésére kötelezettséget vállaló egyéb kötelezett és a családi vagyonfelügyelő a hitelezői igények bejelentésére nyitva álló határidő lejártát követő 30 napon belül havi jövedelemfelosztási tervet készít, amelynek során az adós és az adóstárs rendszeres bevételeit, az egyéb kötelezett által az adós törlesztési képességének kiegészítésére fordított összeget, az adóssal, adóstárssal közös háztartásban élő közeli hozzátartozók által a mindennapi életvezetéssel, lakásfenntartással összefüggő, rendszeres kiadásokhoz történő hozzájárulás összegét, a mindennapi életvitelhez alapvetően szükséges költségeket és a (4) és (5) bekezdés szerinti fizetési kötelezettségeket kell figyelembe venni. Ha a jövedelemfelosztási terv készítése során figyelembe vett összegek a (4) és (5) bekezdés szerinti mértékben nem teszik lehetővé a kifizetéseket, a családi vagyonfelügyelő – ide nem értve a főhitelező részére a (4) bekezdés alapján kötelezően fizetendő összeget – arányosan legfeljebb 20%-kal alacsonyabb mértéket határoz meg azokra a fizetési kötelezettségekre, amelyeket e bekezdés értelmében nem teljes összegben kell teljesíteni. A fizetési kötelezettségek teljesítését havonta írásban a családi vagyonfelügyelő számára igazolni kell.
 
