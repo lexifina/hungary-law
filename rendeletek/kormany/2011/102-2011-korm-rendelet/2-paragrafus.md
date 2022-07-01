@@ -34,7 +34,7 @@ cb) alapján munkanélküli járadékban, álláskeresési járadékban, állás
 
 d) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van, azzal, hogy a házastársak akkor tekinthetők különélőnek, ha lakcímük különböző;
 
-e)[^8] keretszám: az évente kiadható támogatásoknak a központi költségvetésről szóló törvény keretei között, a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) és a Mozgáskorlátozottak Egyesületeinek Országos Szövetsége (a továbbiakban: MEOSZ) által egyetértésben meghatározott mértéke;
+e)[^8] keretszám: az évente kiadható támogatásoknak a központi költségvetésről szóló törvény keretei között, a szociálpolitikáért felelős miniszter (a továbbiakban: miniszter) és a Mozgáskorlátozottak Egyesületeinek Országos Szövetsége (a továbbiakban: MEOSZ) által egyetértésben meghatározott mértéke;
 
 f)[^9] önálló személygépkocsi használó: az a súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személy, aki gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, továbbá az a súlyos mozgáskorlátozott személy, aki
 
@@ -64,7 +64,7 @@ hb)[^15] a 18. életévét nem töltötte be, és magasabb összegű családi p�
 [^5]: A 2. § a) pont ab) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § a) pont ac) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (9) bekezdése szerint módosított szöveg.
 [^7]: A 2. § b) pontja a 13/2020. (II. 7.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^8]: A 2. § e) pontja a 61/2012. (III. 30.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § e) pontja a 61/2012. (III. 30.) Korm. rendelet 16. § b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 99. §-a szerint módosított szöveg.
 [^9]: A 2. § f) pontja a 250/2012. (IX. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § f) pont fb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (1) bekezdésével megállapított szöveg.
 [^11]: A 2. § g) pont nyitó szövegrésze a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

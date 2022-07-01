@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-102-20-
 | 2020-03-01 | 2011-102-20-22.22 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-08-15 | 2011-102-20-22.23 | 392/2020. (VIII. 12.) Korm. rendelet |
 | 2021-07-14 | 2011-102-20-22.24 | 414/2021. (VII. 13.) Korm. rendelet |
+| 2022-07-01 | 2011-102-20-22.25 | 61/2012. (III. 30.) Korm. rendelet |
