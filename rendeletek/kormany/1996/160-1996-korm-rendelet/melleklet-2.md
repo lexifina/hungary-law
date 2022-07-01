@@ -30,7 +30,7 @@
 
 ## h) a Belügyminisztériumnak a miniszter elhelyezését biztosító épülete,
 
-## i) az Emberi Erőforrások Minisztériumának a miniszter elhelyezését biztosító épülete,
+## i)[^107] a Kulturális és Innovációs Minisztériumnak a miniszter elhelyezését biztosító épülete,
 
 ## j) az Agrárminisztériumnak a miniszter elhelyezését biztosító épülete,
 
@@ -38,15 +38,15 @@
 
 ## l) a Külgazdasági és Külügyminisztériumnak a miniszter elhelyezését biztosító épülete,
 
-## m) az Innovációs és Technológiai Minisztériumnak a miniszter elhelyezését biztosító épülete,
+## m)[^108]
 
-## n) a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter elhelyezését biztosító épület,
+## n)[^109]
 
 ## o) az Információs Hivatal központi objektuma,
 
-## p)[^107] a miniszterelnök elhelyezését biztosító épület, valamint az annak megközelítését és elhagyását biztosító kiszolgálólétesítmény.
+## p)[^110] a miniszterelnök elhelyezését biztosító épület, valamint az annak megközelítését és elhagyását biztosító kiszolgálólétesítmény.
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^108]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^111]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -185,5 +185,8 @@
 [^104]: Az 1. melléklet 2. pontja a 108/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^105]: Az 1. melléklet 2. pont d) alpontja a 267/2019. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^106]: Az 1. melléklet 2. pont g) alpontja a 267/2019. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^107]: Az 1. melléklet 2. pont p) alpontját a 267/2019. (XI. 19.) Korm. rendelet 2. §-a iktatta be.
-[^108]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^107]: Az 1. melléklet 2. pont i) alpontja a 238/2022. (VI. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^108]: Az 1. melléklet 2. pont m) alpontját a 238/2022. (VI. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^109]: Az 1. melléklet 2. pont n) alpontját a 238/2022. (VI. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^110]: Az 1. melléklet 2. pont p) alpontját a 267/2019. (XI. 19.) Korm. rendelet 2. §-a iktatta be.
+[^111]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
