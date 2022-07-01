@@ -1,4 +1,4 @@
-8/A. §[^15] (1) A Kormány az 5. § (2) bekezdés 20. pontjában és a 8. § f) pontjában meghatározott feladatok ellátása érdekében az állami fenntartók Köznevelési Regisztrációs és Tanulmányi Alaprendszerét a Klebelsberg Központ útján működteti.
+8/A. §[^30] (1) A Kormány az 5. § (2) bekezdés 20. pontjában és a 8. § f) pontjában meghatározott feladatok ellátása érdekében az állami fenntartók Köznevelési Regisztrációs és Tanulmányi Alaprendszerét a Klebelsberg Központ útján működteti.
 
 (2) A Köznevelési Regisztrációs és Tanulmányi Alaprendszer szakrendszerei közül a központi elektronikus ügyintézési szakrendszer a szolgáltatásainak igénybevétele esetén a csatlakozott állami fenntartó és a fenntartásában lévő köznevelési intézmények vonatkozásában az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus ügyintézést biztosító információs rendszernek minősül.
 
@@ -8,4 +8,4 @@
 
 (5) A Köznevelési Regisztrációs és Tanulmányi Alaprendszer elemei, működtetése, a csatlakozás módja és feltételei tekintetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény felhatalmazása alapján kiadott kormányrendeletben, miniszteri rendeletben meghatározottak az irányadóak.
 
-[^15]: A 8/A. §-t a 417/2020. (VIII. 30.) Korm. rendelet 23. §-a iktatta be.
+[^30]: A 8/A. §-t a 417/2020. (VIII. 30.) Korm. rendelet 23. §-a iktatta be.

@@ -1,6 +1,6 @@
-## 2/A. §[^5] A tankerületi központ a 2/B. § (3) bekezdése szerinti képviselőkből álló tankerületi tanácsot működtet.
+## 2/A. §[^8] A tankerületi központ a 2/B. § (3) bekezdése szerinti képviselőkből álló tankerületi tanácsot működtet.
 
-2/B. §[^6] (1) A tankerületi tanács a tankerületi központ mellett működő javaslattevő, véleményező, tanácsadó testület, amelynek célja
+2/B. §[^9] (1) A tankerületi tanács a tankerületi központ mellett működő javaslattevő, véleményező, tanácsadó testület, amelynek célja
 
 a) a helyi, területi, térségi társadalmi-gazdasági környezeti érdekek, célok összehangolása a tankerületi központ fenntartói tevékenységével kapcsolatos oktatásirányítási célokkal;
 
@@ -28,7 +28,7 @@ kapcsolatosan;
 
 c) tanácsadással segítheti a fejlesztési tervek megvalósítását, a stratégiai tervezést.
 
-(3) A tankerületi tanács – az a) pont kivételével – az oktatásért felelős miniszter által öt évre felkért állandó tagokból áll. Az állandó tagok közé tartozik
+(3)[^10] A tankerületi tanács – az a) pont kivételével – a miniszter által öt évre felkért állandó tagokból áll. Az állandó tagok közé tartozik
 
 a) az illetékes tankerületi központ vezetője,
 
@@ -36,7 +36,7 @@ b) a Klebelsberg Központ által javasolt – azzal foglalkoztatotti jogviszonyb
 
 c) a Nemzeti Pedagógus Kar által jelölt egy fő,
 
-d) az oktatásért felelős miniszter által a (4) bekezdés szerinti szervezetek által jelöltek közül felkért összesen három–öt fő.
+d)[^11] a miniszter által a (4) bekezdés szerinti szervezetek által jelöltek közül felkért összesen három–öt fő.
 
 (4) A tankerületi tanács állandó tagjai közé képviselőt jelölhetnek
 
@@ -50,7 +50,7 @@ d) a tankerületi központ által fenntartott intézményekben működő diákö
 
 (5) A (4) bekezdésben foglalt szervezetek egy-egy főt jelölhetnek.
 
-(6) A jelölésre a (3) bekezdés b) és c) pontja és a (4) bekezdés szerinti szervezeteket határidő megjelölésével az oktatásért felelős miniszter kéri fel. A személyi javaslat a tagjelölt elfogadó nyilatkozatával válik érvényessé.
+(6)[^12] A jelölésre a (3) bekezdés b) és c) pontja és a (4) bekezdés szerinti szervezeteket határidő megjelölésével a miniszter kéri fel. A személyi javaslat a tagjelölt elfogadó nyilatkozatával válik érvényessé.
 
 (7) A tagok díjazás nélkül látják el feladataikat. Az állandó tagok névsorát és – a jelölés elfogadásával egyidejűleg adott hozzájáruló nyilatkozata esetén – a szakmai önéletrajzát az illetékes tankerületi központ honlapján nyilvánosságra kell hozni.
 
@@ -74,5 +74,8 @@ e) a megbízatása alapjául szolgáló jogviszonya megszűnik.
 
 (12) Ha a tag megbízatása a (11) bekezdés b)–e) pontja alapján szűnik meg, a tagot jelölő szerv, a (3) bekezdés b) pontja szerinti tag esetében a Klebelsberg Központ, valamint a (4) bekezdésben meghatározott szervek 30 napon belül új tagot jelölnek.
 
-[^5]: A 2/A. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
-[^6]: A 2/B. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 2/A. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 2/B. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 2/B. § (3) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
+[^11]: A 2/B. § (3) bekezdés d) pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
+[^12]: A 2/B. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.

@@ -2,17 +2,17 @@
 
 ## 8. § A Klebelsberg Központ a köznevelési közfeladat-ellátásban részt vevő, tankerületi központ fenntartásában lévő köznevelési intézmények tekintetében
 
-a)[^13] ellátja az Nkt. 83. § (2b) bekezdésében meghatározott feladatokat,
+a)[^26] ellátja az Nkt. 83. § (2b) bekezdésében meghatározott feladatokat,
 
-b) az oktatásért felelős miniszter számára a tankerületi központ kezdeményezése alapján javaslatot tesz a tankerületi központ fenntartásában lévő köznevelési intézmény
+b)[^27] a miniszter számára a tankerületi központ kezdeményezése alapján javaslatot tesz a tankerületi központ fenntartásában lévő köznevelési intézmény
 
 ba) létesítésére, az Nkt. 21. § (3) bekezdés c)–e) pontjában felsoroltak módosulásával járó átszervezésére, megszüntetésére, alapfeladatának módosítására, nevének megállapítására irányuló döntés meghozatalára,
 
-bb) vezetőjének kinevezésére, megbízására és megbízásának visszavonására, továbbá a vonatkozó munkáltatói intézkedés dokumentumait javaslatával együtt felterjeszti az oktatásért felelős miniszter részére,
+bb)[^28] vezetőjének kinevezésére, megbízására és megbízásának visszavonására, továbbá a vonatkozó munkáltatói intézkedés dokumentumait javaslatával együtt felterjeszti a miniszter részére,
 
 c) országos szinten közreműködik a területi köznevelési feladatellátás megszervezése irányainak meghatározásában,
 
-d)[^14] koordinálja a támogatási forrásokból megvalósuló fejlesztések, európai uniós programok tervezésével és lebonyolításával kapcsolatos feladatokat, gondoskodik a tankerületi központok pályázati és projekttevékenységének összehangolásáról,
+d)[^29] koordinálja a támogatási forrásokból megvalósuló fejlesztések, európai uniós programok tervezésével és lebonyolításával kapcsolatos feladatokat, gondoskodik a tankerületi központok pályázati és projekttevékenységének összehangolásáról,
 
 e) ellátja a tankerületi központ és a fenntartásában lévő köznevelési intézmények vonatkozásában az informatikai rendszerek fejlesztéséhez kapcsolódó feladatokat,
 
@@ -28,5 +28,7 @@ j) európai uniós forrásból finanszírozott fejlesztést valósít meg a tank
 
 k) jóváhagyja a tankerületi központok által elkészített fejlesztési terveket.
 
-[^13]: A 8. § a) pontja az 56/2020. (III. 20.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^14]: A 8. § d) pontja a 308/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^26]: A 8. § a) pontja az 56/2020. (III. 20.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^27]: A 8. § b) pont nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
+[^28]: A 8. § b) pont bb) alpontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
+[^29]: A 8. § d) pontja a 308/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
