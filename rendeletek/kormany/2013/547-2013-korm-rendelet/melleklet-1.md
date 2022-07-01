@@ -20,7 +20,7 @@ c) az akciótervben szereplő konstrukciók és tartalék támogatási konstrukc
 
 2. Az akcióterv elkészítése és jóváhagyása
 
-2.1. Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumban működő központi koordinációs szervezeti egység (a továbbiakban: központi koordinációs szerv) akcióterv sablont, és ahhoz tartozó kitöltési útmutatót készít.
+2.1. Az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztériumban működő központi koordinációs szervezeti egység (a továbbiakban: központi koordinációs szerv) akcióterv sablont, és ahhoz tartozó kitöltési útmutatót készít.
 
 2.2. Az akcióterv koncepcióját és első tervezetét a 2.1. pont szerinti sablon és útmutató alapján az adott irányító hatóság (a továbbiakban: IH) a beérkező igények alapján – szükség esetén a minisztériumok, a közreműködő szervezetek (a továbbiakban: KSZ) bevonásával – készíti el az ágazati stratégiák alapján.
 
@@ -152,11 +152,11 @@ A pályázati felhívások elkészítése, meghirdetése
 
 15.4. Ha PEMCS megtartására kerül sor, az ülések nyilvántartását, dokumentálását a www.szechenyi2020.hu honlapon elérhető Elektronikus HelpDesk (a továbbiakban: EHD) PEMCS moduljában kell nyilvántartani.
 
-15.5. Ha az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter az ágazati fejlesztésért felelős miniszter, a 13.1.-13.5. pontban foglaltakat a Rendelet 5/A. § (2) bekezdése alapján az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium szervezeti és működési szabályzatában vagy egyéb szabályzatában kell rendezni.
+15.5. Ha az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter az ágazati fejlesztésért felelős miniszter, a 13.1.-13.5. pontban foglaltakat a Rendelet 5/A. § (2) bekezdése alapján az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett vagy tevékenységének segítésére kijelölt minisztérium szervezeti és működési szabályzatában vagy egyéb szabályzatában kell rendezni.
 
 9. A pályázati felhívás elkészítése
 
-16.1. A pályázati felhívást az IH az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium által kiadott és a www.szechenyi2020.hu honlapon közzétett, a központi koordinációs szervre, az IH-ra, a KSZ-re és a kedvezményezettre vonatkozó
+16.1. A pályázati felhívást az IH az európai uniós források felhasználásáért felelős miniszter által kiadott és a www.szechenyi2020.hu honlapon közzétett, a központi koordinációs szervre, az IH-ra, a KSZ-re és a kedvezményezettre vonatkozó
 
 a) arculati kézikönyv,
 
@@ -986,7 +986,7 @@ amelyről a bejelentés beérkezését követő 10 napon belül írásban, a XVI
 
 50. A támogatói okirat
 
-102.1. Könnyített elbírálású támogatás esetén, illetve, ha a felhívásban támogatói okirat kibocsátásáról rendelkeztek, a KSZ a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium nevében támogatói okiratot bocsát ki.
+102.1. Könnyített elbírálású támogatás esetén, illetve, ha a felhívásban támogatói okirat kibocsátásáról rendelkeztek, a KSZ a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett vagy tevékenységének segítésére kijelölt minisztérium nevében támogatói okiratot bocsát ki.
 
 102.2. A támogatási szerződésre vonatkozó alcímekben foglaltakat támogatói okirat alkalmazása esetén ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -1122,7 +1122,7 @@ b) a meglévő tárgyi eszköz bővítése, rendeltetésének megváltoztatása,
 
 53. Az ingatlan jelzálog
 
-120.1. A jelzálogszerződés a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium, mint támogató és a kedvezményezett között jön létre. A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumot a jelzálogszerződés megkötése, módosítása, megszüntetése során a KSZ képviseli, és a kapcsolódó feladatokat a KSZ látja el.
+120.1. A jelzálogszerződés a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett vagy tevékenységének segítésére kijelölt minisztérium, mint támogató és a kedvezményezett között jön létre. A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett vagy tevékenységének segítésére kijelölt minisztériumot a jelzálogszerződés megkötése, módosítása, megszüntetése során a KSZ képviseli, és a kapcsolódó feladatokat a KSZ látja el.
 
 120.2. Ha a zálogtárgy harmadik személy tulajdonában van, a zálogkötelezett a zálogtárgy tulajdonosa.
 
@@ -1930,7 +1930,7 @@ c) a közbeszerzési eljárás eredményeként kötött, aláírt szállítói s
 
 193.1. A közvetlen szállítói előleget a szállító az előlegbekérő benyújtásával igényelheti elektronikusan, a Pályázati e-ügyintézés felületen keresztül. A szállítói előlegigénylést a monitoring és információs rendszerben előlegigénylésként kell rögzíteni. Ha a közvetlen szállítói előlegigényléssel egyidejűleg kiállításra kerül az előlegszámla, azt a Rendelet 59. § (1) bekezdése szerinti kedvezményezett általi záradékkal ellátva kell benyújtani.
 
-193.2. A szállító köteles a 190.1. pont szerinti eljárás eredményeként kötött szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő értékű, a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium javára szóló, a Kbt. 134. § (6) bekezdése szerinti biztosítékot nyújtani. A gazdasági társaság vagy nonprofit szervezet szállító cégjegyzésre jogosult vezető tisztségviselőjének vagy legalább 50%-os közvetlen tulajdonrésszel rendelkező tulajdonosának, vagy együttesen legalább 50%-os közvetlen tulajdonrésszel rendelkező természetes személy tulajdonosainak kezességvállalása, vagy garanciaszervezet által vállalt kezesség, valamint az Áht. 92. § (1) bekezdése szerinti állami kezesség is elfogadható a szállítói előleg biztosítékaként.
+193.2. A szállító köteles a 190.1. pont szerinti eljárás eredményeként kötött szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő értékű, a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett vagy tevékenységének segítésére kijelölt minisztérium javára szóló, a Kbt. 134. § (6) bekezdése szerinti biztosítékot nyújtani. A gazdasági társaság vagy nonprofit szervezet szállító cégjegyzésre jogosult vezető tisztségviselőjének vagy legalább 50%-os közvetlen tulajdonrésszel rendelkező tulajdonosának, vagy együttesen legalább 50%-os közvetlen tulajdonrésszel rendelkező természetes személy tulajdonosainak kezességvállalása, vagy garanciaszervezet által vállalt kezesség, valamint az Áht. 92. § (1) bekezdése szerinti állami kezesség is elfogadható a szállítói előleg biztosítékaként.
 
 193.3. A 193.2. pont szerinti kezességvállalásra a VI. Fejezet kezességvállalásra vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
@@ -2696,7 +2696,7 @@ c) a projektátadó és a projektátvevő kedvezményezettek költségvetéséne
 
 119. Intézményi konszolidáció kapcsán bekövetkező feladatátadás különös szabályai
 
-258.1. Azon projektek esetében, melyek jogszabály alapján jogosultak az önerő európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium általi finanszírozására, a jogutódlás időpontját követően a projektátvevő vagy jogutód kedvezményezett költségvetési szerv saját forrása a központi költségvetésből kerül biztosításra.
+258.1. Azon projektek esetében, melyek jogszabály alapján jogosultak az önerő európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztérium általi finanszírozására, a jogutódlás időpontját követően a projektátvevő vagy jogutód kedvezményezett költségvetési szerv saját forrása a központi költségvetésből kerül biztosításra.
 
 258.2. Ha a projektátadó vagy jogelőd kedvezményezett által támogatási előleg igénylésére került sor, a projektátadó vagy jogelőd kedvezményezett az előleg általa számlákkal lefedett és elszámolt költségekre jutó részén felül fennmaradó, el nem számolt összegét átadhatja a projektátvevő vagy jogutód kedvezményezettnek. A támogatási előleg átadását a projektátvevő vagy jogutód kedvezményezettel kötött támogatási szerződésben rögzíteni kell. Az át nem adott, el nem számolt előleget vissza kell követelni.
 
@@ -4852,7 +4852,7 @@ g) az IH döntése vagy intézkedése elleni kifogás esetén annak megjelölés
 
 467.1. Az IH haladéktalanul megvizsgálja a kifogás – Rendelet 82. § (1) bekezdése szerinti érdemi vizsgálat nélküli – elutasítására vonatkozó rendelkezések alkalmazhatóságát.
 
-467.2. Az IH elkészíti a kifogás érdemi vizsgálat nélküli elutasításról szóló szakmai álláspontot és az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium szervezeti és működési szabályzatában vagy egyéb szabályzatában meghatározott eljárásrend szerinti jóváhagyást követően továbbítja azt a központi koordinációs szerv részére.
+467.2. Az IH elkészíti a kifogás érdemi vizsgálat nélküli elutasításról szóló szakmai álláspontot és az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett vagy tevékenységének segítésére kijelölt minisztérium szervezeti és működési szabályzatában vagy egyéb szabályzatában meghatározott eljárásrend szerinti jóváhagyást követően továbbítja azt a központi koordinációs szerv részére.
 
 467.3. A kifogás érdemi vizsgálat nélküli elutasításáról a központi koordinációs szerv dönt, amelyről a Rendelet 82. § (6) bekezdése szerint értesítést küld.
 
@@ -4876,9 +4876,5 @@ Szabálytalanságkezelés
 
 209. Értelmező rendelkezések
 
-470. E fejezet alkalmazásában szabálytalansági gyanú: szabálytalanság elkövetésére megalapozottan utaló tények, körülmények, vagy dokumentumok, amelyből alappal lehet következtetni a szabálytalanság tényállási elemeinek fennállására.
-
-210. A szabálytalansági gyanú észlelése
-
 [^6]: A 7. §-t a 477/2016. (XII. 27.) Korm. rendelet 73. § (1) bekezdése iktatta be.
-[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1–2. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1–2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 139. § (2) és (3) bekezdése szerint módosított szöveg.
