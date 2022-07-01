@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-8-20-06
 | --- | --- | --- |
 | 2022-04-12 | 2022-8-20-06.1 | 8/2022. (IV. 4.) IM rendelet |
 | 2022-04-13 | 2022-8-20-06.2 | 2010: CXXX. törvény |
+| 2022-07-01 | 2022-8-20-06.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
