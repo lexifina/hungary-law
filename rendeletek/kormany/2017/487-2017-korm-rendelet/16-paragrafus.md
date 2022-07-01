@@ -2,6 +2,6 @@
 
 ## Az elsőfokú döntéssel szembeni fellebbezést a megyei, fővárosi rendőr-főkapitányság bírálja el. Felügyeleti szervként a fellebbezés elbírálására jogosult hatóság jár el.
 
-## IV. Fejezet[^3]
+## IV. Fejezet[^4]
 
-[^3]: A IV. Fejezetet (16–17. §) a 375/2020. (VII. 30.) Korm. rendelet 102. §-a hatályon kívül helyezte.
+[^4]: A IV. Fejezetet (16–17. §) a 375/2020. (VII. 30.) Korm. rendelet 102. §-a hatályon kívül helyezte.
