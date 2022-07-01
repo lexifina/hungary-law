@@ -10,7 +10,7 @@ c) a Széchenyi Újraindítási Beruházási Hitel és ennek részét képező A
 
 konstrukciókat, valamint új konstrukcióként 2021. szeptember 1-jétől bevezeti
 
-d) a Széchenyi Újraindítási Önerő Kiegészítő Hitelt és
+d)[^1]
 
 e) a Széchenyi Újraindítási Lízingkonstrukciót;
 
@@ -18,45 +18,33 @@ e) a Széchenyi Újraindítási Lízingkonstrukciót;
 
 1.3. a Széchenyi Kártya Program részét képező Széchenyi Munkahelymegtartó Hitel programot megszünteti azzal, hogy a bírálat alatt lévő hitelkérelmek még elbírálhatóak;
 
-1.4.[^1] a Széchenyi Turisztikai Kártya Programról szóló 1467/2020. (VIII. 3.) Korm. határozattal [a továbbiakban: 1467/2020. (VIII. 3.) Korm. határozat] bevezetett Széchenyi Turisztikai Kártya Program elnevezést Széchenyi Turisztikai Kártya Újraindítási Program elnevezésre módosítja és ezen programot az 1467/2020. (VIII. 3.) Korm. határozatban foglalt változatlan feltételekkel a Széchenyi Kártya Újraindítási Program részévé teszi azzal, hogy a Széchenyi Turisztikai Kártya Újraindítási Programban a kamattámogatás mértéke nem haladhatja meg az évi 8,5%-os mértéket.
+1.4.[^2]
 
 2. A Kormány a Széchenyi Kártya Újraindítási Program keretében
 
-2.1.[^2] nyújtott hitelekhez és lízingkonstrukcióhoz kamattámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
+2.1.[^3] nyújtott hitelekhez és lízingkonstrukcióhoz kamattámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
 
-a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 2,5%,
+a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 3,5%, illetve az ezen belül meghirdetésre kerülő többlettámogatott alkonstrukció esetén az 1%,
 
-b) a Széchenyi Újraindítási Likviditási Hitel esetén a 2,5%,
+b) a Széchenyi Újraindítási Likviditási Hitel esetén a 3,5%,
 
-c) a Széchenyi Újraindítási Beruházási Hitel – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel –, a Széchenyi Újraindítási Önerő Kiegészítő Hitel esetén az 1,0%,
+c) a Széchenyi Újraindítási Beruházási Hitel – és az ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel – esetén az 1,5%, illetve az ezen belül meghirdetésre kerülő többlettámogatott alkonstrukciók esetén a 0,5%, valamint
 
-d) a Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén a 0,5%, valamint
-
-e) a Széchenyi Újraindítási Lízingkonstrukció esetén a 2,5%
+d) a Széchenyi Újraindítási Lízingkonstrukció esetén a 3,5%
 
 mértéket;
 
-Felelős: innovációért és technológiáért felelős miniszter
+2.2.[^4] egyetért azzal, hogy a nyújtott hitelek és lízingkonstrukció kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
 
-Határidő: 2022. január 1.
+a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 8,5%, az ennek keretében meghirdetésre kerülő többlettámogatott Folyószámlahitel konstrukció esetén a 11%,
 
-2.2.[^3] egyetért azzal, hogy a nyújtott hitelek és lízingkonstrukció kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
+b) a Széchenyi Újraindítási Likviditási Hitel esetén a 8,5%,
 
-a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén az 5,0%,
+c) a Széchenyi Újraindítási Beruházási Hitel – és az ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel – esetén a 11%, az ennek keretében meghirdetésre kerülő többlettámogatott beruházási hitelkonstrukció esetén a 12%, valamint
 
-b) a Széchenyi Újraindítási Likviditási Hitel esetén az 5,0%,
-
-c) a Széchenyi Újraindítási Beruházási Hitel – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel –, a Széchenyi Újraindítási Önerő Kiegészítő Hitel esetén a 8,5%,
-
-d) a Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén a 9,0%, valamint
-
-e) a Széchenyi Újraindítási Lízingkonstrukció esetén a 7,0%
+d) a Széchenyi Újraindítási Lízingkonstrukció esetén a 9,0%
 
 mértéket;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2022. január 1.
 
 2.3. felhatalmazza az innovációért és technológiáért felelős minisztert, hogy az 1.4., 2.1. és 2.2. alpont figyelembevételével a konstrukciók mindenkor hatályos kamattámogatás mértékeit a Széchenyi Kártya Program mindenkor hatályos Üzletszabályzatában rögzítse;
 
@@ -72,11 +60,7 @@ Határidő: folyamatos, első alkalommal 2021. szeptember
 
 2.5. nyújtott hitelekhez és lízingkonstrukcióhoz évi 0,5 százalékpont kezelési költség támogatást biztosít;
 
-2.6. nyújtott hitelekhez – ideértve a legfeljebb 100 000 000 forint összegű, a Garantiqa Krízis Garanciaprogram Investment Hitelgarancia keretében garantált hiteleket is – nyújtott készfizető kezességvállalás díjához legfeljebb évi 1%-os kezességi díjtámogatást, illetve a Garantiqa Krízis Garanciaprogram Investment Hitelgarancia keretében nyújtott, 100 000 000 forintot meghaladó Széchenyi Újraindítási Beruházási Hitel hitelek készfizető kezességvállalás díjához legfeljebb évi 2%-os kezességi díjtámogatást biztosít.
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: azonnal
+2.6.[^5] nyújtott hitelekhez nyújtott készfizető kezességvállalás díjához legfeljebb évi 1%-os kezességi díjtámogatást biztosít.
 
 3. A Kormány
 
@@ -164,11 +148,13 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók módosítását követően azonnal
 
-4.[^4]
+4.[^6]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: Az 1. pont 1.4. alpontja az 1979/2021. (XII. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
-[^2]: A 2. pont 2.1. alpontja az 1979/2021. (XII. 27.) Korm. határozat 5. pontjával megállapított szöveg.
-[^3]: A 2. pont 2.2. alpontja az 1979/2021. (XII. 27.) Korm. határozat 6. pontjával megállapított szöveg.
-[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.1. alpont d) pontját az 1298/2022. (VI. 20.) Korm. határozat 3. pont 3.3. alpont a) pontja hatályon kívül helyezte.
+[^2]: Az 1. pont 1.4. alpontját az 1298/2022. (VI. 20.) Korm. határozat 3. pont 3.3. alpont b) pontja hatályon kívül helyezte.
+[^3]: A 2. pont 2.1. alpontja az 1298/2022. (VI. 20.) Korm. határozat 3. pont 3.1. alpontjával megállapított szöveg.
+[^4]: A 2. pont 2.2. alpontja az 1298/2022. (VI. 20.) Korm. határozat 3. pont 3.2. alpontjával megállapított szöveg.
+[^5]: A 2. pont 2.6. alpontja az 1298/2022. (VI. 20.) Korm. határozat 3. pont 3.4. alpontjával megállapított szöveg.
+[^6]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
