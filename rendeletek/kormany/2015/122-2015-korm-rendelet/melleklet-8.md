@@ -40,7 +40,7 @@ II. rész: Az egyes alternatív szakpolitikai intézkedések és megvalósítás
 
 | 4. | Elsődlegesen energiahatékonysági célú, operatív programokból megvalósuló támogatások (KEOP, ROP, KMOP, KEHOP, TOP, VEKOP, GINOP) | a mindenkori irányító hatósági feladatokat ellátó, valamennyi érintett szervezet |
 
-| 5. | Lakásépítési támogatás energiahatékonysági bónusz program | lakásgazdálkodásért és lakáspolitikáért felelős miniszter |
+| 5. | Lakásépítési támogatás energiahatékonysági bónusz program | lakáscélú állami támogatásokért felelős miniszter |
 
 | 6. | Energia-racionalizálási pályázati program a Belügyminisztérium intézményei részére | belügyminiszter |
 
@@ -56,7 +56,7 @@ II. rész: Az egyes alternatív szakpolitikai intézkedések és megvalósítás
 
 | 12. | Felzárkózó települések hosszú távú programja energiahatékonysági elemei | településfejlesztésért és településrendezésért felelős miniszter |
 
-| 13. | Lakás-előtakarékossági rendszer megtakarításaiból megvalósított energiahatékonysági fejlesztések | lakásgazdálkodásért és lakáspolitikáért felelős miniszter |
+| 13. | Lakás-előtakarékossági rendszer megtakarításaiból megvalósított energiahatékonysági fejlesztések | pénz-, tőke- és biztosítási piac szabályozásért felelős miniszter |
 
 | 14. | Energetikai szakreferens alkalmazási kötelezettsége | Hivatal |
 
@@ -158,4 +158,4 @@ III. rész: Az egyes alternatív szakpolitikai intézkedések, a megvalósítás
 
 IV. rész: Az energiahatékonysági kötelezettségi rendszerből eredő halmozott energiamegtakarítás éves célértékei a 2021–2030-as időszakban (PJ)
 
-[^92]: A 8. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
+[^92]: A 8. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 149. §-a szerint módosított szöveg.
