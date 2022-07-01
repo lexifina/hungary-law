@@ -26,7 +26,7 @@
 
 13. javaslatot tesz a minisztérium vagyonkezelésében lévő ingatlan és ingó vagyontárgy honvédelmi célra feleslegessé nyilvánítására,
 
-14.[^25] felelős az önkéntes tartalékos rendszer tiszt- és altisztképzésével, szakkiképzési és távoktatási rendszerével, motivációs és ösztöndíjrendszerével, a kadétrendszerhez kapcsolódó képzésekkel, a hadtudományi kutatás-fejlesztéssel összefüggő katonai követelmények meghatározásával és a katonai szervezetek tudományos tevékenységével, valamint a katonai pályára irányítással, a honvédelmi neveléssel, a katonai emlékhely- és hadisírgondozással kapcsolatos honvédségi feladatok végrehajtásáért,
+14.[^26] felelős az önkéntes tartalékos rendszer tiszt- és altisztképzésével, szakkiképzési és távoktatási rendszerével, motivációs és ösztöndíjrendszerével, a kadétrendszerhez kapcsolódó képzésekkel, a hadtudományi kutatás-fejlesztéssel összefüggő katonai követelmények meghatározásával és a katonai szervezetek tudományos tevékenységével, valamint a katonai pályára irányítással, a honvédelmi neveléssel, a katonai emlékhely- és hadisírgondozással kapcsolatos honvédségi feladatok végrehajtásáért,
 
 15. irányítja a Honvédség logisztikai és gazdálkodási rendszerét, tervezi és szervezi a honvédelmi szervezetek logisztikai és egészségügyi biztosítását, javaslatokat tesz a személyi állomány megfelelő élet-, szolgálati és munkakörülményeinek biztosítására,
 
@@ -36,9 +36,9 @@
 
 18. egyetértési jogot gyakorol a Nemzeti Közszolgálati Egyetem képzési programjának honvédelemmel kapcsolatos katonai-szakmai követelményei vonatkozásában,
 
-19.[^26] felelős a katonai szakképző intézmény fenntartói irányításáért, a katonai szakképesítések katonai-szakmai követelményeinek meghatározásáért,
+19.[^27] felelős a katonai szakképző intézmény fenntartói irányításáért, a katonai szakképesítések katonai-szakmai követelményeinek meghatározásáért,
 
-20.[^27] vezeti a NATO Központi Rejtjel Elosztó Felügyelet tevékenységét, az ügykezelés rendjére, az információbiztonságra vonatkozó követelmények kidolgozását,
+20.[^28] vezeti a NATO Központi Rejtjel Elosztó Felügyelet tevékenységét, az ügykezelés rendjére, az információbiztonságra vonatkozó követelmények kidolgozását,
 
 21. irányítja a honvédelmi földmérési és térképészeti tevékenységet,
 
@@ -64,7 +64,7 @@
 
 32. irányítja a Honvédség hatáskörébe utalt hadfelszerelés-fejlesztési, haditechnikai és kutatás-fejlesztési-innovációs feladatok végrehajtását,
 
-33.[^28] felelős a szabványosítási, egységesítési és katonai minőségügyi feladatok végrehajtásáért,
+33.[^29] felelős a szabványosítási, egységesítési és katonai minőségügyi feladatok végrehajtásáért,
 
 34. irányítja a Honvédség képesség- és hadfelszerelés fejlesztési programjainak és projektjeinek katonai szakmai előkészítését, tervezését azoknak a Honvédségnél történő végrehajtását,
 
@@ -72,7 +72,7 @@
 
 36. irányítja a honvédségi alkalmazói követelmények kidolgozását a HM Költségvetés Gazdálkodási Információs Rendszer fejlesztése vonatkozásában.
 
-(2)[^29] A Magyar Honvédség parancsnoka – a 2. § (3) bekezdés 6. pontja kivételével – jóváhagyja a közvetlen szolgálati alárendeltségébe tartozó katonai szervezetek, valamint a honvédségi szakképző intézmény szervezeti és működési szabályzatát. E jogkörét másra nem ruházhatja át.
+(2)[^30] A Magyar Honvédség parancsnoka – a 2. § (3) bekezdés 6. pontja kivételével – jóváhagyja a közvetlen szolgálati alárendeltségébe tartozó katonai szervezetek, valamint a honvédségi szakképző intézmény szervezeti és működési szabályzatát. E jogkörét másra nem ruházhatja át.
 
 (3) A Magyar Honvédség parancsnoka a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget, gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket.
 
@@ -88,8 +88,8 @@ c) a védelmi tervezés felső szintű feladataihoz szükséges tervezési alapa
 
 d) a hadfelszerelés-fejlesztés feladataihoz kapcsolódó alapadatok meghatározásáért.
 
-[^25]: A 11. § (1) bekezdés 14. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^26]: A 11. § (1) bekezdés 19. pontja a 280/2021. (V. 26.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
-[^27]: A 11. § (1) bekezdés 20. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^28]: A 11. § (1) bekezdés 33. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^29]: A 11. § (2) bekezdése a 280/2021. (V. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: A 11. § (1) bekezdés 14. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^27]: A 11. § (1) bekezdés 19. pontja a 280/2021. (V. 26.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^28]: A 11. § (1) bekezdés 20. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^29]: A 11. § (1) bekezdés 33. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^30]: A 11. § (2) bekezdése a 280/2021. (V. 26.) Korm. rendelet 4. §-ával megállapított szöveg.

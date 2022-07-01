@@ -26,6 +26,6 @@ i) ellátják azokat a honvédelmi feladatokat, amelyeket részükre jogszabály
 
 (2) A Kormány, a feladat- és hatáskör szerint felelős miniszter, továbbá illetékességi területén a megyei, fővárosi védelmi bizottság határozza meg a honvédelemben közreműködő szervek által készítendő terveket és azok tartalmi követelményeit.
 
-(3)[^44] Az (1) bekezdés g) pontja szerinti képzéseket, felkészítéseket a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Kara által szervezett honvédelmi igazgatási tanfolyamok és szakirányú képzések keretében kell végrehajtani. A honvédelmi feladatok végrehajtásában érintett személyek képzéseken, felkészítéseken való részvételét a honvédelemben közreműködő szerv vezetője tervezi és biztosítja.
+(3)[^45] Az (1) bekezdés g) pontja szerinti képzéseket, felkészítéseket a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Kara által szervezett honvédelmi igazgatási tanfolyamok és szakirányú képzések keretében kell végrehajtani. A honvédelmi feladatok végrehajtásában érintett személyek képzéseken, felkészítéseken való részvételét a honvédelemben közreműködő szerv vezetője tervezi és biztosítja.
 
-[^44]: A 22. § (3) bekezdését a 111/2015. (IV. 30.) Korm. rendelet 3. §-a iktatta be.
+[^45]: A 22. § (3) bekezdését a 111/2015. (IV. 30.) Korm. rendelet 3. §-a iktatta be.

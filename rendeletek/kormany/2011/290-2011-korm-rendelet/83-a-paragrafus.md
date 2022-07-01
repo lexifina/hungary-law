@@ -1,4 +1,4 @@
-## XIII/A. Fejezet[^175]
+## XIII/A. Fejezet[^176]
 
 ## A HONVÉDSÉG VESZÉLYHELYZETTEL ÉS EGÉSZSÉGÜGYI VÁLSÁGHELYZETTEL ÖSSZEFÜGGŐ FELADATOKBAN TÖRTÉNŐ KÖZREMŰKÖDÉSE
 
@@ -30,8 +30,8 @@ b) a Kormány honvédelemért felelős tagjának döntése vagy
 
 c) a Kormány katasztrófák elleni védekezésért felelős tagjának felkérése
 
-## alapján, az a) vagy b) pont szerinti döntésben, valamint a c) pont szerinti felkérésben megjelölt létesítmény vonatkozásában – a kapacitásai és az egyéb, a veszélyhelyzetben és az egészségügyi válsághelyzetben ellátandó feladatai teljesíthetősége figyelembevétele mellett – látja el.
+alapján, az a) vagy b) pont szerinti döntésben, valamint a c) pont szerinti felkérésben megjelölt létesítmény vonatkozásában – a kapacitásai és az egyéb, a veszélyhelyzetben és az egészségügyi válsághelyzetben ellátandó feladatai teljesíthetősége figyelembevétele mellett – látja el.
 
 (5) A Honvédség a veszélyhelyzet és az egészségügyi válsághelyzet ideje alatt a (2) bekezdésben meghatározott feladatokon túl közreműködik a veszélyhelyzet és az egészségügyi válsághelyzet elhárításában a kapacitásai, valamint az egyéb, a veszélyhelyzet és az egészségügyi válsághelyzet ideje alatt ellátandó feladatai teljesíthetősége figyelembevétele mellett.
 
-[^175]: A XIII/A. Fejezetet (83/A–83/B. §-t) a 195/2022. (V. 27.) Korm. rendelet 20. §-a iktatta be.
+[^176]: A XIII/A. Fejezetet (83/A–83/B. §-t) a 195/2022. (V. 27.) Korm. rendelet 20. §-a iktatta be.

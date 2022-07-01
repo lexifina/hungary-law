@@ -1,5 +1,3 @@
-## 8. §
-
 ## 6. A miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek feladat- és hatáskörei
 
 9. § (1) A miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek részt vesznek

@@ -1,3 +1,3 @@
-## 37. §[^89]
+38. §[^91]
 
-[^89]: A 37. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § c) pontja hatályon kívül helyezte.
+[^91]: A 38. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § c) pontja hatályon kívül helyezte.

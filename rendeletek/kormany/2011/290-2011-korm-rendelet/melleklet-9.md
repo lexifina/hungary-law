@@ -64,9 +64,9 @@
 
 ## LÉGIRIADÓ ELMÚLT!”
 
-9. melléklet a 290/2011. (XII. 22.) Korm. rendelethez[^197]
+9. melléklet a 290/2011. (XII. 22.) Korm. rendelethez[^205]
 
-## A légiriadó elrendelésének és feloldásának jelzése a polgári védelmi és az Országos Légiriasztási Rendszerben
+A légiriadó elrendelésének és feloldásának jelzése a polgári védelmi és az Országos Légiriasztási Rendszerben
 
 I. A polgári védelmi rendszer hangjelzései (szirénajelek, jelzések)
 
@@ -100,4 +100,4 @@ A képernyő felső harmadában, középen Magyarország címere, középső har
 
 A „LÉGIRIADÓ” felirat, a repülőgépek és a szövegsáv narancssárga színű. A címer, a felirat, a repülőgépek körvonalai és a szövegsáv mögötti háttér fekete színű.
 
-[^197]: A 9. mellékletet a 281/2018. (XII. 21.) Korm. rendelet 15. §-a iktatta be.
+[^205]: A 9. mellékletet a 281/2018. (XII. 21.) Korm. rendelet 15. §-a iktatta be.

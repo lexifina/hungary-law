@@ -8,6 +8,6 @@ b) kapcsolatot tart a minisztériumok államtitkáraival, az országgyűlési k�
 
 c) irányítja a katonai emlékhely- és hadisírgondozással kapcsolatos feladatokat, továbbá a HM Hadtörténeti Intézet és Múzeum működését, valamint
 
-d)[^19] irányítja a honvédelmi ágazat magyarországi vallási közösségekkel történő kapcsolattartással kapcsolatos feladatait, felügyeli a Tábori Lelkészi Szolgálat hivatali működését.
+d)[^20] irányítja a honvédelmi ágazat magyarországi vallási közösségekkel történő kapcsolattartással kapcsolatos feladatait, felügyeli a Tábori Lelkészi Szolgálat hivatali működését.
 
-[^19]: A 3. § d) pontja a 232/2019. (X. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^20]: A 3. § d) pontja a 232/2019. (X. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.

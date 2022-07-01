@@ -1,4 +1,4 @@
-## 76/A. §[^164] A TEK
+## 76/A. §[^165] A TEK
 
 a) előkészíti a lakosság tájékoztatásához, szükség esetén a riasztásához szükséges okmányokat, a terrortámadás jelentős és közvetlen veszélyével, a terrortámadással, illetve a terrorveszélyhelyzettel kapcsolatos közlendőket,
 
@@ -6,4 +6,4 @@ b) terrortámadás jelentős és közvetlen veszélye, terrortámadás bekövetk
 
 c) végrehajtja a kijelölt katonai szervezettel kötött együttműködési megállapodásban foglaltakat.
 
-[^164]: A 76/A. §-t a 281/2018. (XII. 21.) Korm. rendelet 9. §-a iktatta be.
+[^165]: A 76/A. §-t a 281/2018. (XII. 21.) Korm. rendelet 9. §-a iktatta be.

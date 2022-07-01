@@ -26,6 +26,6 @@ j) a műveleti tapasztalat-feldolgozó rendszer működtetéséért, a szakmai f
 
 (3) A Magyar Honvédség parancsnoka az (1) bekezdés h) pontja szerinti jogkörét a Honvédség egészségügyi főnöke útján gyakorolja.
 
-(4)[^24] A Magyar Honvédség parancsnoka szakmai irányítási jogkörét közvetlenül vagy – a (2) és (3) bekezdésen túl – a Magyar Honvédség Parancsnoksága szervezeti és működési szabályzatában kijelölt elöljáró útján gyakorolja.
+(4)[^25] A Magyar Honvédség parancsnoka szakmai irányítási jogkörét közvetlenül vagy – a (2) és (3) bekezdésen túl – a Magyar Honvédség Parancsnoksága szervezeti és működési szabályzatában kijelölt elöljáró útján gyakorolja.
 
-[^24]: A 10. § (4) bekezdése a 280/2021. (V. 26.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^25]: A 10. § (4) bekezdése a 280/2021. (V. 26.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

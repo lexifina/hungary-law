@@ -1,6 +1,6 @@
 ## 3. A honvédelmi államtitkár feladat- és hatásköre
 
-## 4. §[^20] A honvédelmi államtitkár
+## 4. §[^21] A honvédelmi államtitkár
 
 1. irányítja a lakosságnak, az anyagi javaknak és a közigazgatásnak Magyarország fegyveres védelmének felkészítésére, az ország területének védelmi célú előkészítésére, valamint a központi államigazgatási szervek, a területi és helyi védelmi igazgatási szervek, az Országgyűlési Őrség és a Hvt. szerint az egyéb honvédelemben közreműködő szervek honvédelmi igazgatási feladatokra történő felkészítését, a honvédelmi igazgatási feladatok végrehajtását és az ezekkel kapcsolatos ellenőrzések végrehajtását,
 
@@ -44,4 +44,4 @@
 
 21. irányítja a honvédelmi összekötők és a honvédelmi referensek szakmai tevékenységét, felkészítését.
 
-[^20]: A 4. § a 280/2021. (V. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A 4. § a 280/2021. (V. 26.) Korm. rendelet 2. §-ával megállapított szöveg.

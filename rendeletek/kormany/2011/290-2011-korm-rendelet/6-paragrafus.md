@@ -1,6 +1,4 @@
-## 5. §[^21]
-
-## 6. §[^22] A közigazgatási államtitkár
+## 6. §[^23] A közigazgatási államtitkár
 
 1. irányítja az állami célú légiközlekedésben bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatával összefüggő feladatok végzését,
 
@@ -42,7 +40,7 @@ c) – a költségvetési szerv tevékenységének törvényességi és szakszer
 
 d) az Áht. 9. § g)–i) pontjában
 
-## meghatározott irányítási hatásköröket,
+meghatározott irányítási hatásköröket,
 
 17. összehangolja a honvédelmi szervezetek – ide nem értve a Katonai Nemzetbiztonsági Szolgálatot – európai uniós programok támogatásával kapcsolatos feladatainak végrehajtását,
 
@@ -58,5 +56,4 @@ d) az Áht. 9. § g)–i) pontjában
 
 23. szakterületén biztosítja a Magyar Honvédség parancsnoka bevonását a minisztériumi szakmai döntés-előkészítési folyamatokba.
 
-[^21]: Az 5. §-t a 280/2021. (V. 26.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^22]: A 6. § a 280/2021. (V. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^23]: A 6. § a 280/2021. (V. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
