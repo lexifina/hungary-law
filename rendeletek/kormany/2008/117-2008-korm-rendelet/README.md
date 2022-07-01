@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-117-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-01 | 2008-117-20-22.1 | 117/2008. (IV. 30.) Korm. rendelet |
+| 2022-07-01 | 2008-117-20-22.2 | 238/2022. (VI. 30.) Korm. rendelet |
