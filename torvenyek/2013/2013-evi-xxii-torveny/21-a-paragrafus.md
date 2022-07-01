@@ -1,0 +1,1 @@
+21/A. § Felhatalmazást kap a Hivatal elnöke, hogy a hitelesített energiamegtakarításról, valamint az energiamegtakarítás jogosultjáról vezetett nyilvántartás – személyes adatnak nem minősülő – adattartalmát rendeletben állapítsa meg.

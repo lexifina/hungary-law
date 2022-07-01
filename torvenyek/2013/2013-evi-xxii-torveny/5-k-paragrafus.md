@@ -1,0 +1,7 @@
+5/K. § (1) A Hivatal online felületen – a hitelesített energiamegtakarítások nyilvántartásában – tartja nyilván az energiamegtakarításnak, valamint az energiamegtakarítás jogosultjának a Hivatal elnökének rendeletében meghatározott – személyes adatnak nem minősülő – adatait. Ezen adatokat az energiamegtakarítás Ehat. Tv. 15/A. § (4) bekezdés szerinti hitelesítését ellátó energetikai auditáló szervezet az energiamegtakarítás hitelesítését követően haladéktalanul felvezeti a Hivatal online felületén.
+
+(2) A hitelesített energiamegtakarítás jogosultjának személyében bekövetkező változást az átruházó köteles haladéktalanul bejelenteni az (1) bekezdés szerinti online felületen. A hitelesített energiamegtakarítás átruházásához a jogosult személyében bekövetkezett változásnak a nyilvántartásba való bejegyzése szükséges, az átruházás az (1) bekezdés szerinti online felületen történő bejelentéssel válik hatályossá.
+
+(3) A hitelesítést ellátó energetikai auditáló szervezet az energiamegtakarítás természetes személy jogosultjának – a személyes adatai közül – kizárólag a nevét és lakcím adatát rögzíti a hitelesített energiamegtakarítások nyilvántartásában.
+
+(4) A (3) bekezdés szerinti személyes adatot a Hivatal az Ehat. Tv. 15. § (1) bekezdése szerinti energiamegtakarítási kötelezettség teljesítése, a hitelesített energiamegtakarítással mint vagyoni értékű joggal való kereskedelem biztonsága, valamint ellenőrzési feladatainak ellátása céljából az Ehat. Tv. 12. §-ában meghatározott kötelezettségi időszak lejártát követő 5. év végéig kezeli.

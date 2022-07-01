@@ -6,7 +6,11 @@ a) engedélyköteles tevékenység engedély nélküli végzése, vagy engedély
 
 b) ha a jogsértés az energetikai ellátásbiztonságot sérti vagy veszélyezteti,
 
-c) a jogszabálysértés vagy annak következményei helyreállítására nincs lehetőség.
+c) a jogszabálysértés vagy annak következményei helyreállítására nincs lehetőség,
+
+d) az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat. Tv.) 15. § (1) bekezdése szerinti energiamegtakarítási és 15/E. § (1) bekezdése szerinti járulékfizetési kötelezettség teljesítésének elmulasztása esetén,
+
+e) az energiamegtakarításnak az Ehat. Tv. 15/D. § (7) bekezdése szerinti nem megfelelő megállapítása esetén.
 
 (2) A Hivatal a döntéseit egybefoglalhatja. Az egy okiratba foglalt döntések rendelkező részét és indokolását döntésenként önállóan kell megszövegezni. Az egybefoglalás az egyes döntések meghozatalára vonatkozó határidőket és a jogorvoslati szabályok alkalmazását nem érinti.
 
