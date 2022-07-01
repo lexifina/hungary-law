@@ -22,9 +22,9 @@ c) aki vállalja, hogy az ösztöndíj elnyerését követően ösztöndíjszerz
 
 d) aki vállalja, hogy diplomaszerzése után a pályázati felhívásban meghatározott időtartamra közösségi munkával segíti a helyi magyar diaszpórát valamely országban,
 
-e)[^7] aki korábban ugyanazon a képzési szinten nem vett részt az Ösztöndíjprogramban, és
+e)[^8] aki korábban ugyanazon a képzési szinten nem vett részt az Ösztöndíjprogramban, és
 
-f)[^8] aki vállalja a 6. § l) pontja szerinti kötelező egészségügyi protokollban foglalt kötelezettségek teljesítését.
+f)[^9] aki vállalja a 6. § l) pontja szerinti kötelező egészségügyi protokollban foglalt kötelezettségek teljesítését.
 
 (4) A pályázat benyújtásakor a pályázónak csatolnia kell egy nyilatkozatot arra vonatkozóan, hogy hozzájárul személyes adatainak a pályázati eljárás során és az Ösztöndíjprogramban való részvételének és a pályakövetés időtartama alatt, azzal összefüggésben történő kezeléséhez. A mintanyilatkozat szövegét az Ösztöndíjprogram működési szabályzata tartalmazza.
 
@@ -32,8 +32,8 @@ f)[^8] aki vállalja a 6. § l) pontja szerinti kötelező egészségügyi proto
 
 (6) Az ösztöndíjassal a fogadó intézmény ösztöndíjas szerződést köt, amely meghatározza az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket.
 
-(7)[^9] Az Nftv. 80. § (2) bekezdés h) pont hc) alpontja alapján a miniszter az általa működtetett ösztöndíjprogram keretében támogatott hallgató ösztöndíjprogramban történő részvételéhez a kötelező egészségügyi protokoll szerinti egészségügyi alkalmassági vizsgálatot ír elő.
+(7)[^10] Az Nftv. 80. § (2) bekezdés h) pont hc) alpontja alapján a miniszter az általa működtetett ösztöndíjprogram keretében támogatott hallgató ösztöndíjprogramban történő részvételéhez a kötelező egészségügyi protokoll szerinti egészségügyi alkalmassági vizsgálatot ír elő.
 
-[^7]: A 7. § (3) bekezdés e) pontja az 581/2021. (X. 12.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^8]: A 7. § (3) bekezdés f) pontját az 581/2021. (X. 12.) Korm. rendelet 12. §-a iktatta be.
-[^9]: A 7. § (7) bekezdését az 581/2021. (X. 12.) Korm. rendelet 13. §-a iktatta be.
+[^8]: A 7. § (3) bekezdés e) pontja az 581/2021. (X. 12.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^9]: A 7. § (3) bekezdés f) pontját az 581/2021. (X. 12.) Korm. rendelet 12. §-a iktatta be.
+[^10]: A 7. § (7) bekezdését az 581/2021. (X. 12.) Korm. rendelet 13. §-a iktatta be.

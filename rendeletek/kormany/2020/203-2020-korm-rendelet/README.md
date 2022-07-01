@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-203-20-
 | 2020-05-16 | 2020-203-20-22.2 | 2010: CXXX. törvény |
 | 2021-10-13 | 2020-203-20-22.3 | 581/2021. (X. 12.) Korm. rendelet |
 | 2021-12-02 | 2020-203-20-22.4 | 581/2021. (X. 12.) Korm. rendelet |
+| 2022-07-01 | 2020-203-20-22.5 | 238/2022. (VI. 30.) Korm. rendelet |

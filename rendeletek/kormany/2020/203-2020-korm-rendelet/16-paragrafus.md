@@ -1,4 +1,4 @@
-## 15. §[^16]
+## 15. §[^17]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A Diaszpóra Felsőoktatási Ösztöndíjprogram pályázat meghirdetésére első alkalommal 2020. év végéig kerül sor a 2021/2022. tanévre történő felvételi jelentkezés érdekében.
 
-[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

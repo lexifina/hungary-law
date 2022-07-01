@@ -14,13 +14,13 @@ f) az ösztöndíjas jogviszony, valamint a felsőoktatási tanulmányok szünet
 
 g) a magyar nyelv tanulásának kötelezettségét;
 
-h)[^10] a helyi diaszpórát segítő közösségi munka időtartamát és
+h)[^11] a helyi diaszpórát segítő közösségi munka időtartamát és
 
-i)[^11] a 6. § l) pontja szerinti kötelező egészségügyi protokollban foglalt kötelezettségeket.
+i)[^12] a 6. § l) pontja szerinti kötelező egészségügyi protokollban foglalt kötelezettségeket.
 
 (2) Az ösztöndíjas szerződés – a 8. § (2) és 9. § (3) bekezdésében, valamint az Nftv. 59. § (1) bekezdés a) pontjában foglalt kivétellel – megszűnik, ha az ösztöndíjas hallgatói jogviszonya megszűnik.
 
 (3) Doktori képzésben abszolutóriumot szerzett, de doktori fokozatot még nem szerzett ösztöndíjasnak az ösztöndíjas szerződése és jogviszonya szünetel, a doktori fokozat megszerzése hiányában 1 év után megszűnik. Ha az erre vonatkozó külön pályázati eljárásban ösztöndíjat nyer, az abszolutórium megszerzését követően legfeljebb 12 hónapra szóló ösztöndíjban részesíthető.
 
-[^10]: A 9. § (1) bekezdés h) pontja az 581/2021. (X. 12.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
-[^11]: A 9. § (1) bekezdés i) pontját az 581/2021. (X. 12.) Korm. rendelet 14. §-a iktatta be.
+[^11]: A 9. § (1) bekezdés h) pontja az 581/2021. (X. 12.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^12]: A 9. § (1) bekezdés i) pontját az 581/2021. (X. 12.) Korm. rendelet 14. §-a iktatta be.
