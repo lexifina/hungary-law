@@ -1,3 +1,3 @@
-## 11–13. §[^28]
+## 11–13. §[^32]
 
-[^28]: A 11–13. §-t az 518/2017. (XII. 29.) Korm. rendelet 38. §-a hatályon kívül helyezte.
+[^32]: A 11–13. §-t az 518/2017. (XII. 29.) Korm. rendelet 38. §-a hatályon kívül helyezte.

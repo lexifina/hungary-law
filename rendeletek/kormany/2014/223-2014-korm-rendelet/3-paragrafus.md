@@ -18,7 +18,7 @@ g) ellátja a közműves vízellátással és szennyvízkezeléssel kapcsolatos 
 
 h) végzi a vízügyi tárgyú nemzetközi kapcsolatok koordinálásával kapcsolatos feladatokat,
 
-i) végzi az egyes európai uniós források felhasználásával megvalósuló vízügyi projektek tervezésével, a források felhasználásával megvalósuló központi, pályázati, valamint kiemelt kormányzati projektek megvalósításával kapcsolatos feladatokat,
+i)[^3] közreműködik az egyes európai uniós források felhasználásával megvalósuló vízügyi projektek tervezésével, a források felhasználásával megvalósuló központi, pályázati, valamint kiemelt kormányzati projektek megvalósításával kapcsolatos feladatok ellátásában,
 
 j) ellátja az egyéb, jogszabály vagy a miniszter által a feladatkörébe utalt feladatokat.
 
@@ -30,7 +30,7 @@ b) a területi vízügyi igazgatóságok fenntartásában, üzemeltetésében l�
 
 c) a területi vízügyi igazgatóságok felszíni és a felszín alatti vízkészletekkel való gazdálkodását,
 
-d)[^3] a távlati ivóvízbázisokkal kapcsolatos vízügyi igazgatósági feladatellátást,
+d)[^4] a távlati ivóvízbázisokkal kapcsolatos vízügyi igazgatósági feladatellátást,
 
 e) a VIZIR működtetésével kapcsolatos területi vízügyi igazgatósági feladatellátást, gondoskodva a más információs rendszerekkel történő országos és nemzetközi adatcseréről, valamint adatszolgáltatásról,
 
@@ -76,12 +76,13 @@ m) közreműködik a vízgazdálkodási szakterületi feladatok ellátását tá
 
 n) háttéranyagokat, helyzetelemzéseket, felméréseket és statisztikai elemzéseket készít szakterületi stratégiák és tervek kialakításához, valamint egyedi döntésekhez.
 
-o)[^4] ellátja a Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló jogszabály végrehajtásával kapcsolatos feladatkörébe tartozó feladatokat,
+o)[^5] ellátja a Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló jogszabály végrehajtásával kapcsolatos feladatkörébe tartozó feladatokat,
 
-p)[^5] ellátja a vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról szóló jogszabály végrehajtásával kapcsolatos feladatkörébe utalt feladatokat.
+p)[^6] ellátja a vizek többletéből eredő kockázattal érintett területek meghatározásáról, a veszély- és kockázati térképek, valamint a kockázatkezelési tervek készítéséről, tartalmáról szóló jogszabály végrehajtásával kapcsolatos feladatkörébe utalt feladatokat.
 
 [^1]: A 3. § (1) bekezdés b) pontját a 352/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
 [^2]: A 3. § (1) bekezdés f) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 35/2020. (III. 5.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^3]: A 3. § (2) bekezdés d) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^4]: A 3. § (4) bekezdés o) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^5]: A 3. § (4) bekezdés p) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^3]: A 3. § (1) bekezdés i) pontja a 238/2022. (VI. 30.) Korm. rendelet 144. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (2) bekezdés d) pontja a 366/2015. (XII. 2.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (4) bekezdés o) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^6]: A 3. § (4) bekezdés p) pontját a 366/2015. (XII. 2.) Korm. rendelet 11. § (3) bekezdése iktatta be.

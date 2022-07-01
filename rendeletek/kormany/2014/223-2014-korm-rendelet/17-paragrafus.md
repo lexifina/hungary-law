@@ -22,10 +22,10 @@ h) a Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság az Észak-
 
 i) a Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság a Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség,
 
-j)[^30] a Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság az Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség
+j)[^34] a Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság az Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség
 
 ## jogutódja.
 
 (3) A Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság az illetékességi területét érintő vízvédelmi hatósági és szakhatósági feladatkörében jogutódja az Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőségnek, a Békés Megyei Katasztrófavédelmi Igazgatóság pedig a Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőségnek.
 
-[^30]: A 17. § (2) bekezdés j) pontja a 371/2020. (VII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^34]: A 17. § (2) bekezdés j) pontja a 371/2020. (VII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
