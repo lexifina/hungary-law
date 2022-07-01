@@ -12,10 +12,10 @@ d) gép, berendezés beszerzése vagy cseréje esetében a gép, berendezés meg
 
 e) az építési-szerelési munka leírását, anyagjellemzőit, méretét vagy mennyiségét és a vonatkozó jogszabály, nemzeti szabvány vagy a szakma szabályai szerint az elért energiamegtakarítás számítását,
 
-f)[^8] a beépített új berendezésre vonatkozó európai uniós vagy magyarországi hatályos energiahatékonysági követelmény feltüntetését (különösen az energiával kapcsolatos termékek környezettudatos tervezésére vonatkozó követelmények megállapítási kereteinek létrehozásáról szóló, 2009. október 21-i 2009/125/EK európai parlamenti és tanácsi irányelv alapján elfogadott végrehajtási intézkedésekben szereplő minimumkövetelmények), vagy ilyen követelmény hiányának egyértelmű megállapítását,
+f)[^10] a beépített új berendezésre vonatkozó európai uniós vagy magyarországi hatályos energiahatékonysági követelmény feltüntetését (különösen az energiával kapcsolatos termékek környezettudatos tervezésére vonatkozó követelmények megállapítási kereteinek létrehozásáról szóló, 2009. október 21-i 2009/125/EK európai parlamenti és tanácsi irányelv alapján elfogadott végrehajtási intézkedésekben szereplő minimumkövetelmények), vagy ilyen követelmény hiányának egyértelmű megállapítását,
 
 g) a megvalósított intézkedésre vonatkozó jogszabály, nemzeti szabvány, nemzetközi szabvány, műszaki irányelv, ágazati műszaki irányelv vagy egyéb műszaki dokumentum megjelölését, amelynek figyelembevételével az elért energiamegtakarítás számítható,
 
 h) az energiamegtakarítás kiszámítási módszerének részletes ismertetését az energiahatékonysági irányelv értelmében előírt energiamegtakarítási kötelezettségek átültetéséről szóló, 2019. szeptember 25-i (EU) 2019/1658 bizottsági ajánlás figyelembevételével.
 
-[^8]: A 4. § f) pontja az 5/2021. (V. 12.) MEKH rendelet 4. §-ával megállapított szöveg.
+[^10]: A 4. § f) pontja az 5/2021. (V. 12.) MEKH rendelet 4. §-ával megállapított szöveg.
