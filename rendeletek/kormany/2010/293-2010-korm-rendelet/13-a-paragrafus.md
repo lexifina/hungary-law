@@ -26,7 +26,7 @@ e) értékelő-elemző esettanulmányok készítésével elősegíti a korrupci�
 
 f) javaslatot tesz az integritás tanácsadó szakirányú továbbképzés, valamint a korrupciómegelőzés, integritás és hivatásetika témájú közszolgálati és rendészeti képzések és továbbképzések képzési tematikájának kialakítására;
 
-g) a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.) Korm. rendelet 19. § (5) bekezdése szerinti ellenőrzési terv összeállítására vonatkozóan előkészíti a rendészetért felelős miniszter javaslatát;
+g)[^13] a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet 40. § (5) bekezdése szerinti ellenőrzési terv összeállítására vonatkozóan előkészíti a rendészetért felelős miniszter javaslatát;
 
 h) részt vesz a nemzetközi együttműködésből, nemzetközi egyezményekből eredő feladatok teljesítésében, jelentési és képviseleti kötelezettségek ellátásában;
 
@@ -34,3 +34,4 @@ i) előkészíti a korrupcióellenes kommunikációs szakmai anyagokat.
 
 [^11]: Az 5/A. alcímet (13/A. §) a 221/2014. (IX. 4.) Korm. rendelet 497. §-a iktatta be.
 [^12]: A 13/A. § a 187/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 13/A. § g) pontja a 238/2022. (VI. 30.) Korm. rendelet 96. § a) pontja szerint módosított szöveg.
