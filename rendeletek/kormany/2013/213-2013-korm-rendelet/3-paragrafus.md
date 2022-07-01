@@ -1,4 +1,4 @@
-## 3. §[^15] A KNPA Szakbizottság értékelést végez és előzetes állásfoglalást alakít ki a Központi Nukleáris Pénzügyi Alappal rendelkező miniszter döntéséhez
+## 3. §[^17] A KNPA Szakbizottság értékelést végez és előzetes állásfoglalást alakít ki a Központi Nukleáris Pénzügyi Alappal rendelkező miniszter döntéséhez
 
 a) a Központi Nukleáris Pénzügyi Alap (a továbbiakban: KNPA) tevékenységével összefüggő költségbecslések;
 
@@ -10,4 +10,4 @@ d) a KNPA működésével és felhasználásával kapcsolatos, a radioaktív hul
 
 e) a nemzeti politika és a nemzeti program
 
-[^15]: A 3. § nyitó szövegrésze a 767/2021. (XII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^17]: A 3. § nyitó szövegrésze a 767/2021. (XII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
