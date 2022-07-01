@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-316-20-
 | 2018-10-01 | 2013-316-20-22.15 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2020-01-01 | 2013-316-20-22.16 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2020-08-31 | 2013-316-20-22.17 | 418/2020. (VIII. 30.) Korm. rendelet |
+| 2022-07-01 | 2013-316-20-22.18 | 238/2022. (VI. 30.) Korm. rendelet |

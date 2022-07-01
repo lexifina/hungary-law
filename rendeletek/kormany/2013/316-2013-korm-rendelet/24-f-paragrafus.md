@@ -1,9 +1,9 @@
-## 24/E. §[^64] Az 528/2012/EU európai parlamenti és tanácsi rendelet V. Melléklete szerinti 4. terméktípusba tartozó termékek az országos tisztifőorvos által kiadott engedély birtokában hozhatók forgalomba. Az engedély iránti kérelemhez a kérelmező csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet szakvéleményét. A kérelemnek a 2. melléklet 5. pontja szerinti adatokat kell tartalmaznia.
+## 24/E. §[^65] Az 528/2012/EU európai parlamenti és tanácsi rendelet V. Melléklete szerinti 4. terméktípusba tartozó termékek az országos tisztifőorvos által kiadott engedély birtokában hozhatók forgalomba. Az engedély iránti kérelemhez a kérelmező csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet szakvéleményét. A kérelemnek a 2. melléklet 5. pontja szerinti adatokat kell tartalmaznia.
 
-24/F. §[^65] (1)[^66] Az 528/2012/EU európai parlamenti és tanácsi rendelet V. Melléklete szerinti 3., 18. és 19. terméktípusba tartozó, az állatgyógyászati termékekről szóló rendelet szerinti állategészségügyi biocid termék forgalomba hozatalát – azok valamennyi hatóanyaga jóváhagyásának napjáig – a NÉBIH engedélyezi és határozatát közli az országos tisztifőorvossal.
+24/F. §[^66] (1)[^67] Az 528/2012/EU európai parlamenti és tanácsi rendelet V. Melléklete szerinti 3., 18. és 19. terméktípusba tartozó, az állatgyógyászati termékekről szóló rendelet szerinti állategészségügyi biocid termék forgalomba hozatalát – azok valamennyi hatóanyaga jóváhagyásának napjáig – a NÉBIH engedélyezi és határozatát közli az országos tisztifőorvossal.
 
 (2) Az 528/2012/EU európai parlamenti és tanácsi rendelet V. Melléklete szerinti 3., 4., 5., 18. és 19. terméktípusba tartozó, az állatgyógyászati termékekről szóló rendelet szerint állategészségügyi biocidnak nem minősülő termék felhasználhatóságával összefüggő határozatát az országos tisztifőorvos közli a NÉBIH-hel.
 
-[^64]: A 24/E. §-t az 507/2017. (XII. 29.) Korm. rendelet 44. §-a iktatta be.
-[^65]: A 24/F. §-t az 507/2017. (XII. 29.) Korm. rendelet 44. §-a iktatta be.
-[^66]: A 24/F. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 119. § (3) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^65]: A 24/E. §-t az 507/2017. (XII. 29.) Korm. rendelet 44. §-a iktatta be.
+[^66]: A 24/F. §-t az 507/2017. (XII. 29.) Korm. rendelet 44. §-a iktatta be.
+[^67]: A 24/F. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 119. § (3) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
