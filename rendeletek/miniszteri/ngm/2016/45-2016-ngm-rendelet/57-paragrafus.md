@@ -14,7 +14,7 @@ b) az Észak-atlanti Szerződés részes államainak és az 1995. évi CII. tör
 
 (4) Az üzemanyagtöltő ponton a repülőgép-üzemanyag átvétele és légijárműbe történő töltése során hitelesített átfolyásmérőt kell alkalmazni.
 
-(5)[^77] A Jöt. 9. § (1) bekezdés n) pontja szerinti kiszolgálás, felhasználás esetén a Honvédelmi Minisztérium adóraktári engedéllyel rendelkező, vám- és határforgalmi feladatok végrehajtásáért felelős szervezeti egysége a jövedéki termék kiszolgálását az (1) bekezdés b) pontja szerinti bizonylattal dokumentálva számolja el.
+(5)[^77] A Jöt. 9. § (1) bekezdés n) és o) pontja szerinti kiszolgálás, felhasználás esetén a Honvédelmi Minisztérium adóraktári engedéllyel rendelkező, vám- és határforgalmi feladatok végrehajtásáért felelős szervezeti egysége a jövedéki termék kiszolgálását az (1) bekezdés b) pontja szerinti vagy a közös biztonság- és védelempolitika keretében folytatott uniós tevékenység során kiállított bizonylattal dokumentálva számolja el.
 
 [^76]: Az 56/A. §-t az 5/2017. (III. 30.) NGM rendelet 17. §-a iktatta be
-[^77]: Az 57. § (5) bekezdését a 47/2017. (XII. 27.) NGM rendelet 7. §-a iktatta be, szövege a 7/2021. (VII. 29.) PM rendelet 2. §-ával megállapított szöveg.
+[^77]: Az 57. § (5) bekezdését a 47/2017. (XII. 27.) NGM rendelet 7. §-a iktatta be, szövege a 7/2021. (VII. 29.) PM rendelet 2. §-ával megállapított, a 3. § 3. pontja szerint módosított szöveg.

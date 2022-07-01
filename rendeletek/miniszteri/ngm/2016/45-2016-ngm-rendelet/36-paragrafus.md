@@ -58,7 +58,7 @@ ed) a címzett engedélyszámát (ha engedélyes).
 
 (2b)[^49] Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak az (1) bekezdés e) pontja szerinti adatokat, ha az engedélyes a Jöt. 24. § (1) bekezdése és a Jöt. 24. § (4) bekezdés b) pontja szerinti adatszolgáltatásában szerepelteti az (1) bekezdés e) pontja szerinti adatokat, és az engedélyes nyilvántartásában a bizonylat azonosító számához rendelt információkból ellenőrzéskor megállapítható a termék készlettípusa és mennyisége (az adó alapjául szolgáló mennyiségi egységben), a készletváltozás jogcímkódja és a termék fajtakódja.
 
-(2c)[^50] Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak az (1) bekezdés d) pontja szerinti azon adatokat, amelyeket az adóraktár engedélyese a Jöt. 9. § (1) bekezdés n) pontja szerinti jövedéki termék kiszolgálása során nem ismer, ha az e bekezdés szerinti tevékenységre történő utalást az (1) bekezdés c) pont cc) alpontja szerinti adat egyértelműen tartalmazza.
+(2c)[^50] Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak az (1) bekezdés d) pontja szerinti azon adatokat, amelyeket az adóraktár engedélyese a Jöt. 9. § (1) bekezdés n) és o) pontja szerinti jövedéki termék kiszolgálása során nem ismer, ha az e bekezdés szerinti tevékenységre történő utalást az (1) bekezdés c) pont cc) alpontja szerinti adat egyértelműen tartalmazza.
 
 (3)[^51] A Jöt. 9. § (1) bekezdés a) pontja szerinti adóraktár engedélyese – abban az esetben is, ha az utas úti célja tagállam – által az értékesítésről kiállított bizonylatnak az (1) bekezdéstől eltérően a termék kereskedelmi megnevezését, kereskedelmi mennyiségét és cikkszámát, valamint a beszállókártya számát kell tartalmaznia, ha az engedélyes nyilvántartásában ezen adatokhoz rendelt információkból ellenőrzéskor megállapítható a termék készlettípusa, a készletváltozás jogcímkódja és a termék fajtakódja.
 
@@ -89,7 +89,7 @@ f) az (1) bekezdés szerinti bizonylat azonosító számát.
 [^47]: A 36. § (1) bekezdés c) pont cc) alpontja az 5/2017. (III. 30.) NGM rendelet 12. § (1) bekezdésével megállapított, a 7/2021. (VII. 29.) PM rendelet 3. § 1. pontja szerint módosított szöveg.
 [^48]: A 36. § (2a) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (2) bekezdése iktatta be.
 [^49]: A 36. § (2b) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (2) bekezdése iktatta be.
-[^50]: A 36. § (2c) bekezdését a 7/2021. (VII. 29.) PM rendelet 1. §-a iktatta be.
+[^50]: A 36. § (2c) bekezdését a 7/2021. (VII. 29.) PM rendelet 1. §-a iktatta be, szövege a 3. § 2. pontja szerint módosított szöveg.
 [^51]: A 36. § (3) bekezdése az 5/2017. (III. 30.) NGM rendelet 12. § (3) bekezdésével megállapított szöveg.
 [^52]: A 36. § (5a) bekezdését az 5/2017. (III. 30.) NGM rendelet 12. § (4) bekezdése iktatta be.
 [^53]: A 36. § (7) bekezdése az 5/2017. (III. 30.) NGM rendelet 12. § (5) bekezdésével megállapított szöveg.
