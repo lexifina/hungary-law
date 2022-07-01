@@ -8,7 +8,7 @@
 
 | 1. | Kiemelt állami turisztikai beruházás, egyéb kiemelt turisztikai jelentőségű állami ingatlan | Beruházási helyszín azonosító adatai (ingatlan-nyilvántartás szerinti helyrajzi szám) |
 
-| 2. | A Fertő tavi vízitelep fejlesztése | Sopron külterület 01164/2 helyrajzi számú ingatlan „a” és „c” alrészlete, 01164/3 helyrajzi számú ingatlan, 01164/4 helyrajzi számú ingatlan „a” alrészlete, 01164/5 helyrajzi számú ingatlan, 01164/6 helyrajzi számú ingatlan „b” és „d” alrészlete, 01164/7 helyrajzi számú ingatlan, 01164/8 helyrajzi számú ingatlan „a, b, f, g és k” alrészlete, 01164/10, 01164/12, 01164/13, 01164/14 helyrajzi számú ingatlanok, 01164/15 helyrajzi számú ingatlan „a” alrészlete, 01164/16, 01164/17, 01164/18 helyrajzi számú ingatlanok, 01164/19 helyrajzi számú ingatlan „a” alrészlete, 01164/20 helyrajzi számú ingatlan „a, b és c” alrészlete |
+| 2. | A Fertő tavi vízitelep fejlesztése | Sopron külterület 01164/2 helyrajzi számú ingatlan “a” és “c” alrészlete, 01164/3 helyrajzi számú ingatlan, 01164/4 helyrajzi számú ingatlan “a” alrészlete, 01164/5 helyrajzi számú ingatlan, 01164/6 helyrajzi számú ingatlan “b” és “d” alrészlete, 01164/7 helyrajzi számú ingatlan, 01164/8 helyrajzi számú ingatlan “a, b, f, g és k” alrészlete, 01164/10, 01164/12, 01164/13, 01164/14 helyrajzi számú ingatlanok, 01164/15 helyrajzi számú ingatlan “a” alrészlete, 01164/16, 01164/17, 01164/18 helyrajzi számú ingatlanok, 01164/19 helyrajzi számú ingatlan “a” alrészlete, 01164/20 helyrajzi számú ingatlan “a, b és c” alrészlete |
 
 | 3. | Lővérek program nemzeti konferencia központ | Sopron belterület 7020/2, 7022, 7023/1 és 7023/2 helyrajzi számú ingatlanok |
 
@@ -18,7 +18,7 @@
 
 | 6. | Nagycenki Széchenyi- kastélyegyüttes és ahhoz kapcsolódó területek | Nagycenk belterület 550/6, 558, 559, 648/2, 658/1, 658/2, 658/4, 658/5, 658/6, 660 és 673 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel, valamint Nagycenk külterület 0186/2 és 0186/4 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
 
-| 7. | Nagycenki Széchenyi-kastély parkjának részét képező Hársfasor | Nagycenk külterület 0159/1 helyrajzi számú ingatlan kapcsolódó vagyonelemekkel, valamint Hidegség külterület 072 helyrajzi számú ingatlan, 073/1 helyrajzi számú ingatlan „a” alrészlete, 074, 089, 090, 091, 092, 093 és 094 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
+| 7. | Nagycenki Széchenyi-kastély parkjának részét képező Hársfasor | Nagycenk külterület 0159/1 helyrajzi számú ingatlan kapcsolódó vagyonelemekkel, valamint Hidegség külterület 072 helyrajzi számú ingatlan, 073/1 helyrajzi számú ingatlan “a” alrészlete, 074, 089, 090, 091, 092, 093 és 094 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
 
 | 8. | Fertőrákosi Püspöki Palota | Fertőrákos belterület 875, 876 és 877 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
 
@@ -28,7 +28,7 @@
 
 | 1. | Kiemelt állami turisztikai beruházás, egyéb kiemelt turisztikai jelentőségű állami ingatlan | Beruházási helyszín azonosító adatai (ingatlan-nyilvántartás szerinti helyrajzi szám) |
 
-| 2. | Ranolder-villa | Csopak külterület 031/7, 031/8, 031/9, 031/10, 031/11 és 031/12 helyrajzi számú ingatlan |
+| 2. |  |  |
 
 | 3. | Festetics-kastélyegyüttes és parkja | Keszthely belterület 1687/1, 1687/2, 1687/3, 1687/4, 1690/1, 1690/3, 1690/10, 1725/5, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010/1, 2010/2, 2010/3, 2010/4, 2010/5, 2010/6, 2010/7, 2011 és 2450 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel, valamint Keszthely külterület 0147/2 helyrajzi számú ingatlan kapcsolódó vagyonelemekkel |
 
@@ -36,7 +36,7 @@
 
 | 5. | Fenékpuszta műemléki együttes | Keszthely külterület 0415/2, 0415/12, 0416/15, 0418/2, 0418/3, 0420/2, 0420/3, 0420/4, 0420/5, 0420/6, 0420/7, 0421/1, 0421/2, 0421/3, 0421/5, 0421/6, 0425/3, 0454, 0455, 0456, 0458/2, 0462/3 és 0462/4 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
 
-| 6. | Fenyves allé | Keszthely külterület 0227, 0239, 0250/1, 0250/2 helyrajzi számú ingatlanok, 0254/7 helyrajzi számú ingatlan „d” és „j” alrészletei kapcsolódó vagyonelemekkel |
+| 6. | Fenyves allé | Keszthely külterület 0227, 0239, 0250/1, 0250/2 helyrajzi számú ingatlanok, 0254/7 helyrajzi számú ingatlan “d” és “j” alrészletei kapcsolódó vagyonelemekkel |
 
 | 7. | Majorsági épületegyüttes | Szántód belterület 936, 937, 938, 939, 944, 945, 948, 949 és 950 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
 
@@ -44,4 +44,4 @@
 
 3.
 
-[^3]: A 2. melléklet a 633/2020. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 424/2021. (VII. 15.) Korm. rendelet 2. §-a, az 593/2021. (X. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 633/2020. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 424/2021. (VII. 15.) Korm. rendelet 2. §-a, az 593/2021. (X. 27.) Korm. rendelet 3. §-a, a 239/2022. (VI. 30.) Korm. rendelet 46. §-a szerint módosított szöveg.
