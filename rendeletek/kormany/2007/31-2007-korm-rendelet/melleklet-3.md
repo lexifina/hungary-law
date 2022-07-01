@@ -26,7 +26,7 @@
 
 | 12. | NNK | Pollen-veszélyeztetettség | 4.5. | évente | település | március 1. |
 
-| 13. | ITM | Munkanélküliségi adatok | 2.2.3. | havonta | település | frissítést követő 30. nap |
+| 13. | TIM | Munkanélküliségi adatok | 2.2.3. | havonta | település | frissítést követő 30. nap |
 
 | 14. | AM | Nitrát-érzékenységi térkép | 4.6. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -40,7 +40,7 @@
 
 | 19. | MÁK | Helyi adók mértéke | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 20. | ITM | Az országos közúthálózathoz tartozó szöveges adatok: – a közút száma és nemzetközi útszáma, – a közút kategóriája, – forgalomszámlálási adatok | 3.1.1. | frissítést követően | objektum | frissítést követő 90. nap |
+| 20. | TIM | Az országos közúthálózathoz tartozó szöveges adatok: – a közút száma és nemzetközi útszáma, – a közút kategóriája, – forgalomszámlálási adatok | 3.1.1. | frissítést követően | objektum | frissítést követő 90. nap |
 
 | 21. | kulturális örökség védelméért felelős miniszter | Műemlékek és régészeti lelőhelyek településenként számszerűsített kimutatása | 4.10.1. és 4.10.4. | frissítést követően | település | frissítést követő 90. nap |
 
@@ -72,7 +72,7 @@
 
 | 35 | AM | Zajtérképek | 4.9.2. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 36. | ITM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 36. | TIM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 37. | AM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -92,11 +92,11 @@
 
 | 45. | ATK TAKI | Agrotopográfiai térkép | 4.6. | frissítést követően | objektum | frissítést követő 90. nap |
 
-| 46. | ITM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
+| 46. | TIM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
 | 47. | ME | Egységes Monitoring Információs Rendszer (EMIR), Fejlesztéspolitikai Adatbázis és Információs Rendszer (FAIR) | 5.2. | negyedévente | projekt | frissítést követő 15. nap |
 
-| 48. | ITM | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 48. | TIM | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 49. | OH | Felsőoktatási felvételi adatok | 2.4.4. | évente vagy frissítést követően | középfokú oktatási intézmény | frissítést követő 90. nap |
 
@@ -186,7 +186,7 @@
 
 | 11. | Miniszterelnöki Kabinetiroda | MK |
 
-| 12. | Innovációs és Technológiai Minisztérium | ITM |
+| 12. | Technológiai és Ipari Minisztérium | TIM |
 
 | 13. | Központi Statisztikai Hivatal | KSH |
 

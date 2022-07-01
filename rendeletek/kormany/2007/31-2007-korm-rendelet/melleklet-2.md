@@ -50,7 +50,7 @@
 
 | 24. | 2.2. | Humán erőforrások tényezői |  |
 
-| 25. | 2.2.1. | Képzettség | oktatásért felelős miniszter szakképzésért felelős miniszter felnőttképzésért felelős miniszter |
+| 25. | 2.2.1. | Képzettség | köznevelésért felelős miniszter szakképzésért felelős miniszter felsőoktatásért felelős miniszter felnőttképzésért felelős miniszter |
 
 | 26. | 2.2.2. | Foglalkoztatottság | foglalkoztatáspolitikáért felelős miniszter |
 
@@ -72,7 +72,7 @@
 
 | 35. | 2.4.3. | Nyugellátás, szociális támogatások | Magyar Államkincstár |
 
-| 36. | 2.4.4. | Közoktatás, felsőoktatás, szakképzés | oktatásért felelős miniszter felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter szakképzésért felelős miniszter |
+| 36. | 2.4.4. | Köznevelés, szakképzés, felsőoktatás | köznevelésért felelős miniszter |
 
 | 37. | 2.4.5. | Kulturális szolgáltatások | kultúráért felelős miniszter |
 
@@ -172,4 +172,4 @@
 
 2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^63]
 
-[^63]: A 2. számú melléklet a 157/2022. (IV. 19.) Korm. rendelet 7. § b) pontjával megállapított szöveg.
+[^63]: A 2. számú melléklet a 157/2022. (IV. 19.) Korm. rendelet 7. § b) pontjával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 45. § (1) bekezdés b) pontja éa (2) bekezdése szerint módosított szöveg.

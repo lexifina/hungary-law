@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-31-20-2
 | 2021-07-16 | 2007-31-20-22.29 | 343/2016. (XI. 17.) Korm. rendelet |
 | 2022-01-01 | 2007-31-20-22.30 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2022-04-25 | 2007-31-20-22.31 | 157/2022. (IV. 19.) Korm. rendelet |
+| 2022-07-01 | 2007-31-20-22.32 | 157/2022. (IV. 19.) Korm. rendelet |
