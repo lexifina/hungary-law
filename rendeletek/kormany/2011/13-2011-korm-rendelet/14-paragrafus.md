@@ -1,6 +1,6 @@
 ## 10. Az exportengedély iránti kérelem elbírálása
 
-14. § (1)[^42] A Kormányhivatal az engedélyeket a külpolitikáért felelős miniszter állásfoglalása alapján és – a kérelem tárgyától függően – az iparügyekért felelős miniszter, a rendészetért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a Nemzeti Adó- és Vámhivatal, az Információs Hivatal, az Alkotmányvédelmi Hivatal, az Országos Atomenergia Hivatal, a Katonai Nemzetbiztonsági Szolgálat és a Nemzetbiztonsági Szakszolgálat vezetője véleményének ismeretében adja ki.
+14. § (1)[^42] A Kormányhivatal az engedélyeket a külpolitikáért felelős miniszter állásfoglalása alapján és – a kérelem tárgyától függően – az iparügyekért felelős miniszter, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a Nemzeti Adó- és Vámhivatal, az Információs Hivatal, az Alkotmányvédelmi Hivatal, az Országos Atomenergia Hivatal, a Katonai Nemzetbiztonsági Szolgálat és a Nemzetbiztonsági Szakszolgálat vezetője véleményének ismeretében adja ki.
 
 (2)[^43] Amennyiben a külpolitikáért felelős miniszter megtagadja a hozzájárulást, a Kormányhivatal kezdeményezheti az (1) bekezdésben szereplők véleményegyeztető-ülésének összehívását.
 
@@ -8,6 +8,6 @@
 
 (4)[^44] Az Egyedi Exportengedélyben és a Globális Exportengedélyben a termék kiszállítására vonatkozóan a Kormányhivatal a kérelem tárgyára vonatkozó összes körülmény figyelembevételével eseti feltételeket határozhat meg.
 
-[^42]: A 14. § (1) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^42]: A 14. § (1) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 239/2022. (VI. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^43]: A 14. § (2) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 7. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^44]: A 14. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja, a 80/2018. (IV. 20.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
