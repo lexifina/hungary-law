@@ -2,9 +2,9 @@ A Kormány
 
 1. a gazdaság újraindítása és élénkítése, valamint a hazai mikrovállalkozások versenyképességének növelése érdekében egyetért a Széchenyi Kártya Program keretében a Széchenyi Mikrohitel Konstrukció 2021. szeptemberi bevezetésével;
 
-2. egyetért a Széchenyi Mikrohitel Konstrukció keretében nyújtott hitelekhez kamattámogatás biztosításával, azzal, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve a 0,5%-os mértéket;
+2.[^1] egyetért a Széchenyi Mikrohitel Konstrukció keretében nyújtott hitelekhez kamattámogatás biztosításával, azzal, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve a 1%-os mértéket;
 
-3.[^1] egyetért azzal, hogy a Széchenyi Mikrohitel Konstrukció keretében nyújtott hitelek kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve a 10,5%-os mértéket;
+3.[^2] egyetért azzal, hogy a Széchenyi Mikrohitel Konstrukció keretében nyújtott hitelek kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve a 14,0%-os mértéket;
 
 4. felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a Széchenyi Mikrohitel Konstrukció mindenkor hatályos kamattámogatás mértékének a hatályos Üzletszabályzatában történő rögzítéséről;
 
@@ -38,4 +38,5 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: e határozat közzétételét követően azonnal
 
-[^1]: A 3. pont az 1979/2021. (XII. 27.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1298/2022. (VI. 20.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1298/2022. (VI. 20.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
