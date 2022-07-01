@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-121-20-
 | --- | --- | --- |
 | 2018-07-11 | 2018-121-20-22.1 | 121/2018. (VII. 10.) Korm. rendelet |
 | 2018-11-18 | 2018-121-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-01 | 2018-121-20-22.3 | 238/2022. (VI. 30.) Korm. rendelet |
