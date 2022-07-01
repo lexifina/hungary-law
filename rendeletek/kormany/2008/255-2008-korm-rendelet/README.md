@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-255-20-
 | 2014-09-05 | 2008-255-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2017-01-01 | 2008-255-20-22.9 | 63/2014. (III. 6.) Korm. rendelet |
 | 2017-12-01 | 2008-255-20-22.10 | 314/2017. (X. 31.) Korm. rendelet |
+| 2022-07-01 | 2008-255-20-22.11 | 238/2022. (VI. 30.) Korm. rendelet |
