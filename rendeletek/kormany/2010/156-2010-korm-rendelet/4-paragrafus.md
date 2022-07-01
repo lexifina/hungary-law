@@ -1,4 +1,4 @@
-## 3. §[^2] A szerződés hiteles szövege és annak hivatalos magyar nyelvű fordítása a következő:
+## 3. §[^3] A szerződés hiteles szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
 ## „Agreement concerning the Central European Exchange Programme for University Studies („CEEPUS III”)
 
@@ -190,7 +190,7 @@
 
 ## the Slovak Republic
 
-## the Republic of Slovenia”
+## the Republic of Slovenia
 
 ## „Egyezmény a Közép-európai Felsőoktatási Csereprogramról („CEEPUS III.”)
 
@@ -388,12 +388,13 @@
 
 4. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2) A 2. § és a 3. §, valamint az 5. § (2) bekezdése a szerződés 10. cikkében meghatározott időpontban lép hatályba.[^3]
+(2) A 2. § és a 3. §, valamint az 5. § (2) bekezdése a szerződés 10. cikkében meghatározott időpontban lép hatályba.[^4]
 
-(3) A szerződés, valamint a 2. §, a 3. §, és az 5. § (2) bekezdése hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+(3) A szerződés, valamint a 2. §, a 3. §, és az 5. § (2) bekezdése hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^5]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter gondoskodik.
+(4)[^6] E rendelet végrehajtásához szükséges intézkedésekről a felsőoktatásért felelős miniszter gondoskodik.
 
-[^2]: A 3. § a 4. § (2) bekezdése alapján a szerződés 10. cikkében meghatározott időpontban lép hatályba. Az 1/2012. (I. 12.) KÜM határozat alapján a hatálybalépés időpontja 2012. január 1.
-[^3]: Az 1/2012. (I. 12.) KÜM határozat alapján a hatálybalépés időpontja: 2012. január 1.
-[^4]: Lásd az 1/2012. (I. 12.) KÜM határozatot.
+[^3]: A 3. § a 4. § (2) bekezdése alapján a szerződés 10. cikkében meghatározott időpontban lép hatályba. Az 1/2012. (I. 12.) KÜM határozat alapján a hatálybalépés időpontja 2012. január 1.
+[^4]: Az 1/2012. (I. 12.) KÜM határozat alapján a hatálybalépés időpontja: 2012. január 1.
+[^5]: Lásd az 1/2012. (I. 12.) KÜM határozatot.
+[^6]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 95. §-a szerint módosított szöveg.
