@@ -65,3 +65,13 @@ a) a 22/B. § (1) bekezdés a) pontja szerinti tanúsító hatósági tevékenys
 b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
 
 c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségértékelő szervezetek által teljesítendő követelményeket.
+
+(4) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
+
+a) a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezeteket,
+
+b) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó részletes szabályokat,
+
+c) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet informatikai rendszerelemei zártsága tanúsítására vonatkozó részletes szabályokat,
+
+d) a 22/H. § szerinti tanúsítást végző szervezet nyilvántartásba vételére vonatkozó részletes szabályokat.

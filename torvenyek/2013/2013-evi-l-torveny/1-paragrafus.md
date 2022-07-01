@@ -138,6 +138,16 @@ d) a honvédelmi ágazat hatáskörébe tartozó nemzetbiztonsági védelem alá
 
 48. zárt védelem: az összes számításba vehető fenyegetést figyelembe vevő védelem.
 
+49. poszt-kvantumtitkosítás: a matematikailag valószínűsíthetően igazolható, kvantumszámítógép által megvalósított támadás ellen a hagyományos kriptográfiai alkalmazáson felüli poszt-kvantum alkalmazást, illetve megoldást nyújtó titkosítás, amely során a két végpont közötti kommunikáció felhasználásával, az adatátvitellel megosztott kulcsot hoz létre a két végfelhasználó között, anélkül, hogy a kulcsot jogosulatlan harmadik fél megismerné;
+
+50. poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet: a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnökének rendeletében meghatározott,
+
+a) a kormányzati célú hálózatokról szóló kormányrendelet szerinti igénybevételre kötelezett szervezet,
+
+b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti bank, valamint
+
+c) az 1. mellékletben meghatározott törvények hatálya alá tartozó közműszolgáltató és az 1. mellékletben meghatározott törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó közszolgáltatást nyújtó szervezet.
+
 (2)
 
 (3) E törvény alkalmazásában egy elektronikus információs rendszernek kell tekinteni adott adatkezelő vagy adatfeldolgozó által, adott cél érdekében az adatok, információk kezelésére használt eszközök – így különösen környezeti infrastruktúra, hardver, hálózat és adathordozók –, eljárások – így különösen szabályozás, szoftver és kapcsolódó folyamatok –, valamint az ezeket kezelő személyek együttesét.

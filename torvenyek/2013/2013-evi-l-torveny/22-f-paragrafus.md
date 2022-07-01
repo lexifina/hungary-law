@@ -1,0 +1,7 @@
+## III/B. Fejezet
+
+## A POSZT-KVANTUMTITKOSÍTÁS ALKALMAZÁSÁNAK SZABÁLYAI
+
+## 12/F. A poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet védelme
+
+22/F. § A poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet a jogszabályban meghatározott feladatainak ellátása körében köteles a fizikailag elkülönített helyszínei közötti kormányzati célú hálózaton, továbbá a publikus internet felületen zajló, az elektronikus hírközlési törvény szerinti szolgáltató igénybevételével vagy egyéb információs társadalommal összefüggő szolgáltatás igénybevétele esetén poszt-kvantumtitkosítás alkalmazást annak kiépítéséhez az alkalmazás nyújtására jogosult, nyilvántartásba vett szervezettől beszerezni, és a kezelésében álló hálózatain a védelmet kialakítani, annak érdekében, hogy az elektronikus úton történő információáramlás a kvantumszámítógép okozta kibertámadás ellen biztosított legyen.

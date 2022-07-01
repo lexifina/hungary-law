@@ -57,3 +57,5 @@ b) a médiaszolgáltatási és elektronikus hírközlési tevékenység esetén 
 meghatározott eltérésekkel kell alkalmazni.
 
 (8) Az e törvényben szabályozott kiberbiztonsági tanúsításra, valamint a tanúsító szervezet tevékenységére nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.
+
+(9) E törvény rendelkezéseit a poszt-kvantumtitkosítás vonatkozásában kizárólag a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetre kell alkalmazni.
