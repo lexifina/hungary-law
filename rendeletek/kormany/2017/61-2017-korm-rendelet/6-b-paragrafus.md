@@ -1,4 +1,4 @@
-6/B. §[^41] (1) A turisztikai ügynökség közreműködik a 2021–2027-es európai uniós támogatási időszak turisztikai programjainak végrehajtásában, ennek keretében az európai uniós társfinanszírozású turisztikai támogatási kérelmekkel kapcsolatban
+6/B. §[^46] (1) A turisztikai ügynökség közreműködik a 2021–2027-es európai uniós támogatási időszak turisztikai programjainak végrehajtásában, ennek keretében az európai uniós társfinanszírozású turisztikai támogatási kérelmekkel kapcsolatban
 
 a) szakpolitikai felelősként ellátja a Gazdaságfejlesztési és Innovációs Operatív Program Plusz 6. prioritás tekintetében a 256/2021. (V. 18.) Korm. rendeletben meghatározott feladatait,
 
@@ -12,4 +12,4 @@ d) részt vesz a határmenti programok kapcsán felállított határon átnyúl�
 
 (3) A turisztikai ügynökség az (1) és a (2) bekezdés szerinti hatáskörét csak annyiban gyakorolhatja, amennyiben az nem sért összeférhetetlenségre vonatkozó szabályt.
 
-[^41]: A 6/B. §-t az 579/2021. (X. 12.) Korm. rendelet 4. §-a iktatta be.
+[^46]: A 6/B. §-t az 579/2021. (X. 12.) Korm. rendelet 4. §-a iktatta be.
