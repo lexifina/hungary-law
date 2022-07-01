@@ -20,7 +20,7 @@ h) növeli az internet létezése előtti források hozzáférhetőségét a fel
 
 i) kapcsolatot tart Közép-Európa legújabb kori történetét kutató történeti és közpolitikai intézményekkel,
 
-j)[^1] működteti az 1956-os Intézet – Oral History Archívumot.
+j)[^2] működteti az 1956-os Intézet – Oral History Archívumot.
 
 (2) Az Intézet a kárpótlási hatóság hatósági feladatköréhez kapcsolódó ügyekben keletkezett iratanyag irattárazási feladatait látja el.
 
@@ -30,4 +30,4 @@ j)[^1] működteti az 1956-os Intézet – Oral History Archívumot.
 
 (5) Az Intézet főigazgatója – az adatvédelmi követelményeknek és a vonatkozó jogszabályi rendelkezéseknek megfelelően – meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba betekinthet, azokról másolatot kérhet.
 
-[^1]: A 3. § (1) bekezdés j) pontját a 129/2019. (V. 30.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 3. § (1) bekezdés j) pontját a 129/2019. (V. 30.) Korm. rendelet 1. §-a iktatta be.
