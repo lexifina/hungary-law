@@ -1,3 +1,3 @@
-## 15.[^178]
+## 15.[^183]
 
-[^178]: A 15. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^183]: A 15. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.

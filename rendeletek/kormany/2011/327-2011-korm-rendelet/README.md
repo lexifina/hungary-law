@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-327-20-
 | 2021-07-14 | 2011-327-20-22.30 | 414/2021. (VII. 13.) Korm. rendelet |
 | 2021-09-18 | 2011-327-20-22.31 | 610/2020. (XII. 18.) Korm. rendelet |
 | 2022-01-01 | 2011-327-20-22.32 | 416/2016. (XII. 14.) Korm. rendelet |
+| 2022-07-01 | 2011-327-20-22.33 | 238/2022. (VI. 30.) Korm. rendelet |

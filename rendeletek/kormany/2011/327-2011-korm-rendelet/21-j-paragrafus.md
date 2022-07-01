@@ -1,4 +1,4 @@
-21/J. § (1)[^148] Az NSZI a munkaadónak képzési célú támogatást nyújthat a rehabilitációs szolgáltatásban részesülő személy képzéséhez, ha
+21/J. § (1)[^153] Az NSZI a munkaadónak képzési célú támogatást nyújthat a rehabilitációs szolgáltatásban részesülő személy képzéséhez, ha
 
 a) a rehabilitációs szolgáltatásban részesülő személy annak eredményeként alkalmassá válhat a munkaadó munkaerőigényében megjelölt munkakör betöltésére, és a munkakör foglalkozási rehabilitációs célú munkaerő-közvetítéssel nem tölthető be, vagy
 
@@ -24,4 +24,4 @@ c) a C, D vagy E járműkategóriába vagy ezek alkategóriáiba, kombinált kat
 
 (6) A képzésen részt vevőket a munkaadó választja ki a támogatásba bevonható, rehabilitációs szolgáltatásban részesülő személyek közül.
 
-[^148]: A 21/J. § (1) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 28. pontja szerint módosított szöveg.
+[^153]: A 21/J. § (1) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 28. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 13.[^169]
+## 13.[^174]
 
-[^169]: A 13. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^174]: A 13. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.

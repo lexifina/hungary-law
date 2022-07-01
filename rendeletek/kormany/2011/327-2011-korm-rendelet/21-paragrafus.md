@@ -1,18 +1,18 @@
-21. §[^83] (1)[^84] Az Mmtv. alapján a rehabilitációs szolgáltatást önként kérő megváltozott munkaképességű személy (a továbbiakban: a rehabilitációs szolgáltatást kérő személy) a lakóhelye vagy tartózkodási helye szerint illetékes rehabilitációs hatóságnál kérheti az Mmtv. szerinti nyilvántartásba vételét.
+21. §[^88] (1)[^89] Az Mmtv. alapján a rehabilitációs szolgáltatást önként kérő megváltozott munkaképességű személy (a továbbiakban: a rehabilitációs szolgáltatást kérő személy) a lakóhelye vagy tartózkodási helye szerint illetékes rehabilitációs hatóságnál kérheti az Mmtv. szerinti nyilvántartásba vételét.
 
-(2)[^85] A rehabilitációs hatóság a rehabilitációs szolgáltatást kérő személyt nyilvántartásba veszi, és részére foglalkozási rehabilitációs szolgáltatást biztosít, ha vállalja a foglalkozási rehabilitációs szolgáltatás igénybevétele során a rehabilitációs hatósággal történő együttműködést.
+(2)[^90] A rehabilitációs hatóság a rehabilitációs szolgáltatást kérő személyt nyilvántartásba veszi, és részére foglalkozási rehabilitációs szolgáltatást biztosít, ha vállalja a foglalkozási rehabilitációs szolgáltatás igénybevétele során a rehabilitációs hatósággal történő együttműködést.
 
-(3)[^86] A rehabilitációs hatóság a 2. melléklet szerinti rehabilitációs szolgáltatások közül a kizárólag foglalkozási rehabilitációs célú munkaközvetítést kérő személyt (a továbbiakban: rehabilitációs közvetítést kérő személy) közvetítést kérőként veszi nyilvántartásba.
+(3)[^91] A rehabilitációs hatóság a 2. melléklet szerinti rehabilitációs szolgáltatások közül a kizárólag foglalkozási rehabilitációs célú munkaközvetítést kérő személyt (a továbbiakban: rehabilitációs közvetítést kérő személy) közvetítést kérőként veszi nyilvántartásba.
 
-(4)[^87] A rehabilitációs szolgáltatást kérő személy a rehabilitációs hatósággal történő együttműködésre köteles, amelynek keretében
+(4)[^92] A rehabilitációs szolgáltatást kérő személy a rehabilitációs hatósággal történő együttműködésre köteles, amelynek keretében
 
 a) igénybe veszi a rehabilitációját segítő, felajánlott foglalkozási rehabilitációs szolgáltatásokat és képzési lehetőséget – a rehabilitációs közvetítést kérő személy esetén a foglalkozási rehabilitációs célú munkaközvetítést –, tájékoztatást ad annak megvalósulásáról, illetve meghiúsulásának okairól,
 
 b) teljesíti az (5) bekezdés szerinti bejelentési kötelezettségét, valamint
 
-c)[^88] kapcsolatot tart a rehabilitációs hatósággal.
+c)[^93] kapcsolatot tart a rehabilitációs hatósággal.
 
-(5)[^89] A rehabilitációs szolgáltatást kérő személy a rehabilitációs hatóságnak 10 napon belül bejelenti, ha
+(5)[^94] A rehabilitációs szolgáltatást kérő személy a rehabilitációs hatóságnak 10 napon belül bejelenti, ha
 
 a) a természetes személyazonosító adatai megváltoztak,
 
@@ -24,10 +24,10 @@ d) rajta kívülálló körülmények miatt az együttműködési kötelezettsé
 
 (6) A rehabilitációs szolgáltatást kérő személy az együttműködési kötelezettségét az adatainak a nyilvántartásból való törléséig teljesíti.
 
-[^83]: A 21. §-t újonnan a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be.
-[^84]: A 21. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^85]: A 21. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^86]: A 21. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^87]: A 21. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^88]: A 21. § (4) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^89]: A 21. § (5) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^88]: A 21. §-t újonnan a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be.
+[^89]: A 21. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^90]: A 21. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^91]: A 21. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^92]: A 21. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^93]: A 21. § (4) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^94]: A 21. § (5) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
