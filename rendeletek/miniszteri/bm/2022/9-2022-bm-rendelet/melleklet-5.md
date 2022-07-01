@@ -1,3 +1,3 @@
-5. melléklet a 9/2022. (IV. 21.) BM rendelethez[^9]
+5. melléklet a 9/2022. (IV. 21.) BM rendelethez[^4]
 
-[^9]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
