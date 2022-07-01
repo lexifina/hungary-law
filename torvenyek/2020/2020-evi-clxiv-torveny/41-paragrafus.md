@@ -2,4 +2,4 @@
 
 41. § (1)
 
-(2)
+(2) Nem lép hatályba a 2019. évi CXV. törvény 9. § (1) bekezdése, továbbá a 15. és 16. §-a.

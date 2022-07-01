@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-164-00-00
 | 2021-07-02 | 2010. évi CXXX. törvény | 2020-164-00-00.8 |
 | 2022-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-164-00-00.9 |
 | 2022-01-02 | 2010. évi CXXX. törvény | 2020-164-00-00.10 |
+| 2022-07-01 | 2021. évi L. törvény | 2020-164-00-00.11 |
