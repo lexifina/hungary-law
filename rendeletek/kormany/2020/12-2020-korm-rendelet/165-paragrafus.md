@@ -4,9 +4,9 @@ a) életkorához és fejlettségéhez, továbbá szakképző intézményi és ko
 
 b) megtartsa a szakképző intézmény helyiségei és a szakképző intézményhez tartozó területek használati rendjét, a szakirányú oktatás rendjét, a szakképző intézmény szabályzatainak előírásait,
 
-c)[^137] megtartsa a szakképző intézmény szervezeti és működési szabályzatában és házirendjében foglaltakat,
+c)[^140] megtartsa a szakképző intézmény szervezeti és működési szabályzatában és házirendjében foglaltakat,
 
-d)[^138] a szakirányú oktatásban szakképzési munkaszerződéssel való részvétel esetén betartsa a duális képzőhelyen a munkavállalóra vonatkozó előírásokat és kötelezettségeket.
+d)[^141] a szakirányú oktatásban szakképzési munkaszerződéssel való részvétel esetén betartsa a duális képzőhelyen a munkavállalóra vonatkozó előírásokat és kötelezettségeket.
 
-[^137]: A 165. § c) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 43. pontja szerint módosított szöveg.
-[^138]: A 165. § d) pontját a 380/2021. (VI. 30.) Korm. rendelet 28. §-a iktatta be.
+[^140]: A 165. § c) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 43. pontja szerint módosított szöveg.
+[^141]: A 165. § d) pontját a 380/2021. (VI. 30.) Korm. rendelet 28. §-a iktatta be.

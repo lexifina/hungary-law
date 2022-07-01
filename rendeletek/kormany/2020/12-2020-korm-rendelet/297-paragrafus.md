@@ -1,6 +1,6 @@
-297. § (1)[^229] A szakmai vizsga tekintetében a beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy részére az akkreditált vizsgaközpont az Nkt. szerinti szakértői bizottság szakértői véleményére tekintettel az e §-ban meghatározott kedvezményeket biztosítja.
+297. § (1)[^232] A szakmai vizsga tekintetében a beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy részére az akkreditált vizsgaközpont az Nkt. szerinti szakértői bizottság szakértői véleményére tekintettel az e §-ban meghatározott kedvezményeket biztosítja.
 
-(2)[^230] Az interaktív vizsgatevékenységen beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy számára lehetővé kell tenni a tanulmányok során alkalmazott segédeszköz használatát vagy segédszemély igénybevételét. Az akkreditált vizsgaközpont a halláskárosodott vizsgázó kérelmére a vizsgatevékenység szóban történő részének idejére – ha az indokolt – jelnyelvi tolmácsot biztosít.
+(2)[^233] Az interaktív vizsgatevékenységen beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy számára lehetővé kell tenni a tanulmányok során alkalmazott segédeszköz használatát vagy segédszemély igénybevételét. Az akkreditált vizsgaközpont a halláskárosodott vizsgázó kérelmére a vizsgatevékenység szóban történő részének idejére – ha az indokolt – jelnyelvi tolmácsot biztosít.
 
 (3) Ha azt a beilleszkedési, tanulási, magatartási nehézség, a sajátos nevelési igény, illetve a fogyatékosság jellege indokolja, a vizsgázó igazolt kérelme alapján az akkreditált vizsgaközpont engedélyezheti
 
@@ -10,5 +10,5 @@ b) az interaktív vizsgatevékenység szóban történő vizsgatevékenységgel 
 
 c) az adott vizsgatevékenység az arra meghatározott időnél hosszabb idő alatt történő teljesítését azzal, hogy a projektfeladat esetén a hosszabbítás nem haladhatja meg a projektfeladatra előírt időtartam harminc százalékát, kivéve, ha a képzési és kimeneti követelmények másként rendelkeznek.
 
-[^229]: A 297. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 83. pontja szerint módosított szöveg.
-[^230]: A 297. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 84. pontja szerint módosított szöveg.
+[^232]: A 297. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 83. pontja szerint módosított szöveg.
+[^233]: A 297. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 84. pontja szerint módosított szöveg.

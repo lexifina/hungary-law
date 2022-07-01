@@ -4,11 +4,11 @@
 
 a) felsőfokú végzettséggel és
 
-b)[^91] legalább hároméves vezetői gyakorlattal
+b)[^93] legalább hároméves vezetői gyakorlattal
 
 rendelkezik.
 
-(2)[^92] A kancellár megbízására és a megbízás visszavonására a szakképzésért felelős miniszter jogosult. A kancellár felett a munkáltatói jogkört – a kancellári megbízás és annak visszavonása kivételével – a szakképzési intézményfenntartó központ vezetője gyakorolja.
+(2)[^94] A kancellár megbízására és a megbízás visszavonására a szakképzésért felelős miniszter jogosult. A kancellár felett a munkáltatói jogkört – a kancellári megbízás és annak visszavonása kivételével – a szakképzési intézményfenntartó központ vezetője gyakorolja.
 
-[^91]: A 82. § (1) bekezdés b) pontja a 319/2020. (VII. 1.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
-[^92]: A 82. § (2) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 12. pontja szerint módosított szöveg.
+[^93]: A 82. § (1) bekezdés b) pontja a 319/2020. (VII. 1.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
+[^94]: A 82. § (2) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 12. pontja szerint módosított szöveg.

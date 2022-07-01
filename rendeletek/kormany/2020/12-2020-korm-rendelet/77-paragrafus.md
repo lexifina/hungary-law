@@ -6,7 +6,7 @@
 
 77. § (1) Megyénként legfeljebb három, a fővárosban legfeljebb öt, költségvetési szervként működő szakképzési centrum alapítható azzal, hogy a szakképzési centrum részeként működő szakképző intézményekben tanulók, illetve képzésben részt vevő személyek hivatalos októberi statisztikai létszámának három tanév átlagában számított összesített mértéke el kell, hogy érje a kétezer főt.
 
-(2) A szakképzésért felelős miniszter által alapított szakképzési centrum felett – az Áht. 9. § a) és c)–d) pontjában meghatározott irányítási hatáskörök kivételével – a Nemzeti Szakképzési és Felnőttképzési Hivatal, mint középirányító szerv gyakorolja az irányító szervi hatásköröket.
+(2)[^86] A szakképzésért felelős miniszter által alapított szakképzési centrum felett az Áht. 9. §-ában meghatározott irányítási hatásköröket egyedi ügyben vagy az ügyek meghatározott csoportja vonatkozásában a szakképzésért felelős miniszter vagy – az Áht. 9. § a), c), d) és f) pontjában meghatározott irányítási hatáskörök kivételével – a Nemzeti Szakképzési és Felnőttképzési Hivatal, mint középirányító szerv útján gyakorolja.
 
 (3) A (2) bekezdésben meghatározott feladatkörében a Nemzeti Szakképzési és Felnőttképzési Hivatal
 
@@ -43,3 +43,5 @@ ca) javaslatot tesz a szakképzésért felelős miniszternek az erőforrásoknak
 cb) folyamatos nyilvántartást vezet a szakképzésért felelős miniszter által alapított szakképzési centrumok gazdálkodásáról, így különösen az előirányzatokkal és létszámmal való gazdálkodásról, valamint összegyűjti és ellenőrzi a kötelező, a rendszeres és az eseti jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat a szakképzésért felelős miniszternek,
 
 cc) ellátja a jogszabályban számára meghatározott, illetve a szakképzésért felelős miniszter által meghatározott egyéb feladatokat.
+
+[^86]: A 77. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 195. §-ával megállapított szöveg.

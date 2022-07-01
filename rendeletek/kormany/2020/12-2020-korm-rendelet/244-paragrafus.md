@@ -1,4 +1,4 @@
-244. § (1)[^183] A duális képzőhelyek nyilvántartása az Szkt.-ben meghatározottak mellett tartalmazza
+244. § (1)[^186] A duális képzőhelyek nyilvántartása az Szkt.-ben meghatározottak mellett tartalmazza
 
 a) a duális képzőhely megnevezését, szakirányú oktatási célt szolgáló székhelyének vagy telephelyének címét, adószámát, statisztikai számjelét, cégjegyzékszámát vagy nyilvántartási számát, valamint azt, hogy képzőközpontként működik-e,
 
@@ -10,10 +10,10 @@ d) a duális képzőhely nyilvántartásba vételére területileg illetékes te
 
 e) a duális képzőhely által szakirányú oktatásra egy időben fogadható tanulók, illetve képzésben részt vevő személyek maximális létszámát szakmánkénti csoportosításban,
 
-f)[^184] a duális képzőhelyek nyilvántartásában szereplő adatokban történt változással érintett adatokat, a változás időpontját és hatályát.
+f)[^187] a duális képzőhelyek nyilvántartásában szereplő adatokban történt változással érintett adatokat, a változás időpontját és hatályát.
 
-(2)[^185] A duális képzőhelyek nyilvántartása nyilvános, azt a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara a szakképzési tájékoztatási és információs központ keretében működtetett honlapon közzéteszi. A közzétett adatokat a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara döntését követő nyolc napon belül frissíteni kell.
+(2)[^188] A duális képzőhelyek nyilvántartása nyilvános, azt a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara a szakképzési tájékoztatási és információs központ keretében működtetett honlapon közzéteszi. A közzétett adatokat a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara döntését követő nyolc napon belül frissíteni kell.
 
-[^183]: A 244. § (1) bekezdés nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 51. pontja szerint módosított szöveg.
-[^184]: A 244. § (1) bekezdés f) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 52. pontja szerint módosított szöveg.
-[^185]: A 244. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 53. pontja szerint módosított szöveg.
+[^186]: A 244. § (1) bekezdés nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 51. pontja szerint módosított szöveg.
+[^187]: A 244. § (1) bekezdés f) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 52. pontja szerint módosított szöveg.
+[^188]: A 244. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 53. pontja szerint módosított szöveg.

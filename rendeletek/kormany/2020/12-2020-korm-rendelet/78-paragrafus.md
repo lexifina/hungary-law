@@ -1,5 +1,17 @@
 ## 26. Az Szkt. 123. § (1) bekezdés 2. pontjához
 
-78. § (1) A Kormány szakképzési intézményfenntartó központként a Nemzeti Szakképzési és Felnőttképzési Hivatalt jelöli ki. E feladatkörében a Nemzeti Szakképzési és Felnőttképzési Hivatal a szakképzésért felelős miniszter által alapított szakképzési centrum részeként működő szakképző intézmény felett – e rendeletben meghatározott fenntartói irányítási hatáskörök kivételével – gyakorolja a fenntartó jogszabályban meghatározott fenntartói irányítási hatásköreit és teljesíti a fenntartó jogszabályban meghatározott kötelezettségeit.
+78. §[^87] (1) A Kormány szakképzési intézményfenntartó központként
 
-(2) A 94. § (1) bekezdés b), d), f) és g) pontjában és (2) bekezdésében meghatározott fenntartói irányítási hatáskört, valamint a 94. § (1) bekezdés e) pontjában meghatározott fenntartói irányítási hatáskör keretében a szakképzési centrum részeként működő szakképző intézmény igazgatója felett a munkáltatói jogkört a főigazgató – az Szkt.-ben vagy e rendeletben meghatározott esetben a kancellár egyetértésével – gyakorolja.
+a) a 94. § (1) bekezdés a) és c) pontjában meghatározott fenntartói irányítási hatáskör tekintetében a Nemzeti Szakképzési és Felnőttképzési Hivatalt,
+
+b) – az általa alapított szakképzési centrum részeként működő szakképző intézmény vonatkozásában –
+
+ba) a 94. § (1) bekezdés d), e) és g) pontjában, – a szakképző intézmény gazdálkodásának ellenőrzése kivételével – a 94. § (1) bekezdés f) pontjában, valamint a 94. § (2) bekezdésében meghatározott fenntartói irányítási hatáskör tekintetében a főigazgatót,
+
+bb) a 94. § (1) bekezdés b) pontjában, valamint a szakképző intézmény gazdálkodásának ellenőrzése tekintetében a 94. § (1) bekezdés f) pontjában meghatározott fenntartói irányítási hatáskör tekintetében a kancellárt
+
+jelöli ki.
+
+(2) E feladatkörében a szakképzési intézményfenntartó központ a szakképzésért felelős miniszter által alapított szakképzési centrum részeként működő szakképző intézmény felett gyakorolja a fenntartó jogszabályban meghatározott fenntartói irányítási hatásköreit és teljesíti a fenntartó jogszabályban meghatározott kötelezettségeit.
+
+[^87]: A 78. § a 238/2022. (VI. 30.) Korm. rendelet 196. §-ával megállapított szöveg.
