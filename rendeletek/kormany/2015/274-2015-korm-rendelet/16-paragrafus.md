@@ -1,4 +1,4 @@
-## 8. [^17] Az elszámolás és az adatszolgáltatás közös szabályai
+## 8. [^18] Az elszámolás és az adatszolgáltatás közös szabályai
 
 16. § (1) A főhitelező a törlesztési támogatást az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
@@ -20,4 +20,4 @@ b) hibás vagy hiányos teljesítése esetén a hibás vagy hiányos adatszolgá
 
 (7) A miniszter a 15. § szerinti adatszolgáltatást – annak feldolgozását követően – elektronikus úton megküldi a kincstárnak.
 
-[^17]: A 8. alcím (16–21. §) a 101/2019. (V. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^18]: A 8. alcím (16–21. §) a 101/2019. (V. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

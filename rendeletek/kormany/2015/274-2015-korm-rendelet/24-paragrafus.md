@@ -1,4 +1,4 @@
-24. §[^28] (1) Ha
+24. §[^29] (1) Ha
 
 a) a 2. § (6) bekezdésében,
 
@@ -14,4 +14,4 @@ e) a 8. § (2) bekezdésében
 
 (2) E § rendelkezéseit a veszélyhelyzet megszűnését megelőzően benyújtott, de még el nem bírált támogatás iránti kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra, folyamatban lévő eljárásokra, valamint megkezdett eljárási cselekményekre kell alkalmazni.
 
-[^28]: A 24. §-t a 284/2020. (VI. 17.) Korm. rendelet 75. §-a iktatta be.
+[^29]: A 24. §-t a 284/2020. (VI. 17.) Korm. rendelet 75. §-a iktatta be.

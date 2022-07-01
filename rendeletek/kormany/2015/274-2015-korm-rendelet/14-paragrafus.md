@@ -8,7 +8,7 @@ b) lakcím és
 
 c) adóazonosító jel.
 
-(2) Az e rendelet szerinti törlesztési támogatást is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) utasítása és felügyelete mellett – a kincstár üzemelteti és fejleszti.
+(2)[^17] Az e rendelet szerinti törlesztési támogatást is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó lakáscélú állami támogatásokért felelős miniszter (a továbbiakban: miniszter) utasítása és felügyelete mellett – a kincstár üzemelteti és fejleszti.
 
 (3) A főhitelező az e § szerinti adatszolgáltatási kötelezettségét az eAdaton található útmutató szerinti formában teljesíti havonta egy alkalommal, a tárgyhónapot követő hónap 10. napjáig.
 
@@ -17,3 +17,4 @@ c) adóazonosító jel.
 (5) A főhitelező az e § szerinti adatszolgáltatása keretében a lakáscélú nyilvántartások vezetéséhez – a támogatott hozzájárulása alapján – elektronikus úton tájékoztatja a kincstárt a megkötött, a megkötött és meghiúsult, a felmondott és lezárt, valamint a megszüntetett törlesztési támogatás nyújtásáról szóló szerződésekről és a visszafizetett támogatásokról.
 
 [^16]: A 7. alcím (14–15. §) a 101/2019. (V. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^17]: A 14. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 151. §-a szerint módosított szöveg.
