@@ -16,4 +16,6 @@
 
 (8) A honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, illetve a rendészetért felelős miniszter a FOK részére a tárgyév március 31. napjáig megküldi írásos véleményét a védendő adatkört illetően. A honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, illetve a rendészetért felelős miniszter indokolt esetben jogosult egyedi véleményt is kiadni, amelyet soron kívül megküld a FOK részére.
 
-(9) A FIR tv. 6. § (5) bekezdése szerinti feltétel fennállásáról a FOK megkeresésére a Nemzetbiztonsági Kabinet dönt. A Nemzetbiztonsági Kabinet a döntése kialakítása előtt bevonhatja a feladatköre szerinti érintett állami szervet is.
+(9)[^1] A FIR tv. 6. § (5) bekezdése szerinti feltétel fennállásáról a FOK megkeresésére a Védelmi Tanács dönt. A Védelmi Tanács a döntése kialakítása előtt bevonhatja a feladatköre szerinti érintett állami szervet is.
+
+[^1]: A 3. § (9) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 218. §-a szerint módosított szöveg.
