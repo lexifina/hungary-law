@@ -46,8 +46,8 @@ UTi csökk - az adott (i) elszámolási mérési időegységben a menetrendadás
 
 UTi növ - az adott (i) elszámolási mérési időegységben a menetrendadásra kötelezett FEL irányú utasított eltérésének villamosenergia-mennyisége, kWh;
 
-Pi - az adott (i) elszámolási mérési időegységben a másnapi hazai szervezett villamosenergia-piacon kialakult órás ár (EUR/MWh) a Magyar Nemzeti Bank adott hónapra közzétett napi középárfolyamainak számtani átlaga alapján átváltva, Ft/kWh.
+Pi - az adott (i) elszámolási mérési időegységre a hazai szervezett villamosenergia-piaci engedélyes által közzétett, napon belül kialakult órás és negyedórás árak Kereskedelmi Szabályzatban meghatározott módon számított átlaga – napon belüli árak hiányában a másnapi hazai szervezett villamosenergia-piacon kialakult órás ár – (EUR/MWh) a Magyar Nemzeti Bank adott napra – munkaszüneti nap esetében a megelőző munkanapra – közzétett napi középárfolyama alapján átváltva, Ft/kWh.
 
 8. A 9. § (6) bekezdés szerinti számlán szereplő, 7. pont szerinti összeget a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 9. § (11) bekezdése alapján korrigálásra kerül.
 
-[^72]: A 6. mellékletet a 787/2021. (XII. 27.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^72]: A 6. mellékletet a 787/2021. (XII. 27.) Korm. rendelet 71. § (2) bekezdése iktatta be, szövege a 229/2022. (VI. 28.) Korm. rendelet 20. §-a szerint módosított szöveg.
