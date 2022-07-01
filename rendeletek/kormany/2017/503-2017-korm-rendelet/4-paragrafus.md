@@ -6,7 +6,7 @@
 
 (3) A támogatás iránti közigazgatási hatósági ügyekben a NYUFIG országos illetékességgel jár el.
 
-(4) A Magyar Államkincstár (a továbbiakban: Kincstár) a gyermek- és ifjúságpolitikáért felelős miniszter által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – rendszeresített formanyomtatványt és elektronikus űrlapot a honlapján közzéteszi.
+(4)[^2] A Magyar Államkincstár (a továbbiakban: Kincstár) a gyermek- és ifjúságpolitikáért felelős miniszter által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – rendszeresített formanyomtatványt és elektronikus űrlapot a honlapján közzéteszi.
 
 (5) A formanyomtatvány és az elektronikus űrlap tartalmazza a kérelmező
 
@@ -25,3 +25,5 @@ f) törvényes képviselőjének az a), b) és e) pontban meghatározott adatait
 (6) A kérelmezőnek hitelt érdemlően igazolnia kell a támogatással érintett első sikeres komplex nyelvvizsga díjának megfizetését és annak összegét.
 
 (7) A támogatás iránti eljárás költségmentes.
+
+[^2]: A 4. § (4) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 35. §-a szerint módosított szöveg.
