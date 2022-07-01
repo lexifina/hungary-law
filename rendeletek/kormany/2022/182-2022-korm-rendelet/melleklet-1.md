@@ -1,4 +1,4 @@
-1. melléklet a 182/2022. (V. 24.) Korm. rendelethez
+1. melléklet a 182/2022. (V. 24.) Korm. rendelethez[^6]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek, valamint területi kormányzati igazgatási szervek
 
@@ -54,7 +54,7 @@ D) Agrárminiszter
 
 | 4 | Nemzeti park igazgatóságok | irányítás |
 
-| 5 | Országos Meteorológiai Szolgálat | irányítás |
+| 5 |  |  |
 
 E) Belügyminiszter
 
@@ -145,3 +145,7 @@ K) Technológiai és ipari miniszter
 | 1 | A szerv neve | A miniszter hatásköre |
 
 | 2 | Nemzeti Akkreditáló Hatóság | irányítás |
+
+| 3 | Országos Meteorológiai Szolgálat | irányítás |
+
+[^6]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja szerint módosított szöveg.
