@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-281-20-
 | 2016-01-01 | 2001-281-20-22.25 | 470/2015. (XII. 29.) Korm. rendelet |
 | 2016-07-01 | 2001-281-20-22.26 | 139/2016. (VI. 13.) Korm. rendelet |
 | 2018-01-01 | 2001-281-20-22.27 | 470/2015. (XII. 29.) Korm. rendelet |
+| 2022-07-01 | 2001-281-20-22.28 | 332/2004. (XII. 11.) Korm. rendelet |
