@@ -116,12 +116,15 @@ d) a munkaegészségügyi vonatkozású hazai és európai uniós programok vég
 
 e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-(4)–(5)[^22]
+(4)[^22]
 
-(6)[^23] A Kormány nemzeti koordinációs fókuszpontként az emberi erőforrások miniszterét jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
+(5)[^23]
+
+(6)[^24] A Kormány nemzeti koordinációs fókuszpontként az egészségügyért felelős minisztert jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
 
 [^19]: A 8. § (1) bekezdés a) pont aa) alpontja a 360/2019. (XII. 30.) Korm. rendelet 161. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^20]: A 8. § (1) bekezdés d) pont dc) alpontja a 418/2020. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^21]: A 8. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^22]: A 8. § (4)–(5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
-[^23]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^22]: A 8. § (4) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
+[^23]: A 8. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
+[^24]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 164. §-a szerint módosított szöveg.
