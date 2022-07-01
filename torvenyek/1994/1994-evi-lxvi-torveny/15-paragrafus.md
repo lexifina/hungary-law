@@ -4,8 +4,8 @@
 
 (1b) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2018. évi XCIV. törvénnyel (a továbbiakban: 2018. évi XCIV. tv.) megállapított 4. § (3) bekezdését és 5. § (2) bekezdését a 2018. évi XCIV. tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-(2) A Cstv. 58. §-a a következő (2) bekezdéssel egészül ki, és ezzel egyidejűleg a jelenlegi (2) és (3) bekezdés számozása (3) és (4) bekezdésre módosul:
+(1c) E törvénynek a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvénnyel (a továbbiakban: 2021. évi LXIV. törvény) megállapított 1. § (1a) bekezdését, 1. § (2) bekezdés d) pont db) alpontját, 1. § (6)–(13) bekezdését a 2021. évi LXIV. törvény hatálybalépését követően indult adósságrendezési eljárásokban érvényesített bértartozásokra vonatkozóan kell alkalmazni.
 
-,,(2) Ha a felszámolás alatt álló gazdálkodó szervezetnek a Bérgarancia Alap támogatást nyújtott, a visszafizetés akkor válik esedékessé, amikor a támogatás nyújtását követően a 48. § (1) bekezdése alapján a támogatás mértékének (vagy egy részének) megfelelő pénzösszeg befolyik. Amíg a támogatás teljes összegét nem fizették vissza, addig más célra — a bérkifizetésen kívül — a felszámoló kifizetést nem teljesíthet.''
+(2) Ez a törvény a munkáltató fizetésképtelensége esetén a munkavállalók védelméről szóló, 2008. október 22-i 2008/94/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (3) E törvénynek a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2020. évi LXXIX. törvénnyel (a továbbiakban: 2020. évi LXXIX. törvény) megállapított rendelkezéseit a 2020. évi LXXIX. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló nyugdíjas szövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló nyugdíjas szövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2020. évi LXXIX. törvény hatálybalépésekor még nem került sor.
