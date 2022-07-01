@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-62-20-2
 | 2017-01-01 | 2006-62-20-22.21 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2006-62-20-22.22 | 353/2014. (XII. 29.) Korm. rendelet |
 | 2019-01-01 | 2006-62-20-22.23 | 303/2018. (XII. 27.) Korm. rendelet |
+| 2022-07-01 | 2006-62-20-22.24 | 303/2018. (XII. 27.) Korm. rendelet |
