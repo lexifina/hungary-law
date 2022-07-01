@@ -186,9 +186,10 @@
 
 (4) Az Egyezmény, valamint a 2. §, a 3. § és az 5. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^5]
 
-(5) Az e rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter és a kultúráért felelős miniszter gondoskodik.
+(5)[^6] Az e rendelet végrehajtásához szükséges intézkedésekről a felsőoktatásért felelős miniszter és a kultúráért felelős miniszter gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 14. cikk első bekezdésében meghatározott időpontban lép hatályba. A 15/2020. (III. 31.) KKM közlemény alapján a hatálybalépés időpontja 2020. április 2.
 [^3]: A 15/2020. (III. 31.) KKM közlemény alapján a hatálybalépés időpontja 2020. április 2.
 [^4]: A 15/2020. (III. 31.) KKM közlemény alapján a hatálybalépés időpontja 2030. április 2.
 [^5]: Lásd a 15/2020. (III. 31.) KKM közleményt.
+[^6]: A 4. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 174. §-a szerint módosított szöveg.
