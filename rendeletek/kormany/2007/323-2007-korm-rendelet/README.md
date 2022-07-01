@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-323-20-
 | 2018-07-30 | 2007-323-20-22.23 | 225/2014. (IX. 4.) Korm. rendelet |
 | 2020-12-31 | 2007-323-20-22.24 | 527/2020. (XI. 26.) Korm. rendelet |
 | 2021-01-01 | 2007-323-20-22.25 | 527/2020. (XI. 26.) Korm. rendelet |
+| 2022-07-01 | 2007-323-20-22.26 | 528/2013. (XII. 30.) Korm. rendelet |
