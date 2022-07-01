@@ -12,6 +12,6 @@
 
 (6) A mulasztás esetére megállapított következmények alkalmazásának helye van akkor is, ha
 
-a) az idézést az alperesnek a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés), és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet alapján kellett kézbesíteni, de a kézbesítés megtörténtéről kézbesítési igazolás nem érkezett vissza, feltéve, hogy a rendelet 19. cikk (2) bekezdésében foglalt feltételek fennállnak, vagy
+a) az idézést az alperesnek a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet alapján kellett kézbesíteni, de a kézbesítés megtörténtéről kézbesítési igazolás nem érkezett vissza, feltéve, hogy a rendelet 22. cikk (2) bekezdésében foglalt feltételek fennállnak, vagy
 
 b) az idézést a 2005. évi XXXVI. törvénnyel kihirdetett, a polgári és kereskedelmi ügyekben keletkezett bírósági és bíróságon kívüli iratok külföldön történő kézbesítéséről szóló, Hágában, 1965. november 15. napján kelt Egyezmény alapján kellett kézbesíteni, de a kézbesítés megtörténtéről kézbesítési igazolás nem érkezett vissza, feltéve, hogy az Egyezmény 15. cikk második bekezdésében foglalt feltételek fennállnak.
