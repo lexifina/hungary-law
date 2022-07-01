@@ -8,7 +8,7 @@ b) 20–20%-a a két bizottsági tagot,
 
 c) 15%-a a jegyzőt
 
-## illeti meg. A fennmaradó 20%-ot a vizsgáztatás dologi kiadásaira kell fordítani.
+illeti meg. A fennmaradó 20%-ot a vizsgáztatás dologi kiadásaira kell fordítani.
 
 (3) A rendészeti alapvizsga vonatkozásában a vizsgabiztost vizsgáztatási díj illeti meg, amelynek mértéke vizsgánként a megjelent vizsgázók után befizetett vizsgadíj társadalombiztosítási járulékkal növelt összegének a 15%-a. A fennmaradó 85%-ot a vizsgáztatás dologi kiadásaira és az elektronikus vizsgáztatás költségeire kell fordítani.
 

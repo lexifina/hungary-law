@@ -18,7 +18,7 @@ a) rendészeti szakképzettséggel, vagy
 
 b) felsőfokú végzettséggel és rendészeti tárgyú szakképesítéssel
 
-## rendelkezik.
+rendelkezik.
 
 (6a)[^34] Rendészeti szakvizsgára önkéntesen az a rendvédelmi igazgatási alkalmazott jelentkezhet, aki
 
@@ -32,7 +32,7 @@ ca) közigazgatási szakvizsgával, jogi szakvizsgával, közigazgatási tanulm�
 
 cb) legalább három év közigazgatási gyakorlattal
 
-## rendelkezik.
+rendelkezik.
 
 (7)[^35] Rendészeti szakvizsgát tehet az a köztisztviselő vagy kormánytisztviselő is, aki felsőfokú végzettséggel, közigazgatási vagy jogi szakvizsgával, vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább három év közigazgatási gyakorlattal rendelkezik.
 

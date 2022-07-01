@@ -1,5 +1,3 @@
-## 13. §[^48]
-
 14. § (1) A rendészeti szakvizsgát a RASZB által kijelölt vizsgabizottság (a továbbiakban: vizsgabizottság) előtt kell letenni. A vizsgabizottság háromtagú, elnökét a RASZB jelöli ki.
 
 (2) A rendészeti szakvizsga vizsgatárgyainak írásbeli vizsgarészeit a központi szerv által kijelölt helyen és időben kell teljesíteni. Az írásbeli vizsga időtartama 90 perc. Az írásbeli vizsgarész teljesítéséről jegyzőkönyvet kell készíteni. Az írásbeli vizsgarészre vonatkozóan a 8. § rendelkezéseit megfelelően alkalmazni kell azzal, hogy a vizsgabiztost megillető jogkört a vizsgabizottság elnöke gyakorolja.
@@ -10,5 +8,4 @@
 
 (4) A jegyző személyére a központi szerv vezetője a központi szerv munkatársai közül tesz javaslatot.
 
-[^48]: A 13. §-t a 396/2017. (XII. 13.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
 [^49]: A 14. § (2a) bekezdését a 23/2021. (I. 28.) Korm. rendelet 3. §-a iktatta be.

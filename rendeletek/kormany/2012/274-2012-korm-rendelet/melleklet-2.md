@@ -1,6 +1,6 @@
 2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^94]
 
-## A RENDÉSZETI SZAKVIZSGA KÖVETELMÉNYRENDSZERE
+A RENDÉSZETI SZAKVIZSGA KÖVETELMÉNYRENDSZERE
 
 ## I.[^95] KÖTELEZŐ VIZSGATÁRGY
 
@@ -98,7 +98,7 @@ III. Polgári védelem
 
 IV. Tűzvédelem
 
-## II.3. NEMZETBIZTONSÁGI IGAZGATÁS
+## II.3.[^99] NEMZETBIZTONSÁGI IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
@@ -114,9 +114,11 @@ III. Nemzetbiztonsági Szakszolgálat
 
 IV. Nemzeti Védelmi Szolgálat
 
-V. Terrorelhárítási Információs és Bűnügyi Elemző Központ
+V. Nemzeti Információs Központ
 
-## II.4.[^99] RENDŐRSÉGI IGAZGATÁS
+VI. Információs Hivatal
+
+## II.4.[^100] RENDŐRSÉGI IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
@@ -142,7 +144,7 @@ VIII. A rendőrség megelőzési feladatai
 
 IX. Az Országgyűlési Őrség speciális feladatai
 
-## II.5.[^100] ADÓ- ÉS VÁMIGAZGATÁS
+## II.5.[^101] ADÓ- ÉS VÁMIGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
@@ -165,5 +167,6 @@ V. Büntető- és szabálysértési jogi feladatok
 [^96]: A 2. melléklet II. része a 396/2017. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^97]: A 2. melléklet II. pont II.1. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
 [^98]: A 2. melléklet II. pont II.2. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
-[^99]: A 2. melléklet II. pont II.4. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
-[^100]: A 2. melléklet II. pont II.5. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^99]: A 2. melléklet II.3. pontja a 239/2022. (VI. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^100]: A 2. melléklet II. pont II.4. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^101]: A 2. melléklet II. pont II.5. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
