@@ -10,7 +10,7 @@ c) a föld tulajdonjogának ajándékozás jogcímén történő átruházásáh
 
 d) a közeli hozzátartozók közötti tulajdonjog átruházásához;
 
-e) a tulajdonostársak közötti tulajdonjog átruházáshoz, ha ezzel a közös tulajdon megszűntetésére kerül sor;
+e)
 
 f) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vételhez;
 
