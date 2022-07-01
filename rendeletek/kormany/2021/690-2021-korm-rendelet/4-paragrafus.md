@@ -1,4 +1,4 @@
-4. § (1) Az Ösztöndíjprogram működtetéséért a miniszter felel. A kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében az oktatásért felelős miniszter és a sportpolitikáért felelős miniszter közreműködik az Ösztöndíjprogramra vonatkozó stratégia kialakításában és végrehajtásában az oktatáspolitikai és a sportpolitikai szempontok érvényesítése révén.
+4. § (1)[^1] Az Ösztöndíjprogram működtetéséért a miniszter felel. A kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter, a felsőoktatásért felelős miniszter és a sportpolitikáért felelős miniszter közreműködik az Ösztöndíjprogramra vonatkozó stratégia kialakításában és végrehajtásában az oktatáspolitikai és a sportpolitikai szempontok érvényesítése révén.
 
 (2) Az Ösztöndíjprogram lebonyolítását a Közalapítvány látja el.
 
@@ -9,3 +9,5 @@
 (5) A felsőoktatási intézmény a részére az e rendelet alapján megállapított és rendelkezésre bocsátott támogatás rendeltetésszerű felhasználásáról – az Ösztöndíjprogram megvalósításához kapcsolódó költségeket igazoló számviteli bizonylatok benyújtása nélkül – a költségvetési évre vonatkozó jogosult hallgatói létszám alapján számol be a támogatói okiratban, támogatási szerződésben vagy fejezetek közötti megállapodásban meghatározott tartalommal és határidőben.
 
 (6) Az e rendelet alapján nyújtott költségvetési támogatásra az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 93. § (1a) bekezdését és (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy az Ösztöndíjprogram megvalósításához kapcsolódó költségekről készített összesítő kötelező tartalmi elemeit a támogatói okiratban, támogatási szerződésben vagy fejezetek közötti megállapodásban kell meghatározni.
+
+[^1]: A 4. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 216. §-a szerint módosított szöveg.
