@@ -1,3 +1,9 @@
-## 5. §[^5]
+## 5. § Az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R1.) 1. alcíme helyébe a következő alcím lép:
 
-[^5]: Az 5. § a 39. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+## „1. Az oktatási igazolvány
+
+## 1. § Az oktatási igazolvány fajtái:
+
+## a) diákigazolvány,
+
+## b) pedagógusigazolvány.”

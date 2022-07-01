@@ -1,3 +1,3 @@
-## 12. §[^12]
+## 12. § Az R1. 34. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^12]: A 12. § a 39. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+## „(4) Az igényléstől eltérő adatokat tartalmazó diákigazolvány és a rendeltetésszerű használatra alkalmatlan állapotban érkezett diákigazolvány (a továbbiakban együtt: hibás diákigazolvány) helyett a közreműködő intézmény új diákigazolvány-igénylést továbbít.”

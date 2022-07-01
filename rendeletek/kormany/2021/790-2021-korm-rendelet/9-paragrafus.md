@@ -1,3 +1,7 @@
-## 8. §[^8]
+## 8. § Az R1. 12. §-a helyébe a következő rendelkezés lép:
 
-[^8]: A 8. § a 39. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+## „12. § (1) Az igényelt diákigazolvány kiadásáig a közreműködő intézmény a jogosult kérésére az 1. mellékletben meghatározott adattartalmú igazolást (a továbbiakban: igazolás) ad ki, amely igazolja a diákigazolványra, valamint ahhoz kapcsolódóan a 15. § (1) bekezdésében foglaltakra való jogosultságot.
+
+## (2) Az (1) bekezdés szerinti igazolás a kiállításától számított 60 napig érvényes.
+
+## (3) Az (1) bekezdésben meghatározott igazolás kizárólag az adatkezelő központi rendszeréből, az adatkezelő hitelesített vonalkódjával ellátott formában nyomtatható ki.”

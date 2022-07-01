@@ -1,4 +1,4 @@
-## 38. §[^38]
+## 38. §[^26]
 
 ## 9. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 5–16. § 2022. július 1-jén lép hatályba.
 
-[^38]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
