@@ -1,0 +1,3 @@
+## 5. § A rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet (a továbbiakban: Rjr.) 7. §-a helyébe a következő rendelkezés lép:
+
+## „7. § A 2022. július 1-jét megelőző kezdő időponttól megállapított rokkantsági járadékot a nyugellátások és egyes más ellátások 2022. július havi kiegészítő emeléséről szóló 161/2022. (IV. 28.) Korm. rendelettel megállapított 2. § (3) bekezdésének alapulvételével – 2022. július 1-jétől, hivatalból, 2022. január 1-jére visszamenőleges hatállyal, illetve a 2022. január 1-je és 2022. június 30-a közötti kezdő időponttól megállapított rokkantsági járadék esetén a járadék kezdő időpontjára visszamenőleges hatállyal – meg kell emelni.”
