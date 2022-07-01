@@ -1,6 +1,6 @@
 ## 4. A Monitoring Iroda feladatai
 
-4. § (1) Az OBMR működtetéséről a miniszterelnöki biztos a Monitoring Iroda és a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
+4. § (1)[^3] Az OBMR működtetéséről a kormánybiztos a Monitoring Iroda és a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
 
 (2) A Monitoring Iroda a működtetés keretében
 
@@ -18,7 +18,7 @@ f) pénzügyi monitoring tevékenységének keretében vizsgálja a rendelkezés
 
 g) szakmai monitoring tevékenységének keretében nyomon követi a beruházások eredményes előkészítését és megvalósítását, különösen a beruházás ütemtervnek való megfelelésére vonatkozó követelményeket;
 
-h) tájékoztatja a miniszterelnöki biztost az ütemtervtől való eltérésről, a beruházások előkészítése és megvalósítása érdekében intézkedési javaslatokat készít elő;
+h)[^4] tájékoztatja a kormánybiztost az ütemtervtől való eltérésről, a beruházások előkészítése és megvalósítása érdekében intézkedési javaslatokat készít elő;
 
 i) biztosítja az OBMR-t támogató informatikai infrastruktúrához és alkalmazáshoz (a továbbiakban együtt: informatikai rendszer) történő hozzáférési jogosultságot;
 
@@ -43,3 +43,6 @@ f) elemzést, értékelést készít a beérkezett adatok alapján;
 g) negyedévente vagy szükség szerint jelentést készít a Kormány részére a beruházások előrehaladásáról.
 
 (4) A beruházásokat a Monitoring Iroda folyamatosan figyelemmel kíséri, és a beérkezett információk alapján ajánlásokat tehet a hatáskörrel rendelkező kormányzati döntés-előkészítő vagy döntéshozó fórum számára a beruházás kapcsán felmerülő többletforrás igény indokoltságával kapcsolatban, különös tekintettel az ütemezett forrásigényre.
+
+[^3]: A 4. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 215. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdés h) pontja a 238/2022. (VI. 30.) Korm. rendelet 215. § d) pontja szerint módosított szöveg.
