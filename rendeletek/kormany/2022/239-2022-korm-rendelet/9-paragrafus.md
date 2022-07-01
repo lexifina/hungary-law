@@ -1,0 +1,1 @@
+## 8. § A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet [a továbbiakban: 210/2009. (IX. 29.) Korm. rendelet] 1. melléklete az 1. melléklet szerint módosul.
