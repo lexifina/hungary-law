@@ -8,10 +8,12 @@
 
 (2) E Fejezet alkalmazásában
 
-a) kérelmező: a külföldi irat kézbesítése iránti kérelmet az 1393/2007/EK rendelet 15. cikke alapján előterjesztő természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet;
+a)[^73] kérelmező: a külföldi irat kézbesítése iránti kérelmet az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 20. cikke alapján előterjesztő természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet;
 
-b) címzett: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki vagy amely részére a külföldi irat kézbesítését kérik az Nmjtv. 74. § (1) bekezdése szerinti vagy az 1393/2007/EK rendelet 4. cikke szerinti jogsegélykérelemben vagy az 1393/2007/EK rendelet 15. cikke szerint előterjesztett kérelemben.
+b)[^74] címzett: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki vagy amely részére a külföldi irat kézbesítését kérik az Nmjtv. 74. § (1) bekezdése szerinti vagy az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése szerinti áttevő intézmény által előterjesztett jogsegélykérelemben vagy az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 20. cikke szerint előterjesztett kérelemben.
 
 (3) A címzett a külföldi irat átvételét a 4. melléklet szerinti átvételi igazolás aláírásával ismeri el.
 
 [^72]: A VII/B. fejezetet (46/J–46/O. §) a 480/2017. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^73]: A 46/J. § (2) bekezdés a) pontja a 764/2021. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^74]: A 46/J. § (2) bekezdés b) pontja a 764/2021. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.

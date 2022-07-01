@@ -60,7 +60,7 @@ s)[^18] felszámolói értesítés: a felszámolónak (felszámolóbiztosnak) a 
 
 t)[^19] felszámolói irat: a felszámolói értesítésről a végrehajtó által e rendelet rendelkezései szerint készített és záradékkal ellátott másolat;
 
-u)[^20] külföldi irat: a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény (a továbbiakban: Nmjtv.) 74. § (1) bekezdésében említett külföldi eljárásban keletkezett irat vagy az 1393/2007/EK rendelet 4. cikke szerinti jogsegélykérelem vagy az 1393/2007/EK rendelet 15. cikke szerint előterjesztett kérelem alapján kézbesíteni kért irat.
+u)[^20] külföldi irat: a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény (a továbbiakban: Nmjtv.) 74. § (1) bekezdésében említett külföldi eljárásban keletkezett irat vagy az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése szerinti áttevő intézmény által előterjesztett jogsegélykérelem vagy az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 20. cikke szerint előterjesztett kérelem alapján kézbesíteni kért irat.
 
 [^2]: A 2. § b) pontja a 11/2008. (I. 26.) Korm. rendelet 4. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: A 2. § c) pontja a 764/2021. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -80,4 +80,4 @@ u)[^20] külföldi irat: a nemzetközi magánjogról szóló 2017. évi XXVIII. 
 [^17]: A 2. § r) pontját a 11/2008. (I. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^18]: A 2. § s) pontját a 238/2009. (X. 20.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 31. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^19]: A 2. § t) pontját a 238/2009. (X. 20.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
-[^20]: A 2. § u) pontját a 480/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^20]: A 2. § u) pontját a 480/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 764/2021. (XII. 23.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

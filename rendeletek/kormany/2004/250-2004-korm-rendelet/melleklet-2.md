@@ -114,7 +114,7 @@
 
 ## ....................................................................... P. H.
 
-2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^78]
+2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^89]
 
 ## ……………………………………………………………………………………………………………………………….
 
@@ -202,7 +202,7 @@ IV. Tájékoztatás[^4.]
 [^6:]: Ezeket a szerződés megszűnését eredményező nyilatkozat végrehajtói kézbesítésekor kell kitölteni.
 [^7:]: Ezeket a keresetlevél végrehajtói kézbesítésekor kell kitölteni.
 [^8:]: Ezeket a keresetlevél végrehajtói kézbesítésekor kell kitölteni.
-[^78]: A 2. számú melléklet a 764/2021. (XII. 23.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
+[^89]: A 2. számú melléklet a 764/2021. (XII. 23.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
 [^1.]: A megfelelő aláhúzandó.
 [^2.]: A megfelelő aláhúzandó.
 [^3.]: A megfelelő aláhúzandó.

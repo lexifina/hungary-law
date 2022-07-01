@@ -6,8 +6,11 @@ b) a 34. § (2) bekezdés a) pontjában foglalt esetben a második helyszíni el
 
 (2) A kézbesítés eredménytelen
 
-a) ha a címzett az 1393/2007/EK rendelet 8. cikke alapján az abban megjelölt határidőn belül a külföldi irat nyelve miatt tagadta meg az irat átvételét, vagy
+a)[^79] ha a címzett az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 12. cikke alapján az abban megjelölt határidőn belül a külföldi irat nyelve miatt tagadta meg az irat átvételét, vagy
 
 b) a 34. § (2) bekezdés b)–e) pontja szerinti esetekben.
 
-(3) A kézbesítés eredményéről a végrehajtó kiállítja az 1393/2007/EK rendelet 10. cikk (1) bekezdése szerinti igazolást, és közvetlenül küldi meg az áttevő intézménynek, csatolva a kézbesítendő külföldi iratnak az 46/M. § (4) bekezdése alapján magánál tartott másodpéldányát.
+(3)[^80] A kézbesítés eredményéről a végrehajtó kiállítja az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 14. cikk (1) bekezdése szerinti igazolást, és közvetlenül küldi meg az áttevő intézménynek, csatolva a kézbesítendő külföldi iratnak a 46/M. § (4) bekezdése alapján magánál tartott másodpéldányát.
+
+[^79]: A 46/N. § (2) bekezdés a) pontja a 764/2021. (XII. 23.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^80]: A 46/N. § (3) bekezdése a 764/2021. (XII. 23.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
