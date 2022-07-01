@@ -4,7 +4,7 @@
 
 ## 8. Az Fktv. 11. § (2) bekezdés a) pont aa) alpontjához
 
-18. § (1)[^47]
+18. § (1)[^47] A felnőttképző által szervezett, az Fktv. 2/A. § (2) bekezdés a) pontja szerinti oktatásra, képzésre vonatkozóan kidolgozott képzési program előzetes minősítését olyan felnőttképzési szakértő végezheti, akinek az adott oktatás, képzés a 14. § (1a) bekezdése, valamint a Nemzeti Szakképzési és Felnőttképzési Hivatal (a továbbiakban: Hivatal) honlapján közzétett Útmutató alapján a szakterületébe tartozik.
 
 (2) A felnőttképzési szakértő a képzési program előzetes minősítése során vizsgálja, hogy
 
@@ -22,7 +22,7 @@ c)[^50] – több oldalból álló képzési program esetén – a képzési pro
 
 (6) A képzés program módosítása esetén a felnőttképzőnek el kell végeztetnie a módosított képzési program előzetes minősítését.
 
-[^47]: A 18. § (1) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte.
+[^47]: A 18. § (1) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte, újonnan a 688/2021. (XII. 8.) Korm. rendelet 4. §-a iktatta be.
 [^48]: A 18. § (2) bekezdés a) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
 [^49]: A 18. § (2) bekezdés b) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
 [^50]: A 18. § (2) bekezdés c) pontja a 688/2021. (XII. 8.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
