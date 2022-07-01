@@ -188,8 +188,9 @@
 
 (3) Az Egyezmény, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 14. cikk első bekezdésében meghatározott időpontban lép hatályba. A 23/2017. (VI. 28.) KKM közlemény alapján a hatálybalépés időpontja 2016. január 28.
 [^3]: A 23/2017. (VI. 28.) KKM közlemény alapján a hatálybalépés időpontja 2016. január 28.
 [^4]: Lásd a 23/2017. (VI. 28.) KKM közleményt.
+[^5]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 130. §-a szerint módosított szöveg.
