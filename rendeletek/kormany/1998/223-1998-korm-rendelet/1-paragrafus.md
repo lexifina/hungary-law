@@ -1,6 +1,6 @@
 ## A CSALÁDTÁMOGATÁSI ELJÁRÁSOK ÁLTALÁNOS SZABÁLYAI[^1]
 
-1. § (1)[^2] A családtámogatási ellátásra való jogosultság megállapítása iránti kérelmet a Magyar Államkincstár központi szerve (a továbbiakban: Központ) által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – e célra rendszeresített formanyomtatványon vagy az annak megfelelő adattartalommal rendelkező elektronikus űrlapon (a továbbiakban együtt: formanyomtatvány) kell benyújtani.
+1. § (1)[^2] A családtámogatási ellátásra való jogosultság megállapítása iránti kérelmet a Magyar Államkincstár központi szerve (a továbbiakban: Központ) által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel és az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – e célra rendszeresített formanyomtatványon vagy az annak megfelelő adattartalommal rendelkező elektronikus űrlapon (a továbbiakban együtt: formanyomtatvány) kell benyújtani.
 
 (2)[^3] A kérelem benyújtható
 
@@ -55,7 +55,7 @@ b) az újabb kérelem benyújtásakor nem kell bemutatni vagy csatolni a kérele
 (9)[^21] Családtámogatási ellátásokkal kapcsolatos elektronikus döntéshozatal során a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata informatikai eszközzel rögzíthető.
 
 [^1]: Az 1. §-t megelőző cím a 176/2009. (VIII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 36. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 1. pontja, a 477/2016. (XII. 27.) Korm. rendelet 14. § (2) bekezdése, a 311/2017. (X. 31.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 36. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 1. pontja, a 477/2016. (XII. 27.) Korm. rendelet 14. § (2) bekezdése, a 311/2017. (X. 31.) Korm. rendelet 9. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (2a) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 16. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^5]: Az 1. § (3) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
