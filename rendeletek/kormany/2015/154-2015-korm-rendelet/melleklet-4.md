@@ -22,7 +22,7 @@
 
 | 10. | Nemzetbiztonsági Szakszolgálat | „nemzetbiztonsági” | „nb.” |
 
-| 11. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | „nemzetbiztonsági” | „nb.” |
+| 11. | Nemzeti Információs Központ | „nemzetbiztonsági” | „nb.” |
 
 | 12. | Országos Idegenrendészeti Főigazgatóság | „rendőr” | „r.” |
 

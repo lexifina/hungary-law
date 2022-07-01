@@ -6,4 +6,4 @@
 
 3. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^54]
 
-[^54]: A 3. melléklet a 186/2016. (VII. 13.) Korm. rendelet 15. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (3) bekezdése szerint módosított szöveg.
+[^54]: A 3. melléklet a 186/2016. (VII. 13.) Korm. rendelet 15. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (3) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.

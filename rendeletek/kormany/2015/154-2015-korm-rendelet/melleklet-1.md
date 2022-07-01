@@ -136,15 +136,15 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 | 2. | Nemzetbiztonsági Szakszolgálat | – | – |
 
-X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
+X. Nemzeti Információs Központ
 
 |  | A | B | C |
 
 | 1. | Központi szerv | Területi szerv | Helyi szerv |
 
-| 2. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | – | – |
+| 2. | Nemzeti Információs Központ | – | – |
 
 XI. Idegenrendészeti szerv
 
 [^51]: A 76. §-t a 86/2017. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
-[^52]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja, a 2/2019. (I. 22.) Korm. rendelet 2. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (1) bekezdése, a 327/2020. (VII. 2.) Korm. rendelet 1. §-a, a 308/2020. (VI. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja, a 2/2019. (I. 22.) Korm. rendelet 2. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (1) bekezdése, a 327/2020. (VII. 2.) Korm. rendelet 1. §-a, a 308/2020. (VI. 30.) Korm. rendelet 2. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.

@@ -130,14 +130,14 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 | 4. | az igazgató közvetlen alárendeltségében működő szervezeti elemek | igazgató |
 
-X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
+X. Nemzeti Információs Központ
 
 |  | A | B |
 
 | 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
 
-| 2. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | főigazgató |
+| 2. | Nemzeti Információs Központ | főigazgató |
 
 XI. Idegenrendészeti szerv
 
-[^53]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^53]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
