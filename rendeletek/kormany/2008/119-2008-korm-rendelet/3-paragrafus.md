@@ -88,4 +88,6 @@
 
 3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 71. §-a szerint módosított szöveg.
