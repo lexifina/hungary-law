@@ -28,7 +28,7 @@ d) az ideiglenes forgalmi engedély vagy az ideiglenes forgalomban tartási enge
 
 e)
 
-(3) Az ideiglenes rendszámtáblák nyilvántartása a „P” betűjelű rendszámtábla kivételével tartalmazza az ideiglenes rendszámtáblával ellátott járművek:
+(3) Az ideiglenes rendszámtáblák nyilvántartása – a 2022. július 1-jét megelőzően kiadott „P” betűjelű, valamint a 2022. július 1-jétől az azonos jogosultságnak megfelelő „I” betűjelű ideiglenes rendszámtáblák kivételével – tartalmazza az ideiglenes rendszámtáblával ellátott járművek:
 
 a) alvázszámát,
 
@@ -36,11 +36,11 @@ b) gyártmányát,
 
 c) típusát,
 
-d) színét.
+d) színét, és
 
 e) fajtáját.
 
-(4) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az „E” és a „P” betűjelű rendszámtáblák használatának korlátozására vonatkozó adatokat.
+(4) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza a 2022. július 1-jét megelőzően kiadott „E” és „P” betűjelű, valamint a 2022. július 1-jétől kiadott azonos jogosultságnak megfelelő „I” betűjelű ideiglenes rendszámtáblák használatának korlátozására vonatkozó adatokat.
 
 (4a) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az ideiglenes rendszámtáblához kapcsolt kötvénynyilvántartásban rögzített
 
