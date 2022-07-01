@@ -56,7 +56,7 @@
 
 25. gyártási év: a hatósági nyilvántartásban ilyen elnevezéssel szereplő naptári év,
 
-26. lassú jármű és a lassú jármű pótkocsija: a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet alapján speciális rendszámtáblával – fehér alapon (3–3) piros betű- és számjellel, Y kezdő betűjellel – és igazolólappal ellátott jármű, amely a sík úton önerejéből (vagy vontatója által) 25 km/óra sebességnél gyorsabban haladni nem képes,
+26. lassú jármű és a lassú jármű pótkocsija: a 2022. július 1-jén hatályos, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet rendelkezései alapján igazolólappal vagy a fehér alapon 3-3 piros betű- és számjellel, Y kezdőbetűjellel és igazolólappal ellátott jármű, amely a sík úton önerejéből vagy vontatója által 25 km/óra sebességnél gyorsabban haladni nem képes,
 
 27. nyergesvontató: olyan vontató, amely a rajta levő nyeregszerkezet útján a vontatott félpótkocsi tömegének jelentős részét átveszi,
 
@@ -66,4 +66,10 @@
 
 30. környezetkímélő motorkerékpár: az a tisztán elektromos motorkerékpár, amelynek a hajtáslánca legalább egy elektromos energiatároló eszközt, elektromos áram átalakító egységet, és olyan elektromos gépet tartalmaz, amely a motorkerékpár meghajtására szolgáló tárolt elektromos energiát mechanikai energiává alakítja és a motorkerékpár meghajtásához más erőforrással nem rendelkezik,
 
-31. pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing.
+31. pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing,
+
+32. ideiglenesen forgalomban tartott gépjármű: A Korm. rendelet 63/A. § (2) bekezdés 1–2., 4–5. pontja szerint „I” betűjelű ideiglenes rendszámtáblával ellátott gépjármű,
+
+33. próbajármű: A Korm. rendelet 63/A. § (2) bekezdés 7–11. pontja szerint „I” betűjelű ideiglenes rendszámtáblával ellátott gépjármű,
+
+34. kiviteli célú gépjármű: A Korm. rendelet 63/A. § (2) bekezdés 13–18. pontja szerint „I” betűjelű ideiglenes rendszámtáblával ellátott gépjármű.

@@ -10,6 +10,6 @@
 
 (5) Gépjármű tulajdonátruházása esetén, ha a tulajdonátszállással érintett felek egyike sem tesz eleget a külön jogszabály által meghatározott bejelentési kötelezettségének, akkor a tulajdonátszállás bejelentése évének utolsó napjáig az (1) bekezdés szerinti tulajdonos az adó alanya.
 
-(6) Az adó alanya az ,,E'' és ,,P'' betűjelű ideiglenes rendszámtáblával ellátott gépjármű esetén az, akinek/amelynek a nevére a rendszámtáblát az eljáró hatóság kiadta.
+(6) Az adó alanya az ideiglenesen forgalomban tartott gépjármű és a próbajármű esetén az, akinek/amelynek a nevére a rendszámtáblát az eljáró hatóság kiadta.
 
 (7) Az adóévre járó adót az adóalany köteles megfizetni.

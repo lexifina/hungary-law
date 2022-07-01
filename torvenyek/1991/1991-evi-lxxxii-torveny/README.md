@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-82-00-00
 | 2018-01-01 | 2017. évi LXXVII. törvény | 1991-82-00-00.39 |
 | 2021-01-01 | 2020. évi CXVIII. törvény | 1991-82-00-00.40 |
 | 2022-01-01 | 2021. évi LXXXIV. törvény | 1991-82-00-00.41 |
+| 2022-07-01 | 2019. évi CXV. törvény | 1991-82-00-00.42 |
