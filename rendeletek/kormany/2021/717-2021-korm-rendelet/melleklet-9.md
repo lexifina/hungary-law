@@ -1,3 +1,3 @@
-9. melléklet a 717/2021. (XII. 20.) Korm. rendelethez[^98]
+9. melléklet a 717/2021. (XII. 20.) Korm. rendelethez[^94]
 
-[^98]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

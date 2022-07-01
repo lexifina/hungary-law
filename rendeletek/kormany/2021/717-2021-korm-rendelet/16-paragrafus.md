@@ -1,50 +1,50 @@
-## 15. §[^32]
+## 15. §[^30]
 
 ## 9. A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló 414/2015. (XII. 23.) Korm. rendelet módosítása
 
-16. § (1)[^33]
+16. § (1)[^31]
 
-(2)[^34]
+(2)[^32]
 
-(3)[^35]
+(3)[^33]
 
-(4)[^36]
+(4)[^34]
 
-(5)[^37]
+(5)[^35]
 
-(6)[^38]
+(6)[^36]
 
-(7)[^39]
+(7)[^37]
 
-(8)[^40]
+(8)[^38]
 
-(9)[^41]
+(9)[^39]
 
-(10)[^42]
+(10)[^40]
 
-(11)[^43]
+(11)[^41]
 
-(12)[^44]
+(12)[^42]
 
-(13)[^45]
+(13)[^43]
 
-(14)[^46]
+(14)[^44]
 
-(15)[^47]
+(15)[^45]
 
-[^32]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 16. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A 16. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A 16. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: A 16. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: A 16. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^38]: A 16. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: A 16. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 16. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: A 16. § (9) bekezdése a 35. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^42]: A 16. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: A 16. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^44]: A 16. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^45]: A 16. § (13) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^46]: A 16. § (14) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^47]: A 16. § (15) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 16. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 16. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 16. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 16. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 16. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 16. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 16. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 16. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 16. § (9) bekezdése a 35. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^40]: A 16. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 16. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 16. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 16. § (13) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 16. § (14) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 16. § (15) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
