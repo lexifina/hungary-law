@@ -16,7 +16,7 @@ e) egészséginformatikai információbiztonsági szolgáltatások
 
 2. Az 1. pont szerinti szolgáltatások igénybevételére kötelezett szervek
 
-a) Emberi Erőforrások Minisztériuma
+a)[^2] Belügyminisztérium
 
 b) Nemzeti Egészségbiztosítási Alapkezelő
 
@@ -33,3 +33,5 @@ g) Országos Vérellátó Szolgálat
 h) közfinanszírozott állami fenntartású fekvőbeteg-szakellátó intézmények
 
 i) közfinanszírozott állami fenntartású járóbeteg-szakellátó intézmények
+
+[^2]: A 2. melléklet 2. pont a) alpontja a 238/2022. (VI. 30.) Korm. rendelet 219. §-a szerint módosított szöveg.
