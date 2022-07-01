@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-271-20-
 | 2018-06-12 | 2008-271-20-22.8 | 101/2018. (VI. 11.) Korm. rendelet |
 | 2019-01-19 | 2008-271-20-22.9 | 1/2019. (I. 18.) Korm. rendelet |
 | 2021-02-20 | 2008-271-20-22.10 | 74/2021. (II. 19.) Korm. rendelet |
+| 2022-07-01 | 2008-271-20-22.11 | 238/2022. (VI. 30.) Korm. rendelet |
