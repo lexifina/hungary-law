@@ -40,7 +40,7 @@ s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kö
 
 t) az osztalékra vonatkozó követelés elengedése;
 
-u) a csődegyezség keretében, valamint a felszámolási eljárásban a követelés elengedése, feltéve, ha a követelés jogosultja nem a csődeljárás, felszámolási eljárás alá vont gazdálkodó szervezet tagja,
+u) szerkezetátalakítás során a bíróság által jóváhagyott szerkezetátalakítási tervben – ideértve annak hitelezői osztályokon átívelő kényszeregyezségi hatállyal történő jóváhagyását is –, csődeljárásban a bíróság által jóváhagyott csődegyezség keretében, valamint a felszámolási eljárás során a hitelezői követelés elengedése, feltéve, ha a követelés jogosultja nem a szerkezetátalakítás, csődeljárás vagy felszámolási eljárás alá vont gazdálkodó szervezet tagja, vezető tisztségviselője vagy ezek Polgári Törvénykönyv szerinti hozzátartozója;
 
 v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés,
 
