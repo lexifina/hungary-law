@@ -1,4 +1,4 @@
-## 6/A. §[^22] A Központ a fővárosi és megyei kormányhivatal, továbbá járási (fővárosi kerületi) hivatala számára az Szt. 19. § (1c) bekezdése szerinti közvetlen hozzáférést az e célból kialakított és a központi szerverén működtetett webes kezelőfelületen vagy a Központ által meghatározott formátumú és adattartalmú interfész kapcsolaton keresztül zajló elektronikus adatátadással teljesíti.
+## 6/A. §[^23] A Központ a fővárosi és megyei kormányhivatal, továbbá járási (fővárosi kerületi) hivatala számára az Szt. 19. § (1c) bekezdése szerinti közvetlen hozzáférést az e célból kialakított és a központi szerverén működtetett webes kezelőfelületen vagy a Központ által meghatározott formátumú és adattartalmú interfész kapcsolaton keresztül zajló elektronikus adatátadással teljesíti.
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 11. § és a 21. § 2014. július 1-jén lép hatályba.
 
-[^22]: A 6/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 459. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^23]: A 6/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 459. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
