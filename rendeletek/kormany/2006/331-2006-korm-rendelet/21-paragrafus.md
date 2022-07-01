@@ -1,4 +1,4 @@
-## 20/A. §[^86] A gyámhatóság a Gyvt. 140. § (1) bekezdés a) pontja szerinti nyilvántartás adatai alapján az ellátás jogosultjának tekintetében, kérelmére, hatósági bizonyítványt állít ki – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén – automatikus döntéshozatal útján.
+## 20/A. §[^90] A gyámhatóság a Gyvt. 140. § (1) bekezdés a) pontja szerinti nyilvántartás adatai alapján az ellátás jogosultjának tekintetében, kérelmére, hatósági bizonyítványt állít ki – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén – automatikus döntéshozatal útján.
 
 ## A GYÁMHATÓSÁG ILLETÉKESSÉGÉRE VONATKOZÓ SZABÁLYOK
 
@@ -14,27 +14,27 @@ c) az ideiglenes gondnokrendeléssel, zárgondnok kirendelésével, valamint gon
 
 ## a lakóhelye található.
 
-(2)[^87] Ha a szülői felügyelet gyakorlására jogosult szülők lakóhelye különböző gyámhatóságok illetékességi területen található, a gyámhatóság illetékességét a gyermek lakóhelye határozza meg. Ha a gyermek lakóhelye egyik szülőjének lakóhelyével sem azonos, az a gyámhatóság jár el, amelynek területén az anya lakóhelye található.
+(2)[^91] Ha a szülői felügyelet gyakorlására jogosult szülők lakóhelye különböző gyámhatóságok illetékességi területen található, a gyámhatóság illetékességét a gyermek lakóhelye határozza meg. Ha a gyermek lakóhelye egyik szülőjének lakóhelyével sem azonos, az a gyámhatóság jár el, amelynek területén az anya lakóhelye található.
 
 (3) Lakóhely hiányában – az (1) és (2) bekezdésben foglaltak szerint – a gyámhatóság illetékességét a tartózkodási hely határozza meg.
 
-(4)[^88] Belföldi lakóhely vagy tartózkodási hely hiányában, a gyámhatóság illetékességét az utolsó ismert hazai lakóhely vagy tartózkodási hely határozza meg, ennek hiányában az eljárásra a 3. § szerinti ügyekben a Budapest Főváros V. Kerület Önkormányzat Jegyzője, a 4–12. §-ban foglalt ügyekben pedig a gyermekvédelmi és gyámügyi feladatkörében eljáró Budapest Főváros Kormányhivatala illetékes.
+(4)[^92] Belföldi lakóhely vagy tartózkodási hely hiányában, a gyámhatóság illetékességét az utolsó ismert hazai lakóhely vagy tartózkodási hely határozza meg, ennek hiányában az eljárásra a 3. § szerinti ügyekben a Budapest Főváros V. Kerület Önkormányzat Jegyzője, a 4–12. §-ban foglalt ügyekben pedig a gyermekvédelmi és gyámügyi feladatkörében eljáró Budapest Főváros Kormányhivatala illetékes.
 
-(5)[^89] A titkolt terhességből született gyermek iratainak a törvényes képviselője részére történő kiadásáról való intézkedésre és a gyermek új lakóhelyének megállapítására [6/A. § (1) bekezdés b) pontja] a gyermek törvényes képviselőjének lakóhelye szerinti gyámhivatal illetékes.
+(5)[^93] A titkolt terhességből született gyermek iratainak a törvényes képviselője részére történő kiadásáról való intézkedésre és a gyermek új lakóhelyének megállapítására [6/A. § (1) bekezdés b) pontja] a gyermek törvényes képviselőjének lakóhelye szerinti gyámhivatal illetékes.
 
-(6)[^90] Az örökbefogadási ügyben kijelölt gyámhivatal illetékessége kiterjed a megye (főváros) egész területére.
+(6)[^94] Az örökbefogadási ügyben kijelölt gyámhivatal illetékessége kiterjed a megye (főváros) egész területére.
 
-(7)[^91] A támogatott döntéshozatallal kapcsolatos eljárás lefolytatására a támogatásra szoruló személy lakóhelye, annak hiányában tartózkodási helye szerinti gyámhivatal illetékes.
+(7)[^95] A támogatott döntéshozatallal kapcsolatos eljárás lefolytatására a támogatásra szoruló személy lakóhelye, annak hiányában tartózkodási helye szerinti gyámhivatal illetékes.
 
-(8)[^92] A pénzbeli és természetbeni ellátás iránti kérelmet az a gyámhatóság bírálja el, amelynek illetékességi területén a kérelmező lakóhelye vagy – ha a kérelmező életvitelszerűen a bejelentett tartózkodási helyén lakik – a tartózkodási helye van.
+(8)[^96] A pénzbeli és természetbeni ellátás iránti kérelmet az a gyámhatóság bírálja el, amelynek illetékességi területén a kérelmező lakóhelye vagy – ha a kérelmező életvitelszerűen a bejelentett tartózkodási helyén lakik – a tartózkodási helye van.
 
-(9)[^93] A lakcím megállapítása szempontjából a személyiadat- és lakcímnyilvántartás adatai irányadóak.
+(9)[^97] A lakcím megállapítása szempontjából a személyiadat- és lakcímnyilvántartás adatai irányadóak.
 
-[^86]: A 20/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 181. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^87]: A 21. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 101. § d) pontja szerint módosított szöveg.
-[^88]: A 21. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés b) pontja, a 97/2013. (III. 29.) Korm. rendelet 75. § (1) bekezdése, a 353/2014. (XII. 29.) Korm. rendelet 53. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 44. § (10) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^89]: A 21. § (5) bekezdését a 97/2013. (III. 29.) Korm. rendelet 72. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^90]: A 21. § (6) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 22. §-a iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 53. § d) pontja szerint módosított szöveg.
-[^91]: A 21. § (7) bekezdését a 70/2014. (III. 13.) Korm. rendelet 98. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^92]: A 21. § (8) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 24. §-a iktatta be.
-[^93]: A 21. § (9) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 24. §-a iktatta be.
+[^90]: A 20/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 181. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^91]: A 21. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 101. § d) pontja szerint módosított szöveg.
+[^92]: A 21. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés b) pontja, a 97/2013. (III. 29.) Korm. rendelet 75. § (1) bekezdése, a 353/2014. (XII. 29.) Korm. rendelet 53. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 44. § (10) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^93]: A 21. § (5) bekezdését a 97/2013. (III. 29.) Korm. rendelet 72. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^94]: A 21. § (6) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 22. §-a iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 53. § d) pontja szerint módosított szöveg.
+[^95]: A 21. § (7) bekezdését a 70/2014. (III. 13.) Korm. rendelet 98. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^96]: A 21. § (8) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 24. §-a iktatta be.
+[^97]: A 21. § (9) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 24. §-a iktatta be.
