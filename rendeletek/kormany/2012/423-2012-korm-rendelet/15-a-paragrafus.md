@@ -28,7 +28,7 @@ bb) a szakmai vizsga eredménye a szakmai vizsgán kapott százalékos eredménn
 
 (5) A 3. melléklet tartalmazza azoknak a szakképzettségeknek, szakképesítéseknek és ahhoz kapcsolódóan azoknak a szakoknak a körét, amelyek tekintetében az e § szerinti pontszámítást alkalmazni kell.
 
-(6) A többletpontok megállapítása érdekében képzési területenként a szakiránynak megfelelő, 21. § (1) bekezdés j) pontja szerinti, 2012 után szerzett szakképzettségek és szakképesítések körét az oktatásért felelős miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján és a Tájékoztatóban.
+(6)[^85] A többletpontok megállapítása érdekében képzési területenként a szakiránynak megfelelő, 21. § (1) bekezdés j) pontja szerinti, 2012 után szerzett szakképzettségek és szakképesítések körét a miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján és a Tájékoztatóban.
 
 (7) Ha a szakmai vizsga eredményének százalékos értéke nem állapítható meg, a szakmai vizsga eredménye után
 
@@ -41,3 +41,4 @@ b) 80 pontot kell figyelembe venni, ha a szakmai vizsga eredménye jó.
 [^82]: A 15/A. §-t a 661/2020. (XII. 24.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^83]: A 15/A. § (4a) bekezdését a 746/2021. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
 [^84]: A 15/A. § (4b) bekezdését a 746/2021. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^85]: A 15/A. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 118. § b) pontja szerint módosított szöveg.

@@ -1,14 +1,14 @@
 ## 15. Egyéb eltérő szabályok
 
-41. § (1)[^168] A külföldi hallgatók részére, idegen nyelven, valamint a harmadik országbeli állampolgárok számára államközi megállapodás alapján meghirdetett képzésekre, a hitéleti képzésekre, a nemzetközi közös képzésekre, a Diaszpóra Felsőoktatási Ösztöndíjprogramban, valamint a Stipendium Hungaricum Sport Ösztöndíjprogramban részt vevőkre és a Magyarországon működési engedéllyel rendelkező külföldi felsőoktatási intézmények képzéseire történő jelentkezés határidejét, módját, valamint a felvételi eljárást és követelményeit a felsőoktatási intézmény határozza meg.
+41. § (1)[^169] A külföldi hallgatók részére, idegen nyelven, valamint a harmadik országbeli állampolgárok számára államközi megállapodás alapján meghirdetett képzésekre, a hitéleti képzésekre, a nemzetközi közös képzésekre, a Diaszpóra Felsőoktatási Ösztöndíjprogramban, valamint a Stipendium Hungaricum Sport Ösztöndíjprogramban részt vevőkre és a Magyarországon működési engedéllyel rendelkező külföldi felsőoktatási intézmények képzéseire történő jelentkezés határidejét, módját, valamint a felvételi eljárást és követelményeit a felsőoktatási intézmény határozza meg.
 
-(2)[^169] A felsőoktatási intézmény az (1) bekezdés szerinti képzésekről és a felvettekről a Hivatalnak az általa meghatározott formában, a képzés indítása szerinti év október 15-ig statisztikai adatot szolgáltat.
+(2)[^170] A felsőoktatási intézmény az (1) bekezdés szerinti képzésekről és a felvettekről a Hivatalnak az általa meghatározott formában, a képzés indítása szerinti év október 15-ig statisztikai adatot szolgáltat.
 
-(3)[^170] Fel kell venni önköltséges képzésre azt, aki megfelel a felvételi követelményeknek, és akit a felsőoktatási intézménnyel kötött – az Nftv. 83. § (5) bekezdése szerinti – megállapodás alapján a szerződő fél megjelöl, feltéve, hogy a felsőoktatási intézmény az adott szakot indítja, és az adott képzési területen rendelkezik kapacitással. A megállapodásban tanévenként meg kell állapítani az adott képzésre felvételre kerülők számát, amely nem lehet kevesebb öt főnél.
+(3)[^171] Fel kell venni önköltséges képzésre azt, aki megfelel a felvételi követelményeknek, és akit a felsőoktatási intézménnyel kötött – az Nftv. 83. § (5) bekezdése szerinti – megállapodás alapján a szerződő fél megjelöl, feltéve, hogy a felsőoktatási intézmény az adott szakot indítja, és az adott képzési területen rendelkezik kapacitással. A megállapodásban tanévenként meg kell állapítani az adott képzésre felvételre kerülők számát, amely nem lehet kevesebb öt főnél.
 
-(4)[^171] A jelentkező az Nftv. 108. § 1a. pontja szerinti képzési területhez tartozó szakra vonatkozó felvételi döntést követően a felsőoktatási intézményhez benyújtott kérelmére, a duális képzésre jogosult felsőoktatási intézmény külön döntése alapján duális képzésben vehet részt.
+(4)[^172] A jelentkező az Nftv. 108. § 1a. pontja szerinti képzési területhez tartozó szakra vonatkozó felvételi döntést követően a felsőoktatási intézményhez benyújtott kérelmére, a duális képzésre jogosult felsőoktatási intézmény külön döntése alapján duális képzésben vehet részt.
 
-[^168]: A 41. § (1) bekezdése a 285/2013. (VII. 26.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 22. § f) pontja, a 203/2020. (V. 14.) Korm. rendelet 13. §-a, a 690/2021. (XII. 8.) Korm. rendelet 15. §-a szerint módosított szöveg.
-[^169]: A 41. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § m) pontja szerint módosított szöveg.
-[^170]: A 41. § (3) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
-[^171]: A 41. § (4) bekezdését a 335/2014. (XII. 18.) Korm. rendelet 13. §-a iktatta be.
+[^169]: A 41. § (1) bekezdése a 285/2013. (VII. 26.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 22. § f) pontja, a 203/2020. (V. 14.) Korm. rendelet 13. §-a, a 690/2021. (XII. 8.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^170]: A 41. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § m) pontja szerint módosított szöveg.
+[^171]: A 41. § (3) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
+[^172]: A 41. § (4) bekezdését a 335/2014. (XII. 18.) Korm. rendelet 13. §-a iktatta be.

@@ -20,7 +20,7 @@ a Tájékoztató elektronikus formában történő közzétételéről.
 
 (5)[^7] A Hivatal a szeptemberben induló képzésekre vonatkozó Tájékoztatóban megjelentetett felvételi hirdetményeket kiegészítő, módosító közleményt – a felsőoktatási intézmények által legkésőbb a jelentkezési határidőt 30 nappal megelőzően közölt adatok alapján – legkésőbb a jelentkezési határidőt 15 nappal megelőzően tehet közzé.
 
-(6)[^8] Az oktatásért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) és a Hivatal a Tájékoztató teljes tartalmát a felsőoktatási felvételi eljárás hivatalos honlapján mindenki számára nyilvánosan hozzáférhető formában közzéteszi.
+(6)[^8] A felsőoktatásért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) és a Hivatal a Tájékoztató teljes tartalmát a felsőoktatási felvételi eljárás hivatalos honlapján mindenki számára nyilvánosan hozzáférhető formában közzéteszi.
 
 (7) A minisztérium és a Hivatal a Tájékoztató kiegészítését tartalmazó közleményt – amennyiben ilyen megjelenik – teljes terjedelemben, hivatalos honlapján mindenki számára hozzáférhető formában közzéteszi.
 
@@ -33,5 +33,5 @@ a Tájékoztató elektronikus formában történő közzétételéről.
 [^5]: A 3. § (3) bekezdés b) pontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 2. pontja, a 661/2020. (XII. 24.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (4) bekezdés b) pontja a 661/2020. (XII. 24.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^7]: A 3. § (5) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^8]: A 3. § (6) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 17. § a) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 3. pontja szerint módosított szöveg.
+[^8]: A 3. § (6) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 3. pontja, a 238/2022. (VI. 30.) Korm. rendelet 118. § a) pontja szerint módosított szöveg.
 [^9]: A 3. § (9) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 4. §-ával megállapított szöveg.

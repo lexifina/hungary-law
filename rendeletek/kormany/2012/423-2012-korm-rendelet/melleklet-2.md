@@ -2,7 +2,7 @@
 
 ## a felsőoktatási intézmények egészségügyi, pályaalkalmassági követelményeket írhatnak elő,
 
-## illetve gyakorlati, szakmai vizsgát szervezhetnek[^212]
+## illetve gyakorlati, szakmai vizsgát szervezhetnek[^213]
 
 ## I. Egészségügyi vizsgálat írható elő a következő szakokon:
 
@@ -14,7 +14,7 @@
 
 ## 4. Művészetközvetítés képzési terület: minden szakon;
 
-## 5.[^213] Államtudományi képzési terület: minden szakon;
+## 5.[^214] Államtudományi képzési terület: minden szakon;
 
 ## 6. Orvos- és egészségtudomány képzési terület: minden szakon;
 
@@ -36,7 +36,7 @@
 
 ## 4. Művészetközvetítés képzési terület: minden szakon;
 
-## 5.[^214] Államtudományi képzési terület: minden szakon;
+## 5.[^215] Államtudományi képzési terület: minden szakon;
 
 ## 6. Orvos- és egészségtudomány képzési terület: minden szakon;
 
@@ -44,7 +44,7 @@
 
 ## 8. Sporttudomány képzési terület: minden szakon;
 
-## B)[^215]
+## B)[^216]
 
 ## III. Gyakorlati vizsga tartható a következő szakokon:
 
@@ -54,21 +54,21 @@
 
 ## 3. Művészet és művészetközvetítés képzési területekhez kapcsolódó osztatlan tanárszakokon.
 
-## 4.[^216] Osztatlan tanárképzésben, amennyiben a szak, vagy szakpár legalább egyike művészeti jellegű.
+## 4.[^217] Osztatlan tanárképzésben, amennyiben a szak, vagy szakpár legalább egyike művészeti jellegű.
 
-## 4a.[^217] Osztatlan tanárképzésben testnevelő tanár szakon és gyógytestnevelő-egészségfejlesztő tanár szakon;
+## 4a.[^218] Osztatlan tanárképzésben testnevelő tanár szakon és gyógytestnevelő-egészségfejlesztő tanár szakon;
 
-## 5.[^218] Sporttudomány képzési terület: edző szakon.
+## 5.[^219] Sporttudomány képzési terület: edző szakon.
 
-## 6.[^219] Pedagógusképzés képzési terület: nemzetiségi óvodapedagógus (cigány-roma) és szakoktató szakon.
+## 6.[^220] Pedagógusképzés képzési terület: nemzetiségi óvodapedagógus (cigány-roma) és szakoktató szakon.
 
-## IV.[^220] A 17. § (8) bekezdése szerinti felsőoktatási felvételi szakmai vizsga valamennyi szakon tartható.
+## IV.[^221] A 17. § (8) bekezdése szerinti felsőoktatási felvételi szakmai vizsga valamennyi szakon tartható.
 
 2. melléklet a 423/2012. (XII. 29.) Korm. rendelethez
 
 A felvételi eljárás során figyelembe vehető érettségi vizsgatárgyak
 
-1.[^221] a kötelező érettségi vizsgatárgyak
+1.[^222] a kötelező érettségi vizsgatárgyak
 
 a) magyar nyelv és irodalom
 
@@ -80,7 +80,7 @@ d) magyar nyelven, illetve a nemzetiségi és két tanítási nyelvű iskolákba
 
 e) magyar nyelven, illetve a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett matematika
 
-f)[^222] az élő idegen nyelv vizsgatárgy esetében az angol, német, francia, olasz, orosz, spanyol, portugál, arab, héber, kínai, holland, japán és finn nyelvekből, valamint a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 22. § (1) bekezdése szerinti nemzetiségek által használt nyelvként elismert nyelvből, továbbá a latin nyelvből tett vizsga, amennyiben az adott idegen nyelvből az érettségi vizsga szabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 12. § (1) bekezdése alapján érettségi vizsga tehető;
+f)[^223] az élő idegen nyelv vizsgatárgy esetében az angol, német, francia, olasz, orosz, spanyol, portugál, arab, héber, kínai, holland, japán és finn nyelvekből, valamint a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 22. § (1) bekezdése szerinti nemzetiségek által használt nyelvként elismert nyelvből, továbbá a latin nyelvből tett vizsga, amennyiben az adott idegen nyelvből az érettségi vizsga szabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 12. § (1) bekezdése alapján érettségi vizsga tehető;
 
 2. a választható közismereti vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
@@ -106,29 +106,29 @@ j) katonai alapismeretek
 
 k) gazdasági ismeretek
 
-l)[^223]
+l)[^224]
 
-m)[^224] dráma
+m)[^225] dráma
 
-n)[^225] ének-zene
+n)[^226] ének-zene
 
-o)[^226] vizuális kultúra;
+o)[^227] vizuális kultúra;
 
-p)[^227] mozgóképkultúra és médiaismeret,
+p)[^228] mozgóképkultúra és médiaismeret,
 
-q)[^228] filozófia;
+q)[^229] filozófia;
 
-r)[^229] honvédelmi alapismeretek;
+r)[^230] honvédelmi alapismeretek;
 
-s)[^230] digitális kultúra;
+s)[^231] digitális kultúra;
 
-t)[^231] állampolgári ismeretek;
+t)[^232] állampolgári ismeretek;
 
-u)[^232] közigazgatási ismertek;
+u)[^233] közigazgatási ismertek;
 
-v)[^233] fenntarthatóság.
+v)[^234] fenntarthatóság.
 
-3.[^234] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
+3.[^235] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
 a) egészségügyi alapismeretek,
 
@@ -156,32 +156,32 @@ l) vendéglátás-idegenforgalom alapismeretek,
 
 m) faipari alapismeretek,
 
-n)[^235] ágazati, ágazaton kívüli vagy ágazaton belüli specializáció szakmai érettségi vizsgatárgy;
+n)[^236] ágazati, ágazaton kívüli vagy ágazaton belüli specializáció szakmai érettségi vizsgatárgy;
 
-[^236]
+[^237]
 
-[^212]: Az 1. melléklet címe az 59/2016. (III. 25.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
-[^213]: Az 1. melléklet I. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja, a 169/2016. (VII. 1.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
-[^214]: Az 1. melléklet II. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja, a 169/2016. (VII. 1.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
-[^215]: Az 1. melléklet II. pont B) pontját a 661/2020. (XII. 24.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.
-[^216]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
-[^217]: Az 1. melléklet III. pont 4a. alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (1) bekezdése iktatta be.
-[^218]: Az 1. melléklet III. rész 5. pontját a 442/2016. (XII. 16.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^219]: Az 1. melléklet III. pont 6. alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (1) bekezdése iktatta be, szövege a 746/2021. (XII. 21.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^220]: Az 1. melléklet IV. pontját az 59/2016. (III. 25.) Korm. rendelet 9. § a) pontja iktatta be.
-[^221]: A 2. melléklet 1. pontja a 746/2021. (XII. 21.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^222]: A 2. melléklet 1. pont f) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 2/2022. (I. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^223]: A 2. melléklet 2. pont l) alpontját a 746/2021. (XII. 21.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
-[^224]: A 2. melléklet 2. pont m) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^225]: A 2. melléklet 2. pont n) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^226]: A 2. melléklet 2. pont o) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^227]: A 2. melléklet 2. pont p) alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^228]: A 2. melléklet 2. pont q) alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^229]: A 2. melléklet 2. pont r) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^230]: A 2. melléklet 2. pont s) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^231]: A 2. melléklet 2. pont t) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^232]: A 2. melléklet 2. pont u) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^233]: A 2. melléklet 2. pont v) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^234]: A 2. melléklet 3. pontja a 345/2015. (XI. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^235]: A 2. melléklet 3. pont n) alpontja az 59/2016. (III. 25.) Korm. rendelet 9. § b) pontjával megállapított, a 18/2018. (II. 14.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^236]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be, hatályon kívül helyezte a 746/2021. (XII. 21.) Korm. rendelet 13. § c) pontja.
+[^213]: Az 1. melléklet címe az 59/2016. (III. 25.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
+[^214]: Az 1. melléklet I. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja, a 169/2016. (VII. 1.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^215]: Az 1. melléklet II. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja, a 169/2016. (VII. 1.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^216]: Az 1. melléklet II. pont B) pontját a 661/2020. (XII. 24.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.
+[^217]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^218]: Az 1. melléklet III. pont 4a. alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^219]: Az 1. melléklet III. rész 5. pontját a 442/2016. (XII. 16.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^220]: Az 1. melléklet III. pont 6. alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (1) bekezdése iktatta be, szövege a 746/2021. (XII. 21.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^221]: Az 1. melléklet IV. pontját az 59/2016. (III. 25.) Korm. rendelet 9. § a) pontja iktatta be.
+[^222]: A 2. melléklet 1. pontja a 746/2021. (XII. 21.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^223]: A 2. melléklet 1. pont f) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 2/2022. (I. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^224]: A 2. melléklet 2. pont l) alpontját a 746/2021. (XII. 21.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^225]: A 2. melléklet 2. pont m) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^226]: A 2. melléklet 2. pont n) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^227]: A 2. melléklet 2. pont o) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^228]: A 2. melléklet 2. pont p) alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^229]: A 2. melléklet 2. pont q) alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^230]: A 2. melléklet 2. pont r) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^231]: A 2. melléklet 2. pont s) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^232]: A 2. melléklet 2. pont t) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^233]: A 2. melléklet 2. pont u) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^234]: A 2. melléklet 2. pont v) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^235]: A 2. melléklet 3. pontja a 345/2015. (XI. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^236]: A 2. melléklet 3. pont n) alpontja az 59/2016. (III. 25.) Korm. rendelet 9. § b) pontjával megállapított, a 18/2018. (II. 14.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^237]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be, hatályon kívül helyezte a 746/2021. (XII. 21.) Korm. rendelet 13. § c) pontja.
