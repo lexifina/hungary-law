@@ -20,6 +20,7 @@ h) az előkészítés támogatott fázisainak megvalósításra fordítható kö
 
 (3) A Kormány az (1) bekezdés szerinti döntésében rendelkezhet az egyes előkészítési fázisok megvalósítójáról.
 
-(4) Ha a Kormány az egyes fázisok megvalósítójáról nem hoz döntést, úgy azt a kormányzati felelős szerv az állami vagyon felügyeletéért felelős miniszterrel egyetértésben jelöli ki.
+(4)[^5] Ha a Kormány az egyes fázisok megvalósítójáról nem hoz döntést, úgy azt a kormányzati felelős szerv az állami beruházásokért felelős miniszterrel egyetértésben jelöli ki.
 
 [^4]: Az 5. § (2) bekezdés b) pontja a 282/2019. (XI. 27.) Korm. rendelet 33. § 2. pontja szerint módosított szöveg.
+[^5]: Az 5. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 187. §-ával megállapított szöveg.
