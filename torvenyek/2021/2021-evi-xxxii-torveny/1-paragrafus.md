@@ -14,6 +14,10 @@ c) a szerencsejáték-szervezés engedélyezésével, hatósági ellenőrzésév
 
 d) a felszámolói névjegyzék, valamint a felszámoló szervezetek más hatósági nyilvántartásainak vezetésével, a felszámolók egyes tevékenységeinek szabályozásával, a felszámolói szervezetrendszer feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával
 
+e) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek nyilvántartásba vételével, valamint
+
+f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek információbiztonsági tanúsítását végző szervezetek (a továbbiakban: tanúsító szervezet) nyilvántartásba vételével
+
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 
 (1a) A Hatóság a bányafelügyeleti és állami földtani feladatokat ellátó szerv.
