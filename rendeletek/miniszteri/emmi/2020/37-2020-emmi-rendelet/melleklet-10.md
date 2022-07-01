@@ -1,3 +1,3 @@
-10. melléklet a 37/2020. (X. 30.) EMMI rendelethez[^31]
+10. melléklet a 37/2020. (X. 30.) EMMI rendelethez[^33]
 
-[^31]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
