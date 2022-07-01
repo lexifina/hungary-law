@@ -1,0 +1,1 @@
+## 8. § A nyugdíj-megállapító szerv és a nyugdíjfolyósító szerv a kiegészítő támogatás tárgyában hozott határozatát megküldi a miniszternek, aki szükség esetén gondoskodik annak az érintett rendvédelmi szerv részére történő továbbításáról.
