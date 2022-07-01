@@ -1,1 +1,1 @@
-97. §
+97. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 26. § (6) bekezdésében az „életviteléhez szükséges” szövegrész helyébe az „életviteléhez, illetve az egyéni vállalkozása folytatásához szükséges” szöveg lép.
