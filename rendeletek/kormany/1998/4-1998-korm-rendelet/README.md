@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-4-20-22
 | 2021-08-14 | 1998-4-20-22.21 | 472/2021. (VIII. 6.) Korm. rendelet |
 | 2022-01-01 | 1998-4-20-22.22 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2022-05-04 | 1998-4-20-22.23 | 176/2022. (IV. 29.) Korm. rendelet |
+| 2022-07-01 | 1998-4-20-22.24 | 239/2022. (VI. 30.) Korm. rendelet |

@@ -14,12 +14,23 @@ d) katonai repülőtéri irányító körzetben az illetékes légiforgalmi szol
 
 ## az adott légtérre vonatkozó légiközlekedési szabályok betartása mellett működtethető.
 
-(4)[^39] Az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott védett létesítmények, valamint a kiemelt nemzeti emlékhely 200 méteres körzete feletti légtérben a 25 kg maximális felszálló tömeget meg nem haladó pilóta nélküli állami légijármű – a (3) bekezdés b) pontjában foglaltak megtartásán túl – az Országgyűlési Őrség biztonsági szempontok mérlegelése alapján megadott előzetes hozzájárulása esetén működtethető.
+(4)[^39] Az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott védett létesítmények és a kiemelt nemzeti emlékhely 200 méteres körzete feletti légtérben a 25 kg maximális felszálló tömeget meg nem haladó
+
+a) pilóta nélküli állami légijármű, valamint
+
+b) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy közszolgálati médiaszolgáltatási feladatai ellátása érdekében működtetett pilóta nélküli légijármű
+
+– a (3) bekezdés b) pontjában foglaltak megtartásán túl – az Országgyűlési Őrség biztonsági szempontok mérlegelése alapján megadott előzetes hozzájárulása esetén működtethető.
 
 (5)[^40] Az Országgyűlési Őrség a kiemelt nemzeti emlékhely 200 méteres körzete feletti légtér tekintetében a (4) bekezdés szerinti hozzájárulást a Kiemelt Nemzeti Emlékhely Bizottság egyetértése esetén adhatja meg. Az egyetértési jog gyakorlásával kapcsolatos együttműködésük kereteiről az Országgyűlési Őrség és a Kiemelt Nemzeti Emlékhely Bizottság megállapodást köt.
 
-(6) A (4) bekezdésben foglalt előzetes hozzájárulás eljárási szabályait a 25 kg maximális felszálló tömeget meg nem haladó pilóta nélküli állami légijárművet üzemeltető és a védett létesítmény zavartalan és biztonságos működésének biztosításáért felelős szervezet közötti együttműködési megállapodás részletezheti.
+(6)[^41] A (4) bekezdésben foglalt előzetes hozzájárulás eljárási szabályait a 25 kg maximális felszálló tömeget meg nem haladó
+
+a) pilóta nélküli állami légijárművet működtető szervezet a (4) bekezdés a) pontja szerinti működtetés esetén,
+
+b) pilóta nélküli légjármű vonatkozásában a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy a (4) bekezdés b) pontja szerinti működtetés esetén és
 
 [^38]: A 4/B. § (1) bekezdése a 176/2022. (IV. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^39]: A 4/B. § (4) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^39]: A 4/B. § (4) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^40]: A 4/B. § (5) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^41]: A 4/B. § (6) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
