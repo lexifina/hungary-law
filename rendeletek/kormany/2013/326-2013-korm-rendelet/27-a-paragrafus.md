@@ -1,10 +1,10 @@
-## 27. §[^214] A 24. § (1) bekezdése, a 26. § (1) és (2) bekezdése kivételével a 10. alcímet az egyházi és a magánintézményekben nem kell alkalmazni, amennyiben a munkáltató mellőzi a pályázatot.
+## 27. §[^217] A 24. § (1) bekezdése, a 26. § (1) és (2) bekezdése kivételével a 10. alcímet az egyházi és a magánintézményekben nem kell alkalmazni, amennyiben a munkáltató mellőzi a pályázatot.
 
-## III/A. Fejezet[^215]
+## III/A. Fejezet[^218]
 
 ## A KÖZNEVELÉSI INTÉZMÉNY INTÉZMÉNYVEZETŐJÉNEK ÖSZTÖNZÉSI KERESETKIEGÉSZÍTÉSE
 
-27/A. § (1)[^216] Az iskola intézményvezetőjét a munkáltató
+27/A. § (1)[^219] Az iskola intézményvezetőjét a munkáltató
 
 a) az Nkt. 80. § (1) bekezdésében foglalt országos mérések eredményei,
 
@@ -24,6 +24,6 @@ figyelembevételével, mérlegelés alapján egy tanévre vagy naptári évre sz
 
 (2) Az ösztönzési keresetkiegészítés mértéke havonta legfeljebb a vetítési alappal azonos összeg.
 
-[^214]: A 27. § a 99/2014. (III. 25.) Korm. rendelet 9. §-ával megállapított, a 249/2015. (IX. 8.) Korm. rendelet 17. § h) pontja, a 65/2021. (II. 15.) Korm. rendelet 33. §-a szerint módosított szöveg.
-[^215]: A III/A. fejezetet (27/A. §) a 24/2020. (II. 24.) Korm. rendelet 3. §-a iktatta be.
-[^216]: A 27/A. § (1) bekezdés záró szövegrésze a 417/2020. (VIII. 30.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
+[^217]: A 27. § a 99/2014. (III. 25.) Korm. rendelet 9. §-ával megállapított, a 249/2015. (IX. 8.) Korm. rendelet 17. § h) pontja, a 65/2021. (II. 15.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^218]: A III/A. fejezetet (27/A. §) a 24/2020. (II. 24.) Korm. rendelet 3. §-a iktatta be.
+[^219]: A 27/A. § (1) bekezdés záró szövegrésze a 417/2020. (VIII. 30.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.

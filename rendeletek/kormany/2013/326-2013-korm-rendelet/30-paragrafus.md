@@ -1,31 +1,31 @@
-## 12. [^221] A nevelő-oktató munkát, pedagógiai szakszolgálati tevékenységet végzők pótszabadságra való jogosultságának és szabadsága kiadásának szabályai
+## 12. [^224] A nevelő-oktató munkát, pedagógiai szakszolgálati tevékenységet végzők pótszabadságra való jogosultságának és szabadsága kiadásának szabályai
 
-30. § (1)[^222] A nevelő és oktató munkát végzőket megillető pótszabadságra
+30. § (1)[^225] A nevelő és oktató munkát végzőket megillető pótszabadságra
 
-a)[^223] nevelési-oktatási intézményben a 6. mellékletben felsorolt pedagógus,
+a)[^226] nevelési-oktatási intézményben a 6. mellékletben felsorolt pedagógus,
 
 b) pedagógiai szakszolgálati intézményben a pedagógiai szakszolgálati intézmények működéséről szóló miniszteri rendeletben meghatározott pedagógus, valamint
 
-c)[^224] a nevelő és oktató munkát közvetlenül segítő munkakörök közül a pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, pedagógiai felügyelő, gyógypedagógiai asszisztens, pszichopedagógus, gyógytornász
+c)[^227] a nevelő és oktató munkát közvetlenül segítő munkakörök közül a pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, pedagógiai felügyelő, gyógypedagógiai asszisztens, pszichopedagógus, gyógytornász
 
 munkakörben foglalkoztatottak jogosultak.
 
-(2)[^225] Az (1) bekezdésben meghatározott pedagógust, nevelő-oktató munkát közvetlenül segítő alkalmazottat a tárgyévi pótszabadsága idejéből kötelező munkavégzésre – legfeljebb tizenöt munkanapra – a következő esetekben lehet igénybe venni:
+(2)[^228] Az (1) bekezdésben meghatározott pedagógust, nevelő-oktató munkát közvetlenül segítő alkalmazottat a tárgyévi pótszabadsága idejéből kötelező munkavégzésre – legfeljebb tizenöt munkanapra – a következő esetekben lehet igénybe venni:
 
 a) továbbképzés, foglalkoztatást elősegítő képzés,
 
-b)[^226] a nevelési-oktatási intézmény tevékenységi körébe tartozó nevelés, oktatás, a pedagógiai szakszolgálati intézmény tevékenységi körébe tartozó pedagógiai szakszolgálati tevékenység,
+b)[^229] a nevelési-oktatási intézmény tevékenységi körébe tartozó nevelés, oktatás, a pedagógiai szakszolgálati intézmény tevékenységi körébe tartozó pedagógiai szakszolgálati tevékenység,
 
 c) ha a pedagógus szabadságát részben vagy egészben a szorgalmi időben, óvodapedagógus esetében – a június 1-jétől augusztus 31-éig tartó időszak kivételével – a nevelési évben adják ki.
 
 (3) A pedagógus számára az iskolában az őszi, a téli és a tavaszi szünet munkanapjai tanítás nélküli munkanapok, amelyek idejére a köznevelési intézményben ellátandó feladat is elrendelhető.
 
-(4)[^227] A nevelési-oktatási intézményekben a pedagógus szabadságát – a tizenhat évesnél fiatalabb gyermek után járó pótszabadság kivételével – elsősorban a nyári szünetben, óvodákban a július 1-jétől augusztus 31-éig tartó időszakban kell kiadni, annak figyelembevételével, hogy a gyermekek óvodai nevelését a teljes óvodai nevelési évben biztosítani kell. Ha a szabadság a nyári szünetben nem adható ki, akkor azt az őszi, a téli vagy a tavaszi szünetben, a szünet munkanapjait meghaladó szabadságnapokat pedig a szorgalmi időben, illetve a nevelési év többi részében kell kiadni.
+(4)[^230] A nevelési-oktatási intézményekben a pedagógus szabadságát – a tizenhat évesnél fiatalabb gyermek után járó pótszabadság kivételével – elsősorban a nyári szünetben, óvodákban a július 1-jétől augusztus 31-éig tartó időszakban kell kiadni, annak figyelembevételével, hogy a gyermekek óvodai nevelését a teljes óvodai nevelési évben biztosítani kell. Ha a szabadság a nyári szünetben nem adható ki, akkor azt az őszi, a téli vagy a tavaszi szünetben, a szünet munkanapjait meghaladó szabadságnapokat pedig a szorgalmi időben, illetve a nevelési év többi részében kell kiadni.
 
-[^221]: A 12. alcím címe a 268/2014. (XI. 3.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^222]: A 30. § (1) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^223]: A 30. § (1) bekezdés a) pontja a 790/2021. (XII. 27.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.
-[^224]: A 30. § (1) bekezdés c) pontja a 122/2018. (VII. 10.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^225]: A 30. § (2) bekezdés nyitó szövegrésze a 99/2014. (III. 25.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
-[^226]: A 30. § (2) bekezdés b) pontja a 268/2014. (XI. 3.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^227]: A 30. § (4) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 20. § k) pontja szerint módosított szöveg.
+[^224]: A 12. alcím címe a 268/2014. (XI. 3.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^225]: A 30. § (1) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^226]: A 30. § (1) bekezdés a) pontja a 790/2021. (XII. 27.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.
+[^227]: A 30. § (1) bekezdés c) pontja a 122/2018. (VII. 10.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^228]: A 30. § (2) bekezdés nyitó szövegrésze a 99/2014. (III. 25.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^229]: A 30. § (2) bekezdés b) pontja a 268/2014. (XI. 3.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^230]: A 30. § (4) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 20. § k) pontja szerint módosított szöveg.

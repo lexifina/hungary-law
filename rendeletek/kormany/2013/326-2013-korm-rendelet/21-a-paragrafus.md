@@ -1,8 +1,8 @@
-## 9/A. [^198] A nevelési-oktatási intézményvezetői megbízás feltételei
+## 9/A. [^201] A nevelési-oktatási intézményvezetői megbízás feltételei
 
 21/A. § (1) Nevelési-oktatási intézményben az intézményvezetői megbízás feltétele:
 
-a)[^199] az adott nevelési-oktatási intézményben pedagógus-munkakör betöltéséhez szükséges, a 6. mellékletben meghatározott szakképzettség, középiskolában pedagógus-munkakör betöltésére jogosító mesterképzésben szerzett szakképzettség,
+a)[^202] az adott nevelési-oktatási intézményben pedagógus-munkakör betöltéséhez szükséges, a 6. mellékletben meghatározott szakképzettség, középiskolában pedagógus-munkakör betöltésére jogosító mesterképzésben szerzett szakképzettség,
 
 b) pedagógus-szakvizsga keretében szerzett intézményvezetői szakképzettség,
 
@@ -18,5 +18,5 @@ d) a nevelési-oktatási intézményben pedagógus-munkakörben fennálló, hat�
 
 (5) Többcélú intézményben intézményvezetői megbízást az kaphat, aki bármelyik, az intézmény által ellátott feladatra létesíthető intézmény vezetői megbízásához szükséges feltételekkel rendelkezik. Ha a feltételek bármelyike mesterfokozatot ír elő, az intézményvezetői megbízáshoz erre van szükség.
 
-[^198]: A 9/A. alcímet (21/A–21/B. §) a 196/2019. (VIII. 1.) Korm. rendelet 13. §-a iktatta be.
-[^199]: A 21/A. § (1) bekezdés a) pontja a 417/2020. (VIII. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^201]: A 9/A. alcímet (21/A–21/B. §) a 196/2019. (VIII. 1.) Korm. rendelet 13. §-a iktatta be.
+[^202]: A 21/A. § (1) bekezdés a) pontja a 417/2020. (VIII. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.

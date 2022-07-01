@@ -16,7 +16,7 @@ ac) az intézményegység-vezetői megbízás,
 
 ad) az intézményvezető-helyettesi megbízás,
 
-ae)[^197] a tankerületi központ által fenntartott köznevelési intézmény kivételével a gazdasági, az ügyviteli, a műszaki, a személyzeti intézményvezető-helyettesi megbízás,
+ae)[^200] a tankerületi központ által fenntartott köznevelési intézmény kivételével a gazdasági, az ügyviteli, a műszaki, a személyzeti intézményvezető-helyettesi megbízás,
 
 b) vezetői megbízásnak minősül:
 
@@ -26,4 +26,4 @@ bb) az intézményegységvezető-helyettesi megbízás,
 
 bc) a gazdasági, az ügyviteli, a műszaki, a személyzeti vezetői megbízás.
 
-[^197]: A 21. § a) pont ae) alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^200]: A 21. § a) pont ae) alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.

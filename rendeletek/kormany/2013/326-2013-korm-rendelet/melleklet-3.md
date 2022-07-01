@@ -70,6 +70,6 @@
 
 | 32 | kisegítő dolgozó | * | * | * |  |  |  |  |  |  |  |
 
-3. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^304]
+3. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^308]
 
-[^304]: A 3. melléklet a 13/2020. (II. 7.) Korm. rendelet 86. § (3) bekezdésével megállapított szöveg.
+[^308]: A 3. melléklet a 13/2020. (II. 7.) Korm. rendelet 86. § (3) bekezdésével megállapított szöveg.
