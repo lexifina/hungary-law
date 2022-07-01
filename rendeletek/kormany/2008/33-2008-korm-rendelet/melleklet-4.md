@@ -6,13 +6,13 @@
 
 | 3. | Állatorvosi képesítés | Nemzeti Élelmiszerlánc-biztonsági Hivatal | élelmiszerlánc-felügyeletért felelős miniszter |
 
-| 4. | A nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti nevelési-oktatási tevékenységhez szükséges képesítés | Oktatási Hivatal | oktatásért felelős miniszter |
+| 4. | A nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti nevelési-oktatási tevékenységhez szükséges képesítés | Oktatási Hivatal | köznevelésért felelős miniszter hatáskörébe tartozó iskolai bizonyítványok ügyében a köznevelésért felelős miniszter, a felsőoktatásért felelős miniszter hatáskörébe tartozó oklevelek esetén a felsőoktatásért felelős miniszter |
 
 | 5. | A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti személyes gondoskodást nyújtó ellátásokhoz, valamint a javítóintézeti ellátáshoz szükséges képesítés | Oktatási Hivatal | gyermekek és az ifjúság védelméért felelős miniszter |
 
-| 6. | Az Etv. 55. § (4) bekezdése szerinti közokirat-hamisítással érintett képesítés | Oktatási Hivatal | oktatásért felelős miniszter |
+| 6. | Az Etv. 55. § (4) bekezdése szerinti közokirat-hamisítással érintett képesítés | Oktatási Hivatal | köznevelésért felelős miniszter hatáskörébe tartozó iskolai bizonyítványok ügyében a köznevelésért felelős miniszter, a felsőoktatásért felelős miniszter hatáskörébe tartozó oklevelek esetén a felsőoktatásért felelős miniszter |
 
-4. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^78]
+4. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^80]
 
 Az Etv. XI/A. Fejezete szerinti európai szakmai kártya
 
@@ -30,4 +30,4 @@ Az Etv. XI/A. Fejezete szerinti európai szakmai kártya
 
 | 6. | ingatlanközvetítő | Oktatási Hivatal |
 
-[^78]: A 4. számú mellékletet a 345/2015. (XI. 19.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (10) bekezdés b) pontjával megállapított, a 403/2020. (VIII. 17.) Korm. rendelet 4. §-a, a 70/2021. (II. 19.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^80]: A 4. számú mellékletet a 345/2015. (XI. 19.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (10) bekezdés b) pontjával megállapított, a 403/2020. (VIII. 17.) Korm. rendelet 4. §-a, a 70/2021. (II. 19.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
