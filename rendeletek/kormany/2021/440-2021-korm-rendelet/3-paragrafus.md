@@ -1,1 +1,3 @@
-## 2. § Az 1. § szerinti feladatokat az IFKA az innovációért és technológiáért felelős miniszter mint a Kormány belgazdaságért felelős tagjának szakmai iránymutatásainak megfelelően látja el.
+## 2. §[^1] Az 1. § szerinti feladatokat az IFKA az kultúráért és innovációért felelős miniszter mint a Kormány vállalkozásfejlesztésért felelős tagjának szakmai iránymutatásainak megfelelően látja el.
+
+[^1]: A 2. § a 238/2022. (VI. 30.) Korm. rendelet 213. §-a szerint módosított szöveg.
