@@ -1,3 +1,1 @@
-## 11. §[^13]
-
-[^13]: A 11. § a 33. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+## „(3) Ha a kérelem nem tartozik az (EU) 2020/1784 európai parlamenti és tanácsi rendelet hatálya alá, a Kar hivatali szerve a kérelmet – a kézbesítési díjnak a díj visszaküldésének költségével, illetve a postaköltséggel csökkentett összegével, valamint a csatolt iratokkal együtt – visszaküldi a kérelmezőnek, és egyúttal tájékoztatja őt a visszaküldés okáról. Ha az (EU) 2020/1784 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó kérelem a kézbesítési díj befizetéséről szóló igazolást nem tartalmazza, a Kar hivatali szerve ezt feljegyzi a kérelemre, az további ügyintézést nem igényel.”

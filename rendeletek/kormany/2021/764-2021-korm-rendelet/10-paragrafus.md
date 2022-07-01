@@ -1,3 +1,1 @@
-## 9. §[^11]
-
-[^11]: A 9. § a 33. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+## „(3) A kézbesítés eredményéről a végrehajtó kiállítja az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 14. cikk (1) bekezdése szerinti igazolást, és közvetlenül küldi meg az áttevő intézménynek, csatolva a kézbesítendő külföldi iratnak a 46/M. § (4) bekezdése alapján magánál tartott másodpéldányát.”

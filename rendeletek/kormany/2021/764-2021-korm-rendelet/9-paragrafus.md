@@ -1,3 +1,9 @@
-## 8. §[^10]
+## „(4) Az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 11. cikk (2) bekezdés a) pontja szerinti tájékoztatást a végrehajtó küldi meg az áttevő intézménynek.”
 
-[^10]: A 8. § a 33. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+9. § (1) Az R2. 46/N. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A kézbesítés eredménytelen)
+
+## „a) ha a címzett az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 12. cikke alapján az abban megjelölt határidőn belül a külföldi irat nyelve miatt tagadta meg az irat átvételét, vagy”
+
+(2) Az R2. 46/N. § (3) bekezdése helyébe a következő rendelkezés lép:

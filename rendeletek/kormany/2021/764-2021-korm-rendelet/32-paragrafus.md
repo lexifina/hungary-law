@@ -1,3 +1,3 @@
-## 31. §[^35]
+## 31. §[^27]
 
-[^35]: A 31. § a 33. § (4) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+[^27]: A 31. § a 33. § (4) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
