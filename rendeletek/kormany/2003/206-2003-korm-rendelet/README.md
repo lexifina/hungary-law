@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-206-20-
 | 2018-01-01 | 2003-206-20-22.17 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-02-15 | 2003-206-20-22.18 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-07-31 | 2003-206-20-22.19 | 294/2012. (X. 16.) Korm. rendelet |
+| 2022-07-01 | 2003-206-20-22.20 | 131/2007. (VI. 12.) Korm. rendelet |
