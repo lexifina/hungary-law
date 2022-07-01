@@ -10,7 +10,7 @@
 
 | 4. |  |  |  |
 
-2. melléklet az 1/2022. (V. 26.) GFM rendelethez
+2. melléklet az 1/2022. (V. 26.) GFM rendelethez[^4]
 
 ## Tulajdonosi jogokat gyakorló költségvetési szervek
 
@@ -106,6 +106,8 @@ IX. Tulajdonosi joggyakorló: Országos Vízügyi Főigazgatóság
 
 | 1. | VIZITERV Export Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-308251 | 2026. december 31. |
 
+| 2. | VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | 15-09-070444 | 2026. december 31. |
+
 X. Tulajdonosi joggyakorló: Nemzeti Sportközpontok
 
 |  | A | B | C |
@@ -189,3 +191,5 @@ XVIII. Tulajdonosi joggyakorló: Magyar Nemzeti Múzeum
 | 1. | Nemzeti Múzeum Korlátolt Felelősségű Társaság | 01-09-397635 | 2026. december 31. |
 
 XIX. Tulajdonosi joggyakorló: Nemzetbiztonsági Szakszolgálat
+
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a szerint módosított szöveg.

@@ -116,7 +116,7 @@ VI. Tulajdonosi joggyakorló: az Építési és Beruházási Minisztérium
 
 | 7. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2026. december 31. |
 
-| 8. | VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | 15-09-070444 | 2026. december 31. |
+| 8. |  |  |  |
 
 | 9. | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 20-09-069758 | 2026. december 31. |
 
@@ -287,4 +287,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 [^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a szerint módosított szöveg.
