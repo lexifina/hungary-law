@@ -6,7 +6,7 @@
 
 a) az intézmény által kidolgozott tanterv teljesíti a képzési és kimeneti követelményekben leírtakat,
 
-b)[^237] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
+b)[^240] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
 
 c) a szakfelelős személye az intézmény teljes munkaidőben foglalkoztatott, tudományos fokozattal rendelkező oktató, aki az Nftv. 26. § (3) bekezdése szerint az érintett felsőoktatási intézményt jelölte meg (a továbbiakban: első helyen foglalkoztatott oktató),
 
@@ -28,13 +28,13 @@ k) a képzés oktatási eszközigénye és a gyakorlati képzés feltételei biz
 
 l) az intézményi könyvtár állománya és szolgáltatásai biztosítják a tantárgyi programok kötelező irodalomjegyzékében felsorolt könyvek és szakirodalom elérhetőségét minden hallgató számára,
 
-m)[^238] a képzés során külföldi részképzés, külföldi szakmai gyakorlat vagy szakdolgozat, diplomamunka külföldi készítése céljából a tantervbe épített, nemzetközi hallgatói mobilitásra felhasználható időszak (a továbbiakban: mobilitási ablak) áll rendelkezésre.
+m)[^241] a képzés során külföldi részképzés, külföldi szakmai gyakorlat vagy szakdolgozat, diplomamunka külföldi készítése céljából a tantervbe épített, nemzetközi hallgatói mobilitásra felhasználható időszak (a továbbiakban: mobilitási ablak) áll rendelkezésre.
 
 2. Mesterképzési szak indításának feltételei:
 
 a) az intézmény által kidolgozott tanterv teljesíti a képzési és kimeneti követelményekben leírtakat,
 
-b)[^239] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
+b)[^242] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
 
 c) a szakfelelős személye az intézmény teljes munkaidőben, első helyen foglalkoztatott oktatója, aki tudományos fokozattal és oktatott területén elismert szakmai referenciával (projektvezetés, kutatási eredmény stb.) rendelkezik,
 
@@ -64,6 +64,6 @@ a) minden hallgató számára (előzetes megállapodással) igazoltan biztosíto
 
 b) az egyes tanári szakképzettségeket adó képzésekre teljesülnek a mesterfokozatot adó szak indítására vonatkozó feltételek.
 
-[^237]: Az 5. melléklet 1. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
-[^238]: Az 5. melléklet 1. pont m) alpontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
-[^239]: Az 5. melléklet 2. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^240]: Az 5. melléklet 1. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^241]: Az 5. melléklet 1. pont m) alpontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
+[^242]: Az 5. melléklet 2. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.

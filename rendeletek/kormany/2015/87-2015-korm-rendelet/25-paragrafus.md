@@ -28,9 +28,9 @@ g)[^101]
 
 (7) A (6) bekezdés b) és c) pontja tekintetében az adatszolgáltatás a felsőoktatási intézmény által üzemeltetett elektronikus nyilvántartó rendszerből, a (6) bekezdés a) és d)–g) pontja tekintetében a Hivatal által meghatározott módon történik.
 
-(8) A FIR elektronikus nyilvántartást a Hivatal adatkezelőként működteti.
+(8)[^102]
 
-(9)[^102] A FIR részére közölt elektronikus adat hitelesítése a (6) bekezdés b) és c) pontja tekintetében legalább fokozott biztonságú tanúsítványon alapuló, természetes személyhez kötött elektronikus aláírással vagy legalább fokozott biztonságú tanúsítványon alapuló, szervezethez kötött elektronikus bélyegzővel történik.
+(9)[^103] A FIR részére közölt elektronikus adat hitelesítése a (6) bekezdés b) és c) pontja tekintetében legalább fokozott biztonságú tanúsítványon alapuló, természetes személyhez kötött elektronikus aláírással vagy legalább fokozott biztonságú tanúsítványon alapuló, szervezethez kötött elektronikus bélyegzővel történik.
 
 (10) A felsőoktatási intézménynek a működés megkezdése időpontjától számított harminc napon belül be kell jelentkeznie a FIR-be. A felsőoktatási intézmény vezetője meghatalmazza azt a személyt, aki a FIR tekintetében a Hivatallal kapcsolatot tart, és az intézményi adatszolgáltatást elektronikus aláírással hitelesíti. A kapcsolattartó adatait és meghatalmazását a Hivatal részére tizenöt napon belül meg kell küldeni. A Hivatal az adatokat – a (9) bekezdés szerinti hitelesítés ellenőrzése érdekében – nyilvántartja.
 
@@ -41,4 +41,5 @@ g)[^101]
 [^99]: A 25. § (5) bekezdését a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés e) pontja hatályon kívül helyezte.
 [^100]: A 25. § (6) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 57. § (2) bekezdésével megállapított szöveg.
 [^101]: A 25. § (6) bekezdés g) pontját a 13/2020. (II. 7.) Korm. rendelet 102. § 4. pontja hatályon kívül helyezte.
-[^102]: A 25. § (9) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^102]: A 25. § (8) bekezdését a 238/2022. (VI. 30.) Korm. rendelet 148. § a) pontja hatályon kívül helyezte.
+[^103]: A 25. § (9) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 36. §-ával megállapított szöveg.
