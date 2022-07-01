@@ -1,4 +1,4 @@
-3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^19]
+3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^20]
 
 1. Ellenőrző adatszolgáltató központok, valamint
 
@@ -62,7 +62,7 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 |  | 2 | a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, Nukleáris Baleseti Információs és Értékelő Központ | (a) környezeti gamma-dózis-teljesítmény (b) levegő aeroszol |
 
-|  | 3 | az oktatásért felelős miniszter által vezetett minisztérium | a Budapesti Műszaki és Gazdaságtudományi Egyetem, Nukleáris Technikai Intézet Tanreaktora Üzemi Környezeti Sugárvédelmi Ellenőrző Rendszere | levegő aeroszol, levegő fall-out, környezeti gammadózis-teljesítmény |
+|  | 3 | a felsőoktatásért felelős miniszter által vezetett minisztérium | a Budapesti Műszaki és Gazdaságtudományi Egyetem, Nukleáris Technikai Intézet Tanreaktora Üzemi Környezeti Sugárvédelmi Ellenőrző Rendszere | levegő aeroszol, levegő fall-out, környezeti gammadózis-teljesítmény |
 
 |  | 4 | Eötvös Loránd Tudományegyetem, Debreceni Egyetem, Kaposvári Egyetem, Nyugat-magyarországi Egyetem (Sopron), Nyugat-magyarországi Egyetem (Székesfehérvár), Nyugat-magyarországi Egyetem (Szombathely), Pannon Egyetem, Pécsi Tudományegyetem, Semmelweis Egyetem, Szegedi Tudományegyetem, Szent István Egyetem környezeti ellenőrzési rendszere | környezeti gammadózis-teljesítmény |
 
@@ -80,8 +80,8 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 3.1. Megjegyzések:
 
-3.1.1. (a) = a környezeti gammadózis-teljesítmény távmérés a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium, az oktatásért felelős miniszter által vezetett minisztérium, az OMSZ, az MTA, az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság és az RHK Kft. által működtetett automata állomások bevonásával történik a külön jogszabályban meghatározott Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+3.1.1. (a) = a környezeti gammadózis-teljesítmény távmérés a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium, a felsőoktatásért felelős miniszter által vezetett minisztérium, az OMSZ, az MTA, az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság és az RHK Kft. által működtetett automata állomások bevonásával történik a külön jogszabályban meghatározott Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
 3.1.2. (b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^19]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a szerint módosított szöveg.
