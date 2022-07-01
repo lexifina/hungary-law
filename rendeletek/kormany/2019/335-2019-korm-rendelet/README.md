@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-335-20-
 | 2020-04-02 | 2019-335-20-22.4 | 2010: CXXX. törvény |
 | 2021-12-28 | 2019-335-20-22.5 | 793/2021. (XII. 27.) Korm. rendelet |
 | 2022-01-01 | 2019-335-20-22.6 | 793/2021. (XII. 27.) Korm. rendelet |
+| 2022-07-01 | 2019-335-20-22.7 | 238/2022. (VI. 30.) Korm. rendelet |
