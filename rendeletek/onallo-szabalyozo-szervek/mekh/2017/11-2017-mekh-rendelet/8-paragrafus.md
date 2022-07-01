@@ -1,5 +1,3 @@
-## alapján.
-
 ## 5. Az adatszolgáltatási kötelezettség teljesítésének módja
 
 8. § (1)[^20] Az adatszolgáltató rendszeres és rendkívüli adatszolgáltatási kötelezettségét (a továbbiakban együtt: adatszolgáltatási kötelezettség) köteles az e rendeletben előírt határidőben – az (1a), (1b) és (1c) bekezdésben meghatározott kivétellel – elektronikus formában, a Hivatal Energiainformációs Adattára (a továbbiakban: EIA) adatgyűjtő alrendszerének útján, a meghatározott adattartalommal teljesíteni.

@@ -1,42 +1,51 @@
 ## 4. Rendszeres adatszolgáltatás
 
-## 5. §[^13] A VET szerinti adatszolgáltató adatszolgáltatási kötelezettségének az alábbi adatlapok Hivatal részére történő megküldésével tesz eleget:
+## 5. §[^15] A VET szerinti adatszolgáltató adatszolgáltatási kötelezettségének az alábbi adatlapok Hivatal részére történő megküldésével tesz eleget:
 
 a) magánvezetéki engedélyes a 3. melléklet,
 
-b) 50 MW-nál nagyobb névleges teljesítőképességű erőmű a 4. melléklet,
+b) a legalább 50 MW névleges teljesítőképességű, nukleáris, fosszilis és időjárás-független (biomassza kivételével) megújuló energiahordozó alapú erőművet üzemeltető villamos energia termelői működési engedélyes a 4. melléklet,
 
-c) nem engedélyköteles, 50 és 500 kW közötti beépített teljesítőképességű kiserőmű – időjárásfüggő megújuló és geotermikus energia alapú villamosenergia-termelés az 5. és a 39. melléklet,
+c) a legalább 50 MW névleges teljesítőképességű, biomassza energiahordozó alapú erőművet üzemeltető villamos energia termelői működési engedélyes a 4. és a 42. melléklet,
 
-d) nem engedélyköteles, 50 és 500 kW közötti beépített teljesítőképességű kiserőmű – fosszilis és időjárásfüggetlen megújuló energia alapú villamosenergia-termelés az 5. és a 38. melléklet,
+d) az 50 és 500 kW közötti beépített teljesítőképességű, időjárásfüggő megújuló és geotermikus energiahordozó alapú nem engedélyköteles kiserőmű tulajdonosa az 5. és a 39. melléklet,
 
-e) nem engedélyköteles, 50 és 500 kW közötti beépített teljesítőképességű kiserőmű – biogáz energiahordozót felhasználó kiserőmű az 5., a 6. és a 38. melléklet,
+e) az 50 és 500 kW közötti beépített teljesítőképességű, fosszilis és időjárás-független (biomassza és egyéb biogáz kivételével) megújuló energiahordozó alapú nem engedélyköteles kiserőmű tulajdonosa az 5. és a 38. melléklet,
 
-f) kiserőművi összevont engedélyes – időjárásfüggő megújuló és geotermikus energia alapú villamosenergia-termelés az 5., a 7. és a 39. melléklet,
+f) az 50 és 500 kW közötti beépített teljesítőképességű, egyéb biogáz energiahordozó alapú nem engedélyköteles kiserőmű tulajdonosa az 5., a 6. és a 38. melléklet,
 
-g) kiserőművi összevont engedélyes – fosszilis és időjárásfüggetlen megújuló energia alapú villamosenergia-termelés az 5., a 7. és a 38. melléklet,
+g) az 50 és 500 kW közötti beépített teljesítőképességű, biomassza energiahordozó alapú nem engedélyköteles kiserőmű tulajdonosa az 5., a 38. és a 43. melléklet,
 
-h) kiserőművi összevont engedélyes – biogáz energiahordozót felhasználó kiserőmű az 5., a 6., a 7. és a 38. melléklet,
+h) az 50 MW-nál kisebb, de legalább 0,5 MW névleges teljesítőképességű, időjárásfüggő megújuló és geotermikus energiahordozó alapú kiserőművet üzemeltető kiserőművi összevont engedélyes az 5., a 7. és a 39. melléklet,
 
-i) átviteli rendszerirányító engedélyes, továbbá KÁT-mérlegkör felelős a 8. melléklet,
+i) az 50 MW-nál kisebb, de legalább 0,5 MW névleges teljesítőképességű, fosszilis és időjárás-független (biomassza és egyéb biogáz kivételével) megújuló energiahordozó alapú kiserőművet üzemeltető kiserőművi összevont engedélyes az 5., a 7. és a 38. melléklet,
 
-j) villamos energia elosztói engedélyes a 9. és a 37. melléklet,
+j) az 50 MW-nál kisebb, de legalább 0,5 MW névleges teljesítőképességű, egyéb biogáz energiahordozó alapú kiserőművet üzemeltető kiserőművi összevont engedélyes az 5., a 6., a 7. és a 38. melléklet,
 
-k) korlátozott villamosenergia-kereskedelmi működési engedélyes a 10. melléklet,
+k) az 50 MW-nál kisebb, de legalább 0,5 MW névleges teljesítőképességű, biomassza energiahordozó alapú kiserőművet üzemeltető kiserőművi összevont engedélyes az 5., a 7., a 38. és a 43. melléklet,
 
-l) villamosenergia-kereskedelmi működési engedélyes a 10. és a 11. melléklet,
+l) átviteli rendszerirányító engedélyes, továbbá KÁT-mérlegkör felelős a 8. melléklet,
 
-m) a Hivatal által kiadott, Garantált Szolgáltatások végzésére vonatkozó határozattal rendelkező villamosenergia-kereskedelmi működési engedélyes a 10., a 11. és a 12. melléklet,
+m) villamos energia elosztói engedélyes a 9. és a 37. melléklet,
 
-n) villamosenergia egyetemes szolgáltatói engedélyes a 13. melléklet,
+n) korlátozott villamosenergia-kereskedelmi működési engedélyes a 10. melléklet,
 
-o) szervezett villamosenergia-piaci engedélyes a 14. melléklet,
+o) villamosenergia-kereskedelmi működési engedélyes a 10. és a 11. melléklet,
 
-p) közvilágítási engedélyes a 15. melléklet,
+p) a Hivatal által kiadott, Garantált Szolgáltatások végzésére vonatkozó határozattal rendelkező villamosenergia-kereskedelmi működési engedélyes a 10., a 11. és a 12. melléklet,
 
-q)[^14] elektromos töltőberendezés üzemeltetője a 16. melléklet,
+q) villamosenergia egyetemes szolgáltatói engedélyes a 13. melléklet,
 
-r) villamosenergia-tárolói engedélyes a 36. melléklet
+r) szervezett villamosenergia-piaci engedélyes a 14. melléklet,
 
-[^13]: Az 5. § a 17/2021. (XII. 16.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^14]: Az 5. § q) pontja a 3/2022. (III. 30.) MEKH rendelet 1. § (10) bekezdése szerint módosított szöveg.
+s) közvilágítási engedélyes a 15. melléklet,
+
+t) elektromos töltőberendezés üzemeltetője a 16. melléklet,
+
+u) villamosenergia-tárolói engedélyes a 36. melléklet,
+
+v) zöld prémium típusú támogatási jogosultság jogosultja a 46. melléklet
+
+alapján.
+
+[^15]: Az 5. § az 5/2022. (VI. 20.) MEKH rendelet 3. §-ával megállapított szöveg.
