@@ -1,5 +1,5 @@
 ## 20. Hatályukat vesztő jogszabályok
 
-57. §[^167]
+57. §[^170]
 
-[^167]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^170]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
