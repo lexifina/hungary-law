@@ -1,4 +1,4 @@
-3. melléklet a 9/2015. (III. 25.) BM rendelethez[^45]
+3. melléklet a 9/2015. (III. 25.) BM rendelethez[^52]
 
 ## A hivatásos katasztrófavédelmi szerv hivatásos állományú tagjai és a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjai, valamint ez utóbbiak szakmai felügyeletét végző személyek által e rendelet hatálybalépése előtt megszerzett, elismerhető szakmai képesítések szintjei
 
@@ -58,7 +58,7 @@
 
 2.1.1.2. három és fél vagy öt hónapos tiszthelyettes-képző szakon szerzett képesítés,
 
-2.1.1.3. tűzoltó szakképesítés.
+2.1.1.3. tűzoltó szakképesítés (2002. augusztus 2. után indított, OKJ azonosító szám: 32 8915 01).
 
 2.1.2. Középszintű:
 
@@ -74,9 +74,7 @@
 
 2.1.2.6. tiszti vizsga,
 
-2.1.2.7. zászlósképző, 10 hónapos tűzoltó tiszthelyettes-képző, tűzoltó (OKJ azonosító szám:
-
-32 8915 01) szakképesítés,
+2.1.2.7. zászlósképző, 10 hónapos tűzoltó tiszthelyettes-képző, tűzoltó (2002. augusztus 2-ig indított, OKJ azonosító szám: 32 8915 01) szakképesítés,
 
 2.1.2.8. az 1995 előtti legalább megyei szintű irányító szervezet által szervezett egyesületi parancsnoki tanfolyam, valamint 1995-től a 300 tanórát meghaladó képzési idejű önkéntes és létesítményi tűzoltóparancsnok-képző szakon megszerzett képesítés,
 
@@ -140,4 +138,4 @@ OKJ 93 25362 14 20 01 tűzoltó).
 
 3.2. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai képzési formákat és szaktanfolyamokat a 3.1.1. pont tartalmazza, illetve a katasztrófavédelmi alapismereti tanfolyam elvégzése is elegendő.
 
-[^45]: A 3. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^52]: A 3. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (3) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § b) pontja szerint módosított szöveg szöveg.

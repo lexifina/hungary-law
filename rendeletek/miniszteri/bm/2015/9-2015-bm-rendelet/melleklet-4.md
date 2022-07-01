@@ -1,4 +1,4 @@
-4. melléklet a 9/2015. (III. 25.) BM rendelethez[^47]
+4. melléklet a 9/2015. (III. 25.) BM rendelethez[^54]
 
 ## A hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztások képesítési követelményei
 
@@ -186,4 +186,4 @@
 
 3.3. Középfokú rendészeti tárgyú képesítésnek felel meg a Katasztrófavédelmi alapismereti tanfolyami képesítés.
 
-[^47]: A 4. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^54]: A 4. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (4) bekezdésével megállapított szöveg.

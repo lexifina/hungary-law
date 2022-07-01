@@ -1,6 +1,6 @@
 ## 4. A képzések szervezése és a beiskolázás szabályai
 
-12. §[^29] (1) A Katasztrófavédelmi Oktatási Központban (a továbbiakban: KOK) folyó katasztrófavédelmi, polgári védelmi, tűzvédelmi, valamint iparbiztonsági szakmai képzések képzési programjait a KOK készíti el.
+12. §[^33] (1) A Katasztrófavédelmi Oktatási Központban (a továbbiakban: KOK) folyó katasztrófavédelmi, polgári védelmi, tűzvédelmi, valamint iparbiztonsági szakmai képzések képzési programjait a KOK készíti el.
 
 (2) A szakmai képzést végző szervnek rendelkeznie kell a képzési programban meghatározottak végrehajtásához szükséges személyi és tárgyi feltételekkel, ennek hiányában a képzés nem indítható. A szakmai képzés megkezdését a képzést végző szervnek a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságnál (a továbbiakban: BM OKF) előzetesen be kell jelentenie. Az adott képzésre vonatkozó képzési programokban foglaltak, valamint speciális feltételek meglétét, a képzés végrehajtását a BM OKF ellenőrizheti.
 
@@ -14,9 +14,9 @@
 
 (7) A katasztrófavédelmi alapismereti tanfolyamot a KOK szervezi és adja ki a képzés elvégzését igazoló okiratot.
 
-(8) Az önkormányzati és létesítményi tűzoltó tanfolyamot a KOK és kihelyezett képzésként a katasztrófavédelmi igazgatóságok szervezik, a képzés elvégzését igazoló okiratot a KOK adja ki.
+(8)[^34]
 
-(9) Az önkormányzati és létesítményi tűzoltó szerparancsnoki tanfolyamot a KOK szervezi és adja ki a képzés elvégzését igazoló okiratot.
+(9)[^35]
 
 (10) A (3)–(7) bekezdésben, valamint a 2. mellékletben meghatározott képzések esetében a képzési programokat a BM OKF-fel történt egyeztetést követően a KOK készíti el, és azokat a BM OKF főigazgatója hagyja jóvá.
 
@@ -28,4 +28,6 @@
 
 (14) A tűzoltó tiszti kiegészítő képzést a BM OKF főigazgatója által jóváhagyott képzési program alapján a KOK szervezi, hajtja végre és adja ki a képzés elvégzését igazoló okiratot. A tűzoltó tiszti kiegészítő képzésre történő beiskolázás feltétele a legalább 5 év tűzoltó szakmai gyakorlat megléte.
 
-[^29]: A 12. § a 14/2021. (VI. 16.) BM rendelet 12. §-ával megállapított szöveg.
+[^33]: A 12. § a 14/2021. (VI. 16.) BM rendelet 12. §-ával megállapított szöveg.
+[^34]: A 12. § (8) bekezdését a 9/2022. (IV. 21.) BM rendelet 5. §-a hatályon kívül helyezte.
+[^35]: A 12. § (9) bekezdését a 9/2022. (IV. 21.) BM rendelet 5. §-a hatályon kívül helyezte.

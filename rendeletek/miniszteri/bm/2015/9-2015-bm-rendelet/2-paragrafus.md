@@ -2,9 +2,9 @@
 
 ## 2. §[^3] E rendelet alkalmazásában
 
-1. belső szakmai képzés: a hivatásos katasztrófavédelmi szerv állománya számára szervezett, a szakmai képzés körébe nem tartozó, képesítési követelményként meghatározott szakmai tanfolyam, illetve az önkormányzati, létesítményi, önkéntes tűzoltóságok állománya számára beosztás betöltésre feljogosító felkészítés, amely képzési programmal rendelkezik,
+1.[^4] belső képzés: a hivatásos katasztrófavédelmi szerv saját állománya számára szervezett, a szakmai képzés körébe nem tartozó, képesítési követelményként meghatározott szakmai tanfolyam, illetve az önkormányzati, létesítményi, önkéntes tűzoltóságok állománya számára beosztás betöltésére feljogosító felkészítés, amely képzési programmal rendelkezik,
 
-2. hatósági kiegészítő képzés: a hatósági, iparbiztonsági szakterületen szolgálatot teljesítők részére szervezett legalább 100 órás képzés, mely a hatósági szakterületen felsőszintű végzettségnek minősül,
+2.[^5] hatósági kiegészítő képzés: a hatósági, iparbiztonsági szakterületen felsőfokú végzettséggel rendelkező szolgálatot teljesítők részére szervezett legalább 100 órás képzés, mely a hatósági szakterületen felsőszintű végzettségnek minősül,
 
 3. katasztrófavédelmi alapismereti tanfolyam: a hivatásos katasztrófavédelmi szervnél nem szakmai szolgálati beosztásban foglalkoztatottak felkészítésére szervezett képzés,
 
@@ -12,7 +12,7 @@
 
 5. önkéntes és alkalomszerűen igénybe vehető létesítményi tűzoltó parancsnoki tanfolyam: az önkéntes tűzoltó egyesületek szaktevékenység végzésére jogosult tagjainak, valamint a létesítményi tűzoltóságok alkalomszerűen igénybe vehető tagjainak parancsnoki tevékenység ellátására szervezett felkészítés,
 
-6. önkormányzati és főfoglalkozású létesítményi tűzoltó parancsnoki tanfolyam: az önkormányzati és főfoglalkozású létesítményi tűzoltóságok felsőfokú állami végzettséggel nem rendelkező tagjainak felsőszintű szakmai képesítése, amely parancsnoki beosztás betöltésére jogosít,
+6.[^6] önkormányzati és főfoglalkozású létesítményi tűzoltó parancsnoki tanfolyam: az önkormányzati és főfoglalkozású létesítményi tűzoltóságok felsőfokú állami végzettséggel nem rendelkező tagjainak felsőszintű szakmai képesítése, amely középfokú állami végzettséggel a szerparancsnoki képesítésre ráépülve parancsnoki beosztás betöltésére jogosít,
 
 7. önkormányzati és létesítményi tűzoltó szerparancsnoki tanfolyam: az önkormányzati és a létesítményi tűzoltóságok főfoglalkozású tagjainak egy raj szaktevékenységének irányítására szervezett felkészítés,
 
@@ -35,3 +35,6 @@
 16. tűzvédelmi oktatás: a létesítményre vonatkozó tűzvédelmi előírások ismertetése, amely elméleti részből, valamint – ahol azt e rendelet előírja – gyakorlati részből áll.
 
 [^3]: A 2. § a 14/2021. (VI. 16.) BM rendelet 9. §-ával megállapított szöveg.
+[^4]: A 2. § 1. pontja a 9/2022. (IV. 21.) BM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § 2. pontja a 9/2022. (IV. 21.) BM rendelet 4. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 6. pontja a 9/2022. (IV. 21.) BM rendelet 4. § b) pontja szerint módosított szöveg.

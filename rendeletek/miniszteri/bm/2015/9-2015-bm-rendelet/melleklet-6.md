@@ -1,4 +1,4 @@
-6. melléklet a 9/2015. (III. 25.) BM rendelethez[^49]
+6. melléklet a 9/2015. (III. 25.) BM rendelethez[^56]
 
 ## A gazdálkodó szervezeteknél a tűzvédelem szakágazatban, illetve a tűzvédelmi szolgáltatás területén foglalkoztatottak által az e rendelet hatálybalépése előtt megszerzett, elismerhető szakmai képesítések szintjei
 
@@ -44,4 +44,4 @@
 
 3.11. a hároméves levelező tűzvédelmi előadói vagy a tűzvédelmi vezetői szakon, valamint a tűzvédelmi szakelőadói szakon (OKJ azonosító szám: 71 8915 01) szerzett képesítés vagy szakképzettség.
 
-[^49]: A 6. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (6) bekezdésével megállapított szöveg.
+[^56]: A 6. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (6) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-## 22. §[^42]
+## 22. §[^49]
 
-1. melléklet a 9/2015. (III. 25.) BM rendelethez[^43]
+1. melléklet a 9/2015. (III. 25.) BM rendelethez[^50]
 
 ## Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként és szolgálati beosztások vagy munkakörök szerint
 
@@ -132,7 +132,11 @@
 
 1.2.3.16. tűzoltó tiszti kiegészítő képzés (a 2. § 15. pontja alapján),
 
-1.2.3.17. katasztrófavédelem mesterképzési szak és legalább közép szintű tűzoltás, műszaki mentés vezetésére jogosító végzettség).
+1.2.3.17. katasztrófavédelem mesterképzési szak (ha rendelkezik legalább középszintű tűzoltás, műszaki mentés vezetésére jogosító végzettséggel),
+
+1.2.3.18. katasztrófavédelem alapképzési szak, katasztrófavédelmi műveleti szakirány, (tűzoltósági szakterületen csak abban az esetben fogadható el, ha rendelkezik legalább középszintű tűzoltás, műszaki mentés vezetésére jogosító végzettséggel),
+
+1.2.3.19. katasztrófavédelem alapképzési szak, iparbiztonsági szakirány (tűzoltósági szakterületen csak abban az esetben fogadható el, ha rendelkezik legalább középszintű tűzoltás, műszaki mentés vezetésére jogosító végzettséggel).
 
 1.2.4. A rendvédelmi alkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike.
 
@@ -358,5 +362,5 @@
 
 5.3. Felsőszintű: kéményseprő mester (felsőfokú szakirányú állami végzettséggel).
 
-[^42]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: Az 1. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^49]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: Az 1. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (1) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § a) pontja szerint módosított szöveg.
