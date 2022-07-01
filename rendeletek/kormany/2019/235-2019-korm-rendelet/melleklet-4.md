@@ -58,6 +58,48 @@
 
 ## IX. a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet szerinti zenés, táncos rendezvény.
 
-4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^47]
+4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^50]
 
-[^47]: A 4. melléklet a 260/2020. (VI. 4.) Korm. rendelet 6. §-a alapján nem lép hatályba.
+Turisztikailag kiemelt jelentőségű település
+
+Aggtelek
+
+Dég
+
+Hajós
+
+Hollókő
+
+Kalocsa
+
+Kaposvár
+
+Kecskemét
+
+Kiskőrös
+
+Lakitelek
+
+Nádasdladány
+
+Orosháza
+
+Őriszentpéter
+
+Pápa
+
+Szarvas
+
+Szekszárd
+
+Szentgotthárd
+
+Szolnok
+
+Tata
+
+Tiszakécske
+
+Zalaegerszeg
+
+[^50]: A 4. mellékletet a 239/2022. (VI. 30.) Korm. rendelet 43. §-a iktatta be.

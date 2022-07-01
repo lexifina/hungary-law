@@ -1,6 +1,6 @@
 ## 8/B. § A vendéglátó üzlet üzemeltető és a 6/A. § (7) bekezdése szerinti felhasználó az adott vendéglátó üzlethez kapcsolódó tevékenységére vonatkozó forgalmi adatokat, illetve egyéb, területi adatelemzésen alapuló forgalmi adatokra vonatkozó riportokat az elektronikus felületen keresztül megtekintheti és lekérdezheti.
 
-## 5/B. [^25] A Nemzeti Turisztikai Adatszolgáltató Központ részére történő adatszolgáltatás rendje turisztikai attrakció üzemeltetők esetén
+## 5/B. [^26] A Nemzeti Turisztikai Adatszolgáltató Központ részére történő adatszolgáltatás rendje turisztikai attrakció üzemeltetők esetén
 
 8/C. § (1) A turisztikai attrakció üzemeltető az elektronikus felületen történő regisztrációját követően, a jegykezelő szoftver alkalmazásával, elektronikus formában biztosítja adatszolgáltatásra kötelezett turisztikai attrakciónként az adatszolgáltatás körébe tartozó adatok továbbítását.
 
@@ -12,7 +12,11 @@
 
 (5) A (2) bekezdésben meghatározott biztonságos kommunikációs csatornán keresztül a jegykezelő szoftver a Nemzeti Turisztikai Adatszolgáltató Központtal automatikus hálózati kommunikációt tart fent.
 
-(6) A (4) bekezdésben meghatározott hálózati kommunikáción keresztül a jegykezelő szoftver legalább egy alkalommal a tárgynapot követő 24 órán belül automatikusan küldi a tárgynapra vonatkozóan a napi adatszolgáltatás körébe tartozó, a látogatóra vonatkozóan személyes adatot nem tartalmazó forgalmi jellegű adatokat.
+(6)[^27] A (4) bekezdésben meghatározott hálózati kommunikáción keresztül a jegykezelő szoftver automatikusan küldi
+
+a) a jegykezelő szoftverben minden jegyértékesítés lezárását követően, a Nemzeti Turisztikai Adatszolgáltató Központ elektronikus felületén közzétett rendszerességgel, a jegyértékesítésre vonatkozó, az eseményvezérelt adatszolgáltatás körébe tartozó, személyes adatot nem tartalmazó, statisztikai jellegű adatokat;
+
+b) a jegykezelő szoftverben a jegy felhasználására vonatkozó, a Nemzeti Turisztikai Adatszolgáltató Központ elektronikus felületén közzétett rendszerességgel, az eseményvezérelt adatszolgáltatás körébe tartozó adatokat, amennyiben a jegy felhasználására vonatkozó információk elektronikusan kerülnek rögzítésre.
 
 (7) A (6) bekezdésben meghatározott adatszolgáltatás körébe tartozó adatokat az üzemeltető az elektronikus felületen műszaki és hitelesítési feltételeket tartalmazó tájékoztatóban teszi közzé.
 
@@ -22,4 +26,5 @@
 
 (10) Az üzemeltető a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetésével és ehhez kapcsolódóan a turizmus szakmai feladatokkal összefüggésben értesítést küldhet a turisztikai attrakció üzemeltető részére.
 
-[^25]: Az 5/B. alcímet (8/C–8/D. §) az 501/2021. (VIII. 18.) Korm. rendelet 27. §-a iktatta be.
+[^26]: Az 5/B. alcímet (8/C–8/D. §) az 501/2021. (VIII. 18.) Korm. rendelet 27. §-a iktatta be.
+[^27]: A 8/C. § (6) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 41. §-ával megállapított szöveg.

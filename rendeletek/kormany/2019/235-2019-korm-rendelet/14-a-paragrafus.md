@@ -1,4 +1,4 @@
-## 8/A. [^30] A tárhely üzemeltetése
+## 8/A. [^32] A tárhely üzemeltetése
 
 14/A. § (1) A turisztikai tárhelyszolgáltatónak az üzemeltetés során biztosítani kell a tárhelybe bekerült adatok megőrzését és biztonságos kezelését, a nem nyilvános adatok védelmét, a titokvédelemmel összefüggő kötelezettségek teljesítését.
 
@@ -12,4 +12,4 @@ c) gondoskodik a jogszerű állapot helyreállításáról.
 
 (3) A turisztikai tárhelyszolgáltató a tárhely üzemszerű karbantartási idejéről előzetesen, valamint az esetleges üzemzavarról – a karbantartás ideje alatt – tájékoztatást ad a rendőrség részére. Ezekről az eseményekről az üzemeltető elektronikus eseménynaplót vezet, amely tartalmazza az esemény leírását, időpontját, időtartamát és a megtett intézkedéseket.
 
-[^30]: A 8/A. alcímet (14/A. §) a 383/2020. (VIII. 7.) Korm. rendelet 7. §-a iktatta be.
+[^32]: A 8/A. alcímet (14/A. §) a 383/2020. (VIII. 7.) Korm. rendelet 7. §-a iktatta be.

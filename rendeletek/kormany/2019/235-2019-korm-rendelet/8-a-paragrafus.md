@@ -12,7 +12,11 @@
 
 (5) A (2) bekezdésben meghatározott biztonságos kommunikációs csatornán keresztül a vendéglátó szoftver a Nemzeti Turisztikai Adatszolgáltató Központtal automatikus hálózati kommunikációt tart fent.
 
-(6) A (4) bekezdésben meghatározott hálózati kommunikáción keresztül a vendéglátó szoftver legalább egy alkalommal a tárgynapot követő 24 órán belül automatikusan küldi a tárgynapra vonatkozóan a napi adatszolgáltatás körébe tartozó, személyes adatot nem tartalmazó, forgalmi jellegű adatokat.
+(6)[^25] A (4) bekezdésben meghatározott hálózati kommunikáción keresztül a vendéglátó szoftver automatikusan küldi
+
+a) a tárgynapot követő 24 órán belül a tárgynapra vonatkozóan a napi adatszolgáltatás körébe tartozó, személyes adatot nem tartalmazó, statisztikai jellegű adatokat;
+
+b) a vendéglátó szoftverben valamennyi fogyasztás és megrendelés teljesítésének lezárását követően, a Nemzeti Turisztikai Adatszolgáltató Központ elektronikus felületén közzétett rendszerességgel a fogyasztásra és megrendelésre vonatkozó, az eseményvezérelt adatszolgáltatás körébe tartozó forgalmi adatokat, ideértve a nem helyben fogyasztott megrendelések adatait is.
 
 (7) A (6) bekezdésben meghatározott adatszolgáltatás körébe tartozó adatokat az üzemeltető az elektronikus felületen műszaki és hitelesítési feltételeket tartalmazó tájékoztatóban teszi közzé.
 
@@ -26,3 +30,4 @@
 
 [^23]: A 8. § az 501/2021. (VIII. 18.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^24]: Az 5/A. alcímet (8/A–8/B. §) az 501/2021. (VIII. 18.) Korm. rendelet 27. §-a iktatta be.
+[^25]: A 8/A. § (6) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 40. §-ával megállapított szöveg.
