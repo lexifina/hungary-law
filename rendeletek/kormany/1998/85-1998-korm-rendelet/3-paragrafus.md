@@ -16,7 +16,7 @@ f) szállítói hitel: olyan tagállami származású áruk vagy szolgáltatáso
 
 g) vevőhitel: olyan kereskedelmi szerződést finanszírozó, egy vagy több pénzügyi intézmény és egy vagy több kölcsönvevő közötti, egy vagy több tagállamból származó termékek és szolgáltatások exportjáról szóló hitelszerződésre vonatkozik, ahol a hitelintézet(ek) vállalja (vállalják), hogy a szállító(k)nak a kölcsön alapjául szolgáló ügylet alapján készpénzben fizet(nek) a vevő(k)/kölcsönvevő(k) nevében, míg a vevő(k)/kölcsönvevő(k) lejáratkor visszafizetik azt a hitelintézet(ek)nek;
 
-h)[^27] CIRR Bizottság: a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztérium és az Eximbank szakértőiből, valamint a külgazdasági ügyekért felelős miniszter által delegált további egy szakértőből álló Kamatkiegyenlítési Rendszer Szakértői Bizottság;
+h)[^27] CIRR Bizottság: a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter és az Eximbank által delegált szakértőkből álló Kamatkiegyenlítési Rendszer Szakértői Bizottság;
 
 i)[^28] beszállítói hitel: a Törvény 1. § (5a) bekezdés 1. pontja szerinti beszállítói ügyletnek minősülő ügylet megvalósításához a beszállító és a hitelező bank, vagy az alvállalkozó és a hitelező bank között létrejött hitelviszony;
 
@@ -41,7 +41,7 @@ r)[^37] export előfinanszírozó hitel: olyan hitelviszony, amely az exportőr 
 [^24]: A 3. § a 304/2005. (XII. 25.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után megkötött exporthitel-, pénzkölcsön- és garancia-szerződésekre irányadó.
 [^25]: A 3. § c) pontja a 126/2020. (IV. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^26]: A 3. § e) pontja a 215/2015. (VII. 31.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^27]: A 3. § h) pontja a 327/2014. (XII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^27]: A 3. § h) pontja a 238/2022. (VI. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^28]: A 3. § i) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^29]: A 3. § j) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^30]: A 3. § k) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 183/2013. (VI. 7.) Korm. rendelet 2. §-ával megállapított, a 327/2014. (XII. 15.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
