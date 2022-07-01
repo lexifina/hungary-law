@@ -1,4 +1,4 @@
-## 18. §[^40]
+## 18. §[^38]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és a 7. § 3. pontja 2022. július 1-jén lép hatályba.
 
-[^40]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

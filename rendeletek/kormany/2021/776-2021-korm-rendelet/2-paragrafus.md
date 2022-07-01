@@ -1,3 +1,3 @@
-## 1. §[^1]
+## 1. § A kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendelet (a továbbiakban: R.) 7. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 19. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+## „(2) A kiemelt településkép-védelmi környezet területét érintő településterv egyeztetése során a KNEB a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet (a továbbiakban: TTr.) államigazgatási szervekre irányadó véleményezési szabályai szerint ad véleményt. A KNEB véleményét az állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal kéri ki.”
