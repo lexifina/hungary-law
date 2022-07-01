@@ -4,13 +4,13 @@
 
 (2) Tervező szervek a következők:
 
-a)[^22] központi tervező szerv: a belgazdaságért felelős miniszter által vezetett minisztérium,
+a)[^23] központi tervező szerv: a belgazdaságért felelős miniszter által vezetett minisztérium,
 
-b)[^23] ágazati tervező szervek: a miniszterek irányítása vagy felügyelete alá tartozó központi államigazgatási szervek, valamint az MNB, továbbá az OBH elnöke,
+b)[^24] ágazati tervező szervek: a miniszterek irányítása vagy felügyelete alá tartozó központi államigazgatási szervek, valamint az MNB, továbbá az OBH elnöke,
 
 c) területi tervező szervek: a megyei védelmi bizottságok és az ágazati tervező szervek területi szervei,
 
-d) helyi tervező szervek: a külön jogszabályban[^24] meghatározott helyi védelmi bizottságok és a polgármesterek,
+d) helyi tervező szervek: a külön jogszabályban[^25] meghatározott helyi védelmi bizottságok és a polgármesterek,
 
 e) a 6. §-ban foglaltak szerint kijelölt szolgáltatók (a továbbiakban: kijelölt szolgáltatók).
 
@@ -40,7 +40,7 @@ k) a statisztikai tényadatok gyűjtését a nemzetgazdaság békeidőszaki foly
 
 (4) A védelemgazdasági alapterv elkészítésének és rendszeres felülvizsgálatának folyamatát a központi tervező szerv koordinálja. Az ágazati tervező szervek az irányításuk vagy felügyeletük alá tartozó országos és területi szervek részére, a megyei védelmi bizottságok a helyi tervező szervek részére határozzák meg a védelemgazdasági alapterv elkészítéséhez szükséges tervezési feladatokat.
 
-(5) A gazdaságfelkészítési tervezés ágazati feladatai végrehajtásának irányítását az ágazati tervező szervek a honvédelmi felkészítés és az országmozgósítás feladatainak végrehajtására létrehozott, külön jogszabályban[^25] meghatározott önálló szervezeti egységek útján látják el.
+(5) A gazdaságfelkészítési tervezés ágazati feladatai végrehajtásának irányítását az ágazati tervező szervek a honvédelmi felkészítés és az országmozgósítás feladatainak végrehajtására létrehozott, külön jogszabályban[^26] meghatározott önálló szervezeti egységek útján látják el.
 
 (6) A gazdaságfelkészítési tervezés területi feladatait a területi tervező szervek végzik: a megyei védelmi bizottságok titkárságai – gazdaságmozgósítási szakreferens alkalmazása mellett – a megyei védelmi bizottság elnökének irányításával; az ágazati tervező szervek területi szervei az (5) bekezdésben megjelölt önálló szervezeti egységek vezetőjének irányításával.
 
@@ -52,27 +52,27 @@ a) a)–c) pontjaiban meghatározott feladatok tekintetében az illetékes köve
 
 b) a d) és a h) pontjaiban meghatározott feladatok tekintetében az ágazati miniszterek és a megyei védelmi bizottságok,
 
-c)[^26] az e)–f) pontjaiban foglaltak tekintetében – a tervező szervek javaslatai alapján – az államháztartásért felelős miniszter,
+c)[^27] az e)–f) pontjaiban foglaltak tekintetében – a tervező szervek javaslatai alapján – az államháztartásért felelős miniszter,
 
-d)[^27] a g) pontjában foglalt feladatok tekintetében – az államháztartásért felelős miniszter egyetértésével – a belgazdaságért felelős miniszter,
+d)[^28] a g) pontjában foglalt feladatok tekintetében – az államháztartásért felelős miniszter egyetértésével – a belgazdaságért felelős miniszter,
 
 e) az i) pontjában foglalt feladat tekintetében a tartalékolásért felelős szervek vezetői (a továbbiakban: felelős vezető),
 
 f) a j) pontjában foglalt feladat tekintetében a kijelölt szolgáltatók,
 
-g) a k) pontjában foglalt feladat tekintetében a tervező szervek, valamint – a külön jogszabályban[^28] foglaltak keretein belül – a KSH és területi igazgatóságai
+g) a k) pontjában foglalt feladat tekintetében a tervező szervek, valamint – a külön jogszabályban[^29] foglaltak keretein belül – a KSH és területi igazgatóságai
 
-## végzik.
+végzik.
 
 (9) A védelemgazdasági alaptervet, valamint az abban foglaltak és a speciális minősített időszaki és egyéb gazdaságmozgósítási jogszabályi rendelkezések érvényesülését elősegítő, a 4. § (2) bekezdés d) pontjában foglalt – gazdaságmozgósítási célú – intézkedési tervet a tervező szerv vezetője hagyja jóvá. A területi és a helyi tervező szerveknél az intézkedési tervet minden esetben az illetékes megyei védelmi bizottság elnökének, míg a kijelölt szolgáltatók esetében a kijelölő tervező szervnek az egyetértésével kell jóváhagyni.
 
-(10)[^29] A védelemgazdasági alapterv elkészítésének módszertani szabályait az 1. számú melléklet tartalmazza.
+(10)[^30] A védelemgazdasági alapterv elkészítésének módszertani szabályait az 1. számú melléklet tartalmazza.
 
-[^22]: Az 5. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés d) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^23]: Az 5. § (2) bekezdés b) pontja a 314/2011. (XII. 23.) Korm. rendelet 8. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^24]: A Hvt. 17. §-a.
-[^25]: A Vhr. 5. § (3) bekezdése.
-[^26]: Az 5. § (8) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^27]: Az 5. § (8) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés f) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^28]: A statisztikáról szóló 1993. évi XLVI. törvény.
-[^29]: Az 5. § (10) bekezdését a 201/2003. (XII. 10.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^23]: Az 5. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés d) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^24]: Az 5. § (2) bekezdés b) pontja a 314/2011. (XII. 23.) Korm. rendelet 8. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^25]: A Hvt. 17. §-a.
+[^26]: A Vhr. 5. § (3) bekezdése.
+[^27]: Az 5. § (8) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^28]: Az 5. § (8) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés f) pontja, a 630/2020. (XII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^29]: A statisztikáról szóló 1993. évi XLVI. törvény.
+[^30]: Az 5. § (10) bekezdését a 201/2003. (XII. 10.) Korm. rendelet 1. §-a iktatta a szövegbe.

@@ -1,6 +1,6 @@
 ## Adatszolgáltatási kötelezettség
 
-8. §[^36] (1) Az 5. §-ban előírt gazdaságfelkészítési tervezéshez és a szövetséges erők számára nyújtandó befogadó nemzeti támogatás[^37] (a továbbiakban: BNT) tervezéséhez az 1. § d) pontjában foglalt és adatszolgáltatásra a (4) bekezdés szerint kijelölt szolgáltató (a továbbiakban: adatszolgáltató) – a külön jogszabályban[^38] meghatározott adatszolgáltatási kötelezettsége alapján – gazdaságmozgósítási célú adatszolgáltatást (a továbbiakban: adatszolgáltatás) teljesít.
+8. §[^37] (1) Az 5. §-ban előírt gazdaságfelkészítési tervezéshez és a szövetséges erők számára nyújtandó befogadó nemzeti támogatás[^38] (a továbbiakban: BNT) tervezéséhez az 1. § d) pontjában foglalt és adatszolgáltatásra a (4) bekezdés szerint kijelölt szolgáltató (a továbbiakban: adatszolgáltató) – a külön jogszabályban[^39] meghatározott adatszolgáltatási kötelezettsége alapján – gazdaságmozgósítási célú adatszolgáltatást (a továbbiakban: adatszolgáltatás) teljesít.
 
 (2) Az 5. § (2) bekezdés a)–c) pontjaiban megjelölt tervező szervek (a továbbiakban: adatgyűjtő szervek) az adatszolgáltatók által közölt adatokat – a tervezési rendnek megfelelően – központi, ágazati és területi szinten gyűjtik be.
 
@@ -24,9 +24,9 @@ b) a tevékenységéhez használt, a 3. számú melléklet szerinti adatkörökh
 
 (10) Az adatszolgáltatók kötelesek az elérhetőségi adataik megváltozásáról, valamint az adatszolgáltatásban jelentett termelő, szolgáltató kapacitásuk megszűnéséről, 30%-ot meghaladó csökkenéséről vagy 30%-ot meghaladó növekedéséről, illetve – a megfigyelt vagyoni szolgáltatások körét érintő – új kapacitás beindításáról az adatgyűjtő szervet haladéktalanul értesíteni.
 
-(11) A tervező szervek a gazdaságfelkészítési tervezés információs hátterének biztosításához a külön jogszabályban[^39] meghatározott országos statisztikai adatgyűjtési programban szereplő adatgyűjtések alapján létrehozott és más – a nemzetgazdasági folyamatokat leíró igazgatási célú – adatbázisok aktuális adatállományából, eseti jelleggel, személyes/egyedi adatokra nem vonatkozó kigyűjtéseket kérhetnek.
+(11) A tervező szervek a gazdaságfelkészítési tervezés információs hátterének biztosításához a külön jogszabályban[^40] meghatározott országos statisztikai adatgyűjtési programban szereplő adatgyűjtések alapján létrehozott és más – a nemzetgazdasági folyamatokat leíró igazgatási célú – adatbázisok aktuális adatállományából, eseti jelleggel, személyes/egyedi adatokra nem vonatkozó kigyűjtéseket kérhetnek.
 
-[^36]: A 8. § a 201/2003. (XII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^37]: Lásd a befogadó nemzeti támogatás egyes kérdéseiről szóló 176/2003. (X. 28.) Korm. rendelet 2. § (1) bekezdését.
-[^38]: A Hvt. 16. § (2) bekezdése és a 191. § (1) bekezdés d) pontja.
-[^39]: A statisztikáról szóló 1993. évi XLVI. törvény 11. § (1) bekezdése.
+[^37]: A 8. § a 201/2003. (XII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^38]: Lásd a befogadó nemzeti támogatás egyes kérdéseiről szóló 176/2003. (X. 28.) Korm. rendelet 2. § (1) bekezdését.
+[^39]: A Hvt. 16. § (2) bekezdése és a 191. § (1) bekezdés d) pontja.
+[^40]: A statisztikáról szóló 1993. évi XLVI. törvény 11. § (1) bekezdése.

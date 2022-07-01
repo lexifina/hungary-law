@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-131-20-
 | 2020-07-31 | 2003-131-20-22.17 | 371/2020. (VII. 31.) Korm. rendelet |
 | 2020-12-30 | 2003-131-20-22.18 | 630/2020. (XII. 22.) Korm. rendelet |
 | 2021-01-01 | 2003-131-20-22.19 | 273/2010. (XII. 9.) Korm. rendelet |
+| 2022-07-01 | 2003-131-20-22.20 | 238/2022. (VI. 30) Korm. rendelet |

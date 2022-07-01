@@ -86,9 +86,9 @@
 
 ## C) ADATSZOLGÁLTATÓK ELÉRHETŐSÉGI ADATAI
 
-3. számú melléklet a 131/2003. (VIII. 22.) Korm. rendelethez[^114]
+3. számú melléklet a 131/2003. (VIII. 22.) Korm. rendelethez[^116]
 
-## A BNT erőforrásokra vonatkozó adatgyűjtés adatkörei
+A BNT erőforrásokra vonatkozó adatgyűjtés adatkörei
 
 1. A NATO Szövetséges erők fogadásánál érintett szervezetek és objektumok létszám-, kapacitás, illetve más, nem számszerűsíthető adatai.
 
@@ -118,4 +118,4 @@
 
 14. Adatszolgáltatók elérhetőségi adatai.
 
-[^114]: A 3. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 3. számú melléklete iktatta a szövegbe.
+[^116]: A 3. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 3. számú melléklete iktatta a szövegbe.
