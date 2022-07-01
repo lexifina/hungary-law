@@ -1,3 +1,3 @@
-37/A. §[^556]
+37/A. §[^527]
 
-[^556]: A Vhr. 37/A. §-át a 207/2000. (XII. 11.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 376/2021. (VI. 30.) Korm. rendelet 7. § b) pontja.
+[^527]: A Vhr. 37/A. §-át a 207/2000. (XII. 11.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 376/2021. (VI. 30.) Korm. rendelet 7. § b) pontja.

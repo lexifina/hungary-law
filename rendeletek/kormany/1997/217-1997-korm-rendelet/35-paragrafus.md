@@ -1,3 +1,3 @@
-35. §[^544]
+35. §[^515]
 
-[^544]: A Vhr. 35. §-át az 520/2013. (XII. 30.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^515]: A Vhr. 35. §-át az 520/2013. (XII. 30.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.

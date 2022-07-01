@@ -90,7 +90,7 @@ jelöli ki.
 
 (12)[^41]
 
-(13)[^42] A kormányhivatalnak az egészségbiztosítás pénzbeli ellátásaival, az üzemi balesettel és a baleseti táppénzzel kapcsolatos hatósági ügyeiben a Központ jár el felügyeleti szervként, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket.
+(13)[^42] A kormányhivatalnak az egészségbiztosítás pénzbeli ellátásaival, az üzemi balesettel, a baleseti táppénzzel és az utazási költségtérítési támogatással kapcsolatos hatósági ügyeiben a Központ jár el felügyeleti szervként, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket.
 
 [^1]: A Vhr. 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^2]: A Vhr. 1. §-ának (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -133,4 +133,4 @@ jelöli ki.
 [^39]: A Vhr. 1. § (10a) bekezdését a 376/2021. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
 [^40]: A Vhr. 1. § (11) bekezdését a 404/2017. (XII. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^41]: A Vhr. 1. § (12) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 315/2020. (VII. 1.) Korm. rendelet 3. § (2) bekezdése.
-[^42]: A Vhr. 1. § (13) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 315/2020. (VII. 1.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^42]: A Vhr. 1. § (13) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 807/2021. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
