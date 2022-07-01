@@ -1,5 +1,3 @@
-## az e rendelet hatálybalépését követő 30. napig tájékoztatót nyújt be a Kabinet részére.
-
 1. melléklet a 193/2019. (VII. 30.) Korm. rendelethez
 
 Az ellátási kötelezettség hatálya alá eső termékek és szolgáltatások, valamint az ellátási kötelezettséggel terhelt gazdasági társaság

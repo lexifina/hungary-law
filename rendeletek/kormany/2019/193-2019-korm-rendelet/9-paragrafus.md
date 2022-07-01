@@ -1,7 +1,5 @@
 ## 8. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-## 9. § Az irányító kormánytag
+9. §[^5]
 
-a) az 1. melléklet szerinti termékek és szolgáltatások tekintetében a 2019. évre fennálló igényekről, szervezetenkénti bontásban, valamint
-
-b) az 1. melléklet szerinti termékek rendszeresítésének és alkalmazásba vételének feltételeiről
+[^5]: A 9. §-t a 238/2022. (VI. 30.) Korm. rendelet 192. § (2) bekezdée hatályon kívül helyezte.

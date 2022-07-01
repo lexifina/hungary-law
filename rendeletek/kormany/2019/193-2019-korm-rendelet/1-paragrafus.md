@@ -7,3 +7,5 @@ b) a rendvédelmi szervek,
 c) a Nemzeti Adó- és Vámhivatal és
 
 d) a magyar állam többségi tulajdonában álló gazdasági társaság fegyveres biztonsági őrsége
+
+vonatkozásában.
