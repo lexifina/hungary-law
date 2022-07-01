@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-173-20-
 | 2020-01-01 | 2003-173-20-22.24 | 218/2007. (VIII. 15.) Korm. rendelet |
 | 2020-01-22 | 2003-173-20-22.25 | 353/2019. (XII. 23.) Korm. rendelet |
 | 2020-02-15 | 2003-173-20-22.26 | 13/2020. (II. 7.) Korm. rendelet |
+| 2022-07-01 | 2003-173-20-22.27 | 12/2005. (I. 26.) Korm. rendelet |
