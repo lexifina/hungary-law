@@ -126,8 +126,9 @@
 
 (3) A Szerződés, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján a Szerződés 9. cikk 1. bekezdésében meghatározott időpontban lép hatályba. A 17/2019. (II. 14.) KKM közlemény alapján a hatálybalépés időpontja 2019. február 20.
 [^3]: A 17/2019. (II. 14.) KKM közlemény alapján a hatálybalépés időpontja 2019. február 20.
 [^4]: Lásd a 17/2019. (II. 14.) KKM közleményt.
+[^5]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 166. §-a szerint módosított szöveg.

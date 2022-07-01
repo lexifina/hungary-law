@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1-20-22
 | --- | --- | --- |
 | 2017-01-12 | 2017-1-20-22.1 | 1/2017. (I. 11.) Korm. rendelet |
 | 2019-02-20 | 2017-1-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-01 | 2017-1-20-22.3 | 238/2022. (VI. 30.) Korm. rendelet |
