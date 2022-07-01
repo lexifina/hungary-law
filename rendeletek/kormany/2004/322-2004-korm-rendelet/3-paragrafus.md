@@ -526,6 +526,7 @@
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba. Az Egyezményben foglaltakat 2004. szeptember 1-jétől kell alkalmazni.
 
-(2) A rendelet végrehajtásáról az oktatási miniszter és a külügyminiszter gondoskodik.
+(2)[^2] A rendelet végrehajtásáról a köznevelésért felelős miniszter és a külgazdasági ügyekért felelős miniszter gondoskodik.
 
 [^1]: Az Igazgatótanács az 1992. október 27/29-es ülésén határozott ennek az Iskolának a létrehozásáról.
+[^2]: A 3. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 36. §-a szerint módosított szöveg.
