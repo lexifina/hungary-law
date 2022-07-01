@@ -8,7 +8,7 @@
 
 (2)[^234] A finanszírozóval területi ellátási kötelezettségen kívüli közfeladat ellátására kötött szerződés alapján a fogászati ellátást nyújtó szolgálat működtetésének finanszírozására:
 
-a)[^235] a honvédelemért felelős miniszter által vezetett minisztérium, továbbá a (4) bekezdésben foglaltakon kívül az oktatásért felelős miniszter által vezetett minisztérium által fenntartott vagy a feladat ellátására szervezett, fogászati ellátást is biztosító egészségügyi szolgáltató legfeljebb 20-20 szolgálatra,
+a)[^235] a honvédelemért felelős miniszter által vezetett minisztérium, továbbá a (4) bekezdésben foglaltakon kívül a felsőoktatásért felelős miniszter által vezetett minisztérium által fenntartott vagy a feladat ellátására szervezett, fogászati ellátást is biztosító egészségügyi szolgáltató legfeljebb 20-20 szolgálatra,
 
 b)[^236] a rendészetért felelős miniszter által vezetett minisztérium vagy az általa ellátandó feladat ellátására szervezett, fogászati ellátást is biztosító egészségügyi szolgáltató legfeljebb 34 szolgálatra,
 
@@ -75,7 +75,7 @@ valamint az e rendelet hatálybalépésekor is működő ügyeleti szolgálatra 
 [^232]: A 21/C. §-t a 447/2012. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 11. pontja szerint módosított szöveg.
 [^233]: A 22. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
 [^234]: A 22. § (2) bekezdés nyitó szövegrésze a 7/2020. (I. 31.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^235]: A 22. § (2) bekezdés a) pontja a 365/2010. (XII. 30.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
+[^235]: A 22. § (2) bekezdés a) pontja a 365/2010. (XII. 30.) Korm. rendelet 18. § 21. pontja, a 238/2022. (VI. 30.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^236]: A 22. § (2) bekezdés b) pontja a 365/2010. (XII. 30.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
 [^237]: A 22. § (2) bekezdésének c) pontja a 29/2001. (III. 2.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
 [^238]: A 22. § (2a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
