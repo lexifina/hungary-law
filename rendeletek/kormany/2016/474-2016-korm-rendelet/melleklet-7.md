@@ -284,7 +284,7 @@
 
 ## a képviseletre jogosult személy aláírása
 
-7. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^108]
+7. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^109]
 
 ## Pontérték-táblázat a sportági eredményesség megállapításához
 
@@ -364,4 +364,4 @@ VII. Olimpiai, paralimpiai és IWGA Világjátékok, továbbá olimpiai sportág
 
 VIII. Ifjúsági Olimpia esetében az Olimpiára számított pontszám ötven százaléka számítható be a sportágaknak.
 
-[^108]: A 7. melléklet a 472/2020. (X. 29.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^109]: A 7. melléklet a 472/2020. (X. 29.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.

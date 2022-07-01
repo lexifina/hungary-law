@@ -76,18 +76,18 @@ b) az ORV magyarországi megrendezését,
 
 c) a sportegyesületek utánpótlás-nevelési műhelyeinek szakmai munkáját,
 
-d)[^83] a Duna-Kupa versenyrendszerében történő részvételt, valamint a Duna Kupa versenysorozat magyarországi megrendezését,
+d)[^84] a Duna-Kupa versenyrendszerében történő részvételt, valamint a Duna Kupa versenysorozat magyarországi megrendezését,
 
-e)[^84] kiemelt jelentőségű nemzetközi utánpótlás-sportesemény hazai rendezését,
+e)[^85] kiemelt jelentőségű nemzetközi utánpótlás-sportesemény hazai rendezését,
 
-f)[^85] sportiskolai sporteseményeket, sportrendezvényeket,
+f)[^86] sportiskolai sporteseményeket, sportrendezvényeket,
 
-g)[^86] az Utánpótlás Edzők Életút Programját,
+g)[^87] az Utánpótlás Edzők Életút Programját,
 
-h)[^87] az utánpótlás-nevelés színvonalának fejlesztésére irányuló szakmai programok megvalósítását.
+h)[^88] az utánpótlás-nevelés színvonalának fejlesztésére irányuló szakmai programok megvalósítását.
 
-[^83]: A 45. § (4) bekezdés d) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
-[^84]: A 45. § (4) bekezdés e) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
-[^85]: A 45. § (4) bekezdés f) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
-[^86]: A 45. § (4) bekezdés g) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
-[^87]: A 45. § (4) bekezdés h) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
+[^84]: A 45. § (4) bekezdés d) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
+[^85]: A 45. § (4) bekezdés e) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
+[^86]: A 45. § (4) bekezdés f) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
+[^87]: A 45. § (4) bekezdés g) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
+[^88]: A 45. § (4) bekezdés h) pontját a 279/2018. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
