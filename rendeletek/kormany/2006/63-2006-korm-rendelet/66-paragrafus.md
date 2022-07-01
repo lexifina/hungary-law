@@ -1,20 +1,20 @@
-## 65. §[^265] Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 353/2014. (XII. 29.) Korm. rendelettel megállapított 39. § (4) bekezdésének rendelkezéseit a 2014. december 31-ét követően kezdeményezett felülvizsgálat során kell alkalmazni.
+## 65. §[^269] Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 353/2014. (XII. 29.) Korm. rendelettel megállapított 39. § (4) bekezdésének rendelkezéseit a 2014. december 31-ét követően kezdeményezett felülvizsgálat során kell alkalmazni.
 
-66. §[^266] (1)[^267]
+66. §[^270] (1)[^271]
 
-(2)[^268]
+(2)[^272]
 
-(3)[^269]
+(3)[^273]
 
 (4) A 2015. március 1-jétől a járási hivatal hatáskörébe kerülő ellátással összefüggésben 2015. február 28-án folyamatban lévő, az Szt. 17. §-a szerinti visszafizetési kötelezettséggel kapcsolatos ügyben a jegyző jár el. A jegyző által 2015. március 1-jéig, valamint a 2015. február 28-án folyamatban lévő ügyben elrendelt visszafizetés, illetve engedélyezett fizetési könnyítés esetén a visszafizetési kötelezettséget a jegyző felé kell teljesíteni.
 
 (5) A 18. életévét betöltött tartósan beteg hozzátartozójának ápolását, gondozását végző személy részére megállapított települési támogatás – ideértve az Szt. 2015. február 28-án hatályos 43/B. §-a alapján 2015. március 1-jét megelőző kezdő időponttal megállapított, és 2015. március 1-jétől települési támogatásként nyújtott méltányossági ápolási díjat is – a társadalombiztosítási tárgyú jogszabályok alkalmazásában ápolási díjnak minősül, ha az ellátás önkormányzati rendeletben szabályozott havi összege eléri az Szt. 2015. február 28-án hatályos 44. § (1) bekezdés d) pontja szerinti mértéket.
 
-(6)[^270] Az Szt. 134/A. § (3) bekezdése alkalmazása során az ápolási díjra való jogosultságnak vagy az ápolási díj összegének a felülvizsgálatához kapcsolódó illetékességváltozás a felülvizsgálat tárgyában hozott döntés véglegessé válását követő napon következik be. A döntés véglegessé válásának hónapjára járó ellátást a döntést hozó járási hivatal illetékessége szerinti fővárosi és megyei kormányhivatal folyósítja.
+(6)[^274] Az Szt. 134/A. § (3) bekezdése alkalmazása során az ápolási díjra való jogosultságnak vagy az ápolási díj összegének a felülvizsgálatához kapcsolódó illetékességváltozás a felülvizsgálat tárgyában hozott döntés véglegessé válását követő napon következik be. A döntés véglegessé válásának hónapjára járó ellátást a döntést hozó járási hivatal illetékessége szerinti fővárosi és megyei kormányhivatal folyósítja.
 
-[^265]: A 65. §-t a 353/2014. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
-[^266]: A 66. §-t a 24/2015. (II. 20.) Korm. rendelet 25. §-a iktatta be.
-[^267]: A 66. § (1) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
-[^268]: A 66. § (2) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
-[^269]: A 66. § (3) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
-[^270]: A 66. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 167. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^269]: A 65. §-t a 353/2014. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^270]: A 66. §-t a 24/2015. (II. 20.) Korm. rendelet 25. §-a iktatta be.
+[^271]: A 66. § (1) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
+[^272]: A 66. § (2) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
+[^273]: A 66. § (3) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
+[^274]: A 66. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 167. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -30,9 +30,9 @@ h)[^52]
 
 (4)[^53] Azoknak a hajléktalan személyeknek az aktív korúak ellátásával összefüggő ügyeiben, akik az Szt. 6. §-a szerint tartózkodási helyként Budapest közigazgatási területét jelölték meg, Budapest Főváros Kormányhivatala IX. Kerületi Hivatalának illetékessége Budapest Főváros egész területére kiterjed.
 
-(5)[^54] A szociális feladatkörében eljáró fővárosi és megyei kormányhivatal e rendelet szerinti hatósági ügyeiben a felügyeleti szerv a szociál- és nyugdíjpolitikáért felelős miniszter.
+(5)[^54] A szociális feladatkörében eljáró fővárosi és megyei kormányhivatal e rendelet szerinti hatósági ügyeiben a felügyeleti szerv a szociálpolitikáért felelős miniszter.
 
-(6)[^55] A fővárosi és megyei kormányhivatal e rendelet szerinti szociális feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja.
+(6)[^55] A fővárosi és megyei kormányhivatal e rendelet szerinti szociális feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociálpolitikáért felelős miniszter gyakorolja.
 
 [^40]: A 6/A. §-t a 326/2006. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^41]: A 6/A. § (1) bekezdése a 235/2017. (VIII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
@@ -48,5 +48,5 @@ h)[^52]
 [^51]: A 6/A. § (3) bekezdés g) pontja a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^52]: A 6/A. § (3) bekezdés h) pontját a 24/2015. (II. 20.) Korm. rendelet 28. § d) pontja hatályon kívül helyezte.
 [^53]: A 6/A. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 454. §-a. Újonnan a 24/2015. (II. 20.) Korm. rendelet 18. § (2) bekezdése iktatta be.
-[^54]: A 6/A. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^55]: A 6/A. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 102/2019. (V. 6.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^54]: A 6/A. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 42. §-a szerint módosított szöveg. Alkalmazására lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
+[^55]: A 6/A. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 102/2019. (V. 6.) Korm. rendelet 6. §-a, a 238/2022. (VI. 30.) Korm. rendelet 42. §-a szerint módosított szöveg.

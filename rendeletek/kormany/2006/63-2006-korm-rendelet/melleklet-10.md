@@ -1,3 +1,3 @@
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^285]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^289]
 
-[^285]: A 10. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^289]: A 10. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.

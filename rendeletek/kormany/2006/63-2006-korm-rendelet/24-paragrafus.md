@@ -1,6 +1,6 @@
-24. § (1)[^142]
+24. § (1)[^146]
 
-(2)[^143] A közigazgatási per során
+(2)[^147] A közigazgatási per során
 
 a) a gyermek önellátási képességének mértékére vonatkozó, a 21. § (1) bekezdése szerinti állapot fennállására vonatkozó, az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításait a 21. § (5) bekezdésében meghatározott,
 
@@ -10,14 +10,14 @@ c) a szülő egészségi állapot miatti akadályozottságára vonatkozó, a 23.
 
 ## adattartalomnak megfelelően kell elkészíteni.
 
-(3)[^144]
+(3)[^148]
 
-(4)[^145]
+(4)[^149]
 
-(5)[^146]
+(5)[^150]
 
-[^142]: A 24. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^143]: A 24. § (2) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés c) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^144]: A 24. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^145]: A 24. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^146]: A 24. § (5) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^146]: A 24. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^147]: A 24. § (2) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés c) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^148]: A 24. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^149]: A 24. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^150]: A 24. § (5) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
