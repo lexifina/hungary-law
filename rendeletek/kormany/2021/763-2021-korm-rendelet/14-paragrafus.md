@@ -1,5 +1,3 @@
-## 13. §[^4]
+## 13. § Ez a rendelet a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (Szerkezetátalakítási és fizetésképtelenségi irányelv), 2019. június 20-i (EU) 2019/1023 európai parlamenti és tanácsi irányelv III. címének való megfelelést szolgálja.
 
 ## 6. Módosító rendelkezések
-
-[^4]: A 13. § a 11. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 14. §[^5]
+## 14. § A természetes személyek adósságrendezési eljárásában a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatairól szóló 240/2015. (IX. 8.) Korm. rendelet 2. §-a a következő (6) bekezdéssel egészül ki:
 
-[^5]: A 14. § a 11. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+## „(6) A CsSz központi szerve az adósságrendezési nyilvántartás (a továbbiakban: ARE nyilvántartás) adataival összeveti, összesíti és a Központi Statisztikai Hivatal részére továbbítja a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló 2019/1023 európai parlamenti és tanácsi irányelv (a továbbiakban: Irányelv) 29. cikkében meghatározott, a bíróságon kívüli és a bírósági adósságrendezési eljárásokra vonatkozó ügystatisztikai adatokat.”

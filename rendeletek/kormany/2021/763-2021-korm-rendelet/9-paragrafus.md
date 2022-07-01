@@ -1,1 +1,9 @@
 ## 2. A bírósági adósságrendezési eljárásban az adós egyéni vállalkozása, illetve foglalkozása gyakorlásához szükséges eszközök értékesítés alóli mentesítése
+
+9. § (1) Az adós az Are. tv. 73. § (1) bekezdése alapján benyújtott kérelmében felsorolja azokat a saját kizárólagos tulajdonában vagy az adóstárssal közös tulajdonában álló eszközöket, amelyek az adósságrendezésbe tartoznak, és amelyeket – mint az Are. tv. 5. § 19. pontja szerinti egyéni vállalkozó – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 5. melléklete szerinti részletező nyilvántartásban tárgyi eszközként tart nyilván, valamint a leltárában vásárolt és saját termelésű készletként szerepeltet. A kérelemben meg kell jelölni az általános forgalmi adót nem tartalmazó beszerzési árat, illetve az előállítási árat, valamint az eszköz, illetve készlet beszerzésének, illetve előállításának évét.
+
+(2) Az (1) bekezdésben foglaltakon kívül az adós olyan ingatlanokat és gépjárműveket is felsorolhat az Are. tv. 73. § (1) bekezdése alapján benyújtott kérelmében, amelyeknek nem ő és az adóstárs a kizárólagos tulajdonosa, de a közös tulajdonban lévő vagyontárgyat a tulajdonostárssal kötött megállapodása alapján a vállalkozási tevékenységéhez használja.
+
+(3) A kérelemben nyilatkozni kell arról, hogy az adós nem szünetelteti az Are. tv. 5. § 19. pontja szerinti egyéni vállalkozást, és nem áll fenn olyan jogszabályban meghatározott körülmény, amely alapján megszűnik az erre a vállalkozói tevékenységre vonatkozó jogosultsága.
+
+(4) Ha az adós nem egyéni vállalkozó, az Are. tv. 73. § (1) bekezdése szerinti kérelmében a foglalkozása gyakorlásának érdekében olyan ingóságokat – így különösen informatikai és hírközlési eszközt, irodatechnikai felszerelést, szakkönyveket – jelölhet meg, amelyek rendszeres használata szükséges a foglalkoztatására irányuló jogviszony sajátosságai miatt.
