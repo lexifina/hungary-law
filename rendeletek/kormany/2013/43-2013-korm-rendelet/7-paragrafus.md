@@ -10,8 +10,8 @@ b) a tanúsítási eljárás átláthatóságát és reprodukálhatóságát,
 
 c) a tanúsítási tevékenységnek az esetleges egyéb tevékenységektől való elkülönítését.
 
-(3)[^2] A kérelmezőnek a kérelem tárgyára vonatkozóan igazolnia kell, hogy a kijelölési kérelem tárgya szerinti iratkezelési szoftvert terméktanúsítási szakterületen az akkreditáló szerv akkreditálta.
+(3)[^3] A kérelmezőnek a kérelem tárgyára vonatkozóan igazolnia kell, hogy a kijelölési kérelem tárgya szerinti iratkezelési szoftvert terméktanúsítási szakterületen az akkreditáló szerv akkreditálta.
 
 (4) A kérelmezőnek rendelkeznie kell a tevékenység végzésére vonatkozóan a közfeladatot ellátó szervek iratkezelése tekintetében szerzett referenciákkal, továbbá köztartozása nem állhat fenn.
 
-[^2]: A 7. § (3) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: A 7. § (3) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
