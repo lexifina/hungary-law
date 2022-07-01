@@ -1,4 +1,4 @@
-## 2. [^7] A fővárosi és megyei kormányhivatal igazságügyi szolgáltatásokkal kapcsolatos feladatai
+## 2. [^8] A fővárosi és megyei kormányhivatal igazságügyi szolgáltatásokkal kapcsolatos feladatai
 
 ## 6. § A Kormány
 
@@ -8,4 +8,4 @@ b) jogi segítségnyújtó szolgálatként,
 
 c) áldozatsegítő szolgálatként
 
-[^7]: A 2. alcím címe a 360/2019. (XII. 30.) Korm. rendelet 156. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 2. alcím címe a 360/2019. (XII. 30.) Korm. rendelet 156. § (5) bekezdés a) pontja szerint módosított szöveg.

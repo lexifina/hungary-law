@@ -1,3 +1,8 @@
-## 17. §[^19]
+## 17. §[^20]
 
-[^19]: A 17. §-t a 360/2019. (XII. 30.) Korm. rendelet 156. § (5) bekezdés e) pontja hatályon kívül helyezte.
+18. §[^21] (1) A 2. § (2) bekezdése – a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvénnyel együtt – a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (Szerkezetátalakítási és fizetésképtelenségi irányelv), 2019. június 20-i (EU) 2019/1023 európai parlamenti és tanácsi irányelv IV. címének való megfelelést szolgálja.
+
+(2) A 4. § (3) bekezdése a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 8. cikk (1) bekezdésének és 28. cikkének való megfelelést szolgálja.
+
+[^20]: A 17. §-t a 360/2019. (XII. 30.) Korm. rendelet 156. § (5) bekezdés e) pontja hatályon kívül helyezte.
+[^21]: A 18. § a 762/2021. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
