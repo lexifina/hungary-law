@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-684-20-
 | 2021-01-01 | 2020-684-20-22.1 | 684/2020. (XII. 28.) Korm. rendelet |
 | 2021-02-28 | 2020-684-20-22.2 | 2006. évi V. törvény |
 | 2021-07-16 | 2020-684-20-22.3 | 415/2021. (VII. 13.) Korm. rendelet |
+| 2022-07-01 | 2020-684-20-22.4 | 239/2022. (VI. 30.) Korm. rendelet |

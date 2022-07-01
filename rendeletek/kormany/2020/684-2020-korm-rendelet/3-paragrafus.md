@@ -1,4 +1,4 @@
-3. §[^3] (1) A miniszter a Statútumból fakadó e rendelet szerinti feladatait a Digitális Kormányzati Ügynökség tulajdonosi joggyakorlása alatt álló, állami tulajdonú Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft. (a továbbiakban: Társaság) bevonásával látja el.
+3. §[^5] (1) A miniszter a Statútumból fakadó e rendelet szerinti feladatait a Digitális Kormányzati Ügynökség tulajdonosi joggyakorlása alatt álló, állami tulajdonú Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft. (a továbbiakban: Társaság) bevonásával látja el.
 
 (2) A Társaság
 
@@ -42,4 +42,4 @@ f) ellátja mindazon további feladatokat, amelyeket jogszabály vagy a Kormány
 
 5 munkanapon belül megadni köteles.
 
-[^3]: A 3. § a 415/2021. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § a 415/2021. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
