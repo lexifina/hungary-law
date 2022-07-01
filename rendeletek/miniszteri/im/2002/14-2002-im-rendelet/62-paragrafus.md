@@ -62,4 +62,16 @@
 
 30. reorganizációs nemperes ügyben fellebbezett kifogás.
 
+31.[^151] szerkezetátalakítási nemperes ügy,
+
+32.[^152] fellebbezett szerkezetátalakítási nemperes ügy,
+
+33.[^153] szerkezetátalakítási nemperes eljárásban az érintett hitelezők osztályba sorolásának felülvizsgálata,
+
+34.[^154] szerkezetátalakítási nemperes eljárásban fellebbezett határozat az érintett hitelezők osztályba sorolásáról.
+
 [^150]: A 62. § a 8/2022. (IV. 4.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^151]: A 62. § 31. pontját a 8/2022. (IV. 4.) IM rendelet 1. § (2) bekezdése iktatta be.
+[^152]: A 62. § 32. pontját a 8/2022. (IV. 4.) IM rendelet 1. § (2) bekezdése iktatta be.
+[^153]: A 62. § 33. pontját a 8/2022. (IV. 4.) IM rendelet 1. § (2) bekezdése iktatta be.
+[^154]: A 62. § 34. pontját a 8/2022. (IV. 4.) IM rendelet 1. § (2) bekezdése iktatta be.
