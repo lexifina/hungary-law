@@ -10,9 +10,9 @@ b) az orvosigazgatói (szakmai intézményvezető-helyettesi), ápolási igazgat
 
 c) a gazdasági igazgatói megbízás.
 
-d)[^1] az intézményvezető általános vagy szakmai helyettesítését magában foglaló vezetői megbízás, ha a munkakörnek az intézmény szervezeti és működési szabályzatában történő létrehozását az országos kórház-főigazgató előzetesen jóváhagyta.
+d)[^2] az intézményvezető általános vagy szakmai helyettesítését magában foglaló vezetői megbízás, ha a munkakörnek az intézmény szervezeti és működési szabályzatában történő létrehozását az országos kórház-főigazgató előzetesen jóváhagyta.
 
-(2)[^2] Vezetőnek minősül – az (1) bekezdésben foglaltak kivételével – az intézmény önálló szervezeti egységének vezetője és annak helyettese, valamint a munkamegosztás szempontjából elkülönült szervezeti egység vezetője és annak helyettese.
+(2)[^3] Vezetőnek minősül – az (1) bekezdésben foglaltak kivételével – az intézmény önálló szervezeti egységének vezetője és annak helyettese, valamint a munkamegosztás szempontjából elkülönült szervezeti egység vezetője és annak helyettese.
 
-[^1]: Az 5. § (1) bekezdés d) pontját a 70/2021. (II. 19.) Korm. rendelet 18. § (1) bekezdése iktatta be.
-[^2]: Az 5. § (2) bekezdése a 70/2021. (II. 19.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 5. § (1) bekezdés d) pontját a 70/2021. (II. 19.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^3]: Az 5. § (2) bekezdése a 70/2021. (II. 19.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.

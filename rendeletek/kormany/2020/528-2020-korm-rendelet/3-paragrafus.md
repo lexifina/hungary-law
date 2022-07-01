@@ -16,6 +16,8 @@ d) a városi fekvőbeteg-ellátó egészségügyi szolgáltató vezetésére sz�
 
 e) a megyei és országos fekvőbeteg-ellátó egészségügyi szolgáltató vezetésére szóló meghívásos eljárás esetén az országos kórház-főigazgató,
 
-f) klinikai központ vezetésére szóló meghívásos eljárás esetén az innovációért és technológiáért felelős miniszter.
+f)[^1] klinikai központ vezetésére szóló meghívásos eljárás esetén a kultúráért és innovációért felelős miniszter.
 
 (5) Az előkészítő bizottság a meghallgatást követő 5 munkanapon belül köteles felállítani a rangsort, és a munkáltató részére javaslatát eljuttatni. A munkáltató a rangsor felállítását követő 10 munkanapon belül dönt. Az eljárás eredményéről a jelölteket a döntést követő 5 munkanapon belül írásban tájékoztatni kell.
+
+[^1]: A 3. § (4) bekezdés f) pontja a 238/2022. (VI. 30.) Korm. rendelet 206. §-a szerint módosított szöveg.

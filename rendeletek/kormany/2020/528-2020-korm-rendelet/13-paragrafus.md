@@ -4,7 +4,7 @@
 
 13. § (1) Egészségügyi szolgálati jogviszonyban álló személy számára a többműszakos és megszakítás nélkül működő egészségügyi szolgáltató esetében legfeljebb három hónap munkaidőkeret állapítható meg.
 
-(1a)[^4] Az (1) bekezdéstől eltérően a légi mentési feladatot ellátó, egészségügyi szolgálati jogviszonyban álló esetében legfeljebb hat hónap munkaidőkeret állapítható meg.
+(1a)[^5] Az (1) bekezdéstől eltérően a légi mentési feladatot ellátó, egészségügyi szolgálati jogviszonyban álló esetében legfeljebb hat hónap munkaidőkeret állapítható meg.
 
 (2) A munkaidőkeret kezdő időpontja az első hónap első naptári napja, befejező időpontja a munkaidőkeret utolsó hónapjának utolsó naptári napja.
 
@@ -24,7 +24,7 @@
 
 (10) A (8) bekezdés szerinti alkalmazottak a kettős feladatellátási kötelezettségük és jogviszonyuk körében mind az egészségügyi minimumfeltételek, mind az oktatási akkreditáció szempontjából teljes értékű alkalmazottnak minősülnek.
 
-(11)[^5] A (8) bekezdés szerinti további jogviszonyként létrehozásra kerülő oktatói és kutatói munkakör betöltésére nem kell alkalmazni az Nftv. 29. § (1) és (2) bekezdését, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a közalkalmazotti jogviszony pályázat útján történő létesítésére vonatkozó rendelkezéseit, ha az oktatói, kutatói munkakör betöltésére az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény szerinti egészségügyi szolgálati jogviszonnyá történő átalakítást követő 3 hónapon belül kerül sor annál a foglalkoztatónál, amely az érintett személyt ugyanazon oktatói vagy kutatói munkakörben a jogviszonyváltás időpontjában foglalkoztatta.
+(11)[^6] A (8) bekezdés szerinti további jogviszonyként létrehozásra kerülő oktatói és kutatói munkakör betöltésére nem kell alkalmazni az Nftv. 29. § (1) és (2) bekezdését, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a közalkalmazotti jogviszony pályázat útján történő létesítésére vonatkozó rendelkezéseit, ha az oktatói, kutatói munkakör betöltésére az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény szerinti egészségügyi szolgálati jogviszonnyá történő átalakítást követő 3 hónapon belül kerül sor annál a foglalkoztatónál, amely az érintett személyt ugyanazon oktatói vagy kutatói munkakörben a jogviszonyváltás időpontjában foglalkoztatta.
 
-[^4]: A 13. § (1a) bekezdését a 70/2021. (II. 19.) Korm. rendelet 20. §-a iktatta be.
-[^5]: A 13. § (11) bekezdését a 34/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 13. § (1a) bekezdését a 70/2021. (II. 19.) Korm. rendelet 20. §-a iktatta be.
+[^6]: A 13. § (11) bekezdését a 34/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.
