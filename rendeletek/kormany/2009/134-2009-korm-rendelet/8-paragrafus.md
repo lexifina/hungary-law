@@ -12,7 +12,7 @@
 
 (6)[^69]
 
-(7)[^70] Amennyiben a lakáscél kamattámogatott kölcsönnel is megvalósítható, a hitelintézet átadja az igénylőnek a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) által elektronikus úton megküldött tájékoztatót a lakástámogatások hatályos feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
+(7)[^70] Amennyiben a lakáscél kamattámogatott kölcsönnel is megvalósítható, a hitelintézet átadja az igénylőnek a lakáscélú állami támogatásokért felelős miniszter (a továbbiakban: miniszter) által elektronikus úton megküldött tájékoztatót a lakástámogatások hatályos feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
 
 (8)[^71] A hitelintézet a kamattámogatások igénylése iránti kérelem átvételéről igazolást ad az igénylőnek, melyben tájékoztatja a kérelem elbírálásának várható időtartamáról. Átvételnek minősül az is, ha a kérelmet a hitelintézet ügynöke vette át. Ez esetben az elbírálás várható időtartamáról az ügynök ad írásbeli tájékoztatást. A hitelintézet a kérelem elutasítása esetén az igénylőt részletesen, írásban tájékoztatja a kérelem elutasításának indokáról a nem teljesülő e rendelet szerinti igénybevételi feltételek megjelölésével, továbbá arról, hogy amennyiben az igénylő a kérelem elutasításával nem ért egyet, a kamattámogatásra jogosító feltételeknek való megfelelés megállapítását kérheti a kormányhivataltól.
 
@@ -37,7 +37,7 @@
 [^67]: A 8. § (4a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 136. § (3) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 2. § (4) bekezdés a) pontja.
 [^68]: A 8. § (5) bekezdését a 101/2019. (V. 2.) Korm. rendelet 2. § (4) bekezdés a) pontja hatályon kívül helyezte.
 [^69]: A 8. § (6) bekezdését a 101/2019. (V. 2.) Korm. rendelet 2. § (4) bekezdés a) pontja hatályon kívül helyezte.
-[^70]: A 8. § (7) bekezdését a 101/2019. (V. 2.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^70]: A 8. § (7) bekezdését a 101/2019. (V. 2.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 92. §-a szerint módosított szöveg.
 [^71]: A 8. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 69. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^72]: A 8. § (9) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 69. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^73]: A 8. § (9a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 249. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
