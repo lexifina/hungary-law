@@ -4,7 +4,7 @@
 
 (2a)[^13] A keresetkiegészítés iránti hatósági ügyben eljáró Komárom-Esztergom Megyei Kormányhivatal tekintetében felügyeleti szervként a Magyar Államkincstár központi szerve jár el, és a közigazgatási hatósági ügyekkel összefüggésben gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket.
 
-(2b)[^14] A Komárom-Esztergom Megyei Kormányhivatal keresetkiegészítéssel kapcsolatos feladatkörének gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (2) és (2a) bekezdésben meghatározottak kivételével.
+(2b)[^14] A Komárom-Esztergom Megyei Kormányhivatal keresetkiegészítéssel kapcsolatos feladatkörének gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociálpolitikáért felelős miniszter gyakorolja a (2) és (2a) bekezdésben meghatározottak kivételével.
 
 (3)[^15] A kérelemhez mellékelni kell a munkáltató igazolását a kérelmező eredeti, föld alatti bányamunka körébe eső munkaköréről, annak időtartamáról, jelenlegi foglalkoztatásra irányuló jogviszonyáról, munkaköréről, a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti távolléti díj összegéről. A munkáltató az igazolást a keresetkiegészítést kérelmező erre irányuló kérelmétől számított nyolc napon belül köteles kiadni.
 
@@ -18,7 +18,7 @@
 [^11]: Az 5/B. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 5. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^12]: Az 5/B. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^13]: Az 5/B. § (2a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^14]: Az 5/B. § (2b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^14]: Az 5/B. § (2b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
 [^15]: Az 5/B. § (3) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^16]: Az 5/B. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^17]: Az 5/B. § (5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 4. § (7) bekezdés a) pontja hatályon kívül helyezte.
