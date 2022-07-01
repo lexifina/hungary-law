@@ -156,6 +156,8 @@
 
 3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) A rendelet végrehajtásáról az oktatásért és kultúráért felelős miniszter gondoskodik.
+(2)[^1] A rendelet végrehajtásáról a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter gondoskodik.
 
 (3) E rendelet hatálybalépésével egyidejűleg hatályát veszti a Magyar Népköztársaság Kormánya és a Mexikói Egyesült Államok Kormánya közötti kulturális együttműködésről szóló, Budapesten, az 1975. évi szeptember hó 19. napján aláírt Egyezmény kihirdetéséről szóló 19/1977. (VI. 23.) MT rendelet.
+
+[^1]: A 3. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 89. §-a szerint módosított szöveg.
