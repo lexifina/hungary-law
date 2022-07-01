@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-159-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-07-05 | 2007-159-20-22.1 | 159/2007. (VI. 27.) Korm. rendelet |
+| 2022-07-01 | 2007-159-20-22.2 | 238/2022. (VI. 30.) Korm. rendelet |
