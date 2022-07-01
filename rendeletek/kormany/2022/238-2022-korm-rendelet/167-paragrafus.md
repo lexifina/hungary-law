@@ -1,0 +1,3 @@
+## 166. § A Magyarország Kormánya és a Costa Rica-i Köztársaság Kormánya közötti oktatási és tudományos együttműködési egyezmény kihirdetéséről szóló 1/2017. (I. 11.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért felelős miniszter” szövegrész helyébe „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter” szöveg lép.
+
+## 157. A Magyarország Kormánya és Montenegró Kormánya közötti oktatási, kulturális, sport- és ifjúsági együttműködési egyezmény kihirdetéséről szóló 27/2017. (II. 13.) Korm. rendelet módosítása

@@ -1,0 +1,1 @@
+## 7. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. melléklet 2. pont i) alpontjában az „az Emberi Erőforrások Minisztériumának” szövegrész helyébe az „a Kulturális és Innovációs Minisztériumnak” szöveg lép.

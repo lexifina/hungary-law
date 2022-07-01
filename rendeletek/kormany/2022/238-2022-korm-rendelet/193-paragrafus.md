@@ -1,0 +1,1 @@
+## 181. A világörökségi területté jelölés hazai eljárásrendjéről, a világörökségi kezelési tervek tartalmi követelményeiről és elkészítésük rendjéről, a gondnokságokról, valamint a világörökségi területen az államot megillető elővásárlási jogról szóló 335/2019. (XII. 23.) Korm. rendelet módosítása

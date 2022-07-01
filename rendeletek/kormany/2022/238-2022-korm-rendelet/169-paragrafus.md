@@ -1,0 +1,3 @@
+## 168. § Az „Ösztöndíjprogram Keresztény Fiataloknak” elnevezésű ösztöndíjprogramról és a felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet módosításáról szóló 120/2017. (VI. 1.) Korm. rendelet 2. § (1) bekezdésében, 3. § a) pontjában, 3. § b) pont nyitó szövegrészében és 4. § a) pontjában az „az oktatásért” szövegrész helyébe az „a felsőoktatásért” szöveg lép.
+
+## 159. A Magyarország Kormánya és a Délkelet-ázsiai Nemzetek Szövetsége közötti oktatási együttműködési megállapodás kihirdetéséről szóló 227/2017. (VIII. 14.) Korm. rendelet módosítása

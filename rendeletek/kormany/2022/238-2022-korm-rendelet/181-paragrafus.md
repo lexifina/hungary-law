@@ -1,0 +1,3 @@
+## 180. § A társasházkezelő, az ingatlankezelő, az ingatlanközvetítő, valamint az ingatlanvagyon-értékelő és -közvetítő szolgáltatói tevékenység üzletszerűen történő végzésének feltételeiről és a nyilvántartásba vétel részletes szabályairól szóló 499/2017. (XII. 29.) Korm. rendelet 6/A. §-ában a „lakásgazdálkodásért és lakáspolitikáért felelős miniszter” szövegrész helyébe a „lakáscélú állami támogatásokért felelős miniszter” szöveg lép.
+
+## 169. Az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatásról szóló 503/2017. (XII. 29.) Korm. rendelet módosítása

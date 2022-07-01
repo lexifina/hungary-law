@@ -1,0 +1,3 @@
+## 42. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 1. § (3) bekezdésében, 4. § (6) bekezdésében, 6/A. § (5) és (6) bekezdésében, 20. § (5) és (7) bekezdésében, 21. § (4) bekezdésében, 23. § (2) bekezdésében, 26. § (3) bekezdésében, 35. § (2a) bekezdésében a „szociál- és nyugdíjpolitikáért” szövegrész helyébe a „szociálpolitikáért” szöveg lép.
+
+## 41. Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény végrehajtásáról szóló 67/2006. (III. 27.) Korm. rendelet módosítása

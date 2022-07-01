@@ -1,0 +1,3 @@
+## 217. § A közfinanszírozott járó-, illetve fekvőbeteg-szakellátást nyújtó egészségügyi intézmények minősítési rendszeréről szóló 706/2021. (XII. 15.) Korm. rendelet 1. § (2) bekezdés 7. pontjában az „az Innovációs és Technológiai Minisztérium,” szövegrész helyébe az „a Kulturális és Innovációs Minisztérium,” szöveg lép.
+
+## 200. A Földmegfigyelési Információs Rendszerről szóló törvény végrehajtásáról és a kereskedelmi űrfelvétel beszerzések központosított közbeszerzési rendszeréről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 769/2021. (XII. 23.) Korm. rendelet módosítása

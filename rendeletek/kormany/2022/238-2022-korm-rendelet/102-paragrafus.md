@@ -1,0 +1,3 @@
+## 101. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 20. § (1) bekezdés c) pontjában az „emberi erőforrások minisztere” szövegrész helyébe az „egészségügyért felelős miniszter” szöveg lép.
+
+## 99. A Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya közötti iskolai együttműködésről szóló, Baján, 2000. december 7-én aláírt Egyezmény kihirdetéséről szóló 301/2011. (XII. 23.) Korm. rendelet módosítása

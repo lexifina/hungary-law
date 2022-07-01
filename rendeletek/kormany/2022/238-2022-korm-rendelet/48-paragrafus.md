@@ -1,0 +1,1 @@
+## 46. A Bosznia és Hercegovina Minisztertanácsa, valamint a Magyar Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló Egyezmény kihirdetéséről szóló 154/2007. (VI. 27.) Korm. rendelet módosítása

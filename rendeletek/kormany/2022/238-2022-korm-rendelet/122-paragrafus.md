@@ -1,0 +1,3 @@
+## 121. § A Magyarország Kormánya és az Azerbajdzsáni Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről szóló 33/2013. (II. 14.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter” szöveg lép.
+
+## 117. A Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet módosítása

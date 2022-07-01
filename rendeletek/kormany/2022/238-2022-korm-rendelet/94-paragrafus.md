@@ -1,0 +1,3 @@
+## 93. § A Magyar Köztársaság Kormánya és a Belarusz Köztársaság Kormánya közötti oktatási, tudományos és kulturális megállapodás kihirdetéséről szóló 216/2009. (X. 2.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért és kultúráért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.
+
+## 91. A környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló 297/2009. (XII. 21.) Korm. rendelet módosítása

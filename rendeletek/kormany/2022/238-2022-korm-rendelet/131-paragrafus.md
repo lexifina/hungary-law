@@ -1,0 +1,3 @@
+## 130. § A Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti oktatási együttműködésről szóló egyezmény kihirdetéséről szóló 349/2013. (X. 1.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter” szöveg lép.
+
+## 125. A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet módosítása

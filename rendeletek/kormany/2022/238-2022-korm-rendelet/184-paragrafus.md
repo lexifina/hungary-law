@@ -1,0 +1,3 @@
+## 183. § A Magyarország Kormánya és Katar Állam Kormánya közötti oktatási, felsőoktatási és tudományos együttműködési Megállapodás kihirdetéséről és a Stipendium Hungaricum ösztöndíjak biztosításáról szóló Megállapodás kihirdetéséről szóló 281/2017. (IX. 22.) Korm. rendelet módosításáról szóló 7/2018. (II. 6.) Korm. rendelet 5. §-ában az „az oktatásért” szövegrész helyébe az „a külpolitikáért” szöveg lép.
+
+## 172. A Magyarország Kormánya és az Üzbég Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről szóló 10/2018. (II. 6.) Korm. rendelet módosítása
