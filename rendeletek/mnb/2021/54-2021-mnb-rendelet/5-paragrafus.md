@@ -1,3 +1,3 @@
-## 4. §[^1]
+## 4. §[^3]
 
-[^1]: A 4. § a 2. § (3) bekezdése alapján 2022. október 1-jén lép hatályba.
+[^3]: A 4. § a 22/2022. (VI. 11.) MNB rendelet 7. §-a alapján nem lép hatályba.
