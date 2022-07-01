@@ -1,0 +1,1 @@
+## „(11) A forgalmi engedély, az ideiglenes forgalomban tartási engedély eltulajdonításának bejelentése esetén a rendőrségi feljelentést, az okmány elvesztésének, megsemmisülésének vagy megtalálásának bejelentése esetén az erről felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Nyilvántartónak továbbítja.”

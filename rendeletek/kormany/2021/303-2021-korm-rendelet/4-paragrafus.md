@@ -1,0 +1,1 @@
+## „(13) A jármű forgalomba helyezése, ideiglenes forgalomban tartásának engedélyezése iránti vagy a már forgalomba helyezett járművel és az ideiglenes forgalomban tartással kapcsolatos eljárások során a közlekedési igazgatási hatóság az ügyfél kérelmének megfelelő adattartalmú elektronikus kérelmet állít elő.”
