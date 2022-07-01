@@ -50,13 +50,13 @@ je) a szénhidrogének feltárására és kitermelésére kijelölt bányatelekk
 
 k) az esetleges régészeti feltárás ütemezését, módszerét, és a feltárást követően bolygatatlanul maradó régészeti lelőhelyrészlet megőrzésére tett intézkedéseket,
 
-l)[^1]
+l) a Bt. 27. § (2a) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
 
 m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságot igazoló okiratot.
 
-(3)[^2]
+(3) A minimális kitermelési mennyiség nem lehet kevesebb, mint az engedélyezni kért legnagyobb éves kitermelési mennyiség 20%-a.
 
-(4)[^3]
+(4) Ha az utolsó hatályos kitermelési műszaki üzemi terv alapján engedélyezett legnagyobb kitermelési mennyiség 20%-a, vagy több haszonanyag esetén a kitermelési mennyiségek 20%-a meghaladja a kérelem szerinti minimális mennyiséget, akkor ezt a mennyiséget, vagy mennyiségeket kell figyelembe venni minimális mennyiségként.
 
 (5) A szénhidrogénre, valamint a szén-dioxid gázra vonatkozó első feltárási, kitermelési vagy földgáztárolási, továbbá a föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv jóváhagyása iránti kérelem benyújtása során megfelelően alkalmazni kell a 25. § (1) bekezdés a) pontjában, valamint (2) bekezdésében foglaltakat.
 
@@ -65,7 +65,3 @@ m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a
 (7) A Bt. 29. § (1) bekezdése szerinti együttes kitermelés esetében a műszaki üzemi tervhez mellékelni kell az együttes művelési tervet. A bányafelügyelet a műszaki üzemi tervet az együttes művelési terv alapján engedélyezi.
 
 (8) Ha a bánya bezárását (megszüntetését), a szénhidrogénmező felhagyását a 30. § (5) bekezdése szerinti időszakra tervezik, a műszaki üzemi tervnek tartalmaznia kell a 42. § szerinti tervrészletet is.
-
-[^1]: A 29. § (2) bekezdés l) pontja az 51. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^2]: A 29. § (3) bekezdése az 51. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^3]: A 29. § (4) bekezdése az 51. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.

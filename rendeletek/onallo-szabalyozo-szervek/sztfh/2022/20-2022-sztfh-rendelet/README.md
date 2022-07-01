@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-20-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-02-01 | 2022-20-20-8K.1 | 20/2022. (I. 31.) SZTFH rendelet |
+| 2022-07-01 | 2022-20-20-8K.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
