@@ -6,9 +6,9 @@
 
 (4) A jegyző a szálláshely-szolgáltató Nemzeti Turisztikai Adatszolgáltató Központ felé történő regisztrációs és rendszeres adatszolgáltatási kötelezettségét évente köteles hatósági ellenőrzés keretében ellenőrizni, melyet az ASP keretrendszer Nemzeti Turisztikai Adatszolgáltató Központ szakrendszerén keresztül köteles teljesíteni.
 
-(5) A jegyző a (4) bekezdés szerinti ellenőrzési kötelezettségét a 2021. évben augusztus 31. napjáig köteles teljesíteni.
+(5)[^43]
 
-(6)[^43] A (3) bekezdés szerinti hatósági ellenőrzés során a jegyző a (4) bekezdésben foglaltakon kívül kiemelten vizsgálja azt, hogy
+(6)[^44] A (3) bekezdés szerinti hatósági ellenőrzés során a jegyző a (4) bekezdésben foglaltakon kívül kiemelten vizsgálja azt, hogy
 
 a) a szálláshely-szolgáltató eleget tesz az 5. §-ban meghatározott rendelkezésnek, és
 
@@ -24,4 +24,5 @@ b) a szálláshely megfelel a bejelentésben foglalt szálláshely-üzemeltetés
 
 [^41]: A 7/A. §-t a 155/2019. (VI. 27.) Korm. rendelet 8. §-a iktatta be, szövege az 501/2021. (VIII. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^42]: A 7/A. § (3) bekezdése az 501/2021. (VIII. 18.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^43]: A 7/A. § (6) bekezdése az 501/2021. (VIII. 18.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^43]: A 7/A. § (5) bekezdését a 239/2022. (VI. 30.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^44]: A 7/A. § (6) bekezdése az 501/2021. (VIII. 18.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
