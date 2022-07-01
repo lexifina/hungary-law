@@ -4,7 +4,7 @@
 
 a) a pénzügyminiszter által delegált államtitkár,
 
-b) az innovációért és technológiáért felelős miniszter által delegált államtitkár,
+b)[^1] a technológiai és ipari miniszter által delegált államtitkár,
 
 c) a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter által delegált államtitkár,
 
@@ -37,3 +37,5 @@ g) a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működ
 (6) Az Operatív Törzs az ügyrendjét maga állapítja meg.
 
 (7) Az Operatív Törzs a feladatkörébe tartozó egyes részfeladatok ellátására akciócsoportokat hozhat létre.
+
+[^1]: A 2. § (2) bekezdés b) pontja a 238/2022. (VI. 30.) Korm. rendelet 212. §-a szerint módosított szöveg.
