@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-492-20-
 | 2019-12-21 | 2015-492-20-22.7 | 329/2019. (XII. 20.) Korm. rendelet |
 | 2021-01-01 | 2015-492-20-22.8 | 649/2020. (XII. 23.) Korm. rendelet |
 | 2022-05-25 | 2015-492-20-22.9 | 183/2022. (V. 24.) Korm. rendelet |
+| 2022-07-01 | 2015-492-20-22.10 | 239/2022. (VI. 30.) Korm. rendelet |
