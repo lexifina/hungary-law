@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-52-20-2
 | 2019-08-01 | 2013-52-20-22.7 | 191/2019. (VII. 30.) Korm. rendelet |
 | 2020-09-01 | 2013-52-20-22.8 | 191/2019. (VII. 30.) Korm. rendelet |
 | 2021-10-07 | 2013-52-20-22.9 | 571/2021. (X. 6.) Korm. rendelet |
+| 2022-07-01 | 2013-52-20-22.10 | 238/2022. (VI. 30.) Korm. rendelet |

@@ -20,11 +20,11 @@ i) közzé teszi azon szakok és szakpárok listáját, melyekben az adott szako
 
 j) évente beszámolót készít a miniszter számára az ösztöndíj program végrehajtásáról,
 
-k)[^2] tájékoztatja a képző felsőoktatási intézményt az elnyert ösztöndíjjal összefüggő, a felsőoktatási intézménynek az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3. melléklet IV. alcím 21. pontja szerinti, az ösztöndíjhoz kapcsolódó adatszolgáltatási kötelezettsége teljesítéséhez szükséges adatokról,
+k)[^3] tájékoztatja a képző felsőoktatási intézményt az elnyert ösztöndíjjal összefüggő, a felsőoktatási intézménynek az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 3. melléklet IV. alcím 21. pontja szerinti, az ösztöndíjhoz kapcsolódó adatszolgáltatási kötelezettsége teljesítéséhez szükséges adatokról,
 
-l)[^3] gondoskodik az ösztöndíjas szakképzettségének megfelelő foglalkoztatásra irányuló jogviszony felajánlásáról.
+l)[^4] gondoskodik az ösztöndíjas szakképzettségének megfelelő foglalkoztatásra irányuló jogviszony felajánlásáról.
 
 (2) Az ösztöndíjak és az ösztöndíj program működtetésének pénzügyi fedezetét a Központ költségvetésében kell tervezni.
 
-[^2]: A 4. § (1) bekezdés k) pontját a 220/2014. (VIII. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^3]: A 4. § (1) bekezdés l) pontját a 191/2019. (VII. 30.) Korm. rendelet 37. §-a iktatta be.
+[^3]: A 4. § (1) bekezdés k) pontját a 220/2014. (VIII. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^4]: A 4. § (1) bekezdés l) pontját a 191/2019. (VII. 30.) Korm. rendelet 37. §-a iktatta be.

@@ -1,4 +1,4 @@
-5. § (1)[^4] A KÖB a miniszter által megbízott köznevelési és felsőoktatási vezetőkből és szakértőkből, a Központ által delegált szakértőkből, továbbá a Magyar Rektori Konferencia által a tanárképzés három fő területéről delegált szakértőkből álló legfeljebb tizenegy tagú testület. A KÖB állandó, a miniszter által megbízott tagja, a Központ elnöke. A KÖB elnökét a testület tagjai közül a miniszter bízza meg. Nem lehet a KÖB elnöke, aki a Központ elnöke.
+5. § (1)[^5] A KÖB a miniszter által megbízott köznevelési és felsőoktatási vezetőkből és szakértőkből, a Központ által delegált szakértőkből, továbbá a Magyar Rektori Konferencia által a tanárképzés három fő területéről delegált szakértőkből álló legfeljebb tizenegy tagú testület. A KÖB állandó, a miniszter által megbízott tagja, a Központ elnöke. A KÖB elnökét a testület tagjai közül a miniszter bízza meg. Nem lehet a KÖB elnöke, aki a Központ elnöke.
 
 (2) A KÖB
 
@@ -12,4 +12,4 @@ b) gyakorolja az ösztöndíjas szerződés módosításával, megszüntetésév
 
 (5) A KÖB tagjai – az elnök kivételével – a (2) bekezdésben meghatározott feladataikat a Központ vezetője által a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 154. § (3) bekezdése alapján megállapított rendkívüli, célhoz köthető feladatként végezhetik.
 
-[^4]: Az 5. § (1) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^5]: Az 5. § (1) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
