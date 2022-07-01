@@ -132,6 +132,8 @@
 
 66.[^66] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a bisz(2-etilhexil)-ftalát (DEHP) emberi testnedvek és/vagy dializátfolyadékok elemzésére szolgáló ionszelektív elektródokban való felhasználására vonatkozó mentesség tekintetében történő módosításáról szóló, 2021. augusztus 11-i (EU) 2021/1980 felhatalmazáson alapuló bizottsági irányelvnek
 
+67.[^67] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, az intravaszkuláris ultrahangos képalkotó rendszerek elektromos forgóérintkezőiben használt higanyra vonatkozó mentesség érvényességi időszakának tekintetében történő módosításáról szóló, 2021. március 8-i (EU) 2021/884 felhatalmazáson alapuló bizottsági irányelvnek,
+
 [^27]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^28]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
 [^29]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
@@ -172,3 +174,4 @@
 [^64]: A 16. § 64. pontját az 52/2022. (II. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^65]: A 16. § 65. pontját az 52/2022. (II. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^66]: A 16. § 66. pontját az 52/2022. (II. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^67]: A 16. § 67. pontját az 52/2022. (II. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.

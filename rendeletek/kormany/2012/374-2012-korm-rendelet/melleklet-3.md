@@ -372,7 +372,7 @@
 
 | 91. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó, de a 90. sorban nem említett, gumit tartalmazó alkatrészek esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával vagy tartósan emberi bőrrel. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 10 m% | 2024. július 21-ig |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^70]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^71]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -550,7 +550,7 @@ lejár.
 
 45. Vér, egyéb testfolyadék és testgáz elemzésére szolgáló in vitro diagnosztikai orvostechnikai eszközök amperometriás, potenciometriás és konduktometriás elektrokémiai érzékelőinek alapanyagaként szolgáló polivinilklorid (PVC) hőstabilizálására használt ólom – a mentesség 2022. március 31-én lejár.
 
-46. A magas frekvenciájú (>50MHz) működési módokra képes intravaszkuláris ultrahangos képalkotó rendszerek elektromos forgóérintkezőiben lévő higany – a mentesség 2019. június 30-án lejár.
+46. A magas frekvenciájú (>50MHz) működési módokra képes intravaszkuláris ultrahangos képalkotó rendszerek elektromos forgóérintkezőiben lévő higany – a mentesség 2026. június 30-án lejár.
 
 47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
 
@@ -562,4 +562,4 @@ lejár.
 
 51. Az emberi testnedvekben és/vagy dializátfolyadékokban jelen lévő ionos anyagok betegközeli elemzéséhez használatos ionszelektív elektródokban található bisz(2-etilhexil)-ftalát (DEHP). A mentesség 2028. július 21-én lejár.
 
-[^70]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^71]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
