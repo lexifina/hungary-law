@@ -222,4 +222,6 @@
 
 3. § (1) E rendelet a kihirdetést követő napon lép hatályba.
 
-(2) A rendelet végrehajtásáról az oktatásért felelős miniszter gondoskodik.
+(2)[^1] A rendelet végrehajtásáról a köznevelésért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 102. §-a szerint módosított szöveg.
