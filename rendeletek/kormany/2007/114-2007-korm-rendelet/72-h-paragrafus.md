@@ -4,7 +4,7 @@
 
 72/H. §[^236] (1) Az összevont kérelmezési eljárásban a kérelem benyújtására és elbírálására a 31. §-ban, a 32. § a) pontjában, a 33. §-ban, a 36. §-ban, a 41–48. §-ban, a 49. § (1) bekezdésében, valamint az 50–55. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(2)[^237] A Kormány az összevont kérelmezési eljárásban – a (3a) bekezdésben meghatározott esetek kivételével – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magyarországi munkavállalását támogatja-e, elsőfokú eljárásban a munkavégzés helye szerint illetékes kormányhivatalt, másodfokú eljárásban a foglalkoztatáspolitikáért felelős minisztert szakhatóságként jelöli ki.
+(2)[^237] A Kormány az összevont kérelmezési eljárásban – a (3a) bekezdésben meghatározott esetek kivételével – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magyarországi munkavállalását támogatja-e, elsőfokú eljárásban a munkavégzés helye szerint illetékes kormányhivatalt, másodfokú eljárásban a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős minisztert szakhatóságként jelöli ki.
 
 (3)[^238] A (2) bekezdésben foglaltaktól eltérően, ha
 
@@ -34,7 +34,7 @@ h)[^241] a Tv. 19. §-ában meghatározott harmadik országbeli családegyesít�
 
 i) a menekültként, oltalmazottként elismert személy családtagja vagy a menekültként elismert kísérő nélküli kiskorú szülője, ennek hiányában gyámja, feltéve, hogy az összevont kérelmezési eljárásban benyújtott tartózkodási engedély kérelmét megelőzően családi együttélés biztosítása céljából kiadott, érvényes tartózkodási engedéllyel rendelkezik; vagy
 
-j)[^242] Magyarországgal szomszédos harmadik ország állampolgára, és lakóhelye ebben a szomszédos harmadik országban van, és a foglalkoztatáspolitikáért felelős miniszter közleményében meghatározott foglalkoztatásokban dolgozik, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
+j)[^242] Magyarországgal szomszédos harmadik ország állampolgára, és lakóhelye ebben a szomszédos harmadik országban van, és a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter közleményében meghatározott foglalkoztatásokban dolgozik, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
 
 k)[^243] a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény (a továbbiakban: Szmtv.) 95. § (16) bekezdése szerint kérelmezi a tartózkodási engedélyt.
 
@@ -76,7 +76,7 @@ f) a (3a) bekezdésben meghatározott mentességet megalapozó ok.
 
 a) a Kormánnyal érvényes stratégiai partnerségi megállapodással rendelkező foglalkoztató,
 
-b)[^253] az a foglalkoztató, amely a foglalkoztatáspolitikáért felelős miniszter közleményében meghatározott foglalkozásokban Magyarországgal szomszédos országból származó harmadik országbeli állampolgárt kíván Magyarországon foglalkoztatni,
+b)[^253] az a foglalkoztató, amely a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter közleményében meghatározott foglalkozásokban Magyarországgal szomszédos országból származó harmadik országbeli állampolgárt kíván Magyarországon foglalkoztatni,
 
 c) az a foglalkoztató, amely nemzetgazdasági szempontból kiemelt beruházást valósít meg,
 
@@ -87,12 +87,12 @@ e)[^255] a minősített kölcsönbeadói nyilvántartásban szereplő munkáltat
 [^234]: A 72/G. §-t a 130/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
 [^235]: A 72/H. §-t megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
 [^236]: A 72/H. §-t a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^237]: A 72/H. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^237]: A 72/H. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 47. § (2) bekezdése szerint módosított szöveg.
 [^238]: A 72/H. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte, újonnan a 113/2016. (V. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
 [^239]: A 72/H. § (3a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
 [^240]: A 72/H. § (3a) bekezdés b) pontja a 232/2019. (X. 4.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^241]: A 72/H. § (3a) bekezdés h) pontja a 227/2022. (VI. 28.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
-[^242]: A 72/H. § (3a) bekezdés j) pontja a 411/2017. (XII. 15.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 277/2018. (XII. 21.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^242]: A 72/H. § (3a) bekezdés j) pontja a 411/2017. (XII. 15.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 277/2018. (XII. 21.) Korm. rendelet 26. § a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 47. § (2) bekezdése szerint módosított szöveg.
 [^243]: A 72/H. § (3a) bekezdés k) pontját a 636/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
 [^244]: A 72/H. § (3a) bekezdés l) pontját a 227/2022. (VI. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^245]: A 72/H. § (3a) bekezdés m) pontját a 227/2022. (VI. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
@@ -103,6 +103,6 @@ e)[^255] a minősített kölcsönbeadói nyilvántartásban szereplő munkáltat
 [^250]: A 72/H. § (7) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (6) bekezdésével megállapított szöveg.
 [^251]: A 72/H. § (9) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (7) bekezdésével megállapított szöveg.
 [^252]: A 72/H. § (10) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (8) bekezdése iktatta be.
-[^253]: A 72/H. § (10) bekezdés b) pontja a 277/2018. (XII. 21.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^253]: A 72/H. § (10) bekezdés b) pontja a 277/2018. (XII. 21.) Korm. rendelet 26. § a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 47. § (2) bekezdése szerint módosított szöveg.
 [^254]: A 72/H. § (10) bekezdés d) pontját a 113/2016. (V. 30.) Korm. rendelet 35. § (9) bekezdése iktatta be.
 [^255]: A 72/H. § (10) bekezdés e) pontját a 227/2022. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.

@@ -24,11 +24,11 @@ c) más hitelt érdemlő módon.
 
 (5)[^199] A regionális igazgatóság a tanulmányok folytatása céljából kiadott tartózkodási engedélyt a II. melléklet 2. pontja szerinti formában és adattartalommal állítja ki. A regionális igazgatóság a tartózkodási engedély okmány hátoldali „Megjegyzések” rovatába a következő adatokat tünteti fel: „Tanulmányokat folytat [oktatási intézmény rövidített neve]-nál/nél/Entitled to study at [short name of institution for education]”.
 
-(6)[^200] Ha a tanulmányok folytatása célú tartózkodási engedély olyan harmadik országbeli állampolgár részére kerül kiállításra, aki magyar állami ösztöndíj vagy az oktatásért felelős miniszter által biztosított rendszeres tanulmányi támogatás keretében folytatja tanulmányait Magyarországon, a regionális igazgatóság a tanulmányok folytatása céljából kiadott tartózkodási engedélyt a II. melléklet 2. pontja szerinti formában és adattartalommal állítja ki, és a tartózkodási engedély okmány hátoldali „Megjegyzések” rovatába a következő adatokat tünteti fel: „Tanulmányokat folytat [oktatási intézmény rövidített neve]-nál/nél [az ösztöndíjprogram rövidített neve] ösztöndíj keretében/Entitled to study at [short name of institution for education] part of [short name of scholarship]”.
+(6)[^200] Ha a tanulmányok folytatása célú tartózkodási engedély olyan harmadik országbeli állampolgár részére kerül kiállításra, aki magyar állami ösztöndíj vagy a felsőoktatásért felelős miniszter által biztosított rendszeres tanulmányi támogatás keretében folytatja tanulmányait Magyarországon, a regionális igazgatóság a tanulmányok folytatása céljából kiadott tartózkodási engedélyt a II. melléklet szerint állítja ki.
 
 [^195]: Az 59/A. §-t a 113/2016. (V. 30.) Korm. rendelet 31. §-a iktatta be.
 [^196]: A 60. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^197]: A 60. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 44. §-a iktatta be.
 [^198]: A 60. § (4) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 22. § (1) bekezdése iktatta be.
 [^199]: A 60. § (5) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 22. § (1) bekezdése iktatta be.
-[^200]: A 60. § (6) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 22. § (1) bekezdése iktatta be.
+[^200]: A 60. § (6) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 22. § (1) bekezdése iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.

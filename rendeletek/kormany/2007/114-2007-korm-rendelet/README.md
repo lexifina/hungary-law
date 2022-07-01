@@ -63,3 +63,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-114-20-
 | 2021-12-21 | 2007-114-20-22.64 | 696/2021. (XII. 13.) Korm. rendelet |
 | 2022-01-01 | 2007-114-20-22.65 | 696/2021. (XII. 13.) Korm. rendelet |
 | 2022-06-29 | 2007-114-20-22.66 | 227/2022. (VI. 28.) Korm. rendelet |
+| 2022-07-01 | 2007-114-20-22.67 | 411/2017. (XII. 15.) Korm. rendelet |
