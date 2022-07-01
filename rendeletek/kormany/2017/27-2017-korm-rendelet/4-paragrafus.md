@@ -170,8 +170,9 @@
 
 (3) A Szerződés, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján a Szerződés 16. cikk első bekezdésében meghatározott időpontban lép hatályba.. A 32/2017. (VII. 24.) KKM közlemény alapján a hatálybalépés időpontja 2017. augusztus 11.
 [^3]: A 32/2017. (VII. 24.) KKM közlemény alapján a hatálybalépés időpontja 2017. augusztus 11.
 [^4]: Lásd a 32/2017. (VII. 24.) KKM közleményt.
+[^5]: A 4. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 167. §-a szerint módosított szöveg.
