@@ -1,4 +1,4 @@
-12. §[^29] (1) A Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendelet módosításáról szóló 5/2020. (I. 31.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. § (1) és (2) bekezdését, 3. § (2), (5) és (6) bekezdését, 5. § (1), (3) és (4) bekezdését, 8. §-át és Mellékletét első alkalommal a 2020/2021. tanévben
+12. §[^31] (1) A Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendelet módosításáról szóló 5/2020. (I. 31.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. § (1) és (2) bekezdését, 3. § (2), (5) és (6) bekezdését, 5. § (1), (3) és (4) bekezdését, 8. §-át és Mellékletét első alkalommal a 2020/2021. tanévben
 
 a) az iskolák első évfolyamán,
 
@@ -12,9 +12,9 @@ majd ezt követően minden tanévben felmenő rendszerben kell alkalmazni.
 
 (3) Az iskolák az (1) bekezdés által érintett évfolyamokon a (2) bekezdés szerint felülvizsgált pedagógiai program szerint kezdik meg a 2020/2021. tanévben a nevelő-oktató munkát.
 
-(4) Az iskoláknak az (1) bekezdésben fel nem sorolt évfolyamain a nevelő-oktató munkát a Módr. 7. § (2) bekezdésében meghatározott miniszteri rendeleteknek a Módr. hatálybalépésekor[^30] hatályos rendelkezései alkalmazásával kell megszervezni.
+(4) Az iskoláknak az (1) bekezdésben fel nem sorolt évfolyamain a nevelő-oktató munkát a Módr. 7. § (2) bekezdésében meghatározott miniszteri rendeleteknek a Módr. hatálybalépésekor[^32] hatályos rendelkezései alkalmazásával kell megszervezni.
 
-Melléklet a 110/2012. (VI. 4.) Korm. rendelethez[^31]
+Melléklet a 110/2012. (VI. 4.) Korm. rendelethez[^33]
 
 NEMZETI ALAPTANTERV
 
@@ -28,7 +28,7 @@ A Nat a magyar kulturális és pedagógiai örökség gyökereiből táplálkozi
 
 I. 1. A KÖZNEVELÉS FELADATA ÉS ÉRTÉKEI
 
-A hazánk Alaptörvényében[^32] megfogalmazott feladatokat szem előtt tartva és A nemzeti köznevelésről szóló törvényben[^33] foglalt célok elérése érdekében, a törvény elveinek és szabályozásának megfelelően a Nat a köznevelés feladatát alapvetően a nemzeti műveltség, a hazai nemzetiségek kultúrájának átadásában, megőrzésében, az egyetemes kultúra közvetítésében, az erkölcsi érzék és a szellemi-érzelmi fogékonyság elmélyítésében jelöli meg. Feladata továbbá a tanuláshoz és a munkához szükséges képességek, készségek, ismeretek, attitűdök együttes fejlesztése, az egyéni és csoportos teljesítmény ösztönzése, a közjóra való törekvés megalapozása, a nemzeti, közösségi összetartozás és a hazafiság megerősítése.
+A hazánk Alaptörvényében[^34] megfogalmazott feladatokat szem előtt tartva és A nemzeti köznevelésről szóló törvényben[^35] foglalt célok elérése érdekében, a törvény elveinek és szabályozásának megfelelően a Nat a köznevelés feladatát alapvetően a nemzeti műveltség, a hazai nemzetiségek kultúrájának átadásában, megőrzésében, az egyetemes kultúra közvetítésében, az erkölcsi érzék és a szellemi-érzelmi fogékonyság elmélyítésében jelöli meg. Feladata továbbá a tanuláshoz és a munkához szükséges képességek, készségek, ismeretek, attitűdök együttes fejlesztése, az egyéni és csoportos teljesítmény ösztönzése, a közjóra való törekvés megalapozása, a nemzeti, közösségi összetartozás és a hazafiság megerősítése.
 
 Célja továbbá, hogy a családdal együttműködve cselekvő elkötelezettségre neveljen az igazság és az igazságosság, a jó és a szép iránt, fejlessze a harmonikus személyiség kibontakoztatásához szükséges szellemi, érzelmi, erkölcsi, társas és testi képességeket. Ezáltal járul hozzá ahhoz, hogy a felnövekvő nemzedék
 
@@ -192,7 +192,7 @@ I.2. A NAT, A KERETTANTERVEK ÉS A HELYI SZINTŰ SZABÁLYOZÁS
 
 A Nat-ban megfogalmazott elvek, célok, fejlesztési feladatok és műveltségi tartalmak a képzési szakasz sajátosságai szerint több változatban is kimunkált dokumentumokban, a kerettantervekben öltenek testet.
 
-Az oktatásért felelős miniszter által közzétett kerettantervek jelentik a tartalmi szabályozás következő szintjét. A kerettantervek tehát meghatározó szerepet töltenek be a Nat céljai és feladatai érvényesítésében. Az egyes iskolatípusokban és oktatási szakaszokban a kerettantervek rögzítik a nevelés és oktatás céljait, a tantárgyi rendszert, az egyes tantárgyak témaköreit, tartalmát, a tantárgyak egy vagy két évfolyamonkénti követelményeit, a tantárgyközi tudás- és készségterületek fejlesztésének feladatait, és közlik a követelmények teljesítéséhez rendelkezésre álló, illetve ajánlott időkeretet. Az egyes műveltségi területeknek lehetnek olyan fejlesztési céljai és tartalmi elemei amelyek a kerettantervekben nem önálló tantárgyként, hanem más tantárgy/tantárgyak részeként jelennek meg, sőt, a kerettantervi implementációban más műveltségterületek részévé is válhatnak. Az intézmény szakmai önállóságát a kerettantervekben kötelező tartalommal nem szabályozott időkeret szabad felhasználása, a módszertani szabadság, az engedélyezett kerettantervek közötti választás, illetve az egyedi tantervek engedélyeztetési lehetősége biztosítja.
+A miniszter által közzétett kerettantervek jelentik a tartalmi szabályozás következő szintjét. A kerettantervek tehát meghatározó szerepet töltenek be a Nat céljai és feladatai érvényesítésében. Az egyes iskolatípusokban és oktatási szakaszokban a kerettantervek rögzítik a nevelés és oktatás céljait, a tantárgyi rendszert, az egyes tantárgyak témaköreit, tartalmát, a tantárgyak egy vagy két évfolyamonkénti követelményeit, a tantárgyközi tudás- és készségterületek fejlesztésének feladatait, és közlik a követelmények teljesítéséhez rendelkezésre álló, illetve ajánlott időkeretet. Az egyes műveltségi területeknek lehetnek olyan fejlesztési céljai és tartalmi elemei amelyek a kerettantervekben nem önálló tantárgyként, hanem más tantárgy/tantárgyak részeként jelennek meg, sőt, a kerettantervi implementációban más műveltségterületek részévé is válhatnak. Az intézmény szakmai önállóságát a kerettantervekben kötelező tartalommal nem szabályozott időkeret szabad felhasználása, a módszertani szabadság, az engedélyezett kerettantervek közötti választás, illetve az egyedi tantervek engedélyeztetési lehetősége biztosítja.
 
 A Nat-ban megfogalmazottak alapján a kerettantervek határozzák meg a tanulás-tanítás folyamatában elsajátítandó fejlesztési követelményeket, továbbá az elvárt tudás mélységét, szervezettségét, és alapul szolgálnak a kimeneti követelmények meghatározásához. A Nat normáit, illetve a szakképzés esetében a szakmaterületek követelményeit közvetítő, de annál részletesebb kerettantervek és oktatási programok – a Nat-tal együtt – irányt mutatnak a tankönyvíróknak és szerkesztőknek, a tanítási segédletek, eszközök készítőinek, továbbá az állami vizsgakövetelmények, valamint az országos mérési-értékelési eszközök kidolgozóinak, de legfőképpen az iskolák nevelőtestületeinek.
 
@@ -504,7 +504,7 @@ Ajánlás az alapóraszámok tanulási területekhez tartozó tantárgyanként, 
 
 *** A kötelező érettségi tantárgyakhoz rendelendő órakeretet a II.2.1.1. táblázat G:13 mezőjében a zárójelben megadott szám jelzi a kötelező alapóraszámon belül megadva. A 11. és 12. évfolyamon legalább 4-4 tanórát bármely érettségi tantárgy oktatására kell felhasználni. Ha a tanuló a 11. évfolyamon a természettudomány tantárgyat tanulja, akkor legalább további 2 órát kell hetente egyéb érettségi tantárgyból felvennie.
 
-****A szabadon tervezhető órakeret terhére beépíthetők a helyi tantervbe azok a tantárgyak, amelyek az oktatásért felelős miniszter által közzétett kerettantervvel rendelkeznek, mint például a pénzügyi és vállalkozási ismeretek, honvédelmi ismeretek. Ezen akkreditált tantárgyak érettségi vizsgatárgyként történő megjelenéséről az érettségi vizsga vizsgaszabályzatának kiadásáról szóló kormányrendelet rendelkezhet. A szabadon tervezhető órakeret terhére kerettantervvel rendelkező tantárgyak tanítása szervezhető. Ez az órakeret lehetővé teszi az alapóraszámban biztosított tantárgyak óraszámának az iskola helyi tantervében meghatározandó emelését is. A hon- és népismeret tantárgy az 5–8. évfolyamok valamelyikén összesen egyéves időtartamban, heti egy órában a szabadon tervezhető órakeret terhére kötelezően választandó.
+****A szabadon tervezhető órakeret terhére beépíthetők a helyi tantervbe azok a tantárgyak, amelyek a miniszter által közzétett kerettantervvel rendelkeznek, mint például a pénzügyi és vállalkozási ismeretek, honvédelmi ismeretek. Ezen akkreditált tantárgyak érettségi vizsgatárgyként történő megjelenéséről az érettségi vizsga vizsgaszabályzatának kiadásáról szóló kormányrendelet rendelkezhet. A szabadon tervezhető órakeret terhére kerettantervvel rendelkező tantárgyak tanítása szervezhető. Ez az órakeret lehetővé teszi az alapóraszámban biztosított tantárgyak óraszámának az iskola helyi tantervében meghatározandó emelését is. A hon- és népismeret tantárgy az 5–8. évfolyamok valamelyikén összesen egyéves időtartamban, heti egy órában a szabadon tervezhető órakeret terhére kötelezően választandó.
 
 *****A művészetre tervezett heti 1 óra a 11. évfolyamon megvalósulhat a dráma és színház, a vizuális kultúra, az ének-zene, valamint a mozgóképkultúra és médiaismeret tantárggyal is.
 
@@ -5002,8 +5002,8 @@ A KÖRNYEZETTUDATOS SZEMLÉLET FEJLESZTÉSE
 
 A nevelési-oktatási szakasz végére a tanuló:
 
-[^29]: A 12. §-t az 5/2020. (I. 31.) Korm. rendelet 4. §-a iktatta be.
-[^30]: A hatálybalépés időpontja 2020. február 8.
-[^31]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a szerint módosított szöveg.
-[^32]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
-[^33]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.
+[^31]: A 12. §-t az 5/2020. (I. 31.) Korm. rendelet 4. §-a iktatta be.
+[^32]: A hatálybalépés időpontja 2020. február 8.
+[^33]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a, a 238/2022. (VI. 30.) Korm. rendelet 110. § e) és f) pontja szerint módosított szöveg.
+[^34]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
+[^35]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.

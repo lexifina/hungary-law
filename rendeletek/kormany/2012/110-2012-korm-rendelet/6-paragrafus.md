@@ -24,12 +24,14 @@ g) támogatás, tanácsadás, szakmai fórumok, a program karbantartása.
 
 (3) Nevelési-oktatási programok az alapfokú és középfokú oktatás bármely területén, bármely pedagógiai szakaszban használhatók.
 
-(4)[^14] Az oktatásért felelős miniszter egyes, különösen kiemelt figyelmet igénylő tanulócsoportok neveléséhez-oktatásához – különösen sajátos nevelési igényű tanulók, nemzetiséghez tartozó tanulók – nevelési-oktatási programokat ad ki.
+(4)[^14] A miniszter egyes, különösen kiemelt figyelmet igénylő tanulócsoportok neveléséhez-oktatásához – különösen sajátos nevelési igényű tanulók, nemzetiséghez tartozó tanulók – nevelési-oktatási programokat ad ki.
 
-(5) Ha a nevelési-oktatási programot nem az oktatásért felelős miniszter adja ki, a program engedélyezését az oktatásért felelős miniszter köznevelési feladatkörében eljáró, kormányrendeletben kijelölt központi hivatalához benyújtott kérelemben lehet kezdeményezni.
+(5)[^15] Ha a nevelési-oktatási programot nem a miniszter adja ki, a program engedélyezését a miniszter köznevelési feladatkörében eljáró, kormányrendeletben kijelölt központi hivatalához benyújtott kérelemben lehet kezdeményezni.
 
-(6) Az oktatásért felelős miniszter által kiadott nevelési-oktatási programot az oktatásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi.
+(6)[^16] A miniszter által kiadott nevelési-oktatási programot a miniszter az általa vezetett minisztérium honlapján közzéteszi.
 
 [^12]: Az 5/B. §-t az 5/2020. (I. 31.) Korm. rendelet 2. §-a iktatta be.
 [^13]: A 3/A. alcímet (5/A. §) a 457/2017. (XII. 28.) Korm. rendelet 395. §-a iktatta be, hatályon kívül helyezte az 5/2020. (I. 31.) Korm. rendelet 7. § (1) bekezdés b) pontja.
-[^14]: A 6. § (4) bekezdése az 5/2020. (I. 31.) Korm. rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^14]: A 6. § (4) bekezdése az 5/2020. (I. 31.) Korm. rendelet 7. § (1) bekezdés c) pontja, a 238/2022. (VI. 30.) Korm. rendelet 110. § c) pontja szerint módosított szöveg.
+[^15]: A 6. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 110. § d) pontja szerint módosított szöveg.
+[^16]: A 6. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 109. §-ával megállapított szöveg.
