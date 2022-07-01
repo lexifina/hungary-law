@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2021-01-01 | 2001-12-20-22.75 | 686/2020. (XII. 29.) Korm. rendelet |
 | 2022-01-01 | 2001-12-20-22.76 | 109/2004. (IV. 27.) Korm. rendelet |
 | 2022-01-11 | 2001-12-20-22.77 | 455/2015. (XII. 29.) Korm. rendelet |
+| 2022-07-01 | 2001-12-20-22.78 | 74/2011. (V. 2.) Korm. rendelet |

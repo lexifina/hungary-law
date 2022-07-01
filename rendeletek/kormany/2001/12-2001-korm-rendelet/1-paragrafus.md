@@ -70,7 +70,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 15.[^19] akadálymentesítés: a mozgáskorlátozott személy fogyatékossága jellegéből fakadó, a lakáshasználattal összefüggő életvitel nehézségeit csökkentő, a rendeltetésszerű használatot biztosító műszaki akadálymentesítési munkák elvégzése új lakóépületen, vagy új lakáson, illetve meglévő lakóépületen vagy használt lakáson;
 
-16.[^20] miniszter: a 28. §-ban, valamint a 32/C. §-ban foglalt előirányzatok esetében a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter, egyéb esetben a lakásgazdálkodásért és lakáspolitikáért felelős miniszter;
+16.[^20] miniszter: a 28. §-ban, valamint a 32/C. §-ban foglalt előirányzatok esetében a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter, egyéb esetben a lakáscélú állami támogatásokért felelős miniszter;
 
 17.[^21] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
@@ -103,7 +103,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 [^17]: Az 1. § (4) bekezdés 13. pontját a 125/2009. (VI. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^18]: Az 1. § (4) bekezdés 14. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 102/2011. (VI. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^19]: Az 1. § (4) bekezdés 15. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^20]: Az 1. § (4) bekezdés 16. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 257/2011. (XII. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^20]: Az 1. § (4) bekezdés 16. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 257/2011. (XII. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 29. §-a szerint módosított szöveg.
 [^21]: Az 1. § (4) bekezdés 17. pontját a 331/2014. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
 [^22]: Az 1. § (4) bekezdés 18. pontját a 70/2015. (III. 30.) Korm. rendelet 48. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^23]: Az 1. § (4) bekezdés 19. pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
