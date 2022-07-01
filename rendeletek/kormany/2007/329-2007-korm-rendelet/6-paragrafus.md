@@ -12,7 +12,7 @@ d)[^19]
 
 e)[^20] végzi a rendőrség áldozatsegítői és bűnmegelőzési tevékenységével összefüggő feladatok szakmai irányítását,
 
-f)[^21] adatokat szolgáltat a Terrorelhárítási Információs és Bűnügyi Elemző Központ részére,
+f)[^21] adatokat szolgáltat a Nemzeti Információs Központ részére,
 
 g)[^22] dönt a bűnüldözési feladatoknak az általános rendőri szerv szervei közötti munkamegosztásáról és az együttműködés kereteinek meghatározásáról,
 
@@ -133,7 +133,7 @@ e) rendőr-főkapitányságokat jelentéstételre vagy beszámolóra kötelezhet
 [^18]: A 6. § (1) bekezdés b) pontja a 77/2018. (IV. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^19]: A 6. § (1) bekezdés d) pontját a 157/2015. (VI. 25.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
 [^20]: A 6. § (1) bekezdés e) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
-[^21]: A 6. § (1) bekezdés f) pontja a 186/2016. (VII. 13.) korm. rendelet 3. §-ával megállapított szöveg.
+[^21]: A 6. § (1) bekezdés f) pontja a 186/2016. (VII. 13.) korm. rendelet 3. §-ával megállapított, a 239/2022. (VI. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^22]: A 6. § (1) bekezdés g) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
 [^23]: A 6. § (1) bekezdés i) pontját a 157/2015. (VI. 25.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
 [^24]: A 6. § (1) bekezdés j) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
