@@ -1,212 +1,214 @@
-## Közúti járművek fényvisszaverő rendszámtábláinak műszaki leírása
+## Közúti járművek 53. § (2) bekezdés c) pontja szerinti fényvisszaverő rendszámtábláinak műszaki leírása
 
-## I. A rendszámtábla típusai, méretei és anyaga
+## I. A RENDSZÁMTÁBLA TÍPUSAI, MÉRETEI ÉS ANYAGA
 
 ## 1. A rendszámtábla típusai: „A”, „B”, „C”, „D” és „E”
 
 ## A rendszámtábla méretei:
 
-| Rendszámtábla típusok | Hosszúság mm | Szélesség mm | Keretvastagság mm | Betűmagasság mm | Domborítási magasság mm |
+|  | A | B | C | D | E | F |
 
-| „A” típus | 520 | 110 | 4,5 | 77 | 1,8 |
+| 1. | Rendszámtábla típusok | Hosszúság mm | Szélesség mm | Keretvastagság mm | Betűmagasság mm | Domborítási magasság mm |
 
-| „B” típus | 240 | 130 | 4 | 49 | 1,8 |
+| 2. | „A” típus | 520 | 110 | 4,5 | 77 | 1,8 |
 
-| „C” típus | 280 | 200 | 4,5 | 77 | 1,8 |
+| 3. | „B” típus | 240 | 130 | 4 | 49 | 1,8 |
 
-| „D” típus | 520 | 110 | 4,5 | 77 | 0 |
+| 4. | „C” típus | 280 | 200 | 4,5 | 77 | 1,8 |
 
-| „E” típus | 108 | 134 | 3 | 30 | 1,8 |
+| 5. | „D” típus | 520 | 110 | 4,5 | 77 | 0 |
 
-| Tűréshatárok | ±2,5 | ±2,5 | ±1 | ±1 | ±0,4 |
+| 6. | „E” típus | 108 | 134 | 3 | 31,5 | 1,8 |
+
+| 7. | Tűréshatárok | ±2,5 | ±2,5 | ±1 | ±1 | ±0,4 |
 
 ## 2. A rendszámtábla anyaga az „A”, „B”, „C” és „E” típusú rendszámtábla esetén fényvisszaverő fóliával bevont alumínium lemez, a „D” típusú rendszámtábla esetén öntapadó fényvisszaverő fólia. A fényvisszaverő fólia az MSZ 9620/8 szerint meghatározott anyag.
 
-## „A” típusú rendszámtábla rajzai:
+## 1. ábra: „A” és „D” típusú rendszámtáblák rajzai
 
-## 1. ábra
+## 2. ábra: „B” típusú rendszámtábla rajzai
 
-## „B” típusú rendszámtábla rajzai:
+## 3. ábra: „C” típusú rendszámtábla rajzai
 
-## 2. ábra
+## 4. ábra: „E” típusú rendszámtábla rajzai
 
-## „C” típusú rendszámtábla rajzai:
-
-## 3. ábra
-
-## „D” típusú rendszámtábla rajzai:
-
-## 4. ábra
-
-## „E” típusú rendszámtábla rajzai:
-
-## 5. ábra
-
-## II. A rendszámtábla keretének és karaktereinek kialakítása
+## II. A RENDSZÁMTÁBLA KERETÉNEK ÉS KARAKTEREINEK KIALAKÍTÁSA
 
 ## 1. Az „A”, „B”, „C” és „E” típusú rendszámtábla széle a betű- és számjegycsoportokkal azonos színű és kivitelű, domborított kerettel merevített. A „D” típusú öntapadó fólia rendszámtábla a betű- és számjegycsoportokkal azonos színű és kivitelű, nyomtatott kerettel rendelkezik.
 
-## 2. Az „A”, „B”, „C” és „E” típusú rendszámtáblán lévő betűk, számjegyek és a kötőjel domborított és színezett kivitelűek. A „D” típusú öntapadó fólia rendszámtáblán lévő betűk, számjegyek és a kötőjel nyomtatott kivitelűek. A domborított perem szélének, illetve a rendszámon lévő domborított betűk, számjegyek és a kötőjel szélének a rendszámtábla síkjával bezárt szöge 90°-tól eltérhet.
+## 2. Az „A”, „B”, „C” és „E” típusú rendszámtáblán lévő betűk, számjegyek és a kötőjel domborított és színezett kivitelűek. A „D” típusú öntapadó fólia rendszámtáblán lévő betűk, számjegyek és a kötőjel nyomtatott kivitelűek. A domborított perem szélének, valamint a rendszámon lévő domborított betűk, számjegyek és a kötőjel szélének a rendszámtábla síkjával bezárt szöge 90°-tól eltérhet.
 
-## Rendszámtábla keretének és karaktereinek kialakítása
+## 5. ábra: Rendszámtábla keretének és karaktereinek kialakítása
 
-## 6. ábra
+## III. A TAGÁLLAMJELZÉS ÉS CÍMER KIALAKÍTÁSA, MÉRETEI ÉS ELHELYEZÉSE
 
-## III. A tagállamjelzés kialakítása, méretei és elhelyezése
+## A tagállamjelzést a rendszámtábla bal szélén, külön mezőben, nyomtatott fényvisszaverő grafikával kell feltüntetni. A címer a rendszámtábla két-két betűjele között középre vagy a karakterek és a keret közé a jobb oldalra nyomtatott fényvisszaverő grafikai elem legyen. Ezek a nyomtatott grafikai elemek képezzék a fényvisszaverő fólia alkotórészét (integrált vagy beépített grafika). A tagállamjelzés és a címer ne legyen eltávolítható a rendszámtábláról sem mechanikai, sem vegyi eljárásokkal a fólia fényvisszaverő szerkezetének látható és helyre nem állítható roncsolódása nélkül.
 
-## A tagállamjelzést a rendszámtábla bal szélén, külön mezőben, nyomtatott fényvisszaverő grafikával kell feltüntetni. Ez a nyomtatott grafikai elem képezze a fényvisszaverő fólia alkotórészét (implantált vagy beépített grafika). A tagállamjelzés ne legyen eltávolítható a rendszámtábláról sem mechanikai, sem vegyi eljárásokkal a fólia fényvisszaverő szerkezetének látható és helyre nem állítható roncsolódása nélkül.
+## 6. ábra: „A”, „D” és „B” típusú rendszámtáblák tagállamjelzésének méretei
 
-## „A” és „B” típusú rendszámtábla tagállamjelzésének méretei
+## 7. ábra: „C” és „E” típusú rendszámtáblák tagállamjelzésének méretei
 
-## 7. ábra
+## 8. ábra: A címer egyszerűsített rajzolata a rendszámtáblákon
 
-## „C” és „D” típusú rendszámtábla tagállamjelzésének méretei
+## 9. ábra: A tagállamjelzés, a címer és a karakterek elrendezése az egyedileg előállított rendszámtáblákon
 
-## 8. ábra
+## IV. A RENDSZÁMTÁBLA BETŰI ÉS SZÁMJEGYEI
 
-## „E” típusú rendszámtábla tagállamjelzésének méretei
+## 1. Az „A”, „B”, „C”, „D” és „E” típusú rendszámtáblán lévő betűk és számjegyek függőleges középvonala essen egybe az elhelyezésükre szolgáló mezők függőleges középvonalával.
 
-## 9. ábra
-
-## IV. A rendszámtábla betűi és számjegyei
-
-## 1. Az „A”, „B”, „C”, „D” és „E” típusú rendszámtáblán lévő betűk és számjegyek függőleges középvonala essen egybe az elhelyezésükre szolgáló mezők függőleges középvonalával. A rendszámtáblán alkalmazott érvényesítő címkék esztétikus elhelyezése érdekében a szélső pozícióban lévő betűk és számjegyek, valamint a tagállamjelzés közötti, illetve a domborított keret, valamint a szélső pozícióban lévő betűk és számjegyek közötti méretek legfeljebb ±10 mm-rel változtathatók.
+## A rendszámtáblán esetlegesen alkalmazott egyéb érvényesítő címkék esztétikus elhelyezése érdekében a szélső pozícióban lévő betűk és számjegyek, valamint a tagállamjelzés közötti, a domborított keret, valamint a szélső pozícióban lévő betűk és számjegyek közötti méretek legfeljebb ±10 mm-rel változtathatók.
 
 ## Az egyes rendszámtábla típusoknál alkalmazott betűk és számjegyek méretei:
 
-| Rendszámtábla típusok | Betűk és számok magassága | Betűk szélessége mm | Számok szélessége mm |
+| Rendszámtábla típusok | Betűk és számok magassága, mm | Betűk szélessége mm | Számok szélessége mm |
 
-| „A” típus | 77 | 55 | 44 |
+| „A” típus | 77 | 44 | 38,5 |
 
-| „B” típus | 49 | 35 | 28 |
+| „B” típus | 49 | 28 | 24,5 |
 
-| „C” típus | 77 | 55 | 44 |
+| „C” típus | 77 | 44 | 38,5 |
 
-| „D” típus | 77 | 55 | 44 |
+| „D” típus | 77 | 44 | 38,5 |
 
-| „E” típus | 30 | 21,4 | 17,1 |
+| „E” típus | 31,5 | 18 | 15,8 |
 
-## 2. „A”, „B”, „C”, „D” és „E” típusú rendszámtáblák karakterkészlete
+## 10. ábra: Az 53. § (2) bekezdés c) pontja szerinti rendszámtáblák karakterkészlete
 
-## 10. ábra
+## V. SZÍN- ÉS FÉNYTECHNIKAI KÖVETELMÉNYEK
 
-## V. Szín- és fénytechnikai követelmények
+## 1. A rendszámtábla alapszíne fehér, sárga, világoszöld, szürke vagy világoskék. A betű- és számcsoportok, valamint a keret és a kötőjel fekete, fehér, vörös vagy zöld. Az Európai Unió tagállamjelzése pedig kék alapon sárga csillagok és fehér H betű. A címer színe vörös, fehér, zöld, sárga és fekete.
 
-## 1. A rendszámtábla alapjának színe fehér, a betű- és számcsoportok, valamint a keret és a kötőjel fekete, az Európai Unió tagállamjelzése pedig kék alapon sárga csillagok és fehér H betű.
-
-## 2. A fehér, a kék, a sárga, a világoszöld, a szürke és a világoskék színű felület fényvisszaverő, a fekete szín közönséges felületszín. A fehér, a kék, a sárga, a világoszöld, a szürke és a világoskék színekre az MSZ 20186/2 fényvisszaverő bevonatokra vonatkozó, a fekete színre pedig a szabvány közönséges felületszínekre vonatkozó előírásai érvényesek.
+## 2. A fehér, a kék, a sárga, a vörös, a zöld, a világoszöld, a szürke és a világoskék színű alapfelület fényvisszaverő. A karakterek fekete, fehér, vörös vagy zöld színe közönséges felületszín. A fehér, a kék, a sárga, a vörös, a zöld, a világoszöld, a szürke és a világoskék alapfelület színekre az MSZ 20186/2 fényvisszaverő bevonatokra vonatkozó, a karakterek fekete, fehér, vörös vagy zöld színére pedig a szabvány közönséges felületszínekre vonatkozó előírásai érvényesek.
 
 ## 3. A rendszámtábla felületi színének fénysűrűségi tényezője legalább:
 
-## - a fehér 0,35
+## 3.1. a fehér 0,35
 
-## - a kék 0,01
+## 3.2. a kék 0,01
 
-## - a sárga 0,27
+## 3.3. a sárga 0,27
 
-## - a világoszöld 0,29
+## 3.4. a vörös 0,05
 
-## - a szürke 0,07
+## 3.5. a zöld 0,04
 
-## - a világoskék 0,09
+## 3.6. a világoszöld 0,29
 
-## - a fekete pedig legfeljebb 0,03.
+## 3.7. a szürke 0,07
+
+## 3.8. a világoskék 0,09
+
+## 3.9. a feketéé pedig legfeljebb 0,03.
 
 ## A rendszámtábla felülete nem lehet tükröző.
 
 ## Színtartományok a rendszámtábla nappali színeire vonatkozóan:
 
-|  | A | B | C | D | E | F | G |
+| Rendszámtábla színei | Színkoordináták jele | Színtartomány sarokpontjai és azok színkoordinátái | Fénysűrűségi tényező |
 
-| 1. | Rendszámtábla színei | Színkoordináták jele | Színtartomány sarokpontjai és azok színkoordinátái | Fénysűrűségi tényező |
+| 1. | 2. | 3. | 4. |
 
-| 2. |  |  | 1 | 2 | 3 | 4 |  |
+| Fehér | X | 0,355 | 0,305 | 0,285 | 0,335 | >0,35 |
 
-| 3. | Fehér | X | 0,355 | 0,305 | 0,285 | 0,335 | >0,35 |
+| Y | 0,355 | 0,305 | 0,325 | 0,375 |
 
-| 4. | Y | 0,355 | 0,305 | 0,325 | 0,375 |  |
+| Kék | X | 0,137 | 0,210 | 0,172 | 0,094 | >0,01 |
 
-| 5. | Kék | X | 0,137 | 0,210 | 0,172 | 0,094 | >0,01 |
+| Y | 0,038 | 0,160 | 0,198 | 0,125 |
 
-| 6. | Y | 0,038 | 0,160 | 0,198 | 0,125 |  |
+| Sárga | X | 0,429 | 0,467 | 0,516 | 0,490 | >0,27 |
 
-| 7. | Sárga | X | 0,429 | 0,467 | 0,516 | 0,490 | >0,27 |
+| Y | 0,483 | 0,531 | 0,483 | 0,435 |
 
-| 8. | Y | 0,483 | 0,531 | 0,483 | 0,435 |  |
+| Vörös | X | 0,690 | 0,595 | 0,569 | 0,655 | >0,05 |
 
-| 9. | Világoszöld | X | 0,250 | 0,250 | 0,370 | 0,370 | >0,29 |
+| Y | 0,310 | 0,315 | 0,341 | 0,345 |
 
-| 10. | Y | 0,360 | 0,500 | 0,500 | 0,360 |  |
+| Zöld | X | 0,007 | 0,248 | 0,177 | 0,026 | >0,04 |
 
-| 11. | Szürke | X | 0,270 | 0,370 | 0,370 | 0,270 | >0,07 |
+| Y | 0,703 | 0,409 | 0,362 | 0,399 |
 
-| 12. | Y | 0,270 | 0,270 | 0,390 | 0,390 |  |
+| Világoszöld | X | 0,250 | 0,250 | 0,370 | 0,370 | >0,29 |
 
-| 13. | Világoskék | X | 0,150 | 0,195 | 0,175 | 0,100 | >0,09 |
+| Y | 0,360 | 0,500 | 0,500 | 0,360 |
 
-| 14. | Y | 0,110 | 0,185 | 0,220 | 0,205 |  |
+| Szürke | X | 0,270 | 0,370 | 0,370 | 0,270 | >0,07 |
+
+| Y | 0,270 | 0,270 | 0,390 | 0,390 |
+
+| Világoskék | X | 0,150 | 0,195 | 0,175 | 0,100 | >0,09 |
+
+| Y | 0,110 | 0,185 | 0,220 | 0,205 |
 
 ## Színtartományok a rendszámtábla éjszakai fehér alapszínére vonatkozóan:
 
-|  | A | B | C | D | E | F | G |
+| Rendszámtábla színei | Színkoordináták jele | Színtartomány sarokpontjai és azok színkoordinátái | Fénysűrűségi tényező |
 
-| 1. | rendszámtábla színe | Színkoordináták jele | Színtartomány sarokpontjai és azok színkoordinátái | Fénysűrűségi tényező |
+| 1. | 2. | 3. | 4. |
 
-| 2. |  |  | 1 | 2 | 3 | 4 |  |
+| Fehér | X | 0,450 | 0,548 | 0,417 | 0,372 | >0,35 |
 
-| 3. | Fehér | X | 0,450 | 0,548 | 0,417 | 0,372 | >0,35 |
-
-| 4. | Y | 0,513 | 0,404 | 0,359 | 0,405 |
+| Y | 0,513 | 0,404 | 0,359 | 0,405 |
 
 ## 4. A rendszámtáblán alkalmazott, új állapotban lévő fényvisszaverő bevonat különböző színeinek fénysűrűségi együtthatói:
 
-|  | A | B | C | D | E | F |
+| Fényvisszaverő bevonat színei | Megfigyelési szög | Fénysűrűségi együttható cd 1x–1 m–2 |
 
-| 1. | Fényvisszaverő bevonat színei | Megfigyelési szög | Fénysűrűségi együttható cd 1x-1 m-2 | legfeljebb |
+| 5° | 30° | 45° | legfeljebb |
 
-| 2. |  |  | 5° | 30° | 45° |  |
+| megvilágítási szög esetén, legalább |
 
-| 3. |  |  | megvilágítási szög esetén, legalább |  |  |  |
+| Fehér | 0° 12′ | 70 | 30 | 6 | 250 |
 
-| 4. | Fehér | 0° 12’ | 70 | 30 | 6 | 250 |
+| 0° 20′ | 50 | 25 | 3 |
 
-| 5. | 0° 20’ | 50 | 25 | 3 |
+| 1° 30′ | 5 | 2 | 1 |
 
-| 6. | 1° 30’ | 5 | 2 | 1 |
+| Kék | 0° 12′ | 3 | 1,5 | – | 20 |
 
-| 7. | kék | 0° 12’ | 3 | 1,5 | - | 20 |
+| 0° 20′ | – | – | – |
 
-| 8. | 0° 20’ | - | - | - |
+| 1° 30′ | – | – | – |
 
-| 9. | 1° 30’ | - | - | - |
+| Sárga | 0° 12′ | 50 | 20 | 4 | 175 |
 
-| 10. | Sárga | 0° 12’ | 30 | 12 | 5 | 175 |
+| 0° 20′ | 35 | 15 | 2 |
 
-| 11. | 0° 20’ | 20 | 8 | 4 |  |
+| 1° 30′ | 3 | 1 | – |
 
-| 12. | 1° 30’ | 3 | 1,5 | - |  |
+| Vörös | 0° 12′ | 8 | 3 | – | – |
 
-| 13. | Világoszöld | 0° 12’ | 20 | 10 | 3 |  |
+| 0° 20′ | 5 | 2 | – |
 
-| 14. | 0° 20’ | 15 | 8 | 2 |  |
+| 1° 30′ | – | – | – |
 
-| 15. | 1° 30’ | 3 | 2,5 | 1 |  |
+| Zöld | 0° 12′ | 5 | 2,3 | 1 | – |
 
-| 16. | Szürke | 0° 12’ | 20 | 12 | - |  |
+| 0° 20′ | 4,5 | 1,9 | – |
 
-| 17. | 0° 20’ | 15 | 8 | - |  |
+| 1° 30′ | – | – | – |
 
-| 18. | 1° 30’ | 2 | - | - |  |
+| Világoszöld | 0° 12′ | 20 | 10 | 3 | – |
 
-| 19. | Világoskék | 0° 12’ | 15 | 6 | 1 |  |
+| 0° 20′ | 15 | 8 | 2 |
 
-| 20. | 0° 20’ | 13 | 5 | - |  |
+| 1° 30′ | 3 | 2,5 | 1 |
 
-| 21. | 1° 30’ | 1 | - | - |  |
+| Szürke | 0° 12′ | 20 | 12 | – | – |
+
+| 0° 20′ | 15 | 8 | – |
+
+| 1° 30′ | 2 | – | – |
+
+| Világoskék | 0° 12′ | 15 | 6 | 1 | – |
+
+| 0° 20′ | 13 | 5 | – |
+
+| 1° 30′ | 1 | – | – |
 
 ## A rendszámtábla fényvisszaverő felületét esőnek kitéve a fénysűrűségi együttható a táblázatban megadott értékek 90%-nál nem lehet kisebb.
 
-## VI. A fényvisszaverő fólia biztonsági megjelölése
+## VI. A FÉNYVISSZAVERŐ FÓLIA BIZTONSÁGI MEGJELÖLÉSE
 
 ## A rendszámtábla gyártásánál alkalmazott fényvisszaverő fólia optikai biztonsági jelöléssel rendelkezik. A jelölés egyértelmű és könnyen beazonosítható információval szolgál a rendszámtábla származásáról.
 
@@ -214,9 +216,9 @@
 
 ## A jelölés nem befolyásolhatja a rendszámtábla megjelenését, szín- és fénytechnikai tulajdonságait, valamint annak olvashatóságát sem nappali, sem éjszakai látási viszonyok mellett.
 
-## VII. A rendszámtábla hátlapjának megjelölése
+## VII. A RENDSZÁMTÁBLA HÁTLAPJÁNAK MEGJELÖLÉSE
 
-## A gyártó köteles az ellenőrzött minőséget minden rendszámtábla hátlapjába olyan beütött (stancolt) jelzéssel tanúsítani, amely tartalmazza:
+## A gyártó köteles az ellenőrzött minőséget minden rendszámtábla hátlapjába olyan beütött jelzéssel tanúsítani, amely tartalmazza:
 
 ## a) a rendszámtábla forgalmazójának a nevét,
 
@@ -236,8 +238,10 @@
 
 3. A Magyarország hivatalos címere
 
-4. A jármű rendszámát tartalmazó vonalkód
+4.[^566] A jármű rendszámát tartalmazó vonalkód, 2D kód
 
 5. A jármű rendszáma
 
 6. A regisztrációs matrica egyedi sorszáma
+
+[^566]: A 12. melléklet 4. pontja a 303/2021. (VI. 1.) Korm. rendelet 28. § l) pontja szerint módosított szöveg.

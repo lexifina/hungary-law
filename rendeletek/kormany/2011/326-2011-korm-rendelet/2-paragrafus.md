@@ -38,7 +38,13 @@ b) vezetői engedély cseréjének kell tekinteni az eljárást abban az esetben
 
 13.[^24] forgalmi engedély, törzskönyv pótlása: az elveszett, eltulajdonított vagy megsemmisült okmány helyett új okmány kiállítása – az okmányazonosító és cím adat, valamint a kiállítás dátumának kivételével – a korábbi okmánnyal megegyező adattartalommal;
 
-14.[^25] rendszámtábla cseréje: a rendszámtáblának az eredeti karakterekkel azonos, eltérő színben történő legyártását követő kiadása;
+14.[^25] rendszámtábla cseréje: a rendszámtáblának az eredeti karakterekkel azonos,
+
+a) eltérő színben és formátumban vagy
+
+b) eltérő színben vagy formátumban
+
+## történő legyártását követő kiadása;
 
 15.[^26] vezetői engedély kiadása első alkalommal: vezetői engedély kiállítása olyan személy részére, akinek korábban még nem került kiállításra vezetői engedély sem magyar hatóság, sem külföldi hatóság által;
 
@@ -73,7 +79,7 @@ c) a forgalomból kérelemre vagy hivatalból ideiglenesen, átmenetileg vagy v�
 [^22]: A 2. § (1) bekezdés 10. pontja a 467/2015. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^23]: A 2. § (1) bekezdés 12. pontja a 467/2015. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 468/2016. (XII. 23.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
 [^24]: A 2. § (1) bekezdés 13. pontját a 467/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 45. § 2. pontja szerint módosított szöveg.
-[^25]: A 2. § (1) bekezdés 14. pontját a 467/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^25]: A 2. § (1) bekezdés 14. pontját a 467/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 303/2021. (VI. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^26]: A 2. § (1) bekezdés 15. pontját a 468/2016. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^27]: A 2. § (1) bekezdés 16. pontját a 468/2016. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^28]: A 2. § (1) bekezdés 17. pontját az 572/2020. (XII. 9.) Korm. rendelet 28. § (1) bekezdése iktatta be.

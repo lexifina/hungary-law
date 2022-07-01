@@ -1,23 +1,41 @@
 ## 12. A rendszámtábla és a regisztrációs matrica
 
-53. § (1)[^245] A rendszámtábla olyan hatósági jelzés, amely a Nyilvántartó tulajdonát képezi. A rendszámtábla gyártótól történő megrendelése és a közlekedési igazgatási hatóság azzal történő ellátása a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.), igazgatási szolgáltatási díj ellenében az ügyfélnek történő kiadása a közlekedési igazgatási hatóság feladatkörébe tartozik.
+53. § (1)[^248] A rendszámtábla olyan hatósági jelzés, amely a Nyilvántartó tulajdonát képezi. A rendszámtábla gyártótól történő megrendelése és a közlekedési igazgatási hatóság azzal történő ellátása a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.), igazgatási szolgáltatási díj ellenében az ügyfélnek történő kiadása a közlekedési igazgatási hatóság feladatkörébe tartozik.
 
-(2) A rendszámtábla állandó és ideiglenes lehet. Az állandó rendszámtábla a betűjelből és számjegyből álló kombinációkon kívül a nemzeti színeket és H jelzést (a továbbiakban: régi típusú rendszámtábla), vagy a 11. melléklet szerint az európai zászlót jelképező kék mezőben 12 sárga csillagot és fehér H jelzést (a továbbiakban: új típusú rendszámtábla), az ideiglenes rendszámtábla a betűjelből és számjegyből álló kombinációkon kívül a nemzeti színeket és H jelzést tartalmazza.
+(2)[^249] A rendszámtábla állandó vagy ideiglenes fajtájú, amelynek formátuma:
 
-(3) Az állandó rendszámtábla
+a) az 1990. augusztus 6-át követően kiadott rendszámtábla a betűjelből és számjegyből álló kombinációk mellett a nemzeti színeket és a H jelzést tartalmazza,
 
-a) sorozatban előállított (általános),
+b) a 2004. május 1-jét követően kiadott
+
+ba) állandó rendszámtábla a 11. melléklet szerint az európai zászlót jelképező kék mezőben 12 ötágú sárga csillagot és fehér H jelzést tartalmazza,
+
+bb) ideiglenes rendszámtábla a betűjelből és számjegyből álló kombinációk mellett a magyar nemzeti színeket és a H jelzést tartalmazza, vagy
+
+c) a 2022. július 1-jétől bevezetett
+
+ca) állandó rendszámtábla a 11/A. melléklet szerint az európai zászlót jelképező kék mezőben 12 ötágú sárga csillagot, fehér H jelzést és Magyarország címerét (a továbbiakban: címer) tartalmazza,
+
+cb) ideiglenes rendszámtábla a betűjelből és számjegyből álló kombinációkon kívül az európai zászlót jelképező kék mezőben 12 ötágú sárga csillagot, fehér H jelzést, valamint a címert tartalmazza.
+
+(3)[^250] Az állandó rendszámtábla jellege szerint:
+
+a) sorozatban előállított általános,
 
 b) sorozatban előállított egyénileg kiválasztott,
 
-c) egyedileg előállított, vagy
+c) egyedileg előállított vagy
 
-d) különleges
-
-## lehet.
+d) különleges.
 
 (4) A járműre sorozatban előállított rendszámtáblát kell kiadni, ha a jármű eltérő üzemeltetése vagy e rendeletben meghatározott egyéb körülmény más rendszámtábla kiadását nem teszi szükségessé.
 
-(5) A sorozatban előállított rendszámtábla három betűjelet és három számjegyet tartalmaz.
+(5)[^251] A (2) bekezdés a) pontjában és b) pont ba) alpontjában meghatározott sorozatban előállított állandó rendszámtábla három betűjelet és három számjegyet tartalmaz. A (2) bekezdés b) pont bb) alpontjában meghatározott ideiglenes rendszámtábla leírását a 14. melléklet tartalmazza.
 
-[^245]: Az 53. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés c) pontja, a 289/2018. (XII. 21.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+(6)[^252] A (2) bekezdés c) pont ca) alpontjában meghatározott formátumú (3) bekezdés a) és b) pontja szerinti jellegű állandó rendszámtábla a latin abc szerinti két magánhangzóból vagy két mássalhangzóból – kivéve a cs, gy, ly, ny, sz, ty, zs betűkombinációkat –, az ezt követő címer után két betűjelből, kötőjelből és három számjegyből áll. A rendszámtábla betűjelei helyén ékezetes magánhangzók nem állhatnak, a számjegyek helyén 001-től 999-ig terjedő érték szerepelhet. A (2) bekezdés c) pont cb) alpontjában meghatározott ideiglenes rendszámtábla leírását a 14/A. melléklet tartalmazza.
+
+[^248]: Az 53. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés c) pontja, a 289/2018. (XII. 21.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^249]: Az 53. § (2) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^250]: Az 53. § (3) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^251]: Az 53. § (5) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^252]: Az 53. § (6) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 5. § (2) bekezdése iktatta be.

@@ -1,8 +1,8 @@
-## 120/G. §[^490] E rendeletnek az egyes kormányrendeleteknek a közúti infrastruktúra fejlesztésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 67/2022. (II. 28.) Korm. rendelettel (a továbbiakban: Módr.3.) módosított 118/A. §-át a Módr.3. hatálybalépését[^491] követően indult és megismételt eljárásokban kell alkalmazni.
+## 120/G. §[^544] E rendeletnek az egyes kormányrendeleteknek a közúti infrastruktúra fejlesztésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 67/2022. (II. 28.) Korm. rendelettel (a továbbiakban: Módr.3.) módosított 118/A. §-át a Módr.3. hatálybalépését[^545] követően indult és megismételt eljárásokban kell alkalmazni.
 
 ## 29. Az Európai Unió jogának való megfelelés
 
-## 121. §[^492] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+## 121. §[^546] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelv,
 
@@ -14,15 +14,15 @@ d) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 e) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. november 19-i 2012/36/EU bizottsági irányelv,
 
-f)[^493] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
+f)[^547] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
 
-g)[^494] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
+g)[^548] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
 
-h)[^495] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2020. május 4-i (EU) 2020/612 bizottsági irányelv 1. cikke.
+h)[^549] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2020. május 4-i (EU) 2020/612 bizottsági irányelv 1. cikke.
 
-[^490]: A 120/G. §-t a 67/2022. (II. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^491]: A hatálybalépés időpontja 2022. március 5.
-[^492]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^493]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
-[^494]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
-[^495]: A 121. § h) pontját a 722/2020. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
+[^544]: A 120/G. §-t a 67/2022. (II. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^545]: A hatálybalépés időpontja 2022. március 5.
+[^546]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^547]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^548]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^549]: A 121. § h) pontját a 722/2020. (XII. 31.) Korm. rendelet 29. §-a iktatta be.

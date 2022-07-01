@@ -79,3 +79,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2022-01-25 | 2011-326-20-22.71 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2022-02-01 | 2011-326-20-22.72 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2022-03-05 | 2011-326-20-22.73 | 67/2022. (II. 28.) Korm. rendelet |
+| 2022-07-01 | 2011-326-20-22.74 | 303/2021. (VI. 1.) Korm. rendelet |

@@ -1,12 +1,10 @@
-## 75/A. §[^313] A közlekedési igazgatási hatóság és a Nyilvántartó az állandó rendszámtábla elvesztése, eltulajdonítása, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő elhelyezéséről vagy törléséről a 75. § (8)–(11) bekezdéseiben meghatározott esetekben. Ezen rendelkezések a négykerekű segédmotoros kerékpárokra nem vonatkoznak.
+## 17. [^345] A jármű műszaki alkalmasságának igazolása
 
-## 17. [^314] A jármű műszaki alkalmasságának igazolása
+76. §[^346] (1) A jármű műszaki alkalmasságának érvényességi idejét
 
-76. §[^315] (1) A jármű műszaki alkalmasságának érvényességi idejét
+a)[^347] a forgalmi engedély „Műszaki érvényessége” rovatba bejegyzett időpont és az időszakos vagy – az új jármű forgalomba helyezése kivételével – forgalomba helyezés előtti vizsgálat azonosítója,
 
-a)[^316] a forgalmi engedély „Műszaki érvényessége” rovatba bejegyzett időpont és az időszakos vagy – az új jármű forgalomba helyezése kivételével – forgalomba helyezés előtti vizsgálat azonosítója,
-
-b)[^317] forgalomba nem helyezett jármű esetében – a jármű forgalomba helyezéséig – a közlekedési hatóság által kiadott „Műszaki vizsgálati bizonyítvány”, új jármű esetében az érvényes megfelelőségi nyilatkozat, vagy
+b)[^348] forgalomba nem helyezett jármű esetében – a jármű forgalomba helyezéséig – a közlekedési hatóság által kiadott „Műszaki vizsgálati bizonyítvány”, új jármű esetében az érvényes megfelelőségi nyilatkozat, vagy
 
 c) a forgalmi engedéllyel rendelkező jármű esetében – szabad érvényesítési hely hiányában – időszakos vizsgálat alapján a közlekedési hatóság által kiadott Műszaki vizsgálati bizonyítvány – a Műszaki vizsgálati bizonyítványban „Következő időszakos vizsgálat időpontja”-ként meghatározva –
 
@@ -22,8 +20,7 @@ b) egyéb esetekben a közlekedési igazgatási hatóság a Műszaki vizsgálati
 
 (3) A (2) bekezdés a) és b) pontja szerinti bejegyzést le kell bélyegezni.
 
-[^313]: A 75/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (4) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja, a 289/2018. (XII. 21.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^314]: A 17. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 154. § (9) bekezdésével megállapított szöveg.
-[^315]: A 76. § a 440/2016. (XII. 16.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^316]: A 76. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 367. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^317]: A 76. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 367. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^345]: A 17. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 154. § (9) bekezdésével megállapított szöveg.
+[^346]: A 76. § a 440/2016. (XII. 16.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^347]: A 76. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 367. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^348]: A 76. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 367. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
