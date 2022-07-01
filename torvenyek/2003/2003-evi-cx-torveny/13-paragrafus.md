@@ -30,7 +30,7 @@ b) egyéb, az a) pont alá nem tartozó esetekben pedig
 
 ba) saját fuvareszközzel történő kiszállításnál belső elszámolással,
 
-bb) fuvareszköz igénybevétele nélküli kivitelnél a Z betűjelű rendszám visszajuttatásával,
+bb) fuvareszköz igénybevétele nélküli kivitelnél a 12. § b) pontban meghatározott betűjelű rendszám visszajuttatásával,
 
 bc) harmadik személy közreműködésével történő kiszállításnál nemzetközi fuvarlevéllel,
 
