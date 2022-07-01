@@ -1,4 +1,4 @@
-6. §[^6] (1)[^7] A Településsoros Jegyzék összeállításához és felülvizsgálatához a 2. melléklet szerinti adatszolgáltatást elektronikusan kell teljesíteni a fővárosi és a települési önkormányzatoknak a tárgyév december 31-én fennálló állapotra vonatkozóan, a tárgyévet követő év április 30. napjáig. A teljesítésért a települési önkormányzat jegyzője felelős.
+6. §[^8] (1)[^9] A Településsoros Jegyzék összeállításához és felülvizsgálatához a 2. melléklet szerinti adatszolgáltatást elektronikusan kell teljesíteni a fővárosi és a települési önkormányzatoknak a tárgyév december 31-én fennálló állapotra vonatkozóan, a tárgyévet követő év április 30. napjáig. A teljesítésért a települési önkormányzat jegyzője felelős.
 
 (2) Több települést kiszolgáló térségi rendszer esetén a 2. mellékletben szereplő szennyvíztisztító telepre vonatkozó fejlesztési adatokat az agglomerációs központ települési önkormányzatának jegyzője (a továbbiakban: agglomerációs központ jegyzője) szolgáltatja.
 
@@ -6,5 +6,5 @@
 
 (4) A működési területével érintett vízügyi igazgatóság a megkapott adatokat összegzi, és a tárgyévet követő év szeptember 1-ig továbbítja az OVF részére.
 
-[^6]: A 6. § a 195/2017. (VII. 10.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^7]: A 6. § (1) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^8]: A 6. § a 195/2017. (VII. 10.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^9]: A 6. § (1) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.

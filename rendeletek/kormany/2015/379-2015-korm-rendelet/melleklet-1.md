@@ -1,6 +1,6 @@
-## 12. §[^12]
+## 12. §[^15]
 
-1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^13]
+1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^16]
 
 ## A települési szennyvízelvezetési agglomeráció lehatárolásának szempontjai és módszertana
 
@@ -162,5 +162,5 @@ de) az üzemi tapasztalatokról, a környezetre gyakorolt hatások elemzésérő
 
 5.8. Az előnyök és hátrányok értékelésénél az 5.3–5.7. pontokban leírt feltételek teljesülése a meghatározó.
 
-[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: Az 1. melléklet a 195/2017. (VII. 10.) Korm. rendelet 14. § (1) bekezdése, a 288/2018. (XII. 21.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^15]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: Az 1. melléklet a 195/2017. (VII. 10.) Korm. rendelet 14. § (1) bekezdése, a 288/2018. (XII. 21.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
