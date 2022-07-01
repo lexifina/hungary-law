@@ -1,4 +1,4 @@
-## 7. §[^25] A pótlék fedezetét és a végrehajtás költségeit a központi költségvetés a Nyugdíjbiztosítási Alapnak megtéríti. A végrehajtással kapcsolatos költségeknek a nyugdíjfolyósító szerv részére történő megtérítéséről az államháztartásért felelős miniszter, a szociál- és nyugdíjpolitikáért felelős miniszter és a központi nyugdíjbiztosítási szerv megállapodást köt.
+## 7. §[^25] A központi költségvetés megtéríti a Magyar Államkincstárnak a pótlék fedezetét és a végrehajtás költségeit.
 
 8. § (1)[^26] A pótlékot a jogosult csak egy jogcímen veheti igénybe. Az e rendelet alapján megállapított pótlék összege nem csökkenthető.
 
@@ -14,7 +14,7 @@
 
 (7)[^31] E rendelet alkalmazásában öregségi nyugdíjkorhatár alatt a Tny. 18. § (1) bekezdésében meghatározott életkort kell érteni.
 
-[^25]: A 7. § a 182/2009. (IX. 10.) Korm. rendelet 77. §-a, a 379/2016. (XII. 2.) Korm. rendelet 17. § (1) bekezdés b) és d) pontja szerint módosított szöveg.
+[^25]: A 7. § a 238/2022. (VI. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^26]: A 8. § (1) bekezdésének második mondata a 182/1996. (XII. 6.) Korm. rendelet 7. § (6) bekezdése szerint módosított szöveg.
 [^27]: A 8. § (2) beekzdése a 379/2016. (XII. 2.) Korm. rendelet 17. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^28]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 77. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
