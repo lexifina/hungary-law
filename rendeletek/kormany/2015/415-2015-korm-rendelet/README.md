@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-415-20-
 | 2021-01-01 | 2015-415-20-22.12 | 612/2020. (XII. 18.) Korm. rendelet |
 | 2021-05-14 | 2015-415-20-22.13 | 205/2021. (IV. 29.) Korm. rendelet |
 | 2022-06-01 | 2015-415-20-22.14 | 195/2022. (V. 27.) Korm. rendelet |
+| 2022-07-01 | 2015-415-20-22.15 | 379/2016. (XII. 2.) Korm. rendelet |
