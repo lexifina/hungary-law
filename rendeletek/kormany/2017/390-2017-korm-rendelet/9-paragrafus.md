@@ -18,6 +18,8 @@ b) a gyermekvédelmi és szociálpolitikai szakértői tevékenységgel kapcsola
 
 c) a gyermekvédelmi és szociálpolitikai szakértői tevékenységet érintő fejlesztési irányok ismertetése.
 
-(5) A felkészítő képzés és a továbbképzés képzőhelyeit a miniszter jelöli ki.
+(5)[^2] A felkészítő képzés és a továbbképzés képzőhelyeit a szociálpolitikáért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben jelöli ki.
 
 (6) A képzőhely igazolást állít ki a felkészítő képzésen és továbbképzésen való részvételről, amelynek másolati példányát megküldi a Hivatal részére.
+
+[^2]: A 9. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 177. § a) pontja szerint módosított szöveg.
