@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-607-20-
 | --- | --- | --- |
 | 2021-11-06 | 2021-607-20-22.1 | 607/2021. (XI. 5.) Korm. rendelet |
 | 2021-11-07 | 2021-607-20-22.2 | 2010: CXXX. törvény |
+| 2022-07-01 | 2021-607-20-22.3 | 239/2022. (VI. 30.) Korm. rendelet |
