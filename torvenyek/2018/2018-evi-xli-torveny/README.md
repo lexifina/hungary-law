@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-41-00-00
 | 2020-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-41-00-00.22 |
 | 2020-01-02 | 2010. évi CXXX. törvény | 2018-41-00-00.23 |
 | 2022-06-01 | 2021. évi CXXX. törvény | 2018-41-00-00.24 |
+| 2022-07-01 | 2021. évi CXXX. törvény | 2018-41-00-00.25 |
