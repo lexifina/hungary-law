@@ -32,4 +32,4 @@ b) a fővárosi egyedi védelemmel érintett helyi építészeti örökségre a 
 
 (6) A kerületi településképi rendeletben a területre és építményre megállapított településképi követelmény lehet szigorúbb, de nem lehet ellentétes a fővárosi településképi rendeletben megállapított településképi követelményekkel.
 
-[^1]: A 29. § a 797/2021. (XII. 27.) Korm. rendelet 2. §-a alapján nem lép hatályba.
+[^1]: A 29. § a 797/2021. (XII. 27. ) Korm. rendelet 2. §-a alapján nem lép hatályba.
