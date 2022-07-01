@@ -36,7 +36,7 @@ c) véleményezi a jelentés készítője részére a szellemi kulturális örö
 
 4. a kulturális örökség védelméért felelős miniszter által delegált egy fő,
 
-5. az oktatásért felelős miniszter által delegált egy fő,
+5.[^4] a köznevelésért és a felsőoktatásért felelős miniszter által közösen delegált egy fő,
 
 6. a külpolitikáért felelős miniszter által delegált egy fő,
 
@@ -48,7 +48,7 @@ c) véleményezi a jelentés készítője részére a szellemi kulturális örö
 
 10. az MMA elnöke által delegált két fő,
 
-11. az Országgyűlés kultúráért felelős bizottságának elnöke,
+11.[^5] az Országgyűlés kultúráért felelős bizottságának elnöke által delegált egy fő,
 
 12. a Hagyományok Háza képviseletében egy fő,
 
@@ -77,3 +77,6 @@ c) az egyházakkal való kapcsolattartás koordinációjáért felelős miniszte
 d) a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter.
 
 (6) Az SZKÖ MNB titkársági feladatainak ellátását a miniszter biztosítja.
+
+[^4]: A 9. § (4) bekezdés 5. pontja a 238/2022. (VI. 30.) Korm. rendelet 211. § c) pontja szerint módosított szöveg.
+[^5]: A 9. § (4) bekezdése 11. pontja a 238/2022. (VI. 30.) Korm. rendelet 210. §-ával megállapított szöveg.
