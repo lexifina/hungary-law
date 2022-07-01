@@ -2,7 +2,7 @@
 
 2. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-(2)[^1] E rendelet végrehajtásáról az oktatásért felelős miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásáról a felsőoktatásért felelős miniszter gondoskodik.
 
 Melléklet a 317/2004. (XI. 25.) Korm. rendelethez
 
@@ -108,4 +108,4 @@ In connection with the Exchange of Notes dated 19 oktober, 2004 concerning the J
 
 2. The representative of the Hungarian Delegation stated that his Delegation has no objection to the statement by the representative of the Japanese Delegation referred to above.
 
-[^1]: A 2. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 291. §-a szerint módosított szöveg.
+[^1]: A 2. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 291. §-a, a 238/2022. (VI. 30.) Korm. rendelet 35. §-a szerint módosított szöveg.

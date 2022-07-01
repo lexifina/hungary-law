@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-317-20-
 | --- | --- | --- |
 | 2004-11-30 | 2004-317-20-22.1 | 317/2004. (XI. 25.) Korm. rendelet |
 | 2014-09-05 | 2004-317-20-22.2 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2022-07-01 | 2004-317-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
