@@ -1,3 +1,5 @@
+## beruházások határidőben történő megvalósításáról, nyomon követéséről, ellenőrzéséről, valamint kialakítja a feladat ellátásához szükséges szervezeti és személyi feltételrendszert.
+
 2/A. §[^3] (1) Az érintett helyi önkormányzat a beruházás megvalósítása során haladéktalanul köteles a minisztert tájékoztatni az ok megjelölésével, amennyiben
 
 a) a beruházás megvalósításához szükséges közbeszerzési eljárás lefolytatása akadályba ütközik, vagy a beruházás megvalósításának ütemezéséhez képest késik,

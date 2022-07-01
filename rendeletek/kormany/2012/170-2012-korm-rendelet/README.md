@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-170-20-
 | 2013-01-01 | 2012-170-20-22.2 | 362/2012. (XII. 17.) Korm. rendelet |
 | 2013-02-13 | 2012-170-20-22.3 | 30/2013. (II. 12.) Korm. rendelet |
 | 2015-11-25 | 2012-170-20-22.4 | 350/2015. (XI. 24.) Korm. rendelet |
+| 2022-07-01 | 2012-170-20-22.5 | 238/2022. (VI. 30.) Korm. rendelet |
