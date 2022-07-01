@@ -13,3 +13,5 @@ a) a HM vagyonkezelésében lévő hulladék, veszélyes hulladék körébe tart
 b) a HM vagyonkezelésében lévő eszközök selejtezéséről és a selejtezési jogkörök gyakorlásáról szóló HM utasítás alapján selejtnek minősülő ingó vagyonelemek értékesítésében, és
 
 c) az inkurrens eszközök cseréjében
+
+való közreműködésre.

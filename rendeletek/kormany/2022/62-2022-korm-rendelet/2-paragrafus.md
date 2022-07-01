@@ -1,5 +1,3 @@
-## való közreműködésre.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában
