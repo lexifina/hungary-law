@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-341-20-
 | 2021-01-01 | 2011-341-20-22.24 | 686/2020. (XII. 29.) Korm. rendelet |
 | 2021-04-21 | 2011-341-20-22.25 | 379/2012. (XII. 19.) Korm. rendelet |
 | 2022-01-11 | 2011-341-20-22.26 | 788/2021. (XII. 27.) Korm. rendelet |
+| 2022-07-01 | 2011-341-20-22.27 | 221/2014. (IX. 4.) Korm. rendelet |

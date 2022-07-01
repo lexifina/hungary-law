@@ -2,7 +2,7 @@
 
 12. § (1)[^106]
 
-(2)[^107] A hitelintézet átadja az igénylőnek a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) elektronikus úton megküldött tájékoztatóját a hatályos lakástámogatások feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
+(2)[^107] A hitelintézet átadja az igénylőnek a lakáscélú állami támogatásokért felelős miniszter (a továbbiakban: miniszter) elektronikus úton megküldött tájékoztatóját a hatályos lakástámogatások feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
 
 (3)[^108] Az otthonteremtési kamattámogatásra való jogosultság megállapítását és mértékének meghatározását
 
@@ -27,7 +27,7 @@ kell kérni a hitelintézettől.
 (8)[^113] A kamattámogatott kölcsön hitelcéljaként szolgáló lakást – amennyiben a kölcsön fedezete másik lakás, akkor a kamattámogatott kölcsön fedezeteként szolgáló lakást – a kamattámogatott kölcsön összegének erejéig, a 3. § (3) bekezdés szerinti időtartamra, az otthonteremtési kamattámogatással érintett kölcsönszerződés alapján a hitelintézet javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom terheli.
 
 [^106]: A 12. § (1) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés d) pontja hatályon kívül helyezte.
-[^107]: A 12. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 619. §-a, a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^107]: A 12. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 619. §-a, a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés e) pontja, a 238/2022. (VI. 30.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
 [^108]: A 12. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 38. §-ával megállapított szöveg.
 [^109]: A 12. § (3) bekezdés a) pontja a 379/2012. (XII. 19.) Korm. rendelet 43. § j) pontja szerint módosított szöveg.
 [^110]: A 12. § (3) bekezdés b) pontja a 128/2013. (IV. 30.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.
