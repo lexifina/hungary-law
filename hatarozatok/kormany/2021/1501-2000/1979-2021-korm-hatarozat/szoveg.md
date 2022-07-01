@@ -22,41 +22,11 @@ Felelős: pénzügyminiszter
 
 Határidő: Magyarország 2023–2033. évi központi költségvetésének tervezése során
 
-1.5. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva, a 2022. évben a XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság-újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 2. Gazdaságfejlesztési programok jogcím terhére vállalható kötelezettség mértékét a 2023–2037. közötti évekre az alábbiak szerint állapítja meg:
+1.5.[^1]
 
-a) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 83 600 000 000 forint,
+1.6.[^2]
 
-b) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 67 000 000 000 forint,
-
-c) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 40 500 000 000 forint,
-
-d) a 2026. évre vonatkozó kötelezettségvállalás felső korlátja 30 300 000 000 forint,
-
-e) a 2027–2037. évekre vonatkozó kötelezettségvállalások felső korlátja évente 23 300 000 000 forint;
-
-1.6. az 1.5. alpontban megállapított mértéken belül a gazdaságfejlesztést szolgáló feladatok finanszírozásához vállalható kötelezettség mértékét az alábbiak szerint határozza meg:
-
-a) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 73 400 000 000 forint,
-
-b) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 58 800 000 000 forint,
-
-c) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 36 000 000 000 forint,
-
-d) a 2026. évre vonatkozó kötelezettségvállalás felső korlátja 27 300 000 000 forint,
-
-e) a 2027–2033. évekre vonatkozó kötelezettségvállalások felső korlátja évente 20 800 000 000 forint;
-
-1.7. az 1.5. alpontban megállapított mértéken belül az intézményi kezességi díjtámogatások finanszírozásához vállalható kötelezettségek mértékét az alábbiak szerint határozza meg:
-
-a) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 10 200 000 000 forint,
-
-b) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 8 200 000 000 forint,
-
-c) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 4 500 000 000 forint,
-
-d) a 2026. évre vonatkozó kötelezettségvállalás felső korlátja 3 000 000 000 forint,
-
-e) a 2027–2037. évekre vonatkozó kötelezettségvállalások felső korlátja évente 2 500 000 000 forint;
+1.7.[^3]
 
 1.8. felhívja az innovációért és technológiáért felelős minisztert, hogy amennyiben a 2022. évi és az 1.3. alpontban meghatározott adott évi célelőirányzat forrásainak lekötöttsége eléri a 75%-ot, vizsgálja meg a Széchenyi Kártya Program konstrukciói támogatására meghatározott kötelezettségvállalási felhatalmazás mértékére figyelemmel szükséges intézkedéseket, és a vizsgálat eredményének megfelelően, a pénzügyminiszter bevonásával tegyen javaslatot a Kormány számára;
 
@@ -84,18 +54,21 @@ Határidő: 2022. május 31.
 
 3. A 7. és 8. pont 2022. január 1-jén lép hatályba.
 
-4.[^1]
+4.[^4]
 
-5.[^2]
+5.[^5]
 
-6.[^3]
+6.[^6]
 
-7.[^4]
+7.[^7]
 
-8.[^5]
+8.[^8]
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.5. alpontját az 1298/2022. (VI. 20.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^2]: Az 1. pont 1.6. alpontját az 1298/2022. (VI. 20.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^3]: Az 1. pont 1.7. alpontját az 1298/2022. (VI. 20.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
