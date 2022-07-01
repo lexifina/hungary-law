@@ -2,7 +2,7 @@
 
 (2)[^26] Ha a kormányhivatal, illetve a kincstár az ellenőrzés során megállapítja, hogy a támogatás igénybevétele jogosulatlanul történt, határozatban intézkedik a támogatás – igénybevétel napjától számított, a Ptk. szerinti késedelmi kamattal növelt összegének – visszatérítése iránt.
 
-(2a)[^27] A kormányhivatalnak a lakáscélú állami támogatásokkal kapcsolatban e rendelet alapján a hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti eljárást folytató felügyeleti szerv a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter).
+(2a)[^27] A kormányhivatalnak a lakáscélú állami támogatásokkal kapcsolatban e rendelet alapján a hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti eljárást folytató felügyeleti szerv a lakáscélú állami támogatásokért felelős miniszter (a továbbiakban: miniszter).
 
 (2b)[^28] A kormányhivatal e rendeletben szabályozott hatósági eljárása során az ügyfelet hiánypótlásra két alkalommal is felhívhatja.
 
@@ -18,7 +18,7 @@
 
 [^25]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^26]: A 13. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 29. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 198. § (3) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^27]: A 13. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés d)–e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^27]: A 13. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés d) pontja, a 238/2022. (VI. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
 [^28]: A 13. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^29]: A 13. § (2c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^30]: A 13. § (2d) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 388. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
