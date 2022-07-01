@@ -8,7 +8,7 @@
 
 (3) A támogatás megállapítására irányuló közigazgatási hatósági ügyekben a NYUFIG országos illetékességgel jár el.
 
-(4) A Magyar Államkincstár (a továbbiakban: Kincstár) a gyermek- és ifjúságpolitikáért felelős miniszter által – az elektronikus űrlap tekintetében közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – rendszeresített elektronikus űrlapot és formanyomtatványt a honlapján közzéteszi.
+(4)[^2] A Magyar Államkincstár (a továbbiakban: Kincstár) a gyermek- és ifjúságpolitikáért felelős miniszter által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – rendszeresített elektronikus űrlapot és formanyomtatványt a honlapján közzéteszi.
 
 (5) Az elektronikus űrlap és a formanyomtatvány tartalmazza a kérelmező
 
@@ -27,3 +27,5 @@ f) törvényes képviselőjének a), b) és d) pontokban meghatározott adatait,
 (6) A kérelmezőnek hitelt érdemlően igazolnia kell a támogatással érintett díjak megfizetését és a megfizetett díj összegét.
 
 (7) A támogatás megállapítására irányuló eljárás költségmentes.
+
+[^2]: A 4. § (4) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 36. §-a szerint módosított szöveg.

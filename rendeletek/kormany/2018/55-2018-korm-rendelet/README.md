@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-55-20-2
 | 2019-01-01 | 2018-55-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-01-02 | 2018-55-20-22.3 | 2010: CXXX. törvény |
 | 2020-07-01 | 2018-55-20-22.4 | 146/2020. (IV. 22.) Korm. rendelet |
+| 2022-07-01 | 2018-55-20-22.5 | 239/2022. (VI. 30.) Korm. rendelet |
