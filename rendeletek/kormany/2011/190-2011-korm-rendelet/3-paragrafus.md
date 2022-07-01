@@ -32,7 +32,7 @@ d)[^20] Terrorelhárítási Központ, és
 
 e)[^21] Nemzeti Biztonsági Felügyelet.
 
-f)[^22] Terrorelhárítási Információs és Bűnügyi Elemző Központ.
+f)[^22] Nemzeti Információs Központ.
 
 (3) Az OAH a (2) bekezdés szerinti határozatot megküldi a kötelezett és az egyeztetésben részt vevő szervek részére.
 
@@ -45,5 +45,5 @@ f)[^22] Terrorelhárítási Információs és Bűnügyi Elemző Központ.
 [^19]: A 3. § (2) bekezdés c) pontja a 357/2014. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^20]: A 3. § (2) bekezdés d) pontja a 357/2014. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^21]: A 3. § (2) bekezdés e) pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (5) bekezdése iktatta be.
-[^22]: A 3. § (2) bekezdés f) pontját a 423/2021. (VII. 15.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^22]: A 3. § (2) bekezdés f) pontját a 423/2021. (VII. 15.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 239/2022. (VI. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^23]: A 3. § (5) bekezdését a 139/2014. (IV. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 343. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
