@@ -1,4 +1,4 @@
-8. §[^20] (1) A Hatóság az átruházást vagy a haszonbérbe adást a másodlagos kereskedelem tárgyát képező frekvenciasávra vonatkozó sávhasználati feltételek teljesülése esetén is csak akkor hagyja jóvá, ha a megállapodás biztosítja a szolgáltatás műszaki színvonalának fenntartását, a hatékony spektrumhasználat elveit, biztosított a káros zavarás elkerülése, továbbá támogatja a versenyt, és nem okoz versenytorzulást.
+8. §[^26] (1) A Hatóság az átruházást vagy a haszonbérbe adást a másodlagos kereskedelem tárgyát képező frekvenciasávra vonatkozó sávhasználati feltételek teljesülése esetén is csak akkor hagyja jóvá, ha a megállapodás biztosítja a szolgáltatás műszaki színvonalának fenntartását, a hatékony spektrumhasználat elveit, biztosított a káros zavarás elkerülése, továbbá támogatja a versenyt, és nem okoz versenytorzulást.
 
 (2) A Hatóság – a haszonbérleti megállapodás egyszerűsített jóváhagyásának kivételével – a jóváhagyás során objektíven és előretekintően elemezve vizsgálja, hogy
 
@@ -64,4 +64,4 @@ b) haszonbérleti megállapodás esetén a 7. § (3) bekezdése szerinti adatoka
 
 (10) A megállapodásban foglalt adatokban bekövetkezett változásokat a felek 15 napon belül bejelentik a Hatóságnak.
 
-[^20]: A 8. § a 15/2020. (XII. 15.) NMHH rendelet 4. §-ával megállapított szöveg.
+[^26]: A 8. § a 15/2020. (XII. 15.) NMHH rendelet 4. §-ával megállapított szöveg.
