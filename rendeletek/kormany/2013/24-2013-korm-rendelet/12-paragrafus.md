@@ -1,4 +1,4 @@
-12. §[^9] (1) A nemzeti felsőoktatási kiválóság ösztöndíjak fedezetét a Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: NKFI Alap) költségvetésében kell biztosítani. Az ösztöndíjak 5–60 hónap időtartamra kerülnek odaítélésre. Az ösztöndíjak odaítéléséről a tudománypolitika koordinációjáért felelős miniszter dönt.
+12. §[^11] (1) A nemzeti felsőoktatási kiválóság ösztöndíjak fedezetét a Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: NKFI Alap) költségvetésében kell biztosítani. Az ösztöndíjak 5–60 hónap időtartamra kerülnek odaítélésre. Az ösztöndíjak odaítéléséről a tudománypolitika koordinációjáért felelős miniszter dönt.
 
 (2) Az NKFI Alap terhére az ösztöndíj összege legalább negyven százalékának megfelelő támogatás biztosítható a felsőoktatási intézmény számára. A támogatás az ösztöndíjjal támogatott kutatásának dologi és felhalmozási költségeinek, továbbá a felsőoktatási intézmény kutatással összefüggő általános költségeinek, valamint az ösztöndíj lebonyolítási költségeinek fedezetére fordítható. Az általános költségek és a lebonyolítási költségek összege nem haladhatja meg a támogatás összegének ötven százalékát. A felsőoktatási intézmény mentesül az ösztöndíj összege legalább negyven százalékának megfelelő támogatás NKFI Alap számára történő visszatérítési kötelezettsége alól, ha az ösztöndíjas jogviszony az ösztöndíjasnak felróható okból szűnik meg, illetve a felsőoktatási intézmény az ösztöndíjas záró szakmai beszámolóját nem fogadja el, és az ösztöndíjas számára visszafizetési kötelezettséget állapít meg.
 
@@ -6,4 +6,4 @@
 
 (4) A nemzeti felsőoktatási kiválóság ösztöndíj támogatási időtartamát, az ösztöndíj összegét, a pályázás és a kiválasztás eljárásrendjét, az ösztöndíjprogramban részt vevő felsőoktatási intézmények körét az ösztöndíjprogram működési szabályzata tartalmazza. Az ösztöndíjprogram működési szabályzatát az NKFI Alap kezelő szervének vezetője a tudománypolitika koordinációjáért felelős miniszterrel egyetértésben határozza meg. Az ösztöndíjprogram működési szabályzatát az NKFI Alap kezelő szervének honlapján nyilvánosságra kell hozni.
 
-[^9]: A 12. § a 381/2021. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 12. § a 381/2021. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
