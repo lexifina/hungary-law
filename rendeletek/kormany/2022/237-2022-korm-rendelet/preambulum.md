@@ -1,0 +1,1 @@
+A Kormány az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (1) bekezdés g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
