@@ -1,3 +1,3 @@
-2. melléklet a 4/2011. (I. 31.) NFM rendelethez[^25]
+2. melléklet a 4/2011. (I. 31.) NFM rendelethez[^26]
 
-[^25]: A 2. melléklet a 14/2021. (III. 31.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^26]: A 2. melléklet a 4/2022. (VI. 30.) TIM rendelet 1. §-ával megállapított szöveg.

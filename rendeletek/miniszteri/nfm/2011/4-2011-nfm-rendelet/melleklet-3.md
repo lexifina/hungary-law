@@ -2,48 +2,40 @@
 
 |  | A | B | C | D | E |
 
-| 1. | Árszabások | MVM Démász Áramhálózati Kft. elosztói működési területén | E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., E.ON Tiszántúli Áramhálózati Zrt. elosztói működési területén | ELMŰ Hálózati Kft. elosztói működési területén | ÉMÁSZ Hálózati Kft. elosztói működési területén |
+| 1. | Árszabások | MVM Démász Áramhálózati Kft. | E.ON DÉDÁSZ, E.ON ÉDÁSZ és OPUS TITÁSZ | ELMŰ Hálózati Kft. elosztói | MVM Émász Hálózati Kft. |
 
-| 2. | A1 |  |  |  |  |
+| 2. |  | elosztói működési terület |
 
-| 3. | – lakossági felhasználók esetében 1320 kWh/év fogyasztásig | 12,27 | 11,41 | 12,13 | 11,96 |
+| 3. | A1 |  |  |  |  |
 
-| 4. | – lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére | 13,15 | 13,33 | 13,17 | 12,99 |
+| 4. | – lakossági felhasználók esetében 1320 kWh/év fogyasztásig | 5,25 | 4,39 | 5,11 | 4,94 |
 
-| 5. | – nem lakossági felhasználók esetében | 30,69 | 31,02 | 30,72 | 30,40 |
+| 5. | – lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére | 6,13 | 6,31 | 6,15 | 5,97 |
 
-| 6. | A2 |  |  |  |  |
+| 6. | – nem lakossági felhasználók esetében | 46,04 | 46,53 | 46,08 | 45,60 |
 
-| 7. | – lakossági felhasználók esetében |  |  |  |  |
+| 7. | A2 |  |  |  |  |
 
-| 8. | – csúcsidőszak | 15,97 | 17,80 | 17,05 | 15,51 |
+| 8. | – csúcsidőszak lakossági felhasználók esetében | 8,95 | 10,78 | 10,03 | 8,49 |
 
-| 9. | – völgyidőszak | 8,07 | 9,42 | 8,95 | 8,02 |
+| 9. | – völgyidőszak lakossági felhasználók esetében | 1,05 | 2,40 | 1,93 | 1,00 |
 
-| 10. | – nem lakossági felhasználók esetében |  |  |  |  |
+| 10. | – csúcsidőszak nem lakossági felhasználók esetében | 53,58 | 58,55 | 56,51 | 52,37 |
 
-| 11. | – csúcsidőszak | 35,72 | 39,03 | 37,67 | 34,91 |
+| 11. | – völgyidőszak nem lakossági felhasználók esetében | 32,24 | 35,90 | 34,62 | 32,10 |
 
-| 12. | – völgyidőszak | 21,49 | 23,93 | 23,08 | 21,40 |
+| 12. | A3 |  |  |  |  |
 
-| 13. | A3 |  |  |  |  |
+| 13. | – csúcsidőszak | 54,99 | 64,31 | 57,38 | 53,25 |
 
-| 14. | – csúcsidőszak | 36,66 | 42,87 | 38,25 | 35,50 |
+| 14. | – völgyidőszak | 33,48 | 41,39 | 35,51 | 32,97 |
 
-| 15. | – völgyidőszak | 22,32 | 27,59 | 23,67 | 21,98 |
+| 15. | B Alap és H |  |  |  |  |
 
-| 16. | B Alap |  |  |  |  |
+| 16. | – lakossági felhasználók esetében | 1,90 | 2,34 | 2,05 | 1,68 |
 
-| 17. | – lakossági felhasználók esetében | 8,92 | 9,36 | 9,07 | 8,70 |
+| 17. | – nem lakossági felhasználók esetében | 27,75 | 28,56 | 27,86 | 26,97 |
 
-| 18. | – nem lakossági felhasználók esetében | 18,50 | 19,04 | 18,57 | 17,98 |
+3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^27]
 
-| 19. | H |  |  |  |  |
-
-| 20. | – lakossági felhasználók esetében | 8,92 | 9,36 | 9,07 | 8,70 |
-
-| 21. | – nem lakossági felhasználók esetében | 18,50 | 19,04 | 18,57 | 17,98 |
-
-3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^26]
-
-[^26]: A 3. melléklet a 14/2021. (III. 31.) ITM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^27]: A 3. mellékletet a 4/2022. (VI. 30.) TIM rendelet 2. § c) pontja hatályon kívül helyezte.

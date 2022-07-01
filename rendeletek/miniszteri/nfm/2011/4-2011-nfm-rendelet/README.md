@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-2W
 | 2020-01-01 | 2011-4-20-2W.19 | 36/2018. (XII. 21.) ITM rendelet |
 | 2021-04-01 | 2011-4-20-2W.20 | 14/2021. (III. 31.) ITM rendelet |
 | 2021-07-01 | 2011-4-20-2W.21 | 30/2021. (VI. 30.) ITM rendelet |
+| 2022-07-01 | 2011-4-20-2W.22 | 4/2022. (VI. 30.) TIM rendelet |
