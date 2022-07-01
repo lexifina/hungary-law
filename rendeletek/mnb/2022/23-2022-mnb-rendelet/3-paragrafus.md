@@ -2,8 +2,7 @@
 
 3. § (1)[^3]
 
-(2)[^4]
+(2) Hatályát veszti a pénzforgalom lebonyolításáról szóló 35/2017. (XII. 14.) MNB rendelet 6. § (3) bekezdése.
 
 [^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. § (2) bekezdése a 4. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
