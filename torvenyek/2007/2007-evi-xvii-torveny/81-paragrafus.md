@@ -28,9 +28,11 @@ rendeletben állapítsa meg.
 
 a) a mezőgazdasági és vidékfejlesztési támogatási szervet,
 
-b) a gazdasági elemzésekkel foglalkozó intézményt, valamint
+b) a gazdasági elemzésekkel foglalkozó intézményt,
 
-c) a végrehajtásban közreműködő szervet
+c) a végrehajtásban közreműködő szervet, valamint
+
+d) a 31. § (7) bekezdése szerinti szervezetet
 
 rendeletben kijelölje.
 

@@ -18,7 +18,7 @@ b) a vízügyi igazgatási szerv a vagyongazdálkodás, a nagyvízi meder és a 
 
 (6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési terv és településfejlesztési terv készítése és a településképi követelmények meghatározása érdekében az érintett területre a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 
-(7) A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
+(7) a Kormány által rendeletben kijelölt szervezet
 
 a) az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás, a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer, valamint a kulturális örökség védelméről szóló törvény szerinti központi, közhiteles nyilvántartás működtetéséhez szükséges MePAR programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz, és
 
