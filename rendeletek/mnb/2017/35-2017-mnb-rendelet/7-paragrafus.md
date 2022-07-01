@@ -12,15 +12,15 @@ c) azon a napon kezdi meg, amikor a fizető fél a pénzforgalmi szolgáltatója
 
 az átvétel időpontjának ezt a megállapodásban meghatározott napot kell tekinteni. Amennyiben ez a megállapodásban meghatározott nap a fizető fél pénzforgalmi szolgáltatójánál nem munkanap, az átvétel időpontjának a következő munkanapot kell tekinteni.
 
-(3)[^5] Ha törvény vagy a számlatulajdonossal történt megállapodás alapján a fizető fél pénzforgalmi szolgáltatója a fizetési megbízást sorba állítja, a fizetési megbízás átvételének időpontja – a (3a) bekezdésben foglalt kivétellel – az az időpont, amikor a teljesítéshez (részteljesítéshez) szükséges fedezet a 6. § (1) bekezdése szerinti munkanapon a fizető fél fizetési számláján rendelkezésre áll. Amennyiben a fedezet rendelkezésre állása a 6. § (4) bekezdése szerinti időszakban következik be, a fizetési megbízás átvételének időpontja – a (3a) bekezdésben foglalt kivétellel – a 6. § (4) bekezdése szerinti munkanap kezdő időpontja.
+(3)[^6] Ha törvény vagy a számlatulajdonossal történt megállapodás alapján a fizető fél pénzforgalmi szolgáltatója a fizetési megbízást sorba állítja, a fizetési megbízás átvételének időpontja – a (3a) bekezdésben foglalt kivétellel – az az időpont, amikor a teljesítéshez (részteljesítéshez) szükséges fedezet a 6. § (1) bekezdése szerinti munkanapon a fizető fél fizetési számláján rendelkezésre áll. Amennyiben a fedezet rendelkezésre állása a 6. § (4) bekezdése szerinti időszakban következik be, a fizetési megbízás átvételének időpontja – a (3a) bekezdésben foglalt kivétellel – a 6. § (4) bekezdése szerinti munkanap kezdő időpontja.
 
-(3a)[^6] Sorban álló hatósági átutalási megbízás és átutalási végzés átvételének időpontja az az időpont, amikor a teljesítéshez (részteljesítéshez) szükséges fedezet a fizető fél fizetési számláján rendelkezésre áll, és az a belföldi fizetési rendszer, amelynek útján a fizető fél pénzforgalmi szolgáltatója a hatósági átutalást vagy az átutalási végzés alapján történő átutalást teljesíti, üzemel.
+(3a)[^7] Sorban álló hatósági átutalási megbízás és átutalási végzés átvételének időpontja az az időpont, amikor a teljesítéshez (részteljesítéshez) szükséges fedezet a fizető fél fizetési számláján rendelkezésre áll, és az a belföldi fizetési rendszer, amelynek útján a fizető fél pénzforgalmi szolgáltatója a hatósági átutalást vagy az átutalási végzés alapján történő átutalást teljesíti, üzemel.
 
 (4) Az azonnali átutalási megbízás átvételének időpontja az az időpont, amikor a fizető fél pénzforgalmi szolgáltatójához a fizetési megbízás beérkezett, és a hitelesítés megtörtént.
 
 (5) Az átutalási végzés átvételének időpontja az az időpont, amikor az átutalási végzés alapján a fizető fél pénzforgalmi szolgáltatójának az átutalási vagy kifizetési kötelezettsége beáll.
 
-(6)[^7] A fizető fél pénzforgalmi szolgáltatója a fizetési megbízás (1)–(5) bekezdés szerinti átvételi időpontját megelőzően a fizető fél
+(6)[^8] A fizető fél pénzforgalmi szolgáltatója a fizetési megbízás (1)–(5) bekezdés szerinti átvételi időpontját megelőzően a fizető fél
 
 a) fizetési számláját a fizetési megbízás összegével nem terhelheti meg, és
 
@@ -36,9 +36,9 @@ b) a kedvezményezett útján kezdeményezett fizetési megbízás, a sorban ál
 
 (11) A fizetési megbízás kötegelten is benyújtható, ha az egyes fizetési megbízások összetartozása egyértelműen megállapítható.
 
-(12)[^8] A pénzforgalmi szolgáltató a fizetési számla megterhelésére vonatkozó fizetési megbízásokat – törvény vagy a számlatulajdonos eltérő rendelkezésének hiányában – az átvétel sorrendjében teljesíti. Az átvétel sorrendjére a pénzforgalmi szolgáltató nyilvántartása az irányadó. Jelen bekezdés alkalmazásában az azonnali átutalási megbízás benyújtása a számlatulajdonos eltérő rendelkezésének minősül.
+(12)[^9] A pénzforgalmi szolgáltató a fizetési számla megterhelésére vonatkozó fizetési megbízásokat – törvény vagy a számlatulajdonos eltérő rendelkezésének hiányában – az átvétel sorrendjében teljesíti. Az átvétel sorrendjére a pénzforgalmi szolgáltató nyilvántartása az irányadó. Jelen bekezdés alkalmazásában az azonnali átutalási megbízás benyújtása a számlatulajdonos eltérő rendelkezésének minősül.
 
-[^5]: A 7. § (3) bekezdése a 10/2019. (II. 21.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^6]: A 7. § (3a) bekezdését a 10/2019. (II. 21.) MNB rendelet 3. § (1) bekezdése iktatta be.
-[^7]: A 7. § (6) bekezdése a 10/2019. (II. 21.) MNB rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^8]: A 7. § (12) bekezdése a 60. § (1) bekezdésével megállapított szöveg.
+[^6]: A 7. § (3) bekezdése a 10/2019. (II. 21.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: A 7. § (3a) bekezdését a 10/2019. (II. 21.) MNB rendelet 3. § (1) bekezdése iktatta be.
+[^8]: A 7. § (6) bekezdése a 10/2019. (II. 21.) MNB rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 7. § (12) bekezdése a 60. § (1) bekezdésével megállapított szöveg.

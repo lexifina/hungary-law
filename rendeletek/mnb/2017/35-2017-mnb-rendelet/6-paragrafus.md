@@ -8,7 +8,7 @@
 
 (2) A pénzforgalmi szolgáltató az (1) bekezdésben foglaltaktól eltérően az azonnali átutalás teljesítéséből rá háruló feladatok teljesítésére, beleértve a fizetési művelet összegének terhelési vagy jóváírási értéknappal való ellátását is, – törvény vagy e rendelet eltérő rendelkezése hiányában – folyamatosan, minden naptári napon 0 órától 24 óráig tartó munkanapot tart.
 
-(3) A fizető fél pénzforgalmi szolgáltatója indokolt esetben az azonnali átutalási megbízás benyújthatóságát naptári évenként összességében legfeljebb 24 óra karbantartási szünet útján korlátozhatja, feltéve, hogy arra a legalacsonyabb forgalmi időszakban kerül sor, és erről az ügyfeleket előzetesen tájékoztatta.
+(3)[^5]
 
 (4) A végső benyújtási vagy végső beérkezési határidő és a záró időpont között a pénzforgalmi szolgáltatóhoz beérkezett fizetési megbízásokat és fizetési műveleteket, valamint a nem munkanapon beérkezett fizetési megbízásokat és fizetési műveleteket a következő munkanapon átvettnek kell tekinteni, az ezek teljesítéséből rá háruló feladatokat – ha az ügyfél későbbi határidőt nem jelöl meg, vagy e rendelet eltérően nem rendelkezik – a pénzforgalmi szolgáltató legkésőbb ezen a következő munkanapon teljesíti.
 
@@ -27,3 +27,5 @@ a) korábbi időpontot a következő munkanap kezdő időpontjaként,
 b) későbbi időpontot a munkanap záró időpontjaként
 
 nem határozhat meg.
+
+[^5]: A 6. § (3) bekezdését a 23/2022. (VI. 17.) MNB rendelet 3. § (2) bekezdése hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 (2) A 16. § (1) bekezdés a) pontja szerinti fizetési művelet esetében a fizető fél pénzforgalmi szolgáltatója biztosítja, hogy a fizetési művelet összege a kedvezményezett pénzforgalmi szolgáltatójának a számláján legkésőbb a fizetési megbízás 7. § szerinti átvételét és a teljesítéshez vagy részteljesítéshez szükséges fedezet fizető fél fizetési számláján történő rendelkezésre állását követő négy órán belül jóváírásra kerüljön, ha
 
-a)[^15] a fizetési megbízás átutalás teljesítésére szól, ide nem értve az azonnali átutalást, a hatósági átutalást és az átutalási végzés alapján történő átutalást, és
+a)[^16] a fizetési megbízás átutalás teljesítésére szól, ide nem értve az azonnali átutalást, a hatósági átutalást és az átutalási végzés alapján történő átutalást, és
 
 b) a fizetési megbízást a fizető fél nem papír alapon nyújtja be.
 
@@ -10,4 +10,4 @@ b) a fizetési megbízást a fizető fél nem papír alapon nyújtja be.
 
 (4) A közvetítő pénzforgalmi szolgáltató az azonnali átutalás teljesítéséből rá háruló feladatokat oly módon teljesíti, hogy az biztosítsa a (3) bekezdés szerinti teljesítési határidő betartását.
 
-[^15]: A 17. § (2) bekezdés a) pontja a 61. § 3. pontja szerint módosított szöveg.
+[^16]: A 17. § (2) bekezdés a) pontja a 61. § 3. pontja szerint módosított szöveg.
