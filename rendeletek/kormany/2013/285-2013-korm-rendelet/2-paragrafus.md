@@ -1,4 +1,4 @@
-2. § (1)[^3] Az ösztöndíjprogram működtetéséért a miniszter felel. Az oktatásért felelős miniszter közreműködik az ösztöndíjprogramra vonatkozó stratégia kialakításában és végrehajtásában az oktatáspolitikai szempontok érvényesítése révén.
+2. § (1)[^3] Az ösztöndíjprogram működtetéséért a miniszter felel. A felsőoktatásért felelős miniszter közreműködik az ösztöndíjprogramra vonatkozó stratégia kialakításában és végrehajtásában az oktatáspolitikai szempontok érvényesítése révén.
 
 (2)[^4] Az ösztöndíjprogram lebonyolítását a Tempus Közalapítvány (a továbbiakban: Közalapítvány) látja el. A miniszter az ösztöndíjprogram működtetésével összefüggő szakmai irányítási feladatkörében a Közalapítvány kuratóriumába tagot delegál.
 
@@ -26,7 +26,7 @@ e)[^11] egészségügyi szolgáltatás a társadalombiztosítás ellátásaira j
 
 f)[^12] egészségügyi hozzájárulás.
 
-[^3]: A 2. § (1) bekezdése a 138/2019. (VI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 138/2019. (VI. 13.) Korm. rendelet 2. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 127. §-a szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^5]: A 2. § (3) bekezdését a 81/2015. (III. 31.) Korm. rendelet 2. §-a iktatta be, szövege a 138/2019. (VI. 13.) Korm. rendelet 3. §-ával megállapított, a 351/2019. (XII. 23.) Korm. rendelet 14. § a) pontja, az 581/2021. (X. 12.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (3a) bekezdését a 203/2020. (V. 14.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte az 581/2021. (X. 12.) Korm. rendelet 8. § a) pontja.
