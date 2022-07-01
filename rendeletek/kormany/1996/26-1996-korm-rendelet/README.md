@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-26-20-2
 | --- | --- | --- |
 | 1996-02-22 | 1996-26-20-22.1 | 26/1996. (II. 14.) Korm. rendelet |
 | 2015-01-01 | 1996-26-20-22.2 | 381/2014. (XII. 31.) Korm. rendelet |
+| 2022-07-01 | 1996-26-20-22.3 | 381/2014. (XII. 31.) Korm. rendelet |
