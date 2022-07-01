@@ -16,8 +16,16 @@ c) harmadik ország hatóságának, ügyészségének, bíróságának, felügye
 
 (4) Az adatszolgáltató és a tényleges tulajdonos jogosult egyedi adatszolgáltatás keretében ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni a tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés szerinti saját tényleges tulajdonosi adatait, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját. A tényleges tulajdonos egyedi adatszolgáltatási kérelmét – a tényleges tulajdonos meghatalmazása alapján – azon adatszolgáltató nyújtja be, amelynek tényleges tulajdonosa.
 
-(5)
+(5) Harmadik személy díj fizetése ellenében, a nyilvántartó szerv által meghatározott módon egyedi adatszolgáltatás keretében megismerheti az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) bekezdése szerinti adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ide nem értve a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját.
 
-(6)
+(6) Harmadik személy díj fizetése ellenében egyedi adatszolgáltatás keretében, a nyilvántartó szerv által meghatározott módon adatot igényelhet a bizalmi vagyonkezelési jogviszony 4. § (1) bekezdés g) pontja szerinti tényleges tulajdonosi adataira vonatkozóan, ha az adat felhasználásának célját és az adat megismeréséhez fűződő vagy a pénzmosás és terrorizmus finanszírozása elleni küzdelemhez kapcsolódó jogos érdekét okirattal igazolja. A jogos érdek különösen igazoltnak tekintendő, ha az adatot igénylő harmadik személy és az adatigénylésben érintett bizalmi vagyonkezelési jogviszony Pmt. szerinti valamely tényleges tulajdonosa
 
-(7)
+a) a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozói kapcsolatban áll,
+
+b) ugyanazon jogi személy vagy jogi személyiséggel nem rendelkező szervezet tényleges tulajdonosa,
+
+c) szoros üzleti kapcsolatban áll, vagy
+
+d) vagyonjogi perben áll.
+
+(7) A (6) bekezdésben foglalt eseteken túl, ha a bizalmi vagyonkezelési jogviszony keretében kezelt vagyon az Európai Unión kívül bejegyzett jogi személyben vagy jogi személyiség nélküli szervezetben közvetlen vagy közvetett módon – többek között bemutatóra szóló részvényeken keresztül vagy más módon – többségi befolyásra feljogosító vagyonelemet tartalmaz, harmadik személy írásbeli kérelem benyújtásával adatot igényelhet a bizalmi vagyonkezelési jogviszony 4. § (1) bekezdés g) pontja szerinti tényleges tulajdonosi adataira vonatkozóan.
