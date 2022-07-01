@@ -10,9 +10,17 @@ ba) az Európai Közösség, az Európai Atomenergia-közösség, az EKB, az Eur
 
 bb) egyéb, a ba) alpont alá nem tartozó, Magyarország által nemzetközi szervezetként elismert szervezet vagy képviselete hivatalos céljára, személyes célra pedig a nemzetközi szervezet vagy képviselete tisztviselőjének részére történik a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint, feltéve, hogy az előzőekben említett nemzetközi szerződés a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók elengedéséről vagy visszatérítéséről rendelkezik;
 
-c) az Észak-atlanti Szerződés tagállamának belföldön állomásozó fegyveres ereje – ide nem értve a Magyar Honvédséget – részére történik, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
+c) az alábbiaknak megfelelően:
 
-d) belföldön kívül az Észak-atlanti Szerződés valamely más tagállamában állomásozó fegyveres erő részére történik, ideértve az ott állomásozó összes fegyveres erőt, de ide nem értve e tagállam saját fegyveres erejét, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
+ca) az Észak-atlanti Szerződés tagállamának belföldön állomásozó fegyveres ereje – ide nem értve a Magyar Honvédséget – részére történik, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetve az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
+
+cb) a Közösség Magyarországtól eltérő tagállamának belföldön állomásozó fegyveres ereje részére történik, és az a fegyveres erő vagy az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál, valamint e fegyveres erők a közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában vesznek részt;
+
+d) az alábbiaknak megfelelően:
+
+da) belföldön kívül az Észak-atlanti Szerződés valamely más tagállamában állomásozó fegyveres erő részére történik, ideértve az ott állomásozó összes fegyveres erőt, de ide nem értve e tagállam saját fegyveres erejét, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetve az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
+
+db) a Közösség másik tagállamába irányul, a rendeltetési hely szerinti tagállamtól eltérő tagállam fegyveres ereje részére történik, és az a fegyveres erő vagy az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál, valamint e fegyveres erők a közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában vesznek részt.
 
 e) az Egyesült Királyság fegyveres ereje részére történik, feltéve, hogy az a Ciprusi Köztársaság megalakulásáról, 1960. augusztus 16. napján kelt nemzetközi szerződés értelmében az Egyesült Királyság Ciprus szigetén állomásozó fegyveres erejének, illetőleg az azt kísérő polgári állomány használatára vagy éttermük, kantinjuk ellátására szolgál.
 

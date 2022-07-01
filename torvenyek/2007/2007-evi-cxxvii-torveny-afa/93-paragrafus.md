@@ -20,6 +20,8 @@ ga) az Európai Közösség, az Európai Atomenergia-közösség, az EKB, az Eur
 
 gb) egyéb, a ga) alpont alá nem tartozó, Magyarország által nemzetközi szervezetként elismert szervezet vagy annak képviselete, illetve annak tisztviselője által a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint, feltéve, hogy az előzőekben említett nemzetközi szerződés a vám és/vagy a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók elengedéséről vagy visszatérítéséről rendelkezik;
 
+gc) a Közösség Magyarországtól eltérő tagállamának fegyveres ereje által, ha az a fegyveres erő, illetve az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál, és e fegyveres erő a közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában vesz részt.
+
 gd) az Európai Bizottság (a továbbiakban: Bizottság) vagy az uniós jog alapján létrehozott ügynökség vagy szerv által, ha a Bizottság vagy ezen ügynökség, illetve szerv az uniós jog által ráruházott feladatok ellátása keretében, a Covid19-világjárványra való reagálás érdekében importálja a terméket, feltéve, hogy a Bizottság vagy ezen ügynökség, illetve szerv nem értékesíti tovább ellenérték fejében az importált terméket.
 
 h) a termék importja az Észak-atlanti Szerződés tagállamának fegyveres ereje által – ide nem értve a Magyar Honvédséget –, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;

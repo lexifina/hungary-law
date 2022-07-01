@@ -69,3 +69,5 @@ i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008
 j) a Tanács (EU) 2019/475 irányelve (2019. február 18.) a 2006/112/EK és a 2008/118/EK irányelvnek az olasz Campione d'Italia településnek és a Luganói-tó olaszországi vizeinek az Unió vámterületébe, valamint a 2008/118/EK irányelv területi hatálya alá történő bevonása érdekében történő módosításáról.
 
 k) a Tanács (EU) 2020/1109 határozata (2020. július 20.) az (EU) 2017/2455 és az (EU) 2019/1995 irányelvnek a Covid19-világjárvány miatt szükségessé vált, az átültetési határidő és az alkalmazás kezdőnapja tekintetében történő módosításáról.
+
+l) a Tanács (EU) 2019/2235 irányelve (2019. december 16.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek és a jövedéki adóra vonatkozó általános rendelkezésekről szóló 2008/118/EK irányelvnek az uniós keretben végzett védelmi feladatok tekintetében történő módosításáról.

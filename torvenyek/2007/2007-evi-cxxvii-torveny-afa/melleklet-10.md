@@ -19,19 +19,3 @@ Számla kiállítása, -kibocsátása
 5/A. Amennyiben az adóalany belföldön kívül teljesített termékértékesítést, szolgáltatásnyújtást, köteles adatot szolgáltatni arról, hogy az ügylet e törvény területi hatályán kívül esik.
 
 6. Az 1–5/A. pont szerinti adatszolgáltatást az állami adó- és vámhatóság által erre a célra biztosított elektronikus felületen kell teljesíteni. Az elektronikus felület az adóalany egyedi azonosítására szolgáló adatok igénylését követően használható. Az azonosító adatokat az adóalany vagy annak Air. szerinti állandó meghatalmazottja igényli.
-
-7. Az 1–5/A. pont szerinti adatszolgáltatást az adóalany nevében az a személy is teljesítheti, akit az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöl. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja által megjelölt személy által teljesített valamennyi adatszolgáltatás az adóalany nevében tett jognyilatkozatnak minősül.
-
-8. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöli azon személyt, akinek az elektronikus felületen szolgáltatott adatokhoz hozzáférési lehetőséget ad.
-
-Számla befogadása
-
-9. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
-
-a) a terméket értékesítő, szolgáltatást nyújtó adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
-
-b) a nevére szóló számlában feltüntetett adóalapról és áthárított adó összegről, a számla sorszámáról, valamint
-
-c) a számlában a 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
-
-10. A 9. pont szerinti számla módosítása vagy érvénytelenítése esetén a számlával egy tekintet alá eső okiratot befogadó adóalany abban a bevallásban, amelyben a módosítás, érvénytelenítés hatását figyelembe veszi, köteles a módosított, érvénytelenített számlát érintően a 9. pont szerint nyilatkozni. Ebben az esetben az adóalany nyilatkozik annak a számlának a 9. pontban meghatározott adatairól, amelyet a módosítás, érvénytelenítés érint, a módosítás számszaki hatásáról az adóalap és áthárított adó tekintetében, valamint a számlát módosító, érvénytelenítő okirat sorszámáról.
