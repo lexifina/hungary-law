@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-373-20-
 | 2016-09-01 | 2011-373-20-22.7 | 259/2016. (VIII. 31.) Korm. rendelet |
 | 2018-01-01 | 2011-373-20-22.8 | 502/2017. (XII. 29.) Korm. rendelet |
 | 2019-07-01 | 2011-373-20-22.9 | 126/2019. (V. 30.) Korm. rendelet |
+| 2022-07-01 | 2011-373-20-22.10 | 186/2016. (VII. 13.) Korm. rendelet |
