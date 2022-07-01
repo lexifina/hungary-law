@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-192-20-
 | --- | --- | --- |
 | 2020-05-13 | 2020-192-20-22.1 | 192/2020. (V. 8.) Korm. rendelet |
 | 2021-10-17 | 2020-192-20-22.2 | 580/2021. (X. 12.) Korm. rendelet |
+| 2022-07-01 | 2020-192-20-22.3 | 238/2022. (VI. 30.) Korm. rendelet |

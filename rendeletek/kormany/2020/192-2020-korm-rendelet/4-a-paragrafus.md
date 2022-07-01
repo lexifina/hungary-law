@@ -1,4 +1,4 @@
-## 4/A. §[^2] A Társaság az egészségügyi közszolgáltatást kiszolgáló ingatlanokon megvalósítandó világításkorszerűsítési beruházások tekintetében kizárólagos joggal
+## 4/A. §[^3] A Társaság az egészségügyi közszolgáltatást kiszolgáló ingatlanokon megvalósítandó világításkorszerűsítési beruházások tekintetében kizárólagos joggal
 
 a) ellátja, illetve koordinálja a világításkorszerűsítési beruházás megvalósíthatóságával kapcsolatos előkészítési feladatokat, amelyek keretében energiahatékonysági felmérést, fenntartási és üzemeltetési modellt dolgoz ki, beruházási tervet készít, költség- és időkalkulációt készít, helyszínvizsgálatot folytat le, továbbá beruházási programot készít,
 
@@ -8,4 +8,4 @@ c) ellátja, illetve koordinálja a világításkorszerűsítési beruházás ge
 
 d) végzi az energiahatékonyság-alapú szerződés kötelezettjeként, energiahatékonysági szolgáltatóként tevékenységét az a) pont szerint elkészített energiahatékonysági felmérés alapján megtérülőnek minősített, az országos kórház-főigazgató által kijelölt ingatlanok vonatkozásában.
 
-[^2]: A 4/A. §-t az 580/2021. (X. 12.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 4/A. §-t az 580/2021. (X. 12.) Korm. rendelet 1. §-a iktatta be.
