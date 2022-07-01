@@ -4,11 +4,11 @@ a)
 
 b)
 
-c)
+c) 31. § (7) bekezdés nyitó szövegrészében az „A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „a Kormány által rendeletben kijelölt szervezet”,
 
-d)
+d) 81. § (2) bekezdés b) pontjában az „intézményt, valamint” szövegrész helyébe az „intézményt,”,
 
-e)
+e) 81. § (2) bekezdés c) pontjában a „szervet” szövegrész helyébe a „szervet, valamint”,
 
 f)
 
