@@ -4,9 +4,10 @@
 
 (3)[^17] Az ártalmatlanítás tényét rögzítő jegyzőkönyvet az ártalmatlanítást végző megbízottja, valamint – ellenőrzött módon történő ártalmatlanítás esetén – az ellenőrzést végző hatóság képviselője is aláírja. Az ártalmatlanításról készített jegyzőkönyvet az ártalmatlanítást követően egy eredeti példányban haladéktalanul meg kell küldeni a Budapest Főváros Kormányhivatala részére.
 
-(4) A gyógyszertárak esetében a kábítószer-prekurzorok ártalmatlanítását, selejtezését az egészségügyi miniszter által külön jogszabályban meghatározott előírások szerint kell végezni.
+(4)[^18] A gyógyszertárak esetében a kábítószer-prekurzorok ártalmatlanítását, selejtezését az egészségügyért felelős miniszter által külön jogszabályban meghatározott előírások szerint kell végezni.
 
 (5) Egyebekben a kábítószer-prekurzorok ártalmatlanítására a hulladékokra vonatkozó külön jogszabályok előírásait kell alkalmazni.
 
 [^16]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 418. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (66) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) és f) pontja szerint módosított szöveg.
 [^17]: A 7. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 7. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 38. §-a szerint módosított szöveg.
