@@ -1,4 +1,4 @@
-## 16. §[^15]
+## 16. §[^16]
 
 1. melléklet a 72/2014. (III. 13.) Korm. rendelethez
 
@@ -40,4 +40,4 @@
 
 2.9. szakirányú továbbképzésben mentálhigiéniai szakon szerzett felsőfokú szakképzettség
 
-[^15]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

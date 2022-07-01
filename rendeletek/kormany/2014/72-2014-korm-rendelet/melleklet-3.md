@@ -1,4 +1,4 @@
-3. melléklet a 72/2014. (III. 13.) Korm. rendelethez[^17]
+3. melléklet a 72/2014. (III. 13.) Korm. rendelethez[^18]
 
 Adatlap
 
@@ -78,4 +78,4 @@ Mi volt a válság oka:
 
 Mi segített a gyermek nevelésének vállalásában:
 
-[^17]: A 3. melléklet a 244/2016. (VIII. 17.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^18]: A 3. melléklet a 244/2016. (VIII. 17.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
