@@ -18,7 +18,7 @@ b) építés esetén a használatbavételi engedély kiadását vagy a használa
 
 c) egyszerű bejelentéshez kötött építési tevékenység esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítását megelőzően
 
-## kell kérni a hitelintézettől.
+kell kérni a hitelintézettől.
 
 (3) Ha az igénylő az (1) és (2) bekezdés szerinti határidőn belül nem él a családi otthonteremtési kedvezmény igénylésének lehetőségével, arra a határidő lejártát követően már nem tarthat igényt.
 

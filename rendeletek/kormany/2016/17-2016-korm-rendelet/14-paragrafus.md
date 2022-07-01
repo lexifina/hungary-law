@@ -16,7 +16,7 @@ cc) a 12. § (1) bekezdés a) pontja szerinti igénylő kereső tevékenysége a
 
 cd) a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül,
 
-## azzal, hogy a 180 napos jogosultsági időszak számítása során a különböző, egymást követő jogosultsági időszakokat össze kell számítani, és a jogosultsági időszakot folyamatosnak kell tekinteni, ha abban egybefüggően legfeljebb 30 nap megszakítás van, melynek időtartama a teljesítendő jogosultsági időszakba nem számít bele;
+azzal, hogy a 180 napos jogosultsági időszak számítása során a különböző, egymást követő jogosultsági időszakokat össze kell számítani, és a jogosultsági időszakot folyamatosnak kell tekinteni, ha abban egybefüggően legfeljebb 30 nap megszakítás van, melynek időtartama a teljesítendő jogosultsági időszakba nem számít bele;
 
 d) a lakás a műszaki állapotára tekintettel – az ingatlan-értékbecslési szakvélemény alapján – a lakhatási igények kielégítésére alkalmas;
 
@@ -62,7 +62,7 @@ ah) személyi azonosító és
 
 ai) adóazonosító jel
 
-## a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellenőrzése céljából a hitelintézet kezelje és továbbítsa a kormányhivatal, a Kincstár, valamint az állami adóhatóság részére;
+a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellenőrzése céljából a hitelintézet kezelje és továbbítsa a kormányhivatal, a Kincstár, valamint az állami adóhatóság részére;
 
 b)[^56] – és azt megelőzően a kérelemben is – büntetőjogi felelőssége tudatában nyilatkozik arról, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtását megelőző 5 éven belül az e rendelet vagy az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett, vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön visszafizetésre véglegesen nem kötelezték;
 

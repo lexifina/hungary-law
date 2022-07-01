@@ -4,7 +4,7 @@
 
 (3)[^13] A családi otthonteremtési kedvezménnyel érintett eljárásokban a lakáscélú állami támogatásokkal kapcsolatos feladatkörében a lakás fekvése szerint illetékes megyei kormányhivatal, Pest megye és a főváros területén fekvő lakás esetén Budapest Főváros Kormányhivatala (a továbbiakban együtt: kormányhivatal) jár el.
 
-(3a)[^14] Az e rendelet alapján a kormányhivatal hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott, a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjaiban meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
+(3a)[^14] Az e rendelet alapján a kormányhivatal hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott, a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjaiban meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket a lakáscélú állami támogatásokért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
 (3b)[^15] A kormányhivatal e rendeletben szabályozott hatósági eljárása során az ügyfelet hiánypótlásra két alkalommal is felhívhatja.
 
@@ -19,7 +19,7 @@
 (6)[^19] A miniszter szakmai képzéseket, vizsgákat, valamint szakmai, koordinációs értekezleteket szervez a kormányhivatal lakástámogatásokkal foglalkozó munkatársai részére.
 
 [^13]: A 4. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 151. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^14]: A 4. § (3a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (1) bekezdésével megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^14]: A 4. § (3a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 158. §-a szerint módosított szöveg.
 [^15]: A 4. § (3b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^16]: A 4. § (3c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^17]: A 4. § (3d) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

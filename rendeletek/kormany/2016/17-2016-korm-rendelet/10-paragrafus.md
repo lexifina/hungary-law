@@ -8,7 +8,7 @@ b)[^41] a 12. hetet betöltött magzatot, valamint
 
 c) a vállalt gyermekeket
 
-## együttesen kell figyelembe venni.
+együttesen kell figyelembe venni.
 
 (2) A 3. § (2) bekezdésében foglaltak szerint vehető figyelembe az a gyermek, aki után az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint vissza nem térítendő lakáscélú állami támogatást vagy ezt megelőlegező kölcsönt már igénybe vettek.
 
@@ -20,7 +20,7 @@ b) a családi otthonteremtési kedvezményt igénylő házastársak esetén a h�
 
 c) a családi otthonteremtési kedvezményt igénylő fiatal házaspár esetén a fiatal házaspárral közös háztartásban élő közös, a házastársak nem közös, valamint a fiatal házaspár által közösen vállalt gyermekeket együttesen
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (4) A családi otthonteremtési kedvezményt igénylő élettársak esetén a családi otthonteremtési kedvezmény igényelhető összegét az (5)–(9) bekezdésben meghatározottak szerint kell megállapítani azzal, hogy az igényelhető legmagasabb összeg a 11. § d) pontja szerinti támogatási összeg.
 

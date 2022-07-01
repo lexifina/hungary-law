@@ -1,5 +1,3 @@
-## 18. §[^85]
-
 ## 7. Lakás bővítése esetén irányadó szabályok
 
 19. § (1) A családi otthonteremtési kedvezménnyel érintett lakásban az igénylőnek az ingatlan-nyilvántartásba bejegyzett, legalább 50 százalékos tulajdoni hányaddal kell rendelkeznie.
@@ -30,7 +28,6 @@ e)[^89] a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság 
 
 (8)[^93] Ha a támogatott személy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti közhasznú jogállású szervezet vagy települési önkormányzat által kiírt nyilvános pályázat útján az építkezéshez szükséges természetbeni juttatásban részesül, a természetbeni juttatás támogatást nyújtó által igazolt értékéig a 14. § (3) bekezdés e) pontja szerinti számlabenyújtási kötelezettség csökkenthető.
 
-[^85]: A 18. §-t a 46/2019. (III. 12.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
 [^86]: A 19. § (1a) bekezdését a 46/2019. (III. 12.) Korm. rendelet 9. §-a iktatta be.
 [^87]: A 19. § (3) bekezdését a 26/2018. (II. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte.
 [^88]: A 19. § (4) bekezdés a) pontja a 786/2021. (XII. 27.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.

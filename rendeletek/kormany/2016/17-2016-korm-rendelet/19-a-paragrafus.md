@@ -14,7 +14,7 @@ b) bővítésére vagy
 
 c) korszerűsítésére és bővítésére
 
-## is igényli a családi otthonteremtési kedvezményt.
+is igényli a családi otthonteremtési kedvezményt.
 
 (5)[^97] Ha a támogatott személy a (4) bekezdés a)–c) pontja szerinti, a támogatási szerződésben általa vállalt munkálatokat nem teljesíti, a folyósított családi otthonteremtési kedvezményt – ideértve annak a lakás vásárlására számított összegét is – a folyósítás napjától számított, Ptk. szerinti késedelmi kamattal növelten köteles visszafizetni. Ha a támogatott személy visszafizetési kötelezettségének nem vagy nem megfelelően tesz eleget, a hitelintézet tájékoztatja erről a kormányhivatalt.
 
@@ -26,7 +26,7 @@ b) bővítésére vagy
 
 c) korszerűsítésére és bővítésére,
 
-## igényelhető, abban az esetben is, ha az igénylő a kérelem benyújtását megelőzően a korszerűsíteni, illetve bővíteni kívánt lakás megvásárlásához családi otthonteremtési kedvezményt vagy családok otthonteremtési kedvezményét vett igénybe.
+igényelhető, abban az esetben is, ha az igénylő a kérelem benyújtását megelőzően a korszerűsíteni, illetve bővíteni kívánt lakás megvásárlásához családi otthonteremtési kedvezményt vagy családok otthonteremtési kedvezményét vett igénybe.
 
 (7) Ha az igénylő a korszerűsítési és a bővítési munkálatokra egyaránt igényel családi otthonteremtési kedvezményt, azt a kérelem egyidejűleg történő benyújtásával teheti meg.
 

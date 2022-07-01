@@ -12,7 +12,7 @@ b) építésiengedély-köteles bővítésénél a használatbavételi engedély
 
 c) egyszerű bejelentéshez kötött bővítése esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány hitelintézet részére történő bemutatásának napjától
 
-## kell számítani.
+kell számítani.
 
 (4) A (3) bekezdés szerinti okiratot a fiatal házaspár az annak kiadását követő 30 napon belül, de legkésőbb a használatbavétel tudomásulvételét követő 45 napon belül köteles a hitelintézet részére bemutatni.
 

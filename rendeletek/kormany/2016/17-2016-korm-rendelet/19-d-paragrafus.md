@@ -28,5 +28,7 @@ ba) vásárlásához igénybe vett családi otthonteremtési kedvezmény vagy cs
 
 bb) korszerűsítéséhez (felújításához) igénybe vett, a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet szerinti támogatás
 
+összegét.
+
 [^100]: A 19/D. § (5) bekezdés a) pontja a 786/2021. (XII. 27.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
 [^101]: A 19/D. § (5) bekezdés b) pontja az 518/2020. (XI. 25.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

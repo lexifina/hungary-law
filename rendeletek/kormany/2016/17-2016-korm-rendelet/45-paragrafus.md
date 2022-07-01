@@ -1,10 +1,8 @@
-## a kormányhivatal ennek tényéről a tárgyhónapot követő hónap 20. napjáig elektronikus úton értesíti az állami adóhatóságot és a hitelintézetet.
-
-## 13. [^212] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
+## 13. [^220] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
 
 45. § (1) A családi otthonteremtési kedvezményt az állam nevében a Kincstár nyújtja.
 
-(2)[^213] A hitelintézetet az általa jogszerűen folyósított
+(2)[^221] A hitelintézetet az általa jogszerűen folyósított
 
 a) családi otthonteremtési kedvezmény összege után
 
@@ -16,7 +14,7 @@ b) 19/I. § szerinti adó-visszatérítési támogatás összege után 80 ezer f
 
 c) 14b. alcím szerinti otthonfelújítási kölcsön összege után 1,5% – azzal, hogy a pénzügyi közvetítője részére fizethető közvetítői díj nem haladhatja meg a 0,8%-ot –
 
-## egyszeri költségtérítés illeti meg, amelyet az a) pont esetén a családi otthonteremtési kedvezmény vagy annak első részlete folyósítását követően, a b) pont esetén az adó-visszatérítési támogatás vagy annak első részlete folyósítását követően, a c) pont esetén a kamattámogatás első alkalommal történő lehívásával egyidejűleg számol el a központi költségvetéssel.
+egyszeri költségtérítés illeti meg, amelyet az a) pont esetén a családi otthonteremtési kedvezmény vagy annak első részlete folyósítását követően, a b) pont esetén az adó-visszatérítési támogatás vagy annak első részlete folyósítását követően, a c) pont esetén a kamattámogatás első alkalommal történő lehívásával egyidejűleg számol el a központi költségvetéssel.
 
 (3) A hitelintézet a tárgyhónapra legfeljebb az előző hónapban a hitelintézet által benyújtott elszámolás alapján a Kincstár által ténylegesen kifizetett és elszámolt családi otthonteremtési kedvezménnyel azonos összegű előleget igényelhet utólagos elszámolási kötelezettséggel.
 
@@ -38,5 +36,5 @@ c) 14b. alcím szerinti otthonfelújítási kölcsön összege után 1,5% – az
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^212]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^213]: A 45. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^220]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^221]: A 45. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
