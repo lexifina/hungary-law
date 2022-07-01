@@ -16,6 +16,9 @@ d) 17. sorában meghatározott egészségügyi ágazat magas biztonsági szintű
 
 e) 18. sorában meghatározott egészségügyi ágazat gyógyszer-nagykereskedelem alágazat esetében az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
+f)[^4] 19. sorában meghatározott társadalombiztosítási ágazat, az egészségbiztosítás informatikai rendszere esetében a Nemzeti Egészségbiztosítási Alapkezelő
+
 [^1]: A 2. § a 375/2020. (VII. 30.) Korm. rendelet 74. §-ával megállapított szöveg.
 [^2]: A 2. § a) pontja az 516/2020. (XI. 25.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § c) pont ca) alpontja az 516/2020. (XI. 25.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § f) pontját a 238/2022. (VI. 30.) Korm. rendelet 150. §-a iktatta be.
