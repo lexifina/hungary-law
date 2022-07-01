@@ -1,4 +1,4 @@
-## 7. §[^4]
+## 7. §[^10]
 
 ## 7. Az AJTP programtámogatás és az AJKP programtámogatás elszámolásának és ellenőrzésének közös szabályai
 
@@ -10,8 +10,10 @@
 
 (4) Az elszámolást a fenntartó megvizsgálja, és 15 napon belül dönt annak elfogadásáról. A fenntartó a döntésről tájékoztatja az intézményt.
 
-(5) A fenntartó – az intézmény bevonásával – a programmegvalósulásról szakmai és pénzügyi beszámolót készít, amelyeket a tárgyévet követő augusztus 15-ig megküld az oktatásért felelős miniszternek és a forrást biztosító fejezetet irányító miniszternek.
+(5)[^11] A fenntartó – az intézmény bevonásával – a programmegvalósulásról szakmai és pénzügyi beszámolót készít, amelyeket a tárgyévet követő augusztus 15-ig megküld a miniszternek és a forrást biztosító fejezetet irányító miniszternek.
 
-(6) A szakmai megvalósulásról szóló beszámoló elfogadásáról a forrást biztosító fejezetet irányító miniszter véleményének figyelembevételével az oktatásért felelős miniszter, a támogatás felhasználásáról szóló pénzügyi beszámoló elfogadásáról a forrást biztosító fejezetet irányító miniszter dönt.
+(6)[^12] A szakmai megvalósulásról szóló beszámoló elfogadásáról a forrást biztosító fejezetet irányító miniszter véleményének figyelembevételével a miniszter, a támogatás felhasználásáról szóló pénzügyi beszámoló elfogadásáról a forrást biztosító fejezetet irányító miniszter dönt.
 
-[^4]: A 7. § a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^10]: A 7. § a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^11]: A 8. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § d) pontja szerint módosított szöveg.
+[^12]: A 8. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § b) pontja szerint módosított szöveg.

@@ -1,15 +1,15 @@
-14. § (1)[^6]
+14. § (1)[^24]
 
-(2)[^7]
+(2)[^25]
 
-(3)[^8]
+(3)[^26]
 
-(4)[^9]
+(4)[^27]
 
-(5)[^10]
+(5)[^28]
 
-[^6]: A 14. § (1) bekezdése a 13. § (3) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^7]: A 14. § (2) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
-[^8]: A 14. § (3) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
-[^9]: A 14. § (4) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
-[^10]: A 14. § (5) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^24]: A 14. § (1) bekezdése a 13. § (3) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^25]: A 14. § (2) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^26]: A 14. § (3) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^27]: A 14. § (4) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^28]: A 14. § (5) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.

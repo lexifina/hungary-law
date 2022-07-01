@@ -1,4 +1,4 @@
-## 4. §[^2]
+## 4. §[^6]
 
 ## 5. A programtámogatás és az ösztöndíjkeret folyósításának és felhasználásának közös szabályai
 
@@ -10,4 +10,4 @@
 
 (4) Az intézményenkénti programtámogatás évfolyamonként egy osztálynyi, csoportnyi létszámnak az Nkt. 4. mellékletében meghatározott maximális csoportlétszáma szerinti finanszírozását biztosítja.
 
-[^2]: A 4. § a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^6]: A 4. § a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
