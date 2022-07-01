@@ -4,7 +4,7 @@
 
 (3) A közfoglalkoztatásért felelős miniszter az előirányzatnak közfoglalkoztatási program támogatására történő felhasználhatóságáról és a támogatás mértékéről a benyújtott tervezet alapján mérlegelési jogkörében dönt.
 
-(4) A 6. §-ban meghatározott támogatásról a közfoglalkoztatásért felelős miniszter az Országgyűlés vagy a Kormány által meghatározott cél eléréséért felelős miniszter, a foglalkoztatáspolitikáért felelős miniszter, valamint a társadalmi felzárkóztatásért felelős miniszter véleményének figyelembevételével dönt.
+(4)[^46] A 6. §-ban meghatározott támogatásról a közfoglalkoztatásért felelős miniszter az Országgyűlés vagy a Kormány által meghatározott cél eléréséért felelős miniszter, a foglalkoztatáspolitikáért felelős miniszter, valamint a társadalmi felzárkózásért felelős miniszter véleményének figyelembevételével dönt.
 
 (5) A (4) bekezdés szerint érintett miniszterek a véleményükről a megkeresés megérkezését követő nyolc napon belül tájékoztatják a közfoglalkoztatásért felelős minisztert. Tájékoztatás hiányában a közfoglalkoztatásért felelős miniszter a 6. §-ban meghatározott támogatásról önállóan dönt.
 
@@ -26,11 +26,12 @@ f) a foglalkoztatni kívánt személy álláskeresőként eltöltött idejét.
 
 (8) A 6. §-ban meghatározott támogatás, valamint a 6. §-ban meghatározott támogatási formára indított 7/B. § szerinti közfoglalkoztatási program esetén a miniszteri döntést és a kérelem benyújtását követően a kormányhivatal egységes szerződéses feltételrendszer alapján hatósági szerződést köt a támogatottal. A kormányhivatal a miniszteri döntésben meghatározott támogatási összegnél magasabb támogatást nem állapíthat meg.
 
-(9)[^46] A 4. §-ban meghatározott egyes támogatási formákra indított 7/B. § szerinti közfoglalkoztatási program esetén a miniszteri döntést és a kérelem benyújtását követően a járási hivatal egységes szerződéses feltételrendszer alapján hatósági szerződést köt a támogatottal. A járási hivatal a miniszteri döntésben meghatározott támogatási összegnél magasabb támogatást nem állapíthat meg.
+(9)[^47] A 4. §-ban meghatározott egyes támogatási formákra indított 7/B. § szerinti közfoglalkoztatási program esetén a miniszteri döntést és a kérelem benyújtását követően a járási hivatal egységes szerződéses feltételrendszer alapján hatósági szerződést köt a támogatottal. A járási hivatal a miniszteri döntésben meghatározott támogatási összegnél magasabb támogatást nem állapíthat meg.
 
 (10) A hatósági szerződésben meg kell határozni a támogatott határozott idejű közfoglalkoztatási jogviszony leghosszabb időtartamát, amely nem lehet hosszabb, mint a támogatási időszak.
 
 (11) A támogatási időszak meghosszabbítása esetén a közfoglalkoztatási jogviszony is meghosszabbítható a közfoglalkoztatási program végéig.
 
 [^45]: A 7. § a 472/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^46]: A 7. § (9) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 84. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^46]: A 7. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 97. §-a szerint módosított szöveg.
+[^47]: A 7. § (9) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 84. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

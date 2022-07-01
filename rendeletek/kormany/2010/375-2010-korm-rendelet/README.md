@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-375-20-
 | 2020-04-01 | 2010-375-20-22.24 | 76/2020. (III. 31.) Korm. rendelet |
 | 2021-03-01 | 2010-375-20-22.25 | 101/2021. (II. 27.) Korm. rendelet |
 | 2021-07-01 | 2010-375-20-22.26 | 324/2011. (XII. 28.) Korm. rendelet |
+| 2022-07-01 | 2010-375-20-22.27 | 238/2022. (VI. 30.) Korm. rendelet |
