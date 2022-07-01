@@ -1,3 +1,5 @@
 ## 30–31. §
 
-## 15. Az oktatásiigazolvány-igénylés feldolgozása, az oktatási igazolvány előállítása és kiadása
+## 15.[^115]
+
+[^115]: A 15. alcím címét a 790/2021. (XII. 27.) Korm. rendelet 16. § k) pontja hatályon kívül helyezte.

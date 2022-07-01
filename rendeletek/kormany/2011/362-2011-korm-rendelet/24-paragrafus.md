@@ -1,9 +1,5 @@
-## 10. A pedagógusigazolványhoz kapcsolódó jogok és kedvezmények
+## 23. §
 
-## 24. § A pedagógusigazolvány
+## 10.[^109]
 
-a)[^92] az Nkt. 63. § (1) bekezdés j) pontjában szabályozott kedvezmények igénybevételére való jogosultságot,
-
-b) a pedagógusigazolványhoz kapcsolódó, állam által nem garantált (kereskedelmi) kedvezményekre való jogosultságot
-
-[^92]: A 24. § a) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § h) pontja, a 191/2019. (VII. 30.) Korm. rendelet 20. § 2. pontja szerint módosított szöveg.
+[^109]: A 10. alcímet (24. §-t) a 790/2021. (XII. 27.) Korm. rendelet 16. § j) pontja hatályon kívül helyezte.
