@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-11-20-2
 | --- | --- | --- |
 | 2014-01-23 | 2014-11-20-22.1 | 11/2014. (I. 22.) Korm. rendelet |
 | 2015-12-25 | 2014-11-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-01 | 2014-11-20-22.3 | 238/2022. (VI. 30.) Korm. rendelet |
