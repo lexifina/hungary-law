@@ -1,4 +1,4 @@
-## 4/A. [^38] A Kincstár Gazdaságfejlesztési és Innovációs Operatív Program egyes, éves fejlesztési keretében meghatározott pályázati felhívásaihoz kapcsolódó, kedvezményezettként ellátandó feladatait érintő rendelkezések
+## 4/A. [^45] A Kincstár Gazdaságfejlesztési és Innovációs Operatív Program egyes, éves fejlesztési keretében meghatározott pályázati felhívásaihoz kapcsolódó, kedvezményezettként ellátandó feladatait érintő rendelkezések
 
 18/A. § (1) A Kormány a Kincstárt továbbadott támogatást kihelyező szervként jelöli ki a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretében meghatározott egyes pályázati felhívásaihoz kapcsolódó, kedvezményezettként ellátandó feladatai kapcsán.
 
@@ -14,7 +14,7 @@ d) a támogatások odaítélésével és felhasználásával kapcsolatban meghoz
 
 összefüggő feladatokat.
 
-(3)[^39]
+(3)[^46]
 
-[^38]: A 4/A. alcímet (18/A. §-t) a 310/2018. (XII. 27.) Korm. rendelet 38. §-a iktatta be.
-[^39]: A 18/A. § (3) bekezdését a 482/2021. (VIII. 13.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^45]: A 4/A. alcímet (18/A. §-t) a 310/2018. (XII. 27.) Korm. rendelet 38. §-a iktatta be.
+[^46]: A 18/A. § (3) bekezdését a 482/2021. (VIII. 13.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.

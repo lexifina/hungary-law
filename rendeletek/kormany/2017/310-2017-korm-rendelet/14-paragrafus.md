@@ -2,19 +2,21 @@
 
 14. § (1)[^18] A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 36. § (2) bekezdésére figyelemmel a Kincstár felett
 
-a) a nyugellátásokkal, a fogyatékossági támogatással, a vakok személyi járadékával és a bányászati keresetkiegészítéssel kapcsolatos feladatköreivel összefüggésben a szociál- és nyugdíjpolitikáért felelős miniszter;
+a)[^19] a nyugellátásokkal kapcsolatos feladatköreivel összefüggésben a nyugdíjpolitikáért felelős miniszter;
 
-b)[^19] a csecsemőgondozási díj és a gyermekgondozási díj kivételével az egészségbiztosítás pénzbeli ellátásaival, a baleseti táppénzzel és az utazási költségtérítéssel, valamint a TAJ szám képzésével és nyilvántartásával kapcsolatos feladatköreivel összefüggésben az egészségbiztosításért felelős miniszter;
+b)[^20] a csecsemőgondozási díj és a gyermekgondozási díj kivételével az egészségbiztosítás pénzbeli ellátásaival, a baleseti táppénzzel és az utazási költségtérítési támogatással, valamint a TAJ szám képzésével és nyilvántartásával kapcsolatos feladatköreivel összefüggésben az egészségbiztosításért felelős miniszter;
 
-c)[^20] a családtámogatásokkal – ideértve a csecsemőgondozási díjat és a gyermekgondozási díjat is – kapcsolatos feladatköreivel összefüggésben a családpolitikáért felelős miniszter;
+c)[^21] a családtámogatásokkal – ideértve a csecsemőgondozási díjat, a gyermekgondozási díjat, a nagycsaládosok személygépkocsi-szerzési támogatását, a gyermeket nevelő családok otthonfelújítási támogatását és a babaváró támogatást is – kapcsolatos feladatköreivel összefüggésben a családpolitikáért felelős miniszter;
 
-d) a pénzbeli és természetbeni szociális és gyermekvédelmi ellátásokkal, valamint – az állami támogatással kapcsolatos ügyek kivételével – a szociális, gyermekjóléti és gyermekvédelmi szolgáltatásokkal kapcsolatos feladatköreivel összefüggésben a szociál- és nyugdíjpolitikáért, illetve a gyermekek és az ifjúság védelméért felelős miniszter;
+d)[^22] a pénzbeli és természetbeni szociális és gyermekvédelmi ellátásokkal, valamint – az állami támogatással kapcsolatos ügyek kivételével – a szociális, gyermekjóléti és gyermekvédelmi szolgáltatásokkal kapcsolatos feladatköreivel összefüggésben a szociálpolitikáért, illetve a gyermekek és az ifjúság védelméért felelős miniszter;
 
 e) a nagycsaládosok által igénybe vehető gázdíjkedvezménnyel kapcsolatos feladatköreivel összefüggésben az energiapolitikáért felelős miniszter
 
+f)[^23] a fogyatékossági támogatással, a vakok személyi járadékával, a rokkantsági járadékkal, a bányászati keresetkiegészítéssel és a bányászok egészségkárosodási járadékával kapcsolatos feladatköreivel összefüggésben a szociálpolitikáért felelős miniszter
+
 gyakorolja az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket, továbbá ellátja az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti szerv részére meghatározott feladatokat.
 
-(2)[^21] A Kincstár az (1) bekezdésben meghatározott ellátásokkal és feladatokkal kapcsolatos ügyekben közreműködik a kormányrendeletben szakmai irányító miniszterként kijelölt miniszternek (a továbbiakban: szakmai irányító miniszter) a fővárosi és megyei kormányhivatalok törvényességi és szakszerűségi ellenőrzésével kapcsolatos feladatellátásában, továbbá a szakmai irányító miniszter – a fővárosi és megyei kormányhivatalokkal összefüggő, az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköreivel kapcsolatos – intézkedéseinek és döntéseinek előkészítésében.
+(2)[^24] A Kincstár az (1) bekezdésben meghatározott ellátásokkal és feladatokkal kapcsolatos ügyekben közreműködik a kormányrendeletben szakmai irányító miniszterként kijelölt miniszternek (a továbbiakban: szakmai irányító miniszter) a fővárosi és megyei kormányhivatalok törvényességi és szakszerűségi ellenőrzésével kapcsolatos feladatellátásában, továbbá a szakmai irányító miniszter – a fővárosi és megyei kormányhivatalokkal összefüggő, az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköreivel kapcsolatos – intézkedéseinek és döntéseinek előkészítésében.
 
 (3) A Kincstár központi szerve az (1) bekezdésben meghatározott ellátásokkal kapcsolatban
 
@@ -26,13 +28,13 @@ c) gondoskodik azok megállapításához, folyósításához szükséges adatok 
 
 d) biztosítja a nem a Nyugdíjbiztosítási Alapból finanszírozott ellátások fedezetének elszámolásával, valamint az általa folyósított egyéb ellátások megállapításával, folyósításával kapcsolatos működési költségek megtérítésével összefüggő feladatok ellátását;
 
-e) működteti és fejleszti a nyugdíjbiztosításnak, a családtámogatásoknak, az egészségbiztosítás pénzbeli ellátásainak, a baleseti táppénznek és az utazási költségtérítésnek a felügyeleti, költségvetési, szakmai ellenőrzési, belső ellenőrzési és központi nyilvántartási rendszerét;
+e)[^25] működteti és fejleszti a nyugdíjbiztosításnak, a családtámogatásoknak, az egészségbiztosítás pénzbeli ellátásainak, a baleseti táppénznek és az utazási költségtérítési támogatásnak a felügyeleti, költségvetési, szakmai ellenőrzési, belső ellenőrzési és központi nyilvántartási rendszerét;
 
 f) működteti és fejleszti a szakmai feladatok ellátásához szükséges, illetve jogszabály által a feladat- és hatáskörébe tartozó egyéb informatikai rendszereket, vezeti a jogszabályban meghatározott nyilvántartásokat, meghatározza a szakmai informatikai rendszerek követelményeit, gondoskodik a hivatalos statisztikai adatok gyűjtéséről és közzétételéről;
 
 g) felügyeli a fővárosi és megyei kormányhivatalok, valamint a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet 5/D. §-a szerinti szervek kifizetőhelyeinek tevékenységét, továbbá a fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári feladatai keretében ellátott foglalkoztatók és a kifizetőhelyek felügyeletével kapcsolatos feladatok ellátását;
 
-h)[^22] közreműködik a fővárosi és megyei kormányhivatalok az (1) bekezdés szerinti feladatkörökkel kapcsolatos jogalkalmazói feladatellátásának támogatására szolgáló módszertani útmutatók, szakmai eljárásrendek, szabályzatok és körlevelek kiadásában, meghatározza és rendszeresíti az alkalmazandó nyomtatványokat, iratmintákat, valamint gondoskodik a tájékoztatásról és az igényérvényesítést segítő szolgáltatások fejlesztéséről;
+h)[^26] közreműködik a fővárosi és megyei kormányhivatalok az (1) bekezdés szerinti feladatkörökkel kapcsolatos jogalkalmazói feladatellátásának támogatására szolgáló módszertani útmutatók, szakmai eljárásrendek, szabályzatok és körlevelek kiadásában, meghatározza és rendszeresíti az alkalmazandó nyomtatványokat, iratmintákat, valamint gondoskodik a tájékoztatásról és az igényérvényesítést segítő szolgáltatások fejlesztéséről;
 
 i) közreműködik a nemzetközi szerződések előkészítésében és végrehajtásában, kapcsolatot tart fenn a kijelölt illetékes teherviselővel, illetve szervekkel, végzi az európai uniós tagságból és a szociális biztonsági, szociálpolitikai tárgyú nemzetközi egyezmények végrehajtása során adódó koordinációs feladatokat, továbbá részt vesz az európai uniós szakbizottságok és nemzetközi szervezetek szakmai munkájában;
 
@@ -44,14 +46,21 @@ k) gondoskodik a vezetők és ügyintézők – ideértve a kifizetőhelyek ügy
 
 a) a nyugdíjbiztosítási igazgatási szervek eljárásaiban keletkezett küldemények központilag történő érkeztetésével, digitalizálásával, iktatásával és kézbesítésével, valamint ezen ügyekben az elektronikus aláírással kiadmányozott döntések központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat;
 
-b)[^23] a családtámogatási ellátásokkal, a fogyatékossági támogatással és a vakok személyi járadékával kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével, digitalizálásával, valamint ezen ügyekben az elektronikus aláírással kiadmányozott döntések központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat;
+b)[^27] a családtámogatási ellátásokkal, a fogyatékossági támogatással és a vakok személyi járadékával kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével, digitalizálásával, valamint ezen ügyekben az elektronikus aláírással kiadmányozott döntések központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat;
 
-c)[^24] a bányászati keresetkiegészítéssel és a nagycsaládosok által igénybe vehető gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével kapcsolatos feladatokat.
+c)[^28] a bányászati keresetkiegészítéssel és a nagycsaládosok által igénybe vehető gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével kapcsolatos feladatokat.
+
+d)[^29] az egészségbiztosítási szervként eljáró fővárosi és megyei kormányhivatalok utazási költségtérítési támogatással kapcsolatos eljárásaiban az elektronikus aláírással kiadmányozott döntések központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat.
 
 [^18]: A 14. § (1) bekezdés nyitó szövegrésze a 282/2019. (XI. 27.) Korm. rendelet 27. § 3. pontja, a 445/2020. (X. 1.) Korm. rendelet 23. § 2. pontja, záró szövegrésze a 445/2020. (X. 1.) Korm. rendelet 23. § 3. pontja szerint módosított szöveg.
-[^19]: A 14. § (1) bekezdés b) pontja a 444/2020. (IX. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^20]: A 14. § (1) bekezdés c) pontja a 444/2020. (IX. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^21]: A 14. § (2) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 8. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^22]: A 14. § (3) bekezdés h) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^23]: A 14. § (4) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^24]: A 14. § (4) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^19]: A 14. § (1) bekezdés a) pontja a 238/2022. (VI. 30.) Korm. rendelet 171. § (1) bekezdésével megállapított szöveg.
+[^20]: A 14. § (1) bekezdés b) pontja a 444/2020. (IX. 30.) Korm. rendelet 7. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 173. § a) pontja szerint módosított szöveg.
+[^21]: A 14. § (1) bekezdés c) pontja a 444/2020. (IX. 30.) Korm. rendelet 7. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 173. § b) pontja szerint módosított szöveg.
+[^22]: A 14. § (1) bekezdés d) pontja a 238/2022. (VI. 30.) Korm. rendelet 173. § c) pontja szerint módosított szöveg.
+[^23]: A 14. § (1) bekezdés f) pontját a 238/2022. (VI. 30.) Korm. rendelet 171. § (2) bekezdése iktatta be.
+[^24]: A 14. § (2) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 8. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^25]: A 14. § (3) bekezdés e) pontja a 238/2022. (VI. 30.) Korm. rendelet 173. § d) pontja szerint módosított szöveg.
+[^26]: A 14. § (3) bekezdés h) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^27]: A 14. § (4) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^28]: A 14. § (4) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^29]: A 14. § (4) bekezdés d) pontját a 238/2022. (VI. 30.) Korm. rendelet 172. §-a iktatta be.
