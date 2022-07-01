@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-181-00-00
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2011-181-00-00.28 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2011-181-00-00.29 |
 | 2021-07-01 | 2021. évi XLIX. törvény | 2011-181-00-00.30 |
+| 2022-07-01 | 2021. évi LXIV. törvény | 2011-181-00-00.31 |

@@ -1,6 +1,6 @@
 ## „304. § Az Art. 47. §-a az alábbi (8) bekezdéssel egészül ki:
 
-## „(8) Az e § (1)–(6) bekezdéseiben foglalt kötelezettség az iratok eredeti példányára, vagy – ha azt jogszabály nem zárja ki – eredeti példány hiányában a külön jogszabályban előírt módon, elektronikus úton előállított hiteles másolatára vonatkozik. Az adóigazgatási eljárásban az irat eredeti példánya – ha annak megőrzését jogszabály nem írja elő, és adózó azzal nem rendelkezik – nem kérhető.””
+## „(8) Az e § (1)–(6) bekezdéseiben foglalt kötelezettség az iratok eredeti példányára, vagy – ha azt jogszabály nem zárja ki – eredeti példány hiányában a külön jogszabályban előírt módon, elektronikus úton előállított hiteles másolatára vonatkozik. Az adóigazgatási eljárásban az irat eredeti példánya – ha annak megőrzését jogszabály nem írja elő, és adózó azzal nem rendelkezik – nem kérhető.
 
 ## (4) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 359. §-ával megállapított Art. 189. § (13) bekezdése a következő szöveggel és ezzel egyidejűleg az Art. 189. §-a a következő (14) bekezdéssel kiegészülve lép hatályba:
 
@@ -78,4 +78,4 @@
 
 ## (17) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló CLVI. törvény 11. számú melléklet 2. pontjával megállapított Art. 2. számú melléklet I/Határidők/2. pont b) alpontjában a „ha az adózó a kérelem benyújtását megelőző két évben” szövegrész helyett a „ha az adózó esetében az alábbi feltételek bármelyike érvényesül” szövegrésszel, illetve az „az adószám felfüggesztés hatálya alatt állt vagy adószámát a felfüggesztést követően törölték, vagy” szövegrész helyett az „az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,” szövegrésszel lép hatályba.”
 
-### 122–123. §
+### 122. §
