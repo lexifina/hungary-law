@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-160-20-
 | --- | --- | --- |
 | 2007-06-28 | 2007-160-20-22.1 | 160/2007. (VI. 27.) Korm. rendelet |
 | 2012-03-12 | 2007-160-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-01 | 2007-160-20-22.3 | 238/2022. (VI. 30.) Korm. rendelet |
