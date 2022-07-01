@@ -24,13 +24,13 @@ d)[^1] a c) pont szerinti feladatkörrel rendelkező miniszter hiányában, vagy
 
 (6) Az atomenergia békés célú alkalmazásával összefüggő nukleáris biztonságot, nukleáris védettséget és a nukleáris biztosítéki területet érintő beszerzések esetében a kérelemhez az Országos Atomenergia Hivatal szakmai véleményét is csatolni kell, amelyben az Országos Atomenergia Hivatal az ajánlatkérő erre irányuló megkeresésének kézhezvételétől számított 8 napon belül nyilatkozik arról, hogy a beszerzés érinti-e a nukleáris biztonságot.
 
-(7)[^2] Ha az 1. § szerinti, Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést nemzetbiztonsági szolgálat – ide nem értve a Terrorelhárítási Információs és Bűnügyi Elemző Központot – kívánja megvalósítani, akkor külön szakmai állásfoglalást nem kell beszereznie, hanem a (4) és (5) bekezdésben meghatározott körülményeket a mentesítési kérelemben ismerteti.
+(7)[^2] Ha az 1. § szerinti, Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést nemzetbiztonsági szolgálat kívánja megvalósítani, akkor külön szakmai állásfoglalást nem kell beszereznie, hanem a (4) és (5) bekezdésben meghatározott körülményeket a mentesítési kérelemben ismerteti.
 
 (8)[^3] A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet [a továbbiakban: 329/2019. (XII. 20.) Korm. rendelet] hatálya alá tartozó beszerzés esetén a kérelemhez a 329/2019. (XII. 20.) Korm. rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv (a továbbiakban: VBÜ) beszerzés megvalósításának tervezett módjára vonatkozó szakmai véleményét is csatolni kell. A VBÜ az erre irányuló megkeresés kézhezvételétől és a beszerzési igény 329/2019. (XII. 20.) Korm. rendelet 6. § (1) bekezdés b) vagy c) pontja szerinti megküldésétől számított 5 munkanapon belül küldi meg szakmai véleményét.
 
 (9)[^4] Ha a 2. § (1) bekezdése szerinti mentesítési kérelmet a VBÜ nyújtja be az előterjesztő miniszterhez, akkor a VBÜ külön szakmai véleményét nem kell beszerezni, hanem a (8) bekezdésében meghatározott körülményeket a mentesítési kérelemben ismerteti.
 
 [^1]: A 2. § (1) bekezdés d) pontja a 101/2018. (VI. 11.) Korm. rendelet 35. §-a szerint módosított szöveg.
-[^2]: A 2. § (7) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 2. § (7) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 2. §-a, a 239/2022. (VI. 30.) Korm. rendelet 28. §-a szerint módosított szöveg.
 [^3]: A 2. § (8) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 20. §-a iktatta be, szövege a 649/2020. (XII. 23.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (9) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be.
