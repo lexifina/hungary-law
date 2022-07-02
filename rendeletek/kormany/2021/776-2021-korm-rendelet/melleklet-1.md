@@ -1,6 +1,6 @@
-## 20. §[^39]
+## 20. §[^20]
 
-1. melléklet a 776/2021. (XII. 23.) Korm. rendelethez[^40]
+1. melléklet a 776/2021. (XII. 23.) Korm. rendelethez[^21]
 
-[^39]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
