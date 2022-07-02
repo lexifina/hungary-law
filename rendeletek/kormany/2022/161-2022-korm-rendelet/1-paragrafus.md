@@ -40,7 +40,7 @@
 
 20. azt a honvédek jogállásáról szóló törvény szerinti kiegészítő rokkantsági támogatást,
 
-21.[^1] azt a honvédek jogállásáról szóló törvény szerinti, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti árvák kiegészítő támogatását,
+21. [^2] azt a honvédek jogállásáról szóló törvény szerinti, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti árvák kiegészítő támogatását,
 
 22. azt a honvédek jogállásáról szóló törvény szerinti, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti kiegészítő hozzátartozói támogatást,
 
@@ -76,4 +76,4 @@ d) bányászok egészségkárosodási járadékának
 
 (5) A megállapítás időpontjától kezdődően az (1) bekezdésben foglaltak szerint kell emelni a 2021. december 31-ét követően megállapított hozzátartozói nyugellátást, ha a kiszámításának alapja az elhunyt jogszerző 2022. január 1-jét megelőző időponttól megállapított, az (1) bekezdés 1., 6–11. vagy 18. pontjában meghatározott saját jogú ellátása.
 
-[^1]: Az 1. § (1) bekezdés 21. pontja a 195/2022. (V. 27.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 21. pontja a 195/2022. (V. 27.) Korm. rendelet 28. §-a szerint módosított szöveg.
