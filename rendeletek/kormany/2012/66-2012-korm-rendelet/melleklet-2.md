@@ -256,6 +256,8 @@
 
 | 125. | cyclopropyfentanyl (ciklopropil-fentanil) | N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopropanecarboxamide |
 
+| 126. | isotonitazene | N,N-diethyl-2-[(4-(1-methylethoxy)phenyl) methyl]-5-nitro-1H-benzimidazole-1-ethanamine |
+
 ## – és az ebben a jegyzékben felsorolt kábítószerek izomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – valamint az ebben a jegyzékben felsorolt kábítószerek észterei és éterei, amennyiben ilyen észterek és éterek előfordulnak, kivéve, ha azok egy másik jegyzékben szerepelnek;
@@ -604,7 +606,7 @@
 
 | 121 | EG-018 | (naphthalen-1-yl)(9-pentyl-9H-carbazol-3-yl)-methanone |
 
-| 122. | isotonitazene | N,N-diethyl-2-[[4-(1-methylethoxy)phenyl] methyl]-5-nitro-1H-benzimidazole-1-ethanamine |
+| 122. |  |  |
 
 | 123 |  |  |
 

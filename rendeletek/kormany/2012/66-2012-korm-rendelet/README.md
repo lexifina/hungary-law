@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-66-20-2
 | 2021-06-03 | 2012-66-20-22.32 | 232/2021. (V. 6.) Korm. rendelet |
 | 2021-11-25 | 2012-66-20-22.33 | 623/2021. (XI. 10.) Korm. rendelet |
 | 2022-01-31 | 2012-66-20-22.34 | 724/2021. (XII. 20.) Korm. rendelet |
+| 2022-07-02 | 2012-66-20-22.35 | 308/2012. (XI. 6.) Korm. rendelet |
