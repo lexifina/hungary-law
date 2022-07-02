@@ -1,1 +1,3 @@
-## „(2b) A megújuló energiaforrásból származó villamos energia termelési támogatás korlátairól és a prémium típusú támogatásra irányuló pályázati eljárásról szóló 62/2016. (XII. 28.) NFM rendelet szerinti pályázati eljárás keretében megállapított zöld prémium típusú támogatási jogosultság jogosultjának rendszeres adatszolgáltatási kötelezettsége a 46. melléklet vonatkozásában a zöld prémium típusú támogatási jogosultságot megállapító határozat véglegessé válásának napján kezdődik.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
