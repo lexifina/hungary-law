@@ -1,7 +1,3 @@
-16. § A tenyésznyúl tenyésztésbe állításának mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 54/2014. (IV. 29.) VM rendelet
+16. §[^15]
 
-a) 2. § (2) bekezdésében a „3200 forint” szövegrész helyébe a „2000 forint” szöveg,
-
-b) 3. § (2) bekezdésében a „100 millió forint” szövegrész helyébe a „150 millió forint” szöveg
-
-lép.
+[^15]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
