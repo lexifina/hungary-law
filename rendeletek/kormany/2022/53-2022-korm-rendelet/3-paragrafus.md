@@ -1,3 +1,3 @@
-## 2. § A fizetésképtelenségi nyilvántartás létrehozásával kapcsolatos feladatokról szóló 75/2018. (IV. 20.) Korm. rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^4]
 
-## „(1) A fizetésképtelenségi nyilvántartásba történő adatszolgáltatással és az adatváltozások bejelentésével összefüggő feladatokat a csődeljárásban, a felszámolási eljárásban, illetve a nyilvános szerkezetátalakítási eljárásban eljáró bíróság látja el azokra az adatokra vonatkozóan, amelyek az eljárásban hozott és a Cégközlönyben, illetve a civil szervezetek tekintetében az országos névjegyzék erre szolgáló felületén a bíróságok központi internetes oldalán közzétételre kerülő bírósági végzésekben szerepelnek. Az adatszolgáltatást a bíróság a fizetésképtelenségi nyilvántartó adatfeldolgozója részére a közzétételre kerülő végzés elektronikus úton történő megküldésével teljesíti.”
+[^4]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
