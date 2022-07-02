@@ -1,1 +1,3 @@
-## 20. § A METÁR rendelet 6. melléklet 7. pontjában a „Pi – az adott (i) elszámolási mérési időegységben a másnapi hazai szervezett villamosenergia-piacon kialakult órás ár (EUR/MWh) a Magyar Nemzeti Bank adott hónapra közzétett napi középárfolyamainak számtani átlaga alapján átváltva, Ft/kWh.” szövegrész helyébe a „Pi – az adott (i) elszámolási mérési időegységre a hazai szervezett villamosenergia-piaci engedélyes által közzétett, napon belül kialakult órás és negyedórás árak Kereskedelmi Szabályzatban meghatározott módon számított átlaga – napon belüli árak hiányában a másnapi hazai szervezett villamosenergia-piacon kialakult órás ár – (EUR/MWh) a Magyar Nemzeti Bank adott napra – munkaszüneti nap esetében a megelőző munkanapra – közzétett napi középárfolyama alapján átváltva, Ft/kWh.” szöveg lép.
+## 20. §[^20]
+
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
