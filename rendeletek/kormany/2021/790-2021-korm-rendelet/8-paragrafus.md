@@ -1,9 +1,3 @@
-## 7. § Az R1. 8. §-a helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „8. § A diákigazolványokról vezetett nyilvántartás
-
-## a) a közreműködő intézmények adatait,
-
-## b) az érvényesítő matricák megrendelésére és a megrendelések teljesítésére vonatkozó adatokat
-
-## tartalmazza.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

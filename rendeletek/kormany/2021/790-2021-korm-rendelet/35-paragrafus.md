@@ -1,5 +1,5 @@
-## 34. §[^22]
+## 34. §[^35]
 
 ## 7. A nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény egyes rendelkezéseinek végrehajtásáról, valamint a tankönyvellátásban közreműködők kijelöléséről szóló 501/2013. (XII. 29.) Korm. rendelet módosítása
 
-[^22]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
