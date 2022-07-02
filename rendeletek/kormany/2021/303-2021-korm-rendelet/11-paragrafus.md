@@ -1,1 +1,3 @@
-## „(8) Ha a gépkocsi az 53. § (2) bekezdés a) pontja vagy b) pont ba) alpontja szerinti állandó rendszámtáblával van ellátva, a (2) bekezdés h) pontjában meghatározott különleges rendszámtábla kizárólag az 53. § (2) bekezdés b) pont ba) alpontja szerinti rendszámtáblaként kerül előállításra.”
+## 10. §[^11]
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

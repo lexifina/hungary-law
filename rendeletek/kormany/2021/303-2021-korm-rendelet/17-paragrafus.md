@@ -1,1 +1,3 @@
-## „(11) A forgalmi engedély, az ideiglenes forgalomban tartási engedély eltulajdonításának bejelentése esetén a rendőrségi feljelentést, az okmány elvesztésének, megsemmisülésének vagy megtalálásának bejelentése esetén az erről felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Nyilvántartónak továbbítja.”
+## 16. §[^17]
+
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
