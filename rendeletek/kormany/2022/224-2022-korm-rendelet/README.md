@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-224-20-
 | 2022-06-23 | 2022-224-20-22.1 | 224/2022. (VI. 22.) Korm. rendelet |
 | 2022-06-24 | 2022-224-20-22.2 | 2010: CXXX. törvény |
 | 2022-07-01 | 2022-224-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-02 | 2022-224-20-22.4 | 2010: CXXX. törvény |
