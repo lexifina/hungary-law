@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Visegrádi Szabadalmi Intézet közötti Székhely-megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
