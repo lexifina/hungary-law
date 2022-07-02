@@ -1,1 +1,3 @@
-## 2. § A természetes személyek adósságrendezési eljárása kezdeményezéséhez benyújtandó kérelemről és az ahhoz csatolandó űrlapokról, dokumentumokról és nyilatkozatokról szóló 15/2015. (VIII. 28.) IM rendelet 1. melléklete az 1. melléklet szerint módosul.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

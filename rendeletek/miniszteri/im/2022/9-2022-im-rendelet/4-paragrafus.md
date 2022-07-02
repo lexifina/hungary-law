@@ -1,1 +1,3 @@
-## 3. § A természetes személyek adósságrendezési eljárása kezdeményezéséhez benyújtandó kérelemről és az ahhoz csatolandó űrlapokról, dokumentumokról és nyilatkozatokról szóló 15/2015. (VIII. 28.) IM rendelet 1. § (2) bekezdésében az „egy eredeti és két másolati példányban – elektronikusan kitöltött űrlap esetén három nyomtatott példányban – kell benyújtani” szövegrész helyébe az „egy eredeti példányban kell benyújtani” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

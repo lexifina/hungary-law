@@ -1,1 +1,3 @@
-## 4. § Hatályát veszti a természetes személyek adósságrendezési eljárása kezdeményezéséhez benyújtandó kérelemről és az ahhoz csatolandó űrlapokról, dokumentumokról és nyilatkozatokról szóló 15/2015. (VIII. 28.) IM rendelet 5. § (3) bekezdése és 7. §-a.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
