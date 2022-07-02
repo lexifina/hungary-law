@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-130-00-00
 | 2022-06-01 | 2022. évi V. törvény | 2021-130-00-00.5 |
 | 2022-06-02 | 2010. évi CXXX. törvény | 2021-130-00-00.6 |
 | 2022-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-130-00-00.7 |
+| 2022-07-02 | 494/2022. (XII. 6.) Korm. rendelet | 2021-130-00-00.8 |
