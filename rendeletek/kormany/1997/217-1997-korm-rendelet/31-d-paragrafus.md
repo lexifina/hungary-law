@@ -1,8 +1,8 @@
-31/D. §[^488] (1)[^489] A biztosított a méltányossági kérelmet a foglalkoztatójához nyújthatja be. A táppénz folyósítására vonatkozó kérelemhez csatolni kell az orvosi igazolást és javaslatot, az orvosi szakvéleményt a keresőképtelenség várható időtartamáról, valamint az Ebtv. 50. § (3) bekezdésében foglalt méltányosságból megállapítható gyermekápolási táppénzt, kivéve a méltányosságból igényelt pénzbeli ellátás tekintetében a kifizetőhely vagy a kormányhivatal azon végleges döntését, hogy a kérelmező az ellátásra nem jogosult. A foglalkoztató a biztosított méltányossági kérelmét a kérelem kézhezvételétől számított 5 napon belül továbbítja a székhelye szerint illetékes kormányhivatalhoz.
+31/D. §[^491] (1)[^492] A biztosított a méltányossági kérelmet a foglalkoztatójához nyújthatja be. A táppénz folyósítására vonatkozó kérelemhez csatolni kell az orvosi igazolást és javaslatot, az orvosi szakvéleményt a keresőképtelenség várható időtartamáról, valamint az Ebtv. 50. § (3) bekezdésében foglalt méltányosságból megállapítható gyermekápolási táppénzt, kivéve a méltányosságból igényelt pénzbeli ellátás tekintetében a kifizetőhely vagy a kormányhivatal azon végleges döntését, hogy a kérelmező az ellátásra nem jogosult. A foglalkoztató a biztosított méltányossági kérelmét a kérelem kézhezvételétől számított 5 napon belül továbbítja a székhelye szerint illetékes kormányhivatalhoz.
 
-(2)[^490] A foglalkoztató az Ebtv. 50. § (2) és (3) bekezdése szerinti esetben a biztosított méltányossági kérelmét, a foglalkoztató rendelkezésére bocsátott valamennyi dokumentumot, valamint – ha a foglalkoztató társadalombiztosítási kifizetőhelyet működtet – a Központ által rendszeresített nyomtatványt kitöltve, a kérelem benyújtásától számított 5 napon belül megküldi a székhelye szerint illetékes kormányhivatal részére.
+(2)[^493] A foglalkoztató az Ebtv. 50. § (2) és (3) bekezdése szerinti esetben a biztosított méltányossági kérelmét, a foglalkoztató rendelkezésére bocsátott valamennyi dokumentumot, valamint – ha a foglalkoztató társadalombiztosítási kifizetőhelyet működtet – a Központ által rendszeresített nyomtatványt kitöltve, a kérelem benyújtásától számított 5 napon belül megküldi a székhelye szerint illetékes kormányhivatal részére.
 
-(3)[^491] A méltányosságból megállapított pénzbeli ellátásról szóló döntést közölni kell a biztosítottal és a foglalkoztatóval.
+(3)[^494] A méltányosságból megállapított pénzbeli ellátásról szóló döntést közölni kell a biztosítottal és a foglalkoztatóval.
 
 (4) A méltányossági kérelmek elbírálásánál figyelemmel kell lenni a biztosított
 
@@ -12,12 +12,12 @@ b) 30 napnál hosszabb megszakítást megelőző biztosítási idejének tartam�
 
 c) jövedelmi viszonyára és egyéb méltánylást érdemlő körülményeire.
 
-(5)[^492] A táppénz időtartamának meghosszabbítása iránti kérelem kizárólag a 2. § és a 3. § alapján beutalásra jogosult orvos által kiadott igazolásban foglaltak figyelembevételével engedélyezhető.
+(5)[^495] A táppénz időtartamának meghosszabbítása iránti kérelem kizárólag a 2. § és a 3. § alapján beutalásra jogosult orvos által kiadott igazolásban foglaltak figyelembevételével engedélyezhető.
 
 (6) A táppénzt méltányosságból legkorábban – a 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása vagy kórházi tartózkodása címén méltányosságból megállapítható táppénz esetét kivéve – az igényjogosultság megszűnését követő naptól lehet megállapítani.
 
-[^488]: A Vhr. 31/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^489]: A Vhr. 31/D. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^490]: A Vhr. 31/D. § (2) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 9. §-ával megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^491]: A Vhr. 31/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 28. § (11) bekezdés b) pontja hatályon kívül helyezte, újonnan az 507/2017. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^492]: A Vhr. 31/D. § (5) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^491]: A Vhr. 31/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^492]: A Vhr. 31/D. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^493]: A Vhr. 31/D. § (2) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 9. §-ával megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^494]: A Vhr. 31/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 28. § (11) bekezdés b) pontja hatályon kívül helyezte, újonnan az 507/2017. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^495]: A Vhr. 31/D. § (5) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
