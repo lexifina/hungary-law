@@ -6,10 +6,11 @@
 
 a)[^7]
 
-b) a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet V. és VI. fejezete,
+b)[^8]
 
-c)[^8]
+c)[^9]
 
 [^6]: A 78/A. §-t a 2/2022. (I. 7.) Korm. rendelet 8. §-a iktatta be.
 [^7]: A 79. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 79. § c) pontja a 77. § (3) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^8]: A 79. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 79. § c) pontja a 77. § (3) bekezdése alapján 2027. július 1-jén lép hatályba.
