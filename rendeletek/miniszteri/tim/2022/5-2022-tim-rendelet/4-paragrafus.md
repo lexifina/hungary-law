@@ -1,3 +1,5 @@
-## 3. § A földgáz biztonsági készlet mértékéről szóló 59/2021. (XII. 15.) ITM rendelet 3. § (1) bekezdésében az „október” szövegrész helyébe a „november” szöveg lép.
+## 3. §[^4]
 
 ## 3. Záró rendelkezések
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
