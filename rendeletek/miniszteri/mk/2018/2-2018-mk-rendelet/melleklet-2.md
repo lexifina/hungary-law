@@ -38,7 +38,11 @@
 
 | 16. | 377062 |  |  | 21/3/2 A Magyar Turisztikai Ügynökség Zrt. tulajdonosi joggyakorlása alá tartozó társaságok támogatása | Az előirányzat célja az MTÜ Zrt. tulajdonosi joggyakorlása alá tartozó gazdasági társaságok tulajdonosi támogatásának finanszírozása. | Az MTÜ Zrt. tulajdonosi joggyakorlása alá tartozó társaságok. | Az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatási szerződésben vagy támogatói okiratban foglaltaknak megfelelően. | Előleg folyósítható. | Részletekben vagy egy összegben, idő- vagy teljesítésarányosan. | Támogatási szerződés vagy támogatói okirat szerint. | Az Ávr. 84. § (2) bekezdése szerint lehetséges biztosítékok. | MTÜ Zrt. | – | – |
 
-2. melléklet a 2/2018. (XII. 28.) MK rendelethez[^73]
+| 14a. |  | 21/1 A Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
+
+| 14b. | 399040 |  |  | 21/1/1 A Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai | Az előirányzat fedezetet nyújt a Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlása alá tartozó gazdasági társaságok 1) tulajdonosi támogatására; 2) tőkeemelésének és pótbefizetésének finanszírozására. | A Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlása alá tartozó gazdasági társaságok. | Az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatási szerződésben vagy támogatói okiratban foglaltaknak megfelelően. | Előleg folyósítható. | Tulajdonosi támogatás esetén egy összegben, vagy részletekben, idő- vagy teljesítésarányosan; tőkeemelés, pótbefizetés esetén a tulajdonosi joggyakorló határozata alapján. | Tulajdonosi támogatás esetén a támogatási szerződés vagy támogatói okirat szerint; pótbefizetés esetén szerződés szerint. | Az Ávr. 84. § (2) bekezdése szerinti lehetséges biztosítékok. | – | – | – |
+
+2. melléklet a 2/2018. (XII. 28.) MK rendelethez[^75]
 
 XLVII. Gazdaság-újraindítási Alap fejezet gazdaság újraindítását szolgáló miniszterelnöki kabineti fejezeti kezelésű előirányzatok 2022. évi költségvetési kiadási előirányzatainak feladatterve
 
@@ -58,4 +62,4 @@ XLVII. Gazdaság-újraindítási Alap fejezet gazdaság újraindítását szolg�
 
 | 6. | 387906 |  |  | 2/9/3 Róheim-villa rekonstrukciója | Az előirányzat fedezetet nyújt a Róheim-villa műemlékingatlan felújítására, a köztestület és a Magyar Corvin-lánc Iroda elhelyezésének támogatására. Támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható. Az előirányzat forrást biztosít a felhasználással kapcsolatos kincstári díjak fedezetére is. | Magyar Corvin-lánc Testület, MÁK. | Pályázati rendszeren kívül, kérelem alapján hozott egyedi támogatói döntésben foglaltak szerint kiadott/kötött támogatói okirat vagy támogatási szerződés, az Ávr. 101/A. §-a szerint kiadott támogatói okirat útján. | Előleg folyósítható. | Egy összegben vagy részletekben, időarányosan vagy teljesítésarányo- san történő kifizetéssel. | Támogatási szerződés vagy támogatói okirat szerint. | Az Ávr. 84. § (2) bekezdése szerint lehetséges biztosítékok. | – | – | – |
 
-[^73]: A 2. mellékletet az 1/2021. (III. 3.) MK rendelet 9. § (2) bekezdése iktatta be, szövege az 5/2022. (III. 18.) MK rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^75]: A 2. mellékletet az 1/2021. (III. 3.) MK rendelet 9. § (2) bekezdése iktatta be, szövege az 5/2022. (III. 18.) MK rendelet 4. § (2) bekezdésével megállapított szöveg.

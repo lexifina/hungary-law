@@ -24,6 +24,8 @@
 
 (12)[^62] E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2018. (XII. 28.) MK rendelet címrendi kiegészítéssel összefüggő módosításáról szóló 7/2022. (IV. 29.) MK rendelettel (a továbbiakban: Módr9.) megállapított rendelkezéseit a Módr9. hatálybalépésekor[^63] folyamatban lévő ügyekben is alkalmazni kell.
 
+(13)[^64] E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2018. (XII. 28.) MK rendelet tulajdonosi joggyakorlással kapcsolatos címrendi kiegészítéssel összefüggő módosításáról szóló 10/2022. (VII. 1.) MK rendelettel (a továbbiakban: Módr10.) megállapított rendelkezéseit a Módr10. hatálybalépésekor[^65] folyamatban lévő ügyekben is alkalmazni kell.
+
 [^46]: A 33. § (4) bekezdését a 3/2019. (VIII. 2.) MK rendelet 2. §-a iktatta be.
 [^47]: A hatálybalépés időpontja 2019. augusztus 3.
 [^48]: A 33. § (5) bekezdését a 4/2020. (X. 30.) MK rendelet 6. §-a iktatta be.
@@ -42,3 +44,5 @@
 [^61]: A hatálybalépés időpontja 2022. március 19.
 [^62]: A 33. § (12) bekezdését a 7/2022. (IV. 29.) MK rendelet 1. §-a iktatta be.
 [^63]: A hatálybalépés időpontja 2022. április 30.
+[^64]: A 33. § (13) bekezdését a 10/2022. (VII. 1.) MK rendelet 1. §-a iktatta be.
+[^65]: A hatálybalépés időpontja 2022. július 2.
