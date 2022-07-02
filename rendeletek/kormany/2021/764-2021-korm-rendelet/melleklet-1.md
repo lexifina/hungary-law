@@ -1,3 +1,3 @@
-1. melléklet a 764/2021. (XII. 23.) Korm. rendelethez[^29]
+1. melléklet a 764/2021. (XII. 23.) Korm. rendelethez[^37]
 
-[^29]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 32. §[^28]
+## 32. §[^36]
 
 ## 11. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 29. § (2) és (3) bekezdése és 31. § 2022. augusztus 1-jén lép hatályba.
 
-[^28]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

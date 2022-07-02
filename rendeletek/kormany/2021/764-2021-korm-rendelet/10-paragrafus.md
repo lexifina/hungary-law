@@ -1,1 +1,3 @@
-## „(3) A kézbesítés eredményéről a végrehajtó kiállítja az (EU) 2020/1784 európai parlamenti és tanácsi rendelet 14. cikk (1) bekezdése szerinti igazolást, és közvetlenül küldi meg az áttevő intézménynek, csatolva a kézbesítendő külföldi iratnak a 46/M. § (4) bekezdése alapján magánál tartott másodpéldányát.”
+## 9. §[^11]
+
+[^11]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
