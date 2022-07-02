@@ -1,1 +1,3 @@
-28. § Nem lép hatályba a nyugellátások és egyes más ellátások 2022. július havi kiegészítő emeléséről szóló 161/2022. (IV. 28.) Korm. rendelet 1. § (1) bekezdés 21. pontjában az „a honvédelmi alkalmazottak jogállásáról szóló törvény szerinti,” szövegrész.
+28. §[^13]
+
+[^13]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
