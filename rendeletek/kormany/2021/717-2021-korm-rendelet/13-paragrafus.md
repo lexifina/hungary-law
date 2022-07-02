@@ -1,18 +1,20 @@
 ## 12. §[^15]
 
-## 13. § A 326/2011. (XII. 28.) Korm. rendelet
+## 13. §
 
 a)[^16]
 
-b) 75. § (6) bekezdésében a „meglétéről és sértetlenségéről” szövegrész helyébe a „meglétéről, sértetlenségéről és egyedi sorszámáról” szöveg,
+b)[^17]
 
-c) 75. § (6) bekezdésében az „a forgalmi engedélyen szereplő regisztrációs matrica vonalkódja vagy az ügyfél nyilatkozata” szövegrész helyébe az „ügyfél nyilatkozata” szöveg,
+c)[^18]
 
-d)[^17]
+d)[^19]
 
-e)[^18]
+e)[^20]
 
 [^15]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^16]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 13. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 13. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

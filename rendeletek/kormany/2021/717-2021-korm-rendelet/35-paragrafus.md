@@ -1,4 +1,4 @@
-## 34. §[^85]
+## 34. §[^89]
 
 ## 18. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 14. § (8) és (11) bekezdése, a 16. § (9) bekezdése, a 20. § (12) és (13) bekezdése, valamint a 23. § c) pontja 2023. január 1-jén lép hatályba.
 
-[^85]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

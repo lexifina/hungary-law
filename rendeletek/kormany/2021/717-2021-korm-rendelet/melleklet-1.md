@@ -1,3 +1,3 @@
-1. melléklet a 717/2021. (XII. 20.) Korm. rendelethez[^86]
+1. melléklet a 717/2021. (XII. 20.) Korm. rendelethez[^90]
 
-[^86]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
