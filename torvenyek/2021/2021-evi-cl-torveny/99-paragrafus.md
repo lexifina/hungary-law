@@ -2,7 +2,7 @@
 
 a)
 
-b) 36. § (1) bekezdés e) pontja,
+b)
 
 c)
 
