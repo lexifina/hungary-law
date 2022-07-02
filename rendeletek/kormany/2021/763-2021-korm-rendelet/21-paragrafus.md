@@ -1,3 +1,3 @@
-## 20. § A természetes személyek adósságrendezési eljárásában a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatairól szóló 240/2015. (IX. 8.) Korm. rendelet a következő 29. §-sal egészül ki:
+## 20. §[^7]
 
-## „29. § A 2. § (6) bekezdése és 3. § (6) bekezdése a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (Szerkezetátalakítási és fizetésképtelenségi irányelv), 2019. június 20-i (EU) 2019/1023 európai parlamenti és tanácsi irányelv 29. cikkének való megfelelést szolgálja.”
+[^7]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
