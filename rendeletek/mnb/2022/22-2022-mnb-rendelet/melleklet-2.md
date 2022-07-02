@@ -1,4 +1,4 @@
-2. melléklet a 22/2022. (VI. 11.) MNB rendelethez[^2]
+2. melléklet a 22/2022. (VI. 11.) MNB rendelethez[^5]
 
 ## A jelzáloghitel-finanszírozás megfelelési mutató számításának módja
 
@@ -82,4 +82,4 @@ ZTF: az összesen rendes fedezetként rendelkezésre álló zöld jelzáloghitel
 
 18. Az önálló zálogjog adásvétele, valamint az ennek kapcsán fennálló visszavásárlási vételár esetén a zöld refinanszírozási jelzáloghitelre vonatkozó rendelkezések megfelelően alkalmazandók.
 
-[^2]: A 2. melléklet 12–15. pontja a 4. § (2) bekezdése alapján 2023. október 1-jén lép hatályba.
+[^5]: A 2. melléklet 12–15. pontja a 4. § (2) bekezdése alapján 2023. október 1-jén lép hatályba.
