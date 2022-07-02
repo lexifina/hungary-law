@@ -1,3 +1,5 @@
-## 108. § A devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet 13. § (2a) bekezdésében a „lakásgazdálkodásért és lakáspolitikáért” szövegrész helyébe a „lakáscélú állami támogatásokért” szöveg lép.
+## 108. §[^105]
 
 ## 106. A Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendelet módosítása
+
+[^105]: A 108. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

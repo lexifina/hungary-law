@@ -1,3 +1,5 @@
-## 201. § A „Fényes Okos Intézmények Program” keretében egyes intézményekben történő világításkorszerűsítési feladatok elvégzésére vonatkozó kijelölésről szóló 192/2020. (V. 8.) Korm. rendelet 2. § (1) bekezdésében az „innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) és a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter” szövegrész helyébe a „az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) és az állami beruházásokért felelős miniszter” szöveg lép.
+## 201. §[^185]
 
 ## 186. A Diaszpóra Felsőoktatási Ösztöndíjprogramról, valamint a Diaszpóra Felsőoktatási Ösztöndíjprogram működéséhez szükséges egyes kormányrendeletek módosításáról szóló 203/2020. (V. 14.) Korm. rendelet módosítása
+
+[^185]: A 201. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

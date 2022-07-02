@@ -1,3 +1,5 @@
-## 48. § A Bosznia és Hercegovina Minisztertanácsa, valamint a Magyar Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló Egyezmény kihirdetéséről szóló 154/2007. (VI. 27.) Korm. rendelet 3. § (4) bekezdésében az „az oktatásért felelős miniszter és a kultúráért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.
+## 48. §[^46]
 
 ## 47. A Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya közötti kulturális, oktatási és tudományos együttműködésről szóló Egyezmény kihirdetéséről szóló 155/2007. (VI. 27.) Korm. rendelet módosítása
+
+[^46]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

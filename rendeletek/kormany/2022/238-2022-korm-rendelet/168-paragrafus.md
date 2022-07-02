@@ -1,3 +1,5 @@
-## 167. § A Magyarország Kormánya és Montenegró Kormánya közötti oktatási, kulturális, sport- és ifjúsági együttműködési egyezmény kihirdetéséről szóló 27/2017. (II. 13.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.
+## 167. §[^157]
 
 ## 158. Az „Ösztöndíjprogram Keresztény Fiataloknak” elnevezésű ösztöndíjprogramról és a felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet módosításáról szóló 120/2017. (VI. 1.) Korm. rendelet módosítása
+
+[^157]: A 167. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

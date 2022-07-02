@@ -1,3 +1,5 @@
-## 169. § A Magyarország Kormánya és a Délkelet-ázsiai Nemzetek Szövetsége közötti oktatási együttműködési megállapodás kihirdetéséről szóló 227/2017. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért” szövegrész helyébe az „a felsőoktatásért” szöveg lép.
+## 169. §[^159]
 
 ## 160. A Stipendium Hungaricum ösztöndíjak biztosításáról szóló Megállapodás kihirdetéséről szóló 281/2017. (IX. 22.) Korm. rendelet módosítása
+
+[^159]: A 169. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

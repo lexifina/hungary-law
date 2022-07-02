@@ -1,3 +1,5 @@
-## 21. § A Magyar Köztársaság Kormánya és a Libanoni Köztársaság Kormánya közötti kulturális, felsőoktatási és tudományos együttműködési Egyezmény kihirdetéséről szóló 149/1998. (IX. 18.) Korm. rendelet 3. § (2) bekezdésében az „oktatási területen az oktatásért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter” szöveg lép.
+## 21. §[^19]
 
 ## 20. A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet módosítása
+
+[^19]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

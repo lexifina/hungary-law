@@ -1,3 +1,5 @@
-## 69. § A Magyar Népköztársaság Kormánya és a Panamai Köztársaság Kormánya között Panamavárosban, az 1976. évi október hó 17. napján aláírt kulturális és tudományos együttműködési egyezmény kihirdetéséről szóló 116/2008. (IV. 30.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter, a kultúráért felelős miniszter és az audiovizuális politikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, az audiovizuális feladatok ellátása tekintetében az audiovizuális politikáért felelős miniszter” szöveg lép.
+## 69. §[^67]
 
 ## 68. A Magyar Népköztársaság Kormánya és a Perui Köztársaság Kormánya között a kulturális és tudományos együttműködés tárgyában Budapesten, az 1972. évi május hó 22. napján aláírt egyezmény kihirdetéséről szóló 117/2008. (IV. 30.) Korm. rendelet módosítása
+
+[^67]: A 69. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

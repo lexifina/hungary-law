@@ -1,3 +1,5 @@
-## 72. § A Magyar Népköztársaság Kormánya és a Bolíviai Köztársaság Kormánya között La Pazban, az 1970. évi május hó 15. napján aláírt kulturális és tudományos együttműködési egyezmény kihirdetéséről szóló 120/2008. (V. 9.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.
+## 72. §[^70]
 
 ## 71. A Magyar Népköztársaság és a Francia Köztársaság között Budapesten 1966. július 28-án aláírt kulturális együttműködésről szóló egyezmény kihirdetéséről szóló 121/2008. (V. 9.) Korm. rendelet módosítása
+
+[^70]: A 72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

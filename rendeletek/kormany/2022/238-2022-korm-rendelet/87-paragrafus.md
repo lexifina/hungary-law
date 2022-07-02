@@ -1,5 +1,5 @@
-## 86. § A szépkorúak jubileumi köszöntéséről szóló 255/2008. (X. 21.) Korm. rendelet 3. §-a helyébe a következő rendelkezés lép:
-
-## „3. § A központi költségvetés megtéríti a Magyar Államkincstárnak a szépkorúak jubileumi juttatásának fedezetét és a végrehajtás költségeit.”
+## 86. §[^83]
 
 ## 84. A Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díj alapításáról és adományozásáról szóló 271/2008. (XI. 18.) Korm. rendelet módosítása
+
+[^83]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

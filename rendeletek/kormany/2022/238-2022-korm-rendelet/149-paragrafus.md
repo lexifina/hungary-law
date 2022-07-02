@@ -1,7 +1,5 @@
+## 147–148. §[^139]
+
 ## 140. Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet módosítása
 
-## 149. § Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet
-
-a) 8. melléklet II. részében foglalt táblázat B:5 mezőjében a „lakásgazdálkodásért és lakáspolitikáért” szövegrész helyébe a „lakáscélú állami támogatásokért” szöveg,
-
-b) 8. melléklet II. részében foglalt táblázat B:13 mezőjében a „lakásgazdálkodásért és lakáspolitikáért” szövegrész helyébe a „pénz-, tőke- és biztosítási piac szabályozásért” szöveg
+[^139]: A 147–148. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

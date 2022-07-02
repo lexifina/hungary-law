@@ -1,3 +1,5 @@
-## 217. § A közfinanszírozott járó-, illetve fekvőbeteg-szakellátást nyújtó egészségügyi intézmények minősítési rendszeréről szóló 706/2021. (XII. 15.) Korm. rendelet 1. § (2) bekezdés 7. pontjában az „az Innovációs és Technológiai Minisztérium,” szövegrész helyébe az „a Kulturális és Innovációs Minisztérium,” szöveg lép.
+## 217. §[^199]
 
 ## 200. A Földmegfigyelési Információs Rendszerről szóló törvény végrehajtásáról és a kereskedelmi űrfelvétel beszerzések központosított közbeszerzési rendszeréről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 769/2021. (XII. 23.) Korm. rendelet módosítása
+
+[^199]: A 217. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

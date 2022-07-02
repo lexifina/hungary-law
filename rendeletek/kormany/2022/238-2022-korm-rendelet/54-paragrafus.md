@@ -1,3 +1,5 @@
-## 53. § A Magyar Köztársaság Kormánya és a Macedón Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló Egyezmény kihirdetéséről szóló 160/2007. (VI. 27.) Korm. rendelet 3. § (4) bekezdésében az „az oktatásért felelős miniszter és a kultúráért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.
+## 53. §[^51]
 
 ## 52. A Magyar Köztársaság Kormánya és Mongólia Kormánya között a kultúra, az oktatás, a tudomány és a sport területén történő együttműködésről szóló egyezmény kihirdetéséről szóló 161/2007. (VI. 27.) Korm. rendelet módosítása
+
+[^51]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

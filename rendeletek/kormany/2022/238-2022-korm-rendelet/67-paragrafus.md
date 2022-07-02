@@ -1,3 +1,5 @@
-## 66. § A Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Képviselőháza Végrehajtó Tanácsa között a tudományos, oktatási és kulturális együttműködésről Belgrádban, 1986. március 24-én aláírt egyezmény kihirdetéséről szóló 112/2008. (IV. 30.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter, a kultúráért felelős miniszter és a tudománypolitika koordinációjáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a tudománypolitikai feladatok ellátása tekintetében a tudománypolitika koordinációjáért felelős miniszter” szöveg lép.
+## 66. §[^64]
 
 ## 65. A Magyar Népköztársaság Kormánya és a Líbiai Arab Szocialista Népi Dzsamahirija között Tripoliban, az 1978. március 16-án aláírt kulturális együttműködési egyezmény kihirdetéséről szóló 113/2008. (IV. 30.) Korm. rendelet módosítása
+
+[^64]: A 66. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

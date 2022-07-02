@@ -1,3 +1,5 @@
-## 200. § A Magyarország Kormánya és a Török Köztársaság Kormánya közötti oktatási együttműködési megállapodás kihirdetéséről szóló 75/2020. (III. 31.) Korm. rendelet 5. §-ában az „az oktatásért és a szakképzésért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter” szöveg lép.
+## 200. §[^184]
 
 ## 185. A „Fényes Okos Intézmények Program” keretében egyes intézményekben történő világításkorszerűsítési feladatok elvégzésére vonatkozó kijelölésről szóló 192/2020. (V. 8.) Korm. rendelet módosítása
+
+[^184]: A 200. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

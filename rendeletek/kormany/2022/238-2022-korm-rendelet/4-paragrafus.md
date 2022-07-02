@@ -1,3 +1,5 @@
-## 3. § A Magyar Állami Eötvös Ösztöndíjról szóló 54/1994. (IV. 13.) Korm. rendelet 6. § (3) bekezdés nyitó szövegrészében az „Az oktatásért” szövegrész helyébe az „A felsőoktatásért” szöveg lép.
+## 3. §[^3]
 
 ## 4. A nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet módosítása
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

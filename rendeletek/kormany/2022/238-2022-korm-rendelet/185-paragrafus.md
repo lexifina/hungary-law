@@ -1,3 +1,5 @@
-## 184. § A Magyarország Kormánya és az Üzbég Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről szóló 10/2018. (II. 6.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért felelős miniszter és a kultúráért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.
+## 184. §[^172]
 
 ## 173. A Magyarország Kormánya és a Tádzsik Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről szóló 121/2018. (VII. 10.) Korm. rendelet módosítása
+
+[^172]: A 184. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

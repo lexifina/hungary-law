@@ -1,3 +1,5 @@
-## 75. § A Magyar Népköztársaság Kormánya és az Iráni Császárság Kormánya között Budapesten, az 1968. évi május hó 24. napján aláírt kulturális egyezmény kihirdetéséről szóló 124/2008. (V. 9.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter és a kultúráért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.
+## 75. §[^73]
 
 ## 74. A Magyar Népköztársaság Kormánya és Kuwait Állam Kormánya között Budapesten, 1966. július 27-én aláírt kulturális és tudományos együttműködési egyezmény kihirdetéséről szóló 125/2008. (V. 9.) Korm. rendelet módosítása
+
+[^73]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

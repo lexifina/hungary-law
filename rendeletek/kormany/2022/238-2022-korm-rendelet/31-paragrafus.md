@@ -1,3 +1,5 @@
-## 30. § A Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet 2. § (3) bekezdésében az „az oktatásért” szövegrész helyébe az „a felsőoktatásért” szöveg lép.
+## 30. §[^28]
 
 ## 29. Az önkéntes kölcsönös nyugdíjpénztárak befektetési és gazdálkodási szabályairól szóló 281/2001. (XII. 26.) Korm. rendelet módosítása
+
+[^28]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

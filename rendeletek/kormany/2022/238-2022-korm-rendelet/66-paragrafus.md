@@ -1,3 +1,5 @@
-## 65. § A Magyar Népköztársaság Kormánya és az Iraki Köztársaság Kormánya között Budapesten, 1959. évi április hó 11. napján aláírt kulturális egyezmény kihirdetéséről szóló 110/2008. (IV. 30.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter és szakképzésért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.
+## 65. §[^63]
 
 ## 64. A Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Képviselőháza Végrehajtó Tanácsa között a tudományos, oktatási és kulturális együttműködésről Belgrádban, 1986. március 24-én aláírt egyezmény kihirdetéséről szóló 112/2008. (IV. 30.) Korm. rendelet módosítása
+
+[^63]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

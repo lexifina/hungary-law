@@ -1,3 +1,5 @@
-## 20. § A Magyar Köztársaság Kormánya és az Orosz Föderáció Kormánya között a kultúra, a tudomány és az oktatás területén folyó együttműködésről szóló Egyezmény kihirdetéséről szóló 148/1998. (IX. 18.) Korm. rendelet 3. § (2) bekezdésében az „oktatási területen az oktatásért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter” szöveg lép.
+## 20. §[^18]
 
 ## 19. A Magyar Köztársaság Kormánya és a Libanoni Köztársaság Kormánya közötti kulturális, felsőoktatási és tudományos együttműködési Egyezmény kihirdetéséről szóló 149/1998. (IX. 18.) Korm. rendelet módosítása
+
+[^18]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

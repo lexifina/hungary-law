@@ -1,3 +1,5 @@
-## 61. § A Magyar Népköztársaság Kormánya és a Dán Királyság Kormánya között Koppenhágában, az 1971. évi február hó 24. napján aláírt kulturális együttműködési egyezmény kihirdetéséről szóló 105/2008. (IV. 30.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter és a szakképzésért felelős miniszter, a kultúráért felelős miniszter, a sportpolitikáért felelős miniszter és a turizmusért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter, a turisztikai feladatok ellátása tekintetében a turizmusért felelős miniszter” szöveg lép.
+## 61. §[^59]
 
 ## 60. A Magyar Népköztársaság Kormánya és a Ghanai Köztársaság Kormánya között Accrában, az 1971. évi június hó 8. napján aláírt kulturális együttműködési egyezmény kihirdetéséről szóló 107/2008. (IV. 30.) Korm. rendelet módosítása
+
+[^59]: A 61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

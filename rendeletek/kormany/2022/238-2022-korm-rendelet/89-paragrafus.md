@@ -1,3 +1,5 @@
-## 88. § A kis- és középvállalkozások helyzetével, támogatásával összefüggő adatszolgáltatásról szóló 5/2009. (I. 16.) Korm. rendelet 1. § (2) bekezdésében és 4. §-ában a „gazdaságpolitikáért” szövegrész helyébe a „vállalkozásfejlesztésért” szöveg lép.
+## 88. §[^85]
 
 ## 86. A Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya közötti oktatási és kulturális együttműködési egyezmény jóváhagyásáról és kihirdetéséről szóló 40/2009. (III. 4.) Korm. rendelet módosítása
+
+[^85]: A 88. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 67. § A Magyar Népköztársaság Kormánya és a Líbiai Arab Szocialista Népi Dzsamahirija között Tripoliban, az 1978. március 16-án aláírt kulturális együttműködési egyezmény kihirdetéséről szóló 113/2008. (IV. 30.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter és a kultúráért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.
+## 67. §[^65]
 
 ## 66. A Magyar Népköztársaság és az Osztrák Köztársaság között Bécsben, az 1976. évi május hó 19. napján aláírt kulturális és tudományos együttműködési egyezmény kihirdetéséről szóló 115/2008. (IV. 30.) Korm. rendelet módosítása
+
+[^65]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

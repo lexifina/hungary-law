@@ -1,3 +1,5 @@
-## 81. § A Magyar Népköztársaság és a Tunéziai Köztársaság között Budapesten 1966. május 25-én aláírt kulturális és tudományos együttműködésről szóló egyezmény kihirdetéséről szóló 131/2008. (V. 9.) Korm. rendelet 3. § (2) bekezdésében az „oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.
+## 81. §[^79]
 
 ## 80. A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosításáról szóló 165/2008. (VI. 27.) Korm. rendelet módosítása
+
+[^79]: A 81. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 122. § A Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet 2. § (1) bekezdésében az „az oktatásért” szövegrész helyébe az „a felsőoktatásért” szöveg lép.
+## 122. §[^117]
 
 ## 118. Az Oktatási Hivatalról szóló 121/2013. (IV. 26.) Korm. rendelet módosítása
+
+[^117]: A 122. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

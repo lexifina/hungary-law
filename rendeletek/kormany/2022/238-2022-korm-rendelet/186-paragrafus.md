@@ -1,3 +1,5 @@
-## 185. § A Magyarország Kormánya és a Tádzsik Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezmény kihirdetéséről szóló 121/2018. (VII. 10.) Korm. rendelet 5. §-ában az „az oktatásért felelős miniszter és a kultúráért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.
+## 185. §[^173]
 
 ## 174. A Magyarország Kormánya és az Ugandai Köztársaság Kormánya közötti oktatási együttműködési egyezmény kihirdetéséről szóló 202/2018. (XI. 5.) Korm. rendelet módosítása
+
+[^173]: A 185. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

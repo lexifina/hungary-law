@@ -1,3 +1,5 @@
-## 29. § A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 1. § (4) bekezdés 16. pontjában a „lakásgazdálkodásért és lakáspolitikáért” szövegrész helyébe a „lakáscélú állami támogatásokért” szöveg lép.
+## 29. §[^27]
 
 ## 28. A Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet módosítása
+
+[^27]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

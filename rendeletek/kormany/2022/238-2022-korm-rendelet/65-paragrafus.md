@@ -1,3 +1,5 @@
-## 64. § A Magyar Népköztársaság Kormánya és az Indiai Köztársaság Kormánya között New Delhiben, az 1962. évi március hó 30. napján kötött kulturális együttműködési egyezmény kihirdetéséről szóló 109/2008. (IV. 30.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter és a kultúráért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter” szöveg lép.
+## 64. §[^62]
 
 ## 63. A Magyar Népköztársaság Kormánya és az Iraki Köztársaság Kormánya között Budapesten, 1959. évi április hó 11. napján aláírt kulturális egyezmény kihirdetéséről szóló 110/2008. (IV. 30.) Korm. rendelet módosítása
+
+[^62]: A 64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

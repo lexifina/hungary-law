@@ -1,3 +1,5 @@
-## 79. § A Magyar Népköztársaság Kormánya és a Szudáni Köztársaság Kormánya között Budapesten, az 1967. évi október hó 14. napján aláírt kulturális és tudományos együttműködési egyezmény kihirdetéséről szóló 128/2008. (V. 9.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.
+## 79. §[^77]
 
 ## 78. A Magyar Népköztársaság és a Tanzánia Egyesült Köztársaság között Dar es-Salaamban az 1966. február 15-én aláírt kulturális és tudományos együttműködésről szóló egyezmény kihirdetéséről szóló 129/2008. (V. 9.) Korm. rendelet módosítása
+
+[^77]: A 79. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

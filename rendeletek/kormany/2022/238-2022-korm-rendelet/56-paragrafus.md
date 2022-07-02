@@ -1,3 +1,5 @@
-## 55. § A Magyar Köztársaság és a Portugál Köztársaság között az oktatás, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén történő együttműködésről szóló egyezmény kihirdetéséről szóló 162/2007. (VI. 27.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.
+## 55. §[^53]
 
 ## 54. A Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti oktatási, tudományos, kulturális, sport- és ifjúsági együttműködésről szóló Egyezmény Szerbia Köztársaság vonatkozásában történő kihirdetéséről szóló 164/2007. (VI. 27.) Korm. rendelet módosítása
+
+[^53]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

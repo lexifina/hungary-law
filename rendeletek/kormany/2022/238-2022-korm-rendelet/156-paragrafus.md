@@ -1,3 +1,5 @@
-## 155. § A Magyarország Kormánya és a Ghánai Köztársaság Kormánya közötti Oktatási együttműködési egyezmény kihirdetéséről szóló 458/2015. (XII. 29.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter” szöveg lép.
+## 155. §[^146]
 
 ## 147. A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet módosítása
+
+[^146]: A 155. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

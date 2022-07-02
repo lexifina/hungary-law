@@ -1,3 +1,5 @@
-## 179. § A személy- és vagyonőr, a magánnyomozó, az egyes rendészeti feladatokat ellátó személyek tevékenységével, valamint a fegyveres biztonsági őrséggel kapcsolatos közigazgatási hatósági eljárások eltérő és kiegészítő szabályairól szóló 487/2017. (XII. 29.) Korm. rendelet 6. § (2) bekezdésében a „Külgazdasági és Külügyminisztérium” szövegrész helyébe a „külpolitikáért felelős miniszter” szöveg lép.
+## 179. §[^167]
 
 ## 168. A társasházkezelő, az ingatlankezelő, az ingatlanközvetítő, valamint az ingatlanvagyon-értékelő és -közvetítő szolgáltatói tevékenység üzletszerűen történő végzésének feltételeiről és a nyilvántartásba vétel részletes szabályairól szóló 499/2017. (XII. 29.) Korm. rendelet módosítása
+
+[^167]: A 179. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

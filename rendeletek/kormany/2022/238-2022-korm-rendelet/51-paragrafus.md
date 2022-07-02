@@ -1,3 +1,5 @@
-## 50. § A Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya között Havannában, 2006. február 14-én aláírt, a kulturális, az oktatási és a tudományos cserekapcsolatokról szóló egyezmény kihirdetéséről szóló 156/2007. (VI. 27.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért felelős miniszter, a kultúráért felelős miniszter, valamint a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.
+## 50. §[^48]
 
 ## 49. A Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között a kulturális, tudományos és oktatási együttműködésről szóló Egyezmény kihirdetéséről szóló 158/2007. (VI. 27.) Korm. rendelet módosítása
+
+[^48]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
