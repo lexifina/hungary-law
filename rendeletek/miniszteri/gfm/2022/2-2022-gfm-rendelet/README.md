@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-2-20-8P
 | 2022-06-21 | 2022-2-20-8P.1 | 2/2022. (VI. 20.) GFM rendelet |
 | 2022-06-22 | 2022-2-20-8P.2 | 2010: CXXX. törvény |
 | 2022-07-01 | 2022-2-20-8P.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-02 | 2022-2-20-8P.4 | 2010: CXXX. törvény |
