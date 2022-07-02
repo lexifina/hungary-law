@@ -1,5 +1,5 @@
-## 50. § A kiberbiztonsági kompetenciaközösség számára kapcsolattartási pontként szolgáló nemzeti koordinációs központ feladatainak ellátásáról szóló 766/2021. (XII. 23.) Korm. rendelet 1. §-ában az „a belügyminisztert” szövegrész helyébe az „az e-közigazgatásért felelős minisztert” szöveg lép.
+## 38.[^51]
 
-## 38.[^1]
+51. §
 
-[^1]: A 38. alcím az 52. § (2) bekezdése alapján az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet 88. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+[^51]: A 38. alcím az 52. § (2) bekezdése alapján az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet 88. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.

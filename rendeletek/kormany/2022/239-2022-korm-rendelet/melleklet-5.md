@@ -1,13 +1,3 @@
-## A 154/2015. (VI. 19.) Korm. rendelet 2. melléklet X. pontja helyébe a következő pont lép:
+5. melléklet a 239/2022. (VI. 30.) Korm. rendelethez[^56]
 
-## „X. Nemzeti Információs Központ
-
-|  | A | B |
-
-| 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
-
-| 2. | Nemzeti Információs Központ | főigazgató |
-
-## ”
-
-5. melléklet a 239/2022. (VI. 30.) Korm. rendelethez
+[^56]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

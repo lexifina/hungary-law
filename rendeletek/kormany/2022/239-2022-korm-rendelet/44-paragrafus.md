@@ -1,1 +1,3 @@
-## 43. § A 235/2019. (X. 15.) Korm. rendelet a 6. melléklet szerinti 4. melléklettel egészül ki.
+44. §[^44]
+
+[^44]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
