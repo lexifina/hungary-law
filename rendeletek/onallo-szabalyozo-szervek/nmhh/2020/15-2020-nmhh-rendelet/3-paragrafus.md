@@ -1,9 +1,3 @@
-## 2. § Az R. a következő 5/A. §-sal egészül ki:
+## 2. §[^3]
 
-## „5/A. § A Hatóság egyszerűsített jóváhagyása kérhető, ha a haszonbérlő a megállapodással érintett terület használatára jogosult, és a haszonbérleti megállapodás alapján kialakuló rádióspektrum-használat
-
-## a) területi kiterjedése nem éri el az 500 km2-t;
-
-## b) nem nyilvánosan elérhető elektronikus hírközlési szolgáltatás nyújtása érdekében történik; és
-
-## c) legfeljebb 5 évre szól a megállapodás.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
