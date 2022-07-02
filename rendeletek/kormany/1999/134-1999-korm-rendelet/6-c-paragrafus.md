@@ -16,7 +16,7 @@ c) az 5 millió forintot eléri, de a 6,5 millió forintot nem haladja meg, a fe
 
 szorzóval súlyozottan kerülnek figyelembevételre.
 
-(2a)[^36] A fiókgyógyszertárral is rendelkező (1) bekezdés a) pontja szerinti közforgalmú gyógyszertárat működtető vállalkozás, ha az (1) bekezdés b) pontja szerinti időszakra számított árréstömege nem haladja meg a 8 millió forintot, negyedévente fiókgyógyszertáranként havi 60 ezer forint támogatásban részesül, ha azt az elsőfokú állami adóhatóságnál kérelmezi. A támogatás csak abban az esetben vehető igénybe, ha a fiókgyógyszertár egész évben biztosítja a lakosság gyógyszerellátását.
+(2a)[^36] A fiókgyógyszertárral is rendelkező (1) bekezdés a) pontja szerinti közforgalmú gyógyszertárat működtető vállalkozás, ha az (1) bekezdés b) pontja szerinti időszakra számított árréstömege nem haladja meg a 9 millió forintot, negyedévente fiókgyógyszertáranként havi 60 ezer forint támogatásban részesül, ha azt az elsőfokú állami adóhatóságnál kérelmezi. A támogatás csak abban az esetben vehető igénybe, ha a fiókgyógyszertár egész évben biztosítja a lakosság gyógyszerellátását.
 
 (3)[^37]
 
@@ -37,7 +37,7 @@ szorzóval súlyozottan kerülnek figyelembevételre.
 [^33]: A 6/C. § (1) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 23. §-a szerint módosított szöveg.
 [^34]: A 6/C. § (1) bekezdés b) pontja az 507/2017. (XII. 29.) Korm. rendelet 25. §-a, a 757/2021. (XII. 22.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^35]: A 6/C. § (2) bekezdése az 507/2017. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^36]: A 6/C. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege az 507/2017. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^36]: A 6/C. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege az 507/2017. (XII. 29.) Korm. rendelet 24. §-ával megállapított, a 231/2022. (VI. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^37]: A 6/C. § (3) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 32. §-a hatályon kívül helyezte.
 [^38]: A 6/C. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 201/2010. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^39]: A 6/C. § (5) bekezdését újonnan a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 8. §-a hatályon kívül helyezte.
