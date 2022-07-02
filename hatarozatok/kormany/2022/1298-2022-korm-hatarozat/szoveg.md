@@ -74,74 +74,20 @@ területfejlesztési miniszter
 
 Határidő: azonnal
 
-2.
+2.[^1]
 
-2.1. A Széchenyi Kártya Program egyes konstrukciói támogatásának folytatásáról szóló 1736/2019. (XII. 19.) Korm. határozat [a továbbiakban: 1736/2019. (XII. 19.) Korm. határozat] 1. pontja helyébe a következő rendelkezés lép a 2022. július 1-jét követően benyújtott hitelkérelmekre vonatkozóan:
+3.[^2]
 
-„1. A Kormány a Széchenyi Kártya Folyószámlahitel konstrukcióban felülvizsgálat keretében meghosszabbításra került
+4.[^3]
 
-a) hitelszerződésekhez 10 millió forint hitelösszegig legfeljebb 365 napra 1 százalékpont kamattámogatást biztosít, és
+5.[^4]
 
-b) legfeljebb 100 millió forintos hitelekhez a Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság által vállalt készfizető kezességvállalás éves díjának 50%-áig terjedő támogatást biztosít, azzal, hogy a támogatás nem haladhatja meg a kezességi díj vetítési alapjának 0,5%-át.”
-
-2.2. Hatályát veszti az 1736/2019. (XII. 19.) Korm. határozat 3. pontjában az „és Széchenyi Támogatást Megelőlegező Hitel” szövegrész.
-
-3.
-
-3.1. A Gazdaság-újraindítási Akcióterv keretében a Széchenyi Kártya Újraindítási Program bevezetéséről szóló 1368/2021. (VI. 10.) Korm. határozat [a továbbiakban: 1368/2021. (VI. 10.) Korm. határozat] 2. pont 2.1. alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány a Széchenyi Kártya Újraindítási Program keretében)
-
-„2.1. nyújtott hitelekhez és lízingkonstrukcióhoz kamattámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
-
-a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 3,5%, illetve az ezen belül meghirdetésre kerülő többlettámogatott alkonstrukció esetén az 1%,
-
-b) a Széchenyi Újraindítási Likviditási Hitel esetén a 3,5%,
-
-c) a Széchenyi Újraindítási Beruházási Hitel – és az ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel – esetén az 1,5%, illetve az ezen belül meghirdetésre kerülő többlettámogatott alkonstrukciók esetén a 0,5%, valamint
-
-d) a Széchenyi Újraindítási Lízingkonstrukció esetén a 3,5%
-
-mértéket;”
-
-3.2. Az 1368/2021. (VI. 10.) Korm. határozat 2. pont 2.2. alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány a Széchenyi Kártya Újraindítási Program keretében)
-
-„2.2. egyetért azzal, hogy a nyújtott hitelek és lízingkonstrukció kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
-
-a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 8,5%, az ennek keretében meghirdetésre kerülő többlettámogatott Folyószámlahitel konstrukció esetén a 11%,
-
-b) a Széchenyi Újraindítási Likviditási Hitel esetén a 8,5%,
-
-c) a Széchenyi Újraindítási Beruházási Hitel – és az ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel – esetén a 11%, az ennek keretében meghirdetésre kerülő többlettámogatott beruházási hitelkonstrukció esetén a 12%, valamint
-
-d) a Széchenyi Újraindítási Lízingkonstrukció esetén a 9,0%
-
-mértéket;”
-
-3.3. Hatályát veszti az 1368/2021. (VI. 10.) Korm. határozat
-
-a) 1. pont 1.1. alpont d) pontja és
-
-b) 1. pont 1.4. alpontja.
-
-3.4. Az 1368/2021. (VI. 10.) Korm. határozat 2. pont 2.6. alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány a Széchenyi Kártya Újraindítási Program keretében)
-
-„2.6. nyújtott hitelekhez nyújtott készfizető kezességvállalás díjához legfeljebb évi 1%-os kezességi díjtámogatást biztosít.”
-
-4. A Széchenyi Mikrohitel Konstrukcióról szóló 1483/2021. (VII. 16.) Korm. határozat
-
-a) 2. pontjában a „0,5%-os mértéket” szövegrész helyébe az „1%-os mértéket” szöveg,
-
-b) 3. pontjában a „10,5%-os mértéket” szövegrész helyébe a „14,0%-os mértéket” szöveg
-
-lép.
-
-5. Hatályát veszti a Széchenyi Turisztikai Kártya Programról szóló 1467/2020. (VIII. 3.) Korm. határozat.
-
-6. Hatályát veszti a Széchenyi Kártya Program felülvizsgálatáról szóló 1979/2021. (XII. 27.) Korm. határozat 1.5–1.7. alpontja.
+6.[^5]
 
 7. Ez a határozat 2022. július 1-jén lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
