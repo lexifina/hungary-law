@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-807-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-07-01 | 2021-807-20-22.1 | 807/2021. (XII. 28.) Korm. rendelet |
+| 2022-07-02 | 2021-807-20-22.2 | 2010: CXXX. törvény |

@@ -1,3 +1,3 @@
-## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Ebtv. vhr.) 1. § (13) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „(13) A kormányhivatalnak az egészségbiztosítás pénzbeli ellátásaival, az üzemi balesettel, a baleseti táppénzzel és az utazási költségtérítési támogatással kapcsolatos hatósági ügyeiben a Központ jár el felügyeleti szervként, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 6. § Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet 7. § (5) bekezdés a) pontjában az „az utazási költségtérítéssel” szövegrész helyébe az „az utazási költségtérítési támogatással” szöveg lép.
+## 6. §[^7]
 
 ## 3. Záró rendelkezések
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## 3. § Az Ebtv. vhr. 50. §-a a következő (21)–(23) bekezdéssel egészül ki:
+## 3. §[^4]
 
-## „(21) A 11. § 2022. június 30-áig hatályos (3) bekezdése alapján az utazási utalvány kiállítására és a szolgáltatás igénybevételének az utazási utalványon történő igazolására kötelezett személy vagy szerv 2022. június 30. napjáig állíthat ki a 11. § 2022. június 30-áig hatályos (4) bekezdése szerinti utazási utalványt. A szolgáltatás igénybevételét az arra kötelezett ezen a nyomtatványon 2022. június 30-áig igazolhatja le.
-
-## (22) A 11. § 2022. június 30-áig hatályos (4) bekezdése szerinti utazási utalványon 2022. június 30. napjáig az egészségügyi szolgáltató, illetve az orvos által igazolt megjelenések alapján utazási költségtérítés iránti kérelem az utolsó megjelenés napjától számított hatodik hónap utolsó napjáig, de legkésőbb 2022. december 31. napjáig terjeszthető elő. A 2022. június 30-át követően így benyújtott kérelmeket utazási költségtérítési támogatás iránti kérelemnek kell tekinteni, és a 11. § 2022. július 1-jétől hatályos (1)–(13) bekezdése megfelelő alkalmazásával kell elbírálni. Az utazási utalványon 2022. június 30. napját követően igazolt megjelenések alapján utazási költségtérítési támogatás nem állapítható meg.
-
-## (23) A 2022. június 30-át követően a 11. § (14)–(19) bekezdése szerinti utazási költségtérítési támogatás megállapítása iránt benyújtott kérelmeket a 2022. július 1-jétől hatályos rendelkezések alapján kell elbírálni akkor is, ha a korai fejlesztést és gondozást, illetve fejlesztő felkészítést nyújtó intézményben, valamint az önkormányzat által szervezett csoportos utazás keretében a szűrővizsgálaton történő megjelenésre 2022. július 1-jét megelőzően került sor.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
