@@ -1,4 +1,4 @@
-## 3. Engedélyezés előtti gyógyszeralkalmazás
+## 3. [^1] Engedélyezés, illetve kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazás
 
 3. § (1) Engedélyezés előtti gyógyszeralkalmazás keretében vizsgálati készítmény vagy forgalomba hozatali engedéllyel nem rendelkező gyógyszer alkalmazásának engedélye iránti kérelmet a kezelőorvos nyújtja be az OGYÉI-hez.
 
@@ -27,3 +27,5 @@ j) tájékoztatást a kezelésről és beleegyező nyilatkozatot arra vonatkozó
 (3) Az OGYÉI az engedély kiadásáról az érintett intézeti gyógyszertárat is tájékoztatja.
 
 (4) Ha ezt újabb tudományos adatok indokolják, a beteg biztonsága és az érintett gyógyszer megfelelő használata érdekében az OGYÉI felfüggesztheti vagy visszavonhatja a gyógyszer alkalmazására vonatkozó engedélyét. Az érintett gyógyszer gyártója azonnal értesíti az OGYÉI-t az érintett gyógyszer biztonságosságára vonatkozó adatokról, ha azok kihatással lehetnek az engedélyezés előtti felhasználásra, és javasolhatja az érintett gyógyszer alkalmazásának felfüggesztését.
+
+[^1]: A 3. alcím címe a 231/2022. (VI. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.

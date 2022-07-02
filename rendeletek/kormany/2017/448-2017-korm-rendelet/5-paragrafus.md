@@ -1,3 +1,5 @@
+## 4/C. §[^4] A Gytv. 25/C. (8) bekezdés c) pontja szerinti indokolt kérelemnek tekinthető, ha a kérelmező biztosítja a gyógyszer térítésmentes rendelkezésre bocsátását.
+
 ## 4. EGT-tagállamban vagy EGT-megállapodásban részes államban forgalomba hozatalra engedélyezett gyógyszer rendelése
 
 5. § (1) Orvos olyan gyógyszert, amelyet Magyarországon nem, de az EGT tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban (a továbbiakban: EGT-megállapodásban részes állam) forgalomba hozatalra engedélyeztek – a Gytv. 25. § (2) bekezdésében foglaltaknak megfelelően –, csak akkor rendelhet, ha a rendelést megelőzően az OGYÉI-nek bejelenti, és beszerzi az OGYÉI nyilatkozatát
@@ -14,6 +16,7 @@ c) – az orvos által rendelkezésre bocsátott adatok alapján – a Gytv. 1. 
 
 (4) Ha az OGYÉI olyan nyilatkozatot tesz, hogy véleménye szerint a Gytv. 1. § 23. pontja szerinti különös méltánylást érdemlő betegellátási érdek nem áll fenn, az orvos – ha a gyógyszer vényen történő rendelésének szükségességét továbbra is fenntartja – az OGYÉI nyilatkozatának másolatát a vénnyel együtt a betegnek átadja, és a beteget tájékoztatja a nyilatkozat tartalmáról és lehetséges következményeiről.
 
-(5)[^1] A lakossági gyógyszerellátásra engedéllyel rendelkező vagy arra jogosult személyek a lakossági ellátásra általuk kiadott, az (1) bekezdésben meghatározott feltételek alapján rendelt gyógyszerek esetében a kiadás időpontjában ellenőrzik a gyógyszer biztonsági elemeit, és deaktiválják minden, biztonsági elemmel ellátott gyógyszer egyedi azonosítóját.
+(5)[^5] A lakossági gyógyszerellátásra engedéllyel rendelkező vagy arra jogosult személyek a lakossági ellátásra általuk kiadott, az (1) bekezdésben meghatározott feltételek alapján rendelt gyógyszerek esetében a kiadás időpontjában ellenőrzik a gyógyszer biztonsági elemeit, és deaktiválják minden, biztonsági elemmel ellátott gyógyszer egyedi azonosítóját.
 
-[^1]: Az 5. § (5) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 43. §-a iktatta be.
+[^4]: A 4/C. §-t a 231/2022. (VI. 28.) Korm. rendelet 8. §-a iktatta be.
+[^5]: Az 5. § (5) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 43. §-a iktatta be.
