@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 14. § (2) bekezdése alapján 2022. július 3-án lép hatályba.
+3. § A pénzügyi hozzájárulás forrása a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XII. Agrárminisztérium fejezet, 21. Központi kezelésű előirányzatok cím, 2. Uniós programok kiegészítő támogatása alcím, valamint az Európai Unió általános költségvetésének terhére a Megállapodás alapján a 2. § szerinti célterületek finanszírozására biztosított pénzösszeg.

@@ -1,3 +1,1 @@
-17. §[^16]
-
-[^16]: A 17. § a 14. § (2) bekezdése alapján 2022. július 3-án lép hatályba.
+17. § Hatályát veszti az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2020. évi finanszírozásának szabályairól szóló 32/2020. (VI. 26.) AM rendelet.
