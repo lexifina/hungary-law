@@ -1,6 +1,6 @@
 ## hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 413/2021. (VII. 13.) Korm. rendelethez[^64]
+1. melléklet a 413/2021. (VII. 13.) Korm. rendelethez[^69]
 
 A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kijelölése
 
@@ -32,4 +32,4 @@ A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kije
 
 3 Szakmai koordinációra kijelölt minisztérium.
 
-[^64]: Az 1. melléklet a 796/2021. (XII. 27.) Korm. rendelet 13. § e)–g) pontja, a 832/2021. (XII. 30.) Korm. rendelet 19. §-a, a 46/2022. (II. 17.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^69]: Az 1. melléklet a 796/2021. (XII. 27.) Korm. rendelet 13. § e)–g) pontja, a 832/2021. (XII. 30.) Korm. rendelet 19. §-a, a 46/2022. (II. 17.) Korm. rendelet 12. §-a szerint módosított szöveg.
