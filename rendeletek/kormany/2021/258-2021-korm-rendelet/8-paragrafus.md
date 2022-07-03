@@ -18,6 +18,9 @@
 
 8. átmeneti támogatásként
 
-9.[^5] kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
+9. [^11] kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
 
-[^5]: A 8. § 9. pontját a 679/2021. (XII. 3.) Korm. rendelet 38. §-a iktatta be.
+10. [^12] válságtámogatásként
+
+[^11]: A 8. § 9. pontját a 679/2021. (XII. 3.) Korm. rendelet 38. §-a iktatta be.
+[^12]: A 8. § 10. pontját a 240/2022. (VI. 30.) Korm. rendelet 13. §-a iktatta be.

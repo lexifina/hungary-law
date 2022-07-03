@@ -6,10 +6,12 @@ a) 30 Mbps vagy
 
 b) 100 Mbps
 
-## letöltési sebességet biztosítani.
+letöltési sebességet biztosítani.
 
 (2) Az (1) bekezdés szerinti felhasználás feltétele, hogy a 14/C. § szerinti feltérképezés és nyilvános konzultáció során figyelembe vették a meglévő vagy hitelt érdemlően tervezett vezetékes széles sávú hálózatokat is, és a támogatott vezeték nélküli állandó helyű 4G vagy 5G hozzáférési megoldás
 
 a) az (1) bekezdés a) pontja esetén legalább 30 Mbps letöltési sebességet,
 
 b) az (1) bekezdés b) pontja esetén legalább 300 Mbps letöltési és 100 Mbps feltöltési sebességet,
+
+és az érintett területeken már létező vagy tervezett vezetékes hálózatokhoz képest legalább kétszeres letöltési és feltöltési sebességet képes biztosítani.

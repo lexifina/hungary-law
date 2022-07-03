@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-258-20-
 | --- | --- | --- |
 | 2021-05-21 | 2021-258-20-22.1 | 258/2021. (V. 20.) Korm. rendelet |
 | 2021-12-06 | 2021-258-20-22.2 | 679/2021. (XII. 3.) Korm. rendelet |
+| 2022-07-03 | 2021-258-20-22.3 | 240/2022. (VI. 30.) Korm. rendelet |

@@ -82,6 +82,9 @@
 
 40. szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatásként
 
-41.[^1] kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
+41. [^2] kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
 
-[^1]: A 3. § 41. pontját a 679/2021. (XII. 3.) Korm. rendelet 35. §-a iktatta be.
+42. [^3] válságtámogatásként
+
+[^2]: A 3. § 41. pontját a 679/2021. (XII. 3.) Korm. rendelet 35. §-a iktatta be.
+[^3]: A 3. § 42. pontját a 240/2022. (VI. 30.) Korm. rendelet 8. §-a iktatta be.

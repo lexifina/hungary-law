@@ -15,3 +15,5 @@ e) a Digitális Megújulás Operatív Program Pluszból,
 f) az Integrált Közlekedésfejlesztési Operatív Program Pluszból, valamint
 
 g) a Magyar Halgazdálkodási Operatív Program Pluszból
+
+nyújtott, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások felhasználására terjed ki.

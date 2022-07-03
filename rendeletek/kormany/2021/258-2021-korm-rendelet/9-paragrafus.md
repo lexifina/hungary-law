@@ -11,3 +11,7 @@
 4. csekély összegű támogatásként,
 
 5. átmeneti támogatásként
+
+6. [^13] válságtámogatásként
+
+[^13]: A 9. § 6. pontját a 240/2022. (VI. 30.) Korm. rendelet 14. §-a iktatta be.

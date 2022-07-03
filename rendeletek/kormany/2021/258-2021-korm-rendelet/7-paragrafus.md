@@ -70,7 +70,7 @@
 
 34. kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatásként,
 
-35.[^3]
+35. [^8]
 
 36. kis- és középvállalkozásnak nyújtott innovációs támogatásként,
 
@@ -88,7 +88,10 @@
 
 43. átmeneti támogatásként
 
-44.[^4] 4G és 5G mobilhálózat kiépítéséhez nyújtott beruházási támogatásként
+44. [^9] 4G és 5G mobilhálózat kiépítéséhez nyújtott beruházási támogatásként
 
-[^3]: A 7. § 35. pontját a 679/2021. (XII. 3.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
-[^4]: A 7. § 44. pontját a 679/2021. (XII. 3.) Korm. rendelet 37. §-a iktatta be.
+45. [^10] válságtámogatásként
+
+[^8]: A 7. § 35. pontját a 679/2021. (XII. 3.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
+[^9]: A 7. § 44. pontját a 679/2021. (XII. 3.) Korm. rendelet 37. §-a iktatta be.
+[^10]: A 7. § 45. pontját a 240/2022. (VI. 30.) Korm. rendelet 12. §-a iktatta be.

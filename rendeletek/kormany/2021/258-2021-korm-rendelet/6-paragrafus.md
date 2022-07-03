@@ -49,3 +49,7 @@
 23. nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatásként,
 
 24. kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatásként
+
+25. [^7] válságtámogatásként
+
+[^7]: A 6. § 25. pontját a 240/2022. (VI. 30.) Korm. rendelet 11. §-a iktatta be.

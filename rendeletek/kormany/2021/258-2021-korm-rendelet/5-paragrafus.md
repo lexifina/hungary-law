@@ -37,3 +37,7 @@
 17. kutatási infrastruktúrához nyújtott beruházási támogatásként,
 
 18. eljárási és szervezési innováció támogatásaként
+
+19. [^6] válságtámogatásként
+
+[^6]: Az 5. § 19. pontját a 240/2022. (VI. 30.) Korm. rendelet 10. §-a iktatta be.
