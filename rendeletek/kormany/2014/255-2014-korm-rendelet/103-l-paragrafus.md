@@ -1,12 +1,12 @@
-## 61. [^332] Az erdészeti ágazatban megvalósuló tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás
+## 61. [^333] Az erdészeti ágazatban megvalósuló tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás
 
 103/L. § (1) Az erdészeti ágazatban megvalósuló tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) készségek elsajátításához kapcsolódó tevékenységhez, rövid időtartamra szóló erdőgazdálkodási csereprogram és erdőlátogatás lebonyolításához, valamint bemutató és tájékoztatási tevékenységhez nyújtható.
 
 (2) Támogatás az erdészeti ágazatban működő vállalkozás részére nyújtható.
 
-(3)[^333]
+(3)[^334]
 
-(4)[^334] A támogatás keretében
+(4)[^335] A támogatás keretében
 
 a) a szakképzéshez és a készségek elsajátításához kapcsolódó tevékenység, valamint bemutató és tájékoztatási tevékenység szervezésének és lebonyolításának költsége,
 
@@ -16,11 +16,11 @@ c) a 103/C. § (1) bekezdés d) pontja szerinti költség
 
 ## számolható el.
 
-(5)[^335] A (4) bekezdés a) és c) pontja szerinti támogatás vonatkozásában közvetlen kifizetés tudástranszfert vagy tájékoztatási tevékenységet megvalósító szervezet részére teljesíthető.
+(5)[^336] A (4) bekezdés a) és c) pontja szerinti támogatás vonatkozásában közvetlen kifizetés tudástranszfert vagy tájékoztatási tevékenységet megvalósító szervezet részére teljesíthető.
 
 (6) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 100%-át.
 
-[^332]: A 61. alcímet (103/L. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^333]: A 103/L. § (3) bekezdését a 305/2016. (X. 13.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
-[^334]: A 103/L. § (4) bekezdése a 305/2016. (X. 13.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^335]: A 103/L. § (5) bekezdése a 305/2016. (X. 13.) Korm. rendelet 18. § 14. pontja szerint módosított szöveg.
+[^333]: A 61. alcímet (103/L. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^334]: A 103/L. § (3) bekezdését a 305/2016. (X. 13.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
+[^335]: A 103/L. § (4) bekezdése a 305/2016. (X. 13.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^336]: A 103/L. § (5) bekezdése a 305/2016. (X. 13.) Korm. rendelet 18. § 14. pontja szerint módosított szöveg.

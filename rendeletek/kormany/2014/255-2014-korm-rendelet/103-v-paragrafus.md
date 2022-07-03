@@ -1,4 +1,4 @@
-## 68. [^355] A vidéki térségekben működő kkv-k számára tanácsadási szolgáltatásokhoz nyújtott támogatás
+## 68. [^356] A vidéki térségekben működő kkv-k számára tanácsadási szolgáltatásokhoz nyújtott támogatás
 
 103/V. § (1) A vidéki térségekben működő kkv-k számára tanácsadási szolgáltatások igénybevételéhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén
 
@@ -18,7 +18,7 @@ b) a támogatásnak meg kell egyeznie a Vidékfejlesztési Programban szereplő 
 
 (4) A támogatás összege tanácsadásonként nem haladhatja meg az 1500 eurónak megfelelő forintösszeget.
 
-69.[^356] A vidéki térségekben működő kkv-k számára tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás
+69.[^357] A vidéki térségekben működő kkv-k számára tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás
 
-[^355]: A 68. alcímet (103/V. §) a 127/2016. (VI. 7.) Korm. rendelet 15. §-a iktatta be.
-[^356]: A 69. alcímet (103/Z. §) a 127/2016. (VI. 7.) Korm. rendelet 15. §-a iktatta be.
+[^356]: A 68. alcímet (103/V. §) a 127/2016. (VI. 7.) Korm. rendelet 15. §-a iktatta be.
+[^357]: A 69. alcímet (103/Z. §) a 127/2016. (VI. 7.) Korm. rendelet 15. §-a iktatta be.

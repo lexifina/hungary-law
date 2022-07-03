@@ -1,6 +1,6 @@
 ## 85/L. § A közlemény alapján fennálló közzétételi kötelezettségre figyelemmel a támogatást nyújtó a 85/F. § szerinti tartalommal és határidő szerint adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásokról.
 
-## 41/C.[^282] A koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás
+## 41/C. [^282] A koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás
 
 85/M. § (1) A koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az EUMSz 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és a közlemény 3.8. szakaszának szabályaival összhangban nyújtható.
 
