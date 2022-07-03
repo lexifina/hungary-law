@@ -1,1 +1,0 @@
-Kormány a kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (3) bekezdés e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

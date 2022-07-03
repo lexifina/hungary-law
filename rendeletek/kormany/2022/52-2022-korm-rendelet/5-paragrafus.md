@@ -1,9 +1,0 @@
-## 5. § Ez a rendelet
-
-a) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és a műszaki fejlődéshez történő hozzáigazítása céljából, az intravaszkuláris ultrahangos képalkotó rendszerek elektromos forgóérintkezőiben használt higanyra vonatkozó mentesség érvényességi időszakának tekintetében történő módosításáról szóló, 2021. március 8-i (EU) 2021/884 felhatalmazáson alapuló bizottsági irányelvnek,
-
-b) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a bisz(2-etilhexil)-ftalát (DEHP), a benzil-butil-ftalát (BBP), a dibutil-ftalát (DBP) és a diizobutil-ftalát (DIBP) orvostechnikai eszközökből származó és az ilyen eszközök javítására vagy felújítására felhasználandó cserealkatrészekben való használatára vonatkozó mentesség tekintetében történő módosításáról szóló, 2021. augusztus 11-i (EU) 2021/1978 felhatalmazáson alapuló bizottsági irányelvnek,
-
-c) a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a bisz(2-etilhexil)-ftalát (DEHP) mágneses rezonanciás képalkotó (MRI) berendezések érzékelő tekercseinek műanyag alkatrészeiben való felhasználására vonatkozó mentesség tekintetében történő módosításáról szóló, 2021. augusztus 11-i (EU) 2021/1979 felhatalmazáson alapuló bizottsági irányelvnek,
-
-d) a 2011/65/EU európai parlamenti és tanácsi irányelv a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a bisz(2-etilhexil)-ftalát (DEHP) emberi testnedvek és/vagy dializátfolyadékok elemzésére szolgáló ionszelektív elektródokban való felhasználására vonatkozó mentesség tekintetében történő módosításáról szóló, 2021. augusztus 11-i (EU) 2021/1980 felhatalmazáson alapuló bizottsági irányelvnek
