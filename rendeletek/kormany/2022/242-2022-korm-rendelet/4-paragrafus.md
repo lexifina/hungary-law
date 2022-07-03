@@ -1,1 +1,3 @@
-## 3. § Az R. 3. § (3) bekezdésében a „100. és 101. sora” szövegrész helyébe a „100., 101. és 103. sora” szöveg lép.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
