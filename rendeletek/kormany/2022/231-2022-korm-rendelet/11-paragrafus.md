@@ -1,3 +1,3 @@
-## 10. §[^1]
+## 10. §[^10]
 
-[^1]: A 10. § a 12. § (2) bekezdése alapján 2022. július 15-én lép hatályba.
+[^10]: A 10. § a 12. § (2) bekezdése alapján 2022. július 15-én lép hatályba.

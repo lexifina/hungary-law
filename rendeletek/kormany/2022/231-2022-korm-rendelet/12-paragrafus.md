@@ -1,4 +1,4 @@
-## 11. §[^2]
+## 11. §[^11]
 
 ## 8. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 10. és 11. § 2022. július 15-én lép hatályba.
 
-[^2]: A 11. § a 12. § (2) bekezdése alapján 2022. július 15-én lép hatályba.
+[^11]: A 11. § a 12. § (2) bekezdése alapján 2022. július 15-én lép hatályba.
