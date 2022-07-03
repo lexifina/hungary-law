@@ -76,8 +76,8 @@
 
 | 34 | 264667 |  |  |  | 2. Sportköztestületek támogatása | A miniszter a Sportköztestületek támogatása előirányzat terhére költségvetési támogatást nyújt a sportköztestületek részére: a) a sportköztestület, b) a Magyarországon működő nemzetközi sportszövetségek és -szervezetek szakmai programjaihoz és feladataihoz, valamint az ezek megvalósításával összefüggő működési költségeihez. | sportköztestület | kérelem alapján | biztosítható | egyösszegű kifizetéssel részletekben történő kifizetéssel | - | felhatalmazó nyilatkozat | - | - | - |
 
-4/a. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^107]
+4/a. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^112]
 
 XX. Emberi Erőforrások Minisztériuma sport célú központi kezelésű előirányzatainak feladatterve
 
-[^107]: A 4/a. mellékletet a 130/2022. (IV. 5.) Korm. rendelet 3. §-a iktatta be.
+[^112]: A 4/a. mellékletet a 130/2022. (IV. 5.) Korm. rendelet 3. §-a iktatta be.

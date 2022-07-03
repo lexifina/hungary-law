@@ -1,4 +1,4 @@
-## 1/A. §[^2] Az e rendelet szerinti támogatási szerződés megkötéséhez, a támogatás folyósításához, a támogatás felhasználásáról történő szakmai és pénzügyi beszámoláshoz kapcsolódó kérelmek és dokumentumok a Nemzeti Sportinformációs Rendszer „Támogatás és ellenőrzés” modulján keresztül is benyújthatóak.
+## 1/A. §[^3] Az e rendelet szerinti támogatási szerződés megkötéséhez, a támogatás folyósításához, a támogatás felhasználásáról történő szakmai és pénzügyi beszámoláshoz kapcsolódó kérelmek és dokumentumok a Nemzeti Sportinformációs Rendszer „Támogatás és ellenőrzés” modulján keresztül is benyújthatóak.
 
 ## II. Fejezet
 
@@ -12,4 +12,4 @@ a) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás 
 
 b) a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményre és multifunkcionális szabadidős létesítményre nyújtott támogatás szabályaival összhangban
 
-[^2]: Az 1/A. §-t a 765/2021. (XII. 23.) Korm. rendelet 41. §-a iktatta be.
+[^3]: Az 1/A. §-t a 765/2021. (XII. 23.) Korm. rendelet 41. §-a iktatta be.

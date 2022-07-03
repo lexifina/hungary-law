@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-474-20-
 | 2021-12-23 | 2016-474-20-22.14 | 723/2021. (XII. 20.) Korm. rendelet |
 | 2022-04-06 | 2016-474-20-22.15 | 130/2022. (IV. 5.) Korm. rendelet |
 | 2022-07-01 | 2016-474-20-22.16 | 765/2021. (XII. 23.) Korm. rendelet |
+| 2022-07-03 | 2016-474-20-22.17 | 240/2022. (VI. 30.) Korm. rendelet |

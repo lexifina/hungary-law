@@ -14,7 +14,7 @@
 
 (8) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell diszkontálni a diszkont kamatláb alkalmazásával.
 
-(9)[^5] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege a 3. alcím szerinti sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget.
+(9)[^6] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege a 3. alcím szerinti sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget.
 
 (10) A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda, mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 3. alcím hatálya alá tartozó, 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
 
@@ -22,7 +22,7 @@
 
 (12) E rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
-(13)[^6] E rendelet alapján a 2. és 3. alcím szerinti támogatások esetén 2024. június 30-ig lehet támogatási döntést hozni.
+(13)[^7] E rendelet alapján a 2. és 3. alcím szerinti támogatások esetén 2024. június 30-ig lehet támogatási döntést hozni.
 
-[^5]: A 4. § (9) bekezdése a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 4. § (13) bekezdése a 472/2020. (X. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 4. § (9) bekezdése a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 4. § (13) bekezdése a 472/2020. (X. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

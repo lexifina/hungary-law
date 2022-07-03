@@ -12,6 +12,6 @@ b) visszafizetési mechanizmus alkalmazásával utólag kell levonni az elszámo
 
 (5) A (3) bekezdésben meghatározottak teljesítése – a (4) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
 
-(6)[^7] A kétmillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
+(6)[^8] A kétmillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
 
-[^7]: A 7. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 7. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.

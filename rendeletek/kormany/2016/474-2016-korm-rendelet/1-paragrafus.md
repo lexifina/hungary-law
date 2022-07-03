@@ -18,7 +18,7 @@ c) az államháztartásról szóló törvény végrehajtásáról szóló 368/20
 
 2. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
-3. csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, az EUMSz 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (HL L 193., 2014.7.1., 1–75. o.), és az EUMSz 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369., 2014.12.24., 37–63. o),
+3.[^1] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (HL L 193., 2014.7.1., 1–75. o.), és az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369., 2014.12.24., 37–63. o),
 
 4. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
@@ -34,7 +34,7 @@ c) az államháztartásról szóló törvény végrehajtásáról szóló 368/20
 
 10. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
-10a.[^1]
+10a.[^2]
 
 11. mezőgazdasági termék: a 651/2014/EU bizottsági rendelet 2. cikk 11. pontja szerinti termék,
 
@@ -56,4 +56,5 @@ c) az államháztartásról szóló törvény végrehajtásáról szóló 368/20
 
 20. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz.
 
-[^1]: Az 1. § (2) bekezdés 10a. pontját a 282/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 565/2020. (XII. 8.) Korm. rendelet 27. § (2) bekezdés a) pontja.
+[^1]: Az 1. § (2) bekezdés 3. pontja a 240/2022. (VI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés 10a. pontját a 282/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 565/2020. (XII. 8.) Korm. rendelet 27. § (2) bekezdés a) pontja.
