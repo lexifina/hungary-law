@@ -1,1 +1,3 @@
-17. § Hatályát veszti az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2020. évi finanszírozásának szabályairól szóló 32/2020. (VI. 26.) AM rendelet.
+17. §[^2]
+
+[^2]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
