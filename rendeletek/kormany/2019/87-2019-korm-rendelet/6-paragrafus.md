@@ -1,4 +1,4 @@
-## 5. §[^1] Az irányító szerv az irányított szerv által kezelt adatok vonatkozásában adatfeldolgozói tevékenységet végezhet az irányított szervvel foglalkoztatási jogviszonyban álló közszolgálati alkalmazott személyi anyagával, jogszabály eltérő rendelkezése hiányában egyéb személyi irataival, a közszolgálati alapnyilvántartással, kapcsolatban.
+## 5. §[^2] Az irányító szerv az irányított szerv által kezelt adatok vonatkozásában adatfeldolgozói tevékenységet végezhet az irányított szervvel foglalkoztatási jogviszonyban álló közszolgálati alkalmazott személyi anyagával, jogszabály eltérő rendelkezése hiányában egyéb személyi irataival, a közszolgálati alapnyilvántartással, kapcsolatban.
 
 ## 2. A közszolgálati alkalmazottak személyi iratai
 
@@ -14,4 +14,4 @@ d) a közszolgálati alkalmazott saját kérelmére kiállított vagy a munkált
 
 (2) A foglalkoztatási jogviszony létesítésének elmaradása esetén az ezzel kapcsolatos döntést követő nyolc napon belül vissza kell adni a jogviszony létrehozását, illetve a Kit. 89. § (6) bekezdésében meghatározott kinevezés módosítását kezdeményező iratokat az érintettnek, illetve a személyi anyagot annak a szervnek, amely azt megküldte.
 
-[^1]: Az 5. § a 673/2020. (XII. 28.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^2]: Az 5. § a 673/2020. (XII. 28.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
