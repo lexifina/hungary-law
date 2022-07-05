@@ -1,5 +1,5 @@
 ## 49. Hatályon kívül helyező rendelkezések
 
-114. §[^23]
+114. §[^27]
 
-[^23]: A 114. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 114. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
