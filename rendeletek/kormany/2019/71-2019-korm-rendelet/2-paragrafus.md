@@ -10,7 +10,7 @@ c) országos parancsnokság: az országos parancsnok által vezetett szerv,
 
 d) rendvédelmi szerv: a Hszt. 1. § (1) bekezdésében meghatározott rendvédelmi feladatokat ellátó szerv,
 
-e) személyügyi központ: a Kttv. 6. § 31. pontja szerinti személyügyi igazgatási feladatokat ellátó szerv,
+e)[^3]
 
 f) tartalékállományba helyezett:
 
@@ -24,6 +24,7 @@ f) tartalékállományba helyezett:
 
 g) üres álláshely: a közigazgatási szervnél betöltetlen közszolgálati tisztviselői állás, amelynek betöltése érdekében a munkáltatói jogkör gyakorlója megteszi a szükséges intézkedéseket – így különösen meghívásos vagy pályázati eljárást kezdeményez, valamint a tartalékállományba helyezettek között keresést kér –, ugyanakkor nem tekinthető üres álláshelynek a Kttv. alapján munkavégzési kötelezettsége alól mentesített, illetve szülési szabadságon, fizetés nélküli szabadságon lévő közszolgálati tisztviselők álláshelye.
 
-h)[^1] tartalékállományba helyezett saját felhasználói felülete: a tartalékállományba helyezett adatait, a közszolgálaton belüli továbbfoglalkoztatás érdekében feltöltött dokumentumait tartalmazó felület.
+h)[^4] tartalékállományba helyezett saját felhasználói felülete: a tartalékállományba helyezett adatait, a közszolgálaton belüli továbbfoglalkoztatás érdekében feltöltött dokumentumait tartalmazó felület.
 
-[^1]: A 2. § h) pontját a 716/2021. (XII. 20.) Korm. rendelet 39. §-a iktatta be.
+[^3]: A 2. § e) pontját a 243/2022. (VII. 4.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^4]: A 2. § h) pontját a 716/2021. (XII. 20.) Korm. rendelet 39. §-a iktatta be.
