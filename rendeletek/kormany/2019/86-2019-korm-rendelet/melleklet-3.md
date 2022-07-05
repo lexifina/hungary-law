@@ -18,7 +18,7 @@ d) Pénzügyi ellenőrzés: a pénzügyi elszámolások, valamint az ezek alapj�
 
 a) Átfogó ellenőrzés: a vizsgált szervek feladat- és hatáskörébe tartozó, meghatározott időszakra vonatkozó törvényességi, szakszerűségi, hatékonysági és pénzügyi ellenőrzése;
 
-b)[^66]
+b)[^67]
 
 c) Témaellenőrzés: meghatározott téma, adott feladat ellátásának vizsgálata egy időszakban több szervnél abból a célból, hogy a megállapítások eredményeként általánosítható következtetéseket lehessen levonni, és ennek megfelelő intézkedéseket lehessen tenni;
 
@@ -362,4 +362,4 @@ b) biztosítani az ellenőrzést végző szerv munkatársainak helyszíni munkaf
 
 13.2. Az ellenőrzött szerv vezetője felel az ellenőrzött szervnél a megállapítások és javaslatok alapján – szükség esetén – végrehajtandó intézkedések megvalósulásáért.
 
-[^66]: A 3. melléklet 1.2. pont b) alpontját a 668/2020. (XII. 28.) Korm. rendelet 51. § (11) bekezdés d) pontja hatályon kívül helyezte.
+[^67]: A 3. melléklet 1.2. pont b) alpontját a 668/2020. (XII. 28.) Korm. rendelet 51. § (11) bekezdés d) pontja hatályon kívül helyezte.

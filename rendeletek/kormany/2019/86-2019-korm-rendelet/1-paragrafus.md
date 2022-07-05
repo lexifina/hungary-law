@@ -69,7 +69,7 @@ feladatok.
 (6)[^6] E rendelet alkalmazásában módszertani támogatás: a szakmai irányító miniszter által a fővárosi és megyei kormányhivatalok egységes joggyakorlásának és a feladatok végrehajtásának elősegítése érdekében kiadott szakmai iránymutatás, állásfoglalás, módszertani útmutató, ajánlás, továbbá egyéb szakmai anyag, valamint szakmai értekezlet és tájékoztató.
 
 [^1]: Az 1. § (5) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.
-[^2]: Az 1. § (5) bekezdés 6. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (5) bekezdés 6. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte. [A 243/2022. (VII. 4.) Korm. rendelet 15. §-ával elrendelt módosítás nem vezethető át.]
 [^3]: Az 1. § (5) bekezdés 13. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
 [^4]: Az 1. § (5) bekezdés 14. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
 [^5]: Az 1. § (5) bekezdés 15. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
