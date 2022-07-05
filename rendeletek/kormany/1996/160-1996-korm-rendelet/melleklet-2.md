@@ -38,9 +38,9 @@
 
 ## l) a Külgazdasági és Külügyminisztériumnak a miniszter elhelyezését biztosító épülete,
 
-## m)[^108]
+## m)[^108] a területfejlesztési miniszter elhelyezését biztosító épület,
 
-## n)[^109]
+## n)[^109] a gazdaságfejlesztési miniszter elhelyezését biztosító épület,
 
 ## o) az Információs Hivatal központi objektuma,
 
@@ -186,7 +186,7 @@
 [^105]: Az 1. melléklet 2. pont d) alpontja a 267/2019. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^106]: Az 1. melléklet 2. pont g) alpontja a 267/2019. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^107]: Az 1. melléklet 2. pont i) alpontja a 238/2022. (VI. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^108]: Az 1. melléklet 2. pont m) alpontját a 238/2022. (VI. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^109]: Az 1. melléklet 2. pont n) alpontját a 238/2022. (VI. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^108]: Az 1. melléklet 2. pont m) alpontját a 238/2022. (VI. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte, újonnan a 243/2022. (VII. 4.) Korm. rendelet 1. §-a iktatta be.
+[^109]: Az 1. melléklet 2. pont n) alpontját a 238/2022. (VI. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte, újonnan a 243/2022. (VII. 4.) Korm. rendelet 1. §-a iktatta be.
 [^110]: Az 1. melléklet 2. pont p) alpontját a 267/2019. (XI. 19.) Korm. rendelet 2. §-a iktatta be.
 [^111]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
