@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-249-20-
 | 2019-04-05 | 2012-249-20-22.7 | 70/2019. (IV. 4.) Korm. rendelet |
 | 2019-04-24 | 2012-249-20-22.8 | 88/2019. (IV. 23.) Korm. rendelet |
 | 2021-01-01 | 2012-249-20-22.9 | 366/2012. (XII. 17.) Korm. rendelet |
+| 2022-07-05 | 2012-249-20-22.10 | 243/2022. (VII. 4.) Korm. rendelet |
