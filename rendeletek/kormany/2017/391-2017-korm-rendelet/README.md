@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-391-20-
 | 2020-02-15 | 2017-391-20-22.3 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-08-12 | 2017-391-20-22.4 | 368/2020. (VII. 28.) Korm. rendelet |
 | 2022-01-01 | 2017-391-20-22.5 | 683/2021. (XII. 6.) Korm. rendelet |
+| 2022-07-05 | 2017-391-20-22.6 | 243/2022. (VII. 4.) Korm. rendelet |

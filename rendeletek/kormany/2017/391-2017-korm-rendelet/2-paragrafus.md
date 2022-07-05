@@ -32,7 +32,7 @@ n) munkavégzéshez kötődő fejlesztési cél: az értékelő vezető által i
 
 o) stratégiai egyéni teljesítménykövetelmény: a szervezet stratégiai célkitűzéséből lebontott egyéni feladat, amelynek teljesítésével a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő a stratégiai célok elérésére a munkavégzése során befolyással lehet, valamint amellyel elő tudja mozdítani a szervezet eredményes és hatékony munkáját;
 
-p) személyügyi központ: a közszolgálati életpálya kidolgozásáért felelős miniszter által vezetett minisztériumban működő kormányzati személyügyi igazgatási feladatokat ellátó szervezeti egység, amely működteti az egyéni teljesítményértékelési rendszert;
+p)[^3] személyügyi központ: a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központ, amely működteti az egyéni teljesítményértékelési rendszert;
 
 q) tanulmányi pont: a továbbképzésben végzett tanulmányi munka mértékegysége, amely a továbbképzési programok, illetve az egyes kurzusok vonatkozásában arányaiban kifejezi azt a tanulmányi munkaórát, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges;
 
@@ -47,3 +47,4 @@ rc) ezeket méri, értékeli, és erről a közalkalmazott részére érdemi vis
 s) továbbképzési időszak: a továbbképzési kötelezettségek teljesítésére rendelkezésre álló négyéves időszak.
 
 [^2]: A 2. § a) pontja a 13/2020. (II. 7.) Korm. rendelet 130. § 2. pontja szerint módosított szöveg.
+[^3]: A 2. § p) pontja a 243/2022. (VII. 4.) Korm. rendelet 10. §-ával megállapított szöveg.

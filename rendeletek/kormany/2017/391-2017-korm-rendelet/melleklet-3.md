@@ -42,6 +42,6 @@
 
 | 8. | Szolgálatvezető |
 
-3. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^12]
+3. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^14]
 
-[^12]: A 3. melléklet a 683/2021. (XII. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^14]: A 3. melléklet a 683/2021. (XII. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
