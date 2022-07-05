@@ -1,3 +1,3 @@
-34. §[^92]
+34. §[^101]
 
-[^92]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

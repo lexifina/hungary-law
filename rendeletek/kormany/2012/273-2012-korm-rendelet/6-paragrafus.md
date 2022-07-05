@@ -1,6 +1,6 @@
 ## A Nemzeti Közszolgálati Egyetem
 
-## 6. §[^30] Az NKE a közszolgálati továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
+## 6. §[^31] Az NKE a közszolgálati továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
 
 a) a továbbképzési programok fejlesztésével összefüggő feladata körében kifejleszti, minősítésre benyújtja és fenntartja a KTK által meghatározott követelményrendszer szerinti közszolgálati továbbképzési programokat;
 
@@ -14,19 +14,19 @@ bc) kidolgozza a tervkészítéshez és az értékeléshez szükséges módszert
 
 bd) elvégzi a továbbképzési tervek összesítését,
 
-be) a tervek végrehajtása alapján éves összefoglaló jelentést készít a miniszter részére a tárgyévet követő év április 30-áig;
+be)[^32] a tervek végrehajtása alapján éves összefoglaló jelentést készít a személyügyi központ vezetője részére a tárgyévet követő év április 30-áig;
 
 c) a közszolgálati továbbképzési programok megvalósításával összefüggő feladatai körében:
 
 ca) az éves továbbképzési tervek alapján kialakítja oktatási programját, meghirdeti és megszervezi a továbbképzéseket,
 
-cb) a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a miniszter részére,
+cb)[^33] a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a személyügyi központ vezetője részére,
 
-cc) éves összefoglaló jelentést készít a miniszter részére a tárgyévet követő év április 30-áig a megvalósított közszolgálati továbbképzésekről, valamint az ezek megvalósításához felhasznált pénzügyi forrásokról;
+cc)[^34] éves összefoglaló jelentést készít a személyügyi központ vezetője részére a tárgyévet követő év április 30-áig a megvalósított közszolgálati továbbképzésekről, valamint az ezek megvalósításához felhasznált pénzügyi forrásokról;
 
 d) a továbbképzési programok minőségügyi követelményeinek biztosítása érdekében:
 
-da) fejleszti és működteti a továbbképzés minőségirányítási rendszerét a miniszter által kiadott továbbképzés minőségirányítási szabályzata alapján,
+da)[^35] fejleszti és működteti a továbbképzés minőségirányítási rendszerét a személyügyi központ vezetője által kiadott továbbképzés minőségirányítási szabályzata alapján,
 
 db) a továbbképzési programok minőségének megfelelősége érdekében minőségügyi ellenőrzéseket végez,
 
@@ -38,7 +38,11 @@ e) tervszerűen és rendszeresen gondoskodik a továbbképzések során közrem�
 
 f) közreműködik a továbbképzési programok minősítésében;
 
-g)[^31] gondoskodik a belső továbbképzési programok egyszerűsített nyilvántartásba vételéről és a továbbképzési programjegyzék kezeléséről.
+g)[^36] gondoskodik a belső továbbképzési programok egyszerűsített nyilvántartásba vételéről és a továbbképzési programjegyzék kezeléséről.
 
-[^30]: A 6. § a 378/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^31]: A 6. § g) pontját a 108/2016. (V. 18.) Korm. rendelet 24. §-a iktatta be.
+[^31]: A 6. § a 378/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^32]: A 6. § b) pont be) alpontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^33]: A 6. § c) pont cb) alpontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^34]: A 6. § c) pont cc) alpontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^35]: A 6. § d) pont da) alpontja a 243/2022. (VII. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^36]: A 6. § g) pontját a 108/2016. (V. 18.) Korm. rendelet 24. §-a iktatta be.
