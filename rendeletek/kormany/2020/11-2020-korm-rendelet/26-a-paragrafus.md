@@ -22,16 +22,17 @@ d) a foglalkoztatáspolitikáért felelős miniszter a foglalkoztatás elősegí
 
 e) a közfoglalkoztatásért felelős miniszter az Flt. 57/B. § (1) bekezdés 2. pont a) alpont ab) pontjában foglalt adatok közül a születés évét és a lakóhelyet, tartózkodási helyet, továbbá a) alpont ac) pontjában és b) alpont bb) pontjában foglalt adatokat,
 
-f) a személyügyi központ a személyügyi központról, a kiválasztási eljárásról és a közzétételi eljárásról szóló 70/2019. (IV. 4.) Korm. rendelet 19. §-a szerinti toborzási adatbázisból a munkakör megnevezésére, annak a FEOR szerinti négy számjegyű kódjára és a munkavégzés helyére vonatkozó adatokat,
+f)[^73] a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet [a továbbiakban: 716/2021. (XII. 20.) Korm. rendelet] szerinti személyügyi központ a 716/2021. (XII. 20.) Korm. rendelet szerinti toborzási adatbázisból a munkakör megnevezésére, annak a FEOR szerinti négy számjegyű kódjára és a munkavégzés helyére vonatkozó adatokat,
 
 g) a Központi Statisztikai Hivatal a foglalkoztatottak tárgyévi létszámát a gazdasági tevékenységek egységes ágazati osztályozási rendszere (TEÁOR) szerinti bontásban, valamint a FEOR szerinti négy számjegyű kód megadásával
 
 a munkaerő-piaci előrejelző rendszer számára a Hivatal által működtetett felületen, személyazonosításra alkalmatlan módon, az a), a b) és a d)–f) pont szerinti esetben a tárgyi negyedévet követő hónap utolsó napjáig, a c) és a g) pont szerinti esetben a tárgyévet követő első negyedév utolsó napjáig átadja.
 
-(5)[^73] A (4) bekezdés f) pontja szerinti adatszolgáltatás során a tárgyi negyedévben közzétett hirdetések anonimizált, teljes szövegét át kell adni a (4) bekezdés szerinti felületre való feltöltéssel.
+(5)[^74] A (4) bekezdés f) pontja szerinti adatszolgáltatás során a tárgyi negyedévben közzétett hirdetések anonimizált, teljes szövegét át kell adni a (4) bekezdés szerinti felületre való feltöltéssel.
 
 [^69]: A III/A. fejezetet (26/A. §) a 318/2020. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
 [^70]: [A 26/A. § (2) bekezdésében a 688/2021. (XII. 8.) Korm. rendelet 9. § i) pontjával elrendelt módosítás, amely szerint a „Nemzeti Szakképzési és Felnőttképzési Hivatal” szövegrész helyébe a „Hivatal” szöveg lép, nem vezethető át.]
 [^71]: A 26/A. § (3) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be, szövege e módosító rendelet 9. § j) pontja szerint módosított szöveg.
 [^72]: A 26/A. § (4) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be, záró szövegrésze e módosító rendelet 9. § j) pontja szerint módosított szöveg.
-[^73]: A 26/A. § (5) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
+[^73]: A 26/A. § (4) bekezdés f) pontja a 243/2022. (VII. 4.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^74]: A 26/A. § (5) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
