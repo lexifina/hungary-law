@@ -8,9 +8,9 @@ b) a közszolgálati továbbképzési és vezetőképzési programok megvalósí
 
 ba) az éves továbbképzési tervek alapján meghirdeti és megszervezi a közszolgálati továbbképzéseket,
 
-bb) a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a miniszter részére,
+bb)[^5] a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a személyügyi központ vezetője részére,
 
-bc) éves összefoglaló jelentést készít a miniszter részére a tárgyévet követő év április 30-áig a megvalósított közszolgálati továbbképzésekről, valamint az ezek megvalósításához felhasznált pénzügyi forrásokról;
+bc)[^6] éves összefoglaló jelentést készít a személyügyi központ vezetője részére a tárgyévet követő év április 30-áig a megvalósított közszolgálati továbbképzésekről, valamint az ezek megvalósításához felhasznált pénzügyi forrásokról;
 
 c) a továbbképzési programok minőségügyi követelményeinek biztosításával összefüggésben
 
@@ -25,3 +25,6 @@ d) tervszerűen és rendszeresen gondoskodik a továbbképzések során közrem�
 e) közreműködik a közszolgálati továbbképzési programok minősítésében.
 
 (2) Az Egyetem a közszolgálati továbbképzési kínálatában a köztisztviselőnek a tárgyévre legalább 16 tanulmányi pont és legfeljebb 40 tanulmányi pont értékű képzést köteles biztosítani.
+
+[^5]: A 9. § (1) bekezdés b) pont bb) alpontja a 243/2022. (VII. 4.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^6]: A 9. § (1) bekezdés b) pont bc) alpontja a 243/2022. (VII. 4.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
