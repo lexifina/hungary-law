@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-10-20-2
 | 2017-11-15 | 2013-10-20-22.10 | 338/2017. (XI. 14.) Korm. rendelet |
 | 2019-04-24 | 2013-10-20-22.11 | 89/2019. (IV. 23.) Korm. rendelet |
 | 2021-01-01 | 2013-10-20-22.12 | 479/2013. (XII. 17.) Korm. rendelet |
+| 2022-07-05 | 2013-10-20-22.13 | 243/2022. (VII. 4.) Korm. rendelet |

@@ -26,6 +26,6 @@
 
 ## értékelő vezető
 
-3. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^29]
+3. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^27]
 
-[^29]: A 3. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^27]: A 3. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
