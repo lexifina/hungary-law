@@ -1,4 +1,4 @@
-## 26. §[^31]
+## 26. §[^33]
 
 1. melléklet a 38/2011. (X. 5.) NGM rendelethez
 
@@ -62,4 +62,4 @@
 
 24. Parittyák és csúzlik.
 
-[^31]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

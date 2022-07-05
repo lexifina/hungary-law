@@ -36,6 +36,10 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (16)[^30] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete C. függelékének az egyes játékokban használt vegyi anyagokra vonatkozó egyedi határértékek elfogadása céljából a formaldehid tekintetében történő módosításáról szóló, 2019. november 19-i (EU) 2019/1929 bizottsági irányelvnek való megfelelést szolgálja.
 
+(17)[^31] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. mellékletének az allergén illatanyagok játékokban való jelenlétének jelölése tekintetében történő módosításáról szóló, 2020. december 11-i (EU) 2020/2088 bizottsági irányelvnek való megfelelést szolgálja.
+
+(18)[^32] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. mellékletének az allergén illatanyagok játékokban való jelenlétének tilalma tekintetében történő módosításáról szóló, 2020. december 11-i (EU) 2020/2089 bizottsági irányelvnek való megfelelést szolgálja.
+
 [^16]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^17]: A 25. § a 26/2012. (VIII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
 [^18]: A 25. § (4) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
@@ -51,3 +55,5 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^28]: A 25. § (14) bekezdését a 14/2018. (IX. 4.) ITM rendelet 7. § (4) bekezdése iktatta be.
 [^29]: A 25. § (15) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (1) bekezdése iktatta be.
 [^30]: A 25. § (16) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (2) bekezdése iktatta be.
+[^31]: A 25. § (17) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (3) bekezdése iktatta be.
+[^32]: A 25. § (18) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (4) bekezdése iktatta be.
