@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-153-20-
 | 2011-09-01 | 2010-153-20-22.6 | 207/2010. (VI. 30.) Korm. rendelet |
 | 2013-01-01 | 2010-153-20-22.7 | 415/2012. (XII. 29.) Korm. rendelet |
 | 2014-09-05 | 2010-153-20-22.8 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2022-07-05 | 2010-153-20-22.9 | 243/2022. (VII. 4.) Korm. rendelet |
