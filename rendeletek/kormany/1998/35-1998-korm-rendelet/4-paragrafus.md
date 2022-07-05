@@ -16,7 +16,7 @@ b)[^18] érvényesüljenek az oktatással kapcsolatos, a KTK által meghatározo
 
 (6a)[^24] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 128. alcíme alá tartozó szervek hivatásos állományú tagja – a Kttv. 118. § (10) bekezdésében foglaltak figyelembevételével – az NKE-n tehet szakvizsgát azzal, hogy a rendvédelmi feladatokat ellátó szerv és az NKE megállapodást köt a hivatásos állomány adatainak védelméről.
 
-(7)[^25] A szakvizsgaszervezőt a (3) bekezdésben meghatározott feladatainak végrehajtása során közszolgálati életpálya kidolgozásáért felelős miniszter irányítja.
+(7)[^25] A szakvizsgaszervezőt a (3) bekezdésben meghatározott feladatainak végrehajtása során személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központ vezetője irányítja.
 
 [^16]: A 4. § a 252/2008. (X. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^17]: A 4. § (1) bekezdés nyitó szövegrésze a 415/2012. (XII. 29.) Korm. rendelet 5. § (5) bekezdés d) pontja, a 108/2016. (V. 18.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
@@ -27,4 +27,4 @@ b)[^18] érvényesüljenek az oktatással kapcsolatos, a KTK által meghatározo
 [^22]: A 4. § (5) bekezdését a 153/2010. (V. 4.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^23]: A 4. § (6) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés b) és f) pontja, a 108/2016. (V. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^24]: A 4. § (6a) bekezdését a 108/2016. (V. 18.) Korm. rendelet 2. §-a iktatta be.
-[^25]: A 4. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 185. §-a szerint módosított szöveg.
+[^25]: A 4. § (7) bekezdése a 243/2022. (VII. 4.) Korm. rendelet 2. §-a szerint módosított szöveg.
