@@ -34,11 +34,11 @@ j) dokumentumok és minőségügyi feljegyzések kezelését.
 
 (8) Amennyiben a helyszíni ellenőrzés során a minőségügyi auditor eltérést tapasztal a minőségirányítási eljárásban meghatározott követelményektől, akkor a helyszíni ellenőrzés nem megfelelőséget állapít meg. Nem megfelelőség esetén az erre vonatkozó eljárást kell alkalmazni.
 
-(9)[^26] Az éves helyszíni minőségügyi ellenőrzések összefoglaló jelentését az NKE az éves helyszíni ellenőrzés befejezését követő harmincadik napig készíti el. Az NKE az éves helyszíni minőségügyi ellenőrzések összefoglaló jelentését a miniszternek megküldi jóváhagyásra.
+(9)[^26] Az éves helyszíni minőségügyi ellenőrzések összefoglaló jelentését az NKE az éves helyszíni ellenőrzés befejezését követő harmincadik napig készíti el. Az NKE az éves helyszíni minőségügyi ellenőrzések összefoglaló jelentését a személyügyi központ vezetőjének megküldi jóváhagyásra.
 
 [^21]: A 3/A. § (1) bekezdése a 273/2012. (IX. 28.) Korm. rendelet 31. § (5) bekezdés a) pontja, a 108/2016. (V. 18.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
 [^22]: A 3/A. § (2) bekezdését a 273/2012. (IX. 28.) Korm. rendelet 31. § (6) bekezdés a) pontja hatályon kívül helyezte.
 [^23]: A 3/A. § (3) bekezdés nyitó szövegrésze a 273/2012. (IX. 28.) Korm. rendelet 31. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^24]: A 3/A. § (5) bekezdése a 273/2012. (IX. 28.) Korm. rendelet 31. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^25]: A 3/A. § (6) bekezdése a 273/2012. (IX. 28.) Korm. rendelet 31. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^26]: A 3/A. § (9) bekezdése a 273/2012. (IX. 28.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^26]: A 3/A. § (9) bekezdése a 273/2012. (IX. 28.) Korm. rendelet 31. § (3) bekezdésével megállapított, a 243/2022. (VII. 4.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
