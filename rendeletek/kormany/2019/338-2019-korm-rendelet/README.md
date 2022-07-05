@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-338-20-
 | 2020-01-02 | 2019-338-20-22.2 | 2010: CXXX. törvény |
 | 2020-06-18 | 2019-338-20-22.3 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2022-01-01 | 2019-338-20-22.4 | 499/2021. (VIII. 18.) Korm. rendelet |
+| 2022-07-05 | 2019-338-20-22.5 | 243/2022. (VII. 4.) Korm. rendelet |

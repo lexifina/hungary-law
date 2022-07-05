@@ -1,1 +1,3 @@
-## 17. § A központi kormányzati igazgatási szerv a 12. § szerinti normatív hozzájárulást 2020. április 30-áig fizeti meg az Egyetem részére.
+## 17. §[^8]
+
+[^8]: A 17. §-t a 243/2022. (VII. 4.) Korm. rendelet 22. §-a hatályon kívül helyezte.

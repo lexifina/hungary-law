@@ -14,7 +14,7 @@ e) a központi oktatás-informatikai rendszerben biztosítja a továbbképzések
 
 f) kidolgozza a tervkészítésre vonatkozó módszertani eljárásokat;
 
-g) a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a személyügyi központ, illetve a miniszter részére.
+g)[^5] a továbbképzések megvalósításáról nyilvántartást vezet, statisztikai célú adatszolgáltatást végez a személyügyi központ vezetője részére.
 
 (2) A továbbképzési program (1) bekezdés a) pont szerinti fejlesztése magában foglalja a továbbképzési programokban felhasznált szakanyagok létrehozását, továbbá a képzés során alkalmazott oktatásmódszertan, a képzések követelményrendszerének megfelelő tanmenet és a képzésekben felhasznált tananyagok, oktatási segédanyagok fejlesztését.
 
@@ -23,3 +23,5 @@ g) a továbbképzések megvalósításáról nyilvántartást vezet, statisztika
 (4) Az Egyetem a központi kormányzati igazgatási szervvel kötött külön megállapodás alapján a 3. § (2) bekezdésében felsorolt képzéseknek nem minősülő egyéb képzéseket biztosíthat.
 
 (5) Az Egyetem működteti a továbbképzésekkel összefüggő tervkészítési feladatok ellátását és az egyéni továbbképzési tervek teljesülésének nyomon követését támogató központi oktatás-informatikai rendszert, valamint kidolgozza a tervkészítéshez szükséges módszertani ajánlásokat.
+
+[^5]: A 9. § (1) bekezdés g) pontja a 243/2022. (VII. 4.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
