@@ -2,9 +2,6 @@
 
 (2) Ez a rendelet a 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete C. függelékének az egyes játékokban használt vegyi anyagokra vonatkozó egyedi határértékek elfogadása céljából a formaldehid tekintetében történő módosításáról szóló, 2019. november 19-i (EU) 2019/1929 bizottsági irányelvnek való megfelelést szolgálja.
 
-(3)[^10]
+(3) Ez a rendelet a 2009/48/EK európai parlamenti és tanácsi irányelv II. mellékletének az allergén illatanyagok játékokban való jelenlétének jelölése tekintetében történő módosításáról szóló, 2020. december 11-i (EU) 2020/2088 bizottsági irányelvnek való megfelelést szolgálja.
 
-(4)[^11]
-
-[^10]: A 6. § (3) bekezdése az 5. § (3) bekezdése alapján 2022. július 5-én lép hatályba.
-[^11]: A 6. § (4) bekezdése az 5. § (3) bekezdése alapján 2022. július 5-én lép hatályba.
+(4) Ez a rendelet a 2009/48/EK európai parlamenti és tanácsi irányelv II. mellékletének az allergén illatanyagok játékokban való jelenlétének tilalma tekintetében történő módosításáról szóló, 2020. december 11-i (EU) 2020/2089 bizottsági irányelvnek való megfelelést szolgálja.

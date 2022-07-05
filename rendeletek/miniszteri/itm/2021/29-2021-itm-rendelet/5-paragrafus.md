@@ -1,4 +1,4 @@
-## 4. §[^9]
+## 4. §[^6]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. § (3) és (4) bekezdése, a 2. § (3) bekezdése, a 6. § (3) és (4) bekezdése, valamint a 3. melléklet 2022. július 5-én lép hatályba.
 
-[^9]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
