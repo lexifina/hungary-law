@@ -1,5 +1,3 @@
-## 3. § A Kormány a személyügyi központ feladatait ellátó szervként a közszolgálati életpálya kidolgozásáért felelős miniszter által vezetett kormányzati igazgatási szervet jelöli ki.
-
 4. § (1) A személyügyi központ feladata az e rendelet szerinti KSzSzK működtetése.
 
 (2) Az (1) bekezdésben foglalt feladattal együttesen a személyügyi központ feladatai:
