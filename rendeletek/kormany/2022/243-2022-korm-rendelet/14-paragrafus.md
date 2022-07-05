@@ -1,0 +1,1 @@
+## 13. § A 71/2019. (IV. 4.) Korm. rendelet 1. § c) pontjában az „(a továbbiakban: rendelkezési állományú katona)” szövegrész helyébe az „(a továbbiakban: rendelkezési állományú katona), valamint” szöveg lép.
