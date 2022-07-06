@@ -1,3 +1,3 @@
-2. melléklet a 29/2021. (VI. 30.) ITM rendelethez[^8]
+2. melléklet a 29/2021. (VI. 30.) ITM rendelethez[^12]
 
-[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
