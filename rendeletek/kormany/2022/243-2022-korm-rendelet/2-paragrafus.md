@@ -1,3 +1,5 @@
-## 1. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
 
 ## 2. A közigazgatási szakvizsgáról szóló 35/1998. (II. 27.) Korm. rendelet módosítása
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
