@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-12-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2022-07-08 | 2022. évi XII. törvény | 2022-12-00-00.0 (közlönyállapot) |
+| 2022-07-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-12-00-00.1 |
