@@ -26,7 +26,7 @@ b) gyakorlati tárgy esetén, az adott úszólétesítmény vezetésére érvén
 
 c) szimulátor berendezés igénybevételével folytatott képzés esetén a szükséges szimulátor kezelésével kapcsolatos, legalább 30 nap igazolt gyakorlati tapasztalattal és instruktori képesítéssel
 
-## rendelkezik.
+rendelkezik.
 
 (10)[^35] A hajózási hatóság az engedélyező határozatban megjelöli azon vizsgatárgyakat és témaköröket, amelyek vizsgáira felkészítő képzésben az oktató részt vehet.
 

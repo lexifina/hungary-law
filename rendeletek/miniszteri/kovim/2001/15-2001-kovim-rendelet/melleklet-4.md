@@ -840,7 +840,7 @@
 
 4. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez
 
-## Képesítési előírások a kedvtelési célú kishajó vezetője számára, a képesítés megszerzésének feltételei, a képesítővizsgák tananyaga
+Képesítési előírások a kedvtelési célú kishajó vezetője számára, a képesítés megszerzésének feltételei, a képesítővizsgák tananyaga
 
 I. Fejezet
 

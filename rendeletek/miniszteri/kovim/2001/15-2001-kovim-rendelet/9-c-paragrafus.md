@@ -4,9 +4,9 @@ a) a bizonyítványt kiállító állam állampolgára,
 
 b) valamelyik észak-amerikai állam állampolgára,
 
-c)[^67] olyan állam állampolgára, amely tagja az ENSZ Európai Gazdasági Bizottságának, és a bizonyítványt kiállító államban lakóhellyel rendelkezik, vagy
+c)[^67] olyan állam állampolgára, amely tagja az ENSZ Európai Gazdasági Bizottságának,, vagy
 
 d) olyan állam állampolgára, amely nem tagja az ENSZ Európai Gazdasági Bizottságának.
 
 [^66]: A 9/C. §-t a 46/2021. (IX. 13.) ITM rendelet 10. §-a iktatta be.
-[^67]: A 9/C. § c) pontjának „és a bizonyítványt kiállító államban lakóhellyel rendelkezik” szövegrész alaptörvény-ellenességét a 14/2022. (VII. 7.) AB határozat 2. pontja megállapította.
+[^67]: A 9/C. § c) pontjának „és a bizonyítványt kiállító államban lakóhellyel rendelkezik” szövegrészét a 14/2022. (VII. 7.) AB határozat 2. pontja megsemmisítette 2022. július 8. napjával.

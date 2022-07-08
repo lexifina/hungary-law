@@ -26,7 +26,7 @@ i) a géptéri őrszolgálatért felelős géptiszti képesítés, 3000 kW alatt
 
 j) navigációs és géptéri őrszolgálat tagja képesítés a navigációs és géptéri őrszolgálat tagja képesítésnek
 
-## felel meg.
+felel meg.
 
 (3)[^91] A megszűnő tengerész fedélzeti képesítéseket igazoló okmányok kicserélése során azoknak a tiszteknek a képesítő okmányát, akik nem rendelkeznek ,,automatikus radar-céltárgy értékelő rendszer'' kezelői képesítéssel, a vizsgaközpont erre vonatkozó bejegyzéssel látja el.
 
@@ -40,7 +40,7 @@ c) a 150 tengeri mérföldnyi távolságra való eltávolodásra jogosító kish
 
 d) a korlátlan tengeri mérföldnyi távolságra való eltávolodásra jogosító kishajó-vezetői képesítést a korlátlan rádiókezelői bizonyítvány bemutatása után I. osztályú okmányra
 
-## cseréli ki.
+cseréli ki.
 
 (5)[^93] A (4) bekezdés szerinti okmánycserék további feltétele a cserére kerülő okmányban érvényes egészségi alkalmassági bejegyzés megléte vagy a tengerész-orvosi vizsgálatokra jogosult orvos által kiállított érvényes egészségi alkalmassági igazolás bemutatása.
 
