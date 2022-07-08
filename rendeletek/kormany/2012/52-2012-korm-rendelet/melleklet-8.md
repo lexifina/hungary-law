@@ -1,4 +1,4 @@
-8. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^30]
+8. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^31]
 
 A 3. § (3) bekezdése szerinti vállalkozási importengedély iránti kérelem űrlapja és mellékletei
 
@@ -74,4 +74,4 @@ a) – az 5. § (4) bekezdése kivitelével – első alkalommal a kérelmező k
 
 b) a vállalkozási szerződés és a teljesítési szerződés egy eredeti és egy másolati példánya.
 
-[^30]: A 8. melléklet a 355/2012. (XII. 13.) Korm. rendelet 47. §-a, a 393/2017. (XII. 13.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^31]: A 8. melléklet a 355/2012. (XII. 13.) Korm. rendelet 47. §-a, a 393/2017. (XII. 13.) Korm. rendelet 45. §-a szerint módosított szöveg.
