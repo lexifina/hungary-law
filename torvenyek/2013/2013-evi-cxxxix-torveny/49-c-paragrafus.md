@@ -2,6 +2,8 @@
 
 (2) A döntés tartalmazza az eljáró hatóság, az ügyfelek és az ügy azonosításához szükséges minden adatot, a rendelkező részt – az MNB döntésével, a szakhatóság állásfoglalásával, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel –, továbbá a megállapított tényállásra, a bizonyítékokra, a szakhatósági állásfoglalás indokolására, a mérlegelés és a döntés indokaira, valamint az azt megalapozó jogszabályhelyek megjelölésére is kiterjedő indokolást.
 
+(2a) A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény (a továbbiakban: Jht.) 23. §-a alapján hozott határozat a (2) bekezdésben foglaltakon kívül tartalmazza az arról szóló tájékoztatást is, hogy a határozatot az MNB a honlapján közzéteszi.
+
 (3) Jogorvoslatról való tájékoztatást mellőző, az indokolásban pedig csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható
 
 a) ha az MNB a kérelemnek teljes egészében helyt ad, és az ügyben nincs ellenérdekű ügyfél, vagy a döntés az ellenérdekű ügyfél jogát vagy jogos érdekét nem érinti,

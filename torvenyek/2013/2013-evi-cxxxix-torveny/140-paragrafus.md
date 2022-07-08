@@ -156,6 +156,8 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 2.28. a Bszt. 107. § (1) és (4) bekezdése szerinti döntéséről;
 
+2.29. a Jht. 23. §-a szerint előírt valamennyi intézkedéséről – beleértve a kapcsolódó jogorvoslati kérelmeket és azok kimenetelét –, valamint valamennyi elrendelt büntetőjogi szankcióval kapcsolatos jogerős ítéletről;
+
 3. az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
 
 3.1.

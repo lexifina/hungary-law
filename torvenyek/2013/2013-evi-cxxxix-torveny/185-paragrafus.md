@@ -44,4 +44,6 @@
 
 21. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek
 
+22. a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2162 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
