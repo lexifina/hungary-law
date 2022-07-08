@@ -1,1 +1,5 @@
-123. §
+123. § A Szantv. 3. §-a a következő 24b. ponttal egészül ki:
+
+(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában)
+
+„24b. fedezett kötvény: olyan kötvény, amely a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2162 európai parlamenti és tanácsi irányelvet átültető EGT-állam jogszabálya alapján fedezett kötvénynek minősül, vagy a 2022. július 8. előtt kibocsátott olyan kötvény, amelynek kibocsátója egy EGT-államban székhellyel rendelkező és jogszabálynál fogva a kötvénytulajdonosok érdekeinek védelmére létrehozott különleges állami felügyelet hatálya alatt álló hitelintézet, feltéve, hogy ez utóbbinak a kötvények kibocsátásából befolyt összegeket jogszabálynál fogva olyan eszközökbe kell befektetni, amelyek a kötvények futamideje alatt mindvégig alkalmasak a kötvényekhez rendelt követelések kielégítésére, és amelyeket a kibocsátó felszámolása esetén első helyen a tőke visszatérítésére és a felhalmozott kamat kifizetésére kell felhasználni;”
