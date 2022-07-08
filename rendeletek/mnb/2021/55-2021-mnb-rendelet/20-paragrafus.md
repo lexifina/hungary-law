@@ -1,3 +1,1 @@
-## 19. §[^1]
-
-[^1]: A 19. § a 16. § (3) bekezdése alapján 2022. július 8-án lép hatályba.
+## 19. § A 2. és a 3. melléklet a 21. és a 22. melléklet szerint módosul.

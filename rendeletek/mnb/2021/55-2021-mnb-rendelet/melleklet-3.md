@@ -1,6 +1,6 @@
-## 20212C20000055_1
+## 20212C20000055_10
 
-3. melléklet az 55/2021. (XI. 23.) MNB rendelethez
+3. melléklet az 55/2021. (XI. 23.) MNB rendelethez[^3]
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -1940,7 +1940,13 @@ Az 1031, 1032 és 1033 sorban külön kell kimutatni a Jht. 5. § (1) bekezdése
 
 A hitelállomány szerződéses futamidejének megállapításánál a futamidő kezdő napja a szerződéskötés, utolsó napja az utolsó tőketörlesztés dátuma. A hiteldöntések meghozatalakor az adatszolgáltatónak figyelembe kell vennie a futamidőknek – a Jht.-ben – előírt arányát.
 
+A 108 Jelzáloglevelek pótfedezete összesen [Jht. 14. § (11) bekezdés] soron a likviditási pufferbe számító eszközök nem szerepeltethetők.
+
 Az 1081 - Állampapír a pótfedezetből és az 1082 - Állami készfizető kezességvállalással kibocsátott értékpapír-állomány a pótfedezetből sorban az értékpapírokat a nyilvántartási értéken kell szerepeltetni.
+
+Az eszközöket az (EU) 2015/61 felhatalmazáson alapuló bizottsági rendelettel összhangban kell értékelni, de az 1091 Likvid eszköz sorban jelentendő tételek meghatározásakor a Jht. 14/B. §-a az irányadó. Csak a fedezeti halmazba vont – és azon belül is a likviditási puffer részeként nyilvántartott – tételek jelentendők, ugyanakkor az ebből adódó operatív korlátokat nem kell figyelembe venni.
+
+A 160 180 napon belüli legmagasabb nettó kiáramlás soron jelentendő adat meghatározásakor csak a jelzáloglevél-programhoz kapcsolódó tételeket kell figyelembe venni, azaz a Jht. 14. § (1a) bekezdésében meghatározott kötelezettségeket, illetve a Jht. 14. § (1b) bekezdésében meghatározott fedezeti eszközöket, kivéve – a kettős beszámítás elkerülése érdekében – a likviditási pufferhez tartozó beáramlásokat. Amennyiben egy beáramlás a kiáramlások előtt esedékes, azaz az adott napig számolt nettó kiáramlás negatív, akkor figyelembe lehet venni a későbbi kiáramlásokat csökkentő tételként. Ha a kumulált nettó kiáramlás mind a 180 napon negatív (azaz beáramlás jellegű), akkor 0-t kell jelenteni.
 
 A külön nem részletezett állományi és számított adatokat értelemszerűen a jogszabályi előírásoknak megfelelően kell kimutatni. Az arányszámokat két tizedesjegy pontossággal, százalékban kell megadni.
 
@@ -1948,7 +1954,7 @@ Külön soron (felbontott szerződések) kell szerepeltetni azon szerződések d
 
 A 2. táblarészben jelentendő kibocsátott és forgalomban lévő jelzáloglevelek adatainál a sorok száma nem korlátozott, a 6DA kódú tábla a)-d) oszlopában kezdődő felsorolást az e)-h) oszlopban kell folytatni mindaddig, amíg az összes jelzáloglevél kimutatásra nem kerül. A 6DB kódú tábla 2. táblarészében a négy kiemelt devizában kibocsátott egyedi jelzáloglevelek „Névértéke (még nem törlesztett)” és „Fizetendő kamat összege a futamidő végéig” adatait devizában kell kimutatni. A 6DB kódú táblában a négy kiemelt devizában kibocsátott jelzáloglevelek adatait az 1. táblarész oszlopaival összhangban külön oszlopokban kell jelenteni. A négy kiemelt devizában fennálló jelzáloglevél-állomány névértéke és kamata összegeit a tárgyhónap utolsó napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani és a 6DA kódú tábla 2. táblarészében devizanemenként összesített adatokkal feltüntetni, a sorozatszám mezőben a devizanem ISO kódját feltüntetve. A 6DA kódú táblában az egyéb devizákban kibocsátott egyedi jelzáloglevelek névérték és kamat összegeit az MNB által közzétett hivatalos devizaárfolyamon átszámított forintértéken kell kimutatni, a jelzáloglevelek sorozatszámának feltüntetésével. A 6DA kódú táblában a forintban kibocsátott jelzáloglevelek névértéke és kamata összegeit is egyedileg kell kimutatni, a jelzáloglevelek sorozatszámának feltüntetésével.
 
-A Jelzáloglevélből származó kötelezettség összesen értéke (amely a 6DA2,d és 6DA2,h mezőben szereplő részösszegek összesített értéke) tartalmazza a 6DA111 sorban szereplő %-os mutató számlálóját.
+A Jelzáloglevélből származó kötelezettség összesen értéke (amely a 6DA3,d és 6DA3,h mezőben szereplő részösszegek összesített értéke) tartalmazza a 6DA150 sorban szereplő %-os mutató nevezőjét.
 
 33. F6D Jelzálog-hitelintézet fióktelep adatai
 
@@ -1967,6 +1973,14 @@ Az F6D102 Jelzáloghitelekből eredő kamatkövetelések állománya sorban a hi
 Az F6D1031, F6D1032, F6D1033 sorban külön kell kimutatni a Jht. 5. § (1) bekezdése szerint az eredetileg – a kölcsönszerződések megkötésekor, a jelzáloghitelek megvásárlásakor, az önálló zálogjog vásárlások időpontjában – öt évnél hosszabb, az öt éves, valamint az öt évnél rövidebb futamidejű jelzáloghiteleknek a teljes jelzáloghitel-állományhoz viszonyított arányát. Az arányt százalékban, két tizedesjegy pontossággal kell kimutatni.
 
 A hitelállomány szerződéses futamidejének megállapításánál a futamidő kezdő napja a szerződéskötés, utolsó napja az utolsó tőketörlesztés dátuma.
+
+Az F6D108 Jelzáloglevelek pótfedezete összesen [Jht. 14. § (11) bekezdés] soron a likviditási pufferbe számító eszközök nem szerepeltethetők.
+
+Az F6D1081 - Állampapír a pótfedezetből és az F6D1082 - Állami készfizető kezességvállalással kibocsátott értékpapír-állomány a pótfedezetből sorban az értékpapírokat a nyilvántartási értéken kell szerepeltetni.
+
+Az eszközöket az (EU) 2015/61 felhatalmazáson alapuló bizottsági rendelettel összhangban kell értékelni, de az F6D1091 Likvid eszköz sorban jelentendő tételek meghatározásakor a Jht. 14/B. §-a az irányadó. Csak a fedezeti halmazba vont – és azon belül is a likviditási puffer részeként nyilvántartott – tételek jelentendők, ugyanakkor az ebből adódó operatív korlátokat nem kell figyelembe venni.
+
+Az F6D160 180 napon belüli legmagasabb nettó kiáramlás soron jelentendő adat meghatározásakor csak a jelzáloglevél-programhoz kapcsolódó tételeket kell figyelembe venni, azaz a Jht. 14. § (1a) bekezdésében meghatározott kötelezettségeket, illetve a Jht. 14. § (1b) bekezdésében meghatározott fedezeti eszközöket, kivéve – a kettős beszámítás elkerülése érdekében – a likviditási pufferhez tartozó beáramlásokat. Amennyiben egy beáramlás a kiáramlások előtt esedékes, azaz az adott napig számolt nettó kiáramlás negatív, akkor figyelembe lehet venni a későbbi kiáramlásokat csökkentő tételként. Ha a kumulált nettó kiáramlás mind a 180 napon negatív (azaz beáramlás jellegű), akkor 0-t kell jelenteni.
 
 A külön nem részletezett állományi és számított adatokat értelemszerűen a jogszabályi előírásoknak megfelelően kell kimutatni.
 
@@ -3214,4 +3228,4 @@ Nem jelentendő tételek, a teljesség igénye nélkül: részvények, részesed
 
 Az ebben a táblában jelentett adatok áttekintést nyújtanak az alábbiakról:
 
-• egy ≤ 200 bázispontos párhuzamos kamatlábváltozás, valamint az EBA iránymutatásban ismertetett 6 felügyeleti kamatszcenárió hatása az adatszolgáltató alábbi mutatóira:
+[^3]: A 3. melléklet a 19. § szerint módosított szöveg.

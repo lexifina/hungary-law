@@ -1,4 +1,4 @@
-## 20. §[^2]
+## 20. §[^1]
 
 1. melléklet az 55/2021. (XI. 23.) MNB rendelethez
 
@@ -872,4 +872,4 @@ Az állományi típusú jelentéseknél a valutakészletek, valamint a külföld
 
 A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik, az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-[^2]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
