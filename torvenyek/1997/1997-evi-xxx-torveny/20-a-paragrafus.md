@@ -1,4 +1,4 @@
-20/A. § (1) A fedezeti gondnokra a pénzügyi intézmény felszámolójára, a fedezeti gondnoki feladatok ellátására kinevezett természetes személyre pedig a felszámolóbiztosra irányadó szabályokat kell megfelelően alkalmazni.
+20/A. § (1) A fedezeti gondnokra a felügyeleti biztosra vonatkozó szabályokat azzal az eltéréssel kell alkalmazni, hogy megbízatása a felszámolási, szanálási eljárás alatt nem szűnik meg, valamint nem veszi át a jelzálog-hitelintézet irányítási jogkörrel rendelkező vezető testületének jogkörét.
 
 (2) A fedezeti gondnok a felszámolás kezdő időpontjától kezdődően kizárólagosan jogosult a 20. § (5) bekezdésében meghatározott vagyontárgyak tekintetében – a vagyonellenőri jogosultságok változatlan fennállása mellett – a jelzálog-hitelintézet nevében eljárni.
 

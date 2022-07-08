@@ -6,4 +6,4 @@ b) a fedezethez kapcsolódó kockázatokról kellőképpen meggyőződött; és
 
 c) fedezet-nyilvántartási szabályzata lehetővé teszi az adott tagállam területén lévő ingatlanon alapított jelzálogjog fedezete mellett nyújtott jelzáloghitel fedezetbe vonását.
 
-(2) Az (1) bekezdés c) pontjának megfelelő fedezet-nyilvántartási szabályzatot a Magyar Nemzeti Bank abban az esetben hagyja jóvá, ha az (1) bekezdés a)–b) pontjában foglalt feltételek az adott tagállam területén lévő ingatlanon alapított jelzálogjog fedezete mellett nyújtott jelzáloghitel esetében teljesülnek.
+(2) Az (1) bekezdés c) pontjának megfelelő fedezet-nyilvántartási szabályzatot a Felügyelet abban az esetben hagyja jóvá, ha az (1) bekezdés a)–b) pontjában foglalt feltételek az adott tagállam területén lévő ingatlanon alapított jelzálogjog fedezete mellett nyújtott jelzáloghitel esetében teljesülnek.

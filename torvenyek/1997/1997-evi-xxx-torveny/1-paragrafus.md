@@ -1,5 +1,5 @@
 ## I. RÉSZ
 
-## A TÖRVÉNY HATÁLYA
+## ÁLTALÁNOS RENDELKEZÉSEK
 
 1. § E törvény rendelkezéseit kell alkalmazni Magyarországon alapított és működő jelzálog-hitelintézetre, valamint a jelzáloglevélre.

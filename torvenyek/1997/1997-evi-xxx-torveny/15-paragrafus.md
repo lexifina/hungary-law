@@ -1,6 +1,6 @@
 ## Jelzáloglevélből eredő kötelezettség átszállása
 
-15. § (1) A jelzálog-hitelintézet az átalakítása vagy felszámolása esetén valamennyi, a kibocsátott jelzáloglevelekkel és a megkötött derivatív ügyletekkel kapcsolatos szerződésből származó jogát és kötelezettségét a Magyar Nemzeti Bank engedélyével egészben vagy részben más jelzálog-hitelintézetre átruházhatja.
+15. § (1) A jelzálog-hitelintézet az átalakítása vagy felszámolása esetén valamennyi, a kibocsátott jelzáloglevelekkel és a megkötött derivatív ügyletekkel kapcsolatos szerződésből származó jogát és kötelezettségét a Felügyelet engedélyével egészben vagy részben más jelzálog-hitelintézetre átruházhatja.
 
 (2) Jelzáloglevélből és származtatott (derivatív) ügyletből eredő kötelezettség átvállalása során a Polgári Törvénykönyv szerződésátruházásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az átruházás esetén a szerződés biztosítékai nem szűnnek meg, továbbá az átruházáshoz nem szükséges a jelzáloglevél-tulajdonos és a fedezetbe vont származtatott (derivatív) ügylet szerződött partnerének hozzájárulása. Az átruházással – az engedély kézhezvételének időpontjától – a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettség az átruházó jelzálog-hitelintézetet terheli.
 
@@ -18,10 +18,10 @@ e) annak igazolását, hogy az átvevő jelzálog-hitelintézet rendelkezik a sa
 
 f) részleges átruházás esetén annak igazolását, hogy az átruházás a jelzálog-hitelintézet fizetőképességének folyamatos fenntartása és a jelzáloglevél-tulajdonosok kielégítése érdekében szükséges, illetve a vagyonellenőr írásbeli nyilatkozatát arról, hogy az átruházással nem érintett jelzáloglevelek tulajdonosai az átruházást követően nem kerülnek hátrányosabb helyzetbe.
 
-(4) A Magyar Nemzeti Bank az átruházás engedélyezését megtagadja, ha az veszélyezteti az átruházással érintett jelzáloglevelekből eredő kötelezettségek teljesítését. A Magyar Nemzeti Bank részleges átruházás esetén az átruházás engedélyezését akkor is megtagadhatja, ha az az átruházással nem érintett jelzáloglevelekből eredő kötelezettségek teljesítését veszélyezteti.
+(4) A Felügyelet az átruházás engedélyezését megtagadja, ha az veszélyezteti az átruházással érintett jelzáloglevelekből eredő kötelezettségek teljesítését. A Felügyelet részleges átruházás esetén az átruházás engedélyezését akkor is megtagadhatja, ha az az átruházással nem érintett jelzáloglevelekből eredő kötelezettségek teljesítését veszélyezteti.
 
 (5) Jelzáloglevélből eredő kötelezettség csak rendes és pótfedezete egyidejű átadásával ruházható át.
 
 (6) Az állományt átvevő jelzálog-hitelintézet az átadó jelzálog-hitelintézet által meghatározott eredeti feltételeknek megfelelően új jelzálogleveleket hoz forgalomba.
 
-(7) Az állományt átvevő jelzálog-hitelintézet az állomány átvételéről és az átadó jelzálog-hitelintézet által forgalomba hozott jelzáloglevelek bevonásáról – az engedélyező határozat kézhezvételétől számított harminc napon belül – egy országos napilapban és a tőzsde lapjában hirdetményt köteles közzétenni.
+(7) Az állományt átvevő jelzálog-hitelintézet az állomány átvételéről és az átadó jelzálog-hitelintézet által forgalomba hozott jelzáloglevelek bevonásáról – az engedélyező határozat kézhezvételétől számított harminc napon belül – a tőzsde lapjában hirdetményt köteles közzétenni.

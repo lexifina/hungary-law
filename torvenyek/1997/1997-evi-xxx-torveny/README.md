@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-30-00-00
 | 2016-07-01 | 2016. évi LIII. törvény | 1997-30-00-00.32 |
 | 2016-10-01 | 2016. évi LIII. törvény | 1997-30-00-00.33 |
 | 2017-07-01 | 2017. évi LXIX. törvény | 1997-30-00-00.34 |
+| 2022-07-08 | 2021. évi LVIII. törvény | 1997-30-00-00.35 |

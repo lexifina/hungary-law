@@ -1,0 +1,1 @@
+13/A. § A jelzálog-hitelintézet megfelelő dokumentációs rendszerekkel és eljárásokkal rendelkezik annak érdekében, hogy a jogszabályban foglaltak teljesítésére alkalmas módon tartsa nyilván a jelzáloglevél-programmal kapcsolatos ügyleteit.
