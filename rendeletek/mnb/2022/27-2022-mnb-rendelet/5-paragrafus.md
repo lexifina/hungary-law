@@ -1,0 +1,1 @@
+## 4. § Azon harmadik országban lévő féllel szembeni kitettségek esetében, amelyeknél ezen kitettségek szerinti ország kijelölt hatósága vagy e rendelet nem állapít meg eltérő anticiklikus tőkepufferrátát, 0 százalékos mértékű anticiklikus tőkepufferráta alkalmazandó.
