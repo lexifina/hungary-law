@@ -1,3 +1,3 @@
-## 3. § Az 52/2012. (III. 28.) Korm. rendelet 15. §-a a következő (3) bekezdéssel egészül ki:
+## 3. §[^4]
 
-## „(3) A kormányhivatal a 13/A. § (5) bekezdése szerinti esetek kivételével, – a bírságkiszabás tekintetében az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. § (2) bekezdésére figyelemmel – 400 ezer forinttól 1 millió forintig terjedő bírsággal sújtja azt a közbeszerzési szabályok szerint ajánlatkérőnek minősülő szerződő felet, aki az e rendelet szerinti engedély nélkül a 833/2014/EU tanácsi rendelet 5k. cikk (1) bekezdése szerinti korlátozást megsérti.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
