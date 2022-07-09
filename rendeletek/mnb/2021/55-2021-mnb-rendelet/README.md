@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-55-20-2
 | 2021-11-25 | 2021-55-20-2C.2 | 2010: CXXX. törvény |
 | 2022-01-01 | 2021-55-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-07-08 | 2021-55-20-2C.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-09 | 2021-55-20-2C.5 | 2010: CXXX. törvény |

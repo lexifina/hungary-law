@@ -1,1 +1,3 @@
-## 19. § A 2. és a 3. melléklet a 21. és a 22. melléklet szerint módosul.
+20. §[^3]
+
+[^3]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

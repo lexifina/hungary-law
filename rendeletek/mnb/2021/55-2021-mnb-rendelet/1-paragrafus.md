@@ -13,3 +13,5 @@ e) a pénzforgalmi intézményre,
 f) a Posta Elszámoló Központot működtető intézményre (a továbbiakban: PEKMI),
 
 g) az Európai Unió másik tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban (a továbbiakban: EGT-állam) székhellyel rendelkező hitelintézet, pénzügyi vállalkozás, elektronikuspénz-kibocsátó intézmény, pénzforgalmi intézmény magyarországi fióktelepére (a továbbiakban: EGT-fióktelep)
+
+(a továbbiakban együtt: adatszolgáltató) terjed ki.

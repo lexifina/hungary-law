@@ -1,6 +1,4 @@
-## 20212C20000055_10
-
-3. melléklet az 55/2021. (XI. 23.) MNB rendelethez[^3]
+3. melléklet az 55/2021. (XI. 23.) MNB rendelethez[^5]
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -1112,6 +1110,8 @@ Ha az adatszolgáltatás teljesítési határideje bankszünnapra esik, és ezé
 
 A tábla sorai
 
+1X09721Z_1
+
 | SOR | TARTALOM | HIVATKOZÁS [ alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr. szerinti M01 MNB azonosító kódú adatszolgáltatás, illetve a 4LAN és a 10GB és 10GC kódú tábla vonatkozó sorai] |
 
 | 4LAN1 | Eszköz oldali tételek |  |
@@ -1346,7 +1346,7 @@ A CASHFLOW703 Stand-by hitelkeretek soron csak a visszavonhatatlan, szerződött
 
 A CASHFLOW704 Kötelező jegybanki tartalék elvárt szintjétől való eltérés soron jelentendő adat az alábbi összefüggés alapján számítandó:
 
-D4= E – Ch, ahol
+D4= E – Ch,ahol
 
 D4: Eltérés összege
 
@@ -1358,7 +1358,7 @@ A kötelező jegybanki tartalék teljesítésére szolgáló bankszámla egyenle
 
 A CASHFLOW705 Kötelező jegybanki tartalék elvárt szintjének várható megváltozása soron jelentendő adat az alábbi összefüggés alapján számítandó:
 
-D5= Ch – Th, ahol
+D5= Ch – Th,ahol
 
 D5: Eltérés összege
 
@@ -3228,4 +3228,22 @@ Nem jelentendő tételek, a teljesség igénye nélkül: részvények, részesed
 
 Az ebben a táblában jelentett adatok áttekintést nyújtanak az alábbiakról:
 
-[^3]: A 3. melléklet a 19. § szerint módosított szöveg.
+• egy ≤ 200 bázispontos párhuzamos kamatlábváltozás, valamint az EBA iránymutatásban ismertetett 6 felügyeleti kamatszcenárió hatása az adatszolgáltató alábbi mutatóira:
+
+- gazdasági érték – 9R202–9R209 sor;
+
+- becsült 12 havi nettó kamatjövedelem – 9R210–9R217 sor;
+
+• az EBA iránymutatás, illetve HUF esetén az MNB honlapján közzétett „A tőkemegfelelés belső értékelési folyamata (ICAAP), a likviditás megfelelőségének belső értékelési folyamata (ILAAP) és felügyeleti felülvizsgálatuk, valamint az üzleti modell elemzés (BMA)” című kézikönyv II. függeléke alapján alkalmazott kamatszcenáriókra vonatkozó sokktípusok – 9R218–9R220 sor;
+
+• beágyazott opcionalitással rendelkező eszközök és források aránya a banki könyvben (a saját belső modellek szerint) – 9R221–9R224 sor.
+
+Az adatszolgáltatónak valamennyi jelentős devizanemben jelentenie kell a különböző hozamgörbe feltételezések melletti gazdasági érték és becsült kamatjövedelem mutatókat. Kötelezően jelentendő: HUF, EUR, USD, továbbá legalább annyi devizanem, hogy a jelentett devizanemek eszközeinek vagy forrásainak összesített értéke elérje vagy meghaladja az összes eszköz vagy forrás értékének 90%-át.
+
+A tábla sorai
+
+9R202–9R217 sor: A banki könyv becsült gazdasági értékének és nettó kamatbevétel 12 hónapos előrejelzésének változása
+
+Az adatszolgáltatóknak az EBA iránymutatás elvárásaival összhangban kell a számításokat elvégezni és az adatpontokat megadni. Az EBA iránymutatással összhangban az adatszolgáltató választhat, hogy a kamatfelárakat milyen módon veszi figyelembe az EVE-érzékenység számítása során, azonban ennek mind a pénzáramlásokban, mind az alkalmazott diszkontrátákban tükröződniük kell. Így a kamatfelárat tartalmazó pénzáramlások kerülnek diszkontálásra a kockázatmentes hozamgörbe + marzzsal, vagy a felár nélküli pénzáramlások diszkontálódnak a kockázatmentes hozamgörbével. A választott módszertannak konzisztensnek kell lennie a 9R1 kódú táblában jelentett kamat pénzáramlásokkal a felár tartalmazását tekintve.
+
+[^5]: A 3. melléklet a 19. § szerint módosított szöveg.

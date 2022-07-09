@@ -1,8 +1,6 @@
-## 20. §[^1]
-
 1. melléklet az 55/2021. (XI. 23.) MNB rendelethez
 
-## A pénz- és hitelpiaci szervezetek felügyeleti jelentéseire vonatkozó általános kitöltési előírások
+A pénz- és hitelpiaci szervezetek felügyeleti jelentéseire vonatkozó általános kitöltési előírások
 
 1. Kapcsolódó jogszabályok
 
@@ -636,6 +634,8 @@ A negyedéves szöveges jelentések esetén az adott negyedév zárónapját kel
 
 4.8.4. A melléklet típusa az MNB felé elektronikusan megküldendő alábbi dokumentumok rövid megnevezését tartalmazza az alábbiak szerint:
 
+## 1X09721A_0
+
 | Megnevezés | Rövid név |
 
 | Az összevont felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója (20AA) | szovjel |
@@ -684,15 +684,15 @@ A negyedéves szöveges jelentések esetén az adott negyedév zárónapját kel
 
 | Konszolidált éves auditált beszámoló – könyvvizsgálói záradék vagy jelentés | konszkonyvzar |
 
-*/ A közgyűlési határozat vagy jegyzőkönyv nevű dokumentumot az MNB részére akkor is meg kell küldeni, ha a közgyűlési határozat a beszámoló elfogadásán és az eredményfelosztáson túl egyéb határozatot nem tartalmaz. Közgyűlés hiányában a pénzügyi intézmény döntéshozó testületét kell érteni. Az éves beszámoló szempontjából a harmadik országbeli hitelintézet fióktelepe és az EGT-fióktelep döntéshozó testülete a külföldi hitelintézet döntéshozó testülete.
+## */ A közgyűlési határozat vagy jegyzőkönyv nevű dokumentumot az MNB részére akkor is meg kell küldeni, ha a közgyűlési határozat a beszámoló elfogadásán és az eredményfelosztáson túl egyéb határozatot nem tartalmaz. Közgyűlés hiányában a pénzügyi intézmény döntéshozó testületét kell érteni. Az éves beszámoló szempontjából a harmadik országbeli hitelintézet fióktelepe és az EGT-fióktelep döntéshozó testülete a külföldi hitelintézet döntéshozó testülete.
 
-**/ A 20AC kódú szöveges felügyeleti jelentést az (EU) 2021/451 bizottsági végrehajtási rendelet alapján teljesítendő, a szavatoló tőkére és a tőkekövetelményre vonatkozó, egyedi szintű felügyeleti jelentés mellékleteként kell az MNB-nek megküldeni.
+## **/ A 20AC kódú szöveges felügyeleti jelentést az (EU) 2021/451 bizottsági végrehajtási rendelet alapján teljesítendő, a szavatoló tőkére és a tőkekövetelményre vonatkozó, egyedi szintű felügyeleti jelentés mellékleteként kell az MNB-nek megküldeni.
 
-***/ Az Adózott eredmény felhasználására vonatkozó határozat nevű dokumentumot a harmadik országbeli hitelintézet fióktelepe és az EGT-fióktelep nemleges jelentésként küldi be.
+## ***/ Az Adózott eredmény felhasználására vonatkozó határozat nevű dokumentumot a harmadik országbeli hitelintézet fióktelepe és az EGT-fióktelep nemleges jelentésként küldi be.
 
-A melléklet típusa táblában felsorolt, és a jelentésekhez csatolandó kötelező mellékletek köre a jelentés típusa szerint változik, amelyek részletes felsorolását e rendelet 2. melléklet összefoglaló táblái tartalmazzák.
+## A melléklet típusa táblában felsorolt, és a jelentésekhez csatolandó kötelező mellékletek köre a jelentés típusa szerint változik, amelyek részletes felsorolását e rendelet 2. melléklet összefoglaló táblái tartalmazzák.
 
-Az összevont alapú felügyelet alá tartozó, az (EU) 2021/451 bizottsági végrehajtási rendelet 9. és 10. cikke szerinti adatszolgáltatás teljesítésére kötelezett hitelintézet a konszolidált éves auditált beszámoló részeit az év végi auditált FINREP jelentéshez csatolja.
+## Az összevont alapú felügyelet alá tartozó, az (EU) 2021/451 bizottsági végrehajtási rendelet 9. és 10. cikke szerinti adatszolgáltatás teljesítésére kötelezett hitelintézet a konszolidált éves auditált beszámoló részeit az év végi auditált FINREP jelentéshez csatolja.
 
 4.9. A 4. és 6. melléklet szerinti felügyeleti jelentések formai követelményei
 
@@ -734,9 +734,9 @@ A melléklet típusa az elektronikusan megküldendő alábbi dokumentumok rövid
 
 | Üzleti jelentés | uzljel |
 
-*/ Csak az IFRS-ek szerinti egyedi éves beszámolót készítő adatszolgáltatónak kell küldenie.
+## */ Csak az IFRS-ek szerinti egyedi éves beszámolót készítő adatszolgáltatónak kell küldenie.
 
-A fentiekben foglaltak szerint például az éves beszámoló mellékletét képező kiegészítő melléklet azonosítója xxxxxxxx 221231_kiegmell.
+## A fentiekben foglaltak szerint például az éves beszámoló mellékletét képező kiegészítő melléklet azonosítója xxxxxxxx 221231_kiegmell.
 
 4.10. A 8. melléklet szerinti felügyeleti jelentések formai követelményei
 
@@ -760,7 +760,7 @@ A fentiekben foglaltak szerint például az éves beszámoló mellékletét kép
 
 | Kötelező vagy rendelkezésre álló könyvvizsgálói jelentés | konyvjel |
 
-A fentiek alapján például az éves beszámoló mellékletét képező kiegészítő melléklet fájl neve: xxxxxxxx 221231_kiegmell.pdf.
+## A fentiek alapján például az éves beszámoló mellékletét képező kiegészítő melléklet fájl neve: xxxxxxxx 221231_kiegmell.pdf.
 
 4.11. A 10. melléklet szerinti felügyeleti jelentések formai követelményei
 
@@ -871,5 +871,3 @@ Egyes adatszolgáltatások forint, euro, illetve egyéb deviza, valamint összes
 Az állományi típusú jelentéseknél a valutakészletek, valamint a külföldi pénznemre szóló követelések és kötelezettségek (devizák) forintra történő átszámítását magyar számvitelt alkalmazó adatszolgáltató esetében a Hitkr. 9. § (4) bekezdése, az IFRS-eket alkalmazó adatszolgáltató esetében a Számv. tv. 114/H. § (2) bekezdése alapján megállapított devizaárfolyamon kell elvégezni. Az MNB által nem jegyzett külföldi pénznemre szóló követeléseket és kötelezettségeket, illetve deviza- és valutakészleteket országos napilapnak a világ valutáinak árfolyamaira vonatkozó tájékoztatójában közzétett, a hónap utolsó napján és az év utolsó napján érvényes középárfolyamon, ennek hiányában pedig az adatszolgáltató által az értékelést megelőző legutolsó hónapban alkalmazott átlagos középárfolyamon kell értékelni.
 
 A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik, az intézmény számviteli politikájában lefektetetteknek megfelelően.
-
-[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

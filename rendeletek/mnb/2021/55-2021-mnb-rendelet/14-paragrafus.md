@@ -1,5 +1,3 @@
-## teljesíti az MNB részére.
-
 14. § (1) Az adatszolgáltató a felügyeleti jelentést, az (EU) 2021/451 bizottsági végrehajtási rendelet, illetve az (EU) 2021/897 bizottsági végrehajtási rendelet szerinti adatszolgáltatásokat, valamint a PEPP szöveges jelentést az MNB által meghatározott elektronikus formában, fokozott biztonságú vagy minősített elektronikus aláírással ellátva az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszerén (a továbbiakban: ERA rendszer) keresztül teljesíti.
 
 (2) Az adatszolgáltató a felügyeleti jelentés, adatszolgáltatás teljesítésében való akadályoztatásával kapcsolatos bejelentését elektronikus formában, az ERA rendszeren keresztül nyújtja be az MNB részére.

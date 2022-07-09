@@ -8,7 +8,7 @@ ba) 7., 17., 20–25. sora szerinti, 2022. január 1. – 2022. május 31. köz�
 
 bb) 26., 27. és 30. sora szerinti, 2022. január 1. – 2022. január 31. közötti időszakra vonatkozó felügyeleti jelentés
 
-## teljesítése során a 42/2020. (XI. 19.) MNB rendelet szabályait alkalmazza.
+teljesítése során a 42/2020. (XI. 19.) MNB rendelet szabályait alkalmazza.
 
 (2) Az adatszolgáltató a 10. melléklet I. pontjában foglalt „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat
 
@@ -20,6 +20,6 @@ ba) forgalmazott termékek esetén 2022. március 1-jei állapotra vonatkozóan,
 
 bb) nem forgalmazott termékek esetén 2022. április 1-jei állapotra vonatkozóan, 2022. március 31-ig
 
-## teljesíti.
+teljesíti.
 
 (3) Az adatszolgáltató a PEPP szöveges jelentést első alkalommal a PEPP regisztrációja évére mint tárgyidőszakra vonatkozóan teljesíti.
