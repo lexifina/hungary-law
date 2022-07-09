@@ -1,4 +1,4 @@
-1. A Kormány az idősek tiszteletének, megbecsülésének és biztonságának előmozdítása, valamint a Nemzeti Együttműködés Rendszerében az idősödő emberek érdekeinek, javaslatainak a kormányzati döntések előkészítése során történő megjelenítése érdekében – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján – működteti az Idősek Tanácsát (a továbbiakban: Tanács).
+1.[^1] A Kormány az idősek tiszteletének, megbecsülésének és biztonságának előmozdítása, valamint a Nemzeti Együttműködés Rendszerében az idősödő emberek érdekeinek, javaslatainak a kormányzati döntések előkészítése során történő megjelenítése érdekében – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 10. § (1) bekezdése alapján – működteti az Idősek Tanácsát (a továbbiakban: Tanács).
 
 2. A Tanács véleményezi az idősek életkörülményeit közvetlenül érintő és az általa kiemelten kezelt más kormányzati döntések és – az önkormányzati rendeletek tervezetének kivételével – jogszabályok tervezetét, valamint figyelemmel kíséri azok végrehajtását, javaslatot tehet kormányzati intézkedésekre, és közvetíti az idősödő emberek, valamint a vallási közösségek és a civil szervezetek javaslatait.
 
@@ -6,7 +6,7 @@
 
 a) elnöke a miniszterelnök, akit akadályoztatása esetén a Tanács alelnöke helyettesít,
 
-b)[^1] alelnöke a Miniszterelnökség családokért felelős államtitkára,
+b)[^2] alelnöke a Kulturális és Innovációs Minisztérium családokért felelős államtitkára,
 
 c) tagjait – tizenkét főt – a miniszterelnök kéri fel részben az idősügy területén működő civil szervezetek javaslata alapján, részben a tudományos élet, a demográfia, a szociálpolitika, a helyi önkormányzatok, a vallási közösségek és a civil szervezetek szakemberei közül.
 
@@ -16,43 +16,41 @@ c) tagjait – tizenkét főt – a miniszterelnök kéri fel részben az idős�
 
 6. A tagok a feladatuk ellátásáért díjazásban nem részesülnek, de jogosultak a tevékenységük során felmerült, számlával igazolt és indokolt szállás- és útiköltségük megtérítésére.
 
-7.[^2] A Tanács ülésén állandó meghívottként tanácskozási joggal részt vesz
+7.[^3] A Tanács ülésén állandó meghívottként tanácskozási joggal részt vesz
 
-a)[^3]
+a) a kultúráért és innovációért felelős miniszternek,
 
-b)[^4] a Miniszterelnökség családokért felelős államtitkára,
+b) a Kulturális és Innovációs Minisztérium családokért felelős államtitkárának,
 
-c) a Miniszterelnökséget vezető miniszter,
+c) a Belügyminisztérium egészségügyi államtitkárának,
 
-d) a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős államtitkára,
+d) a Belügyminisztérium gondoskodáspolitikáért felelős államtitkárának,
 
-e) az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkára,
+e) a Honvédelmi Minisztérium sportért felelős államtitkárának,
 
-f) az Emberi Erőforrások Minisztériuma egészségügyért felelős államtitkára,
+f) az igazságügyi miniszternek,
 
-g) az Emberi Erőforrások Minisztériuma sportért felelős államtitkára,
+g) a Miniszterelnöki Kabinetirodát vezető miniszternek,
 
-h) a pénzügyminiszter,
+h) a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős államtitkárának,
 
-i) az innovációért és technológiáért felelős miniszter,
+i) a Pénzügyminisztérium államháztartásért felelős államtitkárának,
 
-j) az igazságügyi miniszter,
+j) a területfejlesztési miniszternek,
 
-k) a miniszterelnök kabinetfőnöke,
+k) a Nemzeti Egészségbiztosítási Alapkezelő főigazgatójának,
 
-l) a Nemzeti Egészségbiztosítási Alapkezelő vezetője,
+l) a Magyar Államkincstár elnökének,
 
-m) a Magyar Államkincstár vezetője,
+m) a Központi Statisztikai Hivatal elnökének,
 
-n) a Központi Statisztikai Hivatal vezetője,
+n) a Kopp Mária Intézet a Népesedésért és a Családokért elnökének és
 
-o) a Kopp Mária Intézet a Népesedésért és a Családokért vezetője és
-
-p)[^5] a Slachta Margit Nemzeti Szociálpolitikai Intézet vezetője
+o) a Slachta Margit Nemzeti Szociálpolitikai Intézet főigazgatójának
 
 egy-egy képviselője.
 
-8.[^6] A Tanács titkárát a Tanács alelnöke jelöli ki. A Tanács működésével és programjaival kapcsolatos költségek fedezetét a központi költségvetés Miniszterelnökség fejezetében kell biztosítani.
+8.[^4] A Tanács titkárát a Tanács alelnöke jelöli ki. A Tanács működésével és programjaival kapcsolatos költségek fedezetét a központi költségvetés Kulturális és Innovációs Minisztérium fejezetében kell biztosítani.
 
 9. A Tanács az ügyrendjét és a munkatervét maga határozza meg.
 
@@ -62,12 +60,10 @@ egy-egy képviselője.
 
 12. Azok a személyek, akik az e határozat hatálybalépését megelőző napon az Idősügyi Tanács tagjai voltak, a határozat hatálybalépésével a Tanács tagjaivá válnak. Az Idősügyi Tanács jogszabályban meghatározott hatásköreit az Idősek Tanácsa gyakorolja.
 
-13.[^7]
+13.[^5]
 
-[^1]: A 3. pont b) alpontja az 1211/2022. (IV. 5.) Korm. rendelet 3. pontjával megállapított szöveg.
-[^2]: A 7. pont az 1011/2021. (I. 20.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 7. pont a) alpontját az 1211/2022. (IV. 5.) Korm. rendelet 18. pont a) alpontja hatályon kívül helyezte.
-[^4]: A 7. pont b) alpontja az 1211/2022. (IV. 5.) Korm. rendelet 18. pont b) alpontja szerint módosított szöveg.
-[^5]: A 7. pont p) alpontja az 1502/2021. (VII. 26.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^6]: A 8. pont az 1011/2021. (I. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^7]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1324/2022. (VII. 8.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
+[^2]: A 3. pont b) alpontja az 1211/2022. (IV. 5.) Korm. rendelet 3. pontjával megállapított, az 1324/2022. (VII. 8.) Korm. határozat 2. pont b) pontja szerint módosított szöveg.
+[^3]: A 7. pont az 1324/2022. (VII. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 8. pont az 1011/2021. (I. 20.) Korm. határozat 3. pontja, az 1324/2022. (VII. 8.) Korm. határozat 2. pont b) pontja szerint módosított szöveg.
+[^5]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

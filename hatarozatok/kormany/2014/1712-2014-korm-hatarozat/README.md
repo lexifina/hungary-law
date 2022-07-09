@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1712-30
 | 2021-01-21 | 2014-1712-30-22.6 | 1011/2021. (I. 20.) Korm. határozat |
 | 2021-09-18 | 2014-1712-30-22.7 | 1502/2021. (VII. 26.) Korm. határozat |
 | 2022-04-06 | 2014-1712-30-22.8 | 1211/2022. (IV. 5.) Korm. rendelet |
+| 2022-07-09 | 2014-1712-30-22.9 | 1324/2022. (VII. 8.) Korm. határozat |
