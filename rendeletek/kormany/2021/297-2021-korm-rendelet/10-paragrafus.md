@@ -1,1 +1,0 @@
-10. § E rendelet 2. alcíme a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2162 európai parlamenti és tanácsi irányelv 28. cikkének való megfelelést szolgálja.
