@@ -1,1 +1,0 @@
-6. § Ez a rendelet az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 5k. cikk (2) bekezdésének és 8. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
