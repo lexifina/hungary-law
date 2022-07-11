@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján egy ceruzát egyensúlyozó kéz ábrázolása látható. A ceruza ábrázolása fölött a mennyiségi pénzelmélet friedmani újraértelmezésében központi szerepet játszó, a pénz forgalmi egyenletét leíró képlet – „M×v=P×Q” – látható. A ceruza ábrázolása alatti három sorban a „MAGYARORSZÁG” felirat, a „15000” értékjelzés és a „FORINT” felirat, kissé lejjebb, két egymás alatti sorban a „2022” verési évszám, valamint a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Milton Friedman félalakos portréja látható. A portrétól balra, két egymás alatti sorban a „MILTON FRIEDMAN”, valamint Milton Friedman születésének és halálának évét jelölő „1912–2006” felirat olvasható. A hátlap jobb oldali szélén, középen Soltra E. Tamás tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
