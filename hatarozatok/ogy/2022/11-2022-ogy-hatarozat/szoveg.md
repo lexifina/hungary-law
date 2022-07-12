@@ -534,9 +534,9 @@ F. Kovács Sándor (Fidesz)[^33]
 
 dr. Tilki Attila (Fidesz)
 
-V. Németh Zsolt (Fidesz)
+Szabó Zsolt (Fidesz)[^34]
 
-Szabó Hajnalka (Jobbik)[^34]
+Szabó Hajnalka (Jobbik)[^35]
 
 g) Kulturális bizottság
 
@@ -546,13 +546,13 @@ Alelnök: Demeter Zoltán (Fidesz)
 
 Dunai Mónika (Fidesz)
 
-Bodó Sándor (Fidesz)[^35]
+Bodó Sándor (Fidesz)[^36]
 
 dr. Kállai Mária (Fidesz)
 
 Simon Róbert Balázs (Fidesz)
 
-Kálmán Olga (DK)[^36]
+Kálmán Olga (DK)[^37]
 
 Kunhalmi Ágnes (MSZP)
 
@@ -574,7 +574,7 @@ i) Mentelmi bizottság
 
 Elnök: dr. Hargitai János (KDNP)
 
-Alelnök: Hegedüs Andrea (DK)[^37]
+Alelnök: Hegedüs Andrea (DK)[^38]
 
 j) Mezőgazdasági bizottság
 
@@ -596,7 +596,7 @@ l) Nemzeti összetartozás bizottsága
 
 Elnök: Pánczél Károly (Fidesz)
 
-Alelnök: Herczeg Tamás (Fidesz)[^38]
+Alelnök: Herczeg Tamás (Fidesz)[^39]
 
 Szászfalvi László (KDNP)
 
@@ -608,7 +608,7 @@ Alelnök: dr. Kovács József (Fidesz)
 
 Kovács Sándor (Fidesz)
 
-Horváth László (Fidesz)[^39]
+Horváth László (Fidesz)[^40]
 
 Nacsa Lőrinc (KDNP)
 
@@ -618,7 +618,7 @@ n) Vállalkozásfejlesztési bizottság
 
 Elnök: dr. Apáti István (Mi Hazánk)
 
-Alelnök: Tasó László (Fidesz)[^40]
+Alelnök: Tasó László (Fidesz)[^41]
 
 Szatmáry Kristóf (Fidesz)
 
@@ -630,7 +630,7 @@ Elnök: Hende Csaba (Fidesz)
 
 Alelnök: dr. Bajkai István (Fidesz)
 
-Pogácsás Tibor (Fidesz)[^41]
+Pogácsás Tibor (Fidesz)[^42]
 
 dr. Salacz László (Fidesz)
 
@@ -644,17 +644,17 @@ p) Magyarországi nemzetiségek bizottsága
 
 Elnök: Ritter Imre (nemzetiségi képviselő)
 
-Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^42]
+Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^43]
 
-Kissné Köles Erika (nemzetiségi szószóló),[^43]
+Kissné Köles Erika (nemzetiségi szószóló),[^44]
 
-Varga Szimeon (nemzetiségi szószóló)[^44]
+Varga Szimeon (nemzetiségi szószóló)[^45]
 
 5. Ez a határozat az elfogadásakor lép hatályba.
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^45]
+7.[^46]
 
 [^2]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 21/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
@@ -688,15 +688,16 @@ Varga Szimeon (nemzetiségi szószóló)[^44]
 [^31]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
 [^32]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
 [^33]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^34]: A 16/2022. (V. 18.) OGY határozat 3. pontjával megállapított szöveg.
-[^35]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^36]: A 29/2022. (VII. 5.) OGY határozat 3. pontja iktatta be.
-[^37]: A 29/2022. (VII. 5.) OGY határozat 3. pontjával megállapított szöveg.
-[^38]: A 21/2022. (VI. 14.) OGY határozat 3. pontjával megállapított szöveg.
-[^39]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^34]: A 31/2022. (VII. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^35]: A 16/2022. (V. 18.) OGY határozat 3. pontjával megállapított szöveg.
+[^36]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^37]: A 29/2022. (VII. 5.) OGY határozat 3. pontja iktatta be.
+[^38]: A 29/2022. (VII. 5.) OGY határozat 3. pontjával megállapított szöveg.
+[^39]: A 21/2022. (VI. 14.) OGY határozat 3. pontjával megállapított szöveg.
 [^40]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
 [^41]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^42]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^42]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
 [^43]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
 [^44]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^45]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^46]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
