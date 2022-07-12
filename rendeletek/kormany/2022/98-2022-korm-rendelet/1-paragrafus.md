@@ -2,14 +2,17 @@
 
 a) kötelezettséget vállalni előzetes pénzügyi ellenjegyzés nélkül is lehet,
 
-b) a pénzügyi ellenjegyzésre a kötelezettségvállalást követően, a kötelezettségvállalás felülvizsgálata eredményének függvényében, utólag is sor kerülhet, legkésőbb 2022. június 30. napjáig,
+b)[^2] a pénzügyi ellenjegyzésre a kötelezettségvállalást követően, a kötelezettségvállalás felülvizsgálata eredményének függvényében, utólag is sor kerülhet, legkésőbb az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) megszűnését követő 30. napig,
 
 c) kötelezettségvállalásra a kötelezettségvállaló írásbeli – ideértve az elektronikus úton tett – utasítása alapján is sor kerülhet,
 
-d) a c) pont esetében a megállapodás, szerződés megkötésére szóban vagy távollévők között tett jognyilatkozattal is sor kerülhet, amelyet utólagosan legkésőbb 2022. június 30. napjáig szükséges írásba foglalni,
+d)[^3] a c) pont esetében a megállapodás, szerződés megkötésére szóban vagy távollévők között tett jognyilatkozattal is sor kerülhet, amelyet utólagosan legkésőbb a veszélyhelyzet megszűnését követő 30. napig szükséges írásba foglalni,
 
 e) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosításra az államháztartásért felelős miniszter egyidejű tájékoztatása mellett kerülhet sor,
 
 f) az Áht.-ban, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben, valamint az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendeletben meghatározott adatszolgáltatásokkal, bejelentésekkel összefüggő bírságok – így különösen az a)–e) pontokkal összefüggésben tett kötelezettségvállalások, pénzügyi kifizetések kapcsán – nem szabhatóak ki.
 
 (2) Az (1) bekezdés a) és b) pontja esetében, ha a kötelezettségvállalás összege eléri a bruttó 100 000 000 forintot, a kötelezettségvállaló – a kötelezettségvállalást megelőzően 1 munkanappal – köteles tájékoztatni az államháztartásért felelős minisztert.
+
+[^2]: Az 1. § (1) bekezdés b) pontja a 248/2022. (VII. 11.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés d) pontja a 248/2022. (VII. 11.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
