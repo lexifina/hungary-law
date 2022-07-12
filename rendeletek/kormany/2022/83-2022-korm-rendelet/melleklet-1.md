@@ -66,7 +66,7 @@
 
 ## d) az 1. § (1) bekezdés b) pontja szerinti esetben a címzett nevét és címét, ahová a gabona leszállításra kerül, valamint
 
-## e)[^2] a gabona értékesítésének, illetve kivitelének tervezett, legfeljebb 2022. július 14. napjáig terjedő időszakát.
+## e)[^2] a gabona értékesítésének, illetve kivitelének tervezett időszakát.
 
 ## (3) A bejelentést a NÉBIH honlapján közzétett formanyomtatványon kell megtenni.
 
@@ -146,6 +146,6 @@ Takarmányozási vagy élelmezésügyi ellátásbiztonság szempontjából strat
 
 | 10. | 12060099 | Más napraforgómag, nem vetési célra (kiv. a héj nélküli és a szürke és fehér csíkos héjú napraforgómagot) |
 
-[^2]: A 2. § (2) bekezdés e) pontja a 163/2022. (IV. 28.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés e) pontja a 249/2022. (VII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 9. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 20. pontja alapján nem lépett hatályba.
 [^4]: Az 1. melléklet a 108/2022. (III. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
