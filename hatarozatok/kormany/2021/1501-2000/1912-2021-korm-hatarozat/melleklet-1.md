@@ -20,4 +20,4 @@
 
 1. melléklet az 1912/2021. (XII. 15.) Korm. határozathoz[^1]
 
-[^1]: Az 1. melléklet az 1035/2022. (II. 1.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1035/2022. (II. 1.) Korm. határozat 2. pontja, az 1331/2022. (VII. 13.) Korm. határozat 5. pontja szerint módosított szöveg.

@@ -44,7 +44,7 @@
 
 | 22. | Nagykovácsi Nagyközség Önkormányzata közlekedésfejlesztési feladatainak támogatása | 138 433 099 | Önkormányzati út- és járdaépítés |
 
-| 23. | Nagymaros Város Önkormányzata fejlesztési feladatainak támogatása | 82 602 203 | Művelődési ház tetőszerkezetének rekonstrukciója új héjazattal, a megújult Egészségház bútorzatának korszerűsítése, tornaterem-építéshez szükséges telkek kisajátítása |
+| 23. | Nagymaros Város Önkormányzata fejlesztési feladatainak támogatása | 82 602 203 | Művelődési ház tetőszerkezetének rekonstrukciója új héjazattal, a megújult Egészségház bútorzatának korszerűsítése, tornaterem-építéshez szükséges ingatlanszerzés |
 
 | 24. | Nyergesújfalu Város Önkormányzata közlekedésfejlesztési feladatainak támogatása | 120 254 854 | Önkormányzati útfelújítás |
 
