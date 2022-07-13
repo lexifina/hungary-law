@@ -18,7 +18,7 @@
 
 ## 4. a Kvtv. 17. §-ában biztosított jogkörében eljárva jóváhagyja a GÚP előirányzatnak a 3. pont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 1 763 547 000 forinttal történő túlteljesülését;
 
-## 5. egyetért azzal, hogy a belügyminiszter a 3. pont szerint átcsoportosított előirányzat terhére, a 2. pont szerinti cél megvalósítása érdekében, külön pályázat és kérelem benyújtása nélkül vissza nem térítendő egyedi támogatást nyújtson a Pest Megyei Önkormányzat részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
+## 5.[^2] egyetért azzal, hogy a belügyminiszter a 3. pont szerint átcsoportosított előirányzat terhére, a 2. pont szerinti cél megvalósítása érdekében, külön pályázat és kérelem benyújtása nélkül vissza nem térítendő egyedi támogatást nyújtson a Pest Megyei Önkormányzat részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben a Pest Megyei Önkormányzat a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára;
 
 ## 6. egyetért azzal, hogy a belügyminiszter az 5. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa a Pest Megyei Önkormányzat számára.
 
@@ -75,3 +75,4 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: Az 1. pont az 1997/2021. (XII. 28.) Korm. határozat szerint módosított szöveg.
+[^2]: Az 5. pont az 1331/2022. (VII. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
