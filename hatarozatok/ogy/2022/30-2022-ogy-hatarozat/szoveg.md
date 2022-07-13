@@ -6,9 +6,9 @@ a Magyar Nemzeti Bank Monetáris Tanácsa tagjává 2022. szeptember 13-i hatál
 
 2. Hatályát veszti a Magyar Nemzeti Bank monetáris tanácsa tagjainak megválasztásáról szóló 11/2011. (III. 9.) OGY határozat 1. pontjában
 
-a) a „dr. Gerhardt Ferencet 2011. március 21-étől – hat évre – a Magyar Nemzeti Bank monetáris tanácsa tagjává”,
+a)[^2]
 
-b)[^2]
+b)[^3]
 
 szövegrész.
 
@@ -16,4 +16,5 @@ szövegrész.
 
 4. A 2. pont b) alpontja 2022. szeptember 13-án lép hatályba.
 
-[^2]: A 2. pont b) alpontja a 4. pont alapján 2022. szeptember 13-án lép hatályba.
+[^2]: A 2. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont b) alpontja a 4. pont alapján 2022. szeptember 13-án lép hatályba.
