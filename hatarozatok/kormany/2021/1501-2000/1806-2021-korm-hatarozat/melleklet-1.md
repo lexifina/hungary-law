@@ -18,7 +18,7 @@
 
 ## 4. a Kvtv. 17. §-a, valamint a 4. melléklet 7. pontja alapján jóváhagyja a GÚP előirányzatnak a 2. pont szerinti átcsoportosítás alapján, az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 2 000 000 000 forinttal történő túlteljesülését;
 
-## 5. egyetért azzal, hogy a belügyminiszter a 3. pont szerint átcsoportosított előirányzat terhére, a Fejlesztés megvalósítása érdekében külön pályázat és kérelem benyújtása nélkül vissza nem térítendő egyedi támogatást nyújtson Nyíregyháza Megyei Jogú Város Önkormányzata részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
+## 5.[^1] egyetért azzal, hogy a belügyminiszter a 3. pont szerint átcsoportosított előirányzat terhére, a Fejlesztés megvalósítása érdekében külön pályázat és kérelem benyújtása nélkül vissza nem térítendő egyedi támogatást nyújtson Nyíregyháza Megyei Jogú Város Önkormányzata részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben Nyíregyháza Megyei Jogú Város Önkormányzata a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára;
 
 ## 6. egyetért azzal, hogy a belügyminiszter az 5. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa Nyíregyháza Megyei Jogú Város Önkormányzata számára;
 
@@ -83,3 +83,5 @@
 |  |  | egyéb: azonnal |  |  | 2 000 000 000 |  |  |  |  |  |  |  |  |  |  |  | 2 000 000 000 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pont az 1331/2022. (VII. 13.) Korm. határozat 4. pontja szerint módosított szöveg.
