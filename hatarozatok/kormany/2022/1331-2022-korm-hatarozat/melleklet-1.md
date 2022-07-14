@@ -20,13 +20,13 @@
 
 ## d) egyetért azzal, hogy a belügyminiszter a c) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az Önkormányzat számára.
 
-## 2. A Nyíregyházi Ipari Park bővítésének és infrastrukturális fejlesztésének támogatásáról szóló 1509/2021. (VII. 29.) Korm. határozat 5. pontjában a „támogatói okirat alapján” szövegrész helyébe a „támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben Nyíregyháza Megyei Jogú Város Önkormányzata a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára” szöveg lép.
+## 2.[^1]
 
-## 3. A Göd város közigazgatási területén kijelölt ipari-innovációs fejlesztési terület fejlesztésével kapcsolatos intézkedésekről szóló 1523/2021. (VII. 30.) Korm. határozat 5. pontjában a „támogatói okirat alapján” szövegrész helyébe a „támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben a Pest Megyei Önkormányzat a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára” szöveg lép.
+## 3.[^2]
 
-## 4. A Nyíregyházi Ipari Park bővítésével kapcsolatos további intézkedésekről szóló 1806/2021. (XI. 16.) Korm. határozat 5. pontjában a „támogatói okirat alapján” szövegrész helyébe a „támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben Nyíregyháza Megyei Jogú Város Önkormányzata a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára” szöveg lép.
+## 4.[^3]
 
-## 5. Az 5000 fő feletti lakosságszámú egyes településeket érintő, azonnali beruházásokhoz szükséges források biztosításáról szóló 1912/2021. (XII. 15.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlop 23. sorában a „Művelődési ház tetőszerkezetének rekonstrukciója új héjazattal, a megújult Egészségház bútorzatának korszerűsítése, tornaterem-építéshez szükséges telkek kisajátítása” szövegrész helyébe a „Művelődési ház tetőszerkezetének rekonstrukciója új héjazattal, a megújult Egészségház bútorzatának korszerűsítése, tornaterem-építéshez szükséges ingatlanszerzés” szöveg lép.
+## 5.[^4]
 
 1. melléklet az 1331/2022. (VII. 13.) Korm. határozathoz
 
@@ -73,3 +73,8 @@
 | Magyar Államkincstár 1 példány | időarányos teljesítésarányos egyéb: azonnal | 22 000 000 |  |  |  | 22 000 000 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
