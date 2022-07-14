@@ -2,7 +2,9 @@
 
 ## 1. § E rendelet alkalmazásában
 
-1. bejelentő: segélyhívás esetében az adott eseményhez segélyt kérő természetes személy vagy más, segélyhívás kezdeményezésére képes technikai rendszer;
+1.[^1] alternatív segélykérő csatorna: olyan informatikai vagy telekommunikációs felület vagy lehetőség, amelyen a segélykérő a hanghívástól eltérő módon teheti meg a készenléti szervek beavatkozását igénylő bejelentését a segélykérő vonalakon keresztül;
+
+1a.[^2] bejelentő: segélyhívás esetében az adott eseményhez segélyt kérő természetes személy vagy más, segélyhívás kezdeményezésére képes technikai rendszer;
 
 2. egyéb veszélyes körülmény: ember, állat, műszaki hiba, elemi erő, természeti esemény, baleset, betegség vagy élettani körülmény okozta olyan helyzet, ami az életben, testi épségben, anyagi javakban okozott kárral, illetve a természetes és mesterséges környezet fokozott megrongálásával vagy ezek veszélyeztetésével jár, és amelyet a segélyt kérő természetes személy, illetve a környezetében lévők nem képesek önállóan a közmű üzemeltetők vagy – a készenléti szerveken kívüli – hatóság, hivatalos szerv helyszíni segítsége nélkül megoldani;
 
@@ -35,3 +37,6 @@ b) olyan valótlan tartalmú közlést vagy bejelentést tartalmaz, amely alkalm
 c) véletlen vagy technikai hibából eredő hívás, illetve jelzés;
 
 d) SIM kártya nélküli mobiltelefonról kezdeményezett, nem segélyhívásra irányuló hívás.
+
+[^1]: Az 1. § 1. pontja a 252/2022. (VII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 1a. pontját a 252/2022. (VII. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
