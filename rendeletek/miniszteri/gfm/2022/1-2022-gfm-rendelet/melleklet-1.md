@@ -116,7 +116,7 @@ VI. Tulajdonosi joggyakorló: az Építési és Beruházási Minisztérium
 
 | 7. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2026. december 31. |
 
-| 8. |  |  |  |
+| 8. | NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-048661 | 2026. december 31. |
 
 | 9. | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 20-09-069758 | 2026. december 31. |
 
@@ -280,11 +280,11 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 | 21. | Védelmi Innovációs Kutatóintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141703 | 2026. december 31. |
 
-| 22. | NKK Nemzeti Közlekedési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-048661 | 2026. december 31. |
+| 22. |  |  |  |
 
 | 23. | MAHART – PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2026. december 31. |
 
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 [^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a szerint módosított szöveg.
