@@ -1,4 +1,4 @@
-18/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^593]
+18/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^600]
 
 ## A 2022. július 1-jétől kiadásra kerülő ideiglenes forgalomban tartási engedély tartalmi elemei
 
@@ -32,4 +32,4 @@ Engedélyező szerv kódja és az engedély száma
 
 12. P. H.
 
-[^593]: A 18/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (4) bekezdése iktatta be.
+[^600]: A 18/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (4) bekezdése iktatta be.

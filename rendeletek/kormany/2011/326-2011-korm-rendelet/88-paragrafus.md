@@ -1,16 +1,16 @@
 ## 20. A forgalmi engedély
 
-88. § (1)[^379] A forgalmi engedély,, valamint a lassú járműre, annak pótkocsijára és a négykerekű segédmotoros kerékpárra kiadott igazolólap, olyan hatósági engedély, amely a jármű nyilvántartásba vételét igazolja.
+88. § (1)[^384] A forgalmi engedély,, valamint a lassú járműre, annak pótkocsijára és a négykerekű segédmotoros kerékpárra kiadott igazolólap, olyan hatósági engedély, amely a jármű nyilvántartásba vételét igazolja.
 
-(1a)[^380] Az ideiglenes forgalmi engedély és az ideiglenes forgalomban tartási engedély a jármű ideiglenes forgalomban tartásának engedélyezését igazolja.
+(1a)[^385] Az ideiglenes forgalmi engedély és az ideiglenes forgalomban tartási engedély a jármű ideiglenes forgalomban tartásának engedélyezését igazolja.
 
-(2)[^381] Az állandó és az ideiglenes forgalmi engedélyt, a lassú jármű, annak pótkocsija, valamint a négykerekű segédmotoros kerékpár igazolólapját, valamint a 3 napos érvényességi idejű ideiglenes forgalomban tartási engedélyt a közlekedési igazgatási hatóság adja ki.
+(2)[^386] Az állandó és az ideiglenes forgalmi engedélyt, a lassú jármű, annak pótkocsija, valamint a négykerekű segédmotoros kerékpár igazolólapját, valamint a 3 napos érvényességi idejű ideiglenes forgalomban tartási engedélyt a közlekedési igazgatási hatóság adja ki.
 
 (3) A forgalmi engedély (17. melléklet) érvényesség idejétől függően állandó vagy ideiglenes.
 
-(4)[^382] Az állandó forgalmi engedély határozatlan ideig, az ideiglenes forgalmi engedély a H adatmezőjében feltüntetett időpontig érvényes.
+(4)[^387] Az állandó forgalmi engedély határozatlan ideig, az ideiglenes forgalmi engedély a H adatmezőjében feltüntetett időpontig érvényes.
 
-[^379]: A 88. § (1) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 17. § e) pontja, a 789/2021. (XII. 27.) Korm. rendelet 51. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^380]: A 88. § (1a) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 14. § (16) bekezdése iktatta be.
-[^381]: A 88. § (2) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 16. § 19. pontja szerint módosított szöveg. [A 88. § (2) bekezdésében a 375/2021. (VI. 30.) Korm. rendelet 16. § 18. pontjával elrendelt módosítás, amely szerint a „közúti forgalomban történő részvételének jogszerűségét” szövegrész helyébe az „a jármű nyilvántartásba vételét” szöveg lép, nem vezethető át.]
-[^382]: A 88. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 37. §-a iktatta be.
+[^384]: A 88. § (1) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 17. § e) pontja, a 789/2021. (XII. 27.) Korm. rendelet 51. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^385]: A 88. § (1a) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 14. § (16) bekezdése iktatta be.
+[^386]: A 88. § (2) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 16. § 19. pontja szerint módosított szöveg. [A 88. § (2) bekezdésében a 375/2021. (VI. 30.) Korm. rendelet 16. § 18. pontjával elrendelt módosítás, amely szerint a „közúti forgalomban történő részvételének jogszerűségét” szövegrész helyébe az „a jármű nyilvántartásba vételét” szöveg lép, nem vezethető át.]
+[^387]: A 88. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 37. §-a iktatta be.

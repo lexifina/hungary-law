@@ -1,4 +1,4 @@
-13/B. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^580]
+13/B. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^587]
 
 ## Az 53. § (2) bekezdés c) pontja szerinti különleges rendszámtáblák ábrái
 
@@ -22,4 +22,4 @@
 
 10. ábra: Kerékpárszállító eszköz rendszámtáblája
 
-[^580]: A 13/B. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^587]: A 13/B. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (2) bekezdése iktatta be.

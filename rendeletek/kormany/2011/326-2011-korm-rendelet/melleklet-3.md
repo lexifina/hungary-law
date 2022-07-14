@@ -60,6 +60,6 @@
 
 ## KPM–BM együttes rendelet rendelkezései vonatkoznak.
 
-3. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^554]
+3. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^560]
 
-[^554]: A 3. mellékletet a 122. § (5) bekezdése hatályon kívül helyezte.
+[^560]: A 3. mellékletet a 122. § (5) bekezdése hatályon kívül helyezte.

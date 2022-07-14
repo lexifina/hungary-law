@@ -1,6 +1,6 @@
-18/C. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^595]
+18/C. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^602]
 
-## A 2022. július 1-jétől a 63/A. § (2) bekezdés 1–5. pontja és a 12–18. pontja alapján kiadásra kerülő ideiglenes forgalmi engedély tartalmi elemei
+## A 2022. július 1-jétől a 63/A. § (2) bekezdés 1–5. pontja és a 12–18. pontja, valamint a 63/A. § (3) bekezdése alapján kiadásra kerülő ideiglenes forgalmi engedély tartalmi elemei[^603]
 
 Az ideiglenes forgalmi engedély adattartalma:
 
@@ -28,4 +28,5 @@ Az ideiglenes forgalmi engedély adattartalma:
 
 12. Hivatalos feljegyzések rovat
 
-[^595]: A 18/C. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (4) bekezdése iktatta be.
+[^602]: A 18/C. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (4) bekezdése iktatta be.
+[^603]: A 18/C. melléklet címe a 251/2022. (VII. 13.) Korm. rendelet 1. § m) pontja szerint módosított szöveg.
