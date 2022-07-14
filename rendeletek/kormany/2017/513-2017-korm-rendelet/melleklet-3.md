@@ -1,5 +1,3 @@
-## Nyilatkozat az adatszolgáltatás megtiltásáról
-
 ## A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 18. § (1) bekezdésében biztosított jogommal élve nem járulok hozzá a nyilvántartásban tárolt személyes adataimnak a törvényben megjelölt célokon túl való felhasználásához, illetve kiadásához. Tudomásul veszem, hogy jelen nyilatkozatomat írásban vagy szóban bármikor visszavonhatom.
 
 ## Kelt: ..........................., .............. év ....................................... hó .......... nap
@@ -134,7 +132,7 @@ B. Az ideiglenes rendszámtáblák nyilvántartásával kapcsolatos közlekedés
 
 1.2. ideiglenes rendszámtáblára való jogosultságot igazoló okirat eljáró hatóság által hitelesített példánya.
 
-2. A Z betűjelű ideiglenes rendszámtábla és az ideiglenes fogalmi engedély kiadása esetén:
+2. A kormányrendelet 63/A. § (2) bekezdés 13–18. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes fogalmi engedély kiadása esetén:
 
 2.1. a tulajdonjogot igazoló okirat valamint, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítása, eljáró hatóság által hitelesített példánya.
 
@@ -152,15 +150,21 @@ B. Az ideiglenes rendszámtáblák nyilvántartásával kapcsolatos közlekedés
 
 5.2. a jogszerű birtoklást igazoló elektronikus okirat vagy a papíralapú okirat eredeti vagy hitelesített másolata valamint, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítása eljáró hatóság által hitelesített példánya.
 
-6. A NAV vámszerve által kiadott E betűjelű ideiglenes rendszámtábla és az ideiglenes fogalomban tartási engedély kiadása esetén, ide értve annak Nyilvántartó általi rögzítését is:
+6. A NAV vámszerve által kiadott I betűjelű ideiglenes rendszámtábla és az ideiglenes fogalomban tartási engedély kiadása esetén, ide értve annak Nyilvántartó általi rögzítését is:
 
 6.1. a jogszerű birtoklást igazoló elektronikus okirat vagy a papíralapú okirat eredeti vagy hitelesített másolata valamint, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítása eljáró hatóság által hitelesített példánya.
 
-7. Az M betűjelű ideiglenes rendszámtábla használata és ideiglenes fogalomban tartási engedély és az ideiglenes fogalmi engedély kiadása, valamint az M betűjelű ideiglenes rendszámtáblához kiadott ideiglenes fogalomban tartási engedély érvényességi idejének cserével történő meghosszabbítása esetén:
+7. Az M betűjelű ideiglenes rendszámtáblához kiadott ideiglenes forgalomban tartási engedély érvényességi idejének a kormányrendelet 63/A. § (2) bekezdés 6. pontja szerinti kiadása,
 
-7.1. az ügyfél nyilatkozata a felvenni kívánt rendszámtáblák, valamint az ilyen rendszámtáblára kötelezett járművek darabszámára, gyártmányára, típusára és egyedi azonosító adataira (alvázszám) vonatkozóan,
+I betűjelű ideiglenes rendszámtábla és ideiglenes forgalmi engedély kiadásával történő meghosszabbítása, valamint a kormányrendelet 63/A. § (2) bekezdés 6. pontja szerinti kiadása,
 
-7.2. az ügyfél nyilatkozata az ideiglenes rendszámtáblával közúton használni kívánt mezőgazdasági erőgép vagy mezőgazdasági erőgépek biztonságos és szabályos közlekedésre való alkalmasságáról
+I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély kiadása, továbbá az
+
+I betűjelű ideiglenes rendszámtáblához kiadott ideiglenes forgalmi engedély érvényességi idejének cserével történő meghosszabbítása esetén:
+
+7.1. az ügyfélnek a felvenni kívánt rendszámtáblák, valamint az ilyen rendszámtáblára kötelezett járművek darabszámára, gyártmányára, típusára és egyedi azonosító adataira (alvázszám) vonatkozó nyilatkozata, eljáró hatóság által hitelesített példánya,
+
+7.2. az ügyfélnek az ideiglenes rendszámtáblával közúton használni kívánt mezőgazdasági erőgép vagy mezőgazdasági erőgépek biztonságos és szabályos közlekedésre való alkalmasságáról szóló nyilatkozata, eljáró hatóság által hitelesített példánya,
 
 7.3. a tulajdonjogot vagy az üzembentartói jog megszerzését igazoló elektronikus okirat vagy a papíralapú okirat eredeti vagy hitelesített másolata valamint, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítása, eljáró hatóság által hitelesített példánya,
 
@@ -168,7 +172,13 @@ B. Az ideiglenes rendszámtáblák nyilvántartásával kapcsolatos közlekedés
 
 7.5. a mezőgazdasági és vidékfejlesztési támogatási szerv által megállapított regisztrációs szám igazolása eljáró hatóság által hitelesített példánya.
 
-8. Az SP betűjelű ideiglenes rendszámtábla és az ideiglenes fogalmi engedély kiadása esetén:
+8. Az SP betűjelű ideiglenes rendszámtáblához kiadott ideiglenes forgalomban tartási engedély érvényességi idejének a kormányrendelet 63/A. § (2) bekezdés 12. pontja szerinti kiadása,
+
+I betűjelű ideiglenes rendszámtábla és ideiglenes forgalmi engedély kiadásával történő meghosszabbítása, valamint a kormányrendelet 63/A. § (2) bekezdés 12. pontja szerinti kiadása,
+
+I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély kiadása, továbbá az
+
+I betűjelű ideiglenes rendszámtáblához kiadott ideiglenes forgalmi engedély érvényességi idejének cserével történő meghosszabbítása esetén:
 
 8.1. a jogszerű birtoklást igazoló elektronikus okirat vagy a papíralapú okirat eredeti vagy hitelesített másolata valamint, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítása, eljáró hatóság által hitelesített példánya,
 
@@ -234,4 +244,4 @@ C. A vezetői engedély kiállítására irányuló eljárások alapiratai
 
 4.4. az eljárási díj megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya.
 
-[^19]: A 3. mellékletet a 375/2021. (VI. 30.) Korm. rendelet 28. §-a iktatta be.
+[^19]: A 3. mellékletet a 375/2021. (VI. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 251/2022. (VII. 13.) Korm. rendelet 2. § b) pontja, e) pontja és 3. §-a szerint módosított szöveg. [A 251/2022. (VII. 13.) Korm. rendelet 2. § a) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 1. alpontjában az „A P betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet (a továbbiakban: kormányrendelet) 63/A. § (2) bekezdés 7–11. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, a 2. § c) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 4. alpontjában az „Az E betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A kormányrendelet 63/A. § (2) bekezdés 1–5. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, valamint a 2. § d) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 5. alpontjában az „ideiglenes forgalomban tartási engedély” szövegrész helyébe az „ideiglenes forgalmi engedély” szöveg lép, nem vezethető át.]

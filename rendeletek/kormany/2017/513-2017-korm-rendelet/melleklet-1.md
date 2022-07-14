@@ -2,7 +2,7 @@
 
 1. melléklet az 513/2017. (XII. 29.) Korm. rendelethez
 
-## Adatszolgáltatást kérő lap
+Adatszolgáltatást kérő lap
 
 I. A kérelmező neve:
 
