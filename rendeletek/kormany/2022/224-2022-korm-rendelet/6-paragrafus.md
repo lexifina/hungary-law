@@ -1,3 +1,3 @@
-## 5. §[^1]
+6. §[^2]
 
-[^1]: Az 5. § a 4. § (3) bekezdése alapján 2022. július 15-én lép hatályba.
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
