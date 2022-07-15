@@ -1,3 +1,5 @@
-141. §[^628] A helyi önkormányzat, továbbá az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerv részére az Áht. 83. § (1) és (2) bekezdése szerinti összeget az Áht. 84. § (1)–(3) bekezdése szerinti fizetési számlára kell folyósítani.
+141. §[^629] (1) A helyi önkormányzat, továbbá az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerv részére az Áht. 83. § (1) és (2) bekezdése szerinti összeget – a (2) bekezdés szerinti költségvetési támogatás kivételével – az Áht. 84. § (1)–(3) bekezdése szerinti fizetési számlára kell folyósítani.
 
-[^628]: Az Ávr. 141. § a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 20. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja szerint módosított szöveg.
+(2) Az Áht. 51. § (4) bekezdésének hatálya alá tartozó költségvetési támogatást az önkormányzat Kincstárnál vezetett fizetési számlájára kell folyósítani.
+
+[^629]: Az Ávr. 141. §-a a 245/2022. (VII. 8.) Korm. rendelet 4. §-ával megállapított szöveg.

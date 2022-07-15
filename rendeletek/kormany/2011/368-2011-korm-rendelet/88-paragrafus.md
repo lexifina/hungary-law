@@ -2,13 +2,15 @@
 
 a) a kedvezményezett fizetési számlájára,
 
-b) az Áht. 51. § (2) bekezdésének hatálya alá nem tartozó költségvetési támogatás esetén
+b)[^418] az Áht. 51. § (2) bekezdésének hatálya alá nem tartozó költségvetési támogatás esetén
 
 ba) a kedvezményezett által megjelölt engedményes fizetési számlájára, vagy
 
 bb) a támogatói okiratban, támogatási szerződésben megjelölt személy által benyújtott, a támogatott tevékenységgel kapcsolatban felmerült beszerzéseket igazoló számlák összegének közvetlenül a szállító vagy a szállító által megjelölt engedményes fizetési számlájára, vagy
 
-c)[^420] kamattámogatás, kezelési költségtámogatás, egyéb költségtámogatás vagy kezességi díjtámogatás pénzügyi intézmény által történő megelőlegezése esetén a költségvetési támogatást megelőlegező pénzügyi intézmény részére
+c)[^419] kamattámogatás, kezelési költségtámogatás, egyéb költségtámogatás vagy kezességi díjtámogatás pénzügyi intézmény által történő megelőlegezése esetén a költségvetési támogatást megelőlegező pénzügyi intézmény részére
+
+d)[^420] az Áht. 51. § (4) bekezdésének hatálya alá tartozó költségvetési támogatás esetén a kedvezményezett Kincstárnál vezetett fizetési számlájára
 
 történő kifizetéssel lehetséges.
 
@@ -16,7 +18,10 @@ történő kifizetéssel lehetséges.
 
 (3) Fel kell függeszteni a költségvetési támogatás folyósítását, ha azt a támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetési támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet haladéktalanul tájékoztatni kell.
 
-(4) E §-t a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásra akkor kell alkalmazni, ha a 140–142. § és a 144. § eltérően nem rendelkezik.
+(4)[^422]
 
-[^420]: Az Ávr. 88. § (1) bekezdés c) pontja a 445/2020. (X. 1.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
+[^418]: [Az Ávr. 88. § (1) bekezdés b) pontjában a 245/2022. (VII. 8.) Korm. rendelet 7. § 5. pontjával elrendelt módosítás, amely szerint a „számlájára, vagy” szövegrész helyébe a „számlájára,” szöveg lép, nem vezethető át.]
+[^419]: Az Ávr. 88. § (1) bekezdés c) pontja a 445/2020. (X. 1.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg. [Az Ávr. 88. § (1) bekezdés c) pontjában a 245/2022. (VII. 8.) Korm. rendelet 7. § 6. pontjával elrendelt módosítás, amely szerint a „lehetséges.” szövegrész helyébe a „lehetséges, vagy” szöveg lép, nem vezethető át.]
+[^420]: Az Ávr. 88. § (1) bekezdés d) pontját a 245/2022. (VII. 8.) Korm. rendelet 2. §-a iktatta be.
 [^421]: Az Ávr. 88. § (2) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^422]: Az Ávr. 88. § (4) bekezdését a 245/2022. (VII. 8.) Korm. rendelet 8. § 5. pontja hatályon kívül helyezte.
