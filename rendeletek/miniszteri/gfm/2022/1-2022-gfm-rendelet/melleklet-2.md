@@ -166,13 +166,7 @@ XV. Tulajdonosi joggyakorló: Slachta Margit Nemzeti Szociálpolitikai Intézet
 
 | 1. | Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-978791 | 2026. december 31. |
 
-XVI. Tulajdonosi joggyakorló: Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | URBS PRO PATIENTE Egészségügyi Fejlesztő és Üzemeltető Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-09-202841 | 2026. december 31. |
+## XVI.
 
 XVII. Tulajdonosi joggyakorló: Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
 
@@ -192,4 +186,4 @@ XVIII. Tulajdonosi joggyakorló: Magyar Nemzeti Múzeum
 
 XIX. Tulajdonosi joggyakorló: Nemzetbiztonsági Szakszolgálat
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a szerint módosított szöveg.
