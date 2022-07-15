@@ -1,1 +1,3 @@
-## „1a. bejelentő: segélyhívás esetében az adott eseményhez segélyt kérő természetes személy vagy más, segélyhívás kezdeményezésére képes technikai rendszer;”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
