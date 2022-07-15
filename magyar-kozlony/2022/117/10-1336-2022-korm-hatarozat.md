@@ -1,0 +1,39 @@
+# A Kormány 1336/2022. (VII. 15.) Korm. határozata
+
+Magyar Közlöny 2022. évi 117. szám, 2022. július 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2pCsB5YthswqDlvNUk5E62cc628e17fce/dokumentumok/aacee08e2a52477c90eb189660f4287c3fea14ef/letoltes)
+
+---
+
+A Kormány 1336/2022. (VII. 15.) Korm. határozata
+az Energia-veszélyhelyzeti Operatív Törzsről
+1. A Kormány a háborús veszélyhelyzet okozta drasztikus energiaár-emelkedés és a nyugat-európai energiahiány miatt
+energia-veszélyhelyzetet hirdetett. A magyar energiaellátás biztonsága, valamint az energiaárak elviselhető szinten
+tartása és a rezsicsökkentés eredményeinek megvédése érdekében gyors és hatékony kormányzati intézkedések
+meghozatalára van szükség.
+2. A Kormány az 1. pontban foglalt körülményekre tekintettel meghozandó intézkedések megtételének előkészítésére,
+továbbá a meghozott döntések végrehajtásának nyomon követésére a kormányzati döntéshozatal különös
+hatáskörű szakmai döntés-előkészítő fórumaként – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 10. §-a
+szerinti testületként – Energia-veszélyhelyzeti Operatív Törzset hoz létre.
+3. Az Energia-veszélyhelyzeti Operatív Törzset a Miniszterelnökséget vezető miniszter vezeti.
+4. Az Energia-veszélyhelyzeti Operatív Törzs tagja
+a) a Miniszterelnökséget vezető miniszter által delegált személy,
+b) a Miniszterelnöki Kabinetirodát vezető miniszter által delegált személy,
+c) a Miniszterelnöki Kormányiroda közigazgatási államtitkára által delegált személy,
+d) az igazságügyi miniszter által delegált személy,
+e) a pénzügyminiszter által delegált személy,
+f) a technológiai és ipari miniszter által delegált személy,
+g) a gazdaságfejlesztési miniszter által delegált személy,
+h) a külgazdasági és külügyminiszter által delegált személy,
+i) a belügyminiszter által delegált személy,
+j) a rezsicsökkentés fenntartásáért felelős kormánybiztos,
+k) az MVM Energetika Zártkörűen Működő Részvénytársaság vezérigazgatója által delegált személy.
+5. A Kormány felkéri
+a) a Magyar Energetikai és Közmű-szabályozási Hivatal elnökét,
+b) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökét,
+c) az Országos Atomenergia Hivatal elnökét,
+hogy az Energia-veszélyhelyzeti Operatív Törzs munkájában tagként – személyesen vagy az elnök által delegált
+személy képviseletében – vegyen részt.
+6. Az Energia-veszélyhelyzeti Operatív Törzs ülésén a 4. és 5. pontban foglalt tagokon kívül a Miniszterelnökséget
+vezető miniszter által állandó vagy eseti jelleggel felkért, illetve meghívott személy vesz részt.
+ Orbán Viktor s. k.,
+ miniszterelnök
