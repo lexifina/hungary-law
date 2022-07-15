@@ -1,3 +1,3 @@
-## 15. §[^84]
+## 15. §[^85]
 
-[^84]: A 15. §-t a 183/2022. (V. 24.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^85]: A 15. §-t a 183/2022. (V. 24.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.

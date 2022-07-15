@@ -1,4 +1,4 @@
-8. §[^53] (1) A VBÜ az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzési igényét a Portálra történő feltöltéstől, vagy – ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igény minősített adatot tartalmaz, és a Portál minősített adat továbbítására nem alkalmas, – a kézhezvételtől számított 10 munkanapon belül megvizsgálja. A vizsgálat eredményéről a VBÜ az érintett szervezetet tájékoztatja.
+8. §[^54] (1) A VBÜ az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzési igényét a Portálra történő feltöltéstől, vagy – ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igény minősített adatot tartalmaz, és a Portál minősített adat továbbítására nem alkalmas, – a kézhezvételtől számított 10 munkanapon belül megvizsgálja. A vizsgálat eredményéről a VBÜ az érintett szervezetet tájékoztatja.
 
 (2) Az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzési igényét a Portálra történő feltöltéstől a beszerzési igény (4), illetve (5) bekezdés szerinti jelöléssel történő ellátásig indokolás nélkül visszavonhatja.
 
@@ -50,9 +50,9 @@ b) a (4) bekezdés c) pontja alapján látta el „végrehajtásra javasolt” j
 
 (12) A védelmi és biztonsági feladatokkal összefüggő beszerzési igény kielégítésére vonatkozó eljárás a Kormány döntését tartalmazó – a Kormány ügyrendje szerinti – határozatnak az érintett szervezettel való közléséig csak a (9) és a (11) bekezdés alapján indítható el.
 
-(13)[^54] A VBÜ – a (14) bekezdés szerinti kivétellel – kezdeményezi a védelmi és biztonsági feladatokkal összefüggő beszerzési igény Védelmi Tanács napirendjére vételét.
+(13)[^55] A VBÜ – a (14) bekezdés szerinti kivétellel – kezdeményezi a védelmi és biztonsági feladatokkal összefüggő beszerzési igény Védelmi Tanács napirendjére vételét.
 
-(14)[^55] A védelmi és biztonsági feladatokkal összefüggő beszerzési igény Védelmi Tanács általi napirendre vételét nem kezdeményezi a VBÜ
+(14)[^56] A védelmi és biztonsági feladatokkal összefüggő beszerzési igény Védelmi Tanács általi napirendre vételét nem kezdeményezi a VBÜ
 
 a) ha az érintett szervezet a beszerzési igényt a (2) bekezdés szerint visszavonta,
 
@@ -68,6 +68,6 @@ f) ha a beszerzési igény nem tartozik az e rendelet hatálya alá.
 
 (15) Ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igényt a Kormány elutasította, az átdolgozott beszerzési igény véleményezésre, továbbá jóváhagyásra ismételten előterjeszthető.
 
-[^53]: A 8. § a 649/2020. (XII. 23.) Korm. rendelet 4. § (17) bekezdésével megállapított szöveg.
-[^54]: A 8. § (13) bekezdése a 183/2022. (V. 24.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^55]: A 8. § (14) bekezdése a 183/2022. (V. 24.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^54]: A 8. § a 649/2020. (XII. 23.) Korm. rendelet 4. § (17) bekezdésével megállapított szöveg.
+[^55]: A 8. § (13) bekezdése a 183/2022. (V. 24.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^56]: A 8. § (14) bekezdése a 183/2022. (V. 24.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
