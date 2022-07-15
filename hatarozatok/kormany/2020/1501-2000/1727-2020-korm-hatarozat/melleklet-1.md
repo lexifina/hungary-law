@@ -1,6 +1,6 @@
-## 1. egyetért a Nemzeti Atlétikai Stadion, valamint a gyalogos és kerékpáros híd, illetve egyéb kapcsolódó létesítmény, infrastruktúra, valamint környezetrendezés (a továbbiakban: Beruházás) megvalósításával és a megvalósítási időszak alatti üzemeltetésével legfeljebb 203 953 415 351 forint összegben, az 1. mellékletben megjelölt ingatlanokon;
+## 1.[^1] egyetért a Nemzeti Atlétikai Stadion, valamint a gyalogos és kerékpáros híd, illetve egyéb kapcsolódó létesítmény, infrastruktúra, valamint környezetrendezés (a továbbiakban: Beruházás) megvalósításával és a megvalósítási időszak alatti üzemeltetésével legfeljebb 211 982 880 540 forint összegben, az 1. mellékletben megjelölt ingatlanokon;
 
-## 2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 199 019 386 005 forint összegben határozza meg;
+## 2.[^2] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 203 512 556 063 forint összegben határozza meg;
 
 ## 3. felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával gondoskodjon a 2. pont szerinti összeg 2020. évi részének finanszírozása érdekében 8 901 802 500 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások cím, 1. Nemzeti Atlétikai Központ megvalósítása alcím javára;
 
@@ -18,29 +18,29 @@
 
 ## Határidő: a felmerülés ütemében
 
-## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2022–2024. évi részének rendelkezésre állásáról a központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében;
+## 5.[^3] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2022–2024. évi részének rendelkezésre állásáról a központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## pénzügyminiszter
 
-## Határidő: a 2022–2024. évi központi költségvetés tervezése során
+## Határidő: a 2022–2024. évi központi költségvetés tervezése során, illetve a felmerülés ütemében
 
 ## 6. a Beruházás megvalósítási időszak alatti üzemeltetése érdekében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 4. A Beruházási Ügynökség tevékenységéhez kapcsolódó egyéb kiadások cím terhére vállalható kötelezettségvállalás felső korlátját
 
-## a) a 2023. év vonatkozásában 876 385 979 forintban,
+## a)[^4] a 2023. év vonatkozásában 876 385 979 forintban,
 
 ## b) a 2024. év vonatkozásában 400 043 367 forintban
 
 ## állapítja meg;
 
-## 7. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében a 6. pont szerinti feladat ellátásához szükséges források tervezéséről;
+## 7.[^5] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében a 6. pont szerinti feladat ellátásához szükséges források tervezéséről;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## pénzügyminiszter
 
-## Határidő: a 2023–2024. évi központi költségvetés tervezése során
+## Határidő: a 2023–2024. évi központi költségvetés tervezése során, illetve a felmerülés ütemében
 
 ## 8. felhívja a pénzügyminisztert, hogy gondoskodjon a Beruházáshoz kapcsolódó mérnöki tevékenység ellátásához szükséges 59 436 000 forint forrás biztosításáról a Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 3. A Beruházási Ügynökség működésének támogatása cím javára;
 
@@ -52,15 +52,15 @@
 
 ## a) a 2021. év vonatkozásában 1 122 883 200 forintban,
 
-## b) a 2022. év vonatkozásában 927 018 720 forintban,
+## b)[^6] a 2022. év vonatkozásában 1 151 656 354 forintban,
 
-## c) a 2023. év vonatkozásában 838 504 800 forintban,
+## c)[^7] a 2023. év vonatkozásában 1 063 142 435 forintban,
 
 ## d) a 2024. év vonatkozásában 709 757 280 forintban
 
 ## állapítja meg;
 
-## 10. felhívja nemzeti vagyon kezeléséért felelős tárca nélküli minisztert és a pénzügyminisztert, hogy gondoskodjanak a központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében a 9. pont szerinti források biztosításáról;
+## 10.[^8] felhívja nemzeti vagyon kezeléséért felelős tárca nélküli minisztert és a pénzügyminisztert, hogy gondoskodjanak a központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében a 9. pont szerinti források biztosításáról;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -70,7 +70,7 @@
 
 ## a 2022–2024. évek esetében a központi költségvetés tervezése során
 
-## 11.[^1] felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Kormány részére a Beruházás során létrejövő vagyonelemek üzemeltetéséről, az üzemeltető személyére vonatkozó javaslat és az üzemeltetési modell bemutatásával;
+## 11.[^9] felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Kormány részére a Beruházás során létrejövő vagyonelemek üzemeltetéséről, az üzemeltető személyére vonatkozó javaslat és az üzemeltetési modell bemutatásával;
 
 ## Felelős: emberi erőforrások minisztere
 
@@ -194,4 +194,12 @@ A Beruházás megvalósításához szükséges ingatlanok
 
 | 47. | 38086/235 |
 
-[^1]: A 11. pont az 1218/2022. (IV. 5.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: Az 1. pont az 1344/2022. (VII. 15.) Korm. határozat a) pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1344/2022. (VII. 15.) Korm. határozat b) pontja szerint módosított szöveg.
+[^3]: Az 5. pont az 1344/2022. (VII. 15.) Korm. határozat c) pontja szerint módosított szöveg.
+[^4]: [Az 1344/2022. (VII. 15.) Korm. határozat d) pontjával elrendelt módosítás, amely szerint a „876 385 979 forint” szövegrész helyébe a „3 963 405 841 forint” szöveg lép, nem vezethető át.]
+[^5]: A 7. pont az 1344/2022. (VII. 15.) Korm. határozat e) pontja szerint módosított szöveg.
+[^6]: A 9. pont b) alpontja az 1344/2022. (VII. 15.) Korm. határozat f) pontja szerint módosított szöveg.
+[^7]: A 9. pont c) alpontja az 1344/2022. (VII. 15.) Korm. határozat g) pontja szerint módosított szöveg.
+[^8]: [Az 1344/2022. (VII. 15.) Korm. határozat h) pontjával elrendelt módosítás, amely szerint az „a 2022–2024. évi központi költségvetés tervezése során” szövegrész helyébe az „a 2022–2024. évi központi költségvetés tervezése során, illetve a felmerülés ütemében” szöveg lép, nem vezethető át.]
+[^9]: A 11. pont az 1218/2022. (IV. 5.) Korm. határozat 2. pontjával megállapított szöveg.
