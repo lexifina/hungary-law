@@ -8,7 +8,7 @@
 
 a) zöldterületként legfeljebb 3%-os beépítettséggel, vagy
 
-b) különleges terület strandként
+b)
 
 valósítható meg.
 
