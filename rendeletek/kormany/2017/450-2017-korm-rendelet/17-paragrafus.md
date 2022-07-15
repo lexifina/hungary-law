@@ -4,7 +4,7 @@
 
 (2) A gyógyszergyártási engedély iránti kérelmet az OGYÉI-hez 3 példányban az R. 2. mellékletében meghatározott adatlapon kell benyújtani. A kérelemhez mellékelni kell
 
-a) a gyógyszerforma (gyógyszerformák), illetve speciális tevékenység (tevékenységek) – az R. 3. melléklete szerinti – megjelölését, amelyre a kérelmező az engedélyt kéri,
+a)[^14] a gyógyszerforma (gyógyszerformák), illetve speciális tevékenység (tevékenységek) OGYÉI honlapján közzétett módon történő megjelölését, amelyre a kérelmező az engedélyt kéri,
 
 b) a gyógyszergyártás helyszínére vonatkozó alapadatokat és a gyógyszergyártás helyszínének helyszínrajzát,
 
@@ -17,3 +17,4 @@ d) a Gytv. 4. § (3) bekezdése szerinti felelősségbiztosítási szerződés m
 (4) Az OGYÉI a gyógyszergyártási engedélyben szereplő adatokat rögzíti az Ügynökség által működtetett európai uniós adatbázisban.
 
 [^13]: A 17. § (1a) bekezdését a 724/2021. (XII. 20.) Korm. rendelet 11. §-a iktatta be.
+[^14]: A 17. § (2) bekezdés a) pontja a 231/2022. (VI. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
