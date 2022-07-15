@@ -10,11 +10,11 @@
 
 (4)[^184] A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács a saját éves költségvetési beszámolóját az (1) bekezdés szerinti határidő lejártát követő húsz napon belül tölti fel a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe az éves költségvetési beszámolót alátámasztó – könyvelési rendszerből előállított – teljes főkönyvi kivonattal együtt.
 
-(5)[^185] A központi költségvetés XXII. Miniszterelnöki Kormányiroda fejezetébe sorolt költségvetési szerv esetén – a Kormányzati Ellenőrzési Hivatal kivételével – az (1) bekezdés szerinti feladatokat az Ávr. 9. § (5b) bekezdése szerinti szervezet látja el.
+(5)[^185]
 
-(6)[^186] A központi költségvetés XXII. Miniszterelnöki Kormányiroda fejezetébe sorolt költségvetési szerv esetén – a Kormányzati Ellenőrzési Hivatal kivételével – az (1a) bekezdést azzal az eltéréssel kell alkalmazni, hogy az irányító szerv vezetője a költségvetési szerv éves költségvetési beszámolóját az (1) bekezdés szerinti határidőt követő húsz napon belül felülvizsgálja, és annak javítására, kiegészítésére vonatkozó észrevételeit az Ávr. 9. § (5b) bekezdése szerinti szervezet részére megküldi. A javítások, kiegészítések elvégzését követően az Ávr. 9. § (5b) szerinti szervezet – a Kincstár által működtetett elektronikus adatszolgáltató rendszerben – jóváhagyja. Az Ávr. 9. § (5b) bekezdése szerinti szervezet az e bekezdés szerinti költségvetési szerv vonatkozásában elkészített és az elektronikus adatszolgáltató rendszerben jóváhagyott adattartalmú aláírt éves költségvetési beszámolót a Kincstár általi elfogadását követő húsz napon belül megküldi az irányító szervnek, amely azt – a felülvizsgálat elvégzését igazoló személy aláírásával ellátva – az Ávr. 9.§ (5b) bekezdése szerinti szervezet részére tíz napon belül visszaküldi.
+(6)[^186]
 
-(7)[^187] A központi költségvetés XXII. Miniszterelnöki Kormányiroda fejezetébe sorolt fejezeti kezelésű előirányzatok tekintetében a fejezetet irányító szerv vagy a fejezetet irányító szerv vezetőjének kijelölése alapján az Ávr. 9. § (5b) bekezdése szerinti szervezet gazdasági vezetője a fejezetbe tartozó fejezeti kezelésű előirányzatok éves költségvetési beszámolóit március 20-áig elkészíti, és a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe feltölti az éves költségvetési beszámolót alátámasztó – könyvelési rendszerből előállított – teljes főkönyvi kivonattal együtt.
+(7)[^187]
 
 [^179]: A 32. § (1) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 351/2016. (XI. 18.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.
 [^180]: A 32. § (1a) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 351/2016. (XI. 18.) Korm. rendelet 11. § 10. pontja szerint módosított szöveg.
@@ -22,6 +22,6 @@
 [^182]: A 32. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 98. §-ával megállapított szöveg.
 [^183]: A 32. § (3) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 13. § (3) bekezdésével megállapított, a 351/2016. (XI. 18.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.
 [^184]: A 32. § (4) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 13. § (3) bekezdésével megállapított, a 351/2016. (XI. 18.) Korm. rendelet 11. § 11. pontja szerint módosított szöveg.
-[^185]: A 32. § (5) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 482/2021. (VIII. 13.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^186]: A 32. § (6) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 11. §-a iktatta be.
-[^187]: A 32. § (7) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 11. §-a iktatta be.
+[^185]: A 32. § (5) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 245/2022. (VII. 8.) Korm. rendelet 11. § 3. pontja.
+[^186]: A 32. § (6) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 245/2022. (VII. 8.) Korm. rendelet 11. § 3. pontja.
+[^187]: A 32. § (7) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 245/2022. (VII. 8.) Korm. rendelet 11. § 3. pontja.

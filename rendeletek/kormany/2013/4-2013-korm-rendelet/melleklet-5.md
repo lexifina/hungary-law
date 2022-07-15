@@ -1,3 +1,3 @@
-5. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^337]
+5. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^333]
 
-[^337]: Az 5. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 6. pontjával megállapított szöveg.
+[^333]: Az 5. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 6. pontjával megállapított szöveg.

@@ -8,9 +8,9 @@
 
 (4)[^10] Az 1. mellékletben meghatározott központi kezelésű előirányzatokkal kapcsolatos beszámolási és könyvvezetési feladatokat a Magyar Államkincstár (a továbbiakban: Kincstár) látja el. A Kincstár beszámolási és könyvvezetési feladatainak teljesítéséhez a 2. mellékletben nevesített szervezetek e rendelet szerinti részletező nyilvántartásokat vezetnek, és azok adatai alapján a Kincstár által meghatározott gyakorisággal adatot szolgáltatnak a Kincstárnak. Ilyen esetben a könyvvezetés alapjául az e szervezetek által megküldött adatszolgáltatások minősülnek.
 
-(5)[^11] A központi költségvetés XXII. Miniszterelnöki Kormányiroda fejezetébe sorolt központi költségvetési szervi, fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok tekintetében – az Ávr. 1. melléklet I. pont 21. alpont a) és b) pontjában meghatározott előirányzatok kivételével – a beszámolási és könyvvezetési feladatokat a Miniszterelnöki Kabinetiroda látja el.
+(5)[^11]
 
 [^8]: A 2. § (1) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 22. § 1. pontja, a 310/2018. (XII. 27.) Korm. rendelet 36. § 1. pontja, a 678/2020. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
 [^9]: A 2. § (2) bekezdése a 20/2015. (II. 17.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^10]: A 2. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 83. §-ával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^11]: A 2. § (5) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^11]: A 2. § (5) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 245/2022. (VII. 8.) Korm. rendelet 11. § 1. pontja.
