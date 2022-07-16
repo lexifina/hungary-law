@@ -4,9 +4,12 @@
 
 (2) Az 1/A. számú mellékletben foglalt azon hatóanyagokat tartalmazó gyógyszereknek a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 26. § (1) bekezdés c) pontja szerinti kiadására, amelyek a Módr4. hatálybalépése[^113] előtt nem tartoztak a tételes elszámolás alá eső hatóanyagok körébe, a Módr4. hatálybalépését[^114] követő harmadik hónap utolsó napjáig kerülhet sor.
 
+27. §[^115]
+
 [^109]: A 26. §-t a 28/2021. (VI. 29.) EMMI rendelet 1. §-a iktatta be.
 [^110]: A 27. §-t az 55/2021. (XII. 22.) EMMI rendelet 2. §-a iktatta be.
 [^111]: A hatálybalépés napja 2022. január 1.
 [^112]: A hatálybalépés napja 2022. január 1.
 [^113]: A hatálybalépés napja 2022. január 1.
 [^114]: A hatálybalépés napja 2022. január 1.
+[^115]: Az újabb 27. §-t az 59/2021. (XII. 28.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 21/2022. (VII. 15.) BM rendelet 3. §-a.
