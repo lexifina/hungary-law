@@ -1,3 +1,0 @@
-## 3. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 128. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Kincstár a működési előirányzatokra jutó központi támogatás január havi keretét – a honvédelemért felelős miniszter által vezetett minisztérium 1–7. címéhez tartozó költségvetési szervek, valamint a polgári nemzetbiztonsági szolgálatok kivételével – a személyi juttatások 1/12-ének 35%-ával és a munkaadókat terhelő járulékok és szociális hozzájárulási adó 1/12-ével csökkenti. A Kincstár ettől a fejezetet irányító szerv kérelmére eltérést engedélyezhet.”
