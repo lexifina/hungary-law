@@ -1,3 +1,3 @@
-## 10. § Az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló 450/2017. (XII. 27.) Korm. rendelet (a továbbiakban: R5.) 18. §-a a következő (2a) bekezdéssel egészül ki:
+## 10. §[^11]
 
-## „(2a) Az OGYÉI honlapján közzéteszi azon gyógyszerformákat és tevékenységeket, amelyekre nézve gyógyszergyártási engedély kérhető.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
