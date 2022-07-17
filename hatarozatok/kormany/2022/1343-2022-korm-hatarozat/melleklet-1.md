@@ -12,23 +12,11 @@
 
 ## Határidő: az 1. pont c) alpontja szerinti többletforrás rendelkezésre állását követően azonnal
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat]
+## 3.[^1]
 
-## a) 1. pont f) alpont fa) pont fac) alpontjában a „161,43%-áig” szövegrész helyébe a „158,84%-áig” szöveg,
+## 4.[^2]
 
-## b) 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „203,390” szövegrész helyébe a „200,130” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:81 mezőjében a „17,63” szövegrész helyébe a „21,28” szöveg
-
-## lép.
-
-## 4. Hatályát veszti az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat 101b. sora.
-
-## 5. Hatályát veszti a Kecskemét Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása, valamint a Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása című projektjavaslatokkal kapcsolatos egyes kormányhatározatok módosításáról szóló 1555/2019. (IX. 26.) Korm. határozat
-
-## a) 1. pontjában az „a Kecskemét Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása, valamint” szövegrész,
-
-## b) 1. mellékletében foglalt táblázat 3. sora.
+## 5.[^3]
 
 ## 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -43,3 +31,7 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az Európai Unió (a továbbiakban: EU) felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |
 
 | 4. | IKOP-3.2.0- 15-2017- 00026 | Szeged– Hódmezővásárhely tram-train rendszer – járműbeszerzés | MÁV- START Zrt. | 100% | 17 622 586 884 | 0 | 0 | 0 | 0 | 3 653 000 000 | 0 | 0 | 0 | 100% | 21 275 586 884 | 0 | 0 | 0 | 21 275 586 884 | Szeged– Hódmezővásárhely tram-train vonalra 8 db hibrid jármű beszerzése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
