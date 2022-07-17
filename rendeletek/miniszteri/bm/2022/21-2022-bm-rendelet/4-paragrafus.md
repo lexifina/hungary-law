@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti az R.-nek az egyes egészségügyi és egészségbiztosítási tárgyú miniszteri rendeletek robotsebészeti eljárásokkal összefüggő módosításáról szóló 59/2021. (XII. 28.) EMMI rendelettel megállapított 27. §-a.
+## 1–3. §[^2]
 
 ## 2. A személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SzCsM rendelet módosítása
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
