@@ -72,4 +72,6 @@ c) a megbízás alapjául szolgáló jogviszony megszűnésével.
 
 15. A Munkacsoport alakuló ülésének összehívásáról az e határozat hatálybalépésétől számított 60 napon belül a Munkacsoport elnöke gondoskodik.
 
-16. Hatályát veszti a korrupció elleni küzdelemmel kapcsolatos feladatokról szóló 1037/2007. (VI. 18.) Korm. határozat.
+16.[^2]
+
+[^2]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
