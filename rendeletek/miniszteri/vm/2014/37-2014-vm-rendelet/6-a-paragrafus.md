@@ -1,4 +1,4 @@
-## 6a.[^15] Átmeneti támogatás
+## 6a.[^20] Átmeneti támogatás
 
 6/A. § (1) A fűszerpaprika-termelő 2020. támogatási év tekintetében benyújtott támogatási kérelmét elbíráló döntésben megállapított támogatás a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásnak (a továbbiakban: átmeneti támogatás) minősül.
 
@@ -10,4 +10,4 @@
 
 (5) A fűszerpaprika-termelő átmeneti támogatásként legfeljebb az (1) bekezdésben meghatározott időszakra – a mezőgazdasági csekély összegű támogatás iránt – benyújtott kérelme alapján megállapított támogatási összegre jogosult.
 
-[^15]: A 6a. alcímet (6/A. §) a 41/2020. (VIII. 19.) AM rendelet 5. §-a iktatta be.
+[^20]: A 6a. alcímet (6/A. §) a 41/2020. (VIII. 19.) AM rendelet 5. §-a iktatta be.

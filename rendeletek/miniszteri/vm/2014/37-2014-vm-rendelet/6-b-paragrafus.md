@@ -1,4 +1,4 @@
-6/B. §[^16] (1) A 2. § (1) bekezdésében foglaltaktól eltérően a fűszerpaprika-termelő 2021. évben benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
+6/B. §[^21] (1) A 2. § (1) bekezdésében foglaltaktól eltérően a fűszerpaprika-termelő 2021. évben benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
 
 (2) Az átmeneti támogatás iránti kérelem – és annak mellékletei – elektronikus úton, ügyfélkapus azonosítást követően, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
@@ -22,8 +22,9 @@ bc) arról, hogy a vállalkozása kapcsolt vállalkozásnak minősül-e, és a k
 
 (7) A kötelező elektronikus kapcsolattartásra tekintettel az eljárás során a Kincstár az értesítéseket, dokumentumokat, valamint a döntéseit elektronikus úton közli a fűszerpaprika-termelővel vagy meghatalmazottjával.
 
-(8) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a fűszerpaprika-termelő helyett és nevében a meghatalmazottja jár el, akkor a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+(8)[^22] Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a fűszerpaprika-termelő helyett és nevében a meghatalmazottja jár el, akkor a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra a 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
 (9) A támogatási kérelem legfeljebb a benyújtását követő naptól számított tíz napon belül módosítható az elektronikus űrlapkitöltő felületen keresztül. Módosítás esetén az utolsó támogatási kérelmet kell elbírálni. A támogatási kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának az időpontja.
 
-[^16]: A 6/B. §-t a 18/2021. (IV. 14.) AM rendelet 3. §-a iktatta be.
+[^21]: A 6/B. §-t a 18/2021. (IV. 14.) AM rendelet 3. §-a iktatta be.
+[^22]: A 6/B. § (8) bekezdése a 18/2022. (VII. 13.) AM rendelet 11. §-a szerint módosított szöveg.
