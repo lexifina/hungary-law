@@ -1,4 +1,4 @@
-## 3. §[^3] A támogatás 2022. évben rendelkezésre álló keretösszege legfeljebb 50 millió forint.
+## 3. §[^3] A támogatás 2022. évben rendelkezésre álló keretösszege legfeljebb 78 millió forint.
 
 ## 4. A támogatás igénybevételének feltételei
 
@@ -26,7 +26,7 @@ haszongalambot vásárolt; valamint
 
 d) a tenyészetét legkésőbb a támogatási kérelem benyújtásáig a megyei kormányhivatal részére a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet szerint – annak 4. § (1) bekezdés b) pont bb) alpontjában foglaltakra tekintettel – bejelentette.
 
-[^3]: A 3. § az 50/2021. (XII. 29.) AM rendelet 31. §-ával megállapított szöveg.
+[^3]: A 3. § az 50/2021. (XII. 29.) AM rendelet 31. §-ával megállapított, a 18/2022. (VII. 13.) AM rendelet 13. §-a szerint módosított szöveg.
 [^4]: A 4. § a) pontja a 41/2020. (VIII. 19.) AM rendelet 30. §-a szerint módosított szöveg.
 [^5]: A 4. § c) pontja a 66/2019. (XII. 30.) AM rendelet 10. §-ával megállapított szöveg.
 [^6]: A 4. § c) pont cb) alpontja az 50/2021. (XII. 29.) AM rendelet 34. § a) pontja szerint módosított szöveg.
