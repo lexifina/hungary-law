@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-9-30-41
 | 2022-05-03 | 2022-9-30-41.2 | 2010: CXXX. törvény |
 | 2022-05-17 | 2022-9-30-41.3 | 14/2022. (V. 18.) OGY határozat |
 | 2022-06-14 | 2022-9-30-41.4 | 22/2022. (VI. 14.) OGY határozat |
+| 2022-07-19 | 2022-9-30-41.5 | 33/2022. (VII. 19.) OGY határozat |

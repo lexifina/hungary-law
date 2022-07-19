@@ -40,10 +40,13 @@ Bakos Bernadett (LMP)
 
 Berki Sándor (Párbeszéd)[^3]
 
+dr. Vadai Ágnes (DK)[^4]
+
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^4]
+3.[^5]
 
 [^2]: A 22/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 14/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 33/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
