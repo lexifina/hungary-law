@@ -1,7 +1,3 @@
-## „(1a) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a kérelmező helyett és nevében meghatalmazottja jár el, a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus űrlapkitöltő felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet [a továbbiakban: 22/2016. (IV. 5.) FM rendelet] meghatalmazásra vonatkozó rendelkezéseit kell alkalmazni.
+## 10. §[^3]
 
-## (1b) A támogatási kérelemre indult eljárás során minden dokumentumot, így a hiánypótláshoz kapcsolódó dokumentumokat és – a felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumokat (a továbbiakban együtt: beadvány) is az elektronikus űrlapkitöltő felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
-
-## (1c) A támogatási kérelem a benyújtását követő naptól számított tíz napon belül, de legkésőbb az (1) bekezdésben meghatározott határidő végéig az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó támogatási kérelmet kell elbírálni. A támogatási kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
-
-## (1d) Az eljárás során – a felügyeleti eljárás kivételével – kötelező az elektronikus kapcsolattartás. A kötelező elektronikus kapcsolattartásra tekintettel a Kincstár az értesítéseket, dokumentumokat, valamint a döntéseit elektronikus úton közli a kérelmezővel vagy meghatalmazottjával.”
+[^3]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
