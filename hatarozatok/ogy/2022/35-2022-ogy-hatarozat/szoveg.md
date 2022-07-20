@@ -18,6 +18,8 @@ a Hungarikum Bizottság tagjának
 
 delegálja.
 
-2. Hatályát veszti a Hungarikum Bizottság négy tagjának delegálásáról szóló 7/2019. (III. 5.) OGY határozat.
+2.[^2]
 
 3. Ez a határozat az elfogadásakor lép hatályba.
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
