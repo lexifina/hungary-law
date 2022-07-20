@@ -1,1 +1,3 @@
-## 8. § A Korm. rendelet 16. § (5) bekezdés a) pontjában a „(3) bekezdés” szövegrész helyébe a „(4) bekezdés” szöveg lép.
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

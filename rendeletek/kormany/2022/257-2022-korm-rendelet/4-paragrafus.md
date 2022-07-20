@@ -1,3 +1,3 @@
-## 3. § A Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „(2) A hozzájárulás fizetésére kötelezett az az Lt. szerinti földi kiszolgálást végző gazdálkodó szervezet, amely az utas- és poggyászkezelési tevékenységet látja el.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

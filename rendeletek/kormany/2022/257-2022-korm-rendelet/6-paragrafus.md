@@ -1,1 +1,3 @@
-## 5. § A Korm. rendelet 12. §-ában az „első alkalommal a 2022. július hónapban keletkezett” szövegrész helyébe az „a 2022. július 1-jétől létrejött” szöveg lép.
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
