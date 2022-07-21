@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1117-30
 | 2022-03-23 | 2022-1117-30-22.2 | 1177/2022. (III. 23.) Korm. határozat |
 | 2022-04-28 | 2022-1117-30-22.3 | 1241/2022. (IV. 28.) Korm. határozat |
 | 2022-06-17 | 2022-1117-30-22.4 | 1296/2022. (VI. 17.) Korm. határozat |
+| 2022-07-21 | 2022-1117-30-22.5 | 1366/2022. (VII. 21.) Korm. határozat |
