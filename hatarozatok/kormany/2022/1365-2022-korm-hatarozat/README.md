@@ -1,0 +1,9 @@
+# 1365/2022. (VII. 21.) Korm. határozat
+
+a különleges földgázkészlet létrehozásához szükséges földgáz beszerzését szolgáló hitelhez kapcsolódó egyedi állami kezesség vállalásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1365-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-07-21 | 2022-1365-30-22.1 | 1365/2022. (VII. 21.) Korm. határozat |
