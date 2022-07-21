@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-80-00-00
 | --- | --- | --- |
 | 2017-06-24 | 2017. évi LXXX. törvény | 2017-80-00-00.0 (közlönyállapot) |
 | 2017-06-24 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-80-00-00.1 |
+| 2022-07-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-80-00-00.2 |
