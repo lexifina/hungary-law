@@ -1,0 +1,1 @@
+## 8. § A Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban: 481/2021. (VIII. 13.) Korm. rendelet] 1. melléklete helyébe a 4. melléklet lép.
