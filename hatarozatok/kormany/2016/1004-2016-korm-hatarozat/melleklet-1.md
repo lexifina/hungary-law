@@ -20,15 +20,15 @@
 
 ## f)[^6]
 
-## g)[^7] felhívja a miniszterelnök kabinetfőnökét, hogy gondoskodjon – a KÖFOP végrehajtásáért felelős irányító hatóság (a továbbiakban: irányító hatóság) e program keretében finanszírozni tervezett projekt támogatásáról szóló döntése meghozatala előtt – az e-közigazgatási, a közigazgatás-szervezési szempontú, valamint az e-közigazgatási és informatikai fejlesztések egységesítésével kapcsolatos vélemények irányító hatóság vezetője általi kikéréséről.
+## g)[^7] felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy gondoskodjon – a KÖFOP végrehajtásáért felelős irányító hatóság (a továbbiakban: irányító hatóság) e program keretében finanszírozni tervezett projekt támogatásáról szóló döntése meghozatala előtt – az e-közigazgatási, a közigazgatás-szervezési szempontú, valamint az e-közigazgatási és informatikai fejlesztések egységesítésével kapcsolatos vélemények irányító hatóság vezetője általi kikéréséről.
 
-## Felelős: a miniszterelnök kabinetfőnöke
+## Felelős: a Miniszterelnöki Kabinetirodát vezető miniszter
 
 ## Határidő: folyamatos
 
-## h)[^8] felhívja a miniszterelnök kabinetfőnökét, hogy – ha szükséges, a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 56. § (3) bekezdése szerint – az irányító hatóság útján gondoskodjon az előkészítési költségek biztosítása érdekében az egyes, a 2. melléklet szerint az 1. vagy a 2. prioritás keretében nevesített projektek megvalósításának előkészítésére és a megvalósításának támogatására olyan támogatási szerződés megkötéséről, amelyben érvényesíti a költséghatékonysági, szakmai megalapozottsági, közbeszerzési, illetve projekt lehatárolási szempontok beépülését a projektek végrehajtásába, valamint az adott projekt számára meghatározott mérföldkövek megfelelnek az e) alpontnak,
+## h)[^8] felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy – ha szükséges, a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 56. § (3) bekezdése szerint – az irányító hatóság útján gondoskodjon az előkészítési költségek biztosítása érdekében az egyes, a 2. melléklet szerint az 1. vagy a 2. prioritás keretében nevesített projektek megvalósításának előkészítésére és a megvalósításának támogatására olyan támogatási szerződés megkötéséről, amelyben érvényesíti a költséghatékonysági, szakmai megalapozottsági, közbeszerzési, illetve projekt lehatárolási szempontok beépülését a projektek végrehajtásába, valamint az adott projekt számára meghatározott mérföldkövek megfelelnek az e) alpontnak,
 
-## Felelős: miniszterelnök kabinetfőnöke
+## Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
 
 ## Határidő: folyamatos
 
@@ -66,17 +66,17 @@
 
 ## o)[^17] egyetért azzal, hogy az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény alapján meghatározott szociális hozzájárulási adó mindenkor hatályos mértékének alapulvételével az irányító hatóság vizsgálja felül az érintett, a KÖFOP forrásaiból finanszírozott projektekben felhasználni kívánt személyi jellegű költségek mértékét, és az így keletkező különbözettel az érintett projektek támogatási kerete az éves fejlesztési keretben csökkentésre kerüljön,
 
-## Felelős: miniszterelnök kabinetfőnöke
+## Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
 
 ## Határidő: folyamatos
 
-## p)[^18] felhívja a miniszterelnök kabinetfőnökét, hogy az irányító hatóság útján
+## p)[^18] felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy az irányító hatóság útján
 
 ## pa) vizsgálja meg a KÖFOP végrehajtása során bekövetkező, a kedvezményezettet érintő szervezeti változások esetleges eredményeként az érintett kedvezményezett általános forgalmi adó levonására vonatkozó jogával összefüggő változások hatásait, és ezzel összefüggésben a projektek támogatási keretét,
 
 ## pb) tegyen javaslatot a Kormány részére az általános forgalmi adót levonni jogosulttá váló kedvezményezettek projektjei az éves fejlesztési keretben rögzített támogatási keretének a levonható általános forgalmi adó mértékével történő csökkentésére,
 
-## Felelős: miniszterelnök kabinetfőnöke
+## Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
 
 ## Határidő: folyamatos
 
@@ -86,9 +86,9 @@
 
 ## Határidő: 2017. június 30.
 
-## r)[^20] felhívja a miniszterelnök kabinetfőnökét, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról,
+## r)[^20] felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról,
 
-## Felelős: miniszterelnök kabinetfőnöke
+## Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
 
 ## Határidő: folyamatos
 
@@ -102,7 +102,7 @@
 
 ## t)[^22] jóváhagyja az r) alpont szerinti átcsoportosítás Európai Bizottság általi elfogadásáig a KÖFOP 1. prioritása keretében megvalósuló projektek tekintetében az eredeti keretösszeg 110%-át meghaladó rész terhére történő kötelezettségvállalást,
 
-## Felelős: miniszterelnök kabinetfőnöke
+## Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
 
 ## Határidő: folyamatos
 
@@ -156,9 +156,9 @@
 
 ## Határidő: 2020. szeptember 30.
 
-## b)[^34] felhívja miniszterelnök kabinetfőnökét, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról.
+## b)[^34] felhívja Miniszterelnöki Kabinetirodát vezető minisztert, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról.
 
-## Felelős: miniszterelnök kabinetfőnöke
+## Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
 
 ## Határidő: folyamatos
 
@@ -346,8 +346,8 @@
 [^4]: Az 1. pont e) alpont ea) alpontja az 1585/2016. (X. 25.) Korm. határozat 1. pontjával megállapított, az 1117/2017. (III. 13.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
 [^5]: Az 1. pont e) alpont ed) alpontját az 1117/2017. (III. 13.) Korm. határozat 1. pontja iktatta be.
 [^6]: Az 1. pont f) alpontját az 1117/2017. (III. 13.) Korm. határozat 9. pont a) alpontja hatályon kívül helyezte.
-[^7]: Az 1. pont g) alpontja az 1134/2021. (III. 23.) Korm. határozat 3. pontjával megállapított szöveg.
-[^8]: Az 1. pont h) alpontja az 1369/2016. (VII. 13.) Korm. határozat 4. pont b) alpontja, az 1585/2016. (X. 25.) Korm. határozat 5. pont 5.1. alpontja, az 1287/2017. (VI. 2.) Korm. határozat 4. pont 4.1. alpontja, az 1134/2021. (III. 23.) Korm. határozat 6. pont 6.1. pont 1. pont 6.1.1. pontja szerint módosított szöveg.
+[^7]: Az 1. pont g) alpontja az 1134/2021. (III. 23.) Korm. határozat 3. pontjával megállapított, az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.1. alpont 1.1.1. pontja szerint módosított szöveg.
+[^8]: Az 1. pont h) alpontja az 1369/2016. (VII. 13.) Korm. határozat 4. pont b) alpontja, az 1585/2016. (X. 25.) Korm. határozat 5. pont 5.1. alpontja, az 1287/2017. (VI. 2.) Korm. határozat 4. pont 4.1. alpontja, az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.1. alpont 1.1.2. pontja szerint módosított szöveg.
 [^9]: Az 1. pont i) alpontját az 1936/2017. (XII. 8.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^10]: Az 1. pont j) alpontja az 1117/2017. (III. 13.) Korm. határozat 2. pontjával megállapított szöveg.
 [^11]: Az 1. pont j) alpont ja) alpontja az 1591/2018. (XI. 22.) Korm. határozat 4. pont 4.1. alpontja szerint módosított szöveg.
@@ -356,12 +356,12 @@
 [^14]: Az 1. pont l) alpontját újonnan az 1591/2018. (XI. 22.) Korm. határozat 1. pontja iktatta be.
 [^15]: Az 1. pont m) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 3. pontjával megállapított szöveg.
 [^16]: Az 1. pont n) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1882/2020. (XII. 4.) Korm. határozat 2. pontjával megállapított szöveg.
-[^17]: Az 1. pont o) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 4. pontjával megállapított, az 1056/2018. (II. 21.) Korm. határozat 4. pont a) alpontja, az 1134/2021. (III. 23.) Korm. határozat 6. pont 6.1. pont 1. pont 6.1.2. pontja szerint módosított szöveg.
-[^18]: Az 1. pont p) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, nyitó és záró szövegrésze az 1134/2021. (III. 23.) Korm. határozat 6. pont 6.1. pont 1. pont 6.1.3. pontja szerint módosított szöveg.
+[^17]: Az 1. pont o) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 4. pontjával megállapított, az 1056/2018. (II. 21.) Korm. határozat 4. pont a) alpontja, az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.1. alpont 1.1.3. pontja szerint módosított szöveg.
+[^18]: Az 1. pont p) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, nyitó és záró szövegrésze az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.1. alpont 1.1.4. pontja szerint módosított szöveg.
 [^19]: Az 1. pont q) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, szövege az 1287/2017. (VI. 2.) Korm. határozat 1. pontjával megállapított szöveg.
-[^20]: Az 1. pont r) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, szövege az 1134/2021. (III. 23.) Korm. határozat 6. pont 6.1. pont 1. pont 6.1.4. pontja szerint módosított szöveg.
+[^20]: Az 1. pont r) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, szövege az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.1. alpont 1.1.5. pontja szerint módosított szöveg.
 [^21]: Az 1. pont s) alpontját újonnan az 1787/2018. (XII. 21.) Korm. határozat 3. pontja iktatta be, szövege az 1129/2020. (III. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^22]: Az 1. pont t) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be, szövege az 1134/2021. (III. 23.) Korm. határozat 6. pont 6.1. pont 1. pont 6.1.5. pontja szerint módosított szöveg.
+[^22]: Az 1. pont t) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be, szövege az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.1. alpont 1.1.6. pontja szerint módosított szöveg.
 [^23]: Az 1. pont u) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
 [^24]: Az 1. pont v) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
 [^25]: Az 1. pont w) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be.
@@ -373,6 +373,6 @@
 [^31]: Az 1/A. pont f) alpontját az 1647/2021. (IX. 21.) Korm. határozat 3. pontja iktatta be.
 [^32]: Az 1/A. pont g) alpontját az 1847/2021. (XI. 30.) Korm. határozat 3. pontja iktatta be.
 [^33]: Az 1/B. pontot az 1477/2020. (VIII. 7.) Korm. határozat 2. pontja iktatta be.
-[^34]: Az 1/B. pont b) alpontja az 1134/2021. (III. 23.) Korm. határozat 6. pont 6.2. pontja szerint módosított szöveg.
+[^34]: Az 1/B. pont b) alpontja az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.2. alpontja szerint módosított szöveg.
 [^35]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^36]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja, az 1591/2018. (XI. 22.) Korm. határozat 3. pont a) alpontja és 4. pont 4.2–4.3. alpontja, az 1787/2018. (XII. 21.) Korm. határozat 4. pont a) alpontja, az 1584/2019. (X. 15.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.3. alpontja, az 1129/2020. (III. 25.) Korm. határozat 3. pont 3.1–3.2. alpontja, az 1477/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pont 4.1–4.3. alpontja, az 1882/2020. (XII. 4.) Korm. határozat 5. pontja, a 2063/2020. (XII. 31.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1134/2021. (III. 23.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1647/2021. (IX. 21.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1847/2021. (XI. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
