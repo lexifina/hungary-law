@@ -34,7 +34,7 @@
 
 11b.[^23] horizontális követelmények: a programokban meghatározott horizontális célkitűzésekkel, feltételekkel összhangban a támogatási szerződésben a kedvezményezett részére a horizontális elvek és politikák teljesülése érdekében meghatározott követelmények,
 
-12.[^24] indikátor: uniós jogszabályokban és a programban nevesített, valamint az európai uniós források felhasználásáért felelős miniszter – a Vidékfejlesztési Program esetén az agrár-vidékfejlesztésért felelős miniszter – által vezetett minisztérium által meghatározott, eredményt vagy teljesülést mérő mutató,
+12.[^24] indikátor: uniós jogszabályokban és a programban nevesített, valamint az európai uniós források felhasználásáért felelős miniszter – a Vidékfejlesztési Program esetén az agrárpolitikáért felelős miniszter – által meghatározott, eredményt vagy teljesülést mérő mutató,
 
 13. integritásirányítási rendszer: az államigazgatási szervek integritásirányítási rendszeréről és az érdekérvényesítők fogadásának rendjéről szóló 50/2013. (II. 25.) Korm. rendelet 2. § b) pontjában meghatározott fogalom,
 
@@ -205,7 +205,7 @@ f)[^72] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása 
 [^21]: A 3. § (1) bekezdés 10. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^22]: A 3. § (1) bekezdés 11a. pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (3) bekezdése iktatta be.
 [^23]: A 3. § (1) bekezdés 11b. pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^24]: A 3. § (1) bekezdés 12. pontja a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^24]: A 3. § (1) bekezdés 12. pontja a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 1. pontja, a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^25]: A 3. § (1) bekezdés 14. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 3. pontja szerint módosított szöveg.
 [^26]: A 3. § (1) bekezdés 15. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^27]: A 3. § (1) bekezdés 16. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 5. pontja szerint módosított szöveg.

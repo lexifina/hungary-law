@@ -1,4 +1,4 @@
-91. §[^545] (1) Azon adminisztrációs vagy menedzsment problémákkal küzdő – különösen nemzetgazdasági, illetve abszorpciós szempontból kiemelt jelentőségű – projektek esetén, amelyeknél a megvalósítás jelentős késedelmének, tartós akadályba üközésének vagy meghiúsulásának veszélye felmerül, az irányító hatóság jogosult
+91. §[^559] (1) Azon adminisztrációs vagy menedzsment problémákkal küzdő – különösen nemzetgazdasági, illetve abszorpciós szempontból kiemelt jelentőségű – projektek esetén, amelyeknél a megvalósítás jelentős késedelmének, tartós akadályba üközésének vagy meghiúsulásának veszélye felmerül, az irányító hatóság jogosult
 
 a) a támogatási szerződéstől való elállás megelőzése érdekében – a támogatási szerződés módosítása kezdeményezésével egyidejűleg – projektfelügyelőt kijelölni a következő feladatok ellátására:
 
@@ -22,4 +22,4 @@ b) szankciót alkalmazni, így különösen a projektmenedzsment költséget cs�
 
 (3) Az irányító hatóság a projekt eredményes megvalósítása érdekében az (1) bekezdés szerinti probléma elhárításáig – a benyújtott támogatási kérelemmel összefüggő döntéshozatal vagy új támogatási szerződés, támogatói okirat hatálybalépése felfüggesztésével – korlátozhatja az érintett kedvezményezett további, az irányító hatóság által kezelt támogatási forrásokhoz való hozzáférését.
 
-[^545]: A 91. § a 347/2015. (XI. 20.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^559]: A 91. § a 347/2015. (XI. 20.) Korm. rendelet 27. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 10/A. [^132] A konstrukciófelelős feladatai
+## 10/A. [^142] A konstrukciófelelős feladatai
 
 18/A. § (1) A konstrukciófelelős a programok egyes felhívásai tervezése és végrehajtása során a szakpolitikai szempontok érvényesítése érdekében ellátja a következő feladatokat:
 
@@ -14,4 +14,4 @@ e) az adott felhívásra vonatkozó szakmai tartalom kialakítása során a ter�
 
 (2) A konstrukciófelelősöket a 2/A. mellékletben foglalt táblázat határozza meg.
 
-[^132]: A 10/A. alcímet (18/A. §) a 153/2019. (VI. 26.) Korm. rendelet 4. §-a iktatta be.
+[^142]: A 10/A. alcímet (18/A. §) a 153/2019. (VI. 26.) Korm. rendelet 4. §-a iktatta be.

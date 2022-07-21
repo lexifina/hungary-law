@@ -1,6 +1,6 @@
-## 53/A. §[^311] Pénzügyi eszköz esetén, ezen alcím alkalmazásában felhívás helyett termékleírást, támogatási kérelem helyett kérelmet kell érteni.
+## 53/A. §[^325] Pénzügyi eszköz esetén, ezen alcím alkalmazásában felhívás helyett termékleírást, támogatási kérelem helyett kérelmet kell érteni.
 
-## IX. Fejezet[^312]
+## IX. Fejezet[^326]
 
 ## KIVÁLASZTÁSI ELJÁRÁSOK
 
@@ -14,8 +14,8 @@ c) egyszerűsített,
 
 d) területi, vagy
 
-e)[^313] közösségvezérelt helyi fejlesztés
+e)[^327] közösségvezérelt helyi fejlesztés
 
-[^311]: Az 53/A. §-t a 153/2019. (VI. 26.) Korm. rendelet 7. §-a iktatta be.
-[^312]: A IX. Fejezet (54–55. §) a 144/2015. (VI. 12.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^313]: Az 54. § e) pontja a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^325]: Az 53/A. §-t a 153/2019. (VI. 26.) Korm. rendelet 7. §-a iktatta be.
+[^326]: A IX. Fejezet (54–55. §) a 144/2015. (VI. 12.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^327]: Az 54. § e) pontja a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.

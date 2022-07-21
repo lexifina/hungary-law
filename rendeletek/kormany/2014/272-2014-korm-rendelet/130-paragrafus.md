@@ -1,10 +1,10 @@
-## 129/A. §[^806]
+## 129/A. §[^820]
 
 130. § (1) Utófinanszírozás és szállítói finanszírozás esetén is lehetőség van az engedményezésre.
 
 (2) Az engedményes részére történő folyósítás teljesítésének feltétele, hogy az engedményezésre vonatkozó szerződés vagy engedményezési értesítő az irányító hatóság rendelkezésére álljon. Az engedményezésre vonatkozó szerződés irányító hatóság részére történő benyújtásáért a kedvezményezett felelős.
 
-(2a)[^807] A benyújtott engedményezési szerződésnek vagy engedményezési értesítőnek, a zálogszerződésnek (ide értve az óvadékot alapító szerződést is) vagy a teljesítési utasításnak tartalmaznia kell
+(2a)[^821] A benyújtott engedményezési szerződésnek vagy engedményezési értesítőnek, a zálogszerződésnek (ide értve az óvadékot alapító szerződést is) vagy a teljesítési utasításnak tartalmaznia kell
 
 a) a szerződő felek megnevezését és azonosító adatait,
 
@@ -24,14 +24,14 @@ fb) a támogatási összeg műszaki és pénzügyi teljesítés esetén is csak 
 
 fc) a támogatási szerződésben meghatározott támogatási összeg a támogatási jogviszony fennállása alatt csökkenhet, ez esetben a támogató csak a csökkentett összeget utalja részére,
 
-fd)[^808] előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást – a 129. § (1d) bekezdésében meghatározott kivétellel – a támogató nem utal részére.
+fd)[^822] előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást – a 129. § (1d) bekezdésében meghatározott kivétellel – a támogató nem utal részére.
 
-(2b)[^809] Zálogjogosultként az irányító hatóság kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézeteket és pénzügyi vállalkozásokat fogadja el.
+(2b)[^823] Zálogjogosultként az irányító hatóság kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézeteket és pénzügyi vállalkozásokat fogadja el.
 
-(3)[^810] Az irányító hatóság az engedményezésekkel kapcsolatos adatokat a monitoring és információs rendszerben nyilvántartja.
+(3)[^824] Az irányító hatóság az engedményezésekkel kapcsolatos adatokat a monitoring és információs rendszerben nyilvántartja.
 
-[^806]: A 129/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 76. § (2) bekezdése iktatta be, hatályon kívül helyezte az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés g) pontja.
-[^807]: A 130. § (2a) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
-[^808]: A 130. § (2a) bekezdés f) pont fd) alpontja a 12/2017. (I. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^809]: A 130. § (2b) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
-[^810]: A 130. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^820]: A 129/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 76. § (2) bekezdése iktatta be, hatályon kívül helyezte az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés g) pontja.
+[^821]: A 130. § (2a) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
+[^822]: A 130. § (2a) bekezdés f) pont fd) alpontja a 12/2017. (I. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^823]: A 130. § (2b) bekezdését a 98/2016. (V. 13.) Korm. rendelet 33. §-a iktatta be.
+[^824]: A 130. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 77. §-ával megállapított szöveg.

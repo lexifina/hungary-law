@@ -1,14 +1,14 @@
-13. § (1) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium a 8. § (3) bekezdés 5. pontja szerinti tevékenysége keretében
+13. § (1)[^106] Az európai uniós források felhasználásáért felelős miniszter a 8. § (3) bekezdés 5. pontja szerinti tevékenysége keretében
 
 a) a Vidékfejlesztési Program tekintetében az irányító hatósággal együttműködve ellátja a Vidékfejlesztési Programmal kapcsolatos kommunikációs tevékenységeket,
 
 b) az operatív programok esetében az irányító hatósággal együttműködve gondoskodik az operatív programok megvalósítására vonatkozó egységes kommunikációs stratégia kidolgozásáról, módosításáról, az 1303/2013/EU európai parlamenti és tanácsi rendelet 115–117. cikke szerinti tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítéséről,
 
-c)[^101] ellátja a 223/2014/EU európai parlamenti és tanácsi rendelet 19. cikkében foglaltakat,
+c)[^107] ellátja a 223/2014/EU európai parlamenti és tanácsi rendelet 19. cikkében foglaltakat,
 
-d)[^102] az irányító hatósággal, EMVA esetén a kifizető ügynökséggel együttműködve egységes, minden programot lefedő általános ügyfélszolgálatot alakít ki és működtet.
+d)[^108] az irányító hatósággal, EMVA esetén a kifizető ügynökséggel együttműködve egységes, minden programot lefedő általános ügyfélszolgálatot alakít ki és működtet.
 
-(2) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium az (1) bekezdés b) pontja keretében:
+(2)[^109] Az európai uniós források felhasználásáért felelős miniszter az (1) bekezdés b) pontja keretében:
 
 1. kidolgozza és szükség esetén módosítja a programok megvalósítására vonatkozó egységes kommunikációs stratégiát,
 
@@ -28,7 +28,10 @@ d)[^102] az irányító hatósággal, EMVA esetén a kifizető ügynökséggel e
 
 9. a nemzeti jogszabályokkal és gyakorlattal összhangban, adott esetben bevonja a tájékoztatási és kommunikációs intézkedések végrehajtásába az 1303/2013/EU európai parlamenti és tanácsi rendelet 5. cikkben említett partnereket, az európai tájékoztatási központokat, valamint a Bizottságnak a tagállamban működő képviseleti irodáit és az Európai Parlamentnek a tagállamban működő tájékoztatási irodáit, oktatási és kutatási intézményeket.
 
-(3) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium (2) bekezdés 6. pontjában meghatározott feladata keretében összehangolja a tájékoztatási és kommunikációs tevékenységeket. A tájékoztatási és kommunikációs tisztviselő felelős az alap kommunikátorai nemzeti hálózatának koordinálásáért, és a tagállami szinten hozott kommunikációs intézkedések áttekintéséért.
+(3)[^110] Az európai uniós források felhasználásáért felelős miniszter (2) bekezdés 6. pontjában meghatározott feladata keretében összehangolja a tájékoztatási és kommunikációs tevékenységeket. A tájékoztatási és kommunikációs tisztviselő felelős az alap kommunikátorai nemzeti hálózatának koordinálásáért, és a tagállami szinten hozott kommunikációs intézkedések áttekintéséért.
 
-[^101]: A 13. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 24. pontja szerint módosított szöveg.
-[^102]: A 13. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 25. pontja szerint módosított szöveg.
+[^106]: A 13. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^107]: A 13. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 24. pontja szerint módosított szöveg.
+[^108]: A 13. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 25. pontja szerint módosított szöveg.
+[^109]: A 13. § (2) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^110]: A 13. § (3) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 12. pontja szerint módosított szöveg.

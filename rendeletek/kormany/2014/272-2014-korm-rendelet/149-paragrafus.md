@@ -1,1 +1,0 @@
-## 55. Támogatás kifizetése

@@ -2,7 +2,7 @@
 
 ## 50. Egyszeri elszámolás
 
-139. § (1)[^840] Ha a felhívás lehetőséget teremt egyszeri elszámolásra és a kedvezményezett a támogatási szerződés megkötését követően az egyszeri elszámolást választja, haladéktalanul köteles azt bejelenteni az irányító hatóságnak.
+139. § (1)[^854] Ha a felhívás lehetőséget teremt egyszeri elszámolásra és a kedvezményezett a támogatási szerződés megkötését követően az egyszeri elszámolást választja, haladéktalanul köteles azt bejelenteni az irányító hatóságnak.
 
 (2) Egyszeri elszámolásról többszöri elszámolásra történő áttérés a kedvezményezett által benyújtott változás-bejelentéssel kezdeményezhető, ha a támogatási szerződés egyéb paramétereit nem kívánja az áttéréssel módosítani. A jóváhagyott támogatás folyósításának feltétele a változás-bejelentés támogató általi jóváhagyása,
 
@@ -12,4 +12,4 @@
 
 (5) Az egyszeri elszámolásról többszöri elszámolásra egy alkalommal lehet áttérni.
 
-[^840]: A 139. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 50. § 24. pontja szerint módosított szöveg.
+[^854]: A 139. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 50. § 24. pontja szerint módosított szöveg.

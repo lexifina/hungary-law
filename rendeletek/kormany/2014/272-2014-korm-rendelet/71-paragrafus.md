@@ -1,10 +1,10 @@
-## XIII. Fejezet[^431]
+## XIII. Fejezet[^445]
 
 ## KÖZÖSSÉGVEZÉRELT HELYI FEJLESZTÉS KIVÁLASZTÁSI ELJÁRÁSRENDRE VONATKOZÓ SZABÁLYOK
 
 71. § (1) Az 1303/2013/EU európai parlamenti és tanácsi rendelet 32–35. cikke és az 1305/2013/EU európai parlamenti és tanácsi rendelet 42–44. cikke szerinti fejlesztések az EMVA-ból, az ERFA-ból és az ESZA-ból részesülhetnek támogatásban.
 
-(2)[^432] Közösségvezérelt helyi fejlesztések folyamatának elindítása érdekében az irányító hatóság regisztrációs felhívást tesz közzé a HACS-ok megalakulásának ösztönzésére. A felhívás tartalmazza a regisztráció feltételeit. A regisztrációs feltételeknek megfelelt HACS-okat az irányító hatóság nyilvántartásba veszi. Az 1303/2013/EU európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdése szerint a HACS által kijelölt vezető partner vagy létrehozott közös szervezet, és a HACS munkaszervezete – ha létrehoztak – jogképes, nonprofit szervezet lehet.
+(2)[^446] Közösségvezérelt helyi fejlesztések folyamatának elindítása érdekében az irányító hatóság regisztrációs felhívást tesz közzé a HACS-ok megalakulásának ösztönzésére. A felhívás tartalmazza a regisztráció feltételeit. A regisztrációs feltételeknek megfelelt HACS-okat az irányító hatóság nyilvántartásba veszi. Az 1303/2013/EU európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdése szerint a HACS által kijelölt vezető partner vagy létrehozott közös szervezet, és a HACS munkaszervezete – ha létrehoztak – jogképes, nonprofit szervezet lehet.
 
 (3) Az irányító hatóság a regisztrációs szempontoknak megfelelt HACS-ok számára felhívást tesz közzé közösségvezérelt HFS megalkotására. A felhívás előkészítésére, meghirdetésére, módosítására és felfüggesztésére a 45–53. §-t kell alkalmazni.
 
@@ -38,5 +38,5 @@ f) a közösségvezérelt HFS módosításának feltételeit.
 
 (10) A (8) bekezdés b) pontja szerinti támogatási szerződés alapján folyósított támogatás felhasználható a HACS-nál vagy munkaszervezeténél felmerült előkészítés, kapacitásépítés, képzés, hálózatépítés, az érdekeltek közötti információcsere megkönnyítése és a közösségvezérelt HFS megvalósítása érdekében kidolgozásra kerülő helyi felhívások előkészítésének költségeire, a közösségvezérelt HFS végrehajtásának irányításához kapcsolódó működési költségekre és a közösségvezérelt HFS monitoringköltségeire.
 
-[^431]: A XIII. fejezet (71–72/B. §) a 24/2017. (II. 3.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^432]: A 71. § (2) bekezdése az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^445]: A XIII. fejezet (71–72/B. §) a 24/2017. (II. 3.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^446]: A 71. § (2) bekezdése az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 6. pontja szerint módosított szöveg.

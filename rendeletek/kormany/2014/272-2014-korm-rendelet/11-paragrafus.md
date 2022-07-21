@@ -1,4 +1,4 @@
-## 11. § Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium pénzügyi feladatai keretében
+## 11. §[^102] Az európai uniós források felhasználásáért felelős miniszter pénzügyi feladatai keretében
 
 1. forrást biztosít a programok fejezeti kezelésű előirányzat-felhasználási keretszámláin,
 
@@ -10,6 +10,7 @@
 
 5. összehangolja a pénzügyi eszközök indítását megalapozó ex ante elemzések készítését,
 
-6.[^99] megküldi az igazoló hatóság részére az irányító hatóságok által összeállított és egyezetett, az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 14 naptári nappal.
+6.[^103] megküldi az igazoló hatóság részére az irányító hatóságok által összeállított és egyezetett, az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 14 naptári nappal.
 
-[^99]: A 11. § 6. pontja a 98/2016. (V. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^102]: A 11. § nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^103]: A 11. § 6. pontja a 98/2016. (V. 13.) Korm. rendelet 3. §-ával megállapított szöveg.

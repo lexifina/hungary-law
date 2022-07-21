@@ -1,6 +1,6 @@
-## 57/J. §[^357] Az EMVA-ból finanszírozott intézkedések vonatkozásában a Vidékfejlesztési Programban meghatározott monitoring adatok gyűjtésének módjáról az irányító hatóság a felhívásban vagy közleményben rendelkezik.
+## 57/J. §[^371] Az EMVA-ból finanszírozott intézkedések vonatkozásában a Vidékfejlesztési Programban meghatározott monitoring adatok gyűjtésének módjáról az irányító hatóság a felhívásban vagy közleményben rendelkezik.
 
-57/K. §[^358] (1) Az EMVA-ból finanszírozott projekt építésre irányuló projektelemével kapcsolatban felmerült költségnövekmény esetén – a 87. § (1) bekezdés c) pontjától és (1b)–(1i) bekezdésétől eltérően –
+57/K. §[^372] (1) Az EMVA-ból finanszírozott projekt építésre irányuló projektelemével kapcsolatban felmerült költségnövekmény esetén – a 87. § (1) bekezdés c) pontjától és (1b)–(1i) bekezdésétől eltérően –
 
 a) a kedvezményezett a támogatás növelését egy alkalommal kezdeményezheti,
 
@@ -26,5 +26,5 @@ a) az adott program érintett prioritásának a Kormány által meghatározott i
 
 b) ha a Kormány a 44/C. § (4) bekezdése szerint a prioritásra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig
 
-[^357]: Az 57/J. § a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^358]: Az 57/K. §-t újonnan a 709/2021. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^371]: Az 57/J. § a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^372]: Az 57/K. §-t újonnan a 709/2021. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
