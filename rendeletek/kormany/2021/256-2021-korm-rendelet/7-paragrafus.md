@@ -1,4 +1,4 @@
-7. § (1) A minisztérium koordinációs feladatai keretében
+7. § (1)[^7] A miniszter koordinációs feladatai keretében
 
 a) biztosítja a program- és projektvégrehajtás teljes folyamatának egységességét,
 
@@ -24,4 +24,7 @@ k) meghatározza a fejlesztéspolitikai intézményrendszer vonatkozásában a k
 
 l) az irányító hatósággal együttműködve vizsgálja a programok tervezéséhez és módosításához kapcsolódó stratégiai környezeti vizsgálat szükségességét, szükség esetén az irányító hatósággal együttműködve elvégzi a stratégiai környezeti vizsgálatot, koordinálja az érintett hatóságokkal történő egyeztetést, nyomon követi a stratégiai környezeti vizsgálat javaslatainak megvalósítását.
 
-(2) A minisztérium megteszi a szükséges intézkedéseket a rendszerszintű szabálytalanságok megelőzése és kezelése érdekében, ideértve az ismétlődés kockázatának csökkentésére irányuló intézkedéseket is.
+(2)[^8] A miniszter megteszi a szükséges intézkedéseket a rendszerszintű szabálytalanságok megelőzése és kezelése érdekében, ideértve az ismétlődés kockázatának csökkentésére irányuló intézkedéseket is.
+
+[^7]: A 7. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^8]: A 7. § (2) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 4. pontja szerint módosított szöveg.

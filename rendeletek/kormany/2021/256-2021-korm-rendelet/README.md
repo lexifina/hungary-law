@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-256-20-
 | 2022-03-06 | 2021-256-20-22.10 | 75/2022. (III. 3.) Korm. rendelet |
 | 2022-04-22 | 2021-256-20-22.11 | 156/2022. (IV. 19.) Korm. rendelet |
 | 2022-05-25 | 2021-256-20-22.12 | 183/2022. (V. 24.) Korm. rendelet |
+| 2022-07-21 | 2021-256-20-22.13 | 258/2022. (VII. 20.) Korm. rendelet |

@@ -1,6 +1,6 @@
 36. § (1) A Partnerségi Megállapodás monitoring bizottságba a miniszter felkérésére tagot delegál
 
-a) a minisztérium európai uniós fejlesztéspolitikáért felelős állami vezetője,
+a)[^41] a miniszter tevékenységének segítésére kijelölt minisztérium európai uniós fejlesztéspolitikáért felelős állami vezetője,
 
 b) az irányító hatóság,
 
@@ -15,3 +15,5 @@ a) a 35. § (1) bekezdésében fel nem sorolt miniszter és
 b) a 35. § (2) bekezdés a), f) és g) pontja szerinti szervezet.
 
 (3) A Partnerségi Megállapodás monitoring bizottság (1) bekezdés szerint delegált tagjai egyenlő szavazati joggal rendelkeznek.
+
+[^41]: A 36. § (1) bekezdés a) pontja a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 22. pontja szerint módosított szöveg.

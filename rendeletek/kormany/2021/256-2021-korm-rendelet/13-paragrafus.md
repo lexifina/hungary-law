@@ -1,4 +1,4 @@
-## 13. § A minisztérium az azonosított kockázatok alapján csalás elleni intézkedéseket alkalmaz, amely keretében
+## 13. §[^19] A miniszter az azonosított kockázatok alapján csalás elleni intézkedéseket alkalmaz, amely keretében
 
 a) az irányító hatóságok bevonásával meghatározza a csalás megelőzéséhez, azonosításához, jelentéséhez, valamint a jogosulatlanul kifizetett összegek visszafizettetéséhez, szankcionálásához szükséges feladatokat,
 
@@ -13,3 +13,5 @@ e) koordinálja az integritásirányítási rendszer működtetésével kapcsola
 f) gondoskodik a csalás elleni tudatosság növeléséről,
 
 g) együttműködik a csalások hatékony és eredményes megelőzése, felderítése és szankcionálása érdekében az érintett intézményekkel.
+
+[^19]: A 13. § a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 12. pontja szerint módosított szöveg.

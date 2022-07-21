@@ -10,9 +10,9 @@ d) az adott közfeladatban érintett fejlesztés számára projektszinten rendel
 
 e) a kiemelt projekt tárgyának és támogatást igénylőjének meghatározása során a projektek versenyeztetése mellőzésének indokait.
 
-(2)[^35]
+(2)[^58]
 
-(3)[^36]
+(3)[^59]
 
-[^35]: A 76. § (2) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
-[^36]: A 76. § (3) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
+[^58]: A 76. § (2) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
+[^59]: A 76. § (3) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.

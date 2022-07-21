@@ -16,10 +16,11 @@ f) az irányító hatósággal egyeztetve gondoskodik a korábbi programozási i
 
 g) az éves fejlesztési keret alapját jelentő szakmai koncepciót és a felhívások szakmai koncepcióját megküldi véleményezésre a gazdaságfejlesztési zóna komplex fejlesztéséért felelős kormánybiztos részére.
 
-(1a)[^17] Az (1) bekezdés a), b) és g) pontját technikai segítségnyújtás esetén nem kell alkalmazni.
+(1a)[^35] Az (1) bekezdés a), b) és g) pontját technikai segítségnyújtás esetén nem kell alkalmazni.
 
-(2) Ahol e rendelet bármely dokumentum tekintetében az irányító hatóság megküldési kötelezettségét írja elő, az abban foglalt javaslatot a szakpolitikai felelőssel közös álláspontnak kell tekinteni, ha a szakpolitikai felelőst a 2. melléklet az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban jelölte ki.
+(2)[^36] Ahol e rendelet bármely dokumentum tekintetében az irányító hatóság megküldési kötelezettségét írja elő, az abban foglalt javaslatot a szakpolitikai felelőssel közös álláspontnak kell tekinteni, ha a szakpolitikai felelőst a 2. melléklet az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett vagy tevékenységének segítésére kijelölt minisztériumban jelölte ki.
 
 (3) Ha egy prioritáson belül konstrukciófelelős kerül kijelölésre, a szakpolitikai felelős együttműködik a konstrukciófelelőssel az e rendeletben meghatározott, az adott felhívást érintő feladatok végrehajtása során.
 
-[^17]: A 26. § (1a) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 19. §-a iktatta be.
+[^35]: A 26. § (1a) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 19. §-a iktatta be.
+[^36]: A 26. § (2) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 20. pontja szerint módosított szöveg.
