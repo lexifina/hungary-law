@@ -4,16 +4,16 @@
 
 (3) A (2) bekezdés nem vonatkozik a kizárólag szállítói finanszírozást tartalmazó időközi kifizetési igénylésre, a szállítói és utófinanszírozást vegyesen tartalmazó kifizetési igénylésre, és az első időszakos beszámolóval együtt benyújtott kifizetési igénylésre.
 
-(4)[^309] A szállítói finanszírozásra csak azt követően kerülhet sor, ha a kedvezményezettet vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevőt terhelő számlák támogatási összegének megtérítése mellett a számla támogatáson felüli összegének kifizetése igazolható módon megtörtént, kivéve az 56/A. § szerinti esetben, vagy ha a kedvezményezett részére a támogató jogszabály alapján önerő támogatást is nyújt.
+(4)[^310] A szállítói finanszírozásra csak azt követően kerülhet sor, ha a kedvezményezettet vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevőt terhelő számlák támogatási összegének megtérítése mellett a számla támogatáson felüli összegének kifizetése igazolható módon megtörtént, kivéve az 56/A. § szerinti esetben, vagy ha a kedvezményezett részére a támogató jogszabály alapján önerő támogatást is nyújt.
 
-(5)[^310] Az engedményes részére történő folyósítás teljesítésének feltétele, hogy az engedményezésre vonatkozó szerződés vagy engedményezési értesítő a közreműködő szervezet rendelkezésére álljon. Az engedményezésre vonatkozó szerződés közreműködő szervezet részére történő benyújtásáért a kedvezményezett felelős.
+(5)[^311] Az engedményes részére történő folyósítás teljesítésének feltétele, hogy az engedményezésre vonatkozó szerződés vagy engedményezési értesítő a közreműködő szervezet rendelkezésére álljon. Az engedményezésre vonatkozó szerződés közreműködő szervezet részére történő benyújtásáért a kedvezményezett felelős.
 
 (6) A szállítói finanszírozású és vegyes kifizetési igénylésekre vonatkozóan a kifizetési igénylés benyújtásának ütemezésével és a benyújtás feltételeivel kapcsolatos előírásokat, valamint az engedményezés bejelentésének szabályait a felhívás vagy a támogatási szerződés tartalmazza.
 
 (7) A lebonyolításban érintett szervezet az engedményezésekről naprakész nyilvántartást vezet.
 
-(8)[^311] Az irányító hatóság a (2) bekezdés szerinti százalékos és összegszerű korláttól a kedvezményezett javára eltérhet.
+(8)[^312] Az irányító hatóság a (2) bekezdés szerinti százalékos és összegszerű korláttól a kedvezményezett javára eltérhet.
 
-[^309]: Az 56. § (4) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 27. §-ával megállapított, a 69/2015. (III. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^310]: Az 56. § (5) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^311]: Az 56. § (8) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 18. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 43. § 100. pontja szerint módosított szöveg.
+[^310]: Az 56. § (4) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 27. §-ával megállapított, a 69/2015. (III. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^311]: Az 56. § (5) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^312]: Az 56. § (8) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 18. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 43. § 100. pontja szerint módosított szöveg.

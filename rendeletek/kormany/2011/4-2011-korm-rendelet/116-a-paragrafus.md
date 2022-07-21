@@ -1,11 +1,11 @@
-116/A. §[^542] (1) Ha a technikai segítségnyújtás projektjének összköltsége a kedvezményezett által nem befolyásolható körülmény vagy a projekt tartalmának bővülése miatt megemelkedik, a kedvezményezett kérheti a támogatási szerződés módosítását, részletesen bemutatva és számszerűsítve a költségnövekmény egyes okait.
+116/A. §[^543] (1) Ha a technikai segítségnyújtás projektjének összköltsége a kedvezményezett által nem befolyásolható körülmény vagy a projekt tartalmának bővülése miatt megemelkedik, a kedvezményezett kérheti a támogatási szerződés módosítását, részletesen bemutatva és számszerűsítve a költségnövekmény egyes okait.
 
 (2) A kedvezményezett által biztosított saját forrás aránya a projekt támogatásának növelése esetén sem csökkenhet.
 
-(3)[^543] A központi koordinációs szerv az (1) bekezdés szerinti kérelem beérkezését követően ellenőrzést rendel el.
+(3)[^544] A központi koordinációs szerv az (1) bekezdés szerinti kérelem beérkezését követően ellenőrzést rendel el.
 
-(4)[^544] A központi koordinációs szerv az (1) bekezdés szerinti kérelmet elutasítja, ha a projekt költségnövekményének finanszírozása az operatív program vonatkozó prioritása keretén belül nem biztosított.
+(4)[^545] A központi koordinációs szerv az (1) bekezdés szerinti kérelmet elutasítja, ha a projekt költségnövekményének finanszírozása az operatív program vonatkozó prioritása keretén belül nem biztosított.
 
-[^542]: A 116/A. §-t a 176/2012. (VII. 26.) Korm. rendelet 26. §-a iktatta be.
-[^543]: A 116/A. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 219. pontja szerint módosított szöveg.
-[^544]: A 116/A. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 220. pontja szerint módosított szöveg.
+[^543]: A 116/A. §-t a 176/2012. (VII. 26.) Korm. rendelet 26. §-a iktatta be.
+[^544]: A 116/A. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 219. pontja szerint módosított szöveg.
+[^545]: A 116/A. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 220. pontja szerint módosított szöveg.

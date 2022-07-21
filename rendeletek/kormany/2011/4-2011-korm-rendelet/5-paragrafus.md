@@ -18,9 +18,9 @@ f) gondoskodik az állami támogatások – a mezőgazdasági, a halászati, az 
 
 g) biztosítja a 3. melléklet 53. sorának A oszlopában meghatározott operatív program tekintetében az 5/A. § szerinti irányító hatósági feladatok ellátását,
 
-h) központi koordinációs szervezeti egysége (a továbbiakban: központi koordinációs szerv) útján központi koordinációs funkciót lát el az operatív programok összehangolt végrehajtása, valamint a fejlesztéspolitikai jogszabályok egységes alkalmazásának biztosítása érdekében, melynek keretében
+h)[^48] a központi koordinációs szerv útján központi koordinációs funkciót lát el az operatív programok összehangolt végrehajtása, valamint a fejlesztéspolitikai jogszabályok egységes alkalmazásának biztosítása érdekében, melynek keretében
 
-ha)[^48] az irányító hatósággal együttműködve kialakítja a támogatások igénylésével és felhasználásával kapcsolatos eljárásrendet, biztosítja a program- és projekt végrehajtási eljárás teljes folyamatának egységességét, meghatározza az irányító hatósági feladatok delegálására vonatkozó eljárásjogi kereteket, előkészíti az egységes működési kézikönyvet a lebonyolításban érintett szervek számára,
+ha)[^49] az irányító hatósággal együttműködve kialakítja a támogatások igénylésével és felhasználásával kapcsolatos eljárásrendet, biztosítja a program- és projekt végrehajtási eljárás teljes folyamatának egységességét, meghatározza az irányító hatósági feladatok delegálására vonatkozó eljárásjogi kereteket, előkészíti az egységes működési kézikönyvet a lebonyolításban érintett szervek számára,
 
 hb) biztosítja – figyelemmel az operatív programok különös jellemzőire a programozási és végrehajtási dokumentumok egységességét, amely feladat keretében az irányító hatósággal együttműködve – egyedi eltérés lehetőségét is biztosítva – meghatározza az akciótervek, a pályázati felhívások, a támogatási szerződések, támogatói okiratok egységes mintáit, valamint a program- és projekt végrehajtási eljárás során használandó dokumentumok egységes tartalmi és formai követelményeit
 
@@ -32,13 +32,13 @@ he) összehangolja a közreműködő szervezetre átruházott feladat végrehajt
 
 hf) egységes szempontrendszert határoz meg az irányító hatóságok részére az irányítási és kontrollrendszerre vonatkozó leírások elkészítéséhez és aktualizálásához, az elkészült dokumentumokat a megadott szempontrendszer alapján ellenőrzi,
 
-hg)[^49] figyelemmel kíséri az operatív programok keretében kiírt pályázati felhívás előkészítésének folyamatát, az egységes formai és tartalmi követelmények, valamint az operatív programok támogatási konstrukciói közötti összhang biztosítása céljából megvizsgálja és e szempontok tekintetében jóváhagyja a pályázati felhívásokat, valamint azokkal kapcsolatos változtatásokat,
+hg)[^50] figyelemmel kíséri az operatív programok keretében kiírt pályázati felhívás előkészítésének folyamatát, az egységes formai és tartalmi követelmények, valamint az operatív programok támogatási konstrukciói közötti összhang biztosítása céljából megvizsgálja és e szempontok tekintetében jóváhagyja a pályázati felhívásokat, valamint azokkal kapcsolatos változtatásokat,
 
-hh)[^50] nyomon követi, értékeli a komplex programokat, – a Kormány eltérő döntése hiányában – koordinálja azok megvalósítását,
+hh)[^51] nyomon követi, értékeli a komplex programokat, – a Kormány eltérő döntése hiányában – koordinálja azok megvalósítását,
 
-hi)[^51] az irányító hatósággal együttműködve nyomon követi az operatív programok szakmai előrehaladását, különös tekintettel az indikátorok teljesülésére, módszertani támogatást nyújt az indikátorok előállításához szükséges adatok beszerzéséhez, előállításához, vizsgálja az indikátorok előrehaladását, és erről rendszeres jelentést készít a Kormány részére a forrásvesztés elkerülése érdekében,
+hi)[^52] az irányító hatósággal együttműködve nyomon követi az operatív programok szakmai előrehaladását, különös tekintettel az indikátorok teljesülésére, módszertani támogatást nyújt az indikátorok előállításához szükséges adatok beszerzéséhez, előállításához, vizsgálja az indikátorok előrehaladását, és erről rendszeres jelentést készít a Kormány részére a forrásvesztés elkerülése érdekében,
 
-hj)[^52] az irányító hatósággal együttműködve nyomon követi az operatív programok pénzügyi előrehaladását, negyedévente jelentést készít a Kormány részére az európai uniós fejlesztési források felhasználásának alakulásáról, a határidőre nem teljesítő projektek köréről és végrehajtásuk támogatása érdekében megtett intézkedésekről,
+hj)[^53] az irányító hatósággal együttműködve nyomon követi az operatív programok pénzügyi előrehaladását, negyedévente jelentést készít a Kormány részére az európai uniós fejlesztési források felhasználásának alakulásáról, a határidőre nem teljesítő projektek köréről és végrehajtásuk támogatása érdekében megtett intézkedésekről,
 
 hk) az irányító hatósággal együttműködve előkészti az értékelési tervet, koordinálja a programértékelések lefolytatását, végrehajtja az értékelési tervet,
 
@@ -48,11 +48,11 @@ hm) ellátja az egyes operatív programok végrehajtására vonatkozó ellenőrz
 
 hn) elbírálja az irányító hatóság döntése ellen benyújtott kifogásokat, valamint a szabálytalansági eljárásban az irányító hatóság vagy a közreműködő szervezet által hozott döntések ellen benyújtott jogorvoslati kérelmeket, melynek keretében biztosítja a fejlesztési források szabályszerű felhasználására kialakított szabálytalanság és kifogás-kezelési eljárások során hozott döntések egységességét,
 
-ho)[^53]
+ho)[^54]
 
 hp) a technikai segítségnyújtás projektjei esetében – az irányító hatóság érintettsége esetén azzal együttműködve – dönt a projektjavaslatok támogatásáról vagy elutasításáról, megköti a kedvezményezettel a támogatási szerződést, kibocsátja a támogatási okiratot, gondoskodik a támogatások kifizetéséről és szabályszerű felhasználásáról,
 
-hq)[^54] az irányító hatósággal egyetértésben javaslatot tesz a Kormány részére a közreműködő szervezet, a forráskezelő szervezet és az alapkezelő szervezet kijelölésére,
+hq)[^55] az irányító hatósággal egyetértésben javaslatot tesz a Kormány részére a közreműködő szervezet, a forráskezelő szervezet és az alapkezelő szervezet kijelölésére,
 
 hr) működteti és fejleszti az operatív programok végrehajtását támogató monitoring és információs rendszert,
 
@@ -71,10 +71,11 @@ hv) ellátja az operatív programok zárásának koordinációs feladatait.
 [^45]: Az 5. § c) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 4. pontja szerint módosított szöveg.
 [^46]: Az 5. § d) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 5. pontja szerint módosított szöveg.
 [^47]: Az 5. § e) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 6. pontja szerint módosított szöveg.
-[^48]: Az 5. § h) pont ha) alpontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
-[^49]: Az 5. § h) pont hg) alpontja a 4/2016. (I. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^50]: Az 5. § h) pont hh) alpontját a 4/2016. (I. 20.) Korm. rendelet 2. §-a iktatta be.
-[^51]: Az 5. § h) pont hi) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 7. pontja szerint módosított szöveg.
-[^52]: Az 5. § h) pont hj) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 8. pontja szerint módosított szöveg.
-[^53]: Az 5. § h) pont ho) alpontját a 106/2018. (VI. 15.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^54]: Az 5. § h) pont hq) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^48]: Az 5. § h) pont nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 1. § 3. pontja szerint módosított szöveg.
+[^49]: Az 5. § h) pont ha) alpontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
+[^50]: Az 5. § h) pont hg) alpontja a 4/2016. (I. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^51]: Az 5. § h) pont hh) alpontját a 4/2016. (I. 20.) Korm. rendelet 2. §-a iktatta be.
+[^52]: Az 5. § h) pont hi) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 7. pontja szerint módosított szöveg.
+[^53]: Az 5. § h) pont hj) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 8. pontja szerint módosított szöveg.
+[^54]: Az 5. § h) pont ho) alpontját a 106/2018. (VI. 15.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^55]: Az 5. § h) pont hq) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.

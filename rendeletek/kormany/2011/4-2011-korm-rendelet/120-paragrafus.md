@@ -1,4 +1,4 @@
-120. §[^554] (1) Az elektronikus alkalmazás útján megküldött dokumentumot az átvétel visszaigazolásával kell kézbesítettnek tekinteni.
+120. §[^555] (1) Az elektronikus alkalmazás útján megküldött dokumentumot az átvétel visszaigazolásával kell kézbesítettnek tekinteni.
 
 (2) Ha a dokumentum elektronikus alkalmazáson keresztül történő átvételének visszaigazolása a küldés napját követő hét napon belül nem történik meg, a dokumentumot – az ellenkező bizonyításig – kézbesítettnek kell tekinteni.
 
@@ -10,7 +10,7 @@
 
 (6) Az elektronikus alkalmazás útján megküldött tájékoztatást nyomtatott formában nem kell dokumentálni.
 
-(7)[^555] Ha a cégbíróság a kedvezményezettel szemben az ismeretlen székhelyű cég megszüntetésére irányuló eljárást megindítja, a támogatási szerződéstől történő elálló nyilatkozatot azon a napon kell kézbesítettnek tekinteni, amikor azt a cégbíróság átvette.
+(7)[^556] Ha a cégbíróság a kedvezményezettel szemben az ismeretlen székhelyű cég megszüntetésére irányuló eljárást megindítja, a támogatási szerződéstől történő elálló nyilatkozatot azon a napon kell kézbesítettnek tekinteni, amikor azt a cégbíróság átvette.
 
-[^554]: A 120. § a 25/2012. (II. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^555]: A 120. § (7) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 50. §-a iktatta be.
+[^555]: A 120. § a 25/2012. (II. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^556]: A 120. § (7) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 50. §-a iktatta be.

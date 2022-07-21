@@ -64,7 +64,7 @@
 
 20b.[^25] pénzügyi közvetítő: olyan szervezet, amely a holdingalapon keresztül megvalósuló pénzügyi program esetében a közvetítői szerződés alapján a kedvezményezett javára támogatott pénzügyi konstrukció igénybevételét teszi lehetővé,
 
-21.[^26] programszámla: a központi költségvetésről szóló törvény uniós fejlesztések költségvetési fejezetének irányító szerve (a továbbiakban: fejezetet irányító szerv), mint számlajogosult javára az egyes operatív programokon belül programonként a kincstárnál megnyitott és vezetett, a programok finanszírozására szolgáló elkülönített fizetési számla, amely felett a forráskezelő szervezetnek rendelkezési joga van,
+21.[^26] programszámla: a központi költségvetésről szóló törvény uniós fejlesztések költségvetési fejezetének irányító szerve (a továbbiakban: fejezetet irányító szerv), mint számlajogosult javára az egyes operatív programokon belül programonként a Magyar Államkincstárnál (a továbbiakban: kincstár) megnyitott és vezetett, a programok finanszírozására szolgáló elkülönített fizetési számla, amely felett a forráskezelő szervezetnek rendelkezési joga van,
 
 22. projekt: az 1083/2006/EK tanácsi rendelet 2. cikk 3. pontjában meghatározott művelet,
 
@@ -112,7 +112,7 @@ d) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra é
 
 rendelkezései szerint kell értelmezni.
 
-(3)[^37] Ha valamely támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumban az irányító hatóság vezetője által kijelölt szervezeti egységet kell érteni.
+(3)[^37] Ha valamely támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett vagy tevékenységének segítésére kijelölt minisztériumban az irányító hatóság vezetője által kijelölt szervezeti egységet kell érteni.
 
 [^3]: A 2. § (1) bekezdés 1. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés 1a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 2. pontja szerint módosított szöveg.
@@ -137,7 +137,7 @@ rendelkezései szerint kell értelmezni.
 [^23]: A 2. § (1) bekezdés 20. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
 [^24]: A 2. § (1) bekezdés 20a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
 [^25]: A 2. § (1) bekezdés 20b. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
-[^26]: A 2. § (1) bekezdés 21. pontja az 548/2013. (XII. 30.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^26]: A 2. § (1) bekezdés 21. pontja az 548/2013. (XII. 30.) Korm. rendelet 2. § (6) bekezdésével megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 1. pontja szerint módosított szöveg.
 [^27]: A 2. § (1) bekezdés 24. pontja a 304/2011. (XII. 23.) Korm. rendelet 43. §-a szerint módosított szöveg.
 [^28]: A 2. § (1) bekezdés 25. pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 4. pontja szerint módosított szöveg.
 [^29]: A 2. § (1) bekezdés 25a. pontját a 176/2012. (VII. 26.) Korm. rendelet 1. §-a iktatta be.
@@ -148,4 +148,4 @@ rendelkezései szerint kell értelmezni.
 [^34]: A 2. § (1) bekezdés 29. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 2. pontja szerint módosított szöveg.
 [^35]: A 2. § (1) bekezdés 30. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^36]: A 2. § (1) bekezdés 32a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (13) bekezdése iktatta be.
-[^37]: A 2. § (3) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^37]: A 2. § (3) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 2. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 2. pontja szerint módosított szöveg.

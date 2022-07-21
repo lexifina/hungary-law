@@ -1,4 +1,4 @@
-## 4/A. [^55] Az irányító hatóság vezetőjének feladatai
+## 4/A. [^56] Az irányító hatóság vezetőjének feladatai
 
 5/A. § (1) Az irányító hatóság
 
@@ -24,13 +24,13 @@ j) közreműködik a támogatások igénylésével és felhasználásával kapcs
 
 k) az ágazati fejlesztésért felelős miniszter véleményének kikérésével dönt a projektjavaslatok támogatásáról vagy elutasításáról, megköti a kedvezményezettel a támogatási szerződést, kibocsátja a támogatási okiratot, gondoskodik a támogatások kifizetéséről és szabályszerű felhasználásáról, amely feladatok ellátásához közreműködő szervezetet vehet igénybe,
 
-l)[^56] javaslatot tesz – a központi koordinációs szervvel egyetértésben – a közreműködő, alapkezelő és forráskezelő szervezet kijelölésére a Kormány részére,
+l)[^57] javaslatot tesz – a központi koordinációs szervvel egyetértésben – a közreműködő, alapkezelő és forráskezelő szervezet kijelölésére a Kormány részére,
 
 m) közreműködik az irányító hatósági feladatatok delegálására a közreműködő szervezetekkel kötendő szerződések egységes tartalmának meghatározásában, javaslatot tesz a szerződések szükséges korrekciójára a központi koordinációs szerv részére,
 
 n) jóváhagyja a közreműködő szervezetek éves munkatervét, valamint az éves munkaterv megvalósítására vonatkozó beszámolót, a közreműködő szervezetekkel kötött szerződésekben foglalt feladatok teljesítését,
 
-o)[^57] közkiadás alapú elszámolás alkalmazása esetén betartja az operatív programok prioritásonként előírt uniós és nemzeti társfinanszírozás keretét és arányát az elszámolás alapjaként megjelölt elismerhető közkiadáson belül úgy, hogy a nemzeti társfinanszírozási rész kizárólag a Kormány egyetértésével haladhatja meg az elismerhető közkiadás 15%-át,
+o)[^58] közkiadás alapú elszámolás alkalmazása esetén betartja az operatív programok prioritásonként előírt uniós és nemzeti társfinanszírozás keretét és arányát az elszámolás alapjaként megjelölt elismerhető közkiadáson belül úgy, hogy a nemzeti társfinanszírozási rész kizárólag a Kormány egyetértésével haladhatja meg az elismerhető közkiadás 15%-át,
 
 p) nyomon követi az operatív programok pénzügyi és szakmai előrehaladását, különös tekintettel az indikátorok teljesítésére, aminek eredményeit megküldi a központi koordinációs szerv részére,
 
@@ -46,9 +46,9 @@ u) közreműködik az európai uniós források felhasználásához kötődő pa
 
 v) felelős az operatív program éves és záró jelentésének elkészítéséért.
 
-(2)[^58] Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter és az európai uniós források felhasználásáért felelős miniszter az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározza a 6. § szerinti ágazati feladatainak ellátása tekintetében feladatkörrel rendelkező szervezeti egységeknek az irányító hatósággal való kapcsolattartásának rendjét.
+(2)[^59] Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter és az európai uniós források felhasználásáért felelős miniszter az általa vezetett vagy tevékenységének segítésére kijelölt minisztérium szervezeti és működési szabályzatában meghatározza a 6. § szerinti ágazati feladatainak ellátása tekintetében feladatkörrel rendelkező szervezeti egységeknek az irányító hatósággal való kapcsolattartásának rendjét.
 
-[^55]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^56]: Az 5/A. § (1) bekezdés l) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 10. pontja szerint módosított szöveg.
-[^57]: Az 5/A. § (1) bekezdés o) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
-[^58]: Az 5/A. § (2) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^56]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^57]: Az 5/A. § (1) bekezdés l) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 10. pontja szerint módosított szöveg.
+[^58]: Az 5/A. § (1) bekezdés o) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
+[^59]: Az 5/A. § (2) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 5. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 4. pontja szerint módosított szöveg.

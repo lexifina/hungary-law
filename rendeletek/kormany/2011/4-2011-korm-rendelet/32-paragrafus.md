@@ -1,9 +1,9 @@
-32. § (1)[^183] A pénzügyi közvetítő útján juttatott támogatások feltételeit, a pénzügyi konstrukció nyújtásának és felhasználásának részletes szabályait a forráskezelő szervezet által kezelt programmal összefüggésben a közvetítő és a forráskezelő szervezet között létrejött – a pénzügyi konstrukció nyújtásának és felhasználásának részletes szabályait tartalmazó – szerződésben (a továbbiakban: közvetítői szerződésben) kell rögzíteni.
+32. § (1)[^184] A pénzügyi közvetítő útján juttatott támogatások feltételeit, a pénzügyi konstrukció nyújtásának és felhasználásának részletes szabályait a forráskezelő szervezet által kezelt programmal összefüggésben a közvetítő és a forráskezelő szervezet között létrejött – a pénzügyi konstrukció nyújtásának és felhasználásának részletes szabályait tartalmazó – szerződésben (a továbbiakban: közvetítői szerződésben) kell rögzíteni.
 
-(2)[^184] A forráskezelő szervezet a pénzügyi közvetítői szerződéseket a közvetítővel az irányító hatóság nevében köti meg.
+(2)[^185] A forráskezelő szervezet a pénzügyi közvetítői szerződéseket a közvetítővel az irányító hatóság nevében köti meg.
 
-(3)[^185] A pénzügyi közvetítő hitel-, kölcsön-, pénzügyi lízingnyújtásra, kezességvállalásra vagy kockázati tőkebefektetésre irányuló szerződéseket köt a programok feltételei szerint. A pénzügyi közvetítő köteles biztosítani és ellenőrizni, hogy a vele szerződő megfelel a program feltételeinek.
+(3)[^186] A pénzügyi közvetítő hitel-, kölcsön-, pénzügyi lízingnyújtásra, kezességvállalásra vagy kockázati tőkebefektetésre irányuló szerződéseket köt a programok feltételei szerint. A pénzügyi közvetítő köteles biztosítani és ellenőrizni, hogy a vele szerződő megfelel a program feltételeinek.
 
-[^183]: A 32. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 23. és 24. pontja szerint módosított szöveg.
-[^184]: A 32. § (2) bekezdése a 86/2011. (V. 31.) Korm. rendelet 14. § d) pontja, a 25/2012. (II. 29.) Korm. rendelet 61. § 25. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 46. pontja szerint módosított szöveg.
-[^185]: A 32. § (3) bekezdése a 25/2012. (II. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^184]: A 32. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 23. és 24. pontja szerint módosított szöveg.
+[^185]: A 32. § (2) bekezdése a 86/2011. (V. 31.) Korm. rendelet 14. § d) pontja, a 25/2012. (II. 29.) Korm. rendelet 61. § 25. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 46. pontja szerint módosított szöveg.
+[^186]: A 32. § (3) bekezdése a 25/2012. (II. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
