@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-252-20-
 | 2022-07-14 | 2022-252-20-22.1 | 252/2022. (VII. 13.) Korm. rendelet |
 | 2022-07-15 | 2022-252-20-22.2 | 2010: CXXX. törvény |
 | 2022-07-21 | 2022-252-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-07-22 | 2022-252-20-22.4 | 2010: CXXX. törvény |
