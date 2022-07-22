@@ -1,61 +1,17 @@
-1. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 2. mellékletében foglalt táblázat
+1.[^2]
 
-a) C:5 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
+2.[^3]
 
-b) C:8 mezőjében az „Innovációs és Technológiai Minisztérium” szövegrész helyébe a „Miniszterelnöki Kabinetiroda” szöveg,
+3.[^4]
 
-c) C:13 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
+4.[^5]
 
-d) C:14 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-e) C:15 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-f) C:17 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-g) C:18 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-h) C:18a mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-i) C:18d mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-j) C:21a mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Kulturális és Innovációs” szöveg,
-
-k) C:25 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Kulturális és Innovációs” szöveg,
-
-l) C:30 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg
-
-lép.
-
-2. A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretének megállapításáról szóló 1011/2016. (I. 20.) Korm. határozat 2. mellékletében foglalt táblázat
-
-a) C:13 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-b) C:14 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg
-
-lép.
-
-3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat G:55 mezőjében a „Nemzetgazdasági” szövegrész helyébe a „Kulturális és Innovációs” szöveg lép.
-
-4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-a) C:5 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-b) C:6 mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg,
-
-c) C:326 mezőjében az „Innovációs és Technológiai” szövegrészek helyébe a „Technológiai és Ipari” szöveg,
-
-d) C:326b mezőjében az „Innovációs és Technológiai” szövegrészek helyébe a „Technológiai és Ipari” szöveg,
-
-e) C:326d mezőjében az „Innovációs és Technológiai” szövegrészek helyébe a „Technológiai és Ipari” szöveg,
-
-f) C:351i mezőjében az „Innovációs és Technológiai” szövegrészek helyébe a „Technológiai és Ipari” szöveg,
-
-g) C:362d mezőjében az „Agrárminisztérium” szövegrész helyébe a „Technológiai és Ipari Minisztérium” szöveg,
-
-h) C:652a mezőjében az „Innovációs és Technológiai” szövegrész helyébe a „Technológiai és Ipari” szöveg
-
-lép.
-
-5. A Rászoruló Személyeket Támogató Operatív Program éves fejlesztési keretének megállapításáról szóló 1347/2016. (VII. 6.) Korm. határozat 2. mellékletében foglalt táblázat C:7 mezőjében az „Emberi Erőforrások Minisztériuma” szövegrész helyébe a „Miniszterelnökség” szöveg lép.
+5.[^6]
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
