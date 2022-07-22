@@ -2,7 +2,7 @@
 
 ## 18. Stratégiai és Családügyi Kabinet
 
-187. § A Stratégiai és Családügyi Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+187. §[^7] (1) A Stratégiai és Családügyi Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az aktív Magyarországért,
 
@@ -18,106 +18,94 @@
 
 7. az egészségügyért,
 
-8. az európai uniós források felhasználásáért,
+8. a Magyar Falu Program, valamint a Modern Városok Program működtetéséért,
 
 9. az európai uniós ügyek koordinációjáért,
 
-10. az építésügyi szabályozásért és építéshatósági ügyekért,
+10. a felsőoktatásért,
 
-11. a felsőoktatásért,
+11. az egyes kereskedelmi építmények vonatkozásában a fenntarthatósági szempontok érvényesítéséért,
 
-12. egyes kereskedelmi építmények vonatkozásában a fenntarthatósági szempontok érvényesítéséért,
+12. a fogyasztóvédelemért,
 
-13. a fogyasztóvédelemért,
+13. a gyermek- és ifjúságpolitikáért,
 
-14. a gyermek- és ifjúságpolitikáért,
+14. a gyermekek és az ifjúság védelméért,
 
-15. a gyermekek és az ifjúság védelméért,
+15. a helyi önkormányzatok törvényességi felügyeletéért,
 
-16. a helyi önkormányzatok törvényességi felügyeletéért,
+16. a helyi önkormányzatokért,
 
-17. a helyi önkormányzatokért,
+17. az igazságügyért,
 
-18. az igazságügyért,
+18. az ingatlan-nyilvántartásért,
 
-19. az ingatlan-nyilvántartásért,
+19. a kárpótlásért,
 
-20. a kárpótlásért,
+20. a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért,
 
-21. a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért,
+21. a kormányzati kommunikációért,
 
-22. a kormányzati kommunikációért,
+22. a kormányzati társadalmi kapcsolatok összehangolásáért,
 
-23. a kormányzati társadalmi kapcsolatok összehangolásáért,
+23. a közbeszerzésekért,
 
-24. a közbeszerzésekért,
+24. a közigazgatás-fejlesztésért,
 
-25. a közigazgatás-fejlesztésért,
+25. a közigazgatás-szervezésért,
 
-26. a közigazgatás-szervezésért,
+26. a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért,
 
-27. a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért,
+27. a közigazgatási minőségpolitikáért és személyzetpolitikáért,
 
-28. a közigazgatási minőségpolitikáért és személyzetpolitikáért,
+28. a köziratok kezelésének szakmai irányításáért,
 
-29. a köziratok kezelésének szakmai irányításáért,
+29. a köznevelésért,
 
-30. a köznevelésért,
+30. a közszolgálati életpálya kidolgozásáért,
 
-31. a közszolgálati életpálya kidolgozásáért,
+31. a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért,
 
-32. a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért,
+32. a kultúráért,
 
-33. a kulturális örökség védelméért,
+33. a külpolitikáért,
 
-34. a kultúráért,
+34. a mozgóképszakmáért,
 
-35. a külpolitikáért,
+35. az országmárkáért,
 
-36. a mozgóképszakmáért,
+36. a rozsdaövezeti akcióterületekkel kapcsolatos ügyekért,
 
-37. az országmárkáért,
+37. a sportpolitikáért,
 
-38. a rozsdaövezeti akcióterületekkel kapcsolatos ügyekért,
+38. a személyiadat- és lakcímnyilvántartásért,
 
-39. a sportpolitikáért,
+39. a szociálpolitikáért,
 
-40. a személyiadat- és lakcímnyilvántartásért,
+40. a társadalmi és civil kapcsolatok fejlesztéséért,
 
-41. a szociálpolitikáért,
+41. a társadalmi felzárkózásért,
 
-42. a társadalmi és civil kapcsolatok fejlesztéséért,
+42. a társadalmi párbeszédért,
 
-43. a társadalmi felzárkózásért,
+43. a társadalompolitika összehangolásáért,
 
-44. a társadalmi párbeszédért,
+44. a természetvédelemért,
 
-45. a társadalompolitika összehangolásáért,
+45. a térképészetért,
 
-46. a településfejlesztésért és településrendezésért,
+46. a választójogi és népszavazási szabályozásért,
 
-47. a településkép védelméért,
+47. a vízgazdálkodásért,
 
-48. a természetvédelemért,
+48. a víziközmű-szolgáltatásért,
 
-49. a területfejlesztésért,
+49. a vízügyi igazgatási szervek irányításáért,
 
-50. a területfejlesztés stratégiai tervezéséért,
-
-51. a területrendezésért,
-
-52. a térképészetért,
-
-53. a választójogi és népszavazási szabályozásért,
-
-54. a versenyképesség gazdasági és jogi feltételrendszeréért,
-
-55. a vízgazdálkodásért,
-
-56. a víziközmű-szolgáltatásért,
-
-57. a vízügyi igazgatási szervek irányításáért,
-
-58. a vízvédelemért
+50. a vízvédelemért
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
+
+(2) A Stratégiai és Családügyi Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amelyet a Növekedési és Versenyképességi Kabinet megtárgyalt, és napirendre felvételét a Stratégiai és Családügyi Kabinet elnöke kéri.
+
+[^7]: A 187. § a 261/2022. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.

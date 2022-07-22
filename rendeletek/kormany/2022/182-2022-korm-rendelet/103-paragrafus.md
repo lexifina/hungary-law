@@ -4,7 +4,7 @@
 
 1. nemzeti pénzügyi szolgáltatásokért,
 
-2.[^2] pénz-, tőke- és biztosítási piac szabályozásáért,
+2.[^4] pénz-, tőke- és biztosítási piac szabályozásáért,
 
 3. – a 148. § (1) bekezdés 5. pontja szerinti kivétellel – a nemzetközi pénzügyi kapcsolatokért,
 
@@ -24,4 +24,7 @@ felelős tagja.
 
 (2) A miniszter tevékenységét a Kit. 20. § (2) bekezdés b) pontja alapján a Miniszterelnöki Kabinetiroda, a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
 
-[^2]: A 103. § (1) bekezdés 2. pontja a 238/2022. (VI. 30.) Korm. rendelet 221. § (2) bekezdésével megállapított szöveg.
+(3)[^5] A miniszter vezeti a Növekedési és Versenyképességi Kabinet üléseit.
+
+[^4]: A 103. § (1) bekezdés 2. pontja a 238/2022. (VI. 30.) Korm. rendelet 221. § (2) bekezdésével megállapított szöveg.
+[^5]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
