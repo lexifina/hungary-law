@@ -1,0 +1,5 @@
+## 8. § Az e rendelet szerinti kedvezményes mennyiségek 2022. augusztus 1-jétől vehetőek igénybe.
+
+9. § (1) A lakossági fogyasztó az e rendelet szerinti kedvezményes mennyiségeket időarányosan jogosult igénybe venni. Ennek érdekében az egyetemes szolgáltató naparányos elszámolást alkalmaz, amelynek alapján a felhasználó számára kiállított számlában a kedvezményes mennyiség 1/365-öd részének és a számlázási időszak napjainak szorzatát érvényesíti, és az e feletti rész számlázása történik lakossági piaci áron vagy versenypiaci költségeket tükröző áron. Földgáz felhasználói adatszolgáltatáson vagy elosztói leolvasáson, leolvasást helyettesítő becslésen alapuló számlázása, valamint az azonos mennyiségről kiállított részszámlákon kívüli egyéb részszámlák esetén az egyetemes szolgáltató üzletszabályzatában rögzített fogyasztási jelleggörbe alapú kedvezmény meghatározást kell alkalmazni.
+
+(2) E rendeletben előírtak alkalmazása nem minősül a Rezsitv. 7. § (1) bekezdése szerinti szerződésszegésnek.

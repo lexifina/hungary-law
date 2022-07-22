@@ -1,0 +1,1 @@
+## 12. § A 7. § (2) bekezdése szerinti nyilatkozat megtétele az egyetemes szolgáltató által e célra biztosított felületen keresztül történik, ettől eltérő esetben a nyilatkozat érvénytelen. A nyilatkozatok megtételére az e rendelet hatálybalépését követő 5. munkanaptól van lehetőség.
