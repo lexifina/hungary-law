@@ -1328,4 +1328,6 @@ VI. ZÁRÓ RENDELKEZÉSEK
 
 136. Ez a határozat a közzétételét követő napon lép hatályba.
 
-137. Hatályát veszti a Kormány ügyrendjéről szóló 1144/2010. (VII. 7.) Korm. határozat.
+137.[^1]
+
+[^1]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
