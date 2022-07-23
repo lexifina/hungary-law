@@ -1,1 +1,1 @@
-1. § Az Országgyűlés az egyrészről az Európai Unió és tagállamai, másrészről Közép-Amerika közötti társulás létrehozásáról szóló megállapodáshoz, a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevétele céljából készült jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
+1. §
