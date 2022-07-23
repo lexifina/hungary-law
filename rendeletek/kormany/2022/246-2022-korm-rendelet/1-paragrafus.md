@@ -3,3 +3,5 @@
 a) a menedékjogról szóló 2007. évi LXXX. törvény vagy
 
 b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+
+szerinti szálláshelyét állandó lakóhelynek kell tekinteni.
