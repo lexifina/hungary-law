@@ -1,16 +1,19 @@
-## 23. §[^29] A postai szolgáltató általános szerződési feltételeiben jogosult a könyvelt küldemény kézbesítését – a 22. §-ban megállapított rendelkezésekben foglaltakon túl – további, az átvételi jogcím és a személyazonosság igazolása vonatkozásában a címzett vagy egyéb jogosult átvevő által kötelezően teljesítendő előírások teljesítésétől függővé tenni.
-
 ## 10. A postai küldemény átvételének megtagadása
 
-24. § (1) A postai küldemény átvétele megtagadásának a címzett vagy a meghatalmazott azonnali átvételtől elzárkózó egyértelmű nyilatkozata minősül. Szervezet esetében a címzett általi megtagadásnak minősül, ha a 15. § (2)–(3) bekezdésében meghatározott személy tagadja meg az átvételt.
+24. §[^41] (1) A postai küldemény átvételének megtagadására vonatkozó – a Postatv. 41. § (3a) bekezdése szerinti – nyilatkozatot a címzett vagy a meghatalmazott tehet. Szervezet esetében a címzett általi megtagadásnak minősül, ha a 15. § (2)–(3) bekezdésében meghatározott személy tagadja meg az átvételt.
 
-(2) Az átvétel megtagadása esetén ennek tényét mint kézbesíthetetlenségi okot a kézbesítési okiraton vagy az aláírást rögzítő egyéb technikai eszközön, valamint a küldeményen vagy a kísérőokiraton fel kell tüntetni, és a postai küldeményt – értesítő hátrahagyása és rendelkezésre tartási idő biztosítása nélkül – a feladó részére vissza kell kézbesíteni.
+(2) A postai szolgáltató az átvétel megtagadása esetén ennek tényét mint kézbesíthetetlenségi okot a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön, valamint a küldeményen vagy a kísérőokiraton feltünteti, és a postai küldeményt – értesítő hátrahagyása és rendelkezésre tartási idő biztosítása nélkül – a feladó részére visszakézbesíti.
 
-(3) Nem minősül a küldemény átvétele megtagadásának, amennyiben
+(3) Nem minősül a küldemény átvétele megtagadásának, ha
 
-a) a címzett vagy meghatalmazott a kézbesítéskor esedékes díj megfizetését az összeg mértéke vagy a fizetési mód miatt csak a kézbesítési kísérletet követően, a Postatv. 42. § (1) bekezdésében rögzített rendelkezésre tartási időn belül vállalja teljesíteni, vagy
+a) a címzett vagy meghatalmazott
 
-b)[^30] a címzetten és meghatalmazotton kívüli egyéb jogosult átvevő nem kívánja átvenni a küldeményt, vagy elzárkózik a kézbesítéskor esedékes díj megfizetésétől, az átvétel jogcímének vagy személyazonosságának igazolásától, továbbá a kézbesítési okirat, a tértivevény vagy a tértivevénynek megfelelő elektronikus dokumentum aláírásától vagy az átvétel során feltüntetendő adatok rögzítésétől.
+aa) a kézbesítéskor esedékes díj megfizetését az összeg mértéke vagy a fizetési mód miatt csak a kézbesítési kísérletet követően, a Postatv. 42. § (1) bekezdésében rögzített rendelkezésre tartási időn belül vállalja teljesíteni, vagy
 
-[^29]: A 23. § a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés d) pontja szerint módosított szöveg.
-[^30]: A 24. § (3) bekezdés b) pontja a 292/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+ab) elzárkózik aláírásának az (1) bekezdés szerinti nyilatkozaton való feltüntetésétől, vagy
+
+b) a címzetten és meghatalmazotton kívüli egyéb jogosult átvevő nem kívánja átvenni a küldeményt, vagy elzárkózik a kézbesítéskor esedékes díj megfizetésétől, az átvétel jogcímének vagy személyazonosságának igazolásától, továbbá az átvétel során a postai szolgáltató által kötelezően rögzítendő adatokat tartalmazó hatósági igazolvány bemutatásától.
+
+(4) A postai szolgáltató a (3) bekezdés szerinti esetekben a címzett részére a küldemény érkezéséről értesítőt hagy hátra.
+
+[^41]: A 24. § a 256/2022. (VII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.

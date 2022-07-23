@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-335-20-
 | 2019-06-30 | 2012-335-20-22.8 | 148/2019. (VI. 25.) Korm. rendelet |
 | 2020-01-01 | 2012-335-20-22.9 | 332/2019. (XII. 20.) Korm. rendelet |
 | 2020-06-18 | 2012-335-20-22.10 | 284/2020. (VI. 17.) Korm. rendelet |
+| 2022-07-23 | 2012-335-20-22.11 | 256/2022. (VII. 15.) Korm. rendelet |

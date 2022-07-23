@@ -18,7 +18,7 @@ b) amelyet a címzett a postai szolgáltatóval kötött, olyan tartalmú szerz�
 
 (4) A postai szolgáltató a települések belterületén kívüli lakott helyekre címzett levélszekrénybe kézbesíthető küldemények kézbesítését, valamint – a kézbesítés megkísérlésének mellőzésével – a személyes átadással kézbesítendő küldemény érkezéséről szóló értesítő elhelyezését a közutak mentén a postai szolgáltató által kijelölt helyen, a címhelyekhez rendelten telepített és üzemeltetett kézbesítésre alkalmas eszköz útján biztosíthatja.
 
-(5)[^9] Ha személyes kézbesítést igénylő küldemény esetében a címzett vagy egyéb jogosult átvevő a kézbesítés megkísérlésekor nem tartózkodik a címen, a postai szolgáltató – értesítő hátrahagyása mellett – kézbesítési ponton való kézbesítéssel, vagy a 25. § (1) bekezdés a), b), e), f) és g) pontjában meghatározott esetekben a feladó részére történő visszakézbesítéssel teljesítheti a postai szolgáltatási szerződést.
+(5)[^9] Ha személyes átadással történő kézbesítést igénylő küldemény esetében a címzett vagy egyéb jogosult átvevő a kézbesítés megkísérlésekor nem tartózkodik a címen, a postai szolgáltató – értesítő hátrahagyása mellett – kézbesítési ponton való kézbesítéssel, vagy a 25. § (1) bekezdés a), b), e), f) és g) pontjában meghatározott esetekben a feladó részére történő visszakézbesítéssel teljesítheti a postai szolgáltatási szerződést.
 
 (6) A postai szolgáltató jogosult arra, hogy az értéknyilvánítás többletszolgáltatás igénybevételét, ha az értéknyilvánítás összege meghaladja
 
@@ -28,11 +28,11 @@ b) egyetemes postai szolgáltatásnak nem minősülő postai szolgáltatás eset
 
 ## ahhoz a feltételhez kösse, hogy a küldeményt kézbesítési ponton kézbesíti.
 
-(7)[^10] A postai küldemény kézbesítésével vagy kézbesítési kísérletével kapcsolatos tények igazolása, valamint a postai szolgáltatásokhoz kapcsolódó többletszolgáltatás teljesítése érdekében a postai szolgáltató az erre rendszeresített technikai eszközzel hely és időpont adatokat is rögzíthet.
+(7)[^10] A postai küldemény kézbesítésével vagy kézbesítési kísérletével kapcsolatos tények igazolása, valamint a postai szolgáltatásokhoz kapcsolódó többletszolgáltatás teljesítése érdekében a postai szolgáltató az erre rendszeresített, a kézbesítés tényét rögzítő egyéb technikai eszközzel hely és időpont adatokat rögzít, valamint azokat a Postatv. rendelkezése szerint megőrzi.
 
 [^5]: A 9. § (1) bekezdése a 292/2018. (XII. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 9. § (2) bekezdése a 284/2020. (VI. 17.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
 [^7]: A 9. § (2a) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 59. § (2) bekezdése iktatta be.
 [^8]: A 9. § (2b) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 59. § (2) bekezdése iktatta be.
-[^9]: A 9. § (5) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A 9. § (7) bekezdését a 292/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 9. § (5) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés a) pontja, a 256/2022. (VII. 15.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^10]: A 9. § (7) bekezdését a 292/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 256/2022. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.

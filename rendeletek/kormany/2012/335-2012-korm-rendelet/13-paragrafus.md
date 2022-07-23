@@ -1,0 +1,1 @@
+## kézbesítésének címhelyen történő megkísérlését a postai szolgáltató – a (3) bekezdés szerinti értesítő kézbesítési címhelyen történő hátrahagyása mellett – mellőzi, ha a küldemény fizikai adottságaira tekintettel annak sérülésmentes elhelyezése a levélszekrényben nem lehetséges.
