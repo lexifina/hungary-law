@@ -186,6 +186,8 @@ p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény mó
 
 27.
 
+A Magyarország Alaptörvényének tizenegyedik módosításával megállapított 35. cikk (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választására is alkalmazni kell azzal, hogy a 35. cikk (3) bekezdésétől eltérően a hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.
+
 28.
 
 *
