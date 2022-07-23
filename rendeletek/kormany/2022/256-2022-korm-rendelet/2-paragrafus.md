@@ -1,0 +1,3 @@
+## 1. § A postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet (a továbbiakban: Rendelet) 9. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) A postai küldemény kézbesítésével vagy kézbesítési kísérletével kapcsolatos tények igazolása, valamint a postai szolgáltatásokhoz kapcsolódó többletszolgáltatás teljesítése érdekében a postai szolgáltató az erre rendszeresített, a kézbesítés tényét rögzítő egyéb technikai eszközzel hely és időpont adatokat rögzít, valamint azokat a Postatv. rendelkezése szerint megőrzi.”

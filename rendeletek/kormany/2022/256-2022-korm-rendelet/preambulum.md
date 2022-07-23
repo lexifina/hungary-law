@@ -1,0 +1,1 @@
+A Kormány a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 78. § (1) bekezdés a) és b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

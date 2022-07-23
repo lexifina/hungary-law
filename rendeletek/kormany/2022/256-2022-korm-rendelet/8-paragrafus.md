@@ -1,0 +1,1 @@
+## „(5b) Tértivevény többletszolgáltatással feladott postai küldemény személyes átadással történt kézbesítésének igazolásaként a tértivevény vagy a tértivevénynek megfelelő elektronikus dokumentum tartalmazza az átvevő személy olvasható nevét, továbbá – ha a küldeményt nem a címzett veszi át – az átvétel jogcímét és a postai szolgáltató azonosítására alkalmas jelzést is.”

@@ -1,0 +1,3 @@
+## 10. § A Rendelet 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A latin betűket nem ismerő címzettnek vagy egyéb jogosult átvevőnek a személyes átadással kézbesítendő könyvelt küldeményt nagykorú tanú jelenlétében kell kézbesíteni. A postai szolgáltató a kézbesítés előtt a címzett vagy egyéb jogosult átvevő, továbbá a tanú személyazonosságát a 21. és 22. §-ban foglaltak szerint ellenőrzi, és annak alapján a személyazonosságot igazoló okmányok elnevezését és okmányazonosítóját – a tanú e minőségének feltüntetése mellett – a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön rögzíti.”
