@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-2-20-3H
 | 2017-02-02 | 2017-2-20-3H.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2017-2-20-3H.3 | 2010: CXXX. törvény |
 | 2021-02-08 | 2017-2-20-3H.4 | 1/2021. (II. 5.) NMHH rendelet |
+| 2022-07-23 | 2017-2-20-3H.5 | 5/2022. (VII. 20.) NMHH rendelet |

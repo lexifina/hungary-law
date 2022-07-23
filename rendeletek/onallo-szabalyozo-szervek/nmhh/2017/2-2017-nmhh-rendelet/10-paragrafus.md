@@ -12,10 +12,10 @@ c) az importőr teljesítette-e a 9. § (9) bekezdésében meghatározott követ
 
 (3) A forgalmazó biztosítja, hogy a tárolás és a szállítás körülményei ne veszélyeztessék a 3. §-ban meghatározott alapvető követelményeknek való megfelelést.
 
-(4)[^5] Ha a forgalmazó tudomást szerez arról, vagy feltételezi, hogy az általa forgalmazott rádióberendezés nem felel meg e rendeletnek, meghozza a szükséges korrekciós intézkedéseket a rádióberendezés megfelelőségének biztosítására, vagy kivonja a forgalomból, vagy visszahívja a rádióberendezést. Ha a rádióberendezés kockázatot jelent, a forgalmazó erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett korrekciós intézkedésről.
+(4)[^8] Ha a forgalmazó tudomást szerez arról, vagy feltételezi, hogy az általa forgalmazott rádióberendezés nem felel meg e rendeletnek, meghozza a szükséges korrekciós intézkedéseket a rádióberendezés megfelelőségének biztosítására, vagy kivonja a forgalomból, vagy visszahívja a rádióberendezést. Ha a rádióberendezés kockázatot jelent, a forgalmazó erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett korrekciós intézkedésről.
 
 (5) A forgalmazó a piacfelügyeleti hatóság felhívására rendelkezésre bocsátja a rádióberendezés megfelelőségének igazolásához szükséges összes nyomtatott vagy elektronikus formátumú információt és dokumentációt. A piacfelügyeleti hatóság felhívására a forgalmazó együttműködik a rádióberendezés által jelentett kockázat kiküszöbölése érdekében.
 
 (6) Ha a forgalmazó, saját neve vagy védjegye alatt hoz forgalomba egy rádióberendezést, vagy olyan módon módosít egy már forgalomba hozott rádióberendezést, hogy a módosítás befolyásolja a rádióberendezés e rendeletnek való megfelelését, e rendelet alkalmazásában gyártónak minősül, és a gyártóra előírt kötelezettségek terhelik.
 
-[^5]: A 10. § (4) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 3. pontja szerint módosított szöveg.
+[^8]: A 10. § (4) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 3. pontja szerint módosított szöveg.
