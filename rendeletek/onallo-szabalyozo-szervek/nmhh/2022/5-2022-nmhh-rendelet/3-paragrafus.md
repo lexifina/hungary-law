@@ -1,3 +1,3 @@
-## 2. § Az R. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(3) Ha felhatalmazáson alapuló uniós jogi aktus előírja egyes rádióberendezés-osztályokba tartozó rádióberendezésekre vonatkozóan, hogy a rádióberendezések, valamint azok rendeltetésszerű használatát lehetővé tevő szoftverek gyártói a 11. alcím szerinti megfelelőségértékelési eljárások alkalmazásával vizsgálják meg, hogy a rádióberendezések és a szoftverek általuk meghatározott együttese teljesíti-e a 3. §-ban meghatározott alapvető követelményeket, akkor az alapvető követelményeket teljesítő rádióberendezés és szoftver együtteséről a gyártó az 5. melléklet „A” címe szerinti tartalmi elemeket magába foglaló megfelelőségi nyilatkozatot állít ki, és azt az uniós jogi aktusban meghatározott formában és módon az Európai Bizottságnak, valamint az Európai Unió tagállamainak megküldi.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
