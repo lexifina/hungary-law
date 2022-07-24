@@ -1,9 +1,3 @@
-## 2. § A Rendelet 12. § (4a) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(4a) A 324 × 229 × 24 mm-t meghaladó méretű
-
-## a) nem könyvelt küldemények, valamint
-
-## b) rögzített ajánlott levélküldemények
-
-## kézbesítésének címhelyen történő megkísérlését a postai szolgáltató – a (3) bekezdés szerinti értesítő kézbesítési címhelyen történő hátrahagyása mellett – mellőzi, ha a küldemény fizikai adottságaira tekintettel annak sérülésmentes elhelyezése a levélszekrényben nem lehetséges.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

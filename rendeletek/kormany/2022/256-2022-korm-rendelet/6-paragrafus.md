@@ -1,1 +1,3 @@
-## „(11) A közvetett kézbesítő által a küldemények átvételére feljogosított személy az átvételi jogosultságát a névre szóló igazolással köteles igazolni a postai szolgáltató előtt. Az átvételre feljogosított személy a küldemények kézbesítését igazoló okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön a postai szolgáltató által történő adatrögzítés biztosítása érdekében köteles közölni a közvetett kézbesítő szervezet nevét, a közvetett kézbesítői minőségét és a küldeményt átvevő személy nevét, továbbá az átvevő köteles a postai szolgáltató számára bemutatni a személyazonossága igazolására alkalmas okmányát is.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
