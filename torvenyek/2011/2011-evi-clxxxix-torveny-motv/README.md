@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2021-12-01 | 2021. évi XCIX. törvény | 2011-189-00-00.51 |
 | 2022-01-01 | 2021. évi CXLVIII. törvény | 2011-189-00-00.52 |
 | 2022-05-01 | 2022. évi I. törvény | 2011-189-00-00.53 |
+| 2022-07-26 | 2022. évi XXII. törvény | 2011-189-00-00.54 |
