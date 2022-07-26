@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-68-00-00
 | 2020-09-01 | 2020. évi LXV. törvény | 1997-68-00-00.64 |
 | 2021-01-01 | 2020. évi CLXV. törvény | 1997-68-00-00.65 |
 | 2022-01-01 | 2021. évi CXXII. törvény | 1997-68-00-00.66 |
+| 2022-07-26 | 2022. évi XXII. törvény | 1997-68-00-00.67 |
