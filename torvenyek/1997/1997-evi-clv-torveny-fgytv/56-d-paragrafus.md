@@ -1,0 +1,1 @@
+56/D. § A 21. § (6) bekezdésétől, illetve a 23. §-tól eltérően, a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény hatálybalépésekor működő békéltető testület tagjainak és elnökének megbízatási ideje 2023. december 31-éig meghosszabbodik.
