@@ -1,0 +1,5 @@
+## 125. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
+
+146. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 260/E. §-a helyébe a következő rendelkezés lép:
+
+„260/E. § A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően – a 253. § (1) bekezdése alapján – adományozott cím használatára a címzetes főjegyző a Módtv. hatálybalépését követően is jogosult azzal, hogy a cím használatára, a címre való jogosultság megszűnésére és a cím visszavonására a Módtv. hatálybalépését megelőző napon hatályos 253. § (3)–(10) bekezdését kell alkalmazni.”
