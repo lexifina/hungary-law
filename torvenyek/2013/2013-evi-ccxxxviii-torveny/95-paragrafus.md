@@ -4,7 +4,7 @@
 
 a) 69. §-a az Alaptörvény IX. cikk (3) bekezdése alapján,
 
-b) 79. § (5) bekezdése, 98. §-a és 101. § (3) bekezdése az Alaptörvény 24. cikk (9) bekezdése alapján,
+b) 30. § (5) bekezdése, 57. § (4) bekezdése, 79. § (5) bekezdése, 98. §-a és 101. § (3) bekezdése az Alaptörvény 24. cikk (9) bekezdése alapján,
 
 c) 99. §-a az Alaptörvény XXIX. cikk (3) bekezdése alapján,
 

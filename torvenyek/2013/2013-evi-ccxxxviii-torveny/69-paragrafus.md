@@ -2,7 +2,7 @@
 
 69. § (1) Országos népszavazási kampányidőszakban politikai reklámot a kezdeményezés szervezői, továbbá a kezdeményezés szervezésében részt nem vevő, de országgyűlési képviselőcsoporttal rendelkező pártok tehetnek közzé.
 
-(2) A Nemzeti Választási Bizottság az országos népszavazás kitűzését követő öt munkanapon belül határozza meg, hogy a közszolgálati médiaszolgáltató lineáris médiaszolgáltatásaiban milyen időtartamban köteles közzétenni az (1) bekezdés szerinti jogosultak politikai reklámjait. A politikai reklámok közzétételére rendelkezésre álló időtartam összesen háromszáz perc, amelyet a jogosultak között egyenlő arányban kell felosztani.
+(2) A Nemzeti Választási Bizottság az országos népszavazás kitűzését követő öt munkanapon belül határozza meg, hogy a közszolgálati médiaszolgáltató lineáris médiaszolgáltatásaiban milyen időtartamban köteles közzétenni az (1) bekezdés szerinti jogosultak politikai reklámjait. A politikai reklámok közzétételére rendelkezésre álló időtartam népszavazásonként háromszáz perc, amelyet a jogosultak között egyenlő arányban kell felosztani. Ugyanazon kezdeményező – választópolgári kezdeményezés esetén ugyanazon szervező – által kezdeményezett több, azonos napra kitűzött népszavazás esetén a politikai reklámok közzétételére álló időtartam összesen háromszáz perc.
 
 (3) A politikai reklámot a közszolgálati médiaszolgáltató a legnagyobb éves átlagos közönségaránnyal bíró lineáris audiovizuális és rádiós médiaszolgáltatásában, egyenlő arányban megosztva teszi közzé.
 

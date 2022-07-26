@@ -11,3 +11,5 @@ a) a Kúria határozatának számát,
 b) a Nemzeti Választási Bizottság határozata számát és helybenhagyásának tényét, valamint
 
 c) tájékoztatást arról, hogy a Kúria határozata megtekinthető a Kúria honlapján.
+
+(5) A Kúria (1) bekezdés szerinti döntése elleni alkotmányjogi panaszt a Kúria döntésének Magyar Közlönyben történt közzétételétől számított nyolc napon belül lehet benyújtani. Az Alkotmánybíróság az alkotmányjogi panaszról harminc napon belül dönt.
