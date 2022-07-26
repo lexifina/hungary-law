@@ -1,11 +1,3 @@
-## 2. A járási (fővárosi kerületi) hivatal működésével összefüggő rendelkezések
+## 2.
 
-2. § (1) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely a járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) hatáskörébe tartozik, úgy a járási hivatal eljárásáért a jogszabályban meghatározott igazgatási szolgáltatási díj – ha jogszabály eltérően nem rendelkezik – a fővárosi és vármegyei kormányhivatal bevételét képezi, és azt a közigazgatás-szervezésért felelős miniszternek (a továbbiakban: miniszter) az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
-
-(2) Ha jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely eljárásban a járási hivatal jogszabályban meghatározottak szerint közreműködő hatóságként jár el, és a kérelem a járási hivatalhoz kerül benyújtásra, úgy a jogszabályban meghatározott igazgatási szolgáltatási díjat a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
-
-(3) Jogszabály eltérő rendelkezése hiányában, ha valamely bejelentésnek a hatáskörrel rendelkező illetékes hatósághoz történő megtételéhez jogszabály joghatást fűz, ideértve valamely jogosultság egyidejű gyakorolhatóságát, a joghatás a kormányablaknál történő bejelentéssel beáll, a bejelentés alapján gyakorolható jogosultság a kormányablaknál történő bejelentést követően azonnal gyakorolható.
-
-(4) A Kormány által rendeletben meghatározott hatósági nyilvántartások tekintetében az ügyfél jogosult a rá vonatkozó adatok megváltozását a kormányablakban bejelenteni. A kormányablak a változásbejelentést továbbítja a hatósági nyilvántartást vezető hatósághoz.
-
-(5) Ha a kérelmet a kormányablaknál terjesztették elő, és az eljárásra a járási hivatalnak nincs hatásköre vagy nem illetékes, a kérelmet öt napon belül továbbítja a döntés meghozatalára hatáskörrel és illetékességgel rendelkező hatósághoz. Jogszabály a kérelem továbbítására rövidebb határidőt is meghatározhat. A konzuli tisztviselő eljárásában a kérelmet haladéktalanul, de legkésőbb a kérelem benyújtását követő első diplomáciai futárpostával kell továbbítani.
+2. §
