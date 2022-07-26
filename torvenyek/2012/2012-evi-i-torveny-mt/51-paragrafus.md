@@ -15,3 +15,5 @@
 (5) A fogyatékossággal élő személy foglalkoztatása során gondoskodni kell az ésszerű alkalmazkodás feltételeinek biztosításáról.
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a munkavállaló munkaviszonnyal összefüggő költségeinek megtérítésére vonatkozó szabályokat.
+
+(7) A munkavállaló számára lehetővé kell tenni, hogy az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán, továbbá népszavazáson szavazhasson.

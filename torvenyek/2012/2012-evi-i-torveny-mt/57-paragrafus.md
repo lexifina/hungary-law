@@ -2,13 +2,15 @@
 
 57. § (1) A felek megállapodása vagy kollektív szerződés
 
-a) az 52. § (3) bekezdésében,
+a) az 51. § (7) bekezdésében,
 
-b) az 53. § (3)–(4) bekezdésében,
+b) az 52. § (3) bekezdésében,
 
-c) az 54. § (1) bekezdésében,
+c) az 53. § (3)–(4) bekezdésében,
 
-d) az 56. § (2)–(5) bekezdésében
+d) az 54. § (1) bekezdésében,
+
+e) az 56. § (2)–(5) bekezdésében
 
 foglaltaktól nem térhet el.
 
