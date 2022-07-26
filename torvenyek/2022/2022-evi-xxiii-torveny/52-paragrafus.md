@@ -9,11 +9,3 @@
 (5) A 46. § és a 48. § az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
 
 (6) Az 49. § az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

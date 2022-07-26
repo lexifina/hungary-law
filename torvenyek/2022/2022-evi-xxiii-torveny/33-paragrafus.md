@@ -12,15 +12,15 @@ e) 34. § (4) bekezdésében az „(1) bekezdés c) és f) pontja” szövegrés
 
 f) 82. § (1) bekezdésében a „Nemzeti Választási Iroda által vezetett” szövegrész helyébe a „Nemzeti Választási Iroda és a helyi választási irodák által vezetett” szöveg,
 
-g) 94. § (2) bekezdésében, 113. § (2) bekezdésében, 235. § (2) bekezdésében a „második napon” szövegrész helyébe a „második napon 10 óráig” szöveg,
+g)
 
-h) 103. § (2) bekezdés a) pont ab) alpontjában és 105/A. §-ában a „második napig” szövegrész helyébe a „második nap 10 óráig” szöveg,
+h)
 
-i) 103. § (2) bekezdés a) pont ac) alpontjában a „második napon 16 órát” szövegrész helyébe a „második napon 10 órát” szöveg,
+i)
 
-j) 106. § (1) bekezdésében a „második napon 16 óráig” szövegrész helyébe a „második napon 10 óráig” szöveg,
+j)
 
-k) 106. § (2) bekezdésében a „megelőző napon” szövegrész helyébe a „megelőző második napon” szöveg,
+k)
 
 l) 107. § (3) bekezdésében a „104. § (2) bekezdése” szövegrész helyébe a „104. § (3) bekezdése” szöveg,
 
@@ -28,19 +28,19 @@ m) 110. § (1) bekezdésében a „103. §, a 250. §” szövegrész helyébe a
 
 n) 136. §-ában a „Nemzeti Választási Bizottság” szövegrész helyébe a „Nemzeti Választási Iroda” szöveg,
 
-o) 248. §-ában a „tizenhatodik napon” szövegrész helyébe a „kilencedik napon” szöveg,
+o)
 
-p) 249. § (1) bekezdés a) pontjában a „második napon” szövegrész helyébe a „második napon 10 óráig” szöveg,
+p)
 
-q) 250. § (5) bekezdés b) pontjában a „második napig” szövegrész helyébe a „második napon 10 óráig” szöveg,
+q)
 
 r) 254. § (2)–(3) bekezdésében a „Nemzeti Választási Bizottság” szövegrész helyébe a „Nemzeti Választási Iroda” szöveg,
 
-s) 307/A. § (4) bekezdés b) pontjában és 307/B. § (2) bekezdésében a „második napon” szövegrész helyébe a „harmadik napon” szöveg,
+s)
 
 t) 307/J. § (2) bekezdésében és 307/K. § (2) bekezdésében a „választási bizottság” szövegrész helyébe a „választási iroda” szöveg,
 
-u) 314. § (1)–(2) bekezdésében és 315. §-ában a „tizenhatodik napon” szövegrész helyébe a „kilencedik napon” szöveg,
+u)
 
 v) 317. § (2) bekezdésében és 320. § (2) bekezdésében a „választási bizottság” szövegrész helyébe a „választási iroda” szöveg,
 
