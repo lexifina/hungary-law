@@ -2,7 +2,7 @@
 
 ## Az országgyűlési képviselők általános választásán nemzetiségi listát állító országos nemzetiségi önkormányzatok támogatása összegét a következő eljárás szerint kell kiosztani:
 
-## a) A nemzetiségi választópolgárként a központi névjegyzékben névjegyzékbe vett választópolgárok számát össze kell adni (a továbbiakban: összes nemzetiségi választópolgár).
+## a) A nemzetiségi választópolgárként a központi névjegyzékben szereplő választópolgárok számát – azon választópolgárok kivételével, akik nemzetisége nem rendelkezik jogerősen nyilvántartásba vett nemzetiségi listával – össze kell adni (a továbbiakban: összes nemzetiségi választópolgár).
 
 ## b) A 4. § (1) bekezdése szerinti összeg kétharmadát el kell osztani az összes nemzetiségi választópolgár számával. Az így kapott hányados egész része az egy nemzetiségi választópolgárra jutó támogatás összege (a továbbiakban: kvóta).
 
