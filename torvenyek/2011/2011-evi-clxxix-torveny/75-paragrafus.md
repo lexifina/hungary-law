@@ -6,4 +6,6 @@ a) ha a testület megbízatása lejárt,
 
 b) a nemzetiségi önkormányzat megszűnése napján,
 
-c) a képviselők számának a testület működéséhez szükséges létszám alá csökkenése napján, a testület feloszlatása, feloszlásának kimondása miatti időközi választás napján.
+c) a képviselők számának a testület működéséhez szükséges létszám alá csökkenése napján,
+
+d) – a 69. § (4) bekezdésében foglaltak alapján – a testület feloszlatása, feloszlásának kimondása miatti időközi választás napján.

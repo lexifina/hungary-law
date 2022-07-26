@@ -10,4 +10,6 @@ d) az időközi választás eredménytelen, a választási bizottság határozat
 
 e) az időközi választáson megválasztott képviselő-testület, közgyűlés határidőben nem tartja meg alakuló ülését, a határidő lejártát követő napon.
 
+f) a képviselő-testületet, közgyűlést feloszlatták vagy kimondta feloszlását, és a nemzetiségi önkormányzat az időközi választás költségeit nem előlegezi meg, a feloszlatás vagy feloszlása kimondásának napján.
+
 (2) Ha a nemzetiségi önkormányzat megszűnik, a nemzetiségi önkormányzati képviselők választására csak a következő általános választáson kerülhet sor.

@@ -10,6 +10,8 @@ a) ha az általános választás eredménytelen,
 
 b) ha az általános választást követően az önkormányzat nem alakult meg,
 
-c) ha a képviselő-testületet, közgyűlést feloszlatták, vagy
+c)
 
-d) a képviselő-testület, közgyűlés kimondta feloszlását.
+d)
+
+(4) Időközi választást kell kitűzni, ha a képviselő-testületet, közgyűlést feloszlatják vagy kimondja feloszlását, és a nemzetiségi önkormányzat az időközi választás költségeit megelőlegezi.

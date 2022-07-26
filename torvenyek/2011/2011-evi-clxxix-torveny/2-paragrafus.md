@@ -72,7 +72,7 @@ a nemzetiségi közösség anyanyelvén, elsősorban a közösség médiaműhely
 
 a nemzetiségi köznevelési intézmény azon alkalmazottai, akik foglalkoztatása a nemzetiségi köznevelési intézményben pedagógus, pedagógiai szakértő munkakörben és pedagógiai előadó munkakörben, továbbá a nevelő és oktató munkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását közvetlenül segítő munkakörben történik;
 
-14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában szereplő olyan egyesület, amelynek alapszabályában – a nemzetiségi önkormányzati választás évét megelőzően legalább 3 éve – rögzített célja az e törvény szerinti, konkrétan megjelölt nemzetiség képviselete;
+14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában – a nemzetiségi önkormányzati választás évét megelőzően legalább 3 éve – nemzetiségi egyesületként szereplő egyesület;
 
 15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó egyesület;
 
