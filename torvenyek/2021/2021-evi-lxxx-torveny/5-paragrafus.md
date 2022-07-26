@@ -1,4 +1,4 @@
-5. § (1) Az építtető a Beruházás tekintetében a korábbi előkészítő építtető BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaságnak (a továbbiakban: korábbi építtető) az előkészítő építtetői feladatkörében jogutódja.
+5. § (1) Az építtető a Beruházás tekintetében a korábbi előkészítő építtető BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaságnak és az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban együtt: korábbi építtető) az előkészítő építtetői feladatkörében jogutódja.
 
 (2) Az építtető a Beruházás előkészítése keretében megkötött szerződésekben – ideértve különösen a tanácsadói, lebonyolítói, tervezési, műszaki ellenőri és a beruházáshoz kapcsolódóan már megkötött szakértői és egyéb szerződéseket – szerződésátruházás útján a korábbi építtető helyébe lép. A szerződésátruházáshoz a szerződésben részes harmadik fél hozzájárulása nem szükséges, őt a szerződésátruházásról az építtető értesíti.
 

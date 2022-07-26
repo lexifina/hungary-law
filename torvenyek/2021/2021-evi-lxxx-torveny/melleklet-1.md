@@ -1,6 +1,6 @@
 1. melléklet a 2021. évi LXXX. törvényhez
 
-A Társaság tulajdonosi joggyakorlásába kerülő állami tulajdonú ingatlanok
+A Minisztérium tulajdonosi joggyakorlásába kerülő állami tulajdonú ingatlanok
 
 |
 
