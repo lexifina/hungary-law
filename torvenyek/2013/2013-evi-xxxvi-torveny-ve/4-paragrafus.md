@@ -1,6 +1,6 @@
 ## 4. A nemzetközi megfigyelő
 
-4. § (1) Más állam vagy nemzetközi szervezet Nemzeti Választási Iroda által – a választások megfigyelése céljából – nyilvántartásba vett megfigyelője
+4. § (1) Más állam, kormányközi szervezet, nemzetközi nem kormányzati szervezet vagy egyesület Nemzeti Választási Iroda által – a választások megfigyelése céljából – nyilvántartásba vett megfigyelője
 
 a) a választási eljárás teljes menetét figyelemmel kísérheti, a választási szervek munkájánál jelen lehet,
 
@@ -14,8 +14,8 @@ e) tevékenysége végzése alatt köteles a Nemzeti Választási Iroda által r
 
 f) köteles pártatlanul végezni tevékenységét.
 
-(2) A Nemzeti Választási Iroda a nemzetközi megfigyelőkről nyilvántartást vezet. A nyilvántartás tartalmazza a nemzetközi megfigyelő nevét, születési helyét és idejét, valamint a megbízó állam vagy nemzetközi szervezet nevét. A nemzetközi megfigyelők nevét, valamint a megbízó állam vagy nemzetközi szervezet nevét a Nemzeti Választási Iroda a választások hivatalos honlapján közzéteszi.
+(2) A Nemzeti Választási Iroda a nemzetközi megfigyelőkről nyilvántartást vezet. A nyilvántartás tartalmazza a nemzetközi megfigyelő nevét, születési helyét és idejét, valamint a megbízó nevét. A nemzetközi megfigyelők nevét, valamint a megbízó nevét a Nemzeti Választási Iroda a választások hivatalos honlapján közzéteszi.
 
 (3) A nemzetközi megfigyelő nyilvántartásba vételéről, valamint nyilvántartásból való törléséről a Nemzeti Választási Iroda elnöke dönt, a döntés ellen nincs helye jogorvoslatnak.
 
-(4)
+(4) A nemzetközi megfigyelőt a szavazást megelőző kilencedik napig kell bejelenteni a Nemzeti Választási Irodánál.

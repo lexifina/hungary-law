@@ -6,7 +6,7 @@
 
 ## 1. A törvény hatálya
 
-1. § E törvényt kell alkalmazni
+1. § E törvényt kell alkalmazni Magyarországon és Magyarország területén kívül
 
 a) az országgyűlési képviselők választásán,
 

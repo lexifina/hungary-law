@@ -30,4 +30,4 @@ j) a fővárosi és megyei kormányhivatal választásokkal összefüggő inform
 
 k) a Nemzeti Választási Bizottság választott tagjai – a Nemzeti Választási Bizottság működése kapcsán felmerülő – indokolt és igazolt költségeinek körét és a megtérítésre vonatkozó szabályokat,
 
-l)
+l) a 310. § (2) bekezdése szerinti megelőlegezés részletes szabályait.

@@ -4,7 +4,7 @@
 
 ## 39. A központi névjegyzék
 
-82. § (1) A központi névjegyzék a Nemzeti Választási Iroda által vezetett elektronikus nyilvántartás. A választójogát az a választópolgár gyakorolhatja, aki a központi névjegyzékben szerepel.
+82. § (1) A központi névjegyzék a Nemzeti Választási Iroda és a helyi választási irodák által vezetett elektronikus nyilvántartás. A választójogát az a választópolgár gyakorolhatja, aki a központi névjegyzékben szerepel.
 
 (2) A központi névjegyzék tartalmazza
 

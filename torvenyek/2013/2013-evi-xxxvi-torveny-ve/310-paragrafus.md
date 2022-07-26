@@ -6,4 +6,4 @@ a) a képviselő-testületet, közgyűlést feloszlatták,
 
 b) a képviselő-testület, közgyűlés kimondta feloszlását.
 
-(2) Ha a nemzetiségi önkormányzat az (1) bekezdés szerinti időközi választás előkészítésének és lebonyolításának költségeihez szükséges fedezettel nem rendelkezik, a költségeket a központi költségvetés előlegezi meg.
+(2) A nemzetiségi önkormányzat az (1) bekezdés szerinti időközi választás költségeit – annak kitűzését megelőzően – az időközi választás kitűzésére hatáskörrel rendelkező választási bizottság mellett működő választási iroda számára megelőlegezi.

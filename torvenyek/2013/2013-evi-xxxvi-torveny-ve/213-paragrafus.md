@@ -7,3 +7,5 @@
 (3) Ha a választási bizottság, illetve a bizottság elnöke az ügyet nem teszi át az illetékes választási bizottsághoz, a választási bizottság köteles az ügyben eljárni.
 
 (4) Ha a kifogás áttételére kerül sor, a kifogás határidőben történt benyújtásának vizsgálatakor azt az időpontot kell figyelembe venni, amikor az első választási bizottsághoz beérkezett.
+
+(5) Ha a Nemzeti Választási Bizottság a hozzá áttett kifogás tekintetében hatáskörének hiányát állapítja meg, legkésőbb az áttételt követő napon intézkedhet a kifogás illetékes választási bizottság részére történő áttételéről.

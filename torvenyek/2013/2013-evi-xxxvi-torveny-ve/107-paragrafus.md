@@ -2,4 +2,4 @@
 
 (2) A mozgóurnát igénylő választópolgárok kinyomtatott jegyzéke a 3. melléklet és a 103. § (3) bekezdés a) pontja szerinti adatokat tartalmazza.
 
-(3) A kinyomtatott szavazóköri névjegyzéken és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékén – a 104. § (2) bekezdése szerinti változás kivételével – nem vezethető át változás.
+(3) A kinyomtatott szavazóköri névjegyzéken és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékén – a 104. § (3) bekezdése szerinti változás kivételével – nem vezethető át változás.

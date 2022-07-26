@@ -1,6 +1,6 @@
 ## 160. Az Európai Unió más tagállama állampolgárának névjegyzékbe vétele
 
-335. § (1) A Nemzeti Választási Iroda legkésőbb a szavazást megelőző tizenötödik napig értesíti az Európai Unió tagállamainak az európai parlamenti választás során ezen adatok fogadására hatáskörrel rendelkező központi szerveit azokról az állampolgáraikról, akik a szavazóköri névjegyzékében szerepelnek. Az értesítés a választópolgár következő adatait tartalmazza:
+335. § (1) A Nemzeti Választási Iroda legkésőbb a szavazást megelőző tizenötödik napig értesíti az Európai Unió tagállamainak az európai parlamenti választás során ezen adatok fogadására hatáskörrel rendelkező központi szerveit azokról az állampolgáraikról, akik az Európai Parlament tagjai választásának szavazóköri névjegyzékében szerepelnek. Az értesítés a választópolgár következő adatait tartalmazza:
 
 a) név,
 

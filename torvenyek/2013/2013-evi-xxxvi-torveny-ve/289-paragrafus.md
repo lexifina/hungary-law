@@ -1,6 +1,6 @@
 289. § (1) A választási iroda megvizsgálja a határidőben beérkezett szavazási iratokat.
 
-(2) A szavazási iratok vizsgálata során a választási iroda a beérkezett szavazási iratot – a szavazólapot tartalmazó belső boríték felbontása nélkül – ellenőrzi. Az azonosító nyilatkozat tartalmát a választási iroda a levélben szavazók névjegyzéke alapján ellenőrzi. A Nemzeti Választási Iroda az azonosító nyilatkozat tartalmát szükség esetén a személyazonosságot igazoló hatósági igazolvány nyilvántartásában közvetlen adathozzáféréssel, illetve a polgárok személyi és lakcím adatait tartalmazó nyilvántartásban is ellenőrzi.
+(2) A szavazási iratok vizsgálata során a választási iroda a beérkezett szavazási iratot – a szavazólapot tartalmazó belső boríték felbontása nélkül – ellenőrzi. Az azonosító nyilatkozat tartalmát a választási iroda a levélben szavazók névjegyzéke alapján ellenőrzi. A Nemzeti Választási Iroda az azonosító nyilatkozat tartalmát szükség esetén a személyazonosságot igazoló hatósági igazolvány nyilvántartásában, a honosítási okirat nyilvántartásában közvetlen adathozzáféréssel, vagy az állampolgársági ügyekben eljáró szerv megkeresése útján, illetve a polgárok személyi és lakcím adatait tartalmazó nyilvántartásban is ellenőrzi.
 
 (3) Érvénytelen a szavazási irat, ha
 
@@ -42,6 +42,6 @@ e) a 278. § (2) bekezdés a) pontja szerinti adatban több utónév egyikének 
 
 (6)
 
-(7) A (3) bekezdés g) pontjában a választópolgár által már leadott szavazási iratnak csak az olyan szavazási irat tekinthető, amelynek azonosító nyilatkozata alapján a választópolgár személyazonossága kétséget kizáróan megállapítható.
+(7) A (3) bekezdés g) pontjában a választópolgár által már leadott szavazási iratnak csak az olyan szavazási irat tekinthető, amely érvényes, vagy nem a (3) bekezdés e), f) vagy i) pontja szerinti okból érvénytelen.
 
-(8) Ha a választópolgár személyazonossága az azonosító nyilatkozat alapján kétséget kizáróan megállapítható, a választási iroda a központi névjegyzéken ennek tényét feltünteti.
+(8) Ha a szavazási irat érvényes, vagy nem a (3) bekezdés e), f) vagy i) pontja szerinti okból érvénytelen, a választási iroda a központi névjegyzéken feltünteti, hogy a választópolgár szavazási iratot adott le.

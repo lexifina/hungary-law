@@ -4,7 +4,7 @@
 
 a) választott tagjának megbízatása a Nemzeti Választási Bizottság alakuló ülésétől számított kilenc év lejártáig,
 
-b) 27. § (1) bekezdése alapján megbízott tagjának megbízatása az országgyűlési képviselők következő általános választása kitűzésének napjáig, de legfeljebb a képviselőcsoport megszűnéséig,
+b) 27. § (1) bekezdése alapján megbízott tagjának megbízatása az Országgyűlés alakuló ülésének napjáig, de legfeljebb a képviselőcsoport megszűnéséig,
 
 c) 27. § (2) bekezdése alapján megbízott tagjának megbízatása az Országgyűlés alakuló ülésének napjáig,
 
@@ -23,3 +23,5 @@ b) megbízott tagjának megbízatása a 28. §-ban megjelölt, a megbízás joga
 tart.
 
 (4) A szavazatszámláló bizottságok választott tagjainak megbízatása a következő általános választásra megválasztott szavazatszámláló bizottsági tagok megválasztásáig tart.
+
+(5) A szavazatszámláló bizottság megbízott tagjának megbízatása a 28. §-ban megjelölt, a megbízás jogalapját képező jelöléshez, listaállításhoz kapcsolódó választás eredményének jogerőssé válásáig tart.

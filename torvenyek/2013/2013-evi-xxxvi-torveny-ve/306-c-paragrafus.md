@@ -1,4 +1,4 @@
-306/C. § A helyi választási iroda vezetője az általános választás évében március 31-ig módosítja a választókerületi beosztást, ha
+306/C. § A helyi választási iroda vezetője az általános választást megelőző évben november 30-ig módosítja a választókerületi beosztást, ha
 
 a) a település lakosainak száma tízezer fölé emelkedik vagy megváltozik az egyéni választókerületek száma,
 

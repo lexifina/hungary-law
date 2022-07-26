@@ -1,10 +1,12 @@
 19. § (1) A választott és megbízott tagok jogai és kötelezettségei – a 41. § (3) bekezdésében és a 45. § (5) bekezdésében foglalt kivétellel – azonosak.
 
+(1a) A választási bizottság megbízott tagja a választási bizottság hatáskörébe tartozó valamennyi ügyben gyakorolja jogait és kötelezettségeit, a megbízás jogalapjától függetlenül.
+
 (2) A választási bizottság választott tagjait tiszteletdíj illeti meg.
 
 (3) A Nemzeti Választási Bizottság választott tagjai tiszteletdíjának havi összege a közszolgálati tisztviselői illetményalap tizenkétszerese. A Nemzeti Választási Bizottság elnöke tiszteletdíjának havi összege a közszolgálati tisztviselői illetményalap huszonegyszerese.
 
-(4) A Nemzeti Választási Bizottság megbízott tagjai az eskü- vagy fogadalom letételétől kezdődően a megbízatásuk ideje alatt, a Nemzeti Választási Bizottság választott tagjait megillető havi tiszteletdíjjal megegyező mértékű tiszteletdíjra, illetve annak időarányos részére jogosultak.
+(4) A Nemzeti Választási Bizottság 27. § (1) bekezdése alapján megbízott tagjai az eskü- vagy fogadalom letételétől kezdődően a megbízatásuk ideje alatt, a Nemzeti Választási Bizottság választott tagjait megillető havi tiszteletdíjjal megegyező mértékű tiszteletdíjra, illetve annak időarányos részére jogosultak.
 
 (5) A Nemzeti Választási Bizottság választott tagjai – a Nemzeti Választási Bizottság működése kapcsán felmerülő – a miniszter rendeletében meghatározott, indokolt és igazolt költségeik megtérítésére jogosultak.
 

@@ -8,4 +8,4 @@ b) a 85. § szerinti kérelmet, ha a választás kitűzése és a szavazást meg
 
 c) a 334. § (2) bekezdése szerinti kérelmet, ha az Európai Parlament tagjai választásának kitűzése és a szavazást megelőző második nap között érkezik be.
 
-(3)
+(3) A 84. § szerinti kérelem elbírálása a szavazást megelőző huszonötödik nap és az eredmény jogerőre emelkedése között szünetel az országgyűlési képviselők általános választása és az Európai Parlament tagjainak választása esetén.

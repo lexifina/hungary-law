@@ -6,7 +6,7 @@ a) a nemzetiség képviseletét vállalja és
 
 b) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
 
-(2) A választási bizottság a jelöltek nyilvántartásában ellenőrzi, hogy a jelölt a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt jelölt más nemzetiség önkormányzatának választásán.
+(2) A választási iroda a jelöltek nyilvántartásában ellenőrzi, hogy a jelölt a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt jelölt más nemzetiség önkormányzatának választásán.
 
 (3) Az ajánlóív a nemzetiség megjelölését is tartalmazza.
 

@@ -6,11 +6,9 @@
 
 a) nevét,
 
-b)
+b) születési helyét,
 
-c) születési helyét és idejét,
-
-d) személyi azonosítóját vagy a személyazonosságát igazoló hatósági igazolványának számát.
+c) személyi azonosítóját vagy a személyazonosságát igazoló hatósági igazolványának számát, ezek hiányában a honosítási okiratának számát.
 
 (3) Az azonosító nyilatkozatot a választópolgár saját kezűleg aláírja.
 

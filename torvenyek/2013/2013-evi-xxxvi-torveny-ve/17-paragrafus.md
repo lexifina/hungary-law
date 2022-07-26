@@ -12,6 +12,6 @@ lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár 
 
 (2) A választási bizottság választott tagja és a Nemzeti Választási Bizottság megbízott tagja az lehet, aki az országgyűlési képviselők választásán jelöltként indulhat.
 
-(3) A Nemzeti Választási Bizottság választott tagja az lehet, aki a (2) bekezdésben foglalt feltételnek megfelel és jogi egyetemi diplomával rendelkezik.
+(3) A Nemzeti Választási Bizottság választott, valamint a 27. § (1) bekezdése alapján megbízott tagja az lehet, aki jogi egyetemi diplomával rendelkezik.
 
 (4) A választási bizottság megbízott tagja az lehet, aki az adott választáson jelöltként indulhat.

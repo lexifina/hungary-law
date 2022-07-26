@@ -6,8 +6,8 @@
 
 (3) A 233. § az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
 
-(4) A XIII. Fejezet, a 7. és a 8. melléklet az Alaptörvény 2. cikk (1) bekezdése alapján sarkalatosnak minősül.
+(4) A XIII. Fejezet, a 331. § (3) bekezdése, a 7. és a 8. melléklet az Alaptörvény 2. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
-(5) A XIV. Fejezet az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+(5) A XIV. Fejezet, a 331. § (1)–(2) bekezdése, a 333. §, a 162/A. alcím, a 162/B. alcím és a 345. § az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (6) A XV. Fejezet az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.

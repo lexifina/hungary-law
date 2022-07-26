@@ -1,4 +1,4 @@
-## 163. A lista bejelentése
+## 163. Az Európai Parlament tagjainak választásán állított lista bejelentése
 
 338. § (1) A listát legkésőbb a szavazást megelőző harminchetedik napon kell bejelenteni.
 

@@ -6,4 +6,4 @@
 
 (4) A döntési javaslat elutasítása esetén az új döntési javaslat előkészítése érdekében a bizottság elnöke az ülést megszakíthatja, vagy a döntés elnapolását kezdeményezheti a döntés meghozatalára rendelkezésre álló határidőn belüli új időpontra. A döntés elnapolásáról szóló elnöki javaslatról a választási bizottság jegyzőkönyvbe foglalt döntést hoz.
 
-(5) A Nemzeti Választási Bizottságnak az országos nemzetiségi önkormányzat által megbízott tagja csak a nemzetiségeket érintő ügyekben rendelkezik szavazati joggal, egyéb ügyekben tanácskozási joggal vehet részt a Nemzeti Választási Bizottság ülésén.
+(5) A Nemzeti Választási Bizottságnak a 27. § (2) és (3) bekezdése alapján megbízott tagja nem rendelkezik szavazati joggal, a Nemzeti Választási Bizottság ülésén tanácskozási joggal vehet részt.
