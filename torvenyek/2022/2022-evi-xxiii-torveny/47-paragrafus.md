@@ -1,0 +1,3 @@
+47. § Az Nsztv. 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék döntésével szembeni alkotmányjogi panasz benyújtására rendelkezésre álló határidő eredménytelen elteltét, illetve az Alkotmánybíróság alkotmányjogi panaszt visszautasító vagy elutasító döntésének az Alkotmánybíróság Határozatai hivatalos lapban történő megjelenését – követő öt napon belül a helyi választási iroda vezetője hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát, és azt átadja a szervezőnek.”

@@ -1,0 +1,3 @@
+8. § A Ve. 30. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A szavazatszámláló bizottság, valamint az egy szavazókörös településen a helyi választási bizottság megbízott tagjának bejelentését személyesen a helyi választási iroda fekvése szerint illetékes országgyűlési egyéni választókerületi választási iroda vezetőjénél is be lehet nyújtani a (2) bekezdésben foglalt határidő lejártáig. A bejelentést az országgyűlési egyéni választókerületi választási iroda vezetője legkésőbb a benyújtást követő napon az érintett szavazatszámláló bizottság, helyi választási bizottság működési területe szerint illetékes helyi választási iroda vezetőjének továbbítja.”
