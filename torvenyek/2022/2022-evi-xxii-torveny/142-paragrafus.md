@@ -10,6 +10,6 @@
 
 3.
 
-4. 145. § (1) bekezdésében a „valamint” szövegrész helyébe az „a 146/J. §, valamint” szöveg
+4.
 
 lép.
