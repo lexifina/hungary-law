@@ -1,3 +1,1 @@
-49. § Az Nsztv. 69. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Nemzeti Választási Bizottság az országos népszavazás kitűzését követő öt munkanapon belül határozza meg, hogy a közszolgálati médiaszolgáltató lineáris médiaszolgáltatásaiban milyen időtartamban köteles közzétenni az (1) bekezdés szerinti jogosultak politikai reklámjait. A politikai reklámok közzétételére rendelkezésre álló időtartam népszavazásonként háromszáz perc, amelyet a jogosultak között egyenlő arányban kell felosztani. Ugyanazon kezdeményező – választópolgári kezdeményezés esetén ugyanazon szervező – által kezdeményezett több, azonos napra kitűzött népszavazás esetén a politikai reklámok közzétételére álló időtartam összesen háromszáz perc.”
+49. §

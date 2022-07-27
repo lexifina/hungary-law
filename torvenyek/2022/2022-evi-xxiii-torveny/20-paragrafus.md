@@ -1,3 +1,1 @@
-20. § A Ve. 137. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A jelölt kiesik, ha a magyarországi szavazás megkezdése előtt a központi névjegyzékből törlésre kerül, a választhatóság jogát elveszíti, vagy a jelöltet állító jelölő szervezetet törlik a jelölő szervezetek, jelöltek és listák nyilvántartásából. Kiesik továbbá a jelölt, ha a szavazást megelőző második nap 16 óráig a jelölésről – elektronikus azonosítást követően elektronikus úton, a nyilvántartásba vételről döntő választási bizottság mellett működő választási iroda részére személyesen vagy meghatalmazott útján benyújtott nyilatkozattal – írásban lemond. A kiesett jelölt nevét a jelölő szervezetek, jelöltek és listák nyilvántartásából, valamint az egyéni szavazólapokról törölni kell.”
+20. §
