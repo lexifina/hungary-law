@@ -24,7 +24,7 @@ a) a harmadik államban fennálló biztosítás igazolása a harmadik állam ill
 
 b) annak bizonyítása, hogy a harmadik államból kiküldött személy nem tartozik a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá, az erről szóló írásbeli nyilatkozat megtételével lehetséges.
 
-4. A 43. § (11) bekezdés szerinti tanulmányok folytatásának igazolására
+4. A 42. § (11) bekezdés szerinti tanulmányok folytatásának igazolására
 
 a) külföldi köznevelési intézmény esetében olyan munkanapokon végzett iskolarendszerű köznevelési tevékenység igazolása szükséges, ahol a tanulmányi követelmények teljesítéséhez pedagógus, szakképzés esetén pedagógus és gyakorlati oktató személyes közreműködését igénylő foglalkozások (tanítási óra, szakmai gyakorlat) szükségesek,
 
