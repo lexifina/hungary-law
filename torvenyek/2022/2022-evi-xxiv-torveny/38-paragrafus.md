@@ -1,9 +1,9 @@
 38. § Hatályát veszti a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény
 
-1. 2. § q) pontja,
+1.
 
 2. 3. § (12) bekezdése,
 
-3. 10/A. § (4) és (5) bekezdésében az „és q)” szövegrész, és
+3.
 
-4. 1. melléklet 1. pontja.
+4.

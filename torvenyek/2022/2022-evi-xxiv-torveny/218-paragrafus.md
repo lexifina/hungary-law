@@ -1,1 +1,1 @@
-218. § Hatályát veszti a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 27. § (6) bekezdés b) pontjában a „(naptári napokra)” szövegrész.
+### 218. §

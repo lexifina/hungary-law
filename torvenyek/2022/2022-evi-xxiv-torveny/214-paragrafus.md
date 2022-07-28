@@ -1,8 +1,8 @@
 214. § (1) Hatályát veszti a kormányzati igazgatásról szóló 2018. évi CXXV. törvény
 
-1. 37. § (6) és (7) bekezdése,
+1.
 
-2. 37. § (8) bekezdés b) pontja,
+2.
 
 3. 141. § (1) bekezdés d) pontja, és
 
@@ -10,9 +10,9 @@
 
 (2) Hatályát veszti a kormányzati igazgatásról szóló 2018. évi CXXV. törvény
 
-1. 37. § (8) bekezdés c) pontjában az „és helyettesének” szövegrész,
+1.
 
-2. 37. § (8) bekezdés d) pontjában az „és vezetőjének helyettese” szövegrész,
+2.
 
 3. 88. § (3) bekezdés a) pontjában az „az álláshelyi elismeréshez és” szövegrész,
 

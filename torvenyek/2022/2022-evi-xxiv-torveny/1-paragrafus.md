@@ -2,7 +2,7 @@
 
 1. § A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény a következő IV/B. Fejezettel egészül ki:
 
-„
+„IV/B. Fejezet
 
 Tiltott állami támogatásnak nem minősülő juttatás
 

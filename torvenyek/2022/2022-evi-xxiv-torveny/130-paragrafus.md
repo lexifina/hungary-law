@@ -14,15 +14,7 @@ miniszter, hogy)
 
 (rendeletben állapítsa meg.)
 
-(3) A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdés b) pontja a következő bj) alponttal egészül ki:
-
-(Felhatalmazást kap:
-
-miniszter, hogy)
-
-„bj) a 30/C. § (2) bekezdése szerinti költségeket, a költségek megfizetésének rendjét.”
-
-(rendeletben állapítsa meg.)
+(3)
 
 (4) A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3a) bekezdése a következő d) ponttal egészül ki:
 

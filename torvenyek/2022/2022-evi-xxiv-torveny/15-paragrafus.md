@@ -2,14 +2,14 @@
 
 1. 1. számú melléklete az 2. melléklet,
 
-2. 1. számú melléklete a 3. melléklet,
+2.
 
-3. 1. számú melléklete a 4. melléklet,
+3.
 
 4. 3. számú melléklete az 5. melléklet,
 
-5. 3. számú melléklete az 6. melléklet, és
+5.
 
-6. 11. számú melléklete a 7. melléklet
+6.
 
 szerint módosul.

@@ -1,3 +1,1 @@
-125. § A hulladékról szóló 2012. évi CLXXXV. törvény 30/C. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kiterjesztett gyártói felelősségi rendszerben működő gyártók, szervezetek a koncessziós társaság, illetve az önkormányzatok részére az (1) bekezdés miatti költségeiket évente a Hivatal tárgyévet követő év március 31. napjáig megküldött javaslatának, valamint a 47/A. § (1) bekezdés szerinti hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjak figyelembevételével a miniszter által tárgyévet követő év június 30. napjáig kihirdetett rendeletben meghatározott módon és mértékben megtérítik.”
+### 125. §

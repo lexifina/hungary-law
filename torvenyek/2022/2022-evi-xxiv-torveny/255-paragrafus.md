@@ -11,11 +11,3 @@
 (5) E törvény 200. §-a a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i (EU) 2015/2446 felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (6) E törvény 240–243. §-a az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
