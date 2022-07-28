@@ -2,23 +2,26 @@
 
 a) dönt az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről szóló NMHH rendelet szerint létrejött, a 1357-es hívószámon működő „Nemzeti Összefogás Vonala” adománygyűjtő vonalra (a továbbiakban: Adományvonal), továbbá az ahhoz tartozó számlára érkező adományok elosztásáról, koordinálja azok felhasználását,
 
-b)[^4] összehangolja a szervezeti tagok veszélyhelyzetben, egészségügyi válsághelyzetben vagy humanitárius katasztrófa esetében folyatott karitatív segítségnyújtását,
+b)[^5] összehangolja a szervezeti tagok veszélyhelyzetben vagy egészségügyi válsághelyzetben folyatott karitatív segítségnyújtását,
 
-c)[^5] figyelemmel kíséri a veszélyhelyzetben, egészségügyi válsághelyzetben vagy humanitárius katasztrófa esetében folytatott adományozási gyakorlatot.
+c)[^6] figyelemmel kíséri a veszélyhelyzetben vagy egészségügyi válsághelyzetben folytatott adományozási gyakorlatot.
 
-(2)[^6] A szervezeti tagok saját adománygyűjtő vonalainak működtetése az ülésszak kezdőnapján a Tanács döntése alapján felfüggesztésre kerül.
+(2)[^7] A szervezeti tagok saját adománygyűjtő vonalainak működtetése az ülésszak kezdőnapján a Tanács döntése alapján felfüggesztésre kerül.
 
-(3)[^7] A felfüggesztés
+(2a)[^8] Az 5. § (3) bekezdés b) vagy d) pontjában megállapított döntést követően a Tanács jogosult a felfüggesztésről – a folyamatban lévő ülésszak időtartama alatt – ismételten dönteni.
 
-a) a veszélyhelyzet megszűnéséig,
+(3)[^9] A felfüggesztés
 
-b) a Tanács döntése alapján a veszélyhelyzet megszűnését megelőző időpontig,
+a) a 2. § (2) bekezdés a) pontja szerinti esetben a veszélyhelyzet megszűnéséig,
 
-c) az egészségügyi válsághelyzet megszűnéséig vagy
+b) a Tanács döntése alapján – a 2. § (2) bekezdés a) pontja szerinti esetben – a veszélyhelyzet megszűnését megelőző időpontig,
 
-d) a 2. § (2) bekezdés c) pontja szerinti esetben a Tanácsnak az ülésszak megkezdésére okot adó humanitárius katasztrófa vagy annak magyarországi közvetlen hatása megszűnéséről szóló, a 2. § (3) bekezdése szerinti döntésének napjáig
+c) a 2. § (2) bekezdés b) pontja szerinti esetben az egészségügyi válsághelyzet megszűnéséig,
 
-[^4]: Az 5. § (1) bekezdés b) pontja a 629/2020. (XII. 22.) Korm. rendelet 12. § a) pontja, a 85/2022. (III. 5.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^5]: Az 5. § (1) bekezdés c) pontja a 629/2020. (XII. 22.) Korm. rendelet 12. § b) pontja, a 85/2022. (III. 5.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^6]: Az 5. § (2) bekezdése a 85/2022. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: Az 5. § (3) bekezdését a 629/2020. (XII. 22.) Korm. rendelet 7. §-a iktatta be, szövege a 85/2022. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+d) a Tanács döntése alapján – a 2. § (2) bekezdés b) pontja szerinti esetben – az egészségügyi válsághelyzet megszűnését megelőző időpontig
+
+[^5]: Az 5. § (1) bekezdés b) pontja a 629/2020. (XII. 22.) Korm. rendelet 12. § a) pontja, a 265/2022. (VII. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés c) pontja a 629/2020. (XII. 22.) Korm. rendelet 12. § b) pontja, a 265/2022. (VII. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 85/2022. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: Az 5. § (2a) bekezdését a 265/2022. (VII. 27.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^9]: Az 5. § (3) bekezdését a 629/2020. (XII. 22.) Korm. rendelet 7. §-a iktatta be, szövege a 265/2022. (VII. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

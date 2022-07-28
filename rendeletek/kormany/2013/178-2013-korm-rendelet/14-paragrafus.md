@@ -1,11 +1,6 @@
 ## 13. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-14. § (1) Az e rendelet hatálybalépését követő tíz napon belül a Tanács elnöke összehívja a Tanács alakuló ülését. Az alakuló ülésre a 2. § nem alkalmazható.
+14. §[^18] A Nemzeti Humanitárius Koordinációs Tanácsról szóló 178/2013. (VI. 4.) Korm. rendelet módosításáról szóló 265/2022. (VII. 27.) Korm. rendelet hatálybalépésekor[^19] a Tanács folyamatban lévő ülésszaka lezárását a Tanács határozza meg, azzal, hogy az ülésszak legfeljebb az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelettel kihirdetett veszélyhelyzet megszűnését követő hat hónapig tarthat.
 
-(2)[^16] Ha e rendelet hatálybalépésekor veszélyhelyzet, egészségügyi válsághelyzet vagy humanitárius katasztrófa áll fenn, a Tanács ülésszaka – a 2. §-ban foglaltaktól eltérően – a Tanács ülésének soron kívüli összehívásával kezdődik.
-
-(3)[^17] Ha a Nemzeti Humanitárius Koordinációs Tanácsról szóló 178/2013. (VI. 4.) Korm. rendelet módosításáról szóló 85/2022. (III. 5.) Korm. rendelet hatálybalépésekor[^18] veszélyhelyzet, egészségügyi válsághelyzet vagy humanitárius katasztrófa áll fenn, a Tanács ülésszaka – a 2. §-ban foglaltaktól eltérően – a Tanács ülésének soron kívüli összehívásával kezdődik.
-
-[^16]: A 14. § (2) bekezdése a 629/2020. (XII. 22.) Korm. rendelet 11. §-ával megállapított, a 85/2022. (III. 5.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^17]: A 14. § (3) bekezdését a 85/2022. (III. 5.) Korm. rendelet 3. §-a iktatta be.
-[^18]: A hatálybalépés időpontja 2022. március 6.
+[^18]: A 14. § a 265/2022. (VII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^19]: A hatálybalépés napja 2022. július 28.
