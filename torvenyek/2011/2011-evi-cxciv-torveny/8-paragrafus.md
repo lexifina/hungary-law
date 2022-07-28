@@ -10,7 +10,7 @@ b) a számvitelről szóló törvény (a továbbiakban: Szt.) szerinti hitelvisz
 
 c) váltó kibocsátása a kibocsátás napjától a beváltás napjáig, és annak a váltóval kiváltott kötelezettséggel megegyező, kamatot nem tartalmazó értéke,
 
-d) az Szt. szerint pénzügyi lízing lízingbevevői félként történő megkötése a lízing futamideje alatt, és a lízingszerződésben kikötött tőkerész hátralévő összege,
+d) a jogszabályban meghatározott pénzügyi lízing lízingbevevői félként történő megkötése a lízing futamideje alatt, és a lízingszerződésben kikötött tőkerész hátralévő összege,
 
 e) a visszavásárlási kötelezettség kikötésével megkötött adásvételi szerződés eladói félként történő megkötése – ideértve az Szt. szerinti valódi penziós és óvadéki repóügyleteket is – a visszavásárlásig, és a kikötött visszavásárlási ár,
 
