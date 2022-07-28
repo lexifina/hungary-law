@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-147-00-00
 | 2020-12-01 | 2020. évi CXVIII. törvény | 2012-147-00-00.33 |
 | 2021-01-01 | 2020. évi LXXVI. törvény | 2012-147-00-00.34 |
 | 2022-01-01 | 2021. évi LXXXIII. törvény | 2012-147-00-00.35 |
+| 2022-07-28 | 2022. évi XXIV. törvény | 2012-147-00-00.36 |

@@ -1,3 +1,3 @@
-## 20/A. Egyszerűsített vállalkozói adó
+## 20/A.
 
-28/A. § Az egyszerűsített vállalkozói adó hatálya alól a kisadózó vállalkozások tételes adójának hatálya alá bejelentkező adóalanyok esetében a 2. § 12. pontjában foglaltaktól eltérően nem kell a kisadózó vállalkozás bevételének tekinteni azt a bevételt, amelyet az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény alapján az egyszerűsített vállalkozói adó alapjának kell tekinteni. E bevételeket a kisadózó vállalkozás bevételi nyilvántartásában fel kell tüntetni azzal a külön bejegyzéssel, hogy e bevételek az egyszerűsített vállalkozói adó alapját képezik.
+### 28/A. §
