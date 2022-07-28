@@ -11,3 +11,5 @@ b) közigazgatási per esetén a bíróság az NFK-t perbe állítja.
 (4) A haszonélvezeti jogoknak a 108. § (1) bekezdésének 2014. április 30-án hatályos rendelkezése alapján történő törlése ellen kezdeményezett olyan bírósági eljárásban, amelyben a bíróság a Módtv.3. hatálybalépéséig meghozta a bírósági eljárást befejező jogerős érdemi határozatot, a bírósági eljárásban részt vevő törölt haszonélvező, illetve jogutódja az ezen alcím szerinti igényeit jogosult ezen alcím szerint érvényesíteni.
 
 (5) Az ezen alcím szerinti eljárásokban eljáró hatóságokat és bíróságokat a (4) bekezdés szerinti bírósági eljárásban hozott döntés és az azokban megállapított tényállás nem köti.
+
+(6) A (3) bekezdés a) pontja szerinti esetben a magyar államot a Nemzeti Földügyi Központ képviseli.

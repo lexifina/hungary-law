@@ -20,7 +20,7 @@ d) mindazon személy, akinek jogát vagy jogos érdekét az eljárás tárgya k�
 
 a) nem minősül jóhiszeműnek a (7) bekezdés szerinti valamelyik személy, és
 
-b) a (7) bekezdés szerinti jogi akadály nem áll fenn.
+b) a (8) bekezdés szerinti jogi akadály nem áll fenn.
 
 (7) Az ügyfelek közül nem minősül jóhiszeműnek az érintett ingatlan
 
