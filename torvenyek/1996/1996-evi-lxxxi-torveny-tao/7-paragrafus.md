@@ -50,7 +50,7 @@ ia) szakképzési munkaszerződés keretében duális képzőhelyen folytatott s
 
 ib) folytatott szakmai oktatáshoz kapcsolódó szakmai vizsga megszerzését követően az ia) alpont szerinti tanuló, illetve a képzésben részt vevő személy, a (3) bekezdésben meghatározott, korábban munkanélküli személy, a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személy, továbbá a pártfogó felügyelet hatálya alatt álló személy után a foglalkoztatásának ideje alatt, de legfeljebb 12 hónapon át befizetett szociális hozzájárulási adó, annak költségenkénti elszámolásán túl, azzal, hogy az adózó akkor járhat el e rendelkezés szerint, ha a korábban munkanélküli magánszemély alkalmazása óta, illetve azt megelőző hat hónapon belül azonos munkakörben foglalkoztatott más munkavállaló munkaviszonyát rendes felmondással nem szüntette meg, és a korábban munkanélküli magánszemély az alkalmazását megelőző hat hónapon belül nála nem állt munkaviszonyban,
 
-j)
+j) a tulajdoni részesedésnek a könyvekből történő kivezetésekor a megelőző adóévekben a 8. § (1) bekezdés w) pontja alapján az adózás előtti eredmény növeléseként elszámolt – az adóbevallásokkal és az azt alátámasztó kimutatásokkal igazolt – összegből az a rész, amellyel az adózó még nem csökkentette az adózás előtti eredményét,
 
 k) legfeljebb az adózás előtti nyereség összegéig
 

@@ -72,6 +72,8 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 v) a (6) bekezdésben, valamint a 7. § (19) bekezdésében foglaltakra is figyelemmel az átlagos állományi létszám előző adóévhez viszonyított csökkenése és a megelőző adóév első napján érvényes havi minimálbér adóévre számított összege szorzatának 20 százalékkal növelt összege, de legfeljebb a 7. § (1) bekezdés y) pontja alapján igénybevett kedvezmény 20 százalékkal növelt összege, azzal, hogy nem kell az igénybevett kedvezmény összegébe beszámítani a foglalkoztatottak átlagos állományi létszámának csökkenését megelőző negyedik adóévben vagy azt megelőzően az adózás előtti eredmény csökkentéseként figyelembe vett összeget.
 
+w) az adózó döntése szerint az adóévben a tulajdoni részesedésre az adóévi adózás előtti eredmény terhére elszámolt értékvesztés összege.
+
 (2) Az (1) bekezdés k) és l) pontjának alkalmazásában szokásos eredménynek
 
 a) részesedés átruházása, kivezetése esetén a részesedés bekerülési értéke 0,3 százalékának a tulajdonban tartás naptári napjaival megszorzott összegét,
