@@ -20,7 +20,7 @@
 
 (8) Az (5) bekezdés szerinti fejezetet irányító szerv a Kormány egyedi határozatával jóváhagyott kormányzati magasépítési beruházás előkészítéséhez vagy megvalósításához kapcsolódó kötelezettségvállalás teljesítéséhez a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
-(9) Az (5) bekezdés szerinti fejezetet irányító szerv a fejezet beruházási tartaléka és kiadási előirányzattal rendelkező beruházások költségvetési éven belül keletkező megtakarítása terhére a fejezeten belül átcsoportosíthat az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
+(9) Az (5) bekezdés szerinti fejezetet irányító szerv – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – a fejezet beruházási tartaléka és kiadási előirányzattal rendelkező beruházások költségvetési éven belül keletkező megtakarítása terhére a fejezeten belül átcsoportosíthat az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
 (10) Az (5) bekezdés szerinti fejezetbe sorolt beruházások kiadási előirányzatait az egyes beruházásokhoz kapcsolódó kötelezettségvállalások teljesítése érdekében – a (9) bekezdés szerinti átcsoportosítási lehetőség hiányában – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
 
