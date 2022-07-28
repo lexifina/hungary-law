@@ -6,7 +6,7 @@
 
 (3) Az ösztöndíjas jogviszony beszámít
 
-a) az álláshelyi elismeréshez és a szolgálati elismeréshez szükséges időtartamba,
+a) a szolgálati elismeréshez szükséges időtartamba,
 
 b) a közigazgatási szakvizsgához szükséges gyakorlati időbe, valamint
 

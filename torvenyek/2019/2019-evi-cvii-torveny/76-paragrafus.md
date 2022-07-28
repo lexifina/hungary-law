@@ -8,7 +8,7 @@ b) teljesítményelismerés,
 
 c) motivációs elismerés,
 
-d) álláshelyi elismerés,
+d)
 
 e) szolgálati elismerés.
 

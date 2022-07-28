@@ -120,7 +120,7 @@
 
 ## 15. célprémiumra vonatkozó információk
 
-## 16. érdemek elismerésére vonatkozó információk (írásbeli dicséret, teljesítményelismerés, motivációs elismerés, álláshelyi elismerés, szolgálati elismerés)
+## 16. érdemek elismerésére vonatkozó információk (írásbeli dicséret, teljesítményelismerés, motivációs elismerés, szolgálati elismerés)
 
 ## 17. egyéb juttatásra vonatkozó adatok (cafetéria, lakhatási jellegű támogatás, szociális, képzés és tanulmányi támogatás)
 
