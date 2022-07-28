@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-100-00-00
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 2012-100-00-00.52 |
 | 2022-04-01 | 2021. évi CXXXIV. törvény | 2012-100-00-00.53 |
 | 2022-06-01 | 2022. évi V. törvény | 2012-100-00-00.54 |
+| 2022-07-28 | 2022. évi XXIV. törvény | 2012-100-00-00.55 |

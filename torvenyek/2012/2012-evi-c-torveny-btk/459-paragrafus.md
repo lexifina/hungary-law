@@ -52,7 +52,7 @@ b) az országgyűlési képviselő, a nemzetiségi szószóló és a Magyarorsz�
 
 c) az alkotmánybíró,
 
-d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár és a kormánymegbízott,
+d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár és a főispán,
 
 e) a bíró, az ügyész és a választottbíró,
 
