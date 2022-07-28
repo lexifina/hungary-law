@@ -1,0 +1,3 @@
+129. § A hulladékról szóló 2012. évi CLXXXV. törvény 28. alcíme a következő 66/A. §-sal egészül ki:
+
+„66/A. § A kiterjesztett gyártói felelősségi rendszerrel kapcsolatos adatszolgáltatási és nyilvántartási kötelezettség teljesítéséről kormányrendeletben meghatározott módon és adattartalommal a gyártó, a koncessziós társaság és a koncesszori alvállalkozó gondoskodik. A koncessziós társaság, az állami adó- és vámhatóság, a hulladékgazdálkodási hatóság és a Hivatal a gyártóknak a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termékekkel, és az azokból származó hulladékokkal kapcsolatos adatait kezeli.”

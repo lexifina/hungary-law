@@ -1,0 +1,5 @@
+## 30. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
+
+73. § A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 18. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az öregségi nyugdíj (1) vagy (2) bekezdés szerinti folyósítása esetén a nyugdíjas a nyugdíjmegállapító szervtől kérheti az öregségi nyugdíj összegének ismételt megállapítását, ha legalább 365 nap szolgálati időt szerzett, mialatt korhatár előtti ellátásban vagy szolgálati járandóságban részesült. A kérelemre a nyugdíjmegállapító szerv az öregségi nyugdíjkorhatár betöltésének napjától kezdődően az öregségi nyugdíjat ismételten megállapítja, ha az így megállapított öregségi nyugdíj magasabb az (1), illetve (2) bekezdés szerint folyósított összegnél. Az öregségi nyugdíj ismételt megállapítása esetén a különbözet visszamenőlegesen – legfeljebb a kérelem benyújtását megelőző hat hónapra – járó összegét is folyósítani kell.”

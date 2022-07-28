@@ -1,0 +1,1 @@
+74. § A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 7. § (1) bekezdés c) pontjában az „aki” szövegrész helyébe az „aki legalább 15 év szolgálati időt szerzett, és” szöveg lép.

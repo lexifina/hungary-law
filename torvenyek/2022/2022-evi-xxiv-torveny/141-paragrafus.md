@@ -1,0 +1,1 @@
+141. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 108/F. § (6) bekezdés b) pontjában a „(7)” szövegrész helyébe a „(8)” szöveg lép.

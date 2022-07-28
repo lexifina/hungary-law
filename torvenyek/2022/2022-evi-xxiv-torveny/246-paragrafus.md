@@ -1,0 +1,1 @@
+246. § Az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvény 8. §-ában a „(3) és (4)” szövegrész helyébe a „(3)–(4)” szöveg lép.

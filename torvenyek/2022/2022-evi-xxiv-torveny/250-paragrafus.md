@@ -1,0 +1,3 @@
+## 78. A nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő szabályok
+
+250. § Az e-közigazgatással, az informatikával, az e-közigazgatási és informatikai fejlesztések egységesítésével, a kormányzati célú elektronikus hírközlési tevékenységgel, valamint a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításával kapcsolatos állami feladatok ellátására a Kormány e törvény végrehajtására kiadott rendeletében gazdasági társaságot (a továbbiakban: Társaság) jelölhet ki, amely feladatkörében – mint kezelő szerv – közszolgáltatási szerződés megkötésére, támogatási jogviszony létesítésére, egyéb finanszírozási jogviszony kialakítására önállóan jogosult.

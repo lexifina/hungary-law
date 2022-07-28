@@ -1,0 +1,3 @@
+171. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 58. §-a a következő (19) bekezdéssel egészül ki:
+
+„(19) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 44. § (3a) bekezdésében foglaltaktól eltérően a Kormány által alapított és a Kormány kijelölése alapján a külpolitikáért felelős miniszter alapítói joggyakorlása alatt álló közalapítványnál a képzési program keretében, illetve a képzés részeként az Nftv. 44. § (1) bekezdés a) pontja szerint megszervezett szakmai gyakorlatra – ide nem értve a duális képzést – hallgatói munkaszerződés és díjazás nélkül is sor kerülhet.”

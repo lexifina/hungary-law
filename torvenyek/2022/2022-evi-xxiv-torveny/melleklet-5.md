@@ -1,0 +1,7 @@
+5. melléklet a 2022. évi XXIV. törvényhez
+
+A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. számú melléklet II. Igazolás nélkül, költségként elszámolható tételek fejezet 9. pontja helyébe a következő rendelkezés lép:
+
+(Igazolás nélkül, költségként elszámolható tételek a következők:)
+
+„9. a külképviseletekről és a tartós külszolgálatról szóló törvény szerint tartós külszolgálatra kihelyezett magánszemély, a kormányzati igazgatásról szóló törvény szerint európai uniós vagy nemzetközi szervezetnél foglalkoztatott nemzeti szakértő, és a honvédek jogállásáról szóló törvény hatálya alatt álló tartós külföldi szolgálatra kihelyezett szolgálati jogviszonyban álló személy, valamint a honvédelmi alkalmazottak jogállásáról szóló törvény hatálya alatt álló 90 napot meghaladó külföldi kiküldetést teljesítő, a Magyar Honvédség személyi állományába tartozó, honvédelmi alkalmazotti jogviszonyban álló személy részére a saját és hozzátartozói külföldi életvitelével kapcsolatban felmerülő többletköltségek fedezetére a vonatkozó törvény, a végrehajtására kiadott, más jogszabály alapján megállapított átalány-költségtérítés, illetve nemzeti szakértői díjazás költségtérítési része, valamint a külképviseletekről és a tartós külszolgálatról szóló törvény szerint tartós külszolgálatra kihelyezettet megillető egyszeri költözési költségtérítés, illetve kormányzati igazgatásról szóló törvény szerinti nemzeti szakértőt megillető egyszeri költözési, illetve hazautazási költségtérítés összege.”
