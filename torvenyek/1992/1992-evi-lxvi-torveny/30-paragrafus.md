@@ -8,6 +8,6 @@
 
 a) a nyilvántartást kezelő szervnél a szerv vezetője,
 
-b) a fővárosi és megyei kormányhivatalnál a kormánymegbízott
+b) a fővárosi és megyei kormányhivatalnál a főispán
 
 adatvédelmi tisztviselőt nevez ki.
