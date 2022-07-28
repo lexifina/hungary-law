@@ -8,7 +8,7 @@
 
 (4) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa az egyes iparjogvédelmi beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokat.
 
-(4a) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa a Hamisítás Elleni Nemzeti Testület szervezetének és működésének szabályait.
+(4a)
 
 (4b) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a 115/E. § (7) bekezdése szerinti gazdasági társaságot és megállapítsa a feladatellátás és a szolgáltatások igénybevételének szabályait.
 

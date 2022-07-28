@@ -8,7 +8,7 @@ c) közreműködik a szellemi alkotások és az innovációs eredmények társad
 
 d) terjeszti a szellemi tulajdon védelmével kapcsolatos ismereteket, fejleszti az iparjogvédelmi és a szerzői jogi kultúrát; tájékoztatással, ügyfélszolgálattal, szaktanácsadással és más eszközökkel gyarapítja a vállalkozások – különösen a kis- és középvállalkozások – iparjogvédelmi és szerzői jogi ismereteit, előmozdítja körükben a szellemi tulajdonjogok tiszteletben tartását;
 
-e) külön jogszabály alapján működteti a Hamisítás Elleni Nemzeti Testületet, emellett egyéb módon is közreműködik a szellemi tulajdonjogok hatékony érvényesítéséhez szükséges feltételrendszer kialakításában és továbbfejlesztésében;
+e)
 
 f) szakmailag felügyeli a szellemi tulajdonnal kapcsolatos – iskolarendszeren kívüli – képzést, működteti annak rendszerét, továbbá gondoskodik az iparjogvédelmi szakvizsgák és a szabadalmi ügyvivői vizsgák megszervezéséről;
 
