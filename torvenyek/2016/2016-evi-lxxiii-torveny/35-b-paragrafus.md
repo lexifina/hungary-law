@@ -1,1 +1,1 @@
-35/B. § A 35. § alapján nyújtott támogatás, adomány és más ellenérték nélküli kötelezettségvállalás esetében az államháztartásról szóló 2011. évi CXCV. törvény 55. §-át nem kell alkalmazni.
+35/B. § A 35. §, az 55. § és az 56/B. § (14) bekezdése alapján nyújtott támogatás, adomány és más ellenérték nélküli kötelezettségvállalás esetében az államháztartásról szóló 2011. évi CXCV. törvény 55. §-át nem kell alkalmazni.

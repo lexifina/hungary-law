@@ -11,3 +11,5 @@
 a) rendeletben határozza meg a devizailletmény, valamint a költségtérítés számításának e törvényben nem rendezett részletes szabályait, valamint
 
 b) szükség szerint, de legalább évente felülvizsgálja az egyes külképviseletek külpolitikai viszonyrendszerben elfoglalt helye, továbbá életminőség szerinti besorolását, és ennek alapján a devizailletmény és a költségtérítés mértékét.
+
+(3) A kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter a (2) bekezdés b) pontja szerinti felülvizsgálattal egyidejűleg szükség szerint, de legalább évente felülvizsgálja a kulturális intézeteket a kulturális diplomáciai viszonyrendszerben elfoglalt helye szerint, és javaslatot tesz a külpolitikáért felelős miniszter részére.

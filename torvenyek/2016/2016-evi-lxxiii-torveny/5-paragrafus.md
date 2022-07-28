@@ -8,6 +8,6 @@ c) az állandó ügyvivő, valamint
 
 d) a kereskedelmi képviselet-vezető
 
-e) a kulturális intézet igazgatója
+e)
 
 (a továbbiakban együtt: külképviselet-vezető) látja el.

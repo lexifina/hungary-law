@@ -1,6 +1,6 @@
 11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja.
 
-(1a) A kulturális intézet igazgatója és a kulturális intézetben tartós külszolgálatot teljesítő diplomata szakmai felkészítése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter bevonásával történik.
+(1a) A kulturális intézet igazgatója (a továbbiakban: intézetigazgató) és a kulturális diplomata szakmai felkészítése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter bevonásával történik.
 
 (1b) Az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.
 
@@ -56,4 +56,4 @@ pótszabadságra jogosult.
 
 (6) A diplomata irányítását a külképviselet-vezető útján – a szakdiplomata tekintetében a szakminiszter feladat- és hatáskörébe tartozó kérdésben a szakminiszterrel egyeztetve – a kihelyező szerv vezetője végzi.
 
-(7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a szakdiplomata jelölésére jogosult, feladat- és hatáskörében érintett miniszter, illetve a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vezetője (a továbbiakban együtt: szakminiszter) által vezetett központi kormányzati igazgatási szerv (a továbbiakban együtt: szaktárca) közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.
+(7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a szakdiplomata jelölésére jogosult, feladat- és hatáskörében érintett miniszter (a továbbiakban: szakminiszter) által vezetett minisztérium (a továbbiakban: szaktárca) közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.

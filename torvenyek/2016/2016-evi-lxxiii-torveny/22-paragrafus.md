@@ -24,13 +24,19 @@ i) egyéb jogosultságait és kötelezettségeit, valamint
 
 j) tartós külszolgálata ellátásával kapcsolatos egyéb feltételeket.
 
+(2a) A kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe történő tartós külszolgálati kihelyezés esetén a kihelyező okiratnak – a (2) bekezdésben foglaltakon túlmenően – tartalmaznia kell:
+
+a) a külképviselet mellett a kulturális intézet hivatalos megnevezését, valamint
+
+b) a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakör esetén e ténynek a rögzítését.
+
 (3) A kihelyező szerv a kihelyezettet a kihelyezés megszűnéséről vagy megszüntetéséről okiratban értesíti. A kihelyezés megszűnéséről vagy megszüntetéséről szóló értesítő okiratnak (a továbbiakban: értesítő okirat) tartalmaznia kell
 
 a) a kihelyezés megszűnésének vagy megszüntetésének napját,
 
 b) a hazautazással kapcsolatos kötelezettségeket.
 
-(4) A kihelyezett munkaköri leírása kiadásának rendjét a kihelyező vezető normatív utasításban határozza meg.
+(4) A kihelyezett munkaköri leírása kiadásának rendjét a kihelyező vezető normatív utasításban határozza meg azzal, hogy a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő munkaköri leírását – a kihelyező vezető útján – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter adja ki.
 
 (5)
 
@@ -46,6 +52,6 @@ c) rangemelésben részesül,
 
 d) személyi adatai módosulnak.
 
-e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre.
+e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre, vagy tartós külszolgálati munkaköre kiegészítésre kerül további külszolgálati munkakörrel, illetve kiegészítő feladatkörrel.
 
 (8) A (7) bekezdés e) pontja szerinti egyoldalú kihelyező okirat módosítás esetén a hivatali érdeket a 2. § 7. pontjára figyelemmel kell megállapítani.

@@ -12,7 +12,7 @@ d) az egységes külképviseleti rendszer adminisztratív-technikai működésé
 
 e) a vendégoktatói ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének
 
-f) a kulturális intézet irányításának
+f) a kulturális intézetek működése és irányítása, a kulturális diplomaták feladatellátási és a kulturális intézetek tekintetében a külpolitikáért felelős miniszter által vezetett minisztérium és a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium közötti feladatmegosztás és együttműködés, valamint az ehhez tartozó költségvetés tervezés, -végrehajtás és -beszámolás rendjének
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -50,7 +50,7 @@ o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
 p) a külügyi szakmai vizsga,
 
-q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági és pszichológiai alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének
+q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének
 
 r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének,
 
@@ -94,24 +94,4 @@ részletes szabályait rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – az 57/B. § (4) bekezdése szerinti egészségügyi ellátás igénybevételének részletes szabályait rendeletben állapítsa meg.
 
-(7) Felhatalmazást kap a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, hogy a külföldi magyar kulturális intézetek tekintetében
-
-a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
-
-b) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
-
-c) a kulturális intézet kulturális diplomáciai viszonyrendszerben elfoglalt helye, az élhetőség szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
-
-d) a költségtérítés-szorzók,
-
-e) a pályáztatás,
-
-f) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmények,
-
-g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
-
-h) a kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
-
-i) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
-
-részletes szabályait rendeletben állapítsa meg.
+(7) Felhatalmazást kap a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, hogy a kulturális diplomaták tekintetében a szakmai felkészítés részletes szabályait rendeletben állapítsa meg.

@@ -32,7 +32,7 @@ szorzata alapján kerül meghatározásra.
 
 (7) A deviza-illetményalap összegét évente a központi költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi deviza-illetményalap.
 
-(8) Az egyes állomáshelyek tekintetében a következő költségvetési évre vonatkozó deviza-alapilletményt a külpolitikáért felelős miniszter a költségvetési törvény elfogadásától számított 45 napon belül rendeletben határozza meg, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével.
+(8) Az egyes állomáshelyek tekintetében a következő költségvetési évre vonatkozó deviza-alapilletményt a külpolitikáért felelős miniszter a költségvetési törvény elfogadásától számított 45 napon belül rendeletben határozza meg, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével, azzal, hogy azon külképviseletek esetében, ahol kulturális intézet működik, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter kezdeményezésére a külképviselet kulturális intézetének a kulturális diplomáciai viszonyrendszerben elfoglalt helyének a figyelembe vételével a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő tekintetében alkalmazható, a kulturális intézettel rendelkező képviseletek állomáshelyére vonatkozó egyedi deviza-alapilletmény is megállapítható a rendeletben.
 
 (9) A kihelyező szerv – a kihelyezett kérelmére – a külpolitikáért felelős miniszter által megállapított rendelet szerinti mértékben és feltételekkel, kamatmentes devizailletmény- és költségtérítés-előleget nyújt.
 

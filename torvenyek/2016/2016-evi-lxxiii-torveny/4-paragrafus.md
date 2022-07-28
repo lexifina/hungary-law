@@ -2,7 +2,7 @@
 
 a) a külképviselet vezetője,
 
-b) a diplomáciai és hivatásos konzuli személyzet tagjai,
+b) a diplomáciai, a kulturális diplomáciai és hivatásos konzuli személyzet tagjai,
 
 c) a szakdiplomáciai személyzet tagjai,
 

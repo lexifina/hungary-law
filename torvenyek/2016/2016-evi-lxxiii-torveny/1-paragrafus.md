@@ -14,7 +14,7 @@ c) a 4. § és 9. § tekintetében a külképviselet által foglalkoztatott munk
 
 d) a 4. § és 9/A. § tekintetében a külképviselet által foglalkoztatott házastársra,
 
-e) a 13. § (1) és (6) bekezdése tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, illetve a minisztériummal jogviszonyban nem álló személyekre, a 10. § (1) bekezdése, illetve az 58. § (13) bekezdése tekintetében a kihelyező szervnél kormányzati szolgálati, politikai szolgálati és munkaviszonyban álló foglalkoztatottakra, valamint a 10. § (1) bekezdése szerinti kihelyező szervnél foglalkoztatott munkavállalókra,
+e) a 10. § (1a) bekezdése, a 13. § (1) és (6) bekezdése, az 56/C. § (1a) bekezdése és az 58. § tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, illetve a minisztériummal jogviszonyban nem álló személyekre, a 10. § (1) bekezdése, illetve az 58. § (13) bekezdése tekintetében a kihelyező szervnél kormányzati szolgálati, politikai szolgálati és munkaviszonyban álló foglalkoztatottakra, valamint a 10. § (1) bekezdése szerinti kihelyező szervnél foglalkoztatott munkavállalókra,
 
 f) a 35/C. § tekintetében a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult kormányzati szolgálati, politikai szolgálati és munkaviszonyban álló foglalkoztatottakra,
 

@@ -4,4 +4,4 @@
 
 (2) A szaktárcától a kihelyező szerv állományába határozott időre áthelyezett kormánytisztviselő esetében az első rang adományozására – a külpolitikáért felelős miniszter a rangadományozás és a ranghasználat részletes szabályairól szóló rendeletében foglaltak alapján – a szakminiszter tesz javaslatot.
 
-(3) A diplomata rangját, valamint a kihelyezés időpontját – szakdiplomata esetén a szakminiszter javaslata alapján a külpolitikáért felelős miniszter által rendeletben meghatározott kereteken belül – a kihelyező vezető állapítja meg.
+(3) A diplomata rangját, valamint a kihelyezés időpontját – szakdiplomata esetén a szakminiszter, kulturális diplomata esetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter javaslata alapján a külpolitikáért felelős miniszter által rendeletben meghatározott kereteken belül – a kihelyező vezető állapítja meg.
