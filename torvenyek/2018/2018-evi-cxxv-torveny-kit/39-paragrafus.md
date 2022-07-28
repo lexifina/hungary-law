@@ -4,7 +4,7 @@
 
 ### 39. § [A kormányhivatal szervezete]
 
-(1) A kormányhivatal a kormánymegbízott által közvetlenül vezetett szervezeti egységekből és járási hivatalokból áll.
+(1) A kormányhivatal a főispán által közvetlenül vezetett szervezeti egységekből és járási hivatalokból áll.
 
 (2) A járási hivatal a jogszabályban megállapított hatáskörét önállóan gyakorolja. A járási hivatal egyedi ügyében a kormányhivatal utasítási joggal nem rendelkezik.
 

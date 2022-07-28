@@ -16,6 +16,8 @@
 
 (6) Az MKK legfőbb képviseleti, döntéshozó szerve az Országos Küldöttgyűlés.
 
+(6a) Az MKK legfőbb képviseleti szerve tagjainak és az MKK tisztségviselőinek általános választását nem lehet az országgyűlési képviselők általános választásának évére kitűzni.
+
 (7) Az MKK legfőbb ügyintézői testülete az Országos Elnökség (a továbbiakban: Elnökség).
 
 (8) Az Elnökség tagjai:

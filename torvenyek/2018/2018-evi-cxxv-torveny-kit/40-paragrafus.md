@@ -4,7 +4,7 @@
 
 (2) Kormányrendeletben foglaltak szerint a kormányhivatal tekintetében a szakmai irányításban közreműködhet az a miniszter, aki – törvény vagy kormányrendelet eltérő rendelkezése hiányában – a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet alapján az adott feladatkörrel rendelkezik (a továbbiakban: szakmai irányító miniszter).
 
-(3) A kormányhivatal tekintetében – a kormányhivatal alapítása, a kormánymegbízott kinevezése és felmentése kivételével – a Ksztv. 2. § (1) bekezdésében meghatározott hatásköröket, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott jogköröket a kormányhivatal irányítására kormányrendeletben kijelölt miniszter gyakorolja.
+(3) A kormányhivatal tekintetében – a kormányhivatal alapítása, a főispán kinevezése és felmentése kivételével – a Ksztv. 2. § (1) bekezdésében meghatározott hatásköröket, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott jogköröket a kormányhivatal irányítására kormányrendeletben kijelölt miniszter gyakorolja.
 
 (4) Kormányrendelet rendelkezhet úgy, hogy
 

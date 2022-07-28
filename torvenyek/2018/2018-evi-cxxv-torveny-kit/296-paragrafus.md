@@ -24,4 +24,4 @@ figyelembe kell venni.
 
 (9) A tisztségviselő 2020-ban a cafetériajuttatás 2020. április 1-jétől 2020. december 31-ig terjedő időarányos részére jogosult.
 
-(10) A tisztségviselő szolgálati elismerésre és végkielégítésre a 2020. január 1. és 2020. április 1. közötti időszakban a 2019. december 31-én hatályos szabályzás szerint jogosult. Az álláshelyi elismerésre jogosító idő kezdő időpontja a (4) bekezdésben meghatározott időpont.
+(10) A tisztségviselő szolgálati elismerésre és végkielégítésre a 2020. január 1. és 2020. április 1. közötti időszakban a 2019. december 31-én hatályos szabályzás szerint jogosult.

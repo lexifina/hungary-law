@@ -1,6 +1,6 @@
-### 209. § [A kormánymegbízott megbízatásának megszűnése]
+### 209. § [A főispán megbízatásának megszűnése]
 
-(1) A kormánymegbízott megbízatása megszűnik:
+(1) A főispán megbízatása megszűnik:
 
 a) a miniszterelnök megbízatásának megszűnésével,
 
@@ -16,4 +16,4 @@ f) összeférhetetlenségének megállapításával,
 
 g) közös megegyezéssel.
 
-(2) Ha a kormánymegbízott megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
+(2) Ha a főispán megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.

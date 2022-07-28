@@ -6,7 +6,7 @@ a) végkielégítésre,
 
 b) felmentési időre,
 
-c) álláshelyi és szolgálati elismerésre
+c) szolgálati elismerésre
 
 nem jogosult.
 

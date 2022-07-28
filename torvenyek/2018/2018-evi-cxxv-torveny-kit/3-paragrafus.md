@@ -28,7 +28,7 @@ c) a miniszterelnök politikai igazgatója és
 
 d) az államtitkár.
 
-(4) Politikai vezető a kormánymegbízott.
+(4) Politikai vezető a főispán.
 
 (5) Biztosi jogviszonyban áll:
 

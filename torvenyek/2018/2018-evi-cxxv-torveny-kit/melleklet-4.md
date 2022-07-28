@@ -116,7 +116,7 @@
 
 ## 15. céljuttatásra, célprémiumra vonatkozó információk
 
-## 16. érdemek elismerésére vonatkozó információk (írásbeli dicséret, miniszteri elismerés, teljesítmény elismerés, motivációs elismerés, álláshelyi elismerés, szolgálati elismerés)
+## 16. érdemek elismerésére vonatkozó információk (írásbeli dicséret, miniszteri elismerés, teljesítmény elismerés, motivációs elismerés, szolgálati elismerés)
 
 ## 17. egyéb juttatásra vonatkozó adatok (cafetéria, lakhatási jellegű támogatás, szociális, képzés és tanulmányi támogatás)
 
@@ -215,5 +215,3 @@ A toborzási adatbázis adatköre
 ## 3. betöltött feladatkör
 
 ## 4. időtartam
-
-## III.
