@@ -10,6 +10,8 @@ a) az éves minimálbér felét az adóévben meg nem haladó őstermelői tevé
 
 b) az éves minimálbér ötszörösét az adóévben meg nem haladó őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező, átalányadózást választó mezőgazdasági őstermelő.
 
+(3a) Amennyiben a mezőgazdasági őstermelő biztosítotti jogállása nem áll fenn az egész évben, akkor a (3) bekezdés alapján tárgyévre megállapított adóalapot csökkenti a biztosítotti jogállás időszakára fennálló szociális hozzájárulási adó kötelezettség alapja.
+
 (4) Amennyiben az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő e jogállással nem rendelkezik az adóév minden napján, vagy más okból nem minősül az adó alanyának az adóév minden napján, akkor az adó alapja
 
 a) az (1) bekezdés szerint adófizetésre kötelezett őstermelő esetében az összevont adóalapba tartozó őstermelői tevékenységből származó jövedelme, de legalább az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében havonta vállalt összeg harmincad része,
@@ -35,3 +37,5 @@ a) az adóalapot az (1) bekezdés szerint megállapító mezőgazdasági ősterm
 b) az adóalapot a (2) bekezdés szerint megállapító mezőgazdasági őstermelő esetében a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg
 
 harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fennáll.
+
+(7) Az adóévben a Tbj. szerint saját jogú nyugdíjassá váló mezőgazdasági őstermelő az adó alapjának megállapítása során nem veszi figyelembe az e § rendelkezései szerint a tárgyévre megállapított adóalapjának a nyugdíjfolyósítás kezdő napját követő időszakra arányosan jutó részét.

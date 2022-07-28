@@ -24,7 +24,7 @@ d) az a)–c) pont szerinti jogviszonya megszűnését követően diákigazolvá
 
 7. külföldi kifizető: a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel nem rendelkező személy;
 
-8. Külföldi kiküldetés esetén alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér;
+8.
 
 9. mezőgazdasági őstermelő: az Szja tv. szerint mezőgazdasági őstermelőnek minősülő természetes személy;
 
