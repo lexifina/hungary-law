@@ -2,7 +2,7 @@
 
 125/B. § (1) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló meghatározott cselekmény végrehajtását az állami adó- és vámhatóság az I–XI. Fejezet rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja.
 
-(2) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkereséshez a behajtást kérő csatolja a végrehajtható határozatot vagy jogszabályban meghatározottak szerint a határozat záradékkal ellátott rendelkező részét, határozat hiányában a kötelezettséget megalapozó közokiratot.
+(2) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkereséshez a behajtást kérő csatolja a végrehajtható határozatot vagy jogszabályban meghatározottak szerint a határozat záradékkal ellátott rendelkező részét, határozat hiányában a kötelezettséget megalapozó közokiratot. A megkeresés vonatkozásában ezen alcím rendelkezésein túl a 106. § (6) és (7) bekezdését is alkalmazni kell.
 
 (3) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló meghatározott cselekmények végrehajtására a 125/A. § (6)–(7) bekezdése alkalmazandó.
 

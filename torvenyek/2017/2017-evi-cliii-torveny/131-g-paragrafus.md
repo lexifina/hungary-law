@@ -1,0 +1,1 @@
+131/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény által megállapított 69/A. §-át, a 122. § (1) bekezdését és a 125/B. § (2) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
