@@ -94,9 +94,9 @@ cc) megfelel a 2. mellékletben meghatározott követelményeknek;
 
 35. színházi tűzfegyver: a kifejezetten vaktöltény működtetésére készült, az 1. mellékletben meghatározott „A” vagy „B” kategóriába tartozó tűzfegyver, amelynek csövét (forgódobját) úgy alakították át, hogy az a fegyverhez eredetileg használható lőszer befogadására nem alkalmas, illetve a csőben elhelyezett szűkítések megakadályozzák űrméretes lövedékek kilövését, továbbá a rendeltetésszerűen csak gáztöltény vagy riasztótöltény működtetésére alkalmas, szilárd anyagú lövedék kilövésére alkalmatlan olyan eszköz, amelynek a színházi fegyverként történő tartását engedélyezték vagy amelyet színházi és hagyományőrző használati célra kívánnak használni;
 
-36. átadás: amikor a tartásra jogosító hatósági engedélyben megjelölt eszköz a tartására jogosult felügyelete alól kikerül;
+36. átadás: amikor a tartásra jogosító hatósági engedélyben megjelölt vagy a jogszabályban e célból kijelölt eszköz a tartására jogosult felügyelete alól kikerül;
 
-37. átengedés: amikor a tartásra jogosító hatósági engedélyben megjelölt eszközt a tartására jogosult felügyelete alatt használják vagy birtokolják;
+37. átengedés: amikor a tartásra jogosító hatósági engedélyben megjelölt vagy a jogszabályban e célból kijelölt eszközt a tartására jogosult felügyelete alatt használják vagy birtokolják;
 
 38. fegyver: a lőfegyver, a gáz- és riasztófegyver, a légfegyver, a festéklövő fegyver, a muzeális fegyver, valamint a színházi lőfegyver;
 
