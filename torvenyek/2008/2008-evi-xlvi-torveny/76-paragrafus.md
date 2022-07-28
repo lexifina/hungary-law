@@ -14,6 +14,8 @@ bc) az élelmiszer eredetű megbetegedések esetén követendő hatósági eljá
 
 bd) az élelmiszerekkel kapcsolatos tápanyag-összetétel és egészségre vonatkozó állítások bejelentésére, módosítására, továbbá a tápértékjelölés esetén követendő hatósági eljárásra
 
+be) a mezőgazdasági termékek és élelmiszerek hagyományos különleges termék elnevezésének bejegyzési, törlési, termékleírás módosítási eljárására, valamint az ilyen elnevezéssel ellátott termékek ellenőrzésére és az ellenőrzés alapján hozható intézkedésekre;
+
 vonatkozó előírásokat;
 
 c) határozza meg a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény összeállításának, közzétételének szabályait, az élelmiszerkönyvi és a takarmánykódex-irányelvek kiadásának rendjét, továbbá jelölje ki a gondozásukat, valamint a FAO/WHO Codex Alimentarius Bizottság munkájában való magyar részvétel szakmai irányítását végző szervet;
@@ -92,7 +94,7 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 25. a nem állami laboratóriumok engedélyezésének, nyilvántartásba vételének és működésének részletes szabályait;
 
-26. az élelmiszer-előállítás, -tárolás, továbbá -szállítás szabályait;
+26. az élelmiszer-előállítás, -jelölés, -tárolás, továbbá -szállítás szabályait;
 
 27. az élelmiszer-adalékanyagok, enzimek, aromák felhasználásának egyes szabályait;
 
@@ -154,7 +156,7 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 56. a diagnosztikai kilövés során használható eszközök körét.
 
-(3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
+(3)
 
 (4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
@@ -174,7 +176,7 @@ c) a kereskedelemért felelős miniszterrel egyetértésben az élelmiszerek for
 
 d) a vendéglátásért, valamint a kereskedelemért felelős miniszterrel egyetértésben a vendéglátó-ipari termékek forgalomba hozatalának szabályait;
 
-e) a fogyasztóvédelemért felelős miniszterrel egyetértésben a hagyományos különleges terméknek minősülő mezőgazdasági termékek és élelmiszerek elismerésének és ellenőrzésének rendjét;
+e)
 
 f) a hulladékgazdálkodásért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
 

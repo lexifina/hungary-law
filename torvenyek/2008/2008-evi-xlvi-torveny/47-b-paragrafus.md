@@ -14,7 +14,7 @@ d) a 35. és 36. § szerint nyilvántartott vagy engedélyezett takarmány-váll
 
 e) állatgyógyászati készítményt, állatgyógyászati terméket állít elő vagy forgalomba hozza,
 
-f) engedélyköteles terméket, illetve EK-műtrágyát állít elő vagy forgalomba hoz,
+f) engedélyköteles terméket, uniós termésnövelő anyagot, illetve EK-műtrágyát állít elő vagy forgalomba hoz,
 
 g) állati eredetű melléktermék kezelését, felhasználását, további feldolgozását, szállítását végzi vagy az ezekből származó terméket forgalomba hozza,
 
