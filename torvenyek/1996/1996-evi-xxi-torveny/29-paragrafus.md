@@ -1,1 +1,1 @@
-29. §
+29. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 17. § (4a) bekezdése szerinti Budapesti Agglomeráció Fejlesztési Tanács megalakulásával kapcsolatos szervezési tevékenységnek az ellátása a Pest Megyei Közgyűlés elnökének a feladata. A Pest Megyei Közgyűlés elnöke a Módtv. hatálybalépését követő 60 napon belül kezdeményezi a Budapesti Agglomeráció Fejlesztési Tanács megalakulását az alakuló ülés összehívásával.
