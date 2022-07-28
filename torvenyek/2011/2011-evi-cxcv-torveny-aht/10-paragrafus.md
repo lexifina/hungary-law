@@ -20,6 +20,8 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 (4c) Törvény vagy kormányrendelet a Kormány vagy a miniszterelnök irányítása alá tartozó költségvetési szerv gazdasági szervezete feladatainak ellátására más, a Kormány vagy a miniszterelnök irányítása alá tartozó költségvetési szervet is kijelölhet.
 
+(4d) Ha a Kormány irányítása alá tartozó költségvetési szerv éves átlagos statisztikai állományi létszáma a 100 főt nem éri el, a gazdasági szervezeti feladatait, a Kormány irányítása alatt álló, más irányító szerv irányítása alatt álló önálló gazdasági szervezettel rendelkező költségvetési szerv is elláthatja, az irányító szervek ilyen irányú megállapodása alapján.
+
 (5) A költségvetési szerv szervezetét, feladatai ellátásának részletes belső rendjét és módját szervezeti és működési szabályzat állapítja meg. A szervezeti egységekre vonatkozó szabályokat a költségvetési szerv szervezeti és működési szabályzatában vagy a szervezeti egységek ügyrendjében, a gazdálkodás részletes rendjét belső szabályzatban kell meghatározni.
 
 (6) A költségvetési szerv képviseletét a költségvetési szerv vezetője látja el, amely jogkör gyakorlása jogszabályban vagy a költségvetési szerv szervezeti és működési szabályzatában foglaltak szerint – esetenként vagy az ügyek meghatározott csoportjára nézve – a költségvetési szerv vezetőjének helyettesére vagy más dolgozójára ruházható át.

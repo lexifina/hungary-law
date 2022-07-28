@@ -6,6 +6,8 @@
 
 (3) A fejezeti kezelésű előirányzatok fejezetenként egy címet alkotnak. A fejezeti általános tartalékot fejezeti kezelésű előirányzatként kell megtervezni.
 
+(3a) A honvédelmi miniszter által vezetett minisztérium fejezetében a költségvetési szervek több alcímet, a fejezeti kezelésű előirányzatok több címet is alkothatnak.
+
 (4) A (2) és (3) bekezdésben nem szereplő költségvetési kiadásokat – az elkülönített állami pénzalapok, társadalombiztosítás pénzügyi alapjai költségvetési kiadásai kivételével – a központi kezelésű előirányzatok között kell megtervezni.
 
 (5)

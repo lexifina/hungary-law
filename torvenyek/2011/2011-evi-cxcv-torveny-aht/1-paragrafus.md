@@ -38,7 +38,7 @@ a) az adományokat, segélyeket, felajánlásokat,
 
 b) a pártok és pártalapítványok támogatását, az országgyűlési képviselők választása kampányköltségeinek támogatásait,
 
-c) a tanulóknak, hallgatóknak biztosított ösztöndíjakat,
+c) a tanulóknak, hallgatóknak biztosított, valamint a Magyar Tudományos Akadémia által tudományos kutatás folytatása céljából pályázati úton nyújtott ösztöndíjakat,
 
 d) kitüntetéshez kapcsolódóan nyújtott pénzjutalmakat,
 
@@ -61,6 +61,8 @@ l) a vis maior támogatásokat,
 m) a határon túli, magát magyar nemzetiségűnek valló természetes személy részére jogszabály alapján nyújtható támogatásokat,
 
 n) az állam hitelfelvételét is tartalmazó nemzetközi szerződésben meghatározott, kizárólagos állami tulajdonú vagyon fejlesztését szolgáló beruházás megvalósítása érdekében 100%-os állami tulajdonú gazdasági társaság részére nyújtott támogatásokat,
+
+o) a jogszabály alapján, az abban meghatározott feltételek szerint nyújtott kamat- és díjtámogatást,
 
 15. kötelezettségvállalás: a kiadási előirányzatok, és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére fizetési kötelezettség vállalásáról szóló – így különösen a foglalkoztatásra irányuló jogviszony létesítésére, szerződés megkötésére, költségvetési támogatás biztosítására irányuló – szabályszerűen megtett jognyilatkozat,
 

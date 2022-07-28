@@ -2,7 +2,7 @@
 
 a) az, aki a támogatási döntést meghozta vagy aki a támogatási döntés meghozatalában döntés-előkészítőként részt vett,
 
-b) az, aki a támogatási döntés időpontjában a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
+b) az, aki a támogatási döntés időpontjában a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főispán, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
 
 c) az a) és b) pont szerinti személlyel közös háztartásban élő hozzátartozó,
 

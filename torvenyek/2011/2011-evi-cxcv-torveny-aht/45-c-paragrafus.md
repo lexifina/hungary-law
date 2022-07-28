@@ -1,0 +1,1 @@
+45/C. § Az állami vagyonról szóló 2007. évi CVI. törvény szerinti, a felhasználásra jogosultat megillető, szerzői vagy szomszédos jogi védelmet élvező műre, vagy teljesítményre, különösen kép-, illetve hangfelvételre vonatkozó felhasználási szerződéssel ingyenes felhasználási engedély adható.

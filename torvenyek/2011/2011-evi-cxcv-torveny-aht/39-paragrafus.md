@@ -10,6 +10,8 @@ c) a többségi állami tulajdonban álló gazdasági társaság 100%-os tulajdo
 
 előzetesen tájékoztatja.
 
+(1a) Az államháztartásért felelős miniszter a költségvetés végrehajtásának és a gazdálkodást érintő egyéb feladat ellátásának ellenőrzésére a feladattal érintett, a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szerv vagy testület, valamint a helyi önkormányzat, a helyi nemzetiségi önkormányzat, az országos nemzetiségi önkormányzat, a társulás, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács és az általuk irányított költségvetési szerv vezetőjével folytatott előzetes egyeztetést követően költségvetési felügyelőt bízhat meg.
+
 (2) A költségvetési felügyelő a gazdálkodás költségvetés-politikával való összhangja és a takarékos, szabályszerű, eredményes működés érdekében a Kormány rendeletében meghatározott intézkedéseket tehet.
 
 (3) A költségvetési felügyelő határozott időtartamra szóló megbízásáról és a megbízás visszavonásáról az államháztartásért felelős miniszter gondoskodik. A költségvetési felügyelő tevékenységének szakmai irányítását az államháztartásért felelős miniszter végzi.

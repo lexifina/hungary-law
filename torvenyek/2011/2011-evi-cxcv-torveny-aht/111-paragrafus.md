@@ -66,9 +66,9 @@
 
 (29) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 105. § (4) bekezdésének a költségvetési szerv által megkötött szerződés érvénytelenségére vonatkozó rendelkezését a 2015. február 28-át követően megkötött szerződések tekintetében kell alkalmazni. Az irányító szerv e határidőt megelőzően köteles gondoskodni a költségvetési szerv alapító okiratának a törzskönyvi nyilvántartásba elmulasztott bejegyzésének pótlásáról.
 
-(30)
+(30) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 90. § (1) bekezdését első alkalommal a Magyarország 2021. évi központi költségvetéséről szóló zárszámadás összeállítása során kell alkalmazni.
 
-(31)
+(31) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 15. § (3a) bekezdését első alkalommal a Magyarország 2023. évi központi költségvetéséről szóló törvény szerkezete tekintetében kell alkalmazni.
 
 (32)
 
