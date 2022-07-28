@@ -76,7 +76,7 @@ e) A mezőgazdasági tevékenységet végző egyéni vállalkozó az adóévben 
 
 f) Ha az egyéni vállalkozónak mezőgazdasági tevékenységből származó jövedelmén kívül más tevékenységéből is van egyéni vállalkozói jövedelme, akkor az összes egyéni vállalkozói jövedelméből csak a mezőgazdasági tevékenység arányában megállapított részre alkalmazhatja az e) pont rendelkezéseit. A mezőgazdasági tevékenység arányát az ebből származó vállalkozói bevételnek az összes vállalkozói bevétellel való elosztásával kell megállapítani.
 
-g) E bekezdés alkalmazásában mezőgazdasági tevékenység a 6. számú mellékletben felsorolt tevékenység, továbbá más növénytermesztés, akkor, ha ezeket a tevékenységeket egyéni vállalkozóként végzi a magánszemély.
+g) E bekezdés alkalmazásában mezőgazdasági tevékenység a családi gazdaságokról szóló törvény szerinti mező-, erdőgazdasági tevékenység, illetve kiegészítő őstermelői tevékenység, akkor, ha ezeket a tevékenységeket egyéni vállalkozóként végzi a magánszemély.
 
 h) A 2003. december 31-éig keletkezett, a vállalkozói jövedelemmel szemben még nem érvényesített elhatárolt veszteség a keletkezése időpontjában érvényes feltételek szerint számolható el.
 

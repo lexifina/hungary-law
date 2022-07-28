@@ -132,6 +132,8 @@ a) klímavédelmi célú alapítványtól származó, az alapítvány céljainak
 
 b) a COVID-19 vírus járványban elhunytak hozzátartozóit segítő alapítványtól származó, az alapítvány céljainak megvalósítása érdekében adott juttatás.
 
+3.9. a magánszemély részére kifizetett azon összeg, amelyet ösztöndíj címén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladatának ellátásával összhangban folyósít.
+
 4. Egyes tevékenységekhez kapcsolódóan adómentes:
 
 4.1. a nemzetközi szerződésben meghatározott diplomáciai kiváltságokat és mentességeket élvező nemzetközi szervezetek által kifizetett napidíj;

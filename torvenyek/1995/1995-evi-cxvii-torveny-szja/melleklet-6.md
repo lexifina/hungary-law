@@ -4,7 +4,7 @@ Az őstermelők családi gazdasága keretében végzett tevékenység szabályai
 
 A családi gazdaságokról szóló törvény szerinti őstermelők családi gazdasága keretében végzett tevékenységre (a továbbiakban: családi őstermelői tevékenység) vonatkozó szabályok a következők:
 
-1. Családi őstermelői tevékenység esetén az őstermelők családi gazdasága tagjai az őstermelői jövedelemre az általános forgalmi adózás tekintetében is ugyanazon adózási módot alkalmaznak, továbbá a családi őstermelői tevékenység időszakában egymással munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban nem állhatnak. Az alkalmazandó adózási módot – az őstermelők családi gazdasága tagjai tekintetében is, a bejelentéskor feltüntetve a tagok nevét és adóazonosító jelét – az őstermelők családi gazdaságának képviselője jelenti be a bejelentésre vonatkozó szabályok alkalmazásával.
+1. Családi őstermelői tevékenység esetén az őstermelők családi gazdasága tagjai az őstermelői jövedelemre ugyanazon adózási módot alkalmaznak, továbbá a családi őstermelői tevékenység időszakában egymással munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban nem állhatnak. Az alkalmazandó adózási módot – az őstermelők családi gazdasága tagjai tekintetében is, a bejelentéskor feltüntetve a tagok nevét és adóazonosító jelét – az őstermelők családi gazdaságának képviselője jelenti be a bejelentésre vonatkozó szabályok alkalmazásával.
 
 2. Ha az őstermelők családi gazdaságának tagjai az őstermelők családi gazdaságát alapító szerződés alapján
 
