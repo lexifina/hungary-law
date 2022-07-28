@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-164-00-00
 | 2020-09-01 | 2020. évi LXV. törvény | 2011-164-00-00.28 |
 | 2021-01-01 | 2020. évi CLII. törvény | 2011-164-00-00.29 |
 | 2022-01-01 | 2021. évi CXXXIV. törvény | 2011-164-00-00.30 |
+| 2022-07-28 | 2022. évi XXIV. törvény | 2011-164-00-00.31 |
