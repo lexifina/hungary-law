@@ -8,7 +8,7 @@ b) hozzátartozói láncolat: a Ptk. 8:1. § (1) bekezdés 1. pontjának megfele
 
 c) kiegészítő őstermelői tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, takarmány-előállítás, mezőgazdasági termékből élelmiszer előállítása mező-, erdőgazdasági tevékenységből származó termékfeldolgozás kivételével, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg az e törvény végrehajtására kiadott rendeletben meghatározott mennyiséget, dohányfeldolgozás, bioüzemanyag-előállítás a mező-, erdőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, továbbá mező- és erdőgazdasági szolgáltatás;
 
-d) mező-, erdőgazdasági hasznosítású föld: a Földforgalmi törvény 5. § 17. pontjában meghatározott mező-, erdőgazdasági hasznosítású föld;
+d) mező-, erdőgazdasági hasznosítású föld: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 5. § 17. pontjában meghatározott mező-, erdőgazdasági hasznosítású föld;
 
 e) mező-, erdőgazdasági tevékenység: a Földforgalmi törvény 5. § 18. pontjában meghatározott mező-, erdőgazdasági tevékenység, valamint továbbá e tevékenységből származó termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg az e törvény végrehajtására kiadott rendeletben meghatározott mennyiséget;
 

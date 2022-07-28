@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-123-00-00
 | 2021-06-05 | 2021. évi LX. törvény | 2020-123-00-00.3 |
 | 2021-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-123-00-00.4 |
 | 2022-01-01 | 2021. évi CL. törvény | 2020-123-00-00.5 |
+| 2022-07-28 | 2022. évi XXIV. törvény | 2020-123-00-00.6 |
