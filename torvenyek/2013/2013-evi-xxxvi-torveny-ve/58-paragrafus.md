@@ -1,6 +1,6 @@
-58. § (1) A Nemzeti Választási Iroda elnöke a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetményre jogosult.
+58. § (1) A Nemzeti Választási Iroda elnöke az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti képviselői tiszteletdíj 2,5-szeresének megfelelő illetményre jogosult.
 
-(1a) A Nemzeti Választási Iroda elnöke az (1) bekezdésben meghatározott illetményen túl államtitkári juttatatásra jogosult.
+(1a) A Nemzeti Választási Iroda elnöke az (1) bekezdésben meghatározott illetményen túl miniszteri juttatásra jogosult.
 
 (2) A Nemzeti Választási Iroda elnökét naptári évenként negyven munkanap szabadság illeti meg.
 
