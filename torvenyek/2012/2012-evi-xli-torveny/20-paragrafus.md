@@ -8,7 +8,7 @@
 
 (2) Az e fejezetben meghatározott szabályok szerint személyszállítási közszolgáltatás keretében igényvezérelt személyszállítási szolgáltatások is biztosíthatók, ez esetben e szolgáltatásokra a személyszállítási közszolgáltatásokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(3) A helyi személyszállítási közszolgáltatásokra vonatkozó szabályokat kell alkalmazni a Vkt. 3. § (1) bekezdés a) pontja alapján végzett komp- és révszolgáltatásokra.
+(3) A helyi személyszállítási közszolgáltatásokra vonatkozó szabályokat kell alkalmazni a Vkt. 3. § (1) bekezdés a) pontja alapján végzett komp- és révszolgáltatásokra. A Vkt. 2. § (6) bekezdésében meghatározott komp- és révszolgáltatásokra a regionális vagy az elővárosi személyszállítási közszolgáltatásokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (4) A vízijárművel végzett személyszállítási közszolgáltatásokra vonatkozó közszolgáltatási szerződés megkötésére az országos, regionális és elővárosi közszolgáltatásokra vonatkozó rendelkezések alapján a miniszter jogosult. A helyi személyszállítási közszolgáltatásokra vonatkozó szabályokat kell alkalmazni a Vkt. 3. § (2) bekezdésében meghatározott menetrend szerinti vízi személyszállítási szolgáltatásokra, ha azok a helyi személyszállítási közszolgáltatások integrált részét képezik. A közszolgáltatási szerződés megkötéséhez ebben az esetben is szükséges a miniszter előzetes hozzájárulása, kivéve a közszolgáltatási szerződés alapján a közszolgáltatási kötelezettségek ellátásának adott menetrendi évre vonatkozó feltételeiről és a megrendelt közszolgáltatások ellátásáért járó ellentételezés összegéről szóló megállapodás megkötését.
 

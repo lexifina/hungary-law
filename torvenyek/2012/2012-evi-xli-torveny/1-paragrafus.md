@@ -14,7 +14,7 @@ a) a Magyarország területén végzett belföldi és nemzetközi közúti és v
 
 b) a saját számlás személyszállításra,
 
-c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 3. § (1) bekezdés a) pontjában foglalt személyszállítási közszolgáltatásokra, valamint
+c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 3. § (1) bekezdés a) pontjában és 2/A. §-ában foglalt személyszállítási közszolgáltatásokra, valamint
 
 d) a Vkt. 3. § (2) bekezdésében foglalt személyszállítási közszolgáltatásokra, amennyiben azok a helyi vagy az elővárosi személyszállítási közszolgáltatások részét képezik,
 

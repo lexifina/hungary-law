@@ -1,8 +1,8 @@
 ## 24/A. Az országos szinten átjárható elektronikus jegyrendszer és utastájékoztatási rendszer
 
-35/A. § (1) Az országos, elővárosi, regionális és helyi személyszállítási közszolgáltatásokban működő, illetve kialakításra kerülő elektronikus jegyrendszer, utastájékoztatási rendszer, valamint elektronikus forgalomtervező és irányítási rendszerek országos átjárhatóságát, az egységes működési tartalmának biztosítását, valamint a személyszállítási közszolgáltatások megrendelését támogató funkciókat a Központi Rendszer biztosítja. A Központi Rendszer legkésőbb 2019. december 1-jén kezdi meg működését.
+35/A. § (1) Az országos, elővárosi, regionális és helyi személyszállítási közszolgáltatásokban működő, illetve kialakításra kerülő elektronikus jegyrendszer, utastájékoztatási rendszer, valamint elektronikus forgalomtervező és irányítási rendszerek országos átjárhatóságát, az egységes működési tartalmának biztosítását, valamint a személyszállítási közszolgáltatások megrendelését támogató funkciókat a Központi Rendszer biztosítja.
 
-(2) Az (1) bekezdésben meghatározott Központi Rendszer kialakításával, működtetésével és fejlesztésével kapcsolatos feladatokat az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott működtető (a továbbiakban: 35/A. § szerinti működtető) látja el, amely ezen feladatok ellátására a miniszterrel közszolgáltatási szerződést köthet.
+(2) Az (1) bekezdésben meghatározott Központi Rendszer kialakításával, működtetésével és fejlesztésével kapcsolatos feladatokat az e törvény 21. § (1a) bekezdésében meghatározott szervezet (a továbbiakban: 35/A. § szerinti működtető) látja el.
 
 (3) A Központi Rendszerhez történő kapcsolódás feltételeinek biztosítása érdekében a 35/A. § szerinti működtető
 

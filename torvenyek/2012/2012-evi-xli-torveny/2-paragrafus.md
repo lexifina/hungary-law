@@ -22,7 +22,7 @@ c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önk
 
 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
 
-6a.
+6a. egyéb kötöttpályás közlekedési mód: az országos, elővárosi, regionális vasúti személyszállítási szolgáltatásoktól eltérő technológiai és működési megoldásokkal üzemeltetett kötöttpályás közlekedési szolgáltatások, különösen a metró, a villamos, a budapesti elővárosi helyi érdekű vasút (HÉV);
 
 7. határon átmenő személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye vagy legalább azok egyike Magyarország területén kívül van, de az útvonal részben Magyarország területén halad;
 
@@ -126,7 +126,7 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 
 48. integrált személyszállítási közszolgáltatás: az 1370/2007/EK rendelet 2. cikk m) pontja szerinti összekapcsolt szállítási szolgáltatások;
 
-49. összekapcsolt személyszállítási közszolgáltatás: integrált személyszállítási közszolgáltatásnak nem minősülő, meghatározott földrajzi területen azonos díjtermékekkel igénybe vehető azon országos, regionális, elővárosi illetve helyi személyszállítási közszolgáltatások, valamint ezekhez kapcsolódó vízi személyszállítási közszolgáltatások összessége, amelyeket – az 5. §-ban meghatározottakra tekintettel – két vagy több közlekedési szolgáltató a megrendelő vagy megrendelők által jóváhagyott együttműködési megállapodás alapján végez;
+49. összekapcsolt személyszállítási közszolgáltatás: az 5. § (3) és (4) bekezdése szerinti, vagy a 32. § (2) bekezdése szerinti együttműködési megállapodás alapján biztosított személyszállítási közszolgáltatás;
 
 50. összekapcsolt díjtermék: összekapcsolt személyszállítási közszolgáltatás igénybevételére jogosító bérlet vagy menetjegy, amely az 5. § (3) és (4) bekezdés szerinti, vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra;
 

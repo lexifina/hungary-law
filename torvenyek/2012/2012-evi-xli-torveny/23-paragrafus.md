@@ -8,6 +8,8 @@
 
 (2a) Az országos, a regionális és az elővárosi vasúti személyszállítási közszolgáltatásra vonatkozó közszolgáltatási szerződés az egyéb kötöttpályás szállítást kivéve az 1370/2007/EK rendelet 5. cikk (6) bekezdése alapján 2023. december 24-ig pályázati eljárás mellőzésével is megköthető.
 
+(2b) Személyszállítási közszolgáltatás ellátására irányuló szolgáltatási szerződés, valamint szolgáltatási jogviszonyra irányuló személyszállítási közszolgáltatási szerződés – a 2014/25/EU irányelv 21. cikk g) pontjában meghatározott kivételekkel – a közbeszerzésekről szóló törvény szerinti eljárásrendben ítélhető oda.
+
 (3) A pályázat nyilvánosan, a verseny tisztaságát és átláthatóságát bárki számára biztosító módon zajlik. Az Európai Gazdasági Térségen kívüli székhelyű szolgáltató a pályázaton abban az esetben vehet részt, ha országában is biztosított a menetrend szerinti autóbusz-közlekedésben a nemzeti elbánás a külföldiek számára.
 
 (4) Az 1370/2007/EK rendelet 7. cikk (2) bekezdésében előírt előzetes tájékoztatási kötelezettség teljesítését követően a pályázati felhívást az ellátásért felelősnek a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben a hivatalos honlapján, továbbá az önkormányzatnak a helyben szokásos módon is közzé kell tennie a pályázat benyújtási határidejét legalább 60 nappal megelőzően. A felhívásban az 1370/2007/EK rendelet 7. cikk (2) bekezdés a), c) és d) pontjában előírtak mellett tájékoztatást kell adni a pályázaton való részvétel és a pályázati kiírás beszerzési lehetőségének feltételeiről, az ajánlattétel határidejéről, az elbírálás módjáról és szempontjairól, az eredményhirdetés és a szerződéskötés legkésőbbi időpontjáról.

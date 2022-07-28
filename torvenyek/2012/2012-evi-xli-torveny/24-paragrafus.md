@@ -28,7 +28,7 @@ valósulhat meg.
 
 (6) A (3)–(4) bekezdésben foglalt eseteken túl a belső szolgáltató pályáztatás nélkül is megbízható a szolgáltatás elvégzésével (a továbbiakban: közvetlen odaítélés). A közvetlen odaítélés alapján szolgáltatást nyújtó belső szolgáltató a közszolgáltatási tevékenységét az 1370/2007/EK rendelet 5. cikk (2) bekezdés a)–c) és e) pontjában meghatározott szabályok alapján, kizárólag az ellátásért felelős illetékességi területén végzi.
 
-(7) Az, akinek érdekében állt vagy áll a közszolgáltatási szerződés elnyerése, és a 23. §-ban, valamint jelen §-ban foglalt szabályok megszegésével kötött közszolgáltatási szerződés folytán sérelmet szenvedett, vagy a sérelem bekövetkezésének reális veszélye fennáll, a pályázat eredményének kihirdetésétől, egyéb esetben a közszolgáltatási szerződés megkötésétől számított 30 napos jogvesztő határidőn belül a szolgáltatás végzésének helye szerinti bíróságtól kérheti a jogszabálysértés tényének megállapítását.
+(7) Az, akinek érdekében állt vagy áll a közszolgáltatási szerződés elnyerése, és az 5/A. §-ban, a 23. §-ban, valamint jelen §-ban foglalt szabályok megszegésével kötött közszolgáltatási szerződés folytán sérelmet szenvedett, vagy a sérelem bekövetkezésének reális veszélye fennáll, a pályázat eredményének kihirdetésétől, egyéb esetben a közszolgáltatási szerződés megkötésétől számított 30 napos jogvesztő határidőn belül a szolgáltatás végzésének helye szerinti bíróságtól kérheti a jogszabálysértés tényének megállapítását.
 
 (8) Az 1370/2007/EK rendelet 8. cikk (2) bekezdésében előírt jelentéstételi kötelezettséget a miniszter teljesíti.
 
