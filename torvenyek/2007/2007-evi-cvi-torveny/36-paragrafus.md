@@ -16,6 +16,8 @@ f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyo
 
 g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében.
 
+h) az e törvény 1. § (2) bekezdés f) pontja szerinti állami vagyon tekintetében.
+
 (2a) Az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonban álló ingatlanok kizárólag sportcélokra adhatóak ingyenesen tulajdonba.
 
 (3) A (2) bekezdés szerinti ingyenes átruházásról – a (6)–(8) bekezdésben foglalt kivétellel – a Kormány nyilvános határozattal dönt.
@@ -29,3 +31,5 @@ g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az á
 (7) Az MNV Zrt. Igazgatósága jogosult dönteni helyi önkormányzat javára, a (2) bekezdés c) pontjában meghatározott célokra, legfeljebb bruttó 25 millió forint forgalmi értékű ingatlan ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
 (8) Az Nvtv. 13. § (3) bekezdése szerinti, az állami feladat ellátásához nem szükséges és leselejtezett tárgyi eszközt az MNV Zrt. a legalább két éve folyamatosan, igazoltan közhasznú, karitatív tevékenységet folytató civil szervezet kezdeményezésére ingyenesen a civil szervezet tulajdonába adhatja. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
+
+(9) A (2) bekezdés h) pontja szerinti mű vagy teljesítmény, különösen kép-, illetve hangfelvétel vonatkozásában az 1. § (2) bekezdés f) pontja szerinti képviselő részére vagy a választási eljárásról szóló 2013. évi XXXVI. törvény szerinti jelölő szervezete vagy pártja részére felhasználási szerződés útján ingyenes, korlátozás nélküli felhasználási engedély adható.

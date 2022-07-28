@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2022-01-02 | 2021. évi CXXXIII. törvény | 2007-106-00-00.55 |
 | 2022-06-01 | 2021. évi LXXXIV. törvény | 2007-106-00-00.56 |
 | 2022-06-18 | 2022. évi VII. törvény | 2007-106-00-00.57 |
+| 2022-07-28 | 2022. évi XXIV. törvény | 2007-106-00-00.58 |

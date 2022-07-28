@@ -16,6 +16,8 @@ d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jo
 
 e) az állam tulajdonában álló a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény szerinti pénzügyi eszköz.
 
+f) azon országgyűlési képviselőről, aki más, Alaptörvényben nevesített közjogi tisztséget is betöltve közfeladatot lát el, e közfeladata ellátása körében vagy ezzel összefüggésben, költségvetési forrásból készített, szerzői vagy szomszédos jogi védelmet élvező műhöz vagy teljesítményhez, különösen kép-, illetve hangfelvételhez kapcsolódó, felhasználási szerződés útján vagy a szerzői jogról szóló törvény alapján megszerzett felhasználási engedély, illetve vagyoni jog.
+
 (2a) A (2) bekezdés e) pontja szerinti pénzügyi eszközökre e törvény hatálya kizárólag a (6a) bekezdés, a 3. § (2a) bekezdése, a 35. § (2a) bekezdése és a 71. § (2) bekezdés b) pontja tekintetében terjed ki.
 
 (3) Külön törvény rendelkezik:
