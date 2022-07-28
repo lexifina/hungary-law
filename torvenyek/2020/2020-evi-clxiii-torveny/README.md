@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-163-00-00
 | 2021-08-01 | 2021. évi LX. törvény | 2020-163-00-00.1 |
 | 2021-08-02 | 2010. évi CXXX. törvény | 2020-163-00-00.2 |
 | 2021-12-22 | 2021. évi CXLVI. törvény | 2020-163-00-00.3 |
+| 2022-07-28 | 2022. évi XXIV. törvény | 2020-163-00-00.4 |

@@ -1,6 +1,6 @@
 ## 4. Borászati termékek forgalomba hozatala
 
-9. § (1) Borászati termék közfogyasztásra történő forgalomba hozatala vagy Magyarország területéről való kivitele – a (2) bekezdésben és a 10. §-ban foglalt kivételtől eltekintve –
+9. § (1) Borászati termék közfogyasztásra történő forgalomba hozatala vagy Magyarország területéről való kivitele – a (2) és (2a) bekezdésben, valamint és a 10. §-ban foglalt kivételtől eltekintve –
 
 a) a hegybíró által kiadott végső származási bizonyítvánnyal,
 
@@ -14,11 +14,15 @@ lehetséges.
 
 (2) Nem kell alkalmazni az (1) bekezdés
 
-a) b)–d) pontját a must, a sűrített szőlőmust, a finomított szőlőmustsűrítmény és a borecet,
+a) b)–d) pontját a szőlőmust, a sűrített szőlőmust, a finomított szőlőmustsűrítmény és a borecet,
 
 b) b) és c) pontját – az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben – a még erjedésben lévő újbor
 
 tekintetében.
+
+(2a) Szőlőmust Magyarország területéről való kivitele esetén a 9. § (1) bekezdés a) pontja szerinti származási bizonyítványt a kivitelt követően az e törvény végrehajtására kiadott kormányrendeletben meghatározott határidőn belül szükséges beszerezni.
+
+(2b) Borászati termék nem borászati termék előállítása céljából történő forgalomba hozatala az (1) bekezdés a) és d) pontjában meghatározott feltételek teljesítésével lehetséges.
 
 (3) A hegybíró az első származási bizonyítványt az érintett borászati termékhez kapcsolódó szüreti bejegyzés alapján adja ki.
 
