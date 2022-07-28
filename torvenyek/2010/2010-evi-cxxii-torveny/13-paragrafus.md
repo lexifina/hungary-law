@@ -62,7 +62,7 @@ g) ellátja a munkáltatók és kifizetők által foglalkoztatott biztosítottak
 
 h) jogszabályban meghatározottak szerint elvégzi az illetékek zárási összesítését és végzi az azzal kapcsolatos, az adópolitikáért felelős miniszter részére teljesítendő adatszolgáltatást,
 
-i) ellátja a csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a kényszertörlési eljárásban, a vagyonrendezési és adósságrendezési eljárásban a NAV hatáskörébe tartozó követelések tekintetében a hitelezői feladatokat, és jogszabályban meghatározott esetben és módon egyéb hitelezők képviseletét; a végrehajtási eljárásban ellátja a végrehajtás foganatosítójaként a törvény által meghatározott feladatokat.
+i) ellátja a csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a kényszertörlési eljárásban, a vagyonrendezési és adósságrendezési eljárásban, valamint a szerkezetátalakítási és a reorganizációs eljárásban a NAV hatáskörébe tartozó követelések tekintetében a hitelezői feladatokat, és jogszabályban meghatározott esetben és módon egyéb hitelezők képviseletét; a végrehajtási eljárásban ellátja a végrehajtás foganatosítójaként a törvény által meghatározott feladatokat.
 
 (5) A NAV vámigazgatási jogkörében végzi
 
