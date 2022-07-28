@@ -16,7 +16,7 @@ f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgat�
 
 g) iu) alpontjában megjelölt személyek esetén az Országgyűlési Őrség parancsnoka
 
-h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal vezetője és vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
+h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal vezetője és vezetőhelyettese, valamint a nemzeti köznevelési törvényben meghatározott oktatási központ feladatainak ellátására kijelölt központi hivatal vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
 
 jogosult.
 
