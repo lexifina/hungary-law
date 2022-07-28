@@ -10,7 +10,9 @@ c) előmozdítja az agrárkamarai tagok gazdasági tevékenysége infrastruktúr
 
 d) részt vesz az agrár- és élelmiszergazdasági, a környezet- és tájgazdálkodási, valamint a területi gazdaságfejlesztési programok kialakításában, végrehajtásában;
 
-e) elemzéseket végez, javaslatokat fogalmaz meg a vidéki életminőség javításának, a vidéki népesség foglalkoztatásának és a helyi termékek piacra jutásának elősegítése érdekében.
+e) elemzéseket végez, javaslatokat fogalmaz meg a vidéki életminőség javításának, a vidéki népesség foglalkoztatásának és a helyi termékek piacra jutásának elősegítése érdekében, illetve támogatja és előmozdítja azokat a programokat, törekvéseket, amelyek a vidéki életminőség javítását, a vidéki népesség foglalkoztatását és a helyi termékek piacra jutását elősegítik;
+
+f) támogatja és előmozdítja az agrárágazat technológiai fejlődésével összefüggő törekvéseket és az ezzel összefüggő innovációs, illetve kutatási és fejlesztési tevékenységeket, továbbá részt vesz a tevékenységek megvalósításában.
 
 (2) Az agrárkamara az üzleti forgalom biztonsága és a tisztességes piaci magatartás megteremtése, megőrzése, illetve fokozása érdekében
 
@@ -56,7 +58,7 @@ f) a közös agrárpolitikával összefüggő kérdésekben érdekképviseleti �
 
 g) kezdeményezi a tagok általános gazdasági érdekeit elősegítő jogszabály meghozatalát, illetve a tagok általános gazdasági érdekeivel összhangban nem levő jogszabály és egyéb intézkedés módosítását, hatályon kívül helyezését.
 
-(4) Az agrárkamara közreműködik az agrár- és élelmiszergazdaság egyes ágazataival kapcsolatos stratégiák és programok kidolgozásában.
+(4) Az agrárkamara közreműködik az agrár- és élelmiszergazdaság egyes ágazataival kapcsolatos stratégiák és programok kidolgozásában, illetve részt vesz azok megvalósításában.
 
 (5) A taggal szemben az elismert szakmaközi szervezet írásbeli kezdeményezésére az etikai eljárást le kell folytatni. Az így kezdeményezett etikai eljárásban
 

@@ -8,7 +8,7 @@
 
 a) mezőgazdasági őstermelőként történő nyilvántartásba vétellel
 
-b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység végzésére jogosító nyilvántartásba vételről szóló igazolás kiadásával;
+b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység folytatásának kezdő napjával;
 
 c) a 2. § b) pont ba) alpont szerint újonnan alapított gazdálkodó szervezet esetén a szervezet bírósági bejegyzésével, működő jogalany főtevékenységének agrárgazdasági tevékenységre történő kiterjesztése esetén az agrárgazdasági tevékenység folytatásának kezdőnapjával;
 
@@ -20,7 +20,7 @@ f) az e törvényben szabályozott egyéb feltétel bekövetkezésével
 
 keletkezik.
 
-(2) Őstermelők családi gazdaságában tag – az (1) bekezdés a) pontjától eltérően – csak akkor válik a kamara tagjává, ha az őstermelők családi gazdaságának képviselőjeként van bejegyezve.
+(2) Az (1) bekezdés a) pontja az őstermelők családi gazdaságában tag mezőgazdasági őstermelő esetében akkor keletkeztet kamarai tagságot, ha a mezőgazdasági őstermelő az őstermelők családi gazdaságának képviselőjeként van bejegyezve.
 
 (3)
 
