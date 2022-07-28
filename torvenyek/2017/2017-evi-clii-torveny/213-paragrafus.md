@@ -42,7 +42,7 @@
 
 20. a vámtanácsadói, illetve vámügynöki nyilvántartásba való felvételért, a vámtanácsadói, illetve vámügynöki igazolvány pótlásáért, a nyilvántartásban szereplő adatok módosításáért és a kérelemre történő nyilvántartásból való törlésért, valamint a kreditpont-minősítési eljárásért fizetendő igazgatási szolgáltatási díj mértékét,
 
-21.
+21. az árunyilatkozatokra, az értesítésekre és az áruk uniós vámjogi státusának igazolására vonatkozó közös adatszolgáltatási követelmények szerint, a tagállami döntés alapján kötelező adatelemeket
 
 rendeletben állapítsa meg.
 
