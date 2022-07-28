@@ -2,7 +2,7 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-1. a közszolgáltató hulladékgazdálkodási tevékenységét, a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit;
+1. a közszolgáltató hulladékgazdálkodási tevékenységét, a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit, valamint az állami hulladékgazdálkodási közfeladat részeként a hulladékgazdálkodási közszolgáltatás ellátásának és igénybevételének szabályait;
 
 2. a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladék képződésének megelőzésével, és a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
@@ -14,7 +14,7 @@
 
 5. a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségeket;
 
-6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, részletes tartalmi követelményeit;
+6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, részletes tartalmi követelményeit, valamint azok normatív előírásait;
 
 7. a hulladékgazdálkodási bírság mértékét, megállapításának szempontrendszerét, a helyszíni bírság kiszabásának és a bírság megfizetése módjának részletes szabályait;
 
@@ -96,6 +96,8 @@
 
 45. a hulladékgazdálkodási hatóság által vezetett koncesszori alvállalkozói nyilvántartás tartalmával és vezetésével kapcsolatos részletes szabályokat.
 
+46. a gördülő fejlesztési rendszerterv jóváhagyásának, felülvizsgálatának, a jóváhagyott terv végrehajtása ellenőrzésének szabályait.
+
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hulladékgazdálkodási hatóságot és a hulladékgazdálkodási szakhatóságot.
 
 (2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg:
@@ -150,7 +152,7 @@ bg) a díjhátralék kezelésére vonatkozó részletszabályokat,
 
 bh) a szolgáltatási díjat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét, a közszolgáltatási díj felosztásának elvét,
 
-bi)
+bi) a gördülő fejlesztési rendszerterv részletes tartalmi és formai követelményeit
 
 c) a hulladékgazdálkodásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
@@ -162,7 +164,9 @@ a) a 18/B. § (3) bekezdésében és a 18/D. § (1) bekezdésében meghatározot
 
 b) az 53/B. § (7) bekezdés d) pontjában meghatározott érték meghatározásának szempontrendszerét,
 
-c) az 53/N. §-ban előírt indokolt költségek meghatározására, valamint szabályozására vonatkozó alapelveket és keretszabályokat, továbbá az indokolt költség mértékét
+c) az 53/N. § (1) bekezdése szerinti alapelveket és keretszabályokat, továbbá az indokolt költség mértékét
+
+d) a kompenzáció összegének Hivatal általi meghatározásának keretszabályait, az így meghatározott kompenzáció megfizetésének módját, továbbá a kompenzáció meghatározására irányuló kérelem tartalmi követelményeit és a részletes kiegészítő eljárási szabályokat
 
 rendeletben állapítsa meg.
 

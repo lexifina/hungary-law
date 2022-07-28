@@ -10,4 +10,4 @@
 
 (3) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter terjeszti a Kormány elé.
 
-(4) Az OHT és az OMP elfogadásáról a Kormány határozatban dönt.
+(4) Az OHT és az OMP elfogadásáról a Kormány határozatban dönt, az OHT és az OMP normatív tartalommal rendelkező előírásait e törvény végrehajtására kiadott kormányrendelet állapítja meg.

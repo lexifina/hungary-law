@@ -18,13 +18,13 @@ e) ellátja a hulladékgazdálkodás ágazati, szakmapolitikai felügyeletét,
 
 f) ellátja az elhagyott hulladék felszámolására vonatkozó jogszabályokban meghatározott feladatok koordinációját.
 
-(2) A Hivatal – a közszolgáltató és a közszolgáltatói alvállalkozó kérelmére – megállapítja, hogy a közszolgáltató, valamint a közszolgáltatói alvállalkozó tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról – a (4e) bekezdésben foglalt feladatok ellátására az állam által létrehozott koordináló szerv (a továbbiakban: Koordináló szerv) véleményének kikérését követően – véleményt állít ki (a továbbiakban: megfelelőségi vélemény).
+(2) A Hivatal a közszolgáltató és a közszolgáltatói alvállalkozó kérelmére megállapítja, hogy a közszolgáltató, valamint a kizárólag a hulladék átvételére, gyűjtésére vagy előkezelésére irányuló tevékenységet végző közszolgáltatói alvállalkozó tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról – a (4e) bekezdésben foglalt feladatok ellátására az állam által létrehozott koordináló szerv (a továbbiakban: Koordináló szerv) véleményének kikérését követően – véleményt állít ki (a továbbiakban: megfelelőségi vélemény).
 
 (3) A Hivatal a (2) bekezdésben meghatározott feladatainak ellátása érdekében jogszabályban meghatározott tartalommal a feladatköréhez tartozó nyilvántartást vezet, amelyhez minden, a Hivatal feladatkörével érintett szervezet adatot szolgáltat. A Hivatal jogosult az OKIR Országos Környezetvédelmi Információs Rendszer hulladékgazdálkodási közszolgáltatással összefüggő adataihoz való hozzáférésre.
 
 (4) A Koordináló szerv, a hulladékgazdálkodási közszolgáltató és a közszolgáltatói alvállalkozó megad minden adatot és információt, amely a Hivatal megfelelőségi vélemény kiadásával kapcsolatos feladatának ellátásához szükséges.
 
-(4a) A közszolgáltató és a közszolgáltatói alvállalkozó a megfelelőségi véleményt minden naptári év június 30. napjáig köteles beszerezni.
+(4a) A közszolgáltató és a (2) bekezdésben meghatározott közszolgáltatói alvállalkozó a megfelelőségi véleményt minden naptári év május 31. napjáig kérelmezi a Hivataltól.
 
 (4b) Annak a gazdálkodó szervezetnek, amely megfelelőségi véleménnyel nem rendelkezik, a közszolgáltatói, illetve a közszolgáltatói alvállalkozói tevékenység megkezdése előtt be kell szereznie a Hivatal által kiállított megfelelőségi véleményt.
 
