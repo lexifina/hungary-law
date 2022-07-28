@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-133-00-00
 | 2022-03-31 | 2010. évi CXXX. törvény | 2021-133-00-00.9 |
 | 2022-07-02 | 1/2022. (VII. 19.) GFM határozat | 2021-133-00-00.10 |
 | 2022-07-03 | 2010. évi CXXX. törvény | 2021-133-00-00.11 |
+| 2022-07-28 | 2022. évi XXIV. törvény | 2021-133-00-00.12 |
