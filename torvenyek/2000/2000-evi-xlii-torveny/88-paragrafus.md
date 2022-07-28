@@ -44,6 +44,8 @@ s) a vizsgaközpont tevékenysége tekintetében a felügyeleti szervének, a fe
 
 t) a vizsgaközpont felügyeleti szerve által kiszabható bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetése részletszabályainak
 
+u) a helyi személyszállítási közszolgáltatás körébe nem sorolható komp- és révközlekedést biztosító szolgáltatásoknak regionális vagy elővárosi személyszállítási közszolgáltatási feladatot ellátó szolgáltatássá történő minősítésének
+
 rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter
