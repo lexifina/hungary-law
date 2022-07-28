@@ -7,3 +7,5 @@
 (4) Az (1) bekezdésben meghatározott szerződést a megkötését követő harminc napon belül a pályahálózat-működtető a honlapján közzéteszi.
 
 (5) A pályahálózat-működtető a tulajdonában és üzemeltetésében lévő eszközökről nyilvántartást készít, amely alapján felmérhető az ezen eszközök javításához vagy cseréjéhez szükséges finanszírozás nagysága. A nyilvántartásban rögzíteni kell a pályahálózat felújítására és korszerűsítésére fordított kiadások részleteit is.
+
+(6) A vasúti pályaműködtető által üzemeltetett, az utazóközönség számára nyitva álló helyiségben vagy épületben talált dolog értékesítése helyett – ha az értékesítés annak várható költségei és bevételei miatt nem észszerű – a vasúti pályaműködtető a talált dolgot felhasználhatja, vagy közérdekű célra felajánlhatja, illetve ilyen célra fordíthatja.
