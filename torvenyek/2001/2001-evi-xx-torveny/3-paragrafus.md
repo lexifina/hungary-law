@@ -66,7 +66,7 @@ h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgálta
 
 (11) Az értéken történő nyilvántartástól csak abban az esetben lehet eltekinteni, ha az adott vagyontárgy értéke természeténél, jellegénél fogva nem állapítható meg.
 
-(12) Az MFB Zrt.-nek az állam nevében végzett tulajdonosi joggyakorlásból eredő szervezeti működési költségeit a központi költségvetés biztosítja.
+(12)
 
 (13) Az MFB Zrt. a rábízott vagyon értékének megőrzéséről köteles gondoskodni.
 
