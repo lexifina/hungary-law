@@ -72,6 +72,8 @@ IV. Tulajdonosi joggyakorló: az Agrárminisztérium
 
 | 3. | AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-377109 | 2026. december 31. |
 
+| 4. | Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-921027 | 2026. december 31. |
+
 V. Tulajdonosi joggyakorló: a Belügyminisztérium
 
 |  | A | B | C |
@@ -276,7 +278,7 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 | 19. | BrainVisionCenter Nonprofit Korlátolt Felelősségű Társaság | 01-09-395007 | 2026. december 31. |
 
-| 20. | Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság | 01-10-141325 | 2026. december 31. |
+| 20. | N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság | 01-10-141325 | 2026. december 31. |
 
 | 21. | Védelmi Innovációs Kutatóintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141703 | 2026. december 31. |
 
@@ -287,4 +289,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 [^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) bekezdése és 2. §-a szerint módosított szöveg.
