@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-155-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2016-155-00-00.12 |
 | 2021-02-01 | 2020. évi CXXI. törvény | 2016-155-00-00.13 |
 | 2022-05-25 | 2022. évi IV. törvény | 2016-155-00-00.14 |
+| 2022-07-28 | 2022. évi XXIV. törvény | 2016-155-00-00.15 |
