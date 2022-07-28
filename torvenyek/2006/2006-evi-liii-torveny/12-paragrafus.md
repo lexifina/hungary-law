@@ -24,9 +24,9 @@ a) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek körét;
 
 b) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését;
 
-c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegbízott feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
+c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a főispán feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
 
-d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését,
+d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező főispán kijelölését,
 
 e) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait,
 
@@ -42,6 +42,6 @@ j) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvényt�
 
 k) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán kiváltásra vagy kiépítésre kerülő közművek elhelyezése érdekében a felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat.
 
-(6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
+(6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó főispánok felé, továbbá a koordinációs feladatokat ellátó főispánok által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
 
 (7) E törvény alkalmazásában közterületnek minősül a közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló terület, amelyet rendeltetésének megfelelően bárki használhat, ideértve a közúti és gyalogos közlekedést szolgáló létesítményeket, a kikapcsolódás, a szórakozás, a sporttevékenység, a szabadidő-eltöltés biztosítását szolgáló területeket, a tereket és közparkokat, valamint a közművek elhelyezését szolgáló területet.
