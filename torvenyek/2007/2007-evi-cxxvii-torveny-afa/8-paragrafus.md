@@ -38,7 +38,7 @@ cc) kötelezettségvállalást a (7) bekezdés teljesítésére.
 
 (3a) A csoportos adóalanyiság létrehozására irányuló kérelemben megjelölhető, hogy mely időponttal kérik a csoportos adóalanyiság létrehozását. A csoportos adóalanyiság a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (3) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
 
-(4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő.
+(4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiság időszakában és a csoportos adóalanyiság megszűnését követően a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő.
 
 (5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a csoportos adóalanyiság létrejöttét megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 

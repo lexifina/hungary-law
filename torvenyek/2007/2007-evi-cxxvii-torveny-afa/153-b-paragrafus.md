@@ -10,4 +10,6 @@ c) a jogosultnak a pénzt visszatérítik a 77. § (4) bekezdése szerinti esetb
 
 d) a termék Közösség területéről történő kiléptetésének hatóság általi igazolása az adóalany, az eredeti számlát módosító számla a jogosult személyes rendelkezésére áll a 98. § (5) bekezdés szerinti esetben.
 
+e) a pénzvisszatérítést teljesíti a 77. § (4a) bekezdése szerinti esetben.
+
 (2) E § nem alkalmazható az 55. § (2) bekezdése szerinti számla érvénytelenítésre.

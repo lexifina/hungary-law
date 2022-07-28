@@ -18,9 +18,17 @@ a) az a termékértékesítés, szolgáltatásnyújtás, amelyet közvetlenül a
 
 b) a visszatérítendő összeg kisebb, mint a pénzvisszatérítésre jogosító ügylet mennyiségi adatának és az adott vásárlásösztönzési program keretében, bármely adóalap csökkentésre jogosító ügylet vonatkozásában az értékesített termék, nyújtott szolgáltatás legalacsonyabb, adóval növelt egységárának szorzataként adódó összeg.
 
-(5) A (4) bekezdés alkalmazásában a visszatérített összeget úgy kell tekinteni, mint amely az adó összegét is tartalmazza.
+(4a) A (4) bekezdés szerinti adóalap-csökkentési jog akkor is megilleti az adóalanyt, ha a pénzvisszatérítést úgy biztosítja, hogy azt nem közvetlenül azon adóalany vagy nem adóalany részére teljesíti, aki (amely) részére a pénzvisszatérítésre jogosító termékértékesítést, szolgáltatásnyújtást teljesítették (ezen bekezdés alkalmazásában: végső fogyasztó), feltéve, hogy:
 
-(6) A (4) bekezdés nem alkalmazható, ha az adóalap-csökkentésre jogosító ügylet és a pénzvisszatérítésre jogosító ügylet esetében az adót a 142. § alapján a termék beszerzője, szolgáltatás igénybevevője fizeti.
+a) a végső fogyasztó a pénzvisszatérítésre jogosító ügylet tekintetében előzetesen felszámított adó levonására sem részben, sem egészben nem jogosult, és
+
+b) a pénzvisszatérítés adó nélküli összege a pénzvisszatérítésre jogosító termékértékesítés, szolgáltatásnyújtás adóalapjába beletartozik.
+
+(4b) A (4a) bekezdés alkalmazásának nem feltétele, hogy a pénzvisszatérítés adó nélküli összege azon pénzvisszatérítésre jogosító termékértékesítés, szolgáltatásnyújtás adóalapjába tartozzon, amelyre tekintettel az adóalany azt biztosítja, feltéve, hogy a pénzvisszatérítésre jogosító termékértékesítések, szolgáltatásnyújtások tekintetében alkalmazandó adómérték azonos.
+
+(5) A (4), (4a) és (4b) bekezdés alkalmazásában a visszatérített összeget úgy kell tekinteni, mint amely az adó összegét is tartalmazza.
+
+(6) A (4), (4a) és (4b) bekezdés nem alkalmazható, ha az adóalap-csökkentésre jogosító ügylet és a pénzvisszatérítésre jogosító ügylet esetében az adót a 142. § alapján a termék beszerzője, szolgáltatás igénybevevője fizeti.
 
 (7) Különös tekintettel a rendeltetésszerű joggyakorlás elvére, az adó alapja utólag csökkenthető a behajthatatlan követelésként elszámolt ellenérték egészének vagy részének adót nem tartalmazó összegével a következő feltételek együttes teljesülése esetén:
 
