@@ -1,0 +1,3 @@
+## 2. § A Rendelet 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha a szolgáltató több, a Pmt. hatálya alá tartozó szerencsejáték szervezésére vonatkozó engedéllyel rendelkezik, a megerősített eljárás keretében végzett monitoring tevékenységét alkalmazza a nyilvántartásba vett játékost érintően az általa szervezett valamennyi, Pmt. hatálya alá tartozó szerencsejátékban. Ennek keretében a szolgáltató az általa üzemeltetett valamennyi játékkaszinóban, kártyateremben, online kaszinóban, távszerencsejáték és távszerencsejátéknak nem minősülő fogadás során azonos kockázati szintbe sorolja be a játékost, a kockázati szint változását 2 napon belül átvezeti minden érintett ügyfélnyilvántartásban.”
