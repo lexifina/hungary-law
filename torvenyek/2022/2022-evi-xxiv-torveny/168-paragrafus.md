@@ -1,3 +1,1 @@
-168. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény a következő 34. §-sal egészül ki:
-
-„34. § Az a külképviselet, amelynek keretében kulturális intézet működik, a külpolitikáért felelős miniszter előzetes engedélye alapján, valamint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter egyetértésével a kulturális intézet szakmai tevékenységét elősegítő vállalkozási tevékenység működtetésének biztosításában közreműködhet az engedélyben meghatározott keretek között. A közreműködés megkezdéséhez – amennyiben arra szükség van – a fogadó ország hatáskörrel rendelkező szervének előzetes hozzájárulását is be kell szerezni.”
+168. §

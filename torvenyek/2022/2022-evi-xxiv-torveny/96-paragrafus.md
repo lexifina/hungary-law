@@ -2,6 +2,6 @@
 
 1.
 
-2. 48/B. § (1) bekezdés b) pontjában a „kormánymegbízott” szövegrész helyébe a „főispán” szöveg
+2.
 
 lép.

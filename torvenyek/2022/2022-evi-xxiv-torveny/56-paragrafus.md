@@ -1,5 +1,1 @@
-56. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény a következő 355. §-sal egészül ki:
-
-„355. § (1) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított, illetve módosított 77. § (4a), (4b), (5) és (6) bekezdése, 78. § (5) bekezdése, 153/B. § (1) bekezdés e) pontja azokban az esetekben alkalmazható, amikor a pénzvisszatérítést az adóalany ezen rendelkezések hatálybalépésének napján vagy azt követő időpontban teljesíti.
-
-(2) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított, illetve módosított 77. § (4a), (4b), (5) és (6) bekezdése, 78. § (5) bekezdése, 153/B. § (1) bekezdés e) pontja ezen rendelkezések hatálybalépésének időpontját megelőzően, de 2021. december 31-ét követően teljesített pénzvisszatérítések esetében is alkalmazható feltéve, hogy az adóalany a pénzvisszatérítésből fakadó adóalap-csökkentési igényét más módon nem érvényesítette.”
+56. §

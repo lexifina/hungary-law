@@ -1,3 +1,1 @@
-164. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 24. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A külképviseleteket a külpolitikáért felelős miniszter rendeletben a külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából kategóriákba sorolja, azzal, hogy a rendeletben a külképviseletek kulturális intézetei a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által meghatározottak szerint a kulturális diplomáciai viszonyrendszerben elfoglalt helyük szerinti kategóriába is besorolásra kerülnek.”
+164. §

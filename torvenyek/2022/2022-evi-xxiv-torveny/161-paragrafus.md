@@ -1,3 +1,1 @@
-161. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő esetében a III/A. fejezetben foglalt feltételek szerint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter döntése alapján – a kihelyező vezető döntése szerint kihelyezhető tartós külszolgálatra.”
+161. §

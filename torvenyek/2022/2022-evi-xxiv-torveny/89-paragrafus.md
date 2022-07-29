@@ -1,3 +1,1 @@
-89. § Az államháztartásról szóló 2011. évi CXCV. törvény 39. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az államháztartásért felelős miniszter a költségvetés végrehajtásának és a gazdálkodást érintő egyéb feladat ellátásának ellenőrzésére a feladattal érintett, a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szerv vagy testület, valamint a helyi önkormányzat, a helyi nemzetiségi önkormányzat, az országos nemzetiségi önkormányzat, a társulás, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács és az általuk irányított költségvetési szerv vezetőjével folytatott előzetes egyeztetést követően költségvetési felügyelőt bízhat meg.”
+89. §

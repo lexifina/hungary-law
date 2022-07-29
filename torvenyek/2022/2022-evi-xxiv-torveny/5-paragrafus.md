@@ -6,7 +6,7 @@
 
 2.
 
-3. 39/B. § (5) bekezdésében a „40 százalékát” szövegrész helyébe a „30 százalékát” szöveg, és
+3.
 
 4.
 

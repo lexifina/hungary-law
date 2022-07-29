@@ -2,6 +2,6 @@
 
 1.
 
-2. 8/A. § (2) bekezdésében az „ , a Miniszterelnöki Kormányiroda” szövegrész, és
+2.
 
 3.

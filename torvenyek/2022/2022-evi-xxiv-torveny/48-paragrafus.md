@@ -1,1 +1,1 @@
-48. § Hatályát veszti a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 49/A. § (2a) bekezdésében az „A közforgalmú gyógyszertárak betegforgalmi bejárata közötti távolság adatokat igazoló földmérői szakértői véleményt a pályázat mellékleteként kell benyújtani.” szövegrész.
+48. §

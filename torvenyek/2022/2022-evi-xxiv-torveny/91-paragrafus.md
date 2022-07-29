@@ -1,3 +1,1 @@
-91. § Az államháztartásról szóló 2011. évi CXCV. törvény 90. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Kormány a zárszámadásról szóló törvényjavaslatot a költségvetési évet követő év szeptember 30-áig – az országgyűlési képviselők általános választásának évében november 10-éig – az Országgyűlés elé terjeszti. A Kormány a zárszámadásról szóló törvényjavaslatot, a társadalombiztosítás pénzügyi alapjairól és az elkülönített állami pénzalapokról készített éves költségvetési beszámolókat a zárszámadásról szóló törvényjavaslat Országgyűlés elé történő beterjesztését két hónappal megelőzően megküldi az Állami Számvevőszéknek. A zárszámadásról szóló törvényjavaslatot az Országgyűlés az Állami Számvevőszék jelentésével együtt tárgyalja meg.”
+91. §
