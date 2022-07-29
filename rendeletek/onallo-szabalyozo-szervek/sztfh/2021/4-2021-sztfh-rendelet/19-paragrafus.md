@@ -4,7 +4,11 @@
 
 (2) Az (1) bekezdés alkalmazásában a távszerencsejátéknak nem minősülő fogadást szervező által alkalmazott minden olyan módszer automatikus szűrőrendszer üzemeltetésének minősül, amely esetében az ügyfél-átvilágítással érintett személy és a pénzügyi és vagyoni korlátozó intézkedéssel érintett személyek adatainak összehasonlítása (az egyezés vizsgálata, kizárása) nem manuálisan, hanem informatikai megoldás használatával történik.
 
-(3) A játékkaszinót vagy kártyatermet működtető szolgáltató, valamint a távszerencsejáték és az online kaszinójáték szervezője a szűrést köteles elvégezni az ügyfél-átvilágítási intézkedések végrehajtásakor az ügyfél-átvilágítással érintett ügyfélre vonatkozóan, valamint a Pvkit. 3. § (5) bekezdése szerinti tájékoztató közzétételét követően haladéktalanul a nyilvántartásba vett ügyfelei vonatkozásában.
+(3)[^3] A játékkaszinót vagy kártyatermet működtető szolgáltató, valamint a távszerencsejáték és az online kaszinójáték szervezője a játékost érintően köteles a szűrést elvégezni
+
+a) az ügyfél-átvilágítási intézkedések végrehajtásakor és
+
+b) a játékkaszinó vagy kártyaterem területére történő belépését, továbbá a távszerencsejáték és online kaszinójáték lebonyolítására használt rendszerbe történő bejelentkezését követően haladéktalanul, de még a játékosnak bármilyen jogcímen történő kifizetést megelőzően.
 
 (4) Az ügyfél-átvilágítási intézkedések végrehajtását követően a játékkaszinót vagy kártyatermet működtető szolgáltató, valamint a távszerencsejáték és az online kaszinójáték szervezője a szűrést köteles elvégezni a monitoring során az ügyfél részére történő kifizetést megelőzően.
 
@@ -21,3 +25,5 @@ b) a távszerencsejáték és az online kaszinójáték szervezője döntését�
 (7) A szűrés eredményeképpen egyezéssel érintett ügyfél, ügylet pénzmosás és terrorizmus finanszírozása szempontjából történő elemzését és értékelését a szolgáltató haladéktalanul végrehajtja, és hiteles, visszakereshető módon dokumentálja.
 
 (8) A szűrés során keletkezett adatot a szolgáltató a szűrés végrehajtásától számított nyolc évig köteles megőrizni.
+
+[^3]: A 19. § (3) bekezdése a 32/2022.(VII. 21.) SZTFH rendelet 3. §-ával megállapított szöveg.
