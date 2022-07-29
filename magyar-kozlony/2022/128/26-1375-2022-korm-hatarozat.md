@@ -1,0 +1,44 @@
+# A Kormány 1375/2022. (VII. 29.) Korm. határozata
+
+Magyar Közlöny 2022. évi 128. szám, 2022. július 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/L602txnD0fsCaVKdoccF62dee23b07182/dokumentumok/ecd576d5221bcc7c7e3103a23fc231c70033132d/letoltes)
+
+---
+
+A Kormány 1375/2022. (VII. 29.) Korm. határozata
+a katona egyéni felszerelésének beszerzéséhez szükséges források biztosításáról
+A Kormány
+1. egyetért a honvédelmi és haderőfejlesztési program egyik alappilléreként azzal, hogy a haderőfejlesztés mellett
+elengedhetetlen a honvédelmi programok támogatása is, ennek keretén belül kiemelt figyelmet kell fordítani
+a katonák egyéni felszerelésére, ezért támogatja a katona egyéni felszerelésének fejlesztése mint kiemelt program
+megvalósítására többletforrás biztosítását a központi költségvetés LI. Honvédelmi Alap fejezete terhére;
+2. felhívja a honvédelmi minisztert, hogy gondoskodjon az 1. pont szerinti fejlesztéshez kapcsolódó beszerzések
+előkészítéséről;
+Felelős: honvédelmi miniszter
+Határidő: azonnal
+3. felhívja a pénzügyminisztert, hogy – a honvédelmi miniszter bevonásával – gondoskodjon az 1. pontban
+meghatározott feladat végrehajtása érdekében a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi
+XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím
+javára egyszeri jelleggel 34 500 000 000 forint többletforrás biztosításáról;
+Felelős: pénzügyminiszter
+honvédelmi miniszter
+Határidő: 2022. szeptember 1.
+4. az 1. ponthoz kapcsolódó beszerzések tekintetében az államháztartásról szóló 2011. évi CXCV. törvény
+(a továbbiakban: Áht.) 36. § (2) és (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a honvédelmi
+miniszter részére, hogy a XIII. Honvédelmi Minisztérium fejezet 2. Magyar Honvédség cím terhére több
+költségvetési év előirányzatát érintően kötelezettséget vállaljon legfeljebb bruttó 64 800 000 000 forint összegben,
+a 2022–2023. időszakban, az alábbi bontásban és összegekben:
+a) a 2022. évben 34 500 000 000 forint,
+b) a 2023. évben 30 300 000 000 forint;
+5. a honvédelmi feladatokhoz kapcsolódó beszerzések tekintetében az Áht. 36. § (4c) bekezdésében biztosított
+jogkörében eljárva engedélyezi a honvédelmi miniszter részére, hogy a XIII. Honvédelmi Minisztérium fejezet
+működési és felhalmozási költségvetése kiadási előirányzatai terhére a 2023. évi költségvetési törvényben
+jóváhagyott eredeti előirányzat erejéig kötelezettséget vállaljon;
+
+6. – figyelemmel a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések
+körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított
+rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. § (7a) bekezdésében
+foglaltakra – egyetért azzal, hogy az 1. pont szerinti feladattal összefüggő beszerzéseket az érintett szervezet
+javára eljárva a Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság a Korm. rendelet 4. alcím
+rendelkezéseinek alkalmazása nélkül folytassa le.
+ Orbán Viktor s. k.,
+ miniszterelnök
