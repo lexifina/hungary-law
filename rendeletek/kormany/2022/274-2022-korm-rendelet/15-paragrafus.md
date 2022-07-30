@@ -1,0 +1,1 @@
+15. § E rendelet 5. alcíme a 2010/43/EU irányelvnek az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) esetében figyelembe veendő fenntarthatósági kockázatok és fenntarthatósági tényezők tekintetében történő módosításáról szóló, 2021. április 21-i (EU) 2021/1270 bizottsági irányelvnek való megfelelést szolgálja.
