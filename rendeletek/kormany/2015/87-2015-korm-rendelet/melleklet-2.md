@@ -1,4 +1,4 @@
-## A felsőoktatási intézmény és a közösségi felsőoktatási képzési központ nyilvántartásba vételének, létesítésének és működésének minimális (kötelező) feltételei[^219]
+## A felsőoktatási intézmény és a közösségi felsőoktatási képzési központ nyilvántartásba vételének, létesítésének és működésének minimális (kötelező) feltételei[^221]
 
 ## 1. Személyi feltételként biztosítani kell
 
@@ -14,7 +14,7 @@
 
 ## a) székhely, telephely tekintetében
 
-## aa)[^220] olyan oktatás céljára szolgáló épületet, amely az intézmény tulajdonában, vagyonkezelésében, bérletében vagy használatában van legalább 8 éves időtartamra, továbbá biztosítja a munkaviszonyban vagy közalkalmazotti jogviszonyban alkalmazott oktatók és kutatók és a maximális hallgatói létszám megállapítása szerint meghatározott létszámú oktatási segédszemélyzet, oktatásirányítási kör egyidejű elhelyezését;
+## aa)[^222] olyan oktatás céljára szolgáló épületet, amely az intézmény tulajdonában, vagyonkezelésében, bérletében vagy használatában van legalább 8 éves időtartamra, továbbá biztosítja a munkaviszonyban vagy közalkalmazotti jogviszonyban alkalmazott oktatók és kutatók és a maximális hallgatói létszám megállapítása szerint meghatározott létszámú oktatási segédszemélyzet, oktatásirányítási kör egyidejű elhelyezését;
 
 ## ab) az oktatáshoz és kutatáshoz szükséges infrastruktúrát;
 
@@ -22,15 +22,15 @@
 
 ## ba) olyan korszerű szolgáltatásokat nyújtó informatikai hálózat meglétét, amelyhez az alkalmazottak és a hallgatók rendszeresen hozzáférnek;
 
-## bb)[^221] intézményi könyvtár (állami fenntartású egyetem esetében nyilvános könyvtár) fenntartását (a székhelyen, telephelyen), vagy megállapodás megkötését a székhelyen, telephelyen működő könyvtárakkal, amelynek alapján a képzéshez, oktatáshoz, kutatáshoz szükséges szakirodalom és információs szolgáltatások hozzáférhetők minden hallgató és oktató számára;
+## bb)[^223] intézményi könyvtár (állami fenntartású egyetem esetében nyilvános könyvtár) fenntartását (a székhelyen, telephelyen), vagy megállapodás megkötését a székhelyen, telephelyen működő könyvtárakkal, amelynek alapján a képzéshez, oktatáshoz, kutatáshoz szükséges szakirodalom és információs szolgáltatások hozzáférhetők minden hallgató és oktató számára;
 
 ## bc) informatikai alapú hallgatói nyilvántartást biztosító alkalmazást, tanulmányi rendszert;
 
-## c)[^222]
+## c)[^224]
 
-## d)[^223]
+## d)[^225]
 
-## e)[^224]
+## e)[^226]
 
 ## 3. Pénzügyi feltételek tekintetében biztosítani kell
 
@@ -48,11 +48,11 @@
 
 ## 5. Ha az adott képzési helyen a felsőoktatási intézmény csak szakirányú továbbképzést kíván folytatni, akkor kizárólag az 1. pont a) alpontja, valamint a 2. pont ab) alpontja alkalmazandó azzal, hogy az oktatáshoz szükséges infrastruktúrát, a könyvtári szakirodalom és az információs szolgáltatások, valamint informatikai hálózat hozzáférhetőségét, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
 
-## 6.[^225] Külföldi székhelyen kívüli képzési helyen folytatni kívánt képzés esetén kizárólag az 1. pont a) alpontja, a 2. pont ab) alpontja, továbbá a 2. pont b) alpontja alkalmazandó azzal, hogy az oktatás céljára szolgáló – az intézmény tulajdonában vagy legalább 8 éves időtartamra a használatában lévő – ingatlant, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
+## 6.[^227] Külföldi székhelyen kívüli képzési helyen folytatni kívánt képzés esetén kizárólag az 1. pont a) alpontja, a 2. pont ab) alpontja, továbbá a 2. pont b) alpontja alkalmazandó azzal, hogy az oktatás céljára szolgáló – az intézmény tulajdonában vagy legalább 8 éves időtartamra a használatában lévő – ingatlant, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
 
-## 7.[^226] Közösségi felsőoktatási képzési központ tekintetében – figyelemmel az 5. pontban foglaltakra is –
+## 7.[^228] Közösségi felsőoktatási képzési központ tekintetében – figyelemmel az 5. pontban foglaltakra is –
 
-## a)[^227] az 1. pont c) alpontjában, a 2. pont a) alpontjában, a 3. pont a) alpontjában, valamint a 4. pont a) és c) alpontjaiban meghatározottakat az Nftv. 108. § 23a. pontjában meghatározott szervezet tekintetében,
+## a)[^229] az 1. pont c) alpontjában, a 2. pont a) alpontjában, a 3. pont a) alpontjában, valamint a 4. pont a) és c) alpontjaiban meghatározottakat az Nftv. 108. § 23a. pontjában meghatározott szervezet tekintetében,
 
 ## b) az 1. pont a) és b) alpontjában, a 2. pont b) alpontjában és a 3. pont b) alpontjában meghatározottakat az együttműködő felsőoktatási intézmény tekintetében,
 
@@ -62,15 +62,15 @@
 
 2. melléklet a 87/2015. (IV. 9.) Korm. rendelethez
 
-## A felsőoktatási intézmény és a közösségi felsőoktatási képzési központ működése engedélyezésének, valamint maximális hallgatói létszáma meghatározásának szabályai[^228]
+## A felsőoktatási intézmény és a közösségi felsőoktatási képzési központ működése engedélyezésének, valamint maximális hallgatói létszáma meghatározásának szabályai[^230]
 
-1.[^229] A felsőoktatási intézmény működésének engedélyezésekor, illetve maximális hallgatói létszámának meghatározásakor a működési engedélyben szereplő maximális hallgatói létszámot a felsőoktatási intézmény képzési helyeiként, a teljes idejű, a részidős képzés és a távoktatás tekintetében elkülönítve kell megállapítani.
+1.[^231] A felsőoktatási intézmény működésének engedélyezésekor, illetve maximális hallgatói létszámának meghatározásakor a működési engedélyben szereplő maximális hallgatói létszámot a felsőoktatási intézmény képzési helyeiként, a teljes idejű, a részidős képzés és a távoktatás tekintetében elkülönítve kell megállapítani.
 
 2. A maximális hallgatói létszám a magyar állami (rész)ösztöndíjas, államilag támogatott, önköltséges és költségtérítéses képzésekre együttesen vonatkozik.
 
 3. A maximális hallgatói létszámot a felsőoktatási intézmény kérelme alapján kell meghatározni, amelynek mértéke nem lehet magasabb az alapító okiratban meghatározott felvehető maximális hallgatói létszámnál.
 
-4.[^230] A kérelmezett maximális hallgatói létszám akkor állapítható meg, ha
+4.[^232] A kérelmezett maximális hallgatói létszám akkor állapítható meg, ha
 
 a) az oktató, kutató és tanári munkakörben alkalmazottak számát figyelembe véve – tekintettel az alkalmazottak elhelyezésének lehetőségeire is – teljesül az Nftv. 26. §-ában és 34. §-ában előírt követelmény;
 
@@ -104,31 +104,31 @@ k) az adott képzési helyen a hallgatók számára térítésmentesen rendelkez
 
 6. A hitéleti képzési terület és hittudomány tudományterület tekintetében meghatározandó maximális hallgatói létszám esetében az e mellékletben foglaltakat azzal az eltéréssel kell alkalmazni, hogy az eljárás során – az Nftv. 91. § (6) és (7) bekezdésével összhangban – kizárólag azt kell vizsgálni, hogy biztosítottak-e a hitéleti képzés tárgyi, infrastrukturális és az oktatásirányítási létszámmal kapcsolatos feltételei.
 
-7.[^231]
+7.[^233]
 
-8.[^232] Ha az adott képzési helyen a felsőoktatási intézmény egyedül szakirányú továbbképzést kíván folytatni, akkor kizárólag az 1–3. pont, a 4. pont a), cb)–cc) és d)–f) alpontja, továbbá az 5. és 6. pont alkalmazandó azzal, hogy az oktatáshoz szükséges infrastruktúrát, a könyvtári szakirodalom és az információs szolgáltatások, valamint informatikai hálózat hozzáférhetőségét, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
+8.[^234] Ha az adott képzési helyen a felsőoktatási intézmény egyedül szakirányú továbbképzést kíván folytatni, akkor kizárólag az 1–3. pont, a 4. pont a), cb)–cc) és d)–f) alpontja, továbbá az 5. és 6. pont alkalmazandó azzal, hogy az oktatáshoz szükséges infrastruktúrát, a könyvtári szakirodalom és az információs szolgáltatások, valamint informatikai hálózat hozzáférhetőségét, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
 
-9.[^233] Külföldi székhelyen kívüli képzési helyen folytatni kívánt képzés esetén kizárólag az 1–3. pont, a 4. pont a), b), cb)–cc), d–f), i) és k) alpontja, továbbá az 5–6 pontok alkalmazandók azzal, hogy az oktatás céljára szolgáló – az intézmény tulajdonában vagy legalább 8 éves időtartamra a használatában lévő – ingatlant, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
+9.[^235] Külföldi székhelyen kívüli képzési helyen folytatni kívánt képzés esetén kizárólag az 1–3. pont, a 4. pont a), b), cb)–cc), d–f), i) és k) alpontja, továbbá az 5–6 pontok alkalmazandók azzal, hogy az oktatás céljára szolgáló – az intézmény tulajdonában vagy legalább 8 éves időtartamra a használatában lévő – ingatlant, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
 
-10.[^234] Közösségi felsőoktatási képzési központ tekintetében – figyelemmel a 6. és a 8. pontban foglaltakra is –
+10.[^236] Közösségi felsőoktatási képzési központ tekintetében – figyelemmel a 6. és a 8. pontban foglaltakra is –
 
 a) a 3. pont alkalmazása során kérelem alatt az Nftv. 108. § 23a. pontjában meghatározott szervezet és a vele együttműködő felsőoktatási intézmény együttesen benyújtott kérelmét, alapító okirat alatt ezen együttműködő felsőoktatási intézmény alapító okiratát kell érteni,
 
 b) az 1. és a 4. pont alkalmazása során, ahol a jogszabály felsőoktatási intézményt említ, ott az Nftv. 108. § 23a. pontjában meghatározott szervezetet és az együttműködő felsőoktatási intézményt együttesen kell érteni.
 
-[^219]: Az 1. melléklet címe a 345/2015. (XI. 19.) Korm. rendelet 89. § 13. pontja szerint módosított szöveg.
-[^220]: Az 1. melléklet 2. pont a) alpont aa) pontja a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^221]: Az 1. melléklet 2. pont b) alpont bb) pontja a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^222]: Az 1. melléklet 2. pont c) alpontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés k) pontja hatályon kívül helyezte.
-[^223]: Az 1. melléklet 2. pont d) alpontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés k) pontja hatályon kívül helyezte.
-[^224]: Az 1. melléklet 2. pont e) alpontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés k) pontja hatályon kívül helyezte.
-[^225]: Az 1. melléklet 6. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (1) bekezdése iktatta be.
-[^226]: Az 1. melléklet 7. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (1) bekezdése iktatta be.
-[^227]: Az 1. melléklet 7. pont a) alpontjában a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^228]: A 2. melléklet címe a 345/2015. (XI. 19.) Korm. rendelet 89. § 13. pontja szerint módosított szöveg.
-[^229]: A 2. melléklet 1. pontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^230]: A 2. melléklet 4. pontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^231]: A 2. melléklet 7. pontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (2) bekezdése hatályon kívül helyezte.
-[^232]: A 2. melléklet 8. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^233]: A 2. melléklet 9. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^234]: A 2. melléklet 10. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése iktatta be.
+[^221]: Az 1. melléklet címe a 345/2015. (XI. 19.) Korm. rendelet 89. § 13. pontja szerint módosított szöveg.
+[^222]: Az 1. melléklet 2. pont a) alpont aa) pontja a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^223]: Az 1. melléklet 2. pont b) alpont bb) pontja a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^224]: Az 1. melléklet 2. pont c) alpontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^225]: Az 1. melléklet 2. pont d) alpontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^226]: Az 1. melléklet 2. pont e) alpontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^227]: Az 1. melléklet 6. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (1) bekezdése iktatta be.
+[^228]: Az 1. melléklet 7. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (1) bekezdése iktatta be.
+[^229]: Az 1. melléklet 7. pont a) alpontjában a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^230]: A 2. melléklet címe a 345/2015. (XI. 19.) Korm. rendelet 89. § 13. pontja szerint módosított szöveg.
+[^231]: A 2. melléklet 1. pontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^232]: A 2. melléklet 4. pontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^233]: A 2. melléklet 7. pontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (2) bekezdése hatályon kívül helyezte.
+[^234]: A 2. melléklet 8. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^235]: A 2. melléklet 9. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^236]: A 2. melléklet 10. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése iktatta be.

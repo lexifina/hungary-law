@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2021-12-30 | 2015-87-20-22.28 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2022-04-27 | 2015-87-20-22.29 | 6/2022. (IV. 26.) AB határozat |
 | 2022-07-01 | 2015-87-20-22.30 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2022-07-30 | 2015-87-20-22.31 | 276/2022. (VII. 29.) Korm. rendelet |

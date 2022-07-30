@@ -22,9 +22,12 @@ c) hány olyan hallgató van, aki a lezárt félévvel már igénybe vette az ad
 
 (8)[^186] Az Nftv. 48. § (2) bekezdése szerinti átsorolási döntést minden év július 31. napjáig, tanévenként egyszer kell meghozni. Ha az 56. § (1) bekezdése alapján az adott félévhez tartozó kredit teljesítésére július 31-ét követően kerül sor, és a felsőoktatási intézmény betölthető magyar állami ösztöndíjas hellyel rendelkezik, akkor az átsorolási döntést ennek figyelembevételével kell felülvizsgálni és szükség esetén módosítani.
 
-(9)[^187] Át kell sorolni az Nftv. 48. §-a szerint azt a hallgatót, aki – ha a felsőoktatási intézmény szervezeti és működési szabályzata ettől magasabb értéket nem állapít meg – nem éri el a 10. melléklet szerinti, képzési területenként meghatározott súlyozott tanulmányi átlagot.
+(9)[^187] Át kell sorolni az Nftv. 48. §-a szerint azt a hallgatót, aki nem szerzett az Nftv. 48. § (2) bekezdése alapján meghatározott kreditet, vagy nem érte el a képzési területenként meghatározott súlyozott tanulmányi átlagot. Megszerzett kredit a hallgató által az adott képzésben és tanévben megszerzett kredit és az adott tanévben a 41. § (3) bekezdés 9. pontja szerint beszámított kredit.
+
+(10)[^188] A felsőoktatási intézmény az önköltséges képzésre történő átsorolásról szóló döntéseinek számáról július 15-éig képzési területenként tájékoztatja a Hivatalt.
 
 [^184]: A 61. § (1) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^185]: A 61. § (5) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte.
 [^186]: A 61. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 82. §-ával megállapított szöveg.
-[^187]: A 61. § (9) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 82. §-a iktatta be.
+[^187]: A 61. § (9) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 82. §-a iktatta be, szövege a 276/2022. (VII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^188]: A 61. § (10) bekezdését a 276/2022. (VII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
