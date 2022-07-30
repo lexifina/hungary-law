@@ -18,7 +18,7 @@ Határidő: a felmerülés ütemében
 
 5. összhangban az 1. pontban meghatározott célkitűzéssel, egyetért azzal, hogy Magyarország 2 625 000 000 forint értékben járuljon hozzá közintézmények újjáépítéséhez Ukrajnában;
 
-6. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében engedélyezi, hogy a külgazdasági és külügyminiszter a 2022. évben a szabad előirányzatot meghaladó mértékű, legfeljebb 1 312 500 000 forint összegben kötelezettséget vállaljon a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása cím terhére;
+6.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében engedélyezi, hogy a külgazdasági és külügyminiszter a 2022. évben a szabad előirányzatot meghaladó mértékű, legfeljebb 1 312 500 000 forint összegben kötelezettséget vállaljon a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Gazdaság újraindítását szolgáló külügyi fejezeti kezelésű előirányzatok alcím, 2. Külügyi fejlesztési és kutatási programok jogcímcsoport terhére;
 
 7. felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter kezdeményezése alapján gondoskodjon a 6. pont szerinti kötelezettségvállalás pénzügyi teljesítéséhez szükséges forrás biztosításáról a 6. pont szerinti előirányzat javára;
 
@@ -39,3 +39,5 @@ Határidő: a felmerülés ütemében
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2024. december 31.
+
+[^1]: A 6. pont az 1378/2022. (VII. 29.) Korm. határozat 5. pontja szerint módosított szöveg.
