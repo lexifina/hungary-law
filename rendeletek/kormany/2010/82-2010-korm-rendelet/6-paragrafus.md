@@ -2,7 +2,7 @@
 
 ## 3. A betéti kamatláb közzététele
 
-6. § (1) A hitelintézetnek az ügyfélfogadásra nyitva álló helyiségében kifüggesztett üzletszabályzatában közzé kell tenni:
+6. § (1)[^3] A hitelintézetnek az ügyfélfogadásra nyitva álló helyiségében közzé kell tenni:
 
 a) a kamatszámítás képletét;
 
@@ -21,3 +21,5 @@ f) a rövidítés feltüntetésével, százalékos formában, két tizedesjegy p
 (3) Ha a betéti szerződés megkötésére vonatkozó ajánlatban vagy a betétre vonatkozó kereskedelmi kommunikációban szerepel a betét kamatlába vagy bármilyen költsége, közvetlenül ezt követően az EBKM mértékének is – a rövidítés feltüntetésével, két tizedesjegy pontossággal – szerepelnie kell legalább ugyanakkora méretben és megegyező megjelenítésben vagy jól érthetően el kell hangzania.
 
 (4) Ha a betéthez állami támogatás kapcsolódik és a szerződés megkötésére vonatkozó ajánlatban vagy kereskedelmi kommunikációban szerepel a betét kamatlába, bármilyen költsége vagy az állami támogatás mértéke vagy összege, a támogatással és a támogatás nélkül számított EBKM értékét is meg kell adni.
+
+[^3]: A 6. § (1) bekezdés nyitó szövegrésze a 274/2022. (VII. 29.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
