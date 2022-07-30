@@ -96,7 +96,7 @@
 
 1.41. Kormányzati Ellenőrzési Hivatal,
 
-1.42.[^7]
+1.42.[^7] Szabályozott Tevékenységek Felügyeleti Hatósága,
 
 1.43. Nemzeti Média- és Hírközlési Hatóság,
 
@@ -234,7 +234,7 @@
 
 2.41. Budapesti Értéktőzsde Zrt.,
 
-2.42.[^26] ND Nemzeti Dohánykereskedelmi Nonprofit Zrt.,
+2.42.[^26]
 
 2.43. Nemzeti Reorganizációs Nonprofit Kft.,
 
@@ -288,7 +288,7 @@
 [^4]: Az 1. melléklet 1. pont 1.33. alpontja az 1405/2019. (VII. 8.) Korm. határozat 7. pontjával megállapított szöveg.
 [^5]: Az 1. melléklet 1. pont 1.34. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont a) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^6]: Az 1. melléklet 1. pont 1.38. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont b) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
-[^7]: Az 1. melléklet 1. pont 1.42. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont c) alpontja hatályon kívül helyezte.
+[^7]: Az 1. melléklet 1. pont 1.42. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont c) alpontja hatályon kívül helyezte, újonnan az 1378/2022. (VII. 29.) Korm. határozat 3. pontja iktatta be.
 [^8]: Az 1. melléklet 1. pont 1.44. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont d) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^9]: Az 1. melléklet 1. pont 1.45. alpontját az 1911/2021. (XII. 15.) Korm. határozat 1. pontja újból hatályon kívül helyezte.
 [^10]: Az 1. melléklet 1. pont 1.48. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont f) alpontja hatályon kívül helyezte.
@@ -307,7 +307,7 @@
 [^23]: Az 1. melléklet 2. pont 2.7. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^24]: Az 1. melléklet 2. pont 2.39. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^25]: Az 1. melléklet 2. pont 2.40. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^26]: Az 1. melléklet 2. pont 2.42. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 2. pont 2.42. alpontját az 1378/2022. (VII. 29.) Korm. határozat 4. pontja hatályon kívül helyezte.
 [^27]: Az 1. melléklet 2. pont 2.51. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^28]: Az 1. melléklet 2. pont 2.54. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontjával megállapított szöveg.
 [^29]: Az 1. melléklet 2. pont 2.57. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
