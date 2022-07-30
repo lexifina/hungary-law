@@ -1,5 +1,3 @@
-## 1. § A játékkaszinót, kártyatermet működtetők, távszerencsejátéknak nem minősülő fogadást, távszerencsejátékot és online kaszinójátékot szervezők részére a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény végrehajtásának, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló 4/2021. (X. 21.) SZTFH rendelet (a továbbiakban: Rendelet) 2. § 1. pontja helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## (E rendelet alkalmazásában)
-
-## „1. megerősített eljárás: az ügyfélben, az igénybe vett szerencsejáték-szolgáltatásban, az ügyletben, a szerencsejáték-szolgáltatás igénybevételének online vagy offline módjában, valamint a földrajzi kitettségben rejlő kockázat kezelésére szolgáló, a Pmt. 65. §-a szerinti belső szabályzatban meghatározott esetekben végzett fokozott ügyfél-átvilágítási intézkedések alkalmazása és a szolgáltató monitoring tevékenységének az ügyfélnek a szolgáltatás igénybevétele során végzett játéktevékenysége egészére történő kiterjesztése, beleértve az ügyfélprofiltól történő eltérés vizsgálatát is;”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
