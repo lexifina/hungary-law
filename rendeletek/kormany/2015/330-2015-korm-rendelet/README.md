@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-330-20-
 | 2017-07-01 | 2015-330-20-22.3 | 172/2017. (VI. 29.) Korm. rendelet |
 | 2018-05-10 | 2015-330-20-22.4 | 394/2017. (XII. 13.) Korm. rendelet |
 | 2020-07-31 | 2015-330-20-22.5 | 375/2020. (VII. 30.) Korm. rendelet |
+| 2022-07-30 | 2015-330-20-22.6 | 274/2022. (VII. 29.) Korm. rendelet |
