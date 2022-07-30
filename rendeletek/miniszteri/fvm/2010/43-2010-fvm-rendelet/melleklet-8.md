@@ -1,4 +1,4 @@
-8. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^172]
+8. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^176]
 
 ## Az integrált növényvédelem általános elvei
 
@@ -6,9 +6,9 @@
 
 1.1. megfelelő, a kultúrnövény optimális fejlődését biztosító, a károsítók elleni kompetícióját elősegítő agrotechnikai elemek,
 
-1.2.[^173] rezisztens vagy toleráns növényfajták alkalmazása azoknál a növényfajoknál, ahol ez technológiailag indokolt; fémzárolt vetőmagok és ellenőrzött szaporítóanyagok használata,
+1.2.[^177] rezisztens vagy toleráns növényfajták alkalmazása azoknál a növényfajoknál, ahol ez technológiailag indokolt; fémzárolt vetőmagok és ellenőrzött szaporítóanyagok használata,
 
-1.3.[^174] talajvizsgálatra, vagy a növény tápanyag szükségletére alapozott tápanyag-utánpótlás, szükség szerint talajjavítás és a talaj optimális nedvességtartalmát biztosító eljárások alkalmazása,
+1.3.[^178] talajvizsgálatra, vagy a növény tápanyag szükségletére alapozott tápanyag-utánpótlás, szükség szerint talajjavítás és a talaj optimális nedvességtartalmát biztosító eljárások alkalmazása,
 
 1.4. a károsítók elterjedésének megakadályozása a gépek, berendezések, öntözőcsatornák rendszeres tisztításával,
 
@@ -22,13 +22,13 @@
 
 5. A felhasznált növényvédő szereknek a védekezéssel elérni kívánt célnak leginkább megfelelőnek kell lenniük és a lehető legkevesebb mellékhatással kell járniuk az emberi egészségre, a nem célszervezetekre és a környezetre.
 
-6.[^175] A növényvédő szert felhasználónak a növényvédő szerek használatát és az egyéb beavatkozási formákat a szükséges szinten kell tartania. Az engedélyezett dózishatárok figyelembevételével a felhasználónak törekednie kell a lehető legalacsonyabb, még hatékony dózis használatára, annak érdekében, hogy elkerülje a rezisztencia kialakítását. A felhasználónak a kezelések számát úgy kell megválasztani, hogy a károsítók gazdasági kártételi küszöb alá szorításához szükséges minimális kezelési számot alkalmazza. Károsítók foltszerű előfordulása esetén lehetőség szerint foltkezelést kell alkalmazni, figyelembe véve, hogy a növényzetben a kockázati szintnek elfogadhatónak kell lennie, és nem szabad növelni annak kockázatát, hogy a károsítók populációi rezisztenssé váljanak.
+6.[^179] A növényvédő szert felhasználónak a növényvédő szerek használatát és az egyéb beavatkozási formákat a szükséges szinten kell tartania. Az engedélyezett dózishatárok figyelembevételével a felhasználónak törekednie kell a lehető legalacsonyabb, még hatékony dózis használatára, annak érdekében, hogy elkerülje a rezisztencia kialakítását. A felhasználónak a kezelések számát úgy kell megválasztani, hogy a károsítók gazdasági kártételi küszöb alá szorításához szükséges minimális kezelési számot alkalmazza. Károsítók foltszerű előfordulása esetén lehetőség szerint foltkezelést kell alkalmazni, figyelembe véve, hogy a növényzetben a kockázati szintnek elfogadhatónak kell lennie, és nem szabad növelni annak kockázatát, hogy a károsítók populációi rezisztenssé váljanak.
 
 7. A növényvédelmi technológia kialakítása során figyelemmel kell lenni a rezisztencia kialakulásának megelőzésére.
 
 8. Az adott évi növényvédelmi technológia, illetve a szükséges növényvédelmi intézkedések megtervezése során figyelembe kell venni az előző évi növényvédelmi intézkedések hatékonyságával kapcsolatos tapasztalatokat.
 
-[^172]: A 8. mellékletet a 46/2012. (V. 8.) VM rendelet 5. §-a iktatta be.
-[^173]: A 8. melléklet 1. pont 1.2. alpontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.
-[^174]: A 8. melléklet 1. pont 1.3. alpontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.
-[^175]: A 8. melléklet 6. pontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.
+[^176]: A 8. mellékletet a 46/2012. (V. 8.) VM rendelet 5. §-a iktatta be.
+[^177]: A 8. melléklet 1. pont 1.2. alpontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.
+[^178]: A 8. melléklet 1. pont 1.3. alpontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.
+[^179]: A 8. melléklet 6. pontja a 45/2021. (XII. 1.) AM rendelet 16. §-ával megállapított szöveg.

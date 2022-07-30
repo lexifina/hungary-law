@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-43-20-8
 | 2021-12-16 | 2010-43-20-82.21 | 45/2021. (XII. 1.) AM rendelet |
 | 2022-01-01 | 2010-43-20-82.22 | 45/2021. (XII. 1.) AM rendelet |
 | 2022-07-01 | 2010-43-20-82.23 | 45/2021. (XII. 1.) AM rendelet |
+| 2022-07-30 | 2010-43-20-82.24 | 22/2022. (VII. 29.) AM rendelet |

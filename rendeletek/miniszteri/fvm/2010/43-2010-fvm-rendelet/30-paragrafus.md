@@ -1,8 +1,8 @@
 30. §[^115] (1) Az értékesítési célra szánt növény, növényi termék előállítása, raktározása és feldolgozása során végzett növényvédő szeres kezelésekről – ideértve a csávázott vetőmag vetését is – a (3) bekezdés szerinti adattartalommal permetezési naplót vagy tartalmában annak megfelelő, a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló miniszteri rendelet szerinti gazdálkodási naplót (a továbbiakban együtt: nyilvántartás) kell vezetni.
 
-(2) Az (1) bekezdés szerinti permetezési naplót a NÉBIH elektronikus felületén kell vezetni.
+(2)[^116] Az (1) bekezdés szerinti permetezési naplót a NÉBIH elektronikus felületén, más elektronikus úton vagy papír alapon kell vezetni.
 
-(3) A növényvédő szeres kezelésről vezetett nyilvántartás az alábbi adatokat tartalmazza:
+(3)[^117] Az (1) bekezdés szerinti nyilvántartás az alábbi adatokat tartalmazza:
 
 a) a termelő neve és lakcíme, FELIR-azonosítója;
 
@@ -24,10 +24,14 @@ i) az élelmezés-egészségügyi várakozási idő; valamint
 
 j) a betakarítás időpontja (hó, nap).
 
-(4) Az (1) bekezdésben meghatározott nyilvántartást az adott növényvédő szeres kezelés vonatkozásában a munkavégzést megelőzően vagy azzal egyidejűleg kell kitölteni.
+(4)[^118] A növényvédő szeres kezelést az (1) bekezdésben meghatározott nyilvántartásban a munkavégzést követő 24 órán belül fel kell tüntetni.
 
 (5) Ha a csávázás nem a termelőnél történt, a termelő a csávázott vetőmag vásárlásáról kiállított – a csávázás tényét, az alkalmazott készítmény megnevezését tartalmazó – számlát 3 évig meg kell őrizni.
 
-(6) A 29. § (6) bekezdése és az (1) bekezdés szerinti nyilvántartásnak minősülő gazdálkodási napló csak a felhasználásért felelős személy aláírásával, pecsétjével és dátummal ellátva érvényes. A gazdálkodási naplót az utolsó bejegyzést követő három évig meg kell őrizni.
+(6)[^119] A permetezési naplót az utolsó bejegyzést követően a harmadik naptári év végéig meg kell őrizni.
 
 [^115]: A 30. § a 45/2021. (XII. 1.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^116]: A 30. § (2) bekezdése a 22/2022. (VII. 29.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^117]: A 30. § (3) bekezdés nyitó szövegrésze a 22/2022. (VII. 29.) AM rendelet 3. §-a szerint módosított szöveg.
+[^118]: A 30. § (4) bekezdése a 22/2022. (VII. 29.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^119]: A 30. § (6) bekezdése a 22/2022. (VII. 29.) AM rendelet 1. § (3) bekezdésével megállapított szöveg.

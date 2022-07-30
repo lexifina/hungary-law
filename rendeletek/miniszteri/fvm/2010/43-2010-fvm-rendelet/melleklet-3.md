@@ -1,3 +1,3 @@
-3. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^166]
+3. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^170]
 
-[^166]: A 3. mellékletet a 45/2021. (XII. 1.) AM rendelet 18. § g) pontja hatályon kívül helyezte.
+[^170]: A 3. mellékletet a 45/2021. (XII. 1.) AM rendelet 18. § g) pontja hatályon kívül helyezte.

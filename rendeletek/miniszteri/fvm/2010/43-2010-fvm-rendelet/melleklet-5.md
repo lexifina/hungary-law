@@ -1,3 +1,3 @@
-5. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^168]
+5. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^172]
 
-[^168]: Az 5. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
+[^172]: Az 5. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § h) pontja hatályon kívül helyezte.
