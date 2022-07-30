@@ -4,7 +4,7 @@
 
 a) a Kezes a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:419. §-a szerinti kezességet vállal;
 
-b) a Kezes által vállalt kezesség és az annak alapjául szolgáló hitel-, kölcsön- és kötvényügylet a jogszabályoknak megfelel;
+b)[^1] a Kezes által vállalt kezesség és az annak alapjául szolgáló hitel-, kölcsön- és kötvényügylet, valamint egyéb pénzügyi kötelezettségvállalás a jogszabályoknak megfelel;
 
 c) a Kezes által vállalt kezesség megfelel az éves költségvetési törvényekben meghatározott feltételeknek;
 
@@ -12,7 +12,9 @@ d) a Kezes kezességvállalása az éves költségvetési törvényekben meghat�
 
 e) a Kezes kezességvállalási tevékenységét piaci módon végzi, az nem tartalmaz az európai uniós szabályozás szerinti állami támogatást; és
 
-f) a Kezes által vállalt kezesség alapjául szolgáló hitel-, kölcsön- és kötvényügylethez más állami kezesség, garancia, viszontgarancia vagy állami többségi tulajdonú gazdasági társaság által vállalt kezesség nem kapcsolódik.
+f)[^2] a Kezes által vállalt kezesség alapjául szolgáló hitel-, kölcsön- és kötvényügylethez, valamint egyéb pénzügyi kötelezettségvállaláshoz más állami kezesség, garancia, viszontgarancia vagy állami többségi tulajdonú gazdasági társaság által vállalt kezesség nem kapcsolódik.
+
+g)[^3] a Kezes által vállalt kezesség alapjául szolgáló hitel-, kölcsön- és kötvényügylet nem lehet folyószámlához kapcsolódó hitelszerződés, valamint az egyéb pénzügyi kötelezettségvállalás nem lehet költségvetési támogatás megszerzése vagy egyéb költségvetési forrás felhasználása érdekében állami vagy állam nevében, illetve javára eljáró szervezet részére nyújtandó biztosíték.
 
 (2) Nem köthető készfizető kezességvállalási szerződés olyan vállalkozás kötelezettségére,
 
@@ -29,3 +31,7 @@ b) amely csőd-, felszámolási, adósságrendezési eljárás vagy végelszámo
 (6) A kötvényügylethez kapcsolódó kezesség esetén a Kezest terhelő fizetési kötelezettség több jogosult (kötvénytulajdonos) irányába, és egymástól időben elkülönülve is fennállhat.
 
 (7) Az éves költségvetési törvényekben meghatározott állományi keretösszegnek való megfelelés szempontjából a Kezes devizában vállalt kötelezettségeinek forintra történő átszámításánál a Magyar Nemzeti Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyamot kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 277/2022. (VII. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés f) pontja a 277/2022. (VII. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés g) pontját a 277/2022. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
