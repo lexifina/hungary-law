@@ -18,9 +18,10 @@ ag) kiszerelési egységét;
 
 b) a gyógyszerkészlet és forgalmi adatok követhetőségéhez szükséges adatokat;
 
-c) a gyógyszert kiszállító nagykereskedő megnevezését.
+c)[^129] a gyógyszert kiszállító nagykereskedő vagy a gyógyszer-kiskereskedelmi tevékenységet folytató üzletet a Gyftv. 68. § (3a) bekezdése szerinti megállapodás alapján gyógyszerrel ellátó közforgalmú gyógyszertár megnevezését.
 
 (3) Gyógyszertáron kívül is forgalmazható gyógyszer ajándékként, mintaként, vásárlásra jogosító utalvány ellenében és egyéb természetbeni rabattként sem közvetlenül, sem közvetett formában a betegnek, fogyasztónak nem forgalmazható, nem adható és nem ajánlható fel.
 
 [^127]: A 41. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be, szövege a 67/2011. (XII. 13.) NEFMI rendelet 4. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
 [^128]: A 42. §-t a 44/2006. (XII. 27.) EüM rendelet 1. §-a iktatta be.
+[^129]: A 42. § (2) bekezdés c) pontja a 24/2022. (VII. 29.) BM rendelet 3. §-ával megállapított szöveg.
