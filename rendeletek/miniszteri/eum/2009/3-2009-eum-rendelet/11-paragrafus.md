@@ -1,5 +1,7 @@
-11. § (1) A forgalomba hozatali engedély jogosultja, illetve meghatalmazott képviselője köteles gondoskodni az általa forgalmazott gyógyszerekkel kapcsolatos kereskedelmi kommunikációs tevékenység irányításának saját szervezetén belüli megszervezéséről, e célból egy tudományos szervezeti egység létrehozásával.
+11. § (1)[^24] A gyógyszer forgalombahozatali engedélyének jogosultja, a gyógyszer forgalmazására jogosult, illetve ezek meghatalmazott képviselője vagy az ezek megbízása alapján eljáró más gazdálkodó szervezet köteles gondoskodni az általa forgalmazott gyógyszerekkel kapcsolatos kereskedelmi kommunikációs tevékenység irányításának saját szervezetén belüli megszervezéséről, e célból egy tudományos szervezeti egység létrehozásával.
 
 (2) A forgalomba hozatali engedély jogosultja és a gyógyászati segédeszköz gyártója, illetve ezek meghatalmazott képviselője köteles az általa forgalmazott termékekre vonatkozó valamennyi kereskedelmi kommunikáció egy mintáját, illetve elektronikus tervezetét, a kereskedelmi kommunikáció fajtájától függően annak eredeti mérete vagy mértéke meghatározásával, annak címzetti célcsoportját, terjesztésének módját és a terjesztés megkezdésének időpontját feltüntető dokumentációt öt évig megőrizni.
 
 (3) A forgalomba hozatali engedély jogosultja és a gyógyászati segédeszköz gyártója, illetve ezek meghatalmazott képviselője köteles meggyőződni arról, hogy az általa forgalmazott termékek ismertetését végző személyek megfelelő képzésben részesültek, és megfelelnek a vonatkozó követelményeknek, továbbá biztosítani az általa forgalmazott termékek ismertetését végző személyek megfelelő képzését.
+
+[^24]: A 11. § (1) bekezdése a 24/2022. (VII. 29.) BM rendelet 8. §-ával megállapított szöveg.

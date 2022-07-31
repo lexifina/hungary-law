@@ -1,4 +1,4 @@
-9. § (1) Karitatív célra térítésmentesen gyógyszer, illetve gyógyászati segédeszköz csak olyan egészségügyi vagy szociális intézmény, illetve karitatív szervezet számára adományozható, ahol a gyógyszer, gyógyászati segédeszköz felhasználásának szakmai feltétele, továbbá a felhasználás ellenőrzése biztosított.
+9. § (1)[^21] Karitatív célra térítésmentesen gyógyszer, illetve gyógyászati segédeszköz csak olyan egészségügyi vagy szociális intézmény, illetve karitatív szervezet számára adományozható, ahol a gyógyszer, gyógyászati segédeszköz felhasználásának szakmai feltétele, továbbá a felhasználás ellenőrzése biztosított. Térítésmentes gyógyszer-, gyógyászatisegédeszköz-adomány fekvőbeteg-ellátást biztosító egészségügyi szolgáltató részére az intézeti gyógyszertár útján adható.
 
 (2) Az (1) bekezdés szerinti adományozásról jegyzőkönyvet kell készíteni, amely tartalmazza:
 
@@ -49,3 +49,5 @@ e) az átadás időpontját.
 a) „Gyógyszeradomány, kereskedelmi forgalomba nem hozható!”, illetve
 
 b) „Gyógyászati segédeszköz adomány, kereskedelmi forgalomba nem hozható!”.
+
+[^21]: A 9. § (1) bekezdése a 24/2022. (VII. 29.) BM rendelet 7. §-ával megállapított szöveg.
