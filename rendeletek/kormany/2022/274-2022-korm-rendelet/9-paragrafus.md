@@ -1,5 +1,3 @@
-## 8. § A 79/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdése a következő g) ponttal egészül ki:
+## 8. §[^8]
 
-## (A felső vezetés biztosítja)
-
-## „g) a fenntarthatósági kockázatoknak az a)–f) pontban meghatározott tevékenységekbe való integrálását.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

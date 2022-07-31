@@ -1,5 +1,3 @@
-## 7. § A 79/2014. (III. 14.) Korm. rendelet 4. §-a a következő d) ponttal egészül ki:
+## 7. §[^7]
 
-## (Az ÁÉKBV-alapkezelő – üzleti tevékenységének jellegével, összetettségével, valamint az általa kezelt kollektív befektetési formák számával, méretével és diverzifikációjával összhangban –)
-
-## „d) biztosítja azon erőforrások és szakértelem rendelkezésre állását, amely a fenntarthatósági kockázatok hatékony integrálásához szükséges.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
