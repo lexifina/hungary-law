@@ -1,1 +1,3 @@
-## „(10) A felsőoktatási intézmény az önköltséges képzésre történő átsorolásról szóló döntéseinek számáról július 15-éig képzési területenként tájékoztatja a Hivatalt.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
