@@ -2,7 +2,11 @@
 
 2. § (1) E rendelet alkalmazásában
 
-a)[^1] szaktevékenység: a gyógyszer készítése, vizsgálata, készletezése, ellenőrzése, tárolása, valamint a gyógyszerek, tápszerek, gyógyászati segédeszközök és a gyógyszertárban forgalmazható egyéb termékek helyes alkalmazására vonatkozó teljeskörű szakmai tájékoztatással történő kiadása, továbbá a gyógyszerészi gondozás és a betegségek megelőzését szolgáló, a betegekkel történő együttműködést megvalósító felvilágosító, tanácsadó szolgáltatás, a helyes és eredményes gyógyszeres terápia elősegítése, követése;
+a)[^1] szaktevékenység:
+
+aa) a közvetlen lakossági gyógyszerellátás keretében a gyógyszer készítése, vizsgálata, készletezése, ellenőrzése, tárolása, valamint a gyógyszerek, anyatej-helyettesítő tápszerek, anyatej-kiegészítő tápszerek, speciális gyógyászati célra szánt tápszerek és élelmiszerek (az anyatej-helyettesítő tápszer, anyatej-kiegészítő tápszer, speciális gyógyászati célra szánt tápszer és élelmiszer a továbbiakban együtt: tápszer), gyógyászati segédeszközök és a gyógyszertárban forgalmazható egyéb termékek helyes alkalmazására vonatkozó teljes körű szakmai tájékoztatással történő kiadása, továbbá a gyógyszerészi gondozás és a betegségek megelőzését szolgáló, a betegekkel történő együttműködést megvalósító felvilágosító, tanácsadó szolgáltatás, a helyes és eredményes gyógyszeres terápia elősegítése, követése,
+
+ab) a Gyftv. 55. § (1) bekezdésében foglalt feladat;
 
 b) funkcionális helyiség: az a) pont szerinti egyes gyógyszerészi szaktevékenységek kizárólagos céljára szolgáló, önálló légtérrel rendelkező helyiség;
 
@@ -32,7 +36,7 @@ n)[^8] gyógyszerészi gondozás: a Gyftv. 3. § 26. pontja szerinti tevékenys�
 
 (2)[^9] Az építészeti fogalmak tekintetében – ha e jogszabály eltérő meghatározást nem tartalmaz – az épített környezetről szóló külön jogszabályokban foglalt értelmező rendelkezéseket kell alkalmazni.
 
-[^1]: A 2. § (1) bekezdés a) pontja a 31/2010. (XII. 30.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § (1) bekezdés a) pontja a 24/2022. (VII. 29.) BM rendelet 4. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdés c) pontja az 56/2009. (XII. 30.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés d) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
 [^4]: A 2. § (1) bekezdés e) pontja az 56/2009. (XII. 30.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.

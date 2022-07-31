@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-41-20-0
 | 2021-07-07 | 2007-41-20-0B.22 | 29/2021. (VII. 6.) EMMI rendelet |
 | 2022-01-01 | 2007-41-20-0B.23 | 3/2015. (I. 14.) EMMI rendelet |
 | 2022-01-31 | 2007-41-20-0B.24 | 2/2022. (I. 14.) EMMI rendelet |
+| 2022-07-31 | 2007-41-20-0B.25 | 24/2022. (VII. 29.) BM rendelet |

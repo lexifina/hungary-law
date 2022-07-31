@@ -2,7 +2,7 @@
 
 17. § (1)[^66]
 
-(2)[^67] A gyógyszerek minőségi kifogásaival összefüggésben hozott rendelkezésekről a közforgalmú gyógyszertár az általa ellátott kézigyógyszertárat és az általa működtetett fiókgyógyszertárat haladéktalanul értesíti, és az értesítés megtörténtét a 18. § (1) bekezdés i) pontja szerinti nyilvántartásban rögzíti.
+(2)[^67] A gyógyszerek minőségi kifogásaival összefüggésben hozott rendelkezésekről a közforgalmú gyógyszertár az általa ellátott kézigyógyszertárat, gyógyszertáron kívüli gyógyszerforgalmazást végző üzletet és az általa működtetett fiókgyógyszertárat haladéktalanul értesíti, és az értesítés megtörténtét a 18. § (1) bekezdés i) pontja szerinti nyilvántartásban rögzíti.
 
 (3) A működési engedéllyel rendelkező gyógyszertárnak a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50/C. § (4) bekezdésében meghatározott feladatok ellátására hatósági nyilvántartásba történő betekintést biztosító információs rendszert kell működtetnie.
 
@@ -19,7 +19,7 @@ b) internetes gyógyszerforgalmazásra jogosult magyarországi gyógyszertárak 
 c) tájékoztatás az elektronikus kereskedelmi szolgáltatások keretében a lakosság számára jogellenesen szállított gyógyszerekkel kapcsolatos kockázatokról.
 
 [^66]: A 17. § (1) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^67]: A 17. § (2) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 32. §-ával megállapított szöveg.
+[^67]: A 17. § (2) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 32. §-ával megállapított, a 24/2022. (VII. 29.) BM rendelet 5. § a) pontja szerint módosított szöveg.
 [^68]: A 17. § (4) bekezdését az 56/2009. (XII. 30.) EüM rendelet 10. § (2) bekezdése iktatta be, szövege az 56/2013. (VII. 31.) EMMI rendelet 35. § f) pontja, a 23/2015. (IV. 28.) EMMI rendelet 92. § f) pontja szerint módosított szöveg.
 [^69]: A 17. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 10. § (2) bekezdése iktatta be, szövege a 3/2015. (I. 14.) EMMI rendelet 21. § f) pontja, a 23/2015. (IV. 28.) EMMI rendelet 92. § g) pontja szerint módosított szöveg.
 [^70]: A 17. § (6) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 25. §-a iktatta be, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 92. § h) pontja szerint módosított szöveg.
