@@ -76,10 +76,6 @@
 
 ## * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-2. melléklet az 1378/2022. (VII. 29.) Korm. határozathoz
+2. melléklet az 1378/2022. (VII. 29.) Korm. határozathoz[^4]
 
-A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklet 1. pontja a következő 1.42. alponttal egészül ki:
-
-[A központi államigazgatási és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények:]
-
-„1.42. Szabályozott Tevékenységek Felügyeleti Hatósága,”
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

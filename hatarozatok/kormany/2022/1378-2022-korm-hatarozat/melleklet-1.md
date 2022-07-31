@@ -22,14 +22,18 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
+## 3.[^1]
 
-## 4. Hatályát veszti a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklet 2. pont 2.42. alpontja.
+## 4.[^2]
 
-## 5. Az ukrajnai infrastrukturális újjáépítéshez, valamint a belső menekültek megsegítéséhez szükséges pénzügyi forrás biztosításáról szóló 1318/2022. (VII. 1.) Korm. határozat 6. pontjában a „XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása cím” szövegrész helyébe a „XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Gazdaság újraindítását szolgáló külügyi fejezeti kezelésű előirányzatok alcím, 2. Külügyi fejlesztési és kutatási programok jogcímcsoport” szöveg lép.
+## 5.[^3]
 
 1. melléklet az 1378/2022. (VII. 29.) Korm. határozathoz
 
 XI. Miniszterelnökség
 
 XLVII. Gazdaság-újraindítási Alap
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
