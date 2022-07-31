@@ -46,7 +46,7 @@
 
 | I.3.6. | Személyes gyógyszertár működtetési jog (személyi jog) átruházásának engedélyezése | 5 000 Ft |
 
-| I.3.7. | Gyógyszertár áthelyezésének engedélyezése | 5 000 Ft |
+| I.3.7. | Fiókgyógyszertár áthelyezésének engedélyezése | 5 000 Ft |
 
 | II. | Egyes élelmiszerekkel kapcsolatos igazgatási szolgáltatások |  |
 
