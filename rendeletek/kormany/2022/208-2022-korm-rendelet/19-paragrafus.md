@@ -1,5 +1,3 @@
 ## 11. Az Európai Unió jogának való megfelelés
 
-19. §[^18]
-
-[^18]: A 19. § a 18. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+19. § Ez a rendelet a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

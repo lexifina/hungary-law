@@ -1,3 +1,1 @@
-16. §[^16]
-
-[^16]: A 16. § a 18. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+16. § A gyermekelviteli központi hatóság egyéb feladatai tekintetében a 9. § és a 11. § rendelkezéseit a kapcsolattartási ügyek sajátosságaiból eredő eltérésekkel kell alkalmazni.

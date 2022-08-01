@@ -1,3 +1,1 @@
-15. §[^15]
-
-[^15]: A 15. § a 18. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+15. § A kérelem gyermekelviteli központi hatóság általi visszautasítására a 6. §-ban foglaltak alkalmazandók, azzal, hogy a gyermekelviteli központi hatóság arról tájékoztatja a kérelmezőt, hogy kérelmével közvetlenül a kapcsolattartás biztosítása iránti eljárás lefolytatására illetékes magyar bírósághoz vagy gyámhatósághoz fordulhat.

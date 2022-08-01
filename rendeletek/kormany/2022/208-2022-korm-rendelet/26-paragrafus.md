@@ -1,5 +1,5 @@
 ## 13. A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet módosítása
 
-26. §[^25]
+26. § A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 9. §-a a következő k)–m) ponttal egészül ki:
 
-[^25]: A 26. § a 18. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+(A gyámhivatal a kapcsolattartással, a szülői felügyeleti joggal és a gyermektartásdíjjal kapcsolatban)

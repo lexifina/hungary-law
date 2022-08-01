@@ -4,6 +4,4 @@
 
 ## 8. A kapcsolattartás belföldön való biztosítása az Egyezmény alapján
 
-14. §[^14]
-
-[^14]: A 14. § a 18. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+14. § A gyermekelviteli központi hatóság a kérelmező kérelme alapján szükség esetén megteszi a 7. § a)–b) és e) pontja, a kérelmezett nyilatkozata alapján a 7. § c) pontja, valamint a felek kérésére a 8. § szerinti intézkedéseket.

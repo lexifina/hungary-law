@@ -1,3 +1,3 @@
-28. §[^27]
+## „19/C. § A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal ellátja a szülői felelősséget érintő nemzetközi igazságügyi együttműködésről szóló 2021. évi LXII. törvény 31. § (2) és (3) bekezdése szerinti feladatokat.”
 
-[^27]: A 28. § a 18. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+28. § A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet „ZÁRÓ RENDELKEZÉSEK” alcíme a következő 28/A. §-sal egészül ki:

@@ -1,3 +1,1 @@
-6. §[^6]
-
-[^6]: A 6. § a 18. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+6. § A gyermekelviteli központi hatóság a kérelem visszautasítása esetén arról tájékoztatja a kérelmezőt, hogy kérelmével közvetlenül a Pesti Központi Kerületi Bírósághoz fordulhat.

@@ -1,3 +1,1 @@
-8. §[^8]
-
-[^8]: A 8. § a 18. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+8. § A gyermekelviteli központi hatóság a felek kérésére rendelkezésükre bocsátja a közvetítői tevékenységről szóló 2002. évi LV. törvény 4. § (1) bekezdése szerinti közvetítői névjegyzékből a családjogi szakterületen, a felek választása szerinti nyelven közvetítést vállaló közvetítők listáját, és szükség esetén a közvetítés megszervezéséhez segítséget nyújt.
