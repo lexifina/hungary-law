@@ -2,4 +2,4 @@
 
 (2) A NAV által kezelt adatokat személyazonosításra alkalmatlan módon, történelmi kutatási, statisztikai vagy tudományos célra lehet felhasználni.
 
-(3) A kijelölt miniszter, az állami adó- és vámhatóság vezetője, az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese, továbbá a Bűnügyi Főigazgatóság vezetője a NAV által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
+(3) A kijelölt miniszter, a NAV elnöke, a NAV bűnügyi tevékenységét felügyelő elnökhelyettes, továbbá a Bűnügyi Főigazgatóság vezetője a NAV által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
