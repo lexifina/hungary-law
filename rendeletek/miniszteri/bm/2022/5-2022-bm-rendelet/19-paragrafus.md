@@ -1,0 +1,3 @@
+19. § (1) A rendvédelmi tisztjelölt részére térítésmentesen nyújtott élelmezéssel kapcsolatos költségeket – a rendvédelmi szerv által közvetlenül, természetben biztosított élelmezés költségeinek kivételével – a rendvédelmi szerv előirányzat-átadással biztosítja az NKE részére. A térítésmentes élelmezés költségeinek kiszámítására vonatkozó rendelkezéseket az NKE és a rendvédelmi szerv közötti megállapodás tartalmazza.
+
+(2) A térítés ellenében megállapított élelmezés esetén a rendvédelmi tisztjelölt a térítési díjat közvetlenül a természetbeni élelmezési szolgáltatást biztosító részére fizeti meg.

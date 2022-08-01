@@ -1,0 +1,3 @@
+3. § (1) A rendvédelmi szerv rendvédelmi tisztjelölti állományába kinevezést (a továbbiakban: kinevezés) követően a rendvédelmi tisztjelölti jogviszonyban álló a központi szakszolgálat útján tartja a kapcsolatot a kinevező rendvédelmi szervvel.
+
+(2) A rendvédelmi szerv a központi szakszolgálatnak a rendvédelmi tisztjelöltekkel kapcsolatos feladatokat ellátó tagja részére a tényleges ügyintézés helyeként a kapcsolattartás megkönnyítése érdekében az NKE Rendészettudományi Kar vagy az NKE Katasztrófavédelmi Intézet objektumát is kijelölheti, akár időszakosan, a szolgálatteljesítési ideje vagy munkaideje egy részére is.

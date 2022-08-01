@@ -1,0 +1,3 @@
+34. § (1) A rendvédelmi tisztjelölti jogviszony megszűnésekor vagy megszüntetésekor a központi szakszolgálat intézkedik annak érdekében, hogy a rendvédelmi tisztjelölti szolgálattal járó feladatok átadására és a leszerelés végrehajtására legkésőbb a rendvédelmi tisztjelölti jogviszonynak az általános munkarend szerinti munkanapra eső utolsó napján sor kerüljön.
+
+(2) Ha a rendvédelmi tisztjelölt akadályoztatása miatt vagy közreműködésének hiányában a leszerelés végrehajtása elmarad, a központi szakszolgálat a rendvédelmi tisztjelölti jogviszony megszűnését követő tíz napon belül intézkedik annak megállapítására, hogy a rendvédelmi tisztjelölt esetlegesen mely – elszámolási kötelezettséggel kiadott – vagyontárgyakkal nem számolt el.
