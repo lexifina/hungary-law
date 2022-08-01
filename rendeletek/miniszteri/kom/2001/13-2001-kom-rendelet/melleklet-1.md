@@ -1,3 +1,3 @@
-1. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^19]
+1. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^34]
 
-[^19]: Az 1. számú melléklet a 66/2015. (X. 26.) FM rendelet 3. §-ával megállapított szöveg.
+[^34]: Az 1. számú melléklet a 20/2022. (VII. 29.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
