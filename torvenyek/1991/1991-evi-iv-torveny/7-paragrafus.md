@@ -16,7 +16,7 @@ alapján létesíthet foglalkoztatásra irányuló jogviszonyt.
 
 a) rendeletben a szabad mozgás és tartózkodás jogával rendelkező, valamint az (1) bekezdésben meghatározott engedély alól mentes személy magyarországi foglalkoztatása tekintetében bejelentési kötelezettséget írjon elő, továbbá
 
-b) az (1) bekezdés b) pontjában meghatározott engedély tekintetében
+b) az (1) bekezdésben meghatározott engedélyek tekintetében
 
 ba) Magyarország nemzetközi kötelezettségeire, a harmadik országbeli állampolgár személyi, családi és egyéb körülményeire figyelemmel, valamint munkaerő-piaci szempontok alapján egyes tevékenységeket érintően, az engedélyezési kötelezettség alóli mentesség eseteit, valamint
 

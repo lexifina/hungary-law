@@ -8,7 +8,7 @@ c)
 
 d)
 
-e) a szakképzési hozzájárulás;
+e)
 
 f) a központi költségvetési támogatás;
 
