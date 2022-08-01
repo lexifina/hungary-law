@@ -1,0 +1,1 @@
+98. § Hatályát veszti a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § a) pontjában az „azzal, hogy a 3. § (1) bekezdés a) pontja szerinti feladatkörben eljáró önálló szervezeti egységek tevékenységét külön elnökhelyettes irányítja, feladatkörében kiadmányozási joggal felruházva,” szövegrész.

@@ -1,0 +1,3 @@
+3. § A koncesszióról szóló 1991. évi XVI. törvény 11/A. §-a helyébe a következő rendelkezés lép:
+
+„11/A. § Ha e törvény 4. § (3) bekezdése alapján lefolytatott pályázat vagy a Kbt. szerint közbeszerzési vagy koncessziós beszerzési eljárás eredményes, az annak eredményeként létrejövő szerződés megkötésével egyidejűleg a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés megszűnik.”

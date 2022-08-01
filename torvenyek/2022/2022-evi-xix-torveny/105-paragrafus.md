@@ -1,0 +1,1 @@
+105. § A 3. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján, a 62. § az Alaptörvény 46. cikk (6) bekezdése alapján, a 88–95. §, 97. § a)–l) pontja és a 98. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.

@@ -1,0 +1,3 @@
+15. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 24/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szerencsejáték szervező a folyamatosan szervezett sorsolásos játék esetén az engedélyben meghatározott időszakonként és meghatározott formában időközi elszámolást, a játék megszűnése esetén végelszámolást készít. A szerencsejáték szervező a nem folyamatosan szervezett sorsolásos játék lebonyolításáról – a sorsolási eseménytől számított százötven napon belül – végelszámolást készít. A szerencsejáték szervező a végelszámolást megküldi a szerencsejáték-felügyeleti hatósághoz. A szerencsejáték-felügyeleti hatóság dönt az engedélyezett sorsolásos játék végelszámolásának jóváhagyásáról.”
