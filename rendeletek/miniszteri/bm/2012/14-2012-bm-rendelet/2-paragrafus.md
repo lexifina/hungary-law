@@ -14,7 +14,7 @@ igazolja.
 
 (4) A rendőrség különleges foglalkoztatási állománya tagjának szolgálati igazolványa a rendőrség hivatásos állományába tartozást és az intézkedésre való jogosultságot igazolja.
 
-(4a)[^10] A tisztjelölt szolgálati igazolványa – az általános rendőrségi feladatok ellátására létrehozott szerv és az idegenrendészeti szerv tisztjelöltje esetén – a fegyverviselésre való jogosultságot, valamint azt igazolja, hogy a tisztjelölt önálló intézkedésre nem jogosult.
+(4a)[^10] A rendvédelmi tisztjelölt szolgálati igazolványa – az általános rendőrségi feladatok ellátására létrehozott szerv és az idegenrendészeti szerv rendvédelmi tisztjelöltje esetén – a fegyverviselésre való jogosultságot, valamint azt igazolja, hogy a rendvédelmi tisztjelölt önálló intézkedésre nem jogosult.
 
 (5)[^11] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 18. § (3) bekezdésében meghatározottak mellett a szolgálati igazolvány tartalmazza
 
@@ -40,7 +40,7 @@ h)[^14] a tisztjelölt esetében a tisztjelölti szolgálati jogviszonyra utalá
 
 [^8]: A 2. § (2) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 2. § (2) bekezdés b) pontja a 29/2016. (VII. 15.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^10]: A 2. § (4a) bekezdését a 20/2016. (VI. 9.) BM rendelet 46. § (2) bekezdése iktatta be, szövege a 45/2021. (XII. 16.) BM rendelet 5. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (4a) bekezdését a 20/2016. (VI. 9.) BM rendelet 46. § (2) bekezdése iktatta be, szövege az 5/2022. (III. 31.) BM rendelet 46. § (1) bekezdésével megállapított szöveg.
 [^11]: A 2. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 55. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (5) bekezdés f) pontja a 20/2016. (VI. 9.) BM rendelet 46. § (8) bekezdése szerint módosított szöveg.
 [^13]: A 2. § (5) bekezdés g) pontja a 29/2016. (VII. 15.) BM rendelet 16. § (2) bekezdésével megállapított szöveg.
