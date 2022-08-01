@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-57-20-2
 | 2019-12-28 | 2016-57-20-2W.5 | 47/2019. (XII. 23.) ITM rendelet |
 | 2020-10-10 | 2016-57-20-2W.6 | 33/2020. (X. 5.) ITM rendelet |
 | 2021-11-10 | 2016-57-20-2W.7 | 55/2021. (XI. 5.) ITM rendelet |
+| 2022-08-01 | 2016-57-20-2W.8 | 7/2022. (VII. 27.) TIM rendelet |

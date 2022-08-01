@@ -1,5 +1,5 @@
-## 69. Lényeges helyi forgalom
+## 69.[^211]
 
-143. § (1) A légiforgalmi irányító által ismert lényeges helyi forgalomról szóló tájékoztatást késedelem nélkül továbbítania kell az érintett induló és érkező légijárművek számára.
+143. §
 
-(2) A lényeges helyi forgalomról olyan leírást kell adni, amely alapján az könnyen azonosítható.
+[^211]: A 69. alcímet (143. §) a 7/2022. (VII. 27.) TIM rendelet 22. § (2) bekezdés d) pontja hatályon kívül helyezte.

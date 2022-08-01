@@ -10,7 +10,7 @@ d) gázturbinás hajtóművel felszerelt légijármű esetén a levegő hőmérs
 
 e) a felszállás és a kezdeti emelkedés irányára jellemző látástávolsági érték, ha az 10 km-nél kevesebb vagy ha alkalmazható, a használandó futópályára vonatkozó futópálya menti látástávolság (runway visual range, a továbbiakban: RVR) érték,
 
-f) nem ellenőrzött repülőtérről történő indulás esetén a pontos idő.
+f)[^221] a pontos idő.
 
 (2) Felszállás előtt a légijárműnek meg kell adni:
 
@@ -25,3 +25,8 @@ a) a használandó futópálya,
 b) a talajszél iránya és sebessége, valamint ezek lényeges változásai,
 
 c) a QNH magasságmérő-beállítási érték és a munkahelyi előírásokkal összhangban minden alkalommal, vagy a légijármű kérésére a QFE magasságmérő-beállítási érték.
+
+d)[^222] az észlelt, futópálya menti látástávolság értékek változásai vagy a megközelítés és leszállás irányára jellemző látástávolság változásai.
+
+[^221]: A 180. § (1) bekezdés f) pontja a 7/2022. (VII. 27.) TIM rendelet 22. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^222]: A 180. § (3) bekezdés d) pontját a 7/2022. (VII. 27.) TIM rendelet 15. § (1) bekezdése iktatta be.

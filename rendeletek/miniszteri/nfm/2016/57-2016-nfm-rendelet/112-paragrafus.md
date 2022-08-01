@@ -1,3 +1,3 @@
-112. §[^131]
+112. §[^198]
 
-[^131]: A 112. §-t az 55/2021. (XI. 5.) ITM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^198]: A 112. §-t az 55/2021. (XI. 5.) ITM rendelet 14. § a) pontja hatályon kívül helyezte.

@@ -1,46 +1,14 @@
-50. § (1) Az ACC-nek és a körzeti repüléstájékoztató szolgálati egységeknek a felelősségi területén belül szolgálatot ellátó következő egységekkel kell biztosítania az összeköttetést:
+50. § (1)[^135] Az ACC-nek és a körzeti repüléstájékoztató szolgálati egységeknek az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész 4. Szakasz ATS.OR.435 pont b) alpont (1) bekezdésében meghatározottakon kívül a felelősségi területén belül szolgálatot ellátó légtérgazdálkodó egységgel (a továbbiakban: AMC) és légiforgalmi áramlásszervező egységgel (a továbbiakban: FMP) kell biztosítania az összeköttetést.
 
-a) illetékes katonai repülésirányító egységek,
+(2)[^136] A bevezető irányító egységnek és a repülőtéri irányító toronynak az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész 4. Szakasz ATS.OR.435 pont b) alpont (2) bekezdésében meghatározottakon kívül a felelősségi területén belül szolgálatot ellátó AMC-vel és FMP-vel kell biztosítania az összeköttetést.
 
-b) a körzeti ATS egységeket kiszolgáló meteorológiai iroda,
+(3)[^137] Az AFIS egységnek az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész 4. Szakasz ATS.OR.435 pont b) alpont (2) bekezdésében meghatározottakon kívül az AMC-vel és FMP-vel kell összeköttetést biztosítania.
 
-c) az érdekelt légijármű üzemben tartók,
-
-d)[^94] a légtérgazdálkodó egység (a továbbiakban: AMC),
-
-e) a mentés koordinálására kijelölt szerv,
-
-f) a körzeti ATS egységeket kiszolgáló NOTAM iroda,
-
-g)[^95] légiforgalmi áramlásszervező egység (a továbbiakban: FMP).
-
-(2) A bevezető irányító egységnek és a repülőtéri irányító toronynak a felelősségi területén belül szolgálatot ellátó következő egységekkel kell biztosítania azösszeköttetés:
-
-a) illetékes katonai repülésirányító egységek,
-
-b) kutató és mentő szolgálatok (ideértve a tűzoltó szolgálatot is),
-
-c) az érintett egységet kiszolgáló meteorológiai iroda vagy repülőtéri meteorológiai iroda,
-
-d) AMC,
-
-e) a légijárművek előtéri kiszolgálásával megbízott szolgálat, ha azt különállóan létesítették,
-
-f) FMP.
-
-(3) Az AFIS egységnek az alábbi egységekkel kell összeköttetést biztosítania:
-
-a) a felelősségi területét kiszolgáló repülőtéri meteorológiai iroda,
-
-b) a repülőtérimentő és tűzoltó szolgálat,
-
-c) AMC,
-
-d) FMP.
-
-(4) Az (1) bekezdés a) pontjában és (2) bekezdés a) pontjában meghatározott összeköttetéshez használt eszközöknek gyors és megbízható összeköttetést kell biztosítaniuk az érintett ATS egységek és azon katonai repülésirányító egységek között, amelyek az ATS egységek felelősségi területén belül az elfogási műveletek irányításáért felelősek.
+(4)[^138]
 
 (5) A veszélyes légtér közzétett üzemideje alatt a veszélyes légtérben folyó tevékenység koordinációjáért felelős személynek megfelelő kommunikációs összeköttetéssel kell rendelkeznie az érintett légiforgalmi szolgálati egységekkel, annak érdekében, hogy – ha egy kényszerhelyzetbe került légijármű biztonsága ezt megköveteli, vagy betegszállítással és az élet mentésével kapcsolatos be- és átrepülési igény merül fel – a veszélyes tevékenység felfüggeszthető legyen.
 
-[^94]: Az 50. § (1) bekezdés d) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés q) pontja szerint módosított szöveg.
-[^95]: Az 50. § (1) bekezdés g) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés q) pontja szerint módosított szöveg.
+[^135]: Az 50. § (1) bekezdése a 7/2022. (VII. 27.) TIM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^136]: Az 50. § (2) bekezdése a 7/2022. (VII. 27.) TIM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^137]: Az 50. § (3) bekezdése a 7/2022. (VII. 27.) TIM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^138]: Az 50. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés r) pontja hatályon kívül helyezte.

@@ -1,5 +1,5 @@
-## 82.[^148]
+## 82.[^220]
 
 178. §
 
-[^148]: A 82. alcímet (178. §) a 33/2020. (X. 5.) ITM rendelet 62. § m) pontja hatályon kívül helyezte.
+[^220]: A 82. alcímet (178. §) a 33/2020. (X. 5.) ITM rendelet 62. § m) pontja hatályon kívül helyezte.

@@ -1,0 +1,3 @@
+323. § (1) A légiforgalmi szolgálati közleményeket a (2) bekezdésben meghatározottak kivételével a 11. mellékletben meghatározottak szerint standard szöveggel, standard formában és standard adatszabályoknak megfelelően kell elkészíteni és továbbítani.
+
+(2) Ha a közleményváltás élőszóval történik, akkor az érintett ATS egységeknek a közlemény vételét élőszóval kell nyugtázniuk. Az irányítók közötti közvetlen írásos formában történő nyugtázásra nincs szükség. Az automatikus rendszerek között közleményváltással történt koordinálás nyugtázására szükség van, kivéve, ha az érintett egységek között erre vonatkozóan külön megállapodások vannak.

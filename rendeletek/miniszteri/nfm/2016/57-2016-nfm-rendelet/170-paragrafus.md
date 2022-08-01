@@ -32,6 +32,8 @@ ia) adják át a rádióösszeköttetést az illetékes repülőtéri irányít�
 
 ib) az egyes futópályákra megközelítést végző légijárműveket radarral ellenőrző irányítóknak biztosítják az elsőbbségi rádióösszeköttetési lehetőséget a repülőtéri irányítással valamennyi érkező forgalom viszonylatában.
 
+j)[^214] az érkező légijárművek sorrendjének kialakítását és a térközök biztosítását valamennyi futópálya esetén külön légiforgalmi irányító végzi.
+
 (2) Az (1) bekezdés a) pontjában foglalt esetben a szolgáltatások ellátására egyéb egyenértékű ATS felderítő rendszerek is felhasználhatók, ideértve az ADS-B és MLAT-t is, feltéve, hogy a teljesítménymutatók megegyeznek vagy jobbak a fentiekben leírtaknál.
 
 (3) Azt követően, hogy a légijármű összeköttetést létesített a bevezető irányítással, a légijárművet tájékoztatni kell, hogy egymástól független, párhuzamos megközelítéseket hajtanak végre. Ez az információ ATIS-on keresztül is továbbítható.
@@ -73,3 +75,5 @@ a) látáson alapuló elkülönítést alkalmaznak, feltéve, hogy az eljáráso
 b) a légijármű leszállt, vagy megszakított megközelítés esetén legalább 1 NM (2 km) távolságra van az indulási futópálya ellentétes oldali küszöbétől, és megfelelő elkülönítést biztosítottak az egyéb forgalomtól.
 
 (15) A légijárművet nem kell tájékoztatni a radarral történő repülési pálya megfigyelés befejezéséről.
+
+[^214]: A 170. § (1) bekezdés j) pontját a 7/2022. (VII. 27.) TIM rendelet 14. § (8) bekezdése iktatta be.

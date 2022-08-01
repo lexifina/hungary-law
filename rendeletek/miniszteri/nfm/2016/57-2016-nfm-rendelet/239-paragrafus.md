@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti értékek elérésekor vagy ezeket meghaladó eltérés esetén a légiforgalmi irányítóknak a (4) és az (5) bekezdésben meghatározottak szerint kell eljárniuk. Geometriai mérésen alapuló magasság információ nem használható fel légijárművek elkülönítésére.
 
-(3)[^159] A SERA rendelet melléklet 13. szakasz SERA.13010 pont b) alpontjában meghatározott ellenőrzés a légijárműtől rádiótávbeszélőn kapott, magasságmérőtől származó magasság tájékoztatással való egyidejű összehasonlítás útján történik. A légijárművet, ha nyomás magasságból származó magasság tájékoztatása a jóváhagyott tűrésértéken belül van, az ellenőrzés eredményéről nem kell tájékoztatni. Geometriai mérésen alapuló magasság információ nem használható fennálló magasság eltérések meghatározására.
+(3)[^241] A SERA rendelet melléklet 13. szakasz SERA.13010 pont b) alpontjában meghatározott ellenőrzés a légijárműtől rádiótávbeszélőn kapott, magasságmérőtől származó magasság tájékoztatással való egyidejű összehasonlítás útján történik. A légijárművet, ha nyomás magasságból származó magasság tájékoztatása a jóváhagyott tűrésértéken belül van, az ellenőrzés eredményéről nem kell tájékoztatni. Geometriai mérésen alapuló magasság információ nem használható fennálló magasság eltérések meghatározására.
 
 (4) Ha a megjelenített magasság tájékoztatás nincs a jóváhagyott tűrésértéken belül, vagy ha az ellenőrzés végrehajtása után a későbbiek során bármikor a jóváhagyott tűrésértéket meghaladó eltérést észlelnek, a légijárművet értesíteni kell, és fel kell kérni a nyomás beállítás ellenőrzésére és a magasság megerősítésére.
 
@@ -20,4 +20,4 @@ bc) tájékoztatni kell a légijármű által érintett soron következő munkah
 
 c) az ATC egységnek késedelem nélkül oldalirányú elkülönítést kell létrehoznia, vagy a repüléstájékoztató egységnek oldalirányú kitérítő tevékenységet kell tanácsolnia, az adott légijármű és annak közelében mérvadó helyzetben lévő légijárművek között.
 
-[^159]: A 239. § (3) bekezdése a 33/2020. (X. 5.) ITM rendelet 51. §-ával megállapított szöveg.
+[^241]: A 239. § (3) bekezdése a 33/2020. (X. 5.) ITM rendelet 51. §-ával megállapított szöveg.

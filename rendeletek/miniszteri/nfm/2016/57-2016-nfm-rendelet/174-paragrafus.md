@@ -4,7 +4,7 @@
 
 ## 80. A repülőtéri irányító torony feladatai
 
-174. § (1) A repülőtéri irányító torony tájékoztatásokat és engedélyeket ad ki az irányítása alatt álló légijárműveknek a repülőtéren és annak közelében működő légiforgalom biztonságos, rendszeres, gyors áramlásának megvalósítása érdekében és az összeütközések megelőzése céljából:
+174. § (1)[^216] A repülőtéri irányító torony tájékoztatásokat, utasításokat és engedélyeket ad ki az irányítása alatt álló légijárműveknek a repülőtéren és annak közelében működő légiforgalom biztonságos, rendszeres, gyors áramlásának megvalósítása érdekében és az összeütközések megelőzése céljából:
 
 a) a repülőtéri irányító torony illetékességi területén belül – beleértve a repülőtér forgalmi köreit – működő légijárművek között,
 
@@ -26,8 +26,9 @@ a) a repülőtéri légiforgalmi irányító, aki a futópályán lévő forgalo
 
 b) a gurító irányító, aki a munkaterület forgalmáért felelős, a futópályák kivételével,
 
-c)[^146] az engedélyt továbbító irányító – ahol ilyen munkahelyet létesítettek –, aki az induló IFR forgalom részére a hajtómű indítási és ATC engedélyek továbbításáért felelős.
+c)[^217] az engedélyt továbbító irányító – ahol ilyen munkahelyet létesítettek –, aki az induló IFR forgalom részére a hajtómű indítási és ATC engedélyek továbbításáért felelős.
 
 (4) Ahol párhuzamos vagy közel párhuzamos futópályákat használnak egyidejű üzemelésre, szükség szerint futópályánként külön repülőtéri légiforgalmi irányító felelős az egyes futópályákon történő működésért.
 
-[^146]: A 174. § (3) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^216]: A 174. § (1) bekezdés nyitó szövegrésze a 7/2022. (VII. 27.) TIM rendelet 18. § 18. pontja szerint módosított szöveg.
+[^217]: A 174. § (3) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés f) pontja szerint módosított szöveg.

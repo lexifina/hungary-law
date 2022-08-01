@@ -2,6 +2,6 @@
 
 ## 34. Repülőtéri földi mozgást irányító szolgálat
 
-54. § (1) A repülőtéri irányító tornyot kétoldalú rádiótávbeszélő berendezéssel kell ellátni a munkaterületen lévő jármű irányításához, ha azösszeköttetés látjelek alkalmazásával kielégítően nem oldható meg.
+54. §[^146]
 
-(2) Ha a körülmények szükségessé teszik, a munkaterületen működő járművek irányítására külön összeköttetési csatornát kell biztosítani. Az összeköttetési csatornát automatikus adatrögzítő berendezéssel kell ellátni.
+[^146]: Az 54. §-t a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés u) pontja hatályon kívül helyezte.

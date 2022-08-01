@@ -1,4 +1,4 @@
-## 140. § A 139. § (1) bekezdés szerinti mérvadó forgalomról szóló tájékoztatásnak tartalmaznia kell:
+## 140. §[^209] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész ATS.TR. 250 pont a) alpontja szerinti mérvadó forgalomról szóló tájékoztatásnak tartalmaznia kell:
 
 a) az érintett légijármű repülési irányát,
 
@@ -11,3 +11,5 @@ ca) azon helyhez legközelebb eső jelentőpontra való számított érkezési i
 cb) az érintett légijármű viszonylagos irányát óra irány (12 osztású óra) szerint, valamint a konfliktust jelentő forgalomtól való távolságot vagy
 
 cc) az érintett légijármű tényleges vagy számított helyzetét.
+
+[^209]: A 140. § nyitó szövegrésze a 7/2022. (VII. 27.) TIM rendelet 18. § 17. pontja szerint módosított szöveg.

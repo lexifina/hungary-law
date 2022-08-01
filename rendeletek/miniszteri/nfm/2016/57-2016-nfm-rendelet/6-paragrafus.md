@@ -20,6 +20,6 @@ d) az éves műveletszámtól függetlenül CAT II. vagy CAT III. precíziós me
 
 (3) Ha az (1) vagy (2) bekezdésben meghatározott feltételek nem teljesülnek, de a repülőtér üzemben tartója indokoltnak tartja, a repülőtér nyitvatartási ideje alatt biztosíthat repülőtéri repüléstájékoztató vagy repülőtéri irányító szolgálatot.
 
-(4)[^61]
+(4)[^60]
 
-[^61]: A 6. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § a) pontja hatályon kívül helyezte.
+[^60]: A 6. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § a) pontja hatályon kívül helyezte.

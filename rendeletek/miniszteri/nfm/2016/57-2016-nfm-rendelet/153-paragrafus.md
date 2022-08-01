@@ -16,8 +16,8 @@ d) a légiforgalmi irányító a légijármű helyzetét ATS felderítő rendsze
 
 (3) Ha egy repülőtéren STAR-okat tettek közzé, az illetékes ATS az érkező légijármű részére, rendes körülmények között, a megfelelő STAR követésére ad engedélyt. A légijárművet a lehető leghamarabb tájékoztatni kell a bevezetés várható típusáról és a használatos futópályáról.
 
-(4)[^144]
+(4)[^212]
 
 (5) A bevezető irányító egységgel való koordinálást követően az ACC az első érkező légijárműnek a várakozási pont helyett a közvetlen megközelítést engedélyezheti.
 
-[^144]: A 153. § (4) bekezdését az 55/2021. (XI. 5.) ITM rendelet 14. § b) pontja hatályon kívül helyezte.
+[^212]: A 153. § (4) bekezdését az 55/2021. (XI. 5.) ITM rendelet 14. § b) pontja hatályon kívül helyezte.

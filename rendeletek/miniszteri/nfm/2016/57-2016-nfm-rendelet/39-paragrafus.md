@@ -1,20 +1,21 @@
-39. § (1) Ha több légiforgalmi irányító szolgálat feladatát egy légiforgalmi irányító egység látja el, a 38. §-ban meghatározottakat nem kell alkalmazni.
+39. § (1)[^104] Ha több légiforgalmi irányító szolgálat feladatát egy légiforgalmi irányító egység látja el, az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész 1. Szakasz ATS.OR.150 pontjában, a B. Alrész 2. Szakasz ATS.TR.230 pont a) alpont (1) és (2) bekezdésében, valamint a 38. § (2) bekezdésében meghatározottakat nem kell alkalmazni.
 
-(2)[^87] A légijármű irányítási felelősségének átadásához az átvevő irányító egység vagy szektor előzetes beleegyezése szükséges, amely a (3)–(5) bekezdésekben meghatározottak szerint szerezhető be.
+(2)[^105]
 
-(3) Az átadó irányító egységnek vagy szektornak tájékoztatnia kell az átvevő irányító egységet vagy szektort az érvényes repülési terv vonatkozó részeiről, és meg kell adnia minden kért, az átadásra vonatkozó irányítói tájékoztatást.
+(3)[^106]
 
-(4)[^88] Ha az irányítás átadását ATS felderítő rendszeren alapuló adatok felhasználásával hajtják végre, az átadásra vonatkozó irányítói tájékoztatásnak tartalmaznia kell a légijármű közvetlenül az átadás előtt ATS felderítő rendszeren megfigyelt helyzetét, valamint szükség szerint annak repülési útirányát és sebességét is.
+(4)[^107]
 
-(5) Az átvevő irányító egységnek vagy szektornak
+(5)[^108]
 
-a) jeleznie kell, ha az átadó irányító egység vagy szektor feltételei szerint képes a légijármű irányításának elfogadására, kivéve, ha az érintett egységek közötti előzetes megállapodás szerint az ilyen jelzés elmaradása azt jelenti, hogy az átvevő a megadott feltételekkel az érintett légijárművet elfogadja, vagy jeleznie kell azon szükséges módosításokat, amelyek végrehajtásával a légijármű irányításának átvétele elfogadható, és
+(6)[^109]
 
-b) közölnie kell bármely egyéb, a repülés következő szakaszára vonatkozó tájékoztatást vagy légiforgalmi irányítói engedélyt, amelyet a légijárműnek az átadás időpontjában ismernie kell.
+(7)[^110] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész ATS.TR.230 pont b) alpontjában meghatározottak végrehajtásához alkalmazandó koordinálási eljárásokat, beleértve az irányítás átadásának pontjait is, együttműködési megállapodásokban vagy munkahelyi előírásokban kell szabályozni.
 
-(6) Az átvevő irányító egységnek vagy szektornak tájékoztatnia kell az átadó irányító egységet vagy szektort, ha kétirányú beszédüzemű, adatkapcsolat összeköttetést vagy mindkettőt létesített az érintett légijárművel és átveszi annak irányítását, kivéve, ha a két érintett egység között együttműködési megállapodás vagy munkahelyi előírás eltérően rendelkezik.
-
-(7) Az alkalmazandó koordinálási eljárásokat, beleértve az irányítás átadásának pontjait is, együttműködési megállapodásokban vagy munkahelyi előírásokban kell szabályozni.
-
-[^87]: A 39. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés m) pontja szerint módosított szöveg.
-[^88]: A 39. § (4) bekezdése az 55/2021. (XI. 5.) ITM rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^104]: A 39. § (1) bekezdése a 7/2022. (VII. 27.) TIM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^105]: A 39. § (2) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^106]: A 39. § (3) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^107]: A 39. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^108]: A 39. § (5) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^109]: A 39. § (6) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^110]: A 39. § (7) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 6. pontja szerint módosított szöveg.

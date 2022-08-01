@@ -1,25 +1,20 @@
-51. § (1) A 49. §-ban, az 50. § (1) bekezdés a) és (2) bekezdés a)–c) pontjaiban meghatározott összeköttetéshez használt eszközöknek a következőket kell biztosítaniuk:
-
-a) közvetlen beszédüzemű összeköttetést, ezen belül
-
-aa) a radarirányítás átadásának céljából azonnali összeköttetést,
-
-ab) más célból tizenöt másodperces összeköttetést,
-
-b) írott formájú – legfeljebb öt perc továbbítási idejű – közleményváltást, ha írott szöveg rögzítése szükséges.
+51. § (1)[^139]
 
 (2) Budapest FIR-ben valamennyi ATS egységet, valamint a légiforgalmi szolgálatok bejelentő irodáit és a NOTAM irodákat megfelelő eszközökkel kell felszerelni az AFTN-en keresztül történő közleményváltásra.
 
-(3) Az (1) bekezdés által meg nem határozott esetben, az összeköttetéshez használt eszközöknek a következőket kell biztosítaniuk:
+(3)[^140]
 
-a) közvetlen beszédüzemű összeköttetést vagy adatkapcsolattal kombinált olyan beszédüzemű tizenöt másodperces összeköttetést,
+(4)[^141]
 
-b) írott formájú – legfeljebb öt perc továbbítási idejű – közleményváltást, ha írott szöveg rögzítése szükséges.
+(5)[^142] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész 4. Szakasz ATS.OR.435 pont a) alpontjában, valamint a 49. és 50. §-ban meghatározott összeköttetéshez használt eszközök kiegészíthetők vizuális vagy audio jellegű összeköttetés más formáival is.
 
-(4) A légiforgalmi szolgálatok számítógépei közötti automatikus adatcsere esetén minden esetben megfelelő berendezést kell biztosítani az automatikus adatrögzítésre.
+(6)[^143] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész ATS.OR.435 pont b) alpont (2) bekezdés i–iii. pontjában meghatározott összeköttetéshez használt eszközöknek tartalmazniuk kell a három vagy több hely közötti egyidejű közvetlen beszédüzemű, úgynevezett körözvényösszeköttetés lehetőségét.
 
-(5) A 49. § és az 50. §-ban meghatározott összeköttetéshez használt eszközök kiegészíthetők vizuális vagy audio jellegű összeköttetés más formáival is.
+(7)[^144]
 
-(6) Az 50. § (2) bekezdés a)–c) pontjaiban meghatározott összeköttetéshez használt eszközöknek tartalmazniuk kell a három vagy több hely közötti egyidejű közvetlen beszédüzemű, úgynevezett körözvényösszeköttetés lehetőségét.
-
-(7) Az ATS egységek egymás közti, valamint az ATS egységek és az 50. § (1) és (2) bekezdésben részletezett egyéb egységek közötti beszédüzemű vagy adatkapcsolat összeköttetéseket automatikus rögzítő berendezéssel kell ellátni.
+[^139]: Az 51. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés s) pontja hatályon kívül helyezte.
+[^140]: Az 51. § (3) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés s) pontja hatályon kívül helyezte.
+[^141]: Az 51. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés s) pontja hatályon kívül helyezte.
+[^142]: Az 51. § (5) bekezdése a 7/2022. (VII. 27.) TIM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^143]: Az 51. § (6) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 11. pontja szerint módosított szöveg.
+[^144]: Az 51. § (7) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés s) pontja hatályon kívül helyezte.

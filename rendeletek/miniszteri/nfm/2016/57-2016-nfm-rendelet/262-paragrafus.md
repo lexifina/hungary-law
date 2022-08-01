@@ -1,4 +1,4 @@
-262. § (1)[^165]
+262. § (1)[^253]
 
 (2) Ha ellenőrzött légtéren kívül egy azonosított IFR repülést végrehajtó légjármű egy másik légijárművel konfliktust jelentő útvonalon halad, az azonosított légijárművet:
 
@@ -20,4 +20,4 @@ d) a légijármű magassága és típusa, vagy ha ez ismeretlen, akkor a konflik
 
 (5) Ha a (4) bekezdésben említett nyomásmagasságból származó magasságtájékoztatást ellenőrizték, a tájékoztatást a hajózó személyzetnek világos és félreérthetetlen módon kell továbbítani. Ha a magasságtájékoztatást nem ellenőrizték, annak pontossága kétes értékű és erre a hajózó személyzet figyelmét fel kell hívni.
 
-[^165]: A 262. § (1) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § p) pontja hatályon kívül helyezte.
+[^253]: A 262. § (1) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § p) pontja hatályon kívül helyezte.

@@ -1,11 +1,15 @@
 ## 51. A légijárművek keltette turbulencia kategóriái
 
-103. § (1) A turbulencia elkülönítési minimumok a légijármű légialkalmassági bizonyítványa szerinti maximális felszállótömegnek megfelelő alábbi három csoportján alapulnak:
+103. § (1)[^182] A turbulencia elkülönítési minimumok a légijármű légialkalmassági bizonyítványa vagy az abban szereplő maximális felszállótömeg szerint a következő négy csoportba tartoznak:
 
-a) nehéz (heavy): valamennyi 136 000 kg vagy ennél nehezebb légijármű típus,
+a) szuper (super): a légijármű légialkalmassági bizonyítványát kibocsátó hatóság döntése alapján,
 
-b) közepes (medium): a 136 000 kg-nál könnyebb, de 7000 kg-nál nehezebb légijármű típus,
+b) nehéz (heavy): 136 000 kg vagy ennél nehezebb légijármű,
 
-c) könnyű (light): a 7000 kg vagy ennél könnyebb légijármű típus.
+c) közepes (medium): a 136 000 kg-nál könnyebb, de 7000 kg-nál nehezebb légijármű,
+
+d) könnyű (light): a 7000 kg vagy ennél könnyebb légijármű.
 
 (2) A repülési terv 9. rovatában a turbulencia kategóriák kitöltésére vonatkozó rendelkezéseket a repülési rendelet 1. melléklete határozza meg.
+
+[^182]: A 103. § (1) bekezdése a 7/2022. (VII. 27.) TIM rendelet 14. § (5) bekezdésével megállapított szöveg.

@@ -18,4 +18,7 @@ b) az a) pontban meghatározottakat követően eljárástervező felügyelete me
 
 c) legalább ötévente sikeresen elvégez egy ismeretfelújító tanfolyamot.
 
+(7)[^67] A standard indulási, érkezési, megközelítési és várakozási eljárások fenntartását és legalább 5 évenkénti felülvizsgálatát ellenőrzött légtérben az ANS szolgáltató, nem ellenőrzött légtérben az illetékes ATS szolgálat vagy a repülőtér üzembentartója által megbízott, az (5) bekezdésben meghatározott személy az (EU) 2017/373 bizottsági végrehajtási rendelet 6. cikk k) pontjában meghatározott követelmények betartásával végzi el.
+
 [^66]: A 17. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § b) pontja hatályon kívül helyezte.
+[^67]: A 17. § (7) bekezdését a 7/2022. (VII. 27.) TIM rendelet 12. § (1) bekezdése iktatta be.

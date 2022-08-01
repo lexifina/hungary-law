@@ -1,17 +1,12 @@
-47. § (1) A levegő-föld összeköttetési eszköznek alkalmasnak kell lennie kétoldalú összeköttetésre
+47. § (1)[^125]
 
-a) a repüléstájékoztató vagy a légiforgalmi tanácsadó szolgálatot ellátó egység és a FIR-en belüli a legalacsonyabb repülési magasság felett üzemeltetett, megfelelően felszerelt légijármű,
+(2)[^126] Ha a levegő-föld összeköttetési eszköz a földrajzi viszonyok miatt nem alkalmas a FIR valamely részében az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész ATS.OR.410. pontja szerinti kétoldalú összeköttetésre, a kommunikációs szolgálatnak az ilyen a légtérrészek elhelyezkedését közzé kell tennie az AIP-ben.
 
-b) a körzeti irányító szolgálatot ellátó egység és az irányítói körzeten vagy körzeteken belül üzemeltetett, megfelelően felszerelt légijármű,
+(3)[^127]
 
-c) a bevezető irányító szolgálatot ellátó egység és az irányítása alatt működő, megfelelően felszerelt légijármű,
+(4)[^128]
 
-d) a repülőtéri irányító torony vagy AFIS egység és az érintett repülőtér 25 NM-es (45 km-es) körzetén belül bármilyen távolságra üzemelő, megfelelően felszerelt légijármű
-
-között.
-
-(2) Ha a levegő-föld összeköttetési eszköz a földrajzi viszonyok miatt nem alkalmas a FIR valamely részében az (1) bekezdés a) pontja szerinti kétoldalú összeköttetésre, a kommunikációs szolgálatnak az ilyen a légtérrészek elhelyezkedését közzé kell tennie az AIP-ben.
-
-(3) Ha a bevezető irányító szolgálatot ellátó egységet különállóan hozták létre, az (1) bekezdés c) pontja szerinti levegő-föld összeköttetéseket az erre a célra kizárólagosan biztosított összeköttetési csatornákon kell lefolytatni.
-
-(4) Ha a körülmények megkívánják, az (1) bekezdés d) pontja szerinti összeköttetéshez külön összeköttetési csatornát kell biztosítani a munkaterületen működő forgalom irányítására.
+[^125]: A 47. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés p) pontja hatályon kívül helyezte.
+[^126]: A 47. § (2) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 9. pontja szerint módosított szöveg.
+[^127]: A 47. § (3) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés p) pontja hatályon kívül helyezte.
+[^128]: A 47. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés p) pontja hatályon kívül helyezte.
