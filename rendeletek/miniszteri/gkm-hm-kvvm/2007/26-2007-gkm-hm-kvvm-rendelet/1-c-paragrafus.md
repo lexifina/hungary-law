@@ -4,7 +4,7 @@
 
 (2) Ha az előzetes javaslat nem tartalmazza a 4. melléklet 2. pontjában meghatározott elemeket, az NLKM az előzetes javaslatot érdemben nem tárgyalja.
 
-(3) Az NLKM tagjainak, az NLKM ülésein tanácskozási joggal résztvevőknek, továbbá más érintett szervezeteknek az előzetes javaslat véleményezésére harminc nap áll rendelkezésre, de indokolt esetben az NLKM titkára ennél rövidebb időt is meghatározhat. Az NLKM a vélemények vagy szükség szerint azok egyeztetése alapján előzetes döntési javaslatot készít.
+(3)[^7] Az NLKM tagjainak, az NLKM ülésein tanácskozási joggal részt vevőknek, továbbá más érintett szervezeteknek az előzetes javaslat véleményezésére harminc nap áll rendelkezésre, de indokolt esetben az NLKM titkára ennél rövidebb időt is meghatározhat. Az NLKM a vélemények vagy szükség szerint azok egyeztetése alapján – az (EU) 2017/373 bizottsági végrehajtási rendelet XI. melléklet 1. függelék I., IV. és VI. szakaszában meghatározottak figyelembevételével – előzetes döntési javaslatot készít.
 
 (4) Az előzetes javaslat támogatásáról, elutasításáról vagy a további eljárásról a kérelmezőt írásban kell tájékoztatni.
 
@@ -15,3 +15,4 @@
 [^4]: Az 1/B. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.
 [^5]: Az 1/C. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.
 [^6]: Az 1/C. § (1) bekezdése a 15/2014. (IV. 3.) NFM rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1/C. § (3) bekezdése a 7/2022. (VII. 27.) TIM rendelet 1. § (1) bekezdésével megállapított szöveg.

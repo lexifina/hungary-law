@@ -26,7 +26,15 @@
 
 ## Repüléstájékoztató és riasztó szolgálatot az alábbi 3. pontban foglalt eltéréssel valamennyi légtérosztályban nyújtanak.
 
-## A fenti táblázattól függetlenül a határsávot átrepülő vagy abban repülést végző valamennyi légijármű esetében – a határsávban 50 m-es földfelszín feletti vagy alacsonyabb magasságon végrehajtott munkarepülést végző légijárművek, az állami légijárművek kivételével – FPL-t kell kitölteni, és folyamatos kétoldalú rádió-összeköttetést kell tartani.
+## A fenti táblázattól függetlenül a határsávot átrepülő vagy abban repülést végző valamennyi légijármű esetében repülési tervet kell benyújtani, és folyamatos rádió-összeköttetést kell tartani.
+
+## A repülési terv benyújtási kötelezettség alól mentességet kapnak:
+
+## – a határsávban 50 m-es földfelszín feletti vagy alacsonyabb magasságon végrehajtott munkarepülést végző légijárművek,
+
+## – az állami légijárművek,
+
+## – a G osztályú légtérben – az éjszakai VFR repülések és a harmadik országból érkező vagy harmadik országba tartó légijárművek által végrehajtott repülések kivételével – a szlovák–magyar államhatárt 4000 láb (1200 m) AMSL alatti magasságon keresztező VFR GAT repülések és a 4000 láb (1200 m) AMSL feletti magasságon keresztező hajtóműnélküli légijárművel végrehajtott repülések.
 
 ## 1. FL285 (8700 m STD) felett Budapest FIR-en belül VFR repülés végrehajtása tilos. FL195 (5950 m STD) felett útvonal VFR GAT repüléseket tilos végrehajtani.
 
@@ -36,7 +44,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^102]
+együttes rendelethez[^104]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -432,7 +440,7 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 4. Katonai körzetek
 
-## 1X09258H_3
+## 2X05311N_3
 
 |  | A | B | C |
 
@@ -740,7 +748,7 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
-## 1X09258H_4
+## 2X05311N_4
 
 |  | A | B | C | D |
 
@@ -1478,7 +1486,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 4. Drop Zone légterek
 
-## 1X09258H_7
+## 2X05311N_7
 
 |  | A | B | C |
 
@@ -1637,6 +1645,10 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 | 21. | LHSDZLHOY/Őcsény | FL145 (4400 m STD) / GND |  |
 
 | 2 NM sugarú kör a 461843N 0184549E középpont körül |
+
+| 22. | LHSDZLHFM / Fertőszentmiklós | FL 125 ( 3800 m STD)/GND |  |
+
+| 473557N 473416N 473322N 473339N 473441N 473556N 473557N | 0165122E 0165217E 0165009E 0164820E 0164625E 0164532E 0165122E |
 
 5. RMZ-k és TMZ-k
 
@@ -1804,4 +1816,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^102]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
+[^104]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.

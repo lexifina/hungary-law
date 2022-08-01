@@ -1,4 +1,4 @@
-## 3/B. §[^21] Kijelölt TIZ légtérrel rendelkező repülőtéren végrehajtott helyi repülésekről, az AFIS üzemidején kívül, a repülőtér üzembentartója tájékoztatja a Budapest ATS Központ repüléstájékoztató szolgálatát.
+## 3/B. §[^22] Kijelölt TIZ légtérrel rendelkező repülőtéren végrehajtott helyi repülésekről, az AFIS üzemidején kívül, a repülőtér üzembentartója tájékoztatja a Budapest ATS Központ repüléstájékoztató szolgálatát.
 
 ## Az időszakosan korlátozott légtér
 
@@ -12,9 +12,9 @@ b) kiszámíthatatlan, intenzív, a feladatban nem érintett egyéb légiforgalo
 
 (3) Amennyiben az időszakosan korlátozott légtérben folytatott állami repülési feladat jellege azt lehetővé teszi, az illetékes katonai repülésirányító szolgálat – a légiforgalom folyamatosságának elősegítése érdekében – esetenként, illetve időszakosan, az (5) bekezdés figyelembevételével engedélyezheti a GAT-szabályok szerint működő, a polgári légiforgalmi szolgálat kezelésében lévő légijárművek áthaladását.
 
-(4)[^22] Az illetékes katonai repülésirányító szolgálat az irányítása alatt álló állami légijárműveket elkülöníti az időszakosan korlátozott légtereket engedéllyel átrepülő, GAT-szabályok szerint működő légijárművektől. Az elkülönítést úgy hozza létre, hogy az irányítása alatt álló állami légijárműveknek az azok repülési irányára és magasságára vonatkozó olyan utasításokat, engedélyeket ad, amelyek biztosítják, hogy az engedéllyel átrepülő, GAT-szabályok szerint működő légijárművektől a állami légijárművek legalább 2000 láb (600 m) függőleges, vagy 5 NM (9,3 km) oldalirányú távolságnál közelebb ne kerülhessenek.
+(4)[^23] Az illetékes katonai repülésirányító szolgálat az irányítása alatt álló állami légijárműveket elkülöníti az időszakosan korlátozott légtereket engedéllyel átrepülő, GAT-szabályok szerint működő légijárművektől. Az elkülönítést úgy hozza létre, hogy az irányítása alatt álló állami légijárműveknek az azok repülési irányára és magasságára vonatkozó olyan utasításokat, engedélyeket ad, amelyek biztosítják, hogy az engedéllyel átrepülő, GAT-szabályok szerint működő légijárművektől a állami légijárművek legalább 2000 láb (600 m) függőleges, vagy 5 NM (9,3 km) oldalirányú távolságnál közelebb ne kerülhessenek.
 
 (5) Az időszakosan korlátozott légtérben biztosítani kell a kényszerhelyzetben lévő, kutató-mentő és a betegek, illetve humán-transzplantációs anyagok szállítását végző repülések elsőbbségét.
 
-[^21]: A 3/B. §-t a 34/2019. (IX. 13.) ITM rendelet 2. §-a iktatta be.
-[^22]: A 4. § (4) bekezdése a 25/2017. (VI. 30.) NFM rendelet 13. § a) pontja szerint módosított szöveg.
+[^22]: A 3/B. §-t a 34/2019. (IX. 13.) ITM rendelet 2. §-a iktatta be.
+[^23]: A 4. § (4) bekezdése a 25/2017. (VI. 30.) NFM rendelet 13. § a) pontja szerint módosított szöveg.
