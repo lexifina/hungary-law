@@ -1,10 +1,10 @@
 ## Az Állami Számvevőszék elnöke
 
-9. § (1) Az Országgyűlés a képviselők köréből nyolctagú jelölőbizottságot hoz létre, amely javaslatot tesz azokra a személyekre, akik az Állami Számvevőszék elnökévé választhatók.
+9. § (1) Az Állami Számvevőszék elnökének személyére az Országgyűlés számvevőszéki ügyekkel foglalkozó állandó bizottsága tesz javaslatot.
 
 (2) Nem jelölhető az Állami Számvevőszék elnökévé olyan személy, aki a megelőző négy évben tagja volt a Kormánynak, vagy bármely párt országos (központi) szervezetében választott vezető tisztséget töltött be.
 
-(3) Az Állami Számvevőszék elnökének javasolt személyt az Országgyűlés számvevőszéki ügyekért felelős bizottsága meghallgatja.
+(3)
 
 (4) Az Állami Számvevőszék elnöke megválasztása után, hivatalba lépése alkalmával az Országgyűlés előtt esküt tesz.
 
