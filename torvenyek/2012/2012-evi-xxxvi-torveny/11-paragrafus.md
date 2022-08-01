@@ -16,7 +16,7 @@ e) javaslatot tehet a nemzetközi kapcsolatok szervezésére vonatkozó ügyekbe
 
 f) állást foglal az Országgyűlés munkájának sajtónyilvánosságával kapcsolatos kérdésekben,
 
-g) meghallgatja a házelnök által kinevezni kívánt személyeket, valamint a háznagy tisztségére jelölt személyt,
+g) meghallgatja a házelnök által kinevezni kívánt személyeket, valamint a háznagy tisztségére jelölt, képviselői megbízatással nem rendelkező személyt,
 
 h) megállapítja azokat az eseteket, amelyekben a házszabályi rendelkezések szerinti írásbeliség követelményének elektronikus úton történő benyújtással kell vagy lehet eleget tenni, és meghatározza az elektronikus benyújtás feltételeit,
 
@@ -38,6 +38,8 @@ p) a karzaton – a férőhelyektől függően – ülőhelyeket biztosít a hal
 
 q) megvitatja a Házbizottság tagjai által előterjesztett egyéb kérdéseket, valamint
 
-r) ellátja azokat a további feladatokat, amelyeket törvény vagy országgyűlési határozatban meghatározott házszabályi rendelkezés (a továbbiakban: határozati házszabályi rendelkezés) a hatáskörébe utal.
+r) ellátja azokat a további feladatokat, amelyeket törvény vagy határozati házszabályi rendelkezés a hatáskörébe utal.
 
-(2)–(3)
+(2)
+
+(3)

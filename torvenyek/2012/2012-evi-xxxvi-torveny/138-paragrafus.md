@@ -8,6 +8,6 @@ b) megállapíthatja annak a személyazonosságát, akinek ez a házelnök szem�
 
 (2) Az (1) bekezdés b) pontja esetén az országgyűlési őr minden olyan hatósági igazolványt elfogad, amely tartalmazza a személyazonosításhoz szükséges adatokat. A személyazonosság megállapításával érintett személy a személyazonosság megállapítására alkalmas okmányok közül egy bemutatására kötelezhető. Az országgyűlési őr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
 
-(3) A személyazonosság igazolásának megtagadása, valamint az (1) bekezdés b) pontjában meghatározott esetben akkor is, ha a személyazonosság a helyszínen nem állapítható meg, az országgyűlési őr azonnal értesíti a rendőrséget. Az országgyűlési őr a személyazonosság megállapításával érintett személyt a személyazonosság megállapítása céljából a rendőrség helyszínre érkezéséig visszatarthatja.
+(3) A személyazonosság igazolásának megtagadása esetén, valamint az (1) bekezdés b) pontjában meghatározott esetben akkor is, ha a személyazonosság a helyszínen nem állapítható meg, az országgyűlési őr azonnal értesíti a rendőrséget. Az országgyűlési őr a személyazonosság megállapításával érintett személyt a személyazonosság megállapítása céljából a rendőrség helyszínre érkezéséig visszatarthatja.
 
 (4) Az országgyűlési őr a (3) bekezdésben meghatározott esetben a személyazonosság megállapításával érintett személy ruházatát, csomagját, járművét átvizsgálhatja.

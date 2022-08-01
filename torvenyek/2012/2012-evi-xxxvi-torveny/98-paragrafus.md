@@ -8,10 +8,12 @@
 
 (3) A (2) bekezdéstől eltérően
 
-a) a honvédelemmel foglalkozó állandó bizottság tagja – a bizottság döntése alapján – a bizottságnak az Alaptörvényben, a honvédelemről szóló törvényben és a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására,
+a) a honvédelemmel foglalkozó állandó bizottság tagja – a bizottság döntése alapján – a bizottságnak az Alaptörvényben, a honvédelemről szóló törvényben és a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátásához elengedhetetlenül szükséges minősített adat felhasználására,
 
-b) a nemzetbiztonsággal foglalkozó állandó bizottság tagja – a bizottság döntése alapján – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására,
+b) a nemzetbiztonsággal foglalkozó állandó bizottság tagja – a bizottság döntése alapján – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátásához elengedhetetlenül szükséges minősített adat felhasználására,
 
-c) ha a vizsgálóbizottság létrehozásáról szóló országgyűlési határozat minősített adatok megismerésére felhatalmazást adott, a vizsgálóbizottság tagja – a vizsgálóbizottság döntése alapján – a vizsgálóbizottság feladatának ellátásához elengedhetetlenül szükséges minősített adat felhasználására
+c) a külügyekkel foglalkozó állandó bizottság tagja – a bizottság döntése alapján – a bizottság feladatai ellátásához elengedhetetlenül szükséges minősített adat felhasználására,
 
-felhasználói engedély és titoktartási nyilatkozat nélkül jogosult.
+d) ha a vizsgálóbizottság létrehozásáról szóló országgyűlési határozat minősített adatok megismerésére felhatalmazást adott, a vizsgálóbizottság tagja – a vizsgálóbizottság döntése alapján – a vizsgálóbizottság feladatának ellátásához elengedhetetlenül szükséges minősített adat felhasználására
+
+felhasználói engedély és titoktartási nyilatkozat nélkül, a minősített adat védelmére vonatkozó követelmények megtartásával jogosult.

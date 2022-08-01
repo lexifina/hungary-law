@@ -30,7 +30,7 @@ k) az alapvető jogok biztosa helyettesének megbízatása – az alapvető jogo
 
 a) a 77. § (3) bekezdése alapján az országgyűlési képviselő mentelmi jogának felfüggesztéséhez,
 
-b) a 29/A. § (4) bekezdése alapján annak megállapításához, hogy a nemzetiségi szószóló az országgyűlési képviselők választásán már nem választható, már nem szerepel a központi névjegyzékben nemzetiségi választópolgárként, valamint a szószóló összeférhetetlenségének kimondásához,
+b) a 29/A. § (4) bekezdése alapján annak megállapításához, hogy a nemzetiségi szószóló az országgyűlési képviselők választásán már nem választható, már nem szerepel a központi névjegyzékben nemzetiségi választópolgárként, valamint a nemzetiségi szószóló összeférhetetlenségének kimondásához,
 
 c) település megyék közötti átcsatolásához a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 125. § (4) bekezdésében foglalt esetben,
 
@@ -42,7 +42,7 @@ f) a Közszolgálati Közalapítvány alapító okiratának elfogadásához és 
 
 g) a Közszolgálati Közalapítvány Kuratóriuma hat tagjának megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 86. § (1) bekezdésében foglaltak szerint,
 
-h) a Közszolgálati Közalapítvány Kuratóriuma új tagjának megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 87. § (7) bekezdésében foglaltak szerint,
+h) a Közszolgálati Közalapítvány Kuratóriuma új tagjának megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 87. § (5) bekezdésében foglaltak szerint,
 
 i) a Közszolgálati Közalapítvány Kuratóriuma elnöke vagy tagja összeférhetetlenségéről, felmentéséről vagy kizárásáról való döntéshez a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 89. § (2) bekezdésében meghatározott esetben,
 

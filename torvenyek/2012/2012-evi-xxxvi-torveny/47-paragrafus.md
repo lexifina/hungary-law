@@ -8,7 +8,7 @@ c) a 46/D. § és a 46/E. § szerinti esetben minimum a képviselő kéthavi tis
 
 d) a 46/F. § és a 46/G. § szerinti esetben minimum a képviselő négyhavi tiszteletdíja összegével, de legfeljebb hathavi tiszteletdíja összegével
 
-megegyező mértékben csökkenti.
+megegyező mértékben csökkentheti.
 
 (2) A házelnök – az ülést vezető elnök vagy bármely képviselőcsoport vezetőjének írásbeli kezdeményezésére vagy hivatalból – elrendelheti a képviselő kitiltását
 

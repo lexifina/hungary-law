@@ -1,6 +1,6 @@
 111. § (1) A képviselő választókerületének székhelyén, illetve a választókerületben általa meghatározott településen, fővárosi egyéni választókerületben megválasztott képviselő esetében a képviselő által a választókerületben meghatározott helyen, az országos listán megválasztott képviselő esetében az általa megválasztott településen a képviselői tevékenység ellátására alkalmas az Országgyűlés Hivatala által biztosított, egy vagy több ingatlanban megvalósuló irodai elhelyezésre jogosult, amely minden képviselő esetében egy irodánál magában foglalja a megfelelő színvonalú irodai berendezést és felszerelést, továbbá az iroda vagy irodák működtetésével – így különösen a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével – összefüggő kiadások biztosítását, valamint a képviselő által képviselői tevékenységének ellátásához igénybe vehető telefonszolgáltatást, internetszolgáltatást, műsorterjesztési szolgáltatást, telefaxszolgáltatást (a továbbiakban együtt: elektronikus hírközlési szolgáltatások).
 
-(1a) Bármely képviselő, illetve közeli hozzátartozója, valamint a 111. § (3) bekezdésében meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
+(1a) Bármely képviselő, illetve közeli hozzátartozója, valamint a (3) bekezdésben meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
 
 a) legalább 5%-os tulajdonában álló nyilvánosan működő részvénytársaság tulajdonában lévő ingatlan,
 
@@ -14,7 +14,7 @@ cb) bármilyen arányú tulajdonában álló gazdasági társaság (ide nem ért
 
 az (1) bekezdésben foglaltak biztosítására nem használható.
 
-(1b) Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely párt tulajdonában vagy vagyonkezelésében van, valamint amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója vagy élettársa, vagy a 111. § (3) bekezdésében meghatározott személy, illetve ezek közeli hozzátartozója vagy élettársa a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
+(1b) Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója vagy élettársa, vagy a (3) bekezdésben meghatározott személy, illetve ezek közeli hozzátartozója vagy élettársa a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
 
 (2) Az (1) bekezdés szerinti ingatlannak a használatbavételi, illetve fennmaradási engedélytől, ennek hiányában az eredeti rendeltetéstől eltérő – az (1) bekezdésben foglaltak biztosítására történő – használatához az építésügyi hatóság engedélye nem szükséges.
 

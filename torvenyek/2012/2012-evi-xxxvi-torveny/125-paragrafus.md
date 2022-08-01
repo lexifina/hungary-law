@@ -24,7 +24,7 @@ f) a kiemelt nemzeti emlékhely méltóságának megőrzése, valamint a kiemelt
 
 g) protokolláris díszelgési feladatokat lát el, és
 
-h) elvégzi a részére törvényben, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
+h) elvégzi a részére törvényben előírt, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
 
 (3) A (2) bekezdés a) és b) pontjában meghatározott feladatokat az Országgyűlési Őrség kizárólagos hatáskörrel és országos illetékességgel látja el, a feladatok végrehajtásába azonban – együttműködési megállapodás vagy felkérés alapján – más szerveket is bevonhat.
 

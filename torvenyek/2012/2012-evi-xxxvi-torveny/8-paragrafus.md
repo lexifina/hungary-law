@@ -1,1 +1,1 @@
-8. § Tisztségviselői megbízatás megszűnése esetén az új tisztségviselő megválasztására a 6–7. §-ban foglaltakat kell alkalmazni azzal, hogy a korjegyzők helyett a jegyzők, a korelnök helyett a házelnök választása esetén az alelnök, egyébként a házelnök jár el.
+8. § Tisztségviselői megbízatás megszűnése vagy a tisztségviselő személyére vonatkozó változás esetén az új tisztségviselő megválasztására a 6–7. §-ban foglaltakat kell alkalmazni azzal, hogy a korjegyzők helyett a jegyzők, a korelnök helyett a házelnök választása esetén az alelnök, egyébként a házelnök jár el.

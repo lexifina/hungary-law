@@ -4,7 +4,7 @@
 
 a) képviselői megbízatásának megszűnésével,
 
-b) a képviselőcsoportból való kilépésével vagy kizárásával, képviselőcsoporthoz nem tartozó képviselő (a továbbiakban: független képviselő) esetében pedig valamelyik képviselőcsoporthoz való csatlakozásával,
+b) a képviselőcsoportból való kilépésével, kizárásával, vagy ha a határozati házszabályi rendelkezésekben meghatározott esetben másik képviselőcsoporthoz csatlakozik,
 
 c) ha megszűnik az a képviselőcsoport, amelynek tagja,
 

@@ -2,7 +2,7 @@
 
 38/B. § (1) Az Országgyűlés és az országgyűlési bizottság ülésén a tanácskozás nyelve a magyar.
 
-(2) A nemzetiséghez tartozó képviselő, a nemzetiségi listáról mandátumot szerző képviselő, valamint a szószóló anyanyelvén is felszólalhat és irományt nyújthat be.
+(2) A nemzetiséghez tartozó képviselő, a nemzetiségi képviselő, valamint a nemzetiségi szószóló anyanyelvén is felszólalhat és irományt nyújthat be.
 
 (3) A (2) bekezdés szerinti felszólalási szándékot legkésőbb a felszólalással érintett ülésnapot vagy bizottsági ülést megelőző munkanapon 12 óráig – amennyiben az ülés napirendje az előzetes napirend tervezetéhez képest módosítással kerül elfogadásra, úgy a módosítással érintett napirend tekintetében annak megállapítását követően haladéktalanul – jelezni kell.
 

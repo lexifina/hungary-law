@@ -4,6 +4,8 @@
 
 (3) A bizottsági ülésen az előterjesztő és a tárgyalt napirendi ponthoz módosító javaslatot benyújtó képviselő tanácskozási joggal vehet részt. Más képviselő számára az országgyűlési bizottság hozzászólási jogot adhat.
 
+(3a) A nemzetiségi képviselő az állandó bizottságok és a törvényalkotási bizottság ülésein – az állandó bizottság, illetve a törvényalkotási bizottság elnökének döntése alapján, a nemzetiségek érdekeit, jogait érintő napirendi pont tárgyalásán külön döntés nélkül – tanácskozási joggal vehet részt.
+
 (4) Az országgyűlési bizottság elnöke az országgyűlési bizottság ülésére szakértőt hívhat meg. Szakértő meghívására – a szakértő személyének megjelölésével vagy anélkül – az országgyűlési bizottság tagjai is tehetnek javaslatot, amelyről az országgyűlési bizottság dönt.
 
 (5) Képviselőcsoportonként egy szakértő az országgyűlési bizottság ülésén adott napirendi pont tárgyalásánál jelen lehet.

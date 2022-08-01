@@ -10,4 +10,4 @@ d) akit bíróság a választójogból a választójog gyakorlásához szükség
 
 e) aki közügyek gyakorlásától eltiltás hatálya alatt áll.
 
-(2) Az Országgyűlés a képviselő megválasztásához szükséges feltételek fenn nem állásáról bármely képviselő írásbeli indítványára – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság véleményének kikérése után – az indítvány kézhezvételétől számított harminc napon belül határoz.
+(2) Az Országgyűlés a képviselő megválasztásához szükséges feltételek fenn nem állásáról bármely képviselő írásbeli indítványára – a Mentelmi Bizottság véleményének kikérése után – az indítvány kézhezvételétől számított harminc napon belül határoz.

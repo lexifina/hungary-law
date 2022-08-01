@@ -6,6 +6,6 @@
 
 (3) Az Európai Uniós Konzultációs Testület ülésén a házelnök, a képviselőcsoportok vezetői, az európai uniós ügyekkel foglalkozó állandó bizottság elnöke és alelnöke, az alkotmányügyi kérdésekkel foglalkozó állandó bizottság elnöke, a külügyekkel foglalkozó állandó bizottság elnöke, valamint a házelnök által meghívott más személyek vehetnek részt.
 
-(4)
+(4) A köztársasági elnök által kijelölt személy az Európai Uniós Konzultációs Testület ülésén jelen lehet.
 
 (5) A Kormány évente tájékoztatja az Országgyűlést Magyarország európai uniós tagságával összefüggő kérdésekről és az európai integráció helyzetéről.

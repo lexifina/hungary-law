@@ -12,9 +12,9 @@ c) közjogi feladataiból adódóan képviseli Magyarországot a külföldi part
 
 d) az Európai Tanács üléseit és a stratégiai jelentőségű eseményeket megelőzően összehívja az európai uniós politika országgyűlési egyeztetésére az Európai Uniós Konzultációs Testületet; felkéri a miniszterelnököt az Európai Uniós Konzultációs Testület tájékoztatására Magyarország álláspontjáról, javaslatot tehet az európai uniós ügyekkel foglalkozó állandó bizottságnak, illetve más állandó bizottságnak európai uniós stratégiai jelentőségű kérdés megtárgyalására,
 
-e) összehívja az Országgyűlés ülésszakát, és ezen belül az egyes üléseket,
+e) összehívja az Országgyűlés ülésszakát, és ezen belül az egyes üléseket; megnyitja és részrehajlás nélkül vezeti, majd berekeszti az üléseket; engedélyezi a felszólalásokat, ügyel a házszabályi rendelkezések betartására, kihirdeti a szavazás eredményét, és ügyel az ülések rendjére,
 
-f) megnyitja és részrehajlás nélkül vezeti, majd berekeszti az üléseket; engedélyezi a felszólalásokat, ügyel a házszabályi rendelkezések betartására, kihirdeti a szavazás eredményét, és ügyel az ülések rendjére,
+f) az Országgyűlés megalakulását követően – a képviselőcsoport-vezetők erre irányuló indítványainak mérlegelésével – megállapítja a képviselők üléstermi helyét,
 
 g) elnököl a Házbizottság ülésein,
 

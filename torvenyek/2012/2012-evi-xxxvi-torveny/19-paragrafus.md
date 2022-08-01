@@ -6,13 +6,13 @@ b) a bizottság megbízatásának megszűnésével,
 
 c) a képviselői megbízatás megszűnésével,
 
-d) a képviselőcsoportból történő kilépésével vagy kizárásával,
+d) a képviselőcsoportból történő kilépésével, kizárásával, vagy ha a határozati házszabályi rendelkezésekben meghatározott esetben másik képviselőcsoporthoz csatlakozik,
 
 e) a képviselőcsoport általi visszahívásával,
 
 f) ha megszűnik az a képviselőcsoport, amelynek a tagja,
 
-g) ha független képviselőként képviselőcsoporthoz csatlakozik,
+g) a felmentésével,
 
 h) független képviselő esetén a Házbizottság általi visszahívásával, vagy
 

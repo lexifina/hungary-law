@@ -22,7 +22,7 @@
 
 11. a Médiatanács elnöke és tagja,
 
-12.
+12. az Országos Atomenergia Hivatal elnöke és elnökhelyettese,
 
 13. a Közszolgálati Közalapítvány kuratóriumának elnöke, tagja,
 
@@ -30,7 +30,7 @@
 
 15. a Gazdasági Versenyhivatal elnöke, elnökhelyettese,
 
-16.
+16. a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke és elnökhelyettese,
 
 17. a Nemzeti Adatvédelmi és Információszabadság Hatósága elnöke, elnökhelyettese,
 
@@ -44,6 +44,6 @@
 
 részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
 
-(2) A házelnök részére a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság elnöke állít ki közjogi tisztségviselői igazolványt.
+(2) A házelnök részére a Mentelmi Bizottság elnöke állít ki közjogi tisztségviselői igazolványt.
 
 (3) A házelnök a képviselő részére a képviselői tisztség betöltésének igazolása céljából képviselői igazolványt állít ki.

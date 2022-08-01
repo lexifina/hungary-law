@@ -1,6 +1,6 @@
-## 33. Bejelentési kötelezettség alá eső tevékenységek
+## 33. Összeférhetetlenség alá nem eső tevékenységek
 
-89. § A képviselő a házelnöknek köteles bejelenteni minden, összeférhetetlenség alá nem eső
+89. § A képviselő a vagyonnyilatkozatában – az 1. mellékletben foglaltak szerint – köteles feltüntetni minden, összeférhetetlenség alá nem eső
 
 a) önálló vállalkozását, gazdasági társaságban, szövetkezetben fennálló részesedését (tagsági viszonyát), az e szervezetekben betöltött vezető tisztségviselői megbízatását, felügyelőbizottsági tagságát,
 

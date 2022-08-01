@@ -4,4 +4,4 @@
 
 (3)
 
-(4) Az Országgyűlés úgy is határozhat, hogy valamely állandó bizottságba mind a kormánypárti képviselőcsoportok, mind az ellenzéki képviselőcsoportok együttesen ugyanannyi képviselőt jelölhetnek (a továbbiakban: paritásos bizottság). A Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság paritásos bizottság.
+(4) Az Országgyűlés úgy is határozhat, hogy valamely állandó bizottságba mind a kormánypárti képviselőcsoportok, mind az ellenzéki képviselőcsoportok együttesen ugyanannyi képviselőt jelölhetnek (a továbbiakban: paritásos bizottság). A Mentelmi Bizottság paritásos bizottság.

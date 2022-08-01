@@ -2,7 +2,19 @@
 
 84. § Képviselő nem lehet
 
-a)–g)
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
 
 h) a tőkepiacról szóló törvény szerinti pénzügyi ágazatban működő pénzügyi szervezet kizárólagos vagy többségi tulajdonosa, vezető tisztségviselője, vezető állású munkavállalója.
 
