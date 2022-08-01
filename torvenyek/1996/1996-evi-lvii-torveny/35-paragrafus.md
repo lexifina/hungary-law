@@ -4,6 +4,12 @@
 
 (3) A miniszterelnök javaslatának megtétele előtt a jelölteket a miniszterelnök kezdeményezésére az Országgyűlés illetékes bizottsága nyilvánosan meghallgatja.
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 (8) A Gazdasági Versenyhivatal elnökét, elnökhelyettesét az elődje megbízatásának lejártát megelőző három hónapon belül meg kell nevezni, valamint a kinevezéséhez szükséges folyamatot az előző kinevezés lejárta előtt egy hónappal be kell fejezni.

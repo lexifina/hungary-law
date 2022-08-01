@@ -4,4 +4,6 @@
 
 (2) E törvény más jogszabályban alkalmazandó rövid megjelölése: Tpvt.
 
-(3)–(4)
+(3)
+
+(4)
