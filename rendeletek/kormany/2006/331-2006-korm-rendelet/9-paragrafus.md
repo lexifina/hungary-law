@@ -22,11 +22,21 @@ i) eljár a tartásdíj külföldön való behajtása tárgyában New Yorkban, a
 
 j)[^62] a tanköteles gyermek művészeti, sport-, modell- vagy hirdetési tevékenység keretében történő foglalkoztatásának bejelentése esetén ellenőrzi a bejelentésben foglaltakat,
 
-k)[^63]
+k)[^63] a bíróság megkeresésére a szülői felelősség tárgyában hozott külföldi határozat vagy a jogellenesen Magyarországra hozott gyermek visszavitelét elrendelő határozat végrehajtásával érintett gyermekkel kapcsolatban elkészíti a bírósági végrehajtásról szóló 1994. évi LIII. törvény 48. § (9) bekezdése, 211. § (5) bekezdése, a polgári perrendtartásról szóló 2016. évi CXXX. törvény 528. § (3) bekezdése és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény 22/L. § (6) bekezdése szerinti gyámhatósági véleményt,
+
+l)[^64] kiállítja a szülői felelősséget érintő nemzetközi igazságügyi együttműködésről szóló 2021. évi LXII. törvény 31. § (1) bekezdése szerinti tanúsítványokat,
+
+m)[^65] az (EU) 2019/1111 tanácsi rendelet
+
+ma) 12. cikke alapján kezdeményezheti a joghatóság átadását,
+
+mb) 13. cikke alapján elfogadhatja a joghatóságot.
 
 [^58]: A 8/A. §-t a 70/2014. (III. 13.) Korm. rendelet 92. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^59]: A 9. § a 70/2014. (III. 13.) Korm. rendelet 93. §-ával megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^60]: A 9. § a) pontja a 10/2021. (I. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^61]: A 9. § b) pontját a 31/2020. (II. 29.) Korm. rendelet 7. § (4) bekezdése hatályon kívül helyezte.
 [^62]: A 9. § j) pontja a 360/2019. (XII. 30.) Korm. rendelet 44. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^63]: A 9. § k) pontját a 360/2019. (XII. 30.) Korm. rendelet 44. § (11) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^63]: A 9. § k) pontját a 360/2019. (XII. 30.) Korm. rendelet 44. § (11) bekezdés b) pontja hatályon kívül helyezte, újonnan a 208/2022. (VI. 14.) Korm. rendelet 26. §-a iktatta be.
+[^64]: A 9. § l) pontját a 208/2022. (VI. 14.) Korm. rendelet 26. §-a iktatta be.
+[^65]: A 9. § m) pontját a 208/2022. (VI. 14.) Korm. rendelet 26. §-a iktatta be.
