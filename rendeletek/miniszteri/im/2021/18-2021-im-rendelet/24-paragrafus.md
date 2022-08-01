@@ -4,8 +4,7 @@
 
 24. § (1)[^24]
 
-(2)[^25]
+(2) A 28/2017. IM rendelet 11. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
 
 [^23]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^24]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 24. § (2) bekezdése a 29. § (3) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
