@@ -14,7 +14,7 @@
 
 7.
 
-8.
+8. 44. § (1) bekezdésében a „teljesítése – ideértve a szakképzési hozzájárulás bevallási kötelezettségét is –, továbbá” szövegrész helyébe a „teljesítése, továbbá” szöveg,
 
 9.
 
