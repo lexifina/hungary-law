@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-10-00-00
 | 2021-07-01 | 2013. évi CCLII. törvény | 2006-10-00-00.26 |
 | 2022-01-01 | 2021. évi LXXXIII. törvény | 2006-10-00-00.27 |
 | 2022-03-21 | 2022. évi I. törvény | 2006-10-00-00.28 |
+| 2022-08-01 | 2022. évi XXVI. törvény | 2006-10-00-00.29 |
