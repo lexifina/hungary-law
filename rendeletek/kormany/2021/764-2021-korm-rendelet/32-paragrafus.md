@@ -1,3 +1,3 @@
-## 31. §[^35]
+## 31. § Az R9. a következő 80/A. §-sal egészül ki:
 
-[^35]: A 31. § a 33. § (4) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+## „80/A. § Ez a rendelet a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
