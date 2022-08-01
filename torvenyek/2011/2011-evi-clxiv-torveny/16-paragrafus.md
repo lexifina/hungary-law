@@ -10,4 +10,4 @@
 
 (5) A legfőbb ügyész helyettes a köztársasági elnök előtt, a többi ügyész pedig a munkáltatói jogkör gyakorlója előtt tesz esküt.
 
-(6) A legfőbb ügyészt, a legfőbb ügyész helyettest az országgyűlési képviselőkre vonatkozó szabályok szerint terheli a vagyonnyilatkozat-tételi kötelezettség, első ízben a megválasztását, kinevezését követő harminc napon belül. A vagyonnyilatkozat nyilvántartására, ellenőrzésére, kezelésére az országgyűlési képviselők vagyonnyilatkozatának nyilvántartására, ellenőrzésére, kezelésére vonatkozó szabályokat kell alkalmazni.
+(6) A legfőbb ügyész a megválasztását, a legfőbb ügyész helyettese a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni.
