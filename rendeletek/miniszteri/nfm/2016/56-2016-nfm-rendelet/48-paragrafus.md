@@ -16,7 +16,7 @@ a) a kényszersüllyedést megelőzően olyan fordulót kell végrehajtania, ame
 
 b) a lehető legkorábbi időpontban tájékoztatnia kell a megfelelő ATC egységet a kényszersüllyedésről;
 
-c)[^125] a SERA rendelet melléklet 13. szakasz SERA.13005 pont a) alpont 1. alpontjában meghatározottak végrehajtásán túl, ha CPDLC rendszerrel rendelkezik, ki kell választania a kényszerhelyzeti módot,
+c)[^126] a SERA rendelet melléklet 13. szakasz SERA.13005 pont a) alpont 1. alpontjában meghatározottak végrehajtásán túl, ha CPDLC rendszerrel rendelkezik, ki kell választania a kényszerhelyzeti módot,
 
 d) be kell kapcsolnia a légijármű külső fényeit;
 
@@ -26,4 +26,4 @@ f) szándékairól egyeztetnie kell az illetékes ATC egységgel.
 
 (5) A légijármű nem süllyedhet azon közzétett minimális magasság alá, amely még biztosítja az 1000 láb (300 m), vagy hegyvidéken 2000 láb (600 m) függőleges távolságot az adott területen lévő valamennyi akadály fölött.
 
-[^125]: A 48. § (4) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 24. §-ával megállapított szöveg.
+[^126]: A 48. § (4) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 24. §-ával megállapított szöveg.

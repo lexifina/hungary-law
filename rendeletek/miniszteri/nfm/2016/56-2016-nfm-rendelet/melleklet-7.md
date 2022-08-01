@@ -10,6 +10,6 @@
 
 | 4 | INTERCEPTED AIRCRAFT | INTERSZEPTID ERKRAFT | ELFOGOTT LÉGIJÁRMŰ |
 
-7. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^169]
+7. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^174]
 
-[^169]: A 7. mellékletet a 34/2019. (IX. 13.) ITM rendelet 19. § b) pontja hatályon kívül helyezte.
+[^174]: A 7. mellékletet a 34/2019. (IX. 13.) ITM rendelet 19. § b) pontja hatályon kívül helyezte.

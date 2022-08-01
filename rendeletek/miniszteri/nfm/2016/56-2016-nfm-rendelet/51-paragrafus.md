@@ -8,9 +8,9 @@
 
 (3) A (2) bekezdés szerinti űrlapon AIRPROX jelentés jelölése esetén a jelentést azonnal le kell adni rádión.
 
-(4)[^129]
+(4)[^130]
 
-(5)[^130]
+(5)[^131]
 
-[^129]: Az 51. § (4) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § l) pontja hatályon kívül helyezte.
-[^130]: Az 51. § (5) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § l) pontja hatályon kívül helyezte.
+[^130]: Az 51. § (4) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § l) pontja hatályon kívül helyezte.
+[^131]: Az 51. § (5) bekezdését a 33/2020. (X. 5.) ITM rendelet 34. § l) pontja hatályon kívül helyezte.

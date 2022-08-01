@@ -10,7 +10,7 @@
 
 ## 44. A VMC értékei
 
-## 61. §[^134] A magyar légtér légiközlekedés céljára történő kijelöléséről szóló rendelet szerinti G osztályú légtérben a legfeljebb 900 m (3000 láb) AMSL vagy terep felett 300 m-es (1000 láb) magasságon végzett repülés a nagyobb magasságot biztosító érték betartásával a felhőkön kívül, a felszín látásával, és a következők szerint hajtható végre:
+## 61. §[^137] A magyar légtér légiközlekedés céljára történő kijelöléséről szóló rendelet szerinti G osztályú légtérben a legfeljebb 900 m (3000 láb) AMSL vagy terep felett 300 m-es (1000 láb) magasságon végzett repülés a nagyobb magasságot biztosító érték betartásával a felhőkön kívül, a felszín látásával, és a következők szerint hajtható végre:
 
 a) legfeljebb 1500 m-re csökkent látótávolság mellett
 
@@ -22,4 +22,4 @@ b) 1500 és 800 m közötti látótávolság mellett helikopterrel és olyan seb
 
 c) 800 m alatti látótávolság esetén helikopterrel végzett állami célú repülés, kutató-mentő repülés, egészségügyi mentőrepülés vagy légi tűzoltás.
 
-[^134]: A 61. § a 33/2020. (X. 5.) ITM rendelet 26. §-ával megállapított szöveg.
+[^137]: A 61. § a 33/2020. (X. 5.) ITM rendelet 26. §-ával megállapított szöveg.

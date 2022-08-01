@@ -6,4 +6,17 @@
 
 (2) A légijármű parancsnokának a repülés tervezése során figyelembe kell vennie az adott légtérre, és államhatár átrepülése esetén az érintett szomszédos ország FIR-határ keresztezésre vonatkozó rendelkezéseit.
 
-(3) Budapest FIR-be belépő VFR szerint működő légijárműnek legkésőbb 10 perccel a FIR-határ keresztezése előtt az illetékes ATS egységet tájékoztatnia kell a berepülés körülményeiről.
+(3)[^134] Budapest FIR-be belépő VFR szerint működő légijárműnek legkésőbb 10 perccel a FIR-határ keresztezése előtt az illetékes ATS egységgel rádiókapcsolatot kell kialakítani, és a légijármű parancsnokának meg kell adnia a következő repülési adatokat:
+
+a) hívójel,
+
+b) rendeltetési repülőtér,
+
+c) helyzet,
+
+d) magasság.
+
+(4)[^135] Ha a légijármű parancsnoka repülési tervet nem nyújtott be, a (3) bekezdés a)–g) pontjában felsorolt repülési adatok megadásától függetlenül az adott repülésre a 45. § (6) bekezdésében meghatározottakat kell alkalmazni.
+
+[^134]: Az 56. § (3) bekezdése a 7/2022. (VII. 27.) TIM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^135]: Az 56. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 8. § (2) bekezdése iktatta be.

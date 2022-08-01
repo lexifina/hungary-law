@@ -1,6 +1,6 @@
 ## 9. § Olyan légtérben, ahol RVSM-et alkalmaznak, polgári légijárművel nem hajtható végre kötelékrepülés.
 
-9/A. §[^48] (1) Kötelékrepülés a következő feltételek mellett hajtható végre:
+9/A. §[^49] (1) Kötelékrepülés a következő feltételek mellett hajtható végre:
 
 a) a parancsnokok egyikét kötelékparancsnoknak kell kijelölni,
 
@@ -14,4 +14,4 @@ d) a kötelékben repülő egyes légijárművek a köteléket vezető légijár
 
 (3) A kísérő légijármű parancsnoka a kötelékparancsnok utasításait betartja, azoktól csak veszély elhárítása esetén térhet el.
 
-[^48]: A 9/A. §-t a 33/2020. (X. 5.) ITM rendelet 15. §-a iktatta be.
+[^49]: A 9/A. §-t a 33/2020. (X. 5.) ITM rendelet 15. §-a iktatta be.

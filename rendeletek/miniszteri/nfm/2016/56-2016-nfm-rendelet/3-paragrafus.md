@@ -1,4 +1,4 @@
-## 2. §[^2] E rendelet rendelkezéseit a légiforgalmi szolgálatok ellátásának és eljárásainak szabályairól szóló miniszteri rendelettel (a továbbiakban: légiforgalmi szolgálati rendelet), valamint a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló 2012. szeptember 26-i 923/2012/EU bizottsági végrehajtási rendelettel (a továbbiakban: SERA rendelet) összhangban kell alkalmazni.
+## összhangban kell alkalmazni.
 
 ## 2. Értelmező rendelkezések
 
@@ -24,7 +24,7 @@
 
 10.[^6] Budapest FIR: Budapest repüléstájékoztató körzet, a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 10. pontjában meghatározott fogalom;
 
-11.[^7]
+11.[^7] irányító és légijármű-vezető közötti adatkapcsolati kommunikáció (CPDLC): a SERA rendelet 2. cikk 60. pontjában meghatározott fogalom;
 
 12.[^8] CTR: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 12. pontjában meghatározott fogalom (Aerodrome Control Zone);
 
@@ -72,83 +72,83 @@
 
 34.[^18]
 
-35. légijármű azonosító jele: a légiforgalmi szolgálatok föld-föld közötti összeköttetéseinél a légijármű azonosítására használt, betűkből, számjegyekből, vagy ezek kombinációjából álló jelcsoport, amely azonos a levegő-föld összeköttetéseknél használandó légijármű hívójellel vagy annak egyenértékű kódolt változatával (Aircraft identification);
+35.[^19] légijármű azonosító jele: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 127. pontjában meghatározott fogalom;
 
 36. légijármű hívójel: a levegő-föld összeköttetésnél a légijármű azonosítására használatos alfanumerikus karaktercsoport (Aircraft callsign);
 
-37.[^19] légijármű típus jelölés: a légijármű típusának rövidített formában való azonosítására használt betűkből, számjegyekből vagy ezek kombinációjából álló karaktercsoport (Aircraft type designator);
+37.[^20] légijármű típus jelölés: a légijármű típusának rövidített formában való azonosítására használt betűkből, számjegyekből vagy ezek kombinációjából álló karaktercsoport (Aircraft type designator);
 
 38. légijármű üzembentartója: a légijármű működését szervező, fenntartó felelős természetes vagy jogi személy (Aircraft Operator);
 
-39.[^20]
+39.[^21]
 
 40. MCTR: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet 24. § 27. pontjában meghatározott fogalom (Military Control Zone);
 
-41.[^21] meteorológiai tájékoztatás: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 67. pontjában meghatározott fogalom (Meteorological information);
+41.[^22] meteorológiai tájékoztatás: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 67. pontjában meghatározott fogalom (Meteorological information);
 
-42.[^22] MTMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 29. pontjában meghatározott fogalom (Military Terminal Control Area);
+42.[^23] MTMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 29. pontjában meghatározott fogalom (Military Terminal Control Area);
 
-43.[^23]
+43.[^24]
 
 44. OAT: műveleti légiforgalom, amelyet állami légijárművek a GAT szabályoktól eltérően hajtanak végre (Operational Air Traffic);
 
-45.[^24] navigációs követelmény: a légijárműre és a hajózó személyzetre vonatkozó előírások gyűjteménye, amely az adott légtérben a teljesítmény-alapú navigációs műveletek támogatásához szükséges, és amelyhez a részletes útmutatót az ICAO Teljesítmény-alapú Navigáció Kézikönyv (ICAO Performance-Based Navigation Manual, a továbbiakban: ICAO Doc 9613) II. kötete határozza meg, típusai:
+45.[^25] navigációs követelmény: a légijárműre és a hajózó személyzetre vonatkozó előírások gyűjteménye, amely az adott légtérben a teljesítmény-alapú navigációs műveletek támogatásához szükséges, és amelyhez a részletes útmutatót az ICAO Teljesítmény-alapú Navigáció Kézikönyv (ICAO Performance-Based Navigation Manual, a továbbiakban: ICAO Doc 9613) II. kötete határozza meg, típusai:
 
 a) RNP navigációs előírás: amely tartalmazza a teljesítmény-ellenőrzést és riasztást, és jelölése az RNP kifejezéssel kezdődik, és
 
 b) RNAV navigációs előírás: amely nem tartalmazza a teljesítmény-ellenőrzést és riasztást, és jelölése az RNAV kifejezéssel kezdődik;
 
-46.[^25] nem ellenőrzött légtér: a légiközlekedésről szóló 1995. évi XCVII. törvény 5. § (1) bekezdés a) pont ab) alpontja szerinti légtér (Uncontrolled airspace);”
+46.[^26] nem ellenőrzött légtér: a légiközlekedésről szóló 1995. évi XCVII. törvény 5. § (1) bekezdés a) pont ab) alpontja szerinti légtér (Uncontrolled airspace);”
 
-47.[^26] nem ellenőrzött repülőtér: olyan repülőtér, ahol nem nyújtanak légiforgalmi irányító szolgálatot, függetlenül attól, hogy ott AFIS-t nyújtanak-e (Uncontrolled aerodrome);
+47.[^27] nem ellenőrzött repülőtér: olyan repülőtér, ahol nem nyújtanak légiforgalmi irányító szolgálatot, függetlenül attól, hogy ott AFIS-t nyújtanak-e (Uncontrolled aerodrome);
 
 48. nemzetközi repülés: államhatárt keresztező repülés (International flight);
 
-48a.[^27] NMOC: az Eurocontrol Network Manager működési központja, amely felelős az európai légiforgalmi áramlásszervezés – beleértve a stratégiai, előtaktikai és taktikai áramlásszervezési intézkedéseket is – végrehajtásáért (Network Manager Operational Centre);
+48a.[^28] NMOC: az Eurocontrol Network Manager működési központja, amely felelős az európai légiforgalmi áramlásszervezés – beleértve a stratégiai, előtaktikai és taktikai áramlásszervezési intézkedéseket is – végrehajtásáért (Network Manager Operational Centre);
 
-49.[^28] NOTAM: a légiforgalmi adatok és légiforgalmi tájékoztatások minőségével kapcsolatos követelményeknek az egységes európai égbolt keretében történő meghatározásáról szóló, 2010. január 26-i 73/2010/EU bizottsági rendelet 3. cikk 17. pontjában meghatározott fogalom (Notice to Airmen);
+49.[^29] NOTAM: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 73. pontjában meghatározott fogalom (Notice to Airmen);
 
-50.[^29] PBN: teljesítmény-alapú navigáció, amely ATS útvonalat – beleértve a műszer szerinti megközelítési eljárást is – követő, vagy meghatározott légtérben üzemeltetett légijárműre előírt navigációs teljesítményen alapuló területi navigáció, amely esetében a teljesítményre vonatkozó navigációs követelmények RNAV vagy RNP típusú előírások formájában kerülnek meghatározásra, és amelyek az adott légtérben javasolt működéshez szükséges pontossági, integritási, folytonossági, rendelkezésre állási és funkcionális jellemzőket tartalmaznak (Performance-based Navigation);
+50.[^30] PBN: teljesítmény-alapú navigáció, amely ATS útvonalat – beleértve a műszer szerinti megközelítési eljárást is – követő, vagy meghatározott légtérben üzemeltetett légijárműre előírt navigációs teljesítményen alapuló területi navigáció, amely esetében a teljesítményre vonatkozó navigációs követelmények RNAV vagy RNP típusú előírások formájában kerülnek meghatározásra, és amelyek az adott légtérben javasolt működéshez szükséges pontossági, integritási, folytonossági, rendelkezésre állási és funkcionális jellemzőket tartalmaznak (Performance-based Navigation);
 
-51.[^30] RCP: előírt összeköttetési követelmény. Azon fedélzeti és földi eszközök, valamint eljárások összessége, amelyek az adott légtérben biztosítják a levegő-föld kommunikációs összeköttetéseknek az ICAO Performance-based Communication and Surveillance (PBCS) Manual-ben (Doc 9869) meghatározott jellemzők melletti megvalósulását (Required communication performance);
+51.[^31] RCP: előírt összeköttetési követelmény. Azon fedélzeti és földi eszközök, valamint eljárások összessége, amelyek az adott légtérben biztosítják a levegő-föld kommunikációs összeköttetéseknek az ICAO Performance-based Communication and Surveillance (PBCS) Manual-ben (Doc 9869) meghatározott jellemzők melletti megvalósulását (Required communication performance);
 
-52.[^31] RNAV előírás: olyan területi navigáción alapuló – az ICAO Performance-Based Navigation Manual (Doc 9613), II. kötetben meghatározott – navigációs követelmény, amely nem tartalmazza a teljesítmény-ellenőrzést és riasztást; jelölése RNAV-val kezdődik (Area Navigation);
+52.[^32] RNAV előírás: olyan területi navigáción alapuló – az ICAO Performance-Based Navigation Manual (Doc 9613), II. kötetben meghatározott – navigációs követelmény, amely nem tartalmazza a teljesítmény-ellenőrzést és riasztást; jelölése RNAV-val kezdődik (Area Navigation);
 
 53. RNAV útvonal: területi navigációs útvonal. Területi-navigációs képességgel rendelkező légijárműveknek létesített ATS útvonal (Area navigation route);
 
-54.[^32] RNP előírás: olyan területi navigáción alapuló – az ICAO Performance-Based Navigation Manual (DOC 9613), II. kötetben meghatározott – navigációs követelmény, amely tartalmazza a navigációs teljesítményellenőrzést és a riasztást, jelölése RNP-vel kezdődik (Required Navigation Performance);
+54.[^33] RNP előírás: olyan területi navigáción alapuló – az ICAO Performance-Based Navigation Manual (DOC 9613), II. kötetben meghatározott – navigációs követelmény, amely tartalmazza a navigációs teljesítményellenőrzést és a riasztást, jelölése RNP-vel kezdődik (Required Navigation Performance);
 
 55. rendeltetési repülőtér: az a repülőtér, ahol a légijármű a repülés végrehajtása során első leszállását tervezi (Destination aerodrome);
 
-56.[^33] repülési adatok: a légijármű tényleges vagy tervezett mozgására vonatkozó adatok, amelyeket rendszerint kódolt vagy rövidített formában tüntetnek fel (Flight data);
+56.[^34] repülési adatok: a légijármű tényleges vagy tervezett mozgására vonatkozó adatok, amelyeket rendszerint kódolt vagy rövidített formában tüntetnek fel (Flight data);
 
 57. repülési tervadatok: a repülési tervből feldolgozás, megjelenítés, vagy továbbítás céljából kiválasztott adatok (Flight plan data);
 
 58. repülőtér légtere: a repülőtér körül a repülőtéri forgalom védelme érdekében kijelölt légtér;
 
-59.[^34] repülőtér feletti magasság: levegőben lévő légijárműnek a repülőtér meghatározott pontján észlelt – QFE-vel jelölt – légnyomáshoz viszonyított nyomásmagassága (Height above aerodrome);
+59.[^35] repülőtér feletti magasság: levegőben lévő légijárműnek a repülőtér meghatározott pontján észlelt – QFE-vel jelölt – légnyomáshoz viszonyított nyomásmagassága (Height above aerodrome);
 
-60.[^35] RVSM: 1000 lábas (300 m) csökkentett függőleges elkülönítési minimum (Reduced Vertical Separation Minima);
+60.[^36] RVSM: 1000 lábas (300 m) csökkentett függőleges elkülönítési minimum (Reduced Vertical Separation Minima);
 
 61. SID: standard műszeres indulási útvonal, a repülőtérhez vagy a repülőtér egy meghatározott futópályájához kapcsolódó IFR indulási útvonal, amely általában addig az ATS útvonalon lévő meghatározott fontos pontig tart, ahonnan a repülés útvonal szakasza kezdődik (Standard instrument departure);
 
-62.[^36] SITA rendszer: a Nemzetközi Repülési Távközlési Társaság által biztosított, a légitársaságok által használt világméretű távközlési és adatátviteli rendszer, amely többek között a repülőtéri kiszolgálás, helyfoglalás, jegykiállítás és teljes repülőtéri utasfelvétel adatcseréjére szolgál (Societe Internationale de Telecommunications Aeornautiques System);
+62.[^37] SITA rendszer: a Nemzetközi Repülési Távközlési Társaság által biztosított, a légitársaságok által használt világméretű távközlési és adatátviteli rendszer, amely többek között a repülőtéri kiszolgálás, helyfoglalás, jegykiállítás és teljes repülőtéri utasfelvétel adatcseréjére szolgál (Societe Internationale de Telecommunications Aeornautiques System);
 
-63.[^37] standard magasságmérő beállítás: az ICAO Egyezményes Légkör részeként meghatározott 1013,2 hPa légnyomás beállítása a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén (Standard altimeter setting);
+63.[^38] standard magasságmérő beállítás: az ICAO Egyezményes Légkör részeként meghatározott 1013,2 hPa légnyomás beállítása a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén (Standard altimeter setting);
 
 64. STAR: standard műszeres érkezési útvonal, jellemzően egy ATS útvonalon lévő fontos ponthoz kapcsolódó IFR érkezési útvonal, amely addig a pontig tart, ahonnan egy közzétett műszeres megközelítési eljárás megkezdhető (Standard instrument arrival);
 
-65.[^38] STD: standard magasságmérő beállítás szerint üzemeltetett légijármű méterben kifejezett magasságának jelzésére szolgáló rövidítés, amely standard magasságmérő beállítás esetén az 1013,2 hPa légnyomás kerül beállításra a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén;
+65.[^39] STD: standard magasságmérő beállítás szerint üzemeltetett légijármű méterben kifejezett magasságának jelzésére szolgáló rövidítés, amely standard magasságmérő beállítás esetén az 1013,2 hPa légnyomás kerül beállításra a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén;
 
 66. szabad útvonal: a kijelölt belépő és kilépő vagy a közbenső pontok között a légijármű által alkalmazott közvetlen (direkt) útvonal (free route);
 
-67.[^39] szabad útvonalú légtér: Budapest CTA és Budapest FIR nem ellenőrzött légtere, amelyben az IFR szerint működő légijárművek a kijelölt belépő és a kilépő vagy a közbenső pontok között – a nemzetközi útvonalhálózat figyelembevételével – szabad útvonalon tervezhetik repülésüket;
+67.[^40] szabad útvonalú légtér: Budapest CTA és Budapest FIR nem ellenőrzött légtere, amelyben az IFR szerint működő légijárművek a kijelölt belépő és a kilépő vagy a közbenső pontok között – a nemzetközi útvonalhálózat figyelembevételével – szabad útvonalon tervezhetik repülésüket;
 
-68.[^40] TIZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 36. pontjában meghatározott fogalom (Traffic information zone);
+68.[^41] TIZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 36. pontjában meghatározott fogalom (Traffic information zone);
 
-69.[^41] TMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 37. pontjában meghatározott fogalom (Terminal Control Area);
+69.[^42] TMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 37. pontjában meghatározott fogalom (Terminal Control Area);
 
-70.[^42] TRA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 38. pontjában meghatározott fogalom (Temporary Reserved Area);
+70.[^43] TRA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 38. pontjában meghatározott fogalom (Temporary Reserved Area);
 
 71. TRANSITION: átmenet a végső megközelítéshez. rendszerint ATS útvonalon lévő fontos ponthoz kapcsolódó IFR érkezési útvonal, amely addig a pontig tart, ahonnan egy közzétett végső megközelítés megkezdhető (Transition to final approach);
 
@@ -162,12 +162,11 @@ b) a megközelítési eljárásban meghatározott utolsó útirány elérési po
 
 (2) Az e rendeletben nem meghatározott fogalmakat a SERA rendeletben meghatározottak szerint kell alkalmazni.
 
-[^2]: A 2. § a 34/2019. (IX. 13.) ITM rendelet 18. § a) pontja szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés 2. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^4]: A 3. § (1) bekezdés 4. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdés 7. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés 10. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^7]: A 3. § (1) bekezdés 11. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte.
+[^7]: A 3. § (1) bekezdés 11. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte, újonnan a 7/2022. (VII. 27.) TIM rendelet 7. § (1) bekezdése iktatta be.
 [^8]: A 3. § (1) bekezdés 12. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (4) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdés 15. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (5) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1) bekezdés 17. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés b) pontja szerint módosított szöveg.
@@ -179,27 +178,28 @@ b) a megközelítési eljárásban meghatározott utolsó útirány elérési po
 [^16]: A 3. § (1) bekezdés 27. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (8) bekezdésével megállapított szöveg.
 [^17]: A 3. § (1) bekezdés 28. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés f) pontja szerint módosított szöveg.
 [^18]: A 3. § (1) bekezdés 34. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte.
-[^19]: A 3. § (1) bekezdés 37. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^20]: A 3. § (1) bekezdés 39. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte.
-[^21]: A 3. § (1) bekezdés 41. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (9) bekezdésével megállapított szöveg.
-[^22]: A 3. § (1) bekezdés 42. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (9) bekezdésével megállapított szöveg.
-[^23]: A 3. § (1) bekezdés 43. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte.
-[^24]: A 3. § (1) bekezdés 45. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
-[^25]: A 3. § (1) bekezdés 46. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
-[^26]: A 3. § (1) bekezdés 47. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
-[^27]: A 3. § (1) bekezdés 48a. pontját a 33/2020. (X. 5.) ITM rendelet 12. § (11) bekezdése iktatta be.
-[^28]: A 3. § (1) bekezdés 49. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (12) bekezdésével megállapított szöveg.
-[^29]: A 3. § (1) bekezdés 50. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (12) bekezdésével megállapított szöveg.
-[^30]: A 3. § (1) bekezdés 51. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (12) bekezdésével megállapított szöveg.
-[^31]: A 3. § (1) bekezdés 52. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés h) pontja szerint módosított szöveg.
-[^32]: A 3. § (1) bekezdés 54. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés i) pontja szerint módosított szöveg.
-[^33]: A 3. § (1) bekezdés 56. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés j) pontja szerint módosított szöveg.
-[^34]: A 3. § (1) bekezdés 59. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés k) pontja szerint módosított szöveg.
-[^35]: A 3. § (1) bekezdés 60. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés l) pontja szerint módosított szöveg.
-[^36]: A 3. § (1) bekezdés 62. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés m) pontja szerint módosított szöveg.
-[^37]: A 3. § (1) bekezdés 63. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (13) bekezdésével megállapított szöveg.
-[^38]: A 3. § (1) bekezdés 65. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (14) bekezdésével megállapított szöveg.
-[^39]: A 3. § (1) bekezdés 67. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés n) pontja szerint módosított szöveg.
-[^40]: A 3. § (1) bekezdés 68. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés o) pontja szerint módosított szöveg.
-[^41]: A 3. § (1) bekezdés 69. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (15) bekezdésével megállapított szöveg.
-[^42]: A 3. § (1) bekezdés 70. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés p) pontja szerint módosított szöveg.
+[^19]: A 3. § (1) bekezdés 35. pontja a 7/2022. (VII. 27.) TIM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^20]: A 3. § (1) bekezdés 37. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^21]: A 3. § (1) bekezdés 39. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte.
+[^22]: A 3. § (1) bekezdés 41. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (9) bekezdésével megállapított szöveg.
+[^23]: A 3. § (1) bekezdés 42. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (9) bekezdésével megállapított szöveg.
+[^24]: A 3. § (1) bekezdés 43. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte.
+[^25]: A 3. § (1) bekezdés 45. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
+[^26]: A 3. § (1) bekezdés 46. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
+[^27]: A 3. § (1) bekezdés 47. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
+[^28]: A 3. § (1) bekezdés 48a. pontját a 33/2020. (X. 5.) ITM rendelet 12. § (11) bekezdése iktatta be.
+[^29]: A 3. § (1) bekezdés 49. pontja a 7/2022. (VII. 27.) TIM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^30]: A 3. § (1) bekezdés 50. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (12) bekezdésével megállapított szöveg.
+[^31]: A 3. § (1) bekezdés 51. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (12) bekezdésével megállapított szöveg.
+[^32]: A 3. § (1) bekezdés 52. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^33]: A 3. § (1) bekezdés 54. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^34]: A 3. § (1) bekezdés 56. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^35]: A 3. § (1) bekezdés 59. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^36]: A 3. § (1) bekezdés 60. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^37]: A 3. § (1) bekezdés 62. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés m) pontja szerint módosított szöveg.
+[^38]: A 3. § (1) bekezdés 63. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (13) bekezdésével megállapított szöveg.
+[^39]: A 3. § (1) bekezdés 65. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (14) bekezdésével megállapított szöveg.
+[^40]: A 3. § (1) bekezdés 67. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés n) pontja szerint módosított szöveg.
+[^41]: A 3. § (1) bekezdés 68. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés o) pontja szerint módosított szöveg.
+[^42]: A 3. § (1) bekezdés 69. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (15) bekezdésével megállapított szöveg.
+[^43]: A 3. § (1) bekezdés 70. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés p) pontja szerint módosított szöveg.

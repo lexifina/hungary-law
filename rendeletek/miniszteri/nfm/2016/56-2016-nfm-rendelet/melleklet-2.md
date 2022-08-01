@@ -130,11 +130,13 @@
 
 ## 5.3.1. Be kell írni a törtvonás után a következő betűk valamelyikét a légijármű turbulencia kategóriájának jelzésére:
 
-## 5.3.1.1. H (Heavy) ha az engedélyezett maximális felszálló tömeg (MTOW) 136 000 kg vagy több,
+## 5.3.1.1. J (SUPER) az ICAO Doc 8643 (Aircraft Type Designator) által így meghatározott légijármű típusok esetében,
 
-## 5.3.1.2. M (Medium) ha az MTOW kisebb mint 136 000 kg, de több mint 7000 kg,
+## 5.3.1.2. H (Heavy), ha az engedélyezett maximális felszálló tömeg (MTOW) 136 000 kg vagy több, az ICAO Doc 8643 által a J (SUPER) kategóriában felsorolt repülőgéptípusok kivételével,
 
-## 5.3.1.3. L (Light) ha az MTOW 7000 kg, vagy kisebb.
+## 5.3.1.3. M (Medium), ha az MTOW kisebb, mint 136 000 kg, de több, mint 7000 kg,
+
+## 5.3.1.4. L (Light), ha az MTOW 7000 kg vagy kisebb.
 
 ## 6. Repülési terv űrlap 10. rovat: BERENDEZÉSEK (kommunikációs, navigációs és megközelítési) és KÉPESSÉGEK
 
@@ -844,6 +846,6 @@
 
 ## 12. A repülési terv űrlap képe
 
-2. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^166]
+2. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^171]
 
-[^166]: A 2. mellékletet a 33/2020. (X. 5.) ITM rendelet 34. § q) pontja hatályon kívül helyezte.
+[^171]: A 2. mellékletet a 33/2020. (X. 5.) ITM rendelet 34. § q) pontja hatályon kívül helyezte.
