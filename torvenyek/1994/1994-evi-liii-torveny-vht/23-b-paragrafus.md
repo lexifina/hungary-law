@@ -10,6 +10,10 @@ d) az 1215/2012/EU rendelet 58. cikke szerinti közokiratot és 59. cikke szerin
 
 e) a 650/2012/EU európai parlamenti és tanácsi rendelet szerint végrehajtható külföldi közokiratot az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
+f) a kapcsolattartás tárgyában kiállított közokirat vagy létrejött megállapodás kivételével az (EU) 2019/1111 tanácsi rendelet 66. cikke alapján kiállított tanúsítvánnyal ellátott közokirat vagy megállapodás alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+
+g) a szülői felügyelet tárgyában külföldön létrejött egyezség alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
+
 (2) Végrehajtási záradékkal látja el
 
 a) a 805/2004/EK rendelet szerint európai végrehajtható okiratként hitelesített külföldi közokiratot az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,

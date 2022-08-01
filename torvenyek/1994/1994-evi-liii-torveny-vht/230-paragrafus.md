@@ -8,7 +8,7 @@
 
 (3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a Kar hivatali szervének feladata.
 
-(4) A Kar hivatali szerve a végrehajtó működésének ellenőrzését a Kormány rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Kormány rendeletében meghatározott időszakonként minden végrehajtó tevékenységének vizsgálatát el kell végezni.
+(4) A Kar hivatali szerve a végrehajtó működésének ellenőrzését a Hatóság elnökének rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Hatóság elnökének rendeletében meghatározott időszakonként minden végrehajtó tevékenységének vizsgálatát el kell végezni.
 
 (5)
 

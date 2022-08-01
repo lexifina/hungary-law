@@ -2,7 +2,7 @@
 
 (2) Ha a fegyelmi tanács az eljárás alá vont személy vétkességét állapította meg, a határozatnak a fegyelmi büntetést is tartalmaznia kell.
 
-(2a) Meg kell szüntetni a fegyelmi eljárást, ha annak tartama alatt az eljárás alá vont személy végrehajtói szolgálata megszűnt, a végrehajtójelöltek, végrehajtó-helyettesek névjegyzékéből törölték, a 269. §-ban meghatározott idő eltelt vagy a felelősségre vonást kizáró egyéb ok áll fenn. Ha a fegyelmi eljárást azért kell megszüntetni, mert az eljárás alá vont személy végrehajtójelölti, végrehajtó-helyettesi munkaviszonyát megszüntette vagy végrehajtói szolgálatáról lemondott, a fegyelmi bíróság a vétkesség kérdésében határozhat, de fegyelmi büntetést nem szab ki.
+(2a) Meg kell szüntetni a fegyelmi eljárást, ha annak tartama alatt az eljárás alá vont személy végrehajtói szolgálata – a 239. § (1a) bekezdés szerinti okból történő megszűnés kivételével – megszűnt, a végrehajtójelöltek, végrehajtó-helyettesek névjegyzékéből törölték, a 269. §-ban meghatározott idő eltelt vagy a felelősségre vonást kizáró egyéb ok áll fenn. Ha a fegyelmi eljárást azért kell megszüntetni, mert az eljárás alá vont személy végrehajtójelölti, végrehajtó-helyettesi munkaviszonyát megszüntette vagy végrehajtói szolgálatáról lemondott, a fegyelmi bíróság a vétkesség kérdésében határozhat, de fegyelmi büntetést nem szab ki.
 
 (2b) Az elsőfokú fegyelmi tanács a fegyelmi határozat azonnali végrehajtását rendeli el, ha a határozat végrehajtásának elmaradása a felek és egyéb érdekeltek jogai, jogos érdekei vagy a végrehajtókba vetett közbizalom olyan mértékű sérelmével vagy veszélyeztetésével járna, amely meghaladja a határozat végrehajtásából fakadó egyéni érdeksérelmet.
 

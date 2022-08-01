@@ -103,3 +103,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2022-03-01 | 2021. évi CXXXVI. törvény | 1994-53-00-00.155 |
 | 2022-06-01 | 2021. évi LXXXIV. törvény | 1994-53-00-00.156 |
 | 2022-07-01 | 2021. évi LI. törvény | 1994-53-00-00.157 |
+| 2022-08-01 | 2021. évi LXII. törvény | 1994-53-00-00.158 |

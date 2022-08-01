@@ -1,6 +1,6 @@
 235. § (1) A végrehajtó más székhelyre történő áthelyezésére csak
 
-a) végrehajtói állás betöltése, vagy
+a) végrehajtói állás (2) bekezdésben foglaltak szerint történő betöltése, vagy
 
 b) végrehajtók kölcsönös áthelyezése
 
@@ -10,4 +10,4 @@ esetén van lehetőség.
 
 (3) A Hatóság elnöke a végrehajtókat – közös, indokolással ellátott, írásban előterjesztett kérelmükre és a Kar hivatali szerve vezetőjének egyetértésével – egymás székhelyére pályázat nélkül kölcsönösen áthelyezheti.
 
-(4) Az áthelyezéssel a végrehajtó szolgálata folyamatos marad, de megváltozik az álláshelye, székhelye és illetékességi területe, továbbá – a kölcsönös áthelyezés esetét kivéve – eredeti álláshelye megüresedik. A végrehajtó áthelyezése nem érinti a korábbi székhelyén lefolytatott eljárásokkal kapcsolatos felelősségét. Az áthelyezésre megfelelően alkalmazni kell a kinevezésre vonatkozó szabályokat.
+(4) Az áthelyezéssel a végrehajtó szolgálata folyamatos marad, de megváltozik az álláshelye, székhelye és illetékességi területe, továbbá – a kölcsönös áthelyezés esetét, valamint azt az esetet kivéve, amikor a végrehajtó áthelyezést megelőző álláshelye megszűnik – eredeti álláshelye megüresedik. A végrehajtó áthelyezése nem érinti a korábbi székhelyén lefolytatott eljárásokkal kapcsolatos felelősségét. Az áthelyezésre megfelelően alkalmazni kell a kinevezésre vonatkozó szabályokat.

@@ -16,6 +16,8 @@ f) a szolgálat folyamatosságának megállapítása hiányában a határozott i
 
 napján.
 
+(1a) Ha a végrehajtó szolgálati ideje alatt másik szolgálati helyre is végrehajtói kinevezést kap, a pályázat benyújtásának időpontja szerinti szolgálati helyén fennálló szolgálata az új szolgálati helyre történő kinevezését megelőző napon megszűnik.
+
 (2) A Hatóság elnöke a végrehajtót felmenti, ha a végrehajtó a szolgálatáról a Hatóság elnökéhez intézett írásbeli nyilatkozatában lemondott.
 
 (3) A Hatóság elnöke a végrehajtói szolgálat megszűnését állapítja meg, ha

@@ -20,6 +20,8 @@ h) a 650/2012/EU európai parlamenti és tanácsi rendelet 46. cikke (3) bekezd�
 
 i) a 650/2012/EU európai parlamenti és tanácsi rendelet 61. cikkének (2) bekezdése szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 3. mellékletében közzétett formanyomtatvány felhasználásával.
 
+j) az (EU) 2019/1111 tanácsi rendelet 36. cikke (1) bekezdésének a) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet II. mellékletében, az (EU) 2019/1111 tanácsi rendelet 36. cikke (1) bekezdésének b) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet III. mellékletében, az (EU) 2019/1111 tanácsi rendelet 47. cikke (1) bekezdésének a) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet V. mellékletében, az (EU) 2019/1111 tanácsi rendelet 47. cikke (1) bekezdésének b) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet VI. mellékletében, és az (EU) 2019/1111 tanácsi rendelet 49. cikkének (1) bekezdése szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet VII. mellékletében közzétett formanyomtatvány felhasználásával.
+
 (2) A közokiratot kiállító hatóság székhelye szerint illetékes járásbíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
 
 a) a 44/2001/EK tanácsi rendelet VI. melléklete szerinti tanúsítványt,
@@ -47,5 +49,9 @@ b) hivatalból a rendelet 42. cikkének (1) bekezdésében foglaltak alapján (I
 (5) Az (1) bekezdés a), b), e), g) és h) pontja szerinti, valamint a (2) bekezdés a), c), e) és f) pontja szerinti tanúsítvány, igazolás és kivonat több alkalommal is kiállítható.
 
 (6) A bíróság a (3) bekezdés szerinti igazolást kérelemre kijavítja; a kijavításról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.
+
+(6a) A bíróság az (1) bekezdés j) pontja szerinti, az (EU) 2019/1111 tanácsi rendelet II., III., V. és VI. mellékletében közzétett formanyomtatvány felhasználásával kiállított tanúsítványt kérelemre kijavítja; a kijavításról szóló végzést kézbesíti a feleknek. A végzés ellen fellebbezésnek nincs helye.
+
+(6b) A bíróság az (1) bekezdés j) pontja szerinti, az (EU) 2019/1111 tanácsi rendelet V. és VI. mellékletében közzétett formanyomtatvány felhasználásával kiállított tanúsítványt kérelemre vagy hivatalból visszavonja. A visszavonásról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.
 
 (7) A bíróság az európai végrehajtható okiratra vonatkozó tanúsítványt a 805/2004/EK rendelet 10. cikkében foglaltak alapján kérelemre kijavítja, vagy visszavonja; a kijavításról és a visszavonásról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.
