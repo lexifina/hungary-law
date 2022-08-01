@@ -10,4 +10,6 @@
 
 (5) A vita a törvényalkotási bizottság jelentéséről és módosító javaslatáról folyik.
 
-(6) A (2) bekezdés szerinti módosító javaslat vitájára és szavazására, valamint a zárószavazásra egy napirendi pont keretében kerül sor.
+(6)[^175]
+
+[^175]: A 79. § (6) bekezdését a 36/2022. (VII. 22.) OGY határozat 29. § c) pontja hatályon kívül helyezte.

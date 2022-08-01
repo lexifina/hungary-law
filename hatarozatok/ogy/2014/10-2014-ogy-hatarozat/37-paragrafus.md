@@ -6,17 +6,17 @@
 
 a) a kormánypárti és az ellenzéki képviselőknek – a nemzetiségek érdekeit, jogait nem érintő napirendi pont esetében az ellenzéki képviselők közé számítva a nemzetiségi képviselőket is – együttesen azonos idő áll a rendelkezésükre,
 
-b) az előterjesztő nyitóbeszéde és zárszava nem számít bele az időkeretbe,
+b)[^71] az előterjesztő nyitóbeszédét, ezután – ha az előterjesztő nem a Kormány – a Kormány képviselője álláspontját húsz-húszperces időtartamban fejtheti ki, valamint az előterjesztő húszperces időtartamban zárszót mondhat, amelyek nem számítanak bele az időkeretbe,
 
 c) a Kormány vita közben felszólaló képviselőjének felszólalási ideje a kormánypárti képviselők idejébe számít be,
 
-d) a kormánypárti és az ellenzéki képviselők között az időkeret felét a képviselőcsoportok között egyenlően, a másik felét – a nemzetiségek érdekeit, jogait nem érintő napirendi pont esetében az ellenzéki képviselők közé számítva a nemzetiségi képviselőket is – a képviselők számával arányosan kell felosztani, képviselőcsoportonként legkevesebb húsz percet biztosítva,
+d)[^72] a kormánypárti és az ellenzéki képviselők között az időkeret felét a képviselőcsoportok között egyenlően, a másik felét – a nemzetiségek érdekeit, jogait nem érintő napirendi pont esetében az ellenzéki képviselők közé számítva a nemzetiségi képviselőket is – a képviselők számával arányosan kell felosztani, képviselőcsoportonként legkevesebb tíz percet biztosítva,
 
 e) vita közben a kétperces hozzászólásokat bele kell számítani az időkeretbe,
 
 f) az ügyrendi hozzászólásokat nem kell beleszámítani az időkeretbe,
 
-g)[^50] a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő vagy szószóló felszólalására, valamint a további nemzetiségi képviselői és szószólói felszólalásokra legkevesebb húsz percet kell biztosítani, ami nem számít bele az időkeretbe,
+g)[^73] a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő vagy nemzetiségi szószóló felszólalására, valamint a további nemzetiségi képviselői és nemzetiségi szószólói felszólalásokra legkevesebb húsz percet kell biztosítani, ami nem számít bele az időkeretbe,
 
 h) az európai uniós kérdéssel összefüggő napirendi pont esetében az európai parlamenti képviselő felszólalási ideje a 35. § (2) bekezdése szerinti megkülönböztetésnek megfelelően,
 
@@ -26,7 +26,7 @@ hb) amennyiben közvetlenül jelentkezett, úgy nem számít bele az időkeretbe
 
 i) az Országgyűlésről szóló törvény alapján tanácskozási joggal rendelkező személy felszólalása – a Kormány képviselője, valamint az európai parlamenti képviselő h) pont ha) alpontja szerinti felszólalása kivételével – nem számít bele az időkeretbe,
 
-j)[^51] ha a napirendi pont tárgyalása több ülésnap napirendjén is szerepel,
+j)[^74] ha a napirendi pont tárgyalása több ülésnap napirendjén is szerepel,
 
 ja) a rendelkezésre álló időkeretet ülésnaponként kell meghatározni, és
 
@@ -44,30 +44,21 @@ d) a központi költségvetés végrehajtásáról szóló törvényjavaslat tá
 
 kevesebben meghatározni.
 
-(4) Ha
+(4)[^75]
 
-a) a képviselőcsoport vezetője,
-
-b) öt független képviselő vagy
-
-c) a nemzetiségek érdekeit, jogait érintő napirendi ponttal összefüggésben a nemzetiségeket képviselő bizottság tagjainak legalább kétharmada
-
-az ülés megnyitása előtt egy órával kéri, a rendelkezésére álló, a (2) bekezdés alapján megállapított időkeretet – a (3) bekezdésben meghatározott esetek kivételével – a kétszeresére kell emelni.
-
-(5) A (4) bekezdésnek megfelelő kérelmet félévente
-
-a) minden képviselőcsoport legfeljebb három alkalommal nyújthat be,
-
-b) független képviselő aláírásával három alkalommal támogathat,
-
-c) nemzetiségi képviselő és szószóló aláírásával két alkalommal támogathat.
+(5)[^76]
 
 (6) A képviselőcsoport a részére megállapított időkeretről vagy annak egy részéről másik képviselőcsoport vagy független képviselő javára lemondhat.
 
-(7) A soros jegyző méri és képviselőcsoportonként összesíti a képviselők által igénybe vett felszólalási időt. Tájékoztatja az ülést vezető elnököt arról, ha a képviselőcsoport, a képviselő vagy a szószóló felszólalási idejét kitöltötte. A 36. § (6)–(7) bekezdése szerinti felszólalások addig folytathatók, amíg az (1) bekezdés szerint megállapított időkeret el nem fogy.
+(7)[^77] A soros jegyző méri és képviselőcsoportonként összesíti a képviselők által igénybe vett felszólalási időt. Tájékoztatja az ülést vezető elnököt arról, ha a képviselőcsoport, a képviselő vagy a nemzetiségi szószóló felszólalási idejét kitöltötte. A 36. § (6)–(7) bekezdése szerinti felszólalások addig folytathatók, amíg az (1) bekezdés szerint megállapított időkeret el nem fogy.
 
-(8)[^52] Időkeretes tárgyalási rendben a 35. § (8) bekezdését és a 38. § (1) bekezdés a) pontját nem kell alkalmazni.
+(8)[^78] Időkeretes tárgyalási rendben a 35. § (8) bekezdését és a 38. § (1) bekezdés a) pontját nem kell alkalmazni.
 
-[^50]: A 37. § (2) bekezdés g) pontja az 54/2019. (XII. 17.) OGY határozat 19. § (1) bekezdésével megállapított szöveg.
-[^51]: A 37. § (2) bekezdés j) pontját az 54/2019. (XII. 17.) OGY határozat 19. § (2) bekezdése iktatta be.
-[^52]: A 37. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 2. §-ával megállapított szöveg.
+[^71]: A 37. § (2) bekezdés b) pontja a 36/2022. (VII. 22.) OGY határozat 11. §-ával megállapított szöveg.
+[^72]: A 37. § (2) bekezdés d) pontja a 36/2022. (VII. 22.) OGY határozat 28. § 13. pontja szerint módosított szöveg.
+[^73]: A 37. § (2) bekezdés g) pontja az 54/2019. (XII. 17.) OGY határozat 19. § (1) bekezdésével megállapított, a 36/2022. (VII. 22.) OGY határozat 28. § 7. és 14. pontja szerint módosított szöveg.
+[^74]: A 37. § (2) bekezdés j) pontját az 54/2019. (XII. 17.) OGY határozat 19. § (2) bekezdése iktatta be.
+[^75]: A 37. § (4) bekezdését a 36/2022. (VII. 22.) OGY határozat 29. § b) pontja hatályon kívül helyezte.
+[^76]: A 37. § (5) bekezdését a 36/2022. (VII. 22.) OGY határozat 29. § b) pontja hatályon kívül helyezte.
+[^77]: A 37. § (7) bekezdése a 36/2022. (VII. 22.) OGY határozat 28. § 7. pontja szerint módosított szöveg.
+[^78]: A 37. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 2. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 35. § (1) A törvényjavaslat általános vitájához hozzászólásra
 
-a) legkésőbb annak az ülésnapnak a megnyitása előtt egy órával, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat általános vitája szerepel, írásban a képviselőcsoport vezetője – a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségi képviselő és a szószóló a nemzetiségeket képviselő bizottság elnöke – útján, független képviselők esetében közvetlenül,
+a)[^62] legkésőbb annak az ülésnapnak a megnyitása előtt egy órával, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat általános vitája szerepel, írásban a képviselőcsoport vezetője – a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségi képviselő és a nemzetiségi szószóló a nemzetiségeket képviselő bizottság elnöke – útján, független képviselők esetében közvetlenül,
 
 b) a vita során közvetlenül, gombnyomással
 
@@ -18,10 +18,13 @@ kell jelentkezni a soros jegyzőnél.
 
 (7) Ismételt felszólalásra időkeretes tárgyalási rend esetén az előzetesen megadott sorrendben, egyebekben – ideértve a 36. § (2) bekezdése szerinti vezérszónoki felszólalást is – az írásban előzetesen jelzett felszólalások elhangzását követően kerülhet sor.
 
-(8) A vita közben további vagy ismételt felszólalásra az ülést vezető elnök ad engedélyt. Ha az ülést vezető elnök nem adja meg a szót, a képviselő vagy a szószóló kérésére e tárgyban az Országgyűlés vita nélkül, kézfelemeléssel határoz.
+(8)[^63] A vita közben további vagy ismételt felszólalásra az ülést vezető elnök ad engedélyt. Ha az ülést vezető elnök nem adja meg a szót, a képviselő vagy a nemzetiségi szószóló kérésére e tárgyban az Országgyűlés vita nélkül, kézfelemeléssel határoz.
 
 (9) A felszólalási jog nem ruházható át.
 
 (10) Ha az indítványhoz több felszólaló nincs, és a vita várható lezárását a napirend tartalmazza, az ülést vezető elnök a vitát lezárja.
 
 (11) Több előterjesztő az előterjesztőt megillető felszólalási jogokat egymás között megoszthatja. A felszólalási jog megosztásáról az előterjesztők – legkésőbb annak az ülésnapnak a megnyitása előtt egy órával, amely ülésnap napirendjén vagy tervezett napirendjén a felszólalással érintett vita szerepel – írásban tájékoztatják a házelnököt, ellenkező esetben a felszólalási jog megosztására nem kerülhet sor.
+
+[^62]: A 35. § (1) bekezdés a) pontja a 36/2022. (VII. 22.) OGY határozat 28. § 7. pontja szerint módosított szöveg.
+[^63]: A 35. § (8) bekezdése a 36/2022. (VII. 22.) OGY határozat 28. § 7. pontja szerint módosított szöveg.

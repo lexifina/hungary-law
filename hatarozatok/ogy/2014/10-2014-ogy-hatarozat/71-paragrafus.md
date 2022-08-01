@@ -1,4 +1,4 @@
-71. §[^128] (1) Ha a törvényalkotási bizottság túlterjeszkedő módosító javaslatra irányuló szándékot fogalmaz meg, azt az összegző módosító javaslatától elkülönítve, azzal azonos időpontban nyújtja be. A benyújtással egyidejűleg a törvényalkotási bizottság a 72. § (1) bekezdése szerinti javaslatot tehet.
+71. §[^161] (1) Ha a törvényalkotási bizottság túlterjeszkedő módosító javaslatra irányuló szándékot fogalmaz meg, azt az összegző módosító javaslatától elkülönítve, azzal azonos időpontban nyújtja be. A benyújtással egyidejűleg a törvényalkotási bizottság a 72. § (1) bekezdése szerinti javaslatot tehet.
 
 (2) Az Országgyűlés vita nélkül dönt arról, hogy az (1) bekezdés szerinti módosító javaslat a 70. § (2) bekezdése szerint nyilvánvalóan szükséges-e. A döntést megelőzően a törvényalkotási bizottság által kijelölt előadó, majd – ha a törvényalkotási bizottságban van kisebbségi vélemény – a kisebbségi vélemény előadója szólal fel. E felszólalásokra összesen négy perc áll rendelkezésre oly módon, hogy amennyiben van kisebbségi vélemény, két percet annak kifejtésére kell biztosítani. A bizottsági felszólalásokat követően az előterjesztő kétperces időtartamban felszólalhat.
 
@@ -24,4 +24,4 @@ c) benyújthatja az összegző módosító javaslat és az átdolgozott túlterj
 
 (8) Ha a törvényalkotási bizottság 72. § (1) bekezdése szerinti javaslatához az Országgyűlés a 72. § (3) bekezdése szerinti hozzájárulását nem adta meg, és a törvényalkotási bizottság az eljárását a (6) bekezdés szerint fejezi be, az előterjesztő a 46. § (10) bekezdése alkalmazásával haladéktalanul megküldi a törvényalkotási bizottság elnökének az egységes javaslattervezetet. A törvényalkotási bizottság elnöke az egységes javaslatot a 46. § (11) bekezdésében meghatározott eljárás szerint legkésőbb annak az ülésnapnak a megnyitása előtt egy órával nyújtja be, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat zárószavazása szerepel.
 
-[^128]: A 71. § az 54/2019. (XII. 17.) OGY határozat 36. §-ával megállapított szöveg.
+[^161]: A 71. § az 54/2019. (XII. 17.) OGY határozat 36. §-ával megállapított szöveg.

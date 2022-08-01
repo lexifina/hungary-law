@@ -1,6 +1,6 @@
-## 4K02889A_0
+## 2X04862M_0
 
-| „Az Országgyűlésről szóló 2012. évi XXXVI. törvény 20. § (2) bekezdése és a határozati házszabályi rendelkezések 113. § (2) bekezdése szerint ................................................................... képviselőnek/szószólónak a/az ..................................................... bizottság tagjának* a/az ........................................................ bizottság ............................................-i ülésére – távollétem miatt – eseti megbízást adok. |
+| „Az Országgyűlésről szóló 2012. évi XXXVI. törvény 20. § (2) bekezdése és a határozati házszabályi rendelkezések 113. § (2) bekezdése szerint .................................................................………………… képviselőnek/nemzetiségi szószólónak a/az ...................................................……….. bizottság tagjának* a/az ......................................................………. bizottság ............................................-i ülésére – távollétem miatt – eseti megbízást adok. |
 
 ## * Az Országgyűlésről szóló törvény 20. § (2) bekezdése szerint a bizottsági tag távolléte esetére csak ugyanazon bizottság tagjának adható képviseleti megbízás.
 

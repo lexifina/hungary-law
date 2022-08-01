@@ -6,4 +6,6 @@
 
 (4) Ha az igazolási eljárás befejezésekor az igazolatlan távolmaradások száma legalább három és a számítás alapjául szolgáló bizottsági ülések számának felét is meghaladja, a képviselőt adott rendes ülésszak utolsó hónapjában megillető – levonásoktól mentes – teljes tiszteletdíj az Országgyűlésről szóló törvényben meghatározott összeggel csökken.
 
-(5) A bizottsági ülésről való távolmaradás tekintetében a független képviselőre vonatkozó rendelkezéseket a szószólóra is alkalmazni kell.
+(5)[^288] A bizottsági ülésről való távolmaradás tekintetében a független képviselőre vonatkozó rendelkezéseket a nemzetiségi szószólóra is alkalmazni kell.
+
+[^288]: A 155/B. § (5) bekezdése a 36/2022. (VII. 22.) OGY határozat 28. § 27. pontja szerint módosított szöveg.

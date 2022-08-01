@@ -1,6 +1,6 @@
 ## 54. Megfontolásra visszaküldött törvény tárgyalása
 
-78. § (1)[^139] Ha a köztársasági elnök a kihirdetésre megküldött törvényt aláírás előtt észrevételeinek közlésével megfontolás végett visszaküldi, azt az Országgyűlés legkésőbb a törvény visszaküldésétől számított hatvan napon belül napirendjére tűzi. A hatvannapos határidő számításánál a rendes ülésszakok közötti időtartamot figyelmen kívül kell hagyni.
+78. § (1)[^173] Ha a köztársasági elnök a kihirdetésre megküldött törvényt aláírás előtt észrevételeinek közlésével megfontolás végett visszaküldi, azt az Országgyűlés legkésőbb a törvény visszaküldésétől számított hatvan napon belül napirendjére tűzi. A hatvannapos határidő számításánál a rendes ülésszakok közötti időtartamot figyelmen kívül kell hagyni.
 
 (2) A köztársasági elnök átiratát a házelnök kiadja a törvényalkotási bizottságnak.
 
@@ -14,7 +14,7 @@
 
 (7) A vita a törvényalkotási bizottság jelentéséről és módosító javaslatáról folyik.
 
-(8)[^140]
+(8)[^174]
 
-[^139]: A 78. § (1) bekezdése az 54/2019. (XII. 17.) OGY határozat 40. §-ával megállapított szöveg.
-[^140]: A 78. § (8) bekezdését az 54/2019. (XII. 17.) OGY határozat 78. § j) pontja hatályon kívül helyezte.
+[^173]: A 78. § (1) bekezdése az 54/2019. (XII. 17.) OGY határozat 40. §-ával megállapított szöveg.
+[^174]: A 78. § (8) bekezdését az 54/2019. (XII. 17.) OGY határozat 78. § j) pontja hatályon kívül helyezte.
