@@ -6,4 +6,6 @@ a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hat
 
 b)
 
-(2)–(3)
+(2)
+
+(3)
