@@ -1,0 +1,1 @@
+A Kormány – a Ferencvárosi Szabadidő- és Sportpark megvalósításával, a 2023. évi IAAF Atlétikai Világbajnokság megrendezésével és a Budapesti Atlétikai Központ megvalósításának támogatásával összefüggésben, a Budapest Főváros IX. Kerület Ferencváros Önkormányzata (a továbbiakban: Ferencvárosi Önkormányzat) képviselő-testületének felkérése alapján –
