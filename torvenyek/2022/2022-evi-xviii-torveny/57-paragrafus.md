@@ -1,0 +1,3 @@
+57. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 91. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A képviselő az eskütételétől vagy az összeférhetetlen helyzet keletkezésétől, illetve annak a képviselő tudomására jutásától, a házelnök és az alelnök az e tisztségre való megválasztásától számított harminc napon belül köteles a vele szemben fennálló összeférhetetlenségi okot megszüntetni, és erről haladéktalanul tájékoztatni a házelnököt. A képviselő az összeférhetetlenség fennállása alatt az Országgyűlés és az országgyűlési bizottságok ülésén tanácskozási, szavazati és a 98. § (1) és (2) bekezdése szerinti jogát nem gyakorolhatja, indítványt nem nyújthat be és javadalmazásra sem jogosult.”

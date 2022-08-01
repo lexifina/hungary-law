@@ -1,0 +1,7 @@
+69. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 51. alcíme a következő 145/C. §-sal egészül ki:
+
+„145/C. § (1) A képviselő és a nemzetiségi szószóló az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 1. melléklete szerinti tartalommal és formában – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) A képviselővel, illetve a nemzetiségi szószólóval közös háztartásban élő házas- vagy élettársának, gyermekeinek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Mentelmi Bizottságnál lévő vagyonnyilatkozatát a Mentelmi Bizottság 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.”

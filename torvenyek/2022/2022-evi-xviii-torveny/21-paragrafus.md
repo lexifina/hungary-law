@@ -1,0 +1,7 @@
+21. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 15. alcíme a következő 45/F. §-sal egészül ki:
+
+„45/F. § (1) Az alapvető jogok biztosa és helyettese az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 9. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Hivatal főtitkáránál lévő, az alapvető jogok biztosával, illetve helyettesével közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a Hivatal főtitkára 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.”

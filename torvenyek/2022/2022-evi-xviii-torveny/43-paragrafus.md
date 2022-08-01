@@ -1,0 +1,3 @@
+43. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 28. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A képviselő az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény melléklete szerinti eskü letételéig és az esküokmány aláírásáig (a továbbiakban együtt: eskütétel) – az alakuló ülés megtartásával szükségszerűen együtt járó feladatok elvégzésének kivételével – az Országgyűlés és az országgyűlési bizottságok ülésein nem vehet részt, tanácskozási, szavazati és a 98. § (1) és (2) bekezdése szerinti jogát nem gyakorolhatja, indítványt nem nyújthat be, az Országgyűlés tisztségeire, illetve országgyűlési bizottságba nem választható meg, valamint képviselőcsoport megalakításában nem vehet részt.”

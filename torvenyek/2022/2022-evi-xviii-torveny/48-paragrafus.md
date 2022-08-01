@@ -1,0 +1,3 @@
+48. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 43. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az azonnali kérdések órájában az Alaptörvény szerint válaszadásra kötelezettek kötelesek az ülésteremben tartózkodni. A válaszadásra kötelezett távolléte esetén – ha a határozati házszabályi rendelkezések másként nem rendelkeznek – előzetesen tájékoztatja a házelnököt a válaszadásra feljogosított személyről. A miniszterelnökhöz intézett kérdés megválaszolására a miniszterelnök – távolléte esetére – a miniszterelnök politikai igazgatóját is kijelölheti, ha a miniszterelnök politikai igazgatója képviselői megbízatással rendelkezik.”
