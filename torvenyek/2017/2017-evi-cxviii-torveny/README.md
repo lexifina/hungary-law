@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-118-00-00
 | 2018-01-02 | 2010. évi CXXX. törvény | 2017-118-00-00.2 |
 | 2020-03-01 | 2020. évi I. törvény | 2017-118-00-00.3 |
 | 2020-07-16 | 2020. évi XCII. törvény | 2017-118-00-00.4 |
+| 2022-08-01 | 2021. évi LXII. törvény | 2017-118-00-00.5 |
