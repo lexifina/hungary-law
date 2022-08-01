@@ -66,25 +66,25 @@
 
 33. 107/A. § (1) bekezdésében a „Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottságtól” szövegrész helyébe a „Mentelmi Bizottságtól” szöveg,
 
-34. 109. § (8) bekezdésében a „113. § (1) bekezdésében” szövegrész helyébe a „113. § (1) és (1a) bekezdésében” szöveg,
+34.
 
-35. 110. § (3) bekezdésében a „113. § (1) bekezdésében” szövegrész helyébe a „113. § (1) és (1a) bekezdésében” szöveg,
+35.
 
 36. 111. § (1a) bekezdésében a „111. § (3) bekezdésében” szövegrész helyébe a „(3) bekezdésben” szöveg,
 
-37. 112. § (6) bekezdésében az „(1) bekezdése” szövegrész helyébe az „(1) és (1a) bekezdése” szöveg,
+37.
 
-38. 112. § (9) bekezdésében a „113. § (1) bekezdése” szövegrész helyébe a „113. § (1) és (1a) bekezdése” szöveg,
+38.
 
-39. 113. § (3) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1) és (1a) bekezdésben” szöveg,
+39.
 
-40. 115. § (3) bekezdésében a „(2) bekezdésben” szövegrész helyébe a „(2) és (2a) bekezdésben” szöveg,
+40.
 
-41. 115. § (4) bekezdésében a „(2) bekezdés” szövegrész helyébe a „(2) és (2a) bekezdés” szöveg,
+41.
 
-42. 115. § (6) bekezdésében a „(2) bekezdésben” szövegrész helyébe a „(2) és (2a) bekezdésben” szöveg,
+42.
 
-43. 118. § (1) bekezdésében az „(1) bekezdésében” szövegrész helyébe az „(1) és (1a) bekezdésében” szöveg,
+43.
 
 44. 118. § (2) bekezdésében a „hajt végre” szövegrész helyébe a „hajthat végre” szöveg,
 

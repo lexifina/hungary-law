@@ -23,11 +23,3 @@
 (12) A 71. § 28. pontja az Alaptörvény 4. cikk (2) és (5) bekezdése és 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (13) A 73. §, a 74. § és a 76. § az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
