@@ -1,0 +1,5 @@
+## vonatkozó információkat is.
+
+51. § (1) Soron kívüli fizikai alkalmasságvizsgálat esetén, ha a sportszakember olyan rendellenességre utaló jelet tapasztal, amely betegség fennállását feltételezi, soron kívüli egészségi alkalmasságvizsgálat elrendelése is szükséges annak feltárása érdekében, hogy van-e egészségügyi ok a soron kívüli fizikai alkalmasságvizsgálat alapjául szolgáló okok hátterében.
+
+(2) A fizikai alkalmatlanság esetén elrendelt soron kívüli egészségi alkalmasságvizsgálat során, ha a határvadász „Alkalmas” minősítést kap, az alkalmasságot vizsgáló orvosnak a minősítőlapon nyilatkozni szükséges, hogy állhat-e a fizikai alkalmatlanság hátterében egészségügyi ok. Ha az alkalmasságot vizsgáló orvos nyilatkozata alapján fennáll a fizikai alkalmasságot is befolyásoló egészségügyi ok, az alkalmasságvizsgálatot végző orvosnak javaslatot kell tenni az ismételt fizikai alkalmasságvizsgálat végrehajtásának időpontjára is.
