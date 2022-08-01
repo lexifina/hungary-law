@@ -36,7 +36,7 @@ m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy.
 
 (5) A Tanács tagja évenként köteles beszámolni az őt kijelölőnek az általa érvényesítendő célok, képviselendő általános érdekek, és e törvény céljainak megvalósulása érdekében a Tanácsban folytatott tevékenységéről, valamint ezeknek a közbeszerzések terén való érvényesüléséről.
 
-(6) A Tanács elnöke, alelnöke és tagja az országgyűlési képviselőkre vonatkozó szabályok szerint köteles vagyonnyilatkozatot tenni, első ízben a kijelölését követő harminc napon belül. A vagyonnyilatkozat nyilvántartására, ellenőrzésére, kezelésére az országgyűlési képviselők vagyonnyilatkozatának nyilvántartására, ellenőrzésére, kezelésére vonatkozó szabályokat kell alkalmazni.
+(6) A Tanács elnöke, alelnöke és tagja a kijelölését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (7) Összeférhetetlenség miatt meg kell szüntetni a Tanács elnökének, alelnökének és a Tanács tagjának a megbízatását, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl.
 
