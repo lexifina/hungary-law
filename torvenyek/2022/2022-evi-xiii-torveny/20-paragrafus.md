@@ -1,1 +1,1 @@
-20. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 11. számú melléklet IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások: rész 8. pontjában a „kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó” szövegrész helyébe az „a kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó, a kisadózó vállalkozók tételes adója és a 40 százalékos mértékű különadó” szöveg lép.
+### 20. §
