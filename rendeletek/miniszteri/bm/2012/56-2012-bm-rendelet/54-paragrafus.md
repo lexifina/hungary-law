@@ -1,8 +1,8 @@
 ## 12. Rendszeresített hivatásos beosztások és a betöltésükhöz szükséges követelmények
 
-54. § (1)[^131]
+54. § (1)[^132]
 
-(2)[^132] Az Országgyűlési Őrség állománytáblázata tartalmazza:
+(2)[^133] Az Országgyűlési Őrség állománytáblázata tartalmazza:
 
 a) az Országgyűlési Őrség megnevezését, jogállását, szervkódját (munkáltatói számát),
 
@@ -36,17 +36,17 @@ bm) a könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati b
 
 c) az állománytáblázat adatainak statisztikai összegzését, rendszerezését.
 
-(3)[^133] Az állománytáblázatban fel kell tüntetni a hatálybalépésének dátumát, módosítás esetén a módosítás hatálybalépésének dátumát.
+(3)[^134] Az állománytáblázatban fel kell tüntetni a hatálybalépésének dátumát, módosítás esetén a módosítás hatálybalépésének dátumát.
 
-(4)[^134] Az Országgyűlési Őrség állománytáblázatát a humánigazgatási szakszolgálat készíti és kezeli, valamint az adatokat és az állománytáblázat eredeti példányát az iratkezelési szabályoknak megfelelően tárolja.
+(4)[^135] Az Országgyűlési Őrség állománytáblázatát a humánigazgatási szakszolgálat készíti és kezeli, valamint az adatokat és az állománytáblázat eredeti példányát az iratkezelési szabályoknak megfelelően tárolja.
 
-(5)[^135] A jóváhagyott állománytáblázat egy példányát a humánigazgatási szakszolgálat az Országgyűlés Hivatala személyügyi szervének megküldi. Az Országgyűlés Hivatalának személyügyi szerve az állománytáblázatot nyilvántartásba veszi és hatályon kívül helyezését követő 50 évig archív nyilvántartásként kezeli.
+(5)[^136] A jóváhagyott állománytáblázat egy példányát a humánigazgatási szakszolgálat az Országgyűlés Hivatala személyügyi szervének megküldi. Az Országgyűlés Hivatalának személyügyi szerve az állománytáblázatot nyilvántartásba veszi és hatályon kívül helyezését követő 50 évig archív nyilvántartásként kezeli.
 
-(6)[^136] Az állománytáblázat hatályos adatait a számítógépes személyügyi, munkaügyi és szervezési nyilvántartó rendszerben is folyamatosan vezetni kell.
+(6)[^137] Az állománytáblázat hatályos adatait a számítógépes személyügyi, munkaügyi és szervezési nyilvántartó rendszerben is folyamatosan vezetni kell.
 
-[^131]: Az 54. § (1) bekezdését a 34/2015. (VI. 16.) BM rendelet 4. §-a hatályon kívül helyezte.
-[^132]: Az 54. § (2) bekezdése a 34/2015. (VI. 16.) BM rendelet 1. §-ával megállapított szöveg.
-[^133]: Az 54. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^134]: Az 54. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés m) és n) pontja, a 38/2020. (X. 14.) BM rendelet 19. § f) pontja szerint módosított szöveg.
-[^135]: Az 54. § (5) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés m) és o) pontja, a 38/2020. (X. 14.) BM rendelet 19. § g) pontja szerint módosított szöveg.
-[^136]: Az 54. § (6) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^132]: Az 54. § (1) bekezdését a 34/2015. (VI. 16.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^133]: Az 54. § (2) bekezdése a 34/2015. (VI. 16.) BM rendelet 1. §-ával megállapított szöveg.
+[^134]: Az 54. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^135]: Az 54. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés m) és n) pontja, a 38/2020. (X. 14.) BM rendelet 19. § f) pontja szerint módosított szöveg.
+[^136]: Az 54. § (5) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés m) és o) pontja, a 38/2020. (X. 14.) BM rendelet 19. § g) pontja szerint módosított szöveg.
+[^137]: Az 54. § (6) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés l) pontja szerint módosított szöveg.

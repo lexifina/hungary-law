@@ -1,3 +1,3 @@
-110. §[^238]
+110. §[^239]
 
-[^238]: A 110. §-t a 36/2015. (VI. 16.) BM rendelet 11. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^239]: A 110. §-t a 36/2015. (VI. 16.) BM rendelet 11. § (2) bekezdés f) pontja hatályon kívül helyezte.

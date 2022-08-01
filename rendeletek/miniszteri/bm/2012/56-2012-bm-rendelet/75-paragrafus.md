@@ -1,3 +1,3 @@
-75. §[^186]
+75. §[^187]
 
-[^186]: A 75. §-t a 9/2018. (IV. 25.) BM rendelet 19. § f) pontja hatályon kívül helyezte.
+[^187]: A 75. §-t a 9/2018. (IV. 25.) BM rendelet 19. § f) pontja hatályon kívül helyezte.

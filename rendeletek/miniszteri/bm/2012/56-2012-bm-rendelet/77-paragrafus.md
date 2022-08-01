@@ -1,6 +1,6 @@
-77. § (1)[^189] A Hszt. 193. § (2) bekezdés szerinti határidő-meghosszabbításnak akkor van helye, ha folyamatban levő fegyelmi eljárásban az áttételt megelőzően a vizsgálat határidejét a Hszt. 195. § (3) bekezdése alapján már meghosszabbították és a rendelkezésre álló idő nem elég az érdemi döntés megalapozásához szükséges bizonyítékok beszerzéséhez.
+77. § (1)[^190] A Hszt. 193. § (2) bekezdés szerinti határidő-meghosszabbításnak akkor van helye, ha folyamatban levő fegyelmi eljárásban az áttételt megelőzően a vizsgálat határidejét a Hszt. 195. § (3) bekezdése alapján már meghosszabbították és a rendelkezésre álló idő nem elég az érdemi döntés megalapozásához szükséges bizonyítékok beszerzéséhez.
 
-(2)[^190] Nem kell a fegyelmi eljárást áttenni, ha a korábbi szolgálati hely szerint illetékes parancsnok a fegyelmi eljárást a Hszt. 210. § (1) bekezdés a)–d), illetve f)–h) pontja alapján megszünteti.
+(2)[^191] Nem kell a fegyelmi eljárást áttenni, ha a korábbi szolgálati hely szerint illetékes parancsnok a fegyelmi eljárást a Hszt. 210. § (1) bekezdés a)–d), illetve f)–h) pontja alapján megszünteti.
 
 (3) Az Országgyűlési Őrség parancsnoka egyedi ügyben az átruházott jogkörben eljáró vezetőtől a fegyelmi jogkör gyakorlását – az érdemi határozat meghozatalát megelőzően – visszaveheti.
 
@@ -18,5 +18,5 @@ d) az eljárás alá vont kezdeményezésére vele szemben büntető-, szabálys
 
 (6) A fegyelmi eljárás áttételéről és a fegyelmi jogkör visszavételéről, illetve az erre irányuló kérelem elutasításáról indokolás nélküli határozatban kell rendelkezni. A határozat ellen panasznak nincs helye.
 
-[^189]: A 77. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 13–14. pontja szerint módosított szöveg.
-[^190]: A 77. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^190]: A 77. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 13–14. pontja szerint módosított szöveg.
+[^191]: A 77. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 15. pontja szerint módosított szöveg.
