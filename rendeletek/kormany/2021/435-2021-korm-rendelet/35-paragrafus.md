@@ -1,5 +1,3 @@
-## a változást vagy a megszüntetést követő 8 napon belül bejelenteni a kormányhivatal és a gazdasági aktát vezető hegybíró részére.
-
 35. § (1) Borászati üzemben – a (2) bekezdésben foglalt kivétellel – kizárólag borászati termék, szőlőlé, valamint szőlőalapú alkoholos termék előállítása és kiszerelése végezhető.
 
 (2) Az (1) bekezdésben meghatározott termékeken kívül más termék borászati üzemben akkor állítható elő, ha a NÉBIH engedélyezi a borászati üzemben az ehhez szükséges, borászati termék előállításához nem engedélyezett anyagok tárolását.

@@ -1,6 +1,6 @@
 ## 24. Forgalombahozatali azonosítóval rendelkező borászati terméktétel további feldolgozása
 
-57. §[^15] (1) Forgalombahozatali azonosítóval rendelkező borászati terméktétel további feldolgozását a feldolgozást végző borászati üzemengedélyes a feldolgozás megkezdése előtt legalább 5 nappal korábban bejelenti a hegybíró részére. A hegybíró a forgalombahozatali azonosítóval rendelkező borászati termék végső származási bizonyítványát a bejelentés adatai alapján visszavonja.
+57. §[^16] (1) Forgalombahozatali azonosítóval rendelkező borászati terméktétel további feldolgozását a feldolgozást végző borászati üzemengedélyes a feldolgozás megkezdése előtt legalább 5 nappal korábban bejelenti a hegybíró részére. A hegybíró a forgalombahozatali azonosítóval rendelkező borászati termék végső származási bizonyítványát a bejelentés adatai alapján visszavonja.
 
 (2) Ha az (1) bekezdésben foglalt esetben a borászati terméktétel egy része forgalomban marad, a borászati üzemengedélyes a hegybírótól a bejelentéssel egyidejűleg kérelmezi a végső származási bizonyítvány visszavonása mellett új végső származási bizonyítvány kiadását a forgalomban maradó borászati terméktétel mennyiségének megadásával.
 
@@ -12,4 +12,4 @@
 
 (6) Az (1) bekezdés szerinti feldolgozást végző borászati üzemengedélyes a további feldolgozással érintett borászati terméktétel adataiban bekövetkezett változást, valamint a további feldolgozással létrejött borászati terméktételt bevezeti a szakmai-jövedéki nyilvántartásba.
 
-[^15]: Az 57. § a 23/2022. (I. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^16]: Az 57. § a 23/2022. (I. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
