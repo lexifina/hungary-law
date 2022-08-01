@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-241-00-00
 | 2020-01-01 | 2019. évi CIX. törvény | 2013-241-00-00.5 |
 | 2020-04-11 | 2020. évi XIX. törvény | 2013-241-00-00.6 |
 | 2022-05-25 | 2022. évi IV. törvény | 2013-241-00-00.7 |
+| 2022-08-01 | 2022. évi XVIII. törvény | 2013-241-00-00.8 |
