@@ -111,5 +111,3 @@
 ## i) a zártkörű részvénytársasággá alakuló, értékpapírt nyilvánosan forgalomba hozott kibocsátó között a nyilvánosság felé történő adatszolgáltatási kötelezettség alóli mentesítésre,
 
 ## j) a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdése alapján megbízott befektetési szolgáltató között
-
-## ja) az általuk tett nyilvános vételi ajánlat jóváhagyására,
