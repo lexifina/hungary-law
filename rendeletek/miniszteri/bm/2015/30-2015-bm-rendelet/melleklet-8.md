@@ -194,7 +194,7 @@
 
 ## D)
 
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^37]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^39]
 
 A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -292,4 +292,4 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 III. Kiképzői beosztások
 
-[^37]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.
+[^39]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.

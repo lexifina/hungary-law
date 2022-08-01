@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^32]
 
 Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -6,7 +6,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 1. Központi szervnél
 
-## 2X03290M_0
+## 2X05476R_0
 
 |  | A | B | C | D | E |
 
@@ -42,7 +42,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 2. Területi szervnél
 
-## 2X03290M_1
+## 2X05476R_1
 
 |  | A | B | C | D | E |
 
@@ -62,7 +62,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 8. | gazdasági rendőrfőkapitány-helyettes (MRFK) |  | 100 |
 
-| 9. | főosztályvezető 2 | főosztályvezető (RRI) | 100 |  |
+| 9. | főosztályvezető 2 | főosztályvezető | 100 |  |
 
 | 10. | beosztott vezető | főosztályvezető- helyettes 2 | szolgálatvezető (MRFK, RRI humánigazgatási, ellenőrzési, határrendészeti, KHSZ) | 100 | 100 |
 
@@ -74,7 +74,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 3. Helyi szervnél
 
-## 2X03290M_2
+## 2X05476R_2
 
 |  | A | B | C | D | E |
 
@@ -100,7 +100,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 2X03290M_3
+## 2X05476R_3
 
 |  | A | B | C | D | E |
 
@@ -252,7 +252,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 2X03290M_4
+## 2X05476R_4
 
 |  | A | B | C | D | E |
 
@@ -424,7 +424,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 2X03290M_5
+## 2X05476R_5
 
 |  | A | B | C | D | E |
 
@@ -444,7 +444,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 2X03290M_6
+## 2X05476R_6
 
 |  | A | B | C | D |
 
@@ -466,7 +466,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 2X03290M_7
+## 2X05476R_7
 
 |  | A | B | C | D |
 
@@ -580,7 +580,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 2X03290M_11
+## 2X05476R_11
 
 |  | A | B | C | D | E |
 
@@ -594,7 +594,9 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 | 4. | közép- vezető | szakirányító 1 | igazgató | 200 | 150 |
 
-| 5. | főosztályvezető 1 | igazgató-helyettes (KR MÜIG, KR KIG) |  | 150 |
+| 4a. | ezredparancsnok | 200 |  |
+
+| 5. | főosztályvezető 1 | igazgató-helyettes (KR MÜIG, KR KIG, KR RBI) |  | 150 |
 
 | 5a. | szolgálatvezető (TŰSZ) | 500 |  |
 
@@ -632,7 +634,7 @@ a) 200*: a Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálat
 
 2. Tiszti szolgálati beosztások
 
-## 2X03290M_12
+## 2X05476R_12
 
 |  | A | B | C | D |
 
@@ -643,6 +645,8 @@ a) 200*: a Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálat
 | 3. | E | osztályvezető-helyettes | 150** 200 | 100 |
 
 | 4. | alosztályvezető | 150** 200 225*** 600****** | 100 |
+
+| 4a. | századparancsnok | 200 |  |
 
 | 5. | karmester |  | 100 |
 
@@ -704,7 +708,7 @@ a) 200*: a Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálat
 
 3. Tiszthelyettesi szolgálati beosztások
 
-## 2X03290M_13
+## 2X05476R_13
 
 |  | A | B | C | D |
 
@@ -717,6 +721,8 @@ a) 200*: a Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálat
 | 4. | csoportparancsnok | 200 225*** 600****** | 100 |
 
 | 5. | szolgálatirányító | 200 600****** |  |
+
+| 5a. | szakaszparancsnok | 200 |  |
 
 | 6. | őrparancsnok | 200 |  |
 
@@ -800,7 +806,7 @@ VII. Budapesti Rendőr-főkapitányság
 
 a) Területi szervnél
 
-2X03290M_14
+2X05476R_14
 
 |  | A | B | C | D | E |
 
@@ -828,7 +834,7 @@ a) Területi szervnél
 
 b) Helyi szervnél
 
-2X03290M_15
+2X05476R_15
 
 |  | A | B | C | D | E |
 
@@ -850,7 +856,7 @@ b) Helyi szervnél
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 2X03290M_16
+## 2X05476R_16
 
 |  | A | B | C | D | E |
 
@@ -954,7 +960,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 2. Tiszthelyettesi szolgálati beosztások
 
-## 2X03290M_17
+## 2X05476R_17
 
 |  | A | B | C | D | E |
 
@@ -1128,4 +1134,4 @@ VIII. A Nemzetközi Oktatási Központ szolgálati beosztásai
 
 | 5. | B | gépjárművezető |  | 100 |
 
-[^30]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a, a 2/2020. (I. 17.) BM rendelet 2. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 12. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (1) bekezdése, a 4/2022. (III. 25.) BM rendelet 11. §-a, a 16/2022. (V. 4.) BM rendelet 1. §-a szerint módosított szöveg. [A 2. melléklet VI. alcímében a 16/2022. (V. 4.) BM rendelet 1. melléklet 3. pont c) és d) alpontjával elrendelt módosítás nem vezethető át.]
+[^32]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a, a 2/2020. (I. 17.) BM rendelet 2. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 12. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (1) bekezdése, a 4/2022. (III. 25.) BM rendelet 11. §-a, a 16/2022. (V. 4.) BM rendelet 1. §-a, a 19/2022. (VII. 15.) BM rendelet 89. § (2) bekezdés, (3) bekezdés a) pontja és (4) bekezdés a) pontja szerint, a 23/2022. (VII. 29.) BM rendelet 18. § (1) bekezdése szerint módosított szöveg. [A 2. melléklet VI. alcímében a 16/2022. (V. 4.) BM rendelet 1. melléklet 3. pont c) és d) alpontjával, VIII. alcímében a 23/2022. (VII. 29.) BM rendelet 18. § (2) bekezdésével elrendelt módosítás nem vezethető át.]
