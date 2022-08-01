@@ -1,4 +1,4 @@
-## 8. §[^44] Az írásbeli feladat megoldását és a feladatlapot a vizsgabizottság tagjai – jelöltenként külön zárt borítékban – kapják meg. A feladat megoldását a vizsgatárgy szerint illetékes vizsgabizottsági tag értékeli. Sikertelen írásbeli vizsga esetén pótvizsgának van helye. Szóbeli vizsga csak a sikeres írásbeli vizsgát követően tehető.
+## 8. §[^44] Az írásbeli feladat megoldását és a feladatlapot a vizsgabizottság tagjai – jelöltenként külön zárt borítékban – kapják meg. A feladat megoldását a vizsgatárgy szerint illetékes vizsgabizottsági tag értékeli. Sikertelen írásbeli vizsga esetén megismételt részvizsgának van helye. Szóbeli vizsga csak a sikeres írásbeli vizsgát követően tehető.
 
 9. §[^45] (1) A részvizsga a miniszter által kijelölt három tagú vizsgabizottság előtt történik. A vizsgabizottság elnöke a miniszter által a vizsgabizottság tagjai közül esetenként felkért személy. A vizsga nyilvános.
 
@@ -8,5 +8,5 @@
 
 (4) A részvizsgáról jegyzőkönyvet kell készíteni, amelyben fel kell tüntetni a jelölt személyazonosító adatait, a vizsgatárgyakat, a vizsga időpontját, valamint a vizsga értékelését. Sikeres vizsga esetén a jegyzőkönyvnek tartalmaznia kell a részvizsgáról kiállított tanúsítvány ügyszámát is. A jegyzőkönyvet a vizsgabizottság tagjai írják alá.
 
-[^44]: A 8. § a 42/2012. (IX. 14.) KIM rendelet 7. §-ával megállapított szöveg.
+[^44]: A 8. § a 42/2012. (IX. 14.) KIM rendelet 7. §-ával megállapított, a 17/2022. (VII. 1.) IM rendelet 3. § a) pontja szerint módosított szöveg.
 [^45]: A 9. § a 42/2012. (IX. 14.) KIM rendelet 8. §-ával megállapított szöveg.

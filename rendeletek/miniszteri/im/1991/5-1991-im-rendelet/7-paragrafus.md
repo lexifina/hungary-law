@@ -2,16 +2,16 @@
 
 7. § (1) Az írásbeli vizsgán a jelölt beadványt vagy határozatot készít, illetőleg jogkérdésben véleményt nyilvánít.
 
-(2)[^40] A jelölt az írásbeli vizsga kezdetekor a vizsgafeladatok közül egyet húz, amelynek kidolgozására négy óra időtartam áll rendelkezésére. A vizsgán segédanyagként olyan papír alapú jogszabályszöveg használható, amely kizárólag a normaszöveget tartalmazza. A feladat kidolgozása során a vizsgabiztos által rendelkezésre bocsátott, bélyegzővel ellátott papír használható, amelyen a jelöltnek nevét fel kell tüntetnie. Az írásbeli vizsga alatt a helyiséget csak a vizsgaszabályzatban meghatározott esetekben és módon lehet elhagyni. A helyiség vizsgaszabályzatban foglaltaktól eltérő elhagyása esetén a vizsga érvénytelen. Érvénytelen vizsga esetén pótvizsgának van helye.
+(2)[^40] A jelölt az írásbeli vizsga kezdetekor a vizsgafeladatok közül egyet húz, amelynek kidolgozására négy óra időtartam áll rendelkezésére. A vizsgán segédanyagként olyan papír alapú jogszabályszöveg használható, amely kizárólag a normaszöveget tartalmazza. A feladat kidolgozása során a vizsgabiztos által rendelkezésre bocsátott, bélyegzővel ellátott papír használható, amelyen a jelöltnek nevét fel kell tüntetnie. Az írásbeli vizsga alatt a helyiséget csak a vizsgaszabályzatban meghatározott esetekben és módon lehet elhagyni. A helyiség vizsgaszabályzatban foglaltaktól eltérő elhagyása esetén a vizsga érvénytelen. Érvénytelen vizsga esetén megismételt részvizsgának van helye.
 
 (3)[^41] Az írásbeli vizsgán a rendfenntartás a miniszter által kijelölt vizsgabiztos feladata. A jelölt a vizsgafeladat megoldását – aláírásával ellátva – a vizsgafeladattal együtt a vizsgabiztosnak adja át.
 
-(4)[^42] Ha a jelölt az írásbeli vizsgára vonatkozó szabályokat megszegi a vizsgabiztos a jelölt vizsgáját felfüggeszti, és erről jegyzőkönyvet készít. Felfüggesztett vizsga esetén pótvizsgának van helye.
+(4)[^42] Ha a jelölt az írásbeli vizsgára vonatkozó szabályokat megszegi a vizsgabiztos a jelölt vizsgáját felfüggeszti, és erről jegyzőkönyvet készít. Felfüggesztett vizsga esetén megismételt részvizsgának van helye.
 
 (5)[^43]
 
 [^39]: A 6. § a 31/2010. (XII. 31.) KIM rendelet 5. §-ával megállapított, a 42/2012. (IX. 14.) KIM rendelet 17. § c) pontja szerint módosított szöveg.
-[^40]: A 7. § (2) bekezdése a 42/2012. (IX. 14.) KIM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^40]: A 7. § (2) bekezdése a 42/2012. (IX. 14.) KIM rendelet 6. § (1) bekezdésével megállapított, a 17/2022. (VII. 1.) IM rendelet 3. § a) pontja szerint módosított szöveg.
 [^41]: A 7. § (3) bekezdése a 42/2012. (IX. 14.) KIM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^42]: A 7. § (4) bekezdése a 42/2012. (IX. 14.) KIM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^42]: A 7. § (4) bekezdése a 42/2012. (IX. 14.) KIM rendelet 6. § (1) bekezdésével megállapított, a 17/2022. (VII. 1.) IM rendelet 3. § a) pontja szerint módosított szöveg.
 [^43]: A 7. § (5) bekezdését a 42/2012. (IX. 14.) KIM rendelet 18. § a) pontja hatályon kívül helyezte.
