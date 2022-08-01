@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-5-00-00
 | 2021-07-01 | 2021. évi XCV. törvény | 2013-5-00-00.22 |
 | 2022-01-01 | 2021. évi XCV. törvény | 2013-5-00-00.23 |
 | 2022-05-28 | 2021. évi LI. törvény | 2013-5-00-00.24 |
+| 2022-08-01 | 2021. évi LXII. törvény | 2013-5-00-00.25 |
