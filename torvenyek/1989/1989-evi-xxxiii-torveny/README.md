@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1989-33-00-00
 | 2020-05-29 | 2020. évi XXVII. törvény | 1989-33-00-00.18 |
 | 2022-01-01 | 2020. évi XXVII. törvény | 1989-33-00-00.19 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 1989-33-00-00.20 |
+| 2022-08-01 | 2022. évi XVIII. törvény | 1989-33-00-00.21 |
