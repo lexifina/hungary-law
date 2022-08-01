@@ -8,7 +8,7 @@ b) rendőr-főkapitányságokat, rendőrkapitányságokat, kirendeltségeket, va
 
 c) meghatározza a rendőrség szerveinek feladatát és hatáskörét,
 
-d) meghatározza a közbiztonságra veszélyt jelentő egyes eszközök és anyagok, valamint a polgári felhasználású robbanóanyagok gyártására, forgalmazására, szállítására, tárolására, birtoklására és használatára vonatkozó szabályokat,
+d) meghatározza a közbiztonságra veszélyt jelentő egyes eszközök és anyagok gyártására, forgalmazására, szállítására, tárolására, birtoklására és használatára, valamint a polgári felhasználású robbanóanyagok szállítására és belföldi átadására vonatkozó szabályokat,
 
 e) meghatározza a személyes javak rendőri intézkedés keretében történő igénybevételével és a kártalanítással kapcsolatos eljárás szabályait,
 
