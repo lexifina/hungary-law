@@ -1,0 +1,1 @@
+## 17. § A légiforgalmi információs termék részeként kibocsátandó anyagot az AIS-hez történő továbbítás előtt alaposan ellenőrizni kell, annak biztosítása érdekében, hogy minden szükséges információt tartalmazzon, valamint hogy a részletek pontosak legyenek.
