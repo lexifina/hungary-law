@@ -4,7 +4,7 @@
 
 (3) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási tárgyú törvények módosításáról szóló 2020. évi CLXXII. törvénnyel (a továbbiakban: Módtv-2.) módosított 10/B. §-át, 12. § (3) bekezdését, valamint a Módtv-2.-el megállapított 13. § (1a) bekezdését, 14/A. §-át, 16. §-át az e rendelkezések hatálybalépésekor folyamatban lévő koncessziós pályázati és ajánlattételi eljárásokra is alkalmazni kell.
 
-(4)
+(4) E törvénynek az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvénnyel megállapított 3/A. §-át, 4. § (3) bekezdését és 11/A. §-át azon eljárásokra is alkalmazni kell, amelyeknek alapjául szolgáló – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdése szerinti – szerződés a kihirdetés napján már hatályos volt.
 
 (5)
 

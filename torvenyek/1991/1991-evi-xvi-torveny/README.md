@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-16-00-00
 | 2020-10-28 | 2020. évi CIV. törvény | 1991-16-00-00.45 |
 | 2020-12-25 | 2020. évi CLXXIII. törvény | 1991-16-00-00.46 |
 | 2021-10-01 | 2021. évi XXXII. törvény | 1991-16-00-00.47 |
+| 2022-08-01 | 2022. évi XIX. törvény | 1991-16-00-00.48 |

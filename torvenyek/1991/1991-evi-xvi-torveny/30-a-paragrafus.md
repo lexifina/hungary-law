@@ -1,6 +1,6 @@
 30/A. § Felhatalmazást kap a Kormány, hogy
 
-a) központi kormányzati igazgatási szerv vagy miniszter kijelölésére vonatkozó részletes szabályokat,
+a) központi kormányzati igazgatási szerv vagy miniszter kijelölésére vonatkozó és az e kijelölés alapján eljáró központi kormányzati igazgatási szerv vagy miniszter által a koncessziós szerződés végrehajtása körében ellátandó feladatait meghatározó részletes szabályokat,
 
 b) az 5. § (3) bekezdése szerinti adatszolgáltatásra vonatkozó megkeresés és a megkeresés teljesítésének részletes szabályait,
 
