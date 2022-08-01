@@ -1,0 +1,9 @@
+22. § (1) Ha a hatóság vagy a 19. § szerinti perbíróság a határokon átnyúló átalakulás elhatározásával összefüggésben feljelentést tesz, arról a bíróságot 5 munkanapon belül tájékoztatja. A feljelentés alapján a bíróság a 19. §-ban foglaltak szerint megkeresi a feljelentés elbírálására jogosult hatóságot, hogy 5 munkanapon belül értesítse, ha a feljelentés alapján nyomozás elrendelésére került sor.
+
+(2) Ha a bíróság a rendelkezésre álló adatok alapján azt állapítja meg, hogy a határokon átnyúló átalakulás elhatározása bűncselekményt valósíthat meg, feljelentést tesz, és azzal együtt megküldi a nyomozó hatóságnak a tanúsítvány kiadása iránti kérelmet és a 19. § szerinti vizsgálat során érkezett tájékoztatásokat.
+
+(3) Ha az (1) és (2) bekezdés szerinti feljelentés, vagy a büntetőügyben eljáró hatóság hivatalból történő észlelése alapján a határokon átnyúló átalakulás elhatározásával összefüggésben nyomozás elrendelésére került sor, a nyomozást elrendelő ügyészség vagy nyomozó hatóság a büntetőeljárás elrendelésétől számított 5 munkanapon belül értesíti a bíróságot, továbbá a nyomozás elrendelésétől számított 45 napon belül tájékoztatást nyújt a 19. § (3) bekezdésében meghatározottakról.
+
+(4) Ha a 21. § (5) bekezdése szerint meghosszabbított határidő alatt a kérelem elbírálásához szükséges minden adat nem áll rendelkezésre, a bíróság a kérelem elbírálásának határidejét végzésével ismételten, legfeljebb 180 nappal meghosszabbítja, amelyben megjelöli a határidő-hosszabbítás okát is. A végzést a társaságnak meg kell küldeni. A végzéssel szemben fellebbezésnek nincs helye. A bíróság legkésőbb az e bekezdés szerint meghosszabbított határidő utolsó napján a rendelkezésre álló adatok alapján köteles dönteni a tanúsítvány kiadása iránti kérelemről.
+
+(5) A meghosszabbított bírósági ügyintézési határidő alatt a bíróság általános intézkedési határideje 15 munkanap.

@@ -1,0 +1,1 @@
+Az Országgyűlés az Európai Unió társasági jogával összhangban, a belső piac javításának és zavartalan működésének, valamint a tőkeegyesítő társaságokat megillető letelepedési szabadság érvényesülésének elősegítésére, a tőkeegyesítő társaságok határokon átnyúló átalakulása, egyesülése és szétválása hazai szabályozásának kialakítása érdekében a következő törvényt alkotja:
