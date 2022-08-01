@@ -6,7 +6,7 @@
 
 (4) A beszerzési ár a számla szerinti, amerikai dollárban meghatározott beszerzési ár, amely további beszerzéshez kapcsolódó költségekkel nem csökkenthető.
 
-(5) A különadó mértéke 25 százalék.
+(5)[^3] A különadó mértéke 40 százalék.
 
 (6) A kőolajtermék-előállító az e § szerinti különadó kötelezettséget – a (8) bekezdésben foglalt kivétellel – havonta, a tárgyhónapot követő hónap 20. napjáig állapítja meg, vallja be az állami adóhatóság által rendszeresített nyomtatványon, és fizeti meg.
 
@@ -19,3 +19,5 @@
 (10) Az e § szerinti különadó adónak minősül. Az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései az irányadók.
 
 (11) Az e § szerinti különadóból származó bevétel az államháztartás központi alrendszerének bevétele.
+
+[^3]: A 2. § (5) bekezdése a 279/2022. (VII. 30.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
