@@ -4,7 +4,7 @@ a) 4. § (2) bekezdés c) pontjában a „feladatokat, és” szövegrész hely�
 
 b) 4. § (2) bekezdés d) pontjában a „feladatokat.” szövegrész helyébe a „feladatokat, és” szöveg,
 
-c) 4. § (3) bekezdés nyitó szövegrészében a „Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)” szövegrész helyébe a „Hatóság” szöveg,
+c)
 
 d) 13. § (3) bekezdésében az „akit – a 10. §-ban foglaltak kivételével – érvényes” szövegrész helyébe az „akit érvényes” szöveg,
 
@@ -16,7 +16,7 @@ g) 15. § (4) bekezdésében a „legfeljebb két alkalommal – június 30-i, i
 
 h) 15/D. § (4) bekezdésében a „fogyasztó részére terméket” szövegrész helyébe az „az 1. § (1) bekezdés szerinti és dohányterméket, kiegészítő terméket” szöveg,
 
-i) 16. § (4) bekezdésében a „más, e törvény alapján a dohányboltban forgalmazható termék” szövegrész helyébe a „más termék” szöveg,
+i)
 
 j) 26. § c) pontjában a „jogsító” szövegrész helyébe a „jogosító” szöveg,
 
