@@ -1,0 +1,1 @@
+## 7. § A határvadász vizsgára jelentkezés feltétele a képzés valamennyi tananyag egységén való részvétel a 4. § (3) bekezdésére figyelemmel, valamint az 5. § (2) bekezdés c) pontjában meghatározott tananyag egység keretében a vizsgalövészet eredményes teljesítése.
