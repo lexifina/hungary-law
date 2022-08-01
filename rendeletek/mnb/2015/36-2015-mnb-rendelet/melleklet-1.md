@@ -1,4 +1,4 @@
-## 13. § Az adatszolgáltatást első alkalommal 2016. január 31. napjára vonatkozóan kell elkészíteni.
+## 13. §[^6] A számlavezető az értékpapírszámla, ügyfélszámla belépési azonosító és jelszó megképzésének módszertanáról, a kapcsolódó adatszolgáltatásról, valamint az adatbiztonsági követelményeket rögzítő szabályzat kötelező tartalmi elemeiről szóló 36/2015. (IX. 24.) MNB rendelet módosításáról szóló 3/2022. (II. 2.) MNB rendelettel módosított előírások szerinti jelszót első alkalommal a 2022. augusztus 31. napjának helyzetét mutató jelentés előállításával egyidejűleg állítja elő.
 
 1. melléklet a 36/2015. (IX. 24.) MNB rendelethez
 
@@ -101,3 +101,5 @@ A számlatulajdonos szektorát a jegybanki információs rendszerhez elsődleges
 2.2.2.3. Elszámolás alatt lévő értékpapírok (+/-)
 
 A T+ elszámolású értékpapír ügyletek esetén a T nap és az SD nap közötti ügyleteket kell előjel helyesen szerepeltetni, ahol „-” az elszámolás alatt lévő vételi, „+” az elszámolás alatt lévő eladási ügyleteket jelenti. Itt kell – szintén előjel helyesen – szerepeltetni az értékpapír transzferek esetén az úton lévő tételeket is.
+
+[^6]: A 13. § a 3/2022. (II. 2.) MNB rendelet 3. §-ával megállapított szöveg.

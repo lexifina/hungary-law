@@ -1,4 +1,4 @@
-10. § (1)[^1] A számlavezető a belépési azonosítót a jelentéstől elkülönítve adja át a számlatulajdonosnak. A számlavezető a belépési azonosítót a számlatulajdonos kérésére bármikor, de legalább évente egy alkalommal ismételten átadja a számlatulajdonosnak.
+10. § (1)[^4] A számlavezető a belépési azonosítót a jelentéstől elkülönítve adja át a számlatulajdonosnak. A számlavezető a belépési azonosítót a számlatulajdonos kérésére bármikor, de legalább évente egy alkalommal ismételten átadja a számlatulajdonosnak.
 
 (2) A belépési azonosító átadása
 
@@ -22,6 +22,7 @@ c) a számlavezető által meghatározott honlapon
 
 (8) A belépési azonosító nyomtatása és borítékolása, tartós adathordozóra történő rögzítése, valamint honlapon történő átadása során a folyamat zártságának biztosításával és lehető legmagasabb szintű automatizálásával kell az adatok biztonságát garantálni.
 
-(9) A jelszó átadása kizárólag a jelentés átadásával valósítható meg.
+(9)[^5] A jelszó átadása kizárólag a jelentés átadásával valósítható meg. A jelentésnek a jelszót QR-kód szimbológiájú szabvány szerinti adatbeviteli módra vonatkozó fő technikai paramétereket tartalmazó, az MNB honlapján közzétett útmutató alapján megképzett formában is tartalmaznia kell.
 
-[^1]: A 10. § (1) bekezdése az 54/2016. (XII. 22.) MNB rendelet 1. §-ával megállapított szöveg.
+[^4]: A 10. § (1) bekezdése az 54/2016. (XII. 22.) MNB rendelet 1. §-ával megállapított szöveg.
+[^5]: A 10. § (9) bekezdése a 3/2022. (II. 2.) MNB rendelet 2. §-ával megállapított szöveg.

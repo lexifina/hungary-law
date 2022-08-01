@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-36-20-2
 | --- | --- | --- |
 | 2016-01-01 | 2015-36-20-2C.1 | 36/2015. (IX. 24.) MNB rendelet |
 | 2017-01-01 | 2015-36-20-2C.2 | 54/2016. (XII. 22.) MNB rendelet |
+| 2022-08-01 | 2015-36-20-2C.3 | 3/2022. (II. 2.) MNB rendelet |
