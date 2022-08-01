@@ -1,21 +1,29 @@
-286. § (1) A tisztjelölti jogviszony közös megegyezéssel történő megszüntetésének minősül, ha a tisztjelölt kérelmére a munkáltatói jogkört gyakorló a szolgálati érdekre vagy a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel engedélyezi a hivatásos állományba vételt.
+## 113. A rendvédelmi tisztjelölti szolgálat
 
-(2) Ha az engedélyt a munkáltatói jogkört gyakorló megadja, vagy ha az érintett a tisztjelölti jogviszonyát nem kívánja fenntartani, a tisztjelölti jogviszony a neki felróható okból kerül megszüntetésre. A tisztjelölt tisztjelölti jogviszonyát egyoldalú jognyilatkozattal megszüntetheti. Ha a tisztjelölt kérelmére a felek rövidebb határidőben nem állapodnak meg, a tisztjelölti jogviszony a jognyilatkozat közléstől számított harminc nap elteltével – a munkáltatói jogkört gyakorló külön intézkedése nélkül – megszűnik.
+286. § (1) A rendvédelmi tisztjelölt a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv tisztjelölti állományában, a hallgatói előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot.
 
-(3) A munkáltatói jogkört gyakorló a tisztjelölti jogviszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti jogviszony a jognyilatkozat közlésétől számított harmincadik nap elteltével megszűnik.
+(2) A rendvédelmi tisztjelölt rendfokozata
 
-(4) A tisztjelölti jogviszony e törvény erejénél fogva szűnik meg
+a) az állományba vétel napjától hallgató őrmester,
 
-a) a kizárás fenyítés jogerőre emelkedésével,
+b) a második évfolyamon a tanév első napjától hallgató törzsőrmester,
 
-b) a hallgatói jogviszony megszűnésének napján, kivéve, ha a hallgatói jogviszony a felsőfokú végzettséget tanúsító oklevél kiállításának napján szűnik meg, vagy
+c) a harmadik évfolyamon a tanév első napjától hallgató főtörzsőrmester,
 
-c) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
+d) a negyedik évfolyamon a tanév első napjától hallgató zászlós.
 
-(5) A tisztjelölti jogviszony megszűnésének napján – a munkáltatói jogkört gyakorló külön intézkedése nélkül – az ösztöndíjszerződés hatályát veszti. A tisztjelölti jogviszony megszűnésekor, megszüntetésekor a tisztjelölt köteles a vele ösztöndíjszerződést kötő rendvédelmi szervnél elszámolni.
+(3) A rendvédelmi tisztjelölt szolgálatteljesítési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A rendvédelmi tisztjelölt szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek egyben az állományilletékes rendvédelmi szerv tartalékát is képezik. Kötelékben és különleges jogrendben történő alkalmazásuk és gyakoroltatásuk rendjét az országos parancsnok és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
 
-(6) Ha a tisztjelölti jogviszony neki felróható okból szűnik meg, a tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti szolgálati viszony megszűnését követő naptól esedékes.
+(4) A rendvédelmi tisztjelölt esetében a szolgálati érintkezés során szóban „hallgató” megszólítást kell alkalmazni, amelyet írásban a jövendő hivatásának megfelelő rendvédelmi szervnél alkalmazott jelzővel kell kiegészíteni.
 
-(7) A tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti jogviszonyának fennállását nem érinti. A tisztjelölt a munkáltatói jogkört gyakorlótól kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a tisztjelölti jogviszony szünetelését engedélyezze.
+(5) A rendvédelmi tisztjelölt szolgálatteljesítése során – a 285. § (6) bekezdésében meghatározott képzettségi szintet meghaladó – intézkedésre önállóan nem jogosult. A sikeres „Tisztjelölt” vizsgát követően – az eskütétel után – szakmai gyakorlaton vagy elrendelt szolgálati tevékenység során szolgálati fegyvert, felszerelést a rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
 
-(8) Szabadságra kizárólag a hallgatói jogviszony szünetelésének időtartama alatt szolgálati feladatokat ellátó tisztjelölt jogosult. A tisztjelöltet ezen időtartamra a 143-146. §-ban foglaltak alkalmazása helyett a heti szolgálatteljesítési idejének alapulvételével megállapított, évi öt heti szolgálatteljesítésnek megfelelő mértékű alapszabadság időarányos része illeti meg.
+(6) Az (5) bekezdésben foglaltaktól eltérően a rendőrség rendvédelmi tisztjelöltje a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerven kívül, más rendőrségi szervnél is teljesítheti a szakmai gyakorlatát. Ebben az esetben a szakmai gyakorlat során a rendvédelmi tisztjelölt szolgálati fegyvert, felszerelést a szakmai gyakorlatot biztosító rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
+
+(7) A rendvédelmi tisztjelölt szolgálatteljesítése képzési időnek minősül, amelyet úgy kell megállapítani, hogy az a tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse.
+
+(8) A rendvédelmi tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá a Rendvédelmi Tagozat állományában rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására jelölhető ki.
+
+(9) A rendvédelmi tisztjelölt az oktatási szünet időtartamára – a kötelező gyakorlat kivételével – mentesül a szolgálatteljesítési és rendelkezésre állási kötelezettség alól.
+
+(10) Szabadságra kizárólag a hallgatói jogviszony szünetelésének időtartama alatt szolgálati feladatokat ellátó rendvédelmi tisztjelölt jogosult. A rendvédelmi tisztjelöltet ezen időtartamra a 143–146. §-ban foglaltaktól eltérően a heti szolgálatteljesítési idejének alapulvételével megállapított, évi öt heti szolgálatteljesítésnek megfelelő mértékű alapszabadság időarányos része illeti meg.

@@ -1,15 +1,13 @@
-## 114. A tisztjelölt járandóságai
+## 115. A rendvédelmi tisztjelölt fegyelmi és kártérítési felelőssége
 
-287/A. § (1) A tisztjelöltet az e törvényben a hivatásos állomány tagját megillető járandóságok – a (2) bekezdésben megállapított korlátozások figyelembevételével – illetik meg.
+287/A. § (1) Ha a rendvédelmi tisztjelölt a rendvédelmi tisztjelölti jogviszonyából vagy a hallgatói jogviszonyából eredő kötelezettségét vétkesen megszegi, fegyelemsértést követ el. A tisztjelölttel szemben fenyítésként a 185. § (1) bekezdés a), b) és h) pontja, valamint az alapilletmény csökkentése fegyelmi fenyítés szabható ki azzal, hogy az alapilletmény legfeljebb 5 hónapra, legfeljebb 20%-kal csökkenthető.
 
-(2) Ha törvény eltérően nem rendelkezik, a tisztjelölt havonta ösztöndíjra jogosult. Az ösztöndíj a miniszteri rendeletben meghatározottak szerint alapösztöndíjból, alapösztöndíj-kiegészítésből, tanulmányi pótlékból, valamint egyéb pótlékokból áll.
+(2) A rendvédelmi tisztjelölt beosztásából – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a szolgálati helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
 
-(3) Az ösztöndíj összegét az egyes ösztöndíjelemekre megállapított szorzószámok és a rendvédelmi illetményalap szorzataként kell kiszámolni. Tört időszak esetén az alapösztöndíj, az alapösztöndíj-kiegészítés, a tanulmányi pótlék összegét időarányosan, az adott hónap naptári napjainak figyelembevételével kell meghatározni. Az ösztöndíjra az illetményfolyósítás és a visszatartás szabályait kell megfelelően alkalmazni.
+(3) A rendvédelmi tisztjelölt vonatkozásában a 192. § nem alkalmazandó, a fegyelmi jogkör gyakorlójának személyét miniszteri rendelet határozza meg. A fegyelmi jogkör gyakorlásába a Rendvédelmi Tagozat, valamint a Nemzeti Közszolgálati Egyetem bevonható.
 
-(4) Az egyes ösztöndíjelemek megállapítása a Nemzeti Közszolgálati Egyetem által kialakított rendben történik, amelyről a Nemzeti Közszolgálati Egyetem illetékes szerve havonta tájékoztatja az állományilletékes rendvédelmi szervet. A tájékoztatás és adatszolgáltatás rendjét együttműködési megállapodásban kell rögzíteni.
+(4) A rendvédelmi tisztjelölt kártérítési felelőssége kiterjed a rendvédelmi tisztjelölti jogviszonyából és a hallgatói jogviszonyából eredő kötelezettségének vétkes megszegésével okozott kár megtérítésére is.
 
-(5) Nem jogosult ösztöndíjra a tisztjelölt, ha a tisztjelölti jogviszonya szünetel, valamint ha jogellenesen távol van.
+(5) A fegyelmi és a kártérítési eljárás jogszabályban nem szabályozott kérdéseiben a Nemzeti Közszolgálati Egyetem fegyelmi és kártérítési szabályzatának rendelkezéseit kell alkalmazni.
 
-(6) A tisztjelölt miniszteri rendeletben meghatározottak szerint kollégiumi elhelyezésre, térítésmentes élelmezési, ruházati ellátásra, tanszertámogatásra, ezen túlmenően egyes költségtérítésre és szociális juttatásokra jogosult.
-
-(7) A tisztjelölt pénzbeli járandóságait a rendvédelmi szerv havonta egy összegben a tisztjelölt által megnevezett fizetési számlára átutalja.
+(6) A rendvédelmi tisztjelölt képviseletében a kari hallgatói önkormányzat is eljárhat.

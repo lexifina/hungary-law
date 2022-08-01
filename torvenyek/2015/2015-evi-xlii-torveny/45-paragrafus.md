@@ -3,3 +3,5 @@
 (2) Ha a hivatásos állományba kinevezés a miniszter vagy az országos parancsnok hatáskörébe tartozik, az állományba vételt és rendfokozatba kinevezést a miniszter vagy az országos parancsok, egyéb, a szolgálati beosztásba helyezéssel kapcsolatos rendelkezést az állományilletékes parancsnok munkáltatói intézkedése tartalmazza.
 
 (3) A hivatásos állomány tagja részére legkésőbb az első szolgálat megkezdésekor a munkaköri leírását át kell adni, és tájékoztatni kell őt a szolgálat teljesítéséhez szükséges munkavédelmi szabályokról, valamint a szolgálatteljesítés rendjéről.
+
+(4) A hivatásos állomány tagját a szolgálatteljesítés alapvető feltételeiről és szempontjairól a személyügyi igazgatásra vonatkozó rendelkezések között a miniszter által meghatározott rendben és tartalommal tájékoztatni kell.

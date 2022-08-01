@@ -144,7 +144,13 @@ c) a Becsületbíróságra és annak működésére, eljárására vonatkozó sz
 
 26. megállapítsa a szolgálati panasz elbírálásának rendjét,
 
-27. megállapítsa a tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, a tisztjelölti szolgálatra vonatkozó rendelkezéseket, valamint a tisztjelölti ösztöndíjra és a tisztjelölt járandóságra jogosultság feltételeit, fajtáit és mértékét, megállapításának rendjét, folyósításának szabályait,
+27. megállapítsa
+
+a) a rendvédelmi tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, a rendvédelmi tisztjelölti szolgálatra vonatkozó rendelkezéseket,
+
+b) a rendvédelmi tisztjelöltet megillető alapilletmény évfolyamonkénti eltérő mértékét, a tanulmányi díj mértékét, az illetménypótlék összegét, és az egyéb juttatások körét, jogosultsági feltételeit, mértékét, megállapításának és folyósításának rendjét,
+
+c) a rendvédelmi tisztjelölteknek a rendvédelmi alapképzés időtartama alatt, illetve az állomány tagjának a 10 éves határozott idejű szolgálata alatt fennálló visszafizetési kötelezettsége eseteire, módjára, összegére vonatkozó szabályokat, a visszafizetési kötelezettség érvényesítésének, ideértve a halasztás engedélyezésének rendjét, a fizetési könnyítés és a mentesítési eljárás szabályait,
 
 28. meghatározza a szenior állományba vétel fizikai, pszichológiai és egészségi feltételeit, a szenior állomány tagját megillető ruházati ellátási normát és a felszerelést.
 

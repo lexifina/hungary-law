@@ -1,0 +1,5 @@
+285/C. § (1) Ha a rendvédelmi tisztjelölt rendvédelmi tisztjelölti jogviszonya próbaidő alatt, a 285/A. § (1) bekezdés b)–d) pontja, vagy 285/A. § (2) bekezdése alapján szűnik meg, a rendvédelmi tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a rendvédelmi tisztjelölti jogviszony megszűnését követő naptól esedékes.
+
+(2) A megtérítési kötelezettség részbeni vagy teljes megfizetése alól a miniszter – miniszteri rendeletben meghatározott szabályok alapján – a rendvédelmi tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti.
+
+(3) Ha a szolgálati jogviszony a 285. § (3) bekezdésében meghatározott időtartam előtt, a 80. § (1) bekezdés d), f) vagy g) pontja, a 80. § (2) bekezdés a), b) vagy f) pontja, a 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg, a hivatásos állomány tagja a rendvédelmi tisztjelölti jogviszonya alapján részére kifizetett juttatás összegét miniszteri rendeletben meghatározottak szerint, időarányos mértékben köteles megtéríteni.

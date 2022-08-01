@@ -1,5 +1,7 @@
 289/V. § (1) A rendvédelmi alkalmazott az igazgatási jogviszonyból származó jogvita esetén keresettel fordulhat a bírósághoz.
 
+(1a) Ha a rendvédelmi alkalmazott a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy az igazgatási jogviszonyát ténylegesen a 287/P. § (4a) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.
+
 (2) A bíróság az igazgatási jogviszony megszüntetéséről hozott határozatot hatályon kívül helyezi, ha az felmentési tilalomba ütközik vagy egyébként jogellenes.
 
 (3) Ha az igazgatási jogviszonyt jogellenesen szüntették meg, a rendvédelmi alkalmazottat olyan helyzetbe kell hozni, mintha az igazgatási jogviszony meg sem szűnt volna.

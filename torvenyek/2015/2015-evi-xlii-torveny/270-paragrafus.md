@@ -18,4 +18,4 @@ a) a rendvédelmi szervnek azzal a szervezeti egységével, vagy ha a szolgálat
 
 b) az (1) bekezdés b) pontja esetében a szolgálatteljesítési hely szerinti szervezeti egységgel szemben indíthatja meg.
 
-(4)
+(4) Ha a hivatásos állomány tagja a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen a 45. § (4) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.

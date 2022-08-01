@@ -18,6 +18,8 @@ f) az igazgatási jogviszony kezdetének napját.
 
 (4) A kinevezési okmányhoz csatolni kell a rendvédelmi alkalmazott munkaköri leírását, tájékoztatni kell őt a munkavégzéshez szükséges munkavédelmi szabályokról, valamint a munkavégzés rendjéről.
 
+(4a) A rendvédelmi alkalmazottat a munkavégzés alapvető feltételeiről és szempontjairól a miniszter által meghatározott rendben és tartalommal tájékoztatni kell.
+
 (5) A kinevezési okmány egy példányát a rendvédelmi alkalmazottnak át kell adni.
 
 (6) A rendvédelmi alkalmazott és a munkáltató a kinevezés elfogadása és a munkába lépés napja közötti időszakban nem tanúsíthatnak olyan magatartást, amely az igazgatási jogviszony létrejöttét meghiúsítaná.

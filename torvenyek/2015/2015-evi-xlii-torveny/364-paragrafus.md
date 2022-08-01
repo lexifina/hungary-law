@@ -1,6 +1,6 @@
 364. § (1) Ez a törvény a felhatalmazása alapján kiadott rendeletekkel együtt
 
-1. a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
+1. az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek,
 
 2. a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében) szóló 1992. október 19-i 92/85/EGK tanácsi irányelvnek,
 

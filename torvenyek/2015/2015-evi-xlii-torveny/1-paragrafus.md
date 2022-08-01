@@ -38,7 +38,7 @@ b) a rendvédelmi oktatási intézménybe, hivatásos szolgálat ellátására j
 
 c) a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira, tanulóira,
 
-d) a rendvédelmi oktatási intézmény tisztjelöltjeire (a továbbiakban: tisztjelölt),
+d) a rendvédelmi tisztjelöltre,
 
 e) a szolgálati nyugdíjasokra, valamint
 
