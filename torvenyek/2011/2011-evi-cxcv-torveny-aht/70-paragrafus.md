@@ -18,7 +18,9 @@ d) az irányítása alá tartozó bármely, a köztulajdonban álló gazdasági 
 
 (4a) Az ellenőrzés során a büntetlen előéletet igazoltnak kell tekinteni akkor is, ha a kérelmező munkáltatója igazolja, hogy a kérelmező jogszabály alapján büntetlen előélethez vagy nemzetbiztonsági ellenőrzéshez kötött álláshelyen vagy munkakörben dolgozik.
 
-(4b)–(4c)
+(4b)
+
+(4c)
 
 (5) Az államháztartásért felelős miniszter által a belső ellenőrzési tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza az érintett
 

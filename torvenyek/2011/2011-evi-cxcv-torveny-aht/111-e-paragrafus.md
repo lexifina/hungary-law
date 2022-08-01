@@ -1,4 +1,10 @@
-111/E. § (1)–(4)
+111/E. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5) A Nemzeti Kutatási, Fejlesztési és Innovációs Alap terhére kutatási, fejlesztési célra nyújtott költségvetési támogatásra a Nemzeti Kutatási, Fejlesztési és Innovációs Alap költségvetési évben jóváhagyott eredeti kiadási előirányzatának
 

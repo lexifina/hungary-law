@@ -16,6 +16,12 @@ e)
 
 (3) Költségvetési szerv alapítása történhet oly módon is, hogy a költségvetési szervből kiválás történik, amely alapján a költségvetési szerv az alapító okirat módosítását követően tovább működik, ezzel egyidejűleg pedig az alapításra vonatkozó szabályok szerint egy új költségvetési szerv jön létre.
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 (8)
