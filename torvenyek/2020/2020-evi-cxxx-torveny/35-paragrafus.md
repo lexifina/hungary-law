@@ -6,7 +6,7 @@
 
 a) a pénzügyőr esetében a munkáltatói jogkör gyakorlója,
 
-b) a tisztjelölt esetében a NAV vezetője,
+b) a tisztjelölt esetében a NAV elnöke,
 
 c) a jelentkező esetében az Alkotmányvédelmi Hivatal
 
@@ -18,7 +18,7 @@ c) a jelentkező esetében az Alkotmányvédelmi Hivatal
 
 (5) Ha a munkáltatói jogkör gyakorlója megállapítja, hogy a pénzügyőr életvitele nem kifogástalan, e törvény szerint intézkedik a szolgálati jogviszony megszüntetése érdekében.
 
-(6) A (3)–(5) bekezdésben foglaltakat a tisztjelöltekre is alkalmazni kell azzal, hogy esetükben az ellenőrzés megállapításai alapján a NAV vezetője dönt a jogkövetkezményekről.
+(6) A (3)–(5) bekezdésben foglaltakat a tisztjelöltekre is alkalmazni kell azzal, hogy esetükben az ellenőrzés megállapításai alapján a NAV elnöke dönt a jogkövetkezményekről.
 
 (7) Az Alkotmányvédelmi Hivatalt a NAV az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 

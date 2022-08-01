@@ -58,7 +58,7 @@ a miniszter
 
 a NAV
 
-vezetője
+elnöke
 
 |
 
@@ -440,7 +440,7 @@ tábornok esetében
 
 a NAV
 
-vezetője, illetve az általa vezetett fegyelmi tanács
+elnöke, illetve az általa vezetett fegyelmi tanács
 
 |
 

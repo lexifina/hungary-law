@@ -38,6 +38,6 @@ b) az igazgatóhelyettes, a központi szerv főosztályvezető-helyettese és a 
 
 c) az igazgató, a központi szerv főosztályvezetője és a Bűnügyi Főigazgatóság főigazgató-helyettese esetében tizennégy munkanap,
 
-d) a szakfőigazgató, a Központi Irányítás főigazgató-helyettese és a Bűnügyi Főigazgatóság főigazgatója esetében tizenöt munkanap,
+d) a Bűnügyi Főigazgatóság főigazgatója esetében tizenöt munkanap,
 
-e) a Központi Irányítás főigazgatója esetében tizenhat munkanap.
+e) az elnökhelyettes esetében tizenhat munkanap.

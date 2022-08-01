@@ -32,4 +32,4 @@ j) biztosítani annak lehetőségét, hogy a foglalkoztatott érdekképviseleti 
 
 (4) A fogyatékossággal élő, illetve a megváltozott munkaképességű foglalkoztatott foglalkoztatása során a foglalkoztató NAV szervnek gondoskodnia kell az észszerű alkalmazkodás feltételeinek biztosításáról.
 
-(5) A NAV vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben foglalkoztatási szabályzatot kiadni.
+(5) A NAV elnöke köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben foglalkoztatási szabályzatot kiadni.

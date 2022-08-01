@@ -6,22 +6,24 @@
 
 (1) A NAV vezetői munkakörei:
 
-a) főigazgató,
+a) elnök,
 
-b) főigazgató-helyettes,
+b) elnökhelyettes,
 
-c) szakfőigazgató,
+c) főigazgató,
 
-d) igazgató,
+d) főigazgató-helyettes,
 
-e) igazgatóhelyettes,
+e) igazgató,
 
-f) főosztályvezető,
+f) igazgatóhelyettes,
 
-g) főosztályvezető-helyettes és
+g) főosztályvezető,
 
-h) osztályvezető.
+h) főosztályvezető-helyettes, és
+
+i) osztályvezető.
 
 (2) A vezetői munkakört betöltő személy felettese az általa vezetett szervezet, szerv, szervezeti egység állományába tartozó foglalkoztatottnak.
 
-(3) A főosztályvezető helyettesítésére szervezeti egység vezetése nélkül a NAV vezetőjének engedélyével tölthető be főosztályvezető-helyettesi munkakör a főosztály által ellátott feladatok összetettségére, nagyságrendjére tekintettel.
+(3) A főosztályvezető helyettesítésére szervezeti egység vezetése nélkül a NAV elnökének engedélyével tölthető be főosztályvezető-helyettesi munkakör a főosztály által ellátott feladatok összetettségére, nagyságrendjére tekintettel.

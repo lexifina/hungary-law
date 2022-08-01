@@ -22,7 +22,7 @@ f) büntetőeljárás keretében a munkakör ellátásához szükséges tevéken
 
 (3) A foglalkoztatott az (1) bekezdés e) pontjában meghatározott kérelmét a rá irányadó öregségi nyugdíjkorhatár betöltésének napját megelőző harmadik hónap utolsó napjáig írásban nyújthatja be a munkáltatói jogkör gyakorlójához. A határidő elmulasztása miatt igazolás benyújtásának nincs helye, ebben az esetben a foglalkoztatott jogviszonya annak a hónapnak az utolsó napján szűnik meg, amikor a foglalkoztatott a rá irányadó öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte.
 
-(4) Ha a NAV vezetője egyetért a foglalkoztatott jogviszonyának fenntartásával, kikéri a Kormány véleményét a foglalkoztatott jogviszonyának (1) bekezdés e) pontja szerinti fenntartásáról.
+(4) Ha a NAV elnöke egyetért a foglalkoztatott jogviszonyának fenntartásával, kikéri a Kormány véleményét a foglalkoztatott jogviszonyának (1) bekezdés e) pontja szerinti fenntartásáról.
 
 (5) Az (1) bekezdés e) pontjában meghatározottak szerint a munkáltatói jogkör gyakorlója akkor tarthatja fenn a jogviszonyt, ha a Kormány egyetért a jogviszony fenntartásával. A Kormány véleménye köti a munkáltatói jogkör gyakorlóját a döntésének meghozatalában.
 

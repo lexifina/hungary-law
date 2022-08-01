@@ -6,4 +6,4 @@
 
 (3) Az otthoni munkavégzésre irányuló megállapodásban rögzíteni kell az otthoni munkavégzés idejét, az egyedileg elvégzendő feladatokat, továbbá a kapcsolattartás és az elvégzett munka leadásának módját és időpontját.
 
-(4) Az otthoni munkavégzés részletes szabályait a NAV vezetője állapítja meg.
+(4) Az otthoni munkavégzés részletes szabályait a NAV elnöke állapítja meg.

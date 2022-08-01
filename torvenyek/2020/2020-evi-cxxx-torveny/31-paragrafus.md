@@ -34,6 +34,6 @@ c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabads�
 
 (6) Jogszabály vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója a szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, képességhez, valamint egészségi, pszichológiai, fizikai alkalmassághoz kötheti.
 
-(7) Nem nevezhető ki foglalkoztatottnak az öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve, ha a Kormány a NAV vezetőjének kérelmére hozzájárul a foglalkoztatott kinevezéséhez.
+(7) Nem nevezhető ki foglalkoztatottnak az öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve, ha a Kormány a NAV elnökének kérelmére hozzájárul a foglalkoztatott kinevezéséhez.
 
 (8) Az e törvényben meghatározott alkalmazási feltételek alól felmentés nem adható. A foglalkoztatottnak a szolgálati jogviszony teljes időtartama alatt meg kell felelnie az e törvényben meghatározott alkalmazási feltételeknek. Ha a foglalkoztatott a (2) bekezdés szerinti büntetőeljárás hatálya alá kerül, a munkáltatói jogkör gyakorlója köteles méltatlansági eljárást indítani. Ha a foglalkoztatottal szemben távoltartás, bűnügyi felügyelet vagy letartóztatás kényszerintézkedést is elrendeltek, a munkáltatói jogkör gyakorlója a méltatlanságot külön eljárás nélkül hozott határozatban is megállapíthatja.

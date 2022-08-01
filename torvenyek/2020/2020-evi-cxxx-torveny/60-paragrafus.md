@@ -8,11 +8,11 @@ b) nemzetközi kötelezettségvállalás alapján külföldi béketámogató, fe
 
 c) egyéb, Magyarország nemzetközi kötelezettségeinek ellátásához kapcsolódó feladatok ellátására,
 
-a NAV vezetője, tábornok esetén a miniszter külföldre vezényli a külföldi szolgálati tevékenység időtartamára, de legfeljebb három évre. A külföldre vezénylés egy alkalommal egy évvel meghosszabbítható.
+a NAV elnöke, tábornok esetén a miniszter külföldre vezényli a külföldi szolgálati tevékenység időtartamára, de legfeljebb három évre. A külföldre vezénylés egy alkalommal egy évvel meghosszabbítható.
 
 (2) Magyarországi munkavégzési hely esetén is a külföldre vezénylés szabályai szerint kell eljárni, ha a vezénylés az (1) bekezdés szerinti nemzetközi szervezethez, az ott meghatározott célból történik, és a nemzetközi szerv székhelye vagy telephelye Magyarországon van.
 
-(3) A pénzügyőrt nemzetközi kötelezettség teljesítése érdekében vagy megállapodás alapján három hónapot meg nem haladó időtartamra – a munkaköre meghagyásával – a NAV vezetője vezényli a külföldi szolgálatra.
+(3) A pénzügyőrt nemzetközi kötelezettség teljesítése érdekében vagy megállapodás alapján három hónapot meg nem haladó időtartamra – a munkaköre meghagyásával – a NAV elnöke vezényli a külföldi szolgálatra.
 
 (4) A pénzügyőrt a külföldi szolgálatra vezénylés előtt az ezzel járó sajátos szolgálati kötelezettségekről, ezek teljesítése feltételeiről és körülményeiről, a részére járó juttatásokról és egyéb jogosultságairól tájékoztatni kell.
 

@@ -6,7 +6,7 @@
 
 (3) A hivatali rendet és a fegyelmet veszélyeztető sajtóterméket a foglalkoztatott nem állíthat elő és nem terjeszthet, ilyen tartalmú plakátot, hirdetményt vagy emblémát nem függeszthet ki.
 
-(4) A NAV vezetője közjogi szervezetszabályozó eszközben megtilthatja, hogy a foglalkoztatott az internetes felületen magánszemélyként való megnyilvánulásakor, magánvélemény nyilvánításakor a NAV személyi állományába tartozására vonatkozó adatot hozzon nyilvánosságra.
+(4) A NAV elnöke közjogi szervezetszabályozó eszközben megtilthatja, hogy a foglalkoztatott az internetes felületen magánszemélyként való megnyilvánulásakor, magánvélemény nyilvánításakor a NAV személyi állományába tartozására vonatkozó adatot hozzon nyilvánosságra.
 
 (5) Az érdekképviseleti szervek – tevékenységi körükbe tartozó – hirdetményei a helyben szokásos módon nyilvánosságra hozhatók.
 

@@ -1,6 +1,6 @@
 ### 199. § [A tábornokkal szembeni méltatlansági eljárás eltérő szabályai]
 
-(1) Tábornokkal szemben a méltatlansági eljárás megindítására és lefolytatására – a NAV vezetőjének javaslatára – a miniszter jogosult.
+(1) Tábornokkal szemben a méltatlansági eljárás megindítására és lefolytatására – a NAV elnökének javaslatára – a miniszter jogosult.
 
 (2) A tábornok elleni méltatlansági eljárás megindításával, illetve a 197. § alkalmazása esetén a méltatlanság eljárás nélkül történt megállapításával egyidejűleg a miniszter értesíti a köztársasági elnököt.
 

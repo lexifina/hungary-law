@@ -20,7 +20,7 @@ c) az e törvény szerinti jubileumi jutalomra jogosult.
 
 (7) Ha a munkáltatói vagy foglalkoztatotti károkozás, illetve a személyiségi jogi jogsértés a más szervnél történt, a kártérítéssel, illetve a sérelemdíjjal kapcsolatos munkáltatói jogkört a kirendelés, vezénylés helye szerinti más szerv munkáltatói jogkört gyakorló vezetője, parancsnoka gyakorolja a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok szerint.
 
-(8) A kirendelés, vezénylés időtartama alatt a szolgálati jogviszony megszüntetésére, a kinevezés tartalmának módosítására vonatkozó munkáltatói jogokat – a (9) bekezdés szerinti eltéréssel – az e törvényben meghatározottak szerint a miniszter, illetve a NAV vezetője gyakorolja.
+(8) A kirendelés, vezénylés időtartama alatt a szolgálati jogviszony megszüntetésére, a kinevezés tartalmának módosítására vonatkozó munkáltatói jogokat – a (9) bekezdés szerinti eltéréssel – az e törvényben meghatározottak szerint a miniszter, illetve a NAV elnöke gyakorolja.
 
 (9) A más szervhez kirendelt, vezényelt foglalkoztatott fegyelmi felelősségre vonására, illetve a vele szembeni méltatlansági eljárásra e törvénynek a fegyelmi, illetve a méltatlansági eljárásra vonatkozó szabályai és az ezen eljárásokra vonatkozó kormányrendelet szabályai az irányadók.
 

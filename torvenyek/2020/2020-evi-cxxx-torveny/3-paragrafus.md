@@ -60,7 +60,7 @@
 
 29. szolgálati érdek: a NAV vagy annak valamely szervének, szervezeti egységének jogszerű, rendeltetésszerű és eredményes működéséhez, jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott feladatainak teljesítéséhez szükséges vagy azt meghatározó módon befolyásoló személyi feltétel vagy körülmény;
 
-30. szolgálati jogviszonyra vonatkozó szabály: az e törvényben, valamint e törvény végrehajtására kiadott rendeletben, továbbá az e törvényben meghatározott tárgykörökben a NAV vezetője által szabályzatban meghatározott rendelkezés;
+30. szolgálati jogviszonyra vonatkozó szabály: az e törvényben, valamint e törvény végrehajtására kiadott rendeletben, továbbá az e törvényben meghatározott tárgykörökben a NAV elnöke által szabályzatban meghatározott rendelkezés;
 
 31. szolgálati nyugdíjas: a NAV vagy jogelődje pénzügyőri állományából nyugállományba került, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) szerinti öregségi nyugdíjban részesülő vagy a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény (a továbbiakban: Knytv.) szerinti szolgálati járandóságban részesülő személy, valamint a hivatásos vagy pénzügyőri állomány azon korábbi tagja, akinek a szolgálati viszonya 2012. január 1-je előtt rokkantsági nyugállományba helyezés miatt szűnt meg;
 

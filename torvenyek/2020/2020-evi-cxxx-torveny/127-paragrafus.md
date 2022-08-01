@@ -6,7 +6,7 @@
 
 (3) Eltérő megállapodás hiányában a munkavégzéshez, valamint a kapcsolattartáshoz szükséges eszközöket a munkáltatói jogkör gyakorlója biztosítja.
 
-(4) A távmunkavégzésre vonatkozó részletszabályokat a NAV vezetője határozza meg.
+(4) A távmunkavégzésre vonatkozó részletszabályokat a NAV elnöke határozza meg.
 
 (5) A munkáltatói jogkör gyakorlója előírhatja, hogy az általa biztosított számítástechnikai vagy elektronikus eszközt a foglalkoztatott kizárólag a munkavégzéshez használhatja.
 

@@ -1,8 +1,8 @@
 ### 179. § [Az egészségkárosodási ellátás megállapítása]
 
-(1) Az egészségkárosodási ellátásra való jogosultságot és annak mértékét a NAV vezetője hivatalból állapítja meg.
+(1) Az egészségkárosodási ellátásra való jogosultságot és annak mértékét a NAV elnöke hivatalból állapítja meg.
 
-(2) A NAV vezetője dönt
+(2) A NAV elnöke dönt
 
 a) az egészségkárosodási járadékra jogosultság tárgyában a továbbfoglalkoztatás alóli mentesítés esetén,
 
@@ -16,4 +16,4 @@ b) a másik munkakörbe helyezés esetén az a nap, amelytől kezdődően az új
 
 (4) Az egészségkárosodási járadékra jogosultság kezdőnapja a foglalkoztatott jogviszonyának a 178. § (3) bekezdése alapján történő megszűnését követő nap.
 
-(5) Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintettet esetlegesen megillető baleseti járadék vagy baleseti táppénz (a továbbiakban együtt: baleseti ellátás), rokkantsági ellátás és rehabilitációs ellátás összegéről kérelmére a NAV vezetőjét az ellátást folyósító szerv tájékoztatja.
+(5) Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintettet esetlegesen megillető baleseti járadék vagy baleseti táppénz (a továbbiakban együtt: baleseti ellátás), rokkantsági ellátás és rehabilitációs ellátás összegéről kérelmére a NAV elnökét az ellátást folyósító szerv tájékoztatja.

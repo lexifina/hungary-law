@@ -14,6 +14,6 @@ a) ha a szolgálati jogviszonya a továbbképzés befejezésétől számított k
 
 b) ha a szolgálati jogviszonya a létesítéstől számított hat éven belül szűnik meg, azzal, hogy a négy évet meghaladóan fennálló szolgálati jogviszony esetén a költségeknek a le nem töltött évekre eső hányadát kell megfizetni.
 
-(4) A (2) bekezdés alapján a foglalkoztatott köteles megtéríteni a munkáltatói jogkör gyakorlója által előírt, nem a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által biztosított képzés költségeit, ha a képzés költségei meghaladják a NAV vezetője által a foglalkoztatási szabályzatban meghatározott összeget.
+(4) A (2) bekezdés alapján a foglalkoztatott köteles megtéríteni a munkáltatói jogkör gyakorlója által előírt, nem a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által biztosított képzés költségeit, ha a képzés költségei meghaladják a NAV elnöke által a foglalkoztatási szabályzatban meghatározott összeget.
 
 (5) A (2) bekezdés szerinti megtérítési kötelezettség alapja az az összeg, amelyet a NAV a továbbképzésért megfizetett.

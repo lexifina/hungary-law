@@ -1,6 +1,6 @@
 ### 27. § [Tábornok szolgálati jogviszonyával kapcsolatos döntések]
 
-(1) A tábornoki rendfokozati állománycsoportba tartozó pénzügyőri státuszú foglalkoztatott (a továbbiakban: tábornok) szolgálati jogviszonyának létesítéséről, megszüntetéséről, a tábornoki rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezésről vagy előléptetésről, a tábornoki rendfokozat visszavonásáról, továbbá a tábornokra vonatkozó rendfokozatot vagy szolgálati jogviszonyt érintő fegyelmi büntetés kiszabásáról – a NAV vezetője által lefolytatott fegyelmi eljárást követően – a miniszter javaslatára a köztársasági elnök dönt.
+(1) A tábornoki rendfokozati állománycsoportba tartozó pénzügyőri státuszú foglalkoztatott (a továbbiakban: tábornok) szolgálati jogviszonyának létesítéséről, megszüntetéséről, a tábornoki rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezésről vagy előléptetésről, a tábornoki rendfokozat visszavonásáról, továbbá a tábornokra vonatkozó rendfokozatot vagy szolgálati jogviszonyt érintő fegyelmi büntetés kiszabásáról – a NAV elnöke által lefolytatott fegyelmi eljárást követően – a miniszter javaslatára a köztársasági elnök dönt.
 
 (2) A miniszternek a tábornok szolgálati jogviszonyának megszüntetésére, valamint rendfokozatát vagy szolgálati jogviszonyát érintő fegyelmi büntetés kiszabására vonatkozó előterjesztését haladéktalanul közölni kell a tábornokkal.
 

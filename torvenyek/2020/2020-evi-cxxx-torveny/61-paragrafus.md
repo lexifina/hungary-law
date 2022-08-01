@@ -1,6 +1,6 @@
 ### 61. § [A tartós külszolgálat]
 
-(1) Ágazati szakmai feladat, illetve e feladat támogatásának ellátása céljából a foglalkoztatott a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba, a Magyarország Állandó NATO Képviseletére, Magyarország Állandó EBESZ Képviseletére (a továbbiakban együtt: kihelyező szerv) a NAV vezetőjének döntése alapján – a kihelyező szervvel egyeztetve – a feladatellátáshoz szükséges határozott időre kirendelhető, illetve vezényelhető (a továbbiakban együtt: külszolgálati kirendelés).
+(1) Ágazati szakmai feladat, illetve e feladat támogatásának ellátása céljából a foglalkoztatott a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba, a Magyarország Állandó NATO Képviseletére, Magyarország Állandó EBESZ Képviseletére (a továbbiakban együtt: kihelyező szerv) a NAV elnökének döntése alapján – a kihelyező szervvel egyeztetve – a feladatellátáshoz szükséges határozott időre kirendelhető, illetve vezényelhető (a továbbiakban együtt: külszolgálati kirendelés).
 
 (2) A külszolgálati kirendelés idejére a foglalkoztatott a kihelyező szerv állományába kerül, kinevezési okiratát módosítani kell, a feladatellátás idejének leteltét követően a NAV állományába visszakerül.
 

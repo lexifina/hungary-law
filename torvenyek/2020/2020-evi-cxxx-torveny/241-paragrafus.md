@@ -1,6 +1,6 @@
 ### 241. § [A tisztjelölti jogviszony létesítése]
 
-(1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személyt a NAV vezetője a NAV szerv tisztjelölti állományába kinevezi. A tisztjelölt személyügyi nyilvántartását, tisztjelölti jogviszonyával kapcsolatos ügyei intézését a NAV végzi. A munkáltatói jogkör gyakorlója a NAV vezetője.
+(1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személyt a NAV elnöke a NAV szerv tisztjelölti állományába kinevezi. A tisztjelölt személyügyi nyilvántartását, tisztjelölti jogviszonyával kapcsolatos ügyei intézését a NAV végzi. A munkáltatói jogkör gyakorlója a NAV elnöke.
 
 (2) A tisztjelölti jogviszony létesítésének feltétele, hogy a tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem nevezhető ki tisztjelölti jogviszonyba, akinek ösztöndíjas hallgatói jogviszonya vagy tisztjelölti jogviszonya kizárás fegyelmi büntetés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
 

@@ -4,7 +4,7 @@
 
 ### 14. § [Egyoldalú jognyilatkozatok]
 
-(1) Egyoldalú jognyilatkozatból csak az e törvényben, e törvény felhatalmazása alapján más jogszabályban, illetve a NAV vezetője által kiadott szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
+(1) Egyoldalú jognyilatkozatból csak az e törvényben, e törvény felhatalmazása alapján más jogszabályban, illetve a NAV elnöke által kiadott szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
 
 (2) Az egyoldalú jognyilatkozat a címzettel való közléssel válik hatályossá, és – e törvény eltérő rendelkezésének hiányában – csak a címzett hozzájárulásával módosítható, vagy vonható vissza.
 

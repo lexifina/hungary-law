@@ -10,8 +10,8 @@
 
 a) a munkáltatói intézkedést tartalmazó iratokba betekinteni,
 
-b) jogszabálysértés vagy célszerűtlen intézkedés esetén intézkedést kezdeményezni a NAV vezetőjénél vagy – vita esetén – annak felettes szervénél,
+b) jogszabálysértés vagy célszerűtlen intézkedés esetén intézkedést kezdeményezni a NAV elnökénél vagy – vita esetén – annak felettes szervénél,
 
 c) fegyelmi vagy kártérítési eljárást kezdeményezni.
 
-(3) A (2) bekezdés b) és c) pontjában meghatározott esetekben a NAV vezetője köteles a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter megkeresését érdemben megvizsgálni, és saját intézkedéséről vagy annak mellőzése okáról a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert – a megkereséstől számított harminc napon belül – tájékoztatni.
+(3) A (2) bekezdés b) és c) pontjában meghatározott esetekben a NAV elnöke köteles a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter megkeresését érdemben megvizsgálni, és saját intézkedéséről vagy annak mellőzése okáról a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert – a megkereséstől számított harminc napon belül – tájékoztatni.

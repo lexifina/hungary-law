@@ -1,6 +1,6 @@
 ### 165. § [Szakmai címek]
 
-(1) A NAV vezetője szakmai tanácsadói, illetve szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező foglalkoztatottnak. Az adományozható szakmai tanácsadói, illetve szakmai főtanácsadói címek számát a foglalkoztatási szabályzatban kell meghatározni. Az adományozható kétféle cím együttesen nem haladhatja meg a NAV felsőfokú iskolai végzettségű foglalkoztatotti létszámának 10%-át.
+(1) A NAV elnöke szakmai tanácsadói, illetve szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező foglalkoztatottnak. Az adományozható szakmai tanácsadói, illetve szakmai főtanácsadói címek számát a foglalkoztatási szabályzatban kell meghatározni. Az adományozható kétféle cím együttesen nem haladhatja meg a NAV felsőfokú iskolai végzettségű foglalkoztatotti létszámának 10%-át.
 
 (2) Szakmai tanácsadói cím annak az I. besorolási osztályba tartozó, legalább ötéves szakmai gyakorlattal rendelkező foglalkoztatottnak, szakmai főtanácsadói cím pedig annak az I. besorolási osztályba tartozó, legalább tízéves szakmai gyakorlattal rendelkező foglalkoztatottnak adományozható, akinek a teljesítménye a címadományozást megelőző két évben kivételes fokozatú volt.
 

@@ -4,7 +4,7 @@
 
 (2) A foglalkoztatott a készenlét tartama alatt köteles munkára képes állapotát megőrizni.
 
-(3) A készenlétet a munkáltatói jogkör gyakorlójának írásban kell elrendelnie. A készenlét elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV vezetője határozza meg.
+(3) A készenlétet a munkáltatói jogkör gyakorlójának írásban kell elrendelnie. A készenlét elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV elnöke határozza meg.
 
 (4) A készenlét időtartamát legalább egy héttel korábban, egy hónapra előre közölni kell. Ettől a munkáltatói jogkör gyakorlója – különösen indokolt esetben – eltérhet. Az eltérés során az egészséges és biztonságos munkavégzés követelményeire figyelemmel kell lenni.
 

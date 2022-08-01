@@ -1,8 +1,8 @@
 ### 228. § [A munkahelyi foglalkoztatotti érdekegyeztetés]
 
-(1) A munkahelyi szolgálati kérdések rendezésére a munkahelyi foglalkoztatotti érdekegyeztetés szolgál. A munkahelyi foglalkoztatotti érdekegyeztetésben a NAV vezetője és a szakszervezet választott tisztségviselője vesz részt. A tárgyalópartnerek a vitás kérdések egyeztetésébe szakértőket is bevonhatnak.
+(1) A munkahelyi szolgálati kérdések rendezésére a munkahelyi foglalkoztatotti érdekegyeztetés szolgál. A munkahelyi foglalkoztatotti érdekegyeztetésben a NAV elnöke és a szakszervezet választott tisztségviselője vesz részt. A tárgyalópartnerek a vitás kérdések egyeztetésébe szakértőket is bevonhatnak.
 
-(2) A NAV vezetője köteles kikérni a szakszervezet véleményét a foglalkoztatottak munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a NAV hatáskörébe utalt szabályozásról.
+(2) A NAV elnöke köteles kikérni a szakszervezet véleményét a foglalkoztatottak munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a NAV hatáskörébe utalt szabályozásról.
 
 (3) A (2) bekezdésben foglaltakon kívül a szakszervezet jogosult a foglalkoztatottak csoportját érintő munkáltatói intézkedéssel, illetve döntéssel vagy annak tervezetével kapcsolatos véleményét a NAV-val közölni, ezzel összefüggésben konzultációt kezdeményezni.
 

@@ -16,6 +16,6 @@ c) II. besorolási osztályba tartozó munkakörök.
 
 (3) Az I. besorolási osztályba tartozó munkaköröket három, A, B és C jelölésű, a II. besorolási osztályba tartozó munkaköröket kettő, A és B jelölésű besorolási kategóriába lehet besorolni.
 
-(4) Az egyes munkakörök besorolását a NAV vezetője – a munkakör tartalmának meghatározott módszertanon és eljárási rendben végrehajtott értékelése alapján – a foglalkoztatási szabályzatban állapítja meg.
+(4) Az egyes munkakörök besorolását a NAV elnöke – a munkakör tartalmának meghatározott módszertanon és eljárási rendben végrehajtott értékelése alapján – a foglalkoztatási szabályzatban állapítja meg.
 
 (5) Az (1) bekezdés b) és c) pontja szerinti munkakörök besorolási kategóriáihoz rendelt fizetési fokozatokat az 5. melléklet tartalmazza.

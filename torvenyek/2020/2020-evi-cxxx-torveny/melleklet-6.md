@@ -48,7 +48,19 @@ központi szerv
 
 |
 
+|
+
+|
+
+|
+
+|
+
+|
+
 3.
+
+|
 
 |
 
@@ -64,11 +76,31 @@ alapilletmény alsó határa
 
 |
 
-Maximum alap-illetmény
+Maximum alapilletmény
 
 |
 
 4.
+
+|
+
+elnökhelyettes
+
+|
+
+|
+
+|
+
+1 450 000 Ft
+
+|
+
+1 650 000 Ft
+
+|
+
+5.
 
 |
 
@@ -80,31 +112,11 @@ főigazgató
 
 |
 
-1 330 000 Ft
+1 250 000 Ft
 
 |
 
 1 450 000 Ft
-
-|
-
-5.
-
-|
-
-szakfőigazgató
-
-|
-
-|
-
-|
-
-1 100 000 Ft
-
-|
-
-1 220 000 Ft
 
 |
 

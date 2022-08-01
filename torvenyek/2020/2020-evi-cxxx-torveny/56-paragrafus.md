@@ -1,6 +1,6 @@
 ### 56. § [Más szervhez kirendelés, vezénylés megszüntetése]
 
-(1) A más szervhez kirendelés, vezénylés megszüntetésére a más szerv vezetőjének kezdeményezésére érdekmúlás miatt vagy a más szervhez kirendelt, vezényelt magatartására visszavezethető okból, valamint a foglalkoztatott kérelme alapján kerülhet sor. A szolgálat érdekére hivatkozva a más szervhez kirendelés, vezénylés megszüntetését a NAV vezetője is kezdeményezheti. A más szervhez kirendelésnek, vezénylésnek a más szerv működése érdekkörében felmerülő okból történő megszüntetése a más szerv vezetőjének kérésére legfeljebb két hónapra elhalasztható.
+(1) A más szervhez kirendelés, vezénylés megszüntetésére a más szerv vezetőjének kezdeményezésére érdekmúlás miatt vagy a más szervhez kirendelt, vezényelt magatartására visszavezethető okból, valamint a foglalkoztatott kérelme alapján kerülhet sor. A szolgálat érdekére hivatkozva a más szervhez kirendelés, vezénylés megszüntetését a NAV elnöke is kezdeményezheti. A más szervhez kirendelésnek, vezénylésnek a más szerv működése érdekkörében felmerülő okból történő megszüntetése a más szerv vezetőjének kérésére legfeljebb két hónapra elhalasztható.
 
 (2) A más szervhez kirendelés, vezénylés megszüntetése esetén a foglalkoztatott részére a NAV valamely szervénél – lehetőség szerint a más szervhez kirendelést, vezénylést megelőző munkavégzési helyen – a végzettségének, képzettségének megfelelő, de legalább a más szervhez kirendelést, vezénylést megelőző munkakörével azonos besorolású munkakört kell biztosítani.
 

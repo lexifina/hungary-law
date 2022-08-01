@@ -10,7 +10,7 @@ b) a szolgálati jogviszonnyal összefüggő jogok gyakorlásának és köteleze
 
 c) a közeli hozzátartozót megillető társadalombiztosítási, szociális és kegyeleti gondoskodás megállapításának és folyósításának biztosítása.
 
-(3) A személyügyi alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a NAV vezetője felelős.
+(3) A személyügyi alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a NAV elnöke felelős.
 
 (4) Adatvédelmi szabályzatban (a továbbiakban: szabályzat) kell meghatározni az iratok, az adatok kezelésének adatvédelmi, adatbiztonsági szabályait, így különösen a foglalkoztatott saját adataival történő rendelkezési joga biztosításának, a harmadik személy részére történő adattovábbításnak, a betekintési jog gyakorlásának, valamint az adatkezelésben részt vevő foglalkoztatott felelősségének és az adatokhoz történő hozzáférése terjedelmének szabályait.
 

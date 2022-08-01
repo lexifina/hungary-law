@@ -8,4 +8,4 @@
 
 (4) A (2) bekezdésben meghatározott esetben, illetve ha a jogosult szolgálati jogviszonya, illetve munkaviszonya a tárgyév közben szűnik meg, az időarányos részt meghaladó mértékben igénybe vett cafetériajuttatás értékét a (2) bekezdés szerinti távollét vége utáni első munkanapon, illetve a jogviszony megszűnésekor vissza kell fizetni, illetve – az érintett választása szerint, ha a juttatás természete ezt lehetővé teszi – vissza kell adni. Nem kell visszafizetni (visszaadni) a cafetériajuttatás értékét, ha a jogviszony a jogosult halála miatt szűnik meg.
 
-(5) A NAV vezetője foglalkoztatási szabályzatban rendelkezik a cafetériajuttatás igénybevételének részletes szabályairól, elszámolásának rendjéről és visszatérítésének szabályairól.
+(5) A NAV elnöke foglalkoztatási szabályzatban rendelkezik a cafetériajuttatás igénybevételének részletes szabályairól, elszámolásának rendjéről és visszatérítésének szabályairól.

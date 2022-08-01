@@ -34,4 +34,4 @@ b) a munkavégzés – különösen a munkakör sajátosságára, a munkavégzé
 
 (12) A munkáltatói jogkör gyakorlója meghatározhatja a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait.
 
-(13) Az alkalmazható munkarendeket és azok kereteit a NAV vezetője a foglalkoztatási szabályzatban határozza meg.
+(13) Az alkalmazható munkarendeket és azok kereteit a NAV elnöke a foglalkoztatási szabályzatban határozza meg.

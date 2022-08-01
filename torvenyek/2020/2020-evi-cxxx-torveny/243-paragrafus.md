@@ -12,7 +12,7 @@ c) a harmadik évfolyamon a tanév első napjától hallgató főtörzsőrmester
 
 d) a negyedik évfolyamon a tanév első napjától hallgató zászlós.
 
-(3) A tisztjelölt szolgálatteljesítési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A tisztjelölt szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek egyben az állományilletékes NAV tartalékát is képezik. Kötelékben és különleges jogrendben történő alkalmazásuk és gyakoroltatásuk rendjét a NAV vezetője és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
+(3) A tisztjelölt szolgálatteljesítési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A tisztjelölt szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek egyben az állományilletékes NAV tartalékát is képezik. Kötelékben és különleges jogrendben történő alkalmazásuk és gyakoroltatásuk rendjét a NAV elnöke és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
 
 (4) A tisztjelölt esetében a szolgálati érintkezés során szóban „hallgató” megszólítást kell alkalmazni, amelyet írásban a „pénzügyőr” jelzővel kell kiegészíteni.
 

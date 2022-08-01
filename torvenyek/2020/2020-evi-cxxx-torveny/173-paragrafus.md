@@ -1,6 +1,6 @@
 ### 173. § [Kegyeleti juttatások]
 
-(1) A NAV vezetője az elhunyt foglalkoztatottat – a közszolgálat teljesítése során szerzett érdemeire figyelemmel – a NAV saját halottjává nyilváníthatja.
+(1) A NAV elnöke az elhunyt foglalkoztatottat – a közszolgálat teljesítése során szerzett érdemeire figyelemmel – a NAV saját halottjává nyilváníthatja.
 
 (2) Ha a pénzügyőr a szolgálati kötelezettség teljesítése során az életét feláldozta, őt a miniszter hősi halottá nyilváníthatja.
 

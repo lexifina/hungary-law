@@ -12,4 +12,4 @@ d) illetményelőleg,
 
 e) tanulmányi ösztöndíj, képzési, továbbképzési, nyelvtanulási támogatás.
 
-(2) Az (1) bekezdésben foglalt juttatás mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait a NAV vezetője foglalkoztatási szabályzatban állapítja meg.
+(2) Az (1) bekezdésben foglalt juttatás mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait a NAV elnöke foglalkoztatási szabályzatban állapítja meg.

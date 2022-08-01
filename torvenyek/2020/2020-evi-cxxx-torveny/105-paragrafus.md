@@ -12,9 +12,9 @@ c) a készenlét alatt elrendelt munkavégzés esetén a munkahelyre érkezést�
 
 (3) Nem minősül túlmunkának, ha a foglalkoztatott az engedélyezett távollét idejét a munkáltatói jogkör gyakorlójával történt megállapodás alapján ledolgozza.
 
-(4) A túlmunkát a munkáltatói jogkör gyakorlójának írásban kell elrendelnie. A túlmunka elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV vezetője határozza meg.
+(4) A túlmunkát a munkáltatói jogkör gyakorlójának írásban kell elrendelnie. A túlmunka elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV elnöke határozza meg.
 
-(5) Teljes napi munkaidő esetén naptári évenként háromszáz óra túlmunka rendelhető el. Az elrendelhető túlmunka mértékét a NAV vezetője a NAV alaptevékenysége zavartalanságának biztosítása érdekében
+(5) Teljes napi munkaidő esetén naptári évenként háromszáz óra túlmunka rendelhető el. Az elrendelhető túlmunka mértékét a NAV elnöke a NAV alaptevékenysége zavartalanságának biztosítása érdekében
 
 a) a tisztviselők tekintetében legfeljebb 20%-kal növelheti,
 

@@ -1,6 +1,6 @@
 ### 202. § [Leltárhiány utáni kártérítési felelősség]
 
-(1) Leltárhiány a raktárkezelésre szabályszerűen átadott és átvett vagyontárgyban (tárgyi eszköz és készlet, a továbbiakban: raktári leltárkészlet) ismeretlen okból keletkezett, a természetes mennyiségi csökkenéssel és a kezeléssel járó veszteség mértékét meghaladó hiány. A raktári leltárkészletek azon körét, amelyek után természetes mennyiségi csökkenés, kezeléssel járó veszteség nem számolható el, valamint a csökkenés és a veszteség alsó és felső határát a NAV vezetője határozza meg. Egy leltári időszakra a természetes mennyiségi csökkenés, illetve a kezeléssel járó veszteség változó mértékben is megállapítható.
+(1) Leltárhiány a raktárkezelésre szabályszerűen átadott és átvett vagyontárgyban (tárgyi eszköz és készlet, a továbbiakban: raktári leltárkészlet) ismeretlen okból keletkezett, a természetes mennyiségi csökkenéssel és a kezeléssel járó veszteség mértékét meghaladó hiány. A raktári leltárkészletek azon körét, amelyek után természetes mennyiségi csökkenés, kezeléssel járó veszteség nem számolható el, valamint a csökkenés és a veszteség alsó és felső határát a NAV elnöke határozza meg. Egy leltári időszakra a természetes mennyiségi csökkenés, illetve a kezeléssel járó veszteség változó mértékben is megállapítható.
 
 (2) Az a foglalkoztatott, akinek a munkaköri leírásában rögzített munkaköri feladatai közé tartozik a részére szabályszerűen átadott és átvett raktári leltárkészlet raktárkezelése, a keletkezett leltárhiányért vétkességére való tekintet nélkül felel.
 

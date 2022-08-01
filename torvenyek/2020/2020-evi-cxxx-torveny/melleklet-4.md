@@ -28,7 +28,7 @@ NAV területi szerve
 
 |
 
-főigazgató
+elnök
 
 |
 
@@ -42,9 +42,7 @@ főigazgató
 
 |
 
-szakfőigazgató,
-
-főigazgató-helyettes
+elnökhelyettes
 
 |
 
@@ -58,7 +56,7 @@ főigazgató-helyettes
 
 |
 
-főosztályvezető
+főigazgató
 
 |
 
@@ -72,9 +70,9 @@ főosztályvezető
 
 |
 
-|
+főigazgató-helyettes
 
-igazgató
+|
 
 |
 
@@ -86,7 +84,7 @@ igazgató
 
 |
 
-főosztályvezető-helyettes
+főosztályvezető
 
 |
 
@@ -102,7 +100,7 @@ főosztályvezető-helyettes
 
 |
 
-igazgató-helyettes
+igazgató
 
 |
 
@@ -114,7 +112,7 @@ igazgató-helyettes
 
 |
 
-osztályvezető
+főosztályvezető-helyettes
 
 |
 
@@ -130,7 +128,7 @@ osztályvezető
 
 |
 
-főosztályvezető
+igazgató-helyettes
 
 |
 
@@ -142,9 +140,9 @@ főosztályvezető
 
 |
 
-|
+osztályvezető
 
-főosztályvezető-helyettes
+|
 
 |
 
@@ -153,6 +151,34 @@ főosztályvezető-helyettes
 |
 
 10
+
+|
+
+|
+
+főosztályvezető
+
+|
+
+12.
+
+|
+
+11
+
+|
+
+|
+
+főosztályvezető-helyettes
+
+|
+
+13.
+
+|
+
+12.
 
 |
 

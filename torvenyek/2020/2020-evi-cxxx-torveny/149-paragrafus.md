@@ -1,8 +1,8 @@
 ### 149. § [A személyi illetmény]
 
-(1) A NAV vezetőjének előzetes jóváhagyásával a munkáltatói jogkör gyakorlója át nem ruházható hatáskörében, illetve a Központi Irányításban a NAV vezetője által átruházott hatáskörben munkáltatói jogkört gyakorló vezető a kimagasló teljesítményt nyújtó, és a szervezet működése szempontjából kiemelten fontos munkakört betöltő foglalkoztatottnak az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg.
+(1) A NAV elnökének előzetes jóváhagyásával a munkáltatói jogkör gyakorlója át nem ruházható hatáskörében, illetve a Központi Irányításban a NAV elnöke által átruházott hatáskörben munkáltatói jogkört gyakorló vezető a kimagasló teljesítményt nyújtó, és a szervezet működése szempontjából kiemelten fontos munkakört betöltő foglalkoztatottnak az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg.
 
-(2) A személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonáshoz – ide nem értve a 187. § (4) bekezdés e) pontja szerinti esetet – a NAV vezetőjének előzetes jóváhagyása szükséges. A visszavonást követően a foglalkoztatottat az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött munkakör alapján kell besorolni és illetményét megállapítani.
+(2) A személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonáshoz – ide nem értve a 187. § (4) bekezdés e) pontja szerinti esetet – a NAV elnökének előzetes jóváhagyása szükséges. A visszavonást követően a foglalkoztatottat az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött munkakör alapján kell besorolni és illetményét megállapítani.
 
 (3) A személyi illetményben részesülők illetményét évente – január 31-ig – felül kell vizsgálni.
 
