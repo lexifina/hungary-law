@@ -2,8 +2,8 @@
 
 ## Jogorvoslat
 
-42. § (1)[^56] A károsult a határozat ellen az annak közlésétől számított 30 napon belül nyújthatja be keresetét a bírósághoz. Alperesként az eljáró rendvédelmi feladatokat ellátó szervet kell megjelölni. Ha a károsult a keresetet a rendvédelmi feladatokat ellátó szervnél terjesztette elő, a rendvédelmi feladatokat ellátó szerv köteles az iratokat nyolc napon belül a bírósághoz továbbítani.
+42. § (1)[^57] A károsult a határozat ellen az annak közlésétől számított 30 napon belül nyújthatja be keresetét a bírósághoz. Alperesként az eljáró rendvédelmi feladatokat ellátó szervet kell megjelölni. Ha a károsult a keresetet a rendvédelmi feladatokat ellátó szervnél terjesztette elő, a rendvédelmi feladatokat ellátó szerv köteles az iratokat nyolc napon belül a bírósághoz továbbítani.
 
 (2) A kereset benyújtásának a határozat végrehajtásra halasztó hatálya van.
 
-[^56]: A 42. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 9. § h) pontja, a 20/2021. (VII. 14.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^57]: A 42. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 9. § h) pontja, a 20/2021. (VII. 14.) BM rendelet 2. § a) pontja szerint módosított szöveg.

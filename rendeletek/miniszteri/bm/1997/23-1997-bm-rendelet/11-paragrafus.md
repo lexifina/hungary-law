@@ -1,6 +1,6 @@
 ## A tényállás tisztázása
 
-11. § (1)[^24] Az eljáró szerv tisztázza a határozathozatalhoz szükséges tényállást, ennek keretében vizsgálja
+11. § (1)[^25] Az eljáró szerv tisztázza a határozathozatalhoz szükséges tényállást, ennek keretében vizsgálja
 
 a) a kár összegét,
 
@@ -10,7 +10,7 @@ c) a károkozó személy kötelezettségszegő magatartása és a kár keletkez�
 
 d) a felróhatóság mértékének megítélését alátámasztó tényeket.
 
-(1a)[^25] Ha a rendelkezésre álló adatok a tényállás tisztázásához nem elegendőek, az eljáró szerv bizonyítási eljárást folytat le. A 14/A. § (1) bekezdésében meghatározott esetben a (6) bekezdésben meghatározott bizonyítási eszközök beszerzése érdekében a szolgálati hely szerinti állományilletékes parancsnok megkereséssel élhet a károkozás helye szerinti állományilletékes parancsnok felé.
+(1a)[^26] Ha a rendelkezésre álló adatok a tényállás tisztázásához nem elegendőek, az eljáró szerv bizonyítási eljárást folytat le. A 14/A. § (1) bekezdésében meghatározott esetben a (6) bekezdésben meghatározott bizonyítási eszközök beszerzése érdekében a szolgálati hely szerinti állományilletékes parancsnok megkereséssel élhet a károkozás helye szerinti állományilletékes parancsnok felé.
 
 (2) Az eljárás alá vont személy, illetve képviselője a tényállás tisztázása érdekében az eljáró szervnél írásban bizonyítási indítvánnyal élhet.
 
@@ -20,7 +20,7 @@ d) a felróhatóság mértékének megítélését alátámasztó tényeket.
 
 (5) Az eljáró szerv által hivatalosan ismert és a köztudomású tényeket nem kell bizonyítani.
 
-(6)[^26] Bizonyítási eszközök különösen
+(6)[^27] Bizonyítási eszközök különösen
 
 a) az eljárás alá vont személy nyilatkozata;
 
@@ -34,6 +34,6 @@ e) a szakértői vélemény.
 
 (7) Az eljáró szerv a bizonyítékokat egyenként és összességükben értékeli, és ezen alapuló meggyőződése szerint állapítja meg a tényállást.
 
-[^24]: A 11. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 3. §-ával megállapított szöveg.
-[^25]: A 11. § (1a) bekezdését a 81/2012. (XII. 28.) BM rendelet 4. §-a iktatta be, szövege a 34/2014. (IV. 24.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^26]: A 11. § (6) bekezdése a 34/2014. (IV. 24.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^25]: A 11. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 3. §-ával megállapított szöveg.
+[^26]: A 11. § (1a) bekezdését a 81/2012. (XII. 28.) BM rendelet 4. §-a iktatta be, szövege a 34/2014. (IV. 24.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^27]: A 11. § (6) bekezdése a 34/2014. (IV. 24.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
