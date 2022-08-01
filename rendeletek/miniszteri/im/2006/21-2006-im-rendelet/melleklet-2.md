@@ -36,6 +36,8 @@
 
 ## kc) Nyilatkozat: A jogi képviselő kijelenti, hogy a kérelemhez csatolt okiratok (mellékletek) törvényességi szempontú vizsgálatát elvégezte.
 
+## kd) Annak jelölése, egyszerűsített cégeljárás esetén a jogi képviselő nyilatkozata, hogy az online alapított cég cégbejegyzési eljárásának feltételei fennállnak.
+
 ## 2.) A jogi képviselő adatai:
 
 ## a) Név
@@ -1540,6 +1542,8 @@
 
 ## nc) a jogi képviselő kijelenti, hogy a kérelemhez csatolt okiratok (mellékletek) törvényességi szempontú vizsgálatát elvégezte.
 
+## o) Annak jelölése, hogy az online alapított cég cégbejegyzési (változásbejegyzési) eljárásának feltételei fennállnak.
+
 ## 2.) A jogi képviselő adatai:
 
 ## a) Név
@@ -1892,6 +1896,6 @@
 
 ## g) Törölve (szükség szerint jelölendő, ha cégjegyzékből a rovat tartalmát törölni kérik)
 
-2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^71]
+2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^74]
 
-[^71]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a szerint módosított szöveg.
+[^74]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a szerint módosított szöveg.

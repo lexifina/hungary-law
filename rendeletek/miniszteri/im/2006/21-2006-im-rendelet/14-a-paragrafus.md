@@ -1,4 +1,4 @@
-14/A. §[^48] (1) A céginformációs szolgálat a Ctv. 38/A. § (1) bekezdésében foglalt adatellenőrzés során a cégbejegyzési és változásbejegyzési kérelemben – az informatikai ellenőrzéssel egyidejűleg – az alábbi adatok ellenőrzését végzi el:
+14/A. §[^49] (1) A céginformációs szolgálat a Ctv. 38/A. § (1) bekezdésében foglalt adatellenőrzés során a cégbejegyzési és változásbejegyzési kérelemben – az informatikai ellenőrzéssel egyidejűleg – az alábbi adatok ellenőrzését végzi el:
 
 a) székhely, telephely, fióktelep (e § alkalmazásában a továbbiakban együtt: székhely),
 
@@ -44,4 +44,4 @@ m) a nyomtatványban megadott EUID-nak az ISO 6523 szabványnak, illetve a Bizot
 
 (4) A céginformációs szolgálat a (2) bekezdés szerinti ellenőrzési szempontokat, valamint az ellenőrzés alapjául szolgáló adatbázisok vagy algoritmusok elérhetőségét a honlapján közzéteszi. Az adatbázisok vagy algoritmusok változásáról az azt megállapító szervezet haladéktalanul értesíti a céginformációs szolgálatot.
 
-[^48]: A 14/A. §-t a 33/2012. (VII. 13.) KIM rendelet 1. §-a iktatta be, szövege a 24/2018. (VIII. 31.) IM rendelet 3. §-ával megállapított szöveg.
+[^49]: A 14/A. §-t a 33/2012. (VII. 13.) KIM rendelet 1. §-a iktatta be, szövege a 24/2018. (VIII. 31.) IM rendelet 3. §-ával megállapított szöveg.

@@ -84,6 +84,6 @@
 
 | 23 | Európai szövetkezet |
 
-3. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^72]
+3. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^75]
 
-[^72]: A 3. számú melléklet a 30/2008. (XII. 23.) IRM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^75]: A 3. számú melléklet a 30/2008. (XII. 23.) IRM rendelet 2. § (2) bekezdésével megállapított szöveg.

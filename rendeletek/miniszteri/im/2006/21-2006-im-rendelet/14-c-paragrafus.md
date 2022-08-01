@@ -1,6 +1,6 @@
-## 14/B. §[^49] A céginformációs szolgálat elvégzi a Ctv. 38. §-a, 53. §-a és 131/K. §-a szerinti adatigénylés eredményeként kapott adatokon a cégjegyzék egységes megjelenítése érdekében szükséges formai átalakításokat.
+## 14/B. §[^50] A céginformációs szolgálat elvégzi a Ctv. 38. §-a, 53. §-a és 131/K. §-a szerinti adatigénylés eredményeként kapott adatokon a cégjegyzék egységes megjelenítése érdekében szükséges formai átalakításokat.
 
-14/C. §[^50] (1) A nyomtatványban feltüntetett természetes személyek adataiban érdemi hiba állapítható meg, ha a természetes személyek nyilvántartásából igényelt adatokkal való összevetés alapján megállapítható, hogy a nyomtatványban megadott
+14/C. §[^51] (1) A nyomtatványban feltüntetett természetes személyek adataiban érdemi hiba állapítható meg, ha a természetes személyek nyilvántartásából igényelt adatokkal való összevetés alapján megállapítható, hogy a nyomtatványban megadott
 
 a) születési időpontban legalább egy számjegy hibás, illetve
 
@@ -24,5 +24,5 @@ b) a város/község adatban legalább egy betű eltérés van.
 
 (7) Ha a kérelem visszaküldésének esete nem áll fenn, a kérelem a helyes adattal kerül előszerkesztésre, azonban az informatikai rendszer jelzi azt, ha eltérés áll fenn a kérelem nyomtatványában megadott adat és az előszerkesztett adat között.
 
-[^49]: A 14/B. §-t a 24/2018. (VIII. 31.) IM rendelet 4. §-a iktatta be.
-[^50]: A 14/C. §-t a 24/2018. (VIII. 31.) IM rendelet 4. §-a iktatta be.
+[^50]: A 14/B. §-t a 24/2018. (VIII. 31.) IM rendelet 4. §-a iktatta be.
+[^51]: A 14/C. §-t a 24/2018. (VIII. 31.) IM rendelet 4. §-a iktatta be.
