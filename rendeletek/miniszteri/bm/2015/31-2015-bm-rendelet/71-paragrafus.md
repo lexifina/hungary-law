@@ -24,8 +24,8 @@ f) kombinált
 
 (3) A folyamatos és váltásos szolgálatteljesítési időrendszerben dolgozóknál, ahol a szolgálatteljesítést naponta azonos helyen két fő egymás utáni beosztásával rendelik el, az eligazítás, váltás, valamint a szolgálati felszerelések felvétele és leadása érdekében a szolgálatteljesítési idő legfeljebb harminc perccel meghosszabbítható.
 
-(3a)[^58] A rendőrségnél őrszolgálati beosztásban szolgálatot teljesítő, vezényléses szolgálati időrendszerben dolgozóknál, ahol a szolgálatteljesítést naponta azonos helyen két fő egymás utáni beosztásával rendelik el, az eligazítás, váltás, valamint a szolgálati felszerelések felvétele és leadása érdekében a szolgálatteljesítési idő legfeljebb harminc perccel meghosszabbítható.
+(3a)[^59] A rendőrségnél őrszolgálati beosztásban szolgálatot teljesítő, vezényléses szolgálati időrendszerben dolgozóknál, ahol a szolgálatteljesítést naponta azonos helyen két fő egymás utáni beosztásával rendelik el, az eligazítás, váltás, valamint a szolgálati felszerelések felvétele és leadása érdekében a szolgálatteljesítési idő legfeljebb harminc perccel meghosszabbítható.
 
 (4) A büntetés-végrehajtási intézeteknél a szolgálatteljesítési idő szempontjából őrszolgálat jellegű beosztásnak minősül a fogvatartás rendjének és biztonságának fenntartására rendszeresített szolgálati beosztás.
 
-[^58]: A 71. § (3a) bekezdését a 4/2021. (II. 10.) BM rendelet 2. §-a iktatta be.
+[^59]: A 71. § (3a) bekezdését a 4/2021. (II. 10.) BM rendelet 2. §-a iktatta be.

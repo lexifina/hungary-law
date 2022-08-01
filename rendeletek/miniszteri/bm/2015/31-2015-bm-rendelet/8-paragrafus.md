@@ -2,7 +2,7 @@
 
 (2) A kinevezési javaslathoz csatolni kell
 
-a)[^12] a kinevezés feltételeként meghatározott egészségi, pszichológiai és fizikai alkalmasságot és a szolgálati viszony létesítéséhez szükséges feltételek meglétét igazoló okiratok másolatát,
+a)[^13] a kinevezés feltételeként meghatározott egészségi, pszichológiai és fizikai alkalmasságot és a szolgálati viszony létesítéséhez szükséges feltételek meglétét igazoló okiratok másolatát,
 
 b) a humánigazgatási szakszolgálat által előkészített, a kinevezésről szóló állományparancs (a továbbiakban: kinevezési okmány) tervezetét,
 
@@ -20,4 +20,4 @@ f) az illetmény fedezetének rendelkezésre állására vonatkozó, a szervezet
 
 (5) A humánigazgatási szakszolgálat az aláírt esküokmányt a kinevezési okmány mellékleteként a személyi anyaggyűjtőben helyezi el és kezeli.
 
-[^12]: A 8. § (2) bekezdés a) pontja a 20/2021. (VII. 14.) BM rendelet 24. § f) pontja szerint módosított szöveg.
+[^13]: A 8. § (2) bekezdés a) pontja a 20/2021. (VII. 14.) BM rendelet 24. § f) pontja szerint módosított szöveg.
