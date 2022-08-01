@@ -30,16 +30,16 @@ a) legfeljebb hatvan, de legkésőbb harminc nappal a tagok megbízatása időta
 
 b) az a) ponton kívüli esetekben a megbízatás megszűnéséről való tudomásszerzéstől számított harminc napon belül,
 
-az országgyűlési képviselőcsoportok egy-egy tagjából álló eseti bizottság (a továbbiakban: jelölőbizottság) egyhangú szavazással tesz javaslatot.
+az Országgyűlés kulturális kérdésekkel foglalkozó állandó bizottsága tesz javaslatot.
 
-(4) A jelölőbizottság tagjai minden szavazás során az őket jelölő országgyűlési képviselőcsoport létszámának megfelelő mértékű szavazattal rendelkeznek.
+(4)
 
-(5) A jelölőbizottság felállításáról szóló országgyűlési határozat rendelkezik arról, hogy mennyi idő áll az országgyűlési képviselőcsoportok rendelkezésére a jelölőbizottsági tagok jelölésére. A jelölési folyamat megkezdhető abban az esetben is, ha valamely képviselőcsoport nem jelöl tagot a jelölőbizottságba az országgyűlési határozatban meghatározott határidőn belül.
+(5)
 
-(6) Ha a jelölőbizottság a (3) bekezdés a) pont szerinti esetben a meghatározott határidőn belül nem tud négy tagjelöltet javasolni, a jelölőbizottság a második jelölési körben a szavazati mérték legalább kétharmadával javasolhat jelöltet.
+(6)
 
-(7) Ha a jelölőbizottság a (3) bekezdés a) pont szerinti esetben a második jelölési körben sem tud nyolc napon belül négy jelöltet állítani, akkor a mandátuma megszűnik, és új jelölőbizottságot kell felállítani.
+(7)
 
-(8) Ha a jelölőbizottság a (3) bekezdés b) pont szerinti esetben az ott meghatározott határidőn belül nem tud tagjelöltet javasolni, a jelölőbizottság a szavazati mérték legalább kétharmadával javasolhat jelöltet.
+(8)
 
-(9) Ha a jelölőbizottság a (3) bekezdés b) pont szerinti esetben a második jelölési körben sem tud nyolc napon belül jelöltet állítani, akkor megszűnik a mandátuma, és új jelölőbizottságot kell felállítani.
+(9)
