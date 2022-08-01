@@ -17,3 +17,5 @@ b) a követelés vagy annak egy része megszűnt,
 c) a végrehajtást kérő a teljesítésre halasztást adott, és az időtartama nem járt le, vagy
 
 d) az adós a követeléssel szemben beszámítható követelést kíván érvényesíteni.
+
+(3) A kötelezett keresettel kérheti a szülői felelősséget érintő nemzetközi igazságügyi együttműködésről szóló törvény alapján a jogellenesen Magyarországra hozott gyermek visszavitelét elrendelő határozat végrehajtásának megszüntetését, ha a végrehajtás a gyermek számára tartósan a testi vagy lelki károsodás súlyos kockázatával járna a határozat meghozatala után felmerült akadályokból kifolyólag vagy a körülmények jelentős megváltozása folytán. A bíróság a végrehajtás megszüntetésének indokoltságával kapcsolatban kikéri a gyámhatóság véleményét.
