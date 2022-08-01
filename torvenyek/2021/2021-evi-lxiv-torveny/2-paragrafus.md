@@ -44,7 +44,7 @@ a) az adós által a társadalombiztosítási jogszabályok szerint biztosítás
 
 b) a munkaerő-kölcsönzési szerződés kölcsönbeadója azon összeg tekintetében, amelyet a kölcsönbeadó az adóssal mint kölcsönvevővel szemben érvényesít a munkavállalók részére kifizetendő munkabérhez, bérjellegű juttatásokhoz és az azokra tekintettel általa megfizetendő közterhekhez,
 
-c) az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet (a továbbiakban együtt: szövetkezet) az adóst mint a szövetkezet szolgáltatásának igénybe vevőjét terhelő díj azon része tekintetében, amelyet a szövetkezet a munkavégzésre tekintettel fizet ki a tagjainak, ideértve a kifizetőt terhelő közterheket is,
+c) az iskolaszövetkezet, a kisgyermekkel otthon lévők szövetkezete és a közérdekű nyugdíjas szövetkezet (a továbbiakban együtt: szövetkezet) az adóst mint a szövetkezet szolgáltatásának igénybe vevőjét terhelő díj azon része tekintetében, amelyet a szövetkezet a munkavégzésre tekintettel fizet ki a tagjainak, ideértve a kifizetőt terhelő közterheket is,
 
 d) az állami adó- és vámhatóság az a)–c) pontban meghatározott jogviszonyok vonatkozásában keletkező közterhek, valamint az általános forgalmi adó tekintetében,
 
