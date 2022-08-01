@@ -1,0 +1,3 @@
+## 16. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 87. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Az Országgyűlés tisztségviselőjének, valamint az állandó bizottságok elnökének, alelnökének és tagjainak megválasztására, a személyükre vonatkozó változásra, illetve a megüresedett hely betöltésére irányuló képviselőcsoport-vezetői indítványokat – az alakuló ülésen történő megválasztás kivételével – legkésőbb azon ülésnap megnyitása előtt egy órával kell megküldeni a házelnöknek, amely ülésnap tervezett vagy elfogadott napirendjén az (1) bekezdés szerinti határozati javaslat szerepel.”

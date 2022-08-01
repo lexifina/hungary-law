@@ -1,0 +1,3 @@
+## 3. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 7. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) A képviselők alakuló ülésen elfoglalt üléstermi helyét a korelnök a képviselőcsoport-vezetők – független képviselők véleményét is mérlegelő – megállapodása szerint, ennek hiányában a képviselőcsoport-vezetők indítványaira figyelemmel állapítja meg. A képviselőcsoport-vezetők megállapodását vagy indítványait – az általa megjelölt határidőben – a korelnöknek kell eljuttatni. Az alakuló ülés előkészítésével és megtartásával szükségszerűen együtt járó feladatok ellátása érdekében a korelnök a képviselőcsoport-vezetők megállapodása hiányában további kérdésekben is eljár.”

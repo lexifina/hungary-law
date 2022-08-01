@@ -1,0 +1,3 @@
+## 25. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 153. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Jövedelem- és gazdasági érdekeltségi nyilatkozattal (a továbbiakban: vagyonnyilatkozat) kapcsolatos eljárás kezdeményezése esetén a Mentelmi Bizottság elnöke felhívja az érintett képviselőt, hogy öt napon belül nyilatkozzon a kezdeményezéssel kapcsolatosan, vagy javítsa ki a kezdeményezésben kifogásolt adatokat, amennyiben a kezdeményezést alaposnak találja. Ha a képviselő a kifogásolt adatokat kijavítja, az elnök nem rendeli el a vagyonnyilatkozattal kapcsolatos eljárás megindítását, amely tényről tájékoztatja a házelnököt, az érintett képviselőt és a kezdeményezőt.”

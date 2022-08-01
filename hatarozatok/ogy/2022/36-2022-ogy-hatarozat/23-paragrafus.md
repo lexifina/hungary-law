@@ -1,0 +1,3 @@
+## 22. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 137/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha az előterjesztő a 48. § (3) bekezdése, a 48. § (7) bekezdése, a 49. § (4) bekezdése, a 71. § (7) bekezdése, a 72. § (2) vagy (8) bekezdése alapján új egységes javaslattervezetet küld meg a törvényalkotási bizottság elnöke részére, akkor ezzel egyidejűleg az új egységes javaslattervezethez készített, a 31. § (1) bekezdése szerinti indokolás és a módosító javaslatok indokolásainak figyelembevételével megszövegezett indokolást – annak iromány-nyilvántartásba vétele céljából – kézjegyével ellátva megküldi a házelnöknek.”
