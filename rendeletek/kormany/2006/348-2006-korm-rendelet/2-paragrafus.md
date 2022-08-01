@@ -36,5 +36,8 @@ i) szelektív kutatási módszer: olyan kutatási módszer, amelynek alkalmazás
 
 j)[^3] mentési szállítás: védelemben részesülő gerinces faj sérült, beteg vagy egyéb ok miatt szabad életre alkalmatlan egyedének életmentés céljából történő és ahhoz szükséges mértékű birtokban tartása, gondozása, belföldi szállítása, amely az egyed mentőközpontba való eljuttatásáig tart.
 
+k)[^4] genetikai profil: egyedi azonosításra vagy az egyed leszármazásának igazolására alkalmas, genetikai markereken alapuló laborvizsgálat eredménye.
+
 [^2]: A 2. § e) pontja a 84/2010. (III. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § j) pontját a 84/2010. (III. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § k) pontját a 136/2022. (IV. 7.) Korm. rendelet. 1. §-a iktatta be.
