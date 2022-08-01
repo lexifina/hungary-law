@@ -34,7 +34,7 @@ m) az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutat�
 
 (4) A bányafelügyelet az engedély kiadását nem tagadhatja meg, ha az engedély iránti kérelemben foglaltak a jogszabályokban meghatározott követelményeknek megfelelnek.
 
-(4a) A bányafelügyelet kutatási engedélyt nem ad, bányatelket nem állapít meg, és az (1) bekezdés szerinti engedély iránti kérelmet – a bányabezárási és tájrendezési műszaki üzemi terv jóváhagyási kérelem kivételével – elutasítja, ha
+(4a) A bányafelügyelet kutatási engedély, bányatelek megállapítása, feltárási és kitermelési műszaki üzemi terv jóváhagyása, valamint meddőhányóhasznosítás-engedélyezés iránti kérelmet elutasítja, ha
 
 a) a kérelmezőnek
 
@@ -48,8 +48,8 @@ tartozása van, vagy
 
 b) a kérelmező a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
 
-(4b) A kérelmező (4a) bekezdés szerinti kötelezettségének teljesítését a bányafelügyelet ellenőrzi.
+(4b) A kérelmező nyilatkozik, hogy vele szemben a (4a) bekezdésben foglaltak nem állnak fenn. Ha a kérelmező valótlan nyilatkozatot tesz, a bányafelügyelet a kiadott engedélyt visszavonja.
 
-(5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. A kiesés okát a bányavállalkozónak kell igazolnia.
+(5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. Az önhiba hiányát a bányavállalkozónak kell igazolnia.
 
 (6) A kulturális örökség védelméről szóló törvény által nemzeti emlékhellyé nyilvánított kegyhelyen, valamint annak 5 km sugarú környezetében – a kegyhely méltóságának megőrzése érdekében – külfejtéses művelésű bányatelket csak akkor lehet megállapítani, horizontálisan bővíteni vagy a megállapított bányatelken feltárási, kitermelési tevékenységet folytatni, ha azzal a bányatelek fekvése szerinti fővárosi és megyei kormányhivatal kulturális örökségvédelmi szempontból egyetért. Egyetértés hiányában a bányafelügyelet az engedély, műszaki üzemi terv jóváhagyása iránti kérelmet elutasítja.

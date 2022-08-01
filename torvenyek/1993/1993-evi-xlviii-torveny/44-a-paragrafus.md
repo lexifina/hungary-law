@@ -2,4 +2,8 @@
 
 (2) Az (1) bekezdés szerinti szakértői tevékenységet az a személy folytathat, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(3) A bányafelügyelet által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A bányafelügyelet által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, valamint a Hatóság elnökének rendeletében előírt további, személyes adatokat nem tartalmazó adatokat. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(4) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(5) A (3) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a földtani szakértők jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét és kapcsolattartásra megjelölt elérhetőségét, valamint a földtani szakértő szakterületének megnevezését.

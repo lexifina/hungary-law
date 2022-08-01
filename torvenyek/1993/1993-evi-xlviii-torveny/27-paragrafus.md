@@ -10,7 +10,7 @@
 
 a) amelyekre vonatkozóan a bányászati jog jogosultja azonos bányavállalkozó,
 
-b) amelyek közül legalább egy esetében a bányászati jog jogosultja a bányavállalkozó, a további bányatelkek tekintetében pedig a bányavállalkozónak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozása, vagy
+b) amelyek közül legalább egy esetében a bányászati jog jogosultja a bányavállalkozó, a további bányatelkek tekintetében pedig a bányavállalkozónak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozása (a továbbiakban: kapcsolt vállalkozás), vagy
 
 c) amelyek tekintetében a bányászati joggal olyan bányavállalkozók rendelkeznek, amelyekben ugyanazon természetes személy bír többségi befolyással.
 

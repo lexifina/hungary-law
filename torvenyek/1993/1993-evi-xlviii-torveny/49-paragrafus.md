@@ -174,7 +174,7 @@ A vezetékek alkotórészei:
 
 48.
 
-49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül, a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a negyedét eléri.
+49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a felét eléri az üzemszerű kitermelésre meghatározott időtartamon belül.
 
 50. Használaton kívüli bányászati célú mélyfúrás, kút: a meddő szénhidrogén kutatófúrás, kút, illetve a termelésből kivont, a mező termeltetéséhez már nem szükséges vagy műszakilag alkalmatlanná vált szénhidrogénkút.
 
@@ -184,7 +184,7 @@ A vezetékek alkotórészei:
 
 53. „Kitermelés szüneteltetése”: amikor a bányában 12 hónapot meghaladóan nem folytatnak kitermelést.
 
-54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
+54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely kutatási fázisú próbatermelésére, feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
 
 55. Állami elővásárlási jog szempontjából védettnek minősülő ingatlanokat érintő bányatelkek vonatkozásában bányászható ásványi nyersanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott gránit murva (kód 1013), riolit (kód 1110), pados andezit (kód 1141), andezit (kód 1142), bazalt (kód 1150), riolittufa (-tufit) (kód 1211), kálitufa (kód 1212), bazalttufa (-tufit) (kód 1240), agyag (kód 1411-1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1451-1453), kavics (kód 1460), átmeneti törmelékes nyersanyagok (kód 1471-1473), homokkő-konglomerátum (kód 1481-1485), durva mészkő/puha mészkő (kód 1520), tömött, kristályos mészkő (kód 1531-1533), dolomit (kód 1541-1543), márga (kód 1561-1563), alginit (kód 1620).
 

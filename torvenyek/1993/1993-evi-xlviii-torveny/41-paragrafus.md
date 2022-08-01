@@ -28,13 +28,17 @@ d) a bányászati tevékenység során keletkező hulladék kezelésére vonatko
 
 e) a geotermikus energia kutatására, kinyerésére, hasznosítására vonatkozó szabályoktól eltérően
 
+f) az ásványvagyonban bekövetkezett változásra vonatkozó éves adatszolgáltatási kötelezettség hibás, hiányos vagy késedelmes teljesítésével, illetve annak elmulasztásával
+
 gyakorolja.
 
 (3a) A szabálytalan bányászati tevékenység végzése során kitermelt ásványi nyersanyag tulajdonjoga akkor száll át a bányavállalkozóra, ha a bányafelügyelet az eredeti állapot helyreállítását nem rendelte el és a bányavállalkozó a bányajáradékot megfizette.
 
 (3b) A bányafelügyelet a (2) bekezdés szerinti jogkövetkezmények közül azt alkalmazza, amely a leghatékonyabban szolgálja a jogsértő állapot megszüntetését. A bányafelügyelet a jogkövetkezményeket együttesen is alkalmazhatja.
 
-(3c) Ha a bányavállalkozó a kitermelést engedély nélkül szüneteltette, a bányafelügyelet a bányavállalkozót az engedély nélküli szüneteltetés időtartamára a 30. § (3) bekezdése alapján számított díj megfizetésére kötelezi. Ha a bányavállalkozó a 30. § (7) bekezdése szerinti szünetelés időtartamára az elmaradt bányajáradék pótlására vonatkozó díj megfizetését nem teljesítette, a bányafelügyelet a bányavállalkozót a szünetelés időtartamára vonatkozó, elmaradt bányajáradék pótlására vonatkozó díj megfizetésére kötelezi.
+(3c) Ha a bányavállalkozó a kitermelést engedély nélkül szüneteltette, a bányafelügyelet a bányavállalkozót az engedély nélküli szüneteltetés időtartamára a 30. § (3) bekezdése alapján számított díj megfizetésére kötelezi. Ha a bányavállalkozó a 30. § (4) bekezdése szerinti szünetelés időtartamára az elmaradt bányajáradék pótlására vonatkozó díj megfizetését nem teljesítette, a bányafelügyelet a bányavállalkozót a szünetelés időtartamára vonatkozó, elmaradt bányajáradék pótlására vonatkozó díj megfizetésére kötelezi.
+
+(3d) Ha a bányafelügyelet a 43. § (3) bekezdése szerinti hatásköreiben lefolytatott eljárásai alapján az első szankcionált jogsértést követő két éven belül újabb három jogsértést állapít meg, a negyedik jogsértés esetén a bányavállalkozó bányászati jogát törli.
 
 (4) A bányafelügyelet azt a természetes vagy jogi személyt, aki, illetőleg amely külön jogszabály hatálya alá tartozó, a bányafelügyelet által kiadott hatósági engedélyhez kötött gázipari tevékenységet (földgáz tárolása, vezetéken történő elosztása, szállítása, egyéb gázok vezetéken történő szállítása, cseppfolyós propán-, butángázok és ezek elegyei vezetéken történő elosztása, tartályban vagy palackban történő forgalmazása) engedély nélkül végez, bírsággal sújtja és eltilthatja a tevékenység folytatásától.
 
@@ -46,7 +50,7 @@ gyakorolja.
 
 (7a) A bányászati tevékenységből származó államot terhelő tájrendezési kötelezettség esetén biztosítékadási kötelezettség nem írható elő.
 
-(7b) Ha a bányavállalkozó a megadott határidőre biztosítékadási kötelezettségének nem tesz eleget, a bányafelügyelet – a kötelezettség teljesítéséig – a bányászati tevékenység megkezdését vagy folytatását megtiltja. Ha a bányavállalkozó nem tett eleget a biztosítékadási kötelezettségének a bányafelügyelet bányászati tevékenység megkezdését vagy folytatását megtiltó határozatának véglegessé válását követő kilencven napon belül, a bányafelügyelet törli a bányavállalkozó bányászati jogát, amely esetben a 26/A. § (6)–(7) bekezdését kell alkalmazni.
+(7b) Ha a bányavállalkozó a megadott határidőre biztosítékadási kötelezettségének nem tesz eleget, a bányafelügyelet – a kötelezettség teljesítéséig – a bányászati tevékenység megkezdését vagy folytatását megtiltja. Ha a bányavállalkozó nem tett eleget a biztosítékadási kötelezettségének a bányafelügyelet bányászati tevékenység megkezdését vagy folytatását megtiltó határozatának véglegessé válását követő kilencven napon belül, a bányafelügyelet törli a bányavállalkozó bányászati jogát, amely esetben a 26/A. § (6)–(7) bekezdését kell alkalmazni. A kilencvennapos határidő jogvesztő határidőnek minősül.
 
 (8)
 

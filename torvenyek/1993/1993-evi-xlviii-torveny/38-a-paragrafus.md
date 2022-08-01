@@ -50,7 +50,7 @@ ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretl
 
 b) meghiúsul, mert a postai küldemény
 
-ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy „elköltözött”, vagy
+ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste”, „elköltözött”, „ismeretlen” vagy „kézbesítés akadályozott”, vagy
 
 bb) átvételét megtagadta, vagy
 

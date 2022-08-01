@@ -1,6 +1,6 @@
 ## Létesítési előírások
 
-31. § (1) A bányafelügyelet engedélye szükséges
+31. § (1) A bányafelügyelet engedélye vagy bejelentés szükséges
 
 a) az 1. § (1) bekezdés a)–m) pontjában meghatározott tevékenységek gyakorlásához szükséges építmények, létesítmények és berendezések, továbbá a cseppfolyós propán-, butángázok és ezek elegyei töltő és tároló létesítményeinek és elosztóvezetékeinek építéséhez, használatbavételéhez, javításához, átalakításához, bontásához és felhagyásához, valamint
 

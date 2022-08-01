@@ -134,13 +134,13 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 10. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
 
-11. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra,
+11. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra, és a meghirdetett bányászati jog ellenértékének meghatározására,
 
 12. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
 
 13. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
 
-14. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére, hatósági felügyeletére,
+14. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedély vagy bejelentés alapján történő építésére, használatbavételére, javítására, átalakítására,
 
 15. az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek vonatkozásában
 
@@ -164,7 +164,7 @@ i) a korrekciós intézkedések elvégzésére,
 
 j) az új tárolási engedélyes kijelölésére,
 
-16. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljárás, az építési tevékenységek körére, az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára,
+16. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljárásra és bejelentésre, az építési tevékenységek körére, az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára,
 
 17. az ásványi nyersanyag és geotermikus energiavagyon nyilvántartására,
 
@@ -176,7 +176,7 @@ j) az új tárolási engedélyes kijelölésére,
 
 21. a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges anyagnyerő hely engedélyezésére, az engedély iránti kérelem tartalmi követelményeire, a komplex műveleti terv tartalmára, az anyagnyerő hely létesítéséhez szükséges biztosítékokra, az anyagnyerő hely megszüntetésére irányuló kérelem tartalmi követelményeire,
 
-22. a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésre és gyakorlatra, valamint az ilyen munkakörben foglalkoztatottak alaptanfolyami és időszakos továbbképzésére,
+22. a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésre és gyakorlatra,
 
 23. az egyes munkabiztonsági szaktevékenységnek minősülő feladatok ellátásához szükséges szakmai képesítésre és gyakorlatra,
 
@@ -184,9 +184,9 @@ j) az új tárolási engedélyes kijelölésére,
 
 25. a bányatérképek méretarányára és tartalmi követelményeire,
 
-26. a polgári robbantási tevékenység műszaki-biztonsági követelményeit tartalmazó szabályzatra,
+26. a polgári robbantási tevékenység műszaki-biztonsági követelményeit tartalmazó szabályzatra és a robbantásvezetői és robbantómesteri képzés és vizsgáztatás rendjére, valamint a képzési programra,
 
-27. a bányászati és gázipari biztonsági szabályzatokra, a létesítmények tervezésére, létesítésére, üzembe helyezésére, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, és egyéb feltételeit tartalmazó biztonsági szabályzatokra, a műszaki-biztonsági irányítási rendszerek alkalmazási szabályaira, a szakági műszaki bizottságok létesítésére, feladataik és működésük rendjére,
+27. a bányászati és gázipari biztonsági szabályzatokra, a létesítmények tervezésére, létesítésére, üzembe helyezésére, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, és egyéb feltételeit tartalmazó biztonsági szabályzatokra, a műszaki-biztonsági irányítási rendszerek alkalmazási szabályaira,
 
 28. az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételeire, az e tevékenységre jogosító eljárás rendjére, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére,
 
@@ -206,13 +206,15 @@ j) az új tárolási engedélyes kijelölésére,
 
 36. a bányaüzem területén az egyéb gáztechnológia építésére, használatba vételére, üzemeltetésére, elbontására és felhagyására
 
+37. a szakági műszaki bizottságok létesítésére, feladataikra
+
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (1c) Felhatalmazást kap a Hatóság elnöke, hogy rendeletben területet zárt területté nyilvánítson.
 
 (1d) Felhatalmazást kap a Hatóság elnöke, hogy rendeletben állapítsa meg
 
-a) a bányafelügyeleti hatósági feladatokat ellátó személyek részére biztosítandó szolgálati igazolvány és jelvény biztosítására, használatára, az érintett személy azonosításához szükséges adattartalmára vonatkozó részletes szabályokat,
+a) a bányafelügyeleti hatósági feladatokat ellátó személyek részére biztosítandó szolgálati igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát,
 
 b) a bányafelügyelet tűzvédelmi hatósági jogkörébe tartozó létesítmények meghatározásának és a tűzvédelmi ellenőrzés részletes szabályait,
 
@@ -272,11 +274,7 @@ q)
 
 rendeletben történő megállapítására.
 
-(3) Felhatalmazást kap
-
-a)
-
-b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
+(3)
 
 (4)
 

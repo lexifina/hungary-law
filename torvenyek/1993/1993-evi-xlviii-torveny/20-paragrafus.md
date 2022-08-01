@@ -10,7 +10,7 @@
 
 a) a bányavállalkozó,
 
-b) az 1. § (2) bekezdése szerinti tevékenységre engedéllyel rendelkező, az 1. § (7) bekezdése szerinti engedélyes, valamint a 3. § (1a) bekezdés b) pontja, illetve (1d) bekezdése szerint kitermelésre jogosult, és
+b) az 1. § (2) bekezdése szerinti tevékenységre engedéllyel rendelkező, az 1. § (7) bekezdése szerinti engedélyes, az 1. § (7a) bekezdése szerinti tevékenységet végző, valamint a 3. § (1a) bekezdés b) pontja, illetve (1d) bekezdése szerint kitermelésre jogosult, és
 
 c) a geotermikus energiát kitermelő jogalany
 

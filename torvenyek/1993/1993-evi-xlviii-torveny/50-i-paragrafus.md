@@ -1,0 +1,3 @@
+50/I. § (1) Ha az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvény hatálybalépésekor az üzemszerű kitermelés megkezdésére vonatkozó, a 26/A. § (4) vagy (6b) bekezdésében megállapított határidőidőből kevesebb, mint egy év van hátra, ezt az időtartamot kell alkalmazni a 26/A. § (5) bekezdése szerinti jogkövetkezmény alkalmazása tekintetében.
+
+(2) Az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvény által megállapított 30. §-t az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvény hatálybalépésekor fennálló tényekre, jogviszonyokra és a folyamatban lévő ügyekben is alkalmazni kell.

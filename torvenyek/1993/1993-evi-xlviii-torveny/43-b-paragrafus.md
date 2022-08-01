@@ -6,7 +6,7 @@ b) a kutatási, kitermelési, szüneteltetési vagy bányabezárási, valamint m
 
 c) a bányafelügyelet építésügyi hatósági hatáskörébe tartozó – a műszaki üzemi tervben tervezett bányászati tevékenységgel ténylegesen igénybe vett területekkel, a létesítmény és biztonsági övezete területével kapcsolatos – engedélyezési eljárásokban,
 
-d) az építőipari nyers- és alapanyag esetében a hatósági engedély alapján gyakorolt bányászati jog átruházásához való hozzájárulás iránti eljárásban
+d)
 
 a bányászati joggal érintett ingatlan tulajdonosa.
 
@@ -16,7 +16,7 @@ a bányászati joggal érintett ingatlan tulajdonosa.
 
 (3) Az e törvényben vagy az e törvény végrehajtására kiadott jogszabályban meghatározott hatásterületen lévő ingatlan tulajdonosa, és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-(4)
+(4) A bányafelügyelet az általa kiadott engedélyek módosítását, a módosításokat külön jelölve, egységes döntésbe foglalva kiadmányozza.
 
 (5) A bányafelügyelet hatósági eljárásaiban
 

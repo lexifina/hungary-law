@@ -8,7 +8,7 @@
 
 (2) A bányafelügyelet feladata, hogy a felügyelete alá tartozó tevékenységek (44–46. §) végzése során védje a dolgozók életét, testi épségét és egészségét, ellenőrizze az ásvány- és geotermikusenergia-vagyonnal való gazdálkodásra, a környezet-, a táj- és a természetvédelemre, valamint a műszaki biztonságra és a tűzvédelemre vonatkozó szabályok megtartását.
 
-(3) A bányafelügyelet a hatósági felügyelete keretében – az e törvényben és a külön jogszabályokban meghatározott – műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, ásványvagyon-gazdálkodási, piacfelügyeleti és földtani hatásköröket gyakorol. A bányafelügyelet tűzvédelmi hatósági jogköre a bányák föld alatti, valamint ezzel egy tekintet alá eső külszíni részére terjed ki.
+(3) A bányafelügyelet a hatósági felügyelete keretében – az e törvényben és a külön jogszabályokban meghatározott – műszaki-biztonsági, munkavédelmi, foglalkoztatásfelügyeleti hatósági, építésügyi hatósági, építésfelügyeleti, ásványvagyon-gazdálkodási, piacfelügyeleti és földtani hatásköröket gyakorol. A bányafelügyelet tűzvédelmi hatósági jogköre a bányák föld alatti, valamint ezzel egy tekintet alá eső külszíni részére terjed ki.
 
 (4)
 
@@ -30,6 +30,6 @@
 
 (9e)
 
-(10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
+(10) A Hatóság a bányászati hatósági feladatokat ellátó személy részére igazolványt állít ki. Az igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. Az igazolvány személyes adatként tartalmazza a bányászati igazgatási feladatokat ellátó személy nevét és arcképét, valamint az igazolvány okmányazonosítóját.
 
 (11) A bányafelügyelet a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
