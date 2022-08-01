@@ -1,0 +1,3 @@
+6. § (1) A határvadász szolgálati érdekből határvadász beosztásában való meghagyása mellett, beleegyezése nélkül az általános rendőrségi feladatok ellátására létrehozott szerv bármely szervezeti egységéhez és bármely helységbe határvadász feladat teljesítésére átrendelhető.
+
+(2) A más helységbe való átrendelések együttes időtartama naptári évenként a négy hónapot nem haladhatja meg. A négy hónap leteltétől számított hat hónapon belül újabb átrendelésre nem kerülhet sor. Méltánylást érdemlő személyi vagy családi érdekből azonban e korlátoktól el lehet tekinteni. E korlátoktól a határvadász kérelmére is el lehet térni.
