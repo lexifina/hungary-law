@@ -1,0 +1,7 @@
+# 2021. évi LXII. törvény a szülői felelősséget érintő nemzetközi igazságügyi együttműködésről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-62-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2022-08-01 | 2021. évi LXII. törvény | 2021-62-00-00.0 (közlönyállapot) |

@@ -1,0 +1,1 @@
+12. § Ha a visszavitel iránti kérelem nem felel meg az Egyezmény 8. cikkében foglaltaknak, vagy más okból kiegészítésre szorul, a bíróság a kérelmezőt megfelelő határidő tűzésével hiánypótlásra hívja fel. Ha a kérelmező a hiányokat határidőben nem pótolja, a bíróság a kérelmet visszautasítja.

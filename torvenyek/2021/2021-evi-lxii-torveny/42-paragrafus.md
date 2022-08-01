@@ -1,0 +1,3 @@
+42. § A Vht. 208. §-a helyébe a következő rendelkezés lép:
+
+„208. § Ha a külföldi határozat a 205. § szerint végrehajtható, a 16. § c), illetve d) pontjában említett bíróság, valamint kapcsolattartás tárgyában hozott külföldi határozat tekintetében a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság a végzésével a külföldi határozatra végrehajtási tanúsítványt vezet, amelyben azt tanúsítja, hogy a határozat a magyar jog szerint a belföldi bíróság (választottbíróság) határozatával azonos módon végrehajtható.”

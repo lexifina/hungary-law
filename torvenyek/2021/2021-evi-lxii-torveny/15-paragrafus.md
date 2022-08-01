@@ -1,0 +1,1 @@
+15. § A bíróság a kérelmező kérelmére az eljárás során ideiglenes intézkedéssel a polgári perrendtartásról szóló törvényben foglalt feltételek hiányában is elrendelheti a kérelmezőnek a gyermekkel való kapcsolattartását, kivéve, ha az nyilvánvalóan ellentétes a gyermek érdekével.

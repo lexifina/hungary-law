@@ -1,0 +1,1 @@
+30. § Ha a Rendelet 12., 13., 15. és 20. cikkének alkalmazása körében a magyar bíróság, gyámhatóság vagy az Európai Unió valamely tagállamának bírósága vagy más hatósága a Rendelet 76. cikke alapján kijelölt magyar központi hatóság közreműködését kéri, az erre vonatkozó megkeresés teljesítése iránt a gyermekvédelmi központi hatóság intézkedik.

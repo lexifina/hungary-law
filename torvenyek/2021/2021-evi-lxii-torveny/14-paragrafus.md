@@ -1,0 +1,1 @@
+14. § Ha a kérelmező a kérelmet a 10. § szerinti bíróságon a gyermekelviteli központi hatóság közreműködése nélkül terjeszti elő, e bíróság a szülői felügyelet gyakorlásának rendezése iránt indított perben eljáró bíróságot értesíti az előtte indult eljárásról az Egyezmény 16. cikkének alkalmazása céljából.

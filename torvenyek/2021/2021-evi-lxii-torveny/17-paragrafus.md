@@ -1,0 +1,3 @@
+17. § (1) A bíróság az eljárás során a kérelmezőt és kérelmezettet is személyesen meghallgatja, és gondoskodik a gyermek meghallgatásáról is, kivéve, ha a gyermek ítélőképességének hiánya ezt nem teszi lehetővé. A meghallgatást legkésőbb a kérelemnek a bírósághoz érkezésétől számított 8. napra kell kitűzni, amelyhez a bíróság szükség esetén a gyermekelviteli központi hatóság közreműködését kérheti.
+
+(2) Bizonyításnak csak az Egyezmény 12–15. és 20. cikkében, valamint a Rendelet 27. cikk (1) és (3) bekezdésében meghatározott körben van helye. A bíróság bizonyítékok külföldről való beszerzése érdekében kérheti a gyermekelviteli központi hatóság közreműködését.
