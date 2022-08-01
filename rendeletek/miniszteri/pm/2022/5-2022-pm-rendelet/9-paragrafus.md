@@ -1,0 +1,7 @@
+## elhunyt, a fizetésre kötelezett örökösét a megfizetési kötelezettség alól mentesíti, vagy a kiadott fizetési felszólítást visszavonja.
+
+## 4. Az adó- és vámhatósági szolgálati jogviszony 10 éves kötelező fenntartását megelőző megszűnése, megszüntetése esetén a tisztjelölti képzési költségek időarányos megtérítésének szabályai
+
+9. § (1) Ha a tisztjelölti jogviszony megszűnését követően adó- és vámhatósági szolgálati jogviszonyba kinevezett foglalkoztatott (a továbbiakban: foglalkoztatott) szolgálati jogviszonya a NAV Szj. tv. 242/B. § (3) bekezdésében meghatározottak szerint szűnik meg vagy kerül megszüntetésre, a 6. § (2) bekezdésében meghatározott képzési költségek időarányos mértékű megtérítésének kötelezettségéről a munkáltatói jogkör gyakorlója által kiadott, a jogviszony megszüntetéséről szóló, vagy a jogviszony megszűnését megállapító okmányban kell tájékoztatni a foglalkoztatottat. A munkáltató által kiadott okmányban tájékoztatást kell adni arról, hogy a megtérítést a munkáltatói jogkör gyakorlója által megküldött fizetési felszólítás alapján kell a foglalkoztatottnak teljesítenie.
+
+(2) A visszafizetési kötelezettségre és az azzal kapcsolatos eljárásra a 2–3. alcímben foglalt rendelkezéseket kell alkalmazni, azzal, hogy a kérelmet a NAV vezetőjének címezve, a munkáltatói jogkör gyakorlójának kell benyújtani, a NAV vezetője részletfizetést legfeljebb 12 hónapos időtartamra engedélyezhet, és a tartozást csak különös méltánylást érdemlő esetben mérsékelheti vagy engedheti el.
