@@ -1,6 +1,5 @@
-## 18. §[^14]
+## 18. §[^12]
 
-## 8.[^15]
+## 8. A rendvédelmi igazgatási alkalmazottak rendvédelmi igazgatási szolgálati jogviszonyával összefüggő egyes szabályokról szóló 4/2019. (III. 11.) BM rendelet módosítása
 
-[^14]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 8. alcím (19–20. §) a 28. § (2) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+[^12]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
