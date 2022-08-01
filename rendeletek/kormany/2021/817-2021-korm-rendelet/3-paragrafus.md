@@ -1,1 +1,0 @@
-## 2. § 2022. február 1. napjával megszűnik az összes központi költségvetési szerv és közfeladatot ellátó intézménye mint felhasználók és az egyetemes szolgáltató között fennálló, az egyetemes szolgáltatásra vonatkozó árképzési szabályoknak megfelelő áron kötött villamosenergia-vásárlási szerződés.
