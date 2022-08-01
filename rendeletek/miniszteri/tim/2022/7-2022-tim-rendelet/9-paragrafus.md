@@ -1,0 +1,1 @@
+## „(4) Ha a légijármű parancsnoka repülési tervet nem nyújtott be, a (3) bekezdés a)–g) pontjában felsorolt repülési adatok megadásától függetlenül az adott repülésre a 45. § (6) bekezdésében meghatározottakat kell alkalmazni.”
