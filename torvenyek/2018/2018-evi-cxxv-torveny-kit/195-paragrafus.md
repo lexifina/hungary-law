@@ -10,7 +10,7 @@
 
 a) a politikai felsővezető jogalap nélkül felvett juttatására,
 
-b) a juttatás feltételeként a megbízatás megszűnését követően a vagyonnyilatkozat-tételi kötelezettség teljesítésére, és
+b)
 
 c) a juttatások igénybevételéhez szükséges adatok közlési kötelezettségére
 

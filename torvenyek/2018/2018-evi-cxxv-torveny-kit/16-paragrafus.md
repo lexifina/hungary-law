@@ -14,4 +14,4 @@
 
 (5) A politikai felsővezetők, a közigazgatási államtitkárok és a helyettes államtitkárok személyi anyagának nyilvántartását a Miniszterelnöki Kormányiroda vezeti.
 
-(6) A (2) bekezdés szerinti minisztérium közigazgatási államtitkára és a Miniszterelnöki Kormányiroda közigazgatási államtitkára megállapodást köthet a (2) bekezdés szerinti minisztériumnak a Miniszterelnöki Kormányiroda (5) bekezdés szerinti, 7. § (3) bekezdése szerinti, valamint 183. § (2), (3) és (7) bekezdése, továbbá a 186. § szerinti feladatai ellátásában való közreműködéséről.
+(6) A (2) bekezdés szerinti minisztérium közigazgatási államtitkára és a Miniszterelnöki Kormányiroda közigazgatási államtitkára megállapodást köthet a (2) bekezdés szerinti minisztériumnak a Miniszterelnöki Kormányiroda (5) bekezdés szerinti, 7. § (3) bekezdése szerinti, valamint 183. § (2), (4) és (7) bekezdése, továbbá a 186. § szerinti feladatai ellátásában való közreműködéséről.

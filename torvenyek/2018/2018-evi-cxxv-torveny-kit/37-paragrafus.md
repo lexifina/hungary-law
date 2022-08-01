@@ -6,42 +6,26 @@
 
 (3) A központi hivatalt létrehozó törvény erre irányuló rendelkezése alapján a központi hivatal vezetőjének feladat- és hatáskörét a központi hivatalt irányító miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár gyakorolja.
 
-(4) A (3) bekezdés szerinti esetben a központi hivatal vezetője helyettesének feladat- és hatáskörét a központi hivatalt irányító miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározott helyettes államtitkár gyakorolja.
+(4) A (3) bekezdés szerinti esetben az államtitkárt – a 24. § (2) bekezdésétől eltérően – a központi hivatalt létrehozó törvényben meghatározott vezető helyettesíti.
 
 (5) A (3) bekezdés szerinti államtitkár
 
 a) a (3) bekezdés szerinti tevékenysége tekintetében a központi hivatalt irányító miniszter által – a központi hivatal irányításával összefüggő hatáskörök gyakorlásán túlmenően – nem utasítható,
 
-b) nem gyakorolhat olyan, a központi hivatalt irányító minisztert megillető hatáskört, amely a központi hivatal irányításával összefüggő döntés meghozatalára irányul,
+b) e tisztsége keretében kizárólag a központi hivatal vezetőjét megillető feladat- és hatáskört gyakorolhat,
 
-c) nem helyettesítheti a központi hivatalt irányító minisztert és a központi hivatalt irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében azon központi hivatalt érintő irányító hatáskörök gyakorlásával összefüggésben, amely vezetőjének feladat- és hatáskörét gyakorolja,
+c) nem gyakorolhat a központi hivatalt irányító minisztert megillető hatáskört, nem helyettesítheti a központi hivatalt irányító minisztert, a központi hivatalt irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében, a központi hivatalt irányító miniszter hatáskörébe tartozó ügyekben kiadmányozási joggal nem ruházható fel, és nem gyakorolhat irányítási hatáskört a központi hivatalt irányító miniszter által vezetett minisztérium szervezeti egysége, foglalkoztatottja tekintetében.
 
-d) a központi hivatalt irányító miniszternek a központi hivatal irányításával, valamint a központi hivatal által hozott hatósági döntés felettes szervként történő felülvizsgálatával összefüggő hatáskörét átruházott hatáskörben gyakorló személyt, szervezeti egység vezetőjét – e tevékenységével összefüggésben – nem irányíthatja.
+(6)
 
-(6) A (4) bekezdés szerinti helyettes államtitkár
-
-a) tevékenységét a (3) bekezdés szerinti államtitkár irányítja,
-
-b) hatáskörébe a vezető-helyettesi tevékenységen kívül más minisztériumi szakmai feladat nem utalható,
-
-c) a központi hivatalt irányító miniszter által – a központi hivatal irányításával összefüggő hatáskörök gyakorlásán túlmenően – nem utasítható,
-
-d) nem gyakorolhat olyan, a központi hivatalt irányító minisztert megillető hatáskört, amely a központi hivatal irányításával összefüggő döntés meghozatalára irányul,
-
-e) a központi hivatalt irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében azon központi hivatalt érintő irányítási, valamint a központi hivatal által hozott hatósági döntés felettes szervként történő felülvizsgálatára vonatkozó hatáskörök gyakorlásával összefüggésben, amely vezetője helyettesének feladat- és hatáskörét gyakorolja,
-
-f) a központi hivatalt irányító miniszternek a központi hivatal irányításával, valamint a központi hivatal által hozott hatósági döntés felettes szervként történő felülvizsgálatával összefüggő hatáskörét átruházott hatáskörben gyakorló szervezeti egység vezetőjét – e tevékenységével összefüggésben – nem irányíthatja,
-
-g) tevékenységének az ellátását a központi hivatalt irányító miniszter által vezetett minisztériumban titkárság nem segíti.
-
-(7) A (4) bekezdés szerinti esetben, ha a központi hivatal irányításával összefüggő hatásköröket a központi hivatalt irányító miniszter által átruházott hatáskörben olyan helyettes államtitkár gyakorolja, akinek a tevékenységét a (3) bekezdés szerinti államtitkár irányítja, a központi hivatalt érintő irányítási hatáskörök gyakorlásával, valamint a központi hivatal által hozott hatósági döntés felettes szervként történő felülvizsgálatával összefüggésben a helyettes államtitkár tevékenységét a központi hivatalt irányító miniszter irányítja.
+(7)
 
 (8) A (3) bekezdés szerinti esetben
 
 a) a (3) bekezdés szerinti államtitkár a központi hivatal vezetőjének feladat- és hatásköre gyakorlásával összefüggésben nem jogosult illetményre és kormányrendeletben meghatározott juttatásokra,
 
-b) a (4) bekezdés szerinti helyettes államtitkár a központi hivatal vezetője helyettesének feladat- és hatásköre gyakorlásával összefüggésben nem jogosult illetményre és kormányrendeletben meghatározott juttatásokra,
+b)
 
-c) a központi hivatal vezetője és helyettesének a kinevezésével, kormányzati szolgálati jogviszonyával összefüggő szabályokat nem kell alkalmazni és
+c) a központi hivatal vezetője a kinevezésével, kormányzati szolgálati jogviszonyával összefüggő szabályokat nem kell alkalmazni és
 
-d) nem létesíthető vagy tartható fenn kormányzati szolgálati jogviszony a központi hivatal vezetője és vezetőjének helyettese feladatainak az ellátására.
+d) nem létesíthető vagy tartható fenn kormányzati szolgálati jogviszony a központi hivatal vezetője feladatainak az ellátására.
