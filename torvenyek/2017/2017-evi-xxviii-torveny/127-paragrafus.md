@@ -6,7 +6,7 @@
 
 a) 81. § (5) bekezdése a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő, a tagállamok bíróságai között együttműködéséről szóló, 2001. május 28-i 1206/2001/EK tanácsi rendeletnek,
 
-b) 101. § (1) bekezdése és 106. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendeletnek,
+b) 101. § (1) bekezdése és 106. §-a a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendeletnek,
 
 c) a 59. §-a a szerződésen kívüli kötelmi viszonyokra alkalmazandó jogról szóló („Róma II.”), 2007. július 11-i 864/2007/EK európai parlamenti és tanácsi rendeletnek,
 
