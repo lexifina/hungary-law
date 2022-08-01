@@ -10,8 +10,10 @@
 
 (6) Az üzemeltető biztosítja a számítógépes program jogszabályoknak megfelelő, biztonságos, átlátható és ellenőrizhető működését, jogosulatlan hozzáférés és adatmódosítás elleni védelmét.
 
-(7) Az üzemeltető a számítógépes program informatikai üzemeltetésére vonatkozóan Üzemeltetői Szabályzatot alkot, amelyet a honlapján közzétesz.
+(7)[^1] Az üzemeltető a számítógépes program informatikai üzemeltetésére vonatkozóan Üzemeltetői Szabályzatot készít.
 
 (8) Az 1. melléklet tartalmazza a számítógépes program felhasználóként történő alkalmazásával kapcsolatos, így különösen a számítógépes programot felhasználóként alkalmazók körével, a működés ellenőrzésével, a sorsolási művelet elvégzésével és naplózásával, a felszámoló szervezetek adatváltozásainak átvezetésével, valamint a hibák javításával kapcsolatos rendelkezésekre kiterjedő Felhasználói Szabályzat.
 
 (9) A számítógépes program bírósági felhasználóinak jogosultságait az üzemeltető állítja be a felhasználót foglalkoztató törvényszék elnöke által elektronikus úton megküldött megkeresés alapján.
+
+[^1]: Az 1. § (7) bekezdése a 33/2022. (VII. 29.) SZTFH rendelet 1. §-ával megállapított szöveg.

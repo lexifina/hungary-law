@@ -1,6 +1,6 @@
 ## 6. § Ez a rendelet 2021. november 1-jén lép hatályba.
 
-1. melléklet a 15/2021. (X. 29.) SZTFH rendelethez
+1. melléklet a 15/2021. (X. 29.) SZTFH rendelethez[^2]
 
 ## A felszámoló kijelölő program Felhasználói Szabályzata
 
@@ -18,7 +18,7 @@
 
 3.2. A számítógépes program központi infokommunikációs infrastruktúrájának biztosítása és ennek üzemeltetése a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet 1. melléklet 8. pont 11. alpontja szerint a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. mint alkalmazásüzemeltetési és alkalmazásfejlesztési szolgáltató feladata.
 
-3.3. A számítógépes program alkalmazásszintű üzemeltetését, karbantartását és fejlesztését az üzemeltető látja el. Az üzemeltető a számítógépes program informatikai üzemeltetéséről és működtetéséről külön üzemeltetői szabályzatban rendelkezik, melyet a honlapján közzétesz.
+3.3. A számítógépes program alkalmazásszintű üzemeltetését, karbantartását és fejlesztését az üzemeltető látja el. Az üzemeltető a számítógépes program informatikai üzemeltetéséről és működtetéséről külön üzemeltetői szabályzatban rendelkezik.
 
 4. A számítógépes program működésének ellenőrzése
 
@@ -141,3 +141,5 @@ Az „Adatváltoztatás kérésének indokolása” rovat kitöltése minden ese
 .........................................................
 
 bíró/titkár aláírása
+
+[^2]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 2. §-a szerint módosított szöveg.
