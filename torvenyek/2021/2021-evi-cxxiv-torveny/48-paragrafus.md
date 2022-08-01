@@ -1,11 +1,1 @@
-48. § (1) Az Eurt. tv. szerinti különleges tárgyaló testület a munkavállalók legalább kétharmadát képviselő tagjai kétharmados többségének egyetértésével dönthet arról, hogy ne kezdjenek egyeztetést, illetve a már megkezdett egyeztetéseket zárják le, és a fogadó tagállam részvételre vonatkozó hatályos szabályait alkalmazzák.
-
-(2) Ha az előzetes egyeztetések eredményeként az általános részvételi szabályok érvényesülnek, e szabályok sérelme nélkül a társaság korlátozhatja a munkavállalók képviselőinek arányát a jogutód társaság ügyvezető szervében. Ha azonban a társaság ügyvezető vagy felügyeleti szerve legalább egyharmad részben a munkavállalók képviselőiből áll, e korlátozás nem vezethet ahhoz, hogy az ügyvezető szervben a munkavállalók képviselőinek aránya egyharmadnál kevesebb legyen.
-
-(3) A határokon átnyúló műveletet megelőzően alkalmazott munkavállalói részvételi szabályok alkalmazandók a későbbi megállapodás alapján elfogadott szabályok alkalmazásának időpontjáig, vagy – megállapodás hiányában – ameddig az Eurt. tv. 48. § (2) bekezdésében meghatározott szabályok alkalmazásra kerülnek. A határokon átnyúló egyesülés esetén, ha az egyesülő társaságok közül legalább egynél az Eurt. tv. 18. § (1) bekezdés g) pontja szerinti munkavállalói részvétel megvalósult, az egyesülésben részt vevő társaságok dönthetnek úgy, hogy bármilyen előzetes egyeztetés nélkül közvetlenül alkalmazzák magukra az Eurt. tv. 48. § (1) és (3) bekezdésében, 49. §-ában és 50. §-ában foglalt általános részvételi szabályokat a bejegyzés napjától.
-
-(4) Ha a jogutód társaság vonatkozásában a munkavállalói részvételt biztosítani kell, a jogutód társaság köteles olyan társasági formát választani, amely lehetővé teszi a részvételi jogok gyakorlását.
-
-(5) Ha a jogutód társaságra a munkavállalói részvétel kötelező, akkor e társaságnak kötelező olyan intézkedéseket hoznia, amelyekkel biztosítja, hogy a munkavállalók részvételi jogai későbbi, határokon átnyúló művelet vagy tagállamon belüli átalakulás, egyesülés vagy szétválás során a határokon átnyúló művelet hatályossá válását követő négy évig, az e fejezetben megállapított szabályok alkalmazása által védelmet élvezzenek.
-
-(6) A társaság indokolatlan késedelem nélkül értesíti munkavállalóit vagy azok képviselőit a munkavállalói részvételről folytatott egyeztetések eredményéről.
+### 48. §

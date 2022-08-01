@@ -2,4 +2,4 @@
 
 (2) Ez a törvény az (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek a nyilvántartások összekapcsolására szolgáló rendszerre vonatkozó műszaki leírások és eljárások tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az (EU) 2020/2244 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. június 18-i (EU) 2021/1042 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3) Ez a törvény az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(3)

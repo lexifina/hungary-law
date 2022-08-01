@@ -6,9 +6,7 @@
 
 ## „k) az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelv, kivéve az (EU) 2019/1151 irányelv 1. cikkének az (EU) 2017/1132 irányelv 13i. cikkét, 13j. cikk (2) bekezdését, és 16. cikk (6) bekezdését megállapító rendelkezéseit.”
 
-(2) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 132. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) E törvény – végrehajtási rendeleteivel és a Ptk.-val együtt – az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+(2)
 
 (3) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 132. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
 

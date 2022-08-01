@@ -1,6 +1,6 @@
 67. § Hatályát veszti a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény
 
-a) 5. § f) pontja,
+a)
 
 b) 20. § (3) bekezdése,
 
@@ -16,8 +16,8 @@ g) 26. § (8) bekezdésében a „ , valamint közzététel” szövegrész,
 
 h) 29. § (2) bekezdés m) pontjában a „Cégközlönyben történő közzététele” szövegrész,
 
-i) 1. számú melléklet III. pont 10. alpontja,
+i)
 
-j) 2. számú melléklet III. pont 1. alpontja,
+j)
 
-k) 2. számú melléklet III. pont 3. alpontja.
+k)

@@ -1,1 +1,1 @@
-27. § A bíróság a fogadó tagállamtól kapott, a határokon átnyúló átalakulás időpontjáról szóló értesítés esetén törli a jogelőd magyar társaságot a nyilvántartásból, egyidejűleg pedig bejegyzi a nyilvántartásba a határokon átnyúló átalakulásra vonatkozó, a Ctv.-ben meghatározott adatokat, és azokat a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül nyilvánosan elérhetővé és hozzáférhetővé teszi.
+### 27. §

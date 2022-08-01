@@ -1,1 +1,1 @@
-20. § Ha az adóhatóság a 19. § (2) bekezdése szerinti határidő alatt arról tájékoztatja a bíróságot, hogy a társaságnál az adókötelezettségek teljesítésének ellenőrzésére irányuló, illetve ezzel összefüggő hatósági eljárás vagy az adóhatóság által foganatosítandó végrehajtási eljárás van folyamatban, vagy ilyen eljárást kezdeményez, a tanúsítvány kiadása iránti kérelem bírósághoz való érkezésétől számított 90. napon adható ki a tanúsítvány, feltéve, hogy a tanúsítvány kiadásának e törvény szerint akadálya egyébként nincs.
+### 20. §
