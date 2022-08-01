@@ -8,7 +8,7 @@
 
 (4) Ha a külföldi székhelyű vállalkozás megszűnt és ezt megelőzően, erre figyelemmel a (3) bekezdésben meghatározottak nem kérték az (1)–(2) bekezdés szerint a megszüntetést, illetve a törlést, a cégbíróság a (3) bekezdésben megjelölt szervezetet hivatalból törli a cégnyilvántartásból.
 
-(4a) A cégbíróság a (4) bekezdés szerint jár el akkor is, ha az EUID-val rendelkező külföldi székhelyű vállalkozás magyarországi fióktelepe esetében a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül – a 63. § (1c) bekezdése szerint – tudomást szerez a külföldi vállalkozás megszűnéséről, törléséről. E rendelkezés nem vonatkozik arra az esetre, ha a külföldi vállalkozás egyesülés, szétválás, illetve székhelyének határon átnyúló áthelyezése (átalakulása) miatt szűnt meg, illetve törölték.
+(4a) A cégbíróság a (4) bekezdés szerint jár el akkor is, ha az EUID-val rendelkező külföldi székhelyű vállalkozás magyarországi fióktelepe esetében a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül – a 63. § (1e) bekezdése szerint – tudomást szerez a külföldi vállalkozás megszűnéséről, törléséről. E rendelkezés nem vonatkozik arra az esetre, ha a külföldi vállalkozás egyesülés, szétválás, illetve székhelyének határon átnyúló áthelyezése (átalakulása) miatt szűnt meg, illetve törölték.
 
 (5) Az (1)–(4) bekezdésben foglaltak – az adóhatóság elektronikus értesítésére vonatkozó rendelkezés kivételével – megfelelően irányadók a külföldiek magyarországi kereskedelmi képviseletének törlésére is.
 

@@ -1,0 +1,1 @@
+131/P. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről és szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény hatálybalépését megelőzően a 24. § (1) bekezdés l) pontja szerinti, a cégjegyzékbe bejegyzett adat a cégjegyzékből nem kerül törlésre.

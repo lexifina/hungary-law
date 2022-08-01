@@ -14,10 +14,6 @@ b) magánokiratban vállalja a Civil tv. szerinti közhasznúsági feltételek t
 
 (6) Ha a közhasznú szervezetnek minősülő nonprofit gazdasági társaság jogutód nélkül megszűnik, a társaság tagjai részére a tartozások kiegyenlítése után csak a megszűnéskori saját tőke összege adható ki, legfeljebb a tagok vagyoni hányadának teljesítéskori értéke erejéig. Az ezt meghaladó vagyont a cégbíróság a létesítő okirat rendelkezései szerint fordítja közcélokra. Ilyen rendelkezés hiányában a fennmaradt vagyon a Nemzeti Együttműködési Alapot illeti.
 
-## II. Fejezet
+9. CÍM
 
-## A CÉGNYILVÁNTARTÁS NYILVÁNOSSÁGA ÉS KÖZHITELESSÉGE
-
-1. CÍM
-
-A nyilvánosság
+Online alapított cég

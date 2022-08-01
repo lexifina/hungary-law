@@ -26,7 +26,7 @@ k) a telephely valamennyi pénzforgalmi számláját, valamint az azokat vezető
 
 l) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
 
-m) az l) pontban foglalt végzésnek megfelelően a cégjegyzékadatok bejegyzésének, illetve törlése bejegyzésének Cégközlönyben történő közzététele napját.
+m) az l) pontban foglalt végzésnek megfelelően a cégjegyzékadatok bejegyzésének, illetve törlése bejegyzésének napját.
 
 (3) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelye esetében a cégjegyzék szükség szerint tartalmazza a 25. § a)–b) pontjában foglalt adatokat, valamint ha a külföldi székhelyű európai gazdasági egyesülés jogutód nélküli megszűnésére irányuló eljárás indult, az eljárás megindításának és befejezésének időpontját. A külföldi székhelyű európai gazdasági egyesülés jogutód nélküli megszűnése esetében a magyarországi telephelyet a cégbíróság törli a cégjegyzékből.
 

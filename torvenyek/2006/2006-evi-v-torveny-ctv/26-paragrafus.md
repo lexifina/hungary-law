@@ -56,6 +56,6 @@ o) a nyilvános szerkezetátalakítási eljárás kezdő napját és befejezés�
 
 (7) A cég tagja vagyoni részesedése lefoglalásának megszüntetését (pl. ha a foglalás alól a vagyoni részesedést feloldották, a követelést a végrehajtás során kielégítették, vagy az üzletrészt értékesítették) a bírósági végrehajtó vagy a végrehajtást foganatosító egyéb hatóság, illetve (pl. ha a végrehajtást megszüntették) a bíróság vagy a közigazgatási szerv közli elektronikus úton a cégbírósággal.
 
-(8) Az automatikus bejegyzés, valamint közzététel az (5)–(7) bekezdésben meghatározott esetekben is irányadó.
+(8) Az automatikus bejegyzés az (5)–(7) bekezdésben meghatározott esetekben is irányadó.
 
 (9) Az e § szerinti szervezetek elektronikus űrlap megküldésével tesznek eleget az elektronikus értesítési kötelezettségüknek. Az űrlap tartalmi és formai elemei a céginformációs szolgálat honlapján kerülnek közzétételre. A bejegyzés adatait igazoló okirat az űrlaphoz mellékletként csatolható. A mellékletként csatolt iratot anonimizált formában kell csatolni úgy, hogy abban az érintett természetes személy nevén túl további személyes adat ne legyen megismerhető.

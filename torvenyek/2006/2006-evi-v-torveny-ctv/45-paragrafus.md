@@ -1,4 +1,4 @@
-45. § (1) A cégbíróság a cégbejegyzési kérelmet az érkezését követően, legkésőbb három munkanapon belül formai szempontból megvizsgálja.
+45. § (1) A cégbíróság a cégbejegyzési kérelmet az érkezését vagy a 44. § (4) bekezdésében vagy a 44/A. § (2) bekezdésében meghatározott napot követően (e fejezetben a továbbiakban együtt: kérelem érkezése), legkésőbb három munkanapon belül formai szempontból megvizsgálja.
 
 (2) A cégbíróság a cégbejegyzés iránti kérelmet legkésőbb az (1) bekezdés szerinti határidő lejártának napján hiánypótlási eljárás lefolytatása nélkül visszautasítja, ha a cégbejegyzési kérelemhez nem nyújtották be a nyomtatványt vagy e törvény 1. számú mellékletében felsorolt valamennyi szükséges okiratot, illetve az illetéket vagy a költségtérítést nem vagy csak részben fizették meg. A mulasztás miatt igazolási kérelem előterjesztésének nincs helye.
 

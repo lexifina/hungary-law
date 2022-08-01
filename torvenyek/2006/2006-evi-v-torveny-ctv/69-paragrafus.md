@@ -1,4 +1,4 @@
-69. § (1) A cég bejegyzését követően a cég alapítása érvénytelenségének megállapítása iránt a cég ellen a cég bejegyzését elrendelő végzés Cégközlönyben történő közzétételétől számított hat hónapos jogvesztő határidőn belül a cég székhelye szerint illetékes törvényszék előtt indítható per. A perindításra az ügyész, illetve az jogosult, aki jogi érdekét valószínűsíti.
+69. § (1) A cég bejegyzését követően a cég alapítása érvénytelenségének megállapítása iránt a cég ellen a cég bejegyzését elrendelő végzés meghozatalának napjától számított hat hónapos jogvesztő határidőn belül a cég székhelye szerint illetékes törvényszék előtt indítható per. A perindításra az ügyész, illetve az jogosult, aki jogi érdekét valószínűsíti.
 
 (2) Perindításnak valamennyi cégforma tekintetében csak a következő érvénytelenségi ok fennállása esetében van helye:
 

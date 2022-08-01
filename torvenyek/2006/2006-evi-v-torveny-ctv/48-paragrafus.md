@@ -1,5 +1,7 @@
 48. § (1) Ha a cég alapításának bejegyzése iránti kérelméhez szerződésminta alapján készült létesítő okiratot csatolnak, a bejegyzési kérelemhez csatolt nyomtatványon ezt a körülményt fel kell tüntetni.
 
+(1a) A bejegyzési kérelem nyomtatványán a jogi képviselő nyilatkozik az online alapított cég cégbejegyzési eljárása feltételeinek fennállásáról.
+
 (2) A jogi képviselő a bejegyzési kérelemben nyilatkozik arról, hogy a csatolandó okiratok törvényességi szempontú vizsgálatát elvégezte, azok megfelelőségét szavatolja. A jogi képviselőnek a törvényességi szempontú vizsgálatára vonatkozó nyilatkozatát a bejegyzési kérelemnek tartalmaznia kell.
 
 (3) A cég bejegyzésére irányuló kérelem érdemi vizsgálatát fogalmazó, vagy bírósági ügyintéző önállóan lefolytathatja és a bejegyzési kérelmet elutasító végzés meghozatalára is önálló aláírási joggal jogosult. Ugyanez irányadó a többi olyan végzés meghozatalára is, amely ellen külön fellebbezésnek van helye.
@@ -18,7 +20,7 @@ c) a cég elnevezése – amennyiben a cég nem élt a 6. § szerinti névfoglal
 
 d) az adóhatóság értesítése alapján az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozata nem felel meg a jogszabályi előírásoknak,
 
-e) a cégjegyzék a cég tagja, vezető tisztségviselője, illetve cégvezetője vonatkozásában e törvény szerinti eltiltási bejegyzést tartalmaz, és annak alapján tagként, vezető tisztségviselőként való bejegyzésnek nincs helye, vagy
+e) a cég tagja, vezető tisztségviselője (cégvezetője), felügyelőbizottsági tagja cégjogi eltiltás miatt, illetve a Ptk. 3:22. § (4), illetve (5) bekezdése szerinti kizáró ok fennállása miatt a cégjegyzékbe nem jegyezhető be, továbbá, ha a pénzmosás és terrorizmus-finanszírozás elleni hatóság arról értesíti a cégbíróságot, hogy a bejegyzési kérelemben feltüntetett személy szerepel az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedésekről hozott határozatokban, vagy
 
 f) észleli, hogy azok az adatok, amelyeknek bejegyzését az adott cégformára vonatkozóan e törvény előírja, illetve a létesítő okirat, valamint a bejegyzési kérelem alapjául szolgáló, az 1. és 2. számú mellékletben felsorolt, kötelezően, illetve szükség szerint csatolandó egyéb okirat nem felel meg a jogszabályok rendelkezéseinek.
 
@@ -31,3 +33,5 @@ f) észleli, hogy azok az adatok, amelyeknek bejegyzését az adott cégformára
 (10) Ha a cég bejegyzését az elutasító végzés jogerőre emelkedését megelőzően, de a (9) bekezdésben meghatározott határidőn túl kérik, azt az elutasító végzés ellen előterjesztett fellebbezés visszavonásának vagy a végzés elleni fellebbezési jogról való lemondásnak kell tekinteni; az ezzel ellentétes nyilatkozat hatálytalan.
 
 9. CÍM
+
+Online alapított cég cégbejegyzési eljárása

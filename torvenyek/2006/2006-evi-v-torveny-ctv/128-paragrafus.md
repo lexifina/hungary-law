@@ -28,7 +28,7 @@ m) a cégbejegyzési (változásbejegyzési) kérelem céginformációs szolgál
 
 n) a szerződésminták, iratminták alkalmazásának feltételeire, a szerződésminták, iratminták tartalmi és formai követelményeire,
 
-o) az EUID képzésére, külföldi cégek vagy egyéb szervezetek EUID-jának adatkezelésére, a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül továbbított adatszolgáltatásért fizetendő költségtérítésre, a fizetés módjára,
+o) az EUID képzésére, külföldi cégek vagy egyéb szervezetek EUID-jának adatkezelésére, a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül továbbított adatszolgáltatásért fizetendő költségtérítésre, a fizetés módjára, az ingyenesen hozzáférhető cégiratok és cégadatok körére,
 
 p) a székhelyhasználat székhelyszolgáltatással való biztosítása esetén a székhelyszolgáltatási tevékenység végzésére, a székhely biztosításának feltételeire, a székhely biztosítására kötött szerződés tartalmára
 

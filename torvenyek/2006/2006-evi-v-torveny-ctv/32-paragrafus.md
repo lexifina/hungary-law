@@ -4,9 +4,11 @@ a) a bejegyzési eljárás folyamata alatt törvényességi felügyeleti kérele
 
 b) az állami adóhatóság értesítése alapján a cég adószámának megállapítása érdekében,
 
-c) változásbejegyzési eljárásban, illetve a cég bejegyzése esetén, amennyiben átalakulás bejegyzése történik, valamint
+c) változásbejegyzési eljárásban, illetve a cég bejegyzése esetén, amennyiben átalakulás bejegyzése történik,
 
-d) az elektronikus ügyintézést támogató rendszer kommunikációs hibája miatt
+d) az elektronikus ügyintézést támogató rendszer kommunikációs hibája miatt, valamint
+
+e) e törvény rendelkezése alapján
 
 kerülhet sor.
 

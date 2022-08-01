@@ -98,6 +98,8 @@ c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevé
 
 d) ha a külföldi vállalkozás az Európai Unió más tagállamában bejegyzett vállalkozás, a cég EUID-ját;
 
+(8a) A cégbíróság a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül kapott értesítés alapján hivatalból jegyzi be az EUID-val rendelkező külföldi vállalkozás magyarországi fióktelepe cégjegyzékében a külföldi vállalkozás cégjegyzékben nyilvántartott adatainak változását, továbbá a céginformációs szolgálat informatikai rendszere segítségével gondoskodik a külföldi vállalkozás számviteli beszámolójának közzétételéről.
+
 (9) Külföldiek magyarországi közvetlen kereskedelmi képviselete esetében
 
 a) a külföldi vállalkozás nevét, cégformáját, cégjegyzékszámát (nyilvántartási számát) és székhelyét,
