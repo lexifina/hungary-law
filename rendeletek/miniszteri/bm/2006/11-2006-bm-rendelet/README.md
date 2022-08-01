@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-11-20-0
 | 2019-07-01 | 2006-11-20-0A.21 | 27/2019. (VI. 28.) BM rendelet |
 | 2021-07-17 | 2006-11-20-0A.22 | 20/2021. (VII. 14.) BM rendelet |
 | 2021-12-19 | 2006-11-20-0A.23 | 45/2021. (XII. 16.) BM rendelet |
+| 2022-08-01 | 2006-11-20-0A.24 | 5/2022. (III. 31.) BM rendelet |
