@@ -8,8 +8,14 @@ b) az állammal szembeni kötelezettségét nem teljesíti, vagy
 
 c) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget vagy hamis adatot közöl.
 
-(3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság vagy engedély nélkül folytat az 1. § (1) bekezdésében felsorolt termék üzletszerű értékesítésére vonatkozó tevékenységet, őt a Hatóság 5 millió forinttól 500 millió forintig terjedő bírsággal sújtja, amelynek legfeljebb 50%-os mérséklése csak különös méltánylást érdemlő esetben lehetséges.
+(3) A jogosulatlan dohánytermék kiskereskedelmi tevékenységet folyató személyt a Hatóság
+
+a) természetes személy esetében 1 millió forinttól 50 millió forintig,
+
+b) gazdasági társaság esetében – ideértve az egyéni vállalkozót is – 5 millió forinttól 500 millió forintig
+
+terjedő bírsággal sújtja. Különös méltánylást érdemlő esetben a Hatóság a bírságot 50%-kal mérsékelheti.
 
 (4) A bírság együttesen, illetve a 23. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
 
-(5)
+(5) A (2)–(3) bekezdés szerinti bírságot a kötelezett a döntés véglegessé válásától számított 15 napon belül köteles megfizetni a Hatóság számlájára. A bírság megfizetésének módjára az adóigazgatási eljárás részletszabályairól szóló kormányrendeletnek az adófizetésre vonatkozó rendelkezései az irányadóak.

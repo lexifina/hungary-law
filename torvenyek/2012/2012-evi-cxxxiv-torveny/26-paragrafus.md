@@ -4,9 +4,9 @@ a) a dohánytermék-kiskereskedőkkel, a dohány-kiskereskedelmi ellátóval meg
 
 b) a dohánytermék-kiskereskedelemi jogosultság gyakorlására külön feljogosított személyek kötelezettségeinek ellenőrzésére,
 
-c) a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogsító engedéllyel rendelkező személyek közhiteles nyilvántartására,
+c) a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartására,
 
-d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére, és
+d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére,
 
 e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
 

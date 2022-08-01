@@ -84,6 +84,8 @@ dd) jövedéki engedélyes kereskedő;
 
 14. dohánylevél-töltő: kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére alkalmas.
 
+15. jogosulatlan dohánytermék kiskereskedelem: az 1. § (1) bekezdés szerinti termékek e törvény szerinti dohánytermék-kiskereskedelmi tevékenység folytatására jogosító engedély nélküli vagy a 10. § (1) bekezdés szerinti feljogosítás hiányában történő értékesítése; továbbá olyan termék értékesítése, amelynek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló kormányrendelet alapján, Magyarországon történő forgalomba hozatala tilos.
+
 (2) E törvény alkalmazásában
 
 a) a füst nélküli dohánytermék,

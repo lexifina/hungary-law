@@ -18,7 +18,7 @@ f) az ellenérték fizetési módját azzal, hogy az ellenértéket vagy teljes 
 
 (3) A dohánytermék-kiskereskedő nem köthet olyan szerződést, továbbá a polckép-szerződésben (vagy annak megkötésével összefüggésben) nem tehet olyan jognyilatkozatot (vállalást), amelynek alapján a dohánytermék-kiskereskedő kizárólag egy dohánytermék-nagykereskedő termékeit forgalmazza, vagy egy dohánytermék-nagykereskedő egyetlen termékét sem forgalmazza jogos ok nélkül és olyan helyzetet sem teremthet, amely a dohánytermék értékesítési helyén egyes dohánytermék-nagykereskedők termékeinek értékesítését – a többi piaci szereplő rovására súlyosan hátrányosan – lényeges mértékben előnyben részesíti. Tilos a polckép-szerződésben a koncessziós szerződéssel ellentétes vállalást tenni, továbbá egy vagy több polckép-szerződés megkötésével olyan helyzetet teremteni, amely a koncessziós szerződés megsértéséhez vezethet.
 
-(4) A dohánytermék-kiskereskedő tevékenysége során fogyasztó részére terméket ellenérték nélkül nem adhat. Tilos az 1. § (1) bekezdésében felsorolt bármely terméket más, akár az 1. § (1) bekezdésben felsorolt termékkel együtt csomagolva, sorsolásos, vagy más hasonló játékra való felhívás útján, vagy más fogyasztást ösztönző módon értékesíteni.
+(4) A dohánytermék-kiskereskedő tevékenysége során az 1. § (1) bekezdés szerinti és dohányterméket, kiegészítő terméket ellenérték nélkül nem adhat. Tilos az 1. § (1) bekezdésében felsorolt bármely terméket más, akár az 1. § (1) bekezdésben felsorolt termékkel együtt csomagolva, sorsolásos, vagy más hasonló játékra való felhívás útján, vagy más fogyasztást ösztönző módon értékesíteni.
 
 (5) A (2)–(4) bekezdés rendelkezéseibe ütköző jogügylet semmis.
 

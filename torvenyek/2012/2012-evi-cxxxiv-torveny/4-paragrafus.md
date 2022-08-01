@@ -6,9 +6,11 @@ a) előkészíti a dohánytermék-kiskereskedelmi jogosultság átengedéséről
 
 b) kezeli a koncessziós szerződéseket,
 
-c) ellátja a koncessziós szerződésekből eredő számlázási feladatokat, és
+c) ellátja a koncessziós szerződésekből eredő számlázási feladatokat,
 
-d) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat.
+d) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat, és
+
+e) kijelöli a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyt.
 
 (3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)
 
@@ -30,10 +32,12 @@ h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultáci�
 
 i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
 
-j) jogszabályban meghatározottak szerint fogadja a dohányboltban forgalmazható termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
+j) fogadja a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló rendeletében meghatározott, dohányboltban forgalmazott termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
 
 k) a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
 
 l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyek kötelezettségeit ellenőrzi.
+
+m) eljár a jogosulatlan dohánytermék-kiskereskedelmi tevékenységet folytatókkal szemben.
 
 (4)
