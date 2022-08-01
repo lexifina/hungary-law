@@ -1,0 +1,1 @@
+Az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet 14. §-ában kapott felhatalmazás alapján, az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet 3. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
