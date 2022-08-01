@@ -14,7 +14,7 @@ e) a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.)
 
 és az e törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó szervezetek, személyek ezen jogszabályok szerinti tevékenységének felügyeletét, valamint az e jogszabályokban meghatározott, a Hatóság feladat és hatáskörébe tartozó feladatokat.
 
-(2) A Hatóság látja el szerencsejátékot népszerűsítő reklám tekintetében a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésében és 21. §-ában foglaltak megsértése esetén a fogyasztóvédelmi hatósági feladatokat.
+(2) A Hatóság látja el a szerencsejátékot népszerűsítő reklám tekintetében a gazdasági reklám tevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésében és 21. §-ában foglaltak, valamint a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 17. § (2) bekezdése szerinti rendelkezések tekintetében a fogyasztóvédelmi hatósági feladatokat.
 
 (3) A Hatóság szerencsejáték ügyben felügyeleti és ellenőrzési tevékenységet gyakorol a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény és ezen törvények végrehajtására kiadott rendeletek rendelkezéseinek a betartását illetően az ezen jogszabályok hatálya alá tartozó szerencsejátékokat és szerencsejáték-szervezőket érintően.
 
@@ -32,7 +32,7 @@ e) véleményezi a koncesszióval kapcsolatos jogszabálytervezeteket, valamint 
 
 f) statisztikai adatokat gyűjt a koncessziós eljárásokról, a koncessziós szerződésekről, amely statisztikai adatokat honlapján rendszeres időközönként közzétesz,
 
-g) előzetes egyetértési jogot gyakorol az állam nevében történő koncessziós pályázat kiírása, elbírálása, ajánlattételi felhívás kiküldése, továbbá a koncessziós szerződés megkötése, a koncessziós szerződés módosítása, megszüntetése tekintetében.
+g) előzetes egyetértési jogot gyakorol az állam nevében történő koncessziós pályázat kiírása, ajánlattételi felhívás, ajánlattételi eljárás, valamint a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 10/A. §-a szerinti eljárás lefolytatása, továbbá a koncessziós szerződés megkötése, a koncessziós szerződés módosítása, az állam nevében történő megszüntetése tekintetében.
 
 (5) Az (EU) 2018/574 bizottsági végrehajtási rendelet 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság.
 

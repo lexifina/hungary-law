@@ -1,4 +1,4 @@
-11. § (1) A Hatóság elnöke jogviszonyának a 9. § (1) bekezdés a) és b) pontja, valamint elnökhelyettese jogviszonyának a 10. § (1) bekezdés a) és b) pontja szerinti megszűnése esetén megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítésre jogosult. Ha a Hatóság elnöke, illetve elnökhelyettese három évnél rövidebb ideig töltötte be tisztségét, úgy a (2) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
+11. § (1) A Hatóság elnöke jogviszonyának a 9. § (1) bekezdés a) és b) pontja, valamint elnökhelyettese jogviszonyának a 10. § (1) bekezdés a) és d) pontja szerinti megszűnése esetén megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítésre jogosult. Ha a Hatóság elnöke, illetve elnökhelyettese három évnél rövidebb ideig töltötte be tisztségét, úgy a (2) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
 
 (2) A Hatóság elnöke és elnökhelyettese jogviszonyának megszűnése után egy éven át
 

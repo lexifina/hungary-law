@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-32-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 2021-32-00-00.13 |
 | 2022-06-01 | 2021. évi CXXXVI. törvény | 2021-32-00-00.14 |
 | 2022-07-01 | 2021. évi CXXXVI. törvény | 2021-32-00-00.15 |
+| 2022-08-01 | 2022. évi XIX. törvény | 2021-32-00-00.16 |
