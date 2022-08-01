@@ -36,7 +36,7 @@ aa) a munkaviszony megszűnésekor járó végkielégítést, a kollektív szerz
 
 ab) az adós által a kölcsönbeadóval kötött munkaerő-kölcsönzési szerződésben foglalt, az adóst, mint kölcsönvevőt terhelő díjból az adóshoz kölcsönzött munkavállalók részére járó, a kölcsönbeadó által fizetendő munkabért és egyéb bérjellegű juttatásokat, és
 
-ac) az adós által az iskolaszövetkezettel megkötött szerződésben foglalt, az adóst, mint az iskolaszövetkezet szolgáltatásának igénybevevőjét terhelő díj 85%-át – amely az iskolaszövetkezetnek járó díjból a feladatteljesítés során személyesen közreműködő iskolaszövetkezeti tagok részére járó díj és a díjhoz kapcsolódó egyéb juttatások összegét foglalja magában –, továbbá
+ac) az adós által az iskolaszövetkezettel, a közérdekű nyugdíjas szövetkezettel és a kisgyermekkel otthon lévők szövetkezetével megkötött szerződésben foglalt, az adóst mint az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete szolgáltatásának igénybevevőjét terhelő díj 85%-át – amely az iskolaszövetkezetnek, a közérdekű nyugdíjas szövetkezetnek és a kisgyermekkel otthon lévők szövetkezetének járó díjból a feladatteljesítés során személyesen közreműködő iskolaszövetkezeti tagok, közérdekű nyugdíjas szövetkezeti tagok, valamint a kisgyermekkel otthon lévők szövetkezete tagjai részére járó díj és a díjhoz kapcsolódó egyéb juttatások összegét foglalja magában –, továbbá
 
 ad) ha a felszámolás kezdő időpontját megelőzően esedékessé vált munkabért és egyéb bérjellegű juttatásokat a felszámoló a felszámolás kezdő időpontja után fizette ki, az ezeket terhelő adó- és járulékfizetési kötelezettséget is;
 

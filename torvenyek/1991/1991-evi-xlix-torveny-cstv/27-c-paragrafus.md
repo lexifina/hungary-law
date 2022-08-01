@@ -68,6 +68,8 @@ h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási
 
 (4a) A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdése és a 66. § (6) bekezdése alapján vezetett hatósági nyilvántartások adatai – a (4) bekezdés b) pontjában megjelölt lakóhely és a (4) bekezdés f) pontjában megjelölt adatok kivételével – közérdekből nyilvános adatok.
 
+(4b) Ha a Hatóság a felszámolót a felszámolói névjegyzékbe felveszi, a Hatóság névjegyzék-vezetést támogató informatikai rendszere – a felszámoló által lefolytatott csődeljáráshoz, felszámolási eljáráshoz kapcsolódó bírósági vagy más hatósági eljárásban a bíróság vagy a hatóság számára történő adatszolgáltatás céljából – a felszámoló névjegyzékből való törlését követő 5 évig tárolja a felszámoló által szolgáltatott, a közérdekből nyilvános adatok körét meghaladó (4) bekezdés szerinti adatokat.
+
 (5) A Hatóság a felszámoló szervezet vezetőjére 30 000 forinttól 400 000 forintig terjedő bírságot szab ki, ha
 
 a) hamis vagy valótlan adatot, dokumentumot szolgáltat, hamis vagy valótlan tartalmú nyilatkozatot tesz,
@@ -76,7 +78,7 @@ b) megszegi a (3) bekezdés szerinti tilalmat,
 
 c) nem teljesíti vagy késedelmesen teljesíti a (2) bekezdés f) pontja szerinti kötelezettségét,
 
-d) figyelmeztetés ellenére nem teljesíti a felszámolók névjegyzékébe történő felvételével összefüggésben benyújtott pályázatában vállalt többletfeltételeket, vagy
+d) figyelmeztetés ellenére nem teljesíti a felszámolók névjegyzékébe történő felvételével összefüggésben benyújtott pályázatában vállalt feltételeket, vagy
 
 e) megszegi a jogszabályban előírt
 
@@ -122,7 +124,7 @@ ib) két éven belül legalább három ügyben
 
 jogerősen elrendelte a felszámoló szervezet felmentését,
 
-j) ha a felszámoló szervezet bírság kiszabását követően sem teljesíti a névjegyzékbe történő felvételével összefüggésben benyújtott pályázatában vállalt többletfeltételeket,
+j) ha a felszámoló szervezet bírság kiszabását követően sem teljesíti a névjegyzékbe történő felvételével összefüggésben benyújtott pályázatában vállalt feltételeket,
 
 k) ha csődeljárásban, felszámolási eljárásban vagy helyi önkormányzatok adósságrendezési eljárásában eljáró bíróság a felszámoló szervezetet két éven belül legalább háromszor jogszabálysértés vagy mulasztás miatt jogerősen pénzbírsággal sújtotta,
 

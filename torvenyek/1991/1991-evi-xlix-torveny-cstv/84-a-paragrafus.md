@@ -8,7 +8,7 @@ b) a felszámolási eljárásban az adós vagyontárgyainak nyilvános értékes
 
 c)
 
-d) a felszámolók, vagyonfelügyelők, ideiglenes vagyonfelügyelők eljárására és tevékenységére vonatkozó részletes szabályokat,
+d)
 
 e)
 
