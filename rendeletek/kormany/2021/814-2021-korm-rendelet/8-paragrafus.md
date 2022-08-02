@@ -4,8 +4,9 @@
 
 (2) Az Áht. 29. § (1) bekezdésében meghatározott egyedi határozatot a Kormánynak a 2021. évben nem kell kiadnia.
 
-(3) A Kvtv. 1 melléklet XLVII. Gazdaság-Újraindítási Alap fejezet, 1. cím, 1. alcím, 1. Gazdaság-újraindítási programok jogcímcsoport előirányzat terhére előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető a Kormány jóváhagyásával az energiahordozók áremelkedéséből fakadó kedvezőtlen gazdasági következmények megelőzése és csökkentése, valamint az állami vagyon gyarapodása céljából, amennyiben e túllépéssel is teljesül az államadósság-mutató csökkenése a 2022. évben.
+(3)[^9] A Kvtv. 1 melléklet XLVII. Gazdaság-Újraindítási Alap fejezet, 1. cím, 1. alcím, 1. Gazdaság-újraindítási programok jogcímcsoport előirányzat terhére előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető a Kormány jóváhagyásával a kedvezőtlen gazdasági következmények megelőzése és csökkentése, valamint az állami vagyon gyarapodása céljából, amennyiben e túllépéssel is teljesül az államadósság-mutató csökkenése a 2022. évben.
 
-(4)[^9] A Kvtv. 2. melléklet 22.6.2. pontjától eltérően a támogatás szempontjából a „Menekültek, befogadottak, oltalmazottak ideiglenes ellátása és támogatása” kormányzati funkción elszámolt kiadások is figyelembe vehetők.
+(4)[^10] A Kvtv. 2. melléklet 22.6.2. pontjától eltérően a támogatás szempontjából a „Menekültek, befogadottak, oltalmazottak ideiglenes ellátása és támogatása” kormányzati funkción elszámolt kiadások is figyelembe vehetők.
 
-[^9]: A 8. § (4) bekezdését a 196/2022. (V. 27.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A 8. § (3) bekezdése a 282/2022. (VIII. 1.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^10]: A 8. § (4) bekezdését a 196/2022. (V. 27.) Korm. rendelet 3. §-a iktatta be.

@@ -1,4 +1,4 @@
-8/A. §[^10] (1) A központi költségvetés fejezetrendjében az Áht. 33. § (1) bekezdésétől és a Kvtv. 1. mellékletétől eltérően az L. Rezsivédelmi Alap fejezet jön létre.
+8/A. §[^11] (1) A központi költségvetés fejezetrendjében az Áht. 33. § (1) bekezdésétől és a Kvtv. 1. mellékletétől eltérően az L. Rezsivédelmi Alap fejezet jön létre.
 
 (2) Az Áht. 33. § (1) bekezdésétől és a Kvtv. 1. mellékletétől eltérően a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 32. Egyéb költségvetési kiadások cím, 1. Vegyes kiadások alcím, 23. Energiaügyi kiadások jogcímcsoport elnevezése és címrendi besorolása a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet, 1. Rezsivédelmi Alap központi kiadása címre változik.
 
@@ -14,4 +14,4 @@
 
 (8) Az L. Rezsivédelmi Alap fejezet, 1. Rezsivédelmi Alap központi kiadásai cím előirányzat felhasználásáról a Kormány egyedi határozattal dönt.
 
-[^10]: A 8/A. §-t a 224/2022. (VI. 22.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^11]: A 8/A. §-t a 224/2022. (VI. 22.) Korm. rendelet 6. § (2) bekezdése iktatta be.
