@@ -20,7 +20,7 @@ b) részt vesz a feladatához kapcsolódó kormányzati egyeztetéseken.
 
 4. A kormánybiztos tevékenységét a miniszterelnök irányítja.
 
-5. A kormánybiztos az e határozat szerinti feladatköre ellátásáért díjazásban és juttatásban nem részesül.
+5.[^1] A kormánybiztos az e határozat szerinti feladatköre ellátásáért a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (2) bekezdésében foglaltak alapján díjazásban és juttatásban részesül.
 
 6. A kormánybiztost a tevékenysége ellátásában a Belügyminisztérium szervezetében működő ötfős titkárság segíti.
 
@@ -28,6 +28,7 @@ b) részt vesz a feladatához kapcsolódó kormányzati egyeztetéseken.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-9.[^1]
+9.[^2]
 
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont az 1381/2022. (VIII. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
