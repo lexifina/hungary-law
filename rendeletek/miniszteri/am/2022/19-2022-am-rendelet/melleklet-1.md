@@ -1,5 +1,3 @@
-## 17. § Hatályát veszti a vadászvizsgát megelőző tanfolyamról és a vadászvizsgáról szóló 126/2013. (XII. 17.) VM rendelet.
-
 1. melléklet a 19/2022. (VII. 29.) AM rendelethez
 
 A vadászvizsgát megelőző tanfolyam szervezésének engedélyezéséhez szükséges feltételek
