@@ -1,3 +1,1 @@
-49. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 528. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A kötelezett keresettel kérheti a szülői felelősséget érintő nemzetközi igazságügyi együttműködésről szóló törvény alapján a jogellenesen Magyarországra hozott gyermek visszavitelét elrendelő határozat végrehajtásának megszüntetését, ha a végrehajtás a gyermek számára tartósan a testi vagy lelki károsodás súlyos kockázatával járna a határozat meghozatala után felmerült akadályokból kifolyólag vagy a körülmények jelentős megváltozása folytán. A bíróság a végrehajtás megszüntetésének indokoltságával kapcsolatban kikéri a gyámhatóság véleményét.”
+49. §
