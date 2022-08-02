@@ -10,6 +10,6 @@
 
 | 512973392 | 659085,120 | 258349,810 |
 
-9. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^316]
+9. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^318]
 
-[^316]: A 9. mellékletet a 16/2022. (I. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 112/2022. (III. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^318]: A 9. mellékletet a 16/2022. (I. 20.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 112/2022. (III. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
