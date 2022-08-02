@@ -2,19 +2,19 @@
 
 a)
 
-b) 20. § (3) bekezdése,
+b)
 
-c) 24. § (1) bekezdés l) pontja,
+c)
 
-d) 24. § (4) bekezdésében az „és közzététel” szövegrész,
+d)
 
-e) 24. § (4b) bekezdésében az „és közzététele” szövegrész,
+e)
 
-f) 24. § (6) bekezdésében az „és közzététele” szövegrész,
+f)
 
-g) 26. § (8) bekezdésében a „ , valamint közzététel” szövegrész,
+g)
 
-h) 29. § (2) bekezdés m) pontjában a „Cégközlönyben történő közzététele” szövegrész,
+h)
 
 i)
 

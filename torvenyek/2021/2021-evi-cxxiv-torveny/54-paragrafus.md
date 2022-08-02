@@ -1,3 +1,1 @@
-## „(7) Az európai gazdasági egyesülés, az európai részvénytársaság, az európai szövetkezet, az európai gazdasági egyesülés telephelyének cégbejegyzésére, valamint törlésére vonatkozó adatoknak a cégjegyzékbe való bejegyzését követő harminc napon belül a cégbíróság intézkedik az adatoknak az Európai Unió Hivatalos Lapjában történő nyilvánosságra hozataláról az Európai Unió hivatalos közlemények közzétételéért felelős hivatalának való megküldés útján. Ennek során a cégbíróság feltünteti a bejegyzésre vonatkozó végzésének számát, a végzés keltét, azt a tényt, hogy megjelentetésre Magyarországon a Cégközlönyben is sor került, valamint a Cégközlönyben történt megjelenés napját is.”
-
-54. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 22. §-a helyébe a következő rendelkezés lép:
+### 54. §

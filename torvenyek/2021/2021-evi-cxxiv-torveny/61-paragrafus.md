@@ -1,3 +1,1 @@
-## „e) a cég tagja, vezető tisztségviselője (cégvezetője), felügyelőbizottsági tagja cégjogi eltiltás miatt, illetve a Ptk. 3:22. § (4), illetve (5) bekezdése szerinti kizáró ok fennállása miatt a cégjegyzékbe nem jegyezhető be, továbbá, ha a pénzmosás és terrorizmus-finanszírozás elleni hatóság arról értesíti a cégbíróságot, hogy a bejegyzési kérelemben feltüntetett személy szerepel az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedésekről hozott határozatokban, vagy”
-
-61. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény IV. Fejezete a következő 9. Címmel egészül ki:
+### 61. §

@@ -1,3 +1,1 @@
-## „(8a) A cégbíróság a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül kapott értesítés alapján hivatalból jegyzi be az EUID-val rendelkező külföldi vállalkozás magyarországi fióktelepe cégjegyzékében a külföldi vállalkozás cégjegyzékben nyilvántartott adatainak változását, továbbá a céginformációs szolgálat informatikai rendszere segítségével gondoskodik a külföldi vállalkozás számviteli beszámolójának közzétételéről.”
-
-57. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+### 57. §
