@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-217-20-
 | 2022-06-19 | 2022-217-20-22.2 | 2010: CXXX. törvény |
 | 2022-07-02 | 2022-217-20-22.3 | 2022. évi VI. törvény |
 | 2022-08-01 | 2022-217-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-08-02 | 2022-217-20-22.5 | 2010: CXXX. törvény |
