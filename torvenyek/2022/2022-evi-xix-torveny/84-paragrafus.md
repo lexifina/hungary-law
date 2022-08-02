@@ -1,25 +1,25 @@
 84. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény
 
-a) 4. § (2) bekezdés c) pontjában a „feladatokat, és” szövegrész helyébe a „feladatokat,” szöveg,
+a)
 
-b) 4. § (2) bekezdés d) pontjában a „feladatokat.” szövegrész helyébe a „feladatokat, és” szöveg,
+b)
 
 c)
 
-d) 13. § (3) bekezdésében az „akit – a 10. §-ban foglaltak kivételével – érvényes” szövegrész helyébe az „akit érvényes” szöveg,
+d)
 
-e) 13. § (10) bekezdésében az „a Hatóság az engedélyt visszavonja.” szövegrész helyébe az „az engedély hatályát veszti.” szöveg,
+e)
 
-f) 13. § (14) bekezdésében az „a (4) bekezdést” szövegrész helyébe az „a (4) és a (7a) bekezdést” szöveg és az „a 10. § (1) bekezdés b) pontja” szövegrész helyébe az „a 10. § (1) bekezdése” szöveg,
+f)
 
-g) 15. § (4) bekezdésében a „legfeljebb két alkalommal – június 30-i, illetve december 31-i fordulónappal” szövegrész helyébe a „legfeljebb négy alkalommal – március 31-i, június 30-i, szeptember 30-i, illetve december 31-i fordulónappal” szöveg, az „e szándékát legalább 15 nappal megelőzően köteles a vámhatóságnak bejelenteni, és köteles biztosítani azt is,” szövegrész helyébe a „köteles biztosítani,” szöveg,
+g)
 
-h) 15/D. § (4) bekezdésében a „fogyasztó részére terméket” szövegrész helyébe az „az 1. § (1) bekezdés szerinti és dohányterméket, kiegészítő terméket” szöveg,
+h)
 
 i)
 
-j) 26. § c) pontjában a „jogsító” szövegrész helyébe a „jogosító” szöveg,
+j)
 
-k) 26. § d) pontjában az „ellenőrzésére, és” szövegrész helyébe az „ellenőrzésére,” szöveg
+k)
 
 lép.

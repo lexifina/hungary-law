@@ -1,1 +1,1 @@
-87. § A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 7. § (2) bekezdésében a „nem tartozik a Kormány rendeletében” szövegrész helyébe a „nem tartozik törvényben vagy a Kormány rendeletében” szöveg lép.
+87. §

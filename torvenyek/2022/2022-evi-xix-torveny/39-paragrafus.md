@@ -1,3 +1,1 @@
-39. § A bányászatról szóló 1993. évi XLVIII. törvény 22. § (14) bekezdése helyébe a következő rendelkezés lép:
-
-„(14) A bányavállalkozó a kutatási területet vagy annak egy részét a bányatelek-megállapítási kérelem benyújtásáig visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, a környezetvédelmi, a földvédelmi és talajvédelmi kötelezettségeket teljesítették. A visszaadott területen a határozat véglegessé válásának napján az adományozott kutatási joga megszűnik vagy a jogosult kutatási engedélye hatályát veszti.”
+39. §
