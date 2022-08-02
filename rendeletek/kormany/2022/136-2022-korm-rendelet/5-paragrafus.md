@@ -1,1 +1,3 @@
-## „(2) A solymászmadár-tartási engedély kiadásának feltétele a minisztérium honlapján közzétett mikroszatellita markerek alapján meghatározott genetikai profil benyújtása a természetvédelmi hatósághoz. A szalagos álölyv (Parabuteo unicinctus) tartási engedélyéhez genetikai profil benyújtása nem szükséges. Solymászmadár külföldről történő behozatala esetén a genetikai profilt a behozatal napjától számított legfeljebb 60 napon belül kell benyújtani. Nemzetközi solymásztalálkozó megrendezése céljából kérelmezett solymászmadár-tartási engedélyhez genetikai profil benyújtása nem szükséges.”
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

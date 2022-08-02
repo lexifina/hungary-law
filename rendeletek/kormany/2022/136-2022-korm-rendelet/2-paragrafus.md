@@ -1,5 +1,3 @@
-## 1. § A védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet [a továbbiakban: 348/2006. (XII. 23.) Korm. rendelet] 2. §-a a következő k) ponttal egészül ki:
+## 1. §[^2]
 
-## (E rendelet alkalmazásában)
-
-## „k) genetikai profil: egyedi azonosításra vagy az egyed leszármazásának igazolására alkalmas, genetikai markereken alapuló laborvizsgálat eredménye.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
