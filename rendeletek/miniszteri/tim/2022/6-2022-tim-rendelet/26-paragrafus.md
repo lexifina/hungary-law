@@ -1,3 +1,5 @@
 ## a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-26. § Hatályát veszti a légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásáról szóló 21/2019. (VIII. 2.) ITM rendelet.
+26. §[^1]
+
+[^1]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
