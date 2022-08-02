@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-462-20-
 | --- | --- | --- |
 | 2020-10-22 | 2020-462-20-22.1 | 462/2020. (X. 21.) Korm. rendelet |
 | 2021-07-16 | 2020-462-20-22.2 | 420/2021. (VII. 15.) Korm. rendelet |
+| 2022-08-02 | 2020-462-20-22.3 | 285/2022. (VIII. 1.) Korm. rendelet |
