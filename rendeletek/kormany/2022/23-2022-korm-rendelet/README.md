@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-23-20-2
 | 2022-06-02 | 2022-23-20-22.10 | 2010: CXXX. törvény |
 | 2022-06-03 | 2022-23-20-22.11 | 2010: CXXX. törvény |
 | 2022-08-01 | 2022-23-20-22.12 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-08-02 | 2022-23-20-22.13 | 2010: CXXX. törvény |
