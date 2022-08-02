@@ -1,4 +1,4 @@
-## 47. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek tisztjelöltjeiről és a tisztjelölti szolgálati jogviszonyról szóló 20/2016. (VI. 9.) BM rendelet.
+## 47. §[^4]
 
 1. melléklet az 5/2022. (III. 31.) BM rendelethez
 
@@ -45,3 +45,5 @@
 2.6. Mászóöv és tartozékai
 
 2.7. Komplett légzőkészülék
+
+[^4]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
