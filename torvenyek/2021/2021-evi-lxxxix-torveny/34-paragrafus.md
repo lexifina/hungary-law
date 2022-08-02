@@ -1,4 +1,4 @@
-34. § Az államháztartásról szóló 2011. évi CXCV. törvény
+34. §
 
 1.
 
@@ -14,12 +14,10 @@
 
 7.
 
-8. 44. § (1) bekezdésében a „teljesítése – ideértve a szakképzési hozzájárulás bevallási kötelezettségét is –, továbbá” szövegrész helyébe a „teljesítése, továbbá” szöveg,
+8.
 
 9.
 
 10.
 
 11.
-
-lép.
