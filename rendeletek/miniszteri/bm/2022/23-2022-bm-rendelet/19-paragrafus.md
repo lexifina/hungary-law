@@ -1,7 +1,3 @@
-## 19. § Nem lép hatályba a szerződéses határvadászokról szóló 19/2022. (VII. 15.) BM rendelet
+19. §[^2]
 
-a) 89. § (3) bekezdés b) pontja,
-
-b) 89. § (3) bekezdés c) pontja,
-
-c) 89. § (4) bekezdés b) pontja.
+[^2]: A 18. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
