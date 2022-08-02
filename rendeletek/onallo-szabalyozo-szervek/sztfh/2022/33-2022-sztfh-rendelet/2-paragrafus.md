@@ -1,3 +1,3 @@
-## 1. § A felszámolók, a vagyonfelügyelők és az ideiglenes vagyonfelügyelők elektronikus kijelölésének szabályairól szóló 15/2021. (X. 29.) SZTFH rendelet (a továbbiakban: R1.) 1. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „(7) Az üzemeltető a számítógépes program informatikai üzemeltetésére vonatkozóan Üzemeltetői Szabályzatot készít.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

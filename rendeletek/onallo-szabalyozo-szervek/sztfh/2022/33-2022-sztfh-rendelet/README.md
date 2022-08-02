@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-33-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-08-01 | 2022-33-20-8K.1 | 33/2022. (VII. 29.) SZTFH rendelet |
+| 2022-08-02 | 2022-33-20-8K.2 | 2010: CXXX. törvény |

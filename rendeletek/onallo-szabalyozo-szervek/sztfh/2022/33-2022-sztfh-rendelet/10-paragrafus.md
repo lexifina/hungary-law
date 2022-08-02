@@ -1,4 +1,4 @@
-## 9. § Hatályát veszti az R3. 3. § (4), (5) és (8) bekezdése.
+## 9. §[^9]
 
 ## 4. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 2. alcím és a 2. melléklet az e rendelet kihirdetését követő 31. napon lép hatályba.
 
 (3) A 8. § b)–d) pontja 2022. szeptember 1-jén lép hatályba.
+
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
