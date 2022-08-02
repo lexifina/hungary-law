@@ -1,5 +1,3 @@
-## 7. § A Cvhr2. 14. §-a a következő c) ponttal egészül ki:
+## 7. §[^6]
 
-## (A céginformációs szolgálat a céginformáció szolgáltatása mellett)
-
-## „c) megteszi a szükséges intézkedéseket annak érdekében, hogy a személyre szabott ügyintézési felületen az online alapításhoz használható szerződésminta, valamint a cégalapítással kapcsolatos tájékoztató magyar és angol nyelven közzétételre kerüljön.”
+[^6]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

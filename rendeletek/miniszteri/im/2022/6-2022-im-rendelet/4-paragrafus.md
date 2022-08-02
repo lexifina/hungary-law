@@ -1,3 +1,3 @@
-## 3. § A Cvhr1. a következő 22. §-sal egészül ki:
+## 3. §[^3]
 
-## „22. § Ez a rendelet az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, kivéve az (EU) 2019/1151 irányelv 1. cikkének az (EU) 2017/1132 irányelv 13i. cikkét, 13j. cikk (2) bekezdését, valamint 16. cikk (6) bekezdését megállapító rendelkezéseit.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 4. §[^1]
+## 4. §[^4]
 
-[^1]: A 4. § a 10. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^4]: A 4. § a 10. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
