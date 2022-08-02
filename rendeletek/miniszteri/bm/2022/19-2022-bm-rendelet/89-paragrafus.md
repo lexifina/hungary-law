@@ -2,28 +2,30 @@
 
 ## 38. Módosító rendelkezések
 
-89. § (1) A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet (a továbbiakban: R6.) 2. §-a a következő (1a) bekezdéssel egészül ki:
+89. § (1)[^1]
 
-## „(1a) Az állománytáblázat tartalmazza az (1) bekezdésben meghatározott tartalmai elemeket az általános rendőrségi feladatok ellátására létrehozott szerv állományába tartozó szerződéses határvadászokra vonatkozóan is.”
+(2)[^2]
 
-(2) Az R6. 2. melléklete a 8. melléklet szerint módosul.
+(3)[^3]
 
-(3) Az R6.
+a)[^4]
 
-a) 1. § a) pontjában a „feladatatok” szövegrész helyébe a „feladatok” szöveg,
+b)[^5]
 
-b)[^1]
+c)[^6]
 
-c)[^2]
+(4)[^7]
 
-## lép.
+a)[^8]
 
-(4) Hatályát veszti az R6.
+b)[^9]
 
-a) 2. melléklet I. alcím 2. pontjában foglalt táblázat C:9 mezőjében az „(RRI)” szövegrész,
-
-b)[^3]
-
-[^1]: A 89. § (3) bekezdés b) pontja a 23/2022. (VII. 29.) BM rendelet 19. § a) pontja alapján nem lép hatályba.
-[^2]: A 89. § (3) bekezdés c) pontja a 23/2022. (VII. 29.) BM rendelet 19. § b) pontja alapján nem lép hatályba.
-[^3]: A 89. § (4) bekezdés b) pontja a 23/2022. (VII. 29.) BM rendelet 19. § c) pontja alapján nem lép hatályba.
+[^1]: A 89. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 89. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 89. § (3) bekezdés nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 89. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 89. § (3) bekezdés b) pontja a 23/2022. (VII. 29.) BM rendelet 19. § a) pontja alapján nem lép hatályba.
+[^6]: A 89. § (3) bekezdés c) pontja a 23/2022. (VII. 29.) BM rendelet 19. § b) pontja alapján nem lép hatályba.
+[^7]: A 89. § (4) bekezdés nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 89. § (4) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 89. § (4) bekezdés b) pontja a 23/2022. (VII. 29.) BM rendelet 19. § c) pontja alapján nem lép hatályba.
