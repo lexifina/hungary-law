@@ -1,3 +1,3 @@
-## 31. § Az R9. a következő 80/A. §-sal egészül ki:
+## 31. §[^36]
 
-## „80/A. § Ez a rendelet a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^36]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
