@@ -26,7 +26,7 @@ a) 2022. november 30-ig a 2022. július 1-jét magában foglaló adóévre a 202
 
 b) a 2023-ban kezdődő adóév ötödik hónapjának utolsó napjáig a 2023-ban kezdődő adóévre a 2022. évre megállapított pótadóval egyező összegű
 
-## pótadóelőleget kell megállapítani, megfizetni és – az állami adóhatóság által rendszeresített nyomtatványon – bevallani.
+pótadóelőleget kell megállapítani, megfizetni és – az állami adóhatóság által rendszeresített nyomtatványon – bevallani.
 
 (8) A 2022. július 1-jét követően kezdődő, 12 hónapnál rövidebb adóév esetén a pótadó összege az adóévi, (2) bekezdés szerinti adóalapnak naptári napi időarányosítással, 365 napos időszakra számított összege alapján a (3) bekezdés szerint megállapított adóösszegnek az adóév naptári napjaival arányos része.
 

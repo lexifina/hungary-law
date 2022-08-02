@@ -1,5 +1,3 @@
-## A cégautóadó havi mértéke
-
 |  | A | B | C | D |
 
 | 1. | Teljesítmény (kW) | „0”–„4” környezetvédelmi osztályjelzések esetén | „6”–„10” környezetvédelmi osztályjelzések esetén | „5”; „14–15” környezetvédelmi osztályjelzések esetén |
@@ -12,6 +10,8 @@
 
 | 5. | 120 felett | 81 000 forint | 61 000 forint | 41 000 forint |
 
-2. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^11]
+2. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^12]
 
-[^11]: A 2. melléklet a 257/2022. (VII. 18.) Korm. rendelet 6–7. §-a szerint módosított szöveg.
+A népegészségügyi termékadó-köteles termék
+
+[^12]: A 2. melléklet a 257/2022. (VII. 18.) Korm. rendelet 6–7. §-a szerint módosított szöveg.

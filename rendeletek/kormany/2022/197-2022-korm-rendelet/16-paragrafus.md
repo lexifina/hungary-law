@@ -52,7 +52,7 @@ a)[^7] 2022. november 30-ig a 2021. július 1-jétől 2022. június 30-ig elszá
 
 b) 2023. május 31-ig a (3) bekezdés szerinti adómértékkel számított, 2023. január 31-ig bevallandó pótadóval egyező
 
-## összegű pótadóelőleget kell megállapítani, megfizetni és – az állami adóhatóság által rendszeresített nyomtatványon – bevallani.
+összegű pótadóelőleget kell megállapítani, megfizetni és – az állami adóhatóság által rendszeresített nyomtatványon – bevallani.
 
 (6) A biztosítónak a (3) bekezdés szerinti adómértékekkel számított pótadót 2023. január 31-ig, a (4) bekezdés szerinti adómértékekkel számított pótadót 2024. január 31-ig kell megállapítania, megfizetnie és – az állami adóhatóság által rendszeresített nyomtatványon – bevallania. Ha a megfizetett pótadóelőleg összege több, mint a pótadó bevallott összege, a különbözetet az adóalany a pótadóbevallás benyújtásának napjától igényelheti vissza az adózás rendjéről szóló törvény adóvisszatérítési szabályai alapján.
 

@@ -1,5 +1,3 @@
-## A népegészségügyi termékadó-köteles termék
-
 |  | A | B | C |
 
 | 1. |  | Adóköteles termék | Adómérték |
@@ -78,18 +76,6 @@
 
 | 34. | jc) | a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amely sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget | 210 forint/kilogramm |
 
-3. melléklet a 197/2022. (VI. 4.) Korm. rendelethez
+3. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^13]
 
-A Rendelet1. 1. mellékletében foglalt táblázat G:103–105 mezője helyébe a következő mező lép:
-
-|  | (G |
-
-|  | A nyersanyag fajlagos értéke) |
-
-| (103 | E = p × d – K2 × I ahol E = a szénhidrogén földgáz – bányajáradék szempontjából figyelembe vett – értéke (Ft/MWh) p = a Platts Dutch TTF Day ahead bevallási időszak napi árainak (EUR/MWh) számtani átlaga + 1,05 EUR/MWh d = az MNB devizaárfolyamainak bevallási időszakra (hónap) vonatkozó számtani átlaga Ft/EUR K2 = fajlagos előkészítési költség 260 Ft/MWh I = korrekciós tényező, amely évenként az előző évi ipari – élelmiszer nélküli – belföldi értékesítés árindexével változik. Az I értéke a 2008. évben 1,06. |
-
-| 104 |
-
-| 104/a |
-
-| 105) |
+[^13]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

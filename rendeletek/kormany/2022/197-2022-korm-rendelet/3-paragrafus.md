@@ -6,7 +6,7 @@ b) a megújuló energiaforrásból termelt villamos energia kötelező átvétel
 
 c) a METÁR rendelet hatálya alá tartozó zöld prémium típusú támogatásra jogosult termelő,
 
-## ha a KÁT rendelet szerinti mérlegkör tagsági, a prémium támogatás vagy a zöld prémium típusú támogatás igénybevételéhez szükséges szerződése a 2022. vagy a 2023. adóévben megszűnik, vagy ha a 2022. vagy a 2023. adóévben a kereskedelmi üzemét megkezdi, de nem köti meg a KÁT rendelet szerinti mérlegkör tagsági, prémium támogatási vagy zöld prémium típusú támogatás igénybevételéhez szükséges szerződést.
+ha a KÁT rendelet szerinti mérlegkör tagsági, a prémium támogatás vagy a zöld prémium típusú támogatás igénybevételéhez szükséges szerződése a 2022. vagy a 2023. adóévben megszűnik, vagy ha a 2022. vagy a 2023. adóévben a kereskedelmi üzemét megkezdi, de nem köti meg a KÁT rendelet szerinti mérlegkör tagsági, prémium támogatási vagy zöld prémium típusú támogatás igénybevételéhez szükséges szerződést.
 
 (2) Mentes az e § szerinti kötelezettség alól az (1) bekezdés szerinti termelő a szilárd biomassza felhasználásával termelt villamos energia tekintetében.
 

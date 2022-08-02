@@ -7,3 +7,5 @@ a) az Efo tv. 7. § (2) bekezdés a) pontja esetén a munkaviszony minden naptá
 b) az Efo tv. 7. § (2) bekezdés b) pontja esetén a munkaviszony minden naptári napjára munkavállalónként a hónap első napján érvényes minimálbér 1 százaléka,
 
 c) az Efo tv. 2. § 8. pontjában meghatározott filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakoztatása esetén a munkaviszony minden naptári napjára munkavállalónként a minimálbér 3 százaléka,
+
+azzal, hogy a mértéket száz forintra kerekítve kell meghatározni.
