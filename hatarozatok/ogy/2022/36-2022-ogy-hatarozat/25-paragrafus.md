@@ -1,3 +1,3 @@
-## 24. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 97. alcím címe helyébe a következő rendelkezés lép:
+## 24. §[^28]
 
-## „97. A vagyonnyilatkozattal kapcsolatos eljárás”
+[^28]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

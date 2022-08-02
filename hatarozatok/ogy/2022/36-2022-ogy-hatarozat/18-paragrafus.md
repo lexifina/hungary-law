@@ -1,3 +1,3 @@
-## 17. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 102. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 17. §[^21]
 
-## „(3) A (2) bekezdés szerinti kiigazítást a törvényjavaslat előterjesztője nyújthatja be legkésőbb azt az ülésnapot megelőző munkanapon, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat zárószavazása szerepel.”
+[^21]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

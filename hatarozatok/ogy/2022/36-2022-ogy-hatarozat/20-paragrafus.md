@@ -1,1 +1,3 @@
-## „(2a) A miniszterelnökhöz címzett azonnali kérdés esetében a képviselőcsoport vezetője a (2) bekezdés szerinti kérésében nyilatkozik arról is, hogy a kérdést feltevő képviselő személyes válaszadást kér-e. Ha a képviselőcsoport vezetője nem nyilatkozik, azt úgy kell tekinteni, hogy a kérdést feltevő képviselő személyes válaszadást nem kér. Ha a kérdést feltevő képviselő személyes válaszadást kér, nincs szükség a házelnök előzetes tájékoztatására a válaszadásra feljogosított helyettes személyéről.”
+## 19. §[^23]
+
+[^23]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

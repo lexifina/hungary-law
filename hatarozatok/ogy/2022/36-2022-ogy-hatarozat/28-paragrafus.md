@@ -1,65 +1,92 @@
-## 27. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 2. melléklete az 1. melléklet szerint módosul.
+## 27. §[^31]
 
 ## 28. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat
 
-1.[^3]
+1.[^32]
 
-2.[^4]
+2.[^33]
 
-3.[^5]
+3.[^34]
 
-4. 7. § (1) bekezdésében a „13. § (2) bekezdése” szövegrész helyébe a „13. § (3) bekezdése” szöveg,
+4.[^35]
 
-5. 8. § (1a) bekezdésében a „nemzetiségi szószólóknak (a továbbiakban: szószóló)” szövegrész helyébe a „nemzetiségi szószólóknak” szöveg,
+5.[^36]
 
-6. 8. § (1a) bekezdésében, 10. § (2) bekezdésében, 47. § (5) bekezdésében és (6) bekezdés b) pontjában, 54. § (3) bekezdés b) pontjában, 137. § (2) bekezdésében, valamint 139. § (1) bekezdésében a „szószólók” szövegrész helyébe a „nemzetiségi szószólók” szöveg,
+6.[^37]
 
-7. 9. § (2) bekezdésében, 18. § (6a), (8) és (9) bekezdésében, 19. § (1) bekezdésében, 20. § (2) bekezdésében, 23. § (1) bekezdésében, 35. § (1) bekezdés a) pontjában és (8) bekezdésében, 36. § (5), (5a), (7) és (8) bekezdésében, 37. § (2) bekezdés g) pontjában és (7) bekezdésében, 38. § (4) bekezdés d) pontjában és záró szövegrészében, 39. § (2) bekezdés d) pontjában, 63. § (3) bekezdésében, 76. § (11) bekezdés b) pontjában, 81. § (1)–(4) bekezdésében, 82/A. § (2) bekezdésében, 115. § (3) bekezdésében, 124. § (2) bekezdésében, 131. § (4) bekezdés nyitó szövegrészében, valamint 136. § (2) bekezdésében a „szószóló” szövegrész helyébe a „nemzetiségi szószóló” szöveg,
+7.[^38]
 
-8. 9. § (2) bekezdésében a „Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság (a továbbiakban: Mentelmi bizottság)” szövegrész helyébe a „Mentelmi, Összeférhetetlenségi, Fegyelmi és Mandátumvizsgáló Bizottság (a továbbiakban: Mentelmi Bizottság)” szöveg,
+8.[^39]
 
-9. 18. § (6a) bekezdésében, 39. § (1) bekezdésében, 158. § 12. pontjában, valamint 3. mellékletében a „szószólónak” szövegrész helyébe a „nemzetiségi szószólónak” szöveg,
+9.[^40]
 
-10. 18. § (6a) bekezdésében, valamint 36. § (5) bekezdésében a „szószólót” szövegrész helyébe a „nemzetiségi szószólót” szöveg,
+10.[^41]
 
-11. 20. § (1) bekezdésében a „szószóló” szövegrészek helyébe a „nemzetiségi szószóló” szöveg,
+11.[^42]
 
-12. 23. § (1) bekezdésében az „az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Országgyűlésről szóló törvény)” szövegrész helyébe az „az Országgyűlésről szóló törvény” szöveg,
+12.[^43]
 
-13. 37. § (2) bekezdés d) pontjában a „húsz” szövegrész helyébe a „tíz” szöveg,
+13.[^44]
 
-14. 37. § (2) bekezdés g) pontjában a „szószólói” szövegrész helyébe a „nemzetiségi szószólói” szöveg,
+14.[^45]
 
-15. 46. § (6) bekezdésében az „előterjesztője vagy” szövegrész helyébe az „előterjesztője, illetve” szöveg,
+15.[^46]
 
-16. 47. § (6) bekezdés nyitó szövegrészében a „(2) és (4)–(7) bekezdése” szövegrész helyébe a „(2), (6) és (7) bekezdése” szöveg,
+16.[^47]
 
-17. 61. § (7) bekezdésében a „szószólókat” szövegrész helyébe a „nemzetiségi szószólókat” szöveg,
+17.[^48]
 
-18. 82/A. § (1) bekezdésében a „vitája” szövegrész helyébe a „vitájában” szöveg,
+18.[^49]
 
-19. 87. § (1) bekezdésében a „(2)–(3) bekezdésben” szövegrész helyébe az „(1a)–(3) bekezdésben” szöveg,
+19.[^50]
 
-20. 92. § (3) bekezdésében, 146. § (4) és (5) bekezdésében, 147. § (2) bekezdésében, 148. § (3) és (6) bekezdésében, 150. § (1) és (4) bekezdésében, 151. § (1), (2) és (4) bekezdésében, 152. § (3) bekezdésében, valamint 153. § (2), (3) és (5) bekezdésében a „Mentelmi bizottság” szövegrész helyébe a „Mentelmi Bizottság” szöveg,
+20.[^51]
 
-21. 124. § (2) bekezdésében a „szószólók” szövegrészek helyébe a „nemzetiségi szószólók” szöveg,
+21.[^52]
 
-22. 131. § (5) bekezdésében a „szószólóknak” szövegrész helyébe a „nemzetiségi szószólóknak” szöveg,
+22.[^53]
 
-23. 146. § (3) bekezdésében, 148. § (5) bekezdésében, 149. § (3)–(5) és (7)–(10) bekezdésében, valamint 151. § (3) és (5) bekezdésében a „Mentelmi bizottság” szövegrészek helyébe a „Mentelmi Bizottság” szöveg,
+23.[^54]
 
-24. 149. § (2) bekezdésében a „Mentelmi bizottságnak” szövegrész helyébe a „Mentelmi Bizottságnak” szöveg,
+24.[^55]
 
-25. 149. § (7) és (8) bekezdésében a „Mentelmi bizottságot” szövegrész helyébe a „Mentelmi Bizottságot” szöveg,
+25.[^56]
 
-26. 152. § (2) bekezdésében a „Mentelmi bizottságon” szövegrész helyébe a „Mentelmi Bizottságon” szöveg,
+26.[^57]
 
-27. 155. § (1) bekezdésében, 155/B. § (5) bekezdésében, valamint 5. melléklet 4. pont 4.5. alpontjában a „szószólóra” szövegrész helyébe a „nemzetiségi szószólóra” szöveg,
+27.[^58]
 
-28. 158. § 20. pontjában a „nemzetiségi listán mandátumot szerzett” szövegrész helyébe a „nemzetiségi listáról mandátumot szerző” szöveg,
+28.[^59]
 
-29. 1. melléklet Függelékében a „titkos szavazásához” szövegrész helyébe a „titkos szavazással történő választásához” szöveg
+29.[^60]
 
-[^3]: A 28. § 1. pontja a 30. § (2) bekezdése alapján az országgyűlési képviselők következő általános választását követően megalakuló Országgyűlés alakuló ülésének napján lép hatályba.
-[^4]: A 28. § 2. pontja a 30. § (2) bekezdése alapján az országgyűlési képviselők következő általános választását követően megalakuló Országgyűlés alakuló ülésének napján lép hatályba.
-[^5]: A 28. § 3. pontja a 30. § (2) bekezdése alapján az országgyűlési képviselők következő általános választását követően megalakuló Országgyűlés alakuló ülésének napján lép hatályba.
+[^31]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 28. § 1. pontja a 30. § (2) bekezdése alapján az országgyűlési képviselők következő általános választását követően megalakuló Országgyűlés alakuló ülésének napján lép hatályba.
+[^33]: A 28. § 2. pontja a 30. § (2) bekezdése alapján az országgyűlési képviselők következő általános választását követően megalakuló Országgyűlés alakuló ülésének napján lép hatályba.
+[^34]: A 28. § 3. pontja a 30. § (2) bekezdése alapján az országgyűlési képviselők következő általános választását követően megalakuló Országgyűlés alakuló ülésének napján lép hatályba.
+[^35]: A 28. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 28. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 28. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 28. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 28. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 28. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 28. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 28. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 28. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 28. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 28. § 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 28. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 28. § 16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 28. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 28. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 28. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 28. § 20. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 28. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 28. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 28. § 23. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 28. § 24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 28. § 25. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 28. § 26. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 28. § 27. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 28. § 28. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 28. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

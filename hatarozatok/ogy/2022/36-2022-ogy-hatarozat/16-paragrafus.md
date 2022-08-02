@@ -1,3 +1,3 @@
-## 15. § Az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat 57. §-a helyébe a következő rendelkezés lép:
+## 15. §[^19]
 
-## „57. § Ha a törvényt az Országgyűlés nem a törvényjavaslat benyújtott szövege, az egységes javaslat, a második egységes javaslat, az átdolgozott egységes javaslat, az átdolgozott második egységes javaslat, az egyszerű többséget igénylő egységes javaslat, az Országgyűlés döntésének megfelelő egységes javaslat, a kiegészítő egységes javaslat, a túlterjeszkedő módosító javaslatot tartalmazó egységes javaslat szövege szerint fogadta el, az előterjesztő az elfogadott törvény szövegét – kézjegyével ellátva – a törvény elfogadásának napjától számított három napon belül megküldi a házelnöknek.”
+[^19]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
