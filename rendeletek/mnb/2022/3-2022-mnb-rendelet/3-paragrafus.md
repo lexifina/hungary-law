@@ -1,3 +1,3 @@
-## 2. § A Rendelet 10. § (9) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(9) A jelszó átadása kizárólag a jelentés átadásával valósítható meg. A jelentésnek a jelszót QR-kód szimbológiájú szabvány szerinti adatbeviteli módra vonatkozó fő technikai paramétereket tartalmazó, az MNB honlapján közzétett útmutató alapján megképzett formában is tartalmaznia kell.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
