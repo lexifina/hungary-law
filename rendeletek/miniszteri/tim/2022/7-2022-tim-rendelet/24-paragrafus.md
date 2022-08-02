@@ -1,3 +1,5 @@
-## 23. § Az egyes légiközlekedési tárgyú miniszteri rendeletek módosításáról szóló 55/2021. (XI. 5.) ITM rendelet 2. melléklete a 10. melléklet szerint módosul.
+## 23. §[^6]
 
 ## 6. Záró rendelkezések
+
+[^6]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
