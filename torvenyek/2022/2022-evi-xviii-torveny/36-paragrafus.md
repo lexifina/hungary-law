@@ -1,3 +1,1 @@
-36. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 4. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A háznagy a megbízatása keletkezését követő harminc napon belül, a képviselők jövedelem- és gazdasági érdekeltségi nyilatkozatával (a továbbiakban: vagyonnyilatkozat) azonos tartalmú vagyonnyilatkozatot tesz azzal, hogy amennyiben a vagyonnyilatkozatban feltüntetett adatok tekintetében változás következik be, azt a változást követő harminc napon belül bejelenti a Mentelmi, Összeférhetetlenségi, Fegyelmi és Mandátumvizsgáló Bizottságnak (a továbbiakban: Mentelmi Bizottság). A vagyonnyilatkozattal kapcsolatos eljárásra a képviselők vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni.”
+36. §

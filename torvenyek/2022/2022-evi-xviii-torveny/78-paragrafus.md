@@ -1,7 +1,1 @@
-78. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 54. alcíme a következő 183/L. §-sal egészül ki:
-
-„183/L. § (1) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 157. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesznek vagyonnyilatkozatot.
-
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, az MNB elnökével, alelnökével, a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjával, illetve a felügyelőbizottság tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
-
-(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.”
+78. §
