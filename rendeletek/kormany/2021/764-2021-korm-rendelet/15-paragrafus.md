@@ -1,5 +1,0 @@
-## 14. §[^17]
-
-## 3. Az igazságügyi szakértői névjegyzék vezetéséről szóló 210/2005. (X. 5.) Korm. rendelet módosítása
-
-[^17]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
