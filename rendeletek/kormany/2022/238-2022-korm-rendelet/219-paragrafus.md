@@ -1,5 +1,0 @@
-## 218. §[^201]
-
-## 201. A központi egészséginformatikai szolgáltatásokról szóló 29/2022. (I. 31.) Korm. rendelet módosítása
-
-[^201]: A 218. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
