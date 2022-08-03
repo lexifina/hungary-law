@@ -1,5 +1,6 @@
-## 7. § Hatályát veszti a Rendelet 8/C. §-a.
+## 7. §[^4]
 
-8. §[^1]
+8. §[^5]
 
-[^1]: A 8. § a 3. § (2) bekezdése alapján 2022. augusztus 16-án lép hatályba.
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. § a 3. § (2) bekezdése alapján 2022. augusztus 16-án lép hatályba.

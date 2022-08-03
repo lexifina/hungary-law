@@ -1,1 +1,3 @@
-## 6. § A Rendelet 8. § (3) bekezdésében a „jóváhagyásával az energiahordozók áremelkedéséből fakadó kedvezőtlen gazdasági következmények megelőzése és csökkentése” szövegrész helyébe a „jóváhagyásával a kedvezőtlen gazdasági következmények megelőzése és csökkentése” szöveg lép.
+## 6. §[^3]
+
+[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
