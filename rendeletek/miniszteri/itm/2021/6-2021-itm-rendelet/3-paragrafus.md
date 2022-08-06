@@ -1,4 +1,4 @@
-3. § (1) A távoli pilóták pilóta nélküli légijárművek irányításához szükséges, az (EU) 2019/947 bizottsági végrehajtási rendelet
+3. § (1)[^1] A távoli pilóták pilóta nélküli légijárművek irányításához szükséges, az (EU) 2019/947 bizottsági végrehajtási rendelet
 
 a) UAS.OPEN.020 4. b),
 
@@ -8,7 +8,7 @@ c) UAS.STS-01.020 3. b),
 
 d) UAS.STS-02.020 10. b)
 
-## pontjai szerinti tanfolyamokat a légiközlekedési hatóság által a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet alapján kiadott engedéllyel rendelkező képző szervezet szervezi és folytatja le.
+## pontja szerinti tanfolyamokat, továbbá a drón pilóta tanfolyamot a légiközlekedési hatóság által a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet alapján kiadott engedéllyel rendelkező képző szervezet szervezi és folytatja le.
 
 (2) A távoli pilóták pilóta nélküli légijárművek irányításához szükséges az (EU) 2019/947 bizottsági végrehajtási rendelet
 
@@ -24,7 +24,7 @@ b) UAS.STS-02.020 7. b)
 
 (5) Ha a nyilvántartásba vett képzőszervezet az (EU) 2019/947 bizottsági végrehajtási rendelet szerinti követelményeknek nem felel meg, a légiközlekedési hatóság a tevékenység végzését megtiltja, és a képzőszervezetet a nyilvántartásból törli.
 
-(6) A képző szervezet a tanfolyamot a légiközlekedési hatóság által meghatározott Tantervi és Vizsgakövetelmény, valamint Ügyviteli és Bizonylatolási Rend alapján tartja meg.
+(6)[^2] A képző szervezet a tanfolyamot a légiközlekedési hatóság által meghatározott Tantervi és Vizsgakövetelmény, valamint Ügyviteli és Bizonylatolási Rend alapján tartja meg. A drón pilóta tanfolyamhoz meghatározott Tantervi és Vizsgakövetelménynek az 1. mellékletnek kell megfelelnie.
 
 (7) A képző szervezet a honlapján közzéteszi
 
@@ -35,3 +35,6 @@ b) a képzés szintjét, tartalmát, a tanterveket, a tantárgyakat, tantervi ó
 c) a képzés díját.
 
 (8) A képzésre történő jelentkezés feltételeinek teljesülését a képző szervezet a tanfolyam megkezdése előtt ellenőrzi.
+
+[^1]: A 3. § (1) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (6) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 66. § (2) bekezdésével megállapított szöveg.
