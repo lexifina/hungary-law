@@ -1,4 +1,4 @@
-2. számú melléklet a 41/2004. (IV. 7.) GKM rendelethez[^20]
+2. számú melléklet a 41/2004. (IV. 7.) GKM rendelethez[^22]
 
 ## A közúti járművezetők pályaalkalmassági vizsgálatának eljárási díjai
 
@@ -18,4 +18,4 @@ Ft
 
 7. Igazolás kiállítása pályaalkalmassági vizsgálati eljárás eredményéről, minősítésről 3 000
 
-[^20]: A 2. számú melléklet a 37/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított szöveg, címe a 48/2009. (IX. 30.) KHEM rendelet 33. § (2) bekezdése, az 1/2019. (I. 7.) ITM rendelet 4. § b) pontja, a 45/2019. (XII. 20.) ITM rendelet 17. §-a szerint módosított szöveg.
+[^22]: A 2. számú melléklet a 37/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított szöveg, címe a 48/2009. (IX. 30.) KHEM rendelet 33. § (2) bekezdése, az 1/2019. (I. 7.) ITM rendelet 4. § b) pontja, a 45/2019. (XII. 20.) ITM rendelet 17. §-a szerint módosított szöveg.
