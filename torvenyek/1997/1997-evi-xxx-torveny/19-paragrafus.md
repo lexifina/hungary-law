@@ -1,6 +1,6 @@
 19. § A jelzálog-hitelintézet éves jelentésének a Tpt.-ben előírt tartalmi követelményeken túl az alábbiakat is tartalmaznia kell:
 
-a) a forgalomban levő jelzáloglevelek december 31-i állapot szerinti fedezeti értékeit, a pótfedezet tételes felsorolásával;
+a) a forgalomban levő jelzáloglevelek december 31-i állapot szerinti fedezeti értékeit, a 14. § (1b) bekezdés b) és c) pontjában meghatározott fedezeti eszközök tételes felsorolásával;
 
 b) az olyan végrehajtási árverések számát, amelyek a jelzálog-hitelintézet kérelmére indultak, a befejeződött árverések esetében az árverési eredmény és a még fennállt jelzáloghitel értékkülönbségét;
 

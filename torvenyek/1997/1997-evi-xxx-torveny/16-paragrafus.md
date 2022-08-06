@@ -30,7 +30,7 @@ d) a jelzálog-hitelintézettel, illetve az a) pontban meghatározott személyek
 
 (8) A vagyonellenőrt megbízója – vagyonellenőri tevékenysége körében – nem utasíthatja.
 
-(9) A vagyonellenőr bármikor betekinthet a jelzálog-hitelintézet olyan könyveibe és egyéb irataiba, amelyek a feladatai ellátásához szükséges adatokat tartalmaznak, és feladatai ellátásával kapcsolatosan felvilágosítást kérhet. A jelzálog-hitelintézet e nélkül is köteles a vagyonellenőrt folyamatosan tájékoztatni a fedezet-nyilvántartásba bejegyzett jelzáloghitelek tőke- és kamattörlesztéseiről, valamint a zálogtárgyakat, illetve a pótfedezetet érintő változásokról.
+(9) A vagyonellenőr bármikor betekinthet a jelzálog-hitelintézet olyan könyveibe és egyéb irataiba, amelyek a feladatai ellátásához szükséges adatokat tartalmaznak, és feladatai ellátásával kapcsolatosan felvilágosítást kérhet. A jelzálog-hitelintézet e nélkül is köteles a vagyonellenőrt folyamatosan tájékoztatni a fedezet-nyilvántartásba bejegyzett jelzáloghitelek tőke- és kamattörlesztéseiről, valamint a zálogtárgyakat, illetve a 14. § (1b) bekezdés b)–d) pontjában meghatározott fedezeti eszközöket érintő változásokról.
 
 (10) A vagyonellenőrt a tevékenysége során tudomására jutott tények, adatok, üzleti információk tekintetében – a 17. § (2) bekezdésében meghatározott eset kivételével – titoktartási kötelezettség terheli.
 

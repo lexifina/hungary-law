@@ -20,7 +20,7 @@ f) részleges átruházás esetén annak igazolását, hogy az átruházás a je
 
 (4) A Felügyelet az átruházás engedélyezését megtagadja, ha az veszélyezteti az átruházással érintett jelzáloglevelekből eredő kötelezettségek teljesítését. A Felügyelet részleges átruházás esetén az átruházás engedélyezését akkor is megtagadhatja, ha az az átruházással nem érintett jelzáloglevelekből eredő kötelezettségek teljesítését veszélyezteti.
 
-(5) Jelzáloglevélből eredő kötelezettség csak rendes és pótfedezete egyidejű átadásával ruházható át.
+(5) Jelzáloglevélből eredő kötelezettség csak a fedezetek egyidejű átadásával ruházható át.
 
 (6) Az állományt átvevő jelzálog-hitelintézet az átadó jelzálog-hitelintézet által meghatározott eredeti feltételeknek megfelelően új jelzálogleveleket hoz forgalomba.
 

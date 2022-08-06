@@ -1,6 +1,6 @@
 ## Átmeneti rendelkezések
 
-28. § (1) A 2022. július 8. előtt kibocsátott jelzáloglevélre az e törvény 2022. július 7-én hatályos rendelkezései az irányadóak azzal, hogy a jelzáloglevélre nem kell alkalmazni a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pénzügyi közvetítőrendszert érintő jogharmonizációs célú törvénymódosításokról szóló 2021. évi LVIII. törvénnyel megállapított, e törvény 3. § (10) és (11) bekezdését, 5. § (5), (6), (8) és (9) bekezdését, 14. § (1a), (1b), (1c), (3a), (8) és (16) bekezdését, 14/B. §-át, 14/C. §-át, 22. § (2) bekezdés a) pontját és 22. § (3) bekezdését.
+28. § (1) A 2022. július 8. előtt kibocsátott jelzáloglevélre az e törvény 2022. július 7-én hatályos rendelkezései az irányadóak azzal, hogy a jelzáloglevélre nem kell alkalmazni a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pénzügyi közvetítőrendszert érintő jogharmonizációs célú törvénymódosításokról szóló 2021. évi LVIII. törvénnyel megállapított 3. § (10) és (11) bekezdést, 5. § (5), (6), (8) és (9) bekezdést, 14. § (1a), (1b), (1c), (3a) és (16) bekezdést, 14/B. §-t, 14/C. §-t, 22. § (2) bekezdés a) pontot és 22. § (3) bekezdést.
 
 (2) Az (1) bekezdés szerinti jelzáloglevél különleges felügyeletére az e törvény 2022. július 7-én hatályos rendelkezései, valamint a 22–23/A. §-ban foglaltak alkalmazandóak.
 

@@ -34,11 +34,11 @@ c) azon jogügyletek teljesítése, amelyek a fedezeti halmaz szabályos igazgat
 
 (3a) A jelzálog-hitelintézettel szembeni felszámolási és szanálási eljárás során a Felügyelet, a szanálási hatóság és a fedezeti gondnok együttműködnek és információt cserélnek különös tekintettel a fedezeti halmazban lévő eszközök értékesítésére.
 
-(4) A jelzáloglevelekből eredő követeléseket a fedezeti gondnok – a felszámolónak történő bejelentésükre tekintet nélkül – a jelzálog-hitelintézet (5) bekezdésben meghatározott vagyontárgyai terhére, a felszámolási eljáráson kívül, a jelzáloglevélben foglalt kamatfizetési és beváltási (törlesztési) időpontokban elégíti ki. A rendes fedezetek nyilvántartásába bejegyzett származtatott (derivatív) ügyletek szerződött partnereit a fedezetbe vont ügyletből eredő követeléseik erejéig a jelzáloglevél-tulajdonosokkal azonos jogok illetik, ezen követeléseik kielégítésére a jelzáloglevelekből eredő követelések kielégítésére irányadó szabályokat értelemszerűen alkalmazni kell.
+(4) A jelzáloglevelekből eredő követeléseket a fedezeti gondnok – a felszámolónak történő bejelentésükre tekintet nélkül – a jelzálog-hitelintézet (5) bekezdésben meghatározott vagyontárgyai terhére, a felszámolási eljáráson kívül, a jelzáloglevélben foglalt kamatfizetési és beváltási (törlesztési) időpontokban elégíti ki. A fedezetek nyilvántartásába bejegyzett származtatott (derivatív) ügyletek szerződött partnereit a fedezetbe vont ügyletből eredő követeléseik erejéig a jelzáloglevél-tulajdonosokkal azonos jogok illetik, ezen követeléseik kielégítésére a jelzáloglevelekből eredő követelések kielégítésére irányadó szabályokat értelemszerűen alkalmazni kell.
 
 (5) Jelzálog-hitelintézet felszámolása vagy szanálása esetén – a fedezeti gondnok díjának, és a jelen bekezdésben meghatározott egyes követelések nyilvántartásával és érvényesítésével, valamint a vagyonellenőr tevékenységével kapcsolatos költségek kiegyenlítését követően – kizárólag a jelzáloglevél-tulajdonosokkal szemben fennálló kötelezettség kielégítésére használható fel
 
-a) a felszámolása vagy szanálása kezdő időpontjában a fedezet-nyilvántartásba bejegyzett rendes és pótfedezet,
+a) a felszámolása vagy szanálása kezdő időpontjában a fedezet-nyilvántartásba bejegyzett fedezet,
 
 b) a rendes fedezeteknek a 14. § (7) bekezdésében meghatározott mértékét meghaladó, fedezetbe nem vonható hányada, valamint a jelzálog-hitelintézetnek a felszámolás kezdő időpontjában meglévő, de fedezetbe nem vont likvid eszközeinek az a része, amely megfelel a jelen törvény pótfedezetekkel szemben támasztott követelményeinek.
 

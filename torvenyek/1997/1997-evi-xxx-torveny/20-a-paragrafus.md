@@ -6,7 +6,7 @@
 
 (4) A fedezeti gondnok köteles mindent megtenni annak érdekében, hogy a 20. § (5) bekezdésében meghatározott vagyontárgyakból mindenkor biztosított legyen a követelések esedékességkor történő teljes körű kielégítése (fizetőképesség folyamatos fenntartása). Ha ez maradéktalanul nem biztosítható, úgy a fedezeti gondnok úgy köteles eljárni, hogy – a jelzáloglevelek lejárati időpontjától függetlenül – a jelzáloglevél-tulajdonosok kielégítése tőkekövetelésük arányában történjen.
 
-(5) A felszámolás kezdő időpontját követően a 20. § (5) bekezdésében meghatározott vagyontárgyakkal kizárólag a fedezeti gondnok rendelkezhet, ezen vagyontárgyak tekintetében a felszámoló rendelkezése semmis. A jelzáloglevél-tulajdonosok, valamint a rendes fedezetek nyilvántartásába bejegyzett származtatott (derivatív) ügyletek szerződött partnerei valamennyi követelésének kielégítését vagy más jelzálog-hitelintézetre történő átruházását követően a 20. § (5) bekezdésében meghatározott vagyontárgyak a felszámolási vagyonba kerülnek.
+(5) A felszámolás kezdő időpontját követően a 20. § (5) bekezdésében meghatározott vagyontárgyakkal kizárólag a fedezeti gondnok rendelkezhet, ezen vagyontárgyak tekintetében a felszámoló rendelkezése semmis. A jelzáloglevél-tulajdonosok, valamint a fedezetek nyilvántartásába bejegyzett származtatott (derivatív) ügyletek szerződött partnerei valamennyi követelésének kielégítését vagy más jelzálog-hitelintézetre történő átruházását követően a 20. § (5) bekezdésében meghatározott vagyontárgyak a felszámolási vagyonba kerülnek.
 
 (6) A fedezeti gondnok a 3. § (2) bekezdésében felsorolt pénzügyi szolgáltatási, befektetési szolgáltatási, illetve kiegészítő befektetési szolgáltatási tevékenységek végzésére nem jogosult.
 
