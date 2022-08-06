@@ -1,8 +1,8 @@
 ## A műbizonylat hatósági ellenőrzése
 
-26. § (1)[^317] A közlekedési hatóság a gyártó, a felújító és a forgalmazó telephelyén ellenőrizheti, hogy az általa gyártott, felújított, forgalmazott pótalkatrész és tartozék rendelkezik-e műbizonylattal.
+26. § (1)[^312] A közlekedési hatóság a gyártó, a felújító és a forgalmazó telephelyén ellenőrizheti, hogy az általa gyártott, felújított, forgalmazott pótalkatrész és tartozék rendelkezik-e műbizonylattal.
 
-(2)[^318]
+(2)[^313]
 
-[^317]: A 26. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés f) pontja szerint módosított szöveg.
-[^318]: A 26. § (2) bekezdését a 12/2021. (III. 5.) ITM rendelet 2. § c) pontja hatályon kívül helyezte.
+[^312]: A 26. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^313]: A 26. § (2) bekezdését a 12/2021. (III. 5.) ITM rendelet 2. § c) pontja hatályon kívül helyezte.
