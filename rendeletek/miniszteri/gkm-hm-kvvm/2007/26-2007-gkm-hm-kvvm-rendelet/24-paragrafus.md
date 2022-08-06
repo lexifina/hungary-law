@@ -68,7 +68,7 @@
 
 30. műrepülő légtér: meghatározott kiterjedésű, a műrepülést végző légijárművek védelme céljából kijelölt légtér (azonosító jelölése: LHSA..);
 
-30a.[^86] No Drone Zone: a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 13. § 3. pontja szerinti légtér.
+30a.[^86] No Drone Zone: a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 13. § 5. pontja szerinti légtér.
 
 31. NOTAM: bármely légiforgalmi berendezés, szolgálat, eljárás létesítéséről, állapotáról, változásáról vagy veszély fennállásáról szóló értesítés, amelynek idejében történő megismerése elengedhetetlenül szükséges a repülésben érdekelt személyzet részére;
 
@@ -108,7 +108,7 @@ rövidítés;
 [^83]: A 24. § 10. pontja a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
 [^84]: A 24. § 12a. pontját a 15/2014. (IV. 3.) NFM rendelet 13. §-a iktatta be, szövege a 25/2017. (VI. 30.) NFM rendelet 12. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § g) pontja szerint módosított szöveg.
 [^85]: A 24. § 23. pontja a 34/2019. (IX. 13.) ITM rendelet 7. § h) pontja szerint módosított szöveg.
-[^86]: A 24. § 30a. pontját a 7/2021. (II. 5.) ITM rendelet 2. §-a iktatta be.
+[^86]: A 24. § 30a. pontját a 7/2021. (II. 5.) ITM rendelet 2. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 54. §-a szerint módosított szöveg.
 [^87]: A 24. § 34a. pontját a 34/2019. (IX. 13.) ITM rendelet 5. § (2) bekezdése iktatta be.
 [^88]: A 24. § 37. pontja a 7/2022. (VII. 27.) TIM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^89]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
