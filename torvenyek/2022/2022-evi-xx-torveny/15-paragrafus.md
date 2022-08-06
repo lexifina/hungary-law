@@ -1,0 +1,1 @@
+15. § A Pft. 18. § (1) bekezdés c) pontjában a „vállalkozó nyilvántartását vezető szervezet nyilvántartásában meggyőződik arról, hogy az egyéni vállalkozó” szövegrész helyébe a „vállalkozó, őstermelő nyilvántartását vezető szervezet nyilvántartásában meggyőződik arról, hogy az egyéni vállalkozó, őstermelő” szöveg lép.
