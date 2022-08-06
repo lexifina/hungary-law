@@ -1,6 +1,6 @@
 ## 12. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet az 54/2021. (XI. 5.) ITM rendelethez
+1. melléklet az 54/2021. (XI. 5.) ITM rendelethez[^4]
 
 Gépkezelői jogosítvány alapján kezelhető gépek
 
@@ -10,9 +10,9 @@ Gépkezelői jogosítvány alapján kezelhető gépek
 
 | 2. | 1 | Földmunkagépek |
 
-| 3. | 11 |  | Utazási földmunkagépek |
+| 3. | 11 |  | Univerzális földmunkagépek |
 
-| 4. | 1111 |  |  | Traktor alapú földmunkagép |
+| 4. | 1111 |  |  | 1 Traktor alapú univerzális földmunkagép |
 
 | 5. | 12 |  | Kotrógépek |
 
@@ -223,3 +223,5 @@ Gépkezelői jogosítvány alapján kezelhető gépek
 | 108. | 5680 |  |  | Aszfalt- és betonburkolat bontó és vágó gép |
 
 | 109. | 5681 |  |  | Útkorona átfúró berendezés |
+
+[^4]: Az 1. melléklet a 9/2022. (VIII. 1.) TIM rendelet 71. §-a szerint módosított szöveg.
