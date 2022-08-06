@@ -1,10 +1,16 @@
 ## 5. A csoport szanálhatóságának értékelése és a csoportszintű szanálhatóság akadályainak kezelése vagy megszüntetése
 
-13. § (1) Egy csoport – szanálás alá vonható szervezet – a 17. § figyelembevétele mellett akkor szanálható, ha a csoportszintű szanálási hatóság megítélése szerint a csoporthoz tartozó szervezettel szembeni fizetésképtelenségi eljárás vagy a csoportnak – szanálás alá vonható szervezetnek – a szanálási terv alapján történő szanálása során
+13. § (1) Egy csoport – szanálás alá vonható szervezet – akkor szanálható, ha a csoportszintű szanálási hatóság megítélése szerint megvalósítható és hiteles a csoporthoz tartozó szervezettel szembeni fizetésképtelenségi eljárás vagy a csoport – szanálás alá vonható szervezet – szanálása, amely során
 
-a) fenntartható a kritikus funkciók folytonossága, és
+a) a lehető legnagyobb mértékben elkerülhetőek – akár rendszerszintű válság esetén is –
 
-b) elkerülhetőek a csoporthoz tartozó szervezetek székhelye vagy fióktelepe szerinti vagy az EGT-államok vagy az EGT egészének a pénzügyi közvetítőrendszere stabilitására gyakorolt jelentős negatív következmények, akár rendszerszintű válság esetén is.
+aa) a csoporthoz tartozó szervezetek székhelye vagy fióktelepe szerinti, vagy
+
+ab) az EGT-államok vagy az EGT egészének a pénzügyi közvetítőrendszere stabilitására gyakorolt
+
+jelentős negatív következmények, és
+
+b) fenntarthatóak a kritikus funkciók folytonossága azok észszerű időn belüli leválasztásával, vagy más módon.
 
 (2) Ha az MNB a csoportszintű szanálási hatóság, akkor a csoportszintű szanálhatóság értékelését a szanálási feladatkörében eljáró MNB végzi el a leányvállalatok és a jelentős fióktelepek szanálási hatóságaival azzal, hogy az összevont alapú felügyeletért felelős felügyeleti hatósággal, valamint a leányvállalatok és a jelentős fióktelepek illetékes hatóságaival is konzultációt kell folytatni.
 

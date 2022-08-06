@@ -87,33 +87,3 @@ A szanálhatóság értékelése során a szanálási feladatkörében eljáró 
 12. milyen mértékben hozott létre az intézmény megfelelő eljárásokat annak biztosítására, hogy megadja a szanálási hatóságoknak a betétesek és a betétbiztosítási rendszerek, valamint a befektetők és befektető-védelmi rendszerek által biztosított összegek azonosításához szükséges információkat;
 
 13. ha a csoport csoporton belüli garanciákat használ, milyen mértékben nyújtják ezeket a garanciákat piaci feltételek mellett, és hogy mennyire stabilak az e garanciákhoz kapcsolódó kockázatkezelési rendszerek;
-
-14. ha a csoport kockázat átruházási ügyleteket hajt végre, milyen mértékben történnek ezek az ügyletek piaci feltételek mellett, és hogy mennyire megbízhatóak az ezen ügyletekhez kapcsolódó kockázatkezelési rendszerek;
-
-15. a csoporton belüli garanciák vagy a kockázat átruházási ügyletek alkalmazása csoportszinten mennyire fokozza az átterjedést;
-
-16. a csoport jogi struktúrája – a jogalanyok száma, a csoport struktúrájának összetettsége, illetve az üzletágak és a csoporthoz tartozó vállalkozások egymáshoz rendelésében mutatkozó nehézségek miatt – mennyire akadályozza a szanálási eszközök alkalmazását;
-
-17. az intézmény leírható, illetve átalakítható kötelezettségeinek összege és típusa;
-
-18. ha az értékelés vegyes tevékenységű holdingtársaságra is kiterjed, a csoporthoz tartozó azon vállalkozások szanálása, amelyek intézmények vagy pénzügyi intézmények, mennyire lehet negatív hatással a csoport nem pénzügyi részére;
-
-19. a szolgáltatási szintre vonatkozó megállapodások megléte és hatékonysága;
-
-20. a harmadik országbeli hatóságok rendelkeznek-e az uniós szanálási hatóságok szanálási intézkedéseinek támogatásához szükséges szanálási eszközökkel, továbbá az uniós és a harmadik országbeli hatóságok összehangolt intézkedéseinek hatálya;
-
-21. a szanálási eszközök oly módon történő alkalmazásának megvalósíthatósága, amely megfelel a szanálási céloknak, tekintettel a rendelkezésre álló mechanizmusokra és az intézmény felépítésére;
-
-22. a csoport struktúrája milyen mértékben teszi lehetővé a szanálási hatóságnak, hogy úgy állítsa helyre az egész csoportot vagy az ahhoz tartozó egy vagy több vállalkozást, hogy az ne gyakoroljon közvetlenül vagy közvetve hátrányos hatást a pénzügyi rendszerre, a piaci bizalomra és a gazdaságra, és a csoport egésze értékének a maximalizálását célozza;
-
-23. azok az intézkedések és eszközök, amelyek révén megkönnyíthető olyan csoportok szanálása, amelyek különböző joghatóságok alá tartozó leányvállalatokkal rendelkeznek;
-
-24. annak hitelessége, hogy a szanálási eszközök alkalmazásának módja megfelel a szanálási céloknak, tekintettel a hitelezőkre, a partnerekre, az ügyfelekre és az alkalmazottakra gyakorolt lehetséges hatásra, valamint és a harmadik országbeli hatóságok lehetséges intézkedéseire;
-
-25. mennyire megfelelően értékelhető az intézmény szanálásának a pénzügyi rendszerre és a pénzügyi piaci bizalomra gyakorolt hatása;
-
-26. az intézmény szanálása mennyire jelentős közvetlen vagy közvetett hátrányos hatást gyakorolhat a pénzügyi rendszerre, a piaci bizalomra vagy a gazdaságra;
-
-27. a szanálási eszközök és jogosultságok alkalmazása révén mennyire tartható vissza a más intézményekre vagy a pénzügyi piacokra való továbbterjedés;
-
-28. az intézmény szanálása mennyire jelentős hatást gyakorolhat a fizetési és az elszámolási rendszerek működésére.

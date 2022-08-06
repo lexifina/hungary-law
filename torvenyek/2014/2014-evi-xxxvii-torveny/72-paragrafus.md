@@ -22,11 +22,15 @@ a) intézményre vagy csoportra kidolgozott szanálási terv tekintetében,
 
 b) reorganizációs terv tekintetében és eleget tesz-e a 61. § (2a) bekezdésében, valamint a 69. § (4) bekezdés b) és c) pontjában meghatározott értékek összege fedezetének.
 
-(7) Az intézmény és az 1. § (1) bekezdés b) és c) pont szerinti szervezet által kibocsátott vagy keletkeztetett bármilyen értékpapír vagy kötelezettség – amely nem mentesül a leírási vagy átalakítási hatáskör gyakorlása alól, nem a Hpt. 57. § (1) bekezdés a) és b) pontjába sorolandó betét, és nem EGT-állam jogszabályai által szabályozott – olyan szerződéses feltételt tartalmaz, amely
+(7) Az intézmény és az 1. § (1) bekezdés szerinti szervezet által kibocsátott vagy keletkeztetett bármilyen értékpapír vagy kötelezettség – amely nem mentesül a leírási vagy átalakítási hatáskör gyakorlása alól, nem a Hpt. 57. § (1) bekezdés a) és b) pontjába sorolandó betét, és nem EGT-állam jogszabályai által szabályozott, továbbá amelyet e törvény hatálybalépését követően bocsátanak ki vagy keletkezik, – olyan szerződéses feltételt tartalmaz, amely
 
-a) elismeri, hogy az érintett kötelezettség a szanálási feladatkörében eljáró MNB által hitelezői feltőkésítés alá vonható, valamint
+a) elismeri, hogy az érintett kötelezettség a szanálási feladatkörében eljáró MNB által leírási vagy átalakítási hatáskör gyakorlása alá vonható, valamint
 
 b) hozzájárul a szanálási feladatkörében eljáró MNB leírási, törlési vagy átalakítási hatáskörének érvényesítéséhez.
+
+(7a) A szanálási feladatkörében eljáró MNB azon intézmények és azon 1. § (1) bekezdés szerinti szervezetek tekintetében eltekinthet a (7) bekezdésben foglaltak alkalmazásától, amelyek esetében a szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó minimumkövetelmény megegyezik az e törvény szerint meghatározott veszteségviselési összeggel, feltéve, hogy a (7) bekezdésben foglaltaknak megfelelő, szerződésben nem rögzített kötelezettség nem kerül figyelembevételre a szavatoló tőkére, leírható, illetve átalakítható kötelezettségre vonatkozó minimumkövetelmény teljesítése során.
+
+(7b) A (7) bekezdés szerinti szerződéses feltételre vonatkozó kötelezettség nem alkalmazható, ha a szanálási feladatkörében eljáró MNB megállapítja, hogy a szanálás alá vonható intézmény, vagy az 1. § (1) bekezdés szerinti szervezet által kibocsátott értékpapír vagy kötelezettség harmadik ország joga vagy harmadik országgal kötött megállapodás alapján a szanálási feladatkörében eljáró MNB leírási vagy átalakítási hatáskörébe tartozik.
 
 (8) Az intézménynek vagy az 1. § (1) bekezdés b) és c) pont szerinti szervezetnek nem kötelező a (7) bekezdésben foglalt feltételt az értékpapír vagy kötelezettség szerződéses feltételeibe foglalnia, ha a szanálási feladatkörében eljáró MNB döntésében rögzíti, hogy a megállapodás biztosítja a hitelezői feltőkésítés e törvény szerinti joghatásának kiváltását. A szanálási feladatkörében eljáró MNB kérésére az értékpapírt kibocsátani vagy kötelezettséget keletkeztetni kívánó intézménynek vagy az 1. § szerinti pénzügyi vállalkozásnak jogi szakvéleményt kell bemutatnia arra vonatkozóan, hogy a szanálási feladatkörében eljáró MNB az értékpapír vagy a kötelezettség tekintetében a leírási vagy átalakítási hatáskörét gyakorolhatja.
 

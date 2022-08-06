@@ -50,6 +50,8 @@ c) a szavatoló tőke és az egyéb alárendelt kötelezettségek összege nem h
 
 (12) A (7)–(11) és (13) bekezdés alkalmazásában a partnerek nettósítási jogának teljes elismerésével kell a származtatott kötelezettségeket a teljes kötelezettségállomány részeként tekinteni.
 
+(12a) Szanálás alá vonható szervezet kombinált pufferkövetelményének teljesítéséhez felhasznált szavatoló tőkéje elismerhető a (7)–(11) és (13) bekezdésben meghatározott követelmények teljesítéséhez.
+
 (13) A (7)–(9) bekezdéstől eltérően a szanálási feladatkörében eljáró MNB a globálisan rendszerszinten jelentős intézmény vagy a 67. § (12)–(15) bekezdés szerint szanálás alá vonható szervezet esetében dönthet úgy, hogy a 68/A. §-ban meghatározott követelményt olyan mértékben teljesítse szavatoló tőkével, alárendelt leírható instrumentummal vagy a (6) bekezdés szerinti kötelezettséggel, hogy ezek összege a szanálás alá vonható szervezetnek a kombinált pufferkövetelménye, valamint az 575/2013/EU rendelet 92a. cikke szerinti, a 67. § (12) és (13) bekezdése szerinti, továbbá a 68/A. § szerinti követelmények teljesítésére vonatkozó kötelezettsége miatt ne haladja meg a 4. melléklet 2. pontja szerinti összegekből a magasabb összeget.
 
 (14) A szanálási feladatkörében eljáró MNB a globálisan rendszerszinten jelentős intézmény vagy a 67. § (12)–(15) bekezdés szerint szanálás alá vonható szervezet esetében alkalmazhatja a (13) bekezdés szerinti hatáskört az összes olyan globálisan rendszerszinten jelentős intézmény vagy a 67. § (12)–(15) bekezdés szerint szanálás alá vonható szervezet 30 százalékáig, ha a szanálási feladatkörében eljáró MNB a 68/A. §-ban foglalt követelményt meghatározza és a szanálási feladatkörében eljáró MNB mérlegelése alapján

@@ -36,6 +36,8 @@ ba) elsődleges alapvető tőke, vagy
 
 bb) ugyanazon szanálás alá vonható csoportba tartozó más szervezetek részére került kibocsátásra és azok meg is vásárolták, vagy olyan szervezet számára bocsátották ki és azok vásárolták meg, amelyek nem ugyanabba a szanálás alá vonható csoportba tartoznak és leírásra vagy átalakításra vonatkozó hatáskör nincs hatással a szanálás alá vonható leányvállalat felett a szanálás alá vonható szervezet által gyakorolható ellenőrzésre.
 
+(5a) A szanálási feladatkörében eljáró MNB abban az esetben engedélyezi vagy adhat általános előzetes engedélyt az intézmény kérelmére az (5) bekezdés a) pontja szerinti kötelezettségek lehívására, visszaváltására, visszafizetésére vagy visszavásárlására, ha az 575/2013/EU rendelet 77. és 78a. cikkében rögzített – ideértve a 68/B. § (5) bekezdés a) pontja szerinti kötelezettségeket is –, a leírható, illetve átalakítható kötelezettséginstrumentumok lehívására, visszaváltására, visszafizetésére vagy visszavásárlására vonatkozó a kérelemtől függően az engedélyezés vagy általános előzetes engedély megadásának feltételei az (5) bekezdés a) pontja szerinti kötelezettség esetében is fennállnak.
+
 (6) A szanálási feladatkörében eljáró MNB a szanálás alá vonható szervezetnek nem minősülő leányvállalat esetében eltekinthet az egyedi minimumkövetelmény alkalmazásától, ha
 
 a) a leányvállalat és a szanálás alá vonható szervezet is ugyanabban a tagállamban rendelkezik székhellyel és azonos szanálás alá vonható csoport tagjai,

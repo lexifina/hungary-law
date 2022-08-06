@@ -12,7 +12,7 @@ a) a szanálás alá vonható szervezet,
 
 b) a szanálás alá vonható csoport szanálás alá nem vonható szervezet, vagy
 
-c) az EU-szintű anyavállalat
+c) az EU-szintű anyavállalat – ha az EU-szintű anyavállalat nem ugyanazon szanálás alá vonható csoport szanálás alá vonható szervezete –
 
 szanálási hatósága az érintett szervezet rendelkezésére bocsátja azt.
 

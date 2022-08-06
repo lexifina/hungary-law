@@ -20,4 +20,6 @@ b) az a) pontbeli tételek összetételét, lejárati szerkezetét, fizetéskép
 
 c) a 68/A. §-ban vagy a 68/B. § szerinti, a 62. § (2) bekezdése szerinti követelményt.
 
+(3a) Szanálási intézkedés alkalmazása esetén a (3) bekezdés szerinti nyilvánosságra hozatal a 68/A. §-ra, illetve 68/B. §-ra vonatkozó követelmények teljesítésére előírt határidőtől kezdődően alkalmazandó.
+
 (4) Ezt a §-t nem kell alkalmazni azokra a szervezetekre, amelyeknek a szanálási tervében kizárólag a rendes fizetésképtelenségi eljárás keretében történő felszámolás szerepel.

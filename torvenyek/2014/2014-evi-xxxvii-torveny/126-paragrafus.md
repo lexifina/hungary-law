@@ -20,7 +20,7 @@ b) a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló in
 
 c) a szanálás alatt álló intézmény eszközeinek megvásárlása;
 
-d) áthidaló intézménynek vagy szanálási vagyonkezelőnek nyújtott tőkehozzájárulás;
+d) áthidaló intézménynek vagy szanálási vagyonkezelőnek nyújtott hozzájárulás;
 
 e) a szanálás alatt álló intézmény számára az 59–60. §-ban meghatározott célból történő hozzájárulás;
 

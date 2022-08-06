@@ -10,4 +10,4 @@ b) rendkívüli utólagos hozzájárulások sem állnak az érintett szanálást
 
 a) az Alap által nyújtott kölcsönre ugyanazon kamatlábat, törlesztési időszakot és egyéb feltételeket kell alkalmazni, mint a többi részt vevő szanálást finanszírozó rendszer által nyújtott kölcsönre,
 
-b) az Alap által kölcsönzött összeg nagyságát a Magyarországon található biztosított betétek összegének és a részt vevő szanálást finanszírozó rendszerek tagállamaiban található biztosított betétek aggregáltjának az aránya alapján kell megállapítani.
+b) az Alap által kölcsönzött összeg nagyságát a Magyarországon található biztosított betétek kártalanítási kötelezettség alá tartozó betétrészei összege és a részt vevő szanálást finanszírozó rendszerek tagállamaiban található biztosított betétek kártalanítási kötelezettség alá tartozó betétrészei aggregáltjának az aránya alapján kell megállapítani.
