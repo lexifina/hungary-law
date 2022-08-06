@@ -4,7 +4,7 @@
 
 (2) A kiszervezett tevékenységet végző – a kockázattal arányos mértékben – rendelkezik mindazon személyi, tárgyi és biztonsági feltételekkel, amelyeket jogszabály a kiszervezett tevékenységet illetően a hitelintézetre vonatkozóan előír.
 
-(3) A hitelintézet a Felügyeletnek a kiszervezésről szóló szerződés aláírását követően két munkanapon belül bejelenti:
+(3) A hitelintézet a Felügyeletnek a kiszervezésről szóló szerződés aláírását követően öt munkanapon belül bejelenti:
 
 a) a kiszervezés tényét,
 

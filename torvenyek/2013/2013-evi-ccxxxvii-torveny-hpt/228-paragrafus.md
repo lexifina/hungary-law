@@ -20,6 +20,6 @@ vonatkozásában információt ad.
 
 (7) Az OBA a tagintézetek által megküldött adatállományok alapján legalább háromévente, indokolt esetben gyakrabban teszteli kifizető rendszerének működését. A tesztelés érdekében a tagintézetek által megküldött adatokat az OBA kizárólag a teszteléshez használja fel, a tesztelést követően törli az adatokat.
 
-(8) Kártalanítás esetén a hitelintézet az OBA erre vonatkozó igényének közlését követő három munkanapon belül az OBA rendelkezésére bocsátja a betétnyilvántartásainak az OBA kifizető rendszere által történő feldolgozásához szükséges átalakító programot, valamint biztosítja a betétállományára vonatkozó adatoknak az OBA kifizető rendszere által történő feldolgozhatóságát.
+(8)
 
 (9) Kártalanítás esetén a hitelintézet a 213. § (3) bekezdésben meghatározott feltétel teljesülésének ellenőrzése érdekében haladéktalanul megkeresi a számlával, betéttel rendelkező helyi önkormányzatokat. A helyi önkormányzat a kincstár által kiállított igazolást megküldi a hitelintézet részére és a hitelintézet ennek alapján átadja az OBA-nak a betétbiztosítás alá tartozó helyi önkormányzatok betétállományára vonatkozó adatokat.

@@ -34,7 +34,7 @@ d) a hitelintézet vagy a csoport pénzügyi közvetítőrendszerrel való össz
 
 (5) A globálisan és egyéb rendszerszinten jelentős hitelintézetek meghatározásának módszertanára vonatkozó adatok nem nyilvánosak.
 
-(6) Ha a makroprudenciális feladatkörében eljáró MNB az (1) bekezdés alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal, az Európai Bizottság engedélyéhez kötött határozat esetén a határozat nyilvánosságra hozatala előtt három hónappal tájékoztatnia kell az Európai Rendszerkockázati Testületet
+(6) Ha a makroprudenciális feladatkörében eljáró MNB a 90. § (1) bekezdés alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal, az Európai Bizottság engedélyéhez kötött határozat esetén a határozat nyilvánosságra hozatala előtt három hónappal tájékoztatnia kell az Európai Rendszerkockázati Testületet
 
 a) arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek rendszerszintű kockázatát,
 

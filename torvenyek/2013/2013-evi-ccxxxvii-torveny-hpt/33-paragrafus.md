@@ -14,4 +14,4 @@ b) a hitelintézet az OBA-val fennálló tagsági jogviszonya kizárással megsz
 
 c) a nem vitatott betétből eredő tartozását az esedékességét követő öt napon belül képtelen visszafizetni, és nem valószínű a későbbi visszafizetés sem.
 
-(3) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával vonhatja vissza.
+(3) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával vonhatja vissza. Nem szükséges a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyása, ha a hitelintézet a tevékenységi engedélyét e törvénynek megfelelően visszaadja.

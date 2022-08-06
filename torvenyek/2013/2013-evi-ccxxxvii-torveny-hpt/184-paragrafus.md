@@ -22,7 +22,7 @@ j) nem teljesíti Pmt.-ben előírt kötelezettségét,
 
 k) a hitelintézet nem tesz eleget a 228. § (6) bekezdésében foglalt kötelezettségének.
 
-l) a 31/A. §-t megsértve nem rendelkezik a felügyeleti engedéllyel,
+l) a 31/A. §-t megsértve nem rendelkezik a külön jóváhagyással,
 
 m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 169. § (2) és (3) bekezdése vagy a 181. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
 

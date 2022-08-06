@@ -58,4 +58,4 @@ b) módot ad a hitelintézetnek észrevételei megtételére.
 
 (9) Ha a kölcsön igénybevételét, illetve kötvény kibocsátását szükségessé tevő káresemény kapcsán az OBA bevételre tesz szert, azt elsősorban a fennálló kölcsön- vagy kötvénytartozás csökkentésére, ezt követően pedig a hitelintézeteket terhelő rendkívüli fizetési kötelezettség mérséklésére, visszafizetésére kell fordítani.
 
-(10) A hitelintézet a végelszámolása vagy felszámolása kezdő évében a végelszámolás vagy felszámolás kezdő napjáig terjedő időszakra vonatkozóan az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni. A díj vetítési alapja a hitelintézet által a felszámolás vagy végelszámolás elrendelését megelőzően teljesített legutolsó díjfizetésének alapjául szolgáló betétállomány.
+(10) A hitelintézet tevékenységi engedélye visszavonásának évében az engedély visszavonásának napjáig terjedő időszakra vonatkozóan az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni.

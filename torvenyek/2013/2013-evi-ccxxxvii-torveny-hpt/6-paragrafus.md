@@ -418,6 +418,8 @@ b) a rendelkezési jogosultságának keletkezési időpontjától függetlenül 
 
 4. költségvetési mérlegfőösszeg: a helyi önkormányzat pénzforgalmi teljesítési adatairól adott éves beszámolójában szereplő költségvetési kiadások és költségvetési bevételek összege közül a kisebb összeg; azzal, hogy a helyi önkormányzatra az általa irányított költségvetési szervekkel összevontan számítandó a költségvetési mérlegfőösszeg;
 
+4a. költségvetési szerv: az államháztartásról szóló törvényben meghatározott jogi személy;
+
 5. közös betét: olyan betét, amelynél több betétes van (több személy nevére szól);
 
 6. névre szóló betét: az a betét, amelynek tulajdonosát a Pmt.-nek megfelelően azonosították;
