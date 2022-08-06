@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-18-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-08-05 | 2022-18-20-06.1 | 18/2022. (VIII. 4.) IM rendelet |
+| 2022-08-06 | 2022-18-20-06.2 | 2010: CXXX. törvény |
