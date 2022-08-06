@@ -1,0 +1,5 @@
+## 8. § Az R2. 4/C. § helyébe a következő rendelkezés lép:
+
+## „4/C. (1) A közösségi jármű egyedi forgalomba helyezésének engedélyezését a közlekedési hatóság kérelemre, a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott feltételek alapján, a származási országban kiadott okmányok bemutatása és a jármű szemléje alapján jármű-honosítási eljárás alkalmazásával végzi. A jármű-honosítási eljárásra az egyedi forgalomba helyezési engedélyezési eljárás e rendeletben meghatározott szabályait kell alkalmazni.
+
+## (2) A jármű-honosítási eljárásban a jármű nyilvántartásba vételéhez szükséges, valamint a regisztrációs adóról szóló törvényben meghatározott további adatait a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott feltételek alapján, a származási országban kiadott okmányok figyelembevételével kell megállapítani.”

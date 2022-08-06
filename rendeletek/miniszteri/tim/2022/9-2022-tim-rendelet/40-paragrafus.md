@@ -1,0 +1,1 @@
+## „(6a) Ha a vizsgaigazolást a vizsgaközpont már kiadta, a vizsga érvénytelenítéséről szóló döntésről és a vizsgaigazolás visszavonásáról a vizsgaközpont elektronikus úton tájékoztatja a közúti közlekedési nyilvántartó szervet.”

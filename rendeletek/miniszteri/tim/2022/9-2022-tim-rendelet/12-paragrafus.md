@@ -1,0 +1,1 @@
+## „(7) Az MR. 111. és 112. §-ában a különleges felépítményű járműre meghatározott követelmények teljesítését a felépítmény fajtája szerinti – jogszabály alapján e tevékenység ellátására jogosult – szakértő által hat hónapnál nem régebben kiállított szakvéleménnyel kell a honosítási eljárás és a forgalomba helyezés előtti vizsgálat során igazolni.”

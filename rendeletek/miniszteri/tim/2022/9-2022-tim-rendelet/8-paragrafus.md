@@ -1,0 +1,1 @@
+## „(7) A közlekedési hatóság minden a negyedév végét követő második hónap 15-éig egyezteti a járműgyártóval vagy az általa kijelölt importőrrel a tárgyi negyedévben az (1) bekezdés alapján rendelkezésére álló adatokat.”

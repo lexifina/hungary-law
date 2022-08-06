@@ -1,0 +1,7 @@
+## „(13) Közösségi járműre – ha az megfelel az e rendeletben és a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben a jármű-honosítási eljárásra előírt feltételeknek – egyedi forgalomba helyezési engedélyt nem kell kiadni. A járműre a műszaki adatlapot és a műszaki vizsgálati bizonyítványt a (8) bekezdésben meghatározott feltételek ellenőrzése nélkül, a jármű forgalomban tartására vonatkozóan a származási országban megszerzett jogosultság igazolása mellett, a 4/C. §-ban meghatározott jármű-honosítási eljárásban kell kiadni.”
+
+7. § (1) Az R2. 4/A. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) A közlekedési hatóság minden naptári évre vonatkozóan – a járműgyártóktól vagy az általuk kijelölt importőröktől kapott adatszolgáltatás alapján – nyilvántartást vezet az illetékességi területén nyilvántartásba vett új nehézgépjárművek adatairól az új nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának nyomon követéséről és bejelentéséről szóló, 2018. június 28-i (EU) 2018/956 európai parlamenti és tanácsi rendelet 4. cikkében foglalt adattartalommal. A járműgyártó vagy az általuk kijelölt importőr minden naptári hónapot követő 15. napig megküldi a közlekedési hatóság részére a naptári hónapban nyilvántartásba vett új nehézgépjármű adatait.”
+
+(2) Az R2. 4/A. §-a a következő (7) bekezdéssel egészül ki:
