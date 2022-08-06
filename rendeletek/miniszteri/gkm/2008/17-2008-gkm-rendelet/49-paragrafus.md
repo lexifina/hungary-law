@@ -1,4 +1,4 @@
-## 47–48. §[^54]
+## 47–48. §[^55]
 
 ## V. Fejezet
 
@@ -24,4 +24,4 @@ e) operatív munkahelyen teljesített munkaidejét.
 
 (5) A szolgáltató az engedélyest a szakszolgálat ellátásától eltiltja, ha tudomására jut, hogy az engedélyes a szolgálati tevékenység ellátására alkalmatlanná vált.
 
-[^54]: A 47–48. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § f) pontja hatályon kívül helyezte.
+[^55]: A 47–48. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § f) pontja hatályon kívül helyezte.

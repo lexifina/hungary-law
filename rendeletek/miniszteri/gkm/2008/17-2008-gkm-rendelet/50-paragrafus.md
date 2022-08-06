@@ -1,3 +1,3 @@
-## VI. Fejezet[^55]
+## VI. Fejezet[^56]
 
-[^55]: A VI. Fejezetet (50–51. §)a 43/2016. (XI. 2.) NFM rendelet 14. § 25. pontja hatályon kívül helyezte.
+[^56]: A VI. Fejezetet (50–51. §)a 43/2016. (XI. 2.) NFM rendelet 14. § 25. pontja hatályon kívül helyezte.

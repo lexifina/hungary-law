@@ -1,4 +1,4 @@
-## Légiforgalmi tiszt szakszolgálati engedély kiadásának feltételei[^36]
+## Légiforgalmi tiszt szakszolgálati engedély kiadásának feltételei[^37]
 
 34. § (1) Légiforgalmi tiszt szakszolgálati engedélyt az a kérelmező kaphat, aki
 
@@ -12,4 +12,4 @@ d) a jogosításhoz és – ha a jogosításhoz kapcsolódhat – jogosítás-ki
 
 (2) Légiforgalmi tiszt szakszolgálati engedély megszerzését követően további jogosítást és – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztést az a kérelmező kaphat, aki a jogosításhoz és – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztéshez szükséges kezdő képzést, munkahelyi képzést és munkahelyi vizsgát sikeresen teljesítette.
 
-[^36]: A 34. §-t megelőző alcím címe a 43/2016. (XI. 2.) NFM rendelet 13. § 7. pontja szerint módosított szöveg.
+[^37]: A 34. §-t megelőző alcím címe a 43/2016. (XI. 2.) NFM rendelet 13. § 7. pontja szerint módosított szöveg.

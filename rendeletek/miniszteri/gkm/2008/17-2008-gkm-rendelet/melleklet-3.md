@@ -114,130 +114,38 @@
 
 | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/4 | dátum |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/4 | dátum |
 
-3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^132]
+3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^133]
 
-## SZAKSZOLGÁLATI ENGEDÉLY KÉRŐ LAP
+## A REPÜLÉSTÁJÉKOZTATÓ TISZT ÉS LÉGIFORGALMI TISZT SZAKSZOLGÁLATI ENGEDÉLY KÉRELEM KÖTELEZŐ TARTALMI ELEMEI
 
-1. Szakszolgálati engedély kérő lap:
+1. A szakszolgálati engedély száma (amennyiben rendelkezésre áll)
 
-| Légiközlekedési hatóság megnevezése (A szervezet hivatalos emblémájával ellátva) | Kitöltési útmutató: Kérjük, nyomtatott NAGYBETŰKKEL töltse ki! A vonatkozó rovatokat szöveggel vagy jellel [X] töltse ki. |
+2. Személyi adatok (név, születési idő, hely, állampolgárság, anyanyelv, lakcím, e-mail-cím)
 
-| [ | ] | A SZAKSZOLGÁLATI ENGEDÉLY SZÁMA (HA VAN) |
+3. A kért szakszolgálati engedély típusa (repüléstájékoztató, légiforgalmi tiszt)
 
-| 1. A kért szakszolgálati engedély |
+3.1. A kérelmezett jogosítás vagy kiterjesztés (munkahelyi, szakszolgálati, nyelvi) és annak típusa (első kiadás, meghosszabbítás, megújítás)
 
-| [ ] |
+4. Elvégzett képzés illetve sikeres vizsga
 
-| [ ] |
+4.1. Kezdő képzés (a képzési szervezet neve, a képzés befejezésének dátuma)
 
-| [ ] Első repüléstájékoztató tiszt | Kitöltendő 2a., 2.b., 3a., 3b., 4., 5a., 5c., 6./melléklet 9.-1, 2, 3, 4. |
+4.2. Munkahelyi képzés (a képzés munkahelye, befejezésének dátuma, a munkahelyi vizsga időpontja)
 
-| [ ] Első légiforgalmi tiszt | Kitöltendő 2a., 2.b., 3a., 3b., 5a., 6./melléklet 9.-1., 2., 4. |
+4.3. Nyelvismereti vizsga (a vizsgáztatást végző szervezet, a nyelvismereti vizsga nyelve, időpontja, elért szintje)
 
-|  | Szakszolgálati kiterjesztés |
+5. A kérelmező nyilatkozata arról, hogy az általa megjelölt adatok a valóságnak megfelelnek, a kérelmező aláírása
 
-| [ ] | További jogosítás, jogosítás-kiterjesztés, munkahelyi kiterjesztés, nyelvi kiterjesztés Kitöltendő a kérelem típusától függően 2, 3a., 3b ., 5a., 5b., 5c., 6.,/melléklet 9.-1., 2., 4. |
+6. A szolgáltató igazolása a jogosítás, a munkahelyi kiterjesztés és a szakszolgálati kiterjesztés meghosszabbítása esetén arról, hogy a kérelmező a jogszabályi követelményeket teljesítette
 
-| [ ] Munkahelyi kiterjesztés, jogosítás vagy jogosítás- kiterjesztés meghosszabbítása | Kitöltendő 2a., 2.b., 5a-5c., 6., 7a. vagy 7b. |
+7. A kérelem megalapozottságát igazoló dokumentumok másolata, különösen
 
-| [ ] Szakszolgálati kiterjesztés meghosszabbítása vagy megújítása | Kitöltendő 2a., 2b., 5a., 5b., 5c., 6., 7a. |
+7.1. A kezdő képzés sikeres elvégzéséről kiállított igazolás másolata
 
-| [ ] Nyelvi kiterjesztés meghosszabbítása vagy megújítása | Kitöltendő 2a., 2.b., 4., 5a., 5c., 6./melléklet 9.-4. |
+7.2. Munkahelyi képzés sikeres elvégzéséről kiállított igazolás másolata
 
-| [ | ] | Munkahelyi kiterjesztés, jogosítás vagy jogosítás-kiterjesztés megújítása Kitöltendő 2a., 2.b., 3a., 3b., 4., 5a., 5c., 6. |
+7.3. Nyelvismereti vizsga teljesítéséről kiállított bizonyítvány másolata
 
-| 2a. Személyi adatok |
+7.4. Munkahelyi vizsga jegyzőkönyv másolata
 
-| Vezetéknév [ | ] | Keresztnév [ | ] |
-
-| Születési dátum (év/hó/nap) | Születési hely | Állampolgárság | Anyanyelv |
-
-| [ | / | / | ] | [ | ] | [ | ] | [ | ] |
-
-| Lakcím | Helység [ | ] | Irányítószám [ | ] |
-
-| Utca [ | ] | Házszám [ | ] | Telefonszám [ | ] |
-
-| E-mail [ |  |  | ] |
-
-| 2b. A szolgáltató megnevezése | [ |  | ] |
-
-| 3a. Kezdő képzés | Az 5a. pontban jelölje meg azt a jogosítást/jogosítás-kiterjesztést, amelyben a kezdő képzést sikeresen elvégezte, és amelynek kiadását kérelmezi. |
-
-|  | A képzési szervezet neve [ |  | ] |
-
-|  | A képzés dátuma (év/hó/nap) [ | / | / | -tól | / | / | -ig] |
-
-| 3b. Munkahelyi képzés | Az 5c. pontban jelölje meg azt a munkahelyet, amelyben a munkahelyi képzést |
-
-|  | sikeresen elvégezte, és amelynek kiadását kérelmezi. |
-
-|  | A munkahelyi képzés dátuma (év/hó/nap) | [ / | / | -tól | / | / | -ig] |
-
-|  | A munkahelyi vizsga időpontja | [ | ] |
-
-| 4. Nyelvismereti vizsga | Nyelvismereti vizsgáztatást végző szervezet [ | ] |
-
-|  | Nyelvismereti vizsga időpontja (év/hó/nap) | [ / | / | ] |
-
-|  | Nyelvismereti vizsga nyelve/elért szintje [ | / | ] |
-
-| Oldal 1/2 |
-
-| 5a. Jogosítás és jogosítás-kiterjesztés |
-
-| [ ] |  |
-
-| Körzeti repüléstájékoztató (FIS) [ ] | Radaralapú repüléstájékoztatás (RADA) [ ] |
-
-| Repülőtéri repüléstájékoztató (AFIS) [ ] |  |
-
-| Légiforgalmi tájékoztatás (AIS) [ ] | NOTAM (NOTAM) [ ] Repülésbejelentő (ARO) [ ] PUB/SDO (PUB/SDO) [ ] |
-
-| Repülési adatfeldolgozó (FD) [ ] |
-
-| Áramlásszervezés (FMP) [ ] |
-
-| Légtérgazdálkodás (ASM) [ ] |
-
-| 5b. Szakszolgálati kiterjesztés |
-
-| Munkahelyi gyakorlati oktató (OJTI) [ ] |
-
-| 5c. Munkahelyi kiterjesztés |
-
-| Munkahelyi képzés munkahelye (ha van ICAO kód vagy szektor) |
-
-| [ | ] |  |  |
-
-| 6. A kérelmező nyilatkozata |
-
-| Kijelentem, hogy a fenti kérelmet figyelmesen áttekintettem és abban foglaltak a valóságnak megfelelnek. |
-
-| Aláírás |  | Dátum |  |
-
-| 7a. A szolgáltató igazolása repüléstájékoztató szakszolgálati engedély munkahelyi kiterjesztésének vagy szakszolgálati kiterjesztésének meghosszabbítása esetén |
-
-| A kérelmező a léginavigációs szolgálatot és a légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet 28. § (3) bekezdés a)-c) pontjában meghatározott feltételeket, valamint a jóváhagyott továbbképzési programban a kérelmezőre meghatározott egyéb feltételeket teljesítette. |
-
-| Név | Aláírás | Dátum |
-
-| 7b. A szolgáltató igazolása légiforgalmi tiszt szakszolgálati engedély jogosítás vagy jogosítás kiterjesztésének meghosszabbítása esetén |
-
-| A kérelmező a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló Korm. rendeletben meghatározott feltételeket teljesítette. |
-
-| Név | Aláírás | Dátum |
-
-| 8. Költségek (a hatóság tölti ki) |
-
-| Megjegyzések: |
-
-| Beérkezés időpontja: | Feldolgozó aláírása: |
-
-| 9. A kérelemhez csatolandó melléketek |
-
-| 1. A kezdő képzés sikeres elvégzéséről kiállított igazolás másolata - képzési szervezet állítja ki 2. Munkahelyi képzés sikeres elvégzéséről kiállított igazolás másolata - képzési szervezet állítja ki 3. Nyelvismereti vizsga teljesítéséről kiállított bizonyítvány másolata - nyelvismereti vizsgáztatást végző szervezet állítja ki -, illetve a nyelvismeretet - a léginavigációs szolgálatot és a légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendeletben foglaltak szerint - egyéb módon igazoló dokumentum 4. Munkahelyi vizsga jegyzőkönyv másolata - képzési szervezet állítja ki |
-
-| Oldal 2/2 |
-
-[^132]: A 3. melléklet a 34/2019. (IX. 13.) ITM rendelet 12. §-ával megállapított szöveg.
+[^133]: A 3. melléklet a 9/2022. (VIII. 1.) TIM rendelet 56. §-ával megállapított szöveg.

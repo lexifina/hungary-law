@@ -1,5 +1,5 @@
-## 57. §[^63]
+## 57. §[^64]
 
 1. melléklet a 17/2008. (IV. 30.) GKM rendelethez
 
-[^63]: Az 57. §-t a 43/2016. (XI. 2.) NFM rendelet 14. § 27. pontja hatályon kívül helyezte.
+[^64]: Az 57. §-t a 43/2016. (XI. 2.) NFM rendelet 14. § 27. pontja hatályon kívül helyezte.

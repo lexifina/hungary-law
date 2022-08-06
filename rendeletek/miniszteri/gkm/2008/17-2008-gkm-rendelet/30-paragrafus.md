@@ -1,4 +1,4 @@
-## 29. §[^29]
+## 29. §[^30]
 
 ## 3. CÍM
 
@@ -12,4 +12,4 @@
 
 (2) Az engedélyes olyan légiforgalmi tiszt szolgálati tevékenységet, amelyhez megfelelő jogosítással, jogosítás-kiterjesztéssel nem rendelkezik csak képzés keretében, legalább 3 éve érvényes légiforgalmi tiszt szakszolgálati engedéllyel és a képzés típusának megfelelő jogosítással, – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztéssel rendelkező engedélyes felügyelete mellett láthat el.
 
-[^29]: A 29. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § b) pontja hatályon kívül helyezte.
+[^30]: A 29. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § b) pontja hatályon kívül helyezte.
