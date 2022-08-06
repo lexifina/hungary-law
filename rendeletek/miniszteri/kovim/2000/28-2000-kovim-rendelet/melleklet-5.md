@@ -34,6 +34,6 @@
 
 | BUDAPEST FŐVÁROS KORMÁNYHIVATALA Government Office of the Capital City Budapest Das Regierungsamt der Hauptstadt Budapest |
 
-5. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^39]
+5. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^40]
 
-[^39]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.
+[^40]: Az 5. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának d) pontja szerint módosított szöveg.

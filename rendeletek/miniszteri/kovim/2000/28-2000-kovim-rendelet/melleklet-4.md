@@ -40,6 +40,6 @@
 
 | BUDAPEST FŐVÁROS KORMÁNYHIVATALA |  |  |  |  |  |
 
-4. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^38]
+4. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^39]
 
-[^38]: A 4. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának j) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja, az 1/2017. (I. 3.) NFM rendelet 18. § f) pontja szerint módosított szöveg.
+[^39]: A 4. számú melléklet a 95/2006. (XII. 27.) GKM rendelet 26. §-ának j) pontja, a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja, az 1/2017. (I. 3.) NFM rendelet 18. § f) pontja szerint módosított szöveg.

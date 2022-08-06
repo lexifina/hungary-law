@@ -8,26 +8,19 @@
 
 (4)[^8] A közlekedésért felelős miniszter a kiadott vizsgabizonyítványokról nyilvántartást vezet.
 
-(5) Nem szükséges vizsgát tennie annak a személynek,
+(5)[^9] Nem szükséges az 1. számú melléklet A. rész 1. pont 1.4. és 1.5. alpontjában meghatározott hajózási szakmai tárgyakból vizsgát tennie annak a személynek, akinek
 
-a) akinek
+a) belvízi nagyhajó vezetésére jogosító képesítése,
 
-aa) belvízi fedélzeti tiszti,
+b) tengerész fedélzeti tiszti, vagy magasabb képesítése vagy
 
-ab) hajóvezető ,,A'',
+c) hajózási szakirányú egyetemi, főiskolai végzettsége
 
-ac) tengerésztiszti, illetve
-
-ad) a hajózási képesítésekről szóló 2/1995. (II. 24.) KHVM rendelet szerint az aa)–ac) pontokban meghatározottnál magasabb
-
-## képesítése van; vagy
-
-b) akinek hajózási szakirányú egyetemi, főiskolai végzettsége van; vagy
-
-c) aki a rendelet hatálybalépése előtt tíz éven belül legalább öt évig hajózási vállalkozásnál hajózási felügyelői beosztásban dolgozott.
+## van.
 
 (6) A hajózási hatóság az Európai Közösség valamely másik tagállamának illetékes hatósága által kiállított szakmai alkalmasságot igazoló vizsgabizonyítványt, illetve a másik tagállam által kiállított – az (5) bekezdésben meghatározott valamely feltétel meglétét tanúsító – képesítést vagy igazolást a szakmai alkalmasság kielégítő bizonyítékának ismeri el.
 
 [^6]: A 6. § (1) bekezdése a 45/2019. (XII. 20.) ITM rendelet 1. §-a szerint módosított szöveg.
 [^7]: A 6. § (2) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdés 17. pontja, az 1/2017. (I. 3.) NFM rendelet 18. § a)–b) pontja szerint módosított szöveg.
 [^8]: A 6. § (4) bekezdése az 1/2017. (I. 3.) NFM rendelet 18. § c) pontja szerint módosított szöveg.
+[^9]: A 6. § (5) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 16. §-ával megállapított szöveg.
