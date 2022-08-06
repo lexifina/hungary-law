@@ -18,7 +18,7 @@ f) a kötvény futamidejét (kivéve a lejárat nélküli kötvényt); a kamatfi
 
 g) a kötvény összegének visszafizetését (kivéve a lejárat nélküli kötvényt) és a kamat megfizetését biztosító kötelezettségvállalásokat,
 
-h) egyoldalú kezességvállalás esetén a kezességvállaló jognyilatkozatát és aláírását,
+h) egyoldalú jognyilatkozattal történő kezességvállalás esetén a kezességvállaló jognyilatkozatát és aláírását,
 
 i) a kötvény kiállításának helyét és napját,
 

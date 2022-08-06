@@ -6,6 +6,8 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 2. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 
+2a. Ákr.: az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény,
+
 3. Bit.: a biztosítási tevékenységről szóló törvény,
 
 4. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
@@ -32,7 +34,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 15. Pmt.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény,
 
-16.
+16. a polgári perrendtartásról szóló 2016. évi CXXX. törvény,
 
 17. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
 

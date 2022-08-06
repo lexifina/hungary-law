@@ -1,0 +1,1 @@
+347. § A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett – ennek hiányában a miniszter segítésére kijelölt – minisztérium ellátja az (EU) 2021/23 európai parlamenti és tanácsi rendelet 3. cikk (8) bekezdése szerinti minisztériumi feladatokat.
