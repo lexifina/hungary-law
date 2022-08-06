@@ -1,9 +1,9 @@
 19. § (1) Amennyiben az utaskiszolgálás, a repülési tevékenység vagy az infrastruktúra biztosítása területén a repülőtér üzemben tartója által nyújtott szolgáltatások bármelyikének minősítése négy egymást követő negyedéves jelentésben „jóval átlag alatti” marad, a repülőtér üzemben tartójának annyiszor 0,25%-kal csökkentenie kell az árplafont, ahány kategóriában a fenti feltételek fennálltak. Egy kategória által kiváltott csökkentés mindaddig hatályban marad, amíg a minősítés nem javul. A pénzügyi ösztönző korrekciók mértéke összesen legfeljebb 2,5% lehet. A repülőtér üzemben tartója a tényleges szolgáltatásminőség elégtelen volta miatt köteles az egy utasra jutó árplafont legfeljebb 5%-kal csökkenteni. Az 5 %-os csökkentésből legfeljebb 2,5%-os csökkentés történhet a repülőtéri infrastruktúra rendelkezésre állására vonatkozó objektív, továbbá legfeljebb 2,5%-os csökkentés történhet a fogyasztói elégedettségi felmérések szubjektív értékelése alapján.
 
-(2)[^8] A szolgáltatásminőség elégtelensége miatti pénzügyi ösztönző korrekciók összegét a repülőtér üzemben tartója köteles naptári negyedévenként meghatározni, és a negyedév végét követő 30 napon belül köteles a légiközlekedési hatóság részére a szolgáltatás minőségéről szóló jelentését átadni.
+(2)[^10] A szolgáltatásminőség elégtelensége miatti pénzügyi ösztönző korrekciók összegét a repülőtér üzemben tartója köteles naptári negyedévenként meghatározni, és a negyedév végét követő 30 napon belül köteles a légiközlekedési hatóság részére a szolgáltatás minőségéről szóló jelentését átadni.
 
 (3) A repülőtér üzemben tartója a naptári év végét követő 120 napon belül köteles légitársasági ügyfelei számára a pénzügyi ösztönző korrekciók összegét az érintett évben tőlük a szabályozott szolgáltatásokon realizált árbevétellel arányosan egy összegben visszatéríteni.
 
 (4) Amennyiben az objektív értékelési szempontokhoz kapcsolódó pénzügyi ösztönző korrekció kizárólag a repülőtér egyik termináljához tartozó létesítményekhez kapcsolódik, akkor azt kizárólag az adott terminált használó légitársaságok között kell felosztani.
 
-[^8]: A 19. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 50. §-ával megállapított szöveg.
+[^10]: A 19. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 50. §-ával megállapított szöveg.
