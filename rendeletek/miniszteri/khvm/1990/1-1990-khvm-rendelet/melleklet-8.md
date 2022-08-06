@@ -30,6 +30,6 @@
 
 ## A vonatkozó törvény által kijelölt berendezések kötelező hitelesítésénél, ha a hitelesítési és a karbantartási időpont egybeesik vagy közel esik egymáshoz, akkor a hitelesítés elvégzése mellett a kalibrálási műveletet elhagyható.
 
-8. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^156]
+8. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^169]
 
-[^156]: A 8. számú mellékletet a 29/2004. (III. 12.) GKM rendelet 6. §-ának (6) bekezdése iktatta be, hatályon kívül helyezte a 63/2009. (XI. 23.) KHEM rendelet 7. § (2) bekezdése.
+[^169]: A 8. számú mellékletet a 29/2004. (III. 12.) GKM rendelet 6. §-ának (6) bekezdése iktatta be, hatályon kívül helyezte a 63/2009. (XI. 23.) KHEM rendelet 7. § (2) bekezdése.

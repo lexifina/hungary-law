@@ -1,6 +1,6 @@
-5. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^152]
+5. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^165]
 
-## A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^153]
+## A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^166]
 
 A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata
 
@@ -10,99 +10,101 @@ A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabál
 
 3. A méréseket, vizsgálatokat a berendezések (műszerek) alkalmazási (gyári kezelési) utasításainak betartásával kell végezni.
 
-| Munkafolyamat | Mérések, vizsgálatok és a közlendő adatok | A vizsgálat módja, eszköze |
+|  | A | B | C |
 
-| fékberendezés ellenőrzés, javítás1 | kerékfékerő a pedálerő függvényében (légféknél kivezérelt nyomás függvényében), oldalak közötti fékerő eltérés, | görgős fékerőmérő próbapad |
+| 1. | Munkafolyamat | Mérések, vizsgálatok és közlendő adatok | A vizsgálat módja, eszköze |
 
-|  | fékerő ingadozás vagy lassulás2 | lassulásmérő, regisztráló szerkezettel |
+| 2. | fékberendezés ellenőrzés, javítás | kerékfékerő a pedálerő – motorkerékpár esetében a fékkar működtető erő – függvényében (légféknél kivezérelt nyomás függvényében), gépkocsik esetében az oldalak közötti fékerő eltérés, | görgős fékerőmérő próbapad |
 
-|  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
+| 3. |  | fékerő ingadozás vagy lassulás2 | lassulásmérő, regisztráló szerkezettel |
 
-| futómű ellenőrzés, javítás, | kerékösszetartás kerékdőlés csapterpesztés csapszeg-utánfutás kanyarodási szögeltérés nyomkövetés, tengelyhelyzet | futómű-ellenőrző készülék |
+| 4. |  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
 
-| gyorsvizsgálat | oldalkúszás | elmozdulólapos futómű ellenőrző |
+| 5. | futómű ellenőrzés, javítás, | kerékösszetartás kerékdőlés csapterpesztés csapszeg-utánfutás kanyarodási szögeltérés nyomkövetés, tengelyhelyzet motorkerékpárok esetében egynyomon futás, tengelytáv, villadőlés | futómű-ellenőrző készülék |
 
-|  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
+| 6. | gyorsvizsgálat | oldalkúszás | elmozdulólapos futómű ellenőrző |
 
-| lengéscsillapító ellenőrzés, javítás3 | diagram vagy mért érték | kiszerelés, illetve kiszerelés nélküli lengéscsillapító próbapad |
+| 7. |  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
 
-|  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
+| 8. | lengéscsillapító ellenőrzés, javítás3 | diagram vagy mért érték | kiszerelés, illetve gépkocsik esetében kiszerelés nélküli lengéscsillapító próbapad |
 
-| kerékkiegyensúlyozás4 | maradó kiegyensúlyozatlanság síkonként | leszerelt kerekeket kiegyensúlyozó készülék felszerelt kerekeket kiegyensúlyozó készülék |
+| 9. |  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
 
-| fényszóró beállítás, javítás | tompított fény 10 m-re vetített sötét-világos határának a fényszórótengely magasságához viszonyítva mm-ben, vízszintes irányeltérés | fényszóró beállító készülék, vagy az MSZ 07–4420:1981 szabvány előírásának megfelelő mérési elrendezés |
+| 10. | kerékkiegyensúlyozás4 | maradó kiegyensúlyozatlanság síkonként | leszerelt kerekeket kiegyensúlyozó készülék felszerelt kerekeket kiegyensúlyozó készülék |
 
-|  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
+| 11. | fényszóró beállítás, javítás | tompított fény 10 m-re vetített sötét-világos határának a fényszórótengely magasságához viszonyítva mm-ben, vízszintes irányeltérés | fényszóró beállító készülék, |
 
-| légfékszerelvény ellenőrzés, javítás | nyomás és időmérések a funkciónak megfelelően | légfékszerelvényeket vizsgáló próbapad vagy műszerkészlet |
+| 12. |  | gumiabroncs nyomása a méréskor | gumiabroncsnyomás-mérő |
 
-| fékfolyadék állapot ellenőrzés | víztartalom | víztartalom ellenőrző készülék |
+| 13. | légfékszerelvény ellenőrzés, javítás | nyomás és időmérések a funkciónak megfelelően | légfékszerelvényeket vizsgáló próbapad vagy műszerkészlet |
 
-| kipufogógáz szennyezőanyag-tartalmának ellenőrzése | 6/1990. (IV. 12.) KöHÉM rendelet követelményei ellenőrzéséhez szükséges mérési eredmények | gázelemző készülék, fordulatszámmérő, motorolaj hőmérsékletmérő |
+| 14. | fékfolyadék állapot ellenőrzés | víztartalom | víztartalom ellenőrző készülék |
 
-| dízel füstölés ellenőrzés | 6/1990. (IV. 12.) KöHÉM rendelet követelményei ellenőrzéséhez szükséges mérési eredmények | füstölésmérő készülék fordulatszámmérő motorolaj hőmérséklet mérő |
+| 15. | kipufogógáz szennyezőanyag-tartalmának ellenőrzése | 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének követelményei ellenőrzéséhez szükséges mérési eredmények | gázelemző készülék, fordulatszámmérő, gépkocsik esetében motorolaj hőmérsékletmérő |
 
-| zajkibocsátás ellenőrzése | 6/1990. (IV. 12.) KöHÉM rendelet közeltéri zajmérés követelményei ellenőrzéséhez szükséges mérési eredmények | zajszintmérő műszer fordulatszámmérő |
+| 16. | dízel füstölés ellenőrzés | 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének követelményei ellenőrzéséhez szükséges mérési eredmények | füstölésmérő készülék fordulatszámmérő gépkocsik esetében motorolaj hőmérséklet mérő |
 
-| elektronikusan irányított rendszerek ellenőrzése (ABS, ESP, motormenedzsment, légzsák stb.)5 | az öndiagnosztikai állapotfelügyeletben tárolt hibakód kiolvasás | hibakód kiolvasó vagy rendszerteszter |
+| 17. | zajkibocsátás ellenőrzése | 6/1990. (IV. 12.) KöHÉM rendelet 3. számú mellékletének közeltéri zajmérés követelményei ellenőrzéséhez szükséges mérési eredmények | zajszintmérő műszer fordulatszámmérő |
 
-| gyújtásellenőrzés, javítás | zárásszög alapelőgyújtás röpsúlyos szabályzó, a szabályozás kezdetéhez tartozó fordulatszám, a szabályozás végéhez tartozó szögérték és fordulatszám | zárásszögmérő előgyújtásszög-mérő fordulatszámmérő |
+| 18. | elektronikusan irányított rendszerek ellenőrzése (ABS, ESP, motormenedzsment, légzsák stb.)5 | az öndiagnosztikai állapotfelügyeletben tárolt hibakód kiolvasás | OBD, EOBD hibakód kiolvasó vagy rendszerteszter |
 
-|  | vákuumszabályozó, a szabályozás kezdeti és végpontjához tartozó szög- és vákuumérték | vákuummérő műszer |
+| 19. | gyújtásellenőrzés, javítás | elektronikus gyújtás dinamikus paraméterei zárásszög alapelőgyújtás röpsúlyos szabályzó, a szabályozás kezdetéhez tartozó fordulatszám, a szabályozás végéhez tartozó szögérték és fordulatszám | OBD, EOBD hibakód kiolvasó vagy rendszerteszter zárásszögmérő előgyújtásszög-mérő fordulatszámmérő |
 
-|  | primer és szekunder gyújtáskép | gyújtásvizsgáló oszcilloszkóp |
+| 20. |  | vákuumszabályozó, a szabályozás kezdeti és végpontjához tartozó szög- és vákuumérték | vákuummérő műszer |
 
-| dízel előbefecskendezési szöghelyzet beállítása, fordulatszámmérés | előbefecskendezési szöghelyzet főtengely °-ban alapjárati fordulatszám | előbefecskendezési szöghelyzetmérő műszer vagy kapilláriscső |
+| 21. |  | primer és szekunder gyújtáskép | gyújtásvizsgáló oszcilloszkóp |
 
-|  | leszabályozási fordulatszám | dízel fordulatszámmérő |
+| 22. | dízel előbefecskendezési szöghelyzet beállítása, fordulatszámmérés | elektronikus befecskendező dinamikus paraméterei előbefecskendezési szöghelyzet főtengely °-ban alapjárati fordulatszám | OBD, EOBD hibakód kiolvasó vagy rendszerteszter előbefecskendezési szöghelyzetmérő műszer vagy kapilláriscső |
 
-| dízel befecskendező szivattyú javítás, ellenőrzés | adagoláskezdet mm-ben, hengerenként a szállítás mm3/löket legnagyobb üzemi töltés, mm3/löket az üzemi ford.szám két távoleső pontján Indítótöltés mm3/löket üresjárati szabályozás kezdeti és befejező ford. száma üresjárati töltésegyenlőség mm3/löket végszabályzás kezdeti és a leszabályozott nulltöltéshez tartozó ford. szám előbefecskendezés-szabályozó működési tartománya | indikátoróra dízel befecskendező szivattyú ellenőrző próbapad |
+| 23. |  | leszabályozási fordulatszám | OBD, EOBD hibakód kiolvasó vagy rendszerteszter dízel fordulatszámmérő |
 
-| dízel befecskendező fúvóka javítás, ellenőrzés | porlasztási nyitónyomás porlasztás minőségének és kúpszögének megfelelősége, befecskendező fúvókaszelep tömítettségének megfelelősége | dízel befecskendező fúvóka vizsgáló készülék |
+| 24. | dízel befecskendező szivattyú javítás, ellenőrzés | elektronikus befecskendező dinamikus paraméterei adagoláskezdet mm-ben, hengerenként a szállítás mm3/löket legnagyobb üzemi töltés, mm3/löket az üzemi ford. szám két távoleső pontján Indítótöltés mm3/löket üresjárati szabályozás kezdeti és befejező ford. száma üresjárati töltésegyenlőség mm3/löket végszabályzás kezdeti és a leszabályozott nulltöltéshez tartozó ford. szám előbefecskendezés-szabályozó működési tartománya | OBD, EOBD hibakód kiolvasó vagy rendszerteszter indikátoróra dízel befecskendező szivattyú ellenőrző próbapad |
 
-| dízel táprendszer javítás, ellenőrzés | tápszivattyú maximális nyomása nyomáshatároló szelep beállítási értéke tápszivattyú szívóképességének megfelelősége | dízel befecskendező próbapad vagy nyomásmérő és működtető berendezés |
+| 25. | dízel befecskendező fúvóka javítás, ellenőrzés | porlasztási nyitónyomás porlasztás minőségének és kúpszögének megfelelősége, befecskendező fúvókaszelep tömítettségének megfelelősége | dízel befecskendező fúvóka vizsgáló készülék |
 
-| karburátor javítás, beállítás | benzin és levegőfúvókák mérete, vagy átfolyás | fúvóka kaliber, vagy átfolyás-mérő |
+| 26. | dízel táprendszer javítás, ellenőrzés | tápszivattyú maximális nyomása nyomáshatároló szelep beállítási értéke tápszivattyú szívóképességének megfelelősége | OBD, EOBD hibakód kiolvasó vagy rendszerteszter dízel befecskendező próbapad vagy nyomásmérő és működtető berendezés |
 
-|  | üzemanyagszint mm-ben, vagy az úszó geometriai helyzete mm-ben | célszerszám |
+| 27. | üzemanyag befecskendező rendszer karburátor, javítás, beállítás | elektronikus befecskendező dinamikus paraméterei üzemanyagnyomás benzin és levegőfúvókák mérete, vagy átfolyás | OBD, EOBD hibakód kiolvasó vagy rendszerteszter üzemanyag nyomás mérő fúvóka kaliber, vagy átfolyás-mérő |
 
-|  | kipufogógáz szennyezőanyag tartalma | gázelemző, fordulatszámmérő |
+| 28. |  | üzemanyagszint mm-ben, vagy az úszó geometriai helyzete mm-ben | célszerszám |
 
-| benzinellátó rendszer javítás, vizsgálat | tápszivattyú szívóképessége, szállítóképessége | vákuummérő nyomásmérő |
+| 29. |  | kipufogógáz szennyezőanyag tartalma | OBD, EOBD hibakód kiolvasó vagy rendszerteszter gázelemző, fordulatszámmérő |
 
-| kompressziómérés | kompresszió végnyomás hűtőfolyadék hőfok | visszacsapó szeleppel ellátott kompressziómérő, hőmérő, hőfokjelző |
+| 30. | benzinellátó rendszer javítás, vizsgálat | tápszivattyú szívóképessége, szállítóképessége | vákuummérő nyomásmérő |
 
-| hengertömítettség-mérés | vizsgálónyomás vesztességgel csökkentett nyomás %-os csökkenés | hengertömítettség vizsgáló berendezés |
+| 31. | kompressziómérés | kompresszió végnyomás hűtőfolyadék hőfok | visszacsapó szeleppel ellátott kompressziómérő, hőmérő, hőfokjelző |
 
-| fogyasztásmérés | üzemállapothoz kötött minősítő eredmények, illetve, ha jogszabály vagy szabvány rögzít egyes üzemállapotokat, akkor annak megfelelő minősítő eredmények gumiabroncs nyomása a méréskor | fogyasztásmérő készülék, vagy próbapad, referencia feltételeket mérő készülékek gumiabroncsnyomás-mérő |
+| 32. | hengertömítettség-mérés | vizsgálónyomás vesztességgel csökkentett nyomás %-os csökkenés | hengertömítettség vizsgáló berendezés |
 
-| motorteljesítmény és fogyasztásmérés | teljesítmény nyomaték fajlagos fogyasztás | motorfékpad vagy gépjármű teljesítmény és fogyasztásmérő próbapad |
+| 33. | fogyasztásmérés | üzemállapothoz kötött minősítő eredmények, illetve, ha jogszabály vagy szabvány rögzít egyes üzemállapotokat, akkor annak megfelelő minősítő eredmények gumiabroncs nyomása a méréskor | fogyasztásmérő készülék, vagy próbapad, referencia feltételeket mérő készülékek gumiabroncsnyomás-mérő |
 
-| feszültségszabályozó ellenőrzés, beállítás | egyenáramú generátornál bekapcsolási feszültség terheletlen szabályozott feszültség visszáram váltakozó áramú generátornál terheletlen szabályozott feszültség | feszültségmérő árammérő feszültségmérő |
+| 34. | motorteljesítmény és fogyasztásmérés | teljesítmény nyomaték fajlagos fogyasztás | motorfékpad vagy gépjármű teljesítmény és fogyasztásmérő próbapad |
 
-| generátor ellenőrzés | névleges áram és feszültség vagy teljesítmény névleges fordulatszámon | feszültségmérő, árammérő terhelő-ellenállás fordulatszámmérő |
+| 35. | feszültségszabályozó ellenőrzés, beállítás | egyenáramú generátornál bekapcsolási feszültség terheletlen szabályozott feszültség visszáram váltakozó áramú generátornál terheletlen szabályozott feszültség | OBD, EOBD hibakód kiolvasó vagy rendszerteszter feszültségmérő árammérő |
 
-| akkumulátor vizsgálata | terhelt kapocsfeszültségek alkalmazott terhelő-ellenállás | cellavizsgáló vagy terhelő-ellenállás és voltmérő |
+| 36. | generátor ellenőrzés | névleges áram és feszültség vagy teljesítmény névleges fordulatszámon | OBD, EOBD hibakód kiolvasó vagy rendszerteszter feszültségmérő, árammérő terhelő-ellenállás fordulatszámmérő |
 
-| akkumulátor savsűrűségmérés | cellánként a savsűrűség | savsűrűségmérő vagy refraktométer |
+| 37. | akkumulátor vizsgálata | terhelt kapocsfeszültségek alkalmazott terhelő-ellenállás | cellavizsgáló vagy terhelő-ellenállás és voltmérő |
 
-| szélvédő és ablakok fényszűrő fóliázása | megvilágítás csökkenés százaléka | környezeti megvilágításmérő |
+| 38. | akkumulátor savsűrűségmérés | cellánként a savsűrűség | savsűrűségmérő vagy refraktométer |
 
-| motor hűtőfolyadékának fagyáspontja | fagyáspont | refraktométer |
+| 39. | szélvédő és ablakok fényszűrő fóliázása | megvilágítás csökkenés százaléka | környezeti megvilágításmérő |
 
-| csavarmeghúzás előírt nyomatékkal | meghúzási nyomaték | nyomatékkulcs |
+| 40. | motor hűtőfolyadékának fagyáspontja | fagyáspont | refraktométer |
 
-| szelephézag ellenőrzés, beállítás | szelephézagok hidegen vagy melegen, a gyári előírástól függően | hézagmérő készlet célkészülék |
+| 41. | csavarmeghúzás előírt nyomatékkal | meghúzási nyomaték | nyomatékkulcs |
 
-| alváz és karosszéria javítás | eredeti méreteknek megfelelőség | gyári mérettáblázat, rajzok, sablonok |
+| 42. | szelephézag ellenőrzés, beállítás | szelephézagok hidegen vagy melegen, a gyári előírástól függően | hézagmérő készlet célkészülék |
 
-| gázüzemanyag-ellátó berendezés javítás, gázbiztonsági szemle | gázüzemanyag szivárgás | kézi szivárgás ellenőrző készülék |
+| 43. | alváz és karosszéria javítás | eredeti méreteknek megfelelőség | gyári mérettáblázat, rajzok, sablonok |
+
+| 44. | gázüzemanyag-ellátó berendezés javítás, gázbiztonsági szemle | gázüzemanyag szivárgás | kézi szivárgás ellenőrző készülék |
 
 Megjegyzések:
 
-1 Értékelő ellenőrzést az MSZ–07–4450:1988 Gépjárművek és pótkocsik kerékfékszerkezeteinek vizsgálata, követelményei és minősítése görgős fékerőmérő berendezéssel című szabvány, illetve MSZ–07–4451:1990 Közúti járművek fékhatásának vizsgálata lassulásmérővel című szabvány szerint vagy az 5/1990. (IV. 12.) KöHÉM rendelet 5. számú melléklete 4. fejezetének 1.5. pontja szerinti előírás alapján kell végezni.
+1 Értékelő ellenőrzést az 5/1990. (IV. 12.) KöHÉM rendelet 11. számú melléklete szerinti előírás alapján kell végezni.
 
-2 Helyettesítő mérés a hibás fékerőmérő próbapad javításának időtartama alatt, illetve a szokványos próbapadon nem mérhető járműveknél (pl. traktor).
+2 Helyettesítő mérés a szokványos próbapadon nem mérhető járműveknél (pl. traktor) a 6/1990. (IV. 12.) KöHÉM rendelet 8. számú mellékletében meghatározott követelmények figyelembe vételével.
 
 3 3,5 t megengedett össztömeg fölötti gépjárművek javításánál nem kötelező.
 
@@ -112,5 +114,7 @@ Megjegyzések:
 
 6 A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény.
 
-[^152]: Az 5. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 29/2004. (III. 12.) GKM rendelet 6. § (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 75/2016. (XII. 29.) NFM rendelet 40. § (3) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38. §-át.
-[^153]: Az 5. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+4. A közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben előírt műszaki vizsgálat és a különböző eljárásban végzett környezetvédelmi felülvizsgálat keretében végzett munkafolyamatokat a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott módon kell elvégezni.
+
+[^165]: Az 5. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 29/2004. (III. 12.) GKM rendelet 6. § (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 75/2016. (XII. 29.) NFM rendelet 40. § (3) bekezdés a) pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^166]: Az 5. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.

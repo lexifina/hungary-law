@@ -20,7 +20,7 @@ c)[^25] 70 db-nál több jármű esetében a szakiránynak megfelelő felsőfok�
 
 (3) A közép-, illetőleg felsőfokú képesítéseket a 2. számú melléklet tartalmazza.
 
-(4)[^26] A (2) bekezdésben foglalt rendelkezés nem vonatkozik azokra a járműfenntartó szervezetekre, amelyek kizárólag az általuk üzemeltetett járművek napi gondozását, ápolását és a jármű biztonsági berendezéseit nem érintő kisjavítását végzik. A napi gondozást és az ápolást autószerelő vagy gépjárművezető és karbantartó szakmunkás képesítéssel rendelkező, illetőleg gépjárművezetői munkakörben dolgozó személy, a kisjavítást autószerelő szakképesítéssel rendelkező személy – irányítás nélkül is – elvégezheti.
+(4)[^26] A (2) bekezdésben foglalt rendelkezés nem vonatkozik azokra a járműfenntartó szervezetekre, amelyek kizárólag az általuk üzemeltetett járművek napi gondozását, ápolását és a jármű biztonsági berendezéseit nem érintő kisjavítását végzik. A napi gondozást és az ápolást autószerelő, motorkerékpár-szerelő vagy gépjárművezető és karbantartó szakmunkás képesítéssel rendelkező, illetőleg gépjárművezetői munkakörben dolgozó személy, a kisjavítást autószerelő – motorkerékpárok esetében motorkerékpár-szerelő – szakképesítéssel rendelkező személy – irányítás nélkül is – elvégezheti.
 
 [^18]: A 4. § (1) bekezdés bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 1–2. pontja szerint módosított szöveg.
 [^19]: A 4. § (1) bekezdés a) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
@@ -30,4 +30,4 @@ c)[^25] 70 db-nál több jármű esetében a szakiránynak megfelelő felsőfok�
 [^23]: A 4. § (2) bekezdés a) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
 [^24]: A 4. § (2) bekezdés b) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
 [^25]: A 4. § (2) bekezdés c) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. pontja szerint módosított szöveg.
-[^26]: A 4. § (4) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1., 6. és 14. pontja szerint módosított szöveg.
+[^26]: A 4. § (4) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 8. § 1., 6. és 14. pontja, a 9/2022. (VIII. 1.) TIM rendelet 2. § b) pontja szerint módosított szöveg.
