@@ -1,4 +1,4 @@
-2. melléklet a 68/2011. (XI. 30.) NFM rendelethez[^32]
+2. melléklet a 68/2011. (XI. 30.) NFM rendelethez[^36]
 
 Az egyes ATM/ANS-rendszerek és a vonatkozó földi és légiellenőrzési időszakok
 
@@ -86,4 +86,4 @@ Megjegyzés:
 
 2 x: a megadott időtartam + 15 napon belül
 
-[^32]: A 2. melléklet a 47/2019. (XII. 23.) ITM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^36]: A 2. melléklet a 47/2019. (XII. 23.) ITM rendelet 8. § (2) bekezdésével megállapított szöveg.
