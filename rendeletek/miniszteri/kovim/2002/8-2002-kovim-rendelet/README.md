@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-8-20-93
 | 2017-01-03 | 2002-8-20-93.7 | 1/2017. (I. 3.) NFM rendelet |
 | 2017-04-25 | 2002-8-20-93.8 | 1/2017. (I. 3.) NFM rendelet |
 | 2019-01-07 | 2002-8-20-93.9 | 1/2017. (I. 3.) NFM rendelet |
+| 2022-08-06 | 2002-8-20-93.10 | 9/2022. (VIII. 1.) TIM rendelet |
