@@ -16,7 +16,7 @@ g) a 101. § (1) bekezdése szerinti eljárási szabályzatok.
 
 (2) A Pénzügyi Békéltető Testület naprakész, az eljárására vonatkozó és könnyen hozzáférhető információkkal ellátott internetes honlapot működtet, amelyen lehetővé teszi, hogy a fogyasztó online úton is benyújthassa kérelmét és annak mellékleteit. Az internetes honlapon közzé kell tenni és kérés esetén elektronikus úton a felek rendelkezésére kell bocsátani legalább a következő információkat:
 
-a) a Pénzügyi Békéltető Testület elérhetőségét, így különösen székhelyét, levelezési címét, e-mail címét, telefonszámát, valamint faxszámát,
+a) a Pénzügyi Békéltető Testület elérhetőségét, így különösen székhelyét, levelezési címét, e-mail címét, valamint telefonszámát,
 
 b) annak tényét, hogy a Pénzügyi Békéltető Testületet az Európai Bizottság jegyzékében nyilvántartásba vették-e,
 

@@ -44,4 +44,4 @@ b) jelentős rendszerkockázattal jár vagy
 
 c) az adott piacba vetett bizalmat általánosan veszélyezteti.
 
-(7) Az MNB a határozatainak teljesülését átfogó vizsgálatban vagy utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.
+(7) Az MNB a határozatainak teljesülését folyamatos felügyelés keretében – indokolt esetben – átfogó vizsgálatban vagy utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.

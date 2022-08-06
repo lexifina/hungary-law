@@ -22,4 +22,8 @@ e) az Európai Rendszerkockázati Testület anticiklikus tőkepufferráta meghat
 
 (6) Ha az anticiklikus tőkepufferráta mértékének csökkentésére vagy elengedésére kerül sor, akkor az anticiklikus tőkepufferráta azonnal alkalmazandó, és ez esetben az MNB honlapján közleményben közzé teszi azt az időintervallumot, amely alatt várhatóan nem kerül sor anticiklikus tőkepufferráta mértékének növelésére. Ez a közlemény nem köti az MNB-t az anticiklikus tőkepufferráta mértékének felülvizsgálatában.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)

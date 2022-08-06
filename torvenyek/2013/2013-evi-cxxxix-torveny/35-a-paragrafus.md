@@ -16,11 +16,11 @@ e) ha a rendszerkockázati tőkepufferráta az összes kitettségre vonatkozik, 
 
 (3) Amennyiben a rendszerkockázati tőkepufferráta megállapításáról szóló döntés a korábban megállapított tőkepufferrátához képest csökkenést jelent vagy nem jelent változást, az MNB-nek csak a 141/A. § szerinti tájékoztatást kell megtennie.
 
-(4) Ha az MNB 3 százalék vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § a) pontjában meghatározott tájékoztatást követően – legkorábban 30 nappal – alkalmazhatja azt a Hpt. 92. § (1) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő.
+(4) Ha az MNB 3 százalék vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § a) pontjában meghatározott tájékoztatást követően – legkorábban 30 nappal – alkalmazhatja azt a Hpt. 92. § (2) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő.
 
-(5) Ha az MNB a Hpt. 92. § (1) bekezdés b) pontja szerinti kitettségre 3 százalék feletti vagy a Hpt. 92. § (1) bekezdés a) és c) pontja szerinti kitettségre 5 százalék feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB tervezetét véleménnyel ellátva megküldi az Európai Bizottságnak.
+(5) Ha az MNB a Hpt. 92. § (2) bekezdés szerinti kitettségre 5 százalék feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB tervezetét véleménnyel ellátva megküldi az Európai Bizottságnak.
 
-(6) Ha az MNB a Hpt. 92. § (1) bekezdés a) és c) pont szerinti kitettségre 3 és 5 százalék közötti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor az MNB előzetesen megküldi a tervezetét véleménnyel ellátva az Európai Bizottságnak azzal, hogy a rendszerkockázati pufferrátát e bekezdés szerint csak az Európai Bizottság előzetes véleményének kézhezvételét követően vezetheti be.
+(6) Ha az MNB a Hpt. 92. § (2) bekezdés szerinti kitettségre 3 és 5 százalék közötti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor az MNB előzetesen megküldi a tervezetét véleménnyel ellátva az Európai Bizottságnak azzal, hogy a rendszerkockázati pufferrátát e bekezdés szerint csak az Európai Bizottság előzetes véleményének kézhezvételét követően vezetheti be.
 
 (7) Ha az (5) bekezdésben rögzített véleményében az Európai Bizottság ellenzi az MNB által tervezett, az (5) bekezdésben meghatározott mértékű tőkepufferráta bevezetését, akkor az MNB köteles az Európai Bizottság véleményében meghatározottaknak megfelelően eljárni.
 
