@@ -110,13 +110,7 @@ g) a műanyag tartóeszközöket („hulladéktárolókat”) a járműben, ille
 
 a) a veszélyes áruk közúti szállítására vonatkozó, az oktatni kívánt áruosztályokra érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkezik, és
 
-b) a közlekedési hatóság által meghirdetett továbbképzésen igazoltan részt vett, és
-
-ba) az új foglalkozásvezető a továbbképzést követő 17.2.1 pont szerinti vizsgán,
-
-bb) a már elismert foglalkozásvezető a továbbképzést követő 17.2.2 pont szerinti vizsgán
-
-megfelelt.
+b)[^4] a KTI Közlekedéstudományi Intézet Nonprofit Kft. által meghirdetett továbbképzésen igazoltan részt vett, és
 
 25.2. Az ADR foglalkozásvezetői vizsga:
 
@@ -274,18 +268,19 @@ c) a gyakorlati vizsgafeladatok végrehajtásához szükséges eszközöket és 
 
 „1. Az 1 osztály anyagai és tárgyai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát.
 
-2.[^4] A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
+2.[^5] A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
 
 3. Tartányos szakosító vizsgára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát, legalább két éve, C kategóriára érvényes vezetői engedéllyel rendelkezik, és a 26. pontban előírt vezetési gyakorlatról szóló igazolását bemutatta.
 
 4. Ismeretfelújító vizsgára az a hallgató bocsátható, aki az adott osztályra és szállítási módra a vizsga időpontjában érvényes ADR oktatási bizonyítvánnyal rendelkezik.”
 
-32.[^5] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
+32.[^6] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
 
 „A járművezetők ezt a képzést az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendelet szerinti, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
 
 [^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: Az 1. melléklet 12. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
 [^3]: Lásd a 12/2017. (VI. 12.) EMMI rendeletet.
-[^4]: Az 1. melléklet 31. pont 2. alpontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
-[^5]: Az 1. melléklet 32. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet 25.1. pont b) alpontja a 9/2022. (VIII. 1.) TIM rendelet 70. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 31. pont 2. alpontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet 32. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
