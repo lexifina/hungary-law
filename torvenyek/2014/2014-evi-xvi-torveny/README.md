@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-16-00-00
 | 2021-06-26 | 2020. évi CX. törvény | 2014-16-00-00.36 |
 | 2021-08-02 | 2021. évi LVIII. törvény | 2014-16-00-00.37 |
 | 2022-04-11 | 2021. évi LVIII. törvény | 2014-16-00-00.38 |
+| 2022-08-06 | 2022. évi XX. törvény | 2014-16-00-00.39 |
