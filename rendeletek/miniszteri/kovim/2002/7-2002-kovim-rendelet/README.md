@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-7-20-93
 | 2018-01-01 | 2002-7-20-93.12 | 55/2017. (XII. 27.) NFM rendelet |
 | 2020-06-27 | 2002-7-20-93.13 | 21/2020. (VI. 26.) ITM rendelet |
 | 2021-03-06 | 2002-7-20-93.14 | 12/2021. (III. 5.) ITM rendelet |
+| 2022-08-06 | 2002-7-20-93.15 | 9/2022. (VIII. 1.) TIM rendelet |

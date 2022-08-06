@@ -1,6 +1,6 @@
 ## Kiválasztás
 
-18. § (1)[^20] Amennyiben a repülőtéren a légiközlekedési hatóság a földi kiszolgálást a légiközlekedési hatóság kiegészítő eljárásjogi szabályokról szóló kormányrendelete (a továbbiakban: kiegészítő eljárásjogi rendelet) alapján korlátozza, a saját kiszolgálásra jogosult repülőtér-használókat, illetve a kiszolgálókat a repülőtér üzemben tartója választja ki, kivéve, ha a repülőtér üzemben tartója
+18. § (1)[^22] Amennyiben a repülőtéren a légiközlekedési hatóság a földi kiszolgálást a légiközlekedési hatóság kiegészítő eljárásjogi szabályokról szóló kormányrendelete (a továbbiakban: kiegészítő eljárásjogi rendelet) alapján korlátozza, a saját kiszolgálásra jogosult repülőtér-használókat, illetve a kiszolgálókat a repülőtér üzemben tartója választja ki, kivéve, ha a repülőtér üzemben tartója
 
 a) az adott földi kiszolgálási tevékenységeket maga is végzi harmadik fél részére, vagy
 
@@ -10,7 +10,7 @@ c) tulajdonosi érdekeltséggel rendelkezik a b) pontban meghatározott kiszolg�
 
 (2) Az (1) bekezdésben említett esetben, a repülőtér üzemben tartója a saját kiszolgálásra jogosult repülőtér-használókat, illetve a kiszolgálókat ötéves időtartamra választja ki a földi kiszolgáláshoz kapcsolódó objektív, átlátható és hátrányos megkülönböztetéstől mentes feltételek alapján, figyelembe véve a biztonságra, a költséghatékonyságra, valamint a földi kiszolgálásra rendelkezésre álló terület és kapacitás optimális kihasználásának követelményeit.
 
-(3)[^21] A kiszolgálók kiválasztása nyilvános pályázat útján történik. A pályázati felhívást
+(3)[^23] A kiszolgálók kiválasztása nyilvános pályázat útján történik. A pályázati felhívást
 
 a) a repülőtér üzemben tartója honlapján,
 
@@ -20,11 +20,11 @@ c) az Európai Közösségek Hivatalos Lapjában
 
 közzé kell tenni.
 
-(4)[^22] Az (1) bekezdés a)–c) pontjában meghatározott esetekben a kiválasztást a légiközlekedési hatóság végzi.
+(4)[^24] Az (1) bekezdés a)–c) pontjában meghatározott esetekben a kiválasztást a légiközlekedési hatóság végzi.
 
-(5)[^23] Ha a repülőtéren a földi kiszolgálást a légiközlekedési hatóság a kiegészítő eljárásjogi rendelet alapján korlátozza, és a jogosult földi kiszolgálási tevékenységét megszünteti, mielőtt az engedélyének időtartama lejár, vagy engedélyét a légiközlekedési hatóság a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet alapján felfüggeszti, a jogosult helyett újabb saját kiszolgálásra jogosult repülőtér-használó, illetve kiszolgáló kiválasztására az e rendeletben előírt szabályok vonatkoznak.
+(5)[^25] Ha a repülőtéren a földi kiszolgálást a légiközlekedési hatóság a kiegészítő eljárásjogi rendelet alapján korlátozza, és a jogosult földi kiszolgálási tevékenységét megszünteti, mielőtt az engedélyének időtartama lejár, vagy engedélyét a légiközlekedési hatóság a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet alapján felfüggeszti, a jogosult helyett újabb saját kiszolgálásra jogosult repülőtér-használó, illetve kiszolgáló kiválasztására az e rendeletben előírt szabályok vonatkoznak.
 
-[^20]: A 18. § (1) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 19. § b) pontja szerint módosított szöveg.
-[^21]: A 18. § (3) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 1. §-ával megállapított szöveg.
-[^22]: A 18. § (4) bekezdése az 55/2017. (XII. 27.) NFM rendelet 18. §-ával megállapított szöveg.
-[^23]: A 18. § (5) bekezdése az 55/2017. (XII. 27.) NFM rendelet 19. § c) pontja, a 12/2021. (III. 5.) ITM rendelet 7. § b) pontja szerint módosított szöveg.
+[^22]: A 18. § (1) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 19. § b) pontja szerint módosított szöveg.
+[^23]: A 18. § (3) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^24]: A 18. § (4) bekezdése az 55/2017. (XII. 27.) NFM rendelet 18. §-ával megállapított szöveg.
+[^25]: A 18. § (5) bekezdése az 55/2017. (XII. 27.) NFM rendelet 19. § c) pontja, a 12/2021. (III. 5.) ITM rendelet 7. § b) pontja szerint módosított szöveg.
