@@ -1,4 +1,4 @@
-## 136. §[^40]
+## 136. §[^42]
 
 ## XVI. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## 54. A katonai tapasztalat, képzés és szakszolgálati engedély beszámítása
 
-[^40]: A 136. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § y) pontja hatályon kívül helyezte.
+[^42]: A 136. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § y) pontja hatályon kívül helyezte.
