@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2020-09-01 | 1990-6-20-5E.101 | 29/2020. (VII. 17.) ITM rendelet |
 | 2021-04-14 | 1990-6-20-5E.102 | 15/2021. (IV. 9.) ITM rendelet |
 | 2021-08-11 | 1990-6-20-5E.103 | 22/2021. (V. 13.) ITM rendelet |
+| 2022-08-06 | 1990-6-20-5E.104 | 9/2022. (VIII. 1.) TIM rendelet |

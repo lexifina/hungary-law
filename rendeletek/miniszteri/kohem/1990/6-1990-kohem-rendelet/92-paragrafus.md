@@ -2,9 +2,9 @@
 
 92. § (1) A sebességmérő a jármű tényleges sebességénél — 20 km/h sebesség felett — kisebb értéket nem mutathat.
 
-(2)[^204] A közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 561/2006/EK európai parlamenti és tanácsi rendelet és az azt módosító, valamint a 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 165/2014/EU európai parlamenti és tanácsi rendelet, továbbá a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) hatálya alá tartozó M2, M3 és N kategóriába tartozó járművet – a hivatkozott rendeletben és a megállapodásban, továbbá a (3) bekezdésben meghatározott kivételekkel – menetíró műszerrel (a továbbiakban: tachográf) kell felszerelni.
+(2)[^203] A közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 561/2006/EK európai parlamenti és tanácsi rendelet és az azt módosító, valamint a 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 165/2014/EU európai parlamenti és tanácsi rendelet, továbbá a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) hatálya alá tartozó M2, M3 és N kategóriába tartozó járművet – a hivatkozott rendeletben és a megállapodásban, továbbá a (3) bekezdésben meghatározott kivételekkel – menetíró műszerrel (a továbbiakban: tachográf) kell felszerelni.
 
-(3)[^205] Nem kell tachográffal felszerelni a (2) bekezdésben meghatározott olyan járművet, amelyet kizárólag belföldön a következő üzemeltetési célokra használnak:
+(3)[^204] Nem kell tachográffal felszerelni a (2) bekezdésben meghatározott olyan járművet, amelyet kizárólag belföldön a következő üzemeltetési célokra használnak:
 
 a) költségvetési szerv (intézmény), valamint települési önkormányzat üzemeltetésében lévő járművel történő – közúti közlekedési szolgáltatásnak nem minősülő – szállítás,
 
@@ -32,11 +32,11 @@ l) kizárólag olyan csomópont jellegű helyeken, mint kikötőkben, kombinált
 
 m) az élő állatoknak a gazdaságokból a helyi piacokra és fordítva, vagy a piacokról a helyi vágóhídra legfeljebb 100 km-es sugarú körben történő szállításához használt járművek.
 
-(4)[^206] A tachográf (menetíró, vagy adatrögzítő) készülék kivitele és beépítése, továbbá az abban használt adatrögzítő lap, tachográf-kártya kivitele feleljen meg a közúti közlekedésben használt menetíró készülékekről szóló az Európai Parlament és a Tanács 165/2014/EU rendeletében foglaltaknak és rendelkezzen a hivatkozott rendelet szerinti jóváhagyással.
+(4)[^205] A tachográf (menetíró, vagy adatrögzítő) készülék kivitele és beépítése, továbbá az abban használt adatrögzítő lap, tachográf-kártya kivitele feleljen meg a közúti közlekedésben használt menetíró készülékekről szóló az Európai Parlament és a Tanács 165/2014/EU rendeletében foglaltaknak és rendelkezzen a hivatkozott rendelet szerinti jóváhagyással.
 
-(5)[^207] A kizárólag belföldön üzemeltetett 2004. május 1. napja előtt tachográffal ellátott gépkocsi esetében a (4) bekezdésben meghatározott, a tachográf beépítésre vonatkozó követelményeket a soron következő illesztés időpontjáig, de legkésőbb 2006. április 30. napjáig kell teljesíteni.
+(5)[^206] A kizárólag belföldön üzemeltetett 2004. május 1. napja előtt tachográffal ellátott gépkocsi esetében a (4) bekezdésben meghatározott, a tachográf beépítésre vonatkozó követelményeket a soron következő illesztés időpontjáig, de legkésőbb 2006. április 30. napjáig kell teljesíteni.
 
-[^204]: A 92. § (2) bekezdése a 31/2014. (VI. 27.) NFM rendelet 2. §-ával megállapított szöveg.
-[^205]: A 92. § (3) bekezdését a 12/2000. (V. 24.) KHVM rendelet 12.§-ának (2) bekezdése iktatta be, szövege a 31/2014. (VI. 27.) NFM rendelet 2. §-ával megállapított szöveg.
-[^206]: A 92. § (4) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 12. § (2) bekezdése iktatta be, szövege a 31/2014. (VI. 27.) NFM rendelet 2. §-ával megállapított szöveg.
-[^207]: A 92. § (5) bekezdését a 35/2004. (III. 30.) GKM rendelet 6. § (2) bekezdése iktatta be.
+[^203]: A 92. § (2) bekezdése a 31/2014. (VI. 27.) NFM rendelet 2. §-ával megállapított szöveg.
+[^204]: A 92. § (3) bekezdését a 12/2000. (V. 24.) KHVM rendelet 12.§-ának (2) bekezdése iktatta be, szövege a 31/2014. (VI. 27.) NFM rendelet 2. §-ával megállapított szöveg.
+[^205]: A 92. § (4) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 12. § (2) bekezdése iktatta be, szövege a 31/2014. (VI. 27.) NFM rendelet 2. §-ával megállapított szöveg.
+[^206]: A 92. § (5) bekezdését a 35/2004. (III. 30.) GKM rendelet 6. § (2) bekezdése iktatta be.
