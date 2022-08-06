@@ -1,3 +1,3 @@
-8. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^315]
+8. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^319]
 
-[^315]: A 8. melléklet a 45/2019. (XII. 20.) ITM rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^319]: A 8. melléklet a 45/2019. (XII. 20.) ITM rendelet 27. § (2) bekezdésével megállapított szöveg.

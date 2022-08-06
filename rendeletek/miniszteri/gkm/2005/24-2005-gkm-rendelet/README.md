@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2021-05-23 | 2005-24-20-0L.33 | 20/2020. (VI. 24.) ITM rendelet |
 | 2021-07-03 | 2005-24-20-0L.34 | 31/2021. (VII. 2.) ITM rendelet |
 | 2021-10-09 | 2005-24-20-0L.35 | 42/2021. (IX. 8.) ITM rendelet |
+| 2022-08-06 | 2005-24-20-0L.36 | 45/2019. (XII. 20.) ITM rendelet |

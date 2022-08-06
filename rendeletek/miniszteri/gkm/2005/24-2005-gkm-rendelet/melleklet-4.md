@@ -1,3 +1,3 @@
-4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^299]
+4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^303]
 
-[^299]: A 4. melléklet e rendelet – a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát vesztette.
+[^303]: A 4. melléklet e rendelet – a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát vesztette.
