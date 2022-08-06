@@ -1,6 +1,6 @@
-## Az Európai Unió jogának való megfelelés[^100]
+## Az Európai Unió jogának való megfelelés[^101]
 
-14. §[^101] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+14. §[^102] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a tengerészek képzésének minimumszintjéről szóló, 2008. november 19-i 2008/106/EK európai parlamenti és tanácsi irányelv,
 
@@ -14,5 +14,5 @@ e) a belvízi hajózásban szükséges szakmai képesítések elismeréséről, 
 
 (2) Ez a rendelet a belvízi hajózási szakmai képesítések tekintetében alkalmazott mintákról szóló, 2020. január 14-i (EU) 2020/182 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^100]: A 14. §-t megelőző alcím a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének b) pontjával megállapított szöveg.
-[^101]: A 14. § a 13/2022. (IV. 14.) ITM rendelet 10. §-ával megállapított szöveg.
+[^101]: A 14. §-t megelőző alcím a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének b) pontjával megállapított szöveg.
+[^102]: A 14. § a 13/2022. (IV. 14.) ITM rendelet 10. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-9/A. §[^64] (1) A hajózási hatóság az 1. számú melléklet II. fejezet 5–6. pontjában foglaltak megtartása mellett elismeri az Európai Bizottság által elismert harmadik államban szerzett képesítéseket.
+9/A. §[^65] (1) A hajózási hatóság az 1. számú melléklet II. fejezet 5–6. pontjában foglaltak megtartása mellett elismeri az Európai Bizottság által elismert harmadik államban szerzett képesítéseket.
 
 (2) Az IMO által az STCW Egyezmény Melléklete I/7. szabály 2–3. pontja szerint közzétett listán szereplő, az (1) bekezdésen kívüli harmadik államban szerzett tengerész képesítés elfogadására irányuló igény esetén a közlekedésért felelős miniszter indoklással ellátott kérelmet nyújt be az Európai Bizottsághoz, mellékelve a 9. § (5) bekezdése szerinti és az 1. számú melléklet II. Fejezetében szereplő információkat.
 
@@ -12,4 +12,4 @@
 
 (7) Az Ügynökség által, a képzési és képesítési rendelkezések megfelelő érvényesítésének ellenőrzése céljából legalább ötévi rendszerességgel végrehajtott ellenőrzés elősegítése érdekében a minisztérium közreműködik.
 
-[^64]: A 9/A. §-t a 46/2021. (IX. 13.) ITM rendelet 8. §-a iktatta be.
+[^65]: A 9/A. §-t a 46/2021. (IX. 13.) ITM rendelet 8. §-a iktatta be.

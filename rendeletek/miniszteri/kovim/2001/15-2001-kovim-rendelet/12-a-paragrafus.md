@@ -1,4 +1,4 @@
-12/A. §[^88] (1) Az „A” és „B” kategóriájú hajóvezető, a kishajóvezető „A”, a révész „A” képesítő okmányok a bizonyítvány adataiban bekövetkező változásig, hatályuk kiterjesztéséig, lejáratukig, de legfeljebb 2032. január 17. napjáig hatályosak a hivatásos hajózási képesítések hatálya alá tartozó vízterületeken. Az „A” és „B” kategóriájú hajóvezető, a kishajó-vezető „A” és a révész „A” képesítések igazolására képesítő okmányok nem állíthatók ki.
+12/A. §[^89] (1) Az „A” és „B” kategóriájú hajóvezető, a kishajóvezető „A”, a révész „A” képesítő okmányok a bizonyítvány adataiban bekövetkező változásig, hatályuk kiterjesztéséig, lejáratukig, de legfeljebb 2032. január 17. napjáig hatályosak a hivatásos hajózási képesítések hatálya alá tartozó vízterületeken. Az „A” és „B” kategóriájú hajóvezető, a kishajó-vezető „A” és a révész „A” képesítések igazolására képesítő okmányok nem állíthatók ki.
 
 (2) Az „A” és „B” kategóriájú hajóvezetői képesítések alapján a vizsgaközpont uniós hajóvezető képesítő okmányt állít ki.
 
@@ -14,4 +14,4 @@
 
 (8) A 2022. január 18. napját megelőzően megszerzett radarhajós, radarhajós (komp), radarhajós (kishajó) képesítések hatályosak maradnak, e képesítések alapján radarhajós képesítő okmány állítható ki.
 
-[^88]: A 12/A. §-t a 13/2022. (IV. 14.) ITM rendelet 9. §-a iktatta be.
+[^89]: A 12/A. §-t a 13/2022. (IV. 14.) ITM rendelet 9. §-a iktatta be.
