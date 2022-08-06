@@ -4,8 +4,11 @@
 
 ## 16. Oktatás és vizsgáztatás követelményei
 
-22. § (1) Szakszolgálati engedélyhez vagy komponens üzemképesség tanúsító megbízás kiadásához e rendelet szerint jóváhagyott alapismereti képzést karbantartás oktató szervezet tarthat. Alapismereti vizsgáztatást karbantartás oktató szervezet, a légiközlekedési hatóság vagy a légiközlekedési hatóság által egy vizsga lebonyolítására a 26. § szerinti engedéllyel rendelkező szervezet végezhet.
+22. § (1)[^22] Szakszolgálati engedélyhez vagy komponens üzemképesség tanúsító megbízás kiadásához e rendelet szerint jóváhagyott alapismereti képzést karbantartás oktató szervezet tarthat. Alapismereti vizsgáztatást karbantartás oktató szervezet, a légiközlekedési vizsgaközpont vagy a légiközlekedési hatóság által egy vizsga lebonyolítására a 26. § szerinti engedéllyel rendelkező szervezet végezhet.
 
-(2) Légijármű vagy hajtómű típus tanfolyamot karbantartás oktató szervezet vagy a légiközlekedési hatóság által egy légijármű vagy hajtómű típus tanfolyam lebonyolítására a 26. § szerinti engedéllyel rendelkező szervezet végezhet. Légijármű vagy hajtómű típus vizsgát karbantartás oktató szervezet, a légiközlekedési hatóság vagy a légiközlekedési hatóság által egy légijármű vagy hajtómű típus vizsga lebonyolítására a 26. § szerinti engedéllyel rendelkező szervezet végezhet.
+(2)[^23] Légijármű vagy hajtómű típus tanfolyamot karbantartás oktató szervezet vagy a légiközlekedési hatóság által egy légijármű vagy hajtómű típus tanfolyam lebonyolítására a 26. § szerinti engedéllyel rendelkező szervezet végezhet. Légijármű vagy hajtómű típus vizsgát karbantartás oktató szervezet, a légiközlekedési vizsgaközpont vagy a légiközlekedési hatóság által egy légijármű vagy hajtómű típus vizsga lebonyolítására a 26. § szerinti engedéllyel rendelkező szervezet végezhet.
 
 (3) A (2) bekezdésben foglaltakon túl hajtómű típustanfolyamot és típusvizsgát a hajtómű gyártója vagy típusbizonyítványának birtokosa is lefolytathat. Ebben az esetben az üzemképesség tanúsító megbízást kiadó karbantartó szervezet felelős azért, hogy a hajtómű típustanfolyam és típusvizsga megfelel az ebben a rendeletben foglalt követelményeknek.
+
+[^22]: A 22. § (1) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 61. § b) pontja szerint módosított szöveg.
+[^23]: A 22. § (2) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 61. § b) pontja szerint módosított szöveg.
