@@ -12,6 +12,6 @@ b) készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és 
 
 c)
 
-(3) A pénzforgalmi intézmény engedélyt kaphat fizetési rendszer működtetése tevékenység végzésére.
+(3) A pénzforgalmi intézmény engedélyt kaphat fizetési rendszer működtetése, valamint pénzügyi szolgáltatás közvetítése tevékenység végzésére.
 
 (4) A (2) és (3) bekezdésben meghatározottakon kívül a pénzforgalmi intézmény az általa végzett pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan jogosult a pénzforgalmi szolgáltatás működtetésével összefüggő és egyéb, szorosan kapcsolódó kiegészítő szolgáltatások nyújtására, ideértve a fizetési műveletek teljesítésének biztosítását, a fizetési művelet tárgyát képező pénz átváltását, letéti szolgáltatást, valamint az adatok tárolását és feldolgozását is.
