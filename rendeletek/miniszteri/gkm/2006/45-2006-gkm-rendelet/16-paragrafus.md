@@ -1,5 +1,5 @@
 ## 15. § A működési engedély módosítására irányuló eljárásra az engedélyezés szabályai megfelelően irányadók.
 
-## A vasúti igazgatási szerv ellenőrzési jogköre[^68]
+## A működési engedélyekről, valamint a tudomásul vett bejelentéssel rendelkező vasúti társaságoktól és a bejelentett vasúti tevékenységekről vezetett nyilvántartás adatai[^68]
 
-[^68]: A 16. §-t megelőző alcím a 8/2008. (VI. 30.) KHEM rendelet 2. §-a szerint módosított szöveg.
+[^68]: Az „A működési engedélyekről, valamint a tudomásul vett bejelentéssel rendelkező vasúti társaságoktól és a bejelentett vasúti tevékenységekről vezetett nyilvántartás adatai” alcím címe a 9/2022. (VIII. 1.) TIM rendelet 53. §-ával megállapított szöveg.

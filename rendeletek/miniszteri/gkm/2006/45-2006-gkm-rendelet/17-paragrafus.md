@@ -52,7 +52,7 @@ g)[^80] a Vtv. 9/F §-a szerinti bejelentési kötelezettség teljesítésének 
 
 (7)[^82] A nyílt hozzáférésű pályahálózatot működtető vasúti társaság, illetve vertikálisan integrált vállalkozás – külön jogszabály vagy a vasúti igazgatási szerv által előírt adatszolgáltatási kötelezettség alapján – más vasúti társaság, illetve piaci szereplő részére a fennálló forgalommal és a vasúti pálya aktuális állapotával kapcsolatosan köteles adatokat szolgáltatni, és az előírt adatokat, illetve információkat korlátozás nélkül, térítésmentesen hozzáférhetővé tenni.
 
-[^69]: A 16. §-t a 48/2009. (IX. 30.) KHEM rendelet 48. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^69]: A 16. §-t a 48/2009. (IX. 30.) KHEM rendelet 48. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni. [A 9/2022. (VIII. 1.) TIM rendelet 53. §-ával elrendelet módosítás nem vezethető át.]
 [^70]: A 17. §-t megelőző alcím az 5/2012. (II. 15.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^71]: A 17. § (1) bekezdése az 5/2012. (II. 15.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^72]: A 17. § (1) bekezdés d) pontját a 10/2019. (V. 29.) ITM rendelet 8. § d) pontja hatályon kívül helyezte.

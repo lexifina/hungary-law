@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-45-20-0
 | 2018-01-01 | 2006-45-20-0L.13 | 55/2017. (XII. 27.) NFM rendelet |
 | 2019-06-13 | 2006-45-20-0L.14 | 10/2019. (V. 29.) ITM rendelet |
 | 2021-04-14 | 2006-45-20-0L.15 | 15/2021. (IV. 9.) ITM rendelet |
+| 2022-08-06 | 2006-45-20-0L.16 | 9/2022. (VIII. 1.) TIM rendelet |
