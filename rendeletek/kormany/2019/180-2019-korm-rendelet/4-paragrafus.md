@@ -1,3 +1,5 @@
+## 3/A. §[^1] A roma kapcsolatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1297/2022. (VI. 17.) Korm. határozattal kinevezett kormánybiztos gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés g) és h) pontjában meghatározott hatásköröket a Főigazgatóság 4. § (1), (2), (4) és (6) bekezdésében meghatározott feladatai tekintetében.
+
 ## 2. A Főigazgatóság feladatai
 
 4. § (1) A Főigazgatóság az Alaptörvény XV. cikk (4) bekezdésében, valamint az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvényben foglaltak érvényre juttatása céljából a Magyar Nemzeti Társadalmi Felzárkózási Stratégiával összhangban ellátja a társadalmi felzárkózás képzési, szervezési, területi módszertani és kutatási feladatait. Ennek keretében
@@ -44,7 +46,7 @@ f) a területi felzárkózás elősegítése érdekében a Kormány által kijel
 
 g) határon túli magyarlakta területeken felzárkózási modellprogramok átvételét segíti.
 
-(2)[^1] A Főigazgatóság ellátja a Biztos Kezdet Gyerekházak és a Tanoda program pályáztatásával és finanszírozásával kapcsolatos feladatokat. A Főigazgatóság e feladatai ellátása tekintetében a Slachta Margit Nemzeti Szociálpolitikai Intézet elektronikus pályázatkezelő rendszeréhez hozzáférési jogosultsággal rendelkezik.
+(2)[^2] A Főigazgatóság ellátja a Biztos Kezdet Gyerekházak és a Tanoda program pályáztatásával és finanszírozásával kapcsolatos feladatokat. A Főigazgatóság e feladatai ellátása tekintetében a Slachta Margit Nemzeti Szociálpolitikai Intézet elektronikus pályázatkezelő rendszeréhez hozzáférési jogosultsággal rendelkezik.
 
 (3) A Kormány a Főigazgatóság központi szervét jelöli ki a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 38/A. § (4)–(8) bekezdése szerinti „Biztos Kezdet Gyerekház Dokumentációs Rendszer” elnevezésű nyilvántartási rendszer vezetésére.
 
@@ -54,4 +56,5 @@ g) határon túli magyarlakta területeken felzárkózási modellprogramok átv�
 
 (6) A Főigazgatóság közreműködik a roma nemzetiséghez kapcsolódó feladatok ellátásában.
 
-[^1]: A 4. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 26. § a) pontja, a 448/2021. (VII. 26.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^1]: A 3/A. §-t a 284/2022. (VIII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 4. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 26. § a) pontja, a 448/2021. (VII. 26.) Korm. rendelet 9. §-a szerint módosított szöveg.
