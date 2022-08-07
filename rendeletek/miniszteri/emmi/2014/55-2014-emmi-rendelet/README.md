@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-55-20-5
 | 2022-02-20 | 2014-55-20-5H.24 | 17/2015. (III. 30.) EMMI rendelet |
 | 2022-04-17 | 2014-55-20-5H.25 | 17/2015. (III. 30.) EMMI rendelet |
 | 2022-06-24 | 2014-55-20-5H.26 | 17/2015. (III. 30.) EMMI rendelet |
+| 2022-08-07 | 2014-55-20-5H.27 | 17/2015. (III. 30.) EMMI rendelet |
