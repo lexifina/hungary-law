@@ -1,75 +1,77 @@
-## 50. §[^28]
+## 50. §[^62]
 
 ## 51. § Az R8.
 
-a)[^29]
+a)[^63]
 
-b)[^30]
+b)[^64]
 
-c)[^31]
+c)[^65]
 
-d)[^32]
+d)[^66]
 
-e)[^33]
+e)[^67]
 
-f)[^34]
+f)[^68]
 
-g)[^35]
+g)[^69]
 
-h)[^36]
+h)[^70]
 
-i)[^37]
+i)[^71]
 
-j)[^38]
+j)[^72]
 
-k)[^39]
+k)[^73]
 
-l)[^40]
+l)[^74]
 
-m)[^41]
+m)[^75]
 
-n) 25. § (2) bekezdés b) pontjában az „és legalább kétéves szakoktatói gyakorlattal, vagy legalább középiskolai érettségivel és ötéves szakoktatói gyakorlattal rendelkezik” szövegrész helyébe a „vagy legalább középiskolai érettségivel és ötéves szakoktatói gyakorlattal vagy legalább középiskolai érettségivel és ötéves közlekedésrendészeti gyakorlattal rendelkezik” szöveg,
+n)[^76]
 
-o) 25. § (2) bekezdés d) pontjában a „kombinált kategóriára” szövegrész helyébe a „kombinált kategóriára a vizsgáztatási jogosultságnak megfelelően” szöveg,
+o)[^77]
 
-p)[^42]
+p)[^78]
 
-q)[^43]
+q)[^79]
 
-r)[^44]
+r)[^80]
 
-s)[^45]
+s)[^81]
 
-t)[^46]
+t)[^82]
 
-u)[^47]
+u)[^83]
 
-v)[^48]
+v)[^84]
 
-w)[^49]
+w)[^85]
 
-x)[^50]
+x)[^86]
 
-[^28]: Az 50. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^29]: Az 51. § a) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^30]: Az 51. § b) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^31]: Az 51. § c) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^32]: Az 51. § d) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^33]: Az 51. § e) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^34]: Az 51. § f) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^35]: Az 51. § g) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^36]: Az 51. § h) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^37]: Az 51. § i) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^38]: Az 51. § j) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^39]: Az 51. § k) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^40]: Az 51. § l) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^41]: Az 51. § m) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^42]: Az 51. § p) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^43]: Az 51. § q) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^44]: Az 51. § r) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^45]: Az 51. § s) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^46]: Az 51. § t) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^47]: Az 51. § u) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^48]: Az 51. § v) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^49]: Az 51. § w) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^50]: Az 51. § x) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^62]: Az 50. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^63]: Az 51. § a) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^64]: Az 51. § b) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^65]: Az 51. § c) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^66]: Az 51. § d) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^67]: Az 51. § e) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^68]: Az 51. § f) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^69]: Az 51. § g) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^70]: Az 51. § h) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^71]: Az 51. § i) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^72]: Az 51. § j) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^73]: Az 51. § k) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^74]: Az 51. § l) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^75]: Az 51. § m) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^76]: A 51. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 51. § o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: Az 51. § p) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^79]: Az 51. § q) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^80]: Az 51. § r) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^81]: Az 51. § s) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^82]: Az 51. § t) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^83]: Az 51. § u) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^84]: Az 51. § v) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^85]: Az 51. § w) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^86]: Az 51. § x) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.

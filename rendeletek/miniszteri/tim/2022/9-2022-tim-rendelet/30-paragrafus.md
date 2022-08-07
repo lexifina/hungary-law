@@ -1,46 +1,38 @@
-## 29. § Hatályát veszti a közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló 91/2004. (VI. 29.) GKM rendelet 1. § (1) bekezdés e) pontjában a „ , valamint a vizsgálóállomások auditálásáról és akkreditált státuszának elfogadásáról szóló miniszteri rendeletben meghatározott szakértői eljárás” szövegrész.
+## 29. §[^31]
 
 ## 11. A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelet módosítása
 
-30. § (1)[^5]
+30. § (1)[^32]
 
-(2)[^6]
+(2)[^33]
 
-(3)[^7]
+(3)[^34]
 
-(4)[^8]
+(4)[^35]
 
-(5)[^9]
+(5)[^36]
 
-(6)[^10]
+(6)[^37]
 
-(7) Az R8. 2. § (1) bekezdése a következő 31. ponttal egészül ki:
+(7)[^38]
 
-(A rendelet alkalmazásában:)
+(8)[^39]
 
-## „31. elektronikus vezetési karton: a vezetési kartonnal egyenértékű, a vizsgaközpont informatikai rendszeréhez kapcsolódó, a 38. § szerint akkreditált elektronikus alkalmazás, amely a tanuló vezetési gyakorlat tantárgyból történő oktatásának bizonylata,”
+(9)[^40]
 
-(8)[^11]
+(10)[^41]
 
-(9) Az R8. 2. § (1) bekezdés 49. pontja helyébe a következő rendelkezés lép:
+(11)[^42]
 
-(A rendelet alkalmazásában:)
-
-## „49.Akkreditáció: az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszer, a digitális tananyagok, a korszerű szimulátorok vagy az elektronikus vezetési karton rendszerek meghatározott időintervallumig tartó alkalmassága,”
-
-(10) Az R8. 2. § (1) bekezdés 50. pontja helyébe a következő rendelkezés lép:
-
-(A rendelet alkalmazásában:)
-
-## „50. Akkreditációs eljárás: az e-learning rendszerű képzésben alkalmazott zárt rendszerű távoktatási képzésmenedzsment rendszer, a digitális tananyagok, a közúti járművezetők és a közúti közlekedési szakemberek képzésénél és vizsgáztatásánál alkalmazott korszerű szimulátorok vagy az elektronikus vezetési karton rendszerek alkalmasságának megállapítására irányuló eljárás,”
-
-(11)[^12]
-
-[^5]: A 30. § (1) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^6]: A 30. § (2) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^7]: A 30. § (3) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^8]: A 30. § (4) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^9]: A 30. § (5) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^10]: A 30. § (6) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^11]: A 30. § (8) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^12]: A 30. § (11) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^31]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 30. § (1) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^33]: A 30. § (2) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^34]: A 30. § (3) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^35]: A 30. § (4) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^36]: A 30. § (5) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^37]: A 30. § (6) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^38]: A 30. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 30. § (8) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^40]: A 30. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 30. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 30. § (11) bekezdése a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.

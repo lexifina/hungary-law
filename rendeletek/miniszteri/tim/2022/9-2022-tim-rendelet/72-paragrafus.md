@@ -1,4 +1,4 @@
-## 71. § A közúti közlekedési ágazatban használt gépek kezelőinek képzéséről és vizsgáztatásáról szóló 54/2021. (XI. 5.) ITM rendelet 1. mellékletében foglalt táblázat C:3 mezőjében az „Utazási földmunkagépek” szövegrész helyébe az „Univerzális földmunkagépek” szöveg lép, D:4 mezőjében a „Traktor alapú földmunkagép” szövegrész helyébe az „1 Traktor alapú univerzális földmunkagép” szöveg lép.
+## 71. §[^128]
 
 ## 23. Záró rendelkezések
 
@@ -13,3 +13,5 @@
 (5) A 30. § (1)–(6), (8), (11) bekezdése, a 31–36. §, a 38. §, a 41–46. §, az 50. §, az 51. § a)–m) pontja és p)–x) pontja, az 52. § a)–v) pontja, valamint a 11–13. melléklet 2022. december 19-én lép hatályba.
 
 (6) A 28. § a) és b) pontja és a 40. § 2023. január 1-jén lép hatályba.
+
+[^128]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 34. §[^16]
+## 34. §[^46]
 
-[^16]: A 34. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^46]: A 34. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.

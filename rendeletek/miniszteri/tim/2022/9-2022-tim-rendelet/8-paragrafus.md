@@ -1,1 +1,3 @@
-## „(7) A közlekedési hatóság minden a negyedév végét követő második hónap 15-éig egyezteti a járműgyártóval vagy az általa kijelölt importőrrel a tárgyi negyedévben az (1) bekezdés alapján rendelkezésére álló adatokat.”
+## 7. §[^7]
+
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

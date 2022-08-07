@@ -1,3 +1,3 @@
-## 62. § A légijármű és a repülőeszköz személyzet, valamint a repülésüzemi tiszt képzéséről, vizsgáztatásáról, engedélyeiről és a képzésükben részt vevő képző szervezetek engedélyezéséről szóló 53/2016. (XII. 16.) NFM rendelet (a továbbiakban: R11.) 116. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 62. §[^119]
 
-## „(2) Ha az elméleti vizsgát a légiközlekedési vizsgaközpont folytatja le, a képző szervezet a légiközlekedési vizsgaközpont részére igazolást ad ki az elméleti képzés sikeres teljesítéséről. Az igazolás kiállítását követő 12. hónap elteltével az elméleti vizsgára a növendék nem bocsátható. A képző szervezet ezen igazolást ismételten is kiadhatja, ha meggyőződött arról, hogy a képzést korábban teljesítő növendék az igazolt ismereteknek továbbra is birtokában van. Ha a növendék nem rendelkezik teljes körűen az előírt ismeretekkel, a képző szervezet ismeretfrissítő oktatásban részesíti.”
+[^119]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

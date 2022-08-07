@@ -1,9 +1,5 @@
-## 70. § A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló 39/2021. (VII. 30.) ITM rendelet 1. melléklet 25.1. pont b) alpontja helyébe a következő rendelkezés lép:
-
-## (A foglalkozásvezetőt a közlekedési hatóság elismeri, ha)
-
-## „b) a KTI Közlekedéstudományi Intézet Nonprofit Kft. által meghirdetett továbbképzésen igazoltan részt vett, és”
-
-## (megfelelt.)
+## 70. §[^127]
 
 ## 22. A közúti közlekedési ágazatban használt gépek kezelőinek képzéséről és vizsgáztatásáról szóló 54/2021. (XI. 5.) ITM rendelet módosítása
+
+[^127]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

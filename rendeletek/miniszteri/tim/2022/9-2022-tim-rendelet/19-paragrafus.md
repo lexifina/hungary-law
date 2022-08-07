@@ -1,5 +1,3 @@
-## 19. § Hatályát veszti az R4.
+## 18. §[^18]
 
-a) 2. számú melléklet A. rész III. fejezet 2. pont d) alpontja és a 3. pont a) alpont af) alpontja, valamint a 4. pont b) alpontja,
-
-b) 4. számú melléklet II. fejezet 3. pont d) alpontja.
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

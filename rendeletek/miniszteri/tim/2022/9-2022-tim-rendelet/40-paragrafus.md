@@ -1,1 +1,3 @@
-## „(6a) Ha a vizsgaigazolást a vizsgaközpont már kiadta, a vizsga érvénytelenítéséről szóló döntésről és a vizsgaigazolás visszavonásáról a vizsgaközpont elektronikus úton tájékoztatja a közúti közlekedési nyilvántartó szervet.”
+## 39. §[^51]
+
+[^51]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

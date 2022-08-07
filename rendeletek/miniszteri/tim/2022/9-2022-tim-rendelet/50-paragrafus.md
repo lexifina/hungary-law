@@ -1,3 +1,3 @@
-## 49. §[^27]
+## 49. §[^61]
 
-[^27]: A 49. § a 72. § (4) bekezdése alapján 2022. november 1-jén lép hatályba.
+[^61]: A 49. § a 72. § (4) bekezdése alapján 2022. november 1-jén lép hatályba.

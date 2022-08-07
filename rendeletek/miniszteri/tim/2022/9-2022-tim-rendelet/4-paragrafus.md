@@ -1,5 +1,3 @@
-## 4. § Hatályát veszti az R1.
+## 3. §[^3]
 
-a) 2. § a) pontjában az „a motorkerékpárt és” szövegrész,
-
-b) a 7. § c) pontjában a „ , továbbá gázautó-szerelő szakképesítés” szövegrész.
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
