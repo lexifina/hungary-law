@@ -1,16 +1,14 @@
-4. § (1) Dohányboltot nem lehet nyitni másik, már működő dohánybolt bármely bejáratától számított 200 méteres távolságon belül.
+4. § (1)[^6] A (3) bekezdésben foglaltak kivételével dohányboltot nem lehet nyitni és működtetni másik, már működő dohánybolttól számított 200 méteres távolságon belül.
 
-(2) Az (1) bekezdésben foglalt rendelkezés akkor minősül megtartottnak, ha a dohányboltok (egymáshoz legközelebb eső) bejáratainak középvonalától számított legrövidebb, szabályos gyalogos közlekedési útvonal hossza eléri vagy meghaladja a 200 métert.
+(2)[^7] Az (1) bekezdésben foglalt rendelkezés akkor minősül megtartottnak, ha a dohányboltok (egymáshoz legközelebb eső) bejáratainak középvonalától számított legrövidebb, a közúti közlekedés szabályairól szóló jogszabály gyalogosok közlekedésére vonatkozó szabályait figyelembe vevő gyalogos közlekedési útvonal hossza eléri vagy meghaladja a 200 métert.
 
-(3) Nem kell alkalmazni az (1) és (2) bekezdésben foglaltakat
+(3)[^8] Nem kell alkalmazni az (1) és (2) bekezdésben foglaltakat, ha
 
-a) az elkülönített helyre,
+a) mindazon dohányboltok üzemeltetői, akik a létesíteni kívánt dohánybolttól számított 200 méteres távolságon belül dohányboltot üzemeltetnek, a dohánybolt létesítéséhez teljes bizonyító erejű magánokiratban visszavonhatatlanul hozzájárultak, vagy
 
-b) kérelemre, ha mindazon dohányboltok üzemeltetői, akik a létesíteni kívánt dohánybolttól számított 200 méteres távolságon belüli bejárattal rendelkező dohányboltot üzemeltetnek, a dohánybolt létesítéséhez teljes bizonyító erejű magánokiratban visszavonhatatlanul hozzájárultak, vagy
+b) a dohánybolt a működési helyét ideiglenes jelleggel elháríthatatlan külső ok vagy a dohánybolt működési körülményeivel szorosan összefüggő ok (különösen felújítás, átépítés) miatt kényszerül megváltoztatni (e § alkalmazásában a továbbiakban: ideiglenes kiköltözés), azzal, hogy ebben az esetben a dohánybolt az ideiglenes kiköltözésre okot adó állapot megszűnését követően az eredeti működési helyén köteles tovább működni legalább 6 hónapig, amelyet írásban, teljes bizonyító erejű magánokiratban a kérelem benyújtásakor vállalnia kell.
 
-c) kérelemre, ha a dohánybolt a működési helyét ideiglenes jelleggel elháríthatatlan külső ok vagy a dohánybolt működési körülményeivel szorosan összefüggő ok (különösen felújítás, átépítés) miatt kényszerül megváltoztatni (e § alkalmazásában a továbbiakban: ideiglenes kiköltözés), azzal, hogy ebben az esetben a dohánybolt az ideiglenes kiköltözésre okot adó állapot elmúltával az eredeti működési helyén köteles tovább működni legalább 6 hónapig, melyet írásban, teljes bizonyító erejű okiratban a kérelem benyújtásakor vállalni kell.
-
-(4) Az ideiglenes kiköltözésre okot adó állapot fennállásáról a kérelem benyújtásakor nyilatkozni kell az ok megjelölésével. Az ideiglenes kiköltözés időtartama nem haladhatja meg a 6 hónapot, melyet a Hatóság indokolt esetben legfeljebb 6 hónappal, különösen indokolt esetben legfeljebb 12 hónappal, mindösszesen egy alkalommal meghosszabbíthat. Az ideiglenes kiköltözés tartama alatt az eredeti működési helyen tevékenység nem folytatható.
+(4)[^9] Az ideiglenes kiköltözésre okot adó állapot fennállásáról a kérelem benyújtásakor a kérelmezőnek nyilatkoznia kell az ok megjelölésével. Az ideiglenes kiköltözés időtartama nem haladhatja meg a 6 hónapot, amelyet a Hatóság indokolt kérelemre, ha az ideiglenes kiköltözés oka továbbra is fennáll, alkalmanként legfeljebb 6 hónappal meghosszabbíthat. Az ideiglenes kiköltözés tartama alatt az eredeti működési helyen tevékenység nem folytatható.
 
 (5) Dohánybolt nem létesíthető olyan építményben, illetve nem választható le olyan építményből, amelyben
 
@@ -29,3 +27,8 @@ b) az (5) bekezdésben meghatározott építmény rendeltetésszerű használat�
 c) a b) alpontban meghatározott területből bármely célból vagy jogcímen leválasztott (kialakított) területen.
 
 (7) Ha a kérelmekkel érintett dohányboltokra a Hatóság az engedélyt még nem adta meg, a Hatóság azon kérelmezővel (jogosulttal) szemben érvényesíti az (1) bekezdés követelményét, aki az adott dohányboltra vonatkozó engedély (módosítás) iránti kérelmét későbbi időpontban nyújtotta be.
+
+[^6]: A 4. § (1) bekezdése a 34/2022. (VIII. 4.) SZTFH rendelet 4. §-ával megállapított szöveg.
+[^7]: A 4. § (2) bekezdése a 34/2022. (VIII. 4.) SZTFH rendelet 4. §-ával megállapított szöveg.
+[^8]: A 4. § (3) bekezdése a 34/2022. (VIII. 4.) SZTFH rendelet 4. §-ával megállapított szöveg.
+[^9]: A 4. § (4) bekezdése a 34/2022. (VIII. 4.) SZTFH rendelet 4. §-ával megállapított szöveg.

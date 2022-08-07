@@ -1,30 +1,30 @@
-## 10. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 11. §[^18] A dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés egyes szabályairól szóló 18/2021. (X. 29.) SZTFH rendelet módosításáról szóló 34/2022. (VIII. 4.) SZTFH rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 18/2021. (X. 29.) SZTFH rendelethez
+1. melléklet a 18/2021. (X. 29.) SZTFH rendelethez[^19]
 
 ## A dohánytermék-kiskereskedelmi engedély iránti kérelem adattartalma
 
-Az ellenőrzéshez szükséges adatok:
-
 1. Koncesszió jogosultjának
 
-1.1. neve,
+1.1. családi és utóneve,
 
-1.2. állandó lakhelye,
+1.2. születési neve,
 
-1.3. személyiigazolvány-száma,
+1.3. lakcíme,
 
-1.4. adóazonosító jele,
+1.4. személyazonosító okmány száma,
 
-1.5. telefonszáma,
+1.5. adóazonosító jele,
 
-1.6. e-mail-címe,
+1.6. telefonszáma,
 
-1.7. születési helye, ideje,
+1.7. e-mail-címe,
 
-1.8. anyja neve,
+1.8. születési helye, ideje,
 
-1.9. állampolgársága.
+1.9. anyja születési neve,
+
+1.10. állampolgársága.
 
 2. Koncessziót gyakorló
 
@@ -36,19 +36,21 @@ Az ellenőrzéshez szükséges adatok:
 
 2.4. adószáma,
 
-2.5. képviselője,
+2.5. telefonszáma,
 
-2.6. telefonszáma,
+2.6. e-mail-címe.
 
-2.7. e-mail-címe.
+3. Dohánytermék értékesítési hely
 
-3. Dohánybolt
+3.1. címe,
 
-3.1. üzemeltetés helye,
+3.2. alapterülete,
 
-3.2. nyitvatartás ideje.
+3.3. használati jogcím igazolására vonatkozó okirat típusát (bérleti szerződés, tulajdoni lap),
 
-4. Koncessziós szerződés száma és érvényessége.
+3.4. nyitvatartási ideje.
+
+4. A Koncessziós szerződés száma és érvényessége.
 
 5. Adatváltozás bejelentése esetén az engedély száma.
 
@@ -56,18 +58,7 @@ Az ellenőrzéshez szükséges adatok:
 
 7. A dohánybolt vagy elkülönített hely használati jogcímének megállapítására alkalmas bérleti szerződés időtartama és a tulajdoni hányad.
 
-8. A cégvezető
+8. Öröklés esetén az örökhagyó adószáma, engedélyszáma, az örökhagyó elhalálozásának napja, a közjegyzői határozat véglegessége.
 
-8.1. neve,
-
-8.2. születési helye, ideje,
-
-8.3. anyja neve,
-
-8.4. állampolgársága,
-
-8.5. lakóhelye.
-
-9. Kapcsolattartók neve, e-mail-címe, telefonszáma.
-
-10. Öröklés esetén az örökhagyó adószáma, engedélyszáma, az örökhagyó elhalálozásának napja, a közjegyzői határozat véglegessége.
+[^18]: A 11. §-t a 34/2022. (VIII. 4.) SZTFH rendelet 9. §-a iktatta be.
+[^19]: Az 1. mellékelt a 34/2022. (VIII. 4.) SZTFH rendelet 10. §-ával megállapított szöveg.

@@ -1,7 +1,15 @@
 ## 4. A dohánytermék-kiskereskedelmi tevékenység szüneteltetésének az engedélyezése
 
-6. § (1) A dohánytermék-kiskereskedő a Hatóságnál előzetesen szünetelés iránti kérelmet terjeszt elő, ha 24 órát meghaladóan nem kíván dohánytermék-kiskereskedelmi tevékenységet folytatni. Az engedély hatálya alatt összesen legfeljebb hat hónapos időtartamra engedélyezhető a dohánytermék-kiskereskedelmi tevékenység szüneteltetése.
+6. §[^15] (1) A dohánytermék-kiskereskedelmi tevékenység szüneteltetése a dohánytermék-kiskereskedő számára a koncessziós jogosultságának időtartama alatt összesen legfeljebb 6 hónapos időtartamra engedélyezhető.
 
-(2) A kérelmező az (1) bekezdés szerinti kérelmet a Hatóságnál a Hatóság által e célra rendszeresített formanyomtatványon terjeszti elő.
+(2) A dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy a dohánytermék-kiskereskedelmi tevékenységét legfeljebb 3 hónapos időtartamra szüneteltetheti, amelyet indokolt esetben a Hatóság egy alkalommal legfeljebb 3 hónappal meghosszabbíthat. A dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy számára engedélyezett szüneteltetés összesített időtartama a kijelölés időtartama alatt nem haladhatja meg a 6 hónapot.
 
-(3) A tevékenység engedélyezett szüneteltetése a dohánytermék-kiskereskedelmi jogosultság gyakorlására kiadott engedélynek a 2. § (4) bekezdésében meghatározott időtartamát nem hosszabbítja meg, és az engedélyest nem mentesíti a koncessziós szerződésben meghatározott koncessziós díj fizetésére vonatkozó kötelezettség alól. A határozatban megjelölt időtartam elteltével a dohánytermék-kiskereskedő köteles a dohánytermék-kiskereskedelmi tevékenységét folytatni.
+(3) A dohánytermék-kiskereskedő vagy a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy (a továbbiakban együtt: szüneteltetést kérelmező) az (5) és (6) bekezdés szerinti kérelmet a Hatóságnál a szüneteltetés megkezdését megelőzően 15 nappal, a Hatóság által e célra rendszeresített formanyomtatványon terjeszti elő. A határozatban megjelölt időtartam elteltével a dohánytermék-kiskereskedő köteles a dohánytermék-kiskereskedelmi tevékenységét folytatni.
+
+(4) A tevékenység engedélyezett szüneteltetése a dohánytermék-kiskereskedelmi jogosultság gyakorlására kiadott engedélynek a koncessziós szerződésben meghatározott időtartamát nem hosszabbítja meg, és az engedély jogosultját nem mentesíti a koncessziós szerződésben meghatározott koncessziós díj fizetésére vonatkozó kötelezettség alól.
+
+(5) Szüneteltetési kérelmet köteles előterjeszteni a szüneteltetést kérelmező, ha egyéni vállalkozó és tevékenységét az egyéni vállalkozóról és az egyéni cégről szóló törvény rendelkezései szerint szünetelteti.
+
+(6) Szüneteltetési kérelmet terjeszthet elő a szüneteltetést kérelmező, ha az állammal szemben vállalt ellátási kötelezettségét ideiglenesen nem teljesíti, és ennek következtében az Fdvtv.-ben foglalt, a dohánytermék-kiskereskedelmi tevékenységgel összefüggő – így különösen a nyilvántartás-vezetési és adatszolgáltatási – kötelezettségeinek nem tesz eleget.
+
+[^15]: A 6. § a 34/2022. (VIII. 4.) SZTFH rendelet 6. §-ával megállapított szöveg.
