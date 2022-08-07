@@ -1,3 +1,1 @@
-35. § A Szantv. 68/B. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) A szanálási feladatkörében eljáró MNB abban az esetben engedélyezi vagy adhat általános előzetes engedélyt az intézmény kérelmére az (5) bekezdés a) pontja szerinti kötelezettségek lehívására, visszaváltására, visszafizetésére vagy visszavásárlására, ha az 575/2013/EU rendelet 77. és 78a. cikkében rögzített – ideértve a 68/B. § (5) bekezdés a) pontja szerinti kötelezettségeket is –, a leírható, illetve átalakítható kötelezettséginstrumentumok lehívására, visszaváltására, visszafizetésére vagy visszavásárlására vonatkozó a kérelemtől függően az engedélyezés vagy általános előzetes engedély megadásának feltételei az (5) bekezdés a) pontja szerinti kötelezettség esetében is fennállnak.”
+35. §

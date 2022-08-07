@@ -1,5 +1,3 @@
 ## 10. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
 
-31. § A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szantv.) 11. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az (5) bekezdésben előírt intézkedések azonosítása során a szanálási feladatkörében eljáró MNB-nek indokolnia kell, hogy a szervezet által javasolt lépések miért nem alkalmasak a szanálhatóság akadályainak csökkentéséhez vagy kiküszöböléséhez, valamint az intézkedések megvalósítására vonatkozó alternatív terv hogyan képes a szanálhatóság akadályainak kiküszöbölésére. A szanálási feladatkörében eljáró MNB figyelembe veszi, hogy a szanálhatóság akadályai milyen fenyegetést jelentenek a pénzügyi stabilitásra és az intézkedések milyen hatást gyakorolnak a szervezet üzleti tevékenységére, stabilitására, valamint arra a képességére, hogy hozzájáruljon a gazdasághoz.”
+31. §
