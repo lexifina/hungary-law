@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-9-00-00
 | --- | --- | --- |
 | 2022-07-02 | 2022. évi IX. törvény | 2022-9-00-00.0 (közlönyállapot) |
 | 2022-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-9-00-00.1 |
+| 2022-08-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-9-00-00.2 |
