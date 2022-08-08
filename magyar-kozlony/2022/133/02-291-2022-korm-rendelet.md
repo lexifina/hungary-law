@@ -1,0 +1,52 @@
+# A Kormány 291/2022. (VIII. 8.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 133. szám, 2022. augusztus 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/u3tBM1NvmOptWWfR8SPO62e4fa2282b67/dokumentumok/a75ae910042babd52e069c461ada61a65b1f782e/letoltes)
+
+---
+
+A Kormány 291/2022. (VIII. 8.) Korm. rendelete
+a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény aszály-veszélyhelyzetben alkalmazandó eltérő
+szabályainak bevezetéséről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. § (3) és (4) bekezdésére,
+az 5. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a szomszédos
+országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról szóló
+2022. évi VI. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint
+ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a biztosítási
+tevékenységről szóló 2014. évi LXXXVIII. törvény 123/A. § (3) bekezdésétől eltérően, aszálykárfedezettel rendelkező
+növénybiztosítási szerződés esetén a biztosító a 2. § (2) bekezdése szerinti biztosítási szolgáltatási igény
+(a továbbiakban: kárbejelentés) beérkezésétől számított 14 napon belül kárelőleget fizet a biztosítási szolgáltatásra
+jogosult személynek (a továbbiakban: ügyfél) a 2. § (1) bekezdése szerinti feltétel fennállása esetén.
+(2) A kárelőleg mértéke az aszálykárfedezettel rendelkező növénybiztosítási szerződés szerint fizethető kártérítés
+legalább 50%-a.
+(3) Amennyiben kárelőleg kifizetésére kerül sor, az aszálykárfedezettel rendelkező növénybiztosítási szerződés szerinti
+kártérítés és a (2) bekezdés szerinti kárelőleg különbözetével a biztosító és az ügyfél elszámol. Ha az elszámolás
+eredményeként az ügyfelet visszafizetési kötelezettség terheli, akkor e kötelezettségének az ügyfél a biztosító erre
+vonatkozó felhívásától számított 14 napon belül tesz eleget.
+2. § (1) A kárelőlegre az ügyfél akkor jogosult, ha a (2) bekezdés szerinti, 2022. október 31-ig benyújtott kárbejelentés
+során arról nyilatkozik, hogy a szántóföldi növénytermesztés keretében termelt kukorica vagy napraforgó esetében
+az ügyfél által elszenvedett kár üzemenként és növénykultúránként eléri a 80% mértékű kárátlagot.
+(2) Az ügyfél a kárbejelentést a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletében
+meghatározott formában és tartalommal nyújtja be a biztosítóhoz.
+(3) A biztosító az 1. § szerinti kárelőleg részletszabályairól az e rendelet hatálybalépését követő 5 munkanapon belül
+a honlapján tájékoztatja az ügyfelet.
+(4) E rendelet alkalmazása során a biztosító kizárólag elektronikus úton tart kapcsolatot az ügyféllel.
+3. § (1) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy a kárbejelentés formáját
+és tartalmát rendeletben határozza meg.
+(2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy a biztosító által
+alkalmazandó, az 1. § szerinti kárelőleg fizetésének részletszabályairól szóló tájékoztatás tartalmát rendeletben
+határozza meg.
+4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) Az 5. § az e rendelet kihirdetését követő 15. napon lép hatályba.
+
+5. § (1) A Kormány e rendelet hatályát a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius
+katasztrófa magyarországi következményeinek elhárításáról szóló 2022. évi VI. törvény hatályvesztéséig
+meghosszabbítja.
+(2) Ez a rendelet a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi
+következményeinek elhárításáról szóló 2022. évi VI. törvény hatályvesztésekor hatályát veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
