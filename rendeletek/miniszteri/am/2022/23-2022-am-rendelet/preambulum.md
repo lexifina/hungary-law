@@ -1,0 +1,1 @@
+A hiteltörlesztési moratórium veszélyhelyzettel kapcsolatos különös szabályainak bevezetéséről szóló 292/2022. (VIII. 8.) Korm. rendelet 3. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
