@@ -208,6 +208,6 @@
 
 | 104 | 654 631,095 | 239 483,919 |
 
-5. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^169]
+5. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^178]
 
-[^169]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^178]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
