@@ -1,0 +1,7 @@
+3. § (1) A fenntartó a kiegészítő támogatást a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: Vhr.) 37/C. § (1) bekezdésében foglaltaktól eltérően a 2022. évben első alkalommal 2022. október 5. napjáig a 2022. szeptember havi tényadat alapján, ezt követően 2022. november 5. napjáig a 2022. október havi tényadat, valamint a 2022. november és 2022. december hónapok becsült adatai alapján igényelheti. A támogatás iránti igényt ezt követően havonta, a teljesítést követő hónap ötödik napjáig kell benyújtani a Magyar Államkincstár fenntartó székhelye szerint illetékes megyei igazgatóságához (a továbbiakban: igazgatóság). A fenntartó a kérelem benyújtásakor igazolja, hogy az általa fenntartott köznevelési vagy szakképző intézménnyel a tanuló jogviszonyban áll.
+
+(2) Az (1) bekezdés szerinti jogviszony fennállását igazoló adatot az igazgatóság a veszélyhelyzet megszűnéséig kezeli.
+
+(3) A kiegészítő támogatás iránti igény elbírálásának ügyintézési határideje 10 nap. Az igazgatóság a kérelemnek jogszerű hallgatással is helyt adhat.
+
+(4) A fenntartót megillető kiegészítő támogatást havonta utólag, az igénylést követő hónap hetedik napjáig kell folyósítani, első alkalommal 2022. november hónapban a 2022. szeptember havi összeget, ezt követően 2022. december hónapban a 2022. október, november és december havi támogatásokat egy összegben.
