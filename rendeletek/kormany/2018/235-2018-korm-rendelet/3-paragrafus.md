@@ -1,1 +1,0 @@
-## 2. § A 2. melléklet szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás kivételével vagy, ha jogszabály rövidebb határidőt nem állapít meg – tizenöt nap.
