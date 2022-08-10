@@ -100,4 +100,6 @@ pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés végrehajtása során
 
-13. visszavonja az ideiglenes védelemre jogosult, tanköteles tanulók fejlesztésének, nevelése-oktatásának megvalósítása érdekében szükséges forrásbiztosításról szóló 1179/2022. (III. 23.) Korm. határozatot.
+13.[^1]
+
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
