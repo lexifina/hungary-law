@@ -1,0 +1,7 @@
+5. § (1) Az elővásárlási jogot vagy vételi jogot a miniszter által a 3. § (4) bekezdése szerinti tájékoztatásban kijelölt erdészeti társaság az állam nevében saját forrásai terhére gyakorolja.
+
+(2) A vételi jog gyakorlása során a vételárról és annak teljesítéséről a bejelentő és az erdészeti társaság állapodik meg. Ha az erdészeti társaság és a bejelentő a vételi jog gyakorlása során a vételár összegében nem állapodik meg, az erdészeti társaság a tűzifa aktuális piaci értékének megfelelő összeget a vételi jog gyakorlásáról szóló tájékoztatást követő nyolc napon belül megfizeti a bejelentőnek a bejelentő 2. § (2) bekezdés a) pont ad) alpontja vagy 2. § (2) bekezdés b) pont bd) alpontja szerinti fizetési számlájára, aki ezt követően, a már megfizetett összegen felüli követelését polgári peres eljárás keretében érvényesítheti, a bejelentő általi perindításnak nincs halasztó hatálya. A tűzifa aktuális piaci értékét a vételi jog gyakorlásának időpontját megelőző 30 napban bejelentett 2. § (2) bekezdés c) pont cb) alpontja szerinti összegek átlagával kell meghatározni.
+
+(3) Az elővásárlási vagy vételi jog gyakorlását követően a tűzifa ellenértékének megfelelő összeg bejelentőnek történő megfizetésével e rendelet alapján a tűzifa az erdészeti társaság tulajdonába kerül.
+
+(4) Az erdészeti társaság a tűzifamennyiséget szociális célokra vagy állami vagy önkormányzati közfeladat zavartalan biztosításának ellátására használhatja fel.
