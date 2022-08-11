@@ -1,0 +1,497 @@
+# A Kormány 314/2022. (VIII. 11.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 135. szám, 2022. augusztus 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/TX6L6Pc3IQVrloixN8i362ec260d23815/dokumentumok/5ed22ca65cb3ceb36480bbca37aa36d104baf05d/letoltes)
+
+---
+
+A Kormány 314/2022. (VIII. 11.) Korm. rendelete
+a Budapest XIV. kerületében komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények,
+infrastrukturális fejlesztések megvalósítására irányuló beruházással összefüggő közigazgatási hatósági
+ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten
+közérdekű beruházássá nyilvánításáról
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és
+egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–c) pontjában, valamint 12. § (5) bekezdés a) és d) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt
+közigazgatási hatósági ügyeket, amelyek a Budapest XIV. kerületében komplex ingatlanfejlesztésre, illetve az ahhoz
+kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló, 2. mellékletben meghatározott
+beruházással (a továbbiakban: Beruházás) függenek össze.
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági
+ügyeket, amelyek
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési munkákra vonatkoznak,
+c) a 2. mellékletben a Beruházás megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási
+eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat érintik.
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást, amelynek helyszíne a 2. mellékletben
+meghatározott ingatlanok területe.
+2. § (1) A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben a 2. melléklet szerinti főispánt jelöli ki
+koordinációs feladatokat ellátó főispánként.
+(2) A Kormány az 1. melléklet 22. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként a Budapest Főváros
+Kormányhivatalát jelöli ki.
+3. §
+A Beruházás esetében
+a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+b) településképi bejelentési eljárásnak nincs helye,
+c) településképi véleményezési eljárást nem kell lefolytatni,
+d) településképi szakmai konzultációt nem kell lefolytatni,
+e) közterület alakítási terv készítésének és alkalmazásának nincs helye.
+4. § (1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – a környezetvédelmi,
+valamint a természetvédelmi eljárások kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési
+határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály
+rövidebbet nem állapít meg – nyolc nap.
+5. § (1) A Beruházás esetében a 2. mellékletben foglalt táblázat B:2 mezőjében megjelölt telkekre, az azokból telekalakítással
+kialakításra kerülő telkekre a sajátos beépítési szabályokat, az egyedi építési követelményeket, az egyedi
+településképi követelményeket és a fás szárú növények védelmére vonatkozó egyedi előírásokat a (2)–(14) bekezdés
+állapítja meg, azzal, hogy
+a) a hatályos településrendezési tervek, településképi rendelet és az országos településrendezési és
+építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait
+a (2)–(14) bekezdésben foglalt eltérésekkel kell alkalmazni,
+b) ha a hatályos településrendezési terv, településképi rendelet, egyéb önkormányzati rendelet vagy
+az OTÉK a beépítés (2)–(14) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze
+nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet, településképi rendeletet, egyéb
+önkormányzati rendeletet és az OTÉK-ot nem lehet alkalmazni.
+
+(2) A 2. mellékletben foglalt táblázat B:2 mezőjében megjelölt telkek, az azokból telekalakítással kialakításra kerülő
+telkek tekintetében változtatási és építési tilalom nem alkalmazható.
+(3) A 2. mellékletben foglalt táblázat B:2 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő
+telkekre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
+ 1. a kialakítható telek legkisebb területe 5000 m2, kivéve az önálló helyrajzi számon útként nyilvántartott
+magánút területet, amely az OTÉK vagy a településrendezési eszköz szerinti ilyen területre meghatározott
+legkisebb terület mérettől eltérhet,
+ 2. a terepszint alatti és a terepszint feletti építési hely az érintett ingatlanok teljes területe,
+ 3. a meglévő és újonnan megvalósuló épületekhez – akár szomszédos ingatlanon lévő épületekhez is – lehet
+zártsorúan csatlakozni,
+ 4. a Beruházással összefüggésben megvalósuló építmények között nem kell telepítési távolságot tartani, azok
+a telekhatárokon is csatlakozhatnak egymáshoz,
+ 5. az ingatlanokon nyitott gépkocsilehajtó létesíthető,
+ 6. ha az ingatlan több közterülettel vagy magánúttal is határos, a gépjárművel való kiszolgálást egyidejűleg
+az erre alkalmas összes közterületről és magánútról is lehet biztosítani,
+ 7. az épületek a felszín alatt és a földszinten összenyithatók,
+ 8. a közterület és magánút fölé nyúló épületrész legfeljebb 2 méter, az előtető legfeljebb 2,5 méter kinyúlású
+lehet, függetlenül az adott közterület és magánút szabályozási szélességétől,
+ 9. a külön helyrajzi számú ingatlanon lévő épület terepszint alatt az önálló helyrajzi számon útként
+nyilvántartott magánút alá kinyúlhat, abban az esetben is, ha a magánút közforgalom céljára megnyitott,
+a magánút alá kinyúló terepszint alatti épület kinyúlás a magánút teljes területére kiterjedhet, és azt nem kell
+az épülettől szerkezetileg leválasztott módon kialakítani,
+10. a telkeken kereskedelmi, szolgáltató, vendéglátó, hitéleti, nevelési, oktatási, egészségügyi, szociális, kulturális,
+közösségi szórakoztató, szállás jellegű, igazgatási, iroda, sport és lakó rendeltetésű épületek, illetve ezek
+kiszolgáló építményei elhelyezhetőek,
+11. a telken elhelyezhető épületek és rendeltetési egységek száma, illetve az egyes rendeltetési egységek
+területe nem korlátozott,
+12. P+R rendszerű személygépkocsi-várakozóhelyet nem kell kialakítani,
+13. a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához
+előírt – az OTÉK 4. számú melléklete szerint meghatározott számú – személygépkocsi-várakozóhely legalább
+55%-ának elhelyezését kell biztosítani, azzal, hogy
+a) az OTÉK 42. § (11) bekezdése ezen követelmények érvényesítése esetében is alkalmazható,
+b) lakás önálló rendeltetési egysége után a szükséges parkolóhelyeket az alábbi módon kell biztosítani:
+ba) nettó 70 m2-t meghaladó lakás-alapterület esetén minden lakás után egy személygépkocsi,
+bb) nettó 70 m2-nél kisebb lakás-alapterület esetén lakásszám fele után egy személygépkocsi
+elhelyezését kell biztosítani,
+14. új épület építése esetén a zöldfelület minden 200 m2-e után legalább 1 környezettűrő, nagy lombkoronát
+növelő fát kell telepíteni, kivéve, ha a 3. mellékletben megjelölt földrészletek terepszint alatti beépítésének
+megengedett legnagyobb mértéke 100%, azzal, hogy a telepítendő fa az érintett földrészleten kívül is
+elhelyezhető a 2. mellékletben foglalt táblázat B:2 mezőjében megjelölt telkek és az azokból telekalakítással
+kialakításra kerülő telkek bármelyikén,
+15. zöldtető kialakítása nem kötelező,
+16. a vízfelület az OTÉK 5. számú melléklete szerint számítandó be a zöldfelületbe,
+17. a kialakításra kerülő zöldfelület a földrészleteken belül korlátozás nélkül elhelyezhető,
+18. az épületben kialakítható legfelső, huzamos emberi tartózkodásra szolgáló szint burkolt padlószintjének
+magassága – az épületmagasság előírt mértékének betartása mellett – nem korlátozott,
+19. zártsorú beépítés esetén egy vagy több épületrész magassága tetszőleges mértékben meghaladhatja
+a párkánymagasságot az előírt épületmagasság megtartása mellett,
+20. közhasználat céljára szolgáló területet nem kell kialakítani,
+21. az épület legmagasabb pontja legfeljebb 39 méter lehet,
+22. építési határvonalon túlnyúló épületrész kiugrása közterület fölé kinyúlhat, azzal, hogy
+a) a kinyúlás alsó síkja rendezett terepszint felett legalább 4 méter, és
+b) kiugrást legfeljebb az egyes homlokzatfelületek 60%-án lehet kialakítani,
+23. több lépcsőben visszahúzott tetőemeletek kialakíthatók,
+
+24. amennyiben a WC-, vizeldeszerelvénnyel felszerelt helyiség gépi elszívással rendelkezik, úgy az OTÉK 99. §
+(9) bekezdése előírásait nem kell alkalmazni,
+25. magánút zsákutcaként kialakítható útszakaszának legnagyobb hossza meghaladhatja a 30 métert, de nem
+lehet hosszabb, mint 150 méter, ha
+a) a végén tehergépjárművek számára a megfelelő forduló kialakításra kerül, vagy
+b) csak személygépjárművek számára létesített terepszint alatti parkolók megközelítésére szolgál,
+és a hulladékszállítás, katasztrófavédelmi feladatok ellátása egyéb közterület vagy közhasználatra
+átadott terület felől megoldott,
+26. az építési telkek természetes terepszintje az építési helyen belül legfeljebb 2 méterrel változtatható meg,
+27. az építési telkek egymáshoz csatlakozó terepszintje egymástól legfeljebb 1,5 méterrel eltérhet,
+28. a Beruházás megvalósítása során a telekhatároktól függetlenül összefüggő csapadékvíz-elvezető rendszer
+alakítható ki,
+29. a Beruházás megvalósítása során a Beruházás bármely telkén telepíthetőek felvonulási és kiszolgáló épületek,
+valamint a Beruházást kiszolgáló ideiglenes betonkeverő üzem,
+30. antenna, antennatartó szerkezet lapostetőn az OTÉK előírásai szerint helyezhető el,
+31. a Beruházással érintett telkek határvonalán létesítendő kapubehajtó szélessége nem korlátozott,
+32. a közterületek kapcsolatának a beruházással érintett telkeken keresztüli biztosítása nem kötelező, kivéve
+gyalogos átjárást, legkésőbb az utolsó ütemben megvalósuló épület használatbavételi engedélyének
+véglegessé válásakor,
+33. új épület létesítése esetén a lapostető felületének 15%-át zöldtetőként kell kialakítani,
+34. az egyes építési telkekre vonatkozóan az épület legmagasabb pontja az adott telekre vonatkozóan
+az épületmagasság megengedett legnagyobb mértékét maximum 8 méterrel haladhatja meg.
+(4) A 3. mellékletben foglalt 1. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi
+építési követelmények:
+a) a terepszint feletti beépítés legnagyobb mértéke 70%,
+b) a terepszint alatti beépítés legnagyobb mértéke 95%,
+c) a parkolási szintterületi mutató megengedett legnagyobb értéke 1,5 m2/m2,
+d) az általános szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
+e) a zöldfelület megengedett legkisebb mértéke 15%,
+f) az épületmagasság megengedett legkisebb mértéke 7 méter,
+g) az épületmagasság megengedett legnagyobb mértéke 25 méter.
+(5) A 3. mellékletben foglalt 2. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi
+építési követelmények:
+a) a terepszint feletti beépítés legnagyobb mértéke 70%,
+b) a terepszint alatti beépítés legnagyobb mértéke 100%,
+c) a parkolási szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
+d) az általános szintterületi mutató megengedett legnagyobb értéke 4,5 m2/m2,
+e) a zöldfelület megengedett legkisebb mértéke 10%,
+f) az épületmagasság megengedett legkisebb mértéke 7 méter,
+g) az épületmagasság megengedett legnagyobb mértéke 35 méter.
+(6) A 3. mellékletben foglalt 3. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi
+építési követelmények:
+a) a terepszint feletti beépítés legnagyobb mértéke 50%,
+b) a terepszint alatti beépítés legnagyobb mértéke 95%,
+c) a parkolási szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
+d) az általános szintterületi mutató megengedett legnagyobb értéke 4,5 m2/m2,
+e) a zöldfelület megengedett legkisebb mértéke 15%,
+f) az épületmagasság megengedett legkisebb mértéke 7 méter,
+g) az épületmagasság megengedett legnagyobb mértéke 35 méter.
+(7) A 3. mellékletben foglalt 4. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi
+építési követelmények:
+a) a terepszint feletti beépítés legnagyobb mértéke 65%,
+b) a terepszint alatti beépítés legnagyobb mértéke 95%,
+c) a parkolási szintterületi mutató megengedett legnagyobb értéke 1,5 m2/m2,
+
+d) az általános szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
+e) a zöldfelület megengedett legkisebb mértéke 20%,
+f) az épületmagasság megengedett legkisebb mértéke 7 méter,
+g) az épületmagasság megengedett legnagyobb mértéke 25 méter.
+(8) A 3. mellékletben foglalt 5. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi
+építési követelmények:
+a) a terepszint feletti beépítés legnagyobb mértéke 65%,
+b) a terepszint alatti beépítés legnagyobb mértéke 95%,
+c) a parkolási szintterületi mutató megengedett legnagyobb értéke 1,5 m2/m2,
+d) az általános szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
+e) a zöldfelület megengedett legkisebb mértéke 20%,
+f) az épületmagasság megengedett legkisebb mértéke 7 méter,
+g) az épületmagasság megengedett legnagyobb mértéke 25 méter.
+(9) A 3. mellékletben foglalt 6. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi
+építési követelmények:
+a) a terepszint feletti beépítés legnagyobb mértéke 50%,
+b) a terepszint alatti beépítés legnagyobb mértéke 95%,
+c) a parkolási szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
+d) az általános szintterületi mutató megengedett legnagyobb értéke 4,5 m2/m2,
+e) a zöldfelület megengedett legkisebb mértéke 15%,
+f) az épületmagasság megengedett legkisebb mértéke 7 méter,
+g) az épületmagasság megengedett legnagyobb mértéke 35 méter.
+(10) A 3. mellékletben foglalt 7. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi
+építési követelmények:
+a) a terepszint feletti beépítés legnagyobb mértéke 50%,
+b) a terepszint alatti beépítés legnagyobb mértéke 85%,
+c) a parkolási szintterületi mutató megengedett legnagyobb értéke 3 m2/m2,
+d) az általános szintterületi mutató megengedett legnagyobb értéke 4,5 m2/m2,
+e) a zöldfelület megengedett legkisebb mértéke 25%,
+f) az épületmagasság megengedett legkisebb mértéke 2 méter,
+g) az épületmagasság megengedett legnagyobb mértéke 35 méter.
+(11) A 3. mellékletben foglalt 8. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi
+építési követelmények:
+a) a terepszint feletti beépítés legnagyobb mértéke 65%,
+b) a terepszint alatti beépítés legnagyobb mértéke 85%,
+c) a parkolási szintterületi mutató megengedett legnagyobb értéke 1,5 m2/m2,
+d) az általános szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
+e) a zöldfelület megengedett legkisebb mértéke 25%,
+f) az épületmagasság megengedett legkisebb mértéke 2 méter,
+g) az épületmagasság megengedett legnagyobb mértéke 21 méter.
+(12) A Budapest XIV. kerület, belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek területén
+a magánutak területi lehatárolását a 3. mellékletben foglalt 9–11. táblázat tartalmazza.
+(13) A 2. mellékletben foglalt táblázat B:2 mezőjében megjelölt telkekre, az azokból telekalakítással kialakításra kerülő
+telkekre meghatározott egyedi településképi követelmények a következők:
+ 1. zártsorú vagy hézagosan zártsorú beépítési módú telek esetén a telekhatárhoz csatlakozó épület mélysége
+az építési helyen belül nem korlátozott;
+ 2. az építményt úgy kell kialakítani, hogy ne keletkezzen a lakások rendeltetésszerű használatát zavaró
+új fényhatás;
+ 3. előtető és védőtető csak a homlokzat architektúrájához és anyaghasználatához illeszkedően létesíthető;
+ 4. lakó jellegű rendeltetés önálló rendeltetési egysége alapterületének meg kell haladnia a 25 m2-t, és szobái
+közül legalább egynek a legkisebb alaprajzi mérete 3 méter;
+ 5. szállás jellegű rendeltetés önálló rendeltetési egysége alapterületének meg kell haladnia a 15 m2-t,
+a legkisebb alaprajzi mérete 3 méter;
+
+ 6. 15 m2-t meghaladó, nem nyitható, nagyméretű üvegfelületek kialakítása esetén a védett madárfajok
+megóvása érdekében speciális üveget kell használni, mely
+a) a madarak számára látható módon veri vissza az UV-fényt,
+b) az üvegfelületekre speciális, matt felületet képező fóliát vagy mintás fóliát kell felhelyezni, vagy
+c) az üvegfelületek elé külső árnyékolószerkezetet kell tenni;
+ 7. új épületben földszinti kereskedelmi vagy szolgáltató rendeltetés közterület felé néző homlokzati felületének
+legalább 30%-át üvegfelülettel kell kialakítani;
+ 8. épületen korlát, rácsozat vagy betörésvédelmet szolgáló berendezés a homlokzat architektúrájához
+és anyaghasználatához illeszkedően egységes kialakítással, a homlokzat részeként, azzal összhangban
+helyezhető el;
+ 9. gépészeti, hírközlési, elektromos és egyéb funkciójú cső, kábel, valamint vezeték – villámhárító és esővíz
+levezető csatorna kivételével – nem vezethető szabadon szerelve az épület homlokzatán;
+10. közterületi telekhatáron újonnan létesített, az épület architektúrájához és anyaghasználatához illeszkedően
+a kerítés magassága legfeljebb 2,5 méter, lábazatának magassága és pilléreinek szélessége egyedileg
+méretezve létesíthető;
+11. közterületi telekhatáron kerítés létesíthető áttört kialakítással úgy, hogy a kerítés áttörtségének mértéke
+legalább 30% átlagérték a Beruházás teljes közterületi határvonalán, azzal, hogy az áttörtség mértékét
+a kerítés tényleges magassága alapján az áttört felületeknek a kerítés teljes felületéhez viszonyított arányából
+kell megállapítani, mely számítás során figyelmen kívül kell hagyni a kerítéspillér, kerítéslábazat és a tömör
+kerítésszakasz felületét;
+12. a kerítéssel egybeépített hulladéktartály tároló magassága legfeljebb 3 méter;
+13. a kerítéssel egybeépített hulladéktartály tárolóval határos tömör kerítésszakasz utcafronti szélessége
+legfeljebb 4,5 méter;
+14. a telkek oldal- és hátsókertjében, közvetlenül a telekhatáron kerítést nem kell létesíteni;
+15. nyitottan megépített gépkocsilehajtót nem kell növénnyel takart pergolával vagy zöldtetővel lefedni, nyitott
+rámpát határoló támfalat nem kell növényzettel befuttatva kialakítani;
+16. vendéglátó terasz építési helyen belül létesíthető, azzal, hogy annak nem feltétele az adott terület
+közhasználat céljára történő megnyitása, és
+a) a terasz padozataként podeszt, dobogó építhető,
+b) a terasz árnyékolóval lefedhető,
+c) a telekre előírt zöldfelület biztosítása esetén zöldfelületet azzal összefüggésben nem kell külön
+kialakítani;
+17. cégfelirat a falfelületre festetten vagy azon elhelyezve létesíthető;
+18. cégtábla az egységet magában foglaló épületen vagy az azzal érintett telken elhelyezhető;
+19. a Beruházás területén a hirdetési célú berendezések közül totemoszlop, közművelődési célú hirdetőoszlop,
+név- és címtábla, valamint zászlótartóoszlop helyezhető el;
+20. épület homlokzatán cégér és cégtábla önállóan vagy együttesen, az épület homlokzati síkjára merőlegesen
+vagy azzal párhuzamosan is kialakítható;
+21. cégér közterületi telekhatáron lévő homlokzatra merőleges felülete nem haladhatja meg a 0,8 m2-t,
+vastagsága legfeljebb 30 cm lehet, egyéb esetekben a mérete nem korlátozott;
+22. építési reklámháló, molinó elhelyezhető az ingatlanokon az építési tevékenység időtartama alatt az épület
+homlokzatain az épület falához vagy állványzatra rögzítve;
+23. az építési reklámhálón, molinón elhelyezett reklámfelület mérete homlokzatonként legfeljebb 100 m2.
+(14) A 2. mellékletben foglalt táblázat B:2 mezőjében megjelölt telkekre, az azokból telekalakítással kialakításra kerülő
+telkekre a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti,
+a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett a fás szárú növények védelméről szóló
+346/2008. (XII. 30.) Korm. rendeletet azzal az eltéréssel kell alkalmazni, hogy
+a) a 2. melléklet B:2 mezőjében megjelölt telkeken, illetve az azokból telekalakítással kialakításra kerülő
+telkeken lévő fás szárú növények kivágása esetén azok pótlásáról a telkek adottságainak mértékéig az egyes
+telkeken belül kialakításra kerülő zöldfelületeken, legkésőbb az utolsó ütemben megvalósuló épület
+használatbavételi engedélyének véglegessé válásáig kell gondoskodni,
+b) amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem, vagy csak részben teljesíthető,
+a pótlást a Budapest Főváros Kormányhivatala által kijelölt, Budapest ugyanazon kerületében elhelyezkedő
+másik ingatlanon kell teljesíteni.
+
+6. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+7. §
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+8. §
+Hatályát veszti az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási
+hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes
+nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról
+szóló 141/2018. (VII. 27.) Korm. rendelet
+a) 3. § (4) bekezdésében, valamint 4. § (1) és (2) bekezdésében a„32.,”szövegrész,
+b) 6/R. §-a,
+c) 28. §-ában a„ , valamint 2. mellékletben foglalt táblázat 32. sorát”szövegrész,
+d) 65. §-a,
+e) 72. §-ában a „6/R. § (1), (2) és (11) bekezdését,”, valamint az „és 5. mellékletben foglalt 9–11. táblázatát”
+szövegrész,
+f) 2. mellékletében foglalt táblázat 32. sora, valamint
+g) 5. melléklete.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 314/2022. (VIII. 11.) Korm. rendelethez
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé
+nyilvánított közigazgatási hatósági ügyek
+ 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+ 2. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+ 3. környezetvédelmi hatósági eljárások,
+ 4. természetvédelmi hatósági eljárások,
+ 5. útügyi hatósági eljárások,
+ 6. vasúti és szalagpálya hatósági engedélyezési eljárás,
+ 7. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+ 8. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+ 9. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági
+engedélyezési eljárások,
+10. villamosenergia-ipari tevékenységek végzéséhez szükséges hatósági engedélyezési eljárások,
+11. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+12. telekalakításra irányuló hatósági eljárások,
+13. területrendezési hatósági eljárások,
+14. földmérési hatósági eljárások,
+15. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+16. hírközlési hatósági eljárások,
+17. bányahatósági engedélyezési eljárások,
+18. tűzvédelmi hatósági eljárások,
+19. élelmiszerlánc-felügyeleti eljárás,
+20. közegészségügyi hatósági eljárások,
+21. erdészeti hatósági eljárások,
+22. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági
+engedélyezési eljárások,
+23. földvédelmi hatósági eljárások,
+
+24. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi
+engedélyezési eljárások,
+25. azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás
+megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+2. melléklet a 314/2022. (VIII. 11.) Korm. rendelethez
+A Beruházás megvalósításának helyszíne, valamint a Beruházással összefüggő kiemelt jelentőségű
+ügyekben koordinációs feladatokat ellátó főispán
+A B C
+1. A Beruházás megnevezése A Beruházás megvalósításának helyszíne Koordinációra kijelölt főispán
+2.
+Komplex
+ingatlanfejlesztésre,
+illetve az ahhoz
+kapcsolódó
+építmények,
+infrastrukturális
+fejlesztések
+megvalósítására
+irányuló beruházás
+Budapest
+XIV. kerületében
+Budapest közigazgatási területén elhelyezkedő,
+természetben a Budapest XIV. kerület, Csömöri út 13–19.,
+Bosnyák utca 48–56., Bosnyák utca 54–56.,
+Rákospatak utca 12–28., a Budapest XIV. kerület,
+belterület 31267/132, 31267/133, 31267/134 és
+31267/135 helyrajzi számokon nyilvántartott földrészletek
+Budapest Főváros
+Kormányhivatalát vezető
+főispán
+3. melléklet a 314/2022. (VIII. 11.) Korm. rendelethez
+A Budapest XIV. kerület, belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú
+telkek, valamint az azokból telekalakítás során kialakításra kerülő telkek területén ingatlanrészek
+területi lehatárolása a területek határpontjainak Egységes Országos Vetületi Rendszerben megadott
+koordinátáival
+1.
+A B
+1. Y X
+2. 655217.38 241833.97
+3. 655211.7 241840.64
+4. 655198.12 241848.98
+5. 655164.4 241878.51
+6. 655222.06 241944.32
+7. 655269.87 241876.15
+8. 655267.574 241874.367
+9. 655229.69 241845.05
+
+2.
+A B
+1. Y X
+2. 655164.4 241878.51
+3. 655143.6 241896.73
+4. 655136.62 241888.76
+5. 655078.35 241934.77
+6. 655082.83 241939.88
+7. 655130.687 241994.393
+8. 655149.27 242015.56
+9. 655150.98 242017.47
+10. 655206.04 241969.26
+11. 655213.97 241978.3
+12. 655231.27 241963.08
+13. 655235.35 241959.5
+14. 655222.06 241944.32
+3.
+A B
+1. Y X
+2. 655213.97 241978.3
+3. 655231.27 241963.08
+4. 655164.21 242021.83
+5. 655195.572 242057.598
+6. 655215.16 242079.94
+7. 655242.13 242056.31
+8. 655236.8 242050.22
+9. 655276.88 242015.15
+10. 655275.15 242013.17
+4.
+A B
+1. Y X
+2. 655231.27 241963.08
+3. 655235.35 241959.5
+4. 655222.06 241944.32
+5. 655269.87 241876.15
+6. 655275.15 242013.17
+7. 655336.453 241925.764
+8. 655320.69 241915.08
+9. 655318.521 241913.469
+10. 655317.46 241912.68
+11. 655307.52 241905.28
+
+5.
+A B
+1. Y X
+2. 655276.88 242015.15
+3. 655275.15 242013.17
+4. 655336.453 241925.764
+5. 655324.75 242069.79
+6. 655331.83 242060.33
+7. 655340.04 242066.03
+8. 655385.968 242001.552
+9. 655407.011 241973.468
+10. 655398.37 241967.73
+11. 655367.204 241946.606
+6.
+A B
+1. Y X
+2. 655215.16 242079.94
+3. 655242.13 242056.31
+4. 655236.8 242050.22
+5. 655276.88 242015.15
+6. 655258.268 242129.102
+7. 655261.54 242132.83
+8. 655306.9 242092.92
+9. 655312.32 242086.41
+10. 655324.75 242069.79
+7.
+A B
+1. Y X
+2. 655269.45 242141.85
+3. 655272.746 242145.613
+4. 655320.74 242200.35
+5. 655392.74 242147.41
+6. 655331.48 242077.48
+7. 655320.53 242092.11
+8. 655322.96 242094.89
+8.
+A B
+1. Y X
+2. 655340.04 242066.03
+3. 655385.968 242001.552
+4. 655392.74 242147.41
+5. 655331.48 242077.48
+6. 655460.178 242097.821
+7. 655406.34 242027.98
+8. 655393.129 242010.841
+
+9.
+A B
+1. Y X
+2. 655150.98 242017.47
+3. 655206.04 241969.26
+4. 655213.97 241978.3
+5. 655156.91 242024.1
+6. 655162.15 242019.48
+7. 655164.21 242021.83
+10.
+A B
+1. Y X
+2. 655261.54 242132.83
+3. 655306.9 242092.92
+4. 655312.32 242086.41
+5. 655324.75 242069.79
+6. 655331.83 242060.33
+7. 655340.04 242066.03
+8. 655269.45 242141.85
+9. 655331.48 242077.48
+10. 655320.53 242092.11
+11. 655322.96 242094.89
+11.
+A B
+1. Y X
+2. 655076.37 241932.51
+3. 655141.787 241880.807
+4. 655189.99 241842.71
+5. 655187.81 241840.75
+6. 655206.56 241824.22
+7. 655217.38 241833.97
+8. 655211.7 241840.64
+9. 655198.12 241848.98
+10. 655164.4 241878.51
+11. 655143.6 241896.73
+12. 655136.62 241888.76
+13. 655078.35 241934.77
+
+V. A Kormány tagjainak rendeletei
