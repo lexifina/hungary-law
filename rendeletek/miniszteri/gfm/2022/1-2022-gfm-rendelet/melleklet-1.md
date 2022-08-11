@@ -18,6 +18,8 @@ I. Tulajdonosi joggyakorló: a gazdaságfejlesztési miniszter
 
 | 4. | START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-045508 | 2026. december 31. |
 
+| 5. | Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság | 01-10-042085 | 2026. december 31. |
+
 II. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 |  | A | B | C |
@@ -289,4 +291,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 [^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) bekezdése és 2. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a szerint módosított szöveg.
