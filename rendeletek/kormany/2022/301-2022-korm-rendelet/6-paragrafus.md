@@ -1,3 +1,3 @@
-## 5. § Hatályát veszti az „ELI”
+## 1–5. §[^2]
 
-## Science Park Szeged projekt megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 235/2018. (XII. 6.) Korm. rendelet.
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
