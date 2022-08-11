@@ -2,7 +2,7 @@
 
 21. § (1) Az Eximbank esetében az 575/2013/EU rendelet 392. cikkében foglaltaktól eltérően nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni kitettség, ha annak értéke eléri vagy meghaladja az Eximbank szavatoló tőkéjének huszonöt százalékát.
 
-(2) Az 575/2013/EU rendelet 395. cikk (1) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát. A hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség értékének összege nem haladhatja meg az Eximbank szavatoló tőkéjének kétszáz százalékát.
+(2) Az 575/2013/EU rendelet 395. cikk (1) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének hatvan százalékát. A hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség értékének összege nem haladhatja meg az Eximbank szavatoló tőkéjének kétszáz százalékát.
 
 (3) Az (1)–(2) bekezdésben foglalt rendelkezéseket nem kell alkalmazni – az 575/2013/EU rendelet 400. cikk (1) bekezdésében meghatározottakon túlmenően –
 
