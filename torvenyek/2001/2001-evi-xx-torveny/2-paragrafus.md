@@ -26,7 +26,7 @@ szükséges hitelek refinanszírozásában;
 
 g) a Kormány határozata alapján az elemi kárt szenvedett térségben a gazdálkodó szervezetek, önkormányzatok és természetes személyek részére a kár következményeinek felszámolását szolgáló beruházások finanszírozásához szükséges hitel, illetve kölcsön formájában történő biztosításában;
 
-h) európai uniós források közvetítésében és ezen feladatához kapcsolódó hitel- és tőkefinanszírozásban, garancia nyújtásában és kezesség vállalásában;
+h) európai uniós források közvetítésében és ezen feladatához kapcsolódó hitel- és tőkefinanszírozásban, garancia nyújtásában és kezesség vállalásában, vissza nem térítendő támogatás nyújtásában;
 
 i) a Kormány határozata alapján a Magyar Vállalkozásfejlesztési Alapítvány, valamint a megyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységéhez szükséges hitelek, illetve kölcsönök finanszírozásában;
 
@@ -46,4 +46,4 @@ o) szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszorsz
 
 p) kormányrendeletben meghatározott kiemelt nemzeti emlékhely és településkép-védelmi környezet megóvását, kialakítását, az épített és a természeti környezet egységes védelmét szolgáló – ingatlanok fenntartásához, helyreállításához, felújításához vagy átalakításához kapcsolódó – beruházások finanszírozásához szükséges hitel, illetve kölcsön formájában történő biztosításában,
 
-q) az 1046/2018/EU, EURATOM európai és parlamenti és tanácsi rendelet 62. cikk (1) bekezdés a) vagy c) pontjában meghatározott módon végrehajtott, európai uniós forrásból származó vissza nem térítendő támogatás nyújtásában.
+q)
