@@ -8,6 +8,6 @@
 
 (4) A kifizetés engedélyezését elutasító és a kifizetést részben engedélyező végzés ellen önálló fellebbezésnek van helye. A kifizetést részben engedélyező végzés az ellene benyújtott fellebbezésre tekintet nélkül végrehajtható.
 
-(5) Az állami adó- és vámhatóság a kifizetést részben vagy teljes egészében engedélyező végzést a kifizetés teljesítése érdekében megküldi az adózó zárolt fizetési számláját vezető pénzforgalmi szolgáltatónak.
+(5) Az állami adó- és vámhatóság a kifizetés engedélyezése esetén haladéktalanul megkeresi az adózó zárolt fizetési számláját vezető pénzforgalmi szolgáltatót a kifizetés teljesítése végett.
 
 (6) Az állami adó- és vámhatóság által engedélyezett kifizetés más követelés fedezetére nem számolható el, továbbá az végrehajtás alól mentes.
