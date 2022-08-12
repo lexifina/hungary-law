@@ -83,7 +83,3 @@ A szanálhatóság értékelése során a szanálási feladatkörében eljáró 
 10. az intézmény mennyire tesztelte a vezetői információs rendszereit a szanálási hatóság által meghatározott stressz forgatókönyvek alapján;
 
 11. az intézmény mennyire tudja biztosítani a vezetői információs rendszereinek folytonosságát az érintett intézmény és az új intézmény számára egyaránt, ha a kritikus működési folyamatokat és a fő üzletágakat elkülönítik a többi működési folyamattól és üzletágtól;
-
-12. milyen mértékben hozott létre az intézmény megfelelő eljárásokat annak biztosítására, hogy megadja a szanálási hatóságoknak a betétesek és a betétbiztosítási rendszerek, valamint a befektetők és befektető-védelmi rendszerek által biztosított összegek azonosításához szükséges információkat;
-
-13. ha a csoport csoporton belüli garanciákat használ, milyen mértékben nyújtják ezeket a garanciákat piaci feltételek mellett, és hogy mennyire stabilak az e garanciákhoz kapcsolódó kockázatkezelési rendszerek;
