@@ -1,0 +1,5 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerinti, az 1. mellékletben meghatározott helyrajzi számú ingatlanokon, vagy az azokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokon a Corvinus projekt keretében megvalósított földgáztermelő kutak fúrására, mezőbeni szénhidrogén vezetékek és a vezetékekhez kapcsolódó felszíni létesítmények, gázelőkészítő üzem, Földgázszállító Zártkörűen Működő Részvénytársaság távvezetéki rendszer betáplálási pontok, valamint vasúti vagontöltő fejlesztésére irányuló beruházással (a továbbiakban: Beruházás) összefüggő, a 2. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének megkezdéséhez szükségesek.
+
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást, amelynek helyszíne az 1. mellékletben meghatározott ingatlanok területe.
