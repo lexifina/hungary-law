@@ -14,7 +14,7 @@ ac)[^33] szakmai továbbképzésen való eredményes részvétel; valamint
 
 b) az e rendeletben meghatározott szakmai gyakorlat teljesítése.
 
-(3)[^34] A fővárosi és a megyei kormányhivatal kormánymegbízottjára, főigazgatójára és igazgatójára nem vonatkoznak a 4. § (2) és (4) bekezdésében, valamint az 5–7. §-ban meghatározott foglalkoztatási feltételek.
+(3)[^34] A fővárosi és a megyei kormányhivatal főispánjára, főigazgatójára és igazgatójára nem vonatkoznak a 4. § (2) és (4) bekezdésében, valamint az 5–7. §-ban meghatározott foglalkoztatási feltételek.
 
 (4)[^35] Az építésügyi és építésfelügyeleti hatósági kormánytisztviselő kizárólag építésügyi és építésfelügyeleti hatósági ügyekkel kapcsolatos feladatkört láthat el.
 
@@ -50,7 +50,7 @@ b) szakirányú továbbképzés körében kibocsátott szakirányú szakképzett
 [^31]: A 4. § (2) bekezdésének aa) pontja e rendelet 9. § (2) bekezdése alapján 2007. július 1-jén lépett hatályba.
 [^32]: A 4. § (2) bekezdés a) pont ab) alpontja a 482/2016. (XII. 28.) Korm. rendelet 4. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 45. § (12) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^33]: A 4. § (2) bekezdésének ac) pontja e rendelet 9. § (3) bekezdése alapján 2008. január 1-jén lépett hatályba.
-[^34]: A 4. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 37. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 45. § (13) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^34]: A 4. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 37. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 45. § (13) bekezdés b) pontja, a 309/2022. (VIII. 11.) Korm. rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
 [^35]: A 4. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 45. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^36]: A 4. § (4a) bekezdését a 67/2013. (III. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 45. § (13) bekezdés c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^37]: A 4. § (4b) bekezdését a 67/2013. (III. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 45. § (13) bekezdés c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
