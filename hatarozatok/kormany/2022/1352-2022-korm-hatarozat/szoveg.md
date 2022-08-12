@@ -408,6 +408,8 @@ g) az igazoló hatóság vezetője,
 
 h) a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság vezérigazgatója.
 
+i)[^1] a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság vezérigazgatója vagy az általa delegált személy.
+
 (2) Az FKB tagját az FKB tagja által kijelölt vezető jogállású – döntéshozatalra és állásfoglalásra feljogosított – személy helyettesítheti.
 
 (3) A helyettesítés további szabályait az FKB ügyrendje állapítja meg.
@@ -1328,6 +1330,7 @@ VI. ZÁRÓ RENDELKEZÉSEK
 
 136. Ez a határozat a közzétételét követő napon lép hatályba.
 
-137.[^1]
+137.[^2]
 
-[^1]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 51. pont (1) bekezdés i) pontját az 1390/2022. (VIII. 11.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
