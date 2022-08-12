@@ -44,6 +44,8 @@ II. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 | 9. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
 
+| 10. | Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-141987 | 2026. december 31. |
+
 III. Tulajdonosi joggyakorló: a Miniszterelnökség
 
 |  | A | B | C |
@@ -291,4 +293,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 [^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a szerint módosított szöveg.
