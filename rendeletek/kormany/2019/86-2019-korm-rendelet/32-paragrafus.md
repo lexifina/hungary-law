@@ -1,6 +1,6 @@
-## 22. A kormánymegbízott feladatai
+## 22.[^46] A főispán feladatai
 
-## 32. § A kormánymegbízott
+## 32. §[^47] A főispán
 
 a) vezeti a fővárosi és megyei kormányhivatalt, gyakorolja annak feladat- és hatásköreit, ellátja a költségvetési szerv vezetőjének hatáskörébe utalt feladatokat,
 
@@ -10,6 +10,8 @@ c) elkészíti és a miniszter részére megküldi a fővárosi és megyei korm�
 
 d) gondoskodik a jogszabályban előírt belső szabályzatok elkészítéséről,
 
-e)[^40]
+e)[^48]
 
-[^40]: A 32. § e) pontját a 30/2020. (II. 29.) Korm. rendelet 35. §-a hatályon kívül helyezte.
+[^46]: A 22. alcím címe a 309/2022. (VIII. 11.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^47]: A 32. § nyitó szövegrésze a 309/2022. (VIII. 11.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^48]: A 32. § e) pontját a 30/2020. (II. 29.) Korm. rendelet 35. §-a hatályon kívül helyezte.

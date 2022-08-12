@@ -2,19 +2,19 @@
 
 A kormányablak saját hatáskörében intézhető ügyek
 
-1.[^79]
+1.[^101]
 
-2.[^80]
+2.[^102]
 
-3.[^81]
+3.[^103]
 
-4.[^82]
+4.[^104]
 
-5.[^83]
+5.[^105]
 
-6.[^84]
+6.[^106]
 
-7.[^85]
+7.[^107]
 
 8. Állandó személyazonosító igazolvány kiadása iránti kérelem
 
@@ -68,9 +68,9 @@ A kormányablak saját hatáskörében intézhető ügyek
 
 33. Hajós szolgálati útlevél kiadása, cseréje iránti kérelem soron kívüli eljárásban
 
-34.[^86]
+34.[^108]
 
-35.[^87]
+35.[^109]
 
 36. Külföldön élő magyar állampolgár nyilvántartásba vétele
 
@@ -80,15 +80,15 @@ A kormányablak saját hatáskörében intézhető ügyek
 
 39. Közúti közlekedési okmánytárból adatszolgáltatás iránti kérelem
 
-40.[^88] Védettségi igazolvány cseréje, pótlása iránti kérelem benyújtása, védettségi igazolvány kiállításával kapcsolatos panaszok kezelése
+40.[^110] Védettségi igazolvány cseréje, pótlása iránti kérelem benyújtása, védettségi igazolvány kiállításával kapcsolatos panaszok kezelése
 
-[^79]: A 6. melléklet 1. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^80]: A 6. melléklet 2. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^81]: A 6. melléklet 3. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^82]: A 6. melléklet 4. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^83]: A 6. melléklet 5. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^84]: A 6. melléklet 6. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^85]: A 6. melléklet 7. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^86]: A 6. melléklet 34. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^87]: A 6. melléklet 35. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^88]: A 6. melléklet 40. pontját a 188/2022. (V. 26.) Korm. rendelet 11. §-a iktatta be, alkalmazására lásd e módosító rendelet 10. § (1) bekezdését.
+[^101]: A 6. melléklet 1. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^102]: A 6. melléklet 2. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^103]: A 6. melléklet 3. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^104]: A 6. melléklet 4. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^105]: A 6. melléklet 5. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^106]: A 6. melléklet 6. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^107]: A 6. melléklet 7. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^108]: A 6. melléklet 34. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^109]: A 6. melléklet 35. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^110]: A 6. melléklet 40. pontját a 188/2022. (V. 26.) Korm. rendelet 11. §-a iktatta be, alkalmazására lásd e módosító rendelet 10. § (1) bekezdését.

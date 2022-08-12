@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-86-20-2
 | 2022-03-31 | 2019-86-20-22.22 | 119/2022. (III. 23.) Korm. rendelet |
 | 2022-06-01 | 2019-86-20-22.23 | 189/2022. (V. 26.) Korm. rendelet |
 | 2022-07-05 | 2019-86-20-22.24 | 499/2021. (VIII. 18.) Korm. rendelet |
+| 2022-08-12 | 2019-86-20-22.25 | 309/2022. (VIII. 11.) Korm. rendelet |

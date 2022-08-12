@@ -1,4 +1,4 @@
-6. §[^13] (1) A szakmai irányító miniszter a Kit. 40. § (2) bekezdése szerinti közreműködési jogosultságának gyakorlása során együttműködik a miniszterrel.
+6. §[^16] (1) A szakmai irányító miniszter a Kit. 40. § (2) bekezdése szerinti közreműködési jogosultságának gyakorlása során együttműködik a miniszterrel.
 
 (2) A szakmai irányító miniszter a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben meghatározott ügyekért való felelőssége keretében írásban tájékoztatja a minisztert
 
@@ -10,7 +10,7 @@ c) a 29.§ (1) bekezdés szerinti országos hatósági tervről és a végrehajt
 
 d) a fővárosi és megyei kormányhivatalok által használt informatikai rendszerek üzemeltetését és fejlesztését érintő változásokról.
 
-(3) A szakmai irányító miniszter módszertani támogatást biztosít a fővárosi és megyei kormányhivatalok számára, amelyet a miniszter egyidejű tájékoztatása mellett küld meg a kormánymegbízottnak.
+(3)[^17] A szakmai irányító miniszter módszertani támogatást biztosít a fővárosi és megyei kormányhivatalok számára, amelyet a miniszter egyidejű tájékoztatása mellett küld meg a főispánnak.
 
 (4) A szakmai irányító miniszter előzetesen tájékoztatja a minisztert, ha a (3) bekezdés szerinti módszertani támogatás, vagy a fővárosi és megyei kormányhivataloktól történő adatkérés az 1. § (4) bekezdés szerinti funkcionális feladatokkal összefügg.
 
@@ -18,4 +18,5 @@ d) a fővárosi és megyei kormányhivatalok által használt informatikai rends
 
 (6) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a szakmai irányító miniszter jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott jogkörök gyakorlására, ha a döntés a fővárosi és megyei kormányhivatal hatáskörébe tartozik.
 
-[^13]: A 6. § a 668/2020. (XII. 28.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
+[^16]: A 6. § a 668/2020. (XII. 28.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
+[^17]: A 6. § (3) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.

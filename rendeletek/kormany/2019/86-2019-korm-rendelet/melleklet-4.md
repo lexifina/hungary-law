@@ -1,16 +1,16 @@
 4. melléklet a 86/2019. (IV. 23.) Korm. rendelethez
 
-A fővárosi és megyei kormányhivatal, illetve a járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrzési hatáskörébe tartozó jogszabálysértések[^68]
+A fővárosi és megyei kormányhivatal, illetve a járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrzési hatáskörébe tartozó jogszabálysértések[^90]
 
-1.[^69]
+1.[^91]
 
 2. A fogyasztóvédelem területén:
 
 2.1. a fogyasztóknak megvételre kínált termék eladási áráról és egységáráról, illetve a szolgáltatás díjáról szóló tájékoztatás hiánya,
 
-2.2.[^70]
+2.2.[^92]
 
-2.3.[^71]
+2.3.[^93]
 
 2.4. magyar nyelven kiadott sajtótermékben, magyar nyelvű rádió-, illetve televízió-műsorban, továbbá szabadtéri reklámhordozón közzétett gazdasági reklámban a reklám szövegének magyar nyelven történő megjelenítésének elmulasztása,
 
@@ -82,7 +82,7 @@ A fővárosi és megyei kormányhivatal, illetve a járási (fővárosi kerület
 
 6.3. a nemdohányzó intézményekben a feliratok, jelzések hiánya.
 
-[^68]: A 4. melléklet címe a 360/2019. (XII. 30.) Korm. rendelet 199. § (5) bekezdése szerint módosított szöveg.
-[^69]: A 4. melléklet 1. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^70]: A 4. melléklet 2. pont 2.2. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^71]: A 4. melléklet 2. pont 2.3. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^90]: A 4. melléklet címe a 360/2019. (XII. 30.) Korm. rendelet 199. § (5) bekezdése szerint módosított szöveg.
+[^91]: A 4. melléklet 1. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^92]: A 4. melléklet 2. pont 2.2. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^93]: A 4. melléklet 2. pont 2.3. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

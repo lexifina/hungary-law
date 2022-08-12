@@ -1,4 +1,4 @@
-## 66. §[^60] Az Egyetem rektora a különleges jogállású szervek által közszolgálati jogviszonyban foglalkoztatottak képzéséről, továbbképzéséről, valamint egyes továbbképzési tárgyú kormányrendeletek módosításáról szóló 499/2021. (VIII. 18.) Korm. rendelet hatálybalépését[^61] követően 2022. február 15-ig tesz javaslatot az ágazati irányításért felelős miniszternek a KTK tagjai felkérésére.
+## 66. §[^81] Az Egyetem rektora a különleges jogállású szervek által közszolgálati jogviszonyban foglalkoztatottak képzéséről, továbbképzéséről, valamint egyes továbbképzési tárgyú kormányrendeletek módosításáról szóló 499/2021. (VIII. 18.) Korm. rendelet hatálybalépését[^82] követően 2022. február 15-ig tesz javaslatot az ágazati irányításért felelős miniszternek a KTK tagjai felkérésére.
 
 1. melléklet a 86/2019. (IV. 23.) Korm. rendelethez
 
@@ -1902,7 +1902,7 @@ Tiszatardos
 
 Tokaj
 
-5.[^62] Csongrád-Csanád megye
+5.[^83] Csongrád-Csanád megye
 
 5.1. Csongrádi Járási Hivatal
 
@@ -3010,7 +3010,7 @@ Tófalu
 
 Újlőrincfalva
 
-9.4.[^63] Gyöngyösi Járási Hivatal
+9.4.[^84] Gyöngyösi Járási Hivatal
 
 Székhely: Gyöngyös
 
@@ -3062,7 +3062,7 @@ Visonta
 
 Visznek
 
-9.5.[^64] Hatvani Járási Hivatal
+9.5.[^85] Hatvani Járási Hivatal
 
 Székhely: Hatvan
 
@@ -7046,8 +7046,8 @@ Zalaszentlászló
 
 Zalavég
 
-[^60]: A 66. §-t a 499/2021. (VIII. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^61]: A hatálybalépés időpontja 2022. január 1.
-[^62]: Az 1. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendeet 51. § a) pontja szerint módosított szöveg.
-[^63]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^64]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^81]: A 66. §-t a 499/2021. (VIII. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^82]: A hatálybalépés időpontja 2022. január 1.
+[^83]: Az 1. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendeet 51. § a) pontja szerint módosított szöveg.
+[^84]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^85]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.

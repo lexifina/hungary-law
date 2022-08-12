@@ -10,6 +10,6 @@
 
 (5) Kormányrendelet a járási hivatal illetékességi területét egyes államigazgatási feladatok tekintetében az 1. mellékletben meghatározott illetékességtől eltérően is megállapíthatja.
 
-(6)[^7]
+(6)[^8]
 
-[^7]: A 2. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^8]: A 2. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

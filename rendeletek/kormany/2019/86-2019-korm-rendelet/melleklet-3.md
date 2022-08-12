@@ -18,7 +18,7 @@ d) Pénzügyi ellenőrzés: a pénzügyi elszámolások, valamint az ezek alapj�
 
 a) Átfogó ellenőrzés: a vizsgált szervek feladat- és hatáskörébe tartozó, meghatározott időszakra vonatkozó törvényességi, szakszerűségi, hatékonysági és pénzügyi ellenőrzése;
 
-b)[^67]
+b)[^88]
 
 c) Témaellenőrzés: meghatározott téma, adott feladat ellátásának vizsgálata egy időszakban több szervnél abból a célból, hogy a megállapítások eredményeként általánosítható következtetéseket lehessen levonni, és ennek megfelelő intézkedéseket lehessen tenni;
 
@@ -214,7 +214,7 @@ c) akitől az ellenőrzés tárgyilagos lefolytatása egyéb okból nem várhat�
 
 6.3. Az ellenőr a vele szemben fennálló kizárási okot köteles haladéktalanul bejelenteni az ellenőrzés vezetőjénél.
 
-6.4. Az ellenőrzött fővárosi és megyei kormányhivatal kormánymegbízottja, főigazgatója jogosult a kizárási okot bejelenteni az ellenőrzés vezetőjénél.
+6.4.[^89] Az ellenőrzött fővárosi és megyei kormányhivatal főispánja, főigazgatója jogosult a kizárási okot bejelenteni az ellenőrzés vezetőjénél.
 
 6.5. Az ellenőrzés vezetőjének kizárásáról a miniszter rendelkezik. Az ellenőrzés vezetőjének kizárása esetén a miniszter új ellenőrzési vezetőt jelöl ki.
 
@@ -362,4 +362,5 @@ b) biztosítani az ellenőrzést végző szerv munkatársainak helyszíni munkaf
 
 13.2. Az ellenőrzött szerv vezetője felel az ellenőrzött szervnél a megállapítások és javaslatok alapján – szükség esetén – végrehajtandó intézkedések megvalósulásáért.
 
-[^67]: A 3. melléklet 1.2. pont b) alpontját a 668/2020. (XII. 28.) Korm. rendelet 51. § (11) bekezdés d) pontja hatályon kívül helyezte.
+[^88]: A 3. melléklet 1.2. pont b) alpontját a 668/2020. (XII. 28.) Korm. rendelet 51. § (11) bekezdés d) pontja hatályon kívül helyezte.
+[^89]: A 3. melléklet 6. pont 6.4. alpontja a 309/2022. (VIII. 11.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.

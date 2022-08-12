@@ -1,4 +1,4 @@
-12. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^107]
+12. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^129]
 
 A kormányablakban aláírópad, valamint kormányhivatali aláírás-nyilvántartásban található aláírásminta útján intézendő ügytípusok
 
@@ -66,13 +66,13 @@ A kormányablakban aláírópad, valamint kormányhivatali aláírás-nyilvánta
 
 32. Álláskeresési járadék megállapítása iránti kérelem
 
-33.[^108] Adatváltozás-kezelési szolgáltatásra regisztráció, a regisztráció módosítása
+33.[^130] Adatváltozás-kezelési szolgáltatásra regisztráció, a regisztráció módosítása
 
-34.[^109] Adatváltozás-kezelési szolgáltatás igénybevétele
+34.[^131] Adatváltozás-kezelési szolgáltatás igénybevétele
 
-35.[^110] Adatváltozás-kezelési szolgáltatás törlése
+35.[^132] Adatváltozás-kezelési szolgáltatás törlése
 
-[^107]: A 12. mellékletet az 512/2021. (IX. 3.) Korm. rendelet 4. §-a iktatta be.
-[^108]: A 12. melléklet 33. pontját az 672/2021. (XII. 2.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^109]: A 12. melléklet 34. pontját az 672/2021. (XII. 2.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^110]: A 12. melléklet 35. pontját az 672/2021. (XII. 2.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^129]: A 12. mellékletet az 512/2021. (IX. 3.) Korm. rendelet 4. §-a iktatta be.
+[^130]: A 12. melléklet 33. pontját az 672/2021. (XII. 2.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^131]: A 12. melléklet 34. pontját az 672/2021. (XII. 2.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^132]: A 12. melléklet 35. pontját az 672/2021. (XII. 2.) Korm. rendelet 14. § (2) bekezdése iktatta be.

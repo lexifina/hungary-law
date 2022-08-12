@@ -1,6 +1,6 @@
-33. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, kormányrendeletben meghatározott közigazgatási hatósági ügy (a továbbiakban: kiemelt jelentőségű ügy) intézését a kormányrendeletben kijelölt kormánymegbízott figyelemmel kíséri.
+33. § (1)[^49] A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, kormányrendeletben meghatározott közigazgatási hatósági ügy (a továbbiakban: kiemelt jelentőségű ügy) intézését a kormányrendeletben kijelölt főispán figyelemmel kíséri.
 
-(2) A kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt kormánymegbízott
+(2)[^50] A kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt főispán
 
 a) kapcsolatot tart a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szervvel, valamint annak irányító, szakmai irányító és felügyeleti szervével;
 
@@ -24,29 +24,36 @@ j) a kormányzati szolgálati jogviszonyból eredő kötelezettségeknek a kieme
 
 k) további, a kiemelt jelentőségű ügyet megállapító kormányrendeletben meghatározott, a kiemelt jelentőségű ügy intézésével kapcsolatos feladatot láthat el.
 
-(3) A (2) bekezdés b), c), e)–h) és j) pontja szerinti megkereséssel érintett szerv a megkeresést érdemben megvizsgálja, és észrevételeiről, intézkedéséről vagy az intézkedés mellőzésének okáról a megkeresés kézhezvételétől számított nyolc napon belül írásban tájékoztatja a kormánymegbízottat.
+(3)[^51] A (2) bekezdés b), c), e)–h) és j) pontja szerinti megkereséssel érintett szerv a megkeresést érdemben megvizsgálja, és észrevételeiről, intézkedéséről vagy az intézkedés mellőzésének okáról a megkeresés kézhezvételétől számított nyolc napon belül írásban tájékoztatja a főispánt.
 
-(4) A kormányrendeletben kijelölt, a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv hetente tájékoztatja a kormányrendeletben kijelölt kormánymegbízottat a kiemelt jelentőségű ügy állásáról.
+(4)[^52] A kormányrendeletben kijelölt, a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv hetente tájékoztatja a kormányrendeletben kijelölt főispánt a kiemelt jelentőségű ügy állásáról.
 
-(5) A kormányrendeletben kijelölt, a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv a kormánymegbízott (2) bekezdés szerinti intézkedésére okot adó körülmény észlelése esetén haladéktalanul írásbeli jelzéssel él a kormányrendeletben kijelölt kormánymegbízott felé. A kormánymegbízott a jelzést nyolc napon belül kivizsgálja, és észrevételeiről, intézkedéséről vagy az intézkedés mellőzésének okáról írásban tájékoztatja a jelzéssel élő szervet.
+(5)[^53] A kormányrendeletben kijelölt, a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv a főispán (2) bekezdés szerinti intézkedésére okot adó körülmény észlelése esetén haladéktalanul írásbeli jelzéssel él a kormányrendeletben kijelölt főispán felé. A főispán a jelzést nyolc napon belül kivizsgálja, és észrevételeiről, intézkedéséről vagy az intézkedés mellőzésének okáról írásban tájékoztatja a jelzéssel élő szervet.
 
-(6) A kormányrendeletben kijelölt kormánymegbízott
+(6)[^54] A kormányrendeletben kijelölt főispán
 
-a)[^41] minden naptári negyedévet követő hónap 15. munkanapjáig tájékoztatja a miniszter útján a Kormány tagjait a kiemelt jelentőségű ügy intézéséről, valamint intézkedéseiről;
+a)[^55] minden naptári negyedévet követő hónap 15. munkanapjáig tájékoztatja a miniszter útján a Kormány tagjait a kiemelt jelentőségű ügy intézéséről, valamint intézkedéseiről;
 
 b) szükség esetén kezdeményezi a miniszter intézkedését;
 
 c) a Kormány döntését igénylő kérdésben előterjesztést készít a Kormány részére a miniszter útján; továbbá
 
-d)[^42] minden hónap 5. munkanapjáig tájékoztatja a minisztert a kiemelt jelentőségű ügy állásáról, valamint intézkedéseiről.
+d)[^56] minden hónap 5. munkanapjáig tájékoztatja a minisztert a kiemelt jelentőségű ügy állásáról, valamint intézkedéseiről.
 
-(7) A (2) bekezdésben meghatározott hatásköröket a kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt kormánymegbízott nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
+(7)[^57] A (2) bekezdésben meghatározott hatásköröket a kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt főispán nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
 
-(8)[^43] A nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított beruházás státuszáról, tényleges megvalósulásáról, az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítással kapcsolatos kormányrendeletekben megjelölt beruházó az üzleti titok sérelme nélkül a kormányrendeletben kijelölt kormánymegbízottat kérésre tájékoztatja. A beruházó kijelölt kapcsolattartó útján biztosítja a megfelelő tájékoztatást.
+(8)[^58] A nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított beruházás státuszáról, tényleges megvalósulásáról, az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítással kapcsolatos kormányrendeletekben megjelölt beruházó az üzleti titok sérelme nélkül a kormányrendeletben kijelölt főispánt kérésre tájékoztatja. A beruházó kijelölt kapcsolattartó útján biztosítja a megfelelő tájékoztatást.
 
-(9)[^44] A kapcsolattartót a beruházó a beruházásra vonatkozó nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítással kapcsolatos kormányrendelet hatálybalépésétől számított 15 napon belül jelöli ki, és a személyéről tájékoztatja a kormánymegbízottat.
+(9)[^59] A kapcsolattartót a beruházó a beruházásra vonatkozó nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítással kapcsolatos kormányrendelet hatálybalépésétől számított 15 napon belül jelöli ki, és a személyéről tájékoztatja a főispánt.
 
-[^41]: A 33. § (6) bekezdés a) pontja a 428/2020. (IX. 10.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^42]: A 33. § (6) bekezdés d) pontja a 428/2020. (IX. 10.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^43]: A 33. § (8) bekezdését a 428/2020. (IX. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^44]: A 33. § (9) bekezdését a 428/2020. (IX. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^49]: A 33. § (1) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^50]: A 33. § (2) bekezdés nyitó szövegrésze a 309/2022. (VIII. 11.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^51]: A 33. § (3) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^52]: A 33. § (4) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^53]: A 33. § (5) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^54]: A 33. § (6) bekezdés nyitó szövegrésze a 309/2022. (VIII. 11.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^55]: A 33. § (6) bekezdés a) pontja a 428/2020. (IX. 10.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^56]: A 33. § (6) bekezdés d) pontja a 428/2020. (IX. 10.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^57]: A 33. § (7) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^58]: A 33. § (8) bekezdését a 428/2020. (IX. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^59]: A 33. § (9) bekezdését a 428/2020. (IX. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.

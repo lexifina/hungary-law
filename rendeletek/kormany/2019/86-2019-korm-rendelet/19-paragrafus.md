@@ -10,6 +10,6 @@ b) felügyeli az Egyetem továbbképzés tervezésével összefüggő feladatain
 
 c) felügyeli – az Egyetem bevonásával – a kormányzati igazgatási szervek éves továbbképzési tervezését, valamint a tervek végrehajtását;
 
-d)[^32] a személyügyi központ vezetőjével közösen jóváhagyja a 18. § (3) bekezdésében meghatározott jelentést.
+d)[^37] a személyügyi központ vezetőjével közösen jóváhagyja a 18. § (3) bekezdésében meghatározott jelentést.
 
-[^32]: A 19. § (2) bekezdés d) pontja a 499/2021. (VIII. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 243/2022. (VII. 4.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^37]: A 19. § (2) bekezdés d) pontja a 499/2021. (VIII. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 243/2022. (VII. 4.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.

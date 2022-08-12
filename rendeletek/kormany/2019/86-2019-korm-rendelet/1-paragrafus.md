@@ -34,7 +34,7 @@ feladatok.
 
 (5) E rendelet alkalmazásában, a kormányhivatalok kormánytisztviselőinek és kormányzati ügykezelőinek továbbképzéséhez és előírható képzési és továbbképzési kötelezettségeihez kapcsolódóan
 
-1.[^1] belső továbbképzés: a kormányzati igazgatási szerv, felsőoktatási vagy felnőttképzési intézmény által folytatott szakmai továbbképzés, amely a megrendelő kormányzati igazgatási szerv számára speciális intézményi vagy álláshellyel összefüggő feladatokhoz szükséges ismereteket, illetve képességeket közvetít;
+1.[^2] belső továbbképzés: a kormányzati igazgatási szerv, felsőoktatási vagy felnőttképzési intézmény által folytatott szakmai továbbképzés, amely a megrendelő kormányzati igazgatási szerv számára speciális intézményi vagy álláshellyel összefüggő feladatokhoz szükséges ismereteket, illetve képességeket közvetít;
 
 2. egyéni továbbképzési terv: a kormányzati szolgálati jogviszonyban álló tárgyévre meghatározott továbbképzési kötelezettségeinek és egyéni fejlesztési igényeinek teljesítését biztosító képzési terv;
 
@@ -44,7 +44,7 @@ feladatok.
 
 5. minőségirányítási szabályzat: a továbbképzés minőségirányítási szempontból történő vezetésére és szabályozására szolgáló szabályzat, amely tartalmazza a kötelező továbbképzések tervezésének, fejlesztésének, szervezésének, végrehajtásának, minősítésének és ellenőrzésének eljárásait;
 
-6.[^2]
+6.[^3]
 
 7. tanulmányi pont: a kormánytisztviselő által teljesített továbbképzés mértékegysége;
 
@@ -58,19 +58,19 @@ feladatok.
 
 12. vezető: a Kit. 3. § (6) bekezdés a) és b) pontjában meghatározott személy;
 
-13.[^3]
+13.[^4]
 
-14.[^4]
+14.[^5]
 
-15.[^5]
+15.[^6]
 
 16. utazási költség: a kormányhivatalok kormánytisztviselői lakóhelye vagy tartózkodási helye, valamint az oktatási esemény helyszíne között – a képzésen, vizsgán történő részvétel céljából – helyközi (távolsági) utazással az oktatási eseményre utazás és hazautazás díja.
 
-(6)[^6] E rendelet alkalmazásában módszertani támogatás: a szakmai irányító miniszter által a fővárosi és megyei kormányhivatalok egységes joggyakorlásának és a feladatok végrehajtásának elősegítése érdekében kiadott szakmai iránymutatás, állásfoglalás, módszertani útmutató, ajánlás, továbbá egyéb szakmai anyag, valamint szakmai értekezlet és tájékoztató.
+(6)[^7] E rendelet alkalmazásában módszertani támogatás: a szakmai irányító miniszter által a fővárosi és megyei kormányhivatalok egységes joggyakorlásának és a feladatok végrehajtásának elősegítése érdekében kiadott szakmai iránymutatás, állásfoglalás, módszertani útmutató, ajánlás, továbbá egyéb szakmai anyag, valamint szakmai értekezlet és tájékoztató.
 
-[^1]: Az 1. § (5) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.
-[^2]: Az 1. § (5) bekezdés 6. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte. [A 243/2022. (VII. 4.) Korm. rendelet 15. §-ával elrendelt módosítás nem vezethető át.]
-[^3]: Az 1. § (5) bekezdés 13. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
-[^4]: Az 1. § (5) bekezdés 14. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
-[^5]: Az 1. § (5) bekezdés 15. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
-[^6]: Az 1. § (6) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 51. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (5) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § (5) bekezdés 6. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte. [A 243/2022. (VII. 4.) Korm. rendelet 15. §-ával elrendelt módosítás nem vezethető át.]
+[^4]: Az 1. § (5) bekezdés 13. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (5) bekezdés 14. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (5) bekezdés 15. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^7]: Az 1. § (6) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 51. § (1) bekezdése iktatta be.

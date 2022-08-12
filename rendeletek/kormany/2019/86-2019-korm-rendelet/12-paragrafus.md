@@ -16,11 +16,11 @@ b) a Kormány
 
 a) saját vagy más kormányzati igazgatási szerv, illetve a szervezetrendszert kiszolgáló belső képzőintézmény által nyilvántartásba vett belső továbbképzés lebonyolításával,
 
-b)[^24] képzési szolgáltatással
+b)[^29] képzési szolgáltatással
 
 biztosíthatók.
 
-(5)[^25] A területi kormányzati igazgatási szerv által szervezett belső továbbképzés a területi kormányzati igazgatási szerv közszolgálati szabályzatában meghatározott eljárásrend szerint jóváhagyott programokból állhat.
+(5)[^30] A területi kormányzati igazgatási szerv által szervezett belső továbbképzés a területi kormányzati igazgatási szerv közszolgálati szabályzatában meghatározott eljárásrend szerint jóváhagyott programokból állhat.
 
 (6) A belső továbbképzési programok jóváhagyására vonatkozó eljárásrendet a területi kormányzati igazgatási szerv dolgozza ki.
 
@@ -38,10 +38,10 @@ e) során teljesítendő óraszámot és a teljesítendő óraszám mennyiségé
 
 f) során alkalmazott számonkérés módját.
 
-(8)[^26] A jóváhagyási eljárásban részt vevő hivatali szervezeti egységeket a területi kormányzati igazgatási szerv közszolgálati szabályzata határozza meg.
+(8)[^31] A jóváhagyási eljárásban részt vevő hivatali szervezeti egységeket a területi kormányzati igazgatási szerv közszolgálati szabályzata határozza meg.
 
 (9) A területi kormányzati igazgatási szerv a belső továbbképzési programok megvalósításával összefüggő feladatai körében a belső továbbképzésekről nyilvántartást vezet.
 
-[^24]: A 12. § (4) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 2. pontja szerint módosított szöveg.
-[^25]: A 12. § (5) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 51. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^26]: A 12. § (8) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 51. § (10) bekezdés d) pontja szerint módosított szöveg.
+[^29]: A 12. § (4) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 2. pontja szerint módosított szöveg.
+[^30]: A 12. § (5) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 51. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^31]: A 12. § (8) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 51. § (10) bekezdés d) pontja szerint módosított szöveg.

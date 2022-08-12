@@ -12,17 +12,17 @@ A kormányablakban azonnal intézhető ügyek
 
 5. A törvényes képviselő arra irányuló kérelme, hogy a személyi azonosítót és lakcímet igazoló hatósági igazolvány tartalmazza a 14. életévét be nem töltött kiskorú esetén a kiskorú törvényes képviselőinek nevét és a kiállítás időpontja szerinti telefonszámát
 
-6.[^72]
+6.[^94]
 
-7.[^73]
+7.[^95]
 
-8.[^74] Lakcímbejelentésről értesítés kérése
+8.[^96] Lakcímbejelentésről értesítés kérése
 
 9. Szállásadói nyilatkozat bejelentése és nyilvántartásba vétele
 
 10. Személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás korlátozásáról szóló nyilatkozat megtétele, visszavonása
 
-11.[^75]
+11.[^97]
 
 12. Forgalmi engedély cseréjére irányuló kérelem
 
@@ -120,16 +120,16 @@ A kormányablakban azonnal intézhető ügyek
 
 59. A biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személyek esetében Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlatának kiadása iránti kérelem
 
-60.[^76] A személyazonosító igazolvány tároló elemén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (1) bekezdése szerinti szolgáltatásazonosító rögzítése
+60.[^98] A személyazonosító igazolvány tároló elemén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (1) bekezdése szerinti szolgáltatásazonosító rögzítése
 
-61.[^77] Hatósági erkölcsi bizonyítvány kiállítása iránti kérelem
+61.[^99] Hatósági erkölcsi bizonyítvány kiállítása iránti kérelem
 
-62.[^78] A Covid19-világjárvány idején a szabad mozgás megkönnyítése érdekében az interoperábilis, Covid19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok (uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló, 2021. június 14-i (EU) 2021/953 európai parlamenti és tanácsi rendelet szerinti uniós digitális Covid-igazolvány kiállítása
+62.[^100] A Covid19-világjárvány idején a szabad mozgás megkönnyítése érdekében az interoperábilis, Covid19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok (uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló, 2021. június 14-i (EU) 2021/953 európai parlamenti és tanácsi rendelet szerinti uniós digitális Covid-igazolvány kiállítása
 
-[^72]: Az 5. melléklet 6. pontját a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése hatályon kívül helyezte.
-[^73]: Az 5. melléklet 7. pontját a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése hatályon kívül helyezte.
-[^74]: Az 5. melléklet 8. pontja a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése szerint módosított szöveg.
-[^75]: Az 5. melléklet 11. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés a) pontja hatályon kívül helyezte.
-[^76]: Az 5. melléklet 60. pontját a 176/2019. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
-[^77]: Az 5. melléklet 61. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^78]: Az 5. melléklet 62. pontját a 189/2022. (V. 26.) Korm. rendelet 11. §-a iktatta be.
+[^94]: Az 5. melléklet 6. pontját a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése hatályon kívül helyezte.
+[^95]: Az 5. melléklet 7. pontját a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése hatályon kívül helyezte.
+[^96]: Az 5. melléklet 8. pontja a 375/2021. (VI. 30.) Korm. rendelet 30. § (1) bekezdése szerint módosított szöveg.
+[^97]: Az 5. melléklet 11. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^98]: Az 5. melléklet 60. pontját a 176/2019. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
+[^99]: Az 5. melléklet 61. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^100]: Az 5. melléklet 62. pontját a 189/2022. (V. 26.) Korm. rendelet 11. §-a iktatta be.
