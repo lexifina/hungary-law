@@ -1,4 +1,4 @@
-5. § (1) A PIB a tárcákat vezető miniszterek 1-1 delegáltjából, valamint a fővárosi és megyei kormányhivatalt (a továbbiakban: kormányhivatal) vezető kormánymegbízott által delegált 1-1 vezetői álláshelyen foglalkoztatott kormánytisztviselőből álló testület, amelynek elnökét a miniszter jelöli ki az általa vezetett minisztérium vezetői álláshelyen foglalkoztatott kormánytisztviselői közül.
+5. § (1)[^1] A PIB a tárcákat vezető miniszterek 1-1 delegáltjából, valamint a fővárosi és megyei kormányhivatalt (a továbbiakban: kormányhivatal) vezető főispán által delegált 1-1 vezetői álláshelyen foglalkoztatott kormánytisztviselőből álló testület, amelynek elnökét a miniszter jelöli ki az általa vezetett minisztérium vezetői álláshelyen foglalkoztatott kormánytisztviselői közül.
 
 (2) A PIB tagjának e megbízatása megszűnik
 
@@ -8,7 +8,7 @@ b) a tag felmentésével vagy
 
 c) a tag halálával.
 
-(3) A PIB tagját a PIB elnöke mentheti fel, az őt kijelölő miniszter vagy kormánymegbízott előzetes véleményének kikérését követően, ha
+(3)[^2] A PIB tagját a PIB elnöke mentheti fel, az őt kijelölő miniszter vagy főispán előzetes véleményének kikérését követően, ha
 
 a) egy naptári éven belül legalább három alkalommal felróhatóan nem tett eleget a PIB működésével kapcsolatos személyes közreműködést igénylő kötelezettségének,
 
@@ -33,3 +33,6 @@ b) a miniszter javaslata alapján meghatározza az egyes ösztöndíjasok eseté
 (10) A PIB tagjainak egyidejű akadályoztatása esetén a PIB elnöke elektronikus úton történő levélszavazást is elrendelhet.
 
 (11) A PIB titkársági feladatait, a levélszavazások lebonyolítását a miniszter látja el.
+
+[^1]: Az 5. § (1) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^2]: Az 5. § (3) bekezdés nyitó szövegrésze a 309/2022. (VIII. 11.) Korm. rendelet 14. §-a szerint módosított szöveg.
