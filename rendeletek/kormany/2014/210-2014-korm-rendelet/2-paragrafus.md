@@ -6,7 +6,7 @@ a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kate
 
 b) az általános csoportmentességi rendelet 25. cikke, vagy az Európai Bizottság a kutatáshoz, fejlesztéshez és innovációhoz nyújtott állami támogatások keretrendszeréről szóló 2014/C 198/01 számú európai bizottsági közleménye alapján hozott egyedi határozatának hatálya alá tartozó, előzetes egyedi bejelentési kötelezettség alá eső, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (3) bekezdés b) és c) pontja szerinti kutatás-fejlesztési projektekhez nyújtott,
 
-c)[^2] az Európai Bizottságnak a regionális állami támogatásokról szóló iránymutatása című, C(2021) 2594 final számú európai bizottsági közleménye alapján hozott egyedi határozatának hatálya alá tartozó, előzetes egyedi bejelentési kötelezettség alá eső, az EUMSz 107. cikk (3) bekezdés a) és c) pontja szerinti regionális beruházási
+c)[^2] az Európai Bizottságnak a regionális állami támogatásokról szóló iránymutatása című, 2021/C 153/01 számú európai bizottsági közleménye alapján hozott egyedi határozatának hatálya alá tartozó, előzetes egyedi bejelentési kötelezettség alá eső, az EUMSz 107. cikk (3) bekezdés a) és c) pontja szerinti regionális beruházási
 
 támogatás (a továbbiakban: támogatás) a Kormány egyedi döntésével nyújtható.
 
@@ -15,4 +15,4 @@ támogatás (a továbbiakban: támogatás) a Kormány egyedi döntésével nyúj
 (3) E rendelet alapján vissza nem térítendő, az (1) bekezdés b) pontja és (2) bekezdés szerinti támogatás kivételével működési támogatásnak nem minősülő támogatás nyújtható.
 
 [^1]: A 2. § a 463/2020. (X. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (1) bekezdés c) pontja a 720/2021. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés c) pontja a 720/2021. (XII. 20.) Korm. rendelet 1. §-ával megállapított, a 310/2022. (VIII. 11.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.

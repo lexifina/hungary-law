@@ -26,7 +26,7 @@ azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvá
 
 6.[^4] beruházó: a tervezett beruházás, illetve kutatás-fejlesztési projekt támogatására támogatási kérelmet benyújtó, valamint az igénybevétel alapján e rendelet alapján támogatásban részesülő vállalkozás;
 
-6a.[^5] bértömeg: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 79. §-ában meghatározott ráfordításoknak az Sztv. 79. § (4) bekezdése szerinti bérjárulékokkal csökkentett mértéke;
+6a.[^5] bértömeg: a munkavállalókkal kötött munkaszerződés alapján járó bruttó bér és a beruházó juttatási szabályzatában meghatározott, éves rendszeres, valamennyi munkavállaló részére biztosított béren kívüli juttatások összessége;
 
 7. diszkont kamatláb: a különböző években folyósított állami támogatások, illetve a több év alatt megvalósított beruházások elszámolható költségei jelenértékének kiszámításához használt kamatláb, amely egyenlő a referencia alapkamatláb 100 bázisponttal növelt értékével;
 
@@ -66,7 +66,7 @@ beruházó;
 
 21. működési támogatás: valamely vállalkozás induló beruházástól független, működéshez kapcsolódó folyó kiadásaihoz nyújtott támogatás;
 
-22.[^13] nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költség jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget a támogatás nyújtásának napján érvényes árakon és a 9. § (2) bekezdése szerinti árfolyamon számítva, azzal, hogy a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint az általános csoportmentességi rendelet értelmében csoportszinten ugyanazon kedvezményezett által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
+22.[^13] nagyberuházás: az az induló beruházás, amelyhez kapcsolódóan az elszámolható költség jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget a támogatás nyújtásának napján érvényes árakon és a 9. § (2) bekezdése szerinti árfolyamon számítva, azzal, hogy a 2. § (1) bekezdés a) pontja szerinti támogatással érintett nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint az általános csoportmentességi rendelet értelmében csoportszinten ugyanazon kedvezményezett által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást, míg a 2. § (1) bekezdés c) pontjában meghatározott esetekben csak azok a háromszor háromszázhatvanöt napos időszakon belüli, ugyanazon megyében megkezdett beruházások veendők figyelembe, amelyek csoportszinten ugyanazon kedvezményezett azonos vagy hasonló tevékenységét szolgálják;
 
 23. nagyvállalkozás: az általános csoportmentességi rendelet I. mellékletében meghatározott, a kis- és középvállalkozásokra vonatkozó feltételeknek meg nem felelő vállalkozás;
 
@@ -176,9 +176,15 @@ d) létesítmény felvásárlása esetén a felvásárlás időpontja vagy
 
 e) az a)–d) pont közül több pont együttes megvalósulása esetén a legkorábbi időpont, azzal, hogy nem tekinthető megkezdésnek a földterület megvásárlása, ha az nem képezi az üzemfejlesztés költségét, valamint az előkészítő munka költségének felmerülése.
 
+55.[^40] IAS: International Accounting Standards (Nemzetközi számviteli szabványok);
+
+56.[^41] lignitipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által létrehozott, szénre vonatkozó nemzetközi kodifikációs rendszer meghatározása szerinti gyenge minőségű, C. csoportba sorolt szén vagy ortholignit, továbbá gyenge minőségű, B. csoportba sorolt szén vagy metalignit kitermelése;
+
+57.[^42] munkaerő-kölcsönzés: a munka törvénykönyvéről szóló törvény XVI. fejezetében szabályozott munkaerő-kölcsönzés.
+
 [^3]: A 3. § 2. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: A 3. § 6. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § 6a. pontját a 227/2019. (IX. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 3. § 6a. pontját a 227/2019. (IX. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 310/2022. (VIII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § 8. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^7]: A 3. § 10. pontját a 36/2019. (III. 5.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
 [^8]: A 3. § 12. pontja a 720/2021. (XII. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -186,7 +192,7 @@ e) az a)–d) pont közül több pont együttes megvalósulása esetén a legkor
 [^10]: A 3. § 13. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^11]: A 3. § 15. pontja a 119/2017. (V. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § 18. pontja a 36/2019. (III. 5.) Korm. rendelet 14. § a) pontja és 15. § c) pontja szerint módosított szöveg.
-[^13]: A 3. § 22. pontja a 36/2019. (III. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § 22. pontja a 310/2022. (VIII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^14]: A 3. § 24. pontja a 463/2020. (X. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^15]: A 3. § 25. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^16]: A 3. § 26. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
@@ -213,3 +219,6 @@ e) az a)–d) pont közül több pont együttes megvalósulása esetén a legkor
 [^37]: A 3. § 52. pontját a 463/2020. (X. 21.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^38]: A 3. § 53. pontját a 463/2020. (X. 21.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^39]: A 3. § 54. pontját a 390/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^40]: A 3. § 55. pontját a 310/2022. (VIII. 11.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^41]: A 3. § 56. pontját a 310/2022. (VIII. 11.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^42]: A 3. § 57. pontját a 310/2022. (VIII. 11.) Korm. rendelet 1. § (5) bekezdése iktatta be.

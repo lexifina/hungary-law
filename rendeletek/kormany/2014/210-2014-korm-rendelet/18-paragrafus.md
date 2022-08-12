@@ -1,8 +1,8 @@
-18. § (1)[^108] A 9. § (1) bekezdés a) pontjában meghatározott támogatási célok alá tartozó beruházás esetében kizárólag az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
+18. § (1)[^116] A 9. § (1) bekezdés a) pontjában meghatározott támogatási célok alá tartozó beruházás esetében kizárólag a 17. § (2) bekezdés a) pontja szerinti, az Sztv. 47–51. §-ában és az IAS 16, valamint az IAS 38 standardban meghatározott költségek számolhatók el, a (2) bekezdésben meghatározott kivételekkel.
 
-(2)[^109] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók a bekerülési értékbe:
+(2)[^117] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok beszámíthatók a bekerülési értékbe:
 
-1. a beruházó saját maga által előállított, forgalmazott eszköz, szoftver, saját maga által nyújtott szolgáltatás, saját maga által forgalmazott rendszer bevezetésének költségei [Sztv. 50. § (5) bekezdése], kivéve, ha ilyen eszköz előállítására kizárólag a beruházó képes, és az eszköz elszámolása során olyan értéket alkalmaz, amely megfelel annak a piaci vételárnak, amelyet független harmadik felek egymás között alkalmaznának,
+1.[^118] a beruházó saját maga által előállított, forgalmazott eszköz, szoftver, saját maga által nyújtott szolgáltatás, saját maga által forgalmazott rendszer bevezetésének költségei, kivéve, ha ilyen eszköz előállítására kizárólag a beruházó képes, és az eszköz elszámolása során olyan értéket alkalmaz, amely megfelel annak a piaci vételárnak, amelyet független harmadik felek egymás között alkalmaznának,
 
 2. a beruházónál meglévő termelőkapacitások telephelyen belüli vagy más telephelyre történő áthelyezési költsége,
 
@@ -30,9 +30,9 @@
 
 14. az elhasználódott tárgyi eszköz eredeti állaga helyreállítását szolgáló, szinten tartó felújítási munka költségei és az üzemszerű működést szolgáló költségek,
 
-15. azok az eszközök, amelyek a beruházó által már használt tárgyi eszközöket, támogatható immateriális javakat váltják ki anélkül, hogy a kiváltás a meglévő létesítmény kapacitásának bővítését, a létesítmény termékpalettájának a létesítményben addig nem gyártott termékekkel, szolgáltatással történő bővítését vagy a termelési, szolgáltatási folyamat alapvető változását eredményezi,
+15.[^119] azok az eszközök, amelyek a beruházó által már használt tárgyi eszközöket, támogatható immateriális javakat váltják ki anélkül, hogy a kiváltás a meglévő létesítmény kapacitásának bővítését, a létesítmény termékpalettájának a létesítményben addig nem gyártott termékekkel, szolgáltatással történő bővítését eredményezi,
 
-16. visszlízingelt eszközök költségei,
+16.[^120]
 
 17. hitelfelvétellel kapcsolatos díjak, garanciavállalási díj, jelzálog, egyéb biztosítéknyújtáshoz kapcsolódó költségek,
 
@@ -58,51 +58,63 @@
 
 28. létesítmény felvásárlása, amennyiben arra nem piaci áron kerül sor,
 
-29. cég tulajdonjogának megszerzése (üzletrész- és részvényvásárlás), apport, cégek átalakulásának eredményeképpen bekövetkezett tulajdonszerzés (Sztv. 49. §),
+29.[^121] cég tulajdonjogának megszerzése (üzletrész- és részvényvásárlás), apport, cégek átalakulásának eredményeképpen bekövetkezett tulajdonszerzés,
 
 30. hitelviszonyt megtestesítő, kamatozó értékpapír megszerzése,
 
-31. ingyenesen szerzett eszközök [Sztv. 50. § (4) bekezdése],
+31.[^122] ingyenesen szerzett eszközök,
 
 32. pénzügyi lízing meghiúsulása esetén fizetett összeg (lízingdíj, költség vagy teher),
 
-33. külföldi székhelyű vállalkozás magyarországi fióktelepének a működéshez, a tartozások kiegyenlítéséhez biztosított eszközök értéke [Sztv. 50. § (7) bekezdése],
+33.[^123] külföldi székhelyű vállalkozás magyarországi fióktelepének a működéshez, a tartozások kiegyenlítéséhez biztosított eszközök értéke,
 
-34. külföldi székhelyű vállalkozás vagy annak külföldi fióktelepe által a magyarországi fióktelep részére átadott eszközök értéke [Sztv. 50. § (8) bekezdése],
+34.[^124] külföldi székhelyű vállalkozás vagy annak külföldi fióktelepe által a magyarországi fióktelep részére átadott eszközök értéke,
 
-35. az olyan bankszámláról kifizetett, beruházással kapcsolatos költségek, amelyet a beruházó a kifizetést megelőzően nem jelentett be a lebonyolító szerv részére,
+35.[^125] az olyan bankszámláról kifizetett, beruházással kapcsolatos költségek, amelyet a beruházó az adott támogatási összeg folyósításáig nem jelentett be a lebonyolító szerv részére,
 
-36.[^110] ingatlan esetében a vételár és a független ingatlanforgalmi értékbecsléssel megállapított piaci érték különbsége.
+36.[^126] ingatlan esetében a vételár és a független ingatlanforgalmi értékbecsléssel megállapított piaci érték különbsége.
 
-(3) A földterület, a telek, az épületek és az egyéb eszközök lízingbe vételével kapcsolatos költségek abban az esetben számolhatóak el, ha a lízingügylet zártvégű pénzügyi lízing formájában valósul meg, és a lízingszerződés tartalmazza az eszköznek a lízing időtartam lejárta utáni megvásárlására vonatkozó kötelezettségét, amely határidő azonban nem lehet későbbi, mint a beruházás befejezésének dátuma.
+(3)[^127] A földterület, a telek, az épületek és az egyéb eszközök lízingbe vételével kapcsolatos költségek abban az esetben számolhatók el, ha a lízingügylet zártvégű pénzügyi lízing formájában valósul meg, és a lízingszerződés tartalmazza az eszköznek a lízingidőtartam lejárta utáni megvásárlására vonatkozó kötelezettségét, azzal, hogy a támogatás összegének meghatározásánál kizárólag a beruházás befejezéséig megfizetett, kamatokat nem tartalmazó törlesztőrészletek vehetőek figyelembe.
+
+(3a) Visszlízing esetén az elszámolható költség kizárólag a (3) bekezdésnek megfelelő lízingdíj lehet, azzal, hogy az eszköz beszerzésére vonatkozó első gazdasági esemény nem lehet korábbi, mint a beruházás megkezdése.
 
 (4) Bérelt ingatlanon történő megvalósítás esetén a földterület, a telek és épületek bérleti díja, amelyek a beruházás megvalósítási időszaka alatt merülnek fel, elszámolható költségeknek minősülnek, ha
 
 a) a bérleti szerződés határozatlan idejű vagy
 
-b)[^111] határozott idejű szerződés esetén annak időtartama a kötelező üzemeltetési időszakot lefedi.
+b)[^128] határozott idejű szerződés esetén annak időtartama a kötelező üzemeltetési időszakot lefedi.
 
 (5) Az immateriális javaknak az alábbi feltételeknek kell megfelelniük:
 
 a) kizárólag a beruházó és kizárólag a támogatásban részesült létesítményben használhatja fel azokat,
 
-b) az érintett immateriális javak bekerülési értékét az Sztv. előírásai szerint, terv szerinti értékcsökkenési leírással csökkentik,
+b)[^129] az érintett immateriális javak bekerülési értékét az Sztv. előírásai szerint vagy az IAS 38 standard szerint, terv szerinti értékcsökkenési leírással csökkentik,
 
 c) piaci feltételek mellett, a vevőtől független harmadik féltől kell őket megvásárolni,
 
 d) a nagyvállalkozások részére nyújtott támogatás esetén legalább 5 évig, kis- és középvállalkozások esetén legalább 3 évig a beruházó eszközei között kell szerepelniük, és ahhoz a beruházáshoz kell kapcsolódniuk, amelyre a támogatást nyújtották,
 
-e) nagyvállalkozások esetén az immateriális javak az elszámolható költségek maximum 50%-át tehetik ki.
+e)[^130] nagyvállalkozások esetén az immateriális javak az elszámolható költségek maximum 50%-át tehetik ki, ide nem értve a tárgyi eszközök lízingdíját, amennyiben azt immateriális jószágként tartja nyilván a beruházó a könyveiben.
 
-(6)[^112] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
+(6)[^131] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
-a)[^113] a támogatott eszközöket a kedvezményezett beszállítói is használhatják beszállítói szerződés keretében, amennyiben a beszállító támogatható településen működik, a beszerzett eszközök a kedvezményezett által megjelölt beruházási helyszínen kerülnek aktiválásra, valamint az eszközre nyújtott támogatás mértéke nem haladja meg a beszállító telephelyén vagy a beruházási helyszínen alkalmazandó maximális regionális támogatási mértékek közül az alacsonyabbat, és
+a)[^132] beszállítóhoz kihelyezett eszközök esetén a támogatott eszközöket a kedvezményezett beszállítói is használhatják beszállítói szerződés keretében, amennyiben
 
-b)[^114] a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a beruházás helyszínén a támogatott tevékenységet,
+aa) a beszállító támogatható településen működik,
 
-c)[^115] az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
+ab) a beszerzett eszközök a beruházó által megjelölt beruházási helyszínen kerülnek aktiválásra,
 
-(7)[^116] A megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek a 2. § (1) bekezdés a) és c) pontja szerinti támogatás esetén, amennyiben az alábbi feltételek együttesen teljesülnek:
+ac) az eszközre nyújtott támogatás mértéke nem haladja meg a beszállító telephelyén vagy a beruházási helyszínen alkalmazandó maximális regionális támogatási mértékek közül az alacsonyabbat,
+
+ad) a 2. § (1) bekezdés c) pontja szerinti támogatás esetén az eszközöket a beszállító a beruházás befejezésétől számított legalább öt évig – ha a beruházó kis- és középvállalkozás, akkor legalább három évig – kizárólag a beruházó támogatott tevékenységéhez használja, és
+
+ae) a beszállító nem részesül vagy részesült állami támogatásban az érintett eszköz után, és
+
+b)[^133] a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a beruházás helyszínén a támogatott tevékenységet,
+
+c)[^134] az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
+
+(7)[^135] A megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek a 2. § (1) bekezdés a) és c) pontja szerinti támogatás esetén, amennyiben az alábbi feltételek együttesen teljesülnek:
 
 a) a beruházás elsődleges célja nem az energiatermelés,
 
@@ -110,12 +122,23 @@ b) az energiatermeléshez kapcsolódó eszközök költsége a beruházás össz
 
 c) a beruházó előzetes elemzés bemutatásával hitelesen igazolja, hogy az energiatermelési kapacitás nem haladja meg a beruházás működtetéséhez szükséges mennyiséget, valamint az előzetes elemzésből hitelt érdemlően kitűnik, hogy a megtermelt energia legfeljebb 20%-át értékesítik.
 
-[^108]: A 18. § (1) bekezdése a 386/2020. (VIII. 7.) Korm. rendelet 5. §-ával megállapított, a 720/2021. (XII. 20.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^109]: A 18. § (2) bekezdése a 36/2019. (III. 5.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^110]: A 18. § (2) bekezdés 36. pontját a 227/2019. (IX. 26.) Korm. rendelet 9. §-a iktatta be.
-[^111]: A 18. § (4) bekezdés b) pontja a 36/2019. (III. 5.) Korm. rendelet e) pontja szerint módosított szöveg.
-[^112]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^113]: A 18. § (6) bekezdés a) pontja a 390/2021. (VII. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^114]: A 18. § (6) bekezdés b) pontja a 390/2021. (VII. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^115]: A 18. § (6) bekezdés c) pontját a 346/2017. (XI. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 36/2019. (III. 5.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^116]: A 18. § (7) bekezdését újonnan a 36/2019. (III. 5.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^116]: A 18. § (1) bekezdése a 310/2022. (VIII. 11.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^117]: A 18. § (2) bekezdése a 36/2019. (III. 5.) Korm. rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze a 310/2022. (VIII. 11.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^118]: A 18. § (2) bekezdése 1. pontja a 310/2022. (VIII. 11.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^119]: A 18. § (2) bekezdése 15. pontja a 310/2022. (VIII. 11.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^120]: A 18. § (2) bekezdés 16. pontját a 310/2022. (VIII. 11.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.
+[^121]: A 18. § (2) bekezdése 29. pontja a 310/2022. (VIII. 11.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^122]: A 18. § (2) bekezdése 31. pontja a 310/2022. (VIII. 11.) Korm. rendelet 13. § h) pontja szerint módosított szöveg.
+[^123]: A 18. § (2) bekezdése 33. pontja a 310/2022. (VIII. 11.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.
+[^124]: A 18. § (2) bekezdése 34. pontja a 310/2022. (VIII. 11.) Korm. rendelet 13. § j) pontja szerint módosított szöveg.
+[^125]: A 18. § (2) bekezdés 35. pontja a 310/2022. (VIII. 11.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^126]: A 18. § (2) bekezdés 36. pontját a 227/2019. (IX. 26.) Korm. rendelet 9. §-a iktatta be.
+[^127]: A 18. § (3) bekezdése a 310/2022. (VIII. 11.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^128]: A 18. § (4) bekezdés b) pontja a 36/2019. (III. 5.) Korm. rendelet e) pontja szerint módosított szöveg.
+[^129]: A 18. § (5) bekezdés b) pontja a 310/2022. (VIII. 11.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^130]: A 18. § (5) bekezdés e) pontja a 310/2022. (VIII. 11.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^131]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^132]: A 18. § (6) bekezdés a) pontja a 310/2022. (VIII. 11.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^133]: A 18. § (6) bekezdés b) pontja a 390/2021. (VII. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^134]: A 18. § (6) bekezdés c) pontját a 346/2017. (XI. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 36/2019. (III. 5.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^135]: A 18. § (7) bekezdését újonnan a 36/2019. (III. 5.) Korm. rendelet 9. § (3) bekezdése iktatta be.
