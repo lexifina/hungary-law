@@ -1,6 +1,6 @@
-## 7/R. §[^60] A 2. mellékletben foglalt táblázat 43., 88., 89. és 91. sora szerinti beruházással közmű- és energiaszolgáltató, valamint a közút- és a vízilétesítmény-kezelő a benyújtott tervek jóváhagyása tekintetében a tervek benyújtásától számított öt munkanapon belül köteles nyilatkozni. Ha az eljáró közmű- és energiaszolgáltató, a közút- vagy vízilétesítmény- kezelő öt munkanapon belül nem nyilatkozik, hozzájárulását megadottnak kell tekinteni a jóváhagyásra benyújtott terv szerinti tartalommal.
+## 7/R. §[^61] A 2. mellékletben foglalt táblázat 43., 88., 89. és 91. sora szerinti beruházással közmű- és energiaszolgáltató, valamint a közút- és a vízilétesítmény-kezelő a benyújtott tervek jóváhagyása tekintetében a tervek benyújtásától számított öt munkanapon belül köteles nyilatkozni. Ha az eljáró közmű- és energiaszolgáltató, a közút- vagy vízilétesítmény- kezelő öt munkanapon belül nem nyilatkozik, hozzájárulását megadottnak kell tekinteni a jóváhagyásra benyújtott terv szerinti tartalommal.
 
-7/S. §[^61] (1) A 2. mellékletben foglalt táblázat 45. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/S. §[^62] (1) A 2. mellékletben foglalt táblázat 45. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -16,5 +16,5 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) és
 
 (3) A 2. mellékletben foglalt táblázat 45. sorában meghatározott beruházással kapcsolatban a személygépkocsi-parkolóhelyek kialakítása során az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK 42. §-a szerint meghatározottakkal ellentétben 30 darab személygépkocsi elhelyezését kell biztosítani.
 
-[^60]: A 7/R. §-t a 458/2021. (VIII. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 301/2022. (VIII. 9.) Korm. rendelet 4. § i) pontja szerint módosított szöveg.
-[^61]: A 7/S. §-t az 525/2021. (IX. 8.) Korm. rendelet 2. §-a iktatta be.
+[^61]: A 7/R. §-t a 458/2021. (VIII. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 301/2022. (VIII. 9.) Korm. rendelet 4. § i) pontja szerint módosított szöveg.
+[^62]: A 7/S. §-t az 525/2021. (IX. 8.) Korm. rendelet 2. §-a iktatta be.

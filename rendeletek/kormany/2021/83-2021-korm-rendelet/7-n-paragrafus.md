@@ -1,4 +1,4 @@
-7/N. §[^56] (1) A 2. mellékletben foglalt táblázat 22. és 23. sora szerinti beruházásokkal érintett ingatlan telkére a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
+7/N. §[^57] (1) A 2. mellékletben foglalt táblázat 22. és 23. sora szerinti beruházásokkal érintett ingatlan telkére a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
 
 a) az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -10,4 +10,4 @@ a) a terepszint feletti beépítettség legnagyobb mértéke 80%,
 
 b) a zöldfelület legkisebb mértéke 10%.
 
-[^56]: A 7/N. §-t a 395/2021. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^57]: A 7/N. §-t a 395/2021. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
