@@ -1,4 +1,4 @@
-2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^84]
+2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^85]
 
 ## AZ ÜZEMELTETŐI BIZTONSÁGI TERV FELÉPÍTÉSE
 
@@ -588,7 +588,7 @@ Tartalmi követelmények
 
 4.5.2. a veszélyeztető hatások szintje lehet: elhanyagolható, alacsony, közepes, magas, katasztrofális (1–5 skálán)
 
-4.5.3.[^85] a harmadik fél felől fennálló kitettség lehet: harmadik féltől igénybe vett, vagy üzemeltető által saját hatáskörben nyújtott vagy nem értelmezhető (1–2 skálán) – ahol a „2” érték súlyozottan veendő figyelembe
+4.5.3.[^86] a harmadik fél felől fennálló kitettség lehet: harmadik féltől igénybe vett, vagy üzemeltető által saját hatáskörben nyújtott vagy nem értelmezhető (1–2 skálán) – ahol a „2” érték súlyozottan veendő figyelembe
 
 4.6. Kockázatkezelés
 
@@ -640,5 +640,5 @@ Az üzemeltetői biztonsági tervet a „Tartalmi követelmények” részben fe
 
 A térképeket elektronikus adathordozón is be lehet nyújtani. A térképvázlat vagy helyszínrajz tartalmazza a kijelölt rendszerelem egészét és olyan felbontású és formátumú legyen, amely a megfelelő eligazodást biztosítja.
 
-[^84]: A 2. melléklet a 375/2020. (VII. 30.) Korm. rendelet 51. § b) pontjával megállapított szöveg.
-[^85]: A 2. melléklet 4.5.3. pontja a 375/2021. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^85]: A 2. melléklet a 375/2020. (VII. 30.) Korm. rendelet 51. § b) pontjával megállapított szöveg.
+[^86]: A 2. melléklet 4.5.3. pontja a 375/2021. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.

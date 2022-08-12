@@ -1,3 +1,3 @@
-## 11/A. [^72] Az alapvető szolgáltatást nyújtó szereplők azonosításának egyéb szabályai
+## 11/A. [^73] Az alapvető szolgáltatást nyújtó szereplők azonosításának egyéb szabályai
 
-[^72]: A 11/A. alcímet (12/A–12/F. §) a 375/2020. (VII. 30.) Korm. rendelet 49. §-a iktatta be.
+[^73]: A 11/A. alcímet (12/A–12/F. §) a 375/2020. (VII. 30.) Korm. rendelet 49. §-a iktatta be.
