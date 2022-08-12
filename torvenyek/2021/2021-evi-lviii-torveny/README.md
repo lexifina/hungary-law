@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-58-00-00
 | 2022-07-02 | 2010. évi CXXX. törvény | 2021-58-00-00.14 |
 | 2022-07-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-58-00-00.15 |
 | 2022-07-09 | 2010. évi CXXX. törvény | 2021-58-00-00.16 |
+| 2022-08-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-58-00-00.17 |
