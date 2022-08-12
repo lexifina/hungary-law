@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-31-20-2
 | 2018-01-01 | 2012-31-20-22.7 | 338/2017. (XI. 14.) Korm. rendelet |
 | 2019-04-24 | 2012-31-20-22.8 | 88/2019. (IV. 23.) Korm. rendelet |
 | 2021-01-01 | 2012-31-20-22.9 | 671/2020. (XII. 28.) Korm. rendelet |
+| 2022-08-12 | 2012-31-20-22.10 | 516/2013. (XII. 30.) Korm. rendelet |
