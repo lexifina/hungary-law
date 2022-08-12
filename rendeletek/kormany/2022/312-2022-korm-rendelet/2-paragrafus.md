@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Magyarországgal diplomáciai kapcsolatban álló államok, valamint egyéb nemzetközi jogi jogalanyok (a továbbiakban: Partnerek) között a Stipendium Hungaricum ösztöndíjak biztosításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére a Partnerek viszonylatában.
