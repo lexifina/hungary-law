@@ -1,5 +1,5 @@
-## 29.[^224]
+## 29.[^225]
 
 73. §
 
-[^224]: A 29. alcímet (73. §) a 135/2017. (VI. 9.) Korm. rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^225]: A 29. alcímet (73. §) a 135/2017. (VI. 9.) Korm. rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte.

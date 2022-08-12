@@ -12,16 +12,17 @@ da) a kormánytisztviselőknek a NÉBIH-től a megyei kormányhivatalokhoz, vagy
 
 db) az eszközök NÉBIH-től a megyei kormányhivatalokhoz, illetve a járási hivatalokhoz történő átcsoportosítására,
 
-e) jogszabályban meghatározott járványügyi vagy más kiemelt jelentőségű okból azonnali intézkedést igénylő esetben javaslatot tehet a megyei kormányhivatalt vezető kormánymegbízottnak
+e)[^56] jogszabályban meghatározott járványügyi vagy más kiemelt jelentőségű okból azonnali intézkedést igénylő esetben javaslatot tehet a megyei kormányhivatalt vezető főispánnak
 
 ea) állami tisztviselőknek NÉBIH-hez történő, valamint megyei kormányhivatalok és járási hivatalok közötti kirendelésére,
 
 eb) az eszközök NÉBIH-hez történő, valamint megyei kormányhivatalok és járási hivatalok közötti átcsoportosítására,
 
-f)[^56] ellátja az Éltv. 29. § m) és n) pontjaiban foglalt feladatokat.
+f)[^57] ellátja az Éltv. 29. § m) és n) pontjaiban foglalt feladatokat.
 
 (2) A miniszternek az Éltv. 28. § a)–d) pontjában, 52. § (3) bekezdésében, valamint 71. § (1) bekezdésében leírt feladatait átruházott hatáskörben az országos főállatorvos gyakorolja.
 
 (3) Az Éltv. 23. § (4) bekezdésében meghatározott élelmiszerlánc-felügyeleti szerv az országos főállatorvos.
 
-[^56]: A 16. § (1) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (10) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^56]: A 16. § (1) bekezdés e) pontja a 309/2022. (VIII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^57]: A 16. § (1) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (10) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.

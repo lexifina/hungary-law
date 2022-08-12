@@ -1,4 +1,4 @@
-39. § (1)[^141] A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait szerződés alapján igénybevevőknek az ingatlan-nyilvántartásról szóló törvény szerinti ellenőrzésére, továbbá a hozzáférési jogosultság visszavonására vagy felfüggesztésére irányuló javaslat megtételére jogosult ingatlanügyi hatóság – ha e rendelet másként nem rendelkezik – az igénybevevő székhelye, illetve ha a szolgáltatások igénybevétele attól eltérő telephelyen történik, a telephelye szerinti fővárosi és megyei kormányhivatal. A földmérési és térinformatikai államigazgatási szerv évente egyszer rendszeresen, illetve a fővárosi és megyei kormányhivatal megkeresésére eseti tájékoztatást ad a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait szerződés alapján igénybevevőkről.
+39. § (1)[^142] A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait szerződés alapján igénybevevőknek az ingatlan-nyilvántartásról szóló törvény szerinti ellenőrzésére, továbbá a hozzáférési jogosultság visszavonására vagy felfüggesztésére irányuló javaslat megtételére jogosult ingatlanügyi hatóság – ha e rendelet másként nem rendelkezik – az igénybevevő székhelye, illetve ha a szolgáltatások igénybevétele attól eltérő telephelyen történik, a telephelye szerinti fővárosi és megyei kormányhivatal. A földmérési és térinformatikai államigazgatási szerv évente egyszer rendszeresen, illetve a fővárosi és megyei kormányhivatal megkeresésére eseti tájékoztatást ad a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait szerződés alapján igénybevevőkről.
 
 (2) Az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal ingatlanügyi hatósági jogkörben végzett földmérési és térképészeti feladatai:
 
@@ -34,7 +34,7 @@ f) vezeti a jogszabályokban meghatározott nyilvántartásokat;
 
 g) megindítja a bírságolási eljárást az állami alapadat-adatbázisokat jogosulatlanul felhasználóval, valamint a jogosulatlan földmérési munkavégzővel szemben;
 
-h)[^142]
+h)[^143]
 
 i) létesíti és működteti az illetékességi területére vonatkozó adat- és térképtárat;
 
@@ -42,23 +42,23 @@ j) negyedévente adatot szolgáltat a földmérési és térinformatikai állami
 
 k) a földmérési engedélyhez kötött tevékenység gyakorlásának időtartama alatt a tevékenységre jogosultnál lefolytatott hatósági ellenőrzés;
 
-l)[^143] ellátja az állami ingatlan-nyilvántartási térképi adatbázis kezelését, a változások folyamatos vezetését,
+l)[^144] ellátja az állami ingatlan-nyilvántartási térképi adatbázis kezelését, a változások folyamatos vezetését,
 
-m)[^144] eljár a földmérési tárgyú beadványokkal kapcsolatos ügyekben,
+m)[^145] eljár a földmérési tárgyú beadványokkal kapcsolatos ügyekben,
 
-n)[^145] ellátja az állami ingatlan-nyilvántartási térképi adatbázisban változást eredményező vázrajzok és vázlatok vizsgálatát és záradékolását,
+n)[^146] ellátja az állami ingatlan-nyilvántartási térképi adatbázisban változást eredményező vázrajzok és vázlatok vizsgálatát és záradékolását,
 
-o)[^146] lefolytatja a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárást,
+o)[^147] lefolytatja a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárást,
 
-p)[^147] elvégzi az állami alapadatok adatbázisaiban bekövetkezett, hivatalból észlelt változásokkal kapcsolatos munkákat,
+p)[^148] elvégzi az állami alapadatok adatbázisaiban bekövetkezett, hivatalból észlelt változásokkal kapcsolatos munkákat,
 
-q)[^148]
+q)[^149]
 
-[^141]: A 39. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (35) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^142]: A 39. § (2) bekezdés h) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés e) pontja hatályon kívül helyezte.
-[^143]: A 39. § (2) bekezdés l) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^144]: A 39. § (2) bekezdés m) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^145]: A 39. § (2) bekezdés n) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^146]: A 39. § (2) bekezdés o) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^147]: A 39. § (2) bekezdés p) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^148]: A 39. § (2) bekezdés q) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be, hatályon kívül helyezte a 713/2020. (XII. 30.) Korm. rendelet 46. § d) pontja.
+[^142]: A 39. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (35) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^143]: A 39. § (2) bekezdés h) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés e) pontja hatályon kívül helyezte.
+[^144]: A 39. § (2) bekezdés l) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^145]: A 39. § (2) bekezdés m) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^146]: A 39. § (2) bekezdés n) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^147]: A 39. § (2) bekezdés o) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^148]: A 39. § (2) bekezdés p) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^149]: A 39. § (2) bekezdés q) pontját a 30/2020. (II. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be, hatályon kívül helyezte a 713/2020. (XII. 30.) Korm. rendelet 46. § d) pontja.
