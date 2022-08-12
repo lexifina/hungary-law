@@ -10,7 +10,7 @@ b)[^5] a Beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatl
 
 c)[^6] az 1. mellékletben megjelölt ingatlanokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat érintik.
 
-(3)[^7] A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyekben az 1. melléklet szerinti kormánymegbízottakat jelöli ki koordinációs feladatokat ellátó kormánymegbízottként.
+(3)[^7] A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyekben az 1. melléklet szerinti főispánokat jelöli ki koordinációs feladatokat ellátó főispánként.
 
 [^1]: Az 1. melléklet a 777/2021. (XII. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdése a 777/2021. (XII. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
@@ -18,4 +18,4 @@ c)[^6] az 1. mellékletben megjelölt ingatlanokból telekalakítási eljárásb
 [^4]: A 2. § (2) bekezdés a) pontja a 777/2021. (XII. 23.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés b) pontja a 777/2021. (XII. 23.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés c) pontja a 777/2021. (XII. 23.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^7]: A 2. § (3) bekezdése a 777/2021. (XII. 23.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdése a 777/2021. (XII. 23.) Korm. rendelet 4. § g) pontja, a 309/2022. (VIII. 11.) Korm. rendelet 17. § a) és b) pontja szerint módosított szöveg.

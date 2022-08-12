@@ -4,4 +4,4 @@
 
 [^18]: A 10. §-t a 166/2022. (IV. 28.) Korm. rendelet 2. §-a iktatta be.
 [^19]: A hatálybalépés időpontja 2022. április 29.
-[^20]: Az 1. melléklet a 777/2021. (XII. 23.) Korm. rendelet 3. §-a, a 166/2022. (IV. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^20]: Az 1. melléklet a 777/2021. (XII. 23.) Korm. rendelet 3. §-a, a 166/2022. (IV. 28.) Korm. rendelet 3. §-a, a 309/2022. (VIII. 11.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
