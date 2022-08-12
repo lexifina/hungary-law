@@ -38,7 +38,7 @@
 
 | 18. | 6. Számítástechnikai eszközök és rádiótelefon használata | jogosult | jogosult | jogosult | jogosult |
 
-2. melléklet a 275/2015. (IX. 21.) Korm. rendelethez[^47]
+2. melléklet a 275/2015. (IX. 21.) Korm. rendelethez[^48]
 
 Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket megillető juttatások
 
@@ -62,10 +62,10 @@ Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket me
 
 | 9. | miniszteri kabinetet vezető kabinetfőnök | KEF* | vonattal történő hivatalos utazása esetén nem jogosult az első osztály igénybevételére |
 
-| 10. | kormánymegbízott | munkáltató szerv | a) hivatalos külföldi utazása során nem veheti igénybe a repülőtéri kormányváró helyiségeket, b) vonattal történő hivatalos utazása esetén nem jogosult az első osztály igénybevételére c) a személygépjárművel kapcsolatos juttatások közüle rendelet szerinti költségátalányra nem jogosult |
+| 10. | főispán | munkáltató szerv | a) hivatalos külföldi utazása során nem veheti igénybe a repülőtéri kormányváró helyiségeket, b) vonattal történő hivatalos utazása esetén nem jogosult az első osztály igénybevételére c) a személygépjárművel kapcsolatos juttatások közüle rendelet szerinti költségátalányra nem jogosult |
 
 *Megjegyzés: KEF a 8. § szerinti juttatást biztosító szerv, ha a Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014.
 
 (X. 2.) Korm. rendelet szerinti ellátotti körbe tartozik a munkáltató szerv.
 
-[^47]: A 2. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 146. § (15) bekezdése iktatta be.
+[^48]: A 2. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 146. § (15) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

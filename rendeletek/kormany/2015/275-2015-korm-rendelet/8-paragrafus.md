@@ -22,7 +22,8 @@ b) a KEF által biztosított, személyes használatú gépjárműre – a Minisz
 
 (8) Ha a KEF rendelkezésre álló járműállományából az (1) bekezdésben és a (2) bekezdés b) pontjában meghatározott juttatás nem biztosítható, a személyes gépjárműhasználatra jogosult személy számára – ideiglenesen – eltérő kategóriájú személygépjármű is kiadható. A használt személygépjárművet, annak műszaki, esztétikai állapota, kora, illetve futásteljesítménye alapján – indokolt esetben – a KEF főigazgatója egy kategóriával alacsonyabb kategóriába sorolhatja.
 
-(9) A központi hivatal vezetője, a kormányzati főhivatal vezetőjének helyettese és a kormánymegbízott a (2) bekezdés szerint nyújthat be kérelmet azzal az eltéréssel, hogy – figyelemmel a 9/A. § (5) bekezdésére – kizárólag a (2) bekezdés b) pontja szerinti juttatást igényelhet.
+(9)[^30] A központi hivatal vezetője, a kormányzati főhivatal vezetőjének helyettese és a főispán a (2) bekezdés szerint nyújthat be kérelmet azzal az eltéréssel, hogy – figyelemmel a 9/A. § (5) bekezdésére – kizárólag a (2) bekezdés b) pontja szerinti juttatást igényelhet.
 
 [^28]: A 8. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (9) bekezdésével megállapított szöveg.
 [^29]: A 8. § (1) bekezdése a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^30]: A 8. § (9) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

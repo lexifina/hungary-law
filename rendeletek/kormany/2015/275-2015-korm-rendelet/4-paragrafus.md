@@ -10,7 +10,7 @@
 
 (4)[^10] A miniszterelnök külföldi kiküldetésével kapcsolatos kiadások költségvetési fedezetét az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell tervezni.
 
-(5)[^11] Az állami vezető a juttatásokat a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 196. § (5) bekezdése, 202. § (5) bekezdése, 224. § (2) bekezdése szerint kiállított igazolvánnyal veheti igénybe. A kormánymegbízott az őt megillető juttatásokat a Kit. 207. § (4) bekezdése szerint igazolvánnyal veheti igénybe.
+(5)[^11] Az állami vezető a juttatásokat a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 196. § (5) bekezdése, 202. § (5) bekezdése, 224. § (2) bekezdése szerint kiállított igazolvánnyal veheti igénybe. A főispán az őt megillető juttatásokat a Kit. 207. § (4) bekezdése szerint igazolvánnyal veheti igénybe.
 
 (6)[^12] Az állami vezető az (5) bekezdés szerint kiállított igazolvány felmutatásával – álláshelyén ellátandó feladataival összefüggésben – valamennyi közigazgatási szervhez, közintézethez és közintézményhez beléphet. Az állami vezető a feladatkörrel rendelkező miniszter által szabályozott módon léphet be a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági feladatot ellátó szervei épületébe, valamint a Magyar Honvédség működésére szolgáló területre. E jogosultság gyakorlása nem eredményezheti az érintett szervek rendeltetésszerű működésének aránytalan sérelmét.
 
@@ -21,6 +21,6 @@
 [^8]: A 3/A. §-t a 360/2019. (XII. 30.) Korm. rendelet 146. § (4) bekezdése iktatta be.
 [^9]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (16) bekezdése b) pontja, a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^10]: A 4. § (4) bekezdése a 306/2015. (X. 26.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^11]: A 4. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (5) bekezdésével megállapított szöveg.
+[^11]: A 4. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (5) bekezdésével megállapított, a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^12]: A 4. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (5) bekezdésével megállapított szöveg.
 [^13]: A 4. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (6) bekezdésével megállapított szöveg.
