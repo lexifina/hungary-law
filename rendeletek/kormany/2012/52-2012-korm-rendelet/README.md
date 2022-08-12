@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-52-20-2
 | 2021-03-11 | 2012-52-20-22.11 | 116/2021. (III. 10.) Korm. rendelet |
 | 2022-06-23 | 2012-52-20-22.12 | 225/2022. (VI. 22.) Korm. rendelet |
 | 2022-07-08 | 2012-52-20-22.13 | 225/2022. (VI. 22.) Korm. rendelet |
+| 2022-08-12 | 2012-52-20-22.14 | 311/2022. (VIII. 11.) Korm. rendelet |

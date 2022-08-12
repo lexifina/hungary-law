@@ -1,4 +1,4 @@
-## 6/A. [^19] A közbeszerzésekkel kapcsolatos engedélyek
+## 6/A. [^20] A közbeszerzésekkel kapcsolatos engedélyek
 
 13/A. § (1) A 3. § (4) bekezdése szerinti szerződés megkötésére vagy a már megkötött szerződés teljesítésének folytatására vonatkozó engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a szerződést kötni kívánó vagy a szerződésben részes, a közbeszerzési jogszabályok szerint ajánlatkérőnek minősülő fél nyújthatja be.
 
@@ -16,4 +16,4 @@ c) a 833/2014/EU tanácsi rendelet 5k. cikk (2) bekezdés a)–f) pontja szerint
 
 (5) Az e §-ban meghatározott korlátozásokra a 14. § (1) bekezdése és a 15. § (3) bekezdése nem alkalmazandó akkor, ha a jogsértés megállapítása a Közbeszerzési Döntőbizottság hatáskörébe tartozik.
 
-[^19]: A 6/A. alcímet (13/A. §) a 225/2022. (VI. 22.) Korm. rendelet 2. §-a iktatta be.
+[^20]: A 6/A. alcímet (13/A. §) a 225/2022. (VI. 22.) Korm. rendelet 2. §-a iktatta be.
