@@ -1,4 +1,4 @@
-3/A. §[^7] (1) A 2. § (1) bekezdése és a 3. § hatálya alá tartozó érintett személy köteles haladéktalanul tájékoztatni
+3/A. §[^8] (1) A 2. § (1) bekezdése és a 3. § hatálya alá tartozó érintett személy köteles haladéktalanul tájékoztatni
 
 a) a korábban őt foglalkoztató kormányzati igazgatási szervet az új jogviszony létesítéséről,
 
@@ -10,4 +10,4 @@ b) az új foglalkoztató szervet arról, hogy a 2. § (1) bekezdése vagy a 3. �
 
 (4) A Kttv. 69. § (5) bekezdésében foglaltakon felül a végkielégítésre jogosító idő számítása szempontjából kormányzati szolgálati jogviszonyban töltött időnek minősül a 2. § (3) bekezdése és a 3. § c) pontja alapján megállapított, korábbi jogviszony alapján végkielégítésre jogosító idő.
 
-[^7]: A 3/A. §-t a 206/2022. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
+[^8]: A 3/A. §-t a 206/2022. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
