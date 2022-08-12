@@ -10,7 +10,7 @@ a)[^2] végrehajtják a miniszter által kiadott hatósági ellenőrzési tervek
 
 b) közreműködnek a szakmai sajtómegjelenéssel kapcsolatos feladatok ellátásában,
 
-c)[^3] az elvégzett feladataikról közvetlenül, az országos tisztifőorvos egyidejű tájékoztatása mellett – a járási hivatal esetében a kormánymegbízott útján – tájékoztatják a minisztert,
+c)[^3] az elvégzett feladataikról közvetlenül, az országos tisztifőorvos egyidejű tájékoztatása mellett – a járási hivatal esetében a főispán útján – tájékoztatják a minisztert,
 
 (4) A kormányhivatalok és a járási hivatalok
 
@@ -32,7 +32,7 @@ h)[^7] az országos tisztifőorvos által kiadott feladataik elvégzéséről k�
 
 [^1]: Az 1. § (2) bekezdése a 116/2021. (III. 10.) Korm. rendelet 32. §-a szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés a) pontja a 162/2018. (IX. 10.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdés c) pontja a 162/2018. (IX. 10.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés c) pontja a 162/2018. (IX. 10.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 309/2022. (VIII. 11.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdés c) pontja a 79/2017. (IV. 7.) Korm. rendelet 7. §-ával megállapított, a 162/2018. (IX. 10.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^5]: Az 1. § (4) bekezdés f) pontját a 162/2018. (IX. 10.) Korm. rendelet 34. § (3) bekezdése iktatta be.
 [^6]: Az 1. § (4) bekezdés g) pontját a 162/2018. (IX. 10.) Korm. rendelet 34. § (3) bekezdése iktatta be.
