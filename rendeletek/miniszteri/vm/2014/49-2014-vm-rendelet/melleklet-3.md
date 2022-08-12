@@ -1,17 +1,11 @@
-3. melléklet a 49/2014. (IV. 29.) VM rendelethez
+3. melléklet a 49/2014. (IV. 29.) VM rendelethez[^6]
 
 Természetes eredetű ártalmas anyagokra vonatkozó határértékek
 
-|  | A. Természetes eredetű ártalmas anyag | B. Élelmiszercsoport, illetve élelmiszerfajta | C. Határérték |
+|  | A | B | C |
 
-| 1. | Szolanin-egyenérték | nyers, hámozatlan burgonya | 100 mg/kg |
+| 1. | Természetes eredetű ártalmas anyag | Élelmiszercsoport, élelmiszerfajta | Határérték |
 
-| 2. | Morfin | mákmag | 30 mg/kg |
+| 2. | Szolanin-egyenérték | nyers, hámozatlan burgonya | 100 mg/kg |
 
-| 3. | Narkotin | mákmag | 20 mg/kg |
-
-| 4. | Morfin + narkotin együtt | mákmag | 40 mg/kg |
-
-| 5. | Tebain | mákmag | 20 mg/kg |
-
-| 6. | Kodein | mákmag | 20 mg/kg |
+[^6]: A 3. mellékletet a 24/2022. (VIII. 9.) AM rendelet 1. §-ával megállapított szöveg.

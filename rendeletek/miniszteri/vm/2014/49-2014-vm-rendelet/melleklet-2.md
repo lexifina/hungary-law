@@ -1,9 +1,3 @@
-2. melléklet a 49/2014. (IV. 29.) VM rendelethez
+2. melléklet a 49/2014. (IV. 29.) VM rendelethez[^5]
 
-## Környezeti eredetű szennyezőanyagokra vonatkozó határértékek
-
-1. Csecsemők és kisgyermekek számára készült tápszer ólomtartalma
-
-| A. Élelmiszerfajta | B. Ólomtartalomra vonatkozó határérték teljes tömegre számolva (mg/kg) |
-
-| 1.1. Csecsemők és kisgyermekek számára készült speciális tápszer | 0,02 |
+[^5]: A 2. mellékletet a 24/2022. (VIII. 9.) AM rendelet 2. § d) pontja hatályon kívül helyezte.

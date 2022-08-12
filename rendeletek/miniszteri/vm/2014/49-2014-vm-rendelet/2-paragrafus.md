@@ -1,4 +1,4 @@
-## 1. § E rendelet alkalmazási köre egyes technológiai, környezeti eredetű szennyezőanyagokra, valamint természetes eredetű ártalmas anyagokra vonatkozó határértékekre és az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő egyes anyagokkal, tárgyakkal kapcsolatos követelményekre terjed ki.
+## 1. §[^1] E rendelet alkalmazási köre egyes technológiai szennyezőanyagokra, valamint természetes eredetű ártalmas anyagokra vonatkozó határértékekre és az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő egyes anyagokkal, tárgyakkal kapcsolatos követelményekre terjed ki.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -16,6 +16,9 @@
 
 7. technológiai eredetű szennyezőanyag: minden olyan szennyezőanyag, amely termelési és technikai eszközökből, berendezésekből, csomagoló- és tárolóedényekből rendeltetésszerű érintkezés során jut az élelmiszerbe, illetve a technológia hatására keletkezik az élelmiszerben, ideértve a termelési és technológiai műveletek során felhasznált tisztító- és fertőtlenítőszerekből, valamint segédanyagokból visszamaradt szennyezőanyagokat, amelyek ártalmasak lehetnek az ember egészségére;
 
-8. környezeti eredetű szennyezőanyag: minden olyan szennyezőanyag, amely a környezetből az élelmiszertermelés, feldolgozás, csomagolás, illetve raktározás során elkerülhetetlenül jut be az élelmiszerbe és ártalmas lehet az ember egészségére;
+8.[^2]
 
 9. természetes eredetű ártalmas anyag: az élelmiszer olyan természetes alkotórésze, amely eredeti mennyiségében vagy feldúsulás következtében az emberi egészségre ártalmas lehet.
+
+[^1]: Az 1. § a 24/2022. (VIII. 9.) AM rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 8. pontját a 24/2022. (VIII. 9.) AM rendelet 2. § b) pontja hatályon kívül helyezte.
