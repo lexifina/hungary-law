@@ -1,7 +1,5 @@
-1. A Kormány ügyrendjéről szóló 1352/2022. (VII. 21.) Korm. határozat 51. pont (1) bekezdése a következő i) ponttal egészül ki:
-
-(Az FKB tagja)
-
-„i) a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság vezérigazgatója vagy az általa delegált személy.”
+1.[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
