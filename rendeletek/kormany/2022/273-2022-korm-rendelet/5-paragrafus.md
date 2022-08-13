@@ -1,9 +1,5 @@
-## 4. §[^1]
-
 5. § (1) Ha a társaság e rendelet hatálybalépése napját megelőzően már bírósági nyilvántartásba bejegyzett KMRP vagy KMRP keretében létesített vagyonkezelő alapítvány vagy az MRP tv. 4. §-a szerint legalább megalakult KMRP részére társasági hozzájárulás biztosításáról (a továbbiakban: korábbi társasági hozzájárulás) döntött, további társasági hozzájárulás biztosítására a KMRP vagy az annak keretében létrehozott vagyonkezelő alapítvány kérelmére kerülhet sor.
 
 (2) A társaság a (2) bekezdés szerinti további társasági hozzájárulásról szóló – nyilvánosan működő részvénytársaság esetében a Ptk. 3:227. § (3) bekezdésében foglaltakkal összhangban hozott – döntésében a korábbi társasági hozzájárulásról szóló határozatától eltérő feltételeket is meghatározhat, idesértve azt is, hogy a társasági hozzájárulás teljesítését feltételhez nem köti.
 
 (3) A (2) bekezdés szerinti további társasági hozzájárulás mértéke egy naptári évben nem haladhatja meg a korábbi társasági hozzájárulásról szóló döntésben egy naptári évre meghatározott összeg, hosszabb időszakra meghatározott korábbi társasági hozzájárulás esetén annak összege egy naptári évre eső arányos részének száz százalékát. Ha több korábbi társasági hozzájárulásról szóló döntés került meghozatalra, a további társasági hozzájárulás összege meghatározásának alapja a korábbi társasági hozzájárulásról szóló első döntésben meghatározott összeg, tekintet nélkül ezen döntés későbbi módosítására vagy visszavonására. A további társasági hozzájárulás mértéke e rendelet hatálybalépése napjáig még ki nem fizetett, de korábbi társasági támogatásról szóló döntéssel érintett KMRP vagy a KMRP keretében létesített vagyonkezelő alapítvány esetében egy üzleti évben sem haladhatja meg a KMRP és az azt kezelő vagyonkezelő alapítvány üzleti évi működési, finanszírozási kiadásai, ráfordításai összegét.
-
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2022. augusztus 13-án lép hatályba.
