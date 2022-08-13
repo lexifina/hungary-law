@@ -1,5 +1,5 @@
 ## 3. § E rendelet rendelkezéseit az e rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-4. §[^1]
+4. § (1) A Kormány e rendelet hatályát a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról szóló 2022. évi VI. törvény hatályvesztéséig meghosszabbítja.
 
-[^1]: A 4. § a 2. § (2) bekezdése alapján 2022. augusztus 13-án lép hatályba.
+(2) Ez a rendelet a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról szóló 2022. évi VI. törvény hatályvesztésekor hatályát veszti.
