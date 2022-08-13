@@ -3,3 +3,5 @@
 a) szociális, gyermekvédelmi vagy gyermekjóléti szolgáltatónál, intézményben, hálózatnál vagy
 
 b) köznevelési vagy szakképző intézményben
+
+áll fenn.
