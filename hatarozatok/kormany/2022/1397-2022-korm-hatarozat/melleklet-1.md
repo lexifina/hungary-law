@@ -14,13 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat
-
-## a) 1. melléklet 7. pontjában foglalt táblázat C:4 mezőjében a „6,795” szövegrész helyébe a „6,765” szöveg,
-
-## b) 1. melléklet 7. pontjában foglalt táblázat C:8 mezőjében az „51,42” szövegrész helyébe az „51,45” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1397/2022. (VIII. 11.) Korm. határozathoz
 
@@ -31,3 +25,5 @@
 | 2. | GINOP-7.1.1-15- 2017-00033 | A tiszadobi Andrássy-kastély turisztikai célú fejlesztése | NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság | 1 315 117 390 | 193 945 859 | 1 509 063 249 | A projekt célja Tiszadob emblematikus épületének, az Andrássy-kastélynak, valamint a kastélyparknak a komplex turisztikai fejlesztése. |
 
 | 3. | GINOP-7.1.9-17- 2018-00024 | Hortobágy – Világörökségünk a Puszta | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető), Hortobágy Község Önkormányzata, Hortobágyi Nemzeti Park Igazgatóság, INNOVA Észak-Alföld Regionális Fejlesztési és Innovációs Ügynökség Nonprofit Korlátolt Felelősségű Társaság, Visit Hungary Nemzeti Turisztikai Szervezet Nonprofit Zártkörűen Működő Részvénytársaság, Magyar Turisztikai Szövetség Alapítvány, Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 2 999 999 990 | 29 999 999 | 3 029 999 989 | A projekt közvetlen célja, hogy a hortobágyi attrakciók alkalmasak legyenek a turisztikai aldesztinációk által kínált programcsomagokba integrálódni, azok számára kiegészítő elemként értéktöbbletet nyújtani. További cél Hortobágy kapcsán az egyedi világörökségi helyszín helyreállítása, megújítása. A beavatkozással megvalósulhat a hortobágyi világörökségi kínálat teljessé tétele, egy egész napos, prémium termék és élmény kialakítása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
