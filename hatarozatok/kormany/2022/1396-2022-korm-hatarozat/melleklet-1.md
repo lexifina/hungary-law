@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat
-
-## a) 1. melléklet 2. pontjában foglalt táblázat C:10 mezőjében a „64,20” szövegrész helyébe a „64,14” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:11 mezőjében a „25,29” szövegrész helyébe a „25,35” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1396/2022. (VIII. 11.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-2.3.3-15- 2016-00016 | Mágneses nulltér laboratórium létrehozása | Földfizikai és Űrtudományi Kutatóintézet (konzorciumvezető), Wigner Fizikai Kutatóközpont | 434 599 000 | 60 915 549 | 495 514 549 | A projekt célja egy elektromágnesesen „tiszta” laboratórium kialakítása a Széchenyi István Geofizikai Obszervatórium területén. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
