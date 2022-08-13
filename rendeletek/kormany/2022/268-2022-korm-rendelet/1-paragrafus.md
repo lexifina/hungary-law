@@ -28,7 +28,7 @@ m) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 n) hivatásos vagy szerződéses katonai szolgálati viszonyban
 
-## áll.
+áll.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően – a (4) bekezdés szerinti rendeletben foglalt kivétellel –
 
