@@ -58,7 +58,7 @@
 
 ## Határidő: folyamatos
 
-1. melléklet a 2071/2017. (XII. 28.) Korm. határozathoz
+1. melléklet a 2071/2017. (XII. 28.) Korm. határozathoz[^1]
 
 | Kedvezményezett neve | Projekt címe | Támogatás 2017 (Ft) | Támogatás 2018 (Ft) | Támogatás 2019 (Ft) | Támogatás 2020 (Ft) | Támogatás összesen (Ft) |
 
@@ -74,9 +74,9 @@
 
 | Szent Pál Akadémia | Hit Park területén könyvtár létrehozása | 364 159 800 |  |  |  | 364 159 800 |
 
-| Magyarországi Sajátjogú Metropolitai Egyház | A Görögkatolikus Metropólia fejlesztési céljainak támogatása |  | 2 800 000 000 |  |  | 2 800 000 000 |
+| Magyarországi Sajátjogú Metropolitai Egyház | A Görögkatolikus Metropólia fejlesztési céljainak támogatása |  | 3 157 844 200 |  |  | 3 157 844 200 |
 
-| Magyarországi Sajátjogú Metropolitai Egyház | Görögkatolikus templom és közösségi tér építése a fővárosban |  | 800 000 000 |  |  | 800 000 000 |
+| Magyarországi Sajátjogú Metropolitai Egyház | Görögkatolikus templom és közösségi tér építése a fővárosban |  | 442 155 800 |  |  | 442 155 800 |
 
 | Esztergom-Budapesti Főegyház- megye | Keleti egyházművészeti kiállítás a Nemzeti Múzeumban és az Eucharisztikus Kongresszushoz kapcsolódó egyéb görögkatolikus programok az országban |  | 200 000 000 |  |  | 200 000 000 |
 
@@ -89,3 +89,5 @@
 | Szlovákiai Református Keresztyén Egyház | Református beruházások és fejlesztések Felvidéken | 1 774 000 000 |  |  |  | 1 774 000 000 |
 
 | Összesen: | 3 432 190 000 | 6 999 802 960 | 1 048 950 000 | 390 075 000 | 11 871 017 960 |
+
+[^1]: Az 1. melléklet az 1404/2022. (VIII. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
