@@ -14,12 +14,13 @@
 
 ## Határidő: a 2. mellékletben foglaltak szerint
 
-## 5. felhívja a Miniszterelnökséget vezető minisztert a 4. pont szerinti feladat végrehajtásának ellenőrzésére.
+## 5.[^1] felhívja a területfejlesztési minisztert a 4. pont szerinti feladat végrehajtásának ellenőrzésére.
 
-## Felelős: Miniszterelnökséget vezető miniszter
+## Felelős: területfejlesztési miniszter
 
 ## Határidő: folyamatos
 
-1. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz[^1]
+1. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz[^2]
 
-[^1]: Az 1. melléklet az 1226/2022. (IV. 7.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 5. pont az 1402/2022. (VIII. 16.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1226/2022. (IV. 7.) Korm. határozat 1. pontjával megállapított szöveg.
