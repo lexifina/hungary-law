@@ -60,13 +60,13 @@
 
 ## Határidő: az a) alpont tekintetében a 3. pont a) alpontjában meghatározott forrás rendelkezésre állását követően azonnal a b) alpont tekintetében a 3. pont b) alpontjában meghatározott forrás rendelkezésre állását követően azonnal
 
-1. melléklet az 1874/2020. (XII. 2.) Korm. határozathoz
+1. melléklet az 1874/2020. (XII. 2.) Korm. határozathoz[^1]
 
 | Sor- szám | Kedvezményezett | Támogatási cél | Támogatási összeg (forint) |
 
 | 2020 | 2022 | 2023 | Összesen |
 
-| 1. | Biai Református Egyházközség | református iskola építése Biatorbágyon | 3 652 992 860 | 646 973 140 |  | 4 299 966 000 |
+| 1. | Dunamelléki Református Egyházkerület | református iskola építése Biatorbágyon | 3 652 992 860 | 646 973 140 |  | 4 299 966 000 |
 
 | 2. | Északpesti Református Egyházmegye | váci Bernáth Kálmán Református Gimnázium, Kereskedelmi és Vendéglátóipari Szakgimnázium és Szakközépiskola fejlesztése | 117 000 000 | 943 000 000 | 457 810 000 | 1 517 810 000 |
 
@@ -81,3 +81,5 @@
 | 7. | Budapest-Fasori Református Egyházközség | Budapest-fasori református templom felújításának folytatása | 1 347 339 000 |  |  | 1 347 339 000 |
 
 | 8. | Solymári Református Egyházközség | solymári református templom, parókia és közösségi termek fejlesztése, épületvásárlás | 110 955 000 |  |  | 110 955 000 |
+
+[^1]: Az 1. melléklet az 1404/2022. (VIII. 16.) Korm. határozat 2. pontja szerint módosított szöveg.
