@@ -18,15 +18,15 @@
 
 ## i) Egészségügy: Célunk a magyarok általános egészségi állapotának folyamatos javítása az egészségügyi szolgáltatások színvonalának emelésével és az infrastrukturális, humánerőforrás és informatikai feltételek fejlesztésével;
 
-## 2. felhívja a Miniszterelnökséget vezető minisztert, hogy a Helyreállítási és Ellenállóképességi Terv részleteinek kidolgozása érdekében az Európai Bizottsággal a szükséges egyeztetéseket folytassa le, továbbá az egyeztetések alapján a programterületek Helyreállítási és Ellenállóképességi Eszköz célkitűzéseihez illeszkedő tartalmának kialakítását koordinálja;
+## 2.[^1] felhívja a területfejlesztési minisztert, hogy a Helyreállítási és Ellenállóképességi Terv részleteinek kidolgozása érdekében az Európai Bizottsággal a szükséges egyeztetéseket folytassa le, továbbá az egyeztetések alapján a programterületek Helyreállítási és Ellenállóképességi Eszköz célkitűzéseihez illeszkedő tartalmának kialakítását koordinálja;
 
-## Felelős: Miniszterelnökséget vezető miniszter
+## Felelős: területfejlesztési miniszter
 
-## Határidő: 2021. március 31.
+## Határidő: 2022. november 30.
 
-## 3. felhívja a Miniszterelnökséget vezető minisztert, hogy koordinálja a Helyreállítási és Ellenállóképességi Tervben szereplő beavatkozások Helyreállítási és Ellenállóképességi Eszköz célkitűzéseihez illeszkedő tartalmának kialakítási munkálatait, és ennek keretében döntsön a megvalósítani kívánt fejlesztések támogatásáról;
+## 3.[^2] felhívja a területfejlesztési minisztert, hogy koordinálja a Helyreállítási és Ellenállóképességi Tervben szereplő beavatkozások Helyreállítási és Ellenállóképességi Eszköz célkitűzéseihez illeszkedő tartalmának kialakítási munkálatait, és ennek keretében döntsön a megvalósítani kívánt fejlesztések támogatásáról;
 
-## Felelős: Miniszterelnökséget vezető miniszter
+## Felelős: területfejlesztési miniszter
 
 ## Határidő: folyamatos
 
@@ -42,30 +42,37 @@
 
 ## Határidő: 2021. február 28.
 
-## 6. felhívja a szakpolitikai felelős minisztereket, hogy a Miniszterelnökséget vezető miniszter felé heti rendszerességgel szolgáltassanak adatot a Miniszterelnökséget vezető miniszter által megjelölt tartalommal.
+## 6.[^3] felhívja a szakpolitikai felelős minisztereket, hogy a területfejlesztési miniszter felé heti rendszerességgel szolgáltassanak adatot a területfejlesztési miniszter által megjelölt tartalommal.
 
 ## Felelős: az 1. melléklet szerinti miniszterek
 
 ## Határidő: az e kormányhatározat közzétételét követő 7. naptári naptól folyamatosan
 
-1. melléklet az 1037/2021. (II. 5.) Korm. határozathoz
+1. melléklet az 1037/2021. (II. 5.) Korm. határozathoz[^4]
 
-| Programterület neve | Szakpolitikai felelős |
+|  | A | B |
 
-| A. Demográfia és köznevelés | Miniszterelnökséget vezető miniszter / családokért felelős tárca nélküli miniszter az emberi erőforrások miniszterével együttműködve |
+| 1. | Programterület neve | Szakpolitikai felelős |
 
-| B. Egyetemek megújítása | innovációért és technológiáért felelős miniszter |
+| 2. | A. Demográfia és köznevelés | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve |
 
-| C. Felzárkózó települések és régiók | belügyminiszter |
+| 3. | B. Magasan képzett, versenyképes munkaerő | Kulturális és Innovációs Minisztérium a Technológiai és Ipari Minisztériummal együttműködve |
 
-| D. Vízgazdálkodás | agrárminiszter |
+| 4. | C. Felzárkózó települések | Belügyminisztérium |
 
-| E. Fenntartható zöld közlekedés | innovációért és technológiáért felelős miniszter / Miniszterelnökséget vezető miniszter |
+| 5. | D. Vízgazdálkodás | Belügyminisztérium az Agrárminisztérium bevonásával |
 
-| F. Energetika (zöld átállás) | innovációért és technológiáért felelős miniszter |
+| 6. | E. Fenntartható zöld közlekedés | Technológiai és Ipari Minisztérium |
 
-| G. Körforgásos gazdaság | innovációért és technológiáért felelős miniszter |
+| 7. | F. Energetika (zöld átállás) | Technológiai és Ipari Minisztérium |
 
-| H. Digitalizáció | innovációért és technológiáért felelős miniszter / a miniszterelnök kabinetfőnöke / belügyminiszter |
+| 8. | G. Átállás a körforgásos gazdaságra | Technológiai és Ipari Minisztérium |
 
-| I. Egészségügy | emberi erőforrások minisztere |
+| 9. | H. Egészségügy | Belügyminisztérium |
+
+| 10. | I. Horizontális intézkedések | területfejlesztési miniszter |
+
+[^1]: A 2. pont az 1402/2022. (VIII. 16.) Korm. határozat 2. pont 2.1. alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1402/2022. (VIII. 16.) Korm. határozat 2. pont 2.2. alpontja szerint módosított szöveg.
+[^3]: A 6. pont az 1402/2022. (VIII. 16.) Korm. határozat 2. pont 2.3. alpontja szerint módosított szöveg.
+[^4]: Az 1. melléklet az 1402/2022. (VIII. 16.) Korm. határozat 1. pontjával megállapított szöveg.
