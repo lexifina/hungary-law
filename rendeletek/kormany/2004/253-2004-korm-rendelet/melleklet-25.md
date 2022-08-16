@@ -54,8 +54,6 @@
 
 ## 2. a fogadó (végfelhasználó) harmadik ország illetékes hatósága által kiállított engedély hiteles másolata arról, hogy a kérelemben megjelölt eszköz behozatalát – az érvényességi idő megjelölésével – engedélyezi.
 
-25. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^303]
+25. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^305]
 
-20042220000253_1
-
-[^303]: A 25. számú mellékletet a 678/2021. (XII. 3.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^305]: A 25. számú mellékletet a 678/2021. (XII. 3.) Korm. rendelet 13. § (2) bekezdése iktatta be.

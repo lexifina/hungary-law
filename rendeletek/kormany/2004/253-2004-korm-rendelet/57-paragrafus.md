@@ -1,3 +1,3 @@
-## A jogszabály tervezetének egyeztetése[^273]
+## A jogszabály tervezetének egyeztetése[^275]
 
-[^273]: Az 57. §-t megelőző alcímet a 39/2012. (III. 12.) Korm. rendelet 27. §-a iktatta be.
+[^275]: Az 57. §-t megelőző alcímet a 39/2012. (III. 12.) Korm. rendelet 27. §-a iktatta be.

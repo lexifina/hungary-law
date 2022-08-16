@@ -1,22 +1,22 @@
-51. § (1)[^230] Az európai lőfegyvertartási engedély tartalmazza
+51. § (1)[^232] Az európai lőfegyvertartási engedély tartalmazza
 
 a) az engedély birtokosának természetes személyazonosító adatait, lakóhelyét;
 
-b)[^231] az egyedi jóváhagyást igénylő lőfegyver azonosító adatait (típusa, gyártója, gyártási száma, kaliberjele, kategóriájának és alkategóriájának megjelölése);
+b)[^233] az egyedi jóváhagyást igénylő lőfegyver azonosító adatait (típusa, gyártója, gyártási száma, kaliberjele, kategóriájának és alkategóriájának megjelölése);
 
-c)[^232] az engedély hatályosságát;
+c)[^234] az engedély hatályosságát;
 
-d)[^233] az engedélyező hatóság bejegyzéseit;
+d)[^235] az engedélyező hatóság bejegyzéseit;
 
 e) a meglátogatott tagállamok hatóságainak engedélyezési bejegyzéseire szolgáló rovatot;
 
-f)[^234] az Európai Unión belüli utazásra vonatkozó következő információkat:
+f)[^236] az Európai Unión belüli utazásra vonatkozó következő információkat:
 
-fa)[^235] az ezen okmányba bejegyzett egy vagy több tűzfegyverrel másik tagállamba történő beutazás joga a meglátogatni kívánt tagállam hatósága által a megfelelő tűzfegyverre kiadott engedélytől függ,
+fa)[^237] az ezen okmányba bejegyzett egy vagy több tűzfegyverrel másik tagállamba történő beutazás joga a meglátogatni kívánt tagállam hatósága által a megfelelő tűzfegyverre kiadott engedélytől függ,
 
-fb)[^236] általában nem szükséges előzetes engedély a „B” kategóriába tartozó tűzfegyverrel vadászaton vagy történelmi események felelevenítésében való részvétel, illetve a tűzfegyverrel sportlövészet céljából történő beutazáshoz, feltéve, hogy az utazó magánál tartja az európai lőfegyvertartási engedélyét, és igazolni tudja az utazás célját,
+fb)[^238] általában nem szükséges előzetes engedély a „B” kategóriába tartozó tűzfegyverrel vadászaton vagy történelmi események felelevenítésében való részvétel, illetve a tűzfegyverrel sportlövészet céljából történő beutazáshoz, feltéve, hogy az utazó magánál tartja az európai lőfegyvertartási engedélyét, és igazolni tudja az utazás célját,
 
-fc)[^237] a tagállamok dönthetnek úgy, hogy megtiltják vagy engedélyhez kötik területükön bizonyos tűzfegyverek megszerzését, tartását;
+fc)[^239] a tagállamok dönthetnek úgy, hogy megtiltják vagy engedélyhez kötik területükön bizonyos tűzfegyverek megszerzését, tartását;
 
 g) a tagállamok tájékoztatása alapján az f) pontban említett tilalmat, illetve engedélyhez kötöttséget;
 
@@ -26,20 +26,20 @@ i) a kiállító hatóság megnevezését, bélyegzőlenyomatát;
 
 j) az engedély kiállításának keltét.
 
-(2)[^238] Az európai lőfegyvertartási engedély meglétét igazoló hatósági igazolvány öt évig hatályos, hatályossága kérelemre alkalmanként további öt évre meghosszabbítható, ha az engedély kiadására vonatkozó feltételek – azok ismételt vizsgálata alapján – biztosítottak.
+(2)[^240] Az európai lőfegyvertartási engedély meglétét igazoló hatósági igazolvány öt évig hatályos, hatályossága kérelemre alkalmanként további öt évre meghosszabbítható, ha az engedély kiadására vonatkozó feltételek – azok ismételt vizsgálata alapján – biztosítottak.
 
-(3)[^239] Az európai lőfegyvertartási engedély nem ruházható át, azt az engedéllyel rendelkező személy az abba bejegyzett tűzfegyver birtoklása során köteles magánál tartani.
+(3)[^241] Az európai lőfegyvertartási engedély nem ruházható át, azt az engedéllyel rendelkező személy az abba bejegyzett tűzfegyver birtoklása során köteles magánál tartani.
 
-(4)[^240] Az európai lőfegyvertartási engedélybe bejegyzett lőfegyver birtoklásában, jellemzőiben bekövetkezett változásokat, valamint a lőfegyver elvesztését vagy ellopását az engedélyen fel kell tüntetni.
+(4)[^242] Az európai lőfegyvertartási engedélybe bejegyzett lőfegyver birtoklásában, jellemzőiben bekövetkezett változásokat, valamint a lőfegyver elvesztését vagy ellopását az engedélyen fel kell tüntetni.
 
-[^230]: Az 51. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^231]: Az 51. § (1) bekezdés b) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 24. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 50. pontja szerint módosított szöveg.
-[^232]: Az 51. § (1) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^233]: Az 51. § (1) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^234]: Az 51. § (1) bekezdés f) pont nyitó szövegrésze a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 51. pontja szerint módosított szöveg.
-[^235]: Az 51. § (1) bekezdés f) pont fa) alpontja a 326/2020. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^236]: Az 51. § (1) bekezdés f) pont fb) alpontja a 326/2020. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^237]: Az 51. § (1) bekezdés f) pont fc) alpontja a 326/2020. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^238]: Az 51. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^239]: Az 51. § (3) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 52. pontja szerint módosított szöveg.
-[^240]: Az 51. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 25. pont a) és b) pontja szerint módosított szöveg.
+[^232]: Az 51. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^233]: Az 51. § (1) bekezdés b) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 24. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 50. pontja szerint módosított szöveg.
+[^234]: Az 51. § (1) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^235]: Az 51. § (1) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^236]: Az 51. § (1) bekezdés f) pont nyitó szövegrésze a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 51. pontja szerint módosított szöveg.
+[^237]: Az 51. § (1) bekezdés f) pont fa) alpontja a 326/2020. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^238]: Az 51. § (1) bekezdés f) pont fb) alpontja a 326/2020. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^239]: Az 51. § (1) bekezdés f) pont fc) alpontja a 326/2020. (VII. 1.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^240]: Az 51. § (2) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^241]: Az 51. § (3) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 52. pontja szerint módosított szöveg.
+[^242]: Az 51. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 25. pont a) és b) pontja szerint módosított szöveg.
