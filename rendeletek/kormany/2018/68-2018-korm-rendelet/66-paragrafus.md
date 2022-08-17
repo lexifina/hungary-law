@@ -20,7 +20,9 @@ b)[^129] a tulajdonos a kutatás elhalasztása mellett dönt és kötelezettség
 
 (9)[^135] A bejelentés vagy az engedély iránti kérelem benyújtásával egyidejűleg igazolni kell, hogy a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményt adott.
 
-(10)[^136] Az (1)–(8) bekezdésben meghatározott dokumentációkat a műemléknek a tervezett tevékenységgel érintett ingatlanrészére vagy épületrészére vonatkozóan kell elkészíteni.
+(9a)[^136] Az örökségvédelmi hatóság az engedély iránti kérelmet elutasítja, ha a tervezett tevékenység az állami magasépítési beruházások megvalósításáról szóló törvény szerinti állami magasépítési beruházás (a továbbiakban: állami magasépítési beruházás) megvalósítására irányul, és azt az Országos Építészeti Tervtanács szakmai véleményében engedélyezésre nem ajánlotta.
+
+(10)[^137] Az (1)–(8) bekezdésben meghatározott dokumentációkat a műemléknek a tervezett tevékenységgel érintett ingatlanrészére vagy épületrészére vonatkozóan kell elkészíteni.
 
 [^127]: A 66. § (1) bekezdése az 58/2021. (II. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^128]: A 66. § (2) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 42. pontja szerint módosított szöveg.
@@ -31,4 +33,5 @@ b)[^129] a tulajdonos a kutatás elhalasztása mellett dönt és kötelezettség
 [^133]: A 66. § (7) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 49. pontja szerint módosított szöveg.
 [^134]: A 66. § (8) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 50-51. pontja szerint módosított szöveg.
 [^135]: A 66. § (9) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 72. §-a iktatta be.
-[^136]: A 66. § (10) bekezdését a 776/2021. (XII. 23.) Korm. rendelet 12. §-a iktatta be.
+[^136]: A 66. § (9a) bekezdését a 315/2022. (VIII. 16.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^137]: A 66. § (10) bekezdését a 776/2021. (XII. 23.) Korm. rendelet 12. §-a iktatta be.
