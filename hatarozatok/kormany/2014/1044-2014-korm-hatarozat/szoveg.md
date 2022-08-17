@@ -32,7 +32,7 @@ a) a Kormány
 
 aa) fogyasztóvédelemért,
 
-ab)[^1] európai uniós ügyek koordinációjáért,
+ab)[^2] európai uniós ügyek koordinációjáért,
 
 ac) egészségügyért,
 
@@ -52,21 +52,21 @@ aj) rendészetért
 
 felelős tagja által az adott feladatkörért való felelősségére tekintettel kijelölt vezetői munkakört betöltő kormánytisztviselő, továbbá
 
-b)[^2] a piacfelügyeleti hatóságok közül
+b)[^3] a piacfelügyeleti hatóságok közül
 
-ba) az Állami Egészségügyi Ellátó Központ,
+ba)[^4]
 
-bb) a Felvonó és Mozgólépcső Felügyelet,
+bb)[^5] a Nemzeti Népegészségügyi Központ,
 
 bc) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet,
 
-bd) a Magyar Bányászati és Földtani Hivatal,
+bd)[^6] a Szabályozott Tevékenységek Felügyeleti Hatósága,
 
 be) a gazdasági célfelhasználású termékek tekintetében piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala,
 
 bf) a Nemzeti Adó- és Vámhivatal,
 
-bg) a fogyasztóvédelmi hatáskörében eljáró Pest Megyei Kormányhivatal,
+bg)[^7]
 
 bh) a közlekedési feladatkörében eljáró Budapest Főváros Kormányhivatala,
 
@@ -96,7 +96,7 @@ c) lemondással.
 
 10. A Munkacsoport tagjait és az ülésen részt vevőket díjazás, költségtérítés nem illeti meg.
 
-11.[^3] A Munkacsoport szükség szerint, de legalább évente egy alkalommal ülésezik.
+11.[^8] A Munkacsoport szükség szerint, de legalább évente egy alkalommal ülésezik.
 
 12. A Munkacsoport működésének részletes szabályait a Munkacsoport ügyrendje állapítja meg.
 
@@ -108,6 +108,14 @@ c) lemondással.
 
 16. A Munkacsoport tagjainak felkéréséről az elnök a határozat hatálybalépését követő 30 napon belül gondoskodik.
 
-[^1]: Az 5. pont a) pont ab) alpontja az 1752/2014. (XII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 5. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 42. pontjával megállapított szöveg.
-[^3]: A 11. pont az 1853/2016. (XII. 27.) Korm. határozat 43. pontja szerint módosított szöveg.
+17.[^9] A Munkacsoport 5. pont b) alpont bb) pontja szerinti tagjának felkéréséről a Tanács elnöke a Piacfelügyeleti Munkacsoportról szóló 1044/2014. (II. 7.) Korm. határozat módosításáról szóló 1401/2022. (VIII. 16.) Korm. határozat hatálybalépését[^10] követő 30 napon belül gondoskodik.
+
+[^2]: Az 5. pont a) pont ab) alpontja az 1752/2014. (XII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 42. pontjával megállapított szöveg.
+[^4]: Az 5. pont b) alpont ba) pontját az 1401/2022. (VIII. 16.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^5]: Az 5. pont b) alpont bb) pontja az 1401/2022. (VIII. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: Az 5. pont b) alpont bd) pontja az 1401/2022. (VIII. 16.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: Az 5. pont b) alpont bg) pontját az 1401/2022. (VIII. 16.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^8]: A 11. pont az 1853/2016. (XII. 27.) Korm. határozat 43. pontja szerint módosított szöveg.
+[^9]: A 17. pontot az 1401/2022. (VIII. 16.) Korm. határozat 4. pontja iktatta be.
+[^10]: A hatálybalépés időpontja 2022. augusztus 17.
