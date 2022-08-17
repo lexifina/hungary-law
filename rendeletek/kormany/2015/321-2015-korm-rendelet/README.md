@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-321-20-
 | 2021-03-01 | 2015-321-20-22.11 | 40/2021. (II. 2.) Korm. rendelet |
 | 2021-07-01 | 2015-321-20-22.12 | 40/2021. (II. 2.) Korm. rendelet |
 | 2021-09-01 | 2015-321-20-22.13 | 503/2021. (VIII. 18.) Korm. rendelet |
+| 2022-08-17 | 2015-321-20-22.14 | 317/2022. (VIII. 16.) Korm. rendelet |

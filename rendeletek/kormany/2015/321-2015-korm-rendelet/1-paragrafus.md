@@ -12,16 +12,20 @@
 
 (4) A III. és IV. Fejezetben említett igazolási módok az V. Fejezetnek megfelelőn kiválthatók, ha az érintett gazdasági szereplő minősített ajánlattevői jegyzéken való szerepléssel bizonyítja, hogy megfelel a közbeszerzési eljárásban előírt követelményeknek.
 
-(5) Nem Magyarországon letelepedett gazdasági szereplő esetén az ajánlatkérő az igazolások hitelességét a VI. Fejezetnek megfelelően jogosult ellenőrizni.
+(5)[^4]
 
 (6) A közbeszerzési műszaki leírást a VII. Fejezetnek megfelelően kell összeállítani.
 
-(7)[^4] A kizáró okokra és az alkalmassági követelményekre vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő – ellenkező bizonyításig – az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.
+(7)[^5] A kizáró okokra és az alkalmassági követelményekre vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő – ellenkező bizonyításig – az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.
 
-(8)[^5] Részekre történő ajánlattétel esetén nem kérhető a gazdasági szereplőtől olyan nyilatkozat vagy igazolás benyújtása, amelyet ugyanazon közbeszerzési eljárás valamely része tekintetében a gazdasági szereplő már benyújtott. Ebben az esetben a gazdasági szereplő nyilatkozik arról, hogy mely rész tekintetében benyújtott nyilatkozatot vagy igazolást kéri figyelembe venni a bírálat során.
+(8)[^6] Részekre történő ajánlattétel esetén nem kérhető a gazdasági szereplőtől olyan nyilatkozat vagy igazolás benyújtása, amelyet ugyanazon közbeszerzési eljárás valamely része tekintetében a gazdasági szereplő már benyújtott. Ebben az esetben a gazdasági szereplő nyilatkozik arról, hogy mely rész tekintetében benyújtott nyilatkozatot vagy igazolást kéri figyelembe venni a bírálat során.
+
+(9)[^7] Az ajánlattevőnek vagy részvételre jelentkezőnek az ajánlatában, illetve részvételi jelentkezésében, annak uniós értékhatárt elérő becsült értékű közbeszerzési eljárásban történő benyújtásakor nyilatkoznia kell arról, hogy ajánlata, illetve részvételi jelentkezése tekintetében fennáll-e az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 5k. cikk (1) bekezdésében meghatározott, a közbeszerzési vagy koncessziós szerződés odaítélésére vonatkozó tilalom. Az ajánlatkérő köteles a közbeszerzési dokumentumokban erre a kötelezettségre utalni.
 
 [^1]: Az 1. § (1) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 9/2020. (I. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^3]: Az 1. § (3a) bekezdését a 40/2021. (II. 2.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. § (7) bekezdését a 481/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
-[^5]: Az 1. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^4]: Az 1. § (5) bekezdését a 317/2022. (VIII. 16.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (7) bekezdését a 481/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
+[^6]: Az 1. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^7]: Az 1. § (9) bekezdését a 317/2022. (VIII. 16.) Korm. rendelet 3. §-a iktatta be.
