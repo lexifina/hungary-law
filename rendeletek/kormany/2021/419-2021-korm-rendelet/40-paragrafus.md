@@ -2,11 +2,11 @@
 
 ## 25. A miniszter előzetes véleményezési jogköre
 
-40. § (1) A Kormány a központi költségvetési szervek által tervezett, valamint a 41. § szerinti építési beruházások vázlatterveinek, építészeti-műszaki, illetve kivitelezési dokumentációnak országkép- és településkép-védelmi szempontú előzetes véleményezésére (a továbbiakban: előzetes településképi vélemény kialakítása) a minisztert jelöli ki.
+40. § (1)[^2] A Kormány az állami magasépítési beruházások megvalósításáról szóló törvény szerinti állami magasépítési beruházás (a továbbiakban: állami magasépítési beruházás), valamint a 41. § szerinti építési beruházások (a továbbiakban együtt: építési beruházás) vázlatterveinek, építészeti-műszaki, illetve kivitelezési dokumentációnak országkép- és településkép-védelmi szempontú előzetes véleményezésére (a továbbiakban: előzetes településképi vélemény kialakítása) a minisztert jelöli ki.
 
 (2) A miniszter (1) bekezdés szerinti előzetes véleményezési jogköre nem terjed ki
 
-a) a helyi önkormányzat építési beruházására,
+a)[^3] a helyi önkormányzat állami magasépítési beruházásnak nem minősülő építési beruházására,
 
 b) a kiemelt nemzeti emlékhelyen megvalósított építési beruházásra.
 
@@ -36,6 +36,8 @@ e) a tervezett építési beruházás által érintett ingatlan vagy ingatlanok 
 
 (7) A miniszter a (6) bekezdés szerinti hiánytalan feltöltést követő munkanaptól számított 15 napon belül az ÉTDR-en keresztül küldi meg előzetes településképi véleményét a beruházó részére.
 
+(7a)[^4] A miniszter az előzetes településképi véleménye kialakítása során szakértőként bevonhatja a központi építészeti-műszaki tervtanácsot.
+
 (8) Ha a miniszter a (7) bekezdésben foglalt határidőn belül nem nyilvánít véleményt, az előzetes településképi hozzájárulást megadottnak kell tekinteni.
 
 (9) Ha a beruházó az építési beruházásban tervezett építmény külső megjelenését – tömegformálását, anyaghasználatát, homlokzati kialakítását – a vázlatterv (5) bekezdés szerinti megküldését követően módosítani kívánja, a miniszter előzetes településképi véleményének kialakítása érdekében a módosított vázlattervet vagy a módosítást bemutató építészeti-műszaki vagy kivitelezési dokumentációt az (5) és (6) bekezdések alkalmazásával megküldi. A beruházás a miniszter előzetes településképi hozzájárulása birtokában folytatható tovább.
@@ -47,3 +49,7 @@ a) rövid építészeti-műszaki leírást,
 b) helyszínrajzot a telepítés, a településképbe és környezetbe illeszkedés, a beépítés bemutatásával, a szomszédos építmények és jellemző terepviszonyok feltüntetésével,
 
 c) az esztétikus megjelenést – tömegalakítást, színezést, anyaghasználatot, a rálátást – bemutató, továbbá a környezetbe illeszkedést és a településkép-védelmet alátámasztó valamennyi homlokzatot, látványtervet vagy fotómontázst.
+
+[^2]: A 40. § (1) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^3]: A 40. § (2) bekezdés a) pontja a 315/2022. (VIII. 16.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^4]: A 40. § (7a) bekezdését a 315/2022. (VIII. 16.) Korm. rendelet 7. § (2) bekezdése iktatta be.
