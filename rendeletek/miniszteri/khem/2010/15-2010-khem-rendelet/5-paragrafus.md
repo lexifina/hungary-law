@@ -14,6 +14,8 @@ f) javaslattétel a területi (megyei, kistérségi) kiegészítő források ala
 
 g) közreműködés a menetrend előkészítésére vonatkozó jogszabályi kötelezettségeknek, valamint a menetrendi felhívásnak és menetrendi koncepciónak megfelelően az érintett közlekedési szolgáltatókkal, a szomszédos régiókkal, valamint a miniszterrel együttműködve a régió közösségi közlekedésére vonatkozó menetrend előkészítésében.
 
-(2) Az RKSZ a KTI–RKI szakmai támogatásával látja el feladatát.
+(2)[^4] Az RKSZ az országos közlekedésszervező illetékes regionális irodája szakmai támogatásával látja el feladatát.
 
 (3) Az RKSZ ügyrendjét maga alkotja meg és a miniszter hagyja jóvá.
+
+[^4]: Az 5. § (2) bekezdése a 14/2022. (VIII. 16.) TIM rendelet 1. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 18. §[^3]
+## 18. §[^14]
 
 1. melléklet a 15/2010. (III. 5.) KHEM rendelethez
 
@@ -18,4 +18,4 @@
 
 7. Dél-dunántúli Regionális Közlekedési Szakbizottság a Dél-dunántúli Régió vonatkozásában.
 
-[^3]: A 18. § ugyanezen § alapján hatályát vesztette.
+[^14]: A 18. § ugyanezen § alapján hatályát vesztette.
