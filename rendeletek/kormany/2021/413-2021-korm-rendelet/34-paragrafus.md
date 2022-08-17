@@ -10,6 +10,6 @@ a) folyamatos elbírálás esetén az erről szóló közlemény közzétételé
 
 b) szakaszos elbírálás esetén a szakasz zárását követő naptól
 
-## lehet, azzal, hogy az erről szóló közleményt a szakasz lezárása előtt legalább nyolc nappal közzé kell tenni.
+lehet, azzal, hogy az erről szóló közleményt a szakasz lezárása előtt legalább nyolc nappal közzé kell tenni.
 
 (3) A nemzeti hatóság az (1) bekezdés szerinti döntéséről közleményt készít és tesz közzé.

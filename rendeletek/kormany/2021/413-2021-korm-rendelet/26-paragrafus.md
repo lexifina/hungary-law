@@ -6,6 +6,6 @@ a) a HET-ről és annak részét képező előfinanszírozási igényről normat
 
 b) a HET intézkedési listáról egyedi kormányhatározatban
 
-## dönt.
+dönt.
 
 (2) A Kormány elutasító döntése esetén a nemzeti hatóság gondoskodik a HET és a kapcsolódó HET intézkedési lista 23. § és a 24. § szerinti átdolgozásáról és jóváhagyásra történő ismételt benyújtásáról az FKB és a Kormány számára.

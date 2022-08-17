@@ -1,6 +1,6 @@
 ## 58. § A projektek nyilvántartására az Európai Bizottság által működtetett elektronikus felületet az Európai Bizottság által előírt szabály- és feltételrendszer szerint kell használni.
 
-## 20/A. [^22] Társadalmi konzultáció
+## 20/A. [^30] Társadalmi konzultáció
 
 58/A. § (1) A nemzeti hatóság társadalmi konzultációra vonatkozó stratégiát készít, amely magában foglalja a Monitoring Bizottság létrehozásának feladatát és a társadalmi egyeztetés lépéseinek meghatározását.
 
@@ -10,4 +10,4 @@
 
 (4) A társadalmi egyeztetés során beérkezett észrevételek figyelembevételével a nemzeti hatóság a szakpolitikai felelős bevonásával véglegesíti a felhívást.
 
-[^22]: A 20/A. alcímet (58/A. §-t) a 796/2021. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^30]: A 20/A. alcímet (58/A. §-t) a 796/2021. (XII. 27.) Korm. rendelet 6. §-a iktatta be.

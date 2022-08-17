@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 85. § Az egyes állami támogatási kategóriák vonatkozásában támogatás a 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet [a továbbiakban: 255/2014. (X. 10.) Korm. rendelet] 2. és 3. alcíme, III. Fejezete, valamint
 
 1. regionális beruházási támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 11. alcíme,
@@ -34,21 +32,23 @@
 
 16. halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 24. alcíme
 
-17.[^54] hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 28. alcíme,
+17.[^63] hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 28. alcíme,
 
-18.[^55] megváltozott munkaképességű munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 26. alcíme,
+18.[^64] megváltozott munkaképességű munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 26. alcíme,
 
-19.[^56] megváltozott munkaképességű munkavállalók foglalkoztatásával járó többletköltségek ellentételezéséhez nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 27. alcíme,
+19.[^65] megváltozott munkaképességű munkavállalók foglalkoztatásával járó többletköltségek ellentételezéséhez nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 27. alcíme,
 
-20.[^57] hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 29. alcíme,
+20.[^66] hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 29. alcíme,
 
-21.[^58] átmeneti támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/A. alcíme
+21.[^67] átmeneti támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/A. alcíme
 
-22.[^59] válságtámogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/D. alcíme
+22.[^68] válságtámogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/D. alcíme
 
-[^54]: A 85. § 17. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^55]: A 85. § 18. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^56]: A 85. § 19. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^57]: A 85. § 20. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^58]: A 85. § 21. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^59]: A 85. § 22. pontját a 240/2022. (VI. 30.) Korm. rendelet 18. §-a iktatta be.
+szerint nyújtható.
+
+[^63]: A 85. § 17. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^64]: A 85. § 18. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^65]: A 85. § 19. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^66]: A 85. § 20. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^67]: A 85. § 21. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^68]: A 85. § 22. pontját a 240/2022. (VI. 30.) Korm. rendelet 18. §-a iktatta be.

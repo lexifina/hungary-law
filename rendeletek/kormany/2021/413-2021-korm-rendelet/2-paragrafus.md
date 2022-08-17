@@ -4,7 +4,7 @@
 
 1. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti támogatás,
 
-1a.[^1] belső értékelő: az a személy, akit a nemzeti hatóság jogosultsági ellenőrzés vagy tartalmi értékelés elvégzésére felkér,
+1a.[^2] belső értékelő: az a személy, akit a nemzeti hatóság jogosultsági ellenőrzés vagy tartalmi értékelés elvégzésére felkér,
 
 2. csalás: a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet [a továbbiakban: 256/2021. (V. 18.) Korm. rendelet] 3. § 3. pontja szerinti fogalom,
 
@@ -24,9 +24,9 @@
 
 10. monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet által szabályozott rendszer,
 
-11. nemzeti hatóság: a tagállami kedvezményezetti feladatokat ellátó, a HET hazai végrehajtását koordináló, az 1. mellékletben kijelölt szervezet,
+11.[^3]
 
-12.[^2] nyilvánvaló hiba: a támogatást igénylő vagy a kedvezményezett által a támogatási kérelemben vagy a kifizetési kérelemben szolgáltatott adat olyan egyértelmű hiánya vagy hibája, amely a támogatási kérelem vagy a kifizetési kérelem más adataiból vagy más, közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra való felszólítás nélkül pótolható vagy javítható,
+12.[^4] nyilvánvaló hiba: a támogatást igénylő vagy a kedvezményezett által a támogatási kérelemben vagy a kifizetési kérelemben szolgáltatott adat olyan egyértelmű hiánya vagy hibája, amely a támogatási kérelem vagy a kifizetési kérelem más adataiból vagy más, közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra való felszólítás nélkül pótolható vagy javítható,
 
 13. pályázó: a HET megvalósítását szolgáló intézkedések végrehajtására pályázatot benyújtó jogi vagy természetes személy,
 
@@ -38,5 +38,6 @@
 
 17. végső kedvezményezett: a HET megvalósítását szolgáló intézkedéseket támogatási szerződés alapján végrehajtó jogi vagy természetes személy.
 
-[^1]: A 2. § 1a. pontját a 46/2022. (II. 17.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^2]: A 2. § 12. pontja a 46/2022. (II. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § 1a. pontját a 46/2022. (II. 17.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 2. § 11. pontját a 318/2022. (VIII. 16.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § 12. pontja a 46/2022. (II. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

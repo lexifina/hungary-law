@@ -8,12 +8,14 @@ a) irányító hatóságon a nemzeti hatóságot,
 
 b) pályázón, illetve kedvezményezetten a végső kedvezményezettet
 
-## kell érteni.
+kell érteni.
 
-(3)[^21] A közbeszerzési eljárások ellenőrzésére a 256/2021. (V. 18.) Korm. rendelet 530. §-át azzal az eltéréssel kell alkalmazni, hogy
+(3)[^29] A közbeszerzési eljárások ellenőrzésére a 256/2021. (V. 18.) Korm. rendelet 530. §-át azzal az eltéréssel kell alkalmazni, hogy
 
 a) programon a HET-et és
 
 b) szakmailag a közbeszerzési eljárás tárgyának megfelelő feladatokat ellátó irányító hatóságon a nemzeti hatóságot
 
-[^21]: Az 52. § (3) bekezdését a 487/2021. (VIII. 13.) Korm. rendelet 6. §-a iktatta be.
+kell érteni.
+
+[^29]: Az 52. § (3) bekezdését a 487/2021. (VIII. 13.) Korm. rendelet 6. §-a iktatta be.

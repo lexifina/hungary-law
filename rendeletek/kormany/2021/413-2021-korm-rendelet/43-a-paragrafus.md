@@ -1,4 +1,4 @@
-## 16/A. [^16] Továbbadott támogatás szabályai
+## 16/A. [^24] Továbbadott támogatás szabályai
 
 43/A. § (1) A nemzeti hatóság kiemelt kiválasztási eljárásrend keretében továbbadott támogatást kihelyező szervet választhat ki a HET meghatározott intézkedésének támogatás továbbadásával történő megvalósítása céljából.
 
@@ -12,7 +12,7 @@ c) a támogatások felhasználásának ellenőrzésével, a közbeszerzési elj�
 
 d) a támogatások odaítélésével és felhasználásával kapcsolatban meghozott döntésekkel szemben benyújtott jogorvoslati kérelmekkel
 
-## összefüggő feladatokat.
+összefüggő feladatokat.
 
 (3) A más jogi vagy természetes személynek továbbadott támogatás szabályos felhasználásáért a támogatást kihelyező szerv mint végső kedvezményezett felel.
 
@@ -24,7 +24,7 @@ d) a támogatások odaítélésével és felhasználásával kapcsolatban meghoz
 
 (7) A továbbadott támogatás támogatási előlegnek minősül.
 
-(8)[^17] A továbbadott támogatásból megvalósuló közbeszerzési eljárások ellenőrzését a támogatást kihelyező szerv és az európai uniós források felhasználásáért felelős miniszter végzi a 256/2021. (V. 18.) Korm. rendelet IX. Fejezete szerint. A továbbadott támogatásból megvalósuló közbeszerzési eljárások ellenőrzése tekintetében a támogatást kihelyező szerv feladatai megegyeznek az irányító hatóság 256/2021. (V. 18.) Korm. rendelet IX. Fejezetében meghatározott feladataival.
+(8)[^25] A továbbadott támogatásból megvalósuló közbeszerzési eljárások ellenőrzését a támogatást kihelyező szerv és az európai uniós források felhasználásáért felelős miniszter végzi a 256/2021. (V. 18.) Korm. rendelet IX. Fejezete szerint. A továbbadott támogatásból megvalósuló közbeszerzési eljárások ellenőrzése tekintetében a támogatást kihelyező szerv feladatai megegyeznek az irányító hatóság 256/2021. (V. 18.) Korm. rendelet IX. Fejezetében meghatározott feladataival.
 
-[^16]: A 16/A. alcímet (43/A. §-t) a 796/2021. (XII. 27.) Korm. rendelet 4. §-a iktatta be.
-[^17]: A 43/A. § (8) bekezdése a 46/2022. (II. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 16/A. alcímet (43/A. §-t) a 796/2021. (XII. 27.) Korm. rendelet 4. §-a iktatta be.
+[^25]: A 43/A. § (8) bekezdése a 46/2022. (II. 17.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -16,13 +16,15 @@ f) biztosítja a meghirdetendő felhívások szakmai tartalmának meghatározás
 
 g) részt vesz a felelősségi körébe tartozó konstrukciók döntés-előkészítő bizottságaiban,
 
-h)[^6] gondoskodik az európai uniós források felhasználásáért felelős miniszter felé történő adatszolgáltatásról az európai uniós források felhasználásáért felelős miniszter által megjelölt rendszerességgel és tartalommal, valamint
+h)[^9] gondoskodik az európai uniós források felhasználásáért felelős miniszter felé történő adatszolgáltatásról az európai uniós források felhasználásáért felelős miniszter által megjelölt rendszerességgel és tartalommal, valamint
 
-i)[^7] a pályázat tartalmi értékeléséhez értékelőt biztosít.
+i)[^10] a pályázat tartalmi értékeléséhez értékelőt biztosít.
 
-(2) A szakpolitikai felelősöket az 1. melléklet határozza meg.
+(2)[^11] A szakpolitikai felelősöket az 1. mellékletben foglalt táblázat D oszlopa határozza meg.
 
-(3) Ha egy programterületért több szakpolitikai felelős felel, az (1) bekezdés szerinti feladatokért az 1. mellékletben az adott programterület szakmai koordinációjára kijelölt miniszter jogosult.
+(3)[^12] Ha egy programterületért több szakpolitikai felelős felel, az (1) bekezdés szerinti feladatokért az 1. mellékletben foglalt táblázat C oszlopában az adott programterület szakmai koordinációjára kijelölt miniszter jogosult.
 
-[^6]: A 11. § (1) bekezdés h) pontja a 796/2021. (XII. 27.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^7]: A 11. § (1) bekezdés i) pontját a 796/2021. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 11. § (1) bekezdés h) pontja a 796/2021. (XII. 27.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^10]: A 11. § (1) bekezdés i) pontját a 796/2021. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 11. § (2) bekezdése a 318/2022. (VIII. 16.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^12]: A 11. § (3) bekezdése a 318/2022. (VIII. 16.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

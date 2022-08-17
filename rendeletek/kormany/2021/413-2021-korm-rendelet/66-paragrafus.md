@@ -6,7 +6,7 @@
 
 66. § (1) A pályázó vagy a végső kedvezményezett a pályázat benyújtásának időpontjától a támogatási jogviszony időtartama alatt valamely folyamatot, részfolyamatot lezáró döntés ellen kifogást nyújthat be, ha a pályázati eljárásra, a támogatási igény befogadására, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetésből nyújtott támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő, vagy a felhívásba, illetve a támogatási szerződésbe ütközik.
 
-(2)[^27] A kifogás benyújtására a kifogásolt döntést hozó szervnél a kifogásolt intézkedésről való tudomásszerzéstől számított tíz napon belül egy alkalommal, az indokok megjelölésével van lehetőség.
+(2)[^36] A kifogás benyújtására a kifogásolt döntést hozó szervnél a kifogásolt intézkedésről való tudomásszerzéstől számított tíz napon belül egy alkalommal, az indokok megjelölésével van lehetőség.
 
 (3) Kifogás benyújtásának nincs helye
 
@@ -18,10 +18,10 @@ c) hiánypótlási felhívás vagy tisztázó kérdés, valamint
 
 d) az e rendelet hatálya alá tartozó valamely szerv által kiadott minőségellenőrzési jelentés, tanúsítvány, utóellenőrzési jelentés
 
-## ellen.
+ellen.
 
 (4) A kifogás elbírálásáig a kifogásban foglaltakkal összefüggő eljárási határidők nyugszanak.
 
 (5) A kifogást elbíráló szerv kizárólag a kifogásolt döntést, valamint az azt megalapozó eljárás azon elemeit, megállapításait vizsgálhatja, amelyeket a kifogás vitat.
 
-[^27]: A 66. § (2) bekezdése a 796/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^36]: A 66. § (2) bekezdése a 796/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.

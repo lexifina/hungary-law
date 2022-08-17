@@ -9,3 +9,5 @@ a) irányító hatóságon a nemzeti hatóságot,
 b) közreműködő szervezeten a lebonyolító szervet, valamint
 
 c) kedvezményezetten a végső kedvezményezettet
+
+kell érteni.

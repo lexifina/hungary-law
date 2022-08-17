@@ -1,10 +1,10 @@
 ## 80. § A támogatás jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása, a végső kedvezményezettel szemben megállapított szabálytalanság, továbbá a támogatás visszavonása, a támogatási szerződéstől történő elállás vagy annak felmondása esetén a végső kedvezményezett a jogosulatlanul igénybe vett támogatást köteles visszafizetni.
 
-80/A. §[^33] (1) A követeléskezelés során az Ávr. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+80/A. §[^42] (1) A követeléskezelés során az Ávr. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) Követelést kell előírni
 
-a)[^34] ha a szabálytalansági eljárás eredményeként vagy szabálytalansági eljárás mellőzésével szabálytalanság kerül megállapításra, amely pénzügyi korrekciót fogalmaz meg,
+a)[^43] ha a szabálytalansági eljárás eredményeként vagy szabálytalansági eljárás mellőzésével szabálytalanság kerül megállapításra, amely pénzügyi korrekciót fogalmaz meg,
 
 b) ha a támogatási szerződéstől bármelyik fél elállt, és már sor került támogatás kifizetésére,
 
@@ -44,7 +44,7 @@ k) projektátadás esetén, előleg jogcímen, ha a projektátadó végső kedve
 
 (3) A végső kedvezményezettel szemben egyidejűleg több követelés is előírható.
 
-(4)[^35] A 80/A. § (2) bekezdés a) pontja szerinti követelés egyoldalú támogatási szerződésmódosítással csökkenti a projekt megítélt támogatását. A visszakövetelt támogatási összeget a kedvezményezett nem használhatja fel újra. Szabálytalansági jogcím esetén, a szabálytalansági döntést követően a követelés előírható.
+(4)[^44] A 80/A. § (2) bekezdés a) pontja szerinti követelés egyoldalú támogatási szerződésmódosítással csökkenti a projekt megítélt támogatását. A visszakövetelt támogatási összeget a kedvezményezett nem használhatja fel újra. Szabálytalansági jogcím esetén, a szabálytalansági döntést követően a követelés előírható.
 
 (5) A követelés előírása után további kifizetés nem teljesíthető a végső kedvezményezett részére, továbbá a követeléssel érintett szerződés vonatkozásában. A követelés előírását követően a végső kedvezményezett által benyújtott, számlát nem tartalmazó záró kifizetési igénylés nem hagyható jóvá, míg a kedvezményezett vissza nem fizeti a követelt összeget.
 
@@ -54,13 +54,15 @@ k) projektátadás esetén, előleg jogcímen, ha a projektátadó végső kedve
 
 (8) Ha a követelés a kompenzálással nem teljesül, a további kompenzálás a kedvezményezett értesítése után vagy az Ávr. 99. §-ában foglaltak szerint részletfizetés engedélyezése esetén a futamidő alatt is lehetséges.
 
-(9)[^36] A 80. § és az (1)–(8) bekezdés figyelembevételével a követeléskezelésre a 256/2021. (V. 18.) Korm. rendelet 102. alcímét – a 418. §, valamint a 421. § a), e) és f) pontja kivételével – kell alkalmazni, azzal az eltéréssel, hogy
+(9)[^45] A 80. § és az (1)–(8) bekezdés figyelembevételével a követeléskezelésre a 256/2021. (V. 18.) Korm. rendelet 102. alcímét – a 418. §, valamint a 421. § a), e) és f) pontja kivételével – kell alkalmazni, azzal az eltéréssel, hogy
 
 a) irányító hatóságon a nemzeti hatóságot, valamint
 
 b) kedvezményezetten a végső kedvezményezettet
 
-[^33]: A 80/A. §-t a 796/2021. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
-[^34]: A 80/A. § (2) bekezdés a) pontja a 46/2022. (II. 17.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^35]: A 80/A. § (4) bekezdése a 46/2022. (II. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^36]: A 80/A. § (9) bekezdését a 46/2022. (II. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+kell érteni.
+
+[^42]: A 80/A. §-t a 796/2021. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^43]: A 80/A. § (2) bekezdés a) pontja a 46/2022. (II. 17.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^44]: A 80/A. § (4) bekezdése a 46/2022. (II. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^45]: A 80/A. § (9) bekezdését a 46/2022. (II. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be.

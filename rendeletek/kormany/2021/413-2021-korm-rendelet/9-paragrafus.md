@@ -43,3 +43,7 @@ i) a támogatások kifizetéséről.
 (3) Lebonyolító szerv kijelölése esetén a nemzeti hatóság rendszeresen ellenőrzi a lebonyolító szerv tevékenységét. Lebonyolító szerv kijelölése esetén, ahol e rendelet nemzeti hatóságot említ, az átruházott feladatok tekintetében a lebonyolító szervet is érteni kell.
 
 (4) A nemzeti hatóságnak a HET tervezése, végrehajtása és módosítása vonatkozásában az államháztartásért felelős miniszter irányába tájékoztatási és együttműködési kötelezettsége van.
+
+(5)[^6] A nemzeti hatósági feladatokat az 1. mellékletben foglalt táblázat A oszlopa szerinti programterület vonatkozásában az 1. mellékletben foglalt táblázat B oszlopában meghatározott minisztériumban felállított szervezeti egység látja el.
+
+[^6]: A 9. § (5) bekezdését a 318/2022. (VIII. 16.) Korm. rendelet 1. §-a iktatta be.

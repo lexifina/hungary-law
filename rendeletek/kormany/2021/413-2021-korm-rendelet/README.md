@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-413-20-
 | 2022-02-20 | 2021-413-20-22.6 | 46/2022. (II. 17.) Korm. rendelet |
 | 2022-04-05 | 2021-413-20-22.7 | 796/2021. (XII. 27.) Korm. rendelet |
 | 2022-07-03 | 2021-413-20-22.8 | 240/2022. (VI. 30.) Korm. rendelet |
+| 2022-08-17 | 2021-413-20-22.9 | 318/2022. (VIII. 16.) Korm. rendelet |

@@ -1,35 +1,27 @@
-## hatálya alá tartozó támogatást tartalmaz.
+1. melléklet a 413/2021. (VII. 13.) Korm. rendelethez[^78]
 
-1. melléklet a 413/2021. (VII. 13.) Korm. rendelethez[^69]
+|  | A | B | C | D | E |
 
-A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kijelölése
+| 1. | Programterület neve | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja tevékenységének segítésére kijelölt minisztérium | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja | Szakpolitikai felelősök | Lebonyolító szerv |
 
-|  | A | B | C | D |
+| 2. | I. Demográfia és köznevelés | Miniszterelnökség | területfejlesztési miniszter | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár |
 
-| 1. | Programterület neve | Nemzeti Hatóság | Szakpolitikai felelősök | Lebonyolító szerv |
+| 3. | II. Magasan képzett, versenyképes munkaerő | Miniszterelnökség | területfejlesztési miniszter | Kulturális és Innovációs Minisztérium a Technológiai és Ipari Minisztériummal együttműködve | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal |
 
-| 2. | I. Demográfia és köznevelés | Miniszterelnökség | Miniszterelnökség1 az Emberi Erőforrások Minisztériumával együttműködve | Magyar Államkincstár |
+| 4. | III. Felzárkózó települések | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Nincs |
 
-| 3. | II. Magasan képzett, versenyképes munkaerő | Miniszterelnökség | Innovációs és Technológiai Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal |
+| 5. | IV. Vízgazdálkodás | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium1, Agrárminisztérium | Nincs |
 
-| 4. | III. Felzárkózó települések | Miniszterelnökség | Belügyminisztérium | Nincs |
+| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | területfejlesztési miniszter | Technológiai és Ipari Minisztérium | Nincs |
 
-| 5. | IV. Vízgazdálkodás | Miniszterelnökség | Belügyminisztérium2, Agrárminisztérium | Nincs |
+| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | területfejlesztési miniszter | Technológiai és Ipari Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Emberi Erőforrás Támogatáskezelő |
 
-| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | Innovációs és Technológiai Minisztérium3 együttműködve a Miniszterelnökséggel | Nincs |
+| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | területfejlesztési miniszter | Technológiai és Ipari Minisztérium | Nincs |
 
-| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | Innovációs és Technológiai Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Emberi Erőforrás Támogatáskezelő |
+| 9. | VIII. Egészségügy | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Nemzeti Egészségbiztosítási Alapkezelő |
 
-| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | Innovációs és Technológiai Minisztérium | Nincs |
+| 10. | IX. Horizontális intézkedések | Miniszterelnökség | területfejlesztési miniszter | területfejlesztési miniszter | A KKV-k közbeszerzési részvételét ösztönző támogatása című felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
 
-| 9. | VIII. Egészségügy | Miniszterelnökség | Emberi Erőforrások Minisztériuma | Nemzeti Egészségbiztosítási Alapkezelő |
+1 Szakmai koordinációra kijelölt minisztérium
 
-| 10. | IX. Horizontális intézkedések | Miniszterelnökség |  | A KKV-k közbeszerzési részvételét ösztönző támogatása c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
-
-1 Szakmai koordinációra kijelölt minisztérium.
-
-2 Szakmai koordinációra kijelölt minisztérium.
-
-3 Szakmai koordinációra kijelölt minisztérium.
-
-[^69]: Az 1. melléklet a 796/2021. (XII. 27.) Korm. rendelet 13. § e)–g) pontja, a 832/2021. (XII. 30.) Korm. rendelet 19. §-a, a 46/2022. (II. 17.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^78]: Az 1. melléklet a 318/2022. (VIII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.

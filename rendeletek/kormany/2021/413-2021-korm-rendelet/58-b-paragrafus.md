@@ -8,7 +8,7 @@ a) a nemzeti hatóság,
 
 b) a szakpolitikai felelős,
 
-c) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter,
+c)[^31] a településfejlesztésért és településrendezésért felelős miniszter,
 
 d) a megyei önkormányzatok érdekképviseleti szerve,
 
@@ -41,3 +41,5 @@ e) évente legalább egyszer tájékozódik a nemzeti hatóságtól a HET-ben el
 f) évente legalább egyszer tájékozódik a nemzeti hatóságtól a HET végrehajtásával kapcsolatos adatszolgáltatások, pénzügyi lehívások sikerességéről.
 
 (6) A Monitoring Bizottság titkársági feladatait a nemzeti hatóság látja el.
+
+[^31]: Az 58/B. § (3) bekezdés c) pontja a 318/2022. (VIII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
