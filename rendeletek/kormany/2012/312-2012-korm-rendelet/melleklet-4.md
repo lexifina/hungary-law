@@ -40,7 +40,7 @@
 
 |  | * Lakóépület hasznos alapterülete: a lakás (lakások) összes helyiségeinek területe, továbbá többlakásos házakban a házak közös használatú helyiségeinek területe is. Nem lakóépület hasznos alapterülete: az épület rendeltetésének megfelelő célú területek összessége; a hasznos alapterületbe nem tartozik bele az épületszerkezetek által elfoglalt terület, a segédberendezések üzemi területe (fűtő- és légkondicionáló berendezések, áramfejlesztők területe) és az átjárók területe. |
 
-4. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^444]
+4. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^455]
 
 ## Statisztikai adatlap az épület használatbavételéhez
 
@@ -266,4 +266,4 @@ Az épített lakások területe, helyiségei lakástípusonként kell kitölteni
 
 | 39 | Egyéb |  |  |  |  |  |  |  |
 
-[^444]: A 4. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § b) pontjával megállapított szöveg.
+[^455]: A 4. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § b) pontjával megállapított szöveg.
