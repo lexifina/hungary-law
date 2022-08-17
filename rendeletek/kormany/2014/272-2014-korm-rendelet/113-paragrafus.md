@@ -1,12 +1,12 @@
-113. § (1)[^691] Az igazoló hatóság a központi költségvetési és közösségi hozzájárulások, valamint a kedvezményezett önerejének felhasználása alapján finanszírozó alapok szerint, és prioritásonkénti bontásban rendszeresen összeállítja a monitoring és információs rendszerben az időközi átutalás igénylési dokumentációit, valamint számviteli évenként az utolsó időközi igénylés dokumentációit, és megküldi az Európai Bizottság részére.
+113. § (1)[^693] Az igazoló hatóság a központi költségvetési és közösségi hozzájárulások, valamint a kedvezményezett önerejének felhasználása alapján finanszírozó alapok szerint, és prioritásonkénti bontásban rendszeresen összeállítja a monitoring és információs rendszerben az időközi átutalás igénylési dokumentációit, valamint számviteli évenként az utolsó időközi igénylés dokumentációit, és megküldi az Európai Bizottság részére.
 
-(2)[^692] Az éves beszámoló keretében az igazoló hatóság készíti el számviteli évenként az 1303/2013/EU európai parlamenti és tanácsi rendelet 137. cikke szerinti elszámolásokat.
+(2)[^694] Az éves beszámoló keretében az igazoló hatóság készíti el számviteli évenként az 1303/2013/EU európai parlamenti és tanácsi rendelet 137. cikke szerinti elszámolásokat.
 
-(3)[^693]
+(3)[^695]
 
-(4)[^694] Az Európai Bizottság részére benyújtott elszámolásokat és átutalási igényléseket alátámasztó költségnyilatkozatok szükséges helyesbítéséről az igazoló hatóság gondoskodik.
+(4)[^696] Az Európai Bizottság részére benyújtott elszámolásokat és átutalási igényléseket alátámasztó költségnyilatkozatok szükséges helyesbítéséről az igazoló hatóság gondoskodik.
 
-[^691]: A 113. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 40. pontja szerint módosított szöveg.
-[^692]: A 113. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^693]: A 113. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 46. § 10. pontja hatályon kívül helyezte.
-[^694]: A 113. § (4) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 41. pontja szerint módosított szöveg.
+[^693]: A 113. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 40. pontja szerint módosított szöveg.
+[^694]: A 113. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^695]: A 113. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 46. § 10. pontja hatályon kívül helyezte.
+[^696]: A 113. § (4) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 41. pontja szerint módosított szöveg.
