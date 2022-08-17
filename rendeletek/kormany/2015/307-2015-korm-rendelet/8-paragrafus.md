@@ -14,7 +14,7 @@ e) az eljárás (eljárások) indításának tervezett napját.
 
 (2) Az (1) bekezdésben meghatározott esetben az ajánlatkérő a részvételi felhívást nem teszi hirdetményben közzé, hanem egyidejűleg és közvetlenül küldi meg azon gazdasági szereplőknek, amelyek az előírt határidőben szándéknyilatkozatukat az ajánlatkérőnél benyújtották és felhívja őket szándéknyilatkozatuk megerősítésére (a továbbiakban: közvetlen részvételi felhívás). Az eljárás a közvetlen részvételi felhívás megküldésével indul.
 
-(3)[^3] A közvetlen részvételi felhívást legkorábban az időszakos előzetes tájékoztatót tartalmazó hirdetmény közzététele napjától számított harmincöt nap, legkésőbb az időszakos előzetes tájékoztatót tartalmazó hirdetmény közzététele napjától számított tizenkét hónapon belül lehet megküldeni. A Kbt. 3. melléklete szerinti szociális és egyéb szolgáltatások esetén az időszakos előzetes tájékoztató által érintett időszak tizenkét hónapnál hosszabb is lehet.
+(3)[^5] A közvetlen részvételi felhívást legkorábban az időszakos előzetes tájékoztatót tartalmazó hirdetmény közzététele napjától számított harmincöt nap, legkésőbb az időszakos előzetes tájékoztatót tartalmazó hirdetmény közzététele napjától számított tizenkét hónapon belül lehet megküldeni. A Kbt. 3. melléklete szerinti szociális és egyéb szolgáltatások esetén az időszakos előzetes tájékoztató által érintett időszak tizenkét hónapnál hosszabb is lehet.
 
 (4) A – szándéknyilatkozatok megerősítését tartalmazó részvételi jelentkezések benyújtására meghatározott – részvételi határidő 7. § (1) bekezdésében előírt minimális időtartama a közvetlen részvételi felhívás megküldésének napjától számítandó.
 
@@ -24,4 +24,4 @@ e) az eljárás (eljárások) indításának tervezett napját.
 
 (7) Az ajánlatkérő az eljárás eredményéről szóló tájékoztatóban feltünteti, ha az időszakos előzetes tájékoztatóban meghatározott időszak alatt további szerződést nem kíván kötni.
 
-[^3]: A 8. § (3) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^5]: A 8. § (3) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

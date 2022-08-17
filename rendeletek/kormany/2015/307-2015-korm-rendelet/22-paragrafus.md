@@ -1,5 +1,3 @@
-## 21. § Az ajánlatkérő az eljárást megindító felhívásban, vagy időszakos előzetes tájékoztatóval meghirdetett eljárás esetén a közvetlen részvételi felhívásban, illetve előminősítési hirdetménnyel meghirdetett eljárás esetén legkésőbb az ajánlattételi felhívásban jelzi, ha az ajánlatokat elektronikus katalógus formájában kell benyújtani, vagy hogy az ajánlattevőnek elektronikus katalógust kell csatolnia ajánlatához.
-
 ## 4. Szerződésmódosítás
 
 22. § (1) A közszolgáltatói szerződések módosítása során a Kbt. 141. § (4) bekezdés b)–c) pontja nem alkalmazandó.
