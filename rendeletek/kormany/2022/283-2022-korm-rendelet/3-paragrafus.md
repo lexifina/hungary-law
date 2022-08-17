@@ -1,3 +1,5 @@
-## 2. § A rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet 2. § c) pontjában a „szolgáltatás” szövegrész helyébe a „szolgáltatások” szöveg lép.
+## 2. §[^3]
 
 ## 2. A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosítása
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

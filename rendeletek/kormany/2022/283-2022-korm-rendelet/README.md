@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-283-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-08-16 | 2022-283-20-22.1 | 283/2022. (VIII. 1.) Korm. rendelet |
+| 2022-08-17 | 2022-283-20-22.2 | 2010: CXXX. törvény |

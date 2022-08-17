@@ -1,5 +1,3 @@
-## 3. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 37. §-a a következő (5a) és (5b) bekezdésekkel egészül ki:
+## 3. §[^4]
 
-## „(5a) A 26. számú mellékletben meghatározott szakképzés, illetve a honvédelemért felelős miniszter által fenntartott köznevelési és szakképzési intézményben folytatott oktatás és nevelés (a továbbiakban együtt: védelmi jellegű képzés) keretében a lőtéren tartott lövészet során a rendvédelmi szervnél vagy a Magyar Honvédségnél rendszeresített, illetve az azzal azonos típusú lőfegyver, lőszer a védelmi jellegű képzésben részt vevő személy számára a lőgyakorlat végrehajtásáért felelős személy felügyelete mellett átengedhető.
-
-## (5b) Az (5a) bekezdés alkalmazása során a lőgyakorlat végrehajtásáért felelős személyként kizárólag olyan személy jelölhető ki, aki munkakörénél vagy szakértelménél fogva felkészült és alkalmas a lövészet során használni kívánt lőfegyverrel, lőszerrel kapcsolatos kiképzési feladatok ellátására. A lőgyakorlat végrehajtásáért felelős személy kijelölését a lőtér üzemeltetésének, illetve a lövészetvezetői tevékenység végzésének az ellenőrzésére irányuló hatósági eljárás során a védelmi jellegű képzést folytató intézmény vezetője igazolja.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
