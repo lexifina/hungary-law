@@ -18,11 +18,11 @@ e) figyelemmel kíséri a Kormány fogyasztóvédelmi politikájának és cselek
 
 5. A Tanács további tagjai:
 
-a)[^1] a Gazdasági Versenyhivatal, a Magyar Nemzeti Bank egy-egy képviselője, valamint
+a)[^2] a Gazdasági Versenyhivatal, a Magyar Nemzeti Bank egy-egy képviselője, valamint
 
 b) az elnök felkérése alapján:
 
-ba)[^2] a Nemzeti Agrárgazdasági Kamara képviselője,
+ba)[^3] a Nemzeti Agrárgazdasági Kamara képviselője,
 
 bb) a Magyar Kereskedelmi és Iparkamara képviselője,
 
@@ -34,7 +34,7 @@ be) a békéltető testületek 2 képviselője és
 
 bf) a Pénzügyi Békéltető Testület képviselője.
 
-6. A Tanács állandó meghívottja a Kormány egészségügyért, elektronikus hírközlésért, energiapolitikáért, élelmiszerlánc-felügyeletért, pénz-, tőke- és biztosítási piac szabályozásáért, szociál- és nyugdíjpolitikáért, valamint turizmusért felelős tagja által az adott feladatkörért való felelősségére tekintettel kijelölt vezetői munkakört betöltő kormánytisztviselő.
+6.[^4] A Tanács állandó meghívottja a Kormány egészségügyért és szociálpolitikáért, elektronikus hírközlésért és turizmusért, energiapolitikáért és környezetvédelemért, élelmiszerlánc-felügyeletért és kereskedelemért, pénz-, tőke- és biztosítási piac szabályozásáért, valamint nyugdíjpolitikáért felelős tagja által az adott feladatkörért való felelősségére tekintettel kijelölt, vezetői munkakört betöltő kormánytisztviselő.
 
 7. A Tanács ülésén az elnök meghívására részt vehet azon államigazgatási szerv, társadalmi, szakmai szervezet képviselője, amelynek feladat- és hatáskörét, vagy tevékenységét a Tanács által tárgyalt kérdés érinti.
 
@@ -54,7 +54,7 @@ c) a megbízatás visszavonásával.
 
 12. A Tanács tagjait és az ülésen részt vevőket díjazás, költségtérítés nem illeti meg.
 
-13.[^3] A Tanács szükség szerint, de legalább évente egy alkalommal ülésezik.
+13.[^5] A Tanács szükség szerint, de legalább évente egy alkalommal ülésezik.
 
 14. A Tanács működésének részletes szabályait, valamint az elnök, a titkár és a tagok helyettesítésének rendjét az ügyrend tartalmazza. A Tanács ügyrendjét a tagok véleményének kikérését követően a fogyasztóvédelemért felelős miniszter állapítja meg.
 
@@ -62,6 +62,11 @@ c) a megbízatás visszavonásával.
 
 16. Ez a határozat a közzétételét követő 3. napon lép hatályba, hatálybalépésével egyidejűleg a Fogyasztóvédelmi Tanács létrehozásáról szóló 1023/2008. (IV. 17.) Korm. határozat hatályát veszti, és egyidejűleg a tagok megbízatása megszűnik. Az új tagok felkéréséről az elnök a határozat hatálybalépését követő 30 napon belül gondoskodik.
 
-[^1]: Az 5. pont a) pontja az 1853/2016. (XII. 27.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
-[^2]: Az 5. pont b) pont ba) alpontja az 1853/2016. (XII. 27.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
-[^3]: A 13. pont az 1853/2016. (XII. 27.) Korm. határozat 8. pont c) alpontja szerint módosított szöveg.
+17.[^6] A Kormány kereskedelemért, valamint környezetvédelemért felelős tagja által az adott feladatkörért való felelősségére tekintettel kijelölt vezetői munkakört betöltő kormánytisztviselő felkéréséről a Tanács elnöke a Fogyasztóvédelmi Tanácsról szóló 1259/2011. (VII. 27.) Korm. határozat módosításáról szóló 1400/2022. (VIII. 16.) Korm. határozat hatálybalépését[^7] követő 30 napon belül gondoskodik.
+
+[^2]: Az 5. pont a) pontja az 1853/2016. (XII. 27.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 5. pont b) pont ba) alpontja az 1853/2016. (XII. 27.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^4]: A 6. pont az 1400/2022. (VIII. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 13. pont az 1853/2016. (XII. 27.) Korm. határozat 8. pont c) alpontja szerint módosított szöveg.
+[^6]: A 17. pontot az 1400/2022. (VIII. 16.) Korm. határozat 2. pontja iktatta be.
+[^7]: A hatálybalépés időpontja 2022. augusztus 17.
