@@ -1,0 +1,7 @@
+## 1. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
+
+1. § (1) A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 97. § (3b) bekezdése helyébe a következő bekezdés lép:
+
+## „(3b) A dinamikus beszerzési rendszer felállításakor vagy módosításakor – a becsült értéktől függetlenül – a 101–107. § szabályai szerint kell eljárni. A dinamikus beszerzési rendszer felállítását követően az ajánlattételi szakaszra és a dinamikus beszerzési rendszer keretében megkötött szerződések módosítására a 109. § szerinti utólagos ellenőrzés szabályait kell alkalmazni. A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés vonatkozásában a közbeszerzésekért felelős miniszter ellenőrzi a gazdasági szereplők dinamikus beszerzési rendszerhez történő csatlakozása vagy annak elutasítása szabályosságát a 109. § szerinti utólagos ellenőrzés szabályai szerint. A részvételi jelentkezéseket és azok bírálatához kapcsolódó valamennyi dokumentumot a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül kell benyújtani a közbeszerzésekért felelős miniszter részére.”
+
+(2) A 272/2014. (XI. 5.) Korm. rendelet 97. §-a a következő (3c) bekezdéssel egészül ki:
