@@ -1,4 +1,4 @@
-11. §[^30] (1) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga elméleti és gyakorlati részvizsgából áll. Az elméleti részvizsga írásbeli tesztből és szóbeli vizsgarészből tevődik össze. Gyakorlati részvizsgára csak olyan vizsgázó bocsátható, aki eredményes elméleti részvizsgát tett.
+11. §[^37] (1) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga elméleti és gyakorlati részvizsgából áll. Az elméleti részvizsga írásbeli tesztből és szóbeli vizsgarészből tevődik össze. Gyakorlati részvizsgára csak olyan vizsgázó bocsátható, aki eredményes elméleti részvizsgát tett.
 
 (2) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga akkor tekinthető sikeresnek, hogy ha a vizsgázó valamennyi részvizsga minden vizsgarészét eredményesen teljesítette.
 
@@ -22,4 +22,4 @@ f) a vizsgázónak a vizsgabizonyítvány átvételét igazoló aláírását é
 
 (6) A házilagos lőszerszereléshez és -újratöltéshez előírt vizsga elméleti részvizsgájának kérdéseit a 2. számú melléklet határozza meg.
 
-[^30]: A 11. § a 25/2012. (V. 11.) BM rendelet 3. §-ával megállapított szöveg.
+[^37]: A 11. § a 25/2012. (V. 11.) BM rendelet 3. §-ával megállapított szöveg.

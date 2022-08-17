@@ -1,4 +1,4 @@
-4. számú melléklet a 49/2004. (VIII. 31.) BM rendelethez[^65]
+4. számú melléklet a 49/2004. (VIII. 31.) BM rendelethez[^72]
 
 ## Az elöltöltő fegyver vadászati célú használatához szükséges elméleti ismereteket és gyakorlati jártasságot igazoló vizsga elméleti részvizsgájának írásbeli tesztkérdései
 
@@ -164,4 +164,4 @@
 
 A válaszokat a vizsgázónak 3 lehetőség közül kell kiválasztania. Minden kérdésre csak egy helyes válasz adható!
 
-[^65]: A 4. számú mellékletet a 25/2012. (V. 11.) BM rendelet 6. § (2) bekezdése hatályon kívül helyezte, újonnan a 42/2016. (X. 25.) BM rendelet 3. § a) pontja iktatta be.
+[^72]: A 4. számú mellékletet a 25/2012. (V. 11.) BM rendelet 6. § (2) bekezdése hatályon kívül helyezte, újonnan a 42/2016. (X. 25.) BM rendelet 3. § a) pontja iktatta be.
