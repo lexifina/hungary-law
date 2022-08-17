@@ -1,5 +1,3 @@
-## 211. § Ha a kedvezményezett a dinamikus beszerzési rendszer alapján történő beszerzés utóellenőrzését nem vagy nem határidőben kezdeményezte, az irányító hatóság és a közbeszerzésekért felelős miniszter a dokumentumokat a 209. § és a 210. § (1)–(4) bekezdése szerint ellenőrzi, a 179. § (1)–(4) bekezdése alkalmazása mellett.
-
 ## 53. Az európai uniós támogatásból finanszírozott minősített beszerzés vagy alapvető biztonsági érdeket érintő beszerzés mentesítési eljárást megelőző vizsgálata
 
 ## 212. § Ezen alcím alkalmazásában

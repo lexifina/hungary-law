@@ -7,3 +7,16 @@
 (3) A (2) bekezdés szerinti irányító hatósági ellenőrzést a dinamikus beszerzési rendszer fő tárgyának megfelelő irányító hatóság végzi el. Ha a dinamikus beszerzési rendszer tárgya több tárgyat is magában foglal, a dinamikus beszerzési rendszer fő tárgyát a legmagasabb értékű tárgy jelenti.
 
 (4) A dinamikus beszerzési rendszer alapján megkötött szerződések ellenőrzése vonatkozásában a kedvezményezett az irányító hatóság, majd a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi a 209. § és 210. § szerint.
+
+(5)[^79] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a kedvezményezett a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi.
+
+(6)[^80] A részvételi jelentkezések utóellenőrzése során – a (7) és (8) bekezdésben foglalt eltérésekkel – a 210. § (2)–(6) bekezdése és a 211. § megfelelően alkalmazandó.
+
+(7)[^81] A kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot a közbeszerzésekért felelős miniszter részére.
+
+(8)[^82] A közbeszerzésekért felelős miniszter a (7) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a kedvezményezett részére.
+
+[^79]: A 208. § (5) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^80]: A 208. § (6) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^81]: A 208. § (7) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^82]: A 208. § (8) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.

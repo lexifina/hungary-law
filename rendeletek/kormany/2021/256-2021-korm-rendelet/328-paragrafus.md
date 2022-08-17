@@ -1,4 +1,4 @@
-## 327. §[^97]
+## 327. §[^104]
 
 ## 76. A pénzügyi zárás
 
@@ -12,4 +12,4 @@
 
 (5) A mintavétel módszertanát, az értékhatárt és a csoportos zárás feltételeit az irányító hatóságnak alá kell támasztania.
 
-[^97]: A 327. §-t az 562/2021. (X. 1.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
+[^104]: A 327. §-t az 562/2021. (X. 1.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.

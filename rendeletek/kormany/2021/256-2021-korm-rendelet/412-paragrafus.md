@@ -2,6 +2,6 @@
 
 (2) Az irányító hatóság a jogorvoslati kérelemhez mellékeli a szabálytalansági eljárás dokumentumait, a jogorvoslati kérelemben foglaltakkal kapcsolatos részletes szakmai álláspontját és a szabálytalansági eljárással összefüggésben folyamatban lévő szabálytalansági, közbeszerzési döntőbizottsági vagy egyéb eljárásról szóló tájékoztatást.
 
-(3)[^110] A jogorvoslati kérelem miniszter részére történő felterjesztéséről az irányító hatóság haladéktalanul tájékoztatja a kedvezményezettet.
+(3)[^117] A jogorvoslati kérelem miniszter részére történő felterjesztéséről az irányító hatóság haladéktalanul tájékoztatja a kedvezményezettet.
 
-[^110]: A 412. § (3) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 29. pontja szerint módosított szöveg.
+[^117]: A 412. § (3) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 29. pontja szerint módosított szöveg.

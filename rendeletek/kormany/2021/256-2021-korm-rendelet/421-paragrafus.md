@@ -8,9 +8,9 @@ c) az államháztartás központi alrendszerébe tartozó költségvetési szerv
 
 d) az állam által alapított vagyonkezelő alapítvány és az ilyen alapítvány által fenntartott jogi személy kedvezményezett esetén,
 
-e)[^111] a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet 8. §-a szerinti esetben, vagy
+e)[^118] a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet 8. §-a szerinti esetben, vagy
 
-f)[^112] az 506. § (4) bekezdése szerinti esetben.
+f)[^119] az 506. § (4) bekezdése szerinti esetben.
 
-[^111]: A 421. § e) pontja a 658/2021. (XI. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^112]: A 421. § f) pontját az 562/2021. (X. 1.) Korm. rendelet 26. §-a iktatta be.
+[^118]: A 421. § e) pontja a 658/2021. (XI. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^119]: A 421. § f) pontját az 562/2021. (X. 1.) Korm. rendelet 26. §-a iktatta be.
