@@ -1,3 +1,3 @@
-## 2. § A lőterekről, a lőfegyverek, lőszerek hatósági tárolásáról, a fegyvertartáshoz szükséges elméleti és jártassági követelményekről szóló 49/2004. (VIII. 31.) BM rendelet a következő 4/A. §-sal egészül ki:
+## 2. §[^3]
 
-## „4/A. § A Kr. 37. § (5a) bekezdése szerinti esetben a 4. § e) pontjában előírt kötelezettséget a védelmi jellegű képzést folytató szervezet vagy a lőgyakorlat végrehajtásáért felelős személy köteles teljesíteni, aminek a megtörténtéről a lövészet megkezdését megelőzően az üzemeltetési engedéllyel rendelkezőt is tájékoztatja. A 4. § e) pontjában előírt kötelezettség teljesítéséről szóló tájékoztatás hiányában az üzemeltetési engedéllyel rendelkező köteles legkésőbb az éleslövészet megkezdésekor értesíteni az 1/B. § (2) bekezdésében meghatározott rendőrségi szervet.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

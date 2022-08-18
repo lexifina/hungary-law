@@ -1,3 +1,3 @@
-## 1. § A lőterekről, a lőfegyverek, lőszerek hatósági tárolásáról, a fegyvertartáshoz szükséges elméleti és jártassági követelményekről szóló 49/2004. (VIII. 31.) BM rendelet 3. §-a a következő (2a) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(2a) Ha a lőtéren a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet (a továbbiakban: Kr.) 37. § (5a) bekezdésében meghatározott tevékenység folytatása megengedett, a lőtérszabályzatnak az erről szóló tájékoztatást is tartalmaznia kell. Ilyen esetben a Kr. 37. § (5a) bekezdése alapján használható lőfegyvert és lőszert a lőtérszabályzatban nem szükséges önállóan feltüntetni.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
