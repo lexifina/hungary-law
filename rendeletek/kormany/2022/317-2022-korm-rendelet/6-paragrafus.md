@@ -1,5 +1,3 @@
-## 5. § A 321/2015. (X. 30.) Korm. rendelet 11. § a) pontja helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## (Nem Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében az ajánlatkérő a Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban a Kbt. 63. §-a tekintetében a következő írásbeli nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:)
-
-## „a) a Kbt. 63. § (1) bekezdés a), b) és d) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumban foglalt nyilatkozatot;”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
