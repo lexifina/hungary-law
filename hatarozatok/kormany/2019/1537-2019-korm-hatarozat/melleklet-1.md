@@ -40,15 +40,15 @@
 
 ## 7.[^1] a közösségi közlekedésben részt vevő autóbuszok környezeti fenntarthatóságának növelése érdekében egyetért azzal, hogy a helyi és a főváros legfeljebb 100 km-es vonzáskörzetében az elővárosi személyszállítási közszolgáltatási feladatokat ellátó autóbuszok tiszta és energiahatékony piacának ösztönzése szükséges azáltal, hogy a Magyar Állam a gazdaság újraindításának keretében 2020-tól kizárólag az elektromos meghajtású autóbuszok (akkumulátoros és üzemanyagcellás), valamint az akkumulátoros (felsővezeték nélküli önálló közlekedésre is alkalmas) segédhajtású önjáró trolibuszok gyártását, beszerzését és továbbfejlesztését támogatja, azzal, hogy a nemzeti buszstratégiai koncepció forrásait rendelkezésre bocsátja;
 
-## 8.[^2] a 7. pontban meghatározott cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon egy olyan elektromos meghajtású autó- és önjárótrolibusz-beszerzést ösztönző mintaprojekt (a továbbiakban: Zöld Busz Mintaprojekt) megvalósításáról, melynek keretében
+## 8.[^2] a 7. pontban meghatározott cél megvalósítása érdekében felhívja a technológiai és ipari minisztert, hogy gondoskodjon egy olyan elektromos meghajtású autó- és önjárótrolibusz-beszerzést ösztönző mintaprojekt (a továbbiakban: Zöld Busz Mintaprojekt) megvalósításáról, melynek keretében
 
-## a) 2022. március 31-ig legfeljebb 1 200 000 000 forint keretösszegű állami forrás igénybevételével minimum hét, telephelyi infrastruktúrával rendelkező településen legalább egy hónap időtartamra, valamint az egyes rendezvények kiemelt fontosságú rendezvénnyé nyilvánításáról szóló 1204/2021. (IV. 28.) Korm. határozattal kiemelt fontosságú rendezvénnyé nyilvánított rendezvények (a továbbiakban: Rendezvények) során demonstrációs (különösen műszaki, járatszervezési, vezetéstechnikai, kommunikációs) célú használat céljából megjelennek elektromos meghajtású buszok, továbbá
+## a) 2022. december 31-ig 1 200 000 000 forint keretösszegű állami forrás igénybevételével minimum hét, telephelyi infrastruktúrával rendelkező településen legalább egy hónap időtartamra, valamint az egyes rendezvények kiemelt fontosságú rendezvénnyé nyilvánításáról szóló 1204/2021. (IV. 28.) Korm. határozattal kiemelt fontosságú rendezvénnyé nyilvánított rendezvények (a továbbiakban: Rendezvények) során demonstrációs (különösen műszaki, járatszervezési, vezetéstechnikai, kommunikációs) célú használat céljából megjelennek elektromos meghajtású buszok, továbbá
 
-## b) 2022. március 31-ig legfeljebb 800 000 000 forint keretösszegű állami forrás biztosításával lehetővé válik a városi közlekedési közszolgáltatási feladatok ellátását biztosító városok és szolgáltatók számára a jelenlegi buszállomány részleges cseréje új, elektromos meghajtású autóbuszok vagy önjáró trolibuszok beszerzése útján;
+## b) 2022. december 31-ig 800 000 000 forint keretösszegű állami forrás biztosításával lehetővé válik a városi közlekedési közszolgáltatási feladatok ellátását biztosító városok és szolgáltatók számára a jelenlegi buszállomány részleges cseréje új, elektromos meghajtású autóbuszok vagy önjáró trolibuszok beszerzése útján;
 
-## Felelős: innovációért és technológiáért felelős miniszter
+## Felelős: technológiai és ipari miniszter
 
-## Határidő: 2022. március 31.
+## Határidő: 2022. december 31.
 
 ## 9. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 20. Fenntartható városi buszok beszerzésének ösztönzése jogcímcsoporttal történő kiegészítését;
 
@@ -132,6 +132,24 @@
 
 ## Határidő: 2021. szeptember 5.
 
+## 18.[^8] felhívja a technológiai és ipari minisztert, hogy a 8. pont b) alpontjában meghatározott feladat megvalósítása érdekében biztosítson a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 3. Energia- és klímapolitikai modernizációs rendszer jogcímcsoport terhére további, legfeljebb 627 000 000 forint forrást a városi közlekedési közszolgáltatási feladatok ellátását biztosító városok és szolgáltatások számára, a végrehajtásért felelős HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: HUMDA Zrt.) útján;
+
+## Felelős: technológiai és ipari miniszter
+
+## Határidő: azonnal
+
+## 19.[^9] a 7. pontban meghatározott cél megvalósítása érdekében felhívja a technológiai és ipari minisztert, hogy – a HUMDA Zrt. bevonásával, erre a célra biztosított támogatás felhasználásával és a 14. pont szerinti hatásvizsgálat figyelembevételével – készítsen előterjesztést a Kormány részére a CVD Irányelvet átültető jogszabály-módosításra;
+
+## Felelős: technológiai és ipari miniszter
+
+## Határidő: azonnal
+
+## 20.[^10] felhívja a technológiai és ipari minisztert, hogy a HUMDA Zrt. útján gondoskodjon a Magyar Nemzeti Hidrogén Stratégia 2030 prioritást élvező Helyi léptékű szállítással összefüggő közszolgáltatások zöldítése projektjének és a Zöld Busz Program feladatainak összehangolásáról, valamint annak kiterjesztéséről, a Zöld Busz Plusz Program előkészítéséről.
+
+## Felelős: technológiai és ipari miniszter
+
+## Határidő: folyamatos
+
 1. melléklet az 1537/2019. (IX. 20.) Korm. határozathoz
 
 | XVII. Innovációs és Technológiai Minisztérium |
@@ -209,9 +227,12 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: A 7. pont az 1280/2021. (V. 17.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 8. pont az 1280/2021. (V. 17.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 8. pont az 1280/2021. (V. 17.) Korm. határozat 1. pontjával megállapított, az 1412/2022. (VIII. 18.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^3]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 14. pontot az 1938/2020. (XII. 17.) Korm. határozat 2. pontja iktatta be, szövege az 1280/2021. (V. 17.) Korm. határozat 2. pontjával megállapított szöveg.
 [^5]: A 15. pontot az 1938/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be, szövege az 1280/2021. (V. 17.) Korm. határozat 2. pontjával megállapított szöveg.
 [^6]: A 16. pontot az 1280/2021. (V. 17.) Korm. határozat 3. pontja iktatta be.
 [^7]: A 17. pontot az 1280/2021. (V. 17.) Korm. határozat 3. pontja iktatta be.
+[^8]: A 18. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
+[^9]: A 19. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
+[^10]: A 20. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
