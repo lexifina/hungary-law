@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1041-30
 | 2022-02-04 | 2022-1041-30-22.1 | 1041/2022. (II. 4.) Korm. határozat |
 | 2022-02-05 | 2022-1041-30-22.2 | 2010: CXXX. törvény |
 | 2022-05-09 | 2022-1041-30-22.3 | 1255/2022. (V. 9.) Korm. határozat |
+| 2022-08-18 | 2022-1041-30-22.4 | 1415/2022. (VIII. 18.) Korm. határozat |

@@ -54,65 +54,69 @@
 
 ## 1.7. egyetért
 
-## 1.7.1. a Debrecen Déli Gazdasági Övezet fejlesztése érdekében
+## 1.7.1.[^1] a Debrecen Déli Gazdasági Övezet fejlesztése érdekében
 
-## a) „Debrecen Dél” 400/132 kV-os alállomás létesítése,
+## a) a „Debrecen Dél” 400/132 kV-os alállomás létesítése,
 
-## b) „Józsa” 400/132 kV-os alállomás bővítése,
+## b) a „Józsa” 400/132 kV-os alállomás bővítése,
 
-## c) „Józsa” és „Debrecen Dél” alállomások összeköttetése 400 kV-os távvezetékekkel,
+## c) a „Józsa” és „Debrecen Dél” alállomások összeköttetése 400 kV-os távvezetékekkel,
 
 ## d) az igény ellátáshoz kapcsolódó további mögöttes átviteli hálózat átalakítása keretében a „Békéscsaba OVIT” 400/132 kV-os alállomás bővítése és „Sajóivánka–Felsőzsolca” második 400 kV-os távvezeték,
 
-## e) „Debrecen Déli Ipari Park 2.” 132/22 kV-os alállomás létesítése és bővítése,
+## e) a „Debrecen Déli Ipari Park 2.” 132/22 kV-os alállomás létesítése és bővítése,
 
-## f) „Debrecen Déli Ipari Park 2.” és „Józsa” alállomások összeköttetése 132 kV-os távvezetékekkel,
+## f) a „Debrecen Déli Ipari Park 2.” és „Józsa” alállomások összeköttetése 132 kV-os távvezetékekkel,
 
-## g) „Debrecen Dél” és „Debrecen Déli Ipari Park 2.” alállomások összeköttetése 132 kV-os kábelekkel,
+## g) a „Debrecen Dél” és „Debrecen Déli Ipari Park 2.” alállomások összeköttetése 132 kV-os kábelekkel,
 
-## h) „Debrecen Déli Ipari Park 1.” 132/22 kV-os alállomás bővítése,
+## h) a „Debrecen Déli Ipari Park 1.” 132/22 kV-os alállomás bővítése,
 
-## i) „Debrecen Déli Ipari Park 1.” és „Debrecen Déli Ipari Park 2.” alállomások összeköttetése 132 kV-os kábelekkel,
+## i) a „Debrecen Déli Ipari Park 1.” és „Debrecen Déli Ipari Park 2.” alállomások összeköttetése 132 kV-os kábelekkel,
 
 ## j) az igény ellátáshoz kapcsolódó további mögöttes elosztói hálózat átalakítás keretében a „Debrecen Délkelet” alállomás, „Debrecen Tócóskert – DKCE” 132 kV-os kábel, valamint „Debrecen OVIT – Debrecen Déli Ipari park 1.”, „Józsa – Debrecen OVIT III.”, „Macs – Debrecen OVIT” és „Debrecen OVIT – Debrecen Tócóskert (T-Debrecen Ipari) I.” 132 kV-os távvezetékek,
 
-## k) az igény ellátáshoz kapcsolódó további mögöttes elosztói hálózat átalakítása keretében a „Békéscsaba–Békés–Szeghalom” és „Békéscsaba – Mezőtúr (T-Szarvas)” 132 kV-os távvezetékek
+## k) az igény ellátáshoz kapcsolódó további mögöttes elosztói hálózat átalakítása keretében a „Békéscsaba–Békés–Szeghalom” és „Békéscsaba – Mezőtúr (T-Szarvas)” 132 kV-os távvezetékek,
+
+## l) a Debrecen Déli Gazdasági Övezetbe betelepülő gazdasági társaságok ellátása érdekében 2*3 darab 132 kV-os közcélú kábelhálózat
 
 ## megvalósításával;
 
-## 1.7.2.[^1] azzal, hogy az 1.7.1. pont szerinti beruházások (a továbbiakban: Beruházások) finanszírozása 84 907 669 000 forint költségvetési forrásból valósuljon meg a támogatási szerződés megkötését követő 60 hónapon belül, az alábbiak szerint:
+## 1.7.2.[^2] azzal, hogy az 1.7.1. pont szerinti beruházások (a továbbiakban: Beruházások) finanszírozása 87 718 849 000 forint költségvetési forrásból valósuljon meg a támogatási szerződés megkötését követő 60 hónapon belül, az alábbiak szerint:
 
-## a) a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság által megvaloϕsítandó átviteli hálózati fejlesztések megépítéséhez 45 055 000 000 forint,
+## a) a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság által megvalósítandó átviteli hálózati fejlesztések megépítéséhez 45 055 000 000 forint,
 
-## b) az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság által megvalósítandó elosztó hálózati fejlesztések megépítéséhez 15 391 654 000 forint,
+## b) az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság által megvalósítandó elosztó hálózati fejlesztések megépítéséhez 16 684 222 000 forint,
 
 ## c) az MVM Démász Áramhálózati Korlátolt Felelősségű Társaság által megvalósítandó elosztó hálózati fejlesztések megépítéséhez 1 738 000 000 forint,
 
-## d) a Debrecen Megyei Jogú Város Önkormányzata által fizetendő teljesítményarányos csatlakozási díj, területszerzés és előkészítés, valamint projektkoordináció költségeinek megfizetéséhez 22 723 015 000 forint
+## d) a Debrecen Megyei Jogú Város Önkormányzata által fizetendő teljesítményarányos csatlakozási díj, területszerzés és előkészítés, valamint projektkoordináció költségeinek megfizetéséhez 24 241 627 000 forint
 
 ## biztosításával;
 
-## 1.7.3.[^2] azzal, hogy az 1.7.2. pont d) alpontjában meghatározott összeg csatlakozási díj része előlegként kerüljön megfizetésre az átviteli és elosztói hálózati engedélyes részére a 2022–2026. költségvetési években;
+## 1.7.3.[^3] azzal, hogy az 1.7.2. pont d) alpontjában meghatározott összeg csatlakozási díj része előlegként kerüljön megfizetésre az átviteli és elosztói hálózati engedélyes részére a 2022–2026. költségvetési években;
 
-## 1.8.[^3] az átviteli és elosztó hálózati fejlesztések megvalósítása érdekében felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára 84 950 122 836 forint biztosításáról, az alábbi ütemezés szerint:
+## 1.8.[^4] az átviteli és elosztó hálózati fejlesztések megvalósítása érdekében felhívja a pénzügyminisztert, hogy a technológiai és ipari miniszter bevonásával gondoskodjon mindösszesen 87 762 708 426 forint biztosításáról, az alábbi ütemezés szerint:
 
-## a) a 2022. évben 6 905 592 071 forint,
+## a) a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgaϕló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára 6 813 169 883 forint,
 
-## b) a 2023. évben 11 731 959 049 forint,
+## b) a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcím javára 10 966 113 317 forint,
 
-## c) a 2024. évben 13 821 342 218 forint,
+## c) a 2024. évben 20 151 111 521 forint,
 
-## d) a 2025. évben 26 437 895 341 forint,
+## d) a 2025. évben 23 111 838 144 forint,
 
-## e) a 2026. évben 26 053 334 157 forint;
+## e) a 2026. évben 26 720 475 561 forint;
 
 ## Felelős: pénzügyminiszter
 
-## innovációért és technológiáért felelős miniszter
+## technológiai és ipari miniszter
 
 ## Határidő: az a) pont tekintetében a felmerülés ütemében
 
-## a b)–e) pont tekintetében az adott évi központi költségvetés tervezésekor
+## a b) pont tekintetében az adott évi központi költségvetés végrehajtásakor
+
+## a c)–e) pont tekintetében az adott évi központi költségvetés tervezésekor
 
 ## 1.9. felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 45 055 000 000 forint összegben támogatási szerződés megkötéséről;
 
@@ -120,9 +124,9 @@
 
 ## Határidő: a 2022. évi forrás rendelkezésre állását követően azonnal
 
-## 1.10. felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársasággal 15 391 654 000 forint összegben támogatási szerződés megkötéséről;
+## 1.10.[^5] felhívja a technológiai és ipari minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársasággal 16 684 222 000 forint összegben támogatási szerződés megkötéséről;
 
-## Felelős: innovációért és technológiáért felelős miniszter
+## Felelős: technológiai és ipari miniszter
 
 ## Határidő: a 2022. évi forrás rendelkezésre állását követően azonnal
 
@@ -132,15 +136,15 @@
 
 ## Határidő: a 2022. évi forrás rendelkezésre állását követően azonnal
 
-## 1.12.[^4] felhívja az innovációért és technológiáért felelős minisztert, hogy az 1.7.2. pont d) alpontjában foglaltakra tekintettel a Beruházások megvalósítása érdekében gondoskodjon Debrecen Megyei Jogú Város Önkormányzatával
+## 1.12.[^6] felhívja a technológiai és ipari minisztert, hogy az 1.7.2. pont d) alpontjában foglaltakra tekintettel a Beruházások megvalósítása érdekében gondoskodjon Debrecen Megyei Jogú Város Önkormányzatával
 
 ## a) 3 912 093 000 forint összegű visszatérítési kötelezettséggel járó támogatást tartalmazó, valamint
 
-## b) 17 715 598 000 forint összegű vissza nem térítendő támogatást tartalmazó
+## b) 20 329 534 000 forint összegű vissza nem térítendő támogatást tartalmazó
 
-## támogatási szerződés megkötéséről, azzal, hogy a támogatási szerződésben kerüljön rögzítésre, hogy amennyiben Debrecen Megyei Jogú Város Önkormányzata a terület értékesítése során a vevőre áthárításra kerülő teljesítményarányos csatlakozási díj tekintetében az a) pont szerinti összegnél nagyobb bevételre (a továbbiakban: többletbevétel) tesz szert, a többletbevétellel azonos összegű vissza nem térítendő támogatást köteles visszafizetni a központi költségvetés javára legfeljebb a b) pontban meghatározott vissza nem térítendő támogatás csatlakozási díjra eső összegének erejéig;
+## támogatási szerződés megkötéséről, azzal, hogy a támogatási szerződésben kerüljön rögzítésre, ha a Debrecen Megyei Jogú Város Önkormányzata a terület értékesítése során a vevőre áthárításra kerülő teljesítményarányos csatlakozási díj tekintetében az a) pont szerinti összegnél nagyobb bevételre (a továbbiakban: többletbevétel) tesz szert, a többletbevétellel azonos összegű vissza nem térítendő támogatást köteles visszafizetni a központi költségvetés javára, legfeljebb a b) pontban meghatározott vissza nem térítendő támogatás csatlakozási díjra eső összegének erejéig;
 
-## Felelős: innovációért és technológiáért felelős miniszter
+## Felelős: technológiai és ipari miniszter
 
 ## Határidő: a 2022. évi forrás rendelkezésre állását követően azonnal
 
@@ -150,22 +154,24 @@
 
 ## Határidő: 2022. március 31.
 
-## 1.14.[^5]
+## 1.14.[^7]
 
-## 1.15.[^6]
+## 1.15.[^8]
 
-## 2.[^7]
+## 2.[^9]
 
-## 3.[^8]
+## 3.[^10]
 
-1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz[^9]
+1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz[^11]
 
-[^1]: Az 1.7. pont 1.7.2. alpontja az 1255/2022. (V. 9.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 1.7. pont 1.7.3. alpontját az 1255/2022. (V. 9.) Korm. határozat 2. pontja iktatta be.
-[^3]: Az 1.8. pont az 1255/2022. (V. 9.) Korm. határozat 3. pontjával megállapított szöveg.
-[^4]: Az 1.12. pont az 1255/2022. (V. 9.) Korm. határozat 4. pontjával megállapított szöveg.
-[^5]: Az 1.14. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta.
-[^6]: Az 1.15. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta.
-[^7]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.7. alpont 1.7.1. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. pont 1.7. alpont 1.7.2. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1.7. pont 1.7.3. alpontját az 1255/2022. (V. 9.) Korm. határozat 2. pontja iktatta be.
+[^4]: Az 1. pont 1.8. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: Az 1. pont 1.10. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 3. pontjával megállapított szöveg.
+[^6]: Az 1. pont 1.12. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 4. pontjával megállapított szöveg.
+[^7]: Az 1.14. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta.
+[^8]: Az 1.15. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta.
+[^9]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
