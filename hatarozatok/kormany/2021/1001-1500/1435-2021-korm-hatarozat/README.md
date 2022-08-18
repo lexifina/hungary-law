@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1435-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-07-02 | 2021-1435-30-22.1 | 1435/2021. (VII. 2.) Korm. határozat |
+| 2022-08-18 | 2021-1435-30-22.2 | 1414/2022. (VIII. 18.) Korm. határozat |
