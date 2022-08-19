@@ -32,15 +32,7 @@
 
 ## Határidő: 2022. december 31-ig folyamatos
 
-## 2. A Korm. határozat 3. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „3. felhívja a kultúráért és innovációért felelős minisztert, hogy gondoskodjon az 1. pontban meghatározott, 2022–2025. évben szükséges támogatásnak a Nemzeti Kutatási, Fejlesztési és Innovációs Alap terhére történő biztosítása érdekében szükséges intézkedésekről;
-
-## Felelős: kultúráért és innovációért felelős miniszter
-
-## Határidő: a Nemzeti Kutatási, Fejlesztési és Innovációs Alap éves programstratégiájának tervezése során”
+## 2.[^1]
 
 1. melléklet az 1414/2022. (VIII. 18.) Korm. határozathoz
 
@@ -91,3 +83,5 @@ A Nemzeti Kutatási, Fejlesztési és Innovációs Alap 2022. évi programstrat�
 | 21. | Az alaprészek 2022. évi új kifizetési kötelezettsége | 24,5119 |  |  |
 
 | 22. | 2022. évi pályázatok keretösszege |  | 143,8293 |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
