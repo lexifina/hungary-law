@@ -1,4 +1,4 @@
-## 4/I. [^27] A mérőeszközökkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+## 4/I. [^28] A mérőeszközökkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
 6/P. § (1) Ha a piacfelügyeleti hatóság tényszerű adatok alapján feltételezi, hogy a mérőműszer használata kockázatot jelent a közérdek védelmére nézve, akkor elvégzi az érintett mérőműszernek a mérőeszközökre vonatkozó egyedi előírásokról szóló miniszteri rendeletben (a továbbiakban: R8.) meghatározott követelmények szerinti értékelését.
 
@@ -16,4 +16,4 @@
 
 (8) Ha a nemzeti intézkedés az Európai Bizottság döntése alapján indokolt, akkor a piacfelügyeleti hatóság meghozza a szükséges intézkedéseket, hogy a nem megfelelő mérőműszert kivonja a forgalomból és erről tájékoztatja az Európai Bizottságot.
 
-[^27]: A 4/I. alcímet (6/P–6/Q. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^28]: A 4/I. alcímet (6/P–6/Q. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.

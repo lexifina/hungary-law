@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-6-20-22
 | 2021-07-16 | 2013-6-20-22.16 | 246/2020. (V. 28.) Korm. rendelet |
 | 2022-01-01 | 2013-6-20-22.17 | 736/2021. (XII. 21.) Korm. rendelet |
 | 2022-05-26 | 2013-6-20-22.18 | 434/2017. (XII. 21.) Korm. rendelet |
+| 2022-08-19 | 2013-6-20-22.19 | 316/2022. (VIII. 16.) Korm. rendelet |
