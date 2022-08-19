@@ -258,7 +258,7 @@ CEGY_ESZ = min (QNOM - QALL, QALL * 0,05) * (PAktuális import ár - Pme + Pelsz
 
 7.15.2. sp: eltérés (spread), értéke 1,05 EUR/MWh;
 
-7.15.3. EURHUF: a szállítási hónapot követő hónap 16. napjával kezdődő, és a szállítási hónapot követő hónap utolsó napjával záródó időszakban a Bloomberg által a banki napokon közzétett BFIX EURHUF jegyzés budapesti idő szerint 14 óra 30 perckor érvényes értékeinek számtani átlaga. Banki napok alatt, a magyarországi munkaszüneti és a magyarországi munkarend áthelyezés eredményeképpen áthelyezésre kerülő munkanapok figyelmen kívül hagyásával, a hétfőtől péntekig terjedő napok értendők, beleértve a hétfői és pénteki napokat is;
+7.15.3. EURHUF: a szállítási hónapot követő hónap 16. napjával kezdődő, és a szállítási hónapot követő második hónap 15. napjával záródó időszakban a Bloomberg által a banki napokon közzétett BFIX EURHUF jegyzés budapesti idő szerint 14 óra 30 perckor érvényes értékeinek számtani átlaga. Banki napok alatt, a magyarországi munkaszüneti és a magyarországi munkarend áthelyezés eredményeképpen áthelyezésre kerülő munkanapok figyelmen kívül hagyásával, a hétfőtől péntekig terjedő napok értendők, beleértve a hétfői és pénteki napokat is;
 
 7.16. PAktuális import ár_negyedéves átlag (import földgáz átlagos ára az adott naptári év negyedévében, HUF/kWh-ban kifejezve): az adott negyedév egyes hónapjaira vonatkozó PAktuális import ár mennyiséggel súlyozott átlaga, ahol a mennyiségi súlyozás alapja az egyetemes szolgáltatók számára tervezett értékesítési profil;
 
@@ -374,4 +374,4 @@ A fentiek alapján a Qbeárazódott , a QTárolói fedezés és a QHidegre_elkü
 
 7.43. PTöbblet-1 (HUF/kWh-ban kifejezve): a QTöbblet-1 mennyiséggel súlyozott átlagára.
 
-[^49]: A 3. melléklet az 5/2022. (VI. 30.) TIM rendelet 1. § (3) bekezdésével megállapított szöveg
+[^49]: A 3. melléklet az 5/2022. (VI. 30.) TIM rendelet 1. § (3) bekezdésével megállapított, a 15/2022. (VIII. 18.) TIM rendelet 4. § c) pontja szerint módosított szöveg

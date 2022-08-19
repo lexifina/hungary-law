@@ -10,7 +10,7 @@
 
 | 3. | augusztus | MVM Next Energiakereskedelmi Zrt. | 519 365 000 | 0 | 4,731 |
 
-| 4. | szeptember | MVM Next Energiakereskedelmi Zrt. | 865 042 000 | 0 | 4,731 |
+| 4. | szeptember | MVM Next Energiakereskedelmi Zrt. | 865 042 000 | 0 | 24,313 |
 
 2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^48]
 
