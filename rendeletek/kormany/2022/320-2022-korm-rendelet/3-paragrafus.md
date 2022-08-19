@@ -1,0 +1,3 @@
+3. § (1) Az R2. 15. § (1) bekezdés 26. pontjában foglaltakon túl a harmadik országbeli állampolgár Magyarország területén foglalkoztatásra irányuló jogviszony keretében történő foglalkoztatásához nincs szükség engedélyre a törvény alapján meghatározott fővállalkozó, vagy annak a törvény alapján meghatározott alvállalkozója általi – a beruházással összefüggésben történő – magyarországi foglalkoztatásához, ideértve – a beruházással összefüggésben – az R2. szerinti munkaerő-kölcsönzés útján történő foglalkoztatást is.
+
+(2) Az (1) bekezdés szerinti esetben a harmadik országbeli állampolgárnak a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét hitelt érdemlő módon kell igazolni.
