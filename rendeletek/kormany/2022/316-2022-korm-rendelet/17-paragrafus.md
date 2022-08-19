@@ -1,0 +1,1 @@
+## „(5) A termelési jelentés elkészítése során nem kell figyelembe venni a borászati termék előállításához felhasznált, első származási bizonyítvánnyal rendelkező borászati terméktétel, valamint a további feldolgozással érintett borászati terméktételre készletigazolás céljából kiadott első származási bizonyítvánnyal rendelkező borászati terméktétel mennyiségét.”
