@@ -1,4 +1,4 @@
-30. §[^4] (1) A szőlőültetvény vagy ültetvényrész további szüretének bejegyzése érdekében az ültetvény használója legkésőbb az új szüretet megelőző napig tájékoztatja a hegybírót a további szüretről. A hegybíró a tájékoztatást haladéktalanul továbbítja a felvásárló részére.
+30. §[^11] (1) A szőlőültetvény vagy ültetvényrész további szüretének bejegyzése érdekében az ültetvény használója legkésőbb az új szüretet megelőző napig tájékoztatja a hegybírót a további szüretről. A hegybíró a tájékoztatást haladéktalanul továbbítja a felvásárló részére.
 
 (2) A hegybíró az (1) bekezdés szerinti tájékoztatás alapján új szüret bejelentő lapot ad ki a szőlőültetvény vagy ültetvényrész vonatkozásában.
 
@@ -16,4 +16,4 @@ ab) ahhoz a korábbi szürettel érintett felvásárló a (3) bekezdés alapján
 
 b) a szőlőültetvényről vagy ültetvényrészről származó termést az ültetvényhasználó vagy vele azonos borgazdasági egységbe tartozó személy dolgozza fel.
 
-[^4]: A 30. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^11]: A 30. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.

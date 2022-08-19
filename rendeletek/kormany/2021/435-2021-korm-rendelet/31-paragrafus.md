@@ -1,6 +1,10 @@
-31. §[^5] (1) A szüretről a szőlőtermés
+31. §[^12] (1) A szüretről a szőlőtermés
 
-a) felvásárlása esetén a felvásárló a felvásárlási jeggyel legkésőbb a szüret utolsó napját követő 7. napig,
+a)[^13] felvásárlása esetén a felvásárló a felvásárlási jeggyel legkésőbb
+
+aa) november 30-ig vagy
+
+ab) november 30-át követő szüret esetén a szüret utolsó napját követő 7. napig,
 
 b) saját feldolgozása esetén az ültetvény használója a szüret bejelentésével legkésőbb
 
@@ -34,4 +38,5 @@ bb) az (1) bekezdés szerint adatot szolgáltathat.
 
 (7) Ha a felvásárló külföldi adóügyi illetőségűnek minősülő személy, a felvásárlási jeggyel – az (1) bekezdés a) pontjában foglaltaktól eltérően – az ültetvényhasználó szolgáltat adatot a hegybíró részére.
 
-[^5]: A 31. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^12]: A 31. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^13]: A 31. § (1) bekezdés a) pontja a 316/2022. (VIII. 16.) Korm. rendelet 15. §-ával megállapított szöveg.

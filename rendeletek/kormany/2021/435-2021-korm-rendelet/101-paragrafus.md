@@ -1,4 +1,4 @@
-## 100. § A 75. § (1) bekezdésében foglaltaktól eltérően a 2021/2022. borpiaci év során az elektronikusan teljesítendő ágazati adminisztrációs kötelezettségnek a 75. § (3) bekezdése alkalmazásával ügyfélszolgálaton keresztül is eleget lehet tenni.
+## 100. §[^52] A 75. § (1) bekezdésében foglaltaktól eltérően a 2023. július 31-ig az elektronikusan teljesítendő ágazati adminisztrációs kötelezettségnek a 75. § (3) bekezdése alkalmazásával ügyfélszolgálaton keresztül is eleget lehet tenni.
 
 ## 45. Az Európai Unió jogának való megfelelés
 
@@ -17,3 +17,5 @@ e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazati er
 f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az alkoholtartalom-növelés engedélyezésére vonatkozó lehetőség által érintett szőlőtermő területek, az engedélyezett borászati eljárások és a szőlőből készült termékek előállítására és tartósítására alkalmazandó korlátozások, a melléktermékek százalékos arányban megadott minimális alkoholtartalma és a melléktermékek kivonása, valamint az OIV adatlapjainak közzététele tekintetében történő kiegészítéséről szóló, 2019. március 12-i (EU) 2019/934 felhatalmazáson alapuló bizottsági rendelet,
 
 g) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőből készült termékek fizikai, kémiai és érzékszervi jellemzőinek meghatározására szolgáló analitikai módszerek, valamint a természetes alkoholtartalom növelésére vonatkozó tagállami határozatokról szóló értesítések tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2019. április 16-i (EU) 2019/935 bizottsági végrehajtási rendelet
+
+[^52]: A 100. § a 316/2022. (VIII. 16.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.

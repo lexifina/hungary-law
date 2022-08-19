@@ -46,10 +46,15 @@
 
 21. szüreti bejegyzés: egy összefüggő időtartam alatt végzett szüret adatainak bejegyzése az ePincekönyv rendszerbe;
 
-22. termelési jelentés: a borászati üzemengedélyes által az adott borpiaci év során leadott és származási bizonyítványt eredményező vagy a határidőig még el nem bírált, seprős újbor készítéséhez fel nem használt must származási bizonyítvány, továbbá első származási bizonyítvány igénylések ePincekönyv rendszerben nyilvántartott összessége;
+22.[^1] termelési jelentés: a borászati üzemengedélyes által az adott borpiaci év során leadott és származási bizonyítványt eredményező vagy a határidőig még el nem bírált, seprős újbor készítéséhez fel nem használt must származási bizonyítvány, továbbá első származási bizonyítvány igénylések által megjelölt borászati terméktétel mennyiségének ePincekönyv rendszerben nyilvántartott összessége;
 
 23. termesztési alkalmassági vizsgálat: az Európai Unió valamely tagállamában fajtajegyzékre vett vagy a Kárpát-medencében korábban termesztésben lévő szőlőfajta Magyarországon történő osztályba sorolása érdekében végzett vizsgálatok összessége;
 
 24. újratelepítési engedély: az 1308/2013/EU európai parlamenti és tanácsi rendelet 66. cikke szerinti engedély;
 
+24a.[^2] újratelepítési jogosultság: az 1308/2013/EU európai parlamenti és tanácsi rendelet 66. cikke vagy 68. cikke szerinti, szőlőültetvény kivágására figyelemmel keletkező, az újratelepítési engedély megadásának alapjául szolgáló jogosultság;
+
 25. ültetvényrész: egy szőlőültetvény felosztásával keletkező, meghatározott méretű és elhelyezkedésű terület.
+
+[^1]: Az 1. § 22. pontja a 316/2022. (VIII. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^2]: Az 1. § 24a. pontját a 316/2022. (VIII. 16.) Korm. rendelet 14. §-a iktatta be.
