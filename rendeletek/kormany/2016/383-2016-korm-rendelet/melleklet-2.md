@@ -1,5 +1,5 @@
-2. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^238]
+2. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^239]
 
 Az erdészeti hatóságként eljáró megyei kormányhivatalok illetékességi területe
 
-[^238]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés a) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^239]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés a) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

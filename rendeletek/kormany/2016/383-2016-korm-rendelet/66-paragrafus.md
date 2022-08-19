@@ -1,5 +1,5 @@
-## 23.[^214]
+## 23.[^215]
 
 66. §
 
-[^214]: A 23. alcímet (66. §-t) a 457/2017. (XII. 28.) Korm. rendelet 591. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^215]: A 23. alcímet (66. §-t) a 457/2017. (XII. 28.) Korm. rendelet 591. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
