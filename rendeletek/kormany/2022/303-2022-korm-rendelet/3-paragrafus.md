@@ -1,0 +1,1 @@
+## 2. § A nyomvonal határát meghatározó pontok tengelypontoktól mért távolsága alszakaszonként a 2. melléklet szerinti táblázat 3. sorában jelölt ponttól a 388. sorában meghatározott pontig a 2. mellékletben méterben meghatározott távolság.
