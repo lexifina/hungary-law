@@ -1,0 +1,5 @@
+2. § (1) A hatszög alakú emlékérme 89% réz, 5% alumínium, 5% cink és 1% ón ötvözetéből (ún. Nordic gold) készült, súlya 20 gramm, egymással szembeni csúcsainak távolsága 37,18 mm, széle sima.
+
+(2) Az emlékérme előlapján a Nemzeti Hauszmann Program keretében felújított Szent István-teremben található falikárpit részletének ábrázolása látható, középpontban az apostoli kettős kereszttel, körülötte a kárpit egyéb díszítőmotívumaival. Az előlap szélén, félköriratban, fent a „MAGYARORSZÁG” felirat, lent a „3000” értékjelzés és a „FORINT” felirat, bal oldalon a „2022” verési évszám szakítja meg a díszítőmotívumot, jobb oldalon a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján a Szent István-terem központi eleme, a Zsolnay-kandalló részletének ábrázolása látható, Szent István mellszobrának a hátlap szélein vonalas, a középpont felé haladva plasztikus megjelenítésével. A hátlap alsó részén a „SZENT ISTVÁN-TEREM” felirat olvasható, fölötte, jobbra Endrődy Zoltán tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
