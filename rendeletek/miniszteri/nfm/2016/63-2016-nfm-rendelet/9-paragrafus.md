@@ -1,6 +1,6 @@
 ## 8. A számlázási és fizetési kötelezettségek teljesítésének szabályai
 
-9. §[^24] (1) A KÁT pénzeszköz vagy Prémium pénzeszköz pozitív értéke esetén a Befogadó a KÁT és Prémium pénzeszköz fizetésére kötelezett részére havonta kiállít egy-egy számviteli bizonylatot a KÁT pénzeszköz és a Prémium pénzeszköz KÁT és Prémium pénzeszköz fizetésére kötelezett által fizetendő összegéről, amelyet a KÁT és Prémium pénzeszköz fizetésére kötelezetthez tartozó tárgyhavi tény értékesítési adat és a KÁT pénzeszköz és a Prémium pénzeszköz tárgyhavi mértékének szorzataként kell kiszámítani.
+9. §[^30] (1) A KÁT pénzeszköz vagy Prémium pénzeszköz pozitív értéke esetén a Befogadó a KÁT és Prémium pénzeszköz fizetésére kötelezett részére havonta kiállít egy-egy számviteli bizonylatot a KÁT pénzeszköz és a Prémium pénzeszköz KÁT és Prémium pénzeszköz fizetésére kötelezett által fizetendő összegéről, amelyet a KÁT és Prémium pénzeszköz fizetésére kötelezetthez tartozó tárgyhavi tény értékesítési adat és a KÁT pénzeszköz és a Prémium pénzeszköz tárgyhavi mértékének szorzataként kell kiszámítani.
 
 (2) A Befogadó az adott hónapban a KÁT és Prémium pénzeszköz fizetésére kötelezettet terhelő, a KÁT pénzeszköz és a Prémium pénzeszköz összegére vonatkozó számviteli bizonylatát a tárgyhónapot követő hónap 6. munkanapjától a KÁT és a Prémium pénzeszköz fizetésére kötelezett részére benyújtja.
 
@@ -14,4 +14,7 @@
 
 (7) A Befogadó a KÁT és Prémium pénzeszköz fizetésére kötelezettek villamosenergia-ellátási szabályzatoknak megfelelően korrigált tény értékesítési adatai alapján, havi rendszerességgel az (1) bekezdés szerinti számviteli bizonylatot módosítja, és a módosítás alapján elszámol a KÁT és Prémium pénzeszköz fizetésére kötelezettel.
 
-[^24]: A 9. § a 15/2022. (IV. 29.) ITM rendelet 1. §-ával megállapított szöveg.
+(8)[^31] A Befogadó köteles havonta minden hónap nyolcadik munkanapján kifizetni a Kr. szerinti földgázszolgáltató részére a KÁT pénzeszköz 5. § (3) bekezdés n) pontja szerinti és a Prémium pénzeszköz 6. § (3) bekezdés h) pontja szerinti többletbevételek összegét.
+
+[^30]: A 9. § a 15/2022. (IV. 29.) ITM rendelet 1. §-ával megállapított szöveg.
+[^31]: A 9. § (8) bekezdését a 15/2022. (VIII. 18.) TIM rendelet 1. § (3) bekezdése iktatta be.
