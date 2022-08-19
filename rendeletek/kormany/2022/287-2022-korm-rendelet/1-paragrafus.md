@@ -2,7 +2,7 @@
 
 (2) Védett természeti területen
 
-a)[^1]
+a)[^2]
 
 b) őshonos fafajokból álló és sarjeredetű természetes felújulásra képes erdőállomány véghasználata az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 10. § (2) bekezdésében és a Tvt. 33. § (5) bekezdésében foglalt korlátozásoktól mentesen végezhető.
 
@@ -18,4 +18,4 @@ b) őshonos fafajokból álló és sarjeredetű természetes felújulásra képe
 
 (8) Az Evt. 41. § (1) bekezdésében foglaltaktól eltérően az erdőgazdálkodó a tevékenység megkezdését legkésőbb 8 nappal megelőzően az erdészeti hatóság részére tett bejelentést követően végezheti. A bejelentés elbírálása során szakkérdés vizsgálatában közreműködő hatóság az állásfoglalását 3 napon belül adja meg.
 
-[^1]: Az 1. § (2) bekezdés a) pontját az Alkotmánybíróság a 9/2024. (IV. 30.) AB határozat 1. pontja megsemmisítette.
+[^2]: Az 1. § (2) bekezdés a) pontját az Alkotmánybíróság a 9/2024. (IV. 30.) AB határozat 1. pontja megsemmisítette.
