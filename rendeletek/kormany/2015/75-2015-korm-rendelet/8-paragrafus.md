@@ -1,4 +1,4 @@
-## 7. §[^5] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr.) módosított 2. mellékletét a Módr. hatálybalépésekor[^6] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^8] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr.) módosított 2. mellékletét a Módr. hatálybalépésekor[^9] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^5]: A 7. §-t a 174/2021. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A hatálybalépés időpontja 2021. április 10.
+[^8]: A 7. §-t a 174/2021. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2021. április 10.
