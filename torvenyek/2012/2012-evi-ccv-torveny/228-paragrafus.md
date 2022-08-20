@@ -1,21 +1,15 @@
-## 131. A VII. Fejezethez kapcsolódó rendelkezések
+228. § (1) Az a honvéd tisztjelölt, aki a tanulmányi és vizsgaszabályzatban, illetve a tantervben rögzített, a tanulmányokban való előrehaladással kapcsolatos kötelezettségeit nem teljesíti, vagy aki a hallgatói jogviszonyát megszünteti,
 
-228. § (1) A tisztjelölti szolgálati viszony közös megegyezéssel történő megszüntetésének minősül, ha a 229. § (1) bekezdés szerinti engedélyt a munkáltatói jogkört gyakorló megadja. Ennek hiányában, ha az érintett a tisztjelölti szolgálati viszonyát nem kívánja fenntartani, a (2) bekezdés rendelkezéseit kell alkalmazni.
+a) a második évfolyam sikeres befejezését megelőzően legénységi állományban, őrvezető kezdő rendfokozattal,
 
-(2) A 61. § (3) bekezdése szerinti időszak kivételével a honvéd tisztjelölt a tisztjelölti szolgálati viszonyát egyoldalú jognyilatkozattal megszüntetheti. Ha a honvéd tisztjelölt kérelmére a felek rövidebb határidőben nem állapodnak meg, a tisztjelölti szolgálati viszony a jognyilatkozat közléstől számított 30 nap elteltével – a munkáltatói jogkört gyakorló külön intézkedése nélkül – megszűnik.
+b) a második évfolyam sikeres befejezését követően altiszti állományban, őrmester kezdő rendfokozattal
 
-(3) A munkáltatói jogkört gyakorló a tisztjelölti szolgálati viszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a honvéd tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha egészségi, pszichikai vagy fizikai állapota miatt, vagy nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti szolgálati viszony a jognyilatkozat közlésétől számított 30. nap elteltével megszűnik. A tisztjelölt és a munkáltatói jogkört gyakorló közös megegyezéssel korábbi időpontban is megállapodhatnak.
+a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződéses katonai szolgálatát.
 
-(4) A tisztjelölti szolgálati viszony e törvény erejénél fogva szűnik meg
+(2) Az (1) bekezdés szerinti honvéd tisztjelölt esetében a 226. § (2) bekezdése szerint vállalt idő a hallgatói jogviszony megszűnésétől számítandó. A honvéd tisztjelölt részére az (1) bekezdés a) vagy b) pontja szerinti rendfokozatának megfelelő szolgálati beosztást kell biztosítani.
 
-a) kizárás fenyítés jogerőre emelkedésével,
+(3) Nem kell biztosítani a honvéd tisztjelölt számára a foglalkoztatást az (1) bekezdés szerint, ha a hallgatói jogviszonya az e Fejezet szerinti szerződéses szolgálati viszony próbaideje alatt szűnik meg, valamint ha a hallgatói jogviszonya az alapfelkészítés teljesítésének hiányában szűnik meg.
 
-b) a hallgatói jogviszony megszűnésének napján, kivéve, ha a hallgatói jogviszony a felsőfokú végzettséget tanúsító oklevél kiállításának napján szűnik meg,
+(4) A honvéd tisztjelölt kérelmére a munkáltatói jogkört gyakorló a szolgálat érdekére, vagy a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel engedélyezheti az (1) bekezdés szerinti legénységi vagy altiszti állományba vételt. Ez az állománykategória-váltás nem érinti azt, hogy az állomány tagja a tanulmányai befejezését követően honvédelmi szervezetnél a 226. § (2) bekezdése szerint legalább 10 év időtartamú szolgálatot köteles teljesíteni.
 
-c) a tiszti állományba vétellel, vagy
-
-d) az altiszti állományba vétellel.
-
-(5) A tisztjelölti szolgálati viszony megszűnésének napján – a munkáltatói jogkört gyakorló külön intézkedése nélkül – az ösztöndíjszerződés hatályát veszti. A tisztjelölti szolgálati viszony megszűnésekor, megszüntetésekor a honvéd tisztjelölt köteles a honvédelmi szervezettel elszámolni.
-
-(6) Ha a tisztjelölti szolgálati viszony a honvéd tisztjelöltnek felróható okból szűnik meg, a honvéd tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti szolgálati viszony megszűnését követő naptól esedékes.
+(5) Az (1) és (4) bekezdés szerinti állománycsoport-váltás nem mentesíti az állomány tagját a 226. § (2) bekezdésben vállalt szolgálati idő letöltése, valamint a 227. § (4) bekezdése szerinti visszafizetési kötelezettség alól.

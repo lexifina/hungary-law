@@ -2,7 +2,7 @@
 
 215. § (1) Megszűnik az önkéntes tartalékos szolgálati viszony akkor is, ha
 
-a) az önkéntes tartalékos katona hivatásos, szerződéses, honvéd tisztjelölt vagy honvéd altiszt-jelölt szolgálati viszonyt létesít,
+a) az önkéntes tartalékos katona hivatásos, szerződéses vagy honvéd altiszt-jelölt szolgálati viszonyt létesít,
 
 b) az önkéntes tartalékos katona miniszteri rendeletben meghatározott más típusú önkéntes tartalékos szolgálati viszonyt létesít,
 

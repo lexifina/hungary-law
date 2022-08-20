@@ -1,6 +1,6 @@
 32. § (1) Hivatásos szolgálati viszony létesíthető
 
-a) a honvéd tisztjelölttel,
+a)
 
 b) a honvéd altiszt-jelölttel,
 

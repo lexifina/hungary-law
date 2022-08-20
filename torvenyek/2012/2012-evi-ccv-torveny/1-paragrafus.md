@@ -4,7 +4,7 @@
 
 ## 1. A törvény hatálya, értelmező rendelkezések
 
-1. § (1) E törvény hatálya a hivatásos és a szerződéses állományú katonákra (a továbbiakban együtt: állomány tagja), a tényleges szolgálatot teljesítő önkéntes tartalékos katonákra, a honvéd tisztjelöltekre, és a honvéd altiszt-jelöltekre terjed ki.
+1. § (1) E törvény hatálya a hivatásos és a szerződéses állományú katonákra (a továbbiakban együtt: állomány tagja), a tényleges szolgálatot teljesítő önkéntes tartalékos katonákra és a honvéd altiszt-jelöltekre terjed ki.
 
 (2) E törvény hatálya
 

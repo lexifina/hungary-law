@@ -34,7 +34,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 11. honvéd altiszt-jelölt: az iskolarendszerű nappali tagozatos katonai szakképzésre felvételt nyert személy, aki annak időtartama alatt tanulói jogviszonyban és altiszt-jelölti szolgálati viszonyban áll,
 
-12. honvéd tisztjelölt: a honvédtiszti alapképzésre felvételt nyert személy, aki annak időtartama alatt hallgatói jogviszonyban és tisztjelölti szolgálati viszonyban áll,
+12. honvéd tisztjelölt: a honvédtiszti alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XX. Fejezetben meghatározottak szerinti szerződéses szolgálati viszonyban áll,
 
 12a. honvédelmi illetményalap: az évente, a központi költségvetésről szóló törvényben megállapított honvédelmi illetményalap, amely nem lehet alacsonyabb összegű az előző évi honvédelmi illetményalapnál,
 

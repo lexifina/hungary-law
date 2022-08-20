@@ -1,11 +1,5 @@
-## 132. A VI., a VIII. és a IX. Fejezethez kapcsolódó rendelkezések
+## 132. A X. és a XI. Fejezethez kapcsolódó rendelkezések
 
-230. § (1) A honvéd tisztjelölt az MH Ludovika Zászlóalj (a továbbiakban: Zászlóalj) tisztjelölti szolgálati beosztásában rendfokozat nélkül teljesít szolgálatot.
+230. § (1) A honvéd tisztjelölt havonta a miniszter rendeletében meghatározottak szerinti illetményre jogosult. Az illetmény alapilletményből és tanulmányi díjból, valamint illetménypótlékból áll. Az alapilletmény legalább a garantált bérminimumnak megfelelő összeg. Az alapilletmény évfolyamonkénti eltérő mértékét, a tanulmányi díj mértékét és az illetménypótlék összegét a miniszter rendeletben állapítja meg.
 
-(2) A katonai érintkezés során a honvéd tisztjelöltet az alapfelkészítést követően az első évfolyamon őrmesteri, a másodikon törzsőrmesteri, a harmadikon főtörzsőrmesteri, a negyedik évfolyamon zászlósi rendfokozathoz kapcsolódó, a szolgálati szabályzatban rögzített kötelességek terhelik, és – ide nem értve a járandóságokat – jogok illetik meg.
-
-(3) A honvéd tisztjelölt szolgálatteljesítése kiképzési időnek minősül, melyet úgy kell megállapítani, hogy az a honvéd tisztjelölt tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse. A honvéd tisztjelölt laktanyai elhelyezésre jogosult és kötelezett.
-
-(4) A honvéd tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti szolgálati viszonyának fennállását nem érinti. A honvéd tisztjelölt a munkáltatói jogkört gyakorlótól kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a tisztjelölti szolgálati viszony szünetelését engedélyezze.
-
-(5) A honvéd tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására kijelölhető.
+(2) Az (1) bekezdés szerinti illetményen felül a honvéd tisztjelöltet megillető egyéb juttatásokat miniszteri rendelet állapítja meg.

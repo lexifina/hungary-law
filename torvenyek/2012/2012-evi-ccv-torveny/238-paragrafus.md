@@ -112,6 +112,10 @@ h) a XXI/B. Fejezet szerinti különös szabályok alkalmazásának bevezetésé
 
 44. a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.
 
+45. a honvéd tisztjelölteknek a honvédtiszti alapképzés időtartama alatt, illetve az állomány tagjának a 10 éves határozott idejű szolgálata alatt fennálló visszafizetési kötelezettsége eseteire, módjára, összegére vonatkozó szabályokat, a visszafizetési kötelezettség érvényesítésének, ideértve a halasztás engedélyezésének rendjét, a fizetési könnyítés és a mentesítési eljárás szabályait,
+
+46. a honvéd tisztjelölt alapilletményének évfolyamonkénti eltérő mértékét, a tanulmányi díjának mértékét, az illetménypótlék összegét és az egyéb juttatások körét.
+
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
 a) azon fertőző betegségek körét, amelyek esetén kötelező védőoltás elrendelésének van helye a megbetegedési veszély miatt, a szolgálati beosztáshoz, illetve a szolgálati feladatokhoz kapcsolódóan, és

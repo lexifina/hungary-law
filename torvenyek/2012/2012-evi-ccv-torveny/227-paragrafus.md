@@ -1,13 +1,11 @@
-## 130. Az V. Fejezethez kapcsolódó rendelkezések
+## 130. A VII. Fejezethez kapcsolódó rendelkezések
 
-227. § (1) A honvédtiszti alapképzésre felvételt nyert személy az ösztöndíjszerződés megkötésével honvéd tisztjelölti állományba kerül. Honvédtiszti alapképzésben ösztöndíjszerződés megkötése nélkül hallgatói jogviszony nem létesíthető, és nem tartható fenn.
+227. § (1) A honvéd tisztjelölt számára jogszabályban nem meghatározott további tanulmányi vagy képzési kötelezettség írható elő a szerződésében.
 
-(2) A tisztjelölti szolgálati viszony létesítésének további feltétele, hogy a honvéd tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem köthető ösztöndíjszerződés azzal, akinek ösztöndíjas hallgatói jogviszonya vagy tisztjelölti szolgálati viszonya kizárás-fenyítés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
+(2) A honvéd tisztjelölt felmentési ideje 1 hónap. A honvéd tisztjelölt és a munkáltatói jogkört gyakorló ennél rövidebb felmentési időben is megállapodhat.
 
-(3) Az ösztöndíjszerződést, és annak módosítását írásba kell foglalni. A honvéd tisztjelölt az ösztöndíjszerződés megkötésével vállalja, hogy honvédtiszti tanulmányait legjobb képességei szerint folytatja, és hivatásos állományba vételét követően, legalább a honvédtiszti alapképzés kétszeresének megfelelő időtartamban a honvédelmi szervezetnél szolgálatot teljesít. A honvédelmi szervezet azt vállalja, hogy a honvéd tisztjelölt honvédtiszti tanulmányait támogatja, ezek befejezését követően hivatásos állományba veszi, és megfelelő szolgálati beosztásban foglalkoztatja.
+(3) A honvéd tisztjelölt szolgálati viszonya a 68. §-ban foglaltak mellett megszűnik a kizárás fenyítés jogerőre emelkedésével.
 
-(4) A honvéd tisztjelölt a beiratkozást követő egy félév időtartamban katonai alapfelkészítésen vesz részt. A katonai alapfelkészítés megkezdése előtt a honvéd tisztjelölt honvéd esküt tesz.
+(4) Ha a honvéd tisztjelölt szolgálati viszonya a képzés időtartama alatt, illetve ha az állomány tagjának a szolgálati viszonya a 226. § (2) bekezdése szerinti 10 éves határozott idejű szolgálata alatt miniszteri rendeletben meghatározott okból szűnik meg, a honvéd tisztjelöltnek, illetve az állomány tagjának miniszteri rendeletben meghatározott visszafizetési kötelezettsége keletkezik. A visszafizetési kötelezettség a szolgálati viszony megszűnését követő naptól esedékes.
 
-(5) Az ösztöndíjszerződésben a katonai alapfelkészítést tartalmazó félév idejére próbaidőt kell kikötni. A próbaidő alatt a tisztjelölti szolgálati viszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti. A próbaidő alatt meg kell szüntetni a tisztjelölti szolgálati viszonyát annak, aki a katonai alapfelkészítést önhibájából nem teljesíti, vagy a nemzetbiztonsági követelményeknek nem felel meg.
-
-(6) A korábban folytatott katonai felsőfokú tanulmányok elismerésével megkötött ösztöndíjszerződésben – amennyiben a honvéd tisztjelölt ismételt katonai alapfelkészítésére nem kerül sor – 6 hónap próbaidőt kell kikötni.
+(5) A visszafizetési kötelezettség részbeni vagy teljes megfizetése alól a miniszter – miniszteri rendeletben meghatározott rendben – a honvéd tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti.
