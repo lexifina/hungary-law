@@ -1,12 +1,12 @@
 ## 2. A kár megállapítása
 
-2. § (1)[^2] Az állományilletékes parancsnok a kár felfedezéséről való tudomásszerzést követően haladéktalanul intézkedik a kár összegének és a károkozó személyének, továbbá a kötelezettségszegést alátámasztó vagy kizáró körülményeknek a megállapítására.
+2. § (1)[^3] Az állományilletékes parancsnok a kár felfedezéséről való tudomásszerzést követően haladéktalanul intézkedik a kár összegének és a károkozó személyének, továbbá a kötelezettségszegést alátámasztó vagy kizáró körülményeknek a megállapítására.
 
-(1a)[^3] A Hvt. 79/C. §-ában nevesített gépjárművel vagy gépjárműben okozott kár esetén, ha a kárfelvételi jegyzőkönyv adatai alapján az állomány tagjának kártérítésre kötelezésére jogszabályban foglalt kizáró okok alapján nincs lehetőség, a 36. §-ban foglaltaknak megfelelően kell eljárni.
+(1a)[^4] A Hvt. 79/C. §-ában nevesített gépjárművel vagy gépjárműben okozott kár esetén, ha a kárfelvételi jegyzőkönyv adatai alapján az állomány tagjának kártérítésre kötelezésére jogszabályban foglalt kizáró okok alapján nincs lehetőség, a 36. §-ban foglaltaknak megfelelően kell eljárni.
 
 (2) A kártérítési eljárás a káreljárást elrendelő határozattal indul meg. A határozatot az állományilletékes parancsnok adja ki. A határozatban meg kell jelölni a káreljárás alapjául szolgáló tényeket, vizsgálót kell kijelölni, és rögzíteni kell minden egyéb lényeges körülményt.
 
-(3)[^4] A kártérítési eljárás során a tényállás megállapítására vizsgálóként arra alkalmas és elfogulatlan személyt kell kijelölni.
+(3)[^5] A kártérítési eljárás során a tényállás megállapítására vizsgálóként arra alkalmas és elfogulatlan személyt kell kijelölni.
 
 (4) A káreljárás lefolytatására legalább háromtagú bizottságot kell kijelölni, ha
 
@@ -26,6 +26,6 @@ a) a károkozó a felelősségét előzetesen elismerte, vagy
 
 b) a (4) bekezdés b) és c) pontja szerinti károkozás esetén a kár károkozók által is elismert pontos összege megállapítható és a károkozók egymás közötti kárfelelősségének mértéke meghatározható.
 
-[^2]: A 2. § (1) bekezdése a 17/2020. (XII. 12.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1a) bekezdését a 17/2020. (XII. 12.) HM rendelet 2. § (2) bekezdése iktatta be.
-[^4]: A 2. § (3) bekezdése a 6/2014. (IV. 14.) HM rendelet 13. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 17/2020. (XII. 12.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1a) bekezdését a 17/2020. (XII. 12.) HM rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 2. § (3) bekezdése a 6/2014. (IV. 14.) HM rendelet 13. §-a szerint módosított szöveg.

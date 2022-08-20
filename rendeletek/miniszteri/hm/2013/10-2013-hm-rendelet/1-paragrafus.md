@@ -6,7 +6,7 @@
 
 1. § (1) E Fejezet alkalmazásában
 
-1. katona: a hivatásos és szerződéses katona, a tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint a honvéd tisztjelölt és a honvéd altiszt-jelölt,
+1.[^1] katona: a hivatásos és szerződéses katona, a tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint a honvéd altiszt-jelölt,
 
 2. kár: a Magyar Honvédséget (a továbbiakban: Honvédség) ért vagyoni hátrány, különösen
 
@@ -30,6 +30,7 @@ c) a Honvédséget megillető vagyoni értékű jog és követelés,
 
 d) a gazdálkodó szervezeteknek vagy civil szervezeteknek átadott azon vagyontárgy és pénzeszköz, amelyet e szervezetek a Honvédséggel szembeni visszaszolgáltatási vagy elszámolási kötelezettséggel kezelnek.
 
-(2)[^1] Több személy együttes károkozása esetén az állományilletékes parancsnoki jogkört a közös elöljáró parancsnok, ennek hiányában a Magyar Honvédség parancsnoka gyakorolja.
+(2)[^2] Több személy együttes károkozása esetén az állományilletékes parancsnoki jogkört a közös elöljáró parancsnok, ennek hiányában a Magyar Honvédség parancsnoka gyakorolja.
 
-[^1]: Az 1. § (2) bekezdése a 17/2020. (XII. 12.) HM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés 1. pontja a 7/2022. (IV. 14.) HM rendelet 11. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 17/2020. (XII. 12.) HM rendelet 1. §-ával megállapított szöveg.

@@ -8,8 +8,8 @@ a) a kötelezett vagyontalan, illetve bizonyíthatóan tartósan vagy véglegese
 
 b) a behajtás költségigénye eléri a követelt összeget, illetve az államháztartásról szóló 2011. évi CXCV. törvény 97. § (3) bekezdése alapján a központi költségvetésről szóló törvényben megállapított értékhatárt el nem érő kis összegű követelésnek minősül.
 
-(3)[^42] A 100 000 Ft-ot meghaladó kártérítési összeget a HM és a miniszter közvetlen alárendeltségébe tartozó szervezeteknél a HM KÁT, a honvédségi szervezetnél a Magyar Honvédség parancsnoka törölheti.
+(3)[^43] A 100 000 Ft-ot meghaladó kártérítési összeget a HM és a miniszter közvetlen alárendeltségébe tartozó szervezeteknél a HM KÁT, a honvédségi szervezetnél a Magyar Honvédség parancsnoka törölheti.
 
 (4) A behajthatatlannak minősített, a KNBSZ-nél nyilvántartott kártérítés összegét a KNBSZ főigazgatója összeghatártól függetlenül törölheti.
 
-[^42]: A 47. § (3) bekezdése a 17/2020. (XII. 12.) HM rendelet 8. § f) pontja szerint módosított szöveg.
+[^43]: A 47. § (3) bekezdése a 17/2020. (XII. 12.) HM rendelet 8. § f) pontja szerint módosított szöveg.
