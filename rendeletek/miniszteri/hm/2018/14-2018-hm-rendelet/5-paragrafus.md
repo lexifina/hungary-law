@@ -26,7 +26,7 @@ a) 1–5. pontja szerinti jogosultság esetén: 300 Ft/fő/nap,
 
 b) 6. pontja szerinti jogosultság esetén: 750 Ft/fő,
 
-c) 7. pontja szerinti jogosultság esetén: 140 Ft/fő/nap,
+c)[^17] 7. és 7a. pontja szerinti jogosultság esetén: 140 Ft/fő/nap,
 
 d) 8. pontja szerinti jogosultság esetén: 305 Ft/fő,
 
@@ -55,3 +55,4 @@ e) 9. pontja szerinti jogosultság esetén: 290 Ft/fő,
 [^14]: Az 5. § (2) bekezdése a 12/2019. (XII. 10.) HM rendelet 8. § a) pontja szerint módosított szöveg.
 [^15]: Az 5. § (3) bekezdése a 8/2019. (VII. 4.) HM rendelet 11. § 4. pontja szerint módosított szöveg.
 [^16]: Az 5. § (4) bekezdése a 15/2020. (X. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^17]: Az 5. § (4) bekezdés 7. pont c) alpontja a 7/2022. (IV. 14.) HM rendelet 39. § b) pontja szerint módosított szöveg.

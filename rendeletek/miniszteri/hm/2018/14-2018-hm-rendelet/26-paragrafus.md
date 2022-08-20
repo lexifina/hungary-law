@@ -1,4 +1,4 @@
-## 25. §[^89] Tankonyhai élelmezési norma az egyéni tankonyhai főzésen részt vevő, katonai oktatási intézmény hallgatói, valamint az MH szintű, a nemzeti és a nemzetközi szakácsversenyen részt vevő személyi állomány által a felkészülés és a verseny napjain elkészített adagszám után az MHP élelmezési anyagnemért felelős főnökének engedélye alapján számítható fel.
+## 25. §[^95] Tankonyhai élelmezési norma az egyéni tankonyhai főzésen részt vevő, katonai oktatási intézmény hallgatói, valamint az MH szintű, a nemzeti és a nemzetközi szakácsversenyen részt vevő személyi állomány által a felkészülés és a verseny napjain elkészített adagszám után az MHP élelmezési anyagnemért felelős főnökének engedélye alapján számítható fel.
 
 ## 13. Tisztálkodó szer norma szerinti ellátás
 
@@ -18,14 +18,14 @@ a) fertőtlenítő hatású folyékony kéztisztító a katonai szervezet kezel�
 
 b) szappan vagy a normaértékkel megegyező folyékony fürdőszer a repülőterek magassági állomásaiban üzemelő fürdők részére.
 
-(3)[^90] Az (1) és (2) bekezdésben meghatározott tisztálkodási szerek személyenként, szolgálatteljesítési helyenként vagy munkahelyenként, havonta értendők. A munkahelyeket, szolgálatteljesítési helyeket és az igényjogosultak foglalkozás szerinti felsorolását, valamint a járandóság mennyiségét a honvédelmi szervezet és a miniszter fenntartói irányítása alá tartozó köznevelési intézmény vezetője saját hatáskörben állapítja meg.
+(3)[^96] Az (1) és (2) bekezdésben meghatározott tisztálkodási szerek személyenként, szolgálatteljesítési helyenként vagy munkahelyenként, havonta értendők. A munkahelyeket, szolgálatteljesítési helyeket és az igényjogosultak foglalkozás szerinti felsorolását, valamint a járandóság mennyiségét a honvédelmi szervezet és a miniszter fenntartói irányítása alá tartozó köznevelési intézmény vezetője saját hatáskörben állapítja meg.
 
 (4) Ha a szappan helyett helyettesítő termék kerül kiadásra, akkor a (3) bekezdéstől eltérően egyszerre legfeljebb háromhavi tisztítószer járandóság is kiadható.
 
-(5)[^91] A tisztálkodó szer normára jogosult munkakört és beosztást betöltő személyek körét, valamint a szolgálatteljesítési és munkahelyek tisztálkodó szer ellátásra való jogosultságát, a közegészségügyi előírások, továbbá a honvédelmi szervezet és a miniszter fenntartói irányítása alá tartozó köznevelési intézmény munkahelyi kockázatértékelése alapján az állományilletékes parancsnok vagy a munkáltatói jogkör gyakorlója évente járandósági parancsban vagy határozatban állapítja meg.
+(5)[^97] A tisztálkodó szer normára jogosult munkakört és beosztást betöltő személyek körét, valamint a szolgálatteljesítési és munkahelyek tisztálkodó szer ellátásra való jogosultságát, a közegészségügyi előírások, továbbá a honvédelmi szervezet és a miniszter fenntartói irányítása alá tartozó köznevelési intézmény munkahelyi kockázatértékelése alapján az állományilletékes parancsnok vagy a munkáltatói jogkör gyakorlója évente járandósági parancsban vagy határozatban állapítja meg.
 
 (6) A tisztálkodó szerre való jogosultság, valamint a tisztítószer és bőrápoló készítmény igény meghatározását a szolgálatteljesítési és a munkakörülmények változása esetén haladéktalanul, egyéb esetben a munkahelyi kockázatértékelés gyakoriságához illeszkedő rendszerességgel, de legalább 3 évente végre kell hajtani.
 
-[^89]: A 25. § a 8/2019. (VII. 4.) HM rendelet 11. § 27. pontja szerint módosított szöveg.
-[^90]: A 26. § (3) bekezdése a 8/2019. (VII. 4.) HM rendelet 11. § 24. pontja szerint módosított szöveg.
-[^91]: A 26. § (5) bekezdése a 8/2019. (VII. 4.) HM rendelet 11. § 24. pontja szerint módosított szöveg.
+[^95]: A 25. § a 8/2019. (VII. 4.) HM rendelet 11. § 27. pontja szerint módosított szöveg.
+[^96]: A 26. § (3) bekezdése a 8/2019. (VII. 4.) HM rendelet 11. § 24. pontja szerint módosított szöveg.
+[^97]: A 26. § (5) bekezdése a 8/2019. (VII. 4.) HM rendelet 11. § 24. pontja szerint módosított szöveg.

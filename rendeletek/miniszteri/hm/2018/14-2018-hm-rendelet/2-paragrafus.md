@@ -34,7 +34,7 @@ d) a katonai rendezvények egyéb résztvevőit,
 
 7a.[^8] szállító-repülőgép szakszemélyzete: a nem harcászati, szállító merevszárnyú repülőgépeken szolgálati feladatot ellátó repülőhajózó MAK-kal rendszeresített beosztást betöltő repülőhajózó, és egyéb beosztott állomány, valamint repülőműszaki MAK-kal rendszeresített beosztást betöltő, repülőműszaki feladatokat végző állomány,
 
-8.[^9] személyi állomány: a hivatásos és a szerződéses katona, a tényleges szolgálatot teljesítő önkéntes tartalékos katona, a honvéd tisztjelölt, a honvéd altiszt-jelölt, a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, honvédelmi alkalmazott vagy munkavállaló, valamint a miniszter fenntartói irányítása alá tartozó köznevelési intézménynél foglalkoztatott közalkalmazott.
+8.[^9] személyi állomány: a hivatásos és a szerződéses katona, a tényleges szolgálatot teljesítő önkéntes tartalékos katona, a honvéd altiszt-jelölt a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, honvédelmi alkalmazott vagy munkavállaló, valamint a miniszter fenntartói irányítása alá tartozó köznevelési intézménynél foglalkoztatott közalkalmazott.
 
 9.[^10] utas: a személyi állomány azon tagja, aki a nem harcászati, szállító merevszárnyú repülőgépek fedélzetén nem a szállító-repülőgép szakszemélyzeteként tartózkodik.
 
@@ -45,5 +45,5 @@ d) a katonai rendezvények egyéb résztvevőit,
 [^6]: A 2. § 4. pontja a 8/2019. (VII. 4.) HM rendelet 11. § 2. pontja és 12. § b) pontja szerint módosított szöveg. [A 2. § 4. pontjának a 9/2019. (VIII. 30.) HM rendelet 11. § a) pontjával elrendelt módosítása, amely szerint a „honvédelemért felelős miniszter (a továbbiakban: miniszter)” szövegrész helyébe a „miniszter” szöveg lép, nem vezethető át.]
 [^7]: A 2. § 6. pont b) alpontja a 8/2019. (VII. 4.) HM rendelet 11. § 3. pontja szerint módosított szöveg.
 [^8]: A 2. § 7a. pontját a 9/2019. (VIII. 30.) HM rendelet 7. § (4) bekezdése iktatta be.
-[^9]: A 2. § 8. pontja a 8/2019. (VII. 4.) HM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § 8. pontja a 8/2019. (VII. 4.) HM rendelet 1. §-ával megállapított, a 7/2022. (IV. 14.) HM rendelet 39. § a) pontja szerint módosított szöveg.
 [^10]: A 2. § 9. pontját a 9/2019. (VIII. 30.) HM rendelet 7. § (5) bekezdése iktatta be.
