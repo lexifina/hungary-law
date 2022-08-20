@@ -1,8 +1,8 @@
-## 4. §[^1]
-
 1. melléklet a 288/2022. (VIII. 5.) Korm. rendelethez
 
 1. A Számlakép tv. 1. melléklet 2. pontja szerinti alsó, rezsicsökkentéssel kapcsolatos adatokat tartalmazó színes mező szövegét az alábbi eltéréssel kell alkalmazni:
+
+## 2X05617A_0
 
 | Magyarország Kormánya az átlagfogyasztásig rezsicsökkentett díj alkalmazását írta elő. |
 
@@ -17,5 +17,3 @@
 ## „4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolt időszakban: a számlázással érintett időszak tekintetében a hatályos árképzésből eredő megtakarítás bruttó értéke – beleértve a villamos energia termékdíjat, rendszerhasználati díjakat, pénzeszköz jellegű tételeket – a villamos energia versenypiaci egységára alapján történő árképzés bruttó értékéhez képest, összegszerűen feltüntetve.”
 
 4. A Számlakép tv. 1. melléklet 4. pont 4.8. alpontja nem alkalmazandó.
-
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2022. augusztus 20-án lép hatályba.

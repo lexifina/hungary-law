@@ -2,6 +2,8 @@
 
 1. A Számlakép tv. 3. melléklet 2. pontja szerinti alsó, rezsicsökkentéssel kapcsolatos adatokat tartalmazó színes mező szövegét az alábbi eltéréssel kell alkalmazni:
 
+## 2X05618A_0
+
 | Magyarország Kormánya az átlagfogyasztásig rezsicsökkentett díj alkalmazását írta elő. |
 
 | Rezsicsökkentett díj nélkül az Ön fizetési kötelezettsége az elszámolt időszakban a következő összeg lett volna: | Ft |
