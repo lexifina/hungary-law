@@ -1,1 +1,3 @@
-## „(11) A 3. melléklet 1. pontjában és a 4. melléklet 1. pontjában foglalt táblázatban, valamint az 5. mellékletben felsorolt EOV koordináták által határolt területekre vonatkozóan, a (2)–(10) bekezdésben foglalt sajátos beépítési szabályok és egyedi építési követelmények szerint előírt zöldfelület legkisebb mértékének kialakítása és a hatályos településrendezési tervben meghatározott fásítási kötelezettség megvalósítása az építési telkek tervezett teljes beépítettségéhez viszonyítottan, azzal arányosan és ütemezetten is megvalósítható az építési beruházással érintett területeken telekalakítással kialakuló egyes építési telkeken belül.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
