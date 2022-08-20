@@ -1,6 +1,6 @@
-## 12. §[^29]
+## 12. §[^32]
 
-## 8. [^30] A kormánytisztviselőkre, közalkalmazottakra és honvédelmi alkalmazottakra vonatkozó kegyeleti gondoskodás
+## 8. [^33] A kormánytisztviselőkre, közalkalmazottakra és honvédelmi alkalmazottakra vonatkozó kegyeleti gondoskodás
 
 13. § (1) Az elhunyt közalkalmazottat, honvédelmi alkalmazottat a munkáltatói jogkört gyakorló vezető a „Honvédelmi szervezet saját halottjává” nyilváníthatja. A közszolgálat halottjává nyilvánított elhunyt kormánytisztviselőre a HM közszolgálati szabályzatában foglaltakat kell alkalmazni.
 
@@ -16,5 +16,5 @@
 
 (7) A (6) bekezdés alapján minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a munkáltatói jogkört gyakorló munkáltatói döntésben engedélyezi. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezéseket kell alkalmazni.
 
-[^29]: A 12. §-t a 22/2021. (XI. 5.) HM rendelet 12. §-a hatályon kívül helyezte.
-[^30]: A 8. alcím (13. §) a 22/2021. (XI. 5.) HM rendelet 10. §-ával megállapított szöveg.
+[^32]: A 12. §-t a 22/2021. (XI. 5.) HM rendelet 12. §-a hatályon kívül helyezte.
+[^33]: A 8. alcím (13. §) a 22/2021. (XI. 5.) HM rendelet 10. §-ával megállapított szöveg.
