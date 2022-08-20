@@ -168,75 +168,63 @@
 
 | 80 | Fekete deréköv | db | 1 | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
 
-| 81 | Köznapi paroli rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
+| 81 | Köznapi paroli rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 82 | Köznapi paroli évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
+| 82 | Társasági paroli rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |
 
-| 83 | Társasági paroli rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |
+| 83 | Csillag | db | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 2 | 2 | 2 | 2 |
 
-| 84 | Csillag | db | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 2 | 2 |  |  |
+| 84 | Hadihajós rendfokozati jelzés | pár |  |  |  |  |  |  |  |  | 1 | 1 |  |  |
 
-| 85 | Hadihajós rendfokozati jelzés | pár |  |  |  |  |  |  |  |  | 1 | 1 |  |  |
+| 85 | Vállzsinór | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
 
-| 86 | Vállzsinór | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
+| 86 | Nyakkendőtű, kézelőgomb | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |
 
-| 87 | Nyakkendőtű, kézelőgomb | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |
+| 87 | Állományt kifejező jelvény | db | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |  |  |
 
-| 88 | Állományt kifejező jelvény | db | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |  |  |
+| 88 | Névkitűző | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 89 | Névkitűző | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 89 | Rendfokozati jelzés posztóköpenyre | pár | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 90 | Rendfokozati jelzés posztóköpenyre | pár | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |
+| 90 | Rendfokozati jelzés női köpenyre | pár |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |
 
-| 91 | Rendfokozati jelzés női köpenyre | pár |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |
+| 91 | Paroli posztóköpenyre | pár | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 92 | Paroli posztóköpenyre | pár | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |
+| 92 | Paroli női köpenyre | pár |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |
 
-| 93 | Paroli női köpenyre | pár |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |
+| 93 | Végzettséget kifejező jelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
 
-| 94 | Végzettséget kifejező jelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
+| 94 | Fegyvernemi jelvény | pár | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |  |  |
 
-| 95 | Fegyvernemi jelvény | pár | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |  |  |
+| 95 | Szúrósgomb | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
 
-| 96 | Szúrósgomb | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
+| 96 | Csapatkarjelzés köznapi | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 
-| 97 | Csapatkarjelzés köznapi | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 97 | Csapatjelvény | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 98 | Csapatjelvény | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
+| 98 | Hímzett köznapi rendfokozati jelzés | pár | 3 | 3 | 3 | 3 |  |  |  |  |  |  | 2 | 2 |
 
-| 99 | Hímzett köznapi évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  | 2 | 2 |
+| 99 | Hímzett sötétkék köznapi rendfokozati jelzés | pár |  |  |  |  | 3 | 3 | 3 | 3 | 3 | 3 |  |  |
 
-| 100 | Hímzett köznapi rendfokozati jelzés | pár | 3 | 3 | 3 | 3 |  |  |  |  |  |  |  |  |
+| 100 | Hímzett társasági rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 101 | Hímzett sötétkék köznapi rendfokozati jelzés | pár |  |  |  |  | 3 | 3 | 3 | 3 | 3 | 3 |  |  |
+| 101 | Hallgatói díszzubbony | db |  |  |  |  |  |  |  |  |  |  | 1 |  |
 
-| 102 | Hímzett társasági rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
+| 102 | Hallgatói női díszzubbony | db |  |  |  |  |  |  |  |  |  |  |  | 1 |
 
-| 103 | Hímzett gyakorló évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
+| 103 | Nyakgallér | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 104 | Hímzett gyakorló rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
+| 104 | Rendfokozati jelzés hallgatói díszzubbonyra | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 105 | Hímzett név felirat tépőzáras | db | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+| 105 | Hallgatói díszcsákó szerelve | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 106 | Hímzett államjelzés tépőzáras | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 4 | 4 |
+| 106 | Nadrágtartó | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 107 | Hallgatói díszzubbony | db |  |  |  |  |  |  |  |  |  |  | 1 |  |
-
-| 108 | Hallgatói női díszzubbony | db |  |  |  |  |  |  |  |  |  |  |  | 1 |
-
-| 109 | Nyakgallér | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
-
-| 110 | Évfolyamjelzés díszzubbonyra | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
-
-| 111 | Hallgatói díszcsákó szerelve | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
-
-| 112 | Nadrágtartó | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
-
-| 113 | Fehér kesztyű | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
+| 107 | Fehér kesztyű | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
 1.2. Hadi- (gyakorló) ruházat
 
-|  | A | B | C | D | E | F | G | H | I | J | K |
+|  | A | B | C | D | E | F | G | H | I | J | K | L |
 
 | 1 | Megnevezés | Mértékegység | Hivatásos és szerződéses tiszti, altiszti állomány | Legénységi | Honvéd tisztjelölt | Honvéd altiszt-jelölt | Önkéntes Tartalékos | Megjegyzés |
 
@@ -254,9 +242,9 @@
 
 | 8 | 15M gyakorló téli fejvédő | db |  | 1 | 1 | 1 | 1 |  |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 9 | 15M kiképzési / műveleti zubbony | db | 2 | 2 | 4 | 2 | 2 |  |  |  | 2 | Feladat függvényében az ÖT állomány részére kiadható. |
+| 9 | 15M kiképzési/műveleti zubbony | db | 2 | 2 | 4 | 2 | 2 |  |  |  | 2 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 10 | 15M kiképzési / műveleti nadrág | db | 2 | 2 | 4 | 2 | 2 |  |  |  | 2 | Feladat függvényében az ÖT állomány részére kiadható. |
+| 10 | 15M kiképzési/műveleti nadrág | db | 2 | 2 | 4 | 2 | 2 |  |  |  | 2 | Feladat függvényében az ÖT állomány részére kiadható. |
 
 | 11 | 15M gyakorló esővédő kabát | db | 1 |  | 1 | 1 | 1 |  |  |  | 1 | Feladat függvényében az ÖT állomány részére kiadható. |
 
@@ -276,11 +264,11 @@
 
 | 19 | 15M gyakorló póló/gyakorló póló | db | 4 | 3 | 7 | 4 | 4 | 3 |  | 3 | 4 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 20 | Gyakorló zokni | pár |  | 7 | 7 | 7 | 7 | 3 | 3 | 3 | 3 | Kiadást követően az igényjogosult tulajdonába kerül. |
+| 20 | Gyakorló zokni | pár | 5 | 2 | 7 | 7 | 7 | 3 | 3 | 3 | 3 | Kiadást követően az igényjogosult tulajdonába kerül. |
 
 | 21 | Bakancs HAIX Nepal Pro | pár | 1 | 1 | 2 | 1 | 1 |  |  |  | 1 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 22 | Hevederöv | db |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 22 | Hevederöv | db | 1 |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |
 
 | 23 | Bakancstisztító készlet | db |  | 1 | 1 | 1 | 1 |  |  |  |  |  |
 
@@ -362,7 +350,7 @@
 
 | 62 | Brit gyakorló póló | db |  |  |  |  |  |  | 5 |  |  |  |
 
-| 63 | Brit hosszú ujjú harci poló | db |  |  |  |  |  |  | 1 |  |  |  |
+| 63 | Brit hosszú ujjú harci póló | db |  |  |  |  |  |  | 1 |  |  |  |
 
 1.3. Sportfelszerelés
 
@@ -372,7 +360,7 @@
 
 | 2 | Próbaidő alatt | Próbaidőt követően | Próbaidő alatt | Próbaidőt követően |
 
-| 3 | Ffi. | Nő | Ffi. | Nő |  |
+| 3 | Ffi. | Nő | Ffi. | Nő |
 
 | 4 | Táska | db | 1 | 1 | 1 | 1 | 1 | 1 |  |
 
@@ -385,4 +373,4 @@
 | 8 | Sportzokni | pár | 2 | 2 | 2 | 2 | 2 | 2 | Kiadást követően az igényjogosult tulajdonába kerül. |
 
 [^57]: A 31. §-t a 14/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
-[^58]: Az 1. melléklet a 27/2021. (XII. 17.) HM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 1. melléklet a 7/2022. (IV. 14.) HM rendelet 23. §-ával megállapított szöveg.
