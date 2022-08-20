@@ -2,8 +2,10 @@
 
 ## 6. § Felhatalmazást kap a miniszter, hogy
 
-a) a villamos energia szolgáltató részére járó ellentételezés kiszámításának módszertanát és[^1]
+a) a villamos energia szolgáltató részére járó ellentételezés kiszámításának módszertanát és[^2]
 
 b) a különbözeti összeg 5. §-ban meghatározott célra történő felhasználásának részletes szabályait
 
-[^1]: Lásd a 12/2022. (VIII. 11.) TIM rendeletet.
+rendeletben határozza meg.
+
+[^2]: Lásd a 12/2022. (VIII. 11.) TIM rendeletet.

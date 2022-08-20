@@ -6,7 +6,7 @@ a) a földgáz egyetemes szolgáltatásban a földgázellátásról szóló 2008
 
 b) a villamos energia egyetemes szolgáltatásban az engedélyeik területi hatályával az ország területét együttesen lefedő, több egyetemes szolgáltató konzorciumát (a továbbiakban: villamos energia szolgáltató)
 
-## jelöli ki.
+jelöli ki.
 
 (3) A Kormány 2024. január 1-jén a rezsivédelmi szolgáltatás biztosítására a kijelölés időpontjában villamos energia vagy földgáz egyetemes szolgáltatás nyújtására hatályos engedéllyel rendelkező valamennyi engedélyes figyelembevételével, az egyenlő bánásmód és a legkisebb költség elvének alkalmazása mellett két év időtartamra villamos energia és földgáz szolgáltatót jelöl ki.
 
