@@ -14,7 +14,7 @@ e)[^8] a tartós külföldi szolgálatteljesítés, továbbá a tartós külföl
 
 f) az élelmezési ellátásról szóló miniszteri rendelet szerinti II. és III. számú élelmezési normára való jogosultság miatti ellátás időtartamára,
 
-g)[^9]
+g)[^9] a honvéd tisztjelöltnek,
 
 h) a Hjt. 46. § (1) bekezdés t) pontja szerinti rendelkezési állományba tartozás idejére, ha ez alatt a hivatásos katona nem teljesít szolgálatot.
 
@@ -33,6 +33,6 @@ b) akinek a jogviszonya hónap közben keletkezik vagy szűnik meg.
 [^6]: A 2. § (2) bekezdés c) pontja a 20/2018. (XII. 28.) HM rendelet 114. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés d) pontja a 20/2018. (XII. 28.) HM rendelet 114. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § (2) bekezdés e) pontja a 20/2018. (XII. 28.) HM rendelet 113. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § (2) bekezdés g) pontját a 9/2019. (VIII. 30.) HM rendelet 5. §-a hatályon kívül helyezte.
+[^9]: A 2. § (2) bekezdés g) pontját újonnan a 7/2022. (IV. 14.) HM rendelet 32. §-a iktatta be.
 [^10]: A 2. § (3) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 114. § c) pontja szerint módosított szöveg.
 [^11]: A 2. § (5) bekezdését a 20/2018. (XII. 28.) HM rendelet 113. § (3) bekezdése iktatta be.
