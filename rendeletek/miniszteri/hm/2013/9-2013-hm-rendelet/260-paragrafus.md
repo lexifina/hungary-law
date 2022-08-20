@@ -1,11 +1,11 @@
-## XII. Fejezet
+## XII. Fejezet[^469]
 
-## A HONVÉD TISZTJELÖLTRE VONATKOZÓ KÜLÖN SZABÁLYOK
+## A HONVÉD TISZTJELÖLTRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
 ## 71. Általános rendelkezések
 
-260. § (1) A honvéd tisztjelöltekre e rendelet állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
+260. § (1) A honvéd tisztjelöltekre az állomány tagjára vonatkozó rendelkezéseket az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
-(2)[^463] Nem alkalmazható a 3.§ (2), (3) és (5) bekezdése, a 6. § (2) bekezdés b)–c) pontja, a 9. § (2) bekezdése, a 11–17. §, a 20–25. §, a 29–32. §, a 34–57. §, az 58. § (1) bekezdés d) pontja, (2) bekezdése, az 59. § (1) bekezdés b) pontja, (2) bekezdése, a 60. § (3) bekezdése, a 61. § e) pontja, a 63–72. §, a 79–96. §, a 100–114. §, a 119–126. §, a 129. §, a 130. § (2) bekezdés a) pontja, a 157. § (2) bekezdés a) pontja, a 158. § (1) bekezdése, a 162. §, a 163. § (4) bekezdése, a 165. § és az 1–11. melléklet.
+(2) Nem alkalmazható a 3. § (2) bekezdés d) és f)–h) pontja, a 11. §, a 12. §, a 17. § (1) bekezdés f) pontja, a 21. § (1) bekezdése, a 22. §, a 23. §, a 26. §, a 29–31. §, a 38. §, az 52–54. §, az 56. §, az 58. § (1) bekezdés d) pontja, az 59. § (1) bekezdés b) pontja, a 61. § d) és e) pontja, a 66. §, a 67. §, a 69–70. §, a 79–81. §, a 83–87. §, a 89–96. §, a 100. §, 103. §, a 105–107. §, a 107/A–107/G. §, a 117/A–126. §, a 158. § (1) bekezdése, az 1. melléklet, az 5. melléklet és a 7–11. melléklet.
 
-[^463]: A 260. § (2) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 44. pontja, a 25/2016. (XII. 22.) HM rendelet 45. § i) pontja, a 10/2017. (VIII. 31.) HM rendelet 25. § m) pontja, a 13/2020. (X. 14.) HM rendelet 31. § n) pontja szerint módosított szöveg.
+[^469]: A XII. fejezet (260–269. §) a 7/2022. (IV. 14.) HM rendelet 6. §-ával megállapított szöveg.

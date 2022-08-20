@@ -1,3 +1,3 @@
-263. § (1) A honvédtiszti alapképzésre felvételt nyert személyekkel az állományba vételi eljárást az MH Ludovika Zászlóalj személyügyi szerve folytatja le.
+## 262. § A honvéd tisztjelölttel a tiszti állományba vételt megelőzően a központi személyügyi szerv személyi beszélgetést folytat le. A személyi beszélgetésről jegyzőkönyv készül. A tiszti állományba vételi eljárást az elkészült jegyzőkönyv alapján a tervezett szolgálati hely szerinti honvédelmi szervezet személyügyi szerve bevonásával a központi személyügyi szerv folytatja le.
 
-(2) Az állományba vételi eljárás során csoportos tájékoztatást kell lefolytatni a szolgálati viszonnyal kapcsolatos jogokról és kötelezettségekről. A csoportos tájékoztatást az állományilletékes parancsnok vagy az általa kijelölt személy folytatja le.
+## 73. Az V. Fejezethez kapcsolódó rendelkezések

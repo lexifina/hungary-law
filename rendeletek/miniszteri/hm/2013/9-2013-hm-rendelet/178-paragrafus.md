@@ -1,5 +1,5 @@
-## 50.[^393]
+## 50.[^399]
 
 178. §
 
-[^393]: Az 50. alcímet (178–180. §) a 24/2013. (XII. 20.) HM rendelet 18. § c) pontja hatályon kívül helyezte.
+[^399]: Az 50. alcímet (178–180. §) a 24/2013. (XII. 20.) HM rendelet 18. § c) pontja hatályon kívül helyezte.

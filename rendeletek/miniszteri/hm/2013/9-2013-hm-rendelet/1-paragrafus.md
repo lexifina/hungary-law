@@ -24,17 +24,17 @@
 
 8. katonai megfigyelő: a hivatásos és a szerződéses állomány (a továbbiakban együtt: állomány) műveleti területen fegyvertelen megfigyelői, szakértői, tanácsadói vagy összekötői feladatok végzésére irányuló külföldi szolgálatot teljesítő tagja,
 
-9. képzési támogatás: a Honvédség által a honvéd tisztjelölt és a honvéd altiszt-jelölt részére nyújtott ösztöndíj, térítésmentes természetbeni ellátásként biztosított élelmezési, ruházati ellátás, és tanszertámogatás,
+9.[^5] képzési támogatás: a Honvédség által a honvéd altiszt-jelölt részére nyújtott ösztöndíj, térítésmentes természetbeni ellátásként biztosított élelmezési, ruházati ellátás, és tanszertámogatás,
 
-9a.[^5] késleltetett jelentkezés: a tervezett repülési szolgálati idő üzembentartó általi elhalasztása, mielőtt a személyzet tagja elhagyja a pihenőhelyét,
+9a.[^6] késleltetett jelentkezés: a tervezett repülési szolgálati idő üzembentartó általi elhalasztása, mielőtt a személyzet tagja elhagyja a pihenőhelyét,
 
-9b.[^6] külföldi fél által biztosított online képzés: külföldi képző intézmény vagy partner által biztosított, kizárólag online formában, számítógépes hálózaton elérhető, a tananyag feldolgozásához digitális médiumokat alkalmazó, hagyományos, tantermi jelentétet nem igénylő, képzésszervezési szempontból külföldi képzésként nyilvántartandó és kezelendő képzés,
+9b.[^7] külföldi fél által biztosított online képzés: külföldi képző intézmény vagy partner által biztosított, kizárólag online formában, számítógépes hálózaton elérhető, a tananyag feldolgozásához digitális médiumokat alkalmazó, hagyományos, tantermi jelentétet nem igénylő, képzésszervezési szempontból külföldi képzésként nyilvántartandó és kezelendő képzés,
 
-9c.[^7] külföldi fél által Magyarországra kihelyezett képzés: külföldi képző intézmény vagy partner által biztosított, magyarországi helyszínre kihelyezett, a külföldi fél által biztosított oktatók által megtartott, külföldi kiutazást nem igénylő, képzésszervezési szempontból külföldi képzésként nyilvántartandó és kezelendő tantermi képzés,
+9c.[^8] külföldi fél által Magyarországra kihelyezett képzés: külföldi képző intézmény vagy partner által biztosított, magyarországi helyszínre kihelyezett, a külföldi fél által biztosított oktatók által megtartott, külföldi kiutazást nem igénylő, képzésszervezési szempontból külföldi képzésként nyilvántartandó és kezelendő tantermi képzés,
 
 10. külföldi szolgálat:
 
-a)[^8] a Hvt. 80. § 1. pontja szerinti, külföldön történő alkalmazás,
+a)[^9] a Hvt. 80. § 1. pontja szerinti, külföldön történő alkalmazás,
 
 b) a nemzetközi szervezetek hivatalainál, parancsnokságain és katonai szervezeteiben, továbbá a más ország védelmi minisztériumában, katonai parancsnokságán, illetve alakulatánál Magyarország részére biztosított beosztásban teljesített szolgálat,
 
@@ -58,57 +58,58 @@ k) a külföldi gyakorlaton, kiképzésen történő részvétel,
 
 l) a külföldi állomásozás,
 
-m)[^9] a hadművelet közvetett támogatása külföldről, nem hadműveleti területen,
+m)[^10] a hadművelet közvetett támogatása külföldről, nem hadműveleti területen,
 
-n)[^10] a külföldi két- vagy többoldalú megbeszéléseken, szakmai egyeztetéseken történő részvétel, és
+n)[^11] a külföldi két- vagy többoldalú megbeszéléseken, szakmai egyeztetéseken történő részvétel, és
 
-o)[^11] Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása vagy harcászati kiképzés végrehajtása érdekében végzett külföldi szolgálatteljesítés.
+o)[^12] Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása vagy harcászati kiképzés végrehajtása érdekében végzett külföldi szolgálatteljesítés.
 
-10a.[^12] merevszárnyú szállító légijármű szakszemélyzetre irányadó pihenőidő: szolgálatot követő vagy azt megelőző folyamatos, megszakítás nélküli meghatározott időszak, amely alatt a személyzet tagja mentesül minden szolgálat, ügyeleti és készenléti szolgálat alól,
+10a.[^13] merevszárnyú szállító légijármű szakszemélyzetre irányadó pihenőidő: szolgálatot követő vagy azt megelőző folyamatos, megszakítás nélküli meghatározott időszak, amely alatt a személyzet tagja mentesül minden szolgálat, ügyeleti és készenléti szolgálat alól,
 
-10b.[^13] merevszárnyú szállító légijármű szakszemélyzetre irányadó repülési szolgálati idő: bármely olyan időszak, amely minimum hatvan perccel a repülési feladat tervezett ideje előtt kezdődik, és minimum harminc perccel az után ér véget, hogy a repülőgép a szolgálat utolsó útvonal szakaszát teljesítve az állóhelyen megállt, beletartozik a földön vagy levegőben, a szolgálatban feladatra várva töltött idő, a telepítéskori utazás és a szimulátoron végrehajtott gyakorlás is,
+10b.[^14] merevszárnyú szállító légijármű szakszemélyzetre irányadó repülési szolgálati idő: bármely olyan időszak, amely minimum hatvan perccel a repülési feladat tervezett ideje előtt kezdődik, és minimum harminc perccel az után ér véget, hogy a repülőgép a szolgálat utolsó útvonal szakaszát teljesítve az állóhelyen megállt, beletartozik a földön vagy levegőben, a szolgálatban feladatra várva töltött idő, a telepítéskori utazás és a szimulátoron végrehajtott gyakorlás is,
 
-11.[^14] munkakör: a munkafolyamat, a tevékenység alapegysége, amely a munkamegosztás alapján elkülönül és meghatározza az azt betöltő személy elvégzendő feladatait, jog- és hatáskörét, felelősségét és kötelezettségeit, valamint a szükséges szakmai, pszichikai követelményeket, illetve az egészségi korlátozásokat,
+11.[^15] munkakör: a munkafolyamat, a tevékenység alapegysége, amely a munkamegosztás alapján elkülönül és meghatározza az azt betöltő személy elvégzendő feladatait, jog- és hatáskörét, felelősségét és kötelezettségeit, valamint a szükséges szakmai, pszichikai követelményeket, illetve az egészségi korlátozásokat,
 
 12. műveleti szabadnap: a műveletben történő részvételre vezényelt állomány pihentetése, rekreációja érdekében biztosítandó naptári nap, amelynek mértékét a vonatkozó nemzetközi megállapodások, az adott nemzetközi missziót működtető nemzetközi szervezet által kiadott műveleti utasítás, valamint a magyar állományra jellemző körülmények és a vezénylés alapján a miniszter határozzák meg,
 
-13.[^15]
+13.[^16]
 
-14.[^16] szakmai felelős: a miniszter által kijelölt, az egyes munkakörök betöltéséhez szükséges szakmai követelmények, az előmenetel szakmai feltételei és a képzési követelmények meghatározásáért felelős szervezet, szervezeti egység vagy e jogkörrel felruházott személy,
+14.[^17] szakmai felelős: a miniszter által kijelölt, az egyes munkakörök betöltéséhez szükséges szakmai követelmények, az előmenetel szakmai feltételei és a képzési követelmények meghatározásáért felelős szervezet, szervezeti egység vagy e jogkörrel felruházott személy,
 
-14a.[^17] szektor: a repülési szolgálati idő azon szakasza, amely a légijármű első felszállási célú megmozdulásától a kijelölt parkolóhelyen történő leállásáig tart,
+14a.[^18] szektor: a repülési szolgálati idő azon szakasza, amely a légijármű első felszállási célú megmozdulásától a kijelölt parkolóhelyen történő leállásáig tart,
 
-14b.[^18] személyügyi szerv vezetője: a honvédelmi szervezet személyügyi feladatok végrehajtásáért felelős szervezeti elemének vezetője, vagy – ennek hiányában – a központi személyügyi szerv vezetője által belső rendelkezésben kijelölt szakmai elöljáró vagy felettes,
+14b.[^19] személyügyi szerv vezetője: a honvédelmi szervezet személyügyi feladatok végrehajtásáért felelős szervezeti elemének vezetője, vagy – ennek hiányában – a központi személyügyi szerv vezetője által belső rendelkezésben kijelölt szakmai elöljáró vagy felettes,
 
 15. szolgálati beosztás: az állomány tagja és az önkéntes tartalékos katona által betöltött munkakör,
 
-15a.[^19] tandíj: a képző intézmény által a honvédelmi szervezet részére a tandíjról, illetve a vizsgadíjról kiállított számla szerinti összeg vagy – ennek hiányában – a központi képzési katalógusban a képzés leírásához rendelt belső vagy külső ár,
+15a.[^20] tandíj: a képző intézmény által a honvédelmi szervezet részére a tandíjról, illetve a vizsgadíjról kiállított számla szerinti összeg vagy – ennek hiányában – a központi képzési katalógusban a képzés leírásához rendelt belső vagy külső ár,
 
-15b.[^20] központi képzési katalógus: a HM Költségvetés Gazdálkodási Információs Rendszer képzéstervezési modulban található, a központi hazai beiskolázási tervben szereplő, továbbá a központi személyügyi szerv vezetője által engedélyezett képzések, tanfolyamok összessége, melynek összeállításáért és kezeléséért a központi személyügyi szerv a felelős,
+15b.[^21] központi képzési katalógus: a HM Költségvetés Gazdálkodási Információs Rendszer képzéstervezési modulban található, a központi hazai beiskolázási tervben szereplő, továbbá a központi személyügyi szerv vezetője által engedélyezett képzések, tanfolyamok összessége, melynek összeállításáért és kezeléséért a központi személyügyi szerv a felelős,
 
-16.[^21] tanulmányi támogatás: a vezénylésben vagy a tanulmányi szerződésben rögzített, a Honvédség által az állomány tagjának a tanulmányai folytatásához jogszabályban meghatározottak szerint nyújtott juttatás.
+16.[^22] tanulmányi támogatás: a vezénylésben vagy a tanulmányi szerződésben rögzített, a Honvédség által az állomány tagjának a tanulmányai folytatásához jogszabályban meghatározottak szerint nyújtott juttatás.
 
-17.[^22] tábori kihelyezés: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 128. § (3b) bekezdése szerinti tábori körülmények között végrehajtott kiképzés, amely legalább hét összefüggő napból áll, az adott színtéren tartós igénybevételt eredményező folyamatos tartózkodással jár, amelyet – az éves kiképzési tervben meghatározottak alapján – a honvédségi szervezet parancsnoka az éves kiképzési feladatok végrehajtására vonatkozó intézkedésben vagy parancsban rendel el, illetve engedélyez, és amelynek ideje alatt a honvédségi szervezet kijelölt állománya az éves kiképzési célkitűzéseik teljesítése érdekében összevontan egyéni vagy alegység kötelékben tábori körülmények között kiképzési, törzsfelkészítési vagy ahhoz kapcsolódó egyéb feladatokat hajt végre, akár helyőrségen belül is, és ahol az állomány tagja naponta legalább 12 óra kiképzési, törzsfelkészítési vagy ahhoz kapcsolódó egyéb feladatokat teljesít, a jogszabályok által meghatározott, tábori körülmények között biztosított pihenőidő betartásával.
+17.[^23] tábori kihelyezés: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 128. § (3b) bekezdése szerinti tábori körülmények között végrehajtott kiképzés, amely legalább hét összefüggő napból áll, az adott színtéren tartós igénybevételt eredményező folyamatos tartózkodással jár, amelyet – az éves kiképzési tervben meghatározottak alapján – a honvédségi szervezet parancsnoka az éves kiképzési feladatok végrehajtására vonatkozó intézkedésben vagy parancsban rendel el, illetve engedélyez, és amelynek ideje alatt a honvédségi szervezet kijelölt állománya az éves kiképzési célkitűzéseik teljesítése érdekében összevontan egyéni vagy alegység kötelékben tábori körülmények között kiképzési, törzsfelkészítési vagy ahhoz kapcsolódó egyéb feladatokat hajt végre, akár helyőrségen belül is, és ahol az állomány tagja naponta legalább 12 óra kiképzési, törzsfelkészítési vagy ahhoz kapcsolódó egyéb feladatokat teljesít, a jogszabályok által meghatározott, tábori körülmények között biztosított pihenőidő betartásával.
 
 [^1]: Az 1. § 4. pontját a 12/2018. (VII. 27.) HM rendelet 23. § a) pontja hatályon kívül helyezte, újonnan a 13/2020. (X. 14.) HM rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § 5a. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (1) bekezdése iktatta be.
 [^3]: Az 1. § 6. pontja a 4/2020. (II. 28.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § 7. pontját a 10/2017. (VIII. 31.) HM rendelet 26. § a) pontja hatályon kívül helyezte, újonnan a 12/2018. (VII. 27.) HM rendelet 3. §-a iktatta be.
-[^5]: Az 1. § 9a. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (2) bekezdése iktatta be.
-[^6]: Az 1. § 9b. pontját a 13/2021. (VII. 15.) HM rendelet 1. §-a iktatta be.
-[^7]: Az 1. § 9c. pontját a 13/2021. (VII. 15.) HM rendelet 1. §-a iktatta be.
-[^8]: Az 1. § 10. pont a) alpontja a 4/2020. (II. 28.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1. § 10. pont m) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 3. pontja szerint módosított szöveg.
-[^10]: Az 1. § 10. pont n) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 4. pontja szerint módosított szöveg.
-[^11]: Az 1. § 10. pont o) alpontját a 4/2015. (VI. 22.) HM rendelet 1. §-a iktatta be, szövege az 5/2017. (V. 17.) HM rendelet 3. §-a szerint módosított szöveg.
-[^12]: Az 1. § 10a. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
-[^13]: Az 1. § 10b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
-[^14]: Az 1. § 11. pontja a 10/2015. (VII. 30.) HM rendelet 82. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 80. §-át.
-[^15]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
-[^16]: Az 1. § 14. pontja a 13/2020. (X. 14.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^17]: Az 1. § 14a. pontját a 10/2016. (VI. 29.) HM rendelet 1. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^18]: Az 1. § 14b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (6) bekezdése iktatta be.
-[^19]: Az 1. § 15a. pontját a 25/2016. (XII. 22.) HM rendelet 16. § (1) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 1. pontja szerint módosított szöveg.
-[^20]: Az 1. § 15b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (7) bekezdése iktatta be.
-[^21]: Az 1. § 16. pontja a 25/2016. (XII. 22.) HM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^22]: Az 1. § 17. pontját a 9/2022. (IV. 21.) HM rendelet 1. §-a iktatta be.
+[^5]: Az 1. § 9. pontja a 7/2022. (IV. 14.) HM rendelet 9. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § 9a. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § 9b. pontját a 13/2021. (VII. 15.) HM rendelet 1. §-a iktatta be.
+[^8]: Az 1. § 9c. pontját a 13/2021. (VII. 15.) HM rendelet 1. §-a iktatta be.
+[^9]: Az 1. § 10. pont a) alpontja a 4/2020. (II. 28.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 1. § 10. pont m) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 3. pontja szerint módosított szöveg.
+[^11]: Az 1. § 10. pont n) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 4. pontja szerint módosított szöveg.
+[^12]: Az 1. § 10. pont o) alpontját a 4/2015. (VI. 22.) HM rendelet 1. §-a iktatta be, szövege az 5/2017. (V. 17.) HM rendelet 3. §-a szerint módosított szöveg.
+[^13]: Az 1. § 10a. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
+[^14]: Az 1. § 10b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
+[^15]: Az 1. § 11. pontja a 10/2015. (VII. 30.) HM rendelet 82. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 80. §-át.
+[^16]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^17]: Az 1. § 14. pontja a 13/2020. (X. 14.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 1. § 14a. pontját a 10/2016. (VI. 29.) HM rendelet 1. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^19]: Az 1. § 14b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (6) bekezdése iktatta be.
+[^20]: Az 1. § 15a. pontját a 25/2016. (XII. 22.) HM rendelet 16. § (1) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 1. pontja szerint módosított szöveg.
+[^21]: Az 1. § 15b. pontját a 20/2018. (XII. 28.) HM rendelet 1. § (7) bekezdése iktatta be.
+[^22]: Az 1. § 16. pontja a 25/2016. (XII. 22.) HM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^23]: Az 1. § 17. pontját a 9/2022. (IV. 21.) HM rendelet 1. §-a iktatta be.

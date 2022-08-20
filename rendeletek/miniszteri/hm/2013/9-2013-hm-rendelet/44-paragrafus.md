@@ -1,3 +1,3 @@
-44. §[^147]
+44. §[^152]
 
-[^147]: A 44. §-t a 13/2020. (X. 14.) HM rendelet 32. § 7. pontja hatályon kívül helyezte.
+[^152]: A 44. §-t a 13/2020. (X. 14.) HM rendelet 32. § 7. pontja hatályon kívül helyezte.
