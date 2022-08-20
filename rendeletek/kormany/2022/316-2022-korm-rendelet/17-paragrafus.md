@@ -1,1 +1,3 @@
-## „(5) A termelési jelentés elkészítése során nem kell figyelembe venni a borászati termék előállításához felhasznált, első származási bizonyítvánnyal rendelkező borászati terméktétel, valamint a további feldolgozással érintett borászati terméktételre készletigazolás céljából kiadott első származási bizonyítvánnyal rendelkező borászati terméktétel mennyiségét.”
+## 16. §[^17]
+
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

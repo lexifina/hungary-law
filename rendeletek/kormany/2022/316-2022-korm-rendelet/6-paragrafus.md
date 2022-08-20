@@ -1,9 +1,3 @@
-## 5. § A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 383/2016. (XII. 2.) Korm. rendelet] 61. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## „(1) A Vtv.
-
-## a) 66. § (1a) bekezdésében,
-
-## b) 66/A. § (2)–(4) bekezdésében
-
-## meghatározott vadászati hatóság a miniszter.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

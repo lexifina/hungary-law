@@ -1,3 +1,3 @@
-## 19. § A 435/2021. (VII. 16.) Korm. rendelet 88. §-a a következő (2a) bekezdéssel egészül ki:
+## 19. §[^20]
 
-## „(2a) Az (1) és (2) bekezdésben foglaltak alól mentesül az ültetvény használója, ha a szőlőültetvény telepítésekor rendelkezett a telepítéshez szükséges újratelepítési jogosultsággal, amely alapján a hegybíró újratelepítési engedélyt adott ki a földterületre.”
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

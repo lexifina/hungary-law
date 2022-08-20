@@ -1,1 +1,3 @@
-## „(5) Az (EU) 2019/1009 európai parlamenti és tanácsi rendelet 2. cikk 2. pontja szerinti uniós termésnövelő anyag (a továbbiakban: uniós termésnövelő anyag) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a NÉBIH-et és a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalt jelöli ki.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

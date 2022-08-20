@@ -1,1 +1,3 @@
-## 10. § A 244/2020. (V. 28.) Korm. rendelet 32. § (1) bekezdés a) pontjában a „2022. július 1-jéig” szövegrész helyébe a „2023. január 1-jéig” szöveg lép.
+## 10. §[^10]
+
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
