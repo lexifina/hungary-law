@@ -1,6 +1,6 @@
-## 193. §[^271]
+## 193. §[^272]
 
-194. § (1)[^272] Munkáltatói kölcsön adható a honvédelmi szervezet állományába tartozó személynek, ha
+194. § (1)[^273] Munkáltatói kölcsön adható a honvédelmi szervezet állományába tartozó személynek, ha
 
 a) az igénylő, a házastársa, élettársa, saját háztartásában nevelt kiskorú gyermeke, örökbefogadott, mostoha vagy nevelt kiskorú gyermeke, valamint együtt költöző családtagja a támogatással érintett lakáson kívül más lakás tulajdonjogával, haszonélvezeti jogával vagy önkormányzati, továbbá állami tulajdonú lakás bérleti jogával nem rendelkezik, illetve a meglévőt az újabb támogatás megszerzése érdekében elidegeníti, haszonélvezeti jogát, bérleti jogviszonyát megszünteti,
 
@@ -32,13 +32,13 @@ b) a tulajdonában lévő lakás lebontását a települési önkormányzat jegy
 
 c) lakása az igénylés benyújtásától számított két évnél korábban öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonába, és a haszonélvező a lakásban lakik.
 
-(3)[^273] Az (1) bekezdés d) pontját nem kell alkalmazni, ha a szolgálati viszony, kormányzati szolgálati, honvédelmi alkalmazotti vagy közalkalmazotti jogviszony, vagy munkaviszony megszüntetésére azért kerül sor, mert a kölcsönnyújtás egyéb feltételeivel rendelkező igénylő megváltozott munkaképességű személyek ellátására szerzett jogosultságot, feltéve, hogy a kérelmét még a jogviszony megszűnése előtt benyújtja.
+(3)[^274] Az (1) bekezdés d) pontját nem kell alkalmazni, ha a szolgálati viszony, kormányzati szolgálati, honvédelmi alkalmazotti vagy közalkalmazotti jogviszony, vagy munkaviszony megszüntetésére azért kerül sor, mert a kölcsönnyújtás egyéb feltételeivel rendelkező igénylő megváltozott munkaképességű személyek ellátására szerzett jogosultságot, feltéve, hogy a kérelmét még a jogviszony megszűnése előtt benyújtja.
 
-(3a)[^274] Az (1) bekezdés i) pontja szerinti feltételnek meg nem felelő hivatásos katona munkáltatói kölcsön iránti kérelme már az 51. életév betöltését követően benyújtható és nyilvántartásba vehető, azonban csak az 52. életév betöltését követően teljesíthető.
+(3a)[^275] Az (1) bekezdés i) pontja szerinti feltételnek meg nem felelő hivatásos katona munkáltatói kölcsön iránti kérelme már az 51. életév betöltését követően benyújtható és nyilvántartásba vehető, azonban csak az 52. életév betöltését követően teljesíthető.
 
 (4) Ha a jogosult munkáltatói kölcsönre vonatkozó igénylésének elbírálására vagy a kölcsön összegének folyósítására a nyugállományba helyezés megtörténte után kerül sor, az egyéb feltételek megléte esetén az igényt érdemben el kell bírálni, és intézkedni kell a kölcsönnek a jogosult részére történő folyósítására.
 
-[^271]: A 193. §-t a 25/2016. (XII. 22.) HM rendelet 11. §-a hatályon kívül helyezte.
-[^272]: A 194. § (1) bekezdése a 9/2021. (III. 2.) HM rendelet 17. §-ával megállapított szöveg.
-[^273]: A 194. § (3) bekezdése a 15/2015. (XII. 21.) HM rendelet 18. § (2) bekezdésével megállapított, a 8/2020. (V. 27.) HM rendelet 5. § m) pontja szerint módosított szöveg.
-[^274]: A 194. § (3a) bekezdését a 15/2015. (XII. 21.) HM rendelet 18. § (2) bekezdése iktatta be.
+[^272]: A 193. §-t a 25/2016. (XII. 22.) HM rendelet 11. §-a hatályon kívül helyezte.
+[^273]: A 194. § (1) bekezdése a 9/2021. (III. 2.) HM rendelet 17. §-ával megállapított szöveg.
+[^274]: A 194. § (3) bekezdése a 15/2015. (XII. 21.) HM rendelet 18. § (2) bekezdésével megállapított, a 8/2020. (V. 27.) HM rendelet 5. § m) pontja szerint módosított szöveg.
+[^275]: A 194. § (3a) bekezdését a 15/2015. (XII. 21.) HM rendelet 18. § (2) bekezdése iktatta be.

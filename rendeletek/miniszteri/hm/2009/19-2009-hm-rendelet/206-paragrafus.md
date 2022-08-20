@@ -1,6 +1,6 @@
-## 205. §[^309] Ha a támogatásban részesített személy szolgálati, kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti vagy munkavállalói jogviszonya a kölcsön teljes kiegyenlítése előtt megszűnt, az új munkáltatója a még ki nem egyenlített teljes kölcsöntartozást átvállalhatja. Ebben az esetben a 201. § (1) bekezdés a), b), l) és m) pontjában, továbbá a 202. §-ban meghatározottakat nem lehet alkalmazni.
+## 205. §[^311] Ha a támogatásban részesített személy szolgálati, kormánytisztviselői, honvédelmi alkalmazotti, közalkalmazotti vagy munkavállalói jogviszonya a kölcsön teljes kiegyenlítése előtt megszűnt, az új munkáltatója a még ki nem egyenlített teljes kölcsöntartozást átvállalhatja. Ebben az esetben a 201. § (1) bekezdés a), b), l) és m) pontjában, továbbá a 202. §-ban meghatározottakat nem lehet alkalmazni.
 
-206. §[^310] (1) A támogatásban részesülő személy tulajdonában lévő vagy tulajdonába kerülő lakásra a kölcsönt folyósító pénzintézettel a tartozás erejéig és fennállásának tartamára – meglévő tulajdon esetén külön megállapodás alapján – a HM javára jelzálogjogot, valamint elidegenítési és terhelési tilalmat kell bejegyeztetni az ingatlan-nyilvántartásba.
+206. §[^312] (1) A támogatásban részesülő személy tulajdonában lévő vagy tulajdonába kerülő lakásra a kölcsönt folyósító pénzintézettel a tartozás erejéig és fennállásának tartamára – meglévő tulajdon esetén külön megállapodás alapján – a HM javára jelzálogjogot, valamint elidegenítési és terhelési tilalmat kell bejegyeztetni az ingatlan-nyilvántartásba.
 
 (2) A lakáscélú támogatási szerv hozzájárulhat az olyan, lakáscélú támogatással megszerzett lakóingatlan további megterheléséhez, amelyen a HM javára jelzálogjog, valamint elidegenítési és terhelési tilalom áll fent, a következő feltételekkel:
 
@@ -22,5 +22,5 @@ b) a támogatásban részesített személy a támogatással létesített lakást
 
 (7) Az (1) bekezdés szerinti jelzálogjogot, valamint elidegenítési és terhelési tilalmat akkor kell töröltetni, ha a kedvezményezett a 196. § (1) bekezdése szerinti engedménnyel csökkentett kölcsöntartozását kiegyenlítette.
 
-[^309]: A 205. § a 22/2013. (X. 7.) HM rendelet 19. §-ával megállapított, a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
-[^310]: A 206. § a 9/2021. (III. 2.) HM rendelet 20. §-ával megállapított szöveg.
+[^311]: A 205. § a 22/2013. (X. 7.) HM rendelet 19. §-ával megállapított, a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^312]: A 206. § a 9/2021. (III. 2.) HM rendelet 20. §-ával megállapított szöveg.

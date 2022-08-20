@@ -1,20 +1,20 @@
-244/G. §[^426] (1) E rendeletnek az egyes lakáscélú honvédelmi miniszteri rendeletek módosításáról szóló 8/2020. (V. 27.) HM rendelettel (a továbbiakban: R5.) megállapított 34. § (1) bekezdés i) pontját az R5. hatálybalépését megelőzően keletkezett jogcím nélküli lakáshasználat tekintetében a jogcím nélküli lakáshasználókra megfelelően alkalmazni kell, azzal, hogy
+244/G. §[^428] (1) E rendeletnek az egyes lakáscélú honvédelmi miniszteri rendeletek módosításáról szóló 8/2020. (V. 27.) HM rendelettel (a továbbiakban: R5.) megállapított 34. § (1) bekezdés i) pontját az R5. hatálybalépését megelőzően keletkezett jogcím nélküli lakáshasználat tekintetében a jogcím nélküli lakáshasználókra megfelelően alkalmazni kell, azzal, hogy
 
 a) a jogcím nélküli lakáshasználat addigi tartama alatt legalább a bérleti díjjal azonos összegű használati díjat összességében megfizette, és
 
 b) a megállapított és megfizetett emelt használati díjkülönbözet visszatérítése iránti igényről a használó lemond.
 
-(2)[^427] E rendeletnek az R5.-tel megállapított 107. § (2) bekezdését, az R5. hatálybalépését megelőzően keletkezett jogcím nélküli személygépkocsi-tároló használat tekintetében a jogcím nélküli személygépkocsi-tároló használókra megfelelően alkalmazni kell, azzal, hogy
+(2)[^429] E rendeletnek az R5.-tel megállapított 107. § (2) bekezdését, az R5. hatálybalépését megelőzően keletkezett jogcím nélküli személygépkocsi-tároló használat tekintetében a jogcím nélküli személygépkocsi-tároló használókra megfelelően alkalmazni kell, azzal, hogy
 
-a)[^428] a jogcím nélküli személygépkocsi-tároló használat addigi tartama alatt legalább a bérleti díjjal azonos összegű használati díjat összességében megfizette,
+a)[^430] a jogcím nélküli személygépkocsi-tároló használat addigi tartama alatt legalább a bérleti díjjal azonos összegű használati díjat összességében megfizette,
 
 b) a megállapított és megfizetett emelt használati díjkülönbözet visszatérítése iránti igényről a használó lemond, és
 
-c)[^429] a személygépkocsi-tároló használatra kötött szerződés lejártát követően az kérelemre – minden egyéb feltétel fennállása esetén – határozatlan időtartamra bérbe adható.
+c)[^431] a személygépkocsi-tároló használatra kötött szerződés lejártát követően az kérelemre – minden egyéb feltétel fennállása esetén – határozatlan időtartamra bérbe adható.
 
 (3) Az (1) és (2) bekezdésben foglaltak helyi lakásgazdálkodási szervek általi végrehajtására a HM központi lakásgazdálkodási szerv az R5. hatálybalépését követő 3. hónap végéig intézkedik.
 
-[^426]: A 244/G. §-t a 8/2020. (V. 27.) HM rendelet 4. §-a iktatta be.
-[^427]: A 244/G. § (2) bekezdés nyitó szövegrésze a 9/2021. (III. 2.) HM rendelet 23. § 19. pontja szerint módosított szöveg.
-[^428]: A 244/G. § (2) bekezdés a) pontja a 9/2021. (III. 2.) HM rendelet 23. § 11. pontja szerint módosított szöveg.
-[^429]: A 244/G. § (2) bekezdés c) pontja a 9/2021. (III. 2.) HM rendelet 23. § 11. pontja szerint módosított szöveg.
+[^428]: A 244/G. §-t a 8/2020. (V. 27.) HM rendelet 4. §-a iktatta be.
+[^429]: A 244/G. § (2) bekezdés nyitó szövegrésze a 9/2021. (III. 2.) HM rendelet 23. § 19. pontja szerint módosított szöveg.
+[^430]: A 244/G. § (2) bekezdés a) pontja a 9/2021. (III. 2.) HM rendelet 23. § 11. pontja szerint módosított szöveg.
+[^431]: A 244/G. § (2) bekezdés c) pontja a 9/2021. (III. 2.) HM rendelet 23. § 11. pontja szerint módosított szöveg.

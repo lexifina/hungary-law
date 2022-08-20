@@ -1,3 +1,3 @@
-## 211. §[^317]
+## 211. §[^319]
 
-[^317]: A 211. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (2) bekezdése hatályon kívül helyezte.
+[^319]: A 211. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (2) bekezdése hatályon kívül helyezte.
