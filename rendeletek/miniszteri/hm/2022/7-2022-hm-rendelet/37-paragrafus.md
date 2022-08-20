@@ -1,0 +1,1 @@
+## „9a. a honvéd tisztjelölt a szolgálati viszonyának kezdőnapjától a hallgatói jogviszonya megszűnésének napjáig – ideértve a nyilvános tisztavatás időszakát is –, az oktatási, kiképzési napokon a reggeli és ebéd résznormára, valamint a gyakorlati kiképzés, csapatgyakorlat időtartamára, ha részére e rendelet alapján magasabb élelmezési norma nincs megállapítva,”

@@ -1,0 +1,3 @@
+## 14. § A kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló 13/2013. (VIII. 21.) HM rendelet (a továbbiakban: R4.) 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A 12. § (1) bekezdés a)–m) pontja szerinti igényjogosult és családtagjai az MH regenerálódást segítő és rekreációt végző szervezetében és az MH regenerálódást és kiképzést végző szervezetében, azok szabad kapacitása terhére, térítésmentesen napi pihenésre és intézménylátogatásra jogosultak. Napi pihenésre és intézménylátogatásra jogosult a 12. § (1) bekezdés a) pontja szerinti feltétellel rendelkező honvéd tisztjelölt is.”
