@@ -1,29 +1,33 @@
-76. § (1)[^189] A 8. melléklet IV. pontja szerinti repülési pótlékot az adott tanévre előírt repülési feladatok 100%-os teljesítését követő hónapra járó ösztöndíjjal együtt, de legkésőbb a tanulmányi év utolsó napját követő 10. napig kell a jogosult részére folyósítani. A tanulmányi kötelezettségként előírt repülési feladatok teljesítéséről az állományilletékes parancsnok által kijelölt személy részletes nyilvántartást vezet. A repülési pótlék mértéke a honvédelmi illetményalap százalékában meghatározva
+## 75. § A honvéd tisztjelölt illetményére, illetményjellegű és egyéb juttatásaira az e Fejezetben foglaltakat, valamint az 58. §-t, az 59. §-t és a 81. §-t kell alkalmazni, azzal, hogy a honvéd tisztjelölt csak abban az esetben jogosult az állomány tagjának biztosított illetményjellegű és egyéb juttatásokra, ha azt e Fejezet a honvéd tisztjelölt esetében kifejezetten megállapítja.
 
-a) az I–II. szemeszterben 25%,
+76. § (1) A honvéd tisztjelölt az állományba vétel napjától, ha a Hjt. eltérően nem rendelkezik, az első tiszti rendfokozatba történő kinevezést megelőző napig, vagy ha ez utóbbira nem kerül sor, akkor a Hjt. 225. § (1) bekezdése szerinti szerződéses szolgálati viszonya megszűnésének napjáig jogosult a Hjt. 230. § (1) bekezdése szerinti illetményre.
 
-b) a III–IV. szemeszterben 50%,
+(2) A honvéd tisztjelölt Hjt. 230. § (1) bekezdésében meghatározott alapilletményének összege megegyezik a honvédelmi illetményalap és a (3) bekezdés szerinti szorzószám szorzatával.
 
-c) az V–VI. szemeszterben 75%,
+(3) Az alapilletmény szorzószáma
 
-d) a VII–VIII. szemeszterben 100%.
+a) az első évfolyamon 5,89,
 
-(2)[^190] A 8. melléklet IV. pontja szerinti ejtőernyős ugrási pótlék csak a tanulmányi kötelezettségként előírt és teljesített igénybevétel után jár, azonban a pótlék mértékének megállapítása során a teljesített ugrások számába a Honvédségnél tanulmányi kötelezettségként végrehajtott ugrásokon kívül a polgári ejtőernyős kiképzés vagy ejtőernyős sporttevékenység – ideértve az edzést és a versenyt is – során végrehajtott nyilvántartott ugrások számát is be kell számítani. A tanulmányi kötelezettségként előírt és végrehajtott ejtőernyős ugrásokról, valamint az ejtőernyős ugrási pótlék mértékének megállapítása során a teljesített ugrások számába beszámító egyéb igazolt ugrásokról az állományilletékes parancsnok által kijelölt személy részletes nyilvántartást vezet. Az ejtőernyős ugrási pótlék mértéke ugrásonként a honvédelmi illetményalap százalékában meghatározva
+b) a második évfolyamon 6,18,
 
-a) az 1–35. ugrás között 2%,
+c) a harmadik évfolyamon 6,49,
 
-b) a 36–75. ugrás között 3,5%,
+d) a negyedik évfolyamon 6,78.
 
-c) a 76. ugrástól 5%.
+(4) A honvéd tisztjelölt Hjt. 230. § (1) bekezdésében meghatározott tanulmányi díjának összege – az első évfolyam első szemesztere kivételével – megegyezik a honvédelmi illetményalap és az (5) bekezdés szerinti szorzószám szorzatával. Az első évfolyamot megkezdő honvéd tisztjelölt az első szemeszterben tanulmányi díjra nem jogosult.
 
-(3)[^191] Az állományilletékes parancsnok által kijelölt személy a katasztrófavédelemmel összefüggő feladatok végrehajtásában történő közreműködés alapján a honvéd tisztjelölt részére meghatározott feladatok végrehajtásáról részletes nyilvántartást vezet. A 8. melléklet IV. pontja szerinti katasztrófavédelmi pótlék a katasztrófavédelmi feladat lezárultát követően kerül elszámolásra. Az elszámolás során minden megkezdett naptári nap teljes napnak minősül.
+(5) A tanulmányi díj szorzószáma az előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlag figyelembevételével
 
-(4)[^192] A honvéd tisztjelölt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladat végrehajtásáért pótlékra jogosult. A pótlék mértékére a 8. melléklet IV. pontját kell alkalmazni. A pótlék alapját képező tevékenység nyilvántartására, valamint a pótlék megállapítására a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy katasztrófavédelemmel összefüggő feladat alatt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladatot kell érteni.
+a) 3,51–4,50 tanulmányi átlag esetén 0,35,
 
-(5)[^193] A honvéd tisztjelölt a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatokban történő közreműködés esetén a 44/C. §-ban foglaltak szerinti fokozott igénybevételi illetménypótlékra jogosult.
+b) 4,50 tanulmányi átlag fölött 0,7.
 
-[^189]: A 76. § (1) bekezdés nyitó szövegrésze az 1/2020. (I. 17.) HM rendelet 9. § e) pontja szerint módosított szöveg.
-[^190]: A 76. § (2) bekezdés nyitó szövegrésze az 1/2020. (I. 17.) HM rendelet 9. § e) pontja szerint módosított szöveg.
-[^191]: A 76. § (3) bekezdése az 1/2020. (I. 17.) HM rendelet 9. § e) pontja szerint módosított szöveg.
-[^192]: A 76. § (4) bekezdése a 9/2016. (VI. 29.) HM rendelet 16. §-ával megállapított, a 16/2016. (VIII. 31.) HM rendelet 15. § b) pontja, az 1/2020. (I. 17.) HM rendelet 9. § f) pontja szerint módosított szöveg.
-[^193]: A 76. § (5) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte, újonnan a 23/2021. (XI. 29.) HM rendelet 5. §-a iktatta be.
+(6) A honvéd tisztjelölt
+
+a) az adott évfolyamon járó alapilletményre a következő évfolyam első szemeszterének,
+
+b) az adott szemeszteren neki biztosított tanulmányi díjra a következő szemeszterének
+
+## megkezdését megelőző napig jogosult.
+
+(7) A (6) bekezdés b) pontjától eltérően a honvéd tisztjelölt tanulmányi díjra a nyolcadik szemeszter esetén a Hjt. 225. § (1) bekezdése szerinti szerződéses szolgálati viszonya megszűnésének napjáig jogosult.

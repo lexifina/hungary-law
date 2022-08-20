@@ -252,54 +252,6 @@
 
 | 125. | 5.7. Munkavezető, foglalkozásvezető | kiemelt főtiszt, egészségügyi főtiszt, főtiszt, egészségügyi tiszt, tiszt, beosztott tiszt |
 
-8. melléklet a 7/2015. (VI. 22.) HM rendelethez[^241]
+8. melléklet a 7/2015. (VI. 22.) HM rendelethez[^235]
 
-## A honvéd tisztjelölt ösztöndíja
-
-I. Az alapösztöndíj szorzószáma havonta
-
-|  | A | B |
-
-| 1. | szakaszparancsnoki feladatok ellátására kijelöltek esetén | 1,2 |
-
-| 2. | rajparancsnoki feladatok ellátására kijelöltek esetén | 1,1 |
-
-| 3. | az 1–2. pontokba nem tartozók esetén | 1,0 |
-
-II. Az alapösztöndíj-kiegészítés szorzószáma havonta a katonai alapfelkészítés időszakában és az egyes tanulmányi szemeszterek alatt
-
-|  | A | B |
-
-| 1. | I. szemeszter (katonai alapfelkészítés) | 0,45 |
-
-| 2. | II. szemeszter | 0,46 |
-
-| 3. | III. szemeszter | 0,47 |
-
-| 4. | IV. szemeszter | 0,48 |
-
-| 5. | V. szemeszter | 0,49 |
-
-| 6. | VI. szemeszter | 0,50 |
-
-| 7. | VII. szemeszter | 0,51 |
-
-| 8. | VIII. szemeszter | 0,52 |
-
-III. A honvéd tisztjelölt előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlaga alapján számítandó tanulmányi pótlékának szorzószáma havonta
-
-|  | A | B |
-
-| 1. | 3,50 és alatta | nem jár |
-
-| 2. | 3,51–4,00 között | 0,20 |
-
-| 3. | 4,01–4,50 között | 0,25 |
-
-| 4. | 4,51–5,00 között | 0,30 |
-
-| 5. | miniszteri utasításban meghatározott legmagasabb követelményeknek megfelelők esetében | 0,60 |
-
-IV. Egyéb pótlék a honvédelmi illetményalap százalékában
-
-[^241]: A 8. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § a) pontja iktatta be, szövege a 7/2021. (I. 29.) HM rendelet 5. §-ával megállapított szöveg.
+[^235]: A 8. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § a) pontja iktatta be, hatályon kívül helyezte a 7/2022. (IV. 14.) HM rendelet 27. §-a.
