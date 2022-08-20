@@ -22,7 +22,7 @@ b) az MH központi egészségügyi szervezete járóbeteg-ellátást végző sze
 
 c) az MH központi egészségügyi szervezete fekvőbeteg ellátást végző osztályának főorvosa a gyógyintézeti ellátást követően legfeljebb 30, a bennfekvéssel együtt összesen 45
 
-## nap egészségügyi szabadságot engedélyezhet.
+nap egészségügyi szabadságot engedélyezhet.
 
 (6) Az egészségügyi szabadság 45 napon túli meghosszabbítására az MH központi egészségügyi szervezete szakmailag illetékes szakorvosának javaslata alapján a már engedélyezett egészségügyi szabadság beszámításával
 
@@ -32,9 +32,9 @@ b) az MFÜV 240,
 
 c) a KFÜV legfeljebb 365
 
-## napig jogosult.
+napig jogosult.
 
-(6a)[^68] Az egészségügyi szabadságnak a Hjt. 247/Z. § (1) bekezdése szerinti méltányosságból történő meghosszabbítására az MFÜV jogosult. A méltányosság elbírálásakor az MH központi egészségügyi szervezete illetékes szakorvosának véleményét kell alapul venni.
+(6a)[^71] Az egészségügyi szabadságnak a Hjt. 247/Z. § (1) bekezdése szerinti méltányosságból történő meghosszabbítására az MFÜV jogosult. A méltányosság elbírálásakor az MH központi egészségügyi szervezete illetékes szakorvosának véleményét kell alapul venni.
 
 (7) Az engedélyezett egészségügyi szabadság kiadásáról az állományilletékes parancsnok haladéktalanul intézkedik.
 
@@ -44,4 +44,4 @@ c) a KFÜV legfeljebb 365
 
 (10) Ha az MFÜV által engedélyezett 240 nap egészségügyi szabadság leteltével a honvéd szolgálatképessége nem áll helyre, – és a szolgálatképesség helyreállása az összességében 365 napig engedélyezhető egészségügyi szabadság vagy csökkentett napi szolgálatteljesítési idő engedélyezése esetén sem várható – a kezelőorvos a honvéd felülvizsgálati eljárását kezdeményezi.
 
-[^68]: A 73. § (6a) bekezdését a 23/2021. (XI. 29.) HM rendelet 7. §-a iktatta be.
+[^71]: A 73. § (6a) bekezdését a 23/2021. (XI. 29.) HM rendelet 7. §-a iktatta be.

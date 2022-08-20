@@ -1,6 +1,6 @@
-54. § (1)[^52] Az önkéntes tartalékos katonai szolgálatra jelentkezők esetében – az önkéntes területvédelmi tartalékos katonának jelentkezők kivételével – előzetes alkalmasság-vizsgálatot is kell végezni.
+54. § (1)[^55] Az önkéntes tartalékos katonai szolgálatra jelentkezők esetében – az önkéntes területvédelmi tartalékos katonának jelentkezők kivételével – előzetes alkalmasság-vizsgálatot is kell végezni.
 
-(2)[^53] Az önkéntes tartalékos katonai állományba jelentkező előzetes alkalmasságvizsgálatát az MH egészségügyi főnöke által a vizsgálat végrehajtására szakmailag jóváhagyott és a Honvéd Vezérkar főnöke által kijelölt vagy jóváhagyott orvosi rendelő orvosa, vagy az MH egészségügyi szervezete alkalmasságvizsgálatot végző szervének orvosa végzi.
+(2)[^56] Az önkéntes tartalékos katonai állományba jelentkező előzetes alkalmasságvizsgálatát az MH egészségügyi főnöke által a vizsgálat végrehajtására szakmailag jóváhagyott és a Honvéd Vezérkar főnöke által kijelölt vagy jóváhagyott orvosi rendelő orvosa, vagy az MH egészségügyi szervezete alkalmasságvizsgálatot végző szervének orvosa végzi.
 
 (3) A (2) bekezdés szerinti alkalmasság-vizsgálat a szerződésben kikötött próbaidőre érvényes.
 
@@ -56,5 +56,5 @@ b) „Nem javasolt önkéntes tartalékosként próbaidőre felvenni.”
 
 (11) Annál az önkéntes tartalékos állományba jelentkező személynél, akinek a szerződéskötéstől számított 1 éven belül az MHközponti egészségügyi szervezete alkalmasság-vizsgálatot végző szerve által kiállított alkalmassági véleménye van, vagy részt vett az elmúlt 1 éven belül az MH egészségügyi szolgálatánál elvégzett kötelező éves orvosi vizsgálaton és érvényes fizikai állapotfelméréssel rendelkezik, nem szükséges előszűrést és alkalmasság-vizsgálatot végezni.
 
-[^52]: Az 54. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 104. §-ával megállapított szöveg.
-[^53]: Az 54. § (2) bekezdése a 6/2017. (VI. 8.) HM rendelet 8. §-ával megállapított szöveg.
+[^55]: Az 54. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 104. §-ával megállapított szöveg.
+[^56]: Az 54. § (2) bekezdése a 6/2017. (VI. 8.) HM rendelet 8. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@ c) az EFÜV legfelejebb180,
 
 d) az MFÜV legfeljebb 365
 
-## nap időtartamban jogosult.
+nap időtartamban jogosult.
 
 (3) A (2) bekezdés b)–d) pontja szerinti időtartamokba a már engedélyezett időtartamokat be kell számítani.
 

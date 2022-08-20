@@ -2,28 +2,28 @@
 
 a) az egészségi vizsgálatok alapján „Egészségileg alkalmas”,
 
-b)[^35] a pszichológiai vizsgálatok alapján „Pszichésen alkalmas” vagy „Pszichésen korlátozással alkalmas”, valamint
+b)[^36] a pszichológiai vizsgálatok alapján „Pszichésen alkalmas” vagy „Pszichésen korlátozással alkalmas”, valamint
 
-c)[^36] a fizikai alkalmasság vizsgálaton az előírt minimális pontszámot nem érte el, de az egészségi vizsgálatok alapján a felkészítés során a fizikai követelményeket várhatóan képes teljesíteni.
+c)[^37] a fizikai alkalmasság vizsgálaton az előírt minimális pontszámot nem érte el, de az egészségi vizsgálatok alapján a felkészítés során a fizikai követelményeket várhatóan képes teljesíteni.
 
 (2) A szolgálati viszony létesítésére irányuló szerződésben a próbaidő kikötése mellett rögzíteni kell, hogy a fizikai alkalmassági követelményeket legkésőbb a próbaidő leteltéig kell teljesíteni, amelynek elmaradása esetén a honvéd szolgálati viszonya a Hjt. 68. § (1) bekezdés j) pontja alapján megszűnik.
 
 (3) Ha hivatásos állományba vétel a Hjt. 32. § (2) bekezdése alapján történik, az (1) és (2) bekezdésben foglaltakat kell megfelelően alkalmazni, azzal, hogy a fizikai alkalmassági követelményeket legkésőbb hat hónapon belül kell teljesíteni.
 
-(4)[^37]
+(4)[^38]
 
 (5) Az alapkiképzés záróvizsgáján kell elvégezni a honvéd fizikai állapotfelmérését. Az alapkiképzést végző katonai szervezet a záróvizsga időpontja előtt 30 nappal értesíti az MH központi egészségügyi szervezete alkalmasság-vizsgálatot végző szervét, aki egy főt delegálhat a fizikai állapotfelmérést végrehajtó bizottságba. Az eredményt az alapkiképzést végrehajtó szerv megküldi az állományilletékes parancsnoknak és az EPAB-nak.
 
 (6) Ha az (5) bekezdés szerinti vizsgálaton a honvéd fizikailag nem megfelelő eredményt ér el, az állományilletékes parancsnok a próbaidő letelte előtt kezdeményezheti a honvéd ismételt fizikai alkalmasság-vizsgálatát.
 
-(7)[^38]
+(7)[^39]
 
 (8) Ha az érintett személy a 25. § szerinti alkalmasság-vizsgálat alapján a fizikai követelményeket várhatóan a próbaidő végére sem képes teljesíteni, akkor az (1) bekezdés szerinti tájékoztatási kötelezettség teljesítése helyett minősíteni kell a katonai szolgálatra való alkalmasságot.
 
-(9)[^39] A mélységi és speciális felderítő, különleges műveleti, és légialkalmazású katona jelöltnél nem kell repülőorvosi bizottságnak (a továbbiakban: ROB) vizsgálatot (gerincröntgen) végeznie. Az egészségügyi vizsgálat során nyilatkoznia kell az érintett személynek, hogy megértette és elfogadta annak kockázatát, hogy rosszul kivitelezett ejtőernyős ugrást követően olyan baleseti jellegű sérülést szenvedhet, amely maradandó egészségkárosodást okozhat, és akár a beosztás elvesztését is maga után vonhatja. Nyilatkozat hiányában a beosztás csak alkalmas minősítéssel záruló ROB-vizsgálatot követően tölthető be.
+(9)[^40] A mélységi és speciális felderítő, különleges műveleti, és légialkalmazású katona jelöltnél nem kell repülőorvosi bizottságnak (a továbbiakban: ROB) vizsgálatot (gerincröntgen) végeznie. Az egészségügyi vizsgálat során nyilatkoznia kell az érintett személynek, hogy megértette és elfogadta annak kockázatát, hogy rosszul kivitelezett ejtőernyős ugrást követően olyan baleseti jellegű sérülést szenvedhet, amely maradandó egészségkárosodást okozhat, és akár a beosztás elvesztését is maga után vonhatja. Nyilatkozat hiányában a beosztás csak alkalmas minősítéssel záruló ROB-vizsgálatot követően tölthető be.
 
-[^35]: A 28. § (1) bekezdés b) pontja a 21/2021. (X. 6.) HM rendelet 3. §-ával megállapított szöveg.
-[^36]: A 28. § (1) bekezdés c) pontja a 21/2021. (X. 6.) HM rendelet 3. §-ával megállapított szöveg.
-[^37]: A 28. § (4) bekezdését a 6/2017. (VI. 8.) HM rendelet 12. §-a hatályon kívül helyezte.
-[^38]: A 28. § (7) bekezdését a 6/2017. (VI. 8.) HM rendelet 12. §-a hatályon kívül helyezte.
-[^39]: A 28. § (9) bekezdését a 21/2021. (X. 6.) HM rendelet 4. §-a iktatta be.
+[^36]: A 28. § (1) bekezdés b) pontja a 21/2021. (X. 6.) HM rendelet 3. §-ával megállapított szöveg.
+[^37]: A 28. § (1) bekezdés c) pontja a 21/2021. (X. 6.) HM rendelet 3. §-ával megállapított szöveg.
+[^38]: A 28. § (4) bekezdését a 6/2017. (VI. 8.) HM rendelet 12. §-a hatályon kívül helyezte.
+[^39]: A 28. § (7) bekezdését a 6/2017. (VI. 8.) HM rendelet 12. §-a hatályon kívül helyezte.
+[^40]: A 28. § (9) bekezdését a 21/2021. (X. 6.) HM rendelet 4. §-a iktatta be.

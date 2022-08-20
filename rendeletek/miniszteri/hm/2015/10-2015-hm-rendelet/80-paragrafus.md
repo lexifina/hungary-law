@@ -10,7 +10,7 @@ b) az 1980. január 1. és 1991. december 31. között, valamint az 1960. januá
 
 c) az 1965. január 1. és 1979. december 31. között születettek körében 2018. évben
 
-## kell első alkalommal alkalmazni.
+kell első alkalommal alkalmazni.
 
 (2) A 4. §-ban meghatározott okból elvégzett alkalmasság-vizsgálatok minősítésére a 8. §-t az e rendelet hatálybalépését követően alkalmazni kell.
 

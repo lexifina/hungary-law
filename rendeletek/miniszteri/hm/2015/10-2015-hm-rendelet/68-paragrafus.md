@@ -1,5 +1,3 @@
-## engedélyezni.
-
 ## 31. A felülvizsgáló bizottságok eljárása
 
 68. § (1) A felülvizsgáló bizottságok üléseiket szükség szerint, az MH központi egészségügyi szervezete felülvizsgálatokat végző szervének vezető főorvosa által meghatározott gyakorisággal tartják.
@@ -28,6 +26,6 @@ e) szükség esetén az egyenruha viselésének egészségi szempontból való e
 
 (8) Ha a betegség szolgálati kötelmekkel való összefüggésének véleményezésére is sor kerül, a FÜV táblázat kivonatát, valamint az érintett teljes dokumentációját megküldi az MH Közegészségügyi és Járványügyi Szolgálat részére.
 
-(9)[^67] Ha a honvéd a katonai bírói tisztségre vagy ügyészségi alkalmazotti jogviszonyba történő vezénylése időtartama alatt „Katonai szolgálatra alkalmatlan” minősítést kapott, az alkalmatlanságát a vezénylése megszűnését követően haladéktalanul felül kell vizsgálni, amelyről az aktuális egészségi állapotának megfelelő új FÜV döntést kell kiadni. A felülvizsgálat mellőzhető, ha a megbetegedés, sérülés jellegéből fakadóan, vagy az alkalmatlanság megállapítása óta eltelt időtartamra tekintettel az orvosilag nem indokolt. Az új FÜV döntést, illetve a felülvizsgálat mellőzéséről szóló tájékoztatást a kiállításától számított öt munkanapon belül a központi személyügyi szerv részére meg kell küldeni.
+(9)[^70] Ha a honvéd a katonai bírói tisztségre vagy ügyészségi alkalmazotti jogviszonyba történő vezénylése időtartama alatt „Katonai szolgálatra alkalmatlan” minősítést kapott, az alkalmatlanságát a vezénylése megszűnését követően haladéktalanul felül kell vizsgálni, amelyről az aktuális egészségi állapotának megfelelő új FÜV döntést kell kiadni. A felülvizsgálat mellőzhető, ha a megbetegedés, sérülés jellegéből fakadóan, vagy az alkalmatlanság megállapítása óta eltelt időtartamra tekintettel az orvosilag nem indokolt. Az új FÜV döntést, illetve a felülvizsgálat mellőzéséről szóló tájékoztatást a kiállításától számított öt munkanapon belül a központi személyügyi szerv részére meg kell küldeni.
 
-[^67]: A 68. § (9) bekezdését a 4/2022. (II. 17.) HM rendelet 23. §-a iktatta be.
+[^70]: A 68. § (9) bekezdését a 4/2022. (II. 17.) HM rendelet 23. §-a iktatta be.

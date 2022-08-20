@@ -38,7 +38,7 @@ g) a Másodfokú Repülőorvosi Bizottság (a továbbiakban: MROB),
 
 11. különleges elbírálás: egyénileg mérlegelhető minősítési változatok, amelyek választási lehetőséget biztosítanak az 5. § (1) bekezdés minősítései között,
 
-11a.[^2] légialkalmazású katona: olyan katona, aki alaprendeltetésű feladataiból adódóan, különböző repülőeszközökből egy éves kiképzési időszak alatt legfeljebb 20 ejtőernyős ugrást hajt végre vezetett nyitási folyamatú körkupolás ejtőernyő rendszerrel, vagy helikopterrel történő kirakást, illetve kiemelést végez különböző kötéltechnikai módszerekkel.
+11a.[^3] légialkalmazású katona: olyan katona, aki alaprendeltetésű feladataiból adódóan, különböző repülőeszközökből egy éves kiképzési időszak alatt legfeljebb 20 ejtőernyős ugrást hajt végre vezetett nyitási folyamatú körkupolás ejtőernyő rendszerrel, vagy helikopterrel történő kirakást, illetve kiemelést végez különböző kötéltechnikai módszerekkel.
 
 12. munkaköri alkalmassági vizsgálat: azt állapítja meg, hogy a meghatározott katonai munkakörben végzett szolgálati tevékenység által okozott megterhelés a vizsgált személy számára milyen igénybevételt jelent, és annak képes-e megfelelni,
 
@@ -54,4 +54,4 @@ g) a Másodfokú Repülőorvosi Bizottság (a továbbiakban: MROB),
 
 18. záró vizsgálat: a honvéd szolgálati viszonyának megszűnésekor, megszüntetésekor történő egészségi, szükség esetén pszichés vizsgálata, mely csak az adott állapot rögzítésére irányul.
 
-[^2]: A 2. § 11a. pontját a 21/2021. (X. 6.) HM rendelet 1. §-a iktatta be.
+[^3]: A 2. § 11a. pontját a 21/2021. (X. 6.) HM rendelet 1. §-a iktatta be.

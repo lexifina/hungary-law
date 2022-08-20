@@ -16,12 +16,12 @@ c) mintavétel kábítószerszűréshez, valamint laboratóriumi vizsgálat sor�
 
 a) leletek: 1 éven belüli mellkasröntgen lelet, nők esetében 3 hónapon belüli nőgyógyászati és 1 éven belüli citológiai lelet, továbbá
 
-b)[^23] okmányok: Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány (a továbbiakban: TAJ kártya), a 10. melléklet szerinti, a háziorvosi, alapellátást végző orvos által kiadott tájékoztatás (a továbbiakban: Háziorvosi tájékoztatás), továbbá
+b)[^24] okmányok: Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány (a továbbiakban: TAJ kártya), a 10. melléklet szerinti, a háziorvosi, alapellátást végző orvos által kiadott tájékoztatás (a továbbiakban: Háziorvosi tájékoztatás), továbbá
 
-c)[^24] kiegészítő okmányok: a vizsgálat időpontjában betöltött vagy a tervezett beosztáshoz kapcsolódó munkaköri leírás, a 11. melléklet szerinti Prevenciós adatlap, a 12. melléklet szerinti „Egészségügyi adatlap és nyilatkozat”, ha a külföldi beosztás betöltéséhez szükséges, miniszteri utasításban kiadott minta szerinti „Entry Medical Examination” nevű dokumentum kitöltött és aláírt 1. és 2. oldala.
+c)[^25] kiegészítő okmányok: a vizsgálat időpontjában betöltött vagy a tervezett beosztáshoz kapcsolódó munkaköri leírás, a 11. melléklet szerinti Prevenciós adatlap, a 12. melléklet szerinti „Egészségügyi adatlap és nyilatkozat”, ha a külföldi beosztás betöltéséhez szükséges, miniszteri utasításban kiadott minta szerinti „Entry Medical Examination” nevű dokumentum kitöltött és aláírt 1. és 2. oldala.
 
-d)[^25] nyilatkozat a mélységi és speciális felderítő, különleges műveleti, légialkalmazású katona által betölthető beosztásra jelentkező esetén, a 20. melléklet szerint.
+d)[^26] nyilatkozat a mélységi és speciális felderítő, különleges műveleti, légialkalmazású katona által betölthető beosztásra jelentkező esetén, a 20. melléklet szerint.
 
-[^23]: A 20. § (3) bekezdés b) pontja a 6/2017. (VI. 8.) HM rendelet 3. §-ával megállapított szöveg.
-[^24]: A 20. § (3) bekezdés c) pontja a 6/2017. (VI. 8.) HM rendelet 3. §-ával megállapított szöveg.
-[^25]: A 20. § (3) bekezdés d) pontját a 21/2021. (X. 6.) HM rendelet 2. §-a iktatta be.
+[^24]: A 20. § (3) bekezdés b) pontja a 6/2017. (VI. 8.) HM rendelet 3. §-ával megállapított szöveg.
+[^25]: A 20. § (3) bekezdés c) pontja a 6/2017. (VI. 8.) HM rendelet 3. §-ával megállapított szöveg.
+[^26]: A 20. § (3) bekezdés d) pontját a 21/2021. (X. 6.) HM rendelet 2. §-a iktatta be.

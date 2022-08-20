@@ -14,7 +14,7 @@ c) az MFÜV legfeljebb 180,
 
 d) a KFÜV legfeljebb 365
 
-## napra engedélyezhet.
+napra engedélyezhet.
 
 (5) A (4) bekezdés b)–d) pontja szerinti időtartamokba a már engedélyezett időtartamokat be kell számítani.
 

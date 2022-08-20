@@ -11,3 +11,5 @@
 a) 240 napon túl, legfeljebb 365 napig egészségügyi szabadságot, vagy
 
 b) 365 napig napi 6, illetve 4 órás csökkentett szolgálatteljesítési időt
+
+engedélyezni.
