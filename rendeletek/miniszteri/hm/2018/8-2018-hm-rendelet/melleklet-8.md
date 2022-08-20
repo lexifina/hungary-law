@@ -2,7 +2,7 @@
 
 |  | A | B | C | D | E |
 
-| 1. | Hivatásos és szerződéses katonák (a képzés megkezdése előtti beosztáshoz rendszeresített rendfokozat) | Közalkalmazottak és honvédelmi alkalmazottak (a képzés megkezdése előtti beosztás, fizetési osztály, vezetői megbízás) | Honvéd tisztjelöltek és honvéd altisztjelöltek | Kormánytisztviselők (a képzés megkezdése előtti besorolási fokozat) | Ellátmány szorzószáma |
+| 1. | Hivatásos és szerződéses katonák (a képzés megkezdése előtti beosztáshoz rendszeresített rendfokozat) a honvéd tisztjelöltek kivételével | Közalkalmazottak és honvédelmi alkalmazottak (a képzés megkezdése előtti beosztás, fizetési osztály, vezetői megbízás) | Honvéd tisztjelöltek (évfolyamnak megfelelő viselt rendfokozat) és honvéd altiszt-jelöltek | Kormány-tisztviselők (a képzés megkezdése előtti besorolási fokozat) | Ellátmány szorzószáma |
 
 | 2. | vezérezredes | – | – | – | 2,00 |
 
@@ -28,23 +28,23 @@
 
 | 13. | törzszászlós | „D” fizetési osztály | – | – | 1,40 |
 
-| 14. | zászlós | – | – | – | 1,35 |
+| 14. | zászlós | – | hallgató zászlós (tisztjelölt) | – | 1,35 |
 
-| 15. | főtörzsőrmester | – | – | – | 1,30 |
+| 15. | főtörzsőrmester | – | hallgató főtörzsőrmester (tisztjelölt) | – | 1,30 |
 
-| 16. | törzsőrmester | „C” fizetési osztály | – | – | 1,25 |
+| 16. | törzsőrmester | „C” fizetési osztály | hallgató törzsőrmester (tisztjelölt) | – | 1,25 |
 
-| 17. | őrmester | – | – | – | 1,20 |
+| 17. | őrmester | – | hallgató őrmester (tisztjelölt) | – | 1,20 |
 
 | 18. | legénységi állománycsoport | „A”–„B” fizetési osztály | – | – | 1,15 |
 
-| 19. | – | – | IV. évfolyamos tisztjelölt | – | 1,10 |
+| 19. | – | – | honvéd altiszt-jelölt | – | 1,00 |
 
-| 20. | – | – | II–III. évfolyamos tisztjelölt | – | 1,05 |
+| 20. |  |  |  |  |  |
 
-| 21. | – | – | – I. évfolyamos tisztjelölt – altisztjelölt | – | 1,00 |
+| 21. |  |  |  |  |  |
 
-8. melléklet a 8/2018. (VI. 22.) HM rendelethez[^191]
+8. melléklet a 8/2018. (VI. 22.) HM rendelethez[^195]
 
 ## Az állomány ideiglenes külföldi szolgálatot teljesítő és ideiglenes külföldi képzésben részt vevő tagjai külföldi napidíjához tartozó kategóriák országonként
 
@@ -192,4 +192,4 @@ II. A II. kategóriába tartozó országok
 
 III. A III. kategóriába tartozó országok
 
-[^191]: A 8. melléklet a 2/2019. (I. 31.) HM rendelet 38. § d) pontjával megállapított szöveg.
+[^195]: A 8. melléklet a 2/2019. (I. 31.) HM rendelet 38. § d) pontjával megállapított szöveg.
