@@ -1,6 +1,6 @@
-## 28. §[^122] E rendeletnek a kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló 13/2013. (VIII. 21.) HM rendelet módosításáról szóló 5/2019. (IV. 11.) HM rendelettel megállapított rendelkezéseit első alkalommal a 2019. június 17-én kezdődő főszezontól kell alkalmazni.
+## 29. §[^125] A 20. § (2) bekezdése alkalmazásában a tisztjelöltek esetében illetménynek kell tekinteni a tisztjelöltet 2022. augusztus 20. előtt megillető ösztöndíjat is.
 
-1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^123]
+1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^126]
 
 1. Igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezetében
 
@@ -204,5 +204,5 @@
 
 |  | 3. | Gyermektábor 12–16. életév között | 2835 |
 
-[^122]: A 28. §-t az 5/2019. (IV. 11.) HM rendelet 7. §-a iktatta be.
-[^123]: Az 1. melléklet az 5/2019. (IV. 11.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^125]: A 29. §-t a 7/2022. (IV. 14.) HM rendelet 15. §-ával megállapított szöveg.
+[^126]: Az 1. melléklet az 5/2019. (IV. 11.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.

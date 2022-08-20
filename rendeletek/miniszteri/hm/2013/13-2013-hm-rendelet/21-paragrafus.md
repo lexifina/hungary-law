@@ -1,6 +1,6 @@
-## 20/A. §[^110] Az MH központi személyügyi szerv vezetője az 1. melléklet szerinti belföldi egyéni és családos igényjogosulti térítési díj összegét legfeljebb 20%-os mértékben csökkentheti, ha az igénybevett szolgáltatás ideje alatt az MH regenerálódást segítő és rekreációt végző szervezeténél vagy az MH regenerálódást és kiképzést végző szervezeténél olyan zajártalommal járó tevékenységek – különösen építési, felújítási munkálatok – folynak, amelyek korlátozzák a szolgáltatások zavartalan igénybevételét.
+## 20/A. §[^112] Az MH központi személyügyi szerv vezetője az 1. melléklet szerinti belföldi egyéni és családos igényjogosulti térítési díj összegét legfeljebb 20%-os mértékben csökkentheti, ha az igénybevett szolgáltatás ideje alatt az MH regenerálódást segítő és rekreációt végző szervezeténél vagy az MH regenerálódást és kiképzést végző szervezeténél olyan zajártalommal járó tevékenységek – különösen építési, felújítási munkálatok – folynak, amelyek korlátozzák a szolgáltatások zavartalan igénybevételét.
 
-21. §[^111] (1) A szolgáltatást nyújtó szervezet a befizetett térítési díjat – az a) pont szerinti lemondó nyilatkozat, illetve a b) és c) pont szerinti igazolás kézhezvételét követő 20 napon belül – teljes összegben visszatéríti, ha
+21. §[^113] (1) A szolgáltatást nyújtó szervezet a befizetett térítési díjat – az a) pont szerinti lemondó nyilatkozat, illetve a b) és c) pont szerinti igazolás kézhezvételét követő 20 napon belül – teljes összegben visszatéríti, ha
 
 a) az igénylő az általa befizetett szolgáltatást annak igénybevétele előtt a szolgáltatást nyújtó szervezetnél legkésőbb 15 nappal lemondja,
 
@@ -24,5 +24,5 @@ a) az (1) bekezdés b) és c) pontja szerinti igazolás esetén csak az igénybe
 
 b) az (1) bekezdés b) és c) pontja szerinti igazolás hiányában az igénybe vett szolgáltatás térítési díján felül az igénybe nem vett szolgáltatás térítési díjának 20%-át is köteles megfizetni a szolgáltatást nyújtó szervezet számlájára, a felhívástól számított 20 napon belül.
 
-[^110]: A 20/A. §-t a 9/2016. (VI. 29.) HM rendelet 3. §-a iktatta be, szövege a 4/2017. (IV. 28.) HM rendelet 14. §-ával megállapított szöveg.
-[^111]: A 21. § a 4/2017. (IV. 28.) HM rendelet 15. §-ával megállapított szöveg.
+[^112]: A 20/A. §-t a 9/2016. (VI. 29.) HM rendelet 3. §-a iktatta be, szövege a 4/2017. (IV. 28.) HM rendelet 14. §-ával megállapított szöveg.
+[^113]: A 21. § a 4/2017. (IV. 28.) HM rendelet 15. §-ával megállapított szöveg.

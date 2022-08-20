@@ -1,14 +1,14 @@
-11/A. §[^41] (1) A 8. § (1) bekezdése szerinti állomány tagja részére különleges regeneráló pihenés biztosítható. A különleges regeneráló pihenésre a 8–11. §-ban meghatározott szabályokat a (2)–(8) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+11/A. §[^43] (1) A 8. § (1) bekezdése szerinti állomány tagja részére különleges regeneráló pihenés biztosítható. A különleges regeneráló pihenésre a 8–11. §-ban meghatározott szabályokat a (2)–(8) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A különleges regeneráló pihenés biztosításának lehetőségét
 
-a)[^42] a 8. § (1) bekezdés a), b) és c) pontja szerinti állomány tekintetében a miniszter, a Honvédelmi Minisztérium parlamenti államtitkára, a Honvédelmi Minisztérium közigazgatási államtitkára és az MH PK,
+a)[^44] a 8. § (1) bekezdés a), b) és c) pontja szerinti állomány tekintetében a miniszter, a Honvédelmi Minisztérium parlamenti államtitkára, a Honvédelmi Minisztérium közigazgatási államtitkára és az MH PK,
 
 b) a Katonai Nemzetbiztonsági Szolgálat vonatkozásában a 8. § (1) bekezdés a), b) és c) pontja szerinti állomány tekintetében a Katonai Nemzetbiztonsági Szolgálat főigazgatója
 
 ## állapítja meg.
 
-(3)[^43] A (2) bekezdés szerinti döntés rendelkezhet arról, hogy a 8. § (1) bekezdése szerinti állomány tagja a honvédelmi szervezetek kiemelt feladataiban való részvételt követően
+(3)[^45] A (2) bekezdés szerinti döntés rendelkezhet arról, hogy a 8. § (1) bekezdése szerinti állomány tagja a honvédelmi szervezetek kiemelt feladataiban való részvételt követően
 
 a) családtagjaival vagy
 
@@ -20,7 +20,7 @@ vehet részt a különleges regeneráló pihenésen.
 
 (5) A különleges regeneráló pihenést az igényjogosult az MH regenerálódást és kiképzést végző vagy az MH regenerálódást segítő és rekreációt végző szervezetében veheti igénybe, a jogosultságot megalapozó feladatban való részvételt követően.
 
-(6)[^44] A különleges regeneráló pihenést a (3) bekezdésben foglalt döntés esetén
+(6)[^46] A különleges regeneráló pihenést a (3) bekezdésben foglalt döntés esetén
 
 a) az igényjogosult és a (3) bekezdés a) pontjában megnevezett személyek térítési díj megfizetése nélkül,
 
@@ -28,12 +28,12 @@ b) a (3) bekezdés b) pontjában felsorolt személyek az 1. melléklet 2. pontj�
 
 ## vehetik igénybe.
 
-(7)[^45] A különleges regeneráló pihenés elő-, utó- és főszezonban vehető igénybe, az adott évre kijelölt turnusok alapján.
+(7)[^47] A különleges regeneráló pihenés elő-, utó- és főszezonban vehető igénybe, az adott évre kijelölt turnusok alapján.
 
 (8) A különleges regeneráló pihenést a 8. § (1) bekezdése szerinti állomány tagja az éves alap- és pótszabadsága terhére veheti igénybe.
 
-[^41]: A 11/A. §-t a 6/2016. (IV. 15.) HM rendelet 4. §-a iktatta be, szövege a 4/2017. (IV. 28.) HM rendelet 6. §-ával megállapított szöveg.
-[^42]: A 11/A. § (2) bekezdés a) pontja az 5/2019. (IV. 11.) HM rendelet 9. § h) pontja szerint módosított szöveg.
-[^43]: A 11/A. § (3) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^44]: A 11/A. § (6) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^45]: A 11/A. § (7) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^43]: A 11/A. §-t a 6/2016. (IV. 15.) HM rendelet 4. §-a iktatta be, szövege a 4/2017. (IV. 28.) HM rendelet 6. §-ával megállapított szöveg.
+[^44]: A 11/A. § (2) bekezdés a) pontja az 5/2019. (IV. 11.) HM rendelet 9. § h) pontja szerint módosított szöveg.
+[^45]: A 11/A. § (3) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^46]: A 11/A. § (6) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^47]: A 11/A. § (7) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
