@@ -1,6 +1,6 @@
-## 4. §[^15] Az e Fejezet szerinti juttatásokra nem jogosult az a honvéd tisztjelölt és az a honvéd altiszt-jelölt, valamint az állomány Hjt. 46. § (1) bekezdés c) pontja alá tartozó azon tagja, aki nem a HM képzési igényeihez kapcsolódóan hajt végre szolgálati kiküldetést.
+## 4. §[^16] Az e Fejezet szerinti juttatásokra nem jogosult az a honvéd tisztjelölt és az a honvéd altiszt-jelölt, valamint az állomány Hjt. 46. § (1) bekezdés c) pontja alá tartozó azon tagja, aki nem a HM képzési igényeihez kapcsolódóan hajt végre szolgálati kiküldetést.
 
-5. § (1)[^16] Szolgálati kiküldetést kell elrendelni a honvéd, a honvédelmi alkalmazott, valamint a közalkalmazott részére, ha a szolgálati, munkaköri feladatok a szolgálatteljesítési hely, a lakóhely és a tartózkodási hely szerinti településtől eltérő belföldi településen való szolgálatteljesítést tesznek szükségessé, ideértve a szolgálat érdekében elrendelt kötelező egészségügyi szűrővizsgálaton való részvételt, valamint a szolgálati, munkaköri feladatok szolgálati helytől eltérő belföldi településen történő, egybefüggően 24 órát meghaladó szokásos ellátását.
+5. § (1)[^17] Szolgálati kiküldetést kell elrendelni a honvéd, a honvédelmi alkalmazott, valamint a közalkalmazott részére, ha a szolgálati, munkaköri feladatok a szolgálatteljesítési hely, a lakóhely és a tartózkodási hely szerinti településtől eltérő belföldi településen való szolgálatteljesítést tesznek szükségessé, ideértve a szolgálat érdekében elrendelt kötelező egészségügyi szűrővizsgálaton való részvételt, valamint a szolgálati, munkaköri feladatok szolgálati helytől eltérő belföldi településen történő, egybefüggően 24 órát meghaladó szokásos ellátását.
 
 (2) Nem minősül szolgálati kiküldetésnek a szolgálatteljesítési hely csapatmozgás során történő elhagyása.
 
@@ -16,5 +16,5 @@ d) az igénybe vehető közlekedési eszközt és annak komfortfokozatát,
 
 e) az igénybe vehető szállást, annak minőségi feltételeit, továbbá honvédségi szálláshely hiányában a költségtakarékossági elvek szem előtt tartásával a napi szállásköltség felső határát.
 
-[^15]: A 4. § a 26/2016. (XII. 22.) HM rendelet 12. §-ával megállapított szöveg.
-[^16]: Az 5. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 95. § b) pontja szerint módosított szöveg.
+[^16]: A 4. § a 26/2016. (XII. 22.) HM rendelet 12. §-ával megállapított szöveg.
+[^17]: Az 5. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 95. § b) pontja szerint módosított szöveg.
