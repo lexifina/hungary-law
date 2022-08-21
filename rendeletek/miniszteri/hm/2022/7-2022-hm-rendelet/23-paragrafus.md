@@ -1,3 +1,5 @@
-## 22. § Hatályát veszti az R5. 18. § (2) bekezdésében az „a honvéd tisztjelölt,” szövegrész.
+## 22. §[^23]
 
 ## 9. A ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosítása
+
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

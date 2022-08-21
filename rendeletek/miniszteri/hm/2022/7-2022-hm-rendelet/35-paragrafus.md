@@ -1,3 +1,3 @@
-## 34. § Az R8. 80. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 34. §[^35]
 
-## „(2) A tartós külföldi képzésben részt vevő honvéd tisztjelölt esetében a 70. § (1) bekezdése alkalmazása során az ellátmány kiszámításához a 7. melléklet szerinti szorzószámot a külföldi képzés időtartama alatt a honvédtiszti alapképzésben végzett évfolyamnak megfelelő viselt rendfokozat alapján kell megállapítani.”
+[^35]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 15. § Az R4. a következő 29. §-sal egészül ki:
+## 15. §[^16]
 
-## „29. § A 20. § (2) bekezdése alkalmazásában a tisztjelöltek esetében illetménynek kell tekinteni a tisztjelöltet 2022. augusztus 20. előtt megillető ösztöndíjat is.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

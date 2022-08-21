@@ -1,1 +1,3 @@
-## 16. § Az R4. 8. § (1) bekezdés a) pontjában az „az állomány tagja” szövegrész helyébe az „– a honvéd tisztjelölt kivételével – az állomány tagja” szöveg lép.
+## 16. §[^17]
+
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

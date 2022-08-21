@@ -1,3 +1,3 @@
-## „(3) A honvéd altiszt-jelölt esetében nem alkalmazható a II., a III., a IV., az V., a VI. és a XIII. Fejezet.
+## 33. §[^34]
 
-## (4) Ahol e rendelet az utazási költségtérítésekkel kapcsolatban az állomány tagjának szabadságáról rendelkezik, azon a honvéd tisztjelölt esetében a szolgálatteljesítési és rendelkezésre állási kötelezettség alóli mentesítést kell érteni.”
+[^34]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
