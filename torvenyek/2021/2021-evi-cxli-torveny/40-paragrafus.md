@@ -1,6 +1,6 @@
-40. § A Hjt.
+40. §
 
-1. 1. § (1) bekezdésében az „ , a honvéd tisztjelöltekre, és a honvéd altiszt-jelöltekre” szövegrész helyébe az „és a honvéd altiszt-jelöltekre” szöveg,
+1.
 
 2.
 
@@ -18,12 +18,10 @@
 
 9.
 
-10. 208. § (6) bekezdésében az „ösztöndíjára” szövegrész helyébe az „illetményére” szöveg,
+10.
 
 11.
 
-12. 235. § (2) bekezdésében a „227. § (4) bekezdését” szövegrész helyébe a „226. § (5) bekezdését” szöveg,
+12.
 
-13. 235. § (3) bekezdésében a „227. § (5) és (6) bekezdését” szövegrész helyébe a „226. § (6) bekezdését” szöveg
-
-lép.
+13.
