@@ -2,7 +2,7 @@
 
 1.
 
-2. 1. számú melléklete a 3. melléklet,
+2.
 
 3.
 
