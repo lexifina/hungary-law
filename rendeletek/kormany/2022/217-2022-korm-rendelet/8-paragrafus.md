@@ -22,7 +22,7 @@ d) kijelölő határozat alatt ezen alcím kijelölésre vonatkozó részére hi
 
 e) a Get. 115/C. § (4) bekezdésében megjelölt határnap alatt 2022. július 25-ét
 
-## kell érteni, valamint a Get. 31/B. § (4) bekezdésétől eltérően az egyetemes szolgáltató és a végső földgázmenedékes az (1) bekezdés szerinti felhasználó esetében a kereskedőváltást 2022. július 25-ig jogosult az érintett rendszerüzemeltetőnél bejelenteni, és a rendszerüzemeltető a kereskedőváltással kapcsolatos kötelezettségeit 2022. július 31-ig teljesíti.
+kell érteni, valamint a Get. 31/B. § (4) bekezdésétől eltérően az egyetemes szolgáltató és a végső földgázmenedékes az (1) bekezdés szerinti felhasználó esetében a kereskedőváltást 2022. július 25-ig jogosult az érintett rendszerüzemeltetőnél bejelenteni, és a rendszerüzemeltető a kereskedőváltással kapcsolatos kötelezettségeit 2022. július 31-ig teljesíti.
 
 (8) Ha az (1) bekezdés szerinti felhasználó elosztóhálózat-használati szerződését 2022. július 31-én a Get. 28/A. § (4) bekezdése alapján az egyetemes szolgáltató kezelte, 2022. augusztus 1-jével a felhasználó elosztóhálózat-használati szerződését a végső földgázmenedékes kezeli. Az e §-ban foglaltak végrehajtása érdekében az egyetemes szolgáltató a kezelésében lévő elosztóhálózat-használati szerződéseket a végső földgázmenedékes részére átadja.
 

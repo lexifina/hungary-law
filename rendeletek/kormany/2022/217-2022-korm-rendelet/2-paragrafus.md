@@ -6,7 +6,7 @@ a) lakossági fogyasztó,
 
 b) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: 2004. évi XXXIV. törvény) 3. § (3) bekezdése szerinti mikrovállalkozásnak (a továbbiakban: mikrovállalkozás) minősülő, kisfeszültségen vételező, összes felhasználási helye tekintetében együttesen 3*63 A-nál nem nagyobb csatlakozási teljesítményű felhasználó
 
-## jogosult, azzal, hogy a b) pont szerinti felhasználó az egyetemes szolgáltatótól 4606 kWh/év/összes felhasználási hely fogyasztásig a villamos energia egyetemes szolgáltatás árképzéséről szóló miniszteri rendeletben meghatározott áron, a felett a Vet. 141. § (7) bekezdésétől és 145. § (3) és (4) bekezdésétől eltérően versenypiaci áron vételez villamos energiát.
+jogosult, azzal, hogy a b) pont szerinti felhasználó az egyetemes szolgáltatótól 4606 kWh/év/összes felhasználási hely fogyasztásig a villamos energia egyetemes szolgáltatás árképzéséről szóló miniszteri rendeletben meghatározott áron, a felett a Vet. 141. § (7) bekezdésétől és 145. § (3) és (4) bekezdésétől eltérően versenypiaci áron vételez villamos energiát.
 
 (2) Az (1) bekezdés szerinti versenypiaci ár nem minősül a Vet. szerinti hatósági árnak, azt és az áralkalmazási feltételeket az egyetemes szolgáltató e rendelet hatálybalépését követő 5 munkanapon belül honlapján hirdetményi formában közzéteszi. A versenypiaci árat az egyetemes szolgáltató határozza meg. A hirdetményben meghatározott mindenkori versenypiaci ár a villamosenergia-vásárlási szerződés részévé válik. A versenypiaci árnak a villamosenergia-vásárlási szerződés megkötését követően bekövetkező változása esetén – a felek eltérő rendelkezése hiányában – a megváltozott versenypiaci ár az érvényes szerződés részévé válik.
 

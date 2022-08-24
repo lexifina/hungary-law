@@ -20,7 +20,7 @@ d) kijelölő határozat alatt ezen alcím kijelölésre vonatkozó részére hi
 
 e) a Vet. 99/D. § (6) bekezdésében megjelölt határnap alatt 2022. július 20-át
 
-## kell érteni, valamint az egyetemes szolgáltató és a végső villamosenergia-menedékes az (1) bekezdés szerinti felhasználó esetében a Vet. 47/B. § (9) bekezdésétől a kereskedőváltást 2022. július 20-ig jogosult a hálózati engedélyes részére bejelenteni.
+kell érteni, valamint az egyetemes szolgáltató és a végső villamosenergia-menedékes az (1) bekezdés szerinti felhasználó esetében a Vet. 47/B. § (9) bekezdésétől a kereskedőváltást 2022. július 20-ig jogosult a hálózati engedélyes részére bejelenteni.
 
 (7) Ha a felhasználó hálózathasználati szerződését 2022. július 31-én a Vet. 63. § (1) bekezdése alapján az egyetemes szolgáltató kezelte, 2022. augusztus 1-jével a felhasználó hálózathasználati szerződésében a végső villamosenergia-menedékes válik a rendszerhasználati díjak fizetőjévé.
 
