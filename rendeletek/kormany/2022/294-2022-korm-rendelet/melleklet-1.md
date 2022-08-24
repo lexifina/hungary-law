@@ -1,5 +1,3 @@
-## 10. §[^1]
-
 1. melléklet a 294/2022. (VIII. 9.) Korm. rendelethez
 
 Magyarország energiaellátás-biztonsága szempontjából stratégiai jelentőségű, faalapú nyersanyagok és termékek a Tanács vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK rendelete alapján besorolva
@@ -19,5 +17,3 @@ Magyarország energiaellátás-biztonsága szempontjából stratégiai jelentős
 | 6. | 4401 32 00 | Fűrészpor és fahulladék és -maradék, hasáb, brikett, labdacs (pellet) vagy hasonló alakra tömörítve – Fabrikett |
 
 | 7. | 4401 39 00 | Fűrészpor és fahulladék és -maradék, hasáb, brikett, labdacs (pellet) vagy hasonló alakra tömörítve – Más |
-
-[^1]: A 10. § a 8. § (2) bekezdése alapján 2022. augusztus 24-én lép hatályba.

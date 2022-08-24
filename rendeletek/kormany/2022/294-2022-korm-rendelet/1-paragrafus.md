@@ -10,7 +10,7 @@ a) tűzifának külföldre történő értékesítése esetén elővásárlási 
 
 b) a tűzifának a tulajdonjogát nem érintő külföldre történő kiszállítása során vételi jog
 
-## illeti meg.
+illeti meg.
 
 (3) E rendeletet nem kell alkalmazni
 
