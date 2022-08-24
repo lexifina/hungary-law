@@ -3,3 +3,7 @@
 2. § (1) Az ESZ-rendelet 2. § (1) bekezdés b) pontja és (4) bekezdése, valamint az ESZ-rendelet 7. § (1) bekezdés b) pontja szerinti egyetemes szolgáltatásra jogosult felhasználó számára meghatározott kedvezmény 2022. augusztus 1-jétől vehető igénybe.
 
 (2) Az ESZ-rendelet 2. § (1) bekezdés b) pontja és (4) bekezdése, valamint az ESZ-rendelet 7. § (1) bekezdés b) pontja szerinti egyetemes szolgáltatásra jogosult felhasználó az ESZ-rendelet 2. § (1) bekezdése és a 7. § (1) bekezdése szerinti kedvezményt időarányosan jogosult igénybe venni. Az egyetemes szolgáltató ennek érdekében naparányos elszámolást alkalmaz, amely alapján a felhasználó számára kiállított számlában a kedvezményes mennyiség a kedvezményes mennyiség 1/365-öd részének és a számlázási időszak napjainak szorzata alapján kerül érvényesítésre, és az e feletti rész elszámolása történik versenypiaci áron. Földgáz felhasználói adatszolgáltatáson vagy elosztói leolvasáson, leolvasást helyettesítő becslésen alapuló számlázás, valamint az azonos mennyiségről kiállított részszámlákon kívüli egyéb részszámlák esetén az egyetemes szolgáltató üzletszabályzatában rögzített fogyasztási jelleggörbe alapú kedvezménymeghatározást kell alkalmazni.
+
+(3)[^2] Az egyetemes szolgáltató által kibocsátott számlák tekintetében a Vet. 145. § (7) bekezdésében és a Get. 107/A. § (3) bekezdésében előírt rendelkezéseket nem kell alkalmazni.
+
+[^2]: A 2. § (3) bekezdését a 324/2022. (VIII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.

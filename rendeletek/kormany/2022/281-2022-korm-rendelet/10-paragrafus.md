@@ -1,1 +1,0 @@
-## 9. § Az ESZ-rendelet 7. § (1) bekezdés b) pontja szerinti felhasználó által az I. árkategória díjszabása szerint maximálisan vételezhető egész értékre kerekített mennyiség meghatározása során 34,87 MJ/m3 fűtőértékkel kell számolni.
