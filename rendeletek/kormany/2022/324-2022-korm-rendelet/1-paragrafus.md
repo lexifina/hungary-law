@@ -1,0 +1,5 @@
+1. § (1) A veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelet [a továbbiakban: 217/2022. (VI. 17.) Korm. rendelet] a következő 15. §-sal egészül ki:
+
+## „15. § E rendeletnek az egyetemes földgázszolgáltatással kapcsolatos kormányrendeletek módosításáról szóló 324/2022. (VIII. 23.) Korm. rendelettel megállapított 7. § (1) bekezdését a 2022. augusztus 1-jétől egyetemes szolgáltatás keretében értékesített földgáz elszámolása során kell alkalmazni.”
+
+(2) A 217/2022. (VI. 17.) Korm. rendelet 7. § (1) bekezdés záró szövegrészében az „1489 m3/év/összes felhasználási hely mértékig” szövegrész helyébe az „– a 2021. január 1. és 2022. június 30. közötti időszak éves elszámolásai során alkalmazott legmagasabb éves átlagfűtőérték adatok alapján valamennyi mikrovállalkozás számára legalább 1489 gáztechnikai normál m3/év/összes felhasználási hely mérték biztosítása érdekében – 54 810 MJ/év/összes felhasználási hely mértékig” szöveg lép.
