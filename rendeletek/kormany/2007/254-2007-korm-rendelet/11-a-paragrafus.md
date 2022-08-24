@@ -4,9 +4,9 @@
 
 (2) A központi költségvetési szerv vagyonkezelő félévente – július 31-ig, valamint a tárgyévet követő év január 31-ig – adatot szolgáltat az MNV Zrt. részére az elhelyezését szolgáló, valamint az általa ellátandó állami feladathoz használt adatszolgáltatással érintett ingatlanokról, a Melléklet IV. pontja szerint.
 
-(3) A központi költségvetési szervek (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettsége nem terjed ki a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontja szerinti minősített adatok körére.
+(3)[^97] A központi költségvetési szervek (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettsége nem terjed ki a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontja szerinti minősített adatok körére, továbbá a honvédelmi, katonai, valamint a terrorizmust elhárító szerv által kezelt, használt nemzetbiztonsági célú, illetve rendeltetésű ingatlanokra vonatkozó adatok körére.
 
-(4) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 14. pontja szerinti honvédségi szervezetek, valamint a Katonai Nemzetbiztonsági Szolgálat elhelyezésére, feladatai ellátására rendelt, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 63. § (5) bekezdése szerinti ingatlanok tekintetében az adatszolgáltatási kötelezettség kizárólag az ingatlan helyrajzi számára terjed ki.
+(4)[^98] A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezetek személyi állományának és szervezetének elhelyezésére rendelt ingatlanok tekintetében az adatszolgáltatási kötelezettség kizárólag az ingatlan helyrajzi számára terjed ki.
 
 (5) Az adatszolgáltatásra kötelezett az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettségét elektronikus úton, a tulajdonosi joggyakorló által e célra kialakított, interneten elérhető alkalmazáson keresztül történő adatfeltöltéssel teljesíti, az ott megjelölt bontásban.
 
@@ -23,3 +23,5 @@
 (11) A harmadik személy a tulajdonosi joggyakorló hasznosítási szerződésbe lépéséről szóló értesítést követően hatvan napon belül gyakorolhatja a felmondás jogát.
 
 [^96]: Az „A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége” alcímet (11/A. §) a 138/2020. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
+[^97]: A 11/A. § (3) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^98]: A 11/A. § (4) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

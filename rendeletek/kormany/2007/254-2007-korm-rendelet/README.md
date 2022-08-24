@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2021-09-01 | 2007-254-20-22.41 | 380/2021. (VI. 30.) Korm. rendelet |
 | 2022-01-01 | 2007-254-20-22.42 | 827/2021. (XII. 28.) Korm. rendelet |
 | 2022-02-02 | 2007-254-20-22.43 | 30/2022. (II. 1.) Korm. rendelet |
+| 2022-08-24 | 2007-254-20-22.44 | 315/2022. (VIII. 16.) Korm. rendelet |
