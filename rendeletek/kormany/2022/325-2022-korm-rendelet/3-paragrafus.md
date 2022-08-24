@@ -1,0 +1,3 @@
+## 2. § Ha a közterület használatára az Alaptörvény J) cikk (2) bekezdésében meghatározott hivatalos állami ünnep méltó megtartásával összefüggésben kerül sor, az állami ünnep – az előkészítést és a lebonyolítást is magában foglaló – megtartásával kapcsolatos közfeladat ellátására kijelölt szervezet az állam, illetve a fővárosi vagy a fővárosi kerületi önkormányzat tulajdonában álló, az Étv. 54. § (5c) bekezdésében meghatározott közterületeket – a 2022. augusztus 26. és a 2022. szeptember 1. napja közötti időszakra is – díjmentesen használhatja.
+
+3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
