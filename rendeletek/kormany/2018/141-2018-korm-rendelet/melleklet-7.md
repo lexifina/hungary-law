@@ -740,6 +740,6 @@
 
 | 6. | 669 368,90 | 232 810,04 |
 
-7. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^309]
+7. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^311]
 
-[^309]: A 7. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^311]: A 7. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.
