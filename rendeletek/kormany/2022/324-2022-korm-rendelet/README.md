@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-324-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-08-24 | 2022-324-20-22.1 | 324/2022. (VIII. 23.) Korm. rendelet |
+| 2022-08-25 | 2022-324-20-22.2 | 2010: CXXX. törvény |
