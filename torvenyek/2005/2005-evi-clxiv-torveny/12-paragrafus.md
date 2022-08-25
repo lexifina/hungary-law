@@ -52,7 +52,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a turizmusért felelős miniszter, hogy
 
-a) az adópolitikáért felelős miniszterrel egyetértésben a szálláshely-minősítő szervezet által végzett azon igazgatási jellegű szolgáltatások és közigazgatási hatósági eljárások körét, amelyek lefolytatásáért igazgatási szolgáltatási díjat kell fizetni, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat;
+a) az adópolitikáért felelős miniszterrel egyetértésben a szálláshely-minősítő szervezet által végzett igazgatási jellegű szolgáltatásokat és közigazgatási hatósági eljárásokat, az igazgatási szolgáltatási díj fizetésére kötelezett szálláshely-típusok körét, a fizetendő díj mértékét, a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, valamint a fizetésre vonatkozó egyéb szabályokat,
 
 b) az idegenvezetői tevékenység folytatásának részletes feltételeit, valamint az idegenvezetői tevékenység bejelentésének és az idegenvezetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
