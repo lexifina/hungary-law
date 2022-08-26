@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-76-00-00
 | 2021-05-28 | 2021. évi LIII. törvény | 2014-76-00-00.17 |
 | 2021-12-22 | 2021. évi CXLVII. törvény | 2014-76-00-00.18 |
 | 2022-01-01 | 2021. évi LXXXIX. törvény | 2014-76-00-00.19 |
+| 2022-08-26 | 2022. évi XXIV. törvény | 2014-76-00-00.20 |

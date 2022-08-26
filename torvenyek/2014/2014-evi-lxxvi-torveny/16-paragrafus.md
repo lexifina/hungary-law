@@ -1,8 +1,8 @@
-16. § (1) A járulék alapja a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 39. § (1) bekezdése alapján meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével.
+16. § (1) A járulék alapja a Htv. 39. § (1) bekezdése alapján meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével.
 
 (2) A járulék mértéke az (1) bekezdés szerinti járulékalap 0,3%-a.
 
-(3) A járulékfizetésre kötelezett gazdasági társaság a járulék éves összegét maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapjának utolsó napjáig.
+(3) A járulékfizetésre kötelezett a járulék éves összegét maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapjának utolsó napjáig.
 
 (4) Az adóévben járulékfizetésre kötelezettnek háromhavonként (a továbbiakban: előlegfizetési időszak) előleget kell fizetnie az előlegfizetési időszakot követő hónap 20. napjáig. Az előlegfizetési időszakra fizetendő járulékelőleg mértéke a (6) bekezdés alapján meghatározott járulékelőleg egynegyede.
 
@@ -26,6 +26,6 @@ b) az a) ponttól eltérő esetben az adóévet megelőző adóév fizetendő j�
 
 (12) A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
-(13) A járulékfizetésre kötelezett gazdasági társaság a járulékot az üzleti évre állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
+(13) A járulékfizetésre kötelezett a járulékot az üzleti évre (adóévre) állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
 
 (14) Amennyiben az adóalany az éves beszámolóját a számviteli törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze, járulékkötelezettsége megállapításakor köteles a Htv. 40/J–40/L. §-ában foglaltakat megfelelően alkalmazni.

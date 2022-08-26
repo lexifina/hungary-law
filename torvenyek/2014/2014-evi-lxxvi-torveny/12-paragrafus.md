@@ -2,7 +2,7 @@
 
 12. § (1) Az NKFI Alap bevételi forrásai:
 
-a) a gazdasági társaságok által befizetett innovációs járulék,
+a) az innovációs járulékfizetésre kötelezettek által befizetett innovációs járulék,
 
 b) a központi költségvetésből biztosított központi támogatás,
 
