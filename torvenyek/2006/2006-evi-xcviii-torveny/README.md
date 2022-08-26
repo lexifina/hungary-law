@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2022-01-31 | 2021. évi CI. törvény | 2006-98-00-00.59 |
 | 2022-05-01 | 2021. évi CXXIX. törvény | 2006-98-00-00.60 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2006-98-00-00.61 |
+| 2022-08-26 | 2022. évi XXIV. törvény | 2006-98-00-00.62 |
