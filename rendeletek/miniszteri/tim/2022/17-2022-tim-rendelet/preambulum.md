@@ -1,0 +1,1 @@
+A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 49. § (2) bekezdés i) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 11. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
