@@ -252,6 +252,10 @@ b) a korai fázisú vállalkozás nem minősül a 7. § (1) bekezdés m) pontja 
 
 31/c. személygépkocsi: négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas, azzal, hogy idetartozik a benzinüzemű, a dízelüzemű, az elektromos üzemű, a gázüzemű személygépkocsi, a versenyautó, az önjáró lakóautó; személygépkocsinak minősül továbbá az a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjármű (nagy rakodóterű személygépkocsi), amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén a teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor;
 
+31d. szokásos piaci ár: az az ellenérték, amelyet független felek összehasonlítható körülmények esetén egymás között érvényesítenek vagy érvényesítenének;
+
+31e. szokásos piaci tartomány: a 18. § (2) bekezdés szerinti módszerek alkalmazásából származó, független felek közötti összehasonlítható ügyletek vagy összehasonlítható független vállalkozások pénzügyi adataiból álló értékek halmaza;
+
 32. saját tevékenységi körében végzett K+F tevékenység: az adózó saját eszközeivel és alkalmazottaival a saját eredményére és kockázatára végzett K+F tevékenység, illetve az a K+F tevékenység, amelyet az adózó a saját eszközeivel és alkalmazottaival más személy megrendelésére teljesít, továbbá a kutatásfejlesztési megállapodás alapján végzett (közös) kutatás-fejlesztési tevékenység;
 
 32/a. társaság: a gazdasági társaság (ideértve a szabályozott ingatlanbefektetési elővállalkozást, a szabályozott ingatlanbefektetési társaságot és a szabályozott ingatlanbefektetési projekttársaságot is), az egyesülés, a szövetkezet, továbbá a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely

@@ -40,7 +40,7 @@ azzal, hogy a b)–c) pont nem alkalmazandó azon EGT-tagállamokba történő �
 
 (7) A (4) bekezdés szerinti részletfizetést választó adózó a (6) bekezdés szerinti esetek fennállását, azok bekövetkezésétől számított 15 napon belül bejelenti az állami adó- és vámhatóságnak.
 
-(8) Az (1) bekezdés alkalmazásában a piaci értéket a 18. § (2), (4) és (9) bekezdése megfelelő alkalmazásával kell meghatározni.
+(8) Az (1) bekezdés alkalmazásában a piaci értéket a 18. § (2), (4), (9), (11) és (12) bekezdése megfelelő alkalmazásával kell meghatározni.
 
 (9) Az (1)–(8) bekezdés nem alkalmazandó az értékpapír-finanszírozáshoz vagy biztosítékként nyújtott eszközökhöz kapcsolódó ügyletekre, továbbá ha az eszközök áthelyezésére prudenciális tőkekövetelmények teljesítése érdekében vagy likviditáskezelés céljából volt szükség és az eszközöknek 12 hónapon belül vissza kell kerülniük Magyarországra.
 

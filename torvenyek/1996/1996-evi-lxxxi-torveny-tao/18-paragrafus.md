@@ -1,6 +1,6 @@
 ## Kapcsolt vállalkozások között alkalmazott árak módosítása
 
-18. § (1) Amennyiben a kapcsolt vállalkozások egymás közötti szerződésükben, megállapodásukban (általános forgalmi adó nélkül számítva) magasabb vagy alacsonyabb ellenértéket alkalmaznak annál, mint amilyen ellenértéket független felek összehasonlítható körülmények esetén egymás között érvényesítenek vagy érvényesítenének (a továbbiakban: szokásos piaci ár), a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözetnek megfelelő összeggel az adózó – az e törvényben előírt más, az adózás előtti eredményt növelő vagy csökkentő jogcímektől függetlenül – adózás előtti eredményét
+18. § (1) Amennyiben a kapcsolt vállalkozások egymás közötti szerződésükben, megállapodásukban (általános forgalmi adó nélkül számítva) magasabb vagy alacsonyabb ellenértéket alkalmaznak a szokásos piaci árnál, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözetnek megfelelő összeggel az adózó – az e törvényben előírt más, az adózás előtti eredményt növelő vagy csökkentő jogcímektől függetlenül – adózás előtti eredményét
 
 a) csökkenti, feltéve, hogy
 
@@ -36,7 +36,7 @@ b) az adózónak az állam vagy helyi önkormányzat részére történő, jogsz
 
 (4) A szokásos haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek.
 
-(5) Az adóév utolsó napján kisvállalkozásnak nem minősülő gazdasági társaság, egyesülés, európai részvénytársaság, szövetkezet, európai szövetkezet és külföldi vállalkozó (kivéve a közhasznú nonprofit gazdasági társaságot, és azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással), a bevallás benyújtásáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet előírásai szerint rögzíteni a szokásos piaci árat, az annak meghatározásánál általa alkalmazott módszert, valamint az azt alátámasztó tényeket és körülményeket.
+(5) Az adóév utolsó napján kisvállalkozásnak nem minősülő gazdasági társaság, egyesülés, európai részvénytársaság, szövetkezet, európai szövetkezet és külföldi vállalkozó (kivéve a közhasznú non-profit gazdasági társaságot, és azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással), a bevallás benyújtásáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet előírásai szerint rögzíteni a szokásos piaci árat, az annak meghatározásánál általa alkalmazott módszert, valamint az azt alátámasztó tényeket és körülményeket, továbbá az éves társasági adóbevallásában az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottak szerint a szokásos piaci ár meghatározásával összefüggésben adatot szolgáltat az állami adó- és vámhatóságnak.
 
 (6) Az alapítónak (ide nem értve az átalakulással, egyesüléssel, szétválással történő alapítást), a tőkét befogadó, a vagyont kiadó adózónak, továbbá a tagnak (részvényesnek) az (1)–(5) bekezdés előírásait a jegyzett tőke, tőketartalék nem pénzbeli hozzájárulással történő teljesítése, emelése, a jegyzett tőke tőkekivonással történő leszállítása, az adózó által ellenérték fejében megszerzett üzletrész tagok részére történő térítés nélküli átadása, vagy bevonása esetén, továbbá a jogutód nélküli megszűnéskor a nem pénzben történő vagyonkiadásra, valamint az osztalék nem pénzbeli vagyoni értékű juttatásként történő teljesítésére is alkalmaznia kell, ha kapcsolt vállalkozás vagy a nem pénzbeli hozzájárulással kapcsolt vállalkozássá váló tag (részvényes) teljesíti a nem pénzbeli hozzájárulást, illetve részesedik a vagyonból.
 
@@ -46,9 +46,9 @@ b) az adózónak az állam vagy helyi önkormányzat részére történő, jogsz
 
 (8a) A (7) bekezdéstől eltérően az (5) bekezdést nem kell alkalmazni a külföldi vállalkozó és belföldi telephelye közötti ügyletre, ha a belföldi telephelye ezen ügylete nemzetközi szerződés rendelkezése alapján nem keletkeztet magyar társasági adófizetési kötelezettséget.
 
-(9) Amennyiben a (2) bekezdésben meghatározott módszerek alkalmazása során indokolt (különös tekintettel a funkcióelemzésre, a minta elemszámára vagy a szélsőértékekre), az adózó azon középső tartomány alkalmazásával, amelybe a minta elemeinek fele esik (interkvartilis tartomány) további szűkítést végez, figyelembe véve az e törvény felhatalmazása alapján kiadott, a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló miniszteri rendelet előírásait.
+(9) Ha az adózó a (2) bekezdésben meghatározott módszerek alkalmazásakor az összehasonlítható termékre, szolgáltatásra vagy vállalkozásra vonatkozó nyilvános vagy az adóhatóság által ellenőrizhető adatbázisban tárolt vagy egyéb forrásból elérhető, nyilvánosan hozzáférhető vagy az adóhatóság által ellenőrizhető adatokat vesz figyelembe, akkor azon középső tartomány alkalmazásával, amelybe a minta elemeinek fele esik (interkvartilis tartomány) további szűkítést végez.
 
-(10) A csoportos társasági adóalany tagjai az (1) és (2), a (4)–(7), valamint a (9) bekezdésben foglaltakat az egymás közötti jogügyleteik közül csak azokra alkalmazzák, amelyeknél
+(10) A csoportos társasági adóalany tagjai az (1) és (2), a (4)–(7), a (9), a (11) és a (12) bekezdésben foglaltakat az egymás közötti jogügyleteik közül csak azokra alkalmazzák, amelyeknél
 
 a) az egyik fél által a csoporttaggá válását megelőzően az (1) bekezdés a) pontja alapján az adózás előtti eredménye csökkentéseként elszámolt összeget a másik fél a csoporttaggá válását megelőzően az (1) bekezdés b) pontja alapján az adózás előtti eredmény növeléseként,
 
@@ -58,4 +58,8 @@ elszámolt összeg még nem ellentételezte.
 
 (10a) A csoportos társasági adóalany tagjai az (5) bekezdés szerinti kötelezettségüket a csoportképviselő útján teljesítik.
 
-(10b) Ha az adózó csoportos adóalanyban fennálló tagsága nem adókötelezettsége megszűnése miatt szűnt meg, az adózó és a csoportos társasági adóalany többi tagja az (5) bekezdés szerinti kötelezettségét első alkalommal a csoporttagság megszűnését követő első adóbevallása (a többi tag esetében ideértve a csoportos társasági adóalany adóbevallását) benyújtásáig teljesíti minden olyan jogügyletre, amely tekintetében a tagság fennállása alatt a (10) bekezdés alapján mentesült e kötelezettség alól, de amely az (1), (3), valamint a (6) és (7) bekezdés szerint ezt követően befolyásolja adóalapját.
+(10b) Ha az adózó csoportos adóalanyban fennálló tagsága nem adókötelezettsége megszűnése miatt szűnt meg, az adózó és a csoportos társasági adóalany többi tagja az (5) bekezdés szerinti kötelezettségét első alkalommal a csoporttagság megszűnését követő első adóbevallása (a többi tag esetében ideértve a csoportos társasági adóalany adóbevallását) benyújtásáig teljesíti minden olyan jogügyletre, amely tekintetében a tagság fennállása alatt a (10) bekezdés alapján mentesült e kötelezettség alól, de amely az (1), (3), (6), (7), (9), (11) és (12) bekezdés szerint ezt követően befolyásolja adóalapját.
+
+(11) Amennyiben az adózó által alkalmazott ellenérték a szokásos piaci tartományon belül helyezkedik el, akkor a szokásos piaci tartományon belül az (1) bekezdés a) és b) pontja alkalmazásának nincs helye.
+
+(12) Amennyiben az adózó által alkalmazott ellenérték a szokásos piaci tartományon kívül esik, az (1) bekezdés a) és b) pontja alkalmazása során szokásos piaci árként a szokásos piaci tartomány azon középső értékét, amelynél az adatok legfeljebb fele kisebb és legfeljebb fele nagyobb (medián) kell figyelembe venni, kivéve, ha az adózó igazolja, hogy a szokásos piaci tartományon belül egy a mediántól eltérő érték felel meg a legjobban a vizsgált ügyletnek, amely esetben szokásos piaci árként a medián helyett ezt az értéket kell figyelembe venni.

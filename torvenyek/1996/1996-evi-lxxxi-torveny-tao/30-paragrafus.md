@@ -24,7 +24,7 @@ d) ahol jogszabály a társasági adóról szóló 1991. évi LXXXVI. törvényt
 
 (7) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a fejlesztési adókedvezmény engedélyezése iránti eljárás kezdeményezéséért fizetendő igazgatási-szolgáltatási díjat.
 
-(8) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettség teljesítésének részletes szabályait.
+(8) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza a szokásos piaci ár meghatározásával összefüggő nyilvántartási- és adatszolgáltatási kötelezettség teljesítésének részletes szabályait.
 
 (9) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a társasági adókedvezményhez kapcsolódóan bejelentett adatok módosításának feltételeit.
 
