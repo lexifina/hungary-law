@@ -1,0 +1,1 @@
+32/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 20. § (5) bekezdését első alkalommal a 2022. adóévi adókötelezettség megállapítása során kell alkalmazni.
