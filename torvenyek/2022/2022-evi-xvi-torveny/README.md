@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-16-00-00
 | --- | --- | --- |
 | 2022-07-23 | 2022. évi XVI. törvény | 2022-16-00-00.0 (közlönyállapot) |
 | 2022-07-23 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-16-00-00.1 |
+| 2022-08-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-16-00-00.2 |
