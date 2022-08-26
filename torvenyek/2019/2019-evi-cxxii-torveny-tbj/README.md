@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-122-00-00
 | 2022-01-01 | 2021. évi CXXXIV. törvény | 2019-122-00-00.12 |
 | 2022-05-25 | 2022. évi IV. törvény | 2019-122-00-00.13 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2019-122-00-00.14 |
+| 2022-08-26 | 2022. évi XXIV. törvény | 2019-122-00-00.15 |

@@ -34,7 +34,7 @@ b) a nemzeti köznevelésről szóló törvény hatálya alá tartozó köznevel
 
 a) az (1) bekezdés a) pontjában meghatározott jövedelmet és
 
-b) az (1) bekezdés b) pontjában említett járulékalapot képező jövedelem összegének azon időszakra (naptári napokra) vonatkozó arányos részét, amelyben a jövedelem külföldön adóztatható
+b) az (1) bekezdés b) pontjában említett járulékalapot képező jövedelem összegének azon időszakra vonatkozó arányos részét, amelyben a jövedelem külföldön adóztatható
 
 együttesen kell figyelembe venni.
 
