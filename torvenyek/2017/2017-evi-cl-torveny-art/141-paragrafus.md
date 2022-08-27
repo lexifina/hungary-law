@@ -24,11 +24,13 @@ d) a belföldi gépjárművek adóját.
 
 (6) Ha az adózó adatbejelentése, bejelentése, bevallása hiányos, valótlan vagy téves adatokat tartalmaz,
 
-a) az adóhatóság legfeljebb tizenöt napos határidő tűzésével az adózót hiánypótlásra hívja fel és a hiánypótlásra figyelemmel állapítja meg az adót vagy
+a) az adóhatóság legfeljebb tizenöt napos határidő tűzésével az adózót hiánypótlásra hívja fel és a hiánypótlásra figyelemmel állapítja meg az adót,
 
-b) helyi adó esetében a (7) bekezdésben foglaltak szerint jár el.
+b) a hiánypótlásra előírt határidő eredménytelen eltelte esetén, az adóhatóság az adózó egyidejű értesítésével a hatósági adómegállapítási eljárást megszüntetheti, és a helyi adót adóellenőrzés keretében állapíthatja meg, vagy
 
-(7) Az önkormányzati adóhatóság az adót – a (4) bekezdésben foglaltaktól eltérően – a közhiteles nyilvántartások, továbbá az építésügyi hatóságnak az e törvény szerinti adatszolgáltatásából tudomására jutó adatok alapulvételével is megállapíthatja, ha a rendelkezésére álló adatok ismeretében a tényállás tisztázott.
+c) helyi adó esetében a (7) bekezdésben foglaltak szerint járhat el.
+
+(7) Az önkormányzati adóhatóság az adót a közhiteles nyilvántartások, továbbá az építésügyi hatóságnak az e törvény szerinti adatszolgáltatásából tudomására jutó adatok alapulvételével is megállapíthatja, ha a rendelkezésére álló adatok ismeretében a tényállás tisztázott.
 
 (8) Helyi kivetéses adó, valamint a belföldi gépjárművek adóját esetében az adózó adatbejelentését – az adómegállapításhoz való jog elévülési idején belül – módosíthatja, kivéve, ha az adóhatóság az adót ellenőrzés során feltárt tényállás alapján állapította meg.
 

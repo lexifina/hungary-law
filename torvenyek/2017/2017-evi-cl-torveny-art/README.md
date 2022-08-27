@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-150-00-00
 | 2022-02-11 | 2/2022. (II. 10.) AB határozat | 2017-150-00-00.26 |
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 2017-150-00-00.27 |
 | 2022-06-01 | 2021. évi CXXX. törvény | 2017-150-00-00.28 |
+| 2022-08-27 | 2022. évi XXIV. törvény | 2017-150-00-00.29 |

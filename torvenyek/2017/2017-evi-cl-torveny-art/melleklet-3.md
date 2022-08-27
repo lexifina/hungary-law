@@ -140,7 +140,7 @@
 
 ## kell az adóbevallást benyújtani.
 
-## 2. Az adózónak az ideiglenes jellegű iparűzési tevékenysége utáni adóról a tevékenysége befejezése napját követő hónap tizenötödik napjáig kell az adóbevallást teljesíteni.
+## 2.
 
 ## 3. Az adóbeszedésre kötelezettnek az idegenforgalmi adóról a tárgyhónapot követő hónap tizenötödik napjáig kell adóbevallást benyújtani.
 
@@ -221,17 +221,3 @@
 ## 3. A társasági adó
 
 ## 3.1. A társasági adó előlege
-
-## 3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg.
-
-## 3.1.2.
-
-## 3.2. A társasági adó
-
-## 3.2.1. Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóévet követő év ötödik hónap utolsó napjáig fizeti meg, illetve ettől az időponttól igényelheti vissza.
-
-## 3.2.2. Az év közben átalakuló, illetve szétválás, egyesülés, beolvadás miatt vagy egyéb okból felszámolás nélkül megszűnő jogi személynek vagy egyéb szervezetnek az adóévben megfizetett adóelőleg és az átalakulás, illetve megszűnés időpontjáig számított tényleges társasági adó különbözetét az átalakulásról, illetve a megszűnésről benyújtott adóbevallásával egyidejűleg kell megfizetnie, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 3.2.3. A Számv. tv.-ben meghatározottak szerint a mérlegben megadott adatoknál forintról devizára, devizáról más devizanemre, illetve devizáról forintra áttérő vállalkozó az adóévben megfizetett adóelőleg és az áttérés napjáig számított tényleges társasági adó különbözetét az áttérésről benyújtott adóbevallással egyidejűleg fizeti meg, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 4. Járulékok

@@ -12,7 +12,7 @@
 
 (4) A (3) bekezdés szerinti megállapodás hiányában a kétoldalú, illetve a többoldalú eljárást az adópolitikáért felelős miniszter az adózó kérelmére egyoldalúan csak akkor folytatja le, ha az adópolitikáért felelős miniszter rendelkezésére álló információk a szokásos piaci ár megállapításához elegendőek.
 
-(5) A szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló jogszabály szerinti nyilvántartás készítésére nem kötelezett adózók – kivéve azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással – a szokásos piaci ár megállapítására irányuló kérelmet nem terjeszthetnek elő.
+(5)
 
 (6) A szokásos piaci ár megállapítására irányuló kérelem elektronikus úton, az erre a célra rendszeresített elektronikus űrlapon nyújtható be.
 
