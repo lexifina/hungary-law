@@ -1,1 +1,1 @@
-119. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 20. § (5) bekezdésében a „módszer szerint” szövegrész helyébe a „módszer szerint, a Tao. tv. 18. § (9), (11) és (12) bekezdésében foglalt rendelkezések figyelembevételével” szöveg lép.
+119. §
