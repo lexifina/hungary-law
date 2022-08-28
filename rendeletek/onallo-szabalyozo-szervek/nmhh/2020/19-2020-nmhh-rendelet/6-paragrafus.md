@@ -6,7 +6,7 @@
 
 (2)[^8] Ha az Eht. 83/C. § szerinti eljárásban szolgáltatott adatok a vizsgálat időpontjában nem állnak rendelkezésre, és a rendelkezésre álló adatok alapján az (1a) bekezdés szerinti kijelölés nem végezhető el, az Elnök a helyhez kötött internet-hozzáférési szolgáltatás előfizetőinek száma alapján az adott számozási körzetben legalább 25%-os piaci részesedéssel rendelkező szolgáltatót vagy szolgáltatókat jelöli ki egyetemes szolgáltatóként. Ha az adott számozási körzet vonatkozásában egy szolgáltató piaci részesedése sem éri el a 25%-ot, akkor az Elnök a legnagyobb piaci részesedéssel rendelkező szolgáltatót jelöli ki egyetemes szolgáltatóként.
 
-(3)[^9] Az (1a) és (2) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 15. § szerint egy vállalkozáscsoportba tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden szolgáltatót egyetemes szolgáltatóként jelöl ki.
+(3)[^9] Az (1) és (1a) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 15. §-a szerint egy vállalkozáscsoportba tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden – az adott számozási körzetben legalább 5%-os hozzáférési hálózati lefedettséggel rendelkező – szolgáltatót egyetemes szolgáltatóként jelöl ki. A (2) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a Tpvt. 15. §-a szerint egy vállalkozáscsoportba tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden – az adott számozási körzetben a helyhez kötött internet-hozzáférési szolgáltatás előfizetőinek száma alapján legalább 1%-os piaci részesedéssel rendelkező – szolgáltatót egyetemes szolgáltatóként jelöl ki.
 
 (4) Az Elnök a kijelölési határozatok véglegessé válását követő 5 napon belül a kijelölt szolgáltatók listáját, és az egyetemes szolgáltatási kötelezettség részletes tartalmát számozási körzet szerinti bontásban közzéteszi a Hatóság honlapján.
 
@@ -15,4 +15,4 @@
 [^6]: A 6. § (1) bekezdése a 4/2022. (VI. 20.) NMHH rendelet 3. §-ával megállapított szöveg.
 [^7]: A 6. § (1a) bekezdését a 4/2022. (VI. 20.) NMHH rendelet 3. §-a iktatta be.
 [^8]: A 6. § (2) bekezdése a 4/2022. (VI. 20.) NMHH rendelet 8. § a) pont aa) alpontja szerint módosított szöveg.
-[^9]: A 6. § (3) bekezdése a 4/2022. (VI. 20.) NMHH rendelet 8. § a) pont ab) alpontja szerint módosított szöveg.
+[^9]: A 6. § (3) bekezdése a 6/2022. (VIII. 25.) NMHH rendelet 1. §-ával megállapított szöveg.
