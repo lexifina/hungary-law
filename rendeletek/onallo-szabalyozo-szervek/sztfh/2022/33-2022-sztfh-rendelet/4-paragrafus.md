@@ -1,1 +1,3 @@
-## 3. §
+## 3. § A bányafelügyelet részére fizetendő igazgatási szolgáltatási díjakról és egyéb eljárási költségekről, valamint a felügyeleti díj fizetésének részletes szabályairól szóló 9/2022. (I. 28.) SZTFH rendelet (a továbbiakban: R2.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az igazgatási szolgáltatási díj fizetését az eljárás megindításával egyidejűleg igazolni kell. Ha az ügyfél az igazgatási szolgáltatási díjat a kérelem előterjesztésével egyidejűleg nem, vagy nem teljes mértékben fizeti meg, az SZTFH hiánypótlási felhívásának közlésétől számított nyolc napon belül köteles a befizetést teljesíteni, és a fizetési megbízás közlemény rovatában a hiánypótlási felhívás iktatószámát is feltüntetni.”
