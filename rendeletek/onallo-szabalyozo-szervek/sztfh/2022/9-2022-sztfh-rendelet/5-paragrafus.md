@@ -28,4 +28,6 @@ b) a földgáztárolói, -szállítói és -elosztói, propán-butángáz forgal
 
 (4) A (3) bekezdés b) pontja szerinti engedélyes a felügyeleti díj megfizetésével egyidejűleg a 3. melléklet szerinti tartalmú elszámolási adatlapot is megküldi az SZTFH részére.
 
-(5) Az SZTFH a befizetett felügyeleti díjról számviteli bizonylatot bocsát ki.
+(5)[^3]
+
+[^3]: Az 5. § (5) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 6. § b) pontja hatályon kívül helyezte.

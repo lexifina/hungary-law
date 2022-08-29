@@ -6,8 +6,11 @@
 
 (2) Az igazgatási szolgáltatási díj megfizetését az eljárást kezdeményező ügyfél az (1) bekezdés szerinti fizetési számla javára átutalással teljesíti.
 
-(3) Az igazgatási szolgáltatási díj fizetését az eljárás megindításával egyidejűleg igazolni kell.
+(3)[^1] Az igazgatási szolgáltatási díj fizetését az eljárás megindításával egyidejűleg igazolni kell. Ha az ügyfél az igazgatási szolgáltatási díjat a kérelem előterjesztésével egyidejűleg nem, vagy nem teljes mértékben fizeti meg, az SZTFH hiánypótlási felhívásának közlésétől számított nyolc napon belül köteles a befizetést teljesíteni, és a fizetési megbízás közlemény rovatában a hiánypótlási felhívás iktatószámát is feltüntetni.
 
-(4) Az SZTFH az igazgatási szolgáltatási díjról számviteli bizonylatot állít ki. A számviteli bizonylaton fel kell tüntetni a kérelem iktatószámát és az 1. vagy 2. mellékletben megjelölt kódszámot.
+(4)[^2]
 
 (5) A kérelem visszavonása esetén a befizetett igazgatási szolgáltatási díj nem igényelhető vissza.
+
+[^1]: A 2. § (3) bekezdése a 33/2022. (VII. 29.) SZTFH rendelet 3. §-ával megállapított szöveg.
+[^2]: A 2. § (4) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 6. § a) pontja hatályon kívül helyezte.

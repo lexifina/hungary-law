@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet 2022. március 1-jén lép hatályba.
 
-1. melléklet a 9/2022. (I. 28.) SZTFH rendelethez
+1. melléklet a 9/2022. (I. 28.) SZTFH rendelethez[^4]
 
 1. A bányászati jog gyakorlásával és egyéb, az ügyfél kérelmére indított eljárásokkal kapcsolatos díjak
 
@@ -74,7 +74,7 @@
 
 | 34. | Bányatelekre vonatkozó építési és telekalakítási tilalom elrendelésének kezdeményezése kérelemre | 14 000 | A0450 |
 
-| 35. | Különböző bányavállalkozók által művelt, egymást fedő vagy egymással érintkező bányák esetében a területek egyesítéséről és a kitermelési feltételekről készült megegyezés jóváhagyása | 30 000 | A0460 |
+| 35. | A bányászatról szóló 1993. évi XLVIII. törvény 22. § (10) bekezdése és 29/A. § (1) bekezdése szerinti megállapodások jóváhagyása; hozzájárulás a megállapodástól történő elálláshoz, felbontásához, megszüntetéséhez, felmondásához vagy módosításához | 30 000 | A0460 |
 
 | 36. | Geológiai képződmények és szerkezetek földtani kutatásával kapcsolatos eljárások | Földtani kutatási engedély iránti kérelem | 62 000 | A0510 |
 
@@ -160,85 +160,63 @@
 
 2.1. A bányafelügyelet hatáskörébe tartozó építésügyi hatósági engedélyezési eljárások díjai
 
-|  | A | B | C | D | E |
+|  | A | B | C | D | E | F | G |
 
-| 1. | Egyes igazgatási eljárások | Építési engedély díj (Ft) | Kódszám |
+| 1. | Egyes igazgatási eljárások | Építési engedély díj (Ft) | Kódszám | Használatba- vételi engedély díj (Ft) | Kódszám |
 
-| 2. | A szilárdásvány-bányászat területén a terület-igénybevétellel járó bányászati építmények | Kutató- építmények | 400 méter mélységet meghaladó mélyfúrás | 133 000 | B0111 |
+| 2. | A szilárdásvány- bányászat területén a terület igénybevétellel járó bányászati építmények | Kutató- építmények | 400 méter mélységet meghaladó mélyfúrás | 133 000 | B0110 |  |  |
 
-| 3. | 5 méter mélységet meghaladó kutatóakna | 133 000 | B0112 |
+| 3. | Kutatótáró | 133 000 | B0120 |  |  |
 
-| 4. | 2 méter mélységet meghaladó kutatóárok | 133 000 | B0113 |
+| 4. | A külszíni bányászat építményei | Külszíni bányavasút | 109 000 | B0130 | 142 000 | B0130H |
 
-| 5. | Kutatótáró | 133 000 | B0114 |
+| 5. | Földalatti bányászat építményei | Külszínre nyíló bányatérségek (akna, lejtősakna, táró, vágat) | 67 000 | B0140 | 51 000 | B0140H |
 
-| 6. | A külszíni bányászat építményei | Kitermelt ásványi nyersanyag helyben végzett feldolgozására szolgáló, helyhez kötött építmény | 60 000 | B0121 |
+| 6. | A bányaüzem területét elhagyó bányaüzemi külszíni bányavasút | 109 000 | B0150 | 142 000 | B0150H |
 
-| 7. | Személyszállításra szolgáló építmények megkezdett km-enként | 6 000 | B0122 |
+| 7. | Kőolaj- és földgázbányászati építmények |  | Kőolaj- és földgázkutató, illetve egyéb termelés-technológiai jellegű mélyfúrás | 53 000 | B0210 | 69 000 | B0210H |
 
-| 8. | A bányaüzem területét el nem hagyó, bányaüzemi bányavasút, bányászati függőpálya, szalagpálya | 30 000 | B0123 |
+| 8. | Kőolaj- és földgázbányászati célú kút és kútkörzet | 109 000 | B0220 | 146 000 | B0220H |
 
-| 9. | A bányaüzem területét elhagyó bányavasút, bányászati függőpálya, távolsági szalagpálya megkezdett km-enként | 109 000 | B0124 |
+| 9. | Kőolaj- és földgázbányászati célú mezőbeni csővezeték az átkötő vezetékekkel, megkezdett km-enként | 15 000 | B0230 | 19 000 | B0230H |
 
-| 10. | Földalatti bányászat építményei | Külszínre nyíló bányatérségek (akna, lejtősakna, táró, vágat) | 67 000 | B0131 |
+| 10. | Kőolaj és földgázbányászati célú gáz-, olaj-, vízleválasztó és előkészítő-, gyűjtő-, besajtolóállomás, illetve kőolaj- és földgázkitermelő építmény | 42 000 | B0240 | 53 000 | B0240H |
 
-| 11. | Főszellőztetést, a főszellőztető légáram fűtését és hűtését szolgáló építmény | 38 000 | B0132 |
+| 11. | Kőolaj és földgázbányászati célú nyomásfokozó állomás | 67 000 | B0250 | 90 000 | B0250H |
 
-| 12. | Aknaszállító építmény | 41 000 | B0133 |
+| 12. | Kőolaj- és földgáz továbbfeldolgozásra vagy továbbfelhasználásra való alkalmassá tételére szolgáló technológiai létesítmény, a hozzá tartozó tartályparkkal | 126 000 | B0260 | 153 000 | B0260H |
 
-| 13. | Személyszállításra szolgáló egyéb építmény megkezdett km-enként | 6000 | B0134 |
+| 13. | Földalatti gáztároló földalatti és külszíni építményeivel | 83 000 | B0270 | 98 000 | B0270H |
 
-| 14. | A bányaüzem területét el nem hagyó, bányaüzemi bányavasút, bányászati függőpálya, szalagpálya, sikló megkezdett km-enként | 109 000 | B0135 |
+| 14. | Szénhidrogén szállítóvezeték megkezdett km-enként | 18 000 | B0280 | 23 000 | B0280H |
 
-| 15. | Tűz- vagy robbanásveszélyes, továbbá maró hatású anyag, illetve robbanóanyag tárolására szolgáló bányabeli raktár | 34 000 | B0136 |
+| 15. | Szénhidrogén szállítóvezeték tartozéka és alkotórésze önálló egységenként | 109 000 | B0290 | 142 000 | B0290H |
 
-| 16. | 2 MVA vagy ennél nagyobb összteljesítményű bányabeli villamos energiát elosztó, átalakító és kapcsoló állomás | 53 000 | B0137 |
+| 16. | Gázipari építmények | Földgázelosztó és -célvezeték, propán-butángáz elosztó vezeték, egyéb gáz és gáztermékvezeték, CO2-vezeték megkezdett km-enként | 15 000 | B0310 | 19 000 | B0310H |
 
-| 17. | A bányaüzem területét elhagyó bányavasút, bányászati függőpálya, távolsági szalagpálya megkezdett km-enként | 109 000 | B0138 |
+| 17. | Földgázelosztó és -célvezeték, egyéb gáz- és gáztermékvezeték, CO2-vezeték tartozéka és alkotórésze önálló egységenként | 103 000 | B0320 | 136 000 | B0320H |
 
-| 18. | A kitermelt ásványi nyersanyag helyben végzett feldolgozására szolgáló helyhez kötött építmény | 120 000 | B0139 |
+| 18. | Propán-butángáz töltő és tároló telep a technológiai egységeivel együtt | 90 000 | B0330 | 98 000 | B0330H |
 
-| 19. | Kőolaj- és földgázbányászati építmények | Kőolaj- és földgázkutató, illetve egyéb termelés-technológiai jellegű mélyfúrás | 53 000 | B0210 |
+| 19. | Egyéb építmények | A geotermikus energia felszín alatti víz kitermelését nem igénylő, 120 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével | 113 000 | B0410 | 113 000 | B0410H |
 
-| 20. | Kőolaj- és földgázbányászati célú kút és kútkörzet | 109 000 | B0220 |
+| 20. | Földtani kutatást, vagy a radioaktívhulladék-tároló telephely földtani alkalmasságának igazolását szolgáló, illetve a nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges 400 méter mélységet meghaladó mélyfúrás, kutatótáró | 140 000 | B0420 | 141 000 | B0420H |
 
-| 21. | Kőolaj- és földgázbányászati célú mezőbeli csővezeték, megkezdett km-enként | 15 000 | B0230 |
+| 21. | Polgári felhasználású robbanóanyag raktára 500 kg feletti tárolókapacitás esetén | 56 000 | B0431 | 42 000 | B0431H |
 
-| 22. | Kőolaj és földgázbányászati célú gáz-, olaj-, vízleválasztó és előkészítő-, gyűjtő-, besajtolóállomás, illetve kőolaj- és földgázkitermelő mobil építmény | 42 000 | B0240 |
+| 22. | Polgári felhasználású robbanóanyag raktára 500 kg és az alatti tárolókapacitás esetén | 39 000 | B0432 | 34 000 | B0432H |
 
-| 23. | Kőolaj és földgázbányászati célú nyomásfokozó állomás | 67 000 | B0250 |
+| 23. | Építményt magában foglaló bányászati hulladékkezelő létesítmény | 145 000 | B0440 | 160 000 | B0440H |
 
-| 24. | Kőolaj- és földgáz továbbfeldolgozásra vagy továbbfelhasználásra való alkalmassá tételére szolgáló technológiai létesítmény, a hozzá tartozó – nem nyomástartó – tartályparkkal | 126 000 | B0260 |
+| 24. | Szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték-hálózat és ennek tartozékai | 189 000 | B0450 | 189 000 | B0450H |
 
-| 25. | Földalatti gáztároló földalatti és külszíni technológiai építményeivel, tartozékaival együtt | 83 000 | B0270 |
+| 25. | A koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével | 142 000 | B0460 | 142 000 | B0460H |
 
-| 26. | Szénhidrogén szállítóvezeték megkezdett km-enként | 18 000 | B0280 |
+| 26. | A földalatti szénelgázosításhoz szükséges létesítmények | 118 000 | B0470 | 118 000 | B0470H |
 
-| 27. | Szénhidrogén szállítóvezeték tartozéka és alkotórésze önálló egységenként | 109 000 | B0290 |
+| 27. | Más törvény hatálya alá nem tartozó egyes nem bányászati célt szolgáló, bányászati módszerekkel kialakított földalatti építmények (aknamélyítés, mélyfúrás, alagút- és vágathajtás) a mélyépítés építményei kivételével | 135 000 | B0480 | 98 000 | B0480H |
 
-| 28. | Gázipari építmények | Földgázelosztó és -célvezeték, propán-butángáz elosztó vezeték, egyéb gáz és gáztermékvezeték, CO2-vezeték megkezdett km-enként | 15 000 | B0310 |
-
-| 29. | Földgázelosztó és -célvezeték, egyéb gáz és gáztermékvezeték, CO2-vezeték tartozéka és alkotórésze önálló egységenként | 103 000 | B0320 |
-
-| 30. | Propán-butángáz töltő és tároló telep a technológiai egységeivel együtt | 90 000 | B0330 |
-
-| 31. | Egyéb építmények | A geotermikus energia felszín alatti víz kitermelését nem igénylő, 20 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével | 113 000 | B0410 |
-
-| 32. | Földtani kutatást, vagy a radioaktívhulladék-tároló telephely földtani alkalmasságának igazolását szolgáló, illetve a nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges 400 méter mélységet meghaladó mélyfúrás, 5 méter mélységet meghaladó kutatóakna, 2 méter mélységet meghaladó kutatóvágat, továbbá kutatótáró | 140 000 | B0420 |
-
-| 33. | Polgári felhasználású robbanóanyag raktára 500 kg feletti tárolókapacitás esetén | 56 000 | B0431 |
-
-| 34. | Polgári felhasználású robbanóanyag raktára 500 kg és az alatti tárolókapacitás esetén | 39 000 | B0432 |
-
-| 35. | Építményt magában foglaló bányászati hulladékkezelő létesítmény | 145 000 | B0440 |
-
-| 36. | Szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték-hálózat és ennek tartozékai | 189 000 | B0450 |
-
-| 37. | A koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével | 142 000 | B0460 |
-
-| 38. | A földalatti szénelgázosításhoz szükséges létesítmények | 118 000 | B0470 |
-
-| 39. | Más törvény hatálya alá nem tartozó egyes nem bányászati célt szolgáló, bányászati módszerekkel kialakított földalatti építmények (aknamélyítés, mélyfúrás, alagút- és vágathajtás) a mélyépítés építményei kivételével | 135 000 | B0480 |
+| 28. | Bányaüzemi egyéb gáztechnológiák | 83 000 | B0490 | 98 000 | B0490H |
 
 2.2. A bányafelügyelet hatáskörébe tartozó egyéb építésügyi hatósági engedélyezési eljárások díjai
 
@@ -301,3 +279,5 @@
 | 9. | A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” Mellékletének, illetve a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat Mellékletének (a továbbiakban: Melléklet) 1. osztályába tartozó robbanóanyagok és tárgyak, a járulékos veszélyként robbanó tulajdonsággal rendelkező anyagok, valamint a Melléklet 4.1 osztályába tartozó önreaktív anyagok, a Melléklet 5.2 osztályába tartozó szerves peroxidok besorolásának jóváhagyása |  | 34 000 | D0300 |
 
 | 10. | A 2–10. sor szerinti engedélyek módosítása |  | az irányadó díjtétel 50%-a | az irányadó díjtétel kódszáma |
+
+[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a szerint módosított szöveg.
