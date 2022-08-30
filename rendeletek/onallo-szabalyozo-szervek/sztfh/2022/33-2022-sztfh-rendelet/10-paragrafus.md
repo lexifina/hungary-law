@@ -1,4 +1,4 @@
-## 9. §[^8]
+## 9. §[^12]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 8. § b)–d) pontja 2022. szeptember 1-jén lép hatályba.
 
-[^8]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
