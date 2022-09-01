@@ -8,7 +8,23 @@ c) okának
 
 megítéléséhez szükséges.
 
-(2) Halálozás esetén – az (5) bekezdésben foglalt kivétellel – a Kormány rendeletében meghatározott tartalmú halottvizsgálati bizonyítványt kell kiállítani.
+(2) Halálozás esetén – az (5) bekezdésben foglalt kivétellel – halottvizsgálati bizonyítványt kell kiállítani. A halottvizsgálati bizonyítvány – a Kormány rendeletében meghatározottak szerint – az (1) bekezdés szerinti célból tartalmazza
+
+a) az elhunyt
+
+aa) azonosításához szükséges természetes személyazonosító adatokat, a lakcím-, illetve okmányadatokat, valamint az elhunyt állampolgárságára, Társadalombiztosítási Azonosító Jelére vonatkozó adatokat,
+
+ab) elhalálozásásának körülményeire, boncolására, halálának okaira vonatkozó egészségügyi adatokat, valamint az elhunyt temetésével összefüggő adatokat, valamint
+
+b) az eltemettetésre kötelezett, illetve az eltemetést intéző személy azonosításához szükséges természetes személyazonosító és kapcsolattartási adatokat.
+
+(2a) A halottvizsgálati bizonyítvány kiállítására jogszabályban kijelölt, az Elektronikus Halottvizsgálati Bizonyítványt Kiállító Rendszer működtetője a (2) bekezdés szerinti, a halottvizsgálati bizonyítvány kiállításához szükséges,
+
+a) az elhunytra vonatkozó adatokat a halottvizsgálati bizonyítvány kiállítását követő 30 évig,
+
+b) az eltemettetésre kötelezettre, illetve az eltemettetőre vonatkozó adatokat a halottvizsgálati bizonyítvány kiállítását követő 5 évig
+
+kezeli.
 
 (3) Az (1) bekezdés a) pontjában foglaltak megállapítására a mentőtiszt vagy a külön jogszabály szerinti orvos jogosult. Az (1) bekezdés b) és c) pontjában foglaltak megállapítására kizárólag kormányrendeletben meghatározott orvos jogosult.
 

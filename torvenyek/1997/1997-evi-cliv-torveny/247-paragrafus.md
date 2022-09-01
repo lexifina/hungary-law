@@ -46,7 +46,7 @@ o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilv
 
 p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
 
-q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat, továbbá a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
+q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati bizonyítvány részletes adattartalmára, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat, továbbá a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
 
 qa) szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
 
@@ -373,19 +373,3 @@ rendeletben állapítsa meg.
 a) a közigazgatás-szervezésért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a védettségi igazolvány kiállításáért fizetendő igazgatási szolgáltatási díjat, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
 
 b) a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben – a 74/J. § (2) bekezdése szerinti országokat
-
-rendeletben állapítsa meg.
-
-(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
-
-b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
-
-c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
-
-d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
-
-e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
-
-f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
