@@ -1,0 +1,1 @@
+## „(5a) A 2. melléklet szerinti klinikai laboratóriumi genetika szakképesítést szerzett szakorvos a klinikai laboratóriumi genetika szakorvosa, a 10. melléklet szerint klinikai laboratóriumi genetika szakképesítést szerzett személy a klinikai laboratóriumi genetikus cím használatára jogosult.”
