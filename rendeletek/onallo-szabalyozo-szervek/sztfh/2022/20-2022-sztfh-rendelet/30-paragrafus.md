@@ -6,7 +6,7 @@ a) a műszaki üzemi terv teljesítési határidejét és a bányaüzem lehatár
 
 b) a kitermelésre engedélyezett haszonanyag mennyiségét, föld alatti gáztárolás esetében a ki- és betárolható földgáz mennyiségét,
 
-c) a Bt. 27. § (2a) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelendő haszonanyag mennyiségét,
+c)[^8] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelendő haszonanyag mennyiségét,
 
 d) meddőértékesítés engedélyezése esetén a bányajáradék fizetésével kapcsolatos rendelkezést,
 
@@ -34,7 +34,7 @@ d) a b) és c) pontban foglaltak teljesülése a bányavállalkozó által folya
 
 (6) A műszaki üzemi tervet a bányavállalkozó évente felülvizsgálja, és megváltozott viszonyok esetén a műszaki üzemi terv módosítását kérelmei.
 
-(7) A Bt. 27. § (2a) bekezdése szerinti bányatelek esetében a felülvizsgálatnak ki kell terjednie
+(7)[^9] A Bt. 27. § (7) bekezdése szerinti bányatelek esetében a felülvizsgálatnak ki kell terjednie
 
 a) jóváhagyott műszaki üzemi terv szöveges részében és a műszaki üzemi tervet jóváhagyó határozatban foglaltak tárgyévre vonatkozó teljesítésének bemutatására,
 
@@ -63,3 +63,6 @@ b) az ingatlan tulajdonosának vagy vagyonkezelőjének ügyvéd vagy kamarai jo
 c) a jogosultságot megállapító végleges hatósági határozattal vagy jogerős bírósági ítélettel
 
 igazolhatja.
+
+[^8]: A 30. § (2) bekezdés c) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § c) pontja szerint módosított szöveg.
+[^9]: A 30. § (7) bekezdése nyitó szövegrésze a 33/2022. (VII. 29.) SZTFH rendelet 8. § d) pontja szerint módosított szöveg.

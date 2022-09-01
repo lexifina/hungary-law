@@ -50,7 +50,7 @@ je) a szénhidrogének feltárására és kitermelésére kijelölt bányatelekk
 
 k) az esetleges régészeti feltárás ütemezését, módszerét, és a feltárást követően bolygatatlanul maradó régészeti lelőhelyrészlet megőrzésére tett intézkedéseket,
 
-l) a Bt. 27. § (2a) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
+l)[^7] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
 
 m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságot igazoló okiratot.
 
@@ -65,3 +65,5 @@ m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a
 (7) A Bt. 29. § (1) bekezdése szerinti együttes kitermelés esetében a műszaki üzemi tervhez mellékelni kell az együttes művelési tervet. A bányafelügyelet a műszaki üzemi tervet az együttes művelési terv alapján engedélyezi.
 
 (8) Ha a bánya bezárását (megszüntetését), a szénhidrogénmező felhagyását a 30. § (5) bekezdése szerinti időszakra tervezik, a műszaki üzemi tervnek tartalmaznia kell a 42. § szerinti tervrészletet is.
+
+[^7]: A 29. § (2) bekezdés l) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
