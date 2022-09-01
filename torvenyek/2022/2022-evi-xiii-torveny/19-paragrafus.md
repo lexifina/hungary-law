@@ -1,1 +1,1 @@
-### 19. §
+19. § A szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés a) pont ab) alpontjában az „a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény” szövegrész helyébe az „a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, a kisadózó vállalkozók tételes adójáról szóló törvény” szöveg lép.

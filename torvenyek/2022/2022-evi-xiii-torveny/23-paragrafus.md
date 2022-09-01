@@ -1,1 +1,3 @@
-### 23. §
+## „k) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerinti egyéni vállalkozó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.”
+
+23. § A mozgóképről szóló 2004. évi II. törvény 31/F. § (1) bekezdés b) pont ba) alpontjában az „az egyszerűsített vállalkozói adóról szóló törvény, a Tao. tv., a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény” szövegrész helyébe az „a Tao. tv., a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, a kisadózó vállalkozók tételes adójáról szóló törvény” szöveg lép.
