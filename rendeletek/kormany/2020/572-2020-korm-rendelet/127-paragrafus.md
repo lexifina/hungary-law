@@ -1,4 +1,4 @@
-## 126. §[^136]
+## 126. §[^135]
 
 ## 33. Záró rendelkezések
 
@@ -22,4 +22,4 @@
 
 (10) A 101. § 2023. január 1-jén lép hatályba.
 
-[^136]: A 126. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: A 126. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

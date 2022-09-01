@@ -1,5 +1,3 @@
 ## 113. §
 
-## 24.[^124]
-
-[^124]: A 24. alcím (114–115. §) a 127. § (9) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+## 24. Az elektronikus ügyintézéssel összefüggő adatok biztonságát szolgáló Kormányzati Adattrezorról szóló 466/2017. (XII. 28.) Korm. rendelet módosítása
