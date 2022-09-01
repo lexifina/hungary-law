@@ -1,1 +1,0 @@
-Az Országgyűlés az Európai Unió társasági jogával összhangban a belső piac megvalósításának és zavartalan működésének elősegítésére a tőkeegyesítő társaságok határokon átnyúló egyesülése hazai szabályozásának kialakítása érdekében a következő törvényt alkotja:
