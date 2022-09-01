@@ -2,11 +2,11 @@
 
 ## Háziorvosi, házi gyermekorvosi ellátás
 
-15. § (1)[^25] A háziorvosi, házi gyermekorvosi (a továbbiakban együtt: háziorvosi) feladatok rendelési időn kívüli ellátására ügyeleti szolgálatot kell szervezni, illetve azt központi ügyelet útján kell ellátni.
+15. § (1)[^29] A háziorvosi, házi gyermekorvosi (a továbbiakban együtt: háziorvosi) feladatok rendelési időn kívüli ellátására ügyeleti szolgálatot kell szervezni, illetve azt központi ügyelet útján kell ellátni.
 
 (2) Ügyeleti szolgálat a háziorvosoknak a sürgős – a következő rendelési időig nem halasztható – orvosi tevékenységek elvégzése céljából szervezett szolgálata.
 
-(3)[^26]
+(3)[^30]
 
 (4) Az összevont háziorvosi ügyelet
 
@@ -50,5 +50,5 @@ g) ellátja a halottakkal kapcsolatos rendelkezésekben előírt feladatokat.
 
 (10) Az ügyeletet teljesítő orvos gondoskodik arról, hogy a beteg kezelőorvosa megfelelő tájékoztatást kapjon az általa nyújtott ellátásról.
 
-[^25]: A 15. §-ának (1) bekezdéséből az „vagy készenlétet” szövegrész e rendelet 23. §-ának (4) bekezdése alapján 2006. december 31-én hatályát vesztette.
-[^26]: A 15. § (3) bekezdése e rendelet 23. §-ának (4) bekezdése alapján 2006. december 31-én hatályát vesztette.
+[^29]: A 15. §-ának (1) bekezdéséből az „vagy készenlétet” szövegrész e rendelet 23. §-ának (4) bekezdése alapján 2006. december 31-én hatályát vesztette.
+[^30]: A 15. § (3) bekezdése e rendelet 23. §-ának (4) bekezdése alapján 2006. december 31-én hatályát vesztette.

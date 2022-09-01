@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerinti egészségügyi szolgáltató a folyamatos ellátást megszakítás nélküli, műszak szerinti munkarendben szervezi meg.
 
-(3)[^52] A mentés és az ügyeleti feladatok ellátása egységes diszpécserszolgálat betegirányításával működik.
+(3)[^56] A mentés és az ügyeleti feladatok ellátása egységes diszpécserszolgálat betegirányításával működik.
 
-[^52]: A 20. § (3) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
+[^56]: A 20. § (3) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
