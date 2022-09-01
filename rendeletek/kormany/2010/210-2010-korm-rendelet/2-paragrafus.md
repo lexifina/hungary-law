@@ -6,7 +6,7 @@
 
 (2) Főigazgatóvá legalább 5 éves közigazgatási és az uniós támogatások ellenőrzésével kapcsolatos legalább 5 éves szakmai tapasztalattal rendelkező magyar állampolgár nevezhető ki.
 
-(3)[^3] A főigazgatót feladatai ellátásában két főigazgató-helyettes segíti, akiket a főigazgató nevez ki és ment fel.
+(3)[^3] A főigazgatót feladatai ellátásában főigazgató-helyettes segíti, akit a főigazgató nevez ki és ment fel.
 
 (4)[^4] A Főigazgatóság alkalmazottai kormánytisztviselők, felettük a munkáltatói jogokat a főigazgató gyakorolja.
 
@@ -14,5 +14,5 @@
 
 [^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 476. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 477. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (3) bekezdése a 214/2014. (VIII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (3) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^4]: A 2. § (4) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 54. §-a szerint módosított szöveg.
