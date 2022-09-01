@@ -44,13 +44,13 @@
 
 2.1. a nemzetgazdasági szempontból kiemelt jelentőségűvé történő nyilvánításról szóló kormányrendeletre történő utalás;
 
-2.2. a koordinációs feladatokat ellátó kormánymegbízott kijelölésére történő utalás;
+2.2.[^7] a koordinációs feladatokat ellátó főispán kijelölésére történő utalás;
 
 2.3. a negyedéves tájékoztatás megtételének kötelezettségére vonatkozó rendelkezésre történő utalás.
 
-3. A koordinációs feladatokat ellátó kormánymegbízott és a beruházó, valamint a kiemelt jelentőségű ügyekben eljáró hatóságok és a beruházó kapcsolattartásának, együttműködésének rövid bemutatása.
+3.[^8] A koordinációs feladatokat ellátó főispán és a beruházó, valamint a kiemelt jelentőségű ügyekben eljáró hatóságok és a beruházó kapcsolattartásának, együttműködésének rövid bemutatása.
 
-4. A koordinációs feladatokat ellátó kormánymegbízott és az egyes hatóságok, szakhatóságok kapcsolattartásának, együttműködésének rövid bemutatása.
+4.[^9] A koordinációs feladatokat ellátó főispán és az egyes hatóságok, szakhatóságok kapcsolattartásának, együttműködésének rövid bemutatása.
 
 5. Az adott beruházás vonatkozásában a tárgyidőszakban megindult, valamint az előző tárgyidőszakból áthúzódó hatósági eljárások ismertetése:
 
@@ -68,10 +68,17 @@
 
 6.3. az egyes tárgyidőszakban megindult, valamint az előző tárgyidőszakból áthúzódó szakhatósági eljárások lezárulásának módja és időpontja.
 
-7. A tárgyidőszakban a koordinációs feladatokat ellátó kormánymegbízott által megtett valamennyi koordinációs intézkedés bemutatása, szükség esetén kitérve az adott intézkedés alkalmazásának indokaira és eredményeire is.
+7.[^10] A tárgyidőszakban a koordinációs feladatokat ellátó főispán által megtett valamennyi koordinációs intézkedés bemutatása, szükség esetén kitérve az adott intézkedés alkalmazásának indokaira és eredményeire is.
 
-8. Amennyiben a tárgyidőszakban a beruházáshoz kapcsolódó hatósági és szakhatósági eljárások vonatkozásában bármilyen, a beruházás megvalósulását akadályozó, lassító probléma merült fel, a probléma ismertetése és a probléma érdekében a koordinációs feladatokat ellátó kormánymegbízott, a beruházó, illetve az érintett hatóságok és szakhatóságok által megtett intézkedések és azok eredményének bemutatása.
+8.[^11] Amennyiben a tárgyidőszakban a beruházáshoz kapcsolódó hatósági és szakhatósági eljárások vonatkozásában bármilyen, a beruházás megvalósulását akadályozó, lassító probléma merült fel, a probléma ismertetése és a probléma érdekében a koordinációs feladatokat ellátó főispán, a beruházó, illetve az érintett hatóságok és szakhatóságok által megtett intézkedések és azok eredményének bemutatása.
 
-9. Amennyiben a beruházás vonatkozásában az előző negyedéves tájékoztatásban a koordinációs feladatokat ellátó kormánymegbízott valamilyen problémáról számolt be, annak bemutatása, hogy az előző időszakban felmerült probléma a tárgyidőszakra elhárult-e, vagy az még mindig fennáll.
+9.[^12] Amennyiben a beruházás vonatkozásában az előző negyedéves tájékoztatásban a koordinációs feladatokat ellátó főispán valamilyen problémáról számolt be, annak bemutatása, hogy az előző időszakban felmerült probléma a tárgyidőszakra elhárult-e, vagy az még mindig fennáll.
 
 10. A beruházás és a kiemelt jelentőségű ügyek állásának, a tárgyidőszak eseményeinek összegzése.
+
+[^7]: Az 5. melléklet 2. pont 2.2. alpontja a 12/2022. (VIII. 31.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+[^8]: Az 5. melléklet 3. pontja a 12/2022. (VIII. 31.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. melléklet 4. pontja a 12/2022. (VIII. 31.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. melléklet 7. pontja a 12/2022. (VIII. 31.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. melléklet 8. pontja a 12/2022. (VIII. 31.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. melléklet 9. pontja a 12/2022. (VIII. 31.) MvM rendelet 5. § b) pontja szerint módosított szöveg.

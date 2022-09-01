@@ -4,9 +4,9 @@
 
 | 1 | A nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházásokra vonatkozó alapadatok |
 
-| 2 | Sorszám | Nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánító kormányrendelet száma | Hatálybalépés | Fővárosi és megyei kormányhivatalt vezető kormánymegbízott koordinációra való kijelölést tartalmaz | A Kormányrendeletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházás, projekt megnevezése | Fővárosi és megyei kormányhivatalt vezető kormánymegbízott által kijelölt koordinátor neve és elérhetősége |
+| 2 | Sorszám | Nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánító kormányrendelet száma | Hatálybalépés | Fővárosi és megyei kormányhivatalt vezető főispán koordinációra való kijelölést tartalmaz | A Kormányrendeletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházás, projekt megnevezése | Fővárosi és megyei kormányhivatalt vezető főispán által kijelölt koordinátor neve és elérhetősége |
 
-| 3 | Igen / Nem | Kijelölés napja | Koordinációra kijelölt kormánymegbízott |
+| 3 | Igen/Nem | Kijelölés napja | Koordinációra kijelölt főispán |
 
 | 4 | 1. |  |  |  |  |  |  |  |
 
