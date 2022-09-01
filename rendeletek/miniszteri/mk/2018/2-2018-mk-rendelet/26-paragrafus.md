@@ -1,5 +1,3 @@
-## számolható el.
-
 ## 14. A kutatásfejlesztési projekthez nyújtott támogatás
 
 26. § (1) A kutatásfejlesztési projekthez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a (2) bekezdés szerinti kategóriába tartozó kutatásfejlesztési projekt részére nyújtható.

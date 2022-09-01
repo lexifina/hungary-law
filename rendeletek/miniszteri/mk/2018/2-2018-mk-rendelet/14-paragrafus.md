@@ -20,7 +20,7 @@ b) az Atr. 25. § (1) bekezdés d) pontja szerinti településen letelepedett v�
 
 c) az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban letelepedett vállalkozás esetén a 2 millió eurót.
 
-(5)[^25] Az 5 és 10 év közötti futamidővel rendelkező hitel esetén a névérték legmagasabb összege a (4) bekezdésben meghatározott összeg, valamint a 10 év és a hitel tényleges futamideje hányadosának szorzataként határozható meg. Az 5 évnél rövidebb futamidejű hitel esetén a legmagasabb összeg megegyezik az 5 éves futamidejű hitelre vonatkozó legmagasabb összeggel.
+(5)[^26] Az 5 és 10 év közötti futamidővel rendelkező hitel esetén a névérték legmagasabb összege a (4) bekezdésben meghatározott összeg, valamint a 10 év és a hitel tényleges futamideje hányadosának szorzataként határozható meg. Az 5 évnél rövidebb futamidejű hitel esetén a legmagasabb összeg megegyezik az 5 éves futamidejű hitelre vonatkozó legmagasabb összeggel.
 
 (6) Ha a támogatás formája nem piaci díj ellenében, legfeljebb 10 éves futamidőre nyújtott kezességvállalás, a kezességvállalással biztosított hitel névértéke nem haladhatja meg
 
@@ -30,7 +30,7 @@ b) az Atr. 25. § (1) bekezdés d) pontja szerinti településen letelepedett v�
 
 c) az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban letelepedett vállalkozás esetén a 3 millió eurót.
 
-(7)[^26] Az 5 és 10 év közötti futamidővel rendelkező kezességvállalás esetén a kezességvállalással biztosított legmagasabb hitelösszeg a (4) bekezdésben meghatározott összeg, valamint a 10 év és a kezességvállalás tényleges futamideje hányadosának szorzataként határozható meg. Az 5 évnél rövidebb futamidejű kezességvállalás esetén a legmagasabb összeg megegyezik az 5 éves futamidejű kezességvállalásra vonatkozó legmagasabb összeggel.
+(7)[^27] Az 5 és 10 év közötti futamidővel rendelkező kezességvállalás esetén a kezességvállalással biztosított legmagasabb hitelösszeg a (4) bekezdésben meghatározott összeg, valamint a 10 év és a kezességvállalás tényleges futamideje hányadosának szorzataként határozható meg. Az 5 évnél rövidebb futamidejű kezességvállalás esetén a legmagasabb összeg megegyezik az 5 éves futamidejű kezességvállalásra vonatkozó legmagasabb összeggel.
 
 (8) A kezességvállalás nem haladhatja meg az alapul szolgáló hitel összegének 80%-át.
 
@@ -42,11 +42,11 @@ b) az Atr. 25. § (1) bekezdés d) pontja szerinti településen letelepedett v�
 
 c) az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban letelepedett vállalkozás esetén a 0,8 millió eurót.
 
-(10)[^27] A kedvezményezett támogatásban részesülhet a (4)–(9) bekezdésekben meghatározott támogatási eszközök kombinációja révén is, ha az egyik támogatási eszközzel nyújtott támogatásnak az adott eszközre vonatkozóan megengedett legmagasabb támogatási összege alapján kiszámított hányadát figyelembe veszik a kombinált eszköz részét képező másik eszközre vonatkozóan megengedett legmagasabb támogatási összeg maradványhányadának meghatározásához.
+(10)[^28] A kedvezményezett támogatásban részesülhet a (4)–(9) bekezdésekben meghatározott támogatási eszközök kombinációja révén is, ha az egyik támogatási eszközzel nyújtott támogatásnak az adott eszközre vonatkozóan megengedett legmagasabb támogatási összege alapján kiszámított hányadát figyelembe veszik a kombinált eszköz részét képező másik eszközre vonatkozóan megengedett legmagasabb támogatási összeg maradványhányadának meghatározásához.
 
-(11)[^28] Innovatív kisvállalkozás esetén a (4)–(9) bekezdésekben meghatározott legmagasabb összegek megkétszerezhetőek.
+(11)[^29] Innovatív kisvállalkozás esetén a (4)–(9) bekezdésekben meghatározott legmagasabb összegek megkétszerezhetőek.
 
-[^25]: A 14. § (5) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § e) pontja szerint módosított szöveg.
-[^26]: A 14. § (7) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § e) pontja szerint módosított szöveg.
-[^27]: A 14. § (10) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § f) pontja szerint módosított szöveg.
-[^28]: A 14. § (11) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § f) pontja szerint módosított szöveg.
+[^26]: A 14. § (5) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § e) pontja szerint módosított szöveg.
+[^27]: A 14. § (7) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § e) pontja szerint módosított szöveg.
+[^28]: A 14. § (10) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § f) pontja szerint módosított szöveg.
+[^29]: A 14. § (11) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § f) pontja szerint módosított szöveg.

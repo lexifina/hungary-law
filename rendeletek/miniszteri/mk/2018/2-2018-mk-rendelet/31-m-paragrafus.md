@@ -6,7 +6,7 @@ a) előzetesen vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (3) A maximális támogatási intenzitás nem haladhatja meg az elszámolható költségek 100%-át.
 

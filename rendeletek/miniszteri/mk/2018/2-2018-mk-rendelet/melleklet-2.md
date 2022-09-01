@@ -1,3 +1,5 @@
+## 2X05963M_0
+
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
 | 1. | Áht. azonosító | Cím név | Alcím név | Jogcím- csoport név | Jogcím név | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Visszafizetés határideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszí- rozott költség- vetési támogatás közre- működő szervezete |
@@ -32,6 +34,10 @@
 
 | visszterhes polgári jogi szerződéssel | szerződés szerint | szerződés szerint | szerződés szerint |
 
+| 13a. | 347762 |  |  | 21/1/28 Kormányzati infokommunikációs szolgáltatások | Az előirányzat forrást biztosít 1. a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról, valamint a nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő részletszabályokról szóló 307/2022. (VIII. 11.) Korm. rendeletben foglalt feladatok végrehajtására; 2. jogszabályban vagy kormányhatározatban, az e-közigazgatásért, az informatikáért, az e-közigazgatási és informatikai fejlesztések egységesítéséért, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért való kormányzati felelősségi körben meghatározott egyéb célok végrehajtására; 3. az információs társadalom folyamatos fejlesztéséhez, a digitálisan írástudók számának növeléséhez, a kis- és középvállalkozások digitalizációs szintjének emeléséhez, új információs technológiák bevezetésének elősegítéséhez, Magyarország teljes lakossága számára elérhető újgenerációs hálózatok kiépítéséhez és elérhetővé tételéhez, az iskolai sávszélesség kiépítéséhez, fejlesztéséhez, fenntartásához, valamint a szoftver licencek biztosításához; 4. a felhasználással kapcsolatos kincstári díjakra. A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységekre is nyújtható. | Gazdasági társaság, civil szervezet, helyi önkormányzat és az általa fenntartott költségvetési szerv, köztestület, költségvetési szerv és az általa fenntartott költségvetési intézmény, közalapítvány, köznevelési, szakképzési és felsőoktatási intézmény, MÁK. A nyújtott támogatás teljes összege vagy bizonyos része a támogatott tevékenység megvalósításának veszélyeztetése nélkül, a minisztérium vagy a minisztérium nevében eljáró kezelő szerv és a kedvezményezett között létrejött támogatási jogviszonyban foglaltaknak megfelelően harmadik személy által is felhasználható. | Az Ávr. 101/A. §-a szerint kiadott támogatói okirat, egyedi támogatói döntésben foglaltak szerint kiadott/kötött támogatói okirat vagy támogatási szerződés és pályázati kiírás alapján kiadott/ kötött támogatói okirat vagy támogatási szerződés útján. | Előleg folyósítható. | Egy összegben vagy részletekben (időarányosan vagy teljesítésarányosan) történő kifizetéssel. | – | Az Ávr. 84. § (2) bekezdése szerint lehetséges biztosítékok. | Digitális Magyarország Ügynökség Zrt. | – | – |
+
+| Közszolgáltatási szerződéssel, visszterhes polgári jogi szerződéssel. | Közszolgáltatási szerződés, visszterhes polgári jogi szerződés szerint. |  | Közszolgáltatási szerződés, visszterhes polgári jogi szerződés szerint. | Közszolgáltatási szerződés, visszterhes polgári jogi szerződés szerint. |  |  |  |
+
 | 14. |  | 21 Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |
 
 | 15. |  |  | 21/3 A Magyar Turisztikai Ügynökség Zrt. tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
@@ -42,9 +48,11 @@
 
 | 14b. | 399040 |  |  | 21/1/1 A Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai | Az előirányzat fedezetet nyújt a Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlása alá tartozó gazdasági társaságok 1) tulajdonosi támogatására; 2) tőkeemelésének és pótbefizetésének finanszírozására. | A Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlása alá tartozó gazdasági társaságok. | Az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatási szerződésben vagy támogatói okiratban foglaltaknak megfelelően. | Előleg folyósítható. | Tulajdonosi támogatás esetén egy összegben, vagy részletekben, idő- vagy teljesítésarányosan; tőkeemelés, pótbefizetés esetén a tulajdonosi joggyakorló határozata alapján. | Tulajdonosi támogatás esetén a támogatási szerződés vagy támogatói okirat szerint; pótbefizetés esetén szerződés szerint. | Az Ávr. 84. § (2) bekezdése szerinti lehetséges biztosítékok. | – | – | – |
 
-2. melléklet a 2/2018. (XII. 28.) MK rendelethez[^75]
+2. melléklet a 2/2018. (XII. 28.) MK rendelethez[^78]
 
 XLVII. Gazdaság-újraindítási Alap fejezet gazdaság újraindítását szolgáló miniszterelnöki kabineti fejezeti kezelésű előirányzatok 2022. évi költségvetési kiadási előirányzatainak feladatterve
+
+2X01783_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -62,4 +70,4 @@ XLVII. Gazdaság-újraindítási Alap fejezet gazdaság újraindítását szolg�
 
 | 6. | 387906 |  |  | 2/9/3 Róheim-villa rekonstrukciója | Az előirányzat fedezetet nyújt a Róheim-villa műemlékingatlan felújítására, a köztestület és a Magyar Corvin-lánc Iroda elhelyezésének támogatására. Támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható. Az előirányzat forrást biztosít a felhasználással kapcsolatos kincstári díjak fedezetére is. | Magyar Corvin-lánc Testület, MÁK. | Pályázati rendszeren kívül, kérelem alapján hozott egyedi támogatói döntésben foglaltak szerint kiadott/kötött támogatói okirat vagy támogatási szerződés, az Ávr. 101/A. §-a szerint kiadott támogatói okirat útján. | Előleg folyósítható. | Egy összegben vagy részletekben, időarányosan vagy teljesítésarányo- san történő kifizetéssel. | Támogatási szerződés vagy támogatói okirat szerint. | Az Ávr. 84. § (2) bekezdése szerint lehetséges biztosítékok. | – | – | – |
 
-[^75]: A 2. mellékletet az 1/2021. (III. 3.) MK rendelet 9. § (2) bekezdése iktatta be, szövege az 5/2022. (III. 18.) MK rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^78]: A 2. mellékletet az 1/2021. (III. 3.) MK rendelet 9. § (2) bekezdése iktatta be, szövege az 5/2022. (III. 18.) MK rendelet 4. § (2) bekezdésével megállapított szöveg.

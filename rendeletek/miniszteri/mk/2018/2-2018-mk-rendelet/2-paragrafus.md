@@ -1,8 +1,8 @@
 ## 2. Felhasználásra vonatkozó általános szabályok
 
-2. §[^1] (1) Az egyes előirányzatoknak az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdése szerinti felhasználási szabályait az 1. és 2. melléklet tartalmazza.
+2. §[^2] (1) Az egyes előirányzatoknak az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdése szerinti felhasználási szabályait az 1. és 2. melléklet tartalmazza.
 
-(2)[^2] Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
+(2)[^3] Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
 1. 8., 10. és 13. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
 
@@ -20,7 +20,7 @@
 
 8. 8. és 10. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat (a továbbiakban: SA.46515 sz. bizottsági határozat) szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, tanácsadási szolgáltatásokhoz nyújtott támogatás, valamint mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás;
 
-9.[^3] 16. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID–19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i C(2020) 1863 final számú európai bizottsági közlemény (a továbbiakban: átmeneti közlemény) 3.1. szakasza szerinti átmeneti támogatás, 3.12. szakasza szerinti fedezetlen állandó költségekhez nyújtott támogatás és 3.13. szakasza szerinti fenntartható helyreállításra irányuló beruházási támogatás
+9. [^4] 16. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID–19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i C(2020) 1863 final számú európai bizottsági közlemény (a továbbiakban: átmeneti közlemény) 3.1. szakasza szerinti átmeneti támogatás, 3.12. szakasza szerinti fedezetlen állandó költségekhez nyújtott támogatás és 3.13. szakasza szerinti fenntartható helyreállításra irányuló beruházási támogatás
 
 ## nyújtható.
 
@@ -54,22 +54,22 @@
 
 14. 4. és 5. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, tanácsadási szolgáltatásokhoz nyújtott támogatás, valamint mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás;
 
-15.[^4] 4. sora alapján az átmeneti közlemény 3.1. szakasza szerinti átmeneti támogatás, 3.12. szakasza szerinti fedezetlen állandó költségekhez nyújtott támogatás és 3.13. szakasza szerinti fenntartható helyreállításra irányuló beruházási támogatás;
+15. [^5] 4. sora alapján az átmeneti közlemény 3.1. szakasza szerinti átmeneti támogatás, 3.12. szakasza szerinti fedezetlen állandó költségekhez nyújtott támogatás és 3.13. szakasza szerinti fenntartható helyreállításra irányuló beruházási támogatás;
 
-16.[^5] 4. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás;
+16. [^6] 4. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás;
 
-17.[^6] 4. sora alapján a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás
+17. [^7] 4. sora alapján a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás
 
-18.[^7] 4. és 5. sora alapján a 360/2012/EU bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás
+18. [^8] 4. és 5. sora alapján a 360/2012/EU bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás
 
 ## nyújtható.
 
 (4) A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges fordítási tevékenységet az Országos Fordító- és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság végzi.
 
-[^1]: A 2. § az 1/2021. (III. 3.) MK rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (2) bekezdése az 5/2022. (III. 18.) MK rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § (2) bekezdés 9. pontja a 7/2022. (IV. 29.) MK rendelet 3. §-a szerint módosított szöveg.
-[^4]: A 2. § (3) bekezdés 15. pontja a 9/2021. (XII. 22.) MK rendelet 2. §-ával megállapított szöveg.
-[^5]: A 2. § (3) bekezdés 16. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
-[^6]: A 2. § (3) bekezdés 17. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
-[^7]: A 2. § (3) bekezdés 18. pontját az 5/2021. (VI. 25.) MK rendelet 1. § (3) bekezdése iktatta be.
+[^2]: A 2. § az 1/2021. (III. 3.) MK rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdése az 5/2022. (III. 18.) MK rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdés 9. pontja a 7/2022. (IV. 29.) MK rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdés 15. pontja a 9/2021. (XII. 22.) MK rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § (3) bekezdés 16. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
+[^7]: A 2. § (3) bekezdés 17. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
+[^8]: A 2. § (3) bekezdés 18. pontját az 5/2021. (VI. 25.) MK rendelet 1. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-5. § (1)[^9] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és a 360/2012/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+5. § (1)[^10] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és a 360/2012/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) Nem ítélhető meg támogatás
 
@@ -18,7 +18,7 @@ e) ha azt import áru helyett hazai áru használatától teszik függővé,
 
 f) olyan feltétellel, amely az európai uniós jog megsértését eredményezi,
 
-g)[^10]
+g)[^11]
 
 h) csekély összegű támogatásban részesülő vállalkozás kivételével nehéz helyzetben lévő vállalkozás részére,
 
@@ -34,8 +34,8 @@ i) kultúrát és kulturális örökség megőrzését előmozdító támogatás
 
 (7) A 651/2014/EU bizottsági rendelet alapján támogatás – az induló vállalkozásnak nyújtott támogatás és a kultúrát és a kulturális örökség megőrzését előmozdító támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
-(8)[^11] A 651/2014/EU bizottsági rendelet szerinti támogatás és csekély összegű közszolgáltatási támogatás nem nyújtható nehéz helyzetben levő vállalkozásnak, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került. Induló vállalkozásnak nyújtott támogatás nehéz helyzetben levő vállalkozásnak is nyújtható.
+(8)[^12] A 651/2014/EU bizottsági rendelet szerinti támogatás és csekély összegű közszolgáltatási támogatás nem nyújtható nehéz helyzetben levő vállalkozásnak, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került. Induló vállalkozásnak nyújtott támogatás nehéz helyzetben levő vállalkozásnak is nyújtható.
 
-[^9]: Az 5. § (1) bekezdése az 5/2019. (XII. 10.) MK rendelet 2. §-ával megállapított szöveg.
-[^10]: Az 5. § (2) bekezdés g) pontját a 4/2020. (X. 30.) MK rendelet 10. § 1. pontja hatályon kívül helyezte.
-[^11]: Az 5. § (8) bekezdését a 4/2020. (X. 30.) MK rendelet 3. §-a iktatta be.
+[^10]: Az 5. § (1) bekezdése az 5/2019. (XII. 10.) MK rendelet 2. §-ával megállapított szöveg.
+[^11]: Az 5. § (2) bekezdés g) pontját a 4/2020. (X. 30.) MK rendelet 10. § 1. pontja hatályon kívül helyezte.
+[^12]: Az 5. § (8) bekezdését a 4/2020. (X. 30.) MK rendelet 3. §-a iktatta be.

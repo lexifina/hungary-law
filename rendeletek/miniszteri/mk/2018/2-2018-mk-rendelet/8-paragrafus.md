@@ -1,5 +1,3 @@
-## lehet támogatási döntést hozni.
-
 8. § (1) Az e rendelet hatálya alá tartozó,
 
 a) 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából,
@@ -8,7 +6,7 @@ b) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek es
 
 c) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében az 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról, kedvezményezettek esetében az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatás 3.7. pontja szerinti közzététel céljából
 
-## adatot kell szolgáltatni a Támogatásokat Vizsgáló Iroda mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
+adatot kell szolgáltatni a Támogatásokat Vizsgáló Iroda mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
 (2) Az (1) bekezdés a) pontja szerinti adatszolgáltatást az Atr. 18/A–18/D. §-a szerint kell teljesíteni.
 

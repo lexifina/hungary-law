@@ -10,7 +10,7 @@ ab) az Atr. 25. § (1) bekezdés d) pontja szerinti településen kis- és köz�
 
 b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdés d) pontja szerinti településen nagyvállalkozás
 
-## valósít meg.
+valósít meg.
 
 (2) A nagyvállalkozások esetén a termelési folyamat alapvető megváltoztatásához a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja a korszerűsítendő tevékenységhez kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
 
@@ -32,7 +32,7 @@ c) létesítmény felvásárlása esetén a felvásárlás időpontja,
 
 d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkorábbi időpont
 
-## azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
+azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
 
 (5) A támogatás akkor vehető igénybe, ha a támogatott vállalkozás kötelezettséget vállal arra, hogy a beruházással létrehozott tevékenységet az üzembe helyezés időpontjától számított legalább öt évig, kis- és középvállalkozás esetén legalább három évig fenntartja.
 
@@ -44,7 +44,7 @@ d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkor
 
 (9) Regionális beruházási támogatás esetén a támogatás odaítélését megelőzően – a támogatási kérelemben és a támogatási szerződésben – a kedvezményezett a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
 
-(9a)[^19] A 2020. január 1. és 2021. június 30. között megszűnt munkahelyek a 2019. december 31-én vagy azt megelőzően tett, a (9) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
+(9a)[^20] A 2020. január 1. és 2021. június 30. között megszűnt munkahelyek a 2019. december 31-én vagy azt megelőzően tett, a (9) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
 
 (10) Nem nyújtható támogatás
 
@@ -66,7 +66,7 @@ h) széles sávú infrastruktúra kiépítéséhez, kivéve a 49. §-ban meghat�
 
 i) kutatási infrastruktúra fejlesztéséhez, kivéve a 48. §-ban meghatározott feltételekkel.
 
-(11)[^20] A támogatási intenzitás legmagasabb mértéke az egyes régiókban az Atr. 25. § (1) bekezdésében meghatározott mérték, figyelemmel a (12)–(16) bekezdésben foglaltakra.
+(11)[^21] A támogatási intenzitás legmagasabb mértéke az egyes régiókban az Atr. 25. § (1) bekezdésében meghatározott mérték, figyelemmel a (12)–(16) bekezdésben foglaltakra.
 
 (12) A támogatási intenzitás – a nagyberuházások kivételével – kisvállalkozás esetén 20 százalékponttal, középvállalkozás esetén 10 százalékponttal növelhető, ha a beruházó a kérelem benyújtásakor, valamint a döntés meghozatalakor is megfelel az adott vállalkozási méret feltételeinek.
 
@@ -74,7 +74,7 @@ i) kutatási infrastruktúra fejlesztéséhez, kivéve a 48. §-ban meghatározo
 
 (14) Nagyberuházás esetén az odaítélhető összes állami támogatás összegéből le kell vonni a beruházás megkezdését megelőző háromszor háromszázhatvanöt napos időszakban a kedvezményezett által vagy a kedvezményezettől független harmadik félnek nem minősülő beruházó által azonos megyében megkezdett beruházáshoz vagy beruházásokhoz odaítélt állami támogatás jelenértéken meghatározott összegét.
 
-(15)[^21] Ha az összeszámítási szabály figyelembevétele nélkül az adott beruházáshoz nyújtható állami támogatás jelenértéken kisebb, mint a (14) bekezdés szerint meghatározott támogatási összeg, akkor ez a kisebb összeg az odaítélhető állami támogatás felső korlátja. Ellenkező esetben állami támogatás a (14) bekezdésben meghatározott összegig nyújtható.
+(15)[^22] Ha az összeszámítási szabály figyelembevétele nélkül az adott beruházáshoz nyújtható állami támogatás jelenértéken kisebb, mint a (14) bekezdés szerint meghatározott támogatási összeg, akkor ez a kisebb összeg az odaítélhető állami támogatás felső korlátja. Ellenkező esetben állami támogatás a (14) bekezdésben meghatározott összegig nyújtható.
 
 (16) Annak kiszámításakor, hogy egy nagyberuházás elszámolható költsége eléri-e a jelenértéken 50 millió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
 
@@ -86,7 +86,7 @@ b) a beruházás által létrehozott munkahelyek két évre számított becsült
 
 c) az a) és b) pontban szereplő költségtípusok kombinációja, ha az így kapott összeg nem haladja meg az a) és b) pont szerinti összeg közül a magasabbat.
 
-(18)[^22] Az elszámolható költség az (17) bekezdés a) pontja szerinti esetben a következők szerint határozható meg:
+(18)[^23] Az elszámolható költség az (17) bekezdés a) pontja szerinti esetben a következők szerint határozható meg:
 
 a) a tárgyi eszköznek az Sztv. 47. §-a, 48. §-a és 51. §-a szerinti költsége,
 
@@ -96,7 +96,7 @@ c) létesítmény felvásárlása esetén a tárgyi eszközök és a támogathat
 
 d) az ingatlan, gép, berendezés bérleti díjának a fenntartási időszak végéig elszámolt összege.
 
-(19)[^23] Az (17) bekezdés b) pontja szerinti esetben a beruházás üzembe helyezését követő háromszor háromszázhatvanöt napon belül újonnan létrehozott munkahelyeken foglalkoztatott munkavállalók – Sztv. 79. §-a szerint elszámolható – személyi jellegű ráfordításának – ide nem értve az egyéb személyi jellegű kifizetéseket – 24 havi összege számolható el a munkakör betöltésének napjától számítva.
+(19)[^24] Az (17) bekezdés b) pontja szerinti esetben a beruházás üzembe helyezését követő háromszor háromszázhatvanöt napon belül újonnan létrehozott munkahelyeken foglalkoztatott munkavállalók – Sztv. 79. §-a szerint elszámolható – személyi jellegű ráfordításának – ide nem értve az egyéb személyi jellegű kifizetéseket – 24 havi összege számolható el a munkakör betöltésének napjától számítva.
 
 (20) A tárgyi eszköz bérléséhez kapcsolódó költség elszámolható, ha
 
@@ -134,7 +134,7 @@ e) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. tö
 
 f) nagyvállalkozásnál a korábban már bárki által használatba vett tárgyi eszköz költsége, kivéve létesítmény felvásárlása esetén a beszerzett eszköz vételárát.
 
-(24)[^24] A (17) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
+(24)[^25] A (17) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
 
 a) a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest,
 
@@ -156,9 +156,9 @@ d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már lét
 
 (30) A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetésmentes és a technológiasemlegesség elvén alapuló pályáztatás alapján köteles dönteni.
 
-[^19]: A 11. § (9a) bekezdését a 4/2020. (X. 30.) MK rendelet 5. §-a iktatta be.
-[^20]: A 11. § (11) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § a) pontja szerint módosított szöveg.
-[^21]: A 11. § (15) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § b) pontja szerint módosított szöveg.
-[^22]: A 11. § (18) bekezdés nyitó szövegrésze az 1/2021. (III. 3.) MK rendelet 10. § c) pontja szerint módosított szöveg.
-[^23]: A 11. § (19) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § c) pontja szerint módosított szöveg.
-[^24]: A 11. § (24) bekezdés nyitó szövegrésze az 1/2021. (III. 3.) MK rendelet 10. § d) pontja szerint módosított szöveg.
+[^20]: A 11. § (9a) bekezdését a 4/2020. (X. 30.) MK rendelet 5. §-a iktatta be.
+[^21]: A 11. § (11) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § a) pontja szerint módosított szöveg.
+[^22]: A 11. § (15) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § b) pontja szerint módosított szöveg.
+[^23]: A 11. § (18) bekezdés nyitó szövegrésze az 1/2021. (III. 3.) MK rendelet 10. § c) pontja szerint módosított szöveg.
+[^24]: A 11. § (19) bekezdése az 1/2021. (III. 3.) MK rendelet 10. § c) pontja szerint módosított szöveg.
+[^25]: A 11. § (24) bekezdés nyitó szövegrésze az 1/2021. (III. 3.) MK rendelet 10. § d) pontja szerint módosított szöveg.
