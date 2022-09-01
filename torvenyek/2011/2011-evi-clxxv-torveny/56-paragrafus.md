@@ -8,17 +8,17 @@ b) civil szervezetek működésének támogatása;
 
 c) civil szervezeteket, határon túli civil szervezeteket érintő szakmai programok, különösen évfordulók, fesztiválok, hazai és határon túli rendezvények, valamint a programok megvalósításához közvetlenül kapcsolódó költségek támogatása;
 
-d) nemzetközi civil kapcsolatokban a magyarországi civil szervezetek jelenlétének biztosítása, hazai és határon túli rendezvényeken, fesztiválokon történő részvétel támogatása, nemzetközi tagdíjakhoz támogatás biztosítása, európai integrációt elősegítő programok támogatása;
+d)
 
-e) civil szférával kapcsolatos tudományos kutatások, monitoringtevékenység és nyilvántartási feladatok támogatása;
+e)
 
-f) civil szférával kapcsolatos szolgáltató, tanácsadó, oktatási, fejlesztő, segítő, illetve esélyegyenlőséget és akadálymentességet elősegítő tevékenység és intézmények támogatása;
+f)
 
-g) civil szférát bemutató kiadványok, elektronikus és írott szakmai sajtó támogatása;
+g)
 
 h) helyi vagy területi hatókörű civil szervezetek egyszerűsített támogatása, amelyet a civil szervezet alapcél szerinti közösségteremtő, a hatókörébe tartozó közösség érdekében végzett tevékenységéhez kapcsolódó költségeinek fedezésére fordít;
 
-i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési Alap Tanácsa (továbbiakban: Tanács), illetve a kollégiumok egységes elvek mentén meghatározott, forrásautomatizmus biztosításáról szóló döntései alapján;
+i)
 
 j) civil érdek-képviseleti tevékenység támogatása;
 
@@ -28,9 +28,9 @@ l) civil közösségi szolgáltató központok működésének támogatása.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 
-a) nyolcvanöt százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–j) pontja szerinti,
+a) nyolcvan százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–c), h) és j) pontja szerinti,
 
-b) tizenöt százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–g) és i)–j) pontjai szerinti
+b) húsz százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b), c) és j) pontja szerinti
 
 költségvetési támogatásokra történhet kötelezettségvállalás.
 

@@ -1,4 +1,4 @@
-61. § (1) A miniszter az Alap forrásainak felhasználása, a pályázati kiírások elkészítése, a beérkező pályázatok elbírálása, valamint a támogatott célok megvalósulásának szakmai ellenőrzése érdekében rendelet útján kilenc tagú kollégiumokat hoz létre. A kollégium létrehozására vonatkozó miniszteri rendeletben meg kell határozni a kollégium elnevezését és azt, hogy az 56. § (1) bekezdés a)–j) pontja szerinti mely tevékenységi körét támogatja.
+61. § (1) A miniszter az Alap forrásainak felhasználása, a pályázati kiírások elkészítése, a beérkező pályázatok elbírálása, valamint a támogatott célok megvalósulásának szakmai ellenőrzése érdekében rendelet útján kilenc tagú kollégiumokat hoz létre. A kollégium létrehozására vonatkozó miniszteri rendeletben meg kell határozni a kollégium elnevezését és azt, hogy az 56. § (1) bekezdés a)–c), h) és j) pontja szerinti mely tevékenységi körét támogatja.
 
 (2) A kollégium
 

@@ -8,8 +8,8 @@
 
 (4) A határon túli civil szervezet
 
-a) Magyarországon nyilvántartásba vett civil szervezettel együttesen lehet támogatás kedvezményezettje az 56. § (1) bekezdés c), f), g), j) pontja,
+a) Magyarországon nyilvántartásba vett civil szervezettel együttesen lehet támogatás kedvezményezettje az 56. § (1) bekezdés c) és j) pontja,
 
-b) önállóan lehet támogatás kedvezményezettje – feltéve, hogy társpályázóként egy alkalommal már támogatás kedvezményezettje volt – az 56. § (1) bekezdés c) pontja
+b) önállóan lehet támogatás kedvezményezettje – feltéve, hogy egy alkalommal már társpályázó volt – az 56. § (1) bekezdés c) pontja
 
 szerinti támogatás esetén.

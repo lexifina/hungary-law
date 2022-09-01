@@ -14,4 +14,10 @@ f) az e célra létrehozott számítógépes rendszeren keresztül adatot szolg�
 
 g) a kollégiumok kérésére tájékoztatást adnak az adott ellátási területen működő civil szervezetek tevékenységéről.
 
+h) az ellátási területükön működő helyi civil szervezeteket összefogva együttműködnek az országos rendezvények helyi megvalósításában,
+
+i) ismeretátadással segítik a civil szervezeti vezetők, a civil területen feladatot ellátók, a civil szervezeteknél önkéntes tevékenységet végzők munkáját,
+
+j) részt vállalnak a civil közösségi szolgáltató központok közös feladatainak megvalósításában.
+
 (2)
