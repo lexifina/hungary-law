@@ -38,6 +38,8 @@ n)[^11] átmeneti támogatás: a koronavírus járvány miatt nehéz gazdasági 
 
 o)[^12] sertés: az ex 0103921900 vámtarifaszámú, legalább 70 kg élősúlyú vágósertés vagy az élelmiszerlánc-felügyeleti információs rendszer szerinti tenyészsertés.
 
+p)[^13] válságtámogatás: az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás.
+
 [^1]: Az 1. § b) pontja a 65/2016. (IX. 21.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § c) pontja a 94/2013. (X. 10.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § f) pontját a 36/2014. (IV. 4.) VM rendelet 56. §-a hatályon kívül helyezte.
@@ -50,3 +52,4 @@ o)[^12] sertés: az ex 0103921900 vámtarifaszámú, legalább 70 kg élősúly�
 [^10]: Az 1. § m) pontját a 65/2016. (IX. 21.) FM rendelet 6. § (2) bekezdése iktatta be.
 [^11]: Az 1. § n) pontját a 66/2020. (XII. 18.) AM rendelet 1. §-a iktatta be.
 [^12]: Az 1. § o) pontját a 49/2021. (XII. 28.) AM rendelet 1. §-a iktatta be.
+[^13]: Az 1. § p) pontját a 26/2022. (VIII. 31.) AM rendelet 1. §-a iktatta be.

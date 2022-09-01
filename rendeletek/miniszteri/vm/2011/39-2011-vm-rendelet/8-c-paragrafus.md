@@ -1,1 +1,0 @@
-## is alkalmazni kell.
