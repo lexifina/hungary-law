@@ -1,3 +1,1 @@
-## 18. §[^23]
-
-[^23]: A 18. § a 20. § (3) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+## 18. § Hatályát veszti a közneveléssel összefüggő egyes kormányrendeletek módosításáról szóló 417/2020. (VIII. 30.) Korm. rendelet [a továbbiakban: 417/2020. (VIII. 30.) Korm. rendelet] 27. § (3) bekezdése.
