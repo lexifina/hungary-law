@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-432-20-
 | 2013-01-01 | 2012-432-20-22.1 | 432/2012. (XII. 29.) Korm. rendelet |
 | 2016-05-14 | 2012-432-20-22.2 | 104/2016. (V. 13.) Korm. rendelet |
 | 2017-01-01 | 2012-432-20-22.3 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2022-09-01 | 2012-432-20-22.4 | 104/2016. (V. 13.) Korm. rendelet |

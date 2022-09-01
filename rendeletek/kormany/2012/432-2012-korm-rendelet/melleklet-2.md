@@ -566,7 +566,7 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 269 | idősebb Antall József rakpart | XIII. kerület közigazgatási határa – Széchenyi lánchíd |
 
-| 270 | Apáczai Csere János utca | Petőfi tér – Szende Pál utca |
+| 270 | Apáczai Csere János utca | Petőfi tér – Wekerle Sándor utca |
 
 | 271 | Arany János utca | Október 6. utca – Hercegprímás utca |
 
@@ -2646,4 +2646,4 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 1273 | Zománc utca | Wekerle Sándor utca – Könyves utca |
 
-[^4]: A 2. melléklet a 104/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 104/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdése, a 313/2022. (VIII. 11.) Korm. rendelet 1. és 2. §-a szerint módosított szöveg.
