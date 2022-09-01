@@ -4,7 +4,7 @@
 
 | 1. | NETI Informatikai Tanácsadó Korlátolt Felelősségű Társaság | 01-09-264449 | 2026. december 31. |
 
-3. melléklet az 1/2022. (V. 26.) GFM rendelethez
+3. melléklet az 1/2022. (V. 26.) GFM rendelethez[^5]
 
 ## Tulajdonosi jogokat gyakorló gazdasági társaságok
 
@@ -28,16 +28,26 @@ I. Tulajdonosi joggyakorló: Magyar Turisztikai Ügynökség Zártkörűen Műk�
 
 | 7. | EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaság | 01-09-341681 | 2026. december 31. |
 
-II. Tulajdonosi joggyakorló: Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság
+II. Tulajdonosi joggyakorló: a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság
 
 |  | A | B | C |
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | DATRAK Digitális Adattranzakciós Központ Korlátolt Felelősségű Társaság | 01-09-350667 | 2026. december 31. |
+| 1. | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-041633 | 2026. december 31. |
 
-| 2. | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság | 01-09-381151 | 2026. december 31. |
+| 2. | Digitális Jólét Nonprofit Korlátolt Felelősségű Társaság | 01-09-986454 | 2026. december 31. |
 
-| 3. | Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaság | 01-09-389831 | 2026. december 31. |
+| 3. | Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-140237 | 2026. december 31. |
+
+| 4. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
+
+| 5. | DATRAK Digitális Adattranzakciós Központ Korlátolt Felelősségű Társaság | 01-09-350667 | 2026. december 31. |
+
+| 6. | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság | 01-09-381151 | 2026. december 31. |
+
+| 7. | Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaság | 01-09-389831 | 2026. december 31. |
 
 III. Tulajdonosi joggyakorló: HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság
+
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a szerint módosított szöveg.

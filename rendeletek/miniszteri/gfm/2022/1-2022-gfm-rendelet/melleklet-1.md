@@ -34,17 +34,19 @@ II. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 | 4. | Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság | 01-10-047569 | 2026. december 31. |
 
-| 5. | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-041633 | 2026. december 31. |
+| 5. |  |  |  |
 
-| 6. | Digitális Jólét Nonprofit Korlátolt Felelősségű Társaság | 01-09-986454 | 2026. december 31. |
+| 6. |  |  |  |
 
-| 7. | Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-140237 | 2026. december 31. |
+| 7. |  |  |  |
 
 | 8. | Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-041364 | 2026. december 31. |
 
-| 9. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
+| 9. |  |  |  |
 
 | 10. | Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-141987 | 2026. december 31. |
+
+| 11. | Egy a Természettel Nonprofit Korlátolt Felelősségű Társaság | 01-09337636 | 2026. december 31. |
 
 III. Tulajdonosi joggyakorló: a Miniszterelnökség
 
@@ -270,7 +272,7 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 | 13. | HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-048684 | 2026. december 31. |
 
-| 14. | Egy a Természettel Nonprofit Korlátolt Felelősségű Társaság | 01-09-337636 | 2026. december 31. |
+| 14. |  |  |  |
 
 | 15. | Nyugat-Balkáni Zöld Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-343437 | 2026. december 31. |
 
@@ -293,4 +295,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 [^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a szerint módosított szöveg.
