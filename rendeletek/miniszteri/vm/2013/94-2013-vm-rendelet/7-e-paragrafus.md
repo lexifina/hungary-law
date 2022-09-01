@@ -1,4 +1,4 @@
-7/E. §[^61] (1)[^62] Figyelemmel a 3. § (1) bekezdésében foglaltakra, a 2021. január 1. és 2022. június 30. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára átmeneti támogatásként is igényelhető.
+7/E. §[^62] (1)[^63] Figyelemmel a 3. § (1) bekezdésében foglaltakra, a 2021. január 1. és 2022. június 30. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára átmeneti támogatásként is igényelhető.
 
 (2) A kezességi díjtámogatás – figyelemmel a 3. § (1) bekezdésében foglaltakra – átmeneti támogatásként történő igénylése esetén nem kell alkalmazni a 3. § (7) bekezdésében, az 5. § (1) bekezdés c) pont ca) alpontjában és a 7/A–7/C. §-ban foglaltakat.
 
@@ -34,5 +34,5 @@ bc) a kezességvállaló intézmény a Kincstártól adatokat kérjen a kedvezm�
 
 (8) Az (1) bekezdésben meghatározott kezességi szerződéshez kapcsolódóan de minimis támogatás csak abban az esetben igényelhető, ha az átmeneti támogatás nyújtásának feltételei nem állnak fenn.
 
-[^61]: A 7/E. §-t a 66/2020. (XII. 18.) AM rendelet 8. §-a iktatta be.
-[^62]: A 7/E. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 11. §-a szerint módosított szöveg.
+[^62]: A 7/E. §-t a 66/2020. (XII. 18.) AM rendelet 8. §-a iktatta be.
+[^63]: A 7/E. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 11. §-a szerint módosított szöveg.

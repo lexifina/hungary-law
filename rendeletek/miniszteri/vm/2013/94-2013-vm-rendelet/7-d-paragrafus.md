@@ -1,4 +1,4 @@
-7/D. §[^60] (1) A 3. §-ban foglaltaktól eltérően, a kedvezményezett által a 2020. május 20. és 2020. december 31. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez megítélt mezőgazdasági csekély összegű (de minimis) vagy halászati csekély összegű (de minimis) kezességi díjtámogatás átmeneti támogatásnak minősül, ha
+7/D. §[^61] (1) A 3. §-ban foglaltaktól eltérően, a kedvezményezett által a 2020. május 20. és 2020. december 31. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez megítélt mezőgazdasági csekély összegű (de minimis) vagy halászati csekély összegű (de minimis) kezességi díjtámogatás átmeneti támogatásnak minősül, ha
 
 a) a kedvezményezett 2021. január 15-éig nem küldi meg elektronikusan a kezességvállaló intézmény részére az ezzel ellentétes tartalmú nyilatkozatát,
 
@@ -42,4 +42,4 @@ c) a csekély összegű (de minimis) támogatásra vonatkozó adatokat.
 
 (11) A Kincstártól kapott tájékoztatás alapján a kezességvállaló intézmény az átminősítéssel érintett csekély összegű (de minimis) támogatások esetében visszavonja a korábban kiadott csekély összegű (de minimis) támogatásról szóló támogatástartalom-igazolásokat és kiállítja az átmeneti támogatásról a támogatástartalom-igazolást, amelyet elektronikus úton 2021. február 15-éig megküld a kedvezményezett részére. A csekély összegű (de minimis) támogatás visszavonásáról és az átmeneti támogatás megállapításáról a kezességvállaló intézmény elektronikus úton értesíti a Kincstárt, amely intézkedik az egyéni csekély összegű támogatási keretet, valamint az országos mezőgazdasági csekély összegű (de minimis) és az országos halászati csekély összegű (de minimis) keretet terhelő lekötések felszabadításáról.
 
-[^60]: A 7/D. §-t a 66/2020. (XII. 18.) AM rendelet 8. §-a iktatta be.
+[^61]: A 7/D. §-t a 66/2020. (XII. 18.) AM rendelet 8. §-a iktatta be.

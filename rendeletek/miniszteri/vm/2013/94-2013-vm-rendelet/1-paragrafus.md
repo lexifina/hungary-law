@@ -48,6 +48,8 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 
 16.[^15] országos halászati csekély összegű (de minimis) keret: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet melléklete alapján Magyarország rendelkezésére álló halászati csekély összegű támogatási keret.
 
+17.[^16] válságtámogatás: az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás.
+
 [^1]: Az 1. § 1. pont 1.1. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^2]: Az 1. § 1. pont 1.2. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^3]: Az 1. § 1. pont 1.3. alpontja a 18/2014. (X. 29.) FM rendelet 43. § (1) bekezdésével megállapított szöveg.
@@ -63,3 +65,4 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 [^13]: Az 1. § 14. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be.
 [^14]: Az 1. § 15. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be.
 [^15]: Az 1. § 16. pontját a 66/2020. (XII. 18.) AM rendelet 7. §-a iktatta be.
+[^16]: Az 1. § 17. pontját a 26/2022. (VIII. 31.) AM rendelet 5. §-a iktatta be.
