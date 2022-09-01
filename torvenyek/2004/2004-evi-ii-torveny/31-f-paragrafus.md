@@ -4,7 +4,7 @@ a) amelyet az Szt. 160. § (3a) és (3b) bekezdésében megnevezett számlákon 
 
 b) amely
 
-ba) a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.), az egyszerűsített vállalkozói adóról szóló törvény, a Tao. tv., a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, az egyszerűsített foglalkoztatásról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti adó- vagy közteher-kötelezettség alá eső, illetve a költségvetési szervnél bevételt eredményező kötelezettség teljesítésével keletkezett,
+ba) a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.), a Tao. tv., a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, a kisadózó vállalkozók tételes adójáról szóló törvény, az egyszerűsített foglalkoztatásról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti adó- vagy közteher-kötelezettség alá eső, illetve a költségvetési szervnél bevételt eredményező kötelezettség teljesítésével keletkezett,
 
 bb) a filmgyártással kapcsolatban teljesített személyi juttatások után fizetendő járulékkötelezettség teljesítésével összefüggésben keletkezett, vagy
 
