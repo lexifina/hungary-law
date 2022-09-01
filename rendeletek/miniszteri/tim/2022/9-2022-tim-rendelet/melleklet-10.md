@@ -1,3 +1,3 @@
-10. melléklet a 9/2022. (VIII. 1.) TIM rendelethez[^138]
+10. melléklet a 9/2022. (VIII. 1.) TIM rendelethez[^136]
 
-[^138]: A 10. melléklet a 72. § (3) bekezdése alapján 2022. október 15-én lép hatályba.
+[^136]: A 10. melléklet a 72. § (3) bekezdése alapján 2022. október 15-én lép hatályba.

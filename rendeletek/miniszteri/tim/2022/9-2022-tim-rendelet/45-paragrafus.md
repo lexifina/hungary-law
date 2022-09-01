@@ -1,3 +1,3 @@
-## 44. §[^56]
+## 44. §[^55]
 
-[^56]: A 44. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^55]: A 44. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.

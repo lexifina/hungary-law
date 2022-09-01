@@ -1,3 +1,3 @@
-## 36. §[^48]
+## 36. §[^47]
 
-[^48]: A 36. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^47]: A 36. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.

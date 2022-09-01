@@ -1,3 +1,3 @@
-## 35. §[^47]
+## 35. §[^46]
 
-[^47]: A 35. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^46]: A 35. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.

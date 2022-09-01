@@ -1,3 +1,3 @@
-## 45. §[^57]
+## 45. §[^56]
 
-[^57]: A 45. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^56]: A 45. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
