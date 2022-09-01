@@ -6,21 +6,21 @@
 
 (3) Az alapilletmény szorzószáma
 
-a) az első évfolyamon 5,89,
+a)[^192] az első évfolyamon 7,45,
 
-b) a második évfolyamon 6,18,
+b)[^193] a második évfolyamon 7,82,
 
-c) a harmadik évfolyamon 6,49,
+c)[^194] a harmadik évfolyamon 8,21,
 
-d) a negyedik évfolyamon 6,78.
+d)[^195] a negyedik évfolyamon 8,58.
 
 (4) A honvéd tisztjelölt Hjt. 230. § (1) bekezdésében meghatározott tanulmányi díjának összege – az első évfolyam első szemesztere kivételével – megegyezik a honvédelmi illetményalap és az (5) bekezdés szerinti szorzószám szorzatával. Az első évfolyamot megkezdő honvéd tisztjelölt az első szemeszterben tanulmányi díjra nem jogosult.
 
 (5) A tanulmányi díj szorzószáma az előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlag figyelembevételével
 
-a) 3,51–4,50 tanulmányi átlag esetén 0,35,
+a)[^196] 3,51–4,50 tanulmányi átlag esetén 0,44,
 
-b) 4,50 tanulmányi átlag fölött 0,7.
+b)[^197] 4,50 tanulmányi átlag fölött 0,89.
 
 (6) A honvéd tisztjelölt
 
@@ -31,3 +31,10 @@ b) az adott szemeszteren neki biztosított tanulmányi díjra a következő szem
 ## megkezdését megelőző napig jogosult.
 
 (7) A (6) bekezdés b) pontjától eltérően a honvéd tisztjelölt tanulmányi díjra a nyolcadik szemeszter esetén a Hjt. 225. § (1) bekezdése szerinti szerződéses szolgálati viszonya megszűnésének napjáig jogosult.
+
+[^192]: A 74. § (3) bekezdés a) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § f) pontja szerint módosított szöveg.
+[^193]: A 74. § (3) bekezdés b) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § g) pontja szerint módosított szöveg.
+[^194]: A 74. § (3) bekezdés c) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § h) pontja szerint módosított szöveg.
+[^195]: A 74. § (3) bekezdés d) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § i) pontja szerint módosított szöveg.
+[^196]: A 74. § (5) bekezdés a) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § j) pontja szerint módosított szöveg.
+[^197]: A 74. § (5) bekezdés b) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § k) pontja szerint módosított szöveg.

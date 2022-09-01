@@ -6,9 +6,9 @@ b) a 35. § (1) bekezdés a) pont ab) és ac) alpontja szerinti esetben 100%, é
 
 c) a 35. § (1) bekezdés b) pontja szerinti esetben 75%.
 
-(2)[^57]
+(2)[^58]
 
-(3)[^58]
+(3)[^59]
 
-[^57]: A 36. § (2) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte.
-[^58]: A 36. § (3) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte.
+[^58]: A 36. § (2) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte.
+[^59]: A 36. § (3) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte.
