@@ -44,7 +44,9 @@ s) az egyeztetési eljárás és a jogosultsági idő, szolgálati idő igazolá
 
 rendeletben határozza meg.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) Annak a személynek, akinek az öregségi nyugdíjkorhatár emeléséről és az ezzel összefüggő törvénymódosításokról szóló 1996. évi LIX. törvény 21. § (7) bekezdése alapján megállapított átmeneti járadékot, előnyugdíjat vagy korengedményes nyugdíjat folyósítanak vagy folyósítottak, az öregségi, illetőleg az özvegyi nyugdíja megállapításánál a jogosultra irányadó öregségi nyugdíjkorhatár alatt – a Tny. rendelkezéseitől eltérően – az ott meghatározott életkor(oka)t kell érteni.
 

@@ -4,7 +4,9 @@
 
 a) az öregségi nyugdíj,
 
-b)–c)
+b)
+
+c)
 
 d)
 

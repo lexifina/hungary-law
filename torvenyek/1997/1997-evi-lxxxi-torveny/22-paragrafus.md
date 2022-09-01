@@ -20,6 +20,8 @@ i) a Tbj. 41. § (2) bekezdésében meghatározott mezőgazdasági őstermelő e
 
 j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 
+k) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerinti egyéni vállalkozó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
+
 (2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál
 
 a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás (a továbbiakban együtt: álláskeresési támogatás) összegét,
