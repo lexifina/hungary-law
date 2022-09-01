@@ -1,3 +1,5 @@
 178/V. § (1) A 146/A. §-nak a nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel megállapított (10) és (11) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 (2) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+### 178/V. §

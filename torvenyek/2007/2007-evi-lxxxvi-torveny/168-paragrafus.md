@@ -26,6 +26,8 @@ j) az e törvény hatálya alá tartozó panaszeljárásban 55 nap,
 
 k) a közvetlenül alkalmazandó Európai Uniós jogi aktusokban meghatározott és a Hivatal hatáskörébe tartozó eltérés engedélyezésére irányuló eljárásban 4 hónap.
 
+l) az energetikai szabályozási tesztkörnyezethez kapcsolódó eljárásban 152 nap.
+
 (3) Közigazgatási perben a Hivatal megtámadott határozata vonatkozásában a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a határozat
 
 a) végső menedékes kijelölési eljárás során az engedélyes egyes engedélyesi jogait korlátozza, az engedélyt visszavonja vagy végső menedékest jelöl ki,

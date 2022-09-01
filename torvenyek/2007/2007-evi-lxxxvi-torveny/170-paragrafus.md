@@ -221,3 +221,5 @@ e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a 
 8. a demonstrációs projektté minősítés követelményeit és eljárásrendjét.
 
 9. a hálózati engedélyes által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait.
+
+10. a tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az engedélyezhető eltérések részletes tartalmát, a tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai tesztkörnyezetben való részvétel meghosszabbításának a feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezményekkel kapcsolatos részletes szabályokat.

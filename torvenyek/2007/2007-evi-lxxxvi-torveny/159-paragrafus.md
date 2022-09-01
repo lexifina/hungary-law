@@ -105,3 +105,5 @@
 3. éves jelentést készít az ACER és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
 
 (7) A Hivatal egyéb feladatai körében ellátja az energiapolitikáért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésével kapcsolatos feladatokat.
+
+(8) A Hivatal a villamosenergia-ellátással, a villamosenergia-ellátás biztonságának és a villamosenergia-piac hatékony működésének felügyeletével, a felhasználók érdekeinek védelmével kapcsolatos feladatai körében, továbbá az energiapolitikai célkitűzések, valamint a fenntartható fejlődés követelményeinek érvényesítésével összefüggő feladatainak a támogatására energetikai szabályozási tesztkörnyezetet működtethet.
