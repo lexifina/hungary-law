@@ -1,6 +1,6 @@
-## 24. §[^107]
+## 24. §[^132] A 9/B. § (3) bekezdésében foglaltaktól eltérően első alkalommal az választható vezető rezidenssé, aki a szakképzésből már legalább huszonnégy hónapot sikeresen teljesített.
 
-1. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^108]
+1. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^133]
 
 1. A rendszerbevételi eljárás során adható többletpontok
 
@@ -50,5 +50,5 @@
 
 adatok feldolgozása tudományos tevékenységben stb.) 2 pont
 
-[^107]: A 24. § a (4) bekezdés alapján hatályát vesztette.
-[^108]: Az 1. melléklet a 20/2011. (V. 10.) NEFMI rendelet 15. § f) pontja, a 34/2015. (VI. 30.) EMMI rendelet 18. § 6. pontja szerint módosított szöveg.
+[^132]: A 24. § a (4) bekezdés alapján hatályát vesztette, újonnan a 28/2022. (VIII. 25.) BM rendelet 15. §-a iktatta be.
+[^133]: Az 1. melléklet a 20/2011. (V. 10.) NEFMI rendelet 15. § f) pontja, a 34/2015. (VI. 30.) EMMI rendelet 18. § 6. pontja szerint módosított szöveg.

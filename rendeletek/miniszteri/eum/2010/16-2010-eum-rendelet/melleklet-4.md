@@ -1,10 +1,10 @@
-4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^110]
+4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^135]
 
 A támogatott szakképzés szakképzési grémiumai
 
 |  | A | B |
 
-| 1. | Grémium | Minimum létszám - elnökön felül - egyetemenként |
+| 1. | Grémium | Minimum létszám – elnökön felül – egyetemenként |
 
 | 2. | Aneszteziológia és intenzív terápia | 2 |
 
@@ -12,13 +12,13 @@ A támogatott szakképzés szakképzési grémiumai
 
 | 4. | Belgyógyászat | 2 |
 
-| 5. | Bőrgyógyászat | 2 |
+| 5. | Belgyógyászati angiológia | 2 |
 
-| 6. | Csecsemő- és gyermekgyógyászat | 2 |
+| 6. | Bőr-, nemigyógyászat és kozmetológia | 2 |
 
-| 7. | Érsebészet | 2 |
+| 7. | Csecsemő- és gyermekgyógyászat | 2 |
 
-| 8. | Rehabilitációs medicina | 2 |
+| 8. | Érsebészet | 2 |
 
 | 9. | Foglalkozás-orvostan | 2 |
 
@@ -36,17 +36,17 @@ A támogatott szakképzés szakképzési grémiumai
 
 | 16. | Hematológia | 2 |
 
-| 17. | Honvéd-, katasztrófa- és rendvédelem orvostan | országos |
+| 17. | Idegsebészet | 2 |
 
-| 18. | Idegsebészet | 2 |
+| 18. | Igazságügyi orvostan | 2 |
 
-| 19. | Igazságügyi orvostan | 2 |
+| 19. | Infektológia | 2 |
 
-| 20. | Infektológia | 2 |
+| 20. | Kardiológia | 2 |
 
-| 21. | Kardiológia | 2 |
+| 21. | Klinikai genetika | 2 |
 
-| 22. | Klinikai genetika | 2 |
+| 22. | Klinikai laboratóriumi genetika | 2 |
 
 | 23. | Klinikai onkológia | 2 |
 
@@ -76,7 +76,7 @@ A támogatott szakképzés szakképzési grémiumai
 
 | 36. | Radiológia | 2 |
 
-| 37. | Repülőorvostan | országos |
+| 37. | Rehabilitációs medicina | 2 |
 
 | 38. | Reumatológia | 2 |
 
@@ -102,4 +102,4 @@ A támogatott szakképzés szakképzési grémiumai
 
 | 49. | Szakpszichológus | 2 |
 
-[^110]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 28/2016. (IX. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^135]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 16. §-ával megállapított szöveg.

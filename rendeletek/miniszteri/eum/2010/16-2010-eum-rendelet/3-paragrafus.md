@@ -22,14 +22,14 @@ b) második vagy további alap szakképesítésként
 
 (2)[^9] A rendszerbevételi eljárás megszervezésével kapcsolatos (3) bekezdés szerinti feladatokat az OKFŐ látja el.
 
-(3)[^10] Az OKFŐ valamennyi, az (1) bekezdés a) pontja szerinti szakképesítés tekintetében legalább évente egy alkalommal meghirdeti a rendszerbevételi eljárást. A rendszerbevételi eljárás lebonyolításáról az OKFŐ tájékoztatót ad ki, valamint a rendszerbevételi eljárás lebonyolítását legalább 60 nappal megelőzően közzéteszi a rendszerbevételi eljárás időpontját és a jelentkezés feltételéül szolgáló dokumentumok körét.
+(3)[^10] Az OKFŐ valamennyi, az (1) bekezdés a) pontja szerinti szakképesítés tekintetében legalább évente egy alkalommal meghirdeti a rendszerbevételi eljárást. A rendszerbevételi eljárás lebonyolításáról az OKFŐ tájékoztatót ad ki, valamint a rendszerbevételi eljárás lebonyolítását legalább 30 nappal megelőzően közzéteszi a rendszerbevételi eljárás időpontját és a jelentkezés feltételéül szolgáló dokumentumok körét.
 
-(4)[^11] Az (1) bekezdés b) pontja szerinti keretszám tekintetében a rendszerbevételi eljárást az egyetemek bonyolítják le. A rendszerbevételi eljárás lebonyolításáról az egyetem tájékoztatót ad ki, valamint a rendszerbevételi eljárás lebonyolítását legalább 60 nappal megelőzően a honlapján közzéteszi.
+(4)[^11] Az (1) bekezdés b) pontja szerinti keretszám tekintetében a rendszerbevételi eljárást az egyetemek bonyolítják le. A rendszerbevételi eljárás lebonyolításáról az egyetem tájékoztatót ad ki, valamint a rendszerbevételi eljárás lebonyolítását legalább 30 nappal megelőzően a honlapján közzéteszi.
 
 [^5]: A 3. § a 34/2015. (VI. 30.) EMMI rendelet 3. §-ával megállapított szöveg.
 [^6]: A 3. § (1) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1a) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 4. §-a iktatta be.
 [^8]: A 3. § (1b) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 4. §-a iktatta be, szövege az 57/2021. (XII. 27.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
 [^9]: A 3. § (2) bekezdése az 57/2021. (XII. 27.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
-[^10]: A 3. § (3) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 4. § (2) bekezdésével megállapított, az 57/2021. (XII. 27.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
-[^11]: A 3. § (4) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 4. § (3) bekezdése iktatta be, szövege a 24/2020. (VII. 23.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^10]: A 3. § (3) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 4. § (2) bekezdésével megállapított, az 57/2021. (XII. 27.) EMMI rendelet 2. § c) pontja, a 28/2022. (VIII. 25.) BM rendelet 17. § a) pontja szerint módosított szöveg.
+[^11]: A 3. § (4) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 4. § (3) bekezdése iktatta be, szövege a 24/2020. (VII. 23.) EMMI rendelet 1. §-ával megállapított, a 28/2022. (VIII. 25.) BM rendelet 17. § a) pontja szerint módosított szöveg.
