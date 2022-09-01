@@ -1,1 +1,1 @@
-### 2. §
+2. § E törvény eltérő rendelkezése hiányában a határokon átnyúló műveletre a Polgári Törvénykönyvről szóló 2013. évi V. törvénynek (a továbbiakban: Ptk.) és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvénynek (a továbbiakban: Ctv.) az átalakulásra, egyesülésre és szétválásra vonatkozó rendelkezéseit alkalmazni kell.

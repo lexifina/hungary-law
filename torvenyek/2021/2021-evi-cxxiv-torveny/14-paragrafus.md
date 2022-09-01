@@ -1,1 +1,1 @@
-### 14. §
+14. § Az a hitelező, akinek a követelése a 12. § (5) bekezdése szerinti első közzétételt megelőzően keletkezett, a határokon átnyúló átalakulás hatályosulását követő 2 éven belül – az európai uniós vagy a nemzeti jogból, illetve a szerződéses megállapodásból származó joghatósági szabályok sérelme nélkül – Magyarországon is eljárást indíthat a jogutód társaság ellen, a társaság utolsó, cégjegyzékbe bejegyzett székhelye szerinti illetékes hatóság, peres eljárást lefolytató bíróság vagy egyéb szerv előtt a követelésével összefüggésben.

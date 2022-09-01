@@ -1,1 +1,7 @@
-### 37. §
+## 12. Egyszerűsített eljárás határokon átnyúló egyesülés esetén
+
+37. § (1) Ha a határokon átnyúló egyesülés egy olyan társaságba történő beolvadás útján történik, amely rendelkezik az összes olyan részesedéssel és az összes egyéb értékpapírral a beolvadó társaságban, amely a legfőbb szerv ülésén szavazati jogot biztosít, vagy a határokon átnyúló egyesülést olyan személy hajtja végre, aki rendelkezik a beolvadó és az átvevő társaság összes részesedésével és egyéb, a legfőbb szerv ülésén szavazati jogot biztosító értékpapírral, valamint az átvevő társaság az egyesülés során nem ruház át részesedést, akkor a 9. §, a 30. § (1) bekezdés 2., 3., 5. és 13. pontja, a 31. § (2) bekezdése és a 33. § (2) bekezdése nem alkalmazandó. A beolvadó társaság vezető tisztségviselőjének továbbá egyesülési jelentést nem kell készítenie, és a beolvadó társaságok legfőbb szerveinek a határokon átnyúló egyesülés végrehajtásáról nem kell dönteniük.
+
+(2) Ha a határokon átnyúló egyesülés egy olyan társaságba történő beolvadás útján történik, amelynél az átvevő társaság rendelkezik a beolvadó társaság részvényeinek, illetve szavazati jogot biztosító egyéb értékpapírjainak legalább 90%-ával, akkor a 31. § (1) bekezdése szerinti jelentés tagoknak szóló részét nem kell elkészíteni, ha az egyesülő társaságok tagjai egyhangúan így határoznak.
+
+(3) Ha a határokon átnyúló egyesülésben részt vevő valamennyi társaság esetében fennáll az (1) vagy a (2) bekezdésben foglalt feltétel, akkor a 12. § szerinti közzétételre a határokon átnyúló egyesülésről szóló végleges határozat meghozatalát megelőző legalább 30 nappal kell, hogy sor kerüljön.

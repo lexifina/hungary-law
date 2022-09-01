@@ -1,1 +1,3 @@
-### 50. §
+50. § (1) E törvény rendelkezéseit azokban a határokon átnyúló műveletekben kell alkalmazni, amelyekben a társaság a 12. § szerinti közzétételt 2022. szeptember 1. napján vagy azt követően kezdeményezi.
+
+(2) Ha a határokon átnyúló egyesülésben részt vevő tőkeegyesítő társaság 2022. augusztus 31-ig a határokon átnyúló egyesülés végrehajtásáról a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény rendelkezései alapján véglegesen döntött, a határokon átnyúló egyesülés végrehajtásához, illetve bejegyzéséhez szükséges eljárások és egyéb követelmények a 2022. augusztus 31-én hatályos jogszabályi rendelkezések alapján folytatandók le, végzendők el.
