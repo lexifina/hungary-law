@@ -1,4 +1,4 @@
-19/H. § (1) A nyilvántartást kezelő szervtől a törvény alapján az a)–d) pont szerinti adatok megismerésére jogosult szerv a személy azonosítása és a személyazonosság ellenőrzése céljából közvetlen hozzáféréssel adatszolgáltatást kérhet a polgár
+19/H. § (1) A nyilvántartást kezelő szervtől a törvény alapján az a)–d) pont szerinti adatok megismerésére jogosult szerv a személy – ideértve az elhunyt személyt – azonosítása és a személyazonosság ellenőrzése céljából közvetlen hozzáféréssel adatszolgáltatást kérhet a polgár
 
 a) természetes személyazonosító adatairól,
 
