@@ -516,7 +516,7 @@ a) belső szabályzatban foglaltak alapján, az azonos helyzetben lévőket egye
 
 b) a Magyar Nemzeti Bank mellett működő Pénzügyi Békéltető Testület előtti eljárás keretében megkötött egyezség alapján vagy
 
-c) a Magyar Nemzeti Banknak a fizetési késedelembe esett lakossági jelzáloghitelek helyreállításáról szóló ajánlása alapján, az adós fizetőképességének helyreállítása érdekében
+c) a Magyar Nemzeti Banknak a pénzügyi intézmények számára a fizetési késedelemmel érintett lakossági hitel-, kölcsön- és pénzügyi lízingszerződések kezelés során elvárt fogyasztóvédelmi elvekről szóló 5/2022. (IV. 22.) MNB ajánlása alapján, az adós fizetőképességének helyreállítása érdekében
 
 kerül sor.
 
