@@ -18,7 +18,7 @@ d)[^12] a 2017. év vonatkozásában benyújtott egységes kérelemben feltünte
 
 e)[^14] a Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az agrárgazdasághoz kapcsolódó hitel- és garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 23/2020. (VI. 19.) AM rendelet hatálybalépésének napja[^15] és 2020. december 31. között (a határnapokat is beleértve) megkötött hitelszerződéssel rendelkező vállalkozás a hitelek megkötésével, fenntartásával kapcsolatban esedékessé vált, a (2) bekezdésben meghatározott költségek vonatkozásában csekély összegű támogatás igénybevételére jogosult.
 
-f)[^16] az MFB Agrár Forgóeszköz Hitelprogram 2020-ban a 49/2021. (XII. 28.) AM rendelet hatálybalépését követő nap és 2022. június 30. között – a határnapokat is beleértve – megkötött, sertéstenyésztés felhasználási célú hitelszerződéssel rendelkező vállalkozás a hitelek megkötésével, fenntartásával kapcsolatban esedékessé vált, a (2) bekezdésben meghatározott költségek vonatkozásában csekély összegű támogatás igénybevételére jogosult.
+f)[^16] az MFB Agrár Forgóeszköz Hitelprogram 2020-ban a 49/2021. (XII. 28.) AM rendelet hatálybalépését követő nap és 2022. december 31. között – a határnapokat is beleértve – megkötött, sertéstenyésztés felhasználási célú hitelszerződéssel rendelkező vállalkozás a hitelek megkötésével, fenntartásával kapcsolatban esedékessé vált, a (2) bekezdésben meghatározott költségek vonatkozásában csekély összegű támogatás igénybevételére jogosult.
 
 (2)[^17] A támogatás mértéke a hitelbírálati díj, a szerződéskötési díj, a közjegyzői díj, a fedezetek értékbecslési költsége, a rendelkezésre tartási jutalék és a kezelési költség – általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén nettó összegének, ÁFA-levonási joggal nem rendelkezők esetén bruttó összegének – 100%-a azzal, hogy a támogatás együttes összege nem haladhatja meg a vállalkozás és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás rendelkezésére álló szabad csekély összegű támogatási keretet. A hitelbírálati díjjal, a szerződéskötési díjjal, a közjegyzői díjjal összefüggésben a hitel futamideje alatt csak egy alkalommal felmerült költséggel összefüggésben igényelhető támogatás.
 
@@ -33,6 +33,6 @@ f)[^16] az MFB Agrár Forgóeszköz Hitelprogram 2020-ban a 49/2021. (XII. 28.) 
 [^13]: A hatálybalépés időpontja 2017. december 23.
 [^14]: A 2. § (1) bekezdés e) pontját a 23/2020. (VI. 19.) AM rendelet 9. §-a iktatta be.
 [^15]: A hatálybalépés időpontja 2020. június 22.
-[^16]: A 2. § (1) bekezdés f) pontját a 49/2021. (XII. 28.) AM rendelet 14. §-a iktatta be.
+[^16]: A 2. § (1) bekezdés f) pontját a 49/2021. (XII. 28.) AM rendelet 14. §-a iktatta be, szövege a 26/2022. (VIII. 31.) AM rendelet 16. §-a szerint módosított szöveg.
 [^17]: A 2. § (2) bekezdése a 23/2020. (VI. 19.) AM rendelet 10. §-a szerint módosított szöveg.
 [^18]: A 2. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 30. §-ával megállapított, a 39/2017. (VIII. 7.) FM rendelet 19. § a) pontja szerint módosított szöveg.

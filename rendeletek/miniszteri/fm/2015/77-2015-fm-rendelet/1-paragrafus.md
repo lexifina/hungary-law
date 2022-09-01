@@ -34,7 +34,7 @@ megkötött hitelszerződéssel rendelkezik,
 
 b) a hitelprogramban meghatározott jogosultsági feltételeknek megfelel és a hitelprogram keretében a Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az agrárgazdasághoz kapcsolódó hitel- és garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 23/2020. (VI. 19.) AM rendelet hatálybalépésének napja[^4] és 2020. december 31. között (a határnapokat is beleértve) megkötött hitelszerződéssel rendelkezik;
 
-c)[^5] az MFB Agrár Forgóeszköz Hitelprogram 2020-ban meghatározott jogosultsági feltételeknek megfelel és az MFB Agrár Forgóeszköz Hitelprogram 2020 keretében az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 49/2021. (XII. 28.) AM rendelet [a továbbiakban: 49/2021. (XII. 28.) AM rendelet] hatálybalépését követő nap és 2022. június 30. között – határnapokat is beleértve – megkötött, sertéstenyésztés felhasználási célú hitelszerződéssel rendelkezik.
+c)[^5] az MFB Agrár Forgóeszköz Hitelprogram 2020-ban meghatározott jogosultsági feltételeknek megfelel és az MFB Agrár Forgóeszköz Hitelprogram 2020 keretében az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 49/2021. (XII. 28.) AM rendelet [a továbbiakban: 49/2021. (XII. 28.) AM rendelet] hatálybalépését követő nap és 2022. december 31. között – határnapokat is beleértve – megkötött, sertéstenyésztés felhasználási célú hitelszerződéssel rendelkezik.
 
 7.[^6] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
@@ -42,5 +42,5 @@ c)[^5] az MFB Agrár Forgóeszköz Hitelprogram 2020-ban meghatározott jogosult
 [^2]: Az 1. § 6. pontja a 23/2020. (VI. 19.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^3]: A hatálybalépés időpontja 2017. december 23.
 [^4]: A hatálybalépés időpontja 2020. június 22.
-[^5]: Az 1. § 6. pont c) alpontját a 49/2021. (XII. 28.) AM rendelet 13. §-a iktatta be.
+[^5]: Az 1. § 6. pont c) alpontját a 49/2021. (XII. 28.) AM rendelet 13. §-a iktatta be, szövege a 26/2022. (VIII. 31.) AM rendelet 16. §-a szerint módosított szöveg.
 [^6]: Az 1. § 7. pontját az 51/2016. (VII. 21.) FM rendelet 29. §-a iktatta be.
