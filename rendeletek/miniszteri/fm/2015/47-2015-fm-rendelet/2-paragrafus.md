@@ -22,7 +22,7 @@ e)[^23] a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő települé
 
 f)[^25] a Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az agrárgazdasághoz kapcsolódó hitel- és garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 23/2020. (VI. 19.) AM rendelet hatálybalépésének napja[^26] és 2020. december 31. között (a határnapokat is beleértve) hatályossá vált hitelszerződések esetében a támogatás mértéke az esedékes kamatfizetésekhez kapcsolódóan legfeljebb 100% kamattámogatás a hitel teljes futamidejére.
 
-g)[^27] az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 49/2021. (XII. 28.) AM rendelet hatálybalépését követő nap és 2022. június 30. között – határnapokat is beleértve – hatályba lépett, sertéstenyésztés felhasználási célú hitelszerződés esetén a támogatás mértéke minden megkezdett egész állategység után számított, állategységenként legfeljebb ötszázezer forint összegű hitel kamatfizetései tekintetében 100% kamattámogatás a hitel teljes futamidejére azzal, hogy a 100%-os kamattámogatáson felüli hitelösszeg vonatkozásában a kamattámogatás mértéke megegyezik a b) pontban foglalt mértékkel, és az a rá vonatkozó szabályok szerint vehető igénybe.
+g)[^27] az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 49/2021. (XII. 28.) AM rendelet hatálybalépését követő nap és 2022. december 31. között – határnapokat is beleértve – hatályba lépett, sertéstenyésztés felhasználási célú hitelszerződés esetén a támogatás mértéke minden megkezdett egész állategység után számított, állategységenként legfeljebb ötszázezer forint összegű hitel kamatfizetései tekintetében 100% kamattámogatás a hitel teljes futamidejére azzal, hogy a 100%-os kamattámogatáson felüli hitelösszeg vonatkozásában a kamattámogatás mértéke megegyezik a b) pontban foglalt mértékkel, és az a rá vonatkozó szabályok szerint vehető igénybe.
 
 (2a)[^28] A (2) bekezdés g) pontja alkalmazásában amennyiben a hitel összege meghaladja a 100%-os kamattámogatásban részesíthető hitel összegét és a hitelhez az Agrár- Vállalkozási Hitelgarancia Alapítvány készfizető kezessége kapcsolódik, akkor a 100%-os kamattámogatásban részesíthető hitelösszegen felüli hitelre külön hitelszerződést kell kötni.
 
@@ -39,6 +39,6 @@ g)[^27] az egyes agrártámogatási tárgyú miniszteri rendeletek módosítás�
 [^24]: A hatálybalépés időpontja 2017. december 23.
 [^25]: A 2. § (2) bekezdés f) pontját a 23/2020. (VI. 19.) AM rendelet 3. §-a iktatta be, szövege a 18/2021. (IV. 14.) AM rendelet 8. § a) pontja szerint módosított szöveg.
 [^26]: A hatálybalépés időpontja 2020. június 22.
-[^27]: A 2. § (2) bekezdés g) pontját a 49/2021. (XII. 28.) AM rendelet 9. § (1) bekezdése iktatta be.
+[^27]: A 2. § (2) bekezdés g) pontját a 49/2021. (XII. 28.) AM rendelet 9. § (1) bekezdése iktatta be, szövege a 26/2022. (VIII. 31.) AM rendelet 11. §-a szerint módosított szöveg.
 [^28]: A 2. § (2a) bekezdését a 49/2021. (XII. 28.) AM rendelet 9. § (2) bekezdése iktatta be.
 [^29]: A 2. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 26. §-ával megállapított, a 14/2019. (IV. 10.) AM rendelet 34. §-a szerint módosított szöveg.
