@@ -68,6 +68,8 @@ a megállapításáról szóló értesítés esetén a behajtást kérő megkere
 
 23. a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. § (1) bekezdése szerinti bejelentés, a 7. § (5) bekezdése szerinti változás bejelentés és a 8. § (11) bekezdése szerinti bejelentés.
 
+24. a kisadózó vállalkozók tételes adójáról szóló törvény 7. § (11) bekezdés szerinti bejelentés.
+
 (2) Az okirat végrehajthatóságához külön intézkedésre nincs szükség.
 
 (3) A tartozás után felszámított pótlék, kamat, a végrehajtási költségátalány és költségminimum az adótartozásra vonatkozó végrehajtható okirat alapján hajtható végre.
