@@ -32,7 +32,7 @@ hb) az egyéb jogcímen – ide nem értve a f) pont és a (2) bekezdés szerint
 
 hc) a saját jogú nyugdíjast és az özvegyi nyugdíjban részesülő személyt, aki az öregségi nyugdíjkorhatárt betöltötte,
 
-i) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint a főállású kisadózóként bejelentett személy,
+i) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személy;
 
 j) állami projektértékelői jogviszonyban álló személy, ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
 
