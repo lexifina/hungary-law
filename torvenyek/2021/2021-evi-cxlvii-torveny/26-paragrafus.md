@@ -1,1 +1,1 @@
-26. §
+26. § Hatályát veszti a felnőttképzésről szóló 2013. évi LXXVII. törvény 25. § (6) bekezdésében az „és a jogosultság feltételeinek fennállását a jogosultsági feltételre vonatkozó adatot kezelő szerv közvetlen megkeresése útján ellenőrizheti” szövegrész.
