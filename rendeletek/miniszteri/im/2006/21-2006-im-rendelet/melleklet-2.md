@@ -24,9 +24,7 @@
 
 ## hb) A cég cégjegyzékszáma (Az eredeti cégbejegyzési eljárás során kapott cégjegyzékszámot kell megadni.)
 
-## i) Átalakulás, egyesülés, szétválás bejegyzésének kérelme esetén annak jelölése, ha az új adatok, illetőleg a módosuló adatok változásának időpontját az átalakulás, egyesülés, szétválás napjával kéri bejegyezni. (Átalakulás, egyesülés, szétválás esetén az egyes rovatoknál a kezdő időpontot, valamint a változások időpontját nem kell megadni, a 16. rovat egyértelmű kitöltése azonban szükséges.)
-
-## j) Annak jelölése, ha a 2007. évi CXL. törvény 13/A-13/D. § szerinti határokon átnyúló egyesülésben átvevő társaságként való részvétel céljára alapított társaság bejegyzését kéri.
+## i) Átalakulás, egyesülés, szétválás vagy határokon átnyúló átalakulás, egyesülés, szétválás bejegyzésének kérelme esetén annak jelölése, ha az új adatok, illetve a módosuló adatok változásának időpontját az átalakulás, egyesülés, szétválás napjával kéri bejegyezni. (Az egyes rovatoknál a kezdő időpontot, valamint a változások időpontját nem kell megadni, a 16. rovat vagy a 63. rovat egyértelmű kitöltése azonban szükséges.)j) Annak jelölése, ha a 2007. évi CXL. törvény 13/A-13/D. § szerinti határokon átnyúló egyesülésben átvevő társaságként való részvétel céljára alapított társaság bejegyzését kéri.
 
 ## k) A mellékletek száma fajtánként és nyelvenként részletezve (Meg kell adni a kérelemhez benyújtott mellékleteket fajtánként részletezve. A cégbejegyzési kérelemhez csatolható a cégiratoknak az Európai Unió bármely hivatalos nyelvén készült hiteles fordítása. Ebben az esetben meg kell adni a csatolt melléklet nyelvét is. A magyar nyelvű cégiratoknál nem szükséges feltüntetni a nyelvet. Amennyiben olyan okiratot csatolnak, amelyben egymás mellett szerepel a magyar nyelvű szöveg, valamint annak fordítása (tükörfordítás), akkor az ilyen okiratot egy okiratnak kell tekinteni, de nyelvként meg kell jelölni – vesszővel elválasztva – a magyar nyelvet és az idegen nyelvet is. Az Európai Unió hivatalos nyelvei: a magyaron kívül angol, bolgár, cseh, dán, észt, finn, francia, görög, holland, horvát, ír, lengyel, lett, litván, máltai, német, olasz, portugál, román, spanyol, svéd, szlovák, szlovén.)
 
@@ -292,7 +290,7 @@
 
 ## i) Határozott időre szóló megbízás esetén a jogviszony vége
 
-## 15.) 16. rovat: Átalakulás, egyesülés, szétválás folytán létrejött cég esetében a jogelőd cég(ek) adatai (egyesülés, szétválás esetén több jogelőd cég is megadható):
+## 15.) 16. rovat: Átalakulás, egyesülés, szétválás folytán létrejött cég esetében a jogelőd cég(ek) adatai (Belföldi jogelőddel és jogutóddal történő átalakulás, egyesülés, szétválás esetén kitöltendő. Egyesülés, szétválás esetén több jogelőd cég is megadható):
 
 ## a) Jogutódlás típusa (egy jelölhető, egy kötelezően jelölendő):
 
@@ -300,21 +298,21 @@
 
 ## ab) Egyesülés módja:
 
-## - beolvadás
+## – beolvadás
 
-## - az előző pontba nem tartozó olyan beolvadás, ahol a cég egyedüli tagjával egyesül
+## – az előző pontba nem tartozó olyan beolvadás, ahol a cég egyedüli tagjával egyesül
 
-## - összeolvadás
+## – összeolvadás
 
 ## ac) Szétválás módja:
 
-## - kiválás
+## – kiválás
 
-## - különválás
+## – különválás
 
-## - beolvadásos kiválás
+## – beolvadásos kiválás
 
-## - beolvadásos különválás
+## – beolvadásos különválás
 
 ## b) Az átalakult, egyesült, szétvált cég jogelőd cégének cégjegyzékszáma
 
@@ -322,15 +320,11 @@
 
 ## d) Annak jelölése, ha a cég (szervezet) EUID-val nem rendelkezik
 
-## e) Külföldi cég, szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási száma
+## e) Az átalakult, egyesült, szétvált cég jogelőd cégének elnevezése
 
-## f) Külföldi cég, szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási hatóság
+## f) Az átalakult, egyesült, szétvált cég jogelőd cégének székhelye
 
-## g) Az átalakult, egyesült, szétvált cég jogelőd cégének elnevezése
-
-## h) Az átalakult, egyesült, szétvált cég jogelőd cégének székhelye
-
-## i) Az átalakulás, az egyesülés, a szétválás cég által meghatározott időpontja (abban az esetben kell megadni, ha az átalakuló, szétváló, egyesülő cég az átalakulás, az egyesülés, a szétválás időpontját meghatározza)
+## g) Az átalakulás, az egyesülés, a szétválás cég által meghatározott időpontja (abban az esetben kell megadni, ha az átalakuló, szétváló, egyesülő cég az átalakulás, az egyesülés, a szétválás időpontját meghatározza)
 
 ## 16.) 18. rovat:
 
@@ -402,7 +396,49 @@
 
 ## a) A nyelv megadása
 
-## 27.)
+## 27.) 63. rovat: Tőkeegyesítő társaságok határokon átnyúló átalakulása, egyesülése, szétválása esetében a jogelőd tőkeegyesítő társaság(ok) adatai (egyesülés, szétválás esetén több jogelőd is megadható):
+
+## a) Jogutódlás típusa (egy jelölhető, egy kötelezően jelölendő):
+
+## aa) Határokon átnyúló átalakulás
+
+## ab) Határokon átnyúló egyesülés módja:
+
+## – beolvadás
+
+## – az előző pontba nem tartozó olyan beolvadás, ahol a tőkeegyesítő társaság egyedüli tagjával egyesül, vagy az egyesülő tőkeegyesítő társaság tagjai valamennyi egyesülő társaságban azonos arányban rendelkeznek részesedéssel
+
+## – összeolvadás
+
+## ac) Határokon átnyúló szétválás módja:
+
+## – kiválás
+
+## – különválás
+
+## – beolvadásos kiválás
+
+## – beolvadásos különválás
+
+## – felosztás általi szétválás
+
+## b) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének székhely szerinti országkódja
+
+## c) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének cégjegyzékszáma
+
+## d) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének EUID-ja
+
+## e) Annak jelölése, ha a jogelőd tőkeegyesítő társaság EUID-val nem rendelkezik
+
+## f) Ha ilyen adattal rendelkezik, a külföldi jogelőd tőkeegyesítő társaság nyilvántartási száma
+
+## g) Ha ilyen adattal rendelkezik, a külföldi jogelőd tőkeegyesítő társaságot nyilvántartó hatóság
+
+## h) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének elnevezése
+
+## i) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének székhelye /külföldi székhelye
+
+## j) A határokon átnyúló átalakulás, egyesülés, szétválás tőkeegyesítő társaság által meghatározott időpontja (abban az esetben kell megadni, ha az átalakuló, szétváló, egyesülő cég az átalakulás, az egyesülés, a szétválás időpontját meghatározza)
 
 ## C)
 
@@ -1524,7 +1560,7 @@
 
 ## h) Ha a cég ismételt változásbejegyzési kérelmet nyújt be, e tény jelölése,
 
-## i) Átalakulás, egyesülés, szétválás bejegyzésének kérelme esetén annak jelölése, ha az új adatok, illetőleg a módosuló adatok változásának időpontját az átalakulás, egyesülés, szétválás napjával kéri bejegyezni. (Átalakulás, egyesülés, szétválás esetén az egyes rovatoknál a kezdő időpontot, valamint a változások időpontját nem kell megadni, a 16. és 22. rovatok egyértelmű kitöltése azonban szükséges.)
+## i) Átalakulás, egyesülés, szétválás vagy határokon átnyúló átalakulás, egyesülés, szétválás bejegyzésének kérelme esetén annak jelölése, ha az új adatok, illetve a módosuló adatok változásának időpontját az átalakulás, egyesülés, szétválás napjával kéri bejegyezni. (Az egyes rovatoknál a kezdő időpontot, valamint a változások időpontját nem kell megadni, a 16. és a 22. rovatok vagy a 63. és a 64. rovatok egyértelmű kitöltése azonban szükséges.)
 
 ## j) Annak jelölése, ha a cég a Ctv. 50. § (2b) bekezdése szerinti eljárás lefolytatását kéri.
 
@@ -1586,7 +1622,7 @@
 
 ## e) Változásbejegyzési kérelem további általános adatok közé tartozó tartalmi elemei (rovatai) az alábbiak:
 
-## 2.) 22. rovat: A jogutód cég(ek) adatai (több jogutód is megadható):
+## 2.) 22. rovat: A jogutód cég(ek) adatai (Belföldi jogelőddel és jogutóddal történő átalakulás, egyesülés, szétválás esetén kitöltendő. Több jogutód is megadható):
 
 ## a) Jogutódlás típusa (egy jelölhető, egy kötelezően jelölendő):
 
@@ -1594,21 +1630,21 @@
 
 ## ab) Egyesülés módja:
 
-## - beolvadás
+## – beolvadás
 
-## - az előző pontba nem tartozó olyan beolvadás, ahol a cég egyedüli tagjával egyesül
+## – az előző pontba nem tartozó olyan beolvadás, ahol a cég egyedüli tagjával egyesül
 
-## - összeolvadás
+## – összeolvadás
 
 ## ac) Szétválás módja:
 
-## - kiválás
+## – kiválás
 
-## - különválás
+## – különválás
 
-## - beolvadásos kiválás
+## – beolvadásos kiválás
 
-## - beolvadásos különválás
+## – beolvadásos különválás
 
 ## b) Az átalakult, egyesült, szétvált cég jogutód cégének cégjegyzékszáma
 
@@ -1616,15 +1652,11 @@
 
 ## d) Annak jelölése, ha a jogutód EUID-val nem rendelkezik
 
-## e) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási szám
+## e) A jogutód elnevezése
 
-## f) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási hatóság
+## f) A jogutód székhelye
 
-## g) A jogutód elnevezése
-
-## h) A jogutód székhelye/külföldi székhelye
-
-## i) Az átalakulás, egyesülés, szétválás cég által meghatározott időpontja
+## g) Az átalakulás, egyesülés, szétválás cég által meghatározott időpontja
 
 ## 3.) 25. rovat: A jogutód nélküli megszűnés elhatározásának időpontja (szükség szerint törölhető, új alszámmal módosítható az adat):
 
@@ -1641,6 +1673,52 @@
 ## c) Annak jelölése, ha a végelszámolás a továbbiakban nem az egyszerűsített végelszámolás szabályai szerint folytatódik
 
 ## d) Annak jelölése, ha a végelszámolás befejezésére a cég fennmaradásával került sor
+
+## 5.) 64. rovat: Tőkeegyesítő társaságok határokon átnyúló átalakulása, egyesülése, szétválása esetében a jogutód tőkeegyesítő társaság(ok) adatai (egyesülés, szétválás esetén több jogutód is megadható):
+
+## a) Jogutódlás típusa (egy jelölhető, egy kötelezően jelölendő):
+
+## aa) Határokon átnyúló átalakulás
+
+## ab) Határokon átnyúló egyesülés módja:
+
+## – beolvadás
+
+## – az előző pontba nem tartozó olyan beolvadás, ahol a tőkeegyesítő társaság egyedüli tagjával egyesül, vagy az egyesülő tőkeegyesítő társaság tagjai valamennyi egyesülő társaságban azonos arányban rendelkeznek részesedéssel
+
+## – összeolvadás
+
+## ac) Határokon átnyúló szétválás módja:
+
+## – kiválás
+
+## – különválás
+
+## – beolvadásos kiválás
+
+## – beolvadásos különválás
+
+## – felosztás általi szétválás
+
+## b) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának székhely szerinti országkódja
+
+## c) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának cégjegyzékszáma
+
+## d) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának EUID-ja
+
+## e) Annak jelölése, ha a jogutód tőkeegyesítő társaság EUID-val nem rendelkezik
+
+## f) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának társasági formája (cégformája)
+
+## g) Ha ilyen adattal rendelkezik, a külföldi tőkeegyesítő társaság nyilvántartási száma
+
+## h) Ha ilyen adattal rendelkezik, a külföldi tőkeegyesítő társaságot nyilvántartó hatóság
+
+## i) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának elnevezése
+
+## j) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának székhelye /külföldi székhelye
+
+## k) A határokon átnyúló átalakulás, egyesülés, szétválás tőkeegyesítő társaság által meghatározott időpontja (abban az esetben kell megadni, ha az átalakuló, szétváló, egyesülő cég az átalakulás, az egyesülés, a szétválás időpontját meghatározza)
 
 ## G)
 

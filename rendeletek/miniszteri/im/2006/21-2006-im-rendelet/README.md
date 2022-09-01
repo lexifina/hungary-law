@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-21-20-0
 | 2020-08-05 | 2006-21-20-06.33 | 1/2006. (VI. 26.) IRM rendelet |
 | 2022-02-01 | 2006-21-20-06.34 | 7/2008. (IV. 15.) IRM rendelet |
 | 2022-08-01 | 2006-21-20-06.35 | 6/2022. (IV. 4.) IM rendelet |
+| 2022-09-01 | 2006-21-20-06.36 | 6/2022. (IV. 4.) IM rendelet |
