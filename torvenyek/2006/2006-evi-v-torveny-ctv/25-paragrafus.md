@@ -48,6 +48,24 @@ z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként sz
 
 (1a) A cégbíróság hivatalból jegyzi be az EUID-val rendelkező cég cégjegyzékébe a cég Európai Unió más tagállamában bejegyzett fióktelepét, ha a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül értesítést kap a fióktelep bejegyzéséről.
 
+(1b) A cégjegyzék – az (1) bekezdésben foglaltakon túl – szükség szerint tartalmazza továbbá határokon átnyúló átalakulás, határokon átnyúló egyesülés vagy határokon átnyúló szétválás esetén
+
+a) a jogelőd, jogelődök nevét, székhelyét, nyilvántartási számát,
+
+b) a jogelőd, jogelődök társasági formáját,
+
+c) a jogelőd, jogelődök székhelye szerinti országkódját,
+
+d) a jogutód, jogutódok nevét, székhelyét, nyilvántartási számát,
+
+e) a jogutód, jogutódok társasági formáját,
+
+f) a jogutód, jogutódok székhelye szerinti országkódját,
+
+g) a határokon átnyúló átalakulás, a határokon átnyúló egyesülés vagy a határokon átnyúló szétválás időpontját,
+
+h) a tanúsítvány kiadásának időpontját, azt a tényt, hogy a cég törlésére vagy jogutódként való bejegyzésére határokon átnyúló átalakulás, határokon átnyúló egyesülés vagy határokon átnyúló szétválás eredményeként került sor.
+
 (2) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég közösségi adószámának törlését, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
 (3) A cégbíróság az (1) bekezdés p) pontjában meghatározott adatot – az elismert vállalatcsoport uralkodó tagjának a vállalatcsoport létrehozására vonatkozó bejelentése alapján – hivatalból jegyzi be a többi érintett cég (ellenőrzött társaság) cégjegyzékébe.

@@ -10,7 +10,7 @@ d) végelszámolási eljárás esetén „végelszámolás alatt” („v. a.”
 
 e) kényszertörlési eljárás esetén „kényszertörlés alatt” („kt. a.”),
 
-f) határokon átnyúló egyesülés céljára létrejövő cég esetén „egyesülés céljára alapított” („e.a.”)
+f)
 
 g) nyilvános szerkezetátalakítási eljárás esetén „szerkezetátalakítás alatt („sz. a.”)
 

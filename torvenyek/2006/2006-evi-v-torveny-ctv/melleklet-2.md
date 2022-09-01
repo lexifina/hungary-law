@@ -164,11 +164,35 @@
 
 ## 7. szétválás esetén a szétválási terv.
 
-## 8. tanúsítvány kiadásához az 1., a 2., a 4–6. pontok alatti okiratok, a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény (a továbbiakban: Tetv.) 6. § (2) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+## 8. tanúsítvány kiadásához
 
-## 9. a határon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez az 1., a 2., a 4–6. pontok alatti okiratok, a tanúsítvány, a Tetv. 12. § (3) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+## a) a határokon átnyúló átalakulás tervezete, az egyesülési tervezet vagy a szétválási tervezet,
 
-## 10. a Tetv. 13/D. § szerinti bejegyzés esetén az 1., a 2., az 5. pontok alatti okiratok, a tanúsítvány, a Tetv. 12. § (3) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+## b) a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény (a továbbiakban: Tetv.) 10. §-a szerinti jelentés vagy jelentések és adott esetben a mellé csatolt vélemény, valamint a Tetv. 9. §-a szerint könyvvizsgálói jelentés, amennyiben ezek rendelkezésre állnak,
+
+## c) a b) alpontban foglalt iratokra a Tetv. rendelkezései alapján benyújtott esetleges észrevételek,
+
+## d) a legfőbb szerv határozatai,
+
+## e) a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+
+## f) a munkavállalói részvételi szabályokkal összefüggésben
+
+## fa) a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásáról szóló megállapodás, vagy
+
+## fb) a különleges tárgyaló testület határozata arról, hogy a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásáról nem kezdenek tárgyalásokat, vagy a megkezdett tárgyalásokat berekesztik, vagy
+
+## fc) a határokon átnyúló műveletben részt vevő társaság vezető tisztségviselőjének nyilatkozata, több részt vevő társaság esetén a vezető tisztségviselők közös nyilatkozata arról, hogy a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásának szabályairól – az európai részvénytársaságról szóló törvényben meghatározott határidőn belül – a különleges tárgyaló testülettel megállapodás nem jött létre.
+
+## 9. a határokon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez
+
+## a) az I. és II. pontban, valamint a 2. számú mellékletben meghatározott okiratok,
+
+## b) a 8. pont f) alpontja szerinti okirat,
+
+## c) a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+
+## 10.
 
 ## IV. Felszámolás esetén szükséges okiratok:
 

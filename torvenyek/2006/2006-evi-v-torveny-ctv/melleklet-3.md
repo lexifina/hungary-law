@@ -206,11 +206,11 @@
 
 ## III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
-## 1. az átalakulást megelőzően még be nem fizetett, illetve nem szolgáltatott vagyoni hozzájárulás teljesítésének igazolása, kivéve a Tetv. 13/A.–13/D. § szerinti esetben;
+## 1.
 
 ## 2. ha ilyen működik a cégnél, a felügyelőbizottságnak az átalakulással kapcsolatos nyilatkozata;
 
-## 3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása, a Tetv. 13/A. §–13/D. § szerinti esetben annak igazolása, hogy a teljes jegyzett tőke rendelkezésre bocsátásra került;
+## 3.
 
 ## 4. ha az egyesülés vállalkozások összefonódását jelenti, a Gazdasági Versenyhivatal engedélye vagy a cég nyilatkozata arra vonatkozóan, hogy az összefonódás nem engedélyköteles;
 
