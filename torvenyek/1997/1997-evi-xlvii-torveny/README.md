@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-47-00-00
 | 2021-12-01 | 2021. évi XCIX. törvény | 1997-47-00-00.60 |
 | 2022-01-01 | 2021. évi CXLVIII. törvény | 1997-47-00-00.61 |
 | 2022-06-01 | 2022. évi V. törvény | 1997-47-00-00.62 |
+| 2022-09-01 | 2022. évi V. törvény | 1997-47-00-00.63 |
