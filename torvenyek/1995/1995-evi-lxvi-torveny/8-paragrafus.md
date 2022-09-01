@@ -4,7 +4,7 @@
 
 a) működteti a levéltári szakmai testületet és a levéltári szakfelügyeletet,
 
-b) szabályozza
+b) szabályozza és ellenőrzi – az elektronikus iratok biztonságos másolatának átadására és tárolására vonatkozó kormányrendeletben meghatározott eltéréssel –
 
 ba) a levéltári állomány gyarapításával és a levéltári gyűjtőmunkával kapcsolatos feladatokat, a maradandó értékű irattári és levéltári anyag illetékességből történő átvételét, az iratok cseréjét és letéti megőrzését,
 

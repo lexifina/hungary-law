@@ -26,7 +26,7 @@ iratkezelése, iratai, valamint minden olyan közfeladatot ellátó szerv iratke
 
 a) a külön jogszabályban meghatározott szakmai követelmények érvényesítése érdekében módszertani ajánlásokat és egyéb segédanyagokat dolgoz ki, s azokat a kultúráért felelős miniszter egyetértésével közzéteszi.
 
-b) mint elektronikus ügyintézésre kötelezett szerv biztosítja az elektronikus ügyintézésre vonatkozó jogszabályokban előírt kötelezettségek teljesítését;
+b) mint elektronikus ügyintézés biztosítására kötelezett szerv biztosítja az elektronikus ügyintézésre vonatkozó jogszabályokban előírt kötelezettségek teljesítését;
 
 c) nyilvántartja a közlevéltárakat és a magánlevéltárakat;
 
@@ -49,3 +49,5 @@ k) ellátja a levéltári szakfelügyelet működtetésével kapcsolatos teendő
 l) gyakorolja a 34. § (1) bekezdésében meghatározott elővásárlási jogát;
 
 m) a kultúráért felelős miniszter által meghatározott szempontok szerint gyűjti és feldolgozza a közlevéltárak, valamint a nyilvános magánlevéltárak működésével kapcsolatos adatokat.
+
+(3) A Magyar Nemzeti Levéltár a levéltári anyaggal kapcsolatos, a Kormány rendeletében meghatározott elektronikus adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – legalább a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben biztonsági mentéseket hoz létre, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldi. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.

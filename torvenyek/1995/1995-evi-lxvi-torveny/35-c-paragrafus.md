@@ -1,0 +1,1 @@
+35/C. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Magyar Nemzeti Levéltárnak a levéltári anyaggal kapcsolatos adatai biztonsági mentésének rendjét és gyakoriságát, a biztonsági mentéssel érintett adatok körét, valamint az adatok őrzéséért felelős szervet.
