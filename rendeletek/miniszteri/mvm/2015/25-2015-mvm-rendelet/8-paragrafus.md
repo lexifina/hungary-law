@@ -1,12 +1,12 @@
 ## 7. §[^14]
 
-8. § (1) A fővárosi és megyei kormányhivatalokat vezető kormánymegbízottak a kormányhivatalok honvédelmi feladatainak megszervezése és végrehajtása érdekében gondoskodnak:
+8. § (1)[^15] A fővárosi és megyei kormányhivatalokat vezető főispánok a kormányhivatalok honvédelmi feladatainak megszervezése és végrehajtása érdekében gondoskodnak:
 
 a) a honvédelmi feladatok végrehajtásában részt vevő szervezeti egységek kijelöléséről, a feladatok végrehajtásához szükséges feltételek megteremtéséről;
 
 b) a fővárosi és megyei kormányhivatalokon belüli riasztási-értesítési rendszer megszervezéséről és az ügyeleti szolgálat biztosításáról;
 
-c)[^15] a fővárosi és megyei kormányhivatalok KMR-ben való működőképességének fenntartására vonatkozó, valamint a honvédelmi feladatok ellátásával kapcsolatos egyéb védelmi igazgatási tervek elkészítéséről és kiadásáról;
+c)[^16] a fővárosi és megyei kormányhivatalok KMR-ben való működőképességének fenntartására vonatkozó, valamint a honvédelmi feladatok ellátásával kapcsolatos egyéb védelmi igazgatási tervek elkészítéséről és kiadásáról;
 
 d) a c) pont szerinti egyéb védelmi igazgatási tervek időszakos felülvizsgálatáról és a szükséges módosítások elvégzéséről;
 
@@ -31,4 +31,5 @@ c) a lakosság honvédelmi célú tájékoztatásában, szükség esetén a rias
 d) a honvédelmi célú felkészítések végrehajtásában.
 
 [^14]: A 7. §-t a 8/2021. (V. 31.) MvM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^15]: A 8. § (1) bekezdés c) pontja a 8/2019. (V. 13.) MvM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 8. § (1) bekezdés nyitó szövegrésze a 12/2022. (VIII. 31.) MvM rendelet 1. §-a szerint módosított szöveg.
+[^16]: A 8. § (1) bekezdés c) pontja a 8/2019. (V. 13.) MvM rendelet 2. §-ával megállapított szöveg.
