@@ -1,0 +1,9 @@
+# 13/2022. (VIII. 31.) MvM rendelet
+
+az anyakönyvi szakvizsgáról szóló 23/2017. (VIII. 7.) MvM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-13-20-6N
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-09-01 | 2022-13-20-6N.1 | 13/2022. (VIII. 31.) MvM rendelet |
