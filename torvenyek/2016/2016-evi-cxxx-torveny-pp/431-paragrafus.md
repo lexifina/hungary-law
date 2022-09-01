@@ -10,4 +10,4 @@
 
 (4) A perben a természetes személy által a nem ügyvéd vagy ügyvédi iroda részére adott meghatalmazáson a fél aláírását, illetve kézjegyét közjegyző által hitelesíttetni kell.
 
-(5)
+(5) Azokban a perekben, amelyekben a bíróság a kiskorú gyermeket érintő kérdésben is határoz, a bíróság általános intézkedési kötelezettségének határideje legfeljebb tizenöt nap.

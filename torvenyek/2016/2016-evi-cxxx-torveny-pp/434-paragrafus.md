@@ -13,3 +13,5 @@
 (6) Előzetes bizonyításnak – különösen a kiskorú gyermek érdekében – a 334. §-ban meghatározott előfeltételek hiányában is helye van.
 
 (7) A per elbírálása során a bíróságnak fokozott figyelemmel kell lenni arra, hogy a gyermek veszélyeztetettségének jogszabály szerinti fennállása esetén haladéktalanul jelzéssel éljen a gyermekek védelmét biztosító szervek felé.
+
+(8) Az érdemi és a folytatólagos érdemi tárgyalás kitűzésére vonatkozó határidő két hónap, ha a bíróság a perben a kiskorú gyermeket érintő kérdésben is határoz.

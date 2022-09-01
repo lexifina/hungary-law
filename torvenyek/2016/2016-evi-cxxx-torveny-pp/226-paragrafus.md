@@ -1,6 +1,6 @@
 ### 226. § [A tárgyalás kitűzése]
 
-(1) Ha e törvény eltérően nem rendelkezik, a tárgyalást – ideértve a folytatólagos tárgyalást is – úgy kell kitűzni, hogy az az e törvény szerint kitűzésre okot adó perbeli cselekménytől számított legkésőbb négy hónapon belül megtartható legyen.
+(1) Ha e törvény eltérően nem rendelkezik, a tárgyalást – ideértve a folytatólagos tárgyalást is – úgy kell kitűzni, hogy az az e törvény szerint kitűzésre okot adó perbeli cselekménytől számított legkésőbb négy hónapon belül megtartható legyen. A bíróság a tárgyalást és a folytatólagos tárgyalást több, akár egymást követő tárgyalási napokra is kitűzheti.
 
 (2) A tárgyalási időpontra vonatkozó rendelkezéseket nem kell alkalmazni, ha a fél részére a tárgyalásra szóló idézést külföldre kell kézbesíteni és a kézbesítéshez szükséges idő a tárgyalás határidőn belül történő megtartását nem teszi lehetővé.
 

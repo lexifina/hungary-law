@@ -6,8 +6,8 @@
 
 (3) A bíróság köteles a felek figyelmét felhívni a közvetítői eljárás igénybevételének lehetőségére és előnyeire.
 
-(4) Ha a perfelvételi tárgyaláson a felek nem békülnek ki, és perfelvételi nyilatkozataikat megtették, továbbá a perfelvételi tárgyalás elhalasztásának nincs helye, a bíróság a perfelvételt lezárja, és kitűzi az érdemi tárgyalás határnapját.
+(4) Ha a perfelvételi tárgyaláson a felek nem békülnek ki, és perfelvételi nyilatkozataikat megtették, továbbá a perfelvételi tárgyalás elhalasztásának nincs helye, a bíróság a perfelvételt lezárja, és kitűzi az érdemi tárgyalás határnapját, vagy – ha az ügy körülményei lehetővé teszik – nyomban áttér az érdemi tárgyalásra.
 
-(5) A perfelvételt lezáró végzés meghozatalát követően az érdemi tárgyalás azonnali megkezdésének – a (6) bekezdésben meghatározott kivétellel – helye nincs.
+(5)
 
-(6) A pert – ha az ügy körülményei egyébként lehetővé teszik – a perfelvételt lezáró végzés meghozatalát követően azonnal érdemben kell tárgyalni, ha a fél személyes meghallgatása nem kötelező vagy a feleknek nincs közös kiskorú gyermeke.
+(6)

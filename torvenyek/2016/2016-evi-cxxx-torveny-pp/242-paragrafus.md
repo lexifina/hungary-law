@@ -4,4 +4,6 @@
 
 (2) Ha a felperes a keresetétől kizárólag a kereseti kérelme valamely önállóan elbírálható része tekintetében áll el, a bíróság az eljárást csak e rész tekintetében szünteti meg.
 
+(2a) Ha keresethalmazat esetén a magyar bíróság joghatósága csak egyes keresetek vonatkozásában állapítható meg, a bíróság az eljárást a megszüntetési okkal érintett keresetek tekintetében részben is megszüntetheti.
+
 (3) Az eljárás részbeni megszüntetése esetén az eljárás megszüntetésére irányadó szabályokat kell alkalmazni.
