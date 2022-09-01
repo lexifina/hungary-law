@@ -1,0 +1,5 @@
+4. § (1) A válságtámogatás az azonos vagy részben azonos, azonosítható elszámolható költségek esetén abban az esetben halmozható más, helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás vagy támogatási összeg túllépéséhez.
+
+(2) Ha a válságtámogatás mellett a kérelmező csekély összegű támogatásban is részesül, az igénybe veendő vagy igénybe vett csekély összegű támogatás nem csökkenti a válságtámogatás 3. § (1) bekezdés a) és b) pontja szerinti mértékét. A válságtámogatás halmozható a csekély összegű rendeletek szerint nyújtott támogatással, ha az említett rendeletek előírásait és kumulációs szabályait betartják.
+
+(3) A válságtámogatás akkor halmozható az Európai Unió működéséről szóló szerződés 107. cikk (2) bekezdés b) pontja szerinti támogatással, ha az nem vezet a kérelmező által elszenvedett kár túlkompenzációjához.
