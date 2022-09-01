@@ -1,102 +1,102 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^38]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^61]
 
 1. Szakorvosi alap szakképesítések
 
-|  | A | B | C | D |
+|  | A | B | C |
 
-| 1. | Szakképzés megnevezése | Képzési idő | Törzsképzési idő | Szak- gyakorlati idő |
+| 1. | Szakképzés megnevezése | Képzési idő | Részvizsgák száma |
 
-| 2. | 1. Aneszteziológia és intenzív terápia | 60 hó | 24 hó | 36 hó |
+| 2. | Aneszteziológia és intenzív terápia | 60 hó | 2 |
 
-| 3. | 2. Arc-, állcsont- és szájsebészet | 70 hó | 24 hó | 46 hó |
+| 3. | Arc-, állcsont- és szájsebészet | 70 hó | – |
 
-| 4. | 3. Belgyógyászat | 60 hó | 24 hó | 36 hó |
+| 4. | Belgyógyászat | 60 hó | 2 |
 
-| 5. | 4. Bőrgyógyászat | 60 hó | 24 hó | 36 hó |
+| 5. | Belgyógyászati angiológia | 54 hó | 2 |
 
-| 6. | 5. Csecsemő- és gyermekgyógyászat | 60 hó | 24 hó | 36 hó |
+| 6. | Bőr-, nemigyógyászat és kozmetológia | 60 hó | 2 |
 
-| 7. | 6. Érsebészet | 72 hó | 24 hó | 48 hó |
+| 7. | Csecsemő- és gyermekgyógyászat | 52 hó | 2 |
 
-| 8. | 7. Rehabilitációs medicina | 60 hó | 24 hó | 36 hó |
+| 8. | Érsebészet | 68 hó | 2 |
 
-| 9. | 8. Foglalkozás-orvostan | 48 hó | 24 hó | 24 hó |
+| 9. | Foglalkozás-orvostan | 48 hó | 1 |
 
-| 10. | 9. Fül-orr-gégegyógyászat | 60 hó | 24 hó | 36 hó |
+| 10. | Fül-orr-gégegyógyászat | 60 hó | 2 |
 
-| 11. | 10. Gasztroenterológia | 60 hó | 24 hó | 36 hó |
+| 11. | Gasztroenterológia | 60 hó | 1 |
 
-| 12. | 11. Geriátria | 60 hó | 24 hó | 36 hó |
+| 12. | Geriátria | 58 hó | 2 |
 
-| 13. | 12. Gyermek- és ifjúságpszichiátria | 60 hó | 24 hó | 36 hó |
+| 13. | Gyermek- és ifjúságpszichiátria | 56 hó | 3 |
 
-| 14. | 13. Gyermeksebészet | 72 hó | 24 hó | 48 hó |
+| 14. | Gyermeksebészet | 72 hó | 3 |
 
-| 15. | 14. Háziorvostan | 36 hó | 28 hó | 8 hó |
+| 15. | Háziorvostan | 36 hó | 1 |
 
-| 16. | 15. Hematológia | 60 hó | 24 hó | 36 hó |
+| 16. | Hematológia | 48 hó | 2 |
 
-| 17. | 16. Honvéd-, katasztrófa- és rendvédelem orvostan | 60 hó | 24 hó | 36 hó |
+| 17. | Idegsebészet | 72 hó | 2 |
 
-| 18. | 17. Idegsebészet | 72 hó | 24 hó | 48 hó |
+| 18. | Igazságügyi orvostan | 54 hó | 3 |
 
-| 19. | 18. Igazságügyi orvostan | 60 hó | 24 hó | 36 hó |
+| 19. | Infektológia | 55 hó | 3 |
 
-| 20. | 19. Infektológia | 60 hó | 24 hó | 36 hó |
+| 20. | Kardiológia | 60 hó | 2 |
 
-| 21. | 20. Kardiológia | 60 hó | 24 hó | 36 hó |
+| 21. | Klinikai genetika | 48 hó | 1 |
 
-| 22. | 21. Klinikai genetika | 48 hó | 24 hó | 24 hó |
+| 22. | Klinikai laboratóriumi genetika | 48 hó | 1 |
 
-| 23. | 22. Klinikai onkológia | 60 hó | 24 hó | 36 hó |
+| 23. | Klinikai onkológia | 60 hó | 2 |
 
-| 24. | 23. Megelőző orvostan és népegészségtan | 48 hó | 24 hó | 24 hó |
+| 24. | Megelőző orvostan és népegészségtan | 48 hó | 5 |
 
-| 25. | 24. Mellkassebészet | 72 hó | 24 hó | 48 hó |
+| 25. | Mellkassebészet | 60 hó | 2 |
 
-| 26. | 25. Nefrológia | 72 hó | 24 hó | 48 hó |
+| 26. | Nefrológia | 60 hó | 2 |
 
-| 27. | 26. Neurológia | 60 hó | 24 hó | 36 hó |
+| 27. | Neurológia | 54 hó | 1 |
 
-| 28. | 27. Nukleáris medicina | 60 hó | 24 hó | 36 hó |
+| 28. | Nukleáris medicina | 57 hó | 1 |
 
-| 29. | 28. Ortopédia és traumatológia | 72 hó | 24 hó | 48 hó |
+| 29. | Ortopédia és traumatológia | 72 hó | 2 |
 
-| 30. | 29. Orvosi laboratóriumi diagnosztika | 60 hó | 24 hó | 36 hó |
+| 30. | Orvosi laboratóriumi diagnosztika | 54 hó | 2 |
 
-| 31. | 30. Orvosi mikrobiológia | 60 hó | 24 hó | 36 hó |
+| 31. | Orvosi mikrobiológia | 55 hó | 1 |
 
-| 32. | 31. Oxyológia és sürgősségi orvostan | 60 hó | 24 hó | 36 hó |
+| 32. | Oxyológia és sürgősségi orvostan | 60 hó | 2 |
 
-| 33. | 32. Patológia | 60 hó | 24 hó | 36 hó |
+| 33. | Patológia | 60 hó | 3 |
 
-| 34. | 33. Plasztikai és égés-sebészet | 72 hó | 24 hó | 48 hó |
+| 34. | Plasztikai és égés-sebészet | 70 hó | 2 |
 
-| 35. | 34. Pszichiátria | 60 hó | 24 hó | 36 hó |
+| 35. | Pszichiátria | 59 hó | 2 |
 
-| 36. | 35. Radiológia | 60 hó | 24 hó | 36 hó |
+| 36. | Radiológia | 59 hó | 1 |
 
-| 37. | 36. Repülőorvostan | 48 hó | 24 hó | 24 hó |
+| 37. | Rehabilitációs medicina | 52 hó | 2 |
 
-| 38. | 37. Reumatológia | 60 hó | 24 hó | 36 hó |
+| 38. | Reumatológia | 60 hó | 2 |
 
-| 39. | 38. Sebészet | 72 hó | 24 hó | 48 hó |
+| 39. | Sebészet | 72 hó | 4 |
 
-| 40. | 39. Sugárterápia | 60 hó | 24 hó | 36 hó |
+| 40. | Sugárterápia | 58 hó | 2 |
 
-| 41. | 40. Szemészet | 56 hó | 24 hó | 32 hó |
+| 41. | Szemészet | 48 hó | 2 |
 
-| 42. | 41. Szívsebészet | 72 hó | 24 hó | 48 hó |
+| 42. | Szívsebészet | 72 hó | 2 |
 
-| 43. | 42. Szülészet-nőgyógyászat | 60 hó | 24 hó | 36 hó |
+| 43. | Szülészet-nőgyógyászat | 53 hó | 2 |
 
-| 44. | 43. Transzfuziológia | 48 hó | 24 hó | 24 hó |
+| 44. | Transzfuziológia | 36 hó | 1 |
 
-| 45. | 44. Tüdőgyógyászat | 60 hó | 24 hó | 36 hó |
+| 45. | Tüdőgyógyászat | 58 hó | 2 |
 
-| 46. | 45. Urológia | 60 hó | 24 hó | 36 hó |
+| 46. | Urológia | 60 hó | 5 |
 
 2. Szakorvosi ráépített szakképesítések
 
@@ -150,6 +150,8 @@
 
 | 24. | Gyermek-tüdőgyógyászat | csecsemő- és gyermekgyógyászat | (60) + 25 hó |
 
+| 24a. | Honvéd-, katasztrófa- és rendvédelem-orvostan | aneszteziológia és intenzív terápia, belgyógyászat, foglalkozás-orvostan, háziorvostan, igazságügyi orvostan, infektológia, megelőző orvostan és népegészségtan, neurológia, ortopédia és traumatológia, oxyológia és sürgősségi orvostan, plasztikai és égés-sebészet, sebészet, szívsebészet, repülőorvostan, urológia | (36–72) + 24 hó |
+
 | 25. | Igazságügyi pszichiátria | pszichiátria | (60) + 24 hó |
 
 | 26. | gyermek- és ifjúság-pszichiátria | (60) + 24 hó |
@@ -193,6 +195,8 @@
 | 45. | Pszichoterápia | gyermek- és ifjúság-pszichiátria, pszichiátria | (60) + 24 hó |
 
 | 46. | bármely alap szakképesítés, szakfogorvosi szakképesítés | (36-72) + 36 hó |
+
+| 46a. | Repülőorvostan | aneszteziológia és intenzív terápia, belgyógyászat, foglalkozás-orvostan, fül-orr-gégegyógyászat, háziorvostan, honvéd-, katasztrófa- és rendvédelem-orvostan, kardiológia neurológia, ortopédia és traumatológia, oxyológia és sürgősségi orvostan, szemészet, tüdőgyógyászat | (36–72) + 24 hó |
 
 | 47. | Sportorvostan | bármely alap szakképesítés | (36-72) + 24 hó |
 
@@ -312,14 +316,16 @@
 
 | 2. | 1. Alap szakképesítések |
 
-| 3. | 1.1. Klinikai biokémia | Kémia, biológia, laboratóriumi diagnosztika, orvosi biotechnológia (egyetemi végzettség vagy MSc) | 48 hó |
+| 3. | 1.1. Klinikai biokémia | Kémia, biológia, laboratóriumi diagnosztika, okleveles biotechnológus, klinikai laboratóriumi kutató (egyetemi végzettség vagy MSc) | 48 hó |
 
 | 4. | 1.2. Klinikai mikrobiológia | Biológia (egyetemi végzettség vagy MSc) | 48 hó |
 
 | 5. | 1.3. Klinikai sugárfizika | Fizikus, fizikatanár, villamosmérnök, egészségügyi mérnök (egyetemi végzettség vagy MSc) | 48 hó |
 
-| 6. | 2. Ráépített szakképesítések |
+| 6. | 1.4. Klinikai laboratóriumi genetika | Biológia, molekuláris biológia, laboratóriumi diagnosztika, biomérnök, okleveles biotechnológus, vegyész, klinikai laboratóriumi kutató (egyetemi végzettség vagy MSc) és orvostudományi területen szerzett PhD-fokozat | 48 hó |
 
-| 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
+| 7. | 2. Ráépített szakképesítések |
 
-[^38]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.
+| 8. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
+
+[^61]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése, a 28/2022. (VIII. 25.) BM rendelet 27. § (1) bekezdése szerint módosított szöveg.
