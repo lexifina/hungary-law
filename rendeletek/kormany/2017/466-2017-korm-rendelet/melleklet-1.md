@@ -1,4 +1,4 @@
-1. melléklet a 466/2017. (XII. 28.) Korm. rendelethez[^18]
+1. melléklet a 466/2017. (XII. 28.) Korm. rendelethez[^20]
 
 Archiválási kategóriák
 
@@ -16,4 +16,4 @@ Archiválási kategóriák
 
 | 6 | 5. kategória | 1. A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendeletben meghatározott nyilvántartások. 2. Az E-ügyintézési tv. szerinti központi elektronikus ügyintézési szolgáltatások, valamint szabályozott elektronikus ügyintézési szolgáltatások működését biztosító elektronikus információs rendszerek és nyilvántartások, az E-ügyintézési tv. 42/A. § (1) és (2) bekezdésében foglalt szervek által történő igénybevételhez kapcsolódó nyilvántartások kivételével. | – első alkalommal, valamint legalább havonta teljes állomány archiválása – naponta változások archiválása (kis méretű archív állomány esetén minden esetben teljes állomány archiválása) |
 
-[^18]: Az 1. melléklet a 228/2019. (IX. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet a 228/2019. (IX. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
