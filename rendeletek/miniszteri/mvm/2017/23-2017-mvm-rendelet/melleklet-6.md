@@ -1,10 +1,8 @@
 ## Az általános anyakönyvi szakvizsga témakörei
 
-## A) A gyakorlati vizsgához
+## A) A vizsga gyakorlati részében a jelölt
 
-## A vizsga gyakorlati részében a jelölt
-
-## a) a születés anyakönyvezésével,
+## a) a születés anyakönyvezésével, apai elismerő nyilatkozat felvételével, EAK-ban történő rögzítésével,
 
 ## b) a házasságkötés vagy bejegyzett élettársi kapcsolat anyakönyvezésével,
 
@@ -16,194 +14,174 @@
 
 ## f) okmány modulban végezhető egyéb műveletekkel,
 
-## g) papíralapú anyakönyvi bejegyzések rögzítésével, valamint
+## g) papíralapú anyakönyvi bejegyzések rögzítésével, illetve
 
 ## h) az anyakönyvezést követő adatszolgáltatással
 
-## kapcsolatos gyakorlati feladatokat old meg.
+## kapcsolatos, a vizsga szervezője által összeállított gyakorlati feladatokat old meg.
 
-## B) A szóbeli vizsgához
+## B) A szóbeli vizsga témakörei
 
-## 1. Az anyakönyvezés története
+## 1. Az anyakönyvezés története, hatályon kívül helyezett jelentősebb anyakönyvi jogszabályok
 
-## 2. A hatályon kívül helyezett anyakönyvi jogszabályok
+## 2. Az anyakönyvi nyilvántartás jellege, személyi és tárgyi hatálya
 
-## 3. Az anyakönyvi nyilvántartás jellege, személyi és tárgyi hatálya
+## 3. Az anyakönyvi eljárásról szóló törvény értelmező rendelkezései
 
-## 4. Az anyakönyvi eljárásról szóló törvény értelmező rendelkezései
+## 4. Az anyakönyvi bejegyzésre jogosultak feladatai, helyettesítése, kizárása, összeférhetetlenségi szabályok
 
-## 5. Az anyakönyvi eljárások köre
+## 5. Hatásköri szabályok
 
-## 6. Az anyakönyvi bejegyzésre jogosultak feladatai, helyettesítése, kizárása, összeférhetetlenségi szabályok
+## 6. Illetékességi szabályok
 
-## 7. Hatásköri szabályok
+## 7. Szakmai irányítás és felügyelet, az anyakönyvi szerv feladatai
 
-## 8. Illetékességi szabályok
+## 8. Az anyakönyvvezető hivatali felszerelése
 
-## 9. Szakmai irányítás és felügyelet
+## 9. Az anyakönyvezés helye, ideje, anyakönyvezés hiányos adatokkal
 
-## 10. Az anyakönyvi szerv feladatai
+## 10. Helységnevek, külföldi helységnevek anyakönyvezése
 
-## 11. Az anyakönyvezés helye, ideje
+## 11. A családi állapot igazolásának és anyakönyvezésének szabályai
 
-## 12. Anyakönyvezés hiányos adatokkal, az anyakönyvezés elhalasztása
+## 12. Az állampolgárság vizsgálata, igazolása és anyakönyvezése
 
-## 13. Az anyakönyvvezető hivatali felszerelése
+## 13. Az anyakönyvbe bejegyzendő adatok igazolása
 
-## 14. Helységnevek, külföldi helységnevek anyakönyvezése
+## 14. Okirat és személyes nyilatkozat az anyakönyvi eljárásokban, külföldi okiratok elfogadhatósága (hiteles fordítások, Apostille és diplomáciai felülhitelesítés)
 
-## 15. A családi állapot igazolásának és anyakönyvezésének szabályai
+## 15. Az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i (EU) 2016/1191 rendeletének alkalmazása, a többnyelvű formanyomtatvány
 
-## 16. Az állampolgárság vizsgálata, igazolása és anyakönyvezése
+## 16. A biztonsági okmány fogalma, személyazonosító okmányok, az Országos Idegenrendészeti Főigazgatóság által külföldiek és hontalanok részére kiállított okmányok
 
-## 17. Az anyakönyvbe bejegyzendő adatok igazolása
+## 17. Az anyakönyvi eljárások köre, az általános közigazgatási rendtartás szabályainak alkalmazása az anyakönyvi igazgatásban
 
-## 18. Okirat és személyes nyilatkozat az anyakönyvi eljárásokban, külföldi okiratok elfogadhatósága (hiteles fordítások, Apostille és diplomáciai felülhitelesítés), hamis okmányok felismerése
+## 18. Jogképesség, cselekvőképesség, törvényes képviselet, gyámság, gondnokság
 
-## 19. A biztonsági okmány fogalma, személyazonosító okmányok, a Bevándorlási és Menekültügyi Hivatal által külföldiek és hontalanok részére kiállított okmányok
+## 19. Születés bejelentése és anyakönyvezése (az intézeten kívüli születés bejelentése, képzelt apa megállapítása)
 
-## 20. A közigazgatási hatósági eljárás általános szabályainak alkalmazása az anyakönyvi igazgatásban
+## 20. Az apasági vélelem, az emberi reprodukcióra irányuló különleges eljárás
 
-## 21. Jogképesség, cselekvőképesség, törvényes képviselet, gyámság, gondnokság
+## 21. Apai elismerő nyilatkozat felvétele
 
-## 22. Születés bejelentése és anyakönyvezése (az intézeten kívüli születés bejelentése, képzelt apa megállapítása)
+## 22. Apaság, anyaság bírói megállapítása, az apaság vélelmének megdöntése
 
-## 23. Az apasági vélelem, emberi reprodukciós eljárások
+## 23. A béranyaság intézménye, családjogi vonatkozásai
 
-## 24. Apai elismerő nyilatkozat felvétele
+## 24. Ismeretlen szülőktől származó gyermek anyakönyvezése, képzelt szülő megállapítása
 
-## 25. Apaság, anyaság bírói megállapítása, apaság vélelmének megdöntése
+## 25. Örökbefogadás (örökbefogadás tényének feljegyzése és a vér szerinti örökbefogadás), az örökbefogadás megszűnése, a származás megismeréséhez való jog
 
-## 26. A béranyaság intézménye, családjogi vonatkozásai
+## 26. Házasságkötést megelőző eljárás, elhárítható és el nem hárítható házassági akadályok, a házasság érvénytelensége és nemlétezése
 
-## 27. Ismeretlen szülőktől származó gyermek anyakönyvezése, képzelt szülő megállapítása
+## 27. A házasságkötést követő hivatalbóli okmánykiállításra vonatkozó elméleti és gyakorlati ismeretek
 
-## 28. Örökbefogadás (örökbefogadás tényének feljegyzése és a vér szerinti örökbefogadás), az örökbefogadás megszűnése, a származás megismeréséhez való jog
+## 28. Nem magyar állampolgár házasságkötése Magyarországon
 
-## 29. Házasságkötést megelőző eljárás, elhárítható és el nem hárítható házassági akadályok, a házasság érvénytelensége és nemlétezése
+## 29. Magyar állampolgár házasságkötése külföldön
 
-## 30. Külföldiek házasságkötése Magyarországon, a házassági tanúsítvány, felmentés
+## 30. A házasság megkötése és anyakönyvezése (hivatali helyiségen kívül és hivatali munkaidőn túl)
 
-## 31. Magyar állampolgár házasságkötése külföldön
+## 31. Házasságkötés közeli halállal fenyegető állapot esetén
 
-## 32. A házasság megkötése és anyakönyvezése (házasságkötő termen kívül és munkaidőn túl megkötött házasság)
+## 32. A házasság megszűnésének esetei
 
-## 33. Házasságkötés közeli halállal fenyegető állapot esetén
+## 33. A bejegyzett élettársi kapcsolat létesítését megelőző eljárás, elhárítható és el nem hárítható akadályok, a bejegyzett élettársi kapcsolat érvénytelensége és nemlétezése
 
-## 34. A házasság megszűnésének esetei
+## 34. Nem magyar állampolgár bejegyzett élettársi kapcsolatának létesítése Magyarországon
 
-## 35. A bejegyzett élettársi kapcsolat létesítését megelőző eljárás, elhárítható és el nem hárítható akadályok, a bejegyzett élettársi kapcsolat érvénytelensége és nemlétezése
+## 35. Magyar állampolgár bejegyzett élettársi kapcsolatának létesítése külföldön
 
-## 36. Nem magyar állampolgár bejegyzett élettársi kapcsolata
+## 36. A bejegyzett élettársi kapcsolat létesítése és anyakönyvezése
 
-## 37. Magyar állampolgár bejegyzett élettársi kapcsolatának létesítése külföldön
+## 37. A bejegyzett élettársi kapcsolat létesítése közeli halállal fenyegető állapot esetén
 
-## 38. A bejegyzett élettársi kapcsolat létrehozása és anyakönyvezése
+## 38. A bejegyzett élettársi kapcsolat megszűnésének esetei
 
-## 39. A bejegyzett élettársi kapcsolat létesítése közeli halállal fenyegető állapot esetén
+## 39. Haláleset bejelentése és anyakönyvezése
 
-## 40. A bejegyzett élettársi kapcsolat megszűnésének esetei
+## 40. Ismeretlen és talált holttest anyakönyvezésére vonatkozó szabályok
 
-## 41. Haláleset bejelentése és anyakönyvezése
+## 41. Holtnak nyilvánítás, halál tényének bírói megállapítása
 
-## 42. Ismeretlen és talált holttest anyakönyvezésére vonatkozó szabályok
+## 42. A halottvizsgálati bizonyítvány
 
-## 43. Holtnak nyilvánítás, halál tényének bírói megállapítása
+## 43. Hazai anyakönyvezés (története, a kérelem átvétele, felterjesztése, csatolandó mellékletek, hatásköri szabályok)
 
-## 44. A halottvizsgálati bizonyítvány
+## 44. Névviselés, névváltoztatás (születési és házassági név, anyakönyvezhető utónevek, születési név megváltoztatása, eltérő névviselés, transzszexualizmus, a nem és az utónév megváltozása)
 
-## 45. Hazai anyakönyvezés (története, a kérelem átvétele, felterjesztése, csatolandó mellékletek, hatásköri szabályok)
+## 45. Utónév-módosítás, házassági névviselési forma módosítása, házassági név megváltoztatása, családi név korrekciója
 
-## 46. Névviselés, névváltoztatás (anyakönyvezhető utónevek, születési és házassági név, a születési és a házassági név megváltoztatása, házassági névviselési forma módosítása, eltérő névviselés)
+## 46. Nemzetiségi névviselés
 
-## 47. Transzszexualizmus, a nem és az utónév megváltozása
+## 47. Anyakönyvi okiratok típusai, a kiállításra vonatkozó szabályok
 
-## 48. Nemzetiségi névviselés
+## 48. Anyakönyvi okiratok beszerzése külföldről
 
-## 49. Anyakönyvi okiratok típusai, a kiállításra vonatkozó szabályok
+## 49. Az elektronikus és a papíralapú anyakönyv, bejegyzés az elektronikus anyakönyvbe, a korábbi papíralapú bejegyzések rögzítése, a papíralapú bejegyzések lezárása
 
-## 50. Anyakönyvi okiratok beszerzése külföldről
+## 50. Az anyakönyvbe bejegyzett adatok megváltozásának rögzítése
 
-## 51. Az elektronikus és a papíralapú anyakönyvbejegyzés az elektronikus anyakönyvbe, a korábbi papíralapú bejegyzések rögzítése, a papíralapú bejegyzések lezárása
+## 51. A külföldön történt változások rögzítése (külföldön történt örökbefogadás, házasságfelbontás stb.)
 
-## 52. Az anyakönyvbe bejegyzett adatok megváltozásának rögzítése
+## 52. Az anyakönyvi nyilvántartások rendszere (EAK, apai elismerő nyilatkozatok nyilvántartása, az okirat-nyilvántartás, a jogosultsági nyilvántartás, a papíralapú anyakönyvek nyilvántartása)
 
-## 53. A külföldön történt változások rögzítése (külföldön történt örökbefogadás, házasságfelbontás stb.)
+## 53. Hozzáférési jogosultság, a közvetlen hozzáféréssel történő adatátvétel és a betekintés szabályai
 
-## 54. Az anyakönyvi nyilvántartások rendszere (EAK, apai elismerő nyilatkozatok nyilvántartása, az okirat-nyilvántartás, a jogosultsági nyilvántartás, a papíralapú anyakönyvek nyilvántartása)
+## 54. Az anyakönyvi adattovábbítások módja és tartalma
 
-## 55. A közvetlen hozzáféréssel történő adatátvétel és a betekintés szabályai
+## 55. Adattovábbítási nyilvántartás, adatigénylés alapján történő adattovábbítás
 
-## 56. Az anyakönyvi adattovábbítások módja és tartalma
+## 56. Értesítési kötelezettségek
 
-## 57. Az adatigénylés alapján történő adattovábbítás
+## 57. Az anyakönyv kutathatósága
 
-## 58. Értesítés
+## 58. Népmozgalmi statisztikai adatszolgáltatás
 
-## 59. Adattovábbítási nyilvántartás
+## 59. Anyakönyvi iratok, alapiratok kezelése, anyakönyvi irattár, iratselejtezés, iratok kiadása az anyakönyvi irattárból
 
-## 60. Az anyakönyv kutathatósága
+## 60. A papíralapú anyakönyv pótlása
 
-## 61. Hozzáférési jogosultság
+## 61. Nem magyar állampolgár anyakönyvezésére vonatkozó speciális szabályok (nem magyar állampolgár Magyarországon történt anyakönyvi eseményének rögzítése: személynév, településnév anyakönyvezése)
 
-## 62. Népmozgalmi statisztikai adatszolgáltatás
+## 62. A nemzetközi magánjogi szabályok alkalmazása az anyakönyvi igazgatásban (a nemzetközi magánjog fogalma, személyes jog fogalma, a többes állampolgárokra, a menekültekre és hontalanokra vonatkozó rendelkezések, a külföldi elemet tartalmazó házasságkötésekre vonatkozó szabályok, a külföldön történt örökbefogadások magyarországi elismerésére vonatkozó szabályok, egyéb, magyar állampolgárokat érintő külföldi határozatok elismerésére vonatkozó szabályok)
 
-## 63. Anyakönyvi iratok, alapiratok kezelése, anyakönyvi irattár, iratselejtezés, iratok kiadása az anyakönyvi irattárból
+## 63. A magyar állampolgárság keletkezése, megszerzése
 
-## 64. A papíralapú anyakönyv pótlása
+## 64. A magyar állampolgárság megszűnése
 
-## 65. Külföldiek anyakönyvezésére vonatkozó speciális szabályok (külföldi állampolgárok Magyarországon történt anyakönyvi eseményeinek rögzítése: személynév, településnév anyakönyvezése)
+## 65. Az állampolgársági eljárásban részt vevő szervek és feladataik
 
-## 66. A nemzetközi magánjogi szabályok alkalmazása az anyakönyvi igazgatásban (a nemzetközi magánjog fogalma, személyes jog fogalma, a többes állampolgárokra, a menekültekre és hontalanokra vonatkozó rendelkezések, a külföldi elemet tartalmazó házasságkötésekre vonatkozó szabályok, a külföldön történt örökbefogadások magyarországi elismerésére vonatkozó szabályok, egyéb, magyar állampolgárokat érintő külföldi határozatok elismerésére vonatkozó szabályok)
+## 66. Az anyakönyvvezető állampolgársági esküvel vagy fogadalommal kapcsolatos feladatai, az állampolgársági ügyekkel kapcsolatos adatszolgáltatások
 
-## 67. A magyar állampolgárság keletkezése, megszerzése
+## 67. Névmódosítási kérelem a honosítási eljárásban (családi név, utónév, házassági név, anyja születési neve)
 
-## 68. A magyar állampolgárság megszűnése
+## 68. A polgárok személyi adatainak és lakcímének nyilvántartása (a nyilvántartás személyi hatálya, adatforrások, az anyakönyvvezető feladatai a nyilvántartás vezetésével kapcsolatosan)
 
-## 69. Az állampolgársági eljárásban részt vevő szervek és feladataik
+## 69. Személyes adatok védelme, közérdekű adatok nyilvánossága
 
-## 70. Az anyakönyvvezető állampolgársági esküvel/fogadalommal kapcsolatos feladatai, az állampolgársági ügyekkel kapcsolatos adatszolgáltatások
+## 70. Az EAK rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok, megszemélyesítetlen anyakönyvi kivonat nyomtatvány igénylése, bevételezése, a nyomdai hibás vagy megrongálódott megszemélyesítetlen anyakönyvi kivonat nyomtatványok érvénytelenítése, levelező és fórum használata)
 
-## 71. Névmódosítási kérelem a honosítási eljárásban (családi név, utónév, házassági név, anyja születési neve)
+6. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^16]
 
-## 72. A polgárok személyi adatainak és lakcímének nyilvántartása (a nyilvántartás személyi hatálya, adatforrások, az anyakönyvvezető feladatai a nyilvántartás vezetésével kapcsolatosan)
+## Az anyakönyvi szakvizsga bizonyítvány adattartalma
 
-## 73. Személyes adatok védelme, közérdekű adatok nyilvánossága
+1. A bizonyítvány sorszáma;
 
-## 74. Az EAK rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok, megszemélyesítetlen anyakönyvi kivonat nyomtatvány igénylése, bevételezése, a nyomdai hibás vagy megrongálódott megszemélyesítetlen anyakönyvi kivonat nyomtatványok érvénytelenítése, levelező és fórum használata)
+2. Magyarország címere;
 
-## 75. Illeték- és díjfizetési szabályok az anyakönyvi és házasságkötési eljárásokban
+3. A képzést teljesítő neve, születési családi és utóneve, születési helye és ideje, anyja születési neve;
 
-6. melléklet a 23/2017. (VIII. 7.) MvM rendelethez
+4. A kiállító megnevezése;
 
-1. Sorszám:
+5. A bizonyítvány minősítése;
 
-Magyarország címere
+6. A szakvizsga típusa;
 
-BIZONYÍTVÁNY
+7. A bizonyítvány kiállításának helye, keltezése;
 
-2. Név:
+8. A kiállító bélyegzőlenyomata;
 
-3. Születési név:
+9. A vizsgabizottság elnökének és tagjainak aláírása.
 
-4. Születési helye, ideje:
-
-5. Anyja születési neve:
-
-6. ............................................... Kormányhivatalban működő vizsgabizottság előtt az anyakönyvi szakvizsgáról szóló 23/2017. (VIII. 7.) MvM rendelet alapján ........................ minősítéssel
-
-ÁLTALÁNOS ANYAKÖNYVI SZAKVIZSGÁT
-
-tett.
-
-Kelt: ..................................., ........ év .................................. hónap ..... nap
-
-P. H.
-
-|  | .................................................. |  |
-
-|  | vizsgabizottság elnöke |  |
-
-| .................................................. |  | .................................................. |
-
-| vizsgabizottság tagja |  | vizsgabizottság tagja |
+[^16]: A 6. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § d) pontjával megállapított szöveg.

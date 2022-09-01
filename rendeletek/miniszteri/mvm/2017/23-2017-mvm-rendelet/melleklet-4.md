@@ -1,63 +1,51 @@
-4. melléklet a 23/2017. (VIII. 7.) MvM rendelethez
+4. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^14]
 
-Iktatószám:
+## A gyakorlati és a szóbeli szakvizsga jegyzőkönyvének adattartalma
 
-JEGYZŐKÖNYV
+1. Iktatószám;
 
-1. Készült a ........................................................, 20.......... év ................... hó ...... napján az anyakönyvi szakvizsgáról szóló
+2. A gyakorlati vizsga helye és ideje;
 
-23/2017. (VIII. 7.) MvM rendelet által szabályozott anyakönyvi szakvizsga gyakorlati vizsgáján.
+3. A jelölt adatai:
 
-2. A jelölt
+3.1. neve;
 
-2.1. neve:
+3.2. születési családi és utóneve;
 
-2.2. születési helye, ideje:
+3.3. születési helye, ideje;
 
-2.3. anyja születési neve:
+3.4. anyja születési neve;
 
-2.4. lakcíme:
+3.5. lakcíme;
 
-2.5. munkáltatójának neve és címe:
+3.6. munkáltatójának neve és címe;
 
-3. A jelölt személyazonosságát ellenőriztem.
+4. A jelölt bemutatott személyazonosító okmányának száma, típusa, érvényességi ideje, kiállító hatóság megnevezése;
 
-4. A jelölt bemutatott személyazonosító okmányának száma, típusa, érvényességi ideje, kiállító hatóság megnevezése:
+5. A gyakorlati vizsga osztályzata;
 
-5. A gyakorlati vizsga osztályzata:
+6. Megjegyzések;
 
-6. Megjegyzések:
+7. Keltezés;
 
-Kelt: .................................................., .......... év .............................. hónap .......... nap
+8. Bélyegzőlenyomat helye;
 
-P. H.
+9. A vizsgabizottság tagjainak aláírása;
 
-| .................................................. | .................................................. |
+10. A szóbeli vizsga helye és ideje;
 
-| vizsgabizottság tagja | vizsgabizottság tagja |
+11. A szóbeli vizsga osztályzata;
 
-7. Készült a ..................................................., 20...... év ................. hó ...... napján az anyakönyvi szakvizsgáról szóló
+12. A vizsga átlageredménye;
 
-23/2017. (VIII. 7.) MvM rendeletben szabályozott anyakönyvi szakvizsga szóbeli vizsgáján.
+13. A szakvizsga bizonyítvány sorszáma, a szakvizsga minősítése;
 
-8. A szóbeli vizsga osztályzata:
+14. Megjegyzések;
 
-9. A vizsga átlageredménye:
+15. Keltezés;
 
-10. A jelölt a szakvizsgáról .......................... sorszám alatt .................................................. minősítéssel általános anyakönyvi szakvizsga/konzuli anyakönyvi szakvizsga I./konzuli anyakönyvi szakvizsga II.[^*] bizonyítványt kapott.
+16. Bélyegzőlenyomat helye;
 
-11. Megjegyzések:
+17. A vizsgabizottság elnökének és tagjainak aláírása.
 
-Kelt: .................................................., .......... év .............................. hónap .......... nap
-
-P. H.
-
-|  | .................................................. |  |
-
-|  | vizsgabizottság elnöke |  |
-
-| .................................................. |  | .................................................. |
-
-| vizsgabizottság tagja |  | vizsgabizottság tagja |
-
-[^*]: A megfelelő rész aláhúzandó.
+[^14]: A 4. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § b) pontjával megállapított szöveg.
