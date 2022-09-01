@@ -90,7 +90,7 @@ f) lakásszövetkezet, társasház, köztestület, alapítvány, egyesület, ön
 
 g) a személyi jövedelemadóról szóló törvény hatálya alá tartozó, a 26. pont a) és b) alpontja szerinti vállalkozónál: a tevékenységvégzéssel (termékértékesítés, szolgáltatásnyújtás) közvetlen összefüggésben kapott – általános forgalmi adó nélküli – ellenérték, növelve a kompenzációs felárral és csökkentve az adóhatósággal elszámolt regisztrációs adó összegével, feltéve, hogy azt bevételként elszámolta, továbbá azon bevétellel, amelyet a számvitelről szóló törvény alapján egyéb bevételként kellene elszámolni,
 
-h) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás esetén, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás bevétele,
+h) a tételes adózó vállalkozó esetén a kisadózó vállalkozók tételes adójáról szóló törvény szerinti bevétel,
 
 i) sportvállalkozásnál: az a) alpont szerinti nettó árbevétel, csökkentve a sportrendezvényre szóló belépőjegy-, bérlet értékesítéséből, a reklámközzétételre irányuló szolgáltatásnyújtásból, játékjog használati jogának ideiglenes vagy végleges átadásából, a sportról szóló törvény szerinti szponzorálási szerződés alapján nyújtott szolgáltatásból, sportrendezvény televíziós, rádiós, valamint egyéb elektronikus-digitális módon való közvetítéséből, a sportról szóló törvény szerinti sportlétesítmény hasznosításából származó árbevétellel;
 
