@@ -642,40 +642,6 @@
 
 10. melléklet a 87/2015. (IV. 9.) Korm. rendelethez[^301]
 
-Súlyozott tanulmányi átlag átsoroláshoz
-
-|  | A | B |
-
-| 1 | Képzési terület | Súlyozott tanulmányi átlag |
-
-| 2 | agrár | 3,0 |
-
-| 3 | bölcsészettudomány | 3,5 |
-
-| 4 | gazdaságtudományok | 3,0 |
-
-| 5 | informatika | 3,0 |
-
-| 6 | jogi | 3,0 |
-
-| 7 | közigazgatási, rendészeti és katonai | 3,0 |
-
-| 8 | műszaki | 3,0 |
-
-| 9 | művészet | 3,5 |
-
-| 10 | művészetközvetítés | 3,5 |
-
-| 11 | orvos- és egészségtudomány | 3,0 |
-
-| 12 | pedagógusképzés | 3,5 |
-
-| 13 | sporttudomány | 3,5 |
-
-| 14 | társadalomtudomány | 3,5 |
-
-| 15 | természettudomány | 3,0 |
-
 [^275]: A 9. melléklet 1. pont 1.1. alpontja a 407/2017. (XII. 15.) Korm. rendelet 40. § (3) bekezdése, a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^276]: A 9. melléklet 1. pont 1.2. alpontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^277]: A 9. melléklet 1. pont 1.3. alpontja a 407/2017. (XII. 15.) Korm. rendelet 40. § (3) bekezdése, a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés b) pontja szerint módosított szöveg.
@@ -702,4 +668,4 @@ Súlyozott tanulmányi átlag átsoroláshoz
 [^298]: A 9. melléklet 6. pont 6.13. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be, szövege a 169/2016. (VII. 1.) Korm. rendelet 36. § (3) bekezdésével megállapított szöveg.
 [^299]: A 9. melléklet 7. pont 1. alpont 1.4. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^300]: A 9. melléklet 8. pont 1.5. alpontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^301]: A 10. mellékletet a 345/2015. (XI. 19.) Korm. rendelet 88. § (6) bekezdése iktatta be, szövege ugyanezen módosító rendelet 88. § (10) bekezdésével megállapított szöveg.
+[^301]: A 10. mellékletet a 345/2015. (XI. 19.) Korm. rendelet 88. § (6) bekezdése iktatta be, hatályon kívül helyezte a 276/2022. (VII. 29.) Korm. rendelet 3. §-a.
