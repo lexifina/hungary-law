@@ -1,0 +1,3 @@
+## 10. § E rendelet hatálybalépését megelőzően már hatályba lépett azon megállapodások, amelyek megfelelnek az e rendelet hatálybalépését megelőzően hatályos, a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló jogszabályi előírásoknak, 2023. május 31. napjáig továbbra is mentesülnek a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól.
+
+11. § Hatályát veszti a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló 205/2011. (X. 7.) Korm. rendelet.
