@@ -4,7 +4,7 @@
 
 2.
 
-3.
+3. 1. számú melléklete a 4. melléklet,
 
 4.
 

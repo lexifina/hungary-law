@@ -1,3 +1,5 @@
 ## 74. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
 
-240. §
+240. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény 18. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) Ha e törvény eltérően nem rendelkezik, a tanúsítvány kiadására vonatkozó bírósági eljárásra a Ctv. változásbejegyzési eljárásra vonatkozó rendelkezéseit kell alkalmazni. A tanúsítvány kiadása iránti kérelemhez csatolandó iratokat a Ctv. határozza meg azzal, hogy a legfőbb szerv határozatait olyan módon kell csatolni, hogy a csatolt okirat tartalmából a határozathozatalra vonatkozó információk is megállapíthatóak legyenek. A tanúsítvány kiadása iránti kérelemhez csatolt iratokat, ha azok nem magyar nyelven készültek, hiteles magyar nyelvű fordításban is csatolni kell.”
