@@ -1,1 +1,1 @@
-23. §
+23. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 19/H. § (1) bekezdésében az „a személy azonosítása” szövegrész helyébe az „a személy – ideértve az elhunyt személyt – azonosítása” szöveg lép.
