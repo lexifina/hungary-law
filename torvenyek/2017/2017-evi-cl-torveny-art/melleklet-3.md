@@ -219,5 +219,3 @@
 ## 2.4. Az eljáró adóhatóság vezetője az engedélyt a kizáró ok fennállása ellenére különös méltányosságból megadhatja, ha az engedély megadását kizáró ok nincs arányban az adózó gyakoribb elszámoláshoz fűződő méltányolható érdekével.
 
 ## 3. A társasági adó
-
-## 3.1. A társasági adó előlege
