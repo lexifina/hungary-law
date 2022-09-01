@@ -1,4 +1,4 @@
-## 15. §[^29]
+## 15. §[^22]
 
 1. melléklet a 204/2020. (V. 14.) Korm. rendelethez
 
@@ -36,4 +36,4 @@ Az Arany János Tehetséggondozó Programban, Arany János Kollégiumi Programba
 
 | 15. | A programok belső intézményi értékelésével, továbbfejlesztésével, hálózati működéssel összefüggő költségek: továbbképzések, jó gyakorlat átadó konferenciák, partnerintézményekkel és fenntartóval történő rendszeres egyeztetés, esetmegbeszélések költségei, szakmai műhelyek részvételi költségei, szakmai rendezvények előadóinak díja, hospitációs alkalmak, szakmai konzultációs alkalmak személyi és dologi költségei Országos tanévnyitó, tanévzáró rendezvényeken való részvétel költségei: utazás, szállás, ellátás A programhoz kapcsolódó tantestületi képzések: pedagógus továbbképzés, konfliktuskezelés, szervezetfejlesztés, tanuló megismerése A program általános megvalósítását és értékelését szolgáló személyi, dologi és adminisztratív költségek: intézményi önértékelések, igénylési dokumentáció, szakmai és pénzügyi beszámoló elkészítése, szakmai feladatterv és pénzügyi lebonyolítás kidolgozása, papír, irodaszer | A kollégiumi nevelés országos alapprogramjának 5. melléklet 3.9. pontja |
 
-[^29]: A 15. § a 13. § (3) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^22]: A 15. § a 13. § (3) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

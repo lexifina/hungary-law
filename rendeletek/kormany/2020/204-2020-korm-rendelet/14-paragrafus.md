@@ -1,15 +1,11 @@
-14. § (1)[^24]
+14. § (1)[^21]
 
-(2)[^25]
+(2) A 6. § (1) bekezdésben a „programtámogatást” szövegrész helyébe a „programtámogatást és a tanulói ösztöndíjkeretet” szöveg lép.
 
-(3)[^26]
+(3) A 6. § (2) bekezdésében a „programtámogatásra” szövegrész helyébe a „programtámogatásra és ösztöndíjkeretre” szöveg lép.
 
-(4)[^27]
+(4) A 10. § (1) bekezdésében „a programtámogatás” szövegrész helyébe az „a programtámogatások és a tanulói ösztöndíjkeret” szöveg, (2) bekezdésében az „a programtámogatásban” szövegrész helyébe az „a programtámogatásokban és a tanulói ösztöndíjkeretben” szöveg lép.
 
-(5)[^28]
+(5) A 12. § (1) és (2) bekezdésében az „a programtámogatást” szövegrész helyébe az „a programtámogatást és az ösztöndíjat” szöveg lép.
 
-[^24]: A 14. § (1) bekezdése a 13. § (3) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^25]: A 14. § (2) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
-[^26]: A 14. § (3) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
-[^27]: A 14. § (4) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
-[^28]: A 14. § (5) bekezdése a 13. § (2) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^21]: A 14. § (1) bekezdése a 13. § (3) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
