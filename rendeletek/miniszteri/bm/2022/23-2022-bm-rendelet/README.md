@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-23-20-0
 | --- | --- | --- |
 | 2022-08-01 | 2022-23-20-0A.1 | 23/2022. (VII. 29.) BM rendelet |
 | 2022-08-02 | 2022-23-20-0A.2 | 2010: CXXX. törvény |
+| 2022-09-01 | 2022-23-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
