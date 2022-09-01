@@ -20,7 +20,7 @@ a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) hat
 
 b) az egyedi beszámolóját az Sztv. 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint készítő adóalany esetén, a helyi adókról szóló 1990. évi C. törvény 40/C. §-a szerinti nettó árbevétel,
 
-c) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás esetén, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás bevétele,
+c) a kisadózó vállalkozók tételes adójáról szóló törvény szerinti kisadózó esetén a kisadózó bevétele,
 
 d) a személyi jövedelemadóról szóló törvény hatálya alá tartozó adóalany esetében a személyi jövedelemadóról szóló törvény szerinti általános forgalmi adó nélküli bevétel,
 
