@@ -1,5 +1,5 @@
+## 24. §[^26]
+
 ## 8. A szakképzésről szóló 2019. évi LXXX. törvény hatálybalépésével összefüggő módosító és hatályon kívül helyező rendelkezésekről szóló 13/2020. (II. 7.) Korm. rendelet módosítása
 
-25. §[^27]
-
-[^27]: A 25. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

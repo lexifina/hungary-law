@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-417-20-
 | 2021-01-01 | 2020-417-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-01-02 | 2020-417-20-22.4 | 2010: CXXX. törvény |
 | 2021-02-15 | 2020-417-20-22.5 | 65/2021. (II. 15.) Korm. rendelet |
+| 2022-09-01 | 2020-417-20-22.6 | 746/2021. (XII. 21.) Korm. rendelet |
