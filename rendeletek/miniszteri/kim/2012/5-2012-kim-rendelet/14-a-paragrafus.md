@@ -14,8 +14,11 @@
 
 (6)[^85] A II. fejezet 6–8. címeiben szabályozott, az elszámolást, az ellenőrzést, az Alap támogatásaiból történő kizárást érintő eljárásokban az a kollégium a döntéshozó, amelyhez a pályázatot benyújtották.
 
+(7)[^86] A normatív támogatás elszámolása az Ávr. 93. § (1a) bekezdése szerint történik.
+
 [^81]: A 12/A. alcímet (14/A. §) a 35/2016. (XI. 30.) EMMI rendelet 7. §-a iktatta be.
 [^82]: A 14/A. § (1) bekezdése a 23/2017. (X. 3.) EMMI rendelet 7. § (1) bekezdésével megállapított, a 20/2018. (XII. 20.) MvM rendelet 5. § f) pontja szerint módosított szöveg.
 [^83]: A 14/A. § (1a) bekezdését a 23/2017. (X. 3.) EMMI rendelet 7. § (2) bekezdése iktatta be.
 [^84]: A 14/A. § (2) bekezdése a 11/2020. (VI. 30.) MvM rendelet 7. § c) pontja szerint módosított szöveg.
 [^85]: A 14/A. § (6) bekezdését a 23/2017. (X. 3.) EMMI rendelet 7. § (3) bekezdése iktatta be.
+[^86]: A 14/A. § (7) bekezdését a 11/2022. (VIII. 1.) MvM rendelet 1. §-a iktatta be.
