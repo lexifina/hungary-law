@@ -4,7 +4,7 @@
 
 |  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
 
-|  | Praxisfinanszírozás | 119 596,0 |
+| Praxisfinanszírozás | 119 596,0 |
 
 | Háziorvosi, szakdolgozói bértámogatás | 103 946,0 |
 
@@ -20,11 +20,11 @@
 
 |  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
 
-|  | Iskolaegészségügyi ellátás | 2 317,1 |
+| Iskolaegészségügyi ellátás | 2 317,1 |
 
 | Iskolaegészségügyi ellátás bértámogatás | 221,8 |
 
-| Védőnői ellátás | 24 009,8 |
+| Védőnői ellátás (méhnyakrákszűréssel) | 24 009,8 |
 
 | Anya-, gyermek- és csecsemővédelem | 483,4 |
 
@@ -36,7 +36,7 @@
 
 |  | Fogászati ellátás |  |
 
-|  | Praxisfinanszírozás | 42 494,1 |
+| Praxisfinanszírozás | 42 494,1 |
 
 | Fogorvosi, szakdolgozói bértámogatás | 39 379,2 |
 
@@ -44,13 +44,13 @@
 
 | 4. | Otthoni szakápolás | 6 480,8 |
 
-| 5. | Betegszállítás és orvosi rendelvényű halottszállítás | 9 970,2 |
+| 5. | Betegszállítás és orvosi rendelvényű halottszállítás összesen | 9 970,2 |
 
 | 6. | Művesekezelés | 27 771,1 |
 
 |  | Célelőirányzatok |  |
 
-|  | Méltányossági alapon történő térítések | 3 911,3 |
+| Méltányossági alapon történő térítések | 3 911,3 |
 
 | Alapellátási vállalkozás támogatási átalánydíj | 55,0 |
 
@@ -58,11 +58,11 @@
 
 | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
 
-| Egészségügyi dolgozók 2018–2022. évi béremelésének fedezete | 605 992,1 |
+| Egészségügyi dolgozók 2018–2022. évi béremelésének fedezete | 594 792,1 |
 
 | Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete | 3 830,1 |
 
-| Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése | 15 787,3 |
+| Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése | 26 987,3 |
 
 | Fiatal szakorvosok támogatása | 320,8 |
 
@@ -74,7 +74,7 @@
 
 |  | Összevont szakellátás |  |
 
-|  | Járóbeteg-szakellátás | 199 757,8 |
+| Járóbeteg-szakellátás | 199 757,8 |
 
 | Kódkarbantartás | 4 915,9 |
 
@@ -106,11 +106,11 @@
 
 | 10. | Összevont szakellátás összesen | 937 633,6 |
 
-| 12. | Gyógyító-megelőző ellátás céltartalék | 10 281,1 |
+| 12. | Gyógyító-megelőző ellátás céltartalék | 600,0 |
 
-| 14. | Nagyértékű gyógyszerfinanszírozás | 119 659,8 |
+| 14. | Nagyértékű gyógyszerfinanszírozás | 146 840,9 |
 
-| ÖSSZESEN | 2 167 283,1 |
+| ÖSSZESEN | 2 184 783,1 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^611]
 
