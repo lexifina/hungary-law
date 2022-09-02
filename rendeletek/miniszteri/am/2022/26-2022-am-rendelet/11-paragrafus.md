@@ -1,7 +1,3 @@
-## 10. § A 47/2015. (VIII. 12.) FM rendelet 14. §-a a következő e) ponttal egészül ki:
+## 10. §[^11]
 
-## (Ez a rendelet)
-
-## „e) az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022. március 23-i 2022/C 131 I/01 számú európai bizottsági közlemény”
-
-## (hatálya alá tartozó támogatást tartalmaz.)
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
