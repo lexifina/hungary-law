@@ -1,1 +1,3 @@
-## „(2) A szakképzési grémiumok a szakorvosi alap szakképesítések esetében elnökből és legalább 2 fő tagból állnak. A szakképzési grémiumok összetételét úgy kell kialakítani, hogy a szakképzési grémium tagjainak legalább egyharmada az egészségügyi szolgáltatók érdekképviseletét ellátó, a miniszter által meghatározott szakmai szervezet által támogatott szakorvos legyen, valamint a szakképzési grémiumok tagja a szakirány régiós, ennek hiányában országos vezető rezidense.”
+## 5. §[^5]
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

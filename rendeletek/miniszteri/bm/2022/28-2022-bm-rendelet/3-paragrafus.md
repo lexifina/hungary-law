@@ -1,3 +1,3 @@
-## 2. § Az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló 16/2010. (IV. 15.) EüM rendelet (a továbbiakban: R.2.) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „(1) A rendszerbevételi eljárást a szakképzés tekintetében illetékes szakképzési grémium folytatja le.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

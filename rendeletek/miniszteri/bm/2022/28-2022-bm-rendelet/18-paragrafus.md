@@ -1,9 +1,3 @@
-## lép.
+## 17. §[^17]
 
-## 18. § Hatályát veszti az R.2.
-
-a) 6. § (2)–(6) bekezdése,
-
-b) 21. § (5) bekezdés b) pontja és
-
-c) 22. § (2) bekezdése.
+[^17]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

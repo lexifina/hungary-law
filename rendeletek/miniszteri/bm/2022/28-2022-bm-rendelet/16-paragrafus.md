@@ -1,3 +1,3 @@
-## 15. § Az R.2. a következő 24. §-sal egészül ki:
+## 15. §[^15]
 
-## „24. § A 9/B. § (3) bekezdésében foglaltaktól eltérően első alkalommal az választható vezető rezidenssé, aki a szakképzésből már legalább huszonnégy hónapot sikeresen teljesített.”
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

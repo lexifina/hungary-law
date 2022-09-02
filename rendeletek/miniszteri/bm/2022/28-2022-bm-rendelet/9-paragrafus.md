@@ -1,1 +1,3 @@
-## „(4) Az NVB a jelöltet a szakvizsga időpontjáról és helyéről a vizsgát megelőzően legalább tíz munkanappal elektronikus úton értesíti.”
+## 8. §[^8]
+
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,11 +1,3 @@
-## lép.
+## 28. §[^38]
 
-## 29. § Hatályát veszti az R.3.
-
-a) 3. § (1) bekezdés b) pontja,
-
-b) 12. § (10) bekezdése,
-
-c) 14. § (2) bekezdése,
-
-d) 3. melléklet 3/B. pontja.
+[^38]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

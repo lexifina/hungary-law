@@ -1,28 +1,30 @@
-## 26. § Az R.3. 15. §-a a következő (2)–(4) bekezdéssel egészül ki:
+## 26. §[^28]
 
-## „(2) Az OKFŐ a 8. § (17) bekezdése szerinti, az egyetemek által egységesen meghatározott részvizsgával kapcsolatos eljárásrendet és jogorvoslati szabályokat legkésőbb 2022. október 31-ig a honlapján közzéteszi.
+27. § (1)[^29]
 
-## (3) A részvizsgák témaköreit és kérdéseit az egyetemek legkésőbb 2022. október 31-ig határozzák meg, és honlapjukon a jelöltek számára hozzáférhetővé teszik.
+(2)[^30]
 
-## (4) A BM rendelettel megállapított bőr-, nemigyógyászat és kozmetológia szakképesítés megfeleltethető a BM rendelet hatálybalépését megelőzően megkezdhető bőrgyógyászat szakképesítésnek.”
+(3)[^31]
 
-27. § (1) Az R.3. 1. melléklete a 2. melléklet szerint módosul.
+(4)[^32]
 
-(2) Az R.3. a 3. melléklet szerinti 1a. melléklettel egészül ki.
+(5)[^33]
 
-(3) Az R.3. a 4. melléklet szerinti 1b. melléklettel egészül ki.
+(6)[^34]
 
-(4) Az R.3. 2. melléklete helyébe az 5. melléklet lép.
+(7)[^35]
 
-(5) Az R.3. 3. melléklete a 6. melléklet szerint módosul.
+(8)[^36]
 
-(6) Az R.3. 10. melléklete a 7. melléklet szerint módosul.
+(9)[^37]
 
-(7) Az R.3. 12. melléklete helyébe a 8. melléklet lép.
-
-(8)[^2]
-
-(9)[^3]
-
-[^2]: A 27. § (8) bekezdése a 30. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^3]: A 27. § (9) bekezdése a 30. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^28]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 27. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 27. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 27. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 27. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 27. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 27. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 27. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 27. § (8) bekezdése a 30. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^37]: A 27. § (9) bekezdése a 30. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 9. § Az R.2. 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^9]
 
-## „(4) Sikertelen gyakorlati vizsga esetén az adott vizsgarész megismétlésére a jelölt további hat hónap, sikertelen elméleti vizsga esetén három hónap gyakorlat után jelentkezhet.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
