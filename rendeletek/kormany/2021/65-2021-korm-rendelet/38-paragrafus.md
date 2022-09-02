@@ -1,5 +1,3 @@
-## 37. § Nem lép hatályba a közneveléssel összefüggő egyes kormányrendeletek módosításáról szóló 417/2020. (VIII. 30.) Korm. rendelet 7. §-a, 8. § b) pontja és 1. melléklete.
-
 ## 9. Záró rendelkezések
 
 38. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetése napján 23 órakor lép hatályba.
