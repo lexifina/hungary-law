@@ -1,3 +1,3 @@
-11. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^146]
+11. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^147]
 
-[^146]: A 11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^147]: A 11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-572-20-
 | 2022-01-01 | 2020-572-20-22.15 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-01-02 | 2020-572-20-22.16 | 2010: CXXX. törvény |
 | 2022-09-01 | 2020-572-20-22.17 | 2010: CXXX. törvény |
+| 2022-09-02 | 2020-572-20-22.18 | 2010: CXXX. törvény |
