@@ -1,1 +1,0 @@
-## 1. § A Fővárosi Önkormányzat kezelésében lévő főútvonalak, közutak és közterületek kijelöléséről szóló 432/2012. (XII. 29.) Korm. rendelet (a továbbiakban: R.) 2. mellékletében foglalt táblázat B:270 mezőjében a „Petőfi tér – Szende Pál utca” szövegrész helyébe a „Petőfi tér – Wekerle Sándor utca” szöveg lép.
