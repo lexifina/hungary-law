@@ -1,5 +1,5 @@
-## 3. § Az Európai Támogatásokat Auditáló Főigazgatóságról szóló 210/2010. (VI. 30.) Korm. rendelet 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A főigazgatót feladatai ellátásában főigazgató-helyettes segíti, akit a főigazgató nevez ki és ment fel.”
+## 3. §[^4]
 
 ## 4. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veszettte.
