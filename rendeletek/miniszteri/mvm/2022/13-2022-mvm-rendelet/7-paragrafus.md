@@ -1,23 +1,32 @@
-## lép.
+## 6. §[^6]
 
 ## 7. § A Rendelet
 
-a) 1. §-ában az „állami tisztviselő” szövegrész helyébe a „kormánytisztviselő” szöveg,
+a)[^7]
 
-b)[^1]
+b)[^8]
 
-c) 2. § (4) bekezdésében az „1. melléklet szerinti” szövegrész helyébe az „1. melléklet szerinti adattartalmú” szöveg,
+c)[^9]
 
-d) 3. § (1) bekezdésében az „állami tisztviselőből” szövegrész helyébe a „kormánytisztviselőből” szöveg,
+d)[^10]
 
-e) 3. § (9) bekezdés g) pontjában a „minta szerinti” szövegrész helyébe az „adattartalmú” szöveg,
+e)[^11]
 
-f) 4. § (1) bekezdésében a „tanfolyam időtartama – a (2) bekezdésben foglalt kivétellel – 160 óra,” szövegrész helyébe a „tanfolyam időtartama 160 óra,” szöveg,
+f)[^12]
 
-g) 4. § (2) bekezdésében az „állam- és jogtudományi képzési” szövegrész helyébe a „jogi” szöveg,
+g)[^13]
 
-h) 2. melléklet 4. pontjában a „30 percet” szövegrész helyébe a „60 percet” szöveg, az „a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.” szövegrész helyébe az „az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság” szöveg,
+h)[^14]
 
-i) 2. melléklet 5. pontjában a „három kérdésből” szövegrész helyébe a „három témakörből” szöveg, a „tételei között szereplő” szövegrész helyébe a „témaköreihez kapcsolódó” szöveg
+i)[^15]
 
-[^1]: A 7. § b) pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § b) pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^9]: A 7. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 7. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 7. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 7. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 7. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 7. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
