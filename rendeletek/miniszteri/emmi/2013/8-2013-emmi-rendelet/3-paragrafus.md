@@ -1,4 +1,4 @@
-3. §[^7] (1) Az 1. § a) pontja szerinti osztatlan, kétszakos tanárképzésben a tanulmányokat a két tanárszakon egyszerre kell megkezdeni és befejezni. A záróvizsgára bocsátás feltétele mindkét tanárszakon a tanulmányok lezárása, beleértve a szakdolgozat elkészítését és az összefüggő egyéni iskolai gyakorlat teljesítését is. A kétszakos tanárképzésben az oklevél kiadásának feltétele a két tanárszak képzési és kimeneti követelményeinek teljesítése, a záróvizsga sikeres letétele és a nyelvvizsga követelményeinek teljesítése.
+3. §[^8] (1) Az 1. § a) pontja szerinti osztatlan, kétszakos tanárképzésben a tanulmányokat a két tanárszakon egyszerre kell megkezdeni és befejezni. A záróvizsgára bocsátás feltétele mindkét tanárszakon a tanulmányok lezárása, beleértve a szakdolgozat elkészítését és az összefüggő egyéni iskolai gyakorlat teljesítését is. A kétszakos tanárképzésben az oklevél kiadásának feltétele a két tanárszak képzési és kimeneti követelményeinek teljesítése, a záróvizsga sikeres letétele és a nyelvvizsga követelményeinek teljesítése.
 
 (2) Az 1. § a) pontja szerinti, két tanárszakon egyidejűleg folyó tanárképzésben a tanári felkészítés szakmódszertani követelményeit, valamint az adott tanárszakhoz tartozó tantárgyak tanításával kapcsolatos – a képzéssel párhuzamosan, vezetőpedagógus (vezető tanár) irányításával folyó és az összefüggő egyéni iskolai gyakorlat keretében folyó – tanítási gyakorlatokat mindkét tanárszakon teljesíteni kell.
 
@@ -14,4 +14,4 @@
 
 (8) Az 1. § c) pontja szerinti mesterképzésben, a tanári szakképzettség oklevélben szereplő megjelölése megegyezik a tanárszak képzési és kimeneti követelményeiben, az 1. melléklet 2. pontjára figyelemmel meghatározott szakképzettség-megjelöléssel.
 
-[^7]: A 3. § a 64/2021. (XII. 29.) ITM rendelet 4. §-ával megállapított szöveg.
+[^8]: A 3. § a 64/2021. (XII. 29.) ITM rendelet 4. §-ával megállapított szöveg.

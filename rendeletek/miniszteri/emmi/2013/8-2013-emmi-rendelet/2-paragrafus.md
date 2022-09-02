@@ -8,9 +8,9 @@
 
 (5) A művészeti tanárszakok képzési és kimeneti követelményeit, a művészeti szakképzés szakmai területeinek megfelelően az 5. melléklet határozza meg.
 
-(6)[^5] A hitéleti tanárszakok képzési és kimeneti követelményeit a 6. melléklet határozza meg.
+(6)[^6] A hitéleti tanárszakok képzési és kimeneti követelményeit a 6. melléklet határozza meg.
 
-(7)[^6] A szaktanárszakok képzési és kimeneti követelményeit a 7. melléklet határozza meg.
+(7)[^7] A szaktanárszakok képzési és kimeneti követelményeit a 7. melléklet határozza meg.
 
-[^5]: A 2. § (6) bekezdését a 79/2013. (XII. 19.) EMMI rendelet 1. §-a iktatta be.
-[^6]: A 2. § (7) bekezdését a 18/2016. (VIII. 5.) EMMI rendelet 13. §-a iktatta be, szövege a 64/2021. (XII. 29.) ITM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 2. § (6) bekezdését a 79/2013. (XII. 19.) EMMI rendelet 1. §-a iktatta be.
+[^7]: A 2. § (7) bekezdését a 18/2016. (VIII. 5.) EMMI rendelet 13. §-a iktatta be, szövege a 64/2021. (XII. 29.) ITM rendelet 3. §-ával megállapított szöveg.

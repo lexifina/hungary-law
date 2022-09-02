@@ -1,4 +1,4 @@
-3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^34]
+3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^35]
 
 A)
 
@@ -14,7 +14,7 @@ A KÖZISMERETI TANÁRSZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
 szerezhető.
 
-2. Az 1. § c) pontja szerinti mesterképzésben a tanári mesterszakra való belépés előzményeként elfogadott szakok a miniszter által közleményben közzé tett, a szakterületi képzés képzési területének megfelelő szakirányú mesterképzési szakok, valamint az ezen szakok előzményeként az 1993. évi felsőoktatási törvény szerint megfeleltethető egyetemi szintű szakok.
+2. Az 1. § c) pontja szerinti mesterképzésben a tanári mesterszakra való belépés előzményeként elfogadott szakok a felsőoktatásért felelős miniszter által közleményben közzétett, a szakterületi képzés képzési területének megfelelő szakirányú mesterképzési szakok, valamint az ezen szakok előzményeként az 1993. évi felsőoktatási törvény szerint megfeleltethető egyetemi szintű szakok.
 
 3. A finn nyelv és kultúra tanára, a magyar mint idegen nyelv tanára, a filozófiatanár, a művészettörténet-tanár, valamint a honvédelmi alapismeretek tanára szakképzettség az 1. § c) pontja szerinti tanári mesterszakon szerezhető.
 
@@ -5058,4 +5058,62 @@ b) képességei
 
 – Képes ismereteit tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
 
-[^34]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított szöveg.
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes a portugál nyelv és kultúra speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
+
+– Képes a portugál nyelv tantárgyában egyéni bánásmódot igénylő tanulókat felismerni, hatékonyan fejleszteni és a többi tanulóval együtt differenciáltan nevelni, oktatni, számukra differenciált bánásmódot nyújtani.
+
+c) attitűdje
+
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+– A tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtési lehetőségeket.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+b) képességei
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
+
+– Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával összefüggésben felmerülő legfontosabb aktualitások megértésében segíteni a tanulókat.
+
+c) attitűdje
+
+– Törekszik úgy nevelni, hogy tanítványai mások véleményét, értékeit tiszteljék.
+
+– Célul tűzi ki az ismereteken alapuló, mérlegelő gondolkodás képességének kialakítását a tanulókban.
+
+– Fontosnak tartja az etnikumok és nemzetiségek iránti tolerancia kialakítását.
+
+– Folyamatosan együttműködik a szülőkkel.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Legalább C1 szintű, használható nyelvtudással rendelkezik.
+
+– Ismeri a beszélt és írott portugál nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+
+– Ismeri a szinkrón nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit.
+
+– Ismeri a portugál nyelvű kultúrákat, azok sajátosságait, ismeri a portugál nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a portugál nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is.
+
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, valamint az elméleti kérdésekről szóló empirikus kutatások eredményeit.
+
+– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket.
+
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+
+[^35]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja szerint módosított szöveg.

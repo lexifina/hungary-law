@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-8-20-5H
 | 2017-01-01 | 2013-8-20-5H.6 | 18/2016. (VIII. 5.) EMMI rendelet |
 | 2019-02-19 | 2013-8-20-5H.7 | 18/2016. (VIII. 5.) EMMI rendelet |
 | 2021-12-30 | 2013-8-20-5H.8 | 64/2021. (XII. 29.) ITM rendelet |
+| 2022-09-02 | 2013-8-20-5H.9 | 1/2022. (IX. 1.) KIM rendelet |
