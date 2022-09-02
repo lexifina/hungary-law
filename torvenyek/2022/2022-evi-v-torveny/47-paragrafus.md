@@ -1,1 +1,1 @@
-47. § Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés q) pont nyitó szövegrészében a „viselésére” szövegrész helyébe a „viselésére, a halottvizsgálati bizonyítvány részletes adattartalmára” szöveg lép.
+47. §
