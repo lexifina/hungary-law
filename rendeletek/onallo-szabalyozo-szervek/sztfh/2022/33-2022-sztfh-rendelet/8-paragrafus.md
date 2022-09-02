@@ -1,14 +1,18 @@
-## 7. §[^7]
+## 7. §[^8]
 
-## 8. § Az R3.
+## 8. §[^9]
 
-a)[^8]
+a)[^10]
 
-b) 29. § (2) bekezdés l) pontjában az „a Bt. 27. § (2a) bekezdése” szövegrész helyébe az „a Bt. 27. § (7) bekezdése” szöveg,
+b)[^11]
 
-c) 30. § (2) bekezdés c) pontjában az „a Bt. 27. § (2a) bekezdése” szövegrész helyébe az „a Bt. 27. § (7) bekezdése” szöveg,
+c)[^12]
 
-d) 30. § (7) bekezdés nyitó szövegrészében az „A Bt. 27. § (2a) bekezdése” szövegrész helyébe az „A Bt. 27. § (7) bekezdése” szöveg
+d)[^13]
 
-[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 8. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 8. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 8. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

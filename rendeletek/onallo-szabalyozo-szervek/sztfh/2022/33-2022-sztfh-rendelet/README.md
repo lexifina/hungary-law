@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-33-20-8
 | 2022-08-29 | 2022-33-20-8K.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-08-30 | 2022-33-20-8K.4 | 2010: CXXX. törvény |
 | 2022-09-01 | 2022-33-20-8K.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-09-02 | 2022-33-20-8K.6 | 2010: CXXX. törvény |
