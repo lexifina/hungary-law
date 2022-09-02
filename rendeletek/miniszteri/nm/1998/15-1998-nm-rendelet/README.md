@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2021-09-18 | 1998-15-20-3D.61 | 22/2019. (IX. 30.) EMMI rendelet |
 | 2022-01-01 | 1998-15-20-3D.62 | 62/2021. (XII. 29.) EMMI rendelet |
 | 2022-03-29 | 1998-15-20-3D.63 | 21/2016. (VIII. 24.) EMMI rendelet |
+| 2022-09-02 | 1998-15-20-3D.64 | 6/2020. (III. 6.) EMMI rendelet |
