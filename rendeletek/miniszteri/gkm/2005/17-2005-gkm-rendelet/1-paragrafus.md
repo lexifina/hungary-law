@@ -1,8 +1,8 @@
-1. § (1) A kiemelkedő színvonalú formatervezői teljesítmény elismeréseként Magyar Formatervezési Díjat (a továbbiakban: Díj) alapítok.
+1. § (1)[^1] A kiemelkedő színvonalú formatervezői teljesítmény elismeréseként Magyar Formatervezési Díj (a továbbiakban: Díj) adományozható.
 
 (2) A Díj nyilvános pályázat útján nyerhető el.
 
-(3) A díjazott a Díj odaítélését igazoló oklevelet és pénzjutalmat kap. A Díjjal járó pénzjutalom összegét a Magyar Formatervezési Tanács (a továbbiakban: MFT) javaslatára a Gazdasági és Közlekedési Minisztérium (a továbbiakban: minisztérium) az éves költségvetése terhére biztosítja.
+(3)[^2] A díjazott a Díj odaítélését igazoló oklevelet és pénzjutalmat kap. A Díjjal járó pénzjutalom összegét a Magyar Formatervezési Tanács (a továbbiakban: MFT) javaslatára a kormányzati tudománypolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) az éves költségvetése terhére biztosítja.
 
 (4) A (3) bekezdés szerinti pénzjutalom összege Díjanként a köztisztviselők jogállásáról szóló 1992. évi XXXIII. törvény szerinti mindenkori illetményalap tizenötszörös összegének megfelelő összeg.
 
@@ -10,8 +10,11 @@
 
 (6) A termékkategóriában öt, a vizuális kommunikáció-, a terv- és a diákkategóriában három-három Díj adható.
 
-(7)[^1] A Díjban részesülő személyek nevét kategóriánként, továbbá – termékkategória esetén – a gyártó nevét a minisztérium, valamint a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal) hivatalos lapjában közzé kell tenni.
+(7)[^3] A Díjban részesülő személyek nevét kategóriánként, továbbá – termékkategória esetén – a gyártó nevét a minisztérium, valamint a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal) hivatalos lapjában közzé kell tenni.
 
-(8) A Díjat a gazdasági és közlekedési miniszter (a továbbiakban: miniszter) adja át ünnepélyes keretek között.
+(8)[^4] A Díjat a miniszter (a továbbiakban: miniszter) adja át ünnepélyes keretek között.
 
-[^1]: Az 1. § (7) bekezdése a 27/2010. (XII. 28.) KIM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése az 1/2022. (IX. 1.) KIM rendelet 6. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése az 1/2022. (IX. 1.) KIM rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (7) bekezdése a 27/2010. (XII. 28.) KIM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § (8) bekezdése az 1/2022. (IX. 1.) KIM rendelet 7. § b) pontja szerint módosított szöveg.

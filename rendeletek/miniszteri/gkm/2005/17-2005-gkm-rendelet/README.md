@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-17-20-0
 | --- | --- | --- |
 | 2005-04-03 | 2005-17-20-0L.1 | 17/2005. (III. 26.) GKM rendelet |
 | 2011-01-01 | 2005-17-20-0L.2 | 27/2010. (XII. 28.) KIM rendelet |
+| 2022-09-02 | 2005-17-20-0L.3 | 1/2022. (IX. 1.) KIM rendelet |
