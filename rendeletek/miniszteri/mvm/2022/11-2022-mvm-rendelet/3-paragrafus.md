@@ -1,3 +1,3 @@
-## 2. § A NEAr. 14/B. §-a a következő (8) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(8) Az egyszerűsített támogatás elszámolása az Ávr. 93. § (1a) bekezdése szerint történik.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
