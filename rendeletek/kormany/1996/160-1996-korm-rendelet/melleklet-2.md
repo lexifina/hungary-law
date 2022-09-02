@@ -46,7 +46,9 @@
 
 ## p)[^110] a miniszterelnök elhelyezését biztosító épület, valamint az annak megközelítését és elhagyását biztosító kiszolgálólétesítmény.
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^111]
+## q)[^111] az építési és beruházási miniszter elhelyezését biztosító épület.
+
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^112]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -189,4 +191,5 @@
 [^108]: Az 1. melléklet 2. pont m) alpontját a 238/2022. (VI. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte, újonnan a 243/2022. (VII. 4.) Korm. rendelet 1. §-a iktatta be.
 [^109]: Az 1. melléklet 2. pont n) alpontját a 238/2022. (VI. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte, újonnan a 243/2022. (VII. 4.) Korm. rendelet 1. §-a iktatta be.
 [^110]: Az 1. melléklet 2. pont p) alpontját a 267/2019. (XI. 19.) Korm. rendelet 2. §-a iktatta be.
-[^111]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^111]: Az 1. melléklet 2. pont q) alpontját a 322/2022. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^112]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
