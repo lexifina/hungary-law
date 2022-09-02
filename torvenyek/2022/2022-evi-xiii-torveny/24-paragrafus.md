@@ -1,1 +1,1 @@
-24. § Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 3. § (2a) bekezdésében az „a kisadózók tételes adója” szövegrész helyébe az „a kisadózó vállalkozók tételes adójáról szóló törvény” szöveg lép.
+### 24. §
