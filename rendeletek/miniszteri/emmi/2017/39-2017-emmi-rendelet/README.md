@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-39-20-5
 | 2018-01-02 | 2017-39-20-5H.2 | 2010: CXXX. törvény |
 | 2018-02-01 | 2017-39-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-02-02 | 2017-39-20-5H.4 | 2010: CXXX. törvény |
+| 2022-09-02 | 2017-39-20-5H.5 | 1/2022. (IX. 1.) KIM rendelet |
