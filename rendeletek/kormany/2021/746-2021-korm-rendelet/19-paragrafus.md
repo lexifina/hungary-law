@@ -1,1 +1,3 @@
-## 18. § Hatályát veszti a közneveléssel összefüggő egyes kormányrendeletek módosításáról szóló 417/2020. (VIII. 30.) Korm. rendelet [a továbbiakban: 417/2020. (VIII. 30.) Korm. rendelet] 27. § (3) bekezdése.
+## 18. §[^24]
+
+[^24]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

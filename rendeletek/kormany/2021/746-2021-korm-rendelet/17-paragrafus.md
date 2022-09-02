@@ -1,5 +1,5 @@
-## 16. §[^21]
+## 16. §[^22]
 
 ## 4. A Nemzeti Kutatási, Fejlesztési és Innovációs Hivatalról, valamint a Nemzeti Kutatási, Fejlesztési és Innovációs Alap kezelő szervének kijelöléséről szóló 344/2019. (XII. 23.) Korm. rendelet módosítása
 
-[^21]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
