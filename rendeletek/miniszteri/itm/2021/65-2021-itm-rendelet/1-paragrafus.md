@@ -8,7 +8,7 @@ a) a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészet
 
 b) az államtudományi képzési területen szerezhető képesítések jegyzékéről és a képzések képzési és kimeneti követelményeiről szóló 222/2019. (IX. 25.) Korm. rendeletben [a továbbiakban: 222/2019. (IX. 25.) Korm. rendelet]
 
-## meghatározott eltéréssel terjed ki.
+meghatározott eltéréssel terjed ki.
 
 (4) E rendelet hatálya a tanárképzésre a tanárképzés rendszeréről, a szakosodás rendjéről és a tanárszakok jegyzékéről szóló 283/2012. (X. 4.) Korm. rendeletben meghatározott eltéréssel terjed ki.
 

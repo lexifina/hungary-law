@@ -1,5 +1,3 @@
-## A felsőoktatási szakképzések és a megszerezhető szakképzettségek jegyzéke
-
 |  | A | B | C | D | E | F | G |
 
 | 1. | Képzési terület | Képzési terület angol nyelvű megnevezése | Felsőoktatási szakképzés | Felsőoktatási szakképzés angol nyelvű megnevezése | Szakképzettség | Felsőoktatási szakképzésben szerezhető szakképzettség angol nyelvű megnevezése | EKKR és MKKR szint |
@@ -65,3 +63,5 @@
 | 20. | légijármű-vezetés felsőoktatási szakképzés | Professional Pilot Training | légijármű-vezető | Professional Pilot | 5 |
 
 2. melléklet a 65/2021. (XII. 29.) ITM rendelethez
+
+Alapképzések és alapképzésben szerezhető szakképzettségek jegyzéke

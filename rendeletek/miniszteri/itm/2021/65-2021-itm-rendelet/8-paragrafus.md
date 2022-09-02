@@ -15,3 +15,5 @@ d) Mongólia-tanulmányok mesterképzési szak a 139/2015. (VI. 9.) Korm. rendel
 e) Kína-tanulmányok mesterképzési szak a 139/2015. (VI. 9.) Korm. rendelet szerinti sinológia mesterképzési szakkal,
 
 f) könyvtár- és információtudomány mesterképzési szak a 139/2015. (VI. 9.) Korm. rendelet szerinti könyvtártudomány mesterképzési szakkal
+
+azonos.

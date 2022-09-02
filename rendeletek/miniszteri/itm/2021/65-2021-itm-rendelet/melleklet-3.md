@@ -1,5 +1,3 @@
-## Alapképzések és alapképzésben szerezhető szakképzettségek jegyzéke
-
 |  | A | B | C | D | E | F | G |
 
 | 1. | Képzési Terület | Képzési terület angol nyelvű megnevezése | Alapképzési szak | Alapképzési szak angol nyelvű megnevezése | Szakképzettség | Alapképzésben szerezhető szakképzettség angol nyelvű megnevezése | EKKR és MKKR szint |
@@ -258,7 +256,7 @@
 
 | 86. | digitális fogászati tervezés | Digital Technology in Dentistry | digitális fogászati tervező | Digital Dental Designer | 6 |
 
-| 87. |  |  | egészségügyi gondozás és prevenció | Health Care and DiseasePrevention | 1. népegészségügyi ellenőr | 1. Public Health Supervisor | 6 |
+| 87. | egészségügyi gondozás és prevenció | Health Care and DiseasePrevention | 1. népegészségügyi ellenőr | 1. Public Health Supervisor | 6 |
 
 | 2. védőnő | 2. Health Visitor |
 
