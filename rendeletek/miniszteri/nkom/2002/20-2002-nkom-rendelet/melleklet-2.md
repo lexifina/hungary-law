@@ -488,9 +488,9 @@ E rovat általában a kapcsolatos régészeti feltárás dokumentációjának (i
 
 A 19–26. rovatok bejegyzéséről lásd az I. fejezetet.
 
-II/C. Alfejezet
+II/C. Alfejezet[^9]
 
-A természettudományi anyag – sajátosságai miatt – sok esetben nem kezelhető a jelen melléklet II/A. vagy II/B. alfejezetében leírtak szerint, egyedileg. (Pl. gerinctelenek, száraz állapotban őrzött virágos és virágtalan növények, növénymagvak, mikropaleontológiai anyag, mikroszkópi preparátumok stb. esetében.) Ilyenkor a jelen rendelet 6., illetve 15. §-ainak megfelelő szekrénykataszteri nyilvántartást kell választani. Amennyiben annak sem tartható be minden előírása (pl. a darabszám rögzítése), a nemzeti kulturális örökség minisztere egyedi szabályozást engedélyezhet.
+A természettudományi anyag – sajátosságai miatt – sok esetben nem kezelhető a jelen melléklet II/A. vagy II/B. alfejezetében leírtak szerint, egyedileg. (Pl. gerinctelenek, száraz állapotban őrzött virágos és virágtalan növények, növénymagvak, mikropaleontológiai anyag, mikroszkópi preparátumok stb. esetében.) Ilyenkor a jelen rendelet 6., illetve 15. §-ainak megfelelő szekrénykataszteri nyilvántartást kell választani. Amennyiben annak sem tartható be minden előírása (pl. a darabszám rögzítése), a miniszter egyedi szabályozást engedélyezhet.
 
 Növénygyűjtemények szekrénykataszteri nyilvántartásánál a sorszámmal ellátott (vagy más módon megjelölt) köteget (fasciculust) kell alapegységül venni; így a tárolószekrény minden polcának vagy egységének külön lapja lehet.
 
@@ -1865,3 +1865,5 @@ Az átvevő későbbi azonosítását is lehetővé tévő adatai szerepelnek e 
 15. Megjegyzések*
 
 E rovat olyan egyedi bejegyzésre használható, amelyekre az előbb felsoroltak nem nyújtanak lehetőséget.
+
+[^9]: A 2. számú melléklet II. fejezet II/C. alfejezete az 1/2022. (IX. 1.) KIM rendelet 3. §-a szerint módosított szöveg.
