@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-320-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-08-19 | 2022-320-20-22.1 | 320/2022. (VIII. 18.) Korm. rendelet |
+| 2022-09-02 | 2022-320-20-22.2 | 2022. évi VI. törvény |
