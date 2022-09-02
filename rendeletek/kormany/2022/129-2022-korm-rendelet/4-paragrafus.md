@@ -1,1 +1,3 @@
-## 3. § A Korm. rendelet 15/B. §-ában a „20. §-ban,” szövegrész helyébe a „20. §-ban, a 20/A. §-ban,” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
