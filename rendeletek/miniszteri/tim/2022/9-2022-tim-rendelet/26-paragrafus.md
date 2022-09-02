@@ -1,3 +1,3 @@
-## 25. § A közúti járművezetők pályaalkalmassági vizsgálatáról szóló 41/2004. (IV. 7.) GKM rendelet (a továbbiakban: R7.) 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 25. §[^25]
 
-## „(1) A pályaalkalmassági vizsgálatért a pályaalkalmassági vizsgálatot kezdeményezőnek a 2. számú mellékletben meghatározott pályaalkalmassági vizsgálati eljárási díjat (a továbbiakban: díj) kell fizetnie. A díjat a Közlekedési Alkalmassági és Vizsgaközpont (a továbbiakban: vizsgaközpont) részére átutalással a vizsgaközpont OTP Bank Nyrt.-nél vezetett 11711003-21463062 számú számlájára, vagy készpénz-átutalási megbízással kell befizetni.”
+[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

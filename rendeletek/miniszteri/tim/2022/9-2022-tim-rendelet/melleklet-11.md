@@ -1,3 +1,3 @@
-11. melléklet a 9/2022. (VIII. 1.) TIM rendelethez[^137]
+11. melléklet a 9/2022. (VIII. 1.) TIM rendelethez[^139]
 
-[^137]: A 11. melléklet a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+[^139]: A 11. melléklet a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.

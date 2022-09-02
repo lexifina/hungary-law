@@ -1,3 +1,3 @@
-3. melléklet a 9/2022. (VIII. 1.) TIM rendelethez[^129]
+3. melléklet a 9/2022. (VIII. 1.) TIM rendelethez[^131]
 
-[^129]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
