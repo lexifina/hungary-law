@@ -1,5 +1,3 @@
-## 4. § A Cvhr1. 22. §-a helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „22. § (1) Ez a rendelet az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, kivéve az (EU) 2019/1151 irányelv 1. cikkének az (EU) 2017/1132 irányelv 13i. cikkét, 13j. cikk (2) bekezdését, valamint 16. cikk (6) bekezdését megállapító rendelkezéseit.
-
-## (2) Ez a rendelet az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2121 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
