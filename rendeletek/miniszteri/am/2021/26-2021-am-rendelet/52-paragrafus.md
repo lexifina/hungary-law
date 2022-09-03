@@ -10,7 +10,7 @@ a) olyan késztermékre, amelyet ugyanazon vállalkozás különböző telephely
 
 b) a termelő saját fogyasztására szánt szőlőmust és borászati termék mennyiségére.
 
-(2) Az Európai Unió területén először Magyarországon közfogyasztásra forgalomba hozott borászati terméken kötelező a forgalombahozatali azonosító feltüntetése, amelyet az „L” vagy „FHA” felirat előz meg.
+(2)[^14] Az Európai Unió területén először Magyarországon közfogyasztásra forgalomba hozott borászati terméken kötelező a forgalombahozatali azonosító feltüntetése, amelyet az „L” vagy „NÉBIH” felirat előz meg.
 
 (3) Az Európai Unió területén először Magyarországon forgalomba hozott földrajzi árujelző nélküli borok kiszerelésén a származási országot
 
@@ -25,3 +25,5 @@ d) 50 ml-ig minimum 2 mm-es
 betűnagysággal kell feltüntetni.
 
 (4) Az Európai Unió területén először Magyarországon forgalomba hozott, az Európai Unió több tagállamából származó szőlőből készült borászati terméken az összes érintett tagállamot fel kell tüntetni a következők szerint: „... és ... országokból származó borok házasításával készült európai uniós borászati termék”.
+
+[^14]: Az 52. § (2) bekezdése a 27/2022. (VIII. 31.) AM rendelet 19. § b) pontja szerint módosított szöveg.

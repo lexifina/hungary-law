@@ -48,7 +48,7 @@
 
 | 24. | A nem borvidéki területekre érvényes pontérték | 274 |
 
-8. melléklet a 26/2021. (VII. 29.) AM rendelethez
+8. melléklet a 26/2021. (VII. 29.) AM rendelethez[^28]
 
 Szabályozott kifejezések listája
 
@@ -96,7 +96,7 @@ Szabályozott kifejezések listája
 
 | 5. | „blanc de noir” | bármelyik | minőségi pezsgő | Olyan minőségi pezsgő, amely kékszőlőből készült, de színben fehérborra jellemző, szalmasárga, citromsárga és hasonló árnyalatai. |
 
-| 6. | „cuvée” (francia) vagy „küvé” (magyar) | bármelyik | bármelyik | Legalább két szőlőfajta borából készült borászati termék. |
+| 6. | „cuvée” (francia) vagy „küvé” (magyar) | bármelyik | bármelyik | Pezsgő, minőségi pezsgő vagy illatos minőségi pezsgő kivételével legalább két szőlőfajta borából készült borászati termék. |
 
 | 7. | „első szüret” vagy „virgin vintage” | bármelyik | bármelyik | Az ültetvényről első alkalommal szüretelt szőlőből készült bor. |
 
@@ -112,11 +112,11 @@ Szabályozott kifejezések listája
 
 | 13. | „ó” (fajtanév vagy a „bor” szó elé írva – magyar) | bármelyik | bor | Legalább hároméves érlelést követően palackozott bor. |
 
-| 14. | „pétnat” (francia) | bármelyik | gyöngyözőbor és pezsgő | Olyan gyöngyözőbor vagy pezsgő, amely mindenben megfelel a natúrbor előírásainak, továbbá amely az első alkoholos erjedését palackban fejezi be, így természetes szén-dioxid tartalommal rendelkezik. 20 °C-os hőmérsékleten, palackban tárolva minimum 1 bar és maximum 4,5 bar túlnyomás uralkodik a benne oldott endogén szén-dioxid jelenléte miatt. |
+| 14. | „pétnat” (francia) | bármelyik | gyöngyözőbor és pezsgő | Olyan gyöngyözőbor vagy pezsgő, amely mindenben megfelel a natúrbor előírásainak, továbbá amely az első alkoholos erjedését palackban fejezi be, így természetes szén-dioxid tartalommal rendelkezik. 20 °C-os hőmérsékleten, palackban tárolva maximum 4,5 bar túlnyomás uralkodik a benne oldott endogén szén-dioxid jelenléte miatt. |
 
 | 15. | „prémium” (magyar), „premium” (angol) | bármelyik | bármelyik | Legfeljebb 60 hektoliter/ha seprős újbor hozamú szőlőültetvény terméséből készítik. |
 
-| 16. | „primőr” | bármelyik | bármelyik | A szüret évében, a szüretet követően legalább 30 nappal palackozott borászati termék. |
+| 16. | „primőr” | bármelyik | bármelyik | A szüret évében palackozott borászati termék. |
 
 | 17. | „reserve” (angol) | bármelyik | bor, minőségi pezsgő, pezsgő | – A vörösborokat minimum 18 hónapon keresztül kell érlelni, amiből legalább 12 hónapig maximum 330 l űrmértékű tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. – A fehér- és rozé borokat minimum 6 hónapon keresztül kell érlelni, amiből legalább 3 hónapig tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. – Csak tradicionális eljárással készült pezsgők és minőségi pezsgők esetében használható még a kifejezés, abban az esetben, ha minimum 18 hónap seprőn tartás történt és csak ezután került degorzsálásra. |
 
@@ -126,4 +126,6 @@ Szabályozott kifejezések listája
 
 | 20. | „termelői pezsgő” (magyar) | bármelyik | pezsgő, minőségi pezsgő | – A terméket a palackban történő második alkoholos erjesztéssel teszik pezsgővé. – A termék a küvé összeállításától számítva legalább kilenc hónapon át megszakítás nélkül a borseprőn marad ugyanabban az üzemben, ahol a küvé készül. – A terméket degorzsálással választják el a borseprőről. – Ugyanabban a gazdaságban – ideértve a termelői csoportokat is – termelt szőlőből állítják elő, amelyben a termelő a pezsgők vagy minőségi pezsgők készítésére szánt szőlőből bort készít. – A címkén jelölik a gazdaságot és a szőlőfajtát. |
 
-| 21. | „újbor” (magyar) | bármelyik | bármelyik | A szüret évében, a szüretet követően legalább 30 nappal palackozott bor. |
+| 21. | „újbor” (magyar) | bármelyik | bármelyik | A szüret évében palackozott bor. |
+
+[^28]: A 8. melléklet a 27/2022. (VIII. 31.) AM rendelet 19. § e) pontja szerint módosított szöveg.

@@ -6,6 +6,6 @@
 
 61. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2021. augusztus 1-jén lép hatályba.
 
-(2)[^9] A 70. § 2022. június 1-jén lép hatályba.
+(2)[^15] A 70. § 2022. június 1-jén lép hatályba.
 
-[^9]: A 61. § (2) bekezdése a 2/2022. (I. 27.) AM rendelet 6. §-a szerint módosított szöveg.
+[^15]: A 61. § (2) bekezdése a 2/2022. (I. 27.) AM rendelet 6. §-a szerint módosított szöveg.
