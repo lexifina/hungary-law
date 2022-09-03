@@ -1,4 +1,4 @@
-## Elszámolható hektáronkénti költségátalányok és kompenzáció
+## 0X07877_0
 
 |  | A | B | C | D | E | F | G |
 
@@ -40,7 +40,7 @@
 
 | 19. | a termeléskiesést ellentételező kompenzáció |  |  |  | 2 400 | – |
 
-2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^17]
+2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^22]
 
 1. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – fajtaváltás, áttelepítés
 
@@ -88,7 +88,7 @@
 
 | 21. | a) tevékenységgel érintett terület a világörökségről szóló 2011. évi LXXVII. törvény 2. § 5. pontja szerinti világörökségi területen található |  | 2 |
 
-| 22. | b) a tevékenységgel érintett terület kiemelt turisztikai fejlesztési térségben található |  | 1,5 |
+| 22. | b) a tevékenységgel érintett terület a turisztikai térségek meghatározásáról szóló 429/2020. (IX. 14.) Korm. rendelet [a továbbiakban: 429/2020. (IX. 14.) Korm. rendelet] 2. mellékletében meghatározott turisztikai térségben található |  | 1,5 |
 
 | 23. | F. A beruházás egyéb jellemzői |
 
@@ -144,7 +144,7 @@
 
 | 19. | a) tevékenységgel érintett terület a világörökségről szóló 2011. évi LXXVII. törvény 2. § 5. pontja szerinti világörökségi területen található |  | 1 |
 
-| 20. | b) a tevékenységgel érintett terület nemzeti turisztikai fejlesztési tervvel érintett területen található |  | 0,5 |
+| 20. | b) a tevékenységgel érintett terület a 429/2020. (IX. 14.) Korm. rendelet 2. mellékletében meghatározott turisztikai térségben található |  | 0,5 |
 
 | 21. | D. A beruházás egyéb jellemzői |
 
@@ -158,4 +158,4 @@
 
 | 26. | Összesen elérhető pontszám | 50 |  |
 
-[^17]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése szerint módosított szöveg.
+[^22]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése, a 27/2022. (VIII. 31.) AM rendelet 12. §-a szerint módosított szöveg.

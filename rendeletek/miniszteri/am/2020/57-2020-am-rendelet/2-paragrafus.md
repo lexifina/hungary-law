@@ -7,3 +7,5 @@ a) a fajtaváltás,
 b) az ültetvény áttelepítése, valamint
 
 c) a szőlőültetvény termesztéstechnológiai módszereinek javítása
+
+tevékenységek támogathatók.

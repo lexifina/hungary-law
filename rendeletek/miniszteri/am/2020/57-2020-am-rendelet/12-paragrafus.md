@@ -1,6 +1,6 @@
 ## 7. Az egyéni terv elbírálása
 
-12. § (1)[^10] A Kincstár a 9. § (1) bekezdése szerinti határidőben benyújtott egyéni terv jóváhagyásáról és a jóváhagyott egyéni terv végrehajtása esetére meghatározott maximális támogatási összegről a benyújtást követő év március 31. napjáig dönt.
+12. § (1)[^12] A Kincstár a 9. § (1) bekezdése szerinti határidőben benyújtott egyéni terv jóváhagyásáról és a jóváhagyott egyéni terv végrehajtása esetére meghatározott maximális támogatási összegről a benyújtást követő év március 31. napjáig dönt.
 
 (2) A Kincstár az egyéni terveket 34 millió eurónak megfelelő forintösszeg erejéig hagyja jóvá. A szőlőültetvény termesztéstechnológiai módszereinek javítása tevékenységre a jóváhagyható összeg legfeljebb 10%-a fordítható.
 
@@ -14,4 +14,4 @@
 
 (7) Amennyiben egy összefüggő terület tekintetében eltérőek az összefüggő területet alkotó tevékenységgel érintett területek kataszteri pontszámai, az összefüggő terület pontértékének megállapítása során a teljes összefüggő területre a kérelmezett legalacsonyabb kataszteri pontértékű terület után járó, a 2. mellékletben szereplő értékelési szempont szerinti pontérték vehető figyelembe.
 
-[^10]: A 12. § (1) bekezdése a 22/2021. (VI. 3.) AM rendelet 10. § c) pontja szerint módosított szöveg.
+[^12]: A 12. § (1) bekezdése a 22/2021. (VI. 3.) AM rendelet 10. § c) pontja szerint módosított szöveg.

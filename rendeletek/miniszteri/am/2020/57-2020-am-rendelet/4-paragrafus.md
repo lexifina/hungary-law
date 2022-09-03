@@ -1,5 +1,3 @@
-## áll.
-
 ## 4. § A támogatás mértéke az 1. mellékletben meghatározott költségátalányok és kompenzáció
 
 a) 75%-a, ha az intézkedéssel érintett terület a világörökségről szóló 2011. évi LXXVII. törvény 2. § 5. pontja szerinti világörökségi területen fekszik,

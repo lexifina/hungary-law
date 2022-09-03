@@ -12,7 +12,7 @@
 
 5. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 
-6. kiemelt turisztikai fejlesztési térség: a turisztikai térségek meghatározásáról szóló 429/2020. (IX. 14.) Korm. rendelet 2. mellékletében meghatározott terület,
+6.[^1]
 
 7. művelésmód: a tőkeformát, a sor- és tőtávolságot, a termelési szint magasságát és a lombfal magasságát meghatározó tevékenység,
 
@@ -34,6 +34,7 @@
 
 16. ültetvényleltár: az ültetvény pontos helyét, méretét, sor- és tőtávolságát, művelésmódját, tőállományát, szőlőfajta-összetételét soronként bemutató nyilvántartás.
 
-(2)[^1] Az (1) bekezdésben foglaltakon túlmenően a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény (a továbbiakban: Btv.), valamint a végrehajtására kiadott rendeletek fogalommeghatározásait kell figyelembe venni.
+(2)[^2] Az (1) bekezdésben foglaltakon túlmenően a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény (a továbbiakban: Btv.), valamint a végrehajtására kiadott rendeletek fogalommeghatározásait kell figyelembe venni.
 
-[^1]: Az 1. § (2) bekezdése a 26/2021. (VII. 29.) AM rendelet 69. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § 6. pontját a 27/2022. (VIII. 31.) AM rendelet 13. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (2) bekezdése a 26/2021. (VII. 29.) AM rendelet 69. § (1) bekezdésével megállapított szöveg.
