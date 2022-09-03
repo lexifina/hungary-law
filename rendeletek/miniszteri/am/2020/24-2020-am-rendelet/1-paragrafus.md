@@ -9,3 +9,7 @@ c) termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek
 d) termelői integrációs szervezet: a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény (a továbbiakban: Termékpiaci törvény) 2. § (1) bekezdés f) pontjában meghatározott, az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés a)–h), l)–o), q)–t), valamint v)–x) pontjában meghatározott ágazatokban – a 154. cikkben meghatározott feltételekkel – elismert szervezet;
 
 e) termelő tag: olyan termelő vagy termelőkből alakult jogi személy, amely termelői integrációs szervezet vagy termelői integrációs szervezetek társulásának tagjaként a termelői integrációs szervezet elismerésével érintett terméket termel.
+
+f)[^1] borászati termelő: a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: Hktv.) 4. § b) pontja szerinti termelő.
+
+[^1]: Az 1. § f) pontját a 27/2022. (VIII. 31.) AM rendelet 3. §-a iktatta be.

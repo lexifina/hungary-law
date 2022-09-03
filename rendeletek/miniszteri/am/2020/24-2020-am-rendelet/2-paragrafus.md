@@ -16,25 +16,41 @@ c) bizonylatokkal igazolt
 
 (3) Az e rendelet szerint elismert termelői integrációs szervezet esetében az elismerést követő harmadik naptári év tekintetében az (1) bekezdés b) pontjában foglalt hányadnak a 3%-ot el kell érnie.
 
-(4) Az (1) bekezdés b) pontjában foglaltaktól eltérően
+(4)[^2] Az (1) bekezdés b) pontjában foglaltaktól eltérően
 
-a) az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés l) pontja szerinti ágazat (bor) esetében 1000 hektáron vagy a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet (a továbbiakban: Borvhr.) 1. számú mellékletében meghatározott, érintett borrégiók szőlőterületének legalább 5%-án gazdálkodó termelők szervezete,
+a) az 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet XII. rész c) és d) pontja szerinti termékek esetében 500 hektáron vagy a szőlő- és bortermelés részletes szabályairól szóló 26/2021. (VII. 29.) AM rendelet (a továbbiakban: Bmr.) 1. mellékletében meghatározott borrégiók (a továbbiakban: borrégió) szőlőterületének legalább 2,5%-án gazdálkodó termelők szervezete,
 
-b) az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés s) pontja szerinti ágazat (baromfihús) esetében a termelők legalább 300 millió forint éves termékértékkel rendelkező szervezete,
+b) az 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet XII. rész a) és b) pontja szerinti termékek esetében az egy adott földrajzi árujelzővel ellátott, a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 9. § (1) bekezdés d) pontja szerinti forgalombahozatali azonosítóval (a továbbiakban: forgalombahozatali azonosító) rendelkező borászati terméket előállító borászati termelők legalább 51%-át tömörítő és e földrajzi árujelzővel jelölt borászati termékek mennyiségének legalább 20%-át közfogyasztásra forgalomba hozó borászati termelők szervezete,
 
-c) az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés q) pontja szerinti ágazat (sertéshús) esetében a termelők legalább 3 milliárd forint éves termékértékkel rendelkező szervezete
+c) az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés t) pontja szerinti ágazat esetében a termelők legalább 300 millió forint éves termékértékkel rendelkező szervezete,
+
+d) az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés q) pontja szerinti ágazat esetében a termelők legalább 3 milliárd forint éves termékértékkel rendelkező szervezete
 
 ## nyújthat be elismerési kérelmet.
 
-(5) A (4) bekezdés
+(5)[^3] A (4) bekezdés
 
-a) a) pontja szerinti területméretnek az e rendelet szerinti elismerést követő harmadik naptári év átlagában az 1000 hektárt vagy 10%-ot,
+a) a) pontja szerinti területméretnek az e rendelet szerinti elismerést követő harmadik borpiaci év átlagában az 1000 hektárt vagy 10%-ot,
 
-b) b) pontja szerinti összegnek az e rendelet szerinti elismerést követő harmadik naptári év tekintetében a 400 millió forintot,
+b) b) pontja szerinti borászati termelők által közfogyasztásra forgalomba hozott, földrajzi árujelzővel jelölt borászati termékek mennyiségének az e rendelet szerinti elismerést követő harmadik borpiaci év végéig legalább az e földrajzi árujelzővel jelölt borászati termékek teljes közfogyasztásra forgalomba hozott mennyiségének egyharmadát,
 
-c) c) pontja szerinti összegnek az e rendelet szerinti elismerést követő harmadik naptári év tekintetében az 5 milliárd forintot
+c) c) pontja szerinti összegnek az e rendelet szerinti elismerést követő harmadik borpiaci év tekintetében a 400 millió forintot,
+
+d) d) pontja szerinti összegnek az e rendelet szerinti elismerést követő harmadik borpiaci év tekintetében az 5 milliárd forintot
 
 ## el kell érnie.
+
+(5a)[^4] A (4) bekezdés b) pontja szerinti termelői integrációs szervezetek esetében
+
+a) a mennyiségi feltételek számítása a kérelem benyújtását megelőző három lezárt borpiaci év során kiadott és nem érvénytelenített forgalombahozatali azonosítók adatainak figyelembevételével történik,
+
+b) a (8) bekezdésben foglaltakat nem kell teljesíteni.
+
+(5b)[^5] A (4) bekezdés a) és b) pontja szerinti ágazatok esetében termelői integrációs szervezetként történő elismerési kérelmet nyújthat be a Hktv. alapján létrejött hegyközség a szőlészeti vagy borászati szekciójának termelői integrációs szervezetként történő elismerése iránt. Ebben az esetben
+
+a) nem kell figyelembe venni a (4)–(5a), (6) és (8) bekezdésben foglalt feltételek teljesülését, valamint
+
+b) az 1308/2013/EU európai parlamenti és tanácsi rendelet 152. cikk (1) bekezdés b) pontjában meghatározott termelői kezdeményezés igazolásaként az elismerés iránti kérelemhez csatolni kell a hegyközség szőlészeti vagy borászati szekciója tagjainak előzetes nyilatkozatát a termelői integrációs szervezeti tagság elfogadásáról.
 
 (6) A forgalmazott termék mennyiségére vonatkozó, az (1) bekezdés b) pontja szerinti minimumfeltétel teljesülésének vizsgálata során az elháríthatatlan külső ok (vis maior) miatt elszenvedett, a szövetkezet és a gazdasági társaság tagja részére
 
@@ -65,3 +81,8 @@ c) saját vagy – a Polgári Törvénykönyvről szóló 2013. évi V. törvén
 d) közeli hozzátartozója
 
 – az a)–d) pontban meghatározottak közötti forgalmat nem számolva – az elismerési kérelem beadását megelőző naptári évben, továbbértékesítési céllal legalább fele akkora mennyiségű, az elismeréssel érintett terméket vásárolt fel, mint amennyit megtermelt.
+
+[^2]: A 2. § (4) bekezdése a 27/2022. (VIII. 31.) AM rendelet 4. §-ával megállapított szöveg.
+[^3]: A 2. § (5) bekezdése a 27/2022. (VIII. 31.) AM rendelet 4. §-ával megállapított szöveg.
+[^4]: A 2. § (5a) bekezdését a 27/2022. (VIII. 31.) AM rendelet 4. §-a iktatta be.
+[^5]: A 2. § (5b) bekezdését a 27/2022. (VIII. 31.) AM rendelet 4. §-a iktatta be.
