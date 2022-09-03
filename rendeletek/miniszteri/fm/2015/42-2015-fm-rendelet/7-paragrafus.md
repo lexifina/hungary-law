@@ -14,7 +14,13 @@ meghatározott elháríthatatlan külső ok következtében jelentős mértékbe
 
 (4) A termelői csoportok évenkénti adminisztratív ellenőrzéséről a beszámoló jelentés és a 6/A. § (1) bekezdése szerinti szöveges értékelés alapján a miniszter gondoskodik. Az (5) bekezdésben foglaltak kivételével, az üzleti terv végrehajtása negyedik évének lezárása utáni időszakban, valamint abban az esetben, ha azt az adminisztratív ellenőrzés megállapítása indokolja, helyszíni szemlét kell tartani.
 
-(5) A miniszter a 2014. január 1-je előtt elismert termelői csoport esetében az elismerési feltételek fennállásának ellenőrzése érdekében háromévente legalább egy alkalommal helyszíni szemlét rendel el, és szükség esetén a 6. § (9) bekezdése szerint jár el.
+(5)[^21] A miniszter az elismerési feltételek fennállásának ellenőrzése érdekében
+
+a) a 2014. január 1-je előtt elismert termelői csoportok esetében háromévente legalább egy alkalommal,
+
+b) a 2014. január 1-je után elismert termelői csoportok esetében az elismerés évét követő 7. évben és azt követően háromévente legalább egy alkalommal
+
+helyszíni szemlét rendel el. Ha a helyszíni szemle során megállapításra kerül, hogy a termelői csoport nem felel meg az e rendeletben meghatározott, valamint az alapszabályban foglalt elismerési követelményeknek, vagy az elfogadott üzleti tervét nem megfelelően hajtotta végre, a miniszter a 6. § (9) bekezdésében foglaltak szerint jár el.
 
 (6) A termelői csoport a cégadatokban, valamint az alapszabályban bekövetkezett változásokról – az eredeti állapot és a módosítások kiemelésével – a 6/A. § (1) bekezdése szerinti szöveges értékeléssel egyidejűleg, elektronikus úton tájékoztatja a minisztert.
 
@@ -22,3 +28,4 @@ meghatározott elháríthatatlan külső ok következtében jelentős mértékbe
 
 [^19]: A 7. § a 23/2019. (V. 31.) AM rendelet 5. §-ával megállapított szöveg.
 [^20]: A 7. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 31. § a)–b) pontja szerint módosított szöveg.
+[^21]: A 7. § (5) bekezdése a 27/2022. (VIII. 31.) AM rendelet 1. §-ával megállapított szöveg.

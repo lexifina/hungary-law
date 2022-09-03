@@ -12,12 +12,12 @@
 
 | 6. | egyéb kategória: szója, rizs, tönköly- és durumbúza, ökológiai termék, faiskolai termék és szaporítóanyag, erdőgazdálkodás, bioenergetika |
 
-| 7. | 300 millió forint | állati kategória: tehéntej (nem beleértve a húsmarhát), húsmarha (beleértve a szürkemarhát, de nem beleértve a tehéntejet), sertés, baromfi (beleértve a fácánt, a struccot és az árutermelő galambot is) |
+| 7. | 300 millió forint | állati kategória: tehéntej (nem beleértve a húsmarhát), húsmarha (beleértve a szürkemarhát, de nem beleértve a tehéntejet), sertés, baromfitojás, baromfi (beleértve a fácánt, a struccot és az árutermelő galambot is) |
 
 | 8. | kertészeti kategória: csemegekukorica |
 
 | 9. | egyéb kategória: szántóföldi növénytermesztés (beleértve a szalmát, a vetőmagot, a szóját, a rizst, a tönköly- és durumbúzát, a cukorrépát és a csemegekukoricát is), cukorrépa |
 
-2. melléklet a 42/2015. (VII. 22.) FM rendelethez[^26]
+2. melléklet a 42/2015. (VII. 22.) FM rendelethez[^27]
 
-[^26]: A 2. mellékletet a 23/2019. (V. 31.) AM rendelet 9. §-a hatályon kívül helyezte.
+[^27]: A 2. mellékletet a 23/2019. (V. 31.) AM rendelet 9. §-a hatályon kívül helyezte.
