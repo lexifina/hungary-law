@@ -1,3 +1,5 @@
-## 12. § A bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeiről szóló 20/2017. (IX. 18.) EMMI rendelet 1. § e) pontjában a „gyermekek és az ifjúság védelméért” szövegrész helyébe a „gyermek- és ifjúságpolitikáért” szöveg lép.
+## 12. §[^10]
 
 ## 10. A kulturális szakemberek szakmai továbbképzési programjának nyilvántartásba vételével, valamint a népművészeti és népi iparművészeti alkotások minősítési eljárásával összefüggő igazgatási szolgáltatási díjról szóló 39/2017. (XII. 29.) EMMI rendelet módosítása
+
+[^10]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

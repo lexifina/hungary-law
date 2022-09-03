@@ -1,5 +1,5 @@
-## 14. § A szakképzési tankönyvvé nyilvánítással összefüggésben fizetendő igazgatási szolgáltatási díjakról szóló 45/2021. (IX. 8.) ITM rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az igazgatási szolgáltatási díjat a szakképzésért felelős miniszter által vezetett minisztérium Magyar Államkincstárnál vezetett, KIM Igazgatás 10032000-01425190-00000000 számú előirányzat-felhasználási keretszámlájára kell az eljárás megindítását megelőzően átutalással vagy az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel megfizetni az elektronikus ügyintézés részletszabályairól szóló kormányrendelet szerint. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését, a szakképzési tankönyvvé nyilvánítás alapjául szolgáló tankönyv megnevezését és az érintett tankönyv kiadói kódját.”
+## 14. §[^12]
 
 ## 12. A felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendelet módosítása
+
+[^12]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
