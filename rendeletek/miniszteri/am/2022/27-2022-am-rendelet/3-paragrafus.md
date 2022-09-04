@@ -1,3 +1,5 @@
-## 2. § A 42/2015. (VII. 22.) FM rendelet 1. mellékletében foglalt táblázat B:7 mezőjében a „sertés” szövegrész helyébe a „sertés, baromfitojás” szöveg lép.
-
 ## 2. A termelői integrációs szervezetekről szóló 24/2020. (VI. 22.) AM rendelet módosítása
+
+3. §[^4]
+
+[^4]: A 3–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

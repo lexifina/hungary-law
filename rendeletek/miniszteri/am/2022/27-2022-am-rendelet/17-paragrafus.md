@@ -1,3 +1,3 @@
-## 16. § A 26/2021. (VII. 29.) AM rendelet 35. § (1) bekezdése helyébe a következő rendelkezés lép:
+17. §[^18]
 
-## „(1) A borászati termék belföldi, valamint a borászati melléktermék, szőlő vagy zúzott cefre szállításakor a 11. melléklet szerinti adattartalmú kísérőokmány alkalmazandó.”
+[^18]: A 14–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „d) a borászati hatáskörben, erdészeti hatáskörben, valamint növénytermesztési hatáskörben eljáró megyei kormányhivatalok, továbbá az ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalok,”
+15. §[^16]
 
-## (számára a jogszabályban meghatározott feladataik ellátása céljából, az ahhoz szükséges mértékben.)
+[^16]: A 14–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
