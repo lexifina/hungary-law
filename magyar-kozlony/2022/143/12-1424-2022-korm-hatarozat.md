@@ -1,0 +1,44 @@
+# A Kormány 1424/2022. (IX. 5.) Korm. határozata
+
+Magyar Közlöny 2022. évi 143. szám, 2022. szeptember 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/98X0aQ6sY8LG1LV58UGK6307ba5d33c58/dokumentumok/90de687b1b7767ce6e581282975e9af53398fdf0/letoltes)
+
+---
+
+A Kormány 1424/2022. (IX. 5.) Korm. határozata
+az európai uniós források lebonyolítását érintő jogellenességek és szabálytalanságok megelőzése,
+felderítése és kijavítása érdekében működő független hatóság felállításával összefüggő feladatokról
+1. A Kormány az uniós költségvetés védelmét szolgáló általános feltételrendszerről szóló, 2020. december 16-i
+(EU, Euratom) 2020/2092 európai parlamenti és tanácsi rendelet alapján Magyarországgal szemben megindított
+eljárás keretében hozott korrekciós intézkedésként egyetért egy olyan független hatóság létrehozásával, amely
+általános rálátással rendelkezik, és beavatkozik azokban az esetekben, ahol a hatóság álláspontja szerint a feladat-
+és hatáskörrel rendelkező hatóságok nem tették meg a szükséges lépéseket olyan csalás, összeférhetetlenség,
+korrupció és egyéb jogsértés vagy szabálytalanság megelőzésére, felderítésére és kijavítására, amely hátrányosan
+érintheti az uniós költségvetéssel való hatékony és eredményes pénzgazdálkodást vagy az Unió pénzügyi
+érdekeinek védelmét, különös tekintettel a közbeszerzési eljárások keretében végrehajtott európai uniós pénzügyi
+támogatásokra. Ennek érdekében a Kormány 2022. szeptember 30-ig javaslatot tesz az Országgyűlés számára
+a hatóság – 2022. november 21. napja előtti – létrehozásához és működéséhez szükséges, a hatóság függetlenségét
+garantáló törvény elfogadására.
+2. A Kormány kötelezettséget vállal egy új Korrupcióellenes Munkacsoport 2022. december 1-jéig történő
+létrehozására olyan módon, hogy abban kormányzati és nem kormányzati szereplők létszám és szavazati jog
+tekintetében paritásos alapon vesznek részt, és annak működéséhez az 1. pont szerinti hatóság nyújt adminisztratív
+támogatást.
+3. A Kormány felhívja az igazságügyi minisztert, hogy a belügyminiszter, a Miniszterelnöki Kabinetirodát vezető
+miniszter, a Miniszterelnökséget vezető miniszter, a pénzügyminiszter és a területfejlesztési miniszter bevonásával,
+az Európai Bizottsággal, a Gazdasági Együttműködési és Fejlesztési Szervezettel (OECD) és más hazai és nemzetközi
+szervezetekkel konzultálva, a nemzetközi standardoknak megfelelően és a jó gyakorlatokat felhasználva készítse elő
+az uniós költségvetéssel való hatékony és eredményes pénzgazdálkodást vagy az Európai Unió pénzügyi érdekeinek
+védelmét érintő jogsértések és szabálytalanságok megelőzése, felderítése és kijavítása érdekében működő
+független hatóság felállításával és a Korrupcióellenes Munkacsoport működésével összefüggő jogszabályok
+tervezeteit, továbbá tegyen javaslatot az 1. pont szerinti hatóság, illetve a Korrupcióellenes Munkacsoport
+működését megfelelően biztosító költségvetésre és infrastruktúrára.
+Felelős: igazságügyi miniszter
+belügyminiszter
+Miniszterelnöki Kabinetirodát vezető miniszter
+Miniszterelnökséget vezető miniszter
+pénzügyminiszter
+területfejlesztési miniszter
+Határidő: 2022. szeptember 30.
+4. Hatályát veszti a Korrupcióellenes Munkacsoportról szóló 1337/2022. (VII. 15.) Korm. határozat.
+5. Ez a határozat a közzétételét követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
