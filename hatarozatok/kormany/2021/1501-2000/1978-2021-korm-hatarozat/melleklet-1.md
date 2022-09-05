@@ -76,7 +76,8 @@
 
 ## 2.[^2]
 
-1. melléklet az 1978/2021. (XII. 24.) Korm. határozathoz
+1. melléklet az 1978/2021. (XII. 24.) Korm. határozathoz[^3]
 
 [^1]: Az 1. pont 1.11. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1428/2022. (IX. 5.) Korm. határozat 4. pontja szerint módosított szöveg.

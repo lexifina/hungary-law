@@ -2,7 +2,7 @@
 
 | 1. | Tiszaderzs Községi Önkormányzat támogatása | 45 000 000 | Lakásfelújítás |
 
-| 2. | Tiszaigar Községi Önkormányzat támogatása | 40 000 000 | Közúthálózat felújítása |
+| 2. | Tiszaigar Községi Önkormányzat támogatása | 40 000 000 | Új hivatal épület napelem-rendszerének kialakítása, játszótér, edzőpark létrehozása |
 
 | 3. | Tiszaörs Községi Önkormányzat támogatása | 45 000 000 | Ingatlanfelújítás |
 
