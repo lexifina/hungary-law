@@ -32,7 +32,7 @@
 
 | 16. | Hernád Nagyközség Önkormányzata útfelújítási feladatainak támogatása | 60 000 000 | belterületi útfelújítás |
 
-| 17. | Kapuvár Város Önkormányzata szociális feladatainak támogatása | 800 000 000 | bentlakásos idősek otthona kialakítása II. ütem |
+| 17. | Kapuvár Város Önkormányzata szociális feladatainak támogatása | 800 000 000 | bentlakásos idősek otthona kialakítása II. ütem, útfelújítás |
 
 | 18. | Káva Község Önkormányzata útfejlesztési feladatainak támogatása | 60 000 000 | belterületi útfelújítás |
 
