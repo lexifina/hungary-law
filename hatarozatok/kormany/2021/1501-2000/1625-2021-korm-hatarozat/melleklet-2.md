@@ -20,7 +20,7 @@
 
 | 10. | Ete Község Önkormányzata közlekedésfejlesztési feladatainak támogatása | 15 000 000 | Útfelújítás |
 
-| 11. | Győr Megyei Jogú Város Önkormányzata közlekedésfejlesztési feladatainak támogatása | 2 500 000 000 | Adyvárosban tervezett komplex parkolásfejlesztés, illetve az ott található Kuopio park modernizációja |
+| 11. | Győr Megyei Jogú Város Önkormányzata közlekedésfejlesztési feladatainak támogatása | 2 500 000 000 | Adyvárosban tervezett komplex parkolásfejlesztés, illetve az ott található Kuopio park modernizációja, valamint Szabadhegy városrészben utak, járdák fejlesztése |
 
 | 12. | Gyula Város Önkormányzata közlekedésfejlesztési feladatainak támogatása | 1 020 000 000 | Tiborc utca és kapcsolódó útszakaszok felújítása |
 
@@ -43,6 +43,8 @@
 | 21. | Szombathely Megyei Jogú Város Önkormányzata infrastrukturális fejlesztéseinek támogatása | 905 000 000 | Belterületi útfejlesztések; Gyöngyös-patak hídrekonstrukció; a vásárcsarnok környékének rekonstrukciója, kapcsolódó parkolók kialakítása; víztorony és környezetének fejlesztése II. ütem |
 
 2. melléklet az 1625/2021. (IX. 3.) Korm. határozathoz
+
+1X07641_0
 
 | IX. Helyi önkormányzatok támogatásai XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 

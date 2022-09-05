@@ -32,4 +32,4 @@
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet az 1914/2021. (XII. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1914/2021. (XII. 15.) Korm. határozat 2. pontja, az 1428/2022. (IX. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
