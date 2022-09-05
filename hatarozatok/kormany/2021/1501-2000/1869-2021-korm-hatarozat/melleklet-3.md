@@ -48,7 +48,7 @@
 
 | 24. | Szerencs Város Önkormányzata fejlesztési feladatainak támogatása | 78 079 316 | Városi Tanuszoda és irodaépület tetőfelújítása; útfelújítás |
 
-| 25. | Tahitótfalu Község Önkormányzata fejlesztési feladatainak támogatása | 97 000 000 | Útfelújítás közmű-rekonstrukcióval; Almáskert Óvoda és Epreskert Óvoda játszóudvarának fejlesztése; ingatlanvásárlás a szabadstrand bővítéséhez; munkagépbeszerzés; védőnői épület felújítása; ravatalozó felújítása |
+| 25. | Tahitótfalu Község Önkormányzata fejlesztési feladatainak támogatása | 97 000 000 | Útfelújítás közmű-rekonstrukcióval; Almáskert Óvoda és Epreskert Óvoda, Szabadidőpark játszóudvarának fejlesztése; munkagépbeszerzés; védőnői épület felújítása; ravatalozó felújítása; Ifjúsági tábor infrastrukturális fejlesztése |
 
 | 26. | Tárnok Nagyközség Önkormányzata útfelújítási feladatainak támogatása | 150 000 000 | Útfelújítás |
 
@@ -85,6 +85,8 @@
 | 42. | Zirc Város Önkormányzata fejlesztési feladatainak támogatása | 107 000 000 | Útfelújítás, csapadékvíz-elvezető rendszer kiépítése |
 
 3. melléklet az 1869/2021. (XII. 3.) Korm. határozathoz
+
+1X10135_0
 
 | IX. Helyi önkormányzatok támogatásai XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 

@@ -38,4 +38,6 @@
 
 ## Határidő: a támogatói okirat kibocsátását követően azonnal
 
-1. melléklet az 1869/2021. (XII. 3.) Korm. határozathoz
+1. melléklet az 1869/2021. (XII. 3.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1428/2022. (IX. 5.) Korm. határozat 3. pont a) és 3. pont b) pontja szerint módosított szöveg.

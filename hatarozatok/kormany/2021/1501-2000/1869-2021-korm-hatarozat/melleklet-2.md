@@ -82,7 +82,7 @@
 
 | 41. | Jászfényszaru Város Önkormányzata fejlesztési feladatainak támogatása | 102 489 000 | Közterület és önkormányzati ingatlan felújítása |
 
-| 42. | Jászkisér Város Önkormányzata fejlesztési feladatainak támogatása | 84 374 125 | Útfelújítás; parkoló kialakítása; Vendégház kialakítása és környezetének felújítása |
+| 42. | Jászkisér Város Önkormányzata fejlesztési feladatainak támogatása | 84 374 125 | Útfelújítás; Vendégház kialakítása és környezetének felújítása |
 
 | 43. | Kaba Város Önkormányzata útfelújítási feladatainak támogatása | 93 883 596 | Útfelújítás |
 
@@ -92,7 +92,7 @@
 
 | 46. | Karcag Város Önkormányzata közlekedésfejlesztési feladatainak támogatása | 170 000 000 | Útfelújítás; parkolók építése |
 
-| 47. | Kartal Nagyközség Önkormányzata fejlesztési feladatainak támogatása | 96 250 000 | Buszmegállók felújítása; parkolók kialakítása és vízelvezetés megoldása |
+| 47. | Kartal Nagyközség Önkormányzata fejlesztési feladatainak támogatása | 96 250 000 | Buszmegállók felújítása |
 
 | 48. | Kazincbarcika Város Önkormányzata fejlesztési feladatainak támogatása | 428 185 000 | Útfelújítás és közterület rekonstrukciója; körforgalom építése; Városi Strandfürdő és Szabadidőközpont bontása; Játszóeszközök beszerzése óvodai és bölcsődei intézmények részére |
 
@@ -134,4 +134,6 @@
 
 | 67. | Mórahalom Város Önkormányzata vízrendezési feladatainak támogatása | 103 100 000 | Öntözővíz, csapadékvíz és termálvíz elvezetésének megoldása |
 
-2. melléklet az 1869/2021. (XII. 3.) Korm. határozathoz
+2. melléklet az 1869/2021. (XII. 3.) Korm. határozathoz[^2]
+
+[^2]: A 2. melléklet az 1428/2022. (IX. 5.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
