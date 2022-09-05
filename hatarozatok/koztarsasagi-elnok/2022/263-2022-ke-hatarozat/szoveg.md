@@ -1,0 +1,5 @@
+1. Az Alaptörvény 9. cikk (4) bekezdés d) pontja, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 13. § (5) bekezdése és 37. § (8) bekezdése alapján, a kultúráért és innovációért felelős miniszternek a fenntartóval egyetértésben tett javaslatára, a Gál Ferenc Egyetemen Dr. Kozma Gábor főiskolai tanárt – a munkaviszonyának közös megegyezéssel történő megszüntetéséről szóló megállapodásra tekintettel – a rektori megbízása alól 2022. augusztus 31-ei hatállyal felmentem.
+
+2. Az Alaptörvény 9. cikk (4) bekezdés d) pontja, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 13. § (5) bekezdése, 37. § (3)–(8) bekezdése, 93. § (6) bekezdése és 94. § (2) bekezdése alapján, a kultúráért és innovációért felelős miniszternek a fenntartóval egyetértésben tett javaslatára, a Gál Ferenc Egyetemen Dr. Dux László Lajos egyetemi tanárt a 2022. szeptember 1. napjától 2027. augusztus 31. napjáig terjedő időtartamra megbízom a rektori feladatok ellátásával.
+
+KEH ügyszám: KEH/5102-3/2022.
