@@ -1,0 +1,1 @@
+1. § A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló 2020. évi CLXII. törvény végrehajtásáról szóló 673/2020. (XII. 28.) Korm. rendelet 27. § (1) bekezdésében a „szeptember” szövegrész helyébe a „november” szöveg lép.
