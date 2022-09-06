@@ -1,0 +1,1 @@
+3. § E rendelet rendelkezéseit alkalmazni kell az olyan, az e rendelet hatálybalépésének napján már létrejött szerződések vonatkozásában kezdeményezett szerződésmódosításokra is, amelyek esetén a szerződésmódosítás eredményeként a szerződésben rögzített ellenérték egy naptári évben fizetendő része a bruttó húszmillió forintos értékhatárt eléri.
