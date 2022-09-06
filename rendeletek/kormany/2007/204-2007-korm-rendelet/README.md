@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-204-20-
 | 2020-02-20 | 2007-204-20-22.3 | 19/2020. (II. 19.) Korm. rendelet |
 | 2020-12-18 | 2007-204-20-22.4 | 599/2020. (XII. 17.) Korm. rendelet |
 | 2021-12-24 | 2007-204-20-22.5 | 780/2021. (XII. 23.) Korm. rendelet |
+| 2022-09-06 | 2007-204-20-22.7 | 331/2022. (IX. 5.) Korm. rendelet |
