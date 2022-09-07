@@ -8,6 +8,8 @@
 
 | Határidő: | 2022. szeptember 30. |
 
-4. Hatályát veszti a Korrupcióellenes Munkacsoportról szóló 1337/2022. (VII. 15.) Korm. határozat.
+4.[^2]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
