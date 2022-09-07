@@ -1,6 +1,6 @@
 6. § (1) A Társaság ellátja
 
-a)[^1] a Közreműködő Szervezet feladatait a Svájci–Magyar Együttműködési Program I. időszaka tekintetében, valamint a Svájci–Magyar Együttműködési Program II. időszakához kapcsolódó előkészítési feladatokat,
+a)[^1] a közreműködő szervezet feladatait a Svájci–Magyar Együttműködési Program I. időszak, valamint a Svájci–Magyar Együttműködési Program II. időszak tekintetében,
 
 b) a Végrehajtó Ügynökség feladatait az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus 2004–2009 tekintetében,
 
@@ -22,7 +22,7 @@ gc) az IPA II Előcsatlakozási Támogatási Eszköz létrehozásáról szóló 
 
 gd) az Európai Szomszédsági Támogatási Eszköz létrehozásáról szóló 232/2014/EU európai parlamenti és tanácsi rendelet alapján finanszírozott, határokon átnyúló együttműködési programok végrehajtására vonatkozó egyedi rendelkezések megállapításáról szóló, 2014. augusztus 18-i 897/2014/EU bizottsági végrehajtási rendelet 20. cikk (6) bekezdés b) pontja, továbbá 32. cikk (1) és (2) bekezdése
 
-## szerinti feladatokat,
+szerinti feladatokat,
 
 h) a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok egyes, határon átnyúló együttműködési programjainak végrehajtási intézményrendszeréről szóló 238/2015. (IX. 4.) Korm. rendelet
 
@@ -44,5 +44,5 @@ jb) a szabálytalanságkezelést.
 
 (3)[^2]
 
-[^1]: A 6. § (1) bekezdés a) pontja a 798/2021. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: A 6. § (1) bekezdés a) pontja a 335/2022. (IX. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 6. § (3) bekezdését a 205/2019. (VIII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 39/2020. (III. 10.) Korm. rendelet 2. §-a.
