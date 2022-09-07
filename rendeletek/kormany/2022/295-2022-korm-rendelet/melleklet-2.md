@@ -1,6 +1,6 @@
 2. melléklet a 295/2022. (VIII. 9.) Korm. rendelethez
 
-## A kedvezményre jogosultakról szóló értesítés adatai
+A kedvezményre jogosultakról szóló értesítés adatai
 
 1. A kedvezményre való jogosultságot megállapító szerv megnevezése
 

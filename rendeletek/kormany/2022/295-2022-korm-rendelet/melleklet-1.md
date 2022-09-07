@@ -1,8 +1,6 @@
-## 11. §[^1]
-
 1. melléklet a 295/2022. (VIII. 9.) Korm. rendelethez
 
-## Az egyes fogyasztók által használt gyógyászati segédeszközök villamosenergia-fogyasztásának támogatásáról szóló 295/2022. (VIII. 9.) Korm. rendelet szerinti kedvezményre való jogosultság megállapításához szükséges igénylőlap tartalma
+Az egyes fogyasztók által használt gyógyászati segédeszközök villamosenergia-fogyasztásának támogatásáról szóló 295/2022. (VIII. 9.) Korm. rendelet szerinti kedvezményre való jogosultság megállapításához szükséges igénylőlap tartalma
 
 Az igénylőlapot felhasználási helyenként és az alábbi adattartalommal kell kitölteni
 
@@ -73,5 +71,3 @@ használó személy aláírása – abban az esetben kell aláírni,
 ha a lakossági fogyasztó nem saját jogán nyújtja be
 
 az igénylőlapot)
-
-[^1]: A 11. § a 10. § (2) bekezdése alapján 2022. szeptember 7-én lép hatályba.
