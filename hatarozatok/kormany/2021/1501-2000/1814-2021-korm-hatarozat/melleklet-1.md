@@ -2,7 +2,7 @@
 
 ## a) egyetért a „Kvassay-szivattyútelep megvalósítása és a Kvassay Vízerőtelep energetikai és gépészeti rekonstrukciója és fejlesztése”, valamint az „Árvízbiztonság növelése a NYUDUVIZIG területén” című projektek 1. melléklet szerinti kiemelt projektként történő nevesítésével, valamint a projekthez kapcsolódó megvalósítási feladatok 1. melléklet szerinti finanszírozásával,
 
-## b) felhívja az innovációért és technológiáért felelős minisztert, hogy az irányító hatóság útján gondoskodjon a KEHOP-módosítás Európai Bizottság általi elfogadását követően az a) alpontban foglalt projektek REACT EU forrás terhére történő elszámolásáról,
+## b)[^1] felhívja az innovációért és technológiáért felelős minisztert, hogy az irányító hatóság útján gondoskodjon a KEHOP-módosítás Európai Bizottság általi elfogadását követően az a) alpontban foglalt, az „Árvízbiztonság növelése a NYUDUVIZIG területén” című projekt REACT EU forrás terhére történő elszámolásáról,
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -14,9 +14,10 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^2]
 
-1. melléklet az 1814/2021. (XI. 19.) Korm. határozathoz[^2]
+1. melléklet az 1814/2021. (XI. 19.) Korm. határozathoz[^3]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) pontja az 1430/2022. (IX. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
