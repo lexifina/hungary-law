@@ -118,7 +118,7 @@
 
 | 59. | Nyertes szállító adószáma |
 
-3. melléklet a 60/2014. (III. 6.) Korm. rendelethez[^70]
+3. melléklet a 60/2014. (III. 6.) Korm. rendelethez[^71]
 
 |  | A | B | C | D |
 
@@ -260,4 +260,4 @@
 
 | 69. | Szabálytalansági döntés | Szabálytalansági döntés | Szabálytalansági döntés |
 
-[^70]: A 3. mellékletet a 144/2015. (VI. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 183/2015. (VII. 10.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
+[^71]: A 3. mellékletet a 144/2015. (VI. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 183/2015. (VII. 10.) Korm. rendelet 5. § b) pontjával megállapított szöveg.

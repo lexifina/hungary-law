@@ -1,3 +1,5 @@
-## 4.[^7]
+## 4.[^8]
 
-[^7]: A 4. alcímet (4. §) a 4/2016. (I. 20.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+4. §
+
+[^8]: A 4. alcímet (4. §) a 4/2016. (I. 20.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
