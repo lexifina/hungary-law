@@ -10,7 +10,7 @@
 
 ## cb) „Belvízbiztonság növelése a Dél-Alföldön: A Körtvélyesi szivattyútelep átépítése – LOT1”,
 
-## cc) „Árvízi biztonság növelése Dél-Duna területén”,
+## cc)[^1]
 
 ## cd) „Árvízi biztonság növelése a FETIVIZIG területén”
 
@@ -22,19 +22,19 @@
 
 ## d) felhívja az innovációért és technológiáért felelős minisztert, hogy az irányító hatóság útján gondoskodjon a(z)
 
-## da) „Belvízbiztonság növelése az Észak-Alföldön: FETIVIZIG működési területén”,
+## da)[^2]
 
 ## db) „Duna–Tisza közi Homokhátság vízhiányos ökológiai állapotának javítását, helyreállítását célzó vízkészlet-gazdálkodási projekt II. ütem – előkészítése”,
 
 ## dc) „Nyírség Vízgazdálkodásának fejlesztését (vízpótlás, víztározás, helyi vízvisszatartás) célzó projekt előkészítés”,
 
-## dd) „A Rába és a Rábca folyó mentesített öblözeteinek árvízvédelmi fejlesztése”,
+## dd)[^3]
 
 ## de) „Ágazati infrastruktúra fejlesztése”,
 
-## df) „Árvízi biztonság növelés a Közép-Tisza völgyben”,
+## df)[^4]
 
-## dg) „Árvízi biztonság növelése az ATIVIZIG területén”
+## dg)[^5]
 
 ## című projektek európai uniós forrás terhére történő elszámolásáról.
 
@@ -44,9 +44,14 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^6]
 
-1. melléklet az 1876/2021. (XII. 3.) Korm. határozathoz[^2]
+1. melléklet az 1876/2021. (XII. 3.) Korm. határozathoz[^7]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) pont cc) alpontját az 1430/2022. (IX. 6.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^2]: Az 1. pont d) pont da) alpontját az 1430/2022. (IX. 6.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^3]: Az 1. pont d) pont dd) alpontját az 1430/2022. (IX. 6.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^4]: Az 1. pont d) pont df) alpontját az 1430/2022. (IX. 6.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^5]: Az 1. pont d) pont dg) alpontját az 1430/2022. (IX. 6.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
