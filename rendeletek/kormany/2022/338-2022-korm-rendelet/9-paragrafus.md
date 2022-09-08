@@ -1,0 +1,5 @@
+9. § (1) A működtetési jog megszűnése esetén az átengedett állami vagyon átadás-átvételével és a működtetési jog ingatlan-nyilvántartásból való törlésével kapcsolatos eljárásban az állam nevében a tulajdonosi joggyakorló jár el.
+
+(2) A működtetési jog jogosultja a működtetési jog megszűnésekor a részére átengedett állami vagyon tekintetében köteles a tulajdonosi joggyakorló által előírt formában és adattartalommal – a vagyontárgyak mennyiségét és fekvési vagy fellelési helyét is tartalmazó – migrációs tábla kitöltésére. A működtetési jog megszűnését követő harminc napon belül a működtetési jog jogosultja kimutatást készít és a vagyontárgyakat az állam nevében eljáró tulajdonosi joggyakorló részére átadja.
+
+(3) A kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződés megszűnésekor a működtetési jog fennállása alatt keletkezett vissznyereményi anyagokkal a működtetési jog jogosultja elszámol, és a fel nem használt vissznyereményi anyagokat a tulajdonosi joggyakorló részére átadja.

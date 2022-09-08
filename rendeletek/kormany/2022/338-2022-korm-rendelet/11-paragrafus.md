@@ -1,0 +1,3 @@
+11. § (1) A működtetési jog gyakorlását, annak szabályszerűségét, a kötelezettségek teljesítését a tulajdonosi joggyakorló a koncesszióba adó bevonásával rendszeresen ellenőrzi. A működtetési jog jogosultjára a tulajdonosi joggyakorló mindenkor hatályos ellenőrzési eljárásrendjének működtetési jogra vonatkozó rendelkezéseit alkalmazni kell.
+
+(2) A tulajdonosi ellenőrzés célja az állami vagyonnal való gazdálkodás vizsgálata, ennek keretében a kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződésbe ütköző, rendeltetésellenes, jogszerűtlen vagy a tulajdonos érdekeit sértő vagyongazdálkodási intézkedések feltárása és a jogszerű állapot helyreállítása, továbbá a vagyonnyilvántartás hitelességének, teljességének és helyességének biztosítása.

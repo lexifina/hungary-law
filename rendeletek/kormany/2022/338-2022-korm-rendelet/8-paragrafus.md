@@ -1,0 +1,7 @@
+8. § (1) A működtetési jog jogosultja az átengedett állami vagyon működtetésével összefüggésben jogosult a bontással járó munkálatok elvégzésére és a működtetési jog jogosultjának mindenkor hatályos selejtezési szabályzata alapján az átengedett állami vagyon selejtezésére. A működtetési jog jogosultja a selejtezés műszaki és gazdasági megalapozottságáért, alátámasztottságáért teljes és kizárólagos felelősséggel tartozik, továbbá köteles a selejtezésből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére.
+
+(2) A működtetési jog jogosultja a kizárólagos gazdasági tevékenység végzésével összefüggésben keletkezett, állami tulajdonú vissznyereményi anyagokat nyilvántartja, és arról a tulajdonosi joggyakorló részére a 7. § (3) bekezdése szerint adatot szolgáltat.
+
+(3) A működtetési jog jogosultja a (2) bekezdés szerinti vissznyereményi anyagot (így különösen bontott út-, híd- és vízépítési anyagok, táblák, úttartozékok, faanyag) az átengedett állami vagyon felújítása vagy az átengedett állami vagyonnal kapcsolatos beruházásai során felhasználhatja, beépítheti.
+
+(4) Ha a (2) bekezdés szerinti vissznyereményi anyagokat a működtetési jog jogosultja a (3) bekezdés szerint nem használja fel, nem építi be, akkor jogosult ezen vissznyereményi anyagokat a tulajdonosi joggyakorló részére – a tulajdonosi joggyakorlóval kötött eseti megállapodásban rögzített módon – átadni, azzal, hogy az eseti megállapodás megkötése a vissznyereményi anyagok tulajdonosi joggyakorló részére történő átadásának előfeltétele.
