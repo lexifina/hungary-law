@@ -12,6 +12,6 @@ jogosult.
 
 (4) A magyarországi nemzetiségi középiskolában nemzetiségi nyelvből, nemzetiségi nyelv- és irodalomból tett érettségi vizsgával rendelkező akkor jogosult 20 többletpontra, ha az érettségi vizsgával azonos nemzetiségi pedagógus szakra jelentkezik.
 
-(5)[^114] Amennyiben a jelentkező egy adott idegen nyelvből egyidejűleg nyelvvizsga és emelt szintű érettségi vizsga alapján is jogosult lenne többletpontra, akkor a többletpontokat csak egyszer, a számára kedvezőbb pontszámot biztosító jogcímen kapja meg.
+(5)[^117] Amennyiben a jelentkező egy adott idegen nyelvből egyidejűleg nyelvvizsga és emelt szintű érettségi vizsga alapján is jogosult lenne többletpontra, akkor a többletpontokat csak egyszer, a számára kedvezőbb pontszámot biztosító jogcímen kapja meg.
 
-[^114]: A 20. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^117]: A 20. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.

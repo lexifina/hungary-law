@@ -1,3 +1,3 @@
-55. §[^207] E rendeletnek a felsőoktatási felvételi eljárással összefüggésben egyes kormányrendeletek módosításáról szóló 261/2019. (XI. 14.) Korm. rendelettel megállapított 23. § (3) és (4) bekezdését első alkalommal a 2020. évi általános felvételi eljárásban kell alkalmazni.
+55. §[^210] E rendeletnek a felsőoktatási felvételi eljárással összefüggésben egyes kormányrendeletek módosításáról szóló 261/2019. (XI. 14.) Korm. rendelettel megállapított 23. § (3) és (4) bekezdését első alkalommal a 2020. évi általános felvételi eljárásban kell alkalmazni.
 
-[^207]: Az 55. §-t a 261/2019. (XI. 14.) Korm. rendelet 2. §-a iktatta be.
+[^210]: Az 55. §-t a 261/2019. (XI. 14.) Korm. rendelet 2. §-a iktatta be.
