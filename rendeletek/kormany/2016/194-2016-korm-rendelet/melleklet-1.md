@@ -1,5 +1,3 @@
-## 3. §[^1]
-
 1. melléklet a 194/2016. (VII. 13.) Korm. rendelethez[^2]
 
 |  | A |
@@ -18,7 +16,7 @@
 
 | 7 | 12 (1) Felsőgalla – Tatabánya elágazás |
 
-| 8 | 13 Környe – Pápa |
+| 8 | 13 Környe – Ugod |
 
 | 9 | 14 Pápa – Csorna |
 
@@ -190,5 +188,4 @@
 
 | 93 | 392 Bácsalmás – Csikéria |
 
-[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 259/2017. (IX. 11.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 259/2017. (IX. 11.) Korm. rendelet 11. §-a, a 340/2022. (IX. 7.) Korm. rendelet 1. §-a szerint módosított szöveg.
