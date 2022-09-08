@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:385 mezőjében a „0,37” szövegrész helyébe a „0,52” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1431/2022. (IX. 6.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.1.0-15-2016-00021 | Legeltetési infrastruktúra átfogó fejlesztése a Káli-medence és a Kis-Balaton térségében a természetvédelmi célú területkezelés biztosítása érdekében | Balaton-felvidéki Nemzeti Park Igazgatóság | 369 000 000 | 149 105 129 | 518 105 129 | A kedvezményezett a projekt keretében gyepterület kezeléséhez szükséges infrastruktúra kialakítását kívánja megvalósítani állattartó telep fejlesztésével és hozzá kapcsolódó eszközök beszerzésével. A projekt hozzájárul a jobb védettségi állapot érdekében támogatott élőhelyek területe növekedéséhez 572,0190 hektárral. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
