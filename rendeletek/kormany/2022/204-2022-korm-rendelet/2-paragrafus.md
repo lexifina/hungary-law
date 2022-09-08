@@ -15,3 +15,10 @@ szabadít fel.
 (4) Az OMV Hungária Kft. a felszabadított készletből értékesítésre kerülő teljes mennyiség 40%-át 2022. augusztus 31-ig és 60%-át 2022. október 31-ig az MSZKSZ részére visszapótolja.
 
 (5) Az OMV Hungária Kft. a felszabadított készletből értékesítésre kerülő mennyiség (4) bekezdésben meghatározott ütemezés szerinti visszapótlását a felszabadított készlettel azonos összetételben és az MSZKSZ által meghatározott áron hajtja végre.
+
+(6)[^2] Magyarország megfelelő minőségű és mennyiségű folyékony motorikus üzemanyaggal történő zavartalan ellátása érdekében a (4) és (5) bekezdéstől eltérően az OMV Hungária Kft. és az MSZKSZ megállapodást köthet arról, hogy az OMV Hungária Kft. a felszabadított készletből értékesítésre kerülő teljes mennyiséget 2022. december 31-ig pótolja vissza az MSZKSZ részére. A (4) bekezdés alapján visszapótlandó mennyiségekre a visszapótlásig a (3) bekezdést alkalmazni kell.
+
+(7)[^3] Az OMV Hungária Kft. a felszabadított készletből értékesítésre kerülő mennyiségnek a (6) bekezdésben meghatározott határidőig történő visszapótlását a felszabadított készlettel azonos összetételben és az MSZKSZ által meghatározott áron hajtja végre.
+
+[^2]: A 2. § (6) bekezdését a 336/2022. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § (7) bekezdését a 336/2022. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
