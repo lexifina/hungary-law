@@ -1,5 +1,3 @@
-## Ecser belterület 1427/23, 1429, 1427/2, 1427/6, 1427/7, 1427/10, 1427/11 és 1427/6 helyrajzi számú telkek területén ingatlanrészek területi lehatárolása a területek határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
-
 | 1. táblázat | 1427/23 hrsz. gazdasági terület |
 
 |  | A | B |
@@ -740,6 +738,8 @@
 
 | 6. | 669 368,90 | 232 810,04 |
 
-7. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^311]
+7. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^312]
 
-[^311]: A 7. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt telkek közúti közlekedési célt szolgáló területének lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
+
+[^312]: A 7. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.

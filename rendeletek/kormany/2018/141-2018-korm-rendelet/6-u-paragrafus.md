@@ -28,7 +28,7 @@ d) siló, ömlesztettanyag-, folyadék- és gáztároló és
 
 e) építménynek minősülő antennatartó szerkezet, valamint zászlótartó oszlop
 
-## helyezhető el.
+helyezhető el.
 
 (5) A 2. mellékletben foglalt táblázat 79. sora szerinti beruházással érintett ingatlanok az érintett telkek méretétől függetlenül lekeríthetőek.
 

@@ -1,5 +1,3 @@
-## Nemzetgazdasági szempontból kiemelt jelentőségű beruházások, valamint a kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánok
-
 |  | A | B | C |
 
 | 1 | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán |
@@ -228,6 +226,10 @@
 
 | 104. | Élelmiszeripari kapacitásbővítő beruházás Kacsóta területén | Kacsóta közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 35/1, 49 és külterület 047/1 helyrajzi számú ingatlanok | Baranya Megyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^307]
+| 105. | Csomagfeldolgozó központ létrehozására irányuló beruházás Maglód külterületén | Maglód külterület 089/76, 089/77, 089/78, 089/80, 089/81, 089/82, 089/87, 089/88, 089/89 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető főispán |
 
-[^307]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^308]
+
+A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
+
+[^308]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

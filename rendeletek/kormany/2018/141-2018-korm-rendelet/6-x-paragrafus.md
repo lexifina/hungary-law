@@ -38,5 +38,7 @@ a) B:71 mezőjében megjelölt telkek közül a Göd külterület 062/50 és 084
 
 b) B:71 mezőjében megjelölt Göd külterület 062/11 helyrajzi számú ingatlan 8. melléklet szerint lehatárolt részén
 
+kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
+
 [^98]: A 6/W. §-t a 752/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
 [^99]: A 6/X. §-t a 811/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
