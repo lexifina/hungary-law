@@ -20,6 +20,8 @@
 
 ## 5. egyetért azzal, hogy a belügyminiszter a 4. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az Önkormányzatok számára;
 
-## 6. az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdésében biztosított jogkörében eljárva úgy határoz, hogy az 1. mellékletben foglalt táblázat 4. és 6. sorában meghatározott beruházások előkészítése és megvalósítása során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.
+## 6.[^1] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdésében biztosított jogkörében eljárva úgy határoz, hogy az 1. mellékletben foglalt táblázat 5. és 7. sorában meghatározott beruházások előkészítése és megvalósítása során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.
 
 1. melléklet az 1835/2021. (XI. 30.) Korm. határozathoz
+
+[^1]: A 6. pont az 1439/2022. (IX. 9.) Korm. határozat 2. pontja szerint módosított szöveg.
