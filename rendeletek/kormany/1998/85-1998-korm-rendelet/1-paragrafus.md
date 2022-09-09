@@ -24,9 +24,11 @@ j)[^10] a Kormány egyedi döntése alapján egyéb célokra nyújtott egyedi hi
 
 (1b)[^12] Az Eximbank az 1. § (1) bekezdés d), f), g) és i) pontjában szereplő, hitelintézetnek nem minősülő pénzügyi intézménynek csak abban az esetben nyújthat az e rendelet hatálya alá tartozó refinanszírozási hitelt, ha a pénzügyi intézmény – így különösen a pénzügyi vállalkozás – bemutatja az Eximbank részére, hogy rendelkezik a szükséges prudenciális előírásokat tartalmazó belső szabályzattal. Az Eximbank az erre vonatkozó követelményt üzletpolitikájában rögzíti vagy a követelmény teljesülését belső szabályzatában leírt módon ellenőrzi.
 
-(2)[^13] Az Eximbank az (1) bekezdés a) és b) pontjában felsorolt, két éves és két éven túli lejáratú exporthiteleket és refinanszírozási exporthiteleket a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló megállapodásával (a továbbiakban: OECD Megállapodás) összhangban nyújtja. Az Eximbank e bekezdés rendelkezéseit alkalmazza a követelésvásárlásra is, amennyiben az exportkövetelés esedékessége a követelésvásárlás időpontjában legalább két év.
+(1c)[^13] E rendelet hatálya kiterjed gazdálkodó szervezetek által kibocsátott hitelviszonyt megtestesítő értékpapírok Eximbank általi megszerzésére.
 
-(3)[^14] Az Eximbank a (2) bekezdésben fel nem sorolt termékei esetében gondoskodik arról, hogy a termékleírások vagy az egyedi hitelek tartalmazzák, hogy az egyes hitelek feltételei megfelelnek
+(2)[^14] Az Eximbank az (1) bekezdés a) és b) pontjában felsorolt, két éves és két éven túli lejáratú exporthiteleket és refinanszírozási exporthiteleket a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló megállapodásával (a továbbiakban: OECD Megállapodás) összhangban nyújtja. Az Eximbank e bekezdés rendelkezéseit alkalmazza a követelésvásárlásra is, amennyiben az exportkövetelés esedékessége a követelésvásárlás időpontjában legalább két év.
+
+(3)[^15] Az Eximbank a (2) bekezdésben fel nem sorolt termékei esetében gondoskodik arról, hogy a termékleírások vagy az egyedi hitelek tartalmazzák, hogy az egyes hitelek feltételei megfelelnek
 
 a) az OECD Megállapodásnak vagy az Európai Unió támogatási szabályainak,
 
@@ -34,17 +36,17 @@ b) az (1) bekezdés h) és i) pontjában meghatározott termékei esetében e re
 
 c) az (1) bekezdés j) pontjában meghatározott egyedi hitelek esetében a Kormány egyedi döntése előírásainak.
 
-(4)[^15] A (3) bekezdésnek megfelelő termékekhez kapcsolódóan az Eximbank az e rendelet szerinti kamatkiegyenlítést az (5) és (6) bekezdésben meghatározott kivétellel igénybe veheti.
+(4)[^16] A (3) bekezdésnek megfelelő termékekhez kapcsolódóan az Eximbank az e rendelet szerinti kamatkiegyenlítést az (5) és (6) bekezdésben meghatározott kivétellel igénybe veheti.
 
-(5)[^16] Ha az (1) bekezdés e) és f) pontjában meghatározott hitelek kamatlába az Európai Unió állami támogatási szabályai szerint nem tartalmaz állami támogatást, és nem éri el legalább a piaci kamatláb mértékét, az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
+(5)[^17] Ha az (1) bekezdés e) és f) pontjában meghatározott hitelek kamatlába az Európai Unió állami támogatási szabályai szerint nem tartalmaz állami támogatást, és nem éri el legalább a piaci kamatláb mértékét, az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
 
-(5a)[^17]
+(5a)[^18]
 
-(6)[^18] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel, export előfinanszírozási hitellel vagy versenyképességet javító hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, export előfinanszírozási hitel vagy versenyképességet javító hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
+(6)[^19] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel, export előfinanszírozási hitellel vagy versenyképességet javító hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, export előfinanszírozási hitel vagy versenyképességet javító hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
 
-(7)[^19] A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási exporthitelre, amely a beszállítói hitel, export előfinanszírozási hitel vagy versenyképességet javító hitel nyújtását követően további feldolgozáson vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel, egyéb export célú hitellel, export előfinanszírozási hitellel vagy versenyképességet javító hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz kapcsolódik.
+(7)[^20] A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási exporthitelre, amely a beszállítói hitel, export előfinanszírozási hitel vagy versenyképességet javító hitel nyújtását követően további feldolgozáson vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel, egyéb export célú hitellel, export előfinanszírozási hitellel vagy versenyképességet javító hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz kapcsolódik.
 
-(8)[^20] Az Eximbank az (1a) bekezdésben meghatározott követelésvásárlási tevékenysége kapcsán akkor számolhat el a központi költségvetéssel, ha az megfelel a 6. §-ban meghatározott feltételeknek.
+(8)[^21] Az Eximbank az (1a) bekezdésben meghatározott követelésvásárlási tevékenysége kapcsán akkor számolhat el a központi költségvetéssel, ha az megfelel a 6. §-ban meghatározott feltételeknek.
 
 [^1]: Az 1. § a 434/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -58,11 +60,12 @@ c) az (1) bekezdés j) pontjában meghatározott egyedi hitelek esetében a Korm
 [^10]: Az 1. § (1) bekezdés j) pontját a 432/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
 [^11]: Az 1. § (1a) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^12]: Az 1. § (1b) bekezdését a 215/2015. (VII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 75/2017. (IV. 3.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^13]: Az 1. § (2) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^14]: Az 1. § (3) bekezdése a 432/2021. (VII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^15]: Az 1. § (4) bekezdése a 75/2017. (IV. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^16]: Az 1. § (5) bekezdése az 53/2020. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^17]: Az 1. § (5a) bekezdését a 75/2017. (IV. 3.) Korm. rendelet 1. § (6) bekezdése iktatta be, hatályon kívül helyezte az 53/2020. (III. 20.) Korm. rendelet 3. § a) pontja.
-[^18]: Az 1. § (6) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § c)–d) pontja szerint módosított szöveg.
-[^19]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § d)–e) pontja szerint módosított szöveg.
-[^20]: Az 1. § (8) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^13]: Az 1. § (1c) bekezdését a 327/2022. (IX. 1.) Korm. rendelet 1. §-a iktatta be.
+[^14]: Az 1. § (2) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^15]: Az 1. § (3) bekezdése a 432/2021. (VII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^16]: Az 1. § (4) bekezdése a 75/2017. (IV. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^17]: Az 1. § (5) bekezdése az 53/2020. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: Az 1. § (5a) bekezdését a 75/2017. (IV. 3.) Korm. rendelet 1. § (6) bekezdése iktatta be, hatályon kívül helyezte az 53/2020. (III. 20.) Korm. rendelet 3. § a) pontja.
+[^19]: Az 1. § (6) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § c)–d) pontja szerint módosított szöveg.
+[^20]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § d)–e) pontja szerint módosított szöveg.
+[^21]: Az 1. § (8) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.

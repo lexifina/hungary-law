@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-85-20-2
 | 2021-05-07 | 1998-85-20-22.25 | 235/2021. (V. 6.) Korm. rendelet |
 | 2021-07-17 | 1998-85-20-22.26 | 432/2021. (VII. 16.) Korm. rendelet |
 | 2022-07-01 | 1998-85-20-22.27 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2022-09-09 | 1998-85-20-22.28 | 327/2022. (IX. 1.) Korm. rendelet |
