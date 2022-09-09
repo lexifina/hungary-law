@@ -1,3 +1,3 @@
-5. § A 423/2012. (XII. 29.) Korm. rendelet 8. § (2a) bekezdése helyébe a következő rendelkezés lép:
+5. §[^5]
 
-„(2a) A pótfelvételi eljárásban – a (3) bekezdésben foglaltak kivételével – az általános felvételi eljárás szabályai alkalmazandók.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
