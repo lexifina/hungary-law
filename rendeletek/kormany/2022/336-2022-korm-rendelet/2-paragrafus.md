@@ -1,3 +1,3 @@
-2. § A Kr. a következő 3/A. §-sal egészül ki:
+2. §[^3]
 
-„3/A. § Ha a 2. § (6) bekezdése szerinti megállapodást az OMV Hungária Kft. kezdeményezi, azt legkésőbb 2022. szeptember 15-ig meg kell kötni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
