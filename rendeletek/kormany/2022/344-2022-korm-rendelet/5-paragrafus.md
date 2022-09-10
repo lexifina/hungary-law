@@ -1,0 +1,5 @@
+5. § (1) A 2. §-ban foglaltakat a rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítása vagy felülvizsgálata iránt folyamatban lévő, illetve megismételt eljárásban is alkalmazni kell.
+
+(2) Ha a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 96. § (3) bekezdés a) pontja alapján 2022. augusztus 31-éig meghosszabbított rendszeres gyermekvédelmi kedvezményre való jogosultság újbóli megállapítása iránt 2022. május 31-ét követően benyújtott kérelmet az e rendelet hatálybalépését megelőzően, jövedelmi okokból utasították el, az ellátásra való jogosultságot a települési önkormányzat jegyzője az e rendelet hatálybalépését követő 15 napon belül, a 2. §-ban meghatározott jövedelmi feltételek alapján hivatalból felülvizsgálja.
+
+(3) Ha a (2) bekezdés szerinti felülvizsgálat eredményeként a települési önkormányzat jegyzője megállapítja, hogy a 2. §-ban meghatározott jogosultsági feltételek fennállnak, a települési önkormányzat jegyzője döntésében megállapítja a 2022. szeptember 1-jétől fennálló rendszeres gyermekvédelmi kedvezményre való jogosultságot.
