@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-293-20-
 | --- | --- | --- |
 | 2022-08-10 | 2022-293-20-22.1 | 293/2022. (VIII. 9.) Korm. rendelet |
 | 2022-08-24 | 2022-293-20-22.2 | 2022. évi VI. törvény |
+| 2022-09-10 | 2022-293-20-22.3 | 347/2022. (IX. 9.) Korm. rendelet |
