@@ -1,0 +1,3 @@
+7/G. § (1) A tulajdonos hozzájárulásának hiánya miatti társasháztulajdonná való átalakítás iránti per megindítása esetén a tulajdonközösség a földgáz vételezése során az ingatlanügyi hatóság feljegyzésről szóló határozatának az egyetemes gázszolgáltatóval történő közlését követő hónap elsejétől kezdődően a 7. § (1) bekezdésében meghatározott kedvezményes többletmennyiség igénybevételére jogosult.
+
+(2) Ha a bíróság a keresetlevelet visszautasítja, az eljárást megszünteti vagy a keresetet elutasítja, a feljegyzést törlő határozat egyetemes gázszolgáltatóval történő közlésétől kezdődően a tulajdonközösség tekintetében az egyetemes földgázszolgáltatás ára az 5. § (1) és (2) bekezdése szerint kerül elszámolásra a kedvezmény biztosításának kezdőnapjáig visszamenőlegesen.
