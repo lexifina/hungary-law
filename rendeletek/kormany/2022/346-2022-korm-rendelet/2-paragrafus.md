@@ -1,0 +1,1 @@
+2. § Ez a rendelet a családi fogyasztói közösségekre, valamint a családi otthonteremtési kedvezményből megvalósuló tetőtér-beépítésekre vonatkozó kedvezmények bevezetése érdekében az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet módosításáról szóló 345/2022. (IX. 9.) Korm. rendelet hatálybalépését követő napon lép hatályba.
