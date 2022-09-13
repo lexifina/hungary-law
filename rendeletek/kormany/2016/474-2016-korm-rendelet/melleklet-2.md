@@ -114,6 +114,6 @@
 
 | ** kitöltése a pályázat nyerteseiről meghozott döntés birtokában kötelező |  |  |  |  |
 
-2. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^109]
+2. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^113]
 
-[^109]: A 2. mellékletet a 206/2019. (VIII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^113]: A 2. mellékletet a 206/2019. (VIII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.

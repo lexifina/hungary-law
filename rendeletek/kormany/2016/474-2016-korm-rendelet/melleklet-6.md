@@ -62,6 +62,8 @@
 
 | 2.9. A sportesemény sportdiplomáciai jelentősége: |  |  |  |
 
+## 8K36262_2
+
 | 3. Pályázási folyamattal kapcsolatos információk |
 
 | 3.1. A pályázat nemzetközi szövetséghez történő benyújtásának időpontja: |  |
@@ -185,3 +187,5 @@
 ## a képviseletre jogosult személy aláírása
 
 6. melléklet a 474/2016. (XII. 27.) Korm. rendelethez
+
+TÁMOGATÁSI KÉRELEM a hazai rendezésű sportesemények rendezésének állami támogatásához

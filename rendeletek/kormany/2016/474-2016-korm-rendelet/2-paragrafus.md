@@ -12,4 +12,6 @@ a) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás 
 
 b) a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményre és multifunkcionális szabadidős létesítményre nyújtott támogatás szabályaival összhangban
 
+nyújtható.
+
 [^3]: Az 1/A. §-t a 765/2021. (XII. 23.) Korm. rendelet 41. §-a iktatta be.

@@ -10,7 +10,7 @@ b) az állami sport célú támogatás nyújtásának költségvetési évét me
 
 c) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) alapján év közben megállapított, az a) pont szerinti fejezetbe tartozó, állami sport célú támogatásokra vonatkozó új fejezeti kezelésű előirányzatokra
 
-## [az a)–c) pont szerinti előirányzatok a továbbiakban együtt: előirányzatok] terjed ki.
+[az a)–c) pont szerinti előirányzatok a továbbiakban együtt: előirányzatok] terjed ki.
 
 (2) E rendelet alkalmazásában
 

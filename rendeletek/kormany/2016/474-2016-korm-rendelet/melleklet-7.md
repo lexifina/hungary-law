@@ -1,5 +1,3 @@
-## TÁMOGATÁSI KÉRELEM a hazai rendezésű sportesemények rendezésének állami támogatásához
-
 | A. | B. |
 
 | 1. Az Emberi Erőforrások Minisztériumához (EMMI) támogatási kérelmet benyújtó sportszövetségre (jogtulajdonosra) vonatkozó adatok |
@@ -284,9 +282,9 @@
 
 ## a képviseletre jogosult személy aláírása
 
-7. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^114]
+7. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^118]
 
-## Pontérték-táblázat a sportági eredményesség megállapításához
+Pontérték-táblázat a sportági eredményesség megállapításához
 
 ## Az eredményesség számításánál csak azok a helyezések vehetők figyelembe, amelyek az állami olimpiai jutalomról és az eredményességi támogatásról szóló kormányrendeletben meghatározott feltételeknek megfelelnek.
 
@@ -364,4 +362,4 @@ VII. Olimpiai, paralimpiai és IWGA Világjátékok, továbbá olimpiai sportág
 
 VIII. Ifjúsági Olimpia esetében az Olimpiára számított pontszám ötven százaléka számítható be a sportágaknak.
 
-[^114]: A 7. melléklet a 472/2020. (X. 29.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^118]: A 7. melléklet a 472/2020. (X. 29.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.

@@ -63,3 +63,5 @@ bd) a sportszövetség közgyűlése által elfogadott mérleg szerinti éves k�
 be) a sportági tradíciók (a magyar sportszövetség megalakulása óta eltelt évek) háromszoros szorzóval,
 
 bf) egyéb, előre nem számszerűsíthető szempontok, így a sportág szállítási igénye kétszeres szorzóval, pályaigénye kétszeres szorzóval, technikai igényei és állatok bevonásának igénye négyszeres szorzóval, edzőpartner bevonásának igénye négyszeres szorzóval, női és férfi szakágai hatszoros szorzóval, olimpiai szakágak száma hatszoros szorzóval
+
+számítandó.

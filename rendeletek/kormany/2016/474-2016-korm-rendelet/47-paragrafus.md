@@ -1,5 +1,3 @@
-## számítandó.
-
 ## 16. Sportegészségügyi ellátás támogatása
 
 ## 47. § A Sportegészségügyi ellátás támogatása előirányzat terhére nyújtott támogatás az alábbi költségekre fordítható:

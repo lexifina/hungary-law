@@ -1,4 +1,4 @@
-18. § (1)[^32] A 17. § (1) bekezdés 1., 2., 4. és 5. pontjában meghatározott dokumentumokat – a szervezet képviselője aláírási címpéldányának, valamint a fizetési számlákra vonatkozó nyilatkozat kivételével – nem kell benyújtani, ha a kedvezményezett
+18. § (1)[^36] A 17. § (1) bekezdés 1., 2., 4. és 5. pontjában meghatározott dokumentumokat – a szervezet képviselője aláírási címpéldányának, valamint a fizetési számlákra vonatkozó nyilatkozat kivételével – nem kell benyújtani, ha a kedvezményezett
 
 a) a miniszter irányítása alá tartozó központi költségvetési szerv,
 
@@ -10,7 +10,7 @@ d) olyan közalapítvány, alapítvány, amely tekintetében a miniszter alapít
 
 e) helyi önkormányzat, nemzetiségi önkormányzat, jogi személyiségű társulás, térségi fejlesztési tanács.
 
-(1a)[^33] Ha a kedvezményezett képviseletére jogosult személy közjegyző által hitelesített aláírási címpéldánya vagy ügyvéd által ellenjegyzett aláírás mintája egy korábbi támogatási jogviszonyból eredően a támogató rendelkezésére áll, és a képviselő személye nem változott, a támogató e korábban benyújtott aláírási címpéldányról, aláírás mintáról készített egyszerű másolatot csatolhat az ügyirathoz.
+(1a)[^37] Ha a kedvezményezett képviseletére jogosult személy közjegyző által hitelesített aláírási címpéldánya vagy ügyvéd által ellenjegyzett aláírás mintája egy korábbi támogatási jogviszonyból eredően a támogató rendelkezésére áll, és a képviselő személye nem változott, a támogató e korábban benyújtott aláírási címpéldányról, aláírás mintáról készített egyszerű másolatot csatolhat az ügyirathoz.
 
 (2) Ha az (1) bekezdés hatálya alá nem tartozó kedvezményezettről a kincstár törvényben meghatározott közhiteles és nyilvános nyilvántartást vezet, a kedvezményezettnek a 17. § (1) bekezdés 2. pontjában meghatározott dokumentumot nem kell benyújtania. Ez esetben a kedvezményezett létezését a támogató ellenőrzi a nyilvántartásban.
 
@@ -24,11 +24,11 @@ b) az egyéni vállalkozó nem csatolta az egyéni vállalkozó hatályos adatai
 
 c) a gazdasági társaság nem csatolta harminc napnál nem régebbi cégkivonatát, a miniszter az adatokat a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
-(5)[^34] Támogatói okirattal történő támogatásnyújtáskor a miniszter a támogatói okiratot a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok hiányában is kiadhatja. Ha a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok a támogatói okirat kiadását követő tizenöt napon belül nem kerülnek benyújtásra, akkor a támogató a támogatói okiratot visszavonja.
+(5)[^38] Támogatói okirattal történő támogatásnyújtáskor a miniszter a támogatói okiratot a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok hiányában is kiadhatja. Ha a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok a támogatói okirat kiadását követő tizenöt napon belül nem kerülnek benyújtásra, akkor a támogató a támogatói okiratot visszavonja.
 
-(6)[^35] A támogatási szerződés előkészítése során a támogató arra figyelemmel dönt a támogatási igények jóváhagyásáról, hogy a költségtervben szereplő egyes támogatási igények nem haladhatják meg a miniszter által az egyes költségterv rovatokon nyújtható költségvetési támogatási tételekkel kapcsolatban meghatározott minőségbiztosítási rendszerben (a továbbiakban: benchmark-rendszer) foglaltakat és annak követelményeit. A miniszter a kedvezményezett – támogatási szerződés megkötése vagy módosítása során tett – egyedi írásbeli kérelme alapján, különös méltánylást érdemlő esetben engedélyezheti a benchmark-rendszertől és követelményeitől való eltérést.
+(6)[^39] A támogatási szerződés előkészítése során a támogató arra figyelemmel dönt a támogatási igények jóváhagyásáról, hogy a költségtervben szereplő egyes támogatási igények nem haladhatják meg a miniszter által az egyes költségterv rovatokon nyújtható költségvetési támogatási tételekkel kapcsolatban meghatározott minőségbiztosítási rendszerben (a továbbiakban: benchmark-rendszer) foglaltakat és annak követelményeit. A miniszter a kedvezményezett – támogatási szerződés megkötése vagy módosítása során tett – egyedi írásbeli kérelme alapján, különös méltánylást érdemlő esetben engedélyezheti a benchmark-rendszertől és követelményeitől való eltérést.
 
-[^32]: A 18. § (1) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^33]: A 18. § (1a) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^34]: A 18. § (5) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^35]: A 18. § (6) bekezdését a 472/2020. (X. 29.) Korm. rendelet 4. §-a iktatta be.
+[^36]: A 18. § (1) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^37]: A 18. § (1a) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^38]: A 18. § (5) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^39]: A 18. § (6) bekezdését a 472/2020. (X. 29.) Korm. rendelet 4. §-a iktatta be.

@@ -1,5 +1,3 @@
-## számolhatók el.
-
 ## 19. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása
 
 50. § (1) A miniszter a Kiemelt Edzői Program (a továbbiakban: KEP) keretében biztosítja a kiemelt edzők foglalkoztatásának, továbbképzésének költségeit. A KEP a legeredményesebb, legtehetségesebb edzők pályán tartását, továbbképzését, magyarországi foglalkoztatását, illetve munkavégzésük egységes követelményrendszerének kialakítását szolgálja. A KEP keretében foglalkoztatott kiemelt edző a hozzá kapcsolódó sportoló olimpiai sportágban elért eredménye alapján részesül állami támogatásban.
@@ -16,9 +14,9 @@ a) az edzővel, valamint az edzőhöz kapcsolódó sportolóval szemben jogerős
 
 b) az edző sportolót felkészítő jogosultsága megszűnik.
 
-(6)[^98] A támogatásban részesülő személyekről a miniszter a MOB és a Magyar Edzők Társasága javaslatára való figyelemmel dönt.
+(6)[^102] A támogatásban részesülő személyekről a miniszter a MOB és a Magyar Edzők Társasága javaslatára való figyelemmel dönt.
 
-(7)[^99]
+(7)[^103]
 
-[^98]: Az 50. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^99]: Az 50. § (7) bekezdését a 472/2020. (X. 29.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^102]: Az 50. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^103]: Az 50. § (7) bekezdését a 472/2020. (X. 29.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.

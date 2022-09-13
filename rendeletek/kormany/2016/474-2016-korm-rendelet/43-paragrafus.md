@@ -1,5 +1,3 @@
-## összefüggő költségekre használható fel.
-
 ## 12. Versenysport és olimpiai felkészülés szakmai támogatása
 
 43. § (1) A 4. melléklet 7. sor 7.1. pontja szerinti költségvetési támogatás felhasználása során a következő tételek számolhatók el:
@@ -46,11 +44,11 @@ b) a szövetségi tagszervezetek száma több mint húsz,
 
 c) a 7. melléklet szerinti pontérték-táblázat alapján számított sportági eredményességi pontszám nem nulla.
 
-(4)[^75] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, a 4. melléklet 7. sor 7.2. pontja szerinti költségvetési támogatása az adott évben nem lehet több ötmillió forintnál.
+(4)[^79] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, a 4. melléklet 7. sor 7.2. pontja szerinti költségvetési támogatása az adott évben nem lehet több ötmillió forintnál.
 
 (5) Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül legalább kettőnek megfelel, a támogatási döntéskor az országos sportági szakszövetségek, országos sportági szövetségek következő adatait kell figyelembe venni:
 
-a)[^76] a 4. melléklet 7. sor 7.2. pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg huszonöt százalékának felosztása a 7. mellékletben meghatározott pontérték-táblázat alapján kiszámított sportági eredményességi pontszám, továbbá az országos sportági szakszövetség adott évi szakmai feladataihoz közvetlenül kapcsolódó támogatási igénye alapján történik,
+a)[^80] a 4. melléklet 7. sor 7.2. pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg huszonöt százalékának felosztása a 7. mellékletben meghatározott pontérték-táblázat alapján kiszámított sportági eredményességi pontszám, továbbá az országos sportági szakszövetség adott évi szakmai feladataihoz közvetlenül kapcsolódó támogatási igénye alapján történik,
 
 b) a 4. melléklet 7. sor 7.2. pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg hetvenöt százalékának felosztása a következő adatok alapján történik, a megjelölt arányban
 
@@ -64,11 +62,11 @@ bd) a sportszövetség közgyűlése által elfogadott mérleg szerinti éves k�
 
 be) a sportági tradíciók (a magyar sportszövetség megalakulása óta eltelt évek) háromszoros szorzóval,
 
-bf)[^77] egyéb, előre nem számszerűsíthető szempontok, azaz a sportág szállítási igénye, pályaigénye, technikai igényei és állatok bevonásának igénye, edzőpartner bevonásának igénye, női és férfi szakágai, olimpiai szakágak száma, az országos sportági szakszövetség adott évi szakmai feladataihoz közvetlenül kapcsolódó támogatási igénye.
+bf)[^81] egyéb, előre nem számszerűsíthető szempontok, azaz a sportág szállítási igénye, pályaigénye, technikai igényei és állatok bevonásának igénye, edzőpartner bevonásának igénye, női és férfi szakágai, olimpiai szakágak száma, az országos sportági szakszövetség adott évi szakmai feladataihoz közvetlenül kapcsolódó támogatási igénye.
 
-(6)[^78] Az országos sportági szakszövetség, országos sportági szövetség tagszervezeteként működő sportszervezet részére a versenysport és olimpiai felkészülés szakmai feladataihoz nyújtandó költségvetési támogatás összegének meghatározásakor az eredményességet a 7. melléklet szerinti pontérték-táblázat figyelembevételével kell meghatározni oly módon, hogy a pontokat az eredményt elérő sportoló sportszervezeténél kell érvényesíteni. Amennyiben az eredményt elérő sportoló a pontszámot adó világversenyre történő felkészülés során sportszervezetet váltott, az általa elért sporteredmény pontértékét a sportszervezetek között a felkészüléssel eltöltött idővel arányosan kell megosztani.
+(6)[^82] Az országos sportági szakszövetség, országos sportági szövetség tagszervezeteként működő sportszervezet részére a versenysport és olimpiai felkészülés szakmai feladataihoz nyújtandó költségvetési támogatás összegének meghatározásakor az eredményességet a 7. melléklet szerinti pontérték-táblázat figyelembevételével kell meghatározni oly módon, hogy a pontokat az eredményt elérő sportoló sportszervezeténél kell érvényesíteni. Amennyiben az eredményt elérő sportoló a pontszámot adó világversenyre történő felkészülés során sportszervezetet váltott, az általa elért sporteredmény pontértékét a sportszervezetek között a felkészüléssel eltöltött idővel arányosan kell megosztani.
 
-[^75]: A 43. § (4) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^76]: A 43. § (5) bekezdés a) pontja a 279/2018. (XII. 21.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^77]: A 43. § (5) bekezdés b) pont bf) alpontja a 472/2020. (X. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^78]: A 43. § (6) bekezdését a 472/2020. (X. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^79]: A 43. § (4) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^80]: A 43. § (5) bekezdés a) pontja a 279/2018. (XII. 21.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^81]: A 43. § (5) bekezdés b) pont bf) alpontja a 472/2020. (X. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^82]: A 43. § (6) bekezdését a 472/2020. (X. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.

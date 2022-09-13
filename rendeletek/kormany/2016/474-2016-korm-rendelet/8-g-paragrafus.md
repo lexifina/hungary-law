@@ -1,5 +1,9 @@
-8/G. § (1) A támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve, a (2) bekezdésben meghatározott kivétellel – nem haladhatja meg a 400 000 eurónak megfelelő forintösszeget.
+8/G. § (1)[^14] A támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve, a (2) bekezdésben meghatározott kivétellel – nem haladhatja meg a 500 000 eurónak megfelelő forintösszeget.
 
-(2) A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások és a halászati és akvakultúra-ágazathoz tartozó vállalkozások esetén az e tevékenységekhez összesen nyújtott támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 35 000 eurónak megfelelő forintösszeget.
+(2)[^15]
 
-(3) Ha egy vállalkozás a (2) bekezdésben meghatározott tevékenysége mellett más tevékenységet is folytat, a vállalkozás a támogatásokról olyan nyilvántartást köteles vezetni, amely lehetővé teszi az érintett tevékenységekre vonatkozó, (1) és (2) bekezdés szerinti felső határoknak való megfelelés ellenőrzését.
+(3)[^16]
+
+[^14]: A 8/G. § (1) bekezdése a 350/2022. (IX. 12.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 8/G. § (2) bekezdését a 350/2022. (IX. 12.) Korm. rendelet 2. § (3) bekezdése hatályon kívül helyezte.
+[^16]: A 8/G. § (3) bekezdését a 350/2022. (IX. 12.) Korm. rendelet 2. § (3) bekezdése hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 3. § Nem ítélhető meg támogatás
 
 a)[^4] – a 2. alcím szerinti támogatás kivételével – azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatának nem tett eleget,

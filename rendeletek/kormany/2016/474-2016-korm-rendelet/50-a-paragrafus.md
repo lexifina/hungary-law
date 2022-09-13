@@ -1,4 +1,4 @@
-## 20. [^100] COVID-19 járvánnyal összefüggő átmeneti támogatás
+## 20. [^104] COVID-19 járvánnyal összefüggő átmeneti támogatás
 
 50/A. § (1) A miniszter a COVID-19 járvánnyal összefüggő átmeneti támogatás keretében támogatja a sportszövetségek és sportszervezetek szakmai feladatainak ellátását, továbbá a szakmai feladatellátással összefüggő működési költségeket.
 
@@ -38,4 +38,4 @@
 
 17. sportszakmai működéssel összefüggő egyéb költségek.
 
-[^100]: A 20. alcímet (50/A. §) a 298/2021. (V. 31.) Korm. rendelet 2. §-a iktatta be.
+[^104]: A 20. alcímet (50/A. §) a 298/2021. (V. 31.) Korm. rendelet 2. §-a iktatta be.
