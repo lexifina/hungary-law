@@ -18,9 +18,9 @@ ag) a 651/2014/EU bizottsági rendelet 28. cikke szerinti kis- és középválla
 
 ah) a 651/2014/EU bizottsági rendelet 41. cikke szerinti megújuló energia támogatására irányuló beruházási támogatás,
 
-ai) az Európai Bizottság C(2020) 3951 final számú, 2020. június 8-i határozata szerinti, a 40/A–C. § feltételeinek megfelelő támogatás
+ai)[^7]
 
-## nyújtható.
+nyújtható.
 
 (2) E rendelet szerinti, az EUMSz 107. cikk (1) bekezdése szerinti állami támogatás esetében a 2. melléklet szerinti táblázat
 
@@ -62,10 +62,122 @@ bl) a 702/2014/EU bizottsági rendelet 17. cikke szerinti mezőgazdasági termé
 
 bm) a 702/2014/EU bizottsági rendelet 14. cikke szerinti elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás,
 
-bn) határon átnyúló együttműködésben érintett és a COVID-19 koronavírus-világjárvány (a továbbiakban: világjárvány) miatt nehéz helyzetbe került magyar vállalkozásoknak nyújtott támogatás,
+bn)[^8]
 
-bo) az Európai Bizottság C(2020) 3951 final számú, 2020. június 8-i határozata szerinti, a 40/A–C. § feltételeinek megfelelő támogatás,
+bo)[^9]
 
-c) 7. sora alapján – a koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatásról szóló 7/2020. (IV. 16.) KKM rendeletben meghatározott szabályok szerint – az Európai Bizottságnak a COVID-19-vírusjárvány idején a gazdaság segítése érdekében bevezethető állami támogatási intézkedésekre vonatkozó átmeneti keretszabályra vonatkozó közlemény 3.1. szakaszának feltételei szerint elfogadott, C(2020) 2332 final számú, 2020. április 8-i, C(2020) 3426 final számú, 2020. május 19-i és C(2020) 5721 final számú, 2020. augusztus 17-i határozatának, valamint az SA.57375 (2020/N) C(2020) 4286 final számú, 2020. június 23-i határozatának megfelelő támogatás
+c)[^10]
+
+d)[^11] 8. sora alapján – a beruházás ösztönzési célelőirányzat felhasználásáról szóló kormányrendeletben meghatározott szabályok szerint – a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás,
+
+e)[^12] 9. sora alapján
+
+ea) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
+
+eb) a 360/2012/EU bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás,
+
+ec) a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés,
+
+ed) a 651/2014/EU bizottsági rendelet szerinti kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
+
+ee) a 651/2014/EU bizottsági rendelet szerinti kutatás-fejlesztési projekthez nyújtott támogatás,
+
+ef) a 651/2014/EU bizottsági rendelet szerinti kutatási infrastruktúrához nyújtott beruházási támogatás,
+
+eg) a 651/2014/EU bizottsági rendelet szerinti innovációs klaszterre nyújtott támogatás,
+
+eh) a 651/2014/EU bizottsági rendelet szerinti kis- és középvállalkozásnak nyújtott innovációs támogatás,
+
+ei) a 651/2014/EU bizottsági rendelet szerinti eljárási és szervezési innovációs támogatás,
+
+ej) a 651/2014/EU bizottsági rendelet szerinti képzési támogatás,
+
+ek) a 651/2014/EU bizottsági rendelet szerinti, az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás,
+
+el) a 651/2014/EU bizottsági rendelet szerinti jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás,
+
+em) a 651/2014/EU bizottsági rendelet szerinti energiahatékonysági intézkedéshez nyújtott beruházási támogatás,
+
+en) a 651/2014/EU bizottsági rendelet szerinti energetikai infrastruktúrára irányuló beruházási támogatás,
+
+eo) a 651/2014/EU bizottsági rendelet szerinti szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás,
+
+ep) a 651/2014/EU bizottsági rendelet szerinti környezetvédelmi tanulmányhoz nyújtott támogatás,
+
+eq) a 651/2014/EU bizottsági rendelet szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
+
+er) a 651/2014/EU bizottsági rendelet szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
+
+es) a 651/2014/EU bizottsági rendelet szerinti helyi infrastruktúrára irányuló támogatás
+
+nyújtható.
+
+(3)[^13] E rendelet szerinti, az EUMSz 107. cikk (1) bekezdése szerinti állami támogatás esetében a 3. melléklet szerinti táblázat
+
+a) 4. és 5. sora alapján
+
+aa) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
+
+ab) a 360/2012/EU bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás,
+
+ac) a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés,
+
+ad) a 651/2014/EU bizottsági rendelet szerinti kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
+
+ae) a 651/2014/EU bizottsági rendelet szerinti kutatás-fejlesztési projekthez nyújtott támogatás,
+
+af) a 651/2014/EU bizottsági rendelet szerinti kutatási infrastruktúrához nyújtott beruházási támogatás,
+
+ag) a 651/2014/EU bizottsági rendelet szerinti innovációs klaszterre nyújtott támogatás,
+
+ah) a 651/2014/EU bizottsági rendelet szerinti kis- és középvállalkozásnak nyújtott innovációs támogatás,
+
+ai) a 651/2014/EU bizottsági rendelet szerinti eljárási és szervezési innovációs támogatás,
+
+aj) a 651/2014/EU bizottsági rendelet szerinti képzési támogatás,
+
+ak) a 651/2014/EU bizottsági rendelet szerinti, az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás,
+
+al) a 651/2014/EU bizottsági rendelet szerinti jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás,
+
+am) a 651/2014/EU bizottsági rendelet szerinti energiahatékonysági intézkedéshez nyújtott beruházási támogatás,
+
+an) a 651/2014/EU bizottsági rendelet szerinti energetikai infrastruktúrára irányuló beruházási támogatás,
+
+ao) a 651/2014/EU bizottsági rendelet szerinti szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás,
+
+ap) a 651/2014/EU bizottsági rendelet szerinti környezetvédelmi tanulmányhoz nyújtott támogatás,
+
+aq) a 651/2014/EU bizottsági rendelet szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
+
+ar) a 651/2014/EU bizottsági rendelet szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
+
+as) a 651/2014/EU bizottsági rendelet szerinti helyi infrastruktúrára irányuló támogatás,
+
+at) az Európai Bizottságnak az SA.38454 (2015/C) (ex2015/N) C(2015) 8227 final számú, 2015. november 23-i határozatának megfelelő támogatás,
+
+b) 6. sora alapján
+
+ba) a 651/2014/EU bizottsági rendelet 13. és 14. cikke szerinti regionális beruházási támogatás,
+
+bb) a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás
+
+nyújtható.
+
+(4)[^14] E rendelet szerinti, az EUMSz 107. cikk (1) bekezdése szerinti állami támogatás esetében a 4. melléklet szerinti táblázat 7. sora alapján
+
+a) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
+
+b) a 651/2014/EU bizottsági rendelet 13. és 14. cikke szerinti regionális beruházási támogatás
+
+nyújtható.
 
 [^6]: A 3. § a 3/2021. (II. 5.) KKM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdés a) pont ai) alpontját a 11/2022. (IX. 12.) KKM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^8]: A 3. § (2) bekezdés b) pont bn) alpontját a 11/2022. (IX. 12.) KKM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^9]: A 3. § (2) bekezdés b) pont bo) alpontját a 11/2022. (IX. 12.) KKM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^10]: A 3. § (2) bekezdés c) pontját a 11/2022. (IX. 12.) KKM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^11]: A 3. § (2) bekezdés d) pontját a 11/2022. (IX. 12.) KKM rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A 3. § (2) bekezdés e) pontját a 11/2022. (IX. 12.) KKM rendelet 1. § (1) bekezdése iktatta be.
+[^13]: A 3. § (3) bekezdését a 11/2022. (IX. 12.) KKM rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 3. § (4) bekezdését a 11/2022. (IX. 12.) KKM rendelet 1. § (2) bekezdése iktatta be.

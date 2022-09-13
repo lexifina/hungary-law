@@ -12,7 +12,7 @@ c) a lízing kivételével az a) és b) pont szerinti kiadáshoz kapcsolódó á
 
 d) számítógépes szoftver vásárlásának, fejlesztésének, valamint szabadalom, licencia, szerzői jog és védjegy megszerzésének költsége
 
-## számolható el.
+számolható el.
 
 (4) A beruházásnak meg kell felelnie az uniós jogszabályoknak, valamint az érintett tagállam nemzeti környezetvédelmi jogszabályainak. Azoknak a beruházásoknak az esetében, amelyekhez a 2011/92/EU irányelv értelmében környezeti hatásvizsgálatra van szükség, a támogatás nyújtását ahhoz a feltételhez kell kötni, hogy a hatásvizsgálat elvégzésének és az érintett beruházási projekt engedélyezésének az egyedi támogatás odaítélésének időpontja előtt meg kell történnie.
 

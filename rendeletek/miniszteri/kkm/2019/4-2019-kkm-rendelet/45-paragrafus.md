@@ -1,6 +1,6 @@
 ## 44. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-## 45. §[^42] E rendelet
+## 45. §[^48] E rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352, 2013.12.24., 1. o.),
 
@@ -16,4 +16,6 @@ f) a regionális állami támogatásokról (2014–2020) szóló 2013/C 209/01 s
 
 g) az Európai Bizottságnak a COVID-19-vírusjárvány idején a gazdaság segítése érdekében bevezethető állami támogatási intézkedésekre vonatkozó átmeneti keretszabályra vonatkozó közlemény 3.1. szakaszának feltételei szerint elfogadott, C(2020) 2332 final számú, 2020. április 8-i, C(2020) 3426 final számú, 2020. május 19-i és C(2020) 5721 final számú, 2020. augusztus 17-i határozatának, valamint az SA.57375 (2020/N) C(2020) 4286 final számú, 2020. június 23-i határozata
 
-[^42]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 3/2021. (II. 5.) KKM rendelet 3. §-a iktatta be.
+hatálya alá tartozó támogatást tartalmaz.
+
+[^48]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 3/2021. (II. 5.) KKM rendelet 3. §-a iktatta be.

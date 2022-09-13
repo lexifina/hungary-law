@@ -1,5 +1,3 @@
-## számolható el.
-
 23. § (1) Elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás (a 23–26. § vonatkozásában a továbbiakban: támogatás) esetén a beruházásnak az alábbi célkitűzések egyikéhez kapcsolódnia kell:
 
 a) a mezőgazdasági üzem összteljesítményének és fenntarthatóságának javítása,

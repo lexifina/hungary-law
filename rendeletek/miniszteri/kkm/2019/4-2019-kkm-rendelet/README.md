@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-4-20-6Q
 | 2021-02-06 | 2019-4-20-6Q.7 | 3/2021. (II. 5.) KKM rendelet |
 | 2021-09-03 | 2019-4-20-6Q.8 | 31/2021. (VIII. 31.) KKM rendelet |
 | 2022-02-23 | 2019-4-20-6Q.9 | 3/2022. (II. 22.) KKM rendelet |
+| 2022-09-13 | 2019-4-20-6Q.10 | 11/2022. (IX. 12.) KKM rendelet |
