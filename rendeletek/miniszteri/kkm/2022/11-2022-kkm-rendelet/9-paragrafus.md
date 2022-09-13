@@ -1,0 +1,1 @@
+9. § Hatályát veszti a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter irányítása alá tartozó fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 1/2021. (IV. 9.) PTNM rendelet.
