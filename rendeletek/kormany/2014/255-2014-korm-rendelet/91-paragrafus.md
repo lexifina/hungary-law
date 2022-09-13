@@ -1,4 +1,4 @@
-91. § (1)[^294] Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény közötti különbséget.
+91. § (1)[^299] Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény közötti különbséget.
 
 (2) A működési eredmény mértékét
 
@@ -6,7 +6,7 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vag
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (3) A beruházási támogatás elszámolható költségei az immateriális javak és a tárgyi eszköz következő költségei:
 
@@ -20,4 +20,4 @@ d) a közönség kulturális örökséghez való hozzáférésének javítását
 
 e) a kulturális projektek és tevékenységek, együttműködési és csereprogramok, valamint ösztöndíjak költsége (pl. a kiválasztási eljárással kapcsolatos marketing és a projekt eredményeként közvetlenül felmerülő költség).
 
-[^294]: A 91. § (1) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^299]: A 91. § (1) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.

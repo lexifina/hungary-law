@@ -27,3 +27,5 @@ b) a 103/R. § (1) bekezdés f) pontjához kapcsolódó beruházás esetén
 ba) az elszámolható költségek 80%-áig, vagy
 
 bb) ha a beruházást több kedvezményezett közösen valósítja meg, az elszámolható költségek 100%-áig
+
+növelhető.

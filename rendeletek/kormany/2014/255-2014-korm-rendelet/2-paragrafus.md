@@ -1,5 +1,3 @@
-## előirányzatából nyújtott állami támogatások felhasználására, kezelésére, működtetésére terjed ki.
-
 ## 2. Értelmező rendelkezések
 
 2. § (1) E rendelet alkalmazásában

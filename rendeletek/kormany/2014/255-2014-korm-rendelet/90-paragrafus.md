@@ -1,4 +1,4 @@
-## 89/D. §[^292] A 10 millió eurónak megfelelő forintösszeget meghaladó támogatásban részesült projektek esetén a támogatást nyújtó a kedvezményezett indokolatlan mértékű profitszerzésének megakadályozása érdekében ellenőrzési és visszafizetési mechanizmust alkalmaz.
+## 89/D. §[^297] A 10 millió eurónak megfelelő forintösszeget meghaladó támogatásban részesült projektek esetén a támogatást nyújtó a kedvezményezett indokolatlan mértékű profitszerzésének megakadályozása érdekében ellenőrzési és visszafizetési mechanizmust alkalmaz.
 
 ## 43. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
@@ -6,7 +6,7 @@
 
 (2) A támogatás – a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével – a következőkhöz nyújtható:
 
-a)[^293] muzeális intézmény, levéltár, könyvtár, művészeti vagy közművelődési intézmény – ide értve a közösségi teret –, koncertterem, filmszínház,
+a)[^298] muzeális intézmény, levéltár, könyvtár, művészeti vagy közművelődési intézmény – ide értve a közösségi teret –, koncertterem, filmszínház,
 
 b) tárgyi kulturális örökség, régészeti lelőhely, emlékmű, történelmi emlékhely és épület, a kulturális örökséghez kapcsolódó természeti örökség, kulturális vagy természeti örökséggé nyilvánított örökség,
 
@@ -18,5 +18,5 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^292]: A 89/D. §-t a 679/2021. (XII. 3.) Korm. rendelet 29. §-a iktatta be.
-[^293]: A 90. § (2) bekezdés a) pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 12. pontja szerint módosított szöveg.
+[^297]: A 89/D. §-t a 679/2021. (XII. 3.) Korm. rendelet 29. §-a iktatta be.
+[^298]: A 90. § (2) bekezdés a) pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 12. pontja szerint módosított szöveg.

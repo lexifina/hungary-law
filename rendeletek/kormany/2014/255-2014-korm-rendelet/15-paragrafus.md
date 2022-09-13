@@ -28,9 +28,9 @@
 
 14. 1–5. és 7–10. pontja alapján közszolgáltatásért járó ellentételezés
 
-15.[^173] 8. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
+15. [^176] 8. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
 
-16.[^174] 10. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
+16. [^177] 10. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
-[^173]: A 15. § 15. pontját a 127/2016. (VI. 7.) Korm. rendelet 4. §-a iktatta be.
-[^174]: A 15. § 16. pontját a 662/2020. (XII. 24.) Korm. rendelet 4. §-a iktatta be.
+[^176]: A 15. § 15. pontját a 127/2016. (VI. 7.) Korm. rendelet 4. §-a iktatta be.
+[^177]: A 15. § 16. pontját a 662/2020. (XII. 24.) Korm. rendelet 4. §-a iktatta be.

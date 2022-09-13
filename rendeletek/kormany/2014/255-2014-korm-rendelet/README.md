@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-255-20-
 | 2021-12-23 | 2014-255-20-22.18 | 99/2021. (II. 27.) Korm. rendelet |
 | 2022-04-22 | 2014-255-20-22.19 | 156/2022. (IV. 19.) Korm. rendelet |
 | 2022-07-03 | 2014-255-20-22.20 | 240/2022. (VI. 30.) Korm. rendelet |
+| 2022-09-13 | 2014-255-20-22.21 | 350/2022. (IX. 12.) Korm. rendelet |

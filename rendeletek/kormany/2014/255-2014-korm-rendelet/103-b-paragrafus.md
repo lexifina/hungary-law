@@ -1,4 +1,4 @@
-## 51. [^309] A mezőgazdasági termék termelőjének minőségrendszerekben való részvételéhez nyújtott támogatás
+## 51. [^314] A mezőgazdasági termék termelőjének minőségrendszerekben való részvételéhez nyújtott támogatás
 
 103/B. § (1) A mezőgazdasági termék termelőjének minőségrendszerekben való részvételéhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) kategóriái:
 
@@ -18,7 +18,7 @@ b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szó
 
 c) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet
 
-## szerinti minőségrendszerekben való részvétel esetén nyújtható.
+szerinti minőségrendszerekben való részvétel esetén nyújtható.
 
 (4) A (3) bekezdés b) pontjától eltérően a mezőgazdasági termékre vonatkozó minőségrendszerben való részvétel akkor is támogatható, ha
 
@@ -50,4 +50,4 @@ b) abban az esetben, ha uniós jogszabály a díjak tényleges mértékének meg
 
 (9) Az (1) bekezdés b) és c) pontja szerinti támogatás vonatkozásában közvetlen kifizetés az ellenőrzési intézkedés végrehajtásáért felelős szerv, a kutatási szolgáltató vagy a tanácsadási szolgáltató részére teljesíthető.
 
-[^309]: Az 51. alcímet (103/B. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^314]: Az 51. alcímet (103/B. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

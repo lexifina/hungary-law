@@ -1,4 +1,4 @@
-## 30/A. [^260] A kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
+## 30/A. [^263] A kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás
 
 65/A. § (1) A kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) gépjárműveket közlekedési célból
 
@@ -6,7 +6,7 @@ a) villamos energiával ellátó elektromos töltőinfrastruktúra vagy
 
 b) az infrastruktúra teljes hasznos élettartama alatt megújuló hidrogénnel ellátó hidrogéntöltő infrastruktúra
 
-## kiépítéséhez nyújtható, ha a támogatott infrastruktúra nyilvánosan és a felhasználók számára megkülönböztetéstől mentesen hozzáférhető.
+kiépítéséhez nyújtható, ha a támogatott infrastruktúra nyilvánosan és a felhasználók számára megkülönböztetéstől mentesen hozzáférhető.
 
 (2) A támogatás keretében az (1) bekezdés szerinti infrastruktúra megépítésének, telepítésének és korszerűsítésének költségei, így különösen a hálózathoz, illetve a villamosenergia- vagy hidrogéntermelő egységhez, illetve a tárolóegységhez való csatlakoztatásához szükséges bármilyen elektromos vagy egyéb komponens – különösen a transzformátor – telepítésének vagy korszerűsítésének költségei, valamint a kapcsolódó műszaki berendezések, építmények, földterület- vagy útátalakítás, telepítési költségek, továbbá a vonatkozó engedélyek megszerzésének költségei számolhatók el.
 
@@ -16,4 +16,4 @@ b) az infrastruktúra teljes hasznos élettartama alatt megújuló hidrogénnel 
 
 (5) Egy kedvezményezettnek, egy támogatási program keretében nyújtott támogatás nem haladhatja meg az érintett program teljes költségvetésének 40%-át.
 
-[^260]: A 30/A. alcímet (65/A–65/B. §) a 679/2021. (XII. 3.) Korm. rendelet 24. §-a iktatta be.
+[^263]: A 30/A. alcímet (65/A–65/B. §) a 679/2021. (XII. 3.) Korm. rendelet 24. §-a iktatta be.

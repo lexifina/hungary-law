@@ -2,7 +2,7 @@
 
 ## 7. Emberi Erőforrás Fejlesztési Operatív Program
 
-## 10. §[^153] Az Emberi Erőforrás Fejlesztési Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
+## 10. §[^155] Az Emberi Erőforrás Fejlesztési Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
 
 1. a halmozottan hátrányos helyzetű csoportok munkaerő-piaci eszközökben való részvételének és munkaerő-piacon való megjelenésének elősegítése,
 
@@ -48,4 +48,4 @@
 
 22. társadalmi innováció és transznacionális együttműködések.
 
-[^153]: A 10. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.
+[^155]: A 10. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.

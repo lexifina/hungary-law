@@ -2,6 +2,6 @@
 
 (2) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell diszkontálni a diszkont kamatláb alkalmazásával.
 
-(3)[^201] Az elszámolható költségek az 1303/2013/EU európai parlamenti és tanácsi rendelet 67. cikk (1) bekezdés b)–d) pontja szerinti, valamint az 1060/2021/EU európai parlamenti és tanácsi rendelet 53. cikk (1) bekezdés a)–e) pontja szerinti egyszerűsített költségelszámolási módokkal összhangban is kiszámíthatók, ha a műveletet legalább részben egy olyan uniós alapból finanszírozzák, amely lehetővé teszi ezen egyszerűsített költségelszámolási módok igénybevételét, és ha a költségkategória a vonatkozó mentességi rendelkezés értelmében elszámolható.
+(3)[^204] Az elszámolható költségek az 1303/2013/EU európai parlamenti és tanácsi rendelet 67. cikk (1) bekezdés b)–d) pontja szerinti, valamint az 1060/2021/EU európai parlamenti és tanácsi rendelet 53. cikk (1) bekezdés a)–e) pontja szerinti egyszerűsített költségelszámolási módokkal összhangban is kiszámíthatók, ha a műveletet legalább részben egy olyan uniós alapból finanszírozzák, amely lehetővé teszi ezen egyszerűsített költségelszámolási módok igénybevételét, és ha a költségkategória a vonatkozó mentességi rendelkezés értelmében elszámolható.
 
-[^201]: A 22. § (3) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 11. §-a iktatta be, szövege a 679/2021. (XII. 3.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^204]: A 22. § (3) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 11. §-a iktatta be, szövege a 679/2021. (XII. 3.) Korm. rendelet 18. §-ával megállapított szöveg.

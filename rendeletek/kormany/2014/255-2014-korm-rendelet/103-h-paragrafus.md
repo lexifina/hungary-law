@@ -1,4 +1,4 @@
-## 57. [^321] Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás
+## 57. [^326] Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás
 
 103/H. § (1) Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében
 
@@ -14,11 +14,11 @@ e) az erdészeti ágazat sajátosságaival összefüggő költség és
 
 f) tűzvédelmi pászták fenntartási költsége
 
-## számolható el.
+számolható el.
 
-(2)[^322] Támogatás a 702/2014/EU bizottsági rendelet 34. cikk (1) bekezdése szerinti kedvezményezett részére nyújtható.
+(2)[^327] Támogatás a 702/2014/EU bizottsági rendelet 34. cikk (1) bekezdése szerinti kedvezményezett részére nyújtható.
 
-(3)[^323] A támogatási összeg – az európai innovációs partnerség keretében nyújtott támogatás kivételével – egységköltség alapján kerül meghatározásra. Az európai innovációs partnerség keretében nyújtott támogatás esetén az egyedi költségvetés alapján igazolt költségek kerülnek elszámolásra.
+(3)[^328] A támogatási összeg – az európai innovációs partnerség keretében nyújtott támogatás kivételével – egységköltség alapján kerül meghatározásra. Az európai innovációs partnerség keretében nyújtott támogatás esetén az egyedi költségvetés alapján igazolt költségek kerülnek elszámolásra.
 
 (4) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 100%-át. Az (1) bekezdés d) pontja esetén, az ugyanazon elszámolható költségek vonatkozásában bármely forrásból teljesített kifizetések intenzitása nem haladhatja meg az elszámolható költségek 100%-át.
 
@@ -32,6 +32,6 @@ b) az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlí
 
 (7) A növénykárosító által okozott erdőkár megelőzéséhez nyújtott támogatás esetén a növénykárosítóval való fertőzöttség bekövetkezésének kockázatát igazolni szükséges.
 
-[^321]: Az 57. alcímet (103/H. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^322]: A 103/H. § (2) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^323]: A 103/H. § (3) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^326]: Az 57. alcímet (103/H. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^327]: A 103/H. § (2) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^328]: A 103/H. § (3) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.

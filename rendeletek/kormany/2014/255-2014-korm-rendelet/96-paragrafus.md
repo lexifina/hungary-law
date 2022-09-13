@@ -6,7 +6,7 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vag
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (3) Működési támogatás esetén a támogatás nem haladhatja meg a keletkező működési veszteséget.
 
@@ -14,6 +14,6 @@ b) visszafizetési mechanizmus alkalmazásával utólag
 
 (5) A (3) bekezdésben meghatározottak teljesítése – a (4) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
 
-(6)[^298] A kétmillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
+(6)[^303] A kétmillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
 
-[^298]: A 96. § (6) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 20. § 14. pontja szerint módosított szöveg.
+[^303]: A 96. § (6) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 20. § 14. pontja szerint módosított szöveg.

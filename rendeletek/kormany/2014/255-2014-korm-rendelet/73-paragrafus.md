@@ -1,5 +1,3 @@
-## számolható el.
-
 ## 35. A megújuló energia termeléséhez nyújtott beruházási támogatás
 
 73. § (1) A megújuló energia termeléséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) kizárólag új berendezéshez nyújtható.

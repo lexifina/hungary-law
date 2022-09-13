@@ -2,7 +2,7 @@
 
 ## 5. Gazdaságfejlesztési és Innovációs Operatív Program
 
-## 6. §[^98] A Gazdaságfejlesztési és Innovációs Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
+## 6. §[^100] A Gazdaságfejlesztési és Innovációs Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
 
 1. a versenyképes vállalkozói tudás elterjesztése,
 
@@ -16,7 +16,7 @@
 
 6. a stratégiai kutatás-fejlesztési és innovációs hálózatok számának növelése a nagy innovációs potenciállal rendelkező vállalatok, valamint a közfinanszírozású és nonprofit kutatóhelyek között,
 
-7.[^99] az újgenerációs szélessávú hálózatok rendelkezésre állásának biztosítása,
+7.[^101] az újgenerációs szélessávú hálózatok rendelkezésre állásának biztosítása,
 
 8. az információs és kommunikációs technológia szektor nemzetközi versenyképességének növelése,
 
@@ -52,5 +52,5 @@
 
 24. a foglalkoztatásban, oktatásban vagy képzésben részt nem vevő fiatalok ifjúsági garanciához való hozzáférésének biztosítása.
 
-[^98]: A 6. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.
-[^99]: A 6. § 7. pontja a 271/2015. (IX. 18.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.
+[^100]: A 6. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.
+[^101]: A 6. § 7. pontja a 271/2015. (IX. 18.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.

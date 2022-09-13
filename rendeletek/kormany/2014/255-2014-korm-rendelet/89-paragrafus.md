@@ -1,4 +1,4 @@
-89. §[^288] (1) A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetésmentes és a technológiasemlegesség elvén alapuló versenypályázat alapján köteles dönteni.
+89. §[^293] (1) A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetésmentes és a technológiasemlegesség elvén alapuló versenypályázat alapján köteles dönteni.
 
 (2) A kedvezményezett kiválasztásakor az igényelt támogatási összeg mellett a támogatást nyújtó által előzetesen megállapított, objektív, átlátható és megkülönböztetésmentes minőségi kritériumok is figyelembe vehetők, azzal, hogy hasonló minőségi feltételek esetén a támogatást a legalacsonyabb összegű támogatást igénylő pályázónak kell odaítélni.
 
@@ -6,4 +6,4 @@
 
 (4) A (3) bekezdés szerint odaítélt támogatásból kiépítendő hálózat kiépítésével és működtetésével harmadik felet megbízni csak nyílt, átlátható és megkülönböztetésmentes versenypályázat útján, a technológiasemlegesség követelménye betartásával lehet.
 
-[^288]: A 89. § a 679/2021. (XII. 3.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^293]: A 89. § a 679/2021. (XII. 3.) Korm. rendelet 28. §-ával megállapított szöveg.

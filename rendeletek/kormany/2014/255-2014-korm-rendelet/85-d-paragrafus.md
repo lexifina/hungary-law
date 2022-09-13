@@ -2,6 +2,6 @@
 
 (2) A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozásoknak nyújtott 85/C. § (2) bekezdése szerinti támogatás összege nem határozható meg a piacon forgalmazott termékek ára vagy mennyisége alapján.
 
-(3)[^276] A mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozások számára nyújtott támogatás mértéke az (1) bekezdéstől eltérően meghatározható az elsődleges termelőktől beszerzett vagy az elsődleges termelők által forgalomba hozott termékek ára vagy mennyisége alapján, ha a kérdéses termékeket az elsődleges termelő nem élelmiszeripari célokra vagy egyáltalán nem hozta volna forgalomba.
+(3)[^279] A mezőgazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozások számára nyújtott támogatás mértéke az (1) bekezdéstől eltérően meghatározható az elsődleges termelőktől beszerzett vagy az elsődleges termelők által forgalomba hozott termékek ára vagy mennyisége alapján, ha a kérdéses termékeket az elsődleges termelő nem élelmiszeripari célokra vagy egyáltalán nem hozta volna forgalomba.
 
-[^276]: A 85/D. § (3) bekezdését a 99/2021. (II. 27.) Korm. rendelet 3. §-a iktatta be.
+[^279]: A 85/D. § (3) bekezdését a 99/2021. (II. 27.) Korm. rendelet 3. §-a iktatta be.

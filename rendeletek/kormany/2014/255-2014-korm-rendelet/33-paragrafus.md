@@ -10,14 +10,14 @@ a) a tárgyi eszközre és immateriális javakra irányuló beruházási költs�
 
 b) a közvetlenül a beruházási projekt által létrehozott munkahelyek két évre számított, becsült bérköltsége,
 
-c)[^239] – ha a kapott összeg nem haladja meg az a) és b) pont szerinti összeg közül a magasabbat, akkor – az a) és b) pontban szereplő költségtípusok kombinációja
+c)[^242] – ha a kapott összeg nem haladja meg az a) és b) pont szerinti összeg közül a magasabbat, akkor – az a) és b) pontban szereplő költségtípusok kombinációja
 
-## számolható el.
+számolható el.
 
-(4)[^240] A támogatás a 29. § (2), (3) és (5) bekezdése, (6) bekezdés a)–d) pontja, (7) bekezdés a)–d) pontja, (8) bekezdés a)–c) pontja, valamint (9) bekezdése szerinti feltételekkel nyújtható.
+(4)[^243] A támogatás a 29. § (2), (3) és (5) bekezdése, (6) bekezdés a)–d) pontja, (7) bekezdés a)–d) pontja, (8) bekezdés a)–c) pontja, valamint (9) bekezdése szerinti feltételekkel nyújtható.
 
-(5)[^241] A (3) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha a kis- és középvállalkozás a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább három évig fenntartja.
+(5)[^244] A (3) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha a kis- és középvállalkozás a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább három évig fenntartja.
 
-[^239]: A 33. § (3) bekezdés c) pontját a 271/2015. (IX. 18.) Korm. rendelet 17. § (1) bekezdése iktatta be.
-[^240]: A 33. § (4) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^241]: A 33. § (5) bekezdését a 271/2015. (IX. 18.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^242]: A 33. § (3) bekezdés c) pontját a 271/2015. (IX. 18.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^243]: A 33. § (4) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^244]: A 33. § (5) bekezdését a 271/2015. (IX. 18.) Korm. rendelet 17. § (2) bekezdése iktatta be.

@@ -22,5 +22,7 @@ g) a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program,
 
 h)[^2] a Vidékfejlesztési Program
 
+előirányzatából nyújtott állami támogatások felhasználására, kezelésére, működtetésére terjed ki.
+
 [^1]: Az 1. § f) pontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § h) pontját a 271/2015. (IX. 10.) Korm. rendelet 1. §-a iktatta be.
