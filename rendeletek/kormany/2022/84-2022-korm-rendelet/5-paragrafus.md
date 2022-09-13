@@ -8,8 +8,9 @@
 
 (5) A támogatásnak nem lehet feltétele az, hogy a kedvezményezett a gazdasági tevékenységét áthelyezze az Európai Gazdasági Térségen belül egy másik országból Magyarország területére.
 
-(6) Az átmeneti támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 400 000 eurónak megfelelő forintösszeget.
+(6)[^11] Az átmeneti támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 500 000 eurónak megfelelő forintösszeget.
 
 (7) Az átmeneti támogatással kapcsolatos minden iratot az odaítélést követő tíz évig meg kell őrizni.
 
 [^10]: Az 5. § a 278/2022. (VII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^11]: Az 5. § (6) bekezdése a 350/2022. (IX. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
