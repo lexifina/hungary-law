@@ -8,7 +8,7 @@
 
 3. a védelmi és biztonsági tevékenységek összehangolásáért,
 
-4.[^11] a védelmi és biztonsági feladatokhoz kapcsolódó beszerzésekért,
+4.[^12] a védelmi és biztonsági feladatokhoz kapcsolódó beszerzésekért,
 
 5. a védelmi fejlesztésekért,
 
@@ -50,4 +50,4 @@
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
 
-[^11]: A 190. § 4. pontja a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^12]: A 190. § 4. pontja a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés c) pontja szerint módosított szöveg.
