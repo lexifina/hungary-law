@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 12. alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 11. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
