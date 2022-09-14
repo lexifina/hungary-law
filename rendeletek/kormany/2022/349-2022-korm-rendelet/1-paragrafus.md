@@ -1,3 +1,3 @@
-1. § A különleges földgázkészlet létrehozásáról szóló 260/2022. (VII. 21.) Korm. rendelet 5. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A különleges földgázkészlet létrehozásához és fenntartásához szükséges feltételeket a miniszter rendeletben határozza meg, amelyben rögzíti)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
