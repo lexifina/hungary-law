@@ -1,6 +1,6 @@
 ## 4. A Hivatal beszámolási kötelezettsége
 
-## 8. §[^7] A Hivatal elnöke a Hivatal tevékenységéről évente, a tárgyévet követő év június 30-áig a miniszterelnök útján beszámol a Kormánynak. A beszámoló tartalmazza különösen
+8. §[^7] A Hivatal elnöke a Hivatal tevékenységéről évente, a tárgyévet követő év június 30-áig a miniszter útján beszámol a Kormánynak. A beszámoló tartalmazza különösen
 
 a) az éves kormányzati ellenőrzési feladatok teljesítésének értékelését,
 
@@ -14,4 +14,4 @@ e) tájékoztatást a Hivatal által tárgyévben végzett tanácsadó tevékeny
 
 f) a kormányzati ellenőrzések személyi és tárgyi feltételeit, a tevékenységet elősegítő és akadályozó tényezőket.
 
-[^7]: A 8. § nyitó szövegrésze a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^7]: A 8. § nyitó szövegrésze a 351/2022. (IX. 13.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

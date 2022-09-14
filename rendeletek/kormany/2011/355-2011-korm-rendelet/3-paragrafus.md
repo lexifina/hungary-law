@@ -1,3 +1,0 @@
-## 2. §[^1] A Kormányzati Ellenőrzési Hivatal (a továbbiakban: Hivatal) a miniszterelnök irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv. A miniszterelnök az irányítási, valamint az e rendeletben meghatározott egyéb hatásköreit – a 4. § (1) és (2) bekezdésében, a 8. §-ában, a 11. § (2) bekezdésében és a 35. § (1) bekezdés a) pontjában meghatározott hatáskörök kivételével – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján gyakorolja..
-
-[^1]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 620. §-ával megállapított, a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 1. pontja szerint módosított szöveg.

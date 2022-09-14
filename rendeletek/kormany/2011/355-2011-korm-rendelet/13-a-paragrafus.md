@@ -8,18 +8,20 @@
 
 a) nyilvántartást vezet a kormánydöntésekről és azok végrehajtásának állásáról,
 
-b) a kormánydöntések végrehajtásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján rendszeresen beszámol a miniszterelnöknek.
+b)[^19] a kormánydöntések végrehajtásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján rendszeresen beszámol a miniszternek.
 
 (3) A Hivatal a (2) bekezdésben meghatározott feladatai végrehajtása érdekében a kormánydöntés végrehajtásáért felelős, valamint a végrehajtásban közreműködő szervtől vagy személytől adatokat és dokumentumokat kérhet.
 
-(4) Amennyiben a rendelkezésre álló adatok alapján a Hivatal azt állapítja meg, hogy a kormánydöntés végrehajtása valószínűsíthetően
+(4)[^20] Amennyiben a rendelkezésre álló adatok alapján a Hivatal azt állapítja meg, hogy a kormánydöntés végrehajtása valószínűsíthetően
 
 a) a meghatározott határidőre nem történik meg, vagy
 
 b) nem megfelelően történik,
 
-a Hivatal elnöke a miniszterelnök utasítása alapján, a 11. § (3) bekezdésében foglaltak szerint soron kívüli kormányzati ellenőrzést rendelhet el, amelynek eredményéről a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján tájékoztatja a miniszterelnököt.
+a Hivatal elnöke a miniszter utasítása alapján, a 11. § (3) bekezdésében foglaltak szerint soron kívüli kormányzati ellenőrzést rendelhet el, amelynek eredményéről a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján tájékoztatja a minisztert.
 
 (5) A (4) bekezdésben foglaltak szerinti kormányzati ellenőrzésre a 18. § (2) bekezdés b) pontját és a 31–37. §-okban foglaltakat nem kell alkalmazni.
 
 [^18]: A 7/A. alcímet (13/A–13/B. §) a 192/2018. (X. 12.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 13/A. § (2) bekezdés b) pontja a 351/2022. (IX. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^20]: A 13/A. § (4) bekezdés záró szövegrésze a 351/2022. (IX. 13.) Korm. rendelet 3. § a) és d) pontja szerint módosított szöveg.
