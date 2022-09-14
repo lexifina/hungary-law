@@ -1,11 +1,3 @@
-5. § (1) A KKM rendelet
+5. §[^6]
 
-a) 1. melléklete az 1. melléklet szerint,
-
-b) 2. melléklete a 2. melléklet szerint,
-
-c) 4. melléklete a 4. melléklet szerint
-
-módosul.
-
-(2) A KKM rendelet 3. melléklete helyébe a 3. melléklet lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
