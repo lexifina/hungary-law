@@ -59,3 +59,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2022-01-01 | 1990-5-20-5E.102 | 42/2021. (IX. 8.) ITM rendelet |
 | 2022-07-01 | 1990-5-20-5E.103 | 12/2017. (IV. 24.) NFM rendelet |
 | 2022-08-06 | 1990-5-20-5E.104 | 9/2022. (VIII. 1.) TIM rendelet |
+| 2022-09-14 | 1990-5-20-5E.106 | 105/2007. (XII. 23.) GKM rendelet |

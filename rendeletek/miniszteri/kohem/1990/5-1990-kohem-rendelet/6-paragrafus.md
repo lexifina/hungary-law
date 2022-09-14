@@ -6,7 +6,7 @@ a) a közúti személy- vagy teherszállításra, valamint a közúton pótkocsi
 
 b) a lassú jármű közúti teherszállításra készült pótkocsija
 
-## tekintetében.
+tekintetében.
 
 (2) Az (1) bekezdésben foglalt rendelkezés alkalmazása szempontjából nem minősül
 

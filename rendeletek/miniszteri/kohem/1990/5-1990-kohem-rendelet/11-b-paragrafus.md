@@ -1,6 +1,6 @@
-## A környezetkímélő gépjárművekkel kapcsolatos hatósági vizsgálat[^137]
+## A környezetkímélő gépjárművekkel kapcsolatos hatósági vizsgálat[^142]
 
-11/B. §[^138] (1) Az MR. 2. §-ában meghatározott környezetkímélő gépkocsi környezetvédelmi osztályba sorolása és a környezetkímélő jelleg megállapítása csak gyári kivitelű gépkocsi esetében végezhető el
+11/B. §[^143] (1) Az MR. 2. §-ában meghatározott környezetkímélő gépkocsi környezetvédelmi osztályba sorolása és a környezetkímélő jelleg megállapítása csak gyári kivitelű gépkocsi esetében végezhető el
 
 a) a típusbizonyítványban meghatározott adatok,
 
@@ -10,7 +10,7 @@ c) a járműimportőr vagy az adott járműtípus hazai kereskedelmi képviselet
 
 d) az a)–c) pontban meghatározott adatok hiányában típusvizsgáló szakértői intézmény szakvéleménye
 
-## alapján.
+alapján.
 
 (2) Az időszakos vizsgálat vagy a közlekedési hatóság által végzett szemle során az üzembentartó kérheti a gépkocsi korábban megállapított 5. környezetvédelmi osztályba sorolás módosítását, amennyiben a gépkocsi az MR. 2. § (6) bekezdésében meghatározott környezetkímélő gépkocsi körébe tartozik.
 
@@ -20,5 +20,5 @@ d) az a)–c) pontban meghatározott adatok hiányában típusvizsgáló szakér
 
 (5) Amennyiben a közlekedési hatóság megállapítja, hogy a (4) bekezdésben foglalt kérelem teljesítésének feltételei fennállnak, a környezetkímélő motorkerékpár besorolására utaló záradékot a Műszaki Adatlapon feltünteti, és erről a Nyilvántartót elektronikus úton is értesíti.
 
-[^137]: A 11/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be, szövege a 22/2021. (V. 13.) ITM rendelet 1. §-ával megállapított szöveg.
-[^138]: A 11/B. §-t a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be, szövege a 22/2021. (V. 13.) ITM rendelet 1. §-ával megállapított szöveg.
+[^142]: A 11/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be, szövege a 22/2021. (V. 13.) ITM rendelet 1. §-ával megállapított szöveg.
+[^143]: A 11/B. §-t a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be, szövege a 22/2021. (V. 13.) ITM rendelet 1. §-ával megállapított szöveg.
