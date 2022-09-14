@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés i) pontja, valamint a magyar állampolgárságról szóló 1993. évi LV. törvény 9. §-a alapján – a Miniszterelnökséget vezető miniszter TKF-1/1105/3/2022. számú előterjesztésére – Babics Szvitlana, született: Szekeres Szvitlana (névmódosítás előtti neve: Babics Szvitlana Georgijivna, született: Szekeres Szvitlana Georgijivna; születési hely: Munkács, Ukrajna; születési idő: 1991. november 13.) és Babics Szofia (névmódosítás előtti neve: Babics Sofia Olegivna; születési hely: Kisvárda, születési idő: 2012. június 4.) magyar állampolgárságát visszavonom.
+
+KEH ügyszám: KEH/03593-3/2022.
