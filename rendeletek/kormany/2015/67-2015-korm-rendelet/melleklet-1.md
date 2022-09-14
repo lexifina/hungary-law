@@ -4960,107 +4960,111 @@ Tarany
 
 15.7. Siófoki Járási Hivatal
 
-15.7.1. Székhelye: Siófok
+15.7.1.[^8] Székhelye: Siófok
 
-Munkaerőpiaci pont: Tab
+15.7.2.[^9] Illetékesség:
 
-15.7.2. Illetékesség:
+## Ádánd
 
-Andocs
+## Balatonendréd
 
-Ádánd
+## Balatonföldvár
 
-Balatonendréd
+## Balatonőszöd
 
-Balatonföldvár
+## Balatonszabadi
 
-Balatonőszöd
+## Balatonszárszó
 
-Balatonszabadi
+## Balatonszemes
 
-Balatonszárszó
+## Balatonvilágos
 
-Balatonszemes
+## Bálványos
 
-Balatonvilágos
+## Kereki
 
-Bábonymegyer
+## Kötcse
 
-Bálványos
+## Kőröshegy
 
-Bedegkér
+## Nagyberény
 
-Bonnya
+## Nagycsepely
 
-Fiad
+## Nyim
 
-Kapoly
+## Pusztaszemes
 
-Kánya
+## Ságvár
 
-Kára
+## Siófok
 
-Kereki
+## Siójut
 
-Kisbárapáti
+## Som
 
-Kötcse
+## Szántód
 
-Kőröshegy
+## Szólád
 
-Lulla
+## Teleki
 
-Miklósi
+## Zamárdi
 
-Nagyberény
+15.8. [^10] Tabi Járási Hivatal
 
-Nagycsepely
+15.8.1. Székhelye: Tab
 
-Nágocs
+15.8.2. Illetékesség:
 
-Nyim
+## Andocs
 
-Pusztaszemes
+## Bábonymegyer
 
-Ságvár
+## Bedegkér
 
-Sérsekszőlős
+## Bonnya
 
-Siófok
+## Fiad
 
-Siójut
+## Kapoly
 
-Som
+## Kánya
 
-Somogyacsa
+## Kára
 
-Somogydöröcske
+## Kisbárapáti
 
-Somogyegres
+## Lulla
 
-Somogymeggyes
+## Miklósi
 
-Szántód
+## Nágocs
 
-Szólád
+## Sérsekszőlős
 
-Szorosad
+## Somogyacsa
 
-Tab
+## Somogydöröcske
 
-Teleki
+## Somogyegres
 
-Tengőd
+## Somogymeggyes
 
-Torvaj
+## Szorosad
 
-Törökkoppány
+## Tab
 
-Zala
+## Tengőd
 
-Zamárdi
+## Torvaj
 
-Zics
+## Törökkoppány
+
+## Zala
+
+## Zics
 
 16. Szabolcs-Szatmár-Bereg megye
 
@@ -5834,7 +5838,7 @@ Udvari
 
 Varsád
 
-18.[^8] Vas megye
+18.[^11] Vas megye
 
 18.1. Celldömölki Járási Hivatal
 
@@ -7359,4 +7363,7 @@ Zalatárnok
 [^5]: Az 1. melléklet 10. pont 10.3. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. melléklet 10. pont 10.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet 15. pont 15.7. alpont 15.7.1. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 15. pont 15.7. alpont 15.7.2. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 1. melléklet 15. pont 15.8. alpontját a 352/2022. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^11]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
