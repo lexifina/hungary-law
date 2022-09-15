@@ -1,1 +1,3 @@
-1. § Az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalok általánostól eltérő illetékességi területéről szóló 67/2015. (III. 30.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
