@@ -1,6 +1,4 @@
-## 14. §[^16]
-
-## A terhessége megszakítását kérő személy a 13. § szerinti kedvezmény igénybevétele esetén a terhességmegszakítási kérőlap kiállításakor bemutatja a pénzbeni ellátást megállapító határozatot, bizonylatot, illetve jövedelemigazolást. Ennek alapján a munkatárs kiállítja a terhességmegszakításért fizetendő térítési díjat tartalmazó utalványt és átadja a kérelmező részére.
+## 14. §[^16] A terhessége megszakítását kérő személy a 13. § szerinti kedvezmény igénybevétele esetén a terhességmegszakítási kérőlap kiállításakor bemutatja a pénzbeni ellátást megállapító határozatot, bizonylatot, illetve jövedelemigazolást. Ennek alapján a munkatárs kiállítja a terhességmegszakításért fizetendő térítési díjat tartalmazó utalványt és átadja a kérelmező részére.
 
 15. §[^17]
 

@@ -1,6 +1,4 @@
-## 11. §[^14]
-
-## A terhességmegszakítás térítési díját a tv. 16. §-ának (2) bekezdése szerint kell meghatározni.
+## 11. §[^14] A terhességmegszakítás térítési díját a tv. 16. §-ának (2) bekezdése szerint kell meghatározni.
 
 12. § (1) A terhességmegszakítás térítési díjának befizetésére szolgáló ,,átutalási postautalványt'' (a továbbiakban: utalvány) a munkatárs a terhességmegszakítási kérőlap kitöltésével egyidejűleg átadja a terhessége megszakítását kérő nő részére.
 

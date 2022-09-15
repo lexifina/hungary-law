@@ -1,6 +1,4 @@
-## 6. §
-
-## A szakmai felülvizsgálatra a felülvizsgálatot megalapozó döntést követő két munkanapon belül kerül sor.
+## 6. § A szakmai felülvizsgálatra a felülvizsgálatot megalapozó döntést követő két munkanapon belül kerül sor.
 
 ## A terhesség megszakítását végző
 

@@ -1,24 +1,24 @@
-## „,,A''
+## „A"
 
-## 1. KÉRŐLAP A TERHESSÉG MEGSZAKÍTÁSÁHOZ
+## 1.[^19] KÉRŐLAP A TERHESSÉG MEGSZAKÍTÁSÁHOZ
 
 ## A magzati élet védelméről szóló törvény 6. § (1) bekezdés c) és d) pontja alapján, a 6. § (2) bekezdésének figyelembevételével a Családvédelmi Szolgálat munkatársa tölti ki.
 
 ## 1. Személyi adatok:
 
-## a kérelmező neve:
+## a kérelmező neve: ......................................................................................
 
-## leánykori neve:
+## leánykori neve: ...........................................................................................
 
-## anyja neve:
+## anyja neve: ...................................................................................................
 
-## születési helye, ideje: ………, 19… év …… hó …… nap
+## születési helye, ideje: ..............................................................................., ...... év ...................... hó ....... nap
 
-## lakóhelye:
+## lakóhelye: .....................................................................................................
 
-## tartózkodási helye:
+## tartózkodási helye: ....................................................................................
 
-## 2. Az állapotos nő bemutatta azt az 199… év …………… hó …… napján kelt orvosi leletet, amely szerint a terhességet ……… hetesnek állapította meg dr. ………………………… szülész-nőgyógyász szakorvos, személyi orvosi bélyegző száma …………………, működési helye …………… (intézet, rendelő).
+## 2. Az állapotos nő bemutatta azt a 202.......... év .................... hó ...... napján kelt orvosi leletet, amely szerint a terhességet ................ hetesnek állapította meg dr. ....................................................... szülész-nőgyógyász szakorvos, személyi orvosi bélyegző száma: ................, működési helye: ..................................... (intézet, rendelő). A bemutatott orvosi lelet rögzíti, hogy az állapotos nő számára az egészségügyi szolgáltató a magzati életfunkciók működésére utaló tényezőt egyértelműen azonosítható módon bemutatta.
 
 ## 3. A kérelem indoka:
 
@@ -26,51 +26,49 @@
 
 ## * súlyos válsághelyzet
 
-## 4.[^19] A térítési díj megállapításnál *kérem/*nem kérem a szociális kedvezmény érvényesítését.
+## 4. A térítési díj megállapításánál *kérem/*nem kérem a szociális kedvezmény érvényesítését.
 
-## Kelt: ………………… 199… év …………… hó …… napján.
+## Kelt: ......................................, 202.... év .......... hó .... napján.
 
-## …………………………………………
+## ......................................................................
 
 ## állapotos nő aláírása
 
-## …………………………………………
+## .......................................................................
 
-## az egészségügyről szóló törvény szerinti
-
-## cselekvőképtelen személy esetén
+## az egészségügyről szóló törvény szerinti cselekvőképtelen személy esetén
 
 ## a törvényes képviselő aláírása
 
-## …………………………………………
+## .......................................................................
 
-## (Korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy esetén a törvényes képviselő jóváhagyó aláírása, illetve a Családvédelmi Szolgálat munkatársának aláírása, amellyel igazolja, hogy a törvény 8. § (2) bekezdése szerinti nyilatkozatot a törvényes képviselő megtette.)
+## [Korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy esetén a törvényes képviselő jóváhagyó aláírása, illetve a Családvédelmi Szolgálat munkatársának aláírása, amellyel igazolja, hogy a törvény 8. § (3) bekezdése szerinti nyilatkozatot a törvényes képviselő megtette.]
 
-## 5. Feleségem (élettársam) döntésével egyetértek
+## 5. Feleségem (élettársam) döntésével egyetértek.
 
-## …………………………………
+## .................................................
 
-## jelenlevő férj (élettárs)
+## jelenlévő férj (élettárs)
 
-## 6. Bűncselekmény elkövetését, illetve annak alapos gyanúját igazolta az 199… év …………… hó ……… napján kelt, …………… számú irattal a büntetőügyben eljáró hatóság.
+## 6. Bűncselekmény elkövetését, illetve annak alapos gyanúját igazolta a 202..... év ........................ hó ........... napján kelt, ......................... számú irattal a büntetőügyben eljáró hatóság.
 
 ## 7. A Családvédelmi Szolgálat részéről a magzati élet védelméről szóló törvény rendelkezései szerint jártam el. Az állapotos nőt felvilágosítottam, jogairól tájékoztattam.
 
-## * térítési díj ……… forint
+## * térítési díj ............. forint
 
 ## * szociális kedvezmény figyelembevételével
 
-## ……… forint
+## ........... forint
 
 ## * térítésmentes
 
-## Nyilvántartási napló száma: ……………………
+## Nyilvántartási napló száma: ...................................
 
-## Kelt: ………………… 199… év …………… hó …… napján.
+## Kelt: ........................., 202.... év ................... hó ......... napján.
 
 ## P. H.
 
-## …………………………………
+## ........................................................
 
 ## Családvédelmi Szolgálat
 
@@ -388,6 +386,6 @@ Súlyos válsághelyzet esetén a térítési díj kedvezményre jogosító pén
 
 3.3. Vakok személyi járadéka
 
-[^19]: A 4. számú melléklet „A” 1. KÉRŐLAP A TERHESSÉG MEGSZAKÍTÁSÁHOZ rész 4. pontja a 16/2014. (III. 12.) EMMI rendelet 1. § b) pontja szerint módosított szöveg.
+[^19]: A 4. számú melléklet „A” jelű rész 1. alcíme a 29/2022. (IX. 12.) BM rendelet 1. §-ával megállapított szöveg.
 [^20]: A Statisztikai adatlapot ld. 1992. MK 132. szám 4719-4720. oldal.
 [^21]: A 4/a. számú mellékletet a 18/2000. (VI. 29.) EüM rendelet 7. § (1) bekezdése iktatta be, szövege a 16/2015. (III. 30.) EMMI rendelet 6. §-ával megállapított szöveg.

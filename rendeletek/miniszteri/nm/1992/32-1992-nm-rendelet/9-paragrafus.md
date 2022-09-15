@@ -1,6 +1,4 @@
-## 8. §
-
-## A tv. 6. § (1) bekezdés a) és b) pontjában, valamint (3) és (4) bekezdésében foglalt esetekben a terhesség megszakításához elegendő önmagában az állapotos nő beleegyezése, a Családvédelmi Szolgálat felkeresése és a kérőlap kiállítása nem szükséges.
+## 8. § A tv. 6. § (1) bekezdés a) és b) pontjában, valamint (3) és (4) bekezdésében foglalt esetekben a terhesség megszakításához elegendő önmagában az állapotos nő beleegyezése, a Családvédelmi Szolgálat felkeresése és a kérőlap kiállítása nem szükséges.
 
 ## A Családvédelmi Szolgálat feladatai a terhesség megszakításával kapcsolatban
 
