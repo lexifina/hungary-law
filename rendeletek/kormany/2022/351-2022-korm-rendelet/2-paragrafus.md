@@ -1,3 +1,3 @@
-2. § Az R. 35. § (1) bekezdése a következő c) ponttal egészül ki:
+2. §[^3]
 
-(A Hivatal az ellenőrzési jelentést)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

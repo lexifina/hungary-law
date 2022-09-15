@@ -1,5 +1,3 @@
-4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 6/A. alcím címében a „ , valamint a Miniszterelnöki Kormányiroda” szövegrész, valamint
-
-b) 10/A. § nyitó szövegrészében és 10/A. § a)–d) pontjában a „ , valamint a Miniszterelnöki Kormányiroda” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény alapján hatályát vesztette.
