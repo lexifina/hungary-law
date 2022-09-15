@@ -12,7 +12,7 @@ d)[^17]
 
 e)[^18]
 
-f)[^19]
+f) 1. mellékletében foglalt táblázat 16. sora.
 
 [^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^14]: A 14. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -20,4 +20,3 @@ f)[^19]
 [^16]: A 14. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^17]: A 14. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^18]: A 14. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 14. § f) pontja a 17. § (3) bekezdése alapján 2022. szeptember 15-én lép hatályba.
