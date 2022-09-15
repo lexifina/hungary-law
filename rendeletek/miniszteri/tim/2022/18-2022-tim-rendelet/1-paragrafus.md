@@ -1,19 +1,3 @@
-1. § A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 4/C. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„4/C. § (1) A közösségi jármű egyedi forgalomba helyezésének engedélyezését a közlekedési hatóság kérelemre, a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott feltételek alapján, a származási országban kiadott okmányok bemutatása és a jármű szemléje alapján, jármű-honosítási eljárás során végzi. A jármű-honosítási eljárásra az egyedi forgalomba helyezési engedélyezési eljárás e rendeletben meghatározott szabályait kell alkalmazni.
-
-(2) Az e §-ban foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők és a Magyarország területén felállított nemzetközi katonai parancsnokságok, azok Magyarországon szolgálatot teljesítő állományának tagjai, valamint e személyek – a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló törvényben meghatározott – hozzátartozóinak használatában lévő járművek forgalomba helyezésének engedélyezési, valamint az azt követő időszakos műszaki felülvizsgálati eljárása során mindaddig, amíg a tulajdonos vagy üzembentartó erre való jogosultságát a külföldi fegyveres erő, a Magyarország területére települt katonai szervezet vagy nemzetközi katonai parancsnokság igazolja.
-
-(3) Az e §-ban foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó, a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek be- és kiutazása, magyarországi tartózkodása egyes szabályainak megállapításáról szóló rendelet szerinti személyek és hozzátartozóik használatában lévő járművekre.
-
-(4) A jármű-honosítási eljárásban a jármű nyilvántartásba vételéhez szükséges, valamint a regisztrációs adóról szóló 2003. évi CX. törvény 9. § (4) bekezdésében meghatározott további adatait a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott feltételek alapján, a származási országban kiadott okmányok figyelembevételével kell megállapítani.
-
-(5) A jármű-honosítási eljárás a közlekedési hatóság által üzemeltetett vizsgálóállomáson, valamint az M1 és N1 járműkategóriába tartozó járművek esetében az országos lefedettséget biztosító műszaki vizsgálóállomáson is elvégezhető.
-
-(6) A jármű-honosítási eljárás során a jármű származási országának illetékes hatósága által meghatározott – a jármű forgalmi engedélyében vagy egyéb hatósági bizonyítványában feltüntetett – jogosultságokat és korlátozásokat is figyelembe kell venni. A közlekedési hatóság dönt arról, hogy azokat további vizsgálat mellőzésével megadottnak vagy megállapítottnak tekinti, vagy az engedély megadását további vizsgálathoz köti. A közlekedési hatóság által megállapított jogosultságokat, korlátozásokat a „Műszaki adatlapon” fel kell tüntetni.
-
-(7) A nyilvántartásba vételhez szükséges típusjellemző adatokat az EK típusjóváhagyással rendelkező járműtípus esetén a járműhöz a gyártó által kiadott „Megfelelőségi nyilatkozat” alapján, az EK típusjóváhagyással nem rendelkező közösségi jármű esetén a származási ország illetékes hatósága által kiadott forgalmi engedély alapján kell megállapítani.
-
-(8) A jármű-honosítási eljárás során végzett szemlén kívül a 12. §-ban meghatározott időszakos vizsgálatot akkor kell elvégezni, ha a származási országban kiadott forgalmi engedély időbeli hatályát meghaladó idő megállapítása érdekében a tulajdonos ezt kéri.
-
-(9) A jármű-honosítási eljárásban kiadott „Műszaki adatlapon” a következő időszakos vizsgálat határidejét a származási országban kiadott forgalmi engedély időbeli hatályával megegyezően, de legfeljebb a 11. § (3) bekezdésében meghatározott időtartamban kell megjelölni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
