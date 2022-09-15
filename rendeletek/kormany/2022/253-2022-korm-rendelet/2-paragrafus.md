@@ -16,6 +16,6 @@ f) a büntetés-végrehajtási szervezet,
 
 g) az Országgyűlés elnöke véleményének kikérésével az Országgyűlési Őrség
 
-hivatásos állománya vonatkozásában az egyes szolgálati beosztásokban a hivatásos pótlék mértékétől eltérő szabályokat rendeletben állapítsa meg.[^1]
+hivatásos állománya vonatkozásában az egyes szolgálati beosztásokban a hivatásos pótlék mértékétől eltérő szabályokat rendeletben állapítsa meg.[^2]
 
-[^1]: Lásd a 20/2022. (VII. 15.) BM rendeletet.
+[^2]: Lásd a 20/2022. (VII. 15.) BM rendeletet.
