@@ -1,3 +1,3 @@
-1. melléklet a 14/2022. (III. 30.) AM rendelethez[^45]
+1. melléklet a 14/2022. (III. 30.) AM rendelethez[^48]
 
-[^45]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „(10) Az ajánlatokat zárt borítékban, egy eredeti példányban, papír alapon, az ajánlattevő cégszerű aláírásával ellátva, valamint elektronikus adathordozón kell megküldeni a fenntartó részére. Az ajánlatok bontását minden év május 17-éig kell elvégezni, amelyre az ajánlattevőket meg kell hívni. Az ajánlatok bontásáról bontási jegyzőkönyvet kell készíteni, amelyet a jelenlevők aláírásával kell ellátni. Ha az ajánlattevő az ajánlatok bontásánál nem tudott megjelenni, a bontási jegyzőkönyvet a fenntartónál megtekintheti. A Kbt. vagy az e rendelet szerint elkészített bontási jegyzőkönyv másolatát harminc napon belül elektronikus úton meg kell küldeni tájékoztatásul a miniszter részére is a Kincstár honlapján közzétett közleményben megjelölt elektronikus levelezési címre.
+34. §[^39]
 
-## (11) A rangsorolás eredményéről a kérelmezőt minden év május 24-éig értesíteni kell. A rangsorolás alapján a legtöbb pontszámot elért kérelmezővel kell a fenntartónak a szállítási szerződést megkötnie. A vállalások érvényesülését a szállítási szerződésben is rögzíteni kell. A Kbt. szerinti írásbeli összegzést vagy az e rendelet szerint kialakított rangsort a fenntartó a döntést követő harminc napon belül a hivatalos honlapján közzéteszi, és ezzel egyidejűleg a 4. melléklet szerinti formátumban, elektronikus úton megküldi tájékoztatásul a miniszter részére is a Kincstár honlapján közzétett közleményben megjelölt elektronikus levelezési címre.”
-
-34. §[^36]
-
-[^36]: A 34–42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 34–42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
