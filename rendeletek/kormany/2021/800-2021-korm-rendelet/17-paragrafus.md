@@ -1,4 +1,4 @@
-## 16. §[^20]
+## 16. §[^22]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 14. § f) pontja 2022. szeptember 15-én lép hatályba.
 
-[^20]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
