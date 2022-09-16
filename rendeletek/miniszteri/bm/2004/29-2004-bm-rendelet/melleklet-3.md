@@ -12,7 +12,7 @@
 
 | 1.2. 1 db rendszámtábla | 5 500 |
 
-| 2. A KR. 63/A. § (2) bekezdés 1–5. pontja és 12–18. pontja alapján kiadott ideiglenes rendszámtábláért és a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járművekre kiadott TX betűjelű sárga vagy világoszöld színű rendszámtáblákért fizetendő díj: |  |
+| 2. A KR. 63/A. § (2) bekezdés 1–5. pontja és 12–18. pontja, valamint 63/A. § (3) bekezdése alapján kiadott ideiglenes rendszámtábláért és a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járművekre kiadott TX betűjelű sárga vagy világoszöld színű rendszámtáblákért fizetendő díj: |  |
 
 | 2.1. 1 pár rendszámtábla | 13 000 |
 
