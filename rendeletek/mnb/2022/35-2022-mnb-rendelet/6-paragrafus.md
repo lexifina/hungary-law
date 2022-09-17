@@ -1,1 +1,3 @@
-6. § Hatályát veszti a kötelező tartalékráta mértékéről szóló 45/2016. (XI. 23.) MNB rendelet.
+6. §[^2]
+
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
