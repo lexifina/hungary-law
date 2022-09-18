@@ -1,4 +1,4 @@
-## 2. §[^2] E rendelet alkalmazásában
+## 2. §[^3] E rendelet alkalmazásában
 
 1. alternatív rendszer: a megújuló energiaforrásokon alapuló decentralizált energiaellátási rendszer, a kapcsolt energiatermelés, a táv- vagy tömbfűtés és -hűtés vagy a hőszivattyús rendszer;
 
@@ -48,4 +48,4 @@
 
 24. távfűtés vagy távhűtés: a távhőszolgáltatásról szóló törvény szerinti távhőszolgáltatás, vagy gőz, meleg víz vagy hűtött folyadék formájában, egy központi termelési egységből, vezetéken keresztül történő hőenergia-szolgáltatás légterek vagy ipari folyamatok fűtése vagy hűtése céljából.
 
-[^2]: A 2. § a 61/2020. (XII. 30.) Krom. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § a 61/2020. (XII. 30.) Krom. rendelet 1. §-ával megállapított szöveg.

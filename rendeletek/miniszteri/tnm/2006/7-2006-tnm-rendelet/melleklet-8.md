@@ -1,6 +1,6 @@
 ## * SPF a hőszivattyú átlagos szezonális fűtési tényezője.
 
-8. melléklet a 7/2006. (V. 24.) TNM rendelethez[^38]
+8. melléklet a 7/2006. (V. 24.) TNM rendelethez[^41]
 
 Az elektromobilitás elősegítése
 
@@ -20,4 +20,4 @@ Az elektromobilitás elősegítése
 
 2025. január 1-jétől legalább egy elektromos töltőpontot kell telepíteni, ha a parkoló az épületen belül helyezkedik el, vagy a parkoló közvetlenül az épület mellett helyezkedik el.
 
-[^38]: A 7. mellékletet a 61/2020. (XII. 30.) ITM rendelet 6. § (4) bekezdése iktatta be.
+[^41]: A 7. mellékletet a 61/2020. (XII. 30.) ITM rendelet 6. § (4) bekezdése iktatta be.

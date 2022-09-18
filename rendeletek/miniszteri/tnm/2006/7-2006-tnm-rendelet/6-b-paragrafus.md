@@ -1,0 +1,3 @@
+6/B. §[^26] A 6. § (2) bekezdés a) pontjától eltérően, ha az építészeti-műszaki tervezési dokumentáció alapján az épület kialakítása nem közel nulla vagy annál kedvezőbb energiaigényű, és a használatbavételre 2020. december 31. napját követően kerül sor, a 6. § (2) bekezdés a) pontjában foglaltaknak 2024. június 30. napja utáni használatbavétel esetén kell megfelelni azzal, hogy a 2020. december 31. napján hatályos energetikai előírásokat ebben az esetben is alkalmazni kell.
+
+[^26]: A 6/B. §-t az 57/2020. (XII. 29.) ITM rendelet 1. §-a iktatta be, szövege a 13/2021. (III. 10.) ITM rendelet 1. §-ával megállapított, az 1/2022. (IX. 17.) ÉBM rendelet 2. §-a szerint módosított szöveg.

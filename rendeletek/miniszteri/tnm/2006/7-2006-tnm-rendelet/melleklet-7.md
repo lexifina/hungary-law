@@ -150,7 +150,7 @@
 
 ## EP referencia: A III. rész 2. pont 2.1–2.3 alpontja szerint meghatározott referencia épület összesített energetikai követelményértéke.
 
-7. melléklet a 7/2006. (V. 24.) TNM rendelethez[^37]
+7. melléklet a 7/2006. (V. 24.) TNM rendelethez[^40]
 
 1. Számítási eljárás távhőszolgáltatók számára a távhőellátás primer energia tényezőjének meghatározásához.
 
@@ -252,11 +252,11 @@ evill = 2,5 kWh/kWh
 
 ## αi: Az i-edik primerenergia-forrásból termelt távhő aránya az adott távhőrendszerben távhőhálózatra kiadott összes hőmennyiséghez viszonyítva (kWh/kWh).
 
-## eSUS,i: Az i-edik hőtermelő technológiában felhasznált megújuló energiaforrások részaránya.
+## eSUS,i:Az i-edik hőtermelő technológiában felhasznált megújuló energiaforrások részaránya.
 
-## αvill: A távhő termeléséhez és keringtetéséhez a hőtermelő által felhasznált villamos energia aránya az adott távhőrendszerben távhőhálózatra kiadott összes hőmennyiségre vetítve (kWh/kWh).
+## αvill:A távhő termeléséhez és keringtetéséhez a hőtermelő által felhasznált villamos energia aránya az adott távhőrendszerben távhőhálózatra kiadott összes hőmennyiségre vetítve (kWh/kWh).
 
-## eSUS,vill: A távhő termeléséhez és keringtetéséhez felhasznált villamos energia megújuló részaránya.
+## eSUS,vill:A távhő termeléséhez és keringtetéséhez felhasznált villamos energia megújuló részaránya.
 
 2.4. Ha a távhő termeléséhez és keringtetéséhez felhasznált villamos energia megújuló részarányáról nem áll rendelkezésre tényadat, az eSUS,vill = 0,1 értéket kell alkalmazni.
 
@@ -282,4 +282,4 @@ evill = 2,5 kWh/kWh
 
 |  | 8. | Hőszivattyú | 1-1/SPF* |
 
-[^37]: A 7. mellékletet a 41/2019. (XI. 14.) ITM rendelet 3. § (3) bekezdése iktatta be, szövege a 61/2020. (XII. 30.) ITM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^40]: A 7. mellékletet a 41/2019. (XI. 14.) ITM rendelet 3. § (3) bekezdése iktatta be, szövege a 61/2020. (XII. 30.) ITM rendelet 6. § (3) bekezdése szerint módosított szöveg.

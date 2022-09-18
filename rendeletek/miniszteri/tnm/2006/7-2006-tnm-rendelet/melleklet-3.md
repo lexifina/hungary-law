@@ -294,7 +294,7 @@
 
 |  |  |  | (IV.5.1.) |
 
-## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF = 4,4
+## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF= 4,4
 
 ## helyettesítési értékkel lehet számolni.
 
@@ -302,7 +302,7 @@
 
 |  |  |  | (IV.5.2.) |
 
-## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF = 4,4
+## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF= 4,4
 
 ## helyettesítési értékkel lehet számolni.
 
@@ -310,7 +310,7 @@
 
 |  |  |  | (IV.5.3.) |
 
-## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF = 4,4
+## Egyszerűsített módszer alkalmazása esetén az összefüggésben H = 72 és ZF= 4,4
 
 ## helyettesítési érték alkalmazandó.
 
@@ -358,7 +358,7 @@
 
 ## A teljesítménytényező meghatározásához azt az alapterületet kell figyelembe venni, amelynek fűtésére az adott berendezés szolgál. (Erre különösen olyan társasházaknál kell figyelni, ahol lakásonként vannak hőtermelők beépítve.)
 
-## A VI.1. táblázatban megadott értékek αk =1 lefedési arány mellett készültek.
+## A VI.1. táblázatban megadott értékek αk=1 lefedési arány mellett készültek.
 
 ## Távfűtés
 
@@ -368,7 +368,7 @@
 
 ## VI.1. táblázat. A fűtött téren kívül elhelyezett kazánok teljesítménytényezői, Ck és segédenergia igénye, qk,v
 
-|  | Teljesítménytényezők Ck [-] | Segédenergia qk,v [kWh/m2/a] |
+|  | Teljesítménytényezők Ck [-] | Segédenergia qk,v[kWh/m2/a] |
 
 | Alapterület AN [m2] | Állandó hőmérsékletű kazán | Alacsony hőmérsékletű kazán | Kondenzációs kazán |
 
@@ -396,7 +396,7 @@
 
 ## VI.2. táblázat: A fűtött téren belül elhelyezett kazánok teljesítménytényezői, Ck és segédenergia igénye, qk,v
 
-|  | Teljesítménytényezők Ck [-] | Segédenergia qk,v [kWh/m2/a] |
+|  | Teljesítménytényezők Ck [-] | Segédenergia qk,v[kWh/m2/a] |
 
 | Alapterület AN [m2] | Állandó hőmérsékletű kazán | Alacsony hőmérsékletű kazán | Kondenzációs kazán |  |
 
@@ -458,7 +458,7 @@
 
 ## VI.6. táblázat: Szilárd- és biomasszatüzelés segédenergia igénye, qk,v
 
-|  |  | Alap- területig AN [m2] | Szilárd- tüzelésű kazán (szabályozó nélkül) | Fatüzelésű kazán (szabályozóval) | Pellet-tüzelésű kazán (Ventilátorral/ elektromos gyújtással) |
+|  |  | Alap- területig AN[m2] | Szilárd- tüzelésű kazán (szabályozó nélkül) | Fatüzelésű kazán (szabályozóval) | Pellet-tüzelésű kazán (Ventilátorral/ elektromos gyújtással) |
 
 |  |  | 100 | 0 | 0,19 | 1,96 |
 
@@ -554,7 +554,7 @@
 
 ## VI.10. táblázat: A teljesítmény és a hőigény illesztésének pontatlansága miatti veszteségek,qf,h
 
-| Rendszer | Szabályozás | qf,h [kWh/m2/a] | Megjegyzések |
+| Rendszer | Szabályozás | qf,h[kWh/m2/a] | Megjegyzések |
 
 | Vízfűtés Kétcsöves radiátoros és beágyazott fűtések | Szabályozás nélkül | 15,0 |  |
 
@@ -640,7 +640,7 @@
 
 ## (a teljesítmény és a hőigény illesztésének pontatlansága miatti veszteség)
 
-|  | Rendszer | Szabályozás | qf,h [kWh/m2/a] |
+|  | Rendszer | Szabályozás | qf,h[kWh/m2/a] |
 
 |  | Egyedi fűtések | Gázkonvektor | Szabályozó termosztáttal | 5,5 |
 
@@ -878,13 +878,13 @@
 
 ## VIII.1. táblázat: Ventilátorok összhatásfoka, ηvent
 
-|  | Ventilátor térfogatárama VLT [m3/h] | Ventilátor összhatásfoka ηvent [–] |
+|  | Ventilátor térfogatárama VLT[m3/h] | Ventilátor összhatásfoka ηvent[–] |
 
 | Nagy ventilátorok | 10.000 ≤ VLT | 0,70 |
 
-| Közepes ventilátorok | 1.000 ≤ VLT < 10.000 | 0,55 |
+| Közepes ventilátorok | 1.000 ≤ VLT< 10.000 | 0,55 |
 
-| Kis ventilátorok | VLT < 1.000 | 0,40 |
+| Kis ventilátorok | VLT< 1.000 | 0,40 |
 
 ## Ha az épületben több ventilátor/légtechnikai rendszer üzemel, azok fogyasztását összegezni kell. Amennyiben a légtechnikai rendszerben levegő visszakeverés is van, annak mennyiségét is figyelembe kell venni a ventilátor térfogatáramának meghatározásakor.
 
@@ -904,7 +904,7 @@
 
 ## a nettó hőigény százalékában, fLT,sz
 
-| Rendszer | Hőmérséklet szabályozás módja | fLT,sz % | Megjegyzés |
+| Rendszer | Hőmérséklet szabályozás módja | fLT,sz% | Megjegyzés |
 
 | 20 ˚C feletti befúvási hőmérséklet esetén | Helyiségenkénti szabályozás | 5 | Érvényes az egyes helyi (helyiségenkénti) és a központi kialakításokra, függetlenül a levegő melegítés módjától. |
 
@@ -1056,6 +1056,6 @@
 
 ## Az összesített energetikai jellemző az épülettechnikai és világítási rendszerek primer energiafogyasztása összegének egységnyi fűtött alapterületre vetített értéke.
 
-3. melléklet a 7/2006. (V. 24.) TNM rendelethez[^33]
+3. melléklet a 7/2006. (V. 24.) TNM rendelethez[^36]
 
-[^33]: A 3. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (3) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (3) bekezdése, a 39/2015. (IX. 14.) MvM rendelet 5. § b) pontja, a 41/2019. (XI. 14.) ITM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^36]: A 3. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (3) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (3) bekezdése, a 39/2015. (IX. 14.) MvM rendelet 5. § b) pontja, a 41/2019. (XI. 14.) ITM rendelet 3. § (1) bekezdése szerint módosított szöveg.

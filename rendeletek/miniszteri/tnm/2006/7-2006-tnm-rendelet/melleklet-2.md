@@ -12,7 +12,7 @@
 
 ## Δtbnyár ≤ 3 K nehéz épületszerkezetek esetében
 
-## Δtbnyár ≤ 2 K könnyű épületszerkezetek esetében
+## Δtbnyár≤ 2 K könnyű épületszerkezetek esetében
 
 ## A besorolás alapja a fajlagos hőtároló tömeg (2. melléklet III. 2. pontja)
 
@@ -240,6 +240,6 @@
 
 ## 9.2.2. ellenőrzi és optimalizálja az energiatermelést, -tárolást, -elosztást és -felhasználást.
 
-2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^32]
+2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^35]
 
-[^32]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése, a 61/2020. (XII. 30.) ITM rendelet 7. § b) pontja szerint módosított szöveg.
+[^35]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése, a 61/2020. (XII. 30.) ITM rendelet 7. § b) pontja szerint módosított szöveg.

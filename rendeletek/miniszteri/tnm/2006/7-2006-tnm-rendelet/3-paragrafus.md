@@ -1,4 +1,4 @@
-3. § (1)[^3] Épületet úgy kell tervezni, kialakítani, megépíteni, hogy annak energetikai jellemzői megfeleljenek e rendelet előírásainak, a 6. §-ra tekintettel.
+3. § (1)[^4] Épületet úgy kell tervezni, kialakítani, megépíteni, hogy annak energetikai jellemzői megfeleljenek e rendelet előírásainak, a 6. §-ra tekintettel.
 
 (2) Az épület energetikai jellemzőjét a tervező döntése szerint
 
@@ -12,4 +12,4 @@ kell meghatározni.
 
 (4) Az épület energetikai megfelelősége egyes zónákra vagy egyes helyiségekre elvégzett számítások eredményeinek összegezésével is igazolható.
 
-[^3]: A 3. § (1) bekezdése a 39/2015. (IX. 14.) MvM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdése a 39/2015. (IX. 14.) MvM rendelet 2. §-ával megállapított szöveg.

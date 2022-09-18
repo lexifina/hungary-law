@@ -110,6 +110,6 @@
 
 | 6 | Alternatív energiaellátás gazdaságossági szempontból célszerű | I | N |
 
-5. melléklet a 7/2006. (IV. 24.) TNM rendelethez[^35]
+5. melléklet a 7/2006. (IV. 24.) TNM rendelethez[^38]
 
-[^35]: Az 5. mellékletet a 20/2014. (III. 7.) BM rendelet 6. § (1) bekezdése iktatta be, szövege a 61/2020. (XII. 30.) ITM rendelet 7. § b) és e) pontja szerint módosított szöveg.
+[^38]: Az 5. mellékletet a 20/2014. (III. 7.) BM rendelet 6. § (1) bekezdése iktatta be, szövege a 61/2020. (XII. 30.) ITM rendelet 7. § b) és e) pontja szerint módosított szöveg.

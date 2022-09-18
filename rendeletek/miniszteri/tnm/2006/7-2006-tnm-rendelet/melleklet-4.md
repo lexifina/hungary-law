@@ -370,7 +370,7 @@
 
 ## 1.
 
-|  |  | te,közepes ºC | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+|  |  | te,közepesºC | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 
 |  |  | nhű | 110 | 95 | 80 | 66 | 52 | 38 | 25 | 15 | 8 | 5 | 3 | 1 |
 
@@ -468,25 +468,25 @@
 
 | Oktatási épületek8) | 2,5 | 0,3 | 0,9 | 7 | 6 | 0,6 | 0,8 | 9 |
 
-## 1) Légcsereszám a használati időben
+## 1)Légcsereszám a használati időben
 
-## 2) Légcsereszám használati időn kívül
+## 2)Légcsereszám használati időn kívül
 
-## 3) Átlagos légcsereszám a használati idő figyelembevételével (ha nincs gépi szellőztetés).
+## 3)Átlagos légcsereszám a használati idő figyelembevételével (ha nincs gépi szellőztetés).
 
 ## Megjegyzés: az átlagos légcsereszámmal számítandó az éves nettó fűtési hőigény, a használati időre vonatkozó légcsereszámmal számítandók azok az adatok, amelyek a szellőzési rendszer üzemidejétől függenek.
 
-## 4) A világítási energia igény csökkenthető, ha a rendszer jelenlét- vagy mozgásérzékelőkkel és a természetes világításhoz illeszkedő szabályozással van ellátva.
+## 4)A világítási energia igény csökkenthető, ha a rendszer jelenlét- vagy mozgásérzékelőkkel és a természetes világításhoz illeszkedő szabályozással van ellátva.
 
-## 5) A szakaszos éjszakai - hétvégi leszabályozott teljesítményű fűtési üzem hatását kifejező korrekciós tényező
+## 5)A szakaszos éjszakai - hétvégi leszabályozott teljesítményű fűtési üzem hatását kifejező korrekciós tényező
 
-## 6) Folyamatos használat
+## 6)Folyamatos használat
 
-## 7) Napi és heti szakaszosságú használat
+## 7)Napi és heti szakaszosságú használat
 
 ## 8) Napi és heti szakaszosságú használat két hónap nyári szünet feltételezésével
 
-## 9) Lakóépületek esetében nem kell az összevont jellemzőben szerepeltetni.
+## 9)Lakóépületek esetében nem kell az összevont jellemzőben szerepeltetni.
 
 ## 10) A lakóegységenként a lakóegység 80 m2 hasznos alapterület feletti hányadát 15 kWh/m2a-el kell figyelembe venni.
 
@@ -570,7 +570,7 @@
 
 | 9. | távhőellátás | a 6/A. § szerint közzétett érték |
 
-4. melléklet a 7/2006. (V. 24.) TNM rendelethez[^34]
+4. melléklet a 7/2006. (V. 24.) TNM rendelethez[^37]
 
 Új épületek alternatív rendszereinek vizsgálata
 
@@ -716,4 +716,4 @@ III. Gazdaságossági vizsgálat
 
 IV. Mintalap a megvalósíthatósági elemzés eredményeinek dokumentálásához
 
-[^34]: A 4. melléklet a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdése, a 61/2020. (XII. 30.) ITM rendelet 7. § b) és d) pontja szerint módosított szöveg.
+[^37]: A 4. melléklet a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdése, a 61/2020. (XII. 30.) ITM rendelet 7. § b) és d) pontja szerint módosított szöveg.
