@@ -8,7 +8,7 @@ b) a javíthatatlannak minősített pénztárgép visszaszolgáltatásától sz�
 
 c)[^83] az a) pont alá nem tartozó pénztárgép visszaszolgáltatása esetén a pénztárgép más forgalmazó általi azonnali megjavításáig vagy e más forgalmazó által az (1) bekezdésben foglaltak megfelelő alkalmazásával biztosítandó cserepénztárgép rendelkezésre bocsátásáig, de legfeljebb a pénztárgép visszaszolgáltatásától számított 15. napig
 
-## tart.
+tart.
 
 (3)[^84] A forgalmazó köteles a cserepénztárgép adatait az erre a célra szolgáló külön lapon, valamint a pénztárgépnaplóban feltüntetni. A javítás befejezését követően a forgalmazónak mind a visszaadott cserepénztárgép, mind a javított pénztárgép bevételi adatait a pénztárgépnaplóba aláírásokkal igazoltan be kell írnia.
 

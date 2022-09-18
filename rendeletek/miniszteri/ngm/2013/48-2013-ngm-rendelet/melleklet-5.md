@@ -1,6 +1,38 @@
-5. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^189]
+## 6K04021_17
 
-## Az Adóügyi Ellenőrző Egység (AEE) és a NAV szerverei közötti kommunikáció protokolljára vonatkozó előírások
+| Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
+
+| 1. | RSR | Bejegyzés sorszám naplófájlon belül (1-től sorszámozva) | max 5 hosszú numerikus |
+
+| 2. | BSR | Bizonylat számláló értéke | 10 karakteres numerikus |
+
+| 3. | DTS | Időbélyeg, a bizonylat nyitásának kiadásának pontos ideje az AEE órája szerint | szabványos dátum és iőő adat másodperc pontossággal |
+
+| 4. | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 db számjegy sztring formátumban |
+
+| 5. | EIT | Egyéb dokumentum típusa | 20 hosszú szöveg |
+
+| 6. | EIL | Egyéb dokumentum típus leírás | 20 hosszú szöveg |
+
+| 7. | EDA | Egyéb dokumentumon szereplő adatok | lista, max 100 |
+
+| 7.1 | > ENM | Egyéb dokumentumon szereplő adat megnevezése | 20 karakteres szöveges |
+
+| 7.2 | > EVL | Egyéb dokumentumon szereplő adat értéke | 200 karakteres szöveges |
+
+| 8. | CPY | A bizonylat példányszáma | 5 karakteres numerikus |
+
+| 9. | NAV | A bizonylaton szereplő NAV ellenőrző kód | 5 karakteres szöveg |
+
+| 10. | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1, egyébként 0. |
+
+| 11. | HSH | Ellenőrző kód | 64 HEXA karakter |
+
+## Bizonylat-összesítő nyomtatása esetén a naplóállományban a dokumentum kivonatát kell az Egyéb dokumentum (EDN) típusú naplósorban rögzíteni, melynek tartalma a dokumentum megnevezése, valamint a dokumentumon szereplő bizonylatok összesített darabszáma bizonylattípusonként, a mező megnevezésében a bizonylattípus nevét, az adattartalmában a darabszámot feltüntetve. Csak azokat a bizonylattípusokat kell feltüntetni, melyek szerepeltek a bizonylat-összesítő dokumentumon.
+
+5. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^192]
+
+Az Adóügyi Ellenőrző Egység (AEE) és a NAV szerverei közötti kommunikáció protokolljára vonatkozó előírások
 
 1. Az AEE és a NAV szerver (ezen mellékletben a továbbiakban: NAV) üzenetei az UTF-8-as kódlap szerint kódolt karaktersorozatok. Jelen melléklet tekintetében XXXXXXXXX az adatszolgáltatással érintett pénztárgép AP számát, HHHHHHHHHH a szerver által előállított, 10 hexadecimális számjegyből álló munkamenet azonosító kódot jelöli. Amennyiben az AEE válaszüzeneteiben a HHHHHHHHHH igazoló kód szerepel, úgy minden esetben a megelőző NAV üzenetben szereplő kódot kell alkalmazni.
 
@@ -720,7 +752,7 @@ III. Az AEE-NAV forgalmazások forgatókönyvei
 
 | 12. | Az AEE bontja az SSL kapcsolatot |
 
-Egy adózói vagy telephely adat frissítési folyamaton belül a NAV legfeljebb kettő, kétvállalkozós pénztárgépen legfeljebb három DEFUPD üzenetet küld úgy, hogy az üzenetek P1 paraméterének értéke különbözik. A pénztárgép adózói vagy telephely adatainak frissítésére irányuló üzenet fogadását a pénztárgép akkor és csak akkor tekintheti sikeresnek, ha a 6. lépésben jelölt visszaigazolás megtörtént, egyébként teljes egészében sikertelennek kell tekintenie.
+## Egy adózói vagy telephely adat frissítési folyamaton belül a NAV legfeljebb kettő, kétvállalkozós pénztárgépen legfeljebb három DEFUPD üzenetet küld úgy, hogy az üzenetek P1 paraméterének értéke különbözik. A pénztárgép adózói vagy telephely adatainak frissítésére irányuló üzenet fogadását a pénztárgép akkor és csak akkor tekintheti sikeresnek, ha a 6. lépésben jelölt visszaigazolás megtörtént, egyébként teljes egészében sikertelennek kell tekintenie.
 
 7. eset: Euró átállás dátum módosítása
 
@@ -824,11 +856,11 @@ Egy adózói vagy telephely adat frissítési folyamaton belül a NAV legfeljebb
 
 | 15. | Az AEE bontja az SSL kapcsolatot |
 
-A folyamat során a NAV elküldi a kért szoftver adatszeletet; a szeleteket a sikeres CRC-ellenőrzés után az AEE-nek össze kell raknia, majd ellenőriznie kell az adatállomány SHA256 algoritmussal képzett ellenőrző kódjának megfelelőségét.
+## A folyamat során a NAV elküldi a kért szoftver adatszeletet; a szeleteket a sikeres CRC-ellenőrzés után az AEE-nek össze kell raknia, majd ellenőriznie kell az adatállomány SHA256 algoritmussal képzett ellenőrző kódjának megfelelőségét.
 
-Amennyiben a működtető szoftver letöltése nem kezdődött meg az FRWUPD üzenet fogadását követően 60 percen belül, az AEE-nek meg kell ismételnie a folyamatot az SSL csatorna kiépítése után a 4. lépéstől kezdve a FRWUPD üzenet fogadását követő 4 órán belül.
+## Amennyiben a működtető szoftver letöltése nem kezdődött meg az FRWUPD üzenet fogadását követően 60 percen belül, az AEE-nek meg kell ismételnie a folyamatot az SSL csatorna kiépítése után a 4. lépéstől kezdve a FRWUPD üzenet fogadását követő 4 órán belül.
 
-Szoftver frissítés elakadása esetén a már letöltött szeleteket nem kell újra letölteni, hacsak a NAV erre vonatkozóan az UPDCLR parancs kiadásával utasítást nem ad.
+## Szoftver frissítés elakadása esetén a már letöltött szeleteket nem kell újra letölteni, hacsak a NAV erre vonatkozóan az UPDCLR parancs kiadásával utasítást nem ad.
 
 10. eset: Pénztárgép rendszerbe állítása
 
@@ -872,9 +904,9 @@ Szoftver frissítés elakadása esetén a már letöltött szeleteket nem kell �
 
 | 12. | Az AEE bontja az SSL kapcsolatot |
 
-A regisztrációs fájlt az AEE tárolójára „0” sorszámmal, a naplóállományok elnevezésére vonatkozó előírás szerint elnevezve kell eltárolni. A regisztrációs állomány adatmezőinek feltöltésekor a rendelkezésre nem álló adózói adatokat megfelelő számú „0” karakterrel kell kitölteni. Az üzembe helyezési kód mezőjében 16 db „0” szerepeltetendő.
+## A regisztrációs fájlt az AEE tárolójára „0” sorszámmal, a naplóállományok elnevezésére vonatkozó előírás szerint elnevezve kell eltárolni. A regisztrációs állomány adatmezőinek feltöltésekor a rendelkezésre nem álló adózói adatokat megfelelő számú „0” karakterrel kell kitölteni. Az üzembe helyezési kód mezőjében 16 db „0” szerepeltetendő.
 
-Amennyiben a 4a. lépésben szereplő üzenet elküldése már megtörtént, a sikertelenül zárult rendszerbe állítási folyamatot csak ugyanazokkal az adatokkal kísérelheti meg újra az AEE, amelyeket a sikertelenül zárult folyamatban küldte el. Ha a 11a. lépésben szereplő üzenet küldését követően az AEE újabb rendszerbe állítási folyamatot nem indíthat.
+## Amennyiben a 4a. lépésben szereplő üzenet elküldése már megtörtént, a sikertelenül zárult rendszerbe állítási folyamatot csak ugyanazokkal az adatokkal kísérelheti meg újra az AEE, amelyeket a sikertelenül zárult folyamatban küldte el. Ha a 11a. lépésben szereplő üzenet küldését követően az AEE újabb rendszerbe állítási folyamatot nem indíthat.
 
 11/a. eset: Pénztárgép első üzembe helyezése
 
@@ -924,7 +956,7 @@ Amennyiben a 4a. lépésben szereplő üzenet elküldése már megtörtént, a s
 
 | 12. | Az AEE bontja az SSL kapcsolatot |
 
-Az üzembe helyezési folyamat kizárólag akkor tekinthető sikeresen befejezettnek, ha sikeresen megtörtént minden olyan módosítás, amire a NAV utasítást adott, majd az AEE fogadta a 12a. lépésben szereplő visszaigazoló üzenetet. A pénztárgép adóügyi nap nyitását kizárólag a sikeresen lezárult üzembe helyezési folyamatot követően teheti lehetővé.
+## Az üzembe helyezési folyamat kizárólag akkor tekinthető sikeresen befejezettnek, ha sikeresen megtörtént minden olyan módosítás, amire a NAV utasítást adott, majd az AEE fogadta a 12a. lépésben szereplő visszaigazoló üzenetet. A pénztárgép adóügyi nap nyitását kizárólag a sikeresen lezárult üzembe helyezési folyamatot követően teheti lehetővé.
 
 11/b. eset: Pénztárgép befejezett üzemeltetést követő új üzembe helyezése (átszemélyesítés)
 
@@ -976,9 +1008,9 @@ Az üzembe helyezési folyamat kizárólag akkor tekinthető sikeresen befejezet
 
 | 13. | Az AEE bontja az SSL kapcsolatot |
 
-Az átszemélyesítés kizárólag akkor tekinthető sikeresen befejezettnek, ha sikeresen megtörtént minden olyan módosítás, amire a NAV utasítást adott, majd az AEE fogadta a 10a. lépésben szereplő visszaigazoló üzenetet. A pénztárgép adóügyi nap nyitását kizárólag a sikeresen lezárult üzembe helyezési folyamatot követően teheti lehetővé. Átszemélyesítés után a naplóállományok sorszámozása ismétlés és kihagyás nélkül folytatódik.
+## Az átszemélyesítés kizárólag akkor tekinthető sikeresen befejezettnek, ha sikeresen megtörtént minden olyan módosítás, amire a NAV utasítást adott, majd az AEE fogadta a 10a. lépésben szereplő visszaigazoló üzenetet. A pénztárgép adóügyi nap nyitását kizárólag a sikeresen lezárult üzembe helyezési folyamatot követően teheti lehetővé. Átszemélyesítés után a naplóállományok sorszámozása ismétlés és kihagyás nélkül folytatódik.
 
-Sikertelenül zárult átszemélyesítés újra megkísérelhető.
+## Sikertelenül zárult átszemélyesítés újra megkísérelhető.
 
 12. eset: Pénztárgép üzemeltetésének befejezése
 
@@ -1028,7 +1060,7 @@ A pénztárgép üzemeltetésének befejezése során az AEE-ben tárolt napló�
 
 | 13. | Az AEE bontja az SSL kapcsolatot |
 
-Ha az üzemeltetés befejezése folyamat sikeresen lezárul, akkor újabb üzembe helyezésig, illetve az üzemeltetés folytatása folyamat lezárultáig a pénztárgép nem lehet alkalmas adóügyi nap megnyitására.
+## Ha az üzemeltetés befejezése folyamat sikeresen lezárul, akkor újabb üzembe helyezésig, illetve az üzemeltetés folytatása folyamat lezárultáig a pénztárgép nem lehet alkalmas adóügyi nap megnyitására.
 
 13. eset: Utasítás azonnali elsőbbségi bejelentkezésre
 
@@ -1102,7 +1134,7 @@ Ha az üzemeltetés befejezése folyamat sikeresen lezárul, akkor újabb üzemb
 
 | 5. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | SSG→AEE |
 
-A sikertelenül zárult folyamat megismételhető.
+## A sikertelenül zárult folyamat megismételhető.
 
 17. eset: Utasítás a naplófájl maximális méretének beállítására
 
@@ -1144,7 +1176,7 @@ A sikertelenül zárult folyamat megismételhető.
 
 | 7. | Az AEE bontja az SSL kapcsolatot |
 
-A technikai tájékoztatás bizonylat nem adóügyi bizonylat.
+## A technikai tájékoztatás bizonylat nem adóügyi bizonylat.
 
 19. eset: Az AEE-NAV kommunikáció tesztelése
 
@@ -1158,32 +1190,4 @@ A technikai tájékoztatás bizonylat nem adóügyi bizonylat.
 
 | 4. | A pénztárgép operátori kijelzőjén megjelenik a „Kommunikációs csatorna él” felirat, majd 60 másodperc múlva az AEE bontja az SSL kapcsolatot. |
 
-20. eset: A NAV állapotjelentést kér
-
-| Lépés | Leírás | Üzenet | Irány |
-
-| 1. | Az AEE felépíti az SSL kapcsolatot |
-
-| 2. | Az AEE bejelentkezése (elsőbbségi vagy normál) | PRIOR~YY~XXXXXXXXX~S~N~T vagy TRMRDY~XXXXXXXXX~S~N~T | AEE→MSG |
-
-| 3. | Utasítás állapotjelentés adására | STSREQ~HHHHHHHHHH | MSG→AEE |
-
-| 4. | Állapotjelentés adása | STATUS~XXXXXXXXX~UZE=Q1~BLO=Q2~DEF=Q3~VAT=Q4~FRW=Q5~EUR=Q6~CON=Q7~UDC=Q8~PRN=Q9~STS=Q10~HHHHHHHHHH | AEE→MSG |
-
-| 5. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | MSG→AEE |
-
-| 6. | Az AEE bontja az SSL kapcsolatot |
-
-21. eset: Állapotjelentés
-
-| Lépés | Leírás | Üzenet | Irány |
-
-| 1. | Az AEE felépíti az SSL kapcsolatot |
-
-| 2. | Állapotjelentés adása | STATUS~XXXXXXXXX~UZE=Q1~BLO=Q2~DEF=Q3~VAT=Q4~FRW=Q5~EUR=Q6~CON=Q7~UDC=Q8~PRN=Q9~STS=Q10 | AEE→SSG |
-
-| 3. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | SSG→AEE |
-
-| 4. | Az AEE bontja az SSL kapcsolatot |
-
-[^189]: Az 5. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § f) pontjával megállapított szöveg.
+[^192]: Az 5. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § f) pontjával megállapított szöveg.

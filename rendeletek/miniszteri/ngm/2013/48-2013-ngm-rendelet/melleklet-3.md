@@ -1,5 +1,3 @@
-## Igazgatási szolgáltatási díjak
-
 ## A) Speciálisnak nem minősülő pénztárgép
 
 |  | A | B | C |
@@ -44,6 +42,6 @@
 
 | 5. | 4. | Forgalmazási engedély kiterjesztése | kiterjesztésenként 80 000 Ft |
 
-3. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^187]
+3. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^190]
 
-[^187]: A 3. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § c) pontjával megállapított, a 48/2016. (XII. 6.) NGM rendelet 1. §-a, a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés a) és g) pontja, a 18/2018. (XII. 20.) PM rendelet 15. §-a szerint módosított szöveg.
+[^190]: A 3. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § c) pontjával megállapított, a 48/2016. (XII. 6.) NGM rendelet 1. §-a, a 62/2016. (XII. 29.) NGM rendelet 40. § (2) bekezdés a) és g) pontja, a 18/2018. (XII. 20.) PM rendelet 15. §-a szerint módosított szöveg.

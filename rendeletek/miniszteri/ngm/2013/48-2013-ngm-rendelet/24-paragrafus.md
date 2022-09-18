@@ -8,7 +8,7 @@ a)[^52] szoftverváltoztatás esetén a forgalmazási engedély módosítása,
 
 b) hardverváltoztatás esetén a forgalmazási engedély kiterjesztése
 
-## iránti kérelmet kell benyújtani.
+iránti kérelmet kell benyújtani.
 
 (2) Az (1) bekezdés szerinti kérelem benyújtására és elbírálására a jelen fejezetben meghatározottakat kell megfelelően alkalmazni azzal, hogy a módosítás, kiterjesztés tárgyát, és a módosítás, kiterjesztés indokát a kérelemben egyértelműen meg kell jelölni.
 

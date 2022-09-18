@@ -6,7 +6,7 @@ a) a jogi személy jogutódja vagy jogszabályban, határozatban erre kötelezet
 
 b) a közkereseti társaságnál és a betéti társaságnál a jogszabályban meghatározott személy
 
-## tesz eleget.
+tesz eleget.
 
 (3) Egyéni vállalkozó szerviz halála esetén az iratokat a vele közös háztartásban élt hozzátartozója, ennek hiányában az örökös köteles az állami adóhatósághoz továbbítani.
 

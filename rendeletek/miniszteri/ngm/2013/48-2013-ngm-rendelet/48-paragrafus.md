@@ -6,7 +6,7 @@ a) forgalmazói szoftver-felülvizsgálatból, valamint
 
 b) szervizes helyszíni vizsgálatból
 
-## áll.
+áll.
 
 (1b)[^105] Az (1a) bekezdés a) pontja szerinti felülvizsgálat a forgalmazó kötelezettsége, amelynek keretében elvégzi az általa forgalmazott pénztárgépek AEE szoftver jogszabályoknak való megfelelőségének vizsgálatát és szükség szerinti módosítását a módosítást szükségessé tevő jogszabályban meghatározottak szerint, mely tényről az AEE gyártó által kiállított egyedi azonosító számmal rendelkező igazolást köteles beszerezni, mely igazolást a szervizes helyszíni vizsgálat során a szerviz az adóalany részére átadni köteles. Ezt a tevékenységet kizárólag az adott típus szervizelésére jogosult műszerész végezheti.
 

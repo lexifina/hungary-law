@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-48-20-2
 | 2019-05-31 | 2013-48-20-2X.11 | 5/2019. (V. 30.) PM rendelet |
 | 2020-12-31 | 2013-48-20-2X.12 | 9/2016. (III. 25.) NGM rendelet |
 | 2021-01-01 | 2013-48-20-2X.13 | 18/2020. (XII. 30.) PM rendelet |
+| 2022-09-18 | 2013-48-20-2X.14 | 6/2022. (IX. 17.) PM rendelet |

@@ -28,7 +28,7 @@ c) a pénztárgép bevonása esetén a bevonás idején,
 
 d) a pénztárgép eltulajdonítása, megsemmisülése, elvesztése esetén az új pénztárgép üzembe helyezéséig, de legfeljebb az eltulajdonítás, megsemmisülés, elvesztés észlelésétől számított 15. napig
 
-## érvényes.
+érvényes.
 
 (4) A (3) bekezdéstől eltérően, ha a nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítésének feltételei a (3) bekezdés a)–d) pontjában írt időtartam lejárta előtt más módon helyreállnak, a (2) bekezdés szerinti mentesülés ennek időpontjáig érvényes.
 

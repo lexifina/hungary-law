@@ -796,9 +796,9 @@
 
 ## 7. Az euró átállással kapcsolatos dátumokat (felkészülési időszak kezdete, átállás időpontja, kivezetési időszak vége) a NAV üzenetben közli az AEE-vel az 5. mellékletben foglaltak szerint. A pénztárgépnek képesnek kell lennie ezen üzenet alapján az egyes események időpontját megfelelően beállítani.
 
-4. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^188]
+4. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^191]
 
-## Az Adóügyi Ellenőrző Egységben (AEE) tárolt bizonylati adatok tartalmára és szerkezetére vonatkozó előírások
+Az Adóügyi Ellenőrző Egységben (AEE) tárolt bizonylati adatok tartalmára és szerkezetére vonatkozó előírások
 
 1. Az AEE-nek a pénztárgépben keletkezett adatokat UTF-8-as kódlap szerinti karakterkódolású, digitálisan aláírt XML típusú naplóállományokban (p7b) kell tárolnia. Az állomány struktúrájának leírását és a séma ellenőrző állományt (XSD állomány) a NAV közleményben teszi közzé.
 
@@ -858,6 +858,8 @@ A pénztárgépben működő AEE a naplóállományok megnyitását – minden e
 
 Naplóállomány nyitása esetén a bejegyzés azonosító: LON
 
+## 6K04021_0
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám (bejegyzés sorszáma) naplófájlon belül (1-től sorszámozva) | 5 karakteres szám |
@@ -878,6 +880,8 @@ Naplóállomány nyitása esetén a bejegyzés azonosító: LON
 
 Bejegyzés azonosító: EVT
 
+## 6K04021_1
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Rekordsorszám (bejegyzés sorszáma) naplófájlon belül (1-től sorszámozva) | 5 karakteres szám |
@@ -890,7 +894,7 @@ Bejegyzés azonosító: EVT
 
 | 5. | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-A naplózott esemény jellegét az EVC mező kódolja az alábbiak szerint. Egyes eseményeknél az eseményt jellemző adatot is szerepeltetni kell az EVD mezőben az alábbiak szerint. Ha az esemény jellegéből következően nincs ilyen, az eseményt jellemző adat, akkor az EVD mező üres.
+## A naplózott esemény jellegét az EVC mező kódolja az alábbiak szerint. Egyes eseményeknél az eseményt jellemző adatot is szerepeltetni kell az EVD mezőben az alábbiak szerint. Ha az esemény jellegéből következően nincs ilyen, az eseményt jellemző adat, akkor az EVD mező üres.
 
 | Esemény | EVC mező értéke | EVD mezőben szereplő adat |
 
@@ -938,15 +942,17 @@ A naplózott esemény jellegét az EVC mező kódolja az alábbiak szerint. Egye
 
 | NAV szerverről érkezett üzenet sikeres kinyomtatása | PRN | Az üzenet szövege |
 
-A NAV-tól érkező szoftver szeletek naplófájlba történő bejegyzése során a bejegyzés EVD mezőjében a „FW” karaktersorozatot és az érkező szoftver szelet sorszámát három karakteren kell szerepeltetni. A NAV szerverről érkező tanúsítványok és kulcsok fogadására vonatkozó bejegyzések esetén az EVD mező tartalma a „CERT”, illetve a „KEY” karaktersorozat.
+## A NAV-tól érkező szoftver szeletek naplófájlba történő bejegyzése során a bejegyzés EVD mezőjében a „FW” karaktersorozatot és az érkező szoftver szelet sorszámát három karakteren kell szerepeltetni. A NAV szerverről érkező tanúsítványok és kulcsok fogadására vonatkozó bejegyzések esetén az EVD mező tartalma a „CERT”, illetve a „KEY” karaktersorozat.
 
-A NAV szerver részére küldött naplófájl esetén a bejegyzés EVD mezőjének tartalma a küldött állomány teljes neve.
+## A NAV szerver részére küldött naplófájl esetén a bejegyzés EVD mezőjének tartalma a küldött állomány teljes neve.
 
 5.3. Pénztárgép működési információi, rendszerállapota és forgalmazási statisztikái és földrajzi helye
 
 A pénztárgépnek működése során minden naplóállományban legalább egyszer rögzíteni kell a pénztárgép működésére vonatkozó alábbi adatokat az alább leírt bejegyzésekben.
 
 5.3.1. Pénztárgép működési információi bejegyzés azonosítója: INF
+
+## 6K04021_3
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1024,9 +1030,11 @@ A pénztárgépnek működése során minden naplóállományban legalább egysz
 
 | 37. | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-Az ezen rendelet 5. mellékletében foglaltak szerint kommunikáló pénztárgép esetén a COM mezőben „C0002” értéket kell szerepeltetni.
+## Az ezen rendelet 5. mellékletében foglaltak szerint kommunikáló pénztárgép esetén a COM mezőben „C0002” értéket kell szerepeltetni.
 
 5.3.2. Pénztárgép rendszerállapota bejegyzés azonosító: STA
+
+## 6K04021_4
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1049,6 +1057,8 @@ Az ezen rendelet 5. mellékletében foglaltak szerint kommunikáló pénztárgé
 | 9. | HSH | Ellenőrző kód | 64 HEXA karakter |
 
 5.3.3. Pénztárgép forgalmazási mérőszámai bejegyzés azonosító: OPR
+
+## 6K04021_5
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1076,6 +1086,8 @@ Az ezen rendelet 5. mellékletében foglaltak szerint kommunikáló pénztárgé
 
 Ezt a bejegyzést csak az olyan pénztárgépeknek kell elhelyezni a naplóállományokban, amelyek képesek a GPS alapú helymeghatározásra.
 
+## 6K04021_6
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám (bejegyzés sorszáma) naplófájlon belül (1-től sorszámozva) | 5 karakteres szám |
@@ -1095,6 +1107,8 @@ Ezt a bejegyzést csak az olyan pénztárgépeknek kell elhelyezni a naplóállo
 A pénztárgépben működő AEE órájának bármilyen okból történő átállítását az alábbi bejegyzéssel kell naplózni.
 
 Óraállítás bejegyzés azonosító: TUD
+
+## 6K04021_7
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1127,6 +1141,8 @@ Az önkiszolgáló üzemanyagkút rendszeren a bizonylat példányszámaként nu
 A pénztárnyitás bizonylat az adóügyi nap nyitását kísérő bizonylat. Ennek kibocsátását az alábbi bejegyzéssel kell naplózni az AEE naplóállományában.
 
 Bejegyzés azonosító: CON (gyakorló üzemmódban: COT)
+
+## 6K04021_8
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1175,6 +1191,8 @@ Bejegyzés azonosító: CON (gyakorló üzemmódban: COT)
 Nyugta kibocsátása esetén a bejegyzés azonosító: NYN (gyakorló üzemmód esetén NYT)
 
 Egyszerűsített számla kibocsátása esetén a bejegyzés azonosító: ESN (gyakorló üzemmód esetén EST)
+
+## 6K04021_9
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1280,6 +1298,8 @@ Napi forgalmi jelentés bizonylat kibocsátásával kell kísérni a pénztárg�
 
 Napi forgalmi jelentés bejegyzés azonosító: NFN (gyakorló üzemmódban: NFT)
 
+## 6K04021_10
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám naplófájlon belül (1-től sorszámozva) | 5 karakteres szám |
@@ -1359,6 +1379,8 @@ Napi forgalmi jelentés bejegyzés azonosító: NFN (gyakorló üzemmódban: NFT
 6.4. Pénztárjelentés
 
 Bejegyzés azonosító: PJN (gyakorló üzemmódban: PJT)
+
+## 6K04021_11
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1476,6 +1498,8 @@ Pénzmozgás bizonylattal kell kísérni minden olyan tranzakciót, ami nem ért
 
 Pénzmozgás bizonylat bejegyzés azonosító: PMN (gyakorló üzemmódban: PMT)
 
+## 6K04021_12
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám naplófájlon belül (1-től sorszámozva) | 5 karakteres szám |
@@ -1535,6 +1559,8 @@ Az egyes speciális értékesítések bizonylatával kell kísérni minden olyan
 Az egyes speciális értékesítések bizonylatának sztornó és visszáru bizonylatát is egyes speciális értékesítések bizonylataként kell naplózni, a tételsorok TY mezőjében megfelelően használt jelöléseket alkalmazva.
 
 Bejegyzés azonosító: IVN (gyakorló üzemmódban: IVT)
+
+## 6K04021_13
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1623,6 +1649,8 @@ Bejegyzés azonosító: IVN (gyakorló üzemmódban: IVT)
 Sztornó bizonylatot kell kibocsátani, ha egy korábban kibocsátott bizonylattal bizonylatolt tranzakció nem történt meg. A sztornó bizonylat kibocsátását az alábbi bejegyzéssel kell naplózni az AEE naplóállományában.
 
 Sztornó bizonylat bejegyzés azonosító: SZN (gyakorló módban: SZT)
+
+## 6K04021_14
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -1726,6 +1754,8 @@ Visszáru bizonylat kibocsátását az alábbi bejegyzéssel kell naplózni az A
 
 Visszáru bizonylat (göngyölegjegy bizonylat) bejegyzés azonosító: VBN (gyakorló üzemmódban: VBT)
 
+## 6K04021_15
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám naplófájlon belül (1-től sorszámozva) | 5 karakteres szám |
@@ -1828,6 +1858,8 @@ Visszáru bizonylat (göngyölegjegy bizonylat) bejegyzés azonosító: VBN (gya
 
 Fogyasztási összesítő bizonylat bejegyzés azonosító: FSN (gyakorló üzemmódban: FST)
 
+## 6K04021_16
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám (bejegyzés sorszáma) naplófájlon belül (1-től sorszámozva) | 5 karakteres szám |
@@ -1884,34 +1916,4 @@ Az egyéb dokumentumok nyomtatását az alábbi bejegyzéssel kell naplózni az 
 
 Egyéb dokumentum nyomtatása bejegyzés azonosító: EDN (gyakorló üzemmódban EDT)
 
-| Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
-
-| 1. | RSR | Bejegyzés sorszám naplófájlon belül (1-től sorszámozva) | max 5 hosszú numerikus |
-
-| 2. | BSR | Bizonylat számláló értéke | 10 karakteres numerikus |
-
-| 3. | DTS | Időbélyeg, a bizonylat nyitásának kiadásának pontos ideje az AEE órája szerint | szabványos dátum és iőő adat másodperc pontossággal |
-
-| 4. | TSZ | A bizonylatot kiállító adóalany adó törzsszáma | 8 db számjegy sztring formátumban |
-
-| 5. | EIT | Egyéb dokumentum típusa | 20 hosszú szöveg |
-
-| 6. | EIL | Egyéb dokumentum típus leírás | 20 hosszú szöveg |
-
-| 7. | EDA | Egyéb dokumentumon szereplő adatok | lista, max 100 |
-
-| 7.1 | > ENM | Egyéb dokumentumon szereplő adat megnevezése | 20 karakteres szöveges |
-
-| 7.2 | > EVL | Egyéb dokumentumon szereplő adat értéke | 200 karakteres szöveges |
-
-| 8. | CPY | A bizonylat példányszáma | 5 karakteres numerikus |
-
-| 9. | NAV | A bizonylaton szereplő NAV ellenőrző kód | 5 karakteres szöveg |
-
-| 10. | CNC | Bizonylat megszakítása esetén a megszakítás tényének jelzése | megszakítás esetén 1, egyébként 0. |
-
-| 11. | HSH | Ellenőrző kód | 64 HEXA karakter |
-
-Bizonylat-összesítő nyomtatása esetén a naplóállományban a dokumentum kivonatát kell az Egyéb dokumentum (EDN) típusú naplósorban rögzíteni, melynek tartalma a dokumentum megnevezése, valamint a dokumentumon szereplő bizonylatok összesített darabszáma bizonylattípusonként, a mező megnevezésében a bizonylattípus nevét, az adattartalmában a darabszámot feltüntetve. Csak azokat a bizonylattípusokat kell feltüntetni, melyek szerepeltek a bizonylat-összesítő dokumentumon.
-
-[^188]: A 4. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § e) pontjával megállapított szöveg.
+[^191]: A 4. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § e) pontjával megállapított szöveg.

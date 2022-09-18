@@ -51,3 +51,5 @@
 ## c) a 2009. október 15. napján hatályos TEÁOR '08 46.2–46.7 szerinti nagykereskedelmi tevékenységet folytató adóalanyok, üzletek, a kiskereskedelmi értékesítésük tekintetében.
 
 2. melléklet a 48/2013. (XI. 15.) NGM rendelethez
+
+Igazgatási szolgáltatási díjak

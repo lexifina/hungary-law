@@ -30,7 +30,7 @@ c) mozgóboltban vagy mozgó szolgáltatóhelyen,
 
 d) tartalék pénztárgépként
 
-## kívánja üzemeltetni.
+kívánja üzemeltetni.
 
 (3) A bejelentés alapján az állami adóhatóság
 

@@ -6,7 +6,7 @@ b) a jogszabályi előírásoknak nem megfelelő pénztárgépet hoz forgalomba,
 
 c) nem felel meg az 5. § (3) bekezdésében foglaltaknak,
 
-## a Kormányhivatal legfeljebb 30 napos határidő tűzésével felhívja a jogellenes állapot megszüntetésére.
+a Kormányhivatal legfeljebb 30 napos határidő tűzésével felhívja a jogellenes állapot megszüntetésére.
 
 (2) Az (1) bekezdés szerinti határidő egy alkalommal, legfeljebb 30 nappal meghosszabbítható.
 
@@ -16,7 +16,7 @@ a) az (1) bekezdés szerinti jogellenes állapot nem szüntethető meg,
 
 b) a forgalmazó nem gondoskodik a 24. § (3) bekezdésében foglaltak teljesítéséről,
 
-## a Kormányhivatal a pénztárgéptípus forgalmazási engedélyét visszavonja.
+a Kormányhivatal a pénztárgéptípus forgalmazási engedélyét visszavonja.
 
 (4)[^49] A visszavont forgalmazási engedélyű pénztárgép a forgalmazási engedély visszavonásáról szóló határozat véglegessé válásától számított 5 évig üzemeltethető.
 
