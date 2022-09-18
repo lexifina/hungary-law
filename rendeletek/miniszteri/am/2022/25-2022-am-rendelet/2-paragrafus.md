@@ -10,7 +10,7 @@ d) vadgazdálkodást vagy
 
 e) halgazdálkodást
 
-## végző vállalkozás (a továbbiakban: kérelmező) részére adható.
+végző vállalkozás (a továbbiakban: kérelmező) részére adható.
 
 (2) A válságtámogatás a közlemény 2.1. szakasza alapján vissza nem térítendő támogatás formájában – nehéz helyzetben lévő vállalkozások részére is – nyújtható.
 
