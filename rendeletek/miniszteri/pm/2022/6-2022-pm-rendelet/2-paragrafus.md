@@ -1,0 +1,3 @@
+2. § Az R. 78/A. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Az (5) bekezdésben foglaltakat azon, a pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet módosításáról szóló 6/2022. (IX. 17.) PM rendelet (a továbbiakban: Mód. rendelet 2.) hatálybalépésének napján üzemelő pénztárgépek esetén is alkalmazni kell, amelyekre vonatkozóan a forgalmazási engedélyt a Kormányhivatal az (5) bekezdés alapján a Mód. rendelet 2. hatálybalépését megelőzően visszavonta.”
