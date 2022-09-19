@@ -1,0 +1,1 @@
+7. § E rendelet rendelkezéseit az e rendelet hatálybalépését megelőzően indult közbeszerzési eljárások alapján kötött keretmegállapodások és létrejött dinamikus beszerzési rendszerek esetében is alkalmazni kell.
