@@ -8,4 +8,6 @@ b) az 1. mellékletben foglalt táblázat 5., 15., 19., 21. és 22. sora és a 2
 
 c) az 1. mellékletben foglalt táblázat 21. sora és a 2. mellékletben foglalt táblázat 4. és 5. sora alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
+nyújtható.
+
 [^4]: A 4. § az 5/2020. (XII. 30.) TNM rendelet 3. §-ával megállapított szöveg.

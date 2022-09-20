@@ -1,5 +1,3 @@
-## számolható el.
-
 ## 6. Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
 13. § (1) Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható, ha ezen infrastruktúra helyi szinten hozzájárul az üzleti és a fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez.

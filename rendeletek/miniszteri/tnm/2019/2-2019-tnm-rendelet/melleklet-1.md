@@ -1,6 +1,5 @@
-## 19. §[^12]
+1. melléklet a 2/2019. (III. 19.) TNM rendelethez[^14]
 
-1. melléklet a 2/2019. (III. 19.) TNM rendelethez[^13]
+A XI. Miniszterelnökség fejezetébe sorolt nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok 2022. évi feladatterve
 
-[^12]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: Az 1. melléklet az 1/2022. (I. 7.) TNM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 1. melléklet az 1/2022. (I. 7.) TNM rendelet 3. § (1) bekezdésével megállapított szöveg.

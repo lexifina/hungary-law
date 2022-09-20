@@ -7,3 +7,5 @@
 a) megalapozott előrejelzések alapján kell meghatározni és előzetesen vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
+
+kell levonni az elszámolható költségekből.

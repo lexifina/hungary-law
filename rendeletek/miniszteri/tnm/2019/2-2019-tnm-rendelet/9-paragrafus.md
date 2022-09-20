@@ -6,7 +6,7 @@ a) előzetesen vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (3) A beruházási támogatás elszámolható költségei az immateriális javak és a tárgyi eszköz következő költségei:
 

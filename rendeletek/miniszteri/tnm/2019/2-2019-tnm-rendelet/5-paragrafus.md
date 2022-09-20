@@ -1,5 +1,3 @@
-## nyújtható.
-
 5. § (1) A 4. § szerinti támogatás kizárólag átlátható formában nyújtható.
 
 (2) Nem ítélhető meg támogatás

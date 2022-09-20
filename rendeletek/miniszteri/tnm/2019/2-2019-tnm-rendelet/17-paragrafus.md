@@ -1,1 +1,0 @@
-## által az e rendelet hatálya alá tartozó előirányzatok vonatkozásában az e rendelet hatálybalépését megelőzően tett kötelezettségvállalást, teljesített kifizetést, elszámolási döntést az arra jogosult szerv által tett kötelezettségvállalásnak, teljesített kifizetésnek és elszámolási döntésnek kell tekinteni.
