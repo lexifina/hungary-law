@@ -1,0 +1,1 @@
+5. § A mentességi igazolásokról az Európai Unió többi tagállama és illetékes intézményei felé az 1. §-ban hivatkozott uniós jogi aktusokban előírt tájékoztatást a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter teljesíti.
