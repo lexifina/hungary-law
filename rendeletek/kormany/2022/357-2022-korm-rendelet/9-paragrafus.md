@@ -1,1 +1,3 @@
-9. § A Magyarország 2022. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 814/2021. (XII. 28.) Korm. rendelet 1. §-ában a „2018. évi LII. törvény” szövegrész helyébe a „2018. évi LII. törvény, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.)” szöveg lép.
+9. §[^3]
+
+[^3]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
