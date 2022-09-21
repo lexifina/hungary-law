@@ -1,1 +1,3 @@
-3. § Az R. 2. mellékletében foglalt táblázat F:4 mezőjében a „szociális és vallásturisztikai projektek,” szövegrész helyébe a „szociális és egyéb programok,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
