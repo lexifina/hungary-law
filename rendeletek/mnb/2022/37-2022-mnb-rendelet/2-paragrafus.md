@@ -1,0 +1,5 @@
+2. § (1) A csúcsára állított négyzet alakú emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 14 gramm, mérete 28,43 × 28,43 mm, széle sima.
+
+(2) Az emlékérme előlapján a Richter Gedeon által alapított vegyészeti gyár és – a vegyészeti gyár kéményétől jobbra – a Richter Gedeon által kifejlesztett, 1912-től forgalmazott gyógyszerkészítmény eredeti dobozán található címer ábrázolása látható. Az előlap szélén, fent a „MAGYARORSZÁG” körirat, két egymás alatti sorban, lent a „2000” értékjelzés és a „FORINT” felirat, bal oldalon a „2022” verési évszám és a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Richter Gedeon félalakos portréja látható. A portrétól jobbra, három egymás alatti sorban a Richter Gedeon születésének és halálának évét jelölő „1872–1944”, a „RICHTER” és a „GEDEON” felirat olvasható. A hátlap szélén, a portrétól balra Kereszthury Gábor tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
