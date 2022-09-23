@@ -1,3 +1,1 @@
-13/C. § (1) A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozásoknak nyújtott 13/B. § (2) bekezdése szerinti támogatás összege nem határozható meg a piacon forgalmazott termékek ára vagy mennyisége alapján.
-
-(2) Ha egy vállalkozás a 13/B. § (2) és (3) bekezdése szerinti ágazatban folytat gazdasági tevékenységet, az átmeneti támogatással érintett egyes tevékenységekre irányadó maximális értékhatárokat kell megfelelően alkalmazni az adott tevékenységre, azzal, hogy a vállalkozás a támogatásokról olyan elkülönített nyilvántartást köteles vezetni, amelyből a 13/B. § (1)–(3) bekezdése szerinti követelmények ellenőrizhetők.
+13/C. §
