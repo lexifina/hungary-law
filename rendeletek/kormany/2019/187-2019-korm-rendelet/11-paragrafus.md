@@ -1,5 +1,3 @@
-## esetében.
-
 ## 7. Ügyintézési határidő, határidők számítása
 
 11. § (1) A kérelmet és a vis maior bejelentést 60 napon belül kell elbírálni.

@@ -6,7 +6,7 @@ a) a 44. § g) pont ga) és gb) alpontja szerinti esetben a támogatási idősza
 
 b) a 44. § g) pont gc) alpontja szerinti esetben a támogatási időszak során realizált bevételt és az ahhoz kapcsolódó átalány összeget
 
-## veszi figyelembe.
+veszi figyelembe.
 
 (3) A záró kifizetési igénylés alapján a 44. § g) pont gc) alpontja szerinti esetben a kifizetés feltétele továbbá a főállású kisadózó után az adott hónapokra a tételes adó megfizetése. A kifizetés feltétele továbbá, hogy az állami adóhatósághoz bevallott, a támogatási időszakot érintő adóévekre vonatkozó bevételek összege elérje a támogatást igénylő által a támogatási időszakra az időközi kifizetési igénylésben, az időközi beszámolóban, valamint a záró elszámolásra irányuló kifizetési igénylésben nyilatkozott bevételek összegét.
 

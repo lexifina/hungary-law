@@ -10,7 +10,7 @@ c) az elnyert támogatás összegét,
 
 d) a döntés évét és a hónapját
 
-## nyilvánosságra hozza.
+nyilvánosságra hozza.
 
 (2)[^9] A Kincstár nyilvánosságra hozatali kötelezettsége az 1., a 2. és az 5. célterület esetén nem terjed ki a személyes adatokra, és annak teljesítése statisztikai módon történhet.
 
