@@ -22,4 +22,6 @@ d)[^3] már támogatott – a Tfr. 2. § (2) bekezdés 14. pontja szerinti – b
 
 e) kedvezményezetti státusz megítélésére is
 
+érkezett.
+
 [^3]: A 4. § d) pontja a 110/2019. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.

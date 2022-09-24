@@ -8,7 +8,7 @@ a) 80, 55, 25, 0%-ának,
 
 b) – az emelt támogatási kategóriába tartozó gyógyszerek esetében – 90, 70, 50%-ának
 
-## megfelelő összeg.
+megfelelő összeg.
 
 (3) A kiemelt támogatási kategóriába tartozó gyógyszerek esetében a támogatás összege – a (4) bekezdésben foglaltak kivételével – a közfinanszírozás alapjául elfogadott ár és 300 forint térítési díj különbözetének megfelelő összeg.
 

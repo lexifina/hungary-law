@@ -12,7 +12,7 @@ ca) összforgalmi részesedése minden támogatási jogcímet figyelembe véve a
 
 cb) támogatás kiáramlása minden támogatási jogcímet figyelembe véve a 100 000 000 forintot
 
-## meghaladja.
+meghaladja.
 
 (3) A (2) bekezdés alkalmazásában azonos hatástartamúnak minősül a referenciakészítmény hatástartamánál – az adott gyógyszer alkalmazási előírásában szereplő átlagos hatástartamot tekintve – a 100%-ot el nem érő eltérés is.
 

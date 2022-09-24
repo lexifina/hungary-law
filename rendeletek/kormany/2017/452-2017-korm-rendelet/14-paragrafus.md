@@ -16,7 +16,7 @@ e) bizonyított klinikai előny,
 
 f) közel azonos mellékhatás profil
 
-## alapján.
+alapján.
 
 (4)[^10] A terápiás fix elven működő támogatás számítása a következők szerint történik:
 

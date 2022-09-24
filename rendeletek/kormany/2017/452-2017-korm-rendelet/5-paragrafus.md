@@ -1,5 +1,3 @@
-## érkezett.
-
 5. § (1) Normál eljárásrendet kell alkalmazni, amikor a kérelem
 
 a) új gyógyszerformára és új beviteli formára,
