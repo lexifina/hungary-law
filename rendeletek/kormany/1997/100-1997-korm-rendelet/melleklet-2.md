@@ -1,6 +1,6 @@
 ## Az érettségi vizsga iratai és záradékai
 
-## I.[^414] Nyomtatványok
+## I.[^423] Nyomtatványok
 
 ## 1. Érettségi bizonyítvány*
 
@@ -10,11 +10,11 @@
 
 ## 4. Jelentkezés érettségi vizsgára
 
-## 5.[^415]
+## 5.[^424]
 
 ## 6. Jegyzőkönyv az írásbeli, szóbeli vizsgáról és a vizsgabizottság üléseiről, illetve a tantárgyi vizsgabizottság üléseiről
 
-## 7.[^416] Tanúsítvány az érettségi vizsgáról*
+## 7.[^425] Tanúsítvány az érettségi vizsgáról*
 
 ## 8. Jelentés a vizsgaeredményekről
 
@@ -28,7 +28,7 @@
 
 ## A *-gal jelölt nyomtatványok gyártásához és forgalmazásához a miniszter által vezetett minisztérium engedélye szükséges.
 
-## II*[^417]
+## II*[^426]
 
 ## Záradékok
 
@@ -70,13 +70,15 @@
 
 ## 18. A/Az .......................................................... ismeretek ágazaton belüli specializáció az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet 3. melléklete szerinti ............. ágazathoz tartozik.
 
-2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^418]
+2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^427]
 
-ELSŐ RÉSZ[^419]
+ELSŐ RÉSZ[^428]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
 1. Kötelező vizsgatárgyak
+
+2X02869M_0
 
 |  | A | B | C | D | E |
 
@@ -296,7 +298,7 @@ AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
 | 31. | Artista ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-MÁSODIK RÉSZ[^420]
+MÁSODIK RÉSZ[^429]
 
 AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -2958,292 +2960,10 @@ KÖZÉPSZINT
 
 EMELT SZINT
 
-| Kompetenciák/Témakörök | Követelmények a középszintű követelményeken túlmenően |
-
-| 1. Elméleti ismeretek |
-
-| Az olimpiai mozgalom létrejötte, célja, feladatai; magyar sportsikerek | Az ókori és az újkori olimpiai játékok kialakulása, története; kiemelkedő események. A legnevesebb magyar olimpiai bajnokok sportágai és eredményei. |
-
-| A harmonikus testi fejlődés | A testi fejlődés legfontosabb életkori mutatóinak alakulása. |
-
-| Egészséges életmód | A testmozgás, a sport szerepe az egészséges életmód kialakításában, a személyiség fejlesztésében, a lelki egyensúly megőrzésében és az egészségkárosító szokások elkerülésében. |
-
-| Testi képességek szerepe a teljesítményben | A kondicionális és koordinációs alapképességek (erő, gyorsaság, állóképesség, ügyesség) értelmezése, fejlesztésük különböző módszerei. |
-
-| Gimnasztikai ismeretek | A gimnasztika gyakorlatok felhasználása a testedzésben. Gyakorlatok javaslata a testtartás javítására és a különböző kondicionális képességek fejlesztésére. |
-
-| Atlétika | A tanult atlétikai futó-, ugró- és dobóversenyszámok. A tanult futások, ugrások, dobások összehasonlítása technikájuk, sebességük és a kondicionális képességek szempontjából. |
-
-| Torna | A női és férfi torna versenyszámai, a különböző szereken végrehajtható alapelemek és a legfontosabb balesetmegelőző eljárások. A tanult talaj- és szertornaelemek technikai végrehajtásának és a segítségnyújtás módjainak ismerete. Kiemelkedő magyarok a tornasportban. |
-
-| Zenés-táncos mozgásformák | Az RG versenyszámainak ismerete. A zenés-táncos mozgásformák egyikének bemutatása (pl. az esztétikum szerepe a ritmikus gimnasztika, aerobik, néptánc és más zenés sportágakban). Az esztétikum szerepe a ritmikus gimnasztika és más zenés mozgásformák területén. |
-
-| Küzdősportok, önvédelem | Küzdőjátékok tanulásának szerepe az iskolai testnevelésben. Az előkészítő küzdőjátékok, páros és csoportos testnevelési játékok. A grundbirkózás alapvető szabályainak ismertetése. A küzdősportok magyar kiválóságai. |
-
-| Úszás | Az úszás jelentősége az ember életében. Egy úszásnem technikai végrehajtásának leírása. Az úszás alapvető versenyszabályai. A vízbőlmentés végrehajtása. Kiemelkedő magyarok az úszósportban. Az úszás higiénéjének ismerete. |
-
-| Testnevelés és sportjátékok | Labdajáték-előkészítő játékok felsorolása. Egy választott sportjáték játékszabályainak értelmezése. Két sportág összehasonlítása. Magyarok a sportjátékokban, sikeres labdajátékok. |
-
-| Alternatív és szabadidős mozgásrendszerek | Egy választott alternatív, szabadidős, természetben űzhető sportág jellegzetességeinek és legfontosabb szabályainak ismertetése (sí, kerékpár, természetjárás, evezés). Alapvető ismeretek a táborozások előnyeiről. |
-
-| 2. Gyakorlati ismeretek |
-
-| 1. Gimnasztika | Leányok: kötélmászás állásból teljes magasságig mászókulcsolással a részletes követelményekben meghatározott szintidő alatt. Fiúk: függeszkedés ülésből teljes magasságig a részletes követelményekben meghatározott szintidő alatt. Egy 64 ütemű szabadgyakorlat bemutatása. |
-
-| 2. Atlétika | 60 m-es síkfutás, 2000 m-es síkfutás; egy választható dobószám; egy választható ugrószám technikailag elfogadott, teljesítménnyel értékelt bemutatása. |
-
-| Futások | 60 méteres síkfutás térdelőrajttal, a részletes követelményekben meghatározott szintidő alatt. 2000 m síkfutás a részletes követelményekben meghatározott szintidő alatt. |
-
-| Ugrások | Egy választott ugrószám (magasugrás vagy távolugrás) bemutatása a részletes követelményekben meghatározott minimum szint fölött. Magasugrás flop vagy hasmánt technikával. Távolugrás választott technikával. |
-
-| Dobások | Egy atlétikai dobószám (kislabdahajítás, súlylökés, diszkoszvetés, gerelyhajítás) bemutatása választott technikával, a részletes követelményekben meghatározott minimum szint fölött. |
-
-| 3. Torna | A talaj és a szekrényugrás bemutatása kötelező, egy tornaszer kötelezően választandó. |
-
-| Talajtorna | Kötelezően előírt gyakorlat bemutatása. |
-
-| Szekrényugrás | Lányok: lebegőtámasszal végzett guggoló átugrás bemutatása. Fiúk: lebegőtámasszal végzett terpeszátugrás bemutatása. |
-
-| Felemáskorlát | A tanévre kötelezően előírt gyakorlat bemutatása. |
-
-| Gerenda | A tanévre kötelezően előírt gyakorlat bemutatása. |
-
-| Ritmikus gimnasztika | Önállóan összeállított, különböző elemekből álló összefüggő kéziszergyakorlat bemutatása zenére. A kéziszer lehet: labda, karika, kötél, szalag, buzogány. |
-
-| Gyűrű | A tanévre kötelezően előírt gyakorlat bemutatása. |
-
-| Nyújtó | A tanévre kötelezően előírt gyakorlat bemutatása. |
-
-| Korlát | A tanévre kötelezően előírt gyakorlat bemutatása. |
-
-| 4. Küzdősportok, önvédelem | A birkózás és a dzsúdó alapelemeinek bemutatása. |
-
-| 5. Úszás | Egy választott úszásnemben 50 m úszás, szabályos rajtolással és fordulóval. Két másik úszásnemben 25 méter leúszása, szabályos rajtolással és fordulóval. Vízből mentés előgyakorlata. |
-
-| 6. Testnevelés és sportjátékok | Három sportjáték választása kötelező. |
-
-| Kézilabda | Kapuralövés gyorsindítás után, a részletes követelményekben előírtak szerint. Büntetődobás a részletes követelményekben előírtak szerint. Távolbadobás tetszőleges lendületszerzéssel kézilabdával. |
-
-| Kosárlabda | Mindkét oldalra végrehajtott, fektetett dobás, a részletes követelményekben előírtak szerint. Tempódobás – elhelyezkedés a büntetővonal sarkánál kosárlabda alapállásban: rövidindulás és egy leütés után tempódobás. |
-
-| Labdarúgás | Labdaemelgetés (dekázás) váltogatott lábbal. Szlalom-labdavezetésből kapuralövés. Összetett gyakorlat a részletes követelményekben meghatározottak szerint. |
-
-| Röplabda | Kosárérintés és alkarérintés a részletes követelményekben meghatározottak szerint. Felső egyenes nyitás. |
-
-FILOZÓFIA
-
-ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI
-
-A vizsga formája
-
-Középszinten: írásbeli és szóbeli.
-
-Emelt szinten: írásbeli, szóbeli.
-
-A filozófia érettségi vizsga célja
-
-A középszintű vizsga célja annak megállapítása, hogy a vizsgázó
-
-– meg tudja-e különböztetni a hétköznapi és a filozófiai gondolkodásmódot;
-
-– elsajátította-e a tartalmi követelményekben meghatározott alapismereteket (filozófiatörténeti vagy problémacentrikus kontextusban);
-
-– tudja-e a tanult filozófiai alapfogalmakat, szakkifejezéseket alkalmazni;
-
-– tud-e logikusan érvelni, következtetéseit világos nyelvi formában előadni;
-
-– képes-e eredeti forrásból merített, rövid filozófiai szöveget értelmezni;
-
-– képes-e a különböző filozófiai álláspontokat megkülönböztetni;
-
-– felismeri-e a kiemelt korszakok művészetének, tudományának és filozófiájának találkozási pontjait.
-
-Az emelt szintű vizsga célja annak megállapítása, hogy
-
-– képes-e hétköznapi problémát a filozófia szintjén megfogalmazni;
-
-– elsajátította a követelményekben meghatározott alapismereteket (filozófiatörténeti vagy problémacentrikus kontextusban);
-
-– tudja-e alkalmazni a tanult filozófiai alapfogalmakat, és képes-e azok többrétegű értelmezésére;
-
-– tud-e logikusan érvelni, következtetéseit világos nyelvi formában előadni;
-
-– képes-e eredeti forrásból merített filozófiai szöveget értelmezni;
-
-– képes-e az önálló kérdésfeltevésre és véleményalkotásra;
-
-– képes-e a meghatározott filozófiai problémára adott válaszok összehasonlítására;
-
-– rá tud-e mutatni egy korszak művészetének, tudományának és filozófiájának találkozási pontjaira;
-
-– tud-e a válaszok sokféleségében kronológiailag tájékozódni.
-
-A követelményrendszerben szereplő három nagy témakör egyike sem tartalmaz új ismereteket a többihez képest, hanem ezek más szempontú elrendezését jelenti. A felsorolt filozófusok a megjelölt filozófiai problémák reprezentánsai, a megadott korszakok és irányzatok kiemelkedő képviselői.
-
-Tartalmi követelmények
-
-KÖZÉPSZINT
-
-| Témakörök | Követelmények |
-
-| Filozófiai problémák |
-
-|  | A probléma lényegének megértése és bemutatása egy-két konkrét filozófiai válasz tükrében: Mi a filozófia? A létre vonatkozó kérdés. Test-lélek probléma. Megismerhetőség, igazság, bizonyosság. Az én problémája. Végesség emberi problémája. Vallási és filozófiai istenképek. Az érték etikai problémája: a jó. Az igazságosság és méltányosság kérdése. A szabadság kérdése. A környezet- és bioetika problémái. Globalizáció és társadalom. Szabadon választható probléma. Az idő filozófiai értelmezése. |
-
-| Filozófusok alapvető gondolatainak ismerete |
-
-|  | Jellemző problémafelvetéseik, válaszaik ismerete, rövid szövegrészletük értelmezése. Közülük 6 kötelező (Platón, Arisztotelész, Descartes, Kant, Nietzsche, Wittgenstein) és ezenkívül 4 kötelezően választható. Szent Ágoston, Szent Tamás, Bacon, Locke, Hume, Hegel, Marx, Comte, Schopenhauer, Kierkegaard, Bergson, Heidegger, Sartre, Bécsi Kör, John Rawls. (A középkorból és a XX. századból egy-egy szerző kötelezően választandó.) |
-
-| Korszakok, irányzatok |
-
-|  | Az itt felsorolt korszakok és irányzatok a fentebb említett nevek és/vagy problémák összefüggésében: Görög filozófia. Felvilágosodás. 20. századi filozófiák: analitikus, politikai és életfilozófiák. |
-
-EMELT SZINT
-
-| Témakörök | Követelmények |
-
-| Filozófiai problémák |
-
-|  | A probléma lényegének megértése és korszakban, irányzatban, illetve gondolati rendszerben való elhelyezése konkrét filozófiai válaszok tükrében: Mi a filozófia? A létre vonatkozó kérdés. Megismerhetőség, igazság, bizonyosság. Test-lélek probléma. Az én problémája. Az idő filozófiai értelmezése. A végesség és a végtelenség. Vallási és filozófiai istenképek. Az érték etikai problémája: a jó. Az érték esztétikai problémája: a szép. Az igazságosság és méltányosság kérdése. Erkölcsi univerzalizmus és relativizmus. A környezet- és bioetika problémái. Globalizáció és társadalom. Hit és tudás. |
-
-| Filozófusok alapvető gondolatainak ismerete |
-
-|  | Jellemző problémáik és válaszaik ismerete; szövegrészletek értelmezése. Kapcsolódásaik más filozófusokhoz, illetve filozófiákhoz. (Néhány reflexió ismerete.) Közülük 9 kötelező (Platón, Arisztotelész, Szent Ágoston, Szent Tamás, Descartes, Kant, Nietzsche, Heidegger, Wittgenstein) és minimum 4 kötelezően választható: Egy preszókratikus gondolkodó, Bacon, Spinoza, Locke, Berkeley, Hume, Rousseau, Hegel, Marx, Comte, J. S. Mill, Schopenhauer, Kierkegaard, Bergson, Husserl, Bécsi Kör, K. Popper, Kuhn, John Rawls, egy posztmodern (Derrida, Rorty, Levinas stb.), egy magyar filozófus (Apáczai, Palágyi, Hamvas, Polányi, Lukács, Bibó stb.). |
-
-| Korszakok, irányzatok |
-
-|  | Az itt felsorolt korszakok és irányzatok a fentebb említett nevek és/vagy problémák összefüggésében: Antik görög filozófia. Patrisztika. Skolasztika. Felvilágosodás (racionalizmus, empirizmus). Német idealizmus. Életfilozófiák. Pozitivizmus; logikai pozitivizmus. Analitikus filozófia. Posztmodern. |
-
-HITTAN
-
-ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI
-
-(Világnézetileg elkötelezett iskolák részére)
-
-(Katolikus, református, evangélikus vallású tanulók számára)
-
-A vizsga formája
-
-Középszinten: szóbeli.
-
-Emelt szinten: írásbeli és szóbeli.
-
-A hittan érettségi vizsga célja
-
-A hittan oktatásnak kettős feladata van: egyrészt segít a tanulók hitének ébresztésében, elmélyítésében, az istenszeretet növekedésében, a fiatalok a keresztény/keresztyén életgyakorlatba történő bevezetésében, másrészt oda kell eljuttatnia a diákokat, hogy felfogják az isteni igazság teljességét.
-
-Az érettségi vizsgán mérhető és értékelhető a hitoktatás folyamán elsajátított ismeret a Szentháromság egy Istenről, az ő egyházáról, egyházának tanításáról és küldetéséről a világban.
-
-Nem lehet az érettségi vizsga célja a személyes hit számonkérése.
-
-A követelményekben
-
-– hangsúlyosan szerepelnek a képesség jellegű követelmények, valamint azok az elemzési szempontok és vallási ismeretek, amelyek segítségével a vizsgázó aktualizálni tudja felekezete tanításait, el tud igazodni korunk erkölcsi kérdéseiben,
-
-– nagy figyelmet kapnak a korszerű biblia és teológiai ismeretek, illetőleg azok a készségek és ismeretek, amelyek egyháza tanításának komplex és időszerű bemutatásához szükségesek,
-
-– fontos szerepet kapnak azok az ismeretek, amelyek egyháza jelenkori társadalmi, szociális és kulturális tevékenységét és azokat az erőfeszítéseket mutatják be, amelyeket egyháza az emberiség üdvösségének érdekében fejt ki.
-
-A vizsga célja annak megállapítása, hogy a vizsgázó
-
-– rendelkezik-e a keresztény/keresztyén élet és gondolkodásmód kialakításához szükséges alapfogalmakkal;
-
-– tudja-e használni az alapvető vallási terminológiákat, a vallási fogalmakat, a szakkifejezéseket, a szaknyelvet;
-
-– ki tudja-e fejezni ismereteit szóban és írásban;
-
-– elsajátította-e azokat a képességeket és ismereteket, amelyekkel felekezetének tanításait korszerűen be tudja mutatni;
-
-– jártas-e a bibliai szövegek olvasásában és értelmezésében;
-
-– látja-e a kapcsolatot a Biblia tanítása és mai életünk között: látja-e azokat az erkölcsi értékeket, amelyek pozitívan alakíthatják életünket és világunkat, valamint ismeri-e a kereszténység/keresztyénség alapvető válaszait a személyes és végső kérdésekre;
-
-– képes-e vallási ismereteit a dialógus és az ökumené szellemében mások számára közvetíteni;
-
-– birtokában van-e felekezetének, egyházának történetében az alapvető tényeknek (időpontok, személyek, események).
-
-A középszintű vizsga a jelöltektől az alapvető hittani ismereteket, kifejezőképességet, az ismeretek rendszerezési képességét, a hittani tudás alkalmazását, valamint az erkölcsi ítéletalkotás képességét várja el.
-
-Az emelt szintű vizsga elsősorban az egyházi felsőoktatásban tovább tanulni szándékozó vizsgázó képességeit és ismereteit vizsgálja. A középszintű követelményeket meghaladó komplex ismereteket, összetettebb teológiai kérdések világos előadását, korszerű bibliai és egzegetikai ismereteket, magasabb fokú gondolkodási műveleteket, önállóbb vélemény- és ítéletalkotási készségeket vár el.
-
-Az érettségi vizsga témaköreit és részletes követelményeit az egyes felekezetek tanterveik alapján fogalmazzák meg.
-
-Tartalmi követelmények
-
-KÖZÉPSZINT
-
-| Témakörök | Követelmények |
-
-| 1. Biblia |  |
-
-| Ószövetség | Őstörténet, ősatyák, a választott nép történetének főbb szakaszai, fontos eseményei. |
-
-|  | Jézusra vonatkozó próféciák, azok keletkezési körülményei, messiási várakozás. |
-
-| Alapvető ószövetségi bevezetéstudományi ismeretek | Az ószövetségi kánon kialakulása, könyveinek keletkezése és felosztása. |
-
-| Újszövetség | Jézus Krisztus földi életének eseményei, tanítása, megváltó áldozata és feltámadása. |
-
-|  | Az apostoli kor. |
-
-| Alapvető újszövetségi bevezetéstudományi ismeretek | Az evangéliumok keletkezésének története és célja, párhuzamok és eltérések, ezek okai. |
-
-|  | Az újszövetségi levelek. |
-
-| Kortörténeti ismeretek | Jézus és az apostolok korának történeti háttere. |
-
-| 2. Egyháztörténet |
-
-| Krisztus egyházának története | A Szentlélek munkájáról szóló bibliai tanítás. |
-
-|  | Az egyház történelmének kezdetei, fontos fordulópontjai. |
-
-|  | Kiemelkedő egyháztörténeti személyiségek – példák Krisztus elkötelezett követésére. |
-
-| A saját felekezet története | A saját felekezet kialakulása, annak okai, történetének fontos pontjai, kiemelkedő személyiségei. |
-
-| 3. Dogmatika |
-
-| Az egyház tanítása | A keresztény/keresztyén egyház tanításának alapvető tételei. |
-
-|  | A saját felekezet dogmatikai tanítása. |
-
-|  | Az üdvtörténet alapigazságainak vizsgálata; ökumenikus törekvések; Isten mindnyájunkat eggyé tesz Krisztusban. |
-
-| 4. Az egyházi esztendő |
-
-| Ünnepek, ünnepi időszakok | Az egyházi esztendő ünnepei, ünnepi időszakai, a saját felekezet ünnepei, az ünnepek gyökerei, jelentősége. |
-
-|  | Az ünnepek liturgiája. |
-
-| 5. A keresztény/keresztyén erkölcsi élet – etika |
-
-| A kereszténység/ keresztyénség erkölcsi tanítása | Az ószövetségi és a jézusi etika. Az ember feladata a világban, felelősségünk a teremtett világ, az élet védelme és embertársaink iránt. |
-
-|  | A keresztény/keresztyén etika normái a családi élet, munka és társadalmi élet területén. |
-
-| 6. Világvallások |
-
-| A nagy világvallások alapvető gondolatai | A történelmi Isten-kinyilatkoztatás vallásai: a zsidó vallás, az iszlám, a kereszténység. |
-
-|  | Az örök világtörvény vallásai: hinduizmus, buddhizmus stb. Mai vallási áramlatok. |
-
-| 7. Kompetenciák |
-
-| Szövegértelmezés | Bibliai szöveg alapvető mondanivalójának, üzenetének kifejtése. |
-
-|  | Egyháztörténeti forrás és egyházi dokumentum elemzése. |
-
-|  | Hitvallási irat részletének értelmezése a dogmatikai ismeretek birtokában. |
-
-| Esetelemzés | Etikai kérdések, mai problémák elemzése, állásfoglalás, a vélemény indoklása. |
-
-EMELT SZINT
-
-[^414]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^415]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
-[^416]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^417]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja, a 18/2018. (II. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^418]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^419]: A 2. számú melléklet Első Része a 18/2018. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 165/2022. (IV. 28.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^420]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a, a 18/2018. (II. 14.) Korm. rendelet 2. §-a, a 122/2018. (VII. 10.) Korm. rendelet 2. §-a, a 65/2021. (II. 15.) Korm. rendelet 11. §-a, a 165/2022. (IV. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^423]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^424]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
+[^425]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^426]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja, a 18/2018. (II. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^427]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^428]: A 2. számú melléklet Első Része a 18/2018. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 165/2022. (IV. 28.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^429]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a, a 18/2018. (II. 14.) Korm. rendelet 2. §-a, a 122/2018. (VII. 10.) Korm. rendelet 2. §-a, a 65/2021. (II. 15.) Korm. rendelet 11. §-a, a 165/2022. (IV. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.

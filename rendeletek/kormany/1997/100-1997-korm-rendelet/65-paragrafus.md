@@ -1,3 +1,3 @@
-## 64. §[^411]
+65. §[^421]
 
-[^411]: A 64. §-t a 229/2007. (VIII. 31.) Korm. rendelet 21. § (7) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
+[^421]: A 65. §-t a 233/2004. (VIII. 6.) Korm. rendelet 49. §-a iktatta be, hatályon kívül helyezte a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja.
