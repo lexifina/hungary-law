@@ -3,3 +3,5 @@
 a) két évet meg nem haladó időtartamú folyamatos szolgáltatás esetén az áru teljesítésétől számított két éven belül; vagy
 
 b) két évet meghaladó időtartamú folyamatos szolgáltatás esetén a folyamatos szolgáltatás teljes időtartama alatt
+
+következik be vagy válik felismerhetővé.

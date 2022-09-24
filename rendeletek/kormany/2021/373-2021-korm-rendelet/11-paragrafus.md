@@ -1,5 +1,3 @@
-## következik be vagy válik felismerhetővé.
-
 11. § (1) Ellenkező bizonyításig vélelmezni kell, hogy az áru teljesítésének időpontjától számított egy éven belül felismert hiba már az áru teljesítésének időpontjában fennállt, kivéve, ha e vélelem az áru természetével vagy a hiba jellegével összeegyeztethetetlen. E bekezdés a digitális elemeket tartalmazó árura is alkalmazandó.
 
 (2) Ha a digitális elemeket tartalmazó áru esetében az adásvételi szerződés a digitális tartalom vagy digitális szolgáltatás meghatározott időtartamon keresztül történő folyamatos szolgáltatásáról rendelkezik, a vállalkozást terheli annak bizonyítása, hogy a 10. § szerinti időtartam alatt felismert hibával érintett szolgáltatás a szerződés szerinti teljesítés időszakában szerződésszerű volt.

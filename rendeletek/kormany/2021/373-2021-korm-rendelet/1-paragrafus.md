@@ -10,7 +10,7 @@ a) a vállalkozás a fogyasztóval áru adásvételére szerződést köt, vagy 
 
 b) a vállalkozás a fogyasztónak digitális tartalmat szolgáltat, vagy digitális szolgáltatást nyújt, vagy erre kötelezettséget vállal,
 
-## és a fogyasztó kifizeti vagy vállalja, hogy kifizeti a vételárat.
+és a fogyasztó kifizeti vagy vállalja, hogy kifizeti a vételárat.
 
 (2) Az (1) bekezdés a) pontja szerinti szerződés esetén a II. Fejezet rendelkezései alkalmazandók az olyan digitális tartalomra vagy digitális szolgáltatásra is, amely digitális elemeket tartalmazó áru részét képezi, vagy azzal össze van kapcsolva, és amelyet az adásvételi szerződés értelmében az áruval együtt szolgáltatnak, függetlenül attól, hogy a digitális tartalmat vagy digitális szolgáltatást a vállalkozás vagy egy harmadik személy szolgáltatja. Kétség esetén vélelmezni kell, hogy az adásvételi szerződés a digitális tartalomra vagy a digitális szolgáltatásra is kiterjed.
 

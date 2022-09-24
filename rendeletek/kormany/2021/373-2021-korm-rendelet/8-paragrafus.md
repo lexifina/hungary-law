@@ -14,7 +14,7 @@ a) a digitális tartalom vagy a digitális szolgáltatás egyszeri szolgáltatá
 
 b) a digitális tartalom vagy a digitális szolgáltatás tekintetében meghatározott időszakon keresztül történő folyamatos szolgáltatásról rendelkezik, akkor a 10. § szerinti
 
-## időszakon keresztül kell biztosítania.
+időszakon keresztül kell biztosítania.
 
 (3) Ha a fogyasztó nem telepíti észszerű határidőn belül az (1) és (2) bekezdésnek megfelelően rendelkezésre bocsátott frissítéseket, a vállalkozás nem felel az áru hibájáért, ha az kizárólag a vonatkozó frissítés alkalmazásának hiányából fakad, feltéve, hogy
 
