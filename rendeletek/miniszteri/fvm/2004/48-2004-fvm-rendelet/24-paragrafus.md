@@ -8,7 +8,7 @@ c) a növények legalább 7, de legfeljebb 15%-os fertőzött aránya esetén 2-
 
 d) a növények 15%-nál nagyobb fertőzött aránya esetén 3-as
 
-## minősítő számmal kell elbírálni.
+minősítő számmal kell elbírálni.
 
 (2) A fertőzött növényeken a fertőzöttség mértékét
 
@@ -18,7 +18,7 @@ b) a növény vegetatív részén kívüli, a generatív részekre részlegesen 
 
 c) a növény generatív részein jelentkező, a termés mennyiségi és minőségi romlását okozó maggal továbbterjedő fertőzést 3-as
 
-## minősítő számmal kell elbírálni.
+minősítő számmal kell elbírálni.
 
 (3)[^76] Az (1) és (2) bekezdésben meghatározott minősítő számok alapján kell kialakítani a vetőmag-szaporító táblára vonatkozó fertőzöttségi minősítő értékszámot.
 

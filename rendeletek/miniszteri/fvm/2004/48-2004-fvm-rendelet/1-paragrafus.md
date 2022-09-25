@@ -12,7 +12,7 @@ b)[^2] a vetőmag előállítására, feldolgozására, forgalomba hozatalára �
 
 c) a minősítő, ellenőrző és felügyeletet ellátó tevékenység végzésére
 
-## terjed ki.
+terjed ki.
 
 (1a)[^3] A rendelet hatálya nem terjed ki a genetikai sokszínűség megőrzését célzó génbanki felhasználásra.
 

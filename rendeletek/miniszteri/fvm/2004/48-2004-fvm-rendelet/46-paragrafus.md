@@ -16,6 +16,6 @@ g) az 1. számú mellékletben felsorolt fajok esetében ,,Fajkeverék'' vagy ,,
 
 h) az 1. számú mellékletben, illetve a 3. és 4. számú melléklet D. részeiben felsorolt fajok esetében a ,,Forgalomba hozatala kizárólag Magyarországon engedélyezett'' felirat,
 
-i)[^141] a hatósági sorszámot.
+i)[^145] a hatósági sorszámot.
 
-[^141]: A 46. § i) pontját a 47/2016. (VII. 15.) FM rendelet 4. §-a iktatta be.
+[^145]: A 46. § i) pontját a 47/2016. (VII. 15.) FM rendelet 4. §-a iktatta be.

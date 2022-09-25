@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^197]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^204]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -206,6 +206,8 @@ Szeradella (Ornithopus sativus Brot.)
 
 | Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit (E) fokú szaporítás határértékeivel. Az évelő növényfajok új telepítésű szaporító területeit be kell jelenteni és egy alkalommal akkor is ellenőrizni kell, ha azokon a vetés évében magot nem termesztenek. |
 
+2X00583M_3
+
 | A vizsgálat tárgya | Egység | Elit | I. | II. |
 
 | szaporítási fok |
@@ -390,6 +392,8 @@ Magtermő évben:
 
 | Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább az elit (E) fokú szaporítás határértékeivel kell megegyezniük. |
 
+2X00583M_8
+
 | A vizsgálat tárgya | Egység | Elit | I. | II. |
 
 | szaporítási fok |
@@ -433,6 +437,8 @@ Tavaszi bükköny (Vicia sativa L.)
 |  | minden további megkezdett 10 ha után: 2 db. |
 
 | Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább az elit (E) fokú szaporítás határértékeivel kell megegyezniük. |
+
+2X00583M_10
 
 | A vizsgálat tárgya | Egység | Elit | I. | II. |
 
@@ -533,6 +539,8 @@ Lóbab (Vicia faba L. /partim/)
 |  | minden további megkezdett 10 ha után: 2 db. |
 
 | Egyéb követelmények | A vetőmagtermő tábla csak abban az esetben fogadható el minősítésre, ha a Brassica nemzetségbe tartozó növények árvakelései nincsenek a táblán. Szuperelit (SE) szaporítás esetén a határértékeknek legalább az elit (E) fokú szaporítás határértékeivel kell megegyezniük. |
+
+2X00583M_14
 
 | A vizsgálat tárgya | Egység | Elit | I. |
 
@@ -828,190 +836,4 @@ II. Vetőmagvizsgálati követelmények és minősítési határértékek
 
 1.1.2.1. Minősítési határértékek:
 
-|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q |
-
-| 1. |  | Csírázó- képesség legalább (%) | Kemény mag legfeljebb (%) | Tisztaság legalább (%) | Idegen mag összesen legfeljebb (%) | Idegen mag legfeljebb (db/minta) | Egyéb szab- ványok vagy feltételek |
-
-| 2. | Ebből egy faj | Elymus repens | Alopecurus myosu- roides | Melilotus spp. | Rapanus rapha- nistrum | Sinapis arvensis | Vadzab fajok | Cuscuta spp. | Rumex spp., kivéve Rumex acetosella és Rumex maritimus | Más színű és keserű csillagfürt | Nedves- ségtarta- lom legfeljebb (%) |
-
-| 3. | Fűfélék |
-
-| 4. | Alaszkai rozsnok (Bromus sitchensis) | 75 |  | 97 | 0,4 | 20 | 5 | 5 |  |  |  | 0 | 0 | 5 |  | 14 | – |
-
-| 5. | Angolperje (Lolium perenne) | 80 |  | 96 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 6. | Aranyzab (Trisetum flavescens) | 70 |  | 75 | 0,3 | 20 (c) | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 7. | Cérnatippan (Agrostis capillaris) | 75 |  | 90 | 0,3 | 20 | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 8. | Csenkesz-perje fajhibrid (x Festulolium) | 75 |  | 96 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 8a. | Csicserilednek (Lathyrus cicera) | 80 |  | 95 | 0,3 | 20 |  |  | 5 (d) |  |  | 0 | 0 |  |  |  | – |
-
-| 9. | Csillagpázsit (Cynodon dactylon) | 70 |  | 90 | 0,3 | 20 (a) | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 |  |
-
-| 10. | Csomós ebír (Dactylis glomerata) | 80 |  | 90 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 11. | Ebtippan (Agrostis canina) | 75 |  | 90 | 0,3 | 20 | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 12. | Egynyári perje (Poa annua) | 75 |  | 85 | 0,3 | 20 (b) | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 13. | Francia perje (Arrhenathrum elatius) | 75 |  | 90 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 14. | Fonalas csenkesz (Festuca filiformis) | 75 |  | 85 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 15. | Hibrid perje (Lolium x boucheanum Kunth) | 75 |  | 96 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 16. | Juhcsenkesz (Festuca ovina) | 75 |  | 85 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 17. | Kanáriköles (Phalaris aquatica) | 75 |  | 96 | 0,3 | 20 | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 18. | Keménylevelű csenkesz (Festuca trachyphylla (Hack.) Hack) | 75 |  | 85 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 19. | Kis komócsin (Phleum nodosum) | 80 |  | 96 | 0,3 | 20 | 1 | 1 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 20. | Ligeti perje (Poa nemoralis) | 75 |  | 85 | 0,3 | 20 (b) | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 21. | Mocsári perje (Poa palustris) | 75 |  | 85 | 0,3 | 20 (b) | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 22. | Nádképű csenkesz (Festuca arundinacea) | 80 |  | 95 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 23. | Olaszperje, hollandiperje (Lolium multiflorum) | 75 |  | 96 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 24. | Óriás tippan (Agrostis gigantea) | 80 |  | 90 | 0,3 | 20 | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 25. | Réti csenkesz (Festuca pratensis) | 80 |  | 95 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 26. | Réti ecsetpázsit (Alopecurus pratensis) | 70 |  | 75 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 27. | Réti komócsin (Phleum pratense) | 80 |  | 96 | 0,3 | 20 | 1 | 1 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 28. | Réti perje (Poa pratensis) | 75 |  | 85 | 0,3 | 20 (b) | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 29. | Sovány perje (Poa trivialis) | 75 |  | 85 | 0,3 | 20 (b) | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 30. | Sudár rozsnok (Bromus catharticus) | 75 |  | 97 | 0,4 | 20 | 5 | 5 |  |  |  | 0 | 0 | 5 |  | 14 | – |
-
-| 31. | Tarackos tippan (Agrostis stolonifera) | 75 |  | 90 | 0,3 | 20 | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
-
-| 32. | Vörös csenkesz (Festuca rubra) | 75 |  | 90 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 33. | Pillangósok |
-
-| 34. | Alexandriai here (Trifolium alexandrinum) | 80 | 20 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 3 |  | 13 | – |
-
-| 35. | Baltacim (Onobrychis viciifolia) – hüvelyes -hüvelytelen | 75 | 20 | 95 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 14 13 | – |
-
-| 36. | Bíborhere (Trifolium incarnatum) | 75 | 20 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 3 |  | 13 | – |
-
-| 37. | Borsó (Pisum sativum, Pisum arvense) | 80 |  | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 38. | Eperhere (Trifolium fragiferum) | 70 |  | 98 | 0,3 | 20 |  |  |  |  |  | 0 | 0 | 5 |  |  | – |
-
-| 39. | Fehérhere (Trifolium repens) | 80 | 40 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 5 |  | 13 | – |
-
-| 40. | Fehérvirágú csillagfürt (Lupinus albus) | 80 | 20 | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 14 | (f) |
-
-| 41. | Görögszéna (Trigonella foenum-graecum) | 80 |  | 95 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 13 | – |
-
-| 42. | Keleti kecskeruta (Galega orientalis) | 60 | 40 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  |  |  | 5 |  | 14 | – |
-
-| 43. | Keskenylevelű csillagfürt (Lupinus angustifolius) | 75 | 20 | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 14 | (f) |
-
-| 44. | Komlós lucerna (Medicago lupulina) | 80 | 20 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 5 |  | 13 | – |
-
-| 45. | Lóbab (Vicia faba) | 80 | 5 | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 14 | – |
-
-| 46. | Lucerna (Medicago sativa) | 80 | 40 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 3 |  | 13 | – |
-
-| 47. | Pannon bükköny (Vicia pannonica) | 85 | 20 | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 15 | – |
-
-| 48. | Perzsahere (Trifolium resupinatum) | 80 | 20 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 3 |  | 13 | – |
-
-| 49. | Sárga szeradella (Ornithopus compressus) | 75 |  | 90 | 0,3 | 20 |  |  |  |  |  | 0 | 0 | 5 |  |  | – |
-
-| 50. | Sárgavirágú csillagfürt (Lupinus luteus) | 80 | 20 | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 14 | (f) |
-
-| 51. | Svédhere (Korcshere) (Trifolium hybridum) | 80 | 20 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 3 |  | 13 | – |
-
-| 52. | Szeradella (Ornithopus sativus) | 74 |  | 90 | 0,3 | 20 |  |  |  |  |  | 0 | 0 | 5 |  | 0 | – |
-
-| 53. | Szarvaskerep (Lotus corniculatus) | 75 | 40 | 95 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 3 |  | 13 | – |
-
-| 54. | Szegletes lednek (Lathyrus sativus) | 80 |  | 95 | 0,3 | 20 |  |  | 5 (d) |  |  | 0 | 0 |  |  |  | – |
-
-| 55. | Szöszös bükköny (Vicia villosa) | 85 | 20 | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 15 | – |
-
-| 56. | Tarkavirágú lucerna (Medicago varia) | 80 | 40 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 3 |  | 13 | – |
-
-| 57. | Tavaszi bükköny (Vicia sativa) | 85 | 20 | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 15 | – |
-
-| 58. | Terpedt here (Trifolium squarrosum) | 75 | 20 | 97 | 0,3 | 20 |  |  |  |  |  | 0 | 0 | 5 |  |  | – |
-
-| 59. | Vöröshere (Trifolium pratense) | 80 | 20 | 97 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 5 |  | 13 | – |
-
-| 60. | Egyéb fajok |
-
-| 61. | Karórépa (Brassica napus var. napobrassica) | 80 |  | 98 | 0,3 | 20 |  |  |  |  |  | 0 | 0 | 2 |  | 11 | – |
-
-| 62. | Lándzsás útifű (Plantago lanceolata) | 75 |  | 85 | 0,3 | 20 |  |  |  |  |  | 0 | 0 | 3 |  |  | – |
-
-| 63. | Mézontófű (Phacelia tanacetifolia) | 80 |  | 96 | 0,3 | 20 |  |  |  |  |  | 0 | 0 |  |  | 12 | – |
-
-| 64. | Takarmánykáposzta (Brassica oleracea con. aceph. var. med. var. viridis) | 75 |  | 98 | 0,3 | 20 |  |  |  |  |  | 0 | 0 | 3 |  | 11 | – |
-
-| 65. | Takarmányretek (olajretek) (Raphanus sativus var. oleiformis) | 80 |  | 97 | 0,3 | 20 |  |  |  |  |  | 0 | 0 | 2 |  | 10 | – |
-
-1.1.2.2. Egyéb szabványok vagy feltételek:
-
-a) Az összesen legfeljebb 80 darab Poa spp. vetőmag nem minősül szennyezettségnek.
-
-b) A 3. oszlopban megállapított feltétel nem vonatkozik a Poa spp. vetőmagjaira. A nem a megvizsgálandó fajhoz tartozó Poa spp. vetőmagjának maximális aránya egy 500 magot tartalmazó mintában összesen nem haladhatja meg az 1 darabot.
-
-c) Az összesen legfeljebb 20 darab Poa spp. vetőmag nem minősül szennyezettségnek.
-
-d) A Melilotus spp. vetőmagjai számának megállapítása csak abban az esetben szükséges, ha kétség merül fel azt illetően, hogy teljesülnek-e a 7. oszlopban megállapított feltételek.
-
-e) Az előírt tömegű mintában található egy darab Melilotus spp. vetőmag nem minősül szennyezettségnek, ha a második minta, amelynek tömege az előírt tömeg kétszerese, mentes a Melilotus spp. vetőmagjától.
-
-f) A Lupinuis spp.-hez tartozó fajtákban a keserű magok százalékban kifejezett számaránya nem haladhatja meg a 1%-ot.
-
-1.1.2.3. További feltételek:
-
-1.1.2.3.1. A herefélék vetőmagjának aranka tartalmát a teljes alapmintából külön is meg kell vizsgálni.
-
-1.1.2.3.2. A borsó és a bükkönyök magvait élő zsizsikre is meg kell vizsgálni. A vizsgálatot a teljes laboratóriumi mintából kell elvégezni. Élő zsizsiket a fémzárolt tétel nem tartalmazhat.
-
-1.1.2.3.3. A Vicia sativa, Vicia villosa és Vicia pannonica vetőmagjának csírázóképességi vizsgálata során megállapított keményhéjú és duzzadt magvakat db/100 db-ban kell megadni.
-
-1.1.2.3.4. Csillagfürt fajok esetében a címkén és a vetőmagminősítő bizonyítványon is jelölni kell, hogy a fajta édes vagy keserű.
-
-1.1.2.3.5. A Keleti kecskeruta (Galega orientalis) tekintetében valamennyi olyan friss és egészséges vetőmagot, amely az előkezelést követően nem csírázik ki, kicsírázott magnak kell tekinteni. A feltüntetett maximális mennyiségig a kemény magokat csírázásra képes magoknak kell tekinteni.
-
-1.1.2.3.6. A Pisum sativum, Brassica napus var. napobrassica, Brassica oleracea convar. acephala, Vicia faba és a Poa pratensis fajták vetőmagjának meg kell felelniük az alábbi feltételnek: minimális fajtatisztaság: 99,7%.
-
-1.2. I. és II. szaporítási fok
-
-1.2.1. A vetőmagnak megfelelő fajtaazonossággal és fajtatisztasággal kell rendelkeznie.
-
-1.2.1.1. Poa pratensis fajták, a Brassica napus var. napobrassica és Brassica oleracea convar. acephala esetében a fajtatisztaság 98%.
-
-1.2.1.2. Pisum sativum, Vicia faba, Trifolium subterraneum, Medicago spp. – kivéve M. lupulina, M. sativa, M. varia – esetében a fajtatisztaság:
-
-1.2.1.2.1. elit vetőmag előállításra szánt: 99,5%,
-
-1.2.1.2.2. továbbszaporítási célú, minősített vetőmag előállításra szánt: 98%,
-
-1.2.1.2.3. minősített vetőmag előállításra szánt: 95%,
-
-1.2.1.2.3.1. minősített vetőmag, 1. generáció: 99%,
-
-1.2.1.2.3.2. minősített vetőmag, 2. generáció: 98%.
-
-1.2.1.3. A minimális fajtatisztaságot elsősorban a szántóföldi vizsgálatokkal összhangban kell megvizsgálni.
-
-1.2.2. A vetőmagnak a 1.2.2.1. pontban foglalt táblázatban, valamint az 1.2.2.2–1.2.2.6. pont szerinti egyéb feltételeknek és szabványoknak kell megfelelniük a csírázóképesség, az analitikai tisztaság és a más növényfajokból – beleértve a keserű magok jelenlétét a Lupinus spp. édes fajtáiban – származó magtartalom tekintetében:
-
-1.2.2.1. Táblázat:
-
-[^197]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a, a 44/2018. (XII. 20.) AM rendelet 9. §-a és 10. § e)–i) pontja, a 35/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, a 2/2022. (I. 27.) AM rendelet 3. § 17–19. pontja szerint módosított szöveg.
+[^204]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a, a 44/2018. (XII. 20.) AM rendelet 9. §-a és 10. § e)–i) pontja, a 35/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, a 2/2022. (I. 27.) AM rendelet 3. § 17–19. pontja szerint módosított szöveg.

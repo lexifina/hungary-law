@@ -10,7 +10,7 @@ c) a dugványozással vagy palántázással szaporított növények, a tavaszi t
 
 d) a másodvetésű vetőmagok előállítása esetében július 30-ig
 
-## be kell jelentenie szuperelit szaporítási fok esetében a NÉBIH-nek, egyéb esetben a megyei kormányhivatalnak az általuk rendszeresített és honlapjukon közzétett nyomtatványon.
+be kell jelentenie szuperelit szaporítási fok esetében a NÉBIH-nek, egyéb esetben a megyei kormányhivatalnak az általuk rendszeresített és honlapjukon közzétett nyomtatványon.
 
 (2)[^53]
 

@@ -1,3 +1,3 @@
-## 35. §[^90]
+36. §[^91]
 
-[^90]: A 35. §-t az 5/2014. (I. 27.) VM rendelet 4. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^91]: A 36. §-t az 5/2014. (I. 27.) VM rendelet 4. § (4) bekezdés c) pontja hatályon kívül helyezte.

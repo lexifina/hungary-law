@@ -64,7 +64,7 @@
 
 | 10. | 3. Csupasz zab (Avena nuda), zab (Avena sativa), homoki zab (Avena strigosa), árpa (Hordeum vulgare), rizs (Oryza sativa), búza (Triticum aestivum L. subsp. aestivum), durum búza (Triticum turgidum L. subsp. durum (Desf.) van Slageren) tönköly búza (Triticum aestivum L. subsp. spelta (L.) Thell.) és önbeporzó triticale (x Triticosecale) hibrid fajták I. szaporítási fokú (hibrid F1) vetőmag | 90,0 |
 
-| 11. | 4. Citoplazmás hímsterilitással előállított árpa (Hordeum vulgare) (a fajtatisztasági hiba a helyreállító vonal kivételével nem lehet 2% nál nagyobb) | 85 |
+| 11. | 4. Citoplazmás hímsterilitással előállított árpa (Hordeum vulgare), búza (Triticum aestivum subsp. aestivum), tönkölybúza (Triticum aestivum subsp. spelta) és durumbúza (Triticum turgidum subsp. durum) (a fajtatisztasági hiba a helyreállító vonal kivételével nem lehet 2%-nál nagyobb) | 85 |
 
 ## Ezen feltételek biztosítására elsődlegesen a szántóföldi ellenőrzés követelményeit kell betartani. A már forgalomba hozott vetőmagvak fajtatisztaságának ellenőrző megállapítása megfelelő számú minta hivatalos utóellenőrzésével, szántóföldi fajtakitermesztéssel, illetve kiegészítő laboratóriumi vizsgálatokkal történik.
 
@@ -196,7 +196,7 @@
 
 ## 2. Kalászos hibrid növények
 
-## Zab, árpa, rozs, búza, durum búza, tönköly búza és önbeporzó tritikálé hibridjei, árpa citoplazmás hímsterilitással előállított hibridjei.
+## Zab, árpa, rozs, búza, durum búza, tönköly búza és önbeporzó tritikálé hibridjei, árpa, búza, durumbúza és tönkölybúza citoplazmás hímsterilitással előállított hibridjei.
 
 ## 2.1. Az ellenőrzések száma összesen: három.
 
@@ -283,6 +283,36 @@
 ## 2.6.3.5. A 2.6.3.3. valamint a 2.6.3.4. pontoknak való megfelelést kisparcellás fajtaazonosító vizsgálattal kell ellenőrizni.
 
 ## 2.6.3.6. Az I. szaporítási fokú (hibrid F1) vetőmag egy anyai szülő hímsteril komponens és egy, az apai szülő fertilitást visszaállító apai szülő komponens vegyes művelésében termeszthető.
+
+## 2.6.4. A citoplazmás hímsterilitás technikájával előállított hibridbúza vetőmagjának az alábbi követelményeknek kell megfelelnie:
+
+## 2.6.4.1. Elit szaporítási fokú vetőmag-előállítás esetén az izolációs távolság 300 méter más típusú fajtaazonos, illetve más fajtájú búzától.
+
+## 2.6.4.2. I. szaporítási fokú (hibrid F1) vetőmag-előállítás esetén az izolációs távolság 25 méter más típusú fajtaazonos, illetve más fajtájú búzától.
+
+## 2.6.4.3. A nem fajtaazonos egyedek számának megengedett legmagasabb százalékos aránya:
+
+## 2.6.4.3.1. Elit vetőmag előállítására szánt vetőmag esetében a fenntartó és a helyreállító vonal tekintetében
+
+## 0,1%, a citoplazmás hímsteril anyai szülőkomponens esetében 0,3%;
+
+## 2.6.4.3.2. I. szaporítási fokú (hibrid F1) vetőmag-előállítás esetében
+
+## 2.6.4.3.2.1. a helyreállító vonal és a citoplazmás hímsteril anyai szülőkomponens tekintetében 0,3%,
+
+## 2.6.4.3.2.2. a citoplazmás hímsteril anyai szülőkomponens tekintetében 0,6%,
+
+## 2.6.4.3.2.3. ha a citoplazmás hímsteril anyai szülőkomponens egyszeres keresztezésű hibrid, akkor 1%.
+
+## 2.6.4.4. Az anyai szülőkomponens hímsterilitásának szintje:
+
+## 2.6.4.4.1. az elit vetőmag előállítása esetében legalább 99,7%,
+
+## 2.6.4.4.2. az I. szaporítási fokú (hibrid F1) vetőmag előállítása esetében legalább 99%.
+
+## 2.6.4.5. A 2.6.4.3. valamint a 2.6.4.4. alpontoknak való megfelelést kisparcellás fajtaazonosító vizsgálattal kell ellenőrizni.
+
+## 2.6.4.6. Az I. szaporítási fokú (hibrid F1) vetőmag egy anyai szülő hímsteril komponens és egy, az apai szülő fertilitást visszaállító apai szülőkomponens vegyes művelésében termeszthető.
 
 ## 2.7. A vetőmag-előállítás ellenőrzésének szempontjai:
 
@@ -605,6 +635,8 @@
 ## 5.9. A megtermékenyülés vizsgálata:
 
 ## 5.9.1. Az összes letört csőből a vizsgált típusnak megfelelő csöveket – a beteg, csenevész, éretlen csöveket is – öt csoportba osztjuk:
+
+## 2X00582M_14
 
 |  | A | B |
 
@@ -1286,17 +1318,15 @@
 
 |  | □ és II. szaporítási fok | 4,0% |
 
-2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^196]
+2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^203]
 
-## A répafélék vetőmagvainak forgalomba hozatali feltételei
+A répafélék vetőmagvainak forgalomba hozatali feltételei
 
 ## Ezen melléklet előírásait az A. részben felsorolt fajok vetőmagjainak előállítására, minősítésére, valamint az ilyen vetőmagvaknak az Európai Unió határain belüli behozatalára és – ha a fogadó fél eltérően nem rendelkezik – harmadik ország felé irányuló exportjára kell alkalmazni.
 
 ## A. rész
 
-1.
-
-Cukorrépa (Beta vulgaris L.)
+1. Cukorrépa (Beta vulgaris L.)
 
 Takarmányrépa (Beta vulgaris L.)
 
@@ -1306,9 +1336,9 @@ Takarmányrépa (Beta vulgaris L.)
 
 | Cukorrépa (Beta vulgaris L.) Takarmányrépa (Beta vulgaris L.) | Szuperelit, Elit I. szaporítási fok |
 
-Az engedélyezett szaporítási fokra, illetve típusra és az engedélyezésre vonatkozó feltételek.
+## Az engedélyezett szaporítási fokra, illetve típusra és az engedélyezésre vonatkozó feltételek.
 
-Szaporítási fok: szuperelit - elit: a szuperelit és elit szaporítási fokú vetőmagnak hivatalos minősítési eljárásban kell megfelelnie a B. rész táblázatában foglalt követelményeknek.
+## Szaporítási fok: szuperelit - elit: a szuperelit és elit szaporítási fokú vetőmagnak hivatalos minősítési eljárásban kell megfelelnie a B. rész táblázatában foglalt követelményeknek.
 
 I. fok: az I. szaporítási fokú vetőmag közvetlenül az elit szaporítási fokú vetőmagból származik, amelyet árutermesztésre szánnak, és amelynek hivatalos minősítési eljárásban kell megfelelnie a B. rész táblázatába foglalt követelményeknek.
 
@@ -1394,13 +1424,13 @@ A vetőmagszaporításnak meg kell felelnie az alábbi táblázatba foglalt köv
 
 | Peronoszpóra (Peronospora schachtii) Levélragya (Cercospora beticola) (2) | érték-szám | 2 | 2 |
 
-(1) Csak a felszedésre kerülő dugványok tábláit kell vizsgálni. A felmagzó dugványokat betakarítás előtt tövestől el kell távolítani.
+## (1) Csak a felszedésre kerülő dugványok tábláit kell vizsgálni. A felmagzó dugványokat betakarítás előtt tövestől el kell távolítani.
 
-(2) Áttelelő állományoknál és maghozóknál kell vizsgálni.
+## (2) Áttelelő állományoknál és maghozóknál kell vizsgálni.
 
-C. rész
+## C. rész
 
-A vetőmagvizsgálat és minősítés részletes követelményei
+## A vetőmagvizsgálat és minősítés részletes követelményei
 
 I. Mintavétel
 
@@ -1454,4 +1484,4 @@ b) a tömeg feltüntetésénél – ha bármilyen szemcsés növényvédőszer, 
 
 c) monogerm vetőmag esetében a „monogerm”, precíziós vetőmag esetében pedig a „precíziós” megjelölés.
 
-[^196]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^203]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
