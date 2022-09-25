@@ -1,0 +1,3 @@
+## „n) a Bizottság (EU) 2021/971 végrehajtási irányelve (2021. június 16.) a takarmánynövény-vetőmagok forgalmazásáról szóló 66/401/EGK tanácsi irányelv I. mellékletének, a gabonavetőmagok forgalmazásáról szóló 66/402/EGK tanácsi irányelv I. mellékletének, a répavetőmag forgalmazásáról szóló 2002/54/EK tanács irányelv I. mellékletének, a zöldségvetőmagok forgalmazásáról szóló 2002/55/EK tanácsi irányelv I. mellékletének, valamint az olaj- és rostnövények vetőmagjának forgalmazásáról szóló 2002/57/EK tanácsi irányelv I. mellékletének a biokémiai és molekuláris technikák alkalmazása tekintetében történő módosításáról.”
+
+7. § Az 50/2004. (IV. 22.) FVM rendelet 5. számú melléklete a 2. melléklet szerint módosul.
