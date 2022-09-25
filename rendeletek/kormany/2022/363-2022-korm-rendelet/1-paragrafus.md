@@ -1,3 +1,5 @@
 ## 1. Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet módosítása
 
-1. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 18/B. § (3) bekezdésében az „élőerős fegyveres” szövegrész helyébe a „mechanikus és elektronikus védelemmel kiegészített élőerős” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

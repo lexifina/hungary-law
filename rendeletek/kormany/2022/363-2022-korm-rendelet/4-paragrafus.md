@@ -1,1 +1,3 @@
-4. § Az R. 20. § (1) bekezdésében az „a 22. §-ban” szövegrész helyébe az „a 22. § és a 22/A. §-ban” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
