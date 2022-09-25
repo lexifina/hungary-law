@@ -1,3 +1,3 @@
-1. § Az egyes továbbadott támogatások kihelyezésének részletes szabályairól szóló 187/2019. (VII. 30.) Korm. rendelet (a továbbiakban: R.) 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az e rendelet hatálya alá tartozó támogatási jogviszonyban – ideértve a fenntartási kötelezettség időszakát is – jogutódlásnak és a támogatási jogviszonyból eredő jogok és kötelezettségek harmadik személy részére történő átadásának – a 3. és a 4. célterület kivételével – nincs helye. A támogatást igénylő halála vagy jogutóddal történő megszűnése esetén az addig érvényesen megállapított visszafizetési kötelezettség a támogatást igénylő polgári jog szerinti jogutódját terheli.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
