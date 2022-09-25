@@ -1,6 +1,6 @@
-2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^249]
+2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^250]
 
-## A rendelet hatálya alá tartozó palánták
+A rendelet hatálya alá tartozó palánták
 
 1. Allium cepa L.
 
@@ -146,4 +146,4 @@
 
 36.2. pattogató kukorica csoport
 
-[^249]: A 2. számú melléklet a 36/2020. (VI. 29.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^250]: A 2. számú melléklet a 36/2020. (VI. 29.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.

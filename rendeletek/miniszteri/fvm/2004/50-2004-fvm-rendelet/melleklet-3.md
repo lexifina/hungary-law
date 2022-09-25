@@ -1,6 +1,6 @@
-3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^250]
+3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^251]
 
-## A zöldség vetőmagvak minőségi feltételei
+A zöldség vetőmagvak minőségi feltételei
 
 1. A vetőmag fajtaazonosságának és fajtatisztaságának kielégítőnek kell lennie.
 
@@ -96,8 +96,8 @@
 
 |  | Zea mays | 98 | 0,1 | 85* |
 
-* szuperédes csemegekukorica fajták esetén a minimális csírázóképesség 80%, a vetőmag hatósági vagy szállítói címkéjén fel kell tüntetni a „Minimális csírázóképesség: 80%” szöveget.
+## * szuperédes csemegekukorica fajták esetén a minimális csírázóképesség 80%, a vetőmag hatósági vagy szállítói címkéjén fel kell tüntetni a „Minimális csírázóképesség: 80%” szöveget.
 
 4. A zöldségvetőmagon a vizsgálatköteles nemzárlati károsítók mennyisége – legalább vizuális vizsgálat alapján – nem haladhatja meg a 2019/2072/EU bizottsági végrehajtási rendelet IV. melléklet F. részében foglalt táblázatban meghatározott küszöbértéket.
 
-[^250]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése, a 35/2020. (VI. 29.) AM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^251]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése, a 35/2020. (VI. 29.) AM rendelet 6. § (1) bekezdése szerint módosított szöveg.

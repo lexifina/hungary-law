@@ -44,7 +44,7 @@ e) az akkreditált laboratóriumok szúrópróbaszerű ellenőrzésére,
 
 f) az akkreditált laboratóriumok részére történő körvizsgálatok szervezésére
 
-## terjed ki.
+terjed ki.
 
 (7)[^86] A nyilvántartásba vétel iránti kérelmet – a 4. § (1) bekezdésében foglaltaknak megfelelően – a tevékenység megkezdése előtt a NÉBIH részére meg kell küldeni.
 

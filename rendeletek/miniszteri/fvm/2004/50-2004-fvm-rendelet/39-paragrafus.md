@@ -34,13 +34,17 @@ l)[^243] a Bizottság 2019/990/EU végrehajtási irányelve (2019. június 17.) 
 
 m)[^244] a Bizottság 2020/432/EU végrehajtási irányelve (2020. március 23.) a 2002/55/EK tanácsi irányelvnek a zöldségek fogalmának meghatározása, valamint a 2. cikk (1) bekezdésének b) pontjában szereplő nemzetség- és fajlista tekintetében történő módosításáról.
 
-(3)[^245] E rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+n)[^245] a Bizottság (EU) 2021/971 végrehajtási irányelve (2021. június 16.) a takarmánynövény-vetőmagok forgalmazásáról szóló 66/401/EGK tanácsi irányelv I. mellékletének, a gabonavetőmagok forgalmazásáról szóló 66/402/EGK tanácsi irányelv I. mellékletének, a répavetőmag forgalmazásáról szóló 2002/54/EK tanács irányelv I. mellékletének, a zöldségvetőmagok forgalmazásáról szóló 2002/55/EK tanácsi irányelv I. mellékletének, valamint az olaj- és rostnövények vetőmagjának forgalmazásáról szóló 2002/57/EK tanácsi irányelv I. mellékletének a biokémiai és molekuláris technikák alkalmazása tekintetében történő módosításáról.
 
-(4)[^246] E rendelet
+(3)[^246] E rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(4)[^247] E rendelet
 
 a) a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendelet, valamint
 
 b) a növénykárosítókkal szembeni védekező intézkedésekről szóló (EU) 2016/2031 európai parlamenti és tanácsi rendelet egységes végrehajtási feltételeinek megállapításáról, valamint a 690/2008/EK bizottsági rendelet hatályon kívül helyezéséről és az (EU) 2018/2019 bizottsági végrehajtási rendelet módosításáról szóló, 2019. november 28-i 2019/2072/EU bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 [^233]: A 39. § (1a) bekezdését az 1/2012. (I. 20.) VM rendelet 4. § (1) bekezdése iktatta be.
 [^234]: A hatálybalépés napja: 2012. január 21.
@@ -54,5 +58,6 @@ b) a növénykárosítókkal szembeni védekező intézkedésekről szóló (EU)
 [^242]: A 39. § (2) bekezdés k) pontját a 35/2020. (VI. 29.) AM rendelet 5. § (1) bekezdése iktatta be.
 [^243]: A 39. § (2) bekezdés l) pontját a 36/2020. (VI. 29.) AM rendelet 4. §-a iktatta be.
 [^244]: A 39. § (2) bekezdés m) pontját a 36/2020. (VI. 29.) AM rendelet 4. §-a iktatta be.
-[^245]: A 39. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 8. §-a iktatta be, ugyanezen szöveggel újonnan beiktatta a 124/2007. (X. 20.) FVM rendelet 17. §-a.
-[^246]: A 39. § (4) bekezdését a 35/2020. (VI. 29.) AM rendelet 5. § (2) bekezdése iktatta be.
+[^245]: A 39. § (2) bekezdés n) pontját a 29/2022. (IX. 22.) AM rendelet 6. §-a iktatta be.
+[^246]: A 39. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 8. §-a iktatta be, ugyanezen szöveggel újonnan beiktatta a 124/2007. (X. 20.) FVM rendelet 17. §-a.
+[^247]: A 39. § (4) bekezdését a 35/2020. (VI. 29.) AM rendelet 5. § (2) bekezdése iktatta be.

@@ -22,7 +22,7 @@ ad) palántázott növény esetében június 1. napjáig,
 
 b) őszi vetésű növények esetében szeptember 30. napjáig
 
-## köteles benyújtani.
+köteles benyújtani.
 
 (5a)[^98] Pótbejelentés az (5) bekezdésben meghatározott határidő lejártától számított harminc napon belül nyújtható be. A bejelentés legkésőbb az első ellenőrzés időpontját megelőző munkanapon módosítható vagy vonható vissza.
 

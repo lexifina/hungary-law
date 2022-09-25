@@ -10,7 +10,7 @@ b) hagyma, turbolya, spárga, mángold, cékla, tarlórépa, görögdinnye, süt
 
 c) minden más zöldségfaj esetében 100 g-ig
 
-## történő csomagolása minősül.
+történő csomagolása minősül.
 
 (3) A kiszerelés feltétele, hogy
 
@@ -44,7 +44,7 @@ a) a standard és certifikált kategóriába minősített kis kiszerelésű vet�
 
 b) a standard kategóriába minősített zöldségfajok különféle fajtáihoz tartozó vetőmagok vetőmagkeverékeinek kis kiszerelésű csomagolását pedig a 6. számú melléklet B. részének 3. pontjában
 
-## előírtak szerint az Európai Unió valamely hivatalos nyelvén kiállított címkével, illetve nyomtatott vagy bélyegzővel nyomott, az Európai Unió valamely hivatalos nyelvén megfogalmazott felirattal kell ellátnia. A címke színe certifikált vetőmag esetében kék, standard vetőmag esetében sötétsárga.
+előírtak szerint az Európai Unió valamely hivatalos nyelvén kiállított címkével, illetve nyomtatott vagy bélyegzővel nyomott, az Európai Unió valamely hivatalos nyelvén megfogalmazott felirattal kell ellátnia. A címke színe certifikált vetőmag esetében kék, standard vetőmag esetében sötétsárga.
 
 (8)[^67] Magyarország területén forgalmazott kis kiszerelésű vetőmag minden csomagolási egységén magyar nyelven is fel kell tüntetni a faj nevét, a vetőmag minősítésének és csávázásának tényét.
 
