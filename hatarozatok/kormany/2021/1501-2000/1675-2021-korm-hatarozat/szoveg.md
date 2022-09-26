@@ -8,8 +8,6 @@ Felelős: pénzügyminiszter
 
 Határidő: azonnal
 
-3. felhívja a pénzügyminisztert, hogy a Kormány nevében írja alá az ESPON 2030 program végrehajtásáról, monitoring- és kontrollrendszeréről szóló megállapodást.
+3.[^1]
 
-Felelős: pénzügyminiszter
-
-Határidő: 2022. február 28.
+[^1]: A 3. pontot az 1459/2022. (IX. 26.) Korm. határozat 2. pontja visszavonta.
