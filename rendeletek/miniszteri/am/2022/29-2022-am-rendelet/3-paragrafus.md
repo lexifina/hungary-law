@@ -1,3 +1,3 @@
-3. § A 48/2004. (IV. 21.) FVM rendelet 59. § (2) bekezdése a következő 27. és 28. ponttal egészül ki:
+3. §[^4]
 
-(Ez a rendelet)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
