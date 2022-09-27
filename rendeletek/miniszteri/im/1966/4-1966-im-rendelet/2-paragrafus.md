@@ -1,10 +1,7 @@
-## 1. §[^1] A külföldről érkező megkereséseket a Közigazgatási és Igazságügyi Minisztérium továbbítja a bírósághoz. A külföldre irányuló megkereséseket a bíróság továbbítás céljából a Közigazgatási és Igazságügyi Minisztériumhoz terjeszti fel.
-
-2. § (1)[^2] A bíróság az Egyezményben részes államokba kézbesítendő iratokat vagy megkereséseket két példányban – tértivevénnyel együtt – a Közigazgatási és Igazságügyi Minisztériumhoz terjeszti fel.
+2. § (1)[^2] A bíróság az Egyezményben részes államokba kézbesítendő iratokat vagy megkereséseket két példányban – tértivevénnyel együtt – az igazságügyért felelős miniszternek terjeszti fel.
 
 (2) A bíróságnak – amennyiben ez a kézbesíteni kért iratból nem állapítható meg – a felterjesztésben fel kell tüntetnie az Egyezmény 1. cikkének első bekezdésében említett adatokat.
 
 (3) Ha a külföldön kézbesítendő irat határnapra szóló idézést vagy értesítést tartalmaz, a bíróságnak a határnap kitűzésénél figyelemmel kell lennie arra, hogy a külföldi érdekeltnek elegendő ideje legyen a megjelenésre vagy képviselő kijelölésére.
 
-[^1]: Az 1. § a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 61. pontja, az 50/2012. (XII. 4.) KIM rendelet 3. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 61. pontja, az 50/2012. (XII. 4.) KIM rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 19/2022. (IX. 26.) IM rendelet 1. § b) pontja szerint módosított szöveg.
