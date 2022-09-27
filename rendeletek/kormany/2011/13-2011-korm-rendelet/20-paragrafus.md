@@ -1,21 +1,9 @@
-## 14. A katonai végfelhasználáskor nyújtott műszaki segítség
+## 14.[^78] Technikai segítségnyújtás
 
-20. § (1) E rendelet előírásai szerinti kötelezettségek fenntartásával és a Tanács 401/2000/KKBP együttes fellépésének (a továbbiakban: együttes fellépés) 2. és 5. cikkében foglalt vegyi, biológiai vagy nukleáris fegyverek vagy más nukleáris robbanóanyagok, valamint ezeket célba juttatni képes rakétatechnikai eszközök kifejlesztésével, gyártásával, kereskedelmével, karbantartásával, észlelésével, azonosításával vagy elterjesztésével kapcsolatos műszaki segítségnyújtás tilos.
+20. § (1) Az (EU) 2021/821 európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdése alkalmazandó az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett felhasználási célokra szolgáló, az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékre.
 
-(2) A műszaki segítségnyújtás akkor is tilos, ha az (1) bekezdéstől eltérő, más katonai felhasználással kapcsolatos, de olyan rendeltetési országra vonatkozik, amely a Tanács által elfogadott 2008/944/KKBP közös álláspontban vagy az együttes fellépésben fegyverkiviteli korlátozás, az Európai Biztonsági és Együttműködési Szervezet vagy az ENSZ Biztonsági Tanácsa által elrendelt fegyverembargó alá tartozik.
+(2) Technikai segítségnyújtás végzésére vonatkozó engedélyre van szükség, ha a technikai segítségnyújtást végző, aki kettős felhasználású termékek tekintetében technikai segítségnyújtás végzését tervezi, megalapozottan feltételezheti, hogy ezeket a termékeket az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett felhasználási célok valamelyikére szánják vagy szánhatják.
 
-(3) A (1) bekezdés szerint a katonai végfelhasználású műszaki segítségnyújtás az alábbiakat foglalja magában:
+(3) Az engedélykérelem elbírálásánál az Egyedi Exportengedélyre és az exportengedély iránti kérelem elbírálására vonatkozó szabályok irányadók.
 
-a) a haditechnikai jegyzékben feltüntetett termék átadása;
-
-b) az a) pont szerinti haditechnikai termék kifejlesztéséhez, gyártásához, karbantartásához szükséges termelő-, ellenőrző- vagy vizsgálóberendezések és az ezekhez tartozó alkatrész átadása;
-
-c) az a) pont szerinti haditechnikai termék gyártásához, a gyártó létesítményben felhasznált bármely félkész termék átadása.
-
-(4) A műszaki segítségnyújtásra vonatkozó (1) bekezdés szerinti előírások nem alkalmazhatóak:
-
-a)[^58] ha a műszaki segítségnyújtás a 428/2009/EK tanácsi rendelet IIa. mellékletének második részében felsorolt országok bármelyikében kerül alkalmazásra, vagy
-
-b) ha a műszaki segítségnyújtás – átadott információ formájában – a nemzetközi exportellenőrzési rezsimekben, szervezetekben és szerződésekben meghatározott nyilvános körben vagy tudományos alapkutatásban kerül alkalmazásra.
-
-[^58]: A 20. § (4) bekezdés a) pontja a 209/2012. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^78]: A 14. alcím (20. §) a 360/2022. (IX. 19.) Korm. rendelet 11. §-ával megállapított szöveg.

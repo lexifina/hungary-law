@@ -1,3 +1,1 @@
-## 6. §[^28] Az export, a transzfer- és a tranzitengedélyek iránti kérelmet az 1. melléklet A) részében meghatározott tartalommal, a brókerügyleti engedély iránti kérelmet az 1. melléklet B) részében meghatározott tartalommal kell a Kormányhivatalhoz benyújtani.
-
-[^28]: A 6. § a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés e) pontja szerint módosított szöveg.
+7. § Az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) és (2) bekezdésén túl engedélyköteles az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékek kivitele akkor is, ha az exportőr alappal feltételezheti, hogy ezt a terméket részben vagy egészben az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett célra szánják vagy szánhatják.

@@ -1,0 +1,1 @@
+8/A. § Engedélyköteles az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékek kivitele akkor is, ha a kivitel engedélyezés alá vonását közbiztonsági – a terrorcselekmények megelőzését is beleértve – vagy emberi jogi szempontok indokolják.
