@@ -1,8 +1,6 @@
-## 24. §[^16]
-
 1. melléklet az 5/2019. (III. 13.) IM rendelethez
 
-## A Magyar Közlöny címrendje
+A Magyar Közlöny címrendje
 
 1. A Magyar Közlöny fősorozatának címrendje a következő:
 
@@ -49,5 +47,3 @@
 3.4. a Magyar Nemzeti Bank elnökének rendeleteihez, valamint az önálló szabályozó szerv vezetőjének rendeleteihez tartozó indokolások,
 
 3.5. a Kormány tagjainak rendeleteihez tartozó indokolások.
-
-[^16]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

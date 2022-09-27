@@ -20,6 +20,6 @@ g) a „határozata” kifejezést és
 
 h) a normatív határozat címét
 
-## foglalja magában.
+foglalja magában.
 
 (2) Nem foglalja magában a normatív határozatot hozó szerv megjelölésének a rövidítését a helyi önkormányzat képviselő-testülete normatív határozatának és a nemzetiségi önkormányzat képviselő-testülete normatív határozatának a közzététel során történő megjelölése.

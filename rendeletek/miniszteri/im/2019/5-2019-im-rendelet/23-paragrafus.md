@@ -9,3 +9,5 @@ a) a 2019. március 15-én és az azt követően Országgyűléshez benyújtott 
 b) a 2019. március 15-én és az azt követően Kormány ügyrendje szerinti egyeztetésre bocsátott kormányrendelet, miniszteri rendelet és miniszterelnöki rendelet,
 
 c) a 2019. június 15-én és az azt követően kihirdetett, nem az a) és b) pont szerinti jogszabály
+
+tervezetéhez tartozó indokolások tekintetében kell alkalmazni.

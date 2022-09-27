@@ -1,4 +1,4 @@
-## 19/A. §[^15] Ha az Alkotmánybíróság jogszabály vagy jogszabályi rendelkezés megsemmisítéséről szóló határozata az Alkotmánybíróság Határozatai hivatalos lapban történő közzétételét követően kerül közzétételre a Magyar Közlönyben, ezt a körülményt a Magyar Közlönyben történő közzététel során fel kell tüntetni.
+## 19/A. §[^16] Ha az Alkotmánybíróság jogszabály vagy jogszabályi rendelkezés megsemmisítéséről szóló határozata az Alkotmánybíróság Határozatai hivatalos lapban történő közzétételét követően kerül közzétételre a Magyar Közlönyben, ezt a körülményt a Magyar Közlönyben történő közzététel során fel kell tüntetni.
 
 ## 6. A jogszabály tervezetéhez tartozó indokolások közzététele
 
@@ -10,7 +10,7 @@ a) az Alaptörvény, annak módosítása, valamint törvény esetében az egyes 
 
 b) a kormányrendelet, a miniszteri rendelet, a miniszterelnöki rendelet, a Magyar Nemzeti Bank elnökének rendelete, valamint az önálló szabályozó szerv vezetőjének rendelete esetében a megalkotásukat megelőzően rendelkezésre álló, végső előterjesztői indokolást
 
-## kell közzétenni.
+kell közzétenni.
 
 (3) Az önkormányzati rendelet tervezetéhez tartozó, a megalkotását megelőzően rendelkezésre álló, végső előterjesztői indokolást a Nemzeti Jogszabálytárban kell közzétenni.
 
@@ -18,4 +18,4 @@ b) a kormányrendelet, a miniszteri rendelet, a miniszterelnöki rendelet, a Mag
 
 (5) Az e rendelet szerint közzétett indokolás a közzétételét követően nem módosítható.
 
-[^15]: A 19/A. §-t a 10/2022. (IV. 7.) IM rendelet 3. §-a iktatta be.
+[^16]: A 19/A. §-t a 10/2022. (IV. 7.) IM rendelet 3. §-a iktatta be.

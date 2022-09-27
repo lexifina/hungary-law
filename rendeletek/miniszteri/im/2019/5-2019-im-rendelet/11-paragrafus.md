@@ -12,7 +12,7 @@ d) a „törvény” kifejezést és
 
 e) a törvény címét
 
-## foglalja magában.
+foglalja magában.
 
 (2) Önkormányzati rendelet megjelölése annak kihirdetése során – az alábbi sorrendben –
 
@@ -30,7 +30,7 @@ f) az „önkormányzati rendelete” kifejezést és
 
 g) a rendelet címét
 
-## foglalja magában.
+foglalja magában.
 
 (3) Az (1) és (2) bekezdés kivételével a jogszabály megjelölése annak kihirdetése során – a következő sorrendben –
 
@@ -49,3 +49,5 @@ f) a jogszabály megalkotója megjelölésének a rövidítését,
 g) a „rendelete” kifejezést és
 
 h) a jogszabály címét
+
+foglalja magában.
