@@ -8,13 +8,15 @@ a) a cégbíróság által nyilvántartásba vett egyéni cég, gazdasági társ
 
 b) az egyéni vállalkozók nyilvántartásába bejegyzett egyéni vállalkozó,
 
-c) a költségvetési szervek törzskönyvi nyilvántartásába bejegyzett költségvetési szerv, továbbá
+c)[^15] a költségvetési szervek törzskönyvi nyilvántartásába bejegyzett költségvetési szerv,
 
-d) határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban (a továbbiakban: EGT-állam) bejegyzett vállalkozás.
+d)[^16] határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban (a továbbiakban: EGT-állam) bejegyzett vállalkozás, továbbá
 
-(3)[^12]
+e)[^17] a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény.
 
-(4) Az e rendelet szerinti eljárásokban a tényállás tisztázása érdekében a Hatóság határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 44. § b) pontján túl ismételten hiánypótlásra hívhatja fel a kérelmezőt.
+(3)[^18]
+
+(4)[^19] Az e rendelet szerinti eljárásokban a tényállás tisztázása érdekében a Hatóság határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 44. §-án túl ismételten hiánypótlásra hívhatja fel a kérelmezőt.
 
 (5) Az e rendelet szerinti engedélyezési eljárásokban az ügyfél nem pótolhatja a nyilatkozatával a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges.
 
@@ -32,4 +34,8 @@ c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős ve
 
 d) megfelel a Httv. és az e rendeletben meghatározott egyéb feltételeknek.
 
-[^12]: A 3. § (3) bekezdése a 38. § (4) bekezdése alapján hatályát vesztette.
+[^15]: A 3. § (2) bekezdés c) pontja a 360/2022. (IX. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3. § (2) bekezdés d) pontja a 360/2022. (IX. 19.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^17]: A 3. § (2) bekezdés e) pontját a 360/2022. (IX. 19.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^18]: A 3. § (3) bekezdése a 38. § (4) bekezdése alapján hatályát vesztette.
+[^19]: A 3. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.

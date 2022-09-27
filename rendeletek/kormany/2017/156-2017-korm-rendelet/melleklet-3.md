@@ -1,6 +1,6 @@
 3. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
 
-## A tevékenységi engedély iránti kérelem tartalma
+A tevékenységi engedély iránti kérelem tartalma
 
 I.
 

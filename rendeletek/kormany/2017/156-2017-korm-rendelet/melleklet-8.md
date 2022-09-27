@@ -38,7 +38,7 @@
 
 8. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
 
-## A kivitelre, újrakivitelére vagy kiszállításra és szolgáltatás nyújtására vonatkozó egyedi forgalmi engedély iránti kérelem tartalma
+A kivitelre, újrakivitelére vagy kiszállításra és szolgáltatás nyújtására vonatkozó egyedi forgalmi engedély iránti kérelem tartalma
 
 I.
 

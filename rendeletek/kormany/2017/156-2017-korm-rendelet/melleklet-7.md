@@ -34,7 +34,7 @@
 
 7. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
 
-## A behozatalra vagy beérkezésre és szolgáltatás igénybevételére vonatkozó globális forgalmi engedély iránti kérelem tartalma
+A behozatalra vagy beérkezésre és szolgáltatás igénybevételére vonatkozó globális forgalmi engedély iránti kérelem tartalma
 
 I.
 

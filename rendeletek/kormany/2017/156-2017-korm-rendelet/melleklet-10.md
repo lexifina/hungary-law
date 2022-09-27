@@ -40,7 +40,7 @@
 
 10. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
 
-## Bróker engedély iránti kérelem tartalma
+Bróker engedély iránti kérelem tartalma
 
 I.
 

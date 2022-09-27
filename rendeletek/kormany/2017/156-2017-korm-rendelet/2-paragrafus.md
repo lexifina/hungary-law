@@ -82,9 +82,11 @@ c) amely szoftver vagy technológia szóban, írásos formában, elektronikus ú
 
 24. újrakivitel: az Uniós Vámkódex 270. cikkében foglalt eljárás;
 
-25. vállalkozás: jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre, gazdasági társaság, egyéni cég, egyéni vállalkozó, a költségvetési szerv, valamint határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett vállalkozás;
+25.[^12] vállalkozás: jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre, gazdasági társaság, egyéni cég, egyéni vállalkozó, a költségvetési szerv, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény, valamint határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett vállalkozás;
 
-26. Végfelhasználói Nyilatkozat: az exportőr ország kérésére a végfelhasználó vagy a végfelhasználó országának nyilatkozata arról, hogy a megvásárolt eszközök a végfelhasználó országában a megjelölt céllal kerülnek felhasználásra, továbbá az áru nukleáris, biológiai, illetve vegyi fegyverek fejlesztésére, gyártására és használatára, vagy ilyen fegyverek célba juttatására szolgáló eszköz részeként nem kerül felhasználásra; tartalmazhat újrakivitelt korlátozó záradékot, illetve nyilatkozatot arról, hogy nem kerül továbbértékesítésre az eredeti exportőr ország hozzájárulása nélkül.
+26.[^13] végfelhasználó: a kivitt áruknak a kiviteli engedélykérelem benyújtásakor ismert végső címzettje és tulajdonosa, az ügylet szerződéses feltételeinek megfelelően a 2021. január 15-i (KKBP) 2021/38 tanácsi határozat 3. cikk 1. pontjával összhangban;
+
+27.[^14] Végfelhasználói Nyilatkozat: az exportőr ország kérésére a végfelhasználó vagy a végfelhasználó országának a 13. mellékletben meghatározott adattartalommal benyújtott nyilatkozata arról, hogy a megvásárolt eszközök a végfelhasználó országában a megjelölt céllal kerülnek felhasználásra, továbbá az áru nukleáris, biológiai, illetve vegyi fegyverek fejlesztésére, gyártására és használatára vagy ilyen fegyverek célba juttatására szolgáló eszköz részeként nem kerül felhasználásra; tartalmazhat újrakivitelt korlátozó záradékot, illetve nyilatkozatot arról, hogy nem kerül továbbértékesítésre az eredeti exportőr ország hozzájárulása nélkül.
 
 [^1]: A 2. § 1. pont a) alpontja a 78/2018. (IV. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^2]: A 2. § 1. pont c) alpontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -97,3 +99,6 @@ c) amely szoftver vagy technológia szóban, írásos formában, elektronikus ú
 [^9]: A 2. § 21. pont a) alpontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^10]: A 2. § 21. pont b) alpontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^11]: A 2. § 23. pontja a 165/2019. (VII. 8.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^12]: A 2. § 25. pontja a 360/2022. (IX. 19.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § 26. pontja a 360/2022. (IX. 19.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^14]: A 2. § 27. pontját a 360/2022. (IX. 19.) Korm. rendelet 25. § (3) bekezdése iktatta be.

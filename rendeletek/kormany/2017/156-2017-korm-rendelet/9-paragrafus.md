@@ -2,7 +2,7 @@
 
 9. § (1) A kérelmet el kell utasítani, ha
 
-a)[^19] a kérelmezett tevékenység ellentétes Magyarország kül- és biztonságpolitikai érdekeivel vagy nemzetközileg vállalt kötelezettségeivel,
+a)[^27] a kérelmezett tevékenység ellentétes Magyarország kül- és biztonságpolitikai érdekeivel vagy nemzetközileg vállalt kötelezettségeivel,
 
 b) a kérelmezett tevékenység ellentétes Magyarország ellátásbiztonsági érdekeivel,
 
@@ -20,6 +20,8 @@ h) a kérelmező, tulajdonosa vagy valamely felelős vezetője nem rendelkezik a
 
 i) a haditechnikai eszköz gyártását vagy haditechnikai szolgáltatás nyújtását végző kérelmező nem rendelkezik olyan székhellyel (telephellyel) és eszközökkel, melyek műszakilag alkalmassá teszik a kérelmezett tevékenység végzésére, azok biztonságtechnikailag nem alkalmasak a haditechnikai termék biztonságos mozgatására, szállítására, tárolására és őrzésére.
 
+j)[^28] az 1. melléklet I–IV. fejezetébe tartozó haditechnikai eszköz végleges kivitele esetén a végfelhasználó igazolás hitelességét illetően kétség merül fel.
+
 (2) Az engedélyt vissza kell vonni, ha
 
 a) a kiadásának bármely feltétele megszűnt, vagy
@@ -28,17 +30,18 @@ b) az engedély kiadását követően olyan változás áll be, amely alapján a
 
 (3) A Hatóság a kiadott engedélyt visszavonhatja, ha a vállalkozás e rendeletben foglalt előírásokat, az engedélyben meghatározott feltételeket vagy a kereskedelemre vonatkozó jogszabályi rendelkezéseket megsérti.
 
-(4)[^20] A Hatóság az engedélykérelmek elbírálása, valamint a kiadott engedélyekkel kapcsolatban felmerült új tény, adat, körülmény vizsgálata során a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspont végrehajtására kiadott felhasználói útmutatóban foglaltakat is figyelembe véve jár el.
+(4)[^29] A Hatóság az engedélykérelmek elbírálása, valamint a kiadott engedélyekkel kapcsolatban felmerült új tény, adat, körülmény vizsgálata során a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspont végrehajtására kiadott felhasználói útmutatóban foglaltakat is figyelembe véve jár el.
 
 (5) A Hatóság az (1) bekezdés f) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
 
-(6)[^21]
+(6)[^30]
 
-(7)[^22]
+(7)[^31]
 
 (8) Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek jogszabályban meghatározott tevékenységének ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
 
-[^19]: A 9. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^20]: A 9. § (4) bekezdését újonnan a 443/2021. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
-[^21]: A 9. § (6) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^22]: A 9. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^27]: A 9. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^28]: A 9. § (1) bekezdés j) pontját a 360/2022. (IX. 19.) Korm. rendelet 27. §-a iktatta be.
+[^29]: A 9. § (4) bekezdését újonnan a 443/2021. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^30]: A 9. § (6) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^31]: A 9. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.

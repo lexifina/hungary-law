@@ -4,13 +4,13 @@
 
 (3) A vállalkozás a fel nem használt, papíralapú tranzitengedély okmányokat a Hatóság részére köteles a lejáratot követő 15 napon belül visszaküldeni.
 
-(4)[^34] Tranzit esetében az áru Európai Unió belső határán történő kilépését a tranzitengedéllyel rendelkező vállalkozás köteles a szállítmány kilépését követő 5 napon belül a Hatóság részére írásos formában bejelenteni, és ezt követően az engedély eredeti példányát 15 napon belül megküldeni a Hatóság részére.
+(4)[^45] Tranzit esetében az áru Európai Unió belső határán történő kilépését a tranzitengedéllyel rendelkező vállalkozás köteles a szállítmány kilépését követő 5 napon belül a Hatóság részére írásos formában bejelenteni, és ezt követően az engedély eredeti példányát 15 napon belül megküldeni a Hatóság részére.
 
 (5) A vállalkozás a felhasznált vagy a nem hatályos papíralapú globális és egyedi forgalmi engedély, valamint a 258/2012/EU rendelet szerinti kiviteli engedély okmányok másolati példányát köteles megküldeni a Hatóság részére.
 
 (6) A vállalkozások a kiszállításra és beérkezésre vonatkozó általános, globális és egyedi forgalmi engedélyeik alapján történő szállítás esetén a szállítás megkezdésének időpontját megelőzően legalább 3 nappal kötelesek azt a tervezett útvonallal – közúti szállítás esetén a szállító jármű forgalmi rendszámával – együtt, a vonatkozó engedély számára hivatkozással írásos formában bejelenteni az eljárás tekintetében az illetékes behozatali, illetve a kiviteli vámhivatal részére. Az így bejelentett adatokban bekövetkező változásokat a vállalkozások soron kívül kötelesek jelezni az eljárás tekintetében területileg illetékes behozatali, illetve a kiviteli vámhivatal részére.
 
-(7)[^35] A tranzitengedéllyel rendelkező vállalkozás köteles a szállítmánynak Magyarország határára történő megérkezését megelőzően tájékoztatni a Hatóságot, valamint az Országos Rendőr-főkapitányságot a tranzitengedély számának, az érkező áruk megnevezésének és mennyiségének, a Magyarországra történő be- és a Magyarországról történő kilépés helyének és várható időpontjának, a szállítójárművek forgalmi rendszámának, illetve a magyarországi útvonalnak a megadásával.
+(7)[^46] A tranzitengedéllyel rendelkező vállalkozás köteles a szállítmánynak Magyarország határára történő megérkezését megelőzően tájékoztatni a Hatóságot, valamint az Országos Rendőr-főkapitányságot a tranzitengedély számának, az érkező áruk megnevezésének és mennyiségének, a Magyarországra történő be- és a Magyarországról történő kilépés helyének és várható időpontjának, a szállítójárművek forgalmi rendszámának, illetve a magyarországi útvonalnak a megadásával.
 
-[^34]: A 29. § (4) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
-[^35]: A 29. § (7) bekezdését a 309/2022. (VIII. 11.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^45]: A 29. § (4) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^46]: A 29. § (7) bekezdését a 309/2022. (VIII. 11.) Korm. rendelet 12. § (1) bekezdése iktatta be.
