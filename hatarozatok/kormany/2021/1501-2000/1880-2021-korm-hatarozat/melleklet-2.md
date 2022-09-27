@@ -1,6 +1,6 @@
 2. melléklet az 1880/2021. (XII. 7.) Korm. határozathoz
 
-## Az 1. melléklet 1. és 2. pontja szerinti felelős szervek rövid megjelölésére vonatkozó jegyzék
+Az 1. melléklet 1. és 2. pontja szerinti felelős szervek rövid megjelölésére vonatkozó jegyzék
 
 1. HM KÁT ÁT: Honvédelmi Minisztérium Közigazgatási Államtitkár Államtitkári Titkárság
 

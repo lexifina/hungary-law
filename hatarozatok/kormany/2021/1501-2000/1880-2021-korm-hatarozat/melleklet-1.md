@@ -6,17 +6,17 @@
 
 ## 4. Ha a gyakorlat jellege azt indokolja, az 1. pont szerinti engedély az 1. mellékletben meghatározott időtartamokon belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri határátlépésére is vonatkozik.
 
-## 5.[^1] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 27., 30., 31., 35., 39., 40., 41. és 42. sora, valamint az 1. melléklet 2. pontjában foglalt táblázat 36., 37., 45. és 46. sora szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
+## 5.[^2] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 27., 30., 31., 35., 39., 40., 41. és 42. sora, valamint az 1. melléklet 2. pontjában foglalt táblázat 36., 37., 45. és 46. sora szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
 
 ## 6. Az 1. melléklet 1. és 2. pontja szerinti felelős szervek rövid megjelölésére vonatkozó jegyzéket a 2. melléklet tartalmazza.
 
 ## 7. Ez a határozat 2022. január 1-jén lép hatályba.
 
-## 8.[^2]
+## 8.[^3]
 
-1. melléklet az 1880/2021. (XII. 7.) Korm. határozathoz[^3]
+1. melléklet az 1880/2021. (XII. 7.) Korm. határozathoz[^4]
 
-## A 2022. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
+A 2022. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 1. A Magyar Honvédség részvételével tervezett, külföldi fegyveres erők átvonulásával is járó NATO-, EU-gyakorlatok és kiképzési rendezvények
 
@@ -129,6 +129,8 @@
 | 53. | TACTICAL LEADERSHIP PROGRAM (TLP21) harcászati szintű nemzetközi repülő képzés | MHP HSZ LE | Spanyolország | I–IV. negyedév | 50 |
 
 | 54. | NORTHEN STRIKE | MHP HSZ KM | USA | II. negyedév | 20 |
+
+| 55. | Quick Response 2022 | MHP HDMCSF | Bosznia-Hercegovina | IV. negyedév | 16 |
 
 2. A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
@@ -346,6 +348,6 @@
 
 | 28. | Az Európában Települő Amerikai Erők Parancsnoksága által 2022 évben végrehajtásra tervezett gyakorlatokon részt vevő erők áthaladása | I–IV. negyedév | egyidejűleg legfeljebb 1000 fő |
 
-[^1]: Az 5. pont az 1118/2022. (III. 5.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet az 1118/2022. (III. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1118/2022. (III. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1118/2022. (III. 5.) Korm. határozat 2. pontja, az 1461/2022. (IX. 26.) Korm. határozat 1. pontja szerint módosított szöveg.
