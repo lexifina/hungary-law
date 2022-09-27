@@ -1,4 +1,4 @@
-20/A. §[^11] (1) Nemzeti Kiválóság Díj a vezetés minőség iránti elkötelezettsége, a humánerőforrás-gazdálkodás, a szervezeti célkitűzések és stratégiák, az alkalmazott értékteremtő folyamatok irányítása, a fenntarthatósági szempontok és üzleti eredmények területén kiemelkedő teljesítményt és eredményt elérő belföldi székhelyű gazdálkodó szervezetek teljesítményének elismeréséért adományozható.
+20/A. §[^13] (1) Nemzeti Kiválóság Díj a vezetés minőség iránti elkötelezettsége, a humánerőforrás-gazdálkodás, a szervezeti célkitűzések és stratégiák, az alkalmazott értékteremtő folyamatok irányítása, a fenntarthatósági szempontok és üzleti eredmények területén kiemelkedő teljesítményt és eredményt elérő belföldi székhelyű gazdálkodó szervezetek teljesítményének elismeréséért adományozható.
 
 (2) Évente legfeljebb öt díj ítélhető oda, a pályázati kiírásban rögzített kategóriában.
 
@@ -6,4 +6,4 @@
 
 (4) A díj adományozására a nemzetközi minőségügyi világnap alkalmából vagy kiemelkedő szakmai alkalom, esemény, évforduló alkalmából, illetve a miniszter által kijelölt időpontban kerülhet sor.
 
-[^11]: A 20/A. §-t a 49/2020. (XII. 16.) ITM rendelet 4. §-a iktatta be.
+[^13]: A 20/A. §-t a 49/2020. (XII. 16.) ITM rendelet 4. §-a iktatta be.

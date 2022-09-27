@@ -2,7 +2,7 @@
 
 a) március 15-i nemzeti ünnep,
 
-b) fogyasztóvédelmi világnap (március 15.),
+b)[^8]
 
 c) Föld napja (április 22.),
 
@@ -30,9 +30,9 @@ n) Borbála-nap (december 4.),
 
 o) nemzetközi polgári repülés világnapja (december 7.),
 
-p)[^7] nemzetközi minőségügyi világnap (november 12.),
+p)[^9] nemzetközi minőségügyi világnap (november 12.),
 
-q)[^8] kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter által kijelölt időpont.
+q)[^10] kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter által kijelölt időpont.
 
 (2) Az elismeréseket a miniszter vagy az általa megbízott személy ünnepélyes keretek között adja át. A miniszter által megbízott személy az adományozást nem delegálhatja tovább.
 
@@ -48,5 +48,6 @@ q)[^8] kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter �
 
 (8) Az elismerések adományozásáról, illetve visszavonásáról rendelkező miniszteri közleményt a minisztérium honlapján, valamint a Hivatalos Értesítőben közzé kell tenni.
 
-[^7]: Az 5. § (1) bekezdés p) pontja a 49/2020. (XII. 16.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (1) bekezdés q) pontját a 49/2020. (XII. 16.) ITM rendelet 3. § (2) bekezdése iktatta be.
+[^8]: Az 5. § (1) bekezdés b) pontját a 19/2022. (IX. 26.) IM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^9]: Az 5. § (1) bekezdés p) pontja a 49/2020. (XII. 16.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés q) pontját a 49/2020. (XII. 16.) ITM rendelet 3. § (2) bekezdése iktatta be.

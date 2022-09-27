@@ -1,4 +1,4 @@
-24. § (1)[^12] Az Információs Társadalomért szakmai érem az informatika szakterület, a számítástechnikai kultúra, valamint az információs társadalom fejlesztése érdekében végzett magas színvonalú, eredményes munka elismeréséért adományozható.
+24. § (1)[^14] Az Információs Társadalomért szakmai érem az informatika szakterület, a számítástechnikai kultúra, valamint az információs társadalom fejlesztése érdekében végzett magas színvonalú, eredményes munka elismeréséért adományozható.
 
 (2) Évente legfeljebb 6 érem adományozható.
 
@@ -6,4 +6,4 @@
 
 (4) Az érem adományozására az október 23-i nemzeti ünnep alkalmából kerülhet sor.
 
-[^12]: A 24. § (1) bekezdése a 47/2021. (IX. 14.) ITM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 24. § (1) bekezdése a 47/2021. (IX. 14.) ITM rendelet 4. §-ával megállapított szöveg.

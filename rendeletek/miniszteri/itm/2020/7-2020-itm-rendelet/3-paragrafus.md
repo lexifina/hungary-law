@@ -12,7 +12,7 @@ e) szakképzéssel és felnőttképzéssel foglalkozó köznevelési intézmény
 
 f) az Ipar 4.0 Nemzeti Technológiai Platform Szövetség elnöke
 
-## kezdeményezheti, ha az elismerés célja a kezdeményező szakmai tevékenységéhez kapcsolódik.
+kezdeményezheti, ha az elismerés célja a kezdeményező szakmai tevékenységéhez kapcsolódik.
 
 (2) Az adományozást
 
@@ -24,6 +24,6 @@ c) a Kiváló Bányász kitüntető cím esetében a szakma reprezentatív munka
 
 d) a Gyimesi Zoltán-díj esetében az OAH főigazgatója és az OAH Tudományos Tanácsának elnöke együttesen
 
-## kezdeményezhetik.
+kezdeményezhetik.
 
 (3) Az elismerés adományozására vonatkozó javaslatot az elismerés adományozásának tervezett időpontja előtt legalább három hónappal a miniszternek címezve – az 1. melléklet szerinti formai és tartalmi követelmények szerint, valamint a 2. melléklet csatolásával – kell benyújtani a minisztérium elismeréshez kapcsolódó szakterületért felelős önálló szervezeti egységéhez.
