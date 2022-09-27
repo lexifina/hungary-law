@@ -1,0 +1,1 @@
+2. § A Magyar Államkincstár és a Magyar Nemzeti Bank a helyi iparűzési adóelőleg, helyi iparűzési adó fizetési kötelezettségének euró vagy amerikai dollár devizanemben történő fizetése során tudomására jutott adótitkot az 1. §-ban meghatározott cél érdekében az adótitok tudomására jutása évének utolsó napjától számított 5 évig kezeli.
