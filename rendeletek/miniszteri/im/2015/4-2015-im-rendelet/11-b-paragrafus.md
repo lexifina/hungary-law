@@ -1,6 +1,6 @@
-11/B. §[^16] (1) Isépy Tamás Emlékérem széles körben köztiszteletben álló, kiemelkedő jogászi- közéleti tevékenység elismeréseként adományozható.
+11/B. §[^14] (1) Isépy Tamás Emlékérem széles körben köztiszteletben álló, kiemelkedő jogászi- közéleti tevékenység elismeréseként adományozható.
 
-(2)[^17] A díj évente legfeljebb 1 fő részére adományozható.
+(2)[^15] A díj évente legfeljebb 1 fő részére adományozható.
 
 (3) A díj átadására március 20-án, Isépy Tamás születésnapján kerülhet sor.
 
@@ -8,5 +8,5 @@
 
 (5) A díjhoz 800 000 Ft összegű pénzjutalom jár.
 
-[^16]: A 11/B. §-t a 23/2015. (IX. 14.) IM rendelet 2. §-a iktatta be.
-[^17]: A 11/B. § (2) bekezdése a 4/2018. (I. 18.) IM rendelet 4. §-a szerint módosított szöveg.
+[^14]: A 11/B. §-t a 23/2015. (IX. 14.) IM rendelet 2. §-a iktatta be.
+[^15]: A 11/B. § (2) bekezdése a 4/2018. (I. 18.) IM rendelet 4. §-a szerint módosított szöveg.

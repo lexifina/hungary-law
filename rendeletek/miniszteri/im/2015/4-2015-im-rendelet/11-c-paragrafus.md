@@ -1,4 +1,4 @@
-11/C. §[^18] (1) Sulyok Dezső Emlékérem széles körben köztiszteletben álló, jogászi, valamint a demokratikus jogállamiságért tett tevékenység elismeréseként adományozható.
+11/C. §[^16] (1) Sulyok Dezső Emlékérem széles körben köztiszteletben álló, jogászi, valamint a demokratikus jogállamiságért tett tevékenység elismeréseként adományozható.
 
 (2) A díj évente legfeljebb 1 fő részére adományozható.
 
@@ -8,4 +8,4 @@
 
 (5) A díjhoz 800 000 Ft összegű pénzjutalom jár.
 
-[^18]: A 11/C. §-t a 4/2018. (I. 18.) IM rendelet 2. §-a iktatta be.
+[^16]: A 11/C. §-t a 4/2018. (I. 18.) IM rendelet 2. §-a iktatta be.

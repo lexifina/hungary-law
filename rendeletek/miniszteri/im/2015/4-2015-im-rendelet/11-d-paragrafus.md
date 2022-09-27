@@ -1,4 +1,4 @@
-11/D. §[^19] (1) A Victima Protector díj az áldozatsegítési tevékenység körében kimagasló, tartósan magas színvonalú szakmai munkát végző, az általános rendőrségi feladatok ellátására létrehozott szerv személyi állományába tartozó személy részére adományozható.
+11/D. §[^17] (1)[^18] Victima Protector díj az áldozatsegítési tevékenység körében kimagasló, tartósan magas színvonalú szakmai munkát végző, az általános rendőrségi feladatok ellátására létrehozott szerv személyi állományába tartozó személy részére adományozható.
 
 (2) A díj adományozását – a 3. § (1) bekezdésében foglaltaktól eltérően – az országos rendőrfőkapitány kezdeményezheti a miniszternél.
 
@@ -10,4 +10,5 @@
 
 (6) A díjhoz nettó 100 000 Ft összegű pénzjutalom jár.
 
-[^19]: A 11/D. §-t a 14/2021. (XI. 25.) IM rendelet 2. §-a iktatta be.
+[^17]: A 11/D. §-t a 14/2021. (XI. 25.) IM rendelet 2. §-a iktatta be.
+[^18]: A 11/D. § (1) bekezdése a 19/2022. (IX. 26.) IM rendelet 6. § b) pontja szerint módosított szöveg.
