@@ -1,5 +1,3 @@
-## kell figyelembe venni.
-
 ## 3. A teljesítményértékelés ajánlott elemeire, valamint a minősítésre vonatkozó értékelési lapok
 
 3. § (1) A közszolgálati tisztviselő stratégiai egyéni teljesítménykövetelményeit szövegesen kell meghatározni az 1. melléklet „A rész” vagy „B rész” szerinti értékelő lapon, attól függően, hogy az adott teljesítménykövetelmény teljesítése mérhető vagy értékelhető.

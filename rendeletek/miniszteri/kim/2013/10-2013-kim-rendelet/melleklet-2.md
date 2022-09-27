@@ -1,4 +1,4 @@
-## Értékelő lap a stratégiai egyéni teljesítménykövetelmények meghatározásáról, méréséről, illetve értékeléséről
+## 3K63233_0
 
 |  | s.sz. | Teljesítménykövetelmények | A mérés, illetve értékelés formája és az értékelő funkciója | Teljesítményfokozatok |
 
@@ -39,3 +39,5 @@
 |  | értékelt személy |  |  |  |  |  |  |  |  |  |  |  |  |  | értékelő vezető |
 
 2. melléklet a 10/2013. (VI. 30.) KIM rendelethez
+
+Értékelő lap az egyéni fejlesztési cél meghatározásáról, méréséről, illetve értékeléséről

@@ -1,4 +1,4 @@
-## Értékelő lap az egyéni fejlesztési cél meghatározásáról, méréséről, illetve értékeléséről
+## 3K63234_0
 
 |  | s.sz. | Teljesítménykövetelmények | A mérés, illetve értékelés formája és az értékelő funkciója | Teljesítményfokozatok |
 
@@ -41,3 +41,5 @@
 |  | értékelt személy |  |  |  |  |  |  |  |  |  |  |  |  |  | értékelő vezető |
 
 3. melléklet a 10/2013. (VI. 30.) KIM rendelethez
+
+Értékelő lap az év közbeni többletfeladatok meghatározásáról, méréséről, illetve értékeléséről

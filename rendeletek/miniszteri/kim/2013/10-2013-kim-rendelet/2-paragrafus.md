@@ -15,3 +15,5 @@ bb) három ajánlott elem alkalmazása esetén elemenként 10%-ban,
 bc) kettő ajánlott elem alkalmazása esetén elemenként 15%-ban, és
 
 bd) egy ajánlott elem alkalmazása esetén 30%-ban
+
+kell figyelembe venni.

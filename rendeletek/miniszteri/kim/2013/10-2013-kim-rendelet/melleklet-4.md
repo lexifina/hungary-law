@@ -1,4 +1,4 @@
-## Értékelő lap az év közbeni többletfeladatok meghatározásáról, méréséről, illetve értékeléséről
+## 3K63235_0
 
 |  | s.sz. | Teljesítménykövetelmények | A mérés, illetve értékelés formája és az értékelő funkciója | Teljesítményfokozatok |
 
@@ -39,3 +39,5 @@
 |  | értékelt személy |  |  |  |  |  |  |  |  |  |  |  |  |  | értékelő vezető |
 
 4. melléklet a 10/2013. (VI. 30.) KIM rendelethez
+
+Értékelő lap a közszolgálati tisztviselők részére meghatározott kompetenciákról és a kompetenciaszintek értékeléséről

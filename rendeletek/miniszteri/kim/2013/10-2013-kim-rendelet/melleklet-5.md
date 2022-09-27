@@ -1,4 +1,4 @@
-## Értékelő lap a közszolgálati tisztviselők részére meghatározott kompetenciákról és a kompetenciaszintek értékeléséről
+## 3K63236_0
 
 | s.sz. | Kompetencia | Az értékelő funkciója | Teljesítményfokozatok |
 
@@ -39,3 +39,5 @@
 |  | értékelt személy |  |  |  |  |  |  |  |  |  |  |  |  | értékelő vezető |
 
 5. melléklet a 10/2013. (VI. 30.) KIM rendelethez
+
+Minősítési lap

@@ -1,4 +1,4 @@
-## Minősítési lap
+## 3K63237_0
 
 |  | s.sz. | Értékelési modul | Az értéke- lés ideje | Az értékelő funkciója | Teljesítményfokozatok |
 
@@ -68,7 +68,7 @@
 
 6. melléklet a 10/2013. (VI. 30.) KIM rendelethez[^2]
 
-## Módszertan a közszolgálati tisztviselők egyéni teljesítményértékelési szabályainak alkalmazásához
+Módszertan a közszolgálati tisztviselők egyéni teljesítményértékelési szabályainak alkalmazásához
 
 1. Általános rendelkezések
 
@@ -118,7 +118,7 @@ A módszertan az egységes és integrált közszolgálati teljesítményértéke
 
 1.4. Egyéb módszertani támogatás
 
-Jelen módszertan mellett a teljesítményértékelések elvégzéséhez a Közigazgatási és Igazságügyi Hivatal (a továbbiakban: személyügyi központ) módszertani támogatást nyújt.
+## Jelen módszertan mellett a teljesítményértékelések elvégzéséhez a személyügyi központ módszertani támogatást nyújt.
 
 2. A teljesítményértékelés szereplői
 
@@ -172,25 +172,21 @@ Amennyiben a közigazgatási szerv a személyügyi központ által üzemeltetett
 
 2.2. A teljesítményértékelés felügyelete, országos szintű irányítása
 
-2.2.1. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter feladatai
+2.2.1. A Kttv. 130. § (8) bekezdése alapján a személyügyi központ vezetője – a helyi önkormányzatok tekintetében a fővárosi és megyei kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, a minősítésre vonatkozó szabályok és módszertani előírások betartását.
 
-A Kttv. 130. § (8) bekezdése alapján a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter (a továbbiakban: miniszter) – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, a minősítésre vonatkozó szabályok és módszertani előírások betartását.
+2.2.2. Az operatív feladatok vonatkozásában országos hatáskörrel rendelkező személyügyi központ a teljesítményértékelés működtetése kapcsán a következő feladatokat látja el:
 
-2.2.2. A személyügyi központ feladatai
+a) módszertani támogatást nyújt a teljesítményértékelések elvégzéséhez;
 
-Az operatív feladatok vonatkozásában országos hatáskörrel rendelkező személyügyi központ a teljesítményértékelés működtetése kapcsán a következő feladatokat látja el:
+b) előkészíti a módszertan módosítását;
 
-- módszertani támogatást nyújt a teljesítményértékelések elvégzéséhez;
+c) monitoring tevékenységet végez a folyamat tekintetében;
 
-- előkészíti a módszertan módosítását;
+d) lefolytatja a közigazgatási szerv értékelő vezetőinek, helyi szervezeti támogatóinak a felkészítését;
 
-- monitoring tevékenységet végez a folyamat tekintetében;
+e) informatikai háttértámogatást nyújt;
 
-- lefolytatja a közigazgatási szerv értékelő vezetőinek, helyi szervezeti támogatóinak a felkészítését;
-
-- informatikai háttértámogatást nyújt;
-
-- a miniszter által meghatározott szempontrendszer alapján minden év március 31-ig jelentést készít a tárgyévet megelőző év teljesítményértékelésének tapasztalatairól.
+f) minden év március 31-ig jelentést készít a tárgyévet megelőző év teljesítményértékelésének tapasztalatairól.
 
 3. A teljesítményértékelés elemei
 
@@ -352,6 +348,8 @@ A teljesítményértékelést egységes szempontok és egyező mérőskála seg�
 
 Valamennyi teljesítményértékelési elem esetében öt teljesítményfokozat lett kialakítva, százalékban kifejezett értékhatárok, illetve értéksávok megadásával. Ezek az alábbiak:
 
+## 9K02158M_0
+
 | A | szint | = | kivételes teljesítmény | 100 – 91 % |
 
 | B | szint | = | jó teljesítmény | 90 – 71 % |
@@ -362,11 +360,11 @@ Valamennyi teljesítményértékelési elem esetében öt teljesítményfokozat 
 
 | E | szint | = | elfogadhatatlan teljesítmény | 40 – 0 % |
 
-Az értékelő vezetőnek az a feladata, hogy a 0 – 100 % terjedő mérőskálán az egyes elemeknek a teljesítményértékeléseknél felhasznált metódusának megfelelően – az értékeléseknél egy, a méréseknél pedig a szükséges mennyiségű jelöléssel – meghatározza a teljesítményértékelés eredményét. Az értékelési tényezőnként (eredmény, határidő, mérőszámok, indikátorok) valamint a kompetenciánként megítélt teljesítményfokozathoz tartozó százalékos értékek – az informatikai rendszernek köszönhetően – minden esetben automatikusan összeadódnak és kiadják az adott teljesítményértékelés összeredményét.
+## Az értékelő vezetőnek az a feladata, hogy a 0 – 100 % terjedő mérőskálán az egyes elemeknek a teljesítményértékeléseknél felhasznált metódusának megfelelően – az értékeléseknél egy, a méréseknél pedig a szükséges mennyiségű jelöléssel – meghatározza a teljesítményértékelés eredményét. Az értékelési tényezőnként (eredmény, határidő, mérőszámok, indikátorok) valamint a kompetenciánként megítélt teljesítményfokozathoz tartozó százalékos értékek – az informatikai rendszernek köszönhetően – minden esetben automatikusan összeadódnak és kiadják az adott teljesítményértékelés összeredményét.
 
-A teljesítményértékelés eredményének megállapításakor – amennyiben a közigazgatási szerv vezetője nem döntött a teljesítményértékelés ajánlott elemeinek alkalmazásáról – a teljesítményértékelés két kötelező eleme értékelésének, illetve mérésének a részeredményeit egyenlő mértékben (50 % - 50 %-ban) kell figyelembe venni.
+## A teljesítményértékelés eredményének megállapításakor – amennyiben a közigazgatási szerv vezetője nem döntött a teljesítményértékelés ajánlott elemeinek alkalmazásáról – a teljesítményértékelés két kötelező eleme értékelésének, illetve mérésének a részeredményeit egyenlő mértékben (50 % - 50 %-ban) kell figyelembe venni.
 
-A teljesítményértékelés eredményének a megállapításakor – amennyiben a közigazgatási szerv vezetője a teljesítményértékelés ajánlott elemeinek alkalmazásáról döntött –
+## A teljesítményértékelés eredményének a megállapításakor – amennyiben a közigazgatási szerv vezetője a teljesítményértékelés ajánlott elemeinek alkalmazásáról döntött –
 
 a) a teljesítményértékelés két kötelező eleme értékelésének, illetve mérésének a részeredményeit 70 %-os mértékben kell figyelembe venni, úgy, hogy a két kötelező elem értékelésének, illetve mérésének a részeredményeit egyenlő mértékben (35 % - 35 %-ban) kell figyelembe venni,
 
@@ -552,4 +550,4 @@ c) A TÉR rendszer offline használata
 
 A rendszer „egygépes”, hálózat nélkül is működő verziója. A közszolgálati tisztviselők vonatkozásában nem választható.
 
-[^2]: A 6. melléklet a 12/2019. (IV. 12.) IM rendelet 4. §-a szerint módosított szöveg.
+[^2]: A 6. melléklet a 12/2019. (IV. 12.) IM rendelet 4. §-a, a 19/2022. (IX. 26.) IM rendelet 2. §-a szerint módosított szöveg.
