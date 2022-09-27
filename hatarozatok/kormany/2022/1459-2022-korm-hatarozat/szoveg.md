@@ -6,4 +6,6 @@ A Kormány
 
 | Határidő: | azonnal |
 
-2. visszavonja a 2021–2027 közötti időszakban az európai területi együttműködési célkitűzés keretében megvalósuló Interreg CENTRAL EUROPE, Interreg Europe, Interact IV és ESPON 2030 programok elfogadásáról szóló 1675/2021. (IX. 29.) Korm. határozat 3. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
