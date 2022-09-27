@@ -1,1 +1,0 @@
-## 10. § A nukleáris és nukleáris kettős felhasználású termékeknek behozatala, kivitele és transzferje megtörténtét követő nyolc napon belül a magyarországi szerződő félnek e tényről a termék megnevezése, mennyisége, a tervezett felhasználás helye, valamint a szállítás dátuma feltüntetésével írásban tájékoztatnia kell az OAH-t.
