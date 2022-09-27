@@ -4,4 +4,6 @@ a)[^1] munkakör betöltésére, feladat ellátására irányuló foglalkoztatá
 
 b) feladat ellátására irányuló, a Polgári Törvénykönyv szerinti szerződéses jogviszony
 
+minősül az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak.
+
 [^1]: A 2. § a) pontja a 12/2019. (IV. 12.) IM rendelet 6. § a) pontja szerint módosított szöveg.
