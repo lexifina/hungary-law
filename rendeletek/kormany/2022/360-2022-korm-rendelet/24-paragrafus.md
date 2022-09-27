@@ -1,0 +1,3 @@
+## 3. A bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló egyezményből eredő nyilatkozattételi kötelezettségek végrehajtásáról és az ellenőrzés rendjéről szóló 21/2013. (I. 30.) Korm. rendelet módosítása
+
+24. § A bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló egyezményből eredő nyilatkozattételi kötelezettségek végrehajtásáról és az ellenőrzés rendjéről szóló 21/2013. (I. 30.) Korm. rendelet 1. § 1. pontjában az „a 428/2009/EK tanácsi rendelet” szövegrész helyébe az „az (EU) 2021/821 európai parlamenti és tanácsi rendelet” szöveg lép.
