@@ -1,3 +1,3 @@
-30. § A 156/2017. (VI. 16.) Korm. rendelet 36. § (2) bekezdése a következő j) és k) ponttal egészül ki:
+30. §[^31]
 
-(Ez a rendelet)
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-17. § Hatályát veszti a 13/2011. (II. 22.) Korm. rendelet
+17. §[^18]
 
-a) 1. melléklet A) rész 22. pontja,
-
-b) 1. melléklet B) rész 18. pontja.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-8. § A 13/2011. (II. 22.) Korm. rendelet 15. § (6) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(6) Az engedélyben a Kormányhivatal az ügylet lebonyolítására vonatkozóan egyedi feltételeket határozhat meg.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

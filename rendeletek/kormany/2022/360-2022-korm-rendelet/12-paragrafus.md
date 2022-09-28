@@ -1,3 +1,3 @@
-12. § A 13/2011. (II. 22.) Korm. rendelet 22. § (4) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(4) Az Igazolás a kiállításától számított két éven belül megvalósuló behozatalhoz, szállításhoz használható fel.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

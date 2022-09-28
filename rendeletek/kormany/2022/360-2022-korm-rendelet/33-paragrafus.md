@@ -1,5 +1,3 @@
-33. § Hatályát veszti a 156/2017. (VI. 16.) Korm. rendelet
+33. §[^34]
 
-a) 7. § (4) bekezdése,
-
-b) 8. § (2) bekezdésében a „ , valamint a védelmi fejlesztésekért felelős kormánybiztos” szövegrész.
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

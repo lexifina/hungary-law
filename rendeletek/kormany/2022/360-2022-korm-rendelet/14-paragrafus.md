@@ -1,3 +1,3 @@
-14. § A 13/2011. (II. 22.) Korm. rendelet 32. § (1) bekezdése a következő g) ponttal egészül ki:
+14. §[^15]
 
-(Ez a rendelet)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

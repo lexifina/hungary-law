@@ -1,3 +1,3 @@
-13. § A 13/2011. (II. 22.) Korm. rendelet 26. § (4) bekezdése helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„(4) A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék kivitelével kapcsolatos engedélyezési eljárásra az egyedi exportengedélyre vonatkozó szabályok irányadók, azzal, hogy az engedélykérelemhez a kérelmezőnek be kell nyújtania a 3. § (2) bekezdés b) pontjában és a 3. § (3) bekezdésében meghatározott iratot, valamint a cégjegyzésre jogosult személy azon nyilatkozatát, amelyben kötelezettséget vállal arra, hogy a vonatkozó nemzetközi szankcióban elrendelt kereskedelmi korlátozó intézkedést és a kapcsolódó exportellenőrzési szabályokat ismeri és betartja.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

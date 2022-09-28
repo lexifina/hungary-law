@@ -1,3 +1,3 @@
-7. § A 13/2011. (II. 22.) Korm. rendelet 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(4) Az engedélyben a termék kiszállítására vonatkozóan a Kormányhivatal a kérelem tárgyára vonatkozó összes körülmény figyelembevételével eseti feltételeket határozhat meg.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
