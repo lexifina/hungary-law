@@ -1,1 +1,3 @@
-2. § A közszolgálati tisztviselők egyéni teljesítményértékelésről szóló 10/2013. (VI. 30.) KIM rendelet 6. melléklete az 1. melléklet szerint módosul.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-6. § Az igazságügyi miniszter által adományozható elismerésekről szóló 4/2015. (III. 3.) IM rendelet
+6. §[^7]
 
-a) 11/A. § (1) bekezdésében a „Vladár Gábor-díj” szövegrész helyébe a „Vladár Gábor Emlékérem” szöveg,
-
-b) 11/D. § (1) bekezdésében az „A Victima Protector” szövegrész helyébe a „Victima Protector” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

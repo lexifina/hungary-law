@@ -1,3 +1,3 @@
-8. § A Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 5/2019. (III. 13.) IM rendelet 13. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(A jogszabály megalkotójának teljes megjelölése)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
