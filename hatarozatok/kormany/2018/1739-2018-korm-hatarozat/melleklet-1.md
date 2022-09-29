@@ -2,13 +2,11 @@
 
 ## 2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – az agrárminiszter bevonásával – gondoskodjon az a)–c) alpont szerinti ingatlanok alpontokban megnevezett társaságok részére történő vagyonkezelésbe adásáról:
 
-## a) a Badacsonytördemic, Rodostói turistaház (a továbbiakban: Rodostói turistaház) – Badacsonytördemic, külterület 044/40 helyrajzi szám alatti ingatlan – a Bakonyerdő Erdészeti és Faipari Zártkörűen Működő Részvénytársaság részére,
+## a)[^1]
 
 ## b) a Kisgyóni Turistacentrum – Balinka, belterület 702, 706/3, 707, 708, 709, 710 és 711 helyrajzi szám alatti ingatlan – a VADEX Mezőföldi Erdő- és Vadgazdálkodási Zártkörűen Működő Részvénytársaság részére, valamint
 
-## c)[^1]
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+## c)[^2] Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## agrárminiszter
 
@@ -16,7 +14,7 @@
 
 ## 3. egyetért azzal, hogy a Nemzeti Sportközpontok részére a 2014–2017. években a Program megvalósítása céljából biztosított összesen 1 250 000 000 forint elszámolása során a Téry Ödön Nemzeti Turistaház-fejlesztési Programmal kapcsolatos intézkedésekről szóló 1377/2015. (VI. 9.) Korm. határozatban [a továbbiakban: 1377/2015. (VI. 9.) Korm. határozat] jelen kormányhatározat közzétételét megelőzően megállapított rendelkezései kerüljenek alkalmazásra;
 
-## 4. felhívja a pénzügyminisztert, hogy – a miniszterelnök kabinetfőnökével együttműködve – gondoskodjon a 3. pont szerinti elszámolás eredményeként a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 15. Téry Ödön Nemzeti Turistaház-fejlesztési Program jogcímcsoporton (a továbbiakban: jogcímcsoport) keletkező bevételen felül a Rodostói turistaház és a Kisgyóni Turistacentrum fejlesztéséhez szükséges forrás biztosításáról a jogcímcsoport részére;
+## 4.[^3] felhívja a pénzügyminisztert, hogy – a miniszterelnök kabinetfőnökével együttműködve – gondoskodjon a 3. pont szerinti elszámolás eredményeként a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 15. Téry Ödön Nemzeti Turistaház-fejlesztési Program jogcímcsoporton (a továbbiakban: jogcímcsoport) keletkező bevételen felül a Kisgyóni Turistacentrum fejlesztéséhez szükséges forrás biztosításáról a jogcímcsoport részére;
 
 ## Felelős: pénzügyminiszter
 
@@ -40,7 +38,7 @@
 
 ## Határidő: a 2020–2022. évekre vonatkozó költségvetési törvények tervezésekor
 
-## 8.[^2]
+## 8.[^4]
 
 1. melléklet az 1739/2018. (XII. 20.) Korm. határozathoz
 
@@ -60,5 +58,7 @@
 
 | 7. | Szalamandra Ház és Erdei Iskola | korszerűsítés | 34 000 000 | Aggteleki Nemzeti Park Igazgatóság |
 
-[^1]: A 2. pont c) alpontját az 1384/2020. (VII. 10.) Korm. határozat 3. pontja visszavonta.
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a) pontot az 1466/2022. (IX. 29.) Korm. határozat 1. pontja visszavonta.
+[^2]: A 2. pont c) alpontját az 1384/2020. (VII. 10.) Korm. határozat 3. pontja visszavonta.
+[^3]: A 4. pontja az 1466/2022. (IX. 29.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

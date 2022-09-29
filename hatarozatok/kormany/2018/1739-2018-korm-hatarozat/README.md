@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1739-30
 | 2018-12-20 | 2018-1739-30-22.1 | 1739/2018. (XII. 20.) Korm. határozat |
 | 2018-12-21 | 2018-1739-30-22.2 | 2010: CXXX. törvény |
 | 2020-07-10 | 2018-1739-30-22.3 | 1384/2020. (VII. 10.) Korm. határozat |
+| 2022-09-29 | 2018-1739-30-22.4 | 1466/2022. (IX. 29.) Korm. határozat |
