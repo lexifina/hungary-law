@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján, bal oldalon Hugonnai Vilma teljes alakos ábrázolása, középen egy orvosi diploma stilizált részlete, jobb oldalon orvosi váróban ülő nőalakok ábrázolása látható. Az előlap bal oldali szélén, lent, két egymás alatti sorban a „2022” verési évszám és a „BP.” verdejel, az előlap jobb oldali szélén, fent, köriratban a „MAGYARORSZÁG” felirat, lent, két egymástól kissé eltolt sorban a „2000” értékjelzés és a „FORINT” felirat olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Hugonnai Vilma portréja látható. A portrétól balra, két egymás alatti sorban Hugonnai Vilma születésének és halálának évét jelölő, „1847” és „1922” felirat, a portrétól jobbra, két egymás alatti sorban a „HUGONNAI” és a „VILMA” felirat olvasható. A hátlap szélén, a portrétól jobbra, fent, köriratban „AZ ELSŐ MAGYAR ORVOSNŐ” felirat olvasható, lent, jobb oldalon – a portré ábrázolásába illesztve – Szabó Virág tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
