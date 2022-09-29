@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért a Záhony széles állomáson és Fényeslitke Déli rendező állomáson szükséges összesen 2970 méter széles és 4618 méter normál nyomtávú vágányfejlesztéssel, 18 kitérő átépítésével, valamint a kapcsolódó biztonsági-berendezési, térvilágítási és felsővezetéki beavatkozásokkal;
+1.[^1] egyetért a Záhony széles állomáson, Záhony-Rendező állomáson, Fényeslitke Déli rendező állomáson, valamint Eperjeske-Rendező állomáson 17 932 méter normál nyomtávú és 2475 méter széles nyomtávú vágányfejlesztéssel, 11 kitérő átépítésével, valamint a kapcsolódó biztonsági-berendezési és térvilágítási beavatkozásokkal.
 
 2. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter az 1. pont szerinti feladatok végrehajtása érdekében a 2022. évben a szabad előirányzatot meghaladó mértékű, 12 406 379 600 forint összegben kötelezettséget vállaljon a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 2. Vasúti fejlesztések jogcím terhére;
 
@@ -17,3 +17,5 @@ Határidő: a felmerülés ütemében
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
+
+[^1]: Az 1. pont az 1468/2022. (IX. 29.) Korm. határozat 2. pontjával megállapított szöveg.
