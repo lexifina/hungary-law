@@ -1,0 +1,1 @@
+20. § Az eljáró szervek a támogatást igénylő vagy a végső kedvezményezett által benyújtott bármely dokumentum tekintetében a nyilvánvaló hibát kijavíthatják, amelyről a támogatást igénylőt vagy a végső kedvezményezettet – indokolt esetben – értesítik.

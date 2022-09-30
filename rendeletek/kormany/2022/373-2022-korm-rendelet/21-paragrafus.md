@@ -1,0 +1,1 @@
+21. § A nemzeti hatóság és – kijelölése esetén – a lebonyolító szerv és továbbadott támogatást nyújtó szerv gondoskodik a működésükkel kapcsolatos megfelelő ellenőrzési nyomvonal és kockázatkezelési eljárásrend kialakításáról.

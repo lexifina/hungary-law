@@ -1,0 +1,5 @@
+154. § (1) Az európai uniós forrásból nyújtott költségvetési támogatás kezelésére kincstári fizetési számlával rendelkező végső kedvezményezett köteles visszafizetni a támogatási előleget, ha nem nyújt be időközi kifizetési igénylést a támogatási előleg kifizetésétől számított tizenkét hónapon belül, vagy az időközi kifizetési igénylés vagy más körülmény a támogatás nem rendeltetésszerű felhasználását bizonyítja.
+
+(2) Az európai uniós forrásból nyújtott költségvetési támogatás kezelésére kincstári fizetési számlával nem rendelkező végső kedvezményezett köteles visszafizetni a támogatási előleget, ha nem nyújt be a kifizetett támogatási előleg legalább 60%-ával megegyező mértékű időközi kifizetési igénylést a támogatási előleg kifizetésétől számított tizenkét hónapon belül, vagy az időközi kifizetési igénylés vagy más körülmény a támogatás nem rendeltetésszerű felhasználását bizonyítja.
+
+(3) Rendeltetésszerű a támogatás felhasználása, ha az időközi kifizetési igénylés az ellenőrzési szempontoknak megfelel, és a bizonylatok egy része vagy egésze jóváhagyásra kerül.

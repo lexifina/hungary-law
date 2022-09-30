@@ -1,0 +1,1 @@
+152. § Ha a végső kedvezményezett a támogatási előleg igénylésére irányuló kérelmét a támogatási szerződés hatálybalépése előtt benyújtja, a kérelem beérkezési dátumának a támogatási szerződés hatálybalépése minősül.

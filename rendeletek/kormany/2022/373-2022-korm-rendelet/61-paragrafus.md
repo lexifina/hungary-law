@@ -1,0 +1,1 @@
+61. § Amennyiben a HET végrehajtása során a jóváhagyott mérföldkövek és célértékek teljesítése érdekében, vagy bármely más okból a jóváhagyott HET intézkedési lista módosítása válik indokolttá, a módosított HET intézkedési lista előkészítése és jóváhagyása során az 53. § és az 54. § szerint kell eljárni.

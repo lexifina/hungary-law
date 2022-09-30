@@ -1,0 +1,3 @@
+124. § (1) A nemzeti hatóság szabálytalansági eljárást indít, ha a szerződésmódosítás vonatkozásában a 116. § szerinti utóellenőrzés eredményeként a nemzeti hatóság nem támogató tartalmú nyilatkozatot vagy a 117–119. § szerinti utóellenőrzés eredményeként a nemzeti hatóság nem támogató tartalmú nyilatkozatot vagy a közbeszerzésekért felelős miniszter nem támogató tartalmú jelentést állított ki.
+
+(2) Ha a szerződésmódosítás ellenőrzésére a 121–123. § alapján kerül sor, és a végső kedvezményezett a nemzeti hatóság vagy a közbeszerzésekért felelős miniszter nem támogató tartalmú nyilatkozata vagy tanúsítványa ellenére, vagy nem a nyilatkozat vagy tanúsítvány tartalmának megfelelően módosítja a szerződést, a nemzeti hatóság szabálytalansági eljárást indít.

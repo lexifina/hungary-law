@@ -1,0 +1,1 @@
+131. § Ha a végső kedvezményezett a dinamikus beszerzési rendszer alapján történő beszerzés utóellenőrzését nem vagy nem határidőben kezdeményezte, a nemzeti hatóság és a közbeszerzésekért felelős miniszter a dokumentumokat a 129. § és a 130. § (1)–(4) bekezdése szerint ellenőrzi, a 96. § (1)–(5) bekezdése alkalmazása mellett.

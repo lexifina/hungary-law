@@ -1,0 +1,1 @@
+229. § Az Európai Bizottság, az Európai Csalás Elleni Hivatal (OLAF) és az Európai Számvevőszék részére rendelkezésre kell bocsátani a HEE nemzeti felhasználásával kapcsolatos ellenőrzések lefolytatásához szükséges, a monitoring és információs rendszerben tárolt, az (EU) 2021/241 rendelet 22. cikk (2) bekezdés d) pontja szerinti adatokat.

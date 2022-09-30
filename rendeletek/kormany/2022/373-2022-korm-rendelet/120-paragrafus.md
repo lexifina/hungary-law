@@ -1,0 +1,1 @@
+120. § Ha a végső kedvezményezett a szerződésmódosítás utóellenőrzését nem vagy nem határidőben kezdeményezte és nem élt a 121. § szerinti lehetőséggel, a nemzeti hatóság és a közbeszerzésekért felelős miniszter a dokumentumokat a 117–119. § szerint ellenőrzi, a 96. § (1)–(5) bekezdése alkalmazása mellett.

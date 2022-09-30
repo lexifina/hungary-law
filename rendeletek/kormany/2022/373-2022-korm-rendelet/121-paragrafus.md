@@ -1,0 +1,3 @@
+121. § (1) Az uniós értékhatárokat elérő vagy meghaladó becsült értékű, valamint az építési beruházás, építési koncesszió esetén a háromszázmillió forintot elérő vagy meghaladó becsült értékű közbeszerzési eljárás eredményeként megkötött szerződés módosítása esetén a végső kedvezményezett kezdeményezheti a szerződésmódosítás előzetes ellenőrzését a nemzeti hatóságnál és a közbeszerzésekért felelős miniszternél.
+
+(2) Előzetes ellenőrzés kezdeményezése esetén a végső kedvezményezett megküldi a szerződést, a szerződésmódosítás tervezetét és a szerződésmódosítás jogszerűségét alátámasztó dokumentumokat a nemzeti hatóság és a közbeszerzésekért felelős miniszter részére.

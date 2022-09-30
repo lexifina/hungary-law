@@ -1,0 +1,1 @@
+191. § A kifogás érdemi vizsgálat nélküli elutasításáról – a nemzeti hatóság szakmai álláspontja figyelembevételével – a miniszter dönt. A nemzeti hatóság szakmai álláspontja nem kötelező a miniszter számára.

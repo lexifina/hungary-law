@@ -1,0 +1,5 @@
+169. § (1) A kifizetés igénylése elektronikusan, az elektronikus alkalmazások használatának szabályai szerint történik.
+
+(2) A kifizetési igényléshez az elszámolhatósági útmutatóban szereplő alátámasztó dokumentumok eredeti példányát kell elektronikus formában – papír alapú dokumentumok esetén szkennelve – feltölteni a monitoring és információs rendszerbe.
+
+(3) Ha a végső kedvezményezett által benyújtandó irat nem tartalmazza a kibocsátó minősített elektronikus aláírását, vagy az nem az arra feljogosított által készített hiteles elektronikus másolat, a biztosítékok iratanyagát az elektronikus benyújtást követően haladéktalanul papír alapon is be kell nyújtani. Ebben az esetben a támogatás jóváhagyásának feltétele a biztosítékok eredeti papíralapú példányának a nemzeti hatósághoz történő beérkezése. Ha a biztosítékok iratanyaga nem érkezik be a nemzeti hatósághoz cégszerűen aláírt eredeti példányban a hiánypótlás kiküldésére rendelkezésre álló határidőig, akkor a biztosítéki iratanyag megküldését a hiánypótlásban elő kell írni a végső kedvezményezett számára.

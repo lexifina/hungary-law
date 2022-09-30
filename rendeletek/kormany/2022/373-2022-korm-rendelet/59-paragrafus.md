@@ -1,0 +1,1 @@
+59. § Az 53–58. § rendelkezései megfelelően alkalmazandók a HET (EU) 2021/241 rendelet 21. cikke szerinti módosítása, valamint az esetlegesen szükségessé váló – az (EU) 2021/241 rendelet 18. cikk (2) bekezdése szerinti – felülvizsgálata során.
