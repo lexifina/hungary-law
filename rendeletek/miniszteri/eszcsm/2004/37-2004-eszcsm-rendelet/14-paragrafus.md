@@ -1,6 +1,6 @@
 14. § (1) Ez a rendelet a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
-(2)[^14]
+(2)[^14] A 2022. szeptember 30. előtt forgalomba hozott vagy címkézett, e rendelet 2022. szeptember 29-én hatályos 1. számú melléklet 2.4. pontjának megfelelő étrend-kiegészítők a meglévő készletek kimerüléséig 2022. szeptember 30-át követően is forgalmazhatók.
 
 (3)–(5)[^15]
 
@@ -18,7 +18,7 @@ d)[^18] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-ki
 
 e)[^19] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához használt nikotinamid-ribozid-klorid és magnézium-citrát-malát tekintetében, valamint a réz esetében alkalmazott mértékegység tekintetében történő módosításáról szóló, 2021. március 9-i (EU) 2021/418 bizottsági rendelet
 
-[^14]: A 14. § (2) bekezdését a 86/2004. (X. 1.) ESZCSM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^14]: A 14. § (2) bekezdését újonnan a 34/2021. (VIII. 6.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^15]: A 14. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 37. pontja hatályon kívül helyezte.
 [^16]: A 14. § (6) bekezdése a 24/2010. (V. 7.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^17]: A 14. § (7) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 32/2014. (IV. 18.) EMMI rendelet 12. §-ával megállapított szöveg.
