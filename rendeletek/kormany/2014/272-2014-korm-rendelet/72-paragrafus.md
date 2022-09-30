@@ -22,6 +22,6 @@ c) az elnyert támogatás összegét,
 
 d) a döntés évét és a hónapját
 
-## nyilvánosságra hozza, valamint a támogatást igénylő által rendelkezésre bocsátott adatokat a vonatkozó jogszabályok szerint nyilvántartsa és kezelje.
+nyilvánosságra hozza, valamint a támogatást igénylő által rendelkezésre bocsátott adatokat a vonatkozó jogszabályok szerint nyilvántartsa és kezelje.
 
 (9) A HACS-ok a helyi támogatási kérelmekről való döntés megalapozása érdekében helyi bíráló bizottságot (a továbbiakban: HBB) állítanak fel. A HBB összehívását, működését, tagjait a HACS által kiadott ügyrendben kell meghatározni. Az ügyrendet az irányító hatóság hagyja jóvá.

@@ -1,6 +1,6 @@
-## 89/A. §[^548] Több kiemelt projektnek a Kormány döntése alapján történő összevonása esetén az irányító hatóság gondoskodik – az összevonással érintett projektek támogatási szerződéseinek pénzügyi rendezésével egyidejűleg – a hatályban maradó támogatási szerződés módosításáról.
+## 89/A. §[^576] Több kiemelt projektnek a Kormány döntése alapján történő összevonása esetén az irányító hatóság gondoskodik – az összevonással érintett projektek támogatási szerződéseinek pénzügyi rendezésével egyidejűleg – a hatályban maradó támogatási szerződés módosításáról.
 
-89/B. §[^549] (1) Az irányító hatóság a támogatási szerződés módosítása révén a projekt másik felhívás kerete terhére történő finanszírozásra térhet át, ha
+89/B. §[^577] (1) Az irányító hatóság a támogatási szerződés módosítása révén a projekt másik felhívás kerete terhére történő finanszírozásra térhet át, ha
 
 a) a projekt keretében támogatott tevékenység jelentős mértékben megvalósult,
 
@@ -8,9 +8,9 @@ b) a projekt célja vis maiornak nem minősülő, és a kedvezményezettnek fel 
 
 c) a projekt keretében megvalósított tevékenység megfelel valamely e rendelet szerinti felhívás céljának és követelményeinek,
 
-d)[^550] az áttérés az áttérést megelőző feltételeknél nagyobb mértékben segíti elő az indikátorok teljesítését, illetve az abszorpciót, és
+d)[^578] az áttérés az áttérést megelőző feltételeknél nagyobb mértékben segíti elő az indikátorok teljesítését, illetve az abszorpciót, és
 
-e)[^551]
+e)[^579]
 
 f) az áttérést az uniós állami támogatási szabályok lehetővé teszik.
 
@@ -22,10 +22,10 @@ f) az áttérést az uniós állami támogatási szabályok lehetővé teszik.
 
 (5) A (4) bekezdés szerinti esetben a kedvezményezettel új támogatási szerződést kell kötni.
 
-(6)[^552] Ha támogatási szerződéssel rendelkező projekt tekintetében kizárólag az (1) bekezdés alkalmazhatóságának megteremtése érdekében hirdetnek meg felhívást, akkor – a 45. §, a 49. § (1) és (2) bekezdése, az 52. § (1), (2) és (5) bekezdése, valamint a 67. § (1) bekezdése kivételével – a VIII–XIV. Fejezetet nem kell alkalmazni.
+(6)[^580] Ha támogatási szerződéssel rendelkező projekt tekintetében kizárólag az (1) bekezdés alkalmazhatóságának megteremtése érdekében hirdetnek meg felhívást, akkor – a 45. §, a 49. § (1) és (2) bekezdése, az 52. § (1), (2) és (5) bekezdése, valamint a 67. § (1) bekezdése kivételével – a VIII–XIV. Fejezetet nem kell alkalmazni.
 
-[^548]: A 89/A. §-t a 345/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be.
-[^549]: A 89/B. §-t a 456/2020. (X. 20.) Korm. rendelet 2. §-a iktatta be.
-[^550]: A 89/B. § (1) bekezdés d) pontja a 156/2022. (IV. 19.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
-[^551]: A 89/B. § (1) bekezdés e) pontját a 156/2022. (IV. 19.) Korm. rendelet 17. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^552]: A 89/B. §-t a 156/2022. (IV. 19.) Korm. rendelet 12. §-a iktatta be.
+[^576]: A 89/A. §-t a 345/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be.
+[^577]: A 89/B. §-t a 456/2020. (X. 20.) Korm. rendelet 2. §-a iktatta be.
+[^578]: A 89/B. § (1) bekezdés d) pontja a 156/2022. (IV. 19.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^579]: A 89/B. § (1) bekezdés e) pontját a 156/2022. (IV. 19.) Korm. rendelet 17. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^580]: A 89/B. §-t a 156/2022. (IV. 19.) Korm. rendelet 12. §-a iktatta be.

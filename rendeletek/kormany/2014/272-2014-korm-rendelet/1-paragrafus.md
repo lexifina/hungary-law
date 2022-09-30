@@ -24,7 +24,7 @@ h)[^6] a Leginkább Rászoruló Személyeket Támogató Európai Segítségnyúj
 
 i)[^7] az Európai Unió Szolidaritási Alapjából
 
-## származó források terhére történő kötelezettségek vállalására, a programok tervezésére, végrehajtására, nyomon követésére, továbbá a teljesítés ellenőrzésére, a felhasználásban, a lebonyolításban és az ellenőrzésben részt vevő szervezetekre, a támogatást igénylőkre és a támogatásban részesülőkre.
+származó források terhére történő kötelezettségek vállalására, a programok tervezésére, végrehajtására, nyomon követésére, továbbá a teljesítés ellenőrzésére, a felhasználásban, a lebonyolításban és az ellenőrzésben részt vevő szervezetekre, a támogatást igénylőkre és a támogatásban részesülőkre.
 
 (1a)[^8]
 

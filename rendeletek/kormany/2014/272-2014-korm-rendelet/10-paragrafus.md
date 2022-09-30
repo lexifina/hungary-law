@@ -1,4 +1,4 @@
-10. § (1)[^95] Az európai uniós források felhasználásáért felelős miniszter ellenőrzési, monitoring és értékelési feladatai körében
+10. § (1)[^96] Az európai uniós források felhasználásáért felelős miniszter ellenőrzési, monitoring és értékelési feladatai körében
 
 1. nyomon követi az operatív programok elfogadásáig nem teljesült, az 1303/2013/EU európai parlamenti és tanácsi rendelet XI. mellékletében meghatározott előzetes feltételek (ex ante kondicionalitások) teljesülését,
 
@@ -6,13 +6,13 @@
 
 3. egységes szempontrendszert határoz meg az irányító hatóságok részére az irányítási és kontrollrendszerre vonatkozó leírások elkészítéséhez és aktualizálásához, az elkészült dokumentumokat e szempontrendszer alapján ellenőrzi,
 
-4.[^96] ellenőrzést végez a támogatások lebonyolításában részt vevő szervezeteknél és kedvezményezetteknél arra vonatkozóan, hogy az európai uniós fejlesztési forrásokat a fejlesztéspolitikai jogszabályoknak megfelelően, szabályszerűen és célszerűen használják-e fel,
+4.[^97] ellenőrzést végez a támogatások lebonyolításában részt vevő szervezeteknél és kedvezményezetteknél arra vonatkozóan, hogy az európai uniós fejlesztési forrásokat a fejlesztéspolitikai jogszabályoknak megfelelően, szabályszerűen és célszerűen használják-e fel,
 
 5. ellátja a programok végrehajtására vonatkozó ellenőrzések, auditok ellenőrzötti koordinációs feladatait, gondoskodik az ellenőrzések által előírt intézkedések egységes végrehajtásáról, előkészíti az intézkedések végrehajtásához szükséges jogszabály-módosításokat, koordinálja az intézményrendszerben belső ellenőrzési feladatot ellátó szervezeti egységek stratégiai és éves tervezését,
 
-6.[^97]
+6.[^98]
 
-6a.[^98] működteti és fejleszti a programok végrehajtását támogató monitoring és információs rendszert,
+6a.[^99] működteti és fejleszti a programok végrehajtását támogató monitoring és információs rendszert,
 
 7. e rendelet hatálya alá tartozó támogatások tekintetében elkövetett csalások ellen intézkedéseket alkalmaz, figyelembe véve az azonosított kockázatokat,
 
@@ -22,7 +22,7 @@
 
 10. elkészíti a negyedéves jelentést,
 
-11.[^99] az irányító hatósággal együttműködve nyomon követi a programok szakmai előrehaladását, különös tekintettel az indikátorok teljesülésére, módszertani támogatást nyújt az indikátorok előállításához szükséges adatok beszerzéséhez, előállításához, vizsgálja az indikátorok előrehaladását, és minderről az adott irányító hatóság által szakmai szempontból véleményezett rendszeres jelentést készít a Kormány részére a forrásvesztés elkerülése érdekében,
+11.[^100] az irányító hatósággal együttműködve nyomon követi a programok szakmai előrehaladását, különös tekintettel az indikátorok teljesülésére, módszertani támogatást nyújt az indikátorok előállításához szükséges adatok beszerzéséhez, előállításához, vizsgálja az indikátorok előrehaladását, és minderről az adott irányító hatóság által szakmai szempontból véleményezett rendszeres jelentést készít a Kormány részére a forrásvesztés elkerülése érdekében,
 
 12. koordinálja az éves végrehajtási jelentéssel, az éves hirdetési menetrenddel, a pénzügyi adatok Európai Bizottság részére történő továbbításával kapcsolatos feladatokat; ütemtervet, közös sablont, módszertant és adatbázist biztosít az irányító hatóságok számára,
 
@@ -32,28 +32,35 @@
 
 15. az irányító hatósággal együttműködve elkészíti az 1303/2013/EU európai parlamenti és tanácsi rendelet 56. cikk (1) bekezdésben említett értékelési tervet a Partnerségi Megállapodás minden programjára vonatkozóan, végrehajtja és – indokolt esetben – aktualizálja az értékelési tervet, lefolytatja az értékelési terven belüli programértékeléseket, valamint módszertani támogatást nyújt az értékelési terven kívüli egyéb értékelések végrehajtásához, koordinálja a tagállami jelentéstételi kötelezettségeket.
 
-(2)[^100] Az európai uniós források felhasználásáért felelős miniszter az (1) bekezdés 7. pontja keretében
+(2)[^101] Az európai uniós források felhasználásáért felelős miniszter az (1) bekezdés 7. pontja keretében
 
 1. az irányító hatóságok bevonásával meghatározza a csalás elleni politikát, különösen a csalás megelőzése, annak azonosítása, jelentése, valamint a jogosulatlanul kifizetett összegek és az esetleges késedelmi kamatok visszafizettetése, szankcionálása tekintetében,
 
 2. az irányító hatóságok együttműködésével kidolgozza a csalás elleni politika hatékony megvalósításához szükséges eljárást és módszertant,
 
-3. ellátja a központi koordinációt a csalás kockázatelemzésének támogatására fejlesztett informatikai rendszer alkalmazásával kapcsolatban,
+3.[^102] ellátja a központi koordinációt az ARACHNE kockázatértékelő eszköz alkalmazásával kapcsolatban, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
 
 4. ellátja a központi koordinációt az európai uniós támogatásokkal kapcsolatos büntetőfeljelentések és folyamatban lévő büntetőügyek tekintetében, ennek keretében gondoskodik ezen ügyek nyilvántartásba vételéről, továbbá a beérkező bűnügyi megkeresések megválaszolásáról,
 
 5. működteti a belső és közérdekű bejelentési rendszert,
 
-6.[^101] koordinálja az integritásirányítási rendszer működtetésével kapcsolatos feladatokat az európai uniós források felhasználásáért felelős miniszter által felügyelt programok lebonyolításában részt vevő szervezeteknél,
+6.[^103] koordinálja az integritásirányítási rendszer működtetésével kapcsolatos feladatokat az európai uniós források felhasználásáért felelős miniszter által felügyelt programok lebonyolításában részt vevő szervezeteknél,
 
 7. gondoskodik a csalás elleni tudatosság növeléséről,
 
 8. együttműködik a csalások hatékony és eredményes megelőzése, felderítése, szankcionálása, valamint a csalástól való elrettentés érdekében az érintett intézményekkel.
 
-[^95]: A 10. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^96]: A 10. § (1) bekezdés 4. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 20. pontja szerint módosított szöveg.
-[^97]: A 10. § (1) bekezdés 6. pontját a 106/2018. (VI. 15.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
-[^98]: A 10. § (1) bekezdés 6a. pontját a 347/2015. (XI. 20.) Korm. rendelet 5. §-a iktatta be.
-[^99]: A 10. § (1) bekezdés 11. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 22. pontja, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^100]: A 10. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 23. pontja, a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^101]: A 10. § (2) bekezdés 6. pontja a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
+9.[^104] gondoskodik a 7. melléklet szerinti adatoknak az ARACHNE kockázatértékelő eszköz részére kéthavonta történő megküldéséről,
+
+10.[^105] biztosítja az ARACHNE kockázatértékelő eszközhöz való hozzáférést a fejlesztéspolitikai intézményrendszer 16. § n) pontja és 20. § 22. pont e) alpontja szerinti feladatot ellátó munkatársai részére.
+
+[^96]: A 10. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^97]: A 10. § (1) bekezdés 4. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 20. pontja szerint módosított szöveg.
+[^98]: A 10. § (1) bekezdés 6. pontját a 106/2018. (VI. 15.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
+[^99]: A 10. § (1) bekezdés 6a. pontját a 347/2015. (XI. 20.) Korm. rendelet 5. §-a iktatta be.
+[^100]: A 10. § (1) bekezdés 11. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 22. pontja, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^101]: A 10. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 23. pontja, a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^102]: A 10. § (2) bekezdés 3. pontja a 374/2022. (IX. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^103]: A 10. § (2) bekezdés 6. pontja a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^104]: A 10. § (2) bekezdés 9. pontját a 374/2022. (IX. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^105]: A 10. § (2) bekezdés 10. pontját a 374/2022. (IX. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.

@@ -1,1 +1,3 @@
-## akkor a támogatást igénylő vagy a kedvezményezett a közbeszerzési eljárás ellenőrzését ismételten az (1) bekezdés szerint kezdeményezi, és a közbeszerzésekért felelős miniszter a közbeszerzési dokumentumok beérkezését követő öt munkanapon belül az eljárás megindítására vonatkozó tanúsítványt állít ki, amiről tájékoztatja a támogatást igénylőt vagy a kedvezményezettet, valamint az irányító hatóságot.
+103/A. §[^670]
+
+[^670]: A 103/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 156/2022. (IV. 19.) Korm. rendelet 17. § (1) bekezdés d) pontja.

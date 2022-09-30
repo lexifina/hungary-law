@@ -30,9 +30,11 @@
 
 12.[^91] az irányító hatósággal együttműködve megállapítja az operatív programok tervezéséhez és módosításához kapcsolódó stratégiai környezeti vizsgálat szükségességét, szükség esetén az irányító hatósággal együttműködve elvégzi a stratégiai környezeti vizsgálatot, koordinálja az érintett hatóságokkal történő egyeztetést, nyomon követi a stratégiai környezeti vizsgálat javaslatainak megvalósítását.
 
+13.[^92] gondoskodik a fejlesztéspolitikai intézményrendszer érzékeny pozícióban lévő – különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rotációjáról.
+
 (4) Az európai uniós források felhasználásáért felelős miniszter megteszi a szükséges intézkedéseket a hatáskörébe tartozó rendszerszintű szabálytalanságok megelőzése, illetve kezelése tekintetében, beleértve az ismétlődés kockázatának csökkentésére irányuló intézkedéseket is.
 
-(5)[^92] Az európai uniós források felhasználásáért felelős miniszter a koordinációs feladataihoz kapcsolódóan intézményrendszerrel összefüggő, ellenőrzési, monitoring, értékelési, pénzügyi, jogorvoslati, kommunikációs és képzéssel összefüggő feladatokat lát el.
+(5)[^93] Az európai uniós források felhasználásáért felelős miniszter a koordinációs feladataihoz kapcsolódóan intézményrendszerrel összefüggő, ellenőrzési, monitoring, értékelési, pénzügyi, jogorvoslati, kommunikációs és képzéssel összefüggő feladatokat lát el.
 
 [^84]: A 7/A. §-t a 4/2016. (I. 20.) Korm. rendelet 16. §-a iktatta be.
 [^85]: A 8. § (1) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 14. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 2. pontja szerint módosított szöveg.
@@ -42,4 +44,5 @@
 [^89]: A 8. § (3) bekezdés 3. pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 5. pontja szerint módosított szöveg.
 [^90]: A 8. § (3) bekezdés 11. pontját a 144/2015. (VI. 12.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^91]: A 8. § (3) bekezdés 12. pontját a 347/2015. (XI. 20.) Korm. rendelet 4. §-a iktatta be.
-[^92]: A 8. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 19. pontja, a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^92]: A 8. § (3) bekezdés 13. pontját a 374/2022. (IX. 30.) Korm. rendelet 1. §-a iktatta be.
+[^93]: A 8. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 19. pontja, a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 3. pontja szerint módosított szöveg.

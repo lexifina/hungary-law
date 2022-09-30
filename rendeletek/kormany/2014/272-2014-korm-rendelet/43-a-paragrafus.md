@@ -5,3 +5,5 @@
 a) meghirdetésének időpontját legfeljebb két hónappal,
 
 b) keretösszegét legfeljebb 20% mértékben
+
+változtathatja meg.

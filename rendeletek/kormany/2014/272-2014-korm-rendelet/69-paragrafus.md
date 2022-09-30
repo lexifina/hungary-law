@@ -1,10 +1,10 @@
-69. §[^428] (1)[^429] Szakaszolt projekt 2014–2020 programozási időszak forrásaiból finanszírozni tervezett szakaszára a IX–XII. Fejezet rendelkezéseit kell alkalmazni.
+69. §[^453] (1)[^454] Szakaszolt projekt 2014–2020 programozási időszak forrásaiból finanszírozni tervezett szakaszára a IX–XII. Fejezet rendelkezéseit kell alkalmazni.
 
-(2)[^430] Szakaszolt projekt 2014–2020 programozási időszak forrásaiból finanszírozni tervezett szakaszára akkor köthető támogatási szerződés, vagy a támogatási szerződés akkor léphet hatályba, ha e szakaszolt projekt 2007–2013 programozási időszak forrásaiból finanszírozott szakaszának megvalósítására kötött támogatási szerződés alapján nyújtott előleggel a kedvezményezett elszámolt, vagy az előleg felhasználása érdekében harmadik személlyel szerződést kötött.
+(2)[^455] Szakaszolt projekt 2014–2020 programozási időszak forrásaiból finanszírozni tervezett szakaszára akkor köthető támogatási szerződés, vagy a támogatási szerződés akkor léphet hatályba, ha e szakaszolt projekt 2007–2013 programozási időszak forrásaiból finanszírozott szakaszának megvalósítására kötött támogatási szerződés alapján nyújtott előleggel a kedvezményezett elszámolt, vagy az előleg felhasználása érdekében harmadik személlyel szerződést kötött.
 
-(3)[^431] A szakaszolt projekt 2021–2027 programozási időszak forrásaiból finanszírozni tervezett szakaszára a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendeletet kell alkalmazni.
+(3)[^456] A szakaszolt projekt 2021–2027 programozási időszak forrásaiból finanszírozni tervezett szakaszára a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendeletet kell alkalmazni.
 
-[^428]: A 69. § a 144/2015. (VI. 12.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^429]: A 69. § (1) bekezdése a 657/2021. (XI. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^430]: A 69. § (2) bekezdése a 217/2015. (VIII. 3.) Korm. rendelet 1. §-ával megállapított, a 657/2021. (XI. 30.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^431]: A 69. § (3) bekezdését a 657/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^453]: A 69. § a 144/2015. (VI. 12.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^454]: A 69. § (1) bekezdése a 657/2021. (XI. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^455]: A 69. § (2) bekezdése a 217/2015. (VIII. 3.) Korm. rendelet 1. §-ával megállapított, a 657/2021. (XI. 30.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^456]: A 69. § (3) bekezdését a 657/2021. (XI. 30.) Korm. rendelet 2. §-a iktatta be.

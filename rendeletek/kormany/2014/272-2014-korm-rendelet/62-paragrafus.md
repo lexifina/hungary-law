@@ -1,6 +1,4 @@
-## 61/A. §[^399]
-
-62. §[^400] (1) Az értékelésben és a támogatási döntés előkészítésében részt vevőket a támogatást igénylő támogatási döntésről történő tájékoztatása időpontjáig titoktartási kötelezettség terheli. A titoktartási kötelezettség nem terjed ki a benyújtott támogatási kérelemnek a projekt-kiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
+62. §[^425] (1) Az értékelésben és a támogatási döntés előkészítésében részt vevőket a támogatást igénylő támogatási döntésről történő tájékoztatása időpontjáig titoktartási kötelezettség terheli. A titoktartási kötelezettség nem terjed ki a benyújtott támogatási kérelemnek a projekt-kiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
 
 (2) Az irányító hatóságnak biztosítania kell, hogy a támogatási kérelmek tartalmi értékelése során alkalmazott mérlegelést igénylő és mérlegelést nem igénylő értékelési szempontok
 
@@ -14,11 +12,10 @@ d) olyan projektek kiválasztását teszik lehetővé, amelyek közvetlenül hoz
 
 e) biztosítják az állami támogatási szabályoknak való megfelelést,
 
-f)[^401] mikro-, kis- és középvállalkozások számára is nyitva álló, standard kiválasztási eljárásrenddel érintett felhívásokra benyújtott támogatási kérelmek esetén kiterjednek a monitoring és információs rendszerben a támogatást igénylő korábbi – a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet], valamint e rendelet hatálya alá tartozó – projektjeivel kapcsolatban rendelkezésre álló információk, így különösen a pénzügyi korrekciót eredményezett szabálytalanságok vizsgálatára.
+f)[^426] mikro-, kis- és középvállalkozások számára is nyitva álló, standard kiválasztási eljárásrenddel érintett felhívásokra benyújtott támogatási kérelmek esetén kiterjednek a monitoring és információs rendszerben a támogatást igénylő korábbi – a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet], valamint e rendelet hatálya alá tartozó – projektjeivel kapcsolatban rendelkezésre álló információk, így különösen a pénzügyi korrekciót eredményezett szabálytalanságok vizsgálatára.
 
-(3)[^402] A (2) bekezdés f) pontját akként kell alkalmazni, hogy a pénzügyi korrekciót eredményezett szabálytalanságokat pontszámot csökkentő tényezőként kell figyelembe venni.
+(3)[^427] A (2) bekezdés f) pontját akként kell alkalmazni, hogy a pénzügyi korrekciót eredményezett szabálytalanságokat pontszámot csökkentő tényezőként kell figyelembe venni.
 
-[^399]: A 61/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 156/2022. (IV. 19.) Korm. rendelet 17. § (1) bekezdés b) pontja.
-[^400]: A 62. § a 144/2015. (VI. 12.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^401]: A 62. § (2) bekezdés f) pontját a 98/2016. (V. 13.) Korm. rendelet 21. § (1) bekezdése iktatta be.
-[^402]: A 62. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^425]: A 62. § a 144/2015. (VI. 12.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^426]: A 62. § (2) bekezdés f) pontját a 98/2016. (V. 13.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^427]: A 62. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 21. § (2) bekezdése iktatta be.

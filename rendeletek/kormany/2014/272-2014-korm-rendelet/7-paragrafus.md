@@ -1,5 +1,3 @@
-## 5–6. §
-
 ## 5. Fejlesztéspolitikai Koordinációs Bizottság feladatai
 
 7. § (1)[^80] A Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) előkészíti a Kormány e rendelet szerinti fejlesztéspolitikai döntéseit.

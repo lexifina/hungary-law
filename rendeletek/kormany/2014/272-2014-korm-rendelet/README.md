@@ -89,3 +89,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2022-05-25 | 2014-272-20-22.81 | 183/2022. (V. 24.) Korm. rendelet |
 | 2022-07-21 | 2014-272-20-22.82 | 258/2022. (VII. 20.) Korm. rendelet |
 | 2022-08-17 | 2014-272-20-22.83 | 319/2022. (VIII. 16.) Korm. rendelet |
+| 2022-09-30 | 2014-272-20-22.84 | 374/2022. (IX. 30.) Korm. rendelet |

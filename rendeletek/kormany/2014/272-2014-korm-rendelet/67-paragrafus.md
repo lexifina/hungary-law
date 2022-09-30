@@ -1,4 +1,4 @@
-67. §[^422] (1) A program vonatkozó prioritása keretén belül
+67. §[^447] (1) A program vonatkozó prioritása keretén belül
 
 a) a felhívás keretében fel nem használt vagy
 
@@ -10,7 +10,7 @@ bb) az irányító hatóság által visszatartott vagy
 
 bc) a kedvezményezett által visszafizetett
 
-## támogatási összeg prioritáson belüli felhasználásáról – a nagyprojekt, a kiemelt projekt és annak a támogatási kérelemnek a kivételével, amely támogatását az irányító hatóság hárommilliárd forintot meghaladó összegben javasolta megállapítani – az irányító hatóság dönt az európai uniós források felhasználásáért felelős miniszter által jóváhagyott felhívás alapján.
+támogatási összeg prioritáson belüli felhasználásáról – a nagyprojekt, a kiemelt projekt és annak a támogatási kérelemnek a kivételével, amely támogatását az irányító hatóság hárommilliárd forintot meghaladó összegben javasolta megállapítani – az irányító hatóság dönt az európai uniós források felhasználásáért felelős miniszter által jóváhagyott felhívás alapján.
 
 (2) Ha a felhívás visszatérítendő támogatási formát alkalmaz, a felhívás kidolgozása és a támogatási kérelem elbírálása során az irányító hatóság az 58–65. §-ban foglaltaktól eltérhet azzal, hogy
 
@@ -26,4 +26,4 @@ e) a támogatási kérelmek benyújtása és elbírálása során a monitoring �
 
 (3) A (2) bekezdés szerinti felhívásban biztosítéknyújtási kötelezettség nem írható elő.
 
-[^422]: A 67. § a 153/2019. (VI. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^447]: A 67. § a 153/2019. (VI. 26.) Korm. rendelet 9. §-ával megállapított szöveg.

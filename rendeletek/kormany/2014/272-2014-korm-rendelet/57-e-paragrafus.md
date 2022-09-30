@@ -8,7 +8,7 @@ b) arányosítással, vagy
 
 c) az a) vagy b) pontban rögzített eszköz és a benyújtás sorrendjének együttes alkalmazásával
 
-## kell dönteni.
+kell dönteni.
 
 (3) A bírálat során létrejött pontegyenlőség esetén a rangsorban előnyt élvez az a támogatási kérelem
 

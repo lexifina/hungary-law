@@ -10,7 +10,7 @@ ca) az 58. § (2), (4), (7) és (8) bekezdését, a 60. § (3), (4), (6), (7) be
 
 cb) az 1. melléklet 8.1–8.5., 8/A.1–13.5., 14.1–24., 33.1., 33.2., 45., 46.1.a)–k), 46.2–48.4. és 50–53.3. pontját
 
-## kell alkalmazni.
+kell alkalmazni.
 
 (2) Az irányító hatóság a beérkezéstől számított 30 napon belül támogató döntést (kötelezettségvállalás) vagy elutasító döntést hoz.
 

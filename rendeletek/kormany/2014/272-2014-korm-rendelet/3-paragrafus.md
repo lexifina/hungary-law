@@ -190,7 +190,7 @@ e)[^71] a 223/2014/EU európai parlamenti és tanácsi rendelet,
 
 f)[^72] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
 
-## szerint kell értelmezni.
+szerint kell értelmezni.
 
 (3)[^73] E rendeletet az e rendelet hatálya alá tartozó programok támogatásokra vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre, továbbá egyéb iránymutatásokra figyelemmel kell alkalmazni és értelmezni.
 
