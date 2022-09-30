@@ -1,8 +1,6 @@
-## 7. §[^2]
-
 1. melléklet az 1/2022. (V. 26.) GFM rendelethez[^3]
 
-## Tulajdonosi jogokat gyakorló miniszterek, minisztériumok
+Tulajdonosi jogokat gyakorló miniszterek, minisztériumok
 
 I. Tulajdonosi joggyakorló: a gazdaságfejlesztési miniszter
 
@@ -294,5 +292,4 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
-[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a szerint módosított szöveg.

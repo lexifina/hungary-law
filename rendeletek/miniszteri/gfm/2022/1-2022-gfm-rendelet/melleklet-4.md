@@ -2,7 +2,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | NIPÜF Nemzeti Ipari Park Üzemeltető és Fejlesztő Zártkörűen Működő Részvénytársaság | 01-10-048710 | 2026. december 31. |
+| 1. | N.S. Média és Vagyonkezelő Korlátolt Felelősségű Társaság | 01-09-404379 | 2026. december 31. |
 
 4. melléklet az 1/2022. (V. 26.) GFM rendelethez
 

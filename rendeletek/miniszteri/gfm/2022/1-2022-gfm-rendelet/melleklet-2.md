@@ -12,7 +12,7 @@
 
 2. melléklet az 1/2022. (V. 26.) GFM rendelethez[^4]
 
-## Tulajdonosi jogokat gyakorló költségvetési szervek
+Tulajdonosi jogokat gyakorló költségvetési szervek
 
 I. Tulajdonosi joggyakorló: Társadalmi Esélyteremtési Főigazgatóság
 

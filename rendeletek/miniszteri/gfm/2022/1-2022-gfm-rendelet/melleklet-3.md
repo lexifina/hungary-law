@@ -6,7 +6,7 @@
 
 3. melléklet az 1/2022. (V. 26.) GFM rendelethez[^5]
 
-## Tulajdonosi jogokat gyakorló gazdasági társaságok
+Tulajdonosi jogokat gyakorló gazdasági társaságok
 
 I. Tulajdonosi joggyakorló: Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság
 
@@ -50,4 +50,12 @@ II. Tulajdonosi joggyakorló: a Digitális Magyarország Ügynökség Zártkör�
 
 III. Tulajdonosi joggyakorló: HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a szerint módosított szöveg.
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | NIPÜF Nemzeti Ipari Park Üzemeltető és Fejlesztő Zártkörűen Működő Részvénytársaság | 01-10-048710 | 2026. december 31. |
+
+IV. Tulajdonosi joggyakorló: Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság
+
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) bekezdése szerint módosított szöveg.
