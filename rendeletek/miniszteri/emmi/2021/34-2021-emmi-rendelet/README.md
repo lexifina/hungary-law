@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-34-20-5
 | --- | --- | --- |
 | 2021-08-07 | 2021-34-20-5H.1 | 34/2021. (VIII. 6.) EMMI rendelet |
 | 2021-08-08 | 2021-34-20-5H.2 | 2010: CXXX. törvény |
+| 2022-09-30 | 2021-34-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
