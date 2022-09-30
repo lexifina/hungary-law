@@ -1,6 +1,6 @@
-## 33. §[^138] E rendeletnek a Magyar Méhészeti Nemzeti Program alapján a 2020–2022 közötti végrehajtási időszakokban a központi költségvetés, valamint az Európai Mezőgazdasági Garancia Alap társfinanszírozásában megvalósuló támogatások igénybevételének szabályairól szóló 57/2019. (XII. 14.) AM rendelet módosításáról szóló 12/2020. (IV. 3.) AM rendelettel megállapított 3. § (5) bekezdés e) pontját, 4. § (17) bekezdését, 5. § (3) bekezdését, 13. § (5) bekezdés b) pontját, 18. § (17) bekezdés c) pontját, 24. § (3) és (4) bekezdését, 25. § (6) bekezdés b) pontját, 26. § (7) bekezdés b) és c) pontját, valamint 27. § (1) bekezdés b) pontját, (6) bekezdését, (9) bekezdés a) pontját, (11) bekezdés b) pontját az I. végrehajtási időszak folyamatban lévő intézkedései esetében is alkalmazni kell.
+## 33. §[^147] E rendeletnek a Magyar Méhészeti Nemzeti Program alapján a 2020–2022 közötti végrehajtási időszakokban a központi költségvetés, valamint az Európai Mezőgazdasági Garancia Alap társfinanszírozásában megvalósuló támogatások igénybevételének szabályairól szóló 57/2019. (XII. 14.) AM rendelet módosításáról szóló 12/2020. (IV. 3.) AM rendelettel megállapított 3. § (5) bekezdés e) pontját, 4. § (17) bekezdését, 5. § (3) bekezdését, 13. § (5) bekezdés b) pontját, 18. § (17) bekezdés c) pontját, 24. § (3) és (4) bekezdését, 25. § (6) bekezdés b) pontját, 26. § (7) bekezdés b) és c) pontját, valamint 27. § (1) bekezdés b) pontját, (6) bekezdését, (9) bekezdés a) pontját, (11) bekezdés b) pontját az I. végrehajtási időszak folyamatban lévő intézkedései esetében is alkalmazni kell.
 
-1. melléklet az 57/2019. (XII. 14.) AM rendelethez[^139]
+1. melléklet az 57/2019. (XII. 14.) AM rendelethez[^148]
 
 A II., III. és a meghosszabbított III. végrehajtási időszakban az OMME által méhészeti szaktanácsadóként havi szinten, területi illetékesség alapján meghatározott vállalkozói díjszabás
 
@@ -50,5 +50,5 @@ A II., III. és a meghosszabbított III. végrehajtási időszakban az OMME ált
 
 | 21. | Vezető szaktanácsadó (országos) | 800 000 |
 
-[^138]: A 33. §-t a 12/2020. (IV. 3.) AM rendelet 6. §-a iktatta be.
-[^139]: Az 1. mellékletet a 25/2021. (VII. 14.) AM rendelet 35. §-a iktatta be.
+[^147]: A 33. §-t a 12/2020. (IV. 3.) AM rendelet 6. §-a iktatta be.
+[^148]: Az 1. mellékletet a 25/2021. (VII. 14.) AM rendelet 35. §-a iktatta be.

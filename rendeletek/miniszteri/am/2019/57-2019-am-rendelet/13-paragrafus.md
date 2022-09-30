@@ -48,7 +48,7 @@ f) a rendezvény meghívója vagy a programleírás, idegen nyelven kiállított
 
 g) szakmai beszámoló a rendezvényről;
 
-h)[^35] a résztvevők OMME-vel kötött megbízási szerződése vagy ennek hiányában a résztvevők OMME tagságáról szóló igazolása;
+h)[^40] a résztvevők OMME-vel kötött megbízási szerződése vagy ennek hiányában a résztvevők OMME tagságáról szóló igazolása;
 
 i) három vagy több fő csoportos utazása esetén a jelenléti ív, amelynek tartalmaznia kell a rendezvény helyszínét, időpontját vagy időtartamát, a szakmai program megnevezését, a résztvevők nevét, címét, aláírását.
 
@@ -56,9 +56,9 @@ i) három vagy több fő csoportos utazása esetén a jelenléti ív, amelynek t
 
 (4) A 10. § (1) bekezdés c) pontja szerinti program megszervezése céljára nyújtott támogatás keretében a következő költségek számolhatóak el:
 
-a)[^36] előadói díj az I. és II. végrehajtási időszakban legfeljebb 40 000 forint/előadó/rendezvény, a III. és a meghosszabbított III. végrehajtási időszakban legfeljebb 50 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, külföldi előadó esetén legfeljebb 100 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, tolmács díja legfeljebb 50 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
+a)[^41] előadói díj az I. és II. végrehajtási időszakban legfeljebb 40 000 forint/előadó/rendezvény, a III. és a meghosszabbított III. végrehajtási időszakban legfeljebb 50 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, külföldi előadó esetén legfeljebb 100 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, tolmács díja legfeljebb 50 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
 
-b)[^37] kongresszuson, konferencián, kiállításon, szakmai tanulmányúton, nemzetközi rendezvényen országonként legfeljebb három fő előadó és további két fő tolmács szállásköltsége legfeljebb 30 000 forint/nap/fő/rendezvény, valamint az előadók, tolmácsok és az OMME elnökének vagy megbízottjának étkezési költsége legfeljebb 10 000 forint/nap/fő/rendezvény;
+b)[^42] kongresszuson, konferencián, kiállításon, szakmai tanulmányúton, nemzetközi rendezvényen országonként legfeljebb három fő előadó és további két fő tolmács szállásköltsége legfeljebb 30 000 forint/nap/fő/rendezvény, valamint az előadók, tolmácsok és az OMME elnökének vagy megbízottjának étkezési költsége legfeljebb 10 000 forint/nap/fő/rendezvény;
 
 c) kongresszuson, konferencián, kiállításon, szakmai tanulmányúton, nemzetközi rendezvényen országonként legfeljebb három fő előadó és további két fő tolmács utazási költsége:
 
@@ -88,7 +88,7 @@ k) rendezvény egészségügyi és rendészeti, hatósági engedélyezési, vagy
 
 a) a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat);
 
-b)[^38] előadói és tolmácsolási díj elszámolása esetén a cégszerű aláírással ellátott vállalkozói vagy a megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat;
+b)[^43] előadói és tolmácsolási díj elszámolása esetén a cégszerű aláírással ellátott vállalkozói vagy a megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat;
 
 c) előadó, tolmács utazási költsége esetén:
 
@@ -118,10 +118,10 @@ k) étkezési és szállásköltség elszámolása esetén a kérelmező nevére
 
 l) a szervező nyilatkozata arról, hogy a látogatók nem fizettek részvételi vagy belépődíjat;
 
-m)[^39]
+m)[^44]
 
-[^35]: A 13. § (2) bekezdés h) pontja a 25/2021. (VII. 14.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^36]: A 13. § (4) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^37]: A 13. § (4) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 7. § g) pontja szerint módosított szöveg.
-[^38]: A 13. § (5) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 1. §-ával megállapított szöveg.
-[^39]: A 13. § (5) bekezdés m) pontját a 25/2021. (VII. 14.) AM rendelet 37. §-a hatályon kívül helyezte.
+[^40]: A 13. § (2) bekezdés h) pontja a 25/2021. (VII. 14.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^41]: A 13. § (4) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^42]: A 13. § (4) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 7. § g) pontja szerint módosított szöveg.
+[^43]: A 13. § (5) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 1. §-ával megállapított szöveg.
+[^44]: A 13. § (5) bekezdés m) pontját a 25/2021. (VII. 14.) AM rendelet 37. §-a hatályon kívül helyezte.

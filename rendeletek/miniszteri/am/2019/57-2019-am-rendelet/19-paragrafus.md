@@ -1,12 +1,12 @@
 ## 14. A varroa atka, a nozematózis, illetve az egyéb kártevők, betegségek elleni gyógyszeres védekezés támogatása
 
-19. §[^91] (1) A 2. § (1) bekezdés b) pont ba) alpontja szerinti támogatás
+19. §[^97] (1) A 2. § (1) bekezdés b) pont ba) alpontja szerinti támogatás
 
 a) a méhcsaládok engedélyezett szerrel történő, a varroa atka, a nozematózis, illetve az egyéb kártevők és betegségek elleni, szakszerű állategészségügyi kezelés költségeihez, az (5) bekezdés szerinti készítmények és eszközök beszerzéséhez,
 
 b) kizárólag a III. végrehajtási időszakban új fa kaptár, fa keretléc, viaszcsere költsége, műlép, ózongenerátor és méhlegelő célú facsemeték, cserjék, félcserjék, bokrok beszerzéséhez
 
-## igényelhető.
+igényelhető.
 
 (2) A támogatás keretösszege az (1) bekezdés a) pontja szerinti alintézkedésre az I. végrehajtási időszakban legfeljebb 2 190 000 eurónak, a II. végrehajtási időszakban legfeljebb 3 419 046 eurónak megfelelő forintösszeg. A támogatás keretösszege az (1) bekezdés a) és b) pontja szerinti alintézkedésekre a III. végrehajtási időszakban együttesen legfeljebb 4 309 712 eurónak megfelelő forintösszeg.
 
@@ -42,7 +42,7 @@ e) a minimum A2B2E2P3 (vagy ennél magasabb védelmi fokozatú) új szűrőbeté
 
 f) új légzésvédő kámzsához
 
-## jóváhagyott, együttes támogatás háromszoros mértékét.
+jóváhagyott, együttes támogatás háromszoros mértékét.
 
 (11) Az (1) bekezdés a) pontja szerinti alintézkedés esetén a III. végrehajtási időszakban a varroa atka, a nozematózis, illetve az egyéb kártevők, betegségek elleni szakszerű állategészségügyi kezeléshez méhcsaládonként – számla alapján – legfeljebb 1800 forint összegű támogatás igényelhető, amelyből a cukor, cukorlepény, ipari fondant beszerzési költségére méhcsaládonként legfeljebb 1350 forint összegű támogatás igényelhető. A cukor, cukorlepény, ipari fondant beszerzési költségére igényelt támogatás összege nem haladhatja meg
 
@@ -58,7 +58,7 @@ e) a minimum A2B2E2P3 (vagy ennél magasabb védelmi fokozatú) új szűrőbeté
 
 f) új légzésvédő kámzsához
 
-## jóváhagyott, együttes támogatás háromszoros mértékét.
+jóváhagyott, együttes támogatás háromszoros mértékét.
 
 (12) Az (1) bekezdés a) pontja szerinti alintézkedés esetén a kifizetési kérelemhez csatolni kell az alábbi dokumentumok másolati példányát:
 
@@ -82,4 +82,4 @@ b) új fa kaptár, fa keretléc, viaszcsere, műlép, ózongenerátor beszerzés
 
 (18) Az (1) bekezdés b) pontja szerinti alintézkedésre méhcsaládonként – számla alapján – legfeljebb 500 forint összegű támogatás igényelhető.
 
-[^91]: A 19. § a 25/2021. (VII. 14.) AM rendelet 23. §-ával megállapított szöveg.
+[^97]: A 19. § a 25/2021. (VII. 14.) AM rendelet 23. §-ával megállapított szöveg.

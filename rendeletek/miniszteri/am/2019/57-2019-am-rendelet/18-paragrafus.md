@@ -1,6 +1,6 @@
 ## 13. Méhész szervezetek működését és kohézióját elősegítő intézkedések támogatása
 
-18. § (1)[^65] A 2. § (1) bekezdés a) pont ag) alpontja szerinti intézkedés vonatkozásában támogatás a méhész szervezetek működésének és kohéziójának elősegítése céljából
+18. § (1)[^71] A 2. § (1) bekezdés a) pont ag) alpontja szerinti intézkedés vonatkozásában támogatás a méhész szervezetek működésének és kohéziójának elősegítése céljából
 
 a) az OMME szervezeti ülés (a továbbiakban: szervezeti ülés) lebonyolítása,
 
@@ -12,21 +12,21 @@ d) a II–III. és a meghosszabbított III. végrehajtási időszakban a méhés
 
 e) méhészek kommunikációját és működését segítő eszközök (különösen asztali vagy hordozható számítógép, multifunkcionális lézernyomtató) beszerzése
 
-## költségeinek megtérítésére vehető igénybe.
+költségeinek megtérítésére vehető igénybe.
 
-(2)[^66] Az (1) bekezdés szerinti támogatás keretösszege az I. végrehajtási időszakban legfeljebb 100 000 eurónak megfelelő forintösszeg, amelyen belül az (1) bekezdés a) és c) pontja szerinti intézkedések keretösszege 60 000 eurónak megfelelő forintösszeg, az (1) bekezdés b) pontja szerinti intézkedés keretösszege 40 000 eurónak megfelelő forintösszeg. A II. végrehajtási időszakban legfeljebb 850 000 eurónak, a III. végrehajtási időszakban legfeljebb 250 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakra vonatkozó támogatás a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^72] Az (1) bekezdés szerinti támogatás keretösszege az I. végrehajtási időszakban legfeljebb 100 000 eurónak megfelelő forintösszeg, amelyen belül az (1) bekezdés a) és c) pontja szerinti intézkedések keretösszege 60 000 eurónak megfelelő forintösszeg, az (1) bekezdés b) pontja szerinti intézkedés keretösszege 40 000 eurónak megfelelő forintösszeg. A II. végrehajtási időszakban legfeljebb 850 000 eurónak, a III. végrehajtási időszakban legfeljebb 250 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 19 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
-(3)[^67] Az (1) bekezdés a), c), d) pontja szerinti intézkedések igénybevételére az OMME jogosult.
+(3)[^73] Az (1) bekezdés a), c), d) pontja szerinti intézkedések igénybevételére az OMME jogosult.
 
-(4)[^68] Az (1) bekezdés b) pontja szerinti intézkedés igénylésére az OMME tagszervezetei jogosultak.
+(4)[^74] Az (1) bekezdés b) pontja szerinti intézkedés igénylésére az OMME tagszervezetei jogosultak.
 
-(4a)[^69] Az (1) bekezdés e) pontja szerinti intézkedés igénylésére a kifizetési kérelem benyújtásának évére vonatkozó, érvényes OMME tagsági viszonnyal rendelkező kérelmező jogosult, aki a kifizetési kérelem benyújtásának napján legalább egy méhcsaláddal rendelkezik.
+(4a)[^75] Az (1) bekezdés e) pontja szerinti intézkedés igénylésére a kifizetési kérelem benyújtásának évére vonatkozó, érvényes OMME tagsági viszonnyal rendelkező kérelmező jogosult, aki a kifizetési kérelem benyújtásának napján legalább egy méhcsaláddal rendelkezik.
 
-(5)[^70] Az (1) bekezdés szerinti intézkedések esetében a támogatás végrehajtási időszakonként több alkalommal is igényelhető.
+(5)[^76] Az (1) bekezdés szerinti intézkedések esetében a támogatás végrehajtási időszakonként több alkalommal is igényelhető.
 
 (6) Az (1) bekezdés a) pontja szerinti intézkedés keretében a következő költségek számolhatóak el:
 
-a)[^71] előadó és tolmács díja, a nem OMME tag vagy nem az OMME alkalmazásában lévő (a továbbiakban: külsős) előadó és tolmács esetén az előadói díj az I. és II. végrehajtási időszakban legfeljebb 40 000 forint/előadó/alkalom, a III. és a meghosszabbított III. végrehajtási időszakban legfeljebb 50 000 forint/előadó/alkalom, megbízási szerződés esetén ennek közterhekkel növelt összegéig, a tolmács díja legfeljebb 50 000 forint/tolmács/alkalom, megbízási szerződés esetén ennek közterhekkel növelt összegéig;
+a)[^77] előadó és tolmács díja, a nem OMME tag vagy nem az OMME alkalmazásában lévő (a továbbiakban: külsős) előadó és tolmács esetén az előadói díj az I. és II. végrehajtási időszakban legfeljebb 40 000 forint/előadó/alkalom, a III. és a meghosszabbított III. végrehajtási időszakban legfeljebb 50 000 forint/előadó/alkalom, megbízási szerződés esetén ennek közterhekkel növelt összegéig, a tolmács díja legfeljebb 50 000 forint/tolmács/alkalom, megbízási szerződés esetén ennek közterhekkel növelt összegéig;
 
 b) külsős előadó és tolmács szállásköltsége legfeljebb 16 000 forint/nap/fő/alkalom;
 
@@ -98,21 +98,21 @@ d) projektor,
 
 e) számítógép,
 
-f)[^72] operációs rendszer,
+f)[^78] operációs rendszer,
 
 g) irodai programcsomag,
 
 h) informatikai adattároló eszköz
 
-i)[^73] számítástechnikai kellékanyagok maximum 50 000 forint/végrehajtási év összegig.
+i)[^79] számítástechnikai kellékanyagok maximum 50 000 forint/végrehajtási év összegig.
 
-## beszerzési költsége.
+beszerzési költsége.
 
 (9) Az (1) bekezdés b) pontja szerinti intézkedés esetében az OMME tagszervezete eszközcsoportonként egy eszközre igényelhet támogatást, ha a kifizetési kérelem benyújtásának napjától számított három éven belül ugyanolyan eszközcsoportra nem állapítottak meg részére támogatást.
 
 (10) Az (1) bekezdés b) pontja szerinti intézkedés esetében egy kifizetési kérelemben egyszerre több eszközcsoport is megjelölhető.
 
-(11)[^74] Az (1) bekezdés b) pontja szerinti intézkedés esetében a támogatás mértéke eszközcsoportonként – a számítástechnikai kellékanyagokat kivéve – az elszámolható költség, amely a beszerzési ár 100%-a, de legfeljebb 200 000 forint.
+(11)[^80] Az (1) bekezdés b) pontja szerinti intézkedés esetében a támogatás mértéke eszközcsoportonként – a számítástechnikai kellékanyagokat kivéve – az elszámolható költség, amely a beszerzési ár 100%-a, de legfeljebb 200 000 forint.
 
 (12) A kérelmező a (8) bekezdés szerinti eszközcsoportba tartozó eszközt köteles a támogatást megállapító határozat kézhezvételét követő naptól kezdődően három éven át folyamatosan birtokában tartani és rendeltetésszerűen használni.
 
@@ -120,7 +120,7 @@ i)[^73] számítástechnikai kellékanyagok maximum 50 000 forint/végrehajtási
 
 (14) Az (1) bekezdés c) pontja szerinti intézkedés keretében a következő költségek számolhatóak el:
 
-a)[^75] az alábbi eszközcsoportok beszerzésének és üzembe helyezésének költsége:
+a)[^81] az alábbi eszközcsoportok beszerzésének és üzembe helyezésének költsége:
 
 aa) fénymásoló,
 
@@ -140,11 +140,11 @@ b) számítástechnikai eszközök javítása;
 
 c) szoftverfejlesztés;
 
-d)[^76] informatikai rendszerek működtetése, fejlesztése, üzembe helyezése.
+d)[^82] informatikai rendszerek működtetése, fejlesztése, üzembe helyezése.
 
-e)[^77] interneteshonlap-készítés, -fenntartás;
+e)[^83] interneteshonlap-készítés, -fenntartás;
 
-f)[^78] számítástechnikai kellékanyagok.
+f)[^84] számítástechnikai kellékanyagok.
 
 (15) Az (1) bekezdés c) pontja szerinti intézkedés esetén egy kifizetési kérelemben többféle eszközcsoport is megjelölhető.
 
@@ -156,13 +156,13 @@ a) a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylato
 
 b) az ellenérték megtérítését igazoló bizonylat,
 
-c)[^79] az I. végrehajtási időszak első kifizetési kérelmével egyidejűleg a számítástechnikai eszközök javítása, a szoftverfejlesztés, az informatikai rendszerek működtetése, fejlesztése érdekében kötött, cégszerű aláírással ellátott megbízási vagy vállalkozási szerződés, amelyet ismételten be kell nyújtani, ha a szerződés tartalmában, adataiban vagy a tevékenységet elvégző személyében változás következik be, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat.
+c)[^85] az I. végrehajtási időszak első kifizetési kérelmével egyidejűleg a számítástechnikai eszközök javítása, a szoftverfejlesztés, az informatikai rendszerek működtetése, fejlesztése érdekében kötött, cégszerű aláírással ellátott megbízási vagy vállalkozási szerződés, amelyet ismételten be kell nyújtani, ha a szerződés tartalmában, adataiban vagy a tevékenységet elvégző személyében változás következik be, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat.
 
 (18) Ha az (1) bekezdés b) pontja szerinti kérelmező a (12) bekezdésben meghatározott határidőig, valamint az (1) bekezdés c) pontja szerinti kérelmező a (16) bekezdésben meghatározott határidőig nem tesz eleget az üzemben tartási, illetve megőrzési kötelezettségének, akkor az adott kifizetési kérelemre igénybe vett támogatás egésze jogosulatlannak minősül.
 
 (19) Az (1) bekezdés b) és c) pontja szerinti, nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az erre a célra rendszeresített elektronikus űrlapkitöltő felületen keresztül – a bekövetkezését követően haladéktalanul be kell jelenteni a Kincstár részére.
 
-(20)[^80] Az (1) bekezdés d) pontja szerinti intézkedés keretében az alábbi költségek számolhatóak el:
+(20)[^86] Az (1) bekezdés d) pontja szerinti intézkedés keretében az alábbi költségek számolhatóak el:
 
 a) a méhészeti szervezetek működéséhez szükséges ingatlan tartós bérlet és annak minden költsége (ideértve az ügyvédi díjat, közjegyzői díjat is);
 
@@ -170,57 +170,57 @@ b) ingatlan rezsiköltsége (különösen víz, áram, gáz, takarítás);
 
 c) irodabútorok vásárlása.
 
-(21)[^81] Az (1) bekezdés d) pontja szerinti támogatás igénylése esetén a kifizetési kérelemhez csatolni kell az alábbi dokumentumok másolati példányát:
+(21)[^87] Az (1) bekezdés d) pontja szerinti támogatás igénylése esetén a kifizetési kérelemhez csatolni kell az alábbi dokumentumok másolati példányát:
 
 a) a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylat, azaz a kérelmező nevére és címére kiállított számla és az ellenérték megtérítését igazoló bizonylat;
 
 b) ingatlan tartós bérleti szerződése.
 
-(22)[^82] Az (1) bekezdés e) pontja szerinti intézkedés keretében támogatás az alábbi eszközcsoportok beszerzéséhez vehető igénybe:
+(22)[^88] Az (1) bekezdés e) pontja szerinti intézkedés keretében támogatás az alábbi eszközcsoportok beszerzéséhez vehető igénybe:
 
 a) asztali vagy hordozható számítógép;
 
 b) multifunkcionális lézernyomtató.
 
-(23)[^83] Az (1) bekezdés e) pontja szerinti intézkedés esetében a támogatás mértéke az asztali vagy hordozható számítógép esetén a beszerzési ár 70%-a, de legfeljebb 200 000 forint, multifunkcionális lézernyomtató esetén a beszerzési ár 70%-a, de legfeljebb 35 000 forint.
+(23)[^89] Az (1) bekezdés e) pontja szerinti intézkedés esetében a támogatás mértéke az asztali vagy hordozható számítógép esetén a beszerzési ár 70%-a, de legfeljebb 200 000 forint, multifunkcionális lézernyomtató esetén a beszerzési ár 70%-a, de legfeljebb 35 000 forint.
 
-(24)[^84] A kérelmező, az (1) bekezdés e) pontja szerinti intézkedés esetében, eszközcsoportonként egy eszközre igényelhet támogatást, ha a kifizetési kérelem benyújtásának napjától számított három éven belül ugyanolyan eszközcsoportra nem állapítottak meg részére támogatást.
+(24)[^90] A kérelmező, az (1) bekezdés e) pontja szerinti intézkedés esetében, eszközcsoportonként egy eszközre igényelhet támogatást, ha a kifizetési kérelem benyújtásának napjától számított három éven belül ugyanolyan eszközcsoportra nem állapítottak meg részére támogatást.
 
-(25)[^85] Az (1) bekezdés e) pontja szerinti intézkedés esetében egy kifizetési kérelemben egyszerre több eszközcsoport is megjelölhető.
+(25)[^91] Az (1) bekezdés e) pontja szerinti intézkedés esetében egy kifizetési kérelemben egyszerre több eszközcsoport is megjelölhető.
 
-(26)[^86] A kérelmező a (22) bekezdés szerinti eszközcsoportba tartozó eszközt köteles a támogatást megállapító határozat kézhezvételét követő naptól kezdődően három éven át folyamatosan birtokában tartani és rendeltetésszerűen használni.
+(26)[^92] A kérelmező a (22) bekezdés szerinti eszközcsoportba tartozó eszközt köteles a támogatást megállapító határozat kézhezvételét követő naptól kezdődően három éven át folyamatosan birtokában tartani és rendeltetésszerűen használni.
 
-(27)[^87] A (22) bekezdés szerinti eszközcsoportba tartozó eszköz beszerzésénél a kifizetési kérelemben az eszközök egyedi azonosítására alkalmas jelölését fel kell tüntetni. Nem fogadható el egyedi azonosítására alkalmas jelölésként a típusszám, gyártói cikkszám, cikkszám, gyártási év, vámtarifaszám, leltár szám.
+(27)[^93] A (22) bekezdés szerinti eszközcsoportba tartozó eszköz beszerzésénél a kifizetési kérelemben az eszközök egyedi azonosítására alkalmas jelölését fel kell tüntetni. Nem fogadható el egyedi azonosítására alkalmas jelölésként a típusszám, gyártói cikkszám, cikkszám, gyártási év, vámtarifaszám, leltár szám.
 
-(28)[^88] Ha a kérelmező a (26) bekezdésben meghatározott határidőig nem tesz eleget az üzemben tartási, illetve megőrzési kötelezettségének, akkor az adott kifizetési kérelemre igénybe vett támogatás egésze jogosulatlannak minősül.
+(28)[^94] Ha a kérelmező a (26) bekezdésben meghatározott határidőig nem tesz eleget az üzemben tartási, illetve megőrzési kötelezettségének, akkor az adott kifizetési kérelemre igénybe vett támogatás egésze jogosulatlannak minősül.
 
-(29)[^89] A nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az erre a célra rendszeresített elektronikus űrlapkitöltő felületen keresztül – a bekövetkezését követően haladéktalanul be kell jelenteni a Kincstár részére.
+(29)[^95] A nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az erre a célra rendszeresített elektronikus űrlapkitöltő felületen keresztül – a bekövetkezését követően haladéktalanul be kell jelenteni a Kincstár részére.
 
-(30)[^90] Az (1) bekezdés e) pontja szerinti támogatás igénylése esetén a kifizetési kérelemhez csatolni kell a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylat, azaz a kérelmező nevére és címére kiállított számla és az ellenérték megtérítését igazoló bizonylat másolati példányát.
+(30)[^96] Az (1) bekezdés e) pontja szerinti támogatás igénylése esetén a kifizetési kérelemhez csatolni kell a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylat, azaz a kérelmező nevére és címére kiállított számla és az ellenérték megtérítését igazoló bizonylat másolati példányát.
 
-[^65]: A 18. § (1) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^66]: A 18. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^67]: A 18. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^68]: A 18. § (4) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^69]: A 18. § (4a) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^70]: A 18. § (5) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^71]: A 18. § (6) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^72]: A 18. § (8) bekezdés f) pontja a 25/2021. (VII. 14.) AM rendelet 36. § g) pontja szerint módosított szöveg.
-[^73]: A 18. § (8) bekezdés i) pontját a 25/2021. (VII. 14.) AM rendelet 22. § (3) bekezdése iktatta be.
-[^74]: A 18. § (11) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (4) bekezdésével megállapított szöveg.
-[^75]: A 18. § (14) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 36. § h) pontja szerint módosított szöveg.
-[^76]: A 18. § (14) bekezdés d) pontja a 25/2021. (VII. 14.) AM rendelet 36. § i) pontja szerint módosított szöveg.
-[^77]: A 18. § (14) bekezdés e) pontját a 25/2021. (VII. 14.) AM rendelet 22. § (5) bekezdése iktatta be.
-[^78]: A 18. § (14) bekezdés f) pontját a 25/2021. (VII. 14.) AM rendelet 22. § (5) bekezdése iktatta be.
-[^79]: A 18. § (17) bekezdés c) pontja a 12/2020. (IV. 3.) AM rendelet 2. §-ával megállapított szöveg.
-[^80]: A 18. § (20) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^81]: A 18. § (21) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^82]: A 18. § (22) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^83]: A 18. § (23) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^84]: A 18. § (24) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^85]: A 18. § (25) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^86]: A 18. § (26) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^87]: A 18. § (27) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^88]: A 18. § (28) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^89]: A 18. § (29) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
-[^90]: A 18. § (30) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^71]: A 18. § (1) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^72]: A 18. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § f) pontja szerint módosított szöveg.
+[^73]: A 18. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^74]: A 18. § (4) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^75]: A 18. § (4a) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^76]: A 18. § (5) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^77]: A 18. § (6) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^78]: A 18. § (8) bekezdés f) pontja a 25/2021. (VII. 14.) AM rendelet 36. § g) pontja szerint módosított szöveg.
+[^79]: A 18. § (8) bekezdés i) pontját a 25/2021. (VII. 14.) AM rendelet 22. § (3) bekezdése iktatta be.
+[^80]: A 18. § (11) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (4) bekezdésével megállapított szöveg.
+[^81]: A 18. § (14) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 36. § h) pontja szerint módosított szöveg.
+[^82]: A 18. § (14) bekezdés d) pontja a 25/2021. (VII. 14.) AM rendelet 36. § i) pontja szerint módosított szöveg.
+[^83]: A 18. § (14) bekezdés e) pontját a 25/2021. (VII. 14.) AM rendelet 22. § (5) bekezdése iktatta be.
+[^84]: A 18. § (14) bekezdés f) pontját a 25/2021. (VII. 14.) AM rendelet 22. § (5) bekezdése iktatta be.
+[^85]: A 18. § (17) bekezdés c) pontja a 12/2020. (IV. 3.) AM rendelet 2. §-ával megállapított szöveg.
+[^86]: A 18. § (20) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^87]: A 18. § (21) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^88]: A 18. § (22) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^89]: A 18. § (23) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^90]: A 18. § (24) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^91]: A 18. § (25) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^92]: A 18. § (26) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^93]: A 18. § (27) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^94]: A 18. § (28) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^95]: A 18. § (29) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.
+[^96]: A 18. § (30) bekezdését a 25/2021. (VII. 14.) AM rendelet 22. § (6) bekezdése iktatta be.

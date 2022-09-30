@@ -6,11 +6,11 @@ a) a méhcsaládok méhegészségügyi és környezetterhelési monitoring vizsg
 
 b) az a) pont szerinti vizsgálat eredményének közzétételéhez
 
-## vehető igénybe.
+vehető igénybe.
 
 (2) Az OMME az (1) bekezdés b) pontja szerinti eredményeket legkésőbb a vizsgálat elvégzését követő végrehajtási időszak december 31-éig a honlapján és egy ingyenes szakmai kiadványban köteles közzétenni.
 
-(3)[^122] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 120 000 eurónak, a II. végrehajtási időszakban legfeljebb 134 000 eurónak, a III. végrehajtási időszakban legfeljebb 134 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakra vonatkozó támogatás a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(3)[^130] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 120 000 eurónak, a II. végrehajtási időszakban legfeljebb 134 000 eurónak, a III. végrehajtási időszakban legfeljebb 134 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 45 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (4) A támogatás igénybevételére az OMME jogosult.
 
@@ -26,15 +26,15 @@ c) a méhegészségügyi és környezetterhelési monitoring vizsgálat koordin�
 
 d) hazai hatósági mintavételezés és hazai hatósági vizsgálat alapján készült szakvélemények készítésének költsége.
 
-e)[^123] a III. és a meghosszabbított III. végrehajtási időszakban vizsgálatokhoz szükséges anyagok, eszközök, kellékek, valamint élő méhek beszerzésének költsége.
+e)[^131] a III. és a meghosszabbított III. végrehajtási időszakban vizsgálatokhoz szükséges anyagok, eszközök, kellékek, valamint élő méhek beszerzésének költsége.
 
 (7) Az (1) bekezdés a) pontja szerinti intézkedés igénylése esetén a kifizetési kérelemhez csatolni kell az alábbi dokumentumok másolati példányát:
 
 a) a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat),
 
-b)[^124] az OMME-vel – a méhegészségügyi és környezetterhelési monitoring vizsgálat koordinálása tárgyában – kötött cégszerű aláírással ellátott vállalkozói vagy a megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
+b)[^132] az OMME-vel – a méhegészségügyi és környezetterhelési monitoring vizsgálat koordinálása tárgyában – kötött cégszerű aláírással ellátott vállalkozói vagy a megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
 
-c)[^125] a laboratóriumi vizsgálatok megrendelőlapja vagy a megkötött, cégszerű aláírással ellátott vállalkozói vagy megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
+c)[^133] a laboratóriumi vizsgálatok megrendelőlapja vagy a megkötött, cégszerű aláírással ellátott vállalkozói vagy megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
 
 d) a hivatalos vizsgálati eredmények jegyzőkönyvei, valamint – ha kapcsolódik hozzá – szakmai vélemény.
 
@@ -48,7 +48,7 @@ c) az eredmények közzétételéről szóló tájékoztatás,
 
 d) a kapcsolódó szakmai kiadványnak az eredmények közzétételét tartalmazó oldalai vagy annak elektronikus elérhetősége.
 
-[^122]: A 26. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^123]: A 26. § (6) bekezdés e) pontját a 25/2021. (VII. 14.) AM rendelet 30. § (2) bekezdése iktatta be.
-[^124]: A 26. § (7) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.
-[^125]: A 26. § (7) bekezdés c) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.
+[^130]: A 26. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 30. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § j) pontja szerint módosított szöveg.
+[^131]: A 26. § (6) bekezdés e) pontját a 25/2021. (VII. 14.) AM rendelet 30. § (2) bekezdése iktatta be.
+[^132]: A 26. § (7) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.
+[^133]: A 26. § (7) bekezdés c) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.

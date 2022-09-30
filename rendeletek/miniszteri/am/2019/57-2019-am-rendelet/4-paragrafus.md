@@ -6,9 +6,9 @@ b) a II. végrehajtási időszak tekintetében 2020. augusztus 1. és 2021. júl
 
 c) a III. végrehajtási időszak tekintetében 2021. augusztus 1. és 2022. július 31.
 
-d)[^8] a meghosszabbított III. végrehajtási időszak tekintetében 2022. augusztus 1. és 2022. december 31.
+d)[^13] a meghosszabbított III. végrehajtási időszak tekintetében 2022. augusztus 1. és 2022. december 31.
 
-## közötti időszakra esik.
+közötti időszakra esik.
 
 (2) Nem igényelhető támogatás abban az esetben, ha a kérelmezőnek az adott számla vagy egyéb bizonylat költsége vonatkozásában az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet szerinti vidékfejlesztési támogatás keretében benyújtott támogatási igénye már elfogadásra került.
 
@@ -36,7 +36,7 @@ c) nem alanya az Áfa tv.-nek, de 2019. december 31-én az egyszerűsített vál
 
 (9) A Kincstártól kapott előzetes adatok alapján, az egyes intézkedések támogatására elkülönített keretösszegek közötti átcsoportosítást a miniszter engedélyezi.
 
-(10)[^9] A 2. § (1) bekezdés a) pont ae) alpontja, az af) alpontjában foglalt, az OMME termelői mézesüveg beszerzési költségének támogatása, az ag) alpontjában foglalt, méhészek kommunikációját és működését segítő eszközök beszerzési költségének támogatása, a b) pont ba) és bb) alpontja, c), e) és h) pontja szerinti intézkedések esetén a támogatási jogosultság alapja
+(10)[^14] A 2. § (1) bekezdés a) pont ae) alpontja, az af) alpontjában foglalt, az OMME termelői mézesüveg beszerzési költségének támogatása, az ag) alpontjában foglalt, méhészek kommunikációját és működését segítő eszközök beszerzési költségének támogatása, a b) pont ba) és bb) alpontja, c), e) és h) pontja szerinti intézkedések esetén a támogatási jogosultság alapja
 
 a) az adott végrehajtási időszakra vonatkozó őszi méhegészségügyi vizsgálat során megállapított,
 
@@ -44,13 +44,13 @@ b) a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok ors
 
 c) a kifizetési kérelem benyújtása napján is a kérelmező tulajdonában lévő
 
-## méhcsaládok száma.
+méhcsaládok száma.
 
 (11) A 2. § (1) bekezdés a) pont ae) alpontja és c) pontja szerinti intézkedések vonatkozásában a méhcsaládszámhoz nem kötött eszközök támogatására vonatkozó kifizetési kérelem benyújtása esetén – a (10) bekezdés a) és b) pontjától eltérően – elegendő a tenyészetkód TIR-nyilvántartásban történő megléte.
 
 (12) A (11) bekezdés szerinti intézkedések kivételével az adott végrehajtási időszakban szeptember 30-át követő tartási kezdettel a TIR-nyilvántartásba bejelentett és nyilvántartásba vett tenyészetek és tartási helyek után támogatás nem igényelhető.
 
-(13)[^10] A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) a (10) bekezdés szerinti, a kifizetési kérelem bírálatához szükséges adatokat a Támogatási törvény 26. § (3) bekezdés 19. pontja alapján az I. végrehajtási időszakban az e rendelet hatálybalépését követő hatvan napon belül, a II. végrehajtási időszakban 2020. november 30-áig, a III. végrehajtási időszakban 2021. november 30-áig, a meghosszabbított III. végrehajtási időszakban 2022. november 30-áig elektronikus úton átadja a Kincstár részére.
+(13)[^15] A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) a (10) bekezdés szerinti, a kifizetési kérelem bírálatához szükséges adatokat a Támogatási törvény 26. § (3) bekezdés 19. pontja alapján az I. végrehajtási időszakban az e rendelet hatálybalépését követő hatvan napon belül, a II. végrehajtási időszakban 2020. november 30-áig, a III. végrehajtási időszakban 2021. november 30-áig, a meghosszabbított III. végrehajtási időszakban 2022. november 30-áig elektronikus úton átadja a Kincstár részére.
 
 (14) A kifizetési kérelmek adminisztratív ellenőrzése során kizárólag a (13) bekezdés szerint átadott adatok vehetők figyelembe. A (11) bekezdés szerinti intézkedések kivételével a kifizetési kérelemben megjelölt, a NÉBIH által a (13) bekezdés szerint átadott TIR-adatlistákon nem szereplő méhcsaládok után támogatás nem vehető igénybe.
 
@@ -66,9 +66,9 @@ c) kérelmező címe,
 
 d) megye megnevezése.
 
-(17)[^11] A 2. § (1) bekezdés a) pont ab) és ad) alpontja, az ag) alpontban foglalt, az OMME szervezeti ülés költségeinek támogatása alintézkedés, valamint b) pont bc) alpontja szerinti intézkedés esetében a támogatás igénybevételének feltétele a rendezvényen elhangzott előadás vagy rendezvény Kincstár honlapján közzétett közleményben foglaltaknak megfelelően elkészített tematikájának a kifizetési kérelemhez történő csatolása.
+(17)[^16] A 2. § (1) bekezdés a) pont ab) és ad) alpontja, az ag) alpontban foglalt, az OMME szervezeti ülés költségeinek támogatása alintézkedés, valamint b) pont bc) alpontja szerinti intézkedés esetében a támogatás igénybevételének feltétele a rendezvényen elhangzott előadás vagy rendezvény Kincstár honlapján közzétett közleményben foglaltaknak megfelelően elkészített tematikájának a kifizetési kérelemhez történő csatolása.
 
-[^8]: A 4. § (1) bekezdés d) pontját a 25/2021. (VII. 14.) AM rendelet 9. § (1) bekezdése iktatta be.
-[^9]: A 4. § (10) bekezdése a 25/2021. (VII. 14.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^10]: A 4. § (13) bekezdése a 25/2021. (VII. 14.) AM rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^11]: A 4. § (17) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § d) pontja szerint módosított szöveg.
+[^13]: A 4. § (1) bekezdés d) pontját a 25/2021. (VII. 14.) AM rendelet 9. § (1) bekezdése iktatta be.
+[^14]: A 4. § (10) bekezdése a 25/2021. (VII. 14.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^15]: A 4. § (13) bekezdése a 25/2021. (VII. 14.) AM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^16]: A 4. § (17) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § d) pontja szerint módosított szöveg.

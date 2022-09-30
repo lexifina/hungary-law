@@ -56,6 +56,11 @@ b) 2020. augusztus 1-jétől 2021. július 31-éig (a továbbiakban: II. végreh
 
 c) 2021. augusztus 1-jétől 2022. július 31-éig (a továbbiakban: III. végrehajtási időszak)
 
-d)[^2] 2022. augusztus 1-jétől 2022. december 31-éig (a továbbiakban: meghosszabbított III. végrehajtási időszak)
+d)[^2] – (3) bekezdésben foglalt kivétellel – 2022. augusztus 1-jétől 2022. december 31-éig (a továbbiakban: meghosszabbított III. végrehajtási időszak)
 
-[^2]: A 2. § (2) bekezdés d) pontját a 25/2021. (VII. 14.) AM rendelet 7. §-a iktatta be.
+tartó időszakokban kell megvalósítani.
+
+(3)[^3] Az (1) bekezdés a) pont ad) alpontja, b), e) és g) pontja szerinti intézkedés, a 16. § (4) bekezdés b), d)–h), k), o)–u) és w) pontjában meghatározott eszközcsoport beszerzése, a 18. § (1) bekezdés b), d) és e) pontja szerinti intézkedés, a 18. § (14) bekezdés a) pont aa)–ad) alpontjában és f) pontjában meghatározott eszközcsoport beszerzése, a 22. § (4) bekezdés 9–22. pontjában meghatározott eszközcsoport beszerzése, valamint a 27. § (1) bekezdés b) és c) pontja szerinti intézkedés a meghosszabbított III. végrehajtási időszakban nem kerül végrehajtásra.
+
+[^2]: A 2. § (2) bekezdés d) pontját a 25/2021. (VII. 14.) AM rendelet 7. §-a iktatta be, szövege a 31/2022. (IX. 27.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdését a 31/2022. (IX. 27.) AM rendelet 1. § (2) bekezdése iktatta be.

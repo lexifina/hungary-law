@@ -1,5 +1,3 @@
-## tartó időszakokban kell megvalósítani.
-
 ## 3. Az egyes támogatások igénybevételének általános feltételei
 
 3. § (1) A 2. § (1) bekezdésében felsorolt intézkedések támogatása iránti kérelmek (a továbbiakban: kifizetési kérelem) bírálatával és a támogatás kifizetésével kapcsolatos feladatokat a Magyar Államkincstár (a továbbiakban: Kincstár) látja el.
@@ -16,11 +14,11 @@ b) a II. végrehajtási időszakra vonatkozóan 2020. október 16-ától,
 
 c) a III. végrehajtási időszakra vonatkozóan 2021. október 16-ától
 
-d)[^3] a meghosszabbított III. végrehajtási időszakra vonatkozóan 2022. október 16-ától
+d)[^4] a meghosszabbított III. végrehajtási időszakra vonatkozóan 2022. október 16-ától
 
-## lehet benyújtani a Kincstárhoz a (2) bekezdésében meghatározottak szerint.
+lehet benyújtani a Kincstárhoz a (2) bekezdésében meghatározottak szerint.
 
-(5)[^4] A kifizetési kérelem benyújtásának jogvesztő határideje
+(5)[^5] A kifizetési kérelem benyújtásának jogvesztő határideje
 
 a) a 2. § (1) bekezdés b) pont ba) alpontja szerinti intézkedés esetén:
 
@@ -38,7 +36,7 @@ bb) a II. végrehajtási időszak vonatkozásában 2021. július 3-a,
 
 bc) a III. végrehajtási időszak vonatkozásában 2022. július 3-a,
 
-bd) a meghosszabbított III. végrehajtási időszak vonatkozásában 2023. január 31-e;
+bd)[^6] – az (5a) bekezdésben foglalt kivétellel – a meghosszabbított III. végrehajtási időszak vonatkozásában 2023. január 31-e;
 
 c) a 2. § (1) bekezdés a) pont ae) alpontja, az ag) alpontjában foglalt méhészek kommunikációját és működését segítő eszközök beszerzésének támogatása alintézkedés és a c) pontja szerinti intézkedés esetén:
 
@@ -58,7 +56,7 @@ db) a II. végrehajtási időszak vonatkozásában 2021. augusztus 3-a,
 
 dc) a III. végrehajtási időszak vonatkozásában 2022. augusztus 3-a,
 
-dd) a meghosszabbított III. végrehajtási időszak vonatkozásában 2023. január 31-e;
+dd)[^7]
 
 e) a 2. § (1) bekezdés a) pont aa)–ad) alpontjában, az a) pont af) alpontjában foglalt, a termelői mézesüveg gyártásához szükséges formagarnitúra, a) pont ag) alpontjában foglalt méhészek kommunikációját és működését segítő eszközök beszerzésének támogatása alintézkedés kivételével, a 2. § (1) bekezdés b) pont bc) alpontja, d), f) és g) pontja szerinti intézkedés esetén:
 
@@ -68,13 +66,15 @@ eb) a II. végrehajtási időszak vonatkozásában 2021. augusztus 15-e,
 
 ec) a III. végrehajtási időszak vonatkozásában 2022. augusztus 15-e,
 
-ed) a meghosszabbított III. végrehajtási időszak vonatkozásában 2023. január 31-e;
+ed)[^8] – az (5a) bekezdésben foglalt kivétellel – a meghosszabbított III. végrehajtási időszak vonatkozásában 2023. január 31-e;
 
 f) a 2. § (1) bekezdés a) pont ab) és ad), valamint b) pont bc) alpontja szerinti intézkedések esetén a rendezvény zárónapjától számított kilencvenedik nap, az adott végrehajtási időszakban október 16-át megelőzően megrendezett rendezvények esetén ugyanazon végrehajtási időszak október 16-át követő harmincadik nap, de legkésőbb a d) pontban meghatározott határidő azzal, hogy ha a rendezvény több napos, zárónapnak azon utolsó napot kell tekinteni, amely napon a támogatható rendezvény megvalósul;
 
 g) a 2. § (1) bekezdés a) pont aa) alpontjához tartozó alintézkedések közül a 9. § (1) bekezdés a) és c) alpontja szerinti alintézkedések, továbbá a 2. § (1) bekezdés a) pont ac) alpontja, valamint g) pontja szerinti intézkedések esetén a tárgyhónap utolsó napját követő hatvanadik nap, de legkésőbb a d) pontban meghatározott határidő.
 
-(6)[^5] A hiánypótlás benyújtásának jogvesztő határideje a 2. § (1) bekezdés a) pont ae) alpontja és c) pontja szerinti intézkedés, továbbá a 2. § (1) bekezdés a) pont ag) alpontja szerinti, méhészek kommunikációját és működését segítő eszközök beszerzésének támogatása alintézkedés kivételével:
+(5a)[^9] A 2. § (1) bekezdés a) pont ad) alpontja, b) pont bb) és bc) alpontja, valamint g) pontja szerinti intézkedés esetén kifizetési kérelem a meghosszabbított III. végrehajtási időszakban nem nyújtható be.
+
+(6)[^10] A hiánypótlás benyújtásának jogvesztő határideje a 2. § (1) bekezdés a) pont ae) alpontja és c) pontja szerinti intézkedés, továbbá a 2. § (1) bekezdés a) pont ag) alpontja szerinti, méhészek kommunikációját és működését segítő eszközök beszerzésének támogatása alintézkedés kivételével:
 
 a) az I. végrehajtási időszak vonatkozásában 2020. szeptember 1-je,
 
@@ -84,9 +84,9 @@ c) a III. végrehajtási időszak vonatkozásában 2022. szeptember 1-je,
 
 d) a meghosszabbított III. végrehajtási időszak vonatkozásában: 2023. június 30-a.
 
-(6a)[^6] Ha az I. végrehajtási időszak tekintetében a hiánypótlás teljesítésére megállapított nyolcnapos határidő a hiánypótlásra felszólító végzés kézhezvételétől számított – (6) bekezdés a) pontja szerinti – határidőt követően járt le, akkor a 2020. szeptember 10-éig megküldött hiánypótlást határidőben teljesítettnek kell tekinteni.
+(6a)[^11] Ha az I. végrehajtási időszak tekintetében a hiánypótlás teljesítésére megállapított nyolcnapos határidő a hiánypótlásra felszólító végzés kézhezvételétől számított – (6) bekezdés a) pontja szerinti – határidőt követően járt le, akkor a 2020. szeptember 10-éig megküldött hiánypótlást határidőben teljesítettnek kell tekinteni.
 
-(6b)[^7] A hiánypótlás benyújtásának jogvesztő határideje a 2. § (1) bekezdés a) pont ae) alpontja és c) pontja szerinti intézkedés, továbbá a 2. § (1) bekezdés a) pont ag) alpontja szerinti, méhészek kommunikációját és működését segítő eszközök beszerzésének támogatása alintézkedés esetén:
+(6b)[^12] A hiánypótlás benyújtásának jogvesztő határideje a 2. § (1) bekezdés a) pont ae) alpontja és c) pontja szerinti intézkedés, továbbá a 2. § (1) bekezdés a) pont ag) alpontja szerinti, méhészek kommunikációját és működését segítő eszközök beszerzésének támogatása alintézkedés esetén:
 
 a) az I. végrehajtási időszak vonatkozásában 2020. szeptember 1-je,
 
@@ -112,8 +112,12 @@ d) a meghosszabbított III. végrehajtási időszak vonatkozásában: 2023. jún
 
 (14) A 4. § (9) bekezdése szerinti keretátcsoportosítás engedélyezése után, az adott intézkedésre meghatározott támogatási keret kimerülését követően beérkezett kifizetési kérelmek visszautasításáról a Kincstár dönt. A 2. § (1) bekezdés b) pont ba) alpontja, valamint e) pontja szerinti intézkedések esetén, ha a 4. § (9) bekezdése szerinti keretátcsoportosítás engedélyezése után a jóváhagyható támogatási igény meghaladja az elkülönített keretösszeget, akkor az egyes kifizetési kérelmek alapján jóváhagyható támogatási összegeket arányosan csökkenteni kell.
 
-[^3]: A 3. § (4) bekezdés d) pontját a 25/2021. (VII. 14.) AM rendelet 8. § (1) bekezdése iktatta be.
-[^4]: A 3. § (5) bekezdése a 25/2021. (VII. 14.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (6) bekezdése a 25/2021. (VII. 14.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^6]: A 3. § (6a) bekezdését a 46/2020. (IX. 23.) AM rendelet 40. §-a iktatta be.
-[^7]: A 3. § (6b) bekezdését a 25/2021. (VII. 14.) AM rendelet 8. § (3) bekezdése iktatta be.
+[^4]: A 3. § (4) bekezdés d) pontját a 25/2021. (VII. 14.) AM rendelet 8. § (1) bekezdése iktatta be.
+[^5]: A 3. § (5) bekezdése a 25/2021. (VII. 14.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (5) bekezdés b) pont bd) alpontja a 31/2022. (IX. 27.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (5) bekezdés d) pont dd) alpontját a 31/2022. (IX. 27.) AM rendelet 6. § a) pontja hatályon kívül helyezte.
+[^8]: A 3. § (5) bekezdés e) pont ed) alpontja a 31/2022. (IX. 27.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § (5a) bekezdését a 31/2022. (IX. 27.) AM rendelet 2. § (3) bekezdése iktatta be.
+[^10]: A 3. § (6) bekezdése a 25/2021. (VII. 14.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (6a) bekezdését a 46/2020. (IX. 23.) AM rendelet 40. §-a iktatta be.
+[^12]: A 3. § (6b) bekezdését a 25/2021. (VII. 14.) AM rendelet 8. § (3) bekezdése iktatta be.

@@ -2,7 +2,7 @@
 
 29. § (1) A 2. § (1) bekezdés h) pont ha) alpontja szerinti intézkedés vonatkozásában támogatás az OMME által forgalmazott méz-zárszalag beszerzéséhez vehető igénybe.
 
-(2)[^136] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 30 000 eurónak, a II. végrehajtási időszakban legfeljebb 15 000 eurónak, a III. végrehajtási időszakban legfeljebb 15 000 eurónak megfelelő forintösszeg végrehajtási időszakonként. A meghosszabbított III. végrehajtási időszakra vonatkozó támogatás a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^144] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 30 000 eurónak, a II. végrehajtási időszakban legfeljebb 15 000 eurónak, a III. végrehajtási időszakban legfeljebb 15 000 eurónak megfelelő forintösszeg végrehajtási időszakonként. A meghosszabbított III. végrehajtási időszakban 4000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) A támogatás igénylésére olyan, a kifizetési kérelem benyújtásának évére vonatkozó érvényes OMME tagsági viszonnyal rendelkező kérelmező jogosult, aki rendelkezik a 4. § (10) bekezdésben foglaltak szerint legalább 1 méhcsaláddal.
 
@@ -18,4 +18,4 @@ b) az ellenérték megtérítését igazoló bizonylat.
 
 (7) A támogatás mértéke a beszerzett OMME méz-zárszalag értékének 75%-a.
 
-[^136]: A 29. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 33. §-ával megállapított szöveg.
+[^144]: A 29. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 33. §-ával megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § l) pontja szerint módosított szöveg.

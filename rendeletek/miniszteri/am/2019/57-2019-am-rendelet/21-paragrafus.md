@@ -2,7 +2,7 @@
 
 21. § (1) A 2. § (1) bekezdés b) pont bc) alpontja szerinti intézkedés vonatkozásában támogatás a méhegészségügyi felelősök részére a méhbetegségek felismeréséhez és a védekezéshez szükséges ismeretek átadása érdekében megtartott képzések szervezésének költségeire vehető igénybe.
 
-(2)[^94] A támogatás keretösszege legfeljebb 30 000 eurónak megfelelő forintösszeg végrehajtási időszakonként. A meghosszabbított III. végrehajtási időszakra vonatkozó támogatás a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^100] A támogatás keretösszege legfeljebb 30 000 eurónak megfelelő forintösszeg végrehajtási időszakonként.
 
 (3) A támogatás igénybevételére az OMME, illetve az OMME tagszervezete jogosult.
 
@@ -14,7 +14,7 @@
 
 (7) A támogatás keretében a következő költségek számolhatóak el:
 
-a)[^95] az előadói díj az I. és II. végrehajtási időszakban legfeljebb 40 000 forint/előadó/rendezvény a III. és a meghosszabbított III. végrehajtási időszakban 50 000 forint/előadó/rendezvény összegig, megbízási szerződés esetén ennek közterhekkel növelt összegéig;
+a)[^101] az előadói díj az I. és II. végrehajtási időszakban legfeljebb 40 000 forint/előadó/rendezvény a III. végrehajtási időszakban 50 000 forint/előadó/rendezvény összegig, megbízási szerződés esetén ennek közterhekkel növelt összegéig;
 
 b) az előadó elszállásolási költsége legfeljebb 16 000 forint/nap/előadó/rendezvény, étkezési költség legfeljebb 5000 forint/nap/előadó/rendezvény mértékéig;
 
@@ -56,8 +56,8 @@ i) jelenléti ív, amely tartalmazza az előadás címét, a képzés helyszín�
 
 j) a kérelmező nyilatkozata arról, hogy a méhegészségügyi felelősök nem fizettek részvételi vagy belépődíjat;
 
-k)[^96] az OMME nyilatkozata a képzés Méhészeti Programba illeszkedéséről, amennyiben a kérelmező az OMME tagszervezete.
+k)[^102] az OMME nyilatkozata a képzés Méhészeti Programba illeszkedéséről, amennyiben a kérelmező az OMME tagszervezete.
 
-[^94]: A 21. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^95]: A 21. § (7) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^96]: A 21. § (8) bekezdés k) pontja a 25/2021. (VII. 14.) AM rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^100]: A 21. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 25. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 6. § d) pontja szerint módosított szöveg.
+[^101]: A 21. § (7) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 25. § (2) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^102]: A 21. § (8) bekezdés k) pontja a 25/2021. (VII. 14.) AM rendelet 25. § (3) bekezdésével megállapított szöveg.
