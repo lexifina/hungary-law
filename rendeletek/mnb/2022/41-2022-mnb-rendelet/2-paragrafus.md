@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz, 4% nikkel és 21% cink ötvözetéből készült, súlya 16 gramm, átmérője 34 mm, széle finomrecés, a recéken a kétszer ismétlődő „MAGYAR NÉPMESÉK RAJZFILMSOROZAT ●●●” szélfelirattal.
+
+(2) Az emlékérme előlapján, a bal oldali harmadban a Magyar népmesék című rajzfilmsorozat főcíme alapján készült, stilizált népművészeti virágmotívum és egy galamb, fent napmotívum, jobb oldalon – csillagmotívumokkal körülvéve – holdmotívum ábrázolása látható. Az előlap középső részén, két-két egymás alatti sorban – kézírással – a „Magyarország” felirat, valamint a „2000” értékjelzés és a „forint” felirat, továbbá a „BP.” verdejel és a „2022” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapjának alsó részén félalakos, stilizált népmesei királyfi-ábrázolás, felső részén egy háromfejű, tűzokádó sárkány ábrázolása látható. A hátlap jobb oldalán, a sárkány ábrázolása alatti két sorban – kézírással – a „Király” és a „kis Miklós” felirat olvasható. Az emlékérme jobb oldali szélén, lent Vékony Fanni tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
