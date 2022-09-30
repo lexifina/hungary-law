@@ -20,15 +20,15 @@ h) részt vesz az állatvédelemmel, állatjóléttel kapcsolatos kormányzati k
 
 i) nemzetközi kapcsolatokat épít más országok hasonló testületeivel.
 
-3. A Tanács az elnökön, a társelnökön és a titkáron felül 11 tagból áll.
+3.[^1] A Tanács az elnökön, a társelnökön és a titkáron felül 12 tagból áll.
 
-4.[^1] A Tanács elnöke – a Tanács szavazati joggal bíró tagjaként – az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által felkért személy. A Tanács társelnöke – a Tanács szavazati joggal bíró tagjaként – az állatvédelmi cselekvési terv kidolgozásáért és végrehajtásáért felelős kormánybiztos. A Tanács titkára – a Tanács szavazati joggal bíró tagjaként – a miniszter által az általa vezetett minisztérium állományából kijelölt személy.
+4.[^2] A Tanács elnöke – a Tanács szavazati joggal bíró tagjaként – az igazságügyi miniszter (a továbbiakban: miniszter) által felkért személy. A Tanács társelnöke – a Tanács szavazati joggal bíró tagjaként – az agrárminiszter által felkért személy. A Tanács titkára – a Tanács szavazati joggal bíró tagjaként – a miniszter által az általa vezetett minisztérium állományából kijelölt személy.
 
 5. A Tanács szavazati joggal bíró tagjai:
 
-a) a miniszter által kijelölt 3 fő,
+a)[^3] a miniszter által kijelölt 2 fő,
 
-b) az igazságügyért felelős miniszter által kijelölt 1 fő,
+b)[^4] az agrárminiszter által kijelölt 3 fő,
 
 c) a kormányzati kommunikációért felelős miniszter által kijelölt 1 fő,
 
@@ -50,13 +50,13 @@ a) a Nemzeti Élelmiszerlánc-biztonsági Hivatal vezetője által kijelölt 1 f
 
 b) a Laborállat-tudományi Társaság képviseletében 1 fő,
 
-c) a Magyar Állatkertek Szövetsége képviseletében 1 fő,
+c)[^5] a Magyar Állatkertek Szövetsége képviseletében 2 fő,
 
 d) az Országos Magyar Vadászkamara képviseletében 1 fő,
 
 e) az Eötvös Loránd Tudományegyetem képviseletében 1 fő,
 
-f) a bejegyzett országos állatvédő szervezetek képviseletében 1 fő.
+f)[^6] a bejegyzett állatvédő szervezetek képviseletében 2 fő.
 
 7. A Tanács tagjainak megbízatása 5 évre szól.
 
@@ -78,11 +78,16 @@ d) a kijelölés, megbízatás alapjául szolgáló jogviszony megszűnésével.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13.[^2]
+13.[^7]
 
 14. Az Országos Állatvédelmi és Állatjóléti Tanács tagjainak megbízatása megszűnik.
 
 15. A Tanács elnökét, társelnökét, titkárát és az 5. pont a) alpontja szerinti tagját a miniszter kéri fel, az 5. pont b)–i) alpontja szerinti szervezetek vezetőit a miniszter hívja fel a Tanács tagjának kijelölése érdekében, úgy, hogy a Tanács alakuló ülése 2021. április 15-ig megvalósuljon.
 
-[^1]: A 4. pont az 1271/2022. (V. 27.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont az 1465/2022. (IX. 29.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1465/2022. (IX. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pont a) pont nyitó szövegrésze az 1465/2022. (IX. 29.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
+[^4]: Az 5. pont b) alpontja a az 1465/2022. (IX. 29.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 6. pont c) pontja az 1465/2022. (IX. 29.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
+[^6]: A 6. pont f) pontja az 1465/2022. (IX. 29.) Korm. határozat 3. pont d) pontja szerint módosított szöveg.
+[^7]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
