@@ -1,1 +1,0 @@
-## 29. § A 23–28. § rendelkezései megfelelően alkalmazandók a HET 2021/241/EU rendelet 21. cikke szerinti módosítása, valamint a 2023. január 1. és 2023. december 31. közötti időszakra esedékes forráslehívás miatt esetlegesen szükségessé váló – a 2021/241/EU rendelet 18. cikk (2) bekezdése szerinti – felülvizsgálata során.

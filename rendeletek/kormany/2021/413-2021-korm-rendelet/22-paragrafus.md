@@ -1,1 +1,0 @@
-## 21. § Csalás vagy korrupció alapos gyanúja esetén a nemzeti hatóság a végső kedvezményezettel támogatási jogviszonyt nem létesíthet, szükség esetén a támogatási szerződést megszüntetheti és büntetőeljárást kezdeményezhet.
