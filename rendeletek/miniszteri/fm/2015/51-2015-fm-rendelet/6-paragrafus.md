@@ -20,6 +20,8 @@ h)[^14] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének 
 
 i)[^15] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2020-as pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2020. november 25-i (EU) 2020/1769 bizottsági végrehajtási rendelet
 
+j) [^16] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2021-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2021. november 26-i (EU) 2021/2091 bizottsági végrehajtási rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^9]: A 6. § a) pontja a 65/2016. (IX. 21.) FM rendelet 29. § (1) bekezdésével megállapított szöveg.
@@ -29,3 +31,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^13]: A 6. § g) pontját a 43/2019. (IX. 20.) AM rendelet 5. §-a iktatta be.
 [^14]: A 6. § h) pontját a 47/2020. (IX. 30.) AM rendelet 1. §-a iktatta be.
 [^15]: A 6. § i) pontját a 29/2021. (VIII. 31.) AM rendelet 3. §-a iktatta be.
+[^16]: A 6. § j) alpontját a 30/2022. (IX. 27.) AM rendelet 1. §-a iktatta be.
