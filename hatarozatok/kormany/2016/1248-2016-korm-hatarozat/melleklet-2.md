@@ -1,5 +1,3 @@
-## A Vidékfejlesztési Program éves fejlesztési kerete
-
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Egyes prioritások/fókuszterületek hozzájárulása a felhívás keretösszegéhez (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
@@ -8,7 +6,9 @@
 
 | 3. | VP1-1.1.1-17 | Agrárgazdasági képzések és felkészítõ tréningek | 3,51 | 0,00 | 2,02 | 0,54 | 0,55 | 0,40 | 0,00 | standard | Meghirdetve: 2017. január |
 
-| 4. | VP1-1.2.1-22 | Bemutató üzemek támogatása | 35,00 | 0,00 | 28,00 | 0,00 | 0,00 | 7,00 | 0,00 | standard | 2022. április |
+| 3a. | VP1-1.1.1-22 | Agrárgazdasági képzések és felkészítő tréningek | 1,00 | 0,00 | 0,50 | 0,10 | 0,40 | 0,00 | 0,00 | standard | 2022. december |
+
+| 4. | VP1-1.2.1-23 | Bemutató üzemek támogatása | 15,00 | 0,00 | 10,50 | 0,00 | 0,00 | 2,50 | 0,00 | standard | 2023. február |
 
 | 5. | VP1-1.2.2-16 | Tájékoztatási szolgáltatás | 17,66 | 0,00 | 7,11 | 1,96 | 5,35 | 3,25 | 0,00 | standard | Meghirdetve: 2016. május |
 
@@ -70,6 +70,8 @@
 
 | 22. | VP3-3.1.1-19 | Mezõgazdasági termelõk EU-s és nemzeti minõség-rendszerhez történõ csatlakozásának támogatása | 2,52 | 0,00 | 0,00 | 2,52 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2019. december |
 
+| 22a. | VP3-3.1.1-22 | Mezőgazdasági termelők EU-s és nemzeti minőségrendszerhez történő csatlakozásának támogatása | 2,00 | 0,00 | 0,00 | 2,00 | 0,00 | 0,00 | 0,00 | standard | 2022. december |
+
 | 23. | VP3-3.2.1-21 | Minõségrendszerekhez kapcsolódó elõállítói, termelõi csoportosulások tájékoztatási és promóciós tevékenysége | 8,71 | 0,00 | 0,00 | 8,71 | 0,00 | 0,00 | 0,00 | egyszerûsített | Meghirdetve: 2021. június |
 
 | 24. | VP3-4.2.1-15 | Mezõgazdasági termékek értéknövelése és erõforrás-hatékonyság elõsegítése a feldolgozásban | 96,18 | 0,00 | 0,00 | 78,61 | 0,00 | 8,31 | 9,26 | standard | Meghirdetve: 2015. december |
@@ -100,9 +102,11 @@
 
 | 30a. | VP3-14.1.1-18 | A tejágazat szerkezetátalakítását kísérõ állatjóléti támogatás | 0,07 | – | – | 0,07 | – | – | – | egyszerûsített | Meghirdetve: 2018. október |
 
-| 30b. | VP3-14.1.2-22 | Méh állatjóléti támogatás | 10,00 | 0,00 | 0,00 | 10,00 | 0,00 | 0,00 | 0,00 | egyszerûsített | 2022. április |
+| 30b. | VP3-14.1.2-22 | Méh állatjóléti támogatás | 10,00 | 0,00 | 0,00 | 10,00 | 0,00 | 0,00 | 0,00 | egyszerûsített | Meghirdetve: 2022. június |
 
-| 30c. | VP3-14.1.3-22 | Kiskérõdzõ állatjóléti támogatás | 5,00 | 0,00 | 0,00 | 5,00 | 0,00 | 0,00 | 0,00 | egyszerûsített | 2022. április |
+| 30c. | VP3-14.1.3-22 | Kiskérõdzõ állatjóléti támogatás | 5,00 | 0,00 | 0,00 | 5,00 | 0,00 | 0,00 | 0,00 | egyszerûsített | Meghirdetve: 2022. április |
+
+| 30d. | VP3-14.1.4-22 | Baromfi állatjóléti támogatás | 15,00 | 0,00 | 0,00 | 15,00 | 0,00 | 0,00 | 0,00 | egyszerűsített | 2022. október |
 
 | 31. | VP3-16.1.1-4.1.5- 4.2.1-4.2.2-8.1.1- 8.2.1-8.3.1-8.5.1- 8.5.2-8.6.1-17 | Innovációs operatív csoportok létrehozása és az innovatív projekt megvalósításához szükséges beruházás támogatása | 13,56 | 0,00 | 11,23 | 1,32 | 0,40 | 1,00 | 0,00 | standard | Meghirdetve: 2017. március |
 
@@ -186,7 +190,7 @@
 
 | 59/1. | VP6-6.4.1-21 | Nem mezõgazdasági tevékenységek diverzifikációja – Vidéki turizmus fejlesztése | 50,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 50,00 | standard | Meghirdetve: 2021. november |
 
-| 59/2. | VP6-6.4.1.1-22 | Nem mezõgazdasági tevékenységek diverzifikációja – Lovas létesítmények fejlesztése | 5,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 5,00 | standard | 2022. március |
+| 59/2. | VP6-6.4.1.1-22 | Nem mezõgazdasági tevékenységek diverzifikációja – Lovas létesítmények fejlesztése | 5,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 5,00 | standard | Meghirdetve: 2022. április |
 
 | 60. | VP6-7.2.1.2-16 | Egyedi szennyvízkezelés | 21,79 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 21,79 | standard | Meghirdetve: 2016. február |
 
@@ -212,11 +216,11 @@
 
 | 71. | VP6-19.4.1-16 | LEADER – Mûködési és animációs költségek támogatása | 13,60 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 13,60 | közösségvezérelt helyi fejlesztés (CLLD) | Az intézkedés önálló felhívást nem igényel |
 
-| 72. | VP-20-1-16 | A Vidékfejlesztési Program megvalósítását szolgáló Technikai Segítségnyújtás Projekt | 18,60 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. június |
+| 72. | VP-20-1-16 | A Vidékfejlesztési Program megvalósítását szolgáló Technikai Segítségnyújtás Projekt | 18,06 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. június |
 
 | 73. | VP-20-2-16 | A Magyar Nemzeti Vidéki Hálózat mûködését szolgáló Technikai Segítségnyújtás Projekt | 25,89 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. június |
 
-| 74. | VP-20-3-16 | Az EMVA kifizetõ ügynökségi és közbensõ szervezeti tevékenységhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | 10,42 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. szeptember |
+| 74. | VP-20-3-16 | Az EMVA kifizetõ ügynökségi és közbensõ szervezeti tevékenységhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | 10,96 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. szeptember |
 
 | 75. | VP-20-4-17 | A megyei kormányhivatalok közbensõ szervezeti tevékenységéhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | 13,70 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2017. október |
 
@@ -232,14 +236,14 @@ A Vidékfejlesztési Program nevesített kiemelt projektjei
 
 | 1a | VP3-17.3.1-21 | Krízisbiztosítási rendszer működésének támogatása | Magyar Államkincstár mint kijelölt krízisbiztosítási Szerv | 5,00 | 2022. április | A hazai mezőgazdasági kockázatkezelés az egyik legfejlettebb az Európai Unióban, de 2020-ban egy további elemmel bővült, a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvényben létrehozott úgynevezett krízisbiztosítási rendszerrel. A rendszerben a magyar agrárvállalkozások 2021-től olyan veszteségek ellen is bebiztosíthatják magukat, amelyekre eddig nem volt lehetőségük. A felhívás nyújtotta támogatás a krízisbiztosítási pénzeszköz része, közvetlen kedvezményezettje az alapot kezelő szerv, közvetett kedvezményezettjei a krízisbiztosítási rendszerben részt vevő termelők. |
 
-| 2. | VP-20-1-16 | A Vidékfejlesztési Program megvalósítását szolgáló Technikai Segítségnyújtás Projekt | Agrárminisztérium | 18,60 | 2016 | A projekt célja a Vidékfejlesztési Program tevékenységei előkészítésének, monitoringjának és ellenőrzésének támogatása, amely tevékenységek segítik a folyamatos információszerzést a program végrehajtásának állapotáról, előrehaladásáról, valamint a szükséges módosítások előkészítéséről annak érdekében, hogy a program a lehető leghatékonyabb módon érje el a kitűzött céljait. A projekt célja továbbá, hogy az Európai Bizottság által elvárt monitoring és értékelési jelentési kötelezettség teljesüljön. |
+| 2. | VP-20-1-16 | A Vidékfejlesztési Program megvalósítását szolgáló Technikai Segítségnyújtás Projekt | Agrárminisztérium | 18,06 | 2016 | A projekt célja a Vidékfejlesztési Program tevékenységei előkészítésének, monitoringjának és ellenőrzésének támogatása, amely tevékenységek segítik a folyamatos információszerzést a program végrehajtásának állapotáról, előrehaladásáról, valamint a szükséges módosítások előkészítéséről annak érdekében, hogy a program a lehető leghatékonyabb módon érje el a kitűzött céljait. A projekt célja továbbá, hogy az Európai Bizottság által elvárt monitoring és értékelési jelentési kötelezettség teljesüljön. |
 
 | 3. | VP-20-2-16 | A Magyar Nemzeti Vidéki Hálózat működését szolgáló Technikai Segítségnyújtás Projekt | Agrárminisztérium | 25,89 | 2016 | A projekt célja, hogy a Magyar Nemzeti Vidéki Hálózat működésén keresztül az érintettek Vidékfejlesztési Program végrehajtásában való részvételét fokozza és javítsa a vidékfejlesztési programok minőségét. Cél továbbá a vidék társadalmi-gazdasági fejlesztése, felzárkóztatása, a támogatási források hatékony felhasználása, a gyakorlat-orientált térségközi és nemzetközi kapcsolatok kiépítése, a magyar nemzeti érdekek és értékek európai képviselete. A projekt további célja az Európai Vidékfejlesztési Hálózatban együttműködő 27 tagország megismertetése a magyar fejlesztési eredményekkel, valamint a külföldi eredmények hazai vidékfejlesztő közösségekkel történő megismertetése. |
 
-| 4. | VP-20-3-16 | Az EMVA kifizető ügynökségi és közbenső szervezeti tevékenységhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | Magyar Államkincstár | 10,42 | 2016 | A projekt célja a Magyar Államkincstár Vidékfejlesztési Program tevékenységeihez kapcsolódó kifizető ügynökségi intézmény- és ellenőrzési rendszer fejlesztése és működtetése, amely hozzájárul az ellenőrzés során folytatott kifizető ügynökségi tevékenységek folyamatos, magas szintű végrehajtásához. A projekt további célja az egyes fenti feladatok végrehajtásának biztosításához szükséges működési kiadások, speciális informatikai és egyéb eszköz beszerzések, fejlesztések támogatása. |
+| 4. | VP-20-3-16 | Az EMVA kifizető ügynökségi és közbenső szervezeti tevékenységhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | Magyar Államkincstár | 10,96 | 2016 | A projekt célja a Magyar Államkincstár Vidékfejlesztési Program tevékenységeihez kapcsolódó kifizető ügynökségi intézmény- és ellenőrzési rendszer fejlesztése és működtetése, amely hozzájárul az ellenőrzés során folytatott kifizető ügynökségi tevékenységek folyamatos, magas szintű végrehajtásához. A projekt további célja az egyes fenti feladatok végrehajtásának biztosításához szükséges működési kiadások, speciális informatikai és egyéb eszköz beszerzések, fejlesztések támogatása. |
 
 | 5. | VP-20-4-17 | A megyei kormányhivatalok közbenső szervezeti tevékenységéhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | A fővárosi és megyei kormányhivatalok | 13,70 | 2017 | A projekt célja a fővárosi és megyei kormányhivataloknak a Vidékfejlesztési Program Irányító Hatósága feladatkörébe tartozó, a Magyar Államkincstárra átruházott feladatok ellátásába történő bevonása, amely hozzájárul a közbenső szervezeti feladatok hatékony és eredményes végrehajtásához. A projekt további célja e feladatok végrehajtásának biztosításához szükséges működési kiadások, valamint egyedi eszközbeszerzések támogatása egy átalányalapú egységköltség módszertan alkalmazásával. |
 
 | 6. |  |  |  |  |  |  |
 
-[^4]: A 2. melléklet az 1476/2016. (VIII. 31.) Korm. határozat 1. pont b) pontja, az 1210/2017. (IV. 10.) Korm. határozat 3. pont b) alpontja, az 1891/2017. (XI. 30.) Korm. határozat 1. pont b) alpontja és 2. pont 2.2. alpontja, az 1437/2018. (IX. 11.) Korm. határozat 1. pont b) alpontja, az 1598/2019. (X. 16.) Korm. határozat 1. pont b) alpontja, az 1130/2020. (III. 25.) Korm. határozat 2. pontja és 3. pont b) alpontja, az 1480/2020. (VIII. 7.) Korm. határozat 3. pontja, a 2026/2020. (XII. 24.) Korm. határozat 3. pontja, az 1190/2021. (IV. 21.) Korm. határozat 2. és 4. pontja, az 1655/2021. (IX. 22.) Korm. határozat 3. pontja, az 1067/2022. (II. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 2. melléklet az 1476/2016. (VIII. 31.) Korm. határozat 1. pont b) pontja, az 1210/2017. (IV. 10.) Korm. határozat 3. pont b) alpontja, az 1891/2017. (XI. 30.) Korm. határozat 1. pont b) alpontja és 2. pont 2.2. alpontja, az 1437/2018. (IX. 11.) Korm. határozat 1. pont b) alpontja, az 1598/2019. (X. 16.) Korm. határozat 1. pont b) alpontja, az 1130/2020. (III. 25.) Korm. határozat 2. pontja és 3. pont b) alpontja, az 1480/2020. (VIII. 7.) Korm. határozat 3. pontja, a 2026/2020. (XII. 24.) Korm. határozat 3. pontja, az 1190/2021. (IV. 21.) Korm. határozat 2. és 4. pontja, az 1655/2021. (IX. 22.) Korm. határozat 3. pontja, az 1067/2022. (II. 15.) Korm. határozat 3. pontja, az 1467/2022. (IX. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
