@@ -1,5 +1,3 @@
-## részesülhet a közvetlen irányítású uniós program támogatásra számot tartó projektje megvalósításához.
-
 19. § (1) A 18. § (2) bekezdése szerinti pályázatnak tartalmaznia kell legalább
 
 a) a támogatást igénylő szervezet

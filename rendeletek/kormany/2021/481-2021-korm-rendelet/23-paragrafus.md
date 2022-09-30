@@ -14,7 +14,7 @@ d) a deviza utóterhelési díjak, az árfolyam-különbözet, valamint a CEF te
 
 e) a CEF projektek végrehajtása során vagy azt követően az Európai Unió részére történő visszafizetések
 
-## finanszírozása.
+finanszírozása.
 
 (2) A CEF projektek támogatásáról a Kormány a 75/2016. (IV. 5.) Korm. rendelet 4. alcíme szerinti határozattal dönt.
 

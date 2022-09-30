@@ -1,6 +1,6 @@
 ## 14. Végrehajtás Operatív Program Plusz előirányzat speciális felhasználási szabályai
 
-29. § (1)[^16] A Végrehajtás Operatív Program Plusz (a továbbiakban: VOP Plusz) keretében SCO módszerrel a központi költségvetésbe elszámolt uniós bevétel terhére az uniós intézményrendszerrel és ellátóival – a Közbeszerzési és Ellátási Főigazgatósággal, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társasággal, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársasággal és az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társasággal –, továbbá az e) pont esetében a Külgazdasági és Külügyminisztériummal, az f) pont esetében a Nemzeti Adó- és Vámhivatallal
+29. § (1)[^19] A Végrehajtás Operatív Program Plusz (a továbbiakban: VOP Plusz) keretében SCO módszerrel a központi költségvetésbe elszámolt uniós bevétel terhére az uniós intézményrendszerrel és ellátóival – a Közbeszerzési és Ellátási Főigazgatósággal, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társasággal, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársasággal és az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társasággal –, továbbá az e) pont esetében a Külgazdasági és Külügyminisztériummal, az f) pont esetében a Nemzeti Adó- és Vámhivatallal
 
 a) a programok sikeres végrehajtása érdekében szükséges hatékony adminisztratív kapacitás és feltételrendszer biztosításához elengedhetetlen költségek,
 
@@ -14,7 +14,7 @@ e) az Európai Unió Duna Régió Stratégia magyarországi koordinációja és 
 
 f) az OLAF Koorodinációs Iroda vonatkozásában a támogatások felhasználása során a csalás és a korrupció megelőzését szolgáló képzések biztosítása, a nemzetközi tapasztalatcserére, külföldi gyakorlatok megismerésére és a bevált metódusok esetleges átvételére irányuló tevékenységek költségeinek
 
-## finanszírozására a VOP Plusz irányító hatósága támogatási szerződést köthet vagy részükre támogatási okiratot bocsáthat ki.
+finanszírozására a VOP Plusz irányító hatósága támogatási szerződést köthet vagy részükre támogatási okiratot bocsáthat ki.
 
 (2) A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatói szerződés vagy támogatói okirat határozza meg.
 
@@ -44,4 +44,4 @@ k) a korrupcióellenes záradékot, amely szerint: „A kedvezményezett nem kö
 
 (4) A támogatások kifizetésére, elszámoltatására a monitoring- és információs rendszert kell alkalmazni.
 
-[^16]: A 29. § (1) bekezdése a 798/2021. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^19]: A 29. § (1) bekezdése a 798/2021. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.

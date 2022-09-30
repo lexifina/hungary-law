@@ -10,7 +10,7 @@ a) a Budapest 4-es metróvonal projekt Közlekedés Operatív Program keretében
 
 b) az állami kontrollpozíció gyakorlását segítő szakértői szolgáltatás költségeinek finanszírozására
 
-## használható fel.
+használható fel.
 
 (3) Az előirányzat (2) bekezdés a) pontja szerinti felhasználásával kapcsolatos pénzügyi ellenőrzési feladatok ellátásával a Kincstár bízható meg.
 

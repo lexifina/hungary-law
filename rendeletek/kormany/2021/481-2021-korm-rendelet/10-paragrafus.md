@@ -6,7 +6,7 @@ b) önálló támogatási szerződés keretében vagy
 
 c) a projekt európai uniós támogatási szerződésében
 
-## a támogatásra vonatkozó egyedi feltételek meghatározása mellett.
+a támogatásra vonatkozó egyedi feltételek meghatározása mellett.
 
 (2) Az (1) bekezdés szerinti szerződés tartalmazza
 

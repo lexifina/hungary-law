@@ -40,7 +40,7 @@
 
 ## programok keretében megvalósuló projektek előkészítési és önerőköltségeinek finanszírozására.
 
-(2)[^11] Az előirányzat keretében lehetőség van a 2014–2020 programozási időszak közvetlen uniós programjai kapcsán már benyújtott pályázatok támogatására is.
+(2) [^11] Az előirányzat keretében lehetőség van a 2014–2020 programozási időszak közvetlen uniós programjai kapcsán már benyújtott pályázatok támogatására is.
 
 (3) Az előirányzat – legfeljebb 4%-ának erejéig – fedezetet biztosít továbbá lebonyolítói díj kifizetésére az arra kötött megállapodásban foglaltak szerint.
 

@@ -9,3 +9,5 @@ a) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vi
 b) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásra vonatkozó egyes átmeneti rendelkezések megállapításáról, az 1305/2013/EU európai parlamenti és tanácsi rendeletnek a források és a források 2014. évben történő elosztása tekintetében történő módosításáról, valamint a 73/2009/EK tanácsi rendeletnek és az 1307/2013/EU, az 1306/2013/EU és az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a 2014. évben való alkalmazásuk tekintetében történő módosításáról szóló, 2013. december 17-i 1310/2013/EU európai parlamenti és tanácsi rendelet vagy
 
 c) a 272/2014. (XI. 5.) Korm. rendelet
+
+szerint használható fel.

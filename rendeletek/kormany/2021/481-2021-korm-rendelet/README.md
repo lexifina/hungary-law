@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-481-20-
 | 2021-12-28 | 2021-481-20-22.4 | 798/2021. (XII. 27.) Korm. rendelet |
 | 2022-02-20 | 2021-481-20-22.5 | 46/2022. (II. 17.) Korm. rendelet |
 | 2022-07-21 | 2021-481-20-22.6 | 258/2022. (VII. 20.) Korm. rendelet |
+| 2022-09-30 | 2021-481-20-22.7 | 373/2022. (IX. 30.) Korm. rendelet |

@@ -22,7 +22,7 @@ b) a fejezetek intézményei közötti, az intézménytől más fejezet fejezeti
 
 c) az Áht. 33. § (3)–(7) bekezdése szerinti átcsoportosítás
 
-## vonatkozásában a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy gyakorolja.
+vonatkozásában a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy gyakorolja.
 
 (9) Az Áht. 33. § (3) bekezdés b) pont bc) alpontja szerinti átcsoportosítást a 15. § szerint kell végrehajtani.
 

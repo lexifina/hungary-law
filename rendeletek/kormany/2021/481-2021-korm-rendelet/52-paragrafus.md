@@ -10,7 +10,7 @@ a) a havi és éves szintű költségvetési tervezési, valamint
 
 b) a fejezeti likviditás biztosításához, az előirányzatok felhasználásához, a havi időközi költségvetési jelentések, a negyedéves mérlegjelentések, a költségvetési beszámoló, a zárszámadás és a maradvány-felülvizsgálat elkészítéséhez kapcsolódó adatszolgáltatási
 
-## feladatokat.
+feladatokat.
 
 (3) A kezelő szerv köteles a fizetési számlák forgalmáról készült elektronikus kivonatot haladéktalanul megküldeni a fejezetet irányító szerv részére.
 

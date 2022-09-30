@@ -1,5 +1,3 @@
-## szerint használható fel.
-
 25. § (1) A Magyar Halgazdálkodási Operatív Program és a Magyar Halgazdálkodási Operatív Program Plusz előirányzat (ezen § alkalmazásában a továbbiakban: előirányzat) felhasználása uniós és hazai társfinanszírozással valósul meg. A közösségi finanszírozás az Európai Tengerügyi és Halászati Alapból és az Európai Tengerügyi, Halászati és Akvakultúra-alapból kerül biztosításra.
 
 (2) Az előirányzat
@@ -11,3 +9,5 @@ b) a közös halászati politikáról, az 1954/2003/EK és az 1224/2009/EK taná
 c) az 1303/2013/EU európai parlamenti és tanácsi rendelet vagy
 
 d) a 272/2014. (XI. 5.) Korm. rendelet
+
+szerint használható fel.

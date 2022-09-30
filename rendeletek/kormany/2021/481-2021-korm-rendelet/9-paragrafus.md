@@ -1,5 +1,3 @@
-## a fel nem használt támogatási előleg nem minősül jogosulatlan felhasználásnak, visszafizetése során nem lehet ügyleti kamatot felszámítani.
-
 9. § (1) Az európai uniós forrást megelőlegező előirányzatok társfinanszírozáson felüli felhasználása a következő esetekben lehetséges:
 
 a) az európai uniós forrásból finanszírozott jövedelemtermelő projektek esetén a IV. fejezet szerinti, a megtérülő projektköltségre jutó központi költségvetési kiadások megtérítésére,
@@ -38,10 +36,10 @@ a) a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja vagy
 
 b) a 256/2021. (V. 18.) Korm. rendelet 168. § (1) bekezdése
 
-## szerinti költségnövekménynek minősülő kiadás finanszírozásához szükséges, az előirányzat-felhasználásról az a) pont szerinti esetben az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet 3–6. §-a szerint, a b) pont szerinti esetben a 256/2021. (V. 18.) Korm. rendelet 171–173. §-a szerint a Kormány egyedi ügyben hozott nyilvános határozatban dönt.
+szerinti költségnövekménynek minősülő kiadás finanszírozásához szükséges, az előirányzat-felhasználásról az a) pont szerinti esetben az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet 3–6. §-a szerint, a b) pont szerinti esetben a 256/2021. (V. 18.) Korm. rendelet 171–173. §-a szerint a Kormány egyedi ügyben hozott nyilvános határozatban dönt.
 
-(5)[^6] A Nemzeti Helyreállítási Alap előirányzat terhére megvalósuló projektek esetében az Európai Bizottság felé el nem számolható, a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 413/2021. (VII. 13.) Korm. rendelet [a továbbiakban: 413/2021. (VII. 13.) Korm. rendelet] 2. § 5. pontjában meghatározott Helyreállítási és Ellenállóképességi Terv Európai Bizottság felé elszámolható összköltségének legfeljebb 5%-át kitevő kiadások erejéig az (1) bekezdés f) pontja szerinti előirányzat-felhasználáshoz az államháztartásért felelős miniszter jóváhagyása nem szükséges.
+(5)[^6] A Nemzeti Helyreállítási Alap előirányzat terhére megvalósuló projektek esetében az Európai Bizottság felé el nem számolható, a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet [a továbbiakban: 373/2022. (IX. 30.) Korm. rendelet] 2. § 6. pontjában meghatározott Helyreállítási és Ellenállóképességi Terv Európai Bizottság felé elszámolható összköltségének legfeljebb 5%-át kitevő kiadások erejéig az (1) bekezdés f) pontja szerinti előirányzat-felhasználáshoz az államháztartásért felelős miniszter jóváhagyása nem szükséges.
 
 [^4]: A 9. § (1) bekezdés e) pontja a 798/2021. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^5]: A 9. § (2) bekezdése a 658/2021. (XI. 30.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^6]: A 9. § (5) bekezdését a 658/2021. (XI. 30.) Korm. rendelet 10. §-a iktatta be.
+[^6]: A 9. § (5) bekezdését a 658/2021. (XI. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 373/2022. (IX. 30.) Korm. rendelet 243. § a) pontja szerint módosított szöveg.

@@ -26,4 +26,6 @@ i) közalapítvány és
 
 j) gazdasági társaság
 
+részesülhet a közvetlen irányítású uniós program támogatásra számot tartó projektje megvalósításához.
+
 [^12]: A 18. § (2) bekezdése a 46/2022. (II. 17.) Korm. rendelet 14. §-ával megállapított szöveg.

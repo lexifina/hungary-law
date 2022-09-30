@@ -1,6 +1,6 @@
 ## 55. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 481/2021. (VIII. 13.) Korm. rendelethez[^18]
+1. melléklet a 481/2021. (VIII. 13.) Korm. rendelethez[^21]
 
 Kezelő szervi kijelölés
 
@@ -62,4 +62,4 @@ Kezelő szervi kijelölés
 
 | 28. | Nemzeti Helyreállítási Alap | európai uniós források felhasználásáért felelős miniszter |
 
-[^18]: Az 1. melléklet a 258/2022. (VII. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet a 258/2022. (VII. 20.) Korm. rendelet 8. §-ával megállapított szöveg.

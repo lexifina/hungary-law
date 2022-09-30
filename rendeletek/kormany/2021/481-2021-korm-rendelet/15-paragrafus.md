@@ -22,6 +22,6 @@ d) az Országgyűlés vagy a Kormány döntése értelmében nemzeti vagy orszá
 
 e) a lakosság széles körét érinti, és állami vagy helyi önkormányzati feladat ellátásához vagy a közjó egyébként történő előmozdításához
 
-## járul hozzá.
+járul hozzá.
 
 (8) Az irányító hatóság a követeléskezelést a 14. § (1) bekezdés c) és e) pontja szerinti esetben a finanszírozási igényről történő döntés meghozataláig, a 14. § (1) bekezdés f) pontja szerinti esetben a jogerős határozat meghozataláig felfüggeszti.

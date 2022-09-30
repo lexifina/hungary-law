@@ -6,4 +6,6 @@ a) a kedvezményezett a fizetési számláit az Áht. alapján a Magyar Államki
 
 b) a megítélt támogatás összege nem éri el az ötvenmillió forintot,
 
+a fel nem használt támogatási előleg nem minősül jogosulatlan felhasználásnak, visszafizetése során nem lehet ügyleti kamatot felszámítani.
+
 [^3]: A 8. § nyitó szövegrésze a 658/2021. (XI. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
