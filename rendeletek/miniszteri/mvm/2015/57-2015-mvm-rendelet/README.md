@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-57-20-6
 | 2017-01-01 | 2015-57-20-6N.3 | 37/2017. (XII. 29.) MvM rendelet |
 | 2017-12-28 | 2015-57-20-6N.4 | 36/2017. (XII. 27.) MvM rendelet |
 | 2022-01-01 | 2015-57-20-6N.5 | 51/2021. (XII. 29.) AM rendelet |
+| 2022-09-30 | 2015-57-20-6N.6 | 36/2017. (XII. 27.) MvM rendelet |

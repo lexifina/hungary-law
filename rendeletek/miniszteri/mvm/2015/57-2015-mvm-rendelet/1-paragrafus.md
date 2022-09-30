@@ -12,4 +12,6 @@ ab) ezt követően bekövetkezett vis maior esemény tekintetében a Kr. szerint
 
 b) az Európai Tengerügyi és Halászati Alapból finanszírozott támogatások tekintetében az (1) bekezdés szerinti eljárást a Kincstár mint közreműködő szervezet
 
+folytatja le.
+
 [^1]: Az 1. § (3) bekezdését a 37/2017. (XII. 29.) MvM rendelet 9. § (1) bekezdése iktatta be.

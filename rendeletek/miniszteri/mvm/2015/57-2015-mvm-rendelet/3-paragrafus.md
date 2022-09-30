@@ -16,9 +16,9 @@ c) nem kell alkalmazni az FMR. 1. § (3) bekezdését, valamint 4. és 5. §-át
 
 (6)[^7] A Kincstár az (5) bekezdés szerinti megkeresést a bejelentés hiánytalan benyújtását követő tíz napon belül – támogatási vagy kifizetési kérelem benyújtási időszakban történő bejelentés esetén a kérelembenyújtási időszakot követő tíz napon belül – köteles megtenni.
 
-(7)[^8] Ha a bejelentő az FMR. 3. § (1) bekezdés e) pontja szerinti eseménnyel érintett terület vonatkozásában vis maior bejelentést nyújt be és ugyanezen terület vonatkozásában korábban a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény szerinti kárbejelentést is tett, akkor a Kincstár az esemény bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait is figyelembe veszi.
+(7)[^8] Ha a bejelentő az FMR. 3. § (1) bekezdés e) pontja szerinti eseménnyel érintett terület vonatkozásában vis maior bejelentést nyújt be és ugyanezen terület vonatkozásában korábban a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: 2011. évi CLXVIII. törvény) szerinti kárbejelentést is tett, akkor a Kincstár az esemény bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait is figyelembe veszi.
 
-(8)[^9]
+(8)[^9] A 2022. év tekintetében az FMR. 3. § (1) bekezdés e) pontja szerinti aszály bekövetkezett vis maior eseménynek minősül a 2011. évi CLXVIII. törvény 12. § (5) bekezdése szerinti közlemény hatálya alá tartozó területek vonatkozásában. Az esemény bekövetkezésének igazolására az (5) és (7) bekezdésben foglaltakat nem kell alkalmazni.
 
 (9)[^10]
 
@@ -28,7 +28,7 @@ c) nem kell alkalmazni az FMR. 1. § (3) bekezdését, valamint 4. és 5. §-át
 [^5]: A 3. § (4) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^6]: A 3. § (5) bekezdése az 51/2021. (XII. 29.) AM rendelet 2. §-ával megállapított szöveg.
 [^7]: A 3. § (6) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^8]: A 3. § (7) bekezdése a 36/2017. (XII. 27.) MvM rendelet 1. §-ával megállapított szöveg.
-[^9]: A 3. § (8) bekezdését az 51/2021. (XII. 29.) AM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^8]: A 3. § (7) bekezdése a 36/2017. (XII. 27.) MvM rendelet 1. §-ával megállapított, a 30/2022. (IX. 27.) AM rendelet 8. §-a szerint módosított szöveg.
+[^9]: A 3. § (8) bekezdését az 51/2021. (XII. 29.) AM rendelet 4. § a) pontja hatályon kívül helyezte, újonnan a 30/2022. (IX. 27.) AM rendelet 6. §-a iktatta be.
 [^10]: A 3. § (9) bekezdését az 51/2021. (XII. 29.) AM rendelet 4. § a) pontja hatályon kívül helyezte.
 [^11]: A 3. § (10) bekezdése a 37/2017. (XII. 29.) MvM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.

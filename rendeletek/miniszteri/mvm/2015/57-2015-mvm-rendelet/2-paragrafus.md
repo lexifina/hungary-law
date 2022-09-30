@@ -1,5 +1,3 @@
-## folytatja le.
-
 2. § (1)[^2] E rendeletet az FMR. 3. § (1) bekezdésében felsoroltak mellett alkalmazni kell
 
 a) a kötelezettségvállalás, illetve a bejelentés benyújtásának időpontjában előre nem látható, költségvetési szervekre, állami tulajdonú gazdasági társaságokra vonatkozó, a gazdasági növekedés érdekében szükségessé vált fejlesztéspolitikai kormányzati intézkedésre,
