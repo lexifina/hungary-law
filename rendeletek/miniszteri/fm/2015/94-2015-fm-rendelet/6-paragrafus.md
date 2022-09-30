@@ -24,7 +24,7 @@ b) az ügyfél elhalálozása esetén a halotti anyakönyvi kivonat kézhezvéte
 
 c) az ügyfél akadályoztatása esetén az akadály megszűnésétől számított huszonegy napon belül, amennyiben azonban a bejelentés termesztett növénykultúrát érint, úgy – a betakarítás tervezett időpontjára figyelemmel – a betakarítást megelőző tizenötödik napig, de legkésőbb az esemény bekövetkezésétől számított hat hónapon belül
 
-## kell megtenni, amely határidő jogvesztő.
+kell megtenni, amely határidő jogvesztő.
 
 (4) A 3. § (1) bekezdés a), b), c), d), f), j) és k) pontjában meghatározott esetekben a bejelentéshez elektronikusan mellékelni kell
 

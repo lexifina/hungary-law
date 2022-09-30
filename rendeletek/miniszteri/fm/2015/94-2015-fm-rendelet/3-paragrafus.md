@@ -46,9 +46,9 @@ b)[^10] ha a bejelentés támogatási vagy kifizetési kérelem beadási idősza
 
 (4a)[^11] Az (1) bekezdés g) és h) pontja alá tartozó, a végrehajtásban közreműködő szerv hatáskörén kívüli események a szolgáltató állatorvos által kiállított igazolással vagy laboratóriumi vizsgálattal igazolható.
 
-(5)[^12] Ha az ügyfél az (1) bekezdés e) pontja szerinti eseménnyel érintett terület vonatkozásában vis maior bejelentést nyújt be és ugyanezen terület vonatkozásában korábban a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény szerinti kárbejelentést is tett, akkor a Kincstár az esemény bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait is figyelembe veszi.
+(5)[^12] Ha az ügyfél az (1) bekezdés e) pontja szerinti eseménnyel érintett terület vonatkozásában vis maior bejelentést nyújt be és ugyanezen terület vonatkozásában korábban a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: 2011. évi CLXVIII. törvény) szerinti kárbejelentést is tett, akkor a Kincstár az esemény bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait is figyelembe veszi.
 
-(6)[^13]
+(6)[^13] A 2022. év tekintetében az (1) bekezdés e) pontja szerinti aszály bekövetkezett vis maior eseménynek minősül a 2011. évi CLXVIII. törvény 12. § (5) bekezdése szerinti közlemény hatálya alá tartozó területek vonatkozásában. Az esemény bekövetkezésének igazolására a (4) és (5) bekezdésben foglaltakat nem kell alkalmazni.
 
 (7)[^14]
 
@@ -62,7 +62,7 @@ b)[^10] ha a bejelentés támogatási vagy kifizetési kérelem beadási idősza
 [^9]: A 3. § (4) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^10]: A 3. § (4) bekezdés b) pontja a 12/2021. (III. 23.) AM rendelet 12. § a) pontja szerint módosított szöveg.
 [^11]: A 3. § (4a) bekezdését a 12/2021. (III. 23.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^12]: A 3. § (5) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^13]: A 3. § (6) bekezdését a 66/2017. (XII. 22.) FM rendelet 33. §-a hatályon kívül helyezte.
+[^12]: A 3. § (5) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított, a 30/2022. (IX. 27.) AM rendelet 5. §-a szerint módosított szöveg.
+[^13]: A 3. § (6) bekezdését a 66/2017. (XII. 22.) FM rendelet 33. §-a hatályon kívül helyezte, újonnan a 30/2022. (IX. 27.) AM rendelet 3. §-a iktatta be.
 [^14]: A 3. § (7) bekezdését a 43/2017. (IX. 5.) FM rendelet 18. §-a hatályon kívül helyezte.
 [^15]: A 3. § (8) bekezdését a 88/2016. (XII. 29.) FM rendelet 105. §-a hatályon kívül helyezte.
