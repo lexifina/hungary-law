@@ -1,5 +1,3 @@
-## a szállító vagy a szállítói engedményes részére történő megfizetésével igazolja szállítói finanszírozási esetén a pénzügyi teljesítést az irányító hatóság részére.
-
 314. § (1) A támogatás terhére elszámolható költségeket és a támogatást forintban kell megállapítani.
 
 (2) A forinttól eltérő pénznemben kiállított bizonylat esetén az arra jutó támogatást a bizonylaton megjelölt fizikai teljesítés időpontjában érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos árfolyamon kell forintra átszámítani.

@@ -3,3 +3,5 @@
 a) a 301/2018. (XII. 27.) Korm. rendelet 9. §-a szerinti esetben a 301/2018. (XII. 27.) Korm. rendelet 9. § (4) bekezdése szerinti minősítés, illetve
 
 b) a 301/2018. (XII. 27.) Korm. rendelet 10. §-a és 11. §-a szerinti esetben a 301/2018. (XII. 27.) Korm. rendelet 12. § (4) bekezdés a) vagy b) pontja szerinti jóváhagyás
+
+nem áll rendelkezésre.

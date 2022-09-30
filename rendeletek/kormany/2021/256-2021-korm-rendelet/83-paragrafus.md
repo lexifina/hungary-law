@@ -8,7 +8,7 @@ a) meghirdetésének tervezett időpontjától legfeljebb két hónappal,
 
 b) keretösszegétől legfeljebb 20%-kal
 
-## eltérhet, azzal, hogy az eltérést az éves fejlesztési keret negyedéves módosítása során át kell vezetni.
+eltérhet, azzal, hogy az eltérést az éves fejlesztési keret negyedéves módosítása során át kell vezetni.
 
 (3) Az éves fejlesztési keret soron kívül módosítható, ha
 

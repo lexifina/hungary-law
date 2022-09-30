@@ -9,3 +9,5 @@ a) nem,
 b) részben vagy
 
 c) aránytalan nehézség árán
+
+állítható helyre, az irányító hatóság a támogatási szerződés szerinti jogkövetkezményt alkalmazza.

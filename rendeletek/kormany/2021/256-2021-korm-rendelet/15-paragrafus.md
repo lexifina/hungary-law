@@ -1,4 +1,4 @@
-15. § (1)[^21] A miniszter kommunikációs feladatai keretében
+15. § (1)[^25] A miniszter kommunikációs feladatai keretében
 
 a) az irányító hatósággal együttműködve gondoskodik a programok megvalósítására vonatkozó egységes kommunikációs stratégia kidolgozásáról, az uniós jogszabályokban meghatározott, tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítéséről,
 
@@ -12,7 +12,7 @@ e) ellátja – szükség esetén az érintett irányító hatóság bevonásáv
 
 f) az irányító hatósággal együttműködve egységes, minden programot lefedő ügyfélszolgálatot alakít ki és működtet.
 
-(2)[^22] A miniszter az (1) bekezdés a) pontja keretében
+(2)[^26] A miniszter az (1) bekezdés a) pontja keretében
 
 a) kidolgozza a programok megvalósítására vonatkozó egységes kommunikációs stratégiát,
 
@@ -28,5 +28,5 @@ f) betölti Magyarország tájékoztatási és kommunikációs tisztviselői pos
 
 g) működteti a www.palyazat.gov.hu oldalt, amelyen közzéteszi a támogatott projektek listáját az átláthatóság biztosítása érdekében.
 
-[^21]: A 15. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^22]: A 15. § (2) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^25]: A 15. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^26]: A 15. § (2) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 15. pontja szerint módosított szöveg.

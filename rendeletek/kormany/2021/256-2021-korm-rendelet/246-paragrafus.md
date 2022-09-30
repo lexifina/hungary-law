@@ -5,3 +5,5 @@
 a) a biztosítéknyújtási kötelezettség alól a 147. § (1) bekezdése alapján mentes közszféra szervezet kedvezményezett, vagy
 
 b) a feltételesen vissza nem térítendő támogatás kedvezményezettje
+
+a támogatási kérelem benyújtásával egyidejűleg vagy a szerződéskötési folyamat során az előleg igénylésére irányuló kérelmet is benyújtotta.

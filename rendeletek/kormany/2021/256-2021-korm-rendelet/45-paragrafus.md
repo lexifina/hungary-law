@@ -1,6 +1,6 @@
-45. §[^45] (1) A fejlesztéspolitikai intézményrendszer azon munkatársa, aki valamely projekt vonatkozásában
+45. §[^58] (1) A fejlesztéspolitikai intézményrendszer azon munkatársa, aki valamely projekt vonatkozásában
 
-a) érdemi eljárási cselekményt végzett, a projekt esetén az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény (a továbbiakban: Ápjt.) szerinti állami projektértékelőként (a továbbiakban: állami értékelő) nem járhat el,
+a)[^59] érdemi eljárási cselekményt végzett, a projekt esetén az Ápjt. szerinti állami projektértékelőként (a továbbiakban: állami értékelő) nem járhat el,
 
 b) állami értékelőként járt el, az adott projekt esetén más, érdemi eljárási cselekményt nem végezhet,
 
@@ -10,4 +10,8 @@ d) állami értékelőként közbeszerzési értékelést végzett, akkor az Áp
 
 (2) Közbeszerzési értékelést nem végezhet olyan személy, akitől az ügy elfogulatlan megítélése nem várható.
 
-[^45]: A 45. § az 562/2021. (X. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
+(3)[^60] Ha egy személy összeférhetetlensége az (1) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak veszélye objektíven fennállhat, akkor ezen személyt a (2) bekezdés szerint kell minősíteni.
+
+[^58]: A 45. § az 562/2021. (X. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^59]: A 45. § (1) bekezdés a) pontja a 374/2022. (IX. 30.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^60]: A 45. § (3) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 21. §-a iktatta be.

@@ -4,7 +4,7 @@ a) utófinanszírozás esetén a kifizetési kérelem beérkezésétől számít
 
 b) szállítói finanszírozás, valamint szállítói finanszírozást és utófinanszírozást vegyesen tartalmazó kifizetési kérelem esetén a kifizetési kérelem beérkezésétől számított harminc napon belül
 
-## fizeti ki a támogatást.
+fizeti ki a támogatást.
 
 (2) Az Ávr. 5. melléklet 11. pontja szerinti adatszolgáltatási kötelezettséget nem kell alkalmazni.
 

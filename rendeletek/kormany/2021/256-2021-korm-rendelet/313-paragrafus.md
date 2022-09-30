@@ -7,3 +7,5 @@
 a) bruttó tervezés esetén az önerő összegének,
 
 b) nettó tervezés esetén – a fordított áfa kivételével – az önerő és az áfa összegének
+
+a szállító vagy a szállítói engedményes részére történő megfizetésével igazolja szállítói finanszírozási esetén a pénzügyi teljesítést az irányító hatóság részére.

@@ -1,5 +1,3 @@
-## irányulhat.
-
 101. § (1) Ha a támogatási kérelem hiányos vagy hibás, és ezért nem felel meg a jogosultsági szempontoknak, de a hiba vagy hiányosság hiánypótlás keretében pótolható, az irányító hatóság egy alkalommal, legalább három, legfeljebb tizenöt napos határidő kitűzésével, az összes hiány vagy hiba megjelölésével hiánypótlásra hívja fel támogatást igénylőt.
 
 (2) Az irányító hatóság nem rendelhet el hiánypótlást, ha a támogatást igénylő azonosítására szolgáló nyilatkozat a felhívásban meghatározott módon nem került aláírásra vagy az a támogatási kérelem mellékleteként nem került benyújtásra.

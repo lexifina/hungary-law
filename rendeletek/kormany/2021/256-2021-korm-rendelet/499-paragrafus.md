@@ -1,1 +1,0 @@
-499. § A holdingalapot végrehajtó szervezet a pénzügyi közvetítővel megkötött finanszírozási megállapodás, egyéb esetben a végső kedvezményezettel megkötött szerződés révén biztosítja, hogy a programszámlán lévő források haladéktalanul kifizetésre kerüljenek a pénzügyi közvetítő, egyéb esetben a végső kedvezményezett részére.

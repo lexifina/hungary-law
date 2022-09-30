@@ -8,7 +8,7 @@ b) a nettó bevételt termelő, nem kiemelt projekt finanszírozási hiányának
 
 c) – az a) és b) pontba nem tartozó esetben – a Kormány
 
-## eltérően dönt.
+eltérően dönt.
 
 (2) Projektfejlesztés esetén a támogatási szerződés projektfejlesztést lezáró módosítása alapján megállapított támogatási összeget kell a támogatási döntésben meghatározott támogatási összegnek tekinteni.
 

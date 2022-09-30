@@ -6,6 +6,6 @@
 
 a) technikai segítségnyújtási projekt esetén, vagy
 
-b)[^72] kiemelt projekt esetén, ha a javasolt támogatási összeg nem haladja meg a kiemelt projekt indikatív támogatási összegét.
+b)[^102] kiemelt projekt esetén, ha a javasolt támogatási összeg nem haladja meg a kiemelt projekt indikatív támogatási összegét.
 
-[^72]: A 120. § (2) bekezdés b) pontja a 156/2022. (IV. 19.) Korm. rendelet 32. § d) pontja szerint módosított szöveg.
+[^102]: A 120. § (2) bekezdés b) pontja a 156/2022. (IV. 19.) Korm. rendelet 32. § d) pontja szerint módosított szöveg.

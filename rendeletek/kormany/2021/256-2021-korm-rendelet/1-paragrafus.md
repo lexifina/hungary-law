@@ -24,6 +24,6 @@ h) az Európai Unió Szolidaritási Alapjából és
 
 i) az Igazságos Átmenet Alapból
 
-## [az e)–g) pont a továbbiakban együtt: Belügyi Alapok] származó források felhasználására.
+[az e)–g) pont a továbbiakban együtt: Belügyi Alapok] származó források felhasználására.
 
 (2) E rendeletet nem kell alkalmazni az Európai Regionális Fejlesztési Alapból, az Előcsatlakozási Támogatási Eszközből, valamint a Szomszédsági, Fejlesztési és Nemzetközi Együttműködési Eszközből finanszírozott Interreg-programokból nyújtandó támogatásokra.

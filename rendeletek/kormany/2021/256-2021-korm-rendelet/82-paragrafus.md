@@ -26,10 +26,10 @@ e) támogatási kérelme benyújtásának várható időpontját,
 
 f) szakmai elvárásait
 
-## egyedi kormányhatározat állapítja meg.
+egyedi kormányhatározat állapítja meg.
 
-(4)[^60]
+(4)[^90]
 
 (5) Területi kiválasztási eljárásrend esetén a (2) bekezdés szerinti kormányhatározat a tématerületeket és az azok keretében meghirdetni tervezett felhívások keretösszegét határozza meg.
 
-[^60]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.
+[^90]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.

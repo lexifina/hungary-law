@@ -8,7 +8,7 @@ b) a támogatást igénylőnek a támogatási kérelem benyújtását megelőző
 
 c) a monitoring és információs rendszerben rögzített adatok
 
-## alapján végzi el.
+alapján végzi el.
 
 (3) Ha a (2) bekezdés szerinti adatok között eltérés van, a támogatást igénylővel hiánypótlás, illetve tisztázó kérdés keretében tisztázni kell az eltérés okát.
 

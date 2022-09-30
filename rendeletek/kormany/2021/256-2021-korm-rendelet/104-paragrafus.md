@@ -5,3 +5,5 @@
 a) folyamatos elbírálás esetén a jogosultsági szempontoknak való megfelelés szerinti sorrendben bocsátja tartalmi értékelésre a támogatási kérelmeket és a tartalmi értékelés lezárásának sorrendjében,
 
 b) szakaszos elbírálás esetén legkésőbb a felhívásban rögzített szakasz zárását követően bocsátja tartalmi értékelésre a támogatási kérelmeket és az egy szakaszban beérkezett támogatási kérelmekről az értékelés során elért pontszám sorrendjében
+
+hoz támogatási döntést.

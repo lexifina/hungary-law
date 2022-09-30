@@ -8,6 +8,6 @@ a) gazdasági társaság vonatkozásában a szervezet jogutód nélküli megszű
 
 b) nonprofit szervezet vonatkozásában a bírósági nyilvántartásból való törlés
 
-## alapján kerülhet sor a követelés behajthatatlanná nyilvánításra.
+alapján kerülhet sor a követelés behajthatatlanná nyilvánításra.
 
 (3) A behajthatatlan követelést le kell írni. A leírt összeget tőke, kamat és forrás szerinti bontásban kell nyilvántartani.

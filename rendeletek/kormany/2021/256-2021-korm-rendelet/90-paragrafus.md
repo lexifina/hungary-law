@@ -12,7 +12,7 @@ d) az állami támogatási szabályokkal és
 
 e) az adott program, illetve más program kapcsolódó felhívásával
 
-## való összhangját.
+való összhangját.
 
 (3) A miniszter a felhívástervezetben foglalt indikátorok minőségbiztosítása keretében a következő szempontok teljesülését ellenőrzi:
 

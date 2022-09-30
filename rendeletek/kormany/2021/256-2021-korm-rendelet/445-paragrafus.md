@@ -8,7 +8,7 @@ a) nem éri el a 10%-ot, az összesítővel elszámolni kívánt támogatás leg
 
 b) eléri a 10%-ot, az összesítővel elszámolni kívánt támogatás legalább 10%-át, de legalább harminc tételt
 
-## ellenőrizni kell.
+ellenőrizni kell.
 
 (2) Az (1) bekezdéstől eltérően az Európai Szociális Alap Plusz terhére támogatott kiemelt projekt esetén, ha az egy összesítőtípuson szereplő tételek száma
 
@@ -22,7 +22,7 @@ d) meghaladja az ezer tételt, de nem haladja meg az ötezer tételt, az összes
 
 e) meghaladja az ötezer tételt, az összesítővel elszámolni kívánt támogatás legalább 0,1%-át – de legalább negyven tételt –
 
-## szükséges ellenőrizni.
+szükséges ellenőrizni.
 
 (3) A tételeket véletlenszerűen kell kiválasztani, és a kiválasztást dokumentálni kell.
 

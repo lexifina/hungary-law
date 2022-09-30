@@ -34,6 +34,6 @@ i) a hiánypótlási felhívás vagy tisztázó kérdés megküldése,
 
 j) a támogatási kérelem visszavonásának tudomásulvétele
 
-## ellen.
+ellen.
 
 (5) A kifogást annak benyújtója mindaddig visszavonhatja, amíg a kifogás elbírálása nem történt meg.

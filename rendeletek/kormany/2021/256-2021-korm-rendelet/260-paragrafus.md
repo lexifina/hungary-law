@@ -8,6 +8,6 @@ a) fizetési számláit az Áht. alapján a kincstárnál köteles vezetni vagy 
 
 b) a 312. § szerinti egyetértés alapján utófinanszírozás keretében támogatási előlegben részesül,
 
-## a Kbt. hatálya alá tartozó közbeszerzési eljárás eredményeként kötött szerződésben köteles biztosítani a szállító részére a szerződés – tartalékkeret nélküli – elszámolható összege 30%-ának megfelelő mértékű előleg igénybevételének lehetőségét.
+a Kbt. hatálya alá tartozó közbeszerzési eljárás eredményeként kötött szerződésben köteles biztosítani a szállító részére a szerződés – tartalékkeret nélküli – elszámolható összege 30%-ának megfelelő mértékű előleg igénybevételének lehetőségét.
 
 (2) Az (1) bekezdés szerinti esetben a közszféra szervezet kedvezményezett köteles biztosítékot kérni a Kbt. hatálya alá tartozó közbeszerzési eljárás eredményeként kötött szerződés elszámolható összegének 10%-a és a kifizetett előleg különbözetére jutó támogatás összegének megfelelő mértékben.
