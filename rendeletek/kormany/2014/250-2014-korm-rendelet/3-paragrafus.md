@@ -16,7 +16,7 @@ f)[^7] ellátja a (3c) bekezdés szerinti szolgáltatási megállapodásban megh
 
 fa) a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság, valamint a Pro-M Professzionális Mobilrádió Zártkörűen Működő Részvénytársaság vonatkozásában,
 
-fb)[^8] a Nemzeti Adó- és Vámhivatal, a Nemzeti Népegészségügyi Központ, az Országos Kórházi Főigazgatóság, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet, a Magyar Államkincstár, a megyei és a fővárosi kormányhivatalok, a Mádl Ferenc Összehasonlító Jogi Intézet, a Nemzeti Koncessziós Iroda, a Nemzeti Kommunikációs Hivatal, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vonatkozásában,
+fb)[^8] a Nemzeti Adó- és Vámhivatal, a Nemzeti Népegészségügyi Központ, az Országos Kórházi Főigazgatóság, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet, a Magyar Államkincstár, a megyei és a fővárosi kormányhivatalok, a Mádl Ferenc Összehasonlító Jogi Intézet, a Nemzeti Koncessziós Iroda, a Nemzeti Kommunikációs Hivatal, a Védelmi Igazgatási Hivatal, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vonatkozásában,
 
 g)[^9] végzi a jogszabályban meghatározott, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 3. § 26. pont b) alpontja szerinti központosított közbeszerzési feladatokat,
 
@@ -74,7 +74,7 @@ g) a 100%-ban a Magyar Állam tulajdonában álló gazdasági társaságokkal, v
 
 h) az Országgyűlés felügyelete alá tartozó más szervekkel
 
-## megállapodást köthet. A megállapodásban rendelkezni kell a Főigazgatóságnál a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
+megállapodást köthet. A megállapodásban rendelkezni kell a Főigazgatóságnál a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
 
 (5)[^23] A (3) és (4) bekezdés alapján a Kbt. szerinti ajánlatkérővel kötött megállapodás a Kbt. 3. § 26. pont a) alpontja szerinti továbbértékesítésnek minősül.
 
@@ -83,7 +83,7 @@ h) az Országgyűlés felügyelete alá tartozó más szervekkel
 [^5]: A 3. § (1) bekezdés c) pontja a 703/2020. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés d) pontja a 384/2020. (VIII. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdés f) pontja a 703/2020. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: A 3. § (1) bekezdés f) pont fb) alpontja az 500/2021. (VIII. 18.) Korm. rendelet 8. §-a, a 771/2021. (XII. 23.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés f) pont fb) alpontja az 500/2021. (VIII. 18.) Korm. rendelet 8. §-a, a 771/2021. (XII. 23.) Korm. rendelet 14. § a) pontja, a 337/2022. (IX. 7.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^9]: A 3. § (1) bekezdés g) pontja a 771/2021. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1) bekezdés i) pontja a 771/2021. (XII. 23.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés l) pontja a 384/2020. (VIII. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

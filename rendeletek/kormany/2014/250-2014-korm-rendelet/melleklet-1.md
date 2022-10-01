@@ -1,8 +1,6 @@
-## 7. §[^27]
-
 1. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^28]
 
-## Alapfeladatként nyújtott szolgáltatások
+Alapfeladatként nyújtott szolgáltatások
 
 I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK
 
@@ -58,9 +56,9 @@ I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK
 
 6.4. Üzemeltetői tűzvédelmi szabályzat készítése, felülvizsgálata
 
-6.5.[^29]
+[^29]
 
-6.6. Üzemeltetőt terhelő katasztrófavédelmi és veszélyelhárítási tervek készítése
+6.5. 6.6. Üzemeltetőt terhelő katasztrófavédelmi és veszélyelhárítási tervek készítése
 
 7. Parkolóhelyek biztosítása, ügyintézése (a rendelkezésre álló parkolókapacitás erejéig)
 
@@ -214,7 +212,6 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 2.1. Speciális igény esetén bérelt gépjármű biztosítása
 
-[^27]: A 7. §-t a 293/2017. (X. 10.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
 [^28]: Az 1. melléklet a 293/2017. (X. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^29]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK alcím 6.5. pontját a 703/2020. (XII. 29.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^30]: Az 1. melléklet I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK alcím 9. pontját a 703/2020. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
