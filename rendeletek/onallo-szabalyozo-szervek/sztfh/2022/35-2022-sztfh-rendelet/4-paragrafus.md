@@ -1,0 +1,1 @@
+4. § A megrendelő – a 3. § (4) bekezdése szerinti szerződés megkötését követően – a Végrehajtási Rendelet 9. cikke és 13. cikke szerinti kérelmet a DAKIR-on keresztül nyújtja be. A megrendelő az egyedi azonosítót a DAKIR-ból történő letöltéssel veszi át.
