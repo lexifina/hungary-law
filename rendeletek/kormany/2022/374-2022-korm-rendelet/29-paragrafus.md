@@ -1,3 +1,3 @@
-29. §[^8]
+29. §[^35]
 
-[^8]: A 29. § a 33. § (3) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^35]: A 29. § a 463/2022. (XI. 15.) Korm. rendelet 35. § (2) bekezdése alapján nem lép hatályba.

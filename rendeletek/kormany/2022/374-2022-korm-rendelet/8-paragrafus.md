@@ -1,3 +1,3 @@
-8. §[^3]
+8. §[^13]
 
-[^3]: A 8. § a 33. § (2) bekezdés alapján 2022. november 30-án lép hatályba.
+[^13]: A 8. § a 463/2022. (XI. 15.) Korm. rendelet 35. § (1) bekezdése alapján nem lép hatályba.

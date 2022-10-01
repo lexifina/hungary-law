@@ -1,5 +1,6 @@
-30. § (1) A 256/2021. (V. 18.) Korm. rendelet a 3. melléklet szerinti 4. melléklettel egészül ki.
+30. § (1)[^36]
 
-(2)[^9]
+(2)[^37]
 
-[^9]: A 30. § (2) bekezdése a 33. § (4) bekezdés alapján 2023. január 31-én lép hatályba.
+[^36]: A 30. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 30. § (2) bekezdése a 33. § (4) bekezdés alapján 2023. január 31-én lép hatályba.

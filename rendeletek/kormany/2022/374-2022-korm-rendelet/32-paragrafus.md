@@ -1,1 +1,3 @@
-32. § Hatályát veszti a 256/2021. (V. 18.) Korm. rendelet 51. § (3) és (4) bekezdése.
+32. §[^39]
+
+[^39]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
