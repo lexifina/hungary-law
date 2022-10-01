@@ -16,7 +16,7 @@ c) korszerűsítésére és bővítésére
 
 is igényli a családi otthonteremtési kedvezményt.
 
-(5)[^97] Ha a támogatott személy a (4) bekezdés a)–c) pontja szerinti, a támogatási szerződésben általa vállalt munkálatokat nem teljesíti, a folyósított családi otthonteremtési kedvezményt – ideértve annak a lakás vásárlására számított összegét is – a folyósítás napjától számított, Ptk. szerinti késedelmi kamattal növelten köteles visszafizetni. Ha a támogatott személy visszafizetési kötelezettségének nem vagy nem megfelelően tesz eleget, a hitelintézet tájékoztatja erről a kormányhivatalt.
+(5)[^97] Ha a támogatott személy a (4) bekezdés a)–c) pontja szerinti, a támogatási szerződésben általa vállalt munkálatokat nem teljesíti, a folyósított családi otthonteremtési kedvezményt – ideértve annak a lakás vásárlására számított összegét is – a folyósítás napjától számított, Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten köteles visszafizetni. Ha a támogatott személy visszafizetési kötelezettségének nem vagy nem megfelelően tesz eleget, a hitelintézet tájékoztatja erről a kormányhivatalt.
 
 (6) A preferált kistelepülésen ezen alcím szerinti családi otthonteremtési kedvezmény meglévő lakás
 
@@ -33,4 +33,4 @@ igényelhető, abban az esetben is, ha az igénylő a kérelem benyújtását me
 [^94]: A 7/A. alcímet (19/A–19/H. §) a 109/2019. (V. 13.) Korm. rendelet 3. §-a iktatta be.
 [^95]: A 19/A. § (2) bekezdése a 219/2022. (VI. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^96]: A 19/A. § (3) bekezdése a 276/2019. (XI. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^97]: A 19/A. § (5) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^97]: A 19/A. § (5) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § b) pontja, a 372/2022. (IX. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
