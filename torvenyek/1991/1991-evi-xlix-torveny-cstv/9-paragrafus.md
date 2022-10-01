@@ -30,7 +30,11 @@ i) az adós korábban olyan szerkezetátalakítási eljárást vagy reorganizác
 
 (5) A csődeljárás iránti kérelmet visszautasító végzésnek tartalmaznia kell az adós nevét, székhelyét, cégjegyzékszámát, a bíróság nevét és az ügy számát, továbbá a csődeljárás iránti kérelem visszautasításának okát, valamint – ha az ideiglenes fizetési haladék közzétételre került – azt, hogy az ideiglenes fizetési haladék a jogerős végzés közzétételével megszűnik. A csődeljárás iránti kérelmet visszautasító végzés elleni fellebbezés határideje 8 nap. A határidő elmulasztása esetén igazolásnak nincs helye. A fellebbezést soron kívül, de legfeljebb 15 napon belül kell elbírálni.
 
-(6)–(8)
+(6)
+
+(7)
+
+(8)
 
 (9) A bíróság hivatalból megszünteti a csődeljárást, ha hitelt érdemlően tudomást szerez arról, hogy a csődeljárás iránti kérelmet a (4) bekezdés b)–g) pontja szerinti okból vissza kellett volna utasítani. Az eljárást megszüntető végzés ellen fellebbezésnek van helye. A csődeljárás megszüntetése esetén a vagyonfelügyelő díját a bíróság az addig elvégzett tevékenységével, munkaterhével arányosan állapítja meg.
 

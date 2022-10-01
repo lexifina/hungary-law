@@ -11,3 +11,5 @@ d) a felszámolót a zálogtárgy értékesítésekor és a követelésen alapul
 e) a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
 
 f) a felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat.
+
+g) a felszámolóbiztosok, vagyonfelügyelők, ideiglenes vagyonfelügyelők és rendkívüli vagyonfelügyelők igazolványának kiállítására, használatára, az igazolvány formai követelményeire, nyilvántartására, valamint az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes szabályokat.

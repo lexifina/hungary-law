@@ -18,4 +18,6 @@ h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül;
 
 i) a 6. § (5) bekezdése értelmében elektronikus kapcsolattartásra köteles kérelmező az eljárási illeték és a közzétételi költségtérítés megfizetésére vonatkozó elektronikus igazolást nem csatolta.
 
-(2)–(3)
+(2)
+
+(3)
