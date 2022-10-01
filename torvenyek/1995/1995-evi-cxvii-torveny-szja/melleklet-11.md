@@ -616,24 +616,10 @@ c) Nem anyagi javak esetében, ha azok nem kizárólag üzemi célt szolgálnak 
 
 III. A járművek költsége
 
-1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett kizárólag üzemi célú jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) (e rendelkezés alkalmazásában a személygépkocsi-bérbeadó vagy személyszállító tevékenységet folytató egyéni vállalkozónál a tevékenység tárgyát, illetve eszközét képező személygépkocsi is, ha az egyéni vállalkozó azt más célra részben sem használja, és üzleti nyilvántartásai ezt egyértelműen alátámasztják) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint a II. fejezetben foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
+1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett kizárólag üzemi célú jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) (e rendelkezés alkalmazásában a személygépkocsi-bérbeadó vagy személyszállító tevékenységet folytató egyéni vállalkozónál a tevékenység tárgyát, illetve eszközét képező személygépkocsi is, ha az egyéni vállalkozó azt más célra részben sem használja, és üzleti nyilvántartásai ezt egyértelműen alátámasztják) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint a II. fejezetben foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén
 
 a) az üzemanyag-fogyasztási norma és az állami adó- és vámhatóság által közzétett üzemanyagár,
 
-b) a számlával (számlákkal) igazolt üzemanyag-vásárlás vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség,
+b) a számlával (számlákkal) igazolt üzemanyag-vásárlás,
 
-azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév első napján választott üzemanyag-felhasználással összefüggő költségelszámolási módszertől – ideértve a választott üzemanyag-fogyasztási normát is – nem térhet el. Nem alkalmazható az a) pont rendelkezése, ha az egyéni vállalkozó az Áfa törvény szabályai szerint az üzemanyag általános forgalmi adóját levonásba helyezi.
-
-2.
-
-3.
-
-4.
-
-5. A saját tulajdonú nem kizárólag üzemi célú jármű – kivéve a személygépkocsit – beszerzési árával szemben a II. fejezet szerint átalányban érvényesíthető értékcsökkenési leírás. Az 1. pontban nem említett személygépkocsi esetén az átalány szerinti elszámolás a következő módon érvényesíthető: a II. fejezetben említett nyilvántartás vezetése mellett az éves bevételnek 1 százaléka, de legfeljebb egy személygépkocsi beszerzési árának a 10 százaléka vehető figyelembe, illetőleg a hivatkozott pontban meghatározott átalány címén egyébként elszámolt költség ezzel az összeggel növelhető. Egy adott személygépkocsi értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány. Más költségek az üzemi használattal arányosan számolhatók el az 1. pont vonatkozó rendelkezése szerint.
-
-6. Saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül az 5. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 15 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
-
-7. A nem saját tulajdonú kizárólag üzemi célra használt jármű (kivéve a személygépkocsit) esetében elszámolható az üzemi használatra eső
-
-a) igazolt bérleti vagy lízingdíj (ez alól kivételt képez a személygépkocsi bérleti vagy lízingdíja),
+c) tölthető hibrid jármű használata esetén – a 3. számú melléklet II. Igazolás nélkül, költségként elszámolható tételek fejezet 4. pont b) alpontja szerint igazolás nélkül elszámolható mérték helyett – a b) pont szerinti összeg és az elektromos töltés számlával igazolt költsége,
