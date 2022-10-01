@@ -1,4 +1,4 @@
-14. melléklet a 31/2010. (V. 13.) EüM rendelethez[^26]
+14. melléklet a 31/2010. (V. 13.) EüM rendelethez[^27]
 
 Az arthritis psoriatica diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -218,7 +218,7 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 6.2.5.3. TNF alfa gátlók: adalimumab, etanercept, infliximab (az alkalmazott támogatási kategória figyelembevételével), golimumab
 
-6.2.5.4. IL inhibitor:szekukinumab, ixekizumab
+6.2.5.4. IL inhibitor: szekukinumab, ixekizumab, guszelkumab
 
 6.2.5.5. JAK-gátló: tofacitinib
 
@@ -270,15 +270,17 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 | 11 | L04AC13 | ixekizumab | IL-inhibitor | Biológiai terápia eszközei |
 
-| 12 | L04AA29 | tofacitinib | JAK gátló | Betegségmódosító szerek |
+| 12 | L04AC16 | guszelkumab | IL-inhibitor | Biológiai terápia eszközei |
 
-| 13 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
+| 13 | L04AA29 | tofacitinib | JAK gátló | Betegségmódosító szerek |
 
-| 14 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+| 14 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
 
-| 15 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+| 15 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
 
-| 16 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
+| 16 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 17 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
 
 9. Fogalmak, rövidítések
 
@@ -314,4 +316,4 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 | NSAID | Non-steroid anti-inflammatory drug |
 
-[^26]: A 14. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (12) bekezdésével megállapított, a 36/2019. (XII. 30.) EMMI rendelet 3. § (5) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^27]: A 14. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (12) bekezdésével megállapított, a 36/2019. (XII. 30.) EMMI rendelet 3. § (5) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (5) bekezdése, a 34/2022. (IX. 28.) BM rendelet 4. § (1) bekezdése szerint módosított szöveg.

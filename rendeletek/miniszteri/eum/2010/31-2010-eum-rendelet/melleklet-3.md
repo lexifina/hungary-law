@@ -366,6 +366,6 @@
 
 | L01XC17 | nivolumab |
 
-3. melléklet a 31/2010. (V. 13.) EüM rendelethez[^15]
+3. melléklet a 31/2010. (V. 13.) EüM rendelethez[^16]
 
-[^15]: A 3. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.

@@ -514,7 +514,7 @@
 
 ## HCC: HepatoCelluláris Carcinoma
 
-7. melléklet a 31/2010. (V. 13.) EüM rendelethez[^19]
+7. melléklet a 31/2010. (V. 13.) EüM rendelethez[^20]
 
 A felnőttkori luminális Crohn-betegség diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -922,4 +922,4 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 18. Rövidítések:
 
-[^19]: A 7. melléklet a 35/2018. (X. 12.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^20]: A 7. melléklet a 35/2018. (X. 12.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-11. melléklet a 31/2010. (V. 13.) EüM rendelethez[^23]
+11. melléklet a 31/2010. (V. 13.) EüM rendelethez[^24]
 
 A rheumatoid arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -388,4 +388,4 @@ NSAID Non-steroid anti-inflammatory drug
 
 JAK Janus-kináz
 
-[^23]: A 11. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (9) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (5) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (4) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (4) bekezdése szerint módosított szöveg.
+[^24]: A 11. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (9) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (5) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (4) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (4) bekezdése szerint módosított szöveg.

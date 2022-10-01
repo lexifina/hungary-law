@@ -4,7 +4,7 @@
 
 | BNO: | Betegségek nemzetközi osztályozása” |  |
 
-10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^22]
+10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^23]
 
 A plakkos psoriasis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -340,4 +340,4 @@ UVB Ultraviola sugárzás B
 
 We Vörösvértest-süllyedés
 
-[^22]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (4) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (3) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^23]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (4) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (3) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (3) bekezdése szerint módosított szöveg.

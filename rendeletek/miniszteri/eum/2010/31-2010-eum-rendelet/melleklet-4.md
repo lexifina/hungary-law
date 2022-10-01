@@ -264,8 +264,8 @@
 
 ## TNM Tumor, node, metastasis (tumor, nyirokcsomó, metasztázis)
 
-4. melléklet a 31/2010. (V. 13.) EüM rendelethez[^16]
+4. melléklet a 31/2010. (V. 13.) EüM rendelethez[^17]
 
 A kemoterápia következtében kialakuló anémia kezelésének finanszírozási eljárásrendje
 
-[^16]: A 4. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (2) bekezdésével megállapított, a 41/2016. (XII. 22.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 4. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (2) bekezdésével megállapított, a 41/2016. (XII. 22.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.

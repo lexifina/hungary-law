@@ -1,4 +1,4 @@
-5. §[^3] (1) A myeloma multiplex kezelésének finanszírozási eljárásrendjét a 19. melléklet tartalmazza.
+5. §[^4] (1) A myeloma multiplex kezelésének finanszírozási eljárásrendjét a 19. melléklet tartalmazza.
 
 (2) A stroke elsődleges megelőzésének finanszírozási eljárásrendjét a 20. melléklet tartalmazza.
 
@@ -28,7 +28,7 @@
 
 (15) A rectum daganatok diagnosztikájának és kezelésének finanszírozási eljárásrendjét a 33. melléklet tartalmazza.
 
-(16)[^4]
+(16)[^5]
 
 (17) A gyermekkori asthma bronchiale diagnosztikájának és gyógyszeres kezelésének finanszírozási eljárásrendjét a 35. melléklet tartalmazza.
 
@@ -44,5 +44,5 @@
 
 (23) A kissejtes tüdődaganatok diagnosztikájának és kezelésének finanszírozási eljárásrendjét a 41. melléklet tartalmazza.
 
-[^3]: Az 5. § az 59/2015. (XII. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^4]: Az 5. § (16) bekezdését a 15/2016. (VII. 15.) EMMI rendelet 5. §-a hatályon kívül helyezte.
+[^4]: Az 5. § az 59/2015. (XII. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^5]: Az 5. § (16) bekezdését a 15/2016. (VII. 15.) EMMI rendelet 5. §-a hatályon kívül helyezte.

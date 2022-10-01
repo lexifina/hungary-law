@@ -4,7 +4,7 @@
 
 | BNO: | Betegségek nemzetközi osztályozása” |  |
 
-8. melléklet a 31/2010. (V. 13.) EüM rendelethez[^20]
+8. melléklet a 31/2010. (V. 13.) EüM rendelethez[^21]
 
 A felnőttkori fisztulázó Crohn-betegség diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -434,4 +434,4 @@ Megjegyzés
 
 15. Rövidítések:
 
-[^20]: A 8. melléklet a 35/2018. (X. 12.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^21]: A 8. melléklet a 35/2018. (X. 12.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.

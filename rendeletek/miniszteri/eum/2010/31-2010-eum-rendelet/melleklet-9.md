@@ -4,7 +4,7 @@
 
 | BNO: | Betegségek nemzetközi osztályozása” |  |
 
-9. melléklet a 31/2010. (V. 13.) EüM rendelethez[^21]
+9. melléklet a 31/2010. (V. 13.) EüM rendelethez[^22]
 
 A colitis ulcerosa diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -256,4 +256,4 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 14. Rövidítések:
 
-[^21]: A 9. melléklet a 35/2018. (X. 12.) EMMI rendelet 3. § (3) bekezdésével megállapított, az 55/2021. (XII. 22.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 9. melléklet a 35/2018. (X. 12.) EMMI rendelet 3. § (3) bekezdésével megállapított, az 55/2021. (XII. 22.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.

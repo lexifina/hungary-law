@@ -1,4 +1,4 @@
-13. melléklet a 31/2010. (V. 13.) EüM rendelethez[^25]
+13. melléklet a 31/2010. (V. 13.) EüM rendelethez[^26]
 
 A spondylitis ankylopoetica diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -256,4 +256,4 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 | 11. | IL | Interleukin |
 
-[^25]: A 13. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (11) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (6) bekezdése szerint módosított szöveg.
+[^26]: A 13. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (11) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (6) bekezdése szerint módosított szöveg.

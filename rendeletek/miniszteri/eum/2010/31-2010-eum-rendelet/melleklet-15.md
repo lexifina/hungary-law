@@ -1,4 +1,4 @@
-15. melléklet a 31/2010. (V. 13.) EüM rendelethez[^27]
+15. melléklet a 31/2010. (V. 13.) EüM rendelethez[^28]
 
 Oszteoporózis következtében kialakuló csonttörés primer prevenciójának finanszírozási eljárásrendje
 
@@ -228,12 +228,4 @@ A finanszírozó informatikai úton, folyamatba épített ellenőrzésként vizs
 
 6.2.1.5. Gyógyszerváltás indokoltsága (intolerancia, mellékhatás, hatástalanság)
 
-6.2.1.6. Terápiás lépcsők betartása
-
-6.2.1.7. Beteggondozás, terápia kontrollálása
-
-6.3. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
-
-6.3.1. A terápiás terültre fordított közkiadások alakulása, monitorozása
-
-[^27]: A 15. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (13) bekezdésével megállapított, a 15/2016. (VII. 15.) EMMI rendelet 4. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 75. § a) pontja, a 9/2017. (V. 31.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^28]: A 15. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (13) bekezdésével megállapított, a 15/2016. (VII. 15.) EMMI rendelet 4. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 75. § a) pontja, a 9/2017. (V. 31.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-12. melléklet a 31/2010. (V. 13.) EüM rendelethez[^24]
+12. melléklet a 31/2010. (V. 13.) EüM rendelethez[^25]
 
 A juvenilis idiopathias arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -308,4 +308,4 @@ Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség s�
 
 | 12 | NSAID | Non-steroid anti-inflammatory drug |
 
-[^24]: A 12. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (10) bekezdésével megállapított szöveg.
+[^25]: A 12. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (10) bekezdésével megállapított szöveg.
