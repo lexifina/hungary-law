@@ -4,7 +4,7 @@
 
 a) két aktív osztályos esemény között 30 napot meghaladó krónikus ellátásra került sor,
 
-b)[^8] az R. 8. számú melléklet 4. és 6–8., valamint 12–14. pontja szerinti nagy értékű beavatkozást tartalmazó ellátás és az azt megelőző ellátás önálló finanszírozási esetként számolható el.
+b)[^8] a 4. melléklet szerinti 53756, valamint az R. 8. melléklete szerinti 53350, 53750, 53753, 53757, 53758, 54100, 54101, 54102, 54103, 55040, 55285, 55551 és 55553 eljárást tartalmazó ellátás és az azt megelőző, illetve követő ellátás önálló finanszírozási esetként számolható el.
 
 (2) Az összevonás – a R. 14. számú mellékletében meghatározott kivételektől eltekintve – az első ellátás elszámolási csoportjának felső határnapját megelőzően ugyanazon kórházba visszavett betegek ellátási eseteire is vonatkozik. Az összevonás elvégzése során érvényesíteni kell a legmagasabb díj elszámolásának szabályát.
 
@@ -40,6 +40,6 @@ i) a garanciális szabály alkalmazásakor az összevonás előtt történik ann
 
 (7) A HBCs összevonási és garanciális szabályt alkalmazni kell a kúraszerű ellátásra, valamint a fekvőbeteg- és kúraszerű ellátási események között is. A kúraszerű ellátási események kezelése ebben a tekintetben is azonos a kórházi ellátási eseményekkel.
 
-[^8]: A 19. § (1) bekezdés b) pontja a 3/2022. (I. 14.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^8]: A 19. § (1) bekezdés b) pontja a 32/2022. (IX. 22.) BM rendelet 6. §-ával megállapított szöveg.
 [^9]: A 19. § (3) bekezdés e) pontja a 32/2016. (X. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
 [^10]: A 19. § (6) bekezdése a 39/2012. (IX. 6.) EMMI rendelet 4. §-ával megállapított szöveg.

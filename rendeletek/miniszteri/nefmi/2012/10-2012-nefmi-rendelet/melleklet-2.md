@@ -1,5 +1,3 @@
-## 20122V20000010_12
-
 2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^17]
 
 Az aktív fekvőbeteg-ellátás diagnózisainak és beavatkozásainak besorolási táblázatai
@@ -7524,4 +7522,772 @@ C1123 Az orrgarat oldalfalának rosszindulatú daganata III. stádium
 
 C1124 Az orrgarat oldalfalának rosszindulatú daganata IV. stádium
 
-[^17]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése, a 37/2018. (X. 30.) EMMI rendelet 3. § (2) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 5. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 4. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 5. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 6. § (1)–(2) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 5. § (2) bekezdése, az 59/2021. (XII. 28.) EMMI rendelet 6. § (2) bekezdése, a 3/2022. (I. 14.) EMMI rendelet 9. § (1) bekezdése szerint módosított szöveg.
+C1133 Az orrgarat mellső falának rosszindulatú daganata III. stádium
+
+C1134 Az orrgarat mellső falának rosszindulatú daganata IV. stádium
+
+C1183 Az orrgarat átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C1184 Az orrgarat átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C1193 Orrgarat rosszindulatú daganata, k.m.n. III. stádium
+
+C1194 Orrgarat rosszindulatú daganata, k.m.n. IV. stádium
+
+C1203 A sinus pyriformis rosszindulatú daganata III. stádium
+
+C1204 A sinus pyriformis rosszindulatú daganata IV. stádium
+
+C1303 Gyűrűporc mögötti terület rosszindulatú daganata III. stádium
+
+C1304 Gyűrűporc mögötti terület rosszindulatú daganata IV. stádium
+
+C1313 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. III. stád.
+
+C1314 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. IV. stád.
+
+C1323 A hypopharynx hátsó falának rosszindulatú daganata III. stádium
+
+C1324 A hypopharynx hátsó falának rosszindulatú daganata IV. stádium
+
+C1383 A hypopharynx átfedő elváltozása, rosszindulatú dag. III. stádium
+
+C1384 A hypopharynx átfedő elváltozása, rosszindulatú dag. IV. stádium
+
+C1393 Hypopharynx rosszindulatú daganata, k.m.n. III. stádium
+
+C1394 Hypopharynx rosszindulatú daganata, k.m.n. IV. stádium
+
+C1403 Garat rosszindulatú daganata, k.m.n. III. stádium
+
+C1404 Garat rosszindulatú daganata, k.m.n. IV. stádium
+
+C1413 Laryngopharynx rosszindulatú daganata III. stádium
+
+C1414 Laryngopharynx rosszindulatú daganata IV. stádium
+
+C1423 Waldeyer-gyűrű rosszindulatú daganata III. stádium
+
+C1424 Waldeyer-gyűrű rosszindulatú daganata IV. stádium
+
+C1483 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. III.st.
+
+C1484 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. IV.st.
+
+C3003 Orrüreg rosszindulatú daganata III. stádium
+
+C3004 Orrüreg rosszindulatú daganata IV. stádium
+
+C3013 Középfül rosszindulatú daganata III. stádium
+
+C3014 Középfül rosszindulatú daganata IV. stádium
+
+C3103 Arcüreg rosszindulatú daganata III. stádium
+
+C3104 Arcüreg rosszindulatú daganata IV. stádium
+
+C3113 Rostacsonti üreg rosszindulatú daganata III. stádium
+
+C3114 Rostacsonti üreg rosszindulatú daganata IV. stádium
+
+C3123 Homloküreg rosszindulatú daganata III. stádium
+
+C3124 Homloküreg rosszindulatú daganata IV. stádium
+
+C3133 Ékcsonti üreg rosszindulatú daganata III. stádium
+
+C3134 Ékcsonti üreg rosszindulatú daganata IV. stádium
+
+C3183 A melléküregek átfedő elváltozása, rosszind. dag. III. stádium
+
+C3184 A melléküregek átfedő elváltozása, rosszind. dag. IV. stádium
+
+C3193 Melléküreg rosszindulatú daganata, k.m.n. III. stádium
+
+C3194 Melléküreg rosszindulatú daganata, k.m.n. IV. stádium
+
+C3203 Glottis rosszindulatú daganata III.stádium
+
+C3204 Glottis rosszindulatú daganata IV. stádium
+
+C3213 Supraglotticus rész rosszindulatú daganata III. stádium
+
+C3214 Supraglotticus rész rosszindulatú daganata IV. stádium
+
+C3223 Subglotticus rész rosszindulatú daganata III. stádium
+
+C3224 Subglotticus rész rosszindulatú daganata IV. stádium
+
+C3233 Gégeporc rosszindulatú daganata III. stádium
+
+C3234 Gégeporc rosszindulatú daganata IV. stádium
+
+C3283 A gége átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C3284 A gége átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C3293 Gége rosszindulatú daganata, k.m.n. III. stádium
+
+C3294 Gége rosszindulatú daganata, k.m.n. IV. stádium
+
+ÉS BEAVATKOZÁSOK
+
+54030 Lymphadenektomia collaris radicalis (PrRND,SRND)
+
+54034 Korlátozott kiterjesztésű nyaki blockdissectio
+
+ÉS BEAVATKOZÁSOK
+
+58935 Érnyeles bőr-izom lebeny
+
+58936 Érnyeles izomlebeny
+
+58937 Távoli nyeleslebeny
+
+58938 Kettős nyeleslebeny
+
+5893F Latissimus dorsi érnyeles bőr, izomlebeny
+
+58960 Lebeny vagy nyeles lebeny más helyhez erősítése
+
+**** 03 086D Fej-, nyaktájék egyéb nagyobb műtétei rosszindulatú daganat miatt
+
+BETEGSÉGEK
+
+C0000 Felső ajak, külső felszín rosszindulatú daganata
+
+C0010 Alsó ajak külső felszín rosszindulatú daganata
+
+C0020 Ajak, k.m.n. rosszindulatú daganata
+
+C0030 Felső ajak, belső felszín rosszindulatú daganata
+
+C0040 Alsó ajak, belső felszín rosszindulatú daganata
+
+C0050 Ajak, nem meghatározott belső felszín rosszindulatú daganata
+
+C0060 Ajakzug rosszindulatú daganata
+
+C0080 Az ajak átfedő elváltozása, rosszindulatú daganata
+
+C0090 Ajak rosszindulatú daganata, k.m.n.
+
+C0101 A nyelvgyök rosszindulatú daganata I. stádium
+
+C0102 A nyelvgyök rosszindulatú daganata II. stádium
+
+C0103 A nyelvgyök rosszindulatú daganata III. stádium
+
+C0104 A nyelvgyök rosszindulatú daganata IV. stádium
+
+C01H0 A nyelvgyök rosszindulatú daganata
+
+C0200 A nyelv háti felszínének rosszindulatú daganata
+
+C0201 A nyelv háti felszínének rosszindulatú daganata I. stádium
+
+C0202 A nyelv háti felszínének rosszindulatú daganata II. stádium
+
+C0203 A nyelv háti felszínének rosszindulatú daganata III. stádium
+
+C0204 A nyelv háti felszínének rosszindulatú daganata IV. stádium
+
+C0210 A nyelv szélének rosszindulatú daganata
+
+C0211 A nyelv szélének rosszindulatú daganata I. stádium
+
+C0212 A nyelv szélének rosszindulatú daganata II. stádium
+
+C0213 A nyelv szélének rosszindulatú daganata III. stádium
+
+C0214 A nyelv szélének rosszindulatú daganata IV. stádium
+
+C0220 A nyelv alsó felszínének rosszindulatú daganata
+
+C0221 A nyelv alsó felszínének rosszindulatú daganata I. stádium
+
+C0222 A nyelv alsó felszínének rosszindulatú daganata II. stádium
+
+C0223 A nyelv alsó felszínének rosszindulatú daganata III. stádium
+
+C0224 A nyelv alsó felszínének rosszindulatú daganata IV. stádium
+
+C0230 A nyelv első kétharmadának rosszindulatú daganata, k.m.n. része
+
+C0231 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része I. stád.
+
+C0232 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része II. stád.
+
+C0233 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része III. stád.
+
+C0234 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része IV. stád.
+
+C0240 Nyelvmandula rosszindulatú daganata
+
+C0241 Nyelvmandula rosszindulatú daganata I. stádium
+
+C0242 Nyelvmandula rosszindulatú daganata II. stádium
+
+C0243 Nyelvmandula rosszindulatú daganata III. stádium
+
+C0244 Nyelvmandula rosszindulatú daganata IV. stádium
+
+C0280 A nyelv átfedő elváltozása, rosszindulatú daganata
+
+C0281 A nyelv átfedő elváltozása, rosszindulatú daganata I. stádium
+
+C0282 A nyelv átfedő elváltozása, rosszindulatú daganata II. stádium
+
+C0283 A nyelv átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C0284 A nyelv átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C0290 Nyelv rosszindulatú daganata, k.m.n.
+
+C0291 Nyelv rosszindulatú daganata, k.m.n. I. stádium
+
+C0292 Nyelv rosszindulatú daganata, k.m.n. II. stádium
+
+C0293 Nyelv rosszindulatú daganata, k.m.n. III. stádium
+
+C0294 Nyelv rosszindulatú daganata, k.m.n. IV. stádium
+
+C0300 Felső fogíny rosszindulatú daganata
+
+C0301 Felső fogíny rosszindulatú daganata I. stádium
+
+C0302 Felső fogíny rosszindulatú daganata II. stádium
+
+C0303 Felső fogíny rosszindulatú daganata III. stádium
+
+C0304 Felső fogíny rosszindulatú daganata IV. stádium
+
+C0310 Alsó fogíny rosszindulatú daganata
+
+C0311 Alsó fogíny rosszindulatú daganata I. stádium
+
+C0312 Alsó fogíny rosszindulatú daganata II. stádium
+
+C0313 Alsó fogíny rosszindulatú daganata III. stádium
+
+C0314 Alsó fogíny rosszindulatú daganata IV. stádium
+
+C0390 Fogíny rosszindulatú daganata, k.m.n.
+
+C0391 Fogíny rosszindulatú daganata, k.m.n. I. stádium
+
+C0392 Fogíny rosszindulatú daganata, k.m.n. II. stádium
+
+C0393 Fogíny rosszindulatú daganata, k.m.n. III. stádium
+
+C0394 Fogíny rosszindulatú daganata, k.m.n. IV. stádium
+
+C0400 A szájfenék első részének rosszindulatú daganata
+
+C0401 A szájfenék első részének rosszindulatú daganata I. stádium
+
+C0402 A szájfenék első részének rosszindulatú daganata II. stádium
+
+C0403 A szájfenék első részének rosszindulatú daganata III. stádium
+
+C0404 A szájfenék első részének rosszindulatú daganata IV. stádium
+
+C0410 A szájfenék oldalsó részének rosszindulatú daganata
+
+C0411 A szájfenék oldalsó részének rosszindulatú dag. I. stádium
+
+C0412 A szájfenék oldalsó részének rosszindulatú dag. II. stádium
+
+C0413 A szájfenék oldalsó részének rosszindulatú dag. III. stádium
+
+C0414 A szájfenék oldalsó részének rosszindulatú dag. IV. stádium
+
+C0480 A szájfenék határt átfedő elváltozása, rosszindulatú daganata
+
+C0481 A szájfenék határt átfedő elváltozása, rossz. dag. I. stádium
+
+C0482 A szájfenék határt átfedő elváltozása, rossz. dag. II. stádium
+
+C0483 A szájfenék határt átfedő elváltozása, rossz. dag. III. stádium
+
+C0484 A szájfenék határt átfedő elváltozása, rossz. dag. IV. stádium
+
+C0490 Szájfenék rosszindulatú daganata, k.m.n.
+
+C0491 Szájfenék rosszindulatú daganata, k.m.n. I. stádium
+
+C0492 Szájfenék rosszindulatú daganata, k.m.n. II. stádium
+
+C0493 Szájfenék rosszindulatú daganata, k.m.n. III. stádium
+
+C0494 Szájfenék rosszindulatú daganata, k.m.n. IV. stádium
+
+C0500 Kemény szájpad rosszindulatú daganata
+
+C0501 Kemény szájpad rosszindulatú daganata I. stádium
+
+C0502 Kemény szájpad rosszindulatú daganata II. stádium
+
+C0503 Kemény szájpad rosszindulatú daganata III. stádium
+
+C0504 Kemény szájpad rosszindulatú daganata IV. stádium
+
+C0510 Lágy szájpad rosszindulatú daganata
+
+C0511 Lágy szájpad rosszindulatú daganata I. stádium
+
+C0512 Lágy szájpad rosszindulatú daganata II. stádium
+
+C0513 Lágy szájpad rosszindulatú daganata III. stádium
+
+C0514 Lágy szájpad rosszindulatú daganata IV. stádium
+
+C0520 Nyelvcsap rosszindulatú daganata
+
+C0521 Nyelvcsap rosszindulatú daganata I. stádium
+
+C0522 Nyelvcsap rosszindulatú daganata II. stádium
+
+C0523 Nyelvcsap rosszindulatú daganata III. stádium
+
+C0524 Nyelvcsap rosszindulatú daganata IV. stádium
+
+C0580 A szájpad átfedő elváltozása, rosszindulatú daganata
+
+C0581 A szájpad átfedő elváltozása, rosszindulatú daganata I. stádium
+
+C0582 A szájpad átfedő elváltozása, rosszindulatú daganata II. stádium
+
+C0583 A szájpad átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C0584 A szájpad átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C0590 Szájpad rosszindulatú daganata, k.m.n.
+
+C0591 Szájpad rosszindulatú daganata, k.m.n. I. stádium
+
+C0592 Szájpad rosszindulatú daganata, k.m.n. II. stádium
+
+C0593 Szájpad rosszindulatú daganata, k.m.n. III. stádium
+
+C0594 Szájpad rosszindulatú daganata, k.m.n. IV. stádium
+
+C0600 Pofanyálkahártya rosszindulatú daganata
+
+C0601 Pofanyálkahártya rosszindulatú daganata I. stádium
+
+C0602 Pofanyálkahártya rosszindulatú daganata II. stádium
+
+C0603 Pofanyálkahártya rosszindulatú daganata III. stádium
+
+C0604 Pofanyálkahártya rosszindulatú daganata IV. stádium
+
+C0610 Szájtornác rosszindulatú daganata
+
+C0611 Szájtornác rosszindulatú daganata I. stádium
+
+C0612 Szájtornác rosszindulatú daganata II. stádium
+
+C0613 Szájtornác rosszindulatú daganata III. stádium
+
+C0614 Szájtornác rosszindulatú daganata IV. stádium
+
+C0620 Őrlőfogak mögötti terület rosszindulatú daganata
+
+C0621 Őrlőfogak mögötti terület rosszindulatú daganata I. stádium
+
+C0622 Őrlőfogak mögötti terület rosszindulatú daganata II. stádium
+
+C0623 Őrlőfogak mögötti terület rosszindulatú daganata III. stádium
+
+C0624 Őrlőfogak mögötti terület rosszindulatú daganata IV. stádium
+
+C0680 A szájüreg egyéb és k.m.n. részének átfedő rosszindulatú daganata
+
+C0681 A szájüreg egyéb és k.m.n. részének átfedő rossz. dag. I. stádium
+
+C0682 A szájüreg egyéb és k.m.n. részének átfedő rossz. dag. II. stádium
+
+C0683 A szájüreg egyéb és k.m.n. részének átfedő rossz. dag. III. stádium
+
+C0684 A szájüreg egyéb és k.m.n. részének átfedő rossz. dag. IV. stádium
+
+C0690 Száj rosszindulatú daganata, k.m.n.
+
+C0691 Száj rosszindulatú daganata, k.m.n. I. stádium
+
+C0692 Száj rosszindulatú daganata, k.m.n. II. stádium
+
+C0693 Száj rosszindulatú daganata, k.m.n. III. stádium
+
+C0694 Száj rosszindulatú daganata, k.m.n. IV. stádium
+
+C0701 A parotis rosszindulatú daganata I. stádium
+
+C0702 A parotis rosszindulatú daganata II. stádium
+
+C0703 A parotis rosszindulatú daganata III. stádium
+
+C0704 A parotis rosszindulatú daganata IV. stádium
+
+C07H0 A parotis rosszindulatú daganata
+
+C0800 Submandibularis nyálmirigy rosszindulatú daganata
+
+C0801 Submandibularis nyálmirigy rosszindulatú daganata I. stádium
+
+C0802 Submandibularis nyálmirigy rosszindulatú daganata II. stádium
+
+C0803 Submandibularis nyálmirigy rosszindulatú daganata III. stádium
+
+C0804 Submandibularis nyálmirigy rosszindulatú daganata IV. stádium
+
+C0810 Nyelv alatti nyálmirigy rosszindulatú daganata
+
+C0811 Nyelv alatti nyálmirigy rosszindulatú daganata I. stádium
+
+C0812 Nyelv alatti nyálmirigy rosszindulatú daganata II. stádium
+
+C0813 Nyelv alatti nyálmirigy rosszindulatú daganata III. stádium
+
+C0814 Nyelv alatti nyálmirigy rosszindulatú daganata IV. stádium
+
+C0880 A nagyobb nyálmirigyek átfedő elváltozása, rosszindulatú daganata
+
+C0881 A nagyobb nyálmirigyek átfedő elváltozása, rossz. dag. I. stádium
+
+C0882 A nagyobb nyálmirigyek átfedő elváltozása, rossz. dag. II. stádium
+
+C0883 A nagyobb nyálmirigyek átfedő elváltozása, rossz. dag. III. stádium
+
+C0884 A nagyobb nyálmirigyek átfedő elváltozása, rossz. dag. IV. stádium
+
+C0890 Nagy nyálmirigy rosszindulatú daganata, k.m.n.
+
+C0891 Nagy nyálmirigy rosszindulatú daganata, k.m.n. I. stádium
+
+C0892 Nagy nyálmirigy rosszindulatú daganata, k.m.n. II. stádium
+
+C0893 Nagy nyálmirigy rosszindulatú daganata, k.m.n. III. stádium
+
+C0894 Nagy nyálmirigy rosszindulatú daganata, k.m.n. IV. stádium
+
+C0900 Mandula árok rosszindulatú daganata
+
+C0901 Mandula árok rosszindulatú daganata I. stádium
+
+C0902 Mandula árok rosszindulatú daganata II. stádium
+
+C0903 Mandula árok rosszindulatú daganata III. stádium
+
+C0904 Mandula árok rosszindulatú daganata IV. stádium
+
+C0910 Mandulaív (mellső ill. hátsó) rosszindulatú daganata
+
+C0911 Mandulaív (mellső ill. hátsó) rosszindulatú daganata I. stádium
+
+C0912 Mandulaív (mellső ill. hátsó) rosszindulatú daganata II. stádium
+
+C0913 Mandulaív (mellső ill. hátsó) rosszindulatú daganata III. stádium
+
+C0914 Mandulaív (mellső ill. hátsó) rosszindulatú daganata IV. stádium
+
+C0980 A mandula átfedő elváltozása, rosszindulatú daganata
+
+C0981 A mandula átfedő elváltozása, rosszindulatú daganata I. stádium
+
+C0982 A mandula átfedő elváltozása, rosszindulatú daganata II. stádium
+
+C0983 A mandula átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C0984 A mandula átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C0990 Mandula rosszindulatú daganata, k.m.n.
+
+C0991 Mandula rosszindulatú daganata, k.m.n. I. stádium
+
+C0992 Mandula rosszindulatú daganata, k.m.n. II. stádium
+
+C0993 Mandula rosszindulatú daganata, k.m.n. III. stádium
+
+C0994 Mandula rosszindulatú daganata, k.m.n. IV. stádium
+
+C1000 Vallecula rosszindulatú daganata
+
+C1001 Vallecula rosszindulatú daganata I. stádium
+
+C1002 Vallecula rosszindulatú daganata II. stádium
+
+C1003 Vallecula rosszindulatú daganata III. stádium
+
+C1004 Vallecula rosszindulatú daganata IV. stádium
+
+C1010 A gégefedő mellső felszínének rosszindulatú daganata
+
+C1011 A gégefedő mellső felszínének rosszindulatú daganata I. stádium
+
+C1012 A gégefedő mellső felszínének rosszindulatú daganata II. stádium
+
+C1013 A gégefedő mellső felszínének rosszindulatú daganata III. stádium
+
+C1014 A gégefedő mellső felszínének rosszindulatú daganata IV. stádium
+
+C1020 A szájgarat oldalsó falának rosszindulatú daganata
+
+C1021 A szájgarat oldalsó falának rosszindulatú daganata I. stádium
+
+C1022 A szájgarat oldalsó falának rosszindulatú daganata II. stádium
+
+C1023 A szájgarat oldalsó falának rosszindulatú daganata III. stádium
+
+C1024 A szájgarat oldalsó falának rosszindulatú daganata IV. stádium
+
+C1030 A szájgarat hátsó falának rosszindulatú daganata
+
+C1031 A szájgarat hátsó falának rosszindulatú daganata I. stádium
+
+C1032 A szájgarat hátsó falának rosszindulatú daganata II. stádium
+
+C1033 A szájgarat hátsó falának rosszindulatú daganata III. stádium
+
+C1034 A szájgarat hátsó falának rosszindulatú daganata IV. stádium
+
+C1040 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata
+
+C1041 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata I. stádium
+
+C1042 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata II. stádium
+
+C1043 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata III. stádium
+
+C1044 Kopoltyúív (branchiogen) hasadék rosszindulatú daganata IV. stádium
+
+C1080 A szájgarat átfedő elváltozása, rosszindulatú daganata
+
+C1081 A szájgarat átfedő elváltozása, rosszindulatú daganata I. stádium
+
+C1082 A szájgarat átfedő elváltozása, rosszindulatú daganata II. stádium
+
+C1083 A szájgarat átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C1084 A szájgarat átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C1090 Szájgarat rosszindulatú daganata, k.m.n.
+
+C1091 Szájgarat rosszindulatú daganata, k.m.n. I. stádium
+
+C1092 Szájgarat rosszindulatú daganata, k.m.n. II. stádium
+
+C1093 Szájgarat rosszindulatú daganata, k.m.n. III. stádium
+
+C1094 Szájgarat rosszindulatú daganata, k.m.n. IV. stádium
+
+C1100 Az orrgarat felső falának rosszindulatú daganata
+
+C1101 Az orrgarat felső falának rosszindulatú daganata I. stádium
+
+C1102 Az orrgarat felső falának rosszindulatú daganata II. stádium
+
+C1103 Az orrgarat felső falának rosszindulatú daganata III. stádium
+
+C1104 Az orrgarat felső falának rosszindulatú daganata IV. stádium
+
+C1110 Az orrgarat hátsó falának rosszindulatú daganata
+
+C1111 Az orrgarat hátsó falának rosszindulatú daganata I. stádium
+
+C1112 Az orrgarat hátsó falának rosszindulatú daganata II. stádium
+
+C1113 Az orrgarat hátsó falának rosszindulatú daganata III. stádium
+
+C1114 Az orrgarat hátsó falának rosszindulatú daganata IV. stádium
+
+C1120 Az orrgarat oldalfalának rosszindulatú daganata
+
+C1121 Az orrgarat oldalfalának rosszindulatú daganata I. stádium
+
+C1122 Az orrgarat oldalfalának rosszindulatú daganata II. stádium
+
+C1123 Az orrgarat oldalfalának rosszindulatú daganata III. stádium
+
+C1124 Az orrgarat oldalfalának rosszindulatú daganata IV. stádium
+
+C1130 Az orrgarat mellső falának rosszindulatú daganata
+
+C1131 Az orrgarat mellső falának rosszindulatú daganata I. stádium
+
+C1132 Az orrgarat mellső falának rosszindulatú daganata II. stádium
+
+C1133 Az orrgarat mellső falának rosszindulatú daganata III. stádium
+
+C1134 Az orrgarat mellső falának rosszindulatú daganata IV. stádium
+
+C1180 Az orrgarat átfedő elváltozása, rosszindulatú daganata
+
+C1181 Az orrgarat átfedő elváltozása, rosszindulatú daganata I. stádium
+
+C1182 Az orrgarat átfedő elváltozása, rosszindulatú daganata II. stádium
+
+C1183 Az orrgarat átfedő elváltozása, rosszindulatú daganata III. stádium
+
+C1184 Az orrgarat átfedő elváltozása, rosszindulatú daganata IV. stádium
+
+C1190 Orrgarat rosszindulatú daganata, k.m.n.
+
+C1191 Orrgarat rosszindulatú daganata, k.m.n. I. stádium
+
+C1192 Orrgarat rosszindulatú daganata, k.m.n. II. stádium
+
+C1193 Orrgarat rosszindulatú daganata, k.m.n. III. stádium
+
+C1194 Orrgarat rosszindulatú daganata, k.m.n. IV. stádium
+
+C1201 A sinus pyriformis rosszindulatú daganata I. stádium
+
+C1202 A sinus pyriformis rosszindulatú daganata II. stádium
+
+C1203 A sinus pyriformis rosszindulatú daganata III. stádium
+
+C1204 A sinus pyriformis rosszindulatú daganata IV. stádium
+
+C12H0 A sinus pyriformis rosszindulatú daganata
+
+C1300 Gyűrűporc mögötti terület rosszindulatú daganata
+
+C1301 Gyűrűporc mögötti terület rosszindulatú daganata I. stádium
+
+C1302 Gyűrűporc mögötti terület rosszindulatú daganata II. stádium
+
+C1303 Gyűrűporc mögötti terület rosszindulatú daganata III. stádium
+
+C1304 Gyűrűporc mögötti terület rosszindulatú daganata IV. stádium
+
+C1310 Aryepiglotticus redő hypopharynx felőli oldalának rosszind. daganata
+
+C1311 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. I. stád.
+
+C1312 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. II. stád.
+
+C1313 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. III. stád.
+
+C1314 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. IV. stád.
+
+C1320 A hypopharynx hátsó falának rosszindulatú daganata
+
+C1321 A hypopharynx hátsó falának rosszindulatú daganata I. stádium
+
+C1322 A hypopharynx hátsó falának rosszindulatú daganata II. stádium
+
+C1323 A hypopharynx hátsó falának rosszindulatú daganata III. stádium
+
+C1324 A hypopharynx hátsó falának rosszindulatú daganata IV. stádium
+
+C1380 A hypopharynx átfedő elváltozása, rosszindulatú daganata
+
+C1381 A hypopharynx átfedő elváltozása, rosszindulatú dag. I. stádium
+
+C1382 A hypopharynx átfedő elváltozása, rosszindulatú dag. II. stádium
+
+C1383 A hypopharynx átfedő elváltozása, rosszindulatú dag. III. stádium
+
+C1384 A hypopharynx átfedő elváltozása, rosszindulatú dag. IV. stádium
+
+C1390 Hypopharynx rosszindulatú daganata, k.m.n.
+
+C1391 Hypopharynx rosszindulatú daganata, k.m.n. I. stádium
+
+C1392 Hypopharynx rosszindulatú daganata, k.m.n. II. stádium
+
+C1393 Hypopharynx rosszindulatú daganata, k.m.n. III. stádium
+
+C1394 Hypopharynx rosszindulatú daganata, k.m.n. IV. stádium
+
+C1400 Garat rosszindulatú daganata, k.m.n.
+
+C1401 Garat rosszindulatú daganata, k.m.n. I. stádium
+
+C1402 Garat rosszindulatú daganata, k.m.n. II. stádium
+
+C1403 Garat rosszindulatú daganata, k.m.n. III. stádium
+
+C1404 Garat rosszindulatú daganata, k.m.n. IV. stádium
+
+C1410 Laryngopharynx rosszindulatú daganata
+
+C1411 Laryngopharynx rosszindulatú daganata I. stádium
+
+C1412 Laryngopharynx rosszindulatú daganata II. stádium
+
+C1413 Laryngopharynx rosszindulatú daganata III. stádium
+
+C1414 Laryngopharynx rosszindulatú daganata IV. stádium
+
+C1420 Waldeyer-gyűrű rosszindulatú daganata
+
+C1421 Waldeyer-gyűrű rosszindulatú daganata I. stádium
+
+C1422 Waldeyer-gyűrű rosszindulatú daganata II. stádium
+
+C1423 Waldeyer-gyűrű rosszindulatú daganata III. stádium
+
+C1424 Waldeyer-gyűrű rosszindulatú daganata IV. stádium
+
+C1480 Az ajak, a szájüreg és a garat átfedő elváltozása, rosszind. daganata
+
+C1481 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. I.st.
+
+C1482 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. II.st.
+
+C1483 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. III.st.
+
+C1484 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. IV.st.
+
+C3000 Orrüreg rosszindulatú daganata
+
+C3001 Orrüreg rosszindulatú daganata I. stádium
+
+C3002 Orrüreg rosszindulatú daganata II. stádium
+
+C3003 Orrüreg rosszindulatú daganata III. stádium
+
+C3004 Orrüreg rosszindulatú daganata IV. stádium
+
+C3010 Középfül rosszindulatú daganata
+
+C3011 Középfül rosszindulatú daganata I. stádium
+
+C3012 Középfül rosszindulatú daganata II. stádium
+
+C3013 Középfül rosszindulatú daganata III. stádium
+
+C3014 Középfül rosszindulatú daganata IV. stádium
+
+C3100 Arcüreg rosszindulatú daganata
+
+C3101 Arcüreg rosszindulatú daganata I. stádium
+
+C3102 Arcüreg rosszindulatú daganata II. stádium
+
+C3103 Arcüreg rosszindulatú daganata III. stádium
+
+C3104 Arcüreg rosszindulatú daganata IV. stádium
+
+C3110 Rostacsonti üreg rosszindulatú daganata
+
+C3111 Rostacsonti üreg rosszindulatú daganata I. stádium
+
+C3112 Rostacsonti üreg rosszindulatú daganata II. stádium
+
+C3113 Rostacsonti üreg rosszindulatú daganata III. stádium
+
+C3114 Rostacsonti üreg rosszindulatú daganata IV. stádium
+
+C3120 Homloküreg rosszindulatú daganata
+
+C3121 Homloküreg rosszindulatú daganata I. stádium
+
+C3122 Homloküreg rosszindulatú daganata II. stádium
+
+C3123 Homloküreg rosszindulatú daganata III. stádium
+
+[^17]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése, a 37/2018. (X. 30.) EMMI rendelet 3. § (2) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 5. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 4. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 5. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 6. § (1)–(2) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 5. § (2) bekezdése, az 59/2021. (XII. 28.) EMMI rendelet 6. § (2) bekezdése, a 3/2022. (I. 14.) EMMI rendelet 9. § (1) bekezdése, a 32/2022. (IX. 22.) BM rendelet 7. § (2) bekezdése szerint módosított szöveg.
