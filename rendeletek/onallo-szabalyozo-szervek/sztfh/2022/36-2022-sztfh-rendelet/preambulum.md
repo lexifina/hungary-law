@@ -1,0 +1,1 @@
+A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 26. § g) pontjában kapott felhatalmazás alapján, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § l) és n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

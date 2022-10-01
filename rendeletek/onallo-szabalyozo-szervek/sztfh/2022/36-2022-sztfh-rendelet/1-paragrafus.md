@@ -1,0 +1,1 @@
+1. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (a továbbiakban: Fdvtv.) 3. § (1) bekezdés 8. pontjában meghatározott dohányboltban (a továbbiakban: dohánybolt) az Fdvtv. 1. § (1) bekezdése szerinti termékeken kívül az 1. mellékletben foglalt termékek forgalmazhatók és szolgáltatások nyújthatók.
