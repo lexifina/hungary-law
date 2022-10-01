@@ -1,1 +1,3 @@
-92. §
+92. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 26. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az elnökség tagja olyan felsőfokú végzettségű személy lehet, aki legalább 5 év, a jog, a kereskedelem, az ipar vagy a pénzügy területén megszerzett szakmai gyakorlattal, valamint jelentős tapasztalattal rendelkezik a választottbíráskodásra vagy a koncesszióra vonatkozó szabályok alkalmazásával kapcsolatban. Jelentős tapasztalattal az a személy rendelkezik, akinek a neve fel van tüntetve vagy korábban szerepelt valamely belföldi vagy külföldi állandó választottbíróság választottbírói listáján (névjegyzékén), vagy rendszeresen jogi képviseletet lát el vagy látott el választottbírósági, illetve koncesszióval kapcsolatos ügyekben.”

@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 4. § (3) bekezdés nyitó szövegrészében a „Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)” szövegrész helyébe a „Hatóság” szöveg,
 
 d)
 
@@ -16,7 +16,7 @@ g)
 
 h)
 
-i)
+i) 16. § (4) bekezdésében a „más, e törvény alapján a dohányboltban forgalmazható termék” szövegrész helyébe a „más termék” szöveg,
 
 j)
 
