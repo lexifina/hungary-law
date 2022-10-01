@@ -1,0 +1,1 @@
+3. § A földgázkereskedő az e rendelet alapján a földgáz-kereskedelmi szerződés részévé váló minimális földgáz-mennyiségre tekintettel a Ptk. 6:60. § (2) bekezdésétől eltérően a bíróságtól a szerződés módosítását nem kérheti, illetve a szerződéstől nem állhat el.
