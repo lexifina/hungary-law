@@ -1,3 +1,5 @@
 ## 68. Hatályon kívül helyező rendelkezések
 
-244. § Hatályát veszti a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 413/2021. (VII. 13.) Korm. rendelet.
+244. §[^5]
+
+[^5]: A 244. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
