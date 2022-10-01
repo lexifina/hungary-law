@@ -24,6 +24,8 @@ j) a meghatározott kiadás fedezésére szolgáló összeg,
 
 k) a fogva tartott adós részére a kapcsolattartó által célzottan befizetett összeg,
 
-l)–m)
+l)
+
+m)
 
 n) a fogyatékossági támogatás.

@@ -40,24 +40,6 @@ m) az elektronikus árverési rendszer és a kézbesítési rendszer informatika
 
 n) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.
 
+o) a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolásra, ügyvitelre és ügykezelésre vonatkozó részletes szabályokat.
+
 (1b) Az (1a) bekezdés a), d), i), j), l) és m) pontjában meghatározott rendeletet a Hatóság elnöke a miniszter véleményének kikérését követően adja ki.
-
-(2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
-
-a)
-
-b)
-
-c)
-
-d)
-
-e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végrehajtó-jelölti kézbesítési vizsga szabályait,
-
-f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
-
-g) a végrehajtási ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat, valamint a végrehajtási kérelem előterjesztésére szolgáló végrehajtható okirat nyomtatványok adattartalmát,
-
-h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
-
-i) a rendészetért felelős miniszterrel és a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben a meghatározott cselekmény végrehajtására vonatkozó részletes szabályokat, különösen a lakás kiürítésére, valamint a gyermek átadására irányuló eljárásban,

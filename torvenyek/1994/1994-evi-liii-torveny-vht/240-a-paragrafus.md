@@ -10,4 +10,4 @@
 
 (6) Ha a végrehajtási iratokat birtokló személy az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a végrehajtó irodája a helyszíni ellenőrzés lefolytatása céljából, a végrehajtási iratok mielőbbi átadásának érdekében – az Ákr. 70. § (3) és (4) bekezdésének alkalmazásával – felnyitható.
 
-(7) A Kar hivatali szervének vezetője jóváhagyásával az állandó helyettes és az újonnan kinevezett önálló bírósági végrehajtó a végrehajtási ügyek átadása során megállapodhatnak úgy is, hogy a folyamatban lévő végrehajtási ügyeket az állandó helyettes foganatosítja, az újonnan kinevezett önálló bírósági végrehajtó csak a kinevezését követően elrendelt végrehajtási ügyekben jár el.
+(7)

@@ -2,4 +2,8 @@
 
 (2) Az elszámolás megtörténte nem érinti az adósnak a társasági tartozásokért fennálló, jogszabályban megállapított tagi felelősségét. A végrehajtást kérő az elszámolás megtörténte esetén sem felel a társaság tartozásaiért.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
