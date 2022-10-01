@@ -204,89 +204,7 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| 7. Keringéstámogató eszközök |
-
-| 7/a. 01080 Felnőtt szívműtétekhez használt szívstabilizátor és tartozékai vagy oxigenátor csőkészlettel |
-
-| Elszámolásra jogosult intézetek: |
-
-| 2734 Zala Megyei Szent Rafael Kórház |
-
-| 2894 Debreceni Egyetem Klinikai Központ |
-
-| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
-
-| 2912 Pécsi Tudományegyetem |
-
-| 2915 Semmelweis Egyetem |
-
-| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
-
-| K403 Magyar Honvédség Egészségügyi Központ |
-
-| 7/b. 01081 Gyermek szívműtétekhez használt szívstabilizátor és tartozékai vagy oxigenátor csőkészlettel |
-
-| Elszámolásra jogosult intézetek: |
-
-| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
-
-| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
-
-| 7/c. 01504 Rövidtávú keringéstámogató eszközök és tartozékai (IABP) |
-
-| Elszámolásra jogosult intézetek: |
-
-| 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
-
-| 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
-
-| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
-
-| 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
-
-| 2734 Zala Megyei Szent Rafael Kórház |
-
-| 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
-
-| 2891 Uzsoki utcai Kórház |
-
-| 2893 Állami Szívkórház, Balatonfüred |
-
-| 2894 Debreceni Egyetem Klinikai Központ |
-
-| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
-
-| 2912 Pécsi Tudományegyetem |
-
-| 2915 Semmelweis Egyetem |
-
-| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
-
-| K403 Magyar Honvédség Egészségügyi Központ |
-
-| M915 Betegápoló Irgalmas Rend |
-
-| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
-
-| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
-
-| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
-
-| 7/d. 01521 Hosszútávú keringéstámogató eszközök és tartozékai (műszív) |
-
-| Elszámolásra jogosult intézetek: |
-
-| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet 2915 Semmelweis Egyetem |
-
-| 7/e. 01523 Középtávú keringéstámogató eszközök és tartozékai (ECMO) |
-
-| Elszámolásra jogosult intézetek: |
-
-| 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2894 Debreceni Egyetem Klinikai Központ 2896 Gottsegen György Országos Kardiovaszkuláris Intézet 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem |
-
-| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 7. Keringéstámogató eszközök 7/a. 01082 Szívműtétekhez használt szívstabilizátor és tartozékai Elszámolásra jogosult intézetek: 2734 Zala Megyei Szent Rafael Kórház 2896 Gottsegen György Országos Kardiovaszkuláris Intézet K403 Magyar Honvédség Egészségügyi Központ U894 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ 7/b. 01083 Szívműtétekhez használt oxigenátor és csőkészlet Elszámolásra jogosult intézetek: 2734 Zala Megyei Szent Rafael Kórház 2896 Gottsegen György Országos Kardiovaszkuláris Intézet K403 Magyar Honvédség Egészségügyi Központ U894 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ 7/c. 01504 Intraaortikus ballonpumpa Elszámolásra jogosult intézetek: 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Egyetemi Oktató Kórház 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2734 Zala Megyei Szent Rafael Kórház 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2893 Állami Szívkórház, Balatonfüred 2896 Gottsegen György Országos Kardiovaszkuláris Intézet K403 Magyar Honvédség Egészségügyi Központ M915 Betegápoló Irgalmas Rend N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház U894 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ 7/d. 01521 Műszív és tartozékai (implantálható LVAD) Elszámolásra jogosult intézetek: 2896 Gottsegen György Országos Kardiovaszkuláris Intézet U915 Semmelweis Egyetem Klinikai Központ 7/e. 01527 Perifériás keringéstámogató eszköz és tartozékai (V-V ECMO) Elszámolásra jogosult intézetek: 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2896 Gottsegen György Országos Kardiovaszkuláris Intézet 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet U894 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ 7/f. 01528 Perifériás keringéstámogató eszköz és tartozékai (V-A ECMO) Elszámolásra jogosult intézetek: 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2896 Gottsegen György Országos Kardiovaszkuláris Intézet 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet U894 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ 7/g. 01529 Centrális keringéstámogató eszköz és tartozékai (ECMO, VAD) Elszámolásra jogosult intézetek: 2896 Gottsegen György Országos Kardiovaszkuláris Intézet 2906 Országos Onkológiai Intézet U915 Semmelweis Egyetem Klinikai Központ |
 
 | 8. 01090 Pacemakerek, implantálható kardioverter-defibrillátorok és elektrodáik |
 
@@ -1128,25 +1046,7 @@
 
 | 2915 Semmelweis Egyetem |
 
-| 32. 01501 Stent-graftok (aorta, artéria iliaca) |
-
-| Elszámolásra jogosult intézetek: |
-
-| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
-
-| 2894 Debreceni Egyetem Klinikai Központ |
-
-| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
-
-| 2912 Pécsi Tudományegyetem |
-
-| 2915 Semmelweis Egyetem |
-
-| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
-
-| K403 Magyar Honvédség Egészségügyi Központ |
-
-| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 32. Stent-graftok 32/a. 01501 Stent-graftok (dilatatív érbetegségek ellátásában) Elszámolásra jogosult intézetek: 1640 Petz Aladár Egyetemi Oktató Kórház K403 Magyar Honvédség Egészségügyi Központ R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház U894 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ 32/b. 01526 Fedett vascularis stentek (obliteratív érbetegségek ellátásában) Elszámolásra jogosult intézetek: 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Egyetemi Oktató Kórház 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2889 Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház 2896 Gottsegen György Országos Kardiovaszkuláris Intézet K403 Magyar Honvédség Egészségügyi Központ N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház U984 Debreceni Egyetem Klinikai Központ U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | 33. |
 
@@ -1524,6 +1424,6 @@
 
 | 2906 Országos Onkológiai Intézet |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^119]
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^122]
 
-[^119]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^122]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (2) bekezdése, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 34/2022. (IX. 28.) BM rendelet 2. §-a szerint módosított szöveg. [ Az 1/A. mellékletben a 34/2022. (IX. 28.) BM rendelet 2. §-a által elrendelt módosítás, amely szerint a „2912 Pécsi Tudományegyetem Klinikai Központ” szövegrész helyébe az „U912 Pécsi Tudományegyetem Klinikai Központ” és a "2915 Semmelweis Egyetem, Budapest” szövegrész helyébe az „U915 Semmelweis Egyetem Klinikai Központ” szövegszöveg lép, nem vezethető át. ]

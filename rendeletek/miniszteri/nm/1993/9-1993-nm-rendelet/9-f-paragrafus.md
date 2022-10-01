@@ -1,4 +1,4 @@
-9/F. §[^86] (1) Minden NEPCs-en belül meg kell különböztetni a normál, a rövid, és a hosszú ellátási eseteket az alábbiak szerint:
+9/F. §[^88] (1) Minden NEPCs-en belül meg kell különböztetni a normál, a rövid, és a hosszú ellátási eseteket az alábbiak szerint:
 
 a) normál ellátási esetnek minősül az ellátás, ha a rehabilitáció időtartama az adott NEPCs-re a 18. számú mellékletben megállapított alsó és felső határnap között van, és ezen belül a kezelési napok száma nem haladta meg az ellátásra meghatározott maximális kezelési napok számát;
 
@@ -8,11 +8,11 @@ c) hosszú ellátásnak minősül az ellátás, ha a rehabilitáció időtartama
 
 (2) A felső kezelési határnapon felül teljesített rehabilitációs ellátási program szerinti nappali ellátás kezelési napjaira a rehabilitációs ellátási program szerinti nappali ellátást nyújtó szolgáltató részére finanszírozási napi díj elszámolása nem történhet, kivéve a (3) bekezdésben foglaltak alapján végzett ellátásokat.
 
-(3)[^87] A rehabilitációs ellátási program szerinti nappali ellátás ismétlésére vonatkozóan az egészségbiztosításért felelős miniszter rendeletében meghatározott szabálytól eltérően, a NEAK
+(3)[^89] A rehabilitációs ellátási program szerinti nappali ellátás ismétlésére vonatkozóan az egészségbiztosításért felelős miniszter rendeletében meghatározott szabálytól eltérően, a NEAK
 
 a) legfeljebb a rehabilitációs ellátási program szerinti nappali ellátás felső határnapját követő 10. napig benyújtott kérelem esetén, és
 
-b)[^88] az OEP ellenőrző főorvosának jóváhagyása alapján
+b)[^90] az OEP ellenőrző főorvosának jóváhagyása alapján
 
 az ellátást legfeljebb egy alkalommal, legfeljebb a NEPCs-re meghatározott maximális kezelési nappal és felső határnappal egyező időtartamban meghosszabbíthatja, amennyiben az egészségbiztosításért felelős miniszter rendeletében meghatározott feltételek fennállnak.
 
@@ -28,6 +28,6 @@ c) a (3) bekezdés szerint engedélyezett, felső határnapot meghaladóan telje
 
 (6) Az egészségbiztosításért felelős miniszter rendeletében előírt ismétlési számot meghaladóan végzett rehabilitációs programra finanszírozás nem fizethető.
 
-[^86]: A 9/F. §-t a 4/2012. (I. 12.) NEFMI rendelet 2. §-a iktatta be.
-[^87]: A 9/F. § (3) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.
-[^88]: A 9/F. § (3) bekezdés b) pontja az 54/2016. (XII. 30.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.
+[^88]: A 9/F. §-t a 4/2012. (I. 12.) NEFMI rendelet 2. §-a iktatta be.
+[^89]: A 9/F. § (3) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.
+[^90]: A 9/F. § (3) bekezdés b) pontja az 54/2016. (XII. 30.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.

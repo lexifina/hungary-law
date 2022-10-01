@@ -82,9 +82,13 @@ f)[^16] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 
 (19)[^27] Az (1) bekezdés szerint kerül finanszírozásra az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletben foglalt eljárásrend szerint engedélyezett – a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben meghatározott protokollban foglalt és meghatározott, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban foglalt – indikáción túli gyógyszeres kezelés.
 
-(20)[^28] A műszívkezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg- szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,75-szorosa.
+(20)[^28] A 941V HBCs szerinti műszívkezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg- szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,75-szorosa.
 
 (21)[^29] A gümőkor multidrog- és kiterjedten rezisztens eseteinek finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg-szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,09-szerese.
+
+(22)[^30] A 941R HBCs szerinti centrális keringéstámogató kezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg-szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 1,20-szorosa.
+
+(23)[^31] A 941X és 941Y HBCs-k szerinti perifériás keringéstámogató kezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg-szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 2,20-szorosa. A 941X HBCs napidíja legfeljebb 7 napig finanszírozható.
 
 [^2]: Az 1. § (1) bekezdése a 3/1997. (II. 13.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. §-t megelőző alcímet ugyanezen rendelet 7. §-a (2) bekezdésének a) pontja hatályon kívül helyezte. Az 1. § (1) bekezdése a 48/2005. (XI. 8.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdése a 29/2010. (XII. 30.) NEFMI rendelet 6. § a) pontja, a 9/2012. (II. 28.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
@@ -112,5 +116,7 @@ f)[^16] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 [^25]: Az 1. § (17) bekezdését a 7/2001. (III. 2.) EüM rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 29/2009. (VIII. 14.) EüM rendelet 3. § (3) bekezdésének b) pontja hatályon kívül helyezte.
 [^26]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 29/2010. (XII. 30.) NEFMI rendelet 7. §-a, a 70/2011. (XII. 23.) NEFMI rendelet 1. § a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 2. § a)–b) pontja szerint módosított szöveg.
 [^27]: Az 1. § (19) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 2. §-a iktatta be, szövege a 9/2012. (II. 28.) NEFMI rendelet 8. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
-[^28]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
+[^28]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be, szövege a 32/2022. (IX. 22.) BM rendelet 3. §-a szerint módosított szöveg.
 [^29]: Az 1. § (21) bekezdését újonnan a 39/2021. (IX. 6.) EMMI rendelet 1. §-a iktatta be.
+[^30]: Az 1. § (22) bekezdését a 32/2022. (IX. 22.) BM rendelet 1. §-a iktatta be.
+[^31]: Az 1. § (23) bekezdését a 32/2022. (IX. 22.) BM rendelet 1. §-a iktatta be.
