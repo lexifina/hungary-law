@@ -1,6 +1,5 @@
-## 7. §[^17]
+1. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^20]
 
-1. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^18]
+Az értékesítői díjak
 
-[^17]: A 7. § a 66/2011. (XI. 30.) NFM rendelet 5. § (4) bekezdése alapján nem lép hatályba.
-[^18]: Az 1. melléklet a 66/2021. (XII. 30.) ITM rendelet 1. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet a 20/2022. (IX. 30.) TIM rendelet 1. § (2) bekezdésével megállapított szöveg.

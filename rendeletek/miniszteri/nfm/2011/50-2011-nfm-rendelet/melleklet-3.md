@@ -1,9 +1,3 @@
-3. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^20]
+3. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^22]
 
-Az 5/A. § szerinti értékesítőre vonatkozó legmagasabb hatósági ár:
-
-| Teljesítménydíj (Ft/MW/Év) | Hődíj (Ft/GJ) |
-
-| 0 | 2000 |
-
-[^20]: A 3. mellékletet az 59/2012. (X. 31.) NFM rendelet 5. §-a hatályon kívül helyezte, újonnan az 54/2015. (IX. 30.) NFM rendelet 7. § (3) bekezdése iktatta be.
+[^22]: A 3. mellékletet az 59/2012. (X. 31.) NFM rendelet 5. §-a hatályon kívül helyezte, újonnan az 54/2015. (IX. 30.) NFM rendelet 7. § (3) bekezdése iktatta be.

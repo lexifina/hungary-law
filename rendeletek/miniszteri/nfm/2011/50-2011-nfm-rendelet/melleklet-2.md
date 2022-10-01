@@ -1,178 +1,182 @@
-## Az értékesítői díjak
-
 |  | A | B | C | D | E |
 
-| Sor- szám | Település | Értékesítő megnevezése | Vásárló szolgáltató neve | Értékesítői alapdíj Ft/hó | Értékesítői hődíj Ft/GJ |
+| 1. | Település | Értékesítő megnevezése | Vásárló szolgáltató neve | Értékesítői alapdíj | Értékesítői hődíj |
 
-| 1. | Ajka | Bakonyi Erőmű Zrt. | BAKONY-TÁVHŐ Kft. | 47 593 000 | 2 287 |
+| 2. | Ft/hó | Ft/GJ |
 
-| 2. | Almásfüzitő | Füzitő GM Energiatermelő Kft. | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 0 | 3394 |
+| 3. | Ajka | Bakonyi Erőmű Zrt. | BAKONY-TÁVHŐ Kft. | 72 457 000 | 2 500 |
 
-| 3. | Baja | Greenergy-Power Kft. | Baja Energetika Kft. | 0 | 2 852 |
+| 4. | Almásfüzitő | Energiabörze Power Kft. | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 0 | 50 502 |
 
-| 4. | Bonyhád | Greenergy-Power Kft. | „FŰTŐMŰ” Kft. | 0 | 3 729 |
+| 5. | Baja | Greenergy-Power Kft. | Baja Energetika Kft. | 0 | 4 349 |
 
-| 5. | Budapest | Alpiq Csepel Kft. – kombinált ciklusú erőmű | BKM Nonprofit Zrt. | 87 854 000 | 1 732 |
+| 6. | Bonyhád | Greenergy-Power Kft. | “FŰTŐMŰ” Kft. | 0 | 50 458 |
 
-| 6. | Budapest | Alpiq Csepel Kft. – kazán | BKM Nonprofit Zrt. | 0 | 4 577 |
+| 7. | Budapest | Alpiq Csepel Kft. – kombinált ciklusú erőmű | BKM Nonprofit Zrt. | 221 983 000 | 18 254 |
 
-| 7. | Budapest | Budapesti Erőmű Zrt. – Kelenföldi Erőmű – 1117 Budapest, Budafoki út 52. | BKM Nonprofit Zrt. | 236 793 000 | 4 520 |
+| 8. | Budapest | Alpiq Csepel Kft. – kazán | BKM Nonprofit Zrt. | 0 | 48 235 |
 
-| 8. | Budapest | Budapesti Erőmű Zrt. – Kispesti Erőmű – 1184 Budapest, Nefelejcs utca 2. | BKM Nonprofit Zrt. | 141 810 000 | 4 468 |
+| 9. | Budapest | Budapesti Erőmű Zrt. – Kelenföldi Erőmű – 1117 Budapest, Budafoki út 52. | BKM Nonprofit Zrt. | 522 575 000 | 50 255 |
 
-| 9. | Budapest | Budapesti Erőmű Zrt. – Újpesti Erőmű – 1045 Budapest, Tó utca 7. | BKM Nonprofit Zrt. | 183 224 000 | 4 478 |
+| 10. | Budapest | Budapesti Erőmű Zrt. – Kispesti Erőmű – 1184 Budapest, Nefelejcs utca 2. | BKM Nonprofit Zrt. | 361 019 000 | 49 305 |
 
-| 10. | Budapest | Készenléti Rendőrség | BKM Nonprofit Zrt. | 0 | 3 781 |
+| 11. | Budapest | Budapesti Erőmű Zrt. – Újpesti Erőmű – 1045 Budapest, Tó utca 7. | BKM Nonprofit Zrt. | 482 788 000 | 49 182 |
 
-| 11. | Budapest | CHP-Erőmű Kft. | BKM Nonprofit Zrt. | 0 | 5 734 |
+| 12. | Budapest | Készenléti Rendőrség | BKM Nonprofit Zrt. | 0 | 46 131 |
 
-| 12. | Budapest | Greenergy-Power Kft. | BKM Nonprofit Zrt. | 0 | 4 535 |
+| 13. | Budapest | CHP-Erőmű Kft. | BKM Nonprofit Zrt. | 0 | 49 026 |
 
-| 13. | Budapest | WINDIRECT Kft. | BKM Nonprofit Zrt. | 0 | 3 781 |
+| 14. | Budapest | Greenergy-Power Kft. | BKM Nonprofit Zrt. | 0 | 46 823 |
 
-| 14. | Budapest | MVM Balance Zrt. kapcsoltan és önálló tüzeléssel termelt hő | BKM Nonprofit Zrt. | 130 658 000 | 4 676 |
+| 15. | Budapest | MVM Balance Zrt. kapcsoltan és villamos kazánnal termelt hő | BKM Nonprofit Zrt. | 122 171 000 | 50 010 |
 
-| 15. | Budapest | MVM Balance Zrt. póttüzeléssel termelt hő | BKM Nonprofit Zrt. | 0 | 4 242 |
+| 16. | Budapest | MVM Balance Zrt. póttüzeléssel termelt hő | BKM Nonprofit Zrt. | 0 | 43 948 |
 
-| 16. | Budapest | ALTEO-Therm Kft. | BKM Nonprofit Zrt. | 0 | 5 668 |
+| 17. | Budapest | MVM Balance Zrt. önálló tüzeléssel termelt hő | BKM Nonprofit Zrt. | 0 | 51 417 |
 
-| 17. | Budaörs | Veolia Energia Magyarország Zrt. | BUDAÖRSHŐ Kft. | 0 | 3 784 |
+| 18. | Budapest | ALTEO-Therm Kft. | BKM Nonprofit Zrt. | 0 | 48 972 |
 
-| 18. | Csongrád | Csoterm Kft. | Csongrádi Közmű Szolgáltató Kft. | 0 | 1 930 |
+| 19. | Budaörs | Veolia Energia Magyarország Zrt. | BUDAÖRSHŐ Kft. | 0 | 48 984 |
 
-| 19. | Csorna | Greenergy-Power Kft. | Csornahő Kft. | 0 | 3 725 |
+| 20. | Csongrád | Csoterm Kft. | Csongrádi Közmű Szolgáltató Kft. | 0 | 2 656 |
 
-| 20. | Debrecen | Debreceni Vízmű Zrt. | Debreceni Hőszolgáltató Zrt. | 0 | 4 547 |
+| 21. | Csorna | Greenergy-Power Kft. | Csornahő Kft. | 0 | 48 495 |
 
-| 21. | Debrecen | Veolia Energia Magyarország Zrt. | Debreceni Hőszolgáltató Zrt. | 175 030 000 | 4 547 |
+| 22. | Debrecen | Debreceni Vízmű Zrt. | Debreceni Hőszolgáltató Zrt. | 0 | 50 063 |
 
-| 22. | Dombóvár | Veolia Energia Magyarország Zrt. | DOMBÓVÁRHŐ Kft. | 0 | 3 797 |
+| 23. | Debrecen | Veolia Energia Magyarország Zrt. | Debreceni Hőszolgáltató Zrt. | 178 547 000 | 50 063 |
 
-| 23. | Dorog | Veolia Energia Magyarország Zrt. | PROMTÁVHŐ Kft. | 20 146 000 | 4 637 |
+| 24. | Dombóvár | Veolia Energia Magyarország Zrt. | DOMBÓVÁRHŐ Kft. | 0 | 48 246 |
 
-| 24. | Dunakeszi | CHP-Erőmű Kft. | Dunakeszi Közüzemi Nonprofit Kft. | 0 | 3 485 |
+| 25. | Dorog | Veolia Energia Magyarország Zrt. | PROMTÁVHŐ Kft. | 25 098 000 | 51 695 |
 
-| 25. | Dunaújváros | Perkons DHŐ Kft. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 0 | 4 267 |
+| 26. | Dunakeszi | CHP-Erőmű Kft. | Dunakeszi Közüzemi Nonprofit Kft. | 0 | 43 928 |
 
-| 26. | Dunaújváros | Energott Fejlesztő és Vagyonkezelő Kft. – Verebély út 780/27 hrsz. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 29 048 000 | 4 267 |
+| 27. | Dunaújváros | Perkons DHŐ Kft. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 0 | 47 416 |
 
-| 27. | Dunaújváros | ISD Power Energiatermelő és Szolgáltató Kft. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 0 | 1 401 |
+| 28. | Dunaújváros | ISD Power Energiatermelő és Szolgáltató Kft. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 0 | 1 401 |
 
-| 28. | Eger | CHP-Erőmű Kft. | EVAT Zrt. | 0 | 3 744 |
+| 29. | Dunaújváros | Greenergy Távhő Kft. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 46 700 000 | 47 416 |
 
-| 29. | Érd | Veolia Energia Magyarország Zrt. | Érdhő Kft. | 0 | 3 651 |
+| 30. | Eger | CHP-Erőmű Kft. | EVAT Zrt. | 0 | 47 781 |
 
-| 30. | Esztergom | Veolia Energia Magyarország Zrt. | PROMTÁVHŐ Kft. | 33 321 000 | 4 637 |
+| 31. | Érd | Veolia Energia Magyarország Zrt. | ÉRD-TÁVHŐ Kft. | 0 | 46 231 |
 
-| 31. | Gödöllő | Veolia Energia Magyarország Zrt. | Gödöllői Távhőszolgáltató Kft. | 0 | 3 807 |
+| 32. | Esztergom | Veolia Energia Magyarország Zrt. | PROMTÁVHŐ Kft. | 41 511 000 | 51 695 |
 
-| 32. | Gyöngyös | Veolia Energia Magyarország Zrt. | Városgondozási Zrt. | 0 | 3 815 |
+| 33. | Gödöllő | Veolia Energia Magyarország Zrt. | Gödöllői Távhőszolgáltató Kft. | 0 | 46 888 |
 
-| 33. | Győr | Arrabona Koncessziós Kft. | GYŐR-SZOL Zrt. | 0 | 3 397 |
+| 34. | Gyöngyös | Veolia Energia Magyarország Zrt. | Városgondozási Zrt. | 0 | 48 172 |
 
-| 34. | Győr | ALTEO-Therm Kft. | GYŐR-SZOL Zrt. | 287 000 | 4 752 |
+| 35. | Győr | Arrabona Koncessziós Kft. | GYŐR-SZOL Zrt. | 0 | 4 023 |
 
-| 35. | Hajdúnánás | OMNI Energy Kft. | Hajdúnánási Távhőszolgáltató Kft. | 0 | 3 933 |
+| 36. | Győr | ALTEO-Therm Kft. | GYŐR-SZOL Zrt. | 287 000 | 48 601 |
 
-| 36. | Hajdúszoboszló | Veolia Energia Magyarország Zrt. | Hajdúszoboszlói Nonprofit Zrt. | 0 | 3 897 |
+| 37. | Hajdúnánás | OMNI Energy Kft. | Hajdúnánási Távhőszolgáltató Kft. | 0 | 52 901 |
 
-| 37. | Kaposvár | E.ON Energiatermelő Kft. | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zrt. | 0 | 3 989 |
+| 38. | Hajdúszoboszló | Veolia Energia Magyarország Zrt. | Hajdúszoboszlói Nonprofit Zrt. | 0 | 49 277 |
 
-| 38. | Kazincbarcika | ALTEO-Therm Kft. | Barcika Szolg Kft. | 46 200 000 | 4 434 |
+| 39. | Kaposvár | E.ON Energiatermelő Kft. | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zrt. | 0 | 47 601 |
 
-| 39. | Kiskunhalas | Halas-T Kft. | Halasi Városgazda Zrt. | 6 995 000 | 4 040 |
+| 40. | Kaposvár | OMNI Energy Kft. | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zrt. | 0 | 47 601 |
 
-| 40. | Kiskunfélegyháza | Greenergy-Power Kft. | Félegyházi Fejlesztési Nonprofit Kft. | 0 | 4 192 |
+| 41. | Kazincbarcika | ALTEO-Therm Kft. | Barcika Szolg Kft. | 61 808 000 | 49 615 |
 
-| 41. | Körmend | Greenergy-Power Kft. | RÉGIÓHŐ Kft. | 0 | 3 269 |
+| 42. | Kiskunhalas | Halas-T Kft. | Halasi Városgazda Zrt. | 9 704 000 | 42 405 |
 
-| 42. | Makó | Materm Hőszolgáltató, Befektető Kft. | Makói Városgazdálkodási Nonprofit Kft. | 0 | 2 349 |
+| 43. | Kiskunfélegyháza | Greenergy-Power Kft. | Félegyházi Fejlesztési Nonprofit Kft. | 0 | 51 183 |
 
-| 43. | Mátészalka | Veolia Energia Magyarország Zrt. | Mátészalkai Távhőszolgáltató Kft. | 0 | 3 666 |
+| 44. | Körmend | Greenergy-Power Kft. | RÉGIÓHŐ Kft. | 0 | 23 986 |
 
-| 44. | Mátészalka | Geotherm FIRE Kft. | Mátészalkai Távhőszolgáltató Kft. | 0 | 3 666 |
+| 45. | Makó | Materm Hőszolgáltató, Befektető Kft. | Makói Városgazdálkodási Nonprofit Kft. | 0 | 2 349 |
 
-| 45. | Miskolc | Miskolci Geotermia Kft. | MIHŐ Kft. | 0 | 2 650 |
+| 46. | Mátészalka | Veolia Energia Magyarország Zrt. | Mátészalkai Távhőszolgáltató Kft. | 0 | 43 105 |
 
-| 46. | Miskolc | Kuala Kft. | MIHŐ Kft. | 0 | 2 650 |
+| 47. | Mátészalka | Geotherm FIRE Kft. | Mátészalkai Távhőszolgáltató Kft. | 0 | 4 871 |
 
-| 47. | Miskolc | MVM MIFŰ Kft. – Hold u. hrsz. 23358/9 és Tatár u. 29/a. hrsz. 23358/8 | MIHŐ Kft. | 89 352 000 | 4 664 |
+| 48. | Miskolc | Miskolci Geotermia Kft. | MIHŐ Kft. | 0 | 3 176 |
 
-| 48. | Miskolc | MVM MIFŰ Kft. – Miskolc, Bánki Donát u. 17. | MIHŐ Kft. | 0 | 4 034 |
+| 49. | Miskolc | Kuala Kft. | MIHŐ Kft. | 0 | 3 176 |
 
-| 49. | Miskolc | MVM MIFŰ Kft. – Miskolc, Szarkahegy u. 21. | MIHŐ Kft. | 0 | 4 034 |
+| 50. | Miskolc | MVM MIFŰ Kft. – Hold u. hrsz. 23358/9 és Tatár u. 29/a. hrsz. 23358/8 | MIHŐ Kft. | 99 145 000 | 50 868 |
 
-| 50. | Mohács | Veolia Energia Magyarország Zrt. | MOHÁCS-HŐ Kft. | 0 | 3 801 |
+| 51. | Miskolc | MVM MIFŰ Kft. – Miskolc, Bánki Donát u. 17. | MIHŐ Kft. | 0 | 49 534 |
 
-| 51. | Mohács | BIOENERGY-Duna Befektető és Szolgáltató Kft. | MOHÁCS-HŐ Kft. | 0 | 3 483 |
+| 52. | Miskolc | MVM MIFŰ Kft. – Miskolc, Szarkahegy u. 21. | MIHŐ Kft. | 0 | 49 534 |
 
-| 52. | Mosonmagyaróvár | MESZ Mosonmagyaróvár Kft. | Városüzemeltető és Fenntartó Kft. | 19 368 000 | 4 492 |
+| 53. | Mohács | Veolia Energia Magyarország Zrt. | MOHÁCS-HŐ Kft. | 0 | 46 250 |
 
-| 53. | Nagykőrös | Greenergy-Power Kft. | KÖVA-KOM Nonprofit Zrt. | 0 | 3 770 |
+| 54. | Mohács | BIOENERGY-Duna Befektető és Szolgáltató Kft. | MOHÁCS-HŐ Kft. | 0 | 4 732 |
 
-| 54. | Nyíregyháza | Veolia Energia Magyarország Zrt. | NYÍRTÁVHŐ Kft. | 99 557 000 | 4 499 |
+| 55. | Mosonmagyaróvár | MESZ Mosonmagyaróvár Kft. | Városüzemeltető és Fenntartó Kft. | 24 882 000 | 50 512 |
 
-| 55. | Ózd | ALTEO-Therm Kft. | Ózdi Távhő Kft. | 0 | 3 826 |
+| 56. | Nagykőrös | Greenergy-Power Kft. | KÖVA-KOM Nonprofit Zrt. | 0 | 47 353 |
 
-| 56. | Paks | MVM Paksi Atomerőmű Zrt. | Duna Center Therm Kereskedelmi és Szolgáltató Kft. | 4 895 000 | 929 |
+| 57. | Nyíregyháza | Veolia Energia Magyarország Zrt. | NYÍRTÁVHŐ Kft. | 108 686 000 | 49 858 |
 
-| 57. | Pécs | Pannon Hőerőmű Zrt. | PÉTÁV Kft. | 155 604 000 | 2825 |
+| 58. | Ózd | ALTEO-Therm Kft. | Ózdi Távhő Kft. | 0 | 47 791 |
 
-| 58. | Pétfürdő | ENGIE Magyarország Kft. | „PÉTKOMM” Kft. | 3 924 000 | 3 330 |
+| 59. | Paks | MVM Paksi Atomerőmű Zrt. | Duna Center Therm Kereskedelmi és Szolgáltató Kft. | 4 895 000 | 929 |
 
-| 59. | Püspökladány | Greenergy-Power Kft. | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 0 | 4 036 |
+| 60. | Pécs | Pannon Hőerőmű Zrt. | PÉTÁV Kft. | 163 540 000 | 5 990 |
 
-| 60. | Salgótarján | CHP-Erőmű Kft. | Salgó Vagyon Kft. | 0 | 3 813 |
+| 61. | Pétfürdő | EQUANS Magyarország Kft. | “PÉTKOMM” Kft. | 5 422 000 | 45 949 |
 
-| 61. | Sárbogárd | Perkons DHŐ Kft. | ENGIE Sárbogárdi Kft. | 0 | 4 117 |
+| 62. | Püspökladány | Greenergy-Power Kft. | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 0 | 52 343 |
 
-| 62. | Sárvár | Greenergy-Power Kft. | Sárvári Városgondnokság Nonprofit Kft. | 0 | 4 031 |
+| 63. | Salgótarján | CHP-Erőmű Kft. – kapcsolt | Salgó Vagyon Kft. | 0 | 47 296 |
 
-| 63. | Sátoraljaújhely | Sátoraljaújhely Város Önkormányzat Erzsébet Kórháza | ENGIE Magyarország Kft. | 0 | 4 536 |
+| 64. | Salgótarján | CHP-Erőmű Kft.- kazán | Salgó Vagyon Kft. |  | 5 309 |
 
-| 64. | Siklós | MÖViT Zrt. | SIKLÓS-HŐ Kft. | 0 | 3 747 |
+| 65. | Sárbogárd | Perkons DHŐ Kft. | EQUANS Sárbogárdi Kft. | 0 | 49 079 |
 
-| 65. | Siófok | ENGIE Magyarország Kft. | Termofok-Sió Kft. | 7 719 000 | 3 367 |
+| 66. | Sárvár | Greenergy-Power Kft. | Sárvári Városgondnokság Nonprofit Kft. | 0 | 49 618 |
 
-| 66. | Sopron | Veolia Energia Magyarország Zrt. | SOPRON Holding Zrt. | 17 817 000 | 4 252 |
+| 67. | Sátoraljaújhely | Sátoraljaújhely Város Önkormányzat Erzsébet Kórháza | EQUANS Magyarország Kft. | 0 | 49 028 |
 
-| 67. | Sopron | ALTEO-Therm Kft. | SOPRON Holding Zrt. | 15 175 000 | 4 359 |
+| 68. | Siklós | MÖViT Zrt. | SIKLÓS-HŐ Kft. | 0 | 46 779 |
 
-| 68. | Százhalombatta | Veolia Energia Magyarország Zrt. | „SZÁKOM” Nonprofit Kft. | 22 061 000 | 4 316 |
+| 69. | Siófok | EQUANS Magyarország Kft. | Termofok-Sió Kft. | 10 977 000 | 45 825 |
 
-| 69. | Szentlőrinc | Szentlőrinci Geotermia Kft. | Szentlőrinci Közüzemi Nonprofit Kft. | 0 | 3 791 |
+| 70. | Sopron | Veolia Energia Magyarország Zrt. | SOPRON Holding Zrt. | 19 129 000 | 47 524 |
 
-| 70. | Szeged | OMNI Energy Kft. | Szegedi Távfűtő Kft. | 0 | 4 056 |
+| 71. | Sopron | ALTEO-Therm Kft. | SOPRON Holding Zrt. | 16 641 000 | 51 220 |
 
-| 71. | Szeged | Veolia Energia Magyarország Zrt. | Szegedi Távfűtő Kft. | 0 | 4 056 |
+| 72. | Százhalombatta | Veolia Energia Magyarország Zrt. | “SZÁKOM” Nonprofit Kft. | 25 182 000 | 48 338 |
 
-| 72. | Szigetszentmiklós | SZMK Energia Kft. | „Aries” Nonprofit Kft. | 0 | 3 833 |
+| 73. | Szentlőrinc | Szentlőrinci Geotermia Kft. | Szentlőrinci Közüzemi Nonprofit Kft. | 0 | 4 620 |
 
-| 73. | Szigetvár | Szigetvári Gyógyfürdő Kft. | Szigetvári Távhő Szolgáltató Nonprofit Kft. | 0 | 492 |
+| 74. | Szeged | OMNI Energy Kft. | Szegedi Távfűtő Kft. | 0 | 49 033 |
 
-| 74. | Szolnok | ALFA-NOVA Bioenergia Termelő és Szolgáltató Kft. | MVM OTSZ Zrt. | 0 | 3 578 |
+| 75. | Szeged | Veolia Energia Magyarország Zrt. | Szegedi Távfűtő Kft. | 0 | 49 033 |
 
-| 75. | Szombathely | Szombathelyi Erőmű Zrt. | Szombathelyi Távhőszolgáltató Kft. | 0 | 3 708 |
+| 76. | Szigetszentmiklós | SZMK Energia Kft. | “Aries” Nonprofit Kft. | 0 | 47 353 |
 
-| 76. | Tapolca | Tapolcai Kogenerációs Erőmű Kft. | Városgazdálkodási Kft. | 0 | 3 750 |
+| 77. | Szigetvár | Szigetvári Gyógyfürdő Kft. | Szigetvári Távhő Szolgáltató Nonprofit Kft. | 0 | 557 |
 
-| 77. | Tatabánya | TB-ENERGO Kft. | T-Szol Tatabányai Szolgáltató Zrt. | 0 | 2 322 |
+| 78. | Szolnok | ALFA-NOVA Bioenergia Termelő és Szolgáltató Kft. | MVM OTSZ Zrt. | 0 | 47 795 |
 
-| 78. | Tatabánya | Tatabánya Erőmű Kft. | T-Szol Tatabányai Szolgáltató Zrt. | 211 875 000 | 2 322 |
+| 79. | Szombathely | Szombathelyi Erőmű Zrt. | Szombathelyi Távhőszolgáltató Kft. | 0 | 44 866 |
 
-| 79. | Tiszaújváros | ALTEO-Therm Kft. | TiszaSzolg 2004 Kft. | 34 139 000 | 4 390 |
+| 80. | Tapolca | Energiabörze Power Kft. | Városgazdálkodási Kft. | 0 | 47 948 |
 
-| 80. | Vác | Veolia Energia Magyarország Zrt. | Váci Távhő Nonprofit Közhasznú Kft. | 0 | 3 883 |
+| 81. | Tatabánya | Energiabörze Power Kft. | T-Szol Tatabányai Szolgáltató Zrt. | 0 | 7 401 |
 
-| 81. | Vác | Greenergy-Power Kft. | Váci Távhő Nonprofit Közhasznú Kft. | 0 | 3 883 |
+| 82. | Tatabánya | Tatabánya Erőmű Kft. | T-Szol Tatabányai Szolgáltató Zrt. | 270 480 000 | 7 401 |
 
-| 82. | Vasvár | Vasi Triász Kft. | RÉGIÓHŐ Kft. | 0 | 816 |
+| 83. | Tiszaújváros | ALTEO-Therm Kft. | TiszaSzolg 2004 Kft. | 46 707 000 | 49 976 |
 
-| 83. | Veszprém | Veszprém-Kogeneráció Energiatermelő Zrt. | „VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 3 780 |
+| 84. | Vác | Veolia Energia Magyarország Zrt. | Váci Távhő Nonprofit Közhasznú Kft. | 0 | 47 496 |
 
-2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^19]
+| 85. | Vác | Greenergy-Power Kft. | Váci Távhő Nonprofit Közhasznú Kft. | 0 | 47 496 |
 
-## Az indokolt költségek figyelembevételének módszertana a távhőtermelők és távhőszolgáltatók vonatkozásában
+| 86. | Vasvár | Vasi Triász Kft. | RÉGIÓHŐ Kft. | 0 | 1 011 |
+
+| 87. | Veszprém | Veszprém-Kogeneráció Energiatermelő Zrt. | “VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 47 435 |
+
+2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^21]
+
+Az indokolt költségek figyelembevételének módszertana a távhőtermelők és távhőszolgáltatók vonatkozásában
 
 1. A költségek és az eszközérték figyelembevételének általános elvei
 
@@ -232,4 +236,4 @@ A Hivatal az egyedi vizsgálata során a beruházás számított tőkeköltsége
 
 Abban az esetben, ha a beruházás hatására bekövetkező költségcsökkenés mértéke a beruházás számított tőkeköltségének összegét meghaladja, akkor a Hivatal a beruházás számított tőkeköltségét indokolt költségként elismeri.
 
-[^19]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
