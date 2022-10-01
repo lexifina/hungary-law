@@ -12,7 +12,7 @@
 
 a) a (2) bekezdés szerinti határidőben módosíthatja vagy – levélben történő vagy elektronikus azonosítás nélküli elektronikus benyújtás esetén – visszavonhatja,
 
-b) a szavazást megelőző második napig – személyes vagy elektronikus azonosítást követő elektronikus benyújtás esetén – visszavonhatja
+b) a szavazást megelőző második napon 10 óráig – személyes vagy elektronikus azonosítást követő elektronikus benyújtás esetén – visszavonhatja
 
 átjelentkezési kérelmét. A kérelemnek tartalmaznia kell a 92. § (1) vagy (3) bekezdésében foglalt adatokat.
 

@@ -1,6 +1,6 @@
 249. § (1) A szavazóköri névjegyzékből a választópolgár nemzetiségi adatát törölni kell, ha
 
-a) személyes vagy elektronikus azonosítást követő elektronikus benyújtás esetén legkésőbb a szavazást megelőző második napon,
+a) személyes vagy elektronikus azonosítást követő elektronikus benyújtás esetén legkésőbb a szavazást megelőző második napon 10 óráig,
 
 b) levélben történő vagy elektronikus azonosítás nélküli elektronikus benyújtás esetén legkésőbb a szavazást megelőző negyedik napon
 

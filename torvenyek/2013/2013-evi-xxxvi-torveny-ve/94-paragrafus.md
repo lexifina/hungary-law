@@ -1,6 +1,6 @@
 94. § (1) A központi névjegyzékkel kapcsolatos kérelmet a beérkezésétől számított öt napon belül kell elbírálni.
 
-(2) A beérkezése napján, vagy ha nem munkanapon érkezik be, akkor a következő munkanapon, de legkésőbb a szavazást megelőző második napon kell elbírálni
+(2) A beérkezése napján, vagy ha nem munkanapon érkezik be, akkor a következő munkanapon, de legkésőbb a szavazást megelőző második napon 10 óráig kell elbírálni
 
 a) a 334. § (1) bekezdése szerinti kérelmet, ha a választás kitűzése és a szavazást megelőző tizenhatodik nap között érkezik be,
 

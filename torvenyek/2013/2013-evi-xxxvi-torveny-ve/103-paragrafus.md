@@ -8,9 +8,9 @@ a) a helyi választási irodához
 
 aa) levélben vagy elektronikus azonosítás nélkül elektronikus úton legkésőbb a szavazást megelőző negyedik napig,
 
-ab) személyesen vagy elektronikus azonosítással elektronikus úton a szavazást megelőző második napig, vagy
+ab) személyesen vagy elektronikus azonosítással elektronikus úton a szavazást megelőző második nap 10 óráig, vagy
 
-ac) a szavazást megelőző második napon 16 órát követően elektronikus azonosítással elektronikus úton a szavazás napján 12 óráig,
+ac) a szavazást megelőző második napon 10 órát követően elektronikus azonosítással elektronikus úton a szavazás napján 12 óráig,
 
 b) az illetékes szavazatszámláló bizottsághoz meghatalmazott útján vagy meghatalmazással nem rendelkező személy általi kézbesítésével a szavazás napján, legkésőbb 12 óráig
 

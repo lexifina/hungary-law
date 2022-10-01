@@ -10,4 +10,12 @@
 
 (5) A politikai reklám közzétételére egyebekben az Mttv. rendelkezéseit kell alkalmazni.
 
-(6)–(10)
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)

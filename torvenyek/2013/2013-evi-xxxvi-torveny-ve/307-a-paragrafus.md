@@ -10,6 +10,6 @@
 
 a) levélben történő vagy elektronikus azonosítás nélküli elektronikus benyújtás esetén legkésőbb a szavazást megelőző negyedik napon,
 
-b) személyes vagy elektronikus azonosítást követő elektronikus benyújtás esetén legkésőbb a szavazást megelőző második napon
+b) személyes vagy elektronikus azonosítást követő elektronikus benyújtás esetén legkésőbb a szavazást megelőző harmadik napon
 
 visszavonhatja átjelentkezési kérelmét.
