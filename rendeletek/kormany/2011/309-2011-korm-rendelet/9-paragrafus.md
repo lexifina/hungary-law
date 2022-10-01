@@ -1,3 +1,3 @@
-## 8. §[^14]
+9. §[^15]
 
-[^14]: A 8. §-t a 300/2012. (X. 26.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^15]: A 9. §-t a 81/2019. (IV. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.

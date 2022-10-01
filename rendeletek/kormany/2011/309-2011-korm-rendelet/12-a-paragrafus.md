@@ -4,6 +4,8 @@ a)[^20] a központi infrastruktúra és infokommunikációs szolgáltató által
 
 b) a központosított informatikai és elektronikus hírközlési szolgáltatások igénybe vételére a 7. § (1) bekezdése szerint egyedi szolgáltatási megállapodás útján kötelezett szervezetek körét – a szervezet felett felügyeleti, irányítási vagy tulajdonosi jogokat gyakorló miniszter egyetértésével –[^22]
 
+rendeletben állapítsa meg.
+
 [^19]: A 12/A. §-t a 300/2012. (X. 26.) Korm. rendelet 14. §-a iktatta be.
 [^20]: A 12/A. § a) pontja a 680/2020. (XII. 28.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 717/2021. (XII. 20.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^21]: Lásd a 7/2013. (II. 26.) NFM rendeletet.

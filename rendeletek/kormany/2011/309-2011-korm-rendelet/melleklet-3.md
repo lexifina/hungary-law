@@ -1,8 +1,8 @@
-3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^38]
+3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^39]
 
-## Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
+Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
 
-1.[^39] Az önkormányzati ASP rendszer keretében működő gazdálkodási szakrendszer és naplóelemző rendszer
+1.[^40] Az önkormányzati ASP rendszer keretében működő gazdálkodási szakrendszer és naplóelemző rendszer
 
 2. Jogszabályban meghatározott személyiadat- és lakcímnyilvántartáshoz kapcsolódó rendszerek (SZL, SZIG, eSZIG, LIG, cím- és körzetnyilvántartás, TSZR, ESZF, Nemzeti Arcképtár /NAT/)
 
@@ -10,7 +10,7 @@
 
 4. Jogszabályban meghatározott központi idegenrendészeti nyilvántartáshoz kapcsolódó egyes rendszerek (IDR, ISZL, IDEGEN)
 
-5.[^40] A 11. §-ban foglalt kivétellel jogszabályban meghatározott közúti közlekedési nyilvántartáshoz kapcsolódó rendszerek (JÁRMŰ, Vezetői engedély /VEN/, Származásellenőrzés /SZENY/, Közlekedési Okmánytár, PARKIG, eredetiségvizsgálat /KERT/, Útdíj-díjmentes, EUCARIS)
+5.[^41] A 11. §-ban foglalt kivétellel jogszabályban meghatározott közúti közlekedési nyilvántartáshoz kapcsolódó rendszerek (JÁRMŰ, Vezetői engedély /VEN/, Származásellenőrzés /SZENY/, Közlekedési Okmánytár, PARKIG, eredetiségvizsgálat /KERT/, Útdíj-díjmentes, EUCARIS)
 
 6. Jogszabályban meghatározott közlekedési biztonsági kiszolgáló rendszer (KBKR)
 
@@ -86,9 +86,9 @@
 
 42. Központi Certifikáció és tanúsítvány generáló rendszer
 
-43.[^41]
+[^42]
 
-44. Központi Időpontfoglaló Alkalmazás
+43. 44. Központi Időpontfoglaló Alkalmazás
 
 45. Nemzeti Konzultációk IT kiszolgáló rendszere
 
@@ -126,7 +126,7 @@
 
 62. Közlekedési eljárások kezelését támogató ügyviteli nyilvántartási rendszer
 
-63.[^42] Egységes Kormányzati Ügyiratkezelő Rendszer Érkeztető Rendszere (KÉR) Robotzsaru modulja
+63.[^43] Egységes Kormányzati Ügyiratkezelő Rendszer Érkeztető Rendszere (KÉR) Robotzsaru modulja
 
 64. Központosított rendvédelmi adattári lekérdező rendszer
 
@@ -194,62 +194,62 @@
 
 96. Ideiglenes Rendszámtáblák Nyilvántartásának rendszere
 
-97.[^43] Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendeletben meghatározott Munkafolyamat Kezelő Rendszer (MUKER) Kormányablakok számára, kivéve az alkalmazásfejlesztést
+97.[^44] Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendeletben meghatározott Munkafolyamat Kezelő Rendszer (MUKER) Kormányablakok számára, kivéve az alkalmazásfejlesztést
 
-98.[^44] Elektronikus ügyintézést támogató IKR rendszer, kivéve az alkalmazásfejlesztést
+98.[^45] Elektronikus ügyintézést támogató IKR rendszer, kivéve az alkalmazásfejlesztést
 
 99. Állami Alkalmazás-katalógus
 
 100. Állami Alkalmazás-fejlesztési Környezet
 
-101.[^45] A Szabályozott Tevékenységek Felügyeleti Hatósága működését támogató „Fortuna” szakrendszer
+101.[^46] A Szabályozott Tevékenységek Felügyeleti Hatósága működését támogató „Fortuna” szakrendszer
 
 102. Álláshely Nyilvántartó Rendszer (ÁNYR)
 
-103.[^46] Nemzeti Határforgalom Ellenőrző és Regisztrációs Rendszer (NHERR)
+103.[^47] Nemzeti Határforgalom Ellenőrző és Regisztrációs Rendszer (NHERR)
 
-104.[^47] Központi Mutatókarton Nyilvántartás (APDIAL)
+104.[^48] Központi Mutatókarton Nyilvántartás (APDIAL)
 
-105.[^48] SPOC (Single Point of Contact) rendszer
+105.[^49] SPOC (Single Point of Contact) rendszer
 
-106.[^49] Hatósági Házi Karantén Rendszer (HKR)
+106.[^50] Hatósági Házi Karantén Rendszer (HKR)
 
-107.[^50] Nyilvántartások Elektronikus Nyilvántartása (NYENY)
+107.[^51] Nyilvántartások Elektronikus Nyilvántartása (NYENY)
 
-108.[^51] eSzemélyiM mobilalkalmazás
+108.[^52] eSzemélyiM mobilalkalmazás
 
-109.[^52] Lakossági ügyintézést és regisztrációt támogató önkiszolgáló terminál szolgáltatások (KIOSZK ORFK és KIOSZK Kormányablak)
+109.[^53] Lakossági ügyintézést és regisztrációt támogató önkiszolgáló terminál szolgáltatások (KIOSZK ORFK és KIOSZK Kormányablak)
 
-110.[^53] NOVA.T-ellátmány rendszer (NOVA.T-ellátmány NVSZ és NOVA.T-ellátmány TEK)
+110.[^54] NOVA.T-ellátmány rendszer (NOVA.T-ellátmány NVSZ és NOVA.T-ellátmány TEK)
 
-111.[^54] Mesterséges Intelligencia Alapú Alkalmazások Szolgáltatása (MIA – MIaaS) Multi Tenant alapon
+111.[^55] Mesterséges Intelligencia Alapú Alkalmazások Szolgáltatása (MIA – MIaaS) Multi Tenant alapon
 
-112.[^55] NOVA Voks döntéshozó rendszer
+112.[^56] NOVA Voks döntéshozó rendszer
 
-113.[^56] Hiteles személyazonosításon alapuló videokonferencia szolgáltatás (ideértve a Videohívással támogatott egészségügyi ellátásokat)
+113.[^57] Hiteles személyazonosításon alapuló videokonferencia szolgáltatás (ideértve a Videohívással támogatott egészségügyi ellátásokat)
 
-114.[^57] Központi Döntéstámogató Alkalmazás
+114.[^58] Központi Döntéstámogató Alkalmazás
 
-115.[^58] SafeHIR vészhelyzeti hívásfogadó rendszer
+115.[^59] SafeHIR vészhelyzeti hívásfogadó rendszer
 
-[^38]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
-[^39]: A 3. melléklet 1. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^40]: A 3. melléklet 5. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^41]: A 3. melléklet 43. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^42]: A 3. melléklet 63. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^43]: A 3. melléklet 97. pontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^44]: A 3. melléklet 98. pontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^45]: A 3. melléklet 101. pontja az 500/2021. (VIII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^46]: A 3. melléklet 103. sorát a 260/2020. (VI. 4.) Korm. rendelet 1. §-a iktatta be.
-[^47]: A 3. melléklet 104. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^48]: A 3. melléklet 105. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^49]: A 3. melléklet 106. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^50]: A 3. melléklet 107. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^51]: A 3. melléklet 108. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^52]: A 3. melléklet 109. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^53]: A 3. melléklet 110. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^54]: A 3. melléklet 111. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^55]: A 3. melléklet 112. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^56]: A 3. melléklet 113. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^57]: A 3. melléklet 114. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be, a 2. §-a hatályon kívül helyezte, újonnan a 375/2021. (VI. 30.) Korm. rendelet 12. §-a iktatta be.
-[^58]: A 3. melléklet 115. pontját a 717/2021. (XII. 20.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^39]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
+[^40]: A 3. melléklet 1. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^41]: A 3. melléklet 5. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^42]: A 3. melléklet 43. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^43]: A 3. melléklet 63. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^44]: A 3. melléklet 97. pontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^45]: A 3. melléklet 98. pontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^46]: A 3. melléklet 101. pontja az 500/2021. (VIII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^47]: A 3. melléklet 103. sorát a 260/2020. (VI. 4.) Korm. rendelet 1. §-a iktatta be.
+[^48]: A 3. melléklet 104. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^49]: A 3. melléklet 105. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^50]: A 3. melléklet 106. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^51]: A 3. melléklet 107. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^52]: A 3. melléklet 108. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^53]: A 3. melléklet 109. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^54]: A 3. melléklet 110. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^55]: A 3. melléklet 111. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^56]: A 3. melléklet 112. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^57]: A 3. melléklet 113. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^58]: A 3. melléklet 114. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be, a 2. §-a hatályon kívül helyezte, újonnan a 375/2021. (VI. 30.) Korm. rendelet 12. §-a iktatta be.
+[^59]: A 3. melléklet 115. pontját a 717/2021. (XII. 20.) Korm. rendelet 8. § (2) bekezdése iktatta be.

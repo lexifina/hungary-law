@@ -10,5 +10,7 @@ b) alkalmazásüzemeltetési, alkalmazásüzemeltetés-támogatási és alkalmaz
 
 c) együttesen az a) és a b) pontban meghatározott
 
+közszolgáltatást.
+
 [^2]: A 2. § a 717/2021. (XII. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2/A. §-t a 300/2012. (X. 26.) Korm. rendelet 8. §-a iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

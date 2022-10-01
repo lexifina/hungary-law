@@ -1,5 +1,3 @@
-## 11. §[^17]
-
 ## 12. §[^18] A miniszter egyedi kérelemre felmentést ad a központi szolgáltató kötelező igénybe vétele alól, ha:
 
 a) a kiemelt biztonsági védelmet igénylő informatikai eszközök és alkalmazások beszerzése és üzemeltetése ezt szükségessé teszi, vagy
@@ -10,5 +8,4 @@ c) a központi szolgáltató igénybevétele a rendelkezésre álló erőforrás
 
 d) a kötelezett szerv jogszabályban meghatározott közfeladatának ellátásához szükséges speciális szolgáltatási szintek biztosítása az egyedi esetben más szolgáltató által hatékonyabban megvalósítható.
 
-[^17]: A 11. §-t a 717/2021. (XII. 20.) Korm. rendelet 9. §-a hatályon kívül helyezte.
 [^18]: A 12. § a 300/2012. (X. 26.) Korm. rendelet 13. §-ával megállapított szöveg.

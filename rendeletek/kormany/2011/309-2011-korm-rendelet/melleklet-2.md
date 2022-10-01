@@ -138,7 +138,7 @@
 
 2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^31]
 
-## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
+A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
 1. Agrárminisztérium
 
@@ -168,6 +168,8 @@ a) Nemzeti Hírközlési és Informatikai Tanács
 
 13.[^34] Társadalmi Esélyteremtési Főigazgatóság
 
+14.[^35] Védelmi Igazgatási Hivatal
+
 [^28]: Az 1. melléklet A) rész 1. pont 1.2. alpontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^29]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^30]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
@@ -175,3 +177,4 @@ a) Nemzeti Hírközlési és Informatikai Tanács
 [^32]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
 [^33]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
 [^34]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^35]: A 2. melléklet 14. pontját a 337/2022. (IX. 7.) Korm. rendelet 7. §-a iktatta be.
