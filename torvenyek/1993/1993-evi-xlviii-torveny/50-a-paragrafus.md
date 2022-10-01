@@ -236,6 +236,8 @@ j) a bányafelügyelet piacfelügyeleti intézkedésre okot adó állapot alapj�
 
 k) a 27/C. § szerinti kiegészítő bányajáradékkal érintett termékek piacfelügyeleti intézkedésre okot adó állapot időtartama alatt figyelembevételre kerülő viszonyítási egységárát, valamint a kiegészítő bányajáradék fizetési kötelezettséget megalapozó – a 27/C. § (2) bekezdés b) pontjában meghatározott tevékenységi körökön belüli – gazdasági tevékenységet,
 
+l) az építőipari nyers- és alapanyagok körét.
+
 (2) Felhatalmazást kap a miniszter
 
 a)
