@@ -6,7 +6,7 @@ a) hipermarket, nagyméretű szupermarket, szupermarket, diszkont és a diszkont
 
 b) azon üzlet esetében, amelynek alapterülete a bruttó 200 m2-t nem haladja meg, az üzemeltető kereskedő választása szerint az 1. melléklet, a 2. melléklet vagy a 3. melléklet
 
-## szerinti formai követelményeket, arculati elemeket és szöveget tartalmazó tájékoztatót használja a vásárlók tájékoztatása érdekében.
+szerinti formai követelményeket, arculati elemeket és szöveget tartalmazó tájékoztatót használja a vásárlók tájékoztatása érdekében.
 
 (3) A (2) bekezdés hatálya alá nem tartozó kereskedő választása szerint az 1. melléklet, a 2. melléklet vagy a 3. melléklet szerinti formai követelményeket, arculati elemeket és szöveget tartalmazó tájékoztató jól látható helyen való kihelyezésével tájékoztatja a vásárlókat.
 
@@ -18,6 +18,6 @@ b) a (2) bekezdés b) pontja szerinti kötelezett az üzlet vásárlók által h
 
 c) a (3) bekezdés szerinti kötelezett az üzlet vásárlók által használható bejáratánál vagy egyéb helyen, az üzletben szokásosan használt információs táblákkal megegyező méretű, de legalább 210×297 milliméter nagyságú (A4 méret) méretben, jól látható információs táblán
 
-## köteles kihelyezni.
+köteles kihelyezni.
 
 (5) A Kertv. szerinti azon kereskedő, aki kizárólag csomagküldő kereskedelmet folytat, valamint azon kereskedő, aki rendelkezik internetes honlappal, honlapjának nyitó felületén jól látható méretben közzéteszi az 1. melléklet szerinti tájékoztatót.
