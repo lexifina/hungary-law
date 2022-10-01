@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-9-20-8P
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-09-30 | 2022-9-20-8P.1 | 9/2022. (IX. 30.) GFM rendelet |
+| 2022-10-01 | 2022-9-20-8P.2 | 2010. évi CXXX. törvény |
