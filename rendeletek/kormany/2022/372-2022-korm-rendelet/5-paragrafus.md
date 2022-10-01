@@ -1,0 +1,3 @@
+5. § Az R2. a következő 68. §-sal egészül ki:
+
+„68. § Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet módosításáról szóló 372/2022. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított rendelkezéseket a Módr10. hatálybalépését megelőzően keletkezett támogatási jogviszonyokra is alkalmazni kell, ha a Módr10. hatálybalépéséig a kormányhivatal vagy az állami adóhatóság végleges, illetve a bíróság jogerős határozatával a visszafizetésre kötelezés nem történt meg.”
