@@ -8,8 +8,8 @@
 
 4.
 
-5.
+5. 3. számú melléklete az 6. melléklet, és
 
-6.
+6. 11. számú melléklete a 7. melléklet
 
 szerint módosul.
