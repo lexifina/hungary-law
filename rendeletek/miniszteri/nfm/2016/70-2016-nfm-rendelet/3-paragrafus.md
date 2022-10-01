@@ -26,6 +26,9 @@ h)[^7] egyetemes szolgáltató éves elszámolási elem.
 
 (5)[^8] Az egyes árelemekről az energiapolitikáért felelős miniszter kérésére a Hivatal köteles az e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltatni.
 
+(6)[^9] A nagykereskedői árrés és az egyetemes szolgáltatói árrés mértéke évente október 1-jei hatállyal kerül megállapításra az árkarbantartás során.
+
 [^6]: A 3. § (1) bekezedés g) pontja a 48/2021. (IX. 30.) ITM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdés h) pontját a 8/2018. (III. 28.) NFM rendelet 11. §-a iktatta be, szövege a 48/2021. (IX. 30.) ITM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^8]: A 3. § (5) bekezdését a 38/2017. (IX. 29.) NFM rendelet 15. §-a iktatta be.
+[^9]: A 3. § (6) bekezdését a 21/2022. (IX. 30.) TIM rendelet 2. § (1) bekezdése iktatta be.
