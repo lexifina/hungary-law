@@ -16,7 +16,7 @@ b) a Választottbíróság ügyvitelét ellátó titkárság.
 
 (4) Az elnökségbe az elnököt, alelnököt és három tagot a Tanács javaslatára a Hatóság elnöke nevezi ki és menti fel. A tagot elnökségi feladatai ellátásával összefüggésben az elnök nem utasíthatja.
 
-(5) Az elnökség tagja olyan személy lehet, aki legalább 5 év szakmai gyakorlattal, jogi szakvizsgával, valamint jelentős tapasztalattal rendelkezik a választottbíráskodásra vagy a koncesszióra vonatkozó szabályok alkalmazásával kapcsolatban. Jelentős tapasztalattal az a személy rendelkezik, akinek a neve fel van tüntetve valamely belföldi vagy külföldi állandó választottbíróság választottbírói listáján (névjegyzékén), vagy rendszeresen jogi képviseletet lát el választottbírósági, illetve koncesszióval kapcsolatos ügyekben.
+(5) Az elnökség tagja olyan felsőfokú végzettségű személy lehet, aki legalább 5 év, a jog, a kereskedelem, az ipar vagy a pénzügy területén megszerzett szakmai gyakorlattal, valamint jelentős tapasztalattal rendelkezik a választottbíráskodásra vagy a koncesszióra vonatkozó szabályok alkalmazásával kapcsolatban. Jelentős tapasztalattal az a személy rendelkezik, akinek a neve fel van tüntetve vagy korábban szerepelt valamely belföldi vagy külföldi állandó választottbíróság választottbírói listáján (névjegyzékén), vagy rendszeresen jogi képviseletet lát el vagy látott el választottbírósági, illetve koncesszióval kapcsolatos ügyekben.
 
 (6) Az elnökségi tagok – ideértve az elnököt és az alelnököt is – megbízatása kilenc évre szól, és egyszer nevezhetők ki újra.
 

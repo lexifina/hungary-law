@@ -1,3 +1,3 @@
 ## 17. Módosító rendelkezések
 
-37. §
+### 37. §
