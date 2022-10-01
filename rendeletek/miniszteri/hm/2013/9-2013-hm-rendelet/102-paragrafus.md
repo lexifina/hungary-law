@@ -1,3 +1,3 @@
-102. §[^257]
+102. §[^258]
 
-[^257]: A 102. §-t a 20/2018. (XII. 28.) HM rendelet 72. § 11. pontja hatályon kívül helyezte.
+[^258]: A 102. §-t a 20/2018. (XII. 28.) HM rendelet 72. § 11. pontja hatályon kívül helyezte.

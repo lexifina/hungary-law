@@ -1,14 +1,14 @@
 120/E. § (1) A készenléti szolgálat ellátása elsődlegességének szem előtt tartásával az állomány laktanyán kívüli készenléti szolgálatot teljesítő tagja
 
-a)[^325] részére elrendelhető gyakorlaton, a tábori kihelyezés keretében végrehajtott kiképzésen való részvétel vagy a készenléti szolgálattal össze nem függő túlszolgálat, továbbá
+a)[^326] részére elrendelhető gyakorlaton, a tábori kihelyezés keretében végrehajtott kiképzésen való részvétel vagy a készenléti szolgálattal össze nem függő túlszolgálat, továbbá
 
 b) nemzetközi kötelezettséggel összefüggő feladatvégzésre a 120/F. § (1) bekezdése szerint kijelölhető.
 
-(1a)[^326] Az (1) bekezdés a) pontja szerinti rendelkezés a fegyveres vagy nemzetközi kötelezettségből fakadó feladattal összefüggésben elrendelt készenléti szolgálat esetén is alkalmazható, ha a készenléti szolgálatot tartalmilag a Hjt. 105. § (3) bekezdés a) pontja szerinti készenléti szolgálatra jellemző körülmények között kell ellátni.
+(1a)[^327] Az (1) bekezdés a) pontja szerinti rendelkezés a fegyveres vagy nemzetközi kötelezettségből fakadó feladattal összefüggésben elrendelt készenléti szolgálat esetén is alkalmazható, ha a készenléti szolgálatot tartalmilag a Hjt. 105. § (3) bekezdés a) pontja szerinti készenléti szolgálatra jellemző körülmények között kell ellátni.
 
 (2) Az állomány laktanyán kívüli készenléti szolgálatot teljesítő tagja részére az (1) bekezdés szerinti feladatok egyidejű elrendelése csak indokolt esetben – különösen, ha a létszámviszonyok vagy a speciális felkészültség miatt szükséges a készenléti szolgálatot teljesítő állomány (1) bekezdés szerinti feladatokba történő bevonása – történhet.
 
 (3) Ha az állomány laktanyán kívüli készenléti szolgálatot teljesítő tagja részére az (1) bekezdés szerinti feladatok végrehajtása során a készenléti szolgálattal összefüggésben riasztás elrendelésére kerül sor, az állományilletékes parancsnok gondoskodik a készenléti szolgálat vonatkozásában a beérkezési kötelezettség – a 120/D. § (3) bekezdése alapján meghatározott – maximális időtartamon belüli teljesítésének feltételeiről.
 
-[^325]: A 120/E. § (1) bekezdés a) pontja a 9/2022. (IV. 21.) HM rendelet 3. § b) pontja szerint módosított szöveg.
-[^326]: A 120/E. § (1a) bekezdését a 12/2018. (VII. 27.) HM rendelet 11. §-a iktatta be.
+[^326]: A 120/E. § (1) bekezdés a) pontja a 9/2022. (IV. 21.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^327]: A 120/E. § (1a) bekezdését a 12/2018. (VII. 27.) HM rendelet 11. §-a iktatta be.

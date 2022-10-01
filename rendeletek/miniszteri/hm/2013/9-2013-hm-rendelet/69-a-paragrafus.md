@@ -8,7 +8,7 @@ b) vezetői szolgálati beosztás a IV. besorolási osztályba
 
 tartozik.
 
-(3)[^212] A HM (4) bekezdés hatálya alá nem tartozó hivatalának, a HM Hadtörténeti Intézet és Múzeum, valamint a HM Tábori Lelkészi Szolgálat munkaköri jegyzékében, továbbá a (6) bekezdésben meghatározott szolgálati beosztások kivételével a más magasabb szintű parancsnokság jogállású honvédségi szervezetek, a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete, továbbá az NKE-hez, a NATO Erőket Integráló Elemekhez és a Közép-európai Többnemzeti Hadosztály-parancsnoksághoz vezényelt állományra valamint a különleges műveleti komponenst biztosító állományra vonatkozó állománytáblában szereplő
+(3)[^212] A HM Hadtörténeti Intézet és Múzeum és a HM Tábori Lelkészi Szolgálat munkaköri jegyzékében, továbbá a Honvédség nem parancsnokság feladatkörű, de más magasabb szintű parancsnokság jogállású szervezeteihez és a katonai igazgatási és központi adatfeldolgozó szervezetéhez, valamint az NKE-hez, a NATO Erőket Integráló Elemhez és a Közép-európai Többnemzeti Hadosztály-parancsnoksághoz vezényelt állományra vonatkozó állománytáblákban szereplő
 
 a) beosztotti szolgálati beosztás a II. besorolási osztályba,
 
@@ -16,7 +16,7 @@ b) vezetői szolgálati beosztás az V. besorolási osztályba
 
 tartozik.
 
-(4) A HM, a központi pénzügyi és számviteli, ingatlanfenntartási és üzemeltetési, logisztikai, valamint központosított igazgatási, beszerzési feladatokat ellátó szervezet munkaköri jegyzékében, az MH Parancsnoksága, a Honvédség kutatás-fejlesztési és innovációs feladatokat ellátó szervezete és a KNBSZ állománytáblájában, továbbá a Honvédség rendelkezési állományának a központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti elemeihez vezényelt tagjaira vonatkozó állománytáblájában szereplő
+(4)[^213] A HM, a központi pénzügyi és számviteli, az ingatlanfenntartási és üzemeltetési, a logisztikai, a központosított igazgatási és a beszerzési feladatokat ellátó szervezet munkaköri jegyzékében, valamint az MH Parancsnoksága, a Honvédség más magasabb szintű parancsnokság jogállású parancsnokságai és a KNBSZ állománytáblájában, továbbá az MH rendelkezési állományának a központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti elemeihez vezényelt tagjaira vonatkozó állománytáblájában szereplő
 
 a) beosztotti szolgálati beosztás a III. besorolási osztályba,
 
@@ -32,21 +32,14 @@ b) a Magyarországon települő honvédségi szervezet külföldön működő sz
 
 létrehozott szolgálati beosztás besorolására – ha azt az állomány tagja szolgálati érdekből, tartós külföldi szolgálatra vezénylés keretében külföldön látja el – a (3) bekezdés a) és b) pontját kell megfelelően alkalmazni.
 
-(6)[^213] Az MH Parancsnokságát támogató honvédségi szervezet állománytáblájában
+(6)[^214]
 
-a) az MH Parancsnoksága vezetésbiztosító feladatok végrehajtására létrehozott szolgálati beosztások besorolására a (2) bekezdést,
-
-b) az MH Parancsnoksága támogató feladatok végrehajtására létrehozott szolgálati beosztások besorolására a (3) bekezdést,
-
-c) az MH Parancsnoksága stratégiai szintű feladatok végrehajtására létrehozott szolgálati beosztások besorolására a (4) bekezdést
-
-kell megfelelően alkalmazni.
-
-(7)[^214] A 15. melléklet szerinti HM Ügyelet feladatainak végrehajtására – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 4. § 16. pontja szerinti honvédségi szervezet állománytáblájában – létrehozott szolgálati beosztások besorolására a (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
+(7)[^215] A 15. melléklet szerinti HM Ügyelet feladatainak végrehajtására – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 4. § 16. pontja szerinti honvédségi szervezet állománytáblájában – létrehozott szolgálati beosztások besorolására a (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 [^209]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 23. §-ával megállapított szöveg.
 [^210]: A 69/A. § (1) bekezdése a 25/2021. (XII. 8.) HM rendelet 3. §-a szerint módosított szöveg.
 [^211]: A 69/A. § (2) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^212]: A 69/A. § (3) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^213]: A 69/A. § (6) bekezdése a 13/2020. (X. 14.) HM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^214]: A 69/A. § (7) bekezdését a 25/2021. (XII. 8.) HM rendelet 1. §-a iktatta be.
+[^212]: A 69/A. § (3) bekezdése a 13/2022. (IX. 30.) HM rendelet 1. §-ával megállapított szöveg.
+[^213]: A 69/A. § (4) bekezdése a 13/2022. (IX. 30.) HM rendelet 1. §-ával megállapított szöveg.
+[^214]: A 69/A. § (6) bekezdését a 13/2022. (IX. 30.) HM rendelet 4. §-a hatályon kívül helyezte.
+[^215]: A 69/A. § (7) bekezdését a 25/2021. (XII. 8.) HM rendelet 1. §-a iktatta be.
