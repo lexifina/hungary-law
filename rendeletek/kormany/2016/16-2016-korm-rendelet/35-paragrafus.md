@@ -4,7 +4,7 @@ a) örökbefogadás esetén a támogatott személy büntetőjogi felelősség v�
 
 b) bírósági vagy hatósági határozat következtében utóbb a háztartásba került gyermek esetén – a gyermek személyes adatait, a határozathozatal időpontját, a döntést hozó bíróság, hatóság megnevezését tartalmazó – teljes bizonyító erejű magánokiratba foglalt nyilatkozattal
 
-## kell igazolni.
+kell igazolni.
 
 (2) A gyermekvállalás teljesítését a Kincstár a 16. § a) pontja szerinti hozzájárulás alapján megállapítja és erről a hitelintézetet értesíti.
 

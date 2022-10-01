@@ -1,18 +1,18 @@
-72. § (1)[^230] A 9. § b) vagy c) pontja szerinti összegű családi otthonteremtési kedvezményt igénybe vevő személy Magyarország területén lévő új lakás építéséhez vagy vásárlásához felvett hitelintézeti kölcsön (a továbbiakban: kölcsön) kamatainak megfizetéséhez többgyermekes családok otthonteremtési kamattámogatását (a továbbiakban: otthonteremtési kamattámogatás) igényelheti.
+72. § (1)[^235] A 9. § b) vagy c) pontja szerinti összegű családi otthonteremtési kedvezményt igénybe vevő személy Magyarország területén lévő új lakás építéséhez vagy vásárlásához felvett hitelintézeti kölcsön (a továbbiakban: kölcsön) kamatainak megfizetéséhez többgyermekes családok otthonteremtési kamattámogatását (a továbbiakban: otthonteremtési kamattámogatás) igényelheti.
 
-(2)[^231] Az otthonteremtési kamattámogatás mértéke megegyezik
+(2)[^236] Az otthonteremtési kamattámogatás mértéke megegyezik
 
 a) – ideértve a 73. § (13) bekezdés b) pontjában foglalt esetet is – a 73. § (1) bekezdése szerint meghatározott ügyleti kamat 3 százalékponttal csökkentett,
 
 b) a magyar állam vagy a magyar állam kizárólagos tulajdonában álló gazdasági társaság által biztosított hitelkeretből a hitelintézet által új lakás vásárlása vagy építése céljára közvetlenül vagy közvetetten továbbhitelezett kölcsön esetén a 73. § (1) bekezdés c) pontja szerinti ügyleti kamat
 
-## mértékével.
+mértékével.
 
-(3)[^232] A kölcsön kamatainak megfizetéséhez az otthonteremtési kamattámogatást az állam a kölcsön teljes futamidejére, de legfeljebb huszonöt évre nyújtja.
+(3)[^237] A kölcsön kamatainak megfizetéséhez az otthonteremtési kamattámogatást az állam a kölcsön teljes futamidejére, de legfeljebb huszonöt évre nyújtja.
 
 (4) A kölcsön kamata az otthonteremtési kamattámogatás időszaka alatt ötévente változhat.
 
-(5)[^233] A kölcsön otthonteremtési kamattámogatással érintett összege nem haladhatja meg
+(5)[^238] A kölcsön otthonteremtési kamattámogatással érintett összege nem haladhatja meg
 
 a) a 9. § b) pontja szerinti összegű családi otthonteremtési kedvezményt igénybe vevő személy esetében a tízmillió forintot,
 
@@ -30,25 +30,25 @@ b) a meglévő kölcsöntartozás kiegyenlítésére szolgáló kölcsönhöz é
 
 c) lejárt tőketartozás esetén.
 
-(9)[^234]
+(9)[^239]
 
-(10)[^235] Az otthonteremtési kamattámogatás igénybevételével érintett kölcsönszerződés megkötésének feltétele, hogy – új lakás építése esetén – az igénylő által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja.
+(10)[^240] Az otthonteremtési kamattámogatás igénybevételével érintett kölcsönszerződés megkötésének feltétele, hogy – új lakás építése esetén – az igénylő által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja.
 
 (11) Az otthonteremtési kamattámogatásra vonatkozó támogatási szerződésben az igénylő vállalja, hogy az új lakásra vonatkozó használatbavételi engedélyt, a használatbavétel tudomásulvételét igazoló hatósági bizonyítványt vagy a bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítványt az utolsó kölcsönrész folyósításáig bemutatja a hitelintézet részére.
 
-(11a)[^236] A (11) bekezdésben foglaltaktól eltérően az otthonteremtési kamattámogatási kérelem benyújtásának időpontjában építési engedéllyel vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentésének megtörténtét az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által generált visszaigazolással vagy az elektronikus építési napló üzemeltetője által előállított visszaigazolással rendelkező, de használatbavételi engedéllyel, használatbavétel tudomásulvételét igazoló hatósági dokumentummal vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal még nem rendelkező, gazdálkodó szervezet által természetes személy részére való értékesítés céljára épített vagy építtetett új lakás esetében az otthonteremtési kamattámogatással érintett kölcsön teljes összege a használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági dokumentum bemutatását megelőzően is folyósítható, azzal, hogy ebben az esetben a kamattámogatási időszak a használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány bemutatását követő napon kezdődik.
+(11a)[^241] A (11) bekezdésben foglaltaktól eltérően az otthonteremtési kamattámogatási kérelem benyújtásának időpontjában építési engedéllyel vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentésének megtörténtét az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által generált visszaigazolással vagy az elektronikus építési napló üzemeltetője által előállított visszaigazolással rendelkező, de használatbavételi engedéllyel, használatbavétel tudomásulvételét igazoló hatósági dokumentummal vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal még nem rendelkező, gazdálkodó szervezet által természetes személy részére való értékesítés céljára épített vagy építtetett új lakás esetében az otthonteremtési kamattámogatással érintett kölcsön teljes összege a használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági dokumentum bemutatását megelőzően is folyósítható, azzal, hogy ebben az esetben a kamattámogatási időszak a használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány bemutatását követő napon kezdődik.
 
 (12) Az otthonteremtési kamattámogatásra megszerzett jogosultság a kamattámogatás időtartama alatt változatlan feltételekkel fennmarad, függetlenül attól, hogy a kölcsön fedezetét képező lakás helyett fedezetül másik lakás kerül bevonásra.
 
-(13)[^237] A hitelintézet az igénybe vett kamattámogatás éves összegét évente egyszer, az éves elszámolás keretében közli a támogatott személlyel.
+(13)[^242] A hitelintézet az igénybe vett kamattámogatás éves összegét évente egyszer, az éves elszámolás keretében közli a támogatott személlyel.
 
 (14) Az otthonteremtési kamattámogatás akkor igényelhető, ha az igénylőnek az otthonteremtési kamattámogatás igénylésének időpontjában nincs a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény 11. § (1) bekezdése szerinti nyilvántartott tartozása a központi hitelinformációs rendszerben vagy az igénylő a KHR-ben szereplő tartozását már legalább egy éve teljesítette.
 
-[^230]: A 72. § (1) bekezdése a 209/2018. (XI. 13.) Korm. rendelet 2. § a) és b) pontja szerint módosított szöveg.
-[^231]: A 72. § (2) bekezdése az 541/2021. (IX. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^232]: A 72. § (3) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 20. pontja szerint módosított szöveg.
-[^233]: A 72. § (5) bekezdése a 209/2018. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^234]: A 72. § (9) bekezdését a 26/2018. (II. 28.) Korm. rendelet 23. § k) pontja hatályon kívül helyezte.
-[^235]: A 72. § (10) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^236]: A 72. § (11a) bekezdését a 46/2019. (III. 12.) Korm. rendelet 5. §-a iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^237]: A 72. § (13) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § r) pontja szerint módosított szöveg.
+[^235]: A 72. § (1) bekezdése a 209/2018. (XI. 13.) Korm. rendelet 2. § a) és b) pontja szerint módosított szöveg.
+[^236]: A 72. § (2) bekezdése az 541/2021. (IX. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^237]: A 72. § (3) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 20. pontja szerint módosított szöveg.
+[^238]: A 72. § (5) bekezdése a 209/2018. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^239]: A 72. § (9) bekezdését a 26/2018. (II. 28.) Korm. rendelet 23. § k) pontja hatályon kívül helyezte.
+[^240]: A 72. § (10) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^241]: A 72. § (11a) bekezdését a 46/2019. (III. 12.) Korm. rendelet 5. §-a iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^242]: A 72. § (13) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § r) pontja szerint módosított szöveg.

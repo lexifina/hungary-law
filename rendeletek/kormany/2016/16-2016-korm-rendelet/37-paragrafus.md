@@ -12,7 +12,7 @@ a) új lakás vásárlása esetén a kérelem benyújtásának napját követő 
 
 b) új lakás építése esetén a kérelem benyújtásának napját követő 60 napon belül
 
-## kell elbírálnia a hitelintézetnek.
+kell elbírálnia a hitelintézetnek.
 
 (3b)[^109] Ha a kérelem elbírálásához szükséges, a hitelintézet az igénylőtől a benyújtott dokumentumok kiegészítését kérheti. A kiegészítésre biztosított időtartam a (3a) bekezdés szerinti határidőbe nem számít bele.
 

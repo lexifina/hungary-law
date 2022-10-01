@@ -50,7 +50,7 @@ ba) a 25. életévét még nem töltötte be vagy
 
 bb)[^13] a 25. életévét már betöltött,
 
-## megváltozott munkaképességű személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
+megváltozott munkaképességű személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
 
 5.[^14] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) szerint számított – hasznos alapterületének összege:
 

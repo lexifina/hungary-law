@@ -26,7 +26,7 @@ b) a családi otthonteremtési kedvezményre vonatkozó információkat;
 
 c)[^32] a csekély összegű (de minimis) támogatásokra irányadó feltételek teljesítésére vonatkozó nyilatkozatában foglalt adatokat
 
-## a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellenőrzése céljából a hitelintézet felhasználja és továbbítsa a kormányhivatal, a Kincstár, valamint az állami adóhatóság részére.
+a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellenőrzése céljából a hitelintézet felhasználja és továbbítsa a kormányhivatal, a Kincstár, valamint az állami adóhatóság részére.
 
 (2)[^33] A családi otthonteremtési kedvezmény igénylésekor az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy a hitelintézet, a kormányhivatal és az állami adóhatóság a bizonylatok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a családi otthonteremtési kedvezmény igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen – a lakásban is – ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a kormányhivatal hatáskörébe tartozik, a kormányhivatalt hivatalból értesítse.
 
@@ -46,7 +46,7 @@ a) a legalább többségi tulajdonában álló gazdasági társaság – ide nem
 
 b) az általa folytatott egyéni vállalkozói tevékenység
 
-## székhelyeként a cégnyilvántartásba, illetve az egyéni vállalkozók nyilvántartásába be kívánja jelenteni.
+székhelyeként a cégnyilvántartásba, illetve az egyéni vállalkozók nyilvántartásába be kívánja jelenteni.
 
 (9)[^39] Az igénylő a (8) bekezdés szerinti nyilatkozatot akkor teheti meg, ha a családi otthonteremtési kedvezményből vásárolt vagy épített új lakás megszerzésének költségeihez nem vett korábban igénybe az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis), illetve ezen jogcímtől eltérő jogcímen az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti állami támogatást.
 
@@ -60,7 +60,7 @@ aa) építésénél a 21. § szerinti építési költségvetést,
 
 ab) vásárlásánál az adásvételi szerződésben és a 44. § (1) bekezdése szerinti számlában a vételárat
 
-## meg kell osztani az aa) alpont esetében a lakóépületre és a melléképítményre jutó bekerülési költségekre, illetve az ab) alpont esetében a lakóépületre, a földrészletre, illetve a melléképítményre jutó vételárhányadokra,
+meg kell osztani az aa) alpont esetében a lakóépületre és a melléképítményre jutó bekerülési költségekre, illetve az ab) alpont esetében a lakóépületre, a földrészletre, illetve a melléképítményre jutó vételárhányadokra,
 
 b) a családi otthonteremtési kedvezmény összege nem haladhatja meg új lakás
 

@@ -14,6 +14,8 @@ b) az olyan gazdálkodó szervezet, amellyel az igénylő tulajdonosi jogviszony
 
 c) olyan alapítvány vagy egyesület, amelynek az igénylő az alapítója,
 
+nem rendelkezik tulajdonjoggal, vagy – a 20. § (2) bekezdése szerinti közös tulajdon esetén – kizárólagos használati joggal.
+
 [^57]: A 23. § (2) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
 [^58]: A 23. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 7. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^59]: A 23. § (4) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 5. §-a iktatta be, szövege a 183/2021. (IV. 16.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

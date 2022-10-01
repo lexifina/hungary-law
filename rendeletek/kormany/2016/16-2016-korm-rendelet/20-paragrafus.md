@@ -1,5 +1,3 @@
-## található.
-
 20. §[^53] (1)[^54] A családi otthonteremtési kedvezménnyel felépített vagy megvásárolt új lakásban – a (3) és a (3a) bekezdésben foglalt kivétellel – csak a támogatott személyek szerezhetnek tulajdont.
 
 (2) Több lakásból álló osztatlan közös tulajdonú ingatlan esetén, ha a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan használati megállapodás alapján a támogatott személyek kizárólagos használati joga áll fenn, az (1) bekezdés szerinti feltételt teljesítettnek kell tekinteni.

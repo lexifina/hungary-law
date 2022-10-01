@@ -6,4 +6,6 @@ a) a 20. § (2) bekezdése szerinti közös tulajdonban álló ingatlannak nem a
 
 b) társasháztulajdon esetében annak közös tulajdonban álló épületrészében
 
+található.
+
 [^52]: A 19. § a 686/2020. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

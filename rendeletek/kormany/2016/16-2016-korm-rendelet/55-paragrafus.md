@@ -1,3 +1,3 @@
-## 54. §[^172] Ha a kormányhivatal a hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe a családi otthonteremtési kedvezményt, akkor határozatban intézkedik a családi otthonteremtési kedvezmény – a folyósítás napjától számított, a Ptk. szerinti késedelmi kamattal növelt összegének – visszatérítése iránt.
+55. §[^176] Ha a támogatott fiatal házaspár a 45. § (2) bekezdés szerinti dokumentumokra vonatkozó bemutatási kötelezettségének a hitelintézet felszólítását követően sem tesz eleget, úgy a családi otthonteremtési kedvezmény összegét a folyósítás napjától számított, a Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten vissza kell fizetnie.
 
-[^172]: Az 54. § a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^176]: Az 55. § a 372/2022. (IX. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
