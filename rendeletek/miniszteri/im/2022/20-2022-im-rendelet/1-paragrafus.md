@@ -1,0 +1,1 @@
+1. § Hatályát veszti a bírósági végrehajtó állandó helyettes általi helyettesítésével és a végrehajtói szolgálat átadásával, átvételével összefüggő elszámolás, ügyvitel, valamint ügykezelés részletszabályairól szóló 16/2022. (VI. 30.) IM rendelet.
