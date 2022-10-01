@@ -1,6 +1,6 @@
 ## 3. A támogatás igénylése
 
-4. §[^7] (1) Az igénylő tárgyhavi támogatási igénybejelentésének a tárgyhót követő hónap 22. napját követő első munkanapig (a továbbiakban: igénylési határnap) be kell érkeznie a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti átviteli rendszerirányítóhoz (a továbbiakban: rendszerirányító).
+4. §[^9] (1) Az igénylő tárgyhavi támogatási igénybejelentésének a tárgyhót követő hónap 22. napját követő első munkanapig (a továbbiakban: igénylési határnap) be kell érkeznie a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti átviteli rendszerirányítóhoz (a továbbiakban: rendszerirányító).
 
 (2) A támogatási igénybejelentés tartalmazza
 
@@ -22,10 +22,10 @@ a) a kifizetett jogosulatlan támogatás összegét – a jogosulatlan kifizeté
 
 b) a számítási vagy mennyiségi hiba miatt elmaradt támogatási összeg kifizetését igényli
 
-## a javított támogatási igénybejelentő lap két eredeti példányának, valamint a kifizetett támogatási összeg és a javított támogatási igénybejelentő lapon megjelölt támogatási összeg különbözetére vonatkozó nyilatkozata két eredeti példányának benyújtásával.
+a javított támogatási igénybejelentő lap két eredeti példányának, valamint a kifizetett támogatási összeg és a javított támogatási igénybejelentő lapon megjelölt támogatási összeg különbözetére vonatkozó nyilatkozata két eredeti példányának benyújtásával.
 
 (8) Ha adott igénylő az igénylési határnapot követően, de legkésőbb a késedelmi igénylési határnapig a (7) bekezdés b) pontja szerint az elmaradt támogatási összeg kifizetését igényli (a továbbiakban: önellenőrzés keretében javított támogatási igénybejelentés), a rendszerirányító a számítási vagy mennyiségi hiba miatt elmaradt támogatási összeg kifizetését – az önellenőrzés keretében javított támogatási igénybejelentés tartalmára tekintet nélkül – tíz százalékkal csökkentett mértékben a soron következő hónapban esedékes kifizetésekkel együtt teljesíti.
 
 (9) Az igénylő (7) és (8) bekezdés szerinti önellenőrzésre vonatkozó jogosultsága adott havi támogatási igénybejelentés alapján a késedelmi igénylési határnapot követően megszűnik. A késedelmi támogatási igénybejelentés önellenőrzéssel nem javítható. A rendszerirányító kifizetést önellenőrzésre való jogosultság alapján kizárólag a (7) bekezdés szerint hiánytalanul beérkezett iratok alapján teljesíthet.
 
-[^7]: A 4. § az 59/2012. (X. 31.) NFM rendelet 9. §-ával megállapított szöveg.
+[^9]: A 4. § az 59/2012. (X. 31.) NFM rendelet 9. §-ával megállapított szöveg.
