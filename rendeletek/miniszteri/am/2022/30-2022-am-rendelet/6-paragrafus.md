@@ -1,5 +1,5 @@
 ## 3. Az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint az Európai Tengerügyi és Halászati Alapból finanszírozott intézkedések megvalósulásának időtartama alatt, elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról szóló 57/2015. (XII. 23.) MvM rendelet módosítása
 
-6. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint az Európai Tengerügyi és Halászati Alapból finanszírozott intézkedések megvalósulásának időtartama alatt, elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról szóló 57/2015. (XII. 23.) MvM rendelet [a továbbiakban: 57/2015. (XII. 23.) MvM rendelet] 3. §-a a következő (8) bekezdéssel egészül ki:
+6. §[^7]
 
-„(8) A 2022. év tekintetében az FMR. 3. § (1) bekezdés e) pontja szerinti aszály bekövetkezett vis maior eseménynek minősül a 2011. évi CLXVIII. törvény 12. § (5) bekezdése szerinti közlemény hatálya alá tartozó területek vonatkozásában. Az esemény bekövetkezésének igazolására az (5) és (7) bekezdésben foglaltakat nem kell alkalmazni.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
