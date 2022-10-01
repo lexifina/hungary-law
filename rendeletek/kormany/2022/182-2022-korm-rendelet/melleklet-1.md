@@ -34,6 +34,8 @@ B) Miniszterelnöki Kabinetirodát vezető miniszter
 
 | 9 | Nemzeti Koncessziós Iroda | irányítás |
 
+| 10 | Védelmi Igazgatási Hivatal | irányítás |
+
 C) Miniszterelnökséget vezető miniszter
 
 |  | A | B |
@@ -148,4 +150,4 @@ K) Technológiai és ipari miniszter
 
 | 3 | Országos Meteorológiai Szolgálat | irányítás |
 
-[^14]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja, a 337/2022. (IX. 7.) Korm. rendelet 9. §-a szerint módosított szöveg.
