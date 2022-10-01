@@ -1,4 +1,4 @@
-## 6. §[^30] Közgyógyellátás jogcímen
+## 6. §[^51] Közgyógyellátás jogcímen
 
 a) a hatóanyag alapú fix támogatású csoportból a preferált referencia ársávba tartozó,
 
@@ -8,4 +8,4 @@ c) a hatóanyag alapú fix támogatású csoportba nem tartozó
 
 gyógyszer rendelhető.
 
-[^30]: A 6. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja hatályon kívül helyezte, újonnan a 16/2022. (IV. 29.) EMMI rendelet 1. §-a iktatta be.
+[^51]: A 6. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja hatályon kívül helyezte, újonnan a 16/2022. (IV. 29.) EMMI rendelet 1. §-a iktatta be.

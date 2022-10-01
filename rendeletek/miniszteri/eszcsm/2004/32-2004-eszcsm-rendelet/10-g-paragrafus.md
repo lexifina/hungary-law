@@ -1,3 +1,3 @@
-10/G. §[^41]
+10/G. §[^62]
 
-[^41]: A 10/G. §-t a 10/2013. (I. 31.) EMMI rendelet 8. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja.
+[^62]: A 10/G. §-t a 10/2013. (I. 31.) EMMI rendelet 8. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja.
