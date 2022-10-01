@@ -1,7 +1,1 @@
-23. § (1) A XI. Miniszterelnökség fejezetet irányító szerv vezetője a XI. Miniszterelnökség fejezet, 30. cím, 3. Nemzetpolitikai tevékenységek és határon túli magyarok támogatása alcím terhére átcsoportosíthat a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség igazgatása cím javára.
-
-(2) A XXI. Miniszterelnöki Kabinetiroda fejezetet irányító szerv vezetője a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. cím, 1. alcím, 1. Kormányfői protokoll jogcímcsoport terhére a XVIII. Külgazdasági és Külügyminisztérium fejezet javára átcsoportosíthat, ha az a kormányfői protokollal kapcsolatos feladatok ellátása érdekében szükséges. Az átcsoportosított előirányzat terhére történő visszarendezésre a XVIII. Külgazdasági és Külügyminisztérium fejezetet irányító szerv vezetője jogosult.
-
-(3) A XXI. Miniszterelnöki Kabinetiroda fejezetet irányító szerv vezetője a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. cím, 1. alcím, 1. Kormányfői protokoll jogcímcsoport, a 20. cím, 1. alcím, 2. Kormányzati kommunikációval és konzultációval kapcsolatos feladatok jogcímcsoport, a 20. cím, 1. alcím, 12. Közösségépítő kezdeményezések támogatása jogcímcsoport terhére átcsoportosíthat a XXI. Miniszterelnöki Kabinetiroda fejezet, 1. Miniszterelnöki Kabinetiroda cím javára.
-
-(4) Az I. Országgyűlés fejezet 26. cím, 1. Szabályozott Tevékenységek Felügyeleti Hatósága alcím kiadási előirányzata biztosítja a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 35. § (4) bekezdésében meghatározott célok teljesítését.
+### 23. §
