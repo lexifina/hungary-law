@@ -1,4 +1,6 @@
-11. § (1) Ha e törvény kivételt nem tesz, a dohánytermék-kiskereskedelem, továbbá az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelme kizárólag dohányboltban folytatható. Dohányboltban kizárólag az e törvény által lehetővé tett termékek értékesítése és szolgáltatások nyújtása folytatható.
+11. § (1) Ha e törvény kivételt nem tesz, a dohánytermék-kiskereskedelem, továbbá az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelme kizárólag dohányboltban folytatható.
+
+(1a) Dohányboltban kizárólag az (1) bekezdés szerinti termékek, valamint a Hatóság elnökének a dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete által lehetővé tett termékek értékesítése és szolgáltatások nyújtása folytatható.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően dohánytermék-kiskereskedelem más üzletben is folytatható,
 

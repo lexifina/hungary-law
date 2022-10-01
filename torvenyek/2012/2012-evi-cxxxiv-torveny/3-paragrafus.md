@@ -14,47 +14,7 @@
 
 7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját vagy más nevében jár el, illetve más természetes vagy jogi személyt, vagy szervezetet képvisel;
 
-8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült olyan önálló üzlethelyiség, amelynek külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve és amelyben kizárólag
-
-a) az alábbi termékek forgalmazhatóak:
-
-aa) az 1. § (1) bekezdésében meghatározott termék,
-
-ab) a cigarettahüvelyen, cigarettapapíron és a dohánylevél töltőn túl más dohányterméket kiegészítő termék,
-
-ac) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény Különös Rendelkezések I. Fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék,
-
-ad) a kereskedelemről szóló törvényben meghatározott szeszes ital,
-
-ae) a népegészségügyi termékadóról szóló törvényben meghatározott energiaital,
-
-af) csomagolt kávé, illetve tea (ideértve az azonnal oldódó kávékivonatot, vagy teát is),
-
-ag) helyben fogyasztható kávéital, tea vagy folyékony csokoládé – ideértve kizárólag a helyben fogyasztásához szükséges kiegészítő termékeket (különösen cukor, tejpor) is –,
-
-ah) ásványvíz és üdítőital, továbbá az ízesített tejkészítményeknek minősülő, hűtés nélkül eltartható tejital,
-
-ai) a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, 1987. július 23-i 2658/87/EGK tanácsi rendelet I. melléklete (a továbbiakban: kombinált nómenklatúra) szerinti 2105 00 vámtarifaszám alá tartozó (fagylalt és más ehető jégkrém) termék,
-
-aj) újság, napilap, folyóirat, periodikus kiadvány,
-
-ak) rágógumi, valamint az ízesített cukorka és mentolos lapocska, továbbá a kombinált nómenklatúra szerinti 1704 90 vámtarifaszám alá tartozó (más cukoráru) termék, de ide nem értve a 1704 90 30 alá tartozó terméket,
-
-al) tömegközlekedési eszközök vonaljegye (gyűjtőjegye),
-
-am) papír zsebkendő,
-
-an) elektronikai eszközök töltéséhez, üzemszerű működéséhez használatos elem, akkumulátor, töltőeszköz,
-
-ao) a dohányboltban forgalmazható termékek fogyasztók általi átvételére, szállítására szolgáló csomagolóeszköz, hordtasak vagy hordtáska,
-
-b) az alábbi szolgáltatások nyújthatóak:
-
-ba) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások egyenlegének feltöltése, valamint az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra vonatkozó szerződés megkötése,
-
-bb) termékek – ide nem értve az 1. § (1) bekezdésben felsorolt, vagy jogszabály által egyébként tiltott termékeket – vagy szolgáltatások dohánybolton belüli reklámozása,
-
-bc) dohányboltban forgalmazható termékekből keletkező hulladékoknak a hulladékról szóló 2012. évi CLXXXV. törvény szerinti gyűjtése;
+8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült olyan önálló üzlethelyiség, amelynek külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve, és amelyben kizárólag az 1. § (1) bekezdésben meghatározott termékek, továbbá a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) elnökének a dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti termékek forgalmazhatóak és szolgáltatások nyújthatóak;
 
 9. üzlet(helyiség): kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 

@@ -12,7 +12,7 @@ d) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési f
 
 e) kijelöli a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyt.
 
-(3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)
+(3) A Hatóság
 
 a) előmozdítja a dohánytermék-kiskereskedelem szervezett működését, szakmai állásfoglalásokat bocsát ki,
 
