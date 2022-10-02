@@ -1,1 +1,0 @@
-10. § E rendelet 1. §-a és 2. §-a az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2021-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2021. november 26-i (EU) 2021/2091 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
