@@ -1,7 +1,3 @@
-2. § A Rendelet
+2. §[^3]
 
-a) 3. § (1) bekezdés a) pontjában a „2021.” szövegrész helyébe a „2022.” szöveg,
-
-b) 1. melléklet I. pontjában foglalt táblázat 78. sorában a „számlát vezető bank” szövegrész helyébe az „a kötelezőtartalék-kötelezettség teljesítéséhez forint pénzforgalmi számlát vezető hitelintézet” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
