@@ -1,3 +1,3 @@
-2. § Az R1. a következő 96. §-sal egészül ki:
+2. §[^3]
 
-„96. § Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet módosításáról szóló 372/2022. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított rendelkezéseket a Módr9. hatálybalépését megelőzően keletkezett támogatási jogviszonyokra is alkalmazni kell, ha a Módr9. hatálybalépéséig a kormányhivatal vagy az állami adóhatóság végleges, illetve a bíróság jogerős határozatával a visszafizetésre kötelezés nem történt meg.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
