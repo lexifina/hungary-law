@@ -1,3 +1,3 @@
-2. § A Tartalékrendelet 6. és 7. §-a helyébe a következő rendelkezések lépnek:
+2. §[^3]
 
-„6. § (1) A kötelező tartalék összege után az MNB a következő képlet alapján fizet kamatot a tartalékköteles hitelintézetnek:
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
