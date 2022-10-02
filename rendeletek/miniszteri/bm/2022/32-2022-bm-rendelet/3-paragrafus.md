@@ -1,1 +1,3 @@
-3. § Az R1. 1. § (20) bekezdésében az „A műszívkezelés” szövegrész helyébe az „A 941V HBCs szerinti műszívkezelés” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

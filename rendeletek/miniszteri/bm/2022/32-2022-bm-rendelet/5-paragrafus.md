@@ -1,5 +1,5 @@
 ## 3. A gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosítása
 
-5. § A gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet (a továbbiakban: R3.) 18. § (5) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(5) Az R. 8. melléklete szerinti 53350, 53750, 54100, 54101, 54102, 54103, 55040, 55285, 55551 és 55553 eljárást tartalmazó ellátások (a továbbiakban együtt: transzplantációs ellátások), valamint a 4. melléklete szerinti 53756 és az R. 8. melléklete szerinti 53753, 53757, 53758 eljárást tartalmazó ellátások (a továbbiakban együtt: keringéstámogató ellátások) esetén több finanszírozási eset számolható el. Ebben az esetben a transzplantációs vagy keringéstámogató ellátás, valamint az azt megelőző, illetve követő ellátás önálló finanszírozási tételként számolható el az elszámolási szabályok figyelembevételével. Az adatlapok kitöltésére az általános fekvőbeteg jelentési szabályok érvényesek, azzal, hogy a transzplantációs vagy keringéstámogató ellátás előtti ellátás lezárása az adatlapon „További sorsa = „N” jelzéssel” rögzíthető. A keringéstámogató ellátást tartalmazó osztályos esetet az adatlapon „További sorsa = „M” jelzéssel” kell lezárni.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

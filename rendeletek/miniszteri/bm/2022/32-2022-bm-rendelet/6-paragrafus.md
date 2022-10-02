@@ -1,3 +1,3 @@
-6. § Az R3. 19. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-[A Kr. 40. § (3) bekezdése alapján az egy kórházi ellátás során több aktív osztályon történt kezelést – az áthelyezés indokától függetlenül – egy finanszírozási esetként kell elszámolni. Ez alól kivételt jelent, ha]
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
