@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-19-00-00
 | 2022-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-19-00-00.5 |
 | 2022-09-02 | 2010. évi CXXX. törvény | 2022-19-00-00.6 |
 | 2022-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-19-00-00.7 |
+| 2022-10-02 | 2010. évi CXXX. törvény | 2022-19-00-00.8 |
