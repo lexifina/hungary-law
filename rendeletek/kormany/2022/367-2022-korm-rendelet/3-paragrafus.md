@@ -1,1 +1,3 @@
-3. § A hatósági üzemanyagárral kapcsolatos egyes intézkedésekről szóló 57/2022. (II. 28.) Korm. rendelet 6. § (1) bekezdésében a „2022. október 1.” szövegrész helyébe a „2022. december 31.” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
