@@ -1,1 +1,3 @@
-8. § A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet 3. § (1) bekezdés f) pont fb) alpontjában a „Kommunikációs Hivatal,” szövegrész helyébe a „Kommunikációs Hivatal, a Védelmi Igazgatási Hivatal,” szöveg lép.
+8. §[^3]
+
+[^3]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
