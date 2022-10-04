@@ -1,0 +1,3 @@
+## 1. Általános rendelkezések
+
+1. § E rendelet hatálya a központi költségvetés XI. Miniszterelnökség fejezetébe és a XLVII. Gazdaság-újraindítási Alap fejezetébe sorolt azon fejezeti kezelésű előirányzatra (a továbbiakban együtt: előirányzat) terjed ki, amely esetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) I. pont 39. alpont 8. pontja szerint a fejezetet irányító szerv vezetője a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 178. § (1) bekezdése szerinti tagja (a továbbiakban: miniszter).
