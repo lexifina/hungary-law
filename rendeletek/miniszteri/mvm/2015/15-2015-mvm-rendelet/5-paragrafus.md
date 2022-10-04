@@ -1,17 +1,17 @@
-5. § (1) Az Ybl Miklós-díj adományozására vonatkozó javaslatokat szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
+5. §[^3] (1) Az Aktív Magyarországért díj adományozására vonatkozó javaslatokat szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
 
 (2) A bíráló bizottság tagjai:
 
-a) az építészeti és építésügyi helyettes államtitkár, mint a bizottság elnöke,
+a) az aktív Magyarországért felelős államtitkár mint a bíráló bizottság elnöke,
 
-b) a Magyar Építőművészek Szövetségének elnöke, mint a bizottság társelnöke,
+b) az Aktív- és Ökoturisztikai Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság ügyvezetője, valamint
 
-c) a Magyar Művészeti Akadémia Építőművészeti Tagozata, a Magyar Építőművészek Szövetsége és a Magyar Építész Kamara delegáltjai, valamint
+c) az aktív Magyarországért felelős államtitkár által felkért személyek.
 
-d) az elnök által felkért Ybl-díjas személyek.
+(3) Az Aktív Magyarországért díj adományozására vonatkozó javaslattétel lehetőségét és határidejét tartalmazó felhívást minden évben legalább az aktív kikapcsolódás területén érintett szakmai szervezetek és intézmények körében közzé kell tenni a díj átadásának napját 60 nappal megelőzően.
 
-(3) Az Ybl Miklós-díj adományozására vonatkozó javaslattétel lehetőségét és határidejét tartalmazó felhívást minden évben legalább a szakmai szervezetek és intézmények körében közzé kell tenni a díj átadásának napját 90 nappal megelőzően.
+(4) A bíráló bizottság az Aktív Magyarországért díj adományozására vonatkozó javaslatát a díj átadásának napját legalább 30 nappal megelőzően az aktív Magyarországért felelős államtitkár útján terjeszti fel a miniszternek.
 
-(4) A bíráló bizottság az építészeti és építésügyi helyettes államtitkár útján az elismerés adományozását az Ybl Miklós-díj átadásának napját legalább 60 nappal megelőzően – a jelölt életútjának, illetve tevékenységének rövid ismertetését tartalmazó indokolással és ajánló levéllel – kezdeményezheti a miniszternél.
+(5) A bíráló bizottság tagjai e tevékenységükért díjazásban nem részesülnek. A bíráló bizottság melletti titkársági feladatok ellátásáról az aktív Magyarországért felelős államtitkár gondoskodik.
 
-(5) A bíráló bizottság tagjai e tevékenységükért díjazásban nem részesülnek. A bíráló bizottság melletti titkársági feladatok ellátásáról az építészeti és építésügyi helyettes államtitkár gondoskodik.
+[^3]: Az 5. § a 14/2022. (X. 3.) MVM rendelet 2. §-ával megállapított szöveg.

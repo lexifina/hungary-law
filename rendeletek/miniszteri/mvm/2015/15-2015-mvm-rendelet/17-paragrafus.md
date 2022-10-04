@@ -1,15 +1,3 @@
-17. § (1)[^16] Régészeti örökségért – Schönvisner István-díj (e § alkalmazásában a továbbiakban: díj) a régészeti örökség védelme érdekében kimagasló, a feltáró és tudományos munkásságon túlmutató, széleskörű régészeti szakmai tevékenység elismeréseként adományozható.
+17. §[^14]
 
-(2) A díj évente legfeljebb 2 fő részére adományozható.
-
-(3)[^17] A díj átadására március 15-i nemzeti ünnep alkalmából kerül sor.
-
-(4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap.
-
-(5) Az érem kerek alakú, bronzból készült, átmérője 70 mm, vastagsága 5 mm. Az első oldal közepén fürdőjelenet ábrázolása Schönvisner István könyvéből, „SCHÖNVISNER ISTVÁN-DÍJ” felirattal. A hátoldal közepén babérkoszorú, a köriratban az „A MAGYAR RÉGÉSZETI ÖRÖKSÉGÉRT” felirattal. Az érem Miletics Katalin Janka szobrászművész alkotása.
-
-(6)[^18] A díjhoz 1 000 000 Ft összegű pénzjutalom jár.
-
-[^16]: A 17. § (1) bekezdése a 32/2016. (XII. 14.) MvM rendelet 12. § b) pontja szerint módosított szöveg.
-[^17]: A 17. § (3) bekezdése a 32/2016. (XII. 14.) MvM rendelet 12. § c) pontja szerint módosított szöveg.
-[^18]: A 17. § (6) bekezdése a 1/2020. (I. 6.) MvM rendelet 7. § f) pontja szerint módosított szöveg.
+[^14]: A 17. §-t a 14/2022. (X. 3.) MVM rendelet 6. § c) pontja hatályon kívül helyezte.

@@ -1,13 +1,15 @@
-13. § (1) Ybl Miklós-díj (e § alkalmazásában a továbbiakban: díj) a legalább tizenöt év kimagasló egyéni – önállóan tervezett építészeti alkotásokra vonatkozó – építészeti alkotói, oktatói tevékenység elismeréséül, életműdíjként adományozható.
+13. §[^10] (1) Aktív Magyarországért díj (e § alkalmazásában a továbbiakban: díj) az aktív életmód és kikapcsolódás elősegítése érdekében végzett kiemelkedő tevékenység elismeréseként adományozható.
 
-(2)[^9] A díj évente legfeljebb 5 fő részére adományozható, az elismerést ugyanaz a személy csak egyszer kaphatja meg.
+(2) A díj természetes és jogi személyek részére adományozható.
 
-(3) A díj átadására a március 15-i nemzeti ünnep alkalmából kerül sor.
+(3) A díjból évente legfeljebb öt adományozható.
 
-(4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap.
+(4) A díj átadására az aktív életmódhoz és kikapcsolódáshoz kapcsolódó, kiemelkedő szakmai eseményen kerül sor.
 
-(5) Az emlékérem bronzból készül, kör alakú, 60 mm átmérőjű. Egyik oldalán Ybl Miklós dombormű arcképe található, a szélén Ybl-díj felirattal. A másik oldalán vésett felirattal az adományozott neve és az adományozás évszáma található. Az érem Borsos Miklós szobrász-, éremművész alkotása.
+(5) A díjat ugyanaz a természetes vagy jogi személy 5 éven belül egyszer kaphatja meg. A díj ismételt adományozására olyan teljesítmény alapján lehet javaslatot tenni, amelyet a javasolt természetes vagy jogi személy a díj korábbi adományozását követően ért el.
 
-(6) A díjhoz 1 500 000 Ft összegű pénzjutalom jár.
+(6) A díjazott kisplasztikát és az adományozást igazoló oklevelet kap.
 
-[^9]: A 13. § (2) bekezdése a 26/2016. (VIII. 30.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+(7) A díjhoz 1 000 000 forint összegű pénzjutalom jár.
+
+[^10]: A 13. § a 14/2022. (X. 3.) MVM rendelet 3. §-ával megállapított szöveg.
