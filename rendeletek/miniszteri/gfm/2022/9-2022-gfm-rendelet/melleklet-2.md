@@ -1,3 +1,13 @@
-2. melléklet a 9/2022. (IX. 30.) GFM rendelethez[^4]
+2. melléklet a 9/2022. (IX. 30.) GFM rendelethez
 
-[^4]: A 2. melléklet a 2. § (2) bekezdés alapján 2022. október 4-én lép hatályba.
+A Rendelet 3. melléklete a következő V. ponttal egészül ki:
+
+„V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | HSC Aerojet Zártkörűen Működő Részvénytársaság | 01-10-141410 | 2026. december 31. |
+
+”
