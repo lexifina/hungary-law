@@ -128,7 +128,7 @@ dr. Vejkey Imre (KDNP)
 
 Sebián-Petrovszki László (DK)
 
-Ander Balázs (Jobbik)[^12]
+Jakab Péter (független)[^12]
 
 Szabó Szabolcs (Momentum)
 
@@ -674,7 +674,7 @@ Varga Szimeon (nemzetiségi szószóló)[^55]
 [^9]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^10]: A 38/2022. (IX. 27.) OGY határozat 1. pontja iktatta be.
 [^11]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^12]: A 38/2022. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^12]: A 47/2022. (X. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^13]: A 38/2022. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^14]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^15]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
