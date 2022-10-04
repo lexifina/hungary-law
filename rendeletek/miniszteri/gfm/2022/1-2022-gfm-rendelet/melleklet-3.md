@@ -58,4 +58,12 @@ III. Tulajdonosi joggyakorló: HIPA Nemzeti Befektetési Ügynökség Nonprofit 
 
 IV. Tulajdonosi joggyakorló: Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | N.S. Média és Vagyonkezelő Korlátolt Felelősségű Társaság | 01-09-404379 | 2026. december 31. |
+
+V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
+
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése szerint módosított szöveg.
