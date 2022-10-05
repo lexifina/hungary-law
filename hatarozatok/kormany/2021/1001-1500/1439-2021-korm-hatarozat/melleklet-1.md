@@ -2,7 +2,7 @@
 
 ## a) egyetért a fővárosi kerületi önkormányzatok, valamint Budapest Főváros Önkormányzata (a továbbiakban: Fővárosi Önkormányzat) egészségügyi alapellátási és járóbeteg-szakellátási fejlesztéseinek támogatása keretében 10 270 006 772 forint központi költségvetési támogatás biztosításával a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok alcím, 1. Egészséges Budapest Program jogcímcsoporton rendelkezésre álló forrás terhére, az 1. melléklet szerint;
 
-## b) felhívja az emberi erőforrások miniszterét, hogy az a) alpontban meghatározott összeg terhére létesítsen támogatási jogviszonyt az 1. mellékletben meghatározott egészségügyi alapellátási és járóbeteg-szakellátási fejlesztési célok megvalósítására, 2022. december 31-éig történő felhasználás lehetősége mellett
+## b)[^1] felhívja az emberi erőforrások miniszterét, hogy az a) alpontban meghatározott összeg terhére létesítsen támogatási jogviszonyt az 1. mellékletben meghatározott egészségügyi alapellátási és járóbeteg-szakellátási fejlesztési célok megvalósítására, 2024. december 31-éig történő felhasználás lehetősége mellett
 
 ## ba) a Fővárosi Önkormányzattal 750 000 000 forint összegben,
 
@@ -12,11 +12,11 @@
 
 ## Határidő: a forrásbiztosítást követő 30 napon belül
 
-## c) felhívja az emberi erőforrások miniszterét, hogy készítsen jelentést a Kormány részére a b) alpontban meghatározott feladatok végrehajtásáról;
+## c)[^2] felhívja a belügyminisztert, hogy készítsen jelentést a Kormány részére a b) alpontban meghatározott feladatok végrehajtásáról;
 
-## Felelős: emberi erőforrások minisztere
+## Felelős: belügyminiszter
 
-## Határidő: 2023. március 31.
+## Határidő: 2025. március 31.
 
 ## 2. a fővárosi és Pest megyei járóbeteg-szakellátás fejlesztési koncepciójáról és az Egészséges Budapest Program keretében megvalósuló járóbetegszakellátás-fejlesztésekhez szükséges feladatokról szóló 1673/2017. (IX. 23.) Korm. határozat 1. melléklet 2. sorában meghatározott, az Egészséges Budapest Program részét képező, a II. kerület Egészségügyi Szolgálat – integrált járóbeteg-szakellátás megvalósítása megnevezésű fejlesztés (a továbbiakban: Fejlesztés) meghiúsulására tekintettel felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Fejlesztés vonatkozásában már folyósított forrás elszámoltatásáról a támogató részére;
 
@@ -32,7 +32,7 @@
 
 ## 4. úgy határoz, hogy a fővárosi egészségügyi alapellátás és járóbeteg-szakellátás fejlesztésének az Egészséges Budapest Program keretében történő megvalósításával kapcsolatos egyes feladatokról szóló 1041/2020. (II. 17.) Korm. határozat [a továbbiakban: 1041/2020. (II. 17.) Korm. határozat] 1. mellékletében foglalt táblázat 4. sorában meghatározott fejlesztés tekintetében az 1041/2020. (II. 17.) Korm. határozat 2. pontjában rögzített felhasználási határidőtől eltérően a felhasználási határidő 2022. június 30.
 
-1. melléklet az 1439/2021. (VII. 6.) Korm. határozathoz[^1]
+1. melléklet az 1439/2021. (VII. 6.) Korm. határozathoz[^3]
 
 A 2021. évben a fővárosi és egyes fővárosi kerületi egészségügyi alapellátás és járóbeteg-szakellátás fejlesztésére biztosított központi költségvetési támogatás részletezése
 
@@ -82,4 +82,6 @@ A 2021. évben a fővárosi és egyes fővárosi kerületi egészségügyi alape
 
 | 22. | ÖSSZESEN | 10 264 874 335 |
 
-[^1]: Az 1. melléklet az 1953/2021. (XII. 22.) Korm. rendelet 15. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) pont nyitó szövegrésze az 1471/2022. (X. 5.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
+[^2]: Az 1. pont c) pontja az 1471/2022. (X. 5.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1953/2021. (XII. 22.) Korm. rendelet 15. pontja szerint módosított szöveg.
