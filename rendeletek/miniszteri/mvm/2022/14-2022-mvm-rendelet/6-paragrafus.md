@@ -1,9 +1,3 @@
-6. § Hatályát veszti az R.
+6. §[^7]
 
-a) 5/A–6/A. §-a,
-
-b) 13/A. §-a,
-
-c) 15–17/A. §-a,
-
-d) 20–21. §-a.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
