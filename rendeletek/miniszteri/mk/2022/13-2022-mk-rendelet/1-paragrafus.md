@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Aktív Magyarországért díj adományozásának rendjéről szóló 7/2021. (X. 19.) MK rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
