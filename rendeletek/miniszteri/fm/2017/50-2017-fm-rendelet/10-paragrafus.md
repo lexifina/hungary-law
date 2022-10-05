@@ -6,7 +6,7 @@ a) az operatív program elfogadására vonatkozó kérelem benyújtásával egyi
 
 b) az operatív program elfogadására irányuló kérelem hiányában legkésőbb november 15. napjáig
 
-## a működési alapra vonatkozó becslésről szóló, a minisztérium honlapján közzétett táblázat kitöltésével kell megküldeni a miniszter részére.
+a működési alapra vonatkozó becslésről szóló, a minisztérium honlapján közzétett táblázat kitöltésével kell megküldeni a miniszter részére.
 
 (3)[^27] A bejelentésnek tartalmaznia kell
 

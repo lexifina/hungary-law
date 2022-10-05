@@ -20,7 +20,7 @@ a) az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szab�
 
 b) a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: 2011. évi CLXVIII. törvény) 14. §-a szerint elismert mezőgazdasági káresemény
 
-## miatt bekövetkezett árbevétel-kiesést be kell számítani a forgalmazott termék értékébe azzal, hogy a b) pont szerinti esetben az árbevétel-kiesés mértékét a 2011. évi CLXVIII. törvény 14. § (6) bekezdésében meghatározott módon kell megállapítani.
+miatt bekövetkezett árbevétel-kiesést be kell számítani a forgalmazott termék értékébe azzal, hogy a b) pont szerinti esetben az árbevétel-kiesés mértékét a 2011. évi CLXVIII. törvény 14. § (6) bekezdésében meghatározott módon kell megállapítani.
 
 (6) Az elismerési kérelem jóváhagyásának feltétele, hogy a kérelmező
 

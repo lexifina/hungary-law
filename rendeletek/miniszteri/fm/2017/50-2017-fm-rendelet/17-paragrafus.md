@@ -1,6 +1,6 @@
 ## 8. Válságmegelőzés és -kezelés
 
-## 17. §[^71] A termelői szervezetek és azok társulásai operatív programjaik keretében az 1308/2013/EU európai parlamenti és tanácsi rendelet 33. cikk (3) bekezdésében felsorolt válságmegelőzési és -kezelési eszközök közül
+## 17. §[^73] A termelői szervezetek és azok társulásai operatív programjaik keretében az 1308/2013/EU európai parlamenti és tanácsi rendelet 33. cikk (3) bekezdésében felsorolt válságmegelőzési és -kezelési eszközök közül
 
 a) a promóció és kommunikáció, beleértve a gyümölcs- és zöldségpiacok diverzifikálását és megszilárdítását célzó intézkedéseket és tevékenységeket is,
 
@@ -14,4 +14,6 @@ e) a betakarítási biztosítás és
 
 f) az egyéb termelői szervezetek, termelői szervezetek társulásai, termelői csoportok vagy egyéni termelők számára nyújtott személyre szabott tanácsadás
 
-[^71]: A 17. § a 6/2018. (VI. 22.) AM rendelet 12. §-ával megállapított szöveg.
+intézkedést alkalmazhatják.
+
+[^73]: A 17. § a 6/2018. (VI. 22.) AM rendelet 12. §-ával megállapított szöveg.

@@ -44,7 +44,7 @@ d) az értékesítésre [számla sorszáma, számla kibocsátásának kelte, sz�
 
 e) a termelői szervezetek társulására [belépés dátuma, szervezet státusza (termelői szervezet, termelői csoport, leányvállalat, termelő), székhely, szavazati arány (leadható szavazatok %-ában), tag termőterületének nagysága (hektár), tag termőterületének termésmennyisége (tonna), tag által forgalomba hozott termék értéke (ezer Ft)]
 
-## vonatkozó adatok.
+vonatkozó adatok.
 
 (4)[^14] A termelői szervezet a (3) bekezdés c) pontjában meghatározott adatlapot elektronikus formában, a minisztérium honlapján közzétett nyomtatvány kitöltésével küldi meg a miniszter részére. Az adatlapot úgy kell kitölteni, hogy a termelés tekintetében a termelői szervezetre vagy annak tagjaira vonatkozó, a benyújtást megelőző tizenkét hónapos időszak adatait tükrözze, amely időszak leghamarabb a benyújtás évét megelőző év január 1-jén kezdődhet.
 
