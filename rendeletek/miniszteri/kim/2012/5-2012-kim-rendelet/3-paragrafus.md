@@ -42,7 +42,7 @@ i) a támogatási cél megvalósításához szükséges jogerős hatósági enge
 
 (4)[^23] Együttesen benyújtott támogatási igény esetén a főpályázó civil szervezet határon túli társpályázóval közösen benyújtott támogatási igényt, és önálló támogatási igényt is jogosult benyújtani. A határon túli pályázó szervezet a Civil tv. 59. § (4) bekezdés b) pontja alapján önálló támogatási igény benyújtására jogosult, ha
 
-a) társpályázóként egy alkalommal már támogatásban részesült,
+a)[^24] társpályázóként egy alkalommal már támogatási igényt nyújtott be,
 
 b) támogatási igényét az elektronikus pályázatkezelő rendszeren keresztül nyújtja be, és
 
@@ -57,3 +57,4 @@ c) a támogatási igény benyújtásának évében együttesen benyújtott támo
 [^21]: A 3. § (1a) bekezdését a 23/2017. (X. 3.) EMMI rendelet 2. § (3) bekezdése iktatta be.
 [^22]: A 3. § (2) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^23]: A 3. § (4) bekezdését a 35/2016. (XI. 30.) EMMI rendelet 2. §-a iktatta be, szövege a 23/2017. (X. 3.) EMMI rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^24]: A 3. § (4) bekezdés a) pontja a 15/2022. (X. 3.) MVM rendelet 2. § a) pontja szerint módosított szöveg.

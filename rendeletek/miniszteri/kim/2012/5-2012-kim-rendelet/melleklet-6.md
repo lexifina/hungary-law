@@ -32,6 +32,6 @@
 
 ## Aláírás: Aláírás:
 
-6. melléklet az 5/2012. (II. 16.) KIM rendelethez[^165]
+6. melléklet az 5/2012. (II. 16.) KIM rendelethez[^167]
 
-[^165]: A 6. mellékletet a 74/2013. (XII. 2.) EMMI rendelet 10. §-a hatályon kívül helyezte.
+[^167]: A 6. mellékletet a 74/2013. (XII. 2.) EMMI rendelet 10. §-a hatályon kívül helyezte.

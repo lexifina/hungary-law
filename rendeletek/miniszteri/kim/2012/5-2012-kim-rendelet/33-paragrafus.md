@@ -4,16 +4,16 @@
 
 a) a tanácsülések és az elfogadott döntések, elektronikus szavazások száma, a testület működésének tapasztalatai, a tagok testületi üléseken, döntéshozatalban való részvételi aránya;
 
-b)[^147] az Alap testületeinek tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó tevékenysége, működésének tapasztalatai;
+b)[^148] az Alap testületeinek tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó tevékenysége, működésének tapasztalatai;
 
-c)[^148] az Alapkezelő tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó tevékenysége, működésének tapasztalatai;
+c)[^149] az Alapkezelő tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó tevékenysége, működésének tapasztalatai;
 
-d)[^149] együttműködés az Alapkezelővel, a kollégiumokkal, az Alap működése felett Civil tv. 55. §-a szerinti rendelkezési jogot gyakorló miniszterrel;
+d)[^150] együttműködés az Alapkezelővel, a kollégiumokkal, az Alap működése felett Civil tv. 55. §-a szerinti rendelkezési jogot gyakorló miniszterrel;
 
 e) a támogatási elvek, a forrásmegosztás, továbbá egy civil szervezetnek egy költségvetési évben adható maximális támogatás kidolgozása során kialakított döntések, ezek hatása, változás az előző évhez képest, valamint a döntések a civil társadalom részéről történő visszaigazolása;
 
 f) az Alap működésének és hatékonyságának javítására vonatkozó javaslatok;
 
-[^147]: A 33. § b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § m) pontja szerint módosított szöveg.
-[^148]: A 33. § c) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § m) pontja szerint módosított szöveg.
-[^149]: A 33. § d) pontja az 56/2012. (XII. 29.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^148]: A 33. § b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § m) pontja szerint módosított szöveg.
+[^149]: A 33. § c) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § m) pontja szerint módosított szöveg.
+[^150]: A 33. § d) pontja az 56/2012. (XII. 29.) EMMI rendelet 18. §-ával megállapított szöveg.
