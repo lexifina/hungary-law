@@ -200,6 +200,8 @@ IX. Tulajdonosi joggyakorló: a Kulturális és Innovációs Minisztérium
 
 | 19. | ÓNTE Ópusztaszeri Nemzeti Történeti Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014162 | 2026. december 31. |
 
+| 20. | Hollóházi Hungarikum Nonprofit Korlátolt Felelősségű Társaság | 05-09-018918 | 2026. december 31. |
+
 X. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
 |  | A | B | C |
@@ -290,6 +292,12 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 | 23. | MAHART – PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2026. december 31. |
 
+| 24. | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2026. december 31. |
+
+| 25. | MAHART-Szabadkikötő Zártkörűen Működő Részvénytársaság | 01-10-045276 | 2026. december 31. |
+
+| 26. | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-09-116986 | 2026. december 31. |
+
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a szerint módosított szöveg.
