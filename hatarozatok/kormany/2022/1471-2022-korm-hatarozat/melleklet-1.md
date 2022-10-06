@@ -90,52 +90,14 @@
 
 ## n) egyetért azzal, hogy a címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alap előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1099/2022. (III. 2.) Korm. határozat 3. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása cím javára a K6 Beruházások kiemelt előirányzatra átcsoportosított 10 994 502 750 forintból 233 200 000 forint a K3 Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 2. A fővárosi egészségügyi alapellátás és járóbeteg-szakellátás fejlesztésének az Egészséges Budapest Program keretében történő megvalósításával kapcsolatos egyes feladatokról szóló 1041/2020. (II. 17.) Korm. határozat
+## 2.[^1]
 
-## a) 2. pontjában a „2021. december 31-éig” szövegrész helyébe a „2024. december 31-éig” szöveg,
+## 3.[^2]
 
-## b) 7. pontjában az „az emberi erőforrások miniszterét” szövegrész helyébe az „a belügyminisztert” szöveg, az „emberi erőforrások minisztere” szövegrész helyébe a „belügyminiszter” szöveg, a „2022. március 31.” szövegrész helyébe a „2025. március 31.” szöveg
-
-## lép.
-
-## 3. A fővárosi alapellátás és járóbeteg-szakellátás fejlesztésének az Egészséges Budapest Program keretében történő megvalósításával kapcsolatos 2021. évi feladatokról szóló 1439/2021. (VII. 6.) Korm. határozat
-
-## a) 1. pont b) alpontjában a „2022. december 31-éig” szövegrész helyébe a „2024. december 31-éig” szöveg,
-
-## b) 1. pont c) alpontjában az „az emberi erőforrások miniszterét” szövegrész helyébe az „a belügyminisztert” szöveg, az „emberi erőforrások minisztere” szövegrész helyébe a „belügyminiszter” szöveg, a „2023. március 31.” szövegrész helyébe a „2025. március 31.” szöveg
-
-## lép.
-
-## 4. A címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kormányhatározat módosításáról, valamint kötelezettségvállalás engedélyezéséről szóló 1886/2021. (XII. 8.) Korm. határozat
-
-## a) 1. pont 1.13. alpont b) pontja helyébe a következő rendelkezés lép:
-
-## [A Kormány
-
-## az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva, az 1.12. alpontban foglaltak végrehajtása érdekében jóváhagyja]
-
-## „b) az 1.12. alpont b) pontjában meghatározott beszerzési eljárás vonatkozásában a 2022–2024. évek között teljesítendő feladat ellátása érdekében legfeljebb összesen bruttó 8 638 555 709 forint,”
-
-## [összegű kötelezettségvállalás megtételét az a)–d) és f) pontok tekintetében a Magyarország adott évi központi költségvetéséről szóló törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 1. Honvédelmi Minisztérium cím, 2. Egyéb HM szervezetek alcím, az e) pont tekintetében a Magyarország adott évi központi költségvetéséről szóló törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím terhére;]
-
-## b) 1. pont 1.14. alpont b) pont bb) alpontja helyébe a következő rendelkezés lép:
-
-## [A Kormány
-
-## az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva, az 1.12. alpont szerinti feladat vonatkozásában vállalható kötelezettségek felső korlátját a 2022–2025. évek tekintetében a XIII. Honvédelmi Minisztérium fejezet vonatkozásában az alábbiak szerint állapítja meg:
-
-## a 2023. évben]
-
-## „bb) az 1.12. alpont b) pontja szerinti beszerzés vonatkozásában legfeljebb 5 190 553 801 forint,”
-
-## c) 1. pont 1.14. alpont c) pontja a következő cd) alponttal egészül ki:
-
-## [A Kormány
-
-## az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva, az 1.12. alpont szerinti feladat vonatkozásában vállalható kötelezettségek felső korlátját a 2022–2025. évek tekintetében a XIII. Honvédelmi Minisztérium fejezet vonatkozásában az alábbiak szerint állapítja meg:
-
-## a 2024. évben]
-
-## „cd) az 1.12. alpont b) pontja szerinti beszerzés vonatkozásában legfeljebb 2 095 844 298 forint,”
+## 4.[^3]
 
 1. melléklet az 1471/2022. (X. 5.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
