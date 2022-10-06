@@ -1,6 +1,6 @@
 ## 19. Gazdasági Kabinet
 
-188. §[^10] (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+188. §[^11] (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az adópolitikáért,
 
@@ -116,4 +116,4 @@ való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező sze
 
 (2) A Gazdasági Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amelyet a Növekedési és Versenyképességi Kabinet megtárgyalt, és napirendre felvételét a Gazdasági Kabinet elnöke kéri.
 
-[^10]: A 188. § a 261/2022. (VII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 188. § a 261/2022. (VII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
