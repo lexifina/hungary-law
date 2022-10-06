@@ -1,3 +1,3 @@
-4. § Az 50/2017. (X. 10.) FM rendelet 34. §-a a következő g)–i) ponttal egészül ki:
+4. §[^5]
 
-(Ez a rendelet)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
