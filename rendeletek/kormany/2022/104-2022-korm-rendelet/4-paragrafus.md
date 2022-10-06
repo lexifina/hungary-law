@@ -2,6 +2,8 @@
 
 4. § (1) A helyi önkormányzat az ideiglenes védelemre jogosult vagy a menedékes szállása és ellátása után naponta elszállásoltanként és ellátottanként 4000 forint fajlagos támogatásra jogosult.
 
+(1a)[^4] 2022. november 1. napját követően az (1) bekezdésben meghatározott fajlagos támogatás összege naponta elszállásoltanként és ellátottanként 7000 forint.
+
 (2) Az (1) bekezdés szerinti fajlagos támogatás iránti igényt a helyi önkormányzat jegyzője, a megyei főjegyző – a Főpolgármesteri Hivatal esetében a főjegyző – (a továbbiakban együtt: jegyző) minden hónap harmadik munkanapjáig készíti el és igazolja, amelyben bemutatja, hogy az előző hónapban naponta hány fő ideiglenes védelemre jogosultnak vagy menedékesnek biztosított elhelyezést.
 
 (3) A jegyző a (2) bekezdés szerinti általa igazolt igényt a helyi védelmi bizottság részére küldi meg.
@@ -25,3 +27,5 @@ c) az igényben foglaltak megalapozatlanságát állapítja meg.
 (9) A helyi önkormányzatot a (8) bekezdés szerint megillető támogatást a helyi önkormányzatokért felelős miniszter utalványozása alapján a Magyar Államkincstár (a továbbiakban: kincstár) a (8) bekezdés szerinti értesítéstől számított tíz napon belül folyósítja.
 
 (10) A helyi önkormányzat a támogatás felhasználásáról 2022. december 31-i fordulónappal az éves költségvetési beszámolójában számol el.
+
+[^4]: A 4. § (1a) bekezdését a 379/2022. (X. 5.) Korm. rendelet 5. §-a iktatta be.
