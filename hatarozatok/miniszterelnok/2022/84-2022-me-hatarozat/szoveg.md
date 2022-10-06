@@ -22,10 +22,9 @@ elnökévé kinevezem.
 
 2. A Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet 17. § (3) bekezdése alapján dr. Ágostházy Szabolcs Imrét, a Miniszterelnökség államtitkárát az RRF monitoring bizottsága elnökévé – 2022. október 15-i hatállyal – kinevezem.
 
-3. A 2014–2020 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek kinevezéséről szóló 21/2015. (III. 12.) ME határozat [a továbbiakban: 21/2015. (III. 12.) ME határozat] 1. pontjában az „az Emberi Erőforrások Minisztériuma” szövegrész helyébe az „a Belügyminisztérium” szöveg lép.
+3.[^1]
 
-4. Visszavonom
+4.[^2]
 
-a) a 21/2015. (III. 12.) ME határozat 4. és 5. pontját,
-
-b) a 2014–2020 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek felmentéséről és a monitoring bizottságok elnökének kinevezéséről szóló 90/2018. (VII. 2.) ME határozatot.
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
