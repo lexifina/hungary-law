@@ -1,5 +1,3 @@
-## Nemzeti Stratégia Referencia Keret
-
 |  | A | B |
 
 | 1. | Operatív Program Irányító Hatósága | Irányító hatóság működtetéséért felelős szerv |
@@ -19,3 +17,5 @@
 | 8. | Végrehajtás Operatív Program Irányító Hatósága | Miniszterelnökség |
 
 2. melléklet a 475/2013. (XII. 17.) Korm. rendelethez
+
+A 2004–2006. programozási időszak

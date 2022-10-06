@@ -1,4 +1,4 @@
-2. § (1) Az 1. és 2. melléklet szerinti minisztérium, illetve a Miniszterelnökség jogutódja az NFÜ-nek
+2. § (1)[^1] Az 1. és 2. melléklet szerinti minisztérium, a Miniszterelnökség, illetve a 13/C. § szerinti esetben a Pénzügyminisztérium jogutódja az NFÜ-nek
 
 a) az 1. és 2. melléklet szerinti irányító hatóságok által az e rendelet hatálybalépését megelőzően létesített támogatási jogviszonyok,
 
@@ -6,23 +6,23 @@ b) az a) pont szerinti támogatási jogviszonyokhoz kapcsolódó, az irányító
 
 tekintetében.
 
-(2) Az 1. és 2. melléklet szerinti minisztérium, illetve a Miniszterelnökség az NFÜ jogutódjaként jogosult az (1) bekezdés szerinti szerződések vonatkozásában
+(2)[^2] Az 1. és 2. melléklet szerinti minisztérium, a Miniszterelnökség, illetve a 13/C. § szerinti esetben a Pénzügyminisztérium az NFÜ jogutódjaként jogosult az (1) bekezdés szerinti szerződések vonatkozásában
 
 a) eljárni a jogtalanul igénybe vett vagy visszafizetésre meghatározott összegek beszedése érdekében,
 
 b) perbe lépni a folyamatban lévő peres eljárásokban.
 
-(3)[^1] A Gazdaságfejlesztési Operatív Programok Irányító Hatósága és a Regionális Fejlesztési Programok Irányító Hatósága (a továbbiakban: Irányító Hatóságok) által létrehozott, az (1) bekezdés a) pontja szerinti támogatási jogviszonyok keretében finanszírozott, felszámolás alá került pénzügyi közvetítőnek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 4. § (4a) bekezdése szerint nevesített eszközei tekintetében a Cstv. 38. § (8) bekezdése alapján
+(3)[^3] A Gazdaságfejlesztési Operatív Programok Irányító Hatósága és a Regionális Fejlesztési Programok Irányító Hatósága (a továbbiakban: Irányító Hatóságok) által létrehozott, az (1) bekezdés a) pontja szerinti támogatási jogviszonyok keretében finanszírozott, felszámolás alá került pénzügyi közvetítőnek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 4. § (4a) bekezdése szerint nevesített eszközei tekintetében a Cstv. 38. § (8) bekezdése alapján
 
 a) átvételre jogosultnak az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság minősül, aki e feladatát megbízás keretében látja el (a továbbiakban: Megbízott Szerv),
 
 b) a Cstv. 4. § (4a) bekezdésének b) pontja szerinti, lízingszerződésből, hitelszerződésből, pénzkölcsön nyújtásából, kockázati tőke vagy más kockázatmegosztási eszközök nyújtásából származó, támogatott harmadik személyekkel létrejött szerződésekből (e szakasz alkalmazásában a továbbiakban: Szerződések) eredő valamennyi követelés – ideértve a tőkét, az ügyleti kamatokat, a késedelmi kamatokat és egyéb díjakat is – átadására bruttó könyv szerinti értéken kerül sor a Megbízott Szerv részére azzal, hogy az 1. melléklet szerinti minisztériumnak a felszámolás alá került pénzügyi közvetítővel szembeni hitelezői igénye (a továbbiakban: Hitelezői Igény) nem csökkenthető az átadással egyidejűleg.
 
-(4)[^2] A Szerződések alapján létrejött követelés bruttó könyv szerinti értéke a felszámolás alá került pénzügyi közvetítőnek a támogatási jogviszonyból adódóan a harmadik személyekkel szemben fennálló követeléseinek az átadáskori összege.
+(4)[^4] A Szerződések alapján létrejött követelés bruttó könyv szerinti értéke a felszámolás alá került pénzügyi közvetítőnek a támogatási jogviszonyból adódóan a harmadik személyekkel szemben fennálló követeléseinek az átadáskori összege.
 
-(5)[^3] A Szerződésekben a Cstv. 38. § (8) bekezdése szerinti átadás időpontjában a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 2. § (1) bekezdés 20b. pontja szerinti pénzügyi közvetítő helyébe jogutódként az Irányító Hatóságok tekintetében a Pénzügyminisztérium lép.
+(5)[^5] A Szerződésekben a Cstv. 38. § (8) bekezdése szerinti átadás időpontjában a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 2. § (1) bekezdés 20b. pontja szerinti pénzügyi közvetítő helyébe jogutódként az Irányító Hatóságok tekintetében a Pénzügyminisztérium lép.
 
-(6)[^4] Az (5) bekezdés szerinti jogutódláskor az alábbi szabályok alkalmazandóak:
+(6)[^6] Az (5) bekezdés szerinti jogutódláskor az alábbi szabályok alkalmazandóak:
 
 a) a Megbízott Szerv a Szerződésekben bennmaradó feleket, valamint a Szerződéseket biztosító megállapodások kötelezettjeit a jogutódlásról értesíti,
 
@@ -32,11 +32,11 @@ c) az a) és b) pontokban nem szabályozott kérdésekben fennálló Szerződés
 
 d) lejárt vagy felmondott Szerződések esetén a Ptk. 6:201. §-a szerinti engedményezés szabályait kell alkalmazni azzal, hogy a pénzügyi közvetítő helytállási kötelezettsége fennmarad.
 
-(7)[^5] A Szerződések tekintetében a Megbízott Szerv gyakorolja a Pénzügyminisztérium (2) bekezdés szerinti jogait, így különösen ellátja a Szerződésekkel kapcsolatos hitelgondozási, valamint a Szerződéseken alapuló követelések kezelésével és a Szerződésekhez kapcsolódó biztosítékok érvényesítésével kapcsolatos feladatokat, ideértve a Pénzügyminisztériumnak mint a követelések jogosultjának a nevében a peres és nemperes, valamint hatósági eljárások megindítását, azokban a képviseletük ellátását. A Megbízott Szerv zálogjogosulti bizományosnak minősül, és ilyen minőségben jár el a biztosítékoknak a szükséges nyilvántartásokban történő átjegyzése vagy bejegyzése, valamint a biztosítékok kezelése és érvényesítése során.
+(7)[^7] A Szerződések tekintetében a Megbízott Szerv gyakorolja a Pénzügyminisztérium (2) bekezdés szerinti jogait, így különösen ellátja a Szerződésekkel kapcsolatos hitelgondozási, valamint a Szerződéseken alapuló követelések kezelésével és a Szerződésekhez kapcsolódó biztosítékok érvényesítésével kapcsolatos feladatokat, ideértve a Pénzügyminisztériumnak mint a követelések jogosultjának a nevében a peres és nemperes, valamint hatósági eljárások megindítását, azokban a képviseletük ellátását. A Megbízott Szerv zálogjogosulti bizományosnak minősül, és ilyen minőségben jár el a biztosítékoknak a szükséges nyilvántartásokban történő átjegyzése vagy bejegyzése, valamint a biztosítékok kezelése és érvényesítése során.
 
-(8)[^6] A pénzügyi közvetítő felszámolását lebonyolító felszámoló a Szerződéseknek az (5) bekezdés szerinti átadás időpontjáig a beszedéseket és a számlaterheléseket a Megbízott Szerv utasításainak megfelelően hajtja végre, és az ennek során, valamint a Szerződések átadását követően befolyt pénzeszközöket – különösen tőke, ügyleti kamatok, késedelmi kamatok, egyéb díjak – a jóváírást követő 15 napon belül továbbítja a Megbízott Szerv által meghatározott számlaszámra. A Cstv. 38. § (8) bekezdése szerinti átadás időpontjáig a (7) bekezdés szerinti feladatokat a felszámoló látja el.
+(8)[^8] A pénzügyi közvetítő felszámolását lebonyolító felszámoló a Szerződéseknek az (5) bekezdés szerinti átadás időpontjáig a beszedéseket és a számlaterheléseket a Megbízott Szerv utasításainak megfelelően hajtja végre, és az ennek során, valamint a Szerződések átadását követően befolyt pénzeszközöket – különösen tőke, ügyleti kamatok, késedelmi kamatok, egyéb díjak – a jóváírást követő 15 napon belül továbbítja a Megbízott Szerv által meghatározott számlaszámra. A Cstv. 38. § (8) bekezdése szerinti átadás időpontjáig a (7) bekezdés szerinti feladatokat a felszámoló látja el.
 
-(9)[^7] A pénzügyi közvetítő felszámolását lebonyolító felszámoló
+(9)[^9] A pénzügyi közvetítő felszámolását lebonyolító felszámoló
 
 a) a Cstv. 38. § (8) bekezdése szerinti átadáskor átadja a Megbízott Szervnek a Szerződésekhez kapcsolódó teljes, papíralapú és elektronikus iratanyagot tételes átadás-átvételi jegyzőkönyv keretében;
 
@@ -46,13 +46,15 @@ c) a tőle elvárható gondossággal ellátja az átadott vagyon kezelésével, 
 
 d) ellátja az átadott vagyonhoz kapcsolódó követeléseket nyilvántartó elektronikus rendszer naprakész vezetését, valamint hozzáférést biztosít a Megbízott Szerv részére az elektronikus rendszerhez.
 
-(10)[^8] A Megbízott Szerv (7) bekezdésben foglalt feladatainak ellátása során felmerülő költségei megtérítéséről az 1. melléklet szerinti minisztérium külön szerződés alapján gondoskodik.
+(10)[^10] A Megbízott Szerv (7) bekezdésben foglalt feladatainak ellátása során felmerülő költségei megtérítéséről az 1. melléklet szerinti minisztérium külön szerződés alapján gondoskodik.
 
-[^1]: A 2. § (3) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^2]: A 2. § (4) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 2. § (5) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A 2. § (6) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^5]: A 2. § (7) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A 2. § (8) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^7]: A 2. § (9) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^8]: A 2. § (10) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 378/2022. (X. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés nyitó szövegrésze a 378/2022. (X. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § (4) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § (5) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § (6) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 2. § (7) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 2. § (8) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 2. § (9) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 2. § (10) bekezdését a 491/2021. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.

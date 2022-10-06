@@ -18,7 +18,7 @@ b) perbe lépni a folyamatban lévő peres eljárásokban.
 
 (5) A Nemzeti Infokommunikációs és Szolgáltató Zártkörűen Működő Részvénytársaság az NFÜ munkavégzéséhez szükséges informatikai-telekommunikációs eszközökhöz kapcsolódó vagyonkezelői jogok és kötelezettségek, valamint a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendeletben foglalt ellátási feladatok tekintetében az NFÜ részleges jogutódja.
 
-(6)[^11] A (4) és (5) bekezdés szerinti szervezetek kötelesek biztosítani, hogy a részben vagy egészben európai uniós forrásból beszerzett eszközök és szolgáltatások megfeleljenek az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet 57. cikk (1) bekezdése és a 4/2011. (I. 28.) Korm. rendelet 80. §-a rendelkezéseinek.
+(6)[^13] A (4) és (5) bekezdés szerinti szervezetek kötelesek biztosítani, hogy a részben vagy egészben európai uniós forrásból beszerzett eszközök és szolgáltatások megfeleljenek az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet 57. cikk (1) bekezdése és a 4/2011. (I. 28.) Korm. rendelet 80. §-a rendelkezéseinek.
 
 (7) A Miniszterelnökség az NFÜ jogutódjaként – a vonatkozó jogszabályoknak megfelelően – ellátja az NFÜ
 
@@ -58,4 +58,4 @@ b) perbe lépni a folyamatban lévő peres eljárásokban.
 
 által ellátott feladatokat.
 
-[^11]: A 4. § (6) bekezdése a 491/2021. (VIII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^13]: A 4. § (6) bekezdése a 491/2021. (VIII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.

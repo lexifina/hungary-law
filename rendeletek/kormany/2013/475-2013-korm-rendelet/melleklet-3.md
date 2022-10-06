@@ -1,5 +1,3 @@
-## A 2004–2006. programozási időszak
-
 |  | A | B | C |
 
 | 1. | Program megnevezése | Irányító hatóság | Irányító hatóság működtetéséért felelős szerv |
@@ -16,7 +14,7 @@
 
 | 7. | Kohéziós Alap projektek | Környezet és Energia Operatív Programok Irányító Hatósága | Nemzeti Fejlesztési Minisztérium |
 
-3. melléklet a 475/2013. (XII. 17.) Korm. rendelethez[^21]
+3. melléklet a 475/2013. (XII. 17.) Korm. rendelethez[^24]
 
 1. A 2007–2013 programozási időszakban az európai területi együttműködési programból, az előcsatlakozási támogatási eszközből és az európai szomszédsági és partnerségi eszközből finanszírozott együttműködések
 
@@ -80,4 +78,4 @@
 
 | 6. | Europe Direct program | Nemzetközi Együttműködési Programok Irányító Hatósága | Miniszterelnökség |
 
-[^21]: 3. mellékletet a 27/2014. (II. 7.) Korm. rendelet 14. §-a iktatta be.
+[^24]: 3. mellékletet a 27/2014. (II. 7.) Korm. rendelet 14. §-a iktatta be.
