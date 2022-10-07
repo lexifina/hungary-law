@@ -1,1 +1,3 @@
-4. § A 475/2013. (XII. 17.) Korm. rendelet 2. § (1) bekezdés nyitó szövegrészében és 2. § (2) bekezdés nyitó szövegrészében a „minisztérium, illetve a Miniszterelnökség” szövegrész helyébe a „minisztérium, a Miniszterelnökség, illetve a 13/C. § szerinti esetben a Pénzügyminisztérium” szöveg lép.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
