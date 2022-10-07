@@ -1,3 +1,3 @@
-1. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet (a továbbiakban: R.) 96. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) A miniszter az állami beruházásokért való felelőssége körében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (1) bekezdés i) pontja szerinti kizárólagos állami gazdasági tevékenységek közül az országos közutak és műtárgyaik létrehozására és működtetésére vonatkozó koncessziós szerződésekkel összefüggésben gyakorolja a Ktv. 5. § (4) bekezdésében meghatározott, a koncessziós tevékenység tárgya szerint illetékes ágazati miniszter feladatkörébe tartozó, a koncessziós szerződés alapján az államot megillető valamennyi jogot és kötelezettséget, így különösen a szerződés teljesítésével, végrehajtásával kapcsolatos jogokat és kötelezettségeket, ennek keretében elvégzi a koncessziós szerződésekben rögzített gyakorisággal az üzemeltetési és karbantartási tevékenységek ellenőrzését is.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
