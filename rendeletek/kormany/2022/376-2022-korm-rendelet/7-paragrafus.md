@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 2021. évi nyugdíjprémiumról és egyes más ellátások után járó egyszeri juttatásról szóló 568/2021. (X. 6.) Korm. rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

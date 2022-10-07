@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-376-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-10-06 | 2022-376-20-22.1 | 376/2022. (X. 5.) Korm. rendelet |
+| 2022-10-07 | 2022-376-20-22.2 | 2010. évi CXXX. törvény |
