@@ -1,0 +1,3 @@
+8. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^271]
+
+[^271]: A 8. melléklet az 1/2019. (I. 22.) NMHH rendelet 6. § (8) bekezdésével megállapított, a 2/2019. (III. 22.) NMHH rendelet 11. § (4) bekezdése és a 13. § e) pontja, a 6/2019. (XII. 23.) NMHH rendelet 3. § (4) bekezdése, 4. § (6) bekezdése, 5. § h) pontja, a 3/2020. (X. 5.) NMHH rendelet 3. § (7) bekezdése, a 4. § (8) bekezdése és 5. § e) pontja, a 18/2020. (XII. 17.) NMHH rendelet 5. § (4) bekezdése, 6. § (10) bekezdése és 7. § 3. pontja, az 1/2022. (IV. 6.) NMHH rendelet 5. § (5) bekezdése, 6. § (5) bekezdése és 7. § e) pontja, a 7/2022. (IX. 22.) NMHH rendelet 5. § (4) bekezdése és 7. § e) pontja szerint módosított szöveg.
