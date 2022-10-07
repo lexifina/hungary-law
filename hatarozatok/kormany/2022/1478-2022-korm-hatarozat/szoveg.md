@@ -12,6 +12,9 @@ A Kormány
 
 | Határidő: | 2022. október 31. |
 
-3. visszavonja a Gazdaság-újraindítási Akcióterv keretében a Széchenyi Kártya Újraindítási Program bevezetéséről szóló 1368/2021. (VI. 10.) Korm. határozat 2.1., 2.2., 2.5. és 2.6. alpontját;
+3.[^1]
 
-4. visszavonja a Széchenyi Mikrohitel Konstrukcióról szóló 1483/2021. (VII. 16.) Korm. határozat 2., 3., 5. és 6. pontját.
+4.[^2]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
