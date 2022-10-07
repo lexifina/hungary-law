@@ -1,3 +1,3 @@
-1. § A Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló 5/2012. (II. 16.) KIM rendelet (a továbbiakban: NEAr.) a következő 34/A. §-sal egészül ki:
+1. §[^2]
 
-„34/A. § E rendeletnek a Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló 5/2012. (II. 16.) KIM rendelet módosításáról szóló 11/2022. (VIII. 1.) MvM rendelet által megállapított 14/A. § (7) bekezdésének és 14/B. § (8) bekezdésének rendelkezéseit a Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló 5/2012. (II. 16.) KIM rendelet módosításáról szóló 15/2022. (X. 3.) MvM rendelet hatálybalépésekor már fennálló jogviszonyokban is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
