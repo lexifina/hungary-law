@@ -1,3 +1,3 @@
-2. § Az R. 1. §-a a következő c) ponttal egészül ki:
+2. §[^3]
 
-(E rendelet alkalmazásában)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
