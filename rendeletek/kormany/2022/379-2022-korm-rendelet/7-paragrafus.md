@@ -1,7 +1,3 @@
-7. § Az R.
+7. §[^4]
 
-a) 3. § (1) bekezdésében a „szeptember 30.” szövegrész helyébe az „október 31.” szöveg, valamint az „október 15.” szövegrész helyébe a „november 15.” szöveg,
-
-b) 3. § (2) bekezdésében a „szeptember 30.” szövegrész helyébe az „október 31.” szöveg
-
-lép.
+[^4]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
