@@ -1,4 +1,4 @@
-9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^99]
+9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^100]
 
 1. Az értékesített, megszerzett frekvenciasávok esetében az egységdíj:
 
@@ -34,4 +34,6 @@
 
 | 8 | 24,5–26,5 GHz | 0,002 |
 
-[^99]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított, a 2/2016. (II. 26.) NMHH rendelet 11. § 19. pontja, a 2/2019. (III. 22.) NMHH rendelet 3. § (1)–(2) bekezdése, a 12/2020. (XII. 11.) NMHH rendelet 13. § 26. pontja és 14. §-a szerint módosított szöveg.
+| 9 | 31,8–33,4 GHz | 0,0017 |
+
+[^100]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított, a 2/2016. (II. 26.) NMHH rendelet 11. § 19. pontja, a 2/2019. (III. 22.) NMHH rendelet 3. § (1)–(2) bekezdése, a 12/2020. (XII. 11.) NMHH rendelet 13. § 26. pontja és 14. §-a, a 7/2022. (IX. 22.) NMHH rendelet 1. §-a szerint módosított szöveg.

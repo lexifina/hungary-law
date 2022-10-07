@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1-20-3H
 | 2019-03-30 | 2011-1-20-3H.12 | 2/2019. (III. 22.) NMHH rendelet |
 | 2020-09-06 | 2011-1-20-3H.13 | 12/2013. (IX. 19.) NMHH rendelet |
 | 2020-12-21 | 2011-1-20-3H.14 | 12/2020. (XII. 11.) NMHH rendelet |
+| 2022-10-07 | 2011-1-20-3H.15 | 12/2013. (IX. 19.) NMHH rendelet |

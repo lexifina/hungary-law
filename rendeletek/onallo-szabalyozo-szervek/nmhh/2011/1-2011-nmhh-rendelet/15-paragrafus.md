@@ -1,6 +1,6 @@
-## Telephelyre szóló frekvenciakijelölésű, saját igény kielégítésére szolgáló 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok hálózatainak, állomásainak rádióspektrumdíja[^48]
+## Telephelyre szóló frekvenciakijelölésű, saját igény kielégítésére szolgáló 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok hálózatainak, állomásainak rádióspektrumdíja[^49]
 
-15. §[^49] (1) A pont-többpont rendszerű hálózatok esetében a jogosított rádióspektrum-lekötési díjat minden csillagponti állomás után fizet, a 3. számú melléklet 2. pontjában foglalt táblázat alapján.
+15. §[^50] (1) A pont-többpont rendszerű hálózatok esetében a jogosított rádióspektrum-lekötési díjat minden csillagponti állomás után fizet, a 3. számú melléklet 2. pontjában foglalt táblázat alapján.
 
 (2) A pont-pont rendszerű hálózatok esetében a jogosított által fizetendő rádióspektrum-lekötési díj állomásonként a 3. számú melléklet 2. pontjában foglalt táblázat alapján megállapított díj 50%-a.
 
@@ -24,5 +24,5 @@ b) nem csillagponti állomás után a (4) bekezdés
 
 (9) Pont-többpont rendszerű hálózatban megosztott rádióspektrum-használat esetében a 4. számú melléklet 3–9. pontjában foglalt táblázatok szerint megállapított díj 50%-a a rádióspektrum-használati díj.
 
-[^48]: A 15. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.
-[^49]: A 15. § a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.
+[^49]: A 15. §-t megelőző alcím cím a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.
+[^50]: A 15. § a 12/2020. (XII. 11.) NMHH rendelet 9. §-ával megállapított szöveg.

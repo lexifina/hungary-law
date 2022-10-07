@@ -22,6 +22,6 @@
 
 ## 2.2. A 2.1. pont alapján meghatározott rádióspektrum-használati díjat több engedélyezett állomás vagy berendezés esetében az azonos kategóriába tartozó állomások vagy berendezések számával meg kell szorozni és az eredményül kapott rádióspektrum-használati díjakat össze kell adni.
 
-6. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^96]
+6. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^97]
 
-[^96]: A 6. számú mellékletet a 2/2016. (II. 26.) NMHH rendelet 12. § f) pontja hatályon kívül helyezte.
+[^97]: A 6. számú mellékletet a 2/2016. (II. 26.) NMHH rendelet 12. § f) pontja hatályon kívül helyezte.
