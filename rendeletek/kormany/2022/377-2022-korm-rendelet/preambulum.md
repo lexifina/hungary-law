@@ -1,1 +1,0 @@
-A Kormány a koncesszióról szóló 1991. évi XVI. törvény 30/A. § a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
