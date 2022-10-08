@@ -1,1 +1,3 @@
-2. § Az R1. 20. § (4) bekezdésében a „megelőzően” szövegrész helyébe a „megelőzően, valamint a 31,8–33,4 GHz frekvenciasávban” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
