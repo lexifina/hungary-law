@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés i) pontja, valamint a magyar állampolgárságról szóló 1993. évi LV. törvény 9. §-a alapján – a Miniszterelnökséget vezető miniszter TKF-1/1530/3/2022. számú előterjesztésére – Becsuk László (névmódosítás előtti neve: Becsuk Vaszil Petrovics; születési hely: Nagybocskó, Szovjetunió; születési idő: 1986. április 23.) és Becsuk Okszána, született: Joszipcsuk Okszána (névmódostás előtti neve: Becsuk Okszána Vaszilivna, született: Joszipcsuk Okszána Vaszilivna; születési hely: Terebesfejérpatak, Szovjetunió; születési idő: 1987. december 21.), magyar állampolgárságát visszavonom.
+
+KEH ügyszám: KEH/5619-3/2022.
