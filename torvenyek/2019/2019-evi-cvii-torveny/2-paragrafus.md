@@ -28,8 +28,10 @@ l) a Közbeszerzési Hatóság,
 
 m) a Nemzeti Választási Iroda,
 
-n) a Nemzeti Emlékezet Bizottságának Hivatala és
+n) a Nemzeti Emlékezet Bizottságának Hivatala,
 
 o) az Országos Atomenergia Hivatal.
+
+p) az Integritás Hatóság.
 
 (2) A különleges jogállású szervek szervezetét a szervet létrehozó törvény, vagy annak felhatalmazása alapján a különleges jogállású szerv alapító okirata vagy a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.
