@@ -1,3 +1,0 @@
-## 8. §[^1] Az állomáshelyen a 7. § alapján indokoltan igénybe vett egészségügyi ellátás költségei akkor téríthetők meg, ha a kihelyezett és hozzátartozója eleget tett a kihelyezett és hozzátartozójának a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett alkalmassági és pszichológiai alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének részletes szabályairól szóló 12/2020. (VII. 30.) KKM rendelet előírásainak, így részt vett a tartós külszolgálatra való alkalmasságra vonatkozó előzetes vizsgálaton, időszakos vizsgálaton és a kihelyező szerv kezdeményezésére a záró vizsgálaton.
-
-[^1]: A 8. § a 12/2020. (VII. 30.) KKM rendelet 17. §-ával megállapított szöveg.
