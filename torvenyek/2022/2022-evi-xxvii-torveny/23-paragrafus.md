@@ -1,0 +1,1 @@
+23. § A 21. § (1) bekezdése, valamint a 22. § (1) bekezdése szerinti kötelezettség nem teljesítése esetére a Hatóság az ajánlatkérővel szemben közigazgatási bírságot szab ki. A bírságból befolyt összeg a Hatóság saját bevételét képezi.

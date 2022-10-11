@@ -1,0 +1,1 @@
+13. § A Kormány az éves elemző integritásjelentés közzétételétől számított három hónapon belül a Hatóságnak küldött válaszában ismerteti, hogyan fogja kezelni az éves elemző integritásjelentésben foglalt megállapításokat.

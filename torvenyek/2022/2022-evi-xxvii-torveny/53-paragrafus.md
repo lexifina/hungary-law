@@ -1,0 +1,1 @@
+53. § A Munkacsoportnak a korrupcióellenes küzdelem területén tevékenykedő független, nem kormányzati szereplőket képviselő tagjai jogosultak árnyékjelentést készíteni, amelyet a Munkacsoport és a Hatóság honlapján annak Kormány felé történő megküldésével egyidejűleg nyilvánosan hozzáférhetővé kell tenni.

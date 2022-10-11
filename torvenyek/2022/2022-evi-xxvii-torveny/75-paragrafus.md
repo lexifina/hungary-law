@@ -1,0 +1,1 @@
+75. § A Hatóság 2023. december 31-ig eseti jelentését készít, amelyben áttekinti a magyar vagyonnyilatkozat-rendszer szabályozási kereteit és működését, ideértve annak hatályát és ellenőrzési folyamatát is.

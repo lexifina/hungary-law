@@ -1,0 +1,1 @@
+6. § A Hatóság feladat- és hatáskörei nem érintik más szerv feladatköreit és hatáskörgyakorlását, így különösen az európai uniós források kezelésére létrehozott szervek feladatait, valamint az irányítási és ellenőrzési rendszerben meghatározott szerepüket.

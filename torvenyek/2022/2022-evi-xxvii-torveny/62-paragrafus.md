@@ -1,0 +1,1 @@
+62. § A Munkacsoport üléséről készült jegyzőkönyvet a Hatóság honlapján közzé kell tenni. A tagok által előre megküldött írásbeli közreműködéseket, valamint az általuk tett utólagos írásos észrevételeket csatolni kell a jegyzőkönyvhöz.

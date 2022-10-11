@@ -1,0 +1,1 @@
+73. § Az első integritáskockázat-értékelést a Hatóság működésének megkezdését követő négy hónapon belül, nemzetközileg elismert módszertannal rendelkező nemzetközi szervezetekkel együttműködve, a közbeszerzési rendszer elszámoltathatósága, integritása és átláthatósága mutatói (MAPS IV. pillér) alapján kell elvégezni.

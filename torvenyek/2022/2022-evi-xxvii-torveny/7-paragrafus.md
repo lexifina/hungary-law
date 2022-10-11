@@ -1,0 +1,5 @@
+7. § (1) A Hatóság köztisztviselőire alkalmazni kell a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvényben (a továbbiakban: Küt.) meghatározott összeférhetetlenségi szabályokat, így különösen a Küt. 24. §-a szerinti büntetlen előéletre – különös figyelemmel a korrupcióval kapcsolatos bűncselekményekkel összefüggő kizáró okra – vonatkozó szabályokat és a Küt. 51. §-a szerinti együttalkalmazási tilalom, összeférhetetlenség szabályait.
+
+(2) A Hatóság megfelelő intézkedéseket hoz annak érdekében, hogy a hatásköreinek gyakorlásában és a feladatainak ellátásában részt vevő személyek esetében megelőzze, feltárja és orvosolja az objektív érdekellentétnek tekinthető helyzeteket.
+
+(3) Az (1) bekezdés alkalmazásában érdekellentét különösen, ha a feladat pártatlan és tárgyilagos ellátása családi vagy érzelmi okok, politikai szimpátiával, elköteleződéssel vagy nemzeti kötődéssel kapcsolatos okok, továbbá gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek miatt sérül.
