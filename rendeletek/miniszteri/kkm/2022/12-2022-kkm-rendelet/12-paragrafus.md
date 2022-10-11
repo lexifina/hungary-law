@@ -1,0 +1,9 @@
+12. § (1) Az 1. § (1) bekezdése szerinti kormánytisztviselő tartós külszolgálatra, a külképviselet által foglalkoztatott házastárs az állomáshelyen, illetve nemzeti szakértő a nemzeti szakértői foglalkoztatás helyét jelentő azon településen, ahol a kirendeléssel érintett európai uniós vagy nemzetközi szervezet elhelyezkedik, az életvitelszerű tartózkodásra alkalmas, ha az egészségügyi alkalmassági vizsgálaton külön-külön alkalmasnak minősült. Nem helyezhető ki tartós külszolgálat ellátására, illetve nem rendelhető ki nemzeti szakértői foglalkoztatásra az az 1. § (1) bekezdése szerinti kormánytisztviselő, a külképviselet által foglalkoztatni kívánt házastárssal nem köthető munkaszerződés, illetve a külképviselet által foglalkoztatott házastársnak a munkaszerződését meg kell szüntetni, akinek az egészségügyi alkalmassági vizsgálat alapján a minősítése alkalmatlan vagy ideiglenesen alkalmatlan.
+
+(2) Az 1. § (1) bekezdése szerinti hozzátartozó tartós külszolgálatra vagy a nemzeti szakértővel a nemzeti szakértői foglalkoztatás ideje alatt az életvitelszerű kinntartózkodásra alkalmas, ha az egészségügyi alkalmassági vizsgálaton alkalmasnak vagy ideiglenesen alkalmatlannak minősült.
+
+(3) A 10. § (1) bekezdése szerinti orvos az alkalmassági vélemény közlésén túlmenően a kihelyezéssel, a tartós külszolgálattal, a nemzeti szakértői kirendeléssel, illetve a külképviseleti foglalkoztatással kapcsolatos korlátozásokat írhat elő az érintett, 1. § (1) bekezdése szerinti személy egészségének védelme érdekében.
+
+(4) Az alkalmasságra vonatkozó vizsgálat eredményének tényét a vizsgált személlyel és a kihelyező (kirendelő) szervvel ismertetni kell.
+
+(5) A 10. § (1) bekezdése szerinti orvos a nem alkalmasnak minősített személyt az orvos által észlelt betegség esetén vizsgálatra vagy gyógykezelésre az alapellátás orvosához, illetve területileg illetékes szakellátó helyre utalja.
