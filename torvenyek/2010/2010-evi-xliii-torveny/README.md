@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2022-01-01 | 2021. évi CXIV. törvény | 2010-43-00-00.48 |
 | 2022-05-25 | 2022. évi IV. törvény | 2010-43-00-00.49 |
 | 2022-06-18 | 2022. évi VII. törvény | 2010-43-00-00.50 |
+| 2022-10-11 | 2022. évi XXVII. törvény | 2010-43-00-00.52 |

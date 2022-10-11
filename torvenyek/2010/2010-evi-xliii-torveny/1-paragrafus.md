@@ -30,7 +30,7 @@ d) az Országos Atomenergia Hivatal.
 
 a) a Közbeszerzési Hatóság,
 
-b)
+b) az Integritás Hatóság,
 
 c) a Gazdasági Versenyhivatal,
 
