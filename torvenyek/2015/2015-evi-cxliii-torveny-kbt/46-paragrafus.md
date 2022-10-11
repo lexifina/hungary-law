@@ -32,6 +32,6 @@ f) egyéb, erre törvény alapján jogosult hatóságnak az előtte folyamatban 
 
 céljából, erre irányuló megkeresés alapján adhatja át.
 
-(4c) A közbeszerzés ellenőrzésére feljogosított szerv, valamint a közbeszerzési jogorvoslat során eljáró Közbeszerzési Döntőbizottság vagy bíróság részére a közbeszerzési eljárás irataihoz való hozzáférést az EKR-ben az ajánlatkérő biztosítja.
+(4c) A közbeszerzés ellenőrzésére feljogosított szerv, az Integritás Hatóság, valamint a közbeszerzési jogorvoslat során eljáró Közbeszerzési Döntőbizottság vagy bíróság részére a közbeszerzési eljárás irataihoz való hozzáférést az EKR-ben az ajánlatkérő biztosítja.
 
 (5) Az EKR üzemeltetésével összefüggő feladatok teljesítése érdekében az EKR-ben a közbeszerzési eljárások lefolytatása során rögzített személyes adatok a (2) bekezdésben meghatározott időtartamig kezelhetők.

@@ -52,7 +52,7 @@ e) a Közbeszerzési Hatóság elnöke kezdeményezte a Közbeszerzési Döntőb
 
 (7b) A 137. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy az eredeti állapot helyreállítása a szerződés érvénytelensége jogkövetkezményei alkalmazása körében nem lesz lehetséges, a (6)–(7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
-(7c) Nem szab ki bírságot a Közbeszerzési Döntőbizottság olyan esetben, amikor az ajánlatkérő a jogorvoslat tárgyává tett cselekményt a jogszabályban foglaltak szerint folyamatba épített ellenőrzést végző szervnek az érintett eljárásban adott előírása alapján teljesítette.
+(7c) Nem szab ki bírságot a Közbeszerzési Döntőbizottság olyan esetben, amikor az ajánlatkérő a jogorvoslat tárgyává tett cselekményt a jogszabályban foglaltak szerint folyamatba épített ellenőrzést végző szervnek az érintett eljárásban adott előírása vagy az Integritás Hatóság ajánlása alapján teljesítette.
 
 (8)
 

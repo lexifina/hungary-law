@@ -4,25 +4,23 @@
 
 ## Összeférhetetlenség
 
-25. § (1) Az ajánlatkérő köteles minden szükséges intézkedést megtenni annak érdekében, hogy elkerülje az összeférhetetlenséget és a verseny tisztaságának sérelmét eredményező helyzetek kialakulását.
+25. § (1) Az ajánlatkérő köteles minden szükséges intézkedést megtenni annak érdekében, hogy megelőzze, feltárja és szükség esetén orvosolja az összeférhetetlenséget és a verseny tisztaságának sérelmét eredményező helyzeteket.
 
-(2) Összeférhetetlen és nem vehet részt az eljárás előkészítésében és lefolytatásában az ajánlatkérő nevében olyan személy vagy szervezet – ide értve a közbeszerzési szolgáltatót, valamint az általa foglalkoztatottakat is –, amely funkcióinak pártatlan és tárgyilagos gyakorlására bármely okból, így különösen gazdasági vagy más érdek vagy az eljárásban részt vevő gazdasági szereplővel fennálló más közös érdek miatt nem képes.
+(2) Az ajánlatkérő nevében eljáró és az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy írásban köteles nyilatkozni arról, hogy vele szemben fennáll-e bármely olyan körülmény, amely az e § szerinti összeférhetetlenséget eredményezhet. Ha e személy a közbeszerzési eljáráshoz kapcsolódó több folyamatban (eljárás előkészítése, ajánlatok és részvételi jelentkezések bírálata, a közbeszerzési eljárás eredményéről szóló döntés meghozatala) is részt vesz, az érintett személynek a nyilatkozatot valamennyi folyamathoz kapcsolódóan meg kell tennie. Ha az összeférhetetlenség vagy annak kockázata a nyilatkozat megtételét követően merül fel, az érintett személy köteles ezt haladéktalanul bejelenteni az ajánlatkérő részére.
 
-(3) Összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
+(3) Ha a (2) bekezdés szerinti cselekmények vagy bármely más forrásból származó információ alapján felmerül az összeférhetetlenség kockázata, az ajánlatkérő köteles megvizsgálni az összeférhetetlenség fennállását.
 
-a) az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy vagy szervezet,
+(4) Összeférhetetlenség áll fenn akkor, ha az ajánlatkérő részéről az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont vagy az eljárás eredményét befolyásolni képes személy – ide értve a közbeszerzési szolgáltatót, valamint az általa foglalkoztatottakat is – közvetve vagy közvetlenül olyan pénzügyi, gazdasági vagy egyéb személyes érdekeltséggel rendelkezik, amely úgy tekinthető, hogy befolyásolja funkcióinak pártatlan és tárgyilagos gyakorlását.
 
-b) az a szervezet, amelynek
+(5) Vélelmezni kell, hogy fennáll a (4) bekezdés szerinti összeférhetetlenség, ha a (4) bekezdés szerinti személy
 
-ba) vezető tisztségviselőjét vagy felügyelőbizottságának tagját,
+a) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként részt vesz vagy az alkalmasság igazolásában részt vesz;
 
-bb) tulajdonosát,
+b) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként részt vevő gazdasági szereplő vagy annak tagja, vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy alkalmazottja; vagy
 
-bc) a ba)–bb) pont szerinti személy közös háztartásban élő hozzátartozóját az ajánlatkérő az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevonta,
+c) az a) vagy a b) pontban meghatározott személyek hozzátartozója.
 
-ha közreműködése az eljárásban a verseny tisztaságának sérelmét eredményezheti.
-
-(4) A (3) bekezdésben foglaltak mellett – a nyilvánosan működő részvénytársaság kivételével – összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
+(6) A nyilvánosan működő részvénytársaság kivételével összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
 
 a) a köztársasági elnök,
 
@@ -42,28 +40,18 @@ h) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvéde
 
 i) a Magyar Nemzeti Bank elnöke
 
-j)
-
-k)
-
-l)
-
-m)
-
 tulajdonában, vagy az a)–i) pont szerinti személlyel közös háztartásban élő hozzátartozója tulajdonában álló szervezet.
 
-(5) Az ajánlatkérő köteles felhívni az eljárás előkészítésébe bevont személy vagy szervezet figyelmét arra, ha a (3)–(4) bekezdés alapján – különösen az általa megszerzett többlet-információkra tekintettel – a közbeszerzési eljárásban történő részvétele összeférhetetlenséget eredményezne.
+(7) A közbeszerzési eljárás előkészítésében vagy lefolytatásában az ajánlatkérő részéről nem vehet részt olyan személy, akinek a részvétele összeférhetetlenséget eredményezne. Összeférhetetlenség fennállása esetén az ajánlatkérő köteles megvizsgálni, hogy az összeférhetetlenség az adott közbeszerzési eljárás tekintetében hogyan érintette a verseny tisztasága és az egyenlő bánásmód elveinek érvényesülését, és köteles mindazon intézkedéseket megtenni, amelyek szükségesek az összeférhetetlenség megszüntetéséhez és az eljárás jogszerűségének helyreállításához. A 62. § (1) bekezdés m) pontja akkor alkalmazható, ha az egyenlő bánásmód és a verseny tisztaságának sérelme más módon nem orvosolható.
 
-(6) Az ajánlatkérő nevében eljáró és az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy vagy szervezet írásban köteles nyilatkozni arról, hogy vele szemben fennáll-e az e § szerinti összeférhetetlenség.
+(8) A (7) bekezdéstől eltérően, ha egy részvételre jelentkező, ajánlattevő, alvállalkozó vagy az alkalmasság igazolásában részt vevő szervezet vagy egy ezekkel – közvetve vagy közvetlenül – a 3. § 28. pontjában meghatározott kapcsolatban álló gazdasági szereplő – ide értve az (5) bekezdés b) pontja szerinti személyeket is – részt vett a közbeszerzési eljárás előkészítésében, az ajánlatkérő köteles megfelelő intézkedéseket tenni – különös tekintettel az eljáráshoz kapcsolódó valamennyi releváns információ többi gazdasági szereplővel való közlésére, valamint megfelelő ajánlattételi határidő biztosítására – annak érdekében, hogy az érintett gazdasági szereplő közbeszerzési eljárásban való részvétele ne vezessen a verseny torzításához. Az érintett gazdasági szereplő a 62. § (1) bekezdés m) pontja alapján csak akkor zárható ki az eljárásból, ha az egyenlő bánásmód elvének tiszteletben tartása más módon nem biztosítható. A kizárást megelőzően az ajánlatkérő – hiánypótlás vagy felvilágosítás kérés útján – köteles biztosítani annak lehetőségét, hogy az érintett gazdasági szereplő bizonyítsa, hogy a közbeszerzési eljárás előkészítésében való részvétele az egyenlő bánásmód elvét és a verseny tisztaságát nem sérti, vagy az érintett gazdasági szereplő az összeférhetetlenségi helyzetet más módon elhárítsa. Az összeférhetetlenségi helyzet elhárítása érdekében a gazdasági szereplő által tett intézkedéseket az ajánlatkérő köteles az ajánlatok (részvételi jelentkezések) elbírálásáról szóló összegezésben ismertetni.
 
-(7) A (3) bekezdés alkalmazásában nem eredményezi a verseny tisztaságának sérelmét és nem összeférhetetlen az olyan személy (szervezet) részvétele az eljárásban,
+(9) A (8) bekezdés alkalmazásában nem eredményezi a verseny tisztaságának sérelmét és nem összeférhetetlen az olyan személy (szervezet) részvétele az eljárásban,
 
 a) akitől, illetve amelytől az ajánlatkérő az adott közbeszerzéssel kapcsolatos helyzet-, piacfelmérés, illetve a közbeszerzés becsült értékének felmérése érdekében a közbeszerzés megkezdése időpontjának megjelölése nélkül, kizárólag a felmérés érdekében szükséges adatokat közölve kért tájékoztatást,
 
-b) aki, illetve amely az ajánlatkérő által folytatott előzetes piaci konzultációban [28. § (4) bekezdés] vett részt,
+b) aki, illetve amely az ajánlatkérő által folytatott előzetes piaci konzultációban [28. § (4) bekezdése] vett részt,
 
 c) akitől, illetve amelytől az ajánlatkérő a támogatásra irányuló igény (pályázat) benyújtásához szükséges árajánlatot kapott,
 
-feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő nem közölt vele a közbeszerzési eljárás során az összes ajánlattevő vagy részvételre jelentkező részére rendelkezésre bocsátott adatok körét meghaladó információt.
-
-(8) Az ajánlattevő vagy részvételre jelentkező az eljárásból e § alapján csak akkor zárható ki, ha közbeszerzési eljárásban részt vevő gazdasági szereplők esélyegyenlősége más módon nem biztosítható. A kizárást megelőzően az ajánlatkérő – hiánypótlás vagy felvilágosítás kérés útján – köteles biztosítani annak lehetőségét, hogy az érintett gazdasági szereplő bizonyítsa, hogy a közbeszerzési eljárás előkészítésében való részvétele az esélyegyenlőséget és a verseny tisztaságát nem sérti, vagy az összeférhetetlenségi helyzetet más módon elhárítsa. Az összeférhetetlenségi helyzet elhárítása érdekében a gazdasági szereplő által tett intézkedéseket az ajánlatkérő köteles az ajánlatok (részvételi jelentkezések) elbírálásáról szóló összegezésben ismertetni.
+feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő nem közölt vele a közbeszerzési eljárás során az összes ajánlattevő vagy részvételre jelentkező részére rendelkezésre bocsátott adatok körét meghaladó információt, valamint az ajánlattételi határidő meghatározása biztosítja az egyenlő bánásmód elvének érvényesülését.

@@ -1,6 +1,6 @@
 ## A Hatóság keretében működő Tanács
 
-182. § (1) A Tanács tizenhat tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
+182. § (1) A Tanács tizenhét tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
@@ -28,7 +28,9 @@ k) az innovációért felelős miniszter által kijelölt személy;
 
 l) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
 
-m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy.
+m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy és
+
+n) az Integritás Hatóság elnöke vagy az általa kijelölt személy.
 
 (3) A Tanács elnöke a Hatóság elnöke.
 

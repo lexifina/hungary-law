@@ -28,7 +28,9 @@ m) a közbeszerzésekért felelős miniszter;
 
 n) az európai uniós források felhasználásáért felelős miniszter.
 
-(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés a)–f) pontja, h)–i) pontja és k)–l) pontja szerinti személy vagy szervezet a jogsértés tudomásra jutásától számított hatvan napon belül, az (1) bekezdés g), j), m) és n) pontja szerinti szervezet vagy személy a jogsértés tudomásra jutásától számított kilencven napon belül, de
+o) az európai uniós forrásból megvalósuló közbeszerzésekkel összefüggésben az Integritás Hatóság.
+
+(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés a)–f) pontja, h)–i) pontja és k)–l) pontja szerinti személy vagy szervezet a jogsértés tudomásra jutásától számított hatvan napon belül, az (1) bekezdés g), j), m)–o) pontja szerinti szervezet vagy személy a jogsértés tudomásra jutásától számított kilencven napon belül, de
 
 a) legkésőbb a jogsértés megtörténtétől számított három éven belül,
 
