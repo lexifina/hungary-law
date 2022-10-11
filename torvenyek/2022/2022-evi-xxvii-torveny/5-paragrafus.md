@@ -28,4 +28,4 @@ c) a közbeszerzési eljárásból egyes bűncselekményekkel összefüggésben 
 
 (5) A Hatóság ellátja a kormányzati igazgatásról szóló törvényben meghatározott feladatokat a Belső Ellenőrzési és Integritási Igazgatóság működésével összefüggésben.
 
-(6) A Hatóság törvényben meghatározottak szerint ellátja egyes nyilvános vagyonnyilatkozatok ellenőrzését, és a vagyonnyilatkozatokkal összefüggő, törvényben meghatározott feladatokat.
+(6)

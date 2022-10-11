@@ -7,15 +7,3 @@ a) 2. § (1) bekezdés n) pontjában a „Hivatala és” szövegrész helyébe 
 b) 98. § (1) bekezdésében az „Országos Atomenergia Hivatal” szövegrész helyébe az „Országos Atomenergia Hivatal, az Integritás Hatóság” szöveg
 
 lép.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

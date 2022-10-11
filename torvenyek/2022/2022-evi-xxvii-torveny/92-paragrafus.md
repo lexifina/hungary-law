@@ -2,9 +2,9 @@
 
 a) 46. § (4c) bekezdésében a „szerv, valamint” szövegrész helyébe a „szerv, az Integritás Hatóság, valamint” szöveg,
 
-b) 62. § (1) bekezdés a) pont nyitó szövegrészében az „az elmúlt öt évben jogerős bírósági ítéletben megállapítást nyert, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült:” szövegrész helyébe a „jogerős bírósági ügydöntő határozatban megállapítást nyert, az Integritás Hatóság által az Eufetv. 28. § (3) bekezdése szerint megállapított időpontig, vagy ennek hiányában – ha a büntetett előélethez fűződő hátrányok alól hamarabb nem mentesült – a bíróság ügydöntő határozata jogerőre emelkedésétől számított négy évig:” szöveg,
+b)
 
-c) 66. § (6) bekezdés b) pontjában az „alvállalkozókat.” szövegrész helyébe az „alvállalkozókat, valamint az ajánlattevői teljesítésen belül az alvállalkozói teljesítés tervezett százalékos arányát.” szöveg,
+c)
 
 d) 152. § (2) bekezdés nyitó szövegrészében a „m) és n)” szövegrész helyébe a „m)–o)” szöveg,
 
