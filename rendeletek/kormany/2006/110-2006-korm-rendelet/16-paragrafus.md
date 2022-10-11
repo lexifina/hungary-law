@@ -30,10 +30,13 @@ e) a jogosult arról szóló – az e rendelet 10. számú mellékletében szere
 
 (4)[^122] Amennyiben egy kiállítás kapcsán több kérelmet nyújt be a kiállító, a (2) bekezdés b) és c) pontjaiban foglalt dokumentumokat csak egyszer kell benyújtani.
 
-(5)–(6)[^123]
+(5)[^123]
+
+(6)[^124]
 
 [^119]: A 16. § (1) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^120]: A 16. § (2) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
 [^121]: A 16. § (3) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
 [^122]: A 16. § (4) bekezdése a 109/2009. (V. 20.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (7) bekezdése alapján a rendelkezést a 2009. június 4. napját követően benyújtott kiállítási garancia- és viszontgarancia-kérelmek esetében kell alkalmazni.
 [^123]: A 16. § (5)–(6) bekezdését a 109/2009. (V. 20.) Korm. rendelet 20. § (3) bekezdése hatályon kívül helyezte.
+[^124]: A 16. § (5)–(6) bekezdését a 109/2009. (V. 20.) Korm. rendelet 20. § (3) bekezdése hatályon kívül helyezte.

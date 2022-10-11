@@ -1,4 +1,4 @@
-20/C. §[^136] (1) A hitelintézet a családok támogatásáról szóló 1998. évi LXXXIV. törvény 50/B. §-a szerinti állami kezességvállalásból eredő jogait a kölcsönszerződés felmondását követő 180 napon belül a 13. számú melléklet szerinti igénylőlap felhasználásával érvényesítheti az állami adóhatóságnál írásban, tartós adathordozón vagy elektronikus úton.
+20/C. §[^137] (1) A hitelintézet a családok támogatásáról szóló 1998. évi LXXXIV. törvény 50/B. §-a szerinti állami kezességvállalásból eredő jogait a kölcsönszerződés felmondását követő 180 napon belül a 13. számú melléklet szerinti igénylőlap felhasználásával érvényesítheti az állami adóhatóságnál írásban, tartós adathordozón vagy elektronikus úton.
 
 (2) Ha az állami adóhatóság a kezesség beváltása iránti kérelmet a hitelképességi vizsgálatra vonatkozó jogszabályban, a hitelezhetőség vizsgálatára és a hitelezhetőségi limitre vonatkozó hitelintézeti belső szabályzatban – így különösen a hitelintézet által a babaváró kölcsönre megállapított vagy a hitelintézet által forgalmazott, a babaváró kölcsönhöz leginkább hasonló hiteltermékeknél alkalmazott hitelképességi vizsgálatra vonatkozó belső szabályzatban – foglaltaknak az adott ügyben a hitelezhetőséget és a hitelezési limit megállapítását érdemben befolyásoló be nem tartása miatt utasítaná el, indokolással ellátott megállapításaival haladéktalanul megkeresi a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bankot (a továbbiakban: Felügyelet). Nem minősül a belső szabályzatban foglaltak be nem tartásának, ha a hitelintézet belső szabályzata a hitelképesség-vizsgálat vonatkozásában a szabályzatában rögzített feltételek mellett kivételszabályt, illetve speciális eljárásrendet állapít meg.
 
@@ -8,4 +8,4 @@
 
 (5) Az állami készfizető kezesség fennállását nem érinti a kölcsönszerződés olyan módosítása, amely a kölcsön visszafizetésének érdekében történik, és nem eredményezi a kezes fizetési kötelezettségének növekedését, ideértve azt, ha a kötelezett fizetési nehézsége, illetve késedelme miatt átütemezésre kerül sor, amennyiben ezáltal a kölcsöntartozás tőkeösszege nem növekszik.
 
-[^136]: A 20/C. §-t a 253/2020. (V. 29.) Korm. rendelet 1. §-a iktatta be.
+[^137]: A 20/C. §-t a 253/2020. (V. 29.) Korm. rendelet 1. §-a iktatta be.
