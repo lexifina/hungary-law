@@ -42,6 +42,8 @@
 
 21. a Nemzeti Választási Iroda elnöke, elnökhelyettese
 
+22. az Integritás Hatóság elnöke, elnökhelyettese
+
 részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
 
 (2) A házelnök részére a Mentelmi Bizottság elnöke állít ki közjogi tisztségviselői igazolványt.

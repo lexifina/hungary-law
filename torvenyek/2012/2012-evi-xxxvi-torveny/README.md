@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2022-01-01 | 2020. évi XXVII. törvény | 2012-36-00-00.51 |
 | 2022-05-25 | 2022. évi IV. törvény | 2012-36-00-00.52 |
 | 2022-08-01 | 2022. évi XVIII. törvény | 2012-36-00-00.53 |
+| 2022-10-11 | 2022. évi XXVII. törvény | 2012-36-00-00.56 |
