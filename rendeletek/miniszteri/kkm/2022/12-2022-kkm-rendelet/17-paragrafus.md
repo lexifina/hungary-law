@@ -1,1 +1,3 @@
-17. § A tartós külszolgálat időtartama alatt az állomáshelyen való egészségügyi ellátás igénybevételének részletes szabályairól szóló 7/2016. (X. 19.) KKM rendelet 8. §-ában a „12/2020. (VII. 30.) KKM rendelet” szövegrész helyébe a „12/2022. (X. 10.) KKM rendelet” szöveg lép.
+17. §[^1]
+
+[^1]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
