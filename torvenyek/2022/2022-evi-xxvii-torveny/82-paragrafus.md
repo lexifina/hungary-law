@@ -1,3 +1,1 @@
-82. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 36. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A közbeszerzésekért vagy az európai uniós források felhasználásáért felelős miniszter az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény (a továbbiakban: Eufetv.) szerint az Integritás Hatóság feladatkörébe tartozó esetekben jogosult – a minősített adat kivételével – az Integritás Hatóságnak átadni az eljárásával érintett közbeszerzés, szerződés, építési vagy szolgáltatási koncesszió, illetve ezek módosításai ellenőrzése révén rendelkezésére álló bármely adatot.”
+### 82. §
