@@ -6,11 +6,29 @@ a) a minisztérium,
 
 b) a Kormány által kijelölt központi beszerző szerv,
 
-c) az állam, minden költségvetési szerv, a közalapítvány, a helyi önkormányzat, a helyi és országos nemzetiségi önkormányzat, a helyi és nemzetiségi önkormányzatok társulása, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács,
+c) a következő szervezetek:
+
+ca) az állam,
+
+cb) a költségvetési szerv,
+
+cc) a közalapítvány,
+
+cd) a helyi önkormányzat,
+
+ce) a helyi és országos nemzetiségi önkormányzat,
+
+cf) a helyi és nemzetiségi önkormányzatok társulása,
+
+cg) a területfejlesztési önkormányzati társulás,
+
+ch) a térségi fejlesztési tanács,
 
 d) a 9. § (1) bekezdés h)–i) pontja szerinti jogi személyek,
 
-e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az a)–e) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza.
+e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az a)–f) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza,
+
+f) a közfeladatot ellátó közérdekű vagyonkezelő alapítványok és az általuk létesített vagy fenntartott jogi személyek.
 
 (2) A támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy, amelynek uniós közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését többségi részben, uniós értékhatárokat el nem érő, de a nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését 75%-ot meghaladó mértékben az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy közvetlenül támogatja, feltéve, hogy a beszerzés tárgya
 
