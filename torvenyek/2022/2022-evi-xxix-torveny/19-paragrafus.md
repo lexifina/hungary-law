@@ -1,0 +1,3 @@
+19. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 51. § (10a) bekezdése helyébe a következő rendelkezés lép:
+
+„(10a) A (10) bekezdésben foglaltaktól eltérően a vezetői álláshelyet betöltő köztisztviselő – a munkáltatói jogkör gyakorlójának az előzetes engedélye nélkül – lehet közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának, felügyelőbizottságának tagja, valamint betölthet közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget azzal, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amely a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.”

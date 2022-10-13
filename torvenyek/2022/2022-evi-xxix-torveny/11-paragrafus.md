@@ -1,0 +1,1 @@
+11. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 260/F. §-ában az „E törvénynek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2021. évi VIII. törvénnyel megállapított” szövegrész helyébe az „E törvény” szöveg lép.
