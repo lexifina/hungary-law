@@ -14,11 +14,13 @@
 
 ## Határidő: azonnal
 
-## 3. egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított előirányzat terhére a fejlesztési területeken ipari park kialakítása – a terület tulajdoni helyzetének rendezése, a művelési ág alóli kivonás, a telekalakítási eljárások lefolytatása, a terület előkészítése és tereprendezés – érdekében külön pályázat és kérelem benyújtása nélkül, vissza nem térítendő egyedi támogatást nyújtson Nyíregyháza Megyei Jogú Város Önkormányzata részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben Nyíregyháza Megyei Jogú Város Önkormányzata a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára;
+## 3.[^1] egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított előirányzat terhére a fejlesztési területeken ipari park kialakítása – a terület tulajdoni helyzetének rendezése, a művelési ág alóli kivonás, a telekalakítási eljárások lefolytatása, a terület előkészítése, infrastrukturális fejlesztése és tereprendezés – érdekében külön pályázat és kérelem benyújtása nélkül, vissza nem térítendő egyedi támogatást nyújtson Nyíregyháza Megyei Jogú Város Önkormányzata részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben Nyíregyháza Megyei Jogú Város Önkormányzata a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára;
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa Nyíregyháza Megyei Jogú Város Önkormányzata részére.
 
 1. melléklet az 1043/2022. (II. 4.) Korm. határozathoz
+
+2X01084_0
 
 | IX. Helyi önkormányzatok támogatásai XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2022. forintban |
 
@@ -71,3 +73,5 @@
 |  |  | egyéb: |  | azonnal |  | 15 000 000 000 |  |  |  |  |  |  |  |  | 15 000 000 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1481/2022. (X. 13.) Korm. határozat 1. pontja szerint módosított szöveg.
