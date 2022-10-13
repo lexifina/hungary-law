@@ -12,6 +12,6 @@ c) az egészségügyi tevékenység végzésére irányuló jogviszony – ide n
 
 kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységéért díjazást nem fogadhat el és nem lehet gazdasági társaság személyesen közreműködő tagja.
 
-(3)
+(3) A (2) bekezdés a) pontját a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdésével összhangban akként kell alkalmazni, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
 (4) A polgármesterre megfelelően alkalmazni kell az önkormányzati képviselőre vonatkozó összeférhetetlenségi, méltatlansági, vagyonnyilatkozat-tételi szabályokat azzal, hogy a polgármester nem lehet más önkormányzatnál polgármester, alpolgármester, települési önkormányzati képviselő, megyei közgyűlés elnöke, alelnöke, kivéve, hogy a fővárosi kerületi polgármester a fővárosi közgyűlés tagja. A fővárosi kerületi polgármester nem lehet főpolgármester, valamint főpolgármester-helyettes.

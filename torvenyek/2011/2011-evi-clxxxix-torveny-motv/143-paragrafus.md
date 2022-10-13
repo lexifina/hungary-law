@@ -26,7 +26,11 @@ h) az önkormányzati ASP rendszer elemeit és működtetésének szabályait, a
 
 (4) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben határozza meg:
 
-a)–c)
+a)
+
+b)
+
+c)
 
 d) az öngondoskodás és a közösségi feladatok ellátásához való hozzájárulás, továbbá a közösségi együttélés alapvető szabályait, valamint ezek elmulasztásának jogkövetkezményeit;
 

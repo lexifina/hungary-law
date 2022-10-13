@@ -28,6 +28,8 @@ i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági
 
 (1a) Nem minősül összeférhetetlenségi oknak, ha az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja – a polgármester és az alpolgármester kivételével – önkéntes tartalékos szolgálati viszonyt létesít, illetve tart fenn.
 
+(1b) Az (1) bekezdés a) pont aa) alpontját a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdésével összhangban akként kell alkalmazni, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
+
 (2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
 
 (3) Fővárosi kerületi önkormányzati képviselő csak akkor lehet egyidejűleg a fővárosi közgyűlésnek a fővárosi kompenzációs listáról mandátumot szerzett tagja is, ha a kerületi önkormányzati képviselői mandátumát egyéni választókerületben szerezte.
