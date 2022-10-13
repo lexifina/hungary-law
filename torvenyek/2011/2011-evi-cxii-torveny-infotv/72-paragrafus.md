@@ -6,7 +6,7 @@
 
 a) állapítsa meg a közérdekű adatok elektronikus közzétételének részletszabályait,
 
-b) állapítsa meg a közérdekű adat iránti igény teljesítéséért fizetendő költségtérítés megállapítható mértékét és a 29. § (4) bekezdése szerinti összeghatárt,
+b) – a Hatóság véleményének kikérésével – állapítsa meg a közérdekű adat iránti igény teljesítéséért fizetendő költségtérítés megállapítható mértékét és a 29. § (3) bekezdése szerinti összeghatárokat,
 
 c) különös közzétételi listát állapíthasson meg,
 
