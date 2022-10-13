@@ -18,7 +18,7 @@ g) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső sz
 
 h) létesíthet önkéntes tartalékos katonai szolgálati viszonyt.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően a vezetői munkakört betöltő köztisztviselő – a munkáltatói jogkör gyakorlójának az előzetes engedélye nélkül – lehet közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának és felügyelőbizottságának tagja, valamint betölthet közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget.
+(2a) A (2) bekezdésben foglaltaktól eltérően a vezetői munkakört betöltő köztisztviselő – a munkáltatói jogkör gyakorlójának az előzetes engedélye nélkül – lehet közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának és felügyelőbizottságának tagja, valamint betölthet közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget azzal, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
 (3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1)–(2a) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
