@@ -22,7 +22,7 @@ a) az orvostechnikai eszközök – ideértve az in vitro diagnosztikai orvostec
 
 b) az ellenőrző és vezérlő eszközök esetében – ideértve az ipari ellenőrző és vezérlő eszközöket is –
 
-## 2021. július 22-től kell alkalmazni.
+2021. július 22-től kell alkalmazni.
 
 (3) A 3. § (1) bekezdésében előírt forgalmazási korlátozás
 
@@ -48,7 +48,7 @@ b) a 2021. július 22. előtt forgalomba hozott orvostechnikai eszközök – id
 
 c) a 2021. július 22. előtt forgalomba hozott ellenőrző és vezérlő eszközök – ideértve az ipari ellenőrző és vezérlő eszközöket is –
 
-## javításához, újrahasználatához, funkcionális frissítéséhez vagy kapacitásuk javításához felhasznált kábelekre vagy cserealkatrészekre.
+javításához, újrahasználatához, funkcionális frissítéséhez vagy kapacitásuk javításához felhasznált kábelekre vagy cserealkatrészekre.
 
 (4)[^25] Ha az újrahasznált cserealkatrészek esetében az újrafelhasználásra vállalatok közötti, ellenőrizhető zárt csererendszereken belül kerül sor, valamint az alkatrészek újrafelhasználásáról értesítik a fogyasztót, a 3. § (1) bekezdésében előírt forgalmazási korlátozás nem alkalmazandó
 

@@ -1,6 +1,6 @@
 4. melléklet a 374/2012. (XII. 18.) Korm. rendelethez
 
-## A veszélyes anyagok alkalmazása alóli mentességi kérelem szükséges tartalmi elemei
+A veszélyes anyagok alkalmazása alóli mentességi kérelem szükséges tartalmi elemei
 
 1. A kérelmező neve, címe és kapcsolattartási adatai;
 

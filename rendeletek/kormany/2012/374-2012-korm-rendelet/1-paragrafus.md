@@ -26,6 +26,8 @@ j)[^2] a kifejezetten kutatás és fejlesztés céljából tervezett, kizáróla
 
 k)[^3] az orgona hangszerekre
 
+nem terjed ki.
+
 [^1]: Az 1. § (2) bekezdés i) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés j) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés k) pontját a 60/2019. (III. 25.) Korm. rendelet 1. §-a iktatta be.

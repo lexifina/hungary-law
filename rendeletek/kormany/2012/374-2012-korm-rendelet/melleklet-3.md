@@ -1,134 +1,116 @@
-## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek
+## 2X06643Mj.docx
 
 |  | A | B | C | D |
 
 | 1. | I. HIGANYTARTALOMRA VONATKOZÓ MENTESSÉGEK |
 
-| 2. | a) | Egy végükön fejelt (kompakt) fénycsövekben használt higany, amelynek megengedett mennyisége (égőnként): |
+| 2. | a) Egy végükön fejelt (kompakt) fénycsövekben használt higany, amelynek megengedett mennyisége (égőnként): |
 
 | 3. | Típus | P Teljesítmény W | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 4. | Általános világítási célra szolgáló fénycső | P < 30 W | 5 mg | 2011. december 31-ig |
+| 4. | Általános világítási célra szolgáló fénycső | P < 30 W | 2,5 mg | 2023. február 24. |
 
-| 3,5 mg | 2012. december 31-ig |
+| 5. | 30 W ≤ P < 50 W | 3,5 mg | 2023. február 24. |
 
-| 2,5 mg | 2019. június 1-ig |
+| 6. | 50 W ≤ P < 150 W | 5 mg | 2023. február 24. |
 
-| 5. | 30 W ≤ P < 50 W | 5 mg | 2011. december 31-ig |
+| 7. | 150 W ≤ P | 15 mg | 2023. február 24. |
 
-| 3,5 mg | 2012. január 1-jétől |
+| 8. | Általános világítási célra szolgáló, kör alakú vagy szögletes strukturális formájú, legfeljebb 17 mm csőátmérőjű fénycső | – | 5 mg | 2023. február 24. |
 
-| 6. | 50 W ≤ P < 150 W | 5 mg | mentesség ideje nincs korlátozva |
+| 9. | Különleges rendeltetésű fénycső | – | 5 mg | 2025. február 24. |
 
-| 7. | 150 W ≤ P | 15 mg | mentesség ideje nincs korlátozva |
+| 10. | Főként az ultraibolya spektrumban fény kibocsátására tervezett lámpák | – | 5 mg | 2027. február 24. |
 
-| 8. | Általános világítási célra szolgáló, kör alakú vagy szögletes strukturális formájú, legfeljebb 17 mm csőátmérőjű fénycső | - | nincs korlátozás | 2011. december 31-ig |
+| 11. | Általános világítási célra szolgáló, legalább 20 000 óra élettartamú fénycső | P < 30 W | 3,5 mg | 2023. augusztus 24. |
 
-| 7 mg | 2012. január 1-jétől |
+| 12. | b) Két végén fejelt, általános világítási célra szolgáló fénycsövekben használt higany (fénycsövenként): |
 
-| 9. | Különleges rendeltetésű fénycső | - | 5 mg | mentesség ideje nincs korlátozva |
+| 13. | Típus | Ø Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 10. | Általános világítási célra szolgáló, legalább 20 000 óra élettartamú fénycső | P < 30 W | 3,5 mg | 2017. december 31-ig |
+| 14. | Normál élettartamú háromsávos foszfor fénycső 9 mm alatti csőátmérővel (pl. T2) | Ø < 9 mm | 4 mg | 2023. február 24. |
 
-| 11. | b) Két végén fejelt, általános világítási célra szolgáló fénycsövekben használt higany (fénycsövenként): |
+| 15. | Normál élettartamú háromsávos foszfor fénycső legalább 9 mm-es, legfeljebb 17 mm-es csőátmérővel (pl. T5) | 9 mm < Ø ≤ 17 mm | 3 mg | 2023. augusztus 24. |
 
-| 12. | Típus | ∅ Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
+| 16. | Normál élettartamú háromsávos foszfor fénycső 17 mm-nél nagyobb, de legfeljebb 28 mm-es csőátmérővel (pl. T8) | 17 mm < Ø ≤ 28 mm | 3,5 mg | 2023. augusztus 24. |
 
-| 13. | Normál élettartamú fénycső háromsávos fényporral, 9 mm alatti csőátmérővel (pl. T2) | ∅ < 9 mm | 5 mg | 2011. december 31-ig |
+| 17. | Normál élettartamú háromsávos foszfor fénycső 28 mm-nél nagyobb csőátmérővel (pl. T12) | 28 mm < Ø | 3,5 mg | 2023. február 24. |
 
-| 4 mg | 2012. január 1-jétől |
+| 18. | Hosszú (legalább 25 000 óra) élettartamú háromsávos foszfor fénycső | – | 5 mg | 2023. február 24. |
 
-| 14. | Normál élettartamú fénycső háromsávos fényporral (pl. T5) | 9 mm < ∅ ≤ 17 mm | 5 mg | 2011. december 31-ig |
+| 19. | c) Egyéb kompakt fénycsövekben használt higany (fénycsövenként): |
 
-| 3 mg | 2012. január 1-jétől |
+| 20. | Típus | Ø Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 15. | Normál élettartamú fénycső háromsávos fényporral (pl. T8) | 17 mm < ∅ ≤ 28 mm | 5 mg | 2011. december 31-ig |
+| 21. | Egyenes halofoszfát fénycsövek (pl. T10 és T12) | 28 mm < Ø | 10 mg | 2012. április 13. |
 
-| 3,5 mg | 2012. január 1-jétől |
+| 22. | Nem egyenes halofoszfát fénycsövek | Bármely Ø | 15 mg | 2016. április 13. |
 
-| 16. | Normál élettartamú fénycső háromsávos fényporral (pl. T12) | 28 mm < ∅ | 5 mg | 2012. december 31-ig |
+| 23. | Nem egyenes háromsávos foszfor fénycső, 17 mm feletti csőátmérővel (pl. T9) | 17 mm < Ø | 15 mg | 2023. február 24. |
 
-| 3,5 mg | 2013. január 1-jétől |
+| 24. | Nem egyenes háromsávos foszfor fénycső, 17 mm feletti csőátmérővel (pl. T9) | 17 mm < Ø | 10 mg | 2023. február 24-től 2025. február 24-ig |
 
-| 17. | Hosszú (legalább 25 000 óra) élettartamú fénycső háromsávos fényporral | - | 8 mg | 2011. december 31-ig |
+| 25. | Egyéb általános világítási célra szolgáló vagy különleges rendeltetésű lámpák (pl. indukciós lámpák) | – | 15 mg | 2025. február 24. |
 
-| 5 mg | 2019. június 1-ig |
+| 26. | Főként az ultraibolya spektrumban fényt kibocsátó lámpák | – | 15 mg | 2027. február 24. |
 
-| 18. | c) Egyéb kompakt fénycsövekben használt higany (fénycsövenként): |
+| 27. | Vészhelyzeti lámpák | – | 15 mg | 2027. február 24. |
 
-| 19. | Típus | ∅ Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
+| 28. | d) Különleges rendeltetésű hidegkatódos fénycsövekben és külső elektródás fénycsövekben (CCFL és EEFL) használt higany, amelynek megengedett mennyisége (fénycsövenként/lámpánként): |
 
-| 20. | Egyenes halofoszfát fénycsövek (pl. T10 és T12) | 28 mm < ∅ | 10 mg | 2012. április 13-ig |
+| 29. | Típus | L Lámpahossz mm | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 21. | Nem egyenes halofoszfát fénycsövek | Bármely ∅ | 15 mg | 2016. április 13-ig |
+| 30. | Rövid | L ≤ 500 mm | 3,5 mg | 2025. február 24-ig |
 
-| 22. | Nem egyenes fénycsövek háromsávos fényporral, 17 mm feletti csőátmérővel (pl. T9) | 17 mm < ∅ | nincs korlátozás | 2011. december 31-ig |
+| 31. | Közepes hosszúságú | 500 mm < L ≤ 1 500 mm | 5 mg | 2025. február 24-ig |
 
-| 15 mg | 2012. január 1-jétől |
+| 32. | Hosszú | L > 1 500 mm | 13 mg | 2025. február 24-ig |
 
-| 23. | Egyéb általános világítási célra szolgáló vagy különleges rendeltetésű lámpák (pl. indukciós lámpák) | - | nincs korlátozás | 2011. december 31-ig |
+| 33. | Egyéb kisnyomású kisülőlámpák | – | 15 mg | 2023. február 24. |
 
-| 15 mg | 2012. január 1-jétől |
+| 34. | Kisnyomású, nem foszforral bevont kisülőlámpákban használt higany, ahol az alkalmazás megköveteli, hogy a lámpa spektrális kimenetének fő tartománya az ultraibolya spektrumban legyen | – | 15 mg | 2027. február 24. |
 
-| 24. | d) | Különleges rendeltetésű hidegkatódos fénycsövekben és külső elektródás fénycsövekben (CCFL és EEFL) használt higany, amelynek megengedett mennyisége (fénycsövenként/lámpánként): |
+| 35. | e) Általános világítási célra szolgáló, javított színvisszaadási mutatójú (Ra > 60), nagynyomású nátrium(gőz)lámpákban használt higany, amelynek megengedett mennyisége (égőnként): |
 
-| 25. | Típus | L Lámpahossz mm | Maximális megengedett koncentráció | A mentesség határideje |
+| 36. | Típus | P Teljesítmény W | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 26. | Rövid | L ≤ 500 mm | nincs korlátozás | 2011. december 31-ig |
+| 37. |  | P ≤ 155 W | 30 mg | 2023. február 24. |
 
-| 3,5 mg | 2019. június 1-ig |
+| 38. |  | 155 W < P ≤ 405 W | 40 mg | 2023. február 24. |
 
-| 27. | Közepes hosszúságú | 500 mm < L L ≤ 1 500 mm | nincs korlátozás | 2011. december 31-ig |
+| 39. |  | P > 405 W | 40 mg | 2023. február 24. |
 
-| 5 mg | 2019. június 1-ig |
+| 40. | f) Általános világítási célra szolgáló, javított színvisszaadási mutatójú (Ra > 80), nagynyomású nátrium(gőz)lámpákban használt higany, amelynek megengedett mennyisége (égőnként): |
 
-| 28. | Hosszú | L > 1 500 mm | nincs korlátozás | 2011. december 31-ig |
+| 41. | Típus | P Teljesítmény W | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 13 mg | 2019. június 1-ig |
+| 42. |  | P ≤ 105 W | 16 mg | 2027. február 24. |
 
-| 29. | Egyéb kisnyomású kisülőlámpák | - | nincs korlátozás | 2011. december 31-ig |
+| 42.a | g) Egyéb általános világítási célra szolgáló nagynyomású nátrium(gőz)lámpákban használt higany, amelynek megengedett mennyisége (égőnként): |
 
-| 15 mg | 2012. január 1-jétől |
+| 42.b | Típus | P Teljesítmény W | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 30. | e) | Általános világítási célra szolgáló, javított színvisszaadási mutatójú (Ra > 60), nagynyomású nátrium(gőz)lámpákban használt higany, amelynek megengedett mennyisége (égőnként): |
+| 42.c |  | P ≤ 155 W | 20 mg | 2027. február 24. |
 
-| 31. | Típus | P Teljesítmény W | Maximális megengedett koncentráció | A mentesség határideje |
+| 42.d |  | 155 W < P ≤ 405 W | 25 mg | 2027. február 24. |
 
-| 32. |  | P ≤ 155 W | nincs korlátozás | 2011. december 31-ig |
+| 42.e |  | P > 405 W | 25 mg | 2027. február 24. |
 
-| 30 mg | 2012. január 1-jétől |
+| 42.f | Nagynyomású higany(gőz)lámpákban (HPMV) használt higany | – | nincs korlátozás | 2015. április 13. |
 
-| 33. |  | 155 W < P ≤ 405 W | nincs korlátozás | 2011. december 31-ig |
+| 42.g | Fémhalogén (MH) lámpákban használt higany | – | nincs korlátozás | 2027. február 24. |
 
-| 40 mg | 2012. január 1-jétől |
+| 42.h | Az e mellékletben külön nem említett, különleges rendeltetésű egyéb kisülőlámpákban használt higany | – | nincs korlátozás | 2025. február 24. |
 
-| 34. |  | P > 405 W | nincs korlátozás | 2011. december 31-ig |
+| 42.i | Az olyan vetítőkben alkalmazott nagynyomású higanygőzlámpákban használt higany, amelyeknél legalább 2000 lumen ANSI teljesítmény szükséges | – | nincs korlátozás | 2027. február 24. |
 
-| 40 mg | 2012. január 1-jétől |
+| 42.j | A kertészeti világításra alkalmazott nagynyomású nátriumgőzlámpákban használt higany | – | nincs korlátozás | 2027. február 24. |
 
-| 35. | f) | Egyéb általános világítási célra szolgáló nagynyomású nátrium(gőz)lámpákban használt higany, amelynek megengedett mennyisége (égőnként): |
+| 42.k | Az ultraibolya spektrumban fényt kibocsátó lámpákban használt higany | – | nincs korlátozás | 2027. február 24. |
 
-| 36. |  | P ≤ 155 W | nincs korlátozás | 2011. december 31-ig |
+| 42.l | A reklámokban, a dekorációkban, az épületmegvilágításban, a speciális megvilágításban és a művészeti alkotásokban használt, kézzel előállított, cső alakú kisülőlámpákban lévő higany, melynek megengedett mennyisége | – | 80 mg | 2018. december 31. |
 
-| 25 mg | 2012. január 1-jétől |
-
-| 37. |  | 155 W < P ≤ 405 W | nincs korlátozás | 2011. december 31-ig |
-
-| 30 mg | 2012. január 1-jétől |
-
-| 38. |  | P > 405 W | nincs korlátozás | 2011. december 31-ig |
-
-| 40 mg | 2012. január 1-jétől |
-
-| 39. | Nagynyomású higany(gőz)lámpákban (HPMV) használt higany | - | nincs korlátozás | 2015. április 13-ig |
-
-| 40. | Fémhalogén (MH) lámpákban használt higany | - | nincs korlátozás | mentesség ideje nincs korlátozva |
-
-| 41. | Az e mellékletben külön nem említett, különleges rendeltetésű egyéb kisülőlámpákban használt higany | - | nincs korlátozás | mentesség ideje nincs korlátozva |
-
-| 42. | A reklámokban, a dekorációkban, az épületmegvilágításban, a speciális megvilágításban és a művészeti alkotásokban használt, kézzel előállított, cső alakú kisülőlámpákban lévő higany, melynek megengedett mennyisége | - | 80 mg | 2018. december 31-ig |
-
-| a) kültéri alkalmazások, valamint 20°C alatti hőmérsékletnek kitett beltéri alkalmazások esetében | 20 mg elektród-páronként + 0,3 mg cm-enként a cső hosszát figyelembe véve, de legfeljebb |
+| a) kültéri alkalmazások, valamint 20 °C alatti hőmérsékletnek kitett beltéri alkalmazások esetében | 20 mg elektród-páronként + 0,3 mg cm-enként a cső hosszát figyelembe véve, de legfeljebb |
 
 | b) minden egyéb beltéri alkalmazás esetében | 15 mg elektród-páronként + 0,24 mg cm-enként a cső hosszát figyelembe véve, de legfeljebb |
 
@@ -334,7 +316,7 @@
 
 | 82. | Az alumíniummal ötvözött berillium-oxid hordozókon használt vastag filmpasztában lévő kadmium és kadmium-oxid | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 83. | A kijelzővilágítási alkalmazásokban használt hullámhossz-átalakító („downshifting”) félvezető-nanokristály kvantumpontokban lévő kadmium-szelenid | a kijelzőfelület egy négyzetmilliméterére eső kadmiummennyiség < 0,2 μg | 2019. augusztus 7-ig |
+| 83. | A kijelzővilágítási alkalmazásokban használt hullámhossz-átalakító (“downshifting”) félvezető-nanokristály kvantumpontokban lévő kadmium-szelenid | a kijelzőfelület egy négyzetmilliméterére eső kadmiummennyiség < 0,2 μg | 2019. augusztus 7-ig |
 
 | 84. | A professzionális audioberendezésekben használt analóg optocsatolók fotorezisztoraiban lévő kadmium | nincs korlátozás | 2013. december 31-ig |
 
@@ -372,9 +354,9 @@
 
 | 91. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó, de a 90. sorban nem említett, gumit tartalmazó alkatrészek esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával vagy tartósan emberi bőrrel. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 10 m% | 2024. július 21-ig |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^71]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^83]
 
-## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
+A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
 I. Ionizáló sugárzást felhasználó vagy észlelő berendezések
 
@@ -562,4 +544,4 @@ lejár.
 
 51. Az emberi testnedvekben és/vagy dializátfolyadékokban jelen lévő ionos anyagok betegközeli elemzéséhez használatos ionszelektív elektródokban található bisz(2-etilhexil)-ftalát (DEHP). A mentesség 2028. július 21-én lejár.
 
-[^71]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^83]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.

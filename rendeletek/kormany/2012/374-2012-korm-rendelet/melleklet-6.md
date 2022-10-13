@@ -126,7 +126,7 @@
 
 6. melléklet a 374/2012. (XII. 18.) Korm. rendelethez
 
-## EU–megfelelőségi nyilatkozat
+EU–megfelelőségi nyilatkozat
 
 1. Az elektromos vagy elektronikus berendezés egyedi azonosítója (… sz.)
 

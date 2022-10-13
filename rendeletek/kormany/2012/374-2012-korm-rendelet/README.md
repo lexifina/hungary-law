@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-374-20-
 | 2022-03-03 | 2012-374-20-22.24 | 52/2022. (II. 23.) Korm. rendelet |
 | 2022-05-26 | 2012-374-20-22.25 | 135/2022. (IV. 7.) Korm. rendelet |
 | 2022-07-01 | 2012-374-20-22.26 | 52/2022. (II. 23.) Korm. rendelet |
+| 2022-10-13 | 2012-374-20-22.27 | 378/2022. (X. 5.) Korm. rendelet |
