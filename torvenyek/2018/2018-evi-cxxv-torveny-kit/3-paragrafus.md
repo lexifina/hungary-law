@@ -54,9 +54,11 @@ a) a Miniszterelnöki Kormányiroda és a minisztérium közigazgatási államti
 
 b) a Miniszterelnöki Kormányiroda és a minisztérium helyettes államtitkára,
 
-c) a kormányzati főhivatal és a központi hivatal vezetője és vezetőjének helyettese és
+c) a kormányzati főhivatal és a központi hivatal vezetője és vezetőjének helyettese,
 
-d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató).
+d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató) és
+
+e) a Belső Ellenőrzési és Integritási Igazgatóság vezetője.
 
 (8) Szakmai vezető:
 
