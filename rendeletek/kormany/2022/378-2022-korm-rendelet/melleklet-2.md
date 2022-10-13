@@ -1,3 +1,5 @@
+## A 374/2012. (XII. 18.) Korm. rendelet 2. mellékletében foglalt táblázat 2–42. sora helyébe a következő rendelkezés lép, és a táblázat a következő 42.a–42.l sorral egészül ki:
+
 |  | (A | B | C | D |
 
 | 1. | I. HIGANYTARTALOMRA VONATKOZÓ MENTESSÉGEK) |
@@ -116,6 +118,6 @@
 
 ## ”
 
-2. melléklet a 378/2022. (X. 5.) Korm. rendelethez[^8]
+2. melléklet a 378/2022. (X. 5.) Korm. rendelethez[^6]
 
-[^8]: A 2. melléklet a 8. § (3) bekezdés alapján 2022. november 4-én lép hatályba.
+[^6]: A 2. melléklet a 8. § (3) bekezdés alapján 2022. november 4-én lép hatályba.
