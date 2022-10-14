@@ -1,5 +1,9 @@
-1. A Nyíregyházi Ipari Park bővítésének támogatásáról szóló 1043/2022. (II. 4.) Korm. határozat 3. pontjában az „a terület tulajdoni helyzetének rendezése, a művelési ág alóli kivonás, a telekalakítási eljárások lefolytatása, a terület előkészítése és tereprendezés” szövegrész helyébe az „a terület tulajdoni helyzetének rendezése, a művelési ág alóli kivonás, a telekalakítási eljárások lefolytatása, a terület előkészítése, infrastrukturális fejlesztése és tereprendezés” szöveg lép.
+1.[^2]
 
-2. A ferencvárosi lakótömb rehabilitációjának támogatásához szükséges intézkedésekről szóló 1380/2022. (VIII. 1.) Korm. határozat [a továbbiakban: 1380/2022. (VIII. 1.) Korm. határozat] 2. pontjában az „a hulladékok elszállításához” szövegrész helyébe az „a hulladékok elszállításához, valamint önkormányzati bérlakás állomány fejlesztéséhez” szöveg lép.
+2.[^3]
 
-3. Az 1380/2022. (VIII. 1.) Korm. határozat 4. pontjában a „bontási feladat 2023. május 31-ig” szövegrész helyébe a „bontási és hulladékelszállítási részfeladat 2023. július 31-ig” szöveg lép.
+3.[^4]
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
