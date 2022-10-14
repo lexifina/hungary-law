@@ -8,4 +8,6 @@ A Kormány
 
 | Határidő: | az Árvízkockázat-kezelési Terv 1. pont szerinti elfogadását követően azonnal |
 
-3. visszavonja a Magyarország Árvízi Országos Kockázatkezelési Tervéről szóló 1146/2016. (III. 25.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
