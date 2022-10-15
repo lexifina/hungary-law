@@ -1,0 +1,3 @@
+1. § A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény veszélyhelyzetben történő eltérő alkalmazásáról szóló 782/2021. (XII. 24.) Korm. rendelet [a továbbiakban: 782/2021. (XII. 24.) Korm. rendelet] 1. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az e §-ban foglaltakat a lakáscélú állami támogatásnak minősülő, fogyasztóknak nyújtott kamattámogatott jelzáloghitel-szerződésekre, a fogyasztónak nyújtott lakáscélú pénzügyi lízingszerződésekre és 2022. november 1-től a legfeljebb 5 éves kamatperiódusokban rögzített hitelkamattal nyújtott nem kamattámogatott jelzáloghitel-szerződésekre is alkalmazni kell.”
