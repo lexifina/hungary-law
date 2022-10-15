@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-210-20-
 | 2018-04-28 | 2010-210-20-22.15 | 83/2018. (IV. 20.) Korm. rendelet |
 | 2022-03-22 | 2010-210-20-22.16 | 111/2022. (III. 21.) Korm. rendelet |
 | 2022-09-01 | 2010-210-20-22.17 | 315/2022. (VIII. 16.) Korm. rendelet |
+| 2022-10-15 | 2010-210-20-22.18 | 615/2022. (XII. 29.) Korm. rendelet |
