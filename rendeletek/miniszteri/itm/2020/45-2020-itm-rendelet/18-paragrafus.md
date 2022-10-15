@@ -1,6 +1,6 @@
 ## 7. A jogosultság módosítása, az ellenőrző szelvény vagy a nyugtázó értesítés pótlása
 
-18. § (1) Ha a gépjármű tulajdonjogát a tulajdonosa év közben átruházza, vagy az annak használatát lehetővé tévő jogviszony megszűnik, a 20. § szerinti ügyintézési díj ellenében kérhető a jogosultság érvényesítése más, azonos díjkategóriába vagy azonos árú díjkategóriába tartozó gépjárműre (a továbbiakban: átírás). Az átírásból eredő forgalmirendszám-változás átvezetéséhez
+18. § (1)[^13] Ha a gépjármű tulajdonjogát a tulajdonosa év közben átruházza, vagy az annak használatát lehetővé tévő jogviszony megszűnik, a jogosultság érvényességi ideje alatt, a 20. § szerinti ügyintézési díj ellenében kérhető a jogosultság érvényesítése más, azonos díjkategóriába vagy azonos árú díjkategóriába tartozó gépjárműre (a továbbiakban: átírás). Az átírásból eredő forgalmirendszám-változás átvezetéséhez
 
 a) a NÚSZ Zrt. részére le kell adni a vásárláskor kapott ellenőrző szelvényt, vagy be kell mutatni a nyugtázó értesítést,
 
@@ -21,3 +21,5 @@ c) be kell mutatni a korábbi jogosultsággal rendelkező gépjármű eladását
 (7) Téves forgalmi rendszám feltüntetése esetén – legfeljebb 3 karakter eltérésig – a jogosultság vásárlásától kezdődően, a téves forgalmi rendszám miatt kapott pótdíjfizetési felszólítás kézhezvételét követő 60 napon belül a forgalmi rendszám megfelelő módosításával a helyes forgalmi rendszám rögzíthető. Az eljárás során be kell mutatni a gépjármű forgalmi engedélyét, a jogosultság megvásárlását igazoló ellenőrző szelvényt vagy a nyugtázó értesítést. A helyesbítés díja a 20. §-ban meghatározott ügyintézési díj. Ebben az esetben a jogosultság a módosított forgalmi rendszámra érvényes a teljes érvényességi időn belül. A „0” és az „O” karakterek, illetve az „1” és „I” karakterek felcseréléséből adódó karaktertévesztés átírása során ügyintézési díj nem kerül felszámításra.
 
 (8) Téves felségjel feltüntetése miatt kiküldött pótdíjfizetési felszólítás kézhezvételét követő 60 napon belül a felségjel módosítható. Az eljárás során be kell mutatni a gépjármű forgalmi engedélyét és a jogosultság megvásárlását igazoló ellenőrző szelvényt vagy a nyugtázó értesítést. A módosításért a 20. §-ban meghatározott ügyintézési díjat kell megfizetni. Ebben az esetben a jogosultság a módosított felségjellel érvényes a teljes érvényességi időn belül.
+
+[^13]: A 18. § (1) bekezdés nyitó szövegrésze a 19/2022. (IX. 19.) TIM rendelet 4. § i) pontja szerint módosított szöveg.
