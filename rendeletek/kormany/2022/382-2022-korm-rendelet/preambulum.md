@@ -1,1 +1,0 @@
-A Kormány az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
