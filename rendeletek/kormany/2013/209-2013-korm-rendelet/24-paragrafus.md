@@ -10,7 +10,7 @@ a) amennyiben az érvényesség kezdete a viszonylati jegy megváltásának napj
 
 b) amennyiben legfeljebb 30 napos elővételben kerül megváltásra, a megadott naptári nap kezdetétől az azt követő nap végéig
 
-## érvényes.
+érvényes.
 
 (4) A (3) bekezdés b) pontja szerint megváltott viszonylati jegy az érvényesség kezdetének időpontját megelőzően visszaváltható. A viszonylati jegy értéke a visszaváltásakor annak megváltása során megterhelt egyenlegre kerül jóváírásra.
 

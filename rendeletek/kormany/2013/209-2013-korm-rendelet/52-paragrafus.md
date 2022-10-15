@@ -1,5 +1,3 @@
-## 50–51. §[^52]
-
 ## 23. Az Európai Unió jogának való megfelelés
 
 52. § (1) Ez a rendelet
@@ -12,11 +10,11 @@
 
 4. a nehéz tehergépjárművekre az egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62/EK irányelv módosításáról szóló, 2011. szeptember 27-i 2011/76/EU európai parlamenti és tanácsi irányelvnek
 
-5.[^53] az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvnek
+5.[^58] az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-(2)[^54] Ez a rendelet
+(2)[^59] Ez a rendelet
 
 1. az európai elektronikus útdíjszedési szolgáltatás és műszaki elemei meghatározásáról szóló, 2009. október 6-i 2009/750/EK bizottsági határozat,
 
@@ -28,6 +26,5 @@ való megfelelést szolgálja.
 
 (3) E rendelet 1. és 10. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.
 
-[^52]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^53]: Az 52. § (1) bekezdés 5. pontját a 67/2022. (II. 28.) Korm. rendelet 9. § (15) bekezdése iktatta be.
-[^54]: Az 52. § (2) bekezdése a 67/2022. (II. 28.) Korm. rendelet 9. § (16) bekezdésével megállapított szöveg.
+[^58]: Az 52. § (1) bekezdés 5. pontját a 67/2022. (II. 28.) Korm. rendelet 9. § (15) bekezdése iktatta be.
+[^59]: Az 52. § (2) bekezdése a 67/2022. (II. 28.) Korm. rendelet 9. § (16) bekezdésével megállapított szöveg.

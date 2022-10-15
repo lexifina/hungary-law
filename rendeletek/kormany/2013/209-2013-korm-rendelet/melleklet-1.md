@@ -1,3 +1,5 @@
-1. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^55]
+1. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^60]
 
-[^55]: Az 1. melléklet a 289/2018. (XII. 21.) Korm. rendelet 25. §-ával megállapított szöveg.
+EURO kibocsátási osztályok szerinti differenciáló tényezők az útdíj mértékének meghatározásához
+
+[^60]: Az 1. melléklet a 289/2018. (XII. 21.) Korm. rendelet 25. §-ával megállapított szöveg.

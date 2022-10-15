@@ -1,5 +1,3 @@
-## EURO kibocsátási osztályok szerinti differenciáló tényezők az útdíj mértékének meghatározásához
-
 |  | A | B | C |
 
 | 1 | környezetvédelmi kategória | J2–J3 díjkategória | J4 díjkategória |
@@ -18,6 +16,6 @@
 
 ## C kategória: EURO I és rosszabb besorolású motorral felszerelt gépjárművek.
 
-2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^56]
+2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^61]
 
-[^56]: A 2. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 232. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^61]: A 2. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 232. § (3) bekezdés b) pontja hatályon kívül helyezte.

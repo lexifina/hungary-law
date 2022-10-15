@@ -1,4 +1,8 @@
-## 29–30. §[^41]
+## 16.[^43]
+
+## 29. §[^44]
+
+## 30. §[^45]
 
 ## V. Fejezet
 
@@ -12,4 +16,6 @@
 
 (3) Az egyeztető szerv illetékessége az ország egész területére kiterjed, véleménye a felekre nézve kötelező erővel nem bír.
 
-[^41]: A 29–30. §-t a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte.
+[^43]: A 16. alcímet a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte.
+[^44]: A 29–30. §-t a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte.
+[^45]: A 29–30. §-t a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte.

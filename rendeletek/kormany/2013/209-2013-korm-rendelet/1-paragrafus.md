@@ -14,7 +14,7 @@ b) az útdíjellenőrzés-támogatói feladatok ellátására, valamint
 
 c) egyetemes útdíjszolgáltatóként
 
-## a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaságot jelöli ki.
+a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaságot jelöli ki.
 
 (3) Az útdíjszedőt a felügyeleti szerv nyilvántartásba veszi.
 

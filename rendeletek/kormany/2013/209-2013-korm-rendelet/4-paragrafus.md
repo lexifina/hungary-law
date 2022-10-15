@@ -8,7 +8,7 @@ a) a díjak nettó összege,
 
 b) általános forgalmi adó
 
-## jogcímeken, infrastruktúra díj és külsőköltség-díj bontásban kell elszámolni és befizetni a központi költségvetésbe.
+jogcímeken, infrastruktúra díj és külsőköltség-díj bontásban kell elszámolni és befizetni a központi költségvetésbe.
 
 (2)[^5] Az útdíjszedő a hozzá a tárgyhónapban az útdíjszolgáltatóktól beérkező útdíjakról a tárgyhónapot követő hónap 25-éig, ha az munkaszüneti napra esik, akkor az azt követő első munkanapig, adatot szolgáltat a miniszternek az (1) bekezdés szerinti bontásban.
 
