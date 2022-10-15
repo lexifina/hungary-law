@@ -1,3 +1,3 @@
-1. melléklet a 25/2013. (V. 31.) NFM rendelethez[^16]
+1. melléklet a 25/2013. (V. 31.) NFM rendelethez[^20]
 
-[^16]: Az 1. melléklet a 61/2021. (XII. 22.) ITM rendelet 1. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet a 19/2022. (IX. 19.) TIM rendelet 1. § (2) bekezdésével megállapított szöveg.
