@@ -1,6 +1,6 @@
-## [Az Áht. 36. § (2) bekezdéséhez][^180]
+## [Az Áht. 36. § (2) bekezdéséhez][^181]
 
-45/A. §[^181] (1) A Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában fel kell tüntetni
+45/A. §[^182] (1) A Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában fel kell tüntetni
 
 a) a kötelezettségvállalás célját,
 
@@ -18,5 +18,5 @@ d) azt a határidőt, amelyen belül az államháztartásért felelős miniszter
 
 (5) Az Áht. 36. § (2) bekezdése szerinti kötelezettség úgy vállalható, hogy az ahhoz kapcsolódó fizetési kötelezettség teljesítésének legkorábbi időpontja az előirányzat-átcsoportosítás (4) bekezdés szerinti időpontjánál későbbi időpontra essen.
 
-[^180]: Az Ávr. 45/A. §-át megelőző alcím címet a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^181]: Az Ávr. 45/A. §-át a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^181]: Az Ávr. 45/A. §-át megelőző alcím címet a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^182]: Az Ávr. 45/A. §-át a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.

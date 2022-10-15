@@ -1,8 +1,8 @@
 60. § (1) A kötelezettségvállaló és a pénzügyi ellenjegyző ugyanazon gazdasági esemény tekintetében azonos személy nem lehet. Az érvényesítő ugyanazon gazdasági esemény tekintetében nem lehet azonos a kötelezettségvállalásra, utalványozásra jogosult és a teljesítést igazoló személlyel.
 
-(2)[^270] Kötelezettségvállalási, pénzügyi ellenjegyzési, érvényesítési, utalványozási és teljesítés igazolására irányuló feladatot nem végezheti az a személy, aki ezt a tevékenységét a Polgári Törvénykönyv szerinti közeli hozzátartozója, vagy maga javára látná el.
+(2)[^271] Kötelezettségvállalási, pénzügyi ellenjegyzési, érvényesítési, utalványozási és teljesítés igazolására irányuló feladatot nem végezheti az a személy, aki ezt a tevékenységét a Polgári Törvénykönyv szerinti közeli hozzátartozója, vagy maga javára látná el.
 
-(3)[^271] A kötelezettséget vállaló szerv a kötelezettségvállalásra, pénzügyi ellenjegyzésre, teljesítés igazolására, érvényesítésre, utalványozásra jogosult személyekről és aláírás-mintájukról – elektronikus aláírás alkalmazása esetén a használt tanúsítványokról és az elektronikus aláíráshoz kapcsolódó tanúsítvány nyilvános adatairól – a belső szabályzatában foglaltak szerint naprakész nyilvántartást vezet.
+(3)[^272] A kötelezettséget vállaló szerv a kötelezettségvállalásra, pénzügyi ellenjegyzésre, teljesítés igazolására, érvényesítésre, utalványozásra jogosult személyekről és aláírás-mintájukról – elektronikus aláírás alkalmazása esetén a használt tanúsítványokról és az elektronikus aláíráshoz kapcsolódó tanúsítvány nyilvános adatairól – a belső szabályzatában foglaltak szerint naprakész nyilvántartást vezet.
 
-[^270]: Az Ávr. 60. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^271]: Az Ávr. 60. § (3) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^271]: Az Ávr. 60. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^272]: Az Ávr. 60. § (3) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.

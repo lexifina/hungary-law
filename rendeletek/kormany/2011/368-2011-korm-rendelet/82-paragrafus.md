@@ -1,3 +1,3 @@
-82. §[^405]
+82. §[^409]
 
-[^405]: Az Ávr. 82. §-át a 116/2021. (III. 10.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^409]: Az Ávr. 82. §-át a 116/2021. (III. 10.) Korm. rendelet 14. §-a hatályon kívül helyezte.
