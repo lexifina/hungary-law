@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-389-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-10-15 | 2022-389-20-22.1 | 389/2022. (X. 14.) Korm. rendelet |
+| 2022-10-16 | 2022-389-20-22.2 | 2010. évi CXXX. törvény |
