@@ -1,1 +1,3 @@
-2. § A 782/2021. (XII. 24.) Korm. rendelet 1. § (1) bekezdésében a „2022. december 31-ig” szövegrész helyébe a „2023. június 30-ig” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
