@@ -1,5 +1,5 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 19/2022. (IX. 19.) TIM rendelethez
+1. melléklet a 19/2022. (IX. 19.) TIM rendelethez[^33]
 
-„1. melléklet a 25/2013. (V. 31.) NFM rendelethez
+[^33]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

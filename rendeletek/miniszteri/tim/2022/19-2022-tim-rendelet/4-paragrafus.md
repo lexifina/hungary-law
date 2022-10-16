@@ -1,27 +1,34 @@
 4. § A Díjrendelet
 
-a)[^10]
+a)[^19]
 
-b)[^11]
+b)[^20]
 
-c)[^12]
+c)[^21]
 
-d) 10. § (2) bekezdésében az „engedélyét” szövegrész helyébe az „engedélyét, valamint személyazonosításra alkalmas okmányát” szöveg,
+d)[^22]
 
-e) 10. § (4) bekezdésében a „díjmentesen” szövegrész helyébe az „az adatszolgáltatás céljának és jogalapjának igazolása nélkül, díjmentesen” szöveg,
+e)[^23]
 
-f) 13. § (1) bekezdésében a „magasabb” szövegrész helyébe a „magasabb vagy azonos árú” szöveg,
+f)[^24]
 
-g) 14. § (3) bekezdésében a „pótdíjkövetelések” szövegrész helyébe a „korábban meg nem fizetett pótdíjak” szöveg,
+g)[^25]
 
-h) 15. § (4) bekezdésében a „pótdíjkövetelések” szövegrész helyébe a „korábban meg nem fizetett pótdíjak” szöveg,
+h)[^26]
 
-i) 18. § (1) bekezdésében az „a 20. §” szövegrész helyébe az „a jogosultság érvényességi ideje alatt, a 20. §” szöveg és
+i)[^27]
 
-j) 19. § (1) bekezdésében az „az értékesítő” szövegrész helyébe az „a NÚSZ Zrt.” szöveg
+j)[^28]
 
 lép.
 
-[^10]: A 4. § a) pontja a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^11]: A 4. § b) pontja a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^12]: A 4. § c) pontja a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^19]: A 4. § a) pontja a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^20]: A 4. § b) pontja a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^21]: A 4. § c) pontja a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^22]: A 4. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 4. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 4. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 4. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 4. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
