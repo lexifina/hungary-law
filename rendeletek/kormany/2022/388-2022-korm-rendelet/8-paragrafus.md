@@ -1,3 +1,3 @@
-8. §[^1]
+8. §[^2]
 
-[^1]: A 8. § a 7. § (2) bekezdés alapján 2022. október 29-én lép hatályba.
+[^2]: A 8. § a 7. § (2) bekezdés alapján 2022. október 29-én lép hatályba.
