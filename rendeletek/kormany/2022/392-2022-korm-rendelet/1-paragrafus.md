@@ -1,0 +1,3 @@
+1. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 53/N. § (1) bekezdésében rögzített, indokolt költségek meghatározására és szabályozására, valamint díjjavaslat elkészítésére vonatkozó alapelveket és keretszabályokat rögzítő rendeletalkotási kötelezettségét első alkalommal, a Ht. 92/K. § (6) bekezdés a) pontjától eltérően, 2022. november 15-ig teljesíti.
+
+(2) A Hivatal a Ht. 53/N. § (2) bekezdése szerinti módszertani útmutató kiadására vonatkozó kötelezettségét első alkalommal, a Ht. 92/K. § (6) bekezdés b) pontjától eltérően, 2022. november 30-ig teljesíti.
