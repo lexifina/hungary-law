@@ -2,7 +2,7 @@ A Kormány a sportinfrastruktúra-fejlesztések megvalósításával összefügg
 
 1.[^1] egyetért a közoktatási célokat is szolgáló, 4000 fő befogadására alkalmas kisvárdai multifunkciós sportcsarnok beruházás (a továbbiakban: Beruházás) előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Kisvárda belterület 924/3 helyrajzi számú ingatlanon azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-2.[^2] a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 6 350 976 061 forintban határozza meg;
+2.[^2] a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 6 943 987 609 forintban határozza meg;
 
 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 34. Kisvárdai Multifunkciós Sportcsarnok előkészítése és megvalósítása alcímmel egészíti ki;
 
@@ -34,6 +34,12 @@ pénzügyminiszter
 
 Határidő: a 2023–2024. évi központi költségvetés tervezése során
 
+5b.[^6] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 2. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
 6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 7. §-a alapján a Beruházási Ügynökség útján gondoskodjon az 1. pontban megjelölt ingatlan tulajdonjogának az állam javára történő ingyenes, per-, teher- és igénymentes megszerzése iránt;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
@@ -46,11 +52,12 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2021. március 31.
 
-8.[^6]
+8.[^7]
 
 [^1]: Az 1. pont az 1044/2022. (II. 4.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^2]: A 2. pont az 1044/2022. (II. 4.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^2]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 32. pontja szerint módosított szöveg.
 [^3]: A 4. pont az 1044/2022. (II. 4.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
 [^4]: Az 5. pont az 1044/2022. (II. 4.) Korm. határozat 1. pontjával megállapított szöveg.
 [^5]: Az 5a. pontot az 1044/2022. (II. 4.) Korm. határozat 2. pontja iktatta be.
-[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5b. pontot az 1492/2022. (X. 19.) Korm. határozat 31. pontja iktatta be.
+[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
