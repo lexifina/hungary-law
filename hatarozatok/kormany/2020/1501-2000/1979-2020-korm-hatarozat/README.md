@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1979-30
 | --- | --- | --- |
 | 2020-12-22 | 2020-1979-30-22.1 | 1979/2020. (XII. 22.) Korm. határozat |
 | 2022-03-08 | 2020-1979-30-22.2 | 1126/2022. (III. 8.) Korm. határozat |
+| 2022-10-19 | 2020-1979-30-22.3 | 1492/2022. (X. 19.) Korm. határozat |
