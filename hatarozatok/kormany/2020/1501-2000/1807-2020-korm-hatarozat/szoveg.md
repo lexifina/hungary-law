@@ -2,7 +2,7 @@ A Kormány a Kézilabda Munkacsarnok-fejlesztési Programmal kapcsolatos intézk
 
 1. egyetért a balassagyarmati kézilabda munkacsarnok (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Balassagyarmat belterület 376/4 helyrajzi számú ingatlanon azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 514 414 548 forintban határozza meg;
+2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 689 327 019 forintban határozza meg;
 
 3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a 2. pont szerinti összeg 2020. évre eső részének finanszírozása érdekében 148 870 172 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások cím, 5. Kézilabda Munkacsarnok-fejlesztések megvalósítása alcímen;
 
@@ -25,3 +25,12 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 pénzügyminiszter
 
 Határidő: a 2022. évi központi költségvetés tervezése során
+
+6.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2023. évi részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
+[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 30. pontja szerint módosított szöveg.
+[^2]: A 6. pontot az 1492/2022. (X. 19.) Korm. határozat 29. pontja iktatta be.
