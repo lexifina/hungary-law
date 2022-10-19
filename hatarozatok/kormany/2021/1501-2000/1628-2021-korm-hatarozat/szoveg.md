@@ -2,7 +2,7 @@ A Magyarország Kormánya és Székesfehérvár Megyei Jogú Város Önkormányz
 
 1. egyetért a Fejér Megyei Szent György Egyetemi Oktató Kórház fejlesztésének előkészítésével és megvalósításával (a továbbiakban: Beruházás) az ingatlan-nyilvántartás szerinti Székesfehérvár belterület 8404 helyrajzi számú ingatlanon azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Fejér Megyei Szent György Egyetemi Oktató Kórház vagyonkezelésébe kerüljenek;
 
-2. a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 11 498 879 149 forintban határozza meg;
+2.[^1] a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 15 169 179 149 forintban határozza meg;
 
 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv1.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet az 56. Fejér Megyei Szent György Egyetemi Oktató Kórház fejlesztésének előkészítése és megvalósítása jogcímcsoporttal egészíti ki;
 
@@ -30,6 +30,12 @@ pénzügyminiszter
 
 Határidő: az a) alpont tekintetében a felmerülés ütemében a b) alpont tekintetében a 2023. évi központi költségvetés tervezése során
 
+5a.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 2. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
 6. egyetért a Beruházáshoz kapcsolódó eszközbeszerzések és légtechnikai felújítások (a továbbiakban: Fejlesztés) Fejér Megyei Szent György Egyetemi Oktató Kórház által történő előkészítésével és megvalósításával, mindösszesen 1 628 519 926 forint összegben;
 
 7. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a Fejlesztés finanszírozásához 2021. évben szükséges 25 207 511 forint forrás biztosításáról a Kvtv1. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím javára;
@@ -55,3 +61,6 @@ Felelős: emberi erőforrások minisztere
 pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
+
+[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 80. pontja szerint módosított szöveg.
+[^2]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 79. pontja iktatta be.
