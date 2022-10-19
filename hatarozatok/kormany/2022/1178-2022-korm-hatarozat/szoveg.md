@@ -1,6 +1,6 @@
 A Kormány
 
-1. felhívja az emberi erőforrások miniszterét, hogy a pénzügyminiszter bevonásával gondoskodjon a Mélykúti Kulturális és Sportközpont kialakításának előkészítésével kapcsolatos feladatok finanszírozásáról szóló 1716/2020. (X. 30.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pontja szerinti beruházás megvalósítása érdekében 2 858 800 703 forint 2023. évi rendelkezésre állásáról a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében;
+1.[^1] felhívja az emberi erőforrások miniszterét, hogy a pénzügyminiszter bevonásával gondoskodjon a Mélykúti Kulturális és Sportközpont kialakításának előkészítésével kapcsolatos feladatok finanszírozásáról szóló 1716/2020. (X. 30.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pontja szerinti beruházás megvalósítása érdekében 3 314 732 177 forint 2023. évi rendelkezésre állásáról a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében;
 
 Felelős: emberi erőforrások minisztere
 
@@ -39,3 +39,5 @@ Határidő: az eredményes feltételes közbeszerzési eljárás lefolytatását
 Felelős: a miniszterelnök általános helyettese
 
 Határidő: az eredményes feltételes közbeszerzési eljárás lefolytatását követő 60 napon belül
+
+[^1]: Az 1. pont az 1492/2022. (X. 19.) Korm. határozat 108. pontja szerint módosított szöveg.
