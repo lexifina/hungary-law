@@ -4,7 +4,7 @@ A Kormány a 21. századi szakképzőintézmény-fejlesztési program végrehajt
 
 2. egyetért azzal, hogy a Fejlesztés során létrejövő vagyonelemek a Miskolci Szakképzési Centrum (a továbbiakban: MSZC) vagyonkezelésébe kerüljenek;
 
-3. a Fejlesztés megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 4 628 473 138 forintban határozza meg;
+3.[^1] a Fejlesztés megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 5 038 274 834 forintban határozza meg;
 
 4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében meghatározott jogkörében eljárva, a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím,
 
@@ -41,3 +41,12 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
+
+7a.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 3. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
+[^1]: A 3. pont az 1492/2022. (X. 19.) Korm. határozat 103. pontja szerint módosított szöveg.
+[^2]: A 7a. pontot az 1492/2022. (X. 19.) Korm. határozat 102. pontja iktatta be.
