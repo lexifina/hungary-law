@@ -58,7 +58,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 6. | 1384/2021. (VI. 15.) Korm. határozat | 6 522 000 000 | 11 977 000 000 | 16 090 000 000 | 2 803 000 000 | 0 | 0 | 0 | 37 392 000 000 |
 
-| 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 11 581 417 091 | 11 581 417 091 | 5 790 708 546 | 0 | 0 | 0 | 44 271 209 239 |
+| 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 11 581 417 091 | 21 031 417 091 | 11 190 708 546 | 5 400 000 000 | 5 400 000 000 | 2 700 000 000 | 72 621 209 239 |
 
 | 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 7 253 212 000 | 11 877 873 000 | 13 843 582 000 | 26 180 525 000 | 25 895 874 000 | 0 | 85 051 066 000 |
 
@@ -71,4 +71,4 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 [^5]: A 3. pont az 1251/2022. (V. 4.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^6]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: Az 5. pontot az 1302/2022. (VI. 22.) Korm. határozat 25. pontja iktatta be.
-[^8]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított, az 1306/2022. (VI. 22.) Korm. határozat szerint módosított szöveg. [Nem vezethető át az 1415/2022. (VIII. 18.) Korm. határozat 5. pontjában foglalt módosítás, mely szerint az 1. mellékletben foglalt táblázat 8. sora a módosító határozatban foglaltak alapján lecserélésre kerül.]
+[^8]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított, az 1306/2022. (VI. 22.) Korm. határozat, az 1495/2022. (X. 19.) Korm. határozat 5. pontja szerint módosított szöveg. [Nem vezethető át az 1415/2022. (VIII. 18.) Korm. határozat 5. pontjában foglalt módosítás, mely szerint az 1. mellékletben foglalt táblázat 8. sora a módosító határozatban foglaltak alapján lecserélésre kerül.]
