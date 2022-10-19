@@ -1,6 +1,6 @@
 ## 1. egyetért az „M3 Business Center” irodaháznak a Budapest Környéki Törvényszék elhelyezését szolgáló fejlesztése (a továbbiakban: Beruházás) kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Budapest belterület 29786 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Budapest Környéki Törvényszék vagyonkezelésébe kerüljenek;
 
-## 2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 10 334 116 886 forintban határozza meg;
+## 2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 11 606 656 886 forintban határozza meg;
 
 ## 3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímnek a 11. A Budapest Környéki Törvényszék elhelyezéséhez szükséges beruházás jogcímcsoporttal, valamint a jogcímcsoporton belül a 2. Beruházás megvalósítás jogcímmel történő kiegészítését;
 
@@ -54,7 +54,15 @@
 
 ## 9. a Beruházási Ügynökség 2019. évi működési költségéhez szükséges forrás biztosításáról szóló 1777/2018. (XII. 21.) Korm. határozat 5. pontjának végrehajtása érdekében az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 151 741 562 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint.
 
+## 10.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2023. évi részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
 1. melléklet az 1541/2019. (IX. 25.) Korm. határozathoz
+
+9K06677_0
 
 | XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2019. forintban |
 
@@ -121,3 +129,6 @@
 |  |  | egyéb: |  | azonnal |  | 1 122 324 000 |  |  |  |  |  |  |  |  |  |  | 1 122 324 000 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 10. pontot az 1492/2022. (X. 19.) Korm. határozat 8. pontja iktatta be.
