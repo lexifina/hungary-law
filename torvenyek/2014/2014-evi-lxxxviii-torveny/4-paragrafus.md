@@ -220,9 +220,9 @@ b) az 1. melléklet A) rész 14. és 15. pontjában meghatározott ágazatba bes
 
 c) az 1. melléklet A) rész 3., 8–10., 13. és 16. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő a következő feltételek határértékei közül legalább kettőt túllép:
 
-ca) a 6,2 millió euró összegű mérlegfőösszeg,
+ca) a 6,6 millió euró összegű mérlegfőösszeg,
 
-cb) a 12,8 millió euró összegű nettó árbevétel,
+cb) a 13,6 millió euró összegű nettó árbevétel,
 
 cc) a pénzügyi év során az átlagos alkalmazotti létszáma eléri vagy meghaladja a 250 főt;
 

@@ -91,5 +91,3 @@ A befektetési politika tartalmi elemei
 7. A releváns alapvető kockázatok ismertetése, a piaci kockázatok közül különösen a kamat-, részvény-devizaárfolyam-, ingatlan-, árukockázat, illetve a likviditási piaci kockázat, a nem piaci kockázatok közül különösen az ország- és politikai kockázat, a hitel- és partnerkockázat és a koncentrációs kockázat
 
 8. Az eszközalap kockázati besorolásának megjelölése a biztosító által kialakított sorrendi skálán
-
-9. Az eszközalap stratégiai eszközallokációja (az egyes befektetési eszközök megcélzott aránya), illetve az attól való eltérés minimális és maximális megengedett aránya, továbbá azok a feltételek, melyek fennállása esetén az eltérés lehetséges
