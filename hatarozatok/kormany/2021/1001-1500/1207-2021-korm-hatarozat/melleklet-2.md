@@ -112,4 +112,4 @@
 
 2. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz[^9]
 
-[^9]: A 2. melléklet az 1867/2021. (XII. 2.) Korm határozat 4. pontjával megállapított, az 1166/2022. (III. 21.) Korm. határozat 3. pont a) alpontja és 4. pont b) alpontja szerint módosított szöveg.
+[^9]: A 2. melléklet az 1867/2021. (XII. 2.) Korm határozat 4. pontjával megállapított, az 1166/2022. (III. 21.) Korm. határozat 3. pont a) alpontja és 4. pont b) alpontja, az 1490/2022. (X. 19.) Korm. határozat 1. pont 1.1. és 1.2. alpontja szerint módosított szöveg.

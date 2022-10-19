@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1207-30
 | 2021-04-30 | 2021-1207-30-22.2 | 2010: CXXX. törvény |
 | 2021-12-02 | 2021-1207-30-22.3 | 1867/2021. (XII. 2.) Korm határozat |
 | 2022-03-21 | 2021-1207-30-22.4 | 1867/2021. (XII. 2.) Korm határozat |
+| 2022-10-19 | 2021-1207-30-22.5 | 1867/2021. (XII. 2.) Korm határozat |

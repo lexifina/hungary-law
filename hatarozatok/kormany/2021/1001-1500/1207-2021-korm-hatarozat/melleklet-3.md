@@ -26,7 +26,7 @@
 
 | 13. | ERFA | 145,57% | 354,39 |
 
-| 14. | Környezeti és Energia-hatékonysági Operatív Program | KA | 123,20% | 1479,28 |
+| 14. | Környezeti és Energia-hatékonysági Operatív Program | KA | 126,45% | 1518,28 |
 
 | 15. | ERFA | 111,90% | 129,66 |
 
@@ -130,7 +130,7 @@
 
 | 44. | Környezeti és Energia-hatékonysági Operatív Program | KEHOP-1 – A klímaváltozás hatásaihoz való alkalmazkodás | 119,31% | 423,39 |
 
-| 45. |  | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és -tisztítás, szennyvízkezelés fejlesztése | 129,63% | 536,40 |
+| 45. |  | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és -tisztítás, szennyvízkezelés fejlesztése | 139,06% | 575,40 |
 
 | 46. | KEHOP-3 – Hulladékgazdálkodással és kármentesítéssel kapcsolatos fejlesztések | 118,03% | 162,47 |
 
@@ -150,4 +150,4 @@
 
 | 54. | Agrárminisztérium | Vidékfejlesztési Program | – | 106,80% | 3142,80 |
 
-[^10]: A 3. mellékletet az 1867/2021. (XII. 2.) Korm határozat 5. pontja iktatta be, szövege az 1166/2022. (III. 21.) Korm. határozat 3. pont b) alpontja és 4. pont c) alpontja szerint módosított szöveg.
+[^10]: A 3. mellékletet az 1867/2021. (XII. 2.) Korm határozat 5. pontja iktatta be, szövege az 1166/2022. (III. 21.) Korm. határozat 3. pont b) alpontja és 4. pont c) alpontja, az 1490/2022. (X. 19.) Korm. határozat 2. pont 2.1. és 2.2. alpontja szerint módosított szöveg.
