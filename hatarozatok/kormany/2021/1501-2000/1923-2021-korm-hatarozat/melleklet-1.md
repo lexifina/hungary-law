@@ -30,7 +30,7 @@
 
 ## Határidő: az 5. pont szerinti forrás rendelkezésre állását követő 45 napon belül
 
-## 7. az 1. melléklet B) pontja szerinti beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 899 371 662 forintban határozza meg;
+## 7.[^1] az 1. melléklet B) pontja szerinti beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 2 847 511 662 forintban határozza meg;
 
 ## 8. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 65. Budapesti Honvéd Sportegyesület kosárlabda öltözőépületének megvalósítása jogcímcsoporttal egészíti ki;
 
@@ -51,6 +51,12 @@
 ## Határidő: az a) alpont tekintetében a felmerülés ütemében
 
 ## a b) alpont tekintetében a 2023. évi központi költségvetés tervezése során
+
+## 9a.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 7. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
 ## 10. felhívja az emberi erőforrások miniszterét, hogy – a honvédelmi miniszter bevonásával – készítsen előterjesztést a Kormány részére a 2. melléklet A) pont 5–9. alpontja szerinti programelemek megvalósításáról;
 
@@ -88,7 +94,7 @@
 
 1. melléklet az 1923/2021. (XII. 20.) Korm. határozathoz
 
-## A Honvéd Város Fejlesztési Program I. ütemébe tartozó beruházások
+A Honvéd Város Fejlesztési Program I. ütemébe tartozó beruházások
 
 A) A Budapesti Honvéd Sportegyesület által előkészítendő és megvalósítandó beruházások
 
@@ -107,3 +113,6 @@ A) A Budapesti Honvéd Sportegyesület által előkészítendő és megvalósít
 7. Dózsa György úti telephely általános rendezése és közműfejlesztése (Budapest 27999 helyrajzi számú, Budapest XIII. kerület, Dózsa György út 53. szám alatti ingatlanon)
 
 B) A Beruházási Ügynökség által megvalósítandó kosárlabda öltözőépület építése (Budapest 27999 helyrajzi számú, Budapest XIII. kerület, Dózsa György út 53. szám alatti ingatlanon)
+
+[^1]: A 7. pont az 1492/2022. (X. 19.) Korm. határozat 95. pontja szerint módosított szöveg.
+[^2]: A 9a. pontot az 1492/2022. (X. 19.) Korm. határozat 94. pontja iktatta be.

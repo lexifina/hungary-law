@@ -1,6 +1,6 @@
 2. melléklet az 1923/2021. (XII. 20.) Korm. határozathoz
 
-## A Honvéd Város Fejlesztési Program II. és III. ütemébe tartozó programelemek
+A Honvéd Város Fejlesztési Program II. és III. ütemébe tartozó programelemek
 
 A) Honvéd Város Fejlesztési Program II. ütem
 
