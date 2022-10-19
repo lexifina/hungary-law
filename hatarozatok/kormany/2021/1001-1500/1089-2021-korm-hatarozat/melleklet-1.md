@@ -4,7 +4,7 @@
 
 ## b)[^1] a Beruházáshoz kapcsolódó egyéb szabadidős és sportcélú, valamint közműfejlesztéseknek (a továbbiakban együtt: Fejlesztések) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Nyíregyháza belterület 1390/1, 1391/1, 1391/3 és 1391/4 helyrajzi számú ingatlanokon;
 
-## 2. a Beruházás és a Fejlesztések előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 19 194 668 659 forintban határozza meg;
+## 2.[^2] a Beruházás és a Fejlesztések előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 23 905 098 659 forintban határozza meg;
 
 ## 3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 36. Nyíregyházi stadion beruházás és a kapcsolódó szabadidős és sportcélú fejlesztések előkészítése és megvalósítása jogcímcsoporttal egészíti ki;
 
@@ -28,7 +28,15 @@
 
 ## Határidő: a 2022–2023. évi központi költségvetés tervezése során
 
+## 5a.[^3] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 2. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
 1. melléklet az 1089/2021. (III. 3.) Korm. határozathoz
+
+1X01344_0
 
 | XLVII. Gazdaságvédelmi Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -79,3 +87,5 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: Az 1. pont b) alpontja az 1688/2021. (IX. 29.) Korm. határozattal megállapított szöveg.
+[^2]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 42. pontja szerint módosított szöveg.
+[^3]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 41. pontja iktatta be.
