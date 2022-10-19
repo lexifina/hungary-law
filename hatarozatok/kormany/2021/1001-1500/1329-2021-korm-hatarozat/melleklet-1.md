@@ -4,7 +4,7 @@
 
 ## b) a Beruházáshoz közvetlenül kapcsolódó egyéb fejlesztéseknek (a továbbiakban: Fejlesztések) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Geszt belterület 240/2 és Geszt külterület 0139 helyrajzi számú ingatlanokon;
 
-## 2. a Beruházás és a Fejlesztések megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 6 990 260 429 forintban határozza meg;
+## 2.[^1] a Beruházás és a Fejlesztések megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 10 999 025 774 forintban határozza meg;
 
 ## 3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 44. A geszti Tisza-kastély rekonstrukciójának megvalósítása jogcímcsoporttal egészíti ki;
 
@@ -30,7 +30,15 @@
 
 ## a 2023. év tekintetében a központi költségvetés tervezése során
 
+## 5a.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 2. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
 1. melléklet az 1329/2021. (V. 31.) Korm. határozathoz
+
+1X04245_0
 
 | XLVII. Gazdaságvédelmi Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -83,3 +91,6 @@
 |  |  | egyéb: |  | azonnal | 645 829 644 |  |  |  |  |  |  |  |  |  | 645 829 644 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 64. pontja szerint módosított szöveg.
+[^2]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 63. pontja iktatta be.
