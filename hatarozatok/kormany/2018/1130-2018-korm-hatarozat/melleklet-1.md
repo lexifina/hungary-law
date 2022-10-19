@@ -2,7 +2,7 @@
 
 ## 2. egyetért azzal, hogy a Beruházás építtetője Berettyóújfalu Város Önkormányzata;
 
-## 3. egyetért azzal, hogy a Beruházás teljes költségigénye – a Nemzeti Fejlesztési Minisztériumot terhelő tranzakciós illetéket és kincstári díjakat is beleértve – 1 262 769 143 forint, melyből a központi költségvetésből mindösszesen legfeljebb 1 072 769 143 forint kerül biztosításra, mellyel összefüggésben
+## 3.[^1] egyetért azzal, hogy a Beruházás teljes költségigénye – a Nemzeti Fejlesztési Minisztériumot terhelő tranzakciós illetéket és kincstári díjakat is beleértve – 1 855 903 669 forint, melyből a központi költségvetésből mindösszesen legfeljebb 1 665 903 669 forint kerül biztosításra, mellyel összefüggésben
 
 ## a) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 300 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 5. Önkormányzatok feladatainak 2016. évi döntés szerinti támogatása I. cím, 5. Berettyóújfalu Város feladatainak támogatása alcím terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 25. Turisztikai fejlesztési célelőirányzat jogcímcsoport javára, az 1. melléklet szerint;
 
@@ -16,7 +16,15 @@
 
 ## a b) alpont tekintetében a 2019. évi központi költségvetés tervezése során
 
+## c) [^2] felhívja a pénzügyminisztert, hogy a belügyminiszter, valamint az építési és beruházási miniszter kezdeményezésére gondoskodjon a 3. pont szerinti összeg rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet javára;
+
+| Felelős: | pénzügyminiszter belügyminiszter építési és beruházási miniszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
 1. melléklet az 1130/2018. (III. 19.) Korm. határozathoz
+
+8K01838_0
 
 | IX. Helyi Önkormányzatok Támogatásai XVII. Nemzeti Fejlesztési Minisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
 
@@ -79,3 +87,6 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1492/2022. (X. 19.) Korm. határozat 7. pont a) és b) pontja szerint módosított szöveg.
+[^2]: A 3. pont c) alpontját az 1492/2022. (X. 19.) Korm. határozat 6. pontja iktatta be.
