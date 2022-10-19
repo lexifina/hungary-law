@@ -1,1 +1,3 @@
-3. § A veszélyhelyzeti átmeneti földgázellátás biztosításáról szóló 388/2022. (X. 14.) Korm. rendelet 4. § (1) bekezdésében a „2022. október 18-ig” szövegrész helyébe a „2022. október 25-ig” szöveg lép.
+3. §[^1]
+
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
