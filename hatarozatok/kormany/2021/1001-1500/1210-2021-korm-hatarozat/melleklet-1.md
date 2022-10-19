@@ -1,6 +1,6 @@
 ## 1. egyetért a biatorbágyi technikum beruházásának (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő további előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Biatorbágy belterület 9571/4 helyrajzi számú ingatlanon;
 
-## 2. a Beruházás további előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 15 431 781 202 forintban határozza meg;
+## 2.[^1] a Beruházás további előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 17 766 309 470 forintban határozza meg;
 
 ## 3. a 2. pont szerinti összeg 2021. évi részének finanszírozása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 1 906 906 200 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
 
@@ -18,6 +18,12 @@
 
 ## Határidő: a 2022–2023. évi központi költségvetés tervezése során
 
+## 4a.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 2. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
 ## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 7. §-a alapján – a Beruházási Ügynökség útján, Biatorbágy Város Önkormányzatával együttműködve – gondoskodjon az 1. pontban megjelölt ingatlan tulajdonjogának az állam javára polgári jogi úton történő ingyenes, per-, teher- és igénymentes megszerzése iránt;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
@@ -33,6 +39,8 @@
 ## Határidő: a Fejlesztéseket célzó feltételes beszerzési eljárást követően 30 napon belül
 
 1. melléklet az 1210/2021. (IV. 29.) Korm. határozathoz
+
+1X02733_0
 
 | XLVII. Gazdaságvédelmi Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -83,3 +91,6 @@
 |  |  | egyéb: |  | azonnal |  | 1 906 906 200 |  |  |  |  |  |  |  |  |  | 1 906 906 200 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 46. pontja szerint módosított szöveg.
+[^2]: A 4a. pontot az 1492/2022. (X. 19.) Korm. határozat 45. pontja iktatta be.
