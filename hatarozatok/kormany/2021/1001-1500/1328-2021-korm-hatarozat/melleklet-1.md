@@ -1,6 +1,6 @@
 ## 1. egyetért a debreceni Német Általános Iskola és Gimnázium épülete felújításának (a továbbiakban: Felújítás) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Debrecen belterület 20171 helyrajzi számú ingatlanon;
 
-## 2. a Felújítás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 307 875 085 forintban határozza meg;
+## 2.[^1] a Felújítás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 477 785 085 forintban határozza meg;
 
 ## 3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 46. A debreceni Német Általános Iskola és Gimnázium épülete felújításának megvalósítása jogcímcsoporttal egészíti ki;
 
@@ -26,7 +26,15 @@
 
 ## 6. egyetért azzal, hogy a debreceni Német Általános Iskola és Gimnázium fenntartója a Magyarországi Németek Általános Művelődési Központja Intézményfenntartó és Működtető Közalapítvány legyen.
 
+## 7.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2023. évi részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
 1. melléklet az 1328/2021. (V. 31.) Korm. határozathoz
+
+1X04243_0
 
 | XLVII. Gazdaságvédelmi Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -77,3 +85,6 @@
 |  |  | egyéb: |  | azonnal | 242 850 262 |  |  |  |  |  |  |  |  |  | 242 850 262 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 62. pontja szerint módosított szöveg.
+[^2]: A 7. pontot az 1492/2022. (X. 19.) Korm. határozat 61. pontja iktatta be.
