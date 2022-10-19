@@ -2,7 +2,7 @@ A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. üte
 
 1. egyetért a budakeszi tanuszoda építésének (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Budakeszi belterület 2415/2 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 321 376 959 forintban határozza meg;
+2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 497 366 959 forintban határozza meg;
 
 3.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2021. évi részének rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások címen belül;
 
@@ -34,6 +34,13 @@ pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-[^1]: A 2. pont az 1126/2022. (III. 8.) Korm. határozat 18. pont a) alpontja szerint módosított szöveg.
+7.[^4] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 2. pont szerinti összeg 2023. évi részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+
+| Felelős: | építési és beruházási miniszter pénzügyminiszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
+[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 38. pontja szerint módosított szöveg.
 [^2]: A 3. pont az 1126/2022. (III. 8.) Korm. határozat 18. pont b) alpontja szerint módosított szöveg.
 [^3]: A 6. pontot az 1126/2022. (III. 8.) Korm. határozat 17. pontja iktatta be.
+[^4]: A 7. pontot az 1492/2022. (X. 19.) Korm. határozat 37. pontja iktatta be.
