@@ -14,21 +14,9 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a forrás rendelkezésre állását követően azonnal
 
-3. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával, az 1. pont a) alpontja szerinti feladat megvalósítása érdekében gondoskodjon 1 604 896 000 forint forrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 1. Közúti fejlesztések jogcím javára;
+3.[^1]
 
-Felelős: pénzügyminiszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: azonnal
-
-4. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával, az 1. pont b) alpontja szerinti feladatok megvalósítása érdekében gondoskodjon 1 659 970 000 forint forrás biztosításáról a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 2. Vasúti fejlesztések jogcím javára;
-
-Felelős: pénzügyminiszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: azonnal
+4.[^2]
 
 5. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1. pont szerinti előkészítési fázisok befejezését követően, a NIF Zrt. útján gondoskodjon a kivitelező kiválasztására irányuló feltételes közbeszerzési eljárás lefolytatásáról, és a kivitelezési ár ismeretében készítsen előterjesztést a Kormány részére a közúti és vasúti infrastruktúra-fejlesztések mielőbbi megvalósítása érdekében;
 
@@ -43,3 +31,6 @@ Határidő: a feltételes közbeszerzési eljárás lefolytatását követően a
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
+
+[^1]: A 3. pontot az 1502/2022. (X. 19.) Korm. határozat 9. pontja visszavonta.
+[^2]: A 4. pontot az 1502/2022. (X. 19.) Korm. határozat 9. pontja visszavonta.
