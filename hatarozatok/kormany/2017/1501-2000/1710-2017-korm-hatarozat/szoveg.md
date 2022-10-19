@@ -1,12 +1,14 @@
 A Kormány a Magyarország Kormánya és Kecskemét Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1131/2016. (III. 10.) Korm. határozat 5. pont a) alpontja megvalósítása céljából
 
-1. egyetért a Kecskeméti Szakképzési Centrum Kada Elek Közgazdasági Szakgimnáziuma fejlesztésével és átköltöztetésével járó programmal (a továbbiakban: fejlesztési program) és azzal, hogy a fejlesztési program – a Modern Városok Program Bizottságnak a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet [a továbbiakban: 250/2016. (VIII. 24.) Korm. rendelet] 4. § (2) bekezdése alapján meghozott jóváhagyó döntése esetén – megvalósítása érdekében legfeljebb 4 999 767 750 forint forrás kerüljön biztosításra Kecskemét Megyei Jogú Város Önkormányzata útján az alábbi ütemezés szerint:
+1.[^1] egyetért a Kecskeméti Szakképzési Centrum Kada Elek Közgazdasági Szakgimnáziuma fejlesztésével és átköltöztetésével járó programmal (a továbbiakban: fejlesztési program) és azzal, hogy a fejlesztési program – a Modern Városok Program Bizottságnak a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet [a továbbiakban: 250/2016. (VIII. 24.) Korm. rendelet] 4. § (2) bekezdése alapján meghozott jóváhagyó döntése esetén – megvalósítása érdekében legfeljebb 5 694 165 129 forint forrás kerüljön biztosításra Kecskemét Megyei Jogú Város Önkormányzata útján az alábbi ütemezés szerint:
 
 a) a 2017. évben 118 110 000 forint,
 
 b) a 2018. évben 1 803 946 100 forint,
 
 c) a 2019. évben 3 077 711 650 forint;
+
+d) [^2] a 2023. évben 694 397 379 forint;
 
 2. felhívja a nemzetgazdasági minisztert mint a fejlesztési program szakpolitikai felelősét, hogy a fejlesztési program támogatásának biztosítása érdekében nyújtson be előterjesztést a teljes projekt megvalósítására vonatkozóan a Modern Városok Program Bizottsága részére;
 
@@ -27,3 +29,13 @@ Határidő: a 2019. évi költségvetés tervezése során
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a támogatói okirat kiadásakor
+
+5.[^3] felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter, valamint az építési és beruházási miniszter kezdeményezésére gondoskodjon az 1. pont d) alpontja szerinti összeg rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XI. Miniszterelnökség fejezet javára.
+
+| Felelős: | pénzügyminiszter Miniszterelnökséget vezető miniszter építési és beruházási miniszter |
+
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
+[^1]: Az 1. pont az 1492/2022. (X. 19.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: Az 1. pont d) alpontját az 1492/2022. (X. 19.) Korm. határozat 3. pontja iktatta be.
+[^3]: Az 5. pontot az 1492/2022. (X. 19.) Korm. határozat 4. pontja iktatta be.
