@@ -50,7 +50,7 @@ j) a lakásvisszaadás, továbbá
 
 k) a lakóingatlanra vonatkozó helyi adó
 
-## költségeihez való hozzájárulás céljából nyújtott juttatás.
+költségeihez való hozzájárulás céljából nyújtott juttatás.
 
 (7)[^43] A lakhatási átalány-költségtérítés és a vegyes átalány-költségtérítés a lakóingatlan átvételének napjától illeti meg az állomány tagját, amelyekre a 12. § szerinti időtartamokra is változatlan összegben jogosult.
 

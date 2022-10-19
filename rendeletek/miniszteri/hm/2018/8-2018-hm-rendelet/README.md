@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-8-20-15
 | 2021-09-29 | 2018-8-20-15.9 | 19/2021. (IX. 21.) HM rendelet |
 | 2022-02-18 | 2018-8-20-15.10 | 4/2022. (II. 17.) HM rendelet |
 | 2022-08-20 | 2018-8-20-15.11 | 7/2022. (IV. 14.) HM rendelet |
+| 2022-10-19 | 2018-8-20-15.12 | 14/2022. (X. 18.) HM rendelet |

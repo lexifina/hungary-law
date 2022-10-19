@@ -1,5 +1,3 @@
-## Az állomány 44. § (3) bekezdése szerinti tagja ellátmányának szorzószámai
-
 |  | A | B |
 
 | 1. | Hivatásos, szerződéses és önkéntes tartalékos katonák (rendszeresített rendfokozat) | Ellátmány szorzószáma |
@@ -39,3 +37,5 @@
 | 18. | legénységi állománycsoport | 1,3 |
 
 6. melléklet a 8/2018. (VI. 22.) HM rendelethez
+
+A külföldi napidíj-kiegészítés nettó összege

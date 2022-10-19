@@ -1,5 +1,3 @@
-## A NATO- és a nemzeti beosztást betöltők, a tartós külföldi szolgálatot teljesítő közalkalmazottak és honvédelmi alkalmazottak, továbbá a tartós külföldi képzésben részt vevők ellátmányalapjának havi nettó összege és élhetőségi indexe országonként
-
 |  | A | B | C | D |
 
 | 1. | Állomáshely szerinti ország | Ellátmányalap összege | Pénznem | Élhetőségi index |
@@ -201,3 +199,5 @@
 | 99. | Vatikán | 1009 | EUR | 5% |
 
 3. melléklet a 8/2018. (VI. 22.) HM rendelethez
+
+A tandíjköltséghez történő hozzájárulás mértéke

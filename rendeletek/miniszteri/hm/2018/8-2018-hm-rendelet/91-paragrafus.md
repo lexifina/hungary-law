@@ -2,27 +2,27 @@
 
 91. § (1) A Hjt. 196. § (2) bekezdése alapján beosztásba helyezett állomány az e rendeletben meghatározott juttatásokra és költségtérítésekre jogosult. A jogosultsági feltételek megállapítását követően részére költségtérítés, illetve a külszolgálati ellátmány részeként kiegészítő juttatás állapítható meg, ha elmarad a betöltött beosztás alapján megállapított havi nettó juttatása, illetve költségtérítése e rendelet szerinti járandóságaitól. A kiegészítő juttatás és költségtérítés megállapításának és folyósításának rendjét a KNBSZ főigazgatója intézkedésben határozza meg.
 
-(2)[^168] Az állomány 2. § (2) bekezdés b) pontja szerinti tagja és a KNBSZ közalkalmazotti vagy honvédelmi alkalmazotti jogviszonyban álló tagja esetében
+(2)[^172] Az állomány 2. § (2) bekezdés b) pontja szerinti tagja és a KNBSZ közalkalmazotti vagy honvédelmi alkalmazotti jogviszonyban álló tagja esetében
 
-1.[^169] a 7. § (3) bekezdése szerinti alapellátmány-kiegészítés összegének megállapításához a 2. mellékletben meghatározott élhetőségi indexnél a KNBSZ főigazgatója intézkedésben magasabb élhetőségi indexet is megállapíthat,
+1.[^173] a 7. § (3) bekezdése szerinti alapellátmány-kiegészítés összegének megállapításához a 2. mellékletben meghatározott élhetőségi indexnél a KNBSZ főigazgatója intézkedésben magasabb élhetőségi indexet is megállapíthat,
 
-1a.[^170] a 14. § (7) bekezdése szerinti igazolást a KNBSZ egészségügyért felelős szervezeti egységének vezetője állítja ki,
+1a.[^174] a 14. § (7) bekezdése szerinti igazolást a KNBSZ egészségügyért felelős szervezeti egységének vezetője állítja ki,
 
 2. a 14. § (1) bekezdés a)–f) pont szerinti utazások esetében a KNBSZ főigazgatója intézkedésben szabályozza az utazási jegy, az utazási átalány-költségtérítés vagy a 61. § és a 64. § szerinti költségtérítési forma alkalmazási rendjét,
 
 3. a 16. § c) pontja szerinti utazási átalány-költségtérítés átutalásának határidejét a KNBSZ főigazgatója határozza meg,
 
-4.[^171] a KNBSZ főigazgatója engedélyezhet a 19. § (4)–(6) bekezdésében foglaltaktól eltérést,
+4.[^175] a KNBSZ főigazgatója engedélyezhet a 19. § (4)–(6) bekezdésében foglaltaktól eltérést,
 
 5. a 20. § (2) bekezdés d) pontja szerinti állomáshelyektől eltérő állomáshelyen történő bútorbeszerzésről a KNBSZ főigazgatója dönt,
 
 6. a berendezett és berendezés nélküli lakhatási átalány-költségtérítés mértékét a 20. § (3) bekezdésétől eltérően a KNBSZ főigazgatója határozza meg,
 
-7.[^172] a 21. § (1) bekezdés c) pontja és 21. § (1a) bekezdése szerinti vegyes átalány-költségtérítés mértékét a KNBSZ főigazgatója a jogos lakásigény mértékén felüli reprezentációs feladatok miatt arányosan, de legfeljebb 25%-os mértékben megemelheti,
+7.[^176] a 21. § (1) bekezdés c) pontja és 21. § (1a) bekezdése szerinti vegyes átalány-költségtérítés mértékét a KNBSZ főigazgatója a jogos lakásigény mértékén felüli reprezentációs feladatok miatt arányosan, de legfeljebb 25%-os mértékben megemelheti,
 
 8. a technikai biztosítás költsége megtérítésének 21. § (2) bekezdés a) pontja szerinti szükségességét a KNBSZ főigazgatója állapítja meg,
 
-9.[^173] a KNBSZ megtéríti a vezetékes telefon bekötésének, valamint a kommunikációs szolgáltatások díját, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
+9.[^177] a KNBSZ megtéríti a vezetékes telefon bekötésének, valamint a kommunikációs szolgáltatások díját, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
 
 10. a 19–26. §-ban foglaltakhoz kapcsolódó eljárásrendet a KNBSZ főigazgatója intézkedésben határozza meg,
 
@@ -32,13 +32,13 @@
 
 13. a 31. § (3) bekezdése szerinti engedélyezési jogkört a KNBSZ főigazgatója gyakorolja,
 
-14.[^174] a tandíjköltséghez történő hozzájárulásról a KNBSZ főigazgatója dönt, valamint engedélyezheti a jóváhagyott összeg előlegként történő kifizetését,
+14.[^178] a tandíjköltséghez történő hozzájárulásról a KNBSZ főigazgatója dönt, valamint engedélyezheti a jóváhagyott összeg előlegként történő kifizetését,
 
-15.[^175] a 35. §-ban foglaltak helyett az ellátmánykölcsön kifizetésének rendjét a KNBSZ főigazgatója határozza meg,
+15.[^179] a 35. §-ban foglaltak helyett az ellátmánykölcsön kifizetésének rendjét a KNBSZ főigazgatója határozza meg,
 
-16.[^176] a 35. § (4) bekezdése nem alkalmazható, azonban a 35. § (1) bekezdése alapján folyósítható ellátmánykölcsön összege nem haladhatja meg a kiküldött kiküldetésének időtartamára összességében folyósított nettó ellátmány 50%-át,
+16.[^180] a 35. § (4) bekezdése nem alkalmazható, azonban a 35. § (1) bekezdése alapján folyósítható ellátmánykölcsön összege nem haladhatja meg a kiküldött kiküldetésének időtartamára összességében folyósított nettó ellátmány 50%-át,
 
-17.[^177] a 37. §-t azzal az eltéréssel kell alkalmazni, hogy a kérelem alapján biztosított utazási kölcsönt a kiutazást megelőző 8 napon belül kell kifizetni, és
+17.[^181] a 37. §-t azzal az eltéréssel kell alkalmazni, hogy a kérelem alapján biztosított utazási kölcsönt a kiutazást megelőző 8 napon belül kell kifizetni, és
 
 18. a gépjárműhasználat és gépjárműbérlés engedélyezésére és elszámolására a 39. § (6) bekezdésétől eltérően a KNBSZ főigazgatójának intézkedését kell alkalmazni.
 
@@ -48,9 +48,9 @@ a) katonai, légügyi, véderő attasék és
 
 b) ezredes vagy alezredes rendszeresített rendfokozatú beosztást betöltő kiküldöttek
 
-## esetében a KNBSZ főigazgatója jelöli ki azon személyi kört, akik reprezentációs feladataik miatt rezidenciai ellátásra jogosultak, és esetükben a 17–21. § helyett a 23–26. §-t kell alkalmazni.
+esetében a KNBSZ főigazgatója jelöli ki azon személyi kört, akik reprezentációs feladataik miatt rezidenciai ellátásra jogosultak, és esetükben a 17–21. § helyett a 23–26. §-t kell alkalmazni.
 
-(4)[^178] Az 1. melléklet alapján
+(4)[^182] Az 1. melléklet alapján
 
 a) a katonai, légügyi, véderő attasék ellátmányát a dandártábornoki rendszeresített rendfokozatú,
 
@@ -62,14 +62,14 @@ d) az altiszti titkárok ellátmányát a törzszászlósi rendszeresített rend
 
 beosztáshoz tartozó szorzószám alapján kell megállapítani.
 
-[^168]: A 91. § (2) bekezdés nyitó szövegrésze a 2/2019. (I. 31.) HM rendelet 37. § 33. pontja szerint módosított szöveg.
-[^169]: A 91. § (2) bekezdés 1. pontja a 17/2020. (XII. 12.) HM rendelet 46. § (1) bekezdésével megállapított szöveg.
-[^170]: A 91. § (2) bekezdés 1a. pontját a 17/2020. (XII. 12.) HM rendelet 46. § (2) bekezdése iktatta be.
-[^171]: A 91. § (2) bekezdés 4. pontja a 2/2019. (I. 31.) HM rendelet 37. § 34. pontja szerint módosított szöveg.
-[^172]: A 91. § (2) bekezdés 7. pontja a 2/2019. (I. 31.) HM rendelet 37. § 35. pontja szerint módosított szöveg.
-[^173]: A 91. § (2) bekezdés 9. pontja a 2/2019. (I. 31.) HM rendelet 37. § 36. pontja szerint módosított szöveg.
-[^174]: A 91. § (2) bekezdés 14. pontja a 17/2020. (XII. 12.) HM rendelet 46. § (3) bekezdésével megállapított szöveg.
-[^175]: A 91. § (2) bekezdés 15. pontja a 19/2021. (IX. 21.) HM rendelet 12. § d) pontja szerint módosított szöveg.
-[^176]: A 91. § (2) bekezdés 16. pontja a 2/2019. (I. 31.) HM rendelet 33. §-ával megállapított, a 19/2021. (IX. 21.) HM rendelet 12. § d) pontja szerint módosított szöveg.
-[^177]: A 91. § (2) bekezdés 17. pontja a 19/2021. (IX. 21.) HM rendelet 10. §-ával megállapított szöveg.
-[^178]: A 91. § (4) bekezdését a 2/2019. (I. 31.) HM rendelet 34. §-a iktatta be.
+[^172]: A 91. § (2) bekezdés nyitó szövegrésze a 2/2019. (I. 31.) HM rendelet 37. § 33. pontja szerint módosított szöveg.
+[^173]: A 91. § (2) bekezdés 1. pontja a 17/2020. (XII. 12.) HM rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^174]: A 91. § (2) bekezdés 1a. pontját a 17/2020. (XII. 12.) HM rendelet 46. § (2) bekezdése iktatta be.
+[^175]: A 91. § (2) bekezdés 4. pontja a 2/2019. (I. 31.) HM rendelet 37. § 34. pontja szerint módosított szöveg.
+[^176]: A 91. § (2) bekezdés 7. pontja a 2/2019. (I. 31.) HM rendelet 37. § 35. pontja szerint módosított szöveg.
+[^177]: A 91. § (2) bekezdés 9. pontja a 2/2019. (I. 31.) HM rendelet 37. § 36. pontja szerint módosított szöveg.
+[^178]: A 91. § (2) bekezdés 14. pontja a 17/2020. (XII. 12.) HM rendelet 46. § (3) bekezdésével megállapított szöveg.
+[^179]: A 91. § (2) bekezdés 15. pontja a 19/2021. (IX. 21.) HM rendelet 12. § d) pontja szerint módosított szöveg.
+[^180]: A 91. § (2) bekezdés 16. pontja a 2/2019. (I. 31.) HM rendelet 33. §-ával megállapított, a 19/2021. (IX. 21.) HM rendelet 12. § d) pontja szerint módosított szöveg.
+[^181]: A 91. § (2) bekezdés 17. pontja a 19/2021. (IX. 21.) HM rendelet 10. §-ával megállapított szöveg.
+[^182]: A 91. § (4) bekezdését a 2/2019. (I. 31.) HM rendelet 34. §-a iktatta be.

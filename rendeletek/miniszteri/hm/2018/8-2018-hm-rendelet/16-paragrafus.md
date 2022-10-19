@@ -10,6 +10,8 @@ d)[^33] a 14. § (1) bekezdés g) pontja esetén a hozzátartozó állomáshelyr
 
 e)[^34] a 14. § (2a) bekezdése esetén legkésőbb az állomány tagja kérelmének beérkezését követő 15. napig
 
+forintban kell átutalni az állomány tagja részére.
+
 [^32]: A 16. § c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 8. pontja szerint módosított szöveg.
 [^33]: A 16. § d) pontja a 2/2019. (I. 31.) HM rendelet 37. § 9. pontja szerint módosított szöveg.
 [^34]: A 16. § e) pontját a 2/2019. (I. 31.) HM rendelet 10. §-a iktatta be.

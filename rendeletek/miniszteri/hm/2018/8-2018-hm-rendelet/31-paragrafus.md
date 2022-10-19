@@ -8,7 +8,7 @@ a)[^59] az Ebtv. szerinti visszatérítést követően haladéktalanul, de legk�
 
 b) a visszatérítés végleges elmaradása esetén az elszámolás sikertelenségére vonatkozó írásos értesítés kézhezvételétől számított 30 napon belül
 
-## egy összegben köteles visszafizetni.
+egy összegben köteles visszafizetni.
 
 (3)[^60] Ha a (2) bekezdés b) pontja szerint visszafizetendő összeg meghaladja az állomány tagja havi nettó ellátmányának 25%-át, az állomány tagja írásbeli kérelmére az engedélyező elöljáró a kölcsön visszafizetését 6 havi részletben, de legfeljebb a külföldi szolgálat befejezéséig engedélyezheti.
 
@@ -18,7 +18,7 @@ a) az állomáshely végleges elhagyása előtt egy összegben, vagy
 
 b) belföldön legkésőbb a külföldi szolgálat befejezésétől számított 30 napon belül forintban
 
-## köteles visszafizetni. Ha a fennálló tartozás kiegyenlítése az előírt határidőn belül nem történik meg, akkor a Honvédség a késedelmes napokra a Polgári Törvénykönyvről szóló törvény szerinti kamatot számít fel. A kölcsönből fennmaradó tartozás visszafizetésére a kiküldő kedvezőbb feltételeket akkor állapíthat meg, ha a külföldi szolgálat az állomány tagja önhibáján kívüli okból fejeződött be idő előtt.
+köteles visszafizetni. Ha a fennálló tartozás kiegyenlítése az előírt határidőn belül nem történik meg, akkor a Honvédség a késedelmes napokra a Polgári Törvénykönyvről szóló törvény szerinti kamatot számít fel. A kölcsönből fennmaradó tartozás visszafizetésére a kiküldő kedvezőbb feltételeket akkor állapíthat meg, ha a külföldi szolgálat az állomány tagja önhibáján kívüli okból fejeződött be idő előtt.
 
 (5) A Honvédség természetben biztosítja az állomány tagja és a családi átalány-költségtérítésre jogosító hozzátartozója részére az állomáshelyre kötelezően előírt védőoltásokat, vagy ennek hiányában megtéríti azok költségét.
 

@@ -1,5 +1,3 @@
-## A külföldi napidíj-kiegészítés nettó összege
-
 |  | A | B | C | D |
 
 | 1. | Rendszeresített rendfokozat | UNIFIL (Libanon) | MINURSO (Nyugat-Szahara) | MINUSCA (Közép-afrikai Köztársaság) |
@@ -12,6 +10,8 @@
 
 | 5. | altiszti és legénységi állománycsoport | 10,0 USD | 39,0 USD | 30,0 USD |
 
-7. melléklet a 8/2018. (VI. 22.) HM rendelethez[^194]
+7. melléklet a 8/2018. (VI. 22.) HM rendelethez[^200]
 
-[^194]: A 7. melléklet a 2/2019. (I. 31.) HM rendelet 38. § c) pontjával megállapított, a 7/2022. (IV. 14.) HM rendelet 35. §-a szerint módosított szöveg.
+A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak mértéke
+
+[^200]: A 7. melléklet a 2/2019. (I. 31.) HM rendelet 38. § c) pontjával megállapított, a 7/2022. (IV. 14.) HM rendelet 35. §-a szerint módosított szöveg.

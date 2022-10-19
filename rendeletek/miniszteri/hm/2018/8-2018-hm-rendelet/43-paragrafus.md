@@ -10,7 +10,7 @@ a)[^92] az EU-beosztást betöltő állomáshelye, a beosztásához rendszeresí
 
 b) az EU által az EU-beosztást betöltő részére folyósított rendszeres juttatások 1 hónapra számított együttes nettó összege
 
-## különbözetének erejéig nyújtható.
+különbözetének erejéig nyújtható.
 
 (5) A (4) bekezdés alkalmazásában a (4) bekezdés b) pontja szerinti juttatások közül a napi mértékben rögzített juttatásokat 30 napos hónappal számítva kell figyelembe venni.
 

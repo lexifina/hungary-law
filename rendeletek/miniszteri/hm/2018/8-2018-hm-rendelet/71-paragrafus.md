@@ -11,3 +11,5 @@ d) a külföldi bankszámlanyitás, -vezetés, -tranzakció miatt felmerülő,
 e) a tanszer, az írószer beszerzésével kapcsolatos és
 
 f) a mosatási és a személyi higiéniai
+
+kiadásokat.

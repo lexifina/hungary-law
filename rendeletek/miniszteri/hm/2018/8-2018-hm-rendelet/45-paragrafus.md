@@ -12,7 +12,7 @@ a) a felszámítási alap és a biztonsági körülményekhez igazodó szorzósz
 
 b) a felszámítási alap és az éghajlati viszonyokhoz igazodó szorzószám szorzatának
 
-## együttes összege. A szorzószámokat a 4. melléklet „II. Az alapellátmány-kiegészítés havi mértékének szorzószáma” táblázata határozza meg.
+együttes összege. A szorzószámokat a 4. melléklet „II. Az alapellátmány-kiegészítés havi mértékének szorzószáma” táblázata határozza meg.
 
 (5) A (4) bekezdés a) pontja szerinti biztonsági körülmények megítélése során a belpolitikai viszonyokat, a terror-fenyegetettség szintjét, a ténylegesen kifejtett tevékenység jellegét, a térségben a felfegyverzettség arányát, valamint az anyagi és a személyi sérülések kockázatát kell figyelembe venni.
 

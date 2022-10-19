@@ -1,5 +1,3 @@
-## A NATO- és a nemzeti beosztást betöltők, továbbá a tartós külföldi szolgálatot teljesítő közalkalmazottak és honvédelmi alkalmazottak ellátmánya szorzószámainak mértéke
-
 |  | A | B | C |
 
 | 1. | Hivatásos, szerződéses és önkéntes tartalékos katonák (rendszeresített rendfokozat) | Közalkalmazottak és honvédelmi alkalmazottak (beosztás, fizetési osztály / fizetési fokozat, vezetői megbízás) | Ellátmány szorzószáma |
@@ -32,6 +30,8 @@
 
 | 15. | legénységi állománycsoport | „A”–„B” fizetési osztály | 1,3 |
 
-2. melléklet a 8/2018. (VI. 22.) HM rendelethez[^193]
+2. melléklet a 8/2018. (VI. 22.) HM rendelethez[^199]
 
-[^193]: A 2. melléklet a 2/2019. (I. 31.) HM rendelet 37. § 37. pontja és 38. § b) pontja, a 19/2021. (IX. 21.) HM rendelet 11. §-a szerint módosított szöveg.
+A NATO- és a nemzeti beosztást betöltők, a tartós külföldi szolgálatot teljesítő közalkalmazottak és honvédelmi alkalmazottak, továbbá a tartós külföldi képzésben részt vevők ellátmányalapjának havi nettó összege és élhetőségi indexe országonként
+
+[^199]: A 2. melléklet a 2/2019. (I. 31.) HM rendelet 37. § 37. pontja és 38. § b) pontja, a 19/2021. (IX. 21.) HM rendelet 11. §-a szerint módosított szöveg.

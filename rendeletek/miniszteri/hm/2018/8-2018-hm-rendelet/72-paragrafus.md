@@ -8,7 +8,7 @@ a) a fogadó fél által rendelkezésre bocsátott szálláson, vagy
 
 b) az illetékes logisztikai ellátó szerv által bérelt lakóingatlanban
 
-## kell biztosítani.
+kell biztosítani.
 
 (2) A Honvédség megtéríti
 

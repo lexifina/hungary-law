@@ -1,5 +1,3 @@
-## A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak mértéke
-
 |  | A | B | C | D | E |
 
 | 1. | Hivatásos és szerződéses katonák (a képzés megkezdése előtti beosztáshoz rendszeresített rendfokozat) a honvéd tisztjelöltek kivételével | Közalkalmazottak és honvédelmi alkalmazottak (a képzés megkezdése előtti beosztás, fizetési osztály, vezetői megbízás) | Honvéd tisztjelöltek (évfolyamnak megfelelő viselt rendfokozat) és honvéd altiszt-jelöltek | Kormány-tisztviselők (a képzés megkezdése előtti besorolási fokozat) | Ellátmány szorzószáma |
@@ -44,9 +42,9 @@
 
 | 21. |  |  |  |  |  |
 
-8. melléklet a 8/2018. (VI. 22.) HM rendelethez[^195]
+8. melléklet a 8/2018. (VI. 22.) HM rendelethez[^201]
 
-## Az állomány ideiglenes külföldi szolgálatot teljesítő és ideiglenes külföldi képzésben részt vevő tagjai külföldi napidíjához tartozó kategóriák országonként
+Az állomány ideiglenes külföldi szolgálatot teljesítő és ideiglenes külföldi képzésben részt vevő tagjai külföldi napidíjához tartozó kategóriák országonként
 
 I. Az I. kategóriába tartozó országok
 
@@ -192,4 +190,4 @@ II. A II. kategóriába tartozó országok
 
 III. A III. kategóriába tartozó országok
 
-[^195]: A 8. melléklet a 2/2019. (I. 31.) HM rendelet 38. § d) pontjával megállapított szöveg.
+[^201]: A 8. melléklet a 2/2019. (I. 31.) HM rendelet 38. § d) pontjával megállapított szöveg.

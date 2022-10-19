@@ -6,7 +6,7 @@ b) az a) pontba nem tartozó országokban történő szolgálatteljesítés eset
 
 c) az a) és a b) ponttól eltérően a 14. § (1) bekezdés b) pontja szerinti utazás esetén a vezénylő külföldi szervezet által meghatározott utazási jegyet, ennek hiányában a b) pont szerinti repülőjegyet
 
-## biztosít. Az utazási jegy nem ruházható át más személyre, továbbá a jogosultságok a naptári évek között nem csoportosíthatók át és nem halmozhatók.
+biztosít. Az utazási jegy nem ruházható át más személyre, továbbá a jogosultságok a naptári évek között nem csoportosíthatók át és nem halmozhatók.
 
 (1a)[^31] Utazási jegy igénybevétele esetén a helyi közlekedés költsége – így különösen a tömegközlekedési eszköz, a reptéri transzfer, a taxi igénybevételének költsége – az engedélyező elöljáró engedélyével számolható el.
 

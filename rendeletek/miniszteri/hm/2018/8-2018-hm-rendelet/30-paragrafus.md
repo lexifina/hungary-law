@@ -1,5 +1,3 @@
-## jogosult.
-
 ## 15. Egyes juttatások kifizetésének szabályai
 
 30. § (1)[^55] A tárgyhavi külszolgálati ellátmányt és átalány-költségtérítést

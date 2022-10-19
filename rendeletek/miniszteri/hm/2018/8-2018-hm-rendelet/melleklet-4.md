@@ -1,5 +1,3 @@
-## A tandíjköltséghez történő hozzájárulás mértéke
-
 |  | A | B | C | D | E | F | G | H |
 
 | 1. | Tandíj- költség mértéke | 1 gyermek esetében | 2 gyermek esetében | 3 vagy több gyermek esetében | Fogyatékos gyermek esetében |
@@ -14,7 +12,7 @@
 
 4. melléklet a 8/2018. (VI. 22.) HM rendelethez
 
-## A béketámogató művelet keretében külföldi szolgálatot teljesítők ellátmányának havi mértéke (a felszámítási alap szorzatában meghatározva)
+A béketámogató művelet keretében külföldi szolgálatot teljesítők ellátmányának havi mértéke (a felszámítási alap szorzatában meghatározva)
 
 I. Az alapellátmány havi mértékének szorzószáma
 

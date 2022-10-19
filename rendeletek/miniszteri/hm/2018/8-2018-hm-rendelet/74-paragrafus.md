@@ -1,5 +1,3 @@
-## 73. §[^124]
-
 ## 42. Egyéb juttatások
 
 74. § (1) Az állomány tagja a tartós külföldi képzés keretében felmerülő – harmadik országba irányuló – kötelező tanulmányi út esetén annak időtartamára a 28. § (1) bekezdés b) és d) pontja, valamint a 28. § (2) bekezdése szerinti feltételekkel költségtérítésre jogosult, ha a fogadó fél azt nem téríti meg, vagy természetben nem biztosítja.
@@ -20,7 +18,7 @@ cc) a 24 hónapot meghaladó, de legfeljebb 36 hónapig terjedő képzés eseté
 
 cd) a 36 hónapot meghaladó képzés esetén összesen 4 alkalommal
 
-## jogosult.
+jogosult.
 
 (3) A (2) bekezdés c) pontja szerinti utazási átalány-költségtérítést az állomány tagja írásbeli kérelmére az illetékes pénzügyi ellátó szerv a kérelem beérkezését követő 15. napig utalja át az állomány tagja részére.
 
@@ -38,6 +36,5 @@ cd) a 36 hónapot meghaladó képzés esetén összesen 4 alkalommal
 
 (10) A (2) bekezdés a) pontja szerinti költségtérítés igénybevétele esetén az állomány tagja az így megtérített eszközöket köteles a képzés befejezését követően az illetékes logisztikai ellátó szerv részére átadni.
 
-[^124]: A 73. §-t a 2/2019. (I. 31.) HM rendelet 39. § i) pontja hatályon kívül helyezte.
 [^125]: A 74. § (4) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 20. pontja szerint módosított szöveg.
 [^126]: A 74. § (7) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 19. pontja szerint módosított szöveg.

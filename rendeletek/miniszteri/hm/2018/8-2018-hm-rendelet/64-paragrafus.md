@@ -6,7 +6,7 @@ a) az Szja. törvény 3. számú melléklet II. pont 6. alpontja szerinti igazol
 
 b) a parkolás, az autópályadíj és a gépjárműmosatás költsége
 
-## fizethető ki.
+fizethető ki.
 
 (3) A (2) bekezdés a) pontja szerinti összeg kiszámítása során az üzemanyag-felhasználás mértékének megállapításához a kiutazás előtt meg kell határozni a szolgálati utazás tervezett hosszát.
 

@@ -1,5 +1,3 @@
-## forintban kell átutalni az állomány tagja részére.
-
 ## 10. Szállítási költségek
 
 17. § (1) Az állomány tagja önállóan gondoskodik

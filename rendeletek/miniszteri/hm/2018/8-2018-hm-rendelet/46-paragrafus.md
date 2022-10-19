@@ -4,7 +4,7 @@ a) a szolgálati érdekből történő ideiglenes hazarendelés és a kiküldet�
 
 b) az adott béketámogató művelet Egységes Műveleti Szabályaiban foglaltak alapján biztosított műveleti szabadnapok igénybevételének
 
-## időtartamát.
+időtartamát.
 
 (1a)[^96] Az állomány tagja az egészségügyi szabadsága időtartamára, de legfeljebb az egészségügyi szabadság 90. napjáig, az állomáshelyen tartózkodása alatt az ellátmány 80%-ára jogosult. Az egészségügyi szabadság 90. napját követő időre az állomány tagja ellátmányának folyósítását meg kell szüntetni.
 

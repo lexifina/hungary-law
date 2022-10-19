@@ -6,7 +6,7 @@ a) a külföldi tartózkodás várható időtartamával arányos külföldi napi
 
 b) az ideiglenes külföldi szolgálat során várhatóan felmerülő, e Fejezet szerinti költségek megelőlegezése céljából utazási előlegre
 
-## jogosult.
+jogosult.
 
 (2) Az (1) bekezdés szerint felvett összeget az utazás elmaradása esetén, az erről való értesítéstől számított 10 napon belül kell a Honvédségnek visszafizetni.
 

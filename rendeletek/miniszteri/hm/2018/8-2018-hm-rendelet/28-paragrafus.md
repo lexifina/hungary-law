@@ -10,7 +10,7 @@ d)[^50] ha a kiküldetés alatt az étkezést meghatározott helyen és összegb
 
 e)[^51] – ha a részére elrendelt karantén miatt az étkezést meghatározott helyen tudja csak igénybe venni – az engedélyező elöljáró engedélye alapján étkezési költségeinek megtérítésére
 
-## jogosult.
+jogosult.
 
 (2)[^52] Az (1) bekezdés b) pontjának alkalmazása során a 67. § (1) bekezdés b) pontja szerinti – devizában történő folyósítás esetén legalább 100 EUR vagy annak megfelelő összegű – utazási kölcsön nyújtása, valamint annak 67. § (2)–(5) bekezdése szerinti visszafizetése az állomány tagja bankszámlájára történő átutalással, valamint onnan történő visszautalással valósulhat meg.
 

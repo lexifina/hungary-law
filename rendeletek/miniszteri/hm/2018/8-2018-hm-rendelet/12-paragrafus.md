@@ -10,7 +10,7 @@ c) a Hjt. 108. §-a szerinti szolgálatmentesség ideje és
 
 d) a műveleti szabadnapok időtartama
 
-## alatt.
+alatt.
 
 (2) Az állomány tagja az egészségügyi szabadsága időtartamára, de legfeljebb 90 napig
 
@@ -18,7 +18,7 @@ a)[^23] az állomáshelyen tartózkodása alatt az ellátmány 100%-ára,
 
 b)[^24] a belföldi tartózkodása alatt az ellátmány 50%-ára
 
-## jogosult.
+jogosult.
 
 (3)[^25] Az egészségügyi szabadság 90. napját követő időre az állomány tagja ellátmányának folyósítását meg kell szüntetni. Ettől eltérően, ha az állomány tagja nincs szállítható állapotban, akkor az egészségügyi szabadság 90. napját meghaladóan az állomáshelyen töltött időre, de legfeljebb hazaszállításáig az ellátmány 50%-a illeti meg.
 
