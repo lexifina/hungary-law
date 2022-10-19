@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2022-01-08 | 2016-8-20-6N.32 | 1/2022. (I. 7.) MvM rendelet |
 | 2022-01-22 | 2016-8-20-6N.33 | 2/2022. (I. 21.) MvM rendelet |
 | 2022-03-31 | 2016-8-20-6N.34 | 6/2022. (III. 30.) MvM rendelet |
+| 2022-10-19 | 2016-8-20-6N.35 | 17/2022. (X. 18.) MVM rendelet |

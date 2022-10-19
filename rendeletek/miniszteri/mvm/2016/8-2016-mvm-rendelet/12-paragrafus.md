@@ -1,5 +1,3 @@
-## 11. §
-
 ## 8. A kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás
 
 12. § (1) A kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.

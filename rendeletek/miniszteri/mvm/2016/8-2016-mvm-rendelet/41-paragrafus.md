@@ -1,5 +1,3 @@
-## kell levonni az elszámolható költségekből.
-
 ## IV. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

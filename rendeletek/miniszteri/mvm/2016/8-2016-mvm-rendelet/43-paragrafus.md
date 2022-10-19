@@ -10,4 +10,8 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 d) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.), és
 
-e) az Európai Bizottság SA.34770 (2012/N-2). számú határozata
+e)[^78] az Európai Bizottság SA.46515 (2016/N) és az SA.59053 (2020/N) számú határozata
+
+hatálya alá tartozó támogatást tartalmaz.
+
+[^78]: A 43. § e) pontja a 17/2022. (X. 18.) MVM rendelet 10. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@ b) középvállalkozásnak nyújtott támogatás esetén 10 százalékponttal,
 
 c) kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal
 
-## növelhető.
+növelhető.
 
 (3) A támogatási intenzitás legfeljebb az elszámolható költségek 70%-áig növelhető.
 
@@ -18,12 +18,15 @@ c) kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal
 
 a) az oktatók személyi jellegű ráfordítása, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
 
-b) az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (például útiköltség, közvetlenül a projekthez kapcsolódó anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
+b)[^29] az oktatók és a képzésben részt vevők közvetlenül a képzési projekthez kapcsolódó működési költsége (különösen a közvetlenül a projekthez kapcsolódó útiköltség, szállásköltség, anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
 
 c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
 d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (például adminisztrációs költségek, bérleti díj, rezsi költségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen,
 
-e) a képzésben résztvevő megváltozott munkaképességű munkavállalók minimálisan szükséges szállásköltsége.
+e)[^30]
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
+
+[^29]: A 22. § (4) bekezdés b) pontja a 17/2022. (X. 18.) MVM rendelet 8. §-ával megállapított szöveg.
+[^30]: A 22. § (4) bekezdés e) pontját a 17/2022. (X. 18.) MVM rendelet 13. §-a hatályon kívül helyezte.
