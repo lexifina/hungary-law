@@ -1,3 +1,3 @@
-2. § Az R. 87. §-a a következő (3) bekezdéssel egészül ki:
+2. §[^3]
 
-„(3) A tartós külszolgálatot teljesítő kormánytisztviselőnek a 33. § c) pontja szerinti utazási költségeit a HM rendelet1 honvédelmi alkalmazottak belföldi szolgálati kiküldetésére vonatkozó szabályai szerint kell megtéríteni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
