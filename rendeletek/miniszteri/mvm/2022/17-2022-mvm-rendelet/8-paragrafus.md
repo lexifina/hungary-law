@@ -1,3 +1,3 @@
-8. § Az R. 22. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(A támogatás keretében elszámolható)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
