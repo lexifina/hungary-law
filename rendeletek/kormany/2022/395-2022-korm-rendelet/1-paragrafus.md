@@ -1,0 +1,1 @@
+1. § A Kormány megállapítja, hogy a 2022. február 24. napján kitört ukrán–orosz háború előre nem látható, elháríthatatlan külső ok miatt kialakult hátrányos gazdasági következményei az államháztartás védelme érdekében szükségessé teszik egyes, a 2. §-ban megjelölt szervezetek meghatározott magánjogi jogviszonyainak újraértékelését.
