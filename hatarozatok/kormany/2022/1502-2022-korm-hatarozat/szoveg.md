@@ -64,4 +64,6 @@ e) a vasúti fejlesztési feladatokra a 2024. évi központi költségvetés Ép
 
 8. egyetért az 1. pont 1.7. alpontjában foglalt vasúti infrastruktúra-fejlesztések megvalósítása érdekében tervezésre és kivitelezésre együttesen irányuló közbeszerzés indításával;
 
-9. visszavonja az 1381/2021. (VI. 15.) Korm. határozat 3. és 4. pontját.
+9.[^1]
+
+[^1]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
