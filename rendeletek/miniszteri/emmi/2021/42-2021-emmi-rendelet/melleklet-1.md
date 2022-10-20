@@ -1,8 +1,6 @@
-## 8. §[^2]
-
 1. melléklet a 42/2021. (IX. 28.) EMMI rendelethez
 
-## Nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
+Nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
 
 1. Az Emberi Erőforrások Minisztériuma hivatali szervezete
 
@@ -46,87 +44,19 @@
 
 2. Központi hivatalok
 
-2.1. Az Oktatási Hivatalnál
+2.1.[^4]
 
-2.1.1. a minősített érettségi vizsgadokumentumok kezelését ellátó álláshely,
+2.2.[^5]
 
-2.1.2. a közbeszerzési eljárásban részt vevő álláshely,
+2.3.[^6]
 
-2.1.3. a projektmenedzsment feladatok ellátásáért felelős vezetői álláshely,
+2.4.[^7]
 
-2.1.4. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős álláshely.
+2.5.[^8]
 
-2.2. A Klebelsberg Központnál
+2.6.[^9]
 
-2.2.1. az elnöki kabinet valamennyi álláshelye,
-
-2.2.2. a főosztályvezető,
-
-2.2.3. a kiadmányozási joggal rendelkező osztályvezető,
-
-2.2.4. a beszerzési és közbeszerzési feladatokat ellátó szervezeti egység vezetője,
-
-2.2.5. a projektmenedzser álláshely,
-
-2.2.6. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
-
-2.3. A Nemzeti Népegészségügyi Központnál
-
-2.3.1. a gyorsreagálási, a humánpolitikai, az igazgatási és a járványügyi feladatokat ellátó szervezeti egység vezetője,
-
-2.3.2. a közbeszerzési feladatokat ellátó szervezeti egység vezetője,
-
-2.3.3. a Nemzeti Biztonsági Laboratórium BSL3-as és BSL4-es kockázati csoportba sorolt területein önálló munkavégzésre jogosult személy,
-
-2.3.4. az Országos Sugáregészségügyi Készenléti Szolgálat feladatainak ellátását szolgáló álláshely,
-
-2.3.5. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
-
-2.4. A Nemzeti Egészségbiztosítási Alapkezelőnél
-
-2.4.1. a főosztályvezető,
-
-2.4.2. a közbeszerzési ügyintézői feladatok ellátását szolgáló álláshely,
-
-2.4.3. az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
-
-2.5. Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél
-
-2.5.1. a Gyógyszer-engedélyezési és Módszertani Főigazgatóság valamennyi főosztályvezetője,
-
-2.5.2. az Ellenőrzési Főigazgatóság valamennyi főosztályvezetője,
-
-2.5.3. a Laboratóriumi Főosztály vezetője,
-
-2.5.4. a Gyógyszerkémiai és Technológiai Laboratórium valamennyi álláshelye,
-
-2.5.5. a közbeszerzési eljárások lebonyolítását végző szervezeti egység vezetője, valamint a közbeszerzési ügyintézői feladatok ellátását szolgáló álláshely,
-
-2.5.6. a pályázatkezelő, projektkezelő feladatokat ellátó szervezeti egység vezetője,
-
-2.5.7. az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
-
-2.6. A Szociális és Gyermekvédelmi Főigazgatóságnál
-
-2.6.1. az igazgató,
-
-2.6.2. a közbeszerzési eljárások lebonyolítását végző szervezeti egység vezetője,
-
-2.6.3. az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
-
-2.7.[^3] Az Országos Kórházi Főigazgatóságnál
-
-2.7.1. a főigazgatói hivatalvezető,
-
-2.7.2. az igazgató,
-
-2.7.3. a főigazgatói titkárság vezetője,
-
-2.7.4. a humánerőforrás feladatokat ellátó szervezeti egység vezetője,
-
-2.7.5. a közbeszerzési feladatokat ellátó szervezeti egység vezetője,
-
-2.7.6. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
+2.7.[^10]
 
 3. Központi kormányzati igazgatási szervnek nem minősülő költségvetési szerv
 
@@ -142,39 +72,9 @@
 
 3.1.5. az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
 
-3.2. Az Országos Mentőszolgálatnál
+3.2.[^11]
 
-3.2.1. a főigazgató,
-
-3.2.2. a főigazgatói titkárság vezetője,
-
-3.2.3. az igazgató,
-
-3.2.4. a főigazgató személyi titkára, vezetői asszisztense,
-
-3.2.5. a főosztályvezető,
-
-3.2.6. a regionális mentőszervezet regionális igazgatója,
-
-3.2.7. a közbeszerzési eljárások lebonyolítását végző szervezeti egység vezetője,
-
-3.2.8. a projektigazgatási feladatokat ellátó szervezeti egység vezetője,
-
-3.2.9. az Operatív Szervezési Osztály vezetője,
-
-3.2.10. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért felelős álláshely.
-
-3.3. Az Országos Vérellátó Szolgálatnál
-
-3.3.1. a főigazgató, a főigazgató-helyettes,
-
-3.3.2. a gazdasági vezető,
-
-3.3.3. a szervkoordinációs iroda vezetője,
-
-3.3.4. a közbeszerzési eljárásban részt vevő álláshely,
-
-3.3.5. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely.
+3.3.[^12]
 
 3.4. A VERITAS Történetkutató Intézet és Levéltárnál
 
@@ -188,5 +88,12 @@
 
 3.5.2. az elektronikus információs rendszer biztonságáért felelős álláshely.
 
-[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet 2. pont 2.7. alpontját a 7. § iktatta be. [E módosító rendelet 6. § (2) bekezdése alapján a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésekor lép hatályba.]
+[^4]: Az 1. melléklet 2.1. pontját a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^5]: Az 1. melléklet 2.2. pontját a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^6]: Az 1. melléklet 2.3. pontját a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^7]: Az 1. melléklet 2.4. pontját a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^8]: Az 1. melléklet 2.5. pontját a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^9]: Az 1. melléklet 2.6. pontját a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^10]: Az 1. melléklet 2. pont 2.7. alpontját a 7. § iktatta be, a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^11]: Az 1. melléklet 3.2. pontját a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^12]: Az 1. melléklet 3.3. pontját a 36/2022. (X. 19.) BM rendelet 4. §-a hatályon kívül helyezte.

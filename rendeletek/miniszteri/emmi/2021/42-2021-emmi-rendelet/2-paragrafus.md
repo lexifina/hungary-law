@@ -3,3 +3,5 @@
 a) álláshely vagy munkakör betöltésére, feladat ellátására irányuló foglalkoztatási jogviszony, illetve
 
 b) feladat ellátására irányuló, a Ptk. szerinti szerződéses jogviszony
+
+az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.
