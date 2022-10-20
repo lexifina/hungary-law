@@ -26,8 +26,6 @@ d) a támogató a státuszelszámolásokat mintavételes eljárás keretében el
 
 5. úgy dönt, hogy a jelen Korm. határozatban foglaltak végrehajtása során nem kell alkalmazni a Magyarország szomszédságában zajló háború idején a rezsicsökkentés megvédése és a honvédelmi célok teljesítése érdekében szükséges költségvetési intézkedésekről szóló 1281/2022. (VI. 4.) Korm. határozat 2. pontját, valamint a költségvetési fejezeteket érintő államháztartási stabilizációs intézkedésekről szóló 1325/2022. (VII. 11.) Korm. határozat 1. pont b) alpontját;
 
-6. visszavonja
+6.[^1]
 
-a) a Budapest IX. kerület, belterület 36971 helyrajzi számú műemlék ingatlan Magyarországi Református Egyház részére történő tulajdonába adásáról, valamint az átfogó felújításához kapcsolódó feladatok meghatározásáról szóló 2076/2017. (XII. 28.) Korm. határozatot és
-
-b) a Budapest IX. kerület, belterület 36971 helyrajzi számú műemlék ingatlan átfogó felújításához kapcsolódó előkészítési feladatok meghatározásáról és a szükséges forrás biztosításáról szóló 1017/2020. (I. 31.) Korm. határozatot.
+[^1]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
