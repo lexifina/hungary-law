@@ -1,1 +1,3 @@
-4. § Az emberi erőforrások minisztere feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 42/2021. (IX. 28.) EMMI rendelet 1. melléklete a 2. melléklet szerint módosul.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
