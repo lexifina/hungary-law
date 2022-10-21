@@ -192,7 +192,7 @@
 
 | 90. | Logisztikai és általános gazdasági célú ingatlanfejlesztés Budapest XXIII. kerületben | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XXIII. kerület, külterület 0196147, 0196182/1, 0196183/1, 0196304/1, 0196304/2, 0196305, 0196306/2, 0196306/3, 0196308/1, 0196308/3, 0196309, 0196310, 0196311/1, 0196312/1, 0196313, 0196314, 0196315, 0196316, 0196317, 0196318, 0196320/1, 0196322, 0196323/1, 0196325/1, 0196325/3 és 0196330/4 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 91. | Képzési központ, gyártóüzem és raktár kialakítására irányuló beruházás Sóskút területén | Sóskút közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 063/15 és belterület 3592, 3510/36, 3510/37, 3510/38 és 3510/39 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető főispán |
+| 91. | Képzési központ, irodaház, gyártóüzem és raktár kialakítására irányuló beruházás Sóskút területén | Sóskút belterület 3599, 3592, 3510/32, 3510/33, 3510/34, 3510/36, 3510/39 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető főispán |
 
 | 92. | Dobozos gyártósor és kapcsolódó raktárkapacitás bővítés | Budapest X. kerület belterület 41025/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
@@ -228,8 +228,8 @@
 
 | 105. | Csomagfeldolgozó központ létrehozására irányuló beruházás Maglód külterületén | Maglód külterület 089/76, 089/77, 089/78, 089/80, 089/81, 089/82, 089/87, 089/88, 089/89 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^308]
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^312]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^308]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^312]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

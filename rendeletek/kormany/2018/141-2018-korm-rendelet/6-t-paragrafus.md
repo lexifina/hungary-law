@@ -1,4 +1,4 @@
-6/T. §[^95] (1) A 2. mellékletben foglalt táblázat 75. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:75 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+6/T. §[^97] (1) A 2. mellékletben foglalt táblázat 75. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:75 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -36,4 +36,4 @@ n) a telkeken elhelyezhető épületek és rendeltetési egységek száma nem ko
 
 (3) A Vác belterület 5770/2 helyrajzi számú telken kerítés, valamint közlekedési és közműcélú építmények korlátozás nélkül helyezhetőek el, azzal, hogy a tereprendezés mértéke nem korlátozott.
 
-[^95]: A 6/T. §-t az 558/2021. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
+[^97]: A 6/T. §-t az 558/2021. (IX. 29.) Korm. rendelet 1. §-a iktatta be.

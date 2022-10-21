@@ -1,13 +1,13 @@
-## 54. §[^198] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 98/2021. (II. 27.) Korm. rendelettel (a továbbiakban: Módr46.) megállapított 2. mellékletben foglalt táblázat 61. sorát a Módr46. hatálybalépésekor[^199] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 54. §[^200] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 98/2021. (II. 27.) Korm. rendelettel (a továbbiakban: Módr46.) megállapított 2. mellékletben foglalt táblázat 61. sorát a Módr46. hatálybalépésekor[^201] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-## 55. §[^200] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 136/2021. (III. 22.) Korm. rendelettel (a továbbiakban: Módr47.)
+## 55. §[^202] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 136/2021. (III. 22.) Korm. rendelettel (a továbbiakban: Módr47.)
 
-a) hatályon kívül helyezett 6/K. § (7) bekezdését a Módr47. hatálybalépésekor[^201] folyamatban lévő közigazgatási hatósági ügyekben sem kell alkalmazni,
+a) hatályon kívül helyezett 6/K. § (7) bekezdését a Módr47. hatálybalépésekor[^203] folyamatban lévő közigazgatási hatósági ügyekben sem kell alkalmazni,
 
-b) módosított 2. mellékletben foglalt táblázat 49. sorát a Módr47. hatálybalépésekor[^202] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+b) módosított 2. mellékletben foglalt táblázat 49. sorát a Módr47. hatálybalépésekor[^204] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^198]: Az 54. §-t a 98/2021. (II. 27.) Korm. rendelet 1. §-a iktatta be.
-[^199]: A hatálybalépés időpontja 2021. február 28.
-[^200]: Az 55. §-t a 136/2021. (III. 22.) Korm. rendelet 1. §-a iktatta be.
-[^201]: A hatálybalépés időpontja 2021. március 23.
-[^202]: A hatálybalépés időpontja 2021. március 23.
+[^200]: Az 54. §-t a 98/2021. (II. 27.) Korm. rendelet 1. §-a iktatta be.
+[^201]: A hatálybalépés időpontja 2021. február 28.
+[^202]: Az 55. §-t a 136/2021. (III. 22.) Korm. rendelet 1. §-a iktatta be.
+[^203]: A hatálybalépés időpontja 2021. március 23.
+[^204]: A hatálybalépés időpontja 2021. március 23.
