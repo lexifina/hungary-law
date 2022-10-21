@@ -26,13 +26,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:330 mezőjében a „8,77” szövegrész helyébe a „16,12” szöveg,
-
-## b) E:330 mezőjében a „0,98” szövegrész helyébe az „1,81” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1499/2022. (X. 19.) Korm. határozathoz
 
@@ -45,3 +39,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | KEHOP-3.2.1-15-2017-00027 | Komplex hulladékgazdálkodási rendszer fejlesztése a Duna–Tisza közi régióban, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Duna–Tisza közi Hulladékgazdálkodási és Környezetvédelmi Önkormányzati Társulás az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 89,945231 | 8 769 660 023 | 980 339 977 | 43 614 450 | 0 | 0 | +7 346 592 151 | +821 258 517 | –1 853 367 | 0 | 89,945231 | 16 116 252 174 | 1 801 598 494 | 41 761 083 | 0 | 17 959 611 751 | A projekttel szembeni szakmai elvárás a projektterületen élők megfelelő hulladékgazdálkodási közszolgáltatással történő ellátásának biztosítása az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek megfelelően. A projekt keretében a Duna–Tisza térségi hulladékgazdálkodási rendszerek komplex továbbfejlesztése, az előválogató kapacitás további fejlesztése, valamint az utóválogató kapacitás kiépítése valósul meg. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
