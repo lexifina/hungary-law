@@ -246,11 +246,7 @@
 
 ## 61. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 62. Hatályát veszti az Európai Unió döntéshozatali tevékenységében való kormányzati részvétel összehangolásáról és az Európai Koordinációs Tárcaközi Bizottságról szóló 1741/2020. (XI. 11.) Korm. határozat.
-
-## Orbán Viktor s. k.,
-
-## miniszterelnök
+## 62.[^1]
 
 1. melléklet az 1505/2022. (X. 20.) Korm. határozathoz
 
@@ -353,3 +349,5 @@ Az Európai Unió Tanácsa formációi előkészítésének kormányzati felelő
 34 A kulturális örökségi témák felelőse az ÉBM.
 
 35 Az Európa Kulturális Fővárosa pályázati programmal kapcsolatos kérdésekben a TFM a felelős.
+
+[^1]: A 62. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
