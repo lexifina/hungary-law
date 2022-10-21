@@ -4,8 +4,10 @@
 
 (2) A Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség) az e rendeletben meghatározottak szerint hozza létre, tároltatja és értékesíti a különleges földgázkészletet, amit 2023. április 1-jéig tart fent. A különleges földgázkészlet a Szövetség tulajdonát képezi.
 
-(3) A különleges földgázkészlet mértékét a miniszter rendeletben határozza meg, azzal, hogy annak mértéke legfeljebb 7 811 000 MWh.
+(3)[^2] A különleges földgázkészlet mértékét a miniszter rendeletben határozza meg, azzal, hogy annak mértéke legfeljebb 7 880 511 MWh.
 
 (4) A Szövetség a különleges földgázkészletet a földgáz biztonsági készlettől elkülönítetten tartja nyilván.
 
 (5) A Szövetség a különleges földgázkészlet létrehozásához és fenntartásához kapcsolódó eszközeit és forrásait, bevételeit és ráfordításait a belső számvitelében elkülöníti a kőolaj- és kőolajtermék-készletezési, a földgáz-készletezési, valamint a nem készletezési tevékenységeitől.
+
+[^2]: A 2. § (3) bekezdése a 396/2022. (X. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
