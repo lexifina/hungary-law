@@ -29,3 +29,14 @@ b) a program pénzügyi lebonyolítása során legyen figyelemmel arra, hogy a 3
 | Felelős: | technológiai és ipari miniszter |
 
 | Határidő: | a program lezárultáig minden naptári negyedév végén |
+
+6.[^1] felhívja a pénzügyminisztert, hogy a 2023. évben – a technológiai és ipari miniszter kezdeményezése alapján – gondoskodjon a mikro-, kis- és középvállalkozások energiahatékonyságot célzó beruházások program feltételei szerint meghatározott mértékű önerejének biztosítása érdekében legfeljebb 25 000 000 000 forint biztosításáról a XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Energiaintenzív vállalatok támogatása alcím javára;
+
+| Felelős: | pénzügyminiszter technológiai és ipari miniszter |
+
+| Határidő: | a felmerülés ütemében |
+
+7.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2023. évben a XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Energiaintenzív vállalatok támogatása alcím terhére vállalható kötelezettségek felső korlátját 24 987 500 000 forintban állapítja meg.
+
+[^1]: A 6. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be.
+[^2]: A 7. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be.
