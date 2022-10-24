@@ -1,3 +1,3 @@
-13. § A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet a következő 5/A. §-sal egészül ki:
+13. §[^1]
 
-„5/A. § A Főigazgatóság látja el a tiszta közúti járművek beszerzésének az alacsony kibocsátású mobilitás támogatása érdekében történő előmozdításáról szóló 397/2022. (X. 20.) Korm. rendeletben koordináló szervként részére meghatározott feladatokat.”
+[^1]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

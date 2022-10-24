@@ -1,1 +1,3 @@
-14. § Hatályát veszti a környezetkímélő és energiahatékony közúti járművek beszerzésének előmozdításáról szóló 48/2011. (III. 30.) Korm. rendelet.
+14. §[^2]
+
+[^2]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
