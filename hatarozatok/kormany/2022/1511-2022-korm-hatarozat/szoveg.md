@@ -52,14 +52,6 @@ d) a 2027. évre vonatkozó kötelezettségvállalás felső korlátja 5 000 000
 
 e) a 2028–2038. évekre vonatkozó kötelezettségvállalások felső korlátja évente 3 500 000 000 forint.
 
-3. Az energiaintenzív vállalatok támogatásáról szóló 1477/2022. (X. 6.) Korm. határozat a következő 6. és 7. ponttal egészül ki:
+3.[^1]
 
-(A Kormány)
-
-„6. felhívja a pénzügyminisztert, hogy a 2023. évben – a technológiai és ipari miniszter kezdeményezése alapján – gondoskodjon a mikro-, kis- és középvállalkozások energiahatékonyságot célzó beruházások program feltételei szerint meghatározott mértékű önerejének biztosítása érdekében legfeljebb 25 000 000 000 forint biztosításáról a XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Energiaintenzív vállalatok támogatása alcím javára;
-
-| Felelős: | pénzügyminiszter technológiai és ipari miniszter |
-
-| Határidő: | a felmerülés ütemében |
-
-7. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2023. évben a XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Energiaintenzív vállalatok támogatása alcím terhére vállalható kötelezettségek felső korlátját 24 987 500 000 forintban állapítja meg.”
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
