@@ -1,5 +1,5 @@
-## 11. §[^1]
+1. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^3]
 
-1. melléklet a 6/2021. (VIII. 31.) IM rendelethez
+Tételek és normatívák a helyi önkormányzati képviselők és a polgármesterek időközi választásán
 
-[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított szöveg.

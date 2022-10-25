@@ -4,7 +4,7 @@ a) az 1–4., valamint a 9. mellékletben meghatározott tételek és normatív�
 
 b) a nem normatív kiadások tekintetében az NVI elnökének az egyéb szerv vezetőjével kötött megállapodása alapján megállapított költségvetési támogatás
 
-## szolgál.
+szolgál.
 
 (2) Az (1) bekezdés b) pontja szerinti megállapodást az érintettek az államháztartásról szóló törvény rendelkezéseinek megfelelően, de legkésőbb a szavazás napját megelőző harmincadik napig megkötik.
 
@@ -14,10 +14,12 @@ a) időközi választás során a választási eljárásról szóló 2013. évi 
 
 b) megismételt szavazás esetén a megismételt szavazáshoz összeállított szavazóköri névjegyzék szavazás napját megelőző kilencedik napi
 
-## adatai szerint kell megállapítani.
+adatai szerint kell megállapítani.
 
 (4) Az 1–4., valamint a 9. mellékletben meghatározott tételeket, normatívákat a választásban érintett megye, település, választókerület, nemzetiség adatai alapján kell figyelembe venni.
 
 (5) Ha a választás elmarad, az ellátandó feladatokkal kapcsolatos normatívák alapján a támogatás megállapításra kerül.
 
-(6) Az NVI elnöke a (3)–(5) bekezdés szerint számított pénzügyi fedezetről támogatói okiratban értesíti a választási irodát, melyet a választás pénzügyi lebonyolítását támogató informatikai rendszerben (a továbbiakban: informatikai rendszer) küld meg a választási iroda vezetőjének.
+(6)[^1] Az NVI elnöke a (3)–(5) bekezdés szerint számított pénzügyi fedezetről támogatói okiratban értesíti a választási irodát, melyet a választás pénzügyi lebonyolítását támogató informatikai rendszerben (a továbbiakban: informatikai rendszer) a választás napját megelőző kilencedik napig küld meg a választási iroda vezetőjének.
+
+[^1]: A 2. § (6) bekezdése a 22/2022. (X. 24.) IM rendelet 1. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@ b) az NVI elnöke által elrendelt, valamint a választási iroda által a Ve. 6
 
 c) a választási szervek részére az NVI elnöke által normatívaként megállapított rendkívüli költségek miatt
 
-## lehet igényelni.
+lehet igényelni.
 
 (3) Feladatelmaradás esetén, vagy ha a feladatot a Ve. 69. § (5) bekezdése alapján másik választási iroda látja el, az érintett feladatra biztosított, a normatívák szerint számolt összeggel, illetve – ha a feladatelmaradás ismertté válása előtt indokolt kifizetés vagy kötelezettségvállalás történt – annak maradványával a választási iroda elszámol.
 
