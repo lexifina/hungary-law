@@ -1,5 +1,3 @@
-## Szavazóköri névjegyzék
-
 |  | SZAVAZÓKÖRI NÉVJEGYZÉK | 1. oldal |
 
 ## HELYI NÉPSZAVAZÁS
@@ -9,6 +7,8 @@
 ## (TELEPÜLÉS NEVE)
 
 ## (szavazókör sorszáma) számú szavazókör ((szavazóhelyiség címe))*
+
+## 5K01557_1
 
 | sorszám | A választópolgárok adatai | A szavazólap átvételének igazolása |
 
@@ -31,6 +31,8 @@
 | … | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) |  |
 
 ## (A névjegyzék utolsó oldalán:)
+
+## 5K01557_2
 
 | a szavazóköri névjegyzékben és a mozgóurnát igénylő választópolgárok jegyzékében szereplő választópolgárok száma összesen |
 

@@ -1,5 +1,3 @@
-## A helyi népszavazáson használandó nyomtatványok
-
 | 1. | nyomtatvány megnevezése | használata |
 
 | a nyomtatvány használata kötelező | a nyomtatványban szereplő adatok megadása kötelező |
@@ -23,3 +21,5 @@
 | 10. | Jegyzőkönyv a helyi népszavazás eredményéről | X |  |
 
 2. melléklet a 2/2015. (II. 20.) IM rendelethez
+
+Szavazóköri névjegyzék

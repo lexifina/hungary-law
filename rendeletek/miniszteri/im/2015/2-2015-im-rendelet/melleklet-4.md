@@ -10,6 +10,8 @@
 
 ## (szavazókör sorszáma) számú szavazókör ((szavazóhelyiség címe))*
 
+## 5K01558_1
+
 | Sorszám | A választópolgárok adatai | A szavazólap átvételének igazolása |
 
 | ... | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) (lakcímtől eltérő szavazás helye) |  |
@@ -38,4 +40,4 @@
 
 4. melléklet a 2/2015. (II. 20.) IM rendelethez[^8]
 
-[^8]: A 4. melléklet a 11/2022. (IV. 21.) IM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. melléklet a 23/2022. (X. 24.) IM rendelet 1. §-ával megállapított szöveg.

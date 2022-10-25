@@ -22,6 +22,8 @@
 
 | Érvényes szavazólapok száma: |  | G |
 
+## 5K01566_5
+
 |  | ÉRVÉNYTELEN |
 
 | A NÉPSZAVAZÁS | ÉRVÉNYES, DE EREDMÉNYTELEN |
@@ -29,6 +31,8 @@
 |  | ÉRVÉNYES ÉS EREDMÉNYES1 |
 
 ## 1 A megfelelő rész aláhúzandó
+
+## 5K01566_6
 
 | HELYI / TERÜLETI VÁLASZTÁSI BIZOTTSÁG |
 

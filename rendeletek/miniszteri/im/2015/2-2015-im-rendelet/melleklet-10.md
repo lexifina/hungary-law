@@ -30,6 +30,8 @@
 
 | Rontott szavazólapok száma: |  |
 
+## 5K01565_8
+
 | A szavazóköri névjegyzékben lévő választópolgárok száma: |  | A |  |  |  |
 
 | Szavazóként megjelent választópolgárok száma: |  | B | IGEN szavazatok száma: |  | I |
@@ -47,6 +49,8 @@
 | E=D-B, D=F+G, G=I+N |
 
 | Az SZSZB a szavazatokat |  |  | alkalommal számolta meg. |
+
+## 5K01565_9
 
 |  | SZAVAZATSZÁMLÁLÓ BIZOTTSÁG |
 

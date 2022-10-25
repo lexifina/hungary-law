@@ -1,5 +1,3 @@
-## Jegyzőkönyv a szavazás közben előfordult rendkívüli eseményekről, illetve az SZSZB elnökének a rend fenntartása érdekében tett intézkedésről
-
 | JEGYZŐKÖNYV a szavazás közben előfordult rendkívüli eseményről, illetve a szavazatszámláló bizottság / helyi választási bizottság elnökének a rend fenntartása érdekében tett intézkedéséről |
 
 | Készült: |  | év |  | hó |  | nap |  | település |
