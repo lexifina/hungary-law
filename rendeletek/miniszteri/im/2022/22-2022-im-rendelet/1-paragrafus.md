@@ -1,0 +1,3 @@
+1. § A helyi önkormányzati képviselők és polgármesterek időközi választása, a nemzetiségi önkormányzati képviselők időközi választása, valamint a helyi népszavazások költségeinek normatíváiról, tételeiről, elszámolási és belső ellenőrzési rendjéről szóló 6/2021. (VIII. 31.) IM rendelet (a továbbiakban: Pvr.) 2. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az NVI elnöke a (3)–(5) bekezdés szerint számított pénzügyi fedezetről támogatói okiratban értesíti a választási irodát, melyet a választás pénzügyi lebonyolítását támogató informatikai rendszerben (a továbbiakban: informatikai rendszer) a választás napját megelőző kilencedik napig küld meg a választási iroda vezetőjének.”
