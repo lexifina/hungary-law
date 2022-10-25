@@ -1,0 +1,1 @@
+3. § A helyi önkormányzati képviselők és polgármesterek választásán, valamint a nemzetiségi önkormányzati képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól és a választási eljárásban használandó nyomtatványokról szóló 20/2019. (VII. 30.) IM rendelet 47–50. melléklete helyébe a 3–6. melléklet lép.
