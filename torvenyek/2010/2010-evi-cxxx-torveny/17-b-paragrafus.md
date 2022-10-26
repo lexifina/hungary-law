@@ -1,0 +1,1 @@
+17/B. § A Központi Statisztikai Hivatal törvény, kormányrendelet vagy miniszteri rendelet előkészítése során hivatalos statisztikai adatok szolgáltatásával közreműködik az előzetes hatásvizsgálat elvégzésében.
