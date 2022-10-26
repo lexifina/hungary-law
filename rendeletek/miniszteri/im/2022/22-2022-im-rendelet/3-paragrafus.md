@@ -1,1 +1,3 @@
-3. § A Pvr. 1–9. melléklete helyébe az 1–9. melléklet lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
