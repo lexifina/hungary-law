@@ -4,7 +4,7 @@
 
 ## b) XVI. Építési és Beruházási Minisztérium fejezet 11. Központi kezelésű előirányzatok címének az 1. Az ÉBM tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcímmel és ezen belül az 1. Az ÉBM tulajdonosi joggyakorlásával kapcsolatos kiadások jogcímcsoporttal, továbbá ezen belül az 1. Az ÉBM tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai jogcímmel,
 
-## c) XX. Kulturális és Innovációs Minisztérium fejezet 20. Fejezeti kezelésű előirányzatok címének az 1. Kulturális intézetek szakmai kerete alcímmel, ezen belül a 2. Kulturális Diplomáciai projektek támogatása jogcímcsoporttal, továbbá ezen belül a 3. Nemzetközi tagdíjak és európai uniós befizetések jogcímmel,
+## c)[^1] XX. Kulturális és Innovációs Minisztérium fejezet 20. Fejezeti kezelésű előirányzatok címének az 1. Kulturális intézetek szakmai kerete alcímmel,
 
 ## d) XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Felsőoktatási feladatok alcímének a 13. Nemzetközi tagdíjak jogcímcsoporttal,
 
@@ -77,3 +77,5 @@
 ## 8. egyetért azzal, hogy a címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alap előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő előirányzat-átcsoportosításról, fejezeten belüli előirányzat-átcsoportosításról, valamint kötelezettségvállalás engedélyezéséről szóló 1388/2022. (VIII. 9.) Korm. határozat 2. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 4. Köznevelési feladatok támogatása alcím, 4. Köznevelés speciális feladatainak támogatása jogcímcsoport javára átcsoportosított 120 760 350 forint a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Köznevelési feladatok támogatása alcím, 3. Köznevelés speciális feladatainak támogatása jogcímcsoporton kerüljön felhasználásra.
 
 1. melléklet az 1454/2022. (IX. 19.) Korm. határozathoz
+
+[^1]: Az 1. pont c) pontja az 1515/2022. (X. 26.) Korm. határozat 3. pontja szerint módosított szöveg.
