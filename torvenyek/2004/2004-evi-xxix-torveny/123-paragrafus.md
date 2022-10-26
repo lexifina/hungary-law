@@ -6,7 +6,7 @@
 
 (2) E fejezet hatálya kiterjed azokra
 
-a) a minisztériumokra, tárca nélküli miniszterek hivatali szerveire, központi költségvetésben önálló fejezettel rendelkező országos hatáskörű és egyéb szervekre, továbbá más, fejezeti jogosítványokkal felhatalmazott szervekre – ideértve a Magyar Tudományos Akadémiát mint köztestületet is – és személyekre, valamint a felügyeletük alá tartozó költségvetési szervekre; helyi önkormányzatokra és helyi nemzetiségi önkormányzatokra, valamint a felügyeletük alá tartozó költségvetési szervekre; elkülönített állami pénzalapokra és azok kezelőire; a társadalombiztosítás pénzügyi alapjaira; a vagyonkezelő szervezetekre; az országos nemzetiségi önkormányzatokra és országos nemzetiségi önkormányzati költségvetési szervekre,
+a) a minisztériumokra, tárca nélküli miniszterek hivatali szerveire, központi költségvetésben önálló fejezettel rendelkező országos hatáskörű és egyéb szervekre, továbbá más, fejezeti jogosítványokkal felhatalmazott szervekre – ideértve a Magyar Tudományos Akadémiát mint köztestületet is – és személyekre, valamint az ezek irányítása vagy felügyelete alá tartozó költségvetési szervekre; helyi önkormányzatokra és helyi nemzetiségi önkormányzatokra, valamint a felügyeletük alá tartozó költségvetési szervekre; elkülönített állami pénzalapokra és azok kezelőire; a társadalombiztosítás pénzügyi alapjaira; a vagyonkezelő szervezetekre; az országos nemzetiségi önkormányzatokra és országos nemzetiségi önkormányzati költségvetési szervekre,
 
 b) a területfejlesztésről és területrendezésről szóló törvény hatálya alá tartozó jogi személyiségű területfejlesztési és fejlesztési tanácsokra és munkaszervezeteikre,
 
