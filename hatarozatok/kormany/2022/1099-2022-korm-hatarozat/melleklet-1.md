@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 622 229 726 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## 2.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 622 229 726 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -20,7 +20,7 @@
 
 ## külgazdasági és külügyminiszter
 
-## Határidő: 2022. december 31.
+## Határidő: 2022. december 31., az Agrárminisztérium fejezet javára biztosított 500 000 000 forint tekintetében 2023. december 31.
 
 ## 3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 19 050 705 689 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
 
@@ -43,3 +43,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1099/2022. (III. 2.) Korm. határozathoz
+
+[^1]: A 2. pont az 1515/2022. (X. 26.) Korm. határozat 2. pontja szerint módosított szöveg.
