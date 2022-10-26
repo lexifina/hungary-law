@@ -1,1 +1,1 @@
-### 19. §
+19. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 6/A. § végrehajtásával összefüggő részletes eljárási szabályokat, valamint a 6/A. § (2) bekezdése szerinti pénzbírság mértékét, megállapításának szempontrendszerét és megfizetése módját.

@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-131-00-00
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2010-131-00-00.3 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2010-131-00-00.4 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2010-131-00-00.5 |
+| 2022-10-26 | 2022. évi XXX. törvény | 2010-131-00-00.6 |

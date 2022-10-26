@@ -6,4 +6,4 @@
 
 (3) A tervezettel együtt közzé kell tenni a jogalkotásról szóló törvényben meghatározott előzetes hatásvizsgálat összefoglalóját.
 
-(4) E törvény 5. § (5) bekezdése alapján a társadalmi egyezetésre nem bocsátott tervezeteket is közzé kell tenni a honlapon.
+(4)

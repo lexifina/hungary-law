@@ -1,0 +1,1 @@
+21. § Az 5/A. § és az 5/B. § szerinti jelentést első alkalommal a 2022. szeptember 30. és 2022. december 31. közötti időszakban a kormányzati szervekkel való egyeztetésre bocsátott jogszabálytervezetekre vonatkozóan kell elkészíteni.
