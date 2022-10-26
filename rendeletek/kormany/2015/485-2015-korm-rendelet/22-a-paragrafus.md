@@ -1,4 +1,4 @@
-## 11/A. [^58] Támogató eljárással kapcsolatos különös illetékesség
+## 11/A. [^59] Támogató eljárással kapcsolatos különös illetékesség
 
 ## 22/A. § Támogató eljárás lefolytatására
 
@@ -6,4 +6,6 @@ a) a 63. § (1) bekezdés a), b) és d)–i) pontjában, valamint a 64. § (1) b
 
 b) egyéb esetben bármelyik megyei igazgatóság és a KAVIG is
 
-[^58]: A 11/A. alcímet (22/A. §) a 214/2017. (VII. 25.) Korm. rendelet 5. §-a iktatta be.
+jogosult.
+
+[^59]: A 11/A. alcímet (22/A. §) a 214/2017. (VII. 25.) Korm. rendelet 5. §-a iktatta be.

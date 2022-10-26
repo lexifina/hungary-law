@@ -1,3 +1,3 @@
-## 47. §[^107]
+48. §[^109]
 
-[^107]: A 47. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.
+[^109]: A 48. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.

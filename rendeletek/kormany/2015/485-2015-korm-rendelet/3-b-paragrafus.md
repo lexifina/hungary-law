@@ -10,7 +10,7 @@ a) hat tagot az adóügyekért felelős államtitkár,
 
 b) egy tagot a NAV vezetője
 
-## jelöl.
+jelöl.
 
 (3) A Bizottság elnökét, elnökhelyettesét és tagjait a miniszter bármikor indokolás nélkül visszahívhatja.
 

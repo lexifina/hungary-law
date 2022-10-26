@@ -1,5 +1,3 @@
-## jogosult.
-
 ## 12. Munkáltatói adómegállapítással kapcsolatos különös illetékesség
 
 23. § (1) A munkáltató (kifizető) és a magánszemély között az adóelőleg-levonással, illetve az adómegállapítással kapcsolatos vitában a munkáltató (kifizető) adóügyében eljáró megyei igazgatóság dönt.

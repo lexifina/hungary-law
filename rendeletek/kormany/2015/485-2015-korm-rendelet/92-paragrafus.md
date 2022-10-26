@@ -8,7 +8,7 @@
 
 (3) Az Informatikai Intézet a NAV informatikai feladatokat ellátó szerve.
 
-(4)[^202] A Gazdasági Ellátó Igazgatóság a NAV operatív gazdálkodási feladatainak megvalósítása keretében
+(4)[^204] A Gazdasági Ellátó Igazgatóság a NAV operatív gazdálkodási feladatainak megvalósítása keretében
 
 a) pénzügyi, számviteli, finanszírozási, adatszolgáltatási, beszámolási feladatokat lát el,
 
@@ -18,4 +18,4 @@ c) közreműködik a beszerzések előkészítésében és lebonyolításában, 
 
 d) üzemeltetési és ellátási feladatainak végrehajtásával támogatja a központi és területi szervek működését.
 
-[^202]: A 92. / (4) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^204]: A 92. / (4) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -16,6 +16,8 @@ f)[^25]
 
 g)[^26] a Magyarországon megtartandó OECD nemzetközi adóügyi szeminárium lebonyolításával kapcsolatos
 
+feladatokat.
+
 [^22]: A 7. § c) pontját a 481/2016. (XII. 28.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
 [^23]: A 7. § d) pontja a 481/2016. (XII. 28.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^24]: A 7. § e) pontja a 481/2016. (XII. 28.) Korm. rendelet 20. § a) pontja, a 670/2020. (XII. 28.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.

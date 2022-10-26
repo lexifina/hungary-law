@@ -5,3 +5,5 @@
 a) az Áfa törvény 85. § (6) bekezdés a) pont aa) alpontja szerinti együttműködő közösség, valamint
 
 b) az Áfa törvény 85. § (6) bekezdés a) pont ab) alpontja szerinti együttműködő közösség adóügyeiben,
+
+ha az a) pont esetében az együttműködő közösség képviselője (képviselő hiányában a legutolsó képviselőjének) adóügyeiben, b) pont esetében az együttműködő közösségnek minősülő adóalany adóügyeiben a KAVIG jár el.

@@ -15,3 +15,5 @@ c) a Repülőtéri Igazgatóság,
 d) a Bevetési Igazgatóság és
 
 e) a Szakértői Intézet
+
+első fokon hozott döntéseivel, intézkedéseivel szemben induló jogorvoslati eljárásokban.

@@ -1,6 +1,4 @@
-## 43. §[^99]
-
-44. § (1)[^100] Jövedéki ügyben az eljárást
+44. § (1)[^101] Jövedéki ügyben az eljárást
 
 a) az engedélyes, – az e) pontban foglalt kivétellel – a nyilvántartásba vett személy és a hivatalos zár felhasználó telephelye,
 
@@ -14,7 +12,7 @@ e) a regisztrált szárított, illetve fermentált dohányt termelő, előállí
 
 szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi.
 
-(2)[^101] Az (1) bekezdéstől eltérően a 10. alcímben foglalt általános illetékességi szabályok alkalmazandók:
+(2)[^102] Az (1) bekezdéstől eltérően a 10. alcímben foglalt általános illetékességi szabályok alkalmazandók:
 
 a) az adóztatási,
 
@@ -26,14 +24,13 @@ d) a hivatalos zár előállításával kapcsolatos adatszolgáltatási,
 
 e) a Jöt. 44. § (1) bekezdése, 47. §-a, 62. §-a és 69. §-a szerinti tevékenység bejelentésével kapcsolatos
 
-## ügyekben.
+ügyekben.
 
-(3)[^102]
+(3)[^103]
 
-(4)[^103] A dohánytermékek nyomonkövethetőségéről és biztonsági eleméről szóló 72/2018. (IV. 16.) Korm. rendelet szerinti kötelezettségek ellenőrzését az ellenőrzött telephelye, üzlete szerinti megyei igazgatóság és a Repülőtéri Igazgatóság végzi.
+(4)[^104] A dohánytermékek nyomonkövethetőségéről és biztonsági eleméről szóló 72/2018. (IV. 16.) Korm. rendelet szerinti kötelezettségek ellenőrzését az ellenőrzött telephelye, üzlete szerinti megyei igazgatóság és a Repülőtéri Igazgatóság végzi.
 
-[^99]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
-[^100]: A 44. § (1) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^101]: A 44. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^102]: A 44. § (3) bekezdését az 500/2021. (VIII. 18.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
-[^103]: A 44. § (4) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^101]: A 44. § (1) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^102]: A 44. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^103]: A 44. § (3) bekezdését az 500/2021. (VIII. 18.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^104]: A 44. § (4) bekezdését a 670/2020. (XII. 28.) Korm. rendelet 9. §-a iktatta be.

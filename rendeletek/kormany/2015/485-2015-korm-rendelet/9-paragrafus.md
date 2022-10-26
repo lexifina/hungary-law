@@ -1,5 +1,3 @@
-## részére meghatározott feladatokat.
-
 ## 6. A pénzügyi információs egységként folytatott tevékenység
 
 ## 9. §[^27] A Kormány a Központi Irányítás szervezetén belül működő Pénzmosás és Terrorizmusfinanszírozás Elleni Irodát jelöli ki
@@ -12,9 +10,11 @@ ba) pénzügyi és vagyoni és
 
 bb) pénzeszközök átutalására vonatkozó,
 
-## korlátozó intézkedés foganatosításáért felelős szerv,
+korlátozó intézkedés foganatosításáért felelős szerv,
 
 c)[^28] az Európai Unió és az ENSZ Biztonsági Tanácsa által elfogadott nemzetközi szankcióban elrendelt kiviteli korlátozás alá eső termékekhez kapcsolódó finanszírozási, pénzügyi támogatási
+
+részére meghatározott feladatok ellátására.
 
 [^27]: A 9. § a 214/2017. (VII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^28]: A 9. § c) pontját a 65/2020. (III. 25.) Korm. rendelet 3. §-a iktatta be.
