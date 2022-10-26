@@ -1,7 +1,3 @@
-## „4. melléklet a 2/2015. (II. 20.) IM rendelethez
+2. melléklet a 23/2022. (X. 24.) IM rendelethez[^6]
 
-## 2X07043.pdf
-
-## ”
-
-2. melléklet a 23/2022. (X. 24.) IM rendelethez
+[^6]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

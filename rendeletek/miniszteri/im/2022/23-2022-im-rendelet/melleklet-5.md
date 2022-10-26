@@ -1,7 +1,3 @@
-## „48. melléklet a 20/2019. (VII. 30.) IM rendelethez
+5. melléklet a 23/2022. (X. 24.) IM rendelethez[^9]
 
-## 2X07050.pdf
-
-## ”
-
-5. melléklet a 23/2022. (X. 24.) IM rendelethez
+[^9]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

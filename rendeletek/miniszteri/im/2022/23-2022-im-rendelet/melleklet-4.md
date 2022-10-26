@@ -1,7 +1,3 @@
-## „47. melléklet a 20/2019. (VII. 30.) IM rendelethez
+4. melléklet a 23/2022. (X. 24.) IM rendelethez[^8]
 
-## 2X07048.pdf
-
-## ”
-
-4. melléklet a 23/2022. (X. 24.) IM rendelethez
+[^8]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

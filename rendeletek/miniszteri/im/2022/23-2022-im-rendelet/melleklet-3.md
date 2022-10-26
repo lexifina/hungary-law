@@ -1,7 +1,3 @@
-## „35. melléklet az 1/2018. (I. 3.) IM rendelethez
+3. melléklet a 23/2022. (X. 24.) IM rendelethez[^7]
 
-## 2X07046.pdf
-
-## ”
-
-3. melléklet a 23/2022. (X. 24.) IM rendelethez
+[^7]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

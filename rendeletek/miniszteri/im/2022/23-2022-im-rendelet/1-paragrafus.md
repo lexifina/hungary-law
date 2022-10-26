@@ -1,1 +1,3 @@
-1. § A helyi népszavazási eljárás során a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól és a használandó nyomtatványokról szóló 2/2015. (II. 20.) IM rendelet 4. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
