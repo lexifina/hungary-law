@@ -1,6 +1,8 @@
 98/C. § (1) E törvénynek a NAV Mód. tv. 20. §-ával megállapított 26. § (2) bekezdését a 2011. december 31-én személyi illetményben részesülő kormánytisztviselők és pénzügyőrök tekintetében is alkalmazni kell.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4)
 

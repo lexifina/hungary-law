@@ -42,7 +42,9 @@ b) végzi az európai uniós és nemzeti jogszabályokban meghatározott nemzetk
 
 c) végzi a hatáskörébe tartozó uniós, illetve más nemzetközi forrásból finanszírozott projektek szervezését, irányítását, lebonyolítását,
 
-d) végzi az Európai Csalásellenes Hivatallal (OLAF) történő együttműködéssel és koordinációval kapcsolatban a külön törvényben meghatározott feladatokat.
+d) végzi az Európai Csalásellenes Hivatallal (a továbbiakban: OLAF) történő együttműködéssel és koordinációval kapcsolatban a külön törvényben meghatározott feladatokat.
+
+e) támogatást nyújt az OLAF helyszíni ellenőrzéseinek vagy vizsgálatainak zavartalan lefolytatásához.
 
 (4) A NAV adóigazgatási jogkörében
 

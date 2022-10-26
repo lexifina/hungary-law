@@ -16,7 +16,9 @@ c) a Fenntartható Gazdaságfehéredésért Felelős Bizottság összetételéne
 
 a) a Központi Irányítást és a területi szerveket,
 
-b)–c)
+b)
+
+c)
 
 d) a Bűnügyi Főigazgatóságot és a NAV nyomozó hatósági feladatait ellátó területi szerveit,
 
