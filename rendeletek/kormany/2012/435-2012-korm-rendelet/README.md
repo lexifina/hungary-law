@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-435-20-
 | 2019-03-08 | 2012-435-20-22.10 | 26/2019. (II. 28.) Korm. rendelet |
 | 2020-04-24 | 2012-435-20-22.11 | 126/2020. (IV. 16.) Korm. rendelet |
 | 2021-05-07 | 2012-435-20-22.12 | 80/2014. (III. 14.) Korm. rendelet |
+| 2022-10-26 | 2012-435-20-22.13 | 412/2022. (X. 25.) Korm. rendelet |

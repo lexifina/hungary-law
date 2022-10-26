@@ -1,5 +1,3 @@
-## nyújthatók.
-
 ## 5. Az Eximbank által végzett deviza- és kamatcsere ügyletek pótlási- és kamatköltségei
 
 14. § (1) Amennyiben az Eximbank a Törvény szerinti deviza- és kamatcsere ügyletek pótlási költségéből eredő fizetési kötelezettségének nem tud eleget tenni, a deviza- és kamatcsere ügyletet kötő fél (a továbbiakban: jogosult) részére az állammal szemben érvényesíthető összegről igazolást állít ki.

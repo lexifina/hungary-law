@@ -16,5 +16,14 @@ d) a garanciavállalásért piaci alapú díjat fizetnek.
 
 (3) A piaci alapú díjszámításra vonatkozó módszertanát az Eximbank a kezesi közleményben meghatározottakkal összhangban alakítja ki és az alkalmazott módszer és díjszámítás leírását belső szabályzatában rögzíti.
 
+(4)[^33] Az Eximbank a (2) bekezdésben foglaltakon túlmenően kereskedelmi garanciát vállalhat továbbá
+
+a) az Európai Bizottság jóváhagyásában meghatározott feltételekkel,
+
+b) az 1407/2013/EU bizottsági rendelet rendelkezéseivel összhangban vagy
+
+c) a 651/2014/EU bizottsági rendelet rendelkezéseivel összhangban is.
+
 [^31]: A 10. § a 126/2020. (IV. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^32]: A 4. § (2) bekezdése a 26/2019. (II. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^33]: A 11. § (4) bekezdését a 412/2022. (X. 25.) Korm. rendelet 1. §-a iktatta be.
