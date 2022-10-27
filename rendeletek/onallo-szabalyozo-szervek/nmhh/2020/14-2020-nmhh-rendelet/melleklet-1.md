@@ -344,7 +344,7 @@ Az SHS = 31 számozási tartomány nincsen mobil rádiótelefon szolgáltatóhoz
 
 | 4 | 50 1bc defg és 50 2bc defg | DIGI Kft. |
 
-| 5 | 50 9bc defg és 50 8bc defg | AH NET Zrt. |
+| 5 | 50 9bc defg és 50 8bc defg | MVM NET Zrt. |
 
 | 6 | 70 abc defg | Vodafone Magyarország Zrt. |
 
@@ -926,4 +926,4 @@ A hívó fél által fizetendő díj mértékét (áfát is tartalmazó híváso
 
 A 19c formátumú telefonos kezelői szolgáltatás szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-[^8]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a, a 2/2022. (IV. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a, a 2/2022. (IV. 19.) NMHH rendelet 2. §-a, a 8/2022. (X. 24.) NMHH rendelet 2. §-a szerint módosított szöveg.
