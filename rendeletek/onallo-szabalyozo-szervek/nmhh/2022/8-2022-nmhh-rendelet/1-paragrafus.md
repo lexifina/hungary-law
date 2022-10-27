@@ -1,0 +1,3 @@
+## 1. A honvédelmi és katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelöléséről és felkészülési feladataik meghatározásáról szóló 3/2013. (I. 11.) NMHH rendelet módosítása
+
+1. § A honvédelmi és katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelöléséről és felkészülési feladataik meghatározásáról szóló 3/2013. (I. 11.) NMHH rendelet 1. mellékletében foglalt táblázat B:5 mezőjében az „AH NET Távközlési Szolgáltató Zrt.” szövegrész helyébe az „MVM NET Távközlési Szolgáltató Zrt.” szöveg lép.
