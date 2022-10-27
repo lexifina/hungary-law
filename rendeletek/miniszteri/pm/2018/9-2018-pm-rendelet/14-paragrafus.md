@@ -8,6 +8,6 @@
 
 (5) A kedvezményezett – a támogatási kérelem benyújtásával egyidejűleg – a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
 
-(6)[^55] A 2020. január 1. és 2021. június 30. között megszűnt munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
+(6)[^45] A 2020. január 1. és 2021. június 30. között megszűnt munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
 
-[^55]: A 14. § (6) bekezdését a 8/2020. (VII. 31.) PM rendelet 5. §-a iktatta be, szövege a 24/2020. (XII. 30.) PM rendelet 7. § b) pontja szerint módosított szöveg.
+[^45]: A 14. § (6) bekezdését a 8/2020. (VII. 31.) PM rendelet 5. §-a iktatta be, szövege a 24/2020. (XII. 30.) PM rendelet 7. § b) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## 4. §[^25]
-
 ## 2. Értelmező rendelkezések
 
 5. § (1) A II. fejezet alkalmazásában:
@@ -26,7 +24,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 8. bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 111. pontja szerinti üzemanyag;
 
-8a.[^26] digitalizáció: a 651/2014/EU bizottsági rendelet 2. cikk 103c. pontja szerinti fejlesztés;
+8a.[^6] digitalizáció: a 651/2014/EU bizottsági rendelet 2. cikk 103c. pontja szerinti fejlesztés;
 
 9. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb;
 
@@ -86,7 +84,7 @@ a) független szakértő értékelésével alá tudja támasztani, hogy a belát
 
 b) esetén a támogatás nyújtását megelőző három üzleti év legalább egyikében a működési költségek legalább 10%-át kutatásfejlesztési költségek teszik ki;
 
-35a.[^27] integrált településfejlesztési stratégia: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 12. pontja szerinti stratégia,
+35a.[^7] integrált településfejlesztési stratégia: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 12. pontja szerinti stratégia,
 
 36. ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat;
 
@@ -102,7 +100,7 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 42. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás;
 
-42a.[^28] kisebb közepes piaci tőkeértékű vállalat: a 651/2014/EU bizottsági rendelet 2. cikk 103e. pontja szerinti vállalkozás;
+42a.[^8] kisebb közepes piaci tőkeértékű vállalat: a 651/2014/EU bizottsági rendelet 2. cikk 103e. pontja szerinti vállalkozás;
 
 43. kísérleti fejlesztés: a 651/2014/EU bizottsági rendelet 2. cikk 86. pontja szerinti fejlesztés;
 
@@ -110,7 +108,7 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 45. kockázatfinanszírozási célú befektetés: a végső kedvezményezett kis- és középvállalkozásnak nyújtott sajáttőke- és kvázisajáttőke-befektetés, hitel, kezességvállalás, illetve ezek kombinációja;
 
-45a.[^29] koronavírus-járvány szempontjából releváns termék: a koronavírussal fertőzöttek kezeléséhez szükséges gyógyszerek, a megelőzéshez szükséges eszközök és oltóanyagok, beleértve az ezek előállításához szükséges hatóanyagokat, alapanyagokat és közbenső termékeket; a koronavírussal fertőzöttek kezeléséhez szükséges diagnosztikai, kórházi és orvostechnikai eszközök, beleértve az ezek előállításához szükséges alapanyagokat; a koronavírus-járvány terjedésének megelőzéséhez szükséges fertőtlenítőszerek, beleértve az ezek előállításához szükséges vegyi anyagokat; a koronavírus-járvány terjedésének megakadályozása érdekében felhasználható adatgyűjtési és -feldolgozási eszközök;
+45a.[^9] koronavírus-járvány szempontjából releváns termék: a koronavírussal fertőzöttek kezeléséhez szükséges gyógyszerek, a megelőzéshez szükséges eszközök és oltóanyagok, beleértve az ezek előállításához szükséges hatóanyagokat, alapanyagokat és közbenső termékeket; a koronavírussal fertőzöttek kezeléséhez szükséges diagnosztikai, kórházi és orvostechnikai eszközök, beleértve az ezek előállításához szükséges alapanyagokat; a koronavírus-járvány terjedésének megelőzéséhez szükséges fertőtlenítőszerek, beleértve az ezek előállításához szükséges vegyi anyagokat; a koronavírus-járvány terjedésének megakadályozása érdekében felhasználható adatgyűjtési és -feldolgozási eszközök;
 
 46. közvetlenül a beruházási projekt által teremtett munkahely: a 651/2014/EU bizottsági rendelet 2. cikk 62. pontja szerinti munkahely;
 
@@ -120,7 +118,7 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 49. kvázisajáttőke-befektetés: a saját tőke és a hitelfinanszírozás közé besorolt finanszírozási forma, amely az elsőhelyi hitelnél magasabb, de a törzsrészvénynél alacsonyabb kockázattal jár, és a nemfizetéssel szemben nincs biztosítva, valamint amelynek hozama a tulajdonos számára elsősorban a célvállalkozás nyereségétől vagy veszteségétől függ, különösen a biztosíték nélküli és alárendelt kölcsöntőke, ideértve a mezzanin tőkét is, a tőkévé alakítható adósság vagy elsőbbségi tőke;
 
-49a.[^30] lakóépület: a 651/2014/EU bizottsági rendelet 2. cikk 103a. pontja szerinti épület;
+49a.[^10] lakóépület: a 651/2014/EU bizottsági rendelet 2. cikk 103a. pontja szerinti épület;
 
 50. létesítmény: funkcionálisan megbonthatatlan egészet képező termelő- vagy szolgáltatóegység;
 
@@ -150,9 +148,9 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 63. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás;
 
-64.[^31] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdése szerinti vállalkozás;
+64.[^11] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdése szerinti vállalkozás;
 
-64a.[^32] okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző;
+64a.[^12] okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző;
 
 65. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
 
@@ -166,7 +164,7 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 70. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás;
 
-71.[^33] szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (a továbbiakban: 2010/787/EU tanácsi határozat) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység;
+71.[^13] szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (a továbbiakban: 2010/787/EU tanácsi határozat) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység;
 
 72. szennyezett terület: a 651/2014/EU bizottsági rendelet 2. cikk 121. pontja szerinti terület;
 
@@ -180,7 +178,7 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 77. szintetikusszál-ipar: a 651/2014/EU bizottsági rendelet 2. cikk 44. pontja szerinti ipar;
 
-77a.[^34] szociális szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 103b. pontja szerinti szolgáltatás;
+77a.[^14] szociális szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 103b. pontja szerinti szolgáltatás;
 
 78. szokásos piaci feltételek: a 651/2014/EU bizottsági rendelet 2. cikk 89. pontja szerinti feltétel;
 
@@ -200,11 +198,11 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 86. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 
-86a.[^35] városfejlesztési alap: a 651/2014/EU bizottsági rendelet 2. cikk 57. pontja szerinti alap,
+86a.[^15] városfejlesztési alap: a 651/2014/EU bizottsági rendelet 2. cikk 57. pontja szerinti alap,
 
-86b.[^36] városfejlesztésialap-kezelő: a 651/2014/EU bizottsági rendelet 2. cikk 58. pontja szerinti alapkezelő,
+86b.[^16] városfejlesztésialap-kezelő: a 651/2014/EU bizottsági rendelet 2. cikk 58. pontja szerinti alapkezelő,
 
-86c.[^37] városfejlesztési projekt: a 651/2014/EU bizottsági rendelet 2. cikk 59. pontja szerinti beruházási projekt,
+86c.[^17] városfejlesztési projekt: a 651/2014/EU bizottsági rendelet 2. cikk 59. pontja szerinti beruházási projekt,
 
 87. végső kedvezményezett: az az első kockázatfinanszírozási célú befektetés időpontjában tőzsdén nem jegyzett kis- és középvállalkozás, amely megfelel az alábbi feltételek legalább egyikének:
 
@@ -214,7 +212,7 @@ b) az első kereskedelmi értékesítéstől számítva kevesebb, mint 7 éve m�
 
 c) új termék- vagy földrajzi piacra való belépés céljából készített üzleti terv alapján az előző 5 évben elért átlagos éves árbevétele 50%-át meghaladó első kockázatfinanszírozási célú befektetést igényel.
 
-(2)[^38] Az 1. mellékletben foglalt táblázat 3. sora alkalmazásában:
+(2)[^18] Az 1. mellékletben foglalt táblázat 3. sora alkalmazásában:
 
 1. az árvízzel kapcsolatos belvíz által veszélyeztetett terület: az a terület, amelyet a felgyülemlett víz által felszíni elöntés veszélyeztethet;
 
@@ -224,17 +222,16 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 
 4. mentesített ártér: a folyók és egyéb vízfolyások melletti olyan területek (völgyek), amelyek védelmére elsőrendű árvízvédelmi műnek minősített árvízvédelmi töltés épült.
 
-[^25]: A 4. §-t a 24/2020. (XII. 30.) PM rendelet 8. § a) pontja hatályon kívül helyezte.
-[^26]: Az 5. § (1) bekezdés 8a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (1) bekezdése iktatta be.
-[^27]: Az 5. § (1) bekezdés 35a. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (1) bekezdése iktatta be.
-[^28]: Az 5. § (1) bekezdés 42a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (2) bekezdése iktatta be.
-[^29]: Az 5. § (1) bekezdés 45a. pontját a 8/2020. (VII. 31.) PM rendelet 2. § (1) bekezdése iktatta be.
-[^30]: Az 5. § (1) bekezdés 49a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (3) bekezdése iktatta be.
-[^31]: Az 5. § (1) bekezdés 64. pontja a 8/2020. (VII. 31.) PM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^32]: Az 5. § (1) bekezdés 64a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (4) bekezdése iktatta be.
-[^33]: Az 5. § (1) bekezdés 71. pontja a 11/2019. (IX. 4.) PM rendelet 7. § a) pontja szerint módosított szöveg.
-[^34]: Az 5. § (1) bekezdés 77a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (5) bekezdése iktatta be.
-[^35]: Az 5. § (1) bekezdés 86a. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
-[^36]: Az 5. § (1) bekezdés 86b. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
-[^37]: Az 5. § (1) bekezdés 86c. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
-[^38]: Az 5. § (2) bekezdése a 24/2020. (XII. 30.) PM rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés 8a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (1) bekezdése iktatta be.
+[^7]: Az 5. § (1) bekezdés 35a. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (1) bekezdése iktatta be.
+[^8]: Az 5. § (1) bekezdés 42a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: Az 5. § (1) bekezdés 45a. pontját a 8/2020. (VII. 31.) PM rendelet 2. § (1) bekezdése iktatta be.
+[^10]: Az 5. § (1) bekezdés 49a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (3) bekezdése iktatta be.
+[^11]: Az 5. § (1) bekezdés 64. pontja a 8/2020. (VII. 31.) PM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (1) bekezdés 64a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (4) bekezdése iktatta be.
+[^13]: Az 5. § (1) bekezdés 71. pontja a 11/2019. (IX. 4.) PM rendelet 7. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § (1) bekezdés 77a. pontját a 19/2021. (XII. 28.) PM rendelet 1. § (5) bekezdése iktatta be.
+[^15]: Az 5. § (1) bekezdés 86a. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
+[^16]: Az 5. § (1) bekezdés 86b. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
+[^17]: Az 5. § (1) bekezdés 86c. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
+[^18]: Az 5. § (2) bekezdése a 24/2020. (XII. 30.) PM rendelet 2. §-ával megállapított szöveg.

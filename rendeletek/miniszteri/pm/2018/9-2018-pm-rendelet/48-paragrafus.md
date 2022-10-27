@@ -1,9 +1,9 @@
-## 20. A szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás
+## 20.[^60] Válságtámogatás
 
-48. § (1) A szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) a környezeti károk helyreállításához nyújtható.
+48. § (1) A válságtámogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az EUMSz 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény (ezen alcím vonatkozásában a továbbiakban: közlemény) 2.1. szakaszának szabályaival összhangban, a jelen alcím szerinti támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően nyújtható olyan vállalkozásoknak, amelyek működését a háború gazdasági hatásai hátrányosan érintik. Az érintettségről a vállalkozás a támogatás odaítélését megelőzően nyilatkozni köteles.
 
-(2) A támogatás az elszámolható költségek 100%-áig nyújtható.
+(2) A támogatás vissza nem térítendő támogatás, amely hitel és tőke formájában nyújtható, azzal, hogy a hitel és tőke formájában nyújtott támogatás esetén a hitel teljes névértékét vagy a tőke teljes összegét kell figyelembe venni a 48/B. § (1) vagy (2) bekezdése szerinti értékhatároknak való megfelelés ellenőrzésekor.
 
-(3) A szennyező fizet elvvel összhangban támogatás akkor nyújtható, ha – az európai uniós környezetvédelmi felelősségi szabályok sérelme nélkül – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 101. §-a alapján nem állapítható meg a szennyezésért felelős személy kiléte, vagy az nem kötelezhető a költségek viselésére. A támogatás a helyreállítási vagy szennyezésmentesítési munkák elvégzéséért felelős személy részére nyújtható.
+(3) A hitel formájában nyújtott támogatás alakítható 2023. június 30-ig úgy, hogy az átalakított támogatás összegét az átalakításkor nem kell újból figyelembe venni a 48/B. § (1) és (2) bekezdése szerinti értékhatárok vizsgálatakor, de a kedvezményezettnek ezen alcím egyéb feltételeinek az átalakításkor is meg kell felelnie.
 
-(4) A támogatás keretében a terület szennyeződésmentesítéséhez kapcsolódó, a szennyeződésmentesített földterület független szakértő által meghatározott értéknövekedésével csökkentett költsége számolható el, függetlenül attól, hogy az adott költség tárgyi eszközként feltüntethető-e a kedvezményezett mérlegében.
+[^60]: A 20. alcím (48-48/E. §) a 7/2022. (X. 26.) PM rendelet 6. §-ával megállapított szöveg.

@@ -8,9 +8,9 @@
 
 a) középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal,
 
-b)[^62] – az a) pontban meghatározott mértéken túl – az Atr. 25. § (1) bekezdés a) és b) pontja szerinti régióban megvalósuló beruházás esetén 15 százalékponttal
+b)[^54] – az a) pontban meghatározott mértéken túl – az Atr. 25. § (1) bekezdés a) és b) pontja szerinti régióban megvalósuló beruházás esetén 15 százalékponttal
 
-## növelhető.
+növelhető.
 
 (4) A támogatás keretében a magasabb energiatakarékossági szint eléréséhez közvetlenül kapcsolódó többletköltségként elszámolható
 
@@ -18,4 +18,4 @@ a) ha az energiahatékonysági beruházáshoz kapcsolódó költség a beruház�
 
 b) ha az elszámolható költség aza) bekezdés alapján nem határozható meg, a támogatott beruházás költségének és egy, a támogatás hiányában hitelt érdemlően megvalósítható hasonló, kevésbé energiahatékony beruházás költségének a különbsége.
 
-[^62]: A 39. § (3) bekezdés b) pontja a 2/2022. (III. 28.) PM rendelet 7. §-ával megállapított szöveg.
+[^54]: A 39. § (3) bekezdés b) pontja a 2/2022. (III. 28.) PM rendelet 7. §-ával megállapított szöveg.

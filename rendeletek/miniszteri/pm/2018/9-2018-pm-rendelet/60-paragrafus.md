@@ -1,30 +1,25 @@
 ## 59. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-60. §[^82] (1) Az 1. mellékletben foglalt táblázat
+60. §[^67] (1) Az 1. mellékletben foglalt táblázat
 
 a) 4. sora, 6. sora és F:7. mező 3. és 4. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 1. o.),
 
 b) 4. sora és 6. sora a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló 2017. június 14-i 2017/1084/EU bizottsági rendelettel (HL L 156., 2017. 06. 20., 1. o.) módosított, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 6. 26., 1. o.) I. és II. Fejezete, valamint 13., 14., 16–18., 21., 22., 25., 26., 38., 39. és 56. cikke,
 
-c) 4. sora és 6. sora az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1., 3.6. és 3.8. szakasza
+c)[^68]
 
-## hatálya alá tartozó támogatást tartalmaz.
+hatálya alá tartozó támogatást tartalmaz.
 
-(2) A 2. mellékletben foglalt táblázat
+(2)[^69] A 2. mellékletben foglalt táblázat
 
-a)[^83] F:3. mező 1–4. pontja, F:4. mező 1., 5., 6. és 7. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 1. o.),
+a) F:3 mező 1–6. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 1. o.),
 
-b)[^84] F:4. mező 5., 6. és 7. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352., 2013. 12. 24., 9. o.),
+b) F:3 mezője a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelettel (HL L 156., 2017. 06. 20., 1. o.) módosított, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 6. 26., 1. o.) I. és II. Fejezete, valamint 13., 14., 25., 38., 41. cikke,
 
-c)[^85] F:3. mező, F:4. mező 1., 5., 6. és 7. pontja a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló 2017. június 14-i 2017/1084/EU bizottsági rendelettel (HL L 156., 2017. 06. 20., 1. o.) módosított, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 6. 26., 1. o.) I. és II. Fejezete, valamint 13., 14., 17., 18., 22., 25., 26., 28., 31., 32., 38., 41., 45., 53., 55. és 56. cikke,
+c) F:3 mezője az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény 2.1. szakasza
 
-d)[^86] F:3. mező 5. pontja és F:4. mező 5. és 6. pontja az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1. szakasza
+hatálya alá tartozó támogatást tartalmaz.
 
-e)[^87] F:3. mező 6. pontja az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.8. szakasza
-
-[^82]: A 60. § a 24/2020. (XII. 30.) PM rendelet 5. §-ával megállapított szöveg.
-[^83]: A 60. § (2) bekezdés a) pontja a 8/2021. (VII. 30.) PM rendelet 7. § i) pontja szerint módosított szöveg.
-[^84]: A 60. § (2) bekezdés b) pontja a 8/2021. (VII. 30.) PM rendelet 7. § j) pontja szerint módosított szöveg.
-[^85]: A 60. § (2) bekezdés c) pontja a 8/2021. (VII. 30.) PM rendelet 7. § i) pontja szerint módosított szöveg.
-[^86]: A 60. § (2) bekezdés d) pontja a 8/2021. (VII. 30.) PM rendelet 7. § k) pontja szerint módosított szöveg.
-[^87]: A 60. § (2) bekezdés e) pontját a 8/2021. (VII. 30.) PM rendelet 4. §-a iktatta be.
+[^67]: A 60. § a 24/2020. (XII. 30.) PM rendelet 5. §-ával megállapított szöveg.
+[^68]: A 60. § (1) bekezdés c) pontját a 7/2022. (X. 26.) PM rendelet 9. § d) pontja hatályon kívül helyezte.
+[^69]: A 60. § (2) bekezdése a 7/2022. (X. 26.) PM rendelet 7. §-ával megállapított szöveg.

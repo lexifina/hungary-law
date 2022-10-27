@@ -1,6 +1,6 @@
 ## 28. § Az induló vállalkozásnak nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) azon tőzsdén nem jegyzett kisvállalkozás részére nyújtható, amely legfeljebb öt éve került bejegyzésre, nem összefonódás útján jött létre, nem egy másik vállalkozás tevékenységét vette át, és még nem osztott fel nyereséget. Azon vállalkozás esetén, amely nem kerül hivatalos bejegyzésre, az ötéves periódus kezdete a gazdasági tevékenység megkezdésének az időpontja vagy a gazdasági tevékenységre vonatkozó adófizetés kezdő időpontja.
 
-29. § (1)[^59] Ha a támogatás formája nem piaci kamatozású, legfeljebb tízéves futamidőre nyújtott hitel, annak névértéke nem haladhatja meg
+29. § (1)[^49] Ha a támogatás formája nem piaci kamatozású, legfeljebb tízéves futamidőre nyújtott hitel, annak névértéke nem haladhatja meg
 
 a) az 1 millió eurót vagy
 
@@ -8,4 +8,4 @@ b) az Atr. 25. § (1) bekezdés a) és b) pontja szerinti régióban letelepedet
 
 (2) Az 5 és 10 év közötti futamidővel rendelkező hitel esetén a névérték legmagasabb összege az (1) bekezdésben meghatározott összeg, valamint a 10 év és a hitel tényleges futamideje hányadosának szorzataként határozható meg. Az 5 évnél rövidebb futamidejű hitel esetén a legmagasabb összeg megegyezik az 5 éves futamidejű hitelre vonatkozó legmagasabb összeggel.
 
-[^59]: A 29. § (1) bekezdése a 2/2022. (III. 28.) PM rendelet 4. §-ával megállapított szöveg.
+[^49]: A 29. § (1) bekezdése a 2/2022. (III. 28.) PM rendelet 4. §-ával megállapított szöveg.

@@ -12,7 +12,7 @@ b) a közvetlenül a beruházási projekt által létrehozott munkahelyek két �
 
 c) – ha a kapott összeg nem haladja meg az a) és b) pont szerinti összeg közül a magasabbat, akkor – az a) és b) pontban szereplő költségtípusok kombinációja
 
-## számolható el.
+számolható el.
 
 (4) A támogatás a 17. § (2), (3) és (5) bekezdése, (6) bekezdés a)–d) pontja, (7) bekezdés a)–d) pontja, (8) bekezdés a)–c) pontja, valamint (9) bekezdése szerinti feltételekkel nyújtható.
 

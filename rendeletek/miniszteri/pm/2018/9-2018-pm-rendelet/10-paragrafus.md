@@ -1,5 +1,3 @@
-## lehet támogatási döntést hozni.
-
 ## 4. Csekély összegű támogatás
 
 10. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
@@ -18,6 +16,6 @@
 
 (8) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-(9)[^52] A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet ideje alatt fennálló vagy ezen idő alatt létrejött támogatási jogviszonyokban különös méltánylást érdemlő esetben és a kedvezményezett indokolt kérelmére a támogató a kedvezményezett létszámvállalási, létszámtartási kötelezettségének teljesítésétől eltekinthet.
+(9)[^41] A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet ideje alatt fennálló vagy ezen idő alatt létrejött támogatási jogviszonyokban különös méltánylást érdemlő esetben és a kedvezményezett indokolt kérelmére a támogató a kedvezményezett létszámvállalási, létszámtartási kötelezettségének teljesítésétől eltekinthet.
 
-[^52]: A 10. § (9) bekezdését a 2/2022. (III. 28.) PM rendelet 2. §-a iktatta be.
+[^41]: A 10. § (9) bekezdését a 2/2022. (III. 28.) PM rendelet 2. §-a iktatta be.

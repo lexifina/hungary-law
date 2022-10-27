@@ -1,1 +1,1 @@
-## 48/K. § A maximális támogatási intenzitás a 48/I. § szerinti elszámolható költségek 80%-a, ami legfeljebb 95%-ig növelhető, ha a beruházást az odaítéléstől számított két hónapon belül a kedvezményezett a támogatás odaítélésekor vállalt feltételeknek megfelelően befejezi, vagy ha a beruházáshoz más európai uniós tagállam hatósága is nyújt támogatást.
+48/L. §

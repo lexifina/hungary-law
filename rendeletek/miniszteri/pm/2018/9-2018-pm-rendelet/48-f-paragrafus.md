@@ -1,3 +1,6 @@
-## 48/E. §[^76] Ha egy vállalkozás több ágazatban is folytat gazdasági tevékenységet, és ezekre a 48/C. § (1) bekezdése és a 48/C. § (2) és (3) bekezdése szerint eltérő maximális összegek vonatkoznak, a vállalkozás a támogatásokról olyan elkülönített nyilvántartást köteles vezetni, amely biztosítja az érintett tevékenységekre vonatkozó felső határok betartását és azt, hogy a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 2 300 000 eurónak megfelelő forintösszeget. Ha egy vállalkozás a 48/C. § (2) és (3) bekezdése szerinti ágazatokban tevékenykedik, a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 345 000 eurónak megfelelő forintösszeget.
+## 20/A.[^61]
 
-[^76]: A 48/E. § a 8/2020. (VII. 31.) PM rendelet 7. §-ával megállapított, a 19/2021. (XII. 28.) PM rendelet 10. § f) pontja szerint módosított szöveg.
+48/F. §[^62]
+
+[^61]: A 20/A. alcímet (48/A–48/F. §) a 7/2022. (X. 26.) PM rendelet 9. § c) pontja hatályon kívül helyezte.
+[^62]: A 48/F. § a 24/2020. (XII. 30.) PM rendelet 4. §-ával megállapított szöveg.

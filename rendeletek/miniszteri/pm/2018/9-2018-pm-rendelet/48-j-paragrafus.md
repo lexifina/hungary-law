@@ -1,3 +1,1 @@
-48/J. § (1) A támogatás csak akkor ítélhető oda, ha a kedvezményezett vállalja, hogy a beruházást a támogatás odaítélésétől számított hat hónapon belül a támogatás odaítélésekor vállalt feltételeknek megfelelően befejezi. A támogatást nyújtó köteles ellenőrizni, hogy a beruházás befejezése a vállalt feltételeknek megfelelően megtörtént-e, és mely időpontban került sor a beruházás befejezésére.
-
-(2) Az (1) bekezdés szerinti határidő túllépésekor a késedelem minden megkezdett hónapja után az eredetileg megítélt támogatás 25%-át – a támogatói döntéstől számított 5 éven belül, évente egyenlő részletekben – vissza kell fizetni, kivéve, ha a késedelem a támogatás odaítélésekor előre nem látható, elháríthatatlan, a kedvezményezett érdekkörén kívül felmerült, és rendkívüli körülménynek tudható be.
+48/J. §

@@ -1,3 +1,1 @@
-48/I. § (1) A támogatás keretében elszámolható költségek a koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházáshoz (ezen alcím vonatkozásában a továbbiakban: beruházás) kapcsolódó tárgyi eszközök és immateriális javak, továbbá a termelési kapacitások próbaüzemének költségei.
-
-(2) Ha a beruházás a 18. § szerint megkezdődött 2020. február 1-jét megelőzően, támogatás a beruházáshoz csak abban az esetben nyújtható, ha a támogatás a beruházás üzembe helyezésének felgyorsításához vagy a beruházás megkezdésekor tervezett kapacitásának növeléséhez szükséges. Ebben az esetben az elszámolható költségek a felgyorsítást szolgáló intézkedésekhez vagy a kapacitásnöveléshez szükséges többletköltségek.
+48/I. §
