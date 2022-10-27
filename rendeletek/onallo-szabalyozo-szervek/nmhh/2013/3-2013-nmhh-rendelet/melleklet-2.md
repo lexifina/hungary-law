@@ -1,5 +1,3 @@
-## A honvédelmi és katasztrófavédelmi feladatok ellátásában, valamint a védelmi felkészülési feladatok előkészítésében és végrehajtásában való részvételre kijelölt (a továbbiakban együtt: védelmi feladatok ellátására kijelölt), továbbá az informatikai és hírközlési ágazat (a továbbiakban: ágazat) ügyeleti rendszerébe bevont szervezetek jegyzéke
-
 | A | B | C | D | E |
 
 | Sor- szám | A szolgáltató megnevezése | Telephelye | Védelmi feladatok ellátására kijelölt | Az ágazat ügyeleti rendszerébe bevont |
@@ -12,7 +10,7 @@
 
 | 4. | MVM Energetika Zrt. | 1031 Budapest, Szentendrei út 207–209. | X |  |
 
-| 5. | AH NET Távközlési Szolgáltató Zrt. | 1119 Budapest, Petzvál József utca 31–33. | X | X |
+| 5. | MVM NET Távközlési Szolgáltató Zrt. | 1119 Budapest, Petzvál József utca 31–33. | X | X |
 
 | 6. | Yettel Magyarország Zrt. | 2045 Törökbálint, Pannon út 1. | X | X |
 
