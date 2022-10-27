@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és az Andorrai Hercegség között a jövedelemadók területén a kettős adóztatás elkerüléséről és az adókijátszás és adóelkerülés megakadályozásáról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
