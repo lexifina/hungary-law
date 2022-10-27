@@ -92,8 +92,11 @@
 
 | Határidő: | 2022. november 30. |
 
-## 2. A címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alap előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1099/2022. (III. 2.) Korm. határozat 2. pontjában a „2022. december 31.” szövegrész helyébe a „2022. december 31., az Agrárminisztérium fejezet javára biztosított 500 000 000 forint tekintetében 2023. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A címrendi kiegészítésről, a Központi Maradványelszámolási Alap előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő előirányzat-átcsoportosításról, fejezetek közötti előirányzat-átcsoportosításról, a 2020. évi kötelezettségvállalással terhelt költségvetési maradványok felhasználásáról, valamint kormányhatározat módosításáról szóló 1454/2022. (IX. 19.) Korm. határozat 1. pont c) alpontjában az „1. Kulturális intézetek szakmai kerete alcímmel, ezen belül a 2. Kulturális Diplomáciai projektek támogatása jogcímcsoporttal, továbbá ezen belül a 3. Nemzetközi tagdíjak és európai uniós befizetések jogcímmel” szövegrész helyébe az „1. Kulturális intézetek szakmai kerete alcímmel” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1515/2022. (X. 26.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
