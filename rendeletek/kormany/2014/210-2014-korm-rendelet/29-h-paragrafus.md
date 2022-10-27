@@ -1,7 +1,7 @@
-29/H. §[^194] (1) E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 386/2020. (VIII. 7.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított rendelkezéseit – a (2) bekezdés kivételével – a Módr6. hatálybalépését[^195] követően benyújtott támogatási kérelemmel indult eljárásokban kell alkalmazni.
+29/H. §[^203] (1) E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 386/2020. (VIII. 7.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított rendelkezéseit – a (2) bekezdés kivételével – a Módr6. hatálybalépését[^204] követően benyújtott támogatási kérelemmel indult eljárásokban kell alkalmazni.
 
-(2) A Módr6. 5. és 7. §-ában megállapított rendelkezéseket a Módr6. hatálybalépésekor[^196] folyamatban lévő olyan ügyekben is alkalmazni kell, ahol támogatás odaítélésére a Módr6. hatálybalépéséig nem került sor.
+(2) A Módr6. 5. és 7. §-ában megállapított rendelkezéseket a Módr6. hatálybalépésekor[^205] folyamatban lévő olyan ügyekben is alkalmazni kell, ahol támogatás odaítélésére a Módr6. hatálybalépéséig nem került sor.
 
-[^194]: A 29/H. §-t a 386/2020. (VIII. 7.) Korm. rendelet 10. §-a iktatta be.
-[^195]: A hatálybalépés időpontja 2020. augusztus 8.
-[^196]: A hatálybalépés időpontja 2020. augusztus 8.
+[^203]: A 29/H. §-t a 386/2020. (VIII. 7.) Korm. rendelet 10. §-a iktatta be.
+[^204]: A hatálybalépés időpontja 2020. augusztus 8.
+[^205]: A hatálybalépés időpontja 2020. augusztus 8.

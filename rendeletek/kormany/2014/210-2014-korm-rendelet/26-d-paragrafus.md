@@ -24,8 +24,8 @@ h) azon vállalkozás részére, amely nem felel meg a rendezett munkaügyi kapc
 
 i) olyan vállalkozásnak vagy olyan vállalkozás kapcsolt vállalkozásának, amely az Európai Bizottság korábbi, Magyarországnak címzett határozata alapján tiltott állami támogatásban részesült, és ezért a támogatás visszafizetésére kötelezték, és ezen visszafizetési kötelezettségének nem tett eleget.
 
-(2)[^169] Nem nyújtható képzési támogatás egy regionális beruházási támogatásban részesülő induló beruházás munkavállalóinak képzéséhez, amennyiben a képzés az induló beruházás beindításához és működtetéséhez feltétlenül szükséges.
+(2)[^175] Nem nyújtható képzési támogatás egy regionális beruházási támogatásban részesülő induló beruházás munkavállalóinak képzéséhez, amennyiben a képzés az induló beruházás beindításához és működtetéséhez feltétlenül szükséges.
 
 (3) Nem nyújtható képzési támogatás az általános csoportmentességi rendelet III. fejezet 5. szakasz 31. cikk (2) bekezdésében foglalt esetben.
 
-[^169]: A 26/D. § (2) bekezdése a 310/2022. (VIII. 11.) Korm. rendelet 13. § k) pontja szerint módosított szöveg.
+[^175]: A 26/D. § (2) bekezdése a 310/2022. (VIII. 11.) Korm. rendelet 13. § k) pontja szerint módosított szöveg.

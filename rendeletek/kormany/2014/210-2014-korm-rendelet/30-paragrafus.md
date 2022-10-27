@@ -1,11 +1,13 @@
 ## 18. Az Európai Unió jogának való megfelelés
 
-## 30. §[^212] E rendelet
+30. §[^221] Ez a rendelet
 
-a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.06.26., 1. o.) 14., 25. és 31. cikke szerinti, továbbá
+a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 14., 25., 31., 38. és 41. cikke szerinti,
 
-b) az Európai Bizottság egyedi határozatának hatálya alá tartozó, előzetes egyedi bejelentési kötelezettség alá eső, a Szerződés 107. cikk (3) bekezdés a) és c) pontja szerinti
+b) az Európai Bizottság egyedi határozatának hatálya alá tartozó, előzetes egyedi bejelentési kötelezettség alá eső, a Szerződés 107. cikk (3) bekezdés a) és c) pontja szerinti, továbbá
 
-regionális beruházási, valamint kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
+c) az Európai Bizottságnak az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú közleménye 2.1. szakaszában, valamint az Európai Bizottság vonatkozó határozatában foglalt feltételek szerinti
 
-[^212]: A 30. § a 463/2020. (X. 21.) Korm. rendelet 10. §-ával megállapított szöveg.
+támogatást tartalmaz.
+
+[^221]: A 30. § a 416/2022. (X. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
