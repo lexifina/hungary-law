@@ -1,0 +1,1 @@
+5. § E rendelet alkalmazásában sportlétesítmény a sportról szóló törvény szerinti sporttevékenység végzésére ellenérték fejében vagy anélkül használt vagy bármely személy vagy szervezet rendelkezésére bocsátott ingatlan, létesítmény vagy egyéb épület.
