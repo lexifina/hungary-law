@@ -1,3 +1,3 @@
-1. § A beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (1) bekezdése a következő d)–f) ponttal egészül ki:
+1. §[^2]
 
-[E rendelet alapján]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
