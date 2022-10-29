@@ -44,7 +44,7 @@ d) a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település ese
 
 e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésre állása esetén a 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja[^11] és 2018. május 31. között (a határnapokat is beleértve)
 
-## hatályba lépett hitelszerződéssel rendelkezik;
+hatályba lépett hitelszerződéssel rendelkezik;
 
 5. pénzügyi intézmény: az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) honlapján közzétett, a hitelprogramhoz csatlakozott hitelintézet, valamint az MFB Zrt.;
 

@@ -12,7 +12,7 @@ c)[^32] az 1. és 3. mellékletében egyaránt szereplő településen történ�
 
 d)[^33] a 4. vagy 5. mellékletében szereplő településen történő működés vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésre állása esetén 2018. május 31-ig
 
-## a Kincstárhoz egy alkalommal nyújthatja be.
+a Kincstárhoz egy alkalommal nyújthatja be.
 
 (2)[^34] A kamattámogatási kérelemben százalékpontban kifejezve, két tizedesjegy pontossággal, 0,05 százalékpontos lépésköz alkalmazásával kell megjelölni a termelői szerveződés által igénybe venni kívánt kamattámogatás mértékét, valamint meg kell adni a kamattámogatás igénybevételének kezdő időpontját, amely valamely kamatidőszak első napja lehet azzal, hogy kamatmentesség iránti kamattámogatási kérelem esetén a kamattámogatás kezdő időpontja
 
@@ -24,7 +24,7 @@ ba)[^35] kizárólag a 3. mellékletében szereplő település valamelyikén mi
 
 bb)[^36] az 1. és 3. mellékletében egyaránt szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen történő működés és 2016. június 30-át követően, de legkésőbb 2017. május 31-ig hatályba lépett hitelszerződéssel történő rendelkezés
 
-## esetén nem lehet korábbi, mint az 51/2016. (VII. 21.) FM rendelet hatálybalépésének[^37] időpontját magába foglaló naptári negyedév első napja,
+esetén nem lehet korábbi, mint az 51/2016. (VII. 21.) FM rendelet hatálybalépésének[^37] időpontját magába foglaló naptári negyedév első napja,
 
 c)[^38] a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen történő működés és a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napja[^39] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel történő rendelkezés esetén nem lehet korábbi, mint a 39/2017. (VIII. 7.) FM rendelet hatálybalépésének napja.
 
