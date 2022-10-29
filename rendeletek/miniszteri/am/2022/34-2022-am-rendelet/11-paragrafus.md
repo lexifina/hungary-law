@@ -1,0 +1,1 @@
+11. § Ez a rendelet az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022. március 23-i 2022/C 131 I/01 számú európai bizottsági közlemény hatálya alá tartozó támogatást tartalmaz.
