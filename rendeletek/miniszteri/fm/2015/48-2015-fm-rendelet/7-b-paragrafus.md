@@ -20,11 +20,11 @@ e) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország 
 
 f) a hitel kedvezményes kamatlábából, a kapcsolódó intézményi kezességvállalás kedvezményes díjából, valamint a költségvetési forrásból nyújtott kezességvállalási díjtámogatásból származó támogatások összegéről – a támogatástartalom igazolások másolati példányának csatolásával – a támogatás kategóriájától függetlenül.
 
-(5) Válságtámogatás igénylése esetén az élelmiszeripari vállalkozás átmeneti támogatás iránti kamattámogatási kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
+(5)[^23] Válságtámogatás igénylése esetén az élelmiszeripari vállalkozás válságtámogatás iránti kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
 
 (6) A válságtámogatás iránti kamattámogatási kérelem 2022. november 30-áig postai úton nyújtható be a Kincstárhoz.
 
-(7) A Kincstár – az (1) bekezdés szerinti válságtámogatás iránti kamattámogatási kérelem tekintetében – a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés b) pontjában meghatározott értékhatárt meghaladó válságtámogatási igényt elutasítja vagy annak összegét a 25/2022. (VIII. 31.) AM rendelet 3. § (7) bekezdésében foglaltakra tekintettel állapítja meg. A szabad válságtámogatási keretet a 25/2022. (VIII. 31.) AM rendelet 4. §-ában foglaltakra tekintettel kell megállapítani.
+(7)[^24] A Kincstár – az (1) bekezdés szerinti válságtámogatás iránti kamattámogatási kérelem tekintetében – a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés b) vagy c) pontjában meghatározott értékhatárt meghaladó válságtámogatási igényt elutasítja vagy annak összegét a 25/2022. (VIII. 31.) AM rendelet 3. § (7) bekezdésében foglaltakra tekintettel állapítja meg. A szabad válságtámogatási keretet a 25/2022. (VIII. 31.) AM rendelet 4. §-ában foglaltakra tekintettel kell megállapítani.
 
 (8) A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2022. december 31-éig megküldi az élelmiszeripari vállalkozás részére.
 
@@ -32,3 +32,5 @@ f) a hitel kedvezményes kamatlábából, a kapcsolódó intézményi kezességv
 
 [^21]: A 7b. alcímet (7/B. §) a 26/2022. (VIII. 31.) AM rendelet 12. §-a iktatta be.
 [^22]: A hatálybalépés időpontja 2022. szeptember 1.
+[^23]: A 7/B. § (5) bekezdése a 34/2022. (X. 28.) AM rendelet 8. § a) pontja szerint módosított szöveg.
+[^24]: A 7/B. § (7) bekezdése a 34/2022. (X. 28.) AM rendelet 8. § b) pontja szerint módosított szöveg.

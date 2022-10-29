@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-48-20-1
 | 2021-04-15 | 2015-48-20-11.6 | 18/2021. (IV. 14.) AM rendelet |
 | 2022-01-01 | 2015-48-20-11.7 | 50/2021. (XII. 29.) AM rendelet |
 | 2022-09-01 | 2015-48-20-11.8 | 26/2022. (VIII. 31.) AM rendelet |
+| 2022-10-29 | 2015-48-20-11.9 | 34/2022. (X. 28.) AM rendelet |
