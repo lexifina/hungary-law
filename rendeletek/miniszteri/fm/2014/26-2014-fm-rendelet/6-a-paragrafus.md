@@ -1,4 +1,4 @@
-6/A. §[^32] (1) Az átmeneti támogatás iránti kérelem benyújtására – a 2. § (2) bekezdésében foglaltak teljesülése mellett – az az anyakecskét tartó mezőgazdasági termelő jogosult, aki
+6/A. §[^34] (1) Az átmeneti támogatás iránti kérelem benyújtására – a 2. § (2) bekezdésében foglaltak teljesülése mellett – az az anyakecskét tartó mezőgazdasági termelő jogosult, aki
 
 a) a 2007. évi XVII. törvény 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett, és az átmeneti támogatás iránti kérelem benyújtásakor az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben nyilvántartásba vett ügyfélként szerepel; és
 
@@ -14,7 +14,7 @@ bd) a kapcsolt vállalkozások adatairól (név, adószám vagy adóazonosító 
 
 be) arról, hogy rendelkezik a megkeresésére a Magyar Juhtenyésztők és Kecsketenyésztők Szövetsége által kiállított, az általa a tenyészetében tartott anyakecskék létszámáról és a támogatás igénybevételéhez szükséges feltételek meglétéről szóló igazolással.
 
-(2)[^33] Az átmeneti támogatás iránti kérelem 2021. szeptember 21. és október 30. között ügyfélkapus azonosítást követően, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+(2)[^35] Az átmeneti támogatás iránti kérelem 2021. szeptember 21. és október 30. között ügyfélkapus azonosítást követően, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (3) Az átmeneti támogatás iránti kérelem – az 5. § (1) bekezdés a)–d) pontjában foglaltakon kívül – tartalmazza az (1) bekezdés szerinti nyilatkozatokat.
 
@@ -26,5 +26,5 @@ be) arról, hogy rendelkezik a megkeresésére a Magyar Juhtenyésztők és Kecs
 
 (7) Átmeneti támogatás vonatkozásában – az 5. § (1) bekezdés e) pontjában foglaltaktól eltérően – a Kincstár megkeresésére a Magyar Juhtenyésztők és Kecsketenyésztők Szövetsége adatot szolgáltat a mezőgazdasági termelő által tartott, a 2. § (2) bekezdés d)–f) pontjában foglalt támogatási feltételeknek megfelelő, a 6/A. § (1) bekezdés e) pontja szerint kiállított igazoláson szereplő állatok létszámáról.
 
-[^32]: A 6/A. §-t a 41/2020. (VIII. 19.) AM rendelet 3. §-a iktatta be.
-[^33]: A 6/A. § (2) bekezdése a 18/2021. (IV. 14.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^34]: A 6/A. §-t a 41/2020. (VIII. 19.) AM rendelet 3. §-a iktatta be.
+[^35]: A 6/A. § (2) bekezdése a 18/2021. (IV. 14.) AM rendelet 5. § c) pontja szerint módosított szöveg.
