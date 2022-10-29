@@ -40,13 +40,13 @@ c)[^15] költségtámogatás.
 
 (5)[^16] Az Agrár Széchenyi Kártya Konstrukciókhoz kezességvállaló intézmény kezessége kapcsolódik. Ha a kezességi díjtámogatásra a mezőgazdasági vállalkozásnak nincs szabad csekély összegű támogatási kerete, az Agrár Széchenyi Kártya Konstrukciók kezességi díjtámogatás nélkül is nyújthatóak.
 
-(5a)[^17] Átmeneti támogatás igénylése esetén, ha a kezességi díjtámogatásra a mezőgazdasági vállalkozásnak nincs szabad átmeneti támogatási kerete, akkor az Agrár Széchenyi Kártya Konstrukciók kezességi díjtámogatás nélkül is nyújthatóak.
+(5a)[^17] Átmeneti vagy válságtámogatás igénylése esetén, ha a kezességi díjtámogatásra a mezőgazdasági vállalkozásnak nincs szabad átmeneti vagy válságtámogatási kerete, akkor az Agrár Széchenyi Kártya Konstrukciók kezességi díjtámogatás nélkül is nyújthatóak.
 
 (6)[^18] A támogatástartalom kiszámítása a Korm. rendelet 2. számú mellékletében foglaltak alapján történik azzal, hogy a támogatástartalom forint összegének kiszámításánál az igénylés benyújtásának időpontjában érvényes adatokat kell figyelembe venni, továbbá a (8a) bekezdés szerinti támogatás megállapításának időpontjában hatályos hitelszerződés esetén kizárólag a támogatásnövekményt kell figyelembe venni.
 
 (7)[^19] A (4) bekezdésben meghatározott támogatások azon Folyószámlahitel esetén vehetők igénybe, amelynek összege százezer forint pozitív egész számú többszöröse, de minimum ötszázezer forint, maximum 200 millió forint, és futamideje legfeljebb 3 év.
 
-(8)[^20] A támogatás mértéke – kivéve a (8a) és (8d) bekezdésben foglalt eseteket –
+(8)[^20] A támogatás mértéke – kivéve a (8a), (8d) és (8e) bekezdésben foglalt eseteket –
 
 a) évi 4 százalékpontnyi kamattámogatás, valamint
 
@@ -98,15 +98,23 @@ b) minden megkezdett egész állategység után számított, állategységenkén
 
 c) a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslésének költsége, az egyszeri szerződéskötési díj, az egyszeri közjegyzői díj, a hitel teljes futamidejére megfizetett bírálati díj együttes összege szerinti 100% költségtámogatás.
 
-(9)[^38] Az Agrár Széchenyi Kártya Konstrukciók keretében létrejött ügylet támogatástartalmának kimutatásakor a kamat-, kezelési költség, kezességi díj támogatás összegének euróra történő átszámításakor az igénylőlap benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
+(8e)[^38] Aszálykár miatt, a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. törvény) 14. § (1) bekezdése szerinti döntéssel vagy 23. § (2) bekezdése szerinti igazolással (a továbbiakban együtt: aszálykárra vonatkozó igazolás) rendelkező vagy a Tenyészet Információs Rendszerben (a továbbiakban: TIR) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti ügyfél-azonosítóval nyilvántartott mezőgazdasági vállalkozásnak az aszálykárral érintett növénytermesztők, valamint az állattartók újonnan felvett Agrár Széchenyi Kártya folyószámlahiteleihez kapcsolódó és egyes agrártárgyú miniszteri rendeletek módosításáról szóló 34/2022. (X. 28.) AM rendelet [a továbbiakban: 34/2022. (X. 28.) AM rendelet] hatálybalépését[^39] követő nap és 2022. december 31. között – a határnapokat is beleértve – hatályba lépett hitelszerződése esetén a kamattámogatás mértéke – a (8) bekezdés a) pontjában foglaltaktól eltérően – a Folyószámlahitel kamatidőszakának kamat megállapításánál alapul vett 1 havi BUBOR éves szinten számított százalékpontban kifejezett értéke plusz 1 százalékpont, de legfeljebb évi 14 százalékpontnyi kamattámogatás, mindaddig, amíg a Folyószámlahitel kamatidőszakának kamat megállapításához alapul vett 1 havi BUBOR értéke nagyobb, mint évi 3 százalékpont. Amennyiben a Folyószámlahitel kamatidőszakának kamat megállapításához alapul vett 1 havi BUBOR értéke nem nagyobb, mint évi 3 százalékpont, a kamattámogatás mértéke megegyezik a 2. § (8) bekezdés a) pontjában foglalt mértékkel.
+
+(8f)[^40] A mezőgazdasági vállalkozás (8e) bekezdés szerinti hitelszerződéséhez
+
+a) a (8) bekezdés b) pontjában meghatározott mértékű kezességi díjtámogatás kapcsolódik, és
+
+b) nem vehető igénybe a (4) bekezdés c) pontja szerinti költségtámogatás.
+
+(9)[^41] Az Agrár Széchenyi Kártya Konstrukciók keretében létrejött ügylet támogatástartalmának kimutatásakor a kamat-, kezelési költség, kezességi díj támogatás összegének euróra történő átszámításakor az igénylőlap benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
 
 [^14]: A 2. § (3) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (5) bekezdése szerint módosított szöveg.
 [^15]: A 2. § (4) bekezdés c) pontját a 77/2015. (XII. 1.) FM rendelet 13. § (2) bekezdése iktatta be.
 [^16]: A 2. § (5) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^17]: A 2. § (5a) bekezdését a 66/2020. (XII. 18.) AM rendelet 2. §-a iktatta be.
+[^17]: A 2. § (5a) bekezdését a 66/2020. (XII. 18.) AM rendelet 2. §-a iktatta be, szövege a 34/2022. (X. 28.) AM rendelet 5. § a) pontja szerint módosított szöveg.
 [^18]: A 2. § (6) bekezdése a 77/2015. (XII. 1.) FM rendelet 13. § (3) bekezdésével megállapított szöveg.
 [^19]: A 2. § (7) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (2) bekezdésével megállapított, a 66/2020. (XII. 18.) AM rendelet 6. § a) pontja szerint módosított szöveg.
-[^20]: A 2. § (8) bekezdése a 25/2016. (IV. 11.) FM rendelet 20. §-ával megállapított, nyitó szövegrésze a 49/2021. (XII. 28.) AM rendelet 6. § a) pontja szerint módosított szöveg.
+[^20]: A 2. § (8) bekezdése a 25/2016. (IV. 11.) FM rendelet 20. §-ával megállapított, nyitó szövegrésze a 34/2022. (X. 28.) AM rendelet 5. § b) pontja szerint módosított szöveg.
 [^21]: A 2. § (8a) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
 [^22]: A 2. § (8a) bekezdés a) pont nyitó szövegrésze a 66/2020. (XII. 18.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^23]: A 2. § (8a) bekezdés a) pont ac) alpontja a 66/2020. (XII. 18.) AM rendelet 6. § b) pontja szerint módosított szöveg.
@@ -124,4 +132,7 @@ c) a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslés
 [^35]: A 2. § (8b) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 3. § (2) bekezdésével megállapított, a 14/2022. (III. 30.) AM rendelet 3. § a) pontja szerint módosított szöveg.
 [^36]: A 2. § (8c) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege a 39/2017. (VIII. 7.) FM rendelet 3. § (2) bekezdésével megállapított, a 14/2022. (III. 30.) AM rendelet 3. § a) pontja szerint módosított szöveg.
 [^37]: A 2. § (8d) bekezdését a 49/2021. (XII. 28.) AM rendelet 2. §-a iktatta be, szövege a 26/2022. (VIII. 31.) AM rendelet 4. §-a szerint módosított szöveg.
-[^38]: A 2. § (9) bekezdése a 66/2020. (XII. 18.) AM rendelet 6. § d) pontja, a 49/2021. (XII. 28.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^38]: A 2. § (8e) bekezdését a 34/2022. (X. 28.) AM rendelet 1. §-a iktatta be.
+[^39]: A hatálybalépés időpontja 2022. október 29.
+[^40]: A 2. § (8f) bekezdését a 34/2022. (X. 28.) AM rendelet 1. §-a iktatta be.
+[^41]: A 2. § (9) bekezdése a 66/2020. (XII. 18.) AM rendelet 6. § d) pontja, a 49/2021. (XII. 28.) AM rendelet 6. § b) pontja szerint módosított szöveg.

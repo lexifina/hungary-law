@@ -1,12 +1,14 @@
-## 6c.[^87] Válságtámogatás
+## 6c.[^91] Válságtámogatás
 
-7/E. § (1) Az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^88] napja és 2022. december 31. napja között hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (8) bekezdése szerinti kamattámogatás, kezességi díjtámogatás, a 2. § (8d) bekezdés a) pontja szerinti kamattámogatás és kezelési költség támogatás, valamint a 2. § (8d) bekezdés b) pontja szerinti kezességi díjtámogatás – figyelemmel a 2. § (1) és (3) bekezdésében foglaltakra – válságtámogatásként is igényelhető.
+7/E. § (1)[^92] Az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^93] napja és 2022. december 31. napja között hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (8) bekezdése szerinti kamattámogatás, kezességi díjtámogatás, a 2. § (8d) bekezdés a) pontja szerinti kamattámogatás és kezelési költség támogatás, valamint a 2. § (8d) bekezdés b) pontja szerinti kezességi díjtámogatás és a 2. § (8e) bekezdése szerinti kamattámogatás – figyelemmel a 2. § (1) és (3) bekezdésében foglaltakra – válságtámogatásként is igényelhető.
 
-(2) A mezőgazdasági vállalkozás által igénybe vehető válságtámogatás összege legfeljebb
+(2)[^94] A mezőgazdasági vállalkozás által igénybe vehető válságtámogatás összege legfeljebb
 
-a) a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés a) pontjában meghatározott összeg, ha a hitelcél szerinti tevékenysége – amely szerepel a mezőgazdasági vállalkozás tevékenységei között – a TEÁOR'08 011, 012, 013, 014, 015 kód, 102 kód,
+a) a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés a) pontjában meghatározott összeg, ha a hitelcél szerinti tevékenysége – amely szerepel a mezőgazdasági vállalkozás tevékenységei között – a TEÁOR’08 01.1, 012, 01.30, 01.4, 01.50 kód,
 
-b) a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés b) pontjában meghatározott összeg, ha a hitelcél szerinti tevékenysége – amely szerepel a mezőgazdasági vállalkozás tevékenységei között – a TEÁOR'08 017, 02, 10, 11, 462, 463 kód
+b) a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés b) pontjában meghatározott összeg, ha a hitelcél szerinti tevékenysége – amely szerepel a mezőgazdasági vállalkozás tevékenységei között – a TEÁOR’08 01.70, 02, 10, 11, 46.2, 46.3 kód,
+
+c) a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés c) pontjában meghatározott összeg, ha a hitelcél szerinti tevékenysége – amely szerepel a mezőgazdasági vállalkozás tevékenységei között – a TEÁOR’08 03, 10.20 kód
 
 alá tartozó tevékenység.
 
@@ -48,5 +50,7 @@ e) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország 
 
 (10) Válságtámogatás igénylése esetén nem kell alkalmazni a 6. § (3) bekezdésében és a 7/A–7/D. §-ban foglaltakat.
 
-[^87]: A 6c. alcímet (7/E. §) a 26/2022. (VIII. 31.) AM rendelet 1. §-a iktatta be.
-[^88]: A hatálybalépés időpontja 2022. szeptember 1.
+[^91]: A 6c. alcímet (7/E. §) a 26/2022. (VIII. 31.) AM rendelet 1. §-a iktatta be.
+[^92]: A 7/E. § (1) bekezdése a 34/2022. (X. 28.) AM rendelet 5. § f) pontja szerint módosított szöveg.
+[^93]: A hatálybalépés időpontja 2022. szeptember 1.
+[^94]: A 7/E. § (2) bekezdése a 34/2022. (X. 28.) AM rendelet 3. §-ával megállapított szöveg.
