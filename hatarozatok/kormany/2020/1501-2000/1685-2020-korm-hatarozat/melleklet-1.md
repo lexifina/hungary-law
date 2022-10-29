@@ -28,120 +28,51 @@
 
 ## Határidő: a 2022. évi központi költségvetés tervezése során
 
-1. melléklet az 1685/2020. (X. 22.) Korm. határozathoz
+1. melléklet az 1685/2020. (X. 22.) Korm. határozathoz[^2]
 
-## Az Európai Unió számára készített, „A nők szerepének erősítése a családban és a társadalomban” (2021–2030) akcióterv végrehajtásának a 2021–2022. évekre szóló Intézkedési Terve
+## Az Akciótervben foglalt feladatok 2021−2022. évekre vonatkozó teljesítése érdekében a nők és férfiak társadalmi egyenlőségének megvalósítása céljából a következő intézkedések végrehajtása szükséges:
 
-Az Akciótervben foglalt feladatok 2021–2022. évekre vonatkozó teljesítése érdekében a nők és férfiak társadalmi egyenlőségének megvalósítása céljából a következő intézkedések végrehajtása szükséges:
+1. a nők helyzetének vizsgálata érdekében kiterjedt kutatások folytatása, különös tekintettel a családi élet és munkavállalás összehangolásának támogatására, családi, gyermeknevelési feladatok, az atipikus foglalkoztatási formák alacsony mértéke okainak felmérésére, továbbá a kutatások eredményeinek figyelembevételével új intézkedések kidolgozása, különös tekintettel a digitalizáció előnyös hatásainak kihasználására is;
 
-1.[^2] a nők helyzetének vizsgálata érdekében kiterjedt kutatások folytatása, különös tekintettel a családi élet és munkavállalás összehangolásának támogatására, a női-férfi munkamegosztás elősegítésén keresztül, az atipikus foglalkoztatási formák alacsony mértéke okainak felmérésére, továbbá a kutatások eredményeinek figyelembevételével új intézkedések kidolgozása, különös tekintettel a digitalizáció előnyös hatásainak kihasználására is;
+| Felelős: | kultúráért és innovációért felelős miniszter |
 
-Felelős: Miniszterelnökséget vezető miniszter
+| Határidő: | 2022. december 31. |
 
-innovációért és technológiáért felelős miniszter
+2. a nők „láthatatlan”, „fizetetlen” munkájának mérséklése és fokozottabb elismerése a nemzedékek közötti együttműködés előmozdításával, a nagyszülői szerep támogatásával, a hozzátartozók ápolásából, gondozásából fakadó terhek csökkentésével, továbbá figyelemfelhívó kommunikációs kampányokkal;
 
-Határidő: 2022. január 31.
+| Felelős: | kultúráért és innovációért felelős miniszter |
 
-Forrás: európai uniós forrásbevonással
+| Határidő: | 2022. december 31. |
 
-2.[^3] a nők „láthatatlan”, „fizetetlen” munkájának mérséklése és fokozottabb elismerése a nemzedékek közötti együttműködés előmozdításával, a nagyszülői szerep támogatásával, a hozzátartozók ápolásából fakadó terhek csökkentésével, továbbá figyelemfelhívó kommunikációs kampányokkal;
+3. szemléletmód-formálás az oktatásban a Családi Életre Nevelés program erősítésével, hangsúlyt helyezve a nők és férfiak közötti harmonikus együttműködésre;
 
-Felelős: Miniszterelnökséget vezető miniszter
+| Felelős: | kultúráért és innovációért felelős miniszter |
 
-Határidő: folyamatos
+| Határidő: | 2022. december 31. |
 
-Forrás: központi költségvetés XI. Miniszterelnökség fejezet 30/01/20/05
+4. a nők vállalkozóvá válásának támogatása szakmai programokkal, sikeres vállalkozó nők példájának bemutatásával;
 
-3.[^4] szemléletmód-formálás az oktatásban a Családi Életre Nevelés program erősítésével, hangsúlyt helyezve a nők és férfiak közötti harmonikus együttműködésre;
+| Felelős: | kultúráért és innovációért felelős miniszter pénzügyminiszter |
 
-Felelős: Miniszterelnökséget vezető miniszter
+| Határidő: | 2022. december 31. |
 
-innovációért és technológiáért felelős miniszter
+5. Családbarát Szülészet és Családbarát Kórház pályázatok további meghirdetése, kibővítése;
 
-Határidő: 2022. december 31.
+| Felelős: | kultúráért és innovációért felelős miniszter |
 
-Forrás: központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet
+| Határidő: | 2022.december 31. |
 
-4.[^5] család- és gyermekbarát környezet kialakítása a meglévő pályázatok, hálózatok fenntartásával és bővítésével, a Családbarát Munkahely pályázat és a Család és Karrier Pontok fejlesztésével;
+6. a hátrányos helyzetű, elsősorban roma nők egészségtudatosságát növelő, a népegészségügyi szűréseken való részvételt ösztönző programok kidolgozása, valamint a munkaerőpiacon és a családon belüli szerepüket támogató programok működtetése;
 
-Felelős: Miniszterelnökséget vezető miniszter
+| Felelős: | belügyminiszter kultúráért és innovációért felelős miniszter |
 
-innovációért és technológiáért felelős miniszter
+| Határidő: | 2022. december 31. |
 
-Határidő: folyamatos
+7. a hátrányos helyzetű, elsősorban roma lányok, nők iskolai lemorzsolódásának megelőzését és korai iskolaelhagyásának csökkentését célzó programok kidolgozása, működtetése.
 
-Forrás: központi költségvetés XI. Miniszterelnökség fejezet 30/01/20/05
+| Felelős: | belügyminiszter |
 
-5.[^6] a nők vezetővé válásának elősegítése a gazdasági-vállalati szektorban, a családbarát munkahelyi programok, szemléletmód-formálás, pályázatok és családbarát felsőoktatás támogatásával;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: folyamatos
-
-Forrás: európai uniós forrásbevonással
-
-6.[^7] a nőpolitikai, női szempontokat figyelembe vevő szakértelem fejlesztése szakértők képzésével, valamint a szaktudás elterjesztésével a közigazgatásban;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: 2022. december 31.
-
-Forrás: központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet
-
-7.[^8] a nők vállalkozóvá válásának támogatása szakmai programokkal, sikeres vállalkozó nők példájának bemutatásával;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-innovációért és technológiáért felelős miniszter
-
-pénzügyminiszter
-
-Határidő: 2022. december 31.
-
-Forrás: európai uniós forrásbevonással GINOP-5.2.7-18., GINOP-5.1.9-17, GINOP-1.1.2-VEKOP-17
-
-8.[^9] Családbarát Szülészet és Családbarát Kórház pályázatok további meghirdetése, kibővítése;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2022. december 31.
-
-Forrás: európai uniós forrásbevonással
-
-9.[^10] a hátrányos helyzetű (elsősorban roma) nők egészségtudatosságát növelő, a szervezett népegészségügyi szűréseken való részvételt ösztönző programok kidolgozása, valamint a munkaerőpiacon és a családon belüli szerepüket támogató programok működtetése;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-emberi erőforrások minisztere belügyminiszter
-
-Határidő: 2022. december 31.
-
-Forrás: európai uniós forrásbevonással, központi költségvetés XI. Miniszterelnökség fejezet 30/01/20/05, XX. Emberi Erőforrások Minisztériuma fejezet 20/22/28, illetve 20/22/1
-
-10.[^11] ingyenes mentálhigiénés tanácsadás, pszichológusok biztosítása az Egészségfejlesztési Irodákban a hátrányos helyzetű nők számára, a Család- és Karrier Pontok, az Egyszülős Központ és a Család, Esélyteremtő és Önkéntes Házak hálózatának bevonásával.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2022. december 31.
-
-Forrás: európai uniós forrásbevonással, központi költségvetés XI. Miniszterelnökség fejezet 30/01/20/05, XX. Emberi Erőforrások Minisztériuma fejezet 20/22/1
+| Határidő: | 2022. december 31. |
 
 [^1]: A 3. pont az 1211/2022. (IV. 5.) Korm. határozat 11. pont a) alpontja szerint módosított szöveg.
-[^2]: Az 1. melléklet 1. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^3]: Az 1. melléklet 2. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^4]: Az 1. melléklet 3. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^5]: Az 1. melléklet 4. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^6]: Az 1. melléklet 5. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^7]: Az 1. melléklet 6. pontja az 1211/2022. (IV. 5.) Korm. határozat 20. pontja szerint módosított szöveg.
-[^8]: Az 1. melléklet 7. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^9]: Az 1. melléklet 8. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^10]: Az 1. melléklet 9. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^11]: Az 1. melléklet 10. pontja az 1211/2022. (IV. 5.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1516/2022. (X. 28.) Korm. határozat 2. pontjával megállapított szöveg.
