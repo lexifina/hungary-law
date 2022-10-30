@@ -28,7 +28,7 @@
 
 | Határidő: | azonnal |
 
-## 2. Az Európai Unió számára készített, „A nők szerepének erősítése a családban és a társadalomban” (2021–2030) akcióterv elfogadásáról, valamint a végrehajtásának a 2021–2022. évekre szóló Intézkedési Tervéről szóló 1685/2020. (X. 22.) Korm. határozat 1. melléklete helyébe a 3. melléklet lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -91,3 +91,5 @@ Az Európai Unió számára készített „A nők szerepének erősítése a csa
 | Felelős: | belügyminiszter |
 
 | Határidő: | folyamatos |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
