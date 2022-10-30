@@ -1,11 +1,5 @@
 ## 1. Az Agrár Széchenyi Kártya Konstrukciók keretében nyújtott de minimis támogatásokról szóló 39/2011. (V. 18.) VM rendelet módosítása
 
-1. § Az Agrár Széchenyi Kártya Konstrukciók keretében nyújtott de minimis támogatásokról szóló 39/2011. (V. 18.) VM rendelet [a továbbiakban: 39/2011. (V. 18.) VM rendelet] 2. §-a a következő (8e) és (8f) bekezdéssel egészül ki:
+1. §[^2]
 
-„(8e) Aszálykár miatt, a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk. törvény) 14. § (1) bekezdése szerinti döntéssel vagy 23. § (2) bekezdése szerinti igazolással (a továbbiakban együtt: aszálykárra vonatkozó igazolás) rendelkező vagy a Tenyészet Információs Rendszerben (a továbbiakban: TIR) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti ügyfél-azonosítóval nyilvántartott mezőgazdasági vállalkozásnak az aszálykárral érintett növénytermesztők, valamint az állattartók újonnan felvett Agrár Széchenyi Kártya folyószámlahiteleihez kapcsolódó és egyes agrártárgyú miniszteri rendeletek módosításáról szóló 34/2022. (X. 28.) AM rendelet [a továbbiakban: 34/2022. (X. 28.) AM rendelet] hatálybalépését követő nap és 2022. december 31. között – a határnapokat is beleértve – hatályba lépett hitelszerződése esetén a kamattámogatás mértéke – a (8) bekezdés a) pontjában foglaltaktól eltérően – a Folyószámlahitel kamatidőszakának kamat megállapításánál alapul vett 1 havi BUBOR éves szinten számított százalékpontban kifejezett értéke plusz 1 százalékpont, de legfeljebb évi 14 százalékpontnyi kamattámogatás, mindaddig, amíg a Folyószámlahitel kamatidőszakának kamat megállapításához alapul vett 1 havi BUBOR értéke nagyobb, mint évi 3 százalékpont. Amennyiben a Folyószámlahitel kamatidőszakának kamat megállapításához alapul vett 1 havi BUBOR értéke nem nagyobb, mint évi 3 százalékpont, a kamattámogatás mértéke megegyezik a 2. § (8) bekezdés a) pontjában foglalt mértékkel.
-
-(8f) A mezőgazdasági vállalkozás (8e) bekezdés szerinti hitelszerződéséhez
-
-a) a (8) bekezdés b) pontjában meghatározott mértékű kezességi díjtámogatás kapcsolódik, és
-
-b) nem vehető igénybe a (4) bekezdés c) pontja szerinti költségtámogatás.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

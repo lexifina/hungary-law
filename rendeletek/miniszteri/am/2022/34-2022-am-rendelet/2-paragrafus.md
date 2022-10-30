@@ -1,3 +1,3 @@
-2. § A 39/2011. (V. 18.) VM rendelet 4. § (1) bekezdése a következő g) ponttal egészül ki:
+2. §[^3]
 
-[Igénylőlapot és költségtámogatás iránti kérelmet nyújthat be és ahhoz kapcsolódóan – hatályosan létrejött hitelszerződés alapján – támogatást vehet igénybe az a mezőgazdasági vállalkozás, aki (amely)]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
