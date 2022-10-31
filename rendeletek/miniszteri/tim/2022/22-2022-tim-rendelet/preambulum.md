@@ -1,1 +1,0 @@
-A különleges földgázkészlet létrehozásáról szóló 260/2022. (VII. 21.) Korm. rendelet 9. § a) és b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
