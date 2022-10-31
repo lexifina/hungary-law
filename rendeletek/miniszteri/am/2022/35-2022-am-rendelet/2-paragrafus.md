@@ -1,0 +1,5 @@
+## „13. termesztéstechnológiai módszerek javítása: a kérelemben megjelölt területen fekvő szőlőültetvény támberendezésének kizárólag új alapanyagok felhasználásával történő teljes cseréje, amely megvalósítható a tőkék pótlásával vagy a hektáronkénti tőszám növeléssel elvégzett pótlásával együtt is, oly módon, hogy a művelet elvégzését követően a pótolt tőkék aránya az érintett ültetvényben található tőkéknek legfeljebb a 67%-a lehet, amelynek következtében a szőlőültetvény hosszú távú művelése biztosíthatóvá válik, vagy az új támberendezés gépi művelésre és gépi szüretre alkalmassá teszi a szőlőültetvényt,”
+
+2. § Az 57/2020. (XI. 13.) AM rendelet a következő 3/A. §-sal egészül ki:
+
+„3/A. § Az (EU) 2016/1150 bizottsági végrehajtási rendelet 24. cikk (3) bekezdése alapján az átalány alapú egységköltség összegének felülvizsgálata eredményeként a költségátalány és kompenzáció összegét az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) az adott támogatási időszakot megelőző támogatási időszakban a 4. és 5. mellékletben meghatározott tevékenységek számlával igazolt összegének átlaga alapján állapítja meg.”

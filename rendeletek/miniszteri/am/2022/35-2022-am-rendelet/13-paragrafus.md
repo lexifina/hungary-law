@@ -1,0 +1,1 @@
+13. § Ez a rendelet a borágazatban megvalósuló nemzeti támogatási programok tekintetében az 1308/2013/EU európai parlamenti és tanácsi rendelet alkalmazása szabályainak megállapításáról szóló, 2016. április 15-i (EU) 2016/1150 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
