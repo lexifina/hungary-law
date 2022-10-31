@@ -1,6 +1,0 @@
-6. § (1)[^9] A BFK Budapest Fejlesztési Központ Nonprofit Zrt. az 5. § (1) bekezdés b) pontjában foglalt feladatkörében részt vesz a budapesti várostervezési, magasépítési, közlekedésfejlesztési, köztér-, közpark-, egyéb közterület-fejlesztési tevékenységgel összefüggő budapesti stratégiai-tervezési feladatok megvalósításában, továbbá a Budapesti Agglomeráció területéhez tartozó településeket is érintő állami közlekedési infrastruktúra-fejlesztések stratégia-tervezési feladatainak ellátásában.
-
-(2)[^10] A BFK Budapest Fejlesztési Központ Nonprofit Zrt. közreműködik a 2030-ig tartó időszakra vonatkozó tízéves Budapest-városfejlesztési terv előkészítésében és az elfogadott terv végrehajtásában.
-
-[^9]: A 6. § (1) bekezdése a 321/2020. (VII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^10]: A 6. § (2) bekezdése a 321/2020. (VII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
