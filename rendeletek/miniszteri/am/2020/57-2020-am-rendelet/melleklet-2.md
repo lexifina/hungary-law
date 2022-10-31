@@ -1,46 +1,4 @@
-## 0X07877_0
-
-|  | A | B | C | D | E | F | G |
-
-| 1. |  | A szaporító- anyag típusa | A szaporító- anyag mennyisége | A szaporító- anyag kategóriája | Elszámolható maximális költségek és kompenzáció fajtaváltás esetén (EUR/hektár) | Elszámolható maximális költségek és kompenzáció áttelepítés esetén (EUR/hektár) | Elszámolható maximális költségek a szőlőültetvény termesztéstechnológiai módszereinek javítása esetén (EUR/hektár) |
-
-| 2. | támberendezés bontása, elszállítása, régi szőlőtőkék eltávolítása, elszállítása | – | 790 | – |
-
-| 3. | – | – |
-
-| 4. | talaj-előkészítés | – | 3 700 | – |
-
-| 5. | ültetési munka | oltvány | 5000 tő/hektár és a felett | bázis, certifikált | 10 500 | 0 |
-
-| 6. | standard | 9 200 | 0 |
-
-| 7. | 5000 tő/hektár alatt | bázis, certifikált | 8 000 | 0 |
-
-| 8. | standard | 7 500 | 0 |
-
-| 9. | dugvány | 5000 tő/hektár és a felett | bázis, certifikált | 8 000 | 0 |
-
-| 10. | standard | 7 600 | 0 |
-
-| 11. | 5000 tő/hektár alatt | bázis, certifikált | 6 800 | 0 |
-
-| 12. | standard | 6 300 | 0 |
-
-| 13. | támberendezés létesítés kevesebb, mint 4000 tő/hektár esetén |  |  |  | 5 900 |
-
-| 14. | támberendezés létesítés kevesebb, mint 5000 tő/hektár esetén |  |  |  | 6 900 |
-
-| 15. | támberendezés legalább 5000 tő/hektár ültetvény esetén |  |  |  | 8 200 |
-
-| 16. | költségnövekmény, ha a támogatással érintett terület átlagos lejtése 5% feletti és 12% vagy az alatti |  |  |  | 300 |
-
-| 17. | költségnövekmény, ha a támogatással érintett terület átlagos lejtése 12% feletti |  |  |  | 720 | 300 |
-
-| 18. | a költségek csökkentése, ha a telepítendő szaporítóanyag házi szőlőiskolából származik |  |  |  | 1 900 | 0 |
-
-| 19. | a termeléskiesést ellentételező kompenzáció |  |  |  | 2 400 | – |
-
-2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^22]
+2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^56]
 
 1. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – fajtaváltás, áttelepítés
 
@@ -158,4 +116,4 @@
 
 | 26. | Összesen elérhető pontszám | 50 |  |
 
-[^22]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése, a 27/2022. (VIII. 31.) AM rendelet 12. §-a szerint módosított szöveg.
+[^56]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése, a 27/2022. (VIII. 31.) AM rendelet 12. §-a szerint módosított szöveg.

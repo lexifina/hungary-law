@@ -10,11 +10,13 @@ d) a b) pont szerinti tevékenység keretében elvégezni tervezett műveletek m
 
 e) a terület lejtésének százalékban kifejezett mértékét,
 
-f) a felhasználandó szaporítóanyag kategóriájának, fajtájának és típusának megjelölését,
+f)[^11] a felhasználandó szaporítóanyag fajtájának és típusának megjelölését,
 
-g) a felhasználandó szaporítóanyag vonatkozásában a szőlőiskola típusának megjelölését és
+g)[^12]
 
 h) az ültetvény jellegének sor- és tőtáv-, valamint hektáronkénti tőszámmegjelölését, a megvalósítani kívánt művelésmód megnevezését.
+
+i)[^13] a művelésmód kialakítása tekintetében a huzalok számát, a 6. mellékletben foglaltaknak megfelelően, valamint a végoszlop és soroszlop anyagát.
 
 (2) Az egyéni tervhez csatolni kell:
 
@@ -26,9 +28,9 @@ c) az újratelepítési engedély vagy az átváltott telepítési engedély má
 
 d) a hegybíró igazolását a tevékenységgel érintett terület termőhelyi kataszteri osztályáról és pontértékéről, amennyiben az újratelepítési engedély vagy az átváltott telepítési engedély nem tartalmazza a tevékenységgel érintett terület termőhelyi kataszteri osztályát és pontértékét,
 
-e)[^4] a hegybíró igazolását a 2. melléklet 1. pontjában foglalt táblázat A:7 vagy A:8 mezőjében, valamint 2. pontjában foglalt táblázat A:3, A:7 vagy A:8 mezőjében foglaltak teljesüléséről, amennyiben az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja,
+e)[^14] a hegybíró igazolását a 2. melléklet 1. pontjában foglalt táblázat A:7 vagy A:8 mezőjében, valamint 2. pontjában foglalt táblázat A:3, A:7 vagy A:8 mezőjében foglaltak teljesüléséről, amennyiben az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja,
 
-f)[^5] a 2. melléklet 1. pontjában foglalt táblázat A:12 mezőjében, valamint 2. pontjában foglalt táblázat A:10 mezőjében foglaltaknak való megfelelést igazoló iratok másolatát, amennyiben az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja,
+f)[^15] a 2. melléklet 1. pontjában foglalt táblázat A:12 mezőjében, valamint 2. pontjában foglalt táblázat A:10 mezőjében foglaltaknak való megfelelést igazoló iratok másolatát, amennyiben az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja,
 
 g) a 2. melléklet 1. pontjában foglalt táblázat A:10 mezőjében foglaltaknak való megfelelést bor előállítására vonatkozóan:
 
@@ -42,17 +44,29 @@ gd) ha a kérelmező vállalkozás valamely tagjának közeli hozzátartozója r
 
 ge) kapcsolt vállalkozás esetén arra vonatkozó irat másolatát, hogy a bor előállítására vonatkozó érvényes borászati üzem működési engedéllyel rendelkező kapcsolt vállalkozás a kérelmező kapcsolt vállalkozása, amennyiben az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja,
 
-h)[^6] a 2. melléklet 1. pontjában foglalt táblázat A:9 mezőjében foglaltaknak való megfeleléshez a termelői integrációs szervezetekről szóló 24/2020. (VI. 22.) AM rendelet [a továbbiakban: 24/2020. (VI. 22.) AM rendelet] 2. § (4) bekezdés a) pontjában foglalt feltételek alapján elismert termelői integrációs szervezet igazolását a kérelmező fennálló tagságáról,
+h)[^16] a 2. melléklet 1. pontjában foglalt táblázat A:9 mezőjében foglaltaknak való megfeleléshez a termelői integrációs szervezetekről szóló 24/2020. (VI. 22.) AM rendelet [a továbbiakban: 24/2020. (VI. 22.) AM rendelet] 2. § (4) bekezdés a) pontjában foglalt feltételek alapján elismert termelői integrációs szervezet igazolását a kérelmező fennálló tagságáról,
 
 i) a termesztéstechnológiai módszerek javítása esetén a hegybíró igazolását az ültetvényben található szőlőfajtáról és az ültetvény telepítésének évéről,
 
-j)[^7] a termesztéstechnológiai módszerek javítása esetén a hegybíró igazolását az egyéni tervben megjelölt ültetvényről arra vonatkozóan, hogy a benyújtást megelőző három borpiaci év szüreti jelentése alapján az ültetvény termő ültetvénynek minősül-e, az ültetvény beállottságáról és szakszerű műveléséről, valamint az ültetvény vonatkozásában a 2. melléklet 2. pontjában foglalt táblázat A:5, A:6, A:7 vagy A:8 mezőjében foglaltaknak való megfelelőségről,
+j)[^17] a termesztéstechnológiai módszerek javítása esetén a hegybíró igazolását az egyéni tervben megjelölt ültetvényről arra vonatkozóan, hogy a benyújtást megelőző három borpiaci év szüreti jelentése alapján az ültetvény termő ültetvénynek minősül-e, az ültetvény beállottságáról és szakszerű műveléséről, valamint az ültetvény vonatkozásában a 2. melléklet 2. pontjában foglalt táblázat A:5, A:6, A:7 vagy A:8 mezőjében foglaltaknak való megfelelőségről,
 
-k) a termesztéstechnológiai módszerek javítása esetén a meglévő támberendezésről készített oldalnézeti vázrajzot és
+k)[^18] a termesztéstechnológiai módszerek javítása esetén a meglévő támberendezésről készített oldalnézeti vázrajzot,
 
-l) a családi gazdaság tagja által benyújtott egyéni terv esetében a családi gazdaság meglétét igazoló határozat másolatát.
+l)[^19] a családi gazdaság tagja által benyújtott egyéni terv esetében a családi gazdaság meglétét igazoló határozat másolatát és
 
-[^4]: A 7. § (2) bekezdés e) pontja a 22/2021. (VI. 3.) AM rendelet 10. § a) pontja szerint módosított szöveg.
-[^5]: A 7. § (2) bekezdés f) pontja a 22/2021. (VI. 3.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^6]: A 7. § (2) bekezdés h) pontja a 22/2021. (VI. 3.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^7]: A 7. § (2) bekezdés j) pontja a 22/2021. (VI. 3.) AM rendelet 6. § (2) bekezdésével megállapított szöveg.
+m)[^20] a kérelmező nyilatkozatát arra vonatkozóan, hogy
+
+ma) az átalány alapú egységköltség 3/A. § szerinti megállapításához vállalja, hogy az ott meghatározott, a kifizetési kérelemmel érintett tevékenységekkel összefüggésben keletkezett kifizetett számláinak másolatát, a kifizetési igazolással együtt, a kifizetési kérelemmel egyidejűleg megküldi a Kincstár részére, vagy
+
+mb) a tevékenységet vagy annak meghatározott, számlával nem igazolható részét saját erőből hajtotta végre.
+
+[^11]: A 7. § (1) bekezdés f) pontja a 35/2022. (X. 28.) AM rendelet 10. § c) pontja szerint módosított szöveg.
+[^12]: A 7. § (1) bekezdés g) pontját a 35/2022. (X. 28.) AM rendelet 11. § b) pontja hatályon kívül helyezte.
+[^13]: A 7. § (1) bekezdés i) pontját a 35/2022. (X. 28.) AM rendelet 4. § (1) bekezdése iktatta be.
+[^14]: A 7. § (2) bekezdés e) pontja a 22/2021. (VI. 3.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^15]: A 7. § (2) bekezdés f) pontja a 22/2021. (VI. 3.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^16]: A 7. § (2) bekezdés h) pontja a 22/2021. (VI. 3.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^17]: A 7. § (2) bekezdés j) pontja a 22/2021. (VI. 3.) AM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^18]: A 7. § (2) bekezdés k) pontja a 35/2022. (X. 28.) AM rendelet 10. § d) pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdés l) pontja a 35/2022. (X. 28.) AM rendelet 10. § e) pontja szerint módosított szöveg.
+[^20]: A 7. § (2) bekezdés m) pontját a 35/2022. (X. 28.) AM rendelet 4. § (2) bekezdése iktatta be.

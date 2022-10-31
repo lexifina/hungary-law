@@ -4,24 +4,31 @@
 
 (3) A Kincstár az egyéni terv módosítását követően megállapítja a módosított egyéni terv alapján igényelhető támogatás maximális összegét, amely nem lehet nagyobb a módosítást megelőzően jóváhagyott egyéni terv alapján megállapított támogatási összegnél.
 
-(4)[^13] Nem kell bejelenteni a Kincstár részére a sor- és tőtávolságnak a 10%-ot meg nem haladó mértékű megváltoztatását, amennyiben az eltérésből adódó hektáronkénti tőszámmódosítás nem eredményezi az egyéni tervben jóváhagyott, az 1. melléklet szerinti elszámolható hektáronkénti költségátalányok, valamint a 2. melléklet 1. pontjában foglalt táblázat C:3 mezőjében és 2. pontjában foglalt táblázat C:7 és C:8 mezőjében meghatározott pontértékek változását.
+(4)[^28] Nem kell bejelenteni a Kincstár részére a sor- és tőtávolságnak a 10%-ot meg nem haladó mértékű megváltoztatását, amennyiben az eltérésből adódó hektáronkénti tőszámmódosítás nem eredményezi az egyéni tervben jóváhagyott, a 3/A. § alapján meghatározott, elszámolható hektáronkénti költségátalányok, valamint a 2. melléklet 1. pontjában foglalt táblázat C:3 mezőjében és 2. pontjában foglalt táblázat C:7 és C:8 mezőjében meghatározott pontértékek változását.
 
-(5) Amennyiben a kérelmező a jóváhagyott egyéni tervében bázis-, illetve certifikált kategóriájú szaporítóanyagot jelölt meg, azonban az intézkedés megvalósítása során részben vagy egészben standard kategóriájú szaporítóanyagot használ fel, és a 12. § (5) bekezdése szerinti minimális pontértéket így is eléri, részére – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti standard kategóriájú szaporítóanyaggal végrehajtott ültetési munka művelete után meghatározott költség számolható el.
+(5)[^29]
 
-(6) Amennyiben a kérelmező a jóváhagyott egyéni tervében standard kategóriájú szaporítóanyagot jelölt meg, azonban az intézkedés megvalósítása során részben vagy egészben bázis, illetve certifikált kategóriájú szaporítóanyagot használ fel, és a 12. § (5) bekezdése szerinti minimális pontértéket így is eléri, részére – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti standard kategóriájú szaporítóanyaggal végrehajtott ültetési munka művelete után meghatározott költség számolható el.
+(6)[^30]
 
-(7) Amennyiben a kérelmező a jóváhagyott egyéni tervében az intézkedésben érintett terület lejtésének mértékére vonatkozóan 5% és az alatti mértéket jelölt meg, azonban a helyszíni ellenőrzés során megállapítást nyert, hogy a terület lejtése meghaladja az 5%-ot, – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti költségnövekmény nélküli költség számolható el.
+(7)[^31] Amennyiben a kérelmező a jóváhagyott egyéni tervében az intézkedésben érintett terület lejtésének mértékére vonatkozóan 5% és az alatti mértéket jelölt meg, azonban a helyszíni ellenőrzés során megállapítást nyert, hogy a terület lejtése meghaladja az 5%-ot, – az egyéb feltételeknek történő megfelelés esetén – a 3/A. § alapján meghatározott, költségnövekmény nélküli költség számolható el.
 
 (8) Amennyiben a kérelmező a jóváhagyott egyéni tervében az intézkedésben érintett terület lejtésének mértékére vonatkozóan 5% feletti és 12% vagy az alatti mértéket jelölt meg, azonban a helyszíni ellenőrzés során megállapítást nyert, hogy
 
-a) a terület lejtése 5% és az alatti mértékű, – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti költségnövekmény nélküli költség számolható el, illetve
+a)[^32] a terület lejtése 5% és az alatti mértékű, – az egyéb feltételeknek történő megfelelés esetén – a 3/A. § alapján meghatározott, költségnövekmény nélküli költség számolható el, illetve
 
-b) a terület lejtése 12% feletti mértékű, – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti 5% feletti és 12% vagy az alatti költségnövekménnyel meghatározott költség számolható el.
+b)[^33] a terület lejtése 12% feletti mértékű, – az egyéb feltételeknek történő megfelelés esetén – a 3/A. § alapján meghatározott, 5% feletti és 12% vagy az alatti költségnövekménnyel meghatározott költség számolható el.
 
 (9) Amennyiben a kérelmező a jóváhagyott egyéni tervében az intézkedéssel érintett terület lejtésének mértékére vonatkozóan 12% feletti mértéket jelölt meg, azonban a helyszíni ellenőrzés során megállapítást nyert, hogy
 
-a) a terület lejtése 5% és az alatti mértékű, – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti költségnövekmény nélküli költség számolható el, illetve
+a)[^34] a terület lejtése 5% és az alatti mértékű, – az egyéb feltételeknek történő megfelelés esetén – a 3/A. § alapján meghatározott, költségnövekmény nélküli költség számolható el, illetve
 
-b) a terület lejtése 5% feletti és 12% vagy az alatti mértékű, – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti 5% feletti és 12% vagy az alatti lejtésű területekre vonatkozó költségnövekménnyel meghatározott költség számolható el.
+b)[^35] a terület lejtése 5% feletti és 12% vagy az alatti mértékű, – az egyéb feltételeknek történő megfelelés esetén – a 3/A. § alapján meghatározott, 5% feletti és 12% vagy az alatti lejtésű területekre vonatkozó költségnövekménnyel meghatározott költség számolható el.
 
-[^13]: A 13. § (4) bekezdése a 22/2021. (VI. 3.) AM rendelet 10. § d) pontja szerint módosított szöveg.
+[^28]: A 13. § (4) bekezdése a 22/2021. (VI. 3.) AM rendelet 10. § d) pontja, a 35/2022. (X. 28.) AM rendelet 10. § h) pontja szerint módosított szöveg.
+[^29]: A 13. § (5) bekezdését a 35/2022. (X. 28.) AM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^30]: A 13. § (6) bekezdését a 35/2022. (X. 28.) AM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^31]: A 13. § (7) bekezdése a 35/2022. (X. 28.) AM rendelet 10. § h) pontja szerint módosított szöveg.
+[^32]: A 13. § (8) bekezdés a) pontja a 35/2022. (X. 28.) AM rendelet 10. § h) pontja szerint módosított szöveg.
+[^33]: A 13. § (8) bekezdés b) pontja a 35/2022. (X. 28.) AM rendelet 10. § h) pontja szerint módosított szöveg.
+[^34]: A 13. § (9) bekezdés a) pontja a 35/2022. (X. 28.) AM rendelet 10. § h) pontja szerint módosított szöveg.
+[^35]: A 13. § (9) bekezdés b) pontja a 35/2022. (X. 28.) AM rendelet 10. § h) pontja szerint módosított szöveg.

@@ -20,11 +20,19 @@ a) az ültetvény támberendezéséről készített oldalnézeti vázrajzot,
 
 b) a Kincstár által közleményben közzétett formának és tartalomnak megfelelő ültetvényleltárt,
 
-c) szaporítóanyag-felhasználás esetén a felhasznált szaporítóanyagra vonatkozó, a kérelmező nevére kiállított származási igazolás másolatát, nem Magyarországról származó szaporítóanyag esetén a kérelmező nevére kiállított, a felhasznált szaporítóanyag származását igazoló dokumentum (adás-vételét igazoló számla, szállítólevél, származási igazolás) és a certifikációs címke másolatát,
+c)[^40] szaporítóanyag-felhasználás esetén
 
-d) ha az egyéni tervhez mellékelt újratelepítési engedély vagy az átváltott telepítési engedély módosult, úgy annak másolatát és
+ca) a felhasznált szaporítóanyagra vonatkozó, a kérelmező nevére kiállított származási igazolás másolatát,
+
+cb) nem Magyarországról származó szaporítóanyag esetén az Unió területén belüli szállításhoz, illetve a védett zónákba történő behozatalhoz és az azokon belüli szállításhoz szükséges növényútlevelekre vonatkozó formai előírások meghatározásáról szóló, 2017. december 13-i (EU) 2017/2313 bizottsági végrehajtási rendelet szerinti növényútlevél másolatát,
+
+valamint a kérelmező nevére kiállított számla másolatát,
+
+d)[^41] ha az egyéni tervhez mellékelt újratelepítési engedély vagy az átváltott telepítési engedély módosult, úgy annak másolatát,
 
 e) a régi szőlőtőkék eltávolításának, a támberendezés bontásának és azok elszállításának támogatása esetében a hegybíró által elvégzett kivágás előtti és az egyéni terv benyújtásának időpontját követően elvégzett kivágás utáni helyszíni ellenőrzésről készült jegyzőkönyvek másolatát, amelyek igazolják a kivágandó ültetvény meglétét, annak méretét, valamint a kivágás tényleges megtörténtét.
+
+f)[^42] az (EU) 2016/1150 bizottsági végrehajtási rendelet 24. cikk (3) bekezdésében meghatározott felülvizsgálathoz a kifizetési kérelemmel érintett tevékenységek számláinak másolatát.
 
 (6) A kifizetési kérelmet a Kincstár által honlapján közzétett, az adott borpiaci évre vonatkozó közleményben foglaltaknak megfelelően kell benyújtani.
 
@@ -37,3 +45,13 @@ e) a régi szőlőtőkék eltávolításának, a támberendezés bontásának é
 (10) Az eljárás során kötelező az elektronikus kapcsolattartás, erre tekintettel a Kincstár az értesítéseket, döntéseket elektronikus úton közli az igénylővel vagy meghatalmazottjával.
 
 (11) Az eljárás során minden beadványt az elektronikus űrlapkitöltő felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
+
+(12)[^43] A Kincstár a 18. § (5) bekezdés f) pontja szerinti dokumentumokat a 3/A. §-ban meghatározott tevékenységek szerinti bontásban összesítve, a kifizetési kérelem benyújtására rendelkezésre álló határidőt követő 31 napon belül megküldi a miniszter részére.
+
+(13)[^44] A támberendezésről készített vázrajzban fel kell tüntetni az oszlopokat, huzalokat, végoszlop rögzítés és a szőlőtőke megtámasztásának módját (karó, nevelőpálca, huzal), a támberendezés anyagát (fém, fa, beton), a huzalokat tartó közoszlopok közötti távolságot, a huzalok talajtól és egymástól mért távolságát.
+
+[^40]: A 18. § (5) bekezdés c) pontja a 35/2022. (X. 28.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^41]: A 18. § (5) bekezdés d) pontja a 35/2022. (X. 28.) AM rendelet 10. § i) pontja szerint módosított szöveg.
+[^42]: A 18. § (5) bekezdés f) pontját a 35/2022. (X. 28.) AM rendelet 6. § (2) bekezdése iktatta be.
+[^43]: A 18. § (12) bekezdését a 35/2022. (X. 28.) AM rendelet 6. § (3) bekezdése iktatta be.
+[^44]: A 18. § (13) bekezdését a 35/2022. (X. 28.) AM rendelet 6. § (3) bekezdése iktatta be.

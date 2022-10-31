@@ -6,7 +6,7 @@ a) a kérelmező igazolt származású szaporítóanyagot használt fel, amely l
 
 aa) engedélyes árutermelő szőlőiskolában előállított, hatóság által ellenőrzött, minősített ültetési anyag,
 
-ab) hatóságilag ellenőrzött, igazolt eredetű alapanyag felhasználásával, házi szőlőiskolában, saját célra előállított ültetési anyag, vagy
+ab)[^37] hatóságilag ellenőrzött, igazolt eredetű alapanyag felhasználásával előállított ültetési anyag, vagy
 
 ac) nem Magyarországról származó szaporítóanyag esetén a hazai minőségi előírásoknak minden tekintetben megfelelő ültetési anyag,
 
@@ -14,9 +14,9 @@ b) a támberendezés létesítését kizárólag új anyagok felhasználásával
 
 c) az ültetvény beállottsága
 
-ca)[^15] a 6. § (6)–(8) bekezdése szerinti megvalósítás első évében,
+ca)[^38] a 6. § (6)–(8) bekezdése szerinti megvalósítás első évében,
 
-cb)[^16] a 6. § (9) bekezdése szerinti megvalósítás esetén a megvalósítás évében
+cb)[^39] a 6. § (9) bekezdése szerinti megvalósítás esetén a megvalósítás évében
 
 eléri a 90%-ot,
 
@@ -24,5 +24,6 @@ d) az ültetvény beállottsága az ültetvény telepítését követő évben e
 
 e) régi ültetvény kivágási költségeinek támogatása esetén a régi ültetvény kivágását az egyéni terv benyújtása előtt nem kezdték el.
 
-[^15]: A 17. § c) pont ca) alpontja a 22/2021. (VI. 3.) AM rendelet 10. § f) pontja szerint módosított szöveg.
-[^16]: A 17. § c) pont cb) alpontja a 22/2021. (VI. 3.) AM rendelet 10. § g) pontja szerint módosított szöveg.
+[^37]: A 17. § a) pont ab) alpontja a 35/2022. (X. 28.) AM rendelet 5. §-ával megállapított szöveg.
+[^38]: A 17. § c) pont ca) alpontja a 22/2021. (VI. 3.) AM rendelet 10. § f) pontja szerint módosított szöveg.
+[^39]: A 17. § c) pont cb) alpontja a 22/2021. (VI. 3.) AM rendelet 10. § g) pontja szerint módosított szöveg.
