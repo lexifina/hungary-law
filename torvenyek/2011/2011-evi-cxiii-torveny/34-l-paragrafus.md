@@ -1,3 +1,0 @@
-## 22/I. Adatszolgáltatás a gazdasági és anyagi szolgáltatással összefüggő adatok nyilvántartásához
-
-34/L. § A honvédelmi felkészülés területi, helyi és települési feladatainak végrehajtása érdekében, a gazdasági és anyagi szolgáltatás igénybevételének tervezése és végrehajtásának koordinálása céljából, a megyei, fővárosi védelmi bizottság elnökének, a helyi védelmi bizottság elnökének vagy a polgármesternek a megkeresése alapján adatszolgáltatást teljesít a 6. és 7. mellékletben meghatározott adatkörben a gazdasági és anyagi szolgáltatásra kötelezett ingatlan, szolgáltatás, technikai eszköz tulajdonosa, birtokosa, az azzal rendelkezni jogosult, valamint a szolgáltatást nyújtó.

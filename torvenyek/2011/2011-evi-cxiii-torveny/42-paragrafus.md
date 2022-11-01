@@ -1,9 +1,0 @@
-## 27. A Honvédség szervezeteinek elhelyezése
-
-42. § (1) A Honvédség szervezeteinek elhelyezéséhez, és feladatai ellátásához rendelkezésre bocsátott ingatlanok állami tulajdonban, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében állnak. A honvédelmi érdek szempontjából kivételesen indokolt esetben a Honvédség szervezeteinek elhelyezése és feladatainak ellátása ideiglenesen más ingatlanhasználati jogviszony alapján is biztosítható. A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanok elsődleges rendeltetése a honvédelmi feladatok ellátásának biztosítása.
-
-(1a) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanok tekintetében alkalmazandó közigazgatási hatósági, illetve közigazgatási egyeztetési eljárási szabályokat – törvény vagy kormányrendelet erre vonatkozó rendelkezése alapján – a nem a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló ingatlan vonatkozásában létesített ingatlanhasználati jogviszony hatálya alatt az ingatlanhasználati jogviszonnyal érintett ingatlanok esetében is alkalmazni kell.
-
-(2) A katonai szervezetek kijelölés alapján használatba kapják az ingatlanokat.
-
-(3) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlannal határos, az államháztartás valamely alrendszerébe tartozó jogi személy vagy ennek többségi befolyásával működő a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet tulajdonában vagy vagyonkezelésében lévő közterületi ingatlan honvédelmi érdekkel összefüggő, honvédségi szervezet általi, indokolt és szükséges mértékű használatát a honvédségi szervezet erre irányuló igénybejelentése alapján – a nemzeti vagyonról szóló törvény rendelkezéseivel összhangban – ingyenesen kell biztosítani.
