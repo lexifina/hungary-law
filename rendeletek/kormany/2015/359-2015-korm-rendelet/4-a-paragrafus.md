@@ -1,4 +1,4 @@
-## 4/A. [^11] Az ágazaton belüli és ágazaton kívüli honvédelmi létfontosságú rendszerelemek gyorsított eljárásban történő kijelölésére vonatkozó közös szabályok
+## 4/A. [^14] Az ágazaton belüli és ágazaton kívüli honvédelmi létfontosságú rendszerelemek gyorsított eljárásban történő kijelölésére vonatkozó közös szabályok
 
 4/A. § (1) Az Lrtv. 2. § (11) bekezdés b) pontja szerinti gyorsított eljárás keretében az alábbi eljárásrend szerint kell eljárni:
 
@@ -12,6 +12,7 @@ d) a c) pontban meghatározott nyilatkozat kézhezvételétől számított 3 nap
 
 e) a kijelölő hatóság a javaslat kézhezvételétől számított 3 napon belül dönt a nemzeti létfontosságú rendszerelemmé történő kijelölésről.
 
-(2) Az Lrtv. 5. § (4) bekezdés i) pontjában meghatározott fokozott védelem megszervezése céljából a javaslattevő hatóság biztosítja a szükséges információkat a fokozott védelem tervezésében és végrehajtásában érintett honvédségi szervek részére.
+(2)[^15] A létfontosságú rendszerelemek fokozott nemzeti és szövetségi védelmének megtervezése és megszervezése céljából a javaslattevő hatóság a nyilvántartó hatóságok által kezelt adatbázisokból biztosítja a szükséges adatokat, információkat a fokozott védelem tervezésében és végrehajtásában érintett honvédségi szervek, valamint az érintett honvédségi szervek útján az illetékes NATO szervek részére.
 
-[^11]: A 4/A. alcímet (4/A. §) a 375/2020. (VII. 30.) Korm. rendelet 84. §-a iktatta be.
+[^14]: A 4/A. alcímet (4/A. §) a 375/2020. (VII. 30.) Korm. rendelet 84. §-a iktatta be.
+[^15]: A 4/A. § (2) bekezdése a 409/2022. (X. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
