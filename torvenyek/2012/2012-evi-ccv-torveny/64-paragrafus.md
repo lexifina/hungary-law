@@ -8,4 +8,4 @@ b) 100, vagy annál több, de 300-nál kevesebb rendszeresített beosztás eset�
 
 c) 300, vagy annál több rendszeresített beosztás esetén legalább 30 fő.
 
-(3) A (2) bekezdés alkalmazása szempontjából a szolgálati viszonyban, a kormányzati szolgálati jogviszonyban, és a közalkalmazotti jogviszonyban állók létszámát össze kell számítani.
+(3) A (2) bekezdés alkalmazása szempontjából a szolgálati viszonyban, a kormányzati szolgálati jogviszonyban és a honvédelmi alkalmazotti jogviszonyban állók létszámát össze kell számítani.

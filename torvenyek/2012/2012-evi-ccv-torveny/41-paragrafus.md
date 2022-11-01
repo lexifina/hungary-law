@@ -4,8 +4,8 @@
 
 (2)
 
-(3) A Honvéd Koronaőrség tagja koronaőri eskü letételére is köteles.
+(3)
 
-(4) A (3) bekezdés szerinti eskü szövegét a 3. melléklet határozza meg.
+(4)
 
 (5) Az eskütétel elmaradása érvénytelenségi ok.

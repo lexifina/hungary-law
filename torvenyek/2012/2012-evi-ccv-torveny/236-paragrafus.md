@@ -4,7 +4,7 @@
 
 (2) A honvéd altiszt-jelölt köteles különösen
 
-a) részt venni a Hvt. 36. § (1) bekezdés a)–f) pontja és (2) bekezdése szerinti feladatok ellátásában,
+a) részt venni a Hvt. 59. § (1) bekezdés a), b) d) e), k) pontja és (2) bekezdése szerinti feladatok ellátásában,
 
 b) a haza katonai védelmére felkészülni, részt venni az ehhez szükséges kiképzésen, és a tanórán kívüli katonai felkészítésen, tanulmányi kötelezettségét teljesíteni,
 

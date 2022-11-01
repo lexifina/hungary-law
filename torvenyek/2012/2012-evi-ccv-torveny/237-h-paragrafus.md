@@ -1,4 +1,4 @@
-237/H. § (1) A Hvt. 36. § (1) bekezdés k) pontja szerinti veszélyhelyzettel kapcsolatos feladatra vezényelt
+237/H. § (1) A Hvt. 59. § (1) bekezdés m) pontja szerinti veszélyhelyzettel kapcsolatos feladatra vezényelt
 
 a) állomány tagja,
 

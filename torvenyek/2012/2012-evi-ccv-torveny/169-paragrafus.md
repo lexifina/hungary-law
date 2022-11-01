@@ -6,4 +6,4 @@
 
 (3) A kártérítési eljárás és az egyszerűsített eljárás rendjét, a kártérítés utólagos mérsékelésére, végrehajtásának elhalasztására, és a részletfizetés engedélyezésére vonatkozó szabályokat miniszteri rendelet határozza meg.
 
-(4) Ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 79/C. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető, a munkáltatói jogkört gyakorló a kártérítési eljárás megindítását mellőzheti.
+(4) Ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 52. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető, a munkáltatói jogkört gyakorló a kártérítési eljárás megindítását mellőzheti.

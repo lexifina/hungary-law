@@ -70,7 +70,7 @@ c) az egészségügyi honvédelmi alkalmazott helyettesítése esetén a helyett
 
 állapítható meg. E bekezdés szerinti esetekre nem alkalmazható az 55. §.
 
-(15) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona a Hvt. 36. § (1) bekezdés h) és k), vagy (2) bekezdés a) pontja szerinti feladatra vezénylésre kerül, gyakorlaton vesz részt, vagy miniszteri rendeletben meghatározott, 105. § szerinti katonai szolgálattal összefüggő tevékenységet lát el, az (1) bekezdéstől eltérően e törvény és miniszteri rendelet szerinti fokozott igénybevételi pótlékra jogosult.
+(15) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona a Hvt. 59. § (1) bekezdés i) és m) pontja, vagy (2) bekezdés a) pontja szerinti feladatra vezénylésre kerül, gyakorlaton vesz részt, vagy miniszteri rendeletben meghatározott, 105. § szerinti katonai szolgálattal összefüggő tevékenységet lát el, az (1) bekezdéstől eltérően e törvény és miniszteri rendelet szerinti fokozott igénybevételi pótlékra jogosult.
 
 (16) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona szolgálati viszonyának általa kezdeményezett megszüntetését követően 12 hónapon belül egészségügyi szolgálati jogviszonyt létesít, akkor az egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor érvényes illetményét.
 

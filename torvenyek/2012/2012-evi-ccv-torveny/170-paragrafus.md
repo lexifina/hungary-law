@@ -8,7 +8,7 @@ b) a kárt, ha a kártérítési eljárás azért nem volt lefolytatható, mert 
 
 c) a kárt, ha a kártérítési eljárást a munkáltatói jogkört gyakorló a miniszteri rendelet szerint megszüntette,
 
-d) a kárt, ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 79/C. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető.
+d) a kárt, ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 52. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető.
 
 e) a kárt, ha azt nem szándékosan okozták és annak összege az 5000 Ft-ot nem haladja meg.
 

@@ -22,7 +22,7 @@ c) óránként 0,05–5%
 
 szerinti mértékben kerül megállapításra.
 
-(3a) A fokozott igénybevételi illetménypótlék mértéke a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat ellátása esetén a távolléti díj százalékában meghatározva naponként 1–10% lehet.
+(3a) A fokozott igénybevételi illetménypótlék mértéke a Hvt. 59. § (1) bekezdés i) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat ellátása esetén a távolléti díj százalékában meghatározva naponként 1–10% lehet.
 
 (3b) A (3) bekezdéstől eltérően naponta miniszteri rendeletben meghatározott összegű fokozott igénybevételi illetménypótlékra jogosult az állomány azon tagja, aki miniszteri rendeletben meghatározottak szerint tábori körülmények között végrehajtott kiképzésen vesz részt. Ebben az esetben nem alkalmazható a 104. § és a 247/H. §.
 
