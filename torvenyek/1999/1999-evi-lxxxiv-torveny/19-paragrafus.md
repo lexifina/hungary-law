@@ -64,7 +64,7 @@ aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljár�
 
 ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti közlekedési ellenőrzéssel kapcsolatos feladataik ellátásához;
 
-b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
+b) a hivatásos katasztrófavédelmi szerv, a területi védelmi bizottság, a helyi védelmi bizottság és a polgármester törvényben meghatározott védelmi és biztonsági igazgatás központi, területi, helyi és települési feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
 
 c) a közlekedési hatóság a 9. § (1) bekezdés a) és b) pontjában, a 9/A. és 9/B. §-ban, a 9. § (2) bekezdés d) és e) pontjában meghatározott nyilvántartási adatok kivételével
 
