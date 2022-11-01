@@ -18,7 +18,7 @@ e) ezt egyébként jogszabály előírja.
 
 a) az eljárás megindítása után a hatóság nyolc napon belül dönt, vagy az eljárást megszünteti,
 
-b) azt honvédelmi, nemzetbiztonsági, közbiztonsági okból törvény kizárja, vagy
+b) azt honvédelmi, védelmi és biztonsági érdekből, nemzetbiztonsági, közbiztonsági okból törvény kizárja, vagy
 
 c) az az eljárás sikerét meghiúsítaná.
 

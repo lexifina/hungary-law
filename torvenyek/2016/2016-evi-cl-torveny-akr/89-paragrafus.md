@@ -12,7 +12,7 @@ b) azt a figyelemfelhívást, hogy a döntés a hatóságnál megtekinthető.
 
 a) amelyet közérdekű keresettel lehet megtámadni,
 
-b) amelyet személyek széles vagy pontosan meg nem határozható köre számára életveszéllyel vagy súlyos kárral fenyegető helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése érdekében hozott, vagy
+b) amelyet személyek széles vagy pontosan meg nem határozható köre számára életveszéllyel vagy súlyos kárral fenyegető, illetve védelmi helyzet elrendelésének alapjául szolgáló ok következtében kialakuló helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése érdekében hozott, vagy
 
 c) amelyet a közbiztonság fenntartása érdekében vagy fontos közrendvédelmi, környezet- vagy természetvédelmi okból hozott.
 
