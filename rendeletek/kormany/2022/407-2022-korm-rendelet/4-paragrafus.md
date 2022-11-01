@@ -1,0 +1,1 @@
+4. § Az irányító kormánytag a 3. §-ban foglaltak ismeretében minden év november 30-ig tájékoztatja a minisztert az 1. melléklet szerinti termékre és szolgáltatásra vonatkozó következő évi tényleges beszerzési igényekről.

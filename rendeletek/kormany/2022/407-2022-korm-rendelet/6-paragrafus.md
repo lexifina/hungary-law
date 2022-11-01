@@ -1,0 +1,1 @@
+6. § Az 1. § a)–d) pontjában meghatározott szerv az 1. melléklet szerinti termék és szolgáltatás megrendelése során megvizsgálja az Európai Unió működéséről szóló szerződés 346. cikke szerinti feltételek fennállását.

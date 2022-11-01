@@ -1,0 +1,1 @@
+9. § Hatályát veszti a honvédelemért felelős miniszter tulajdonosi joggyakorlói körébe tartozó gazdasági társaságnak a honvédelmi, rendvédelmi, nemzetbiztonsági, valamint egyéb állami fegyveres szervek irányában fennálló egyes ellátási kötelezettségeiről szóló 193/2019. (VII. 30.) Korm. rendelet.

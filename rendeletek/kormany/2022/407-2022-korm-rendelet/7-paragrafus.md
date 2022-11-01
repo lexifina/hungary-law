@@ -1,0 +1,1 @@
+7. § A Kormány az 1. melléklet szerinti gazdasági társaságot a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti rendvédelmi szervvel és a polgári nemzetbiztonsági szolgálatokkal szemben fennálló ellátási kötelezettsége alól a Védelmi Tanács előterjesztése alapján mentesítheti.

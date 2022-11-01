@@ -1,0 +1,3 @@
+3. § (1) Az 1. melléklet szerinti gazdasági társaság esetében tulajdonosi jogokat gyakorló kormánytag (a továbbiakban: miniszter) a 2. §-ban foglaltak ismeretében minden év szeptember 30-ig tájékoztatást ad a Védelmi Tanács részére az 1. melléklet szerinti termék és szolgáltatás tekintetében a következő év vonatkozásában fennálló gyártási kapacitásról, tartozék és szolgáltatás elérhetőségéről, valamint a tervezett egységárról.
+
+(2) Ha az 1. melléklet szerinti gazdasági társaság esetében tulajdonosi jogokat nem kormánytag gyakorolja, akkor az (1) bekezdés szerinti tájékoztatást a tulajdonosi jogokat gyakorló szervet irányító vagy felügyelő miniszter kormánytag gyakorolja.
