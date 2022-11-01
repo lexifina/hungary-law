@@ -4,7 +4,7 @@
 
 (2) A hivatásos állomány nyugdíj előtti rendelkezési állományba helyezett tagja
 
-a) csak veszélyhelyzet, megelőző védelmi helyzet, rendkívüli állapot, váratlan támadás vagy szükségállapot idején hívható szolgálatba,
+a) csak veszélyhelyzet, hadiállapot, szükségállapot vagy a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti összehangolt védelmi tevékenység (a továbbiakban: összehangolt védelmi tevékenység) idején hívható szolgálatba,
 
 b) arra az időtartamra, amíg nem hívják szolgálatba, olyan mértékű illetményre jogosult, amelynek összege a személyi jövedelemadó és a járulékok levonása után megegyezik azzal az összeggel, amely a nyugdíj előtti rendelkezési állományba helyezéskor öregségi nyugdíjként megilletné, ha az öregségi nyugdíjkorhatárt betöltötte volna, vagy választása szerint a Knytv.-ben foglaltak szerint rögzített szolgálati nyugdíjnak megfelelő összeggel,
 

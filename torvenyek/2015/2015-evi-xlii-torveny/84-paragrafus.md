@@ -1,6 +1,6 @@
 ## 52. Lemondás
 
-84. § (1) A hivatásos állomány tagja a szolgálati viszonyáról – a szükségállapot vagy rendkívüli állapot idejét, valamint a váratlan támadás időszakát kivéve – lemondhat.
+84. § (1) A hivatásos állomány tagja a szolgálati viszonyáról – a szükségállapot vagy a hadiállapot idejét kivéve – lemondhat.
 
 (2) A lemondási idő két hónap, a felek ennél rövidebb időtartamban is megállapodhatnak. Határozott idejű szolgálati viszony esetén a lemondási idő nem terjedhet túl a kinevezésben meghatározott határozott időtartamon.
 

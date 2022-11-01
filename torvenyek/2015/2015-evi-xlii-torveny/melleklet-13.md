@@ -91,5 +91,3 @@ IV. A jelenlegi igazgatási jogviszony adatai
 ## – e szervnél az igazgatási jogviszony kezdete
 
 ## – a rendvédelmi alkalmazott munkaköre (FEOR-száma)
-
-## – a rendvédelmi alkalmazott munkaköri osztálya, munkaköri kategóriája, besorolásának időpontja
