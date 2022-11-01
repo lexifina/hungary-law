@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-24-00-00
 | 2021-08-01 | 2021. évi XXXI. törvény | 2004-24-00-00.26 |
 | 2021-12-02 | 2021. évi CXX. törvény | 2004-24-00-00.27 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2004-24-00-00.28 |
+| 2022-11-01 | 2022. évi VII. törvény | 2004-24-00-00.29 |
