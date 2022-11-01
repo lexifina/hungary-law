@@ -1,0 +1,1 @@
+3. § A polgári védelmi szolgálatot teljesítő személy ruházatát, a polgári védelmi célra használt járművet, egyéb technikai eszközt és létesítményt a polgári védelem 1. melléklet szerinti nemzetközi megkülönböztető jelzésével kell ellátni.

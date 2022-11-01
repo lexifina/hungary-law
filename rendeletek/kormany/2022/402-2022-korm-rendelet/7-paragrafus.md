@@ -1,0 +1,1 @@
+7. § Az ideiglenes polgári védelmi szolgálat azonnali teljesítésére kötelező határozatot az írásbeli vagy szóbeli közlés akadályoztatása esetén hirdetményi közlés útján kell kézbesíteni, vagy közhírré kell tenni.
