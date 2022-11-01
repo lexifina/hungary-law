@@ -2,8 +2,8 @@
 
 (2)[^5]
 
-(3)[^6] A rokkantsági járadék havi összege 2022. január 1-jétől 44 785 forint.
+(3)[^6] A rokkantsági járadék havi összege 2022. január 1-jétől 46 805 forint.
 
 [^4]: A 2. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 1. §-a, a 70/2015. (III. 30.) Korm. rendelet 1. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdését a 417/2015. (XII. 23.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^6]: A 2. § (3) bekezdése a 692/2021. (XII. 9.) Korm. rendelet 6. §-ával megállapított, a 161/2022. (IV. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 692/2021. (XII. 9.) Korm. rendelet 6. §-ával megállapított, a 161/2022. (IV. 28.) Korm. rendelet 6. §-a, a 375/2022. (X. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
