@@ -1,0 +1,1 @@
+4. § Nem lép hatályba a veszélyhelyzet idején az egyes adatigénylési rendelkezésektől való eltérésről szóló 521/2020. (XI. 25.) Korm. rendelet hatályon kívül helyezéséről szóló 383/2022. (X. 10.) Korm. rendelet.
