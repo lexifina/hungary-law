@@ -6,6 +6,6 @@ b) az alapvető szolgáltatást nyújtó szereplő kérelmére a megszűnésekor
 
 c) az alapvető szolgáltatást nyújtó szereplő által bejelentett változásra tekintettel
 
-## felülvizsgálja a 12/B. § szerint azonosított alapvető szolgáltatást nyújtó szereplők azonosításra okot adó körülményeket.
+felülvizsgálja a 12/B. § szerint azonosított alapvető szolgáltatást nyújtó szereplők azonosításra okot adó körülményeket.
 
 (2) A felülvizsgálat eredményétől függően fenntartja vagy visszavonja az azonosításra vonatkozó döntését.

@@ -1,6 +1,6 @@
-2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^85]
+2. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^91]
 
-## AZ ÜZEMELTETŐI BIZTONSÁGI TERV FELÉPÍTÉSE
+AZ ÜZEMELTETŐI BIZTONSÁGI TERV FELÉPÍTÉSE
 
 Tartalmi követelmények
 
@@ -54,11 +54,41 @@ Tartalmi követelmények
 
 1.4.2. szervezet vezetése, vezető tisztségviselők, felelősségi köreik
 
-1.5. szervezet személyzet (saját munkavállalók, külső, szerződéses munkavállalók)
+1.5.[^92] szervezet személyzete
 
 1.5.1. szervezet létszáma, dolgozók státusza szerinti bontásban
 
-1.5.2. külső (harmadik féltől igénybe vett, kölcsönzött, bedolgozó, szerződéses vagy vállalkozó) dolgozók létszáma, státuszuk szerinti bontásban, a működés szempontjából kritikus folyamatok tekintetében
+1.5.2. a szervezet kritikus munkaköreinek azonosítása, felsorolása, a szervezetben kritikus munkakörben foglalkoztatottak létszáma
+
+1.5.3. külső (harmadik féltől igénybe vett, kölcsönzött, bedolgozó, szerződéses vagy vállalkozó) dolgozók létszáma, státuszuk szerinti bontásban, a működés szempontjából kritikus folyamatok tekintetében
+
+1.5.4. pandémiás tervezés, mely magában foglalja a létfontosságú rendszerelem dolgozóinak, különös tekintettel a döntéshozóknak, valamint a kritikus munkakörben foglalkoztatott személyeknek a védelmét
+
+1.5.5. pandémiás vezetői csoport és annak vezetője, a pandémiás intézkedések bevezetésének és kihirdetésének kritériumai, fázisainak meghatározása
+
+1.5.6. pandémiás vezetői csoport feladatai
+
+1.5.7. pandémiás vezetői csoporton kívül, a védekezésben részt vevő szervek, munkavállalók és feladataik
+
+1.5.8. a döntési jogkörök és a kapcsolattartás rendje (belső, külső)
+
+1.5.9. fertőzéseknek legjobban kitett munkakörök, szereplők, munkatársak azonosítása
+
+1.5.10. a pandémia elleni védekezéshez szükséges egyéni védőeszközök, vakcinák, fertőtlenítőszerek mennyisége és azok tárolási helye
+
+1.5.11. alternatív működési helyszín kijelölése, leírása
+
+1.5.12. elkülönítő helyiség kijelölése, leírása
+
+1.5.13. alternatív munkavégzési módok kijelölése, leírása
+
+1.5.14. a létfontosságú rendszerelem területére történő bejutás rendje, a belépésre jogosult személyek meghatározása
+
+1.5.15. a létfontosságú rendszerelem működési szempontjából nélkülözhetetlen területek azonosítása, az azokba történő belépés rendje, a belépésre jogosult személyek meghatározása
+
+1.5.16. az egyes területekre történő bejutás megtiltásának rendje
+
+1.5.17. az egyes területek takarításának, fertőtlenítésének rendje
 
 1.6. kijelölt rendszerelem tevékenységének, illetve működésének általános bemutatása, az elvárt, normális működés paraméterei
 
@@ -588,7 +618,7 @@ Tartalmi követelmények
 
 4.5.2. a veszélyeztető hatások szintje lehet: elhanyagolható, alacsony, közepes, magas, katasztrofális (1–5 skálán)
 
-4.5.3.[^86] a harmadik fél felől fennálló kitettség lehet: harmadik féltől igénybe vett, vagy üzemeltető által saját hatáskörben nyújtott vagy nem értelmezhető (1–2 skálán) – ahol a „2” érték súlyozottan veendő figyelembe
+4.5.3.[^93] a harmadik fél felől fennálló kitettség lehet: harmadik féltől igénybe vett, vagy üzemeltető által saját hatáskörben nyújtott vagy nem értelmezhető (1–2 skálán) – ahol a „2” érték súlyozottan veendő figyelembe
 
 4.6. Kockázatkezelés
 
@@ -634,11 +664,17 @@ Tartalmi követelmények
 
 6.2. Honvédelmi létfontosságú rendszerelem esetén a honvédelmi szervekkel történő együttműködés rendje
 
-Formai követelmények
+7.[^94] Védelmi és biztonsági eseménnyel összefüggő adatok
 
-Az üzemeltetői biztonsági tervet a „Tartalmi követelmények” részben feltüntetettek szerinti tagolásban, írásban kell elkészíteni. A jóváhagyott üzemeltetői biztonsági tervet a kijelölő hatóság részére az üzemeltető és a biztonsági összekötő személy által aláírva, elektronikus úton kell benyújtani.
+7.1. a létfontosságú rendszerelem üzemfolytonos működését biztosító nélkülözhetetlen szolgáltatások megnevezése és az azokat nyújtó szolgáltatók felsorolása
 
-A térképeket elektronikus adathordozón is be lehet nyújtani. A térképvázlat vagy helyszínrajz tartalmazza a kijelölt rendszerelem egészét és olyan felbontású és formátumú legyen, amely a megfelelő eligazodást biztosítja.
+7.2. a létfontosságú rendszerelem üzemfolytonos működését biztosító nélkülözhetetlen szolgáltatások leírása, valamint azok mennyiségi adatai
 
-[^85]: A 2. melléklet a 375/2020. (VII. 30.) Korm. rendelet 51. § b) pontjával megállapított szöveg.
-[^86]: A 2. melléklet 4.5.3. pontja a 375/2021. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+7.3. a létfontosságú rendszerelem üzemfolytonos működését biztosító kritikus munkakörök és az adott munkakörben dolgozó személyek létszámadatai
+
+7.4. a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott termékkör szerinti termékek, szolgáltatások leírása, előállítási, gyártási kapacitás, valamint raktáron tartott készlet mennyiségi adatainak megadása
+
+[^91]: A 2. melléklet a 375/2020. (VII. 30.) Korm. rendelet 51. § b) pontjával megállapított szöveg.
+[^92]: A 2. melléklet 1.5. pontja a 408/2022. (X. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^93]: A 2. melléklet 4.5.3. pontja a 375/2021. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^94]: A 2. melléklet 7. pontját a 408/2022. (X. 24.) Korm. rendelet 15. §-a iktatta be.

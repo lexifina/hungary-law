@@ -1,4 +1,4 @@
-## 11. [^72] A komplex gyakorlat
+## 11. [^75] A komplex gyakorlat
 
 12. § (1) Az Lrtv. szerinti komplex gyakorlatot a 8. § (1) bekezdése szerinti éves ellenőrzési tervben kell szerepeltetni. A komplex gyakorlattal érintett üzemeltetőket a hivatásos katasztrófavédelmi szerv központi szerve a tárgyév január 15-ig értesíti. A komplex gyakorlatot úgy kell megtervezni és végrehajtani, hogy
 
@@ -20,4 +20,10 @@ d) segítse elő a káresemények hatékony kezelését, valamint a reagálóké
 
 (6) Ha a komplex gyakorlat során a hivatásos katasztrófavédelmi szerv központi vagy területi szerve azt észleli, hogy az informatikai biztonsági szabályzat felülvizsgálata szükséges, az informatikai biztonsági szabályzat felülvizsgálatát kezdeményezi az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóságnál.
 
-[^72]: A 11. alcím (12. §) a 375/2020. (VII. 30.) Korm. rendelet 48. §-ával megállapított szöveg.
+(7)[^76] Ha a védelmi és biztonsági feladatok ellátásában részt vevő állami szervek széles körét érintő, összkormányzati jellegű, Kormány által elrendelt kötelező gyakorlat komplex gyakorlat is, úgy azon részt vesz a védelmi és biztonsági igazgatás központi szervének képviselője. Ha a komplex gyakorlat egyúttal a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti gyakorlatnak is minősül, arról az ágazati gyakorlatot elrendelő szervezet a védelmi és biztonsági igazgatás központi szervét előzetesen tájékoztatja.
+
+(8)[^77] A (7) bekezdés szerinti gyakorlatokon a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti védekezéssel összefüggő feladatokban közreműködő referens részt vehet.
+
+[^75]: A 11. alcím (12. §) a 375/2020. (VII. 30.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^76]: A 12. § (7) bekezdését a 408/2022. (X. 24.) Korm. rendelet 13. §-a iktatta be.
+[^77]: A 12. § (8) bekezdését a 408/2022. (X. 24.) Korm. rendelet 13. §-a iktatta be.

@@ -1,8 +1,6 @@
-## 17. §[^83]
-
 1. melléklet a 65/2013. (III. 8.) Korm. rendelethez
 
-## HORIZONTÁLIS KRITÉRIUMOK
+HORIZONTÁLIS KRITÉRIUMOK
 
 Egyetlen vagy egymással közvetlenül összefüggő eseményekkel kapcsolatban Magyarország területén:
 
@@ -30,7 +28,7 @@ Egyetlen vagy egymással közvetlenül összefüggő eseményekkel kapcsolatban 
 
 – az ország tájegységeiben, kiemelkedő földrajzi területeiben visszafordíthatatlan negatív változás következik be.
 
-6.[^84] a védelem kritériuma: az infrastruktúrában bekövetkező sérülés, zavar, állapot, esemény vagy folyamat:
+6.[^90] a védelem kritériuma: az infrastruktúrában bekövetkező sérülés, zavar, állapot, esemény vagy folyamat:
 
 – amely következtében a rendszerelem ellátási láncban betöltött szerepét nem tudja ellátni,
 
@@ -38,5 +36,4 @@ Egyetlen vagy egymással közvetlenül összefüggő eseményekkel kapcsolatban 
 
 – katasztrófák elleni védekezés, a károk felszámolása időlegesen ellehetetlenül.
 
-[^83]: A 17. § a – 368/2016. (XI. 29.) Korm. rendelet 8. §-ával megállapított – 13. § (3) bekezdése alapján 2023. július 1-jén lép hatályba. [A 375/2021. (VI. 30.) Korm. rendelet 20. § e) pontjával elrendelt módosítás, amely szerint hatályát veszti a 17. §, nem vezethető át.]
-[^84]: Az 1. melléklet 6. pontját a 375/2020. (VII. 30.) Korm. rendelet 51. § a) pontja iktatta be.
+[^90]: Az 1. melléklet 6. pontját a 375/2020. (VII. 30.) Korm. rendelet 51. § a) pontja iktatta be.

@@ -1,3 +1,3 @@
-## 14. §[^75]
+15. §[^82]
 
-[^75]: A 14. §-t a 233/2013. (VI. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^82]: A 15. §-t a 375/2020. (VII. 30.) Korm. rendelet 53. § e) pontja hatályon kívül helyezte.

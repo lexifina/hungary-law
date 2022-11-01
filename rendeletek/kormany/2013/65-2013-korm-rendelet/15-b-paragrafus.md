@@ -1,3 +1,3 @@
-## 15/A. §[^77]
+15/B. §[^84]
 
-[^77]: A 15/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 722. §-a iktatta be, hatályon kívül helyezte a 375/2020. (VII. 30.) Korm. rendelet 53. § e) pontja.
+[^84]: A 15/B. §-t a 368/2016. (XI. 29.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 375/2020. (VII. 30.) Korm. rendelet 53. § e) pontja.
