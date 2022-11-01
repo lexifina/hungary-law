@@ -46,7 +46,7 @@ c) a pszichiátriai betegek és a fogyatékosok otthonánál, illetve rehabilit�
 
 d)[^51] az iskola- és ifjúság-egészségügyi szolgálat orvosa,
 
-e)[^52] a rendészetért felelős miniszter, valamint a katasztrófák elleni védekezésért felelős miniszter által vezetett és irányított szervek, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet (a továbbiakban: honvédelmi szervezet) orvosa,
+e)[^52] a rendészetért felelős miniszter, valamint a katasztrófák elleni védekezésért felelős miniszter által vezetett és irányított szervek, a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezet (a továbbiakban: honvédelmi szervezet) orvosa,
 
 f) a büntetés-végrehajtás orvosa,
 
@@ -93,7 +93,7 @@ n)[^59] a külpolitikáért felelős miniszter által vezetett minisztérium fog
 [^49]: A Vhr. 29. § (2) bek. a) pontja a 232/1998 (XII. 30) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Hatályba lép 1999. január 1–jétől.
 [^50]: A Vhr. 2. § (2) bekezdés b) pontja a 254/2013. (VII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^51]: A Vhr. 2. §-a (2) bekezdésének d) pontját a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte, újonnan a 120/2007. (V. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^52]: A Vhr. 2. § (2) bekezdés e) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. § 83. pontja, az 53/2021. (II. 9.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^52]: A Vhr. 2. § (2) bekezdés e) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. § 83. pontja, az 53/2021. (II. 9.) Korm. rendelet 7. § a) pontja, a 410/2022. (X. 24.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^53]: A Vhr. 2. § (2) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^54]: A Vhr. 2. §-a (2) bekezdés i) pontja a 295/2002. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^55]: A Vhr. 2. § (2) bekezdés j) pontját a 232/1998. (XII. 30) Korm. rendelet 1. § (2) bekezdése iktatta a szövegbe.
