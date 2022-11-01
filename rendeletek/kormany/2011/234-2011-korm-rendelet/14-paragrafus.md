@@ -4,7 +4,7 @@
 
 ## 10. A katasztrófasegély nyújtásának szabályai
 
-14. § (1) A katasztrófaveszély, veszélyhelyzet miatt kialakult helyzetben a katasztrófa károsító hatása által érintett területen életvitelszerűen élő, kárt szenvedett lakosság számára a túlélés feltételeinek megteremtése érdekében nyújtható katasztrófasegélyről a Kormány esetileg dönt:
+14. § (1)[^26] A katasztrófa veszélye, veszélyhelyzet miatt kialakult helyzetben a katasztrófa károsító hatása által érintett területen életvitelszerűen élő, kárt szenvedett lakosság számára a túlélés feltételeinek megteremtése érdekében nyújtható katasztrófasegélyről a Kormány esetileg dönt:
 
 a) a katasztrófasegély forrásáról és fedezetéről,
 
@@ -21,3 +21,5 @@ e) az adómentesen folyósítható katasztrófasegély maximális összegéről.
 (3) A katasztrófasegélyezés folyósításával megbízott szervezetet a hivatásos katasztrófavédelmi szerv központi szerve felügyeli.
 
 (4) A katasztrófasegélyre jogosultak személyes adatairól – a segélyek arányos elosztása érdekében – az érintett önkormányzat jegyzője, az illetékes hivatásos katasztrófavédelmi szerv útján akkor szolgáltat adatot az (1) bekezdés b) pontja szerint kijelölt szervezet számára, ha ahhoz az érintett írásban hozzájárult. Személyes adatok ismerete hiányában katasztrófasegély nem folyósítható.
+
+[^26]: A 14. § (1) bekezdés nyitó szövegrésze a 408/2022. (X. 24.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.

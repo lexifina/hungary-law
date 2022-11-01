@@ -1,6 +1,6 @@
 6. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
 
-## A védekezésben és a nemzetközi segítségnyújtásban részt vett önkéntes mentőszervezetek tevékenységéről[^62] szóló jelentés tartalmi elemei
+A védekezésben és a nemzetközi segítségnyújtásban részt vett önkéntes mentőszervezetek tevékenységéről[^121] szóló jelentés tartalmi elemei
 
 1. Mentőszervezet:
 
@@ -52,4 +52,4 @@ d) Elérhetősége
 
 e) Csatolt mellékletek, igazolások, okmányok
 
-[^62]: A jelentést, ha indokolt a részletes pénzügyi elszámolással együtt, a mentőcsapat székhelyére történő visszaérkezéskor, de legkésőbb 5 munkanapon belül kell elkészíteni.
+[^121]: A jelentést, ha indokolt a részletes pénzügyi elszámolással együtt, a mentőcsapat székhelyére történő visszaérkezéskor, de legkésőbb 5 munkanapon belül kell elkészíteni.

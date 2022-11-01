@@ -1,4 +1,4 @@
-49. § (1) A megyei, fővárosi védelmi bizottság elnöke
+49. § (1)[^70] A területi védelmi bizottság elnöke
 
 a) értékeli a kialakult helyzetet és meghatározza a kitelepítéssel kapcsolatos feladatokat,
 
@@ -8,13 +8,13 @@ c) utasítja a helyi védelmi bizottságokat a szükséges kitelepítési felada
 
 d) meghatározza a különböző ágazatok területi szintű szerveinek a kitelepítéssel kapcsolatos feladatait és koordinálja azok végrehajtását,
 
-e) amennyiben a kitelepítés megye, főváros határán kívülre történik, felveszi a kapcsolatot az illetékes megyei, fővárosi védelmi bizottság elnökével,
+e)[^71] amennyiben a kitelepítés megye, főváros határán kívülre történik, felveszi a kapcsolatot az illetékes területi védelmi bizottság elnökével,
 
 f) veszélyhelyzetben elrendeli a vasúti, közúti, vízi, légi szállítások biztosítása érdekében a javítókapacitások, valamint az állomások, kikötők, repülőterek, raktárak igénybevételét vagy használatának korlátozását,
 
 g) összehangolja a polgári védelmi szervezetek és a kitelepítésben részt vevő szervek, társadalmi és karitatív szervezetek tevékenységét,
 
-h)[^35] feldolgozza, értékeli, összegzi és a Kormány számára a katasztrófák elleni védekezésért felelős miniszter útján felterjeszti a beérkező jelentéseket.
+h)[^72] feldolgozza, értékeli, összegzi és a Kormány számára a katasztrófák elleni védekezésért felelős miniszter útján felterjeszti a beérkező jelentéseket.
 
 (2) A helyi védelmi bizottság elnöke
 
@@ -26,7 +26,7 @@ c) felveszi a kapcsolatot az illetékes helyi védelmi bizottság elnökével, a
 
 (3) A polgármester
 
-a)[^36] intézkedik a lakosság, az intézmények, a gazdálkodó szervezetek, a szállító eszközök tulajdonosainak riasztására és tájékoztatására,
+a)[^73] intézkedik a lakosság, az intézmények, a gazdálkodó szervezetek, a szállító eszközök tulajdonosainak riasztására és tájékoztatására,
 
 b) intézkedik a lakosság kitelepítésére, a létfenntartáshoz szükséges anyagi, kulturális javak, az állatállomány, az ellátásukhoz szükséges takarmány és egyéb anyagok elszállítására,
 
@@ -56,7 +56,7 @@ jd) a szállító eszközök számáról,
 
 k) intézkedik az ingatlanok átvizsgálására, az ingatlanok biztonságos hátrahagyása szabályainak betartására,
 
-l) intézkedik a Kat. 49. § (5) bekezdése alapján a kötelezés ellenére lakóhelyén maradó személyekkel szembeni rendvédelmi intézkedés foganatosítására,
+l)[^74] intézkedik a kötelezés ellenére lakóhelyén maradó személyekkel szembeni rendvédelmi intézkedés foganatosítására,
 
 m) intézkedik a hajléktalanok felkutatására,
 
@@ -104,5 +104,8 @@ f) létrehozza a szükséges adatbázisokat, gondoskodik naprakészen tartásukr
 
 g) közreműködik a kitelepítés helyi feladatainak végrehajtásában.
 
-[^35]: A 49. § (1) bekezdés h) pontja a 74/2012. (IV. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^36]: A 49. § (3) bekezdés a) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^70]: A 49. § (1) bekezdés nyitó szövegrésze a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^71]: A 49. § (1) bekezdés e) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^72]: A 49. § (1) bekezdés h) pontja a 74/2012. (IV. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^73]: A 49. § (3) bekezdés a) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^74]: A 49. § (3) bekezdés l) pontja a 408/2022. (X. 24.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.

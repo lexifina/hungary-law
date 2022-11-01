@@ -22,7 +22,7 @@
 
 4. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
 
-## A mentésben alkalmazható önkéntes mentőszervezetek minősítésének megszerzéséhez szükséges adatok
+A mentésben alkalmazható önkéntes mentőszervezetek minősítésének megszerzéséhez szükséges adatok
 
 1. Mentőszervezet
 

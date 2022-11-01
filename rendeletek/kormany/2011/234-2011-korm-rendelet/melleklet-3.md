@@ -62,6 +62,8 @@
 
 ## b) Az egyes katasztrófavédelmi osztályok meghatározása a kockázati mátrix útján
 
+## 9K07624N_0
+
 |  | Hatás | Bekövetkezési gyakoriság |
 
 |  | Ritka | Nem gyakori | Gyakori | Nagyon gyakori |
@@ -104,7 +106,7 @@
 
 |  | Felkészítés | a) a lakosság évente történő aktív tájékoztatása, b) a lakosság passzív tájékoztatása nyomtatott és elektronikusan elérhető információs anyagok biztosításával, c) a lakosság felkészítése a riasztás módszerének és jelének felismerésére, valamint az annak megfelelő magatartási szabályokra | a) a lakosság 3 évente történő aktív tájékoztatása, b) a lakosság passzív tájékoztatása nyomtatott és elektronikusan elérhető információs anyagok biztosításával, c) a lakosság felkészítése a riasztás módszerének és jelének felismerésére, valamint az annak megfelelő magatartási szabályokra | a lakosság passzív tájékoztatása nyomtatott és elektronikusan elérhető információs anyagok biztosításával |
 
-|  | Védekezés | a) különleges felszerelések és kiképzett szakértők (önkéntes mentőszervezetek) bevonásának tervezése és begyakoroltatása, b) a kockázatbecslésnek megfelelően a polgári védelmi szervezetek megalakítása, c) a karitatív és más önkéntes, humanitárius feladatot ellátó szervek bevonásának tervezése és begyakoroltatása | a) különleges felszerelések és kiképzett szakértők (önkéntes mentőszervezetek) bevonásának tervezése és begyakoroltatása, b) a kockázatbecslésnek megfelelően egyes polgári védelmi szakalegységek megalakítása, c) a karitatív és más önkéntes, humanitárius feladatot ellátó szervek bevonásának tervezése | a) kizárólag a védekezési feladatok ellátásához szükséges polgári védelmi szakalegységek megalakítása, b) önkéntes segítők, karitatív szervezetek bevonásának tervezése |
+|  | Védekezés | a) különleges felszerelések és kiképzett szakértők (önkéntes mentőszervezetek) bevonásának tervezése és begyakoroltatása, b) a kockázatbecslésnek megfelelően a polgári védelmi szervezetek megalakítása, c) a karitatív és más önkéntes, humanitárius feladatot ellátó szervek bevonásának tervezése és begyakoroltatása | a) különleges felszerelések és kiképzett szakértők (önkéntes mentőszervezetek) bevonásának tervezése és begyakoroltatása, b) a kockázatbecslésnek megfelelően egyes polgári védelmi egységek megalakítása, c) a karitatív és más önkéntes, humanitárius feladatot ellátó szervek bevonásának tervezése | a) kizárólag a védekezési feladatok ellátásához szükséges polgári védelmi egységek megalakítása, b) önkéntes segítők, karitatív szervezetek bevonásának tervezése |
 
 |  | Induló katasztrófavédelmi készlet | teljes induló katasztrófavédelmi készlet megléte | teljes induló katasztrófavédelmi készlet megléte | induló katasztrófavédelmi készlet tervezése |
 
@@ -164,8 +166,12 @@
 
 ## a) a fő katasztrófakockázatok azonosítását, értékelését és prioritási sorrendjük meghatározását,
 
-## b) a megelőzési és felkészültségi intézkedések meghatározását a kockázatok megelőzése, csökkentése és azokhoz való alkalmazkodás érdekében,
+## b) a megelőzési és felkészültségi intézkedések meghatározását a kockázatok megelőzése, csökkentése és az azokhoz való alkalmazkodás érdekében az országhatáron átnyúló hatások figyelembevételével,
 
 ## c) a katasztrófakockázat-kezelési válaszok feltételeinek, végrehajtási rendjének és ellenőrzése módjának meghatározását.
 
+## d) azon intézkedések meghatározását, amelyek elősegítik a nemzeti ellenállóképesség különböző kockázatok közvetlen, közvetett hatásaival szembeni fokozását, összhangban a megelőzési és felkészültségi intézkedésekkel.[^119]
+
 3. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
+
+[^119]: A 2. melléklet d) pont 9. alpontját a 408/2022. (X. 24.) Korm. rendelet 9. § a) pontja iktatta be.

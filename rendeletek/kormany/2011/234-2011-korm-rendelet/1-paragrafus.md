@@ -8,7 +8,7 @@
 
 1. Alapvető szolgáltatások: azon stratégiai fontosságú tevékenységek, melyek a társadalom és a gazdaság mindennapi működéséhez elengedhetetlenül szükségesek, és amelyek zavartalanságát veszélyhelyzet esetében is a lehető legtovább biztosítani kell.
 
-2. Beavatkozás: a katasztrófák és veszélyhelyzetek hatásainak felszámolására irányuló szervezett, tervszerű megelőző, védekező, segítségnyújtó és kárfelszámoló tevékenység.
+2.[^1] Beavatkozás: a katasztrófák, veszélyhelyzetek és kiterjedt káresemények hatásainak felszámolására irányuló szervezett, tervszerű megelőző, védekező, segítségnyújtó és kárfelszámoló tevékenység.
 
 3. Befogadás: a kimenekített, illetve kitelepített lakosság és létfenntartáshoz szükséges anyagi javak befogadóhelyen történő átmeneti jellegű elhelyezése.
 
@@ -60,6 +60,8 @@
 
 27. Létfenntartáshoz szükséges anyagi javak: a lakosság alapvető ellátását és életfeltételeit biztosító anyagok, eszközök, rendszerek és készletek összessége, különösen az ivóvíz-, az élelmiszer-, a takarmány-, a gyógyszerkészletek és a haszonállatok.
 
+27a.[^2] Polgári védelmi egység: a területi, a települési és a munkahelyi polgári védelmi szervezet eleme.
+
 28. Szükség-védőeszköz: a kimenekítés, kitelepítés során alkalmazható, rövid idejű védelemre szolgáló egyéni védőeszköz.
 
 29. Mentőcsapat: az a mentőegységekből álló, speciális eszközökkel felszerelt, összevont alakulat, amely a feladat végrehajtására több mentőszervezetből vagy önkormányzati, illetve állami szervezetből, továbbá szakértők bevonásával kerül létrehozásra.
@@ -77,3 +79,6 @@
 35. Veszélyhelyzeti tájékoztatás: a hivatásos katasztrófavédelmi szerv által végzett tájékoztató tevékenység az érintettek számára, a katasztrófariasztást követően.
 
 36. Visszatelepítés: a veszély elmúltával a kimenekített, kitelepített lakosság és a létfenntartáshoz szükséges anyagi javak lakóhelyre történő visszajuttatása.
+
+[^1]: Az 1. § 2. pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § 27a. pontját a 408/2022. (X. 24.) Korm. rendelet 4. §-a iktatta be.

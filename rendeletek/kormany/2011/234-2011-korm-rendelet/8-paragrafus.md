@@ -1,6 +1,6 @@
-## 5. A kormányzati koordinációs szerv feladatai
+## 5.[^22] A katasztrófavédelmi koordinációs szerv feladatai
 
-## 8. §[^14] A kormányzati koordinációs szerv feladatai különösen:
+8. §[^23] A katasztrófavédelmi koordinációs szerv feladatai különösen:
 
 a) összehangolja a katasztrófák elleni védekezés terén a tudományos, kutató, elemző, értékelő tevékenységet,
 
@@ -20,4 +20,5 @@ h) javaslatot tesz a felmerült védekezési és helyreállítási pénzeszköz�
 
 i) összehangolja a helyreállítással kapcsolatos feladatok végrehajtását, a kárfelmérést, a kormányzati pénzeszközök, valamint segélyek felhasználását.
 
-[^14]: A 8. § a 74/2012. (IV. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 5. alcím címe a 408/2022. (X. 24.) Korm. rendelet 10. § 6. pontja szerint módosított szöveg.
+[^23]: A 8. § a 74/2012. (IV. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg, nyitó szövegrésze a 408/2022. (X. 24.) Korm. rendelet 10. § 6. pontja szerint módosított szöveg.

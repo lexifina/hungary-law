@@ -1,6 +1,6 @@
 ## 35. A befogadással kapcsolatos feladatok
 
-53. § (1) A megyei, fővárosi védelmi bizottság elnöke
+53. § (1)[^75] A területi védelmi bizottság elnöke
 
 a) értékeli a kialakult helyzetet, valamint meghatározza a befogadással kapcsolatos feladatokat,
 
@@ -12,7 +12,7 @@ d) meghatározza a különböző ágazatok területi szintű szerveinek a befoga
 
 e) összehangolja a polgári védelmi szervezetek és a befogadásban részt vevő más szervek tevékenységét,
 
-f) kezdeményezi a kitelepítéssel érintett megyei, fővárosi védelmi bizottság elnökénél az együttműködést és tájékoztatja a befogadás előkészítéséről, ha a megye, főváros határán kívül élő lakosságot kell befogadni,
+f)[^76] kezdeményezi a kitelepítéssel érintett területi védelmi bizottság elnökénél az együttműködést és tájékoztatja a befogadás előkészítéséről, ha a megye, főváros határán kívül élő lakosságot kell befogadni,
 
 g) szükség esetén elrendeli a területi jellegű gazdasági és anyagi szolgáltatások igénybevételét,
 
@@ -54,7 +54,7 @@ k) intézkedik a kirakodási hely működtetésére,
 
 l) folyamatos kapcsolatot tart a kitelepülőkkel,
 
-m)[^37] szükség esetén megszervezi a köznevelést, illetve a szakképzést, valamint
+m)[^77] szükség esetén megszervezi a köznevelést, illetve a szakképzést, valamint
 
 n) illetékességi területén összehangolja a társadalmi és karitatív szervezetek tevékenységét.
 
@@ -88,15 +88,19 @@ c) a befogadási adatokkal kapcsolatosan számvetéseket készít,
 
 d) pontosítja a körzeti és településszintű befogadási terveket,
 
-e) javaslatot tesz a polgármesternek a szükséges polgári védelmi szervezetek létrehozására a meglévő szakalegységeken felül,
+e)[^78] javaslatot tesz a polgármesternek a szükséges polgári védelmi szervezetek létrehozására a meglévő polgári védelmi egységeken felül,
 
-f) közreműködik a létrehozott polgári védelmi szakalegységek polgári védelmi felkészítésében,
+f)[^79] közreműködik a létrehozott polgári védelmi egységek polgári védelmi felkészítésében,
 
-g)[^38] közreműködik a lakosság, a gazdálkodó szervezetek, intézmények befogadási feladatainak végrehajtására történő felkészítésében,
+g)[^80] közreműködik a lakosság, a gazdálkodó szervezetek, intézmények befogadási feladatainak végrehajtására történő felkészítésében,
 
 h) közreműködik a befogadás helyi feladatainak megszervezésében, végrehajtásában,
 
 i) közreműködik a befogadáshoz szükséges szakanyag biztosításában.
 
-[^37]: Az 53. § (3) bekezdés m) pontja a 13/2020. (II. 7.) Korm. rendelet 56. § 1. pontja szerint módosított szöveg.
-[^38]: Az 53. § (6) bekezdés g) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^75]: Az 53. § (1) bekezdés nyitó szövegrésze a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^76]: Az 53. § (1) bekezdés f) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^77]: Az 53. § (3) bekezdés m) pontja a 13/2020. (II. 7.) Korm. rendelet 56. § 1. pontja szerint módosított szöveg.
+[^78]: Az 53. § (6) bekezdés e) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 18. pontja szerint módosított szöveg.
+[^79]: Az 53. § (6) bekezdés f) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 19. pontja szerint módosított szöveg.
+[^80]: Az 53. § (6) bekezdés g) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés i) pontja szerint módosított szöveg.

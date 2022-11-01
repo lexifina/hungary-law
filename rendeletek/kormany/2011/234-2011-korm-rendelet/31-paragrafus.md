@@ -1,8 +1,8 @@
 ## 22. Központi veszélyelhárítási terv
 
-31. § (1)[^29] A hivatásos katasztrófavédelmi szerv központi szervének vezetője az érintett ágazatok bevonásával központi veszélyelhárítási tervet készít a katasztrófakockázatok megelőzése, csökkentése és az azokhoz való alkalmazkodás, valamint a katasztrófaveszély elhárítása és a katasztrófa következményeinek lehető legkisebb mértékűre csökkentése érdekében.
+31. § (1)[^50] A hivatásos katasztrófavédelmi szerv központi szervének vezetője az érintett ágazatok bevonásával központi veszélyelhárítási tervet készít a katasztrófakockázatok megelőzése, csökkentése és az azokhoz való alkalmazkodás, valamint a katasztrófa veszélyének elhárítása és a katasztrófa következményeinek lehető legkisebb mértékűre csökkentése érdekében.
 
-(2)[^30] A központi veszélyelhárítási terv különösen az alábbiakat tartalmazza:
+(2)[^51] A központi veszélyelhárítási terv különösen az alábbiakat tartalmazza:
 
 a) az emberi élet és a létfenntartáshoz szükséges anyagi javak védelmének rendje,
 
@@ -22,5 +22,5 @@ f) az intézkedések végrehajtási rendszere.
 
 (5) A központi veszélyelhárítási tervből az abban foglaltak végrehajtásában érintett ágazat ágazati veszélyelhárítási tervkivonatot készíthet.
 
-[^29]: A 31. § (1) bekezdése a 268/2019. (XI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^30]: A 31. § (2) bekezdése a 268/2019. (XI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^50]: A 31. § (1) bekezdése a 268/2019. (XI. 19.) Korm. rendelet 4. §-ával megállapított, a 408/2022. (X. 24.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
+[^51]: A 31. § (2) bekezdése a 268/2019. (XI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.

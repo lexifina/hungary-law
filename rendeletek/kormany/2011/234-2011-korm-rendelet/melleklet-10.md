@@ -92,7 +92,7 @@
 
 ## *A károsult külön nyilatkozni köteles
 
-## Ezen adatlap aláírásával hozzájárulok, hogy személyes adataimat, illetve a fenti ingatlanra vonatkozó adatokat az illetékes helyi önkormányzat, a megyei, fővárosi védelmi bizottság, a BM Országos Katasztrófavédelmi Főigazgatóság és alárendelt szervei, valamint a kárfelmérésben és kárenyhítésben részt vevő további szervek kezeljék és továbbítsák a ..................................................................................... következtében keletkezett károk felmérése céljából.
+## Ezen adatlap aláírásával hozzájárulok, hogy személyes adataimat, illetve a fenti ingatlanra vonatkozó adatokat az illetékes helyi önkormányzat, a területi védelmi bizottság, a BM Országos Katasztrófavédelmi Főigazgatóság és alárendelt szervei, valamint a kárfelmérésben és kárenyhítésben részt vevő további szervek kezeljék és továbbítsák a ..................................................................................... következtében keletkezett károk felmérése céljából.
 
 ## ......................................................... év ................................... hó ....................................... nap
 
@@ -102,6 +102,6 @@
 
 10. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
 
-## Kitöltési útmutató:
+Kitöltési útmutató:
 
 A. A kárbejelentés szabályai

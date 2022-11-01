@@ -2,9 +2,9 @@
 
 ## 6. § A katasztrófák elleni védekezésben érintett miniszter:
 
-a) rendszeresen tájékoztatja a kormányzati koordinációs szerv elnökét a feladatok végrehajtásának helyzetéről,
+a)[^19] rendszeresen tájékoztatja a katasztrófavédelmi koordinációs szerv elnökét a feladatok végrehajtásának helyzetéről,
 
-b) figyelemmel kíséri a szakterületén jelentkező, katasztrófaveszélyt jelentő jelenségeket, folyamatokat, intézkedik a veszély elhárítására, illetve megteszi a szükséges intézkedéseket a megelőzéshez szükséges pénzügyi források biztosítására, a feladatok végrehajtására,
+b)[^20] figyelemmel kíséri a szakterületén jelentkező, katasztrófa veszélyét hordozó jelenségeket, folyamatokat, intézkedik a veszély elhárítására, illetve megteszi a szükséges intézkedéseket a megelőzéshez szükséges pénzügyi források biztosítására, a feladatok végrehajtására,
 
 c) gondoskodik a veszélyhelyzetet okozó emberi tevékenységek és a környezeti elemek körében a kockázat csökkentéséhez, a károk bekövetkezésének megelőzéséhez szükséges katasztrófavédelmi tervezési, kivitelezési, működtetési, ellenőrzési és biztonsági szabályok megállapításáról,
 
@@ -12,7 +12,7 @@ d) gondoskodik az ágazat figyelő- és ellenőrzőrendszerének az egységes ir
 
 e) gondoskodik az irányítása és felügyelete alá tartozó szervek védekezésre való felkészítéséről és működési feltételeinek biztosításáról, jóváhagyja a feladatok végrehajtását szolgáló terveket,
 
-f)[^13] gondoskodik a minisztérium és a minisztériumot vezető miniszter felügyelete alá tartozó szervek alkalmazottainak katasztrófavédelmi felkészítéséről,
+f)[^21] gondoskodik a minisztérium és a minisztériumot vezető miniszter felügyelete alá tartozó szervek alkalmazottainak katasztrófavédelmi felkészítéséről,
 
 g) ellenőrzi a megelőzéssel és a felkészüléssel kapcsolatos ágazati feladatok végrehajtását,
 
@@ -22,4 +22,6 @@ i) a biztonsági elemzések eredményei alapján javaslatot tesz az ágazati kat
 
 j) részt vesz a nemzeti és nemzetközi katasztrófavédelmi gyakorlatok tervezésében, szervezésében és végrehajtásában.
 
-[^13]: A 6. § f) pontja a 221/2014. (IX. 4.) Korm. rendelet 580. § a) pontja szerint módosított szöveg.
+[^19]: A 6. § a) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^20]: A 6. § b) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 5. pontja szerint módosított szöveg.
+[^21]: A 6. § f) pontja a 221/2014. (IX. 4.) Korm. rendelet 580. § a) pontja szerint módosított szöveg.

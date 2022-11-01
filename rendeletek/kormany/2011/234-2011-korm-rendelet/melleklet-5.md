@@ -1,4 +1,4 @@
-5. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^61]
+5. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^120]
 
 MEGÁLLAPODÁS
 
@@ -14,7 +14,7 @@ az alábbi feltételek szerint:
 
 1. A MEGÁLLAPODÁS TÁRGYA
 
-A természeti és civilizációs katasztrófák elleni védekezés érdekében civil alapon szerveződő speciális mentőcsoportok bevonása az ország területén bekövetkezett veszélyhelyzetek, katasztrófák során jelentkező speciális mentési, kárfelszámolási, védekezési feladatokba, illetve nemzetközi segítségnyújtásban történő részvételük a Kat. előírásainak megfelelően.
+A természeti és civilizációs katasztrófák elleni védekezés érdekében civil alapon szerveződő speciális mentőcsoportok bevonása az ország területén bekövetkezett katasztrófák, veszélyhelyzetek és kiterjedt káresemények során jelentkező speciális mentési, kárfelszámolási, védekezési feladatokba, illetve nemzetközi segítségnyújtásban történő részvételük a Kat. előírásainak megfelelően.
 
 2. A MEGÁLLAPODÁS TARTALMA
 
@@ -38,7 +38,7 @@ A természeti és civilizációs katasztrófák elleni védekezés érdekében c
 
 2.2.3. részt vesz a BM OKF és területi szervei által szervezett Nemzeti Minősítéshez kapcsolódó képzéseken;
 
-2.2.4. hazai katasztrófák és veszélyhelyzetek hatásai elleni védekezésben és kárfelszámolásban csak a Nemzeti Minősítési Rendszerben meghatározott minősítést követően vesz részt;
+2.2.4. hazai katasztrófák, veszélyhelyzetek és kiterjedt káresemények hatásai elleni védekezésben és kárfelszámolásban csak a Nemzeti Minősítési Rendszerben meghatározott minősítést követően vesz részt;
 
 2.2.5. vállalja, hogy az igazgatóság ügyeletének riasztását követően a BM OKF főigazgató – polgári védelmi szervezetek mozgósítási szabályaira vonatkozó intézkedésében foglalt időnormák szerint –, a szükséges erőivel, eszközeivel megkezdi a vonulást a kárhelyszínre;
 
@@ -50,7 +50,7 @@ A természeti és civilizációs katasztrófák elleni védekezés érdekében c
 
 2.2.9. elfogadja, hogy az önkéntes szervezet tagjait védekezési feladatokra – az állandó lakóhely szerint illetékes – polgármester egyéni polgári védelmi beosztó határozattal kijelöli;
 
-2.2.10. a mentőszervezet szervezeti formája, a területi rendeltetésű polgári védelmi szakalegységgel azonos;
+2.2.10. a mentőszervezet szervezeti formája, a területi rendeltetésű polgári védelmi egységgel azonos;
 
 2.2.11. elfogadja, hogy beavatkozás esetében a sajtóval való kapcsolattartás a BM OKF-en keresztül történik;
 
@@ -108,4 +108,4 @@ A természeti és civilizációs katasztrófák elleni védekezés érdekében c
 
 igazgatóság Önkéntes mentőszervezet
 
-[^61]: Az 5. melléklet a 13/2020. (II. 7.) Korm. rendelet 56. § 2. pontja szerint módosított szöveg.
+[^120]: Az 5. melléklet a 13/2020. (II. 7.) Korm. rendelet 56. § 2. pontja, a 408/2022. (X. 24.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

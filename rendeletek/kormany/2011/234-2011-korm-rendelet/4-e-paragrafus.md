@@ -1,4 +1,4 @@
-## I/A. Fejezet[^11]
+## I/A. Fejezet[^13]
 
 ## AZ ELEKTRONIKUS ÜGYINTÉZÉSRE VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -30,4 +30,4 @@ bd) az ügyfél részére értesítéseket, dokumentumokat küldhet, és közöl
 
 (5) Az ügyfél a hatósági eljárás hivatalbóli megindításáról és benyújtott kérelmének fogadásáról az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségén visszaigazolást kap.
 
-[^11]: Az I/A. fejezetet (4/E–4/F. §) a 375/2021. (VI. 30.) Korm. rendelet 10. §-a iktatta be.
+[^13]: Az I/A. fejezetet (4/E–4/F. §) a 375/2021. (VI. 30.) Korm. rendelet 10. §-a iktatta be.
