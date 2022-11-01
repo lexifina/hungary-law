@@ -1,0 +1,27 @@
+1. melléklet a 2022. évi XXI. törvényhez
+
+A honvédelmi adatkezelő szervnél honvédelmi feladatot ellátó foglalkoztatott kiértesítésével és riasztásával kapcsolatos adatok
+
+## A kiértesítendő és riasztandó személy
+
+1. beosztásának, munkakörének megnevezése,
+
+2. eredeti szervezete és beosztása,
+
+3. neve, rendfokozata,
+
+4. munkahelyi telefonszáma,
+
+5. mobiltelefonszáma,
+
+6. e-mail-címe,
+
+7. munkahelyi címe,
+
+8. lakóhelye és tartózkodási helye,
+
+9. lakástelefonszáma,
+
+10. EDR-hívószáma,
+
+11. jelenlétére, illetve távollétére vonatkozó adatok.

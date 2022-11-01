@@ -1,0 +1,3 @@
+## 48. A honvédelmi célú elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság és a honvédelmi célú elektronikus információs rendszerek eseménykezelésére kijelölt szervezet adatkezelése
+
+99. § A honvédelmi célú elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság és a honvédelmi célú elektronikus információs rendszereket érintő, az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti biztonsági események és fenyegetések kezelésére kijelölt szervezet az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti tevékenység végzése során adatkezelést végez.

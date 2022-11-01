@@ -1,0 +1,1 @@
+119. § Az Infotv. 3. § 10c. pontjában az „a honvédségi adatkezelésről szóló törvény, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló törvény” szöveg lép.

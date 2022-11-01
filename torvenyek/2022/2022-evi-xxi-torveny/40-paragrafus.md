@@ -1,0 +1,3 @@
+40. § (1) A 38. § (1) bekezdés b) pontjában meghatározott személyekre vonatkozó – a 14. melléklet 1. és 2. pontjában meghatározott – személyes adatokhoz közvetlenül hozzáférhet az egészségügyi adatkezelést végző honvédelmi szervezet alárendeltségébe tartozó, alapellátást végző honvédegészségügyi szolgálat a csapategészségügyi és foglalkozás-egészségügyi alapellátás támogatása céljából.
+
+(2) Az alkalmassági minősítés érvényessége alatt folytatott gyógykezelés esetén az érintett átadja az alapellátást végző honvédegészségügyi szolgálat részére a gyógykezeléssel kapcsolatos egészségügyi adatait. A minősítést érdemben befolyásoló betegségre vonatkozó egészségügyi dokumentációt az alapellátást végző honvédegészségügyi szolgálat továbbítja a minősítésre jogosult bizottságnak.

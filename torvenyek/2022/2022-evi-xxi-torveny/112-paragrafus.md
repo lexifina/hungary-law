@@ -1,0 +1,1 @@
+112. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a honvédelmi ágazatban használt azonosító okmányok kiadásával és kezelésével kapcsolatos eljárási szabályokat, valamint az okmányok használatával összefüggő jogokat és kötelezettségeket.

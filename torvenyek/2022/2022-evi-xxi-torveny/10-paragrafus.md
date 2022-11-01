@@ -1,0 +1,1 @@
+10. § A 2. § a)–c) pontja szerinti honvédelmi adatkezelő szerv által jogszabály alapján vagy egyedileg, határozattal meghagyásba bevont személy és szerv a jogszabályban meghatározott meghagyási jegyzéket – a határozat kézbesítésétől számított 30 napon belül – megküldi a 2. § a)–c) pontja szerinti honvédelmi adatkezelő szerv részére.
