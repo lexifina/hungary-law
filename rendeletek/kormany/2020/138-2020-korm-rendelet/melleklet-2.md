@@ -248,6 +248,6 @@
 
 ## 1.13. Bontásra ítélt felépítmény (igen/nem, méretei, egyéb jellemzői, a bontás várható költsége)
 
-2. melléklet a 138/2020. (IV. 21.) Korm. rendelethez[^4]
+2. melléklet a 138/2020. (IV. 21.) Korm. rendelethez[^5]
 
-[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
