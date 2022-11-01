@@ -4,9 +4,9 @@
 
 a)[^1] Magyar Honvédség Egészségügyi Központ: az Igazságügyi és Rendészeti Minisztérium Központi Kórház és Intézményei, a Magyar Honvédség (a továbbiakban: MH) Verőcei Betegotthon, az MH Hévízi Mozgásszervi Rehabilitációs Intézet, az MH Balatonfüredi Kardiológiai Rehabilitációs Intézet, az MH Dr. Radó György Honvéd Egészségügyi Központ (a továbbiakban: MH HEK), a MÁV Kórház és Központi Rendelőintézet (a külön jogszabályban meghatározott tevékenység kivételével), a Budai MÁV Kórház (a külön jogszabályban meghatározott tevékenység kivételével), továbbá az Országos Gyógyintézeti Központ fekvőbeteg-szakellátó és egyes járóbeteg-szakellátó elemeinek jogutódlással történő átvételével, továbbá 2011. november 15-étől az MH HEK általános jogutódjaként, az e rendeletben részletezett feladatköreik átvállalásával létrejövő, az MH Hadrendjébe tartozó egészségügyi szolgáltató intézmény;
 
-b)[^2] a honvédelmi szervezet személyi állománya: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 13. pontja szerinti szervezetek állománya;
+b)[^2] a honvédelmi szervezet személyi állománya: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti szervezetek állománya;
 
-c)[^3] tényleges katonai állomány: a Hvt. 40. § (2) bekezdése szerinti állomány;
+c)[^3]
 
 d) vasutas állomány:
 
@@ -49,8 +49,8 @@ r)[^10] Országgyűlési Őrség személyi állománya: az Országgyűlésről s
 s)[^11] Magyar Corvin-lánc Testület (a továbbiakban: Corvin-lánc Testület) tagja: a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 15. § (2) bekezdése szerinti tag.
 
 [^1]: Az 1. § a) pontja a 318/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 163/2019. (VII. 5.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § b) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § c) pontja a 318/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § b) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 410/2022. (X. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^3]: Az 1. § c) pontját a 410/2022. (X. 24.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^4]: Az 1. § e) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § f) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 529/2020. (XI. 28.) Korm. rendelet 3. §-a, a 671/2020. (XII. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^6]: Az 1. § j) pontja a 163/2019. (VII. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

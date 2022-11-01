@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-175-20-
 | 2020-12-08 | 2007-175-20-22.14 | 561/2020. (XII. 7.) Korm. rendelet |
 | 2021-01-01 | 2007-175-20-22.15 | 163/2019. (VII. 5.) Korm. rendelet |
 | 2021-03-01 | 2007-175-20-22.16 | 163/2019. (VII. 5.) Korm. rendelet |
+| 2022-11-01 | 2007-175-20-22.17 | 163/2019. (VII. 5.) Korm. rendelet |
