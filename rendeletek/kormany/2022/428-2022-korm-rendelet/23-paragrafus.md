@@ -1,0 +1,1 @@
+23. § Az igénybevételt elrendelő határozatot a területi védelmi bizottság elnöke megküldi az igénybevevő székhelye szerint illetékes hadkiegészítő és toborzó központnak és az igénybevevőnek, az ingatlan fekvése vagy a szolgáltatásra kötelezett székhelye, telephelye, fióktelepe, ingó dolog helye szerint illetékes polgármesternek és a kötelezettnek.

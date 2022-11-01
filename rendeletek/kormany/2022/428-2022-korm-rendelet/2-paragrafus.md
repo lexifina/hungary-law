@@ -1,0 +1,3 @@
+2. § (1) A védelmi és biztonsági igazgatás központi szerve összehangolja a gazdasági és anyagi szolgáltatási kötelezettségre való felkészüléssel kapcsolatos, e rendelet szerinti tevékenységek megvalósítását, ellenőrizheti a gazdasági és anyagi szolgáltatási kötelezettség teljesítésével összefüggő esemény, feladat állapotát.
+
+(2) A védelmi és biztonsági igazgatás központi szerve összehangolja a gazdasági és anyagi szolgáltatási kötelezettség Vbö. 15. § (1) bekezdés a) pontja szerinti igénybevételi hatóság által történő elrendelését, teljesítésének a rendjét, valamint a folyamatban részt vevő szervek, szervezetek kapcsolódó feladatait.

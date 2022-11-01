@@ -1,0 +1,3 @@
+27. § (1) Katasztrófavédelmi célú gazdasági és anyagi szolgáltatási kötelezettségre való felkészülés esetén a polgármester határozatban egyszeri adatszolgáltatási kötelezettséget ír elő, amelyet megküld a területi védelmi bizottság, valamint a kötelezett részére. A határozatot a hivatásos katasztrófavédelmi szerv helyi szervének közreműködésével a polgármester készíti elő, amelyhez csatolja az adatszolgáltatás teljesítéséhez szükséges formanyomtatványt.
+
+(2) Az adatszolgáltatásra kötelezett az adatközlést az elrendelő határozatban megállapított határidőn belül a polgármesternek postai vagy elektronikus úton küldi meg.

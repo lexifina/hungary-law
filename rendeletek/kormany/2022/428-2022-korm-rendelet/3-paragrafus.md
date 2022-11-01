@@ -1,0 +1,1 @@
+3. § A gazdasági és anyagi szolgáltatási kötelezettség felkészülési feladatának teljesítése során a hadkiegészítő és toborzó központ és a hivatásos katasztrófavédelmi szerv illetékes szerve – kérelemre – tájékoztatja egymást az igénybevételre kijelölt ingatlanról, ingó dologról, szolgáltatásról és technikai eszközről.

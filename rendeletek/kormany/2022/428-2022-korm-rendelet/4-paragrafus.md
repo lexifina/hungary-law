@@ -1,0 +1,5 @@
+4. § (1) A Vbö. 14. § (2) bekezdésében meghatározott valamely gazdasági és anyagi szolgáltatási kötelezettség e rendeletben foglaltak szerinti, hatósági határozatban történő elrendelését megelőzően a feladat- és hatáskörrel rendelkező szerv a gazdasági és anyagi szolgáltatás igénybevételére a gazdasági és anyagi szolgáltatásra kötelezhető érintettel előzetesen szerződést vagy más együttműködési megállapodás köthet.
+
+(2) A gazdasági és anyagi szolgáltatás az (1) bekezdés szerinti biztosítása esetén a Vbö. 15. § (1) bekezdés b) és c) pontja szerinti igénybevételi hatóság az adott gazdasági és anyagi szolgáltatást továbbiakban nem jelölheti ki, kötelezettségként nem rendelheti el, kivéve, ha a védelmi és biztonsági érdek érvényesítése megköveteli, vagy a gazdasági és anyagi szolgáltatás igénybevétele más módon nem biztosítható.
+
+(3) Az (1) bekezdés szerinti szerv az (1) bekezdés szerinti szerződés megkötéséről, valamint megszűnéséről haladéktalanul tájékoztatja a területi védelmi bizottság elnökét, a polgármestert, valamint a hadkiegészítő és toborzó központot.
