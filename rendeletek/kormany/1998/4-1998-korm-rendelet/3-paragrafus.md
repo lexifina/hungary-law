@@ -16,7 +16,11 @@
 
 (5)[^23] A kiadott hozzájárulások alapján a berepülési engedélyt a légiközlekedési hatóság adja ki, és azt a külpolitikáért felelős miniszter által vezetett minisztérium útján közli az engedély iránti kérelmet benyújtó ügyféllel.
 
-(6)–(8)[^24]
+(6)[^24]
+
+(7)[^25]
+
+(8)[^26]
 
 [^15]: A 3. § (1) bekezdése a 177/2011. (IX. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^16]: A 3. § új (2) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatva. A 3. § (2) bekezdése a 177/2011. (IX. 1.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 11/2018. (II. 6.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
@@ -28,3 +32,5 @@
 [^22]: A 3. § (4c) bekezdését a 89/2010. (III. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 47. § b) pontja, a 11/2018. (II. 6.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^23]: A 3. § (5) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 133. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 47. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 184. §-a szerint módosított szöveg.
 [^24]: A 3. § (6)–(8) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, hatályon kívül helyezte a 177/2011. (IX. 1.) Korm. rendelet 13. §-a.
+[^25]: A 3. § (6)–(8) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, hatályon kívül helyezte a 177/2011. (IX. 1.) Korm. rendelet 13. §-a.
+[^26]: A 3. § (6)–(8) bekezdését a 23/2003. (III. 4.) Korm. rendelet 3. §-ának (4) bekezdése iktatta be, hatályon kívül helyezte a 177/2011. (IX. 1.) Korm. rendelet 13. §-a.
