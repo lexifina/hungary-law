@@ -1,5 +1,3 @@
-## jár el javaslattevő hatóságként.
-
 ## 3. Az ágazati kijelölő hatóság
 
 3. § (1) A 2. § szerinti alágazatokba tartozó létfontosságú rendszerelemek meghatározása során az ágazati kijelölő hatósági feladatokat az egészségügyért felelős miniszter (a továbbiakban: miniszter) látja el.
@@ -26,7 +24,7 @@ f)[^6]
 
 g) a gyógyszer-nagykereskedelem
 
-## irányításáért, felügyeletéért felelős államtitkár delegálja.
+irányításáért, felügyeletéért felelős államtitkár delegálja.
 
 (6) A Bizottság három tagját a miniszter jelöli ki az általa vezetett minisztérium (a továbbiakban: minisztérium) kormánytisztviselői közül.
 

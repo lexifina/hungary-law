@@ -8,7 +8,7 @@ a) a biológus végzettség, illetve
 
 b) a mikrobiológus végzettség
 
-## minősül a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek.
+minősül a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek.
 
 (3) Gyógyszer-nagykereskedelemben történő foglalkoztatás esetén az (1) bekezdésben foglaltak helyett
 

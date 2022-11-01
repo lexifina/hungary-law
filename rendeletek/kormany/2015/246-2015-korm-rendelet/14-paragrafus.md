@@ -34,4 +34,7 @@ d) a gyógyszerek utánpótlási tervét és
 
 e) a kommunikációs tervet.
 
+(5)[^18] Az ÜBT felülvizsgálatára és módosítására a Vhr.-ben foglalt szabályok az irányadóak.
+
 [^17]: A 13/A. §-t a 368/2016. (XI. 29.) Korm. rendelet 11. §-a iktatta be.
+[^18]: A 14. § (5) bekezdését a 408/2022. (X. 24.) Korm. rendelet 25. §-a iktatta be.

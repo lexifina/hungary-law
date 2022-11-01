@@ -1,3 +1,3 @@
-## 17/A. §[^21]
+17/B. §[^24]
 
-[^21]: A 17/A. §-t a 64/2016. (III. 31.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 375/2020. (VII. 30.) Korm. rendelet 78. § e) pontja.
+[^24]: A 17/B. §-t a 368/2016. (XI. 29.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 375/2020. (VII. 30.) Korm. rendelet 78. § e) pontja.

@@ -18,6 +18,8 @@ e) 18. sorában meghatározott egészségügyi ágazat gyógyszer-nagykereskedel
 
 f)[^4] 19. sorában meghatározott társadalombiztosítási ágazat, az egészségbiztosítás informatikai rendszere esetében a Nemzeti Egészségbiztosítási Alapkezelő
 
+jár el javaslattevő hatóságként.
+
 [^1]: A 2. § a 375/2020. (VII. 30.) Korm. rendelet 74. §-ával megállapított szöveg.
 [^2]: A 2. § a) pontja az 516/2020. (XI. 25.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § c) pont ca) alpontja az 516/2020. (XI. 25.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
