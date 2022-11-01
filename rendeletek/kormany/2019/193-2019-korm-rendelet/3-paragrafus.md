@@ -1,3 +1,0 @@
-## 2. §[^2] Az 1. § a)–c) pontjában meghatározott szervek irányítását ellátó miniszter és az 1. § d) pontjában meghatározott gazdasági társaság felett tulajdonosi jogokat gyakorló (a továbbiakban együtt: irányító kormánytag) minden év július 30-ig írásban tájékoztatja a Védelmi Tanácsot (a továbbiakban: Tanács) az 1. melléklet szerinti termékeket és szolgáltatást érintő, következő évre tervezett, valamint a beszerzés évét követő két év vonatkozásában előre jelezhető – a termék vagy szolgáltatás főbb műszaki jellemzőit is tartalmazó – igényeiről.
-
-[^2]: A 2. § a 238/2022. (VI. 30.) Korm. rendelet 192. § (1) bekezdés a) pontja szerint módosított szöveg.
