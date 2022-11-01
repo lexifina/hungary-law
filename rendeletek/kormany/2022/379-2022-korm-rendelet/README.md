@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-379-20-
 | 2022-10-06 | 2022-379-20-22.1 | 379/2022. (X. 5.) Korm. rendelet |
 | 2022-10-07 | 2022-379-20-22.2 | 2010. évi CXXX. törvény |
 | 2022-10-20 | 2022-379-20-22.3 | 2022. évi VI. törvény |
+| 2022-11-01 | 2022-379-20-22.4 | 2022. évi VI. törvény |
