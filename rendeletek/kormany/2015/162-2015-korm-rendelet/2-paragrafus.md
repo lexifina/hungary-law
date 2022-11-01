@@ -21,5 +21,5 @@
 8. támogatott szakképzés: a rezidens képzésével és foglalkoztatásával összefüggő költségeket központi költségvetési forrásból biztosító szakképzés.
 
 [^2]: A 2. § 1. pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^3]: A 2. § 2. pontja a 260/2021. (V. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 2. pontja a 260/2021. (V. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § 5. pontja az 529/2020. (XI. 28.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
