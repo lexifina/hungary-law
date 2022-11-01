@@ -36,7 +36,7 @@ a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 b) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 
-c) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter fenntartói irányítása alá tartozó szakképző intézmény,
+c) a honvédelemről és a Magyar Honvédségről szóló törvény szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter fenntartói irányítása alá tartozó szakképző intézmény,
 
 d) a Nemzeti Adó- és Vámhivatal.
 
