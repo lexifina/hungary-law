@@ -1,8 +1,8 @@
-## 41/A. §[^273] E rendeletnek az egyes közlekedési tárgyú miniszteri rendeletek jogharmonizációs célú módosításáról szóló 20/2020. (VI. 24.) ITM rendelettel módosított rendelkezései nem érintik a 2020. május 23. előtt, a 14. számú melléklet szerint kiállított „Gépjárművezetői képesítési igazolványok” hatályát.
+## 41/A. §[^274] E rendeletnek az egyes közlekedési tárgyú miniszteri rendeletek jogharmonizációs célú módosításáról szóló 20/2020. (VI. 24.) ITM rendelettel módosított rendelkezései nem érintik a 2020. május 23. előtt, a 14. számú melléklet szerint kiállított „Gépjárművezetői képesítési igazolványok” hatályát.
 
 ## Az Európai Unió jogának való megfelelés
 
-42. §[^274] (1) Ez a rendelet
+42. §[^275] (1) Ez a rendelet
 
 a) a vezetői engedélyekről szóló, 1991. július 29-i 91/439/EGK tanácsi irányelvnek, valamint az azt módosító 2000/56/EK bizottsági irányelvnek és 2008/65/EK bizottsági irányelvnek;
 
@@ -24,12 +24,12 @@ i) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanác
 
 j) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2014. július 1-jei 2014/85/EU bizottsági irányelv Melléklet 1. pontjának;
 
-k)[^275] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelvnek.
+k)[^276] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelvnek.
 
 ## való megfelelést szolgálja.
 
 (2) Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^273]: A 41/A. §-t a 20/2020. (VI. 24.) ITM rendelet 6. §-a iktatta be.
-[^274]: A 42. § a 74/2016. (XII. 29.) NFM rendelet 12. §-ával megállapított szöveg. [A 15/2021. (IV. 9.) ITM rendelet 24. §-ával elrendelt módosítás, amely szerint a 42. § l) ponttal egészül ki, nem vezethető át.]
-[^275]: A 42. § (1) bekezdés k) pontját a 20/2020. (VI. 24.) ITM rendelet 7. §-a iktatta be.
+[^274]: A 41/A. §-t a 20/2020. (VI. 24.) ITM rendelet 6. §-a iktatta be.
+[^275]: A 42. § a 74/2016. (XII. 29.) NFM rendelet 12. §-ával megállapított szöveg. [A 15/2021. (IV. 9.) ITM rendelet 24. §-ával elrendelt módosítás, amely szerint a 42. § l) ponttal egészül ki, nem vezethető át.]
+[^276]: A 42. § (1) bekezdés k) pontját a 20/2020. (VI. 24.) ITM rendelet 7. §-a iktatta be.
