@@ -16,4 +16,6 @@ f) jogszabályban meghatározottak szerint nyilvántartást vezet,
 
 g) – jogszabályban meghatározott szolgáltató feladatkörébe tartozó informatikai szolgáltatások kivételével – ügyintézéshez kapcsolódó informatikai szolgáltatást biztosít,
 
-h) ellátja a jogszabályban meghatározott egyéb feladatait.
+h) ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat, és
+
+i) ellátja a jogszabályban meghatározott egyéb feladatait.
