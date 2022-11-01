@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-260-20-
 | 2022-08-05 | 2022-260-20-22.2 | 10/2022. (VIII. 4.) TIM rendelet |
 | 2022-09-13 | 2022-260-20-22.3 | 349/2022. (IX. 12.) Korm. rendelet |
 | 2022-10-21 | 2022-260-20-22.4 | 396/2022. (X. 20.) Korm. rendelet |
+| 2022-11-01 | 2022-260-20-22.5 | 2022. évi VI. törvény |
