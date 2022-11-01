@@ -4,6 +4,8 @@
 
 1. Alapkiépítésű monitoring alrendszer: olyan, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelmények szerint Magyarország területén létesített és működtetett rendszer, amely lehetővé teszi az elektronikus hírközlési feladatokat ellátó szervezet előfizetői, illetve felhasználói köréből tetszőlegesen kiválasztható, az előfizetők (felhasználók) összlétszámának legalább 0,1–0,6%-át kitevő, 150 000 előfizetői létszám alatt 0,6%, de legalább 60, 150 000–1 000 000 előfizetői létszám között 0,3%, de legalább 900, 1 000 000 előfizetői létszám felett 0,1%, de legalább 3000 (a teljes előfizetői körből egy előfizetőre számított átlagforgalom legfeljebb kétszeresével forgalmazó) előfizető vagy felhasználó kommunikációjának egyidejű ellenőrizhetőségét és azok kísérőadatainak késedelem nélküli, teljes körű, folyamatos, egyidejű kiválasztását és kiadását a kilépési pontra.
 
+1a. Alapvető felhasználó: az a jogi személy vagy egyéb szervezet, amely összehangolt védelmi tevékenység vagy váratlan támadás elhárítása során honvédelmi, védelmi és biztonsági, nemzetbiztonsági vagy diplomáciai érdekből használ vagy igényel nyilvánosan elérhető elektronikus hírközlési szolgáltatást.
+
 2. Azonosítás szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó személyére vonatkozó adatok igénybevételével nyújtanak.
 
 3. Adatkicserélő központ: adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
@@ -281,9 +283,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 123. Számfüggetlen személyközi hírközlési szolgáltatás: olyan személyközi hírközlési szolgáltatás, amelynél a kapcsolat nem kiosztott számozási erőforrások, nem a nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok igénybevételével valósul meg és amely nem tesz lehetővé kommunikációt nemzeti, illetve nemzetközi számozási tervben szereplő hívószámra vagy hívószámokra.
 
 124. Személyközi hírközlési szolgáltatás: olyan, más részére általában díjazás ellenében elektronikus hírközlő hálózatokon nyújtott szolgáltatás, amely véges számú személy közötti közvetlen, interaktív információcserét tesz lehetővé, és amelyben a kommunikációt kezdeményező vagy az abban részt vevő személyek határozzák meg az információcserében résztvevő fogadót, illetve fogadókat. Nem minősülnek személyközi hírközlési szolgáltatásnak azok a szolgáltatások, amelyek a személyközi, interaktív kommunikációt egy másik szolgáltatáshoz szorosan kapcsolódó, csekély jelentőségű, csupán kiegészítő funkcióként teszik lehetővé.
-
-125. Transznacionális piac: az Európai Unióra vagy annak jelentős részére kiterjedő, a Kódex 65. cikke szerinti eljárásban meghatározott, egynél több tagállamban elhelyezkedő piac.
-
-126. Tartós adathordozó: a technológia adott fejlettségi szintjén elérhető olyan eszköz, illetve platform, amely lehetővé teszi az adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen a papír, az USB-kulcs, a CD-ROM, a DVD-ROM, a memóriakártya, a számítógép merevlemeze, az elektronikus levél, illetve az elektronikus tárhely.
-
-127. Titkos információgyűjtés, illetve leplezett eszközök alkalmazása: az elektronikus hírközlő hálózaton és elektronikus hírközlő eszközökkel az elektronikus hírközlési tevékenység során, illetve azzal összefüggésben keletkezett, továbbított információk, adatok kiválasztása, kicsatolása, technikai eszközzel történő rögzítése és megismerése az arra jogosult szervek által.

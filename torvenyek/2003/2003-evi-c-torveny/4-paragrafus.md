@@ -22,12 +22,14 @@ e) biztosítja, hogy a végfelhasználók rendelkezésére álljon egy, az eltű
 
 f)
 
-g) meghatározza az elektronikus hírközlés biztonságának alapelveit, a különleges jogrend idejére irányuló felkészítésének rendszerét, biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
+g) meghatározza az elektronikus hírközlés biztonságának alapelveit, a különleges jogrend, összehangolt védelmi tevékenység idejére, váratlan támadás esetére irányuló felkészítésének rendszerét, ezzel összefüggésben biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit,
 
-h) meghatározza az elektronikus hírközlés területén a nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
+h) meghatározza az elektronikus hírközlés területén a védelmi és biztonsági érdek, a nemzetbiztonsági érdek, valamint a honvédelmi érdek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat,
 
 i) biztosítja a lakosság riasztásának rendszerét;
 
 j) ellátja az elektronikus hírközléssel összefüggő, jogszabályban meghatározott további feladatokat.
+
+k) meghatározza az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
 
 (2) A Kormány az elektronikus hírközlési piacot szabályozó jogszabályainak tervezetével kapcsolatban egyeztet az érdekeltekkel.

@@ -4,7 +4,7 @@
 
 a) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
 
-b) az elektronikus hírközlés különleges jogrend idejére irányuló felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
+b) az elektronikus hírközlés különleges jogrend, összehangolt védelmi tevékenység idejére irányuló felkészítésének rendszerét, az államigazgatási szervek ezzel összefüggő feladatait, működésük feltételeinek biztosítását;
 
 c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének rendjét;
 
@@ -19,6 +19,8 @@ g)
 g) a 127. § (2d) bekezdésében meghatározott szervet;
 
 h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét.
+
+i) az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
 
 (2)
 

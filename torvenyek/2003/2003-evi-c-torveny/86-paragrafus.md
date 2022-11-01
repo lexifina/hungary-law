@@ -12,7 +12,7 @@ b) együttműködni az elektronikus hírközlési építmények közös használ
 
 c) biztosítani a nyilvános elektronikus hírközlő hálózatok biztonságát a jogosulatlan hozzáféréssel szemben;
 
-d) minősített időszakban külön jogszabályban meghatározott módon együttműködni más szolgáltatókkal;
+d) különleges jogrendben, összehangolt védelmi tevékenység idején, váratlan támadás esetén jogszabályban meghatározott módon együttműködni más szolgáltatókkal;
 
 e) betartani a terület- és ingatlanhasználattal kapcsolatos szabályokat;
 

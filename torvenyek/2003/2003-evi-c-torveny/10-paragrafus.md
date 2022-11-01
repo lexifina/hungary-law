@@ -20,7 +20,7 @@
 
 10. a kormány politikájának megfelelően gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában, dönt a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat kiírásáról és lefolytatja a frekvenciahasználati jogosultság megszerzését szolgáló árverési és pályázati eljárásokat, és végrehajtja a frekvenciagazdálkodásra vonatkozó, a frekvenciagazdálkodó hatóságnak címzett európai uniós aktusokat;;
 
-11. koordinálja az elektronikus hírközléssel kapcsolatos, külön jogszabályban meghatározott honvédelmi, rendvédelmi, nemzetbiztonsági és védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
+11. koordinálja az elektronikus hírközléssel kapcsolatos, jogszabályban meghatározott védelmi és biztonsági, honvédelmi, rendvédelmi, nemzetbiztonsági, védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
 
 12. eljár az elektronikus hírközlési szolgáltatások bejelentésével, a frekvenciagazdálkodással, az azonosítógazdálkodással, a hatályban lévő koncessziós szerződések felügyeletével, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
 
