@@ -16,7 +16,7 @@ d) a fejezetet irányító szervi jogosítványokkal rendelkező költségvetés
 
 e)[^3] – a nemzetbiztonsági szolgálatok, a külpolitikáért felelős miniszter, az európai uniós ügyek koordinációjáért felelős miniszter és a honvédelemért felelős miniszter irányítása alá tartozó külképviseletek kivételével – az a)–d) pontban meghatározott költségvetési szerv vezetőjének irányítása alá tartozó költségvetési szervek
 
-## az e rendelet előírásai szerint kötelesek eljárni.
+az e rendelet előírásai szerint kötelesek eljárni.
 
 (1a)[^4]
 
@@ -36,7 +36,7 @@ b) a Magyar Állam többségi befolyása alatt álló laboratóriumi, mikrobiol�
 
 c) a központosított közbeszerzési rendszerbe önként csatlakozó, az a) és b) pont hatálya alá nem tartozó egészségügyi szolgáltatók
 
-## kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pontjában meghatározott szolgáltatások beszerzése során az a) pontban meghatározott fekvőbeteg szakellátó intézmények kötelesek e rendelet szerint eljárni.
+kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pontjában meghatározott szolgáltatások beszerzése során az a) pontban meghatározott fekvőbeteg szakellátó intézmények kötelesek e rendelet szerint eljárni.
 
 (2e)[^11] Az intézmények nem kötelesek e rendelet szabályai szerint beszerezni azokat a gyógyszereket és orvostechnikai eszközöket, amelyeket az intézeti gyógyszertár közvetlen lakossági gyógyszerellátás keretében szolgáltat ki.
 
@@ -44,7 +44,7 @@ c) a központosított közbeszerzési rendszerbe önként csatlakozó, az a) és
 
 (2g)[^13] A Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 7. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni a nem az Alapból finanszírozott ellátásokhoz történő beszerzéseire, de az 1. számú melléklet 7. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
 
-(2h)[^14] A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet az 1. számú melléklet 9. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 9. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+(2h)[^14] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezet az 1. számú melléklet 9. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 9. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
 
 (2i)[^15] A (2d) bekezdés a)–b) pontjában szereplő szervezetek beszerzési igényeit az Országos Kórházi Főigazgatóság hagyja jóvá. Az igények bejelentését a 17. §-ban meghatározottak szerint kell teljesíteni.
 
@@ -75,7 +75,7 @@ c) a központosított közbeszerzési rendszerbe önként csatlakozó, az a) és
 [^11]: Az 1. § (2e) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: Az 1. § (2f) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^13]: Az 1. § (2g) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^14]: Az 1. § (2h) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^14]: Az 1. § (2h) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 410/2022. (X. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^15]: Az 1. § (2i) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
 [^16]: Az 1. § (2j) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
 [^17]: Az 1. § (2k) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.

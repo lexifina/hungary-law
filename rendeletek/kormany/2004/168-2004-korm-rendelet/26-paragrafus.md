@@ -1,5 +1,3 @@
-## 25. §[^98]
-
 ## III. Fejezet[^99]
 
 ## ELJÁRÁSI SZABÁLYOK
@@ -16,7 +14,6 @@
 
 (5)[^106] A központi beszerző szervezet a keretmegállapodás, keretszerződés megkötésére és a dinamikus beszerzési rendszer felállítására irányuló központosított közbeszerzési eljárás első részének a Kbt. 28. §-a szerint meghatározott becsült értékét (keretösszegét) jogosult egyedi döntéssel magasabb értéken is meghatározni.
 
-[^98]: A 25. §-t a 33/2012. (III. 7.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^99]: A III. fejezet címe a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapítottt szöveg.
 [^100]: A 26. §-t megelőző alcím a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapítottt szöveg.
 [^101]: A 26. § a 196/2006. (IX. 27.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.

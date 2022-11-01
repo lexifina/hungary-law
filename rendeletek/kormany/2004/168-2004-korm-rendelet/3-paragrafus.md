@@ -1,5 +1,3 @@
-## 2/C. §[^28]
-
 ## Értelmező rendelkezések
 
 ## 3. § E rendelet alkalmazásában
@@ -26,7 +24,6 @@ j)[^36] gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb
 
 k)[^37] orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott eszköz, valamint az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott eszköz.
 
-[^28]: A 2/C. §-t a 41/2021. (II. 2.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 771/2021. (XII. 23.) Korm. rendelet 11. § e) pontja.
 [^29]: A 3. § b) pontját a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
 [^30]: A 3. § c) pontját újonnan a 323/2015. (X. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^31]: A 3. § d) pontja a 323/2015. (X. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

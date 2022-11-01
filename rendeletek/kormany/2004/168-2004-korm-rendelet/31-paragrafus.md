@@ -8,7 +8,7 @@ a) a DKÜ rendelet 30/A. § (1) bekezdés a) pontja szerinti keretmegállapodás
 
 b) a DKÜ rendelet 30/A. § (1) bekezdés b) pontja szerinti keretmegállapodások vagy más keret jellegű szerződések esetében azok létrejöttével egy időben
 
-## teljesíti a jogutódlással együtt járó kötelezettségeit, így különösen gondoskodik a keretmegállapodások vagy más keret jellegű szerződések DKÜ részére történő átadásáról, valamint – a DKÜ által meghatározottak szerinti módon – az azok alkalmazásához kapcsolódó dokumentumok, adatbázisok, adatállományok, kimutatások, elszámolások, továbbá a szerződéses mellékkötelezettségek pénzügyi biztosítékai és az azok fölötti rendelkezési jog teljes körű átadásáról.
+teljesíti a jogutódlással együtt járó kötelezettségeit, így különösen gondoskodik a keretmegállapodások vagy más keret jellegű szerződések DKÜ részére történő átadásáról, valamint – a DKÜ által meghatározottak szerinti módon – az azok alkalmazásához kapcsolódó dokumentumok, adatbázisok, adatállományok, kimutatások, elszámolások, továbbá a szerződéses mellékkötelezettségek pénzügyi biztosítékai és az azok fölötti rendelkezési jog teljes körű átadásáról.
 
 (4) E rendelet 2019. október 31-ig hatályos rendelkezéseit a DKÜ rendelet 30/A. § (1) bekezdése szerinti keretmegállapodások vagy más keret jellegű szerződések alkalmazásakor a DKÜ rendeletben foglaltakkal összhangban kell alkalmazni.
 
