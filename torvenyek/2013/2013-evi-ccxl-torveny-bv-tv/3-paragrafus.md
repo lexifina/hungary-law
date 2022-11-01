@@ -46,7 +46,7 @@ f) a bv. szervvel kötött megállapodás alapján a bv. intézetben jogvédő v
 
 14. munkaterápiás foglalkoztatás: a reintegrációs tevékenység azon formája, amikor elsősorban a kényszergyógykezelt, az előzetes kényszergyógykezelt és a gyógyító-reintegráló csoportba helyezett, valamint a megváltozott munkaképességű vagy egyébként az egészségi állapota miatt a munkáltatásban részt venni nem képes elítélt foglalkoztatása szervezetten, rendszeresen, e törvényben meghatározott feltételekkel és térítési díj ellenében, büntetés-végrehajtási jogviszony keretében történik,
 
-14a. rendfokozat: a Magyar Honvédség tényleges állományú tagja esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
+14a. rendfokozat: a Magyar honvéd esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
 
 14b. tényleges tartózkodási hely: lakcím hiányában vagy a lakcímtől eltérően az az ingatlan, ahol az elítélt vagy az egyéb jogcímen fogvatartott ténylegesen tartózkodik, továbbá közérdekű munka vagy pártfogó felügyelet végrehajtása szempontjából az elítélt munkahelye,
 
