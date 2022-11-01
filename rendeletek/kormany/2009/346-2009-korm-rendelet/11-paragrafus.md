@@ -1,4 +1,4 @@
-11. §[^37] (1) A KNBSZ az elemi költségvetést, az időközi költségvetési jelentést, az éves költségvetési beszámolót és az időközi mérlegjelentést a minősített adat védelméről szóló törvény szerinti minősítéssel ellátva küldi meg a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet részére.
+11. §[^40] (1) A KNBSZ az elemi költségvetést, az időközi költségvetési jelentést, az éves költségvetési beszámolót és az időközi mérlegjelentést a minősített adat védelméről szóló törvény szerinti minősítéssel ellátva küldi meg a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet részére.
 
 (2) A Kincstárhoz benyújtott éves költségvetési beszámoló a KNBSZ vagyonára, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 20. § (1) bekezdése szerint foglalkoztatottak állománycsoportonkénti megosztására vonatkozó adatokat nem tartalmazhat.
 
@@ -16,9 +16,9 @@
 
 6. a beruházások kiemelt előirányzatot a K64. Egyéb tárgyi eszközök beszerzése, létesítése,
 
-7.[^38] a felújítások kiemelt előirányzatot a K73. Egyéb tárgyi eszközök felújítása,
+7.[^41] a felújítások kiemelt előirányzatot a K73. Egyéb tárgyi eszközök felújítása,
 
-8.[^39] az egyéb felhalmozási célú kiadások kiemelt előirányzatot a K84. Egyéb felhalmozási célú támogatások államháztartáson belülre, a K86. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre és a K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre,
+8.[^42] az egyéb felhalmozási célú kiadások kiemelt előirányzatot a K84. Egyéb felhalmozási célú támogatások államháztartáson belülre, a K86. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre és a K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre,
 
 9. a működési célú támogatások államháztartáson belülről kiemelt előirányzatot a B16. Egyéb működési célú támogatások bevételei államháztartáson belülről,
 
@@ -42,6 +42,6 @@ rovat összesítéssel küldi meg a Kincstár részére.
 
 (5) A KNBSZ az elemi költségvetésében a speciális működési kiadásai fedezetére elkülönített előirányzatot a dologi kiadások kiemelt előirányzaton belül a K337. Egyéb szolgáltatások rovaton, egy összegben, speciális működési kiadásként tervezi és számolja el.
 
-[^37]: A 11. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte, újonnan a 26/2015. (II. 25.) Korm. rendelet 11. §-a iktatta be.
-[^38]: A 11. § (3) bekezdés 7. pontja az 57/2016. (III. 25.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^39]: A 11. § (3) bekezdés 8. pontja az 57/2016. (III. 25.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^40]: A 11. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte, újonnan a 26/2015. (II. 25.) Korm. rendelet 11. §-a iktatta be.
+[^41]: A 11. § (3) bekezdés 7. pontja az 57/2016. (III. 25.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^42]: A 11. § (3) bekezdés 8. pontja az 57/2016. (III. 25.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

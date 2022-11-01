@@ -1,3 +1,3 @@
-## 5. §[^17] Az ellátó és az ellátott honvédelmi szervezet közötti munkamegosztás és felelősségvállalás rendjét miniszteri utasítás határozza meg.
+## 5. §[^19] Az ellátó és az ellátott honvédelmi szervezet közötti munkamegosztás és felelősségvállalás rendjét miniszteri utasítás határozza meg.
 
-[^17]: Az 5. § a 196/2017. (VII. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: Az 5. § a 196/2017. (VII. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
