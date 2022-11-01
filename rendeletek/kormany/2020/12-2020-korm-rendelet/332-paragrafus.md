@@ -31,9 +31,3 @@ g) a szakképző intézmény saját céljai megvalósulását.
 (5) A külső értékelésről a szakképzési államigazgatási szerv indokolt összegző jelentést ad a szakképző intézménynek. A külső értékelésről adott összegző jelentést a fenntartóval is közölni kell. Az összegző jelentés a fenntartó számára javaslatot tehet vezetői intézkedésre és a cselekvési tervvel összefüggően a költségvetés módosítására. Az összegző jelentést a szakképző intézmény honlapján közzé kell tenni.
 
 (6) A külső értékelés alapján a szakképző intézmény cselekvési tervet készít, amelyet a szakképzési államigazgatási szerv véleménye alapján a fenntartó hagy jóvá.
-
-HETEDIK RÉSZ
-
-A SZAKKÉPZÉS FINANSZÍROZÁSA ÉS INFORMÁCIÓS RENDSZERE
-
-XLI. Fejezet

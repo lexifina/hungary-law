@@ -1,14 +1,14 @@
-257. §[^212] Az ágazati alapvizsga vizsgabizottságának a szakképző intézmény feladatellátási helye szerint területileg illetékes gazdasági kamara által delegált elnökét megillető díjazás összege a szakirányú oktatás központi költségvetésről szóló törvényben meghatározott önköltsége egyhavi összegének
+257. §[^213] Az ágazati alapvizsga vizsgabizottságának a szakképző intézmény feladatellátási helye szerint területileg illetékes gazdasági kamara által delegált elnökét megillető díjazás összege a szakirányú oktatás központi költségvetésről szóló törvényben meghatározott önköltsége egyhavi összegének
 
-a)[^213] hatvanhét százaléka, ha a vizsgázók száma huszonöt fő alatt,
+a)[^214] hatvanhét százaléka, ha a vizsgázók száma huszonöt fő alatt,
 
-b)[^214] száz százaléka, ha a vizsgázók száma huszonöt és harmincöt fő között,
+b)[^215] száz százaléka, ha a vizsgázók száma huszonöt és harmincöt fő között,
 
-c)[^215] százharminchárom százaléka, ha a vizsgázók száma harmincöt fő fölött
+c)[^216] százharminchárom százaléka, ha a vizsgázók száma harmincöt fő fölött
 
 van. A vizsgabizottság elnöke az e §-ban meghatározott díjazáson felül további költségtérítésre nem jogosult.
 
-[^212]: A 257. § nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 66. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 35. pontja szerint módosított szöveg.
-[^213]: A 257. § a) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 67. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 36. pontja szerint módosított szöveg.
-[^214]: A 257. § b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 68. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 37. pontja szerint módosított szöveg.
-[^215]: A 257. § c) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 69. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 38. pontja szerint módosított szöveg.
+[^213]: A 257. § nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 66. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 35. pontja szerint módosított szöveg.
+[^214]: A 257. § a) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 67. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 36. pontja szerint módosított szöveg.
+[^215]: A 257. § b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 68. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 37. pontja szerint módosított szöveg.
+[^216]: A 257. § c) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 69. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 38. pontja szerint módosított szöveg.

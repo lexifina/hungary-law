@@ -1,4 +1,4 @@
-313. § (1)[^248] Az elnök, illetve a tag megbízatása megszűnik, ha egy naptári évben az ágazati készségtanács üléseinek kétötödén nem vesz részt. A megbízatás megszűnésének időpontja a tárgyév december harmincegyedike.
+313. § (1)[^249] Az elnök, illetve a tag megbízatása megszűnik, ha egy naptári évben az ágazati készségtanács üléseinek kétötödén nem vesz részt. A megbízatás megszűnésének időpontja a tárgyév december harmincegyedike.
 
 (2) Az elnök, illetve a tag megbízatása – az (1) bekezdésben meghatározott eseten túl – megszűnik az elnök, illetve a tag
 
@@ -14,4 +14,4 @@ d) halálával a halála napján.
 
 (4) Az elnök, illetve a tag megbízatásának a (2) bekezdés a) pontja szerinti megszűnése esetén a tagok delegálását az ágazati készségtanácsi tagságra vonatkozó megbízatás lejártát megelőző hatvan napon belül kell lebonyolítani.
 
-[^248]: A 313. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 35. pontja szerint módosított szöveg.
+[^249]: A 313. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 35. pontja szerint módosított szöveg.

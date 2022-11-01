@@ -28,9 +28,12 @@ kell rendelkeznie.
 
 (6) Idegen nyelv, nemzetiségi nyelv oktatására alkalmazható az is, aki főiskolai szintű nyelvtanári vagy idegen nyelv- és irodalom szakos tanári felsőfokú végzettséggel és szakképzettséggel rendelkezik. Az anyanyelvi oktató a küldő állam vagy államközi megállapodásban meghatározott közvetítő szervezet olyan igazolása alapján vehet rész az idegen nyelv, nemzetiségi nyelv oktatásában, amely a középfokú iskolában való oktatásra jogosító felsőfokú oklevéllel való rendelkezésének tényét igazolja.
 
-(7)[^127] A szakképző intézményben az (1) bekezdésben meghatározott oktatón kívüli további, nevelő-oktató munkát végzők végzettségi és szakképzettségi követelményeire a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletét kell alkalmazni.
+(6a)[^127] A honvédelmi alapismeretek tantárgy oktatójának az (1) bekezdés a) pontjában meghatározott végzettséggel és szakképzettséggel vagy szakmai tanárképzésben szerzett mesterfokozattal kell rendelkeznie, továbbá legalább százhúsz órás továbbképzés keretében el kell sajátítania a honvédelmi alapismeretek vagy a katonai alapismeretek oktatásához szükséges elméleti és módszertani ismereteket.
+
+(7)[^128] A szakképző intézményben az (1) bekezdésben meghatározott oktatón kívüli további, nevelő-oktató munkát végzők végzettségi és szakképzettségi követelményeire a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletét kell alkalmazni.
 
 [^124]: A 134. § (1) bekezdés a) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 38. pontja szerint módosított szöveg.
 [^125]: A 134. § (2) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 39. pontja szerint módosított szöveg.
 [^126]: A 134. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 40. pontja szerint módosított szöveg.
-[^127]: A 134. § (7) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^127]: A 134. § (6a) bekezdését a 410/2022. (X. 24.) Korm. rendelet 13. §-a iktatta be.
+[^128]: A 134. § (7) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.

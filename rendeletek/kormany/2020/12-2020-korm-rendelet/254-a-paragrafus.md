@@ -4,6 +4,6 @@
 
 ## 87. Az Szkt. 91. §-ához
 
-254/A. §[^207] A tanuló, illetve a képzésben részt vevő személy ágazati alapvizsgára az ágazati alapoktatásban való részvétele alapján bocsátható.
+254/A. §[^208] A tanuló, illetve a képzésben részt vevő személy ágazati alapvizsgára az ágazati alapoktatásban való részvétele alapján bocsátható.
 
-[^207]: A 254/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 39. §-a iktatta be.
+[^208]: A 254/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 39. §-a iktatta be.

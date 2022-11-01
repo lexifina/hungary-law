@@ -2,7 +2,7 @@
 
 a) a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló esetében az Nkt. szerinti fejlesztő pedagógus,
 
-b)[^228] a sajátos nevelési igényű vagy fogyatékkal élő személy esetében az Nkt. szerinti együttnevelést segítő pedagógus
+b)[^229] a sajátos nevelési igényű vagy fogyatékkal élő személy esetében az Nkt. szerinti együttnevelést segítő pedagógus
 
 közreműködésével kell elkészíteni, és évente legalább egy alkalommal a fejlesztés eredményét rögzíteni. Az egyéni fejlesztési terv tartalmáról és a fejlesztés eredményéről a kiskorú tanuló törvényes képviselőjét tájékoztatni kell.
 
@@ -10,9 +10,9 @@ közreműködésével kell elkészíteni, és évente legalább egy alkalommal a
 
 a) a beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló esetén a szakvéleményt kiállító pedagógiai szakszolgálati intézmény,
 
-b)[^229] a sajátos nevelési igényű vagy fogyatékkal élő személy esetén az utazó gyógypedagógusi, utazó konduktori hálózat
+b)[^230] a sajátos nevelési igényű vagy fogyatékkal élő személy esetén az utazó gyógypedagógusi, utazó konduktori hálózat
 
 keretében kell gondoskodni.
 
-[^228]: A 294. § (1) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 80. pontja szerint módosított szöveg.
-[^229]: A 294. § (2) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 81. pontja szerint módosított szöveg.
+[^229]: A 294. § (1) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 80. pontja szerint módosított szöveg.
+[^230]: A 294. § (2) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 81. pontja szerint módosított szöveg.
