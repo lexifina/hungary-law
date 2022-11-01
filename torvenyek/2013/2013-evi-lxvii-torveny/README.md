@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-67-00-00
 | 2020-01-01 | 2019. évi CXV. törvény | 2013-67-00-00.25 |
 | 2020-07-30 | 2020. évi LXXXVI. törvény | 2013-67-00-00.26 |
 | 2021-10-19 | 2021. évi LIX. törvény | 2013-67-00-00.27 |
+| 2022-11-01 | 2022. évi VII. törvény | 2013-67-00-00.28 |
