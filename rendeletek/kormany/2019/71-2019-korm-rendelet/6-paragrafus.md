@@ -1,16 +1,17 @@
-6. § (1)[^17] A közigazgatási szerv hivatali szervezetének vezetője a közigazgatási szervnél megüresedett álláshely betöltése érdekében megkeresheti a személyügyi központot, hogy a TARTINFOR-rendszerben tartalékállományba helyezettek között keresést végezzen.
+6. § (1)[^20] A közigazgatási szerv hivatali szervezetének vezetője a közigazgatási szervnél megüresedett álláshely betöltése érdekében megkeresheti a személyügyi központot, hogy a TARTINFOR-rendszerben tartalékállományba helyezettek között keresést végezzen.
 
-(2)[^18] A személyügyi központ a közigazgatási szerv által a 9. § (1) bekezdésében meghatározottak szerint bejelentett üres álláshely alapján az üres álláshely bejelentését követő öt munkanapon belül – a Kttv. 41/A. § (2) bekezdés b) pontja szerinti feltételnek megfelelően – keresést végez a TARTINFOR-rendszerben szereplő, a Kttv. 41/A. § (1) bekezdésében meghatározott rendelkezési állományú katonák körében.
+(2)[^21] A személyügyi központ a közigazgatási szerv által a 9. § (1) bekezdésében meghatározottak szerint bejelentett üres álláshely alapján az üres álláshely bejelentését követő öt munkanapon belül – a Kttv. 41/A. § (2) bekezdés b) pontja szerinti feltételnek megfelelően – keresést végez a TARTINFOR-rendszerben szereplő, a Kttv. 41/A. § (1) bekezdésében meghatározott rendelkezési állományú katonák körében.
 
-(3)[^19] Ha a (2) bekezdésben meghatározott keresés alapján nincs a munkakör betöltéséhez előírt képesítési feltételeknek megfelelő személy, a személyügyi központ – a közigazgatási szerv egyidejű értesítése mellett – a (2) bekezdésben meghatározott korlátozásra tekintet nélkül további keresést végez a TARTINFOR-rendszerben.
+(3)[^22] Ha a (2) bekezdésben meghatározott keresés alapján nincs a munkakör betöltéséhez előírt képesítési feltételeknek megfelelő személy, a személyügyi központ – a közigazgatási szerv egyidejű értesítése mellett – a (2) bekezdésben meghatározott korlátozásra tekintet nélkül további keresést végez a TARTINFOR-rendszerben.
 
 (4) A személyügyi központ a keresést a közigazgatási szerv hivatali szervezetének vezetője megkeresésétől – a (2) bekezdésben foglalt esetben az üres álláshely bejelentésétől – számított öt munkanapon belül lefolytatja, és abc sorrendben ajánlati listát állít össze az álláshely betöltésére alkalmas tartalékállományba helyezettekről.
 
-(5)[^20] A személyügyi központ a lefolytatott keresésről értesíti a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetőjét. A tartalékállományba helyezett – amennyiben az ajánlati listán szerepel – tájékoztatást kap.
+(5)[^23] A személyügyi központ a lefolytatott keresésről értesíti a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetőjét. A tartalékállományba helyezett – amennyiben az ajánlati listán szerepel – tájékoztatást kap.
 
-(6) Az eredményes keresésről szóló értesítéssel egyidejűleg a személyügyi központ a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője számára hozzáférhetővé teszi az ajánlati listán szereplő tartalékállományba helyezetteknek a Kttv. 3. mellékletében, a Hszt. 4. mellékletében, valamint a Haktv. 7. mellékletében meghatározott adatait.
+(6)[^24] Az eredményes keresésről szóló értesítéssel egyidejűleg a személyügyi központ a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője számára hozzáférhetővé teszi az ajánlati listán szereplő tartalékállományba helyezetteknek a Kttv. 3. mellékletében, a Hszt. 4. mellékletében, valamint a Haktv. 17. mellékletében meghatározott adatait.
 
-[^17]: A 6. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 12. pontja szerint módosított szöveg.
-[^18]: A 6. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 13. pontja szerint módosított szöveg.
-[^19]: A 6. § (3) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 14. pontja szerint módosított szöveg.
-[^20]: A 6. § (5) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^20]: A 6. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 12. pontja szerint módosított szöveg.
+[^21]: A 6. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 13. pontja szerint módosított szöveg.
+[^22]: A 6. § (3) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 14. pontja szerint módosított szöveg.
+[^23]: A 6. § (5) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^24]: A 6. § (6) bekezdése a 385/2022. (X. 13.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

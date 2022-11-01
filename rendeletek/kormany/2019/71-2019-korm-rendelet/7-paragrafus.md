@@ -8,15 +8,15 @@
 
 (5) A közszolgálati tisztviselő vagy a hivatásos állomány tagjának hozzájárulása esetén a munkáltatói jogkör gyakorlója intézkedik az áthelyezésről, és visszavonja a tartalékállományba helyezett felmentését.
 
-(6)[^21] A keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője az ajánlati lista kézhezvételét követő tizenöt munkanapon belül a TARTINFOR-rendszerben rögzíti a foglalkoztatás tényét.
+(6)[^25] A keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője az ajánlati lista kézhezvételét követő tizenöt munkanapon belül a TARTINFOR-rendszerben rögzíti a foglalkoztatás tényét.
 
-(7)[^22] A közigazgatási szerv által a tartalékállományba helyezettről rögzített adatokat a tartalékállományba helyezett saját felhasználói felületén megtekintheti, szerkesztheti, módosíthatja, elhelyezkedésének elősegítése érdekében dokumentumokat tölthet fel a TARTINFOR-rendszerbe.
+(7)[^26] A közigazgatási szerv által a tartalékállományba helyezettről rögzített adatokat a tartalékállományba helyezett saját felhasználói felületén megtekintheti, szerkesztheti, módosíthatja, elhelyezkedésének elősegítése érdekében dokumentumokat tölthet fel a TARTINFOR-rendszerbe.
 
-(8)[^23] A felmentési időszak lejártát követően a tartalékállományba helyezett hozzáférése a rendszerhez automatikusan megszűnik.
+(8)[^27] A felmentési időszak lejártát követően a tartalékállományba helyezett hozzáférése a rendszerhez automatikusan megszűnik.
 
-(9)[^24] A tartalékállományba helyezett a felmentés ideje alatt jogosult a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendelet szerinti Új Karrier Program szolgáltatásait igénybe venni, amelyet automatikusan felajánl a rendszer.
+(9)[^28] A tartalékállományba helyezett a felmentés ideje alatt jogosult a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendelet szerinti Új Karrier Program szolgáltatásait igénybe venni, amelyet automatikusan felajánl a rendszer.
 
-[^21]: A 7. § (6) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
-[^22]: A 7. § (7) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.
-[^23]: A 7. § (8) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.
-[^24]: A 7. § (9) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^25]: A 7. § (6) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^26]: A 7. § (7) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^27]: A 7. § (8) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^28]: A 7. § (9) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 42. § (2) bekezdése iktatta be.

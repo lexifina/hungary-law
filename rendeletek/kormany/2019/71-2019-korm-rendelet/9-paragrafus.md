@@ -1,11 +1,11 @@
 ## 4. A közigazgatási szervre vonatkozó különös rendelkezések
 
-9. § (1)[^29] A közigazgatási szerv hivatali szervezetének vezetője az üres álláshelyre vonatkozó, meghatározott adatokat a megüresedéstől számított legkésőbb tizenöt napon belül rögzíti a TARTINFOR-rendszerben.
+9. § (1)[^33] A közigazgatási szerv hivatali szervezetének vezetője az üres álláshelyre vonatkozó, meghatározott adatokat a megüresedéstől számított legkésőbb tizenöt napon belül rögzíti a TARTINFOR-rendszerben.
 
-(2)[^30] Az üres álláshelyre történő kinevezés – határozott idejű áthelyezés esetén kinevezésmódosítás – napjától számított nyolc napon belül a közigazgatási szerv hivatali szervezetének vezetője törli az üres álláshely adatait a TARTINFOR-rendszerből.
+(2)[^34] Az üres álláshelyre történő kinevezés – határozott idejű áthelyezés esetén kinevezésmódosítás – napjától számított nyolc napon belül a közigazgatási szerv hivatali szervezetének vezetője törli az üres álláshely adatait a TARTINFOR-rendszerből.
 
-(3)[^31] A személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendelet szerinti KÖZSZOLGÁLLÁS pályázati kiírása alapján a betölteni tervezett álláshely adatait a TARTINFOR-rendszer automatikusan, közvetlen adatkapcsolat útján átveszi.
+(3)[^35] A személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendelet szerinti KÖZSZOLGÁLLÁS pályázati kiírása alapján a betölteni tervezett álláshely adatait a TARTINFOR-rendszer automatikusan, közvetlen adatkapcsolat útján átveszi.
 
-[^29]: A 9. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 18. pontja és a 48. § a) pontja szerint módosított szöveg.
-[^30]: A 9. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 19. pontja szerint módosított szöveg.
-[^31]: A 9. § (3) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 44. §-a iktatta be.
+[^33]: A 9. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 18. pontja és a 48. § a) pontja szerint módosított szöveg.
+[^34]: A 9. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 19. pontja szerint módosított szöveg.
+[^35]: A 9. § (3) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 44. §-a iktatta be.

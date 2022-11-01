@@ -10,5 +10,7 @@ c)[^1] a honvédek jogállásáról szóló 2012. évi CCV. törvény (a tovább
 
 d)[^2] a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központra (a továbbiakban: személyügyi központ)
 
+terjed ki.
+
 [^1]: Az 1. § c) pontja a 243/2022. (VII. 4.) Korm. rendelet 13. §-a szerint módosított szöveg.
 [^2]: Az 1. § d) pontja a 243/2022. (VII. 4.) Korm. rendelet 12. §-ával megállapított szöveg.
