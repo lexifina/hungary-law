@@ -2,11 +2,13 @@
 
 14. § (1) E rendelet a kihirdetését követő hónap első napján lép hatályba.
 
-(2)–(3)[^52]
+(2)[^52]
 
-(4)[^53] E rendeletnek a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Honvédség nemzetközi tevékenységéhez kapcsolódó egyes kormányrendeletek módosításáról szóló 64/2011. (IV. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (7)–(9) bekezdését a Módr. hatálybalépését[^54] követően a honvédelemért felelős miniszternek benyújtott kárigények elbírálása tekintetében kell alkalmazni.
+(3)[^53]
 
-Melléklet a 276/2008. (XI. 21.) Korm. rendelethez[^55]
+(4)[^54] E rendeletnek a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Honvédség nemzetközi tevékenységéhez kapcsolódó egyes kormányrendeletek módosításáról szóló 64/2011. (IV. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (7)–(9) bekezdését a Módr. hatálybalépését[^55] követően a honvédelemért felelős miniszternek benyújtott kárigények elbírálása tekintetében kell alkalmazni.
+
+Melléklet a 276/2008. (XI. 21.) Korm. rendelethez[^56]
 
 KÁRIGÉNY BEJELENTŐ ADATLAP
 
@@ -73,6 +75,7 @@ Kelt: ..................................., 2........... ........................
 bejelentő
 
 [^52]: A 14. § (2)–(3) bekezdése hatályát vesztette ugyanezen § (3) bekezdése alapján.
-[^53]: A 14. § (4) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 437. § e) pontja szerint módosított szöveg.
-[^54]: A hatálybalépés időpontja 2011. május 1.
-[^55]: A melléklet a 290/2011. (XII. 22.) Korm. rendelet 90. § (7) bekezdése, a 63/2012. (IV. 2.) Korm. rendelet 5. § (5) bekezdése szerint módosított szöveg.
+[^53]: A 14. § (2)–(3) bekezdése hatályát vesztette ugyanezen § (3) bekezdése alapján.
+[^54]: A 14. § (4) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 437. § e) pontja szerint módosított szöveg.
+[^55]: A hatálybalépés időpontja 2011. május 1.
+[^56]: A melléklet a 290/2011. (XII. 22.) Korm. rendelet 90. § (7) bekezdése, a 63/2012. (IV. 2.) Korm. rendelet 5. § (5) bekezdése szerint módosított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-276-20-
 | 2012-01-01 | 2008-276-20-22.4 | 290/2011. (XII. 22.) Korm. rendelet |
 | 2012-04-15 | 2008-276-20-22.5 | 290/2011. (XII. 22.) Korm. rendelet |
 | 2014-09-05 | 2008-276-20-22.6 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2022-11-01 | 2008-276-20-22.7 | 290/2011. (XII. 22.) Korm. rendelet |

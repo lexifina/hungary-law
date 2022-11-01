@@ -1,6 +1,6 @@
 ## MAGYARORSZÁG TERÜLETÉN TARTÓZKODÓ KÜLFÖLDI FEGYVERES ERŐK ÁLTAL MAGYAR HARMADIK FÉLNEK OKOZOTT KÁROK[^15]
 
-6. § (1)[^16] A Honvédségnek a Hvt. 36. § (1) bekezdés c) pontjában foglalt feladatával és a befogadó nemzeti támogatás teljesítésével összefüggésben Magyarország területén tartózkodó külföldi fegyveres erők által magyar harmadik félnek Magyarország területén okozott kár esetén a károsult kárigényét – választása szerint – a lakóhelye, ennek hiányában állandó tartózkodási helye, illetve székhelye, vagy a kár bekövetkezésének helye szerint illetékes települési önkormányzat jegyzőjénél terjesztheti elő. A kárigényt a jelen rendelet mellékletében foglalt „Kárigény bejelentő adatlap”-on kell benyújtani.
+6. § (1)[^16] A Honvédségnek a Hvt. 59. § (1) bekezdés d) pontjában foglalt feladatával és a befogadó nemzeti támogatás teljesítésével összefüggésben Magyarország területén tartózkodó külföldi fegyveres erők által magyar harmadik félnek Magyarország területén okozott kár esetén a károsult kárigényét – választása szerint – a lakóhelye, ennek hiányában állandó tartózkodási helye, illetve székhelye, vagy a kár bekövetkezésének helye szerint illetékes települési önkormányzat jegyzőjénél terjesztheti elő. A kárigényt a jelen rendelet mellékletében foglalt „Kárigény bejelentő adatlap”-on kell benyújtani.
 
 (2)[^17] A jegyző az előterjesztett kárigényt eljuttatja a honvédelemért felelős miniszternek, amely azt nyilvántartásba veszi, és a káreseménnyel kapcsolatos szolgálati igazolás kérésével együtt haladéktalanul továbbítja a külföldi fegyveres erő illetékes szervének.
 
@@ -19,7 +19,7 @@
 (9)[^24] A (8) bekezdés alapján indult perekben az államot a honvédelemért felelős miniszter képviseli.
 
 [^15]: A 6. §-t megelőző alcím a 221/2014. (IX. 4.) Korm. rendelet 437. § d) pontja szerint módosított szöveg.
-[^16]: A 6. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 90. § (2) és (4) bekezdése szerint módosított szöveg.
+[^16]: A 6. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 90. § (2) és (4) bekezdése, a 409/2022. (X. 24.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^17]: A 6. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 437. § e) pontja szerint módosított szöveg.
 [^18]: A 6. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 437. § f) pontja szerint módosított szöveg.
 [^19]: A 6. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 437. § f) pontja szerint módosított szöveg.

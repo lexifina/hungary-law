@@ -1,4 +1,4 @@
-7. § (1)[^25] A károsult a Honvédségnek a Hvt. 36. § (1) bekezdés c) pontjában foglalt feladatával és a befogadó nemzeti támogatás teljesítésével összefüggésben Magyarország területén tartózkodó külföldi fegyveres erők által magyar harmadik félnek Magyarország területén, a külföldi fegyveres erők által üzemeltetett gépjárművekkel okozott károk miatti kárigényét a Magyar Biztosítók Szövetségénél (a továbbiakban: MABISZ) terjesztheti elő.
+7. § (1)[^25] A károsult a Honvédségnek a Hvt. 59. § (1) bekezdés d) pontjában foglalt feladatával és a befogadó nemzeti támogatás teljesítésével összefüggésben Magyarország területén tartózkodó külföldi fegyveres erők által magyar harmadik félnek Magyarország területén, a külföldi fegyveres erők által üzemeltetett gépjárművekkel okozott károk miatti kárigényét a Magyar Biztosítók Szövetségénél (a továbbiakban: MABISZ) terjesztheti elő.
 
 (2)[^26] A MABISZ a bejelentett kárigények kivizsgálásával Magyarország területén kötelező gépjármű-felelősségbiztosítási tevékenység folytatására jogosult biztosítót (a továbbiakban: biztosító) megbízhat.
 
@@ -12,7 +12,7 @@
 
 (7)[^30] A MABISZ, illetve az általa megbízott biztosító a MABISZ útján, az eljárása során felmerült indokolt és igazolt költsége erejéig megtérítési igényt terjeszthet elő a honvédelemért felelős miniszternek, amely az igény kézhezvételét követő 30 napon belül köteles az igazolt költségek összegét a MABISZ, illetve az általa megbízott biztosító számlájára átutalni.
 
-[^25]: A 7. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 90. § (2) és (5) bekezdése szerint módosított szöveg.
+[^25]: A 7. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 90. § (2) és (5) bekezdése, a 409/2022. (X. 24.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^26]: A 7. § (2) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 90. § (2) bekezdése szerint módosított szöveg.
 [^27]: A 7. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 437. § c) pontja szerint módosított szöveg.
 [^28]: A 7. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 437. § c) pontja szerint módosított szöveg.
