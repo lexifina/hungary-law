@@ -1,0 +1,1 @@
+20. § Hatályát veszti a NATO Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedési Rendszer rendeltetéséről, feladatairól, eljárási rendjéről, a közreműködők kötelezettségeiről szóló 278/2011. (XII. 20.) Korm. rendelet.

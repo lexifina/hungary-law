@@ -1,0 +1,1 @@
+5. § A NIR nemzeti koordinációjáért felelős szerv a Miniszterelnöki Kabinetirodát vezető miniszter útján kezdeményezheti a Kormánynál a NIR gyakorlás céljából történő alkalmazását. Az ágazati felelős szerv a felkészülési feladatot az együttműködő szerv bevonásával a saját feladat- és hatáskörében önállóan hajtja végre.

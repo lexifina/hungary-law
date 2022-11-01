@@ -1,0 +1,1 @@
+18. § A 8. § (2) bekezdés g) pontja szerinti kezdeményezés alapján született kormányzati döntést a nemzeti válságkezelést koordináló operatív szerv haladéktalanul, a külpolitikáért felelős miniszterrel együttműködve, a NATO-hoz delegált nemzeti képviseleten keresztül juttatja el a NATO feladat- és hatáskörrel rendelkező szervéhez.

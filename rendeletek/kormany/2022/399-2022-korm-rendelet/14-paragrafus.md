@@ -1,0 +1,1 @@
+14. § A Nemzeti Intézkedések Gyűjteményében foglalt intézkedés- és előírásminta időszakonkénti felülvizsgálatát és módosítását a NIR nemzeti koordinációjáért felelős szerv a nemzeti válságkezelést koordináló operatív szerv, az ágazati felelős szerv és az együttműködő szerv bevonásával végzi.
