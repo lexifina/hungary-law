@@ -12,7 +12,7 @@ b) tartósan távollévő bírák helyettesítése érdekében,
 
 c) bírósági közvetítői tevékenység végzése érdekében,
 
-d) rendkívüli állapot, szükségállapot idején,
+d) hadiállapot, szükségállapot idején,
 
 e) központi igazgatási feladatok ellátása érdekében
 
