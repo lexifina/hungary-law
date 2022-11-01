@@ -154,7 +154,7 @@ c) a honvédelemért, az idegenrendészetért és menekültügyért felelős min
 
 d) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a gyermek- és ifjúságpolitikáért, a gyermekek és az ifjúság védelméért, szociálpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 
-e) a honvédelemért felelős miniszter, hogy a Magyar Honvédségnél foglalkoztatott közalkalmazottak részére, a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat,
+e)
 
 f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a gyermek- és ifjúságpolitikáért, a gyermekek és az ifjúság védelméért, szociálpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
 
@@ -184,7 +184,7 @@ r)
 
 s)
 
-t) a honvédelemért felelős miniszter, hogy a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményeket,
+t)
 
 u) az adópolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
 
@@ -194,21 +194,7 @@ az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvet�
 
 (6) Amennyiben a munkáltató több, a (2)–(5) bekezdés hatálya alá tartozó intézmény alaptevékenységébe tartozó tevékenységet is ellát, az egyes tevékenységek körébe tartozó munkakört ellátó közalkalmazottra a tevékenységre vonatkozó végrehajtási rendelet szabályait kell alkalmazni.
 
-(7) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
-
-a) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, közoktatási, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
-
-aa) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
-
-ab) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
-
-ac) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat;
-
-b) az ágazati irányítása, illetve felügyelete alá tartozó közművelődési, közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a formaruha-juttatást;
-
-c) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat;
-
-d) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményt.
+(7)
 
 (8) Felhatalmazást kap a büntetés-végrehajtásért és a rendészetért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, oktatási, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
 
