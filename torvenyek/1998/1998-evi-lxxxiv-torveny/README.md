@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-84-00-00
 | 2021-02-01 | 2019. évi CXVI. törvény | 1998-84-00-00.63 |
 | 2021-07-01 | 2021. évi LIII. törvény | 1998-84-00-00.64 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 1998-84-00-00.65 |
+| 2022-11-01 | 2022. évi XXI. törvény | 1998-84-00-00.66 |
