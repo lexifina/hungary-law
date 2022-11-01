@@ -4,7 +4,7 @@
 
 (3) A Hatóság elnöke vagyonnyilatkozatának nyilvános, oldalhű másolatát a Hatóság honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Hatóság elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
 
-(3a) A Hatóság elnöke a vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a miniszterelnöknek bejelenti.
+(3a)
 
 (4) A Hatóság elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
 
