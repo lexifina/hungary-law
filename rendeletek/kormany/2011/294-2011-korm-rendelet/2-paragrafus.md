@@ -12,4 +12,6 @@ d) a munkáltató nyilatkozata a kompenzációs igényéről, vagy az erről val
 
 (3) A munkáltató – személyében bekövetkezett és a megállapodás tartalmát érintő – minden változást 15 munkanapon belül bejelent a Magyar Honvédség vele szerződést kötő illetékes szerve részére.
 
-(4) A munkáltató amennyiben a behívás átütemezésének lehetőségét a 2. § 1 c) bekezdése szerint nem zárta ki, háromévente egy alkalommal, a működésével összefüggő okból jogosult az alkalmazásában álló önkéntes tartalékos tényleges szolgáltra történő előre tervezett behívása egyszeri átütemezésének kezdeményezésére. Az átütemezést az MH területileg illetékes katonai igazgatási szervezeténél kell kezdeményeznie. Az átütemezés kezdeményezésének joga nem illeti meg a munkáltatót a Magyar Honvédség által előre nem tervezhető behívás esetén.
+(4)[^4] A munkáltató amennyiben a behívás átütemezésének lehetőségét a 2. § 1 c) bekezdése szerint nem zárta ki, háromévente egy alkalommal, a működésével összefüggő okból jogosult az alkalmazásában álló önkéntes tartalékos tényleges szolgáltra történő előre tervezett behívása egyszeri átütemezésének kezdeményezésére. Az átütemezést az MH katonai igazgatási és központi adatfeldolgozó szervénél kell kezdeményeznie. Az átütemezés kezdeményezésének joga nem illeti meg a munkáltatót a Magyar Honvédség által előre nem tervezhető behívás esetén.
+
+[^4]: A 2. § (4) bekezdése a 409/2022. (X. 24.) Korm. rendelet 14. §-a szerint módosított szöveg.

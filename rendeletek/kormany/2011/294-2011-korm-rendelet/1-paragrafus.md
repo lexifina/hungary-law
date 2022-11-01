@@ -2,7 +2,7 @@
 
 a) a munkáltató az önkéntes tartalékos munkavállalója után,
 
-b)[^2] az egyéni vállalkozókról és az egyéni cégekről szóló 2009. évi CXV. törvény hatálya alá tartozó egyéni vállalkozó, továbbá a családi gazdaságokról szóló 2020. évi CXXIII. törvény szerinti mezőgazdasági őstermelő.
+b)[^2]
 
 (2) Az önkéntes tartalékost foglalkoztató munkáltató kompenzációjának mértéke a Központi Statisztikai Hivatal által utoljára publikált féléves, vagy éves ágazati bruttó átlagkereseti adatok alapján számított napi összeg. A számításhoz a munkáltató statisztikai számjele szerinti nemzetgazdasági ágazat bruttó átlagkereseti adatát kell figyelembe venni.
 
@@ -12,7 +12,7 @@ b)[^2] az egyéni vállalkozókról és az egyéni cégekről szóló 2009. évi
 
 (5) Részmunkaidőben foglalkoztatott önkéntes tartalékos munkavállaló után a munkáltatót a munkavállaló munkaidejével arányos kompenzáció illeti meg.
 
-(6) Nem jogosultak kompenzációra az államháztartás központi alrendszerébe tartozó költségvetési szervek, az államháztartás önkormányzati alrendszerébe tartozó költségvetési szervek, az államháztartás társadalombiztosítási rendszerében működő szervek, az elkülönített állami alapokat kezelő szervek, valamint a többségi állami tulajdonú gazdasági társaságok.
+(6)[^3] Nem jogosultak kompenzációra az államháztartás központi alrendszerébe tartozó költségvetési szervek, az államháztartás önkormányzati alrendszerébe tartozó költségvetési szervek, az elkülönített állami pénzalapokat kezelő szervek, valamint a közvetlen többségi állami részesedéssel működő gazdasági társaságok.
 
 (7) A munkáltató az őt megillető kompenzációról – a 2. § (1) bekezdésben meghatározott megállapodásban – lemondhat.
 
@@ -21,4 +21,5 @@ b)[^2] az egyéni vállalkozókról és az egyéni cégekről szóló 2009. évi
 (9) A munkáltatót megillető kompenzáció kifizetése utólagos finanszírozással történik.
 
 [^1]: Az 1. § (1) bekezdése a 265/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés b) pontja a 665/2020. (XII. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontját a 409/2022. (X. 24.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^3]: Az 1. § (6) bekezdése a 409/2022. (X. 24.) Korm. rendelet 13. §-ával megállapított szöveg.
