@@ -1,0 +1,1 @@
+2. § A területi védelmi bizottság az illetékességi területén, a szervezeti és működési szabályzatában meghatározottak alapján együttműködik a honvédelmi igazgatási és a kijelölt katasztrófavédelmi feladatot ellátó szervvel, valamint a védelmi és biztonsági feladat ellátásában részt vevő más szervvel, szervezettel.

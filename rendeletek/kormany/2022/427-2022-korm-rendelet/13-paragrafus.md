@@ -1,0 +1,1 @@
+13. § A helyi védelmi bizottság az illetékességi területén, a szervezeti és működési szabályzatában meghatározottak szerint együttműködik a honvédelmi igazgatási és a kijelölt katasztrófavédelmi feladatot ellátó szervvel, valamint a védelmi és biztonsági feladat ellátásában részt vevő más szervezettel.
