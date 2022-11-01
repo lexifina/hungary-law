@@ -2,7 +2,7 @@
 
 ## 5. Igazolás kiállításának szabályai
 
-33. § (1)[^38] A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 23. pontja szerinti, az NSIP beszerzés közterhektől való mentességét a honvédelemért felelős miniszter igazolja. Ezt a jogkörét a honvédelemért felelős miniszter közjogi szervezetszabályozó eszközben átruházhatja.
+33. § (1)[^38] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 48. §-a szerinti, az NSIP beszerzés közterhektől való mentességét a honvédelemért felelős miniszter igazolja. Ezt a jogkörét a honvédelemért felelős miniszter közjogi szervezetszabályozó eszközben átruházhatja.
 
 (2) Az (1) bekezdésben foglalt igazolás kötelező adattartalma a következő:
 
@@ -21,4 +21,4 @@ f) az okiratot kiállító hatóság nevében és képviseletében eljáró szem
 g) az okiratot kiállító hatóság hivatalos jelzése az okirat hitelességének és érvényességének tanúsítására.
 
 [^37]: A 32. § a 323/2015. (X. 30.) Korm. rendelet 10. § (17) bekezdésével megállapított szöveg.
-[^38]: A 33. § (1) bekezdése a 354/2019. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^38]: A 33. § (1) bekezdése a 354/2019. (XII. 23.) Korm. rendelet 10. §-ával megállapított, a 409/2022. (X. 24.) Korm. rendelet 16. §-a szerint módosított szöveg.

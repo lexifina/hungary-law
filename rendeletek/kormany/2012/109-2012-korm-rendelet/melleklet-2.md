@@ -1,10 +1,8 @@
 2. melléklet a 109/2012. (VI. 1.) Korm. rendelethez
 
-## Részvételi felhívás minta
+Részvételi felhívás minta
 
-1.
-
-a. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+1. a. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
 
 b. A választott eljárás:
 

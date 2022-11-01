@@ -1,5 +1,3 @@
-## 10. §[^12]
-
 11. § (1) Az NSIP beszerzési eljárásokban ajánlattevőként vagy alvállalkozóként kizárólag Magyarországon, vagy valamely NATO tagországban bejegyzett gazdálkodó szervezet vehet részt.
 
 (2)[^13] Az NSIP beszerzési eljárásokban ajánlattevőként és az ajánlat értékének 5%-át meghaladó mértékben igénybe venni szándékozott alvállalkozóként az R1. alapján „NATO Beszállításra Alkalmas” határozattal rendelkező gazdálkodó szervezetek vehetnek részt, kivéve a (4) és (6) bekezdésben foglalt eseteket.
@@ -20,7 +18,6 @@ b) a beszerzési eljárásban a részvételre jelentkező vagy ajánlattevő ál
 
 (8)[^16] A Kbt. 35–36. §-ában foglaltak megfelelően alkalmazandók.
 
-[^12]: A 10. §-t a 323/2015. (X. 30.) Korm. rendelet 10. § (23) bekezdése hatályon kívül helyezte.
 [^13]: A 11. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (20) bekezdés 6. pontja szerint módosított szöveg.
 [^14]: A 11. § (6) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (7) bekezdésével megállapított szöveg.
 [^15]: A 11. § (7) bekezdését a 323/2015. (X. 30.) Korm. rendelet 10. § (23) bekezdése hatályon kívül helyezte.
