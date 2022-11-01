@@ -1,4 +1,4 @@
-76. §[^259] (1) A nyugdíjfolyósító szerv az általa folyósított ellátásban részesülő, külföldön élő vagy tartózkodó személy adatainak egyeztetését naptári évenként egyszer, hivatalból,
+76. §[^266] (1) A nyugdíjfolyósító szerv az általa folyósított ellátásban részesülő, külföldön élő vagy tartózkodó személy adatainak egyeztetését naptári évenként egyszer, hivatalból,
 
 a) EGT-állam vagy Magyarországgal szociális biztonsági, szociálpolitikai egyezményt kötött állam esetén az adott állam társadalombiztosítási szervének bevonásával végzi, ha az adatcsere feltételei fennállnak,
 
@@ -10,4 +10,4 @@ b) az a) pontban nem említett esetben az ellátásban részesülő személyek k
 
 (4) Ha az (1)–(3) bekezdés szerinti kitöltött nyomtatvány, illetve elektronikus űrlap az előírt határidőn belül nem érkezik vissza vagy visszaérkezik, de abból a jogosultság fennállása nem állapítható meg, az ellátás folyósítását a határidő lejárta vagy a visszaérkezés napját követő második hónap első napjával be kell szüntetni. A jogosultság tényének későbbi bizonyítása esetén intézkedni kell az ellátás újbóli folyósításáról és a nem folyósított ellátás legfeljebb öt évre visszamenőlegesen járó – az időközi emelésekkel növelt – összegének kiutalásáról.
 
-[^259]: A 76. § a 306/2020. (VI. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^266]: A 76. § a 306/2020. (VI. 30.) Korm. rendelet 6. §-ával megállapított szöveg.

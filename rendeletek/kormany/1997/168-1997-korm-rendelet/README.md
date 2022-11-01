@@ -55,3 +55,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-168-20-
 | 2022-01-01 | 1997-168-20-22.82 | 692/2021. (XII. 9.) Korm. rendelet |
 | 2022-04-07 | 1997-168-20-22.83 | 128/2022. (IV. 4.) Korm. rendelet |
 | 2022-07-01 | 1997-168-20-22.84 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2022-11-01 | 1997-168-20-22.85 | 692/2021. (XII. 9.) Korm. rendelet |

@@ -1,3 +1,3 @@
-59/A. §[^101]
+59/A. §[^108]
 
-[^101]: Az 59/A. §-t a 64/1998. (III. 31.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 425/2012. (XII. 29.) Korm. rendelet 12. § e) pontja.
+[^108]: Az 59/A. §-t a 64/1998. (III. 31.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 425/2012. (XII. 29.) Korm. rendelet 12. § e) pontja.

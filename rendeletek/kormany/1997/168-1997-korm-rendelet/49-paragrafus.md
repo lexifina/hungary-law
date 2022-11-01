@@ -1,6 +1,6 @@
-49. §[^90] (1) Szolgálati időként kell figyelembe venni az egyházi szolgálati viszonyban álló egyházi személynek ilyen minőségében munkában eltöltött idejét.
+49. §[^97] (1) Szolgálati időként kell figyelembe venni az egyházi szolgálati viszonyban álló egyházi személynek ilyen minőségében munkában eltöltött idejét.
 
-(2)[^91] Egyházi szolgálati viszonyban szerzett szolgálati időt az egyház által kiállított igazolás alapján lehet figyelembe venni.
+(2)[^98] Egyházi szolgálati viszonyban szerzett szolgálati időt az egyház által kiállított igazolás alapján lehet figyelembe venni.
 
-[^90]: A 49. § a 297/2013. (VII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^91]: A 49. § (2) bekezdése a 232/2019. (X. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^97]: A 49. § a 297/2013. (VII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^98]: A 49. § (2) bekezdése a 232/2019. (X. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
