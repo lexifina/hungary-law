@@ -16,7 +16,7 @@ ca) a kulturális örökség védelméért felelős miniszter (e § alkalmazás�
 
 cb) a kulturális örökségvédelem körébe tartozó közfeladatot ellátó, a miniszter tulajdonosi joggyakorlása alá tartozó állami tulajdonú gazdasági társaság vagy az irányítása alá tartozó költségvetési szerv által,
 
-## a miniszter által jóváhagyott vásárlási szabályzat alapján történik,
+a miniszter által jóváhagyott vásárlási szabályzat alapján történik,
 
 d) a tulajdonjog megszerzésére nem a c) pont cb) alpontja szerinti szervezet beszerzése útján, közgyűjteményben történő elhelyezés céljából kerül sor.
 

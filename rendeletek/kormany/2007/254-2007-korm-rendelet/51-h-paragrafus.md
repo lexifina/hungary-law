@@ -14,6 +14,6 @@ a) ha a benyújtott pályázatot elutasítják, vagy
 
 b) a költségvetési szerv a benyújtott pályázatot utóbb visszavonja,
 
-## az MNV Zrt. átveszi az ingatlant használó központi költségvetési szervtől a Vtv. 28/A. § (1) bekezdése szerinti feladatok ellátását, a pályázat elutasításáról szóló döntésre vonatkozó, illetve a pályázat visszavonására vonatkozó tájékoztatástól számított hatvan napon belül. A pályázat elutasításáról szóló döntés kézhezvételéről, illetve a pályázat visszavonásáról a pályázó központi költségvetési szerv három napon belül tájékoztatja az MNV Zrt.-t.
+az MNV Zrt. átveszi az ingatlant használó központi költségvetési szervtől a Vtv. 28/A. § (1) bekezdése szerinti feladatok ellátását, a pályázat elutasításáról szóló döntésre vonatkozó, illetve a pályázat visszavonására vonatkozó tájékoztatástól számított hatvan napon belül. A pályázat elutasításáról szóló döntés kézhezvételéről, illetve a pályázat visszavonásáról a pályázó központi költségvetési szerv három napon belül tájékoztatja az MNV Zrt.-t.
 
 (6) A központi költségvetési szerv az átmeneti használati jog időtartama alatt önállóan jogosult az intézményi működéssel, szakmai feladatellátással összefüggő, európai uniós és hazai pályázatok benyújtására, támogatási szerződés megkötésére, kötelezettségvállalásra, fenntartásra.

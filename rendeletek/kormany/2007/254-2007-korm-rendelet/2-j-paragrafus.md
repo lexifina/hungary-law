@@ -10,7 +10,7 @@ a) a pályázati felhívásban foglalt feltételek elfogadására, valamint
 
 b) a vételár összegére
 
-## vonatkozóan.
+vonatkozóan.
 
 (5) Ha a pályázati felhívás biztosítékadási kötelezettséget tartalmaz, az ajánlat csak akkor érvényes, ha az ajánlattevő a felhívásban megjelölt összegű biztosítékot az ott meghatározott formában és módon rendelkezésre bocsátotta.
 

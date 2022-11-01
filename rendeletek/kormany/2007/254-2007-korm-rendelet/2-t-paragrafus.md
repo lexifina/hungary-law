@@ -10,7 +10,7 @@ b) a Vtv. 42/O. § (2) bekezdés d) pontja szerinti esetben 300 000 forint,
 
 c) a Vtv. 42/O. § (2) bekezdés e) pontja szerinti esetben 100 000 forint
 
-## egyedi nyilvántartási érték.
+egyedi nyilvántartási érték.
 
 (2) A Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházását a törvényben megjelölt kedvezményezettek írásban kezdeményezhetik az MVH-nál. Ha a kivezetésre szánt állami vagyon tulajdonjogának megszerzésére több személy is jogosult, az MVH az átruházást megelőzően felhívást intéz a jogosultakhoz
 

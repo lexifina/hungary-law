@@ -16,9 +16,9 @@ c) az ellenőrzést végző kérésére a rendelkezésre bocsátott dokumentáci
 
 d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket megteremteni,
 
-e)[^165] az ellenőrzés megállapításai, javaslatai alapján tett intézkedéseiről a tulajdonosi joggyakorlót tájékoztatni.
+e)[^167] az ellenőrzés megállapításai, javaslatai alapján tett intézkedéseiről a tulajdonosi joggyakorlót tájékoztatni.
 
-(3)[^166] A (2) bekezdés e) pontjában említett intézkedések végrehajtását, az ellenőrzés során tett megállapítások, javaslatok hasznosulását a tulajdonosi joggyakorló szükség esetén utóellenőrzés keretében megvizsgálja.
+(3)[^168] A (2) bekezdés e) pontjában említett intézkedések végrehajtását, az ellenőrzés során tett megállapítások, javaslatok hasznosulását a tulajdonosi joggyakorló szükség esetén utóellenőrzés keretében megvizsgálja.
 
-[^165]: A 22. § (2) bekezdés e) pontja a 77/2014. (III. 14.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
-[^166]: A 22. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^167]: A 22. § (2) bekezdés e) pontja a 77/2014. (III. 14.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
+[^168]: A 22. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
