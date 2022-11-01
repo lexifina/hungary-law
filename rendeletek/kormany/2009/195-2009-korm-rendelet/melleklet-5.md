@@ -1,6 +1,6 @@
 5. melléklet a 195/2009. (IX. 15.) Korm. rendelethez
 
-## A katonai építésfelügyeleti hatóság tevékenységének minimális technikai feltételei
+A katonai építésfelügyeleti hatóság tevékenységének minimális technikai feltételei
 
 1. A kor színvonalának megfelelő mobil számítógép konfiguráció (hordozható személyi számítógép, hordozható nyomtató, 12V/220V inverter, elektronikus jogtár) – 2 építésfelügyelőnként 1 db,
 
