@@ -1,0 +1,1 @@
+4. § 2022. november 1. napja és 2022. december 31. napja között új szerződés a 2023. január 1. vagy azt követő napi hatálybalépéssel, az R. szabályai szerint köthető. Az így megkötött szerződésekre a 2. § (1) és (2) bekezdését nem kell alkalmazni.
