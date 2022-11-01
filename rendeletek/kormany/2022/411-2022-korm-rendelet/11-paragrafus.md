@@ -1,0 +1,1 @@
+11. § A védelmi és biztonsági feladat ellátásában részt vevő szervezet a postai szolgáltatási igényét minden év február 15-éig aktualizálva megküldi a miniszter részére. A miniszter az összesített igényeket – szükség esetén egyeztetés lefolytatását követően – megküldi a kijelölt postai szolgáltatónak és a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: Hatóság).

@@ -1,0 +1,1 @@
+8. § A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter a különleges jogrendi időszakra és az összehangolt védelmi tevékenység idejére való felkészülés keretében összehangolja a védelmi és biztonsági feladat ellátásában részt vevő szervezetek postai szolgáltatási igényeit.
