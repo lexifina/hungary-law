@@ -140,11 +140,11 @@ fenntartására és irányítására.
 
 a) az (1)–(17) bekezdésben foglaltak
 
-aa) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató,
+aa) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató,
 
 ab) a rendvédelmi feladatokat ellátó szervnél működő egészségügyi szolgáltató,
 
-b) a (2)–(17) bekezdésben foglaltak a Hvt. 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató
+b) a (2)–(17) bekezdésben foglaltak a Hvt. 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató
 
 fenntartására és irányítására.
 

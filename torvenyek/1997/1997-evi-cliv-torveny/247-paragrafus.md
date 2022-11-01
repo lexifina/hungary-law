@@ -8,7 +8,7 @@ c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevék
 
 d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, valamint külföldre történő kivitelére vonatkozó szabályokat,
 
-e) az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra, az egészségügyi válsághelyzet és veszélyhelyzet kezelésére vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet és veszélyhelyzet kihirdetésére, megszüntetésére, az egészségügyi válsághelyzet és veszélyhelyzet esetén nyújtott egészségügyi ellátások finanszírozására, továbbá az egészségügyi válsághelyzet és veszélyhelyzet esetén az Állami Egészségügyi Tartalék feltöltésére vonatkozó részletes szabályokat,
+e) az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra, az egészségügyi válsághelyzet és veszélyhelyzet kezelésére vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére – ennek keretében a 229. § (3) bekezdése szerinti szerv kijelölésére –, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet és veszélyhelyzet kihirdetésére, megszüntetésére, az egészségügyi válsághelyzet és veszélyhelyzet esetén nyújtott egészségügyi ellátások finanszírozására, továbbá az egészségügyi válsághelyzet és veszélyhelyzet esetén az Állami Egészségügyi Tartalék feltöltésére vonatkozó részletes szabályokat,
 
 f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 
@@ -104,7 +104,7 @@ l) egészségügyi válsághelyzetben az egészségügyi szolgáltatás irányí
 
 m) határozza meg a honvédelmi irányítású egészségügyi szolgáltatókat,
 
-n) határozza meg a Hvt. 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató és az annak irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók minősítési rendszerére vonatkozó szabályokat.
+n) határozza meg a Hvt. 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató és az annak irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók minősítési rendszerére vonatkozó szabályokat.
 
 (1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
 
@@ -369,7 +369,3 @@ j) az állami vagyon felügyeletéért felelős miniszter, hogy a 244/A. § (19)
 rendeletben állapítsa meg.
 
 (5a) Felhatalmazást kap
-
-a) a közigazgatás-szervezésért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a védettségi igazolvány kiállításáért fizetendő igazgatási szolgáltatási díjat, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
-
-b) a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben – a 74/J. § (2) bekezdése szerinti országokat

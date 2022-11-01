@@ -1,6 +1,6 @@
 ## A honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók irányítására vonatkozó rendelkezések
 
-156/B. § (1) A Hvt. 80. § 11b. pontja szerinti honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a honvédelmi egészségügyi szolgáltató irányítása alá tartozó, a Kormány rendeletében meghatározott, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató (a továbbiakban: honvédelmi irányítású egészségügyi szolgáltató) vonatkozásában – a honvédelemért felelős miniszter felügyelete mellett – gyakorolja a (2)–(9) bekezdés szerinti jogköröket.
+156/B. § (1) A Hvt. 16. § (1) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a honvédelmi egészségügyi szolgáltató irányítása alá tartozó, a Kormány rendeletében meghatározott, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató (a továbbiakban: honvédelmi irányítású egészségügyi szolgáltató) vonatkozásában – a honvédelemért felelős miniszter felügyelete mellett – gyakorolja a (2)–(9) bekezdés szerinti jogköröket.
 
 (2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője gyakorolja – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének előzetes egyetértésével – a honvédelmi irányítású egészségügyi szolgáltató felett az alábbi jogköröket:
 
@@ -38,7 +38,7 @@ h) a belső minőségügyi rendszerek összehangolása, egységes szakmai minős
 
 (4) A honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője a (2) bekezdés szerinti egyetértési kezdeményezést előzetesen az egészségügyi szolgáltatás irányításáért felelős szerv vezetője felé továbbítja, aki az egyetértési jogkörében a megkeresés beérkezésétől számított 15 napon belül – indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el, nem hajtható végre. A határidő eredménytelen eltelte esetén az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének egyetértését vélelmezni kell.
 
-(5) A (4) bekezdés szerinti kezdeményezési jogát a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a Hvt. 46/A. § (3) bekezdése szerinti katonai összekötő útján gyakorolja.
+(5)
 
 (6) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének felelősségi körébe tartozik a honvédelmi irányítású egészségügyi szolgáltató tekintetében az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételek, valamint az egészségügyi szolgáltató működőképességének biztosítása. A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője kikérheti az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének álláspontját a honvédelmi irányítású egészségügyi szolgáltató szakmai feltételeinek és működőképességének biztosítása érdekében szükséges intézkedések vonatkozásában. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője köteles érdemben megvizsgálni és állásfoglalást adni a megkeresésre.
 
@@ -62,7 +62,7 @@ gyakorolja azzal, hogy a munkáltatói jogok gyakorlása átruházható.
 
 a) a (7) bekezdés a) pontja esetében a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjére,
 
-b) a (7) bekezdés b) pontja és a (8) bekezdés a) pontja esetében a Hvt. 46/A. § (2) bekezdése szerinti, a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakörbe, vagy ennek megfelelő szolgálati beosztásba kinevezett vagy megbízott személyre,
+b) a (7) bekezdés b) pontja és a (8) bekezdés a) pontja esetében a Hvt. 16. § (3) bekezdése szerinti, a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakörbe, vagy ennek megfelelő szolgálati beosztásba kinevezett vagy megbízott személyre,
 
 c) a (8) bekezdés b) pontja esetében a honvédelmi irányítású egészségügyi szolgáltató vezetője által meghatározott vezető munkakörű személyre
 
