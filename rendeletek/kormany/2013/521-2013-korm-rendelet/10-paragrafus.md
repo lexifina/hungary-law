@@ -1,18 +1,18 @@
-10. §[^20] (1) Az állam egészségügyi válsághelyzet esetére a tömeges ellátás feltételeinek biztosítása, a szükséggyógyintézetek működéséhez, továbbá az egészségügyi válsághelyzeti ellátáshoz szükséges gyógyszerek, egészségügyi anyagok és eszközök azonnali rendelkezésre állása céljából ÁEüT-t tart fenn.
+10. §[^20] (1)[^21] Az állam egészségügyi válsághelyzet esetére a tömeges ellátás feltételeinek biztosítása, a telepített gyógyintézetek működéséhez, továbbá az egészségügyi válsághelyzeti ellátáshoz szükséges gyógyszerek, egészségügyi anyagok és eszközök azonnali rendelkezésre állása céljából ÁEüT-t tart fenn.
 
-(2) Az ÁEüT-t az egészségügyért felelős miniszter felügyeli, és annak elemeiről évente tájékoztatja a megyei kormányhivatalokat és a megyei védelmi bizottságokat.
+(2)[^22] Az ÁEüT-t az egészségügyért felelős miniszter felügyeli, és annak elemeiről évente tájékoztatja a megyei kormányhivatalokat és a területi védelmi bizottságokat.
 
 (3) Az egészségügyi válsághelyzeti ellátást a katasztrófa-orvostani szakmai szabályok alapján kell biztosítani.
 
-(4) Az egészségügyért felelős miniszter ellenőrzi az egészségügyi válsághelyzeti ellátást nyújtó egészségügyi szolgáltatók, betegszállítók, az ellátásban, illetve az ellátás működési feltételeinek biztosításában közreműködő jogi személyek, jogi személyiség nélküli szervezetek és természetes személyek egészségügyi válsághelyzeti felkészülési tevékenységét. Az egészségügyért felelős miniszter e jogkörét a Magyar Honvédség és a rendvédelmi szervek egészségügyi szolgálatai tekintetében a honvédelemért felelős miniszterrel, illetve a rendvédelmi szervekért felelős miniszterrel egyetértésben gyakorolja.
+(4)[^23] Az egészségügyért felelős miniszter ellenőrzi az egészségügyi válsághelyzeti ellátást nyújtó egészségügyi szolgáltatók, betegszállítók, az ellátásban, illetve az ellátás működési feltételeinek biztosításában közreműködő jogi személyek, jogi személyiség nélküli szervezetek és természetes személyek egészségügyi válsághelyzeti felkészülési tevékenységét. Az egészségügyért felelős miniszter e jogkörét önállóan, amennyiben összkormányzati együttműködéshez szükséges a felkészülés ellenőrzése, a védelmi és biztonsági igazgatás központi szervével, a Magyar Honvédség és a rendvédelmi szervek egészségügyi szolgálatai tekintetében a honvédelemért felelős miniszterrel, illetve a rendvédelmi szervet irányító miniszterrel egyetértésben gyakorolja.
 
-(5) A megyei kormányhivatal az egészségügyi válsághelyzeti feladatok ellátására vonatkozó tervet (a továbbiakban: megyei részterv) az Eütv. 232. § (2) bekezdésében meghatározott tervek és a vonatkozó szakmai előírások alapján készíti el, amit a megyei védelmi bizottság elnöke – az országos tisztifőorvos útján – kétévente, a második év február 28. napjáig az egészségügyért felelős miniszter részére jóváhagyás céljából megküld.
+(5)[^24] A megyei kormányhivatal az egészségügyi válsághelyzeti feladatok ellátására vonatkozó tervet (a továbbiakban: megyei részterv) az Eütv. 232. § (2) bekezdésében meghatározott tervek és a vonatkozó szakmai előírások alapján készíti el. A megyéhez tartozó egészségügyi szolgáltatók által készített intézményi egészségügyi válsághelyzeti tervek a megyei részterv mellékletét képezik. A megyei résztervet a területi védelmi bizottsággal történő egyeztetést követően a megyei kormányhivatal vezetője – az országos tisztifőorvos útján – kétévente, a második év február 28. napjáig az egészségügyért felelős miniszter részére jóváhagyás céljából megküldi.
 
-(6) Ha bármely oknál fogva olyan változás áll be, amelynek következtében a megyei résztervek módosítása szükséges, arról a megyei védelmi bizottság haladéktalanul tájékoztatja az országos tisztifőorvost, és a módosított résztervet – az országos tisztifőorvos útján – a módosítástól számított 30 napon belül megküldi jóváhagyásra az egészségügyért felelős miniszter részére.
+(6)[^25] Ha bármely oknál fogva olyan változás áll be, amelynek következtében a megyei résztervek módosítása szükséges, arról a megyei kormányhivatal haladéktalanul tájékoztatja az országos tisztifőorvost, és a módosított résztervet – az országos tisztifőorvos útján – a módosítástól számított 30 napon belül megküldi jóváhagyásra az egészségügyért felelős miniszter részére.
 
 (7) Az országos tisztifőorvos kétévente, a második év március 31. napjáig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére a jóváhagyott megyei résztervek figyelembevételével a Nemzeti Népegészségügyi Központnak az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
 
-(8)[^21] Az OMSZ főigazgatója, a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) főigazgatója, az OKFŐ főigazgatója, valamint az OGYÉI főigazgatója kétévente, a második év március 31. napjáig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
+(8)[^26] Az OMSZ főigazgatója, a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) főigazgatója, az OKFŐ főigazgatója, valamint az OGYÉI főigazgatója kétévente, a második év március 31. napjáig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
 
 (9) Az (5), (7) és (8) bekezdés szerinti jóváhagyott résztervek alapján az egészségügyért felelős miniszter gondoskodik az Egészségügyi Válsághelyzetek Kezelésének Országos Tervének (a továbbiban: Országos Terv) előkészítéséről.
 
@@ -22,8 +22,13 @@
 
 (12) Az Országos Tervet az egészségügyért felelős miniszter adja ki kétévente, a második év május 31. napjáig, és azt a megyei védelmi bizottságok részére az országos tisztifőorvos útján megküldi.
 
-(13)[^22] Az Országos Tervet az OMSZ, a NEAK, az OKFŐ és az OGYÉI és az országos tisztifőorvos részére az egészségügyért felelős miniszter küldi meg közvetlenül.
+(13)[^27] Az Országos Tervet az OMSZ, a NEAK, az OKFŐ és az OGYÉI és az országos tisztifőorvos részére az egészségügyért felelős miniszter küldi meg közvetlenül.
 
 [^20]: A 10. § a 113/2019. (V. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^21]: A 10. § (8) bekezdése az 516/2020. (XI. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^22]: A 10. § (13) bekezdése az 516/2020. (XI. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^21]: A 10. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^22]: A 10. § (2) bekezdése a 408/2022. (X. 24.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^23]: A 10. § (4) bekezdése a 408/2022. (X. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^24]: A 10. § (5) bekezdése a 408/2022. (X. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^25]: A 10. § (6) bekezdése a 408/2022. (X. 24.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
+[^26]: A 10. § (8) bekezdése az 516/2020. (XI. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^27]: A 10. § (13) bekezdése az 516/2020. (XI. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.

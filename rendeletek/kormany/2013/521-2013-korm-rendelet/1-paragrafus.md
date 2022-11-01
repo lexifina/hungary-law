@@ -12,4 +12,6 @@ c) az Eütv. 228. § (3a) bekezdése szerinti esetben, továbbá
 
 d) ha jogszabály másként nem rendelkezik, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5. pontjában meghatározott katasztrófa bekövetkezése esetén
 
+kell alkalmazni.
+
 [^1]: Az 1. § (2) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 71. §-ával megállapított szöveg.

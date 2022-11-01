@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-521-20-
 | 2020-06-18 | 2013-521-20-22.11 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2020-12-04 | 2013-521-20-22.12 | 555/2020. (XII. 3.) Korm. rendelet |
 | 2021-01-01 | 2013-521-20-22.13 | 516/2020. (XI. 25.) Korm. rendelet |
+| 2022-11-01 | 2013-521-20-22.14 | 408/2022. (X. 24.) Korm. rendelet |
