@@ -1,4 +1,4 @@
-59. § (1) A Honvédség fegyverhasználati joggal látja el a következő feladatokat:
+59. § (1) A Honvédség a következő feladatokat fegyverhasználati joggal látja el:
 
 a) a Magyarország függetlenségének, területének, légterének, lakosságának és anyagi javainak külső támadással szembeni fegyveres védelme,
 
@@ -26,7 +26,7 @@ l) közreműködés a Vbö. szerinti védelmi és válságkezelési feladatokban
 
 m) közreműködés a Kormány döntése alapján a veszélyhelyzettel, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.
 
-(2) A Honvédség fegyverhasználati jog nélkül látja el a következő feladatokat:
+(2) A Honvédség a következő feladatokat fegyverhasználati jog nélkül látja el:
 
 a) közreműködés az (1) bekezdés m) pontjába nem tartozó, katasztrófavédelemmel összefüggő további feladatok végrehajtásában,
 
@@ -48,8 +48,8 @@ i) az (1) bekezdésben és a g) pontban meghatározott feladatokkal összefügg�
 
 j) közreműködés – a hatályos nemzetközi normák betartásával – a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokban.
 
-(3) Az (1) bekezdés g) pontja szerinti egyéb tűzszerészeti feladatokat és a (2) bekezdés b) pontjában meghatározott feladatot a Honvédség a Kormány rendeletében meghatározott térítés ellenében láthatja el.
+(3) A Honvédség az (1) bekezdés g) pontja szerinti egyéb tűzszerészeti feladatokat és a (2) bekezdés b) pontjában meghatározott feladatot a Kormány rendeletében meghatározott térítés ellenében láthatja el.
 
-(4) Az (1) és a (2) bekezdés szerinti feladatok ellátásának veszélyeztetése nélkül, közérdekű célból, a honvédségi szervezet rendelkezésre álló kapacitásai terhére a Kormány rendeletében meghatározottak szerint együttműködési megállapodást köthet.
+(4) Az (1) és a (2) bekezdés szerinti feladatok ellátásának veszélyeztetése nélkül, közérdekű célból, a honvédségi szervezet a rendelkezésére álló kapacitásai terhére a Kormány rendeletében meghatározottak szerint együttműködési megállapodást köthet.
 
-(5) Az Alaptörvény 45. cikk (1) bekezdése szerinti alapvető feladatok ellátását az e § szerinti további feladatok nem veszélyeztethetik.
+(5) Az e § szerinti további feladatok az Alaptörvény 45. cikk (1) bekezdése szerinti alapvető feladatok ellátását nem veszélyeztethetik.

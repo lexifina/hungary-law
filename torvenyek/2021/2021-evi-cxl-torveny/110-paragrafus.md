@@ -24,7 +24,7 @@
 
 11. a tűzszerészeti mentesítési feladatok ellátásával összefüggő szabályokat,
 
-12. a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei kijelölésének eljárási szabályait,
+12. a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei kijelölésének eljárási szabályait és az eljáró hatóságot,
 
 13. a határátlépéssel járó csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány hatáskörébe tartozó határátlépéssel járó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat,
 
@@ -40,9 +40,9 @@
 
 19. a fegyveres erők kiképzéseinek a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanon kívüli végrehajtásának szabályait,
 
-20. a katonai hatósági, szakhatósági hatásköröket, az eljáró katonai hatóságot, szakhatóságot,
+20. a meghagyással kapcsolatos eljárásnak és a meghagyásba bevont szervek besorolásának a szabályait,
 
-21. a katonai hatósági eljárásokra vonatkozó részletes szabályokat,
+21.
 
 22. a katonai igazgatási szervek elnevezését és illetékességi területét,
 
@@ -68,7 +68,7 @@
 
 7. a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédelemért felelős miniszter által vezetett minisztériumi kormánytisztviselőknek, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések rendszerét és feltételeit, továbbá a nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások és költségtérítések körét, a jogosultság feltételeit és rendjét, továbbá az ideiglenes külföldi kiküldetést teljesítő és a külföldi képzésben részt vevő honvédségi munkavállalók, a honvédelemért felelős miniszter által vezetett minisztériumi kormánytisztviselők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
 
-8. a NATO központi nyilvántartó, a NATO központi rejtjel elosztó hatóság működési rendjét, valamint a nyilvántartó rendszer működéséhez szükséges általános követelményeket és eljárásokat,
+8.
 
 9. a meg nem térülő károk leírással vagy törléssel történő rendezésének és nyilvántartásának sajátos szabályait, a kártérítési eljárás munkáltatói jogkört gyakorló általi megszüntetésére, a kár leírására és a törlésére vonatkozó munkáltatói jogkörök vezetési szintektől és a kár összegétől függő differenciált módon történő megállapítására vonatkozó szabályokat,
 
