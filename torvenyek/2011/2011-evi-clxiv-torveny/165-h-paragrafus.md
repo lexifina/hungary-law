@@ -10,7 +10,7 @@ a) kimagasló ügyhátralék csökkentése érdekében,
 
 b) tartósan távollévő ügyészek helyettesítése érdekében,
 
-c) rendkívüli állapot, szükségállapot idején
+c) hadiállapot, szükségállapot idején
 
 kerülhet sor.
 
