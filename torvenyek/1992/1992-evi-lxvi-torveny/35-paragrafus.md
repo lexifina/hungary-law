@@ -2,4 +2,4 @@
 
 (2) A nyilvántartásban az idegen írásmódú neveket — az érintett nyilatkozatának figyelembevételével — a magyar ábécé betűinek felhasználásával kell szerepeltetni.
 
-(3) A nyilvántartás működőképességét rendkívüli állapot, szükségállapot és veszélyhelyzet esetén is biztosítani kell.
+(3) A nyilvántartás működőképességét hadiállapot, szükségállapot és veszélyhelyzet esetén is biztosítani kell.
