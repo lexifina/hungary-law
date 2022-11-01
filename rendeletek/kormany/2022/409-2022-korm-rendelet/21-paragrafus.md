@@ -1,0 +1,3 @@
+21. § A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló 359/2015. (XII. 2.) Korm. rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ágazaton belüli honvédelmi létfontosságú rendszerelem ellenőrzését helyszíni ellenőrzés keretében ütemezett módon, éves ellenőrzési terv alapján kell végrehajtani oly módon, hogy a rendszerelem legalább 5 évente ellenőrzésre kerüljön. Az éves ellenőrzési tervet az ágazati ellenőrzést koordináló szerv a tárgyévet megelőző év november 30-ig állítja össze. Az ágazati ellenőrzést koordináló szerv és az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság az éves ellenőrzési tervüket összehangolják.”

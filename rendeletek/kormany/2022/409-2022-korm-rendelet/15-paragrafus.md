@@ -1,0 +1,1 @@
+15. § Hatályát veszti az önkéntes tartalékos rendszerhez kapcsolódóan, a munkáltatót megillető támogatásokra vonatkozó szabályokról szóló 294/2011. (XII. 22.) Korm. rendelet 1. § (1) bekezdés b) pontja.
