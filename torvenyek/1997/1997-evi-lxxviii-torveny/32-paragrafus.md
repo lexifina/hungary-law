@@ -16,6 +16,8 @@
 
 (8) A településrendezés, valamint az építmény (épület és műtárgy) és a rendeltetéséhez szorosan kapcsolódó technológia, továbbá a belsőépítészet, a táj- és kertépítés építési-műszaki tervezésére – jogszabályban meghatározott esetekben és módon – építészeti-műszaki tervpályázatot lehet, illetőleg kell kiírni.
 
-(9)–(10)
+(9)
+
+(10)
 
 (11) Az építészeti-műszaki dokumentáció az építési tevékenység megvalósításához – pályázathoz, tervpályázathoz, tervtanácshoz, hatósági eljáráshoz, ajánlatkéréshez, építőipari kivitelezéshez, állapotfelméréshez, állapot vagy megvalósítás dokumentálásához – szükséges tervezési programot, terveket, dokumentumokat tartalmazza.

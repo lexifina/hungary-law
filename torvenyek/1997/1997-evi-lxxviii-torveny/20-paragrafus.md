@@ -34,4 +34,4 @@ d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a
 
 e) a honvédelmi és katonai célú területre,
 
-f) tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények elhelyezésére szolgáló területre.
+f) összehangolt védelmi tevékenység, illetve tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények elhelyezésére szolgáló területre.

@@ -30,7 +30,7 @@ l)
 
 m) szakhatósági, valamint
 
-n) veszélyhelyzet, továbbá tömeges bevándorlás okozta válsághelyzet esetén szükségessé váló építési tevékenység tudomásulvételi
+n) veszélyhelyzet, összehangolt védelmi tevékenység, továbbá tömeges bevándorlás okozta válsághelyzet esetén szükségessé váló építési tevékenység tudomásulvételi
 
 eljárásokat folytat, és jogszabályban meghatározott esetben és módon építésügyi hatósági szolgáltatást nyújt.
 

@@ -12,7 +12,9 @@ c) az építmény, építményrész hibáinak, hiányosságainak megszüntetés�
 
 ca) ha azt rendeltetésszerű és biztonságos használatra nem alkalmas módon építették meg, vagy ezáltal idegen ingatlanban az állékonyságot, az életet és egészséget, a közbiztonságot veszélyeztető állapot keletkezett,
 
-cb)–cc)
+cb)
+
+cc)
 
 d) az építésügyi hatósági eljárásban záradékolt építészeti-műszaki dokumentációnak megfelelő állapot kialakítását, amennyiben a jogerős és végrehajtható építési engedélytől való eltérés építési engedélyhez kötött, de attól építésügyi hatósági engedély nélkül tértek el,
 

@@ -1,4 +1,6 @@
-55. § (1)–(2)
+55. § (1)
+
+(2)
 
 (3) Ha az építmény, építményrész felújítása, átalakítása településrendezési okokból vált szükségessé, ezek költségei, továbbá az építmény használatának az átalakítás miatt történt korlátozásából eredő károk megtérítése – a munkálatok elvégzése folytán bekövetkezett értékemelkedés levonásával – a települési önkormányzatot terheli.
 

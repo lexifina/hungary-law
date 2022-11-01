@@ -4,7 +4,9 @@ a) a települési önkormányzat (fővárosban a kerületi önkormányzat, illet
 
 aa) elláthatja az épített környezet helyi védelmét, a helyi építészeti értékek, a településkép, a rálátás és kilátás védelmét, továbbá meghatározza a település területeinek a felhasználásához az építményekben létesíthető rendeltetések körét és a reklámok elhelyezésére vonatkozó követelményeket,
 
-ab)–ac)
+ab)
+
+ac)
 
 b) a fővárosi önkormányzat – e törvényben meghatározott körben – elláthatja az épített környezet helyi védelmét, a helyi építészeti értékek és örökség védelmét.
 

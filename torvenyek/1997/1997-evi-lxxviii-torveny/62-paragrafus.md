@@ -74,7 +74,7 @@
 
 12.6. a 6. § (3) bekezdése szerinti építési övezetre, építési telekre a beépítésre vonatkozó sajátos feltételeket,
 
-12.7. a tömeges bevándorlás okozta válsághelyzetben alkalmazható építésügyi hatósági eljárási szabályokat,
+12.7. az összehangolt védelmi tevékenység során, illetve a tömeges bevándorlás okozta válsághelyzetben alkalmazható építésügyi hatósági eljárási szabályokat,
 
 13. az építőipari kivitelezési tevékenység folytatásával összefüggő
 

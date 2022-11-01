@@ -58,4 +58,8 @@ b) a (2) bekezdés d)–e) pontja esetében a szabálytalan tevékenységtől sz
 
 van helyük.
 
-(5)–(7)
+(5)
+
+(6)
+
+(7)

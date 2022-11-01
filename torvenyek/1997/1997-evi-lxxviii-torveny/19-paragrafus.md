@@ -22,7 +22,7 @@ e) helyhez kötött, továbbá a környezetével szemben támasztott különlege
 
 f) közösségi építmény vagy köztárgy,
 
-g) tömeges bevándorlás okozta válsághelyzet esetén nemzetbiztonsági célt szolgál.
+g) összehangolt védelmi tevékenység, illetve tömeges bevándorlás okozta válsághelyzet esetén nemzetbiztonsági célt szolgál.
 
 (3) Magyarország épített környezetének rendezett kialakítása és településképi védelme érdekében beépítésre szánt és beépítésre nem szánt területen – kivéve azon 4. § (3a) bekezdés szerinti telket, amelyre vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait – toronyház nem helyezhető el, toronyháznak nem minősülő építmény toronyházzá nem alakítható át, nem bővíthető.
 
