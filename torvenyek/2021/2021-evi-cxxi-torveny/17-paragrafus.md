@@ -1,0 +1,3 @@
+17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 322. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Veszélyhelyzet, hadiállapot, szükségállapot vagy összehangolt védelmi tevékenység idején a (2) bekezdésben foglaltaktól eltérően a szenior állományban foglalkoztatott részére túlszolgálat elrendelhető, illetve éjszakai szolgálatteljesítés beleegyezése nélkül elrendelhető. Ebben az esetben a 139. §-t, a 140. §-t, a 350. § (3)–(4a) bekezdését, illetve a 161. § (1) bekezdés c) pontját alkalmazni kell.”
