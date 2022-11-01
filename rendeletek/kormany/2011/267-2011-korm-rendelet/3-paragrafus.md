@@ -1,6 +1,6 @@
 ## 3. A Kutatás-Mentés Koordináló Központ
 
-3. § (1) A KMKK a BM OKF és az MH Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) bázisán 24 órás szolgálati rendben működő ügyeleti szolgálat.
+3. § (1)[^1] A KMKK a BM OKF és a Magyar Honvédség Légierő Parancsnokság (a továbbiakban: MH LEP) bázisán 24 órás szolgálati rendben működő ügyeleti szolgálat.
 
 (2) A KMKK a kutatással-mentéssel kapcsolatos feladatok koordinálására és vezetésére létrehozott, a kutató-mentő körzetben a kutató és mentő munka összehangolt irányításáért felelős szerv.
 
@@ -18,6 +18,7 @@ d) kapcsolattartás a szomszédos országok légi kutató-mentő központjaival.
 
 (5) A KMKK vezető ügyeletese a BM OKF állományának tagja, aki a KMKK feladatainak végrehajtását irányítja.
 
-(6)[^1] A KMKK vezető ügyeletese tájékoztatja a közlekedésért felelős minisztert az OLKMR riasztásáról, és a kutatató-mentő egységek igénybevételéről.
+(6)[^2] A KMKK vezető ügyeletese tájékoztatja a közlekedésért felelős minisztert az OLKMR riasztásáról, és a kutatató-mentő egységek igénybevételéről.
 
-[^1]: A 3. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 591. §-a szerint módosított szöveg.
+[^1]: A 3. § (1) bekezdése a 409/2022. (X. 24.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 591. §-a szerint módosított szöveg.

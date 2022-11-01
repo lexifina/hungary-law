@@ -12,7 +12,7 @@ c) az egészségügyért felelős miniszter által az Országos Mentőszolgálat
 
 d) a rendészetért felelős miniszter által az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) állományából
 
-## kijelölt kutató-mentő egységekből áll.
+kijelölt kutató-mentő egységekből áll.
 
 (3) Az OLKMR kutató-mentő egységeinek
 
@@ -20,7 +20,7 @@ a) légi erőit az MH Légi Kutató-Mentő Szolgálat, a Magyar Légimentő Nonp
 
 b) földi erőit a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF), a hivatásos katasztrófavédelmi szerv területi szervei, a hivatásos tűzoltóság és az önkormányzati tűzoltóság, az MH, az OMSZ és a Rendőrség Országos Légi Kutató-Mentő Tervben (a továbbiakban: Terv) kijelölt eszközei és állománya
 
-## képezik.
+képezik.
 
 (4) A nem állami szervezetek erői és eszközei és a nem állami mentőszervezetek az OLKMR szervezetébe kizárólag a BM OKF vezetőjének döntése alapján – az e rendeletben meghatározott feltételek teljesítése esetén a BM OKF és a nem állami szervezet, valamint a nem állami mentőszervezet között köthető szerződésben foglaltaknak megfelelően – vonhatók be.
 
