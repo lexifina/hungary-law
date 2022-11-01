@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2021-07-09 | 2021. évi LXVIII. törvény | 2009-155-00-00.36 |
 | 2022-01-01 | 2021. évi CXLI. törvény | 2009-155-00-00.37 |
 | 2022-05-25 | 2022. évi IV. törvény | 2009-155-00-00.38 |
+| 2022-11-01 | 2021. évi CXXI. törvény | 2009-155-00-00.39 |
