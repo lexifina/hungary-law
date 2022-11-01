@@ -15,3 +15,5 @@ e) a 16. § (1) bekezdés c) pontjában,
 f) a 19. §-ában,
 
 g) a VII. Fejezetében
+
+foglalt rendelkezések kivételével alkalmazni kell.
