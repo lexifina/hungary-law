@@ -38,7 +38,7 @@ l)[^16] a Menetrendadásra kötelezetteknek a vonatkozó kormányrendeletben meg
 
 m)[^17] a Menetrendadásra kötelezett kötelező átviteli rendszerrel kapcsolatos, a tárgyhónap utolsó munkanapján fennálló lejárt esedékességű tartozásainak összegét és azoknak még figyelembe nem vett módosulásait;
 
-n)[^18] a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló kormányrendelet (a továbbiakban: Kr.) alapján a földgázszolgáltató részére fizetendő, a KÁT pénzeszköznek a tárgyhónap utolsó munkanapjáig befolyt, még figyelembe nem vett, a tárgyhónapot megelőző második hónapig meghatározott többletbevételei összegét.
+n)[^18]
 
 [^6]: Az 5. § (1) bekezdés a) pontja a 49/2021. (X. 1.) ITM rendelet 28. § b) pontja szerint módosított szöveg.
 [^7]: Az 5. § (3) bekezdése a 43/2017. (XI. 8.) NFM rendelet 29. § (2) bekezdésével megállapított, nyitó szövegrésze a 15/2022. (VIII. 18.) TIM rendelet 2. § a) pontja szerint módosított szöveg.
@@ -52,4 +52,4 @@ n)[^18] a veszélyhelyzet idején a villamos energia és földgáz egyetemes szo
 [^15]: Az 5. § (3) bekezdés j) pontja a 2/2020. (I. 13.) ITM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^16]: Az 5. § (3) bekezdés l) pontját a 49/2021. (X. 1.) ITM rendelet 23. § (4) bekezdése iktatta be.
 [^17]: Az 5. § (3) bekezdés m) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (1) bekezdése iktatta be.
-[^18]: Az 5. § (3) bekezdés n) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (1) bekezdése iktatta be.
+[^18]: Az 5. § (3) bekezdés n) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (1) bekezdése iktatta be, a 3. §-a hatályon kívül helyezte.

@@ -22,9 +22,9 @@ f) a tárgyhónapot megelőző termelési időszakban a KÁT és Prémium pénze
 
 g)[^21] a Premizált termelő prémium támogatási rendszerrel kapcsolatos, a tárgyhónap utolsó munkanapján fennálló lejárt esedékességű tartozásainak összegét és azoknak még figyelembe nem vett módosulásait;
 
-h)[^22] a Kr. alapján a földgázszolgáltató részére fizetendő, a Prémium pénzeszköznek a tárgyhónap utolsó munkanapjáig befolyt, még figyelembe nem vett, a tárgyhónapot megelőző második hónapig meghatározott többletbevételei összegét.
+h)[^22]
 
 [^19]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2022. (VIII. 18.) TIM rendelet 2. § e) pontja szerint módosított szöveg.
 [^20]: A 6. § (3) bekezdés a) pontja a 2/2020. (I. 13.) ITM rendelet 4. § c) pontja szerint módosított szöveg.
 [^21]: A 6. § (3) bekezdés g) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (2) bekezdése iktatta be.
-[^22]: A 6. § (3) bekezdés h) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (2) bekezdése iktatta be.
+[^22]: A 6. § (3) bekezdés h) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (2) bekezdése iktatta be, a 3. §-a hatályon kívül helyezte.

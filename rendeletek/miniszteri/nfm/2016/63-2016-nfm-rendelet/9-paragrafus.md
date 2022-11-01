@@ -14,7 +14,7 @@
 
 (7) A Befogadó a KÁT és Prémium pénzeszköz fizetésére kötelezettek villamosenergia-ellátási szabályzatoknak megfelelően korrigált tény értékesítési adatai alapján, havi rendszerességgel az (1) bekezdés szerinti számviteli bizonylatot módosítja, és a módosítás alapján elszámol a KÁT és Prémium pénzeszköz fizetésére kötelezettel.
 
-(8)[^31] A Befogadó köteles havonta minden hónap nyolcadik munkanapján kifizetni a Kr. szerinti földgázszolgáltató részére a KÁT pénzeszköz 5. § (3) bekezdés n) pontja szerinti és a Prémium pénzeszköz 6. § (3) bekezdés h) pontja szerinti többletbevételek összegét.
+(8)[^31]
 
 [^30]: A 9. § a 15/2022. (IV. 29.) ITM rendelet 1. §-ával megállapított szöveg.
-[^31]: A 9. § (8) bekezdését a 15/2022. (VIII. 18.) TIM rendelet 1. § (3) bekezdése iktatta be.
+[^31]: A 9. § (8) bekezdését a 15/2022. (VIII. 18.) TIM rendelet 1. § (3) bekezdése iktatta be, a 3. §-a hatályon kívül helyezte.
