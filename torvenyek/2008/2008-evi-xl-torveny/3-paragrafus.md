@@ -262,7 +262,7 @@ b) a szociális igazgatásról és szociális ellátásokról szóló törvényb
 
 c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi szerv,
 
-d) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvényben meghatározott honvédségi szervezet,
+d) a honvédelemről szóló törvényben meghatározott honvédelmi szervezet,
 
 e) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti intézmény
 

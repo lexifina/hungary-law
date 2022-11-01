@@ -26,6 +26,6 @@
 
 13. a válsághelyzeti monitoringrendszer működésének részletszabályait, a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekhez tartozó felkészülés mértékét, valamint a védett felhasználók és a szolidaritási alapon védett felhasználók földgáz felhasználása meghatározásának módját.
 
-14.
+14. összehangolt védelmi tevékenység elrendelése esetén a földgázipari vállalkozás e törvényben, a végrehajtására kiadott kormányrendeletben és a Hivatal elnöke által kiadott rendeletben, határozatban foglalt, a földgázipari tevékenységből származó egyes kötelezettségei alóli mentesítése – ideértve a más földgázipari vállalkozás jogának korlátozását is – szabályait.
 
 15.
