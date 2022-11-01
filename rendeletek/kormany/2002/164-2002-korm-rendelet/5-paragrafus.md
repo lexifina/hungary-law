@@ -22,7 +22,7 @@ c)[^15] az értékelési eljárást végzők nyilvántartási és értesítési 
 
 d)[^16] a NATO Beszállítói Információs Honlap működtetéséhez, üzemeltetéséhez és fejlesztéséhez
 
-## szükséges költségeket.
+szükséges költségeket.
 
 (5) Az azonos naptári évben benyújtott, az értékelési eljárás lefolytatására vonatkozó kérelmekre (a továbbiakban: kérelem) az adott évben közzétett feltételek vonatkoznak az értékelés idejétől függetlenül.
 
