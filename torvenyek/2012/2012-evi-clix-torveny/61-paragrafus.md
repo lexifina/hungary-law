@@ -6,15 +6,15 @@ a) előterjeszti a Kormány számára a nemzeti postapolitikára vonatkozó java
 
 b) figyelemmel kíséri az egyetemes postai szolgáltatás ellátásának helyzetét és intézkedik a szolgáltatás biztosítása érdekében, megköti és szükség esetén módosítja az Egyetemes Postai Közszolgáltatási szerződést;
 
-c) koordinálja a postai ágazattal kapcsolatos polgári, kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi és védelmi tevékenységet;
+c) a védelmi és biztonsági érdekek figyelembevételével koordinálja a postai ágazattal kapcsolatos polgári, kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi és védelmi tevékenységet;
 
-d) kijelöli a védelmi feladatok ellátásában részt vevő postai szolgáltatót, meghatározza a különleges jogrend időszakának helyzeteire történő felkészüléssel kapcsolatos feladatokat;
+d) a védelmi és biztonsági érdekek figyelembevételével kijelöli a védelmi feladatok ellátásában részt vevő postai szolgáltatót, meghatározza a különleges jogrend időszakának helyzeteire történő felkészüléssel kapcsolatos feladatokat;
 
 e) irányítja a postaszolgálattal összefüggő nemzetközi feladatok ellátását, előkészíti a Kormány postai ágazattal kapcsolatos nemzetközi tevékenységét, gondoskodik a nemzetközi kötelezettségek végrehajtásáról, ellátja a Magyarország képviseletét a postai ágazattal kapcsolatos nemzetközi szervezetekben, továbbá olyan nemzetközi együttműködési megállapodásokat köt, amelyek nem tartoznak az Országgyűlés vagy a Kormány hatáskörébe;
 
 f) ellátja az uniós jogszabályokban a tagállamra delegált információszolgáltatással, kapcsolattartással és egyéb együttműködéssel kapcsolatos feladatokat;
 
-g) részt vesz a postai ágazat nemzetbiztonsági és védelmi jellegű feladatainak végrehajtásában;
+g) a védelmi és biztonsági érdekek figyelembevételével részt vesz a postai ágazat nemzetbiztonsági és védelmi jellegű feladatainak végrehajtásában;
 
 h) a statisztikáról szóló törvényben meghatározottak szerint gondoskodik a feladat- és hatáskörével kapcsolatos statisztikai információrendszer kialakításáról, működtetéséről és fejlesztéséről;
 

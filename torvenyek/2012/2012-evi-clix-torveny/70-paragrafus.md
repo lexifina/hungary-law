@@ -8,7 +8,9 @@
 
 (4) Az általános hatósági felügyeleti eljárást megelőzheti hatósági ellenőrzés.
 
-(5)–(6)
+(5)
+
+(6)
 
 (7) A hatósági ellenőrzés eredményeként, hatósági hatásköre keretében a Hatóság felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
 

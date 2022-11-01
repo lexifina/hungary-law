@@ -8,11 +8,11 @@ b) megköti a postaszolgálattal összefüggő nemzetközi szerződéseket, gond
 
 c) gondoskodik – a fogyasztóvédelemért felelős miniszteren keresztül – a felhasználói érdekek érvényre juttatásáról;
 
-d) meghatározza a postai szolgáltatások biztonságának, a különleges jogrend időszakára való felkészítésének rendszerét, biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
+d) meghatározza a postai szolgáltatások biztonságának, a különleges jogrend és az összehangolt védelmi tevékenység idejére való felkészítésének rendszerét, ezzel összefüggésben biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
 
 e) meghatározza a postaszolgálat területén az általános és speciális nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
 
-f) átmenetileg korlátozhatja vagy szüneteltetheti a postai szolgáltatásokat a honvédelemről szóló, a polgári védelemről szóló, és a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló törvényben foglaltak alapján, illetve egyéb okból bekövetkezett különleges jogrend időszakában;
+f) összehangolt védelmi tevékenység elrendelése esetén rendeletében átmenetileg korlátozhatja vagy szüneteltetheti a postai szolgáltatásokat;
 
 g) amennyiben szükséges, gondoskodik az egyetemes postai szolgáltatás nettó költsége méltánytalan többletteher-megtérítéséről;
 

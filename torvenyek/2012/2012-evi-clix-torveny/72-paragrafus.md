@@ -1,4 +1,8 @@
-72. § (1)–(3)
+72. § (1)
+
+(2)
+
+(3)
 
 (4) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében a Hatóság jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
 

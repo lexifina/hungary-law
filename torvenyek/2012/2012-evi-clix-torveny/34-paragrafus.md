@@ -1,6 +1,6 @@
 ## 21. Az egyetemes postai szolgáltatás korlátozása, szünetelése
 
-34. § (1) Az egyetemes postai szolgáltatás kizárólag Magyarország honvédelmi, nemzetbiztonsági, közegészségügyi és közbiztonsági érdekeinek védelmében korlátozható vagy szüneteltethető.
+34. § (1) Az egyetemes postai szolgáltatás kizárólag Magyarország honvédelmi, védelmi és biztonsági, nemzetbiztonsági, közegészségügyi és közbiztonsági érdekeinek védelmében korlátozható vagy szüneteltethető.
 
 (2) Az (1) bekezdésben meghatározott okokon kívül az egyetemes postai szolgáltatás korlátozását vagy szünetelését kizárólag az egyetemes postai szolgáltató működési körén kívül eső elháríthatatlan ok (vis maior) vagy sztrájk okozhatja.
 

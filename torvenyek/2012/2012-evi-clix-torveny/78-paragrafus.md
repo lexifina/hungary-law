@@ -10,13 +10,15 @@ c) a postai szolgáltatók általános szerződési feltételeinek kötelező ta
 
 d)
 
-e) a postai szolgáltatások különleges jogrend időszaki felkészítésének rendszerét, feladatait, működési feltételeit;
+e) a postai szolgáltatások különleges jogrend időszaki, valamint az összehangolt védelmi tevékenységre való felkészítésének rendszerét, feladatait, működési feltételeit;
 
 f) a postai szolgáltatót, alkalmazottját, tagját, megbízottját és a postai közreműködőt terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket;
 
 g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait;
 
 h) az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet esetén a személyes átadás mellőzésével történő kézbesítés részletes szabályait.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben a 60. § f) pontja szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg:
 
