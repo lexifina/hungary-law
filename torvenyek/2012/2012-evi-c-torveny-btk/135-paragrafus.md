@@ -9,3 +9,5 @@ b) szolgálati viszony megszüntetése
 más büntetés mellett, vagy ha a bűncselekmény büntetési tételének felső határa háromévi szabadságvesztésnél nem súlyosabb, akkor önállóan is kiszabható.
 
 (2) Katonai büntetés alkalmazásának nincs helye, ha a katonát a közügyektől eltiltják.
+
+(3) A hadkötelezettel szemben szolgálati viszony megszüntetése büntetés nem alkalmazható.

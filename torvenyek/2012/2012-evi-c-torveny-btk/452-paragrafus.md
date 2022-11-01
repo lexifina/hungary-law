@@ -12,7 +12,7 @@ szükséges intézkedést elmulasztja, ha emberiesség elleni vagy háborús bű
 
 a) az (1) bekezdésben meghatározott esetben egy évtől öt évig,
 
-b) háború idején vagy megelőző védelmi helyzetben két évtől nyolc évig
+b) háború idején két évtől nyolc évig
 
 terjedő szabadságvesztés.
 

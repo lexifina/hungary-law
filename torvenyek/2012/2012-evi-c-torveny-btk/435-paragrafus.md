@@ -4,7 +4,7 @@
 
 (2) Ha az önkényes távollét tartama meghaladja a kilenc napot, a büntetés bűntett miatt három évig terjedő szabadságvesztés.
 
-(3) Ha az önkényes eltávozást háború idején, megelőző védelmi helyzetben, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során követik el, a büntetés
+(3) Ha az önkényes eltávozást háború idején, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során követik el, a büntetés
 
 a) az (1) bekezdésben meghatározott esetben bűntett miatt egy évtől öt évig,
 

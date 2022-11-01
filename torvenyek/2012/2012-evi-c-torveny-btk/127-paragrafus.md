@@ -4,7 +4,7 @@
 
 ## Az elkövetők
 
-127. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
+127. § (1) E törvény alkalmazásában katona a honvéd, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
 
 (2) E törvény rendelkezéseit a katonákra az e fejezetben foglalt eltérésekkel kell alkalmazni.
 

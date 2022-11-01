@@ -10,6 +10,6 @@ a) más alárendeltek jelenlétében vagy egyébként nyilvánosan, akár a para
 
 b) a szolgálatra vagy a fegyelemre jelentős hátrány veszélyével jár.
 
-(4) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a (3) bekezdésben meghatározott bűncselekményt háború idején vagy megelőző védelmi helyzetben követik el.
+(4) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a (3) bekezdésben meghatározott bűncselekményt háború idején követik el.
 
 (5) Aki háborúban a harci parancsot, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során a fegyverhasználatra vonatkozó parancsot nem teljesíti, öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő.

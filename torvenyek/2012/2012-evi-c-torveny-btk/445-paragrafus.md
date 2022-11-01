@@ -34,4 +34,4 @@ b) a (2) bekezdésben meghatározott esetben két évtől nyolc évig,
 
 c) a (3) bekezdésben meghatározott esetben öt évtől tizenöt évig
 
-terjedő szabadságvesztés, ha a bűncselekményt háború idején vagy megelőző védelmi helyzetben követik el.
+terjedő szabadságvesztés, ha a bűncselekményt háború idején követik el.

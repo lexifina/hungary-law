@@ -6,7 +6,7 @@
 
 (3) Ha az ideiglenes kivonás tartama meghaladja a hat napot, a büntetés két évig terjedő szabadságvesztés.
 
-(4) Ha a bűncselekményt háború idején vagy megelőző védelmi helyzetben követik el, a büntetés
+(4) Ha a bűncselekményt háború idején követik el, a büntetés
 
 a) az (1) bekezdésben meghatározott esetben öt évtől tizenöt évig,
 

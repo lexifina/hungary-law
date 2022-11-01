@@ -38,7 +38,7 @@ a) a háború áldozatainak védelmére vonatkozóan Genfben, az 1949. évi augu
 
 b) az a) pontban említett egyezmények II. Kiegészítő Jegyzőkönyvének 1. Cikkében meghatározott helyzetek,
 
-c) a rendkívüli állapot,
+c) a hadiállapot,
 
 d) a szükségállapot,
 
@@ -72,7 +72,7 @@ l) a választási bizottság tagja;
 
 12. közfeladatot ellátó személy:
 
-a) a Magyar Honvédség szolgálati feladatot teljesítő katonája,
+a) a szolgálati feladatot teljesítő honvéd,
 
 b) a polgári védelmi szervezetbe beosztott és polgári védelmi szolgálatot teljesítő személy,
 
@@ -244,11 +244,15 @@ a) 2. Cikk 2. bekezdés a. pontjának megfelelően minősített, meghatározott 
 
 b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.
 
+35. humanitárius művelet: a fogadó ország beleegyezésével vagy erre jogosult nemzetközi szervezet felhatalmazásával a Honvédség érdemi közreműködésével folytatott segítő tevékenység, amely a fegyveres konfliktus, a természeti vagy civilizációs katasztrófa által okozott olyan helyzet elhárítására és következményeinek csökkentésére irányul, amely emberek életét, egészségét, anyagi értékeit, alapvető ellátását, a természeti környezetet súlyos mértékben veszélyezteti, károsítja;
+
+36. külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében.
+
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 
-(3) Ahol e törvény szövetséges fegyveres erőt, külföldi hadműveleti területen végzett humanitárius tevékenységet, békefenntartást vagy humanitárius műveletet említ, azon a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott fogalmakat kell érteni.
+(3) Ahol e törvény honvédet, műveleti területet, szövetséges fegyveres erőt vagy békefenntartást említ, azon a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott fogalmakat kell érteni.
 
-(3a) Ahol e törvény rendfokozatot említ, azon a Magyar Honvédség tényleges állományú tagja esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
+(3a) Ahol e törvény rendfokozatot említ, azon a honvéd esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
 
 (4) Ahol e törvény szigorúan titkos, titkos, bizalmas, illetve korlátozott terjesztésű minősítésű adatot említ, azon a minősített adat védelméről szóló törvényben meghatározott nemzeti vagy külföldi minősített adatot kell érteni.
 

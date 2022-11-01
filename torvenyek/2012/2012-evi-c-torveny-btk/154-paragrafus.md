@@ -1,6 +1,6 @@
 ## Háborús fosztogatás
 
-154. § (1) Aki hadműveleti vagy megszállt területen
+154. § (1) Aki háború idején műveleti vagy megszállt területen
 
 a) a polgári javakat fosztogatja,
 

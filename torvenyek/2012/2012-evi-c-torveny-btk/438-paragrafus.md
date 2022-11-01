@@ -6,7 +6,7 @@
 
 a) az (1) bekezdésben meghatározott esetben három évig,
 
-b) háború idején vagy megelőző védelmi helyzetben egy évtől öt évig
+b) háború idején egy évtől öt évig
 
 terjedő szabadságvesztés.
 

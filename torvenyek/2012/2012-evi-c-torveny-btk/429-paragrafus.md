@@ -1,6 +1,6 @@
 ## Polgári védelmi kötelezettség megszegése
 
-429. § (1) Aki a polgári védelmi szolgálatát nem látja el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+429. § (1) Aki a polgári védelmi kötelezettségét nem teljesíti, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény súlyos veszélyt idéz elő.
 

@@ -20,7 +20,7 @@ e) külföldre
 
 követik el.
 
-(3) Öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő, aki a (2) bekezdés a)–c) pontjában meghatározott módon külföldre szökik, illetve aki a szökést háború idején vagy megelőző védelmi helyzetben követi el.
+(3) Öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő, aki a (2) bekezdés a)–c) pontjában meghatározott módon külföldre szökik, illetve aki a szökést háború idején követi el.
 
 (4) Aki a (2) bekezdésben meghatározott szökésre irányuló előkészületet követ el, vétség miatt egy évig, a (3) bekezdésben meghatározott esetben bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
