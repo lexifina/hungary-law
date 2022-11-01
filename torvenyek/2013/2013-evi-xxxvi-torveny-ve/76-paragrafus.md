@@ -56,4 +56,4 @@ h) az a)–g) pont szerinti nyilvántartásokhoz történő elektronikus hozzáf
 
 kapcsolatos adatfeldolgozási feladatok ellátásával, kivéve, ha e korlátozás alól a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak szerint egyedi felmentést kap.
 
-(4) A Nemzeti Választási Iroda a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § l) pontja és 30. § (1) bekezdés e) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+(4) A Nemzeti Választási Iroda a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § l) pontjában és 20. § (1) bekezdés e) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
