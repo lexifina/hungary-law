@@ -20,6 +20,6 @@ b) a vöröskereszt-mozgalomhoz tartozó vagy más humanitárius, illetve egész
 
 szabálysértést követ el.
 
-(2a) Aki a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 17a. pontja szerinti, a Honvédséghez köthető megjelölést jogosulatlanul használ, szabálysértést követ el.
+(2a) Aki a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 106. § (12) bekezdése szerinti, a Honvédséghez köthető megjelölést jogosulatlanul használ, szabálysértést követ el.
 
 (3)

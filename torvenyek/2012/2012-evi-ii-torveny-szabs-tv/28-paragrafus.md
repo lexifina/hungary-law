@@ -1,4 +1,4 @@
-28. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú tagja, a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományú tagja.
+28. § (1) E törvény alkalmazásában katona a honvéd, a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományú tagja.
 
 (2) A katona által a szolgálati viszony tartama alatt a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett szabálysértést – a szabálysértési elzárással is büntethető szabálysértés kivételével – fegyelmi eljárás keretében kell elbírálni. Ha a katona szolgálati viszonya a fegyelmi eljárás befejezése előtt megszűnt, a szabálysértést a szabálysértési hatóság, illetve a bíróság bírálja el.
 
