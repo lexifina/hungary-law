@@ -6,7 +6,7 @@ b) személy és áru szállítására nem alkalmas, továbbá
 
 c) speciális felépítménnyel rendelkezik
 
-## az üzembentartó kérelmére az MK NZrt. éves úthálózat-hozzáférési hozzájárulást ad ki.
+az üzembentartó kérelmére az MK NZrt. éves úthálózat-hozzáférési hozzájárulást ad ki.
 
 (2) Az (1) bekezdés szerinti úthálózat-hozzáférési hozzájárulásért az 1. melléklet szerinti eljárási díjat kell fizetni.
 

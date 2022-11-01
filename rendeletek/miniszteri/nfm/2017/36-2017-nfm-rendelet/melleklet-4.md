@@ -1,12 +1,12 @@
 4. melléklet a 36/2017. (IX. 18.) NFM rendelethez
 
-## A megengedett össztömeget, tengelyterhelést, tengelycsoport-terhelést és mérethatárt meghaladó járművek kíséretéhez előírt személyi és tárgyi feltételek
+A megengedett össztömeget, tengelyterhelést, tengelycsoport-terhelést és mérethatárt meghaladó járművek kíséretéhez előírt személyi és tárgyi feltételek
 
 1. A szakkíséretre vonatkozó személyi feltételek
 
-1.1.[^94] Szakkíséretet csak olyan személy láthat el, aki a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Vizsgaközpont) szakkísérői képesítést kapott.
+1.1.[^101] Szakkíséretet csak olyan személy láthat el, aki a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Vizsgaközpont) szakkísérői képesítést kapott.
 
-1.2.[^95] Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a vizsgaközpont vizsgabizottsága előtt az 1.3. alpontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a Vizsgaközpont a vizsga alól felmentette.
+1.2.[^102] Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a vizsgaközpont vizsgabizottsága előtt az 1.3. alpontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a Vizsgaközpont a vizsga alól felmentette.
 
 1.3. A szakkísérőnek a következő témakörökből kell vizsgát tennie:
 
@@ -96,5 +96,5 @@ Egyéb kíséretet csak olyan személy láthat el, aki legalább „B” kategó
 
 4.11. A hajtott kerekekre felszerelhető hólánc.
 
-[^94]: A 4. számú melléklet 1.1. alpontja a 45/2019. (XII. 20.) 53. §-a szerint módosított szöveg.
-[^95]: A 4. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) 53. §-ával megállapított szöveg.
+[^101]: A 4. számú melléklet 1.1. alpontja a 45/2019. (XII. 20.) 53. §-a szerint módosított szöveg.
+[^102]: A 4. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) 53. §-ával megállapított szöveg.

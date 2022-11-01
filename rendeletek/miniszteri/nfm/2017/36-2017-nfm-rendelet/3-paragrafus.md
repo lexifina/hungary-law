@@ -14,7 +14,7 @@ b)[^6] a tengelyterhelés vonatkozásában – a 15. § (1)–(2a) bekezdésébe
 
 c)[^7] a tengelycsoport terhelés vonatkozásában a 15. § (1)–(2a) bekezdésében foglalt kivétellel 30%,
 
-## vagy annál nagyobb az eltérés mértéke.
+vagy annál nagyobb az eltérés mértéke.
 
 (4)[^8] Egyedi elbírálás alapján kell a hozzájárulásról dönteni, ha a jármű vagy járműszerelvény túlméretes és a mérete
 
@@ -23,6 +23,8 @@ a) a magasság vonatkozásában a – 16. § (1a) bekezdés a) pontjában foglal
 b) a szélesség vonatkozásában a – 16. § (1a) bekezdés b) pontjában foglalt kivétellel – 3,20 métert,
 
 c) a hosszúság vonatkozásában járműszerelvény esetén a – 16. § (1a) bekezdés c) pontjában foglalt kivétellel – 22,50 métert – egyéb esetekben a megengedetthez képest a 120%-ot –
+
+eléri vagy meghaladja.
 
 [^5]: A 3. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 2. §-ával megállapított szöveg.
 [^6]: A 3. § (3) bekezdés b) pontja az 53/2020. (XII. 23.) ITM rendelet 9. § a) pontja szerint módosított szöveg.

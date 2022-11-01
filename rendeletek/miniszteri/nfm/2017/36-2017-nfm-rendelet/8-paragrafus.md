@@ -16,7 +16,7 @@ bb) egyéb esetekben a közút kezelője,
 
 c)[^23] a Katonai Nemzetbiztonsági Szolgálat, valamint a Magyar Honvédség (a továbbiakban: Honvédség) által üzemben tartott, továbbá a Honvédség érdekében más üzembentartó által üzemben tartott, illetve külföldi fegyveres erők által üzemben tartott járművek közlekedése esetén a meghatározott össztömeget, tengelyterhelést és méretet meghaladó honvédségi járművek közúti közlekedéséről szóló miniszteri rendelet által meghatározott szerv
 
-## jogosult.
+jogosult.
 
 (2) Az (1) bekezdés a) pontjában foglalt esetben a hozzájárulást megadó szerv
 
@@ -43,6 +43,8 @@ aa) személyesen történő ügyintézés esetén az MK NZrt. által készített
 ab) az MK NZrt. honlapján keresztül elektronikus úton,
 
 b) egyéb esetben a hozzájárulást megadó szerv által meghatározottak szerint
+
+kell benyújtani.
 
 [^22]: A 8. § (1) bekezdés b) pontja az 56/2017. (XII. 27.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^23]: A 8. § (1) bekezdés c) pontja az 56/2017. (XII. 27.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.

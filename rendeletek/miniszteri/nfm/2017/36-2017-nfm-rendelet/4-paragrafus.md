@@ -1,5 +1,3 @@
-## eléri vagy meghaladja.
-
 4. § (1)[^9] A hozzájárulás kiadására jogosult közútkezelő a hozzájárulásban a hozzájárulást kérelmező részére a kérelmező által megjelölt jármű vonatkozásában meghatározza
 
 a) azt az útvonalat, amelyen a túlsúlyos, illetve túlméretes jármű közlekedhet,

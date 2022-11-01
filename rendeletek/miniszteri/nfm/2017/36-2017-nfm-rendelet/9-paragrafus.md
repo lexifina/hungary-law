@@ -1,5 +1,3 @@
-## kell benyújtani.
-
 ## 4. A hozzájárulás megadásának általános feltételei
 
 9. § (1) A hozzájárulást megadó szervnek a hozzájárulás megadását megelőzően meg kell győződnie arról, hogy a jármű műszakilag alkalmas a kérelemben megjelölt mértékű túlsúly-, illetve túlméret-paraméterekkel történő közlekedésre. Ennek megállapítása érdekében a hozzájárulást kérelmezőnek be kell mutatnia vagy elektronikus eljárás keretében be kell csatolnia
@@ -20,7 +18,7 @@ b) a 4. melléklet szerinti kísérethez, rendőri kísérethez (a továbbiakban
 
 c) a hozzájárulás kiadása előtt vagy a közlekedés során teljesítendő egyéb feltételhez
 
-## kötheti.
+kötheti.
 
 (5) A (4) bekezdés b) és c) pontjában foglaltak teljesítésének költségét a hozzájárulást kérelmező köteles viselni.
 

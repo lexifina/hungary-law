@@ -36,7 +36,7 @@ id) két tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek e
 
 ie) három tengelyből álló tengelycsoport esetén, ha a szomszédos tengelyek egymástól mért távolsága legalább 1,30 méter, de 1,80 méternél kisebb, a 32 tonnát
 
-## nem haladja meg,
+nem haladja meg,
 
 j) a csuklós jármű, ha
 
@@ -48,7 +48,7 @@ jc) öt- vagy ennél több tengelyes jármű esetén a jármű össztömege a 40
 
 k)[^45] a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti átviteli rendszerirányító által üzemeltetett, a biztonságos és zavartalan villamosenergia-ellátás érdekében végzett átviteli-rendszerirányítói feladatokat ellátó különleges felépítményű jármű.
 
-## nem haladja meg.
+nem haladja meg.
 
 (2) Az (1) bekezdés szerinti mentesség a közúti közlekedési nyilvántartásról szóló törvény szerinti nyilvántartásba történő bejegyzésre irányuló kérelem benyújtásával jön létre, és a benyújtás napjától számított egy évig hatályos.
 

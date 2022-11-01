@@ -10,7 +10,7 @@ b) a szélesség vonatkozásában 3,50 méter szélességig, valamint
 
 c) a hosszúság vonatkozásában 26,00 méter hosszúságig
 
-## ha a járművet, illetve járműszerelvényt, annak műszaki paramétereit az MK NZrt. – szemle keretén belül – megismerte és az alapján az egyszerűsített eljárás alkalmazhatóságáról meggyőződött.
+ha a járművet, illetve járműszerelvényt, annak műszaki paramétereit az MK NZrt. – szemle keretén belül – megismerte és az alapján az egyszerűsített eljárás alkalmazhatóságáról meggyőződött.
 
 (2) Az egyszerűsített eljárásban megadott hozzájárulás
 
@@ -28,7 +28,7 @@ ae) erre a célra létesített berendezés igénybevételével,
 
 b) egyéb esetben a hozzájárulást megadó szerv által meghatározottak szerint
 
-## igényelhető.
+igényelhető.
 
 (3) A (2) bekezdés szerint igényelt hozzájárulás a kérelem benyújtását követően azonnal létrejön.
 

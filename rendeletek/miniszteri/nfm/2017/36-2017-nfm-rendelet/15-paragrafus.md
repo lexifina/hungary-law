@@ -16,7 +16,7 @@ g)[^49] a kéttengelyes autóbuszok esetén a 2. § (1) bekezdés b) pontjában 
 
 h)[^50] a kibocsátásmentes járművek esetén a 2. § (1) bekezdés a) pont ab) és ad) alpontjában foglalt értékek 2 tonnánál nem nagyobb túllépése esetén,
 
-## ha a jármű műszaki paraméterei ezt lehetővé teszik és a kérelmet a jármű közlekedését megelőzően egyszerűsített eljárásban benyújtották.
+ha a jármű műszaki paraméterei ezt lehetővé teszik és a kérelmet a jármű közlekedését megelőzően egyszerűsített eljárásban benyújtották.
 
 (1a)[^51] Nem kell eljárási díjat, túlsúlydíjat fizetni
 
@@ -24,7 +24,7 @@ a) üzemanyag szállítására alkalmas speciális felépítménnyel rendelkező
 
 b) üzemanyag szállítására alkalmas speciális felépítménnyel rendelkező háromtengelyes gépjármű két- vagy háromtengelyes félpótkocsival történő közlekedése során a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 10%-át
 
-## meg nem haladó mértékű túllépése esetén.
+meg nem haladó mértékű túllépése esetén.
 
 (1b)[^52] Nem kell eljárási díjat, túlsúlydíjat fizetni
 
@@ -32,13 +32,9 @@ a) a gazdaságokból tej begyűjtésére és a tejkonténereknek, valamint álla
 
 b) a gazdaságokból tej begyűjtésére és a tejkonténereknek, valamint állateledel céljára készült tejtermékeknek a gazdaság területére való visszaszállítására használt, speciális felépítménnyel rendelkező háromtengelyes gépjármű két- vagy háromtengelyes félpótkocsival történő közlekedése során a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 10%-át
 
-## meg nem haladó mértékű túllépése esetén.
+meg nem haladó mértékű túllépése esetén.
 
-(1c)[^53] Nem kell eljárási díjat, túlsúlydíjat fizetni
-
-a) – a 15. § (1) bekezdés e) pontjától eltérően – a 2. § (1) bekezdés b) és c) pontjában foglalt értékek 2 tonnánál nem nagyobb túllépése miatt az üzemanyagot szállító járművek esetén, ha a jármű erre a célra kialakított felépítménnyel rendelkezik, valamint
-
-b) – a 15. § (1a) bekezdés a) pontjától eltérően – a 2. § (1) bekezdés a) pont af) alpontjában foglalt érték 10%-át meg nem haladó mértékű túllépése esetén, üzemanyag szállítására alkalmas speciális felépítménnyel rendelkező kéttengelyes gépjármű háromtengelyes félpótkocsival történő közlekedése során.
+(1c)[^53]
 
 (2)[^54] Nem kell túlsúlydíjat fizetni az egy tengelyvonalban legalább 8 vagy több független felfüggesztésű kerékkel vagy kerékcsoporttal rendelkező jármű esetén a 2. § (1) bekezdés b) és c) pontjában foglalt értékek legfeljebb 20%-kal történő túllépése esetén, ha a kérelmet a túlsúlyos jármű közlekedését megelőzően benyújtották.
 
@@ -48,7 +44,7 @@ a) azon regisztrált élőállat-szállító járművek vagy járműszerelvénye
 
 b) azon regisztrált élőállat-szállító járművek vagy járműszerelvények után, amelyekre egy évre vonatkozóan 1 300 000 forint befizetésével kiváltották az egész ország területére érvényes, 10%-ot meg nem haladó össztömeg túlsúlyra szóló hozzájárulást,
 
-## és az 1. melléklet szerinti eljárási díjat megfizették.
+és az 1. melléklet szerinti eljárási díjat megfizették.
 
 (2b)[^56] Ha egy járműre vagy járműszerelvényekre a megengedett legnagyobb össztömeg túllépése érdekében hozzájárulást váltottak ki, a (2a) bekezdés a) pontja szerinti engedély a 4. alcím szerinti hozzájárulásban szereplő össztömeg értékhez képest 5%-ot meg nem haladó össztömeg túllépésre jogosít fel.
 
@@ -71,7 +67,7 @@ b) azon regisztrált élőállat-szállító járművek vagy járműszerelvénye
 [^50]: A 15. § (1) bekezdés h) pontját az 53/2020. (XII. 23.) ITM rendelet 6. § (1) bekezdése iktatta be.
 [^51]: A 15. § (1a) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^52]: A 15. § (1b) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (2) bekezdése iktatta be.
-[^53]: A 15. § (1c) bekezdését újonnan az 1/2022. (VI. 24.) TIM rendelet 1. §-a iktatta be.
+[^53]: A 15. § (1c) bekezdését újonnan az 1/2022. (VI. 24.) TIM rendelet 1. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 2. §.
 [^54]: A 15. § (2) bekezdése az 53/2020. (XII. 23.) ITM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^55]: A 15. § (2a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 9. § (2) bekezdése iktatta be, szövege az 53/2020. (XII. 23.) ITM rendelet 6. § (4) bekezdésével megállapított szöveg.
 [^56]: A 15. § (2b) bekezdését az 53/2020. (XII. 23.) ITM rendelet 6. § (5) bekezdése iktatta be.

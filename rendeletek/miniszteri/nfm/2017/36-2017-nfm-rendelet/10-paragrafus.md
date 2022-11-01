@@ -10,7 +10,7 @@ c) megengedett legnagyobb tengelycsoport-terhelés,
 
 d) megengedett legnagyobb méret
 
-## túllépése miatt fizetendő díjat.
+túllépése miatt fizetendő díjat.
 
 (3) A megengedett legnagyobb tengelyterhelés túllépése miatt fizetendő túlsúlydíj meghatározása során, ha a jármű több – tengelycsoportba nem sorolható – tengelyének terhelése is meghaladja a 2. § (1) bekezdés b) pontjában előírt értéket, csak a legnagyobb eltérésű tengelyét kell figyelembe venni.
 
@@ -32,7 +32,7 @@ a)[^32] a megadott útvonalra szóló túlsúlyos, illetve túlméretes járműv
 
 b) a minden közútra szóló túlméretes járművek közlekedése esetén a túlméretdíjat a 3. melléklet
 
-## szerint kell kiszámolni a (11) bekezdésben foglaltak figyelembevételével.
+szerint kell kiszámolni a (11) bekezdésben foglaltak figyelembevételével.
 
 (11)[^33] A túlsúlydíj és a túlméretdíj mértéke határozott időre szóló hozzájárulás megadása során
 

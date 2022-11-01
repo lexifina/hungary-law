@@ -72,7 +72,7 @@ cb) ha az eltérés 30% vagy annál nagyobb és 50%-nál kisebb,
 
 d) különösen nagy mértékben – ha az eltérés 50% vagy annál nagyobb –
 
-## túlsúlyos, illetve túlméretes jármű.
+túlsúlyos, illetve túlméretes jármű.
 
 (4) Háromnál több tengelyből álló tengelycsoportot ellenőrzési szempontból kettes és hármas tengelycsoportokra kell felosztani úgy, hogy
 
@@ -80,7 +80,7 @@ a) páros számú tengelyből álló tengelycsoport esetén kettes tengelycsopor
 
 b) páratlan számú tengelyből álló tengelycsoport esetén pedig a tengelycsoport utolsó három tengelyéből hármas tengelycsoportot, ezt megelőző tengelyeiből pedig kettes tengelycsoportokat
 
-## kell képezni.
+kell képezni.
 
 (5) Az (1) és a (4) bekezdésben foglaltak alkalmazásakor a járműnek kizárólag azt a tengelyét kell tengelyként számításba venni, amelynek kerekei a mérés időpontjában az úttesttel érintkeznek.
 
