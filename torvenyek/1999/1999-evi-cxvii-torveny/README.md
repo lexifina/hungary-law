@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-117-00-00
 | 2011-01-01 | 2010. évi CXXX. törvény | 1999-117-00-00.7 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1999-117-00-00.8 |
 | 2014-05-06 | 2014. évi XIV. törvény | 1999-117-00-00.9 |
+| 2022-11-01 | 2021. évi CXL. törvény | 1999-117-00-00.10 |
