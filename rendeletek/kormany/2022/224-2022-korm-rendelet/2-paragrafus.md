@@ -1,9 +1,5 @@
 ## 1. § Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet ideje alatt az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet rendelkezéseit a 2. és 3. §-ban meghatározott eltérésekkel kell alkalmazni.
 
-2. § (1) Az irányító szerv vezetője a Kormány irányítása alá tartozó fejezet irányítása alá tartozó központi költségvetési szerv (a továbbiakban e § alkalmazásában: költségvetési szerv) a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet hatálybalépésével összefüggő kormányzati struktúraváltozás miatt, a költségvetési szerv irányításában, felügyeletében bekövetkező változásból eredő alapítóokirat-módosítással összefüggő változás-bejegyzési kérelmet – a módosító okirathoz csatolt alapító okirat módosításokkal egységes szerkezetbe foglalt változatával – legkésőbb 2022. július 31. napjáig nyújtja be a Magyar Államkincstárnak (a továbbiakban: Kincstár).
+2. §[^2]
 
-(2) A költségvetési szerv alapító okiratának (1) bekezdés szerinti módosítása esetén a módosító okirat korábbi időpontot is megállapíthat a költségvetési szerv átalakítását, megszüntetését nem eredményező módosítása napjaként, ebben az esetben a Kincstár a költségvetési szerv alapító okiratát érintő változást ezen időponttal jegyzi be a törzskönyvi nyilvántartásba.
-
-(3) A költségvetési szerv (2) bekezdés szerinti törzskönyvi nyilvántartásba való bejegyzését megelőzően a költségvetési szerv által megkötött szerződés a költségvetési szerv alapító okirata (2) bekezdés szerinti módosításának törzskönyvi nyilvántartásba való bejegyzése hiányában nem minősül semmisnek.
-
-(4) Az (1) bekezdés szerinti változás-bejegyzési kérelmet a Kincstár az Áht. 104. § (2) bekezdésében foglalt ügyintézési határidőn belül bírálja el.
+[^2]: A 2. § a 425/2022. (X. 28.) Korm. rendelet 1. § (3) bekezdés 9. pontja alapján nem lépett hatályba.
