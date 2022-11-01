@@ -2,7 +2,7 @@
 
 696. § (1) Katonai büntetőeljárásnak van helye
 
-a) a Magyar Honvédség tényleges állományú tagja által elkövetett bármely bűncselekmény,
+a) a honvéd által elkövetett bármely bűncselekmény,
 
 b) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által a tényleges szolgálati viszonyának tartama alatt elkövetett katonai bűncselekmény, valamint a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett más bűncselekmény,
 
