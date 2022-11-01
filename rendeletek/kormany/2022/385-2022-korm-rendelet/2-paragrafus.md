@@ -1,0 +1,1 @@
+2. § A HM HIM a központi irattári nyilvántartásból a szolgálati, a foglalkoztatási és egyéb munkavégzésre irányuló jogviszonnyal kapcsolatos, az ügyfél kérelmére történő adatszolgáltatást végez, amely feladata vonatkozásában hatósági hatáskört gyakorol.
