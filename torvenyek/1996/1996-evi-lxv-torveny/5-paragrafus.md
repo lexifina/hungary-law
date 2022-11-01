@@ -14,7 +14,7 @@ d) megterheléséhez, ha annak célja közszolgáltatás vagy közüzem működ�
 
 (6)
 
-(7) Kizárólag sportcélú használatra létrehozott repülőtér esetében az (5) bekezdés szerinti méltányosság gyakorlásának feltétele a közlekedésért felelős miniszter, valamint a honvédelemért felelős miniszter feladat- és hatáskörük figyelembevételével gyakorolt egyetértése. A honvédelemért felelős miniszter egyetértési jogát a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény szerinti honvédelmi érdekek figyelembevételével gyakorolja.
+(7) Kizárólag sportcélú használatra létrehozott repülőtér esetében az (5) bekezdés szerinti méltányosság gyakorlásának feltétele a közlekedésért felelős miniszter, valamint a honvédelemért felelős miniszter feladat- és hatáskörük figyelembevételével gyakorolt egyetértése. A honvédelemért felelős miniszter egyetértési jogát a honvédelemről szóló törvény szerinti honvédelmi érdekek figyelembevételével gyakorolja.
 
 (8) Az (5) bekezdés szerinti méltányosság gyakorlásakor a természet védelméről szóló törvény rendelkezéseit figyelembe kell venni.
 
