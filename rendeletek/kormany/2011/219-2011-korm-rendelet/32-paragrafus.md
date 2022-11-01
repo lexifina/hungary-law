@@ -1,10 +1,10 @@
-## 31/A. §[^88] Ha valamely üzemeltető úgy ítéli meg, hogy a veszélyes anyagok vagy keverékek valamelyike a besorolása ellenére nem hordozza magában a súlyos baleset veszélyét, annak egészségi, fizikai és környezeti veszéllyel kapcsolatos tulajdonságainak értékeléséhez a 13. melléklet szerinti információkat megküldi a hatóság részére.
+## 31/A. §[^95] Ha valamely üzemeltető úgy ítéli meg, hogy a veszélyes anyagok vagy keverékek valamelyike a besorolása ellenére nem hordozza magában a súlyos baleset veszélyét, annak egészségi, fizikai és környezeti veszéllyel kapcsolatos tulajdonságainak értékeléséhez a 13. melléklet szerinti információkat megküldi a hatóság részére.
 
-## 13.[^89] A hatóság nemzetközi feladatai
+## 13.[^96] A hatóság nemzetközi feladatai
 
 32. § (1) A hatóság a veszélyes anyagokkal foglalkozó üzemekről és a küszöbérték alatti üzemekről és a 30–31. §-ban foglaltak szerint kapott információkról nyilvántartást vezet. A hatóság központi szerve a nyilvántartásban szereplő adatokról az Európai Bizottság vonatkozó előírásainak figyelembevételével tájékoztatja az Európai Unió illetékes szervét.
 
-(2)[^90] A hatóság központi szervének vezetője az olyan veszélyes anyagokkal kapcsolatos súlyos balesetekről és üzemzavarokról, amelyek a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése és következményeik csökkentése szempontjából műszakilag különösen fontosak – függetlenül a 11. mellékletben meghatározott feltételek teljesülésétől, valamint a 31. § (1) bekezdése alapján kapott információkról (beleértve olyan testületek nevét és címét is, amelyek más európai uniós tagállam illetékes hatóságai számára tudnak lényeges tájékoztatást adni a veszélyes anyagokkal kapcsolatos súlyos balesetről) –, haladéktalanul, de legkésőbb a baleset időpontját követő egy éven belül tájékoztatja az Európai Unió illetékes szervét. Amennyiben a tájékoztatás tartalmát érintően hatósági eljárás folyik, a tájékoztatást az eljárás végleges befejezését követően kell megküldeni.
+(2)[^97] A hatóság központi szervének vezetője az olyan veszélyes anyagokkal kapcsolatos súlyos balesetekről és eseményekről, amelyek a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése és következményeik csökkentése szempontjából műszakilag különösen fontosak – függetlenül a 11. mellékletben meghatározott feltételek teljesülésétől, valamint a 31. § (1) bekezdése alapján kapott információkról (beleértve olyan testületek nevét és címét is, amelyek más európai uniós tagállam illetékes hatóságai számára tudnak lényeges tájékoztatást adni a veszélyes anyagokkal kapcsolatos súlyos balesetről) –, haladéktalanul, de legkésőbb a baleset időpontját követő egy éven belül tájékoztatja az Európai Unió illetékes szervét. Amennyiben a tájékoztatás tartalmát érintően hatósági eljárás folyik, a tájékoztatást az eljárás végleges befejezését követően kell megküldeni.
 
 (3) A veszélyes anyagokkal foglalkozó üzemek esetében a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos előírások végrehajtásáról az Európai Unió illetékes szervével történő együttműködés és információszolgáltatás céljából először 2019. szeptember 30-ig majd azt követően négyévente a hatóság központi szerve nemzeti jelentést készít, amelyet az Európai Unió döntéshozatali tevékenységében történő magyar részvétel szabályainak megfelelően továbbít az Európai Unió illetékes szervének.
 
@@ -12,6 +12,6 @@
 
 (5) A hatóság központi szerve az Európai Unió döntéshozatali tevékenységében történő magyar részvétel szabályainak megfelelően a 31/A. § szerint az üzemeltető által megküldött információkat, azok megalapozottsága esetén továbbítja az Európai Bizottság részére.
 
-[^88]: A 31/A. §-t a 34/2015. (II. 27.) Korm. rendelet 22. §-a iktatta be.
-[^89]: A 13. alcím (32. §) a 34/2015. (II. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^90]: A 32. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 351. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^95]: A 31/A. §-t a 34/2015. (II. 27.) Korm. rendelet 22. §-a iktatta be.
+[^96]: A 13. alcím (32. §) a 34/2015. (II. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^97]: A 32. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 351. § b) pontja, a 408/2022. (X. 24.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.

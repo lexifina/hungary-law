@@ -1,4 +1,4 @@
-7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^157]
+7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^167]
 
 A hatósági engedélyezési és felügyeleti tevékenység során alkalmazott követelmények,
 
@@ -102,8 +102,6 @@ c) Külső zóna: a sérülés egyéni kockázata nem éri el a 10–6 esemény/
 
 2.2. A zónákban történő fejlesztésekről kialakított állásfoglalások meghozatala során a katasztrófavédelmi hatóság az alábbiakat veszi figyelembe:
 
-a)
-
 |  |  | Az építmény jellege | Belső zóna | Középső zóna | Külső zóna |
 
 |  | A. | Lakóház, szálloda, nyaralók | A fejlesztés nem ajánlott. | Az engedélyezés a halálozás társadalmi kockázatának részletes vizsgálatán alapuló egyedi feltételekhez kötött. | A fejlesztés megengedett. |
@@ -115,6 +113,8 @@ a)
 |  | D. | Tömegtartózkodásra szolgáló építmények | A fejlesztés nem ajánlott. | Az engedélyezés a halálozás társadalmi kockázatának részletes vizsgálatán alapuló egyedi feltételekhez kötött. | Az engedélyezés a halálozás társadalmi kockázatának részletes vizsgálatán alapuló egyedi feltételekhez kötött. |
 
 |  | E. | Közterületek, főközlekedési útvonalak | Az engedélyezés a halálozás társadalmi kockázatának részletes vizsgálatán alapuló egyedi feltételekhez kötött. | Az engedélyezés a halálozás társadalmi kockázatának részletes vizsgálatán alapuló egyedi feltételekhez kötött. | A fejlesztés megengedett. |
+
+a)
 
 b) Az állásfoglalás kialakítása során figyelembe kell venni, hogy az a) pontban felsorolt építmények és a veszélyes anyagokkal foglalkozó üzemek között megfelelő távolságot kell biztosítani.
 
@@ -238,7 +238,7 @@ a) a hatósággal folyamatos kapcsolatot tart,
 
 b) követi a vonatkozó jogszabályok változását,
 
-c) veszélyes anyagokkal kapcsolatos súlyos baleset, üzemzavar esetében a bekövetkező eseményről jelentést, tájékoztatást készít, gondoskodik továbbá azok hatóság részére történő megküldéséről,
+c) veszélyes anyagokkal kapcsolatos súlyos baleset, esemény esetében a bekövetkező eseményről jelentést, tájékoztatást készít, gondoskodik továbbá azok hatóság részére történő megküldéséről,
 
 d) szervezi és értékeli a belső védelmi tervben foglaltak gyakoroltatását,
 
@@ -250,4 +250,4 @@ f) részt vesz a hatósági ellenőrzéseken és a helyszíni szemléken.
 
 6.5. A veszélyes ipari védelmi ügyintéző alkalmazását vagy megbízását követően a veszélyes anyagokkal foglalkozó üzem üzemeltetője 8 napon belül a hatóság felé bejelenti a veszélyes ipari védelmi ügyintéző nevét, telefonszámát.
 
-[^157]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése, a 34/2015. (II. 27.) Korm. renedelet 30. § (4) bekezdése, a 441/2016. (XII. 16.) Korm. rendelet 43. § d) pontja, a 317/2020. (VII. 1.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^167]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése, a 34/2015. (II. 27.) Korm. renedelet 30. § (4) bekezdése, a 441/2016. (XII. 16.) Korm. rendelet 43. § d) pontja, a 317/2020. (VII. 1.) Korm. rendelet 11. § (2) bekezdése, a 408/2022. (X. 24.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-38. §[^113] (1)[^114] A súlyos káresemény elhárítási terv soros, soron kívüli felülvizsgálatára a 11. § rendelkezéseit kell megfelelően alkalmazni.
+38. §[^121] (1)[^122] A súlyos káresemény elhárítási terv soros, soron kívüli felülvizsgálatára a 11. § rendelkezéseit kell megfelelően alkalmazni.
 
 (2) A 33. § (4) bekezdése szerinti engedélyt háromévenként felül kell vizsgálni, melynek érdekében a hatóság üzemazonosítási eljárást folytat le.
 
-[^113]: A 38. § a 476/2013. (XII. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^114]: A 38. § (1) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^121]: A 38. § a 476/2013. (XII. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^122]: A 38. § (1) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 42. §-ával megállapított szöveg.
