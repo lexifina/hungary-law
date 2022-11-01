@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-287-20-
 | --- | --- | --- |
 | 2022-08-05 | 2022-287-20-22.1 | 287/2022. (VIII. 4.) Korm. rendelet |
 | 2022-08-19 | 2022-287-20-22.2 | 2022. évi VI. törvény |
+| 2022-11-01 | 2022-287-20-22.3 | 2022. évi VI. törvény |
