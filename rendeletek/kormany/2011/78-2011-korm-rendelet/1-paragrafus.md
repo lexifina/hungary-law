@@ -4,9 +4,9 @@
 
 (3)[^3] A Honvéd Koronaőrség, valamint az Országgyűlési Őrség, a Készenléti Rendőrség és a Terrorelhárítási Központ a Szent Korona látogathatósága, az azokkal kapcsolatos rendezvények biztosítása és más biztonsági kérdések tekintetében együttműködik egymással és az Országgyűlés Hivatalával.
 
-(4)[^4] A Honvéd Koronaőrség működésével, szolgálatteljesítésével kapcsolatban felmerült költségek a honvédelemért felelős miniszter által vezetett minisztérium költségvetési fejezetét terhelik.
+(4)[^4] A Honvéd Koronaőrség működésével, szolgálatteljesítésével kapcsolatban felmerült költségek a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium költségvetési fejezetét terhelik.
 
 [^1]: Az 1. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 565. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 102/2012. (V. 18.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdése a 102/2012. (V. 18.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
-[^4]: Az 1. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 565. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 565. § b) pontja, a 409/2022. (X. 24.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

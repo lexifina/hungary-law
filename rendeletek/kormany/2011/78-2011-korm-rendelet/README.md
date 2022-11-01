@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-78-20-2
 | 2017-07-11 | 2011-78-20-22.7 | 197/2017. (VII. 10.) Korm. rendelet |
 | 2019-01-04 | 2011-78-20-22.8 | 265/2018. (XII. 20.) Korm. rendelet |
 | 2019-10-17 | 2011-78-20-22.9 | 241/2019. (X. 16.) Korm. rendelet |
+| 2022-11-01 | 2011-78-20-22.10 | 241/2019. (X. 16.) Korm. rendelet |
