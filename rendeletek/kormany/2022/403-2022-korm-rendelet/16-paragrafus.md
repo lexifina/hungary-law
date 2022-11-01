@@ -1,0 +1,5 @@
+16. § (1) A védelmi és biztonsági igazgatás központi szerve a védelmi és biztonsági ellenőrzés során megkeresést intézhet az adatszolgáltatás, az információ hitelességének megállapítása vagy az ellenőrzés tárgyához kapcsolódó, de nem az ellenőrzött szervnél fellelhető irat – ideértve a minősített adatot, üzleti titkot vagy törvény által védett egyéb titkot tartalmazó iratot is – megküldése érdekében bármely hatósághoz, egyéb állami, önkormányzati szervhez, gazdálkodó szervezethez vagy személyhez.
+
+(2) A megkeresett szerv vagy személy a megkeresésben foglaltak teljesítését csak akkor tagadhatja meg, ha az jogszabályba ütközik. A megkeresett szerv vagy személy a megkeresést annak megérkezésétől számított 8 napon belül köteles teljesíteni vagy a megkeresés teljesítésének jogszabályi akadályát a védelmi és biztonsági igazgatás központi szervével közölni.
+
+(3) Ha a védelmi és biztonsági ellenőrzés lefolytatásához szükséges irat idegen nyelven áll rendelkezésre, az ellenőrzött szerv a védelmi és biztonsági ellenőr felhívására köteles annak magyar nyelvű hiteles fordítását is a védelmi és biztonsági igazgatás központi szerve rendelkezésére bocsátani.
