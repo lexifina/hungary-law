@@ -1,1 +1,0 @@
-5. § A Kormány a veszélyhelyzetben megtett intézkedésekről rendszeresen, az Országgyűlés ülésén – annak hiányában az Országgyűlés elnöke és az országgyűlési képviselőcsoportok vezetői részére – ad tájékoztatást.
