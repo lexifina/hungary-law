@@ -8,6 +8,6 @@
 
 (5) Az Alkotmánybíróság volt elnökét – ha egyúttal az Alkotmánybíróságban betöltött tagsága is megszűnt – a megbízatása megszűnését követően további két évig kétfős titkárság alkalmazása illeti meg.
 
-(6)
+(6) Az Alkotmánybíróság volt elnöke az ebben a §-ban meghatározott juttatásokra mindaddig nem jogosult, amíg a megbízatásának megszűnését követően vagyonnyilatkozat-tételi kötelezettségének nem tesz eleget.
 
 (7) Az Alkotmánybíróság volt elnökét nem illetik meg az ebben a §-ban meghatározott jogosultságok és juttatások, ha megbízatása a 15. § (2) bekezdés c) vagy f) pontja alapján szűnt meg.
