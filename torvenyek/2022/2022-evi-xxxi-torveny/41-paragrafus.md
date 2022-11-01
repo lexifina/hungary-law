@@ -17,15 +17,3 @@
 (9) A 27. § és a 29. § az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és a 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (10) A 35. § az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
