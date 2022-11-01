@@ -12,7 +12,7 @@ a) az oktatásról, a szakvizsgáról a tűzvédelmi hatóság értesítése oly
 
 b) a szakvizsgáztató a foglalkozási ágakban, munkakörökben bekövetkezett adatváltozás bejelentési kötelezettségét elmulasztotta,
 
-## a tűzvédelmi hatóság dönt a bizonyítvány érvénytelenítéséről.
+a tűzvédelmi hatóság dönt a bizonyítvány érvénytelenítéséről.
 
 (3) Az érvénytelen bizonyítványt az oktatásszervező visszavonja. Az oktatásszervező a bizonyítvány visszavonásáról a bizonyítvány számának megadásával nyolc napon belül írásban értesíti a tűzvédelmi hatóságot. A tűzvédelmi hatóság a bizonyítvány számát, a szakvizsgázó nevét, az oktatásszervező nevét és a vizsga időpontját a honlapján közzéteszi.
 
