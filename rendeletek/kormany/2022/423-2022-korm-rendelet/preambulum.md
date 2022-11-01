@@ -1,0 +1,1 @@
+A Kormány az Alaptörvény 53. cikk (4) bekezdésében meghatározott hatáskörében, figyelemmel az Alaptörvény 51. cikk (1) bekezdésében meghatározott hatáskörére, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

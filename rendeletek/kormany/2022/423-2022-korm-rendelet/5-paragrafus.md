@@ -1,0 +1,1 @@
+5. § Hatályát veszti a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelettel kihirdetett veszélyhelyzet megszüntetéséről szóló 181/2022. (V. 24.) Korm. rendelet.
