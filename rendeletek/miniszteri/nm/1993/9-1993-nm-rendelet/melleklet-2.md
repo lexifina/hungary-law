@@ -38,9 +38,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -92,9 +92,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -144,9 +144,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -192,9 +192,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -244,9 +244,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -296,7 +296,7 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -362,7 +362,7 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -428,9 +428,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -488,7 +488,7 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -540,7 +540,7 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -600,9 +600,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -654,9 +654,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -698,9 +698,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -756,9 +756,9 @@
 
 | 2906 Országos Onkológiai Intézet |
 
-| 2912 Pécsi Tudományegyetem |
+| U912 Pécsi Tudományegyetem Klinikai Központ |
 
-| 2915 Semmelweis Egyetem |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | U917 Szegedi Tudományegyetem Klinikai Központ |
 
@@ -814,9 +814,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -874,9 +874,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -932,9 +932,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -972,9 +972,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -996,9 +996,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1022,9 +1022,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1048,7 +1048,7 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1088,9 +1088,9 @@
 
 | 2906 Országos Onkológiai Intézet |
 
-| 2912 Pécsi Tudományegyetem |
+| U912 Pécsi Tudományegyetem Klinikai Központ |
 
-| 2915 Semmelweis Egyetem |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | U917 Szegedi Tudományegyetem Klinikai Központ |
 
@@ -1124,7 +1124,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 2137 Kaposi Mór Oktató Kórház, Kaposvár 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Szent Rafael Kórház, Zalaegerszeg 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet U894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem U917 Szegedi Tudományegyetem Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N511 Szent Margit Kórház, Budapest N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház, Gyula R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 2137 Kaposi Mór Oktató Kórház, Kaposvár 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Szent Rafael Kórház, Zalaegerszeg 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet U894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N511 Szent Margit Kórház, Budapest N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház, Gyula R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 ## 7/b10. pont
 
@@ -1160,9 +1160,9 @@
 
 | 2906 Országos Onkológiai Intézet |
 
-| 2912 Pécsi Tudományegyetem |
+| U912 Pécsi Tudományegyetem Klinikai Központ |
 
-| 2915 Semmelweis Egyetem |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | U917 Szegedi Tudományegyetem Klinikai Központ |
 
@@ -1202,9 +1202,9 @@
 
 | 2906 Országos Onkológiai Intézet |
 
-| 2912 Pécsi Tudományegyetem |
+| U912 Pécsi Tudományegyetem Klinikai Központ |
 
-| 2915 Semmelweis Egyetem |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | U917 Szegedi Tudományegyetem Klinikai Központ |
 
@@ -1246,9 +1246,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1312,9 +1312,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1354,9 +1354,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1384,9 +1384,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1454,9 +1454,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1536,9 +1536,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1618,9 +1618,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1704,9 +1704,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1786,9 +1786,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -1868,9 +1868,9 @@
 
 | 2906 Országos Onkológiai Intézet |
 
-| 2912 Pécsi Tudományegyetem |
+| U912 Pécsi Tudományegyetem Klinikai Központ |
 
-| 2915 Semmelweis Egyetem |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | U917 Szegedi Tudományegyetem Klinikai Központ |
 
@@ -1954,9 +1954,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2038,9 +2038,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2120,9 +2120,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2202,9 +2202,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2284,9 +2284,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2366,9 +2366,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2440,9 +2440,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2510,9 +2510,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2582,9 +2582,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2652,9 +2652,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2722,9 +2722,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2792,9 +2792,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2876,9 +2876,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -2948,9 +2948,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3060,9 +3060,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3168,9 +3168,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3292,9 +3292,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3402,9 +3402,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3510,9 +3510,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3634,9 +3634,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3704,9 +3704,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3762,9 +3762,9 @@
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3792,9 +3792,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3860,9 +3860,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3886,9 +3886,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3938,9 +3938,9 @@
 
 ## 2896 Gottsegen György Országos Kardiovaszkuláris Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -3976,9 +3976,9 @@
 
 ## U894 Debreceni Egyetem Klinikai Központ
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -4014,9 +4014,9 @@
 
 | U894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet |
 
-| 2912 Pécsi Tudományegyetem |
+| U912 Pécsi Tudományegyetem Klinikai Központ |
 
-| 2915 Semmelweis Egyetem |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | U917 Szegedi Tudományegyetem Klinikai Központ |
 
@@ -4044,9 +4044,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem
+## U912 Pécsi Tudományegyetem Klinikai Központ
 
-## 2915 Semmelweis Egyetem
+## U915 Semmelweis Egyetem Klinikai Központ
 
 ## U917 Szegedi Tudományegyetem Klinikai Központ
 
@@ -4066,7 +4066,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1487 Dr. Bugyi István Kórház, Szentes 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 1928 Szent Lázár Megyei Kórház, Salgótarján 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Szent Rafael Kórház 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet 2879 Jahn Ferenc Dél-pesti Kórház 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet 2889 Szent Imre Egyetemi Oktatókórház 2891 Uzsoki utcai Kórház U894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1487 Dr. Bugyi István Kórház, Szentes 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 1928 Szent Lázár Megyei Kórház, Salgótarján 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Szent Rafael Kórház 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet 2879 Jahn Ferenc Dél-pesti Kórház 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet 2889 Szent Imre Egyetemi Oktatókórház 2891 Uzsoki utcai Kórház U894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet U912 Pécsi Tudományegyetem Klinikai Központ U915 Semmelweis Egyetem Klinikai Központ |
 
 | U917 Szegedi Tudományegyetem Klinikai Központ |
 
@@ -4086,9 +4086,9 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 2891 Uzsoki utcai Kórház U894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem |
+| 2891 Uzsoki utcai Kórház U894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet U912 Pécsi Tudományegyetem Klinikai Központ |
 
-| 2915 Semmelweis Egyetem U917 Szegedi Tudományegyetem Klinikai Központ |
+| U915 Semmelweis Egyetem Klinikai Központ U917 Szegedi Tudományegyetem Klinikai Központ |
 
 | K403 Magyar Honvédség Egészségügyi Központ |
 
@@ -4244,8 +4244,8 @@
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
-2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^123]
+2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^124]
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^123]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 2. §-a, a 15/2018. (VI. 28.) EMMI rendelet 3. § (3) bekezdése, a 38/2018. (X. 31.) EMMI rendelet 1. §-a, a 44/2018. (XII. 19.) EMMI rendelet 1. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 2. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (3) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 2. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (3)–(4) bekezdése, a 37/2020. (X. 30) EMMI rendelet 1. § (1)-(2) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 2. §-a, a 40/2021. (IX. 6.) EMMI rendelet 1. § (1) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 2. § (3) bekezdése, a 48/2021. (XI. 2.) EMMI rendelet 1. §-a, az 51/2021. (XII. 10.) EMMI rendelet 1. §-a, az 58/2021. (XII. 27.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (3) bekezdése, a 32/2022. (IX. 22.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^124]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 2. §-a, a 15/2018. (VI. 28.) EMMI rendelet 3. § (3) bekezdése, a 38/2018. (X. 31.) EMMI rendelet 1. §-a, a 44/2018. (XII. 19.) EMMI rendelet 1. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 2. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (3) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 2. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (3)–(4) bekezdése, a 37/2020. (X. 30) EMMI rendelet 1. § (1)-(2) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 2. §-a, a 40/2021. (IX. 6.) EMMI rendelet 1. § (1) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 2. § (3) bekezdése, a 48/2021. (XI. 2.) EMMI rendelet 1. §-a, az 51/2021. (XII. 10.) EMMI rendelet 1. §-a, az 58/2021. (XII. 27.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (3) bekezdése, a 32/2022. (IX. 22.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
