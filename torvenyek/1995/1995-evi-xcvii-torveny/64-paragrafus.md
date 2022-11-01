@@ -8,4 +8,6 @@
 
 (3) A légiközlekedési baleset, súlyos repülőesemény, a repülőesemény vizsgálatával kapcsolatos iratok irattári őrzési ideje 50 év.
 
-(4)–(5)
+(4)
+
+(5)
