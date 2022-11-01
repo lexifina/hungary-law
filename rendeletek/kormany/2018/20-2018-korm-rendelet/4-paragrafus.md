@@ -60,4 +60,6 @@ e) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2
 
 f) a Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló 49/2015. (XI. 6.) EMMI rendelet 9. § (1) bekezdése
 
+szerinti feladatokat.
+
 [^2]: A 4. § a) pont 7. alpontját a 666/2021. (XII. 1.) Korm. rendelet 2. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet hatálya kiterjed
 
-a)[^1] a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 14. pontja szerinti honvédségi szervezetre, valamint a Katonai Nemzetbiztonsági Szolgálatra (a továbbiakban: KNBSZ), továbbá
+a)[^1] a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 15. pontja szerinti honvédségi szervezetre, valamint a Katonai Nemzetbiztonsági Szolgálatra (a továbbiakban: KNBSZ), továbbá
 
 b) a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium vagyonkezelésében lévő ingatlanon a honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes munkahelyre és
 
@@ -14,4 +14,4 @@ c) azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a m
 
 385/2016. (XII. 2.) Korm. rendelet (a továbbiakban: Eár.) rendelkezéseivel összhangban kell értelmezni.
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 666/2021. (XII. 1.) Korm. rendelet 1. §-ával megállapítot szöveg.
+[^1]: Az 1. § (1) bekezdés a) pontja a 666/2021. (XII. 1.) Korm. rendelet 1. §-ával megállapított, a 410/2022. (X. 24.) Korm. rendelet 12. §-a szerint módosított szöveg.
