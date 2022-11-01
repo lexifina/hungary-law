@@ -24,9 +24,9 @@
 
 10. Katasztrófaveszélyes tevékenység: olyan emberi cselekvés vagy mulasztás, amely katasztrófát vagy annak közvetlen veszélyét idézheti elő.
 
-11. Kockázat: egy adott területen adott időtartamon belül vagy meghatározott körülmények között jelentkező egészség-, illetve környezetkárosító hatás valószínűsége.
+11. Kiterjedt káresemény: olyan védelmi és biztonsági esemény, amelynek kezelése során elengedhetetlen az élet- és vagyonbiztonság megóvása érdekében a katasztrófavédelem, mint elsődleges beavatkozó irányításával az eseménykezelésben érintett szervezetek azonnali, összehangolt reagálása a védelmi és biztonsági igazgatás központi szervének koordinációs tevékenysége megkezdéséig.
 
-12. Közbiztonsági referens: a polgármester katasztrófák elleni védekezésre való felkészülési, védekezési, helyreállítási szakmai feladataiban, továbbá rendvédelmi feladataiban közreműködő, köztisztviselői jogviszonyban álló, e feladat ellátására a polgármester által kijelölt, e törvény végrehajtási rendeletében meghatározott végzettséggel rendelkező személy.
+12. Kockázat: egy adott területen adott időtartamon belül vagy meghatározott körülmények között jelentkező egészség-, illetve környezetkárosító hatás valószínűsége.
 
 13. Külső védelmi terv: a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem környezetében élő lakosság mentése, az anyagi javakban, a környezetben bekövetkező károk enyhítése érdekében a végrehajtandó rendszabályok bevezetésére, a végrehajtó szervezetre, a vezetésre, az adatszolgáltatásra vonatkozó terv, amely a települési veszélyelhárítási terv része.
 
@@ -60,7 +60,7 @@ d) speciális végpont: minden olyan eszköz, berendezés, amely az a)–c) pont
 
 24. Veszély: valamely veszélyes anyag természetes tulajdonsága vagy olyan körülmény, amely káros hatással lehet az emberi egészségre vagy a környezetre.
 
-25. Veszélyelhárítási terv: katasztrófaveszély, valamint katasztrófa időszakában végrehajtandó katasztrófavédelmi feladatokat tartalmazó, központi, területi (fővárosi), települési (a fővárosban kerületi) és munkahelyi okmányrendszer.
+25. Veszélyelhárítási terv: kiterjedt káresemény időszakában végrehajtandó katasztrófavédelmi feladatokat tartalmazó, központi, területi (fővárosi), járási, települési (a fővárosban kerületi) és munkahelyi okmányrendszer.
 
 26. Veszélyes anyag: e törvény végrehajtását szolgáló kormányrendeletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, akár nyersanyag, termék, melléktermék, maradék, köztes termék, vagy hulladék formájában.
 
@@ -68,9 +68,9 @@ d) speciális végpont: minden olyan eszköz, berendezés, amely az a)–c) pont
 
 28. Veszélyes anyagokkal foglalkozó üzem: egy adott üzemeltető irányítása alatt álló azon terület egésze, ahol egy vagy több veszélyes anyagokkal foglalkozó létesítményben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a törvény végrehajtására kiadott jogszabályban meghatározott küszöbértéket elérő mennyiségben, és ennek alapján alsó vagy felső küszöbértékűnek minősül.
 
-29. Veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélyes anyag kibocsátásával, tűzzel vagy robbanással járó, veszélyes anyagokkal kapcsolatos üzemzavar, amely a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működése során befolyásolhatatlan folyamatként megy végbe, és amely az üzemen belül vagy azon kívül közvetlenül vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetve a környezetet.
+29. Veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélyes anyag kibocsátásával, tűzzel vagy robbanással járó, veszélyes anyagokkal kapcsolatos esemény, amely a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működése során befolyásolhatatlan folyamatként megy végbe, és amely az üzemen belül vagy azon kívül közvetlenül vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetve a környezetet.
 
-30. Veszélyes anyagokkal kapcsolatos üzemzavar: veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben a rendeltetésszerű működés során vagy a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely azonnali beavatkozást igényel és az alábbi következmények egyikével jár:
+30. Veszélyes anyagokkal kapcsolatos esemény: veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben a rendeltetésszerű működés során vagy a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely nem minősül veszélyes anyagokkal kapcsolatos súlyos balesetnek, de azonnali beavatkozást igényel és az alábbi következmények egyikével jár:
 
 a) veszélyes anyaggal kapcsolatos tűz,
 
@@ -80,9 +80,7 @@ c) mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása,
 
 d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú folyadék halmazállapotú veszélyes anyag kikerülése legalább 1000 kg mennyiségben,
 
-e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben,
-
-f)
+e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben.
 
 31. Veszélyes tevékenység: olyan, veszélyes anyagok jelenlétében végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
 
@@ -91,3 +89,5 @@ f)
 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 
 33. Védendő adat: a veszélyes anyagokkal foglalkozó üzem biztonságával kapcsolatos lényeges adat, amelyet az üzemeltető vagy az iparbiztonsági hatóság védendővé nyilvánít, továbbá az üzemeltető által meghatározott üzleti titok.
+
+34. Katasztrófákkal szembeni ellenálló képesség: azon képességek, válaszadási kapacitások összessége, amelyek a személyek, a környezet, a tulajdon védelmét, valamint a kormányzati, gazdasági, társadalmi funkciók folytonosságának megőrzését szolgálják a természeti és az ember okozta katasztrófák közvetlen, közvetett hatásaival szemben.

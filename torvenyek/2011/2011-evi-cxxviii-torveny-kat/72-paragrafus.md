@@ -34,7 +34,7 @@ i) a kiállító hatóság aláírása.
 
 (9) A hivatásos katasztrófavédelmi szerv a nyilvántartásban kezelt adatokban bekövetkezett változások átvezetése céljából a személyi adat- és lakcímnyilvántartásból adatot igényelhet.
 
-(10) Katasztrófaveszély vagy veszélyhelyzet esetén a hivatásos katasztrófavédelmi szervek az intézkedések elősegítése céljából, legfeljebb azok időtartamának fennállását követő három hónapig a település azonnali védekezési munkálataiba bevont, továbbá a katasztrófavédelmi intézkedésekkel érintett, a polgári védelmi szervezetbe nem beosztott személyek alábbi személyes adatait tarthatják nyilván:
+(10) Kiterjedt káresemény vagy veszélyhelyzet esetén a hivatásos katasztrófavédelmi szervek az intézkedések elősegítése céljából, legfeljebb azok időtartamának fennállását követő három hónapig a település azonnali védekezési munkálataiba bevont, továbbá a katasztrófavédelmi intézkedésekkel érintett, a polgári védelmi szervezetbe nem beosztott személyek alábbi személyes adatait tarthatják nyilván:
 
 a) természetes személyazonosító adatok,
 

@@ -1,0 +1,1 @@
+52/A. § A polgári védelmi szolgálatot teljesítő személy ruházatát, továbbá a polgári védelmi célra használt járművet és egyéb technikai eszközt, valamint létesítményt a polgári védelem nemzetközi megkülönböztető jelével kell ellátni.

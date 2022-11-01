@@ -14,7 +14,7 @@ c) összehangolja a katasztrófavédelemmel összefüggő oktatási, képzési, 
 
 d) létrehozza az országos katasztrófavédelmi információs rendszert,
 
-e) kihirdetésre előkészíti a veszélyhelyzet idején bevezetésre kerülő rendeletek tervezeteit, és megküldi azokat a végrehajtásért felelős személyeknek és szervezeteknek,
+e)
 
 f) az éves költségvetésben tervezi a hazai és a nemzetközi segítségnyújtásra fordítható előirányzat mértékét,
 
@@ -22,6 +22,10 @@ g) gondoskodik a központi költségvetési tervezés keretében a katasztrófav
 
 h) meghatározza a nemzeti kockázatelemzési, -értékelési és feltérképezési követelményeket,
 
-i) a katasztrófák elleni védekezésért felelős miniszternek a honvédelemért felelős miniszter véleményének kikérését követően kialakított javaslatára meghatározza a polgári védelmi szervezetek összlétszámát,
+i) a katasztrófák elleni védekezésért felelős miniszternek a honvédelemért felelős miniszter, valamint a védelmi és biztonsági igazgatás központi szervének vezetője véleményének kikérését követően kialakított javaslatára meghatározza a polgári védelmi szervezetek összlétszámát,
 
-j) a katasztrófák elleni védekezésért felelős miniszter útján irányítja a megyei védelmi bizottságok katasztrófavédelmi feladatainak végrehajtását.
+j) a katasztrófák elleni védekezésért felelős miniszter útján, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározottak szerint, továbbá a védelmi és biztonsági igazgatás központi szervével együttműködve irányítja a területi védelmi bizottságok katasztrófavédelmi feladatainak végrehajtását.
+
+k) összehangolja a katasztrófákkal szembeni ellenálló képesség fejlesztésével kapcsolatos feladatokat,
+
+l) koordinálja a katasztrófák miatti veszteségekre vonatkozó adatok gyűjtését.

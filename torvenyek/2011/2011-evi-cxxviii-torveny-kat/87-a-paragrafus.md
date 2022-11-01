@@ -1,0 +1,1 @@
+87/A. § E törvény az uniós polgári védelmi mechanizmusról szóló, 2013. december 17-i 1313/2013/EU európai parlamenti és tanácsi határozat, valamint az uniós polgári védelmi mechanizmusról szóló 1313/2013/EU határozat módosításáról szóló, 2021. május 20-i (EU) 2021/836 európai parlamenti és tanácsi rendelet végrehajtását szolgálja.

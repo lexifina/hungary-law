@@ -23,3 +23,5 @@ h) a külpolitikáért felelős miniszterrel együttműködve részt vesz a nemz
 i) felelős a kritikus infrastruktúrák védelméért a katasztrófák elleni védekezés területén,
 
 j) jóváhagyja a központi veszélyelhárítási tervet.
+
+k) az irányítása alá tartozó szervezetek tekintetében biztosítja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatok végrehajtását, valamint gondoskodik az irányítása alá tartozó szervezetek hatékony együttműködéséről a védelmi és biztonsági feladatok ellátásban részt vevő szervek, szervezetek, különösen a védelmi és biztonsági igazgatás szervei tekintetében.

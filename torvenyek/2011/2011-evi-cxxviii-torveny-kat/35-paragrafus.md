@@ -16,7 +16,7 @@ cb) környezetvédelmi szabályok szerinti megsemmisítését,
 
 cc) veszélyeztető jellegük megszüntetését.
 
-(4) Amennyiben az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesettel vagy üzemzavarral összefüggésben a megelőző, elhárító, helyreállító intézkedésekre, valamint a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeinek kivizsgálására vonatkozó kötelezettségének nem tesz eleget, az iparbiztonsági hatóság ezek megtételére kötelezi.
+(4) Amennyiben az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesettel vagy eseménnyel összefüggésben a megelőző, elhárító, helyreállító intézkedésekre, valamint a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeinek kivizsgálására vonatkozó kötelezettségének nem tesz eleget, az iparbiztonsági hatóság ezek megtételére kötelezi.
 
 (5) Az iparbiztonsági hatóság katasztrófavédelmi bírság kiszabására jogosult:
 
@@ -24,7 +24,7 @@ a) katasztrófavédelmi engedély nélkül végzett engedélyköteles tevékenys
 
 b) a IV. fejezetben és a végrehajtási rendeletekben, vagy az azok alapján meghozott hatósági döntésben foglalt előírások elmulasztása esetén,
 
-c) a veszélyes tevékenységgel kapcsolatos súlyos balesettel, vagy üzemzavarral összefüggésben megelőző, elhárító és helyreállító intézkedésekre vonatkozó kötelezettség be nem tartása esetén.
+c) a veszélyes tevékenységgel kapcsolatos súlyos balesettel, vagy eseménnyel összefüggésben megelőző, elhárító és helyreállító intézkedésekre vonatkozó kötelezettség be nem tartása esetén.
 
 (6) A katasztrófavédelmi bírság legkisebb összege háromszázezer forint, legmagasabb összege hárommillió forint. A bírság összegét a törvényi keretek között a jogsértésnek az emberi életre és egészségre, az anyagi javakra és a környezetre való veszélyességével arányos mértékben, igazodva a jogsértés súlyához és ismétlődéséhez kell meghatározni.
 
@@ -44,9 +44,9 @@ c) biztonsági jelentésben, biztonsági elemzésben, belső védelmi tervben, s
 
 d) a hatósági döntésben foglalt műszaki, technológiai, beruházási, karbantartási előírás elmulasztása,
 
-e) veszélyes anyagokkal kapcsolatos üzemzavar, súlyos baleset azonnali bejelentésének elmulasztása,
+e) veszélyes anyagokkal kapcsolatos esemény, súlyos baleset azonnali bejelentésének elmulasztása,
 
-f) veszélyes anyagokkal kapcsolatos üzemzavarról, súlyos balesetről szóló adatszolgáltatási kötelezettség elmulasztása,
+f) veszélyes anyagokkal kapcsolatos eseményről, súlyos balesetről szóló adatszolgáltatási kötelezettség elmulasztása,
 
 g) veszélyes anyagokkal kapcsolatos súlyos balesettel kapcsolatos védekezési, elhárítási és helyreállító intézkedések elmulasztása,
 

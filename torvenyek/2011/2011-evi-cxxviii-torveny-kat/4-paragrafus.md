@@ -1,6 +1,6 @@
 ## 3. A törvény hatálya
 
-4. § (1) E törvényt kell alkalmazni Magyarország területén katasztrófa megelőzése érdekében, Magyarország területén végzett katasztrófaveszélyes tevékenységre, veszélyhelyzetben, katasztrófaveszély esetén, továbbá akkor, ha a katasztrófa károsító hatása ellen Magyarország területén védekezés szükséges (beleértve a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezést is).
+4. § (1) E törvényt kell alkalmazni Magyarország területén végzett katasztrófaveszélyes tevékenységre, kiterjedt káresemény megelőzése érdekében, valamint annak bekövetkezése esetén, továbbá akkor, ha a katasztrófa károsító hatása ellen Magyarország területén védekezés szükséges (beleértve a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezést is).
 
 (2) A törvény IV. fejezetének hatálya kiterjed a Magyarország területén működő veszélyes anyagokkal foglalkozó üzemekre, veszélyes anyagokkal foglalkozó létesítményekre, küszöbérték alatti üzemekre, valamint a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésében, az ellenük való védekezésben érintett közigazgatási szervekre és gazdálkodó szervezetekre, helyi önkormányzatokra, természetes személyekre.
 

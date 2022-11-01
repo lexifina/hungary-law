@@ -24,7 +24,7 @@ h) a veszélyes anyagokkal foglalkozó üzemeket érintő lakossági tájékozta
 
 i) a védekezésben részt vevők költségei megtérítésének szabályait,
 
-j)
+j) a katasztrófákkal szembeni ellenálló képesség fejlesztésével, valamint a katasztrófák miatti veszteségekre vonatkozó adatok gyűjtésével kapcsolatos feladatokat,
 
 k) a küszöbérték alatti üzemek körét, katasztrófavédelmi hatósági felügyeleti rendjét és az üzemeltetői kötelezettségeket,
 
@@ -40,11 +40,11 @@ mc) az egyéni védőeszköz-ellátás, a lakosság riasztása, a kitelepítés 
 
 md) a hazai katasztrófák és veszélyhelyzetek hatásai elleni védekezésben, valamint a nemzetközi segítségnyújtásban közreműködő önkéntes mentőszervezetek tevékenységének, védekezésbe történő bevonásának szabályait, valamint támogatását és az alkalmazandó költségtérítést, a társadalmi és karitatív szervezetek védekezésben való közreműködésének szabályait, valamint az önként jelentkező szervezetek és személyek védekezésben való közreműködésének szabályait,
 
-me) a védelmi bizottság elnökének, a megyei közgyűlés elnökének, a főpolgármesternek és a polgármestereknek a katasztrófák elleni védekezéssel összefüggő részletes feladatait,
+me)
 
-mf) a közbiztonsági referensek tevékenységére vonatkozó szabályokat,
+mf)
 
-mg) a gazdasági-anyagi szolgáltatások teljesítése és a kártalanítással összefüggő eljárás részletes szabályait,
+mg)
 
 mh) a katasztrófa károsító hatása által érintett területre, valamint a helyreállításra és újjáépítésre vonatkozó szabályokat,
 
@@ -56,6 +56,6 @@ p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és
 
 q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
 
-r) a személyes polgári védelmi kötelezettség és a gazdasági-anyagi szolgáltatási kötelezettség teljesítésével kapcsolatos jogorvoslati eljárás kiegészítő szabályait.
+r)
 
 s) az IHR működésének részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani.

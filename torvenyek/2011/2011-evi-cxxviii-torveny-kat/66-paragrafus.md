@@ -8,6 +8,6 @@
 
 (4) Az elöljáró a hatáskörén belül önállóan intézkedik, megköveteli beosztottaitól, hogy pontosan és időben teljesítsék a rájuk bízott feladatokat, szervezi, irányítja és ellenőrzi beosztottai munkáját.
 
-(5) Az elöljáró utasítása nem irányulhat a beosztottak indokolatlan foglalkoztatására, emberi méltóságának megsértésére, életének és testi épségének közvetlen veszélyeztetésére.
+(5)
 
 (6) A polgári védelmi szervezetbe beosztott köteles begyakorolni és alkalmazása idején az elöljáró utasításai szerint végrehajtani a számára meghatározott feladatokat.
