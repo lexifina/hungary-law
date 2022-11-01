@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-111-00-00
 | 2021-01-01 | 2020. évi CXXVII. törvény | 2011-111-00-00.20 |
 | 2022-05-25 | 2022. évi IV. törvény | 2011-111-00-00.21 |
 | 2022-08-01 | 2022. évi XVIII. törvény | 2011-111-00-00.22 |
+| 2022-11-01 | 2022. évi XXXI. törvény | 2011-111-00-00.23 |
