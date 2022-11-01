@@ -6,7 +6,7 @@ b) az együttműködő szervek által átadott adatokat elemzi-értékeli és en
 
 c) folyamatosan figyelemmel kíséri a Magyarország biztonsági, nemzetbiztonsági, bűnügyi és terrorhelyzetére vonatkozó információkat;
 
-d) közvetlen biztonsági, nemzetbiztonsági, bűnügyi és terrorfenyegetettség esetén, illetve a fokozott kockázatot jelentő biztonsági kérdésekben koordinációs tevékenységet lát el az érintett szervezetek bevonásával;
+d) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;
 
 e) figyelemmel kíséri a Magyarország biztonsági, nemzetbiztonsági, terrorveszélyeztetettségi és bűnügyi helyzetét érintő tendenciákat, Magyarország biztonsági, nemzetbiztonsági, terrorveszélyeztetettségi és bűnügyi helyzetét érintő új jelenségekről elemzéseket, tanulmányokat készít.
 

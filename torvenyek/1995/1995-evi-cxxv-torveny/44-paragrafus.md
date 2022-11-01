@@ -1,6 +1,6 @@
 44. § (1) A nemzetbiztonsági szolgálatok e törvény alapján feladataik ellátása érdekében egymástól adatot kérnek, illetve egymásnak adatot szolgáltatni kötelesek.
 
-(2) A Rendőrség, a Nemzeti Adó- és Vámhivatal, a bíróság, az ügyészség és a büntetés-végrehajtási szervek a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a nemzetbiztonsági szolgálatoktól adatok igénylésére jogosultak.
+(2) A Rendőrség, a Nemzeti Adó- és Vámhivatal, a védelmi és biztonsági igazgatás központi szerve, a bíróság, az ügyészség és a büntetés-végrehajtási szervek a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a nemzetbiztonsági szolgálatoktól adatok igénylésére jogosultak.
 
 (2a) A nemzetbiztonsági szolgálatok nem kötelesek büntetőeljárást kezdeményezni és átadni az adatokat, ha azzal veszélyeztetnék az e törvényben meghatározott feladataik ellátását.
 
