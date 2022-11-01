@@ -34,9 +34,9 @@
 
 | 16. |  |  |
 
-| 17. | Veszélyes anyagokkal kapcsolatos üzemzavar, súlyos baleset azonnali bejelentésének elmulasztása | 1 000 000 |
+| 17. | Veszélyes anyagokkal kapcsolatos esemény, súlyos baleset azonnali bejelentésének elmulasztása | 1 000 000 |
 
-| 18. | Veszélyes anyagokkal kapcsolatos üzemzavarról, súlyos balesetről szóló adatszolgáltatási kötelezettség elmulasztása | 500 000 |
+| 18. | Veszélyes anyagokkal kapcsolatos eseményről, súlyos balesetről szóló adatszolgáltatási kötelezettség elmulasztása | 500 000 |
 
 | 19. | Veszélyes anyagokkal kapcsolatos súlyos balesetről szóló baleseti jelentés határidőre történő benyújtásának elmulasztása | 500 000 |
 
@@ -50,4 +50,4 @@
 
 | 24. | Dominóhatásban érintett üzem adatszolgáltatási kötelezettségének elmulasztása | 500 000 |
 
-[^13]: A 2. melléklet a 176/2016. (VII. 1.) Korm. rendelet 3. §-a, a 713/2020. (XII. 30.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet a 176/2016. (VII. 1.) Korm. rendelet 3. §-a, a 713/2020. (XII. 30.) Korm. rendelet 26. § b) pontja, a 408/2022. (X. 24.) Korm. rendelet 1. §-a szerint módosított szöveg.

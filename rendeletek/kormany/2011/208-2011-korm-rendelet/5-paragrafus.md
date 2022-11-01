@@ -1,5 +1,3 @@
-## 3–4. §
-
 ## 3. A katasztrófavédelmi bírság
 
 5. § (1)[^3] A hivatásos katasztrófavédelmi szerv (a továbbiakban: hatóság) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény IV. fejezete hatálya alá tartozó eljárásban a 2. mellékletben szereplő szabályszegések esetén az ott meghatározott összegű katasztrófavédelmi bírság kiszabására jogosult.
