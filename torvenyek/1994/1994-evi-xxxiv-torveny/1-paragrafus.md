@@ -30,7 +30,7 @@
 
 8. büntetés-végrehajtási feladatokat lát el,
 
-9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet, a váratlan támadás és a veszélyhelyzet esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
+9. ellátja különleges jogrendben a hatáskörébe utalt rendvédelmi feladatokat, illetve hadiállapot idején közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
 
 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, részt vesz a jogellenes bevándorlás megakadályozásában.
 
@@ -61,3 +61,5 @@ c) megakadályozza, hogy magánszemélyek, csoportok, szervezetek terrorszerveze
 20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.
 
 21. biztosítja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 35. cikk (1) bekezdésében meghatározott hatásszinteknek megfelelő határellenőrzést.
+
+22. ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat.
