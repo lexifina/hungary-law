@@ -52,7 +52,7 @@ c) építési beruházás esetén az építőanyag-eladót,
 
 22. hamis nyilatkozat: olyan nyilatkozat, amely hamis adatot tartalmaz,
 
-23. honvédelmi érdek: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § g) pontjában ekként meghatározott fogalom,
+23. honvédelmi érdek: a honvédelemről szóló törvényben ekként meghatározott fogalom,
 
 24. honvédelmi szabvány: valamely, a honvédelem területén rendszeres vagy folyamatos alkalmazásra szolgáló műszaki leírások kidolgozására szakosodott szabványügyi szervezet által elfogadott, nem kötelező érvényű műszaki leírás,
 
