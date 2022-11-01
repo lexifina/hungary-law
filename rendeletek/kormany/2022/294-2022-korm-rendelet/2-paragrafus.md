@@ -4,7 +4,7 @@
 
 2. b) pontja szerinti bejelentést a tűzifát külföldre kivinni szándékozó
 
-## természetes személy, egyéni vállalkozó vagy jogi személy vagy egyéb szervezet (a továbbiakban együtt: bejelentő) írásban, magyar nyelven teszi meg.
+természetes személy, egyéni vállalkozó vagy jogi személy vagy egyéb szervezet (a továbbiakban együtt: bejelentő) írásban, magyar nyelven teszi meg.
 
 (2) A bejelentés tartalmazza
 
@@ -50,6 +50,6 @@ a) értékesítésére vonatkozó szerződés vagy az elfogadott ajánlat, valam
 
 b) szállításáról szóló szerződés, illetve egyéb, a külföldre történő kiszállítást igazoló okirat
 
-## másolatát.
+másolatát.
 
 (5) A (4) bekezdésben meghatározott okiratok nem magyar nyelven történő kiállítása esetén azok magyar nyelvű fordítását is csatolni kell a bejelentéshez.
