@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-814-20-
 | 2022-07-30 | 2021-814-20-22.7 | 270/2022. (VII. 29.) Korm. rendelet |
 | 2022-08-02 | 2021-814-20-22.8 | 282/2022. (VIII. 1.) Korm. rendelet |
 | 2022-09-19 | 2021-814-20-22.9 | 357/2022. (IX. 19.) Korm. rendelet |
+| 2022-11-01 | 2021-814-20-22.10 | 2021. évi I. törvény |
