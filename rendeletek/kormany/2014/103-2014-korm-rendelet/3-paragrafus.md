@@ -1,5 +1,0 @@
-3. § (1) A kijelölt postai szolgáltatók a postai szolgáltatások tervezése, kialakítása, fejlesztése és működtetése során kötelesek együttműködni a védelmi igazgatási szervekkel és olyan módon eljárni, hogy a postai szolgáltatások megbízhatósága, rugalmassága és védettsége növekedjen, és a védelmi igénybevétel szempontjából a postai szolgáltatások hozzáférhetőek legyenek.
-
-(2) A kijelölt postai szolgáltatók a honvédelmi és katasztrófavédelmi felkészítés feladatait folyamatosan végzik, honvédelmi intézkedési tervet és veszélyelhárítási (katasztrófa-elhárítási) tervet (a továbbiakban együtt: tervek) készítenek, továbbá biztosítják a tervek naprakészségét és a tevékenység időszakonkénti gyakorlását.
-
-(3) A postai szolgáltatás különleges jogrend időszaki alkalmazásra történő előkészítéséhez a kijelölt postai szolgáltatók postai szolgáltatások nyújtására vonatkozó meglévő erőforrásait – az adott helyzetben szükséges mértékű átcsoportosítással – a postai szolgáltatás rendeltetésszerű nyújtását nem veszélyeztető mértékéig kell igénybe venni.
