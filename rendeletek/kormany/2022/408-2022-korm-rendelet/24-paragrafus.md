@@ -1,0 +1,1 @@
+24. § Hatályát veszti az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 14. § (9) bekezdésében a „ , ha a kirendeléssel érintett intézménynek az OKFŐ a fenntartója” szövegrész.

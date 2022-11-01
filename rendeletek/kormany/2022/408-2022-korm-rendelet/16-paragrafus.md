@@ -1,0 +1,1 @@
+16. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendelet 7. § (2) bekezdés c) pontjában a „szerint.” szövegrész helyébe a „szerint, vagy” szöveg lép.
