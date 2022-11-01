@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-782-20-
 | 2022-06-01 | 2021-782-20-22.4 | 2021. évi I. törvény |
 | 2022-06-18 | 2021-782-20-22.5 | 215/2022. (VI. 17.) Korm. rendelet |
 | 2022-10-15 | 2021-782-20-22.6 | 390/2022. (X. 14.) Korm. rendelet |
+| 2022-11-01 | 2021-782-20-22.7 | 2021. évi I. törvény |
