@@ -18,7 +18,7 @@ g) rendszeres és tényszerű tájékoztatást nyújt a hazai nemzetiségek éle
 
 h) választási időszakban külön törvényben meghatározottak szerint gondoskodik a tájékoztatásról,
 
-i) rendkívüli állapot, illetve szükségállapot idején külön törvényben meghatározott feladatokat végez,
+i) különleges jogrendben törvényben meghatározott feladatokat végez,
 
 j) gondoskodik a tevékenysége során birtokába került kulturális értékek és történelmi jelentőségű eredeti dokumentumok tartós megőrzéséről és védelméről,
 
@@ -34,4 +34,4 @@ c) az ország nemzetközi kapcsolatrendszerének és érdekeinek megfelelő kül
 
 tudósítói hálózatot működtet.
 
-(3) Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő készültségi erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, illetve törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdés szerint kötelezhetik a közszolgálati médiaszolgáltatót – hírügynökségi tevékenysége körében – a tájékoztatásra.
+(3) Különleges jogrendben, valamint váratlan támadás esetén az Országgyűlés és a Kormány, illetve törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdése szerint kötelezhetik a közszolgálati médiaszolgáltatót – hírügynökségi tevékenysége körében – a tájékoztatásra.

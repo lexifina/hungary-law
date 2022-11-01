@@ -12,7 +12,7 @@ bb) kiemelten nagy jelentőséggel bíró esemény közvetítésével kapcsolato
 
 bc)
 
-bd) a rendkívüli helyzetekre vonatkozó, médiaszolgáltatást érintő rendelkezések,
+bd) a különleges jogrendre, valamint a váratlan támadásra vonatkozó, médiaszolgáltatást érintő rendelkezések,
 
 be) a műsorkvótákra vonatkozó követelmények,
 

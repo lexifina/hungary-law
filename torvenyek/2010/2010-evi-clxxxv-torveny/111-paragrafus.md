@@ -44,6 +44,10 @@ n) a hírközlés területén másodfokú szervként jár el a Hivatal törvény
 
 o)
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 (6) Az Elnököt nem lehet utasítani feladatkörének ellátásával és hatáskörének gyakorlásával kapcsolatos eljárása és döntése vonatkozásában. Az Elnök – a Hivatal törvényben meghatározott hatósági ügyei tekintetében – egyedi döntésre a Hivatalnak utasítást nem adhat.

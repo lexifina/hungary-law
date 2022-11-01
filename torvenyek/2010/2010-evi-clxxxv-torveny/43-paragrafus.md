@@ -16,7 +16,7 @@ d) a 118. § (1) bekezdés a)–b) pont, illetve e bekezdés b)–c) pont alá e
 
 a) párt, a párt által létrehozott vállalkozás,
 
-b) állami és közigazgatási szerv, kivéve, ha rendkívüli vagy szükségállapot esetén alkalmazandó törvény másként rendelkezik,
+b) állami és közigazgatási szerv, kivéve, ha különleges jogrend esetén alkalmazandó törvény másként rendelkezik,
 
 c) olyan vállalkozás, amelyben a magyar államnak befolyásoló részesedése van,
 

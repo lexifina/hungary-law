@@ -2,7 +2,13 @@
 
 207. § (1) A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) szerinti analóg, földfelszíni terjesztésű műsorszolgáltatási jogosultság és az e törvény szerinti állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság – a 203. § 32. pontja szerinti közszolgálati médiaszolgáltatók médiaszolgáltatásai kivételével – kizárólag a Médiatanács által kötött hatósági szerződés alapján gyakorolható.
 
-(2)–(5)
+(2)
+
+(3)
+
+(4)
+
+(5)
 
 (6) A JBE lineáris audiovizuális médiaszolgáltató a 206. § (3a) bekezdése alapján kiadott jogszabály hatálybalépéséig a legnagyobb éves átlagos közönségarányú lineáris audiovizuális médiaszolgáltatásáért programdíjat (műsordíjat) nem kérhet.
 

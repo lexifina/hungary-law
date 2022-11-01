@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2021-11-18 | 2021. évi CXXII. törvény | 2010-185-00-00.44 |
 | 2022-05-25 | 2022. évi IV. törvény | 2010-185-00-00.45 |
 | 2022-08-01 | 2022. évi XVIII. törvény | 2010-185-00-00.46 |
+| 2022-11-01 | 2021. évi CXLII. törvény | 2010-185-00-00.47 |
