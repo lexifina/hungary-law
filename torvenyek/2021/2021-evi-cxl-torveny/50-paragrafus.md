@@ -1,0 +1,1 @@
+50. § A honvédelmi szervezet kormánytisztviselője vagy honvédelmi alkalmazottja a 12. §-sal összehangolt módon, a Kormány rendeletében meghatározottak szerint köteles a honvédelmi szakfeladatok ellátásához szükséges képesítés megszerzésére és honvédelmi ismereteinek időszakos bővítésére.

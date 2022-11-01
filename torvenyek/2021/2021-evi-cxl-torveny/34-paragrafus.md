@@ -1,0 +1,1 @@
+34. § A katonai szolgálatteljesítés tervezésének lebonyolításához, a hadköteles-nyilvántartás egyeztetéséhez és ellenőrzéséhez megfelelően berendezett helyiséget a hadkiegészítő központ megkeresése alapján a polgármester biztosítja.

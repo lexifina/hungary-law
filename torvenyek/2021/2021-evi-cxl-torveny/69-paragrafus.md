@@ -1,0 +1,1 @@
+69. § A hadkiegészítő és toborzó irodák részt vesznek a gazdasági és anyagi szolgáltatások biztosításának előkészítésében, valamint a toborzó, érdekvédelmi és hadkiegészítési szakfeladatok végrehajtásában.
