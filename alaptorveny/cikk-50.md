@@ -2,14 +2,14 @@
 
 50. cikk
 
-(1) A Magyar Honvédséget szükségállapot idején akkor lehet felhasználni, ha a rendőrség és a nemzetbiztonsági szolgálatok alkalmazása nem elegendő.
+(1) Az Országgyűlés
 
-(2) A szükségállapot idején az Országgyűlés akadályoztatása esetén a köztársasági elnök dönt a Magyar Honvédség (1) bekezdés szerinti felhasználásáról.
+a) az alkotmányos rend megdöntésére, felforgatására vagy a hatalom kizárólagos megszerzésére irányuló cselekmény, vagy
 
-(3) Szükségállapot idején a sarkalatos törvényben meghatározott rendkívüli intézkedéseket rendeleti úton a köztársasági elnök vezeti be. A köztársasági elnök rendeletével – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+b) az élet- és vagyonbiztonságot tömeges mértékben veszélyeztető súlyos, jogellenes cselekmény
 
-(4) A köztársasági elnök a bevezetett rendkívüli intézkedésekről haladéktalanul tájékoztatja az Országgyűlés elnökét. A szükségállapot idején az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – folyamatosan ülésezik. Az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – a köztársasági elnök által bevezetett rendkívüli intézkedések alkalmazását felfüggesztheti.
+esetén szükségállapotot hirdethet ki.
 
-(5) A rendeleti úton bevezetett rendkívüli intézkedések harminc napig maradnak hatályban, kivéve, ha hatályukat az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – meghosszabbítja.
+(2) A szükségállapot kihirdetéséhez az országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(6) A köztársasági elnök rendelete a szükségállapot megszűnésével hatályát veszti.
+(3) A szükségállapot harminc napra hirdethető ki. A szükségállapotot az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával harminc nappal meghosszabbíthatja, ha a szükségállapot kihirdetésére okot adó körülmény továbbra is fennáll.

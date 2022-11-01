@@ -1,11 +1,19 @@
-## A különleges jogrendre vonatkozó közös szabályok
+## A hadiállapotra és a szükségállapotra vonatkozó közös szabályok
 
 54. cikk
 
-(1) Különleges jogrendben az alapvető jogok gyakorlása – a II. és a III. cikkben, valamint a XXVIII. cikk (2)–(6) bekezdésében megállapított alapvető jogok kivételével – felfüggeszthető vagy az I. cikk (3) bekezdése szerinti mértéken túl korlátozható.
+(1) Hadiállapot vagy szükségállapot kihirdetésének Kormány általi kezdeményezését követően a Kormány rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – a kihirdetésre okot adó körülmény azonnali kezeléséhez szükséges mértékben egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
 
-(2) Különleges jogrendben az Alaptörvény alkalmazása nem függeszthető fel, az Alkotmánybíróság működése nem korlátozható.
+(2) A Kormány az (1) bekezdés szerinti rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 
-(3) A különleges jogrendet a különleges jogrend bevezetésére jogosult szerv megszünteti, ha kihirdetésének feltételei már nem állnak fenn.
+(3) Az (1) bekezdés szerinti rendelet hatálya a hadiállapot vagy a szükségállapot kihirdetésére vonatkozó döntésig, de legfeljebb a kihirdetés Kormány általi kezdeményezésétől számított hatvan napig, hadiállapot vagy szükségállapot kihirdetése esetén legfeljebb a hadiállapot vagy a szükségállapot megszűnéséig tart.
 
-(4) A különleges jogrendben alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.
+(4) Ha a hadiállapot vagy a szükségállapot kihirdetésére nem kerül sor, az Országgyűlés törvényt alkot az (1) bekezdés szerinti rendeletben hozott rendkívüli intézkedésekkel összefüggő szabályozási átmenetről.
+
+(5) A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Országgyűlés folyamatos működését szavatolja.
+
+(6) Az Országgyűlés az (1) bekezdés szerinti rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve, ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
+
+(7) Hadiállapot vagy szükségállapot Kormány általi kezdeményezését követően az Alkotmánybíróság működése nem korlátozható. A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Alkotmánybíróság folyamatos működését szavatolja.
+
+(8) A hadiállapot vagy a szükségállapot Kormány általi kezdeményezését követően alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.

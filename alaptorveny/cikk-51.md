@@ -1,13 +1,11 @@
-## A megelőző védelmi helyzet
+## A veszélyhelyzet
 
 51. cikk
 
-(1) Az Országgyűlés külső fegyveres támadás veszélye esetén vagy szövetségi kötelezettség teljesítése érdekében meghatározott időre kihirdeti a megelőző védelmi helyzetet, ezzel egyidejűleg felhatalmazza a Kormányt sarkalatos törvényben meghatározott rendkívüli intézkedések bevezetésére. A megelőző védelmi helyzet időtartama meghosszabbítható.
+(1) A Kormány szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa, továbbá az élet- és vagyonbiztonságot veszélyeztető súlyos esemény – különösen elemi csapás vagy ipari szerencsétlenség – esetén, valamint ezek következményeinek az elhárítása érdekében veszélyhelyzetet hirdethet ki.
 
-(2) Az (1) bekezdés szerinti különleges jogrend kihirdetéséhez, meghosszabbításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(2) A veszélyhelyzet harminc napra hirdethető ki.
 
-(3) A Kormány rendeletben a megelőző védelmi helyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség és a rendvédelmi szervek működését érintő törvényektől eltérő intézkedéseket vezethet be, amelyekről a köztársasági elnököt és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságait folyamatosan tájékoztatja. Az így bevezetett intézkedések hatálya az Országgyűlés megelőző védelmi helyzet kihirdetésére vonatkozó döntéséig, de legfeljebb hatvan napig tart.
+(3) A Kormány a veszélyhelyzetet az Országgyűlés felhatalmazása alapján meghosszabbíthatja, ha a veszélyhelyzet kihirdetésére okot adó körülmény továbbra is fennáll.
 
-(4) A Kormány a megelőző védelmi helyzet idején rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
-
-(5) A Kormány rendelete a megelőző védelmi helyzet megszűnésével hatályát veszti.
+(4) A (3) bekezdés szerinti felhatalmazásról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt.

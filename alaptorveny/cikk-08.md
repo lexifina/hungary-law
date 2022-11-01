@@ -22,7 +22,7 @@ f) az Országgyűlés feloszlásáról;
 
 g) képviselő-testület feloszlatásáról;
 
-h) hadiállapot kinyilvánításáról, rendkívüli állapot és szükségállapot kihirdetéséről, valamint megelőző védelmi helyzet kihirdetéséről és meghosszabbításáról;
+h) háborús helyzet kinyilvánításáról, békekötésről, hadiállapot kihirdetéséről és megszüntetéséről, valamint szükségállapot kihirdetéséről, meghosszabbításáról és megszüntetéséről;
 
 i) katonai műveletekben való részvétellel kapcsolatos kérdésről;
 

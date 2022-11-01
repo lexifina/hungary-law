@@ -22,10 +22,12 @@ f) megválasztja a miniszterelnököt, dönt a Kormánnyal kapcsolatos bizalmi k
 
 g) feloszlatja az alaptörvény-ellenesen működő képviselő-testületet;
 
-h) határoz a hadiállapot kinyilvánításáról és a békekötésről;
+h) határoz a háborús helyzet kinyilvánításáról és a békekötésről;
 
 i) különleges jogrendet érintő, valamint katonai műveletekben való részvétellel kapcsolatos döntéseket hoz;
 
 j) közkegyelmet gyakorol;
 
 k) az Alaptörvényben és törvényben meghatározott további feladat- és hatásköröket gyakorol.
+
+(3) A háborús helyzet kinyilvánításához, valamint a békekötéshez az országgyűlési képviselők kétharmadának szavazata szükséges.

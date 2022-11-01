@@ -1,11 +1,11 @@
-## A veszélyhelyzet
-
 53. cikk
 
-(1) A Kormány szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa, továbbá az élet- és vagyonbiztonságot veszélyeztető elemi csapás vagy ipari szerencsétlenség esetén, valamint ezek következményeinek az elhárítása érdekében veszélyhelyzetet hirdet ki, és sarkalatos törvényben meghatározott rendkívüli intézkedéseket vezethet be.
+(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
 
-(2) A Kormány a veszélyhelyzetben rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+(2) A Kormány a különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 
-(3) A Kormány (2) bekezdés szerinti rendelete tizenöt napig marad hatályban, kivéve, ha a Kormány – az Országgyűlés felhatalmazása alapján – a rendelet hatályát meghosszabbítja.
+(3) Az Országgyűlés a Kormány által különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve, ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 
-(4) A Kormány rendelete a veszélyhelyzet megszűnésével hatályát veszti.
+(4) A különleges jogrendet a különleges jogrend kihirdetésére jogosult szerv megszünteti, ha kihirdetésének feltételei már nem állnak fenn.
+
+(5) A Kormány által különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendelet a különleges jogrend megszűnésekor hatályát veszti.

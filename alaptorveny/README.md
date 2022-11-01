@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00
 | 2020-12-23 | Magyarország Alaptörvényének kilencedik módosítása | 2011-4301-02-00.11 |
 | 2022-05-25 | Magyarország Alaptörvényének tizedik módosítása | 2011-4301-02-00.12 |
 | 2022-07-23 | Magyarország Alaptörvényének tizenegyedik módosítása | 2011-4301-02-00.13 |
+| 2022-11-01 | Magyarország Alaptörvényének kilencedik módosítása | 2011-4301-02-00.14 |
