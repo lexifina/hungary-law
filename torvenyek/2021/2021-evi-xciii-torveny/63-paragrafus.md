@@ -1,0 +1,21 @@
+## 27. A védelmi és biztonsági igazgatás területi és helyi igazgatási szerveinek gazdasági és anyagi szolgáltatással összefüggő adatnyilvántartása
+
+63. § (1) A gazdasági és anyagi szolgáltatási kötelezettséggel összefüggő területi, helyi és települési szintű feladatai teljesítése érdekében, a területi védelmi bizottság elnöke, a helyi védelmi bizottság elnöke és a polgármester hatáskörébe tartozó igénybevételi jog gyakorlásának segítése, a területi, a helyi és a települési szintű gazdasági és anyagi szolgáltatások és a gazdasági és anyagi szolgáltatásra kötelezettek körének megállapítása, valamint a gazdasági és anyagi szolgáltatás igénybevételének területi, helyi és települési szintű tervezése és végrehajtásának koordinálása céljából a területi bizottság elnöke, a helyi védelmi bizottság elnöke és a polgármester a 3. melléklet szerinti, valamint kormányrendelet által előírt ingatlanra, szolgáltatásra, technikai eszközre vonatkozó műszaki, technikai adatokról nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartásba betekintésre jogosult
+
+a) a katasztrófák elleni védekezésért felelős miniszter,
+
+b) a honvédelemért felelős miniszter,
+
+c) a védelemgazdaság központi tervező szerve,
+
+d) a Honvédség parancsnoka,
+
+e) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint
+
+f) a hivatásos katasztrófavédelmi szerv központi szerve.
+
+(3) Az (1) bekezdés szerint nyilvántartott adatok a gazdasági és anyagi szolgáltatási kötelezettség teljesítésére kötelezés időtartama alatt kezelhetők.
+
+(4) A gazdasági és anyagi szolgáltatásra kötelezett a bejelentett adatok változásáról, szolgáltatási tevékenységének a megszűnéséről vagy megszüntetéséről 8 napon belül, a változási adatok megküldésével értesíti a területi védelmi bizottság elnökét.

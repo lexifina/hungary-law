@@ -1,0 +1,27 @@
+## 45. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+85. § (1) E törvény
+
+a) 6. § (1) bekezdés a)–d) pontja és 7. §-a az Alaptörvény XXXI. cikk (4), (5) és (6) bekezdése alapján,
+
+b) 4. alcíme az Alaptörvény XXXI. cikk (5) bekezdése alapján,
+
+c) 5. alcíme az Alaptörvény XXXI. cikk (6) bekezdése alapján,
+
+d) 79–81. §-a az Alaptörvény 52. cikk (5) bekezdése és 54. cikk (8) bekezdése alapján,
+
+e) 82. §-a az Alaptörvény T) cikk (1) bekezdése alapján,
+
+f) 86. §-a és 87. § (1) bekezdése az Alaptörvény 46. cikk (6) bekezdése alapján,
+
+g) 91. § (1)–(6) bekezdése, 91. § (7) bekezdés a)–g) pontja, és j)–k) pontja, 91. § (8) bekezdés a)–h) pontja, m) pontja, és p)–s) pontja az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, 52. cikk (5) bekezdése és 54. cikk (8) bekezdése alapján,
+
+h) 92. § (5) bekezdés f) pontja az Alaptörvény 52. cikk (5) bekezdése alapján,
+
+i) 92. § (5) bekezdés g) pontja az Alaptörvény XXXI. cikk (5) bekezdése alapján,
+
+j) 92. § (5) bekezdés h) pontja az Alaptörvény XXXI. cikk (6) bekezdése alapján
+
+sarkalatosnak minősül.
+
+(2) A 93. § az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.

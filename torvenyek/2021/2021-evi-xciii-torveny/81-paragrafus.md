@@ -1,0 +1,5 @@
+81. § (1) Különleges jogrendben a 80. § (3) bekezdése szerinti célok érdekében az alapvető jogok korlátozására kizárólag a különleges jogrendet kiváltó eseményhez igazodó feltétlenül szükséges mértékben, az elérni kívánt céllal arányosan kerülhet sor.
+
+(2) Különleges jogrendben az alapvető jogok felfüggesztésére kizárólag akkor kerülhet sor, ha az alapvető jogok (1) bekezdés szerinti korlátozása a 80. § (3) bekezdése szerinti cél érdekében nem elégséges, és a különleges jogrendet kiváltó esemény megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása más módon nem garantálható.
+
+(3) Az alapvető jogok korlátozásával és felfüggesztésével összefüggő, (1) és (2) bekezdés szerinti követelményektől eltérni nem lehet, azok érvényesülését a Kormány folyamatosan biztosítani köteles. Ha az alapvető jog korlátozásának vagy felfüggesztésének (1) és (2) bekezdés szerinti feltételei nem állnak fenn, a Kormány haladéktalanul köteles gondoskodni az alapvető jog korlátozásának vagy felfüggesztésének megszüntetéséről.

@@ -1,0 +1,3 @@
+43. § (1) A nemzeti ellenálló képesség fejlesztésével összefüggő állami és nem állami kérdések megvitatása, valamint az ezekkel összefüggő javaslatok megfogalmazása érdekében a miniszterelnök vezetésével – a Kormány rendeletében meghatározottak szerint – Nemzeti Védelmi és Biztonsági Fórum működik. A Nemzeti Védelmi és Biztonsági Fórum működésének szervezéséért a védelmi és biztonsági igazgatás központi szerve felelős.
+
+(2) A nemzeti ellenálló képesség erősítése érdekében a kormány elősegíti saját szervei, valamint a magán- és jogi személyek korszerű adatgazdálkodását, adathasznosítását és adatvédelmét, továbbá figyelemmel kíséri a védelmi és biztonsági kihívások, valamint a védelmi technológiák fejlődését.

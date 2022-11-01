@@ -1,0 +1,1 @@
+18. § A szolgáltatás teljesítése miatt felmerült vagyoni hátrányért – a törvényben meghatározott esetek kivételével – a nemzetgazdaság védelmi és biztonsági célú felkészítésével összefüggő intézkedésekre irányadó szabályok szerint – kártalanítás jár.

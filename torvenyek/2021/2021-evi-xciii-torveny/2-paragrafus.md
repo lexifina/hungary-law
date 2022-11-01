@@ -1,0 +1,1 @@
+2. § Az 1. §-ban meghatározottak biztosításának és az ezzel összefüggő korszerű biztonságfelfogás előmozdításának egységes irányítása, valamint az ebben érintett szervezetek, képességek és erőforrások működtetésének, illetve kiaknázásának összehangolása állami feladat.

@@ -1,0 +1,3 @@
+17. § (1) A lakosság létfenntartása szempontjából nélkülözhetetlen egyéb termelési és szolgáltatási tevékenységet végzők kérelemre mentesíthetők a szolgáltatás alól.
+
+(2) A nem állami fenntartású egészségügyi szolgáltatás nyújtására jogosult, valamint az egészségügyi hatóság által kiadott működési engedély alapján egészségügyi szolgáltatást nyújtó egyéni egészségügyi vállalkozó, jogi személy vagy jogi személyiség nélküli szervezet (a továbbiakban együtt: egészségügyi szolgáltató) e minőségükben, továbbá a gyógyszertárak, valamint ezek egészségügyi célt szolgáló berendezései csak egészségügyi szolgáltatás céljára vehetők igénybe.
