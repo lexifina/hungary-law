@@ -2,7 +2,7 @@
 
 53. § (1) A területi védelmi bizottságok irányítását a Kormány – az ágazati védekezési és felkészülési feladatok irányítását ide nem értve – a védelmi és biztonsági igazgatás központi szerve útján látja el.
 
-(2) A területi védelmi bizottság elnöke a fővárosi, megyei kormánymegbízott, általános elnökhelyettese a fővárosi, megyei kormányhivatal főigazgatója. Szakmai elnökhelyettesek – a védelmi és biztonsági igazgatás központi szervének vezetője egyetértésével – a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője, honvédelmi feladatok tekintetében a honvédelemért felelős miniszter által kijelölt, a Honvédség tényleges állományának tiszti állománycsoportba tartozó tagja.
+(2) A területi védelmi bizottság elnöke a fővárosi, megyei főispán, általános elnökhelyettese a fővárosi, megyei kormányhivatal főigazgatója. Szakmai elnökhelyettesek – a védelmi és biztonsági igazgatás központi szervének vezetője egyetértésével – a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője, honvédelmi feladatok tekintetében a honvédelemért felelős miniszter által kijelölt, a Honvédség tényleges állományának tiszti állománycsoportba tartozó tagja.
 
 (3) A területi védelmi bizottság tagja az elnökön és az elnökhelyetteseken kívül
 

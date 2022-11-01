@@ -1,0 +1,9 @@
+66/A. § (1) A védelmi és biztonsági igazgatás központi szervének az érintett azonosítását lehetővé tevő adat kezelése során az érintettet megillető jogosultságok érvényesítésére irányuló kérelem alapján megtett intézkedésekről, illetve a kérelem elutasításáról az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 15. § (1) bekezdés b) pontjában, valamint a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről (általános adatvédelmi rendelet) szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 12. cikk (3) és (4) bekezdésében foglaltaktól eltérően a kérelem beérkezésétől számított legkésőbb kilencven napon belül kell tájékoztatnia az érintettet, ha az állam külső és belső biztonságának hatékony és eredményes védelme az eltérést szükségessé teszi, azzal, hogy e határidő további meghosszabbítása nem lehetséges.
+
+(2) Ha az érintett a védelmi és biztonsági igazgatás központi szerve által kezelt személyes adataival kapcsolatban az őt megillető jogosultságok érvényesítésére irányuló
+
+a) kérelme alapján a védelmi és biztonsági igazgatás központi szerve által megtett intézkedésekről, illetve a kérelem elutasításáról az Infotv. 15. § (1) bekezdés b) pontjában, illetve az általános adatvédelmi rendelet 12. cikk (3) és (4) bekezdésében meghatározott határidőben nem kap tájékoztatást, vagy
+
+b) kérelmét a védelmi és biztonsági igazgatás központi szerve elutasítja vagy e jogosultságoknak az érvényesítését korlátozza
+
+az érintett – a rendelkezésére álló egyéb jogorvoslati lehetőségek mellett – a védelmi és biztonsági igazgatás központi szerve intézkedése jogszerűségének vizsgálata céljából az Infotv. 51/A. § (2) bekezdésében meghatározott vizsgálatot is kezdeményezheti a Hatóságnál.

@@ -1,3 +1,3 @@
-## 44. Hatályba léptető rendelkezések
+## 44.
 
-84. § Ez a törvény 2023. július 1-jén lép hatályba.
+### 84. §

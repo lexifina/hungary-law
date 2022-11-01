@@ -6,4 +6,4 @@
 
 (3) A védelmi és biztonsági igazgatás központi szerve a 2. mellékletben meghatározott adatokat a biztonsági feladatot ellátó foglalkoztatottak jogviszonyának megszűnéséig vagy megszüntetéséig kezeli.
 
-(4) A védelmi és biztonsági célú adatkezelés szervei a feladatkörükkel összefüggésben az (1) bekezdésben meghatározott cél érdekében a kiértesítéssel és a riasztással kapcsolatos nyilvántartáshoz az adatszolgáltatást a 66. § (3) bekezdése alapján teljesítik.
+(4) A 60. § (1) bekezdés a), b), d) és e) pontja szerinti szervek, szervezetek a feladatkörükkel összefüggésben az (1) bekezdésben meghatározott cél érdekében a kiértesítéssel és a riasztással kapcsolatos nyilvántartáshoz adatszolgáltatást teljesítenek.

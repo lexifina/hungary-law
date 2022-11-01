@@ -24,7 +24,7 @@ j) a katasztrófák elleni védekezésért felelős miniszter útján, a védelm
 
 (5) Hatályát veszti a Kat.
 
-a) 4. § (1) bekezdésében a „veszélyhelyzetben,” szövegrész,
+a)
 
 b) 5. § e) pontja,
 

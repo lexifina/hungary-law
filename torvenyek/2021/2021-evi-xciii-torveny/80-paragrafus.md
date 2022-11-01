@@ -34,4 +34,4 @@ szabályozási tárgykörökben gyakorolhatja.
 
 (4) A Kormány az (1) bekezdés a) pontja szerinti esetben az (1) bekezdés szerinti hatáskörét – a (3) bekezdésben foglaltak sérelme nélkül – kizárólag olyan intézkedések bevezetésével összefüggésben gyakorolhatja, amelyek az azonnali reagálás érdekében, a kezelendő fenyegetéshez igazodó mértékben szükségesek és arányosak.
 
-(5) Veszélyhelyzetben a települési önkormányzat képviselő-testületének, a fővárosi, megyei közgyűlésnek feladat- és hatáskörét a polgármester, illetve a főpolgármester, a megyei közgyűlés elnöke gyakorolja. Ennek keretében nem foglalhat állást önkormányzati intézmény átszervezéséről, megszüntetéséről, ellátási, szolgáltatási körzeteiről, ha a szolgáltatás a települést is érinti.
+(5)
