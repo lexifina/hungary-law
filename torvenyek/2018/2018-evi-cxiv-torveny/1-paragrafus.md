@@ -6,7 +6,7 @@
 
 1. § (1) A törvény hatálya
 
-a) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 13. pontja szerinti honvédelmi szervezetre – ide nem értve a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumot –,
+a) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 3. § 14. pontja szerinti honvédelmi szervezetre – ide nem értve a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumot –,
 
 b) a miniszter által az állam nevében alapított szakképző intézményre [a továbbiakban az a)–b) pont együtt: honvédelmi szervezet], és
 
