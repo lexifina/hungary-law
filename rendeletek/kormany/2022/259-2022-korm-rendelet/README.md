@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-259-20-
 | 2022-09-10 | 2022-259-20-22.4 | 345/2022. (IX. 9.) Korm. rendelet |
 | 2022-09-11 | 2022-259-20-22.5 | 346/2022. (IX. 9.) Korm. rendelet |
 | 2022-10-15 | 2022-259-20-22.6 | 389/2022. (X. 14.) Korm. rendelet |
+| 2022-11-01 | 2022-259-20-22.7 | 2022. évi VI. törvény |
