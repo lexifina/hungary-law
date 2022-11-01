@@ -1,0 +1,1 @@
+3/A. § A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a Nyilvántartás működését akadályozó körülmény fennállta esetén, annak időtartama alatt, a 3. §-ban foglalt rendelkezéseket nem kell alkalmazni.
