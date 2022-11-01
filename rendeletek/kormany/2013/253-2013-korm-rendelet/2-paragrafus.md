@@ -1,5 +1,3 @@
-## meghatározott fogalmak irányadóak.
-
 ## 2. Nemzeti NER Tájékoztatási Központ
 
 2. § (1)[^1] A Nemzeti NER Tájékoztatási Központ Nemzeti Népegészségügyi Központ keretében működik.
