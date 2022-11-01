@@ -28,6 +28,8 @@ j) jelölje ki a geodéziai tervezői és geodéziai szakértői minősítő és
 
 k) állapítsa meg a honvédelem térképészeti támogatásáért felelős szerv hatáskörébe tartozó hatósági eljárások részletes szabályait.
 
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben a 6. § (8a) bekezdése szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a felelősségi körébe tartozó állami alapadatok és térképi adatbázisainak vonatkoztatási és vetületi rendszerét, alapadat-tartalmát, létrehozásának, felújításának, kezelésének és fenntartásának módját, és az állami átvétel rendjét, valamint az állami adatbázisokból történő szolgáltatás módját,
