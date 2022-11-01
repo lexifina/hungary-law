@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-370-20-
 | --- | --- | --- |
 | 2022-09-30 | 2022-370-20-22.1 | 370/2022. (IX. 29.) Korm. rendelet |
 | 2022-10-14 | 2022-370-20-22.2 | 2022. évi VI. törvény |
+| 2022-11-01 | 2022-370-20-22.3 | 2022. évi VI. törvény |
