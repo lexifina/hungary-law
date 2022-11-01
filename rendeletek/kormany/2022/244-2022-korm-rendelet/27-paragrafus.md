@@ -1,3 +1,3 @@
-27. § (1) A Kormány e rendelet hatályát a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról szóló 2022. évi VI. törvény hatályvesztéséig meghosszabbítja.
+27. §[^25]
 
-(2) Ez a rendelet a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról szóló 2022. évi VI. törvény hatályvesztésekor hatályát veszti.
+[^25]: A 27. § a 425/2022. (X. 28.) Korm. rendelet 1. § (3) bekezdés 12. pontja alapján nem lépett hatályba.
