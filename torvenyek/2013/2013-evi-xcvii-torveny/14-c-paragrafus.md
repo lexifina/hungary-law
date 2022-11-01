@@ -1,3 +1,0 @@
-14/C. § (1) A büntető ügyek nyilvántartásában történő adatkezelés célja a bűncselekmény esetén fennálló felelősség megállapítása érdekében kezdeményezett eljárás lefolytathatóságának, bűncselekmény esetén a döntés-előkészítésnek és döntéshozatalnak biztosítása, továbbá az egyes személyügyi igazgatási eljárások lefolytatásának elősegítése..
-
-(2) A büntető ügyek nyilvántartásában szereplő adatok a szolgálati viszony megszűnéséig vagy megszüntetéséig kezelhetők. Ha a büntetőeljárás a szolgálati viszonyt vagy rendfokozatot érintő szankcióval zárult, a büntető ügyek nyilvántartásában szereplő adatok az érintett személyre irányadó – az eljárás befejezésekor hatályos jogszabályok alapján megállapított – öregségi nyugdíj korhatárig kezelhetők.

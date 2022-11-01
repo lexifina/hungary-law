@@ -1,3 +1,3 @@
-## 13/L. A honvédelmi célú elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság adatkezelése
+## 13/L.
 
-24/O. § A honvédelmi célú elektronikus információs rendszerek biztonságának felügyeletét ellátó kijelölt hatóság az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti hatósági nyilvántartás vezetése során adatkezelést végez.
+24/O. §

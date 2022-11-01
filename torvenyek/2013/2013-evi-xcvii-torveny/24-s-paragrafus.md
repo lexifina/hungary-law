@@ -1,7 +1,0 @@
-24/S. § (1) A biometrikus nyilvántartásba a 24/R. § (2) bekezdése szerinti célok megvalósítása érdekében, a szövetségi és nemzetközi katonai vagy nemzetbiztonsági célú együttműködés keretében biometrikus adat, illetve természetes személyazonosító adat vehető át, illetve abból – ha fennállnak az adattovábbítás Infotv. vagy a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti feltételei – a KNBSZ főigazgatója engedélyével a 24/R. § (1) bekezdése szerinti nyílt és minősített adatok továbbíthatók
-
-a) olyan külföldi államnak vagy nemzetközi szervezetnek, amellyel Magyarország bűnügyi vagy védelmi együttműködési tárgyú nemzetközi szerződésen alapuló együttműködést folytat,
-
-b) Magyarország nemzetbiztonsági és bűnüldözési érdekeire figyelemmel a hatáskörrel rendelkező igazságszolgáltatási, rendőri és idegenrendészeti szerveknek, valamint a polgári nemzetbiztonsági szolgálatoknak.
-
-(2) A Honvédség kijelölt erői és a KNBSZ a 24/R. § (4) bekezdése szerinti érintettek adatait tartalmazó – az (1) bekezdés a) és b) pontjában meghatározott címzettek részére az (1) bekezdés szerint történő – adattovábbításokról – az adattovábbítás tényének, időpontjának, címzettjének és az adattovábbítással érintett személyes adatok körének rögzítésével – az utólagos módosítás lehetőségét kizáró elkülönült, automatizált adattovábbítási nyilvántartást (elektronikus napló) vezet. A nyilvántartásokból az egyes adattovábbításokra vonatkozó adatok az adattovábbítástól számított öt év elteltével törölhetők.

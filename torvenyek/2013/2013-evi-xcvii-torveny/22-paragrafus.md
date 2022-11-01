@@ -1,13 +1,3 @@
-## 13/B. A képrögzítésre alkalmas elektronikus megfigyelőrendszerrel kapcsolatos nyilvántartás
+## 13/B.
 
-22. § (1) A honvédelmi szervezet az elhelyezésére szolgáló objektumban képrögzítésre vagy kép- és hangrögzítésre alkalmas elektronikus megfigyelőrendszert telepíthet, amely alkalmazásával a honvédelmi szervezet az elhelyezésére szolgáló objektumban, valamint annak közvetlen környezetében tartózkodó személyekről felvételt készíthet az élet- és vagyonbiztonság, valamint a minősített adatok védelme érdekében. Az adatokat a kép-, illetve a kép- és hangrögzítésre alkalmas elektronikus megfigyelőrendszert alkalmazó honvédelmi szervezet kezeli. Az objektum őrzését ellátó megbízás alapján az adatokat rögzítheti és tárolhatja, e tekintetben adatfeldolgozónak minősül, az adatfeldolgozás feltételeit szerződés tartalmazza.
-
-(2) A kép-, illetve a kép- és hangrögzítésre alkalmas elektronikus megfigyelőrendszer alkalmazása esetén jól látható helyen figyelemfelhívó piktogramot és adatkezelési tájékoztatót kell elhelyezni.
-
-(3) Nem alkalmazható kép-, illetve kép- és hangfelvétel rögzítésére alkalmas elektronikus megfigyelő rendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sérti, különösen öltözőben, mosdóban, illemhelyen, a személyi állomány pihenésére rendelt helyiségekben, illetve betegellátást végző helyiségben.
-
-(4) A rögzített kép-, illetve kép- és hangfelvétel a rögzítéstől számított 60 napig tárolható, azt követően haladéktalanul törölni kell.
-
-(5) A (4) bekezdés szerinti időtartamon belül a rögzített kép-, illetve kép- és hangfelvétel a jogszabályban meghatározott szabálysértési, igazságszolgáltatási és fegyelmi eljárás, büntetőeljárás vagy más hatósági eljárás lefolytatása céljából az előkészítő eljárást folytató szerv, a nyomozó hatóság, a szabálysértési hatóság, a fegyelmi ügyben eljáró szerv, az ügyészség, a bíróság, vagy más hatóság a törvényben meghatározott nemzetbiztonsági feladatok ellátása céljából a nemzetbiztonsági szolgálatok valamint az érintett jogainak gyakorlása céljából, az érintett részére továbbítható.
-
-(6) Az, akinek jogát vagy jogos érdekét a kép-, illetve a kép- és hangfelvétel rögzítése érinti, az (5) bekezdésben megjelölt eljárás lefolytatásához kérheti, hogy az adatot annak kezelője az adat továbbításáig ne törölje. A kérelem benyújtására a képfelvétel rögzítésétől számított 60 napon belül van lehetőség. Bíróság, ügyészség, nyomozóhatóság vagy más hatóság adatszolgáltatás kérésére a rögzített kép-, illetve kép- és hangfelvételt haladéktalanul meg kell küldeni. Ha a kérelem benyújtásától számított 60 napon belül nem kerül sor megkeresésre, a rögzített kép-, illetve kép- és hangfelvételt törölni kell.
+22. §
