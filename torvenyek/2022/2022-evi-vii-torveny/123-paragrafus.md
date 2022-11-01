@@ -1,1 +1,1 @@
-123. §
+123. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 110. § (1) bekezdés 12. pontja az „eljárási szabályait” szövegrész helyett az „eljárási szabályait és az eljáró hatóságot” szöveggel lép hatályba.

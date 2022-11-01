@@ -1,1 +1,17 @@
-107. §
+107. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény a következő 66/A. és 66/B. §-sal kiegészülve lép hatályba:
+
+„66/A. § (1) A védelmi és biztonsági igazgatás központi szervének az érintett azonosítását lehetővé tevő adat kezelése során az érintettet megillető jogosultságok érvényesítésére irányuló kérelem alapján megtett intézkedésekről, illetve a kérelem elutasításáról az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 15. § (1) bekezdés b) pontjában, valamint a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről (általános adatvédelmi rendelet) szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 12. cikk (3) és (4) bekezdésében foglaltaktól eltérően a kérelem beérkezésétől számított legkésőbb kilencven napon belül kell tájékoztatnia az érintettet, ha az állam külső és belső biztonságának hatékony és eredményes védelme az eltérést szükségessé teszi, azzal, hogy e határidő további meghosszabbítása nem lehetséges.
+
+(2) Ha az érintett a védelmi és biztonsági igazgatás központi szerve által kezelt személyes adataival kapcsolatban az őt megillető jogosultságok érvényesítésére irányuló
+
+a) kérelme alapján a védelmi és biztonsági igazgatás központi szerve által megtett intézkedésekről, illetve a kérelem elutasításáról az Infotv. 15. § (1) bekezdés b) pontjában, illetve az általános adatvédelmi rendelet 12. cikk (3) és (4) bekezdésében meghatározott határidőben nem kap tájékoztatást, vagy
+
+b) kérelmét a védelmi és biztonsági igazgatás központi szerve elutasítja vagy e jogosultságoknak az érvényesítését korlátozza
+
+az érintett – a rendelkezésére álló egyéb jogorvoslati lehetőségek mellett – a védelmi és biztonsági igazgatás központi szerve intézkedése jogszerűségének vizsgálata céljából az Infotv. 51/A. § (2) bekezdésében meghatározott vizsgálatot is kezdeményezheti a Hatóságnál.
+
+66/B. § (1) Ha – az állam külső és belső biztonságának hatékony és eredményes védelme biztosításával összefüggő – a védelmi és biztonsági igazgatás központi szerve által kezelt, a beszerzésekre, a szerződésekre, a gazdálkodási adatokra, a személyi állományra, valamint a védelmi és biztonsági igazgatás központi szerve által működtetett nemzeti eseménykezelő központ felépítésére, működésére, technikai eszközeire és felszerelésére vonatkozó valamely adat megismerése Magyarország honvédelmi vagy nemzetbiztonsági érdekeit veszélyezteti, annak megismerése iránti igény teljesítését az adat keletkezésétől számított tíz évig meg kell tagadni.
+
+(2) Az (1) bekezdés szerinti igény teljesíthetőségéről – Magyarország nemzetbiztonsági, illetve honvédelmi érdekeit mérlegelve – a védelmi és biztonsági igazgatás központi szervének vezetője a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter véleményének kikérésével dönt.
+
+(3) A (2) bekezdésben meghatározott véleményt legkésőbb az annak kialakítására irányuló kérés beérkezését követő tizenöt napon belül kell megadni. A vélemény megkérésétől annak megadásáig vagy a véleményadási határidő eredménytelen elteltéig terjedő időtartam az adat megismerése iránti igény teljesítésére rendelkezésre álló határidőbe nem számít bele.”
