@@ -40,6 +40,8 @@
 
 (20)[^122] A 3. számú melléklet EÜ90 36. pontja alapján 2020. január 31-ig felírt vények kiválthatóak és elszámolhatóak kiemelt támogatással a 2. számú melléklet EÜ100 71. pontja szerint.
 
+(21)[^123] A 2. melléklet EÜ100 77/a1. és EÜ100 77/a2. pontja alá befogadott gyógyszereket vényen kizárólag a gyógyszerek társadalombiztosítási támogatásba történő befogadásának, a befogadás és a támogatás mértéke megállapításának, valamint a támogatás megváltoztatásának részletes szabályairól szóló 452/2017. (XII. 27.) Korm. rendelet 22/A. §-a szerinti eljárás 28. § (3) bekezdése szerinti eredményének érvénybe lépésétől lehet rendelni.
+
 [^103]: A 24/A. §-t a 31/2010. (V. 13.) EüM rendelet 8. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 12. § a) pontja, újonnan a 47/2011. (VII. 27.) NEFMI rendelet 7. §-a iktatta be.
 [^104]: A 25. §-t a 36/2010. (V. 14.) EüM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 5. §-a, újonnan a 2/2012. (I. 3.) NEFMI rendelet 5. §-a iktatta be.
 [^105]: A 25. § (1) bekezdését az 54/2016. (XII. 30.) EMMI rendelet 35. § (2) bekezdés b) pontja hatályon kívül helyezte.
@@ -60,3 +62,4 @@
 [^120]: A 25. § (18) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 4. §-a iktatta be.
 [^121]: A 25. § (19) bekezdését a 36/2019. (XII. 30.) EMMI rendelet 2. § (3) bekezdése iktatta be.
 [^122]: A 25. § (20) bekezdését a 3/2020. (I. 31.) EMMI rendelet 1. §-a iktatta be.
+[^123]: A 25. § (21) bekezdését a 37/2022. (X. 28.) BM rendelet 4. § (1) bekezdése iktatta be.
