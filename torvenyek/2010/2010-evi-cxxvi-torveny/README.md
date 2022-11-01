@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-126-00-00
 | 2021-09-01 | 2021. évi LXIII. törvény | 2010-126-00-00.25 |
 | 2021-12-01 | 2021. évi CXIX. törvény | 2010-126-00-00.26 |
 | 2022-01-01 | 2021. évi LXIII. törvény | 2010-126-00-00.27 |
+| 2022-11-01 | 2022. évi VII. törvény | 2010-126-00-00.28 |
