@@ -1,0 +1,1 @@
+A postai szolgáltatásokról szóló 2012. évi CLIX. törvény 78. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 9. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
