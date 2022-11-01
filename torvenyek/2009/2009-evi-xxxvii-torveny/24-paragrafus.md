@@ -36,7 +36,7 @@ p) különleges védelmi rendeltetések:
 
 pa) árvízvédelmi: a folyók nagyvízi medrében elhelyezkedő, az árhullámok biztonságos levezetését biztosító erdő;
 
-pb) honvédelmi: a Magyar Honvédség szervezeteinek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben (a továbbiakban: Hvt.) meghatározott feladatai ellátására a Hvt. 42. § (1) bekezdésében foglaltak szerint rendelkezésre bocsátott erdő;
+pb) honvédelmi: a Magyar Honvédség szervezeteinek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvényben (a továbbiakban: Hvt.) meghatározott feladatai ellátására a Hvt. 53. § (1) bekezdésében foglaltak szerint rendelkezésre bocsátott erdő;
 
 pc) határrendészeti: a határrendészeti és nemzetbiztonsági feladatok ellátására kijelölt erdő.
 
