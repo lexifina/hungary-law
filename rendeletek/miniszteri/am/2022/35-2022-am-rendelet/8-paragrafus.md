@@ -1,3 +1,3 @@
-8. § Az 57/2020. (XI. 13.) AM rendelet 24. §-a a következő e) és f) ponttal egészül ki:
+8. §[^9]
 
-(Ez a rendelet a következő közösségi előírások végrehajtásához szükséges rendelkezéseket állapítja meg)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
