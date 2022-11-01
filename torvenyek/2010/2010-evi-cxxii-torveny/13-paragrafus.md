@@ -126,4 +126,6 @@ d) a fémkereskedelmi hatósági feladatokat,
 
 e) a környezetvédelmi termékdíjjal és a regisztrációs adóval kapcsolatos adóztatási és ellenőrzési feladatokat.
 
+f) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti és a különleges jogrendre történő felkészülés tekintetében jogszabályban meghatározott feladatokat.
+
 (10) A NAV ellátja továbbá a jogszabály által a hatáskörébe utalt egyéb feladatokat.

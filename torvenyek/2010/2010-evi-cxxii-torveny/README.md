@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2022-07-28 | 2022. évi XXIV. törvény | 2010-122-00-00.52 |
 | 2022-08-01 | 2022. évi XXIV. törvény | 2010-122-00-00.53 |
 | 2022-10-26 | 2022. évi XXIX. törvény | 2010-122-00-00.57 |
+| 2022-11-01 | 2021. évi XCIII. törvény | 2010-122-00-00.54 |
