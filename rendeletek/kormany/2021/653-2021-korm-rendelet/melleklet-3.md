@@ -1,6 +1,6 @@
 3. melléklet a 653/2021. (XI. 30.) Korm. rendelethez
 
-## A Budapesten és Pest megyében működő, irányító jogkört gyakorló egészségügyi intézmények szakmai irányításának illetékességi területe
+A Budapesten és Pest megyében működő, irányító jogkört gyakorló egészségügyi intézmények szakmai irányításának illetékességi területe
 
 1. Az Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő:
 

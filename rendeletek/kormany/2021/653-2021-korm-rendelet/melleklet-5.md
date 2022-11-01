@@ -1,6 +1,6 @@
 5. melléklet a 653/2021. (XI. 30.) Korm. rendelethez
 
-## Az országos gyógyintézetek és az országos társgyógyintézetek
+Az országos gyógyintézetek és az országos társgyógyintézetek
 
 1. Országos gyógyintézetek
 
