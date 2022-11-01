@@ -122,7 +122,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 35. szociális hozzájárulási adóból igénybe vett kedvezmény – a 24. pontban meghatározott kedvezmények kivételével – esetén a személy után a kedvezmény figyelembevétele nélkül számított szociális hozzájárulási adó alapját és összegét, továbbá a jogszabály szerint meghatározott szociális hozzájárulási adóból igénybevett kedvezmény jogcímét, alapját és összegét,
 
-36. önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára tekintettel kifizetett juttatások összegét.
+36. önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára tekintettel kifizetett juttatások összegét.
 
 (3) Az az adózó, aki vagy amely az adóév során bármely hónapban az (1) bekezdés szerinti bevallás benyújtására volt köteles, az adóév minden ezt követő hónapjára akkor is bevallás vagy a 49. § (4) bekezdés szerinti nyilatkozat benyújtására kötelezett, ha az adott hónapban adó- és/vagy járulék kötelezettsége – adó- (adóelőleg-), és/ vagy járulékalapot képező kifizetés, juttatás hiányában – nem keletkezett.
 
