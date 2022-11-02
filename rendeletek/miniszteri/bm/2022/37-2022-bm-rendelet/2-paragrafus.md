@@ -1,1 +1,3 @@
-2. § Az R1. 1/A. számú melléklet 1/a1., 1/a2., 1/b1., 1/b2., 2/a., 3., 4., 5., 6/a1., 6/a2., 6/b., 6/c., 6/d., 7/a., 7/b1., 7/b2., 7/b3., 7/b4., 7/b5., 7/b6., 7/b7., 7/b8., 7/b9., 7/b10., 7/b11., 7/b12., 7/b13., 7/b14., 7/b15., 8/a1., 8/a2., 8/a3., 8/a4., 8/a5., 8/a6., 8/a7., 8/a8., 8/a9., 8/a10., 8/a11., 8/b., 8/c1., 8/c2., 8/c3., 8/c4., 8/d1., 8/d2., 8/d3., 8/d4., 8/e2.1., 8/e2.2., 8/e2.3., 8/e3.1., 8/e3.2., 8/e3.3., 8/f., 8/g., 8/h., 10., 11., 12., 13., 14., 14/a., 15/a., 15/b. pontjában a „2912 Pécsi Tudományegyetem” szövegrész helyébe az „U912 Pécsi Tudományegyetem Klinikai Központ” szöveg, a „2915 Semmelweis Egyetem” szövegrész helyébe az „U915 Semmelweis Egyetem Klinikai Központ” szöveg lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

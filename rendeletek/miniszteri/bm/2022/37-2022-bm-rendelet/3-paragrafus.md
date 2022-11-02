@@ -1,3 +1,3 @@
-3. §[^1]
+3. §[^3]
 
-[^1]: A 3. § az 5. § (2) bekezdés alapján 2022. december 1-jén lép hatályba.
+[^3]: A 3. § az 5. § (2) bekezdés alapján 2022. december 1-jén lép hatályba.
