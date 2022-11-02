@@ -1,10 +1,12 @@
-## 11. §[^11]
+## 11. §[^12]
 
-## 12. § Hatályát veszti a 244/2020. (V. 28.) Korm. rendelet
+## 12. §[^13]
 
-a)[^12]
+a)[^14]
 
-b) 32/A. §-a.
+b)[^15]
 
-[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 12. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

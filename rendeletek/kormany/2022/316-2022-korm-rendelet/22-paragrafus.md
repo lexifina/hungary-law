@@ -1,4 +1,4 @@
-## 21. §[^21]
+## 21. §[^24]
 
 ## 7. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 12. § b) pontja 2022. november 1-jén lép hatályba.
 
-[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
