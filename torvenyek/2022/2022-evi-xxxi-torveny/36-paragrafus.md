@@ -1,3 +1,1 @@
-36. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 183. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető a megbízatása keletkezését követő harminc napon belül vagyonnyilatkozatot tesz az Országgyűlésről szóló 2012. évi XXXVI. törvény 1. melléklete szerinti tartalommal és formában, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, továbbá gyermekének (a továbbiakban együtt: családtag) vagyonnyilatkozatát. Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető és a családtag vagyonnyilatkozatára az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.”
+### 36. §

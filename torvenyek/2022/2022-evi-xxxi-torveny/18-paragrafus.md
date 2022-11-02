@@ -1,1 +1,1 @@
-18. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 159. § (1) bekezdésében a „valamint” szövegrész helyébe a „165/U. §-a, valamint” szöveg lép.
+### 18. §
