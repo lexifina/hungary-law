@@ -8,18 +8,12 @@ Felelős: érintett miniszterek
 
 Határidő: folyamatosan, a nemzeti tervben meghatározott határidőkkel összhangban
 
-3. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a nemzeti tervnek a kormányzati portálon történő közzétételéről;
+3.[^1]
 
-Felelős: emberi erőforrások minisztere
+4.[^2]
 
-Határidő: e határozat közzétételét követő 15 napon belül
+5.[^3]
 
-4. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a nemzeti tervnek az Európai Bizottság részére történő megküldéséről;
-
-Felelős: emberi erőforrások minisztere
-
-Határidő: e határozat közzétételét követő 30 napon belül
-
-5.[^1]
-
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pontot az 1520/2022. (XI. 2.) Korm. határozat 50. pont a) alpontja visszavonta.
+[^2]: A 4. pontot az 1520/2022. (XI. 2.) Korm. határozat 50. pont b) alpontja visszavonta.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
