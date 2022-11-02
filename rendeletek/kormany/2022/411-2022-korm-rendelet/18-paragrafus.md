@@ -1,1 +1,3 @@
-18. § Hatályát veszti a postai szolgáltatások különleges jogrend időszaki felkészítésének rendszeréről, feladatairól, működési feltételeiről szóló 103/2014. (III. 25.) Korm. rendelet.
+18. §[^1]
+
+[^1]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
