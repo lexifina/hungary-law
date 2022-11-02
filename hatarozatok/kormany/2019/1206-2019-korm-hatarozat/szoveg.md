@@ -16,72 +16,34 @@ e) egyéb fejlesztési, támogatási programokban való érintettség;
 
 3. egyetért azzal, hogy a fejlesztés – más településekre is kiterjedő – megszervezését elsősorban azokra a településekre kell koncentrálni – kidolgozva az állami alkalmazás kialakításának feltételrendszerét és ennek keretében történő foglalkoztatást –, amelyek a közfoglalkoztatás során biztosított forrásokat hatékonyan használták fel;
 
-4. felhívja a belügyminisztert, hogy településekre lebontva határozza meg, hogy a büntetés-végrehatási intézetek gazdasági társaságai a termelésük kihelyezésével mely településeken, milyen tevékenység kitelepítését vállalják, továbbá mekkora ezeknek a forrásigénye;
+4.[^1]
 
-Felelős: belügyminiszter
+5.[^2]
 
-Határidő: 2019. április 30.
+6.[^3]
 
-5. felhívja a belügyminisztert, hogy mérje fel a 4. pontban írtak végrehajtásának erőforrás-szükségletét;
+7.[^4]
 
-Felelős: belügyminiszter
+8.[^5]
 
-Határidő: 2019. április 30.
+9.[^6]
 
-6. felhívja a pénzügyminisztert és az innovációért és technológiáért felelős minisztert, hogy a fejlesztési programok támogatása érdekében alkalmazható hitelkonstrukciókat összegezzék, illetve – ha szükséges – gondoskodjanak az újak bevezetéséről;
+10.[^7]
 
-Felelős: pénzügyminiszter
+11.[^8]
 
-innovációért és technológiáért felelős miniszter
-
-Határidő: 2019. április 30.
-
-7. felhívja az innovációért és technológiáért felelős minisztert, hogy az Északkelet-Magyarországon található melegvíz-bázis – turisztikai, ipari, mezőgazdasági – hasznosítására készítsen feladattervet, illetve készítsen javaslatot a folyamatban lévő kormányprogramok gazdasági támogatására, üzleti lehetőségeinek az elmaradt térségekben történő kihasználására;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2019. július 1.
-
-8. felhívja a Miniszterelnökséget vezető minisztert, hogy – a belügyminiszter, az agrárminiszter, az innovációért és technológiáért felelős miniszter és a pénzügyminiszter közreműködésével – a fejlesztési program szabályozási és pénzügyi feltételrendszeréről, az állami támogatásokra vonatkozó rendeletekben foglaltakkal összhangban készítsen előterjesztést a Kormány részére;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-belügyminiszter
-
-agrárminiszter
-
-innovációért és technológiáért felelős miniszter
-
-pénzügyminiszter
-
-Határidő: 2019. április 30.
-
-9. felhívja a Miniszterelnökséget vezető minisztert az egyéb folyamatban lévő nemzeti fejlesztési programok (így különösen a Modern Városok Program, Magyar Falu Program) áttekintésére és jelen program ezekkel történő összehangolására;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: 2019. április 30.
-
-10. felhívja a külgazdasági és külügyminisztert, hogy dolgozzon ki a kedvezményezett térségekben – a Modern Városok Programhoz és Magyar Falu Programhoz illeszkedően – a jelenlegi nagyberuházások támogatási rendszere kiegészítéseként olyan új gazdaságfejlesztési programot, amelynek célja az érintett térségekben munkahelyteremtő beruházások létrehozása, és tegye meg a szükséges lépéseket, hogy a program 2019. július 1-jétől elinduljon;
-
-Felelős: külgazdasági és külügyminiszter
-
-Határidő: 2019. július 1.
-
-11. felhívja a külgazdasági és külügyminisztert, hogy az agrárminiszter bevonásával az érintett térségek vonatkozásában dolgozzon ki egy olyan széles körű mezőgazdasági integrációs programot, melynek célja a helyben előállított termékek feldolgozása és külpiacra jutásának elősegítése;
-
-Felelős: külgazdasági és külügyminiszter
-
-agrárminiszter
-
-Határidő: 2019. július 1.
-
-12. felhívja az innovációért és technológiáért felelős minisztert, hogy a Gazdaságfejlesztési és Innovációs Operatív Program terhére, az érintett települések vállalkozásainak fejlesztése érdekében pályázati felhívást dolgozzon ki;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2019. szeptember 30.
+12.[^9]
 
 13. felkéri az illetékes megyei önkormányzatokat, hogy önként vállalt feladatként a kidolgozott fejlesztési programok hatékony végrehajtása érdekében az érintett településeket a rendelkezésükre álló eszközökkel segítsék és támogassák;
 
 14. felkéri a Nemzeti Agrárgazdasági Kamara, a Magyar Kereskedelmi és Iparkamara és a Magyar Nemzeti Bank vezetőit a jelen határozatban kitűzött célok támogatására.
+
+[^1]: A 4. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
+[^2]: Az 5. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
+[^3]: A 6. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
+[^4]: A 7. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
+[^5]: A 8. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
+[^6]: A 9. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
+[^7]: A 10. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
+[^8]: A 11. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
+[^9]: A 12. pontot az 1520/2022. (XI. 2.) Korm. határozat 34. pontja visszavonta.
