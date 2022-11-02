@@ -2,19 +2,9 @@
 
 ## 2. a Beruházások előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-## 3. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – a Beruházások előkészítése érdekében gondoskodjon a 2021. évben 333 920 000 forint forrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 18. Klebelsberg Központ cím javára;
+## 3.[^1]
 
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: 2021. január 31.
-
-## 4. felhívja az emberi erőforrások miniszterét, hogy az 1. melléklet 2. és 3. pontja szerinti beruházások megvalósításának feladatait, forrásigényét és ütemezését beruházásonként külön előterjesztésben mutassa be a Kormány részére;
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: a feltételes kivitelezési közbeszerzési eljárás eredményes lefolytatását követően azonnal
+## 4.[^2]
 
 ## 5. az 1. melléklet 1. és 4–8. pontja szerinti beruházások előkészítésére az 1. mellékletben megjelölt, területileg illetékes tankerületi központot, megvalósítására – az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja alapján – a Beruházási Ügynökséget jelöli ki;
 
@@ -45,3 +35,6 @@
 | 7. | Veszprém | Veszprémi Dózsa György Német Nemzetiségi Nyelvoktató Általános Iskola | Veszprémi Tankerületi Központ | 37 500 000 |
 
 | 8. | Veszprém | Bárczi Gusztáv Általános Iskola, Szakiskola, Készségfejlesztő Iskola és Egységes Gyógypedagógiai Módszertani Intézmény | Veszprémi Tankerületi Központ | 24 000 000 |
+
+[^1]: A 3. pontot az 1520/2022. (XI. 2.) Korm. határozat 54. pont a) pontja visszavonta.
+[^2]: A 4. pontot az 1520/2022. (XI. 2.) Korm. határozat 54. pont b) pontja visszavonta.
