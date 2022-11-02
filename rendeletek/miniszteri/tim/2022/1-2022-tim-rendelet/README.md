@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1-20-8N
 | 2022-06-25 | 2022-1-20-8N.1 | 1/2022. (VI. 24.) TIM rendelet |
 | 2022-06-26 | 2022-1-20-8N.2 | 2010: CXXX. törvény |
 | 2022-11-01 | 2022-1-20-8N.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-11-02 | 2022-1-20-8N.4 | 2010: CXXX. törvény |
