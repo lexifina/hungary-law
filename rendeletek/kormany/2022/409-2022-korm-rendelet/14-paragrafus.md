@@ -1,1 +1,3 @@
-14. § Az önkéntes tartalékos rendszerhez kapcsolódóan, a munkáltatót megillető támogatásokra vonatkozó szabályokról szóló 294/2011. (XII. 22.) Korm. rendelet 2. § (4) bekezdésében az „MH területileg illetékes katonai igazgatási szervezeténél” szövegrész helyébe az „MH katonai igazgatási és központi adatfeldolgozó szervénél” szöveg lép.
+14. §[^14]
+
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

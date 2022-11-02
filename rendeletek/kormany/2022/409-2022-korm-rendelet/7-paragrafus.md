@@ -1,1 +1,3 @@
-7. § Hatályát veszti a honvédelmi és katonai célú építményekkel kapcsolatos építésfelügyeleti tevékenységről szóló 195/2009. (IX. 15.) Korm. rendelet 3. §-ában az „(a továbbiakban: Étv.)” szövegrész.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

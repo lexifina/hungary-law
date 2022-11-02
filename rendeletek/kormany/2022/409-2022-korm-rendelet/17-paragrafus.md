@@ -1,5 +1,5 @@
 ## 12. A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló 359/2015 (XII. 2.) Korm. rendelet módosítása
 
-17. § A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló 359/2015. (XII. 2.) Korm. rendelet 1. § (2) bekezdése a következő c) ponttal egészül ki:
+17. §[^17]
 
-(E rendelet alkalmazásában)
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-22. § A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló 359/2015. (XII. 2.) Korm. rendelet 5. § (2) bekezdése a következő g) ponttal egészül ki:
+22. §[^22]
 
-(Az ágazati ellenőrzést koordináló szerv a helyszíni ellenőrzésbe szükség szerint bevonja)
+[^22]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-19. § A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló 359/2015. (XII. 2.) Korm. rendelet 4. § (8) bekezdése helyébe a következő rendelkezés lép:
+19. §[^19]
 
-„(8) Az illetékes ágazatban ki nem jelölt ágazaton kívüli honvédelmi létfontosságú rendszerelem védelmét a helyszíni ellenőrzés lefolytatására jogosult szerv és az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság az ágazati ellenőrzést koordináló szerv koordinálásával és az 5. § (2) bekezdése szerinti szervek szükség szerinti bevonásával ütemezett módon, éves ellenőrzési terv alapján – az Lrtv. 8. § (3) bekezdésében meghatározott komplex ellenőrzés keretében – ellenőrzi oly módon, hogy a létfontosságú rendszerelem legalább 5 évente kerüljön ellenőrzésre. Az éves ellenőrzési tervet az ágazati ellenőrzést koordináló szerv a tárgyévet megelőző év november 30-ig állítja össze. Az ágazati ellenőrzést koordináló szerv és az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság az éves ellenőrzési tervüket összehangolják.”
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 11. A NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó részletes szabályokról szóló 109/2012. (VI. 1.) Korm. rendelet módosítása
 
-16. § A NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó részletes szabályokról szóló 109/2012. (VI. 1.) Korm. rendelet 33. § (1) bekezdésében a „honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 23. pontja” szövegrész helyébe a „honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 48. §-a” szöveg lép.
+16. §[^16]
+
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

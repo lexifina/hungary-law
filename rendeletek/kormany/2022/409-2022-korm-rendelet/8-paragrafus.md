@@ -1,5 +1,5 @@
 ## 6. A honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet módosítása
 
-8. § A honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
+8. §[^8]
 
-(E rendelet alkalmazásában)
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
