@@ -4,33 +4,13 @@
 
 ## b) a Gazdaságélénkítő program további, helyi szintű működtetéséhez, koordinálásához, folyamatos nyomon követéséhez, monitorozásához szükséges, hogy a Társadalmi Esélyteremtési Főigazgatóság állományában lévő projektkoordinátorok a 2022. évben is lássák el ez irányú tevékenységüket;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcímének a 13. A Gazdaságélénkítő programok támogatása jogcímcsoporttal történő kiegészítését;
+## 2.[^1]
 
-## Felelős: pénzügyminiszter
+## 3.[^2]
 
-## Határidő: a 2022. évi központi költségvetés végrehajtása során, legkésőbb 2022. január 31.
+## 4.[^3]
 
-## 3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva felhívja az innovációért és technológiáért felelős minisztert, hogy a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 4. Gazdaság-újraindítási Foglalkoztatási Alap cím, 6. Start-munkaprogram alcím előirányzatról utaljon át
-
-## a) 9 700 000 000 forintot a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím, 13. A Gazdaságélénkítő programok támogatása jogcímcsoport javára az 1. pont a) alpontjában meghatározott feladat finanszírozására,
-
-## b) 300 000 000 forintot a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 16. Társadalmi Esélyteremtési Főigazgatóság cím javára az 1. pont b) alpontjában meghatározott feladat finanszírozására;
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: az a) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, legkésőbb
-
-## 2022. január 31.
-
-## a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
-
-## 4. felhívja a belügyminisztert, hogy a Gazdaságélénkítő program keretében az 1. pont a) alpontja szerinti támogatható településeken a helyi és nemzetiségi önkormányzatok, valamint ezek jogi személyiséggel rendelkező társulásai, az önkormányzati tulajdon kezelésével és fenntartásával megbízott vagy erre a célra az önkormányzat által létrehozott gazdálkodó szervezet támogatása érdekében indítson e szervezetek által megvalósítandó, helyi fejlesztésekre irányuló programot, valamint biztosítsa az ehhez szükséges költségvetési forrásokat;
-
-## Felelős: belügyminiszter
-
-## Határidő: a 3. pont a) alpontja szerinti forrásbiztosítást követően azonnal
-
-## 5. tudomásul veszi, hogy a 3. pont b) alpontjában biztosított többlettámogatásból – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 39. §-ában foglaltak figyelembevételével – 223 454 768 forint a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 16. Társadalmi Esélyteremtési Főigazgatóság cím, 2022. évi személyi juttatása eredeti költségvetési kiadási előirányzatának növelésére irányul.
+## 5.[^4]
 
 1. melléklet az 1909/2021. (XII. 15.) Korm. határozathoz
 
@@ -139,3 +119,8 @@ A Gazdaságélénkítő program 4. ütemébe javasolt települések
 | 49. | Csabrendek | Veszprém | Sümegi |
 
 | 50. | Sümeg | Veszprém | Sümegi |
+
+[^1]: A 2. pontot az 1520/2022. (XI. 2.) Korm. határozat 77. pontja visszavonta.
+[^2]: A 3. pontot az 1520/2022. (XI. 2.) Korm. határozat 77. pontja visszavonta.
+[^3]: A 4. pontot az 1520/2022. (XI. 2.) Korm. határozat 77. pontja visszavonta.
+[^4]: Az 5. pontot az 1520/2022. (XI. 2.) Korm. határozat 77. pontja visszavonta.
