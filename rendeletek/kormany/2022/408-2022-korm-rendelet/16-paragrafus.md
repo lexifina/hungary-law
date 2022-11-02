@@ -1,1 +1,3 @@
-16. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendelet 7. § (2) bekezdés c) pontjában a „szerint.” szövegrész helyébe a „szerint, vagy” szöveg lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

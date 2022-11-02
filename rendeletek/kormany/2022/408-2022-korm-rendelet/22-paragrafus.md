@@ -1,3 +1,3 @@
-22. § Az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+22. §[^23]
 
-„(1) Az egészségügyért felelős miniszter az előzetesen kijelölt fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató részére határozatban elrendeli az időszakosan működő gyógyintézetnek a szolgáltató válsághelyzeti tervében foglaltak szerinti telepítését, továbbá a területi védelmi bizottság kiadja az egészségügyi válsághelyzeti célra előzetesen kijelölt ingatlan, valamint anyagi-technikai eszköz és szolgáltatás igénybevételére vonatkozó határozatot, erről tájékoztatja az érintett polgármestert.”
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 6. Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 246/2015. (IX. 8.) Korm. rendelet módosítása
 
-25. § Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 246/2015. (IX. 8.) Korm. rendelet 14. §-a a következő (5) bekezdéssel egészül ki:
+25. §[^26]
 
-„(5) Az ÜBT felülvizsgálatára és módosítására a Vhr.-ben foglalt szabályok az irányadóak.”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

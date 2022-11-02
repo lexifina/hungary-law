@@ -1,7 +1,3 @@
-29. § A tűzvédelmi hatósági eljárások általános és különös szabályairól szóló 489/2017. (XII. 29.) Korm. rendelet
+29. §[^30]
 
-a) 6. § (1) bekezdésében a „3 éves” szövegrész helyébe az „5 éves” szöveg,
-
-b) 8. §-ában a „3 évente” szövegrész helyébe az „5 évente” szöveg
-
-lép.
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

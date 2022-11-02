@@ -1,7 +1,3 @@
-19. § Az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 9. §-a helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„9. § (1) A megyei kormányhivatal összeállítja az egészségügyi válsághelyzeti ellátáshoz szükséges gyógyintézet telepítése céljára alkalmas ingatlanok, valamint más, igénybevételre alkalmas gazdasági és anyagi szolgáltatások listáját, és a kijelölésre vonatkozó igényét megküldi a területi védelmi bizottság részére. Ennek alapján a területi védelmi bizottság elnöke – a területi védelmi bizottság tagjai véleményének kikérését követően a területi védelmi bizottság illetékességi területén lévő települések polgármesterei részére – megjelöli a kijelölendő gazdasági és anyagi szolgáltatások körét.
-
-(2) A polgármester az (1) bekezdés alapján hozott határozatát megküldi a területi védelmi bizottság elnökének, a megyei kormányhivatalnak és az egészségügyért felelős miniszternek is.
-
-(3) Az egészségügyi válsághelyzeti ellátás tervezési tevékenységéhez egészségügyi célra kijelölt ingatlan működtetője, valamint a polgármester által kijelölt más gazdasági és anyagi szolgáltatásra kijelölt technikai eszköz tulajdonosa, birtokosa, üzemben tartója, továbbá a szolgáltatás nyújtására kötelezett az egészségügyi válsághelyzeti ellátáshoz szükséges, az egészségügyi intézmények egészségügyi válsághelyzeti terveinek tartalmi követelményeiről szóló miniszteri rendeletben meghatározott adatokat és információkat a területi védelmi bizottság rendelkezésére bocsátja.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

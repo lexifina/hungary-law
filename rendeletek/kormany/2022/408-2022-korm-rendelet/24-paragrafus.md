@@ -1,1 +1,3 @@
-24. § Hatályát veszti az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 14. § (9) bekezdésében a „ , ha a kirendeléssel érintett intézménynek az OKFŐ a fenntartója” szövegrész.
+24. §[^25]
+
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

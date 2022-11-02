@@ -1,7 +1,3 @@
-1. melléklet a 408/2022. (X. 24.) Korm. rendelethez
+1. melléklet a 408/2022. (X. 24.) Korm. rendelethez[^31]
 
-## A katasztrófavédelmi bírság részletes szabályairól, a katasztrófavédelmi hozzájárulás befizetéséről és visszatérítéséről szóló 208/2011. (X. 12.) Korm. rendelet 2. mellékletében foglalt táblázat
-
-a) 17. sorában az „üzemzavar” szövegrész helyébe az „esemény” szöveg,
-
-b) 18. sorában az „üzemzavarról” szövegrész helyébe az „eseményről” szöveg
+[^31]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

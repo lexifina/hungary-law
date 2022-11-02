@@ -1,3 +1,3 @@
-26. § Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 246/2015. (IX. 8.) Korm. rendelet a következő 15/B. §-sal egészül ki:
+26. §[^27]
 
-„15/B. § A védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti összehangolt védelmi tevékenység elrendelése esetén a Vhr.-ben foglalt szabályokat kell alkalmazni.”
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

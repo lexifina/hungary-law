@@ -1,9 +1,3 @@
-8. melléklet a 408/2022. (X. 24.) Korm. rendelethez
+8. melléklet a 408/2022. (X. 24.) Korm. rendelethez[^38]
 
-## A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 5. melléklet
-
-a) 1. pontjában a „veszélyhelyzetek, katasztrófák” szövegrész helyébe a „katasztrófák, veszélyhelyzetek és kiterjedt káresemények” szöveg,
-
-b) 2.2.4. pontjában a „katasztrófák és veszélyhelyzetek” szövegrész helyébe a „katasztrófák, veszélyhelyzetek és kiterjedt káresemények” szöveg,
-
-c) 2.2.10. pontjában a „szakalegységgel” szövegrész helyébe az „egységgel” szöveg
+[^38]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

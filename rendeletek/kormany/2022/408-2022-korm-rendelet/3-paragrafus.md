@@ -1,13 +1,3 @@
-3. § A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet
+3. §[^4]
 
-a) 3. melléklete a 2. melléklet szerint,
-
-b) 5. melléklete a 3. melléklet szerint,
-
-c) 7. melléklete a 4. melléklet szerint,
-
-d) 12. melléklete az 5. melléklet szerint,
-
-e) 13. melléklete a 6. melléklet szerint
-
-módosul.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
