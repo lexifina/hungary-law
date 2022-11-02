@@ -1,3 +1,5 @@
 ## 9. A központi költségvetési szervek által használt ingatlanokra vonatkozó adatszolgáltatási kötelezettség előírásáról, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 138/2020. (IV. 21.) Korm. rendelet módosítása
 
-14. § A központi költségvetési szervek által használt ingatlanokra vonatkozó adatszolgáltatási kötelezettség előírásáról, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 138/2020. (IV. 21.) Korm. rendelet 3. § (3) bekezdésében a „honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 14. pontja” szövegrész helyébe a „honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 15. pontja” szöveg lép.
+14. §[^14]
+
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

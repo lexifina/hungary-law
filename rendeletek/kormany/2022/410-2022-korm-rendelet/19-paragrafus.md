@@ -1,1 +1,3 @@
-19. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 113. §-ában a „honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény” szövegrész helyébe a „honvédelemről és a Magyar Honvédségről szóló törvény” szöveg lép.
+19. §[^19]
+
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

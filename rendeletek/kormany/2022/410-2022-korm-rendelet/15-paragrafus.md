@@ -1,3 +1,5 @@
 ## 10. A honvédelmi foglalkoztatók tekintetében a különös hatáskörű foglalkoztatás-felügyeleti hatóság kijelöléséről és a hatóság eljárására vonatkozó részletes szabályokról szóló 117/2021. (III. 10.) Korm. rendelet módosítása
 
-15. § A honvédelmi foglalkoztatók tekintetében a különös hatáskörű foglalkoztatás-felügyeleti hatóság kijelöléséről és a hatóság eljárására vonatkozó részletes szabályokról szóló 117/2021. (III. 10.) Korm. rendelet 1. § c) pontjában a „honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja” szövegrész helyébe a „honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja” szöveg lép.
+15. §[^15]
+
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

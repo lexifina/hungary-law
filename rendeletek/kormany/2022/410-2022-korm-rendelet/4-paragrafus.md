@@ -1,3 +1,5 @@
 ## 3. Az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet módosítása
 
-4. § Az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet 1. § b) pontjában a „honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 13. pontja” szövegrész helyébe a „honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja” szöveg lép.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

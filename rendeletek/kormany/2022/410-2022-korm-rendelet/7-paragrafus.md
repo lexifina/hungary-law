@@ -1,1 +1,3 @@
-7. § Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 11/A. § (4) bekezdésében a „honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja” szövegrész helyébe a „honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja” szöveg lép.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
