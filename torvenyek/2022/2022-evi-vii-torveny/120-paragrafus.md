@@ -1,3 +1,1 @@
-120. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 38. §-a a következő (6) bekezdéssel kiegészülve lép hatályba:
-
-„(6) A meghagyásba tartozó munkakörök és a meghagyási névjegyzék egységes ágazati nyilvántartása érdekében a honvédelmért felelős miniszter és a Kormány államigazgatási szerv irányítását, felügyeletét ellátó tagja (ezen alcím tekintetében a továbbiakban: miniszter) megállapodásban rendelkezhet arról, hogy a miniszter irányítása, felügyelete alá tartozó államigazgatási szervek meghagyással érintett munkaköreire, foglalkoztatottjainak névjegyzékére vonatkozó adatokat a miniszter milyen formában szolgáltatja a Honvédség katonai igazgatási és központi adatfeldolgozó szerve számára.”
+120. §
