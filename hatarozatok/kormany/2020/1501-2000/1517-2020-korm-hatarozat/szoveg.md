@@ -2,27 +2,9 @@
 
 2. A Kormány az 1. pont szerinti Stratégia megvalósítása érdekében
 
-a) felhívja az emberi erőforrások miniszterét, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a magyarországi gyógyszerellátás biztonságának javítása és a hazai gyógyszeripar versenyképességének növelése, illetve a gyógyszeripari innováció támogatása érdekében készítsen előterjesztést, annak részeként dolgozzon ki cselekvési tervet
+a)[^2]
 
-aa) a hazai gyógyszeripari kutatási-fejlesztési és innovációs tevékenységet végző vállalkozásokat hátrányosan érintő párhuzamos kereskedelem feltárására és visszaszorítására,
-
-ab) a XXI. századi egészségipari fejlesztések ösztönzésére, modern eljárások és termékek befogadására, gyorsítására és az ezzel összefüggő innovatív finanszírozási technikák bevezetésére;
-
-Felelős: emberi erőforrások minisztere
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: az aa) alpont tekintetében 2020. október 31.
-
-az ab) alpont tekintetében 2020. november 30.
-
-b) felhívja az emberi erőforrások miniszterét, hogy – a külgazdasági és külügyminiszter bevonásával – vizsgálja meg a V4 országok meglévő együttműködésének kiterjesztési lehetőségét, közös tendereken való indulását, ami az új, innovatív gyógyszerkészítmények és egyéb terápiák magyar betegek számára előnyös és gördülékenyebb hozzáférését teszik lehetővé a megállapított költségkereteken belül;
-
-Felelős: emberi erőforrások minisztere
-
-külgazdasági és külügyminiszter
-
-Határidő: 2020. november 30.
+b)[^3]
 
 c) felhívja az innovációért és technológiáért felelős minisztert, hogy – az emberi erőforrások minisztere bevonásával – vizsgálja meg az egészségipari nagyvállalatokat érintően a digitalizációs-, modernizációs- és versenyképességet, illetve a nemzetközi piacra jutást biztosító támogatási lehetőségeket a hazai egészségipari kis- és középvállalkozásokkal, a felsőoktatási intézményekkel, illetve az állami egészségügyi intézményekkel megvalósuló kapcsolataik erősítése érdekében;
 
@@ -50,41 +32,19 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2020. október 31.
 
-f) felhívja az emberi erőforrások miniszterét, hogy – az innovációért és technológiáért felelős miniszter bevonásával – vizsgálja meg a Stratégiában
+f)[^4]
 
-fa) az orvostechnikai eszköziparhoz,
+g)[^5] felhívja a technológiai és ipari minisztert, hogy tegye meg a szükséges intézkedéseket, és készítsen előterjesztést egy orvostechnikai tanúsítói folyamatokra felkészítő szervezet létrehozására a klinikai vizsgálatok és eszköztanúsítás támogatása érdekében, az orvostechnikai eszközök megfelelőség-értékelésének hatékonyabb ellátása érdekében szükséges intézkedésekről szóló 1192/2020. (IV. 30.) Korm. határozattal összhangban;
 
-fb) a gyógyszeriparhoz,
+| Felelős: | technológiai és ipari miniszter |
 
-fc) a biotechnológiához,
+| Határidő: | 2022. december 31. |
 
-fd) az eHealth háttériparához,
+h) [^6] felhívja a technológiai és ipari minisztert, hogy mérje fel az orvostechnikai cégek eszköztanúsításához és a klinikai vizsgálatok elvégeztetéséhez (ideértve az egészségügyi intézmények célzott eszközfejlesztését) szükséges források mértékét, és erről készítsen előterjesztést a Kormány részére;
 
-fe) a XXI. századi új, innovatív területekhez
+| Felelős: | technológiai és ipari miniszter |
 
-kapcsolódó jogszabályi környezetet, és szükség szerint készítsen előterjesztést a Kormány részére;
-
-Felelős: emberi erőforrások minisztere
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: 2021. február 28.
-
-g) felhívja az emberi erőforrások miniszterét, hogy – az innovációért és technológiáért felelős miniszter bevonásával – tegye meg a szükséges intézkedéseket, és készítsen előterjesztést egy orvostechnikai tanúsítói folyamatokra felkészítő szervezet létrehozására a klinikai vizsgálatok és eszköztanúsítás támogatása érdekében, az orvostechnikai eszközök megfelelőség-értékelésének hatékonyabb ellátása érdekében szükséges intézkedésekről szóló 1192/2020. (IV. 30.) Korm. határozattal összhangban;
-
-Felelős: emberi erőforrások minisztere
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: 2020. október 31.
-
-h) felhívja az emberi erőforrások miniszterét, hogy – az innovációért és technológiáért felelős miniszter bevonásával – mérje fel az orvostechnikai cégek eszköztanúsításához és a klinikai vizsgálatok elvégeztetéséhez (ideértve az egészségügyi intézmények célzott eszközfejlesztését) szükséges források mértékét, és erről készítsen előterjesztést a Kormány részére;
-
-Felelős: emberi erőforrások minisztere
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: 2020. november 30.
+| Határidő: | 2022. december 31. |
 
 i) felhívja az innovációért és technológiáért felelős minisztert, hogy – az emberi erőforrások minisztere és az igazságügyi miniszter bevonásával – hozzon létre munkacsoportot az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i 2017/745 európai parlamenti és tanácsi rendeletben és az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i 2017/746 európai parlamenti és tanácsi rendeletben meghatározott egyéb feladatok végrehajtása érdekében;
 
@@ -116,19 +76,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. február 28.
 
-l) felhívja az emberi erőforrások miniszterét, hogy – a miniszterelnök kabinetfőnöke, az innovációért és technológiáért felelős miniszter, a belügyminiszter és az igazságügyi miniszter bevonásával – vizsgálja meg az egészségügyi adatvagyon kutathatóságának biztosítását és az egészségipar által történő hasznosítását, valamint a kutatás, fejlesztés és az innováció legfrissebb eredményeinek mihamarabbi becsatornázásához a szükséges informatikai fejlesztéseket, illetve a digitális egészségügyi stratégiában megfogalmazottakra építve biztosítsa az egészségügy – ezen belül kiemelten az eHealth – háttéripari, egészségipari szereplői számára az adatok elérését, valamint ennek érdekében készítse elő a szükséges jogszabály-módosításokat;
-
-Felelős: emberi erőforrások minisztere
-
-a miniszterelnök kabinetfőnöke
-
-innovációért és technológiáért felelős miniszter
-
-belügyminiszter
-
-igazságügyi miniszter
-
-Határidő: 2020. december 31.
+l) [^7]
 
 m) felhívja az innovációért és technológiáért felelős minisztert, hogy – a pénzügyminiszter, valamint a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával – vizsgálja felül az egészségiparban működő kis- és középvállalkozások támogatási lehetőségeit, a szektor sajátosságait figyelembe véve a kis és közepes méretű vállalkozások gyors és fenntartható fejlődésének, hazai és nemzetközi versenyképességének biztosításáért, és ennek érdekében
 
@@ -146,31 +94,9 @@ Határidő: az ma) alpont tekintetében 2020. november 15.
 
 az mb) alpont tekintetében 2020. november 30.
 
-n) felhívja az emberi erőforrások miniszterét, hogy – az innovációért és technológiáért felelős miniszter, a belügyminiszter és a miniszterelnök kabinetfőnöke bevonásával – és a Nemzeti Egészséginformatikai Testület részvételével
+n) [^8]
 
-na) alakítson ki munkacsoportot az eHealth háttéripari és az ezzel összefüggő egészségipari szereplők bevonásával, illetve az egészségügy digitalizációjának irányelvei, valamint a hazai egészségipari kis- és középvállalkozások által előállított termékek, szolgáltatások és folyamatban lévő fejlesztések felhasználásának és az innováció támogathatóságának figyelembevételével,
-
-nb) az na) alpont teljesülését követően készítsen cselekvési tervet;
-
-Felelős: emberi erőforrások minisztere
-
-innovációért és technológiáért felelős miniszter
-
-belügyminiszter
-
-a miniszterelnök kabinetfőnöke
-
-Határidő: az na) alpont tekintetében 2020. szeptember 30.
-
-az nb) alpont tekintetében 2020. december 31.
-
-o) felhívja az emberi erőforrások miniszterét, hogy – a miniszterelnök kabinetfőnöke bevonásával – dolgozza ki a nemzetközi jelentőségű gyógyhelyeken a piaci alapon finanszírozható és a közfinanszírozott szolgáltatások szétválasztását és minősítési rendszerét, továbbá a nemzetközi standardoknak és a hazai igényeknek megfelelően dolgozza át a természetes gyógytényezőkhöz kapcsolódó definíciókat;
-
-Felelős: emberi erőforrások minisztere
-
-a miniszterelnök kabinetfőnöke
-
-Határidő: 2020. október 15.
+o) [^9]
 
 p) felhívja a Miniszterelnökséget vezető minisztert, hogy – az innovációért és technológiáért felelős miniszter és az igazságügyi miniszter, valamint a Központi Statisztikai Hivatal elnöke bevonásával – tegyen javaslatot az egészségipari ágazat és a XXI. századi új, innovatív területek központi adatgyűjtésére és a végrehajtásról készítsen jelentést a Kormány részére;
 
@@ -244,6 +170,14 @@ az sf) alpont tekintetében 2020. október 31.
 
 az sg) alpont tekintetében minden év szeptember 30-ig
 
-3.[^1]
+3.[^10]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a) alpontját az 1520/2022. (XI. 2.) Korm. határozat 49. pont a) alpontja visszavonta.
+[^3]: A 2. pont b) alpontját az 1520/2022. (XI. 2.) Korm. határozat 49. pont a) alpontja visszavonta.
+[^4]: A 2. pont f) alpontját az 1520/2022. (XI. 2.) Korm. határozat 49. pont b) alpontja visszavonta.
+[^5]: A 2. pont g) alpontja az 1520/2022. (XI. 2.) Korm. határozat 48. pontjával megállapított szöveg.
+[^6]: A 2. pont h) alpontja az 1520/2022. (XI. 2.) Korm. határozat 48. pontjával megállapított szöveg.
+[^7]: A 2. pont l) alpontját az 1520/2022. (XI. 2.) Korm. határozat 49. pont c) alpontja visszavonta.
+[^8]: A 2. pont n) alpontját az 1520/2022. (XI. 2.) Korm. határozat 49. pont d) alpontja visszavonta.
+[^9]: A 2. pont o) alpontját az 1520/2022. (XI. 2.) Korm. határozat 49. pont d) alpontja visszavonta.
+[^10]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
