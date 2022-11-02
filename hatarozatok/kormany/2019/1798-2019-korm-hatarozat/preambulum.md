@@ -1,1 +1,0 @@
-A Kormány kiemelt célnak tekinti az egészségügyi ágazat fejlesztését, valamint az egészségügyi ellátórendszer hatékonyságának növelését, és egyetért a finanszírozási rendszer és az ellátási struktúra olyan átalakításával, amely fenntartható működést eredményez, és megakadályozza az adósságok újratermelődését, ennek érdekében
