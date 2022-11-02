@@ -1,1 +1,1 @@
-117. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 23/F. § (2a) bekezdésében az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § u) pontjában és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § u) pontjában és 20. § (1) bekezdés d) pontjában” szöveg lép.
+### 117. §

@@ -1,1 +1,1 @@
-122. § A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 6/B. §-ában az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § f) pontja és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § f) pontjában és 20. § (1) bekezdés d) pontjában” szöveg lép.
+### 122. §

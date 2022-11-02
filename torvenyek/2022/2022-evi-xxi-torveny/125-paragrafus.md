@@ -1,1 +1,1 @@
-125. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 219. § (3) bekezdésében az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § c) pontja és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § c) pontjában és 20. § (1) bekezdés d) pontjában” szöveg lép.
+### 125. §
