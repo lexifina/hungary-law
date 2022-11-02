@@ -1,1 +1,3 @@
-4. § Nem lép hatályba a veszélyhelyzet idején az egyes adatigénylési rendelkezésektől való eltérésről szóló 521/2020. (XI. 25.) Korm. rendelet hatályon kívül helyezéséről szóló 383/2022. (X. 10.) Korm. rendelet.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
