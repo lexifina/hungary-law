@@ -2,59 +2,17 @@
 
 ## 2. egyetért azzal, hogy a Program az 1. mellékletben szereplő 50 településen induljon;
 
-## 3. felhívja
+## 3.[^1]
 
-## a) a pénzügyminisztert, az agrárminisztert, az innovációért és technológiáért felelős minisztert, valamint a külgazdasági és külügyminisztert, hogy az 1. pontban foglalt célra felhasználható programjaikat tekintsék át és alakítsák át úgy, hogy
+## 4.[^2]
 
-## aa) a Program céljára kis összegű (minimum 10 000 000 forint) támogatás is igénybe vehető legyen,
-
-## ab) – a de minimis szabályainak figyelembevételével – visszatérítendő, illetve vissza nem térítendő támogatás folyósítására is legyen lehetőség,
-
-## ac) a források a Program keretében úgy is igénybe vehetők legyenek, hogy a kellő részletezettségű kiírásnak megfelelő pályázó ahhoz mérlegelés nélkül, 15 napon belül hozzájusson,
-
-## ad) az e célra felhasználható valamennyi programról – a releváns feltételek bemutatásával – tájékoztassák a Kormányt;
-
-## Felelős: pénzügyminiszter
-
-## agrárminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## külgazdasági és külügyminiszter
-
-## Határidő: 2019. július 31.
-
-## b) felhívja a pénzügyminisztert, az agrárminisztert, az innovációért és technológiáért felelős minisztert, valamint a külgazdasági és külügyminisztert, hogy vizsgálják meg az e célra igénybe vehető európai uniós programjaikat;
-
-## Felelős: pénzügyminiszter
-
-## agrárminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## külgazdasági és külügyminiszter
-
-## Határidő: 2019. július 31.
-
-## 4. felhívja a pénzügyminisztert, hogy dolgozzon ki 5 000 000 000 forint értékben programcsomagot az 1. mellékletben meghatározott településeket segítő mikro-, kis- és középvállalkozások, továbbá az állami vagy helyi önkormányzati közvetlen vagy közvetett tulajdonban álló gazdaság társaságok számára, amely a 3. pontban írt feltételekkel igénybe vehető, és amelyet a Programban való részvételre későbbiekben kijelölendő települések is igénybe tudnak venni;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: 2019. július 31.
-
-## 5. a Program megvalósítása érdekében szükséges forrás – a 3. és 4. pontban meghatározottakon kívül – a „Felzárkózó települések” hosszú távú programjának megalapozásáról szóló 1404/2019. (VII. 5.) Korm. határozat 6. pont b) alpontjában meghatározottak szerint kerül biztosításra;
+## 5.[^3]
 
 ## 6. felhívja
 
-## a) a Modern Települések Fejlesztéséért felelős kormánybiztost, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a Magyar Falu Program keretében rendelkezésére álló programelemeket – a belügyminiszter által településenként és támogatási célterületenként jelzett mértékben – a jelen kormányhatározattal érintett, valamint később kijelölendő települések pályáztatás nélkül igénybe vehessék, azzal, hogy a Modern Települések Fejlesztéséért felelős kormánybiztos és a belügyminiszter megállapodik az e célra 2019-ben és 2020-ban elkülönítendő forrás nagyságáról,
+## a)[^4]
 
-## Felelős: Modern Települések Fejlesztéséért felelős kormánybiztos
-
-## belügyminiszter
-
-## Határidő: 2019. július 15.
-
-## b) a belügyminisztert, a Miniszterelnökséget vezető minisztert, a pénzügyminisztert, az emberi erőforrások miniszterét, az agrárminisztert, az innovációért és technológiáért felelős minisztert, hogy – a belügyminiszternek az érintett önkormányzat véleményének kikérése után előterjesztett javaslatára – biztosítsák az 1. melléklet szerinti településeken a 2. mellékletben meghatározott, az a) alpontban foglaltakon kívüli, feladatkörükbe tartozó közszolgáltatásokat;
+## b)[^5] a belügyminisztert, a Miniszterelnökséget vezető minisztert, a pénzügyminisztert, az emberi erőforrások miniszterét, az agrárminisztert, az innovációért és technológiáért felelős minisztert, hogy – a belügyminiszternek az érintett önkormányzat véleményének kikérése után előterjesztett javaslatára – biztosítsák az 1. melléklet szerinti településeken a 2. mellékletben meghatározott, feladatkörükbe tartozó közszolgáltatásokat;
 
 ## Felelős: belügyminiszter
 
@@ -80,37 +38,17 @@
 
 ## d) a településeket a Belügyminisztérium állományában foglalkoztatottak segítsék;
 
-## 8. felhívja a belügyminisztert, hogy készítsen előterjesztést a 7. pontban meghatározott szervezetrendszer kialakítására, valamint készítse el a szükséges jogszabály-módosítások tervezetét, és tegyen javaslatot a Belügyminisztérium alkalmazásában állók létszámára;
+## 8.[^6]
 
-## Felelős: belügyminiszter
+## 9.[^7]
 
-## Határidő: 2019. július 15.
-
-## 9. felhívja a belügyminisztert, hogy az 1. mellékletben szereplő 50 településen indítsa el a Programot;
-
-## Felelős: belügyminiszter
-
-## Határidő: 2019. november 1.
-
-## 10. felhívja a belügyminisztert, a Miniszterelnökséget vezető minisztert, a pénzügyminisztert, az agrárminisztert, az innovációért és technológiáért felelős minisztert, hogy a Program elindításának tapasztalatairól, valamint a Program második ütemébe bevonandó településekről készítsen előterjesztést a Kormány számára;
-
-## Felelős: belügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## pénzügyminiszter
-
-## agrárminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: 2020. január 31.
+## 10.[^8]
 
 ## 11. felkéri az illetékes megyei önkormányzatokat, hogy a Program végrehajtása érdekében, önként vállalt feladatként a 7. pontban meghatározott szervezetrendszerrel szoros együttműködésben az érintett településeket a rendelkezésükre álló eszközökkel segítsék és támogassák.
 
 1. melléklet az 1403/2019. (VII. 5.) Korm. határozathoz
 
-## A Kedvezményezett Települések Gazdaságélénkítő Programjában részt vevő települések
+A Kedvezményezett Települések Gazdaságélénkítő Programjában részt vevő települések
 
 1. Abaújszántó
 
@@ -211,3 +149,12 @@
 49. Újszilvás
 
 50. Varsány
+
+[^1]: A 3. pontot az 1520/2022. (XI. 2.) Korm. határozat 37. pont a) alpontja visszavonta.
+[^2]: A 4. pontot az 1520/2022. (XI. 2.) Korm. határozat 37. pont b) alpontja visszavonta.
+[^3]: Az 5. pontot az 1520/2022. (XI. 2.) Korm. határozat 37. pont c) alpontja visszavonta.
+[^4]: A 6. pont a) alpontot az 1520/2022. (XI. 2.) Korm. határozat 37. pont d) alpontja visszavonta.
+[^5]: A 6. pont b) alpontja az 1520/2022. (XI. 2.) Korm. határozat 37. pont e) alpontja szerint módosított szöveg.
+[^6]: A 8. pontot az 1520/2022. (XI. 2.) Korm. határozat 37. pont f) alpontja visszavonta.
+[^7]: A 9. pontot az 1520/2022. (XI. 2.) Korm. határozat 37. pont g) alpontja visszavonta.
+[^8]: A 10. pontot az 1520/2022. (XI. 2.) Korm. határozat 37. pont h) alpontja visszavonta.
