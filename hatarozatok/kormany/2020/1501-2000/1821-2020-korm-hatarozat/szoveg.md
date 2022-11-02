@@ -46,7 +46,7 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2022. szeptember 30.
 
-1.5.[^8]
+1.5.[^8] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a technológiai és ipari miniszter az 1.1. alpontban foglalt fejlesztések komplex előkészítéséhez és megvalósításához legfeljebb 22 960 270 053 forint kötelezettséget vállaljon;
 
 1.6.[^9]
 
@@ -114,7 +114,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
 
-1.14.[^15]
+1.14.[^15] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a technológiai és ipari miniszter az 1.12. alpontban foglalt villamos energia hálózatfejlesztéshez legfeljebb 6 800 839 840 forint kötelezettséget vállaljon.
 
 1.15.[^16]
 
@@ -131,14 +131,14 @@ Határidő: folyamatos
 [^5]: Az 1. pont 1.4. alpont d) pontja az 1236/2022. (IV. 19.) Korm. határozat 2. pontjával megállapított szöveg.
 [^6]: Az 1. pont 1.4. alpont e) pontja az 1236/2022. (IV. 19.) Korm. határozat 2. pontjával megállapított szöveg.
 [^7]: Az 1. pont 1.4a. alpontját az 1236/2022. (IV. 19.) Korm. határozat 3. pontja iktatta be.
-[^8]: Az 1. pont 1.5. pontját az 1231/2022. (IV. 19.) Korm. határozat 2. pontja visszavonta.
+[^8]: Az 1. pont 1.5. pontját az 1231/2022. (IV. 19.) Korm. határozat 2. pontja visszavonta, újonnan az 1530/2022. (XI. 2.) Korm. határozat 1. pontja iktatta be.
 [^9]: Az 1. pont 1.6. pontját az 1231/2022. (IV. 19.) Korm. határozat 2. pontja visszavonta.
 [^10]: Az 1. pont 1.8. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
 [^11]: Az 1. pont 1.9. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
 [^12]: Az 1. pont 1.10. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
 [^13]: Az 1. pont 1.11. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
 [^14]: Az 1. pont 1.12. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
-[^15]: Az 1. pont 1.14. pontját az 1560/2021. (VIII. 5.) Korm. határozat 3. pontja iktatta be, visszavonta az 1231/2022. (IV. 19.) Korm. határozat 2. pontja.
+[^15]: Az 1. pont 1.14. pontját az 1231/2022. (IV. 19.) Korm. határozat 2. pontja visszavonta, újonnan az 1530/2022. (XI. 2.) Korm. határozat 2. pontja iktatta be.
 [^16]: Az 1. pont 1.15. pontját az 1560/2021. (VIII. 5.) Korm. határozat 3. pontja iktatta be, visszavonta az 1231/2022. (IV. 19.) Korm. határozat 2. pontja.
 [^17]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^18]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
