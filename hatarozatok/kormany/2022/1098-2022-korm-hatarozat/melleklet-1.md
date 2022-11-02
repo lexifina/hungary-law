@@ -37,3 +37,5 @@
 ## Határidő: a szerződéskötés során
 
 1. melléklet az 1098/2022. (III. 1.) Korm. határozathoz
+
+Egyházi fenntartó tulajdonába kerülő ingatlanok jegyzéke I.
