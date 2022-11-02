@@ -1,5 +1,3 @@
-## A Gazdaságélénkítő programba (GÉP) javasolt 445 település listája
-
 | Sorszám | Település | Megye | Járás |
 
 | GÉP 1–2. ütemében részt vevő települések |
@@ -899,3 +897,5 @@
 | 295. | Sümeg | Veszprém | Sümegi |
 
 2. melléklet az 1057/2021. (II. 19.) Korm. határozathoz
+
+A Gazdaságélénkítő program 3. ütemébe javasolt települések

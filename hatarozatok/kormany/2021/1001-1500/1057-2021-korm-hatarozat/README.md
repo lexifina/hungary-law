@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1057-30
 | --- | --- | --- |
 | 2021-02-19 | 2021-1057-30-22.1 | 1057/2021. (II. 19.) Korm. határozat |
 | 2021-12-15 | 2021-1057-30-22.2 | 1916/2021. (XII. 15.) Korm. határozat |
+| 2022-11-02 | 2021-1057-30-22.4 | 1520/2022. (XI. 2.) Korm. határozat |

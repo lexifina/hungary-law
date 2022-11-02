@@ -1,5 +1,3 @@
-## A „Felzárkózó Települések” hosszú távú programjába (FETE) javasolt 300 település listája
-
 | Sorszám | Település | Megye | Járás |
 
 | FETE 1. ütemében részt vevő települések |

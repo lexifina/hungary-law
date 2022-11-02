@@ -1,5 +1,3 @@
-## A Gazdaságélénkítő program 3. ütemébe javasolt települések
-
 | Sorszám | Település | Megye | Járás |
 
 | 1. | Dunapataj | Bács-Kiskun | Kalocsai |
@@ -103,3 +101,5 @@
 | 50. | Simontornya | Tolna | Tamási |
 
 3. melléklet az 1057/2021. (II. 19.) Korm. határozathoz
+
+A „Felzárkózó Települések” hosszú távú programjába (FETE) javasolt 300 település listája

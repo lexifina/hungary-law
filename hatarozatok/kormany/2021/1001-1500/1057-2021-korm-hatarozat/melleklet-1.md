@@ -10,48 +10,23 @@
 
 ## e) a „Felzárkózó települések” programjában kijelölt települések mellett Gyöngyöspata és Eger településeken is fejlesztési program induljon;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcímének a 12. A Magyar Máltai Szeretetszolgálat Egyesület felzárkózási feladatainak támogatása jogcímcsoporttal és a 13. A Gazdaságélénkítő programok támogatása jogcímcsoporttal történő kiegészítését;
+## 2.[^1]
 
-## Felelős: pénzügyminiszter
+## 3.[^2]
 
-## Határidő: azonnal
-
-## 3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 34. § (2) bekezdés b) pontja értelmében felhívja az innovációért és technológiáért felelős minisztert, hogy a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 4. Gazdaságvédelmi Foglalkoztatási Alap cím, 6. Start-munkaprogram alcím előirányzatról utaljon át
-
-## a) 6 000 000 000 forintot a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím, 12. A Magyar Máltai Szeretetszolgálat Egyesület felzárkózási feladatainak támogatása jogcímcsoport javára a jelen Korm. határozatban meghatározott feladatok finanszírozására;
-
-## b) 10 000 000 000 forintot a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím, 13. Gazdaságélénkítő programok támogatása jogcímcsoport javára a jelen Korm. határozatban meghatározott feladatok finanszírozására;
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: azonnal
-
-## 4. felhívja a belügyminisztert, hogy
-
-## a) a „Felzárkózó települések” programhoz kapcsolódó Jelenlét program megvalósítása, a szükséges beavatkozások meghatározásához elengedhetetlen egyedi települési diagnózisok elkészítéséhez biztosítsa a Magyar Máltai Szeretetszolgálat Egyesület részére a 3. pont a) alpontja szerinti költségvetési forrásokat;
-
-## Felelős: belügyminiszter
-
-## Határidő: a 3. pont a) alpontja szerinti forrásbiztosítást követően azonnal
-
-## b) a Gazdaságélénkítő program keretében támogatható településeken a helyi és nemzetiségi önkormányzatok, valamint ezek jogi személyiséggel rendelkező társulásai, az önkormányzati tulajdon kezelésével és fenntartásával megbízott, vagy erre a célra az önkormányzat által létrehozott gazdálkodó szervezet, továbbá a programban közreműködő központi költségvetési szerv támogatása érdekében indítson e szervezetek által megvalósítandó, helyi fejlesztésekre irányuló programot, valamint biztosítsa a 3. pont b) alpontja szerinti költségvetési forrásokat;
-
-## Felelős: belügyminiszter
-
-## Határidő: a 3. pont b) alpontja szerinti forrásbiztosítást követően azonnal
-
-## c)[^1] a 3. pont b) alpontja szerinti költségvetési forrásból fel nem használt forrásösszeget a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím, 13. A Gazdaságélénkítő programok támogatása jogcímcsoportról a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 4. Gazdaság-újraindítási Foglalkoztatási Alap cím, 6. Start-munkaprogram alcím előirányzat javára szükséges visszautalni;
-
-## Felelős: belügyminiszter
-
-## Határidő: 2021. december 31.
+## 4.[^3]
 
 ## 5. felkéri a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara és a Magyar Kereskedelmi és Iparkamara vezetőit, hogy
 
 ## a) szervezzék meg és ösztönözzék a tőkeerős vállalkozások Gazdaságélénkítő és „Felzárkózó települések” programban történő szerepvállalását, a programban kijelölt településeken új munkahelyek teremtését termelésük kihelyezésével, vagy új telephelyek létesítésével;
 
-## b) az a) pontban meghatározott feladat eredményeiről, a megtett intézkedésekről 2021. május 15-ig tájékoztassák a Kormányt.
+## b)[^4]
 
 1. melléklet az 1057/2021. (II. 19.) Korm. határozathoz
 
-[^1]: A 4. pont c) alpontját az 1916/2021. (XII. 15.) Korm. határozat 2. pontja iktatta be.
+A Gazdaságélénkítő programba (GÉP) javasolt 445 település listája
+
+[^1]: A 2. pontot az 1520/2022. (XI. 2.) Korm. határozat 61. pont a) pontja visszavonta.
+[^2]: A 3. pontot az 1520/2022. (XI. 2.) Korm. határozat 61. pont b) pontja visszavonta.
+[^3]: A 4. pontot az 1520/2022. (XI. 2.) Korm. határozat 61. pont c) pontja visszavonta.
+[^4]: Az 5. pont b) pontot az 1520/2022. (XI. 2.) Korm. határozat 61. pont d) pontja visszavonta.
