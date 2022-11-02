@@ -1,1 +1,1 @@
-93. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 126. §-ban a „rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, valamint a helyi önkormányzatokkal” szövegrész helyébe a „rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, a védelmi és biztonsági igazgatás központi szervével, valamint a helyi önkormányzatokkal” szöveg lép.
+### 93. §
