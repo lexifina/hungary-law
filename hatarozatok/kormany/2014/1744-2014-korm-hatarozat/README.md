@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1744-30
 | --- | --- | --- |
 | 2014-12-15 | 2014-1744-30-22.1 | 1744/2014. (XII. 15.) Korm. határozat |
 | 2015-03-31 | 2014-1744-30-22.2 | 1195/2015. (III. 31.) Korm. határozat |
+| 2022-11-02 | 2014-1744-30-22.3 | 1520/2022. (XI. 2.) Korm. határozat |

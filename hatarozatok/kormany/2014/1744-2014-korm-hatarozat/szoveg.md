@@ -34,7 +34,7 @@ Határidő: a 7–10. pontokban meghatározottak szerint
 
 5. egyetért azzal, hogy a Bevándorlási és Állampolgársági Hivatal anyakönyvezéssel összefüggő feladataiban – a feladatok ellátásához szükséges személyi, dologi és infrastrukturális feltételek biztosítása mellett – a fővárosi és megyei kormányhivatalok járjanak el;
 
-6. egyetért azzal, hogy az Országos Egészségbiztosítási Pénztár területi hivatalainak baleseti megtérítési eljárással kapcsolatos hatósági eljárások lefolytatásával és az ahhoz kapcsolódó követeléskezeléssel, az anyatej-elszámolások fogadásával, ellenőrzésével, feldolgozásával, az üzemi balesetből vagy foglalkozási megbetegedésből eredő egészségkárosodás miatt igénybe vett gyógyszer, gyógyászati segédeszköz és ellátási térítési díjak utólagos megtérítésével kapcsolatos eljárásokkal, az üzemi balesettel, a hadigondozottak ellátásával kapcsolatos statisztikai adatok gyűjtésével, valamint az egészségügyi szakellenőrzési területen a keresőképesség, a keresőképtelenség ellenőrzésével, elbírálásával és a jelentésekkel kapcsolatos feladatok ellátásával összefüggésben – a feladatok ellátásához szükséges személyi, dologi és infrastrukturális feltételek biztosítása mellett – a fővárosi és megyei kormányhivatalok járjanak el;
+6.[^2]
 
 7. felhívja az érintett minisztereket, hogy a területi államigazgatási szervek szervezeti rendszerének, pénzügyi-gazdálkodási helyzetének, működésének és létszámhelyzetének, a szervet érintő esetleges Európai Uniós pályázatoknak a felmérése, és a területi államigazgatási szervezetrendszer átalakítását megalapozó intézkedések és feladatok megvalósítása érdekében szükséges adatszolgáltatásokat az irányításuk alá tartozó szervezetek soron kívül teljesítsék a Miniszterelnökséget vezető miniszter, valamint a nemzetgazdasági miniszter részére;
 
@@ -138,7 +138,8 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2015. február 28.
 
-13.[^2] egyetért azzal, hogy a 3. pontban meghatározott területi államigazgatási szerveknek és a 4–6. pontban meghatározott feladatoknak a fővárosi és megyei kormányhivatalokba történő integrálásának időpontja: 2015. április 1.
+13.[^3] egyetért azzal, hogy a 3. pontban meghatározott területi államigazgatási szerveknek és a 4–6. pontban meghatározott feladatoknak a fővárosi és megyei kormányhivatalokba történő integrálásának időpontja: 2015. április 1.
 
 [^1]: A 4. pont az 1195/2015. (III. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 13. pont az 1195/2015. (III. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 6. pontot az 1520/2022. (XI. 2.) Korm. határozat 11. pontja visszavonta 2022. november 2. napjával.
+[^3]: A 13. pont az 1195/2015. (III. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
