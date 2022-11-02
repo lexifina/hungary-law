@@ -4,21 +4,9 @@
 
 ## b) a fejlesztések előkészítésének és megvalósításának kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-## c) felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – az 1. mellékletben foglalt táblázat 1. és 3. pontja szerinti köznevelési intézmény fejlesztésének megvalósítása érdekében gondoskodjon 778 720 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 18. Klebelsberg Központ cím javára;
+## c)[^1]
 
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## d) felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon az 1. mellékletben foglalt táblázat 2. pontja szerinti köznevelési intézmény fejlesztésének megvalósítása érdekében 64 337 630 forint biztosításáról a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok alcím, 6. Köznevelési intézmények felújítása, beruházása jogcímcsoport, és további 32 000 forint kincstári díj biztosításáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 48. Kincstári díj alcím javára;
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
+## d)[^2]
 
 ## e) felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Kormány részére az 1. melléklet 2. pontja szerinti fejlesztés megvalósításra, forrásigényére és ütemezésére vonatkozóan;
 
@@ -32,9 +20,9 @@
 
 ## Határidő: a d) alpont szerinti forrás rendelkezésre állását követően azonnal
 
-## 2.[^1]
+## 2.[^3]
 
-## 3.[^2]
+## 3.[^4]
 
 1. melléklet az 1375/2021. (VI. 11.) Korm. határozathoz
 
@@ -48,5 +36,7 @@
 
 |  | Összesen | 843 089 630 |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpontját az 1520/2022. (XI. 2.) Korm. határozat 67. pontja visszavonta.
+[^2]: Az 1. pont d) alpontját az 1520/2022. (XI. 2.) Korm. határozat 67. pontja visszavonta.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
