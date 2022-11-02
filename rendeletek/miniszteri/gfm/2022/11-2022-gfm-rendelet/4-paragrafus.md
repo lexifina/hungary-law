@@ -1,1 +1,3 @@
-4. § Hatályát veszti a védelmi feladatokban részt vevő postai szolgáltatók kijelöléséről és felkészülési feladataik meghatározásáról szóló 26/2010. (III. 31.) KHEM rendelet.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
