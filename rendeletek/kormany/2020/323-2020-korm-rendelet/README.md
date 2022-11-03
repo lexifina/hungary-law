@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-323-20-
 | 2021-11-06 | 2020-323-20-22.5 | 610/2021. (XI. 5.) Korm. rendelet |
 | 2021-12-21 | 2020-323-20-22.6 | 727/2021. (XII. 20.) Korm. rendelet |
 | 2022-04-06 | 2020-323-20-22.7 | 132/2022. (IV. 5.) Korm. rendelet |
+| 2022-11-03 | 2020-323-20-22.8 | 437/2022. (XI. 2.) Korm. rendelet |
