@@ -2,15 +2,15 @@
 
 ## 2. A KKB szervezeti és működési rendjét az 1. melléklet határozza meg.
 
-## 3.[^1]
+## 3.[^2]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^2]
+## 5.[^3]
 
 1. melléklet az 1150/2012. (V. 15.) Korm. határozathoz
 
-## A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság szervezeti és működési rendje
+A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság szervezeti és működési rendje
 
 A katasztrófavédelmi koordinációs tárcaközi bizottság feladatai
 
@@ -22,7 +22,7 @@ A KKB összetétele
 
 3. A KKB elnök-helyettese az elnök által kijelölt tag.
 
-4.[^3] A KKB tagjai az agrárminiszter, az emberi erőforrások minisztere, a honvédelmi miniszter, az igazságügyi miniszter, az innovációért és technológiáért felelős miniszter, a külgazdasági és külügyminiszter, a Miniszterelnökséget vezető miniszter, a miniszterelnök kabinetfőnöke és a pénzügyminiszter által kijelölt állami vezető, valamint a Belügyminisztérium belbiztonsági államtitkára és az atomenergia felügyeletéért felelős központi államigazgatási szerv vezetője. A KKB tagjai díjazásban nem részesülnek.
+4.[^4] A KKB tagjai az agrárminiszter, az építési és beruházási miniszter, a honvédelmi miniszter, az igazságügyi miniszter, a kultúráért és innovációért felelős miniszter, a technológiai és ipari miniszter, a külgazdasági és külügyminiszter, a Miniszterelnöki Kabinetirodát vezető miniszter, a Miniszterelnökséget vezető miniszter és a pénzügyminiszter által kijelölt politikai vagy szakmai felsővezető, valamint a Belügyminisztérium rendészeti államtitkára, egészségügyi államtitkára, köznevelési államtitkára, továbbá a KKB elnökének meghívása alapján az Országos Atomenergia Hivatal elnöke. A KKB tagjai díjazásban nem részesülnek.
 
 5. A KKB ülésén állandó jelleggel tanácskozási joggal részt vesz
 
@@ -30,7 +30,7 @@ a) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a tov
 
 b) az országos rendőrfőkapitány,
 
-c)[^4] a Magyar Honvédség parancsnoka,
+c)[^5] a Magyar Honvédség parancsnoka,
 
 d) a KKB Tudományos Tanácsának elnöke,
 
@@ -38,11 +38,13 @@ e) a KKB Nemzeti Veszélyhelyzet-kezelési Központjának (a továbbiakban: KKB 
 
 f) a KKB adminisztratív feladatait ellátó szervezeti egység vezetője,
 
-g)[^5] a Belügyminisztérium belbiztonsági államtitkára által kijelölt, a Belügyminisztérium állományába tartozó, vezetői munkakört betöltő személy.
+g)[^6] a Belügyminisztérium rendészeti államtitkára, egészségügyi államtitkára és köznevelési államtitkára által kijelölt, a Belügyminisztérium állományába tartozó, vezetői munkakört betöltő személy,
 
-6.[^6] A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt
+h)[^7] a Védelmi Igazgatás Hivatal főigazgatója.
 
-a)[^7] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
+6.[^8] A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt
+
+a)[^9] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
 
 b) a büntetés-végrehajtás országos parancsnoka,
 
@@ -50,7 +52,7 @@ c) a polgári nemzetbiztonsági szolgálatok főigazgatói,
 
 d) a KKB NVK-vezető szakmai helyettese,
 
-e)[^8]
+e)[^10]
 
 f) az országos főállatorvos,
 
@@ -62,7 +64,7 @@ i) az országos tisztifőorvos,
 
 j) a Nemzeti Adó- és Vámhivatal elnöke,
 
-k)[^9] a Terrorelhárítási Központ főigazgatója;
+k)[^11] a Terrorelhárítási Központ főigazgatója;
 
 l) az Országos Vízügyi Főigazgatóság főigazgatója,
 
@@ -72,7 +74,7 @@ n) azon megyei, fővárosi védelmi bizottság elnöke, akit a KKB napirendjén 
 
 o) a Nemzeti Média- és Hírközlési Hatóság elnöke, valamint
 
-p) az Állami Egészségügyi Ellátó Központ főigazgatója.
+p)[^12] az Országos Kórházi Főigazgatóság főigazgatója.
 
 7. A KKB elnöke a KKB ülésére más személyt is meghívhat. A 6. és e pont szerinti meghívásra a napirend által érintett KKB-tag kezdeményezése alapján is sor kerülhet.
 
@@ -88,13 +90,13 @@ Tudományos munkaszerv
 
 11. A KKB TT a természeti és civilizációs katasztrófák elleni védekezéssel kapcsolatban tudományos és tudományszervezési tevékenységet folytat. A nukleáris veszélyhelyzetek jelentőségére tekintettel a KKB TT nukleárisbaleset-elhárítási műszaki tudományos szekciót működtet.
 
-11/A.[^10] A KKB TT a katasztrófa- és válsághelyzeti medicinával kapcsolatos egészségügyi tartalékolási feladatok összehangolása érdekében tudományos szekciót működtet.
+11/A.[^13] A KKB TT a katasztrófa- és válsághelyzeti medicinával kapcsolatos egészségügyi tartalékolási feladatok összehangolása érdekében tudományos szekciót működtet.
 
 Operatív munkaszerv
 
 12. A KKB, a katasztrófák elleni védekezéssel kapcsolatos feladatok összehangolt végrehajtásának támogatása érdekében operatív munkaszervként KKB NVK-t működtet. A KKB NVK ügyrendjét a BM OKF főigazgatójának javaslatára a KKB hagyja jóvá.
 
-13.[^11] A KKB NVK a katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek állományából a KKB elnöke, illetve a KKB tagjai által kijelölt szakemberekkel, valamint meghívott szakértőkkel látja el feladatát. A kijelölés feltételei:
+13.[^14] A KKB NVK a katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek állományából a KKB elnöke, illetve a KKB tagjai által kijelölt szakemberekkel, valamint meghívott szakértőkkel látja el feladatát. A kijelölés feltételei:
 
 a) a KKB tagja által képviselt szervezet részéről a KKB NVK ügyrendjében meghatározott beosztási, képesítési, valamint általános és szakmai kompetenciák megléte, és
 
@@ -102,9 +104,9 @@ b) részvétel a KKB NVK által szervezett, kijelölést megelőző alapfelkész
 
 14. A KKB NVK a vezetőjéből, az általános munkacsoportból és szakmai feladatokat ellátó védekezési munkabizottságokból áll. A KKB NVK az általános munkacsoport részeként Lakossági Tájékoztatási Munkacsoportot működtet.
 
-15.[^12] Elrendelés esetén a KKB NVK általános munkacsoportja a BM OKF bázisán részleges, vagy a Belügyminisztérium bázisán teljes állománnyal, mindkét esetben 24 órás folyamatos munkarendben működik az ügyrendjében meghatározottak szerint. A részleges működést a BM OKF főigazgatója, a teljes állománnyal való működést a KKB elnöke, halaszthatatlan esetben – a KKB elnökének utólagos tájékoztatásával – a BM OKF főigazgatója rendeli el. A KKB elnöke a teljes állománnyal való működés elrendeléséről haladéktalanul tájékoztatja a KKB tagjait, és ezzel egyidejűleg dönt az érintett védekezési munkabizottság működésének megkezdéséről.
+15.[^15] Elrendelés esetén a KKB NVK általános munkacsoportja a BM OKF bázisán részleges, vagy a Belügyminisztérium bázisán teljes állománnyal, mindkét esetben 24 órás folyamatos munkarendben működik az ügyrendjében meghatározottak szerint. A részleges működést a BM OKF főigazgatója, a teljes állománnyal való működést a KKB elnöke, halaszthatatlan esetben – a KKB elnökének utólagos tájékoztatásával – a BM OKF főigazgatója rendeli el. A KKB elnöke a teljes állománnyal való működés elrendeléséről haladéktalanul tájékoztatja a KKB tagjait, és ezzel egyidejűleg dönt az érintett védekezési munkabizottság működésének megkezdéséről.
 
-16.[^13] A KKB NVK, a teljes állománnyal való működésének megkezdését követően, a KKB szakmai javaslattevő, valamint a feladatok végrehajtásának összehangolásában részt vevő szerveként működik, ennek során
+16.[^16] A KKB NVK, a teljes állománnyal való működésének megkezdését követően, a KKB szakmai javaslattevő, valamint a feladatok végrehajtásának összehangolásában részt vevő szerveként működik, ennek során
 
 a) végzi a szükséges operatív döntések előkészítését, javaslatot tesz a döntések végrehajtására, figyelemmel kíséri a döntések végrehajtását,
 
@@ -114,7 +116,7 @@ c) tájékoztatja a KKB elnöke útján a KKB-t a kialakult helyzetről, a megte
 
 d) elemzi és értékeli a kialakult helyzetet, a központi, területi szintű megelőző intézkedések bevezetésével kapcsolatos információkat.
 
-17.[^14] A KKB NVK, a teljes állománnyal való működésének elrendelését követően, a Belügyminisztérium bázisán erre a célra kialakított és felszerelt, folyamatosan működőképes állapotban tartott létesítményben működik. A KKB NVK félévente gyakorlatot tart a teljes állománnyal való működési rendre történő áttérés begyakorlása érdekében, amennyiben a tárgyidőszakban veszélyhelyzet kihirdetésére nem került sor.
+17.[^17] A KKB NVK, a teljes állománnyal való működésének elrendelését követően, a Belügyminisztérium bázisán erre a célra kialakított és felszerelt, folyamatosan működőképes állapotban tartott létesítményben működik. A KKB NVK félévente gyakorlatot tart a teljes állománnyal való működési rendre történő áttérés begyakorlása érdekében, amennyiben a tárgyidőszakban veszélyhelyzet kihirdetésére nem került sor.
 
 18. A KKB NVK vezetőjét a KKB elnöke nevezi ki.
 
@@ -132,13 +134,13 @@ c) a veszélyhelyzeti szintet elérő környezetkárosodás felszámolásának i
 
 d) a földtani veszélyforrások következményeinek felszámolására a településfejlesztésért és településrendezésért,
 
-e)[^15] a nukleárisbaleset-elhárításra az atomenergia felügyeletéért,
+e)[^18] a nukleárisbaleset-elhárításra az atomenergia felügyeletéért,
 
 f) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) 3. § 28. pontja hatálya alá nem tartozó ipari létesítményekben veszélyes anyag tárolása és szállítása közben bekövetkező, veszélyhelyzeti szintet elérő esemény következményei felszámolásának irányítására az iparügyekért,
 
 g) a Kat. 3. § 28. pontja hatálya alá nem tartozó ipari üzemekkel kapcsolatos, szénhidrogén-kitermelés során bekövetkező, veszélyhelyzeti szintet elérő esemény következményei felszámolásának irányítására a bányászati ügyekért,
 
-h)[^16] humán járványok, határon átnyúló egészségügyi veszélyek megelőzésének és felszámolásának irányítására az egészségügyért,
+h)[^19] humán járványok, határon átnyúló egészségügyi veszélyek megelőzésének és felszámolásának irányítására az egészségügyért,
 
 i) a veszélyhelyzeti szintű hőhullám időszakára az egészségügyért,
 
@@ -150,17 +152,17 @@ l) a kormányzati, közigazgatási és lakosságellátási informatikai rendszer
 
 m) az elektronikus hírközlési infrastruktúrát ért károk felszámolására az elektronikus hírközlésért, valamint
 
-n)[^17] a külföldiek tömeges méretű migrációja miatt bekövetkező események kezelésére az idegenrendészetért és menekültügyért
+n)[^20] a külföldiek tömeges méretű migrációja miatt bekövetkező események kezelésére az idegenrendészetért és menekültügyért
 
 felelős központi államigazgatási szervet képviselő KKB-tag által kijelölt személy, aki egyben ellátja a 22. pontban meghatározott védekezési munkabizottság vezetői feladatait.
 
-22.[^18] Az a központi államigazgatási szerv, melynek az adott katasztrófatípus kezelése, elhárítása a jogszabályban meghatározott alapvető feladatait, felelősségi körét elsődlegesen érinti, a székhelyén – a központi államigazgatási szerv állományából – a 21. pont a)–n) alpontjában meghatározott katasztrófatípus szerinti védekezési munkabizottságot működtet. A védekezési munkabizottság feladatainak ellátására kijelölhető arra alkalmas, már működő olyan munkaszervezet is, amely jogszabály alapján hasonló tevékenységet végez. A védekezési munkabizottság ügyrendjét az érintett központi államigazgatási szervet képviselő KKB-tag javaslatára a KKB elnöke hagyja jóvá.
+22.[^21] Az a központi államigazgatási szerv, melynek az adott katasztrófatípus kezelése, elhárítása a jogszabályban meghatározott alapvető feladatait, felelősségi körét elsődlegesen érinti, a székhelyén – a központi államigazgatási szerv állományából – a 21. pont a)–n) alpontjában meghatározott katasztrófatípus szerinti védekezési munkabizottságot működtet. A védekezési munkabizottság feladatainak ellátására kijelölhető arra alkalmas, már működő olyan munkaszervezet is, amely jogszabály alapján hasonló tevékenységet végez. A védekezési munkabizottság ügyrendjét az érintett központi államigazgatási szervet képviselő KKB-tag javaslatára a KKB elnöke hagyja jóvá.
 
-23.[^19] A nukleáris védekezési munkabizottság, tevékenysége során az atomenergia felügyeletéért felelős központi államigazgatási szerv és a BM OKF által biztosított elemzési eredményeket használja fel.
+23.[^22] A nukleáris védekezési munkabizottság, tevékenysége során az atomenergia felügyeletéért felelős központi államigazgatási szerv és a BM OKF által biztosított elemzési eredményeket használja fel.
 
 24. A Kat. 3. § 28. pontja szerinti veszélyes anyagokkal foglalkozó üzem működése során keletkezett katasztrófa következményei felszámolása során a szakmai tevékenységet a 20. pontban meghatározott általános munkacsoport látja el.
 
-25.[^20] A KKB NVK teljes állománnyal való működésének elrendelése esetén a védekezési munkabizottság a KKB NVK részeként működik.
+25.[^23] A KKB NVK teljes állománnyal való működésének elrendelése esetén a védekezési munkabizottság a KKB NVK részeként működik.
 
 A KKB összehívásának és működésének rendje
 
@@ -174,23 +176,25 @@ A KKB összehívásának és működésének rendje
 
 30. A KKB működésének részletes szabályait a KKB az ügyrendjében állapítja meg.
 
-[^1]: A 3. pontot az 1019/2016. (I. 22.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet 4. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított, 2. pontja, az 1876/2020. (XII. 2.) Korm. határozat 7. pontja szerint módosított szöveg.
-[^4]: Az 1. melléklet 5. pont c) alpontja az 1754/2019. (XII. 20.) Korm. határozat 6. pontjával megállapított szöveg.
-[^5]: Az 1. melléklet 5. pont g) alpontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított, az 1876/2020. (XII. 2.) Korm. határozat 7. pontja szerint módosított szöveg.
-[^6]: Az 1. melléklet 6. pontja az 1853/2016. (XII. 27.) Korm. határozat 14. pontjával megállapított szöveg.
-[^7]: Az 1. melléklet 6. pont a) alpontja az 1405/2019. (VII. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^8]: Az 1. mellékle 6. pont e) alpontját az 1590/2018. (XI. 22.) Korm. rendelet 2. pontja hatályon kívül helyezte.
-[^9]: Az 1. melléklet 6. pont k) alpontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^10]: Az 1. melléklet 11/A. pontját az 1754/2019. (XII. 20.) Korm. határozat 6. pontja iktatta be.
-[^11]: Az 1. melléklet 13. pontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^12]: Az 1. melléklet 15. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^13]: Az 1. melléklet 16. pont nyitó szövegrésze az 1590/2018. (XI. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^14]: Az 1. melléklet 17. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^15]: Az 1. melléklet 21. pont e) alpontja az 1590/2018. (XI. 22.) Korm. rendelet 2. pontjával megállapított szöveg.
-[^16]: Az 1. melléklet 21. pont h) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^17]: Az 1. melléklet 21. pont n) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^18]: Az 1. melléklet 22. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^19]: Az 1. melléklet 23. pontja az 1590/2018. (XI. 22.) Korm. rendelet 2. pontjával megállapított szöveg.
-[^20]: Az 1. melléklet 25. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 3. pontot az 1019/2016. (I. 22.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet 4. pontja az 1521/2022. (XI. 2.) Korm. határozat 24. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 5. pont c) alpontja az 1754/2019. (XII. 20.) Korm. határozat 6. pontjával megállapított szöveg.
+[^6]: Az 1. melléklet 5. pont g) alpontja az 1521/2022. (XI. 2.) Korm. határozat 24. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 5. pont h) alpontját az 1521/2022. (XI. 2.) Korm. határozat 24. pontja iktatta be.
+[^8]: Az 1. melléklet 6. pontja az 1853/2016. (XII. 27.) Korm. határozat 14. pontjával megállapított szöveg.
+[^9]: Az 1. melléklet 6. pont a) alpontja az 1405/2019. (VII. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^10]: Az 1. mellékle 6. pont e) alpontját az 1590/2018. (XI. 22.) Korm. rendelet 2. pontja hatályon kívül helyezte.
+[^11]: Az 1. melléklet 6. pont k) alpontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^12]: Az 1. melléklet 6. pont p) alpontja az 1521/2022. (XI. 2.) Korm. határozat 24. pontjával megállapított szöveg.
+[^13]: Az 1. melléklet 11/A. pontját az 1754/2019. (XII. 20.) Korm. határozat 6. pontja iktatta be.
+[^14]: Az 1. melléklet 13. pontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^15]: Az 1. melléklet 15. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^16]: Az 1. melléklet 16. pont nyitó szövegrésze az 1590/2018. (XI. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 17. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 21. pont e) alpontja az 1590/2018. (XI. 22.) Korm. rendelet 2. pontjával megállapított szöveg.
+[^19]: Az 1. melléklet 21. pont h) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^20]: Az 1. melléklet 21. pont n) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 22. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^22]: Az 1. melléklet 23. pontja az 1590/2018. (XI. 22.) Korm. rendelet 2. pontjával megállapított szöveg.
+[^23]: Az 1. melléklet 25. pontja az 1590/2018. (XI. 22.) Korm. határozat 1. pontja szerint módosított szöveg.

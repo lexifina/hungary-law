@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1150-30
 | 2019-07-09 | 2012-1150-30-22.7 | 1405/2019. (VII. 8.) Korm. határozat |
 | 2019-12-21 | 2012-1150-30-22.8 | 1754/2019. (XII. 20.) Korm. határozat |
 | 2020-12-03 | 2012-1150-30-22.9 | 1590/2018. (XI. 22.) Korm. határozat |
+| 2022-11-03 | 2012-1150-30-22.10 | 1521/2022. (XI. 2.) Korm. határozat |
