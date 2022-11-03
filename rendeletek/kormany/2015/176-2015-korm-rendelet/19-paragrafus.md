@@ -4,4 +4,6 @@
 
 19. § (1) Az infokommunikációs eszközön keresztül megrendelt személyszállítási szolgáltatásokra az e rendeletben meghatározott rendelkezéseket alkalmazni kell.
 
-(2) Az infokommunikációs eszközön keresztül fogadott, továbbított és tárolt adatok kezelése az adatszolgáltatók hozzájárulása alapján az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott rendelkezések szerint történik.
+(2)[^46]
+
+[^46]: A 19. § (2) bekezdését a 394/2022. (X. 19.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.

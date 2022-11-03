@@ -1,6 +1,6 @@
 2. melléklet a 176/2015. (VII. 7.) Korm. rendelethez
 
-## Felmentést adó képesítések a szakmai irányítói képesítés megszerzéséhez szükséges egyes vizsgatárgyakra vonatkozó vizsgakötelezettség alól
+Felmentést adó képesítések a szakmai irányítói képesítés megszerzéséhez szükséges egyes vizsgatárgyakra vonatkozó vizsgakötelezettség alól
 
 1. Jogi ismeretek:
 
@@ -62,10 +62,10 @@ c) közlekedésmérnök alapképzési szakon szerzett diploma vagy
 
 d) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
 
-e)[^22] középfokú szakképesítés:
+e)[^77] középfokú szakképesítés:
 
 ea) nemzetközi szállítmányozási és logisztikai menedzser
 
 eb) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-[^22]: A 2. melléklet 4. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 105. §-a szerint módosított szöveg.
+[^77]: A 2. melléklet 4. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 105. §-a szerint módosított szöveg.

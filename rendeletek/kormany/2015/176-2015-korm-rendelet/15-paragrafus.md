@@ -1,21 +1,29 @@
 ## 13. A tevékenységi engedély, valamint a személyszállító vezetői igazolvány visszavonása
 
-15. § (1) A közlekedési hatóság a vállalkozás tevékenységi engedélyét két évre visszavonja, ha a vállalkozás – anélkül, hogy a szünetelést a közlekedési hatóságnak, a megkülönböztető rendszámtábla egyidejű letétbe helyezése mellett, bejelentette volna – az engedélyezett tevékenységet legalább egy éven át nem gyakorolja.
+15. §[^35] (1) A közlekedési hatóság a vállalkozás tevékenységi engedélyét visszavonja, és a tevékenység gyakorlásától a vállalkozást két évre eltiltja, ha a vállalkozás – anélkül, hogy a szünetelést a megkülönböztető rendszámtábla egyidejű letétbe helyezése mellett a közlekedési hatóságnak bejelentette volna – az engedélyezett tevékenységet legalább egy éven át nem gyakorolja.
 
-(2) A közlekedési hatóság a vállalkozás tevékenységi engedélyét – a jogsértés súlyosságától függően – legalább egy, de legfeljebb három évre visszavonja, ha a vállalkozás szakmai irányítója az e rendeletben meghatározott rendelkezéseket bármilyen módon megsértette.
+(2) Amennyiben véglegessé vált hatósági döntés egy éven belül legalább két alkalommal megállapítja, hogy a vállalkozás megsértette a személyszállító szolgáltatás végzésére vonatkozó jogszabályban meghatározott vagy a személyszállítási szolgáltatással összefüggő nyugtaadási kötelezettségre vonatkozó rendelkezéseket, a közlekedési hatóság a vállalkozás tevékenységi engedélyét visszavonja, és – a jogsértés súlyosságától és a jogsértő cselekmények elkövetésének gyakoriságától függően – a tevékenység gyakorlásától a vállalkozást legfeljebb három évre eltiltja.
 
-(3) A (2) bekezdés szerinti visszavonásra a vállalkozás működési területén illetékes helyi önkormányzat jegyzője, a fogyasztóvédelmi hatóság, a közlekedési hatóság, a Fővárosi Önkormányzati Rendészeti Igazgatóság, helyi önkormányzat közlekedés szervezője (a Fővárosban a Fővárosi Önkormányzat közlekedés-szervezője), valamint az ellenőrzésre jogosult egyéb szervek, továbbá az illetékes szakmai érdekképviseletek és a Magyar Kereskedelmi és Iparkamara javaslatot tehetnek.
+(3) A fogyasztóvédelmi hatóság és a közlekedési hatóság a személyszállító szolgáltatás végzésére vonatkozó jogszabályban meghatározott rendelkezések megsértését megállapító, véglegessé vált döntését haladéktalanul megküldi a vállalkozás működési területén illetékes közlekedési hatóság részére a (2) bekezdés szerinti eljárás lefolytatása céljából.
 
-(4) A vállalkozás a tevékenységi engedélye visszavonásának időtartama alatt az abban meghatározott tevékenységet nem végezheti, a tevékenységi engedélybe bejegyzett adatok megváltoztatását nem kezdeményezheti.
+(4) A (2) bekezdés szerinti tevékenységi engedély visszavonásra és tevékenység gyakorlásától történő eltiltásra a (3) bekezdésben meghatározott szervek, valamint az állami adó- és vámhatóság – a hatósági döntésük megküldésével egyidejűleg –, továbbá a Fővárosi Önkormányzati Rendészeti Igazgatóság, a vállalkozás működési területén illetékes helyi önkormányzat jegyzője, a helyi önkormányzat közlekedésszervezője (a fővárosban a Fővárosi Önkormányzat közlekedésszervezője), az illetékes szakmai érdekképviseletek és a Magyar Kereskedelmi és Iparkamara javaslatot tehetnek.
 
-(5) A tevékenységi engedély visszavonása esetén a közlekedési hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben megjelölt – a vállalkozás székhelye szerint illetékes – szervnél a személygépkocsi megkülönböztető rendszámának bevonását kezdeményezi.
+(5) A vállalkozás a tevékenység gyakorlásától történő eltiltás időtartama leteltéig az abban meghatározott tevékenységet nem végezheti, a tevékenységi engedélybe bejegyzett adatok megváltoztatását nem kezdeményezheti.
 
-(6) Ha az ellenőrzés megállapítja, hogy a vállalkozás a 4. §-ban meghatározott feltételeknek nem felel meg, akkor a közlekedési hatóság a tevékenységi engedélyt visszavonja.
+(6) A tevékenységi engedély visszavonása és a tevékenység gyakorlásától történő eltiltás alkalmazása esetén a közlekedési hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott – a vállalkozás székhelye szerint illetékes – szervnél a vállalkozás tevékenységi engedélye alapján üzemeltetett valamennyi személygépkocsi megkülönböztető rendszámának bevonását kezdeményezi.
 
-(7) A közlekedési hatóság a személyszállító vezetői igazolványt
+(7) Ha az ellenőrzés során megállapítást nyer, hogy a vállalkozás vagy az általa üzemeltetett jármű nem felel meg a 4–8. §-ban meghatározott feltételeknek, akkor a közlekedési hatóság a tevékenységi engedélyt vagy engedélykivonatot visszavonja.
 
-a) az e rendeletben meghatározott feltételek teljesüléséig visszavonja, ha a személyszállító vezetői igazolvány kiadásának az e rendeletben meghatározott feltételei már nem teljesülnek,
+(8) A közlekedési hatóság a személyszállító vezetői igazolványt
 
-b) legalább három hónapra, de legfeljebb öt évre visszavonja, ha a személytaxi vezetője az e rendeletben meghatározott rendelkezéseket bármilyen módon megsértette, vagy
+a) visszavonja, ha a személyszállító vezetői igazolvány kiadásának az e rendeletben meghatározott feltételei már nem teljesülnek,
 
-c) egy éven belül ismételten megsértette a 21. § (3) bekezdésében foglalt rendelkezéseket.
+b) visszavonja, és a személytaxi vezetőjét – a jogsértés súlyosságától és a jogsértő cselekmények elkövetésének gyakoriságától függően – legalább három hónapra, de legfeljebb két évre eltiltja a tevékenység gyakorlásától, ha a személytaxi vezetője
+
+ba) a személytaxi-szolgáltatás végzésére vonatkozó jogszabályban meghatározott rendelkezéseket – a tevékenységi engedély nélküli szolgáltatás kivételével – megsértette, és emiatt a felelősségét véglegessé vált hatósági döntés megállapította, vagy
+
+bb) egy éven belül ismételten megsértette a 21. § (3) bekezdésében foglalt rendelkezéseket, vagy
+
+c) visszavonja, és a személytaxi vezetőjét három évre eltiltja a tevékenység végzésétől, ha járművezetőként felelősségét az e rendeletben meghatározott tevékenység engedély nélküli végzéséért véglegessé vált hatósági döntés megállapította.
+
+[^35]: A 15. § a 394/2022. (X. 19.) Korm. rendelet 10. §-ával megállapított szöveg.

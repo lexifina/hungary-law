@@ -16,6 +16,6 @@ d) a diszpécserszolgálatra, valamint
 
 e) az önálló diszpécserszolgálatra
 
-## terjed ki.
+terjed ki.
 
 (2) Az e rendeletnek a diszpécserszolgálatra és az önálló diszpécserszolgálatra vonatkozó szabályait alkalmazni kell a szabad szolgáltatásnyújtás jogával rendelkező, a szolgáltatást határon átnyúló szolgáltatás keretében végző szolgáltatóra is.

@@ -1,5 +1,3 @@
-## Vizsgáztatásra vonatkozó szakmai képesítési feltételek
-
 ## Személytaxis és személygépkocsis személyszállító vállalkozói szaktanfolyami vizsgabiztosra vonatkozó szakmai képesítések: államigazgatási, számviteli, pénzügyi felsőfokú végzettség vagy közigazgatási szakvizsga vagy közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség.
 
 5. melléklet a 176/2015. (VII. 7.) Korm. rendelethez
@@ -44,9 +42,9 @@ Sikertelen a vizsga, ha a vizsgázó a kihúzott tételen szereplő kérdésekbe
 
 1.2.2. Gyakorlati vizsgatárgyak és vizsgaidők: vezetési gyakorlat (40 perc),
 
-1.2.2.1. Követelmények:
+1.2.2.1. Követelmények:[^80]
 
-A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, illetve a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely megye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt megye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
+A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely megye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt megye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
 
 Sikertelen a vizsga ha:
 
@@ -150,9 +148,9 @@ A közlekedési, hibaelhárítási és vezetéstechnikai ismeretek, vezetéselm�
 
 5.1. Gyakorlati vizsgatárgyak és vizsgaidők: vezetési gyakorlat (40 perc)
 
-5.1.1. Követelmények:
+5.1.1. Követelmények:[^81]
 
-A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, illetve a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely megye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt megye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
+A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely megye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt megye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
 
 Sikertelen a vizsga ha:
 
@@ -176,9 +174,9 @@ Sikertelen a vizsga, ha a vizsgázó a kihúzott tételen szereplő kérdésekbe
 
 7.1. Gyakorlati vizsgatárgyak és vizsgaidők: speciális járművezetési és utas-kiszolgálási gyakorlat (40 perc),
 
-7.1.1. Követelmények:
+7.1.1. Követelmények:[^82]
 
-A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, illetve a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely megye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt megye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
+A gyakorlati vizsga keretében, személyszállítási fuvarfeladatot szimulálva a jármű szabályos, biztonságos vezetéséről, a taxi tartozékok szakszerű kezeléséről, valamint a vizsgabiztos által meghatározott úti cél megtalálásából kell számot adnia. A vizsgázónak jelentkezéskor jeleznie kell, hogy mely megye vagy a főváros területére szeretne vizsgát tenni. A vizsga a megjelölt megye vagy a főváros területén tehető le. A vizsga pontos helyét a közlekedési hatóság jelöli ki, a 3. mellékletben meghatározott feltételeknek megfelelő vizsgajárművet a képzőszerv biztosítja.
 
 Sikertelen a vizsga ha:
 
@@ -187,3 +185,7 @@ a) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 b) tájékozatlanságot mutat a taxi tartozékok kezelését, vagy utas-kiszolgálási feladatait illetően, vagy
 
 c) a vizsgabiztos által meghatározott úti célt nem tudja megtalálni, eltéved.
+
+[^80]: Az 5. melléklet 1.2.2.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja szerint módosított szöveg.
+[^81]: Az 5. melléklet 5.1.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja szerint módosított szöveg.
+[^82]: Az 5. melléklet 7.1.1. pontja a 394/2022. (X. 19.) Korm. rendelet 25. § e) pontja szerint módosított szöveg.

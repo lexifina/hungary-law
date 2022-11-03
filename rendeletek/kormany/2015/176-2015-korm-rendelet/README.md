@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-176-20-
 | 2020-08-31 | 2015-176-20-22.10 | 416/2020. (VIII. 30.) Korm. rendelet |
 | 2020-11-05 | 2015-176-20-22.11 | 481/2020. (XI. 4.) Korm. rendelet |
 | 2021-10-09 | 2015-176-20-22.12 | 524/2021. (IX. 8.) Korm. rendelet |
+| 2022-11-03 | 2015-176-20-22.13 | 394/2022. (X. 19.) Korm. rendelet |

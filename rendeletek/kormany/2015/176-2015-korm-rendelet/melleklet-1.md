@@ -1,8 +1,6 @@
-## 31. §[^21]
-
 1. melléklet a 176/2015. (VII. 7.) Korm. rendelethez
 
-## A vállalkozás szakmai irányítójára vonatkozó követelmények
+A vállalkozás szakmai irányítójára vonatkozó követelmények
 
 1. A személytaxis és személygépkocsis személyszállító vállalkozói képesítés megszerzéséhez a vállalkozás szakmai irányítójának szaktanfolyamon kell részt vennie.
 
@@ -39,5 +37,3 @@ Az elméleti tantárgyakból 25 tesztkérdésre kell válaszolni, az elérhető 
 A vizsga során 3 feladatot kell a vizsgázóknak esszé formájában kifejteni a fenti négy vizsgatárggyal kapcsolatos elméleti ismeretanyagból.
 
 Ezeket a feladatokat a közlekedési hatóság által kiadott feladatlapokon kell elkészíteni. Az esettanulmány kitöltésére fordítható idő 30 perc.
-
-[^21]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

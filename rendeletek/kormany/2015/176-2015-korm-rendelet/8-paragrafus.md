@@ -10,7 +10,7 @@ ab) szerepel a köztartozásmentes adózói adatbázisban, valamint
 
 b) rendelkezik a (2) bekezdésben meghatározott mértékű vagyoni biztosítékkal.
 
-(2) A vagyoni biztosíték mértéke a vállalkozás tevékenységi engedélyében szereplő, személytaxi-szolgáltatást, illetve személygépkocsis személyszállító szolgáltatást végző, minden egyes személygépkocsi után az azzal szállítható utasonként ötvenezer forint összegű,
+(2)[^23] A vagyoni biztosíték mértéke a vállalkozás tevékenységi engedélyében szereplő, személytaxi-szolgáltatást vagy személygépkocsis személyszállító szolgáltatást végző, minden egyes személygépkocsi után az azzal szállítható utasonként ötvenezer forint összegű,
 
 a) elkülönített számlán kezelt vagyoni biztosíték, vagy
 
@@ -23,3 +23,5 @@ b) biztosító által nyújtott felelősségbiztosítás.
 a) csökkenés következik be, akkor a (2) bekezdésben meghatározott biztosíték mértékét tizenöt napon belül arányosan csökkenteni lehet,
 
 b) növekedés következik be, akkor a biztosítékot azzal arányosan tizenöt napon belül fel kell emelni.
+
+[^23]: A 8. § (2) bekezdés nyitó szövegrésze a 394/2022. (X. 19.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
