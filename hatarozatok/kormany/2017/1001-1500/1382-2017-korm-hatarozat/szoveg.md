@@ -10,7 +10,7 @@
 
 a) figyelemmel kíséri és véleményezi az Óvodai nevelés országos alapprogramjának, a Nemzeti alaptantervnek, a Kollégiumi nevelés országos alapprogramjának, valamint a kerettanterveknek a kiadását, alkalmazását,
 
-b) javaslatot tesz a köznevelést érintő szakmai kérdésekben az oktatásért felelős miniszter (a továbbiakban: miniszter) útján a Kormánynak,
+b)[^1] javaslatot tesz a köznevelést érintő szakmai kérdésekben a köznevelésért felelős miniszter (a továbbiakban: miniszter) útján a Kormánynak,
 
 c) figyelemmel kíséri és véleményezi a pedagógus továbbképzés rendszerének működését, különös tekintettel a továbbképzések akkreditációs eljárására,
 
@@ -20,7 +20,7 @@ e) véleményezi az Oktatási Jogok Biztosának éves beszámolóját.
 
 4. Az Országos Köznevelési Tanácsnak a miniszter felkérése alapján tizenhét rendes és hat póttagja van, az alábbiak szerint:
 
-a) két rendes tagot a miniszter, egy-egy rendes tagot a szakképzésért és felnőttképzésért felelős miniszter és a helyi önkormányzatokért felelős miniszter delegál,
+a)[^2] két rendes tagot a miniszter, egy-egy rendes tagot a szakképzésért felelős miniszter és a helyi önkormányzatokért felelős miniszter delegál,
 
 b) egy-egy rendes tagot és egy-egy póttagot a Magyar Tudományos Akadémia, valamint a Magyar Művészeti Akadémia delegál,
 
@@ -50,7 +50,7 @@ e) a szavazatok összesítését és a sorsolást a miniszter vagy megbízottja 
 
 9. Az Országos Köznevelési Tanács tagjainak miniszter általi felkérése öt évre szól.
 
-10. Az Országos Köznevelési Tanács tagjai egymás után két alkalommal újraválaszthatók.
+10.[^3]
 
 11. Ha a rendes tag megbízatása megszűnik, akkor helyét a póttag veszi át. Ha az Országos Köznevelési Tanács – rendes tagokkal és póttagokkal számított együttes – létszáma nem éri el a tizenhét főt, akkor a miniszter új választási, illetve delegálási eljárást kezdeményez.
 
@@ -70,7 +70,7 @@ e) a szavazatok összesítését és a sorsolást a miniszter vagy megbízottja 
 
 4. Köznevelés-stratégiai Kerekasztal
 
-18. A Köznevelés-stratégiai Kerekasztal a közneveléssel kapcsolatos döntések előkészítésében javaslattevő, véleményező, stratégiai tanácsadói tevékenységet végző társadalmi konzultációs szakmai testület.
+18.[^4] A Köznevelés-stratégiai Kerekasztal a közneveléssel kapcsolatos döntések előkészítésében javaslattevő, véleményező, stratégiai tanácsadói tevékenységet végző társadalmi egyeztető szakmai testület.
 
 19. A Köznevelés-stratégiai Kerekasztal
 
@@ -82,7 +82,7 @@ b) figyelemmel kíséri a köznevelés színvonalának alakulását, a köznevel
 
 21. A Köznevelés-stratégiai Kerekasztal képviseleti oldalai
 
-a)[^1] a kormányzati képviselet, amely a miniszter nevében eljáró, a miniszter által vezetett minisztérium állami vezetőjéből, illetve képviselőjéből és az Innovációs és Technológiai Minisztérium, Agrárminisztérium, Honvédelmi Minisztérium, Belügyminisztérium egy-egy képviselőjéből áll,
+a)[^5] a kormányzati képviselet, amely a miniszter nevében eljáró, a miniszter által vezetett minisztérium állami vezetőjéből, illetve képviselőjéből és a Kulturális és Innovációs Minisztérium, Agrárminisztérium, Honvédelmi Minisztérium, Belügyminisztérium egy-egy képviselőjéből áll,
 
 b) a szakmai képviselet, amely kilenc főből áll az alábbiak szerint:
 
@@ -94,13 +94,13 @@ bc) a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia és a Rektori
 
 bd) a felsőoktatási intézmények által fenntartott gyakorlóiskolák részéről egy fő,
 
-c)[^2] az intézményfenntartói képviselet, amely tíz főből áll az alábbiak szerint:
+c)[^6] az intézményfenntartói képviselet, amely tíz főből áll az alábbiak szerint:
 
-ca)[^3] az állami köznevelési intézményfenntartói képviseletet ellátó kettő fő,
+ca)[^7] az állami köznevelési intézményfenntartói képviseletet ellátó kettő fő,
 
 caa) a Klebelsberg Központ koordinálásával két fő a tankerületek képviseletében,
 
-cab)[^4]
+cab)[^8]
 
 cb) az önkormányzati és nemzetiségi önkormányzati képviseletet ellátó három fő,
 
@@ -122,9 +122,9 @@ e) az országos szülői és diákképviseletek egy-egy fő rendes tagot és egy
 
 23. Az országos szülői és diákképviseletek által történő választást megelőzően jelölésre kerül sor.
 
-24. A választást megelőző jelölésben azok az országos szülői szervezetek vehetnek részt, amelyek alapszabályuk és bírósági nyilvántartásba vételük igazolásával az Emberi Erőforrások Minisztériuma köznevelésért felelős helyettes államtitkárának titkárságán jelentkeztek és igazolni tudják legalább harminc köznevelési intézményben működő szülői közösség támogatását.
+24.[^9] A választást megelőző jelölésben azok az országos szülői szervezetek vehetnek részt, amelyek alapszabályuk és bírósági nyilvántartásba vételük igazolásával a Belügyminisztérium köznevelési helyettes államtitkárának titkárságán jelentkeztek és igazolni tudják legalább harminc köznevelési intézményben működő szülői közösség támogatását.
 
-25. A választást megelőző jelölésben azok az országos diákszervezetek, valamint diákönkormányzati szövetségek vehetnek részt, amelyek alapszabályuk és bírósági nyilvántartásba vételük igazolásával, illetve a diákönkormányzati szövetség alapdokumentumával és a képviselt intézményi diákönkormányzatok listájával az Emberi Erőforrások Minisztériuma köznevelésért felelős helyettes államtitkárának titkárságán jelentkeztek.
+25.[^10] A választást megelőző jelölésben azok az országos diákszervezetek, valamint diákönkormányzati szövetségek vehetnek részt, amelyek alapszabályuk és bírósági nyilvántartásba vételük igazolásával, illetve a diákönkormányzati szövetség alapdokumentumával és a képviselt intézményi diákönkormányzatok listájával a Belügyminisztérium köznevelési helyettes államtitkárának titkárságán jelentkeztek.
 
 26. A jelölés és a választás folyamata a 8. pontban meghatározottak szerint történik.
 
@@ -144,7 +144,7 @@ d) a tag halálával.
 
 29. A szakmai testületek munkáját titkárság segíti. A szakmai testületek működéséhez szükséges feltételekről a miniszter gondoskodik.
 
-30. A szakmai testületek működésének költségeit a XX. Emberi Erőforrások Minisztériuma fejezetének költségvetésében kell biztosítani. A szakmai testületek tagjait tevékenységük ellátásáért díjazás nem illeti meg.
+30.[^11] A szakmai testületek működésének költségeit a XIV. Belügyminisztérium fejezet költségvetésében kell biztosítani. A szakmai testületek tagjait tevékenységük ellátásáért díjazás nem illeti meg.
 
 31. A szakmai testületek ügyrendjét a miniszter hagyja jóvá.
 
@@ -162,14 +162,23 @@ d) a tag halálával.
 
 37. A miniszter e határozat hatálybalépését követő két hónapon belül megteszi a szükséges intézkedéseket a Köznevelés-stratégiai Kerekasztal megalakulása érdekében.
 
-38. Az Országos Köznevelési Tanács tagjainak választása vagy delegálása során figyelembe kell venni, hogy a tag az Országos Köznevelési Tanácsról és az Országos Nemzetiségi Tanácsról szóló 1855/2013. (XI. 19.) Korm. határozat alapján 2013. november 20. napját követően hányszor kapott egymást követő választáson megbízást.
+38.[^12]
 
-39. Az Országos Köznevelési Tanács és az Országos Nemzetiségi Tanács az Országos Köznevelési Tanácsról és az Országos Nemzetiségi Tanácsról szóló 1855/2013. (XI. 19.) Korm. határozatban meghatározott feladatát az e határozat szerint létrehozott szakmai testületek megalakulásig ellátja.
+39.[^13]
 
-40.[^5]
+40.[^14]
 
-[^1]: A 21. pont a) alpontja az 1602/2021. (VIII. 16.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
-[^2]: A 21. pont c) alpont nyitó szövegrésze az 1602/2021. (VIII. 16.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
-[^3]: A 21. pont c) alpont ca) pontja az 1602/2021. (VIII. 16.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
-[^4]: A 21. pont c) alpont ca) pont cab) alpontját az 1602/2021. (VIII. 16.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^5]: A 40. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont b) alpontja az 1521/2022. (XI. 2.) Korm. határozat 44. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4. pont a) alpontja az 1521/2022. (XI. 2.) Korm. határozat 44. pont b) alpontja szerint módosított szöveg.
+[^3]: A 10. pontot az 1521/2022. (XI. 2.) Korm. határozat 45. pont a) alpontja hatályon kívül helyezte.
+[^4]: A 18. pont az 1521/2022. (XI. 2.) Korm. határozat 44. pont c) alpontja szerint módosított szöveg.
+[^5]: A 21. pont a) alpontja az 1602/2021. (VIII. 16.) Korm. határozat 1. pont a) alpontja, az 1521/2022. (XI. 2.) Korm. határozat 44. pont d) alpontja szerint módosított szöveg.
+[^6]: A 21. pont c) alpont nyitó szövegrésze az 1602/2021. (VIII. 16.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^7]: A 21. pont c) alpont ca) pontja az 1602/2021. (VIII. 16.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
+[^8]: A 21. pont c) alpont ca) pont cab) alpontját az 1602/2021. (VIII. 16.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^9]: A 24. pont az 1521/2022. (XI. 2.) Korm. határozat 44. pont e) alpontja szerint módosított szöveg.
+[^10]: A 25. pont az 1521/2022. (XI. 2.) Korm. határozat 44. pont f) alpontja szerint módosított szöveg.
+[^11]: A 30. pont az 1521/2022. (XI. 2.) Korm. határozat 44. pont g) alpontja szerint módosított szöveg.
+[^12]: A 38. pontot az 1521/2022. (XI. 2.) Korm. határozat 45. pont b) alpontja hatályon kívül helyezte.
+[^13]: A 39. pontot az 1521/2022. (XI. 2.) Korm. határozat 45. pont c) alpontja hatályon kívül helyezte.
+[^14]: A 40. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
