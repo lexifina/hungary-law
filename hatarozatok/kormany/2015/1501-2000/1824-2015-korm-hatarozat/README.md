@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1824-30
 | 2017-01-01 | 2015-1824-30-22.3 | 1853/2016. (XII. 27.) Korm. határozat |
 | 2019-07-09 | 2015-1824-30-22.4 | 1405/2019. (VII. 8.) Korm. határozat |
 | 2020-03-06 | 2015-1824-30-22.5 | 1075/2020. (III. 5.) Korm. határozat |
+| 2022-11-03 | 2015-1824-30-22.6 | 1521/2022. (XI. 2.) Korm. határozat |
