@@ -1,6 +1,6 @@
 1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján a fogyatékos személyek helyzetének előmozdítása, a fogyatékosságüggyel kapcsolatos feladatok ellátásának elősegítése, továbbá a fogyatékos személyek érdekében működő civil szervezetekkel történő együttműködés erősítése céljából létrehozza és működteti az Országos Fogyatékosságügyi Tanácsot (a továbbiakban: Tanács).
 
-2. A Tanács javaslattevő, véleményező és tanácsadói tevékenységet végez a Kormány és a társadalmi esélyegyenlőség előmozdításáért felelős miniszter (a továbbiakban: miniszter) számára.
+2.[^1] A Tanács javaslattevő, véleményező és tanácsadói tevékenységet végez a Kormány és a szociálpolitikáért felelős miniszter (a továbbiakban: miniszter) számára.
 
 3. A Tanács feladatai:
 
@@ -111,3 +111,5 @@ megszűnik.
 31. Az e határozatban foglaltakat először a 2013. szeptember 30-án megszűnő Országos Fogyatékosügyi Tanács helyébe lépő új Tanács létrehozása, működtetése tekintetében kell alkalmazni.
 
 32. A miniszter a 21. pont szerinti felkérést és a 22. pont szerinti felhívást első ízben e határozat hatálybalépését követő 8 napon belül teszi meg.
+
+[^1]: A 2. pont az 1521/2022. (XI. 2.) Korm. határozat 26. pontja szerint módosított szöveg.
