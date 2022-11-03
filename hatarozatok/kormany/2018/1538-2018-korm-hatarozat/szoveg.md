@@ -8,9 +8,11 @@ b) a Schengeni Információs Rendszer (a továbbiakban: SIS), a harmadik ország
 
 c) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról szóló európai uniós jogi aktusokban szereplő követelmények (a továbbiakban: interoperabilitás) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
 
-d) az EES, az ETIAS, a SIS és az ECRIS-TCN alkalmazására, valamint az interoperabilitásra való felkészülés nyomon követése és
+d) a Központi Vízuminformációs Rendszer (a továbbiakban: VIS) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
 
-e) az EES, az ETIAS, a SIS és az ECRIS-TCN nemzeti részének, valamint az interoperabilitás fejlesztéséhez szükséges kormányzati intézkedések és döntések összehangolása és előkészítése.
+e) az EES, az ETIAS, a SIS, az ECRIS-TCN és a VIS alkalmazására, valamint az interoperabilitásra való felkészülés nyomon követése és
+
+f) az EES, az ETIAS, a SIS, az ECRIS-TCN és a VIS nemzeti részének, valamint az interoperabilitás fejlesztéséhez szükséges kormányzati intézkedések és döntések összehangolása és előkészítése.
 
 3. A Munkacsoport az egyes feladatok megvalósításával összefüggésben a feladatok végrehajtásában feladat- és hatáskörrel rendelkező szervektől – személyes adatnak nem minősülő – adatot, beszámolót kérhet. Elnöke és tagjai, valamint az állandó meghívottak az általuk kijelölt képviselő útján a Munkacsoport ülésein helyettesíthetők.
 
@@ -24,11 +26,13 @@ b) a külgazdasági és külügyminiszter és
 
 c) a pénzügyminiszter.
 
+d)[^2] a Miniszterelnöki Kabinetirodát vezető miniszter.
+
 6. A Munkacsoport tanácskozási joggal rendelkező állandó meghívott résztvevője
 
 a) az országos rendőrfőkapitány,
 
-b) a Terrorelhárítási Információs és Bűnügyi Elemző Központ főigazgatója,
+b)[^3] a Nemzeti Információs Központ főigazgatója,
 
 c) a Terrorelhárítási Központ főigazgatója,
 
@@ -40,7 +44,7 @@ f) a Nemzetbiztonsági Szakszolgálat főigazgatója,
 
 g) a Nemzeti Szakértői és Kutató Központ főigazgatója,
 
-h)[^2] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
+h)[^4] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
 
 i) a Nemzeti Adó- és Vámhivatal vezetője.
 
@@ -62,11 +66,13 @@ c) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökét.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13.[^3]
+13.[^5]
 
-14.[^4]
+14.[^6]
 
-[^1]: A 2. pont az 1545/2019. (IX. 25.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^3]: A 13. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^4]: A 14. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^1]: A 2. pont az 1521/2022. (XI. 2.) Korm. határozat 47. pontjával megállapított szöveg.
+[^2]: Az 5. pont d) pontját az 1521/2022. (XI. 2.) Korm. határozat 48. pontja iktatta be.
+[^3]: A 6. pont b) alpontja az 1521/2022. (XI. 2.) Korm. határozat 49. pontja szerint módosított szöveg.
+[^4]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^5]: A 13. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^6]: A 14. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.

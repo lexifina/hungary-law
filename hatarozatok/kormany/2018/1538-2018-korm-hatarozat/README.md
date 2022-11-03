@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1538-30
 | 2018-10-30 | 2018-1538-30-22.1 | 1538/2018. (X. 30.) Korm. határozat |
 | 2019-07-09 | 2018-1538-30-22.2 | 1405/2019. (VII. 8.) Korm. határozat |
 | 2019-09-26 | 2018-1538-30-22.3 | 1545/2019. (IX. 25.) Korm. határozat |
+| 2022-11-03 | 2018-1538-30-22.4 | 1521/2022. (XI. 2.) Korm. határozat |
