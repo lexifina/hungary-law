@@ -1,5 +1,3 @@
-## kötötte, a közlekedésbiztonsági alkalmatlanság mindaddig fennáll, amíg a járművezető ezen kötelezettségének vagy az utánképzésre vonatkozó kötelezettségének eleget nem tett.
-
 ## 7. [^80] Külföldi hatóság által kiállított vezetői engedély érvényessége, cseréje, honosítása, visszahonosítása
 
 17. § (1)[^81] A külföldi hatóság által kiállított és érvényes vezetői engedély – kivéve az ideiglenes jelleggel vagy a járművezetés tanulására kiadott okmányokat – Magyarország területén akkor jogosít vezetésre, ha tartalmazza:
@@ -16,7 +14,7 @@ e) a kiadó hatóság nevét vagy pecsétjét, és
 
 f) a „vezetői engedély” címfeliratot az engedélyt kibocsátó ország nemzeti nyelvén (nemzeti nyelvein), valamint az engedélyt kiadó ország nevét, illetve megkülönböztető államjelzését,
 
-## feltéve, hogy a rovatok és a bejegyzések latin betűkkel történtek vagy ebben a formában meg vannak ismételve.
+feltéve, hogy a rovatok és a bejegyzések latin betűkkel történtek vagy ebben a formában meg vannak ismételve.
 
 (2)[^82] A külföldi hatóság által kiállított vezetői engedély – az (1) bekezdésben foglaltakon túl – akkor jogosít járművezetésre, ha
 

@@ -16,7 +16,7 @@ a) közúton behozott, közúti közlekedésben részt vevő vagy
 
 b) szállítóeszközön behozott
 
-## járműre,
+járműre,
 
 5. a jármű származás-ellenőrzési nyilvántartásba vételével egyidejűleg,
 
@@ -32,7 +32,7 @@ d) a speciális magajáró eszközhordozó alvázakra,
 
 e) a mezőgazdasági tevékenységre alkalmazandó magajáró rakodógépekre,
 
-## amelyek tervezési sebességük szerint 25 km/óránál gyorsabb sebességgel haladni nem képesek, vagy amelyeknek megengedett legnagyobb sebességét a típusbizonyítvány vagy a közlekedési hatóság 25 km/óra értékben határozta meg,
+amelyek tervezési sebességük szerint 25 km/óránál gyorsabb sebességgel haladni nem képesek, vagy amelyeknek megengedett legnagyobb sebességét a típusbizonyítvány vagy a közlekedési hatóság 25 km/óra értékben határozta meg,
 
 7. a fő tevékenysége szerint járműgyártó gazdálkodó szervezetnek az általa gyártott vagy tesztelési célból részére üzemeltetésre átadott, de forgalomba még nem helyezett járművei tesztelésére,
 

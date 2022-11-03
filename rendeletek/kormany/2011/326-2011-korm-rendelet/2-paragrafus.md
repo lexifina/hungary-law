@@ -44,7 +44,7 @@ a) eltérő színben és formátumban vagy
 
 b) eltérő színben vagy formátumban
 
-## történő legyártását követő kiadása;
+történő legyártását követő kiadása;
 
 15.[^26] vezetői engedély kiadása első alkalommal: vezetői engedély kiállítása olyan személy részére, akinek korábban még nem került kiállításra vezetői engedély sem magyar hatóság, sem külföldi hatóság által;
 

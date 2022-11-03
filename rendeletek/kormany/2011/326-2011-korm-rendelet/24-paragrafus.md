@@ -8,7 +8,7 @@ b) a vezetői engedély automatikus kiállításának visszautasítása és
 
 c) a vezetői engedély automatikus kiállításának ügyfél által elhárítható akadálya
 
-## esetén.
+esetén.
 
 (2a)[^116] A településszintű lakcímmel rendelkező személy esetén nem alkalmazhatóak a vezetői engedély házasságkötésből eredő névváltoztatás miatti automatikus kiállításra vonatkozó szabályok.
 

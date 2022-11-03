@@ -1,6 +1,6 @@
-14/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^591]
+14/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^596]
 
-## A 2022. július 1-jén bevezetett ideiglenes rendszámtáblák leírása
+A 2022. július 1-jén bevezetett ideiglenes rendszámtáblák leírása
 
 1. A 63/A. § (2) bekezdés 1–5., 7–11. és 13–18. pontja alapján kiadott I betűjelű ideiglenes rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, az I betűjelet követő címer után két folyamatos számjegyet és két betűjelet, továbbá évente változó színű mezőben a kiadás évének utolsó két számjegyét tartalmazza. A folyamatos számjegyek 01–99-ig terjednek.
 
@@ -14,4 +14,4 @@
 
 6. Az ideiglenes rendszámtáblák C típusban, továbbá – a 63/A. § (2) bekezdés 12. pontja alapján kiadott I betűjelű ideiglenes rendszámtábla kivételével – D típusban nem adhatóak ki.
 
-[^591]: A 14/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^596]: A 14/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (3) bekezdése iktatta be.

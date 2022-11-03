@@ -22,7 +22,7 @@ ba) eltulajdonítása esetén a rendőrségi feljelentés,
 
 bb) elvesztése vagy megsemmisülése esetén a bejelentésről szóló jegyzőkönyv
 
-## és a vezetői engedélyt kiadó külföldi ország hatósága által kiállított, a vezetői engedély adataira, érvényességére és a vezetési jogosultság tartalmára vonatkozó igazolás, a feljelentés vagy jegyzőkönyv kiállításának napjától számított legfeljebb 30 napig.
+és a vezetői engedélyt kiadó külföldi ország hatósága által kiállított, a vezetői engedély adataira, érvényességére és a vezetési jogosultság tartalmára vonatkozó igazolás, a feljelentés vagy jegyzőkönyv kiállításának napjától számított legfeljebb 30 napig.
 
 c) az érvényes magyar vezetői engedély
 

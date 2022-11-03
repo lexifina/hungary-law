@@ -1,18 +1,19 @@
 ## 64. § A 60. § (2) bekezdés a) és b) pontjában meghatározott különleges rendszámtáblák kiadásának további feltétele a Külügyminisztérium által kiadott igazolás arról, hogy a kérelmező jogosult a rendszámtábla használatára.
 
-65. § (1) A 60. § (2) bekezdés c) pontjában megjelölt sárga színű sorozatban előállított rendszámtáblát kell kiadni a külön jogszabály alapján közúti közlekedési szolgáltatást végző járművekre a közlekedési hatóság engedélye alapján.
+65. § (1)[^313] A közlekedési igazgatási hatóság a közlekedési hatóság által kiállított igazolás alapján a 60. § (2) bekezdés c) pontjában meghatározott rendszámtáblát ad ki azon közúti közlekedési szolgáltatást végző járművekre, amelyek jogszabály szerint ilyen rendszámtábla használatára kötelezettek.
 
 (2) A rendszámtábla sárga színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
 
-(3)[^313] A 60. § (2) bekezdés g) pontjában megjelölt világoszöld alapszínű, sorozatban előállított rendszámtáblát kell kiadni a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépjárműre.
+(3)[^314] A 60. § (2) bekezdés g) pontjában megjelölt világoszöld alapszínű, sorozatban előállított rendszámtáblát kell kiadni a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépjárműre.
 
-(4)[^314] A rendszámtábla világoszöld színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
+(4)[^315] A rendszámtábla világoszöld színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
 
-(5)[^315] A 60. § (2) bekezdés h) pontjában megjelölt szürke alapszínű rendszámtábla gyártását kell engedélyezni a gépkocsi kerékpárszállító eszközére.
+(5)[^316] A 60. § (2) bekezdés h) pontjában megjelölt szürke alapszínű rendszámtábla gyártását kell engedélyezni a gépkocsi kerékpárszállító eszközére.
 
-(6)[^316] A rendszámtáblának a gépkocsi kerékpárszállító eszközére szürke színben történő kiadását a nyilvántartásban és a gépkocsi forgalmi engedélyben jelölni kell.
+(6)[^317] A rendszámtáblának a gépkocsi kerékpárszállító eszközére szürke színben történő kiadását a nyilvántartásban és a gépkocsi forgalmi engedélyben jelölni kell.
 
-[^313]: A 65. § (3) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be, szövege a 246/2021. (V. 13.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^314]: A 65. § (4) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
-[^315]: A 65. § (5) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 16. §-a iktatta be.
-[^316]: A 65. § (6) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 16. §-a iktatta be.
+[^313]: A 65. § (1) bekezdése a 394/2022. (X. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^314]: A 65. § (3) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be, szövege a 246/2021. (V. 13.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^315]: A 65. § (4) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^316]: A 65. § (5) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 16. §-a iktatta be.
+[^317]: A 65. § (6) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 16. §-a iktatta be.

@@ -12,7 +12,7 @@ c) a közúti közlekedési nyilvántartó szerv (a továbbiakban: Nyilvántart�
 
 d)[^4]
 
-## jár el.
+jár el.
 
 (2)[^5] Ezt a rendeletet a Magyarország joghatósága alól mentességet élvező személyekre és szervezetekre, a mentességet biztosító nemzetközi egyezményekre és a vonatkozó jogszabályokra figyelemmel kell alkalmazni.
 

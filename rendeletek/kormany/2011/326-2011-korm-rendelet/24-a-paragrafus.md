@@ -8,7 +8,7 @@ a) az egészségi alkalmasságot a vizsgálatot végző szerv által kiállítot
 
 b) az elsősegélynyújtási ismeretek megszerzését vagy az alóli mentesülést a Magyar Vöröskereszt által kiállított igazolás
 
-## igazolja.
+igazolja.
 
 (2)[^128] A vezetői engedély automatikus kiállítása esetén a Nyilvántartó elektronikusan, az engedély-nyilvántartást támogató informatikai szakrendszer segítségével végzi el az ügyfél azonosítását és a vezetői engedély kiadásához szükséges valamennyi feltétel teljesülésének ellenőrzését.
 

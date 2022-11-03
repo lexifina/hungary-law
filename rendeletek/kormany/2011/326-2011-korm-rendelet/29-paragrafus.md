@@ -20,7 +20,7 @@ a) az 1. alkalmassági csoportban két évet meg nem haladóan, vagy
 
 b) a 2. alkalmassági csoportban
 
-## megállapított egészségi alkalmasság esetén a vezetői engedély érvényességi ideje a megállapított orvosi alkalmasság időpontja.
+megállapított egészségi alkalmasság esetén a vezetői engedély érvényességi ideje a megállapított orvosi alkalmasság időpontja.
 
 (3b)[^146] A (3) bekezdésben foglaltak alkalmazása esetén az (1) bekezdés a) pont ab) alpontjában előírt határidő az egészségi alkalmassági vélemény alapján a vizsgált személy határidőt követő első születésnapjának időpontjáig túlléphető.
 

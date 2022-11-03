@@ -20,7 +20,7 @@ g)[^293] a közúti járművek forgalomba helyezésének és forgalomban tartás
 
 h)[^294] a gépkocsi kerékpárszállító eszközére szürke alapszínű, fehér karaktereket tartalmazó, a gépkocsi rendszámtáblájának karaktereivel megegyező
 
-## különleges rendszámtáblát ad ki.
+különleges rendszámtáblát ad ki.
 
 (2a)[^295] Ha a rendszámtábla jogosítottja nem változik, az általa használt rendszámtábla karaktereinek megtartása mellett
 
@@ -32,7 +32,7 @@ c) az 53. § (2) bekezdés c) pont ca) alpontja szerinti formátumú, sorozatban
 
 d) az 53. § (2) bekezdés c) pont ca) alpontja szerinti formátumú, sorozatban előállított általános, egyénileg kiválasztott vagy egyedileg előállított fehér rendszámtábla az 53. § (2) bekezdés c) pont ca) alpontja szerinti formátumú világoszöld alapszínű rendszámtáblára
 
-## cserélhető.
+cserélhető.
 
 (2b)[^296] A rendszámtábla cseréjére is az 58–61. §-okban foglalt rendelkezéseket kell alkalmazni, azzal az eltéréssel, hogy az ebben az eljárásban kiadott rendszámtábla nem minősül egyénileg kiválasztott rendszámtáblának.
 

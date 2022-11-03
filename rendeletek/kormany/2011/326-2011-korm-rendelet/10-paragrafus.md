@@ -20,7 +20,7 @@ a) három év az 1968. évi Bécsi Közúti Közlekedési Egyezmény,
 
 b) egy év az 1949. évi Genfi Közúti Közlekedési Egyezmény
 
-## szerinti nemzetközi vezetői engedély esetén.
+szerinti nemzetközi vezetői engedély esetén.
 
 (4)[^61] A nemzetközi vezetői engedély csak a kiállítása alapjául szolgáló nemzeti vezetői engedéllyel együtt érvényes.
 

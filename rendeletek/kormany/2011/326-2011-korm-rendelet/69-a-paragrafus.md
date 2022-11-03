@@ -1,4 +1,4 @@
-69/A. §[^318] (1) Az SP betűjelű ideiglenes rendszámtábla kiadásának, használatának a közlekedési igazgatási hatóság által történő engedélyezési feltételei:
+69/A. §[^319] (1) Az SP betűjelű ideiglenes rendszámtábla kiadásának, használatának a közlekedési igazgatási hatóság által történő engedélyezési feltételei:
 
 a) a jármű jogszerű birtoklásának okirattal történő igazolása,
 
@@ -10,14 +10,14 @@ d) a kötelező gépjármű-felelősségbiztosítás meglétének igazolása.
 
 (2) Az SP betűjelű ideiglenes rendszámtáblával ellátott járműnek a közúti forgalomban való részvételéről a közlekedési igazgatási hatóság által hitelesített indítási naplót kell vezetni.
 
-(3)[^319] Az SP betűjelű ideiglenes rendszámtáblával ellátott versenyjárművel a közúti forgalomban részt venni a verseny időtartama alatt, a versenyre történő felkészülés és a verseny helyszínére, valamint a verseny helyszínéről történő közlekedés céljából szabad.
+(3)[^320] Az SP betűjelű ideiglenes rendszámtáblával ellátott versenyjárművel a közúti forgalomban részt venni a verseny időtartama alatt, a versenyre történő felkészülés és a verseny helyszínére, valamint a verseny helyszínéről történő közlekedés céljából szabad.
 
 (4) Az SP betűjelű ideiglenes rendszámtábla jogosítottja köteles a közúti forgalomban részvételkor a járművön a rendszámtáblát jól látható módon elhelyezni, valamint az indítási napló rovatait tényszerűen kitölteni.
 
-(5)[^320] Az SP betűjelű ideiglenes rendszámtáblával ellátott jármű vezetője a közúti közlekedés során köteles igazolni az ideiglenes forgalmi engedéllyel és az indítási naplóval a rendszámtábla használatának jogszerűségét, valamint a kötelező gépjármű-felelősségbiztosítás fennállását.
+(5)[^321] Az SP betűjelű ideiglenes rendszámtáblával ellátott jármű vezetője a közúti közlekedés során köteles igazolni az ideiglenes forgalmi engedéllyel és az indítási naplóval a rendszámtábla használatának jogszerűségét, valamint a kötelező gépjármű-felelősségbiztosítás fennállását.
 
 (6) Az SP betűjelű ideiglenes rendszámtábla elvesztését, eltűnését, megrongálódását a tulajdonos (üzemben tartó) köteles haladéktalanul a közlekedési igazgatási hatóságnál bejelenteni.
 
-[^318]: A 69/A. §-t a 228/2012. (VIII. 23.) Korm. rendelet 7. § (5) bekezdése iktatta be.
-[^319]: A 69/A. § (3) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 28. § e) pontja szerint módosított szöveg.
-[^320]: A 69/A. § (5) bekezdése az 5/2013. (I. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^319]: A 69/A. §-t a 228/2012. (VIII. 23.) Korm. rendelet 7. § (5) bekezdése iktatta be.
+[^320]: A 69/A. § (3) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 28. § e) pontja szerint módosított szöveg.
+[^321]: A 69/A. § (5) bekezdése az 5/2013. (I. 16.) Korm. rendelet 13. §-ával megállapított szöveg.

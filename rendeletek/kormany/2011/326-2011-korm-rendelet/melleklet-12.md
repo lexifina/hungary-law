@@ -230,7 +230,7 @@
 
 12. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-## A regisztrációs matrica tartalmi elemei
+A regisztrációs matrica tartalmi elemei
 
 1. EU felségjelzés (Európai Uniós zászlót jelképező kék mezőben 12 db sárga csillag)
 
@@ -238,10 +238,10 @@
 
 3. A Magyarország hivatalos címere
 
-4.[^572] A vonalkód, 2D kód
+4.[^577] A vonalkód, 2D kód
 
 5. A jármű rendszáma
 
 6. A regisztrációs matrica egyedi sorszáma
 
-[^572]: A 12. melléklet 4. pontja a 303/2021. (VI. 1.) Korm. rendelet 28. § l) pontja, a 251/2022. (VII. 13.) Korm. rendelet 1. § k) pontja szerint módosított szöveg.
+[^577]: A 12. melléklet 4. pontja a 303/2021. (VI. 1.) Korm. rendelet 28. § l) pontja, a 251/2022. (VII. 13.) Korm. rendelet 1. § k) pontja szerint módosított szöveg.
