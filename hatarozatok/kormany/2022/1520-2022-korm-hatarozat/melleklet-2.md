@@ -1,9 +1,3 @@
-2. melléklet az 1520/2022. (XI. 2.) Korm. határozathoz
+2. melléklet az 1520/2022. (XI. 2.) Korm. határozathoz[^83]
 
-A szociális szakosított ellátásokhoz kapcsolódó egyes állami vagyonelemek ingyenes egyházi tulajdonba adásáról szóló 1098/2022. (III. 1.) Korm. határozat 2. mellékletében foglalt táblázat B:4 mezője helyébe a következő mező lép:
-
-|  | (B |
-
-| 1. | Tulajdonba vevő egyházi fenntartó neve és székhelye) |
-
-| (4.) | Váci Egyházmegye Szamaritánus Szolgálat 2600 Vác, Báthori M. utca 4. |
+[^83]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
