@@ -14,57 +14,55 @@ d) részt vesz a cigányság társadalmi helyzetének javításával, valamint t
 
 e) közreműködik a felzárkózást elősegítő szakmai hálózatok kialakításában, fejlesztésében.
 
-4.[^1] A Tanács 34 tagú testület, amelynek tagjai:
+4.[^1] A Tanács 33 tagú testület, amelynek tagjai:
 
 a) a belügyminiszter;
 
-b) a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára;
+b) a Belügyminisztérium gondoskodáspolitikáért felelős államtitkára;
 
-c) a miniszterelnöki biztos kinevezéséről szóló 3/2019. (IV. 18.) ME utasítással kinevezett miniszterelnöki biztos;
+c) a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára;
 
-d) a belügyminiszter által felkért, az Európai Unió romapolitikájában jártas személy;
+d) a diagnózis alapú felzárkózási stratégia végrehajtásáért felelős miniszterelnöki biztos kinevezéséről és feladatairól szóló 2/2022. (VI. 7.) ME utasítással kinevezett miniszterelnöki biztos;
 
-e) az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkára;
+e) a roma kapcsolatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1297/2022. (VI. 17.) Korm. határozattal kinevezett roma kapcsolatokért felelős kormánybiztos;
 
-f) a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős államtitkára;
+f) a belügyminiszter által felkért, az Európai Unió romapolitikájában jártas személy;
 
-g) a Miniszterelnökség civil és társadalmi kapcsolatokért felelős helyettes államtitkára;
+g) a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős államtitkára;
 
-h) az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettese;
+h) a Miniszterelnökség civil és társadalmi kapcsolatokért felelős helyettes államtitkára;
 
-i) az Országos Roma Önkormányzat elnöke;
+i) az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettese;
 
-j) a roma/cigány nemzetiség területi nemzetiségi önkormányzatai képviseletében 5 fő;
+j) az Országos Roma Önkormányzat elnöke;
 
-k) a roma közösségek képviseletében 7 fő;
+k) a roma/cigány nemzetiség területi nemzetiségi önkormányzatai képviseletében 5 fő;
 
-l) a Települési Önkormányzatok Országos Szövetségének képviseletében 1 fő;
+l) a roma közösségek képviseletében 7 fő;
 
-m) a Magyar Katolikus Egyház képviseletében 2 fő, akik közül az egyik személyt a Görögkatolikus Metropólia javaslatára delegálja a Magyar Katolikus Egyház;
+m) a Települési Önkormányzatok Országos Szövetségének képviseletében 1 fő;
 
-n) a Magyarországi Református Egyház képviseletében 1 fő;
+n) a Magyar Katolikus Egyház képviseletében 2 fő, akik közül az egyik személyt a Görögkatolikus Metropólia javaslatára delegálja a Magyar Katolikus Egyház;
 
-o) a Magyarországi Evangélikus Egyház képviseletében 1 fő;
+o) a Magyarországi Református Egyház képviseletében 1 fő;
 
-p) a Magyarországi Zsidó Hitközségek Szövetsége képviseletében 1 fő;
+p) a Magyarországi Evangélikus Egyház képviseletében 1 fő;
 
-q) az Evangéliumi Szabadegyházak Szövetsége képviseletében 1 fő;
+q) a Magyarországi Zsidó Hitközségek Szövetsége képviseletében 1 fő;
 
-r) a Nemzeti Gazdasági és Társadalmi Tanács munkaadói és munkavállalói oldalainak képviseletében 1-1 fő;
+r) az Evangéliumi Szabadegyházak Szövetsége képviseletében 1 fő;
 
-s) a Magyar Tudományos Akadémia képviseletében 1 fő;
+s) a Nemzeti Gazdasági és Társadalmi Tanács munkaadói és munkavállalói oldalainak képviseletében 1-1 fő;
 
-t) az Országgyűlés Magyarországi nemzetiségek bizottsága roma nemzetiségi szószólója;
+t) a Magyar Tudományos Akadémia képviseletében 1 fő;
 
 u) a Roma Szakkollégiumok Egyesület elnöke.
 
-v)[^2] a belügyminiszter által felkért, a roma kapcsolatok koordinációjában jártas személy.
-
-5.[^3] A Tanács ülésein
+5.[^2] A Tanács ülésein
 
 a) állandó meghívottként, tanácskozási joggal vesznek részt:
 
-aa) az Egyenlő Bánásmód Hatóság elnöke;
+aa)[^3] az Alapvető Jogok Biztosának Hivatala Egyenlő Bánásmódért Felelős Főigazgatóság képviselője;
 
 ab) a Központi Statisztikai Hivatal elnöke;
 
@@ -84,7 +82,7 @@ bb) további meghívott személyek.
 
 6a.[^5] A Tanács összehangolt működése érdekében elnökséget működtet, amelynek tagjai a 4. pont a)–f), i), t) és v) alpontjában meghatározott személyek. Az elnökség javaslatot tesz a Tanács ülésének napirendjére és éves munkatervére.
 
-6b.[^6]
+6b.[^6] A Tanács saját szervezetén belül, munkájának segítése, javaslattétel és a döntések előkészítése céljából szakpolitikai testületeket hozhat létre. A szakpolitikai testületek tagjait a gondoskodáspolitikáért felelős államtitkár kéri fel.
 
 7.[^7] A Tanács szükség szerint, de legalább évente kétszer ülésezik. A Tanács ülését a Tanács elnöke, az elnök akadályoztatása esetén a 4. pont c) alpontjában meghatározott személy – a Tanács Titkársága útján – hívja össze. A Tanács rendkívüli ülésének összehívását bármely tag az indok és napirend egyidejű megjelölésével kezdeményezheti a Tanács elnökénél.
 
@@ -108,18 +106,18 @@ b)[^13] a 4. pont h)–u) alpontjában szereplő szervezetek képviselőit a Tan
 
 c)[^14]
 
-14.[^15] A Kormány felhívja az emberi erőforrások miniszterét, hogy 2015. június 30-ig írjon ki pályázatot olyan roma közösségeket képviselő civil szervezeteknek a Roma Koordinációs Tanácsban való részvétele érdekében, amelyek szociális oktatási, egészségügyi, kulturális, foglalkoztatási vagy más a közösség érdekében végzett szakmai tevékenységet fejtenek ki, hátrányos helyzetű társadalmi csoportokkal vagy nemzetiségekkel, kiemelten romákkal kapcsolatos tevékenységet végeznek.
+14.[^15]
 
 15. A Kormány felhívja a minisztereket és az egyéb központi államigazgatási szervek vezetőit, hogy a Kormány jogalkotási tervében szereplő, a romák társadalmi felzárkózását érintő jogszabályok esetén a Tanács tagjai számára biztosítsa a közigazgatási egyeztetés keretein belül a véleménynyilvánítás lehetőségét.
 
 16.[^16] Ez a határozat a közzétételét követő napon lép hatályba,
 
-[^1]: A 4. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított, nyitó szövegrésze az 1821/2021. (XI. 25.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^2]: A 4. pont v) alpontját az 1821/2021. (XI. 25.) Korm. határozat 3. pontja iktatta be.
-[^3]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
+[^1]: A 4. pont az 1521/2022. (XI. 2.) Korm. határozat 13. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
+[^3]: Az 5. pont a) pont aa) alpontja az 1521/2022. (XI. 2.) Korm. határozat 14. pontjával megállapított szöveg.
 [^4]: A 6. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
 [^5]: A 6a. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, szövege az 1821/2021. (XI. 25.) Korm. határozat 4. pontjával megállapított szöveg.
-[^6]: A 6b. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, az 1267/2019. (V. 8.) Korm. határozat 13. pontja alapján hatályát vesztette.
+[^6]: A 6b. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, az 1267/2019. (V. 8.) Korm. határozat 13. pontja alapján hatályát vesztette, újonnan az 1521/2022. (XI. 2.) Korm. határozat 15. pontja iktatta be.
 [^7]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
 [^8]: A 9. pont az 1683/2012. (XII. 29.) Korm. határozat 10. pont a) alpontja, az 1223/2015. (IV. 20.) Korm. határozat 3. pontja, az 1267/2019. (V. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
 [^9]: A 11. pont az 1223/2015. (IV. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
@@ -128,5 +126,5 @@ c)[^14]
 [^12]: A 13. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
 [^13]: A 13. § b) pontja az 1267/2019. (V. 8.) Korm. határozat 15. pontja szerint módosított szöveg.
 [^14]: A 13. pont c) alpontját az 1405/2017. (VI. 28.) Korm. határozat 6. pontja hatályon kívül helyezte.
-[^15]: A 14. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
+[^15]: A 14. pontot az 1521/2022. (XI. 2.) Korm. határozat 17. pontja hatályon kívül helyezte.
 [^16]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
