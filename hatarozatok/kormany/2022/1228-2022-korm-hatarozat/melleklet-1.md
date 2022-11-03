@@ -8,19 +8,15 @@
 
 ## Határidő: 2023. december 31.
 
-## 3. A Kormány felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon az Intézkedési Tervben foglaltak megvalósításához szükséges többletforrás rendelkezésre állásáról
+## 3.[^2] A Kormány felhívja a pénzügyminisztert, hogy – a belügyminiszter és a kultúráért és innovációért felelős miniszter bevonásával – gondoskodjon az Intézkedési Tervben foglaltak megvalósításához szükséges többletforrás rendelkezésre állásáról
 
-## a) a 2023. évben 341 000 000 forint összegben, a 2023. évi központi költségvetés Emberi Erőforrások Minisztériuma fejezetében,
+## a) a 2023. évben 341 000 000 forint összegben, a 2023. évi központi költségvetés Belügyminisztérium fejezetében,
 
-## b) a 2023. évtől kezdődően beépülő jelleggel évi 12 000 000 forint összegben, az adott évi központi költségvetés Miniszterelnökség fejezetében.
+## b) a 2023. évtől kezdődően beépülő jelleggel évi 12 000 000 forint összegben, az adott évi központi költségvetés Kulturális és Innovációs Minisztérium fejezetében.
 
-## Felelős: pénzügyminiszter
+| Felelős: | pénzügyminiszter belügyminiszter kultúráért és innovációért felelős miniszter |
 
-## emberi erőforrások minisztere
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: az a) alpont tekintetében a 2023. évi központi költségvetés tervezése során a b) alpont tekintetében az adott évi központi költségvetés tervezése során
+| Határidő: | az a) alpont tekintetében a 2023. évi központi költségvetés tervezése során a b) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
 ## 4. A Kormány egyetért azzal, hogy az Intézkedési Terv 2023. évi forrásigénye lehetőség szerint a Magyarország számára elérhető Svájci–Magyar Együttműködési Program II. időszakának terhére kerüljön finanszírozásra, annak elfogadását követően.
 
@@ -34,9 +30,9 @@
 
 ## 7. Ez a határozat a közzétételét követő napon lép hatályba, és 2024. január 1-jén hatályát veszti.
 
-## 8.[^2]
+## 8.[^3]
 
-1. melléklet az 1228/2022. (IV. 14.) Korm. határozathoz
+1. melléklet az 1228/2022. (IV. 14.) Korm. határozathoz[^4]
 
 Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia végrehajtását szolgáló, 2022–2023 közötti időszakban végrehajtandó intézkedési terv
 
@@ -46,7 +42,7 @@ I. Megelőzés
 
 | I.1.1. Emberkereskedelem témakörében a leginkább érintett területekre fókuszáló helyi kampányok, illetve a fiatalokat megszólító országos kampány |
 
-| A | Felelős | Miniszterelnökség (a továbbiakban: ME), Pénzügyminisztérium (a továbbiakban: PM) |
+| A | Felelős | Kulturális és Innovációs Minisztérium (a továbbiakban: KIM), Pénzügyminisztérium (a továbbiakban: PM) |
 
 | B | Partner | Családbarát Magyarország Központ |
 
@@ -74,7 +70,7 @@ I. Megelőzés
 
 | I.1.3. A Barnahus modellen alapuló Meghallgató és Terápiás Szolgálat országos lefedettségének biztosítása |
 
-| A | Felelős | Emberi Erőforrások Minisztériuma (a továbbiakban: EMMI), PM |
+| A | Felelős | BM, PM |
 
 | B | Partner | Országos Gyermekvédelmi Szakszolgálat (a továbbiakban: OGYSZ) |
 
@@ -90,7 +86,7 @@ I. Megelőzés
 
 | I.2.1. Prevenciós programokra való felkészítés és a prevenciós programok megvalósítása a köznevelési intézményekben az óvodai és iskolai szociális segítők bevonásával |
 
-| A | Felelős | EMMI |
+| A | Felelős | BM |
 
 | B | Partner | Slachta Margit Nemzeti Szociálpolitikai Intézet |
 
@@ -104,9 +100,9 @@ I. Megelőzés
 
 | I.2.2. Prevenciós programok nevelőszülői hálózatokban, gyermekotthonokban, lakásotthonokban, javítóintézetekben egységes tematika alapján |
 
-| A | Felelős | EMMI |
+| A | Felelős | BM |
 
-| B | Partner | BM, ORFK, NBT |
+| B | Partner | ORFK, NBT |
 
 | C | Eszköz | prevenciós programok megvalósítása az emberkereskedelem elleni küzdelemben jártas nemkormányzati szervezetek bevonásával |
 
@@ -122,7 +118,7 @@ I. Megelőzés
 
 | A | Felelős | BM |
 
-| B | Partner | NBT, Innovációs és Technológiai Minisztérium (a továbbiakban: ITM) (EURES Nemzeti Koordinációs Iroda), ORFK |
+| B | Partner | NBT, Technológiai és Ipari Minisztérium (a továbbiakban: TIM) (EURES Nemzeti Koordinációs Iroda), ORFK |
 
 | C | Eszköz | az NBT 2018-ban megvalósult online figyelemfelhívó kampányának folytatása |
 
@@ -134,7 +130,7 @@ I. Megelőzés
 
 | I.3.2. Dialógus az internetes tartalomszolgáltatókkal az áldozattá váláshoz vezető online hirdetések kapcsán |
 
-| A | Felelős | BM, Igazságügyi Minisztérium (a továbbiakban: IM), ITM |
+| A | Felelős | BM, Igazságügyi Minisztérium (a továbbiakban: IM), TIM |
 
 | B | Partner | ORFK, NBT, Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) |
 
@@ -152,7 +148,7 @@ I. Megelőzés
 
 | A | Felelős | IM |
 
-| B | Partner | ME |
+| B | Partner | KIM |
 
 | C | Eszköz | az áldozatok azonosítását és irányítását segítő webalapú rendszer (a továbbiakban: EKAT Rendszer) fejlesztése egy utánkövetési modul beépítésével |
 
@@ -164,7 +160,7 @@ I. Megelőzés
 
 | I.4.2. A védett szállásról kikerülő áldozatok utánkövetése humán erőforrás biztosításával a fenntartó szervezeteknél |
 
-| A | Felelős | ME |
+| A | Felelős | KIM |
 
 | B | Partner | védett házakat fenntartó szervezetek |
 
@@ -180,7 +176,7 @@ I. Megelőzés
 
 | I.5.1. Az emberkereskedelem jelenségének beépítése a szociális munka felsőoktatási szak tematikájába |
 
-| A | Felelős | BM, ITM |
+| A | Felelős | BM, KIM |
 
 | B | Partner | Magyar Rektori Konferencia, szociális munka felsőoktatási szakot indító egyetemek, NGO Kerekasztal tagjai |
 
@@ -212,7 +208,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.1.2. Kiskorú áldozatok egységes irányítási rendjének kialakítása |
 
-| A | Felelős | EMMI, IM |
+| A | Felelős | BM, IM |
 
 | B | Partner | BM, ORFK, Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: SZGYF), OGYSZ, Slachta Margit Nemzeti Szociálpolitikai Intézet |
 
@@ -256,7 +252,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | A | Felelős | BM |
 
-| B | Partner | ME, NGO Kerekasztal tagjai |
+| B | Partner | KIM, NGO Kerekasztal tagjai |
 
 | C | Eszköz | hazatérési és reintegrációs program folytatólagos működtetése |
 
@@ -272,7 +268,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | A | Felelős | IM |
 
-| B | Partner | BM, ORFK, EMMI, ME |
+| B | Partner | BM, ORFK, KIM |
 
 | C | Eszköz | az ORFK által 2017–2018 folyamán megvalósult pilotprojektjének kiterjesztése további megyékre |
 
@@ -284,7 +280,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.2.2. A gyermekek veszélyeztetettségét, a család, a felnőtt krízishelyzetét észlelő és jelző rendszer hatékonyabb működtetése érdekében készített szakmai ajánlás használatára való felkészítés, valamint a szociális szolgáltatást biztosítók, a gyermekjóléti szolgáltatást és gyermekek átmeneti gondozását fenntartók hatékony felkészítése az áldozatazonosításra |
 
-| A | Felelős | EMMI |
+| A | Felelős | BM |
 
 | B | Partner | Slachta Margit Nemzeti Szociálpolitikai Intézet, NGO Kerekasztal tagjai |
 
@@ -300,7 +296,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.3.1. Továbbképzés elindítása a szexuálisan bántalmazott gyermekek meghallgatását végző szaktanácsadók részére |
 
-| A | Felelős | EMMI |
+| A | Felelős | BM |
 
 | B | Partner | OGYSZ, Nemzeti Közszolgálati Egyetem |
 
@@ -314,9 +310,9 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.3.2. Megvalósíthatósági tanulmány készítése és arra alapozott pilotprogram végrehajtása az emberkereskedelem áldozatává vált, családjukban nevelkedő gyermekek terápiás intézményi ellátására |
 
-| A | Felelős | EMMI, PM |
+| A | Felelős | BM, PM |
 
-| B | Partner | ME |
+| B | Partner | KIM |
 
 | C | Eszköz | megvalósíthatósági tanulmány készítése 2022-ben; infrastrukturális beruházás a gyermekek átmeneti otthonai meglévő intézményi bázisán és a program modellezése 2023-ban |
 
@@ -328,9 +324,9 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.3.3. Megvalósíthatósági tanulmány készítése és arra alapozott pilotprogram végrehajtása az emberkereskedelem áldozatává vált gyermekek védett gyermekotthonban történő terápiás intézményi ellátására |
 
-| A | Felelős | EMMI, PM |
+| A | Felelős | BM, PM |
 
-| B | Partner | ME, SZGYF, NGO Kerekasztal tagjai |
+| B | Partner | KIM, SZGYF, NGO Kerekasztal tagjai |
 
 | C | Eszköz | megvalósíthatósági tanulmány készítése 2022-ben, infrastrukturális beruházások új intézmény kialakítása érdekében és féléves működtetés 2023-ban |
 
@@ -338,7 +334,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | E | Indikátor | tanulmány, célzottan emberkereskedelem áldozatait befogadó gyermekvédelmi intézmény kialakítása és működése 2 × 6 fős befogadóképességgel |
 
-| F | Forrás | a megvalósíthatósági tanulmány elkészítéséhez szükséges forrás az EMMI 2022. évi költségvetésében rendelkezésre áll; 132 000 000 Ft infrastrukturális beruházásra 2 db, 6 fős létesítmény kialakítása érdekében 2023-ban; 88 000 000 Ft a kialakított létesítmények 2023. II. félévi működtetése érdekében – az új Intézkedési Tervet elfogadó kormányhatározatban többletforrások bevonása 2023-ra vagy a Svájci–Magyar Együttműködési Program II. időszakának terhére |
+| F | Forrás | a megvalósíthatósági tanulmány elkészítéséhez szükséges forrás a BM 2022. évi költségvetésében rendelkezésre áll; 132 000 000 Ft infrastrukturális beruházásra 2 db, 6 fős létesítmény kialakítása érdekében 2023-ban; 88 000 000 Ft a kialakított létesítmények 2023. II. félévi működtetése érdekében – az új Intézkedési Tervet elfogadó kormányhatározatban többletforrások bevonása 2023-ra vagy a Svájci–Magyar Együttműködési Program II. időszakának terhére |
 
 | II.3.4. Azonnali ügyvédi konzultációs lehetőség biztosítása az emberkereskedelem áldozatává vált magyar állampolgárok számára |
 
@@ -356,9 +352,9 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.3.5. A szociális rászorultsági alapon biztosított egészségügyi alap- és szakellátás igénylésének megkönnyítése emberkereskedelem áldozatai részére |
 
-| A | Felelős | EMMI, IM |
+| A | Felelős | BM, IM |
 
-| B | Partner | PM, ME, NGO Kerekasztal teljes tagsága |
+| B | Partner | PM, KIM, NGO Kerekasztal teljes tagsága |
 
 | C | Eszköz | munkacsoport ülés |
 
@@ -370,7 +366,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.3.6. Férfi áldozatok eltérő igényeire reagáló szolgáltatások fejlesztése |
 
-| A | Felelős | ME |
+| A | Felelős | KIM |
 
 | B | Partner | BM, IM |
 
@@ -384,7 +380,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.3.7. Protokoll kidolgozása arra az esetre, ha az emberkereskedelem áldozatait befogadó védett házak címe, elhelyezkedése ismertté válna |
 
-| A | Felelős | ME |
+| A | Felelős | KIM |
 
 | B | Partner | – |
 
@@ -398,9 +394,9 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.3.8. A védett házakból kikerülő időskorú áldozatok további intézményi gondozásának biztosítása, az ellátás monitorozása, szükség esetén további férőhely biztosítása |
 
-| A | Felelős | EMMI, PM |
+| A | Felelős | BM, PM |
 
-| B | Partner | SZGYF, ME |
+| B | Partner | SZGYF, KIM |
 
 | C | Eszköz | szakmai megbeszélés kezdeményezése 2022-ben a meglévő kapacitások hatékonyabb kihasználása érdekében, majd 2023-ban kijelölés útján férőhely biztosítása az állami fenntartású idősotthonokban az emberkereskedelem áldozatainak befogadására a védett házak által biztosított ellátási idő letelte után |
 
@@ -408,11 +404,11 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | E | Indikátor | összesen 15 kijelölt férőhely 3 helyszínen emberkereskedelem időskorú áldozatai számára, ill. az idősek otthonaiban elhelyezett áldozatok száma |
 
-| F | Forrás | 51 000 000 Ft az új Intézkedési Tervet elfogadó kormányhatározatban többletforrások bevonása 2023-ra, utána az EMMI költségvetésébe beépülően |
+| F | Forrás | 51 000 000 Ft az új Intézkedési Tervet elfogadó kormányhatározatban többletforrások bevonása 2023-ra, utána a BM költségvetésébe beépülően |
 
 | II.3.9. A már meglévő védett szállások mellé egy-egy félutas-kiléptető lakás létrehozása |
 
-| A | Felelős | ME, PM |
+| A | Felelős | KIM, PM |
 
 | B | Partner | védett házakat fenntartó szervezetek |
 
@@ -426,7 +422,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.3.10. A kizsákmányolás formájára reagáló segítségnyújtó szolgáltatások, különös tekintettel a családok átmeneti otthonaiban rendelkezésre álló kapacitások bővítésére a külső férőhelyekhez való hozzáférés biztosításával |
 
-| A | Felelős | EMMI |
+| A | Felelős | BM |
 
 | B | Partner | – |
 
@@ -442,9 +438,9 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.4.1. Az emberkereskedelem áldozatai azonosításának rendjéről szóló 354/2012. (XII. 13.) Korm. rendelet által a jelzőrendszeri tagok körébe sorolt egészségügyi szervek emberkereskedelem elleni aktivitásának fokozása |
 
-| A | Felelős | EMMI |
+| A | Felelős | BM |
 
-| B | Partner | IM, BM |
+| B | Partner | IM |
 
 | C | Eszköz | EKAT Rendszerhez való hozzáférések biztosítása, a rendszer használatával kapcsolatos ismeretek átadása az egészségügyi szolgáltató és az egészségügyi államigazgatási szervek részére, illetve a jelzési kötelezettség rögzítése az egészségügyről szóló törvényben |
 
@@ -490,7 +486,7 @@ III. Igazságszolgáltatás, rendvédelem
 
 | III.2.2. Rendszeres és koordinált foglalkoztatásfelügyeleti ellenőrzések lefolytatása a rendőrség és a területi foglalkoztatásfelügyeleti hatóság együttműködésével célzottan az emberkereskedelem áldozatainak azonosítása érdekében |
 
-| A | Felelős | ITM |
+| A | Felelős | TIM |
 
 | B | Partner | ORFK |
 
@@ -606,7 +602,7 @@ III. Igazságszolgáltatás, rendvédelem
 
 | III.4.2. A személyes gondoskodást nyújtó szolgáltatók szisztematikus ellenőrzése az EKAT Rendszerhez való hozzáférés tekintetében is |
 
-| A | Felelős | EMMI |
+| A | Felelős | BM |
 
 | B | Partner | ME, fővárosi és megyei kormányhivatalok |
 
@@ -670,7 +666,7 @@ IV.3. Nemzetközi egyezményekben foglalt vállalásoknak és kötelezettségekn
 
 | IV.3.1. Csatlakozás lehetőségének megvizsgálása az Európa Tanács szervkereskedelem elleni egyezményéhez |
 
-| A | Felelős | EMMI |
+| A | Felelős | BM |
 
 | B | Partner | IM, Külgazdasági és Külügyminisztérium |
 
@@ -728,4 +724,6 @@ IV.5. Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővít�
 
 | F | Forrás | hazai és uniós költségvetés terhére megvalósítandó |
 
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont az 1521/2022. (XI. 2.) Korm. határozat 57. pontjával megállapított szöveg.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1521/2022. (XI. 2.) Korm. határozat 58. pontja szerint módosított szöveg.
