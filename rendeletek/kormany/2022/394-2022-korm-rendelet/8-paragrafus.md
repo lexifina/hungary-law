@@ -1,0 +1,7 @@
+8. § (1) Az R2. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Azt a személygépkocsit, amellyel a vállalkozás a személyszállító szolgáltatást végezni kívánja, a tevékenységi engedély iránt benyújtott kérelem elbírálását megelőzően a közlekedési hatóság által üzemeltetett vizsgaállomáson forgalomba helyezés előtti vagy időszakos vizsgálattal összevontan elvégzett műszaki alkalmassági vizsgálatra kell bemutatni. Ezt követően a műszaki alkalmassági vizsgálatot minden időszakos vizsgálattal összevontan kell elvégezni. Az időszakos vizsgálattal összevontan elvégzett műszaki alkalmassági vizsgálat a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott országos lefedettséget biztosító műszaki vizsgálóállomáson is elvégezhető.”
+
+(2) Az R2. 10. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az igazolólap időbeli hatályát az adott személygépkocsira vonatkozóan a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben a személytaxi vagy a közforgalmú személyszállításra használt jármű forgalmi engedélyének időbeli hatályával egyezően kell megállapítani. Ha a műszaki alkalmassági vizsgálat elvégzésekor a forgalmi engedély időbeli hatálya még nem járt le, akkor a közlekedési hatóság csak a (2) bekezdésben és a 3. mellékletben meghatározott feltételek meglétét vizsgálja. Ennek eredménye alapján – a személygépkocsi forgalmi engedélyének időbeli hatályával egyezően – állapítja meg a következő műszaki alkalmassági vizsgálat határidejét, és ezt tünteti fel az igazolólapon.”
