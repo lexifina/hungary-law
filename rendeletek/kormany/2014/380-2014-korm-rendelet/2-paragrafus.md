@@ -26,9 +26,9 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 8. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
-9. együttműködéshez kötődő tanácsadás: a 651/2014/EU bizottsági rendelet 2. cikk 64. pontja szerinti tanácsadás,
+9.[^2]
 
-10. együttműködéshez kötődő támogató szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 65. pontja szerinti szolgáltatás,
+10.[^3]
 
 11. eljárási innováció: a 651/2014/EU bizottsági rendelet 2. cikk 97. pontja szerinti innováció,
 
@@ -51,6 +51,10 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 20. hatékony együttműködés: a 651/2014/EU bizottsági rendelet 2. cikk 90. pontja szerinti együttműködés,
 
 21. hitel: olyan megállapodás, amelyben a hitelező kötelezi magát, hogy meghatározott pénzösszeget meghatározott időre a hitelfelvevő rendelkezésére bocsát, és amely a hitelfelvevőt arra kötelezi, hogy meghatározott időszakon belül visszafizesse az összeget (pl. kölcsön vagy egyéb finanszírozási eszköz, ideértve a lízinget is, amely a hitelező számára elsődlegesen minimumhozamot nyújt azzal, hogy már meglévő hitel kiváltása nem finanszírozható),
+
+21a.[^4] Horizont 2020 keretprogram: a „Horizont 2020” kutatási és innovációs keretprogram (2014–2020) létrehozásáról és az 1982/2006/EK határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1291/2013/EU európai parlamenti és tanácsi rendelet 1. cikke szerinti keretprogram,
+
+21b.[^5] Horizont Európa keretprogram: a Horizont Európa kutatási és innovációs keretprogram létrehozásáról, valamint részvételi és terjesztési szabályainak megállapításáról, továbbá az 1290/2013/EU és az 1291/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/695 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2021/695 európai parlamenti és tanácsi rendelet] 1. cikke szerinti keretprogram,
 
 22. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
@@ -88,7 +92,7 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 37. kockázatfinanszírozási célú befektetés: a végső kedvezményezett kis- és középvállalkozásnak nyújtott sajáttőke- és kvázisajáttőke-befektetés, hitel, kezességvállalás, illetve ezek kombinációja,
 
-38. közszolgáltatás: az EUMSz 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás,
+38.[^6]
 
 39. közvetlenül a beruházási projekt által létrehozott munkahely: a 651/2014/EU bizottsági rendelet 2. cikk 62. pontja szerinti munkahely,
 
@@ -106,9 +110,13 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 46. létesítmény felvásárlása: egy létesítményhez közvetlenül kapcsolódó tárgyi eszközök és immateriális javak piaci feltételek mellett történő megvásárlása, ha a létesítmény bezárásra került vagy – ha nem vásárolják meg – bezárásra került volna, és – annak kivételével, ha egy kisvállalkozást az eladónak a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy korábbi munkavállalója vásárol meg – a felvásárló beruházó a létesítmény tulajdonosától független harmadik fél,
 
+46a.[^7] lignitipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által létrehozott, szénre vonatkozó nemzetközi kodifikációs rendszer meghatározása szerinti gyenge minőségű, C. csoportba sorolt szén vagy ortholignit, továbbá gyenge minőségű, B. csoportba sorolt szén vagy metalignit kitermelése,
+
 47. magasan képzett munkaerő: a 651/2014/EU bizottsági rendelet 2. cikk 93. pontja szerinti munkaerő,
 
 48. megbízott szervezet: az Európai Beruházási Bank és az Európai Beruházási Alap vagy olyan nemzetközi pénzügyi intézmény, amelynek részvényese a tagállam, vagy valamely tagállamban letelepedett, valamely hatóság, közjogi szervezet vagy közfeladatot ellátó magánjogi szervezet ellenőrzése alatt álló, közérdeket megvalósító pénzügyi intézmény, melyet az építési beruházásra, az árubeszerzésre és a szolgáltatásnyújtásra irányuló közbeszerzési szerződések odaítélési eljárásainak összehangolásáról szóló, 2004. március 31-i 2004/18/EK európai parlamenti és tanácsi irányelvnek vagy a helyébe lépő jogszabálynak megfelelően választottak vagy jelöltek ki, és amelyet a tagállam bízott meg kockázatfinanszírozási célú intézkedés végrehajtásával,
+
+48a.[^8] megújuló energia: a 651/2014/EU bizottsági rendelet 2. cikk 109. pontja szerinti energia,
 
 49. megvalósíthatósági tanulmány: a 651/2014/EU bizottsági rendelet 2. cikk 87. pontja szerinti tanulmány,
 
@@ -120,13 +128,13 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 53. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység,
 
-54. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
+54.[^9] nagyberuházás: az az induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
 55. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás,
 
-56. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
+56.[^10] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
 
-57. összeszámítási szabály: a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni az igénybejelentésben szereplő beruházást és az igénybejelentő beruházó, valamint az igénybejelentő beruházótól független harmadik félnek nem minősülő beruházó vagy beruházók által háromszor háromszázhatvanöt napos időszakon belül az igénybejelentésben szereplő beruházással azonos megyében megkezdett, állami támogatásban részesülő beruházást vagy beruházásokat,
+57.[^11] összeszámítási szabály: a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni az igénybejelentésben szereplő beruházást és az igénybejelentő beruházó, valamint az igénybejelentő beruházótól független harmadik félnek nem minősülő beruházó vagy beruházók által háromszor háromszázhatvanöt napos időszakon belül az igénybejelentésben szereplő beruházással azonos megyében megkezdett, állami támogatásban részesülő beruházást vagy beruházásokat, a 12. § 1. pontjában foglalt esetben csak azok a háromszor háromszázhatvanöt napos időszakon belül, ugyanazon megyében megkezdett beruházások veendők figyelembe, amelyek a kedvezményezett vagy független harmadik félnek nem minősülő személy azonos vagy hasonló tevékenységét szolgálják,
 
 58. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
@@ -136,7 +144,7 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 61. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás,
 
-62. szervezeti együttműködés: a 651/2014/EU bizottsági rendelet 2. cikk 63. pontja szerinti együttműködés,
+62.[^12]
 
 63. szervezési innováció: a 651/2014/EU bizottsági rendelet 2. cikk 96. pontja szerinti innováció,
 
@@ -154,11 +162,13 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 70. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
+70a.[^13] társult ország: az (EU) 2021/695 európai parlamenti és tanácsi rendelet 16. cikk (1) bekezdése szerinti ország,
+
 71. tőkejuttatás: a 651/2014/EU bizottsági rendelet 2. cikk 70. pontja szerinti juttatás,
 
 72. tőzsdén nem jegyzett kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás,
 
-73. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek,
+73.[^14]
 
 74. végső kedvezményezett: az az első kockázatfinanszírozási célú befektetés időpontjában tőzsdén nem jegyzett kis- és középvállalkozás, amely
 
@@ -173,3 +183,16 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 (3) Pénzügyi előzményekkel nem rendelkező induló vállalkozás esetén az (1) bekezdés 27. pont b) alpontja szerinti arányt a folyó pénzügyi időszak független könyvvizsgáló által hitelesített pénzügyi kimutatásában kell kimutatni.
 
 [^1]: A 2. § (1) bekezdés 5a. pontját a 483/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés 9. pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés 10. pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés 21a. pontját a 434/2022. (XI. 2.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés 21b. pontját a 434/2022. (XI. 2.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdés 38. pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 46a. pontját a 434/2022. (XI. 2.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 48a. pontját a 434/2022. (XI. 2.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés 54. pontja a 434/2022. (XI. 2.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés 56. pontja a 434/2022. (XI. 2.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés 57. pontja a 434/2022. (XI. 2.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^12]: A 2. § (1) bekezdés 62. pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
+[^13]: A 2. § (1) bekezdés 70a. pontját a 434/2022. (XI. 2.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^14]: A 2. § (1) bekezdés 73. pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.

@@ -24,6 +24,30 @@ a) a földterületre vagy épületre vonatkozó bérleti jogviszony nagyvállalk
 
 b) a pénzügyi lízing formájában beszerzett üzemre, gépre, berendezésre vonatkozó szerződés tartalmazza az eszköznek a bérleti időtartam lejáratakor történő megvásárlására vonatkozó kötelezettséget.
 
+(4a)[^60] A támogatott eszközöket a kedvezményezett beszállítói is használhatják beszállítói szerződés keretében, ha
+
+a) a beszállító támogatható településen működik, a beszerzett eszközök a kedvezményezett által megjelölt beruházási helyszínen kerülnek aktiválásra,
+
+b) az eszközöket a beszállító a kedvezményezett beruházásának befejezésétől számított öt évig – kedvezményezett kis- és középvállalkozás esetében három évig – a kedvezményezett támogatott tevékenységéhez használja,
+
+c) a beszállító nem részesül vagy részesült állami támogatásban az eszköz beszerzésével összefüggésben, valamint
+
+d) az eszközre nyújtott támogatás mértéke nem haladja meg a beszállító telephelyén vagy a beruházási helyszínen alkalmazandó maximális regionális támogatási mértékek közül az alacsonyabbat.
+
+(4b)[^61] A beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a beruházás helyszínén a támogatott tevékenységet.
+
+(4c)[^62] Az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
+
+(4d)[^63] A 16. § f) pontjától eltérően a megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek, ha
+
+a) a beruházás elsődleges célja nem az energiatermelés,
+
+b) az energiatermeléshez kapcsolódó eszközök költsége a beruházás összköltségének legfeljebb 50%-át teszi ki,
+
+c) a beruházó előzetes elemzés bemutatásával hitelesen igazolja, hogy az energiatermelési kapacitás nem haladja meg a beruházás működtetéséhez szükséges mennyiséget, valamint
+
+d) az előzetes elemzésből hitelt érdemlően kitűnik, hogy a megtermelt energia legfeljebb 20%-át értékesítik.
+
 (5) Tárgyi eszköz esetén az elszámolható költséget a szokásos piaci áron kell figyelembe venni, ha az a beruházó és a beruházótól nem független harmadik vállalkozás között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
 
 (6) Az immateriális javak költsége elszámolható, ha
@@ -61,3 +85,11 @@ b) a munkahelyeket a beruházás befejezésétől számított három éven belü
 c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább három évig az érintett területen fenntartja,
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
+
+(9)[^64] Nem minősül a (8) bekezdés c) és d) pontja szerinti fenntartási kötelezettség megsértésének, ha a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket 2020. január 1. és 2021. június 30. között szüntette meg.
+
+[^60]: A 18. § (4a) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^61]: A 18. § (4b) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^62]: A 18. § (4c) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^63]: A 18. § (4d) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^64]: A 18. § (9) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.

@@ -12,6 +12,6 @@ a) a tárgyi eszközre és immateriális javakra irányuló beruházás költsé
 
 b) a közvetlenül a beruházási projekt által létrehozott munkahelyek két évre számított, becsült bérköltsége
 
-## számolható el.
+számolható el.
 
 (4) A támogatás a 18. § (2), (3) és (5) bekezdése, (6) bekezdés a)–d) pontja, (7) bekezdés a)–d) pontja, valamint (8) bekezdés a)–c) pontja szerinti feltételekkel nyújtható.

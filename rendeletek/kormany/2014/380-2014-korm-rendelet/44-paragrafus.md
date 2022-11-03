@@ -10,7 +10,7 @@ b) középvállalkozásnak nyújtott támogatás esetén 10 százalékponttal,
 
 c) kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal
 
-## növelhető.
+növelhető.
 
 (3) Az (1) bekezdés szerinti támogatási intenzitás a (2) bekezdésben meghatározott feltételek fennállása esetén legfeljebb az elszámolható költségek 70%-áig növelhető.
 
@@ -24,8 +24,8 @@ c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
 d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (pl. adminisztrációs költségek, bérleti díj, rezsiköltségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen,
 
-e)[^16] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
+e)[^80] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
 
-[^16]: A 44. § (4) bekezdés e) pontja a 483/2017. (XII. 28.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^80]: A 44. § (4) bekezdés e) pontja a 483/2017. (XII. 28.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

@@ -1,11 +1,5 @@
-## 21. A közszolgáltatásért járó ellentételezés
+## 21.[^82]
 
-47. § (1) A közszolgáltatásért járó ellentételezést (ezen alcím vonatkozásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett részére nyújtható.
+47. §
 
-(2) A támogatás csak olyan mértékben korlátoztathatja a versenyt, amely mindenképpen szükséges a feladat hatékony ellátásához.
-
-(3) A támogatás mértéke nem haladhatja meg a közszolgáltatási kötelezettségek teljesítéséhez szükséges nettó költséget, beleértve az ésszerű nyereséget is. A támogatás mértékét a 2012/21/EU bizottsági határozat 5. cikke szerint kell megállapítani.
-
-(4) Ha a kedvezményezett a 2012/21/EU bizottsági határozat 5. cikkének megfelelően meghatározott összeget meghaladó támogatásban részesül, köteles a túlkompenzációt visszafizetni. Ha a túlkompenzáció összege nem haladja meg az átlagos éves ellentételezés összegének 10%-át, a túlkompenzáció átvihető a következő időszakra, és levonható az arra az időszakra fizetendő támogatás összegéből.
-
-(5) A kedvezményezett a támogatásról olyan elkülönített elszámolást köteles vezetni, amelyből a (2)–(4) bekezdésben meghatározott követelmények ellenőrizhetőek.
+[^82]: A 21. alcímet (47. §-t) a 434/2022. (XI. 2.) Korm. rendelet 17. § l) pontja hatályon kívül helyezte.
