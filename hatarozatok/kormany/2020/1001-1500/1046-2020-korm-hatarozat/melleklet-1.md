@@ -24,4 +24,4 @@ Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti 
 
 [^2]: A 4. pontot az 1228/2022. (IV. 14.) Korm. határozat 8. pontja hatályon kívül helyezte.
 [^3]: Az 5. pontot az 1228/2022. (IV. 14.) Korm. határozat 8. pontja hatályon kívül helyezte.
-[^4]: Az 1. melléklet az 1447/2021. (VII. 6.) Korm. határozat 6. pont a)–b) alpontja szerint módosított szöveg.
+[^4]: Az 1. melléklet az 1447/2021. (VII. 6.) Korm. határozat 6. pont a)–b) alpontja, az 1521/2022. (XI. 2.) Korm. határozat 52. és 53. pontja szerint módosított szöveg.
