@@ -1,4 +1,4 @@
-## 8. §[^14] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 594/2021. (X. 27.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 3. melléklet 45. pontját a Módr2. hatálybalépésekor[^15] folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^15] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 594/2021. (X. 27.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 3. melléklet 45. pontját a Módr2. hatálybalépésekor[^16] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^14]: A 8. §-t az 594/2021. (X. 27.) Korm. rendelet 2. §-a iktatta be.
-[^15]: A hatálybalépés időpontja 2021. október 28.
+[^15]: A 8. §-t az 594/2021. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2021. október 28.

@@ -1,0 +1,3 @@
+1/E. §[^11] A Kormány a Várpalotai Védelmi Ipari Komplexum megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes kapcsolódó kormányrendeletek módosításáról szóló 438/2022. (XI. 2.) Korm. rendelet (a továbbiakban: R2.) 1. § (1) bekezdése szerinti beruházás esetében az R2. 1. melléklet 9–19. sorában meghatározott közigazgatási hatósági eljárásban a honvédelmi, építésügyi, munkavédelmi, tűzvédelmi, közegészségügyi és járványügyi, valamint sugárvédelmi szakkérdések vizsgálatára szakhatóságként a honvédelemért felelős minisztert jelöli ki.
+
+[^11]: Az 1/E. §-t a 438/2022. (XI. 2.) Korm. rendelet 10. § (2) bekezdése iktatta be.
