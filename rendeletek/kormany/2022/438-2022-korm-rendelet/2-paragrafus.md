@@ -1,0 +1,1 @@
+2. § A Kormány az 1. mellékletben foglalt táblázat „A” oszlopában meghatározott közigazgatási hatósági ügyek intézésére az 1. mellékletben foglalt táblázat „B” oszlopában felsorolt hatóságokat jelöli ki.

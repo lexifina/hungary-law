@@ -1,0 +1,9 @@
+# 438/2022. (XI. 2.) Korm. rendelet
+
+a Várpalotai Védelmi Ipari Komplexum megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes kapcsolódó kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-438-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-11-03 | 2022-438-20-22.1 | 438/2022. (XI. 2.) Korm. rendelet |
