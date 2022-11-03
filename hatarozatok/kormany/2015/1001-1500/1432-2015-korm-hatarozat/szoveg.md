@@ -16,7 +16,7 @@ f) véleményt nyilvánít és javaslatokat tesz az Országos Fogyatékosságüg
 
 3. A Bizottság ellátja a Fogyatékossággal élő személyek jogairól szóló egyezmény és az ahhoz kapcsolódó Fakultatív Jegyzőkönyv kihirdetéséről szóló 2007. évi XCII. törvénnyel kihirdetett, a Fogyatékossággal élő személyek jogairól szóló egyezmény 33. cikkében foglalt kormányzati koordinációs feladatokat.
 
-4. A Bizottság elnöke a szociál- és nyugdíjpolitikáért felelős miniszter által felkért állami vezető.
+4.[^2] A Bizottság elnöke a szociálpolitikáért felelős miniszter által felkért szakmai felsővezető vagy politikai felsővezető.
 
 5. A Bizottság szavazati joggal rendelkező állandó és eseti tagokból, valamint tanácskozási joggal rendelkező meghívottakból áll.
 
@@ -24,15 +24,15 @@ f) véleményt nyilvánít és javaslatokat tesz az Országos Fogyatékosságüg
 
 7. A Bizottság szervezetével és működésével kapcsolatos napirendi pontok tárgyalására valamennyi állandó és eseti tagot meg kell hívni.
 
-8.[^1] A Bizottság állandó tagjai:
+8.[^3] A Bizottság állandó tagjai:
 
 a) a Bizottság elnöke, valamint
 
-b) feladatkörönként egy-egy személy
+b)[^4] feladatkörönként egy-egy személy
 
 ba) az egészségügyért,
 
-bb) a szociál- és nyugdíjpolitikáért,
+bb) a szociálpolitikáért,
 
 bc) a társadalmi felzárkózásért,
 
@@ -42,19 +42,25 @@ be) a gyermek- és ifjúságpolitikáért,
 
 bf) a kultúráért,
 
-bg) a Kormány általános politikája megvalósításának stratégiai irányításáért,
+bg) az általános politikai koordinációért,
 
 bh) a foglalkoztatáspolitikáért,
 
 bi) a közfoglalkoztatásért,
 
-bj) a szakképzésért és felnőttképzésért és
+bj) a szakképzésért,
 
-bk) az államháztartásért
+bk) a felnőttképzésért,
+
+bl) az államháztartásért,
+
+bm) a köznevelésért,
+
+bn) a felsőoktatásért
 
 felelős miniszter által vezetett, illetve a tevékenységét segítő minisztérium képviseletében,
 
-c) az oktatásért felelős miniszter által vezetett minisztérium képviseletében a köznevelési és a felsőoktatási területet képviselő egy-egy személy, továbbá
+c)[^5]
 
 d) a fogyatékos emberek társadalmi integrációjával kapcsolatos feladatok ellátásáért felelős miniszteri biztos.
 
@@ -70,7 +76,7 @@ ac) az európai uniós források felhasználásáért,
 
 ad) az adópolitikáért,
 
-ae) a kormányzati tevékenység összehangolásáért,
+ae)[^6] a kormányzati igazgatás összehangolásáért,
 
 af) a társadalmi és civil kapcsolatok fejlesztéséért,
 
@@ -78,19 +84,19 @@ ag) az informatikáért és
 
 ah) a közlekedésért
 
-ai)[^2] a sportpolitikáért
+ai)[^7] a sportpolitikáért
 
 felelős miniszter által vezetett minisztérium képviseletében, továbbá
 
-b)[^3] az alábbi szervek egy-egy képviselője:
+b)[^8] az alábbi szervek egy-egy képviselője:
 
 ba) Központi Statisztikai Hivatal,
 
 bb) rehabilitációs és szociális hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala,
 
-bc)[^4] Slachta Margit Nemzeti Szociálpolitikai Intézet,
+bc)[^9] Slachta Margit Nemzeti Szociálpolitikai Intézet,
 
-bd) Állami Egészségügyi Ellátó Központ,
+bd)[^10] Országos Kórházi Főigazgatóság,
 
 be) Integrált Jogvédelmi Szolgálat,
 
@@ -108,9 +114,9 @@ a) az Egyenlő Bánásmód Hatóság,
 
 b) az Alapvető Jogok Biztosának Hivatala,
 
-c) a Fogyatékos Személyek Esélyegyenlőségéért Közhasznú Nonprofit Kft.,
+c)[^11] a Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság,
 
-d)[^5]
+d)[^12]
 
 e) a Nemzeti Hírközlési és Informatikai Tanács
 
@@ -118,19 +124,17 @@ egy-egy képviselője.
 
 11. A Bizottság elnöke, ha valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, további szakértőket hívhat meg, akik az elnök által meghatározott napirendi pontok tekintetében tanácskozási joggal vesznek részt a Bizottság ülésén.
 
-12.[^6] A 8. pont b)–c) alpontja és a 9. pont szerinti tagot az adott szervezet vezetője jelöli ki. Tagként
+12.[^13] A 8. pont b) alpontja és a 9. pont szerinti tagot az adott szervezet vezetője jelöli ki. Tagként
 
-a) a szervezettel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban álló személy,
+a) a szervezetben szakmai felsővezetői vagy politikai felsővezetői vagy szakmai vezetői álláshelyet betöltő személy,
 
-b) vezetői munkakörrel rendelkező kormányzati szolgálati jogviszonyban vagy állami tisztviselői jogviszonyban álló személy,
-
-c) gazdasági társaság esetén a társaság vezető tisztségviselője vagy munkavállalója
+b) gazdasági társaság esetén a társaság vezető tisztségviselője vagy munkavállalója
 
 jelölhető ki.
 
 13. A Bizottság szükség szerint, de évente legalább négy alkalommal ülésezik. A Bizottság ülését a Bizottság elnöke hívja össze.
 
-14. A Bizottság működésével kapcsolatos szervezési, adminisztratív feladatokat a szociál- és nyugdíjpolitikáért felelős miniszter által irányított minisztérium szervezeti egysége látja el.
+14.[^14] A Bizottság működésével kapcsolatos szervezési, adminisztratív feladatokat a szociálpolitikáért felelős miniszter által irányított minisztérium szervezeti egysége látja el.
 
 15. A Bizottság titkára a Bizottság elnöke által határozott időre kijelölt személy, aki tanácskozási joggal részt vesz a Bizottság ülésein.
 
@@ -142,9 +146,16 @@ jelölhető ki.
 
 19. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
 
-[^1]: A 8. pont b) alpont záró szövegrésze az 1447/2021. (VII. 6.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^2]: A 9. pont a) alpont ai) pontját az 1853/2016. (XII. 27.) Korm. határozat 51. pontja iktatta be.
-[^3]: A 9. pont b) alpontja az 1268/2017. (V. 29.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: A 9. pont b) alpont bc) alpontja az 1948/2020. (XII. 18.) Korm. határozat 3. pontjával megállapított, az 1502/2021. (VII. 26.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^5]: A 10. pont a) alpontját az 1853/2016. (XII. 27.) Korm. határozat 53. pontja hatályon kívül helyezte.
-[^6]: A 12. pont az 1268/2017. (V. 29.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1521/2022. (XI. 2.) Korm. határozat 29. pontjával megállapított szöveg.
+[^3]: A 8. pont b) alpont záró szövegrésze az 1447/2021. (VII. 6.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^4]: A 8. pont b) alpontja az 1521/2022. (XI. 2.) Korm. határozat 30. pontjával megállapított szöveg.
+[^5]: A 8. pont c) alpontját az 1521/2022. (XI. 2.) Korm. határozat 35. pontja hatályon kívül helyezte.
+[^6]: A 9. pont a) alpont ae) pontja az 1521/2022. (XI. 2.) Korm. határozat 34. pont a) alpontja szerint módosított szöveg.
+[^7]: A 9. pont a) alpont ai) pontját az 1853/2016. (XII. 27.) Korm. határozat 51. pontja iktatta be.
+[^8]: A 9. pont b) alpontja az 1268/2017. (V. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^9]: A 9. pont b) alpont bc) alpontja az 1948/2020. (XII. 18.) Korm. határozat 3. pontjával megállapított, az 1502/2021. (VII. 26.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^10]: A 9. pont b) alpont bd) pontja az 1521/2022. (XI. 2.) Korm. határozat 31. pontjával megállapított szöveg.
+[^11]: A 10. pont c) alpontja az 1521/2022. (XI. 2.) Korm. határozat 32. pontjával megállapított szöveg.
+[^12]: A 10. pont a) alpontját az 1853/2016. (XII. 27.) Korm. határozat 53. pontja hatályon kívül helyezte.
+[^13]: A 12. pont az 1521/2022. (XI. 2.) Korm. határozat 33. pontjával megállapított szöveg.
+[^14]: A 14. pont az 1521/2022. (XI. 2.) Korm. határozat 34. pont b) alpontja szerint módosított szöveg.
