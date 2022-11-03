@@ -18,18 +18,9 @@
 
 | Határidő: | a forrás rendelkezésre állását követően azonnal |
 
-## 2. A közúti infrastruktúra-fejlesztésekhez szükséges kötelezettségvállalásokról szóló 1503/2022. (X. 19.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 2.[^1]
 
-1. melléklet az 1528/2022. (XI. 2.) Korm. határozathoz
+1. melléklet az 1528/2022. (XI. 2.) Korm. határozathoz[^2]
 
-A közúti infrastruktúra-fejlesztésekhez szükséges kötelezettségvállalásokról szóló 1503/2022. (X. 19.) Korm. határozat 1. mellékletében foglalt táblázat a következő 5. sorral egészül ki:
-
-|  | (A | B | C | D | E | F |
-
-| 1. | Kapcsolódó kormányhatározat | 2022. évi költségvetési év | 2023. évi költségvetési év | 2024. évi költségvetési év | 2025. évi költségvetési év | Összesen) |
-
-„
-
-| 5. | 1528/2022. (XI. 2.) Korm. határozat 1. pont b) alpont ba) és bb) pontja | 1 600 000 000 | 2 900 000 000 | 0 | 0 | 4 500 000 000 |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
