@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1087-30
 | 2020-12-03 | 2011-1087-30-22.7 | 1876/2020. (XII. 2.) Korm. határozat |
 | 2020-12-17 | 2011-1087-30-22.8 | 1876/2020. (XII. 2.) Korm. határozat |
 | 2022-04-06 | 2011-1087-30-22.9 | 1211/2022. (IV. 5.) Korm. határozat |
+| 2022-11-03 | 2011-1087-30-22.10 | 1521/2022. (XI. 2.) Korm. határozat |
