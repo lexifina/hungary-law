@@ -1,4 +1,4 @@
-4. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^85]
+4. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^86]
 
 A többciklusú képzési szerkezet bevezetését követően, felmenő rendszerben kibocsátott oklevelek egyenértékűségének vizsgálatához:
 
@@ -7,6 +7,8 @@ Ha az építésügyi vagy építésfelügyeleti hatósági munkakör betöltés�
 I. Építésügyi hatósági munkakör betöltéséhez szükséges képesítési követelmény kredittartalma
 
 1. Természettudományos alapismeretek
+
+## 9K10510M_0
 
 |  | A | B | C |
 
@@ -38,6 +40,8 @@ I. Építésügyi hatósági munkakör betöltéséhez szükséges képesítési
 
 3. Szakmai törzsanyag
 
+## 9K10510M_2
+
 |  | A | B | C |
 
 |  | tantárgy / tevékenységi kör | témakörök, tantárgyak, kompetenciák | beszámítható kreditek száma |
@@ -63,6 +67,8 @@ I. Építésügyi hatósági munkakör betöltéséhez szükséges képesítési
 | 10. | A beszámítható kreditek száma szakmai törzsanyagból összesen | 58 kredit |
 
 4. Differenciált szakmai ismeretek
+
+## 9K10510M_3
 
 |  | A | B | C |
 
@@ -124,6 +130,8 @@ II. Építésfelügyeleti hatósági munkakör betöltéséhez szükséges képe
 
 3. Szakmai törzsanyag
 
+## 9K10510M_6
+
 |  | A | B | C |
 
 | 1. | tantárgy / tevékenységi kör | témakörök, tantárgyak | beszámítható kreditek száma |
@@ -150,30 +158,4 @@ II. Építésfelügyeleti hatósági munkakör betöltéséhez szükséges képe
 
 4. Differenciált szakmai ismeretek
 
-|  | A | B | C |
-
-| 1. | tantárgy / tevékenységi kör | témakörök, tantárgyak | beszámítható kreditek száma |
-
-| 2. | 4.1 Magasépítési acélszerkezetek | Csarnokok, egy és többszintes épületek, sportlétesítmények és speciális szerkezetek. Szerkezetek tervezése az Eurocode szabványrendszer alapján. | 4 |
-
-| 3. | 4.2 Magasépítési vasbetonszerkezetek | Magas épületek szerkezeti kialakítása. Födémek, födémrendszerek, keretek, épületmerevítések, faltartók, csarnokok számítása. | 4 |
-
-| 4. | 4.3 Szerkezetek megerősítése | Épületdiagnosztikai vizsgálatok, módszerek. Vizsgálati módszerek alkalmazása, kiértékelése. A teherhordó szerkezetek közvetett és közvetlen károsodásának okai. A szerkezet-cserék és a szerkezet-megerősítések szempontjai és a felújítások hatékonysága. | 2 |
-
-| 5. | 4.4 Épülettervezés II. (Ipari és mezőgazdasági épületek tervezése) 4.5 Nagyfesztávú épületek tervezése | Többszintes, többlakásos lakóépület, középület, ipari park fogalma. Épület külső környezeti kapcsolata, településszerkezeti kapcsolatok. Tűzvédelem. Tervezési metodika, magvalósulási folyamat. | 2 2 |
-
-| 6. | 4.6 Magasépítéstan II. |  | 3 |
-
-| 7. | 4.7 Acélszerkezetek II. 4.8 Vasbetonszerkezetek II. |  | 4 4 |
-
-| 8. | 4.9 Építéskivitelezés-szervezés | Az építési beruházás tervezés alapjai, a technológia a költség-, idő- és térbeli tervezés összefüggése az építési beruházás kezdeményezésétől a létesítmény átadás-átvételéig. | 8 |
-
-| 9. | 4.10 Település- régiófejlesztés | A fejlesztés és rendezés szereplői, térségi és településtervezés dokumentumai, településrendezési terv. Szabályozási terv és a helyi építésügyi szabályzat. | 2 |
-
-| 10. | 4.11 Diplomamunka | Magasépítési területről választott témában, önálló komplex tervezési feladat. | 13 |
-
-| 11. | A beszámítható kreditek száma differenciált szakmai törzsanyagból összesen | 48 kredit |  |
-
-”
-
-[^85]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 41. § b) pontjával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 16. § (6) bekezdése, a 482/2016. (XII. 28.) Korm. rendelet 5. § j) és l) pontja, a 360/2019. (XII. 30.) Korm. rendelet 45. § (12) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^86]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 41. § b) pontjával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 16. § (6) bekezdése, a 482/2016. (XII. 28.) Korm. rendelet 5. § j) és l) pontja, a 360/2019. (XII. 30.) Korm. rendelet 45. § (12) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

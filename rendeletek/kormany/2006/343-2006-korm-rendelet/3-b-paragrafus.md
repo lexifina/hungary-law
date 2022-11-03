@@ -18,17 +18,19 @@ e)[^21] a fogvatartottak elhelyezésére szolgáló büntetés-végrehajtási in
 
 f)[^22] a BSL3 és BSL4 minősítésű Nemzeti Biztonsági Laboratórium komplexum építményei.
 
-(2)[^23] A nemzetbiztonsági célú, illetve rendeltetésű építmények vonatkozásában az építésügyi hatósági jogkör gyakorlása során az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: Eng.R.) mellett a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló kormányrendeletben, az építésfelügyeleti hatósági jogkör gyakorlása során a honvédelmi és katonai célú építményekkel kapcsolatos építésfelügyeleti tevékenységről szóló kormányrendeletben meghatározott eljárási szabályokat kell megfelelően alkalmazni.
+g)[^23] a Várpalotai Védelmi Ipari Komplexum építményei (Várpalota, Csór).
 
-(3)[^24] A tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények
+(2)[^24] A nemzetbiztonsági célú, illetve rendeltetésű építmények vonatkozásában az építésügyi hatósági jogkör gyakorlása során az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: Eng.R.) mellett a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló kormányrendeletben, az építésfelügyeleti hatósági jogkör gyakorlása során a honvédelmi és katonai célú építményekkel kapcsolatos építésfelügyeleti tevékenységről szóló kormányrendeletben meghatározott eljárási szabályokat kell megfelelően alkalmazni.
 
-a)[^25] építésügyi hatósági engedélyezése során, ha az építésügyi hatóság helyszíni szemle megtartását rendeli el, a helyszíni szemlét három napon belül kell lefolytatni, és a helyszíni szemlén részt vevő szakhatóság állásfoglalását a helyszíni szemle keretében adja meg,
+(3)[^25] A tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények
 
-b)[^26] az építésügyi hatósági engedélyezési eljárások az Étv. 4. § (3a) bekezdése, valamint 6. § (3) bekezdése szerinti kormányrendelet alapján lefolytathatók a hatályos településrendezési tervek eltérő rendelkezése esetén is,
+a)[^26] építésügyi hatósági engedélyezése során, ha az építésügyi hatóság helyszíni szemle megtartását rendeli el, a helyszíni szemlét három napon belül kell lefolytatni, és a helyszíni szemlén részt vevő szakhatóság állásfoglalását a helyszíni szemle keretében adja meg,
+
+b)[^27] az építésügyi hatósági engedélyezési eljárások az Étv. 4. § (3a) bekezdése, valamint 6. § (3) bekezdése szerinti kormányrendelet alapján lefolytathatók a hatályos településrendezési tervek eltérő rendelkezése esetén is,
 
 c) jogszerűtlen építési tevékenysége során az Eng. R. 55. §-a alkalmazható.
 
-(4)[^27] A (3) bekezdés szerinti, szállás jellegű, nem életvitelszerű, átmeneti tartózkodásra szolgáló épületet vagy önálló rendeltetési egységet úgy kell megtervezni és kialakítani, hogy annak helyiségei, vagy a rendeltetésével hozzá tartozó építmények helyiségei a tervezési program szerint tegyék lehetővé
+(4)[^28] A (3) bekezdés szerinti, szállás jellegű, nem életvitelszerű, átmeneti tartózkodásra szolgáló épületet vagy önálló rendeltetési egységet úgy kell megtervezni és kialakítani, hogy annak helyiségei, vagy a rendeltetésével hozzá tartozó építmények helyiségei a tervezési program szerint tegyék lehetővé
 
 a) a pihenést (az alvást),
 
@@ -47,8 +49,9 @@ c) a mosást, főzést, élelmiszertárolást, mosogatást, az étkezést, valam
 [^20]: A 3/B. § (1a) bekezdés d) pontját a 622/2020. (XII. 21.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 6. §-át.
 [^21]: A 3/B. § (1a) bekezdés e) pontját a 276/2021. (V. 26.) Korm. rendelet 1. §-a itkatta be.
 [^22]: A 3/B. § (1a) bekezdés f) pontját a 829/2021. (XII. 28.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^23]: A 3/B. § (2) bekezdése a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^24]: A 3/B. § (3) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^25]: A 3/B. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 184. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^26]: A 3/B. § (3) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 48. §-a szerint módosított szöveg.
-[^27]: A 3/B. § (4) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^23]: A 3/B. § (1a) bekezdés g) pontját a 438/2022. (XI. 2.) Korm. rendelet 9. §-a iktatta be.
+[^24]: A 3/B. § (2) bekezdése a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^25]: A 3/B. § (3) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^26]: A 3/B. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 184. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^27]: A 3/B. § (3) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 48. §-a szerint módosított szöveg.
+[^28]: A 3/B. § (4) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
