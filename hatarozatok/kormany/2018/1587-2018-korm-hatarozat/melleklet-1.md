@@ -166,7 +166,7 @@
 
 ## e) a vízgazdálkodásért és vízvédelemért felelős miniszter e szakterületről kijelölt képviselője,
 
-## f) a jogszabályokban meghatározott vízgazdálkodási és vízgyűjtő-gazdálkodási feladatai tekintetében a Magyar Bányászati és Földtani Szolgálat képviselője,
+## f) a jogszabályokban meghatározott vízgazdálkodási és vízgyűjtő-gazdálkodási feladatai tekintetében a Szabályozott Tevékenységek Felügyeleti Hatóságának képviselője,[^1]
 
 ## g) a környezetvédelemért felelős miniszter e szakterületről kijelölt képviselője,
 
@@ -189,6 +189,8 @@
 ## p) az energiapolitikáért felelős miniszter e szakterületről kijelölt képviselője,
 
 ## q) az államháztartásért felelős miniszter e szakterületről kijelölt képviselője.
+
+## r) a területrendezésért, a településfejlesztésért és településrendezésért felelős miniszter e szakterületről kijelölt képviselője.[^2]
 
 ## 19. Az OVT-ben tagként részt vehetnek az OVT elnöke által felkért országos jelentőségű civil szervezetek, szakmai érdekképviseleti szervezetek, szakmai-tudományos szervezetek által kijelölt 3-3 fő képviselői, összesen 9 fő.
 
@@ -244,8 +246,10 @@
 
 ## b) az OVT átalakításáról az OVT elnöke gondoskodik.
 
-## 36.[^1]
+## 36.[^3]
 
 1. melléklet az 1587/2018. (XI. 22.) Korm. határozathoz
 
-[^1]: A 36. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 18. pont f) alpontja az 1521/2022. (XI. 2.) Korm. határozat 50. pontjával megállapított szöveg.
+[^2]: A 18. pont r) alpontját az 1521/2022. (XI. 2.) Korm. határozat 51. pontja iktatta be.
+[^3]: A 36. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
