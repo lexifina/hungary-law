@@ -12,33 +12,35 @@ c) felhívja a figyelmet mindazokra a problémákra, amelyek nehezítik a romák
 
 d) véleményt nyilvánít a szegénységben, társadalmi kirekesztésben élő hátrányos helyzetű romák társadalmi integrációját érintő intézkedési javaslatokról;
 
-e) javaslatokat fogalmaz meg a 2014-2020. évi programozási időszakban kiírandó felzárkózást segítő programok szakmai tartalmára, intézkedéseire;
+e)[^1] javaslatokat fogalmaz meg az európai uniós programozási időszakokban kiírandó felzárkózást segítő programok szakmai tartalmára, intézkedéseire;
 
 f) ismerteti tagjai részére azokat a jó gyakorlatokat, melyek a társadalmi felelősségvállalás jegyében valósulnak meg;
 
 g) a területi hátrányok mérséklése érdekében feltárja és bemutatja a térségi együttműködések jó gyakorlatait.
 
-4.[^1] A Fórum tagjai:
+4.[^2] A Fórum tagjai:
 
 a) a belügyminiszter;
 
-b) a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára;
+b) a Belügyminisztérium gondoskodáspolitikáért felelős államtitkára;
 
-c) az innovációért és technológiáért felelős miniszter;
+c) a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára;
 
-d) az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkára;
+d) a technológiai és ipari miniszter;
 
-e) a Pénzügyminisztérium foglalkoztatáspolitikáért és vállalati kapcsolatokért felelős államtitkára;
+e) a Technológiai és Ipari Minisztérium iparért és munkaerőpiacért felelős államtitkára;
 
 f) a Külgazdasági és Külügyminisztérium parlamenti államtitkára;
 
 g) a Magyar Kereskedelmi és Iparkamara elnöke;
 
-h) a Magyar Rektori Konferencia elnöke és
+h) a Magyar Rektori Konferencia elnöke;
 
-i) a belügyminiszter által felkért azon vállalatok, amelyekkel a Kormány stratégiai együttműködési megállapodást kötött, valamint azok, amelyek a felzárkózás területén szakmai tapasztalattal rendelkeznek (a továbbiakban együtt: vállalatok).
+i) a belügyminiszter által felkért azon vállalatok, amelyekkel a Kormány stratégiai együttműködési megállapodást kötött, valamint azok, amelyek a felzárkózás területén szakmai tapasztalattal rendelkeznek (a továbbiakban együtt: vállalatok);
 
-j)[^2] a roma kapcsolatokért felelős kormánybiztos.
+j) a roma kapcsolatokért felelős kormánybiztos;
+
+k) a kultúráért és innovációért felelős miniszter.
 
 5.[^3] A Fórum elnöke a belügyminiszter. A Fórum alelnöke a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára és a roma kapcsolatokért felelős kormánybiztos, társelnöke a vállalatok által megjelölt tag.
 
@@ -54,8 +56,8 @@ j)[^2] a roma kapcsolatokért felelős kormánybiztos.
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 4. pont az 1267/2019. (V. 8.) Korm. határozat 22. pontjával megállapított szöveg.
-[^2]: A 4. pont j) alpontját az 1821/2021. (XI. 25.) Korm. határozat 6. pontja iktatta be.
+[^1]: A 3. pont e) pontja az 1521/2022. (XI. 2.) Korm. határozat 37. pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1521/2022. (XI. 2.) Korm. határozat 36. pontjával megállapított szöveg.
 [^3]: Az 5. pont az 1821/2021. (XI. 25.) Korm. határozat 7. pontjával megállapított szöveg.
 [^4]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 23. pontja szerint módosított szöveg.
 [^5]: A 9. pont az 1267/2019. (V. 8.) Korm. határozat 24. pontja szerint módosított szöveg.
