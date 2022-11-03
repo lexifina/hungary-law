@@ -18,57 +18,21 @@ da) a járási (fővárosi kerületi) hivatal közvetítési kísérlete három 
 
 db) 3 hónapig nem tudott a járási (fővárosi kerületi) hivatal az álláskereső számára megfelelő állást felajánlani,
 
-e)[^1]
-
-Felelős: nemzetgazdasági miniszter
+e)[^1] Felelős: nemzetgazdasági miniszter
 
 belügyminiszter
 
 Határidő: 2017. március 31-től folyamatosan
 
-2. felhívja a nemzetgazdasági minisztert, hogy tegyen intézkedéseket a piaci igényeket kiszolgáló munkaközvetítés megerősítése és hatékonyabb működése, a Nemzeti Foglalkoztatási Szolgálat kompetenciaalapú munkaközvetítés rendszerének kidolgozása, a Virtuális Munkaerőpiac Portál (VMP) továbbfejlesztése érdekében;
+2.[^2]
 
-Felelős: nemzetgazdasági miniszter
+3.[^3]
 
-Határidő: 2017. augusztus 31.
+4.[^4]
 
-3. felhívja a belügyminisztert a versenyszférában kialakult munkaerőhiányra figyelemmel, hogy a közfoglalkoztatási programokban részt vevők havi átlagos maximális létszámát 2020-ig folyamatosan 150 ezer főre csökkentse;
+5.[^5]
 
-Felelős: belügyminiszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2020. december 31.
-
-4. felhívja a nemzetgazdasági minisztert és a belügyminisztert, hogy a közfoglalkoztatási jogviszonyban állók létszámcsökkentése miatt, az aktív munkaerőpiaci programok megvalósítása érdekében 40 milliárd forint 2017. évi előirányzat átcsoportosításáról intézkedjen a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet, LXIII. Nemzeti Foglalkoztatási Alap fejezeten belül, a 8. Start-munkaprogram cím terhére, az 1. Aktív támogatások 1. Foglalkoztatási és képzési támogatások alcím javára olyan megbontásban, hogy
-
-a) a határozat hatálybalépését követő 15 napon belül 30 milliárd forint,
-
-b) legkésőbb 2017. június 30-ig 10 milliárd forint
-
-kerüljön átcsoportosításra;
-
-Felelős: nemzetgazdasági miniszter
-
-belügyminiszter
-
-Határidő: a) pont vonatkozásában jelen Korm. határozat hatálybalépését követő 15 napon
-
-b) pont vonatkozásában 2017. június 30.
-
-5. felhívja a nemzetgazdasági minisztert, tegyen intézkedéseket, hogy az aktív munkaerőpiaci programok megvalósítása érdekében a Nemzeti Foglalkoztatási Alap Foglalkoztatási és képzési támogatások javára a 2018. és 2019. években legalább 60 milliárd forint keret álljon rendelkezésre;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: folyamatos
-
-6. felhívja a belügyminisztert, vizsgálja meg annak a lehetőségét, hogy a jelenleg állami intézményeknél közfoglalkoztatásban lévő személyek miként tudnak saját állományba kerülni és ennek mennyi a többletforrás igénye, továbbá a nemzetgazdasági miniszterrel közösen tegyen javaslatot a megvalósítás módjára, továbbá vizsgálja felül az állami foglalkoztatók által támasztott közfoglalkoztatási igényeket;
-
-Felelős: belügyminiszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2017. április 30.
+6.[^6]
 
 7. felhívja a belügyminisztert, a Miniszterelnökséget vezető minisztert, az emberi erőforrások miniszterét és a földművelésügyi minisztert, hogy közösen együttműködve, eszközrendszerük komplex felhasználásával, a közfoglalkoztatási programokban történő bennragadás megakadályozását célzó intézkedések megvalósításával támogassák a nemzetgazdasági minisztert a komplex munkaerőpiaci programok szervezésében, melyek elősegítik a közfoglalkoztatottak elsődleges munkaerőpiacon történő elhelyezkedését;
 
@@ -84,13 +48,7 @@ földművelésügyi miniszter
 
 Határidő: a határozat hatálybalépésétől folyamatosan
 
-8. felhívja a nemzetgazdasági minisztert és a Miniszterelnökséget vezető minisztert, hogy az elsődleges munkaerőpiaci elhelyezkedést segítő, uniós finanszírozással megvalósuló munkaerőpiaci programok (GINOP 5.1.1, VEKOP 8.1.1, GINOP 5.2.1, VEKOP 8.2.1.) esetében határozzanak meg számszerű célkitűzést a 2017–2020 közötti időszakra vonatkozóan éves és megyei bontásban a kormányhivatalok részére az adott évben kifizetett összeg mértéke tekintetében oly módon, hogy a programokba bevont résztvevők létszáma minden egyes évben érje el a 60 ezer főt;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2017. március 31.
+8.[^7]
 
 9. egyetért azzal, hogy a közfoglalkoztatáshoz kapcsolódó képzési programok és munkaerőpiaci szolgáltatások főszabályként európai uniós, illetve az indokolt esetekben központi költségvetési források terhére valósuljanak meg a területi felzárkózási koordinációs központi feladatok ellátására kijelölt állami szerv bevonásával;
 
@@ -98,52 +56,36 @@ Határidő: 2017. március 31.
 
 11. egyetért azzal, hogy – az elsődleges munkaerőpiaci reintegráció érdekében – a közfoglalkoztatottak rugalmas módon szolgálják ki a mezőgazdasági idénymunka szezonálisan kiugró munkaerő-szükségletét, különös tekintettel a jelenleg meglévő mezőgazdasági kézi munkaerő hiányára;
 
-12. felhívja a belügyminisztert, hogy folytassa a mentális, szociális vagy egészségi okból foglalkoztatásba be nem vonható álláskeresők foglalkoztathatóságának növelését szolgáló 2016. évi kormányzati intézkedésekről szóló 1253/2016. (VI. 6.) Korm. határozat 2. pontjában meghatározott speciális közfoglalkoztatási programot, és a nemzetgazdasági miniszterrel együtt biztosítsa az ehhez szükséges 115 millió forint forrást a Kvtv. 1. melléklet, LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram cím terhére;
+12.[^8]
 
-Felelős: belügyminiszter
+13.[^9]
 
-nemzetgazdasági miniszter
+14.[^10]
 
-Határidő: 2017. április 1.
+15.[^11]
 
-13. felhívja a nemzetgazdasági minisztert és a belügyminisztert, hogy biztosítsa a 12. pont szerinti speciális közfoglalkoztatási programhoz kapcsolódó munkaerőpiaci szolgáltatások nyújtásához szükséges 180 millió forint forrást a Kvtv. 1. melléklet, LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram cím terhére és a Kvtv. 1. melléklet, LXIII. Nemzeti Foglalkoztatási Alap fejezet 1. Aktív támogatások 1. Foglalkoztatási és képzési támogatások alcím javára;
+16.[^12]
 
-Felelős: nemzetgazdasági miniszter
-
-belügyminiszter
-
-Határidő: 2017. április 1.
-
-14. felhívja az emberi erőforrások miniszterét, hogy a 12. pont szerinti speciális közfoglalkoztatási programhoz kapcsolódóan
-
-a) biztosítsa a programban részt vevő álláskeresők számára a szociális- és egészségügyi szolgáltatásokat,
-
-b) biztosítsa a szociális diagnózis elkészítéséhez szükséges humán kapacitásokat,
-
-c) vizsgálja felül a pszichiátriai problémák, illetve szenvedélybetegségek kezeléséhez szükséges közösségi ellátások, valamint a nappali ellátások jelenlegi területi elosztását és kapacitásait;
-
-Felelős: emberi erőforrások minisztere
-
-Határidő: 2017. április 1.
-
-15. felhívja az emberi erőforrások miniszterét és a belügyminisztert, hogy megállapodás alapján biztosítsa a 14. pont szerinti szociális és egészségügyi szolgáltatások nyújtásához szükséges 25 millió forint forrást a Kvtv. 1. melléklet, LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram cím terhére és a Kvtv. 1. melléklet, XX. Emberi Erőforrások Minisztériuma fejezet javára.
-
-Felelős: emberi erőforrások minisztere belügyminiszter
-
-Határidő: 2017. április 1.
-
-16.[^2]
-
-17.[^3]
+17.[^13]
 
 18. Ez a határozat a közzétételét követő napon lép hatályba.
 
-19.[^4]
+19.[^14]
 
-20.[^5]
+20.[^15]
 
 [^1]: Az 1. pont e) alpontját az 1952/2017. (XII. 13.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
-[^2]: A 16. pontot az 1952/2017. (XII. 13.) Korm. határozat 4. pont b) alpontja hatályon kívül helyezte.
-[^3]: A 17. pontot az 1952/2017. (XII. 13.) Korm. határozat 4. pont c) alpontja hatályon kívül helyezte.
-[^4]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont a) alpontja hatályon kívül helyezte.
+[^3]: A 3. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont b) alpontja hatályon kívül helyezte.
+[^4]: A 4. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont c) alpontja hatályon kívül helyezte.
+[^5]: Az 5. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont d) alpontja hatályon kívül helyezte.
+[^6]: A 6. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont e) alpontja hatályon kívül helyezte.
+[^7]: A 8. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont f) alpontja hatályon kívül helyezte.
+[^8]: A 12. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont g) alpontja hatályon kívül helyezte.
+[^9]: A 13. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont h) alpontja hatályon kívül helyezte.
+[^10]: A 14. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont i) alpontja hatályon kívül helyezte.
+[^11]: A 15. pontot az 1521/2022. (XI. 2.) Korm. határozat 43. pont j) alpontja hatályon kívül helyezte.
+[^12]: A 16. pontot az 1952/2017. (XII. 13.) Korm. határozat 4. pont b) alpontja hatályon kívül helyezte.
+[^13]: A 17. pontot az 1952/2017. (XII. 13.) Korm. határozat 4. pont c) alpontja hatályon kívül helyezte.
+[^14]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
