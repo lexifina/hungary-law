@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1199-30
 | 2021-07-07 | 2010-1199-30-22.7 | 1447/2021. (VII. 6.) Korm. határozat |
 | 2021-11-26 | 2010-1199-30-22.8 | 1821/2021. (XI. 25.) Korm. határozat |
 | 2022-04-06 | 2010-1199-30-22.9 | 1447/2021. (VII. 6.) Korm. határozat |
+| 2022-11-03 | 2010-1199-30-22.10 | 1412/2024. (XII. 18.) Korm. határozat |
