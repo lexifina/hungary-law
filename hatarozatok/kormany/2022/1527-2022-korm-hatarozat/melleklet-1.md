@@ -36,42 +36,18 @@
 
 | Határidő: | folyamatos |
 
-## 2. A közúti infrastruktúra-fejlesztésekhez szükséges kötelezettségvállalásokról szóló 1503/2022. (X. 19.) Korm. határozat [a továbbiakban: 1503/2022. (X. 19.) Korm. határozat] 1. pontja a következő 1.3. alponttal egészül ki:
+## 2.[^1]
 
-## [A Kormány, tekintettel]
+## 3.[^2]
 
-## „1.3. a Kecskeméti Ipari Park fejlesztésével összefüggő közúti közlekedési infrastruktúra-beruházások előkészítéséhez szükséges források biztosításáról szóló 1527/2022. (XI. 2.) Korm. határozatra”
+## 4.[^3]
 
-## [(a továbbiakban együtt: kormányhatározatok) a következőkről dönt,]
+## 5.[^4]
 
-## 3. Az 1503/2022. (X. 19.) Korm. határozat 2. pontja a következő c) alponttal egészül ki:
+1. melléklet az 1527/2022. (XI. 2.) Korm. határozathoz[^5]
 
-## [A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés Építési és Beruházási Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Infrastruktúra-fejlesztési beruházások alcím, Közúti infrastruktúra-fejlesztések jogcímcsoport terhére vállalható kötelezettségek mértékét]
-
-## „c) 2025-ben az 1. melléklet szerinti táblázat E oszlopának összegében”
-
-## [állapítja meg.]
-
-## 4. Az 1503/2022. (X. 19.) Korm. határozat 3. pontjában az „E oszlopának” szövegrész helyébe az „F oszlopának” szöveg lép.
-
-## 5. Az 1503/2022. (X. 19.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
-
-1. melléklet az 1527/2022. (XI. 2.) Korm. határozathoz
-
-„1. melléklet az 1503/2022. (X. 19.) Korm. határozathoz
-
-A kötelezettségvállalás mértéke a Közúti infrastruktúra-fejlesztések előirányzaton
-
-adatok forintban
-
-|  | A | B | C | D | E | F |
-
-| 1. | Kapcsolódó kormányhatározat száma | 2022. évi költségvetési év | 2023. évi költségvetési év | 2024. évi költségvetési év | 2025. évi költségvetési év | Összesen |
-
-| 2. | 1502/2022. (X. 19.) Korm. határozat 5. pont a), b) és d) alpontja | 900 000 000 | 19 305 000 000 | 27 995 000 000 | 0 | 48 200 000 000 |
-
-| 3. | 1501/2022. (X. 19.) Korm. határozat 3. pontja | 0 | 600 000 000 | 2 200 000 000 | 0 | 2 800 000 000 |
-
-| 4. | 1527/2022. (XI. 2.) Korm. határozat 1. pont a) alpontja | 0 | 575 000 000 | 600 000 000 | 375 000 000 | 1 550 000 000 |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
