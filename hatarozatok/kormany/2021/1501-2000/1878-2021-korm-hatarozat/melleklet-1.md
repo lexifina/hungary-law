@@ -8,7 +8,7 @@
 
 ## 5. Ez a határozat 2024. január 1-jén hatályát veszti.
 
-1. melléklet az 1878/2021. (XII. 6.) Korm. határozathoz
+1. melléklet az 1878/2021. (XII. 6.) Korm. határozathoz[^2]
 
 A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézkedési tervéről
 
@@ -70,7 +70,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | EMMI, IM – áldozatsegítő központok, rendőrség, civil szervezetek |
+| 3. | Partner: | BM, IM – áldozatsegítő központok, rendőrség, civil szervezetek |
 
 | 4. | Eszköz: | bűnmegelőzési programok, tájékoztató eszközök |
 
@@ -104,7 +104,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | EMMI, BM, IM, ITM, rendőrség, Klebelsberg Központ, SZGYF, NSZI, NSZFH, egyházak, iskolafenntartók, civil szervezetek |
+| 3. | Partner: | BM, IM, KIM, TIM, rendőrség, Klebelsberg Központ, SZGYF, NSZI, NSZFH, egyházak, iskolafenntartók, civil szervezetek |
 
 | 4. | Eszköz: | képzések tartása, tananyagírás, multiplikátorok képzése |
 
@@ -120,7 +120,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | EMMI, NSZI, családokért felelős tárca nélküli miniszter, civil szervezetek |
+| 3. | Partner: | BM, NSZI, KIM, civil szervezetek |
 
 | 4. | Eszköz: | képzések és programok |
 
@@ -136,7 +136,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | BM, ITM, EMMI, családokért felelős tárca nélküli miniszter, rendőrség, Klebelsberg Központ, NSZFH, civil szervezetek, nem állami iskolafenntartók |
+| 3. | Partner: | BM, KIM, rendőrség, Klebelsberg Központ, NSZFH, civil szervezetek, nem állami iskolafenntartók |
 
 | 4. | Eszköz: | program működtetése |
 
@@ -152,7 +152,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | EMMI, ITM, rendőrség, hivatásos katasztrófavédelmi szerv, büntetés-végrehajtási szervezet, Klebelsberg Központ, NSZFH, civil szervezetek, nem állami iskolafenntartók |
+| 3. | Partner: | KIM, BM, rendőrség, hivatásos katasztrófavédelmi szerv, büntetés-végrehajtási szervezet, Klebelsberg Központ, NSZFH, civil szervezetek, nem állami iskolafenntartók |
 
 | 4. | Eszköz: | kampányok, online marketing |
 
@@ -170,7 +170,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | IM, EMMI, rendőrség, civil szervezetek |
+| 3. | Partner: | IM, BM, rendőrség, civil szervezetek |
 
 | 4. | Eszköz: | képzések és programok |
 
@@ -186,7 +186,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | IM, EMMI, rendőrség, oktatási intézmények, gyermekvédelmi intézmények, Klebelsberg Központ, SZGYF, NSZFH, civil szervezetek, a nem állami intézményfenntartók |
+| 3. | Partner: | IM, BM, KIM, rendőrség, oktatási intézmények, gyermekvédelmi intézmények, Klebelsberg Központ, SZGYF, NSZFH, civil szervezetek, a nem állami intézményfenntartók |
 
 | 4. | Eszköz: | programok és kampányok kidolgozása, működtetése |
 
@@ -202,7 +202,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | EMMI, IM, SZGYF, NSZI, egyházi fenntartók, gyermekvédelmi intézmények, civil szervezetek |
+| 3. | Partner: | BM, KIM, IM, SZGYF, NSZI, egyházi fenntartók, gyermekvédelmi intézmények, civil szervezetek |
 
 | 4. | Eszköz: | programok kidolgozása, működtetése |
 
@@ -216,7 +216,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 1. | Intézkedés: | Az uniós fejlesztésből megnyíló Biztos Pont Ambulanciák célja, hogy a kapcsolati erőszak áldozatainak mielőbb segítséget nyújtsanak, megelőzve a krízishelyzetek kialakulását. Az ambulanciák fontos szerepet vállalnak a prevenció terén is, olyan programokat valósítanak meg, melyek célja az áldozattá válás megelőzése, továbbá segítik a gyermekvédelmi jelzőrendszert az esetek felismerésében és hatékony kezelésében. A Biztos Pont Ambulanciák fejlesztését és működtetését uniós forrásból (EFOP+) tervezi finanszírozni a feladat felelőse. |
 
-| 2. | Felelős: | családokért felelős tárca nélküli miniszter, ME |
+| 2. | Felelős: | KIM, ME |
 
 | 3. | Partner: | IM, az ambulanciákat működtető civil és egyéb szervezetek, bevett egyház, egyéb egyházi szervezet, helyi önkormányzati költségvetési szerv |
 
@@ -252,7 +252,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | EMMI, BVOP, SZGYF, egyházak, civil szervezetek |
+| 3. | Partner: | BM, BVOP, SZGYF, egyházak, civil szervezetek |
 
 | 4. | Eszköz: | modellprogramok tesztelése, bevezetése, megvalósítása |
 
@@ -350,7 +350,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | ITM, PM |
+| 3. | Partner: | TIM, PM |
 
 | 4. | Eszköz: | Bűn- és Balesetmegelőzési Oktatóközpont kialakítása, a lakosság és a gyermekek biztonságát, tudatosságát és felkészültségét növelő új képzési és oktatóközpont létrehozása, képzések és továbbképzések szervezése és lebonyolítása |
 
@@ -364,22 +364,24 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 1. | BM | Belügyminisztérium |
 
-| 2. | EMMI | Emberi Erőforrások Minisztériuma |
+| 2. | PM | Pénzügyminisztérium |
 
-| 3. | PM | Pénzügyminisztérium |
+| 3. | TIM | Technológiai és Ipari Minisztérium |
 
-| 4. | ITM | Innovációs és Technológiai Minisztérium |
+| 4. | ME | Miniszterelnökség |
 
-| 5. | NBT | Nemzeti Bűnmegelőzési Tanács |
+| 5. | IM | Igazságügyi Minisztérium |
 
-| 6. | BVOP | Büntetés-végrehajtás Országos Parancsnoksága |
+| 6. | KIM | Kulturális és Innovációs Minisztérium |
 
-| 7. | SZGYF | Szociális és Gyermekvédelmi Főigazgatóság |
+| 7. | NBT | Nemzeti Bűnmegelőzési Tanács |
 
-| 8. | NSZI | Nemzeti Szociálpolitikai Intézet |
+| 8. | BVOP | Büntetés-végrehajtás Országos Parancsnoksága |
 
-| 9. | IM | Igazságügyi Minisztérium |
+| 9. | SZGYF | Szociális és Gyermekvédelmi Főigazgatóság |
 
-| 10. | CSTNM | Családokért felelős tárca nélküli miniszter |
+| 10. | NSZI | Slachta Margit Nemzeti Szociálpolitikai Intézet |
 
-| 11. | ME | Miniszterelnökség |
+| 11. | NSZFH | Nemzeti Szakképzési és Felnőttképzési Hivatal |
+
+[^2]: Az 1. melléklet az 1521/2022. (XI. 2.) Korm. határozat 54-56. szerint módosított szöveg.
