@@ -30,21 +30,19 @@ aa) társadalmi felzárkózásért felelős helyettes államtitkára,
 
 ab) társadalmi felzárkózásért felelős területéről a miniszter által delegált 1 fő,
 
-b)[^2] a családpolitikáért felelős miniszter részéről delegált 1 fő,
+b) a kultúráért és az innovációért felelős miniszter által delegált, az általa vezetett minisztérium családpolitikáért, valamint felsőoktatásért felelős területéről 1-1 fő,
 
-c)[^3] az innovációért és technológiáért felelős miniszter által delegált, az általa vezetett minisztérium felsőoktatásért felelős területéről 1 fő,
+c) a roma kapcsolatokért felelős kormánybiztos,
 
-d)[^4] a roma kapcsolatokért felelős kormánybiztos,
+d) a diagnózis alapú felzárkózási stratégia végrehajtásáért felelős miniszterelnöki biztos kinevezéséről és feladatairól szóló 2/2022. (VI. 7.) ME utasítással kinevezett miniszterelnöki biztos,
 
-e) a miniszterelnöki biztos kinevezéséről szóló 3/2019. (IV. 18.) ME utasítással kinevezett miniszerelnöki biztos,
+e) a Magyar Rektori Konferencia által delegált 1 fő,
 
-f) a Magyar Rektori Konferencia által delegált 1 fő,
+f) az Országos Roma Önkormányzat által delegált 1 fő,
 
-g) az Országos Roma Önkormányzat által delegált 1 fő,
+g) a Roma Szakkollégiumok Egyesület által delegált 4 fő.
 
-h) a Roma Szakkollégiumok Egyesület által delegált 4 fő.
-
-4.[^5] A Tanács tagjai megbízatása határozatlan időre szól. A delegált tagokat a miniszter bízza meg.
+4.[^2] A Tanács tagjai megbízatása határozatlan időre szól. A delegált tagokat a miniszter bízza meg.
 
 5. A Tanács elnöke a társadalmi felzárkózásért felelős helyettes államtitkár. Az elnököt akadályoztatása esetén az ügyrendben meghatározott személy helyettesíti.
 
@@ -62,31 +60,28 @@ b) a tag halálával,
 
 c) a delegáló jogutód nélküli megszűnésével,
 
-d)[^6]
+d)[^3]
 
 6.1. A lemondás közlése, illetve a tag felmentésének kezdeményezése és a megbízatás visszavonása közötti időszakban a tagot nem terhelik a tagsággal járó kötelezettségek, valamint nem gyakorolhatja a tagsággal járó jogosultságokat.
 
-6.2.[^7] A tagság megszűnése esetén a delegáló testület, szervezet új tagot delegál.
+6.2.[^4] A tagság megszűnése esetén a delegáló testület, szervezet új tagot delegál.
 
-7.[^8] A Tanács szükség szerint ülésezik. A Tanács ülését a Tanács elnöke, akadályoztatása esetén az ügyrendben meghatározott személy hívja össze. A Tanács ülésének összehívását kezdeményezheti továbbá a miniszter, a Tanács tagjai és a Tanács titkára. A Tanács titkára a Tanács ülésein tanácskozási joggal vesz részt.
+7.[^5] A Tanács szükség szerint ülésezik. A Tanács ülését a Tanács elnöke, akadályoztatása esetén az ügyrendben meghatározott személy hívja össze. A Tanács ülésének összehívását kezdeményezheti továbbá a miniszter, a Tanács tagjai és a Tanács titkára. A Tanács titkára a Tanács ülésein tanácskozási joggal vesz részt.
 
 8. A Tanács tagjait díjazás, tiszteletdíj nem illeti meg.
 
 9. A Tanács munkáját titkárság segíti. A Tanács működési feltételeiről a miniszter gondoskodik. A Tanács működésének részletes szabályait a Tanács ügyrendjében állapítja meg. A Tanács ügyrendjét a miniszter hagyja jóvá.
 
-10.[^9] A Tanács ügyrendjét, ülésein hozott határozatait, a 2. pont f) alpontja szerinti feladatkörében meghatározott értékelési szempontrendszert, minősítési követelményrendszert, valamint a Titkárság elérhetőségeit a miniszter által vezetett minisztérium és az Oktatási Hivatal honlapján közzé kell tenni.
+10.[^6] A Tanács ügyrendjét, ülésein hozott határozatait, a 2. pont f) alpontja szerinti feladatkörében meghatározott értékelési szempontrendszert, minősítési követelményrendszert, valamint a Titkárság elérhetőségeit a miniszter által vezetett minisztérium és az Oktatási Hivatal honlapján közzé kell tenni.
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
-12.[^10] A Tanácsnak a társadalmi felzárkózási koordinációs testületek működésével kapcsolatos egyes kormányhatározatok módosításáról szóló 1545/2021. (VIII. 4.) Korm. határozat (a továbbiakban: KH1.) 7. pontjában meghatározott tagjait a KH1. közzétételét követő 15 napon belül kell delegálni.
+12.[^7] A Tanácsnak a társadalmi felzárkózási koordinációs testületek működésével kapcsolatos egyes kormányhatározatok módosításáról szóló 1545/2021. (VIII. 4.) Korm. határozat (a továbbiakban: KH1.) 7. pontjában meghatározott tagjait a KH1. közzétételét követő 15 napon belül kell delegálni.
 
-[^1]: A 3. pont az 1267/2019. (V. 8.) Korm. határozat 30. pontjával megállapított szöveg.
-[^2]: A 3. pont b) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 7. pontjával megállapított, az 1211/2022. (IV. 5.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^3]: A 3. pont c) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 7. pontjával megállapított szöveg.
-[^4]: A 3. pont d) alpontját újonnan az 1821/2021. (XI. 25.) Korm. határozat 8. pontja iktatta be.
-[^5]: A 4. pont az 1545/2021. (VIII. 4.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^6]: A 6. pont d) alpontját az 1545/2021. (VIII. 4.) Korm. határozat 11. pont b) alpontja hatályon kívül helyezte.
-[^7]: A 6.2. pont az 1545/2021. (VIII. 4.) Korm. határozat 9. pontjával megállapított szöveg.
-[^8]: A 7. pont az 1545/2021. (VIII. 4.) Korm. határozat 11. pont c) alpontja szerint módosított szöveg.
-[^9]: A 10. pont az 1267/2019. (V. 8.) Korm. határozat 31. pontja szerint módosított szöveg.
-[^10]: A 12. pont az 1545/2021. (VIII. 4.) Korm. határozat 10. pontjával megállapított szöveg.
+[^1]: A 3. pont az 1521/2022. (XI. 2.) Korm. határozat 46. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1545/2021. (VIII. 4.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^3]: A 6. pont d) alpontját az 1545/2021. (VIII. 4.) Korm. határozat 11. pont b) alpontja hatályon kívül helyezte.
+[^4]: A 6.2. pont az 1545/2021. (VIII. 4.) Korm. határozat 9. pontjával megállapított szöveg.
+[^5]: A 7. pont az 1545/2021. (VIII. 4.) Korm. határozat 11. pont c) alpontja szerint módosított szöveg.
+[^6]: A 10. pont az 1267/2019. (V. 8.) Korm. határozat 31. pontja szerint módosított szöveg.
+[^7]: A 12. pont az 1545/2021. (VIII. 4.) Korm. határozat 10. pontjával megállapított szöveg.
