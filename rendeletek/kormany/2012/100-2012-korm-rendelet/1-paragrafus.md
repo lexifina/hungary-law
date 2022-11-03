@@ -20,25 +20,27 @@ i)[^5] az Alkotmány utca 5. szám (24888 hrsz.-ú ingatlan) alatti irodaház re
 
 j)[^6] a Vajkay utca (24899 hrsz.-ú ingatlan) és Kozma Ferenc utca (24890 hrsz.-ú ingatlan) felszíni rendezése
 
-## beruházással (a továbbiakban együtt: beruházás) függenek össze.
+k)[^7] az Országház (24894 hrsz.-ú ingatlan) belső rekonstrukciója és modernizációja
+
+beruházással (a továbbiakban együtt: beruházás) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 
 a) a beruházás megvalósításához, használatbavételéhez és működéséhez közvetlenül,
 
-b)[^7] a beruházás, ennek részeként a Kossuth Lajos tér, Vértanúk tere és Vécsey utca csillapított forgalmú övezetté alakítása által kiváltott közlekedési hatások kezelése érdekében a Szent István körút, a Bajcsy-Zsilinszky út, a József Attila utca és a Duna által határolt területen, továbbá az Újpesti rakpart és a Carl Lutz rakpart Margit híd és Radnóti Miklós utca közötti szakaszán, valamint
+b)[^8] a beruházás, ennek részeként a Kossuth Lajos tér, Vértanúk tere és Vécsey utca csillapított forgalmú övezetté alakítása által kiváltott közlekedési hatások kezelése érdekében a Szent István körút, a Bajcsy-Zsilinszky út, a József Attila utca és a Duna által határolt területen, továbbá az Újpesti rakpart és a Carl Lutz rakpart Margit híd és Radnóti Miklós utca közötti szakaszán, valamint
 
 c) a beruházással érintett ingatlanokon álló közterületi szobrok bontásához és azok azonos vagy más ingatlanokon való felállításához,
 
-d)[^8] a beruházással érintett épületek homlokzatához való illeszkedés érdekében a Budapest V. kerület 24893 hrsz. telket (Kossuth Lajos tér) közvetlenül határoló építési telkeken lévő épületek homlokzati felújításához, valamint tetőszerkezetének rekonstrukciójához
+d)[^9] a beruházással érintett épületek homlokzatához való illeszkedés érdekében a Budapest V. kerület 24893 hrsz. telket (Kossuth Lajos tér) közvetlenül határoló építési telkeken lévő épületek homlokzati felújításához, valamint tetőszerkezetének rekonstrukciójához
 
-## szükségesek.
+szükségesek.
 
 (3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(4)[^9] A Kormány kiemelten közérdekű beruházássá nyilvánítja az (1) bekezdés d), g), i) és j) pontjában meghatározott, a Kossuth Lajos téri beruházási program keretében megvalósuló beruházásokat.
+(4)[^10] A Kormány kiemelten közérdekű beruházássá nyilvánítja az (1) bekezdés d), g), i) és j) pontjában meghatározott, a Kossuth Lajos téri beruházási program keretében megvalósuló beruházásokat.
 
-(5)[^10] A Kormány a (4) bekezdés szerinti kiemelten közérdekű beruházás helyszínét és közvetlen környezetét, az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges ingyenes közterület használatának feltétlenül szükséges időtartamát a 2. melléklet szerint határozza meg.
+(5)[^11] A Kormány a (4) bekezdés szerinti kiemelten közérdekű beruházás helyszínét és közvetlen környezetét, az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges ingyenes közterület használatának feltétlenül szükséges időtartamát a 2. melléklet szerint határozza meg.
 
 [^1]: Az 1. § (1) bekezdése a 19/2018. (II. 14.) Korm. rendelet 56. § (1) bekezdésével megállapított, nyitó szövegrésze a 197/2020. (V. 12.) Korm. rendelet 16. § (2) bekezdése, a 2/2021. (I. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés f) pontja a 85/2019. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -46,7 +48,8 @@ d)[^8] a beruházással érintett épületek homlokzatához való illeszkedés �
 [^4]: Az 1. § (1) bekezdés h) pontját a 320/2019. (XII. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^5]: Az 1. § (1) bekezdés i) pontját a 197/2020. (V. 12.) Korm. rendelet 16. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (1) bekezdés j) pontját a 2/2021. (I. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^7]: Az 1. § (2) bekezdés b) pontja a 19/2018. (II. 14.) Korm. rendelet 56. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^8]: Az 1. § (2) bekezdés d) pontját a 294/2016. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^9]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^10]: Az 1. § (5) bekezdését újonnan a 2/2021. (I. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (1) bekezdés k) pontját a 439/2022. (XI. 2.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (2) bekezdés b) pontja a 19/2018. (II. 14.) Korm. rendelet 56. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^9]: Az 1. § (2) bekezdés d) pontját a 294/2016. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^10]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^11]: Az 1. § (5) bekezdését újonnan a 2/2021. (I. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
