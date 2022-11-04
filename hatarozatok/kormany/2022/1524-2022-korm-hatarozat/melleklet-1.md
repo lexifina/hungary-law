@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:2 mezőjében a „4,80” szövegrész helyébe a „6,39” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1524/2022. (XI. 2.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó forint) | Többlettámogatás legfeljebb (bruttó forint) | Megnövelt támogatás legfeljebb (bruttó forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.1.0-15- 2016-00002 | A Víz Keretirányelv előírásai szerinti monitoring vizsgálatok és az ahhoz szükséges fejlesztések végrehajtása, továbbá a Víz Keretirányelv végrehajtásához kapcsolódó monitoring állomások kiépítése, fejlesztése | Országos Vízügyi Főigazgatóság | 4 800 000 000 | 1 587 495 335 | 6 387 495 335 | A vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv (a továbbiakban: VKI) végrehajtásához szükséges monitoring rendszer további fejlesztése és monitoring vizsgálatok végzése. A projekt eredményeként a VKI szerinti biológiai, kémiai, morfológiai és hidrológiai monitoring végzésére alkalmas rendszer kerül kiépítésre. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
