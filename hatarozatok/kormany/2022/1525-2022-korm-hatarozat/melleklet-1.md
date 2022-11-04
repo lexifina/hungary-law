@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:48d mezőjében a „0,50” szövegrész helyébe a „0,78” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1525/2022. (XI. 2.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó forint) | Többlettámogatás legfeljebb (bruttó forint) | Megnövelt támogatás legfeljebb (bruttó forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.3.0-15-2019-00020 | Szévíz-csatorna komplex rendezése a 0+000 – 23+500 km szelvények között | Országos Vízügyi Főigazgatóság (konzorciumvezető), Nyugat-dunántúli Vízügyi igazgatóság | 500 000 000 | 273 745 000 | 773 745 000 | A Projekt célja a Zala vízgyűjtőjéhez tartozó Szévíz-csatorna komplex rendezése, mely beruházás eredményeként javul a térség vízgazdálkodása, helyreáll a csatorna vízszállító képessége. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
