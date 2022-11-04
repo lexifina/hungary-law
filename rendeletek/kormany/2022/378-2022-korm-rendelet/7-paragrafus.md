@@ -1,3 +1,1 @@
-7. §[^7]
-
-[^7]: A 7. § a 8. § (3) bekezdés alapján 2022. november 4-én lép hatályba.
+7. § A 726/2020. (XII. 31.) Korm. rendelet 10. §-ában a „8. §-ban” szövegrész helyébe a „8. és 8/A. §-ban” szöveg lép.

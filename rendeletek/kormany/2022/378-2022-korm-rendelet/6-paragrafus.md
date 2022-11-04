@@ -1,3 +1,1 @@
-6. §[^6]
-
-[^6]: A 6. § a 8. § (3) bekezdés alapján 2022. november 4-én lép hatályba.
+6. § A 726/2020. (XII. 31.) Korm. rendelet a 2. melléklet szerinti 1. melléklettel egészül ki.

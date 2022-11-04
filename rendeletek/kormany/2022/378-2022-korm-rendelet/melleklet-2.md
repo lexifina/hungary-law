@@ -1,3 +1,9 @@
-2. melléklet a 378/2022. (X. 5.) Korm. rendelethez[^9]
+2. melléklet a 378/2022. (X. 5.) Korm. rendelethez
 
-[^9]: A 2. melléklet a 8. § (3) bekezdés alapján 2022. november 4-én lép hatályba.
+„1. melléklet a 726/2020. (XII. 31.) Korm. rendelethez
+
+Az adatok végleges hozzáférhetetlenné tételét lehetővé tévő adattörlő alkalmazással kapcsolatos tájékoztató
+
+2X06649.pdf
+
+”

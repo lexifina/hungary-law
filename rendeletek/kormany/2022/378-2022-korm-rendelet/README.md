@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-378-20-
 | 2022-10-07 | 2022-378-20-22.2 | 2010. évi CXXX. törvény |
 | 2022-10-13 | 2022-378-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-10-14 | 2022-378-20-22.4 | 2010. évi CXXX. törvény |
+| 2022-11-04 | 2022-378-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
