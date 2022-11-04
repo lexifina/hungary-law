@@ -1,4 +1,4 @@
-## 10/A. §[^26] A BFKH az e rendeletben meghatározott feladatokkal összefüggésben – a 2. alcímben foglaltak kivételével – ellenőrzést végezhet.
+## 10/A. §[^28] A BFKH az e rendeletben meghatározott feladatokkal összefüggésben – a 2. alcímben foglaltak kivételével – ellenőrzést végezhet.
 
 ## 6. Tanúsító szervezet és a tanúsítási eljárás
 
@@ -62,4 +62,4 @@ r) a szervezet detektálja és kezeli az egyes biztonsági eseményeket;
 
 s) a rendszer üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak.
 
-[^26]: A 10/A. §-t a 490/2021. (VIII. 13.) Korm. rendelet 12. §-a iktatta be.
+[^28]: A 10/A. §-t a 490/2021. (VIII. 13.) Korm. rendelet 12. §-a iktatta be.

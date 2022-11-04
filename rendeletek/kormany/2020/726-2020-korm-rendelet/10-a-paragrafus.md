@@ -1,1 +1,0 @@
-## 10. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 45/A. § (2) bekezdésével összhangban a fogyasztóvédelmi hatóság ellenőrzi a 8. §-ban meghatározott rendelkezések betartását, és eljár azok megsértése esetén, valamint a törvényben meghatározott szankciókat alkalmazhatja.
