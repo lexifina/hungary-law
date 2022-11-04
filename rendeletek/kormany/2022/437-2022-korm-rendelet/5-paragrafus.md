@@ -1,3 +1,3 @@
-5. § Az R2. a következő 1/B. §-sal egészül ki:
+5. §[^6]
 
-„1/B. § A Kormány a Beruházások tekintetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

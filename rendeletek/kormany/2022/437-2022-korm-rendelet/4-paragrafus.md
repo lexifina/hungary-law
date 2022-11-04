@@ -1,3 +1,3 @@
-4. § Az R2. a következő 1/A. §-sal egészül ki:
+4. §[^5]
 
-„1/A. § A 2. mellékletben foglalt táblázat 3. sora szerinti beruházás helyszínéhez tartozó az ingatlan-nyilvántartás szerinti Vác, belterület 4552/9 helyrajzi számú ingatlanon szennyvíztisztító elhelyezhető.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
