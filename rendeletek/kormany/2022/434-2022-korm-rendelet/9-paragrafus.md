@@ -1,9 +1,3 @@
-9. § Az NKFIA Korm. rendelet 13. §-a helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„13. § E rendelet alapján
-
-a) regionális beruházási támogatás esetén 2023. december 31-ig,
-
-b) a 7–19. alcím szerinti támogatás esetén 2024. június 30-ig
-
-lehet támogatási döntést hozni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
