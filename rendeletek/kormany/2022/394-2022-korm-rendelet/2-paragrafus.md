@@ -1,5 +1,5 @@
 ## 2. A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosítása
 
-2. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 65. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„(1) A közlekedési igazgatási hatóság a közlekedési hatóság által kiállított igazolás alapján a 60. § (2) bekezdés c) pontjában meghatározott rendszámtáblát ad ki azon közúti közlekedési szolgáltatást végző járművekre, amelyek jogszabály szerint ilyen rendszámtábla használatára kötelezettek.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

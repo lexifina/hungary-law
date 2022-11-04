@@ -1,3 +1,3 @@
-14. § Az R2. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+14. §[^14]
 
-„(2) A személyszállító szolgáltatáshoz használt személygépkocsival az ilyen szolgáltatás nyújtása során áruküldeményt továbbítani nem lehet.”
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

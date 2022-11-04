@@ -1,3 +1,3 @@
-17. § Az R2. 23. §-a a következő (3) bekezdéssel egészül ki:
+17. §[^17]
 
-„(3) Az önálló diszpécserszolgálati tevékenységet és a személytaxi-szolgáltatást folytató vállalkozás – a személyszállítási szolgáltatási feladat közvetítését vagy szervezését megelőzően – a diszpécserszolgáltatás nyújtására irányuló írásbeli szerződést köt. Az önálló diszpécserszolgálati tevékenység végzésére írásbeli szerződés alapján, diszpécserszolgálati engedéllyel rendelkező diszpécserszolgálat és tevékenységi engedéllyel rendelkező személytaxi-szolgáltató vállalkozás között kerülhet sor.”
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
