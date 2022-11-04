@@ -1,3 +1,3 @@
-9. § Az építésügyi és építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3/B. § (1a) bekezdése a következő g) ponttal egészül ki:
+9. §[^1]
 
-[Az (1) bekezdés szerinti nemzetbiztonsági célú építmény, építményrész, épületegyüttes]
+[^1]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
