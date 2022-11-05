@@ -10,4 +10,4 @@
 
 (5) A 4–6. §, a 40. § c) pontja, az 56. § és a 106. § a) pontja 2022. január 1-jén lép hatályba.
 
-(6) A 30. § és a 38. § 2022. november 5-én lép hatályba.
+(6) A 30. § 2022. november 5-én lép hatályba.
