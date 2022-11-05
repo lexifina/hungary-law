@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Norvég Királyság Kormánya között a Magyar Köztársaság Kormánya és a Norvég Királyság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről szóló megállapodás megszűnéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
