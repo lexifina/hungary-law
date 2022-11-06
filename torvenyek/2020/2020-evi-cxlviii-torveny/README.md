@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-148-00-00
 | 2022-01-01 | 2021. évi L. törvény | 2020-148-00-00.9 |
 | 2022-01-02 | 2010. évi CXXX. törvény | 2020-148-00-00.10 |
 | 2022-11-05 | 2021. évi CXLVIII. törvény | 2020-148-00-00.11 |
+| 2022-11-06 | 2010. évi CXXX. törvény | 2020-148-00-00.12 |
