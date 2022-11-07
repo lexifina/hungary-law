@@ -42,8 +42,10 @@ pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
 
-8. felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Báthori István Múzeum múzeumszakmai fejlesztési feladatairól, azok ütemezett forrásigényéről, valamint a Felújítást követő működési és fenntartási költségekről.
+8.[^1] felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Báthori István Múzeum múzeumszakmai fejlesztési feladatairól, azok ütemezett forrásigényéről, valamint a Felújítást követő működési és fenntartási költségekről.
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2022. augusztus 31.
+Határidő: 2023. február 28.
+
+[^1]: A 8. pont az 1534/2022. (XI. 7.) Korm. határozat 3. pontja szerint módosított szöveg.
