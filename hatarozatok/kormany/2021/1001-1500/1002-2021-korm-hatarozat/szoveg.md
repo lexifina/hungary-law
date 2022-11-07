@@ -34,7 +34,7 @@ c)[^2] felhívja a Miniszterelnökséget vezető minisztert és felkéri az Orsz
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: 2022. december 31.
+Határidő: 2023. december 31.
 
 d) felhívja a Miniszterelnökséget vezető minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy a Steindl Imre Program Nonprofit Zrt. útján, az a) pont ag) alpontjában meghatározott cél érdekében, a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával, az érintettekkel való konzultációval vizsgálják meg, hogy az Igazságügyi Palota rekonstrukcióját követően, az Igazságügyi Palotában el nem férő Kúria szervezeti egységei mely, az Igazságügyi Palota közelében lévő, állami tulajdonban álló épületben helyezhetők el, és készítsenek erről előterjesztést a Kormány részére;
 
@@ -84,15 +84,15 @@ Határidő: az fa) alpont tekintetében 2022. augusztus 31. az fb) alpont tekint
 
 a) a Steindl Imre Program egyes elemei megvalósításának előkészítését végző állami tulajdonú nonprofit gazdasági társaság alapításáról szóló 1788/2016. (XII. 17.) Korm. határozat 6. pontjában, a Steindl Imre Program harmadik ütemével kapcsolatos egyes döntések meghozataláról szóló 2025/2017. (XII. 22.) Korm. határozat 1. pont 1.7. alpontjában és 2. pontjában, valamint a Steindl Imre Program harmadik ütemével kapcsolatos további döntések meghozataláról szóló 1372/2018. (VIII. 13.) Korm. határozat 1. pontjában foglaltakkal összhangban egyetért azzal, hogy az Igazságügyi Palotának és az Agrárminisztérium épületének rekonstrukciója, az Agrárminisztérium épülete alatt megvalósítandó mélygarázs-beruházás és egyéb csatlakozó beruházáselemek azok műszaki, gazdasági és lebonyolítási összefüggéseire tekintettel – az elkészült együttes kivitelezési dokumentáció alapján – a Steindl Imre Program Nonprofit Zrt. által együttesen, egy kivitelezési projekt keretében kerüljenek megvalósításra;
 
-b) egyetért azzal, hogy a Steindl Imre Program Nonprofit Zrt. a fővállalkozó kivitelező kiválasztását megelőzően további műszaki előkészítő és tervezési feladatokat hajtson végre, 2022. december 31. napjáig tartó határidővel;
+b)[^7] egyetért azzal, hogy a Steindl Imre Program Nonprofit Zrt. a fővállalkozó kivitelező kiválasztását megelőzően további műszaki előkészítő és tervezési feladatokat hajtson végre, 2023. június 30. napjáig tartó határidővel;
 
-c)[^7] felhívja a pénzügyminisztert, hogy a b) alpont szerinti műszaki előkészítés és az ennek következtében szükség szerint felmerülő áttervezés, valamint az f) alpontban foglalt parkolóbérlés finanszírozása érdekében gondoskodjon 5 500 000 000 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 14. Steindl Imre program támogatása alcím javára;
+c)[^8] felhívja a pénzügyminisztert, hogy a b) alpont szerinti műszaki előkészítés és az ennek következtében szükség szerint felmerülő áttervezés, valamint az f) alpontban foglalt parkolóbérlés finanszírozása érdekében gondoskodjon 5 500 000 000 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 14. Steindl Imre program támogatása alcím javára;
 
 Felelős: pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-d)[^8] felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy gondoskodjanak a b) alpont szerinti műszaki előkészítéshez és az f) alpont szerinti parkolóbérléshez szükséges finanszírozás biztosítása érdekében – a meglévő, az Igazságügyi Palota és az Agrárminisztérium épület beruházás tervezésével és előkészítésével kapcsolatos feladatok megvalósítása céljából kötött támogatási szerződés módosításával – a Steindl Imre Program Nonprofit Zrt. részére támogatás nyújtásáról;
+d)[^9] felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy gondoskodjanak a b) alpont szerinti műszaki előkészítéshez és az f) alpont szerinti parkolóbérléshez szükséges finanszírozás biztosítása érdekében – a meglévő, az Igazságügyi Palota és az Agrárminisztérium épület beruházás tervezésével és előkészítésével kapcsolatos feladatok megvalósítása céljából kötött támogatási szerződés módosításával – a Steindl Imre Program Nonprofit Zrt. részére támogatás nyújtásáról;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -102,9 +102,9 @@ e) egyetért azzal, hogy a rekonstrukció során az Agrárminisztérium épület
 
 f) egyetért azzal, hogy az Agrárminisztérium épület és az Igazságügyi Palota beruházás megvalósítása során ideiglenesen kieső parkolóhelyek részleges és ideiglenes visszapótlása érdekében a Steindl Imre Program Nonprofit Zrt., a Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzatával kötött megállapodás szerint, a kieső parkolóhelyek környezetében élő kerületi lakosok számára, legfeljebb 500 méteren belül, legfeljebb 10 parkolóhelyet béreljen.
 
-g)[^9] egyetért a Steindl Imre Program Nonprofit Zrt. által kidolgozott, az Igazságügyi Palotában elhelyezésre kerülő, a magyar igazságszolgáltatás történetét, szervezetét és működését, valamint az Igazságügyi Palota épület történetét bemutató kiállítási koncepcióval.
+g)[^10] egyetért a Steindl Imre Program Nonprofit Zrt. által kidolgozott, az Igazságügyi Palotában elhelyezésre kerülő, a magyar igazságszolgáltatás történetét, szervezetét és működését, valamint az Igazságügyi Palota épület történetét bemutató kiállítási koncepcióval.
 
-4.[^10] A Kormány az 1. pont a) alpont ag) pontjában foglaltakkal összhangban, az Igazságügyi Palota Beruházás kapcsán
+4.[^11] A Kormány az 1. pont a) alpont ag) pontjában foglaltakkal összhangban, az Igazságügyi Palota Beruházás kapcsán
 
 a) egyetért azzal, hogy a Kúria Kossuth Lajos téri Igazságügyi Palotában el nem férő szervezeti egységei a Budapest V. kerület, Alkotmány utca 5. szám alatti, az ingatlan-nyilvántartás szerinti Budapest V. kerület, belterület 24888/0/A/1 és 24888/0/A/2 helyrajzi számú társasházi albetét ingatlanokban (a továbbiakban együtt: Épület) kerüljenek elhelyezésre,
 
@@ -112,7 +112,7 @@ b) egyetért azzal, hogy az Épület rekonstrukciója a Kossuth Lajos téri Igaz
 
 c) egyetért azzal, hogy az Épület rekonstrukciójának előkészítője és megvalósítója a Steindl Imre Program Nonprofit Zrt. legyen.
 
-5.[^11] A Kormány a 4. pontban foglaltak érdekében
+5.[^12] A Kormány a 4. pontban foglaltak érdekében
 
 a) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az MNV Zrt. útján, Belváros-Lipótváros Budapest V. kerület Önkormányzatának bevonásával vizsgálja meg a Budapest 24888/0/A/2 helyrajzi számú ingatlan állami tulajdonba vételének lehetőségét, és készítsen erről előterjesztést a Kormány részére;
 
@@ -141,13 +141,14 @@ Határidő: 2022. június 30.
 d) felkéri az Országgyűlés Hivatala főigazgatóját, hogy a c) alpontban foglaltak megvalósítása érdekében gondoskodjon 220 000 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 14. Steindl Imre program támogatása alcím terhére.
 
 [^1]: Az 1. pont a) alpont ak) pontját az 1615/2021. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
-[^2]: Az 1. pont c) alpontja az 1615/2021. (VIII. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1. pont c) alpontja az 1534/2022. (XI. 7.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
 [^3]: Az 1. pont e) alpontja az 1927/2021. (XII. 20.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: Az 1. pont f) alpont záró szövegrésze az 1927/2021. (XII. 20.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
 [^5]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^6]: A 3. pontot az 1615/2021. (VIII. 18.) Korm. határozat 2. pontja iktatta be.
-[^7]: A 3. pont c) alpontja az 1927/2021. (XII. 20.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^8]: A 3. pont d) alpontja az 1927/2021. (XII. 20.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
-[^9]: A 3. pont g) alpontját az 1927/2021. (XII. 20.) Korm. határozat 2. pontja iktatta be.
-[^10]: A 4. pontot az 1927/2021. (XII. 20.) Korm. határozat 3. pontja iktatta be.
-[^11]: Az 5. pontot az 1927/2021. (XII. 20.) Korm. határozat 3. pontja iktatta be.
+[^7]: A 3. pont b) pontja az 1534/2022. (XI. 7.) Korm. határozat 2. pont b) pontja szerint módosított szöveg.
+[^8]: A 3. pont c) alpontja az 1927/2021. (XII. 20.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^9]: A 3. pont d) alpontja az 1927/2021. (XII. 20.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
+[^10]: A 3. pont g) alpontját az 1927/2021. (XII. 20.) Korm. határozat 2. pontja iktatta be.
+[^11]: A 4. pontot az 1927/2021. (XII. 20.) Korm. határozat 3. pontja iktatta be.
+[^12]: Az 5. pontot az 1927/2021. (XII. 20.) Korm. határozat 3. pontja iktatta be.
