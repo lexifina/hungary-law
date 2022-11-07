@@ -1,0 +1,1 @@
+Az Országgyűlés az állatvédelmet minden magyar állampolgárt érintő közös társadalmi ügynek tekinti, így az állatok jóléte és védelme, a felelős állattartás és az állatvédelem népszerűsítése, valamint az állatvédelemmel foglalkozó civil szervezetekkel való együttműködés megerősítése érdekében a következő törvényt alkotja:
