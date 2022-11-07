@@ -166,7 +166,15 @@ XV. Tulajdonosi joggyakorló: Slachta Margit Nemzeti Szociálpolitikai Intézet
 
 | 1. | Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-978791 | 2026. december 31. |
 
-## XVI.
+## XVI. Tulajdonosi joggyakorló: Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | ORMOSSZÉN Szénkitermelő és Kereskedelmi zártkörűen működő Részvénytársaság | 05-10-000509 | 2024. december 31. |
+
+| 2. | Meliorációs, Rekultivációs és Környezetrendező Korlátolt Felelősségű Társaság | 05-09-000713 | 2024. december 31. |
 
 XVII. Tulajdonosi joggyakorló: Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
 
@@ -186,4 +194,4 @@ XVIII. Tulajdonosi joggyakorló: Magyar Nemzeti Múzeum
 
 XIX. Tulajdonosi joggyakorló: Nemzetbiztonsági Szakszolgálat
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a szerint módosított szöveg.
