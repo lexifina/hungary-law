@@ -1,0 +1,5 @@
+4. § (1) A bírság megfizetésére a hatóság a teljesítési határidő lejárta előtt előterjesztett kérelemre legfeljebb 12 havi részletfizetést engedélyezhet, ha a bírság megfizetésére kötelezett hitelt érdemlően igazolja, hogy számára a teljesítés aránytalan nehézséget jelent. Egy részlet megfizetésének elmaradása esetén a teljes összeg megfizetése azonnal esedékessé válik.
+
+(2) A hatóság a természetes személynek a teljesítési határidő letelte előtt előterjesztett kérelme alapján az őt terhelő bírságot végzésben mérsékelheti vagy korlátlanul enyhítheti, ha annak megfizetése a fizetésre kötelezett és a vele együtt élő hozzátartozók megélhetését súlyosan veszélyezteti.
+
+(3) A hatóság a teljesítési határidő letelte előtt előterjesztett kérelem alapján a bírságot kivételes méltányosságból mérsékelheti vagy korlátlanul enyhítheti, különösen akkor, ha annak megfizetése a fizetésre kötelezett vállalkozási tevékenységet folytató természetes személy, jogi személy vagy egyéb szervezet gazdálkodási tevékenységét ellehetetlenítené.

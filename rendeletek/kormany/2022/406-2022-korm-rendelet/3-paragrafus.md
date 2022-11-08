@@ -1,0 +1,1 @@
+3. § A bírság kiszabásáról rendelkező határozatnak az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmaznia kell annak a pénzforgalmi számlának a számát, amelyre a fizetést teljesíteni kell.
