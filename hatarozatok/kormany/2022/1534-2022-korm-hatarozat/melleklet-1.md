@@ -16,14 +16,11 @@
 
 ## d) a Rendelet 8/A. § (7) bekezdése alapján jóváhagyja a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet, 1. Rezsivédelmi Alap központi kiadása címnek a c) alpont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 81 200 000 000 forinttal történő túlteljesülését.
 
-## 2. A Kossuth Lajos téri Igazságügyi Palota és Agrárminisztérium épület rekonstrukciójával kapcsolatos intézkedésekről szóló 1002/2021. (I. 7.) Korm. határozat
+## 2.[^1]
 
-## a) 1. pont c) alpontjában a „2022. december 31.” szövegrész helyébe a „2023. december 31.” szöveg,
-
-## b) 3. pont b) alpontjában a „2022. december 31.” szövegrész helyébe a „2023. június 30.” szöveg
-
-## lép.
-
-## 3. A nyírbátori Báthori István Múzeum felújításáról szóló 1201/2022. (III. 28.) Korm. határozat 8. pontjában a „2022. augusztus 31.” szövegrész helyébe a „2023. február 28.” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1534/2022. (XI. 7.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
