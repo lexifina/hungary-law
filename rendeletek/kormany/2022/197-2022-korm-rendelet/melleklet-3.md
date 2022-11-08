@@ -70,12 +70,12 @@
 
 | 31. | j) | Előrecsomagolt édes, sós tészta |  |
 
-| 32. | ja) | a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot tartalmaz, és cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, vagy amely hozzáadott cukrot és édesítőszert egyaránt tartalmaz, ide nem értve a jc) alpont hatálya alá tartozó termékeket | 210 forint/kilogramm |
+| 32. | ja) | a sütőipari termék előállításához használt lisztkeverék kivételével a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot tartalmaz, és cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, vagy amely hozzáadott cukrot és édesítőszert egyaránt tartalmaz, ide nem értve a jc) alpont hatálya alá tartozó termékeket | 210 forint/kilogramm |
 
-| 33. | jb) | a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 25 gramm cukor/100 gramm mennyiséget nem haladja meg, ide nem értve a jc) alpont hatálya alá tartozó termékeket | 65 forint/kilogramm |
+| 33. | jb) | a sütőipari termék előállításához használt lisztkeverék kivételével a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amely hozzáadott cukrot nem, de édesítőszert tartalmaz, vagy édesítőszert nem, de hozzáadott cukrot tartalmaz, és cukortartalma a 25 gramm cukor/100 gramm mennyiséget nem haladja meg, ide nem értve a jc) alpont hatálya alá tartozó termékeket | 65 forint/kilogramm |
 
-| 34. | jc) | a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amely sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget | 210 forint/kilogramm |
+| 34. | jc) | a sütőipari termék előállításához használt lisztkeverék kivételével a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amelynek sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget | 210 forint/kilogramm |
 
-3. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^13]
+3. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^14]
 
-[^13]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
