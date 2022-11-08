@@ -1,0 +1,1 @@
+1. § E rendelet hatálya az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló 353/2011. (XII. 30.) Korm. rendelet [a továbbiakban: 353/2011. (XII. 30.) Korm. rendelet] 1. §-a szerint meghatározott szervezetekre – ide nem értve a kormányzati szektorba sorolt egyéb szervezeteket – terjed ki.
