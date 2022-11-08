@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-63-20-2
 | 2022-05-01 | 2016-63-20-2W.9 | 15/2022. (IV. 29.) ITM rendelet |
 | 2022-08-19 | 2016-63-20-2W.10 | 15/2022. (VIII. 18.) TIM rendelet |
 | 2022-11-01 | 2016-63-20-2W.11 | 15/2022. (VIII. 18.) TIM rendelet |
+| 2022-11-08 | 2016-63-20-2W.12 | 24/2022. (XI. 8.) TIM rendelet |
