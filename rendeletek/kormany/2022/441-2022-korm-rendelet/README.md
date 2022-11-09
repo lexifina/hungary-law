@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-441-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-11-08 | 2022-441-20-22.1 | 441/2022. (XI. 7.) Korm. rendelet |
+| 2022-11-09 | 2022-441-20-22.2 | 2010. évi CXXX. törvény |
