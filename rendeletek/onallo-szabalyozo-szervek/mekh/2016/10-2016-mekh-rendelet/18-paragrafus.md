@@ -14,5 +14,7 @@ b) a 17. § (7) bekezdésben meghatározott teljesítmény és a közvilágítá
 
 c) ha a közvilágítás fényáramszabályzóval van ellátva, akkor – mérés hiányában – az érintett engedélyes üzletszabályzatában rögzített módon, a szabályozási tényezőt (tényezőket) figyelembe vevő számítással meghatározott fogyasztás
 
+jelenti a díjfizetés alapját.
+
 [^32]: A 8. alcím címe az 1/2021. (II. 10.) MEKH rendelet 10. § b) pontja szerint módosított szöveg.
 [^33]: A 18. § (2) bekezdése a 16/2019. (XII. 14.) MEKH rendelet 3. § (1) bekezdése, az 1/2021. (II. 10.) MEKH rendelet 10. § c) pontja szerint módosított szöveg.

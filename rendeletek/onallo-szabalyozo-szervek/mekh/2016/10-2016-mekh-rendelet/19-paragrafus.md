@@ -1,5 +1,3 @@
-## jelenti a díjfizetés alapját.
-
 ## 9. Elosztói meddő energia díj
 
 19. § (1) A meddő villamos energia elszámolását a rendszerhasználó által a közcélú hálózatból vételezett (induktív) vagy betáplált (kapacitív) meddő villamos energia elszámolására kell alkalmazni bármely feszültségszintű csatlakozás esetében.

@@ -1,5 +1,3 @@
-## különbségének megfelelően számolnak el egymással az elosztó által kiállított soron következő havi számla keretében.
-
 17. § (1) Nem profil elszámolású felhasználó esetében az elosztói teljesítménydíj fizetésének alapját – a (2) bekezdésben foglalt kivétellel – a hálózathasználati szerződésben rögzített, a nem profil elszámolású felhasználó által a szerződéses időszakra igényelt legmagasabb (lekötött) teljesítmény (kW) képezi. A lekötött teljesítmény után a teljesítménydíjat akkor is meg kell fizetni, ha azt a nem profil elszámolású felhasználó nem veszi igénybe. A lekötött teljesítmény a szerződéses évfordulók között, adott naptári hónap első napjától a szerződéses időszak végéig, a nem profil elszámolású felhasználó kezdeményezésére, a rendelkezésre álló teljesítmény mértékéig növelhető, a szerződéskötés éves fordulónapjain pedig – további egy éves szerződéses időszakra érvényesen – mindkét irányban módosítható. Ha a szerződéskötés éves fordulónapján a lekötött teljesítményt nem módosítják, az legalább további egy évre érvényben marad, kivéve a szerződés megszűnésének esetét.
 
 (2) Ha a rendszerhasználó nem rendelkezik hálózathasználati szerződéssel, a hálózathasználati szerződés megkötéséig, vagy a korábban megkötött hálózathasználati szerződés érvényének lejártát követően, a teljesítménydíj fizetésének alapját a rendelkezésre álló teljesítmény kW-ban kifejezett értéke képezi.
@@ -10,7 +8,7 @@ a) kismegszakító és késes olvadóbiztosító betét alkalmazása esetén a n
 
 b) beállítható túláramvédelemmel ellátott megszakító alkalmazása esetén a beállított (de egy óránál nem hosszabb idő alatt) kioldó áram fázisonként beállított értékei összegével
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (4) A kVA-ben meghatározott rendelkezésre álló (látszólagos) teljesítményből a legnagyobb leköthető teljesítmény kW-ban kifejezett értékét
 
@@ -18,7 +16,7 @@ a) a meddő energia mérése esetén cos fi = 1,
 
 b) a meddő energia mérésének hiányában cos fi = 0,9
 
-## értékkel kell kiszámítani.
+értékkel kell kiszámítani.
 
 (5) Ha a rendszerhasználó a teljesítményigényének vagy az egyidejű legmagasabb teljesítményigényének biztonságosabb kielégítése érdekében – a villamosenergia-ellátási szabályzatokban meghatározott – többirányú hálózati ellátást kíván igénybe venni, és azt az elosztó hálózati engedélyessel kötött hálózati csatlakozási, illetve hálózathasználati szerződésben is rögzítették, akkor a rendszerhasználónak az ezen ellátáshoz tartozó csatlakozási pontokra lekötött teljesítmények után is meg kell fizetnie az elosztói teljesítménydíjat.
 

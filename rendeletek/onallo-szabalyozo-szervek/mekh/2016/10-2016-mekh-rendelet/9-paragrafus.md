@@ -1,5 +1,3 @@
-## vonatkoznak.
-
 9. § (1)[^18] A villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának keretszabályairól szóló rendelet szerint a Ft/kWh mértékegységben megállapított rendszerhasználati díjakat (a továbbiakban: forgalomarányos rendszerhasználati díjak) a villamos energia egész számú kWh-ban – a (2)–(6) bekezdésben foglaltakat is figyelembe véve – meghatározott havi mennyisége után kell megfizetni.
 
 (2)[^19] Kétirányú mérés esetén az elszámolás alapját képező villamosenergia-mennyiségeket az adott mérési ponton a nemzetközi üzemi és kereskedelmi szabályzatban rögzített elszámolási mérési intervallumokban, irányonként kell megállapítani. A forgalomarányos rendszerhasználati díjakat az adott elszámolási időszakban az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell megfizetni.
@@ -32,7 +30,7 @@ b) 501–1000 kVA transzformátor névleges teljesítmény között a mért ener
 
 c) 1000 kVA transzformátor névleges teljesítmény felett a mért energiaforgalom 1%-ával
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (6) A rendszerhasználó tulajdonában lévő, hálózatra kapcsolt terheletlen transzformátor esetében a transzformátor típusának megfelelő mérési lapokon feltüntetett, a hálózathasználati szerződés mellékletében szereplő üresjárási hatásos veszteséget (kWh/hó), valamint a transzformátor egyedi fázisjavítása hiányában – a meddő villamos energiát (kVArh/hó) is el kell számolni a csatlakozási ponthoz tartozó rendszerhasználati díjakkal.
 

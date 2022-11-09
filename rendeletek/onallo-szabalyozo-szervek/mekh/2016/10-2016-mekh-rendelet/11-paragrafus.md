@@ -6,7 +6,7 @@ a) 1%, ha az adott minimális minőségi mutatószám vonatkozásában a teljes�
 
 b) 2%, ha az adott minimális minőségi mutatószám vonatkozásában a teljesítés legalább 10%-kal
 
-## marad el a minimális minőségi követelménytől.
+marad el a minimális minőségi követelménytől.
 
 (3) Ha több minimális minőségi mutatószám esetében következik be a (2) bekezdésben meghatározott teljesítéselmaradás, akkor a díjcsökkentés mértékét az érintett minimális minőségi mutatószámokra meghatározott díjcsökkentési mértékek összeadásával kell megállapítani.
 

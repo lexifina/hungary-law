@@ -8,7 +8,7 @@ ba) legalább 70%-ban vagy
 
 bb) legalább 90%-ban
 
-## a Vhr. 7. számú melléklet a) pontja szerint elsődlegesnek minősülő megújuló energiaforrást használ.
+a Vhr. 7. számú melléklet a) pontja szerint elsődlegesnek minősülő megújuló energiaforrást használ.
 
 (2) A csatlakozási díjkedvezmény szempontjából nem tekinthető új erőműnek vagy erőműegységnek az a műszaki megoldás, amelyik – a villamos energia hálózatra adására szolgáló vezetékeket és egyéb villamos berendezéseket kivéve – a villamosenergia-termelés tekintetében bármilyen módon műszakilag kapcsolódik egy már meglévő erőműhöz vagy erőműegységhez, vagy azzal közös főberendezést tartalmaz.
 
@@ -39,3 +39,5 @@ a) az erőmű, illetve annak a csatlakozási díjkedvezmény számításánál f
 b) az erőmű, illetve annak a csatlakozási díjkedvezmény számításánál figyelembe vett egy vagy több erőműegysége által kapott, (4) bekezdés szerinti minősítést a működés megkezdésétől számított 5 éven belül visszavonta, akkor a kapott csatlakozási díjkedvezmény 5 éven belüli, a minősítéssel már nem érintett időszak hosszával arányos részét, vagy
 
 c) az (1) bekezdés b) pontja szerinti erőmű által felhasznált elsődlegesnek minősülő megújuló energiaforrások aránya az adott naptári évben – a működés megkezdésének évét követő 1. naptári év elejétől az 5. naptári év végéig számítva – nem érte el az (1) bekezdés b) pontja szerint általa előzetesen vállalt százalékos határértéket, akkor a kapott csatlakozási díjkedvezmény 20%-át (évente)
+
+az erőmű üzemeltetője a Hivatal határozata alapján visszafizeti a hálózati engedélyes részére.

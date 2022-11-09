@@ -1,5 +1,3 @@
-## (a továbbiakban együtt: díjak) alkalmazása során.
-
 ## 1. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában:
@@ -36,7 +34,7 @@ b) a közép/kisfeszültségű transzformátor kapcsairól közvetlenül elláto
 
 c) technikai okokból a közép/kisfeszültségű transzformátorállomástól a vezeték nyomvonal vízszintes vetületére vetítve 3 méteren belül elhelyezett fogyasztásmérő szekrényben
 
-## található;
+található;
 
 9. középfeszültségű csatlakozás: az a közcélú hálózatra való csatlakozás, amelyiknél a csatlakozási pont 1 kV-nál nagyobb, de 35 kV-ot meg nem haladó névleges feszültségen van, de nem minősül nagy/középfeszültségű csatlakozásnak;
 
@@ -56,7 +54,7 @@ a) az adott elszámolási időszakban (de legfeljebb 12 hónap alatt) a háztart
 
 b) az adott elszámolási időszakban (de legfeljebb 12 hónap alatt) a háztartási méretű kiserőmű által megtermelt villamosenergia-mennyiségnek
 
-## az aránya, két tizedesjegyre kerekítve;
+az aránya, két tizedesjegyre kerekítve;
 
 13a.[^9] teljesítményarány: az igényelt csatlakozási teljesítmény és a csatlakozási beruházással létrejött hálózati eszközök névleges teljesítménynövekményének százalékos (három tizedesjegyre kerekített) aránya, amelynek figyelembe vehető mértéke nem haladhatja meg a 100,000%-ot;
 

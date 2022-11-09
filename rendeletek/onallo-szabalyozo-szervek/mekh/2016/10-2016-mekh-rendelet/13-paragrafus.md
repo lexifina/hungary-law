@@ -14,7 +14,7 @@ c) az elosztó hálózatára közvetlenül csatlakozó, 50 kW-nál nagyobb névl
 
 d) az elosztó hálózatára magánvezetéken keresztül közvetve csatlakozó, kötelező átvételi rendszerben értékesítő vagy prémium típusú támogatásban részesülő, 50 kW-nál nagyobb névleges teljesítőképességű erőművek mérési pontjainak
 
-## előjelhelyesen összegzett energiaforgalma után fizeti meg az átviteli díjat az átviteli rendszerirányítónak.
+előjelhelyesen összegzett energiaforgalma után fizeti meg az átviteli díjat az átviteli rendszerirányítónak.
 
 (3)[^30] Az átviteli hálózatra csatlakozó rendszerhasználó az átviteli hálózati csatlakozási pontjainak összegzett energiaforgalma után fizeti meg az átviteli díjat az átviteli rendszerirányítónak. Ha az átviteli hálózatra csatlakozó rendszerhasználónak elosztó hálózati csatlakozási pontja is van, akkor a rendszerhasználó az átviteli díjat az azon mért energiaforgalom után – a 4. § (2) bekezdésével összhangban – az elosztónak fizeti meg.
 

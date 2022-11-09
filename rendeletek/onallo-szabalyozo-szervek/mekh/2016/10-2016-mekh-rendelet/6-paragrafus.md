@@ -1,1 +1,0 @@
-## fizeti meg.

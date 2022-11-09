@@ -1,5 +1,3 @@
-## az erőmű üzemeltetője a Hivatal határozata alapján visszafizeti a hálózati engedélyes részére.
-
 ## 14. A háztartási méretű kiserőmű csatlakozási díjára vonatkozó szabályok
 
 29. § (1) A háztartási méretű kiserőművekre a VET 35. § (4) bekezdése szerint vonatkozó teljesítményhatár 3×63 Amper.

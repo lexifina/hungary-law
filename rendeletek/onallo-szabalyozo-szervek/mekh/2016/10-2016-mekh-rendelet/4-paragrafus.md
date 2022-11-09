@@ -20,7 +20,7 @@ ca) az átviteli hálózatról történő villamosenergia-kiszállítás után �
 
 cb) az átviteli hálózatra történő villamosenergia-beszállítás után
 
-## fizeti meg.
+fizeti meg.
 
 (2) Az elosztó részére az átviteli díjat az elosztó hálózatra közvetlenül vagy közvetve csatlakozó
 
@@ -29,6 +29,8 @@ a)[^12] rendszerhasználó, illetve,
 b)[^13]
 
 c) közvetlen vezeték vagy magánvezeték engedélyese vagy üzemeltetője
+
+fizeti meg.
 
 [^10]: A 4. § (1) bekezdés a) pont aa) alpontja a 14/2021. (XI. 8.) MEKH rendelet 7. § a) pontjával megállapított szöveg.
 [^11]: A 4. § (1) bekezdés a) pont ab) alpontját a 14/2021. (XI. 8.) MEKH rendelet 8. § a) pontja hatályon kívül helyezte.

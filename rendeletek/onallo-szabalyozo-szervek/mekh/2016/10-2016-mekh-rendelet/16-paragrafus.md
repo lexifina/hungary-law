@@ -6,7 +6,7 @@ a) az üzembe helyezési szándékról szóló, a Vhr. 5. § (3) bekezdése szer
 
 b) a névleges teljesítmény megnövelése
 
-## 2017. március 31. utáni időpontban történik.
+2017. március 31. utáni időpontban történik.
 
 (2) Nem kell az (1) bekezdés szerinti elosztói teljesítménydíjat fizetni abban az esetben, ha az (1) bekezdés szerinti háztartási méretű kiserőmű úgy került kialakításra, hogy megfelelő műszaki berendezés megakadályozza a hálózatba történő visszatáplálást, és erről az üzemeltető a hálózathasználati szerződéshez kapcsolódóan nyilatkozott.
 
@@ -43,3 +43,5 @@ b) a névleges teljesítmény megnövelését célzó átalakítás esetén a h�
 a) az ezen korrekciós tényezővel kiszámított éves teljesítménydíj-fizetési kötelezettség és
 
 b) a havi teljesítménydíj-fizetések
+
+különbségének megfelelően számolnak el egymással az elosztó által kiállított soron következő havi számla keretében.

@@ -14,7 +14,7 @@ a) mért felhasználás esetében mérési pontonként,
 
 b) mérés hiánya esetén felhasználási helyenként
 
-## kell megfizetni.
+kell megfizetni.
 
 (4) Ha a magánvezetékre felhasználók is csatlakoznak, akkor a magánvezetékre csatlakozó felhasználók az elosztói alapdíjat közvetlenül az elosztó részére fizetik meg.
 

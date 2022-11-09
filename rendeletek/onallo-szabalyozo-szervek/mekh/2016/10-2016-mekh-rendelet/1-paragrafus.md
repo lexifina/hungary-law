@@ -10,4 +10,6 @@ b) a közcélú hálózathoz történő csatlakozásért fizetendő díjak (a to
 
 c) az elosztó által a felhasználó vagy engedélyes igénye alapján, illetve a felhasználó szerződésszegése esetén végzett külön szolgáltatások (a továbbiakban együtt: külön díj ellenében végezhető szolgáltatás) külön díjainak (a továbbiakban: külön díjak)
 
+(a továbbiakban együtt: díjak) alkalmazása során.
+
 [^1]: Az 1. § nyitó szövegrésze a 2/2021. (III. 24.) MEKH rendelet 2. §-a szerint módosított szöveg.

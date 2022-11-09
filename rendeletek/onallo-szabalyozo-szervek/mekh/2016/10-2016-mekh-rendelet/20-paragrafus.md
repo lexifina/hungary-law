@@ -18,7 +18,7 @@ b) annak a legalább 3,4 (2020. január 1. előtti üzembe helyezés esetén leg
 
 c) ha az adott felhasználási helyen kizárólag a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről szóló kormányrendelet szerinti mélyvölgy időszakban használ fel villamos energiát, akkor ezen villamosenergia-fogyasztás
 
-## után.
+után.
 
 (5) A kisfeszültségi csatlakozás kisfeszültségű idősoros elosztási díjat köteles megfizetni a kisfeszültségű csatlakozású nem profil elszámolású felhasználó.
 
