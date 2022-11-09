@@ -4,7 +4,17 @@
 
 a) a megvalósított energiahatékonysági intézkedés vagy beruházás megnevezése és típusa,
 
-b) az energiahatékonysági intézkedés vagy beruházás megkezdésének időpontja,
+b)[^9] az energiahatékonysági intézkedés vagy beruházás megkezdésének időpontja, ami
+
+ba) az energiahatékonysági intézkedés végrehajtása, a beruházás kivitelezése megrendelésének időpontja,
+
+bb) az energiahatékonysági intézkedés végrehajtása, a beruházás kivitelezése megkezdésének időpontja,
+
+bc) az intézkedés, beruházás célját szolgáló első tárgyi eszköz megrendelésének időpontja és
+
+bd) az intézkedés végrehajtásához, a beruházáshoz szükséges hatósági engedély megszerzésének időpontja
+
+közül a legkorábbi időpont,
 
 c) az energiahatékonysági intézkedés vagy az energiahatékonysági beruházás helyszíne, – több végső felhasználót érintő energiahatékonysági intézkedés esetének kivételével – a végső felhasználó szervezet neve, adószáma, természetes személy esetén neve, lakóhelye,
 
@@ -35,3 +45,4 @@ m) az energiahatékonysági intézkedésből vagy beruházásból elszámolható
 (4) A kötelezett fél dönthet akként, hogy a bejelentés részeként az adott évre vonatkozóan saját maga határozza meg az (1) és (2) bekezdés szerint bejelentett, saját nevén szereplő energiamegtakarítások elszámolási sorrendjét az EKR adatgyűjtő rendszer útján. Az elszámolási sorrend egyéni meghatározására kizárólag a kötelezettséggel érintett év december 1-től a kötelezettséggel érintett évre vonatkozó elszámolási határidő lejártáig és csak akkor van lehetőség, ha az egyénileg sorrendbe rendezett megtakarítások mértéke eléri az adott évre vonatkozó kötelezettség mértékét.
 
 [^8]: A 3. § a 4/2022. (VI. 14.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdés b) pontja a 11/2022. (XI. 4.) MEKH rendelet 2. §-ával megállapított szöveg.
