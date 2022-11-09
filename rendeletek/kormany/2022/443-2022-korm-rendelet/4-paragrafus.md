@@ -1,9 +1,3 @@
-4. § Hatályát veszti a 217/2022. (VI. 17.) Korm. rendelet
+4. §[^5]
 
-a) 2. § (5) bekezdése,
-
-b) 2. § (6) bekezdése,
-
-c) 7. § (4) bekezdése,
-
-d) 7. § (7) bekezdése.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
