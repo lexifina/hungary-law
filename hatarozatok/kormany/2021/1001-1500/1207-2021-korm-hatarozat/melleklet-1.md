@@ -20,7 +20,7 @@
 
 ## pénzügyminiszter
 
-## Határidő: 2022. szeptember 30.
+## Határidő: 2022. december 31.
 
 ## 3. felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket, hogy gondoskodjanak a 2. pont szerinti kötelezettségvállalásról úgy, hogy szükség esetén az annak eredményeként teljesített kifizetések a 2021–2027 programozási időszak forrásai terhére is elszámolhatóak legyenek;
 
@@ -102,7 +102,7 @@
 
 1. melléklet az 1207/2021. (IV. 29.) Korm. határozathoz[^8]
 
-[^1]: A 2. pont az 1867/2021. (XII. 2.) Korm. határozat 6. pontjával megállapított szöveg.
+[^1]: A 2. pont az 1867/2021. (XII. 2.) Korm. határozat 6. pontjával megállapított, az 1536/2022. (XI. 9.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 4. pont az 1867/2021. (XII. 2.) Korm határozat 5. pontja szerint módosított szöveg.
 [^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. [Az 1867/2021. (XII. 2.) Korm. határozat 2. pontjában foglalt módosítás, mely szerint az 5. pont helyébe a módosító rendelet hivatkozott pontjában foglalt szöveg lép, nem vezethető át.]
 [^4]: A 6. pontot az 1867/2021. (XII. 2.) Korm határozat 2. pontja iktatta be.
