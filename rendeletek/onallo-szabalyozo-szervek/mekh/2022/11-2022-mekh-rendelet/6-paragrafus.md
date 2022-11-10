@@ -1,7 +1,3 @@
-## lép.
+6. §[^7]
 
-6. § Hatályát veszti az R1. 1. melléklet
-
-a) II. rész 1.1.1. pontjában a „kereskedelmi hűtők cseréje esetében is, továbbá” szövegrész,
-
-b) III. rész 1.1.5. pontjában az „empirikus” szövegrész.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
