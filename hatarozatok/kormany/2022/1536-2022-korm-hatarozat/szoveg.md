@@ -42,4 +42,6 @@ g) felhívja az érintett minisztereket, hogy az f) alpont szerinti felülvizsg�
 
 | Határidő: | folyamatos |
 
-2. Az 1207/2021. (IV. 29.) Korm. határozat 2. pontjában a „szeptember 30.” szövegrész helyébe a „december 31.” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
