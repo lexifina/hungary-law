@@ -1,8 +1,6 @@
-## végrehajtásához szükséges rendelkezéseket állapítja meg.
+1. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^39]
 
-1. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^27]
-
-## Áruk, amelyek behozatalával, kivitelével, reexportjával kapcsolatos tevékenységek megkezdéséhez tevékenységi engedélyre van szükség
+Áruk, amelyek behozatalával, kivitelével, reexportjával kapcsolatos tevékenységek megkezdéséhez tevékenységi engedélyre van szükség
 
 1. Azok a nem közösségi áruk, vagy nem az Európai Gazdasági Térségről szóló megállapodásban részes államból származó, illetve azokban szabad forgalomba nem helyezett áruk, amelyek vonatkozásában behozatali, vagy azzal összefüggő reexport célú tevékenységek engedély birtokában végezhetők:
 
@@ -110,7 +108,7 @@
 
 | 9 | ex | 3604 90 00 | – Más, kivéve: az 1. pirotechnikai osztályba tartozó tűzijáték termékek, csillagszórók |
 
-Továbbá: az ADR. 1. osztályba tartozó más robbanóanyagok.
+## Továbbá: az ADR. 1. osztályba tartozó más robbanóanyagok.
 
 1.3.
 
@@ -142,4 +140,4 @@ Továbbá: az ADR. 1. osztályba tartozó más robbanóanyagok.
 
 | 5 | ex | 4811 | Biztonsági papír |
 
-[^27]: Az 1. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^39]: Az 1. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.

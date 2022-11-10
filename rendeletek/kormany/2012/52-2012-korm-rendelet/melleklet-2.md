@@ -1,6 +1,6 @@
-2. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^28]
+2. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^40]
 
-## Áruk, amelyeknek Magyarország területéről, kereskedelmi forgalomban, nem EU tagországba, illetve az EGT-ben nem részes államba történő kiviteléhez, reexportjához engedély szükséges
+Áruk, amelyeknek Magyarország területéről, kereskedelmi forgalomban, nem EU tagországba, illetve az EGT-ben nem részes államba történő kiviteléhez, reexportjához engedély szükséges
 
 1. Robbanóanyagok és pirotechnikai termékek
 
@@ -24,7 +24,7 @@
 
 | 9 | ex | 3604 90 00 | – Más, kivéve: az 1. pirotechnikai osztályba tartozó tűzijáték termékek, csillagszórók |
 
-Továbbá: az ADR 1. osztályba tartozó más robbanóanyagok
+## Továbbá: az ADR 1. osztályba tartozó más robbanóanyagok
 
 2. Biztonsági védőeszközök
 
@@ -38,4 +38,4 @@ Továbbá: az ADR 1. osztályba tartozó más robbanóanyagok
 
 3.
 
-[^28]: A 2. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^40]: A 2. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 4. melléklet az 52/2012. (III. 28.) Korm. rendelethez
 
-## Áruk, melyeknek kereskedelmi forgalomban, Magyarország területéről bármely országba történő kiviteléhez, reexportjához, illetve bármely országból Magyarország területére történő behozatalához engedély szükséges
+Áruk, melyeknek kereskedelmi forgalomban, Magyarország területéről bármely országba történő kiviteléhez, reexportjához, illetve bármely országból Magyarország területére történő behozatalához engedély szükséges
 
 1. Biztonsági papír kivitele, reexportja, behozatala
 

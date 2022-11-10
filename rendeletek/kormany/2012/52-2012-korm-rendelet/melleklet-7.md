@@ -1,5 +1,3 @@
-## A 3. § (2) bekezdése szerinti engedély iránti kérelem űrlapja
-
 ## Engedélykérelem
 
 |  | □ Export □ | Import |
@@ -50,7 +48,7 @@
 
 7. melléklet az 52/2012. (III. 28.) Korm. rendelethez
 
-## A 3. § (2) bekezdése szerinti engedély kötelező adattartalma
+A 3. § (2) bekezdése szerinti engedély kötelező adattartalma
 
 1. Engedélyszám
 
@@ -78,7 +76,7 @@
 
 13. Záradék
 
-14.[^31] Dátum, bélyegző, Budapest Főváros Kormányhivatala
+14.[^43] Dátum, bélyegző, Budapest Főváros Kormányhivatala
 
 Az engedély vámpéldányának hátoldalán feltüntetendő, a vámhatóság által a vámkezelés során kitöltendő rovatok:
 
@@ -92,4 +90,4 @@ Az engedély vámpéldányának hátoldalán feltüntetendő, a vámhatóság á
 
 19. Vámkezelést végző igazolása (bélyegzője, aláírása)
 
-[^31]: A 7. melléklet 14. pontja a 379/2016. (XII. 2.) Korm. rendelet 197. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^43]: A 7. melléklet 14. pontja a 379/2016. (XII. 2.) Korm. rendelet 197. § (2) bekezdés e) pontja szerint módosított szöveg.
