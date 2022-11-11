@@ -1,1 +1,3 @@
-1. § A filmalkotások közvetett támogatásának céljából fenntartott letéti számlán gyűjthető összeg mértékéről szóló 439/2016. (XII. 16.) Korm. rendelet 1. §-ában a „44 000 000 000” szövegrész helyébe a „69 000 000 000” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
