@@ -1,3 +1,3 @@
-6. § Az R. 2. § (2) bekezdése a következő g) ponttal egészül ki:
+6. §[^2]
 
-(Az igazgatási szünet időtartama nem számít bele)
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
