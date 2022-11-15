@@ -38,7 +38,7 @@
 
 2. az irányító hatóságok együttműködésével kidolgozza a csalás elleni politika hatékony megvalósításához szükséges eljárást és módszertant,
 
-3.[^102] ellátja a központi koordinációt az ARACHNE kockázatértékelő eszköz alkalmazásával kapcsolatban, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
+3.[^102] ellátja a központi koordinációt az ARACHNE kockázatértékelő eszköz eredményes alkalmazásával kapcsolatban, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
 
 4. ellátja a központi koordinációt az európai uniós támogatásokkal kapcsolatos büntetőfeljelentések és folyamatban lévő büntetőügyek tekintetében, ennek keretében gondoskodik ezen ügyek nyilvántartásba vételéről, továbbá a beérkező bűnügyi megkeresések megválaszolásáról,
 
@@ -60,7 +60,7 @@
 [^99]: A 10. § (1) bekezdés 6a. pontját a 347/2015. (XI. 20.) Korm. rendelet 5. §-a iktatta be.
 [^100]: A 10. § (1) bekezdés 11. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 22. pontja, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 5. pontja szerint módosított szöveg.
 [^101]: A 10. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 23. pontja, a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^102]: A 10. § (2) bekezdés 3. pontja a 374/2022. (IX. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^102]: A 10. § (2) bekezdés 3. pontja a 374/2022. (IX. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 463/2022. (XI. 15.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^103]: A 10. § (2) bekezdés 6. pontja a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
 [^104]: A 10. § (2) bekezdés 9. pontját a 374/2022. (IX. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^105]: A 10. § (2) bekezdés 10. pontját a 374/2022. (IX. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.

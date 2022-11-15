@@ -6,9 +6,9 @@ b) a támogatási jogosultság feltételeit, a projektkijelölés objektív szak
 
 c) az adott közfeladatban érintett fejlesztés számára projektszinten rendelkezésre álló indikatív támogatási keretet,
 
-d)[^293] a kiemelt projekt tárgyának és támogatást igénylőjének meghatározása során a projektjavaslatok versenyeztetése mellőzésének indokait.
+d)[^296] a kiemelt projekt tárgyának és támogatást igénylőjének meghatározása során a projektjavaslatok versenyeztetése mellőzésének indokait.
 
-(2)[^294] Kiemelt projekt felhívásának célja kizárólagosan előkészítés csak akkor lehet, ha
+(2)[^297] Kiemelt projekt felhívásának célja kizárólagosan előkészítés csak akkor lehet, ha
 
 a) az előkészítendő projekt megvalósítására a 2014–2020 programozási időszak forrásaiból nem kerül sor,
 
@@ -18,5 +18,5 @@ c) ahhoz a Kormány előzetesen hozzájárult.
 
 (3) Nem kell bemutatni az éves fejlesztési keret elfogadására irányuló javaslatban az (1) bekezdés b) és c) pontjában foglaltakat a technikai segítségnyújtást szolgáló felhívások tekintetében.
 
-[^293]: A 41/E. § (1) bekezdés d) pontját a 345/2016. (XI. 17.) Korm. rendelet 1. §-a iktatta be.
-[^294]: A 41/E. § (2) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^296]: A 41/E. § (1) bekezdés d) pontját a 345/2016. (XI. 17.) Korm. rendelet 1. §-a iktatta be.
+[^297]: A 41/E. § (2) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.

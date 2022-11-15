@@ -1,11 +1,11 @@
-## 41/B. §[^284] A felhívások szakmai koncepciója alapulvételével az irányító hatóság elkészíti az éves fejlesztési keret elfogadására irányuló javaslatát és megküldi az európai uniós források felhasználásáért felelős miniszter részére.
+## 41/B. §[^287] A felhívások szakmai koncepciója alapulvételével az irányító hatóság elkészíti az éves fejlesztési keret elfogadására irányuló javaslatát és megküldi az európai uniós források felhasználásáért felelős miniszter részére.
 
 41/C. § (1) A területi kiválasztási rendszer esetén a 41/A. és 41/B. §-t e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2)[^285]
+(2)[^288]
 
-(3)[^286] Az irányító hatóság az integrált területi programok (ITP) és a területi szereplők adatszolgáltatása alapján elkészített éves fejlesztési keret elfogadására irányuló javaslatát megküldi az európai uniós források felhasználásáért felelős miniszter részére.
+(3)[^289] Az irányító hatóság az integrált területi programok (ITP) és a területi szereplők adatszolgáltatása alapján elkészített éves fejlesztési keret elfogadására irányuló javaslatát megküldi az európai uniós források felhasználásáért felelős miniszter részére.
 
-[^284]: A 41/B. § a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^285]: A 41/C. § (2) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^286]: A 41/C. § (3) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 3. §-ával megállapított, a 153/2019. (VI. 26.) Korm. rendelet 33. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^287]: A 41/B. § a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^288]: A 41/C. § (2) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^289]: A 41/C. § (3) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 3. §-ával megállapított, a 153/2019. (VI. 26.) Korm. rendelet 33. § (1) bekezdés 1. pontja szerint módosított szöveg.
