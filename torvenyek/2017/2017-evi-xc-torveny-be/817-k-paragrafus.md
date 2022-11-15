@@ -1,0 +1,1 @@
+817/K. § A vádindítvány képviseletére jogosult személy számára lehetőséget kell adni arra, hogy a zártan kezelt ügyiratok kivételével az ügyiratokat megismerhesse. Az ügyiratok megismerésére jogosult személy és a jogi képviselője az ügyiratokat kizárólag az e Fejezet szerinti eljárás céljából használhatja fel. A megismert ügyiratot tilos nyilvánosságra hozni.

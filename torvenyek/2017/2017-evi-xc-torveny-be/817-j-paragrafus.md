@@ -1,0 +1,5 @@
+817/J. § (1) Ha a vádindítvány képviseletére jogosult személyt a bíróság jelöli ki, a vádindítvány benyújtásának határidejét a bíróság döntésének a kézbesítésétől kell számítani.
+
+(2) Ha a vádindítvány képviseletére jogosult személy az eljárás során meghal vagy tartós, súlyos betegsége miatt nem tud az eljárásban részt venni, a többi, korábban felülbírálati indítványt előterjesztő személy jogosult az újabb, a vádindítvány képviseletére jogosult személyként eljáró személyről megegyezni vagy a 817/I. § (2)–(7) bekezdésében meghatározottak szerint a bíróság kijelölését indítványozni.
+
+(3) Ha a vádindítvány képviseletére jogosult személyt a bíróság jelölte ki és ez a személy a vádindítványt határidőn belül nem nyújtja be, a többi, korábban felülbírálati indítványt előterjesztő személy jogosult egy alkalommal a vádindítvány benyújtására rendelkezésre álló határidőt követő tizenöt napon belül újabb, a vádindítvány képviseletére jogosult személyként eljáró személyről megegyezni, aki a vádindítványt a megállapodásuktól számított tizenöt napon belül nyújthatja be.
