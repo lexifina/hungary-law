@@ -1,0 +1,129 @@
+# A Kormány 465/2022. (XI. 15.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 187. szám, 2022. november 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/mjvqKAHG7aTsBBBPtJRZ636c0c0ddb8b3/dokumentumok/f08b6750dd0d75f61aa0fdec59d2eeb21cb385ca/letoltes)
+
+---
+
+A Kormány 465/2022. (XI. 15.) Korm. rendelete
+a koncessziós társaság és a koncesszori alvállalkozók indokolt költségeinek rendeletalkotásával,
+valamint a módszertani útmutató elkészítésével kapcsolatban a veszélyhelyzet időszakában alkalmazandó
+szabályokról
+A Kormány az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) a hulladékról szóló 2012. évi
+CLXXXV. törvény (a továbbiakban: Ht.) 53/N. § (1) bekezdése szerinti díjelőkészítő és a Ht. 53/N. § (2) bekezdése
+szerinti módszertani útmutató kiadási tevékenységét az e rendeletben foglaltakra figyelemmel látja el.
+(2) Az e rendeletben foglaltak nem érintik a koncesszor, a koncessziós társaság és a koncesszori alvállalkozók indokolt
+költségeinek meghatározásával, díjjavaslat elkészítésével kapcsolatos rendeletalkotás, valamint módszertani
+útmutató közzétételére a veszélyhelyzet időszakában alkalmazandó szabályokról szóló 392/2022. (X. 18.)
+Korm. rendelet rendelkezéseinek alkalmazását.
+2. § (1) A Ht. 53/N. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Hivatal elnöke a Ht. végrehajtására kiadott
+rendeletét az e rendeletben meghatározott árszabályozási ciklus első naptári évét megelőző év augusztus 15-ig
+alkotja meg, és ezt a rendeletet a Hivatal évente augusztus 15-ig felülvizsgálja.
+(2) A Ht. 53/N. § (2) bekezdésétől eltérően a Hivatal a módszertani útmutatót az (1) bekezdés szerinti rendeletben
+meghatározott árszabályozási ciklus első naptári évét megelőző év augusztus 31. napjáig honlapján közzéteszi,
+és a módszertani útmutatót évente augusztus 31-ig felülvizsgálja.
+(3) A Ht. 53/N. § (3) bekezdésétől eltérően a Hivatal az (1) bekezdés szerinti rendelet, valamint a módszertani útmutató
+előkészítése során azok tervezetéről a honlapján történő közzététel útján tájékoztatja az érintett engedélyeseket
+és a felhasználók reprezentatív érdekképviseleteit, hogy azok a tervezetről véleményt alkothassanak.
+(4) A Ht. 53/N. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a koncesszori alvállalkozók indokolt
+költségeinek mértékét a Hivatal elnöke a Ht. végrehajtására kiadott rendeletben, hulladékgazdálkodási
+tevékenységenkénti bontásban állapítja meg, figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés
+szerinti módszertani útmutatóra.
+(5) A Ht. 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésekor figyelembe vett indokolt költségekről, az ezekkel
+összefüggő eszköz- és költség-felülvizsgálatról – ideértve az eszközértékelés, a statikus, a transzferár és a benchmark
+vizsgálatok eredményét is –, az alkalmazott ösztönzőkről és elvonásokról a Hivatal elnöke a Ht. 47/A. § (2) bekezdése
+szerinti díjjavaslatnak a hulladékgazdálkodásért felelős miniszter számára történő megküldésével egyidejűleg
+tájékoztatja a koncessziós társaságot.
+3. § (1) A Ht. 18/A–18/C. §-a a Hivatal általi alkalmazása során
+a) a B3 alkategóriájú hulladéklerakóra és annak üzemeltetőjére vonatkozó rendelkezéseket megfelelően
+alkalmazni kell annak tulajdonosára, valamint a koncessziós területen hulladékgazdálkodási engedély alapján
+legnagyobb éves befogadó kapacitással rendelkező, és a hulladékgazdálkodási koncessziós jogosultság
+átengedésével kapcsolatos nyilvános pályázat kiírásának időpontját megelőzően üzembe helyezett nem
+veszélyes vegyes települési hulladékot égető hulladékégető műre és annak üzemeltetőjére (a továbbiakban
+együtt: hulladékégető mű) is,
+b) hulladéklerakási díj alatt átvételi díjat kell érteni azzal, hogy hulladékégető mű esetében az átvételi díjat úgy
+kell megállapítani, hogy az – a Ht. 18/B. § (1) bekezdésétől eltérően – fedezetet nyújtson a hulladékégető mű
+működtetésével kapcsolatos indokolt költségre.
+(2) A Ht. 18/D. §-a a Hivatal általi alkalmazása során eszköz alatt csak az állami hulladékgazdálkodási
+közfeladat ellátásához szükséges hulladékgazdálkodási eszközöket – ide nem értve az (1) bekezdés szerinti
+hulladékgazdálkodási létesítményeket – kell érteni, valamint az eszköz használatáért fizetendő díj alatt használati és
+igénybevételi díjakat kell érteni.
+
+(3) A Ht. 18/A. § (4) bekezdésétől és a Ht. 18/D. § (5) bekezdésétől eltérően a Hivatal 53/N. § (1) bekezdése
+szerinti díjelőkészítő és a Ht. 53/N. § (2) bekezdése szerinti módszertani útmutató kiadási tevékenysége során
+a hulladékgazdálkodási közszolgáltatás ellátásához igénybe vett, valamint a hulladékgazdálkodási közszolgáltatás
+vagy a hulladékgazdálkodási közszolgáltatási résztevékenység ellátására létesült, vagy beszerzésre került
+hulladékgazdálkodási eszközt szabad kapacitásúnak tekinti.
+4. § (1) A Ht. 30/C. § (1) bekezdésétől eltérően a hulladékgazdálkodásért felelős miniszter állapítja meg hulladékanalízisen
+alapuló szakértői becsléssel a kiterjesztett gyártói felelősségi körbe kötelezően tartozó termékekből a települési
+hulladékként kezelésre, illegális lerakásra, köztisztaság keretében eltávolításra kerülő hulladék évi országos
+mennyiségét.
+(2) A Ht. 30/C. § (2) bekezdésétől eltérően a kiterjesztett gyártói felelősségi körbe tartozó termékekből
+származó, a települési hulladékként kezelésre kerülő, az illegálisan lerakásra kerülő hulladékkal összefüggő,
+továbbá a köztisztaság keretében eltávolításra kerülő hulladékkal összefüggő, a koncessziós társaságnál és
+az önkormányzatoknál felmerülő, és megtérítendő, egymástól elkülönített indokolt költségeket a kiterjesztett
+gyártói felelősségi díj tartalmazza.
+5. §
+A Ht. 33. § (4) bekezdését a Hivatal a Ht. 53/N. § (1) bekezdése szerinti díjelőkészítő és a Ht. 53/N. § (2) bekezdése
+szerinti módszertani útmutató kiadási tevékenysége során azzal az eltéréssel alkalmazza, hogy a települési
+önkormányzat Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés
+5. pontjában meghatározott köztisztasági feladat ellátása körében a közterületi kihelyezett gyűjtőedényekből vagy
+egyéb módon a közterületről összegyűjtött települési hulladék kezeléséről úgy gondoskodik, mintha azt
+a) a koncessziós társaságnak történő átadással,
+b) a koncesszori alvállalkozónak történő átadással,
+c) a hulladék a) vagy b) pontban meghatározottak által üzemeltetett hulladékgyűjtő ponton, hulladékgyűjtő
+udvarban vagy visszaváltó berendezéseken keresztül történő átadással,
+d) a koncessziós társasággal kötött megállapodás alapján üzemeltetett hulladékátvételi helyen, illetve
+az átvételre kötelezettnek történő átadással, vagy
+e) koncessziós szerződés megkötésének hiányában az a)–d) pont helyett az állam által kijelölt jogi személynek
+történő átadással
+teljesítené, azzal, hogy a koncessziós társaság által ellátott hulladékgazdálkodási tevékenységekre a Ht. 47/A. §
+(1) bekezdése szerinti, a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjszabás
+alkalmazandó.
+6. § (1) A Hivatal a Ht. 53/N. § (1) bekezdése szerinti díjelőkészítő és a Ht. 53/N. § (2) bekezdése szerinti módszertani
+útmutató kiadási tevékenysége során úgy tekinti, hogy a számviteli szétválasztási kötelezettségnek a koncessziós
+társaság, a koncesszori alvállalkozó, és a 3. § (1) bekezdése szerinti üzemeltető (a továbbiakban: kötelezett) is alanya.
+(2) A Ht. 50. § (2) bekezdésétől eltérően a kötelezett által vezetett elkülönült nyilvántartás
+a) a koncessziós társaság és a koncesszori alvállalkozó esetében
+aa) a hulladékgazdálkodási közszolgáltatási résztevékenység,
+ab) az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó
+települési hulladékával kapcsolatos hulladékgazdálkodási intézményi résztevékenység,
+ac) a közterületi köztisztasági önkormányzati közfeladattal összefüggésben keletkezett hulladékkal
+kapcsolatos tevékenysége,
+ad) kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékekkel és az azokból származó
+hulladékokkal kapcsolatos hulladékgazdálkodási intézményi résztevékenység, továbbá
+a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezeti feladatainak
+ellátása;
+b) a 3. § (1) bekezdése szerinti üzemeltető esetében az állami hulladékgazdálkodási közfeladat ellátásához
+kapcsolódó tevékenysége
+szerinti felosztást tartalmazza.
+(3) 2024. január 1-jétől a (2) bekezdés a) pontjában meghatározott nyilvántartás kiterjed a kötelező visszaváltási díjas
+rendszerbe tartozó termékeknek és e termékekből származó hulladékokkal kapcsolatos hulladékgazdálkodási
+intézményi résztevékenységre, továbbá a kötelező visszaváltási díjas rendszer működtetése érdekében végzett
+tevékenység szerinti elkülönítésre is.
+
+(4) A Ht. 50. § (3) bekezdésétől eltérően a kötelezett, a (2) bekezdés szerinti tevékenysége vonatkozásában mutatja be
+a tevékenységeket az éves beszámolója kiegészítő mellékletében oly módon, mintha azokat önálló vállalkozás
+keretében végezte volna.
+(5) A Ht. 50. § (4) bekezdésétől eltérően az elkülönült nyilvántartásra kötelezett küldi meg éves beszámolóját
+a Hivatalnak.
+(6) A Ht. 50. § (5) bekezdésétől eltérően a kötelezett biztosítja a Hivatal számára, hogy a Hivatal a (2) bekezdés szerinti
+tevékenységekkel kapcsolatos pénzügyi-számviteli kimutatásait, valamint az azokhoz kapcsolódó bizonylatokat
+és információkat – ideértve az üzleti titkot is – megismerhesse, azokba betekinthessen.
+(7) A Ht. 50. § (1)–(5) bekezdésétől eltérően a számviteli szétválasztásra vonatkozó további részletszabályokat
+a Ht. végrehajtására kiadott kormányrendelet tartalmazza.
+7. §
+A Ht. 92/K. § (1) bekezdésétől eltérően, a kötelező visszaváltási díjas rendszerrel összefüggésben díjjavaslatát
+a Hivatal első alkalommal 2023. szeptember 15. napjáig küldi meg a hulladékgazdálkodásért felelős miniszter
+részére, a hulladékgazdálkodásért felelős miniszter a díjakat első alkalommal 2023. november 30. napjáig állapítja
+meg.
+8. §
+Ez a rendelet a kihirdetése napján 23 órakor lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei
