@@ -1,0 +1,9 @@
+2. § (1) A Ht. 53/N. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Hivatal elnöke a Ht. végrehajtására kiadott rendeletét az e rendeletben meghatározott árszabályozási ciklus első naptári évét megelőző év augusztus 15-ig alkotja meg, és ezt a rendeletet a Hivatal évente augusztus 15-ig felülvizsgálja.
+
+(2) A Ht. 53/N. § (2) bekezdésétől eltérően a Hivatal a módszertani útmutatót az (1) bekezdés szerinti rendeletben meghatározott árszabályozási ciklus első naptári évét megelőző év augusztus 31. napjáig honlapján közzéteszi, és a módszertani útmutatót évente augusztus 31-ig felülvizsgálja.
+
+(3) A Ht. 53/N. § (3) bekezdésétől eltérően a Hivatal az (1) bekezdés szerinti rendelet, valamint a módszertani útmutató előkészítése során azok tervezetéről a honlapján történő közzététel útján tájékoztatja az érintett engedélyeseket és a felhasználók reprezentatív érdekképviseleteit, hogy azok a tervezetről véleményt alkothassanak.
+
+(4) A Ht. 53/N. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a koncesszori alvállalkozók indokolt költségeinek mértékét a Hivatal elnöke a Ht. végrehajtására kiadott rendeletben, hulladékgazdálkodási tevékenységenkénti bontásban állapítja meg, figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés szerinti módszertani útmutatóra.
+
+(5) A Ht. 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésekor figyelembe vett indokolt költségekről, az ezekkel összefüggő eszköz- és költség-felülvizsgálatról – ideértve az eszközértékelés, a statikus, a transzferár és a benchmark vizsgálatok eredményét is –, az alkalmazott ösztönzőkről és elvonásokról a Hivatal elnöke a Ht. 47/A. § (2) bekezdése szerinti díjjavaslatnak a hulladékgazdálkodásért felelős miniszter számára történő megküldésével egyidejűleg tájékoztatja a koncessziós társaságot.

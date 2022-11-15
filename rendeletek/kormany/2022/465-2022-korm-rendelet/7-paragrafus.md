@@ -1,0 +1,1 @@
+7. § A Ht. 92/K. § (1) bekezdésétől eltérően, a kötelező visszaváltási díjas rendszerrel összefüggésben díjjavaslatát a Hivatal első alkalommal 2023. szeptember 15. napjáig küldi meg a hulladékgazdálkodásért felelős miniszter részére, a hulladékgazdálkodásért felelős miniszter a díjakat első alkalommal 2023. november 30. napjáig állapítja meg.
