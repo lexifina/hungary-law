@@ -1,6 +1,6 @@
 |  | A | B | C | D |
 
-| 1. | Év | Összesen | Fejlesztés, bevezetés, egyedi fejlesztés | Működéstámogatás |
+| 1. | Év | Összesen (forint) | Fejlesztés, bevezetés, egyedi fejlesztés (forint) | Működés támogatása (forint) |
 
 | 2. | 2019 | 24 420 542 | 23 260 967 | 1 159 575 |
 
@@ -8,23 +8,23 @@
 
 | 4. | 2021 | 16 915 374 | 12 546 828 | 4 368 546 |
 
-| 5. | 2022 | 7 722 568 | 2 534 920 | 5 187 648 |
+| 5. | 2022 | 2 892 232 | 1 009 260 | 1 882 972 |
 
-| 6. | 2023 | 5 355 725 | 717 424 | 4 638 301 |
+| 6. | 2023 | 9 122 911 | 5 331 735 | 3 791 176 |
 
-| 7. | 2024 | 5 209 499 | 571 198 | 4 638 301 |
+| 7. | 2024 | 5 111 624 | 1 345 679 | 3 765 945 |
 
-| 8. | 2025 | 706 808 | 0 | 706 808 |
+| 8. | 2025 | 1 867 833 | 0 | 1 867 833 |
 
-| 9. | Összesen | 73 000 000 | 48 773 407 | 24 226 593 |
+| 9. | Összesen | 73 000 000 | 52 636 539 | 20 363 461 |
 
-2. melléklet az 1219/2019. (IV. 23.) Korm. határozathoz[^2]
+2. melléklet az 1219/2019. (IV. 23.) Korm. határozathoz[^4]
 
-XIX. Uniós fejlesztések fejezetből biztosított forrás (bruttó, forint)
+XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezetből biztosított forrás (bruttó, forint)
 
 |  | A | B | C | D |
 
-| 1. | Év | Összesen | Fejlesztés, bevezetés, egyedi fejlesztés | Működéstámogatás |
+| 1. | Év | Összesen (forint) | Fejlesztés, bevezetés, egyedi fejlesztés (forint) | Működés támogatása (forint) |
 
 | 2. | 2019 | 307 765 738 | 293 151 913 | 14 613 825 |
 
@@ -32,14 +32,14 @@ XIX. Uniós fejlesztések fejezetből biztosított forrás (bruttó, forint)
 
 | 4. | 2021 | 214 597 899 | 158 158 317 | 56 439 582 |
 
-| 5. | 2022 | 97 346 392 | 31 953 790 | 65 392 602 |
+| 5. | 2022 | 38 425 366 | 13 408 733 | 25 016 633 |
 
-| 6. | 2023 | 67 496 809 | 9 041 510 | 58 455 299 |
+| 6. | 2023 | 108 234 844 | 57 866 361 | 50 368 483 |
 
-| 7. | 2024 | 65 653 961 | 7 198 662 | 58 455 299 |
+| 7. | 2024 | 67 911 576 | 17 878 311 | 50 033 265 |
 
-| 8. | 2025 | 8 890 125 | 0 | 8 890 125 |
+| 8. | 2025 | 24 815 501 | 0 | 24 815 501 |
 
-| 9. | Összesen | 920 000 000 | 614 806 882 | 305 193 118 |
+| 9. | Összesen | 920 000 000 | 655 766 325 | 264 233 675 |
 
-[^2]: A 2. melléklet az 1223/2020. (V. 14.) Korm. határozat b) pontjával megállapított szöveg.
+[^4]: A 2. melléklet az 1543/2022. (XI. 15.) Korm. határozat 3. pont b) pontjával megállapított szöveg.
