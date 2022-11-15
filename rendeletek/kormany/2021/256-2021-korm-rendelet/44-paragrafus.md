@@ -14,7 +14,7 @@ f)[^54] az a)–e) pont szerinti személynek a Polgári Törvénykönyvről szó
 
 g) az a személy, akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
-(1a)[^55] Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok – így különösen családi vagy érzelmi ok, politikai szimpátiával vagy nemzeti hovatartozással kapcsolatos ok, gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek [a továbbiakban együtt: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok] – rá nézve teljesül vagy annak veszélye objektíven fennállhat, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+(1a)[^55] Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok – így különösen családi vagy érzelmi ok, politikai szimpátiával vagy nemzeti hovatartozással kapcsolatos ok, gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek [a továbbiakban együtt: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok] – rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
 
 (2)[^56] Az (1) bekezdés a) és b) pontja nem zárja ki, hogy
 
@@ -28,6 +28,6 @@ támogatási kérelmet nyújtson be, és támogatásban részesüljön. Erre akk
 
 [^53]: A 44. § (1) bekezdés c) pontja a 374/2022. (IX. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^54]: A 44. § (1) bekezdés f) pontja a 374/2022. (IX. 30.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
-[^55]: A 44. § (1a) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^55]: A 44. § (1a) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 463/2022. (XI. 15.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^56]: A 44. § (2) bekezdés záró szövegrésze a 156/2022. (IV. 19.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
 [^57]: A 44. § (3) bekezdését a 75/2022. (III. 3.) Korm. rendelet 1. §-a iktatta be.

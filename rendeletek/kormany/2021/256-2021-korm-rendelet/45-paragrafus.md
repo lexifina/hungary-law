@@ -10,8 +10,8 @@ d) állami értékelőként közbeszerzési értékelést végzett, akkor az Áp
 
 (2) Közbeszerzési értékelést nem végezhet olyan személy, akitől az ügy elfogulatlan megítélése nem várható.
 
-(3)[^60] Ha egy személy összeférhetetlensége az (1) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak veszélye objektíven fennállhat, akkor ezen személyt a (2) bekezdés szerint kell minősíteni.
+(3)[^60] Ha egy személy összeférhetetlensége az (1) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt a (2) bekezdés szerint kell minősíteni.
 
 [^58]: A 45. § az 562/2021. (X. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^59]: A 45. § (1) bekezdés a) pontja a 374/2022. (IX. 30.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
-[^60]: A 45. § (3) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 21. §-a iktatta be.
+[^60]: A 45. § (3) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 21. §-a iktatta be, szövege a 463/2022. (XI. 15.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.

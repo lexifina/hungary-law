@@ -2,6 +2,6 @@
 
 (2) Az üzemzavar időtartama alatt az e rendelet szerinti határidők szünetelnek.
 
-(3)[^153] Az üzemzavarról, a határidők szüneteléséről, valamint az üzemzavar megszűnéséről a miniszter haladéktalanul tájékoztatja az érintetteket.
+(3)[^159] Az üzemzavarról, a határidők szüneteléséről, valamint az üzemzavar megszűnéséről a miniszter haladéktalanul tájékoztatja az érintetteket.
 
-[^153]: A 472. § (3) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 30. pontja szerint módosított szöveg.
+[^159]: A 472. § (3) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 30. pontja szerint módosított szöveg.

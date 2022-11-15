@@ -1,3 +1,3 @@
-325. §[^132]
+325. §[^138]
 
-[^132]: A 325. §-t az 562/2021. (X. 1.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
+[^138]: A 325. §-t az 562/2021. (X. 1.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.

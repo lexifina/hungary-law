@@ -24,10 +24,10 @@ k) meghatározza a fejlesztéspolitikai intézményrendszer vonatkozásában a k
 
 l) az irányító hatósággal együttműködve vizsgálja a programok tervezéséhez és módosításához kapcsolódó stratégiai környezeti vizsgálat szükségességét, szükség esetén az irányító hatósággal együttműködve elvégzi a stratégiai környezeti vizsgálatot, koordinálja az érintett hatóságokkal történő egyeztetést, nyomon követi a stratégiai környezeti vizsgálat javaslatainak megvalósítását.
 
-m)[^8] gondoskodik a fejlesztéspolitikai intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rotációjáról.
+m)[^8] gondoskodik a fejlesztéspolitikai intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rendszeres rotációjáról, rendszeres és eredményes felügyeletéről.
 
 (2)[^9] A miniszter megteszi a szükséges intézkedéseket a rendszerszintű szabálytalanságok megelőzése és kezelése érdekében, ideértve az ismétlődés kockázatának csökkentésére irányuló intézkedéseket is.
 
 [^7]: A 7. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^8]: A 7. § (1) bekezdés m) pontját a 374/2022. (IX. 30.) Korm. rendelet 14. §-a iktatta be.
+[^8]: A 7. § (1) bekezdés m) pontját a 374/2022. (IX. 30.) Korm. rendelet 14. §-a iktatta be, szövege a 463/2022. (XI. 15.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^9]: A 7. § (2) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 4. pontja szerint módosított szöveg.

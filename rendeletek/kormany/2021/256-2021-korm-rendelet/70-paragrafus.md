@@ -4,8 +4,8 @@
 
 (2) Az éves fejlesztési keretben szerepeltetni kívánt felhívások szakmai koncepcióját a szakpolitikai felelős készíti el a programok, az ágazati stratégiák és az összefüggő egyéb fejlesztések figyelembevételével.
 
-(3)[^83] Ha egy felhívás a szakpolitikai felelősön kívüli miniszter feladatkörét is érinti vagy ha a szakpolitikai felelős nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett vagy tevékenységének segítésére kijelölt minisztériumban került kijelölésre, a szakpolitikai felelős köteles felhívás előkészítő munkacsoportot létrehozni és a munkacsoport munkáját dokumentálni.
+(3)[^87] Ha egy felhívás a szakpolitikai felelősön kívüli miniszter feladatkörét is érinti vagy ha a szakpolitikai felelős nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett vagy tevékenységének segítésére kijelölt minisztériumban került kijelölésre, a szakpolitikai felelős köteles felhívás előkészítő munkacsoportot létrehozni és a munkacsoport munkáját dokumentálni.
 
 (4) A szakpolitikai felelős a felhívások szakmai koncepcióját benyújtja az irányító hatóság részére.
 
-[^83]: A 70. § (3) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^87]: A 70. § (3) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 23. pontja szerint módosított szöveg.

@@ -18,6 +18,8 @@ f) az áttérés nem okoz kettős finanszírozást, és
 
 g) az áttérést az uniós állami támogatási szabályok lehetővé teszik.
 
-(2) Ha a projektnek nyújtott támogatás állami támogatásnak minősült, az (1) bekezdés szerinti áttérésre az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet véleményének beszerzését követően kerülhet sor.
+(2)[^109]
 
 (3) Az (1) bekezdés szerinti áttérést az irányító hatóság és a kedvezményezett is kezdeményezheti.
+
+[^109]: A 164. § (2) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.

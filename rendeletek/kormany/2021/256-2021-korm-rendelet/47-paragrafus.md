@@ -14,7 +14,7 @@ f) az a)–e) pont szerinti személy hozzátartozója,
 
 g) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
-(1a)[^65] Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak veszélye objektíven fennállhat, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+(1a)[^65] Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
 
 (2)[^66] Az (1) bekezdés a), b) és d) pontja nem zárja ki, hogy az irányító hatóság, illetve annak munkatársa
 
@@ -25,5 +25,5 @@ b) szakpolitikai felelős által vezetett szervezet tekintetében
 szabálytalansági eljárást folytasson le, valamint szabálytalansági döntést készítsen elő és hozzon meg. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint a szabálytalansági eljárás lefolytatásához és az abban való döntéshozatalhoz kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
 
 [^64]: A 47. § (1) bekezdés c) pontja a 374/2022. (IX. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^65]: A 47. § (1a) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^65]: A 47. § (1a) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 23. § (2) bekezdése iktatta be, szövege a 463/2022. (XI. 15.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
 [^66]: A 47. § (2) bekezdés záró szövegrésze a 156/2022. (IV. 19.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.

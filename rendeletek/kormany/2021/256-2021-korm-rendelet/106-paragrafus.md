@@ -1,6 +1,6 @@
 ## 106. § Az irányító hatóság olyan értékelési szempontokat alkalmaz, amelyek
 
-a)[^95] megfelelnek az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 73. cikkében meghatározott feltételeknek,
+a)[^99] megfelelnek az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 73. cikkében meghatározott feltételeknek,
 
 b) biztosítják a támogatásra legalkalmasabb projektek kiválasztását,
 
@@ -14,4 +14,4 @@ f) kiterjednek a támogatást igénylő korábbi projektjeivel kapcsolatban a mo
 
 g) figyelembe veszik a támogatási kérelemmel összefüggésben a közbeszerzési eljárások ellenőrzésének eredményét.
 
-[^95]: A 106. § a) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 16. pontja szerint módosított szöveg.
+[^99]: A 106. § a) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 16. pontja szerint módosított szöveg.
