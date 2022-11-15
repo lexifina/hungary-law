@@ -6,6 +6,8 @@ a) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokr
 
 b) az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közleménnyel (2021/C 121/01), valamint
 
-c) a fejlesztéspolitikai intézményrendszer munkatársa jogállására vonatkozó jogszabályban – így különösen a kormányzati igazgatásról szóló 2018. évi CXXV. törvényben és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvényben (a továbbiakban: Ápjt.) – meghatározott összeférhetetlenségi szabályokkal
+c)[^16] a II. Fejezet szerinti intézményrendszer munkatársa jogállására vonatkozó jogszabályban – így különösen a kormányzati igazgatásról szóló 2018. évi CXXV. törvényben és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvényben (a továbbiakban: Ápjt.) – meghatározott összeférhetetlenségi szabályokkal
 
 összhangban kell értelmezni és alkalmazni.
+
+[^16]: A 23. § c) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 11. pontja szerint módosított szöveg.

@@ -20,11 +20,11 @@
 
 9. felügyeli a HET végrehajtását, ennek keretében folyamatosan figyelemmel kíséri a megvalósítási folyamatokat, nyomon követi a HET végrehajtására javasolt intézkedések megvalósulását és azokról a Kormányt tájékoztatja,
 
-10. biztosítja az (EU) 2021/241 rendelet 9. cikkében foglalt kettős finanszírozás, az összeférhetetlenség, a csalás és a korrupció hatékony megelőzése, felderítése és kezelése érdekében szükséges intézkedések megtételét,
+10.[^3] biztosítja az (EU) 2021/241 rendelet 9. cikkében foglalt kettős finanszírozás, az összeférhetetlenség, a csalás és a korrupció eredményes megelőzése, felderítése és kezelése érdekében szükséges intézkedések megtételét,
 
 11. gondoskodik az európai uniós forrásokból megvalósuló fejlesztéspolitikai programokból támogatásban részesített projektek forrásai 51. alcím szerinti technikai – a HET végrehajtása céljából történő – átforgatásáról, az érintett projektek megfelelő szakmai-tartalmi átdolgozásáról, a HET intézkedési lista módosításáról, és azokat jóváhagyás érdekében a Kormány elé terjeszti,
 
-12. gondoskodik a HET végrehajtását érintő csalás elleni és antikorrupciós politika kidolgozásáról,
+12.[^4] gondoskodik a HET végrehajtását érintő eredményes csalás elleni és antikorrupciós politika kidolgozásáról, és felügyeletet gyakorol annak eredményes végrehajtása felett,
 
 13. működteti a belső és közérdekű bejelentési rendszert (www.anti-lop.hu),
 
@@ -42,10 +42,16 @@
 
 20. elbírálja – jogorvoslati feladatai keretében – a kifogásokat és a szabálytalansági döntésekkel szemben benyújtott jogorvoslati kérelmeket, biztosítja e döntések egységességét,
 
-21. gondoskodik a fejlesztéspolitikai intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rotációjáról,
+21.[^5] gondoskodik a II. Fejezet szerinti intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rendszeres rotációjáról, rendszeres és eredményes felügyeletéről,
 
-22. koordinálja az ARACHNE kockázatértékelő eszköz alkalmazását, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
+22.[^6] koordinálja az ARACHNE kockázatértékelő eszköz eredményes alkalmazását, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
 
 23. gondoskodik a 2. melléklet szerinti adatoknak az ARACHNE kockázatértékelő eszköz részére kéthavonta történő megküldéséről,
 
-24. biztosítja az ARACHNE kockázatértékelő eszközhöz való hozzáférést a fejlesztéspolitikai intézményrendszer 36. § (1) bekezdés c) pontja és 36. § (2) bekezdés a) pontja szerinti feladatot ellátó munkatársai részére.
+24.[^7] biztosítja az ARACHNE kockázatértékelő eszközhöz való hozzáférést a II. Fejezet szerinti intézményrendszer 36. § (1) bekezdés c) pontja és 36. § (2) bekezdés a) pontja szerinti feladatot ellátó munkatársai részére.
+
+[^3]: Az 5. § 10. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
+[^4]: Az 5. § 12. pontja a 463/2022. (XI. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^5]: Az 5. § 21. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 4. pontja szerint módosított szöveg.
+[^6]: Az 5. § 22. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 5. pontja szerint módosított szöveg.
+[^7]: Az 5. § 24. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 6. pontja szerint módosított szöveg.

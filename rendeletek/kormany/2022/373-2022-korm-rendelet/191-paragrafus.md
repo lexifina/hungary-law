@@ -1,1 +1,3 @@
-191. § A kifogás érdemi vizsgálat nélküli elutasításáról – a nemzeti hatóság szakmai álláspontja figyelembevételével – a miniszter dönt. A nemzeti hatóság szakmai álláspontja nem kötelező a miniszter számára.
+191. §[^48] A miniszter a nemzeti hatóság szakmai álláspontjának mérlegelését követően dönthet a kifogás érdemi vizsgálat nélküli elutasításáról, ha megállapítja, hogy a 190. §-ban felsorolt esetek fennállnak.
+
+[^48]: A 191. § a 463/2022. (XI. 15.) Korm. rendelet 22. §-ával megállapított szöveg.

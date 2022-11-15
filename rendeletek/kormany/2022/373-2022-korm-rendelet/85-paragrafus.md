@@ -10,10 +10,12 @@ d) nem változtathatja meg kedvezőtlen módon a támogatási kérelem elbírál
 
 e) – a projekt célját elősegítő módosítás kivételével – nem fogadható el, ha az a projekt előkészítésekor előre látható, tervezhető körülmény miatt merült fel,
 
-f) a támogatás arányos csökkentésével hagyható jóvá, ha a támogatási szerződés tartalmát kedvezőtlenül érintő módosítási igény a kedvezményezettnek felróható okból merült fel,
+f)[^39] a támogatás arányos csökkentésével hagyható jóvá, ha a támogatási szerződés tartalmát kedvezőtlenül érintő módosítási igény a kedvezményezettnek felróható okból merült fel,
 
 g) eredményeként az önerő aránya a támogatás növelése esetén sem csökkenhet, azzal, hogy az eltérő támogatási intenzitású tevékenységeket tartalmazó projekt esetén az önerő aránya tevékenységenként vizsgálandó,
 
 h) eredményeként a támogatást a projekt összköltségének csökkenése arányában csökkenteni kell, több forrás esetén az eredeti arányoknak megfelelően,
 
 i) eredményeként a projekt fizikai befejezésének határideje csak indokolt esetben haladhatja meg a felhívásban rögzített végső határidőt, azzal, hogy a módosított határidő meghatározása során figyelemmel kell lenni a HET-ben meghatározott reformok, beruházások, mérföldkövek, célértékek elérésének az időpontjára, valamint az elszámolhatósági szabályokra.
+
+[^39]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 27. pontjában foglalt azon módosítás, amely szerint 85. § f) pontjában a „kezdeményezettnek” szövegrész helyébe a „végső kezdeményezettnek” szöveg lép, nem vezethető át.]

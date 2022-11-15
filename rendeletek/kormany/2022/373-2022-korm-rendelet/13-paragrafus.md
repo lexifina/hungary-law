@@ -34,8 +34,11 @@ l) elkészíti az általa végzett ellenőrzések összefoglalását, ideértve 
 
 m) ellenőrzései alapján meghatározza azt az Európai Bizottság iránymutatása szerinti bizonyossági szintet, amely a nemzeti hatóság vezetője által kibocsátott vezetői nyilatkozat szerint lefedett területekre vonatkozik,
 
-n) felelős annak megállapításáért, hogy az irányítási és ellenőrzési rendszerek hatékonyan védik-e az Európai Unió pénzügyi érdekeit, és megbízható tájékoztatást nyújtanak-e a végrehajtás előrehaladásáról és eredményeiről.
+n)[^12] felelős annak megállapításáért, hogy az irányítási és ellenőrzési rendszerek eredményesen védik-e az Európai Unió pénzügyi érdekeit, és megbízható tájékoztatást nyújtanak-e a végrehajtás előrehaladásáról és eredményeiről.
 
-(2) Az audit hatóság feladatellátása során funkcionálisan független, döntései meghozatalában nem utasítható.
+(2)[^13] Az audit hatóság feladatellátása során szakmailag és funkcionálisan független, döntései meghozatalában nem utasítható.
 
 (3) Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóság látja el.
+
+[^12]: A 13. § (1) bekezdés n) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 8. pontja szerint módosított szöveg.
+[^13]: A 13. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 9. pontja szerint módosított szöveg.

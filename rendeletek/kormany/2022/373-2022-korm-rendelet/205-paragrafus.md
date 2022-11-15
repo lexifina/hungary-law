@@ -6,6 +6,8 @@
 
 (4) A nemzeti hatóság a döntését annak a végső kedvezményezett részére történő kézbesítését követő harminc napon belül visszavonja, és új döntést hoz, ha a szabálytalansági döntést követően tudomására jutott tény alapján a döntése jogszabályt sért, a támogatási szerződésbe, illetve a felhívásba ütközik.
 
-(5) Ha külső ellenőrző szerv jelentése vagy bírói döntés alapján a szabálytalansági döntés felülvizsgálata szükséges, a nemzeti hatóság vagy az Integritás Hatóság a szabálytalansági döntést visszavonja, és a végleges ellenőrzési jelentés alapján készült intézkedési terv elkészítésétől vagy bírói döntés esetén a jogerős ítélet kézhezvételétől számított negyvenöt napon belül új szabálytalansági döntést hoz.
+(5)[^50] Ha külső ellenőrző szerv jelentése, az Integritás Hatóság vagy bírói döntés alapján a szabálytalansági döntés felülvizsgálata szükséges, a nemzeti hatóság a szabálytalansági döntést visszavonja, és a végleges ellenőrzési jelentés vagy az Integritás Hatóság jelentése alapján készült intézkedési terv elkészítésétől vagy bírói döntés esetén a jogerős ítélet kézhezvételétől számított negyvenöt napon belül új szabálytalansági döntést hoz.
 
 (6) Ha az (5) bekezdés szerint visszavont szabálytalansági döntés után a szabálytalansági döntéssel szemben jogorvoslati eljárás került lefolytatásra, a nemzeti hatóság a szabálytalansági döntés visszavonásáról haladéktalanul értesíti a minisztert.
+
+[^50]: A 205. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 23. §-ával megállapított szöveg.

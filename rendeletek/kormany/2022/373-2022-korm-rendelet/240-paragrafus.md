@@ -1,5 +1,5 @@
 ## 67. Módosító rendelkezések
 
-240. §[^1]
+240. §[^67]
 
-[^1]: A 240. § a 236. § (3) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^67]: A 240. § a 463/2022. (XI. 15.) Korm. rendelet 34. § (1) bekezdése alapján nem lép hatályba.

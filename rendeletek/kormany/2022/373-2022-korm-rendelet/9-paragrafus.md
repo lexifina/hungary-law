@@ -22,7 +22,7 @@ i) az Európai Bizottság részére benyújtott kifizetési kérelmek melléklet
 
 j) működteti a Monitoring Bizottságot, és biztosítja a Monitoring Bizottság által elfogadott ajánlások nyomon követését, valamint biztosítja a Monitoring Bizottság számára a feladatai ellátásához szükséges információkat,
 
-k) gondoskodik a kettős finanszírozás, a csalás és a korrupció megelőzése, felderítése és kiigazítása érdekében szükséges hatékony intézkedésekről és azok betartásáról.
+k)[^9] gondoskodik a kettős finanszírozás, a csalás és a korrupció megelőzése, felderítése és kiigazítása érdekében szükséges eredményes intézkedésekről és azok betartásáról.
 
 (2) A nemzeti hatóság a HET végrehajtása során gondoskodik
 
@@ -40,7 +40,7 @@ f) lebonyolító szerv kijelölése esetén a lebonyolítási szerződés megkö
 
 g) a delegált hatáskör tekintetében a lebonyolító szerv tevékenységének ellenőrzéséről,
 
-h) a HEE forrást érintő egységes csalás és korrupció elleni stratégia, illetve politika hatékony kidolgozásáról és végrehajtásáról,
+h)[^10] a HEE forrást érintő egységes csalás és korrupció elleni stratégia, illetve politika eredményes kidolgozásáról és végrehajtásáról,
 
 i) a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében,
 
@@ -48,7 +48,7 @@ j) a támogatások kifizetéséről,
 
 k) az első szintű – helyszíni vagy dokumentumalapú – ellenőrzés elvégzéséről, amelynek során a támogatást igénylő és a végső kedvezményezett által benyújtott dokumentumokat összeveti a monitoring és információs rendszerben tárolt adatokkal, vizsgálja az adatok összhangját, szükség szerint összevetve azokat közhiteles adatbázisban szereplő adatokkal,
 
-l) a HET végrehajtásának hatékony és eredményes pénzügyi irányításáról és az Európai Unió pénzügyi érdekeinek hatékony védelméről,
+l)[^11] a HET végrehajtásának eredményes és eredményes pénzügyi irányításáról és az Európai Unió pénzügyi érdekeinek eredményes védelméről,
 
 m) az (EU) 2021/241 rendelet 22. cikk (2) bekezdés d) pontja szerinti adatgyűjtésről és az információ hitelességéről, valamint
 
@@ -101,3 +101,7 @@ b) a lebonyolító szerv az adatokat szabályosan és teljes körűen rögzítet
 (10) A (9) bekezdés b) pontja szerinti ellenőrzést a nemzeti hatóság utólagosan, mintavételezés alapján végzi el.
 
 (11) A nemzeti hatóság az ellenőrzés eredményét tartalmazó dokumentumot az ellenőrzés lezárását követő hét napon belül megküldi az audit hatóság és az államháztartásért felelős miniszter részére.
+
+[^9]: A 9. § (1) bekezdés k) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
+[^10]: A 9. § (2) bekezdés h) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
+[^11]: A 9. § (2) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.

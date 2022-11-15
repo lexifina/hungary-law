@@ -1,3 +1,3 @@
-241. §[^2]
+241. §[^68]
 
-[^2]: A 241. § a 236. § (4) bekezdés alapján 2023. január 31-én lép hatályba.
+[^68]: A 241. § a 236. § (4) bekezdés alapján 2023. január 31-én lép hatályba.

@@ -14,7 +14,7 @@ f) az a)–e) pont szerinti személy hozzátartozója,
 
 g) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
-(2) Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak veszélye objektíven fennállhat, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+(2)[^21] Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
 
 (3) Az (1) bekezdés a), b) és d) pontja nem zárja ki, hogy a nemzeti hatóság, illetve annak munkatársa
 
@@ -23,3 +23,5 @@ a) a nemzeti hatóság vagy olyan szervezet tekintetében, amelynek a nemzeti ha
 b) szakpolitikai felelős által vezetett szervezet tekintetében
 
 szabálytalansági eljárást folytasson le, valamint szabálytalansági döntést készítsen elő és hozzon meg. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint a szabálytalansági eljárás lefolytatásához és az abban való döntéshozatalhoz kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
+
+[^21]: A 27. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 16. pontja szerint módosított szöveg.

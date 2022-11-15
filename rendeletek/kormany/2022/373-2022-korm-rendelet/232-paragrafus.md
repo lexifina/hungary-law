@@ -41,3 +41,7 @@
 20. hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 29. alcíme,
 
 21. átmeneti támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/A. alcíme
+
+22. [^62] válságtámogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/D. alcíme
+
+[^62]: A 232. § 22. pontját a 463/2022. (XI. 15.) Korm. rendelet 28. §-a iktatta be.

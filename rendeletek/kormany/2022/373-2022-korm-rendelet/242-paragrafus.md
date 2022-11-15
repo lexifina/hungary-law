@@ -1,3 +1,3 @@
-242. §[^3]
+242. §[^69]
 
-[^3]: A 242. § a 236. § (2) bekezdés alapján 2022. november 30-án lép hatályba.
+[^69]: A 242. § a 463/2022. (XI. 15.) Korm. rendelet 34. § (2) bekezdése alapján nem lép hatályba.

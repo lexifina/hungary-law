@@ -1,9 +1,3 @@
-## X. Fejezet
-
-## ÁLLAMI TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYOK
-
-## 61. Állami támogatásokra vonatkozó szabályok
-
 231. § (1) Ha a „Felzárkózó települések” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
 a) helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatásként,
@@ -19,6 +13,10 @@ e) hátrányos helyzetű munkavállalók segítésének költségeit ellentétel
 f) átmeneti támogatásként vagy
 
 g) közszolgáltatásért járó ellentételezésként
+
+h)[^60] csekély összegű támogatásként,
+
+i)[^61] válságtámogatásként
 
 nyújtható.
 
@@ -83,3 +81,6 @@ b) csekély összegű (de minimis) támogatásként vagy
 c) átmeneti támogatásként
 
 nyújtható.
+
+[^60]: A 231. § (1) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
+[^61]: A 231. § (1) bekezdés i) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.

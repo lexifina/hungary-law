@@ -32,8 +32,10 @@
 
 15. szabálytalansági gyanú: szabálytalanság elkövetésére utaló tények, körülmények vagy dokumentumok, amelyek alapján megalapozottan lehet következtetni a szabálytalanság tényállási elemeinek fennállására,
 
-16. szabálytalanság: az alkalmazandó jognak a kedvezményezett vagy végső kedvezményezett cselekményéből vagy mulasztásából adódó bármilyen megsértése, ami az Európai Unió költségvetését, illetve Magyarország központi költségvetését arra rótt indokolatlan kiadás formájában sérti vagy sértheti,
+16.[^1] szabálytalanság: az alkalmazandó nemzeti vagy uniós jognak a kedvezményezett vagy végső kedvezményezett cselekményéből vagy mulasztásából adódó bármilyen megsértése, ami az Európai Unió költségvetését, illetve Magyarország központi költségvetését arra rótt indokolatlan kiadás formájában sérti vagy sértheti,
 
 17. támogatási megállapodás: a HET vissza nem térítendő támogatás felhasználására az Európai Bizottsággal az (EU) 2021/241 rendelet 23. cikk (1) bekezdése szerinti megállapodás,
 
 18. végső kedvezményezett: a HET megvalósítását szolgáló intézkedéseket támogatási szerződés alapján végrehajtó jogi vagy természetes személy.
+
+[^1]: A 2. § 16. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 1. pontja szerint módosított szöveg.
