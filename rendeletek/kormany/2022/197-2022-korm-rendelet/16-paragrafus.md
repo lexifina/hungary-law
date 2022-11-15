@@ -48,7 +48,7 @@ bc) 36 milliárd forintot meghaladó része után 3 százalék.
 
 (5) A biztosítónak
 
-a)[^8] 2022. november 30-ig a 2021. július 1-jétől 2022. június 30-ig elszámolt biztosítási díj alapulvételével a (4) bekezdés szerinti adómértékkel, a (7) bekezdésre figyelemmel számított,
+a)[^9] 2022. november 30-ig a 2021. július 1-jétől 2022. június 30-ig elszámolt biztosítási díj alapulvételével a (4) bekezdés szerinti adómértékkel, a (7) bekezdésre figyelemmel számított,
 
 b) 2023. május 31-ig a (3) bekezdés szerinti adómértékkel számított, 2023. január 31-ig bevallandó pótadóval egyező
 
@@ -64,4 +64,4 @@ b) 2023. május 31-ig a (3) bekezdés szerinti adómértékkel számított, 2023
 
 (10) A pótadóval kapcsolatos hatósági feladatokat az állami adóhatóság látja el. A pótadóból származó bevétel az államháztartás központi alrendszerének bevétele. A pótadót az állami adóhatóság által meghatározott államháztartási számlára kell megfizetni.
 
-[^8]: A 16. § (5) bekezdés a) pontja a 257/2022. (VII. 18.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^9]: A 16. § (5) bekezdés a) pontja a 257/2022. (VII. 18.) Korm. rendelet 8. §-a szerint módosított szöveg.
