@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-41-00-00
 | --- | --- | --- |
 | 2022-11-15 | 2022. évi XLI. törvény | 2022-41-00-00.0 (közlönyállapot) |
 | 2022-11-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-41-00-00.1 |
+| 2022-11-16 | 2010. évi CXXX. törvény | 2022-41-00-00.2 |
