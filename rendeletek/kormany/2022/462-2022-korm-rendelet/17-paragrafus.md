@@ -1,0 +1,1 @@
+17. § A befogadó nemzeti támogatás végrehajtásának időszakában a műveleti parancsnokság és Magyarország közötti folyamatos koordinációt a művelet befogadó nemzeti támogatását koordináló csoport végzi.
