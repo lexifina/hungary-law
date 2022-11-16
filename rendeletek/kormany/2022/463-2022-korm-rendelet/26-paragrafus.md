@@ -1,3 +1,3 @@
-26. § A 373/2022. (IX. 30.) Korm. rendelet 61. alcíme a következő 230/A. §-sal egészül ki:
+26. §[^26]
 
-„230/A. § E rendelet alapján támogatás az EUMSZ 107. és 108 cikkével összhangban nyújtható.”
+[^26]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

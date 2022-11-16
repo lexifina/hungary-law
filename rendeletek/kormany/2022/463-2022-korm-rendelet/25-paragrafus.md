@@ -1,3 +1,3 @@
-25. § A 373/2022. (IX. 30.) Korm. rendelet 228. §-a helyébe a következő rendelkezés lép:
+25. §[^25]
 
-„228. § Az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelettel összhangban minden olyan személynek vagy szervezetnek, aki, illetve amely HEE forrásban részesül, maradéktalanul együtt kell működnie az Unió pénzügyi érdekeinek védelme céljából, biztosítania kell a Bizottság, az OLAF és az Európai Számvevőszék számára a szükséges jogokat és hozzáférést, valamint gondoskodnia kell arról, hogy az uniós források felhasználásában részt vevő harmadik felek ezekkel egyenértékű jogokat biztosítsanak.”
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

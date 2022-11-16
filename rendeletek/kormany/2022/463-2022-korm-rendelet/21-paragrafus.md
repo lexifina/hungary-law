@@ -1,5 +1,3 @@
-21. § A 373/2022. (IX. 30.) Korm. rendelet a 37. alcímet megelőzően a következő fejezetcímmel egészül ki:
+21. §[^21]
 
-„IV/A. Fejezet
-
-ADATSZOLGÁLTATÁS, BESZÁMOLÁS, MONITORING”
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

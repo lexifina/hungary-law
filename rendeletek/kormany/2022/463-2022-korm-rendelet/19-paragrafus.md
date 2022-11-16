@@ -1,3 +1,3 @@
-19. § A 373/2022. (IX. 30.) Korm. rendelet 90. § (2) bekezdése a következő h) ponttal egészül ki:
+19. §[^19]
 
-(A biztosíték lehet)
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-27. § A 373/2022. (IX. 30.) Korm. rendelet 231. § (1) bekezdése a következő h) és i) ponttal egészül ki:
+27. §[^27]
 
-[Ha a „Felzárkózó települések” programterület keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás]
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
