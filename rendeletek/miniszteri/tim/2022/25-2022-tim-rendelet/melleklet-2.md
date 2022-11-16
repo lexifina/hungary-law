@@ -1,7 +1,3 @@
-## „3. melléklet a 67/2016. (XII. 29.) NFM rendelethez
+2. melléklet a 25/2022. (XI. 15.) TIM rendelethez[^4]
 
-## 2X07614.pdf
-
-## ”
-
-2. melléklet a 25/2022. (XI. 15.) TIM rendelethez
+[^4]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

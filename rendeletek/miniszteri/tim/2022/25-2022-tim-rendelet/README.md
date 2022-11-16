@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-25-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-11-15 | 2022-25-20-8N.1 | 25/2022. (XI. 15.) TIM rendelet |
+| 2022-11-16 | 2022-25-20-8N.2 | 2010. évi CXXX. törvény |
