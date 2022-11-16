@@ -1,0 +1,3 @@
+2. § Az R. a következő 110. §-sal egészül ki:
+
+„110. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 464/2022. (XI. 15.) Korm. rendelettel (a továbbiakban: Módr102.) megállapított 6/R. §-át és 2. mellékletébenfoglalt táblázat B:42 mezőjét a Módr102. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
