@@ -84,7 +84,7 @@
 
 | 41. | Budapest VIII. kerületében megvalósuló ingatlanfejlesztés | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest VIII. kerület belterület 36795 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 42. | Telephely bővítésre és fejlesztésre irányuló beruházás Bük külterületén | Bük közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 04/11, 04/16, 04/17, 04/19, 04/45, 04/48, 04/57, 1471/1, 1474/2 és 1475/2 helyrajzi számú ingatlanok | Vas Megyei Kormányhivatalt vezető főispán |
+| 42. | Telephely bővítésre és fejlesztésre irányuló beruházás Bük külterületén | Bük közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 04/11, 04/16, 04/17, 04/19, 04/45, 04/48 és 04/57 helyrajzi számú, valamint belterület 1471/1, 1474/2 és 1475/2 helyrajzi számú ingatlanok | Vas Megyei Kormányhivatalt vezető főispán |
 
 | 43. | Telephely bővítésére és fejlesztésére irányuló beruházás Foktő külterületén | Foktő közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 07/2 helyrajzi számú ingatlan. | Bács-Kiskun megyei Kormányhivatalt vezető főispán |
 
@@ -228,8 +228,8 @@
 
 | 105. | Csomagfeldolgozó központ létrehozására irányuló beruházás Maglód külterületén | Maglód külterület 089/76, 089/77, 089/78, 089/80, 089/81, 089/82, 089/87, 089/88, 089/89 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^312]
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^314]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^312]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^314]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
