@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-168-20-
 | 2021-01-01 | 2014-168-20-22.13 | 665/2020. (XII. 28.) Korm. rendelet |
 | 2021-02-28 | 2014-168-20-22.14 | 328/2016. (X. 28.) Korm. rendelet |
 | 2021-03-13 | 2014-168-20-22.15 | 264/2015. (IX. 14.) Korm. rendelet |
+| 2022-11-17 | 2014-168-20-22.16 | 436/2022. (XI. 2.) Korm. rendelet |

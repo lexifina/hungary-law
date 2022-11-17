@@ -1,6 +1,6 @@
-## 1/A. §[^2] Az irányító hatóság a vidékfejlesztési műveletek irányítására és végrehajtására – külön megállapodásban foglaltak szerint – a Magyar Államkincstárt (a továbbiakban: Kincstár) és a megyei kormányhivatalt közbenső szervezetként jelölheti ki.
+## 1/A. §[^3] Az irányító hatóság a vidékfejlesztési műveletek irányítására és végrehajtására – külön megállapodásban foglaltak szerint – a Magyar Államkincstárt (a továbbiakban: Kincstár) és a megyei kormányhivatalt közbenső szervezetként jelölheti ki.
 
-## 2. §[^3] A Kincstár a Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a megyei kormányhivatalra az alábbi feladatokat ruházhatja át;
+## 2. §[^4] A Kincstár a Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a megyei kormányhivatalra az alábbi feladatokat ruházhatja át;
 
 a) a szőlőterületek szerkezet-átalakításának és -átállításának támogatásával kapcsolatos helyszíni ellenőrzése;
 
@@ -32,5 +32,5 @@ dc) évelő, lágy szárú energiaültetvények telepítése,
 
 dd) fiatal erdők állománynevelése.
 
-[^2]: Az 1/A. §-t a 466/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 328/2016. (X. 28.) Korm. rendelet – 379/2016. (XII. 2.) Korm. rendelet 326. § (1) bekezdésével megállapított – 20. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 2. § a 328/2016. (X. 28.) Korm. rendelet – 379/2016. (XII. 2.) Korm. rendelet 326. § (1) bekezdésével megállapított – 20. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1/A. §-t a 466/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 328/2016. (X. 28.) Korm. rendelet – 379/2016. (XII. 2.) Korm. rendelet 326. § (1) bekezdésével megállapított – 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § a 328/2016. (X. 28.) Korm. rendelet – 379/2016. (XII. 2.) Korm. rendelet 326. § (1) bekezdésével megállapított – 20. § (1) bekezdésével megállapított szöveg.

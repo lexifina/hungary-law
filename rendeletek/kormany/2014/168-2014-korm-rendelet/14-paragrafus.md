@@ -1,6 +1,6 @@
 ## 13. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-## 14. §[^35] E rendelet 12. §-a
+## 14. §[^43] E rendelet 12. §-a
 
 a) a burgonyaágazatban a piac stabilizálására irányuló intézkedésekről szóló megállapodások és határozatok engedélyezéséről szóló, 2020. április 30-i európai bizottsági (EU) 2020/593 végrehajtási rendelet,
 
@@ -10,4 +10,4 @@ c) a tej- és tejtermékágazatban a termelési tervekre vonatkozó megállapod�
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^35]: A 14. §-t a 284/2020. (VI. 17.) Korm. rendelet 73. §-a iktatta be.
+[^43]: A 14. §-t a 284/2020. (VI. 17.) Korm. rendelet 73. §-a iktatta be.
