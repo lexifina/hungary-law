@@ -1,1 +1,3 @@
-19. § Hatályát veszti a befogadó nemzeti támogatás részletes kormányzati feladatairól szóló 55/2010. (III. 11.) Korm. rendelet.
+19. §[^1]
+
+[^1]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
