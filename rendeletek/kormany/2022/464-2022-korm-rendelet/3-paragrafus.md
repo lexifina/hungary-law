@@ -1,1 +1,3 @@
-3. § Az R. 2. mellékletében foglalt táblázat B:42 mezőjében a „04/48, 04/57, 1471/1,” szövegrész helyébe a „04/48 és 04/57 helyrajzi számú, valamint belterület 1471/1,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
