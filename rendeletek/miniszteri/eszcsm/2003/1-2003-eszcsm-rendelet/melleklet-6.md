@@ -1,5 +1,3 @@
-## A magisztrális gyógyszerek kiszereléséhez szükséges, árunak minősülő, felszámítandó csomagolóanyagok
-
 ## – Műanyag flakon
 
 ## – Műanyag csavarmenetes önzáró kupak
@@ -39,3 +37,5 @@
 ## – Mélyhúzott, kemény PVC lemez kasírozott alufólia kúpok és tabletták csomagolásához
 
 6. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez
+
+Társadalombiztosítási támogatásban nem részesülő gyógyszeranyagok, ha vényen önmagukban rendeli az orvos

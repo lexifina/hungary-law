@@ -1,5 +1,3 @@
-## Társadalombiztosítási támogatásban nem részesülő gyógyszeranyagok, ha vényen önmagukban rendeli az orvos
-
 ## Acidum boricum
 
 ## Acidum citricum
@@ -32,7 +30,7 @@
 
 7. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez
 
-## A magisztrális gyógyszerek közfinanszírozás alapjául elfogadott ára részeként figyelembe vehető készítési díjak
+A magisztrális gyógyszerek közfinanszírozás alapjául elfogadott ára részeként figyelembe vehető készítési díjak
 
 I. Kimérés
 
