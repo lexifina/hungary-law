@@ -22,6 +22,8 @@ b) segédanyagai nem befolyásolják kedvezőtlenül a magisztrális gyógyszer 
 
 (9)[^76] Az egyedi előírat szerint rendelt gyógyszerek elkészítésénél a vonatkozó szakmai előírások szerint kell eljárni. A felhasznált segédanyag, segédanyagok mennyiségét a kiadáskor elektronikusan rögzíteni kell, és ezek általános forgalmi adót tartalmazó árát (fogyasztói ár) tételesen kell felszámítani. Ez vonatkozik arra az esetre is, ha a gyógyszerész a gyógyszert a rendelvénytől eltérően készíti el.
 
+(10)[^77] A FoNo-ban szereplő magisztrális gyógyszerhez a gyógyszer kiszolgáltatója papíralapú betegtájékoztatót mellékel, vagy a gyógyszer átvevőjének kérésére azt elektronikus formában bocsátja rendelkezésre.
+
 [^67]: A 12/A. §-t a 73/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be, szövege a 3/2014. (I. 16.) EMMI rendelet 8. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 60. § c) pontja, a 8/2018. (II. 13.) EMMI rendelet 22. § e) pontja szerint módosított szöveg.
 [^68]: A 13. § (1) bekezdése a 47/2005. (XI. 4.) EüM rendelet 9. § (1) bekezdésével megállapított, a 29/2017. (X. 31.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
 [^69]: A 13. § (2) bekezdése a 29/2017. (X. 31.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
@@ -32,3 +34,4 @@ b) segédanyagai nem befolyásolják kedvezőtlenül a magisztrális gyógyszer 
 [^74]: A 13. § (7) bekezdése a 29/2017. (X. 31.) EMMI rendelet 9. § (3) bekezdésével megállapított szöveg.
 [^75]: A 13. § (8) bekezdését a 47/2005. (XI. 4.) EüM rendelet 9. § (3) bekezdése iktatta be.
 [^76]: A 13. § (9) bekezdését a 47/2005. (XI. 4.) EüM rendelet 9. § (3) bekezdése iktatta be, szövege a 29/2017. (X. 31.) EMMI rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^77]: A 13. § (10) bekezdését a 38/2022. (XI. 10.) BM rendelet 3. §-a iktatta be.
