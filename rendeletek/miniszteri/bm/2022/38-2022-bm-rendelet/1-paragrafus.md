@@ -1,0 +1,11 @@
+## 1. A társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló 1/2003. (I. 21.) ESZCSM rendelet módosítása
+
+1. § (1) A társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló 1/2003. (I. 21.) ESZCSM rendelet (a továbbiakban: R1.) 6. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Az (1) bekezdés szerinti magisztrális gyógyszerek támogatásának megállapítása szempontjából a közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyag árat a bejelentett és közzétett legalacsonyabb – általános forgalmi adót nem tartalmazó (nettó) – termelői, import beszerzési árú gyógyszeranyag alapulvételével kell meghatározni. A közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyagok megnevezését az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) a GYR. 3. § (3) bekezdése szerinti közleménye tartalmazza. A támogatás értékének megállapításához szükséges bejelentést a forgalmazó a 2. számú melléklet szerinti adatlapon teheti meg, továbbá az adatlapon szereplő adatokat elektronikus formában küldheti be a gyógyszeranyagok gyártására vagy forgalmazására jogosító tevékenységi engedély másolatának egyidejű megküldésével.
+
+(3) A különböző forgalmazók által forgalmazott ugyanazon gyógyszeranyagok közül a legalacsonyabb árú – általános forgalmi adót tartalmazó (bruttó) – fogyasztói árának legfeljebb 50%-a a támogatás értéke. A NEAK a gyógyszeranyagok közfinanszírozás alapjául szolgáló árhoz nyújtott támogatásának összegét minden naptári év április 1. és október 1. napján honlapján közzéteszi. A NEAK az OGYÉI GYR. 3. § (3) bekezdése szerinti közleményébe újonnan felkerült gyógyszeranyagok vonatkozásában vagy árcsökkentés esetén a közlemény módosítását a bejelentést követő 40 napon belül teszi közzé. A közfinanszírozás alapjául elfogadott ár részeként figyelembe vehető gyógyszeranyagárnál alacsonyabb termelői, import beszerzési árú azonos gyógyszeranyag a fogyasztói ár alapján számított 50%-os mértékű támogatásban részesül.”
+
+(2) Az R1. 6. §-a a következő (8a) bekezdéssel egészül ki:
+
+„(8a) A FoNo VIII. előírásai alapján aszeptikusan készített szemcsepp esetén az elkészült szemcsepp adagok mennyiségét az elektronikus készletnyilvántartásba fel kell venni.”
