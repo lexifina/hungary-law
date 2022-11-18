@@ -38,29 +38,37 @@ az 1. pont b) alpontja tekintetében 2021. június 30.
 
 az 1. pont c) és d) alpontja tekintetében az adott évi központi költségvetés tervezése során
 
-3. egyetért azzal, hogy a Veszprémi Főegyházmegye részére
+3.[^7] egyetért azzal, hogy a Veszprémi Főegyházmegye részére
 
 a) a 2020. évben 17 833 937 202 forint,
 
 b) a 2021. évben 12 904 251 125 forint,
 
-c) a 2022. évben 3 276 908 864 forint,
+c) a 2022. évben
 
-d) a 2024. évben 5 005 200 000 forint
+ca) 2 621 500 000 forint,
 
-forrás kerüljön biztosításra;
+cb) 13 521 547 243 forint,
 
-4. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával gondoskodjon a Veszprémi Főegyházmegye veszprémi vár területén található műemlékegyüttesei felújítására és fejlesztésére irányuló program megvalósításához szükséges, 3. pont szerinti források ütemezett biztosításáról a központi költségvetés XI. Miniszterelnökség fejezetében;
+d) a 2023. évben 10 005 800 000 forint
 
-Felelős: pénzügyminiszter
+költségvetési forrás kerüljön biztosításra;
 
-a miniszterelnök általános helyettese
+4.[^8] felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese és a területfejlesztési miniszter bevonásával a Veszprémi Főegyházmegye veszprémi vár területén található műemlékegyüttesei felújítására és fejlesztésére irányuló program megvalósítása érdekében gondoskodjon
 
-Határidő: a 3. pont a) alpontja tekintetében a felmerülés ütemében
+a) a 3. pont a) alpontja szerinti forrás ütemezett biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezetében, valamint a 3. pont b) alpontja szerinti forrás ütemezett biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezetében,
 
-a 3. pont b) alpontja tekintetében 2021. június 30.
+b) a 3. pont c) alpont
 
-a 3. pont c) és d) alpontja tekintetében az adott évi központi költségvetés tervezése során
+ba) ca) pontja szerinti forrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 3. Egyházi működési, program és fejlesztési támogatások jogcímcsoport javára,
+
+bb) cb) pontja szerinti legfeljebb 13 528 308 017 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 3. Egyházi működési, program és fejlesztési támogatások jogcímcsoport javára,
+
+c) a 3. pont d) alpontja szerinti legfeljebb 10 011 803 480 forint forrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 4. Egyházi működési, program és fejlesztési támogatások jogcím javára;
+
+| Felelős: | pénzügyminiszter a miniszterelnök általános helyettese területfejlesztési miniszter |
+
+| Határidő: | a 3. pont a) alpontja tekintetében a felmerülés ütemében a 3. pont b) alpontja tekintetében 2021. június 30. a 3. pont c) alpont ca) pontja tekintetében a 2022. évi központi költségvetés tervezése során a 3. pont c) alpont cb) pontja tekintetében 2022. november 30. a 3. pont d) alpontja tekintetében 2023. január 31. |
 
 5. felhívja a Miniszterelnökséget vezető minisztert, hogy az Európa Kulturális Fővárosa 2023 Veszprém nyertes pályázati programja megvalósításának koordinálásáért felelős kormánybiztos bevonásával készítsen előterjesztést a Kormány részére az Európa Kulturális Fővárosa 2023 programsorozat ütemezett és eredményes előkészítéséhez és megvalósításához szükséges jogszabály-módosító javaslatokról.
 
@@ -76,3 +84,5 @@ Határidő: 2020. szeptember 15.
 [^4]: Az 1a. pont a) alpontja az 1320/2021. (V. 31.) Korm. határozat 3. pont a) alpontja, az 1743/2021. (X. 20.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
 [^5]: Az 1a. pont b) alpontja az 1320/2021. (V. 31.) Korm. határozat 3. pont b) alpontja, az 1743/2021. (X. 20.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
 [^6]: Az 1b. pontot az 1960/2020. (XII. 21.) Korm. határozat 2. pontja iktatta be.
+[^7]: A 3. pont az 1548/2022. (XI. 18.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: A 4. pont az 1548/2022. (XI. 18.) Korm. határozat 1. pontjával megállapított szöveg.
