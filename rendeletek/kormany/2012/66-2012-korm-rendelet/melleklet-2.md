@@ -258,6 +258,10 @@
 
 | 126. | isotonitazene | N,N-diethyl-2-[(4-(1-methylethoxy)phenyl) methyl]-5-nitro-1H-benzimidazole-1-ethanamine |
 
+| 127. | brorphine | 1-[1-[1-(4-bromophenyl)ethyl]-4-piperidinyl]-1,3-dihydro-2H-benzimidazol-2-one |
+
+| 128. | metonitazene | N,N-diethyl-2-[2-[(4-methoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]ethanamine |
+
 ## – és az ebben a jegyzékben felsorolt kábítószerek izomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – valamint az ebben a jegyzékben felsorolt kábítószerek észterei és éterei, amennyiben ilyen észterek és éterek előfordulnak, kivéve, ha azok egy másik jegyzékben szerepelnek;
@@ -741,6 +745,8 @@
 | 51. | CUMYL-PeGaClone | 2-(1-methyl-1-phenyl-ethyl)–5-pentyl-pyrido [4,3-b]indol-1-one (IUPAC), 5-pentyl-2-(2-phenylpropan-2-yl)–2,5-dihydro-1H-pyrido [4,3-b]indol-1-one, 2-cumyl-5-pentyl-gamma-carbolin-1-one |
 
 | 52. | MDMB-4en-PINACA | methyl 3,3-dimethyl-2-{[1-(pent-4-en-1-yl)–1H-indazole-3-carbonyl]amino}butanoate |
+
+| 53. | eutylone | 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
