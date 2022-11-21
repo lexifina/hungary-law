@@ -96,7 +96,7 @@
 
 ## Határidő: 2023. március 1.
 
-## i) felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az ahhoz szükséges intézkedések megtételéről, hogy az RRF forrásaiból kifizetésre kerüljön 1179,4 milliárd forint a kedvezményezettek és a szállítók részére;
+## i)[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az ahhoz szükséges intézkedések megtételéről, hogy az RRF forrásaiból kifizetésre kerüljön 345,1 milliárd forint a kedvezményezettek és a szállítók részére;
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
@@ -136,14 +136,15 @@
 
 ## Határidő: 2022. szeptember 15.
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
 1. melléklet az 1166/2022. (III. 21.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont i) alpontja az 1558/2022. (XI. 21.) Korm. határozat a) pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

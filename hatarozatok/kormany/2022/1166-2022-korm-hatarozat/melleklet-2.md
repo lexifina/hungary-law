@@ -20,20 +20,25 @@
 
 | 10. | Miniszterelnöki Kabinetiroda | Közigazgatás- és Közszolgáltatás-fejlesztési Operatív Program | 22,40 | 54,95 | 7,6 | 25,3 | 2,5 | 24,7 |
 
-| 11. | Agrárminisztérium | Magyar Halgazdálkodási Operatív Program | 1,20 | 4,5 | 1,0 | 3,0 | 0,0 | 0,0 |
+| 11. | Agrárminisztérium | Magyar Halgazdálkodási Operatív Program | 1,20 | 4,0[^5] | 1,0 | 3,0 | 0,0 | 0,0 |
 
 | 12. | Vidékfejlesztési Program | 270,15 | 514,54 | 96,0 | 208,0 | 3,5 | 10,5 |
 
-| 13. | Összesen (14–20 Operatív Programok) | 1104,00 | 3078,0 | 677,71 | 1507,5 | 242,8 | 1025,1 |
+| 13. | Összesen (14–20 Operatív Programok) | 1104,00 | 3077,5[^6] | 677,71 | 1507,5 | 242,8 | 1025,1 |
 
 | 14. | Külgazdasági és Külügyminisztérium | Hazai irányító hatósággal rendelkező, bilaterális Határmenti Európai Területi Együttműködési Programok | 9,20 | 41,4 | n.r. | n.r. | n.r. | n.r. |
 
-| 15. | Pénzügyminisztérium | Gazdaságfejlesztési és Innovációs Operatív Program Plusz |  |  | 156,8 | 288,1 |  |  |
+| 15. | Pénzügyminisztérium | Gazdaságfejlesztési és Innovációs Operatív Program Plusz |  |  | 156,8 | 212,9[^7] |  |  |
 
-| 16. | Terület- és Településfejlesztési Operatív Program Plusz |  |  | 300 | 400,0 |  |  |
+| 16. | Terület- és Településfejlesztési Operatív Program Plusz |  |  | 300 | 357,2[^8] |  |  |
 
-| 17. | Miniszterelnökség | Végrehajtás Operatív Program Plusz |  |  | 0 | 49,8 |  |  |
+| 17. | Miniszterelnökség | Végrehajtás Operatív Program Plusz |  |  | 0 | 13,2[^9] |  |  |
 
-2. melléklet az 1166/2022. (III. 21.) Korm. határozathoz[^4]
+2. melléklet az 1166/2022. (III. 21.) Korm. határozathoz[^10]
 
-[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. mellékletben foglalt táblázat D:11 mezője az 1558/2022. (XI. 21.) Korm. határozat b) pont ba) alpontjával megállapított szöveg.
+[^6]: Az 1. mellékletben foglalt táblázat D:13 mezője az 1558/2022. (XI. 21.) Korm. határozat b) pont bb) alpontjával megállapított szöveg.
+[^7]: Az 1. mellékletben foglalt táblázat F:15 mezője az 1558/2022. (XI. 21.) Korm. határozat b) pont bc) alpontjával megállapított szöveg.
+[^8]: Az 1. mellékletben foglalt táblázat F:16 mezője az 1558/2022. (XI. 21.) Korm. határozat b) pont bd) alpontjával megállapított szöveg.
+[^9]: Az 1. mellékletben foglalt táblázat F:17 mezője az 1558/2022. (XI. 21.) Korm. határozat b) pont be) alpontjával megállapított szöveg.
+[^10]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
