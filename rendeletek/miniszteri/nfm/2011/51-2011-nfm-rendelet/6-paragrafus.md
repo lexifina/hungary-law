@@ -6,9 +6,9 @@ a) az igénylési határnapot követő harmadik munkanapig az elkülönített sz
 
 b) az igénylési határnapot követő nyolcadik munkanapig a beérkezett és a kifizetett igények igénylőnkénti és összesített mértékéről.
 
-(2)[^18] A rendszerirányító az igénylési határnapot követő nyolcadik munkanapig összesítve megküldi a Hivatalnak a 4. § (2) és (7) bekezdése szerinti iratok egy-egy példányát.
+(2)[^19] A rendszerirányító az igénylési határnapot követő nyolcadik munkanapig összesítve megküldi a Hivatalnak a 4. § (2) és (7) bekezdése szerinti iratok egy-egy példányát.
 
-(3)[^19] A Hivatal minden év március 15. napjáig tájékoztatja az energiapolitikáért felelős minisztert a megelőző év vonatkozásában a támogatás tekintetében az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szerinti, bizottsági határozatra vonatkozó jelentéstételi kötelezettség teljesítéséhez szükséges adatokról.
+(3)[^20] A Hivatal minden év március 15. napjáig tájékoztatja az energiapolitikáért felelős minisztert a megelőző év vonatkozásában a támogatás tekintetében az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szerinti, bizottsági határozatra vonatkozó jelentéstételi kötelezettség teljesítéséhez szükséges adatokról.
 
-[^18]: A 6. § (2) bekezdése a 66/2011. (XI. 30.) NFM rendelet 11. § (3) bekezdése, az 59/2012. (X. 31.) NFM rendelet 13. § (3) bekezdése szerint módosított szöveg.
-[^19]: A 6. § (3) bekezdését az 59/2012. (X. 31.) NFM rendelet 10. §-a iktatta be.
+[^19]: A 6. § (2) bekezdése a 66/2011. (XI. 30.) NFM rendelet 11. § (3) bekezdése, az 59/2012. (X. 31.) NFM rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 6. § (3) bekezdését az 59/2012. (X. 31.) NFM rendelet 10. §-a iktatta be.
