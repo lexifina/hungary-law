@@ -1,0 +1,1 @@
+1. § A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet (a továbbiakban: Rendelet) 4. § (1) bekezdésében a „22. napját követő” szövegrész helyébe a „12. napját követő” szöveg lép.
