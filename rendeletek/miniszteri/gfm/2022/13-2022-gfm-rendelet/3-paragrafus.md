@@ -1,0 +1,5 @@
+3. § A 16/2017. (VI. 30.) NGM rendelet 7. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A befektetési vállalkozás megfelelő termékjóváhagyási folyamatot alkalmaz a befektetési vállalkozás által kínálni vagy ajánlani szándékozott terméknek és szolgáltatásnak az azonosított célpiac igényeivel, jellemzőivel és céljaival – ideértve a fenntarthatósággal kapcsolatos esetleges célkitűzéseket is – való összeegyeztethetősége érdekében, és azért, hogy a tervezett forgalmazási stratégia összhangban legyen az azonosított célpiaccal.
+
+(2) A befektetési vállalkozás megfelelően azonosítja és értékeli azon ügyfelek körülményeit és igényeit, akikre összpontosítani kíván, biztosítva, hogy az ügyfelek érdekei ne sérüljenek értékesítési vagy finanszírozási nyomásból eredően. E folyamat részeként a befektetési vállalkozás azonosítja azon ügyfélcsoportokat, amelyeknek igényei, jellemzői és céljai nem összeegyeztethetők a termékkel vagy szolgáltatással, kivéve, ha a pénzügyi eszközök fenntarthatósági tényezőket vesznek figyelembe.”
