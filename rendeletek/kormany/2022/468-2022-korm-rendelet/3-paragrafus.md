@@ -1,0 +1,1 @@
+3. § A veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény 28. §-ától eltérően 2023. december 31. napjáig nem kell a 14 év alatti szálláshely-szolgáltatást igénybe vevő okmányát bemutatni és az okmány azonosító adatait rögzíteni.

@@ -1,0 +1,1 @@
+6. § A szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló 239/2009. (X. 20.) Korm. rendelet 21/A. § (1) bekezdés f) és g) pontjában a „2023. január 1-ig” szövegrész helyébe a „2024. január 1-ig” szöveg lép.
