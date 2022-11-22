@@ -1,1 +1,3 @@
-2. § Hatályát veszti a Rendelet 5. § (6a) bekezdésében az „a 2021–2022-es fűtési időszakban várhatóan két hónapot meghaladó időtartamban” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
