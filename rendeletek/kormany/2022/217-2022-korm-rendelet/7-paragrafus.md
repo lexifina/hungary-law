@@ -12,7 +12,7 @@ jogosult, azzal, hogy a mikrovállalkozás az egyetemes szolgáltatótól – a 
 
 (3) Az (1) bekezdés b) pontjától eltérően nem jogosult egyetemes szolgáltatásra az a mikrovállalkozás, amely e rendelet hatálybalépésének napján nem egyetemes szolgáltatás keretében vásárol földgázt.
 
-(4)[^6]
+(4)[^6] Ha az épületben található önkormányzati vagy állami bérlakás, szállóférőhely, akkor az épület közös fogyasztását megvalósító, a távhőszolgáltatásról szóló törvény szerinti távhőtermelő létesítménynek nem minősülő gázfogyasztó készülék vonatkozásában felhasználónak minősülő jogalany (a továbbiakban: készüléküzemeltető) lakossági fogyasztónak minősül függetlenül attól, hogy a gázfogyasztó készülék egy vagy több épület közös fogyasztását valósítja meg. Ha az épületben az önkormányzati vagy állami bérlakás, szállóférőhely földgázfogyasztásának mérése közös mérővel történik, a közös mérés vonatkozásában felhasználónak minősülő jogalany lakossági fogyasztónak minősül.
 
 (5) A Get. alkalmazásában 2022. augusztus 1-jétől az önkormányzati és állami bérlakásban, valamint szállóférőhelyen élők felhasználási helyei ellátása biztosításának mértékéig a helyi önkormányzat és az állami bérlakás, valamint a szállóférőhely üzemeltetője lakossági fogyasztónak minősül.
 
@@ -21,5 +21,5 @@ jogosult, azzal, hogy a mikrovállalkozás az egyetemes szolgáltatótól – a 
 (7)[^7]
 
 [^5]: A 7. § (1) bekezdése a 324/2022. (VIII. 23.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^6]: A 7. § (4) bekezdését a 443/2022. (XI. 7.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^6]: A 7. § (4) bekezdését a 443/2022. (XI. 7.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte, újonnan a 470/2022. (XI. 21.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^7]: A 7. § (7) bekezdését a 443/2022. (XI. 7.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
