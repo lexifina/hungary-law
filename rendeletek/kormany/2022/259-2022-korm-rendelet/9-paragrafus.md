@@ -4,6 +4,6 @@
 
 (2) E rendeletben előírtak alkalmazása nem minősül a Rezsitv. 7. § (1) bekezdése szerinti szerződésszegésnek.
 
-(3)[^7] Az egyetemes szolgáltató által kibocsátott számlák tekintetében a Vet. 145. § (7) bekezdésében és a Get. 107/A. § (3) bekezdésében előírt rendelkezéseket nem kell alkalmazni.
+(3)[^9] Az egyetemes szolgáltató által kibocsátott számlák tekintetében a Vet. 145. § (7) bekezdésében és a Get. 107/A. § (3) bekezdésében előírt rendelkezéseket nem kell alkalmazni.
 
-[^7]: A 9. § (3) bekezdését a 324/2022. (VIII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^9]: A 9. § (3) bekezdését a 324/2022. (VIII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.

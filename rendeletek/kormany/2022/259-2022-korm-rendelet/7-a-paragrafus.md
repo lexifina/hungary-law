@@ -1,4 +1,4 @@
-## 4/A.[^3] A családi fogyasztói közösségekre vonatkozó kedvezmények
+## 4/A.[^4] A családi fogyasztói közösségekre vonatkozó kedvezmények
 
 7/A. § (1) Ha a társasháznak, lakásszövetkezetnek nem minősülő ingatlanon belül több, de legfeljebb négy önálló, az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 105. §-a szerinti lakás rendeltetési egység (a továbbiakban: lakás rendeltetési egység) található, a települési önkormányzat jegyzője (a továbbiakban: eljáró hatóság) kérelemre 8 napon belül hatósági bizonyítványt állít ki a lakás rendeltetési egységek számáról.
 
@@ -22,4 +22,4 @@
 
 (11) Ha a (7)–(9) bekezdés alapján indult eljárás azzal az eredménnyel zárul, hogy a hatósági bizonyítványban foglaltnál kisebb számú, ténylegesen kialakult lakás rendeltetési egység található az ingatlanon belül, az egyetemes szolgáltató megállapítja, hogy a felhasználó jogosulatlanul vette igénybe az (5) bekezdés alapján meghatározott kedvezményes többletmennyiséget a bejelentett és a tényleges lakás rendeltetési egységek különbözete vonatkozásában. Ebben az esetben a jogosulatlanul igénybe vett kedvezménnyel elszámolt földgáz mennyiséget az 5. § (2) bekezdése szerinti versenypiaci költségeket tükröző ár másfélszeresének megfelelő egységáron kell a felhasználóval elszámolni.
 
-[^3]: A 4/A. alcímet (7/A. §-t) a 345/2022. (IX. 9.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 4/A. alcímet (7/A. §-t) a 345/2022. (IX. 9.) Korm. rendelet 1. §-a iktatta be.
