@@ -18,6 +18,14 @@ I. Tulajdonosi joggyakorló: a gazdaságfejlesztési miniszter
 
 | 5. | Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság | 01-10-042085 | 2026. december 31. |
 
+| 6. | NFFKÜ – Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2026. december 31. |
+
+| 7. | OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-191989 | 2026. december 31. |
+
+| 8. | IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-980439 | 2026. december 31. |
+
+| 9. | Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-920343 | 2026. december 31. |
+
 II. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 |  | A | B | C |
@@ -126,6 +134,18 @@ VI. Tulajdonosi joggyakorló: az Építési és Beruházási Minisztérium
 
 | 9. | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 20-09-069758 | 2026. december 31. |
 
+| 10. | Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársaság | 08-10-001787 | 2026. december 31. |
+
+| 11. | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 01-10-042272 | 2026. december 31. |
+
+| 12. | KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-890710 | 2026. december 31. |
+
+| 13. | MAHART - PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2026. december 31. |
+
+| 14. | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2026. december 31. |
+
+| 15. | MAHART-Szabadkikötő Zrt. | 01-10-045276 | 2026. december 31. |
+
 VII. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
 |  | A | B | C |
@@ -145,6 +165,8 @@ VII. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 | 6. | Magyar Védelmi Exportügynökség Zártkörűen Működő Részvénytársaság | 01-10-141670 | 2026. december 31. |
 
 | 7. | HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság | 01-10-042134 | 2026. december 31. |
+
+| 8. | N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság | 01-10-141325 | 2026. december 31. |
 
 VIII. Tulajdonosi joggyakorló: az Igazságügyi Minisztérium
 
@@ -196,11 +218,19 @@ IX. Tulajdonosi joggyakorló: a Kulturális és Innovációs Minisztérium
 
 | 17. | Nemzeti Tehetség Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2026. december 31. |
 
-| 18. | IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-980439 | 2026. december 31. |
+| 18. |  |  |  |
 
 | 19. | ÓNTE Ópusztaszeri Nemzeti Történeti Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014162 | 2026. december 31. |
 
 | 20. | Hollóházi Hungarikum Nonprofit Korlátolt Felelősségű Társaság | 05-09-018918 | 2026. december 31. |
+
+| 21. | IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság | 01-10-047622 | 2026. december 31. |
+
+| 22. | BrainVisionCenter Nonprofit Korlátolt Felelősségű Társaság | 01-09-395007 | 2026. december 31. |
+
+| 23. | Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-968419 | 2026. december 31. |
+
+| 24. | Molekuláris- Ujjlenyomat Kutató Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-344208 | 2026. december 31. |
 
 X. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
@@ -224,7 +254,7 @@ X. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
 | 8. | Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság | 17-10-001282 | 2026. december 31. |
 
-| 9. | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság | 17-09-003039 | 2026. december 31. |
+| 9. |  |  |  |
 
 | 10. | Hunatom Innovációs és Gazdaságfejlesztési Zártkörűen Működő Részvénytársaság | 01-10-049752 | 2026. december 31. |
 
@@ -246,11 +276,11 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársaság | 08-10-001787 | 2026. december 31. |
+| 1. |  |  |  |
 
 | 2. | HUNGARORING Sport Zártkörűen Működő Részvénytársaság | 13-10-040464 | 2026. december 31. |
 
-| 3. | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 01-10-042272 | 2026. december 31. |
+| 3. |  |  |  |
 
 | 4. | MVM Energetika Zártkörűen Működő Részvénytársaság | 01-10-041828 | 2026. december 31. |
 
@@ -260,15 +290,15 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 | 7. | Nemzeti Vízművek Zártkörűen Működő Részvénytársaság | 01-10-141112 | 2026. december 31. |
 
-| 8. | IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság | 01-10-047622 | 2026. december 31. |
+| 8. |  |  |  |
 
 | 9. | Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság | 01-09-288404 | 2026. december 31. |
 
-| 10. | KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-890710 | 2026. december 31. |
+| 10. |  |  |  |
 
-| 11. | Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-968419 | 2026. december 31. |
+| 11. |  |  |  |
 
-| 12. | Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-920343 | 2026. december 31. |
+| 12. |  |  |  |
 
 | 13. | HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-048684 | 2026. december 31. |
 
@@ -276,28 +306,28 @@ XII. Tulajdonosi joggyakorló: a Technológiai és Ipari Minisztérium
 
 | 15. | Nyugat-Balkáni Zöld Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-343437 | 2026. december 31. |
 
-| 16. | Molekuláris-Ujjlenyomat Kutató Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-344208 | 2026. december 31. |
+| 16. |  |  |  |
 
-| 17. | NFFKÜ – Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2026. december 31. |
+| 17. |  |  |  |
 
-| 18. | OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-191989 | 2026. december 31. |
+| 18. |  |  |  |
 
-| 19. | BrainVisionCenter Nonprofit Korlátolt Felelősségű Társaság | 01-09-395007 | 2026. december 31. |
+| 19. |  |  |  |
 
-| 20. | N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság | 01-10-141325 | 2026. december 31. |
+| 20. |  |  |  |
 
 | 21. | Védelmi Innovációs Kutatóintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141703 | 2026. december 31. |
 
 | 22. |  |  |  |
 
-| 23. | MAHART – PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2026. december 31. |
+| 23. |  |  |  |
 
-| 24. | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2026. december 31. |
+| 24. |  |  |  |
 
-| 25. | MAHART-Szabadkikötő Zártkörűen Működő Részvénytársaság | 01-10-045276 | 2026. december 31. |
+| 25. |  |  |  |
 
 | 26. | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-09-116986 | 2026. december 31. |
 
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a szerint módosított szöveg.

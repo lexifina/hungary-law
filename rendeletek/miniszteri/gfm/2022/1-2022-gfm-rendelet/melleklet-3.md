@@ -14,7 +14,7 @@ I. Tulajdonosi joggyakorló: Magyar Turisztikai Ügynökség Zártkörűen Műk�
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Turisztikai Vagyonkezelő és Ingatlanüzemeltető Nonprofit Korlátolt Felelősségű Társaság | 01-09-921721 | 2026. december 31. |
+| 1. | EXPO 2025 Magyarország Nonprofit Korlátolt Felelősségű Társaság | 01-09-921721 | 2026. december 31. |
 
 | 2. | Kisfaludy2030 Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140072 | 2026. december 31. |
 
@@ -66,4 +66,12 @@ IV. Tulajdonosi joggyakorló: Nemzeti Sportügynökség Nonprofit Zártkörűen 
 
 V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése szerint módosított szöveg.
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | HSC Aerojet Zártkörűen Működő Részvénytársaság | 01-10-141410 | 2026. december 31. |
+
+VI. Tulajdonosi joggyakorló: Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság
+
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a szerint módosított szöveg.
