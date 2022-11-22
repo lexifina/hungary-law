@@ -1,11 +1,9 @@
-## 1. A 2014–2020 programozási időszakra vonatkozó indikatív támogatási keretösszegekről, valamint a kötelezettségvállalási szükségletről szóló 1207/2021. (IV. 29.) Korm. határozat [a továbbiakban: 1207/2021. (IV. 29.) Korm. határozat]
+## 1.[^2]
 
-## a) 2. melléklete helyébe az 1. melléklet,
+## 2.[^3]
 
-## b) 3. melléklete helyébe a 2. melléklet
+1. melléklet az 1559/2022. (XI. 21.) Korm. határozathoz[^4]
 
-## lép.
-
-## 2. A Kormány visszavonja az 1207/2021. (IV. 29.) Korm. határozat 2. pont b) alpontját.
-
-1. melléklet az 1559/2022. (XI. 21.) Korm. határozathoz
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
