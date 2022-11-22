@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-239-20-
 | 2021-09-01 | 2009-239-20-22.29 | 501/2021. (VIII. 18.) Korm. rendelet |
 | 2022-01-01 | 2009-239-20-22.30 | 501/2021. (VIII. 18.) Korm. rendelet |
 | 2022-07-01 | 2009-239-20-22.31 | 239/2022. (VI. 30.) Korm. rendelet |
+| 2022-11-22 | 2009-239-20-22.32 | 468/2022. (XI. 21.) Korm. rendelet |
