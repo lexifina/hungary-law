@@ -18,7 +18,7 @@
 
 ## i)[^7] a 272/2014. (XI. 5.) Korm. rendelet 44/C. § (4) bekezdése alapján hozzájárul az 1. melléklet 6. pontjában foglalt táblázat 2a. sora szerinti felhívás esetén – a felhívásnak a Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretének megállapításáról szóló 1011/2016. (I. 20.) Korm. határozat módosításáról szóló 1659/2021. (IX. 24.) Korm. határozattal megemelt keretösszege mértékéig – kötelezettségvállalás megtételéhez,
 
-## j)[^8] jóváhagyja a Versenyképes Közép-Magyarország Operatív Program 6. prioritása 41,59 milliárd forint összegű meghirdethető keretét, amely 13,49 milliárd forinttal haladja meg a Versenyképes Közép-Magyarország Operatív Program 6. prioritásának keretét,
+## j)[^8] jóváhagyja a Versenyképes Közép-Magyarország Operatív Program 6. prioritása 44,98 milliárd forint összegű meghirdethető keretét, amely 16,88 milliárd forinttal haladja meg a Versenyképes Közép-Magyarország Operatív Program 6. prioritásának keretét,
 
 ## k)[^9] egyetért a VEKOP 1., 2. és 5. prioritásai keretében kihelyezett európai uniós pénzügyi eszköz támogatásokból visszaforgó források terhére a VEKOP pénzügyi eszközökhöz kapcsolódó, elismert, de az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről szóló, 2014. március 3-i 480/2014/EU felhatalmazáson alapuló bizottsági rendelet 13. cikkében meghatározott díjazási maximumok miatt ki nem fizethető költségek megtérítésével.
 
@@ -26,23 +26,23 @@
 
 ## 1/A.[^11] A Kormány az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet (a továbbiakban: Kormányrendelet) 6/A. §-a alapján hozzájárul, hogy a Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretének megállapításáról szóló 1011/2016. (I. 20.) Korm. határozat módosításáról szóló 1479/2020. (VIII. 7.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 1a., 13. és 14. sora szerinti kiemelt projektek szakpolitikai felelőse által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
-## 1/B.[^12] A Kormány felhívja a pénzügyminisztert, hogy a Versenyképes Közép-Magyarország Operatív Program végrehajtásáért felelős irányító hatóság útján a Versenyképes Közép-Magyarország Operatív Program 4., 5. és 6. prioritásának a Gazdaságvédelmi Akcióterv keretében a 2014-2020 programozási időszakra vonatkozó indikatív támogatási keretösszegekről, valamint a kötelezettségvállalási szükségletről szóló 1152/2020. (IV. 14.) Korm. határozat szerinti maximális kötelezettségvállalási szintet meghaladó mértékű forrásigényének csökkentése érdekében
+## 1/B.[^12] A Kormány felhívja a területfejlesztési minisztert, hogy a Versenyképes Közép-Magyarország Operatív Program végrehajtásáért felelős irányító hatóság útján a Versenyképes Közép-Magyarország Operatív Program végrehajtása során
 
-## a) a Kormány jóváhagyását követően tegyen további kötelezettségvállalást a Versenyképes Közép-Magyarország Operatív Program 4., 5. és 6. prioritásán a felszabaduló források terhére,
+## a) a 2014–2020 programozási időszakra vonatkozó indikatív támogatási keretösszegekről, valamint a kötelezettségvállalási szükségletről szóló 1207/2021. (IV. 29.) Korm. határozat 2. és 4. pontja szerint szükséges kötelezettségvállalások mértékénél vegye figyelembe az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 1303/2013/EU rendelet 25a. cikke szerinti számviteli éveket érintő 100%-os mértékű társfinanszírozási arányt,
 
-## b) az éves fejlesztési keret további módosításai során tegyen javaslatot a Versenyképes Közép-Magyarország Operatív Program 4., 5. és 6. prioritás meghirdethető keretének az a) alpont szerinti felszabaduló források összegével megegyező mértékű csökkentésére,
+## b) tegyen javaslatot a Versenyképes Közép-Magyarország Operatív Program meghirdethető keretének az a) alpont szerinti indokolt mértékű csökkentésére,
 
-## c) gondoskodjon a Versenyképes Közép-Magyarország Operatív Program 4., 5. és 6. prioritása Európai Bizottságtól lehívható forrását meghaladó mértékű többletszámláknak a Versenyképes Közép-Magyarország Operatív Program többi prioritása – benne a REACT EU források felhasználásával felszabaduló forrása – terhére történő elszámolásáról az Európai Bizottság által kiadott programzárási útmutató alapján.
+## c) gondoskodjon a Versenyképes Közép-Magyarország Operatív Program érintett prioritásainak az a) alpont szerinti indokolt mértéktől eltérő kötelezettségvállalása esetén a többlet-kötelezettségvállalásoknak a Versenyképes Közép-Magyarország Operatív Program többi prioritása terhére történő elszámolásáról az Európai Bizottság által kiadott programzárási útmutató alapján.
 
-## Felelős: pénzügyminiszter
+## Felelős: területfejlesztési miniszter
 
 ## Határidő: folyamatos
 
-## 1/C.[^13] A Kormány a Kormányrendelet 6/A. §-a alapján úgy határoz, hogy a Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretének megállapításáról szóló 1011/2016. (I. 20.) Korm. határozat módosításáról szóló 1659/2021. (IX. 24.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 13. és 14. sora szerinti kiemelt projektek szakpolitikai felelőse által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályokat nem kell alkalmazni.
+## 1/C. [^13] A Kormány a Kormányrendelet 6/A. §-a alapján úgy határoz, hogy a Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretének megállapításáról szóló 1011/2016. (I. 20.) Korm. határozat módosításáról szóló 1659/2021. (IX. 24.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 13. és 14. sora szerinti kiemelt projektek szakpolitikai felelőse által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályokat nem kell alkalmazni.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^14]
+## 3. [^14]
 
 1. melléklet az 1011/2016. (I. 20.) Korm. határozathoz[^15]
 
@@ -70,13 +70,13 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 5a. | VEKOP-1.2.4-17 | Az üzleti infrastruktúra fejlesztésének támogatása Érden | 2,300 | területi | Meghirdetve 2017. márciusban |
 
-| 5b. | VEKOP-1.2.6-20 | A mikro-, kis- és középvállalkozások modern üzleti és termelési kihívásokhoz való alkalmazkodását segítő fejlesztések támogatása | 32,0 | egyszerűsített | Meghirdetve 2020. májusban |
+| 5b. | VEKOP-1.2.6-20 | A mikro-, kis- és középvállalkozások modern üzleti és termelési kihívásokhoz való alkalmazkodását segítő fejlesztések támogatása | 31,241 | egyszerűsített | Meghirdetve 2020. májusban |
 
 | 5c. | VEKOP-1.2.7-20 | Divat és Dizájnipari mikro-, kis- és középvállalkozások modern üzleti és termelési kihívásokhoz való alkalmazkodását segítő fejlesztések támogatása | 4,467 | egyszerűsített | Meghirdetve 2021. januárban |
 
-| 5d. | VEKOP-1.2.8-20 | Az egyszer használatos és egyéb műanyagtermékek forgalomba hozatalának korlátozásával érintett, valamint az ezeket helyettesítő termékek gyártásával foglalkozó vállalkozások technológiaváltásának és kapacitásbővítésének támogatása | 1,502 | egyszerűsített | Meghirdetve 2021. januárban |
+| 5d. | VEKOP-1.2.8-20 | Az egyszer használatos és egyéb műanyagtermékek forgalomba hozatalának korlátozásával érintett, valamint az ezeket helyettesítő termékek gyártásával foglalkozó vállalkozások technológiaváltásának és kapacitásbővítésének támogatása | 0,646 | egyszerűsített | Meghirdetve 2021. januárban |
 
-| 6. | VEKOP-1.3.1-16 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 1,23 | egyszerűsített | Meghirdetve 2016. áprilisban |
+| 6. | VEKOP-1.3.1-16 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 0,938 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
 | 7. | VEKOP-1.3.2-15 | Turisztikai szervezetek (TDM) fejlesztése | 0,04 | standard | Meghirdetve 2016. márciusban |
 
@@ -88,11 +88,11 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-2.1.1-15 | Vállalatok K+F+I tevékenységének támogatása | 19,97 | standard | Meghirdetve 2016. januárban |
+| 2. | VEKOP-2.1.1-15 | Vállalatok K+F+I tevékenységének támogatása | 18,485 | standard | Meghirdetve 2016. januárban |
 
 | 2a. | VEKOP-2.1.2-17 | Intelligens szakosodási kockázati tőkeprogram | 5,49 | pénzügyi eszköz | Meghirdetve 2017. márciusban |
 
-| 3. | VEKOP-2.1.7-15 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 10,20 | standard | Meghirdetve 2016. májusban |
+| 3. | VEKOP-2.1.7-15 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 9,7 | standard | Meghirdetve 2016. májusban |
 
 | 4. | VEKOP-2.2.1-16 | Versenyképességi és Kiválósági Együttműködések | 2,29 | standard | Meghirdetve 2016. decemberben |
 
@@ -108,9 +108,9 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-4.1.1-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 6,18 | kiemelt | Meghirdetve 2016. márciusban |
+| 2. | VEKOP-4.1.1-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 6,05 | kiemelt | Meghirdetve 2016. márciusban |
 
-| 3. | VEKOP-4.1.2-17 | Tematikus hálózatok fejlesztése | 1,13 | standard | Meghirdetve 2017. márciusban |
+| 3. | VEKOP-4.1.2-17 | Tematikus hálózatok fejlesztése | 1,26 | standard | Meghirdetve 2017. márciusban |
 
 | 4. | VEKOP-4.2.1-15 | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi bemutatás infrastruktúrájának javítása | 2,105 | kiemelt | Meghirdetve 2016. márciusban |
 
@@ -140,15 +140,15 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-6.1.1-15 | Kisgyermeket nevelő szülők munkavállalási aktivitásának növelése | 10,330 | területi | Meghirdetve 2016. márciusban |
+| 2. | VEKOP-6.1.1-15 | Kisgyermeket nevelő szülők munkavállalási aktivitásának növelése | 10,656 | területi | Meghirdetve 2016. márciusban |
 
-| 2a. | VEKOP-6.1.1-21 | Bölcsődei férőhelyek kialakítása, bővítése | 11,619 | területi | Meghirdetve 2021. januárban |
+| 2a. | VEKOP-6.1.1-21 | Bölcsődei férőhelyek kialakítása, bővítése | 12,764 | területi | Meghirdetve 2021. januárban |
 
-| 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 12,601 | területi | Meghirdetve 2016. márciusban |
+| 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 14,086 | területi | Meghirdetve 2016. márciusban |
 
 | 4. | VEKOP-6.2.2-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Pest megyében | 1,773 | területi | Meghirdetve 2016. márciusban |
 
-| 5. | VEKOP-6.3.1-16 | Gyermekotthonok kiváltása, korszerűsítése, hiányzó gyermekotthoni kapacitások létrehozása | 1,493 | standard | Meghirdetve 2016. júliusban |
+| 5. | VEKOP-6.3.1-16 | Gyermekotthonok kiváltása, korszerűsítése, hiányzó gyermekotthoni kapacitások létrehozása | 1,319 | standard | Meghirdetve 2016. júliusban |
 
 | 5a. | VEKOP-6.3.2-17 | Intézményi ellátásról a közösségi alapú szolgáltatásokra való áttérés fejlesztése – intézményi férőhely kiváltás | 0,606 | standard | Meghirdetve 2017. márciusban |
 
@@ -186,7 +186,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 7c. | VEKOP-7.3.5-17 | Iskolapad újratöltve – Második esély programok támogatása | 0,233 | standard | Meghirdetve 2017. októberben |
 
-| 7d. | VEKOP-7.3.6-17 | Lépj egy fokkal feljebb! – Továbbtanulást erősítő kezdeményezések támogatása | 0,385 | standard | Meghirdetve 2017. októberben |
+| 7d. | VEKOP-7.3.6-17 | Lépj egy fokkal feljebb! – Továbbtanulást erősítő kezdeményezések támogatása | 0,366 | standard | Meghirdetve 2017. októberben |
 
 | 8. | VEKOP-7.4.1-16 | Roma szakkollégiumok támogatása | 0,30 | standard | Meghirdetve 2016. márciusban |
 
@@ -202,17 +202,17 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 2. | VEKOP-8.1.1-15 | Út a munkaerőpiacra | 19,51 | kiemelt | Meghirdetve 2015. októberben |
 
-| 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 0,97 | standard | Meghirdetve 2017. februárban |
+| 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 0,972 | standard | Meghirdetve 2017. februárban |
 
 | 4. | VEKOP-8.2.1-15 | Ifjúsági Garancia a közép-magyarországi régióban | 8,03 | kiemelt | Meghirdetve 2015. augusztusban |
 
-| 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 0,464 | egyszerűsített | Meghirdetve 2016. áprilisban |
+| 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 0,462 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
 | 5a. | VEKOP-8.3.2-18 | Gyakornoki program a Közép-Magyarországi Régióban | 0,90 | egyszerűsített | Meghirdetve 2018. augusztusban |
 
 | 6. | VEKOP-8.5.1-17 | Idegen nyelvi készségek fejlesztése | 2,447 | standard | Meghirdetve 2017. márciusban |
 
-| 7. | VEKOP-8.5.2-17 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 1,070 | standard | Meghirdetve 2017. márciusban |
+| 7. | VEKOP-8.5.2-17 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 0,711 | standard | Meghirdetve 2017. márciusban |
 
 | 8. | VEKOP-8.5.3-17 | Munkahelyi képzések támogatása mikro, kis és középvállalatok munkavállalói számára | 2,639 | egyszerűsített | Meghirdetve 2017. márciusban |
 
@@ -246,19 +246,19 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 5d. | GINOP-5.3.16-VEKOP-20 | Veszélyhelyzeti bértámogatás kutatásfejlesztési munkahelymegőrzés céljából | 18,69 |
 
-| 5e. | GINOP 6.1.10-VEKOP-19 | A gazdaság fokozatváltását támogató innovatív képzések | 1,534 |
+| 5e. | GINOP 6.1.10-VEKOP-19 | A gazdaság fokozatváltását támogató innovatív képzések | 1,478 |
 
 | 6. | GINOP-6.2.1-VEKOP-15 | Részvétel az OECD Felnőttek Képesség- és Kompetenciamérése programjában (PIAAC) | 0,60 |
 
-| 7. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 0,76 |
+| 7. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 0,66 |
 
 | 8. |  |  |  |
 
-| 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 3,697 |
+| 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 3,935 |
 
 | 10. | GINOP-6.2.5-VEKOP-19 | A szakmai képzés digitális módszertanának egységesítése | 0,455 |
 
-| 11. | GINOP-6.2.8-VEKOP-20 | Egyes szakmák digitális tananyagfejlesztése | 3,20 |
+| 11. | GINOP-6.2.8-VEKOP-20 | Egyes szakmák digitális tananyagfejlesztése | 3,477 |
 
 | 12. | GINOP-6.2.9-VEKOP-20 | Ösztönzőrendszer kialakítása a szakképzésben | 1,095 |
 
@@ -280,7 +280,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 3. | EFOP-1.2.3-VEKOP-15 | Komplex ifjúsági fejlesztések – új nemzedék újratöltve | 1,50 |
 
-| 4. | EFOP-1.2.4-VEKOP-16 | Kríziskezelő szolgálatok fejlesztése | 0,35 |
+| 4. | EFOP-1.2.4-VEKOP-16 | Kríziskezelő szolgálatok fejlesztése | 0,32 |
 
 | 5. |  |  |  |
 
@@ -290,7 +290,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 7a. | EFOP-1.8.0-VEKOP-17 | Egészségügyi ellátórendszer szakmai módszertani fejlesztése | 7,45 |
 
-| 8. | EFOP-1.8.1-VEKOP-15 | Komplex népegészségügyi szűrések | 5,38 |
+| 8. | EFOP-1.8.1-VEKOP-15 | Komplex népegészségügyi szűrések | 5,37 |
 
 | 9. | EFOP-1.8.10-VEKOP-17 | Komplex egészségvédelem és szemléletfejlesztés a táplálkozás és gyógyszerfogyasztás területén | 0,60 |
 
@@ -308,15 +308,15 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 16. |  |  |  |
 
-| 17. | EFOP-2.2.4-VEKOP-16 | Területi gyermekvédelmi szakszolgáltatási feladatok infrastrukturális feltételeinek javítása | 0,10 |
+| 17. | EFOP-2.2.4-VEKOP-16 | Területi gyermekvédelmi szakszolgáltatási feladatok infrastrukturális feltételeinek javítása | 0,08 |
 
-| 18. | EFOP-2.2.6-VEKOP-16 | Pszichiátriai ellátórendszer strukturált fejlesztése | 0,81 |
+| 18. | EFOP-2.2.6-VEKOP-16 | Pszichiátriai ellátórendszer strukturált fejlesztése | 1,44 |
 
 | 19. |  |  |  |
 
 | 20. |  |  |  |
 
-| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztése és digitális tartalomfejlesztés | 1,31 |
+| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztése és digitális tartalomfejlesztés | 1,39 |
 
 | 21a | EFOP-3.2.15-VEKOP-17 | A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása | 3,17 |
 
@@ -324,7 +324,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 23. | EFOP-3.4.2-VEKOP-15 | Campus Mundi – felsőoktatási mobilitási és nemzetköziesítési program | 2,30 |
 
-| 24. | EFOP-3.4.5-VEKOP-17 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 0,45 |
+| 24. | EFOP-3.4.5-VEKOP-17 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 0,43 |
 
 | 24a. | EFOP-3.4.6-VEKOP-17 | Intézményi irányítás fejlesztése a felsőoktatásban | 1,00 |
 
@@ -469,11 +469,11 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 [^5]: Az 1. pont g) alpontját az 1122/2019. (III. 13.) Korm. határozat 1. pontja iktatta be, szövege a 2025/2020. (XII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
 [^6]: Az 1. pont h) alpontját az 1597/2019. (X. 16.) Korm. határozat 1. pontja iktatta be, szövege az 1297/2021. (V. 20.) Korm. határozat 1. pontjával megállapított szöveg.
 [^7]: Az 1. pont i) alpontját újonnan a 2025/2020. (XII. 24.) Korm. határozat 1. pontja iktatta be, szövege az 1659/2021. (IX. 24.) Korm. határozat 1. pontjával megállapított szöveg.
-[^8]: Az 1. pont j) alpontját újonnan az 1659/2021. (IX. 24.) Korm. határozat 2. pontja iktatta be.
+[^8]: Az 1. pont j) alpontját újonnan az 1659/2021. (IX. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1560/2022. (XI. 21.) Korm. határozat 1. pontjával megállapított szöveg.
 [^9]: Az 1. pont k) alpontját újonnan az 1659/2021. (IX. 24.) Korm. határozat 2. pontja iktatta be.
 [^10]: Az 1. pont l) alpontját újonnan a 2025/2020. (XII. 24.) Korm. határozat 1. pontja iktatta be, az 1297/2021. (V. 20.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^11]: Az 1/A. alpontot az 1479/2020. (VIII. 7.) Korm. határozat 2. pontja iktatta be.
-[^12]: Az 1/B. pontot a 2025/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be.
+[^12]: Az 1/B. pontot a 2025/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1560/2022. (XI. 21.) Korm. határozat 2. pontjával megállapított szöveg.
 [^13]: Az 1/C. pontot az 1659/2021. (IX. 24.) Korm. határozat 3. pontja iktatta be.
 [^14]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja, az 1306/2018. (VII. 4.) Korm. határozat 1. pont a) alpontja és a 2. pont a)–b) pontja, az 1620/2018. (XI. 27.) Korm. határozat 2. pont a)–b) alpontja, az 1122/2019. (III. 13.) Korm. határozat 2. pontja és 3. pont a) alpontja, az 1402/2019. (VII. 5.) Korm. határozat 3. pontja, az 1597/2019. (X. 16.) Korm. határoat 2. pont a) alpontja és 3. pontja, az 1479/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pontja, a 2025/2020. (XII. 24.) Korm. határozat 3–5. pontja, az 1297/2021. (V. 20.) Korm. határozat 2., 3. és 6. pontja, az 1659/2021. (IX. 24.) Korm. határozat 4. és 6. pontja, az 1898/2021. (XII. 13.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja, az 1306/2018. (VII. 4.) Korm. határozat 1. pont a) alpontja és a 2. pont a)–b) pontja, az 1620/2018. (XI. 27.) Korm. határozat 2. pont a)–b) alpontja, az 1122/2019. (III. 13.) Korm. határozat 2. pontja és 3. pont a) alpontja, az 1402/2019. (VII. 5.) Korm. határozat 3. pontja, az 1597/2019. (X. 16.) Korm. határoat 2. pont a) alpontja és 3. pontja, az 1479/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pontja, a 2025/2020. (XII. 24.) Korm. határozat 3–5. pontja, az 1297/2021. (V. 20.) Korm. határozat 2., 3. és 6. pontja, az 1659/2021. (IX. 24.) Korm. határozat 4. és 6. pontja, az 1898/2021. (XII. 13.) Korm. határozat 1. pontja, az 1560/2022. (XI. 21.) Korm. határozat 1-3. pontja szerint módosított szöveg.
