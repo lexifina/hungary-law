@@ -1,4 +1,4 @@
-1. melléklet a 182/2022. (V. 24.) Korm. rendelethez[^18]
+1. melléklet a 182/2022. (V. 24.) Korm. rendelethez[^50]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek, valamint területi kormányzati igazgatási szervek
 
@@ -146,8 +146,16 @@ K) Technológiai és ipari miniszter
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Nemzeti Akkreditáló Hatóság | irányítás |
+| 2 |  |  |
 
 | 3 | Országos Meteorológiai Szolgálat | irányítás |
 
-[^18]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja, a 337/2022. (IX. 7.) Korm. rendelet 9. §-a szerint módosított szöveg.
+L) Gazdaságfejlesztési miniszter
+
+|  | A | B |
+
+| 1 | A szerv neve | A miniszter hatásköre |
+
+| 2 | Nemzeti Akkreditáló Hatóság | irányítás |
+
+[^50]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja, a 337/2022. (IX. 7.) Korm. rendelet 9. §-a, a 467/2022. (XI. 21.) Korm. rendelet 15. §-a és 17. § (1) bekezdés h) pontja szerint módosított szöveg.

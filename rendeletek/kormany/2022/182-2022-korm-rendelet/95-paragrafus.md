@@ -16,4 +16,8 @@
 
 7. – a 30. § (2) bekezdésében, valamint a 48. § (2) bekezdésében meghatározott kivétellel – kulturális örökség védelméért
 
+8.[^6] közlekedésért
+
 felelős tagja.
+
+[^6]: A 95. § 8. pontját a 467/2022. (XI. 21.) Korm. rendelet 2. §-a iktatta be.

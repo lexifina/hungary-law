@@ -1,1 +1,3 @@
-163. § A miniszter a belgazdaságért való felelőssége keretében meghatározza a belgazdaság irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját.
+163. §[^34]
+
+[^34]: A 163. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés c) pontja hatályon kívül helyezte.

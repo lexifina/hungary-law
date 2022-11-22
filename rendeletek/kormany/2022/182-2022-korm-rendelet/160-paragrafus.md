@@ -1,37 +1,27 @@
 ## 15. A technológiai és ipari miniszter feladat- és hatásköre
 
-160. § A technológiai és ipari miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+160. §[^32] A technológiai és ipari miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
-1. iparügyekért,
+1. bányászati ügyekért,
 
-2. bányászati ügyekért,
+2. energiapolitikáért,
 
-3. belgazdaságért,
+3. környezetvédelemért,
 
-4. energiapolitikáért,
+4. körforgásos gazdaságra történő átállásért és a termékértéklánc-felügyeletért,
 
-5. környezetvédelemért,
+5. hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
 
-6. körforgásos gazdaságra történő átállásért és a termékértéklánc-felügyeletért,
+6. hulladékgazdálkodásért,
 
-7. hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
+7. hulladékgazdálkodás felügyeletéért,
 
-8. hulladékgazdálkodásért,
+8. a körforgásos gazdasághoz és a hulladékgazdálkodáshoz kapcsolódóan a fenntartható fejlődési feladatok összehangolásáért,
 
-9. hulladékgazdálkodás felügyeletéért,
+9. víziközmű-szolgáltatásért,
 
-10. a körforgásos gazdasághoz és a hulladékgazdálkodáshoz kapcsolódóan a fenntartható fejlődési feladatok összehangolásáért,
-
-11. közlekedésért,
-
-12. víziközmű-szolgáltatásért,
-
-13. nemzeti közműszolgáltatásokért,
-
-14. foglalkoztatáspolitikáért,
-
-15. felnőttképzésért,
-
-16. társadalmi párbeszédért
+10. nemzeti közműszolgáltatásokért
 
 felelős tagja.
+
+[^32]: A 160. § a 467/2022. (XI. 21.) Korm. rendelet 10. §-ával megállapított szöveg.

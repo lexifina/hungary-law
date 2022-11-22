@@ -1,11 +1,5 @@
-138. § (1) A miniszter a vállalkozásfejlesztésért való felelőssége keretében előkészíti a mikro-, kis- és középvállalkozásokra, fejlődésük támogatására, és a beruházások ösztönzésére vonatkozó jogszabályokat.
+138. §[^28] (1) A miniszter a felnőttképzésért való felelőssége keretében előkészíti a felnőttképzésre vonatkozó jogszabályokat, és működteti a pályakövetési rendszert.
 
-(2) A miniszter a vállalkozásfejlesztésért való felelőssége keretében
+(2) A miniszter a felnőttképzésért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.
 
-a) meghatározza a vállalkozásfejlesztés irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját és felel annak megvalósításáért és érvényesítéséért,
-
-b) előkészíti a mikro-, kis- és középvállalkozásokra, fejlődésük támogatására, és a beruházások ösztönzésére vonatkozó programokat, kezdeményezéseket, felel azok megvalósításáért és érvényesítéséért,
-
-c) együttműködik a gazdaságstratégia cél-, eszköz- és intézményrendszerének a kidolgozásában, valamint a nemzetközi pénzügyi kapcsolatokért felelős miniszterrel együttműködve a külföldi működőtőke-bevonási és külföldre irányuló tőkebefektetési politikának a fejlesztéspolitikával összhangban történő kialakításában,
-
-d) együttműködik a befektetés-ösztönzést segítő szervezetekkel, regionális fejlesztésekben érdekelt kockázati tőketársaságokkal és pénzügyi intézményekkel.
+[^28]: A 138. § a 467/2022. (XI. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

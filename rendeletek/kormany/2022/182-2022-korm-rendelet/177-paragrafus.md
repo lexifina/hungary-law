@@ -1,9 +1,3 @@
-177. § A miniszter a társadalmi párbeszédért való felelőssége keretében
+177. §[^41]
 
-a) összehangolja – a makroszintű társadalmi párbeszéd vonatkozásában – a kormányzati szervek érdekegyeztetéssel kapcsolatos tevékenységét,
-
-b) részt vesz a gazdasági, munkaügyi, foglalkoztatási, szakképzési, munkavédelmi, valamint fogyasztóvédelmi érdekegyeztetésben, továbbá ellátja a Kormány képviseletét a feladatköréhez tartozó érdekegyeztető testületekben, és figyelemmel kíséri az érdekegyeztetésben létrejött megállapodások végrehajtását,
-
-c) figyelemmel kíséri a munkaügyi kapcsolatok és az érdekegyeztetés folyamatait, a munkaügyi viták és konfliktusok feloldásának rendjét, és javaslatot dolgoz ki az érdekegyeztetés és a társadalmi párbeszéd intézmény- és fórumrendszerének továbbfejlesztésére,
-
-d) gondoskodik a civil szektorral való kapcsolattartás ágazati politikájának kialakításáról és megvalósításának összehangolásáról.
+[^41]: A 177. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés g) pontja hatályon kívül helyezte.

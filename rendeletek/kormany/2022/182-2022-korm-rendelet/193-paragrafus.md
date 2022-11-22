@@ -1,5 +1,5 @@
 ## 23. Hatályon kívül helyező rendelkezés
 
-193. §[^15]
+193. §[^46]
 
-[^15]: A 193. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 193. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

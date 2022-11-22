@@ -1,1 +1,3 @@
-175. § A miniszter a felnőttképzésért való felelőssége keretében előkészíti a felnőttképzésre vonatkozó jogszabályokat, és működteti a pályakövetési rendszert.
+175. §[^39]
+
+[^39]: A 175. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés f) pontja hatályon kívül helyezte.
