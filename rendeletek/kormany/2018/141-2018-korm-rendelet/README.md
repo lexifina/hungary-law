@@ -104,3 +104,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2022-09-08 | 2018-141-20-22.96 | 341/2022. (IX. 7.) Korm. rendelet |
 | 2022-10-21 | 2018-141-20-22.97 | 398/2022. (X. 20.) Korm. rendelet |
 | 2022-11-16 | 2018-141-20-22.98 | 314/2022. (VIII. 11.) Korm. rendelet |
+| 2022-11-23 | 2018-141-20-22.99 | 473/2022. (XI. 22.) Korm. rendelet |
