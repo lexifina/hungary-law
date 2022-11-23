@@ -6,7 +6,7 @@
 
 (2) Csapatzászló adományozható:
 
-a)[^51] az általános rendőrségi feladatok ellátására létrehozott szerv és annak szervezeti egységei, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, az idegenrendészeti szerv,
+a)[^73] az általános rendőrségi feladatok ellátására létrehozott szerv és annak szervezeti egységei, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, az idegenrendészeti szerv,
 
 b) a hivatásos katasztrófavédelmi szerv és annak szervezeti egységei,
 
@@ -28,4 +28,4 @@ részére.
 
 (5) A (2) bekezdés f) és g) pontjában meghatározott szervek részére a hivatásos katasztrófavédelmi szerv központi szervének vezetője is adományozhat csapatzászlót.
 
-[^51]: A 33. § (2) bekezdés a) pontja a 27/2019. (VI. 28.) BM rendelet 25. § b) pontja szerint módosított szöveg.
+[^73]: A 33. § (2) bekezdés a) pontja a 27/2019. (VI. 28.) BM rendelet 25. § b) pontja szerint módosított szöveg.

@@ -1,15 +1,15 @@
-55. § (1) Nem lehet elismerésben részesíteni, kitüntetésre, kitüntető címre vagy magasabb vezetői elismerésre felterjeszteni, ha az elöljáró parancsnoknak, munkáltatónak tudomása van arról, hogy az elismerésre javasolt
+55. §[^112] (1) Nem lehet elismerésben részesíteni, kitüntetésre, kitüntető címre vagy magasabb vezetői elismerésre felterjeszteni azt a személyt, aki
 
 a) ellen fegyelmi vagy büntetőeljárás van folyamatban;
 
-b) fegyelmi fenyítés, fegyelmi büntetés hatálya alatt áll;
+b) etikai büntetés hatálya alatt áll;
 
-c) ellen a bíróság felfüggesztett szabadságvesztés büntetést szabott ki, a próbaidő eredményes leteltéig;
+c) fegyelmi fenyítés, fegyelmi büntetés hatálya alatt áll;
 
-d) ellen a bíróság pénzbüntetést szabott ki, a jogerőre emelkedéstől számított legalább hat hónapig, illetve ha a bíróság próbára bocsátotta, a próbaidő tartama alatt;
+d) ellen a bíróság felfüggesztett szabadságvesztés büntetést szabott ki, a próbaidő eredményes leteltéig;
 
-e)[^76]
+e) ellen a bíróság pénzbüntetést szabott ki, a jogerőre emelkedéstől számított legalább hat hónapig, illetve ha a bíróság próbára bocsátotta, a próbaidő tartama alatt.
 
-(2) Az (1) bekezdésben foglaltaktól különösen kiemelkedő helytállás esetén az állományilletékes parancsnok, a munkáltatói jogkört gyakorló személy eltekinthet. A különösen kiemelkedő helytállást az állományilletékes parancsnok vagy a munkáltatói jogkört gyakorló személy külön írásban részletesen indokolja.
+(2) Az (1) bekezdésben foglaltaktól kiemelkedő helytállás esetén el lehet tekinteni. A különösen kiemelkedő helytállást írásban részletesen indokolni kell.
 
-[^76]: Az 55. § (1) bekezdés e) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 11. pontja hatályon kívül helyezte.
+[^112]: Az 55. § a 39/2022. (XI. 22.) BM rendelet 13. §-ával megállapított szöveg.

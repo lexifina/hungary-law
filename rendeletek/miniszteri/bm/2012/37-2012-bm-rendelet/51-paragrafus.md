@@ -1,6 +1,6 @@
-51. § (1)[^63] Kitüntetésre és az 1–26/B. §-ban meghatározott belügyminiszteri elismerésre beérkezett kezdeményezéseket – a 7., 8/A., 9., 9/B., 26., 26/A. és 26/B. §-okban meghatározott elismerések kivételével – a Belügyminisztérium Elismerési Bizottsága (a továbbiakban: Bizottság) véleményezi. Az elismerések adományozásáról, illetve a kitüntetésre előterjesztésről a Bizottság javaslata alapján a belügyminiszter dönt.
+51. § (1)[^93] Az állami, nemzeti ünnep alkalmából felterjesztett elismerési javaslatokat a Belügyminisztérium Elismerési Bizottsága (a továbbiakban: Bizottság) véleményezi. Az elismerés adományozásáról, illetve a kitüntetésre előterjesztésről a Bizottság javaslata alapján a belügyminiszter dönt.
 
-(2)[^64] A Bizottság vezetője a minisztérium parlamenti államtitkára. A Bizottság tagjai:
+(2)[^94] A Bizottság vezetője a minisztérium parlamenti államtitkára. A Bizottság tagjai:
 
 a) a minisztérium önkormányzati államtitkára,
 
@@ -12,14 +12,18 @@ d) a miniszter kabinetfőnöke,
 
 e) a minisztérium személyügyi helyettes államtitkára,
 
-f) a parlamenti államtitkár kabinetfőnöke és
+f)[^95]
 
 g) a BM Személyügyi Főosztály vezetője.
 
-(3)[^65] A Bizottság titkára a minisztérium személyügyi helyettes államtitkára.
+(3)[^96] A Bizottság titkára a minisztérium személyügyi helyettes államtitkára.
 
 (4) A Bizottság döntéseit többségi szavazattal hozza. A jelen rendeletben meghatározott eljárási rendtől eltérő, illetve a 25. mellékletben megjelölt adatokat nem tartalmazó kezdeményezést a Bizottság elutasítja.
 
-[^63]: Az 51. § (1) bekezdése az 51/2014. (XI. 26.) BM rendelet 16. § h) pontja, a 4/2018. (II. 23.) BM rendelet 8. § b) pontja szerint módosított szöveg.
-[^64]: Az 51. § (2) bekezdése az 51/2014. (XI. 26.) BM rendelet 13. §-ával megállapított szöveg.
-[^65]: Az 51. § (3) bekezdése az 51/2014. (XI. 26.) BM rendelet 13. §-ával megállapított szöveg.
+(5)[^97] A nem állami, nemzeti ünnep alkalmából felterjesztett elismerési javaslatokra a szakterületért felelős államtitkár a személyügyi helyettes államtitkár útján tesz javaslatot a belügyminiszternek.
+
+[^93]: Az 51. § (1) bekezdése a 39/2022. (XI. 22.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^94]: Az 51. § (2) bekezdése az 51/2014. (XI. 26.) BM rendelet 13. §-ával megállapított szöveg.
+[^95]: Az 51. § (2) bekezdés f) pontját a 39/2022. (XI. 22.) BM rendelet 17. § 4. pontja hatályon kívül helyezte.
+[^96]: Az 51. § (3) bekezdése az 51/2014. (XI. 26.) BM rendelet 13. §-ával megállapított szöveg.
+[^97]: Az 51. § (5) bekezdését a 39/2022. (XI. 22.) BM rendelet 11. § (2) bekezdése iktatta be.
