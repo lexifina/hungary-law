@@ -1,3 +1,3 @@
-3. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^108]
+3. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^70]
 
-[^108]: A 3. mellékletet az 1/2019. (I. 9.) EMMI rendelet 9. § b) pontja hatályon kívül helyezte.
+[^70]: A 3. mellékletet az 1/2019. (I. 9.) EMMI rendelet 9. § b) pontja hatályon kívül helyezte.
