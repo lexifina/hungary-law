@@ -1,3 +1,3 @@
-10. § Az R. 160. §-a helyébe a következő rendelkezés lép:
+10. §[^10]
 
-„160. § A technológiai és ipari miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

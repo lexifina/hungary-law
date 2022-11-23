@@ -1,3 +1,3 @@
-12. § Az R. a következő 197. §-sal egészül ki:
+12. §[^12]
 
-„197. § A Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. Ágazati szakmai és társadalmi szervezetek feladatai alcím, 3. Kormányzati szakpolitikák jogcímcsoport, 1. Kormányzati szakpolitikai feladatok, valamint nemzetgazdasági szakpolitikát támogató feladatok feladat, 1. Kormányzati szakpolitikai feladatok részfeladat kapcsán ellátott feladatok, megkötött szerződések és folyamatban levő közbeszerzési eljárások kapcsán 2022. november 22. napjával a Technológiai és Ipari Minisztérium jogutódja a Miniszterelnöki Kabinetiroda.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-13. §[^2]
+13. §[^13]
 
-[^2]: A 13. § a 18. § (2) bekezdés alapján 2022. december 1-jén lép hatályba.
+[^13]: A 13. § a 18. § (2) bekezdés alapján 2022. december 1-jén lép hatályba.

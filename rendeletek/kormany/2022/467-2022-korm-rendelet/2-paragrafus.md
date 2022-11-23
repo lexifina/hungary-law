@@ -1,3 +1,3 @@
-2. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet (a továbbiakban: R.) 95. §-a a következő 8. ponttal egészül ki:
+2. §[^2]
 
-[Az építési és beruházási miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

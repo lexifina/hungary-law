@@ -1,13 +1,3 @@
-1. melléklet a 467/2022. (XI. 21.) Korm. rendelethez
+1. melléklet a 467/2022. (XI. 21.) Korm. rendelethez[^20]
 
-Az R. 1. melléklete a következő L) ponttal egészül ki:
-
-„L) Gazdaságfejlesztési miniszter
-
-|  | A | B |
-
-| 1 | A szerv neve | A miniszter hatásköre |
-
-| 2 | Nemzeti Akkreditáló Hatóság | irányítás |
-
-”
+[^20]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
