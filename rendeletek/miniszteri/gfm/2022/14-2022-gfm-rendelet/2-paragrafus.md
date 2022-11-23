@@ -1,1 +1,3 @@
-2. § A Rendelet 3. melléklet I. pontjában foglalt táblázat A:1 mezőjében a „Turisztikai Vagyonkezelő és Ingatlanüzemeltető Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „EXPO 2025 Magyarország Nonprofit Korlátolt Felelősségű Társaság” szöveg lép.
+2. §[^4]
+
+[^4]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
