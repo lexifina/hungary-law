@@ -1,1 +1,0 @@
-7. § Ez a rendelet az (EU) 2017/593 felhatalmazáson alapuló irányelvnek a fenntarthatósági tényezőknek a termékirányítási kötelezettségekbe való integrálása tekintetében történő módosításáról szóló, 2021. április 21-i (EU) 2021/1269 bizottsági irányelvnek való megfelelést szolgálja.
