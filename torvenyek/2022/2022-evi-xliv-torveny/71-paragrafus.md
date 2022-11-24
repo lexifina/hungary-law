@@ -1,0 +1,3 @@
+71. § Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 15. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+(A Hatóság bejelentés alapján, panasz alapján, hivatalból vagy az ajánlatkérő kérésére a részben vagy egészben európai uniós forrásból megvalósuló vagy megvalósítani tervezett közbeszerzési eljárást megelőzően vagy annak lefolytatása során ajánlást adhat meghatározott ajánlatkérőnek, amelyben kéri az ajánlatkérőt, hogy részben vagy egészben egy adott európai uniós forrásból megvalósuló közbeszerzési eljárásban vagy részben vagy egészben bizonyos jövőbeli európai uniós forrásból megvalósuló közbeszerzési eljárásai során)

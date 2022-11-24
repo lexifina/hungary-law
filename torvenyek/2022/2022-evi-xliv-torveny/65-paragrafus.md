@@ -1,0 +1,1 @@
+65. § Hatályát veszti a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény 21/A. § (1) bekezdés b) pontjában a „valamint” szövegrész.
