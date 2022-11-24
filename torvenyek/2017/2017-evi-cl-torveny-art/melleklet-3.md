@@ -207,15 +207,3 @@
 ## 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó a kérelem benyújtását megelőző két éven belül
 
 ## 2.2.1. az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
-
-## 2.2.2. az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása miatt – véglegessé vált határozatban mulasztási bírsággal sújtotta,
-
-## 2.2.3. szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
-
-## 2.2.4. huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt vagy folyik ellene.
-
-## 2.3. A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
-
-## 2.4. Az eljáró adóhatóság vezetője az engedélyt a kizáró ok fennállása ellenére különös méltányosságból megadhatja, ha az engedély megadását kizáró ok nincs arányban az adózó gyakoribb elszámoláshoz fűződő méltányolható érdekével.
-
-## 3. A társasági adó

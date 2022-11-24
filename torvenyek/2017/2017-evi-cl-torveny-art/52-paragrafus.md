@@ -16,6 +16,8 @@ f) az adózó üzletvezetés helye belföld helyett külföldre változik és er
 
 g) az adózó az Európai Unió más tagállamában illetőséggel bíró gazdasági társasággal beolvadás útján, a társasági jog egyes változásairól szóló, 2017. június 14-i 2017/1132 európai parlamenti és tanácsi irányelv alapján egyesül.
 
+(1a) Nem terheli az (1) bekezdés e) pontja alapján az egyéni vállalkozót soron kívüli általános-forgalmiadó-bevallási kötelezettség, ha egyéni vállalkozói tevékenységének megszüntetése nem eredményezi általános forgalmi adó alanyiságának megszűnését.
+
 (2) A soron kívüli adóbevallást az éves elszámolású adókról – az általános forgalmi adó kivételével – az (1) bekezdés a) és b) pontjában meghatározott esetekben a Számv. tv.-ben a beszámoló készítésére előírt határidőn belül, az (1) bekezdés c)–g) pontjában meghatározott esetekben pedig a soron kívüli bevallási kötelezettséget kiváltó eseményt követő harminc napon belül kell benyújtani.
 
 (3) Az általános forgalmi adóról, valamint azokról az adókról, amelyeknél az adómegállapítási időszak egy hónap, egy negyedév, a bevallással még le nem fedett időszakról a soron kívüli adóbevallási kötelezettséget kiváltó eseményt követő harminc napon belül kell a bevallást benyújtani.

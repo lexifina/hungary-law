@@ -18,7 +18,7 @@ aa) az adószám megállapítása iránti kérelem benyújtásának napján az �
 
 ab) az adószám megállapítása iránti kérelem benyújtásának napját megelőző öt éven belül az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, ötmillió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében tízmillió forintot meghaladó adótartozással jogutód nélkül szűnt meg, vagy
 
-ac) adószámát az állami adó- és vámhatóság az adószám megállapítására irányuló kérelem benyújtásának napját megelőző öt éven belül a 227. § (3) bekezdésében és a 246. §-ban felsorolt okból, az ott meghatározott eljárásban jogerősen törölte,
+ac) adószámát az állami adó- és vámhatóság az adószám megállapítására irányuló kérelem benyújtásának napját megelőző öt éven belül a 227. § (3) bekezdésében és a 246. §-ban felsorolt okból, az ott meghatározott eljárásban jogerősen törölte, és az adószám megállapítására irányuló kérelem benyújtásáig nem állapította meg ismételten, ide nem értve a 246. § (9) bekezdése szerinti ismételt adószám megállapítást,
 
 b) az adószám megállapítása iránti kérelem benyújtásának napján az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, száznyolcvan napon keresztül folyamatosan fennálló, ötmillió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében tízmillió forintot meghaladó adótartozással rendelkezik, vagy
 
