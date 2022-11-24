@@ -1,0 +1,1 @@
+6. § Az e törvény hatálya alá tartozó adóegyezményeket kihirdető jogszabályok e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.

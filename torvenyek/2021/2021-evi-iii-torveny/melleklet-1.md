@@ -1110,6 +1110,8 @@ Ez a dokumentum a Magyarország által a ratifikációs okmány letétbe helyez�
 
 Az Egyezmény 2. Cikk (1) bekezdés (a) pont (ii) alpontjának megfelelően Magyarország a következő egyezményekre kívánja az Egyezményt alkalmazni:
 
+1X01352_0
+
 |
 
 Sorszám
@@ -3088,6 +3090,8 @@ Az Egyezmény 6. Cikkének (6) bekezdése alapján Magyarország a 6. Cikk (3) b
 
 Az Egyezmény 6. Cikkének (5) bekezdése alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartoznak a 6. Cikk (4) bekezdése szerinti fenntartás alá, és a 6. Cikk (2) bekezdése szerinti preambulum-szöveget tartalmazzák. Az érintett preambulum-bekezdések szövege a lentiekben található.
 
+1X01352_1
+
 |
 
 Felsorolt Megállapodások száma
@@ -4042,6 +4046,8 @@ a jövedelemadók területén,
 
 Az Egyezmény 6. Cikk (6) bekezdése alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartalmaznak a gazdasági kapcsolat fejlesztésére vagy az adóügyi együttműködés fokozására utaló szándékot kifejező preambulum-szöveget.
 
+1X01352_2
+
 |
 
 Felsorolt Megállapodás száma
@@ -4316,6 +4322,8 @@ Az Egyezmény 7. Cikk (17) bekezdés b) pontja alapján Magyarország a 7. Cikk 
 
 Az Egyezmény 7. Cikk (17) bekezdés a) pontja alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartoznak a 7. Cikk (15) bekezdés b) pontjában szereplő fenntartás hatálya alá, és a 7. Cikk (2) bekezdésében leírt rendelkezést tartalmazzák. E rendelkezések Cikk és bekezdés száma a lentiekben található.
 
+1X01352_3
+
 |
 
 Felsorolt egyezmény száma
@@ -4508,6 +4516,8 @@ Az Egyezmény 16. cikk (5) bekezdés (a) albekezdése alapján Magyarország fen
 
 Az Egyezmény 16. Cikk (6) bekezdés b) pont i) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények tartalmaznak olyan rendelkezést, amely szerint a 16. Cikk (1) bekezdés első mondatában említett esetet meghatározott időszakon belül kell előterjeszteni, ami rövidebb, mint három év a jelen Egyezmény hatálya alá tartozó adóegyezmények rendelkezéseinek meg nem felelő adóztatáshoz vezető intézkedésre vonatkozó első értesítést követően. E rendelkezések Cikk és bekezdés száma a lentiekben található.
 
+1X01352_4
+
 |
 
 Felsorolt egyezmények száma
@@ -4569,6 +4579,8 @@ Portugália
 25. Cikk (1) bekezdés, második mondat
 
 Az Egyezmény 16. Cikk (6) bekezdés b) pont ii) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények tartalmaznak olyan rendelkezést, amely szerint a 16. Cikk (1) bekezdés első mondatában említett esetet meghatározott időszakon belül kell előterjeszteni, ami legalább három év a jelen Egyezmény hatálya alá tartozó adóegyezmények rendelkezéseinek meg nem felelő adóztatáshoz vezető intézkedésre vonatkozó első értesítést követően. E rendelkezések Cikk és bekezdés száma a lentiekben található.
+
+1X01352_5
 
 |
 
@@ -5342,6 +5354,8 @@ Vietnám
 
 Az Egyezmény 16. Cikk (6) bekezdés c) pontjának i) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmény nem tartalmaz a 16. Cikk (4) bekezdés b) pontjának i) alpontja szerinti rendelkezést.
 
+1X01352_6
+
 |
 
 Felsorolt egyezmények száma
@@ -5359,6 +5373,8 @@ Másik Szerződő Fél
 Mexikó
 
 Az Egyezmény 16. Cikk (6) bekezdés c) pontjának ii) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartalmaznak a 16. Cikk (4) bekezdés b) pontjának ii) alpontja szerinti rendelkezést.
+
+1X01352_7
 
 |
 
@@ -5490,6 +5506,8 @@ Amerikai Egyesült Államok
 
 Az Egyezmény 16. Cikk (6) bekezdés d) pontjának i) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartalmaznak a 16. Cikk (4) bekezdés c) pontjának i) alpontja szerinti rendelkezést.
 
+1X01352_8
+
 |
 
 Felsorolt egyezmények száma
@@ -5515,6 +5533,8 @@ Ausztrália
 Franciaország
 
 Az Egyezmény 16. Cikk (6) bekezdés d) pontjának ii) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartalmaznak a 16. Cikk (4) bekezdés c) pontjának ii) alpontja szerinti rendelkezést.
+
+1X01352_9
 
 |
 
@@ -5553,6 +5573,8 @@ Brazília
 Fenntartás
 
 Az Egyezmény 17. Cikk (3) bekezdés a) pontja alapján Magyarország fenntartja a jogot, hogy a 17. Cikket annak teljességében ne alkalmazza azon érintett adóegyezményei tekintetében, amelyek már tartalmaznak a 17. Cikk (2) bekezdésének megfelelő rendelkezéseket. A következő egyezmények tartalmazzák e fenntartásnak megfelelő rendelkezéseket.
+
+1X01352_10
 
 |
 

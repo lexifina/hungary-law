@@ -1110,6 +1110,8 @@ Notification – Agreements Covered by the Convention
 
 Pursuant to Article 2(1)(a)(ii) of the Convention, Hungary wishes the following agreements to be covered by the Convention:
 
+1X01410_0
+
 |
 
 No
@@ -3176,6 +3178,8 @@ Notification of Existing Preamble Language in Listed Agreements
 
 Pursuant to Article 6(5) of the Convention, Hungary considers that the following agreements are not within the scope of a reservation under Article 6(4) and contain preamble language described in Article 6(2). The text of the relevant preambular paragraph is identified below.
 
+1X01410_1
+
 |
 
 Listed
@@ -4066,6 +4070,8 @@ Notification of Listed Agreements Not Containing Existing Preamble Language
 
 Pursuant to Article 6(6) of the Convention, Hungary considers that the following agreements do not contain preamble language referring to a desire to develop an economic relationship or to enhance co-operation in tax matters.
 
+1X01410_2
+
 |
 
 Listed Agreement Number
@@ -4340,6 +4346,8 @@ Notification of Existing Provisions in Listed Agreements
 
 Pursuant to Article 7(17)(a) of the Convention, Hungary considers that the following agreements are not subject to a reservation under Article 7(15)(b) and contain a provision described in Article 7(2). The article and paragraph number of each such provision is identified below.
 
+1X01410_3
+
 |
 
 Listed Agreement Number
@@ -4530,6 +4538,8 @@ Notification of Existing Provisions in Listed Agreements
 
 Pursuant to Article 16(6)(b)(i) of the Convention, Hungary considers that the following agreements contain a provision that provides that a case referred to in the first sentence of Article 16(1) must be presented within a specific time period that is shorter than three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement. The article and paragraph number of each such provision is identified below.
 
+1X01410_4
+
 |
 
 Listed Agreement Number
@@ -4591,6 +4601,8 @@ Portugal
 Article 25(1), second sentence
 
 Pursuant to Article 16(6)(b)(ii) of the Convention, Hungary considers that the following agreements contain a provision that provides that a case referred to in the first sentence of Article 16(1) must be presented within a specific time period that is at least three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement. The article and paragraph number of each such provision is identified below.
+
+1X01410_5
 
 |
 
@@ -5364,6 +5376,8 @@ Notification of Listed Agreements Not Containing Existing Provisions
 
 Pursuant to Article 16(6)(c)(i) of the Convention, Hungary considers that the following agreement does not contain a provision described in Article 16(4)(b)(i).
 
+1X01410_6
+
 |
 
 Listed Agreement Number
@@ -5381,6 +5395,8 @@ Other Contracting Jurisdiction
 Mexico
 
 Pursuant to Article 16(6)(c)(ii) of the Convention, Hungary considers that the following agreements do not contain a provision described in Article 16(4)(b)(ii).
+
+1X01410_7
 
 |
 
@@ -5512,6 +5528,8 @@ United States
 
 Pursuant to Article 16(6)(d)(i) of the Convention, Hungary considers that the following agreements do not contain a provision described in Article 16(4)(c)(i).
 
+1X01410_8
+
 |
 
 Listed Agreement Number
@@ -5537,6 +5555,8 @@ Australia
 France
 
 Pursuant to Article 16(6)(d)(ii) of the Convention, Hungary considers that the following agreements do not contain a provision described in Article 16(4)(c)(ii).
+
+1X01410_9
 
 |
 
@@ -5575,6 +5595,8 @@ Article 17 – Corresponding Adjustments
 Reservation
 
 Pursuant to Article 17(3)(a) of the Convention, Hungary reserves the right for the entirety of Article 17 not to apply to its Covered Tax Agreements that already contain a provision described in Article 17(2). The following agreements contain provisions that are within the scope of this reservation.
+
+1X01410_10
 
 |
 
