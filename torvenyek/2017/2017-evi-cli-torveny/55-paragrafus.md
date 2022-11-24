@@ -12,4 +12,4 @@ d) az idézni kívánt személy lakóhelyén nem működik olyan hatóság, amel
 
 e) azt az idézett személy kéri.
 
-(2) A fővárosban működő adóhatóság a főváros egész területéről idézhet.
+(2) Az adóhatóság a fővárosban működő adóhatóság hivatali helyiségébe a főváros egész területéről idézhet.

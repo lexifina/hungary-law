@@ -32,6 +32,8 @@ l) a visszatartási jog gyakorlásáról rendelkező, valamint
 
 m) a hatósági átvezetésről rendelkező
 
+n) az adatok zárt kezelésére irányuló kérelmet elutasító
+
 végzés ellen.
 
 (4) A visszavonó, illetve a módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a visszavont, illetve a módosított döntés ellen volt.
