@@ -1,6 +1,6 @@
 2. § A Jegyzőkönyv angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
-,,
+„,,
 
 Protocol
 
@@ -76,4 +76,4 @@ nevében
 
 A Lengyel Köztársaság
 
-nevében''
+nevében''”
