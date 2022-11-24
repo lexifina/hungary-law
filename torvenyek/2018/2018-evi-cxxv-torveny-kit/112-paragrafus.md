@@ -64,6 +64,8 @@ a) legkésőbb a kormányzati szolgálati jogviszony megszűnésének időpontj�
 
 b) a 107. § (2) bekezdés a) pontja szerinti érdemtelenség, a 107. § (2) bekezdés b) pontja szerinti nem megfelelő munkavégzés, a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén vagy a 166. § (5) bekezdése alapján a kormánytisztviselőt kérelmére mentették fel.
 
+c) a kormánytisztviselőt a 107. § (1) bekezdés f) pontja alapján mentették fel.
+
 (11) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít, végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét számításba kell venni.
 
 (12) Ha a kormánytisztviselő a jogviszony megszűnését vagy megszüntetését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít,

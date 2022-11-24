@@ -12,11 +12,19 @@ d) a kormányzati igazgatási szerv a feladatok hatékonyabb biztosítása érde
 
 e) a kormánytisztviselő nyugdíjasnak minősül;
 
-f)
+f) a kormánytisztviselő az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött,
 
 g) a kormánytisztviselő a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja,
 
 h)
+
+(1a) Az (1) bekezdés f) pontja szerinti esetben
+
+a) a lényeges adat, tény valótlanságát vagy mellőzésének tényét az Integritás Hatóság a 29/B. § (9c) bekezdése szerinti ellenőrzés során,
+
+b) a szándékosság fennállását a munkáltatói jogkör gyakorlója
+
+állapítja meg.
 
 (2) A kormányzati szolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
