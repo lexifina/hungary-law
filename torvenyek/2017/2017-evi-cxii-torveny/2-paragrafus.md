@@ -20,7 +20,7 @@ Therefore, with effect from 1 January 2016, with reference to paragraphs 1, 2 an
 
 The Ministry of Foreign Affaires of the Republic of Estonia avails itself of this opportunity to renew the Embassy of the Republic of Hungary the assurances of its highest consideration.
 
-Tallin, 25 November 2016”
+Tallin, 25 November 2016
 
 „Külügyminisztérium
 
