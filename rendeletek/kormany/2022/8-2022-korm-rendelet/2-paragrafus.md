@@ -2,4 +2,6 @@
 
 (2) A Kvtv. 2. melléklete egyes jogcímeihez kapcsolódó kiegészítő támogatás fajlagos összegét jogcímenként a 2. melléklet tartalmazza.
 
-(3) A kiegészítő támogatást a (2) bekezdés szerinti jogcímeken megalapozó mutatószámokat az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet alapján kiadott tájékoztató szerinti megalapozó felmérés keretében szolgáltatott adatok szerint kell figyelembe venni.
+(3)[^2] A kiegészítő támogatást a (2) bekezdés szerinti jogcímeken megalapozó mutatószámokat az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) alapján kiadott tájékoztató szerinti megalapozó felmérés keretében szolgáltatott adatok szerint kell figyelembe venni.
+
+[^2]: A 2. § (3) bekezdése a 472/2022. (XI. 21.) Korm. rendelet 1. §-ával megállapított szöveg.

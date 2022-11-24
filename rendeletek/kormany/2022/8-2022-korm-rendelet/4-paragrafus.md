@@ -1,0 +1,3 @@
+4. §[^6] A települési önkormányzatot a 2. § (2) bekezdése szerinti fajlagos összegek figyelembevételével megillető kiegészítő támogatás tényleges összegét az államháztartásról szóló 2011. évi CXCV. törvény 57. § (1) bekezdése szerinti, az éves költségvetési beszámolót megalapozó végleges adatszolgáltatásban szereplő mutatók alapján kell meghatározni. Az önkormányzat a 3. § (3) bekezdésében foglaltakhoz képest pótlólagosan megillető támogatást és visszafizetési kötelezettséget az éves költségvetési beszámolóban érvényesítheti.
+
+[^6]: A 4. § a 472/2022. (XI. 21.) Korm. rendelet 3. §-a szerint módosított szöveg.
