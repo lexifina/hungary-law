@@ -8,7 +8,7 @@ c) minőségellenőrzés során hozott véglegessé vált határozatban a minős
 
 d) kamarai minőségellenőrzés során hozott véglegessé vált határozatban a minősítés megvonását kezdeményezték,
 
-e) fegyelmi eljárás során keretében a minősítés megvonását kezdeményezték,
+e) fegyelmi eljárás során a minősítés megvonását kezdeményezték,
 
 f) a Magyar Nemzeti Bank a tőkepiacról szóló törvény, a biztosítási tevékenységről szóló törvény a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény, illetve a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény alapján a minősítés visszavonását kezdeményezte.
 

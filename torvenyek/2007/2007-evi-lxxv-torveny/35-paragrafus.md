@@ -11,3 +11,7 @@ d) a gazdálkodó szervezet (szervezet) jó üzleti hírnévvel rendelkezik,
 e) nem végez olyan tevékenységet, amely akadályozná a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásában,
 
 f) nem esik a 36. §-ban felsorolt kizáró okok alá.
+
+g) a gazdálkodó szervezet (szervezet) tevékenységi körében szerepel a számviteli, könyvvizsgálói, adószakértői tevékenység,
+
+h) az a) és b) pontban feltüntetett könyvvizsgáló(k) vonatkozásában nem áll fenn a Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:115. §-a szerinti összeférhetetlenség.

@@ -16,7 +16,7 @@ e) kizárás a kamarából, a könyvvizsgáló cég nyilvántartásból való t�
 
 (3) Figyelmeztetés alkalmazásának van helye akkor, ha a fegyelmi vétség miatt – az ügy összes körülményére tekintettel – fegyelmi büntetés kiszabása nem indokolt.
 
-(3a) A fegyelmi büntetések típusának és szintjének meghatározásakor az alábbi körülményeket kell figyelembe venni:
+(3a) A fegyelmi büntetések típusának és szintjének meghatározásakor különösen az alábbi körülményeket kell figyelembe venni:
 
 a) a jogsértés súlyosságát és időtartamát;
 

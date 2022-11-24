@@ -32,7 +32,7 @@ h) a felelős személynek és a jogsértés tényének (tartalmának, súlyossá
 
 (7b) A (7) bekezdés g) pontja szerinti eltiltás 3 évig terjedhet.
 
-(7c) Az intézkedések típusának és szintjének meghatározásakor az alábbi körülményeket kell figyelembe venni:
+(7c) Az intézkedések típusának és szintjének meghatározásakor különösen az alábbi körülményeket kell figyelembe venni:
 
 a) a jogsértés súlyosságát és időtartamát;
 
@@ -67,3 +67,5 @@ a) a könyvvizsgáló cég esetén, annak éves árbevételét,
 b) a kamarai tag könyvvizsgáló esetén, annak jövedelmi viszonyait (éves jövedelmét).
 
 (16) A közfelügyeleti hatóság a kamarai tag könyvvizsgálót a (15) bekezdés b) pontja szerinti jövedelmi viszonyai (éves jövedelme) igazolására szólíthatja fel. Amennyiben a kamarai tag könyvvizsgáló ennek nem tesz eleget, úgy a közfelügyeleti hatóság a Központi Statisztikai Hivatal által közzétett jövedelmi adatokra alapozva állapítja meg a pénzbírság mértékének megállapításakor figyelembe vett (becsült) éves jövedelmet.
+
+(17) A (7) bekezdés d) pontja szerinti intézkedés esetén a könyvvizsgálattal érintett gazdálkodó kérelmére a közfelügyeleti hatóság a minőségellenőrzéssel összefüggésben hozott határozatról kivonatot készít annak érdekében, hogy a gazdálkodó megfeleljen a beszámoló letétbe helyezéséről és közzétételéről szóló jogszabályokban előírtaknak. A határozatkivonat csak az abban meghatározott célra használható fel.

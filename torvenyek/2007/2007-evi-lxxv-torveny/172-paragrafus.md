@@ -16,7 +16,7 @@ f) a felelős személynek és a jogsértés tényének (tartalmának, súlyossá
 
 (3) Az (1) bekezdés e) pontja szerinti eltiltás 3 évig terjedhet
 
-(4) Az intézkedések típusának és szintjének meghatározásakor az alábbi körülményeket kell figyelembe venni:
+(4) Az intézkedések típusának és szintjének meghatározásakor különösen az alábbi körülményeket kell figyelembe venni:
 
 a) a jogsértés súlyosságát és időtartamát;
 

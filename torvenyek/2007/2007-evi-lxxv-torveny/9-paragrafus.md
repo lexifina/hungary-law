@@ -14,9 +14,11 @@ e) a 70 év feletti kamarai tag könyvvizsgálóknak a jogszabályi kötelezetts
 
 indított kamarai hatósági eljárásért.
 
-(3)–(4)
+(3)
 
-(5) Az (1) bekezdés szerinti igazgatási szolgáltatási díj összege természetes személy ügyfelek esetén 25 000 forint, gazdálkodó szervezetek (szervezetek) esetén 50 000 forint.
+(4)
+
+(5) Az (1) bekezdés szerinti igazgatási szolgáltatási díj összege természetes személy ügyfelek esetén 35 000 forint, gazdálkodó szervezetek (szervezetek) esetén 70 000 forint.
 
 (6) Az elsőfokú döntés ellen benyújtott fellebbezés díjköteles, melynek díja az (5) bekezdés szerinti igazgatási szolgáltatási díjak 50%-a.
 
