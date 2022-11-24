@@ -1,5 +1,3 @@
-## Közlekedési infrastruktúra-fejlesztéssel összefüggő feladatok
-
 | Sorszám | Projekt |
 
 | 1. | Az M2-es autóút 26+692 km szelvényben új félcsomópont megvalósítása [új gödi csomópont] |
@@ -14,7 +12,7 @@
 
 | 4.c | A déli út és az iparterület közötti útkapcsolat kialakítása [nyugati út] |
 
-2. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz[^19]
+2. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz[^21]
 
 Víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok
 
@@ -30,4 +28,4 @@ Víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összef�
 
 | 5. | A gödi ipari-innovációs fejlesztési terület és a váci szennyvíztelep közötti szennyvízvezeték építése |
 
-[^19]: A 2. melléklet az 1080/2021. (II. 27.) Korm. határozat 8. pontjával megállapított szöveg.
+[^21]: A 2. melléklet az 1080/2021. (II. 27.) Korm. határozat 8. pontjával megállapított szöveg.
