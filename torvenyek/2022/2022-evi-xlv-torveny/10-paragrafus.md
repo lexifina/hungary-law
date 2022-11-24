@@ -1,8 +1,8 @@
 10. § Az Szja tv.
 
-a) 3. § 63. pont a) alpontjában a „lévő járművel” szövegrész helyébe a „lévő vagy általa bérelt, lízingelt járművel” szöveg,
+a)
 
-b) 52. § (2) bekezdésében az „(1) bekezdés a) pontjában” szövegrész helyébe az „(1) bekezdésben” szöveg,
+b)
 
 c) 3. számú melléklet I. Jellemzően előforduló költségek rész 11. pontjában a „telefon, rádiótelefon, telefax, cb-rádió, telex” szövegrész helyébe a „telefon, mobiltelefon, telefax, cb-rádió, internet” szöveg,
 

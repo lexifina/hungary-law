@@ -1,7 +1,1 @@
-94. § (1) Az Art. 41. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány és a felsőoktatási intézmény az állami adó- és vámhatósághoz bejelenti azt a külföldi illetőségű természetes személyt, akinek a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyal vagy a felsőoktatási intézménnyel fennálló munkavégzésre irányuló jogviszonya alapján várhatóan személyi jövedelemadó-fizetési kötelezettsége keletkezik.”
-
-(2) Az Art. 41. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az (1) bekezdésben, illetve az (1a) bekezdésben meghatározott személy az állami adó- és vámhatósághoz bejelenti a székhelyére, telephelyére nem önálló tevékenység végzésére kirendelt, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyal vagy a felsőoktatási intézménnyel fennálló munkavégzésre irányuló jogviszonyban álló külföldi illetőségű természetes személy munkavégzése befejezésének időpontját és – ha az adat a munkavégzéssel kapcsolatban rendelkezésére áll – Magyarország területe elhagyásának időpontját. A bejelentést a munkavégzés befejezése, illetve az ország területe elhagyása előtt harminc nappal kell megtenni. Ha a munkavégzés befejezésének időpontja a munkavégzésre irányuló jogviszony azonnali hatályú megszűnése miatt vagy más okból e határidőben nem áll a bejelentésre kötelezett rendelkezésére, akkor a bejelentést a munkavégzés befejezése napját követő napon az ok megjelölésével kell az állami adó- és vámhatósághoz teljesíteni.”
+### 94. §

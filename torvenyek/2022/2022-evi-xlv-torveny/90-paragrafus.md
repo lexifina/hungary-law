@@ -1,11 +1,1 @@
-90. § A Tbj. 27. alcíme a következő 86/A. és 86/B. §-sal egészül ki:
-
-„86/A. § (1) Ha a foglalkoztató helyett a biztosítási jogviszony megszűnésének bejelentését az állami adó- és vámhatóság teljesítette az Art. 1. melléklet 3.2. pontja alapján, a biztosítási jogviszony megszűnésének időpontja az állami adó- és vámhatóság által teljesített bejelentésben megjelölt időpont.
-
-(2) Ha a foglalkoztatóról nyilvántartást vezető szerv – ideértve különösen a cégnyilvántartást, egyéni vállalkozói nyilvántartást, civil szervezetek névjegyzékét vezető szervet – által nyilvántartott adatok alapján a foglalkoztató jogutód nélkül megszűnt, és a foglalkoztatott biztosítási jogviszonyának megszűnését az Art. 1. melléklet 3.2. pontja szerint elmulasztotta bejelenteni, a biztosítási jogviszony megszűnésének időpontja az Art. 1. melléklet 3.5. pontjában meghatározott időpont.
-
-86/B. § (1) Ha a magánszemély a biztosítási jogviszony lezárásának a 86/A. § szerinti időpontját vitatja, egyeztetési eljárás lefolytatását kezdeményezheti az egészségbiztosítási szervnél, amely a rá irányadó jogszabályok szerint döntést hoz az egyeztetés eredményéről.
-
-(2) A biztosítottak nyilvántartásáért felelős szerv az (1) bekezdés szerinti egyeztetés eredményéről haladéktalanul elektronikus úton az Art. 1. melléklet 3. pontja szerinti biztosítási jogviszonyra vonatkozó adattartalommal adatszolgáltatást teljesít az állami adó- és vámhatóság részére.
-
-(3) Az állami adó- és vámhatóság a biztosítottak nyilvántartásáért felelős szerv (2) bekezdése szerinti adatszolgáltatása alapján elektronikus úton adatszolgáltatást teljesít a központi nyugdíjbiztosítási szerv részére.”
+### 90. §

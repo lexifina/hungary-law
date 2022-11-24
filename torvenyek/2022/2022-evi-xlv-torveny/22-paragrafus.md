@@ -1,8 +1,8 @@
 22. § Hatályát veszti a Tao. törvény
 
-a) 7. § (1) bekezdés l) pontjában a „ , de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet,” szövegrész,
+a)
 
-b) 7. § (32) bekezdése,
+b)
 
 c) 3. számú melléklet B) rész 1. pontjában a „[Tbj. 4. § f) pont]” szövegrész,
 

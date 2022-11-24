@@ -1,19 +1,19 @@
 53. § Hatályát veszti az Áfa tv.
 
-1. 142. § (1) bekezdés h) pontja,
+1.
 
-2. 142. § (1) bekezdés i) pontja,
+2.
 
-3. 142. § (1) bekezdés j) pontja,
+3.
 
-4. 142. § (8) bekezdése,
+4.
 
-5. 142. § (9) bekezdése,
+5.
 
-6. 3. számú melléklet I. részében foglalt táblázat 50. és 51. sora,
+6.
 
-7. 6/A. számú melléklete,
+7.
 
-8. 6/B. számú melléklete,
+8.
 
-9. 6/C. számú melléklete.
+9.
