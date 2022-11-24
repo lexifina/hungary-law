@@ -1,6 +1,6 @@
 2. § A Jegyzőkönyv hivatalos magyar nyelvű szövege a következő:
 
-,,
+„,,
 
 Jegyzőkönyv
 
@@ -70,4 +70,4 @@ Kormánya nevében
 
 Kanada Kormánya
 
-nevében''
+nevében''”
