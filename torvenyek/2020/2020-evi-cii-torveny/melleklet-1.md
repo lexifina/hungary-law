@@ -12,7 +12,7 @@ Ebből következően, 2018. január 1-jétől alkalmazhatóan a Lett Köztársas
 
 1. A jogdíj, amely az egyik Szerződő Államban keletkezik, és amelynek haszonhúzója a másik Szerződő Államban belföldi illetőségű személy, csak ebben a másik Szerződő Államban adóztatható.
 
-2. E cikk alkalmazásában a „jogdíj” kifejezés bármely olyan jellegű kifizetést jelent, amelyet irodalmi, művészeti vagy tudományos művek, ideértve a filmalkotást, szerzői jogának, bármilyen szabadalomnak, védjegynek, formatervezési vagy más mintának, tervnek, vagy titkos formulának vagy eljárásnak hasznosításáért vagy hasznosítási jogáért, valamint ipari, kereskedelmi vagy tudományos tapasztalatokra vonatkozó információért ellenértékként kapnak.”
+2. E cikk alkalmazásában a „jogdíj” kifejezés bármely olyan jellegű kifizetést jelent, amelyet irodalmi, művészeti vagy tudományos művek, ideértve a filmalkotást, szerzői jogának, bármilyen szabadalomnak, védjegynek, formatervezési vagy más mintának, tervnek, vagy titkos formulának vagy eljárásnak hasznosításáért vagy hasznosítási jogáért, valamint ipari, kereskedelmi vagy tudományos tapasztalatokra vonatkozó információért ellenértékként kapnak.
 
 A Lett Köztársaság Külügyminisztériuma megragadja ezt az alkalmat, hogy újból biztosítsa legmélyebb nagyrabecsüléséről Magyarország Külgazdasági és Külügyminisztériumát.
 
