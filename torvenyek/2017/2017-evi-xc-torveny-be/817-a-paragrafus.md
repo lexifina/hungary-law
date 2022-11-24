@@ -40,11 +40,11 @@ fb) pénzmosás (Btk. 399. és 400. §).
 
 (2) A közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt indult büntetőeljárásban e törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(3) Az e Fejezet szerinti eljárásban a felülbírálati indítványt előterjesztő, illetve a vádindítvány képviseletére jogosult személy jogi képviselete kötelező. A felülbírálati indítványt előterjesztő, illetve a vádindítvány képviseletére jogosult személy az írásbeli bejelentését, észrevételét és indítványát a jogi képviselője útján nyújthatja be.
+(3) Az e Fejezet szerinti eljárásban a felülbírálati indítványt előterjesztő személy, az ismételt felülbírálati indítványt előterjesztő személy, a 817/J. § (3) bekezdése szerinti esetben a 817/J. § (9) bekezdése szerint a vádindítvány képviseletére jogosult személykénti kijelölésre vonatkozó indítványt benyújtó személy, illetve a vádindítvány képviseletére jogosult személy jogi képviselete kötelező. A felülbírálati indítványt előterjesztő személy, az ismételt felülbírálati indítványt előterjesztő személy, a 817/J. § (3) bekezdése szerinti esetben a 817/J. § (9) bekezdése szerint a vádindítvány képviseletére jogosult személykénti kijelölésre vonatkozó indítványt benyújtó személy, illetve a vádindítvány képviseletére jogosult személy az írásbeli bejelentését, észrevételét és indítványát a jogi képviselője útján nyújthatja be.
 
-(4) Az e Fejezet szerinti eljárásban a felülbírálati indítványt előterjesztő személy költségkedvezmény iránti kérelmet nem terjeszthet elő.
+(4) Az e Fejezet szerinti eljárásban a felülbírálati indítványt előterjesztő személy, illetve az ismételt felülbírálati indítványt előterjesztő személy, a 817/J. § (3) bekezdése szerinti esetben a 817/J. § (9) bekezdése szerint a vádindítvány képviseletére jogosult személykénti kijelölésre vonatkozó indítványt benyújtó személy költségkedvezmény iránti kérelmet nem terjeszthet elő.
 
-(5) Az e Fejezet szerinti eljárásban a felülbírálati indítványt előterjesztő, illetve a vádindítvány képviseletére jogosult személy eljárási cselekményére megállapított határidő elmulasztása miatt igazolásnak nincs helye.
+(5) Az e Fejezet szerinti eljárásban a felülbírálati indítványt előterjesztő személy, az ismételt felülbírálati indítványt előterjesztő személy, a 817/J. § (3) bekezdése szerinti esetben a 817/J. § (9) bekezdése szerint a vádindítvány képviseletére jogosult személykénti kijelölésre vonatkozó indítványt benyújtó személy, illetve a vádindítvány képviseletére jogosult személy eljárási cselekményére megállapított határidő elmulasztása miatt igazolásnak nincs helye.
 
 (6) Nincs helye feltételes ügyészi felfüggesztés alkalmazásának
 

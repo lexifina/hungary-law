@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-90-00-00
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 2017-90-00-00.14 |
 | 2022-11-01 | 2022. évi VII. törvény | 2017-90-00-00.15 |
 | 2022-11-15 | 2022. évi XLI. törvény | 2017-90-00-00.17 |
+| 2022-11-24 | 2022. évi XLIV. törvény | 2017-90-00-00.18 |

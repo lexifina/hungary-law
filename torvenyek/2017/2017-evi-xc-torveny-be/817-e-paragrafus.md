@@ -10,7 +10,7 @@ b) jelentős számú felülbírálati indítványt terjesztettek elő,
 
 a bíróság a határidőt legfeljebb két hónappal meghosszabbíthatja. A bíróság az erről szóló határozatát a felülbírálati indítványt előterjesztő személy részére kézbesíti.
 
-(4) A 476. § (2) bekezdése alkalmazásának nincs helye.
+(4) A felülbírálati indítvány elbírálása során a 476. § (2) bekezdése alkalmazásának nincs helye.
 
 (5) A bíróság az összes felülbírálati indítványt együttesen bírálja el.
 

@@ -1,7 +1,15 @@
-817/Q. § (1) A vádindítvány képviseletére jogosult személy a bírósági eljárásban – ha e törvény másképp nem rendelkezik – az ügyészség jogait gyakorolja, és az ügyészség feladatait látja el, ideértve a vádlott személyi szabadságát érintő kényszerintézkedés elrendelésének, továbbá az elfogatóparancs kibocsátásának indítványozását. A vádindítvány képviseletére jogosult személy a vádat nem terjesztheti ki.
+## A bírósági eljárás szabályai a vádindítvány befogadását követően
 
-(2) A vádindítvány képviseletére jogosult személy a vádat bármikor ejtheti. A vád ejtését nem köteles indokolni. A bíróság az eljárást megszünteti, ha a vádindítvány képviseletére jogosult személy a vádat ejtette.
+817/Q. § (1) Ha a vádindítvány elutasításának nincs helye, a bíróság
 
-(3) A tárgyalás vezetése és rendjének fenntartása körében hozott határozat kivételével a határozatot közölni kell a vádindítvány képviseletére jogosult személlyel.
+a) azt haladéktalanul megküldi a vádlottnak,
 
-(4) A vádindítvány alapján folytatott ügyhöz más ügyet nem lehet egyesíteni, kivéve, ha a vádlottat korábban akár magánvádas, akár közvádas ügyben próbára bocsátották.
+b) gondoskodik arról, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak, illetve
+
+c) kényszerintézkedést rendelhet el.
+
+(2) A vádindítvány vádlottnak történő kézbesítését követően az eljárásban védő részvétele kötelező.
+
+(3) A vádlott és a védő a vádindítvány kézbesítése után jogosult az eljárás ügyiratainak a megismerésére.
+
+(4) Ha a vádlott az eljárásban nem a magyar nyelvet használta, a vádindítvány vádlottra vonatkozó részének az általa az eljárásban használt nyelvre történő lefordításáról a bíróság gondoskodik.

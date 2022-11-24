@@ -36,7 +36,7 @@ bd) az eljárás tárgyát képező bűncselekmény, több bűncselekmény eset�
 
 (6) Az anonimizált határozatnak az ügyészség vagy a nyomozó hatóság központi elektronikus tájékoztatásra szolgáló honlapján történt közzétételét követő egy hónapon belül – a gyanúsított, a védő, a sértett és a feljelentő kivételével – bármely természetes vagy nem természetes személy felülbírálati indítványt nyújthat be.
 
-(7) Az állam és a közhatalmat gyakorló szerv nem jogosult felülbírálati indítvány benyújtására, akkor sem, ha feljelentőként vagy sértettként vesz részt az eljárásban.
+(7) Az Integritás Hatóság kivételével az állam és a közhatalmat gyakorló szerv nem jogosult felülbírálati indítvány benyújtására, akkor sem, ha feljelentőként vagy sértettként vesz részt az eljárásban.
 
 (8) A sértett és a feljelentő kivételével a felülbírálati indítványt előterjesztő személy a felülbírálati indítvány benyújtása előtt az ügyiratok közül kizárólag az anonimizált határozatot, illetve az anonimizált ügyiratjegyzéket ismerheti meg.
 

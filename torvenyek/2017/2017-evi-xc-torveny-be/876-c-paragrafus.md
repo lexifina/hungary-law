@@ -1,1 +1,3 @@
-876/C. § E törvénynek a kondicionalitási eljárással összefüggésben a büntetőeljárásról szóló 2017. évi XC. törvény módosításáról szóló 2022. évi XLI. törvénnyel (a továbbiakban: 2022. évi XLI. törvény) megállapított rendelkezéseit a 2022. évi XLI. törvény hatálybalépését követően hozott, a feljelentés elutasításáról vagy az eljárás megszüntetéséről szóló határozatok vonatkozásában kell alkalmazni.
+876/C. § (1) A CV/A. Fejezetben meghatározott rendelkezések 2022. december 31. napjáig nem alkalmazhatók.
+
+(2) A CV/A. Fejezetben meghatározott rendelkezéseket a 2022. december 31-ét követően tett feljelentésekre és indult eljárásokban kell alkalmazni.

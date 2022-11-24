@@ -16,7 +16,7 @@ a) az ügyészség a felderítés során is a 26. § (3) bekezdésében meghatá
 
 b) az eljárást megszüntető határozat meghozatalára az irányítási jogkört gyakorló előzetes jóváhagyásával kerülhet sor,
 
-c) az eljárást megszüntető határozat ellen a sértett a 369. § (1) bekezdésétől eltérően panaszt nem nyújthat be, a korábban felülbírálati indítványt benyújtó sértett az e Fejezet rendelkezései szerint nyújthat be vádindítványt,
+c) az eljárást megszüntető határozat ellen a sértett a 369. § (1) bekezdésétől eltérően panaszt nem nyújthat be, a korábban felülbírálati indítványt benyújtó sértett az e Fejezet rendelkezései szerint nyújthat be ismételt felülbírálati indítványt,
 
 d) az eljárást megszüntető határozat hatályon kívül helyezésére hivatalból, illetve a gyanúsított, a védő, a vagyoni érdekelt vagy az egyéb érdekelt által az eljárást megszüntető határozat ellen bejelentett panasz elbírálása során akkor kerülhet sor, ha vádindítványt nem nyújtottak be.
 

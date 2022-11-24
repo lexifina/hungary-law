@@ -1,15 +1,13 @@
-## A bírósági eljárás szabályai a vádindítvány befogadását követően
+817/P. § (1) A bíróság nem ügydöntő végzésével a vádindítványt
 
-817/P. § (1) Ha a vádindítvány elutasításának nincs helye, a bíróság
+a) elutasítja, ha a vádindítványban vádlottként megjelölt személy a vádindítvány tárgyává tett bűncselekmény elkövetésével nem gyanúsítható megalapozottan,
 
-a) azt haladéktalanul megküldi a vádlottnak,
+b) részben elutasítja, ha a vádindítványban vádlottként megjelölt valamely személy a vádindítvány tárgyává tett bűncselekmény elkövetésével, vagy a vádindítványban vádlottként megjelölt személy a vádindítvány tárgyává tett valamely bűncselekmény elkövetésével nem gyanúsítható megalapozottan.
 
-b) gondoskodik arról, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak, illetve
+(2) Ha a vádindítvány vizsgálata során adat merül fel arra, hogy a vádindítványban vádlottként megjelölt személy mentességet élvező személy és a vádindítvány elutasításának az érintett esetében nincs helye, a bíróság indítványozza a mentesség felfüggesztésére jogosult döntését. Ha a mentesség felfüggesztésére jogosult a mentességet nem függeszti fel, a bíróság a vádindítványt elutasítja vagy részben elutasítja.
 
-c) kényszerintézkedést rendelhet el.
+(3) A vádindítvány megalapozottságának a vizsgálata során ülés nem tartható.
 
-(2) A vádindítvány vádlottnak történő kézbesítését követően az eljárásban védő részvétele kötelező.
+(4) Ha a bíróság a vádindítványt nem ügydöntő végzéssel elutasítja vagy részben elutasítja, a határozatát a vádindítvány képviseletére jogosult személynek kézbesíti.
 
-(3) A vádlott és a védő a vádindítvány kézbesítése után jogosult az eljárás ügyiratainak a megismerésére.
-
-(4) Ha a vádlott az eljárásban nem a magyar nyelvet használta, a vádindítvány vádlottra vonatkozó részének az általa az eljárásban használt nyelvre történő lefordításáról a bíróság gondoskodik.
+(5) Ha a bíróság a vádindítványt részben elutasítja, a vádindítvány képviseletére jogosult személy köteles a határozat kézbesítésétől számított tizenöt napon belül az elutasított vádindítványi részeket nem tartalmazó vádindítványt a bíróságnak ismételten benyújtani. Ha a vádindítvány képviseletére jogosult személy ezt elmulasztja, a bíróság az eljárást ügydöntő végzéssel megszünteti. Erre a nem ügydöntő végzésben a vádindítvány képviseletére jogosult személyt figyelmeztetni kell.

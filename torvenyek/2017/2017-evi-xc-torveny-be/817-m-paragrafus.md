@@ -1,27 +1,19 @@
-## A vádindítvány előzetes vizsgálata
+817/M. § (1) A vádindítványt a vádindítvány képviseletére jogosult személy
 
-817/M. § (1) A bíróság a vádindítványt nem ügydöntő végzéssel elutasítja, ha
+a) a bíróságnak az ismételt felülbírálati indítvány elbírálásáról hozott határozatának a kézbesítésétől, illetve
 
-a) a vádindítvány képviseletére jogosult személy a vádindítványt a törvényben meghatározott határidő eltelte után nyújtotta be,
+b) a 817/J. § (3) bekezdése szerinti esetben a bíróságnak a vádindítvány képviseletére jogosult személy 817/J. § (9) bekezdése szerinti kijelöléséről hozott végzés kézbesítésétől
 
-b) a vádindítvány képviseletére jogosult személynek nincs jogi képviselője,
+számított két hónapon belül nyújthatja be.
 
-c) a vádindítványt benyújtó személy e törvény alapján vádindítvány benyújtására nem jogosult,
+(2) A vádindítványt a 817/H. § (1) bekezdése szerinti határozatot hozó ügyészségnél vagy nyomozó hatóságnál kell benyújtani. A vádindítványt a beérkezésétől számított nyolc napon belül az ügyészség vagy az ügyészség útján a nyomozó hatóság az ügyiratokkal együtt továbbítja a 19–22. § alapján hatáskörrel és illetékességgel rendelkező bírósághoz. A bíróság illetékessége a 21. § (3) bekezdése alapján nem állapítható meg.
 
-d) a vádindítvány tárgyává tett cselekmény nem közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény,
+(3) A vádindítvány tartalmazza
 
-e) a vádindítvány nem tartalmazza a 817/L. § (3) bekezdés a) és b) pontjában meghatározottakat, illetve
+a) a 422. § (1) bekezdés a)–c) pontjában meghatározottakat,
 
-f) a vádindítványt nem a jogi képviselő útján nyújtották be.
+b) a 422. § (2) bekezdés a) pontjában meghatározottakat és
 
-(2) A vádindítvány képviseletére jogosult személy a vádindítvány elutasításáról rendelkező nem ügydöntő végzés kézbesítésétől számított tizenöt napon belül a vádindítványt ismételten benyújthatja, ha azt a bíróság az (1) bekezdés b), e) vagy f) pontja alapján utasította el, és az elutasítás oka már nem áll fenn.
+c) az egyes cselekmények, illetve részcselekmények bizonyításával összefüggő bizonyítási indítványokat.
 
-(3) A bíróság a vádindítványt nem utasíthatja el azon okból, hogy az nem tartalmazza a vádindítványban vádlottként megjelölt személynek a 184. § (2) bekezdésében felsorolt személyes adatait, és azok az ügyiratokból sem állapíthatók meg, ha a terhelt személyazonossága ezek hiányában is kétséget kizáróan megállapítható.
-
-(4) Az (1) bekezdés d) pontja nem alkalmazható, ha a vádindítvány tárgyává tett cselekmény olyan bűncselekmény, amely a vádindítvány tárgyává tett közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekménnyel szoros összefüggésben áll.
-
-(5) A vádindítvány előzetes vizsgálata során ülés nem tartható.
-
-(6) Ha a bíróság a vádindítványt nem ügydöntő végzéssel elutasítja, a határozatát a vádindítvány képviseletére jogosult személynek kézbesíti.
-
-(7) A vádindítvány elutasítása ellen fellebbezésnek nincs helye.
+(4) A vádindítványhoz csatolni lehet a vádindítvány képviseletére jogosult személy rendelkezésére álló, az álláspontja szerint az ügyben bizonyítandó tény bizonyítására alkalmas adatokat, iratokat, nyilatkozatokat.
