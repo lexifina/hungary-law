@@ -32,15 +32,15 @@ h) a korlátozott rendeltetésű fizetési számláról végrehajtott fizetési 
 
 i) a kincstárban vezetett, európai uniós támogatásokkal és elszámolásokkal, továbbá nemzetközi szervezetekkel történő elszámolásokkal kapcsolatos számlák terhére megvalósított fizetési művelet,
 
-j)
+j) a kincstár által az Áht. 79. § (2) bekezdés f) pontja alá tartozó kincstári körön kívüli számlatulajdonos számlái terhére végrehajtott, a hallgatói hitel folyósításához kapcsolódó fizetési művelet,
 
-k)
+k) az egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás, amennyiben a fizető fél számlatulajdonos természetes személy (az egyéni vállalkozói minőségében fizető természetes személy kivételével),
 
 l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet,
 
 m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla,
 
-n)
+n) a pénzforgalmi szolgáltató által vezetett fizetési számla terhére megvalósított fizetési művelet, feltéve, hogy a számla tulajdonosa kizárólag olyan természetes személy, jogi személy vagy egyéb jogi megállapodás (különösen a gazdasági társaság, a polgári jogi társasági szerződés, a bizalmi vagyonkezelési szerződés vagy az alapítvány), aki (amely) az Európai Unió más tagállama vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt,
 
 o)
 
@@ -52,4 +52,8 @@ r) a természetes személyek fizetési számlája és a kincstár által államp
 
 s)
 
-(5)
+(5) A (4) bekezdés n) pontja alkalmazása során a pénzforgalmi szolgáltató a nem magyar (a más tagállambeli vagy más állambeli) illetőség meghatározásához
+
+a) természetes személy esetén a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 7. számú melléklet 6. pontjában foglalt szabályokat veszi figyelembe,
+
+b) a jogi személy vagy egyéb jogi megállapodás esetén a székhely, illetve a tényleges üzletvezetés helye szerinti joghatóságot veszi figyelembe, azzal, hogy az olyan jogi személyt és az olyan egyéb jogi megállapodást, amely nem rendelkezik adóügyi illetőséggel, a tényleges üzletvezetési helye szerinti joghatóságban illetőséggel rendelkezőnek kell tekinteni.

@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-116-00-00
 | 2019-01-01 | 2018. évi LXXXII. törvény | 2012-116-00-00.16 |
 | 2019-07-24 | 2019. évi LXXIII. törvény | 2012-116-00-00.17 |
 | 2020-01-01 | 2019. évi LXXIII. törvény | 2012-116-00-00.18 |
+| 2022-11-24 | 2022. évi XLV. törvény | 2012-116-00-00.19 |

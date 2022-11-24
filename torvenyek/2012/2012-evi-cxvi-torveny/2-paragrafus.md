@@ -24,11 +24,11 @@
 
 11. kiemelt közvetítői tevékenység: a Hpt. szerint meghatározott kiemelt közvetítői tevékenység;
 
-12. korlátozott rendeltetésű fizetési számla: a Pft. 21. § (2) bekezdése, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. §-a alapján lekötött pénzösszeg, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény, a nyugdíj-előtakarékossági számlákról szóló 2005. évi CLVI. törvény hatálya alá tartozó számlák, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 81. § (1) bekezdésében meghatározott számlák és az azokkal összefüggésben vezetett elosztási számlák, a Kormány rendelete szerinti fedezetkezelői számlák, a letéti típusú számlák, valamint az online elszámolóházak fizetésközvetítésre fenntartott fizetési számlája;
+12. korlátozott rendeltetésű fizetési számla: a Pft. 21. § (2) bekezdése, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. §-a alapján lekötött pénzösszeg, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény, a nyugdíj-előtakarékossági számlákról szóló 2005. évi CLVI. törvény hatálya alá tartozó számlák, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 81. § (1) bekezdésében meghatározott számlák és az azokkal összefüggésben vezetett elosztási számlák, a Kormány rendelete szerinti fedezetkezelői számlák, a letéti típusú számlák, valamint az online elszámolóházak fizetésközvetítésre fenntartott fizetési számlája, valamint a helyi iparűzési adó devizában történő megfizetésével kapcsolatosan a kincstárban vezetett technikai számla;
 
 13. kölcsöntörlesztés: az a művelet, amelynek során a pénzforgalmi szolgáltató az ügyfele nála vezetett fizetési számláját kölcsönszerződés alapján fennálló követelése részbeni vagy teljes kielégítése céljából megterheli, továbbá az a művelet, amelynek során a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménnyel fennálló kölcsönszerződés alapján fennálló kötelezettségét házipénztárába vagy fizetési számlájára az ügyfele készpénz megfizetésével részben vagy teljesen kielégíti, ide nem értve a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetést;
 
-14.
+14. egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás: a Magyar Nemzeti Bank elnöke által – a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (2) bekezdés a) pontjában meghatározott felhatalmazás alapján – kiadott rendeletben meghatározott fizetési művelet;
 
 15. pénzforgalmi szolgáltatás: a Hpt. szerint meghatározott pénzforgalmi szolgáltatás;
 

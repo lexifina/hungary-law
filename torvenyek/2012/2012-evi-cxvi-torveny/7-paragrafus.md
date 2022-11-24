@@ -12,7 +12,7 @@ d)
 
 e) a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén – az f) pont szerinti kivétellel – 800 forint,
 
-f) érintés nélküli fizetési funkcióval rendelkező készpénz-helyettesítő fizetési eszköz ezen funkciójának használatával végrehajtott műveletet is tartalmazó, a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén 500 forint,
+f) az érintés nélküli fizetési funkcióval rendelkező készpénz-helyettesítő fizetési eszköz ezen funkciójának használatával végrehajtott műveletet is tartalmazó, a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén 500 forint,
 
 g)
 
