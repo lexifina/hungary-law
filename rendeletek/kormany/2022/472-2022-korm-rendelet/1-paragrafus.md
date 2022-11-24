@@ -1,0 +1,3 @@
+1. § A települési önkormányzatok által biztosított egyes közszolgáltatásokat érintő 2022. évi béremelésekhez nyújtott támogatásról szóló 8/2022. (I. 14.) Korm. rendelet [a továbbiakban: 8/2022. (I. 14.) Korm. rendelet] 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A kiegészítő támogatást a (2) bekezdés szerinti jogcímeken megalapozó mutatószámokat az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) alapján kiadott tájékoztató szerinti megalapozó felmérés keretében szolgáltatott adatok szerint kell figyelembe venni.”
