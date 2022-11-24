@@ -8,4 +8,6 @@ b) a bűncselekmény elkövetési eszközeinek és az abból származó jövedel
 
 c) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek
 
+d) a befagyasztást és az elkobzást elrendelő határozatok kölcsönös elismeréséről szóló az Európai Parlament és a Tanács 2018. november 14-i (EU) 2018/1805 rendeletnek
+
 való megfelelést szolgálja.
