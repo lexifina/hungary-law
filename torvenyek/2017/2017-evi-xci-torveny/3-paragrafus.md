@@ -1,6 +1,6 @@
 3. § A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar fordítása a következő:
 
-“MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON THE EXCHANGE OF COUNTRY-BY-COUNTRY REPORTS
+„“MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON THE EXCHANGE OF COUNTRY-BY-COUNTRY REPORTS
 
 Whereas, the jurisdictions of the signatories to the Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports (the “Agreement”) are Parties of, or territories covered by, the Convention on Mutual Administrative Assistance in Tax Matters or the Convention on Mutual Administrative Assistance in Tax Matters as amended by the Protocol (the “Convention”) or have signed or expressed their intention to sign the Convention and acknowledge that the Convention must be in force and in effect in relation to them before the automatic exchange of Country-by-Country (CbC) Reports takes place;
 
@@ -146,7 +146,7 @@ Co-ordinating Body Secretariat
 
 Unless otherwise provided for in the Agreement, the Co-ordinating Body Secretariat will notify all Competent Authorities of any notifications that it has received under this Agreement and will provide a notice to all signatories of the Agreement when a new Competent Authority signs the Agreement.
 
-Done in English and French, both texts being equally authentic.”
+Done in English and French, both texts being equally authentic.
 
 „AZ ORSZÁGONKÉNTI JELENTÉSEK CSERÉJÉRŐL SZÓLÓ ILLETÉKES HATÓSÁGOK KÖZÖTTI MULTILATERÁLIS MEGÁLLAPODÁS
 

@@ -8,13 +8,23 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 1b. Argentína
 
+1c. Aruba
+
 2. Ausztrália
 
-2a. Bahama-szigetek
+2a. Azerbajdzsán
 
 2b. Bahrein
 
+## 2b. Bahama-szigetek
+
 2c. Belize
+
+## 2c. Bahrein
+
+2d. Barbados
+
+2e. Belize
 
 3. Bermuda
 
@@ -76,7 +86,11 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 21. Liechtenstein
 
+21a. Makaó
+
 22. Malajzia
+
+22a. Maldív-szigetek
 
 23. Man-sziget
 
@@ -91,6 +105,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 26. Nigéria
 
 27. Norvégia
+
+27a. Omán
 
 28. Orosz Föderáció
 
@@ -112,9 +128,13 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 30a. Szingapúr
 
-30b. Tunézia
+30b. Törökország
 
 30c. Turks és Caicos-szigetek
+
+## 30c. Tunézia
+
+30d. Turks és Caicos-szigetek
 
 31. Új-Zéland
 
