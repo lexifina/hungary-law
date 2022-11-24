@@ -1,1 +1,0 @@
-## 6. § Az 1. § b)–d) pontjában meghatározott foglalkoztató szervezetnél a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult kijelöli a 4. § (2) bekezdés a) pontja és az Nbtv. 74. § i) pont io) alpontja szerinti jogviszonyt betöltők körét.
