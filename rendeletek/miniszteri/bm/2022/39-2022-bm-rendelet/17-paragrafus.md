@@ -1,9 +1,3 @@
-17. § Hatályát veszti az R.
+17. §[^18]
 
-1. 31. § (3) bekezdés a) pontjában a „vagy repült órát,” szövegrész, valamint az „ ; a repült órák száma” szövegrész,
-
-2. 37. § (5) bekezdése,
-
-3. 49. § (3) bekezdése,
-
-4. 51. § (2) bekezdés f) pontja.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-15. § Az R. 1. melléklete az 1. melléklet szerint módosul.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

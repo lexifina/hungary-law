@@ -1,3 +1,3 @@
-3. § Az R. 10. §-a a következő (4) bekezdéssel egészül ki:
+3. §[^4]
 
-„(4) A 6. §-ban meghatározott díjjal járó pénzjutalomnak az összege díjazottanként nettó 500 000 forint.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

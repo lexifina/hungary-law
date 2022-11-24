@@ -1,3 +1,3 @@
-8. § Az R. 37. §-a a következő (5a) bekezdéssel egészül ki:
+8. §[^9]
 
-„(5a) A külhoni magyar nyelvű nevelés-oktatás megerősítése érdekében, a magyar nyelvű nevelés-oktatás értékeinek megismertetésében és terjesztésében végzett kiemelkedő tevékenysége elismeréseként a 9/H–9/L. alcímben, valamint a 24/C. alcímben szereplő belügyminiszteri elismerés a magyarországi és a külföldi pedagógusok részére is adományozható.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
