@@ -8,7 +8,9 @@
 
 (2) Nem terheli adóelőleg:
 
-a)–b)
+a)
+
+b)
 
 c) a nyugdíj-előtakarékossági számla terhére teljesített nem-nyugdíj szolgáltatás esetében megállapított adóalapot,
 

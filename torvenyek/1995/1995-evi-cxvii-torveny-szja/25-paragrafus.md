@@ -16,4 +16,10 @@ közforgalmi úton mért oda-vissza távolság figyelembevételével kilométere
 
 (4) A magánszemély a munkahelye és a lakóhelye közötti útvonalra gépjárművel történő munkába járás címén költséget nem számolhat el.
 
-(5)–(8)
+(5)
+
+(6)
+
+(7)
+
+(8)

@@ -26,7 +26,9 @@ g) a törvény eltérő rendelkezésének hiányában a társas vállalkozás ta
 
 (2) Ha a biztosítás más személy által fizetett díja a befizetés időpontjában hatályos 1. számú melléklet 6. pont 6.9. alpontja alapján vagy a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás más személy által 2013. január 1-jét megelőzően fizetett díja az 1. számú mellékletnek a befizetés időpontjában hatályos 6. pont 6.3. alpontja alapján részben vagy egészben adómentes volt, akkor – függetlenül a biztosítási szerződés esetleges módosításától – a biztosító teljesítéséből (kivéve, ha a biztosító teljesítése a 1. számú melléklet 6. pont 6.6. alpontja alapján haláleseti, betegségbiztosítási vagy baleset-biztosítási szolgáltatásként adómentes) a kifizetőnek nem minősülő magánszemély által fizetett biztosítási díj, valamint az adóköteles biztosítási díj együttes összegét meghaladó rész egyéb jövedelemnek minősül. A biztosítói teljesítést megelőzően bevételcsökkentő tételként már figyelembe vett díjrészeket figyelmen kívül kell hagyni az egyéb jövedelem biztosítói teljesítés időpontjában történő további megállapítása során.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) Egyéb jövedelemnek minősül a vásárolt (engedményezett) követelésből származó bevételnek a követelés vásárlási (engedményezési) ellenértékét meghaladó része, kivéve, ha adókötelezettségének e törvény szerinti jogcíme egyébként megállapítható.
 
@@ -118,4 +120,8 @@ d) adózott követelésállomány alatt a számított követelésből az adókö
 
 a)–e)
 
-(20)–(22)
+(20)
+
+(21)
+
+(22)

@@ -264,7 +264,11 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 
-55–57.
+55.
+
+56.
+
+57.
 
 58.
 

@@ -138,7 +138,9 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 
 (20) Amennyiben a program szervezője és a programban érintett más vállalkozás között a kapcsolt vállalkozási viszony megszűnik, a kapcsolt vállalkozási viszony megszűnését követően az egyébként a programszervezőre irányadó, e paragrafus szerinti adókötelezettségeket – saját munkavállalói, vezető tisztségviselői vonatkozásában – a programban érintett más vállalkozás teljesíti. A programszervező a programban érintett más vállalkozás adókötelezettségei teljesítéséhez szükséges adatokat a kapcsolt vállalkozási viszony megszűnésekor a programban érintett más vállalkozás részére átadja. Az adókötelezettségek – felek közötti együttműködés hiánya miatti – megsértése esetén a jogkövetkezményekért a felek egyetemlegesen felelnek.
 
-(21)–(22)
+(21)
+
+(22)
 
 (22a)
 

@@ -20,6 +20,12 @@ b) amely – ha e törvény másként nem rendelkezik – ingatlant, ingó vagyo
 
 (4) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozónál önálló tevékenységből származó jövedelemnek minősül az egyéni vállalkozói tevékenység során személyes munkavégzés címén vállalkozói költségként elszámolt vállalkozói kivét, amellyel szemben költség, költséghányad vagy más levonás nem érvényesíthető.
 
-(5)–(6)
+(5)
 
-(7)–(9)
+(6)
+
+(7)
+
+(8)
+
+(9)

@@ -46,4 +46,10 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 
 (5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 89 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
 
-(6)–(9)
+(6)
+
+(7)
+
+(8)
+
+(9)

@@ -20,7 +20,11 @@ c) a tárgyi eszköz, a nem anyagi javak értékcsökkenési leírása megkezdé
 
 d) a c) pontban nem említett esetben: a vállalkozói osztalékalapnak a beruházási költséget képező kiadással első ízben történő csökkentése évét követő negyedik évben (ültetvény esetében annak elidegenítésekor, de legkésőbb a termőre fordulás évében) a vonatkozó beruházási költséget képező kiadások azon része, amellyel az egyéni vállalkozó ezt az évet megelőző években a vállalkozói osztalékalapját csökkentette, illetve ennél előbb az egyéni vállalkozói tevékenység megszüntetésekor.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 (6) Az adózás utáni vállalkozói jövedelem és a (2) bekezdésben említett tételek együttes összege, legfeljebb annak mértékéig csökkenthető
 
