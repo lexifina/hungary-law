@@ -1,12 +1,12 @@
 193. § (1) Az adóalany az alanyi adómentesség időszakában nem járhat el alanyi adómentes minőségében
 
-a) a 188. § (3) bekezdésének a)–d) pontjaiban meghatározott esetekben;
+a) a 188. § (3) bekezdésének a)–d) és h) pontjában meghatározott esetekben;
 
 b) a 11. és 12. § szerinti termékértékesítése esetében;
 
 c) a 14. § szerinti szolgáltatásnyújtása esetében;
 
-d) a külföldön teljesített szolgáltatásnyújtása esetében;
+d) a külföldön teljesített szolgáltatásnyújtása és a Közösség belföldtől eltérő területén teljesített 12/B. § szerinti termékértékesítése esetében;
 
 e) a terméknek a 19. § a) pontja szerinti Közösségen belüli beszerzése esetében, illetőleg abban az esetben sem, ha élt a 20. § (5) bekezdésében említett választási jogával, vagy ha a 20. § (7) bekezdése vonatkozik rá;
 

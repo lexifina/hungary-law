@@ -1,6 +1,6 @@
 ## Adófizetésre kötelezett termék Közösségen belüli beszerzése esetében
 
-143. § (1) Termék Közösségen belüli beszerzése esetében az adót – a (2) bekezdésben és a 144. §-ban meghatározott eltéréssel – a terméket beszerző
+143. § (1) Termék Közösségen belüli beszerzése esetében az adót – a (2) bekezdésben meghatározott eltéréssel – a terméket beszerző
 
 a) adóalany,
 

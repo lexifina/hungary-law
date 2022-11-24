@@ -15,3 +15,5 @@ c) az adott naptári évben, valamint – feltéve, hogy ilyen termékértékes�
 (3) Az (1) bekezdés szerinti feltételeknek megfelelő azon adóalany, aki (amely) a 45/A. § szerinti szolgáltatásokat nyújt és belföldön telepedett le gazdasági céllal, gazdasági célú letelepedés hiányában belföldön van lakóhelye vagy szokásos tartózkodási helye, vagy terméket belföldről ad fel küldeményként vagy fuvaroz el a Közösség másik tagállamába szóló rendeltetéssel, vagy a belföldön található termék küldeménykénti feladását, fuvarozását a Közösség másik tagállamába szóló rendeltetéssel a javára más végzi, az állami adó- és vámhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy nem az (1) bekezdést, hanem a 29. § a) pontját és a 45/A. §-t alkalmazza.
 
 (4) Az az adóalany, aki (amely) élt a (3) bekezdés szerinti választási jogával, attól a választása évét követő második naptári év végéig nem térhet el.
+
+(5) A (3) bekezdés alkalmazásában az állami adó- és vámhatóság részére történő bejelentésnek minősül, ha az adóalany élt a 253/I. § (1)–(2) bekezdés szerinti választási jogával.

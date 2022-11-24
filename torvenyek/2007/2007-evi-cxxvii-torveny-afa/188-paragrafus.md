@@ -32,4 +32,6 @@ f) a 86. § (1) bekezdésének a)–g) pontjai szerinti adómentes, kiegészít�
 
 g) a XIV. fejezetben szabályozott jogállású adóalanynak a mezőgazdasági tevékenysége körébe tartozó termékértékesítése, szolgáltatásnyújtása
 
+h) a 49/A. § (1) bekezdése szerinti eset kivételével a 12/B. § szerinti termékértékesítés
+
 fejében megtérített vagy megtérítendő ellenérték.
