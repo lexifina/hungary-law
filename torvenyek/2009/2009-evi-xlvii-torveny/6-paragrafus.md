@@ -8,9 +8,11 @@ b) a bíróság vele szemben bűnösséget megállapító jogerős ügydöntő h
 
 a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
 
-b) akivel szemben pótmagánvádas eljárás indult, továbbá
+b) akivel szemben pótmagánvádas eljárás indult,
 
-c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
+c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta, továbbá
+
+d) akivel szemben a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) CV/A. Fejezete szerinti eljárásban a vádindítványt nyújtottak be.
 
 (3) Az érintett arcképmását az a nyomozó hatóság vagy ügyészség küldi meg a bűnügyi nyilvántartó szervnek, amelyik a megalapozott gyanút a gyanúsítottal közölte.
 

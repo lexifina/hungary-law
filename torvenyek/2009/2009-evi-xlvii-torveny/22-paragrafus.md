@@ -4,6 +4,8 @@
 
 a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
 
-b) akivel szemben pótmagánvádló vádindítványa alapján indult eljárás, továbbá
+b) akivel szemben pótmagánvádló vádindítványa alapján indult eljárás,
 
-c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
+c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta, továbbá
+
+d) akivel szemben a Be. CV/A. Fejezete szerinti eljárásban vádindítványt nyújtottak be.
