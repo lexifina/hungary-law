@@ -1,6 +1,6 @@
 2. § A Jegyzőkönyv angol és magyar nyelvű szövege a következő:
 
-,,
+„,,
 
 Protocol
 
@@ -112,4 +112,4 @@ nevében
 
 Kuwait Állam
 
-nevében''
+nevében''”

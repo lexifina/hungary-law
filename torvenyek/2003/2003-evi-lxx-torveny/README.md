@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-70-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2003-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2003-70-00-00.1 |
+| 2022-11-24 | 2022. évi XLV. törvény | 2003-70-00-00.2 |
