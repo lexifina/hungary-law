@@ -64,11 +64,11 @@ egyes költségek, ráfordítások
 
 A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenység érdekében felmerült költségnek, ráfordításnak minősül különösen:
 
-1. az adózó által a vele munkaviszonyban álló magánszemély, vagy a vele korábban munkaviszonyban álló, saját jogú nyugdíjas [Tbj. 4. § f) pont] magánszemély, illetve az említett magánszemélyek özvegye, kiskorú közeli hozzátartozója részére juttatott segély;
+## 1. az adózó által a vele munkaviszonyban álló magánszemély, vagy a vele korábban munkaviszonyban álló, saját jogú nyugdíjas magánszemély, illetve az említett magánszemélyek özvegye, kiskorú közeli hozzátartozója részére juttatott segély;
 
 2. az adózó által üzletpolitikai (reklám) célból, magánszemélynek azonos feltételekkel és módon, nyilvános körülmények között adott kedvezmény, árengedmény, visszatérítés, termék, szolgáltatás révén nyújtott, a személyi jövedelemadóról szóló törvény szerinti juttatás, továbbá a termék megismertetése, forgalmának növelése céljából adott, a személyi jövedelemadóról szóló törvény szerinti áruminta;
 
-3. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, saját jogú nyugdíjas [Tbj. 4. § f) pont], valamint az említett magánszemélyek közeli hozzátartozója részére személyi jellegű egyéb kifizetésként elszámolt összeg, és az ahhoz kapcsolódó, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetés, figyelemmel az 1., 2., 8. és 12. pontban foglaltakra;
+## 3. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, saját jogú nyugdíjas, valamint az említett magánszemélyek közeli hozzátartozója részére személyi jellegű egyéb kifizetésként elszámolt összeg, és az ahhoz kapcsolódó, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetés, figyelemmel az 1., 2., 8., 9. és 12. pontban foglaltakra;
 
 4. az előzetesen felszámított, de az általános forgalmi adóról szóló törvény szerint le nem vonható általános forgalmi adó, feltéve, hogy a vállalkozás érdekében felmerült költséghez, ráfordításhoz kapcsolódik;
 
@@ -80,7 +80,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő tanuló, képzésben részt vevő személy;
 
-9. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, a Tbj. 4. § 17. pontja szerinti saját jogú nyugdíjas, valamint az említett magánszemélyek közeli hozzátartozója részére bármely módon biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár vásárlása, átadása, használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
+## 9. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló saját jogú nyugdíjas, valamint az említett magánszemélyek közeli hozzátartozója részére bármely módon biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár vásárlása, átadása, használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
 
 11. a tulajdonostárs által a társasházi közös tulajdonnal, a lakásszövetkezeti tulajdonnal kapcsolatos karbantartási és egyéb közös kiadásra (üzemeltetésre) elszámolt, tulajdoni hányaddal arányos költség; továbbá a lakásszövetkezetnél a cégbejegyzés előtt vállalt kötelezettség miatt felmerült költség, ráfordítás, feltéve, hogy az alapul szolgáló szerződést a közgyűlés utólag jóváhagyta;
 

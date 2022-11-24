@@ -95,3 +95,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2022-07-28 | 2022. évi XXIV. törvény | 1996-81-00-00.140 |
 | 2022-08-26 | 2022. évi XXIV. törvény | 1996-81-00-00.141 |
 | 2022-09-01 | 2022. évi XIII. törvény | 1996-81-00-00.142 |
+| 2022-11-24 | 2022. évi XLV. törvény | 1996-81-00-00.144 |

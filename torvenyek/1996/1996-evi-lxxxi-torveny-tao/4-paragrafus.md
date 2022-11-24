@@ -244,6 +244,8 @@ b) a korai fázisú vállalkozás nem minősül a 7. § (1) bekezdés m) pontja 
 
 30/c. szabályozott ingatlanbefektetési társaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési társaságként nyilvántartásba vett gazdasági társaság;
 
+30/d. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy;
+
 31. szabad vállalkozási zóna: a fejlesztési adókedvezmény iránti kérelem, illetve bejelentés benyújtásának időpontjában a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, a fejlesztés szempontjából együtt kezelt térség;
 
 31/a. számított nyilvántartási érték: az immateriális jószág, a tárgyi eszköz bekerülési értéke, csökkentve az adóalapnál érvényesített értékcsökkenési leírással, növelve az adóalapnál érvényesített terven felüli értékcsökkenés visszaírt összegével;

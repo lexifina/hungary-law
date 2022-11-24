@@ -1,3 +1,3 @@
 ## Az olimpiai pályázat támogatásának adókedvezménye
 
-22/D. §
+### 22/D. §

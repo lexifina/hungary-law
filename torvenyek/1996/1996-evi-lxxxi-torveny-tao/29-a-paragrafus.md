@@ -182,7 +182,7 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 
 (82) A (81) bekezdéstől eltérően az adózó a 2019. adóéve utolsó hónapja 20. napjáig az állami adó- és vámhatóság felé benyújtott nyilatkozatban tett választása szerint a 2019. adóévi társasági adóelőleg-kiegészítési kötelezettségre, továbbá ehhez kapcsolódva a 22. § (1)–(12) bekezdése szerinti támogatásra, a 22/C. § szerinti támogatásra, illetve a 24/A. § szerinti adóról való rendelkezésre a (81) bekezdésben említett rendelkezéseknek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvény hatálybalépését megelőző napon hatályos rendelkezéseit alkalmazza, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint a (81) bekezdésben említett rendelkezések hatálybalépésének vagy hatályon kívül helyezésének napja. Az e bekezdés szerinti választás a 2019. adóév utolsó hónapjának 20. napját követően nem módosítható és nem vonható vissza. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(83) A 2019. július 1. és 2022. december 31. közötti, a reklámadóról szóló törvény 11. §-a szerint meghatározott reklámadó-kötelezettséggel összefüggő költségre nem kell alkalmazni a 3. számú melléklet A) rész 16. pontját.
+(83) A 2019. július 1. és 2023. december 31. közötti, a reklámadóról szóló törvény 11. §-a szerint meghatározott reklámadó-kötelezettséggel összefüggő költségre nem kell alkalmazni a 3. számú melléklet A) rész 16. pontját.
 
 (84) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (5e) bekezdését és 18/D. § (10) bekezdését az adózó a rendelkezés hatálybalépésének napját magában foglaló adóévére vonatkozóan választása szerint alkalmazhatja.
 
@@ -229,3 +229,5 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 (105) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 12. § (2) bekezdés c) pontját és (3) bekezdés b) pontját az adózó választása szerint alkalmazhatja a 2022. adóévére.
 
 (106) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 18. § (9), (10), (10b), (11) és (12) bekezdését, továbbá a 16/A. § (8) bekezdését első alkalommal a 2022-ben kezdődő adóév adókötelezettsége megállapítása során kell alkalmazni.
+
+(107) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 5. § (7a) bekezdését, 7. § (1) bekezdés o) pontját és 20. § (1) bekezdés b) pontját az adózó választása szerint alkalmazhatja a 2022. adóévére.

@@ -4,4 +4,4 @@
 
 ## A külföldi szervezet adókötelezettségének teljesítése
 
-25. §
+### 25. §

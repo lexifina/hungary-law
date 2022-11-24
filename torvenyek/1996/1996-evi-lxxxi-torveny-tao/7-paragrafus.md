@@ -70,7 +70,7 @@ n) a követelésre az adóévben visszaírt értékvesztés, a követelés beker
 
 ny) legfeljebb az adóévet megelőző adóévben (adóévekben) a 8. § (1) bekezdés j) pontja alapján alkalmazott adóalap-növelő tételnek az adóévet megelőzően e rendelkezés szerint az adózó vagy jogelődje, valamint az átruházó társaság által figyelembe nem vett része, azzal, hogy az e rendelkezés szerint csökkentésként figyelembe vett összeg nem haladhatja meg az adóévi kamatlevonási kapacitás összegét,
 
-o) a társasház, a társasüdülő (a továbbiakban: társasház) tulajdonostársainak közössége által a közös név alatt megszerzett olyan jövedelemből való részesedés alapján az adózó által az adóévben bevételként elszámolt összeg, amely jövedelemre vonatkozóan a társasház a személyi jövedelemadóról szóló törvény rendelkezései szerint az adót megfizette,
+o) a társasház, a társasüdülő (a továbbiakban együtt: társasház) tulajdonostársainak közössége által a közös név alatt megszerzett olyan jövedelemből való részesedés alapján az adózó által az adóévben bevételként elszámolt összeg, amely jövedelemre vonatkozóan a társasház a személyi jövedelemadóról szóló törvény rendelkezései szerint az adót megfizette, továbbá a kezelt vagyon, az alapítvány, a vagyonkezelő alapítvány által megszerzett, a személyi jövedelemadóról szóló törvény rendelkezései szerint megállapított, tartós befektetésből származó jövedelem,
 
 p) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés következtében az eredménytartalék csökkentéseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 
