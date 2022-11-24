@@ -34,7 +34,7 @@ Információcsere
 
 4. Ha az egyik Szerződő Állam a jelen cikknek megfelelően információt kér, a másik Szerződő Állam saját információszerzési intézkedéseit alkalmazza a kért információ megszerzése érdekében, még akkor is, ha a másik Államnak az információra saját adóügyi céljaira nincs szüksége. A megelőző mondatban foglalt kötelezettségre a 3. bekezdés korlátozásai vonatkoznak, de ezek a korlátozások semmilyen esetben sem értelmezhetők úgy, hogy a Szerződő Állam számára megengedik az információszolgáltatás megtagadását kizárólag azért, mert az információhoz nem kapcsolódik hazai érdeke.
 
-5. A 3. bekezdés rendelkezései semmilyen esetben nem értelmezhetők úgy, hogy a Szerződő Állam számára megengedik az információszolgáltatás megtagadását kizárólag azért, mert az információ banknak, más pénzintézetnek, kijelölt személynek vagy képviselői vagy bizalmi minőségben eljáró személynek áll rendelkezésére, vagy mert az egy személyben lévő tulajdonosi érdekeltségre vonatkozik.”
+5. A 3. bekezdés rendelkezései semmilyen esetben nem értelmezhetők úgy, hogy a Szerződő Állam számára megengedik az információszolgáltatás megtagadását kizárólag azért, mert az információ banknak, más pénzintézetnek, kijelölt személynek vagy képviselői vagy bizalmi minőségben eljáró személynek áll rendelkezésére, vagy mert az egy személyben lévő tulajdonosi érdekeltségre vonatkozik.
 
 2. Cikk
 
