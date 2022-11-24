@@ -1,0 +1,1 @@
+27/A. § A Hatóság a közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény esetén a büntetőeljárásról szóló törvény szerint felülbírálati indítványt és ismételt felülbírálati indítványt nyújthat be.

@@ -2,9 +2,9 @@
 
 11. § A Hatóság évente elemző integritásjelentést készít, amely tartalmazza a következőket:
 
-a) az európai uniós források felhasználásával összefüggésben a közbeszerzési piac koncentrációjának, valamint a közbeszerzési eljárásokban a becsült érték és a szerződéses összeg közötti különbség lehetséges okainak elemzése,
+a) az európai uniós források felhasználásával összefüggésben a közbeszerzési piac koncentrációjának, valamint a közbeszerzési eljárásokban a becsült érték és a szerződéses összeg közötti különbség és annak lehetséges okainak teljes körű és átfogó elemzése,
 
-b) a Hatóság feladatkörébe tartozó területeken az alkalmazandó szabályok hatékonyságának értékelése, a szabályok végrehajtása során jelentkező problémák, kockázati mutatók meghatározása,
+b) a Hatóság feladatkörébe tartozó területeken az alkalmazandó szabályok hatékonyságának értékelése, a szabályok végrehajtása során jelentkező problémák, valamint a jogalkalmazói és közigazgatási gyakorlat elemzése, kockázati mutatók meghatározása,
 
 c) a keretmegállapodások alkalmazására és a keretmegállapodások alapján megkötött szerződések gyakorlatára vonatkozó elemzés, ideértve a keretmegállapodások és az azokon alapuló egyedi szerződések odaítélésének egyes gazdasági szereplők közötti megoszlását,
 

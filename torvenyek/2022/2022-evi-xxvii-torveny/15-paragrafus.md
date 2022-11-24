@@ -10,7 +10,7 @@ d) tartózkodjon egy vagy több sajátos beszerzési módszer, illetve ezekkel �
 
 e) a közbeszerzési eljárást megindító felhívásban írja elő a közbeszerzésekről szóló 2015. évi CXLIII. törvény (ezen rész alkalmazásában a továbbiakban: Kbt.) 63. § (1) bekezdésében szereplő egy vagy több kizáró ok alkalmazását,
 
-f) hagyjon fel jogsértő magatartásával.
+f) hagyjon fel bármilyen egyéb jogsértő magatartásával.
 
 (2) Az (1) bekezdés szerinti ajánlásokban a Hatóság meghatározza különösen
 

@@ -24,4 +24,4 @@ b) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezésé
 
 meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági iránymutatással (C/2021/2119), valamint a vonatkozó nemzeti rendelkezésekkel.
 
-(3) A Hatóság a Munkacsoport jelentését az éves elemző integritásjelentés elkészítésekor figyelembe veheti, de a Munkacsoport jelentéséhez nincs kötve és nem köteles azt figyelembe venni.
+(3) A Munkacsoport a Hatóság nyilvános jelentéseit a feladatainak ellátása során figyelembe veheti, de a Hatóság nyilvános jelentéseihez nincs kötve és nem köteles azt figyelembe venni. A Hatóság a Munkacsoport jelentését az éves elemző integritásjelentés elkészítésekor figyelembe veheti, de a Munkacsoport jelentéséhez nincs kötve és nem köteles azt figyelembe venni.

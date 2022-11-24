@@ -2,7 +2,7 @@
 
 (2) A nyilatkozat valóságtartalmát, továbbá a kinevezést követően az összeférhetetlenség fennállását az Alkalmassági Bizottság évente ellenőrzi.
 
-(3) Ha a Hatóság elnökének vagy elnökhelyettesének javasolt személy a nyilatkozatban lényeges adatot, tényt valótlanul közölt, akkor az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a felmentését.
+(3) Ha a Hatóság elnökének vagy elnökhelyettesének javasolt személy a nyilatkozatban lényeges adatot, tényt valótlanul közölt, akkor az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a Hatóság elnöke vagy elnökhelyettese jogviszonyának megszüntetését.
 
 (4) A nyilatkozatot a Hatóság elnökének és elnökhelyettesének megbízatása megszűnését követő öt évig meg kell őrizni.
 
@@ -10,4 +10,4 @@
 
 (6) Ha a Hatóság elnöke és elnökhelyettese tekintetében a kinevezését követően felmerült összeférhetetlenséget az Alkalmassági Bizottság tárja fel, az Alkalmassági Bizottság felszólítja a Hatóság elnökét vagy elnökhelyettesét, hogy az összeférhetetlenségét az annak felmerülését követő 30 napon belül szüntesse meg.
 
-(7) Ha a Hatóság elnöke vagy elnökhelyettese az összeférhetetlenségét az annak felmerülését követő 30 napon belül nem szüntette meg, vagy a feltárt összeférhetetlenség 30 napnál régebben áll fenn, az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a felmentését.
+(7) Ha a Hatóság elnöke vagy elnökhelyettese az összeférhetetlenségét az annak felmerülését követő 30 napon belül nem szüntette meg, vagy a feltárt összeférhetetlenség 30 napnál régebben áll fenn, az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a Hatóság elnöke vagy elnökhelyettese jogviszonyának megszüntetését.

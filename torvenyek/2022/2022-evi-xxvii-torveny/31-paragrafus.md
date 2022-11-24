@@ -14,15 +14,17 @@ e) a bejegyzés napját.
 
 (2) A Hatóság
 
-a) – a b) pont kivételével – a gazdasági szereplő vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy gazdasági társaság esetén annak egyedüli tagja természetes személyazonosító adatait a céginformációs rendszerből,
+a) – a b) és c) pont kivételével – a gazdasági szereplő vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője természetes személyazonosító adatait a céginformációs rendszerből,
 
 b) az egyéni vállalkozó természetes személyazonosító adatait az egyéni vállalkozók nyilvántartásából,
 
-c) az a) pont és b) pont szerinti személy tekintetében az (1) bekezdés c) pontja szerinti adatokat a bűnügyi nyilvántartási rendszerből
+c) a gazdasági szereplő tényleges tulajdonosának a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény 3. § 14. pontjában meghatározott tényleges tulajdonosi nyilvántartásban (a továbbiakban: tényleges tulajdonosi nyilvántartás) rendelkezésre álló természetes személyazonosító adatait és lakcímadatát a tényleges tulajdonosi nyilvántartásból,
+
+d) az a)–c) pont szerinti személy tekintetében az (1) bekezdés c) pontja szerinti adatokat a bűnügyi nyilvántartási rendszerből
 
 közvetlen adatkapcsolat útján veszi át.
 
-(3) A Hatóság a (2) bekezdés c) pontja szerinti közvetlen adatkapcsolat útján, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 67. § (1) bekezdés b) pontja szerinti adatátvételre akkor jogosult, ha
+(3) A Hatóság a (2) bekezdés d) pontja szerinti közvetlen adatkapcsolat útján, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 67. § (1) bekezdés b) pontja szerinti adatátvételre akkor jogosult, ha
 
 a) adatigénylésében közölte az érintett személy családi és utónevét, születési helyét és idejét, valamint az anyja születési családi és utónevét, és
 

@@ -6,4 +6,4 @@
 
 (3) Ha a Hatóság a vizsgálata során szabálytalanság gyanúját tárja fel, jogosult az európai uniós forrásfelhasználásra irányadó jogszabályok rendelkezései alapján szabálytalansági eljárást kezdeményezni a feladat- és hatáskörrel rendelkező irányító hatóságnál vagy – Helyreállítási és Ellenállóképességi Eszközből finanszírozott projekt esetén – a nemzeti hatóságnál.
 
-(4) Közbeszerzési jogsértés esetén a Hatóság a Kbt. 152. § (1) bekezdés o) pontja szerint kezdeményezheti a Közbeszerzési Döntőbizottság eljárását.
+(4) A Hatóság a Kbt. 152. § (1) bekezdés o) pontja szerint kezdeményezheti a Közbeszerzési Döntőbizottság eljárását, ha a közbeszerzésekről szóló törvénybe, illetve a közbeszerzésekről szóló törvény felhatalmazása alapján alkotott rendeletbe ütköző magatartás vagy mulasztás jut a tudomására.

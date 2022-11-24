@@ -1,14 +1,14 @@
 18. § (1) A Hatóság a vizsgálati eljárásban minden olyan rendelkezésre álló információt értékel, amely a feladatai szempontjából releváns. Feladatainak ellátása érdekében a Hatóság bármely az adott ügyben érintett személytől vagy szervezettől a feladat- és hatáskörével összefüggően adatszolgáltatást kérhet.
 
-(2) A Hatóság megkeresheti az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezetet, hogy a nevében bizonyítási cselekményeket végezzen, a megkeresett szervezet az ellenőrzésére vonatkozó szabályok szerint jár el. A Hatóság megkeresésére a 25. § rendelkezéseit megfelelően alkalmazni kell.
+(2) A Hatóság megkeresheti az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezetet, hogy a nevében bizonyítási jellegű cselekményeket végezzen, a megkeresett szervezet az ellenőrzésére vonatkozó szabályok szerint jár el. A Hatóság megkeresésére a 25. § rendelkezéseit megfelelően alkalmazni kell.
 
-(3) A Hatóság az e fejezet szerinti vizsgálati eljárása során – törvényben meghatározottak szerint –
+(3) A Hatóság az e fejezet szerinti vizsgálati eljárása során bizonyítási jellegű cselekményként – törvényben meghatározottak szerint –
 
 a) a vizsgált adatkezelő kezelésében levő, a vizsgált üggyel összefüggésbe hozható összes adatot megismerheti, arról másolatot készíthet, és az összes ilyen iratba – ideértve az elektronikus adathordozón tárolt iratokat is – betekinthet, illetve azokról másolatot kérhet,
 
-b) a vizsgált adatkezelőtől, illetve az adatkezelő bármely munkatársától írásbeli és szóbeli felvilágosítást kérhet,
+b) a vizsgált adatkezelőtől, illetve a vizsgált adatkezelő bármely munkatársától írásbeli és szóbeli felvilágosítást kérhet,
 
-c) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást, illetve a vizsgált üggyel összefüggésbe hozható adatról, iratról – ideértve az elektronikus adathordozón tárolt iratokat is – másolatot kérhet.
+c) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli, illetve szóbeli felvilágosítást, továbbá a vizsgált üggyel összefüggésbe hozható adatról, iratról – ideértve az elektronikus adathordozón tárolt iratokat is – másolatot kérhet.
 
 (4) A Hatóság eljárása során az annak lefolytatásához szükséges mértékben kezelheti mindazokat a személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek a vizsgálattal összefüggnek, és amelyek kezelése a vizsgálat eredményes lefolytatása érdekében szükséges.
 
@@ -26,7 +26,7 @@ b) a felvilágosítás során magát vagy a Polgári Törvénykönyvről szóló
 
 (9) Ha a Hatóság vizsgálata olyan közbeszerzési eljárást érint, amely az európai uniós forrásfelhasználásra irányadó jogszabályok alapján közbeszerzési ellenőrzési kötelezettség alá esik, a Hatóság jogosult az európai uniós forrásfelhasználást ellenőrző szervezettől bekérni az ellenőrzés révén rendelkezésére álló bármely információt. Az európai uniós forrásfelhasználást ellenőrző szervezet a kért információkat 8 napon belül a Hatóság rendelkezésére bocsátja.
 
-(10) A Hatóság az ezen alcím szerinti eljárásban az adatszolgáltatásra felhíváson és a nyilvános információk értékelésén kívül más, bizonyítási jellegű cselekményt saját hatáskörben nem végezhet, hanem az erre feladat- és hatáskörrel rendelkező szervezet jogosult megkeresni.
+(10) A Hatóság az ezen alcím szerinti eljárásban az adatszolgáltatásra felhíváson és a nyilvános információk értékelésén kívül más, bizonyítási jellegű cselekményt saját hatáskörben nem végezhet, hanem az erre feladat- és hatáskörrel rendelkező szervezet jogosult megkeresni, amely a tényállás tisztázásának folyamatát is magában foglaló haladéktalan tájékoztatást ad a Hatóság részére eljárásának eredményéről.
 
 (11) A Hatóság az általa kezelt adatot haladéktalanul törli, ha az adatkezelés célja a Hatóságnál már nem áll fenn.
 

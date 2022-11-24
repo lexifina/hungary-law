@@ -16,4 +16,4 @@
 
 (4) A 85. §, a 86. § és a 92. § b) pontja a IV. Fejezet szerinti nyilvántartásban szereplő adatok teljes körű rendelkezésre állását igazoló kormányhatározat Magyar Közlönyben történő közzétételét követő napon lép hatályba.
 
-(5) A 85. §, a 86. § és a 92. § b) pontja hatálybalépésének naptári napját az az igazságügyi miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(5) A 85. §, a 86. § és a 92. § b) pontja hatálybalépésének naptári napját az igazságügyi miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.

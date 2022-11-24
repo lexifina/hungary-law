@@ -5,3 +5,5 @@
 (3) A Hatóságot az e § szerinti, Ákr. hatálya alá tartozó eljárásban ügyféli jogállás illeti meg.
 
 (4) A Hatóság az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezet Ákr. hatálya alá nem tartozó eljárása során bármikor nyilatkozatot, észrevételt tehet és tájékoztatást kérhet.
+
+(5) Az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezet köteles együttműködni a Hatósággal, ennek keretében köteles haladéktalanul tájékoztatni a Hatóságot az eljárása megkezdéséről, valamint az eljárásának eredményéről.

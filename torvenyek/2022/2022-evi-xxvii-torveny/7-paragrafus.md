@@ -2,4 +2,4 @@
 
 (2) A Hatóság megfelelő intézkedéseket hoz annak érdekében, hogy a hatásköreinek gyakorlásában és a feladatainak ellátásában részt vevő személyek esetében megelőzze, feltárja és orvosolja az objektív érdekellentétnek tekinthető helyzeteket.
 
-(3) Az (1) bekezdés alkalmazásában érdekellentét különösen, ha a feladat pártatlan és tárgyilagos ellátása családi vagy érzelmi okok, politikai szimpátiával, elköteleződéssel vagy nemzeti kötődéssel kapcsolatos okok, továbbá gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek miatt sérül.
+(3) A (2) bekezdés alkalmazásában érdekellentét különösen, ha a feladat pártatlan és tárgyilagos ellátása családi vagy érzelmi okok, politikai szimpátiával, elköteleződéssel vagy nemzeti kötődéssel kapcsolatos okok, továbbá gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek miatt sérül.

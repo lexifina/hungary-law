@@ -24,8 +24,10 @@ b) az európai uniós forrásból megvalósuló közbeszerzésekkel összefügg�
 
 c) a közbeszerzési eljárásból egyes bűncselekményekkel összefüggésben kizárt jogi személyekről, egyéni cégekről és egyéni vállalkozókról (a továbbiakban együtt: gazdasági szereplő) nyilvántartást vezet.
 
-(4) A Hatóság jogszabályban meghatározottak szerint ellenőrzi az európai támogatásokat auditáló szerv foglalkoztatottjai által megtett összeférhetetlenségi nyilatkozatokat.
+(4) A Hatóság jogszabályban meghatározottak szerint ellenőrzi az európai támogatásokat auditáló szerv, valamint a Belső Ellenőrzési és Integritási Igazgatóság foglalkoztatottjai által megtett összeférhetetlenségi nyilatkozatokat.
 
 (5) A Hatóság ellátja a kormányzati igazgatásról szóló törvényben meghatározott feladatokat a Belső Ellenőrzési és Integritási Igazgatóság működésével összefüggésben.
+
+(5a) A Belső Ellenőrzési és Integritási Igazgatóság a Hatóság kérésére haladéktalanul biztosítja a Hatóság részére a Belső Ellenőrzési és Integritási Igazgatóság által kezelt összeférhetetlenségi nyilatkozathoz és érdekeltségi nyilatkozatokhoz, valamint valamennyi, a Hatóság jogkörének gyakorlásához szükséges irathoz való hozzáférést.
 
 (6)
