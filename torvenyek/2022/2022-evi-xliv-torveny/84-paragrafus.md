@@ -20,7 +20,7 @@
 
 10. 31. § (3) bekezdés nyitó szövegrészében a „c) pontja” szövegrész helyébe a „d) pontja” szöveg,
 
-11. 42. § (1) bekezdés a) pontjában a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
+11.
 
 12. 43. § (3) bekezdésében a „felmentését” szövegrész helyébe a „Hatóság elnöke vagy elnökhelyettese jogviszonyának megszüntetését” szöveg,
 
@@ -28,7 +28,7 @@
 
 14. 44. § (7) bekezdésében a „felmentését” szövegrész helyébe a „jogviszonyának megszüntetését” szöveg,
 
-15. 46. § (4) bekezdésében az „az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény” szövegrész helyébe az „a Vnytv.” szöveg,
+15.
 
 16. 53. §-ában a „honlapján annak” szövegrész helyébe a „honlapján – a Munkacsoport éves jelentésével azonos helyen – annak” szöveg,
 
