@@ -48,7 +48,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | Összesen (nettó forint) |
 
-| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 10 894 187 331 | 10 414 536 132 | 2 710 008 033 | 0 | 0 | 0 | 36 500 291 884 |
+| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 10 594 337 331 | 19 489 036 132 | 14 069 433 733 | 5 545 000 000 | 0 | 0 | 62 179 367 584 |
 
 | 3. | 1292/2020. (VI. 10.) Korm. határozat | 6 306 346 827 | 14 681 759 120 | 7 476 661 669 | 0 | 0 | 0 | 0 | 28 464 767 616 |
 
@@ -71,4 +71,4 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 [^5]: A 3. pont az 1251/2022. (V. 4.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^6]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: Az 5. pontot az 1302/2022. (VI. 22.) Korm. határozat 25. pontja iktatta be.
-[^8]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított, az 1306/2022. (VI. 22.) Korm. határozat, az 1495/2022. (X. 19.) Korm. határozat 5. pontja szerint módosított szöveg. [Nem vezethető át az 1415/2022. (VIII. 18.) Korm. határozat 5. pontjában foglalt módosítás, mely szerint az 1. mellékletben foglalt táblázat 8. sora a módosító határozatban foglaltak alapján lecserélésre kerül.]
+[^8]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított, az 1306/2022. (VI. 22.) Korm. határozat, az 1495/2022. (X. 19.) Korm. határozat 5. pontja, az 1567/2022. (XI. 24.) Korm. határozat 5. pontjá szerint módosított szöveg. [Nem vezethető át az 1415/2022. (VIII. 18.) Korm. határozat 5. pontjában foglalt módosítás, mely szerint az 1. mellékletben foglalt táblázat 8. sora a módosító határozatban foglaltak alapján lecserélésre kerül.]
