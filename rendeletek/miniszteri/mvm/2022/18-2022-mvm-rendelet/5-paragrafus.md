@@ -1,0 +1,1 @@
+5. § Az 1. § d) pontjában meghatározott foglalkoztató szervezetnél a foglalkoztató szerv vezetője és a helyettesítésére jogosult személy munkaköre az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.
