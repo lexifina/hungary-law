@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-43-00-00
 | 2022-06-01 | 2022. évi V. törvény | 2021-43-00-00.8 |
 | 2022-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-43-00-00.9 |
 | 2022-07-02 | 2010. évi CXXX. törvény | 2021-43-00-00.10 |
+| 2022-11-24 | 2022. évi XLIV. törvény | 2021-43-00-00.12 |

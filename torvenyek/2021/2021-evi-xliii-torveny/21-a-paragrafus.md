@@ -8,9 +8,11 @@
 
 a) a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 8. § (1) bekezdése szerint,
 
-b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint, valamint
+b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint,
 
-c) a 8. § (3)–(7) bekezdése szerint
+c) a 8. § (3)–(7) bekezdése szerint, valamint
+
+d) a 8. § (2b) bekezdése szerint
 
 végzett adathozzáféréseket naplózza.
 
@@ -59,6 +61,8 @@ g) a harmadik személyek által kezdeményezett adathozzáférés esetén
 ga) az adathozzáférést kezdeményező természetes személy nevét,
 
 gb) az adathozzáférést kezdeményező természetes személy regisztrációja során megadott elektronikus elérhetőségét.
+
+(3a) Az (1) bekezdés d) pontja szerinti naplóban a nyilvántartó szerv rögzíti az Integritás Hatóság és a nyilvántartó szerv közötti közvetlen adatkapcsolat tekintetében az adattovábbítás dátumát és időpontját, az adattovábbítás indításához használt adatok típusát, az adattovábbítással érintett adatok körét.
 
 (4) A nyilvántartó szerv adatvédelmi tisztviselője az (1) bekezdés szerinti napló megfelelő vezetését rendszeresen, de legalább félévente ellenőrzi. Az ellenőrzés eredményét az adatvédelmi tisztviselő dokumentálja, valamint e dokumentációt a (6) bekezdés szerinti időtartamig megőrzi.
 
