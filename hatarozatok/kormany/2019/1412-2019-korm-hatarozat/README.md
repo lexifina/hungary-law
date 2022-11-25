@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1412-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-07-10 | 2019-1412-30-22.1 | 1412/2019. (VII. 10.) Korm. határozat |
+| 2022-11-25 | 2019-1412-30-22.2 | 1565/2022. (XI. 24.) Korm. határozat |

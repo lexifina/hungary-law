@@ -2,11 +2,11 @@
 
 a) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 151/A. §-ában, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1a) bekezdésében biztosított jogkörében eljárva létrehozza a Közép- és Kelet-európai Onkológiai Akadémia Alapítványt (a továbbiakban: Alapítvány);
 
-b) a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva az Alapítvány feletti alapítói jogok gyakorlására az emberi erőforrások miniszterét jelöli ki;
+b)[^1] a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva az Alapítvány feletti alapítói jogok gyakorlására az egészségügyért felelős minisztert jelöli ki;
 
 c) az Eütv.-ben meghatározott alapítványi célok megvalósításához az alapító okiratban 50 000 000 forint pénzbeli vagyoni juttatás (a továbbiakban: induló vagyon) rendelkezésre bocsátását vállalja;
 
-d) az Alapítvány működésével összefüggő feladatok ellátása érdekében tartós jelleggel minden évben 500 000 000 forint forrás biztosítását vállalja, amely a 2019. évben magában foglalja az induló vagyon c) pont szerinti összegét.
+d)[^2] az Alapítvány működésével összefüggő feladatok ellátása érdekében évente legfeljebb 500 000 000 forint támogatás biztosítását vállalja.
 
 2. A Kormány
 
@@ -41,3 +41,6 @@ e) felhívja a pénzügyminisztert, hogy gondoskodjon a Kvtv. 1. melléklet XX. 
 Felelős: pénzügyminiszter
 
 Határidő: a d) pont szerinti címrendi kiegészítést követően azonnal
+
+[^1]: Az 1. pont b) alpontja az 1565/2022. (XI. 24.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. pont d) alpontja az 1565/2022. (XI. 24.) Korm. határozat - a Magyar Közlöny 2022. évi 194. számában megjelent helyesbítésnek megfelelő - 4. pontjával megállapított szöveg.
