@@ -1,1 +1,1 @@
-64. § A pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény 21/A. § (1) bekezdés c) pontjában a „szerint” szövegrész helyébe a „szerint, valamint” szöveg lép.
+### 64. §
