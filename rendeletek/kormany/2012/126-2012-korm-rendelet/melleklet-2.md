@@ -1,5 +1,3 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
@@ -32,6 +30,6 @@
 
 | 15. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
 
-2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^16]
+2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^18]
 
-[^16]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
+[^18]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
