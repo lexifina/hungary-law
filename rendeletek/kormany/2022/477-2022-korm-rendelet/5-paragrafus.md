@@ -1,0 +1,1 @@
+5. § Az Ingatlanon – az egyedileg védett műemlék építményrészek kivételével – bontási tevékenység bontási engedély nélkül végezhető, azzal, hogy a tevékenység végzéséről elektronikus építési naplót kell vezetni.

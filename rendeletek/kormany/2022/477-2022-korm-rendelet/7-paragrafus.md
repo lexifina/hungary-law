@@ -1,0 +1,5 @@
+7. § (1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+(3) A Beruházás tekintetében az egységes elektronikus közműnyilvántartásról szóló kormányrendeletet azzal kell alkalmazni, hogy a közműegyeztetés során a Beruházással érintett közmű- és energiaszolgáltató, valamint közútkezelő a benyújtott tervek jóváhagyása kapcsán a tervek benyújtásától számított öt napon belül köteles nyilatkozni. Ha az eljáró közmű- és energiaszolgáltató, valamint közútkezelő határidőn belül nem nyilatkozik, hozzájárulását megadottnak kell tekinteni a jóváhagyásra benyújtott terv szerinti tartalommal.
