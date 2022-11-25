@@ -1,5 +1,3 @@
 ## 26. A Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén Taskentben, 2008. április 17. napján aláírt Egyezmény módosításáról szóló Jegyzőkönyv kihirdetéséről szóló 2015. évi XXVIII. törvény módosítása
 
-148. § A Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén Taskentben, 2008. április 17. napján aláírt Egyezmény módosításáról szóló Jegyzőkönyv kihirdetéséről szóló 2015. évi XXVIII. törvény a következő 5. §-sal egészül ki:
-
-„5. § A Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén Taskentben, 2008. április 17. napján aláírt Egyezmény kihirdetéséről szóló 2008. évi XC. törvény e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.”
+### 148. §

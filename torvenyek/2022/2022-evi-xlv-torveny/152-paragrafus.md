@@ -1,5 +1,3 @@
 ## 30. A Magyar Köztársaság és a Lett Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Rigában, 2004. május 14-én aláírt Egyezmény módosításáról szóló jegyzékváltás kihirdetéséről szóló 2020. évi CII. törvény módosítása
 
-152. § A Magyar Köztársaság és a Lett Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Rigában, 2004. május 14-én aláírt Egyezmény módosításáról szóló jegyzékváltás kihirdetéséről szóló 2020. évi CII. törvény a következő 5. §-sal egészül ki:
-
-„5. § A Magyar Köztársaság és a Lett Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Rigában, 2004. május 14-én aláírt Egyezmény megerősítéséről és kihirdetéséről szóló 2004. évi CXXX. törvény e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.”
+### 152. §

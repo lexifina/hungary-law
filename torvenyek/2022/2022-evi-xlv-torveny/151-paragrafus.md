@@ -1,5 +1,3 @@
 ## 29. A Magyar Köztársaság és az Észt Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Budapesten, 2002. szeptember 11-én aláírt Egyezmény módosításáról szóló Jegyzék kihirdetéséről szóló 2017. évi CXII. törvény módosítása
 
-151. § A Magyar Köztársaság és az Észt Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Budapesten, 2002. szeptember 11-én aláírt Egyezmény módosításáról szóló Jegyzék kihirdetéséről szóló 2017. évi CXII. törvény a következő 5. §-sal egészül ki:
-
-„5. § A Magyar Köztársaság és az Észt Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Budapesten, 2002. szeptember 11-én aláírt Egyezmény kihirdetéséről szóló 2004. évi CXXVIII. törvény e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.”
+### 151. §

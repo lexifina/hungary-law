@@ -1,5 +1,3 @@
 ## 25. A Magyar Köztársaság és Kuwait Állam között a kettős adóztatás elkerülésére a jövedelem- és vagyonadók területén a gazdasági kapcsolataik előmozdítására Kuwaitban, 1994. január 17-én aláírt Egyezményt módosító, Kuwaitban, 2001. december 9-én aláírt Jegyzőkönyv kihirdetéséről szóló 2003. évi LXX. törvény módosítása
 
-147. § A Magyar Köztársaság és Kuwait Állam között a kettős adóztatás elkerülésére a jövedelem- és vagyonadók területén a gazdasági kapcsolataik előmozdítására Kuwaitban, 1994. január 17-én aláírt Egyezményt módosító, Kuwaitban, 2001. december 9-én aláírt Jegyzőkönyv kihirdetéséről szóló 2003. évi LXX. törvény a következő 4. §-sal egészül ki:
-
-„4. § A Magyar Köztársaság és Kuwait Állam között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén és gazdasági kapcsolataik előmozdítására Kuwaitban, 1994. január 17-én aláírt Egyezmény kihirdetéséről szóló 1999. évi XVI. törvény e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.”
+### 147. §

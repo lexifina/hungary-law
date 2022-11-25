@@ -1,1 +1,1 @@
-91. § A Tbj. 6. § (1) bekezdés a) pontjában az „adó- és vámhatósági szolgálati jogviszonyban” szövegrész helyébe az „adó- és vámhatósági szolgálati jogviszonyban, tisztjelölti szolgálati jogviszonyban, rendvédelmi tisztjelölti szolgálati jogviszonyban” szöveg lép.
+### 91. §
