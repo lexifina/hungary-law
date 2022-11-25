@@ -568,7 +568,7 @@
 
 | 162. | Tiszaigar | Jász-Nagykun-Szolnok | Tiszafüredi |
 
-| 163. | Tiszakarád | Borsod-Abaúj-Zemplén | Cigándi |
+| 163.[^5] | Tiszakanyár | Szabolcs-Szatmár-Bereg | Kisvárdai |
 
 | 164. | Tiszakerecseny | Szabolcs-Szatmár-Bereg | Vásárosnaményi |
 
@@ -715,3 +715,5 @@ A „Felzárkózó települések” hosszú távú programja 3. ütemébe javaso
 | 50. | Pusztamiske | Veszprém | Devecseri |
 
 | 51. | Szentpéterúr | Zala | Zalaegerszegi |
+
+[^5]: A 3. mellékletben foglalt táblázat 163. sora az 1565/2022. (XI. 24.) Korm. határozat 5. pontja szerint módosított szöveg.
