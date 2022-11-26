@@ -2,14 +2,15 @@
 
 11. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(1a)[^10] A környezetvédelemért felelős miniszter az 1/A. § (2) bekezdés szerinti közzétételi kötelezettségét legkésőbb a stratégiai zajtérképek, valamint az intézkedési tervek készítésének részletes szabályairól szóló 25/2004. (XII. 20.) KvVM rendelet módosításáról szóló 31/2019. (VI. 26.) AM rendelet hatálybalépését[^11] követő 8. napon teljesíti.
+(1a)[^13] A környezetvédelemért felelős miniszter az 1/A. § (2) bekezdése szerinti közzétételi kötelezettségét legkésőbb a közös zajértékelési módszereket meghatározó,
 
-(2)[^12] Ez a rendelet
+a) európai uniós jogi aktus átültetését biztosító jogszabály,
 
-a) a környezeti zaj értékeléséről és kezeléséről szóló, 2002. június 25-i 2002/49/EK európai parlamenti és tanácsi irányelvnek és
+b) átültetést nem igénylő európai uniós jogi aktus esetén az európai uniós jogi aktus
 
-b) a 2002/49/EK európai parlamenti és tanácsi irányelv szerinti közös zajértékelési módszerek meghatározásáról szóló, 2015. május 19-i (EU) 2015/996 bizottsági irányelvnek
+hatálybalépését követő 8. napon teljesíti.
 
-[^10]: A 11. § (1a) bekezdését a 31/2019. (VI. 26.) AM rendelet 3. § (1) bekezdése iktatta be.
-[^11]: A hatálybalépés időpontja 2019. július 4.
-[^12]: A 11. § (2) bekezdése a 31/2019. (VI. 26.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+(2)[^14]
+
+[^13]: A 11. § (1a) bekezdését a 31/2019. (VI. 26.) AM rendelet 3. § (1) bekezdése iktatta be, szövege a 26/2022. (XI. 18.) TIM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 11. § (2) bekezdését a 26/2022. (XI. 18.) TIM rendelet 7. §-a hatályon kívül helyezte.

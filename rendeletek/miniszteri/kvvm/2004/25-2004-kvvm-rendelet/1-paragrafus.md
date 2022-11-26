@@ -8,4 +8,6 @@ b) zajtérkép készítésére kijelölt szervezetekre,
 
 c) intézkedési terv készítésére kijelölt szervezetekre, illetve önkormányzatokra
 
+terjed ki.
+
 [^1]: Az 1. § a 31/2019. (VI. 26.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
