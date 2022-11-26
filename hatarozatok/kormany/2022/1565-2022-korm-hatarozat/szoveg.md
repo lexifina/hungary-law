@@ -14,22 +14,17 @@ bb) 7 000 000 forint a Kvtv. 1. melléklet VI. Bíróságok fejezet, 1. Bírós�
 
 2022. évi személyi juttatása eredeti költségvetési kiadási előirányzatának növelésére irányuljon.
 
-2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, címrendi kiegészítésről és egyes kormányhatározatok módosításáról szóló 1692/2021. (IX. 30.) Korm. határozat 1. pont i) alpontjában az „1 090 600 000 forint” szövegrész helyébe az „1 855 143 000 forint” szöveg lép.
+2.[^1]
 
-3. A Közép- és Kelet-európai Onkológiai Akadémia Alapítvány létrehozásáról, valamint a működéséhez szükséges feltételek és forrás biztosításáról szóló 1412/2019. (VII. 10.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pont b) alpontja helyébe a következő rendelkezés lép:
+3.[^2]
 
-(A Kormány mint Alapító)
+4.[^3]
 
-„b) a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva az Alapítvány feletti alapítói jogok gyakorlására az egészségügyért felelős minisztert jelöli ki;”
-
-4.[^1] A Korm. határozat 1. pont d) alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány mint Alapító)
-
-„d) az Alapítvány működésével összefüggő feladatok ellátása érdekében évente legfeljebb 500 000 000 forint támogatás biztosítását vállalja.”
-
-5. A Magyarország egyes területei közötti gazdasági egyenlőtlenség csökkentése érdekében szükséges fejlesztési program, továbbá a „Felzárkózó települések” hosszú távú programjának kiterjesztéséről szóló 1057/2021. (II. 19.) Korm. határozat 3. mellékletében foglalt, „A „Felzárkózó Települések” hosszú távú programjába (FETE) javasolt 300 település listája” megnevezésű táblázat 163. sorában a „Tiszakarád” szövegrész helyébe a „Tiszakanyár” szöveg, a „Borsod-Abaúj-Zemplén” szövegrész helyébe a „Szabolcs-Szatmár-Bereg” szöveg, a „Cigándi” szövegrész helyébe a „Kisvárdai” szöveg lép.
+5.[^4]
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 4. pont a Magyar Közlöny 2022. évi 194. számában megjelent helyesbítésnek megfelelő szöveg.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
