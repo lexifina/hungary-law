@@ -2,7 +2,7 @@
 
 (2)[^14] A stratégiai zajtérképen fel kell tüntetni a szakértői vizsgálatot végző szakértő nevét, a szakértői engedélye számát.
 
-(3) A káros hatások értékelésével kapcsolatos szempontokat az e rendelet 2. számú melléklete tartalmazza.
+(3)[^15]
 
 (4) A stratégiai zajtérkép készítésénél és felülvizsgálatánál
 
@@ -19,3 +19,4 @@ b) a 14. § (2) és (4) bekezdéseiben megjelölt határidőt megelőző naptár
 [^12]: Az 5. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 380. §-a, az 57/2014. (III. 4.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^13]: A környezet- és természetvédelem egyes szakterületein szakértői működés engedélyezéséről szóló 6/1985. (XII. 28.) OKTH rendelkezés.
 [^14]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 379. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: Az 5. § (3) bekezdését a 466/2022. (XI. 18.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.

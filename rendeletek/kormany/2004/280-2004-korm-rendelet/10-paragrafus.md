@@ -1,4 +1,4 @@
-## Az intézkedési tervjavaslatok egyeztetése[^32]
+## Az intézkedési tervjavaslatok egyeztetése[^34]
 
 10. § (1) Az intézkedési terv tervezetét (a továbbiakban: intézkedési tervjavaslat) a fő közlekedési létesítmény kötelezettje véleményezésre megküldi
 
@@ -42,4 +42,4 @@ d) a lakosságnak szóló nyilvános konzultáció tartása esetén annak időpo
 
 (10) Az intézkedési tervjavaslatok lefolytatott egyeztetéséről a kötelezett önkormányzat, illetve a fő közlekedési létesítmény kötelezettje összefoglalót készít, amivel az intézkedési tervjavaslatot kiegészíti.
 
-[^32]: Az „Az intézkedési tervjavaslatok egyeztetése” alcím (10–12. §) a 209/2021. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: Az „Az intézkedési tervjavaslatok egyeztetése” alcím (10–12. §) a 209/2021. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
