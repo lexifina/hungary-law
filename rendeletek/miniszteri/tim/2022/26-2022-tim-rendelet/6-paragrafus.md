@@ -1,0 +1,1 @@
+6. § A 25/2004. (XII. 20.) KvVM rendelet 1/A. § (2) bekezdésében a „2015/996 bizottsági irányelv, valamint az irányelvhez tartozó helyesbítés” szövegrész helyébe a „közös zajértékelési módszereket meghatározó európai uniós jogi aktusok” szöveg lép.
