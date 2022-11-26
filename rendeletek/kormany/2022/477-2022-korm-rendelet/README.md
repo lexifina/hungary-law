@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-477-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-11-25 | 2022-477-20-22.1 | 477/2022. (XI. 24.) Korm. rendelet |
+| 2022-11-26 | 2022-477-20-22.2 | 2010. évi CXXX. törvény |
