@@ -1,9 +1,3 @@
-3. § A 25/2004. (XII. 20.) KvVM rendelet 11. § (1a) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(1a) A környezetvédelemért felelős miniszter az 1/A. § (2) bekezdése szerinti közzétételi kötelezettségét legkésőbb a közös zajértékelési módszereket meghatározó,
-
-a) európai uniós jogi aktus átültetését biztosító jogszabály,
-
-b) átültetést nem igénylő európai uniós jogi aktus esetén az európai uniós jogi aktus
-
-hatálybalépését követő 8. napon teljesíti.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

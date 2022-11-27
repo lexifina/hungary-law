@@ -1,1 +1,3 @@
-6. § A 25/2004. (XII. 20.) KvVM rendelet 1/A. § (2) bekezdésében a „2015/996 bizottsági irányelv, valamint az irányelvhez tartozó helyesbítés” szövegrész helyébe a „közös zajértékelési módszereket meghatározó európai uniós jogi aktusok” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

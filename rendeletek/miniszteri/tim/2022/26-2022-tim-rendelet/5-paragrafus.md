@@ -1,1 +1,3 @@
-5. § A 25/2004. (XII. 20.) KvVM rendelet az 1. melléklet szerinti 1. melléklettel egészül ki.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

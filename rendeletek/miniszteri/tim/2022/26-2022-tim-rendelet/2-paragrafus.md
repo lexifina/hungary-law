@@ -1,3 +1,3 @@
-2. § A 25/2004. (XII. 20.) KvVM rendelet „Az intézkedési terv készítésének szabályai” alcíme a következő 10/A. §-sal egészül ki:
+2. §[^3]
 
-„10/A. § A káros hatások az 1. mellékletben szereplő terhelés-hatás összefüggések segítségével értékelhetők.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

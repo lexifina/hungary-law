@@ -1,3 +1,3 @@
-1. § A stratégiai zajtérképek, valamint az intézkedési tervek készítésének részletes szabályairól szóló 25/2004. (XII. 20.) KvVM rendelet [a továbbiakban: 25/2004. (XII. 20.) KvVM rendelet] 1/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az 1. § a) pontja szerinti zajtérképeket a 2002/49/EK európai parlamenti és tanácsi irányelv szerinti közös zajértékelési módszerek meghatározásáról szóló, 2015. május 19-i (EU) 2015/996 bizottsági irányelvben (a továbbiakban: 2015/996 bizottsági irányelv), valamint a 2002/49/EK európai parlamenti és tanácsi irányelv II. mellékletének a tudományos és műszaki fejlődéshez való hozzáigazítás céljából, a közös zajértékelési módszerek tekintetében történő módosításáról szóló, 2020. december 21-i (EU) 2021/1226 felhatalmazáson alapuló bizottsági irányelvben foglaltak szerint kell elkészíteni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
