@@ -1,5 +1,3 @@
-3. § Hatályát veszti a 280/2004. (X. 20.) Korm. rendelet
+3. §[^4]
 
-a) 5. § (3) bekezdése,
-
-b) 2. számú melléklete.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
