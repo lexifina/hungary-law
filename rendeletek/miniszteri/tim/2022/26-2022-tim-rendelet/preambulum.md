@@ -1,1 +1,0 @@
-A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8d) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 5. és 11. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

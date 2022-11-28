@@ -1,7 +1,0 @@
-9. § Ez a rendelet
-
-a) a 2002/49/EK európai parlamenti és tanácsi irányelv III. mellékletének a környezeti zaj káros hatásainak értékelésére vonatkozó módszerek megállapítása érdekében történő módosításáról szóló, 2020. március 4-i (EU) 2020/367 bizottsági irányelvnek és
-
-b) a 2002/49/EK európai parlamenti és tanácsi irányelv II. mellékletének a tudományos és műszaki fejlődéshez való hozzáigazítás céljából, a közös zajértékelési módszerek tekintetében történő módosításáról szóló, 2020. december 21-i (EU) 2021/1226 felhatalmazáson alapuló bizottsági irányelvnek
-
-való megfelelést szolgálja.
