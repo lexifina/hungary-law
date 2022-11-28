@@ -60,7 +60,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 11 581 417 091 | 21 031 417 091 | 11 190 708 546 | 5 400 000 000 | 5 400 000 000 | 2 700 000 000 | 72 621 209 239 |
 
-| 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 7 253 212 000 | 11 877 873 000 | 13 843 582 000 | 26 180 525 000 | 25 895 874 000 | 0 | 85 051 066 000 |
+| 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 4 558 301 152 | 27 065 722 043 | 12 208 692 489 | 20 347 216 636 | 46 868 790 154 | 0 | 111 048 722 474 |
 
 | 9. | 1251/2022. (V. 4.) Korm. határozat | 0 | 4 320 519 000 | 9 535 839 000 | 8 445 683 000 | 470 000 000 | 0 | 0 | 22 772 041 000 |
 
@@ -71,4 +71,4 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 [^5]: A 3. pont az 1251/2022. (V. 4.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^6]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: Az 5. pontot az 1302/2022. (VI. 22.) Korm. határozat 25. pontja iktatta be.
-[^8]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított, az 1306/2022. (VI. 22.) Korm. határozat, az 1495/2022. (X. 19.) Korm. határozat 5. pontja, az 1567/2022. (XI. 24.) Korm. határozat 5. pontjá szerint módosított szöveg. [Nem vezethető át az 1415/2022. (VIII. 18.) Korm. határozat 5. pontjában foglalt módosítás, mely szerint az 1. mellékletben foglalt táblázat 8. sora a módosító határozatban foglaltak alapján lecserélésre kerül.]
+[^8]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított, az 1306/2022. (VI. 22.) Korm. határozat, az 1495/2022. (X. 19.) Korm. határozat 5. pontja, az 1567/2022. (XI. 24.) Korm. határozat 5. pontja, az 1577/2022. (XI. 28.) Korm. határozat 1. pontja szerint módosított szöveg. [Nem vezethető át az 1415/2022. (VIII. 18.) Korm. határozat 5. pontjában foglalt módosítás, mely szerint az 1. mellékletben foglalt táblázat 8. sora a módosító határozatban foglaltak alapján lecserélésre kerül.]
