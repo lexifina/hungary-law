@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 90% réz és 10% cink ötvözetéből készült, súlya 18,4 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján Szent István szarkofágja részletének stilizált ábrázolása látható. Az előlap szélén, köriratban, fent a „MAGYARORSZÁG”, lent a „FORINT” felirat, a szarkofág ábrázolása alatt, bal oldalon a „BP.” verdejel, középen a „2000” értékjelzés, jobb oldalon a „2022” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben a székesfehérvári Osszárium (királyi csontkamra) kereszttel jelölt sírhelyet formáló lejáratának ábrázolása látható, amelyet fentről a „Székesfehérvár, Romkert” nemzeti emlékhely központi fogadó épületének, balról egy kőfalnak a részlete övez. Az ábrázolás alatt, középen a „ROMKERT” felirat olvasható, jobb oldalon a nemzeti emlékhelyek emblémája látható. A hátlap szélén, köriratban, fent a „SZÉKESFEHÉRVÁR”, lent a „NEMZETI EMLÉKHELY” felirat olvasható, bal oldalon, a kőfal ábrázolásába illesztve Szabó Virág tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
