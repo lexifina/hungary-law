@@ -54,10 +54,9 @@ e) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóvá
 
 | Határidő: | azonnal |
 
-f) visszavonja a fejlesztéspolitikai adatbázis és információs rendszer finanszírozásáról szóló 1596/2019. (X. 16.) Korm. határozat [a továbbiakban: 1596/2019. (X. 16.) Korm. határozat]
+f) [^1]
 
-fa) 2. pont d) és e) alpontját,
+2.[^2]
 
-fb) 3. pont d) és e) alpontját.
-
-2. Az 1596/2019. (X. 16.) Korm. határozat 2. pont nyitó szövegrészében a „2019–2023. június 30. közötti időszakra mindösszesen 17 920 000 000” szövegrész helyébe a „2019–2021. évek közötti időszakra mindösszesen 9 988 000 000” szöveg lép.
+[^1]: Az 1. pont f) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
