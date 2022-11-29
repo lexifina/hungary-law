@@ -1,0 +1,1 @@
+75/E. § A 37/C. § (3) bekezdés b) pont bb) alpontja tekintetében a Kbt. szerinti nemzeti értékhatárt meg nem haladó beszerzések esetén az európai uniós forrás felhasználásának tényét a 2023. március 31-én vagy azt követően megvalósított beszerzések esetén kell megjelölni.

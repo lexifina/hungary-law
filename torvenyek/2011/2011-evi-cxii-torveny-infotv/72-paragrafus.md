@@ -14,6 +14,8 @@ d) állapítsa meg az egységes közadatkereső rendszer és a központi jegyzé
 
 e) – a Hatóság véleményének kikérésével – állapítsa meg a nemzetbiztonsági szolgálatok által közzéteendő adatok körét.
 
+f) jelölje ki a felület üzemeltetőjét, valamint állapítsa meg a felület működtetésére, illetve az azon történő közzétételre vonatkozó részletes szabályokat.
+
 (2) Felhatalmazást kap
 
 a) a feladatkörrel rendelkező miniszter, hogy rendeletben az irányítása vagy felügyelete alá tartozó szervekre nézve különös közzétételi listát állapíthasson meg,

@@ -1,0 +1,1 @@
+75/D. § A felület üzemeltetője legkésőbb 2022. december 31-ig a felületet létrehozza, valamint közzéteszi a felületen történő közzétételhez szükséges adatlapot. A felületen közzétételre kötelezettek a 37/C. § (2) bekezdése szerinti adatokat a felületen folyamatosan, de első alkalommal legkésőbb 2023. február 28-ig teszik közzé.
