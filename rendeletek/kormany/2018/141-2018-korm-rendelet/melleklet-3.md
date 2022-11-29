@@ -230,8 +230,10 @@
 
 | 106. | Fermentációs üzem, csomagolóüzem és logisztikai központ létrehozására irányuló beruházás Monor területén | Monor közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 7526/2, valamint külterület 0314/12, 0314/13, 0314/14, 0314/20, 0314/22, 0314/23 és 0314/24 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^316]
+| 107. | Magas automatizáltságú logisztikai és disztribúciós központ létrehozására irányuló beruházás Miskolc területén | Miskolc közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti I. kerület külterület 01428/22 és 01428/23 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén megyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^318]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^316]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^318]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
