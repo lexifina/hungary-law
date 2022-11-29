@@ -22,7 +22,7 @@ f)[^7] viszonosság hiányában a rendészetért felelős miniszter döntése al
 
 g) az 1. melléklet 2. pontjában létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek (a továbbiakban: kijelölt létesítmény) védelmét,
 
-h)[^8] az 1. melléklet 1. pont 4. alpontjában meghatározott állandó személyvédelemben részesülő személynek a vele közös háztartásban élő házas- vagy élettársa és gyermeke személyvédelmét, ha alapos okból védelmük szükséges [az (1) bekezdésben és az a), c)–f) és h) pontban meghatározottak a továbbiakban együtt: védett személy].
+h)[^8] az 1. melléklet 1. pont 1.4. és 1.5. alpontjában meghatározott állandó személyvédelemben részesülő személynek a vele közös háztartásban élő házas- vagy élettársa és gyermeke személyvédelmét, ha alapos okból védelmük szükséges [az (1) bekezdésben és az a), c)–f) és h) pontban meghatározottak a továbbiakban együtt: védett személy].
 
 (3)[^9] A (2) bekezdés a), c)–f) és h) pontjában meghatározott személyvédelmi feladatok végrehajtását a rendészetért felelős miniszter ideiglenesen, eseti jelleggel a Terrorelhárítási Központ hatáskörébe utalhatja.
 
@@ -33,5 +33,5 @@ h)[^8] az 1. melléklet 1. pont 4. alpontjában meghatározott állandó személ
 [^5]: Az 1. § (2) bekezdés b) pontját a 179/2022. (V. 4.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § (2) bekezdés d) pontja a 165/2017. (VI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^7]: Az 1. § (2) bekezdés f) pontja a 165/2017. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^8]: Az 1. § (2) bekezdés h) pontját a 165/2017. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 591/2020. (XII. 17.) Korm. rendelet 3. § a) pontja, a 179/2022. (V. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (2) bekezdés h) pontját a 165/2017. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 591/2020. (XII. 17.) Korm. rendelet 3. § a) pontja, a 179/2022. (V. 4.) Korm. rendelet 3. § a) pontja, a 483/2022. (XI. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^9]: Az 1. § (3) bekezdése a 165/2017. (VI. 28.) Korm. rendelet 4. § c) pontja, a 179/2022. (V. 4.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

@@ -1,16 +1,16 @@
-## 1.[^102] Állandó személyvédelemben részesülő személyek
+## 1.[^103] Állandó személyvédelemben részesülő személyek
 
-## 1. A köztársasági elnök
+## 1.1. A köztársasági elnök
 
-## 2. A miniszterelnök
+## 1.2. A miniszterelnök
 
-## 3. A külpolitikáért felelős miniszter
+## 1.3. A külpolitikáért felelős miniszter
 
-## 4. Az Alkotmánybíróság elnöke
+## 1.4. Az Alkotmánybíróság elnöke
 
-## 5.[^103]
+## 1.5. A Kúria elnöke
 
-## 6. A legfőbb ügyész
+## 1.6. A legfőbb ügyész
 
 ## 2.[^104] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
 
@@ -50,7 +50,7 @@
 
 2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^112]
 
-## A védett személy gyógyintézeti ellátására kijelölhető intézmények
+A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
 1. Budapest, Egyesített Szent István és Szent László Kórház-Rendelőintézet
 
@@ -182,8 +182,7 @@
 
 65. Zalaegerszeg, Zala Megyei Szent Rafael Kórház
 
-[^102]: Az 1. melléklet 1. pontja a 120/2018. (VII. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^103]: Az 1. melléklet 1. pont 5. alpontját az 591/2020. (XII. 17.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
+[^103]: Az 1. melléklet 1. pontja a 483/2022. (XI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^104]: Az 1. melléklet 2. pontja a 108/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^105]: Az 1. melléklet 2. pont d) alpontja a 267/2019. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^106]: Az 1. melléklet 2. pont g) alpontja a 267/2019. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,7 +1,7 @@
-15. §[^98] (1) A köztársasági elnököt érintően az 1. § (1) bekezdés a) és b) pontjában meghatározott feladatkör ellátását szolgáló – az egyes kormányrendeleteknek a terrorizmust elhárító szerv feladatkörét érintő módosításáról szóló 179/2022. (V. 4.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépéséig[^99] használt – kényszerítő eszközöket és tárgyi eszközöket a Készenléti Rendőrségtől a Terrorelhárítási Központ veszi át.
+15. §[^99] (1) A köztársasági elnököt érintően az 1. § (1) bekezdés a) és b) pontjában meghatározott feladatkör ellátását szolgáló – az egyes kormányrendeleteknek a terrorizmust elhárító szerv feladatkörét érintő módosításáról szóló 179/2022. (V. 4.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépéséig[^100] használt – kényszerítő eszközöket és tárgyi eszközöket a Készenléti Rendőrségtől a Terrorelhárítási Központ veszi át.
 
-(2) A Módr. hatálybalépésekor[^100] folyamatban lévő, a köztársasági elnököt érintően az 1. § (1) bekezdés a) és b) pontjában meghatározott feladatkör ellátásával és az e feladatokat ellátók hivatásos szolgálati jogviszonyával kapcsolatos eljárásokban a Terrorelhárítási Központ a Készenléti Rendőrség jogutódja.
+(2) A Módr. hatálybalépésekor[^101] folyamatban lévő, a köztársasági elnököt érintően az 1. § (1) bekezdés a) és b) pontjában meghatározott feladatkör ellátásával és az e feladatokat ellátók hivatásos szolgálati jogviszonyával kapcsolatos eljárásokban a Terrorelhárítási Központ a Készenléti Rendőrség jogutódja.
 
-[^98]: A 15. §-t a 179/2022. (V. 4.) Korm. rendelet 2. §-a iktatta be.
-[^99]: A hatálybalépés időpontja 2022. május 10.
+[^99]: A 15. §-t a 179/2022. (V. 4.) Korm. rendelet 2. §-a iktatta be.
 [^100]: A hatálybalépés időpontja 2022. május 10.
+[^101]: A hatálybalépés időpontja 2022. május 10.
