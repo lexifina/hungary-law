@@ -32,7 +32,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2022. december 31.
+## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 941 000 000 forint tekintetében 2023. december 31.
 
 ## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 775 308 888 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
 
@@ -56,4 +56,4 @@
 
 1. melléklet az 1565/2021. (VIII. 6.) Korm. határozathoz
 
-[^1]: A d) pont az 1007/2022. (I. 20.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^1]: A d) pont az 1584/2022. (XI. 30.) Korm. határozat 7. pontja szerint módosított szöveg. [Az 1584/2022. (XI. 30.) Korm. határozat 8. pontjában foglalt módosítás, amely szerint az 1. pont d) alpontjában a „2022. december 31.” szövegrész helyébe a „2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 713 356 500 forint tekintetében 2023. december 31.” szöveg lép, nem vezethető át. ]
