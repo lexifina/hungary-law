@@ -6,6 +6,4 @@ b)
 
 c)
 
-d) 37. § (1) bekezdésében a „(4) bekezdésben” szövegrész helyébe a „(4) és (4a) bekezdésben” szöveg
-
-lép.
+d)
