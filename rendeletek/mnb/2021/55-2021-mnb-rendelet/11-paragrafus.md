@@ -1,3 +1,0 @@
-11. § (1) A szakosított hitelintézetként működő központi értéktár és a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás kivételével a hitelintézet, a kijelölt, összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az ezen típusú EGT-fióktelepek az ingatlantranzakciókra vonatkozó negyedéves felügyeleti jelentést (jelentéskód: ING) a 16. mellékletben foglaltaknak megfelelő tartalommal, formában, a tárgyidőszakot követő hónap 20. munkanapjáig teljesítik az MNB részére.
-
-(2) A kitöltésre vonatkozó általános előírásokat az 1. melléklet, a kitöltésre vonatkozó részletes előírásokat a 17. melléklet tartalmazza.
