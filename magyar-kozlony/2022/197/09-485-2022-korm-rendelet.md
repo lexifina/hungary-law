@@ -1,0 +1,93 @@
+# A Kormány 485/2022. (XI. 30.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 197. szám, 2022. november 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/RJfxq8fDh02oGrqIlrRE637fd06c24d88/dokumentumok/ad000fe7e51adb46434489394b9239d67330342f/letoltes)
+
+---
+
+A Kormány 485/2022. (XI. 30.) Korm. rendelete
+a szociális ellátórendszer veszélyhelyzeti működéséről
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzetre (a továbbiakban:
+veszélyhelyzet) tekintettel a szociális szolgáltatások nyújtásával, valamint a gyermekjóléti alapellátás biztosításával
+összefüggő, jogszabályban előírt rendelkezéseket az e rendeletben foglalt eltérésekkel kell alkalmazni.
+2. § (1) A nappali ellátás, a szakosított ellátás, a gyermekek átmeneti otthona, a családok átmeneti otthona, valamint
+a gyermekek esélynövelő szolgáltatásainak biztosítása során
+a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 57. § (3) bekezdésében,
+b) a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági
+nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendeletben (a továbbiakban: Sznyr.),
+c) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai
+feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendeletben (a továbbiakban: NM rendelet),
+d) a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló
+1/2000. (I. 7.) SzCsM rendeletben (a továbbiakban: SzCsM rendelet),
+e) a gyermekek esélynövelő szolgáltatásainak szakmai feladatairól és működésük feltételeiről szóló
+40/2018. (XII. 4.) EMMI rendeletben (a továbbiakban: EMMI rendelet), valamint
+f) a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.)
+SzCsM rendeletben
+meghatározott személyi és tárgyi feltételektől a fenntartó döntése alapján – az ellátottak emberi méltóságának és
+törvényben biztosított jogainak sérelme nélkül – el lehet térni.
+(2) A szociális alapszolgáltatás, a szakosított ellátás, a család- és gyermekjóléti szolgáltatás, a gyermekek átmeneti
+otthona, a családok átmeneti otthona, valamint a gyermekek esélynövelő szolgáltatásainak fenntartója
+– az ellátottak emberi méltóságának és törvényben biztosított jogainak sérelme nélkül –
+a) az erre a célra korábban nem szolgáló épületet, épületrészt vonhat be a szolgáltatásba,
+b) több ingatlanban nyújtott szolgáltatás esetén azokat a szolgáltatói nyilvántartásba bejegyzett szolgáltatás
+helyéül szolgáló egyik épületben vonhatja össze,
+c) szolgáltatását a más fenntartó szolgáltatói nyilvántartásba bejegyzett, azonos szolgáltatása helyéül szolgáló
+épületében nyújthatja.
+(3) A gyermekek esélynövelő szolgáltatásait működtető fenntartó a szolgáltatást köznevelési intézmény feladatellátása
+helyéül szolgáló épületben is nyújthatja, ha az a köznevelési intézmény alapfeladatai ellátását nem akadályozza, és
+ahhoz a köznevelési intézmény vezetője előzetesen hozzájárult.
+3. § (1) A fenntartó a 2. § (2) bekezdése szerinti változást – ide nem értve a szolgáltatói nyilvántartásban bejegyzést
+vagy adatmódosítást nem igénylő változást – annak bekövetkezését megelőzően legalább tíz nappal bejelenti
+a területileg illetékes működést engedélyező szervnek.
+(2) A szakosított ellátás, a gyermekek átmeneti otthona és a családok átmeneti otthona fenntartója a szolgáltatás
+megszüntetésére irányuló szándékát a szolgáltatás szolgáltatói nyilvántartásból való törlésének kérelmezését
+legalább két hónappal megelőzően írásban bejelenti az érintett ellátottaknak, törvényes képviselőiknek,
+a területileg illetékes működést engedélyező szervnek, az érdekképviseleti fórumnak és az ellátotti
+önkormányzatnak.
+
+(3) A működést engedélyező szerv a (2) bekezdés szerinti bejelentésről haladéktalanul értesíti az ellátásra köteles helyi
+önkormányzatot, az állami fenntartó megyei kirendeltségét, a Magyar Államkincstár megyei igazgatóságát, valamint
+az ellátottjogi, illetve gyermekjogi képviselőt.
+4. §
+A szolgáltatás 2. § (1) bekezdése szerinti működtetése a fenntartó központi költségvetésről szóló törvényben
+biztosított támogatásra való jogosultságát nem érinti.
+5. § (1) Ha a fenntartó a szolgáltatásba korábban erre a célra nem szolgáló épületet, épületrészt vagy ideiglenes elhelyezést
+biztosító, ellátási célokra szolgáló helyszínt von be, és a változás a szolgáltatói nyilvántartásban bejegyzést vagy
+adatmódosítást tesz szükségessé, a működőképesség veszélyeztetettségének indokolása mellett kérelmezi
+a bejegyzést vagy adatmódosítást is.
+(2) A működést engedélyező szerv az (1) bekezdés szerinti kérelemről huszonegy napon belül dönt, azzal, hogy
+a) szociális szolgáltatások esetén csak az SzCsM rendelet 15. § (1) bekezdés a) pontjában, b) pont
+ba) alpontjában, c) pont ca) alpontjában, valamint 15. § (7) bekezdésében,
+b) gyermekjóléti alapellátások esetén – a c) pont szerinti kivétellel – csak az NM rendelet 4/C. § (1) bekezdés
+c) pont ca) alpontjában és 4/C. § (7) bekezdésében,
+c) a gyermekek esélynövelő szolgáltatásai esetén csak az EMMI rendelet 8. § (1) bekezdésében és 16. §
+(1) bekezdésében
+foglaltakat kell vizsgálnia.
+(3) A (2) bekezdés a) és b) pontja szerinti eljárásban a finanszírozási rendszerbe való befogadásra irányuló szakhatósági
+eljárást nem kell lefolytatni, e rendelet erejénél fogva befogadottnak minősül a szolgáltatói nyilvántartásba már
+befogadottként bejegyzett férőhelyszám, ellátotti létszám vagy feladatmutató.
+(4) A (2) bekezdés szerinti eljárásokban közreműködő szakhatóság ügyintézési határideje tíz nap.
+(5) A 2. § (2) bekezdés b) és c) pontja szerinti esetet címváltozásnak kell tekinteni, azzal, hogy a működést engedélyező
+szerv a kérelemről nyolc napon belül dönt.
+(6) Az e rendelet szerinti eljárásokra az Sznyr. 29. § (1) bekezdését nem kell alkalmazni.
+6. §
+Ha a szakosított ellátás, a gyermekek átmeneti otthona vagy a családok átmeneti otthona fenntartója
+a veszélyhelyzet ideje alatt, a veszélyhelyzetből fakadó okra hivatkozással a finanszírozási rendszerbe már
+befogadott férőhelyszámát vagy annak egy részét törölteti a szolgáltatói nyilvántartásból, és a törlésről szóló
+döntés véglegessé válásától számított két éven belül a szolgáltatást újra nyújtani kívánja, a törölt férőhelyszámmal
+megegyező férőhelyszám ismételten befogadásra kerül azonos fenntartó vagy jogutódja részére.
+7. §
+A területileg illetékes működést engedélyező szerv a 2. §, a 3. § (2) bekezdése és az 5. § (1) bekezdése szerinti
+esetben a bejelentést követő öt napon belül, a szolgáltatói nyilvántartásban bejegyzést vagy adatmódosítást
+igénylő változás esetén a kérelem beérkezését követő és az eljárásban hozott döntés véglegessé válását követő
+öt napon belül tájékoztatja a szociálpolitikáért felelős minisztert a fenntartó és az engedélyes megnevezéséről,
+címéről, a változás tartalmáról és annak időpontjáról.
+8. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) Ez a rendelet 2023. április 30-án hatályát veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
