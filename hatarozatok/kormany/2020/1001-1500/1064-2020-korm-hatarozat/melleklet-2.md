@@ -1,5 +1,7 @@
 2. melléklet az 1064/2020. (II. 28.) Korm. határozathoz
 
+0X01104_0
+
 | XI. Miniszterelnökség |
 
 | XIII. Honvédelmi Minisztériuma |
