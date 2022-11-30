@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 1. melléklet 4. pontjában foglalt táblázat C:5 mezőjében a „13,49” szövegrész helyébe a „13,56” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1580/2022. (XI. 28.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | Az EFOP-4.1.5-16 felhívás keretében finanszírozandó összeg (bruttó, forint) | A 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján az EFOP hazai társfinanszírozás terhére finanszírozandó összeg (bruttó, forint) |
 
 | 2. | EFOP-4.1.5-16-2017-00103 | Dr. Enyedy Andor Református Általános Iskola, Óvoda és Bölcsőde bővítése | Mezőcsáti Református Egyházközség | 423 119 632 | 423 119 632 | 64 198 528 | 127 199 994 | 614 518 154 | A projekt célja a 3450 Mezőcsát, Szent István utca 1. és 2. szám alatti Dr. Enyedy Andor Református Általános Iskola, Óvoda és Bölcsőde infrastrukturális fejlesztése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
