@@ -58,65 +58,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## 1. D:113 mezőjében a „0,19” szövegrész helyébe a „0,89” szöveg,
-
-## 2. E:113 mezőjében a „0,03” szövegrész helyébe a „0,10” szöveg,
-
-## 3. D:123 mezőjében a „0,08” szövegrész helyébe a „0,96” szöveg,
-
-## 4. E:123 mezőjében a „0,01” szövegrész helyébe a „0,06” szöveg,
-
-## 5. D:131 mezőjében a „0,12” szövegrész helyébe a „4,35” szöveg,
-
-## 6. E:131 mezőjében a „0,02” szövegrész helyébe a „0,66” szöveg,
-
-## 7. D:137 mezőjében a „0,33” szövegrész helyébe az „1,78” szöveg,
-
-## 8. E:137 mezőjében a „0,05” szövegrész helyébe a „0,27” szöveg,
-
-## 9. D:149 mezőjében a „0,17” szövegrész helyébe a „0,62” szöveg,
-
-## 10. E:149 mezőjében a „0,02” szövegrész helyébe a „0,07” szöveg,
-
-## 11. D:168 mezőjében a „0,23” szövegrész helyébe az „1,89” szöveg,
-
-## 12. E:168 mezőjében a „0,03” szövegrész helyébe a „0,21” szöveg,
-
-## 13. D:173 mezőjében a „0,16” szövegrész helyébe az „1,50” szöveg,
-
-## 14. E:173 mezőjében a „0,02” szövegrész helyébe a „0,17” szöveg,
-
-## 15. D:177 mezőjében a „0,21” szövegrész helyébe a „0,89” szöveg,
-
-## 16. E:177 mezőjében a „0,04” szövegrész helyébe a „0,14” szöveg,
-
-## 17. D:183 mezőjében a „0,06” szövegrész helyébe a „0,66” szöveg,
-
-## 18. E:183 mezőjében a „0,01” szövegrész helyébe a „0,10” szöveg,
-
-## 19. D:185 mezőjében a „0,08” szövegrész helyébe az „1,02” szöveg,
-
-## 20. E:185 mezőjében a „0,02” szövegrész helyébe a „0,16” szöveg,
-
-## 21. D:186 mezőjében a „0,25” szövegrész helyébe az „1,40” szöveg,
-
-## 22. E:186 mezőjében a „0,04” szövegrész helyébe a „0,21” szöveg,
-
-## 23. D:192 mezőjében a „0,29” szövegrész helyébe a „0,73” szöveg,
-
-## 24. E:192 mezőjében a „0,05” szövegrész helyébe a „0,11” szöveg,
-
-## 25. D:201 mezőjében a „0,25” szövegrész helyébe az „1,33” szöveg,
-
-## 26. E:201 mezőjében a „0,04” szövegrész helyébe a „0,20” szöveg,
-
-## 27. D:217f mezőjében az „1,78” szövegrész helyébe az „5,14” szöveg,
-
-## 28. E:217f mezőjében a „0,34” szövegrész helyébe a „0,94” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1575/2022. (XI. 28.) Korm. határozathoz
 
@@ -155,3 +97,5 @@
 | 16. | KEHOP-2.1.3-15-2017-00076 | Kazsok település ivóvízminőség-javító program | Kazsok Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 86,956522 | 289 999 992 | 43 499 998 | 89 245 398 | 0 | – | 434 911 053 | 65 236 656 | 134 185 197 | – | 86,956522 | 724 911 045 | 108 736 654 | 223 430 595 | 0 | 1 057 078 294 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg a 98/83/EK irányelv és a 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
 
 | 17. | KEHOP-2.1.3-15-2018-00086 | Kengyel ivóvízminőség-javító program | Kengyel Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint | 86,956522 | 75 000 000 | 11 250 000 | 23 080 705 | 0 | – | 935 091 204 | 140 263 676 | 288 247 533 | – | 86,956522 | 1 010 091 204 | 151 513 676 | 311 328 238 | 0 | 1 472 933 118 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg a 98/83/EK irányelv és a 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
