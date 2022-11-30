@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 66. § (6) bekezdés b) pontjában az „alvállalkozókat.” szövegrész helyébe az „alvállalkozókat, valamint az ajánlattevői teljesítésen belül az alvállalkozói teljesítés tervezett százalékos arányát.” szöveg,
 
 d)
 
