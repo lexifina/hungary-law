@@ -1,0 +1,9 @@
+18. § (1) E rendelet 3. melléklet II. 57. és 59. pontja a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2162 európai parlamenti és tanácsi irányelv 21. cikkének való megfelelést szolgálja.
+
+(2) E rendelet
+
+1. 13. § (1) bekezdésében az (EU) 2019/1238 európai parlamenti és tanácsi rendeletnek az illetékes hatóságoknak történő felügyeleti adatszolgáltatás formátuma, valamint az illetékes hatóságok közötti és az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal folytatott együttműködés és információcsere tekintetében történő alkalmazására vonatkozó 2021. március 4-i (EU) 2021/897 bizottsági végrehajtási rendelet 3. cikke,
+
+2. 13. § (2) bekezdésében, valamint 20. mellékletében a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet 40. cikk (2) bekezdés a) pontja,
+
+3. 14. §-ában, valamint 1. melléklet 4.13. pontjában a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet 40. cikk (2) bekezdés a) pontja, az 575/2013/EU európai parlamenti és tanácsi rendeletnek az intézmények felügyeleti adatszolgáltatása tekintetében történő alkalmazására vonatkozó végrehajtás-technikai standardok megállapításáról és a 680/2014/EU végrehajtási rendelet hatályos kívül helyezéséről szóló, 2020. december 17-i (EU) 2021/451 bizottsági végrehajtási rendelet 21. cikk (1) bekezdése, valamint az (EU) 2019/1238 európai parlamenti és tanácsi rendeletnek az illetékes hatóságoknak történő felügyeleti adatszolgáltatás formátuma, valamint az illetékes hatóságok közötti és az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal folytatott együttműködés és információcsere tekintetében történő alkalmazására vonatkozó 2021. március 4-i (EU) 2021/897 bizottsági végrehajtási rendelet 3. cikke

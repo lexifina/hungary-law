@@ -1,0 +1,5 @@
+15. § (1) Ha az MNB megállapítja, hogy a felügyeleti jelentés javítást igényel, az adatszolgáltató a javított felügyeleti jelentést az MNB javításra vonatkozó felszólítása kézhezvételétől számított 2 munkanapon belül küldi meg az MNB részére.
+
+(2) Ha az adatszolgáltató a felügyeleti jelentés teljesítését követően olyan, az adatszolgáltató által – számviteli politikájában vagy egyéb módon – meghatározott jelentős mértékű eltérést tár fel, amely a 2. § (2) bekezdése szerinti, a felügyeleti jelentés alapjául szolgáló nyilvántartások javítását teszi szükségessé, akkor a felügyeleti jelentést visszamenőleg is, az eltéréssel érintett teljes időszakra vonatkozóan módosítja. A jelen bekezdés szerint módosított felügyeleti jelentést – a (3) bekezdésben foglalt kivétellel – az eltérés feltárásától számított 15 munkanapon belül küldi meg az adatszolgáltató az MNB részére.
+
+(3) A 10. és 18. melléklet szerinti felügyeleti jelentésre vonatkozó javított adatot – a javítás pontos okának megjelölésével együtt – az eltérés feltárásától számított 2 munkanapon belül küldi meg az adatszolgáltató az MNB részére.
