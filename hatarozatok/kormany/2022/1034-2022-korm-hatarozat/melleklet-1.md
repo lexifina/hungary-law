@@ -32,7 +32,7 @@
 
 ## Határidő: 2023. augusztus 31.
 
-## c) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 28 425 254 982 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
+## c)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 28 425 254 982 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -58,7 +58,7 @@
 
 ## Magyar Művészeti Akadémia elnöke
 
-## Határidő: 2022. december 31.
+## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 801 020 000 forint tekintetében 2023. december 31.
 
 ## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 250 000 000 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
 
@@ -108,17 +108,18 @@
 
 ## az átvezetés tekintetében 2022. február 15.
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
-## 5.[^4]
+## 5.[^5]
 
 1. melléklet az 1034/2022. (II. 1.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) pontja az 1584/2022. (XI. 30.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

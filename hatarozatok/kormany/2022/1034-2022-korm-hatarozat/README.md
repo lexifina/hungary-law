@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1034-30
 | --- | --- | --- |
 | 2022-02-01 | 2022-1034-30-22.1 | 1034/2022. (II. 1.) Korm. határozat |
 | 2022-02-02 | 2022-1034-30-22.2 | 2010: CXXX. törvény |
+| 2022-11-30 | 2022-1034-30-22.4 | 1584/2022. (XI. 30.) Korm. határozat |
