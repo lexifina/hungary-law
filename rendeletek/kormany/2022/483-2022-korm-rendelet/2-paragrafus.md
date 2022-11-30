@@ -1,3 +1,3 @@
-2. § Az R. 8/E. § (3) bekezdése a következő e) ponttal egészül ki:
+2. §[^3]
 
-[Az (1) bekezdés c) pont alkalmazásában a védett személy hivatala]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
