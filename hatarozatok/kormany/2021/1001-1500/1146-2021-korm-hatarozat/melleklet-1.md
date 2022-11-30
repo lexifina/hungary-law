@@ -46,7 +46,7 @@
 
 ## Magyar Művészeti Akadémia elnöke
 
-## Határidő: 2021. december 31., a Magyar Művészeti Akadémia fejezet, MMA műemlékvédelmi beruházásai alcím javára biztosított forrás tekintetében 2023. március 31.
+## Határidő: 2021. december 31., a Magyar Művészeti Akadémia fejezet, MMA műemlékvédelmi beruházásai alcím javára biztosított forrás tekintetében 2023. november 30.
 
 ## 1.4. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 6 751 748 722 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 1. Gazdaságvédelmi programok jogcímcsoport terhére, a 2. melléklet szerint;
 
@@ -106,5 +106,5 @@
 
 1. melléklet az 1146/2021. (III. 31.) Korm. határozathoz
 
-[^1]: Az 1. pont 1.3. alpontja az 1302/2022. (VI. 22.) Korm. határozat 20. pontja szerint módosított szöveg.
+[^1]: Az 1. pont 1.3. alpontja az 1302/2022. (VI. 22.) Korm. határozat 20. pontja, az 1588/2022. (XI. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
