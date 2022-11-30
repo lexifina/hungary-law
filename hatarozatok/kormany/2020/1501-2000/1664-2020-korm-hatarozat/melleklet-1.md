@@ -28,7 +28,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2022. december 31.
+## Határidő: 2022. december 31., a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 81. Szabolcs-Szatmár-Bereg megye és Kárpátalja fejlesztési feladatok jogcímcsoport javára biztosított 83 041 500 forint tekintetében 2023. december 31.
 
 ## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 84 000 000 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint.
 
@@ -44,5 +44,5 @@
 
 1. melléklet az 1664/2020. (X. 15.) Korm. határozathoz
 
-[^1]: Az 1. pont d) alpontja az 1007/2022. (I. 20.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: Az 1. pont d) pontja az 1584/2022. (XI. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

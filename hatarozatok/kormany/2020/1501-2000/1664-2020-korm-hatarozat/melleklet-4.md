@@ -1,3 +1,5 @@
+## 0X07083_0
+
 | XI. Miniszterelnökség XXII. Miniszterelnöki Kormányiroda XLII. A költségvetés közvetlen bevételei és kiadásai LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
 
 | Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
@@ -119,6 +121,8 @@
 ## * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
 4. melléklet az 1664/2020. (X. 15.) Korm. határozathoz
+
+0X07084_0
 
 | XI. Miniszterelnökség XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
 
