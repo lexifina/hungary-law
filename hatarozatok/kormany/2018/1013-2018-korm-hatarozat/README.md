@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1013-30
 | 2020-05-08 | 2018-1013-30-22.5 | 1080/2018. (III. 13.) Korm. határozat |
 | 2020-11-11 | 2018-1013-30-22.6 | 1080/2018. (III. 13.) Korm. határozat |
 | 2022-01-20 | 2018-1013-30-22.7 | 1080/2018. (III. 13.) Korm. határozat |
+| 2022-11-30 | 2018-1013-30-22.8 | 1080/2018. (III. 13.) Korm. határozat |

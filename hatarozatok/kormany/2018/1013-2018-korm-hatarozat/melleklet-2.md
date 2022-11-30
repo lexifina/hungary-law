@@ -1,3 +1,5 @@
+## 8K00305_0
+
 | I. Országgyűlés IX. Helyi önkormányzatok támogatásai XI. Miniszterelnökség XII. Földművelésügyi Minisztérium XIV. Belügyminisztérium XV. Nemzetgazdasági Minisztérium XVII. Nemzeti Fejlesztési Minisztérium XVIII. Külgazdasági és Külügyminisztérium XX. Emberi Erőforrások Minisztériuma XLII. A költségvetés közvetlen bevételei és kiadásai XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
 
 | Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
@@ -429,6 +431,8 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 2. melléklet az 1013/2018. (II. 2.) Korm. határozathoz
+
+8K00309_0
 
 | A 2017. évi költségvetési maradványok átcsoportosítása forintban |
 

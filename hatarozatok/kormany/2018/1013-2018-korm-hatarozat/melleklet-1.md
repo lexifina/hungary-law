@@ -20,7 +20,7 @@
 
 ## Felelős: a Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, belügyminiszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2019. június 30., a Bethlen Gábor Alap fejezet javára biztosított 562 000 000 forint tekintetében 2022. december 31., a Pécs Megyei Jogú Város támogatása II. ütem cím előirányzat javára átcsoportosított összeg tekintetében 2024. október 15.
+## Határidő: 2019. június 30., a Bethlen Gábor Alap fejezet javára biztosított 562 000 000 forint tekintetében 2023. december 31., a Pécs Megyei Jogú Város támogatása II. ütem cím előirányzat javára átcsoportosított összeg tekintetében 2024. október 15.
 
 ## c) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 43. Központi Maradványelszámolási Alap címmel történő kiegészítését;
 
@@ -114,17 +114,83 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1025/2014. (I. 30.) Korm. határozattal az Emberi Erőforrások Minisztériuma fejezet, Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 106,0 millió forint tekintetében az elszámolási határidő 2018. június 30.
 
-## 3–20.[^3]
+## 3.[^3]
+
+## 4.[^4]
+
+## 5.[^5]
+
+## 6.[^6]
+
+## 7.[^7]
+
+## 8.[^8]
+
+## 9.[^9]
+
+## 10.[^10]
+
+## 11.[^11]
+
+## 12.[^12]
+
+## 13.[^13]
+
+## 14.[^14]
+
+## 15.[^15]
+
+## 16.[^16]
+
+## 17.[^17]
+
+## 18.[^18]
+
+## 19.[^19]
+
+## 20.[^20]
 
 ## 21. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból, a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 2001/2017. (XII. 21.) Korm. határozat 4. mellékletében a XX. Emberi Erőforrások Minisztériuma, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport, K6 Beruházások kiemelt előirányzat javára átcsoportosított 5 844 212 810 forint a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
 ## 22. A Kormány egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat (a továbbiakban: Határozat2.) 1. mellékletében a XV. Nemzetgazdasági Minisztérium, 25. Fejezeti kezelésű előirányzatok cím, 5. Belgazdasági feladatok alcím, 11. Irinyi terv végrehajtása jogcímcsoport, 2. a Beszállítói-fejlesztési Program jogcím K5 Egyéb működési célú kiadások kiemelt előirányzaton jelzett –840 500 000 forint átcsoportosításból –440 500 000 forint a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerül átcsoportosításra; valamint a Beruházás Előkészítési Alap előirányzatból történő átcsoportosítás a K5 Egyéb működési célú kiadások kiemelt előirányzat helyett a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére történik.
 
-## 23–28.[^4]
+## 23.[^21]
+
+## 24.[^22]
+
+## 25.[^23]
+
+## 26.[^24]
+
+## 27.[^25]
+
+## 28.[^26]
 
 1. melléklet az 1013/2018. (II. 2.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 19. pontja, az 1263/2019. (V. 7.) Korm. határozat 6. pontja, az 1784/2020. (XI. 11.) Korm. határozat 3. pontja, az 1007/2022. (I. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 19. pontja, az 1263/2019. (V. 7.) Korm. határozat 6. pontja, az 1784/2020. (XI. 11.) Korm. határozat 3. pontja, az 1584/2022. (XI. 30.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^2]: Az 1. pont i) alpontja az 1784/2020. (XI. 11.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
