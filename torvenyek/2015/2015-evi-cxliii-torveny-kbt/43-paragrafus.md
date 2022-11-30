@@ -28,6 +28,12 @@ c) a részvételi jelentkezések és az ajánlatok elbírálásáról szóló ö
 
 d) a 103. § (6) bekezdés és 115. § (7) bekezdés szerinti dokumentumokat.
 
+e) a szerződés teljesítésébe bevont alvállalkozóval összefüggő következő adatokat:
+
+ea) az alvállalkozó megnevezését, adószámát, a közbeszerzésnek azt a részét, amelynek teljesítéséhez az alvállalkozót az ajánlattevő igénybe kívánja venni, az alvállalkozói teljesítés várható százalékos arányát az ajánlattevői teljesítésen belül, valamint az ellenszolgáltatás alvállalkozói szerződésben meghatározott értékét az alvállalkozó nyertes ajánlattevő általi bejelentését követő harminc napon belül, továbbá
+
+eb) az alvállalkozói teljesítés tényleges százalékos arányát az ajánlattevői teljesítésen belül, az ellenszolgáltatás teljesítésének időpontját és a kifizetett ellenszolgáltatás értékét az (1) bekezdés c) pontja szerinti adatok rögzítésével egy időben.
+
 (3) Az (1)–(2) bekezdés szerinti adatok közérdekből nyilvános adatok, azok nyilvánosságra hozatala üzleti titokra hivatkozással nem tagadható meg. Ettől eltérően amennyiben a felek az ajánlatot a szerződés mellékletévé teszik, az ajánlat nyilvánosságára a 44. § alkalmazandó.
 
 (4) A (2) bekezdés a) pontja szerinti közbeszerzési tervnek a tárgyévet követő évre vonatkozó közbeszerzési terv EKR-ben történő közzétételéig kell elérhetőnek lennie.

@@ -18,4 +18,4 @@
 
 a) a közbeszerzésnek azt a részét (részeit), amelynek teljesítéséhez az ajánlattevő (részvételre jelentkező) alvállalkozót kíván igénybe venni,
 
-b) az ezen részek tekintetében igénybe venni kívánt és az ajánlat vagy a részvételi jelentkezés benyújtásakor már ismert alvállalkozókat.
+b) az ezen részek tekintetében igénybe venni kívánt és az ajánlat vagy a részvételi jelentkezés benyújtásakor már ismert alvállalkozókat, valamint az ajánlattevői teljesítésen belül az alvállalkozói teljesítés tervezett százalékos arányát.
