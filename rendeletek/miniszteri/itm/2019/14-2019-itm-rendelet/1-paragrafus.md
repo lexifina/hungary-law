@@ -12,4 +12,6 @@ b) a költségvetési évet megelőző évek központi költségvetéséről sz�
 
 c) az év során megállapított új fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kiadási előirányzataira
 
+[az a)–c) pont szerinti előirányzatok a továbbiakban együtt: előirányzatok] terjed ki.
+
 [^1]: Az 1. § a) pontja a 37/2021. (VII. 29.) ITM rendelet 7. § 1. pontja szerint módosított szöveg.

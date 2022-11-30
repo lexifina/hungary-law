@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-14-20-7
 | 2021-12-31 | 2019-14-20-7Q.9 | 70/2021. (XII. 30.) ITM rendelet |
 | 2022-01-01 | 2019-14-20-7Q.10 | 70/2021. (XII. 30.) ITM rendelet |
 | 2022-04-27 | 2019-14-20-7Q.11 | 70/2021. (XII. 30.) ITM rendelet |
+| 2022-11-30 | 2019-14-20-7Q.12 | 28/2022. (XI. 29.) TIM rendelet |

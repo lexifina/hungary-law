@@ -1,4 +1,4 @@
-## 35. [^67] Széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás
+## 35. [^84] Széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás
 
 66. § (1) Támogatás nyújtható vezetékes széles sávú infrastruktúra kiépítéséhez (ezen alcím alkalmazásában a továbbiakban: támogatás).
 
@@ -8,4 +8,4 @@
 
 (4) Ha a támogatás odaítélése a 69. § (3) bekezdésével összhangban versenypályázat nélkül történik, a támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget, amelyet megalapozott előrejelzések alapján kell meghatározni és előzetesen vagy visszafizetési mechanizmus alkalmazásával utólag kell levonni az elszámolható költségekből.
 
-[^67]: A 35. alcím (66–69/D. §) a 70/2021. (XII. 30.) ITM rendelet 8. §-ával megállapított szöveg.
+[^84]: A 35. alcím (66–69/D. §) a 70/2021. (XII. 30.) ITM rendelet 8. §-ával megállapított szöveg.

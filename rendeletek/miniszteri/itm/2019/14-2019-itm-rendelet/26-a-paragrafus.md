@@ -1,4 +1,4 @@
-26/A. §[^61] (1) A 26. § (4) bekezdésétől eltérően az elszámolható költség a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség, ha a beruházás
+26/A. §[^74] (1) A 26. § (4) bekezdésétől eltérően az elszámolható költség a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség, ha a beruházás
 
 a) lakóépületben valósul meg,
 
@@ -20,4 +20,4 @@ b) az épületet használók elektromos gépjárműveinek feltöltésére szolg�
 
 c) az épület digitalizációját – elsősorban az épület okosfunkció-fogadási alkalmasságának növelését – célzó beruházások költségeivel, így különösen adathálózatok esetén az épületen vagy az épülethez tartozó telken belül a passzív hálózat vagy a strukturált kábelezés költségeivel.
 
-[^61]: A 26/A. §-t a 70/2021. (XII. 30.) ITM rendelet 6. §-a iktatta be.
+[^74]: A 26/A. §-t a 70/2021. (XII. 30.) ITM rendelet 6. §-a iktatta be.

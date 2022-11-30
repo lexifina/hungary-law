@@ -9,3 +9,7 @@
 (4) Ha a kedvezményezett a 2012/21/EU bizottsági határozat 5. cikkének megfelelően meghatározott összeget meghaladó támogatásban részesül, a túlkompenzációt visszafizeti. Ha a túlkompenzáció összege nem haladja meg az átlagos éves ellentételezés összegének 10%-át, a túlkompenzáció átvihető a következő időszakra, és levonható az arra az időszakra fizetendő támogatás összegéből.
 
 (5) A kedvezményezett a támogatásról olyan elkülönített elszámolást vezet, amelyből a (2)–(4) bekezdésben meghatározott követelmények ellenőrizhetőek.
+
+(6)[^79] A 2012/21/EU bizottsági határozat alapján támogatás kizárólag a támogatható tevékenység tekintetében megbízási aktussal rendelkező kedvezményezett részére nyújtható.
+
+[^79]: A 44. § (6) bekezdését a 28/2022. (XI. 29.) TIM rendelet 13. §-a iktatta be.

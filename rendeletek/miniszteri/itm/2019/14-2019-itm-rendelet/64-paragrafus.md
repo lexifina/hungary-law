@@ -24,7 +24,7 @@ a) az 1307/2013/EU európai parlamenti és tanácsi rendelet I. melléklete szer
 
 b) a mezőgazdasági üzem gazdasági és környezeti teljesítményével, a versenyképességi szempontokkal
 
-## összefüggő kérdésekre is.
+összefüggő kérdésekre is.
 
 (4) A támogatás vonatkozásában közvetlen kifizetés a tanácsadási szolgáltató részére teljesíthető.
 

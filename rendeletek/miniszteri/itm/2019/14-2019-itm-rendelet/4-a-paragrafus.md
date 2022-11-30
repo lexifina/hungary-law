@@ -1,6 +1,6 @@
 ## nyújtható.
 
-## 4/A. §[^34] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
+## 4/A. §[^38] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
 
 1. 8., 12., 13. és 15. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
 
@@ -50,15 +50,15 @@
 
 24. 13., 14. és 15. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
 
-25. 13. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat (a továbbiakban: SA.46515 sz. bizottsági határozat) szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás;
+25. [^39] 13. sora alapján az Európai Bizottság SA.46515 (2016/N) és SA.59053 (2020/N) számú határozatában foglaltakkal összhangban a 2014–2020 időszakra vonatkozó, az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatások (2014/C 204/01) 1.1.10.1. pontja szerinti, a tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, 1.1.10.2. pontja szerinti, a tanácsadási szolgáltatásokhoz nyújtott támogatás, 1.1.11. pontja szerinti, a mezőgazdasági ágazatban folytatott együttműködés céljából, valamint 1.3.2. pontja szerinti, a mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez kapcsolódó támogatás;
 
-26. 13. sora alapján SA.46515 sz. bizottsági határozat szerinti tanácsadási szolgáltatásokhoz nyújtott támogatás;
+26. [^40]
 
-27. 13. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat szerinti mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás;
+27. [^41]
 
 28. 13. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.37599 sz. bizottsági határozat szerinti mezőgazdasági ágazatban megvalósuló technikai segítségnyújtáshoz nyújtott támogatás;
 
-29. 6., 8., 12., 13., 15. és 18. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, 2020/C 91 I/01. számú európai bizottsági közlemény szerinti átmeneti támogatás;
+29. [^42]
 
 30. 13. sora alapján a 702/2014/EU bizottsági rendelet 14. cikke szerinti, az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás;
 
@@ -66,4 +66,8 @@
 
 32. 8. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás, vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás
 
-[^34]: A 4/A. §-t az 59/2020. (XII. 30.) ITM rendelet 4. §-a iktatta be, szövege a 70/2021. (XII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^38]: A 4/A. §-t az 59/2020. (XII. 30.) ITM rendelet 4. §-a iktatta be, szövege a 70/2021. (XII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^39]: A 4/A. § 25. pontja a 28/2022. (XI. 29.) TIM rendelet 3. §-ával megállapított szöveg.
+[^40]: A 4/A. § 26. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.
+[^41]: A 4/A. § 27. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.
+[^42]: A 4/A. § 29. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.

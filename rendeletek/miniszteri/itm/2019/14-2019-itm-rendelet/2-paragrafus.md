@@ -1,5 +1,3 @@
-## [az a)–c) pont szerinti előirányzatok a továbbiakban együtt: előirányzatok] terjed ki.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában
@@ -158,7 +156,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 67. működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt elért – a projektkockázat és a tőkeköltség alapján a támogatást nyújtó által jóváhagyott diszkonttényezővel diszkontált – bevételei, csökkentve az ugyanezen diszkonttényezővel diszkontált működési költségekkel, így különösen a személyi jellegű ráfordítással, anyagköltséggel, a szerződéses szolgáltatással, a távközléssel, az energiával és a karbantartással, a bérleti díjjal, az adminisztrációval összefüggő költséggel, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek, azzal, hogy ha a számítás eredménye negatív, a működési eredmény értéke nulla,
 
-68. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege, az összeszámítási szabályt figyelembe véve, jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
+68.[^9] nagyberuházás: az az induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
 69. nagykereskedelmi hozzáférés: a 651/2014/EU bizottsági rendelet 2. cikk 139. pontja szerinti hozzáférés,
 
@@ -166,17 +164,17 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 71. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás,
 
-72.[^9] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdés szerinti vállalkozás,
+72.[^10] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdés szerinti vállalkozás,
 
 73. nem repüléstechnikai tevékenységek: a 651/2014/EU bizottsági rendelet 2. cikk 152. pontja szerinti kereskedelmi szolgáltatások,
 
-73a.[^10] növénykárosító: a 702/2014/EU bizottsági rendelet 2. cikk (18) bekezdése szerinti kártevő,
+73a.[^11] növénykárosító: a 702/2014/EU bizottsági rendelet 2. cikk (18) bekezdése szerinti kártevő,
 
-73b.[^11] okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző,
+73b.[^12] okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző,
 
 74. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
-75.[^12]
+75.[^13]
 
 76. regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás,
 
@@ -206,7 +204,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 89. szintetikusszál-ipar: a 651/2014/EU bizottsági rendelet 2. cikk 44. pontja szerinti eljárás,
 
-89a.[^13] szociális szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 103b. pontja szerinti szolgáltatás,
+89a.[^14] szociális szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 103b. pontja szerinti szolgáltatás,
 
 90. szokásos piaci feltételek: a 651/2014/EU bizottsági rendelet 2. cikk 89. pontja szerinti feltétel,
 
@@ -216,21 +214,21 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 93. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-93a.[^14] társadalmi-gazdasági fókuszpont: a 651/2014/EU bizottsági rendelet 2. cikk 139b. pontja szerinti jogalany,
+93a.[^15] társadalmi-gazdasági fókuszpont: a 651/2014/EU bizottsági rendelet 2. cikk 139b. pontja szerinti jogalany,
 
 94. termelői csoport és szervezet: az agrár- és erdészeti iránymutatás (35) bekezdés 22. pontja szerinti csoport vagy szervezet,
 
 95. termékágazat: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 20-i 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés a)–w) pontjában szereplő ágazat,
 
-95a.[^15] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
+95a.[^16] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
 
-95b.[^16] természeti katasztrófához hasonlító kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
+95b.[^17] természeti katasztrófához hasonlító kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
 
 96. tőzsdén nem jegyzett kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás,
 
 97. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány,
 
-98. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát, vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek,
+98.[^18]
 
 99. újgenerációs hozzáférési hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 138. pontja szerinti hálózat.
 
@@ -241,11 +239,13 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 [^6]: A 2. § 44a. pontját a 70/2021. (XII. 30.) ITM rendelet 1. § (2) bekezdése iktatta be.
 [^7]: A 2. § 54a. pontját a 70/2021. (XII. 30.) ITM rendelet 1. § (3) bekezdése iktatta be.
 [^8]: A 2. § 64a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (3) bekezdése iktatta be.
-[^9]: A 2. § 72. pontja az 59/2020. (XII. 30.) ITM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^10]: A 2. § 73a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (5) bekezdése iktatta be.
-[^11]: A 2. § 73b. pontját a 70/2021. (XII. 30.) ITM rendelet 1. § (4) bekezdése iktatta be.
-[^12]: A 2. § 75. pontját a 70/2021. (XII. 30.) ITM rendelet 14. § a) pontja hatályon kívül helyezte.
-[^13]: A 2. § 89a. pontját a 70/2021. (XII. 30.) ITM rendelet 1. § (5) bekezdése iktatta be.
-[^14]: A 2. § 93a. pontját a 70/2021. (XII. 30.) ITM rendelet 1. § (6) bekezdése iktatta be.
-[^15]: A 2. § 95a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (6) bekezdése iktatta be.
-[^16]: A 2. § 95b. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (6) bekezdése iktatta be.
+[^9]: A 2. § 68. pontja a 28/2022. (XI. 29.) TIM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2. § 72. pontja az 59/2020. (XII. 30.) ITM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^11]: A 2. § 73a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (5) bekezdése iktatta be.
+[^12]: A 2. § 73b. pontját a 70/2021. (XII. 30.) ITM rendelet 1. § (4) bekezdése iktatta be.
+[^13]: A 2. § 75. pontját a 70/2021. (XII. 30.) ITM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^14]: A 2. § 89a. pontját a 70/2021. (XII. 30.) ITM rendelet 1. § (5) bekezdése iktatta be.
+[^15]: A 2. § 93a. pontját a 70/2021. (XII. 30.) ITM rendelet 1. § (6) bekezdése iktatta be.
+[^16]: A 2. § 95a. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (6) bekezdése iktatta be.
+[^17]: A 2. § 95b. pontját az 59/2020. (XII. 30.) ITM rendelet 1. § (6) bekezdése iktatta be.
+[^18]: A 2. § 98. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § a) pontja hatályon kívül helyezte.

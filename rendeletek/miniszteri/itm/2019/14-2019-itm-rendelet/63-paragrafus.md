@@ -8,7 +8,7 @@ b) a résztvevők utazási és szállásköltsége napidíja és
 
 c) a résztvevők távolléte idejére felmerült helyettesítéssel kapcsolatos költség
 
-## számolható el.
+számolható el.
 
 (2) A támogatási intenzitás az (1) bekezdés a)–c) pontja szerinti támogatás esetében nem haladhatja meg az elszámolható költségek 100%-át.
 

@@ -64,10 +64,10 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
-(8a)[^66] Nem minősül a (8) bekezdés c) és d) pontja szerinti fenntartási kötelezettség megsértésének, ha a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket 2020. január 1. és
+(8a)[^82] Nem minősül a (8) bekezdés c) és d) pontja szerinti fenntartási kötelezettség megsértésének, ha a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket 2020. január 1. és
 
 2021. június 30. között szüntette meg.
 
 (9) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, e tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
-[^66]: Az 50. § (8a) bekezdését a 70/2021. (XII. 30.) ITM rendelet 7. §-a iktatta be.
+[^82]: Az 50. § (8a) bekezdését a 70/2021. (XII. 30.) ITM rendelet 7. §-a iktatta be.

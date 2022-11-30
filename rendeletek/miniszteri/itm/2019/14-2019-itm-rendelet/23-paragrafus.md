@@ -2,4 +2,6 @@
 
 (2) A támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
 
-(3) A támogatási intenzitás – a (2) bekezdésben meghatározott mértéken túl – az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban megvalósuló beruházás esetén 15 százalékponttal, az Atr. 25. § (1) bekezdés d) pontja szerinti településen megvalósuló beruházás esetén 5 százalékponttal növelhető.
+(3)[^73] A támogatási intenzitás – a (2) bekezdésben meghatározott mértéken túl – az Atr. 25. § (1) bekezdése szerinti régióban megvalósuló beruházás esetén 15 százalékponttal növelhető.
+
+[^73]: A 23. § (3) bekezdése a 28/2022. (XI. 29.) TIM rendelet 11. §-ával megállapított szöveg.

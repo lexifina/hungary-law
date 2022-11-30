@@ -36,7 +36,7 @@ b) tározó létrehozására irányuló,
 
 c) felszín alatti vagy felszíni víztestet nem érintő újrahasznosított víz használatára irányuló
 
-## beruházásra.
+beruházásra.
 
 (4) Nem nyújtható támogatás
 

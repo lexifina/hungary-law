@@ -6,7 +6,7 @@ a) kikötői infrastruktúrájának és hozzáférési infrastruktúrájának l�
 
 b) kotrásához
 
-## nyújtható.
+nyújtható.
 
 (2) A támogatás keretében az (1) bekezdés szerinti tevékenységekhez kapcsolódó költségek számolhatók el, beleértve a tervezés költségeit.
 

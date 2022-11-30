@@ -6,6 +6,6 @@ a) előzetesen vagy
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségből.
+kell levonni az elszámolható költségből.
 
 (3) A támogatás keretében a beruházási költség számolható el.

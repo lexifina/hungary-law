@@ -1,1 +1,3 @@
-## hatálya alá tartozó támogatást tartalmaz.
+77. §[^113]
+
+[^113]: A 77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

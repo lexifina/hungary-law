@@ -1,5 +1,3 @@
-## számolható el.
-
 ## 31. A mezőgazdasági ágazatban megvalósuló technikai segítségnyújtáshoz nyújtott támogatások közös szabályai
 
 62. § (1) A mezőgazdasági ágazatban megvalósuló technikai segítségnyújtáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban együtt: támogatás)
@@ -8,7 +6,7 @@ a) tudástranszfer és tájékoztatási tevékenységhez és
 
 b) tanácsadási szolgáltatásokhoz
 
-## vehető igénybe.
+vehető igénybe.
 
 (2) A támogatást a mezőgazdasági ágazatban tevékenykedő valamennyi kedvezményezett igénybe veheti.
 

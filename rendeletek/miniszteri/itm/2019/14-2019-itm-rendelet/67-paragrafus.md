@@ -4,7 +4,7 @@ a) 30 Mbps vagy
 
 b) 100 Mbps
 
-## letöltési sebességet biztosítani.
+letöltési sebességet biztosítani.
 
 (2) Az (1) bekezdés szerinti támogatott hálózatnak a már létező vagy hitelt érdemlően tervezett hálózatokhoz képest legalább kétszeres letöltési és feltöltési sebességet kell biztosítania, és képesnek kell lennie legalább az (1) bekezdés szerinti letöltési sebesség megbízható biztosítására.
 
