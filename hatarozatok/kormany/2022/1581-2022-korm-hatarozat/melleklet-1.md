@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat
-
-## a) 1. melléklet 2. pontjában foglalt táblázat C:6 mezőjében a „43,84” szövegrész helyébe a „43,35” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:9 mezőjében a „27,023” szövegrész helyébe a „27,514” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1581/2022. (XI. 28.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-2.3.1-20-2020-00007 | Tudományos és Innovációs Park kialakítása a Pécsi Tudományegyetemen – I. ütem | Pécsi Tudományegyetem | 4 000 000 000 | 490 408 496 | 4 490 408 496 | A fejlesztés részeként a Pécsi Tudományegyetem Nyár utcai telephelyének két épületfelújítása valósul meg. Az A épület részleges felújításával Digitális Adatelemző, Szolgáltató és Labor Központ kialakítása valósul meg. A B épület teljes körű felújításával egy Tudásmenedzsment Center jön létre. Az újonnan kialakított épületben irodák, közösségi terek és ezekhez tartozó szociális helyiségek létesülnek. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
