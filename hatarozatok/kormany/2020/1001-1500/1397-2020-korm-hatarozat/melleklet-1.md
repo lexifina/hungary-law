@@ -40,7 +40,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2022. december 31., a Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára átcsoportosított 400 000 000 forint tekintetében 2022. október 31.
+## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 2 562 870 000 forint tekintetében 2023. december 31., a Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára átcsoportosított 400 000 000 forint tekintetében 2022. október 31.
 
 ## f) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 32 733 697 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 59. Európa Kulturális Fővárosa 2023 cím viselésével kapcsolatos feladatok támogatása jogcímcsoport terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcím, 2. Társaságokkal kapcsolatos kiadások jogcímcsoport javára, a 4. melléklet szerint;
 
@@ -70,7 +70,7 @@
 
 1. melléklet az 1397/2020. (VII. 14.) Korm. határozathoz
 
-[^1]: Az 1. pont e) alpontja az 1569/2021. (VIII. 9.) Korm. határozat 2. pontja, az 1007/2022. (I. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1. pont e) alpontja az 1569/2021. (VIII. 9.) Korm. határozat 2. pontja, az 1584/2022. (XI. 30.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
