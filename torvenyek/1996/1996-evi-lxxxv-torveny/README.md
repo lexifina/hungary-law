@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2021-01-01 | 2020. évi LXXI. törvény | 1996-85-00-00.42 |
 | 2021-06-29 | 2021. évi C. törvény | 1996-85-00-00.43 |
 | 2021-12-25 | 2021. évi CXXXII. törvény | 1996-85-00-00.44 |
+| 2022-12-01 | 2022. évi XLVIII. törvény | 1996-85-00-00.46 |

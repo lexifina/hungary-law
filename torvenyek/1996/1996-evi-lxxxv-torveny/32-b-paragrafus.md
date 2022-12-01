@@ -4,11 +4,21 @@ a) a Magyar Állam,
 
 b) a fővárosi és megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 
-c)–d)
+c)
+
+d)
 
 e) az egyházi jogi személy,
 
-f)–j)
+f)
+
+g)
+
+h)
+
+i)
+
+j)
 
 k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az Észak-atlanti Szerződés Szervezetével aláírt „Békepartnerség” program Keretdokumentumának törvénybe iktatásáról, és annak a Magyar Köztársaság által történő végrehajtásáról szóló törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az azok alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében.
 
