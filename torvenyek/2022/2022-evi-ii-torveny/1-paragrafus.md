@@ -4,20 +4,20 @@ a) Agrárminisztérium,
 
 b) Belügyminisztérium,
 
-c) Építési és Beruházási Minisztérium,
+c) Energiaügyi Minisztérium,
 
-d) Honvédelmi Minisztérium,
+d) Építési és Közlekedési Minisztérium,
 
-e) Igazságügyi Minisztérium,
+e) Honvédelmi Minisztérium,
 
-f) Kulturális és Innovációs Minisztérium,
+f) Igazságügyi Minisztérium,
 
-g) Külgazdasági és Külügyminisztérium,
+g) Kulturális és Innovációs Minisztérium,
 
-h) Miniszterelnöki Kabinetiroda,
+h) Külgazdasági és Külügyminisztérium,
 
-i) Miniszterelnökség,
+i) Miniszterelnöki Kabinetiroda,
 
-j) Pénzügyminisztérium, és
+j) Miniszterelnökség és
 
-k) Technológiai és Ipari Minisztérium.
+k) Pénzügyminisztérium.
