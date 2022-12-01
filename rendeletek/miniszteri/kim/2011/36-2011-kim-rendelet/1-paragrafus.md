@@ -1,4 +1,4 @@
-1. § (1) Az önálló vállalkozók tevékenységeit a rendelet mellékletét képező Önálló vállalkozók tevékenységi jegyzéke (a továbbiakban: ÖVTJ) szerint, annak legmélyebb, 6 számjegyű szintjén kell azonosítani.
+1. § (1)[^1] Az önálló vállalkozók tevékenységeit az 1. mellékletben meghatározott Önálló vállalkozók tevékenységi jegyzéke (a továbbiakban: ÖVTJ) szerint, annak legmélyebb, 6 számjegyű szintjén kell azonosítani.
 
 (2) E rendelet alkalmazásában önálló vállalkozónak kell tekinteni:
 
@@ -16,4 +16,7 @@ bd) az egyéni közjegyzői tevékenység,
 
 be) az önálló bírósági végrehajtói tevékenység.
 
-c) az adószámmal rendelkező, az általános forgalmi adó hatálya alá tartozó magánszemélyeket, az adószám kiváltására kötelezett magánszemélyt, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18. pontja szerinti mezőgazdasági őstermelői tevékenységet folytató magánszemélyt.
+c)[^2] az adószámmal rendelkező, az általános forgalmi adó hatálya alá tartozó magánszemélyeket, az adószám kiváltására kötelezett magánszemélyt, a családi gazdaságokról szóló 2020. CXXIII. törvény 3. § (2) bekezdése szerinti mezőgazdasági őstermelői tevékenységet folytató magánszemélyt.
+
+[^1]: Az 1. § (1) bekezdése a 16/2022. (XI. 30.) MK rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés c) pontja a 16/2022. (XI. 30.) MK rendelet 3. § b) pontja szerint módosított szöveg.
