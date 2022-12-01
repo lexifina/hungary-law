@@ -8,12 +8,15 @@ az Építési és Beruházási Minisztérium helyettes államtitkárát e tiszts
 
 felmentem, egyidejűleg
 
-dr. Katona Gábort és
+dr. Katona Gábort[^1] és
 
-Zandler Katalint
+Zandler Katalint[^2]
 
 az Építési és Beruházási Minisztérium helyettes államtitkárává
 
 2022. június 12-ei hatállyal
 
 kinevezem.
+
+[^1]: A 120/2022. (XII. 23.) ME határozat alapján dr. Katona Gábor tekintetében akként módosul, hogy az „Építési és Beruházási Minisztérium” megnevezés helyett az „Építési és Közlekedési Minisztérium” megnevezést kell érteni.
+[^2]: A 120/2022. (XII. 23.) ME határozat alapján Zandler Katalin tekintetében akként módosul, hogy az „Építési és Beruházási Minisztérium” megnevezés helyett az „Építési és Közlekedési Minisztérium” megnevezést kell érteni.
