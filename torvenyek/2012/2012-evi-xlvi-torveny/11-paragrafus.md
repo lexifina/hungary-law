@@ -26,6 +26,10 @@ k) az elhelyezkedésüktől függetlenül az önálló ingatlannak minősülő �
 
 l) 10. § (3) bekezdésének a)–f) és h) pontjában meghatározott alapponthálózati pontokat és azonosítóit,
 
-m)–o)
+m)
+
+n)
+
+o)
 
 (2) Az állami földmérési alaptérképi adatbázis az állami ingatlan-nyilvántartási térképi adatbázis kötelező alapja.

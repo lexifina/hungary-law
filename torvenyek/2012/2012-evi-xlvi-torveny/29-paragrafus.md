@@ -4,4 +4,4 @@
 
 (3) A földmérési és térinformatikai államigazgatási szerv visszavonja a kiadott minősítést, ha hatósági ellenőrzés keretében megállapítja, hogy a földmérő a 28. § (7) bekezdés b)–c) pontjában meghatározott feltételeknek nem felel meg.
 
-(4) A földmérési és térinformatikai államigazgatási szerv a bizottság véleménye alapján – szakmaetikai vétség esetén – az ingatlanrendező földmérő minősítést visszavonja, vagy legfeljebb 2 évi időtartamra felfüggeszti. Visszavonás esetén a földmérő ismételt minősítést – a visszavonásról szóló határozat véglegessé válását követő – 5 év elteltével kaphat.
+(4) A földmérési és térinformatikai államigazgatási szerv a bizottság véleménye alapján – szakmaetikai vétség esetén – az ingatlanrendező földmérő minősítést visszavonja, vagy legfeljebb 2 évi időtartamra felfüggeszti. Visszavonás esetén a földmérő ismételt minősítést – a visszavonásról szóló határozat véglegessé válását követő – 5 év elteltével igényelhet.

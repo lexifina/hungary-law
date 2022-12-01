@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2012-46-00-00.38 |
 | 2022-01-01 | 2021. évi CXLIV. törvény | 2012-46-00-00.39 |
 | 2022-11-01 | 2022. évi VII. törvény | 2012-46-00-00.40 |
+| 2022-12-01 | 2022. évi XLVIII. törvény | 2012-46-00-00.43 |

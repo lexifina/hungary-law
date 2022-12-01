@@ -58,7 +58,7 @@ b) a felsőfokú szakirányú végzettség igazolása, vagy annak igazolása, ho
 
 (7c) A 70. életévet betöltött ingatlanrendező földmérőknek a jogosultságuk meghosszabbításához nem szükséges a (7a) bekezdés a) pontjában meghatározott húsz továbbképzési pont igazolása.
 
-(8) A földmérési és térinformatikai államigazgatási szerv a földmérő igazolvánnyal, illetve az ingatlanrendező földmérő minősítéssel rendelkező személyekről bárki számára ingyenesen hozzáférhető nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy:
+(8) A földmérési és térinformatikai államigazgatási szerv a földmérő igazolvánnyal, illetve az ingatlanrendező földmérő minősítéssel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy:
 
 a) természetes személyazonosító adatait,
 
@@ -90,7 +90,7 @@ d) földmérő igazolvány, illetve minősítés érvényességi ideje.
 
 (9) Aki földmérési munkát jogosulatlanul végez, kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
-(10) Jogosulatlan földmérési tevékenységet végez az, aki az (1) bekezdésben meghatározott jogosultság hiányában, a 23. § (1)–(3) bekezdésében felsorolt földmérési tevékenységet végez.
+(10) Jogosulatlan földmérési tevékenységet végez az, aki az (1), (3) és (4) bekezdésben meghatározott jogosultság hiányában, a 23. § (1)–(3) bekezdésében felsorolt földmérési tevékenységet végez.
 
 (11) A földmérési és térképészeti állami alapadat-adatbázisok jogosulatlan adatfelhasználásáért az adatot felhasználó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 

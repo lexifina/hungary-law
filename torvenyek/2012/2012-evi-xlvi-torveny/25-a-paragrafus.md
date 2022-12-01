@@ -22,6 +22,8 @@ e) telephelyének címét,
 
 f) elérhetőségeit.
 
+g) földmérő igazolvány számát.
+
 (4) A nyilvántartásban szereplő személy a (3) bekezdés d)–f) pontjában meghatározott adatainak a nyilvánosságra hozatalát az adatnyilvántartónál írásban megtilthatja.
 
 (5) A (2) bekezdésben meghatározott nyilvántartás a (3) bekezdés a) és b) pontjában meghatározott adatok tekintetében közhitelesnek minősül.

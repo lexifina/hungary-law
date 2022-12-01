@@ -30,15 +30,9 @@ i) a földrendező és földkiadó bizottságokról szóló törvény, illetve a
 
 (3) Egyéb célú földmérési tevékenységnek minősülnek az állami alapfeladatok és alapmunkák körébe, valamint az ingatlan-nyilvántartási célú földmérési tevékenységek körébe nem tartozó földmérési munkák. Az egyéb célú földmérési tevékenység végzésének jogosultsági feltételrendszerét és a munkavégzés részletes szabályait a Kormány rendeletben határozza meg.
 
-(4) Az állami alapadatok változását, megszüntetését vagy bővítését eredményező ingatlan-nyilvántartási célú földmérési és térképészeti munkát, ha a változás vagy bővítés a változás előtti és utáni földrészletek számát együttesen tekintve több mint 30 földrészletet, illetve külterületen több mint 50 hektárt érint, a munkálatok megkezdése előtt az illetékes ingatlanügyi hatósághoz be kell jelenteni.
+(4)
 
-(5) A (4) bekezdésben meghatározottakon túl bejelentésre kötelezett munkának minősül:
-
-a) minden állami alapponthálózati munka,
-
-b) a közigazgatási és fekvéshatárok változása,
-
-c) minden kisajátítási földmérési munka.
+(5)
 
 (6) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmának megváltoztatására irányuló munkákat az állami alapadatok kötelező felhasználásával úgy kell elkészíteni, hogy a keletkező új földmérési alapadatok változtatás nélkül beilleszthetőek legyenek az állami ingatlan-nyilvántartási térképi adatbázis állományába.
 

@@ -12,7 +12,7 @@ b) az Egységes Országos Magassági Alapponthálózat (EOMA) I–III. rendű po
 
 c) a Bendefy-féle magassági hálózat I–III. rendű alappontjai,
 
-d) az állam által fenntartott aktív GNSS (Global Navigation Satellite Systems) hálózat hazai állomásai,
+d) az állam által fenntartott aktív GNSS hálózat (GNSSnet.hu) referencia állomásai,
 
 e) a Magyar GPS Geodinamikai Alaphálózat pontjai (MGGA),
 
