@@ -1,3 +1,3 @@
 ## 35. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-70. §
+### 70. §
