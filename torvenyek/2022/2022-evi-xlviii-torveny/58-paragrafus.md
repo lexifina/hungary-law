@@ -1,5 +1,3 @@
-## 21. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
+## 21.
 
-58. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 9/I. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A szálláshely-szolgáltató a harmadik országbeli állampolgárokra vonatkozó, 6/B. alcímben meghatározott adatok rögzítését és a helyi önkormányzat idegenforgalmi adót meghatározó rendelete szerinti nyilvántartás vezetését elektronikusan, a szálláshelykezelő szoftver alkalmazásával teljesíti.”
+### 58. §

@@ -1,6 +1,6 @@
 44. § Hatályát veszti az Fttv.
 
-a) 6. § (33) bekezdése,
+a)
 
 b) 23. § (4) és (5) bekezdése,
 

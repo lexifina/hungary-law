@@ -1,13 +1,1 @@
 84. § A 23. § és a 25. § a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet végrehajtását szolgálja.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
