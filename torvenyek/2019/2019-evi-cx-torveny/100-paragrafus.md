@@ -1,6 +1,6 @@
 ## 100. Záró rendelkezések
 
-100. § (1) Ez a törvény – a (2)–(9) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+100. § (1) Ez a törvény – a (2)–(10) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 2. § (2) bekezdése, (4) bekezdés a) és c)–f) pontja; a 4. § (1) bekezdése; a 7–8. §; a 9. § (1) bekezdése; a 10. §; a 12. § (3)–(4) bekezdése, (5) bekezdés a) pontja; a 13. § (1)–(2) bekezdése, (4) bekezdés a) pontja, (5) bekezdés a)–c), f) és h) pontja; a 15. § (1)–(6) bekezdése, (7) bekezdés a) pontja; a 16. §; a 17. § (1) bekezdése; a 19. § (1)–(2) bekezdése; a 20. §; a 22. § (1)–(5) bekezdése, (6) bekezdés b) pontja; a 23. § (2)–(5) bekezdése; a 28. § (1)–(2) és (4)–(5) bekezdése, (8) bekezdése, (9) bekezdés d) pontja; a 29. § (2) bekezdés a) és c) pontja; a 31. § (1) és (4) bekezdése, (6) bekezdés e) pontja; a 32. § (3) bekezdés a) pontja; a 33. § (2)–(3) bekezdése; a 34. § (4) bekezdés h)–i) pontja; a 35. §; a 39. § (2) bekezdése; a 40. § (1)–(2) bekezdése; a 41. §; a 42. § (2) bekezdése; a 43–44. §; a 45. § (1)–(3) bekezdése; a 47. § (4) bekezdés a) pontja; a 48. § (1)–(3) bekezdése, (4) bekezdés a) pontja; az 51. § (1) bekezdése; az 52. §; az 54. §; az 57. §; az 58. § (1) bekezdése; az 59. §; a 60. § (2)–(6) bekezdése és (8) bekezdés a)–b) pontja; a 61. §; a 63. § (1), (3) bekezdése és (5) bekezdés a)–b) pontja; a 64. § (1)–(2) és (4) bekezdése; a 65. § (2) bekezdése; a 66. § (1) bekezdése; a 67. §; a 68. § (7) bekezdés d) pontja, (8) bekezdés a)–d), f) és h)–k) pontja; a 69. § (2)–(3) és (6)–(7) bekezdése; a 71. §; a 72. § (2)–(3) bekezdése; a 73. §; a 75. § (1)–(5) bekezdése; a 76. § (1)–(6) bekezdése; a 77. §; a 79. §; a 83. §; a 85. § (1) bekezdése; a 86. §; a 88. §; a 89. § (1) bekezdése; a 90–91. §; a 94. §, a 95. § (1) bekezdése; a 98. § (2) bekezdése 2020. január 1-jén lép hatályba.
 
@@ -16,4 +16,6 @@
 
 (8) A 9. § (3) és (4) bekezdése; a 93. § 2020. szeptember 1-jén lép hatályba.
 
-(9) A 4. § (2) bekezdése; a 9. § (2) bekezdése; a 12. § (2) bekezdése; a 21. §; a 28. § (7) bekezdése; a 29. § (1) bekezdése; a 31. § (2) és (3) bekezdése; a 32. § (2) bekezdése; a 34. § (2) bekezdése; a 40. § (3) és (4) bekezdése; a 42. § (1) bekezdése; a 47. § (2) bekezdése; a 63. § (2) bekezdése; a 65. § (1) bekezdése; a 69. § (4) és (5) bekezdése; a 76. § (7) és (8) bekezdése; a 81. § (1) bekezdése; a 84. § (1) és (2) bekezdése; a 87. §; a 96. § 2023. január 1-jén lép hatályba.
+(9) A 12. § (2) bekezdése, a 40. § (4) bekezdése és a 87. § 2023. január 1-jén lép hatályba.
+
+(10) A 4. § (2) bekezdése, a 9. § (2) bekezdése, a 21. §, a 28. § (7) bekezdése, a 29. § (1) bekezdése, a 31. § (2) és (3) bekezdése, a 32. § (2) bekezdése, a 34. § (2) bekezdése, a 40. § (3) bekezdése, a 42. § (1) bekezdése, a 47. § (2) bekezdése, a 63. § (2) bekezdése, a 65. § (1) bekezdése, a 69. § (4) és (5) bekezdése, a 76. § (7) és (8) bekezdése, a 81. § (1) bekezdése, a 84. § (1) és (2) bekezdése és a 96. § 2025. január 1-jén lép hatályba.

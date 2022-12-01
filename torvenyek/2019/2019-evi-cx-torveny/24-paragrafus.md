@@ -1,3 +1,3 @@
 ## 24. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
 
-24. §
+### 24. §

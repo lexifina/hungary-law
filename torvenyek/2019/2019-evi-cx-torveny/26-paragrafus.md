@@ -1,3 +1,3 @@
 ## 26. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
-26. §
+### 26. §
