@@ -6,7 +6,7 @@ Csák Jánost kultúráért és innovációért felelős miniszterré,
 
 dr. Gulyás Gergelyt a Miniszterelnökséget vezető miniszterré,
 
-Lázár Jánost építési és beruházási miniszterré,
+Lázár Jánost építési és beruházási miniszterré,[^1]
 
 dr. Nagy Istvánt agrárminiszterré,
 
@@ -33,3 +33,5 @@ Varga Mihályt pénzügyminiszterré
 2022. május 24-ei hatállyal kinevezem.
 
 KEH ügyszám: KEH/02741-3/2022.
+
+[^1]: A 336/2022. (XI. 30.) KE határozat alapján Lázár Jánosnak az építési és beruházási miniszteri feladatköri megnevezése 2022. december 1-jei hatállyal építési és közlekedési miniszteri feladatköri megnevezésre módosul.
