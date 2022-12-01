@@ -6,6 +6,8 @@ dr. Bátyi Emesének, a Technológiai és Ipari Minisztérium helyettes államti
 
 a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 234. § (1) bekezdése alapján – a technológiai és ipari miniszter javaslatára –
 
-Siklós Lilit a Technológiai és Ipari Minisztérium helyettes államtitkárává
+Siklós Lilit[^1] a Technológiai és Ipari Minisztérium helyettes államtitkárává
 
 – 2022. november 1-jei hatállyal – kinevezem.
+
+[^1]: A 120/2022. (XII. 23.) ME határozat alapján Siklós Lili tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett az „Energiaügyi Minisztérium” megnevezést kell érteni.
