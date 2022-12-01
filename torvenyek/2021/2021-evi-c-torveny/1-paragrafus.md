@@ -8,4 +8,4 @@
 
 ## 1. A törvény hatálya és értelmezése
 
-1. §
+### 1. §

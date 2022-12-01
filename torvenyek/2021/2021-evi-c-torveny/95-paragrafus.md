@@ -2,4 +2,4 @@
 
 ## JOGHARMONIZÁCIÓS ZÁRADÉK
 
-95. §
+### 95. §

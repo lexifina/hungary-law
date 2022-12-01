@@ -2,4 +2,4 @@
 
 ## A VÁLTOZÁS VEZETÉSÉNEK KÜLÖNÖS SZABÁLYAI
 
-56. §
+### 56. §

@@ -8,4 +8,4 @@
 
 ## 41. Alapvető rendelkezések
 
-73. §
+### 73. §

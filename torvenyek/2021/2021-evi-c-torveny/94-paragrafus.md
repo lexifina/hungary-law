@@ -2,4 +2,4 @@
 
 ## A TÖRVÉNY HIVATALOS RÖVID MEGJELÖLÉSE
 
-94. §
+### 94. §

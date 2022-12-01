@@ -1,3 +1,3 @@
 ## 18. A külföldön kelt okiratok
 
-39. §
+### 39. §

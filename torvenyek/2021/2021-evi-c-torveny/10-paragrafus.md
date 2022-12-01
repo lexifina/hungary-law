@@ -2,4 +2,4 @@
 
 ## AZ INGATLAN-NYILVÁNTARTÁS RÉSZEI
 
-10. §
+### 10. §

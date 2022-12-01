@@ -8,4 +8,4 @@
 
 ## 47. Az ingatlan-nyilvántartási eljáráshoz kapcsolódó mentességek
 
-88. §
+### 88. §

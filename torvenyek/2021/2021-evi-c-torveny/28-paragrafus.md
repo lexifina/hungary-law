@@ -2,4 +2,4 @@
 
 ## AZ ADATVÁLTOZÁS BEJEGYZÉSÉRE IRÁNYULÓ ELJÁRÁS SZABÁLYAI
 
-28. §
+### 28. §

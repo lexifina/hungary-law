@@ -4,4 +4,4 @@
 
 ## 16. Jogok és tények bejegyzése alapjául szolgáló okiratok
 
-32. §
+### 32. §

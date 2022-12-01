@@ -2,4 +2,4 @@
 
 ## ÁTMENETI RENDELKEZÉSEK
 
-93. §
+### 93. §

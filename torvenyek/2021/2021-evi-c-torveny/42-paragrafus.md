@@ -4,4 +4,4 @@
 
 ## 20. Általános szabályok
 
-42. §
+### 42. §

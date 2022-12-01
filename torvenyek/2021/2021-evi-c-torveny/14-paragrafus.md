@@ -4,4 +4,4 @@
 
 ## 9. Az ingatlan-nyilvántartás nyilvánossága
 
-14. §
+### 14. §
