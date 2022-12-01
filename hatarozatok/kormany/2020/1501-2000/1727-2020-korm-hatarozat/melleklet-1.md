@@ -1,4 +1,4 @@
-## 1.[^1] egyetért a Nemzeti Atlétikai Stadion, valamint a gyalogos és kerékpáros híd, illetve egyéb kapcsolódó létesítmény, infrastruktúra, valamint környezetrendezés (a továbbiakban: Beruházás) megvalósításával és a megvalósítási időszak alatti üzemeltetésével legfeljebb 211 982 880 540 forint összegben, az 1. mellékletben megjelölt ingatlanokon;
+## 1.[^1] egyetért a Nemzeti Atlétikai Stadion, valamint a gyalogos és kerékpáros híd, illetve egyéb kapcsolódó létesítmény, infrastruktúra, valamint környezetrendezés (a továbbiakban: Beruházás) megvalósításával és a megvalósítási időszak alatti üzemeltetésével legfeljebb 246 526 880 540 forint összegben, az 1. mellékletben megjelölt ingatlanokon;
 
 ## 2.[^2] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 238 056 556 063 forint összegben határozza meg;
 
@@ -194,7 +194,7 @@ A Beruházás megvalósításához szükséges ingatlanok
 
 | 47. | 38086/235 |
 
-[^1]: Az 1. pont az 1344/2022. (VII. 15.) Korm. határozat a) pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1598/2022. (XII. 1.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 26. pontja szerint módosított szöveg.
 [^3]: Az 5. pont az 1344/2022. (VII. 15.) Korm. határozat c) pontja szerint módosított szöveg.
 [^4]: [Az 1344/2022. (VII. 15.) Korm. határozat d) pontjával elrendelt módosítás, amely szerint a „876 385 979 forint” szövegrész helyébe a „3 963 405 841 forint” szöveg lép, nem vezethető át.]
