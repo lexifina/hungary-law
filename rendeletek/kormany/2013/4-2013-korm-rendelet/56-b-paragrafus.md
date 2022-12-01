@@ -1,3 +1,3 @@
-## 56/A. §[^325]
+56/B. §[^332]
 
-[^325]: Az 56/A. §-t a 482/2021. (VIII. 13.) Korm. rendelet 17. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^332]: Az 56/B. §-t a 417/2015. (XII. 23.) Korm. rendelet 45. §-a iktatta be, hatályon kívül helyezte a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 7. pontja.

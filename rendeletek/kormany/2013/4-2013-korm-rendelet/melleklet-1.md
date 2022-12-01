@@ -1,8 +1,6 @@
-## 58. §[^328]
+1. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^335]
 
-1. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^329]
-
-## A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZELÉSŰ ELŐIRÁNYZATOK
+A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZELÉSŰ ELŐIRÁNYZATOK
 
 1. Az Áht. 14. § (3) bekezdése szerinti fejezetbe tartozó központi kezelésű előirányzatok,
 
@@ -32,5 +30,4 @@
 
 14. a központi költségvetésről szóló törvény 1. melléklet LXXII. fejezet 2. címébe tartozó központi kezelésű előirányzatok.
 
-[^328]: Az 58. §-t a 497/2013. (XII. 29.) Korm. rendelet 110. §-a iktatta be, hatályát vesztette a 2010: CXXX. törvény 12. § (2) bekezdése alapján.
-[^329]: Az 1. melléklet a 245/2022. (VII. 8.) Korm. rendelet 9. § (1) bekezdés 1. pontjával megállapított szöveg.
+[^335]: Az 1. melléklet a 245/2022. (VII. 8.) Korm. rendelet 9. § (1) bekezdés 1. pontjával megállapított szöveg.

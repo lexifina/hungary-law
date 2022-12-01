@@ -1,5 +1,3 @@
-## A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZELÉSŰ ELŐIRÁNYZATOKKAL KAPCSOLATOS NYILVÁNTARTÁSI FELADATOKAT ELLÁTÓ SZERVEK
-
 | Sor- szám | Címrendi besorolás | Adatszolgáltatásra kötelezett | Adatszolgáltatási kör | Adatszolgáltatás gyakorisága |
 
 |  | 1. | 2. | 3. | 4. |
@@ -44,9 +42,9 @@
 
 | 19. | nincs címrendhez kötve | Európai Uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai. A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések adatai. | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^331]
+3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^337]
 
-## Maradványkimutatás
+Maradványkimutatás
 
 01. Alaptevékenység költségvetési bevételei
 
@@ -74,4 +72,4 @@ III. Vállalkozási tevékenység költségvetési egyenlege (05–06)
 
 IV. Vállalkozási tevékenység finanszírozási egyenlege (07–08)
 
-[^331]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
+[^337]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.

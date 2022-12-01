@@ -1,5 +1,5 @@
-## 56/B. §[^326]
-
 ## 27. Hatályon kívül helyező rendelkezések
 
-[^326]: Az 56/B. §-t a 417/2015. (XII. 23.) Korm. rendelet 45. §-a iktatta be, hatályon kívül helyezte a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 7. pontja.
+57. §[^333]
+
+[^333]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
