@@ -1,3 +1,3 @@
-15. melléklet az 51/2022. (XI. 29.) MNB rendelethez[^22]
+15. melléklet az 51/2022. (XI. 29.) MNB rendelethez[^23]
 
-[^22]: A 15. melléklet a 16. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^23]: A 15. melléklet a 16. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
