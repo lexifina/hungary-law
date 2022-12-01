@@ -6,7 +6,7 @@ b) kidolgozza az országos fejlesztési és területfejlesztési koncepciót, va
 
 c) elősegíti a területi tervek, valamint a területi tervek és az ágazati tervek összhangját;
 
-d) a Kormány részére javaslatot tesz a régiók területi lehatárolására, az érintett megyei önkormányzatok és az országos önkormányzati szövetségek véleményének figyelembevételével, a miniszterrel egyetértésben;
+d) a Kormány részére javaslatot tesz a régiók területi lehatárolására, az érintett megyei önkormányzatok és az országos önkormányzati szövetségek véleményének figyelembevételével, a területfejlesztési miniszterrel egyetértésben;
 
 e)
 

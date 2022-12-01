@@ -1,8 +1,10 @@
-## A miniszter és más miniszterek feladatai
+## A területfejlesztésért felelős miniszter és más miniszterek feladatai
 
-9. § (1) A miniszter
+9. § (1) A területfejlesztésért felelős miniszter
 
-a)–b)
+a)
+
+b)
 
 c) közreműködik a kiemelt térségekre vonatkozó fejlesztési programok kidolgozásában, szervezi a végrehajtásukkal összefüggő feladatok teljesítését, és az e célt szolgáló anyagi eszközök felhasználását az érintett miniszterekkel együttműködve;
 
@@ -14,7 +16,9 @@ f) elősegíti az érintett miniszterekkel együttműködve a forráskoordináci
 
 g) elősegíti a területfejlesztési koncepciók és programok összhangját;
 
-h)–i)
+h)
+
+i)
 
 j)
 

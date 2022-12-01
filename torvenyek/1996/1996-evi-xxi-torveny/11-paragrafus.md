@@ -16,6 +16,8 @@ ae) a tervezés és a végrehajtás során gondoskodik a partnerség elvének é
 
 af) részt vesz a határ menti megyék határon átnyúló nemzetközi fejlesztési programjainak tervezésében, kidolgozásában;
 
+ag) a területi szempontú operatív program megalapozása érdekében integrált területi programot készít és részt vesz annak végrehajtásában;
+
 b) a területfejlesztési tervek végrehajtásával kapcsolatos feladatok ellátása keretében:
 
 ba) nyomon követi és értékeli a megyei vagy fővárosi területfejlesztési koncepció és a megyei vagy fővárosi területfejlesztési programok végrehajtását,
@@ -42,7 +44,7 @@ cc) a települési önkormányzatok felkérése alapján elősegíti a helyi ön
 
 cd) szakmai kapacitásával segíti a területfejlesztési önkormányzati társulások és a térségi fejlesztési tanácsok tervező, döntés-előkészítő, fejlesztési célokat feltáró, pályázatokat megalapozó tevékenységét,
 
-ce) a térségi gazdaságfejlesztő szervezet útján koordinálja a megye területén az ipari parkok és a szabad vállalkozási zónák tevékenységét, az önkormányzatok és a gazdasági szervezetek fejlesztési elképzeléseit a megye gazdasági szereplőivel együttműködve,
+ce) a térségi gazdaságfejlesztő szervezet útján koordinálja a megye területén az önkormányzatok és a gazdasági szervezetek fejlesztési elképzeléseit a megye gazdasági szereplőivel együttműködve,
 
 cf) vizsgálja és értékeli a megye vagy a főváros társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a területi információs rendszer rendelkezésére bocsátja,
 

@@ -2,7 +2,7 @@
 
 a) a térségi és helyi közösségek területfejlesztési és területrendezési kezdeményezéseinek elősegítése, összehangolása az országos célkitűzésekkel;
 
-b) fejlesztési koncepciók, programok és tervek kidolgozása, meghatározása és megvalósítása, a társadalom, a gazdaság és a környezet dinamikus egyensúlyának fenntartása, illetve javítása érdekében;
+b) területfejlesztési koncepciók, programok és tervek kidolgozása, meghatározása és megvalósítása, a társadalom, a gazdaság és a környezet dinamikus egyensúlyának fenntartása, illetve javítása érdekében;
 
 c) a nemzetközi együttműködés keretében az Európai Unió regionális politikájához illeszkedés elősegítése, valamint a regionális együttműködésben rejlő kölcsönös előnyök hasznosítása és a határmenti (különösen a hátrányos helyzetű határmenti) térségek összehangolt fejlesztésének elősegítése.
 

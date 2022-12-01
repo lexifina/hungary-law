@@ -18,6 +18,8 @@ e)
 
 f) az éves költségvetési törvény elfogadása során dönt a területfejlesztést és területrendezést szolgáló pénzeszközökről és ezzel egyidejűleg egyes pénzügyi kedvezményekről;
 
-g)–h)
+g)
+
+h)
 
 i) meghatározza a területfejlesztéssel kapcsolatos önkormányzati feladatokat és ezek forrásait.

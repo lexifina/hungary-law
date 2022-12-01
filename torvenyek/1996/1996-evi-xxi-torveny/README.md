@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-21-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 1996-21-00-00.59 |
 | 2022-06-22 | 2022. évi VII. törvény | 1996-21-00-00.60 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 1996-21-00-00.61 |
+| 2022-12-01 | 2022. évi XLVIII. törvény | 1996-21-00-00.63 |

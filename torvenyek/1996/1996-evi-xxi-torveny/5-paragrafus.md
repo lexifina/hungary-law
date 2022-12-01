@@ -6,9 +6,9 @@ a) területfejlesztés:
 
 az országra, valamint térségeire kiterjedő
 
-aa) társadalmi, gazdasági és környezeti területi folyamatok figyelése, értékelése, a szükséges tervszerű beavatkozási irányok meghatározása,
+aa) társadalmi, gazdasági és környezeti területi folyamatok vizsgálata, értékelése, a szükséges tervszerű beavatkozási irányok meghatározása,
 
-ab) rövid, közép- és hosszú távú átfogó fejlesztési célok, koncepciók és intézkedések meghatározása, összehangolása és megvalósítása a fejlesztési programok keretében, érvényesítése az egyéb ágazati döntésekben;
+ab) rövid, közép- és hosszú távú átfogó fejlesztési célok, koncepciók és intézkedések meghatározása, összehangolása és megvalósítása a területfejlesztési programok keretében, érvényesítése az egyéb ágazati döntésekben;
 
 b) területrendezés: az országra, illetve térségeire kiterjedően a területfelhasználás rendjének és a területhasználat szabályainak megállapítása, e körben:
 
@@ -36,9 +36,9 @@ i) térség: különböző területi egységek (az ország, a régió, a megye, 
 
 j) szabad vállalkozási zóna: a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal vagy helyrajzi számokkal lehatárolt, különböző feltételeket teljesítő, a fejlesztés szempontjából együtt kezelt térség, illetve kedvezményezett térségben a Kormány által egyedileg meghatározott, nemzetgazdasági érdekből kiemelt gazdasági ágazat, amely a térség fejlődése érdekében sajátos kedvezményeket biztosít;
 
-k) elmaradott térség: ahol a gazdaság értéktermelő képessége, infrastrukturális fejlettsége és társadalmi mutatói jelentősen kedvezőtlenebbek az országos átlagnál;
+k) elmaradott térség: ahol a gazdaság értéktermelő képessége, infrastrukturális fejlettsége és társadalmi mutatók jelentősen kedvezőtlenebbek az országos átlagnál;
 
-l) kedvezményezett térség: az érvényes területfejlesztési célok figyelembevételével, statisztikai jellemzők alapján meghatározott térségek köre, amelyek önkormányzatai, illetőleg azok közigazgatási területén tervezett programok és fejlesztések pénzügyi, gazdasági ösztönzőkkel támogathatók;
+l) kedvezményezett térség: az érvényes területfejlesztési célok figyelembevételével, statisztikai jellemzők alapján meghatározott térségek köre, amelyek önkormányzatai, illetőleg azok közigazgatási területén tervezett programok és fejlesztések pénzügyi, gazdasági ösztönzőkkel kiemelten támogathatók;
 
 m) területfejlesztési koncepció: az ország, illetve egy térség átfogó távlati fejlesztését megalapozó és befolyásoló tervdokumentum, ami meghatározza a térség hosszú távú, átfogó fejlesztési céljait, továbbá a fejlesztési programok kidolgozásához szükséges irányelveket, információkat biztosít az ágazati és a kapcsolódó területi tervezés és a területfejlesztés szereplői számára;
 
@@ -46,9 +46,9 @@ n) területfejlesztési program: a területfejlesztési koncepció alapján kido
 
 o) operatív program: az Európai Unió pénzügyi tervezési időszakaihoz kapcsolódó, összefüggő prioritások mentén fejlesztési stratégiát meghatározó, strukturális és kohéziós alapok felhasználásával ágazati vagy területi szempontú fejlesztéseket megvalósító terv, amelyet a Kormány döntése alapján, a tagállami benyújtást követően az Európai Bizottság hagy jóvá,
 
-p) ipari park: infrastruktúrával ellátott olyan terület, ahol elsősorban termelő és feldolgozóipari tevékenységet végző, valamint innovációra törekvő vállalkozások találhatóak;
+p)
 
-r) innovációs központok: azon megfelelő termelési és szellemi háttérrel, illetve kapcsolatrendszerrel rendelkező települések, amelyek a gazdaság növekedését, szerkezetváltását és megújulását, illetve a társadalmi fejlődést nagyobb térségben segítik elő, vagy mindezek elérése érdekében tudatos fejlesztési politika érvényesül;
+r)
 
 s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
 
