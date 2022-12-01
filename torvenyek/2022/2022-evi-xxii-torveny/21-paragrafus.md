@@ -10,6 +10,6 @@
 
 (5) Az I. Fejezet, a 10. alcím, a 24. § 1. és 3. pontja, a 15–16. alcím, a 28. § 2. pontja, a 18–34. alcím, a 47. §, a 36. alcím, az 50. §, a 38–51. alcím, az 53–59. alcím, a 74. §, a 61–77. alcím, a 94. §, a 79–119. alcím, a 140. § (1) bekezdés 1–4. pontja, a 140. § (1) bekezdés 6. pontja, a 142. § (1)–(2) bekezdése, a 142. § (3) bekezdés 1–3. pontja, a 122–124. alcím, a 147. §, a 126. alcím, a 153. § b) pontja, a 128. alcím, a 157. §, a 130–148. alcím, a 186. § (1) bekezdés 2. pontja és 4–5. pontja, a 186. § (3) bekezdés 1–2. pontja, a 150–188. alcím, a 191. alcím, a 193–196. alcím, a 198–200. alcím és a 2–4. melléklet 2023. január 1-jén lép hatályba.
 
-(6) A 24. § 2. pontja, a 192. alcím és a 197. alcím 2023. február 1-jén lép hatályba.
+(6) A 190. alcím 2023. július 1-jén lép hatályba.
 
-(7) A 190. alcím 2023. július 1-jén lép hatályba.
+(7) A 24. § 2. pontja, a 192. alcím és a 197. alcím 2024. február 1-jén lép hatályba.
