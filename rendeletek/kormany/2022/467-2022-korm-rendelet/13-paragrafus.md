@@ -1,3 +1,3 @@
-13. §[^13]
+13. § Az R. a következő 198. §-sal egészül ki:
 
-[^13]: A 13. § a 18. § (2) bekezdés alapján 2022. december 1-jén lép hatályba.
+„198. § Az Energiaügyi Minisztérium a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény szerinti Technológiai és Ipari Minisztérium átnevezésével működik tovább.”

@@ -1,3 +1,3 @@
-1. §[^1]
+1. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 8. alcím címe helyébe a következő alcím cím lép:
 
-[^1]: Az 1. § a 18. § (2) bekezdés alapján 2022. december 1-jén lép hatályba.
+„8. Az építési és közlekedési miniszter feladat- és hatásköre”

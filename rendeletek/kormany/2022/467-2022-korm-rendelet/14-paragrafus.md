@@ -1,3 +1,3 @@
-14. §[^14]
+14. § Az R. a következő 199. §-sal egészül ki:
 
-[^14]: A 14. § a 18. § (2) bekezdés alapján 2022. december 1-jén lép hatályba.
+„199. § Az Építési és Közlekedési Minisztérium a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény szerinti Építési és Beruházási Minisztérium átnevezésével működik tovább.”
