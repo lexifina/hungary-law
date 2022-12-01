@@ -1,4 +1,4 @@
-102/A. §[^8] (1) A miniszter a közlekedésért való felelőssége keretében előkészíti
+102/A. §[^10] (1) A miniszter a közlekedésért való felelőssége keretében előkészíti
 
 a) a közlekedés védelmére és biztonságára,
 
@@ -32,4 +32,4 @@ e) ellátja az a)–d) pont finanszírozásával kapcsolatos feladatokat.
 
 (5) A miniszter a közlekedésért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.
 
-[^8]: A 102/A. §-t a 467/2022. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 102/A. §-t a 467/2022. (XI. 21.) Korm. rendelet 3. §-a iktatta be.

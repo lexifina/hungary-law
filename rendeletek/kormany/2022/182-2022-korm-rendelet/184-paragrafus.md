@@ -12,7 +12,7 @@ d) az agrárminiszter esetében az AM,
 
 e) a belügyminiszter esetében a BM,
 
-f) az építési és beruházási miniszter esetében az ÉBM,
+f)[^45] az építési és közlekedési miniszter esetében az ÉKM,
 
 g) a gazdaságfejlesztési miniszter estében a GFM,
 
@@ -26,8 +26,11 @@ k) a külgazdasági és külügyminiszter esetében a KKM,
 
 l) a pénzügyminiszter esetében a PM,
 
-m) a technológiai és ipari miniszter esetében a TIM,
+m)[^46] az energiaügyi miniszter esetében az EM,
 
 n) a területfejlesztési miniszter esetében a TFM
 
 rövid megjelölést kell alkalmazni.
+
+[^45]: A 184. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
+[^46]: A 184. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) és e) pontja szerint módosított szöveg.

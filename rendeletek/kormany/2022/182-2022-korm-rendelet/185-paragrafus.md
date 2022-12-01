@@ -10,7 +10,7 @@ d) az agrárminisztert a pénzügyminiszter,
 
 e) a belügyminisztert az igazságügyi miniszter,
 
-f) az építési és beruházási minisztert a Miniszterelnökséget vezető miniszter,
+f)[^47] az építési és közlekedési minisztert a Miniszterelnökséget vezető miniszter,
 
 g) a gazdaságfejlesztési minisztert a pénzügyminiszter,
 
@@ -24,8 +24,12 @@ k) a külgazdasági és külügyminisztert a honvédelmi miniszter,
 
 l) a pénzügyminisztert a gazdaságfejlesztési miniszter,
 
-m) a technológiai és ipari minisztert a területfejlesztési miniszter,
+m)[^48] az energiaügyi minisztert a területfejlesztési miniszter,
 
-n) a területfejlesztési minisztert a technológiai és ipari miniszter
+n)[^49] a területfejlesztési minisztert az energiaügyi miniszter
 
 helyettesíti.
+
+[^47]: A 185. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^48]: A 185. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^49]: A 185. § n) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) pontja szerint módosított szöveg.
