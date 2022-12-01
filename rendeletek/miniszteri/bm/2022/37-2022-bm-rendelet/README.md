@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-37-20-0
 | --- | --- | --- |
 | 2022-11-01 | 2022-37-20-0A.1 | 37/2022. (X. 28.) BM rendelet |
 | 2022-11-02 | 2022-37-20-0A.2 | 2010. évi CXXX. törvény |
+| 2022-12-01 | 2022-37-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
