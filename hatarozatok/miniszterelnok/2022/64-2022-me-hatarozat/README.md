@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-64-30-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-08-05 | 2022-64-30-63.1 | 64/2022. (VIII. 5.) ME határozat |
+| 2022-12-01 | 2022-64-30-63.2 | 120/2022. (XII. 23.) ME határozat |
