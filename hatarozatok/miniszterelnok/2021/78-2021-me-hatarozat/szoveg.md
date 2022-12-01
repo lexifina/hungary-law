@@ -8,4 +8,4 @@ az Innovációs és Technológiai Minisztérium helyettes államtitkárává[^1]
 
 kinevezem.
 
-[^1]: A 47/2022. (VI. 11.) ME határozat alapján akként módosul, hogy az „Innovációs és Technológiai Minisztérium” megnevezés helyett a „Technológiai és Ipari Minisztérium” megnevezést kell érteni.
+[^1]: A 47/2022. (VI. 11.) ME határozat alapján akként módosul, hogy az „Innovációs és Technológiai Minisztérium” megnevezés helyett a „Technológiai és Ipari Minisztérium” megnevezést kell érteni. A 120/2022. (XII. 23.) ME határozat alapján akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett az „Energiaügyi Minisztérium” megnevezést kell érteni.
