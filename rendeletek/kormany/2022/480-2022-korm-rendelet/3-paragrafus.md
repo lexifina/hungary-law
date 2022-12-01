@@ -1,0 +1,3 @@
+3. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 23. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az Áht. 21. § (6) bekezdése szerinti Beruházási Alap terhére átcsoportosított forrás nem teljes körű felhasználásából, valamint az e forrás felhasználásával nyújtott támogatásból származó forrást – ideértve a támogatás jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása esetén fizetendő kamat összegét is – a Kincstár által megjelölt fizetési számlára kell megfizetni, amely a Beruházási Alap előirányzatát növeli.”
