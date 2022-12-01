@@ -1,3 +1,3 @@
-10. §[^49]
+10. §[^48]
 
-[^49]: Az Ávr. 10. §-át a 20/2015. (II. 17.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte.
+[^48]: Az Ávr. 10. §-át a 20/2015. (II. 17.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte.

@@ -12,7 +12,7 @@ d) – ha a költségvetési támogatás összege nem haladja meg a húszmillió
 
 e) – ha a pályázati kiírás ekként rendelkezik – a működési célú vagy kutatásra, fejlesztésre vagy innovációra irányuló költségvetési támogatásban részesülő bármely kedvezményezett részére,
 
-f)[^413] az Európai Hálózatfinanszírozási Eszközből származó forrás terhére megvalósuló projektek esetében végrehajtó szervként eljáró, a Polgári Törvénykönyv szerint többségi állami befolyás alatt álló gazdasági társaság esetében, ha az alábbi feltételek egyike teljesül:
+f)[^414] az Európai Hálózatfinanszírozási Eszközből származó forrás terhére megvalósuló projektek esetében végrehajtó szervként eljáró, a Polgári Törvénykönyv szerint többségi állami befolyás alatt álló gazdasági társaság esetében, ha az alábbi feltételek egyike teljesül:
 
 fa) a támogatásból létrejövő vagyon ingyenesen az állam, helyi önkormányzat vagy nemzetiségi önkormányzat kizárólagos tulajdonába, vasúti pályahálózat működtetője vagy közszolgáltatást ellátó gazdasági társaság kizárólagos tulajdonába kerül,
 
@@ -20,13 +20,15 @@ fb) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás ala
 
 fc) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás alatt álló gazdasági társaság a támogatást az fb) alpontban meghatározott szervezetek valamelyikének többségi befolyása alatt álló jogi személy olyan vagyontárgyának fejlesztésére fordítja, amely közfeladat ellátását szolgálja vagy közfeladat ellátását mozdítja elő,
 
-g)[^414] a vasúti közlekedésről szóló törvény szerint a közlekedésért felelős miniszter által az országos jelentőségű vasútvonalak működtetésére alapított vagy kijelölt kizárólagos állami tulajdonban lévő gazdasági társaság részére,
+g)[^415] a vasúti közlekedésről szóló törvény szerint a közlekedésért felelős miniszter által az országos jelentőségű vasútvonalak működtetésére alapított vagy kijelölt kizárólagos állami tulajdonban lévő gazdasági társaság részére,
 
-h)[^415] a kedvezményezett kérelmére, – ha a kedvezményezett legkésőbb a támogatási jogviszony létrehozását megelőző évben megalapításra került, és szerepel az Art. 260. §-a szerint közzétett köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja – a turisztikai fejlesztés megvalósítása érdekében létrejött támogatási jogviszony keretében,
+h)[^416] a kedvezményezett kérelmére, – ha a kedvezményezett legkésőbb a támogatási jogviszony létrehozását megelőző évben megalapításra került, és szerepel az Art. 260. §-a szerint közzétett köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja – a turisztikai fejlesztés megvalósítása érdekében létrejött támogatási jogviszony keretében,
 
-i)[^416] a sportért felelős miniszter által a sportcélú infrastruktúra-fejlesztések és az azokhoz kapcsolódó vagyonjogi ügyletek, továbbá a sportszakmai feladatellátáshoz kapcsolódó működési célú költségek támogatására létrehozott, közfeladat ellátását szolgáló vagy közfeladatot megvalósító kedvezményezettek részére – ha a kedvezményezett legkésőbb a támogatási jogviszony létrehozását megelőző évben megalapításra került, és szerepel az Art. 260. §-a szerint közzétett köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja – közfeladat ellátását előmozdító támogatási jogviszony keretében,
+i)[^417] a sportért felelős miniszter által a sportcélú infrastruktúra-fejlesztések és az azokhoz kapcsolódó vagyonjogi ügyletek, továbbá a sportszakmai feladatellátáshoz kapcsolódó működési célú költségek támogatására létrehozott, közfeladat ellátását szolgáló vagy közfeladatot megvalósító kedvezményezettek részére – ha a kedvezményezett legkésőbb a támogatási jogviszony létrehozását megelőző évben megalapításra került, és szerepel az Art. 260. §-a szerint közzétett köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja – közfeladat ellátását előmozdító támogatási jogviszony keretében,
 
-j)[^417] a Magyarországon bejegyzett gazdasági társaság és az EGT államban bejegyzett vállalkozás magyarországi fióktelepe a nemzetközi piacra jutásának elősegítésével kapcsolatos közfeladat megvalósítása érdekében
+j)[^418] a Magyarországon bejegyzett gazdasági társaság és az EGT államban bejegyzett vállalkozás magyarországi fióktelepe a nemzetközi piacra jutásának elősegítésével kapcsolatos közfeladat megvalósítása érdekében
+
+k)[^419] többségi állami befolyás alatt álló, a villamos energiáról szóló törvény szerinti hálózati engedélyes gazdasági társaság részére, a hálózatfejlesztési beruházáshoz nyújtott támogatási jogviszony keretében
 
 folyósított költségvetési támogatás esetén eltekinthet.
 
@@ -36,8 +38,9 @@ a) a kedvezményezett valamennyi – jogszabály alapján beszedési megbízáss
 
 b) bármely olyan eszköz – így különösen zálogjog kikötése, garancia, kezesség, óvadék –, amely biztosítja, hogy a támogató a költségvetési támogatás visszafizetésére vonatkozó igényét maradéktalanul, a lehető legrövidebb időn belül eredményesen tudja érvényesíteni.
 
-[^413]: Az Ávr. 84. § (1) bekezdés f) pontját a 264/2016. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.
-[^414]: Az Ávr. 84. § (1) bekezdés g) pontját a 426/2017. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
-[^415]: Az Ávr. 84. § (1) bekezdés h) pontját a 404/2020. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^416]: Az Ávr. 84. § (1) bekezdés i) pontját a 404/2020. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^417]: Az Ávr. 84. § (1) bekezdés j) pontját a 445/2020. (X. 1.) Korm. rendelet 9. §-a iktatta be.
+[^414]: Az Ávr. 84. § (1) bekezdés f) pontját a 264/2016. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.
+[^415]: Az Ávr. 84. § (1) bekezdés g) pontját a 426/2017. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^416]: Az Ávr. 84. § (1) bekezdés h) pontját a 404/2020. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^417]: Az Ávr. 84. § (1) bekezdés i) pontját a 404/2020. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^418]: Az Ávr. 84. § (1) bekezdés j) pontját a 445/2020. (X. 1.) Korm. rendelet 9. §-a iktatta be.
+[^419]: Az Ávr. 84. § (1) bekezdés k) pontját a 480/2022. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
