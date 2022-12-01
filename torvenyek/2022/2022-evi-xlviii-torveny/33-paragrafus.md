@@ -1,0 +1,1 @@
+33. § Az Mötv. 141. § (1) bekezdés a) pontjában a „jegyzőkönyv” szövegrész helyébe a „jegyzőkönyv, valamint a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke és a jegyző képviselő-testület által átruházott hatáskörében meghozott – hatósági döntésnek nem minősülő – döntései” szöveg lép.
