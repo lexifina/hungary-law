@@ -6,8 +6,10 @@ Hizó Ferenc Krisztiánt, a Technológiai és Ipari Minisztérium helyettes áll
 
 felmentem, egyidejűleg
 
-dr. Zöld-Nagy Viktóriát a Technológiai és Ipari Minisztérium helyettes államtitkárává
+dr. Zöld-Nagy Viktóriát[^1] a Technológiai és Ipari Minisztérium helyettes államtitkárává
 
 – 2022. július 30-ai hatállyal –
 
 kinevezem.
+
+[^1]: A 120/2022. (XII. 23.) ME határozat alapján dr. Zöld-Nagy Viktória tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett az „Energiaügyi Minisztérium” megnevezést kell érteni.
