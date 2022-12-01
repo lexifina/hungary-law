@@ -36,40 +36,17 @@
 
 | Határidő: | azonnal |
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaságvédelmi programok előirányzatból történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, címrendi módosításról, valamint kötelezettségvállalás engedélyezéséről szóló 1146/2021. (III. 31.) Korm. határozat 1.3. pontjában a „2023. március 31.” szövegrész helyébe a „2023. november 30.” szöveg lép.
+## 2.[^1]
 
-## 3. A Békés Megyei Központi Kórház kiszolgáló infrastruktúrájának rekonstrukcióját, valamint többirányú hasznosítását célzó beruházás előkészítési feladataihoz szükséges forrás biztosításáról szóló 1873/2021. (XII. 3.) Korm. határozat
+## 3.[^2]
 
-## a) 2. pontjában az „a), c), e), j), n), o) és p) pontja” szövegrész helyébe az „a), c), e), n), o) és p) pontja” szöveg,
+## 4.[^3]
 
-## b) 2. pontjában a „2022. július 31.” szövegrész helyébe a „2023. július 31.” szöveg,
-
-## c) 5. és 6. pontjában a „2022. október 31.” szövegrész helyébe a „2023. augusztus 31.” szöveg
-
-## lép.
-
-## 4. Az egyes gazdaságvédelmi célú források átcsoportosításának első üteméről és a 2022. év során történő biztosításáról szóló 1664/2021. (IX. 28.) Korm. határozat [a továbbiakban: 1664/2021. (IX. 28.) Korm. határozat] 4. és 5. pontja helyébe a következő rendelkezések lépnek:
-
-## (A Kormány)
-
-## „4. felhívja a pénzügyminisztert, hogy gondoskodjon 10 080 000 000 forint többletforrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 3. Külügyi fejlesztési és kutatási programok jogcímcsoport javára;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | 3 130 000 000 forint tekintetében a 2023. évi központi költségvetés végrehajtása során 2023. február 15-ig 6 950 000 000 forint tekintetében a 2023. évi központi költségvetés végrehajtása során 2023. június 15-ig |
-
-## 5. az Áht. 36. § (4b) és (4c) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban meghatározott cél érdekében a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 3. Külügyi fejlesztési és kutatási programok jogcímcsoporton biztosított előirányzaton felül 10 080 000 000 forint összegben kötelezettséget vállaljon;”
-
-## 5. Az 1664/2021. (IX. 28.) Korm. határozat a következő 7. és 8. ponttal egészül ki:
-
-## (A Kormány)
-
-## „7. felhívja a pénzügyminisztert, hogy gondoskodjon 4 470 127 497 forint forrás biztosításáról a 2024. évi központi költségvetés XVIII. Külgazdasági és Külügyminisztérium fejezet Külügyi fejlesztési és kutatási programok lebonyolítására szolgáló előirányzat javára;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | a 2024. évi központi költségvetés tervezése során |
-
-## 8. az Áht. 36. § (4c) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban meghatározott cél érdekében a 2024. évi központi költségvetés terhére a XVIII. Külgazdasági és Külügyminisztérium fejezet Külügyi fejlesztési és kutatási programok lebonyolítására biztosított előirányzaton felül 4 470 127 497 forint összegben kötelezettséget vállaljon.”
+## 5.[^4]
 
 1. melléklet az 1588/2022. (XI. 30.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
