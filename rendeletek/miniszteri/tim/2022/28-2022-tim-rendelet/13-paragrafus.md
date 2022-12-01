@@ -1,3 +1,3 @@
-13. § A Rendelet 44. §-a a következő (6) bekezdéssel egészül ki:
+13. §[^14]
 
-„(6) A 2012/21/EU bizottsági határozat alapján támogatás kizárólag a támogatható tevékenység tekintetében megbízási aktussal rendelkező kedvezményezett részére nyújtható.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

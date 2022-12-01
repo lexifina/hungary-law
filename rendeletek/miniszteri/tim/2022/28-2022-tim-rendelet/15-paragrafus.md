@@ -1,3 +1,3 @@
-15. § A Rendelet 54. § (5) bekezdése helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„(5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

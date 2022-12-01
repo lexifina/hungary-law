@@ -1,5 +1,3 @@
-## „c) az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a 0,8 millió eurót.”
+11. §[^12]
 
-11. § A Rendelet 23. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A támogatási intenzitás – a (2) bekezdésben meghatározott mértéken túl – az Atr. 25. § (1) bekezdése szerinti régióban megvalósuló beruházás esetén 15 százalékponttal növelhető.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

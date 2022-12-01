@@ -1,5 +1,3 @@
-## „c) az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a 2 millió eurót.”
+9. §[^10]
 
-9. § A Rendelet 13. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Ha a támogatás formája nem piaci díj ellenében, legfeljebb 10 éves futamidőre nyújtott kezességvállalás, a kezességvállalással biztosított hitel névértéke nem haladhatja meg)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

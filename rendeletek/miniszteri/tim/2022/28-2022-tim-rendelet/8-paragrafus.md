@@ -1,3 +1,3 @@
-8. § A Rendelet 12. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(Ha a támogatás formája nem piaci kamatozású, legfeljebb tízéves futamidőre nyújtott hitel, annak névértéke nem haladhatja meg)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

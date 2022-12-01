@@ -1,5 +1,3 @@
-## „c) az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a 3 millió eurót.”
+10. §[^11]
 
-10. § A Rendelet 14. § c) pontja helyébe a következő rendelkezés lép:
-
-(Ha a támogatás formája vissza nem térítendő támogatás – ideértve a sajáttőke-befektetést és a kvázisajáttőke-befektetést is –, kamatlábcsökkentés vagy kezességvállalási díjcsökkentés, annak bruttó támogatási egyenértéke nem haladhatja meg)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
