@@ -1,3 +1,3 @@
 ## 36. A kölcsönzött kulturális javak különleges védelméről szóló 2012. évi XCV. törvény módosítása
 
-87. §
+### 87. §
