@@ -754,7 +754,7 @@ b) a belügyminiszter,
 
 c) az igazságügyi miniszter,
 
-d) az építési és beruházási miniszter,
+d)[^2] az építési és közlekedési miniszter,
 
 e) a kultúráért és innovációért felelős miniszter,
 
@@ -882,17 +882,19 @@ való felelősségi körökbe tartozó előterjesztésekre és jelentésekre ter
 
 100. A Gazdasági Kabinet elnöke a pénzügyminiszter.
 
-101. A Gazdasági Kabinet állandó tagja
+101.[^3] A Gazdasági Kabinet állandó tagja
 
 a) a Miniszterelnöki Kabinetirodát vezető miniszter,
 
 b) a Miniszterelnökséget vezető miniszter,
 
-c) a technológiai és ipari miniszter,
+c) az energiaügyi miniszter,
 
-d) a gazdaságfejlesztési miniszter,
+d) az építési és közlekedési miniszter,
 
-e) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek.
+e) a gazdaságfejlesztési miniszter,
+
+f) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek.
 
 102. (1) A Gazdasági Kabinet ülésén állandó meghívottként részt vesz a Miniszterelnöki Kormányiroda közigazgatási államtitkára.
 
@@ -1018,7 +1020,7 @@ való felelősségi körökbe tartozó előterjesztésekre és jelentésekre ter
 
 104. A Növekedési és Versenyképességi Kabinet elnöke a gazdaságfejlesztési miniszter.
 
-105. A Növekedési és Versenyképességi Kabinet állandó tagja
+105.[^4] A Növekedési és Versenyképességi Kabinet állandó tagja
 
 a) a Miniszterelnöki Kabinetirodát vezető miniszter,
 
@@ -1028,11 +1030,13 @@ c) a külgazdasági és külügyminiszter,
 
 d) a pénzügyminiszter,
 
-e) az építési és beruházási miniszter,
+e) az energiaügyi miniszter,
 
-f) a területfejlesztési miniszter,
+f) az építési és közlekedési miniszter,
 
-g) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek.
+g) a területfejlesztési miniszter,
+
+h) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek.
 
 106. (1) A Növekedési és Versenyképességi Kabinet ülésén állandó meghívottként részt vesz
 
@@ -1330,7 +1334,10 @@ VI. ZÁRÓ RENDELKEZÉSEK
 
 136. Ez a határozat a közzétételét követő napon lép hatályba.
 
-137.[^2]
+137.[^5]
 
 [^1]: Az 51. pont (1) bekezdés i) pontját az 1390/2022. (VIII. 11.) Korm. határozat 1. pontja iktatta be.
-[^2]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 96. pont d) alpontja az 1587/2022. (XI. 30.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^3]: A 101. pont az 1587/2022. (XI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 105. pont az 1587/2022. (XI. 30.) Korm. határozat 3. pontjával megállapított szöveg..
+[^5]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
