@@ -1,6 +1,8 @@
 10/H. § (1) Aki tevékenységével vagy mulasztásával a fluortartalmú üvegházhatású gázokkal kapcsolatos jogszabály, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy a klímavédelemért felelős hatóság határozatában foglalt előírásait megsérti, az azokban foglalt kötelezettségeit nem vagy nem megfelelően teljesíti, vagy a tevékenységet nyilvántartásba vétel nélkül vagy attól eltérően végzi, azt a klímavédelemért felelős hatóság klímavédelmi bírság megfizetésére kötelezi.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) A klímavédelmi bírság mértékének meghatározásakor a klímavédelemért felelős hatóság a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett figyelembe veszi különösen a jogsértő magatartás konkrét veszélyességét vagy károsító hatását, továbbá a termékekben és berendezésekben használt fluortartalmú üvegházhatású gázok mennyiségét és annak a klímavédelemmel összefüggésben kitűzött célok megvalósítására való veszélyességét.
 

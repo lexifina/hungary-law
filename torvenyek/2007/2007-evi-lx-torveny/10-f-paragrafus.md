@@ -6,6 +6,4 @@
 
 (4) Magyarország területén fluortartalmú üvegházhatású gázokat tartalmazó termékekben és berendezésekben lévő gázok visszanyerése, újrahasznosítása és regenerálása során kizárólag az uniós jogi aktusban meghatározott képesítéssel és képzettséggel rendelkező vállalkozások járhatnak el. A visszanyerés, újrahasznosítás és regenerálás során az ezen tevékenységet végző vállalkozásoknak, üzemeltetőknek és tulajdonosoknak az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint kell eljárni. A visszanyerésről, újrahasznosításról és regenerálásról a klímavédelemért felelős hatóság részére a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon kell jelentést és adatszolgáltatást tenni.
 
-(5)
-
-A fluortartalmú üvegházhatású gázokkal kapcsolatos egyes hatósági tevékenységek
+(5) A fluortartalmú üvegházhatású gázokkal kapcsolatos egyes hatósági tevékenységek

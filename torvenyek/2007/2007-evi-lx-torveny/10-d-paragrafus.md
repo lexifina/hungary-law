@@ -4,4 +4,6 @@
 
 (3) Az uniós jogi aktusban rögzített tilalmak alá eső termékek és berendezések esetében a klímavédelemért felelős hatóság útján az Európai Bizottság felé forgalombahozatali mentességi kérelem nyújtható be. A kérelem benyújtásának részletes szabályait az e törvény végrehajtására kiadott kormányrendelet határozza meg.
 
-(4)–(5)
+(4)
+
+(5)
