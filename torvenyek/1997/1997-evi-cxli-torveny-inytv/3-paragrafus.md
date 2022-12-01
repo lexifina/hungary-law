@@ -1,3 +1,3 @@
 ## Az ingatlan-nyilvántartás elvei
 
-3. §
+### 3. §

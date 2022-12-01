@@ -1,6 +1,8 @@
 ## Kijavítás, kiegészítés, módosítás és visszavonás
 
-54. § (1)–(2)
+54. § (1)
+
+(2)
 
 (3)
 

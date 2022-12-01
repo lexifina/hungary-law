@@ -8,7 +8,7 @@ b) annak, aki a bejegyzés folytán jogosulttá vált, illetőleg akinek érdek�
 
 c) annak, akinek bejegyzett joga módosult vagy megszűnt, illetőleg akinek érdekében a bejegyzett jog vagy tény módosult vagy megszűnt,
 
-d) tulajdoni hányadot érintő tulajdonjog-bejegyzés esetén valamennyi tulajdonostársnak,
+d) tulajdoni hányadot érintő tulajdonjog-bejegyzés esetén valamennyi tulajdonostársnak, kivéve ha a bejegyzés végleges vagy jogerős hatósági, illetve jogerős bírósági határozaton alapul,
 
 e) a földrészlet tulajdonosának, ha egyéb önálló ingatlan tulajdonjogát ruházták át,
 
@@ -44,7 +44,7 @@ c) annak, akinek a kérelmére (megkeresésére) valamely jogilag jelentős tén
 
 (6) Hirdetményi úton kézbesíti az ingatlanügyi hatóság a döntését azon jogosult részére, akinek az ingatlan-nyilvántartásba lakcíme nincs bejegyezve, vagy a személyiadat- és lakcímnyilvántartásban szereplő adattal történő összevetés alapján megállapítható, hogy az ingatlan-nyilvántartásba felvett lakcím időközben megszűnt és a jogosult nem rendelkezik érvényes lakcímmel.
 
-(7)
+(7) Ha az e törvény végrehajtásáról szóló rendelet alapján valamely ingatlanadatot az ingatlanügyi hatóság már nem tart nyilván, az adatnak a tulajdoni lapról történő törléséről készült közleményt közhírré teszi.
 
 (8)
 
