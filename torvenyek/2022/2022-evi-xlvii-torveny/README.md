@@ -1,0 +1,7 @@
+# 2022. évi XLVII. törvény a 2025. évi Oszakai Világkiállításon történő magyar megjelenés sikeres megvalósításához kapcsolódó rendelkezésekről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-47-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2022-12-01 | 2022. évi XLVII. törvény | 2022-47-00-00.0 (közlönyállapot) |

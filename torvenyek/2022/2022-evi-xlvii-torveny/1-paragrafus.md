@@ -1,0 +1,3 @@
+## 1. Általános rendelkezések
+
+1. § E törvény hatálya a 2025. évi Oszakai Világkiállításon (a továbbiakban: Világkiállítás) történő sikeres magyar megjelenéshez szükséges, a világkiállítási pavilon (a továbbiakban: Pavilon) tervezésével, kialakításával, összeszerelésével, a Világkiállítás oszakai programját szolgáló beruházásokkal és szolgáltatásokkal, valamint a Kormány rendeletében megjelölt további, a Világkiállítással és a Pavilonnal kapcsolatos ügyekkel (a továbbiakban együtt: Projekt) összefüggő beszerzésekre, közigazgatási hatósági eljárásokra, vámigazgatási eljárásokra, valamint Magyarország Világkiállításon történő megjelenésének szervezésével összefüggő egyéb beszerzésekre terjed ki.
