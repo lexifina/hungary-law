@@ -20,13 +20,13 @@ dr. Balogh Szilviát,[^1]
 
 dr. Bátyi Emesét,
 
-Deli Daniellát,
+Deli Daniellát,[^2]
 
-Gulyás Tibort,
+Gulyás Tibort,[^3]
 
-dr. Kállai Évát[^2] és
+dr. Kállai Évát[^4] és
 
-dr. Keszthelyi Nikolettát
+dr. Keszthelyi Nikolettát[^5]
 
 a Technológiai és Ipari Minisztérium helyettes államtitkárává
 
@@ -35,4 +35,7 @@ a Technológiai és Ipari Minisztérium helyettes államtitkárává
 kinevezem.
 
 [^1]: A 105/2022. (XII. 13.) ME határozat alapján dr. Balogh Szilvia tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett a „Miniszterelnöki Kabinetiroda” megnevezést kell érteni.
-[^2]: A 94/2022. (XI. 30.) ME határozat alapján dr. Kállai Éva tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett az „Építési és Beruházási Minisztérium” megnevezést kell érteni.
+[^2]: A 120/2022. (XII. 23.) ME határozat alapján Deli Daniella tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett az „Energiaügyi Minisztérium” megnevezést kell érteni.
+[^3]: A 120/2022. (XII. 23.) ME határozat alapján Gulyás Tibor tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett az „Energiaügyi Minisztérium” megnevezést kell érteni.
+[^4]: A 94/2022. (XI. 30.) ME határozat alapján dr. Kállai Éva tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett az „Építési és Beruházási Minisztérium” megnevezést kell érteni.
+[^5]: A 120/2022. (XII. 23.) ME határozat alapján dr. Keszthelyi Nikoletta tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett az „Energiaügyi Minisztérium” megnevezést kell érteni.
