@@ -1,0 +1,5 @@
+3. § (1) A fenntartó a 2. § (2) bekezdése szerinti változást – ide nem értve a szolgáltatói nyilvántartásban bejegyzést vagy adatmódosítást nem igénylő változást – annak bekövetkezését megelőzően legalább tíz nappal bejelenti a területileg illetékes működést engedélyező szervnek.
+
+(2) A szakosított ellátás, a gyermekek átmeneti otthona és a családok átmeneti otthona fenntartója a szolgáltatás megszüntetésére irányuló szándékát a szolgáltatás szolgáltatói nyilvántartásból való törlésének kérelmezését legalább két hónappal megelőzően írásban bejelenti az érintett ellátottaknak, törvényes képviselőiknek, a területileg illetékes működést engedélyező szervnek, az érdekképviseleti fórumnak és az ellátotti önkormányzatnak.
+
+(3) A működést engedélyező szerv a (2) bekezdés szerinti bejelentésről haladéktalanul értesíti az ellátásra köteles helyi önkormányzatot, az állami fenntartó megyei kirendeltségét, a Magyar Államkincstár megyei igazgatóságát, valamint az ellátottjogi, illetve gyermekjogi képviselőt.
