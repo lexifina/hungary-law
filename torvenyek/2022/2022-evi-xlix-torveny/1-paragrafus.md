@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Nemzetközi Migrációs Szervezet Alapokmányának (a továbbiakban: Alapokmány) a Nemzetközi Migrációs Szervezet Tanácsa 2020. október 28-án elfogadott 1385. számú határozatában foglalt módosítását (a továbbiakban: Alapokmány módosító határozat) e törvénnyel kihirdeti.

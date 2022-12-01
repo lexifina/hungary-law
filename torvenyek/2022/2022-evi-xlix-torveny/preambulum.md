@@ -1,0 +1,1 @@
+(a Nemzetközi Migrációs Szervezet Alapokmányának a Nemzetközi Migrációs Szervezet Tanácsa 2020. október 28-án elfogadott 1385. számú határozatában foglalt módosítása 2020. október 28-án nemzetközi jogilag hatályba lépett)
