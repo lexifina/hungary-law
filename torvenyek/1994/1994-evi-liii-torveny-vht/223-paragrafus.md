@@ -5,3 +5,5 @@
 (2) A bíróság határozata és intézkedése ellen az ügyész csak akkor élhet jogorvoslattal ha abban a bíróság az ügyész által előterjesztett végrehajtási kifogásról döntött.
 
 (3) Az ügyész az alatt az idő alatt élhet jogorvoslattal, amely a fél vagy más érdekelt részére nyitva áll, végrehajtási kifogást azonban a végrehajtó intézkedésétől számított 3 hónapon belül bármikor előterjeszthet.
+
+(4) Ha az ügyész az e §-ban biztosított jogorvoslat lehetőségével élni kíván és a végrehajtási eljárással összefüggésben a szükséges iratok, információk megküldése érdekében megkeresi a végrehajtót, az nem minősül a titoktartási kötelezettség megsértésének és a végrehajtó köteles a megkeresésben foglaltaknak 15 napon belül eleget tenni.

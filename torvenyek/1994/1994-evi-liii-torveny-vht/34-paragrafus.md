@@ -2,7 +2,7 @@
 
 34. § (1) A végrehajtás során felmerülő költséget — ha a törvény másképpen nem rendelkezik — a végrehajtást kérő előlegezi, és az adós viseli.
 
-(2) A szakértő és szakértő-becsüs közreműködésével és az árverés közhírré tételével felmerülő költségeket az köteles előlegezni, aki ezeket az intézkedéseket kérte. A költségekre a költségmentesség és a költségfeljegyzési jog nem vehető igénybe.
+(2) A szakértő és szakértő-becsüs közreműködésével és az árverés közhírré tételével felmerülő költségeket az köteles előlegezni, aki ezeket az intézkedéseket kérte.
 
 (3) Az állam által előlegezett végrehajtási költséget behajthatatlanság esetén az állam viseli.
 
@@ -15,3 +15,5 @@
 (7) A költségek állam általi előlegezése feltételeinek fennállása esetén a Kar hivatali szerve a 217. § alapján végrehajtási kifogást terjeszthet elő a végrehajtó díj- és költségfelszámítása ellen.
 
 (8) Ha a végrehajtó díjjegyzékével szemben a nem adós fizetésre kötelezett határidőben végrehajtási kifogást nem terjesztett elő a végrehajtási lap kiállítása iránti kérelem előterjesztését megelőzően, részére a díjjegyzéket végrehajtói kézbesítés útján is kézbesíteni kell.
+
+(9) Ha a bíróság visszavonja a végrehajtási lapot, vagy törli a végrehajtási záradékot, a végrehajtás során felmerült költségeket – az (1) bekezdéstől eltérően – a végrehajtást kérő viseli.

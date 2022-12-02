@@ -2,7 +2,7 @@
 
 a) az 52/A. § alapján még nem került sor korábban részletfizetés engedélyezésére,
 
-b) az adóssal szemben 500 ezer Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás vagy pedig 1 millió Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás, de más követelés biztosítására zálogjog is be van jegyezve az adós lakóingatlanára az ingatlan-nyilvántartásba, és
+b) az adóssal szemben 2 millió Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás vagy 3 millió Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás, de más követelés biztosítására zálogjog is be van jegyezve az adós lakóingatlanára az ingatlan-nyilvántartásba, és
 
 c) a követelés behajtása érdekében az adós lakóingatlanának árverésére lenne szükség.
 
