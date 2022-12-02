@@ -52,42 +52,21 @@
 
 | Határidő: | azonnal |
 
-## 2. A közúti projekt kötelezettségvállalásával összefüggésben a közúti infrastruktúra-fejlesztésekhez szükséges kötelezettségvállalásokról szóló 1503/2022. (X. 19.) Korm. határozat [a továbbiakban: 1503/2022. (X. 19.) Korm. határozat] 1. pontja a következő 1.4. és 1.5. alponttal egészül ki:
+## 2.[^1]
 
-## [A Kormány, tekintettel]
+## 3.[^2]
 
-## „1.4. a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti fejlesztésekhez kapcsolódóan a 33. számú főút Iparterület és a 3316 jelű összekötő út közötti szakaszának 2 × 2 sávra bővítéséről szóló 1528/2022. (XI. 2.) Korm. határozatra;
+## 4.[^3]
 
-## 1.5. a Zalaegerszeg–Zalaszentiván térségben megvalósuló konténerterminál közúti és vasúti bekötés előkészítésének módosításáról szóló 1599/2022. (XII. 1.) Korm. határozatra”
+## 5.[^4]
 
-## [(a továbbiakban együtt: kormányhatározatok) a következőkről dönt.]
+## 6.[^5]
 
-## 3. Az 1503/2022. (X. 19.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+1. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^6]
 
-## 4. A vasúti projekt kötelezettségvállalásával összefüggésben a vasúti infrastruktúra-fejlesztésekhez szükséges kötelezettségvállalásokról szóló 1504/2022. (X. 19.) Korm. határozat [a továbbiakban: 1504/2022. (X. 19.) Korm. határozat] 1. pontja a következő 1.3. alponttal egészül ki:
-
-## [A Kormány, tekintettel]
-
-## „1.3. a Zalaegerszeg–Zalaszentiván térségben megvalósuló konténerterminál közúti és vasúti bekötés előkészítésének módosításáról szóló 1599/2022. (XII. 1.) Korm. határozatra”
-
-## [(a továbbiakban együtt: kormányhatározatok) a következőkről dönt.]
-
-## 5. Az 1504/2022. (X. 19.) Korm. határozat
-
-## a) 2. pontja a következő c) és d) alpontokkal egészül ki:
-
-## [A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 1. Közúti infrastruktúra-fejlesztések jogcímcsoport terhére vállalható kötelezettségek mértékét]
-
-## „c) 2025-ben az 1. melléklet szerinti táblázat D oszlopának összegében,
-
-## d) 2026-ban az 1. melléklet szerinti táblázat E oszlopának összegében”
-
-## [állapítja meg.];
-
-## b) 3. pontjában a „D oszlopának” szövegrész helyébe az „F oszlopának” szöveg lép;
-
-## c) 1. pont 1.2. alpontjában az „1521/2021. (VII. 30.) Korm. határozat módosításáról szóló 1500/2022. (X. 19.)” szövegrész helyébe az „1521/2021. (VII. 30.)” szöveg lép.
-
-## 6. Az 1504/2022. (X. 19.) Korm. határozat 1. melléklete helyébe a 2. melléklet lép.
-
-1. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
