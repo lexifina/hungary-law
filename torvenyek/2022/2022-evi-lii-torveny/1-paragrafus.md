@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről a Katari Állam közötti légiközlekedési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
