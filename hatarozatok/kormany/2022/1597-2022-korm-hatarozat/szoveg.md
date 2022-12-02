@@ -1,7 +1,8 @@
 Az energiaintenzív vállalatok támogatásáról szóló 1477/2022. (X. 6.) Korm. határozat
 
-a) 2., 4. és 5. pontjában a „technológiai és ipari” szövegrészek helyébe a „gazdaságfejlesztési” szöveg,
+a) [^2]
 
-b) 6. pontjában a „technológiai és ipari miniszter” szövegrészek helyébe a „gazdaságfejlesztési miniszter” szöveg
+b) [^3]
 
-lép.
+[^2]: Az a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
