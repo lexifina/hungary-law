@@ -384,7 +384,7 @@ Felelős: belügyminiszter
 
 Határidő: 2023. december 31./áthúzódó
 
-Forrás: európai uniós forrásbevonással, EFOP-2.2.5.-17
+Forrás: európai uniós forrásbevonással
 
 5.6.[^43] Növelni kell a támogatott lakhatási férőhelyek számát, különös tekintettel a Közép-magyarországi régióra.
 
@@ -923,7 +923,7 @@ Forrás: forrást nem igényel
 [^39]: Az 1. melléklet 5.2. pontja az 1522/2022. (XI. 2.) Korm. határozat 3. pont 3.8. pontja szerint módosított szöveg.
 [^40]: Az 1. melléklet 5.3. pontja az 1522/2022. (XI. 2.) Korm. határozat 3. pont 3.18. pontja szerint módosított szöveg.
 [^41]: Az 1. melléklet 5.4. pontja az 1522/2022. (XI. 2.) Korm. határozat 3. pont 3.9. pontja szerint módosított szöveg.
-[^42]: Az 1. melléklet 5.5. pontja az 1522/2022. (XI. 2.) Korm. határozat 3. pont 3.9. pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet 5.5. pontja az 1522/2022. (XI. 2.) Korm. határozat 3. pont 3.9. pontja, az 1595/2022. (XII. 1.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^43]: Az 1. melléklet 5.6. pontja az 1522/2022. (XI. 2.) Korm. határozat 3. pont 3.8. pontja szerint módosított szöveg.
 [^44]: Az 1. melléklet 5.7. pontja az 1522/2022. (XI. 2.) Korm. határozat 3. pont 3.19. pontja szerint módosított szöveg.
 [^45]: Az 1. melléklet 5.8. pontja az 1522/2022. (XI. 2.) Korm. határozat 3. pont 3.20. pontja szerint módosított szöveg.
