@@ -1,3 +1,5 @@
+## lép.
+
 38. § Hatályát veszti a Vht.
 
 a) 10. § d) pontjában a „valamint”, szövegrész,
