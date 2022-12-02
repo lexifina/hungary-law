@@ -1,0 +1,13 @@
+33. § A Vht. 276. §-a helyébe a következő rendelkezés lép:
+
+„276. § (1) Ha olyan körülmény merül fel, amely a vizsgálóbiztosnak, a fegyelmi bíróság elnökének, illetve a fegyelmi tanács elnökének vagy tagjának elfogulatlanságát kétségessé teszi, az eljárás alá vont személy elfogultsági kifogást terjeszthet elő. Az a bíró, szakülnök vagy vizsgálóbiztos, aki a személyére vonatkozó elfogultságot maga jelentette be, bejelentésének elintézéséig a fegyelmi eljárásban nem járhat el. Minden más esetben az érintett bíró, szakülnök vagy vizsgálóbiztos a fegyelmi eljárásban az elfogultsági kifogás elbírálásáig az érdemi határozat hozatalában nem vehet részt. Ha az eljárás alá vont személy ugyanabban a fegyelmi eljárásban az elfogultsági kifogás elutasítása után ugyanazon bíró, szakülnök vagy vizsgálóbiztos ellen a Pp. 12. § f) pontja alapján újabb kifogást nyújt be, az az érdemi határozat meghozatalát nem akadályozza.
+
+(2) Az elfogultsági kifogás előterjesztésének az eljárás bármely szakaszában – az eljárást befejező határozat meghozataláig – van helye, azonban a Pp. 12. § f) pontja szerinti okot az eljárás alá vont személy a tárgyalás megkezdése után csupán akkor érvényesítheti, ha valószínűsíti, hogy a bejelentés alapjául szolgáló tényről csak a tárgyalás megkezdése után szerzett tudomást, és a tudomásszerzést követően az okot haladéktalanul bejelenti.
+
+(3) Az elfogultsági kifogásról a fegyelmi bíróságnak egy másik fegyelmi tanácsa határoz. Ha a bíró, szakülnök vagy vizsgálóbiztos a rá vonatkozó elfogultságot maga jelenti be, vagy az eljárás alá vont személy által előterjesztett elfogultsági kifogásban szereplő ok fennálltát elismeri, más bíró, szakülnök vagy vizsgálóbiztos kijelölése iránt a bíróság elnöke intézkedik. Ilyen esetben az elfogultság tárgyában külön határozatot hozni nem kell.
+
+(4) Ha az elfogultsági kifogást az elsőfokú fegyelmi bíróság elnöke ellen terjesztették elő, a másodfokú fegyelmi bíróság tanácsa, ha pedig a másodfokú fegyelmi bíróság elnöke ellen terjesztették elő, a Kúria elnöke határoz az elfogultsági kifogásról. Az elsőfokú fegyelmi bíróság elnökének kizártsága esetén az eljáró elsőfokú fegyelmi tanácsot a másodfokú fegyelmi bíróság elnöke, a másodfokú fegyelmi bíróság elnökének kizártsága esetén pedig az eljáró tanácsot a Kúria elnöke jelöli ki.
+
+(5) Az elfogultság kérdésében az eljáró bíróság soron kívül határoz.
+
+(6) Az elfogultság kérdésében hozott döntéssel szemben önálló jogorvoslatnak nincs helye, az a fegyelmi határozat elleni fellebbezésben támadható.”

@@ -1,0 +1,1 @@
+91. § A Tpvt. 78. § (8) bekezdésében a „kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvénynek” szövegrész helyébe a „Kkvt.-nek” szöveg és az „Az említett törvény” szövegrész helyébe az „A Kkvt.” szöveg lép.

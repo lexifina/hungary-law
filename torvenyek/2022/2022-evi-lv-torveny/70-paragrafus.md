@@ -1,0 +1,3 @@
+70. § A Tpvt. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 24. §-tól eltérően nem kell bejelenteni a biztosító, a biztosítói holdingtársaság, a hitelintézet, a pénzügyi holding társaság, a vegyes pénzügyi holding társaság, a vegyes tevékenységű biztosítói holding társaság, a befektetési vállalkozás, a befektetési alap vagy a befektetési alapkezelő átmeneti irányítás- vagy vagyonszerzését, amelynek célja a továbbértékesítés előkészítése, és az irányításszerző vállalkozás irányítási jogait nem vagy kizárólag az ehhez feltétlenül szükséges mértékben gyakorolja, ha az irányítás- vagy vagyonszerzés időtartama az egy évet nem haladja meg.”

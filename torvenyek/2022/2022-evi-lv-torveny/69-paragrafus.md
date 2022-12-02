@@ -1,0 +1,7 @@
+69. § (1) A Tpvt. 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vállalkozások összefonódását a Gazdasági Versenyhivatalnak be kell jelenteni, ha valamennyi érintett vállalkozáscsoport [26. § (5) bekezdése], valamint az érintett vállalkozáscsoportok tagjai és más vállalkozások által közösen irányított vállalkozások előző üzleti évben elért nettó árbevétele együttesen a húszmilliárd forintot meghaladja, és az érintett vállalkozáscsoportok között van legalább két olyan vállalkozáscsoport, amelynek az előző évi nettó árbevétele a vállalkozáscsoport tagjai és más vállalkozások által közösen irányított vállalkozások előző évi nettó árbevételével együtt egymilliárd-ötszázmillió forint felett van.”
+
+(2) A Tpvt. 24. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az (1)–(3) bekezdés alapján bejelentési kötelezettség alá nem tartozó összefonódást is be lehet jelenteni a Gazdasági Versenyhivatalnál, ha nem nyilvánvaló, hogy az nem csökkenti jelentős mértékben a versenyt az érintett piacon (14. §), különösen gazdasági erőfölény létrehozása vagy megerősítése következményeként, és ha valamennyi érintett vállalkozáscsoport, valamint az érintett vállalkozáscsoportok tagjai és más vállalkozások által közösen irányított vállalkozások előző üzleti évben elért nettó árbevétele együttesen az ötmilliárd forintot meghaladja (a továbbiakban: összefonódás-vizsgálati küszöbérték).”
