@@ -16,10 +16,11 @@ b) a rendszerszinten értékelt műszaki-gazdasági optimum érvényesítését 
 
 c) megkülönböztetésmentes és átlátható igénybevétele biztosított,
 
-## annak indokolt költségét a Hivatal az általa, a GET 104/B. § (2) bekezdésének b) pontja alapján kiadott módszertan szerint elismeri.
+annak indokolt költségét a Hivatal az általa, a GET 104/B. § (2) bekezdésének b) pontja alapján kiadott módszertan szerint elismeri.
 
-(4) A Hivatal a 10 éves fejlesztési tervet jóváhagyó határozatában a földgázszállító rendszeren meghatározott, a szomszédos országok felől való betáplálási pontok és a szomszédos országok felé irányuló kiadási pontok létrehozására vagy az ilyen meglévő pontok műszaki kapacitásának növelésére vonatkozó projekthez közvetlenül tartozó beruházások árszabályozásban történő figyelembevétele során a beruházás egészére vagy egy részére ösztönző súlyozott átlagos tőkeköltség meghatározást alkalmazhat. A Hivatal az ösztönző súlyozott átlagos tőkeköltség alkalmazásáról az adott beruházás nemzetgazdasági súlya és a beruházás kockázatai alapján dönt.
+(4)[^6]
 
-(5)[^6] A (4) bekezdés szerinti ösztönző súlyozott átlagos tőkeköltség mértéke a földgáz szállítási rendszerüzemeltetési díjakat megállapító határozatban meghatározott súlyozott átlagos tőkeköltség maximum 1,5 százalékponttal emelt értéke.
+(5)[^7]
 
-[^6]: A 6. § (5) bekezdése a 15/2020. (XII. 15.) MEKH rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 6. § (4) bekezdését a 14/2022. (XI. 29.) MEKH rendelet 5. §-a hatályon kívül helyezte.
+[^7]: A 6. § (5) bekezdését a 14/2022. (XI. 29.) MEKH rendelet 5. §-a hatályon kívül helyezte.

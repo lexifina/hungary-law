@@ -1,5 +1,3 @@
-## 10. § Új engedélyes részére a rendszerhasználati díjat a Hivatal a rendszerhasználati díj számításakor figyelembe veendő, a GET 104/B. § (2) bekezdés szerinti módszertani útmutatókban meghatározott jellemzői alapján állapítja meg. A regionális kiegyenlítettség érdekében a Hivatal figyelembe veszi az engedélyes földrajzi elhelyezkedését és ezen földrajzi egység közelében üzemelő azonos típusú engedéllyel rendelkező társaságoknak a GET 104/B. § (2) bekezdés szerinti módszertani útmutatókban meghatározott jellemzőit, valamint az általuk alkalmazott rendszerhasználati díjakat.
-
 ## 6. Az árszabályozási ciklus kezdő időpontjától hatályos rendszerhasználati díjak megállapítása
 
 11. § (1) Az árszabályozási ciklus kezdő időpontjától hatályos rendszerhasználati díjak (a továbbiakban: induló díjak) megállapítása során a Hivatal először az egyes rendszerüzemeltetők más bevételi forrásból nem finanszírozott indokolt költségeit határozza meg.
@@ -30,14 +28,14 @@ a) az értékelés alá vont általános eszközök esetében a 2019. évi audit
 
 b) az értékelés alá vont egyéb eszközök esetében a könyv szerinti értéknek
 
-## a figyelembevételével határozza meg, amelynek során a hálózatfejlesztési hozzájárulásból, csatlakozási díjakból, vissza nem térítendő támogatásból finanszírozott, valamint a térítésmentesen átvett eszközök értékét és értékcsökkenését figyelmen kívül kell hagyni.
+a figyelembevételével határozza meg, amelynek során a hálózatfejlesztési hozzájárulásból, csatlakozási díjakból, vissza nem térítendő támogatásból finanszírozott, valamint a térítésmentesen átvett eszközök értékét és értékcsökkenését figyelmen kívül kell hagyni.
 
 (5) A (2) bekezdés c) pontja szerinti tőkeköltség hozamtényezőjét a Hivatal a közgazdasági alapelveknek megfelelő módon számított súlyozott átlagos adózás előtti tőkeköltség alapján határozza meg, és a hozamtényezőt az árszabályozási eszközértékre vetíti.
 
 (6) A (3) és (4) bekezdésben foglaltakat a szállítási rendszerüzemeltetési díj esetében, ahol e rendelet 2019. évet ír, ott a 2018. évi adatok alapján, ahol 2020. évet ír, ott a 2019. évi adatok alapján kell meghatározni.
 
-(7)[^7] A súlyozott átlagos tőkeköltség adózás előtti reálértékének mértékét – a GET 104/A. § (5) bekezdése szerinti eszköz- és költség-felülvizsgálat eredményeként – a Hivatal elnöke az induló rendszerhasználati díjakat tartalmazó határozatában állapítja meg. A súlyozott átlagos tőkeköltség megállapított mértékétől az árszabályozási ciklus során a 6. § (4) és (5) bekezdésében foglalt esetben lehet eltérni.
+(7)[^9] A súlyozott átlagos tőkeköltség adózás előtti reálértékének mértékét – a GET 104/A. § (5) bekezdése szerinti eszköz- és költség-felülvizsgálat eredményeként – a Hivatal elnöke az induló rendszerhasználati díjakat tartalmazó határozatában állapítja meg. A súlyozott átlagos tőkeköltség megállapított mértékétől az árszabályozási ciklus során a 6. § (4) és (5) bekezdésében foglalt esetben lehet eltérni.
 
 (8) Ha a földgáz elosztói engedélyes az eszköz- és költség-felülvizsgálat megkezdésekor nem rendelkezik auditált éves beszámolóval, a Hivatal az eszköz- és költség-felülvizsgálatot az adott engedélyesre vonatkozóan az előzetes mérleg- és eredménykimutatás alapján is megkezdheti.
 
-[^7]: A 11. § (7) bekezdése a 15/2020. (XII. 15.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^9]: A 11. § (7) bekezdése a 15/2020. (XII. 15.) MEKH rendelet 3. §-ával megállapított szöveg. [A 14/2022. (XI. 29.) MEKH rendelet 4. § b) pontjában foglalt azon módosítás amely szerint a 11. § (7) bekezdésében a „6. § (4)–(5) bekezdésében” szövegrész helyébe a „10/A. §-ban” szöveg lép, nem vezethető át.]

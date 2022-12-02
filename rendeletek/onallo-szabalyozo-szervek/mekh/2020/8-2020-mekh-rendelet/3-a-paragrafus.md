@@ -1,0 +1,3 @@
+3/A. §[^5] Ha a bíróság a rendszerhasználati díjakat, a csatlakozási díjakat, a külön díjakat, a referenciár-módszertant vagy a szállítási rendszerüzemeltetési díjjal kapcsolatos árkedvezményeket, szorzókat és szezonális faktorokat megállapító határozatot hatályon kívül helyezi vagy megsemmisíti, amennyiben szükséges, a Hivatal az általa megállapított díj és a bírósági ítélet alapján megállapítandó díj különbsége miatti korrekciót a következő gáz vagy tárolói évtől egy vagy több gázéven vagy tárolói éven keresztül hajtja végre, figyelembe véve a rendszerüzemeltetők és a felhasználók méltányos érdekeit.
+
+[^5]: A 3/A. §-t a 15/2020. (XII. 15.) MEKH rendelet 2. §-a iktatta be, szövege a 14/2022. (XI. 29.) MEKH rendelet 4. § a) pontja szerint módosított szöveg.
