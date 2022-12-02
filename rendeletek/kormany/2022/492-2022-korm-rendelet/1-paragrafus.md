@@ -1,0 +1,1 @@
+1. § A sportról szóló 2004. évi I. törvény 76/B. § (2) és (3) bekezdésétől eltérően a vagyonkezelő a vagyonkezelői jog gyakorlásának ellenértékeként a 2023. évben a 2022. évre megállapított vagyonkezelési díjat köteles fizetni.
