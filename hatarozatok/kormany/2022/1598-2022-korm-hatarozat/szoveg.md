@@ -14,4 +14,6 @@ b) felhívja az építési és közlekedési minisztert, a gazdaságfejlesztési
 
 | Határidő: | folyamatos |
 
-2. Az 1727/2020. (X. 30.) Korm. határozat 1. pontjában a „211 982 880 540” szövegrész helyébe a „246 526 880 540” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
