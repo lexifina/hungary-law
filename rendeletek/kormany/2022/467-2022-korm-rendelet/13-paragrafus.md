@@ -1,3 +1,3 @@
-13. § Az R. a következő 198. §-sal egészül ki:
+13. §[^13]
 
-„198. § Az Energiaügyi Minisztérium a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény szerinti Technológiai és Ipari Minisztérium átnevezésével működik tovább.”
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
