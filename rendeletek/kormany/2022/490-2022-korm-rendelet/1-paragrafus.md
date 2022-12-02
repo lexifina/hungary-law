@@ -1,0 +1,1 @@
+1. § A Kormány a 2025. évi Oszakai Világkiállításon történő magyar megjelenés sikeres megvalósításához kapcsolódó rendelkezésekről szóló 2022. évi XLVII. törvény (a továbbiakban: Törvény) 4. § (1) bekezdése szerinti vállalatként (a továbbiakban: vállalat) az EXPO 2025 Magyarország Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
