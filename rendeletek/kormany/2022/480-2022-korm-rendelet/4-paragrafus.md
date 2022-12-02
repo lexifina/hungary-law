@@ -1,3 +1,3 @@
-4. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 30. §-a helyébe a következő rendelkezés lép:
+4. §[^4]
 
-„30. § Az Áht. 28. § (1) bekezdése szerinti miniszteri rendelet, szabályzat mellékletében a központi kezelésű előirányzatok és fejezeti kezelésű előirányzatok előirányzatának felhasználási szabályait – az egyedi és a programszerű kormányzati magasépítési beruházások központi kezelésű előirányzatai kivételével – a 3. mellékletben meghatározott módon – a honvédelmi miniszter által vezetett minisztérium fejezete tekintetében több cím, alcím, jogcímcsoport, jogcím szerinti bontásban – kell szabályozni. A központi költségvetésről szóló törvény elfogadását követően a rendeletet, szabályzatot a fejezetet irányító szerv vezetője haladéktalanul felülvizsgálja, és azt módosítja. Ha a fejezetet irányító szerv szabályzatot ad ki, a szabályzatnak rendelkeznie kell az Áht. 109. § (5) bekezdésében foglaltakról is.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

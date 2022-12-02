@@ -1,3 +1,3 @@
-6. melléklet a 480/2022. (XI. 28.) Korm. rendelethez[^29]
+6. melléklet a 480/2022. (XI. 28.) Korm. rendelethez[^51]
 
-[^29]: A 6. melléklet a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^51]: A 6. melléklet a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-7. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 84. § (1) bekezdése a következő k) ponttal egészül ki:
+7. §[^7]
 
-(A támogató az Áht. 50/A. §-a szerinti biztosíték kikötésétől)
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

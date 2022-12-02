@@ -1,3 +1,5 @@
 ## 1. Az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló 353/2011. (XII. 30.) Korm. rendelet módosítása
 
-1. § Az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló 353/2011. (XII. 30.) Korm. rendelet 10. § (2) bekezdésében a „6. § (2) bekezdés f) pontját” szövegrész helyébe a „6. § (2) bekezdés e) és f) pontját” szöveg lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

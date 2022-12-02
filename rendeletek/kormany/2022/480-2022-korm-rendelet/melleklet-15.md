@@ -1,3 +1,3 @@
-15. melléklet a 480/2022. (XI. 28.) Korm. rendelethez[^37]
+15. melléklet a 480/2022. (XI. 28.) Korm. rendelethez[^60]
 
-[^37]: A 15. melléklet a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^60]: A 15. melléklet a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

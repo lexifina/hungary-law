@@ -1,3 +1,3 @@
-17. §[^13]
+17. §[^31]
 
-[^13]: A 17. § a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^31]: A 17. § a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
