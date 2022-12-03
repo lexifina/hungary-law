@@ -10,6 +10,8 @@ c) a nyomozó hatóság és az ügyészség büntetőeljárás lefolytatása vag
 
 d) a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladataik ellátásához.
 
+e) a hivatásos katasztrófavédelmi szerv a hatósági tevékenysége ellátásához.
+
 (3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja családi és utónevét, születési helyét és idejét és elektronikus elérhetőségét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
 
 (4) A nyilvántartást vezető szerv és a Közreműködő Szerv kérelemre adatszolgáltatást teljesít és hatósági bizonyítványt állít ki.
