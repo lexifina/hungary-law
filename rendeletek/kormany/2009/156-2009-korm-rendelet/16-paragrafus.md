@@ -34,7 +34,7 @@ h)[^70] az 561/2006/EK rendeletnek a maximális napi és heti vezetési időre, 
 
 i)[^71] az 1071/2009/EK rendeletnek, az 1072/2009/EK rendeletnek és az 1024/2012/EU rendeletnek a közúti fuvarozási ágazati fejleményekre tekintettel történő módosításáról szóló, 2020. július 15-i (EU) 2020/1055 európai parlamenti és tanácsi rendeletnek
 
-## a végrehajtásához szükséges rendelkezéseket állapítja meg.
+a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (9)[^72] Ez a rendelet
 
@@ -52,7 +52,7 @@ f)[^75] a Közösségen belül közlekedő egyes közúti járművek nemzeti és
 
 g)[^76] a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére vonatkozó különös szabályoknak a 96/71/EK irányelv és a 2014/67/EU irányelv tekintetében való meghatározásáról, a 2006/22/EK irányelvnek a végrehajtási követelmények tekintetében történő módosításáról, valamint az 1024/2012/EU rendelet módosításáról szóló, 2020. július 15-i (EU) 2020/1057 európai parlamenti és tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (10)[^77]
 

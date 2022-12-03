@@ -1,3 +1,5 @@
+## 0X11623_0
+
 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ=rendkívül súlyos jogsértés, NSJ= nagyon súlyos jogsértés, SJ= súlyos jogsértés) | A bírság összege forintban | A bírság fizetésére kötelezett |
 
 | N | Maximális heti munkaidő |

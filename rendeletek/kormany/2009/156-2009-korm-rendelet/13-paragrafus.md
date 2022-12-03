@@ -18,7 +18,7 @@ f) a 9. melléklet 1. pontjában,
 
 g) a 10. melléklet 1. pontjában
 
-## meghatározott okmány hiányát állapítja meg, de a hiányzó okmány megléte a közlekedésért felelős miniszter nyilvántartásából megállapítható, vagy a nyilvántartásban nem szereplő, az ellenőrzés időpontjában minden kétséget kizáróan érvényes okmányt az ellenőrző hatóságnak – az ellenőrzés napját követő 8 napon belül – bemutatják, a bírság összege a mellékletek megfelelő sorában meghatározott összeg fele, de legfeljebb 30 000 forint.
+meghatározott okmány hiányát állapítja meg, de a hiányzó okmány megléte a közlekedésért felelős miniszter nyilvántartásából megállapítható, vagy a nyilvántartásban nem szereplő, az ellenőrzés időpontjában minden kétséget kizáróan érvényes okmányt az ellenőrző hatóságnak – az ellenőrzés napját követő 8 napon belül – bemutatják, a bírság összege a mellékletek megfelelő sorában meghatározott összeg fele, de legfeljebb 30 000 forint.
 
 (2)[^49] Ha az ellenőrző hatóság ugyanazon ellenőrzés keretében és az annak alapján indult közigazgatási eljárásban a 2–11. §-ban meghatározott több – a hatóság hatáskörébe tartozó – szabályszegést állapít meg, akkor a bírság kiszabására irányuló eljárást ugyanazon szabályszegővel szemben egy eljárásban kell lefolytatni. A bírság mértéke az egyes szabályszegések miatt megállapított bírságok összege, amely azonban nem haladhatja meg a megállapított legsúlyosabb szabályszegés miatt kiszabható bírság háromszorosát, de legfeljebb a 2 200 000 forintot, járművezető esetén a másfélszeresét, de legfeljebb a 800 000 forintot.
 

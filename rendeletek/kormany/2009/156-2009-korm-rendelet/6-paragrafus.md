@@ -1,5 +1,3 @@
-## meghatározott, a menetíró készülékre, a tachográf-korongra és az ezek használatára vonatkozó rendelkezést megsérti.
-
 ## 6. § A Kkt. 20. § (1) bekezdés e) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – az 5. mellékletben meghatározott összegű bírságot köteles fizetni az, aki
 
 a)[^19]
@@ -23,6 +21,8 @@ i)[^25] az Országos Tűzvédelmi Szabályzatban,
 j) a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben,
 
 k)[^26] a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló törvényben, valamint az ADR belföldi alkalmazásáról szóló miniszteri rendeletben
+
+meghatározott, a veszélyes áruk, anyagok, hulladékok szállítására (fuvarozására), valamint a közúti járműre és annak személyzetére, az áru feladójára, átmeneti tárolójára, a csomagolóra, a berakóra, a töltőre, a címzettre és a veszélyes áru szállítási biztonsági tanácsadó kinevezésére és képesítésére vonatkozó rendelkezést megsérti.
 
 [^19]: A 6. § a) pontját a 116/2014. (IV. 3.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^20]: A 6. § b) pontját a 280/2013. (VII. 24.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.

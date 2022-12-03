@@ -1,3 +1,5 @@
+## 1X12143N_0
+
 | Sorszám | A | B | C | D |
 
 | 1. | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ= rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ= súlyos jogsértés, EJ=enyhe jogsértés) | Bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |

@@ -24,6 +24,8 @@ k)[^11] a kétoldalú közúti áru- és személyszállításról szóló nemzet
 
 l)[^12] a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben
 
+meghatározott, a közúti közlekedési szolgáltatások végzéséhez előírt engedélyekre és okmányokra vonatkozó rendelkezést megsérti.
+
 [^2]: A 2. § nyitó szövegrésze a 791/2021. (XII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^3]: A 2. § a) pontja a 176/2015. (VII. 7.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 26. §-át.
 [^4]: A 2. § b) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (1) bekezdésével megállapított, a 171/2014. (VII. 18.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

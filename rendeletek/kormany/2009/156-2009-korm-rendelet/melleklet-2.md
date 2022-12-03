@@ -30,9 +30,15 @@
 
 |  | c) Diszpécserszolgálati engedély hiánya | NSJ | 300 000 | diszpécserszolgálat |
 
-|  | d) Utazási igény közvetítése vagy személyszállító szolgáltatásnyújtás szervezése személytaxi-szolgáltatás nyújtására nem jogosult részére | NSJ | 300 000 | diszpécserszolgálat |
+|  | d) Diszpécserszolgálat személytaxi-szolgáltatás végzésére jogosító tevékenységi engedéllyel nem rendelkező vállalkozással köt diszpécserszolgáltatás nyújtására irányuló szerződést vagy közvetít, szervez részére személyszállítási feladatot | NSJ | 300 000 | diszpécserszolgálat |
 
-|  | e) Személygépkocsis személyszállító szolgáltatáshoz közvetlenül kapcsolódó szolgáltatásra kötött szerződést a járművezető nem tudja bemutatni | NSJ | 200 000 | járművezető |
+|  | e) Személygépkocsis személyszállító szolgáltatáshoz közvetlenül kapcsolódó szolgáltatásra kötött szerződést vagy annak hitelesített kivonatát a járművezető nem tudja bemutatni | NSJ | 200 000 | járművezető |
+
+|  | f) Személytaxi-szolgáltatást folytató vállalkozás diszpécserszolgálati tevékenység végzésére jogosító engedéllyel nem rendelkező vállalkozással köt diszpécserszolgáltatás nyújtására irányuló szerződést, vagy veszi igénybe annak közvetítő, szervező szolgáltatását | NSJ | 300 000 | szállító |
+
+|  | g) Repülőtér üzembentartójával, valamint autóbusz-állomás, vasúti pályaudvar vagy állomás, továbbá kikötő üzemeltetőjével személygépkocsis személyszállító szolgáltatás nyújtására kötött szerződést vagy annak hitelesített kivonatát a járművezető nem tudja bemutatni | NSJ | 200 000 | járművezető |
+
+|  | h) Főszolgáltatás részeként vagy ahhoz kapcsolódóan, engedély birtokában végezhető személygépkocsis személyszállító szolgáltatás nyújtása főszolgáltatás nélkül, továbbá olyan főszolgáltatás részeként vagy ahhoz kapcsolódóan, amely esetében személygépkocsis személyszállító szolgáltatás nyújtását jogszabály nem teszi lehetővé | NSJ | 600 000 | szállító járművezető |
 
 | 6. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély |  |  |  |
 

@@ -1,5 +1,3 @@
-## A kétoldalú közúti áru- és személyszállításról szóló nemzetközi szerződéseket kihirdető jogszabályok
-
 | Sorszám | Jogszabályok |
 
 | 1. | 42/1978. (VIII. 31.) MT rendelet a Magyar Népköztársaság Kormánya és az Afgán Köztársaság Kormánya között Kabulban, 1977. október 16-án aláírt nemzetközi közúti árufuvarozási megállapodás kihirdetéséről |

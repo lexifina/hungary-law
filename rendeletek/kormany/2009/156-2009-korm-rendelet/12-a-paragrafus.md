@@ -6,7 +6,7 @@ b) 2000 cm3 feletti személygépkocsi esetében 800 000 forint,
 
 c) egyéb jármű esetében 200 000 forint
 
-## összegű bírságot köteles fizetni.
+összegű bírságot köteles fizetni.
 
 (2) Amennyiben a Kkt. 20. § (1) bekezdés l) pontjában meghatározott rendelkezéseket természetes személy szegi meg, az (1) bekezdésben meghatározott összegű bírság felét köteles fizetni.
 

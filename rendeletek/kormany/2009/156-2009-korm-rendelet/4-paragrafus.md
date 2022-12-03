@@ -10,6 +10,8 @@ c)[^15] a közúti közlekedésben használt menetíró készülékekről, a kö
 
 d)[^16] a Kkt. 18/A–18/L. §-ában
 
+meghatározott, a vezetési és pihenőidőre, valamint az ezekkel összefüggő okmányokra vonatkozó rendelkezést megsérti.
+
 [^13]: A 3. § a 228/2012. (VIII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 171/2014. (VII. 18.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^14]: A 4. § nyitó szövegrésze a 476/2016. (XII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^15]: A 4. § c) pontja a 8/2016. (II. 9.) Korm. rendelet 8. §-ával megállapított szöveg.

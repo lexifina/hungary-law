@@ -1,5 +1,3 @@
-## meghatározott, a veszélyes áruk, anyagok, hulladékok szállítására (fuvarozására), valamint a közúti járműre és annak személyzetére, az áru feladójára, átmeneti tárolójára, a csomagolóra, a berakóra, a töltőre, a címzettre és a veszélyes áru szállítási biztonsági tanácsadó kinevezésére és képesítésére vonatkozó rendelkezést megsérti.
-
 6/A. §[^27] (1) Az 5. melléklet 1. táblázatában felsorolt szabálytalanságok esetén, a bírságösszeg meghatározásához a szabálytalanságot a következő meghatározások szerinti, csökkenő súlyosságú kockázati kategóriák egyikébe kell sorolni, ahol az I. kategória a legsúlyosabb:
 
 a) I. kockázati kategória: a veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely haláleset, súlyos személyi sérülés vagy jelentős környezetkárosodás okozásának nagyfokú kockázatával jár;

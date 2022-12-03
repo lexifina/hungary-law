@@ -3,3 +3,5 @@
 a) a gyorsan romló élelmiszerek nemzetközi szállításáról és az ilyen szállításhoz használt különleges szállítóeszközökről szóló, Genfben, 1970. szeptember 1. napján kelt Európai Megállapodás kihirdetéséről szóló 25/1989. (III. 17.) MT rendeletben,
 
 b) az állatoknak a szállítás és a kapcsolódó műveletek közbeni védelméről, valamint a 64/432/EGK és a 93/119/EK irányelv és az 1255/97/EK rendelet módosításáról szóló, 2004. december 22-i 1/2005/EK tanácsi rendeletben
+
+meghatározott, a gyorsan romló élelmiszerek vagy az élő állatok szállítására vonatkozó rendelkezést megsérti.
