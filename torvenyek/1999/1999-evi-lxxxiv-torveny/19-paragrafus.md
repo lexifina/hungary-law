@@ -2,7 +2,7 @@
 
 a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
 
-b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabályban megjelölt feladataik ellátásához szükséges adatokat;
+b) a közúti közlekedési ügyekben, valamint a közúti közlekedési igazgatási ügyekben eljáró hatóságok a jogszabályban meghatározott feladataik ellátásához szükséges adatokat és iratokat;
 
 c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
 
@@ -34,7 +34,7 @@ l) a térítésmentesen a gépjármű-felelősségbiztosítást ellátó biztos�
 
 m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
 
-n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a (3) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat.
+n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása, és a várakozási hozzájárulás kiadása iránti kérelem elbírálása érdekében a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdésében, a 9/D. § (2) bekezdés a)–c) pontjában és a 9/D. § (3) bekezdésében meghatározott adatokat;
 
 o) a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat és a 9. § (4) bekezdésében meghatározott adatokat. A KSH az átvett adatokat az statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli;
 
@@ -60,7 +60,7 @@ z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a termé
 
 a) a 8. § (1) bekezdés a) pont ac)–ad) alpontjában meghatározott adatok kivételével
 
-aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához,
+aa)
 
 ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti közlekedési ellenőrzéssel kapcsolatos feladataik ellátásához;
 
@@ -81,6 +81,10 @@ f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. m
 g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési, vizsgáztatási és okmánykiállítási, valamint a vezetői engedély automatikus kiállításával összefüggő feladatainak ellátásához a 8. §-ban meghatározott adatokat ingyenesen;
 
 l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
+
+m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 42/B. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
+
+(2a) A nyilvántartásból adatot, iratot igényelhet – a 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatok kivételével – a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához.
 
 (3) A nyilvántartásból adatot igényelhet:
 

@@ -8,7 +8,7 @@ b) ha a vezetői engedély automatikus kiállítása visszautasításra került,
 
 c) ha a vezetői engedély automatikus kiállításának ügyfél által elhárítható akadálya van.
 
-(1a)
+(1a) Az ügyfél a vezetői engedély elektronikus pótlása iránti kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe. A közlekedési igazgatási hatóság ebben az esetben írásban tart kapcsolatot az ügyféllel.
 
 (1b) A nyilvántartó az elektronikus ügyintézési ponton történő személyazonosítás céljából a járművezető engedély-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
 
