@@ -36,7 +36,11 @@ elveszi az úti okmányt annak visszatartása érdekében.
 
 a) az (1) bekezdés a), b) pontjában meghatározott esetben a személyi szabadságot érintő kényszerintézkedést vagy egyéb korlátozást foganatosító vagy annak ellenőrzését végrehajtó szerv,
 
-b) az (1) bekezdés c), d) és e) pontjában meghatározott esetben a szabadságvesztést foganatosító büntetés-végrehajtási intézet, a kényszergyógykezelést foganatosító igazságügyi megfigyelő és elmeorvosi intézet, vagy a javítóintézeti nevelést végrehajtó szerv,
+b) az (1) bekezdés c), d) és e) pontjában meghatározott esetben
+
+ba) a büntetés-végrehajtási jogviszony időtartama alatt, illetve megszűntét követően a külföldre utazási korlátozás fennállásáig a szabadságvesztést foganatosító büntetés-végrehajtási intézet, a kényszergyógykezelést foganatosító igazságügyi megfigyelő és elmeorvosi intézet, vagy a javítóintézeti nevelést végrehajtó szerv,
+
+bb) a büntetés-végrehajtási jogviszony létrejöttét megelőzően az általános hatáskörű útlevélhatóság,
 
 c) az (1) bekezdés f) pontjában meghatározott esetben a tiltást elrendelő bíróság,
 
