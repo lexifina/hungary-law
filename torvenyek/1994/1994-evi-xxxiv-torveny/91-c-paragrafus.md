@@ -20,13 +20,17 @@ i) a cégnyilvántartás.
 
 (2a) A rendőrség a 68. § (2) bekezdése alapján bejegyezett fedőadat esetén jelzés elhelyezését rendelheti el a közhiteles nyilvántartásban és értesítést kérhet a fedőadatra vagy az eredeti adatra vonatkozó adattovábbítási vagy adathozzáférési kérelemről.
 
+(2b) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv e törvény szerint általa folytatott titkos információgyűjtés keretében jelzés elhelyezését rendelheti el a (2) bekezdés szerinti nyilvántartásokban.
+
 (3) A jelzés elrendelésekor a kért intézkedés vagy adatszolgáltatás célját meg kell jelölni. A jelzésben a rendőri szerv az érintett feltartóztatását vagy adatváltozás esetén értesítés adását kérheti. A jelzéssel érintett nyilvántartást kezelő szerv a rendőrség megkeresésében foglaltakat köteles teljesíteni.
+
+(3a) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a (2b) bekezdés szerinti jelzésben az adatváltozásról, illetve az érintett személyre vonatkozó adattovábbítási vagy adathozzáférési kérelemről értesítés adását kérheti, melyet a jelzéssel érintett nyilvántartást kezelő szerv köteles teljesíteni.
 
 (4) A rendőrség a jelzés elhelyezését köteles megszüntetni, illetőleg a megszüntetést kezdeményezni, ha az elhelyezés elrendelésének jogalapja megszűnt, illetőleg a kért intézkedés vagy adatszolgáltatás teljesült.
 
-(5) A jelzés elhelyezésének elrendeléséért és megszüntetéséért, illetve a kért intézkedésért a jelzés elhelyezését kérő rendőri szerv vezetője a felelős.
+(5) A jelzés elhelyezésének elrendeléséért és megszüntetéséért, illetve a kért intézkedésért a jelzés elhelyezését kérő rendőri szerv, illetve a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője a felelős.
 
-(6) Ha a rendőrség más adatállományból bűnüldözési célból adatot vesz át, erről az érintett tájékoztatására – a (2) bekezdés szerinti jelzéselhelyezés kivételével – a 91/B. § rendelkezései az irányadóak. A jelzés elhelyezéséről, annak okáról és a jelzés alapján tett intézkedésről – a rendőrség bűnüldözési feladata teljesítésének biztosítása érdekében – a rendőrség és a jelzést tartalmazó nyilvántartást kezelő szerv az érintettet nem tájékoztathatja. A tájékoztatási korlátozásról a rendőri szerv köteles az adatigényléssel, illetőleg a jelzés elhelyezésével egyidejűleg tájékoztatni az adatszolgáltatót.
+(6) Ha a rendőrség más adatállományból bűnüldözési célból adatot vesz át, erről az érintett tájékoztatására – a (2) bekezdés szerinti jelzéselhelyezés kivételével – a 91/B. § rendelkezései az irányadóak. A jelzés elhelyezéséről, annak okáról és a jelzés alapján tett intézkedésről – a rendőrség bűnüldözési vagy bűnmegelőzési feladata teljesítésének biztosítása érdekében – a rendőrség és a jelzést tartalmazó nyilvántartást kezelő szerv az érintettet, illetve más személyt vagy szervet nem tájékoztathatja. A tájékoztatási korlátozásról a rendőri szerv, illetve a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv köteles az adatigényléssel, illetve a jelzés elhelyezésével egyidejűleg tájékoztatni az adatszolgáltatót.
 
 (7) A Rendőrség a Vízuminformációs Rendszerhez a Büntető Törvénykönyvben meghatározott terrorcselekmény és az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése és nyomozása céljából, meghatározott egyedi ügyben betekintés céljából történő hozzáférést kezdeményezhet. A kezdeményezést a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat (a továbbiakban: 2008/633/IB tanácsi határozat) szerint kijelölt nemzeti központi hozzáférési ponthoz kell megtenni.
 

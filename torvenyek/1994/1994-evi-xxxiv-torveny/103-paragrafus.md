@@ -2,7 +2,21 @@
 
 103. § (1) Ez a törvény — a (2)—(3) bekezdésben foglaltak kivételével — a kihirdetése hónapját követő 6. hónap első napján lép hatályba.
 
-a)–h)
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
 
 i)
 

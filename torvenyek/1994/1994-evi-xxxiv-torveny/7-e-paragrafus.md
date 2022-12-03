@@ -18,7 +18,9 @@ aa) végzi
 
 megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését,
 
-ab)–ac)
+ab)
+
+ac)
 
 ad) megelőzi, felderíti és elhárítja azokat a törekvéseket, amelyek Magyarország területén terrorcselekmény elkövetésére irányulnak, továbbá részt vesz az aa) alpontban foglalt bűncselekmények közvetlen következményeinek elhárításához szükséges, e törvényben meghatározott intézkedések végrehajtásában,
 
@@ -43,6 +45,8 @@ fb) a kormányzati tevékenység szempontjából fontos, külföldön lévő mag
 e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve a nemzetközi szervezetekkel, valamint a külföldi állam hatóságaival.
 
 g) a rendészetért felelős miniszter döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a külföldön megrendezésre kerülő, kiemelt terrorfenyegetettségűnek minősíthető nemzetközi sportrendezvényeken résztvevő magyar sportolók és sportszakemberek személyvédelmében, valamint az általuk külföldön a sportrendezvényeken való részvétel ideje alatt használt létesítmények védelmében és e célból együttműködik az Európai Unió tagállamaival és szerveivel, az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
+
+h) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, a terrortámadás bekövetkezésével, illetve annak jelentős veszélyével összefüggő védelmi és biztonsági esemény (a továbbiakban: terrorbiztonsági esemény) esetén az azonnali és összehangolt reagálás érdekében – a védelmi és biztonsági igazgatás központi szerve koordinációs tevékenységének a megkezdéséig, a miniszter folyamatos tájékoztatása mellett – elsődleges beavatkozó szervezetként irányítja és koordinálja az eseménykezelésben érintett szerveknek és szervezeteknek a terrorbiztonsági esemény felderítésére, elhárítására, illetve felszámolására irányuló tevékenységét.
 
 (2) A terrorizmust elhárító szerv nyomozó hatósági jogkört nem gyakorol.
 

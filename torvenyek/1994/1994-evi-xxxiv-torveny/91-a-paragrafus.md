@@ -90,4 +90,4 @@ bűnüldözési adatállományban kezelheti.
 
 (1c) Ha a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat a büntetőeljárásban bizonyítékként használják fel, ideértve a Be. 259. § (3) bekezdése szerinti adatokat is, az adatkezelésre az (1b) bekezdésben foglaltak irányadók.
 
-(2) Az (1)–(1b) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel köthető megbízási szerződés.
+(2) Az (1)–(1b) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel vagy az állam közvetlen vagy közvetett többségi tulajdonában álló gazdasági társasággal köthető megbízási szerződés.
