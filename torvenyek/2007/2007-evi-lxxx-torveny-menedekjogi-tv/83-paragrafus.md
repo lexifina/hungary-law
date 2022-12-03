@@ -20,7 +20,7 @@ i) az elismerését kérő dublini eljárás alapján történő átadásának t
 
 j) az elismerését kérő családi állapotát, foglalkozását, iskolai végzettségét;
 
-k) az elismerését kérő, valamint az e törvény szerinti támogatásban és ellátásban részesülő menekült, oltalmazott, menedékes lakóhelyét, tartózkodási helyét, szálláshelyét;
+k) az elismerését kérő, valamint az e törvény szerinti támogatásban és ellátásban részesülő menekült, oltalmazott, menedékes lakóhelyét, tartózkodási helyét, szálláshelyét, valamint a részére a menekültügyi hatóság által nyújtott ellátás és támogatás típusát, mértékét, időtartamát;
 
 l) a származási országa nevét;
 
@@ -68,7 +68,7 @@ a) a harmadik országbeli állampolgár vagy hontalan személy által a tagálla
 
 b) a tizenkettedik életévét betöltött elismerését kérő esetében a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 21. és 22. cikke szerinti hozzáférés biztosítása.
 
-(4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek.
+(4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek. A (3) bekezdés a) és b) pontjában meghatározott célból rögzített ujjnyomat-adat ellenőrzés eredményét a menekültügyi hatóság haladéktalanul továbbítja a szakhatóságként eljáró rendőrségi szerv és polgári nemzetbiztonsági szolgálat részére.
 
 (5) A (4) bekezdésben meghatározott adatkör tekintetében adatfeldolgozó a miniszter rendeletében meghatározott szerv. Az adatoknak az Eurodac központi egységéhez történő továbbításáért, az adatok fogadásáért, illetve azok összehasonlításáért az adatkezelő felel.
 

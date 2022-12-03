@@ -20,6 +20,8 @@ f) a megkeresés teljesítésének
 
 időtartama.
 
+(3a) Az ügyintézési határidőbe nem számít be a személyes meghallgatásról szóló értesítés hatóság általi kiküldése, valamint a kézbesítés eredményéről szóló postai igazolás visszaérkezése között eltelt időtartam.
+
 (4) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének napja.
 
 (5) A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Ha a határidő utolsó napja olyan nap, amelyen a menekültügyi hatóságnál a munka szünetel, a határidő a következő munkanapon jár le.
