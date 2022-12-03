@@ -35,3 +35,5 @@ k) nemzeti létfontosságú rendszerelem: e törvény alapján kijelölt létfon
 l) üzemeltető: az a természetes, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az eszköz, létesítmény, rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy napi működéséért felelős,
 
 m) rendkívüli esemény: olyan külső vagy belső behatás, amely a kijelölt nemzeti vagy európai rendszerelem rendeltetésszerű működését, üzemfolytonosságát jelentős mértékben veszélyezteti, akadályozza, és amely megfelel jogszabályban foglalt kritériumoknak.
+
+n) kritikus munkakör: az üzemeltető által azonosított azon munkakör, amelynek ellátásával biztosított a létfontosságú rendszerelem üzemfolytonos működése.

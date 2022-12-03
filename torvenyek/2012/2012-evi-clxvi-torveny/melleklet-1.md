@@ -290,6 +290,16 @@ postai szolgáltatások
 
 |
 
+26a
+
+|
+
+|
+
+meteorológiai infrastruktúra
+
+|
+
 27.
 
 |

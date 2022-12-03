@@ -14,6 +14,8 @@ f) a hatósági ellenőrzéssel összefüggő dokumentumokat,
 
 g) az informatikai biztonsági szabályzatot.
 
+h) a kritikus munkakörben foglalkoztatott személy természetes személyazonosító adatait.
+
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja
 
 a) a kijelölési eljárás, a kijelölés visszavonására vonatkozó eljárás lefolytatásának biztosítása,
@@ -21,6 +23,8 @@ a) a kijelölési eljárás, a kijelölés visszavonására vonatkozó eljárás
 b) a létfontosságú rendszerelemek védelmével kapcsolatos kötelezettségek teljesítése hatósági ellenőrzésének biztosítása,
 
 c) a kijelölési eljárás során a 2. § (7) bekezdése szerinti határozatban előírt feltételeknek való megfelelés rendszeres hatósági ellenőrzésének biztosítása.
+
+d) a kritikus munkakörben foglalkoztatott személy státusza igazolásának biztosítása.
 
 (3) A nyilvántartó hatóság az (1) bekezdés szerinti adatokat az ágazati kijelölő hatóságnak a kijelölési eljárásban hozott hatósági határozata, illetve az üzemeltető adatszolgáltatása alapján veszi nyilvántartásba. Az ágazati kijelölő hatóság az erre vonatkozó véglegessé vált határozatot haladéktalanul köteles megküldeni a nyilvántartó hatóságnak. Az ágazati kijelölő hatóság a megküldéssel egyidejűleg tájékoztatja a nyilvántartó hatóságot az (1) bekezdés c) pontja szerinti adatokról.
 
@@ -47,6 +51,8 @@ i) különleges jogrend vagy honvédelmi veszélyhelyzet időszakában a honvéd
 j) az egységes digitális rádiótávközlő rendszer (a továbbiakban: EDR) kormányzati célú hírközlési szolgáltatás biztosítása érdekében az EDR szolgáltatás biztosítójának,
 
 k) nemzetbiztonsági, valamint terrorelhárítási érdekből, külön, a feladatellátásért felelős szerv által benyújtott, indokolt kérelem alapján.
+
+l) polgári védelmi kötelezettség megállapítása esetén a helyi önkormányzat polgármesterének a kritikus munkakörben foglalkoztatott személy státuszának igazolása céljából.
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait a nyilvántartó hatóság, valamint a kijelölési eljárásban érintett valamennyi hatóság az ágazati kijelölő hatóság rendszerelem kijelölése visszavonásáról szóló határozatának véglegessé válása után 30 napon belül a nyilvántartásból törli és erről az üzemeltetőt írásban értesíti.
 
