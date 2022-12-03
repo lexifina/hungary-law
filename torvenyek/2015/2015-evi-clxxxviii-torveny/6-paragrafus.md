@@ -1,36 +1,44 @@
 ## 5. A jogosultság nyilvántartás
 
-6. § (1) A jogosultság nyilvántartás az alábbi adatokat tartalmazza:
+6. § (1) A központi szerv a nyilvántartásban kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala, törlése, sérülése vagy megsemmisülése elleni védelem, illetve az adatkezelés jogszerűségének ellenőrzése céljából az elektronikus úton, egyedi informatikai alkalmazás igénybevételével a nyilvántartás számára adatközlésre kötelezett szervekről, a nyilvántartásban a központi szerv által végzett adatkezelésekről, illetve az igénybevételre jogosult szervekről és az igénybevételre jogosult szervek nevében hozzáférésre felhatalmazott felhasználókról, valamint az arcképelemző tevékenységet végző szerv arcképelemző rendszer működtetésére jogosult felhasználóiról jogosultsági nyilvántartást vezet.
 
-a) az igénybevételre jogosult szerv
+(2) Az (1) bekezdés szerinti nyilvántartás a következő adatokat tartalmazza:
+
+a) az adatközlésre kötelezett szerv és a központi szerv
 
 aa) megnevezését,
 
-ab) levelezési címét,
+ab) székhelyét, levelezési címét,
 
-ac) telefonszámát,
+ac) elektronikus levélcímét, telefonszámát,
 
-ad) telefaxszámát,
+b) az igénybevételre jogosult szerv
 
-ae) elektronikus levélcímét, valamint
+ba) megnevezését,
 
-af) hozzáférési jogosultságának típusát, keletkezésének és törlésének tényét és időpontját,
+bb) levelezési címét,
 
-b) a hozzáférésre felhatalmazott személy
+bc) telefonszámát,
 
-ba) nevét,
+bd) elektronikus levélcímét, valamint
 
-bb) személyi azonosítóját, ennek hiányában természetes személyazonosító adatait,
+be) hozzáférési jogosultságának típusát, keletkezésének és törlésének tényét és időpontját,
 
-bc) beosztását,
+c) a hozzáférésre felhatalmazott személy
 
-bd) szervezeti egységét,
+ca) nevét,
 
-be) hozzáférési jogosultságának terjedelmét és körét, keletkezésének és törlésének tényét és időpontját,
+cb) személyi azonosítóját, ennek hiányában természetes személyazonosító adatait,
 
-bf) egyedi azonosítóját.
+cc) beosztását,
 
-(2) A jogosultság nyilvántartás az arcképelemző rendszer kezelésére jogosultak tekintetében az alábbi adatokat tartalmazza:
+cd) szervezeti egységét,
+
+ce) hozzáférési jogosultságának terjedelmét és körét, keletkezésének és törlésének tényét és időpontját,
+
+cf) egyedi azonosítóját.
+
+(3) Az (1) bekezdés szerinti nyilvántartás az arcképelemző rendszer működtetésére jogosultak tekintetében az alábbi adatokat tartalmazza:
 
 a) az arcképelemző tevékenységet végző szerv
 
@@ -42,11 +50,11 @@ ac) telefonszámát,
 
 ad) telefaxszámát,
 
-ae) elektronikus levélcímét, valamint
+ae) elektronikus levélcímét,
 
 af) hozzáférési jogosultsága típusát, keletkezésének és törlésének tényét, valamint időpontját;
 
-b) az arcképelemző rendszer használatával elemző tevékenységet folytató személy
+b) az arcképelemző rendszer használatával elemző-kiértékelő tevékenységet folytató személy
 
 ba) nevét,
 
@@ -60,9 +68,9 @@ be) hozzáférési jogosultsága terjedelmét és körét, keletkezésének és 
 
 bf) hozzáférési jogosultságához rendelt felhasználói azonosítóját.
 
-(3) A központi szerv az (1) és (2) bekezdésben meghatározott adatokat a jogosultság törlésétől számított húsz évig kezeli.
+(4) A központi szerv a (2) és (3) bekezdésben meghatározott adatokat a jogosultság törlésétől számított húsz évig kezeli.
 
-(4) A jogosultság nyilvántartásban kezelt adatok teljes körét megismerheti
+(5) Az (1) bekezdés szerinti nyilvántartásban kezelt adatok teljes körét megismerheti
 
 a) az adatkezelés jogszerűségének ellenőrzése céljából a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH),
 

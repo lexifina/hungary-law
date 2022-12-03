@@ -16,7 +16,7 @@ az általa kezelt arcképmás felhasználásával az arcképelemző tevékenysé
 
 (4) A 3. § (3) bekezdés c) pontjában meghatározott célból jogosult a körözési eljárást folytató szerv az általa kezelt arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni a Körtv. 8. § (1) bekezdésében meghatározott körözött személyek azonosítása és az eltűnt személyek felkutatása érdekében.
 
-(5) A 3. § (3) bekezdés d) pontjában meghatározott célból a személyazonosság igazolására alkalmas hatósági igazolvány kiadására jogosult szerv eljárása során jogosult a személyiadat- és lakcímnyilvántartásban, az útiokmány-nyilvántartásban, valamint a közúti közlekedési nyilvántartásban kezelt, illetve az eljárás során az eljáró személy által rendelkezésre bocsátott arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét, valamint az automatizált összehasonlítást igénybe venni az eljáró személy személyazonosságának ellenőrzése érdekében.
+(5) A 3. § (3) bekezdés d) pontjában meghatározott célból a személyazonosság igazolására alkalmas hatósági igazolvány kiadására jogosult szerv eljárása során jogosult a személyiadat- és lakcímnyilvántartásban, az útiokmány-nyilvántartásban, valamint a közúti közlekedési nyilvántartásban kezelt, illetve az eljárás során az eljáró személy által rendelkezésre bocsátott arcképmás felhasználásával az automatizált arcképmás-összehasonlítást igénybe venni az eljáró személy személyazonosságának ellenőrzése érdekében.
 
 (6) A 3. § (3) bekezdés e) pontjában meghatározott célból jogosult
 

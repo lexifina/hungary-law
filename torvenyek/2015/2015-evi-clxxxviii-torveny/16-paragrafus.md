@@ -6,7 +6,7 @@
 
 (3) Az adattovábbítási nyilvántartásból adatigénylésre jogosult a polgáron kívül
 
-a) az adatkezelés jogszerűségének ellenőrzése céljából a központi szerv irányításáért felelős szerv,
+a) az adatkezelés jogszerűségének ellenőrzése céljából a központi szerv,
 
 b) a NAIH,
 

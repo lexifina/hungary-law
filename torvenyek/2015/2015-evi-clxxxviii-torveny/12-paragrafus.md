@@ -2,7 +2,7 @@
 
 12. § (1) Az igénybevételre jogosult szerv – ha törvény alapján a természetes személyazonosító adatok kezelésére jogosult – a 13. § (1) bekezdés b) pontjában meghatározott ügyazonosító adat, valamint az érintett személy természetes személyazonosító adatai közlésével az adatközlésre kötelezett szervtől kérheti, hogy az adatközlésre kötelezett szerv az általa vezetett nyilvántartásból a személyazonosság ellenőrzésével érintett személy arcképmásához tartozó technikai kapcsoló számot részére továbbítsa.
 
-(2) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére az igénybevételre jogosult szerv által részére átadott arcképmásból arckép profilt képez. Amennyiben az átadott arcképmás alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
+(2) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére az igénybevételre jogosult szerv által részére átadott arcképmást a profilképzés sikeressége érdekében előkészíti, majd abból arckép profilt képez. Amennyiben az átadott arcképmás alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
 
 (3)
 
@@ -12,7 +12,7 @@
 
 (5a) Az (5) bekezdés szerinti feladata ellátása során az arcképelemző tevékenységet végző szerv jogosult az arckép profilhoz rendelt technikai kapcsoló szám felhasználásával az adatközlésre kötelezett szervtől az arckép profil alapjául szolgáló arcképmást igényelni közvetlen adatkapcsolat útján.
 
-(5b) Az (5) bekezdés szerinti kiértékelés akkor eredményes, ha legalább két elemző személy egymástól függetlenül végzett elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás és a technikai kapcsoló számhoz tartozó arcképmás megfeleltethető egymással.
+(5b) Az (5) bekezdés szerinti kiértékelés akkor eredményes, ha legalább két elemző személy egymástól függetlenül végzett elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás és a technikai kapcsoló számhoz tartozó arcképmás megfeleltethető egymással, vagy a megfeleltethetőség ténye nem áll fenn.
 
 (6) Az (5) bekezdés szerinti feladata ellátása során az arcképelemző tevékenységet végző szerv jogosult felhasználni a metaadatokat.
 

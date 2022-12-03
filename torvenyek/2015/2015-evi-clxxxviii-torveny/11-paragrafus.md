@@ -1,6 +1,6 @@
 ## 8. Ismeretlen személy azonosításának elemzői támogatása
 
-11. § (1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv által részére továbbított arcképmásból arckép profilt képez. Amennyiben az átadott arcképmás alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
+11. § (1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv által részére továbbított arcképmást a profilképzés sikeressége érdekében előkészíti, majd abból arckép profilt képez. Amennyiben az átadott arcképmás alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
 
 (2) Az (1) bekezdés szerint képzett arckép profilt az arcképelemző tevékenységet végző szerv az arcképelemző rendszer igénybevételével az arckép profil nyilvántartásban kezelt arckép profilokkal összehasonlítja. Az összehasonlítást megelőzően az arcképelemző tevékenységet végző szerv a metaadatok felhasználásával jogosult az arcképelemző rendszerben szűrési szempontokat meghatározni, és az informatikai alkalmazás segítségével történő összehasonlítás folyamatát a kiválasztott szűrési szempontok alapján megkezdeni.
 
