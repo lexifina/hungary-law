@@ -8,15 +8,15 @@ b) kiskorúak esetén a családok támogatásáról szóló 1998. évi LXXXIV. t
 
 egyezik meg.
 
-(2a)[^13] Az 1. § b) pont bb) alpontja szerinti személy rendszeres létfenntartási támogatása tekintetében az 1. § b) pont bb) alpontja szerinti személy szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerint illetékes járási hivatal jár el.
+(2a)[^15] Az 1. § b) pont bb) alpontja szerinti személy rendszeres létfenntartási támogatása tekintetében az 1. § b) pont bb) alpontja szerinti személy szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerint illetékes járási hivatal jár el.
 
-(3)[^14] A (2) bekezdésben meghatározott rendszeres létfenntartási támogatást az 1. § b) pont bb) alpontja szerinti személy kérelmére a járási hivatal határozattal állapítja meg, és azt havonta – a hónap 15. napjáig – folyósítja.
+(3)[^16] A (2) bekezdésben meghatározott rendszeres létfenntartási támogatást az 1. § b) pont bb) alpontja szerinti személy kérelmére a járási hivatal határozattal állapítja meg, és azt havonta – a hónap 15. napjáig – folyósítja.
 
-(3a)[^15] A 6. életévét betöltött, 1. § b) pont bb) alpontja szerinti személy esetében a rendszeres létfenntartási támogatás folyósításának feltétele, hogy a 6. életévét betöltött, 1. § b) pont bb) alpontja szerinti személy – a (3b) bekezdésben meghatározott kivétellel – a folyósítást megelőző hónapban a járási hivatal által megjelölt időpontban és helyen megjelenjen.
+(3a)[^17] A 6. életévét betöltött, 1. § b) pont bb) alpontja szerinti személy esetében a rendszeres létfenntartási támogatás folyósításának feltétele, hogy a 6. életévét betöltött, 1. § b) pont bb) alpontja szerinti személy – a (3b) bekezdésben meghatározott kivétellel – a folyósítást megelőző hónapban a járási hivatal által megjelölt időpontban és helyen megjelenjen.
 
-(3b)[^16] A 6. életévét betöltött, de a 18. életévét be nem töltött, 1. § b) pont bb) alpontja szerinti személy helyett a törvényes képviselője is eleget tehet a megjelenési kötelezettségnek.
+(3b)[^18] A 6. életévét betöltött, de a 18. életévét be nem töltött, 1. § b) pont bb) alpontja szerinti személy helyett a törvényes képviselője is eleget tehet a megjelenési kötelezettségnek.
 
-(3c)[^17] Ha az 1. § b) pont bb) alpontja szerinti személy
+(3c)[^19] Ha az 1. § b) pont bb) alpontja szerinti személy
 
 a) a (3a) vagy (3b) bekezdésben meghatározott megjelenési kötelezettségének nem tesz eleget, vagy
 
@@ -34,8 +34,8 @@ b) a magyar nyugdíjrendszerből öregségi nyugdíjban részesül, vagy
 
 c) külföldről származó öregségi nyugdíjban részesül, és azt Magyarországon fel tudja venni.
 
-[^13]: Az 5. § (2a) bekezdését a 170/2022. (IV. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^14]: Az 5. § (3) bekezdése a 199/2022. (VI. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^15]: Az 5. § (3a) bekezdését a 199/2022. (VI. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^16]: Az 5. § (3b) bekezdését a 199/2022. (VI. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^17]: Az 5. § (3c) bekezdését a 199/2022. (VI. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^15]: Az 5. § (2a) bekezdését a 170/2022. (IV. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^16]: Az 5. § (3) bekezdése a 199/2022. (VI. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (3a) bekezdését a 199/2022. (VI. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^18]: Az 5. § (3b) bekezdését a 199/2022. (VI. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^19]: Az 5. § (3c) bekezdését a 199/2022. (VI. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
