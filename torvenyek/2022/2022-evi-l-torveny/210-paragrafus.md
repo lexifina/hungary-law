@@ -1,0 +1,3 @@
+## 51. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
+
+210. § Az adózás rendjéről szóló 2017. évi CL. törvény 131. § (4) bekezdésében az „ide nem értve az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített szolgálatára figyelemmel kifizetett juttatásait” szövegrész helyébe az „a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. § (2) bekezdésében meghatározottak kivételével” szöveg lép.

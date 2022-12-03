@@ -1,0 +1,3 @@
+50. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény „Gyermekek átmeneti otthona” alcíme a következő 50/A. §-sal egészül ki:
+
+„50/A. § A gyámhatóság a családjában nevelkedő, emberkereskedelem áldozatává vált gyermeket, ideértve azt a gyermeket is, aki esetében fennáll a veszélye annak, hogy emberkereskedelem áldozata, a védelembe vételével egyidejűleg, a szülő vagy más törvényes képviselő kérelmére legfeljebb hat hónapra elhelyezi az emberkereskedelem áldozatává vált gyermekek ideiglenes befogadására kijelölt, speciális terápiás ellátást biztosító gyermekek átmeneti otthonában. Az elhelyezés az intézményvezető javaslatára és a szülő vagy más törvényes képviselő kérelmére további hat hónappal meghosszabbítható.”

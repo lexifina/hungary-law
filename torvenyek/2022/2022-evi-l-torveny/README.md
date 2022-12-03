@@ -1,0 +1,7 @@
+# 2022. évi L. törvény Magyarország biztonságát szolgáló egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-50-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2022-12-03 | 2022. évi L. törvény | 2022-50-00-00.0 (közlönyállapot) |

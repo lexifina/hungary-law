@@ -1,0 +1,3 @@
+89. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 24. §-a a következő (3d) bekezdéssel egészül ki:
+
+„(3d) A nyilvántartó a 9. § (1), (2) és (4) bekezdésben, a 9/A. § (1) bekezdés e) pontjában, valamint a 9/B. § (1) bekezdés h) pontjában meghatározott adatok térítésmentes, informatikai adatkapcsolat útján történő közvetlen átadását biztosítja a jármű tulajdonjogának és az üzembentartó személyének változását igazoló teljes bizonyító erejű magánokirat Automatikus Közigazgatási Döntéshozatali szolgáltatás igénybevételével történő létrehozásához szükséges ellenőrzéséhez és az automatizált eljárás lefolytatásához.”

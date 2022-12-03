@@ -1,0 +1,1 @@
+139. § Hatályát veszti a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 5. § (3) bekezdés c) pontjában a „vagy” szövegrész.

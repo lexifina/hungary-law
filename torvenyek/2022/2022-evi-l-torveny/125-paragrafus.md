@@ -1,0 +1,9 @@
+125. § A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény 11. alcíme a következő 30/G. §-sal egészül ki:
+
+„30/G. § (1) Az elnökség meghatározza a felvehető rendes tagi létszámkeretet arra figyelemmel, hogy a Nemzet Művésze címmel nem rendelkező rendes tagok létszáma ne haladja meg a 245 főt.
+
+(2) Az elnökség a regisztrált rendes tagjelöltek művészeti és szakmai kiválósági szempontok alapján való értékelését követően – az (1) bekezdés szerinti létszámkeret figyelembevétele mellett – a jelen lévő tagjai egyszerű többségi szavazatával dönt arról, hogy mely személyek rendes taggá választását kezdeményezi, azzal, hogy szavazategyenlőség esetén az elnök szavazata dönt.
+
+(3) Az elnökség a közgyűlés elé terjesztendő rendes tagjelöltek létszámának és a levelező tagok törvényi létszámhatárának figyelembevételével meghatározza a felvehető levelező tagi létszámkeretet, és a levelező tagok felvételére nézve is lefolytatja a (2) bekezdés szerinti eljárást.
+
+(4) A rendes és a levelező taggá választásról – közvetlen és titkos, listás szavazással, jelenlévő szavazati jogú tagjainak egyszerű többségével – a közgyűlés dönt oly módon, hogy a levelező tagokat a rendes tagok megválasztását követően kell megválasztani. A rendes és levelező tagsági jogviszony kezdőnapja a közgyűlésnek a rendes és a levelező taggá választásról hozott döntését követő nap. A megválasztott tag – a 20. § (3) bekezdésének megfelelően – nyilatkozik arról, hogy mely tagozat munkájában kíván szavazati joggal és tanácskozási joggal részt venni.”
