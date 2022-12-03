@@ -18,7 +18,7 @@ e) munkaviszonyban,
 
 f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban,
 
-g) szolgálati jogviszonyban,
+g) szolgálati jogviszonyban, szolgálati viszonyban,
 
 h) egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként,
 
