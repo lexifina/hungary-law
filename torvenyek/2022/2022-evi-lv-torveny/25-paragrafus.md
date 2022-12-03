@@ -1,3 +1,1 @@
-25. § A Vht. „Levonás egyéb járandóságból” alcíme a következő 70. §-sal egészül ki:
-
-„70. § A nyugdíjfolyósító szerv által nem havonkénti rendszerességgel járó egyszeri kifizetésekből – különösen a visszamenőlegesen elszámolt emelés összegéből, késedelmi kamatból, egyszeri segélyből, a tizenharmadik havi nyugdíjból, a tizenharmadik havi ellátásból, a nyugdíjprémiumból, a szépkorúak jubileumi juttatásából, a nyugdíjas bányászok szénjárandóságának pénzbeli megváltásából – kizárólag a gyermektartásdíj követelés és a polgári perben vagy büntetőeljárásban az adóssal szemben a bűncselekmény következtében keletkezett és a természetes személy sértett javára megállapított polgári jogi igény összege vonható le.”
+### 25. §
