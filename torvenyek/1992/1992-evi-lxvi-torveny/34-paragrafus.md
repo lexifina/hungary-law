@@ -8,6 +8,8 @@
 
 (3) A külföldön élő magyar állampolgár – elektronikus azonosítási szolgáltatás használata nélkül – elektronikus úton is bejelentheti külföldi lakóhelyének változását.
 
+(3a) A családi állapot igazolására szolgáló hatósági bizonyítvány kiadása iránti kérelem elektronikus azonosítást követően elektronikus kapcsolattartás útján is előterjeszthető.
+
 (4) A Kormány rendeletében meghatározott esetekben és feltételekkel a nyilvántartás szerve az eljárást az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatal útján folytatja le.
 
 (5) Törvényes képviselő a cselekvőképtelen kiskorú kérelmező személyazonosító igazolványa kiadásához szükséges hozzájáruló nyilatkozatot elektronikus azonosítást követően, elektronikus kapcsolattartás útján is tehet.

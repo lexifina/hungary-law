@@ -4,7 +4,9 @@
 
 (2) A nyilvántartás szervei (6. §), ha törvény másként nem rendelkezik — az adatszolgáltatás teljesítéséhez szükséges adatokon kívül — nem ismerhetik meg azon adatkezelők által kezelt adatokat, amelyekhez adatot szolgáltatnak.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) A nyilvántartás szervei statisztikai célra – a népszámlálással kapcsolatos feladatok és a Központi Statisztikai Hivatal statisztikai célú adatkezelése kivételével – csak olyan módon szolgáltathatnak adatot, amellyel a polgár és az adat kapcsolata nem állítható helyre.
 

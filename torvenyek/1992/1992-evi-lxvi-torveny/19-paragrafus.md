@@ -4,7 +4,7 @@ a) jogának vagy jogos érdekének érvényesítése érdekében,
 
 b) tudományos kutatás céljából,
 
-c) közvélemény-kutatás és piackutatás megkezdéséhez szükséges minta, valamint
+c) közvélemény-kutatás és piackutatás megkezdéséhez szükséges minta céljából.
 
 d)
 

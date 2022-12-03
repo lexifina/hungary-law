@@ -1,0 +1,1 @@
+21/C. § A hivatásos katasztrófavédelmi szerv hatósági feladatai ellátása céljából a következő adatokat jogosult átvenni a nyilvántartást kezelő szervtől: a természetes személyazonosító, a lakcím, az állampolgárság, az elhalálozás ténye és ideje, valamint a személyazonosító igazolvány és az útlevél okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka.

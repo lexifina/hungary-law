@@ -29,3 +29,5 @@ m) a nyilvántartás történeti állományára kiterjedően is, a konzuli szolg
 n) az Elektronikus Egészségügyi Szolgáltatási Tér útján az intézetben történt születést bejelentő intézet a születés bejelentéséhez, a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez szükséges adatok továbbításával kapcsolatos kötelezettségeinek teljesítéséhez.
 
 o) a közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez.
+
+p) a személyazonosító igazolványt kiadó és nyilvántartó hatóság, valamint a személyazonosító igazolvány kiadása során közreműködő hatóságként eljáró bv. szerv, e hatósági hatáskörében ellátandó feladatai végrehajtásához.

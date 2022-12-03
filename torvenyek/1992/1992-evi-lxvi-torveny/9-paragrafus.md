@@ -54,9 +54,9 @@ s)
 
 a) az állandó személyazonosító igazolvány adatlapokat, kérelmeket és fényképeket, a lakcímbejelentő lapokat, valamint a 2021. július 1. napját megelőzően keletkezett értesítésicím-bejelentőlapot;
 
-b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgárok nyilvántartásba vételével és a külföldi lakóhely változás bejelentésével kapcsolatos iratokat;
+b) a külföldi letelepedésre vonatkozó nyilatkozatot, a külföldön élő magyar állampolgárok nyilvántartásba vételével és a külföldi lakóhely változás bejelentésével kapcsolatos iratokat, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállítása iránti kérelmeket;
 
-c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, adatszolgáltatási korlátozással és annak visszavonásával, adatváltozással, adathelyesbítéssel kapcsolatos – alapiratokat, az anyakönyvi alapiratok kivételével;
+c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, adatszolgáltatási korlátozással és annak visszavonásával kapcsolatos – alapiratokat, az anyakönyvi alapiratok kivételével;
 
 d) a 2015. január 1. napját megelőzően keletkezett területszervezési, közigazgatás-szervezési, címváltozási iratokat.
 

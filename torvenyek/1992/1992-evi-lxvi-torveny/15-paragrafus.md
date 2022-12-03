@@ -2,7 +2,9 @@
 
 a) természetes személyazonosító adatait;
 
-b)–c)
+b)
+
+c)
 
 d) állampolgárságát;
 
