@@ -2,4 +2,8 @@
 
 (2) A halasztást elutasító végzés ellen az elkövető és képviselője, fiatalkorú esetén a törvényes képviselő is a végzés közlésétől számított három napon belül fellebbezhet. A fellebbezést a törvényszék a beérkezéstől számított három napon belül tanácsülésen bírálja el.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)

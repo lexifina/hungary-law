@@ -12,7 +12,7 @@ e) szabálysértési elzárással büntethető és pénzbírsággal sújtható s
 
 f) szabálysértési elzárással büntethető és pénzbírsággal sújtható szabálysértés elkövetése miatt jogerősen felelősségre vonták, az újabb pénzbírsággal büntethető szabálysértés miatt hatvan napig terjedő szabálysértési elzárás büntetés szabható ki.
 
-(2) Az (1) bekezdés a)–d) pontjában meghatározott, az ismételt elkövetésre vonatkozó rendelkezéseket nem lehet alkalmazni, ha
+(2) Az (1) bekezdés a)–f) pontjában meghatározott, az ismételt elkövetésre vonatkozó rendelkezéseket nem lehet alkalmazni, ha
 
 a) a szabálysértés miatt helyszíni bírságot szabtak ki,
 
