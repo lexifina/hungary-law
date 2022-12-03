@@ -196,7 +196,7 @@ gj) az egészségügyi szolgáltatók akkreditációs felülvizsgálatát végz�
 
 h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat és az alapnyilvántartásba felvehető szakképesítések körét,
 
-i) a szakképzésről szóló törvény szerinti szakmai képzés kivételével – az egészségügyi ágazati szakmai képzések tekintetében
+i) az Szkt. szerinti szakmai képzés kivételével – az egészségügyi ágazati szakmai képzések tekintetében
 
 ia) a képzésben való részvételhez szükséges képesítési és szakmai feltételeket,
 
@@ -365,7 +365,3 @@ h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel eg
 i) a büntetés-végrehajtásért felelős miniszter, hogy – a miniszterrel és az igazságügyért felelős miniszterrel egyetértésben – a büntetés-végrehajtási intézetekben fogvatartottak élelmezési szakmai és táplálkozás-egészségügyi követelményeire vonatkozó szabályokat,
 
 j) az állami vagyon felügyeletéért felelős miniszter, hogy a 244/A. § (19) bekezdés szerinti kártalanítás mértékét
-
-rendeletben állapítsa meg.
-
-(5a) Felhatalmazást kap

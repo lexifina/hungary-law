@@ -1,4 +1,10 @@
-117. § (1)–(4)
+117. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5) Az egészségügyi államigazgatási szerv elektronikusan és papír alapon egyaránt nyilvántartást vezet az egészségügyi felsőfokú szakirányú szakképesítést szerzett személyekről.
 

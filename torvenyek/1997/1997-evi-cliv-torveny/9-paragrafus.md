@@ -4,4 +4,6 @@
 
 (3) A várólistára helyezés esetén a beteget a várakozás okáról és annak várható időtartamáról, illetve esetleges következményeiről tájékoztatni kell.
 
-(4)–(5)
+(4)
+
+(5)

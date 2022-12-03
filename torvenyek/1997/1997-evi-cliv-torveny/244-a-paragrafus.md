@@ -4,7 +4,9 @@
 
 (3) Az a személy, aki a működési nyilvántartásban az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény (a továbbiakban: Tv.) hatálybalépését megelőző napon szereplő nevétől eltérő, e törvény szerinti nevet kíván használni az egészségügyi tevékenység gyakorlása során, a Tv. hatálybalépésétől számított 60 napon belül értesítenie kell a használni kívánt névről a működési nyilvántartást vezető szervet.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) Az R. szerinti, a szakképzéssel összefüggő támogatások folyósításának feltétele, hogy a felsőoktatási intézmények – a (4) bekezdés szerinti időpontot követően – havonta elektronikus úton tájékoztatást adjanak az egészségügyi államigazgatási szervnek a szakorvosjelöltnek a 116/A. § (5) bekezdés d) pontja szerinti adatairól.
 

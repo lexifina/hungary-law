@@ -4,7 +4,7 @@
 
 (3) Az egészségügyi szakirányú szakmai továbbképzésre az vehető fel, aki
 
-a) a szakképzésről szóló törvény alapján egészségügyi szakképesítéssel, valamint egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán vagy ciklusokra bontott, osztott képzés mesterképzési szakán szerzett szakképzettséggel, vagy
+a) az Szkt. alapján egészségügyi szakképesítéssel, valamint egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán vagy ciklusokra bontott, osztott képzés mesterképzési szakán szerzett szakképzettséggel, vagy
 
 b) orvos- és egészségtudományi képzési terület egységes osztatlan mesterképzési szakán szerzett szakképzettséggel vagy egészségügyi felsőfokú szakirányú szakképesítéssel
 

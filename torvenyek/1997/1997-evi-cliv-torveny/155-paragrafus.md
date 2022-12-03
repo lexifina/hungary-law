@@ -8,9 +8,9 @@ b) az egészségügyi intézmény költségvetési irányítása, így az alapí
 
 c) az intézmény költségvetésével kapcsolatos, külön jogszabályban meghatározott, az irányító szerv jogkörébe tartozó jogok gyakorlása,
 
-d) az intézmény vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint az egyéb munkáltatói jogok gyakorlása,
+d) az intézmény vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel az Mt. vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint az egyéb munkáltatói jogok gyakorlása,
 
-e) az intézmény gazdasági vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint a díjazás megállapítása,
+e) az intézmény gazdasági vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel az Mt. vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint a díjazás megállapítása,
 
 f) az intézmény működését szabályozó dokumentumok (pl. szervezeti és működési szabályzat, házirend, szakmai program, munkaterv) jóváhagyása,
 

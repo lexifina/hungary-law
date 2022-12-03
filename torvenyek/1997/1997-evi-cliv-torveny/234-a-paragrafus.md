@@ -4,4 +4,6 @@
 
 (3) Az egészségügyi államigazgatási szerv a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(4)–(5)
+(4)
+
+(5)

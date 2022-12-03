@@ -8,7 +8,7 @@ a) a 111. § (3) bekezdése és a 112. § (4) bekezdése szerinti adatokat,
 
 b) a 116/C. § (2) bekezdés a) és f) pontja szerinti adatokat,
 
-c) a szakképzésről szóló törvény alapján egészségügyi szakképesítést, valamint a nem konvencionális eljárások körébe tartozó szakképesítést szerzettek, illetve a képzésben részt vevők számára és szakképesítés szerinti megoszlására vonatkozó adatokat,
+c) az Szkt. alapján egészségügyi szakképesítést, valamint a nem konvencionális eljárások körébe tartozó szakképesítést szerzettek, illetve a képzésben részt vevők számára és szakképesítés szerinti megoszlására vonatkozó adatokat,
 
 d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
 

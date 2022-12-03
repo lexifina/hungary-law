@@ -4,7 +4,11 @@
 
 202. § (1) E fejezet alkalmazásában
 
-a)–c)
+a)
+
+b)
+
+c)
 
 d) szerv- és szövetátültetés: szerv és szövet eltávolítása emberi testből, valamint annak más élő személy testébe történő beültetése az emberi test bizonyos funkcióinak helyreállítása céljából;
 

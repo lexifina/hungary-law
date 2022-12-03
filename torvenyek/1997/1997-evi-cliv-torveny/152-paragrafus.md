@@ -1,6 +1,8 @@
 ## A helyi önkormányzatok feladatai
 
-152. § (1)–(2)
+152. § (1)
+
+(2)
 
 (3) A helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségének részeként gondoskodik
 

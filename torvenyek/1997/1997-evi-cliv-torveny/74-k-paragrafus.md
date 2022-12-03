@@ -5,11 +5,3 @@
 (3) A Kormány rendeletében előírhatja, hogy az érvényes védettség igazolása során az érintett a védettség igazolásához előírt vagy más, a személyazonosság igazolására alkalmas igazolványát felhívásra köteles bemutatni. Az érvényes védettséget ellenőrző szerv vagy személy jogosult a védettségi igazolványban, illetve az applikációban foglalt adatok, valamint az érintett személyazonosság igazolására alkalmas igazolványán szereplő adatok megismerésére.
 
 (4) Az ellenőrző szerv vagy személy a (3) bekezdésben szereplő igazolványok és applikáció adatait – ha törvény eltérően nem rendelkezik – semmilyen módon nem rögzítheti.
-
-## IV. Fejezet
-
-## AZ EGÉSZSÉGÜGYI ELLÁTÁSOK RENDSZERE
-
-1. CÍM
-
-Működési elvek
