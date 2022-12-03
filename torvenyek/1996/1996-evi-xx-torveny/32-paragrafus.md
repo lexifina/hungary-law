@@ -2,54 +2,58 @@
 
 32. § A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult
 
-a) a személyiadat- és lakcímnyilvántartás szerve, a személyiadat- és lakcímnyilvántartás vezetéséhez, a címnyilvántartás szerve a címnyilvántartás vezetéséhez;
+1. a személyiadat- és lakcímnyilvántartás szerve a személyiadat- és lakcímnyilvántartás vezetéséhez, a címnyilvántartás szerve a címnyilvántartás vezetéséhez;
 
-b) az Nytv. alapján a személyiadat- és lakcímnyilvántartás vezetéséhez adatszolgáltatásra kötelezett szerv vagy polgár, adatszolgáltatási feladatai teljesítéséhez;
+2. az Nytv. alapján a személyiadat- és lakcímnyilvántartás vezetéséhez adatszolgáltatásra kötelezett szerv vagy polgár, adatszolgáltatási feladatai teljesítéséhez;
 
-c) elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából;
+3. a kötvénynyilvántartó szerv a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 50/C. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához;
 
-d) a külképviseleti hatóság, olyan ügy intézéséhez, amelyben a személyi azonosító kezelésére az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult;
+4. elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvezési feladatainak ellátása céljából;
 
-e) az ingatlan-nyilvántartás és földhasználati nyilvántartás szerve, belső azonosítóként, a külön törvényben meghatározottak szerint, az ingatlantulajdonosok és a földhasználók, illetve az ingatlannal kapcsolatos bármely joggal és kötelezettséggel összefüggésben, a nyilvántartásba bejegyzett polgár azonosításához;
+5. a külképviseleti hatóság, olyan ügy intézéséhez, amelyben a személyi azonosító kezelésére az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult;
 
-f) a katonai igazgatás szervei és a Magyar Honvédség központi irattárazási feladatait ellátó honvédelmi szervezet kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes honvédelmi szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett hadköteles állomány katonai szolgálata tervezése érdekében, a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez, valamint a honvédelmi ágazatban használt okmányok kezelésével kapcsolatban;
+6. az ingatlan-nyilvántartás és földhasználati nyilvántartás szerve, belső azonosítóként, a törvényben meghatározottak szerint, az ingatlantulajdonosok és a földhasználók, illetve az ingatlannal kapcsolatos bármely joggal és kötelezettséggel összefüggésben, a nyilvántartásba bejegyzett polgár azonosításához;
 
-g) a választási szerv a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és nemzetiségi önkormányzati képviselő, az országos nemzetiségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;
+7. a katonai igazgatás szervei és a Magyar Honvédség központi irattárazási feladatait ellátó honvédelmi szervezet kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes honvédelmi szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett hadköteles állomány katonai szolgálata tervezése érdekében, a háborús veszteség-nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez, valamint a honvédelmi ágazatban használt okmányok kezelésével kapcsolatban;
 
-h) a választójoggal nem rendelkező polgárok nyilvántartását vezető, valamint a neki adatot szolgáltató szerv, a választójoggal nem rendelkezők nyilvántartásának vezetéséhez;
+8. a választási szerv a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és nemzetiségi önkormányzati képviselő, az országos nemzetiségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;
 
-i) a polgármester (főpolgármester), a népiülnök-választási eljárásban a választójogosultság ellenőrzéséhez;
+9. a választójoggal nem rendelkező polgárok nyilvántartását vezető, valamint a neki adatot szolgáltató szerv, a választójoggal nem rendelkezők nyilvántartásának vezetéséhez;
 
-j) az idegenrendészeti szerv és a központi menekültügyi szerv a törvényben meghatározott feladataik ellátásához;
+10. a polgármester (főpolgármester), a népiülnök-választási eljárásban a választójogosultság ellenőrzéséhez;
 
-k) a rendőrség a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljáráshoz;
+11. az idegenrendészeti szerv és a központi menekültügyi szerv a törvényben meghatározott feladataik ellátásához;
 
-l) a bűntettesek nyilvántartását kezelő szerv,
+12. a rendőrség a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljáráshoz;
 
-m) a körözést elrendelő, a körözési eljárást lefolytató és a körözési nyilvántartást vezető szerv a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvényben meghatározott feladatai ellátásához;
+13. a bűntettesek nyilvántartását kezelő szerv;
 
-n) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
+14. a körözést elrendelő, a körözési eljárást lefolytató és a körözési nyilvántartást vezető szerv a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvényben meghatározott feladatai ellátásához;
 
-o) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása érdekében;
+15. a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
-p) a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a nyilvántartási és közlekedési igazgatási eljáráshoz;
+16. az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
 
-q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, lakáscélú állami támogatások ügyében eljáró szerv, valamint a lakáscélú állami támogatásokért felelős miniszter feladatai ellátásához;
+17. a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a nyilvántartási és közlekedési igazgatási eljáráshoz;
 
-r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
+18. a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, lakáscélú állami támogatások ügyében eljáró szerv, valamint a lakáscélú állami támogatásokért felelős miniszter feladatai ellátásához;
 
-s) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott földhasználati összesítő igénylése céljából az ingatlanügyi hatóság, az ügyész, a mezőgazdasági igazgatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv;
+19. a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 
-t) a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához;
+20. a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott földhasználati összesítő igénylése céljából az ingatlanügyi hatóság, az ügyész, a mezőgazdasági igazgatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv;
 
-u) a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvántartását vezető szerv a nyilvántartás vezetéséhez.
+21. a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához;
 
-v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
+22. a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvántartását vezető szerv a nyilvántartás vezetéséhez;
 
-w) a Központi Statisztikai Hivatal statisztikai célra;
+23. az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
 
-x) az útlevélhatóság és az eljárásában közreműködő hatóság az úti okmányokkal kapcsolatos feladataik ellátásához.
+24. a Központi Statisztikai Hivatal statisztikai célra;
 
-y) az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez,
+25. az útlevélhatóság és az eljárásában közreműködő hatóság az úti okmányokkal kapcsolatos feladataik ellátásához;
 
-z) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez.
+26. az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez;
+
+27. a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez;
+
+28. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.

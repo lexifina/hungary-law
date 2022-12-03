@@ -2,52 +2,56 @@
 
 36. § A személyi azonosító továbbítására jogosult:
 
-a) a személyiadat- és lakcímnyilvántartás szerve akkor, ha az adatszolgáltatást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
+1. a személyiadat- és lakcímnyilvántartás szerve, ha az adatszolgáltatást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
 
-b) a 32. § b) pontja szerint adatot szolgáltató szerv vagy polgár, a személyiadat- és lakcímnyilvántartás illetékes szervének;
+2. a 32. § 2. pontja szerint adatot szolgáltató szerv vagy polgár, a személyiadat- és lakcímnyilvántartás illetékes szervének;
 
-c) az adatkezelő, ha törvény alapján a személyi azonosító alkalmazásával a személyiadat- és lakcímnyilvántartásból adatszolgáltatás igénylésére jogosult, a személyiadat- és lakcímnyilvántartástól történő adatszolgáltatás igényléséhez;
+3. az adatkezelő, ha törvény alapján a személyi azonosító alkalmazásával a személyiadat- és lakcímnyilvántartásból adatszolgáltatás igénylésére jogosult, a személyiadat- és lakcímnyilvántartástól történő adatszolgáltatás igényléséhez;
 
-d) a népszavazási kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak a Nemzeti Választási Bizottság, illetve a helyi választási bizottság részére történő átadásakor;
+4. a népszavazási kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak a Nemzeti Választási Bizottság, illetve a helyi választási bizottság részére történő átadásakor;
 
-e) a választójoggal nem rendelkező polgárok nyilvántartásának vezetéséhez adatszolgáltatásra kötelezett szerv, e kötelezettsége teljesítésekor;
+5. a választójoggal nem rendelkező polgárok nyilvántartásának vezetéséhez adatszolgáltatásra kötelezett szerv, e kötelezettsége teljesítésekor;
 
-f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, az európai polgári kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
+6. a választójoggal nem rendelkezők nyilvántartását vezető szerv, az európai polgári kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
 
-g) a polgármester (főpolgármester) a népiülnök-választási eljárásban, a választójoggal nem rendelkezők nyilvántartását vezető szervtől történő adatszolgáltatás igényléséhez;
+7. a polgármester (főpolgármester) a népiülnök-választási eljárásban, a választójoggal nem rendelkezők nyilvántartását vezető szervtől történő adatszolgáltatás igényléséhez;
 
-h) a választójoggal nem rendelkezők nyilvántartását vezető szerv a népiülnök-választási eljáráshoz a polgármesternek (főpolgármesternek) teljesített adatszolgáltatáskor;
+8. a választójoggal nem rendelkezők nyilvántartását vezető szerv a népiülnök-választási eljáráshoz a polgármesternek (főpolgármesternek) teljesített adatszolgáltatáskor;
 
-i) az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
+9. az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
 
-j) a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
+10. a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
 
-k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
+11. a 32. § 7. pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 
-l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
+12. a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
 
-m) a nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
+13. a nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
 
-n) a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
+14. a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
 
-o) a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy aláírásgyűjtő íveknek a választási szervhez történő továbbításakor;
+15. a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy aláírásgyűjtő íveknek a választási szervhez történő továbbításakor;
 
-p) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
+16. a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
-q) az útlevélhatóság és az eljárásában közreműködő hatóság a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
+17. az útlevélhatóság és az eljárásában közreműködő hatóság a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
 
-r) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása érdekében;
+18. az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
 
-s) az érintett előzetes, írásbeli hozzájárulása szerint a továbbításra feljogosított adatkezelő;
+19. az érintett előzetes, írásbeli hozzájárulása szerint a továbbításra feljogosított adatkezelő;
 
-t) feladatai ellátásához a választási szerv és a választási munkacsoport egymás között, illetve a bíróságnak, a választási eljárással összefüggő kifogások elbírálásához;
+20. feladatai ellátásához a választási szerv és a választási munkacsoport egymás között, illetve a bíróságnak, a választási eljárással összefüggő kifogások elbírálásához;
 
-u) a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez;
+21. a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 
-v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához;
+22. a 32. § 6. és 21. pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához;
 
-x) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez.
+23. a kötvénynyilvántartó szerv a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 50/C. § (1) bekezdése szerinti nyilvántartással összefüggésben a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
 
-y) az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez,
+24. a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez;
 
-z) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez.
+25. az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez;
+
+26. a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez;
+
+27. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.
