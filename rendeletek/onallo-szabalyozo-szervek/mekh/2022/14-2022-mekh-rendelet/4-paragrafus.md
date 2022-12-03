@@ -1,7 +1,3 @@
-4. § Az R.
+4. §[^4]
 
-a) 3/A. §-ában az „az (EU) 2017/460 bizottsági rendelet szerinti” szövegrész helyébe az „a szállítási rendszerüzemeltetési díjjal kapcsolatos” szöveg, valamint a „hatályon kívül helyezi,” szövegrész helyébe a „hatályon kívül helyezi vagy megsemmisíti,” szöveg,
-
-b) 11. § (7) bekezdésében a „6. § (4)–(5) bekezdésében” szövegrész helyébe a „10/A. §-ban” szöveg
-
-lép.
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

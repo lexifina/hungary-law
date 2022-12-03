@@ -1,7 +1,5 @@
 ## 2. A földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak meghatározásának a 2021-ben induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 8/2020. (VIII. 14.) MEKH rendelet módosítása
 
-2. § A földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak meghatározásának a 2021-ben induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 8/2020. (VIII. 14.) MEKH rendelet (a továbbiakban: R.) 5. alcíme a következő 10/A. §-sal egészül ki:
+2. §[^2]
 
-„10/A. § (1) A Hivatal a 10 éves fejlesztési tervet jóváhagyó határozatában a földgázszállító rendszeren meghatározott, a szomszédos országok felől való betáplálási pontok és a szomszédos országok felé irányuló kiadási pontok létrehozására vagy az ilyen meglévő pontok műszaki kapacitásának növelésére vonatkozó, valamint a szállítási rendszerüzemeltetői, elosztási, tárolási engedélyesi tevékenységhez kötött klímavédelmi projekthez közvetlenül tartozó beruházások árszabályozásban történő figyelembevétele során a beruházás egészére vagy egy részére ösztönző súlyozott átlagos tőkeköltség meghatározást alkalmazhat. A Hivatal az ösztönző súlyozott átlagos tőkeköltség alkalmazásáról és annak (2) bekezdés szerinti mértékéről az adott beruházás költséghatékonysága, nemzetgazdasági súlya, társadalmi és klímavédelmi haszna, valamint a beruházás kockázatai alapján dönt.
-
-(2) Az (1) bekezdés szerinti ösztönző súlyozott átlagos tőkeköltség mértéke a rendszerhasználati díjakat megállapító határozatban meghatározott súlyozott átlagos tőkeköltség legfeljebb 1,5 százalékponttal emelt értéke.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
