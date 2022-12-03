@@ -1,5 +1,3 @@
-## „n) határozza meg a honvédelmi egészségügyi szolgáltató minősítési rendszerére vonatkozó szabályokat.”
-
 73. § Az egészségügyről szóló 1997. évi CLIV. törvény
 
 a) 114. § (2) bekezdés c) pontjában az „a szakképzésről szóló törvény” szövegrész helyébe az „az Szkt.” szöveg,

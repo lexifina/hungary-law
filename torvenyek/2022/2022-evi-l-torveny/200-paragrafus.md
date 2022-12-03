@@ -1,5 +1,1 @@
-200. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. CLXXXVIII. törvény 9/B. §-a helyébe a következő rendelkezés lép:
-
-„9/B. § (1) Az ETIAS nemzeti egység jogosult – a 3. § (3) bekezdés t) pontjában meghatározott célból – az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni az utazási engedély iránti kérelmet az ETIAS keretében benyújtó személyek személyazonosságának ellenőrzése, továbbá ezzel összefüggésben a rendelkezésére álló arcképmások felhasználásával a 12/E. § szerinti összehasonlító ellenőrzés lefolytatása érdekében.
-
-(2) A SIRENE Iroda jogosult – a 3. § (3) bekezdés u) pontjában meghatározott célból – az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni az (EU) 2019/817 európai parlamenti és tanácsi rendelet 4. cikk 15. pontja, valamint az (EU) 2019/818 európai parlamenti és tanácsi rendelet 4. cikk 15. pontja szerinti információs rendszerekben rendelkezésére álló arcképmások felhasználásával a 12/E. § szerinti összehasonlító ellenőrzés lefolytatása érdekében.”
+### 200. §

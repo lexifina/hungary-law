@@ -1,5 +1,3 @@
-## „6. az ingatlan-nyilvántartás és a földhasználati nyilvántartás szerve törvényben meghatározottak szerint;”
-
 42. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 36. §-a helyébe a következő rendelkezés lép:
 
 „36. § A személyi azonosító továbbítására jogosult:

@@ -5,15 +5,3 @@ a) az uniós információs rendszerek közötti interoperabilitás kereteinek me
 b) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

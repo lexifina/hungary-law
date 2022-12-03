@@ -2,8 +2,8 @@
 
 91. § Hatályát veszti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény
 
-a) 14. § (2) bekezdés j) pontja,
+a)
 
-b) 15. § (3) bekezdés c) pontja,
+b)
 
 c) 19. § (2) bekezdés a) pont aa) alpontja.
