@@ -14,7 +14,7 @@ illetményének megfelelő összeg.
 
 (3) A szolgálati elismerés a (2) bekezdés szerinti egészségügyi szolgálati jogviszonyban töltött idő betöltésének a napján esedékes.
 
-(4) A szolgálati elismerésre való jogosultság szempontjából egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni a 8. § (9) bekezdés a)–l) pontja, valamint a 8. § (9a) bekezdés c) és e) pontja szerinti jogviszonyban töltött időtartamot, függetlenül attól, hogy az adott jogviszony 2020. november 18. napja előtt vagy azt követően jött létre.
+(4) A szolgálati elismerésre való jogosultság szempontjából egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni a 8. § (9) bekezdés a)–l) és n) pontja, valamint a 8. § (9a) bekezdés c) és e) pontja szerinti jogviszonyban töltött időtartamot, függetlenül attól, hogy az adott jogviszony 2020. november 18. napja előtt vagy azt követően jött létre.
 
 (5) A (4) bekezdés alkalmazása során nem vehető figyelembe az az időtartam, ami az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatának megállapításakor nem került figyelembevételre.
 
