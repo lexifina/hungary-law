@@ -4,6 +4,8 @@ EURÓPAI NYOMOZÁSI HATÁROZAT (ENYH)
 
 Ezt az ENYH-t egy illetékes hatóság bocsátotta ki. A kibocsátó hatóság igazolja, hogy ennek az ENYH-nak a kibocsátása a benne megjelölt eljáráshoz szükséges és azzal arányos, figyelembe véve a gyanúsított vagy a vádlott jogait is, és hogy a megjelölt nyomozási cselekmények megegyező körülmények között hasonló belföldi ügyben is elrendelhetők lennének. Kérem az alábbiakban megjelölt nyomozási cselekménynek vagy intézkedéseknek az elvégzését a nyomozás bizalmas jellegének megfelelő figyelembevételével, és azt követően az ENYH végrehajtásának eredményeként megszerzett bizonyítékok átadását.
 
+7K07192_0
+
 |
 
 A. SZAKASZ:

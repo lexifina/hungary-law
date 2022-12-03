@@ -4,6 +4,8 @@ IGAZOLÁS EURÓPAI NYOMOZÁSI HATÁROZAT (ENYH) ÁTVÉTELÉRŐL
 
 Ezt a formanyomtatványt a végrehajtó állam azon hatóságának kell kitöltenie, amely a lentebb említett ENYH-t kapta.
 
+7K07200_0
+
 |
 
 |

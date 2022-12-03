@@ -12,6 +12,8 @@ e) nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi h
 
 (1a) A 27. § (4) bekezdés alapján átvett határozat végrehajtása megtagadható, ha a formanyomtatvány tanúsítvány hiányos. A központi hatóság ez esetben a külföldi határozat megküldését vagy egyéb kiegészítő információk megadását is kérheti.
 
+(1b) A külföldi határozat végrehajtását meg kell tagadni, ha az elkövető írásbeli eljárás esetén nem kapott a kibocsátó állam jogának megfelelően, személyesen vagy a nemzeti jog szerint meghatalmazott képviselője útján tájékoztatást az ügyben a jogorvoslathoz való jogáról és az ilyen jogorvoslati lehetőség határidejéről.
+
 (2) A külföldi határozat végrehajthatóságára a Szabs. tv. elévülésre vonatkozó szabályait azzal kell alkalmazni, hogy az elévülés határideje a végrehajtás átvétele iránti megkeresés központi hatósághoz érkezésének napján kezdődik.
 
 (3)
