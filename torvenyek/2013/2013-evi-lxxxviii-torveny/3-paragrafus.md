@@ -108,4 +108,8 @@ p) eltűnés miatti körözés esetén a belső azonosító kódot, a körözés
 
 (6) A körözött személyek nyilvántartásába a (2) bekezdés k) pontjában meghatározott adatokat az eltűntnek nyilvánító rendőri szerv rögzíti.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)

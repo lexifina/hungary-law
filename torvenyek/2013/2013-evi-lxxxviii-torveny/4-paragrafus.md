@@ -78,7 +78,11 @@ a) a körözés visszavonását követő harmadik napig,
 
 b) állatok esetén – ha a körözés visszavonására nem került sor – a körözés elrendelésétől számított 20 évig,
 
-c) a körözött közokirat érvényességi idejének lejártától számított 10 évig,
+c) közokiratok tekintetében
+
+ca) a büntetőeljárásban körözött közokirat esetén a bűncselekmény büntethetőségének, a szabálysértési eljárásban körözött közokirat esetén a szabálysértés büntethetőségének elévülési idejéig,
+
+cb) a nem büntetőeljárásban vagy szabálysértési eljárásban körözött közokirat esetén a közokirat érvényességi idejének lejártáig, vagy ha a közokiratnak nincs érvényességi ideje, illetve az bármely okból nem állapítható meg, a körözés elrendelésétől számított 5 évig,
 
 d) az a)–c) pontok alá nem tartozó olyan esetben, amikor a körözés elrendelésének oka elvesztés, 5 évig,
 

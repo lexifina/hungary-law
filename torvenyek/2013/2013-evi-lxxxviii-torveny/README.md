@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-88-00-00
 | 2021-05-14 | 2021. évi XXXI. törvény | 2013-88-00-00.21 |
 | 2022-05-25 | 2022. évi IV. törvény | 2013-88-00-00.22 |
 | 2022-11-01 | 2017. évi CXCVII. törvény | 2013-88-00-00.23 |
+| 2022-12-03 | 2022. évi L. törvény | 2013-88-00-00.27 |
