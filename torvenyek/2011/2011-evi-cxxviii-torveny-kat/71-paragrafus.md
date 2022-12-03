@@ -36,7 +36,7 @@ c) a munkahely megnevezése, címe,
 
 d) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott polgári védelmi kötelezettség alóli mentességi ok, illetve azon tény, hogy polgári védelmi kötelezettségét munkaköre ellátásával, közmegbízatásával teljesíti.
 
-(7a) A katasztrófák elleni védekezési feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv a területi védelmi bizottságok tagjainak, a helyi védelmi bizottságok tagjainak, a polgármestereknek, a kormányzati koordinációs szervbe delegált szakértőknek, a védekezéssel összefüggő feladatokban közreműködő önkormányzati referenseknek, az eseménykezelésben érintett gazdálkodó szervezetek, intézmények vezetőinek, kapcsolattartóinak és szakértőinek családi és utónevét, telefonszámát, e-mail elérhetőségét, munkahelyére, szervezeti beosztására vonatkozó adatait kezeli.
+(7a) A katasztrófák elleni védekezési feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv a területi védelmi bizottságok tagjainak, a helyi védelmi bizottságok tagjainak, a polgármestereknek, a katasztrófavédelmi koordinációs szervbe delegált szakértőknek, a védekezéssel összefüggő feladatokban közreműködő referenseknek, az eseménykezelésben érintett gazdálkodó szervezetek, intézmények vezetőinek, kapcsolattartóinak és szakértőinek családi és utónevét, telefonszámát, e-mail elérhetőségét, munkahelyére, szervezeti beosztására vonatkozó adatait kezeli.
 
 (7b) A (7a) bekezdésben meghatározott adatokat a hivatásos katasztrófavédelmi szerv az érintettől vagy annak munkáltatójától gyűjti.
 
