@@ -1,5 +1,3 @@
-1. § A veszélyhelyzet ideje alatt szomszédos országban fennálló humanitárius katasztrófára tekintettel, az ideiglenes védelemre jogosultként elismert személyek foglalkoztatásával és juttatásaival kapcsolatos egyes szabályokról, valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet módosításáról szóló 106/2022. (III. 12.) Korm. rendelet 3/A. §-a a következő (3) és (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3) Az igénylőnek az (1) bekezdés szerinti időtartamot követően benyújtott, a Gyvt. 19. §-a szerinti jogosultság iránti kérelme elbírálására – magyarországi lakó- vagy tartózkodási hely hiányában – a menekültügyi hatóság által nyilvántartott szálláshelye szerinti települési önkormányzat jegyzője illetékes.
-
-(4) Ha az igénylő sem magyarországi lakó- vagy tartózkodási hellyel, sem a menekültügyi hatóság által nyilvántartott szálláshellyel nem rendelkezik, a (3) bekezdés szerinti kérelme elbírálására azon települési önkormányzat jegyzője illetékes, ahol az (1) bekezdés szerinti ingyenes intézményi és szünidei gyermekétkeztetést utoljára igénybe vette.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
