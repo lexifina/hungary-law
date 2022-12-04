@@ -1,3 +1,3 @@
-20. §[^20]
+20. §[^21]
 
-[^20]: A 20. § a 26. § (4) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^21]: A 20. § a 26. § (4) bekezdés alapján 2025. január 1-jén lép hatályba.
