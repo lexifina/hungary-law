@@ -1,10 +1,10 @@
-## I.[^14]
+## I.[^21]
 
 ## II.
 
 ## A kisbiztosítónak nem minősülő biztosító éves felügyeleti jelentése
 
-## 1-18.[^15]
+## 1-18.[^22]
 
 ## 19. 42Y20 IFRS-eket alkalmazó biztosítók tájékoztató adatai
 
@@ -46,7 +46,7 @@
 
 ## Ebben a sorban a 197/2022. (VI. 4.) Korm. rendelet alapján a tárgyidőszakban megfizetett adót kell bemutatni.
 
-## 20-21.[^16]
+## 20-21.[^23]
 
 ## 22. 42Y24 Szerzéssel kapcsolatos adatok értékesítési csatornánként
 
@@ -104,7 +104,7 @@
 
 ## Egyéb: a fenti értékesítési csatornák közül egyikbe sem sorolható értékesítési csatorna.
 
-## 23.[^17]
+## 23.[^24]
 
 ## 24. 42YE Nemzeti előírások szerinti eredménykimutatás
 
@@ -116,7 +116,7 @@
 
 ## A táblát a legfőbb szerv által elfogadott éves beszámolóval egyezően kell kitölteni.
 
-## 25-28.[^18]
+## 25-28.[^25]
 
 ## 29. 42Y1E41 A biztosító nem-életbiztosítási termékeinek listája
 
@@ -254,14 +254,14 @@
 
 ## Az oszlopban a biztosító fő tevékenységéhez köthető összes, a tárgyidőszakban felmerült költség jelentendő.
 
-## III-VII.[^19]
+## III-VII.[^26]
 
-8. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^20]
+8. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^27]
 
-[^14]: A 7. melléklet I. pontja a 13. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^15]: A 7. melléklet II.1-18. pontja a 13. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^16]: A 7. melléklet II.20-21. pontja a 13. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^17]: A 7. melléklet II.23. pontja a 13. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^18]: A 7. melléklet II.25-28. pontja a 13. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^19]: A 7. melléklet III-VII. pontja a 13. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^20]: A 8. melléklet a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^21]: A 7. melléklet I. pontja a 13. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^22]: A 7. melléklet II.1-18. pontja a 13. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^23]: A 7. melléklet II.20-21. pontja a 13. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^24]: A 7. melléklet II.23 pontja a 13. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^25]: A 7. melléklet II.25-28 pontja a 13. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^26]: A 7. melléklet III-VII. pontja a 13. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^27]: A 8. melléklet a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

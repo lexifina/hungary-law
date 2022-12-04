@@ -1,3 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-16. § Hatályát veszti a 44/2020. (XI. 20.) MNB rendelet.
+16. §[^9]
+
+[^9]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,10 +1,10 @@
-## I.[^26]
+## I.[^33]
 
 ## II.
 
 ## Az alkusz és a többes ügynök féléves felügyeleti jelentése
 
-## 1. [^27]
+## 1. [^34]
 
 ## 2. 48B1A1 tábla Biztosításközvetítői tevékenységből származó jutalék vagy díjazási bevételek
 
@@ -126,14 +126,14 @@
 
 ## Amennyiben az alkusz és a többes ügynök a tárgyidőszakban határon átnyúló közvetítői tevékenységet nem végzett, a tábla első összesítő sorában nullát kell jelentenie.
 
-## 5-12.[^28]
+## 5-12. [^35]
 
-## III.[^29]
+## III.[^36]
 
-15. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^30]
+15. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^37]
 
-[^26]: A 14. melléklet I. pontja a 13. § (2) bekezdése alapján 2023. január 1-én lép hatályba.
-[^27]: A 14. melléklet II.1. pontja a 13. § (2) bekezdése alapján 2023. január 1-én lép hatályba.
-[^28]: A 14. melléklet II. 5-12. pontja a 13. § (2) bekezdése alapján 2023. január 1-én lép hatályba.
-[^29]: A 14. melléklet III. pontja a 13. § (2) bekezdése alapján 2023. január 1-én lép hatályba.
-[^30]: A 15. melléklet a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^33]: A 14. melléklet I. pontja a 13. § (2) bekezdése alapján 2023. január 1-én lép hatályba.
+[^34]: A 14. melléklet II.1. pontja a 13. § (2) bekezdése alapján 2023. január 1-én lép hatályba.
+[^35]: A 14. melléklet II. 5-12. pontja a 13. § (2) bekezdése alapján 2023. január 1-én lép hatályba.
+[^36]: A 14. melléklet III. pontja a 13. § (2) bekezdése alapján 2023. január 1-én lép hatályba.
+[^37]: A 15. melléklet a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
