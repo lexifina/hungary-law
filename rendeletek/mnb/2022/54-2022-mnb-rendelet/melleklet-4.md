@@ -24,17 +24,17 @@
 
 ## A felügyeleti jelentés tartalmi követelményeit az 1. melléklet 4. pontja határozza meg.
 
-## II.[^2]
+## II.[^3]
 
-## III.[^3]
+## III.[^4]
 
-## IV.[^4]
+## IV.[^5]
 
-## V.[^5]
+## V.[^6]
 
-## VI.[^6]
+## VI.[^7]
 
-## VII.[^7]
+## VII.[^8]
 
 ## VIII.
 
@@ -58,18 +58,18 @@
 
 ## A tábla ezen oszlopa a választható portfóliók azonosító kódját tartalmazza, amelynek kialakítását az 1. melléklet 4.6. pontja határozza meg.
 
-## IX.[^8]
+## IX.[^9]
 
-## X.[^9]
+## X.[^10]
 
-4. melléklet az 54/2022. (XII. 2.) MNB rendelethez[^10]
+4. melléklet az 54/2022. (XII. 2.) MNB rendelethez[^11]
 
-[^2]: A 3. melléklet II. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^3]: A 3. melléklet III. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^4]: A 3. melléklet IV. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^5]: A 3. melléklet V. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^6]: A 3. melléklet VI. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^7]: A 3. melléklet VII. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^8]: A 3. melléklet IX. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^9]: A 3. melléklet X. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^10]: A 4. melléklet a 9. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^3]: A 3. melléklet II. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^4]: A 3. melléklet III. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^5]: A 3. melléklet IV. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^6]: A 3. melléklet V. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^7]: A 3. melléklet VI. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^8]: A 3. melléklet VII. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^9]: A 3. melléklet IX. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^10]: A 3. melléklet X. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^11]: A 4. melléklet a 9. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

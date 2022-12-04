@@ -14,15 +14,15 @@
 
 ## A felügyeleti jelentés tartalmi követelményeit az 1. melléklet 4. pontja határozza meg.
 
-## II.[^13]
+## II.[^14]
 
-## III.[^14]
+## III.[^15]
 
-## IV.[^15]
+## IV.[^16]
 
-## V.[^16]
+## V.[^17]
 
-## VI.[^17]
+## VI.[^18]
 
 ## VII.
 
@@ -38,17 +38,17 @@
 
 ## A pénztár e tábla kitöltésével tesz eleget az Mbr. 20. § (2) bekezdése előírásainak.
 
-## VIII.[^18]
+## VIII.[^19]
 
-## IX.[^19]
+## IX.[^20]
 
-8. melléklet az 54/2022. (XII. 2.) MNB rendelethez[^20]
+8. melléklet az 54/2022. (XII. 2.) MNB rendelethez[^21]
 
-[^13]: A 7. melléklet II. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^14]: A 7. melléklet III. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^15]: A 7. melléklet IV. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^16]: A 7. melléklet V. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^17]: A 7. melléklet VI. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^18]: A 7. melléklet VIII. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^19]: A 7. melléklet IX. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^20]: A 8. melléklet a 9. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^14]: A 7. melléklet II. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^15]: A 7. melléklet III. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^16]: A 7. melléklet IV. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^17]: A 7. melléklet V. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^18]: A 7. melléklet VI. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^19]: A 7. melléklet VIII. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^20]: A 7. melléklet IX. pontja a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^21]: A 8. melléklet a 9. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
