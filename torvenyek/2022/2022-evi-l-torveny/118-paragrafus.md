@@ -1,3 +1,1 @@
-118. § A menedékjogról szóló 2007. évi LXXX. törvény 66. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontján alapuló megszüntetés eseteiben rendelkezik a 45. § (5), (7) és (8) bekezdésében foglaltak szerint a külföldi a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.”
+### 118. §

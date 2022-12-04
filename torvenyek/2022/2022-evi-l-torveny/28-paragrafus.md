@@ -8,6 +8,4 @@ c)
 
 d)
 
-e) 91/C. § (5) bekezdésében a „szerv vezetője” szövegrész helyébe a „szerv, illetve a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője” szöveg
-
-lép.
+e)

@@ -1,3 +1,1 @@
-198. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A 3. § (3) bekezdés d) pontjában meghatározott célból a személyazonosság igazolására alkalmas hatósági igazolvány kiadására jogosult szerv eljárása során jogosult a személyiadat- és lakcímnyilvántartásban, az útiokmány-nyilvántartásban, valamint a közúti közlekedési nyilvántartásban kezelt, illetve az eljárás során az eljáró személy által rendelkezésre bocsátott arcképmás felhasználásával az automatizált arcképmás-összehasonlítást igénybe venni az eljáró személy személyazonosságának ellenőrzése érdekében.”
+### 198. §

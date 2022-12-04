@@ -1,1 +1,1 @@
-205. § Hatályát veszti az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 16. § (3) bekezdés a) pontjában az „irányításáért felelős szerv” szövegrész.
+### 205. §

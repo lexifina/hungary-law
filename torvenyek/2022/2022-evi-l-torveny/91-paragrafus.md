@@ -6,4 +6,4 @@ a)
 
 b)
 
-c) 19. § (2) bekezdés a) pont aa) alpontja.
+c)
