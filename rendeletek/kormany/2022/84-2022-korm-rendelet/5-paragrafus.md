@@ -1,4 +1,4 @@
-5. §[^10] (1) A 2. § (1)–(3) bekezdése és a 4. § (1) bekezdése szerinti intézkedés az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatást tartalmaz. A támogatás az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény (a továbbiakban: közlemény) 2.1. szakasza szerinti támogatásként (a továbbiakban: átmeneti támogatás) nyújtható az ezen alcím szerinti támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően olyan vállalkozásoknak, amelyek működését a háború gazdasági hatásai hátrányosan érintik. Az érintettségről a vállalkozás a támogatás odaítélését megelőzően nyilatkozik.
+5. §[^11] (1) A 2. § (1)–(3) bekezdése és a 4. § (1) bekezdése szerinti intézkedés az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatást tartalmaz. A támogatás az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény (a továbbiakban: közlemény) 2.1. szakasza szerinti támogatásként (a továbbiakban: átmeneti támogatás) nyújtható az ezen alcím szerinti támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően olyan vállalkozásoknak, amelyek működését a háború gazdasági hatásai hátrányosan érintik. Az érintettségről a vállalkozás a támogatás odaítélését megelőzően nyilatkozik.
 
 (2) Az átmeneti támogatásról támogatási döntés 2022. december 31-ig hozható.
 
@@ -8,9 +8,9 @@
 
 (5) A támogatásnak nem lehet feltétele az, hogy a kedvezményezett a gazdasági tevékenységét áthelyezze az Európai Gazdasági Térségen belül egy másik országból Magyarország területére.
 
-(6)[^11] Az átmeneti támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 500 000 eurónak megfelelő forintösszeget.
+(6)[^12] Az átmeneti támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 500 000 eurónak megfelelő forintösszeget.
 
 (7) Az átmeneti támogatással kapcsolatos minden iratot az odaítélést követő tíz évig meg kell őrizni.
 
-[^10]: Az 5. § a 278/2022. (VII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^11]: Az 5. § (6) bekezdése a 350/2022. (IX. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^11]: Az 5. § a 278/2022. (VII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^12]: Az 5. § (6) bekezdése a 350/2022. (IX. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.

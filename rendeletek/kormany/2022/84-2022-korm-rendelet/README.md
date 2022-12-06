@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-84-20-2
 | 2022-09-13 | 2022-84-20-22.7 | 350/2022. (IX. 12.) Korm. rendelet |
 | 2022-10-01 | 2022-84-20-22.8 | 367/2022. (IX. 29.) Korm. rendelet |
 | 2022-11-01 | 2022-84-20-22.9 | 2021. évi I. törvény |
+| 2022-12-06 | 2022-84-20-22.10 | 494/2022. (XII. 6.) Korm. rendelet |
