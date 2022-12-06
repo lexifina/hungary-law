@@ -1,7 +1,4 @@
-## 4. §[^16] E rendeletnek a hatósági üzemanyagárral kapcsolatos egyes kormányrendeletek módosításáról szóló 278/2022. (VII. 30.) Korm. rendelettel megállapított 1. § (1a) bekezdése utáni 1. § (5) bekezdése szerinti elszámolást a hatósági üzemanyagárral kapcsolatos egyes kormányrendeletek módosításáról szóló 278/2022. (VII. 30.) Korm. rendelet hatálybalépését[^17] követően kell alkalmazni.
+5. §[^10] Az uniós szankciók életbelépése okán az üzemanyagárral kapcsolatos egyes rendelkezésekről szóló 494/2022. (XII. 6.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését[^11] megelőző napon hatályos 1–1/B. §-ra tekintettel a Módr. hatálybalépését megelőző napon hatályos 2. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
 
-5. §[^18]
-
-[^16]: A 4. §-t a 278/2022. (VII. 30.) Korm. rendelet 3. §-a iktatta be.
-[^17]: A hatálybalépés időpontja 2022. július 30. 12 óra.
-[^18]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 494/2022. (XII. 6.) Korm. rendelet 9. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2022. december 6. 23:00.
