@@ -1,0 +1,3 @@
+2. § Az R. a következő 113. §-sal egészül ki:
+
+„113. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 495/2022. (XII. 6.) Korm. rendelettel (a továbbiakban: Módr105.) megállapított 5/N. § rendelkezéseit és 2. mellékletébenfoglalt táblázat 108. sorát a Módr105. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
