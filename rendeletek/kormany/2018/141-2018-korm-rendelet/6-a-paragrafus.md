@@ -1,8 +1,8 @@
-6/A. §[^51] (1) A 2. mellékletben foglalt táblázat 8. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:8 mezőjében megjelölt telkekre a beépítés szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
+6/A. §[^52] (1) A 2. mellékletben foglalt táblázat 8. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:8 mezőjében megjelölt telkekre a beépítés szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
-a)[^52] a hatályos településrendezési terv és az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+a)[^53] a hatályos településrendezési terv és az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
-b)[^53] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) és (4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+b)[^54] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) és (4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:8 mezőjében megjelölt telkekre meghatározott sajátos beépítési szabályok:
 
@@ -30,6 +30,6 @@ b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (5) A 2. mellékletben foglalt táblázat 8. sora szerinti beruházás tekintetében az építési engedélyezési eljárás és a használatbavételi engedélyezési eljárás során a 2. mellékletben foglalt táblázat B:8 mezőjében megjelölt telkeket rendezettnek kell tekinteni abban az esetben is, ha a telket érintő telekhatárrendezés még nem történt meg.
 
-[^51]: A 6/A. §-t a 174/2018. (IX. 26.) Korm. rendelet 4. §-a iktatta be.
-[^52]: A 6/A. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § a) pontja szerint módosított szöveg.
-[^53]: A 6/A. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § c) pontja szerint módosított szöveg.
+[^52]: A 6/A. §-t a 174/2018. (IX. 26.) Korm. rendelet 4. §-a iktatta be.
+[^53]: A 6/A. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § a) pontja szerint módosított szöveg.
+[^54]: A 6/A. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § c) pontja szerint módosított szöveg.

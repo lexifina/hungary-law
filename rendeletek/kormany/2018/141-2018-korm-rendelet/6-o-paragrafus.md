@@ -1,4 +1,4 @@
-6/O. §[^89] (1) A 2. mellékletben foglalt táblázat 63. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:63 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg azzal, hogy
+6/O. §[^90] (1) A 2. mellékletben foglalt táblázat 63. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:63 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg azzal, hogy
 
 a) az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -40,13 +40,13 @@ b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (4) A (2) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-(5)[^90] A 2. mellékletben foglalt táblázat 63. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+(5)[^91] A 2. mellékletben foglalt táblázat 63. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
 
-(6)[^91] Az (5) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell a talajvédelmi tervet.
+(6)[^92] Az (5) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell a talajvédelmi tervet.
 
-(7)[^92] Az (5) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
+(7)[^93] Az (5) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
-[^89]: A 6/O. §-t a 193/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
-[^90]: A 6/O. § (5) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
-[^91]: A 6/O. § (6) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
-[^92]: A 6/O. § (7) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
+[^90]: A 6/O. §-t a 193/2021. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^91]: A 6/O. § (5) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
+[^92]: A 6/O. § (6) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
+[^93]: A 6/O. § (7) bekezdését a 16/2022. (I. 20.) Korm. rendelet 6. §-a iktatta be.
