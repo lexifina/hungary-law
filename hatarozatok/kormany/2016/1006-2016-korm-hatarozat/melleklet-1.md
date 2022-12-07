@@ -62,13 +62,15 @@
 
 ## s) [^25] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 1482/2022. (X. 13.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 6a., 12., 12b., 13., 15., 22a. és 25. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
 
+## t) [^26] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 1603/2022. (XII. 6.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 7., 13., 15. és 17. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
+
 ## során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^26]
+## 3.[^27]
 
-1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^27]
+1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^28]
 
 A GINOP éves fejlesztési kerete
 
@@ -218,9 +220,9 @@ A GINOP éves fejlesztési kerete
 
 | 5a. | GINOP-3.1.6-20 | Digitális élményközpontok hálózatának továbbfejlesztése és központi minőségbiztosítása | 4,50 | kiemelt | Meghirdetve 2021. januárban |
 
-| 6. | GINOP-3.2.1-15 | Infokommunikációs motivációs, szemléletformáló és kompetencia-fejlesztő program KKV-knak | 6,40 | kiemelt | Meghirdetve 2015. áprilisban |
+| 6. | GINOP-3.2.1-15 | Infokommunikációs motivációs, szemléletformáló és kompetencia-fejlesztő program KKV-knak | 6,642 | kiemelt | Meghirdetve 2015. áprilisban |
 
-| 7. | GINOP-3.2.2-8.2.4-16 | Vállalati komplex infokommunikációs és mobilfejlesztések, felhőalapú online üzleti szolgáltatások terjesztésének támogatása | 11,93 | egyszerűsített | Meghirdetve 2016. decemberben |
+| 7. | GINOP-3.2.2-8.2.4-16 | Vállalati komplex infokommunikációs és mobilfejlesztések, felhőalapú online üzleti szolgáltatások terjesztésének támogatása | 11,693 | egyszerűsített | Meghirdetve 2016. decemberben |
 
 | 8. | GINOP-3.2.4-8.2.4-16 | Felhőalapú (IaaS, PaaS, SaaS) vállalati szolgáltatások, IKT megoldások fejlesztésének és piaci bevezetésének támogatása | 0,961 | standard | Meghirdetve 2016. decemberben |
 
@@ -274,17 +276,17 @@ A GINOP éves fejlesztési kerete
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-5.1.1-15 | Út a munkaerőpiacra | 246,28 | kiemelt | Meghirdetve 2015. szeptemberben |
+| 2. | GINOP-5.1.1-15 | Út a munkaerőpiacra | 254,59 | kiemelt | Meghirdetve 2015. szeptemberben |
 
-| 3. | GINOP-5.1.2-15 | Társadalmi célú vállalkozások ösztönzése – támogató szolgáltatások | 2,43 | kiemelt | Meghirdetve 2015. decemberben |
+| 3. | GINOP-5.1.2-15 | Társadalmi célú vállalkozások ösztönzése – támogató szolgáltatások | 2,31 | kiemelt | Meghirdetve 2015. decemberben |
 
-| 4. | GINOP-5.1.3-16 | Társadalmi célú vállalkozások ösztönzése | 6,603 | egyszerűsített | Meghirdetve 2016. júniusban |
+| 4. | GINOP-5.1.3-16 | Társadalmi célú vállalkozások ösztönzése | 6,516 | egyszerűsített | Meghirdetve 2016. júniusban |
 
 | 5. | GINOP-5.1.4-17 | Tranzitfoglalkoztatási programok támogatása | 2,53 | standard | Meghirdetve 2017. februárban |
 
 | 6. | GINOP-5.1.5-16 | Nem állami szervezetek munkaerő-piaci szolgáltatásainak támogatása | 5,387 | standard | Meghirdetve 2017. februárban |
 
-| 6a. | GINOP-5.1.7-17 | Társadalmi célú vállalkozások ösztönzése | 16,414 | egyszerűsített | Meghirdetve 2017. márciusban |
+| 6a. | GINOP-5.1.7-17 | Társadalmi célú vállalkozások ösztönzése | 16,308 | egyszerűsített | Meghirdetve 2017. márciusban |
 
 | 6b. |  |  |  |  |  |
 
@@ -292,15 +294,15 @@ A GINOP éves fejlesztési kerete
 
 | 6d. | GINOP-5.1.10-18 | Álláskeresők vállalkozóvá válásának támogatása | 13,29 | kiemelt | Meghirdetve 2018. novemberben |
 
-| 7. | GINOP-5.2.1-14 | Ifjúsági Garancia | 173,55 | kiemelt | Meghirdetve 2014. októberben |
+| 7. | GINOP-5.2.1-14 | Ifjúsági Garancia | 179,41 | kiemelt | Meghirdetve 2014. októberben |
 
 | 8. | GINOP-5.2.2-14 | Fiatalok vállalkozóvá válásának ösztönzése | 1,05 | standard | Meghirdetve 2014. októberben |
 
 | 9. | GINOP-5.2.3-16 | Fiatalok vállalkozóvá válása – Vállalkozás indítási költségeinek támogatása | 1,77 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
-| 10. | GINOP-5.2.4-16 | Gyakornoki program pályakezdők támogatására | 21,59 | egyszerűsített | Meghirdetve 2016. februárban |
+| 10. | GINOP-5.2.4-16 | Gyakornoki program pályakezdők támogatására | 21,18 | egyszerűsített | Meghirdetve 2016. februárban |
 
-| 10a. | GINOP-5.2.4-19 | Új gyakornoki program | 1,21 | egyszerűsített | Meghirdetve 2019. szeptemberben |
+| 10a. | GINOP-5.2.4-19 | Új gyakornoki program | 1,20 | egyszerűsített | Meghirdetve 2019. szeptemberben |
 
 | 11. | GINOP-5.2.5-16 | Gyakornoki program – Támogató szolgáltatások | 2,00 | kiemelt | Meghirdetve 2016. februárban |
 
@@ -310,7 +312,7 @@ A GINOP éves fejlesztési kerete
 
 | 12. | GINOP-5.3.1-14 | A rugalmas foglalkoztatás elterjesztése a konvergencia régiókban | 1,98 | standard | Meghirdetve 2014. októberben |
 
-| 13. | GINOP-5.3.2-16 | A rugalmas foglalkoztatás elterjesztése a konvergencia régiókban – rugalmas, családbarát foglalkoztatási módszerek bevezetése a munkáltatóknál | 6,01 | egyszerűsített | Meghirdetve 2016. februárban |
+| 13. | GINOP-5.3.2-16 | A rugalmas foglalkoztatás elterjesztése a konvergencia régiókban – rugalmas, családbarát foglalkoztatási módszerek bevezetése a munkáltatóknál | 5,98 | egyszerűsített | Meghirdetve 2016. februárban |
 
 | 14. | GINOP-5.3.3-15 | Jogszerű foglalkoztatást célzó szolgáltatásnyújtás támogatása | 3,45 | standard | Meghirdetve 2015. augusztusban |
 
@@ -318,9 +320,9 @@ A GINOP éves fejlesztési kerete
 
 | 15. | GINOP-5.3.4-16 | A munkahelyi egészség és biztonság fejlesztése | 1,90 | standard | Meghirdetve 2016. júniusban |
 
-| 15a. | GINOP-5.3.5-18 | Munkaerő-piaci alkalmazkodóképesség fejlesztését célzó tematikus projektek | 4,03 | standard | Meghirdetve 2018. szeptemberben |
+| 15a. | GINOP-5.3.5-18 | Munkaerő-piaci alkalmazkodóképesség fejlesztését célzó tematikus projektek | 4,02 | standard | Meghirdetve 2018. szeptemberben |
 
-| 16. | GINOP-5.3.6-17 | Vállalati felelősségvállalás ösztönzése és állásfeltárás | 2,411 | kiemelt | Meghirdetve 2017. februárban |
+| 16. | GINOP-5.3.6-17 | Vállalati felelősségvállalás ösztönzése és állásfeltárás | 2,703 | kiemelt | Meghirdetve 2017. februárban |
 
 | 16a. | GINOP-5.3.7-VEKOP-17 | Jogszerű foglalkoztatás fejlesztése | 3,80 (ebből VEKOP: 1,056) | kiemelt | Meghirdetve 2017. márciusban |
 
@@ -332,13 +334,13 @@ A GINOP éves fejlesztési kerete
 
 | 20. | GINOP-5.3.11-18 | Kisgyermeket nevelők munkaerőpiaci visszatérésének támogatása | 2,38 | kiemelt | Meghirdetve 2018. októberben |
 
-| 21. | GINOP-5.3.12-19 | Foglalkoztatás-bővítés ösztönzése | 15,55 | egyszerűsített | Meghirdetve 2019. decemberben |
+| 21. | GINOP-5.3.12-19 | Foglalkoztatás-bővítés ösztönzése | 15,41 | egyszerűsített | Meghirdetve 2019. decemberben |
 
 | 22. | GINOP-5.3.13-20 | Kisgyermeket nevelő szülők képzésének elősegítése, ösztöndíja és elhelyezkedésük támogatása | 2,95 | kiemelt | Meghirdetve 2020. januárban |
 
 | 23. | GINOP-5.3.16- VEKOP-20 | Veszélyhelyzeti bértámogatás kutatásfejlesztési munkahelymegőrzés céljából | 28,80 (ebből VEKOP: 18,69) | kiemelt | Meghirdetve 2020. augusztusban |
 
-| 24. | GINOP-5.3.17-21 | KKV kapacitásbővítő támogatás | 21,70 | kiemelt | Meghirdetve 2021. júliusban |
+| 24. | GINOP-5.3.17-21 | KKV kapacitásbővítő támogatás | 21,533 | kiemelt | Meghirdetve 2021. júliusban |
 
 6. A versenyképes munkaerőről szóló 6. prioritás
 
@@ -432,7 +434,7 @@ A GINOP éves fejlesztési kerete
 
 | 7. | GINOP-8.2.3-17 | Specializált seed és pre-seed befektetési tőkealap induló IKT vállalkozások számára új ötletekhez, új piacra lépéshez – kockázati tőke | 6,28 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
-| 8. | GINOP-8.2.4-16 | Infokommunikációs-technológiai vállalati fejlesztéseket támogató kombinált hitel | 18,51 | GINOP-3.1.2- 8.2.4-16 GINOP-3.2.2- 8.2.4-16 GINOP-3.2.4- 8.2.4-16 GINOP-3.2.6- 8.2.4-17 | 14,741 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
+| 8. | GINOP-8.2.4-16 | Infokommunikációs-technológiai vállalati fejlesztéseket támogató kombinált hitel | 18,51 | GINOP-3.1.2- 8.2.4-16 GINOP-3.2.2- 8.2.4-16 GINOP-3.2.4- 8.2.4-16 GINOP-3.2.6- 8.2.4-17 | 14,499 | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. decemberben |
 
 | 8a. | GINOP-8.2.5-17 | Üzleti infokommunikációs, digitalizációs tőkealap | 9,66 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2017. márciusban |
 
@@ -507,5 +509,6 @@ A GINOP éves fejlesztési kerete
 [^23]: Az 1/A. pont q) alpontját az 1844/2021. (XI. 30.) Korm. határozat 1. pontja iktatta be.
 [^24]: Az 1/A. pont r) alpontját az 1110/2022. (III. 4.) Korm. határozat 1. pontja iktatta be.
 [^25]: Az 1/A. pont s) alpontját az 1482/2022. (X. 13.) Korm. határozat 2. pontja iktatta be.
-[^26]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja, az 1474/2020. (VIII. 7.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1628/2020. (X. 1.) Korm. határozat 3. pontja, az 1735/2020. (XI. 2.) Korm. határozat 3. pontja, az 1827/2020. (XI. 19.) Korm. határozat 3. pont a) alpontja, az 1942/2020. (XII. 17.) Korm. határozat 3. pontja, az 1966/2020. (XII. 21.) Korm. határozat 3. pontja, a 2021/2020. (XII. 24.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1067/2021. (II. 19.) Korm. határozat 3–4. pontja, az 1248/2021. (V. 6.) Korm. rendelet 3. pontja, az 1310/2021. (V. 26.) Korm. határozat 3. pontja, az 1397/2021. (VI. 24.) Korm. határozat 3. pontja, az 1445/2021. (VII. 6.) Korm. határozat 3. pontja, az 1479/2021. (VII. 15.) Korm. határozat 3. pontja, az 1500/2021. (VII. 23.) Korm. határozat 3. pontja, az 1585/2021. (VIII. 11.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1844/2021. (XI. 30.) Korm. határozat 4. pontja, az 1110/2022. (III. 4.) Korm. határozat 3–4. pontja, az 1349/2022. (VII. 20.) Korm. határozat 6. pontja, az 1396/2022. (VIII. 11.) Korm. határozat 3. pontja, az 1397/2022. (VIII. 11.) Korm. határozat 3. pontja, az 1417/2022. (VIII. 18.) Korm. határozat 3. pont a) és b) alpontja, az 1482/2022. (X. 13.) Korm. határozat 3. és 4. pontja, az 1549/2022. (XI. 18.) Korm. határozat 2. pontja, az 1581/2022. (XI. 28.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1. mellékletnek az 1844/2021. (XI. 30.) Korm. határozat 4. pont 4.1. alpont 4.1.2. alpontjával elrendelt módosítása nem vezethető át.]
+[^26]: Az 1/A. pont t) alpontját az 1603/2022. (XII. 6.) Korm. határozat 1. pontja iktatta be.
+[^27]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja, az 1474/2020. (VIII. 7.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1628/2020. (X. 1.) Korm. határozat 3. pontja, az 1735/2020. (XI. 2.) Korm. határozat 3. pontja, az 1827/2020. (XI. 19.) Korm. határozat 3. pont a) alpontja, az 1942/2020. (XII. 17.) Korm. határozat 3. pontja, az 1966/2020. (XII. 21.) Korm. határozat 3. pontja, a 2021/2020. (XII. 24.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1067/2021. (II. 19.) Korm. határozat 3–4. pontja, az 1248/2021. (V. 6.) Korm. rendelet 3. pontja, az 1310/2021. (V. 26.) Korm. határozat 3. pontja, az 1397/2021. (VI. 24.) Korm. határozat 3. pontja, az 1445/2021. (VII. 6.) Korm. határozat 3. pontja, az 1479/2021. (VII. 15.) Korm. határozat 3. pontja, az 1500/2021. (VII. 23.) Korm. határozat 3. pontja, az 1585/2021. (VIII. 11.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1844/2021. (XI. 30.) Korm. határozat 4. pontja, az 1110/2022. (III. 4.) Korm. határozat 3–4. pontja, az 1349/2022. (VII. 20.) Korm. határozat 6. pontja, az 1396/2022. (VIII. 11.) Korm. határozat 3. pontja, az 1397/2022. (VIII. 11.) Korm. határozat 3. pontja, az 1417/2022. (VIII. 18.) Korm. határozat 3. pont a) és b) alpontja, az 1482/2022. (X. 13.) Korm. határozat 3. és 4. pontja, az 1549/2022. (XI. 18.) Korm. határozat 2. pontja, az 1581/2022. (XI. 28.) Korm. határozat 3. pontja, az 1603/2022. (XII. 6.) Korm. határozat 2. pontja szerint módosított szöveg. [Az 1. mellékletnek az 1844/2021. (XI. 30.) Korm. határozat 4. pont 4.1. alpont 4.1.2. alpontjával elrendelt módosítása nem vezethető át.]
