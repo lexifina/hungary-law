@@ -14,27 +14,23 @@ e) [^1] a Tatabánya XV/C és XIV/A vízaknák fejlesztésére, valamint a kapcs
 
 2.[^2] egyetért a Beruházás előkészítéséhez és megvalósításához szükséges 72 657 519 844 forint forrás biztosításával;
 
-3. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon a Beruházás komplex előkészítése és megvalósítása érdekében
+3.[^3] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter bevonásával gondoskodjon a Beruházás komplex előkészítése és megvalósítása érdekében
 
 a) 15 325 325 344 forint forrás rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára,
 
-b) 11 587 207 800 forint forrás rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoporton,
+b) 2 735 321 552 forint forrás rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoporton,
 
-c) 11 587 207 800 forint rendelkezésre állásáról a 2023. évi központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezetében,
+c) 17 193 966 033 forint rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcímcsoportján,
 
-d) 5 793 603 900 forint rendelkezésre állásáról a 2024. évi központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezetében;
+d) 6 535 681 015 forint rendelkezésre állásáról a 2024. évi központi költségvetés Térségi fejlesztési feladatok előirányzatán,
 
-Felelős: pénzügyminiszter
+e) 2 503 050 900 forint rendelkezésre állásáról a 2025. évi központi költségvetés Térségi fejlesztési feladatok előirányzatán,
 
-innovációért és technológiáért felelős miniszter
+| Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-Határidő: az a) alpont tekintetében azonnal
+| Határidő: | az a) és a b) alpont tekintetében azonnal a c) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a d) és az e) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
-a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során
-
-a c) és d) alpont tekintetében az adott évi központi költségvetés tervezése során
-
-4.[^3] felhívja a pénzügyminisztert, hogy a technológiai és ipari miniszter kezdeményezésére – az építési és beruházási miniszter bevonásával – gondoskodjon az 1. pont e) alpontja szerinti beruházás komplex előkészítése és megvalósítása érdekében
+4.[^4] felhívja a pénzügyminisztert, hogy a technológiai és ipari miniszter kezdeményezésére – az építési és beruházási miniszter bevonásával – gondoskodjon az 1. pont e) alpontja szerinti beruházás komplex előkészítése és megvalósítása érdekében
 
 a) a 2023. évben 9 454 725 000 forint többletforrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcímcsoport javára,
 
@@ -50,7 +46,7 @@ e) a 2027. évben 2 701 350 000 forint rendelkezésre állásáról a 2027. évi
 
 | Határidő: | az a) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b)–e) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
-5.[^4] felhívja a technológiai és ipari minisztert, hogy az építési és beruházási miniszter bevonásával gondoskodjon a Beruházás támogatási szerződésének módosításáról;
+5.[^5] felhívja a technológiai és ipari minisztert, hogy az építési és beruházási miniszter bevonásával gondoskodjon a Beruházás támogatási szerződésének módosításáról;
 
 | Felelős: | technológiai és ipari miniszter építési és beruházási miniszter |
 
@@ -96,10 +92,11 @@ Felelős: pénzügyminisztérium nemzeti vagyon kezeléséért felelős tárca n
 
 Határidő: az előrehaladás ütemében
 
-14.[^5]
+14.[^6]
 
 [^1]: Az 1. pont e) alpontját az 1495/2022. (X. 19.) Korm. határozat 1. pontja iktatta be.
 [^2]: A 2. pont az 1495/2022. (X. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^3]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be.
-[^4]: Az 5. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be.
-[^5]: A 14. pontot az 1495/2022. (X. 19.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 3. pont az 1608/2022. (XII. 8.) Korm. határozat 6. pontjával megállapított szöveg.
+[^4]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be.
+[^5]: Az 5. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont d) alpontja visszavonta, újonnan az 1495/2022. (X. 19.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 14. pontot az 1495/2022. (X. 19.) Korm. határozat 4. pontja visszavonta.
