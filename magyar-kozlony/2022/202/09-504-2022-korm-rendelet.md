@@ -1,0 +1,66 @@
+# A Kormány 504/2022. (XII. 8.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 202. szám, 2022. december 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Xrb7L856nixjflemeIam638908b2987c1/dokumentumok/d79016643db03efe2a0afe47ac23313c6b99d1b9/letoltes)
+
+---
+
+A Kormány 504/2022. (XII. 8.) Korm. rendelete
+a Magyarország központi költségvetésétől eltérő rendelkezésekkel összefüggő veszélyhelyzeti eljárási
+szabályokról
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel
+az Alaptörvény 51. cikkére és a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és
+81. §-ára, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a központi
+költségvetésről szóló törvénytől eltérő rendelkezéseket meghatározó olyan rendelet előkészítésére és elfogadására,
+mely a központi költségvetés bevételi vagy kiadási főösszegének megváltoztatására vagy a költségvetési hiány
+mértékének növelésére irányul (a továbbiakban: tervezet), az e rendelet szerinti szabályokat kell alkalmazni.
+(2) A tervezet előkészítése során nem kell alkalmazni az államháztartásról szóló 2011. évi CXCV. törvénynek a központi
+költségvetés előkészítésére, szerkezetére, tartalmára vonatkozó rendelkezéseit, de biztosítani kell az átlátható és
+észszerű részletezettségre vonatkozó követelményeket, és azt, hogy a tervezet – e követelményeknek megfelelően –
+illeszkedjen a központi költségvetésről szóló törvény szerkezetéhez.
+(3) A tervezet előkészítése során a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvénynek
+(a továbbiakban: Gst.) a Költségvetési Tanács észrevételezésére és az Alaptörvény 36. cikk (4) és (5) bekezdésének
+(a továbbiakban: államadósság-szabály) való megfelelés vizsgálatára irányadó rendelkezéseit az e rendelet szerinti
+eltérésekkel kell alkalmazni.
+2. §
+A tervezetet az államháztartásért felelős miniszter a Kormány irányítása alá tartozó fejezetet irányító szervek
+vezetőivel egyeztetve készíti elő.
+3. §
+A tervezet – a fejezetrend vagy címrend kiegészítésének kivételével – nem irányulhat a nem a Kormány irányítása alá
+tartozó költségvetési fejezetek bevételi vagy kiadási főösszegének megváltoztatására.
+4. § (1) A Gst. 24. §-ától eltérően a Kormány – részletes számításokkal alátámasztva – véleményalkotás és előzetes
+hozzájárulás megszerzése céljából a tervezetet megküldi a Költségvetési Tanács (a továbbiakban: Tanács) részére.
+A Tanács a Gst. 25. §-ától és 26. §-ától eltérően a Kormány által megküldött tervezetet véleményezi, az e rendeletben
+foglaltak szerint.
+(2) A Tanács
+a) a tervezettel, annak hitelességével, végrehajthatóságával kapcsolatos észrevételt tehet;
+b) vizsgálja a tervezet államadósság-szabálynak való megfelelését, amelynek kapcsán a tervezet kihirdetéséhez
+való előzetes hozzájárulásáról foglal állást.
+(3) A Tanács a (2) bekezdés a) pontja szerinti véleményét és a Gst. 25. §-ától eltérően a (2) bekezdés b) pontja szerinti
+állásfoglalását a tervezet kézhezvételét követő tíz napon belül írásban közli az államháztartásért felelős miniszterrel.
+(4) Ha a Tanács a (2) bekezdés b) pontja szerinti állásfoglalásában azt állapítja meg, hogy a tervezet az államadósság-
+szabály megsértését eredményezné, állásfoglalását részletesen indokolja.
+(5) A Tanács (4) bekezdés szerinti állásfoglalása alapján a Kormány a tervezetet ismételten megtárgyalja, és
+az (1) bekezdés szerinti véleményalkotás céljából az állásfoglalás kézhezvételét követő három napon belül megküldi
+a Tanács részére.
+
+(6) Az (1)–(5) bekezdés szerinti eljárást mindaddig folytatni kell, amíg a Tanács a tervezet kihirdetéséhez szükséges
+– (2) bekezdés b) pontja szerinti – előzetes hozzájárulását meg nem adja.
+(7) A Kormány a Tanács (6) bekezdés szerinti előzetes hozzájárulása alapján vagy a (3) bekezdésben meghatározott
+határidő eredménytelen elteltét követően rendelheti el a tervezet kihirdetését.
+(8) A Költségvetési Tanács olyan állásfoglalása, amelyben azt állapítja meg, hogy a tervezet megfelel az államadósság-
+szabálynak, akkor tekinthető kihirdetéshez szükséges előzetes hozzájárulásának, ha a tervezetnek a Költségvetési
+Tanács által véleményezetthez képest változatlan szöveggel történő kihirdetésére kerül sor.
+(9) Ha a Tanács a (3) bekezdésben meghatározott határidőig a tervezettel kapcsolatos egyet nem értését jelezte
+oly módon, hogy az észrevételek a (2) bekezdés b) pontja szerinti előzetes hozzájárulást nem érintik, a Kormány
+a tervezetet ismételten megtárgyalja, és azt követően rendelheti el kihirdetését. A Kormány a Tanácsot tájékoztatja
+arról, hogy észrevételei alapján milyen módosításokat hajtott végre a tervezetben, illetve indokolja a Tanács
+észrevételeinek esetleges elutasítását.
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
