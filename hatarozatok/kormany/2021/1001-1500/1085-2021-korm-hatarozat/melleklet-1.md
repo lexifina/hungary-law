@@ -2,7 +2,7 @@
 
 ## 1.1. egyetért azzal, hogy a koronavírus-járvány második hullámának gazdasági hatásai ellensúlyozása, valamint a gazdaság újraindításának elősegítése érdekében az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) a Gazdaság-újraindítási Akcióterv keretében MFB Növekedési Garanciaprogramot hirdessen meg;
 
-## 1.2. hozzájárul ahhoz, hogy
+## 1.2.[^1] hozzájárul ahhoz, hogy
 
 ## a) a Magyar Nemzeti Bank által meghirdetett Növekedési Hitelprogram Hajrá keretében nyújtott, az 1. mellékletben meghatározott feltételeknek megfelelő hitelek és pénzkölcsönök,
 
@@ -10,7 +10,9 @@
 
 ## c) a hitelintézetek által nyújtott, a 3. mellékletben meghatározott feltételeknek megfelelő hitelek és pénzkölcsönök, továbbá a hitelintézetek által vállalt, a 3. mellékletben meghatározott feltételeknek megfelelő kezesség vagy garancia
 
-## visszafizetésének biztosítékaként – az 1., 2. és 3. mellékletben meghatározott keretösszegek erejéig – az MFB Zrt. által vállalt kezesség vagy garancia összegének 90%-a erejéig az állam a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB törvény) 5. § (1) bekezdés b) pontja alapján visszavonhatatlan készfizető kezességet vállaljon, azzal, hogy az e pont szerinti állami készfizető kezességvállalásért az MFB Zrt. által fizetendő díj mértéke az MFB Zrt. által vállalt kötelezettség 90%-ára vetített 0,4%/év;
+## d)[^2] a hitelintézetek által nyújtott, a 4. mellékletben meghatározott feltételeknek megfelelő hitelek és pénzkölcsönök, továbbá a hitelintézetek által vállalt, a 4. mellékletben meghatározott feltételeknek megfelelő kezesség vagy garancia
+
+## visszafizetésének biztosítékaként – az 1., 2., 3. és 4. mellékletben meghatározott keretösszegek erejéig – az MFB Zrt. által vállalt kezesség vagy garancia összegének 90%-a erejéig az állam a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB törvény) 5. § (1) bekezdés b) pontja alapján visszavonhatatlan készfizető kezességet vállaljon, azzal, hogy az e pont szerinti állami készfizető kezességvállalásért az MFB Zrt. által fizetendő díj mértéke az MFB Zrt. által vállalt kötelezettség 90%-ára vetített 0,4%/év;
 
 ## 1.3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az MFB Zrt. útján gondoskodjon az 1.2. pont végrehajtásához és a kezességvállalási díj megfizetéséhez szükséges intézkedésekről;
 
@@ -26,12 +28,14 @@
 
 ## Határidő: a Kvtv. felülvizsgálata során
 
-## 2.[^1]
+## 2.[^3]
 
-## 3.[^2]
+## 3.[^4]
 
-1. melléklet az 1085/2021. (III. 1.) Korm. határozathoz[^3]
+1. melléklet az 1085/2021. (III. 1.) Korm. határozathoz[^5]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. mellékletet az 1584/2021. (VIII. 11.) Korm. határozat 1. pontja visszavonta.
+[^1]: Az 1. pont 1.2. alpont záró szövegrésze az 1607/2022. (XII. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.2. alpont d) pontját az 1607/2022. (XII. 8.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. mellékletet az 1584/2021. (VIII. 11.) Korm. határozat 1. pontja visszavonta.
