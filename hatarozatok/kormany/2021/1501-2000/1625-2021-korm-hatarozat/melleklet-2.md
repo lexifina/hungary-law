@@ -1,6 +1,6 @@
 | Alcím- szám | Alcímnév | Támogatási összeg (forint) | Támogatási cél |
 
-| 1. | Albertirsa Város Önkormányzata infrastrukturális fejlesztéseinek támogatása | 220 000 000 | Szennyvízkezeléshez szükséges havária tározó megépítése |
+| 1. | Albertirsa Város Önkormányzata infrastrukturális fejlesztéseinek támogatása | 220 000 000 | Óvodai férőhely bővítése |
 
 | 2. | Balatonakarattya Község Önkormányzata igazgatási és kulturális feladatainak támogatása | 200 000 000 | Közösségi ház építése |
 
