@@ -90,37 +90,31 @@
 
 ## Határidő: azonnal
 
-## 1.10.[^12] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 32 254 575 648 forint biztosításával;
+## 1.10.[^12] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 32 249 797 605 forint biztosításával;
 
-## 1.10a.[^13] felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával az 1.10. alpontban foglalt fejlesztések komplex előkészítése, megvalósítása és az ezekkel összefüggő feladatok elvégzése érdekében gondoskodjon az 1.10. pontban foglalt feladat ellátására szolgáló előirányzat javára
+## 1.10a.[^13] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter bevonásával az 1.10. alpontban foglalt fejlesztések komplex előkészítése, megvalósítása és az ezekkel összefüggő feladatok elvégzése érdekében gondoskodjon az 1.10. alpontban foglalt feladat ellátására szolgáló előirányzat javára
 
 ## a) a 2020. évben 1 021 910 700 forint,
 
 ## b) a 2021. évben 12 148 726 805 forint,
 
-## c) a 2022. évben 10 599 634 500 forint,
+## c) a 2022. évben 6 385 331 070 forint,
 
-## d) a 2023. évben 7 419 744 150 forint,
+## d) a 2023. évben 8 707 707 327 forint,
 
-## e) a 2024. évben 1 059 963 450 forint
+## e) a 2024. évben 3 986 303 703 forint
 
 ## forrás biztosításáról;
 
-## Felelős: pénzügyminiszter
+| Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-## innovációért és technológiáért felelős miniszter
+| Határidő: | az a) és a b) pont tekintetében azonnal a c) pont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében a d) pont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében az e) pont tekintetében az adott évi központi költségvetés tervezése során |
 
-## Határidő: az a) és b) alpont tekintetében azonnal
+## 1.11. [^14]
 
-## a c) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+## 1.11a. [^15]
 
-## a d) és e) alpont tekintetében az adott évi központi költségvetés tervezése során
-
-## 1.11.[^14]
-
-## 1.11a.[^15]
-
-## 1.12.[^16] egyetért azzal, hogy az 1.10. alpont szerinti feladat megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön a DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.) és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel;
+## 1.12. [^16] egyetért azzal, hogy az 1.10. alpont szerinti feladat megvalósítása érdekében az innovációért és technológiáért felelős miniszter támogatási szerződést kössön a DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársasággal (a továbbiakban: DMRV Zrt.) és az NFP Nonprofit Kft.-vel mint Kedvezményezettekkel;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -128,9 +122,9 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.13.[^17]
+## 1.13. [^17]
 
-## 1.14.[^18] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
+## 1.14. [^18] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -155,8 +149,8 @@ Közlekedési infrastruktúra-fejlesztéssel összefüggő feladatok
 [^9]: Az 1. pont 1.8. alpontja az 1633/2021. (IX. 14.) Korm. határozattal megállapított szöveg.
 [^10]: Az 1. pont 1.9. pontja az 1567/2022. (XI. 24.) Korm. határozat 4. pont d) pontja szerint módosított szöveg.
 [^11]: Az 1.9a. alpontot az 1567/2022. (XI. 24.) Korm. határozat 3. pontja iktatta be.
-[^12]: Az 1. pont 1.10. alpontja az 1080/2021. (II. 27.) Korm. határozat 4. pontjával megállapított szöveg.
-[^13]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be, szövege az 1559/2021. (VIII. 5.) Korm. határozat 3. pontjával megállapított szöveg.
+[^12]: Az 1. pont 1.10. alpontja az 1608/2022. (XII. 8.) Korm. határozat 3. pontjával megállapított szöveg.
+[^13]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be, szövege az 1608/2022. (XII. 8.) Korm. határozat 3. pontjával megállapított szöveg.
 [^14]: Az 1. pont 1.11. alpontját az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
 [^15]: Az 1. pont 1.11a. alpontját az 1080/2021. (II. 27.) Korm. határozat 7. pontja iktatta be, az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
 [^16]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
