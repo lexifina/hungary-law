@@ -24,13 +24,11 @@ b) szennyvízelvezető rendszer fejlesztésére (nyomóvezeték és új szennyv�
 
 4. egyetért azzal, hogy a 2. pont szerinti projekt komplex előkészítésének finanszírozása 428 214 000 forint központi költségvetési forrásból valósuljon meg;
 
-5. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával a 2. pont szerinti projekt komplex előkészítése érdekében gondoskodjon 428 214 000 forint forrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára;
+5.[^1] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter kezdeményezésére, a 2. pont szerinti projekt komplex előkészítése érdekében gondoskodjon 428 214 000 forint forrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcímcsoport javára;
 
-Felelős: pénzügyminiszter
+| Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-innovációért és technológiáért felelős miniszter
-
-Határidő: a felmerülés ütemében
+| Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
 6. felhívja az innovációért és technológiáért felelős minisztert, hogy a 2. pont szerinti projekt komplex előkészítése érdekében gondoskodjon támogatási jogviszony létrehozásáról Bük Város Önkormányzatával mint kedvezményezettel;
 
@@ -39,3 +37,5 @@ Felelős: innovációért és technológiáért felelős miniszter
 Határidő: az 5. pont szerinti forrás rendelkezésre állását követően 30 napon belül
 
 7. egyetért azzal, hogy a 2. pont szerinti projekt előkészítésének és megvalósításának indikatív forrásigénye lehetőség szerint a 2021–2027 közötti programozási időszakban a Magyarország számára elérhető európai uniós források felhasználásával kerüljön finanszírozásra, annak európai uniós eljárásrendben történő elfogadását követően.
+
+[^1]: Az 5. pont az 1608/2022. (XII. 8.) Korm. határozat 7. pontjával megállapított szöveg.
