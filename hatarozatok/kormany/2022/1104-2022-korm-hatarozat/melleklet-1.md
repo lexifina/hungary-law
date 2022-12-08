@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – útfelújítás, önkormányzati intézmények eszközbeszerzése és közterület-fejlesztés megvalósítása érdekében – elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím, 1. A helyi önkormányzatok általános feladatainak működési célú támogatása alcím terhére 500 000 000 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 26. Ózd Város Önkormányzata fejlesztési feladatainak támogatása cím javára, az 1. melléklet szerint;
+## 2.[^1] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – útfelújítás, épületenergetikai fejlesztések és közterület-fejlesztés megvalósítása érdekében – elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím, 1. A helyi önkormányzatok általános feladatainak működési célú támogatása alcím terhére 500 000 000 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 26. Ózd Város Önkormányzata fejlesztési feladatainak támogatása cím javára, az 1. melléklet szerint;
 
 ## Felelős: pénzügyminiszter
 
@@ -19,6 +19,8 @@
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az Önkormányzat számára.
 
 1. melléklet az 1104/2022. (III. 2.) Korm. határozathoz
+
+2X01526_0
 
 | IX. Helyi önkormányzatok támogatásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2022. forintban |
 
@@ -67,3 +69,5 @@
 |  |  | egyéb: azonnal |  |  | 500 000 000 |  |  |  |  |  |  |  |  | 500 000 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1609/2022. (XII. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
