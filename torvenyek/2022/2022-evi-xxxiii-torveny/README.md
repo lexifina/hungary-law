@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-33-00-00
 | --- | --- | --- |
 | 2022-10-27 | 2022. évi XXXIII. törvény | 2022-33-00-00.0 (közlönyállapot) |
 | 2022-10-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-33-00-00.1 |
+| 2022-12-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-33-00-00.2 |
