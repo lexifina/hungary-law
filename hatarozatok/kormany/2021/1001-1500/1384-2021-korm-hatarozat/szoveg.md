@@ -10,25 +10,21 @@ b) új ipari és kommunális szennyvíztisztító telep, valamint a fejlesztésh
 
 c) csapadékelvezető rendszer kiépítése;
 
-3.[^1] felhívja a pénzügyminisztert, hogy a Beruházás komplex előkészítése és megvalósítása érdekében a technológiai és ipari miniszter bevonásával gondoskodjon
+3.[^1] felhívja a pénzügyminisztert, hogy a Beruházás komplex előkészítése és megvalósítása érdekében az energiaügyi miniszter bevonásával gondoskodjon
 
-a)[^2] a 2. pont a) és b) alpontjában meghatározott feladatok megvalósítása érdekében a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára – a 2021. évben már biztosított 6 525 261 000 forinttal együtt – 37 410 696 000 forint biztosításáról az alábbi ütemezés szerint:
+a)[^2] a 2. pont a) és b) alpontjában meghatározott feladatok megvalósítása érdekében a Magyarország központi költségvetéséről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára – a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára már biztosított 6 525 261 000 forinttal együtt – 37 410 696 000 forint biztosításáról, a következők szerint:
 
-aa) a 2022. évben 11 982 988 500 forint,
+aa) a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára 5 366 739 896 forint,
 
-ab) a 2023. évben 16 098 045 000 forint,
+ab) a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcímcsoport javára 11 812 230 695 forint,
 
-ac) a 2024. évben 2 804 401 500 forint;
+ac) a Magyarország 2024. évi központi költségvetéséről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 10 368 744 228 forint,
 
-Felelős: pénzügyminiszter
+ad) a Magyarország 2025. évi központi költségvetéséről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 3 337 720 181 forint;
 
-technológiai és ipari miniszter
+| Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-Határidő: az aa) pont tekintetében a felmerülés ütemében
-
-az ab) pont tekintetében a 2023. évi központi költségvetés tervezése során
-
-az ac) pont tekintetében a 2024. évi központi költségvetés tervezése során
+| Határidő: | az aa) pont tekintetében a felmerülés ütemében az ab) pont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében az ac) pont tekintetében a 2024. évi központi költségvetés tervezése során az ad) pont tekintetében a 2025. évi központi költségvetés tervezése során |
 
 b) a 2. pont c) alpontjában meghatározott feladat megvalósítása érdekében 964 482 000 forint biztosításáról a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára;
 
@@ -98,8 +94,8 @@ technológiai és ipari miniszter
 
 Határidő: a 11. pont szerinti tájékoztatást követően azonnal
 
-[^1]: A 3. pont nyitó szövegrésze az 1307/2022. (VI. 22.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^2]: A 3. pont a) alpontja az 1307/2022. (VI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: A 3. pont nyitó szövegrésze az 1608/2022. (XII. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 3. pont a) pontja az 1608/2022. (XII. 8.) Korm. határozat 4. pontjával megállapított szöveg.
 [^3]: A 3a. pontot az 1307/2022. (VI. 22.) Korm. határozat 2. pontja iktatta be.
 [^4]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont c) alpontja visszavonta, újonnan az 1493/2022. (X. 19.) Korm. határozat iktatta be.
 [^5]: A 4a. pontot az 1493/2022. (X. 19.) Korm. határozat iktatta be.
