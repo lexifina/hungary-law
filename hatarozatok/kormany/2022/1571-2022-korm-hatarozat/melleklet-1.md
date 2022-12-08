@@ -2,7 +2,7 @@
 
 ## 2. egyetért azzal, hogy a Kiemelt Sportesemények, valamint a Kiemelt Állami Rendezvények előkészítését és lebonyolítását a Miniszterelnöki Kabinetiroda a Nemzeti Kommunikációs Hivatal (a továbbiakban: NKOH) útján, az NKOH tulajdonosi joggyakorlása alá tartozó, újonnan létrehozandó gazdasági társaság bevonásával lássa el;
 
-## 3. felhívja a gazdaságfejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a 2. pont szerinti, az állam 100%-os tulajdonában álló nonprofit gazdasági társaság – 5 000 000 forint jegyzett tőkével és 191 000 000 forint tőketartalékkal történő – megalapításáról Nemzeti Rendezvényszervezési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NRÜ Zrt.) elnevezéssel;
+## 3.[^1] felhívja a gazdaságfejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a 2. pont szerinti, az állam 100%-os tulajdonában álló nonprofit gazdasági társaság – 5 000 000 forint jegyzett tőkével és 191 000 000 forint tőketartalékkal történő – megalapításáról Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NRÜ Zrt.) elnevezéssel;
 
 | Felelős: | gazdaságfejlesztési miniszter |
 
@@ -35,3 +35,5 @@
 1. melléklet az 1571/2022. (XI. 28.) Korm. határozathoz
 
 2X07920.pdf
+
+[^1]: A 3. pont az 1608/2022. (XII. 8.) Korm. határozat 11. pontja szerint módosított szöveg.
