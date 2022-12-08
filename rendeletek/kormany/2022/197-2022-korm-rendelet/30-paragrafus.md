@@ -1,5 +1,5 @@
 ## 29. § E rendelet vonatkozásában a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 32. §-át nem kell alkalmazni.
 
-30. §[^13]
+30. §[^18]
 
-[^13]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

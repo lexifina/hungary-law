@@ -76,6 +76,6 @@
 
 | 34. | jc) | a sütőipari termék előállításához használt lisztkeverék kivételével a 1901 20, 1902, a c) és d) pont hatálya alá nem tartozó 1905 90 80 VTSZ szám alá tartozó olyan termék, amelynek sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget | 210 forint/kilogramm |
 
-3. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^15]
+3. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^20]
 
-[^15]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
