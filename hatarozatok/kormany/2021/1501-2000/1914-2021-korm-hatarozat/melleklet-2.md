@@ -26,11 +26,13 @@
 
 | 13. | 12. | Tihany Község Önkormányzata fejlesztési feladatainak támogatása | 148 590 000 | folyamatban lévő fejlesztések többletköltségeinek támogatása részben pénzeszköz átadással |
 
-| 14. | 13. | Várpalota Város Önkormányzata intézményfejlesztési feladatainak támogatása | 131 500 000 | önkormányzati intézmények felújítása, karbantartása eszközbeszerzéssel |
+| 14. | 13. | Várpalota Város Önkormányzata intézményfejlesztési feladatainak támogatása | 131 500 000 | önkormányzati intézmények felújítása, karbantartása eszközbeszerzéssel, működési feladatok támogatása |
 
 | 15. | 14. | Vöröstó Község Önkormányzata településüzemeltetési feladatainak támogatása | 11 483 000 | munkagép kiegészítő elemek, további eszközök beszerzése |
 
 2. melléklet az 1914/2021. (XII. 15.) Korm. határozathoz
+
+1X10466_0
 
 | IX. Helyi önkormányzatok támogatásai XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 

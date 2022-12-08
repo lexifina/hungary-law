@@ -52,4 +52,4 @@
 [^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet az 1035/2022. (II. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet az 1035/2022. (II. 1.) Korm. határozat 3. pontja, az 1609/2022. (XII. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
