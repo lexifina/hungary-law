@@ -74,7 +74,7 @@ yc) vagy exporthitel-ügynökség,
 
 yd) vagy nemzetközi szervezet,
 
-## amely a rá irányadó jog szabályai szerint jogosult biztosítási vagy viszontbiztosítási vagy exporthitel-ügynökségi tevékenységet végezni;
+amely a rá irányadó jog szabályai szerint jogosult biztosítási vagy viszontbiztosítási vagy exporthitel-ügynökségi tevékenységet végezni;
 
 z)[^30] export szerződéses értéke: a vevő által vagy nevében az exportált árukért és szolgáltatásokért fizetendő, helyi költséget nem tartalmazó összeg;
 

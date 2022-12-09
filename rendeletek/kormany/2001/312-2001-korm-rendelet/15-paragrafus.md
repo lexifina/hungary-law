@@ -1,5 +1,3 @@
-## 14. §[^129]
-
 ## Kárfizetési türelmi idő
 
 15. § (1)[^130] A kárfizetési türelmi idő annak megállapítására szolgál, hogy a kár a biztosítási esemény következtében valóban bekövetkezett-e, és ha igen, tartósan fennáll-e. A szükséges kárenyhítési intézkedéseket elsődlegesen a kárfizetési türelmi idő alatt kell elvégezni.
@@ -18,7 +16,6 @@ d)[^134] 90 nap az a)–c) pontban nem említett egyéb esetben.
 
 (4)[^136]
 
-[^129]: A 14. §-t a 303/2005. (XII. 25.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
 [^130]: A 15. § (1) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 13. §-ával megállapított, a 235/2021. (V. 6.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
 [^131]: A 15. § (2) bekezdés nyitó szövegrésze a 437/2012. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^132]: A 15. § (2) bekezdés a) pontja a 437/2012. (XII. 29.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

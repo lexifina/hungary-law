@@ -56,6 +56,8 @@ b)[^91] ha a teljesítés helye szerinti ország irányadó jogszabályai értel
 
 c) az a) és b) pontban meghatározottak hiányában a nem a teljesítés helye szerinti országban bejegyzett gazdálkodó szervezet
 
+által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.
+
 [^70]: A 6/A. §-t a 303/2005. (XII. 25.) Korm. rendelet 7. §-a iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^71]: A 7. § a 437/2012. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^72]: A 7. § (1) bekezdése a 26/2019. (II. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

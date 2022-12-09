@@ -10,7 +10,7 @@
 
 (5)[^185] Amennyiben olyan exportirányú külkereskedelmi szerződéshez, ahol a vevő székhelye nem az Európai Unió tagállamában van és a Mehib Zrt. az Európai Unió tagállamában állami támogatással működő exporthitel-biztosító szervezettel együttes biztosítást nyújt – akár mint fővállalkozói biztosító, akár mint az alvállalkozó hitelbiztosítója –, be kell tartania az Európai Unió jogszabályaiban foglalt előírásokat. Az együttes biztosítás nyújtása esetén a biztosító köteles a 3. számú mellékletben foglalt előírásokat betartani.
 
-(6)[^186] A Mehib Zrt. az állam készfizető kezessége mellett vállalt biztosítási tevékenységével kapcsolatban képzett, meg nem szolgált díjak tartalékát csak állampapírban vagy olyan értékpapírban, betétben tarthatja, amelyekben foglalt kötelezettségek teljesítéséért az állam készfizető kezességet vállalt. A tartalék fedezetéül szolgálhat a tartalékszámításnál figyelembe vett ügyletek tekintetében a biztosítottakkal szembeni három hónapnál nem régebbi követelés.
+(6)[^186] A Mehib Zrt. az állam készfizető kezessége mellett vállalt biztosítási tevékenységével kapcsolatban képzett, meg nem szolgált díjak tartalékát csak állampapírban vagy olyan értékpapírban, betétben tarthatja, amelyekben foglalt kötelezettségek teljesítéséért az állam készfizető kezességet vállalt. A tartalék fedezetéül szolgálhat a tartalékszámításnál figyelembe vett ügyletek tekintetében a biztosítottakkal szembeni három hónapnál nem régebbi követelés, valamint a Mehib Zrt.-nek az általa kötött viszontbiztosítási szerződés alapján a külföldi székhelyű biztosítóval vagy az azt biztosító kezessel vagy garantőrrel szemben fennálló követelés könyv szerinti értéke és az ezek által a Mehib Zrt. részére megfizetett összeg abban az esetben is, ha a Mehib Zrt.-t az összeg feletti szabad rendelkezés joga nem illeti meg.
 
 (7)[^187] A 20. § (3) bekezdésében foglalt kötelezettségnek azok a biztosítottak is kötelesek eleget tenni, melyek a Mehib Zrt. jogelődeivel kötöttek biztosítási szerződést.
 
@@ -25,7 +25,7 @@
 [^183]: A 21. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 34. §-ával megállapított szöveg.
 [^184]: A 21. § (4) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 34. §-ával megállapított szöveg.
 [^185]: A 21. § (5) bekezdése a 303/2005. (XII. 25.) Korm. rendelet 17. §-a, a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés b) pontja, a 126/2020. (IV. 16.) Korm. rendelet 36. § 55. pontja szerint módosított szöveg.
-[^186]: A 21. § (6) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 56. pontja szerint módosított szöveg.
+[^186]: A 21. § (6) bekezdése az 502/2022. (XII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^187]: A 21. § (7) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 57. pontja szerint módosított szöveg.
 [^188]: A 21. § (8) bekezdését az 50/2010. (III. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § d) pontja.
 [^189]: A 21. § (9) bekezdését az 50/2010. (III. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be, a 437/2012. (XII. 29.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
