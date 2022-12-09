@@ -1,0 +1,1 @@
+3. § A tervezet – a fejezetrend vagy címrend kiegészítésének kivételével – nem irányulhat a nem a Kormány irányítása alá tartozó költségvetési fejezetek bevételi vagy kiadási főösszegének megváltoztatására.
