@@ -1,0 +1,1 @@
+2. § E rendelet hatálya a stabilitási törvény 10/E. §-a szerinti, kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság és az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaságokra terjed ki.
