@@ -1,19 +1,15 @@
-## 1. A Gazdaság-újraindítási Akcióterv keretében az MFB Növekedési Garanciaprogram meghirdetéséről szóló 1085/2021. (III. 1.) Korm. határozat [a továbbiakban: 1085/2021. (III. 1.) Korm. határozat] 1. pont 1.2. alpontja a következő d) ponttal egészül ki:
+## 1.[^2]
 
-## (A Kormány hozzájárul ahhoz, hogy)
+## 2.[^3]
 
-## „d) a hitelintézetek által nyújtott, a 4. mellékletben meghatározott feltételeknek megfelelő hitelek és pénzkölcsönök, továbbá a hitelintézetek által vállalt, a 4. mellékletben meghatározott feltételeknek megfelelő kezesség vagy garancia”
+## 3.[^4]
 
-## 2. Az 1085/2021. (III. 1.) Korm. határozat 1. pont 1.2. alpont záró szövegrészében a „2. és 3. mellékletben” szövegrész helyébe a „2., 3. és 4. mellékletben” szöveg lép.
+## 4.[^5]
 
-## 3. Az 1085/2021. (III. 1.) Korm. határozat az 1. melléklet szerinti 4. melléklettel egészül ki.
+1. melléklet az 1607/2022. (XII. 8.) Korm. határozathoz[^6]
 
-## 4. Az 1085/2021. (III. 1.) Korm. határozat
-
-## a) 2. melléklete helyébe a 2. melléklet,
-
-## b) 3. melléklete helyébe a 3. melléklet
-
-## lép.
-
-1. melléklet az 1607/2022. (XII. 8.) Korm. határozathoz
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
