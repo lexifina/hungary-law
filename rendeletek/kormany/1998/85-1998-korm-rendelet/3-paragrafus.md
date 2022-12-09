@@ -1,5 +1,3 @@
-## nyújtott hitelek.
-
 ## 3. §[^25] E rendelet alkalmazása szempontjából
 
 a)[^26] bázisköltség: a kamatkiegyenlítési rendszerben az Eximbank által nyújtott hitelek és pénzkölcsönök, továbbá az 1. § (1c) bekezdése szerinti hitelviszonyt megtestesítő értékpapírok költségét a bázisköltség fejezi ki. A bázisköltség az Eximbanknál felmerülő forrásszerzési költség, banküzemi költség (banküzemi spread) és a kockázati felár fedezete;

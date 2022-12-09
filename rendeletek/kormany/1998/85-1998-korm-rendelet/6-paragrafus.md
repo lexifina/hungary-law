@@ -38,7 +38,7 @@ e)[^61] a hazai hozzáadott érték arányának mértéke a magyar származású
 
 f)[^62] a környezetvédelembe, a megújuló energiaszektorba vagy innovatív ágazatba tartozó ügyletek megvalósítása
 
-## következik be.
+következik be.
 
 (9)[^63] Az Eximbank az üzletszabályzatban rögzíti, és legalább évente felülvizsgálja a nemzeti érdek meghatározását alátámasztó szempontokat, az annak igazolásául szolgáló eljárási szabályokat és dokumentációs követelményeket.
 
@@ -51,6 +51,8 @@ a) a belföldi gazdálkodó szervezet,
 b)[^66] ha a teljesítés helye szerinti ország irányadó jogszabályai értelmében a belföldi gazdálkodó szervezet az adott országban nem jogosult a teljesítésre, úgy az adott ország joga szerint alapított gazdasági társaság, vagy
 
 c) az a) és b) pontban meghatározottak hiányában a nem a teljesítés helye szerinti országban bejegyzett gazdálkodó szervezet
+
+által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.
 
 [^47]: A 6. § a 434/2012. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^48]: A 6. § (1) bekezdése a 235/2021. (V. 6.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

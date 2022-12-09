@@ -1,1 +1,3 @@
-## által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.
+6/A. §[^67]
+
+[^67]: A 6/A. §-t a 434/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 7. § b) pontja.

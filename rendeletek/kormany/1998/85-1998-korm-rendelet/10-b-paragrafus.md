@@ -1,3 +1,6 @@
 ## 10/A. §[^78] Ha az e rendelet hatálya alá tartozó ügyletekhez a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet (a továbbiakban: Mehib Korm. rendelet) alapján a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaság biztosítást nyújt az Eximbank részére, és a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaság a Mehib Korm. rendelet 17. § (6) és (7) bekezdésében foglaltak szerint a kárt a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint állapítja meg és fizeti meg, akkor az Eximbank a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaságra átruházott követelés tekintetében is jogosult a kamatkiegyenlítési rendszerben a központi költségvetéssel elszámolni. Ebben az esetben a bázisköltség részét képező kockázati felár mértéke nulla.
 
+10/B. §[^79]
+
 [^78]: A 10/A. §-t újonnan az 53/2019. (III. 14.) Korm. rendelet 1. §-a iktatta be.
+[^79]: A 10/B. §-t a 140/2014. (IV. 30.) Korm. rendelet 1. § (11) bekezdése iktatta be, hatályon kívül helyezte e módosító rendelet 3. §-a.

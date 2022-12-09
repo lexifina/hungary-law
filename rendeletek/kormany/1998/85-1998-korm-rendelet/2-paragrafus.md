@@ -16,6 +16,8 @@ g) a 6. § szerinti, a magyar származású export mértékére vonatkozó felt�
 
 h)[^24] a Kormány egyedi döntésében meghatározott hitelfelvevőknek
 
+nyújtott hitelek.
+
 [^22]: A 2. § a 75/2017. (IV. 3.) Korm. rendelet 2. §-ával megállapított, a 327/2022. (IX. 1.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^23]: A 2. § f) pontja a 235/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^24]: A 2. § h) pontját a 432/2021. (VII. 16.) Korm. rendelet 3. §-a iktatta be.
