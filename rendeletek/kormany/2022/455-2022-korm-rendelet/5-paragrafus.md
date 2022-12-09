@@ -1,0 +1,1 @@
+5. § A légiközlekedési balesetek áldozatai és e személyek hozzátartozói számára történő segítségnyújtásban közreműködő, a 996/2010/EU európai parlamenti és tanácsi rendelet 21. cikk (3) bekezdésében meghatározott referenst a külpolitikáért felelős miniszter javaslatára a miniszter jelöli ki.

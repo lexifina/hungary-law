@@ -1,0 +1,1 @@
+9. § Ez a rendelet a nemzeti polgári repülésről Chicagóban, az 1944. december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvényben kihirdetett ANNEX9. Egyszerűsítések 8. Fejezet F. pont 8.16 alpontjának végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -1,0 +1,1 @@
+10. § Hatályát veszti a polgári légiközlekedési balesetek esetére szóló nemzeti vészhelyzeti tervről, valamint a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervről szóló 326/2015. (XI. 10.) Korm. rendelet.
