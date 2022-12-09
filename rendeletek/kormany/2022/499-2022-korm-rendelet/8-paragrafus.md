@@ -1,0 +1,1 @@
+8. § Az Üzemeltető a Felület üzemszerű karbantartási idejéről előzetesen, valamint az esetleges üzemzavarról – a karbantartás ideje alatt – tájékoztatást ad. Ezekről az eseményekről az Üzemeltető elektronikus eseménynaplót vezet, amely tartalmazza az esemény leírását, időpontját, időtartamát és a megtett intézkedéseket.
