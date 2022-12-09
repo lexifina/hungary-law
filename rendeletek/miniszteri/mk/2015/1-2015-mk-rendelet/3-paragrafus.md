@@ -1,5 +1,3 @@
-## minősül az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak.
-
 ## 3. § A foglalkoztató szervezetnél
 
 a) a gazdasági vezető,
@@ -23,3 +21,5 @@ i) a rendszerbiztonsági felügyelő,
 j) a rendszeradminisztrátor,
 
 k) a rejtjelfelügyelő és a rejtjelező
+
+munkakör az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.
