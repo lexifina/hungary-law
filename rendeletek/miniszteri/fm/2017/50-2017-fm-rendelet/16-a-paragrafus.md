@@ -1,6 +1,8 @@
-## 7/A.[^72] A 2022. december 31-én túlnyúló időszakra jóváhagyott operatív programokra vonatkozó rendelkezések
+## 7/A.[^72] A 2022. december 31-én túlnyúló időszakra jóváhagyott és az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 50. cikke szerinti új operatív programokra vonatkozó rendelkezések
 
 16/A. § (1) Az (EU) 2021/2117 európai parlamenti és tanácsi rendelet 5. cikk (6) bekezdés a) és b) pontja szerinti kérelem esetén a 11. §-ban és a 16. §-ban foglalt előírásoktól eltérően az operatív programot vagy annak módosítását a minisztérium honlapján közzétett formátumban 2022. október 31-ig kell benyújtani.
+
+(1a)[^73] Az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 50. cikke szerinti új operatív program elfogadása iránti kérelem esetén a 11. §-ban és a 16. §-ban foglalt előírásoktól eltérően az operatív programot és annak módosítását a minisztérium honlapján közzétett formátumban 2022. december 15-ig kell benyújtani.
 
 (2) Az operatív programban éves bontásban tervezett beavatkozásokhoz az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 104. cikke szerinti stratégiai tervben (a továbbiakban: KAP stratégiai terv) foglaltaknak megfelelően beavatkozásonként ki kell választani az (EU) 2021/2115 európai parlamenti és tanácsi rendelet
 
@@ -66,8 +68,10 @@ dd) a költségek alátámasztását és indokolását.
 
 (8) A költségek alátámasztásánál egységköltség támogatási forma esetén a beavatkozás költségének kalkulációját az egységköltségekre kell alapozni. Költségelszámolás esetén csatolni kell a 12. § (3)–(7) bekezdésében foglaltaknak megfelelően a szokásos piaci ár alátámasztását és a beavatkozás teljes költségének számítási módját.
 
-(9) Az operatív programot vagy az operatív program módosítását az elfogadására irányuló kérelem mellékleteként elektronikus adathordozón kell benyújtani a minisztériumhoz.
+(9)[^74] Az operatív program elfogadására vagy módosítására irányuló kérelmet és az operatív programot a minisztérium honlapján meghatározott módon, elektronikus úton kell benyújtani a minisztériumhoz.
 
 (10) A kérelem elbírálására az ügyintézési határidő kilencven nap, amely az ügy összes iratának a minisztériumhoz történő megérkezését követő munkanapon kezdődik. A hiányos kérelem kiegészítésére a miniszter hiánypótlási felhívást bocsáthat ki, amelynek időtartamát egy alkalommal meghosszabbíthatja.
 
-[^72]: A 7/A. alcímet (16/A. §-t) a 32/2022. (IX. 27.) AM rendelet 2. §-a iktatta be.
+[^72]: A 7/A. alcímet (16/A. §-t) a 32/2022. (IX. 27.) AM rendelet 2. §-a iktatta be, az alcím címe a 37/2022. (XII. 6.) AM rendelet 8. §-a szerint módosított szöveg.
+[^73]: A 16/A. § (1a) bekezdését a 37/2022. (XII. 6.) AM rendelet 5. § (1) bekezdése iktatta be.
+[^74]: A 16/A. § (9) bekezdése a 37/2022. (XII. 6.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.

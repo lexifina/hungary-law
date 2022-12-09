@@ -1,5 +1,5 @@
 ## 23. Hatályon kívül helyező rendelkezés
 
-39. §[^121]
+39. §[^126]
 
-[^121]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 12.[^81]
+## 12.[^83]
 
 23. §
 
-[^81]: A 12. alcímet (23. §) a 30/2019. (VI. 25.) AM rendelet 14. § c) pontja hatályon kívül helyezte.
+[^83]: A 12. alcímet (23. §) a 30/2019. (VI. 25.) AM rendelet 14. § c) pontja hatályon kívül helyezte.

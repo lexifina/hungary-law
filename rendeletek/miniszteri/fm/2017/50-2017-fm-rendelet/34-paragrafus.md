@@ -1,5 +1,3 @@
-## 33/F. §[^111] E rendeletnek a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet módosításáról szóló 11/2021. (III. 19.) AM rendelettel hatályon kívül helyezett 11. § (10) és (11) bekezdését, valamint 11/A. §-át a 2019. és 2020. évi operatív programok tekintetében folyamatban lévő eljárásokban alkalmazni kell.
-
 ## 21. Az Európai Unió jogának való megfelelés
 
 ## 34. § Ez a rendelet
@@ -16,15 +14,14 @@ e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs-, z
 
 f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozottgyümölcs- és feldolgozottzöldség-ágazatra történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2017. március 13-i 892/2017/EU bizottsági végrehajtási rendelet,
 
-g)[^112] a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet 42–53. cikke,
+g)[^117] a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet 42–53. cikke,
 
-h)[^113] a mezőgazdasági termékpiacok közös szervezésének létrehozásáról szóló 1308/2013/EU rendelet, a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló 1151/2012/EU rendelet, az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról szóló 251/2014/EU rendelet és az Unió legkülső régiói részére egyedi mezőgazdasági intézkedések megállapításáról szóló 228/2013/EU rendelet módosításáról szóló, 2021. december 2-i (EU) 2021/2117 európai parlamenti és tanácsi rendelet 5. cikke és
+h)[^118] a mezőgazdasági termékpiacok közös szervezésének létrehozásáról szóló 1308/2013/EU rendelet, a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló 1151/2012/EU rendelet, az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról szóló 251/2014/EU rendelet és az Unió legkülső régiói részére egyedi mezőgazdasági intézkedések megállapításáról szóló 228/2013/EU rendelet módosításáról szóló, 2021. december 2-i (EU) 2021/2117 európai parlamenti és tanácsi rendelet 5. cikke és
 
-i)[^114] az (EU) 2021/2115 európai parlamenti és tanácsi rendeletnek a tagállamok 2023–2027-es, az említett rendelet szerinti KAP stratégiai tervében kidolgozandó egyes beavatkozástípusokra vonatkozó kiegészítő követelményekkel, valamint a jó mezőgazdasági és környezeti állapotra (GAEC) vonatkozó 1. szabványra irányadó szabályokkal történő kiegészítéséről szóló, 2021. december 7-i (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 11–35. cikke
+i)[^119] az (EU) 2021/2115 európai parlamenti és tanácsi rendeletnek a tagállamok 2023–2027-es, az említett rendelet szerinti KAP stratégiai tervében kidolgozandó egyes beavatkozástípusokra vonatkozó kiegészítő követelményekkel, valamint a jó mezőgazdasági és környezeti állapotra (GAEC) vonatkozó 1. szabványra irányadó szabályokkal történő kiegészítéséről szóló, 2021. december 7-i (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 11–35. cikke
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^111]: A 33/F. §-t a 11/2021. (III. 19.) AM rendelet 6. §-a iktatta be.
-[^112]: A 34. § g) pontját a 30/2019. (VI. 25.) AM rendelet 14. § d) pontja hatályon kívül helyezte. A 34. § g) pontját a 32/2022. (IX. 27.) AM rendelet 4. §-a iktatta be.
-[^113]: A 34. § h) pontját a 32/2022. (IX. 27.) AM rendelet 4. §-a iktatta be.
-[^114]: A 34. § i) pontját a 32/2022. (IX. 27.) AM rendelet 4. §-a iktatta be.
+[^117]: A 34. § g) pontját a 30/2019. (VI. 25.) AM rendelet 14. § d) pontja hatályon kívül helyezte. A 34. § g) pontját a 32/2022. (IX. 27.) AM rendelet 4. §-a iktatta be.
+[^118]: A 34. § h) pontját a 32/2022. (IX. 27.) AM rendelet 4. §-a iktatta be.
+[^119]: A 34. § i) pontját a 32/2022. (IX. 27.) AM rendelet 4. §-a iktatta be.

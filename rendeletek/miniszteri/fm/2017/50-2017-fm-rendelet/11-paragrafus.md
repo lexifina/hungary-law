@@ -16,7 +16,13 @@
 
 (8)[^36] Az 1305/2013/EU rendelet 27. cikke szerinti támogatásban részesülő termelői szervezetek operatív programjai nem tartalmazhatják a Nemzeti Stratégia 4. fejezet 1. alcím D pont 1.1. alpontja szerinti Informatikai rendszer kialakításához, fejlesztéséhez kapcsolódó tevékenységtípusokat, a 2. alcím B pont 2.1. alpontja szerinti Piackutatás, a 3. alcím B pont 3.2. alpontja szerinti Üzleti témájú képzés, szaktanácsadás, tanácsadás, tudományos eredmények átadása, és 3.3. alpontja szerinti Egyéb képzés, szaktanácsadás, tanácsadás, tudományos eredmények átadása, 4. alcím B pont 4.1. alpontja szerinti Minőségtanúsítási rendszer létrehozása, 5. alcím B pont 5.2. alpontja szerinti Értékesítést segítő rendszerek, és 5.3. alpontja szerinti Hatékony működést segítő rendszerek tevékenységtípusokat.
 
-(9)[^37] Az 1308/2013/EU európai parlamenti és tanácsi rendelet 35. cikke szerinti nemzeti támogatás igénybevétele érdekében az operatív program módosítására vonatkozó, a 11. § (1) bekezdése és a 16. § (1) bekezdése szerinti kérelmet, valamint a 16. § (5) bekezdése szerinti bejelentést a minisztérium honlapján közzétett, a nemzeti támogatás tervezett felhasználásáról szóló formanyomtatvány csatolásával kell megküldeni a miniszter részére. A nemzeti támogatás nem fordítható a 14. § (2) bekezdésében meghatározott bérköltségekre, használt eszközök beszerzésére, valamint beruházási típusú tevékenységek bérlet útján történő megvalósítására.
+(9)[^37] Az 1308/2013/EU európai parlamenti és tanácsi rendelet 35. cikke szerinti nemzeti támogatás igénybevétele érdekében az operatív program módosítására vonatkozó, a 11. § (1) bekezdése és a 16. § (1) bekezdése szerinti kérelmet, valamint a 16. § (5) bekezdése szerinti bejelentést a minisztérium honlapján közzétett formanyomtatvány csatolásával kell megküldeni a miniszter részére. A nemzeti támogatás nem fordítható
+
+a) a 14. § (2) bekezdésében meghatározott bérköltségekre,
+
+b) a termelői szervezet működési alap támogatása iránti, a 892/2017/EU bizottsági rendelet 9. cikke szerinti kérelmének benyújtását megelőző hét évben bármikor a termelői szervezet vagy annak tagja tulajdonában lévő használt eszközök beszerzésére, valamint
+
+c) beruházási típusú tevékenységek bérlet útján történő megvalósítására.
 
 (10)[^38]
 
@@ -28,6 +34,6 @@
 [^34]: A 11. § (5) bekezdése a 22/2020. (VI. 19.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^35]: A 11. § (6) bekezdése a 11/2021. (III. 19.) AM rendelet 7. § b) pontja szerint módosított szöveg.
 [^36]: A 11. § (8) bekezdését a 6/2018. (VI. 22.) AM rendelet 7. § (2) bekezdése iktatta be, szövege a 11/2021. (III. 19.) AM rendelet 7. § c) pontja szerint módosított szöveg.
-[^37]: A 11. § (9) bekezdését a 30/2019. (VI. 25.) AM rendelet 5. § (2) bekezdése iktatta be, szövege a 11/2021. (III. 19.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^37]: A 11. § (9) bekezdését a 30/2019. (VI. 25.) AM rendelet 5. § (2) bekezdése iktatta be, szövege a 37/2022. (XII. 6.) AM rendelet 4. §-ával megállapított szöveg.
 [^38]: A 11. § (10) bekezdését a 30/2019. (VI. 25.) AM rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte a 11/2021. (III. 19.) AM rendelet 8. § a) pontja.
 [^39]: A 11. § (11) bekezdését a 30/2019. (VI. 25.) AM rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte a 11/2021. (III. 19.) AM rendelet 8. § a) pontja.
