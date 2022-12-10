@@ -1,3 +1,3 @@
-2. § A Korm. rendelet a következő 5. §-sal egészül ki:
+2. §[^3]
 
-„5. § E rendeletnek a veszélyhelyzet idején a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet szabályainak eltérő alkalmazásáról szóló 444/2022. (XI. 7.) Korm. rendelet módosításáról szóló 498/2022. (XII. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2/A. §-át a folyamatban lévő, le nem zárt elszámolások, valamint a Módr. hatálybalépéséig meg nem fizetett támogatások és kamatai vonatkozásában is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
