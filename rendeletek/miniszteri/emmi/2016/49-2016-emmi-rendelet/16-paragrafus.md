@@ -1,5 +1,3 @@
-## 16. § A gyógyszerészeti államigazgatási szerv a honvédelmi vonatkozású különleges jogrendi időszakra történő felkészülés érdekében
+16. §[^21]
 
-a) folyamatosan figyelemmel kíséri a gyógyszerellátás alakulását, valamint megteszi a szükséges intézkedéseket és javaslatokat az ellátás biztosítására, erről rendszeresen tájékoztatja a minisztert, és
-
-b) szükség esetén javaslatot tesz a miniszter részére a gyógyszerek vénynélküli kiszolgálását megszüntető jogszabály hatályba léptetésére.
+[^21]: A 16. §-t a 41/2022. (XII. 9.) BM rendelet 29. § i) pontja hatályon kívül helyezte.

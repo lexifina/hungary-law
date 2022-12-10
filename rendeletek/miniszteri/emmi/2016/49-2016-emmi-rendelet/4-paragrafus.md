@@ -8,6 +8,6 @@
 
 (5) A minisztérium honvédelmi intézkedési terve tartalmazza a BNT-re vonatkozó részterveket is.
 
-(6)[^3] Azon köznevelési intézmények, amelyek a Köznevelési Információs Rendszerben minden év október 31. napjáig rögzítik a honvédelmi intézkedési tervükkel összefüggésben bekövetkezett változásokat, mentesülnek az 5. § (1) bekezdése szerinti kötelezettség alól.
+(6)[^10]
 
-[^3]: A 4. § (6) bekezdését a 43/2020. (XI. 26.) EMMI rendelet 12. §-a iktatta be.
+[^10]: A 4. § (6) bekezdését a 43/2020. (XI. 26.) EMMI rendelet 12. §-a iktatta be, a 41/2022. (XII. 9.) BM rendelet 29. § c) pontja hatályon kívül helyezte.

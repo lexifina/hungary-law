@@ -3,3 +3,5 @@
 a) a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás koordináló szakmai szerve és
 
 b) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve
+
+részére.

@@ -1,5 +1,3 @@
-## 17. § Az Országos Mentőszolgálat vezetője
+17. §[^22]
 
-a) kidolgozza és minden év január 31-ig aktualizálja a polgári védelmi szervezetek részére a fegyveres összeütközések időszakára vonatkozóan az elsősegélynyújtás oktatáshoz szükséges egységes oktatási anyagot, valamint az elsősegélynyújtó és sérültszállító polgári védelmi szervezetek működésének szakmai követelményeit, és
-
-b) meghatározza a szükség-mentőgépkocsiként alkalmazható gépjárműtípusokat, és a gépjárműigényt megküldi a technikai eszközök igénybevételi célú kijelölésére jogosult területileg illetékes katonai igazgatási központ vezetője részére.
+[^22]: A 17. §-t a 41/2022. (XII. 9.) BM rendelet 29. § i) pontja hatályon kívül helyezte.
