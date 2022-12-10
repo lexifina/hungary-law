@@ -410,6 +410,8 @@ h) a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársasá
 
 i)[^1] a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság vezérigazgatója vagy az általa delegált személy.
 
+j)[^2] a Helyreállítási és Ellenállóképességi Terv (a továbbiakban: HET) végrehajtásáért felelős nemzeti hatóság (a továbbiakban: nemzeti hatóság) vezetője.
+
 (2) Az FKB tagját az FKB tagja által kijelölt vezető jogállású – döntéshozatalra és állásfoglalásra feljogosított – személy helyettesítheti.
 
 (3) A helyettesítés további szabályait az FKB ügyrendje állapítja meg.
@@ -446,15 +448,15 @@ b) az FKB titkárságának vezetője.
 
 a) javaslatot dolgoz ki, állást foglal a Kormány számára a hosszú és középtávú fejlesztési és tervezési feladatokról, az Európai Unió pénzügyi támogatásainak igénybevételéhez szükséges tervekről, a programokról, azok végrehajtásáról, a támogatások felhasználásához szükséges intézményrendszer kialakításáról, valamint az e témakörökben indokolt szabályozásról,
 
-b) összehangolja az európai uniós források – ideértve az európai uniós agrár- és vidékfejlesztési alapokat is – eredményes felhasználásával kapcsolatos feladatokat,
+b)[^3] összehangolja az európai uniós források – ideértve az európai uniós agrár- és vidékfejlesztési alapokat, valamint a Helyreállítási és Ellenállóképességi Eszközt is – eredményes felhasználásával kapcsolatos feladatokat, ennek érdekében tájékoztatást kér az operatív program és a HET intézkedéseinek, indikátorainak, mérföldköveinek előrehaladásáról, a kormányjelentések és az európai uniós jelentések tartalmáról,
 
 c) megtárgyalja és véleményezi a Kormány döntését nem igénylő ágazati fejlesztési tervet, programot, stratégiát a fejlesztéspolitikával való összhang megteremtése és a központi koordináció biztosítása érdekében,
 
 d) megtárgyalja a Kormány döntését igénylő fejlesztéspolitikai tárgyú, illetve azzal összefüggő fejlesztési, tervezési és végrehajtási dokumentumokat, és döntési javaslatot tesz azokra,
 
-e) döntési javaslatot tesz a program, az azzal összefüggő stratégiai dokumentumok – így különösen az éves fejlesztési keret –, valamint az irányító hatóság munkatervének elfogadásáról és módosításáról szóló tervezetre vonatkozóan, ennek keretében véleményezi az éves fejlesztési keret és a munkaterv intézkedéseivel elérni kívánt célokat, azok mérhető indikátorait, a lehetséges kedvezményezettek körét, a támogatás formáját, mértékét, a támogatható tevékenységet, a támogatni tervezett projektek számát és a támogatási értéket, valamint ezek éves ütemezését,
+e)[^4] döntési javaslatot tesz az operatív program, az azzal és a HET-tel összefüggő stratégiai dokumentumok – így különösen az éves fejlesztési keret és a HET intézkedési lista –, valamint az irányító hatóság és a nemzeti hatóság munkatervének elfogadásáról és módosításáról szóló tervezetre vonatkozóan, ennek keretében véleményezi az éves fejlesztési keret, a HET intézkedési lista és a munkaterv intézkedéseivel elérni kívánt célokat, azok mérhető indikátorait, a lehetséges kedvezményezettek körét, a támogatás formáját, mértékét, a támogatható tevékenységet, a támogatni tervezett projektek számát és a támogatási értéket, valamint ezek éves ütemezését,
 
-f) megtárgyalja a kiemelt projektről szóló előterjesztést, és döntési javaslatot tesz arra,
+f)[^5] megtárgyalja a kiemelt projektről szóló előterjesztést, és – figyelemmel az érintett operatív program és a HET tartalmára, célrendszerére, továbbá a rendelkezésre álló források felhasználásának időbeli korlátaira – javaslatot tesz annak Kormány általi megtárgyalására,
 
 g) megtárgyalja a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet vonatkozásában a hárommilliárd forintot, a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet vonatkozásában pedig az ötmilliárd forintot meghaladó támogatási igényű projektjavaslatokat – ideértve azt is, ha a projekt elszámolható összköltsége a költségnövekménnyel együtt a jelzett értékhatárt meghaladja –, és döntési javaslatot tesz azokra,
 
@@ -462,9 +464,9 @@ h) véleményezi a nagyprojektekre vonatkozóan az Európai Bizottság számára
 
 i) véleményezi a fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket, projekteket és a komplex programokat,
 
-j) az FKB elnöke döntése alapján véleményezi a projektkiválasztás elbírálási szempontjait, az a) pontban meghatározottakon kívüli eljárásrendi szabályokról és utasításokról szóló dokumentumokat, és javaslatot tesz azokra,
+j)[^6] az FKB elnöke döntése alapján véleményezi a projektkiválasztás elbírálási szempontjait az operatív programok vonatkozásában, az a) pontban meghatározottakon kívüli eljárásrendi szabályokról és utasításokról szóló dokumentumokat, és javaslatot tesz azokra,
 
-k) nyomon követi az irányító hatóságok munkatervének megvalósulását, azok végrehajtásáról tájékoztatást kérhet,
+k)[^7] nyomon követi az irányító hatóságok és a nemzeti hatóság munkatervének megvalósulását, azok végrehajtásáról tájékoztatást kérhet,
 
 l) részt vesz a fejlesztéspolitikai célok teljesülése érdekében a fejlesztéspolitikát érintő jogszabályok előkészítésében,
 
@@ -473,6 +475,12 @@ m) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót ké
 n) az európai uniós fejlesztési forrásokból megvalósuló fejlesztések összehangolása érdekében adatot kérhet a hazai fejlesztési forrásokból megvalósuló fejlesztésekre vonatkozóan,
 
 o) véleményezi a közreműködő szervezetek kialakításának, kiválasztásának módszerét, feltételrendszerét, nyomon követi tevékenységüket, e szervezetektől rendszeresen beszámolót, tájékoztatót kérhet.
+
+p)[^8] megtárgyalja a HET-re vonatkozó hiteltámogatás felvételéről és a hitelfelvétel indokoltságát alátámasztó dokumentációról szóló előterjesztést,
+
+q)[^9] biztosítja a HET, az egyéb közvetlen és közvetett, továbbá a megosztott irányítású európai uniós források kiegészítő jellegét, összhangját, következetességét a forrástervezés és a végrehajtás során,
+
+r)[^10] figyelemmel kíséri a kettős finanszírozás elkerülését célzó intézkedéseket.
 
 55. (1) Az 54. pontban meghatározott tárgykörbe tartozó előterjesztés és jelentés a Növekedési és Versenyképességi Kabinet napirendjére csak akkor vehető fel, ha azt az FKB előzetesen megtárgyalta, vagy azt az előterjesztő az FKB-val előzetesen egyeztette.
 
@@ -754,7 +762,7 @@ b) a belügyminiszter,
 
 c) az igazságügyi miniszter,
 
-d)[^2] az építési és közlekedési miniszter,
+d)[^11] az építési és közlekedési miniszter,
 
 e) a kultúráért és innovációért felelős miniszter,
 
@@ -882,7 +890,7 @@ való felelősségi körökbe tartozó előterjesztésekre és jelentésekre ter
 
 100. A Gazdasági Kabinet elnöke a pénzügyminiszter.
 
-101.[^3] A Gazdasági Kabinet állandó tagja
+101.[^12] A Gazdasági Kabinet állandó tagja
 
 a) a Miniszterelnöki Kabinetirodát vezető miniszter,
 
@@ -1020,7 +1028,7 @@ való felelősségi körökbe tartozó előterjesztésekre és jelentésekre ter
 
 104. A Növekedési és Versenyképességi Kabinet elnöke a gazdaságfejlesztési miniszter.
 
-105.[^4] A Növekedési és Versenyképességi Kabinet állandó tagja
+105.[^13] A Növekedési és Versenyképességi Kabinet állandó tagja
 
 a) a Miniszterelnöki Kabinetirodát vezető miniszter,
 
@@ -1334,10 +1342,19 @@ VI. ZÁRÓ RENDELKEZÉSEK
 
 136. Ez a határozat a közzétételét követő napon lép hatályba.
 
-137.[^5]
+137.[^14]
 
 [^1]: Az 51. pont (1) bekezdés i) pontját az 1390/2022. (VIII. 11.) Korm. határozat 1. pontja iktatta be.
-[^2]: A 96. pont d) alpontja az 1587/2022. (XI. 30.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^3]: A 101. pont az 1587/2022. (XI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: A 105. pont az 1587/2022. (XI. 30.) Korm. határozat 3. pontjával megállapított szöveg..
-[^5]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 51. pont (1) bekezdés j) pontját az 1610/2022. (XII. 9.) Korm. határozat 1. pontja iktatta be.
+[^3]: Az 54. pont (2) bekezdés b) pontja az 1610/2022. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 54. pont (2) bekezdés e) pontja az 1610/2022. (XII. 9.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: Az 54. pont (2) bekezdés f) pontja az 1610/2022. (XII. 9.) Korm. határozat 3. pontjával megállapított szöveg.
+[^6]: Az 54. pont (2) bekezdés j) pontja az 1610/2022. (XII. 9.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^7]: Az 54. pont (2) bekezdés k) pontja az 1610/2022. (XII. 9.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^8]: Az 54. pont (2) bekezdés p) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
+[^9]: Az 54. pont (2) bekezdés q) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
+[^10]: Az 54. pont (2) bekezdés r) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
+[^11]: A 96. pont d) alpontja az 1587/2022. (XI. 30.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^12]: A 101. pont az 1587/2022. (XI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
+[^13]: A 105. pont az 1587/2022. (XI. 30.) Korm. határozat 3. pontjával megállapított szöveg..
+[^14]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
