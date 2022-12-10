@@ -1,5 +1,3 @@
-## Az egészségügyi szolgáltató válsághelyzeti terv részterveivel összefüggő kötelezettségei egészségügyi szolgáltatók szerint
-
 | A | B | C | D | E |
 
 | 1. | Elkészítendő terv | Kórház, mátrixkórház, szakkórház, országos gyógyintézet, országos társ-gyógyintézet, klinika, krónikus kórház | Rendelőintézeti szakrendelő, nappali kórház | Ápolási intézet |
@@ -32,9 +30,9 @@
 
 | 15. | A Nemzetközi Egészségügyi Rendszabályok végrehajtása kapcsán felmerülő feladatellátás terve | X | X | – |
 
-2. melléklet a 43/2014. (VIII. 19.) EMMI rendelethez[^26]
+2. melléklet a 43/2014. (VIII. 19.) EMMI rendelethez[^29]
 
-## A résztervekre vonatkozó részletes előírások
+A résztervekre vonatkozó részletes előírások
 
 1. Riasztási, berendelési terv
 
@@ -62,7 +60,7 @@
 
 1.3.7. az értesítendő vezetői állomány – elérhetőségük hiányában az őket helyettesítő személyek – név- és címlistáját,
 
-1.3.8. kijelölt egészségügyi szolgáltató által a szükségkórházakba, az orvosi segélyhelyekbe (a továbbiakban: OSH), illetve egyéb feladat ellátására kijelölt dolgozók név- és címjegyzékét,
+1.3.8.[^30] kijelölt egészségügyi szolgáltató által a telepített gyógyintézménybe, az orvosi segélyhelyekbe (a továbbiakban: OSH), illetve egyéb feladat ellátására kijelölt dolgozók név- és címjegyzékét,
 
 1.3.9. a riasztás végrehajtásának, illetve a berendeltek beérkezésének normaidejét, valamint
 
@@ -76,21 +74,21 @@
 
 2.2. A kitelepítési tervet telephelyenként kell elkészíteni.
 
-2.3. A kitelepülő intézményt befogadó, az illetékes fővárosi, megyei védelmi bizottság által kijelölt objektumok földrajzi elhelyezkedésének, valamint az intézményt potenciálisan veszélyeztethető természeti tényezők, havária veszélyes objektumok és az uralkodó meteorológiai viszonyok figyelembevételével a résztervet több változatban kell elkészíteni.
+2.3.[^31] A kitelepülő intézményt befogadó, a területi védelmi bizottság által kijelölt ingatlanok földrajzi elhelyezkedésének, valamint az intézményt potenciálisan veszélyeztethető természeti tényezők, havária veszélyes ingatlanok és az uralkodó meteorológiai viszonyok figyelembevételével a résztervet több változatban kell elkészíteni.
 
-2.4. A Kitelepítési tervet előzetesen egyeztetni kell a helyi és területi (megyei fővárosi) védelmi igazgatás szerveivel. A jóváhagyott tervet a betegszállítási feladatok tervezhetősége érdekében meg kell küldeni az Országos Mentőszolgálat (a továbbiakban: OMSZ) megyei szervezete részére.
+2.4.[^32] A Kitelepítési tervet előzetesen egyeztetni kell a helyi és a területi védelmi bizottsággal. A jóváhagyott tervet a betegszállítási feladatok tervezhetősége érdekében meg kell küldeni az Országos Mentőszolgálat (a továbbiakban: OMSZ) megyei szervezete részére.
 
 2.5. A Kitelepítési terv tartalmazza:
 
 2.5.1. az elrendeléstől számítva az áttelepülés megkezdésének határidejét, a teljes áttelepülés, illetve az új működési helyen a működő képesség elérésének időnormáját,
 
-2.5.2. a befogadó objektumok pontos címét, megnevezését, elérési útvonalát, lehetőség szerint alternatív útvonalakkal (számolva az utak zsúfoltságával vagy rombolódásával),
+2.5.2.[^33] a befogadó ingatlanok pontos címét, megnevezését, elérési útvonalát, lehetőség szerint alternatív útvonalakkal (számolva az utak zsúfoltságával vagy rombolódásával),
 
 2.5.3. a befogadó hely egészségügyi intézményeivel való együttműködést,
 
 2.5.4. a nem feltétlenül kórházi kezelésre és átszállításra szoruló azon betegek elbocsátására vonatkozó rendet, akiknek a hazatérése lehetséges,
 
-2.5.5. az életveszélyes esetek kivételével a betegfelvételi zárlat elrendelését, annak rendszerét, és erről a mentőszolgálat és a területileg illetékes, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) értesítésének rendszerét,
+2.5.5.[^34] az életveszélyes esetek kivételével a betegfelvételi zárlat elrendelését, annak rendszerét, és erről a mentőszolgálat és a népegészségügyi feladatkörében eljáró megyei kormányhivatal értesítésének rendszerét,
 
 2.5.6. a betegek és a személyzet átszállításának sorrendjét és eszközeit,
 
@@ -108,7 +106,7 @@
 
 2.5.13. az elzárkózás időtartama alatti működtetés feltételeinek biztosítását meghatározó tervet, a felszerelések, berendezések rakodásának, átszállításának sorrendjét, valamint
 
-2.5.14. a felszerelések, berendezések telepítésének sorrendjét, a befogadó objektumok helységenkénti berendezési tervét.
+2.5.14.[^35] a felszerelések, berendezések telepítésének sorrendjét, a befogadó ingatlanok helységenkénti berendezési tervét.
 
 2.6. Kapcsolódó tervek: Riasztási berendelési terv, Szállítási terv, Élelmezési terv.
 
@@ -118,15 +116,15 @@
 
 3.2. A Kimenekítési terv két változatban készül: főmunkaidőre és azon túli időszakra, beleértve az ünnep- és munkaszüneti napokat is.
 
-3.3. A Kimenekítési tervet előzetesen egyeztetni kell a helyi és területi (megyei fővárosi) védelmi igazgatás szerveivel. A jóváhagyott tervet a betegszállítási feladatok tervezhetősége érdekében meg kell küldeni az OMSZ megyei szervezete részére.
+3.3.[^36] A Kimenekítési tervet előzetesen egyeztetni kell a helyi és a területi védelmi bizottsággal. A jóváhagyott tervet a betegszállítási feladatok tervezhetősége érdekében meg kell küldeni az OMSZ megyei szervezete részére.
 
 3.4. A Kimenekítési terv mindkét változata tartalmazza:
 
-3.4.1. az ideiglenes befogadásra alkalmas, az illetékes fővárosi, megyei védelmi bizottság által kijelölt objektumok címét, megnevezését, felelős vezetőinek elérhetőségét,
+3.4.1.[^37] az ideiglenes befogadásra alkalmas, a területi védelmi bizottság által kijelölt ingatlanok címét, megnevezését, felelős vezetőinek, tulajdonosainak, tulajdonosi joggyakorlójának elérhetőségét,
 
 3.4.2. az OMSZ vezetésével való azonnali kapcsolatfelvételt és a szállítási kapacitások igénylésének rendjét, módját,
 
-3.4.3. az életveszélyes esetek kivételével a betegfelvételi zárlat elrendelésének és erről az illetékes megyei kormányhivatal értesítésének rendjét, módját,
+3.4.3.[^38] az életveszélyes esetek kivételével a betegfelvételi zárlat elrendelésének és erről a megyei kormányhivatal értesítésének rendjét, módját,
 
 3.4.4. a betegek és a személyzet kimenekítésének sorrendjét,
 
@@ -202,7 +200,7 @@
 
 5.1.4. az OSH-telepítéshez szükséges felszerelések, anyagok jegyzékét, azok tárolásának helyét,
 
-5.1.5. a telepítésre alkalmas objektumok megnevezését, címét, az elérési útvonalakat (alternatívákkal),
+5.1.5.[^39] a telepítésre alkalmas ingatlanok megnevezését, címét, az elérési útvonalakat (alternatívákkal),
 
 5.1.6. az OSH-k telepítési berendezési vázlatát,
 
@@ -226,9 +224,9 @@
 
 6.1.1. a telepítendő szükségkórház típusát,
 
-6.1.2. a telepítés helyét, az illetékes fővárosi, megyei védelmi bizottság által kijelölt befogadó objektum megnevezését, címét, tulajdonosa, üzemeltetője megnevezését, címadatait,
+6.1.2.[^40] a telepítés helyét, a területi védelmi bizottság által kijelölt ingatlan megnevezését, címét, tulajdonosa, üzemeltetője megnevezését, címadatait,
 
-6.1.3. az objektumot kiutaló határozatot,
+6.1.3.[^41] az ingatlant kiutaló határozatot,
 
 6.1.4. a kórházként való működéshez szükséges legfontosabb műszaki feladatok meghatározását, a munkálatokat végző (intézményi vagy külső) szervezet megnevezését,
 
@@ -302,7 +300,7 @@
 
 7.4.1. a szakszemélyzet elosztása során a hadkötelesek közül csak a meghagyási jegyzékben szereplő és a hadkiegészítő parancsnokság által visszaigazolt személyekkel lehet számolni,
 
-7.4.2. a honvédelmi és rendvédelmi szervek sérültjei ellátását és a területileg illetékes hadkiegészítő parancsnoksággal és rendőrkapitánysággal való kapcsolattartást is tervezni kell.
+7.4.2.[^42] a honvédelmi és rendvédelmi szervek sérültjei ellátását és a hadkiegészítő parancsnoksággal és rendőrkapitánysággal való kapcsolattartást is tervezni kell.
 
 7.5. Kapcsolódó tervek: Egészségügyi anyagbiztosítási terv, Élelmezési terv, Szállítási terv.
 
@@ -356,11 +354,11 @@
 
 10.1.3. a riasztással kapcsolatosan a kiértesítést végrehajtó járművek és gépkocsivezetők jegyzékét, illetve a felkeresendő címeket,
 
-10.1.4. szükségkórház telepítésére kijelölt kórháznál a szükségkórházankénti járműszükségletet,
+10.1.4.[^43] a kórház telepítésére kijelölt fekvőbeteg-ellátó intézmény telepített gyógyintézetenkénti járműszükségletét,
 
 10.1.5. OSH-telepítésére kijelölt kórháznál az OSH felszerelésének kiszállításához szükséges járműigényt,
 
-10.1.6. kitelepítéshez, illetve a szükségkórházi egységeknek a telepítésre kijelölt objektumba való szállításához a helyi védelmi igazgatás által kirendelésre kerülő lebiztosított járművek listáját és a lebiztosítással kapcsolatos dokumentumokat,
+10.1.6.[^44] kitelepítéshez, illetve a kórházi egységeknek a telepítésre kijelölt ingatlanba való szállításához a helyi védelmi bizottság által kirendelésre kerülő lebiztosított járművek listáját és a lebiztosítással kapcsolatos dokumentumokat,
 
 10.1.7. kimenekítéshez az intézmény területén található összes jármű (beleértve a dolgozók és a betegek járműveit is) igénybevételi rendjét,
 
@@ -448,12 +446,29 @@
 
 14.2.4. a veszélyes hulladék tárolását,
 
-14.2.5. a telepítés helyét, az illetékes megyei védelmi bizottság által kijelölt befogadó objektum megnevezését, címét, tulajdonosát, üzemeltetőjének megnevezését, címadatait,
+14.2.5.[^45] a telepítés helyét, a területi védelmi bizottság által kijelölt befogadó ingatlan megnevezését, címét, tulajdonosát, üzemeltetőjének megnevezését, címadatait,
 
-14.2.6. az objektumot kiutaló határozatot, valamint
+14.2.6.[^46] az ingatlant kiutaló határozatot, valamint
 
 14.2.7. az egészségügyi zárlat működtetésére vonatkozó terveket.
 
 14.3. Kapcsolódó tervek: Riasztási, berendelési Terv, Szállítási terv, Többletfeladatok ellátásának terve.
 
-[^26]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a, az 54/2016. (XII. 30.) EMMI rendelet 97. §-a, a 43/2020. (XI. 26.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^29]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a, az 54/2016. (XII. 30.) EMMI rendelet 97. §-a, a 43/2020. (XI. 26.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^30]: A 2. melléklet 1.3.8. pontja a 41/2022. (XII. 9.) BM rendelet 21. § c) pontja szerint módosított szöveg.
+[^31]: A 2. melléklet 2.3. pontja a 41/2022. (XII. 9.) BM rendelet 21. § d)-e) pontja szerint módosított szöveg.
+[^32]: A 2. melléklet 2.4. pontja a 41/2022. (XII. 9.) BM rendelet 21. § f) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet 2.5.2. pontja a 41/2022. (XII. 9.) BM rendelet 21. § g) pontja szerint módosított szöveg.
+[^34]: A 2. melléklet 2.5.5. pontja a 41/2022. (XII. 9.) BM rendelet 21. § h) pontja szerint módosított szöveg.
+[^35]: A 2. melléklet 2.5.14. pontja a 41/2022. (XII. 9.) BM rendelet 21. § g) pontja szerint módosított szöveg.
+[^36]: A 2. melléklet 3.3. pontja a 41/2022. (XII. 9.) BM rendelet 21. § f) pontja szerint módosított szöveg.
+[^37]: A 2. melléklet 3.4. pont 3.4.1. alpontja a 41/2022. (XII. 9.) BM rendelet 20. §-ával megállapított szöveg.
+[^38]: A 2. melléklet 3.4.3. pontja a 41/2022. (XII. 9.) BM rendelet 21. § i) pontja szerint módosított szöveg.
+[^39]: A 2. melléklet 5.1.5. pontja a 41/2022. (XII. 9.) BM rendelet 21. § g) pontja szerint módosított szöveg.
+[^40]: A 2. melléklet 6.1.2. pontja a 41/2022. (XII. 9.) BM rendelet 21. § d) és j) pontja szerint módosított szöveg.
+[^41]: A 2. melléklet 6.1.3. pontja a 41/2022. (XII. 9.) BM rendelet 21. § k) pontja szerint módosított szöveg.
+[^42]: A 2. melléklet 7.4.2. pontja a 41/2022. (XII. 9.) BM rendelet 22. §-a szerint módosított szöveg.
+[^43]: A 2. melléklet 10.1. pont 10.1.4. alpontja a 41/2022. (XII. 9.) BM rendelet 20. §-ával megállapított szöveg.
+[^44]: A 2. melléklet 10.1.6. pontja a 41/2022. (XII. 9.) BM rendelet 21. § l) pontja szerint módosított szöveg.
+[^45]: A 2. melléklet 14.2.5. pontja a 41/2022. (XII. 9.) BM rendelet 21. § m) pontja szerint módosított szöveg.
+[^46]: A 2. melléklet 14.2.6. pontja a 41/2022. (XII. 9.) BM rendelet 21. § k) pontja szerint módosított szöveg.

@@ -1,14 +1,13 @@
-## 8–9. §[^12]
-
 ## 10. § Az R.
 
-a)[^13]
+a)[^16]
 
-b)[^14]
+b)[^17]
 
-c)[^15]
+c)[^18]
 
-[^12]: A 8–9. §-t az 54/2014. (XII. 29.) EMMI rendelet 14. §-a hatályon kívül helyezte.
-[^13]: A 10. § a) pontját a 14. § hatályon kívül helyezte.
-[^14]: A 10. § b) pontját az 54/2014. (XII. 29.) EMMI rendelet 14. §-a hatályon kívül helyezte.
-[^15]: A 10. § c) pontját a 14. § hatályon kívül helyezte.
+lép hatályba.
+
+[^16]: A 10. § a) pontját a 14. § hatályon kívül helyezte.
+[^17]: A 10. § b) pontját az 54/2014. (XII. 29.) EMMI rendelet 14. §-a hatályon kívül helyezte.
+[^18]: A 10. § c) pontját a 14. § hatályon kívül helyezte.
