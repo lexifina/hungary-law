@@ -14,7 +14,7 @@ f) a szállítható szivattyúk készenlétbe helyezéséről és
 
 g) a medrekben a vízcsere végrehajtásáról
 
-## annak érdekében, hogy a vízátadási pontokon és az engedélyezett vízhasználatoknál kielégítő mennyiségű víz álljon rendelkezésre.
+annak érdekében, hogy a vízátadási pontokon és az engedélyezett vízhasználatoknál kielégítő mennyiségű víz álljon rendelkezésre.
 
 (2) A vízhiány elleni védekezés II. fokú készültsége során – az I. fokú készültségre előírtakon túl – a VIZIG szükség szerint gondoskodik
 

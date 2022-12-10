@@ -16,7 +16,7 @@ f) a vízhiányos állapot megelőzésére és elhárítására vízhiány ellen
 
 g) a szomszédos államokkal kötött egyezmények alapján együttműködési és védelmi
 
-## tervet (a továbbiakban együtt: védekezési terv) készítenek.
+tervet (a továbbiakban együtt: védekezési terv) készítenek.
 
 (2) A védekezési terveknek tartalmazniuk kell mindazokat a dokumentumokat, adatokat, nyilvántartásokat és egyéb terveket, amelyek az eredményes védekezéshez szükségesek.
 

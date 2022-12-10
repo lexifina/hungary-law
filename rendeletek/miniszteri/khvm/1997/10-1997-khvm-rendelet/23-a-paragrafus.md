@@ -10,7 +10,7 @@ a) tározók, mesterséges tavak esetében az üzemeltetési szabályzat,
 
 b) települések esetében a települési vízkárelhárítási terv
 
-## alapján is elrendelhető.
+alapján is elrendelhető.
 
 (3) A védekezésre kötelezett szervezet védelemvezetője a helyi vízkárelhárítási készültségi fokozatot – ide nem értve a rendkívüli készültséget – saját szervezetére vonatkozóan rendeli el, módosítja, szünteti meg. A védekezésre kötelezett szervezet a helyi vízkárelhárítási készültségi fokozat elrendeléséről, változásáról, a megtett intézkedésekről haladéktalanul tájékoztatja a működési területével érintett VIZIG ügyeletét és a hivatásos katasztrófavédelmi szervet. E szervek a helyi vízkárelhárítási készültségi fokozat elrendelése és a védekezés során egymást kölcsönösen tájékoztatják minden lényeges körülményről.
 
