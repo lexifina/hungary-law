@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 8. § (2) bekezdés alapján 2022. december 10-én lép hatályba.
+2. § Az R1. 5. számú melléklete helyébe az 1. melléklet lép.
