@@ -1,1 +1,3 @@
-8. § Az 50/2017. (X. 10.) FM rendelet 7/A. alcím címében a „jóváhagyott” szövegrész helyébe a „jóváhagyott és az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 50. cikke szerinti új” szöveg lép.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
