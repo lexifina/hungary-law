@@ -18,15 +18,15 @@ h) az igénytámasztó szerv kérelmére a megkötött együttműködési megál
 
 i) a 8. § (1) bekezdése szerinti ideiglenes hasznosítás céljából.
 
-(2)[^16] Az (1) bekezdés a)–d) és g) pontja esetében a tartalékelemek kiadását a miniszter írásbeli vagy – sürgős esetben – szóbeli utasítására az ÁEEK főigazgatója rendeli el.
+(2)[^19] Az (1) bekezdés a)–d) és g) pontja esetében a tartalékelemek kiadását a miniszter írásbeli vagy – sürgős esetben – szóbeli utasítására az OKFŐ főigazgatója rendeli el.
 
 (3) A (2) bekezdés szerinti szóbeli utasítást legkésőbb az annak kiadását követő első munkanapon írásban meg kell erősíteni.
 
-(4)[^17] Az (1) bekezdés e) pontja szerinti esetben a tartalékelem kiadásához nem kell engedély, ha a gyakorlat, felkészítő esemény irányítója a miniszter, vagy az esemény az ÁEEK saját felkészülését szolgálja.
+(4)[^20] Az (1) bekezdés e) pontja szerinti esetben a tartalékelem kiadásához nem kell engedély, ha a gyakorlat, felkészítő esemény irányítója a miniszter, vagy az esemény az OKFŐ saját felkészülését szolgálja.
 
 (5) Az (1) bekezdés e) pontja szerinti esetben a (2) és (3) bekezdés alapján szükséges eljárni, ha a (4) bekezdés nem alkalmazható.
 
 (6) Az (1) bekezdés f) pontja szerinti esetben a tartalékelem kiadását nem szükséges engedélyeztetni, de a tartalékelem kiadásáról és visszavételezéséről minden esetben tájékoztatni szükséges a miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározott szervezeti egységének vezetőjét.
 
-[^16]: A 6. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § e) pontja szerint módosított szöveg.
-[^17]: A 6. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § c) pontja szerint módosított szöveg.
+[^19]: A 6. § (2) bekezdése a 41/2022. (XII. 9.) BM rendelet 28. § d) pontja szerint módosított szöveg.
+[^20]: A 6. § (4) bekezdése a 41/2022. (XII. 9.) BM rendelet 28. § d) pontja szerint módosított szöveg.
