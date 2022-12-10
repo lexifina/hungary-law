@@ -1,40 +1,66 @@
-## – Műanyag flakon
+## Bélelt redős, talpas tasak (nyomott és nyomatlan)
 
-## – Műanyag csavarmenetes önzáró kupak
+## Cseppentőüveg 2 részes műanyag cseppentőfeltéttel, nem steril
 
-## – Műanyag gyógyszeradagoló kanál
+## Felirat nélküli KOMBI és műanyag pordoboz
 
-## – Bélelt redős, talpas tasak (nyomott és nyomatlan)
+## Egyszer használatos kúpkiöntő forma
 
-## – Felirat nélküli KOMBI és műanyag pordoboz
+## Egyszer használatos, steril fecskendő és tartozékai (zárókónusz, feltétek)
 
-## – Papírdoboz, pergamenzacskóval (nyomott és nyomatlan)
+## Faltkarton (nyomott és nyomatlan)
 
-## – Papír vagy műanyag hintőporos szóródoboz
+## Fém- és műanyag tubus
 
-## – Faltkarton (nyomott és nyomatlan)
+## Folyadéküveg
 
-## – Fém- és műanyag tubus
+## Gyógyszeres rúd-tartó műanyagtok
 
-## – Műanyag tégely
+## Injekciós ampulla
 
-## – Ékperemes drazsésüveg pattintós tetővel
+## Mélyhúzott, kemény PVC lemez kasírozott alufólia kúpok és tabletták csomagolásához
 
-## – Műanyag fiola dugóval, mozgáscsillapítóval
+## Műanyag csavarmenetes önzáró kupak
 
-## – Műanyag steril cseppentőflakon 5 részes cseppentőfeltéttel
+## Műanyag flakon
 
-## – Cseppentő üveg 2 részes műanyag cseppentőfeltéttel, nem steril
+## Műanyag fiola dugóval, mozgáscsillapítóval
 
-## – Sugársterilezett műanyag cseppentőfeltét
+## Műanyag flakon spray vagy orrspray feltéttel
 
-## – Szemcseppentő (hagyományos)
+## Műanyag gyógyszeradagoló kanál
 
-## – Szemkenőpálca
+## Műanyag mérőkupak, mérőkanál, mérőpohár, mérőkehely, adagolókanál
 
-## – Injekciós ampulla
+## Műanyag steril cseppentőflakon 3 részes cseppentőfeltéttel
 
-## – Mélyhúzott, kemény PVC lemez kasírozott alufólia kúpok és tabletták csomagolásához
+## Műanyag tégely
+
+## Papírdoboz pergamenzacskóval (nyomott és nyomatlan)
+
+## Papír kapszula, kemény kapszula, ostyakapszula
+
+## Papír vagy műanyag hintőporos szóródoboz
+
+## Pipettás vagy cseppentős kupak
+
+## Rektális oldat beadására alkalmas feltéttel ellátott műanyagtartály
+
+## Rektális alkalmazásra használható tubusvég és kupak
+
+## Steril fecskendőszűrő és steril fecskendő
+
+## Sugársterilezett műanyag cseppentőfeltét
+
+## Szemcseppentő (hagyományos)
+
+## Szemkenő pálca
+
+## A szemcseppek készítéskor felszámítható szűrő és fecskendő mennyiségét az alábbi számítással kell meghatározni:
+
+## Felszámolható szűrő és fecskendő mennyisége: 1/n
+
+## n = laborált szemcsepp adagok száma (n <= 10)
 
 6. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez
 
