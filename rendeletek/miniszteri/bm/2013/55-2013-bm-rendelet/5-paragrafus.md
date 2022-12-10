@@ -1,5 +1,3 @@
-5. § (1)[^6] A tűzvédelmi szakértő vagy a tűzvédelmi tervező az építményszerkezet tűzvédelmi követelményeknek való megfelelőségéről kiadott nyilatkozatának aláírt elektronikus változatát a katasztrófavédelem központi szervének az e célra megadott elektronikus levélcímére megküldi.
+5. §[^6] A tűzvédelmi szakértő vagy a tűzvédelmi tervező az építményszerkezet tűzvédelmi követelményeknek való megfelelőségéről kiadott nyilatkozatának aláírt elektronikus változatát a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 79/B. §-a szerinti Integrált Hatósági Rendszer használatával küldi meg a katasztrófavédelem központi szervének.
 
-(2) A katasztrófavédelem központi szerve az (1) bekezdés szerinti elektronikus levélcímét honlapján közzéteszi.
-
-[^6]: Az 5. § (1) bekezdése a 9/2014. (II. 7.) BM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^6]: Az 5. § a 41/2022. (XII. 9.) BM rendelet 17. §-ával megállapított szöveg.
