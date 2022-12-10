@@ -1,7 +1,3 @@
-1. melléklet a 18/2022. (XII. 8.) MK rendelethez
+1. melléklet a 18/2022. (XII. 8.) MK rendelethez[^3]
 
-Az R. 1. melléklet B) része a következő 3. ponttal egészül ki:
-
-„3. A Védelmi Igazgatási Hivatalnál
-
-3.1. valamennyi álláshely.”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-1. § A miniszterelnök kabinetfőnöke feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 1/2015. (XII. 7.) MK rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
