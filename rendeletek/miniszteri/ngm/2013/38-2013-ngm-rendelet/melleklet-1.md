@@ -1,8 +1,6 @@
-## 4. §[^1]
-
 1. melléklet a 38/2013. (IX. 19.) NGM rendelethez[^2]
 
-## Az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolásának könyvelési tételei
+Az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolásának könyvelési tételei
 
 I. FEJEZET
 
@@ -1358,6 +1356,8 @@ PÉNZESZKÖZÖKKEL, FINANSZÍROZÁSSAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## H) Deviza átutalás elszámolása devizaszámláról forintszámlára
 
+## 1X06867M_76
+
 | 1. Átutalt pénzösszeg nyilvántartási árfolyamon a pénzügyi számvitel szerint | T361 | – | K332 |
 
 | 2. Átutalt pénzösszeg jóváírási értesítő alapján a pénzügyi számvitel szerint | T331 | – | K361 |
@@ -1518,6 +1518,8 @@ SZEMÉLYI JUTTATÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## C) Megelőlegezett társadalombiztosítási és családtámogatási ellátások elszámolása
 
+## 2X08418M.docx
+
 | 1. Megelőlegezett társadalombiztosítási és családtámogatási ellátások a pénzügyi számvitel szerint | T3657 | – | K32/33 |
 
 | 2. Az Egészségbiztosítási Alap kezelő szervének elszámolása alapján a következő hónapban érkezett megtérítés a pénzügyi számvitel szerint (kifizetőhelyi költségtérítés + megelőlegezett ellátások –munkáltatót terhelő táppénz hozzájárulás) | T33 | – | K3657 |
@@ -1546,7 +1548,7 @@ SZEMÉLYI JUTTATÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | b) Teljesítésként | T4212 | – | K3657 |
 
-| 7. A dolgozó(k) illetményének csökkentésének (le nem dolgozott személyi juttatások) elszámolása a költségvetési számvitel szerint: e fejezet B) A személyi juttatásokkal és a kapcsolódó közterhekkel kapcsolatos gazdasági események elszámolásai cím 1. pontja szerintiek fordítottjaként |
+| 7. A dolgozó(k) illetménye csökkentésének (le nem dolgozott személyi juttatások) elszámolása a költségvetési számvitel szerint: e fejezet B) A személyi juttatásokkal és a kapcsolódó közterhekkel kapcsolatos gazdasági események elszámolásai cím 1. és 2. pontja szerintiek fordítottjaként |
 
 | 8. A dolgozó(k) illetményének csökkentése (le nem dolgozott személyi juttatások) a pénzügyi számvitel szerint: e fejezet B) A személyi juttatásokkal és a kapcsolódó közterhekkel kapcsolatos gazdasági események elszámolásai cím 3. pontja szerintiek fordítottjaként |
 
@@ -1583,6 +1585,8 @@ SZEMÉLYI JUTTATÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 | 15. December havi, pénzforgalomban nem jelentkező táppénzhez kapcsolódó, a dolgozó(k) illetménye csökkentésének (le nem dolgozott személyi juttatások) elszámolása januárban a pénzügyi számvitel szerint | T4211 | – | K442 |
 
 ## E) A személyi jövedelemadóról szóló törvény szerinti reprezentáció és üzleti ajándék elszámolása
+
+## 1X06867M_86
 
 | 1. Munkavállalónak utólagos elszámolásra kiadott előleg elszámolása a pénzügyi számvitel szerint | T36515 | – | K32/33 |
 
@@ -2604,7 +2608,7 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | 1. Eredeti előirányzat (elemi költségvetés alapján) | T05(1) T001 | – | K001 K09(1) |
 
-| 2. Kiadási előirányzatok zárolása | T001 | – | K05(1) |
+| 2. Kiadási előirányzatok elvonása Kapcsolódó tétel: az elvonással érintett kiadási előirányzathoz tartozó bevételi előirányzat csökkentése | T001 | – | K05(1) |
 
 | 3. Előirányzatok módosítása (átcsoportosítása) |
 
@@ -3098,5 +3102,4 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
-[^1]: A 4. §-t a 16/2019. (XII. 7.) PM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 3. §.
-[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja, a 14/2020. (XII. 28.) PM rendelet 1. §-a, a 9/2021. (VIII. 5.) PM rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja, a 14/2020. (XII. 28.) PM rendelet 1. §-a, a 9/2021. (VIII. 5.) PM rendelet 1. §-a, a 9/2022. (XII. 9.) PM rendelet 1. § 1. pontja szerint módosított szöveg.

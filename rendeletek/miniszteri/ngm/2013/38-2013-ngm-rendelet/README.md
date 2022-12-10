@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-38-20-2
 | 2020-08-31 | 2013-38-20-2X.12 | 16/2019. (XII. 7.) PM rendelet |
 | 2021-01-01 | 2013-38-20-2X.13 | 37/2014. (XII. 10.) NGM rendelet |
 | 2022-01-01 | 2013-38-20-2X.14 | 37/2014. (XII. 10.) NGM rendelet |
+| 2022-12-10 | 2013-38-20-2X.15 | 37/2014. (XII. 10.) NGM rendelet |
