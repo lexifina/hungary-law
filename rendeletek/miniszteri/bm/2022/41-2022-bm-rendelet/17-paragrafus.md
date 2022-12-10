@@ -1,0 +1,5 @@
+## 5. Az egyes építményszerkezetek tűzvédelmi követelményeknek való megfelelőségének a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 13. § (4) bekezdés e) pontja szerinti igazolásának eseteiről és módjáról szóló 55/2013. (X. 2.) BM rendelet módosítása
+
+17. § Az egyes építményszerkezetek tűzvédelmi követelményeknek való megfelelőségének a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 13. § (4) bekezdés e) pontja szerinti igazolásának eseteiről és módjáról szóló 55/2013. (X. 2.) BM rendelet 5. §-a helyébe a következő rendelkezés lép:
+
+„5. § A tűzvédelmi szakértő vagy a tűzvédelmi tervező az építményszerkezet tűzvédelmi követelményeknek való megfelelőségéről kiadott nyilatkozatának aláírt elektronikus változatát a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 79/B. §-a szerinti Integrált Hatósági Rendszer használatával küldi meg a katasztrófavédelem központi szervének.”
