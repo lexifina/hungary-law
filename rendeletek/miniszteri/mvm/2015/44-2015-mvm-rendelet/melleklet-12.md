@@ -6,11 +6,11 @@
 
 ## _________________________________________________________________________________________________________
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
-12. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^101]
+12. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^108]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -22,7 +22,7 @@
 
 I. szakasz: Ajánlatkérő
 
-## I.1) Név és címek 1 (jelölje meg a szerződést kötő összes ajánlatkérőt)
+## I.1) Név és címek1(jelölje meg a szerződést kötő összes ajánlatkérőt)
 
 | Hivatalos név: | Nemzeti azonosítószám: 2 |
 
@@ -68,7 +68,7 @@ IV. szakasz: Eljárás
 
 | IV.1.1) Az eljárás eredményéről szóló tájékoztató hirdetmény A hirdetmény száma a Közbeszerzési Értesítőben: 1 [ ][ ][ ][ ][ ]/[ ][ ][ ][ ] (KÉ-szám/évszám) |
 
-V. szakasz: Az eljárás eredménye 1
+V. szakasz: Az eljárás eredménye1
 
 ## A szerződés száma: [ ] Rész száma: 2 [ ] Elnevezés:
 
@@ -136,4 +136,4 @@ VI. szakasz: A szerződés módosításai
 
 VII. szakasz: Kiegészítő információk
 
-[^101]: A 12. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (4) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (10) bekezdése szerint módosított szöveg.
+[^108]: A 12. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (4) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (10) bekezdése szerint módosított szöveg.

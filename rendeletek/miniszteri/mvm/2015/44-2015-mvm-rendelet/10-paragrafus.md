@@ -1,4 +1,4 @@
-10. §[^16] (1) A Hatóság a hirdetmény közzétételére irányuló kérelmet először abból a szempontból vizsgálja meg, hogy az megfelel-e a 6. § (2) vagy (3) bekezdése szerinti követelményeknek. Ha a kérelem és mellékletei nem felelnek meg a 6. § (2) vagy (3) bekezdése szerinti követelményeknek, a Hatóság a kérelem beérkezésétől számított két munkanapon belül elektronikus úton felhívja az ajánlatkérőt a dokumentum ismételt benyújtására.
+10. §[^18] (1) A Hatóság a hirdetmény közzétételére irányuló kérelmet először abból a szempontból vizsgálja meg, hogy az megfelel-e a 6. § (2) vagy (3) bekezdése szerinti követelményeknek. Ha a kérelem és mellékletei nem felelnek meg a 6. § (2) vagy (3) bekezdése szerinti követelményeknek, a Hatóság a kérelem beérkezésétől számított két munkanapon belül elektronikus úton felhívja az ajánlatkérőt a dokumentum ismételt benyújtására.
 
 (2) Az (1) bekezdésben foglaltakat a közzétételi kérelem javítására, visszavonására irányuló, valamint a helyesbítési kérelemre is megfelelően alkalmazni kell.
 
@@ -30,4 +30,4 @@ d) a hirdetmény, illetve a közbeszerzési dokumentum megfelel-e a közbeszerz�
 
 e) ha a Kbt. a hirdetmény megküldésére határidőt határoz meg, a hirdetmény megküldésére sor került-e a határidőn belül.
 
-[^16]: A 10. § az 5/2019. (III. 28.) MvM rendelet 9. §-ával megállapított szöveg.
+[^18]: A 10. § az 5/2019. (III. 28.) MvM rendelet 9. §-ával megállapított szöveg.

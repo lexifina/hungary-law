@@ -60,7 +60,7 @@
 
 | II.1.4) A közbeszerzés rövid ismertetése: |
 
-| II.1.5) Becsült érték:2 [ ] Pénznem: [ ][ ][ ] (ÁFA nélkül; keretmegállapodás vagy dinamikus beszerzési rendszer esetében a szerződéseknek a keretmegállapodás vagy dinamikus beszerzési rendszer teljes időtartamára vonatkozó becsült összértéke) |
+| II.1.5) Becsült érték:2[ ] Pénznem: [ ][ ][ ] (ÁFA nélkül; keretmegállapodás vagy dinamikus beszerzési rendszer esetében a szerződéseknek a keretmegállapodás vagy dinamikus beszerzési rendszer teljes időtartamára vonatkozó becsült összértéke) |
 
 | II.1.6) Részekre bontás  Részajánlat tételére lehetőség van. Ajánlatok benyújthatók12 o valamennyi részre o legfeljebb a következő számú részre: [ ] o csak egy részre □ Az egy ajánlattevőnek odaítélhető részek maximális száma: [ ] □ Az ajánlatkérő fenntartja a jogot arra, hogy a következő részek vagy részcsoportok kombinációjával ítéljen oda szerződéseket:  Részajánlat tételének lehetősége nem biztosított. A részajánlat tételének kizárásának indoka(i): |
 
@@ -68,7 +68,7 @@
 
 | II.2.1) Elnevezés:2 | Rész száma:2 |
 
-| II.2.2) További CPV-kód(ok):2 Fő CPV-kód:1 [ ][ ] . [ ][ ] . [ ][ ] . [ ][ ] - [ ] Kiegészítő CPV-kód:1 2 [ ][ ][ ][ ] |
+| II.2.2) További CPV-kód(ok):2Fő CPV-kód:1 [ ][ ] . [ ][ ] . [ ][ ] . [ ][ ] - [ ] Kiegészítő CPV-kód:1 2 [ ][ ][ ][ ] |
 
 | II.2.3) A teljesítés helye: NUTS-kód:1 [ ] [ ] [ ] [ ] [ ] A teljesítés helye: |
 
@@ -132,7 +132,7 @@
 
 | (klasszikus ajánlatkérők esetében)  Nyílt eljárás □ Gyorsított eljárás Indokolás:  Meghívásos eljárás □ Gyorsított eljárás Indokolás:  Tárgyalásos eljárás □ Gyorsított eljárás Indokolás:  Versenypárbeszéd  Innovációs partnerség | (közszolgáltató ajánlatkérők esetében)  Nyílt eljárás  Meghívásos eljárás  Tárgyalásos eljárás  Versenypárbeszéd  Innovációs partnerség |
 
-| IV.1.2) Keretmegállapodásra vagy dinamikus beszerzési rendszerre vonatkozó információk □ A hirdetmény keretmegállapodás megkötésére irányul  Keretmegállapodás egy ajánlattevővel  Keretmegállapodás több ajánlattevővel A keretmegállapodás résztvevőinek tervezett maximális létszáma:2 [ ] □ A hirdetmény dinamikus beszerzési rendszer létrehozására irányul □ A dinamikus beszerzési rendszert további beszerzők is alkalmazhatják |
+| IV.1.2) Keretmegállapodásra vagy dinamikus beszerzési rendszerre vonatkozó információk □ A hirdetmény keretmegállapodás megkötésére irányul  Keretmegállapodás egy ajánlattevővel  Keretmegállapodás több ajánlattevővel A keretmegállapodás résztvevőinek tervezett maximális létszáma:2[ ] □ A hirdetmény dinamikus beszerzési rendszer létrehozására irányul □ A dinamikus beszerzési rendszert további beszerzők is alkalmazhatják |
 
 | IV.1.3) A megoldások, illetve ajánlatok számának a tárgyalásos eljárás vagy a versenypárbeszéd során történő csökkentesére irányuló információ □ Több fordulóban lebonyolítandó tárgyalások igénybe vétele annak érdekében, hogy fokozatosan csökkentsék a megvitatandó megoldások, illetve a megtárgyalandó ajánlatok számát. |
 
@@ -190,7 +190,7 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben 4 ha az információ ismert 20 súlyszám helyett fontosság is megadható 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges |
 
-3. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^94]
+3. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^101]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -338,7 +338,7 @@ IV. szakasz: Eljárás
 
 | IV.2.2) Ajánlattételi vagy részvételi határidő Dátum: (éééé/hh/nn) Helyi idő: (óó:pp) |
 
-| IV.2.3) Az ajánlattételi vagy részvételi felhívás kiválasztott jelentkezők részére történő megküldésének tervezett napja 4 Dátum: (éééé/hh/nn) |
+| IV.2.3) Az ajánlattételi vagy részvételi felhívás kiválasztott jelentkezők részére történő megküldésének tervezett napja4 Dátum: (éééé/hh/nn) |
 
 | IV.2.4) Azok a nyelvek, amelyeken az ajánlatok vagy részvételi jelentkezések benyújthatók: [ ] [ ] 1 |
 
@@ -348,4 +348,4 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^94]: A 3. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^101]: A 3. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (3) bekezdése szerint módosított szöveg.

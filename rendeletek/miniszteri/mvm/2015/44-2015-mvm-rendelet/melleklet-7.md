@@ -22,13 +22,13 @@
 
 ## _________________________________________________________________________________________________________
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
-## 15 ezt az információt itt vagy – adott esetben – az eljárás megindító felhívásban adja meg
+## 15ezt az információt itt vagy – adott esetben – az eljárás megindító felhívásban adja meg
 
-7. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^97]
+7. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^104]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -156,4 +156,4 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^97]: A 7. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (6) bekezdése szerint módosított szöveg.
+[^104]: A 7. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (6) bekezdése szerint módosított szöveg.

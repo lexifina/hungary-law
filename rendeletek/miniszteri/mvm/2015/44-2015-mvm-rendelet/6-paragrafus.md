@@ -1,8 +1,8 @@
 6. §[^8] (1) A hirdetmények TED-en történő közzétételre való feladását, illetve az Értesítőben történő közzétételét a Hatósághoz megküldött kérelemmel kell kezdeményezni.
 
-(2) A kérelmet és mellékleteit – a (3) bekezdés szerinti esetek kivételével – az EKR-ben kell létrehozni és az EKR-en keresztül kell a Hatóság részére megküldeni.
+(2)[^9] A kérelmet és mellékleteit – az 5. § (2) és (4) bekezdésében meghatározott esetek kivételével – az EKR-ben kell létrehozni és az EKR-en keresztül kell a Hatóság részére megküldeni.
 
-(3) Ha az elektronikus kommunikáció az EKR-től eltérő informatikai rendszerben történik, vagy az elektronikus úton történő kommunikáció és az EKR alkalmazása nem kötelező, a kérelmet és mellékleteit a Hatóság által üzemeltetett informatikai rendszer igénybevételével kell létrehozni és azon keresztül a Hatóság részére megküldeni.
+(3)[^10] A (2) bekezdés szerint kell eljárni azokban az esetekben is, ha az elektronikus kommunikáció az EKR-től eltérő informatikai rendszerben történik, vagy az elektronikus úton történő kommunikáció az eljárásban nem kötelező.
 
 (4) A hirdetmény közzétételre való feladására vagy közzétételére irányuló kérelmet az ajánlatkérő vagy képviselője (a továbbiakban: kérelmező) nyújthatja be a Hatósághoz. Ha a kérelmet az ajánlatkérő nevében más személy vagy szervezet nyújtja be, úgy kell tekinteni, hogy ő az ajánlatkérő által meghatalmazott, és az ajánlatkérőnek küldendő iratokat a Hatóság e személynek vagy szervezetnek is megküldi. Az e bekezdés szerinti meghatalmazott szervezetek megbízott szervezetként kötelesek regisztrációra a Hatóság által üzemeltetett informatikai rendszerben.
 
@@ -43,3 +43,5 @@ k) a Kbt. 75. § (4) bekezdése alapján, ha a Kbt. 41/C. § (1) bekezdésében 
 (7) A kérelem és a hirdetmény, illetve a közbeszerzési dokumentumok kézhezvételét a Hatóság a kézhezvétel napján, elektronikus úton visszaigazolja a kérelmezőnek.
 
 [^8]: A 6. § az 5/2019. (III. 28.) MvM rendelet 5. §-ával megállapított szöveg.
+[^9]: A 6. § (2) bekezdése a 2/2022. (XII. 9.) TFM rendelet 7. § b) pontja szerint módosított szöveg.
+[^10]: A 6. § (3) bekezdése a 2/2022. (XII. 9.) TFM rendelet 1. §-ával megállapított szöveg.

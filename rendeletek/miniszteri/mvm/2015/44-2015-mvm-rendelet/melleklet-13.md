@@ -6,11 +6,11 @@
 
 ## _______________________________________________________________________________________________________________________
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
-13. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^102]
+13. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^109]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -86,7 +86,7 @@ IV. szakasz: Eljárás
 
 ## IV.1) Meghatározás
 
-| IV.1.1) Az eljárás fajtája 2 |
+| IV.1.1) Az eljárás fajtája2 |
 
 | ○Előzetes közzététel nélküli tárgyalásos eljárás ○Előzetes versenyfelhívás nélküli tárgyalásos eljárás ○Koncesszió odaítélése koncessziós hirdetmény előzetes közzététele nélkül ○Eljárást megindító felhívásnak a Közbeszerzési Értesítőben történő közzététele nélkül odaítélt szerződés |
 
@@ -96,7 +96,7 @@ IV. szakasz: Eljárás
 
 | IV.2.1) Az adott eljárásra vonatkozó korábbi közzététel 2 A hirdetmény száma a Közbeszerzési Értesítőben: 1 [ ][ ][ ][ ][ ]/[ ][ ][ ][ ] (KÉ-szám/évszám) |
 
-V. szakasz: Az eljárás eredménye 1
+V. szakasz: Az eljárás eredménye1
 
 ## A szerződés száma: [ ] Rész száma: 2 [ ] Elnevezés:
 
@@ -128,4 +128,4 @@ V. szakasz: Az eljárás eredménye 1
 
 VI. szakasz: Kiegészítő információk
 
-[^102]: A 13. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (11) bekezdése szerint módosított szöveg.
+[^109]: A 13. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (11) bekezdése szerint módosított szöveg.

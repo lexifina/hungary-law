@@ -22,17 +22,17 @@
 
 ## _________________________________________________________________________________________________________
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
-## 4 ha az információ ismert
+## 4ha az információ ismert
 
-## 20 súlyszám helyett fontosság is megadható
+## 20súlyszám helyett fontosság is megadható
 
-## 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
+## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-4. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^95]
+4. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^102]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -116,7 +116,7 @@ IV. szakasz: Eljárás
 
 | IV.1.1) Az eljárás fajtája  A Kbt. 117. § szerinti saját beszerzési szabályok szerinti eljárás  Nyílt eljárás □ Gyorsított eljárás (klasszikus ajánlatkérők esetében)  Meghívásos eljárás  Gyorsított eljárás (klasszikus ajánlatkérők esetében)  Előzetes/időszakos előzetes tájékoztatóval meghirdetett meghívásos eljárás  Tárgyalásos eljárás  Gyorsított eljárás (klasszikus ajánlatkérők esetében)  Előzetes/időszakos előzetes tájékoztatóval meghirdetett tárgyalásos eljárás  Versenypárbeszéd  Innovációs partnerség  Eljárást megindító felhívás Közbeszerzési Értesítőben történt közzététele nélkül odaítélt szerződés az alább felsorolt esetekben  Hirdetmény nélküli tárgyalásos eljárás  A Kbt. 115. §-a szerinti nyílt eljárás  A Kbt. 115. §-a szerinti hirdetmény nélküli tárgyalásos eljárás |
 
-| IV.1.2) A hirdetmény nélküli tárgyalásos eljárás, valamint a gyorsított eljárás alkalmazásának indokolása: 2 |
+| IV.1.2) A hirdetmény nélküli tárgyalásos eljárás, valamint a gyorsított eljárás alkalmazásának indokolása:2 |
 
 | IV.1.3) Keretmegallápodásra vagy dinamikus beszerzési rendszerre vonatkozó információk □ A hirdetmény keretmegállapodás megkötésére irányul □ A hirdetmény dinamikus beszerzési rendszer létrehozására irányul |
 
@@ -130,7 +130,7 @@ IV. szakasz: Eljárás
 
 | IV.2.3) Információ az előzetes/időszakos előzetes tájékoztató formájában közzétett eljárást meghirdető felhívás lezárásáról □ Az ajánlatkérő a fenti előzetes/időszakos előzetes tájékoztató alapján nem ítél oda további szerződéseket |
 
-V. szakasz: Az eljárás eredménye 1
+V. szakasz: Az eljárás eredménye1
 
 ## A szerződés száma: [ ] Rész száma: 2 [ ] Elnevezés:
 
@@ -166,7 +166,7 @@ V. szakasz: Az eljárás eredménye 1
 
 | V.2.5) Alvállalkozásra vonatkozó információk □ Valószínűsíthető alvállalkozók igénybevétele a szerződés teljesítéséhez Jelölje meg a szerződés alvállalkozók, illetve harmadik személyek bevonásával történő teljesítésének értekét vagy arányát 4 Érték ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] Arány: [ ] % A szerződés alvállalkozó bevonásával megvalósított részének rövid ismertetése: |
 
-| V.2.6) Előnyös vásárlások esetén fizetett ár 2 (közszolgáltató ajánlatkérők esetében) Érték ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] |
+| V.2.6) Előnyös vásárlások esetén fizetett ár 2(közszolgáltató ajánlatkérők esetében) Érték ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] |
 
 | V.2.7) A megkötött szerződések száma: [ ] (közszolgáltató ajánlatkérők esetében) |
 
@@ -206,4 +206,4 @@ V. szakasz: Az eljárás eredménye 1
 
 VI. szakasz: Kiegészítő információk
 
-[^95]: A 4. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (1) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^102]: A 4. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (1) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (4) bekezdése szerint módosított szöveg.

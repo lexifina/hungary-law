@@ -10,28 +10,28 @@
 
 | _________________________________________________________________________________________________________ |
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
 ## 3 szükség szerinti számban ismételje meg, ha ez a hirdetmény kizárólag előzetes tájékoztató vagy időszakos előzetes tájékoztató
 
-## 4 ha az információ ismert
+## 4ha az információ ismert
 
-## 5 ezt az információt akkor adja meg, ha a hirdetmény eljárás meghirdetésére irányul
+## 5ezt az információt akkor adja meg, ha a hirdetmény eljárás meghirdetésére irányul
 
-## 6 amennyire az információ már ismert
+## 6amennyire az információ már ismert
 
-## 9 ezt az információt csak előzetes tájékoztató vagy időszakos előzetes tájékoztató esetében adja meg
+## 9ezt az információt csak előzetes tájékoztató vagy időszakos előzetes tájékoztató esetében adja meg
 
-## 12 ha a hirdetmény eljárás meghirdetésére irányul, vagy célja az ajánlattételi határidő lerövidítése, ezt az információt itt vagy az eljárást megindító felhívásban adja meg
+## 12ha a hirdetmény eljárás meghirdetésére irányul, vagy célja az ajánlattételi határidő lerövidítése, ezt az információt itt vagy az eljárást megindító felhívásban adja meg
 
-## 19 ha a hirdetmény célja az ajánlattételi határidő lerövidítése
+## 19ha a hirdetmény célja az ajánlattételi határidő lerövidítése
 
-## 20 súlyszám helyett fontosság is megadható
+## 20súlyszám helyett fontosság is megadható
 
-## 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
+## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-2. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^93]
+2. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^100]
 
-[^93]: A 2. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^100]: A 2. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (2) bekezdésével megállapított szöveg.

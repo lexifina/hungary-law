@@ -8,6 +8,6 @@ b) a nyertes ajánlattevő(k) adószámát (adóazonosító jelét);
 
 c) az ajánlattevők nevét, címét és adószámát (adóazonosító jelét), részajánlat-tétel lehetősége esetén részenkénti bontásban;
 
-d)[^49] ha az eljárás során figyelembe vettek környezetvédelmi vagy szociális szempontokat, a szempontok megnevezését.
+d)[^51] ha az eljárás során figyelembe vettek környezetvédelmi vagy szociális szempontokat, a szempontok megnevezését.
 
-[^49]: A 18. § d) pontját a 43/2016. (XII. 30.) MvM rendelet 6. §-a iktatta be.
+[^51]: A 18. § d) pontját a 43/2016. (XII. 30.) MvM rendelet 6. §-a iktatta be.

@@ -1,4 +1,4 @@
-36. §[^72] (1) A Kbt. 43. §-a által előírt adatok, információk, dokumentumok közzététele díjmentes.
+36. §[^76] (1) A Kbt. 43. §-a által előírt adatok, információk, dokumentumok közzététele díjmentes.
 
 (2) A közzététel során az ajánlatkérőnek gondoskodnia kell arról, hogy a közzétételre kerülő adatok, dokumentumok és információk
 
@@ -8,4 +8,4 @@ b) megfeleljenek a valóságnak;
 
 c) megfeleljenek az adott dokumentum tartalmával, illetve formájával kapcsolatos jogszabályi előírásoknak.
 
-[^72]: A 36. § az 5/2019. (III. 28.) MvM rendelet 18. §-ával megállapított szöveg.
+[^76]: A 36. § az 5/2019. (III. 28.) MvM rendelet 18. §-ával megállapított szöveg.

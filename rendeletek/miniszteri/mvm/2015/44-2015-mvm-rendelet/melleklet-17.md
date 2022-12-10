@@ -64,6 +64,6 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben |
 
-17. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^106]
+17. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^113]
 
-[^106]: A 17. mellékletet a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.
+[^113]: A 17. mellékletet a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.

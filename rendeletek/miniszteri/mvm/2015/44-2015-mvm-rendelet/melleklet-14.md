@@ -6,16 +6,16 @@
 
 ## _________________________________________________________________________________________________________
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
-## 4 ha az információ ismert
+## 4ha az információ ismert
 
-## 20 súlyszám helyett fontosság is megadható
+## 20súlyszám helyett fontosság is megadható
 
-## 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
+## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-14. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^103]
+14. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^110]
 
-[^103]: A 14. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^110]: A 14. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (1) bekezdésével megállapított szöveg.

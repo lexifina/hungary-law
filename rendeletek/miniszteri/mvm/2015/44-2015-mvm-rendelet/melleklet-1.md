@@ -1,4 +1,4 @@
-1. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^92]
+1. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^99]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -72,7 +72,7 @@ II. szakasz: Tárgy 3
 
 | II.1.5) Becsült érték: 2 [ ] Pénznem: [ ][ ][ ] (ÁFA nélkül; keretmegállapodás vagy dinamikus beszerzési rendszer esetében a szerződéseknek a keretmegállapodás vagy dinamikus beszerzési rendszer teljes időtartamára vonatkozó becsült összértéke) |
 
-| II.1.6) Részekre bontás A beszerzés részekből áll ○igen ○nem Ajánlatok benyújthatók 12 ○valamennyi részre ○legfeljebb a következő számú részre: [ ] ○csak egy részre ⬜Az egy ajánlattevőnek odaítélhető részek maximális száma: [ ] ⬜Az ajánlatkérő fenntartja a jogot arra, hogy a következő részek vagy részcsoportok kombinációjával ítéljen oda szerződéseket: |
+| II.1.6) Részekre bontás A beszerzés részekből áll ○igen ○nem Ajánlatok benyújthatók 12○valamennyi részre ○legfeljebb a következő számú részre: [ ] ○csak egy részre ⬜Az egy ajánlattevőnek odaítélhető részek maximális száma: [ ] ⬜Az ajánlatkérő fenntartja a jogot arra, hogy a következő részek vagy részcsoportok kombinációjával ítéljen oda szerződéseket: |
 
 ## II.2) A közbeszerzés ismertetése 1
 
@@ -90,7 +90,7 @@ II. szakasz: Tárgy 3
 
 | II.2.7) A szerződés, keretmegállapodás vagy dinamikus beszerzési rendszer időtartama 5 6 19 Időtartam hónapban: [ ] vagy napban: [ ] vagy Kezdés: (éééé/hh/nn) / Befejezés: (éééé/hh/nn) ⬜A szerződés meghosszabbítható A meghosszabbítás leírása: |
 
-| II.2.8) Az ajánlattételre vagy részvételre felhívandó gazdasági szereplők számának korlátozására vonatkozó információ 2 (nyílt eljárás kivételével) A gazdasági szereplők tervezett száma (keretszáma): [ ] vagy Tervezett minimum: [ ] / Maximális szám: 2 [ ] A jelentkezők számának korlátozására vonatkozó objektív szempontok: |
+| II.2.8) Az ajánlattételre vagy részvételre felhívandó gazdasági szereplők számának korlátozására vonatkozó információ2(nyílt eljárás kivételével) A gazdasági szereplők tervezett száma (keretszáma): [ ] vagy Tervezett minimum: [ ] / Maximális szám: 2 [ ] A jelentkezők számának korlátozására vonatkozó objektív szempontok: |
 
 | II.2.9) Változatokra (alternatív ajánlatokra) vonatkozó információk 12 ⬜Elfogadhatók változatok (alternatív ajánlatok) |
 
@@ -138,7 +138,7 @@ IV. szakasz: Eljárás
 
 | IV.2.1) A szándéknyilatkozatok benyújtásának határideje 5 (klasszikus ajánlatkérők esetében) Dátum: (éééé/hh/nn) Helyi idő: (óó:pp) |
 
-| IV.2.2) A jelentkezések benyújtásának határideje meghívásos vagy tárgyalásos eljárás esetén 5/ A szándéknyilatkozatok benyújtásának határideje 19 (közszolgáltató ajánlatkérők esetében) Dátum: (éééé/hh/nn) Helyi idő: (óó:pp) |
+| IV.2.2) A jelentkezések benyújtásának határideje meghívásos vagy tárgyalásos eljárás esetén 5/ A szándéknyilatkozatok benyújtásának határideje 19(közszolgáltató ajánlatkérők esetében) Dátum: (éééé/hh/nn) Helyi idő: (óó:pp) |
 
 | IV.2.3) Azok a nyelvek, amelyeken az ajánlatok vagy részvételi jelentkezések benyújthatók: [ ] [ ] 1 5 |
 
@@ -146,4 +146,4 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^92]: Az 1. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^99]: Az 1. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (1) bekezdése szerint módosított szöveg.

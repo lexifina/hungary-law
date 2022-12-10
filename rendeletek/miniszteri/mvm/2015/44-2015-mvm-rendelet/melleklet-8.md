@@ -20,13 +20,13 @@
 
 ## _________________________________________________________________________________________________________
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
-## 15 ezt az információt itt vagy – adott esetben – az ajánlattételi felhívásban adja meg
+## 15ezt az információt itt vagy – adott esetben – az ajánlattételi felhívásban adja meg
 
-8. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^98]
+8. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^105]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -106,7 +106,7 @@ IV. szakasz: Eljárás
 
 | IV.1.1) Az eljárás fajtája ○ Koncessziós beszerzési eljárás koncessziós hirdetmény előzetes közzétételével □ A koncessziós beszerzési eljárás tárgyalás megtartásával került lefolytatásra ○ Koncessziós hirdetmény előzetes közzététele nélküli eljárás |
 
-| IV.1.2) Koncessziós hirdetmény előzetes közzététele nélküli tárgyalásos eljárás alkalmazásának indokolása: 2 |
+| IV.1.2) Koncessziós hirdetmény előzetes közzététele nélküli tárgyalásos eljárás alkalmazásának indokolása:2 |
 
 | IV.1.3) A koncessziós beszerzési eljárás bírálatának fő jellemzői: |
 
@@ -114,7 +114,7 @@ IV. szakasz: Eljárás
 
 | IV.2.1) Az adott eljárásra vonatkozó korábbi közzététel 2 A hirdetmény száma a Közbeszerzési Értesítőben: 1 [ ][ ][ ][ ][ ]/[ ][ ][ ][ ] (KÉ-szám/évszám) |
 
-V. szakasz: Az eljárás eredménye 1
+V. szakasz: Az eljárás eredménye1
 
 ## Rész száma: 2 [ ] Elnevezés:
 
@@ -166,7 +166,7 @@ V. szakasz: Az eljárás eredménye 1
 
 | Ellenszolgáltatás összege Érték ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] |
 
-| V.2.6) Az ajánlattevők neve és címe: 1 2 |
+| V.2.6) Az ajánlattevők neve és címe:1 2 |
 
 | Hivatalos név: | Nemzeti azonosítószám: 2 |
 
@@ -178,4 +178,4 @@ V. szakasz: Az eljárás eredménye 1
 
 VI. szakasz: Kiegészítő információk
 
-[^98]: A 8. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (2) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (7) bekezdése szerint módosított szöveg.
+[^105]: A 8. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (2) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (7) bekezdése szerint módosított szöveg.

@@ -10,6 +10,6 @@
 
 (5) A hirdetménymintákban feltüntetett közszolgáltató ajánlatkérő megjelölés alatt a Kbt. 6–7. §-ában meghatározott ajánlatkérőket kell érteni.
 
-(6)[^63]
+(6)[^67]
 
-[^63]: A 25. § (6) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^67]: A 25. § (6) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 1. pontja hatályon kívül helyezte.

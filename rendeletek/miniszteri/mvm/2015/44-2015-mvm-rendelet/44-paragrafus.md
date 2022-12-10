@@ -14,9 +14,12 @@ e) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezésé
 
 f) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2014. február 26-ai 2014/25/EU irányelv 67–72. cikkeinek, 92. cikkének és 96. cikkének való megfelelést szolgálja;
 
-g)[^89] a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és a 842/2011/EK végrehajtási rendelet hatályon kívül helyezéséről szóló 2015. november 11-i 2015/1986 végrehajtási rendeletnek;
+g)[^95] a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és a 842/2011/EK végrehajtási rendelet hatályon kívül helyezéséről szóló 2015. november 11-i 2015/1986 végrehajtási rendeletnek;
 
-h)[^90] az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendeletnek
+h)[^96] az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendeletnek
 
-[^89]: A 44. § g) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
-[^90]: A 44. § h) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
+i)[^97] a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló 2009/33/EK irányelv módosításáról szóló, 2019. június 20-i (EU) 2019/1161 európai parlamenti és tanácsi irányelv 1. cikk (10) bekezdésének
+
+[^95]: A 44. § g) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
+[^96]: A 44. § h) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
+[^97]: A 44. § i) pontját a 2/2022. (XII. 9.) TFM rendelet 6. §-a iktatta be.

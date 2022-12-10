@@ -6,11 +6,11 @@
 
 ## _________________________________________________________________________________________________________
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
-10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^100]
+10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^107]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -126,4 +126,4 @@ V. szakasz: Az eljárás eredménye
 
 VI. szakasz: Kiegészítő információk
 
-[^100]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (9) bekezdése szerint módosított szöveg.
+[^107]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (9) bekezdése szerint módosított szöveg.

@@ -16,15 +16,15 @@
 
 ## _______________________________________________________________________________________________________________________________
 
-## 1 szükség szerinti számban ismételje meg
+## 1szükség szerinti számban ismételje meg
 
-## 2 adott esetben
+## 2adott esetben
 
-## 4 ha az információ ismert
+## 4ha az információ ismert
 
-## 20 súlyszám helyett fontosság is megadható
+## 20súlyszám helyett fontosság is megadható
 
-## 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
+## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
 5. melléklet a 44/2015. (XI. 2.) MvM rendelethez
 
