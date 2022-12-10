@@ -1,0 +1,1 @@
+9. § E rendelet 3. §-a a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló 2009/33/EKirányelv módosításáról szóló, 2019. június 20-i (EU) 2019/1161 európai parlamenti és tanácsi irányelv 1. cikk (10) bekezdésének való megfelelést szolgálja.
