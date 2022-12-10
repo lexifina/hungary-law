@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-62-20-0
 | 2019-07-01 | 2011-62-20-0A.9 | 27/2019. (VI. 28.) BM rendelet |
 | 2019-09-07 | 2011-62-20-0A.10 | 61/2012. (XII. 11.) BM rendelet |
 | 2020-11-05 | 2011-62-20-0A.11 | 61/2012. (XII. 11.) BM rendelet |
+| 2022-12-10 | 2011-62-20-0A.12 | 41/2022. (XII. 9.) BM rendelet |

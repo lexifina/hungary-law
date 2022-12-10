@@ -1,7 +1,3 @@
-## VII. Fejezet
-
-## A KÖZIGAZGATÁSI VEZETŐK KATASZTRÓFAVÉDELMI FELKÉSZÍTÉSE
-
 ## 28. A központi államigazgatási szerv vezetője által kijelölt személy katasztrófavédelmi felkészítése
 
 56. § (1) A BM OKF évente legalább egyszer katasztrófavédelmi felkészítésben részesíti a központi államigazgatási szerv vezetője által kijelölt személyt.

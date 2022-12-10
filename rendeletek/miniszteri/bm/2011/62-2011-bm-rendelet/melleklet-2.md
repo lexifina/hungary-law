@@ -26,9 +26,9 @@
 
 ## b.) van:…………….……………………………………………………………
 
-## 4.) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvényben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendeletben, valamint a katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendeletben meghatározott jogaimat és kötelességeimet ismerem és elfogadom.
+## 4.) A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvényben és annak végrehajtási rendeleteiben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvényben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendeletben, valamint a katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendeletben meghatározott jogaimat és kötelességeimet ismerem és elfogadom.
 
-## 5.) E nyilatkozat aláírásával hozzájárulok, hogy személyes adataimat az illetékes helyi önkormányzat, a megyei, fővárosi védelmi bizottság kezelje és továbbítsa a hivatásos katasztrófavédelmi szerveknek a polgári védelmi szervezetbe történő beosztás céljából, valamint a hadkiegészítő parancsnokságnak tájékoztatás céljából. Egyidejűleg tudomásul veszem a tájékoztatást, hogy a személyes adataim kezelésére vonatkozó hozzájárulásomat visszavonhatom, azonban ez nem érinti a hozzájárulásom alapján, a hozzájárulásom visszavonása előtt történt adatkezelés jogszerűségét.
+## 5.) E nyilatkozat aláírásával hozzájárulok, hogy személyes adataimat az illetékes helyi önkormányzat, a területi védelmi bizottság kezelje és továbbítsa a hivatásos katasztrófavédelmi szerveknek a polgári védelmi szervezetbe történő beosztás céljából, valamint a hadkiegészítő parancsnokságnak tájékoztatás céljából. Egyidejűleg tudomásul veszem a tájékoztatást, hogy a személyes adataim kezelésére vonatkozó hozzájárulásomat visszavonhatom, azonban ez nem érinti a hozzájárulásom alapján, a hozzájárulásom visszavonása előtt történt adatkezelés jogszerűségét.
 
 ## Kelt:……………..………….év………….. hó…. nap
 
@@ -52,7 +52,7 @@
 
 ## A nyilatkozatot a katasztrófavédelmi szerv vagy a polgármester képviselője hitelesíti.
 
-2. melléklet a 62/2011. (XII. 29.) BM rendelethez[^22]
+2. melléklet a 62/2011. (XII. 29.) BM rendelethez[^49]
 
 ## A polgári védelmi szervezetek tagjai igazolványának leírása
 
@@ -116,4 +116,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 5. Az igazolvány színe: kék
 
-[^22]: Az eredeti melléklet megjelölését a 61/2012. (XII. 11.) BM rendelet 4. §-a 2. mellékletre változtatta. A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 7. §-a szerint módosított szöveg.
+[^49]: Az eredeti melléklet megjelölését a 61/2012. (XII. 11.) BM rendelet 4. §-a 2. mellékletre változtatta. A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 7. §-a szerint módosított szöveg.

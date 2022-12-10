@@ -2,7 +2,7 @@
 
 ## 13. § Az igazgatóság vezetője (a továbbiakban: igazgató) feladat- és hatáskörében
 
-a) kijelöli a megyei védelmi bizottságok operatív munkaszervének vezetőjét,
+a)[^13] kijelöli a területi védelmi bizottságok operatív munkaszervének vezetőjét,
 
 b) szervezi a lakosság és az anyagi javak védelme érdekében a társadalmi és karitatív szervezetekkel történő együttműködést,
 
@@ -27,3 +27,5 @@ k) kapcsolatot tart a kiemelt területi informatikai és távközlési szolgált
 l) kapcsolatot tart az illetékességi területén található európai, vagy nemzeti kritikus infrastruktúra elemek tulajdonosaival, üzemeltetőivel, az azok védelmét ellátó szervezetekkel, valamint az érintett hálózat üzemeltetőivel,
 
 m) gondoskodik a lakosságfelkészítési feladatok éves ütemtervének elkészítéséről.
+
+[^13]: A 13. § a) pontja a 41/2022. (XII. 9.) BM rendelet 10. § b) pontja szerint módosított szöveg.

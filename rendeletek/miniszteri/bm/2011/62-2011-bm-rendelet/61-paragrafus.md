@@ -1,20 +1,18 @@
-## 32. A katasztrófavédelmi feladatok ellátásában és a védelmi igazgatásban közreműködők katasztrófavédelmi felkészítése
+## 32.[^43] A katasztrófavédelmi feladatok ellátásában, valamint a védelmi és biztonsági igazgatásban közreműködők katasztrófavédelmi felkészítése
 
-61. § (1) A katasztrófavédelmi feladatok ellátásában és a védelmi igazgatásban közreműködők részére évente legalább egy alkalommal
+61. §[^44] (1) A katasztrófavédelmi feladatok ellátásában, valamint a védelmi és biztonsági igazgatásban közreműködők részére évente legalább egy alkalommal
 
 a) országos szinten a BM OKF,
 
-b) területi szinten az igazgatóság,
+b) területi és helyi szinten az igazgatóság
 
-c) helyi szinten az igazgatóság szervezésében a kirendeltség
+elméleti és gyakorlati felkészítést tart.
 
-tart elméleti és gyakorlati felkészítést.
-
-(2) A katasztrófavédelmi feladatok ellátásában és a védelmi igazgatásban közreműködők felkészítésének tartalma különösen:
+(2) A katasztrófavédelmi feladatok ellátásában, valamint a védelmi és biztonsági igazgatásban közreműködők felkészítésének tartalma különösen:
 
 a) a katasztrófavédelem szervezet- és feladatrendszere,
 
-b) a védelmi igazgatás rendszere és a különleges jogrend,
+b) a védelmi és biztonsági igazgatás rendszere és a különleges jogrend,
 
 c) rendkívüli intézkedések a különleges jogrend idején,
 
@@ -25,3 +23,6 @@ e) a közreműködő személyek és szervezetek, az ágazatok sajátos feladatai
 f) a riasztási és értesítési, kapcsolattartási és jelentési rend, valamint
 
 g) a döntéshozatali eljárások.
+
+[^43]: A 32. alcím (61. §) a 41/2022. (XII. 9.) BM rendelet 7. §-ával megállapított szöveg.
+[^44]: A 61. § a 41/2022. (XII. 9.) BM rendelet 7. §-ával megállapított szöveg.
