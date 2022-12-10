@@ -8,8 +8,11 @@
 
 a) felügyeli az ágazat részére megállapított honvédelmi feladatok teljesítését, a belügyminiszter által irányított rendvédelmi szervek honvédelmi feladatairól szóló okmányok (a továbbiakban: honvédelmi intézkedési terv) összeállítását, felülvizsgálatát, módosítását, a belügyminiszter által irányított szervek NATO válságkezelési gyakorlatokon, valamint az egyéb honvédelmi gyakorlatokon való részvételét,
 
-b) közreműködik az ágazati védelmi tervezés rendszerének kialakításában, működtetésében, a gazdaságfelkészítés rendszerében, a védelmi igazgatási szervek felügyeletének, a megyei, fővárosi védelmi bizottságok és munkaszervezeteik ellenőrzésének végrehajtásában, valamint a meghagyással kapcsolatos feladatokban,
+b)[^1] közreműködik az ágazati védelmi tervezés rendszerének kialakításában, működtetésében, a gazdaságfelkészítés rendszerében, a védelmi és biztonsági igazgatási szervek felügyeletének, a területi védelmi bizottságok és munkaszervezeteik ellenőrzésének végrehajtásában, valamint a meghagyással kapcsolatos feladatokban,
 
-c) összehangolja a belügyminiszter által irányított szervek és a védelmi igazgatási szervek együttműködését, a NATO képességcsomag összeállításával és a befogadó nemzeti támogatással kapcsolatos belügyi ágazati feladatokat, továbbá
+c)[^2] összehangolja a belügyminiszter által irányított szervek és a védelmi és biztonsági igazgatási szervek együttműködését, a NATO képességcsomag összeállításával és a befogadó nemzeti támogatással kapcsolatos belügyi ágazati feladatokat, továbbá
 
 d) gondoskodik a honvédelmi felkészítés kormányzati feladattervében meghatározott feladatok végrehajtásáról és az e célra jóváhagyott költségvetési források felhasználásáról szóló beszámoló tervezetének, valamint a honvédelmi felkészítés következő évi feladattervéhez szükséges javaslatok, és a szükséges költségvetési igények tervezetének összeállításáról.
+
+[^1]: Az 1. § b) pontja a 41/2022. (XII. 9.) BM rendelet 15. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § c) pontja a 41/2022. (XII. 9.) BM rendelet 15. § b) pontja szerint módosított szöveg.
