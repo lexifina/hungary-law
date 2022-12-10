@@ -1,5 +1,3 @@
-## A tűzvédelmi szakvizsgával összefüggő oktatásszervezés tevékenység bejelentése
-
 ## Bejelentés típusa (tevékenység megkezdés, adatváltozás)
 
 ## Szolgáltató neve
@@ -22,6 +20,8 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-8. melléklet az 50/2011. (XII. 20.) BM rendelethez[^41]
+8. melléklet az 50/2011. (XII. 20.) BM rendelethez[^42]
 
-[^41]: A 8. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (7) bekezdésével megállapított szöveg.
+A tűzvédelmi szakvizsgáztatás tevékenység bejelentése
+
+[^42]: A 8. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (7) bekezdésével megállapított szöveg.

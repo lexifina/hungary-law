@@ -1,5 +1,3 @@
-## 9–10. §
-
 ## 6. Tűzvédelmi szakvizsgával összefüggő oktatásszervezés
 
 11. § (1) A tűzvédelmi szakvizsgával összefüggő oktatásszervezés tevékenység a követelmények, a bejelentés, és a nyilvántartás vonatkozásában a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló 45/2011. (XII. 7.) BM rendeletben (a továbbiakban: szakvizsga rendelet) meghatározott foglalkozási ágakra, munkakörökre tagozódik.

@@ -1,5 +1,3 @@
-## A tűzvédelmi szakvizsgáztatás tevékenység bejelentése
-
 ## Bejelentés típusa (tevékenység megkezdés, adatváltozás)
 
 ## Szolgáltató neve
@@ -22,6 +20,8 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-9. melléklet az 50/2011. (XII. 20.) BM rendelethez[^42]
+9. melléklet az 50/2011. (XII. 20.) BM rendelethez[^43]
 
-[^42]: A 9. mellékletet az 54/2014. (XII. 5.) BM rendelet 287. § (2) bekezdés a) pontja iktatta be.
+Tűzoltó készülékek karbantartásának ciklusideje
+
+[^43]: A 9. mellékletet az 54/2014. (XII. 5.) BM rendelet 287. § (2) bekezdés a) pontja iktatta be.

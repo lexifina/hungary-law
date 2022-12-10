@@ -1,5 +1,3 @@
-## Tűzoltó készülékek karbantartásának ciklusideje
-
 |  | A | B | C | D | E |
 
 | 1 | A tűzoltó készülék típusa | Alap- karban- tartás1 | Közép-karban- tartás2 | Teljes körű karban- tartás2 | A tűzoltó készülék élettartama4 |
@@ -18,11 +16,11 @@
 
 ## 2 A kötelező karbantartási ciklusok tűrési ideje 2 hónap.
 
-## 3 Az eredetileg zárt (törőszeges) porral oltó tűzoltó készülékeket – újratöltésre – vissza kell juttatni a gyártóhoz
+## 3Az eredetileg zárt (törőszeges) porral oltó tűzoltó készülékeket – újratöltésre – vissza kell juttatni a gyártóhoz
 
-## 4 Az Országos Tűzvédelmi Szabályzat 265. § (2) bekezdését is figyelembe kell venni.
+## 4Az Országos Tűzvédelmi Szabályzat 265. § (2) bekezdését is figyelembe kell venni.
 
-10. melléklet az 50/2011. (XII. 20.) BM rendelethez[^43]
+10. melléklet az 50/2011. (XII. 20.) BM rendelethez[^44]
 
 Tűzoltó készülékek alapkarbantartásának műveletei
 
@@ -76,4 +74,4 @@ Tűzoltó készülékek alapkarbantartásának műveletei
 
 | 5. szén-dioxiddal oltók.” |
 
-[^43]: A 10. mellékletet az 54/2014. (XII. 5.) BM rendelet 287. § (2) bekezdés b) pontja iktatta be.
+[^44]: A 10. mellékletet az 54/2014. (XII. 5.) BM rendelet 287. § (2) bekezdés b) pontja iktatta be.

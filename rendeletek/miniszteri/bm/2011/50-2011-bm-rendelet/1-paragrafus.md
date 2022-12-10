@@ -8,7 +8,7 @@
 
 (4) A tűzvédelmi hatóság által kiadott igazolás a Szolgtv.-ben meghatározott adatokon túl tartalmazza:
 
-a)[^1] tűzoltó készülék karbantartása esetén a karbantartó műhely címét és az Országos Tűzvédelmi Szabályzatról szóló 28/2011. (IX. 6.) BM rendelet (a továbbiakban: OTSZ) szerinti OKF azonosító jel sorszámát;
+a)[^1] tűzoltó készülék karbantartása esetén a karbantartó műhely címét és az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendelet (a továbbiakban: OTSZ) szerinti OKF azonosító jel sorszámát;
 
 b)[^2] a tűzvédelmi szakvizsgával összefüggő oktatásszervezés és a tűzvédelmi szakvizsgáztatás esetén a foglalkozási ág konkrét megnevezését,
 
@@ -18,7 +18,7 @@ d)[^4]
 
 (5)[^5]
 
-[^1]: Az 1. § (4) bekezdés a) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (4) bekezdés a) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított, a 41/2022. (XII. 9.) BM rendelet 2. §-a szerint módosított szöveg.
 [^2]: Az 1. § (4) bekezdés b) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (4) bekezdés c) pontját a 64/2013. (XII. 4.) BM rendelet 12. § a) pontja hatályon kívül helyezte.
 [^4]: Az 1. § (4) bekezdés d) pontját a 67/2012. (XII. 14.) BM rendelet 15. § (5) bekezdése hatályon kívül helyezte.

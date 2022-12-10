@@ -1,3 +1,3 @@
-## 16. §[^32]
+17. §[^33]
 
-[^32]: A 16. §-t a 44/2017. (XII. 29.) BM rendelet 70. § h) pontja hatályon kívül helyezte.
+[^33]: A 17. §-t a 64/2013. (XII. 4.) BM rendelet 12. § c) pontja hatályon kívül helyezte.

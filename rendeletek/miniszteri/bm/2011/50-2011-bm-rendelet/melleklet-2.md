@@ -1,5 +1,3 @@
-## A nyilvántartási szám kiadásának szabályai
-
 ## xxsorszám/y1-y2-...y13/zz/évszám.
 
 ## ahol:
@@ -69,5 +67,7 @@
 |  | 21 | BM Országos Katasztrófavédelmi Főigazgatóság |
 
 2. melléklet az 50/2011. (XII. 20.) BM rendelethez[^36]
+
+A tűzoltó készülék karbantartás tevékenység bejelentése tűzoltó készülék karbantartó szervezet
 
 [^36]: A 2. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.

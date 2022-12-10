@@ -1,5 +1,3 @@
-## A tűzoltó készülék karbantartás tevékenység bejelentése tűzoltó készülék karbantartó szervezet
-
 ## Bejelentés típusa (tevékenység megkezdés, adatváltozás)
 
 ## Szolgáltató neve
