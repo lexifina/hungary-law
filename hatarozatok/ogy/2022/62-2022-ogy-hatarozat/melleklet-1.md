@@ -6,6 +6,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a 2015–2020 közötti időszakra szóló Nemzeti Környezetvédelmi Programról szóló 27/2015. (VI. 17.) OGY határozat.
+## 3.[^2]
 
 1. melléklet a 62/2022. (XII. 9.) OGY határozathoz
+
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
