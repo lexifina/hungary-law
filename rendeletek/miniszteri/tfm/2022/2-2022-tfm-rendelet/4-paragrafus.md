@@ -1,3 +1,3 @@
-4. § Az R. 19. §-a a következő (3a) bekezdéssel egészül ki:
+4. §[^5]
 
-„(3a) A Hatóság a Kiadóhivatal által küldött, (3) bekezdés szerinti hibaüzenetről haladéktalanul tájékoztatja az EKR-t üzemeltető gazdasági társaságot.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
