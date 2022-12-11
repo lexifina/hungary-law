@@ -1,3 +1,3 @@
-26. § Az R4. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+26. §[^27]
 
-„(1) Az OKFŐ a jóváhagyott norma alapján a tartalék kialakítására és fenntartására a költségvetési tervezés időrendjéhez igazodva költségvetési tervet készít, amelyet megküld az egészségügyért felelős miniszter részére.”
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

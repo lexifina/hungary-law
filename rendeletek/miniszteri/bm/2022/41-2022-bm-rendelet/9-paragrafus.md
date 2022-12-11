@@ -1,1 +1,3 @@
-9. § Az R1. az 1. melléklet szerinti 3. melléklettel egészül ki.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

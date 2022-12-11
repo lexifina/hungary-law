@@ -1,1 +1,3 @@
-22. § Hatályát veszti az R3. 2. melléklet 7.4.2. pontjában a „területileg illetékes” szövegrész.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

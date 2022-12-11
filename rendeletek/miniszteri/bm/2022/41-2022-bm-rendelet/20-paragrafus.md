@@ -1,3 +1,3 @@
-## „i) ha a tervet irányított intézmény készíti, úgy ki kell térni a tervben az irányító intézménnyel való kapcsolattartásra, riasztási rendre, intézkedések tervezett rendszerére.”
+20. §[^21]
 
-20. § Az R3. 2. melléklete a 2. melléklet szerint módosul.
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

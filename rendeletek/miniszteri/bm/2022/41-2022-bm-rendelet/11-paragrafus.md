@@ -1,5 +1,3 @@
-11. § Hatályát veszti az R1.
+11. §[^12]
 
-a) 1. § g), h) és j) pontja,
-
-b) 5. alcíme.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

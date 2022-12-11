@@ -1,3 +1,3 @@
-19. § Az R3. 3. § (3) bekezdése a következő i) ponttal egészül ki:
+19. §[^20]
 
-(A résztervet úgy kell összeállítani, hogy)
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
