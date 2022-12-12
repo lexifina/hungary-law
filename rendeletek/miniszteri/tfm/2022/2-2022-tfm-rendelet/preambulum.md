@@ -1,1 +1,0 @@
-A közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (2) bekezdés a) és b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 178. § (1) bekezdés 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
