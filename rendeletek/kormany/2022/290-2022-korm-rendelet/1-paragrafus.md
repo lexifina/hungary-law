@@ -1,0 +1,3 @@
+1. §[^2] Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a nagycsaládosokat megillető földgáz árkedvezményről szóló 494/2017. (XII. 29.) Korm. rendeletet (a továbbiakban: KR) 2023. április 30. napjáig az ezen rendeletben foglalt eltérésekkel kell alkalmazni.
+
+[^2]: Az 1. § az 520/2022. (XII. 13.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
