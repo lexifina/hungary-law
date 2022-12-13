@@ -1,0 +1,3 @@
+1. §[^2] Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet ideje alatt az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvényt (a továbbiakban: Számlakép tv.) az ezen rendeletben foglalt eltérésekkel kell alkalmazni 2023. április 30. napjáig.
+
+[^2]: Az 1. § az 520/2022. (XII. 13.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
