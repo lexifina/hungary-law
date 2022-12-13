@@ -10,12 +10,6 @@ A Kormány − a történelmi léptékű aszály által okozott károk következ
 
 | Határidő: | azonnal |
 
-4. felhívja a pénzügyminisztert, hogy – az agrárminiszter kezdeményezése alapján – az 1. pont szerinti kamattámogatás biztosítása érdekében gondoskodjon
+4.[^1]
 
-a) a 2023. évben 2 580 000 000 forint többletforrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Mezőgazdasági feladatok alcím, 1. Nemzeti agrártámogatások jogcímcsoport javára, valamint
-
-b) a 2024. évben 2 880 000 000 forint, a 2025. évben 2 880 000 000 forint, a 2026. évben 720 000 000 forint forrás rendelkezésre állásáról a központi költségvetés XII. Agrárminisztérium fejezete javára.
-
-| Felelős: | pénzügyminiszter agrárminiszter |
-
-| Határidő: | az a) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) alpont tekintetében az adott évi központi költségvetés tervezése során |
+[^1]: A 4. pontot az 1615/2022. (XII. 13.) Korm. határozat 7. pontja visszavonta.
