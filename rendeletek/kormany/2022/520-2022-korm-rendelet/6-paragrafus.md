@@ -1,0 +1,3 @@
+6. § (1) 2023. január 1. napjának kezdetével a villamosenergia-kereskedő és az 5. § szerint nyilatkozatot tett felhasználó között határozatlan időtartamra villamosenergia-vásárlási szerződés jön létre a villamosenergia-kereskedő üzletszabályzatában meghatározott mintaszerződés szerinti tartalommal. A villamosenergia-vásárlási szerződés a felmondásra irányuló jognyilatkozat közlését követő második hónap első napjára felmondható.
+
+(2) A villamosenergia-kereskedő – a felhasználók egyértelmű tájékoztatása érdekében – az alkalmazott mintaszerződést honlapján e rendelet hatályba lépését, de legkorábban a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) üzletszabályzatot jóváhagyó határozatának közlését követő nap végéig közzéteszi.
