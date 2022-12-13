@@ -92,27 +92,21 @@ pénzügyminiszter
 
 Határidő: azonnal
 
-1.12. [^12] a szikszói ipari fejlesztési területhez kapcsolódó villamos energia hálózatfejlesztés kormányzati intézkedésekkel történő megvalósíthatóságának vizsgálata alapján egyetért azzal, hogy a szikszói ipari fejlesztési területhez kapcsolódó villamos energia hálózatfejlesztés kormányzati intézkedésekkel kerüljön megvalósításra 6 800 839 840 forint biztosításával, amelynek érdekében
+1.12. [^12] a szikszói ipari fejlesztési területhez kapcsolódó villamos energia hálózatfejlesztés kormányzati intézkedésekkel történő megvalósíthatóságának vizsgálata alapján egyetért azzal, hogy a szikszói ipari fejlesztési területhez kapcsolódó villamos energia hálózatfejlesztés kormányzati intézkedésekkel kerüljön megvalósításra 11 469 116 448 forint biztosításával, amelynek érdekében
 
-a) egyetért azzal, hogy az innovációért és technológiáért felelős miniszter támogatási szerződést kössön Szikszó Város Önkormányzatával,
+a) egyetért azzal, hogy az energiaügyi miniszter legfeljebb 11 463 384 756 forint összegű támogatási szerződést kössön Szikszó Város Önkormányzatával,
 
-b) felhívja a pénzügyminisztert, hogy gondoskodjon 6 804 240 260 forint biztosításáról a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Energetikai és fenntarthatósági ágazati feladatok alcím, 3. Fenntarthatósági feladatok és közmű-szolgáltatások jogcímcsoport javára, az alábbi ütemezés szerint:
+b) felhívja a pénzügyminisztert, hogy gondoskodjon – a már biztosított 1 563 109 764 forint figyelembevételével – 11 469 116 448 forint biztosításáról az alábbi ütemezés szerint:
 
-ba) a 2021. évben 1 563 109 764 forint,
+ba) a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Energetikai és fenntarthatósági ágazati feladatok alcím, 3. Fenntarthatósági feladatok és közmű-szolgáltatások jogcímcsoport javára 328 897 022 forint,
 
-bb) a 2022. évben 2 620 565 248 forint,
+bb) a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Energetikai és fenntarthatósági ágazati feladatok alcím, 3. Fenntarthatósági feladatok és közmű-szolgáltatások jogcímcsoport javára – a már betervezésre került 2 620 565 248 forinton felül – 2 651 890 055 forint,
 
-bc) a 2023. évben 2 620 565 248 forint;
+bc) a 2024. évben a központi költségvetés XVII. Technológiai és Ipari Minisztérium fejezet fenntarthatósági feladatok és közmű-szolgáltatások finanszírozását szolgáló előirányzata javára 5 867 764 123 forint;
 
-Felelős: pénzügyminiszter
+| Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-innovációért és technológiáért felelős miniszter
-
-Határidő: a ba) alpont tekintetében 2021. augusztus 31.
-
-a bb) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során
-
-a bc) alpont tekintetében a 2023. évi központi költségvetés tervezése során
+| Határidő: | a ba) alpont tekintetében a felmerülés ütemében a bb) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a bc) alpont tekintetében a 2024. évi központi költségvetés tervezése során |
 
 1.13. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1.1. és 1.12. pontban foglalt fejlesztések komplex előkészítéséhez és megvalósításához vizsgálja meg az európai uniós források terhére történő finanszírozás lehetőségeit, ideértve a 2021–2027 közötti európai uniós programozási időszak forrásait is, és ennek eredményétől függően tegye meg a szükséges intézkedéseket az európai uniós finanszírozás érdekében, ideértve a hazai forrásból megvalósuló fejlesztések későbbi uniós elszámolását is.
 
@@ -120,7 +114,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
 
-1.14. [^13] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a technológiai és ipari miniszter az 1.12. alpontban foglalt villamos energia hálózatfejlesztéshez legfeljebb 6 800 839 840 forint kötelezettséget vállaljon.
+1.14. [^13] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1.12. alpontban foglalt villamos energia hálózatfejlesztéshez legfeljebb 11 463 384 756 forint kötelezettséget vállaljon.
 
 1.15. [^14]
 
@@ -141,8 +135,8 @@ Határidő: folyamatos
 [^9]: Az 1. pont 1.9. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
 [^10]: Az 1. pont 1.10. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
 [^11]: Az 1. pont 1.11. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
-[^12]: Az 1. pont 1.12. alpontja az 1560/2021. (VIII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
-[^13]: Az 1. pont 1.14. pontját az 1231/2022. (IV. 19.) Korm. határozat 2. pontja visszavonta, újonnan az 1530/2022. (XI. 2.) Korm. határozat 2. pontja iktatta be.
+[^12]: Az 1. pont 1.12. alpontja az 1622/2022. (XII. 13.) Korm. határozat 1. pontjával megállapított szöveg.
+[^13]: Az 1. pont 1.14. pontját az 1231/2022. (IV. 19.) Korm. határozat 2. pontja visszavonta, újonnan az 1530/2022. (XI. 2.) Korm. határozat 2. pontja iktatta be, szövege az 1622/2022. (XII. 13.) Korm. határozat 2. pontjával megállapított szöveg.
 [^14]: Az 1. pont 1.15. pontját az 1560/2021. (VIII. 5.) Korm. határozat 3. pontja iktatta be, visszavonta az 1231/2022. (IV. 19.) Korm. határozat 2. pontja.
 [^15]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^16]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
