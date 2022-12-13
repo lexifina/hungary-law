@@ -1,5 +1,3 @@
-## 1. § Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt a villamos energiáról szóló 2007. évi LXXXVI. törvényt (a továbbiakban: Vet.) az ezen alcímben foglalt eltérésekkel kell 2022. december 31. napjáig alkalmazni.
-
 2. § (1) A Vet. 50. § (3) bekezdésétől eltérően, 2022. augusztus 1-jétől egyetemes szolgáltatásra
 
 a) lakossági fogyasztó,
@@ -14,13 +12,13 @@ jogosult, azzal, hogy a b) pont szerinti felhasználó az egyetemes szolgáltat�
 
 (4) Az (1) bekezdés b) pontjától eltérően nem jogosult egyetemes szolgáltatásra az a mikrovállalkozás, amely e rendelet hatálybalépésének napján nem egyetemes szolgáltatás keretében vételez villamos energiát. Az a mikrovállalkozás, amely az (1) bekezdés b) pontjában meghatározott feltételeknek megfelel, és a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 670/2021. (XII. 2.) Korm. rendelet [a továbbiakban: 670/2021. (XII. 2.) Korm. rendelet] szerint szerződött, jogosult az egyetemes szolgáltatásra.
 
-(5)[^2]
+(5)[^3]
 
-(6)[^3]
+(6)[^4]
 
 (7) A Vet. alkalmazásában 2022. augusztus 1-jétől az önkormányzati és állami bérlakásban, valamint szállóférőhelyen élők felhasználási helyei ellátása biztosításának mértékéig a helyi önkormányzat és az állami bérlakás, valamint a szállóférőhely üzemeltetője e rendelet alkalmazásában lakossági fogyasztónak minősül.
 
 (8) A (7) bekezdés szerinti jogosultság érvényesítése érdekében a felhasználó az egyetemes szolgáltatója felé – az annak honlapján közzétett nyilatkozatminta alkalmazásával – nyilatkozik, hogy a (7) bekezdés értelmében mely felhasználási helyek tekintetében minősül lakossági fogyasztónak. Az egyetemes szolgáltató a lakossági fogyasztókra vonatkozó előírásokat kizárólag a nyilatkozat benyújtását követően jogosult alkalmazni. Az egyetemes szolgáltató az ehhez szükséges nyilatkozatmintát e rendelet hatálybalépését követő 5 munkanapon belül a honlapján közzéteszi.
 
-[^2]: A 2. § (5) bekezdését a 443/2022. (XI. 7.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^3]: A 2. § (6) bekezdését a 443/2022. (XI. 7.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^3]: A 2. § (5) bekezdését a 443/2022. (XI. 7.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (6) bekezdését a 443/2022. (XI. 7.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.

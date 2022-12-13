@@ -1,6 +1,6 @@
 ## 10. § Természetes személy részére lakhatás céljára bérbeadott ingatlan esetén a költségelszámolás során a bérbeadó mint felhasználó a bérlő felé a földgáz-költségeket legfeljebb a lakossági egyetemes szolgáltatás szerinti árszabáson számolhatja el.
 
-## 2/A.[^9] Közös szabályok
+## 2/A.[^13] Közös szabályok
 
 10/A. § (1) Ha az egyetemes szolgáltató megállapítja, hogy a felhasználó egyetemes szolgáltatásra nem jogosult, az egyetemes szolgáltató az egyetemes szolgáltató és a felhasználó közötti jogviszony fennállása alatt jogosulatlanul vételezett
 
@@ -36,4 +36,4 @@ b) földgázt az adott hónapra vonatkozó átlagos CEEGEX másnapi súlyozott �
 
 (11) Az (1) és (7) bekezdés esetén az euróban megadott árak forintra történő átszámításakor az MNB által megállapított, tárgyhónap utolsó munkanapján érvényes deviza középárfolyamot kell alkalmazni.
 
-[^9]: A 2/A. alcímet (10/A. §-t) a 443/2022. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 2/A. alcímet (10/A. §-t) a 443/2022. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
