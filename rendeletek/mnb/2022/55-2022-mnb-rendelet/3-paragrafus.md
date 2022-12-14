@@ -1,0 +1,1 @@
+3. § A kötelező gépjármű-felelősségbiztosításokra kiterjedő szerződés- és káradatbázisból történő adatigénylés részletes szabályairól szóló 42/2019. (XII. 3.) MNB rendelet 2. melléklet 2. pontjában foglalt táblázat 5. sorában és a 2. melléklet 3. pontjában foglalt táblázat 4. sorában a „P rendszámú” szövegrész helyébe az „I vagy P rendszámú” szöveg lép.
