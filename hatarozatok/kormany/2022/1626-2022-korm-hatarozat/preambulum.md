@@ -1,0 +1,1 @@
+A Kormány – figyelemmel az orosz–ukrán háború okozta katasztrófák és súlyos szerencsétlenségek megelőzése, következményeinek elhárítása vagy enyhítése céljából folyó széles körű nemzetközi együttműködésre, valamint a Magyar Honvédség rendelkezésére álló és átadható készleteire –
