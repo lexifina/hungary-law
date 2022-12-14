@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Sierra Leone-i Köztársaság Kormánya közötti gazdasági és műszaki együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
