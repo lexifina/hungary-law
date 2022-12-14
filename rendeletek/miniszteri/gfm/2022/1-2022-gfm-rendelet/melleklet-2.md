@@ -90,13 +90,7 @@ VII. Tulajdonosi joggyakorló: Készenléti Rendőrség
 
 | 1. | Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság | 13-09-140414 | 2026. december 31. |
 
-VIII. Tulajdonosi joggyakorló: Nemzeti Közszolgálati Egyetem
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Apertus Közszolgálati Oktatás-fejlesztési Központ Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-917155 | 2026. december 31. |
+VIII.
 
 IX. Tulajdonosi joggyakorló: Országos Vízügyi Főigazgatóság
 
@@ -194,4 +188,4 @@ XVIII. Tulajdonosi joggyakorló: Magyar Nemzeti Múzeum
 
 XIX. Tulajdonosi joggyakorló: Nemzetbiztonsági Szakszolgálat
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a szerint módosított szöveg.
