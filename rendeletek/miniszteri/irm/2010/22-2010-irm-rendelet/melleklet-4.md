@@ -1,6 +1,6 @@
 4. melléklet a 22/2010. (V. 7.) IRM rendelethez
 
-## A fizetési meghagyásos eljárásban, a fizetési meghagyás végrehajtásának elrendelésére, valamint a fizetési meghagyást követő biztosítási intézkedés elrendelése során előterjesztendő egyéb kérelmek benyújtásához alkalmazandó elektronikus űrlap adattartalma
+A fizetési meghagyásos eljárásban, a fizetési meghagyás végrehajtásának elrendelésére, valamint a fizetési meghagyást követő biztosítási intézkedés elrendelése során előterjesztendő egyéb kérelmek benyújtásához alkalmazandó elektronikus űrlap adattartalma
 
 1. A kérelem adatai:
 

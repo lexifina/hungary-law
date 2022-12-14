@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-22-20-1
 | 2010-12-31 | 2010-22-20-1U.2 | 28/2010. (XII. 31.) KIM rendelet |
 | 2013-08-15 | 2010-22-20-1U.3 | 20/2013. (VIII. 7.) KIM rendelet |
 | 2018-01-01 | 2010-22-20-1U.4 | 20/2017. (XII. 21.) IM rendelet |
+| 2022-12-14 | 2010-22-20-1U.5 | 25/2022. (XII. 6.) IM rendelet |

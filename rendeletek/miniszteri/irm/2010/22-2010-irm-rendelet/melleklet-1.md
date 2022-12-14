@@ -1,6 +1,6 @@
 1. melléklet a 22/2010. (V. 7.) IRM rendelethez
 
-## A fizetési meghagyás kibocsátása iránti kérelem elektronikus űrlapjának adattartalma
+A fizetési meghagyás kibocsátása iránti kérelem elektronikus űrlapjának adattartalma
 
 1. A jogosulttal kapcsolatos kötelező adatok:
 
@@ -54,7 +54,9 @@
 
 3.5.1.1. a kitöltést segítő kódtár
 
-4.[^15] A követeléssel kapcsolatos kötelező adatok:
+3.6.[^15] törvényes képviselő által képviselt kötelezett esetén a képviselő neve, kézbesítési címe
+
+4.[^16] A követeléssel kapcsolatos kötelező adatok:
 
 4.1. a követelés alapjául szolgáló jogviszony
 
@@ -64,29 +66,29 @@
 
 4.2.1. a kitöltést segítő kódtár
 
-4.3.[^16] a követelés beazonosításához szükséges adatok
+4.3.[^17] a követelés beazonosításához szükséges adatok
 
 4.4. a követelés alapjául szolgáló jogviszony létrejöttének és a követelés lejártának időpontja
 
-4.5.[^17] a főkövetelés (ideértve az önálló járulékokat is) összege
+4.5.[^18] a főkövetelés (ideértve az önálló járulékokat is) összege
 
 4.6. a főkövetelés pénzneme
 
 4.6.1. a kitöltést segítő kódtár
 
-4.7.[^18] A követelés vagy kamat után követelt nem önálló kamattal kapcsolatos nem kötelező adatok:
+4.7.[^19] A követelés vagy kamat után követelt nem önálló kamattal kapcsolatos nem kötelező adatok:
 
-4.7.1.[^19] tőkeösszeg, ha a főkövetelésnél kevesebb
+4.7.1.[^20] tőkeösszeg, ha a főkövetelésnél kevesebb
 
 4.7.2. kamattípus (jogcím)
 
 4.7.2.1. a kitöltést segítő kódtár
 
-4.7.3.[^20] kamatperiódus (a kamat jellege)
+4.7.3.[^21] kamatperiódus (a kamat jellege)
 
 4.7.3.1. a kitöltést segítő kódtár
 
-4.7.4.[^21] kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
+4.7.4.[^22] kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
 
 4.7.5. kamattal érintett időszak.
 
@@ -102,7 +104,7 @@
 
 6.2. jogi személy, jogi személyiség nélküli, jogalanyisággal rendelkező szervezet kötelezett nyilvántartási száma (cégjegyzékszáma), adószáma
 
-6.3.[^22] törvényes képviselő által képviselt kötelezett esetén a képviselő neve, kézbesítési címe.
+6.3.[^23]
 
 7. Perré alakulás esetére a perben illetékes bíróság megjelölése azon adatokkal együtt, amelyekből a bíróság hatásköre és illetékessége megállapítható.
 
@@ -140,11 +142,12 @@
 [^12]: Az 1. melléklet 3. pontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^13]: Az 1. melléklet 3. pont 3.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^14]: Az 1. melléklet 3. pont 3.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^15]: Az 1. melléklet 4. pontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^16]: Az 1. melléklet 4. pont 4.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^17]: Az 1. melléklet 4. pont 4.5. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^18]: Az 1. melléklet 4. pont 4.7. alpont nyitó szövegrésze a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^19]: Az 1. melléklet 4. pont 4.7. alpont 4.7.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^20]: Az 1. melléklet 4. pont 4.7. alpont 4.7.3. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^21]: Az 1. melléklet 4. pont 4.7. alpont 4.7.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^22]: Az 1. melléklet 6. pont 6.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 3. pont 3.6. alpontját a 25/2022. (XII. 6.) IM rendelet 1. §-a iktatta be.
+[^16]: Az 1. melléklet 4. pontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 4. pont 4.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 4. pont 4.5. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet 4. pont 4.7. alpont nyitó szövegrésze a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^20]: Az 1. melléklet 4. pont 4.7. alpont 4.7.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^21]: Az 1. melléklet 4. pont 4.7. alpont 4.7.3. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^22]: Az 1. melléklet 4. pont 4.7. alpont 4.7.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet 6. pont 6.3. alpontját a 25/2022. (XII. 6.) IM rendelet 1. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 3. melléklet a 22/2010. (V. 7.) IRM rendelethez
 
-## A végrehajtás elrendelése iránti kérelem elektronikus űrlapjának adattartalma
+A végrehajtás elrendelése iránti kérelem elektronikus űrlapjának adattartalma
 
 1. Az adóssal kapcsolatos adatok:
 
@@ -110,7 +110,7 @@
 
 2.7.1. név
 
-2.7.2.[^25] kézbesítési cím
+2.7.2.[^26] kézbesítési cím
 
 2.7.3. telefonszám
 
@@ -126,7 +126,7 @@
 
 3. A fizetési meghagyás végrehajtásának elrendelése iránti kérelem.
 
-3.1.[^26] A kérelmező nyilatkozata arról, hogy az adós mögöttes helytállási kötelezettsége beállt.
+3.1.[^27] A kérelmező nyilatkozata arról, hogy az adós mögöttes helytállási kötelezettsége beállt.
 
 4. A fizetési meghagyással kapcsolatos adatok:
 
@@ -136,25 +136,25 @@
 
 4.3. fizetési meghagyás végrehajtandó része
 
-4.3.1.[^27] a főkövetelés (ideértve az önálló járulékokat is) összege
+4.3.1.[^28] a főkövetelés (ideértve az önálló járulékokat is) összege
 
 4.3.2. a főkövetelés pénzneme
 
 4.3.2.1. a kitöltést segítő kódtár
 
-4.3.3.[^28] A követelés vagy kamat után követelt nem önálló kamattal kapcsolatos nem kötelező adatok:
+4.3.3.[^29] A követelés vagy kamat után követelt nem önálló kamattal kapcsolatos nem kötelező adatok:
 
-4.3.3.1.[^29] tőkeösszeg, ha a főkövetelésnél kevesebb
+4.3.3.1.[^30] tőkeösszeg, ha a főkövetelésnél kevesebb
 
 4.3.3.2. kamattípus (jogcím)
 
 4.3.3.2.1. a kitöltést segítő kódtár
 
-4.3.3.3.[^30] kamatperiódus (a kamat jellege)
+4.3.3.3.[^31] kamatperiódus (a kamat jellege)
 
 4.3.3.3.1. a kitöltést segítő kódtár
 
-4.3.3.4.[^31] kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
+4.3.3.4.[^32] kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
 
 4.3.3.5. kamattal érintett időszak. 4.4. a pénzkövetelés jogcíme
 
@@ -170,19 +170,19 @@
 
 4.6. a fizetési meghagyás jogerőre emelkedésének napja
 
-4.6.1.[^32] annak jelölése, ha a fizetési meghagyás a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre.
+4.6.1.[^33] annak jelölése, ha a fizetési meghagyás a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre.
 
 5. A tartozásért felelős személyekkel kapcsolatos adatok:
 
 5.1. egyetemleges felelősség esetén adóstárs megnevezése
 
-5.2.[^33] az adóstárs elleni végrehajtási eljárás folyamatban létére vonatkozó nyilatkozat és az eljárás végrehajtói ügyszáma
+5.2.[^34] az adóstárs elleni végrehajtási eljárás folyamatban létére vonatkozó nyilatkozat és az eljárás végrehajtói ügyszáma
 
 5.3. az adóstárs vagyonának mely részével, illetve a 6. pontban meghatározott vagyontárgyakkal felel
 
 5.3.1. a végrehajtás alá vonható vagyontárgyakkal kapcsolatos adatok
 
-5.3.2.[^34]
+5.3.2.[^35]
 
 6. Az adós végrehajtás alá vonható vagyontárgyaival kapcsolatos adatok:
 
@@ -242,7 +242,7 @@
 
 11. A vételár (vételhez adott kölcsön összege), elkészítési, javítási díj behajtása végett lefoglalható dolog [Vht. 89. § (3) bekezdés].
 
-12.[^35] Egyéb végrehajtást kérői nyilatkozatok:
+12.[^36] Egyéb végrehajtást kérői nyilatkozatok:
 
 12.1. nyilatkozat arról, hogy a végrehajtást kérő kéri-e, hogy a végrehajtó a végrehajtási lapot postán kézbesítse az adósnak
 
@@ -294,14 +294,14 @@
 
 16.5. a bírósági végrehajtót, valamint a végrehajtást kérő jogi képviseletét ellátó ügyvédet és jogtanácsost megillető díjazásról, továbbá ezeknek az összegeknek az előlegezéséről és viseléséről szóló tájékoztatás.
 
-[^25]: A 3. melléklet 2. pont 2.7. pont 2.7.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^26]: A 3. melléklet 3. pont 3.1. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (7) bekezdése iktatta be.
-[^27]: A 3. melléklet 4. pont 4.3.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^28]: A 3. melléklet 4. pont 4.3.3. alpont nyitó szövegrésze a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^29]: A 3. melléklet 4. pont 4.3.3.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^30]: A 3. melléklet 4. pont 4.3.3.3. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^31]: A 3. melléklet 4. pont 4.3.3.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^32]: A 3. melléklet 4. pont 4.6. pont 4.6.1. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^33]: A 3. melléklet 5. pont 5.2. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (10) bekezdésével megállapított szöveg.
-[^34]: A 3. melléklet 5. pont 5.3.2. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (12) bekezdése hatályon kívül helyezte.
-[^35]: A 3. melléklet 12. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (11) bekezdésével megállapított szöveg.
+[^26]: A 3. melléklet 2. pont 2.7. pont 2.7.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^27]: A 3. melléklet 3. pont 3.1. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (7) bekezdése iktatta be.
+[^28]: A 3. melléklet 4. pont 4.3.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^29]: A 3. melléklet 4. pont 4.3.3. alpont nyitó szövegrésze a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^30]: A 3. melléklet 4. pont 4.3.3.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^31]: A 3. melléklet 4. pont 4.3.3.3. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^32]: A 3. melléklet 4. pont 4.3.3.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^33]: A 3. melléklet 4. pont 4.6. pont 4.6.1. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^34]: A 3. melléklet 5. pont 5.2. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (10) bekezdésével megállapított szöveg.
+[^35]: A 3. melléklet 5. pont 5.3.2. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (12) bekezdése hatályon kívül helyezte.
+[^36]: A 3. melléklet 12. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (11) bekezdésével megállapított szöveg.

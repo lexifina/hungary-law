@@ -1,6 +1,6 @@
 6. melléklet a 22/2010. (V. 7.) IRM rendelethez
 
-## A biztosítási intézkedés elrendelése iránti kérelem papír alapú űrlapjának adattartalma
+A biztosítási intézkedés elrendelése iránti kérelem papír alapú űrlapjának adattartalma
 
 1. A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapjának adattartalmán túlmenően – az űrlap 1.5.4.1., 2.4.4.1. és 6. pontja kivételével –:
 
@@ -8,7 +8,7 @@
 
 1.2. személyes költségfeljegyzési jog engedélyezése iránti kérelem előterjesztésére utalás
 
-1.3.[^37] okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet
+1.3.[^38] okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet
 
 1.3.1. neve
 
@@ -16,4 +16,4 @@
 
 1.4. végrehajtást kérő aláírásának helye.
 
-[^37]: A 6. melléklet 1. pont 1.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^38]: A 6. melléklet 1. pont 1.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés f) pontja szerint módosított szöveg.

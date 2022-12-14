@@ -1,6 +1,6 @@
 2. melléklet a 22/2010. (V. 7.) IRM rendelethez
 
-## A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapjának adattartalma
+A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapjának adattartalma
 
 1. Az adóssal kapcsolatos adatok:
 
@@ -110,7 +110,7 @@
 
 2.7.1. név
 
-2.7.2.[^23] kézbesítési cím
+2.7.2.[^24] kézbesítési cím
 
 2.7.3. telefonszám
 
@@ -126,7 +126,7 @@
 
 3. Biztosítási intézkedés elrendelése iránti határozott kérelem.
 
-4.[^24] A biztosítandó pénzköveteléssel kapcsolatos adatok
+4.[^25] A biztosítandó pénzköveteléssel kapcsolatos adatok
 
 4.1. a kibocsátott fizetési meghagyás ügyszáma és a bírósági végrehajtásról szóló 1994. évi LIII. törvény (Vht.) 189. §-a szerinti esetben a kibocsátott végrehajtási lap ügyszáma
 
@@ -184,5 +184,5 @@
 
 7.5. arról szóló tájékoztatás, hogy a követelés későbbi kielégítésének veszélyeztetettségét valószínűsítő dokumentumok hiteles másolata – ha ilyen dokumentumok rendelkezésre állnak – papír alapon küldhető meg az eljáró közjegyzőnek.
 
-[^23]: A 2. melléklet 2. pont 2.7. pont 2.7.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^24]: A 2. melléklet 4. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^24]: A 2. melléklet 2. pont 2.7. pont 2.7.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^25]: A 2. melléklet 4. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (6) bekezdésével megállapított szöveg.
