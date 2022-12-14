@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-385-20-
 | 2022-07-01 | 2016-385-20-22.20 | 250/2017. (IX. 5.) Korm. rendelet |
 | 2022-08-12 | 2016-385-20-22.21 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2022-11-10 | 2016-385-20-22.22 | 457/2022. (XI. 9.) Korm. rendelet |
+| 2022-12-14 | 2016-385-20-22.23 | 514/2022. (XII. 13.) Korm. rendelet |

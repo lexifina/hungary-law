@@ -1,4 +1,4 @@
-10. § (1) A Kormány egészségügyi államigazgatási szervként az országos tisztifőorvost és a kormányhivatalt jelöli ki
+10. § (1)[^36] A Kormány egészségügyi államigazgatási szervként az NNK-t és a kormányhivatalt jelöli ki
 
 a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 43. § (1) bekezdés g) pontja,
 
@@ -8,7 +8,7 @@ c) az Ebtv. 10. § (4) bekezdése,
 
 d) az Eütv.
 
-da)[^31]
+da)[^37]
 
 db) 143. §-a,
 
@@ -28,8 +28,11 @@ g) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módos
 
 szerinti feladatok ellátására.
 
-(2) A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter jogszabály szerint, az országos tisztifőorvos és a kormányhivatal útján látja el.
+(2)[^38] A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter jogszabály szerint, az NNK és a kormányhivatal útján látja el.
 
-(3) Az Eütv. 48. § c) pontja szerinti feladatokat az országos tisztifőorvos és a kormányhivatal látja el.
+(3)[^39] Az Eütv. 48. § c) pontja szerinti feladatokat az NNK és a kormányhivatal látja el.
 
-[^31]: A 10. § (1) bekezdés d) pont da) alpontját a 190/2019. (VII. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^36]: A 10. § (1) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^37]: A 10. § (1) bekezdés d) pont da) alpontját a 190/2019. (VII. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^38]: A 10. § (2) bekezdése az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^39]: A 10. § (3) bekezdése az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.

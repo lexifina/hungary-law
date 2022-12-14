@@ -1,4 +1,4 @@
-## 11. § A Kormány egészségügyi államigazgatási szervként az országos tisztifőorvost, a kormányhivatalt és a járási hivatalt jelöli ki
+11. §[^40] A Kormány egészségügyi államigazgatási szervként az NNK-t, a kormányhivatalt és a járási hivatalt jelöli ki
 
 a) az Eüak. 5. § (3) bekezdése,
 
@@ -10,11 +10,12 @@ ca) 23. § d) pontja,
 
 cb) 24. § e) és f) pontja,
 
-d)[^32] az Ehi. 4. § (6) bekezdés h) pontja,
+d)[^41] az Ehi. 4. § (6) bekezdés h) pontja,
 
-e)[^33] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
+e)[^42] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
 
 szerinti feladatok ellátására.
 
-[^32]: A 11. § d) pontját a 164/2018. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
-[^33]: A 11. § e) pontját a 190/2019. (VII. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 706/2021. (XII. 15.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^40]: A 11. § nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^41]: A 11. § d) pontját a 164/2018. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
+[^42]: A 11. § e) pontját a 190/2019. (VII. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 706/2021. (XII. 15.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

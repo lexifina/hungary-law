@@ -1,5 +1,3 @@
-## 6. § A Nemzeti Népegészségügyi Központ (a továbbiakban: NNK) a miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
-
 6/A. § (1) Az NNK-t az országos tisztifőorvos vezeti.
 
 (2) Az országos tisztifőorvos tevékenységét a helyettes országos tisztifőorvosok segítik, akiket a miniszter nevez ki és ment fel, az egyéb munkáltatói jogokat az országos tisztifőorvos gyakorolja.

@@ -1,4 +1,4 @@
-## 6/F. §[^16] Az NNK drogpolitikai feladatai körében
+## 6/F. §[^18] Az NNK drogpolitikai feladatai körében
 
 a) adatgyűjtéssel, elemzések végzésével elősegíti a drogpolitikai stratégiai döntések megalapozását, közreműködik irányelvek és standardok kifejlesztésében a Nemzeti Drogellenes Stratégia végrehajtásához,
 
@@ -10,4 +10,4 @@ d) ellátja a Kábítószerügyi Egyeztető Fórumokkal kapcsolatos feladatok ko
 
 e) igazolja, hogy a szenvedélybetegek közösségi alapellátását, alacsonyküszöbű ellátását, nappali ellátását vagy számukra megelőző-felvilágosító szolgáltatást végző szociális szolgáltatók, intézmények, fenntartók szenvedélybetegség megelőzése érdekében végzett célzott prevenciós programjai megfelelnek-e a Nemzeti Drogellenes Stratégiában foglalt céloknak, és összhangban állnak-e a célzott prevenciós célú hazai pályázatokkal.
 
-[^16]: A 6/F. §-t a 180/2019. (VII. 26.) Korm. rendelet 8. §-a iktatta be.
+[^18]: A 6/F. §-t a 180/2019. (VII. 26.) Korm. rendelet 8. §-a iktatta be.
