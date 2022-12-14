@@ -1,3 +1,3 @@
-## 4. §[^10]
+5. §[^12]
 
-[^10]: A 4. §-t a 60/2016. (XII. 29.) NGM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^12]: Az 5. §-t az 52/2017. (XII. 29.) NGM rendelet 18. § (2) bekezdése hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 5. §[^11]
+6. §[^13]
 
-[^11]: Az 5. §-t az 52/2017. (XII. 29.) NGM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A 6. §-t a 46/2012. (XII. 27.) NGM rendelet 22. § (2) bekezdés 1. pontja hatályon kívül helyezte.

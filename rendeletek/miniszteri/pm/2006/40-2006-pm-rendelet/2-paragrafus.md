@@ -6,7 +6,7 @@
 
 a)[^3] illetékfajta: öröklési illeték (gépjármű nélkül), ajándékozási illeték (gépjármű nélkül), gépjármű öröklési és ajándékozási illeték, visszterhes vagyonszerzési illeték (gépjármű nélkül), visszterhes gépjármű-átruházási illeték, közigazgatási hatósági eljárási illeték, bírósági eljárási illeték, felügyeleti illeték,
 
-b)[^4] vagyontárgy jellege: tanya, családi ház, ikerház, láncház, sorház, lakás, garázs, üdülő, étterem, szálloda, iroda, üzlet, raktár, mezőgazdasági épület, telek, termőföld, egyéb nem lakás célú ingatlan, gépjármű, értékpapír, vagyoni betét, egyéb ingó vagyontárgy,
+b)[^4] vagyontárgy jellege: ingatlan (tanya, családi ház, ikerház, láncház, sorház, lakás, garázs, üdülő, étterem, szálloda, iroda, irodaház, üzlet, raktár, ipari létesítmény, mezőgazdasági épület, sportcélú létesítmény, bölcsőde, óvoda, iskola, kollégium, színház, mozi, orvosi rendelő, gyógyszertár, telek, termőföld, egyéb nem lakás célú ingatlan), ingóság (gépjármű, értékpapír, vagyoni betét, egyéb ingó vagyontárgy),
 
 c)[^5] központi költségvetés illetékbevétele: a tárgyhónapban az egyes illetékfajtákra teljesített (vagy átvezetett) és követeléssel szemben jóváírt befizetések összege, növelve a d) pont da)–dc) alpontja szerint elszámolt bevétellel és csökkentve a d) pont dd) alpontja szerint törölt követelés összegével,
 
@@ -20,27 +20,28 @@ dc) követelés törlése miatt elszámolhatóvá vált befizetés elszámolása
 
 dd) a korábban megfizetett követelés törlése,
 
-e) követelés: jogerőssé vált határozattal megállapított előírás, ide nem értve a lakóház felépítésére alkalmas telekszerzés után megállapított, de a fizetés tekintetében felfüggesztett tételeket,
+e)[^6] követelés: véglegessé vált határozattal megállapított előírás, ide nem értve a lakóház felépítésére alkalmas telekszerzés után megállapított, de a fizetés tekintetében felfüggesztett tételeket,
 
 f) hátralék: végrehajtás alá vont vagy vonható követelés.
 
-(3)[^6] A (2) bekezdés d) pont dd) alpontjának alkalmazásában a már megfizetett követelés törlésével egy tekintet alá esik, ha
+(3)[^7] A (2) bekezdés d) pont dd) alpontjának alkalmazásában a már megfizetett követelés törlésével egy tekintet alá esik, ha
 
-a)[^7] cégbíróságnál vagy a járási (fővárosi kerületi) hivatalnál kezdeményezett eljárásokhoz kapcsolódó illetékbeszedési számlákra befizetett összeget,
+a)[^8] cégbíróságnál vagy a járási (fővárosi kerületi) hivatalnál kezdeményezett eljárásokhoz kapcsolódó illetékbeszedési számlákra befizetett összeget,
 
 b) hatóságtól vagy bíróságtól érkezett megkeresés alapján visszatérítendő illetéket,
 
 c) a fel nem használt illetékbélyeg megtérítésére irányuló kérelem alapján történő jóváírást
 
-## az adóhatóság követeléssel szemben elszámolta, az ügyfél adószámláján más adónemre átvezette, társhatóságnak átutalta vagy az ügyfél részére visszatérítette.
+az adóhatóság követeléssel szemben elszámolta, az ügyfél adószámláján más adónemre átvezette, társhatóságnak átutalta vagy az ügyfél részére visszatérítette.
 
-(4)[^8] A központi költségvetést megillető illetékbevételt csökkenteni kell a tárgyhónapban a (3) bekezdés szerint követeléssel szemben elszámolt, az ügyfél adószámláján más adónemre átvezetett, társhatóságnak utalt, visszatérített összeggel.
+(4)[^9] A központi költségvetést megillető illetékbevételt csökkenteni kell a tárgyhónapban a (3) bekezdés szerint követeléssel szemben elszámolt, az ügyfél adószámláján más adónemre átvezetett, társhatóságnak utalt, visszatérített összeggel.
 
 [^1]: A 2. § a 31/2007. (XII. 21.) PM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (5) bekezdése alapján a 2007. évre vonatkozó éves zárási összesítőt a 40/2006. (XII. 25.) PM rendelet 2007. december 31-én hatályos rendelkezései szerint kell elkészíteni.
 [^2]: A 2. § (1) bekezdése a 46/2012. (XII. 27.) NGM rendelet 22. § (1) bekezdés 1. pontja, a 60/2016. (XII. 29.) NGM rendelet 5. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (2) bekezdés a) pontja a 31/2009. (XII. 18.) PM rendelet 11. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (2) bekezdés b) pontja a 31/2009. (XII. 18.) PM rendelet 11. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdés b) pontja a 8/2022. (XII. 6.) PM rendelet 1. §-ával megállapított szöveg.
 [^5]: A 2. § (2) bekezdés c) pontja a 46/2012. (XII. 27.) NGM rendelet 21. § 1. pontja szerint módosított szöveg.
-[^6]: A 2. § (3) bekezdés záró szövegrésze az 52/2017. (XII. 29.) NGM rendelet 18. § (1) bekezdése szerint módosított szöveg.
-[^7]: A 2. § (3) bekezdés a) pontja a 48/2012. (XII. 28.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § (4) bekezdése az 52/2017. (XII. 29.) NGM rendelet 18. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdés e) pontja a 8/2022. (XII. 6.) PM rendelet 4. §-a szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdés záró szövegrésze az 52/2017. (XII. 29.) NGM rendelet 18. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdés a) pontja a 48/2012. (XII. 28.) NGM rendelet 11. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (4) bekezdése az 52/2017. (XII. 29.) NGM rendelet 18. § (1) bekezdése szerint módosított szöveg.
