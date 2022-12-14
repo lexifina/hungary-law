@@ -52,18 +52,13 @@
 
 ## l) egyetért azzal, hogy a címrendi módosításról és kiegészítésről, a Központi Maradványelszámolási Alap előirányzatból, a Rezsivédelmi Alap központi kiadása előirányzatból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő előirányzat-átcsoportosításról, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kormányhatározat módosításáról és kötelezettségvállalás engedélyezéséről szóló 1515/2022. (X. 26.) Korm. határozattal a Magyar Műszaki és Közlekedési Múzeum új központi kiállítóhelye előkészítésének további támogatásáról, valamint az átmeneti működéséhez szükséges többletforrás biztosításáról szóló 1198/2020. (V. 6.) Korm. határozat végrehajtása érdekében biztosított 893 000 000 forintból 136 000 000 forint a Magyar Műszaki és Közlekedési Múzeum új központi kiállítóhelye előkészítéséhez és a megvalósításához szükséges kormányzati intézkedésekről szóló 1657/2021. (IX. 24.) Korm. határozat szerinti feladatokra kerüljön felhasználásra.
 
-## 2. A magyar kutatóűrhajós misszióját előkészítő szerződés és a misszió megvalósításához kapcsolódó iparfejlesztő intézkedések és forrásigények elfogadásáról szóló 1518/2021. (VII. 30.) Korm. határozat (a továbbiakban: Határozat)
+## 2.[^1]
 
-## a) 4. pont b) alpontjában a „12 500 000” szövegrész helyébe a „11 500 000” szöveg,
-
-## b) 5. pontjában a „27 500 000” szövegrész helyébe a „60 000 000” szöveg;
-
-## c) 6. pont b) alpontjában a „27 500 000” szövegrész helyébe a „60 000 000” szöveg
-
-## lép.
-
-## 3. A Kormány visszavonja a Határozat 4. pont c) alpontját.
+## 3.[^2]
 
 ## 4. A Kormány a költségvetési fejezeteket érintő államháztartási stabilizációs intézkedésekről szóló 1325/2022. (VII. 11.) Korm. határozatot 2022. december 31. napjával visszavonja.
 
 1. melléklet az 1618/2022. (XII. 13.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
