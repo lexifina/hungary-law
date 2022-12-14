@@ -1,0 +1,1 @@
+1. § A fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú és elektronikus űrlapokról szóló 22/2010. (V. 7.) IRM rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
