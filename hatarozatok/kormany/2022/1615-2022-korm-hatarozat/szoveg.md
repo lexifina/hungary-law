@@ -40,4 +40,6 @@ b) a 2024. évben 2 880 000 000 forint, a 2025. évben 2 880 000 000 forint, a 2
 
 | Határidő: | folyamatos |
 
-7. visszavonja az 1447/2022. (IX. 19.) Korm. határozat 4. pontját.
+7.[^1]
+
+[^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
