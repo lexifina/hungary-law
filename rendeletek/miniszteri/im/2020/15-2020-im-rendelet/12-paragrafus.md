@@ -1,7 +1,13 @@
 ## 11. § E rendelet rendelkezéseit a rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-## 12. § Ez a rendelet
+12. §[^13] Ez a rendelet
 
-a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
 
-b) az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény
+b) az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i C(2020) 1863 final számú európai bizottsági közlemény,
+
+c) az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, többször módosított 2022/C 131 I/01 számú európai bizottsági közlemény
+
+hatálya alá tartozó támogatást tartalmaz.
+
+[^13]: A 12. § a 28/2022. (XII. 13.) IM rendelet 4. §-ával megállapított szöveg.

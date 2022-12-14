@@ -1,6 +1,4 @@
-## is alkalmazni kell.
-
-1. melléklet a 15/2020. (XII. 3.) IM rendelethez[^13]
+1. melléklet a 15/2020. (XII. 3.) IM rendelethez[^19]
 
 X. Igazságügyi Minisztérium 2022. évi központi kezelésű előirányzatának feladatterve
 
@@ -14,4 +12,4 @@ X. Igazságügyi Minisztérium 2022. évi központi kezelésű előirányzatána
 
 | 4 | 380939 |  |  | Az IM tulajdonosi joggyakorlása alá tartozó társaságok támogatása | Az előirányzat az Igazságügyi Minisztérium (a továbbiakban: IM) tulajdonosi joggyakorlása alá tartozó gazdasági társaságok tulajdonosi támogatására szolgál. | Az IM tulajdonosi joggyakorlása alá tartozó gazdasági társaságok | Tulajdonosi döntés és támogatási szerződés vagy támogatói okirat | Előleg nyújtása lehetséges | Egy összegben vagy részletekben, idő- vagy teljesítésarányosan | – | Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet szerinti biztosítékok | – | – | – |
 
-[^13]: Az 1. melléklet a 11/2021. (X. 14.) IM rendelet 7. §-ával megállapított, a 15/2022. (V. 27.) IM rendelet 4. § e) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet a 11/2021. (X. 14.) IM rendelet 7. §-ával megállapított, a 15/2022. (V. 27.) IM rendelet 4. § e) pontja szerint módosított szöveg.
