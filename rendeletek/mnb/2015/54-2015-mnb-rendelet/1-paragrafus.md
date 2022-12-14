@@ -2,19 +2,17 @@
 
 a)[^1] a forintban fennálló kötelezettségek esetében
 
-aa) 2020. december 31-ig évi 2,3%,
+aa) a rendszeres díjas termékek esetében tartamtól függetlenül évi 4%,
 
-ab) 2021. január 1-jétől évi 1,8%;
+ab) az 5 éves vagy annál rövidebb tartamú egyszeri díjas termékek esetében 7%,
 
-b)[^2] az euróban fennálló kötelezettségek esetében
+ac) az 5 évesnél hosszabb tartamú egyszeri díjas szerződések esetében 4%;
 
-ba) 2020. december 31-ig évi 1,1%,
-
-bb) 2021. január 1-jétől évi 0,6%;
+b)[^2] az euróban fennálló kötelezettségek esetében évi 1,5%;
 
 c) az a) és b) ponton kívüli, egyéb pénznemben fennálló kötelezettség esetében az adott pénznemet kibocsátó állam által a leghosszabb futamidőre kibocsátott kötvény hozamának legfeljebb 60%-a és a b) pontban meghatározott mérték közül a kisebbik.
 
 (2) A számviteli biztosítástechnikai tartaléknak minősülő felelősségbiztosítási járadéktartalék számításánál alkalmazható technikai kamatláb maximális mértéke forintban, illetve egyéb pénznemben fennálló kötelezettségek esetében évi 0%.
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 25/2020. (VII. 28.) MNB rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés b) pontja a 25/2020. (VII. 28.) MNB rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pontja az 55/2022. (XII. 13.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja az 55/2022. (XII. 13.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
