@@ -2,7 +2,7 @@
 
 ## AZ EGYES FEJEZETI KEZELÉSŰ ELŐIRÁNYZATOKBÓL NYÚJTHATÓ KÖLTSÉGVETÉSI TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-## 4. [^7] Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat felhasználási szabályai
+## 4. [^10] Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat felhasználási szabályai
 
 11. § (1) Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja a közösségi támogatások koordinálásával összefüggő, a közösségi és európai uniós forrásból nem fedezett, el nem számolható, azonban a programok lebonyolításához és a programok fenntartási időszakához kötődő kötelezettségek teljesítéséhez elengedhetetlen tevékenységek kiadásai fedezetének biztosítása, így különösen
 
@@ -10,7 +10,7 @@ a) a fejlesztéspolitikai intézményrendszert segítő szakértői szolgáltat�
 
 b) a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZPI) által ellátott végrehajtó szervezeti, végrehajtó ügynökségi, közreműködő szervezeti, projekt megvalósítói, lebonyolítói és tanácsadói feladatok, valamint a közös és közös horizontális, továbbá a nemzeti és nemzeti horizontális feladatok európai uniós forrásból nem fedezett vagy európai uniós támogatásból el nem számolható költségeinek finanszírozása
 
-ba) a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról szóló kormányrendeletben meghatározott tevékenységekből eredően,
+ba)[^11] a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról szóló 197/2018. (X. 24.) Korm. rendeletben [a továbbiakban: 197/2018. (X. 24.) Korm. rendelet] meghatározott tevékenységekből eredően,
 
 bb) a 2014–2020 és a 2021–2027 közötti kohéziós politikai operatív programokhoz, valamint a vidékfejlesztési és halászati programokhoz kapcsolódóan,
 
@@ -38,4 +38,5 @@ bi) a közvetlen irányítású uniós programokhoz kapcsolódóan.
 
 (6) A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható.
 
-[^7]: A 4. alcím címe a 658/2021. (XI. 30.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^10]: A 4. alcím címe a 658/2021. (XI. 30.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^11]: A 11. § (1) bekezdés b) pont ba) alpontja az 519/2022. (XII. 13.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

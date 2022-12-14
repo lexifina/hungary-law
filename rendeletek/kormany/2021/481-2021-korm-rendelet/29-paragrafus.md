@@ -1,6 +1,6 @@
-## 14. Végrehajtás Operatív Program Plusz előirányzat speciális felhasználási szabályai
+## 14.[^25] A Végrehajtás Operatív Program Plusz előirányzat speciális felhasználási szabályai
 
-29. § (1)[^19] A Végrehajtás Operatív Program Plusz (a továbbiakban: VOP Plusz) keretében SCO módszerrel a központi költségvetésbe elszámolt uniós bevétel terhére az uniós intézményrendszerrel és ellátóival – a Közbeszerzési és Ellátási Főigazgatósággal, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társasággal, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársasággal és az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társasággal –, továbbá az e) pont esetében a Külgazdasági és Külügyminisztériummal, az f) pont esetében a Nemzeti Adó- és Vámhivatallal
+29. § (1)[^26] A Végrehajtás Operatív Program Plusz (a továbbiakban: VOP Plusz) keretében SCO módszerrel a központi költségvetésbe elszámolt uniós bevétel terhére az uniós intézményrendszerrel és ellátóival – a Közbeszerzési és Ellátási Főigazgatósággal, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társasággal, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársasággal és az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társasággal –, továbbá az e) pont esetében a Külgazdasági és Külügyminisztériummal, az f) pont esetében a Nemzeti Adó- és Vámhivatallal
 
 a) a programok sikeres végrehajtása érdekében szükséges hatékony adminisztratív kapacitás és feltételrendszer biztosításához elengedhetetlen költségek,
 
@@ -44,4 +44,5 @@ k) a korrupcióellenes záradékot, amely szerint: „A kedvezményezett nem kö
 
 (4) A támogatások kifizetésére, elszámoltatására a monitoring- és információs rendszert kell alkalmazni.
 
-[^19]: A 29. § (1) bekezdése a 798/2021. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^25]: A 14. alcím címe az 519/2022. (XII. 13.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^26]: A 29. § (1) bekezdése a 798/2021. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.

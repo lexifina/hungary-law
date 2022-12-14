@@ -24,7 +24,7 @@ a) a végrehajtó szerv,
 
 b) az Európai Támogatásokat Auditáló Főigazgatóság,
 
-c)[^14] a Technológiai és Ipari Minisztérium, valamint a Kulturális és Innovációs Minisztérium mint tagállami kedvezményezett.
+c)[^18] a Technológiai és Ipari Minisztérium, valamint a Kulturális és Innovációs Minisztérium mint tagállami kedvezményezett.
 
 (4) Az előirányzatok terhére megállapított támogatás támogatási szerződéssel bocsátható a kedvezményezett rendelkezésére, a támogatásra vonatkozó egyedi feltételek meghatározása mellett.
 
@@ -36,4 +36,4 @@ c)[^14] a Technológiai és Ipari Minisztérium, valamint a Kulturális és Inno
 
 (8) Szállítói előleg a kedvezményezett és a szállító közötti szerződés összege 30%-áig biztosítható a szállító részére, a szállítói előlegnek közvetlenül a szállító fizetési számlájára történő folyósítással.
 
-[^14]: A 23. § (3) bekezdés c) pontja a 258/2022. (VII. 20.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^18]: A 23. § (3) bekezdés c) pontja a 258/2022. (VII. 20.) Korm. rendelet 9. §-a szerint módosított szöveg.
