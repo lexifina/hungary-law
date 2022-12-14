@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-42-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-12-04 | 2019-42-20-2C.1 | 42/2019. (XII. 3.) MNB rendelet |
+| 2022-12-14 | 2019-42-20-2C.2 | 55/2022. (XII. 13.) MNB rendelet |
