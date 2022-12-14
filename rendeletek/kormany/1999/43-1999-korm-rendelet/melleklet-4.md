@@ -1,5 +1,25 @@
 ## ahol
 
+## d = degresszióval korrigált pontszám
+
+## h = pontszám határérték
+
+## 1. felnőtt és gyermek szolgálat esetén 2400
+
+## 2. vegyes szolgálat esetén 2600
+
+## 3. degresszió alól mentesített szolgálat esetén a szerződés szerint
+
+## 4. szakorvosjelölt alkalmazása esetén az 1., illetve 2. pont szerinti határértéknek legfeljebb 1200 ponttal növelt összege
+
+## n = TAJ-számmal nyilvántartásba vett biztosítottak korcsoportonkénti pontszám összege.
+
+## B) Háziorvosi ellátás praxisközösségben
+
+## A degresszió szerinti korrekció praxisközösség esetén a közösségben levő háziorvosi szolgálatok, és az alkalmazott szakorvosjelöltek számától függően az alábbiak szerint változik:
+
+## ahol
+
 ## m = háziorvosi szolgálatok száma
 
 ## h = A) pont szerint
