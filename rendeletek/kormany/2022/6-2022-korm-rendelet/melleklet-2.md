@@ -12,7 +12,7 @@
 
 | 6. | ultra magas hőmérsékleten hőkezelt, 2,8% tömegszázalék zsírtartalmú tehéntej |
 
-2. melléklet a 6/2022. (I. 14.) Korm. rendelethez[^12]
+2. melléklet a 6/2022. (I. 14.) Korm. rendelethez[^15]
 
 Hatósági áras termékek
 
@@ -22,4 +22,4 @@ Hatósági áras termékek
 
 | 3. | Étkezési burgonya, kivéve újburgonya |
 
-[^12]: A 2. mellékletet a 451/2022. (XI. 9.) Korm. rendelet 4. §-a iktatta be.
+[^15]: A 2. mellékletet a 451/2022. (XI. 9.) Korm. rendelet 4. §-a iktatta be.
