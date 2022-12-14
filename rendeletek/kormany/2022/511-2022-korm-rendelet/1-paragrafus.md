@@ -1,0 +1,3 @@
+1. § Az árak megállapításáról szóló 1990. évi LXXXVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 6/2022. (I. 14.) Korm. rendelet (a továbbiakban: R.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az e rendeletben meghatározott előírások érvényre juttatására szolgáló, az Ártörvény 16. §-a szerinti közigazgatási hatósági ügyekben a fogyasztóvédelmi hatóság kijelöléséről szóló kormányrendelettel kijelölt általános fogyasztóvédelmi hatóság (a továbbiakban: hatóság) – az 1. § (5) bekezdése és az 1/A. § (5) bekezdése tekintetében a Nemzeti Élelmiszerlánc-biztonsági Hivatal bevonásával – hivatalból jár el.”
