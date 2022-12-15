@@ -1,1 +1,3 @@
-3. § Az R. 1. § (1) bekezdésében és 1/A. § (1) bekezdésében a „2022. december 31.” szövegrész helyébe a „2023. április 30.” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
