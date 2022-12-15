@@ -159,3 +159,5 @@
 ## 5. vezetői kinevezésének és megszűnésének adatai
 
 ## 6. jutalmazás, kitüntetés adatai
+
+## 7. hatályos fegyelmi büntetés
