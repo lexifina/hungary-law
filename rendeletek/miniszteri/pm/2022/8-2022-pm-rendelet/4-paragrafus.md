@@ -1,1 +1,3 @@
-4. § A 40/2006. (XII. 25.) PM rendelet 2. § (2) bekezdés e) pontjában a „jogerőssé” szövegrész helyébe a „véglegessé” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
