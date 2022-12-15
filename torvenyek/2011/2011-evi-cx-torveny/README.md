@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-110-00-00
 | 2020-04-11 | 2020. évi XIX. törvény | 2011-110-00-00.9 |
 | 2022-08-01 | 2022. évi XVIII. törvény | 2011-110-00-00.10 |
 | 2022-11-01 | 2022. évi XXXI. törvény | 2011-110-00-00.11 |
+| 2022-12-15 | 2022. évi LVI. törvény | 2011-110-00-00.12 |
