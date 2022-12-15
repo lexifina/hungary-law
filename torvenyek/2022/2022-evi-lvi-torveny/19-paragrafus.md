@@ -43,15 +43,3 @@ b) 4. cikk (2) és (5) bekezdése alapján,
 c) 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján
 
 sarkalatosnak minősül.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
