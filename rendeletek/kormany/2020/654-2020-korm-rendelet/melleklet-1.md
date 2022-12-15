@@ -1,8 +1,6 @@
-## 16. §[^5] E rendeletnek az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat megrendezéséhez szükséges létesítményfejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint további sajátos szabályok megállapításáról szóló 654/2020. (XII. 23.) Korm. rendelet módosításáról szóló 656/2021. (XI. 30.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 2. mellékletét a Módr2. hatálybalépésekor[^6] folyamatban lévő közigazgatási ügyekben is alkalmazni kell.
-
 1. melléklet a 654/2020. (XII. 23.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 
@@ -49,6 +47,3 @@
 22. azok az 1–21. pontban nem szereplő azon közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^5]: A 16. §-t a 656/2021. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A hatálybalépés időpontja 2021. december 1.
